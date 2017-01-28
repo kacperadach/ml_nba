@@ -1,0 +1,1604 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJerome James SEA 04/17/2002 SEA vs. MEM W 23 12 5 8 62.5 0 0 - 2 4 50.0 2 2 4 1 0 0 0 2 10
+p2
+aVPredrag Drobnjak SEA 04/17/2002 SEA vs. MEM W 20 12 5 9 55.6 0 0 - 2 2 100.0 1 1 2 0 0 0 1 4 15
+p3
+aVDesmond Mason SEA 04/17/2002 SEA vs. MEM W 39 33 13 16 81.3 0 0 - 7 9 77.8 2 4 6 1 3 0 2 1 18
+p4
+aVVin Baker SEA 04/17/2002 SEA vs. MEM W 26 3 1 8 12.5 0 0 - 1 1 100.0 5 1 6 1 1 0 1 3 9
+p5
+aVAnsu Sesay SEA 04/17/2002 SEA vs. MEM W 9 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 -3
+p6
+aVVladimir Radmanovic SEA 04/17/2002 SEA vs. MEM W 22 7 2 6 33.3 1 1 100.0 2 2 100.0 0 4 4 1 0 0 2 2 4
+p7
+aVEarl Watson SEA 04/17/2002 SEA vs. MEM W 20 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 1 0 1 2 6
+p8
+aVOlumide Oyedeji SEA 04/17/2002 SEA vs. MEM W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -8
+p9
+aVShammond Williams SEA 04/17/2002 SEA vs. MEM W 9 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 1 0 2 0 -14
+p10
+aVGary Payton SEA 04/17/2002 SEA vs. MEM W 33 30 12 18 66.7 2 2 100.0 4 5 80.0 2 2 4 9 1 0 1 3 20
+p11
+aVBrent Barry SEA 04/17/2002 SEA vs. MEM W 34 10 4 8 50.0 2 4 50.0 0 0 - 1 4 5 9 4 0 3 3 18
+p12
+aVVladimir Radmanovic SEA 04/15/2002 SEA @ LAL L 22 6 2 7 28.6 2 4 50.0 0 0 - 1 4 5 3 0 1 0 2 -5
+p13
+aVPredrag Drobnjak SEA 04/15/2002 SEA @ LAL L 29 18 9 15 60.0 0 0 - 0 0 - 0 6 6 0 0 0 1 5 -1
+p14
+aVVin Baker SEA 04/15/2002 SEA @ LAL L 27 9 3 7 42.9 0 0 - 3 4 75.0 3 5 8 2 1 1 2 4 10
+p15
+aVEarl Watson SEA 04/15/2002 SEA @ LAL L 12 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 4 1 0 1 0 6
+p16
+aVBrent Barry SEA 04/15/2002 SEA @ LAL L 30 12 5 9 55.6 2 4 50.0 0 1 0.0 0 1 1 6 3 1 2 1 -18
+p17
+aVDesmond Mason SEA 04/15/2002 SEA @ LAL L 37 12 5 11 45.5 0 0 - 2 3 66.7 1 3 4 1 0 0 1 1 -11
+p18
+aVJerome James SEA 04/15/2002 SEA @ LAL L 10 7 3 5 60.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 4 -17
+p19
+aVAnsu Sesay SEA 04/15/2002 SEA @ LAL L 15 10 4 6 66.7 0 0 - 2 3 66.7 1 1 2 0 0 1 0 5 -8
+p20
+aVShammond Williams SEA 04/15/2002 SEA @ LAL L 15 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 2 11
+p21
+aVGary Payton SEA 04/15/2002 SEA @ LAL L 38 20 7 18 38.9 0 1 0.0 6 7 85.7 1 4 5 8 0 0 3 2 -13
+p22
+aVOlumide Oyedeji SEA 04/15/2002 SEA @ LAL L 3 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 0 0 0 11
+p23
+aVOlumide Oyedeji SEA 04/13/2002 SEA vs. DAL L 8 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 2 0 0 1 10
+p24
+aVDesmond Mason SEA 04/13/2002 SEA vs. DAL L 32 11 4 12 33.3 1 1 100.0 2 2 100.0 0 3 3 0 1 1 2 2 -26
+p25
+aVGary Payton SEA 04/13/2002 SEA vs. DAL L 35 21 8 19 42.1 1 1 100.0 4 4 100.0 3 3 6 7 1 1 3 2 -32
+p26
+aVShammond Williams SEA 04/13/2002 SEA vs. DAL L 16 9 2 5 40.0 1 3 33.3 4 4 100.0 0 2 2 6 0 0 1 1 15
+p27
+aVJerome James SEA 04/13/2002 SEA vs. DAL L 13 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 0 1 1 1 -7
+p28
+aVVin Baker SEA 04/13/2002 SEA vs. DAL L 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -5
+p29
+aVAnsu Sesay SEA 04/13/2002 SEA vs. DAL L 27 9 4 9 44.4 0 0 - 1 3 33.3 0 3 3 1 0 0 0 1 0
+p30
+aVPredrag Drobnjak SEA 04/13/2002 SEA vs. DAL L 22 8 3 6 50.0 0 0 - 2 2 100.0 5 2 7 1 0 0 0 0 -13
+p31
+aVBrent Barry SEA 04/13/2002 SEA vs. DAL L 32 10 1 8 12.5 0 3 0.0 8 8 100.0 1 4 5 5 1 1 0 2 -19
+p32
+aVEarl Watson SEA 04/13/2002 SEA vs. DAL L 13 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 2 0 0 2 1 2
+p33
+aVVladimir Radmanovic SEA 04/13/2002 SEA vs. DAL L 31 12 5 12 41.7 2 2 100.0 0 2 0.0 2 3 5 2 3 0 0 4 -10
+p34
+aVAnsu Sesay SEA 04/09/2002 SEA @ PHX L 19 7 2 5 40.0 0 0 - 3 4 75.0 3 1 4 0 0 0 1 0 -1
+p35
+aVBrent Barry SEA 04/09/2002 SEA @ PHX L 40 18 6 17 35.3 2 7 28.6 4 4 100.0 0 1 1 6 4 0 4 0 -4
+p36
+aVGary Payton SEA 04/09/2002 SEA @ PHX L 43 23 10 15 66.7 2 3 66.7 1 1 100.0 1 6 7 6 1 0 2 3 -4
+p37
+aVVin Baker SEA 04/09/2002 SEA @ PHX L 24 6 3 8 37.5 0 0 - 0 0 - 2 2 4 1 0 0 3 4 1
+p38
+aVVladimir Radmanovic SEA 04/09/2002 SEA @ PHX L 18 11 4 7 57.1 3 5 60.0 0 0 - 1 0 1 2 2 0 2 1 9
+p39
+aVEarl Watson SEA 04/09/2002 SEA @ PHX L 13 1 0 0 - 0 0 - 1 2 50.0 0 2 2 2 2 0 1 1 -6
+p40
+aVJerome James SEA 04/09/2002 SEA @ PHX L 18 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 2 0 2 -6
+p41
+aVPredrag Drobnjak SEA 04/09/2002 SEA @ PHX L 29 14 5 12 41.7 0 0 - 4 4 100.0 2 5 7 3 1 0 0 1 -9
+p42
+aVDesmond Mason SEA 04/09/2002 SEA @ PHX L 36 8 3 12 25.0 0 0 - 2 2 100.0 1 6 7 3 1 0 1 2 -15
+p43
+aVJerome James SEA 04/08/2002 SEA vs. LAC W 29 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 1 2 0 5 -2
+p44
+aVPredrag Drobnjak SEA 04/08/2002 SEA vs. LAC W 39 14 6 10 60.0 0 0 - 2 2 100.0 2 3 5 2 0 2 2 4 20
+p45
+aVBrent Barry SEA 04/08/2002 SEA vs. LAC W 43 14 6 8 75.0 1 1 100.0 1 2 50.0 1 2 3 9 3 3 2 1 14
+p46
+aVDesmond Mason SEA 04/08/2002 SEA vs. LAC W 39 36 16 22 72.7 0 0 - 4 6 66.7 2 5 7 0 1 0 2 2 11
+p47
+aVVin Baker SEA 04/08/2002 SEA vs. LAC W 22 8 4 5 80.0 0 0 - 0 0 - 2 1 3 2 1 0 4 5 -9
+p48
+aVAnsu Sesay SEA 04/08/2002 SEA vs. LAC W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 2 -9
+p49
+aVGary Payton SEA 04/08/2002 SEA vs. LAC W 44 22 10 22 45.5 1 1 100.0 1 1 100.0 1 3 4 13 2 0 3 3 1
+p50
+aVEarl Watson SEA 04/08/2002 SEA vs. LAC W 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 0 0 1 3 -11
+p51
+aVVladimir Radmanovic SEA 04/08/2002 SEA vs. LAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -5
+p52
+aVBrent Barry SEA 04/05/2002 SEA vs. NYK L 39 14 5 14 35.7 1 6 16.7 3 6 50.0 0 10 10 4 3 1 3 2 1
+p53
+aVRandy Livingston SEA 04/05/2002 SEA vs. NYK L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 3
+p54
+aVVin Baker SEA 04/05/2002 SEA vs. NYK L 16 6 3 8 37.5 0 1 0.0 0 0 - 2 2 4 2 0 0 2 3 -5
+p55
+aVJerome James SEA 04/05/2002 SEA vs. NYK L 35 8 4 10 40.0 0 0 - 0 2 0.0 6 3 9 2 2 3 4 3 0
+p56
+aVDesmond Mason SEA 04/05/2002 SEA vs. NYK L 39 9 3 9 33.3 0 1 0.0 3 3 100.0 1 7 8 0 2 0 2 3 2
+p57
+aVOlumide Oyedeji SEA 04/05/2002 SEA vs. NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p58
+aVPredrag Drobnjak SEA 04/05/2002 SEA vs. NYK L 42 19 9 13 69.2 0 0 - 1 1 100.0 2 7 9 0 0 0 3 2 3
+p59
+aVAnsu Sesay SEA 04/05/2002 SEA vs. NYK L 9 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 2 -5
+p60
+aVGary Payton SEA 04/05/2002 SEA vs. NYK L 43 22 7 17 41.2 1 2 50.0 7 10 70.0 1 3 4 13 1 0 3 2 -5
+p61
+aVEarl Watson SEA 04/05/2002 SEA vs. NYK L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -5
+p62
+aVOlumide Oyedeji SEA 04/03/2002 SEA @ SAS L 16 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 0 0 2 5
+p63
+aVShammond Williams SEA 04/03/2002 SEA @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p64
+aVPredrag Drobnjak SEA 04/03/2002 SEA @ SAS L 23 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 1 1 0 1 3 -17
+p65
+aVJerome James SEA 04/03/2002 SEA @ SAS L 23 12 6 12 50.0 0 0 - 0 0 - 3 4 7 0 0 1 0 5 15
+p66
+aVVin Baker SEA 04/03/2002 SEA @ SAS L 33 14 5 10 50.0 0 0 - 4 4 100.0 0 4 4 1 2 0 2 3 -7
+p67
+aVAnsu Sesay SEA 04/03/2002 SEA @ SAS L 13 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 4
+p68
+aVRandy Livingston SEA 04/03/2002 SEA @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p69
+aVDesmond Mason SEA 04/03/2002 SEA @ SAS L 35 9 4 11 36.4 0 0 - 1 2 50.0 2 2 4 0 1 0 1 0 -6
+p70
+aVGary Payton SEA 04/03/2002 SEA @ SAS L 44 24 11 21 52.4 0 2 0.0 2 3 66.7 2 6 8 7 3 0 4 2 2
+p71
+aVEarl Watson SEA 04/03/2002 SEA @ SAS L 14 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 1 0 0 2 0 1
+p72
+aVBrent Barry SEA 04/03/2002 SEA @ SAS L 34 11 5 11 45.5 1 5 20.0 0 0 - 0 5 5 4 3 0 5 1 -7
+p73
+aVRandy Livingston SEA 04/02/2002 SEA @ HOU L 17 6 3 8 37.5 0 1 0.0 0 0 - 2 0 2 4 1 0 0 2 2
+p74
+aVPredrag Drobnjak SEA 04/02/2002 SEA @ HOU L 20 4 2 7 28.6 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -6
+p75
+aVBrent Barry SEA 04/02/2002 SEA @ HOU L 41 13 6 10 60.0 1 4 25.0 0 1 0.0 0 6 6 5 3 0 3 4 -1
+p76
+aVVin Baker SEA 04/02/2002 SEA @ HOU L 25 10 5 11 45.5 0 1 0.0 0 3 0.0 3 1 4 1 0 1 3 6 -3
+p77
+aVGary Payton SEA 04/02/2002 SEA @ HOU L 38 25 11 21 52.4 2 4 50.0 1 2 50.0 5 5 10 11 4 1 1 2 0
+p78
+aVJerome James SEA 04/02/2002 SEA @ HOU L 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 1 4 1
+p79
+aVDesmond Mason SEA 04/02/2002 SEA @ HOU L 38 20 8 18 44.4 1 3 33.3 3 3 100.0 3 1 4 3 1 2 0 2 -5
+p80
+aVOlumide Oyedeji SEA 04/02/2002 SEA @ HOU L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p81
+aVShammond Williams SEA 04/02/2002 SEA @ HOU L 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 1 -6
+p82
+aVAnsu Sesay SEA 04/02/2002 SEA @ HOU L 28 12 5 12 41.7 0 0 - 2 2 100.0 2 2 4 1 2 1 1 3 3
+p83
+aVBrent Barry SEA 03/30/2002 SEA @ POR W 38 22 9 11 81.8 4 5 80.0 0 0 - 0 5 5 5 0 0 3 2 1
+p84
+aVShammond Williams SEA 03/30/2002 SEA @ POR W 14 9 3 6 50.0 1 3 33.3 2 2 100.0 0 3 3 3 1 0 2 0 5
+p85
+aVJerome James SEA 03/30/2002 SEA @ POR W 35 6 2 7 28.6 0 0 - 2 2 100.0 4 6 10 4 1 3 2 3 13
+p86
+aVVin Baker SEA 03/30/2002 SEA @ POR W 19 12 3 6 50.0 0 0 - 6 6 100.0 2 2 4 0 0 4 1 3 -8
+p87
+aVPredrag Drobnjak SEA 03/30/2002 SEA @ POR W 26 4 1 9 11.1 0 0 - 2 2 100.0 3 5 8 0 0 0 0 2 7
+p88
+aVOlumide Oyedeji SEA 03/30/2002 SEA @ POR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p89
+aVAnsu Sesay SEA 03/30/2002 SEA @ POR W 12 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 2 0 0 0 2 -7
+p90
+aVRandy Livingston SEA 03/30/2002 SEA @ POR W 14 0 0 3 0.0 0 0 - 0 0 - 1 0 1 3 0 0 1 0 0
+p91
+aVDesmond Mason SEA 03/30/2002 SEA @ POR W 40 14 6 13 46.2 0 2 0.0 2 2 100.0 1 8 9 2 0 0 2 0 5
+p92
+aVGary Payton SEA 03/30/2002 SEA @ POR W 36 18 8 19 42.1 1 4 25.0 1 2 50.0 0 4 4 3 0 0 1 2 4
+p93
+aVRandy Livingston SEA 03/29/2002 SEA vs. SAS W 14 0 0 5 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 16
+p94
+aVDesmond Mason SEA 03/29/2002 SEA vs. SAS W 38 10 4 12 33.3 0 0 - 2 3 66.7 0 3 3 3 3 0 1 2 -3
+p95
+aVBrent Barry SEA 03/29/2002 SEA vs. SAS W 40 11 5 12 41.7 0 3 0.0 1 2 50.0 0 9 9 4 1 1 5 2 -5
+p96
+aVVin Baker SEA 03/29/2002 SEA vs. SAS W 37 9 4 7 57.1 0 0 - 1 2 50.0 1 4 5 0 3 0 0 5 -7
+p97
+aVPredrag Drobnjak SEA 03/29/2002 SEA vs. SAS W 28 6 3 10 30.0 0 0 - 0 0 - 3 1 4 1 1 1 1 2 -10
+p98
+aVJerome James SEA 03/29/2002 SEA vs. SAS W 15 11 5 6 83.3 0 0 - 1 2 50.0 2 4 6 1 0 2 0 5 6
+p99
+aVGary Payton SEA 03/29/2002 SEA vs. SAS W 39 19 9 22 40.9 0 4 0.0 1 2 50.0 2 3 5 8 1 0 1 1 3
+p100
+aVShammond Williams SEA 03/29/2002 SEA vs. SAS W 13 9 4 8 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 1 0
+p101
+aVOlumide Oyedeji SEA 03/29/2002 SEA vs. SAS W 15 4 2 2 100.0 0 0 - 0 0 - 2 4 6 1 0 0 1 2 15
+p102
+aVPredrag Drobnjak SEA 03/27/2002 SEA vs. MEM W 38 8 3 10 30.0 0 0 - 2 2 100.0 2 4 6 2 2 3 1 4 17
+p103
+aVOlumide Oyedeji SEA 03/27/2002 SEA vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p104
+aVDesmond Mason SEA 03/27/2002 SEA vs. MEM W 38 14 5 14 35.7 0 0 - 4 4 100.0 1 5 6 3 0 0 3 1 16
+p105
+aVRashard Lewis SEA 03/27/2002 SEA vs. MEM W 20 12 5 6 83.3 2 2 100.0 0 0 - 3 5 8 1 0 1 1 0 -2
+p106
+aVGary Payton SEA 03/27/2002 SEA vs. MEM W 39 32 14 24 58.3 0 1 0.0 4 6 66.7 2 2 4 9 0 0 5 2 7
+p107
+aVBrent Barry SEA 03/27/2002 SEA vs. MEM W 42 17 7 12 58.3 2 5 40.0 1 1 100.0 0 5 5 9 1 0 2 4 20
+p108
+aVEarl Watson SEA 03/27/2002 SEA vs. MEM W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p109
+aVJerome James SEA 03/27/2002 SEA vs. MEM W 27 2 1 5 20.0 0 0 - 0 2 0.0 1 6 7 1 1 3 1 5 16
+p110
+aVVin Baker SEA 03/27/2002 SEA vs. MEM W 20 5 2 3 66.7 0 0 - 1 2 50.0 2 6 8 0 0 0 3 5 -2
+p111
+aVRandy Livingston SEA 03/27/2002 SEA vs. MEM W 13 6 1 5 20.0 0 1 0.0 4 4 100.0 1 3 4 1 0 0 0 0 4
+p112
+aVRashard Lewis SEA 03/25/2002 SEA vs. UTA W 43 28 10 18 55.6 0 2 0.0 8 11 72.7 5 6 11 2 3 0 1 3 13
+p113
+aVDesmond Mason SEA 03/25/2002 SEA vs. UTA W 27 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 0 2 0 3 1 21
+p114
+aVVin Baker SEA 03/25/2002 SEA vs. UTA W 30 8 4 9 44.4 0 0 - 0 0 - 5 2 7 1 1 1 1 5 11
+p115
+aVPredrag Drobnjak SEA 03/25/2002 SEA vs. UTA W 35 11 5 8 62.5 0 0 - 1 2 50.0 1 5 6 1 0 1 3 5 8
+p116
+aVJerome James SEA 03/25/2002 SEA vs. UTA W 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 1 4 5 -10
+p117
+aVRandy Livingston SEA 03/25/2002 SEA vs. UTA W 17 5 2 3 66.7 0 1 0.0 1 2 50.0 0 1 1 3 0 0 0 2 11
+p118
+aVOlumide Oyedeji SEA 03/25/2002 SEA vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p119
+aVBrent Barry SEA 03/25/2002 SEA vs. UTA W 40 18 7 13 53.8 1 4 25.0 3 4 75.0 0 3 3 6 4 1 1 3 8
+p120
+aVGary Payton SEA 03/25/2002 SEA vs. UTA W 38 24 8 17 47.1 1 1 100.0 7 7 100.0 0 1 1 7 2 0 4 2 10
+p121
+aVPredrag Drobnjak SEA 03/23/2002 SEA @ DEN L 32 16 6 13 46.2 0 0 - 4 6 66.7 2 4 6 0 0 3 0 3 7
+p122
+aVShammond Williams SEA 03/23/2002 SEA @ DEN L 9 5 2 4 50.0 1 3 33.3 0 1 0.0 0 1 1 1 1 0 0 1 6
+p123
+aVJerome James SEA 03/23/2002 SEA @ DEN L 12 2 1 2 50.0 0 0 - 0 0 - 3 2 5 1 1 1 1 3 1
+p124
+aVDesmond Mason SEA 03/23/2002 SEA @ DEN L 36 6 2 9 22.2 0 0 - 2 2 100.0 0 3 3 3 0 1 1 2 -4
+p125
+aVVin Baker SEA 03/23/2002 SEA @ DEN L 17 9 4 11 36.4 0 0 - 1 1 100.0 5 2 7 0 0 0 0 3 -7
+p126
+aVBrent Barry SEA 03/23/2002 SEA @ DEN L 40 15 3 11 27.3 1 7 14.3 8 8 100.0 0 2 2 3 2 1 3 2 6
+p127
+aVGary Payton SEA 03/23/2002 SEA @ DEN L 36 12 5 14 35.7 0 2 0.0 2 3 66.7 1 3 4 7 1 0 3 2 -10
+p128
+aVRashard Lewis SEA 03/23/2002 SEA @ DEN L 44 16 6 17 35.3 2 5 40.0 2 2 100.0 4 11 15 2 2 0 3 2 -5
+p129
+aVRandy Livingston SEA 03/23/2002 SEA @ DEN L 15 4 1 4 25.0 0 2 0.0 2 2 100.0 1 1 2 1 1 2 0 2 -9
+p130
+aVArt Long SEA 03/22/2002 SEA vs. HOU W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 5
+p131
+aVShammond Williams SEA 03/22/2002 SEA vs. HOU W 6 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 9
+p132
+aVDesmond Mason SEA 03/22/2002 SEA vs. HOU W 28 22 9 14 64.3 0 1 0.0 4 4 100.0 0 2 2 5 1 0 0 0 21
+p133
+aVGary Payton SEA 03/22/2002 SEA vs. HOU W 29 20 8 11 72.7 0 0 - 4 5 80.0 1 3 4 9 2 0 1 2 19
+p134
+aVOlumide Oyedeji SEA 03/22/2002 SEA vs. HOU W 3 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 10
+p135
+aVRashard Lewis SEA 03/22/2002 SEA vs. HOU W 30 13 5 9 55.6 1 2 50.0 2 3 66.7 0 5 5 3 2 0 0 2 17
+p136
+aVJerome James SEA 03/22/2002 SEA vs. HOU W 22 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 0 2 2 4 9
+p137
+aVPredrag Drobnjak SEA 03/22/2002 SEA vs. HOU W 31 10 5 13 38.5 0 0 - 0 2 0.0 5 6 11 3 0 2 1 0 12
+p138
+aVVin Baker SEA 03/22/2002 SEA vs. HOU W 20 6 3 4 75.0 0 0 - 0 1 0.0 1 4 5 0 0 1 4 4 14
+p139
+aVBrent Barry SEA 03/22/2002 SEA vs. HOU W 36 21 7 11 63.6 3 4 75.0 4 4 100.0 0 4 4 7 4 0 2 4 21
+p140
+aVRandy Livingston SEA 03/22/2002 SEA vs. HOU W 23 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 5 2 0 0 0 13
+p141
+aVPredrag Drobnjak SEA 03/19/2002 SEA vs. GSW W 26 9 4 7 57.1 0 0 - 1 2 50.0 2 4 6 4 0 1 1 4 21
+p142
+aVRandy Livingston SEA 03/19/2002 SEA vs. GSW W 22 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 2 1 0 0 2 0
+p143
+aVRashard Lewis SEA 03/19/2002 SEA vs. GSW W 33 26 12 18 66.7 0 2 0.0 2 3 66.7 1 2 3 1 3 0 2 2 24
+p144
+aVBrent Barry SEA 03/19/2002 SEA vs. GSW W 39 19 6 8 75.0 2 3 66.7 5 7 71.4 2 2 4 9 2 0 2 2 16
+p145
+aVShammond Williams SEA 03/19/2002 SEA vs. GSW W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -1
+p146
+aVArt Long SEA 03/19/2002 SEA vs. GSW W 15 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 1 0 2 2 2 -3
+p147
+aVGary Payton SEA 03/19/2002 SEA vs. GSW W 32 21 9 17 52.9 0 2 0.0 3 3 100.0 2 1 3 12 0 0 1 1 19
+p148
+aVOlumide Oyedeji SEA 03/19/2002 SEA vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -3
+p149
+aVVin Baker SEA 03/19/2002 SEA vs. GSW W 22 3 1 4 25.0 0 0 - 1 2 50.0 4 3 7 0 0 0 2 4 -4
+p150
+aVJerome James SEA 03/19/2002 SEA vs. GSW W 15 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 1 2 1 3 21
+p151
+aVDesmond Mason SEA 03/19/2002 SEA vs. GSW W 30 12 5 12 41.7 0 1 0.0 2 2 100.0 1 1 2 1 0 0 2 2 -5
+p152
+aVPredrag Drobnjak SEA 03/16/2002 SEA @ LAC W 31 18 8 12 66.7 0 0 - 2 2 100.0 2 2 4 1 0 0 1 3 14
+p153
+aVRandy Livingston SEA 03/16/2002 SEA @ LAC W 23 6 2 6 33.3 0 0 - 2 2 100.0 3 5 8 3 2 0 0 1 9
+p154
+aVArt Long SEA 03/16/2002 SEA @ LAC W 14 6 3 3 100.0 0 0 - 0 0 - 3 1 4 1 0 0 0 2 -5
+p155
+aVJerome James SEA 03/16/2002 SEA @ LAC W 34 6 3 7 42.9 0 0 - 0 0 - 4 2 6 0 0 6 0 2 5
+p156
+aVBrent Barry SEA 03/16/2002 SEA @ LAC W 40 19 5 15 33.3 1 10 10.0 8 8 100.0 0 4 4 6 2 2 1 2 3
+p157
+aVGary Payton SEA 03/16/2002 SEA @ LAC W 36 23 7 19 36.8 1 2 50.0 8 10 80.0 0 5 5 8 4 0 0 2 -2
+p158
+aVDesmond Mason SEA 03/16/2002 SEA @ LAC W 30 15 5 9 55.6 1 2 50.0 4 6 66.7 0 8 8 1 0 0 3 1 13
+p159
+aVShammond Williams SEA 03/16/2002 SEA @ LAC W 18 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 0 -5
+p160
+aVOlumide Oyedeji SEA 03/16/2002 SEA @ LAC W 14 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 1 1 1 8
+p161
+aVRashard Lewis SEA 03/15/2002 SEA vs. WAS L 19 4 0 4 0.0 0 1 0.0 4 4 100.0 0 1 1 2 0 1 0 1 7
+p162
+aVPredrag Drobnjak SEA 03/15/2002 SEA vs. WAS L 14 0 0 6 0.0 0 0 - 0 0 - 3 2 5 1 1 0 1 2 1
+p163
+aVJerome James SEA 03/15/2002 SEA vs. WAS L 22 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 2 1 3 5 6
+p164
+aVGary Payton SEA 03/15/2002 SEA vs. WAS L 45 29 11 23 47.8 0 0 - 7 9 77.8 0 3 3 9 0 0 3 2 -6
+p165
+aVArt Long SEA 03/15/2002 SEA vs. WAS L 27 4 2 6 33.3 0 0 - 0 0 - 2 3 5 1 0 0 2 6 -10
+p166
+aVOlumide Oyedeji SEA 03/15/2002 SEA vs. WAS L 12 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 0 2 0 1 3 -1
+p167
+aVDesmond Mason SEA 03/15/2002 SEA vs. WAS L 41 17 5 10 50.0 1 1 100.0 6 8 75.0 2 7 9 4 0 0 0 3 -3
+p168
+aVRandy Livingston SEA 03/15/2002 SEA vs. WAS L 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p169
+aVShammond Williams SEA 03/15/2002 SEA vs. WAS L 20 7 2 6 33.3 1 3 33.3 2 2 100.0 0 2 2 3 0 1 0 1 -15
+p170
+aVBrent Barry SEA 03/15/2002 SEA vs. WAS L 38 31 9 12 75.0 4 5 80.0 9 10 90.0 0 2 2 2 1 0 1 2 -1
+p171
+aVOlumide Oyedeji SEA 03/12/2002 SEA @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p172
+aVBrent Barry SEA 03/12/2002 SEA @ HOU L 33 20 7 12 58.3 3 5 60.0 3 3 100.0 0 5 5 3 1 0 1 4 -5
+p173
+aVDesmond Mason SEA 03/12/2002 SEA @ HOU L 37 18 8 16 50.0 0 1 0.0 2 2 100.0 0 2 2 0 1 0 1 4 5
+p174
+aVShammond Williams SEA 03/12/2002 SEA @ HOU L 17 2 0 6 0.0 0 2 0.0 2 2 100.0 0 3 3 2 0 0 0 1 -9
+p175
+aVRashard Lewis SEA 03/12/2002 SEA @ HOU L 45 11 5 14 35.7 0 2 0.0 1 2 50.0 4 6 10 1 0 0 3 5 1
+p176
+aVGary Payton SEA 03/12/2002 SEA @ HOU L 38 24 12 22 54.5 0 4 0.0 0 0 - 0 6 6 10 0 0 2 3 4
+p177
+aVArt Long SEA 03/12/2002 SEA @ HOU L 21 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 2 0 0 2 2 -6
+p178
+aVPredrag Drobnjak SEA 03/12/2002 SEA @ HOU L 20 10 5 7 71.4 0 1 0.0 0 0 - 2 3 5 1 0 0 0 2 4
+p179
+aVJerome James SEA 03/12/2002 SEA @ HOU L 26 10 5 7 71.4 0 0 - 0 2 0.0 3 6 9 2 2 2 0 1 -5
+p180
+aVPredrag Drobnjak SEA 03/11/2002 SEA @ DAL L 16 4 2 4 50.0 0 0 - 0 1 0.0 2 1 3 0 0 0 2 3 -2
+p181
+aVGary Payton SEA 03/11/2002 SEA @ DAL L 40 22 10 19 52.6 1 1 100.0 1 1 100.0 1 3 4 7 2 1 3 4 -14
+p182
+aVOlumide Oyedeji SEA 03/11/2002 SEA @ DAL L 6 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -2
+p183
+aVDesmond Mason SEA 03/11/2002 SEA @ DAL L 43 25 7 14 50.0 0 2 0.0 11 11 100.0 2 3 5 0 1 1 1 5 -10
+p184
+aVShammond Williams SEA 03/11/2002 SEA @ DAL L 30 11 5 8 62.5 1 2 50.0 0 0 - 0 0 0 2 0 0 1 1 0
+p185
+aVRashard Lewis SEA 03/11/2002 SEA @ DAL L 39 17 5 12 41.7 1 2 50.0 6 6 100.0 3 7 10 5 2 0 2 2 -6
+p186
+aVBrent Barry SEA 03/11/2002 SEA @ DAL L 40 14 4 12 33.3 1 6 16.7 5 5 100.0 2 4 6 3 5 2 2 4 -16
+p187
+aVRandy Livingston SEA 03/11/2002 SEA @ DAL L 5 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 4
+p188
+aVArt Long SEA 03/11/2002 SEA @ DAL L 22 12 5 7 71.4 0 0 - 2 6 33.3 2 5 7 1 0 0 1 3 -9
+p189
+aVDesmond Mason SEA 03/09/2002 SEA vs. NJN W 33 21 8 11 72.7 1 1 100.0 4 4 100.0 0 5 5 1 0 1 1 2 -3
+p190
+aVPredrag Drobnjak SEA 03/09/2002 SEA vs. NJN W 20 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -4
+p191
+aVJerome James SEA 03/09/2002 SEA vs. NJN W 24 6 1 7 14.3 0 0 - 4 4 100.0 3 5 8 2 0 2 4 3 5
+p192
+aVArt Long SEA 03/09/2002 SEA vs. NJN W 29 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 2 1 1 0 5 13
+p193
+aVRashard Lewis SEA 03/09/2002 SEA vs. NJN W 38 20 7 12 58.3 2 4 50.0 4 5 80.0 2 5 7 0 2 0 2 1 7
+p194
+aVGary Payton SEA 03/09/2002 SEA vs. NJN W 35 21 9 20 45.0 0 3 0.0 3 4 75.0 0 6 6 8 1 1 3 2 7
+p195
+aVBrent Barry SEA 03/09/2002 SEA vs. NJN W 41 11 4 9 44.4 1 5 20.0 2 2 100.0 0 10 10 7 1 0 1 3 15
+p196
+aVShammond Williams SEA 03/09/2002 SEA vs. NJN W 20 2 0 6 0.0 0 2 0.0 2 2 100.0 0 1 1 6 1 0 0 1 -10
+p197
+aVArt Long SEA 03/07/2002 SEA vs. CHH W 12 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 1 0 1 0 2 2
+p198
+aVPredrag Drobnjak SEA 03/07/2002 SEA vs. CHH W 23 11 5 9 55.6 0 0 - 1 2 50.0 1 1 2 0 0 3 2 3 -5
+p199
+aVJerome James SEA 03/07/2002 SEA vs. CHH W 17 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 0 0 4 1 4 0
+p200
+aVDesmond Mason SEA 03/07/2002 SEA vs. CHH W 31 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 1 2 0 1 3 9
+p201
+aVBrent Barry SEA 03/07/2002 SEA vs. CHH W 33 9 3 11 27.3 1 4 25.0 2 2 100.0 1 6 7 4 1 1 2 6 4
+p202
+aVRashard Lewis SEA 03/07/2002 SEA vs. CHH W 40 14 6 13 46.2 2 5 40.0 0 0 - 1 5 6 1 1 0 2 4 1
+p203
+aVGary Payton SEA 03/07/2002 SEA vs. CHH W 45 19 8 23 34.8 0 1 0.0 3 4 75.0 1 6 7 9 1 1 2 2 0
+p204
+aVVladimir Radmanovic SEA 03/07/2002 SEA vs. CHH W 35 12 4 10 40.0 2 4 50.0 2 2 100.0 1 5 6 2 0 1 3 1 -2
+p205
+aVShammond Williams SEA 03/07/2002 SEA vs. CHH W 29 16 5 6 83.3 3 4 75.0 3 4 75.0 2 6 8 3 1 1 1 2 6
+p206
+aVVladimir Radmanovic SEA 03/05/2002 SEA vs. MIN W 41 21 9 12 75.0 3 4 75.0 0 0 - 1 8 9 1 3 1 1 2 8
+p207
+aVShammond Williams SEA 03/05/2002 SEA vs. MIN W 29 8 3 9 33.3 2 7 28.6 0 1 0.0 1 2 3 5 0 0 0 4 10
+p208
+aVDesmond Mason SEA 03/05/2002 SEA vs. MIN W 29 11 4 9 44.4 0 3 0.0 3 3 100.0 1 4 5 2 1 0 2 4 3
+p209
+aVJerome James SEA 03/05/2002 SEA vs. MIN W 20 8 4 5 80.0 0 0 - 0 0 - 1 5 6 1 0 1 1 4 24
+p210
+aVGary Payton SEA 03/05/2002 SEA vs. MIN W 40 18 6 25 24.0 1 9 11.1 5 8 62.5 2 4 6 12 3 0 1 2 20
+p211
+aVArt Long SEA 03/05/2002 SEA vs. MIN W 19 9 4 5 80.0 0 0 - 1 2 50.0 5 1 6 0 0 1 2 1 -9
+p212
+aVEarl Watson SEA 03/05/2002 SEA vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 1 2
+p213
+aVOlumide Oyedeji SEA 03/05/2002 SEA vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p214
+aVRashard Lewis SEA 03/05/2002 SEA vs. MIN W 42 16 6 15 40.0 4 7 57.1 0 1 0.0 1 4 5 2 2 1 0 3 21
+p215
+aVPredrag Drobnjak SEA 03/05/2002 SEA vs. MIN W 16 6 3 8 37.5 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -7
+p216
+aVJerome James SEA 03/03/2002 SEA @ MEM W 19 5 2 8 25.0 0 0 - 1 4 25.0 3 1 4 0 0 4 1 4 11
+p217
+aVDesmond Mason SEA 03/03/2002 SEA @ MEM W 26 12 5 10 50.0 0 0 - 2 2 100.0 1 3 4 0 2 1 1 2 9
+p218
+aVGary Payton SEA 03/03/2002 SEA @ MEM W 33 20 7 13 53.8 0 3 0.0 6 7 85.7 0 6 6 13 3 1 2 1 25
+p219
+aVRashard Lewis SEA 03/03/2002 SEA @ MEM W 32 14 7 14 50.0 0 3 0.0 0 0 - 0 6 6 1 1 1 0 2 18
+p220
+aVPredrag Drobnjak SEA 03/03/2002 SEA @ MEM W 21 10 5 7 71.4 0 0 - 0 0 - 3 5 8 2 1 0 1 3 12
+p221
+aVBrent Barry SEA 03/03/2002 SEA @ MEM W 31 11 5 10 50.0 1 4 25.0 0 0 - 1 4 5 7 0 0 0 1 15
+p222
+aVArt Long SEA 03/03/2002 SEA @ MEM W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 0 6
+p223
+aVOlumide Oyedeji SEA 03/03/2002 SEA @ MEM W 7 5 2 3 66.7 0 0 - 1 2 50.0 0 6 6 0 0 0 1 2 0
+p224
+aVVladimir Radmanovic SEA 03/03/2002 SEA @ MEM W 35 13 5 7 71.4 1 1 100.0 2 4 50.0 0 6 6 2 2 1 0 2 17
+p225
+aVEarl Watson SEA 03/03/2002 SEA @ MEM W 28 6 3 6 50.0 0 0 - 0 0 - 1 1 2 2 1 0 0 4 12
+p226
+aVPredrag Drobnjak SEA 03/01/2002 SEA @ NYK L 25 10 4 8 50.0 0 0 - 2 2 100.0 3 2 5 0 0 0 2 1 -10
+p227
+aVEarl Watson SEA 03/01/2002 SEA @ NYK L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -16
+p228
+aVArt Long SEA 03/01/2002 SEA @ NYK L 14 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 4 -6
+p229
+aVBrent Barry SEA 03/01/2002 SEA @ NYK L 40 17 6 11 54.5 4 7 57.1 1 1 100.0 1 14 15 7 1 0 1 1 8
+p230
+aVGary Payton SEA 03/01/2002 SEA @ NYK L 43 21 8 19 42.1 1 4 25.0 4 6 66.7 3 2 5 5 4 0 2 1 5
+p231
+aVShammond Williams SEA 03/01/2002 SEA @ NYK L 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 3
+p232
+aVDesmond Mason SEA 03/01/2002 SEA @ NYK L 31 7 3 8 37.5 0 1 0.0 1 3 33.3 1 1 2 2 0 0 1 3 -10
+p233
+aVJerome James SEA 03/01/2002 SEA @ NYK L 12 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 2 5 -2
+p234
+aVVladimir Radmanovic SEA 03/01/2002 SEA @ NYK L 24 2 1 6 16.7 0 3 0.0 0 0 - 0 5 5 2 4 0 2 5 7
+p235
+aVRashard Lewis SEA 03/01/2002 SEA @ NYK L 35 22 7 20 35.0 3 10 30.0 5 6 83.3 0 1 1 4 0 0 0 1 11
+p236
+aVVladimir Radmanovic SEA 02/27/2002 SEA @ ATL W 32 8 4 10 40.0 0 5 0.0 0 0 - 1 5 6 4 2 1 2 2 11
+p237
+aVGary Payton SEA 02/27/2002 SEA @ ATL W 36 14 6 19 31.6 0 4 0.0 2 2 100.0 1 2 3 12 1 1 0 3 14
+p238
+aVArt Long SEA 02/27/2002 SEA @ ATL W 15 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 1 1 1 4 7
+p239
+aVShammond Williams SEA 02/27/2002 SEA @ ATL W 12 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 2 0 0 4 0 3
+p240
+aVDesmond Mason SEA 02/27/2002 SEA @ ATL W 26 10 5 7 71.4 0 0 - 0 0 - 0 3 3 0 0 0 0 2 9
+p241
+aVEarl Watson SEA 02/27/2002 SEA @ ATL W 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 11
+p242
+aVPredrag Drobnjak SEA 02/27/2002 SEA @ ATL W 22 16 7 9 77.8 0 0 - 2 3 66.7 1 5 6 1 0 1 0 0 8
+p243
+aVBrent Barry SEA 02/27/2002 SEA @ ATL W 33 12 4 9 44.4 2 6 33.3 2 2 100.0 1 3 4 4 5 0 4 0 6
+p244
+aVRashard Lewis SEA 02/27/2002 SEA @ ATL W 30 19 7 15 46.7 2 3 66.7 3 5 60.0 3 4 7 1 1 0 1 2 9
+p245
+aVJerome James SEA 02/27/2002 SEA @ ATL W 18 10 4 5 80.0 0 0 - 2 2 100.0 0 3 3 0 0 2 2 3 7
+p246
+aVPredrag Drobnjak SEA 02/26/2002 SEA @ CLE W 25 15 7 14 50.0 0 0 - 1 1 100.0 0 2 2 0 1 0 2 3 8
+p247
+aVRashard Lewis SEA 02/26/2002 SEA @ CLE W 23 12 4 9 44.4 2 5 40.0 2 2 100.0 1 0 1 0 0 1 2 3 15
+p248
+aVJerome James SEA 02/26/2002 SEA @ CLE W 19 8 3 6 50.0 0 0 - 2 2 100.0 3 2 5 0 2 0 3 4 12
+p249
+aVDesmond Mason SEA 02/26/2002 SEA @ CLE W 33 16 5 10 50.0 0 0 - 6 8 75.0 1 4 5 3 0 0 2 2 14
+p250
+aVShammond Williams SEA 02/26/2002 SEA @ CLE W 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p251
+aVGary Payton SEA 02/26/2002 SEA @ CLE W 33 25 11 16 68.8 1 2 50.0 2 3 66.7 3 3 6 8 3 0 2 2 18
+p252
+aVVladimir Radmanovic SEA 02/26/2002 SEA @ CLE W 31 9 3 8 37.5 1 3 33.3 2 2 100.0 2 4 6 2 1 0 0 3 12
+p253
+aVArt Long SEA 02/26/2002 SEA @ CLE W 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 3 -1
+p254
+aVBrent Barry SEA 02/26/2002 SEA @ CLE W 37 16 5 8 62.5 4 5 80.0 2 2 100.0 1 7 8 11 1 0 3 2 9
+p255
+aVEarl Watson SEA 02/26/2002 SEA @ CLE W 23 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 4 2 0 1 0 11
+p256
+aVOlumide Oyedeji SEA 02/26/2002 SEA @ CLE W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p257
+aVEarl Watson SEA 02/24/2002 SEA @ TOR W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p258
+aVShammond Williams SEA 02/24/2002 SEA @ TOR W 13 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 1 2 0 1 1 9
+p259
+aVGary Payton SEA 02/24/2002 SEA @ TOR W 39 22 8 17 47.1 2 4 50.0 4 4 100.0 1 5 6 8 1 0 0 3 7
+p260
+aVPredrag Drobnjak SEA 02/24/2002 SEA @ TOR W 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -13
+p261
+aVJerome James SEA 02/24/2002 SEA @ TOR W 30 18 8 12 66.7 0 0 - 2 3 66.7 6 6 12 1 0 3 3 3 10
+p262
+aVArt Long SEA 02/24/2002 SEA @ TOR W 8 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 -4
+p263
+aVVladimir Radmanovic SEA 02/24/2002 SEA @ TOR W 27 9 3 5 60.0 2 3 66.7 1 2 50.0 0 4 4 3 3 0 3 0 1
+p264
+aVRashard Lewis SEA 02/24/2002 SEA @ TOR W 32 21 7 11 63.6 2 2 100.0 5 6 83.3 2 3 5 2 1 0 2 3 20
+p265
+aVBrent Barry SEA 02/24/2002 SEA @ TOR W 41 23 9 14 64.3 4 6 66.7 1 3 33.3 0 6 6 7 1 0 2 0 10
+p266
+aVDesmond Mason SEA 02/24/2002 SEA @ TOR W 37 6 2 8 25.0 0 1 0.0 2 2 100.0 1 2 3 0 1 1 2 2 13
+p267
+aVDesmond Mason SEA 02/22/2002 SEA vs. ATL W 28 17 5 10 50.0 2 4 50.0 5 6 83.3 1 4 5 1 1 1 0 5 0
+p268
+aVEarl Watson SEA 02/22/2002 SEA vs. ATL W 9 0 0 2 0.0 0 0 - 0 0 - 2 0 2 2 0 0 2 2 -6
+p269
+aVJerome James SEA 02/22/2002 SEA vs. ATL W 22 9 4 6 66.7 0 0 - 1 2 50.0 4 3 7 0 1 1 2 4 10
+p270
+aVBrent Barry SEA 02/22/2002 SEA vs. ATL W 36 17 6 9 66.7 4 5 80.0 1 1 100.0 2 4 6 3 2 1 2 2 13
+p271
+aVShammond Williams SEA 02/22/2002 SEA vs. ATL W 11 6 3 6 50.0 0 2 0.0 0 0 - 0 4 4 1 0 0 3 0 1
+p272
+aVRashard Lewis SEA 02/22/2002 SEA vs. ATL W 40 13 5 13 38.5 2 5 40.0 1 2 50.0 1 5 6 1 2 0 0 1 8
+p273
+aVVladimir Radmanovic SEA 02/22/2002 SEA vs. ATL W 29 9 2 6 33.3 2 4 50.0 3 5 60.0 0 3 3 1 2 1 1 3 -2
+p274
+aVGary Payton SEA 02/22/2002 SEA vs. ATL W 40 21 7 19 36.8 0 4 0.0 7 10 70.0 2 3 5 8 2 0 0 1 0
+p275
+aVPredrag Drobnjak SEA 02/22/2002 SEA vs. ATL W 12 2 1 6 16.7 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -16
+p276
+aVArt Long SEA 02/22/2002 SEA vs. ATL W 14 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 2 1 0 1 1 7
+p277
+aVVladimir Radmanovic SEA 02/20/2002 SEA vs. POR L 32 9 4 8 50.0 1 4 25.0 0 2 0.0 0 5 5 0 0 0 1 2 1
+p278
+aVRashard Lewis SEA 02/20/2002 SEA vs. POR L 40 24 9 16 56.3 1 5 20.0 5 5 100.0 2 3 5 2 6 3 2 2 -6
+p279
+aVJerome James SEA 02/20/2002 SEA vs. POR L 21 4 2 5 40.0 0 0 - 0 2 0.0 0 3 3 0 0 3 1 2 1
+p280
+aVArt Long SEA 02/20/2002 SEA vs. POR L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 0
+p281
+aVEarl Watson SEA 02/20/2002 SEA vs. POR L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 2 -5
+p282
+aVPredrag Drobnjak SEA 02/20/2002 SEA vs. POR L 24 8 4 9 44.4 0 0 - 0 0 - 2 4 6 2 0 0 1 3 -9
+p283
+aVBrent Barry SEA 02/20/2002 SEA vs. POR L 35 12 5 12 41.7 2 7 28.6 0 0 - 2 5 7 7 1 0 2 4 -5
+p284
+aVDesmond Mason SEA 02/20/2002 SEA vs. POR L 26 12 6 12 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 4 -7
+p285
+aVGary Payton SEA 02/20/2002 SEA vs. POR L 43 15 5 16 31.3 1 3 33.3 4 6 66.7 0 6 6 9 3 0 2 0 0
+p286
+aVVladimir Radmanovic SEA 02/19/2002 SEA @ PHX W 27 7 3 5 60.0 1 3 33.3 0 0 - 0 3 3 5 1 0 1 1 13
+p287
+aVEarl Watson SEA 02/19/2002 SEA @ PHX W 16 4 2 2 100.0 0 0 - 0 0 - 0 0 0 5 1 0 0 0 6
+p288
+aVGary Payton SEA 02/19/2002 SEA @ PHX W 40 16 7 17 41.2 2 4 50.0 0 0 - 1 1 2 5 2 1 3 1 7
+p289
+aVPredrag Drobnjak SEA 02/19/2002 SEA @ PHX W 28 15 6 10 60.0 0 0 - 3 4 75.0 0 2 2 2 2 1 1 4 -1
+p290
+aVArt Long SEA 02/19/2002 SEA @ PHX W 15 4 2 2 100.0 0 0 - 0 0 - 0 5 5 1 0 1 0 1 6
+p291
+aVJerome James SEA 02/19/2002 SEA @ PHX W 18 10 5 7 71.4 0 0 - 0 0 - 0 2 2 1 0 0 1 4 5
+p292
+aVDesmond Mason SEA 02/19/2002 SEA @ PHX W 26 11 5 9 55.6 1 3 33.3 0 0 - 0 2 2 2 0 1 2 3 3
+p293
+aVRashard Lewis SEA 02/19/2002 SEA @ PHX W 30 18 6 14 42.9 0 3 0.0 6 6 100.0 1 9 10 2 5 2 2 2 10
+p294
+aVBrent Barry SEA 02/19/2002 SEA @ PHX W 40 18 5 8 62.5 1 3 33.3 7 7 100.0 0 5 5 6 1 1 2 3 11
+p295
+aVGary Payton SEA 02/17/2002 SEA @ SAC W 44 31 11 17 64.7 2 3 66.7 7 8 87.5 0 5 5 13 3 1 2 4 7
+p296
+aVEarl Watson SEA 02/17/2002 SEA @ SAC W 19 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 2 0 1 1 1
+p297
+aVJerome James SEA 02/17/2002 SEA @ SAC W 19 8 4 6 66.7 0 0 - 0 0 - 4 5 9 1 0 2 1 4 10
+p298
+aVDesmond Mason SEA 02/17/2002 SEA @ SAC W 29 15 6 9 66.7 0 0 - 3 4 75.0 1 4 5 3 1 0 1 3 12
+p299
+aVRashard Lewis SEA 02/17/2002 SEA @ SAC W 34 26 8 18 44.4 2 5 40.0 8 9 88.9 4 5 9 0 0 1 1 1 10
+p300
+aVArt Long SEA 02/17/2002 SEA @ SAC W 15 4 2 5 40.0 0 0 - 0 2 0.0 2 0 2 2 0 2 0 4 1
+p301
+aVPredrag Drobnjak SEA 02/17/2002 SEA @ SAC W 22 14 7 11 63.6 0 0 - 0 0 - 4 3 7 1 1 1 2 4 -2
+p302
+aVVladimir Radmanovic SEA 02/17/2002 SEA @ SAC W 22 6 2 6 33.3 2 4 50.0 0 0 - 1 4 5 4 0 0 2 4 3
+p303
+aVBrent Barry SEA 02/17/2002 SEA @ SAC W 36 18 8 16 50.0 2 6 33.3 0 0 - 2 3 5 4 0 0 4 6 8
+p304
+aVDesmond Mason SEA 02/16/2002 SEA vs. BOS W 38 15 7 17 41.2 0 0 - 1 1 100.0 2 4 6 4 3 0 1 1 18
+p305
+aVJerome James SEA 02/16/2002 SEA vs. BOS W 24 8 4 7 57.1 0 0 - 0 1 0.0 4 5 9 0 0 4 4 3 5
+p306
+aVVladimir Radmanovic SEA 02/16/2002 SEA vs. BOS W 21 2 1 7 14.3 0 2 0.0 0 0 - 1 1 2 5 2 0 2 4 -2
+p307
+aVBrent Barry SEA 02/16/2002 SEA vs. BOS W 36 17 6 9 66.7 2 5 40.0 3 4 75.0 2 7 9 9 2 0 0 1 17
+p308
+aVArt Long SEA 02/16/2002 SEA vs. BOS W 12 6 2 2 100.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 0 12
+p309
+aVRashard Lewis SEA 02/16/2002 SEA vs. BOS W 25 11 5 12 41.7 1 2 50.0 0 0 - 0 3 3 0 0 0 0 2 12
+p310
+aVEarl Watson SEA 02/16/2002 SEA vs. BOS W 18 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 4 1 0 1 1 9
+p311
+aVGary Payton SEA 02/16/2002 SEA vs. BOS W 41 19 8 18 44.4 1 5 20.0 2 2 100.0 0 7 7 6 3 1 3 4 14
+p312
+aVPredrag Drobnjak SEA 02/16/2002 SEA vs. BOS W 24 16 7 11 63.6 0 0 - 2 3 66.7 1 4 5 2 1 0 1 0 15
+p313
+aVVin Baker SEA 02/14/2002 SEA vs. LAL L 18 5 2 5 40.0 0 0 - 1 2 50.0 3 1 4 0 0 0 3 0 -2
+p314
+aVGary Payton SEA 02/14/2002 SEA vs. LAL L 36 17 8 19 42.1 0 5 0.0 1 2 50.0 1 6 7 12 1 1 3 3 -4
+p315
+aVBrent Barry SEA 02/14/2002 SEA vs. LAL L 40 21 7 12 58.3 2 6 33.3 5 5 100.0 0 5 5 4 1 0 2 3 -4
+p316
+aVDesmond Mason SEA 02/14/2002 SEA vs. LAL L 29 12 4 10 40.0 0 0 - 4 6 66.7 3 3 6 0 2 0 2 3 -15
+p317
+aVJerome James SEA 02/14/2002 SEA vs. LAL L 18 6 3 4 75.0 0 0 - 0 0 - 1 6 7 0 1 0 2 1 7
+p318
+aVEarl Watson SEA 02/14/2002 SEA vs. LAL L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -2
+p319
+aVPredrag Drobnjak SEA 02/14/2002 SEA vs. LAL L 19 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 0 2 0 1 1 -2
+p320
+aVVladimir Radmanovic SEA 02/14/2002 SEA vs. LAL L 33 9 3 12 25.0 2 6 33.3 1 2 50.0 0 5 5 2 2 1 0 1 -1
+p321
+aVRashard Lewis SEA 02/14/2002 SEA vs. LAL L 31 11 5 10 50.0 1 2 50.0 0 0 - 4 5 9 4 0 0 1 4 -2
+p322
+aVRashard Lewis SEA 02/12/2002 SEA vs. DAL L 40 25 10 18 55.6 4 8 50.0 1 2 50.0 1 6 7 2 5 0 4 4 6
+p323
+aVVladimir Radmanovic SEA 02/12/2002 SEA vs. DAL L 14 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 3 -4
+p324
+aVEarl Watson SEA 02/12/2002 SEA vs. DAL L 16 5 1 4 25.0 0 0 - 3 4 75.0 0 0 0 2 5 0 0 1 -3
+p325
+aVVin Baker SEA 02/12/2002 SEA vs. DAL L 42 18 7 12 58.3 0 0 - 4 6 66.7 6 6 12 1 0 0 2 0 -6
+p326
+aVPredrag Drobnjak SEA 02/12/2002 SEA vs. DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p327
+aVJerome James SEA 02/12/2002 SEA vs. DAL L 4 0 0 1 0.0 0 0 - 0 2 0.0 1 0 1 0 0 1 0 0 -10
+p328
+aVGary Payton SEA 02/12/2002 SEA vs. DAL L 40 17 8 20 40.0 0 2 0.0 1 1 100.0 0 5 5 10 0 0 4 4 -6
+p329
+aVBrent Barry SEA 02/12/2002 SEA vs. DAL L 40 20 7 13 53.8 4 6 66.7 2 2 100.0 1 3 4 4 0 0 2 4 -2
+p330
+aVDesmond Mason SEA 02/12/2002 SEA vs. DAL L 41 16 8 15 53.3 0 2 0.0 0 0 - 0 7 7 3 1 1 3 1 -7
+p331
+aVBrent Barry SEA 02/06/2002 SEA vs. PHX W 42 21 8 12 66.7 3 4 75.0 2 2 100.0 0 5 5 5 6 2 1 1 3
+p332
+aVPredrag Drobnjak SEA 02/06/2002 SEA vs. PHX W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -2
+p333
+aVVladimir Radmanovic SEA 02/06/2002 SEA vs. PHX W 20 11 2 6 33.3 0 1 0.0 7 8 87.5 1 5 6 0 1 1 1 2 11
+p334
+aVRashard Lewis SEA 02/06/2002 SEA vs. PHX W 36 15 4 14 28.6 1 5 20.0 6 6 100.0 3 4 7 3 0 1 1 4 5
+p335
+aVEarl Watson SEA 02/06/2002 SEA vs. PHX W 17 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 3 1 0 0 1 11
+p336
+aVGary Payton SEA 02/06/2002 SEA vs. PHX W 33 11 5 12 41.7 0 0 - 1 1 100.0 0 5 5 4 0 1 4 1 6
+p337
+aVVin Baker SEA 02/06/2002 SEA vs. PHX W 37 17 8 16 50.0 0 0 - 1 1 100.0 3 6 9 5 0 0 4 1 12
+p338
+aVJerome James SEA 02/06/2002 SEA vs. PHX W 21 6 3 7 42.9 0 0 - 0 0 - 1 3 4 1 1 2 1 4 6
+p339
+aVDesmond Mason SEA 02/06/2002 SEA vs. PHX W 29 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 1 1 4 2 3
+p340
+aVGary Payton SEA 02/05/2002 SEA @ GSW W 28 20 7 14 50.0 3 3 100.0 3 3 100.0 1 2 3 9 1 0 4 2 15
+p341
+aVVladimir Radmanovic SEA 02/05/2002 SEA @ GSW W 29 19 6 9 66.7 2 4 50.0 5 5 100.0 4 5 9 1 1 0 1 3 23
+p342
+aVBrent Barry SEA 02/05/2002 SEA @ GSW W 36 21 9 15 60.0 1 4 25.0 2 2 100.0 1 3 4 4 3 0 2 0 26
+p343
+aVEarl Watson SEA 02/05/2002 SEA @ GSW W 19 2 1 3 33.3 0 0 - 0 0 - 0 0 0 4 1 0 1 1 5
+p344
+aVJerome James SEA 02/05/2002 SEA @ GSW W 16 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 0 2 0 3 10
+p345
+aVDesmond Mason SEA 02/05/2002 SEA @ GSW W 26 5 2 8 25.0 0 1 0.0 1 2 50.0 0 3 3 3 3 0 0 1 16
+p346
+aVRashard Lewis SEA 02/05/2002 SEA @ GSW W 28 25 10 12 83.3 2 2 100.0 3 4 75.0 0 5 5 2 3 1 1 2 20
+p347
+aVOlumide Oyedeji SEA 02/05/2002 SEA @ GSW W 6 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -3
+p348
+aVPredrag Drobnjak SEA 02/05/2002 SEA @ GSW W 22 4 2 9 22.2 0 0 - 0 0 - 2 3 5 2 0 1 1 2 21
+p349
+aVArt Long SEA 02/05/2002 SEA @ GSW W 21 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 0 0 0 6 -3
+p350
+aVShammond Williams SEA 02/05/2002 SEA @ GSW W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 0
+p351
+aVPredrag Drobnjak SEA 02/02/2002 SEA vs. CHI L 12 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 1 0 1 1 -5
+p352
+aVVin Baker SEA 02/02/2002 SEA vs. CHI L 35 23 10 20 50.0 1 1 100.0 2 2 100.0 7 1 8 1 0 2 3 3 2
+p353
+aVVladimir Radmanovic SEA 02/02/2002 SEA vs. CHI L 24 5 2 8 25.0 1 5 20.0 0 0 - 0 9 9 0 1 1 0 1 0
+p354
+aVGary Payton SEA 02/02/2002 SEA vs. CHI L 44 21 4 11 36.4 0 2 0.0 13 17 76.5 0 3 3 9 1 0 3 2 2
+p355
+aVEarl Watson SEA 02/02/2002 SEA vs. CHI L 13 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -3
+p356
+aVDesmond Mason SEA 02/02/2002 SEA vs. CHI L 28 10 2 8 25.0 0 0 - 6 6 100.0 1 6 7 2 1 0 1 1 -3
+p357
+aVBrent Barry SEA 02/02/2002 SEA vs. CHI L 40 14 5 8 62.5 3 3 100.0 1 2 50.0 0 3 3 3 1 2 2 4 -11
+p358
+aVArt Long SEA 02/02/2002 SEA vs. CHI L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 1
+p359
+aVRashard Lewis SEA 02/02/2002 SEA vs. CHI L 38 7 3 9 33.3 0 4 0.0 1 1 100.0 1 5 6 2 0 0 2 6 -4
+p360
+aVJerome James SEA 02/02/2002 SEA vs. CHI L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -9
+p361
+aVVin Baker SEA 01/31/2002 SEA vs. SAC L 41 22 10 21 47.6 0 0 - 2 3 66.7 5 2 7 1 0 2 4 6 -2
+p362
+aVBrent Barry SEA 01/31/2002 SEA vs. SAC L 32 6 2 6 33.3 2 3 66.7 0 0 - 0 3 3 7 3 0 1 2 -3
+p363
+aVVladimir Radmanovic SEA 01/31/2002 SEA vs. SAC L 25 9 4 7 57.1 1 3 33.3 0 0 - 1 3 4 1 0 0 3 3 -7
+p364
+aVDesmond Mason SEA 01/31/2002 SEA vs. SAC L 32 8 2 7 28.6 0 0 - 4 5 80.0 4 9 13 0 0 0 1 4 -4
+p365
+aVRashard Lewis SEA 01/31/2002 SEA vs. SAC L 33 18 8 15 53.3 2 6 33.3 0 0 - 2 7 9 2 0 1 2 4 -2
+p366
+aVGary Payton SEA 01/31/2002 SEA vs. SAC L 43 25 9 25 36.0 2 3 66.7 5 5 100.0 0 7 7 13 2 1 3 5 -2
+p367
+aVEarl Watson SEA 01/31/2002 SEA vs. SAC L 20 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 1 3 0 0 0 -4
+p368
+aVPredrag Drobnjak SEA 01/31/2002 SEA vs. SAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 0
+p369
+aVArt Long SEA 01/31/2002 SEA vs. SAC L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 4
+p370
+aVArt Long SEA 01/29/2002 SEA vs. POR L 15 2 1 4 25.0 0 0 - 0 2 0.0 3 3 6 0 0 0 3 1 -9
+p371
+aVPredrag Drobnjak SEA 01/29/2002 SEA vs. POR L 18 4 2 7 28.6 0 0 - 0 0 - 1 2 3 1 0 2 1 2 13
+p372
+aVShammond Williams SEA 01/29/2002 SEA vs. POR L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 11
+p373
+aVJerome James SEA 01/29/2002 SEA vs. POR L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -1
+p374
+aVDesmond Mason SEA 01/29/2002 SEA vs. POR L 33 14 5 13 38.5 0 0 - 4 4 100.0 3 4 7 1 0 1 1 3 5
+p375
+aVGary Payton SEA 01/29/2002 SEA vs. POR L 45 27 12 21 57.1 3 4 75.0 0 0 - 0 4 4 6 2 0 5 3 -12
+p376
+aVVin Baker SEA 01/29/2002 SEA vs. POR L 23 10 3 10 30.0 0 0 - 4 5 80.0 2 2 4 3 0 1 1 1 -9
+p377
+aVVladimir Radmanovic SEA 01/29/2002 SEA vs. POR L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 3 0
+p378
+aVRashard Lewis SEA 01/29/2002 SEA vs. POR L 39 13 5 12 41.7 3 7 42.9 0 0 - 1 6 7 2 1 0 2 1 -17
+p379
+aVBrent Barry SEA 01/29/2002 SEA vs. POR L 43 11 3 10 30.0 2 5 40.0 3 4 75.0 3 4 7 7 1 0 2 2 -11
+p380
+aVBrent Barry SEA 01/26/2002 SEA @ IND W 40 22 8 11 72.7 3 5 60.0 3 3 100.0 0 5 5 2 1 0 4 1 10
+p381
+aVPredrag Drobnjak SEA 01/26/2002 SEA @ IND W 19 7 3 6 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 3 9
+p382
+aVJerome James SEA 01/26/2002 SEA @ IND W 14 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 0 1 2 3 -5
+p383
+aVGary Payton SEA 01/26/2002 SEA @ IND W 45 27 10 22 45.5 2 4 50.0 5 5 100.0 0 4 4 11 1 0 1 2 12
+p384
+aVRashard Lewis SEA 01/26/2002 SEA @ IND W 42 13 4 10 40.0 1 3 33.3 4 4 100.0 1 10 11 2 1 0 0 3 8
+p385
+aVVladimir Radmanovic SEA 01/26/2002 SEA @ IND W 11 2 1 6 16.7 0 2 0.0 0 0 - 2 3 5 2 0 0 0 3 2
+p386
+aVDesmond Mason SEA 01/26/2002 SEA @ IND W 34 12 5 11 45.5 0 2 0.0 2 3 66.7 3 2 5 1 1 0 0 1 6
+p387
+aVArt Long SEA 01/26/2002 SEA @ IND W 29 4 2 8 25.0 0 0 - 0 0 - 3 3 6 1 2 1 1 4 6
+p388
+aVShammond Williams SEA 01/26/2002 SEA @ IND W 7 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 0 -3
+p389
+aVPredrag Drobnjak SEA 01/24/2002 SEA @ MIL W 6 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 2
+p390
+aVBrent Barry SEA 01/24/2002 SEA @ MIL W 47 29 11 14 78.6 6 8 75.0 1 2 50.0 0 10 10 5 2 0 1 4 12
+p391
+aVShammond Williams SEA 01/24/2002 SEA @ MIL W 10 3 1 1 100.0 1 1 100.0 0 1 0.0 1 0 1 1 0 0 1 1 4
+p392
+aVDesmond Mason SEA 01/24/2002 SEA @ MIL W 29 6 3 7 42.9 0 0 - 0 0 - 4 5 9 1 0 0 2 2 27
+p393
+aVRashard Lewis SEA 01/24/2002 SEA @ MIL W 41 20 8 13 61.5 2 4 50.0 2 3 66.7 0 6 6 4 3 0 2 3 7
+p394
+aVVladimir Radmanovic SEA 01/24/2002 SEA @ MIL W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p395
+aVArt Long SEA 01/24/2002 SEA @ MIL W 21 5 2 4 50.0 0 0 - 1 4 25.0 2 1 3 1 0 0 0 3 -15
+p396
+aVGary Payton SEA 01/24/2002 SEA @ MIL W 43 20 8 22 36.4 0 4 0.0 4 4 100.0 4 1 5 11 2 0 1 2 8
+p397
+aVJerome James SEA 01/24/2002 SEA @ MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p398
+aVVin Baker SEA 01/24/2002 SEA @ MIL W 35 10 4 14 28.6 0 0 - 2 2 100.0 1 3 4 0 0 1 2 2 3
+p399
+aVDesmond Mason SEA 01/23/2002 SEA @ CHH L 27 2 1 7 14.3 0 2 0.0 0 0 - 2 3 5 1 0 2 0 2 -17
+p400
+aVRashard Lewis SEA 01/23/2002 SEA @ CHH L 39 22 10 25 40.0 1 6 16.7 1 1 100.0 0 6 6 2 1 0 0 4 -1
+p401
+aVVladimir Radmanovic SEA 01/23/2002 SEA @ CHH L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 2 0 1 0 -3
+p402
+aVVin Baker SEA 01/23/2002 SEA @ CHH L 38 24 7 16 43.8 0 1 0.0 10 13 76.9 5 2 7 0 0 1 3 3 5
+p403
+aVJerome James SEA 01/23/2002 SEA @ CHH L 9 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 1 -17
+p404
+aVGary Payton SEA 01/23/2002 SEA @ CHH L 45 24 12 18 66.7 0 3 0.0 0 0 - 0 7 7 9 3 1 1 2 2
+p405
+aVBrent Barry SEA 01/23/2002 SEA @ CHH L 35 9 4 4 100.0 1 1 100.0 0 0 - 1 3 4 3 3 1 1 3 -4
+p406
+aVShammond Williams SEA 01/23/2002 SEA @ CHH L 14 13 5 7 71.4 3 4 75.0 0 0 - 0 0 0 0 0 0 1 2 -8
+p407
+aVArt Long SEA 01/23/2002 SEA @ CHH L 20 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 1 0 1 -7
+p408
+aVGary Payton SEA 01/21/2002 SEA @ PHI W 45 28 10 16 62.5 1 1 100.0 7 9 77.8 1 2 3 11 3 0 8 4 13
+p409
+aVVin Baker SEA 01/21/2002 SEA @ PHI W 34 20 9 14 64.3 0 0 - 2 2 100.0 1 6 7 4 0 0 5 6 6
+p410
+aVJerome James SEA 01/21/2002 SEA @ PHI W 16 9 4 5 80.0 0 0 - 1 3 33.3 1 4 5 0 0 2 1 3 12
+p411
+aVRashard Lewis SEA 01/21/2002 SEA @ PHI W 39 17 6 10 60.0 5 8 62.5 0 0 - 0 5 5 1 1 0 1 1 18
+p412
+aVVladimir Radmanovic SEA 01/21/2002 SEA @ PHI W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p413
+aVShammond Williams SEA 01/21/2002 SEA @ PHI W 11 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 0 1 -14
+p414
+aVBrent Barry SEA 01/21/2002 SEA @ PHI W 42 10 3 5 60.0 1 3 33.3 3 3 100.0 0 5 5 6 2 0 3 2 20
+p415
+aVDesmond Mason SEA 01/21/2002 SEA @ PHI W 30 16 6 8 75.0 0 0 - 4 4 100.0 1 3 4 1 3 1 1 3 0
+p416
+aVArt Long SEA 01/21/2002 SEA @ PHI W 14 4 2 2 100.0 0 0 - 0 1 0.0 0 3 3 0 0 0 1 3 7
+p417
+aVBrent Barry SEA 01/19/2002 SEA vs. DEN W 31 7 3 9 33.3 1 5 20.0 0 0 - 1 3 4 6 2 1 3 1 25
+p418
+aVShammond Williams SEA 01/19/2002 SEA vs. DEN W 15 5 2 4 50.0 0 1 0.0 1 1 100.0 0 0 0 5 4 0 0 1 3
+p419
+aVJerome James SEA 01/19/2002 SEA vs. DEN W 15 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 1 1 3 5 7
+p420
+aVVin Baker SEA 01/19/2002 SEA vs. DEN W 36 15 6 13 46.2 0 0 - 3 8 37.5 3 6 9 1 1 1 2 4 19
+p421
+aVDesmond Mason SEA 01/19/2002 SEA vs. DEN W 24 13 6 9 66.7 0 0 - 1 2 50.0 4 3 7 0 1 2 0 2 19
+p422
+aVVladimir Radmanovic SEA 01/19/2002 SEA vs. DEN W 11 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p423
+aVArt Long SEA 01/19/2002 SEA vs. DEN W 29 12 6 12 50.0 0 0 - 0 0 - 6 5 11 1 1 0 3 5 19
+p424
+aVGary Payton SEA 01/19/2002 SEA vs. DEN W 38 25 11 18 61.1 2 2 100.0 1 3 33.3 1 6 7 12 2 0 3 3 26
+p425
+aVOlumide Oyedeji SEA 01/19/2002 SEA vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p426
+aVEarl Watson SEA 01/19/2002 SEA vs. DEN W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 1
+p427
+aVRashard Lewis SEA 01/19/2002 SEA vs. DEN W 33 17 8 14 57.1 1 3 33.3 0 0 - 2 5 7 3 2 2 0 0 24
+p428
+aVPredrag Drobnjak SEA 01/18/2002 SEA @ DEN L 12 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -13
+p429
+aVVin Baker SEA 01/18/2002 SEA @ DEN L 33 15 5 11 45.5 0 0 - 5 8 62.5 2 3 5 2 0 0 3 4 -4
+p430
+aVDesmond Mason SEA 01/18/2002 SEA @ DEN L 42 16 7 12 58.3 0 0 - 2 2 100.0 4 4 8 2 1 0 2 4 2
+p431
+aVBrent Barry SEA 01/18/2002 SEA @ DEN L 36 9 3 9 33.3 1 3 33.3 2 3 66.7 1 6 7 7 1 0 3 6 -2
+p432
+aVRashard Lewis SEA 01/18/2002 SEA @ DEN L 42 19 5 14 35.7 3 6 50.0 6 6 100.0 0 4 4 3 3 0 0 2 1
+p433
+aVVladimir Radmanovic SEA 01/18/2002 SEA @ DEN L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 1 -6
+p434
+aVEarl Watson SEA 01/18/2002 SEA @ DEN L 9 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -13
+p435
+aVShammond Williams SEA 01/18/2002 SEA @ DEN L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 7
+p436
+aVGary Payton SEA 01/18/2002 SEA @ DEN L 44 25 11 21 52.4 2 5 40.0 1 1 100.0 0 4 4 8 3 0 2 5 -2
+p437
+aVPredrag Drobnjak SEA 01/16/2002 SEA @ UTA L 10 2 1 4 25.0 0 1 0.0 0 1 0.0 1 3 4 1 1 2 0 0 10
+p438
+aVOlumide Oyedeji SEA 01/16/2002 SEA @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 5
+p439
+aVVin Baker SEA 01/16/2002 SEA @ UTA L 28 13 6 14 42.9 0 0 - 1 5 20.0 2 3 5 2 0 0 2 3 -24
+p440
+aVArt Long SEA 01/16/2002 SEA @ UTA L 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 1 4 -18
+p441
+aVVladimir Radmanovic SEA 01/16/2002 SEA @ UTA L 19 8 3 7 42.9 2 3 66.7 0 0 - 1 3 4 1 1 0 2 4 -8
+p442
+aVDesmond Mason SEA 01/16/2002 SEA @ UTA L 28 10 2 10 20.0 0 0 - 6 6 100.0 4 1 5 0 1 0 7 2 -2
+p443
+aVGary Payton SEA 01/16/2002 SEA @ UTA L 40 21 9 14 64.3 2 3 66.7 1 1 100.0 1 2 3 6 2 1 5 2 -26
+p444
+aVShammond Williams SEA 01/16/2002 SEA @ UTA L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -10
+p445
+aVEarl Watson SEA 01/16/2002 SEA @ UTA L 17 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 5
+p446
+aVBrent Barry SEA 01/16/2002 SEA @ UTA L 35 9 3 7 42.9 1 4 25.0 2 2 100.0 1 3 4 1 1 0 1 0 -3
+p447
+aVJerome James SEA 01/16/2002 SEA @ UTA L 4 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 5
+p448
+aVRashard Lewis SEA 01/16/2002 SEA @ UTA L 35 9 2 9 22.2 0 3 0.0 5 7 71.4 0 2 2 1 5 1 0 0 -9
+p449
+aVBrent Barry SEA 01/11/2002 SEA vs. CLE W 37 4 1 3 33.3 1 2 50.0 1 1 100.0 0 3 3 5 1 1 0 0 5
+p450
+aVVladimir Radmanovic SEA 01/11/2002 SEA vs. CLE W 14 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 1 1 3 -7
+p451
+aVVin Baker SEA 01/11/2002 SEA vs. CLE W 37 32 12 17 70.6 0 0 - 8 11 72.7 1 4 5 1 1 3 4 2 11
+p452
+aVDesmond Mason SEA 01/11/2002 SEA vs. CLE W 29 6 3 8 37.5 0 0 - 0 0 - 3 3 6 0 0 0 0 1 -1
+p453
+aVGary Payton SEA 01/11/2002 SEA vs. CLE W 44 24 10 22 45.5 1 3 33.3 3 4 75.0 0 3 3 15 3 1 2 1 4
+p454
+aVArt Long SEA 01/11/2002 SEA vs. CLE W 21 2 1 4 25.0 0 0 - 0 0 - 0 6 6 0 0 1 0 0 0
+p455
+aVEarl Watson SEA 01/11/2002 SEA vs. CLE W 14 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 1 4 -7
+p456
+aVPredrag Drobnjak SEA 01/11/2002 SEA vs. CLE W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -6
+p457
+aVRashard Lewis SEA 01/11/2002 SEA vs. CLE W 40 27 9 14 64.3 6 8 75.0 3 4 75.0 4 3 7 1 2 1 2 1 11
+p458
+aVEarl Watson SEA 01/09/2002 SEA @ MIN L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -13
+p459
+aVBrent Barry SEA 01/09/2002 SEA @ MIN L 31 7 3 6 50.0 1 4 25.0 0 0 - 0 2 2 5 1 1 3 1 2
+p460
+aVShammond Williams SEA 01/09/2002 SEA @ MIN L 12 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 3 0 0 0 1 3
+p461
+aVVin Baker SEA 01/09/2002 SEA @ MIN L 41 23 10 15 66.7 0 0 - 3 4 75.0 5 4 9 4 1 0 4 4 -3
+p462
+aVJerome James SEA 01/09/2002 SEA @ MIN L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 4 4
+p463
+aVArt Long SEA 01/09/2002 SEA @ MIN L 14 6 2 5 40.0 0 0 - 2 2 100.0 5 0 5 2 1 0 2 3 0
+p464
+aVVladimir Radmanovic SEA 01/09/2002 SEA @ MIN L 18 4 1 5 20.0 0 3 0.0 2 2 100.0 0 1 1 0 0 1 0 1 -11
+p465
+aVDesmond Mason SEA 01/09/2002 SEA @ MIN L 23 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -14
+p466
+aVRashard Lewis SEA 01/09/2002 SEA @ MIN L 40 30 9 18 50.0 3 5 60.0 9 10 90.0 2 8 10 1 3 2 3 2 6
+p467
+aVGary Payton SEA 01/09/2002 SEA @ MIN L 45 25 10 17 58.8 2 3 66.7 3 3 100.0 1 3 4 5 4 0 3 3 1
+p468
+aVPredrag Drobnjak SEA 01/07/2002 SEA @ CHI W 17 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 0 4
+p469
+aVVladimir Radmanovic SEA 01/07/2002 SEA @ CHI W 20 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 3 1 0 3 3 3
+p470
+aVBrent Barry SEA 01/07/2002 SEA @ CHI W 32 10 4 6 66.7 1 3 33.3 1 2 50.0 0 6 6 5 4 1 1 0 10
+p471
+aVVin Baker SEA 01/07/2002 SEA @ CHI W 29 13 5 12 41.7 0 0 - 3 4 75.0 2 4 6 1 1 0 2 3 8
+p472
+aVRashard Lewis SEA 01/07/2002 SEA @ CHI W 28 12 4 8 50.0 1 2 50.0 3 3 100.0 0 2 2 0 5 0 3 0 9
+p473
+aVArt Long SEA 01/07/2002 SEA @ CHI W 23 8 4 5 80.0 0 0 - 0 4 0.0 2 1 3 2 1 1 1 3 -2
+p474
+aVShammond Williams SEA 01/07/2002 SEA @ CHI W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -7
+p475
+aVGary Payton SEA 01/07/2002 SEA @ CHI W 33 26 12 25 48.0 0 3 0.0 2 5 40.0 0 5 5 5 2 0 1 0 5
+p476
+aVEarl Watson SEA 01/07/2002 SEA @ CHI W 25 5 2 4 50.0 1 1 100.0 0 0 - 1 2 3 5 0 0 1 0 16
+p477
+aVDesmond Mason SEA 01/07/2002 SEA @ CHI W 27 10 3 8 37.5 0 1 0.0 4 4 100.0 0 5 5 2 0 0 0 2 14
+p478
+aVRashard Lewis SEA 01/06/2002 SEA @ MEM W 36 19 8 17 47.1 1 4 25.0 2 2 100.0 2 4 6 0 3 3 3 2 14
+p479
+aVBrent Barry SEA 01/06/2002 SEA @ MEM W 41 16 6 10 60.0 3 5 60.0 1 2 50.0 2 6 8 6 1 0 1 1 17
+p480
+aVEarl Watson SEA 01/06/2002 SEA @ MEM W 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 1 3 0
+p481
+aVDesmond Mason SEA 01/06/2002 SEA @ MEM W 31 7 2 7 28.6 1 2 50.0 2 2 100.0 1 1 2 2 1 0 1 1 1
+p482
+aVVin Baker SEA 01/06/2002 SEA @ MEM W 26 6 3 8 37.5 0 0 - 0 4 0.0 1 2 3 2 0 0 3 1 3
+p483
+aVGary Payton SEA 01/06/2002 SEA @ MEM W 41 24 10 19 52.6 2 3 66.7 2 2 100.0 1 5 6 11 2 1 4 0 10
+p484
+aVPredrag Drobnjak SEA 01/06/2002 SEA @ MEM W 10 2 1 5 20.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 4
+p485
+aVVladimir Radmanovic SEA 01/06/2002 SEA @ MEM W 31 13 5 11 45.5 3 4 75.0 0 0 - 4 5 9 5 1 1 3 3 16
+p486
+aVArt Long SEA 01/06/2002 SEA @ MEM W 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -5
+p487
+aVRashard Lewis SEA 01/04/2002 SEA vs. PHI L 32 15 7 14 50.0 1 4 25.0 0 0 - 2 6 8 0 0 0 3 4 -11
+p488
+aVVin Baker SEA 01/04/2002 SEA vs. PHI L 29 7 3 9 33.3 0 0 - 1 4 25.0 5 3 8 0 0 1 0 3 -17
+p489
+aVArt Long SEA 01/04/2002 SEA vs. PHI L 14 6 3 14 21.4 0 0 - 0 0 - 6 3 9 1 0 0 1 2 -15
+p490
+aVShammond Williams SEA 01/04/2002 SEA vs. PHI L 20 15 5 7 71.4 2 3 66.7 3 4 75.0 1 1 2 2 1 0 3 0 2
+p491
+aVJerome James SEA 01/04/2002 SEA vs. PHI L 11 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 1 4 0 2 -3
+p492
+aVGary Payton SEA 01/04/2002 SEA vs. PHI L 39 13 6 15 40.0 1 2 50.0 0 2 0.0 1 1 2 7 1 1 2 1 -14
+p493
+aVEarl Watson SEA 01/04/2002 SEA vs. PHI L 15 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -3
+p494
+aVVladimir Radmanovic SEA 01/04/2002 SEA vs. PHI L 27 8 3 7 42.9 2 5 40.0 0 0 - 0 8 8 1 0 1 4 1 12
+p495
+aVBrent Barry SEA 01/04/2002 SEA vs. PHI L 22 7 2 6 33.3 1 4 25.0 2 4 50.0 0 3 3 3 2 1 4 4 -3
+p496
+aVDesmond Mason SEA 01/04/2002 SEA vs. PHI L 32 6 3 9 33.3 0 1 0.0 0 0 - 2 2 4 1 2 0 3 1 2
+p497
+aVArt Long SEA 12/29/2001 SEA vs. TOR W 18 6 1 4 25.0 0 0 - 4 6 66.7 0 4 4 2 0 1 1 3 4
+p498
+aVGary Payton SEA 12/29/2001 SEA vs. TOR W 32 18 8 16 50.0 0 2 0.0 2 3 66.7 2 4 6 11 1 1 2 1 17
+p499
+aVDesmond Mason SEA 12/29/2001 SEA vs. TOR W 17 6 3 5 60.0 0 0 - 0 0 - 0 5 5 2 2 1 0 0 23
+p500
+aVRashard Lewis SEA 12/29/2001 SEA vs. TOR W 36 18 8 9 88.9 2 2 100.0 0 0 - 1 7 8 2 0 0 0 3 22
+p501
+aVVin Baker SEA 12/29/2001 SEA vs. TOR W 32 21 10 15 66.7 0 0 - 1 3 33.3 2 4 6 1 0 1 3 4 18
+p502
+aVShammond Williams SEA 12/29/2001 SEA vs. TOR W 10 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 0 -2
+p503
+aVPredrag Drobnjak SEA 12/29/2001 SEA vs. TOR W 16 11 5 10 50.0 0 0 - 1 2 50.0 2 4 6 0 0 2 0 0 8
+p504
+aVVladimir Radmanovic SEA 12/29/2001 SEA vs. TOR W 18 5 2 4 50.0 1 3 33.3 0 0 - 0 5 5 2 0 1 1 1 7
+p505
+aVEarl Watson SEA 12/29/2001 SEA vs. TOR W 23 8 4 9 44.4 0 1 0.0 0 0 - 1 1 2 4 2 0 0 3 17
+p506
+aVBrent Barry SEA 12/29/2001 SEA vs. TOR W 32 6 3 8 37.5 0 3 0.0 0 0 - 1 5 6 5 1 0 0 2 19
+p507
+aVOlumide Oyedeji SEA 12/29/2001 SEA vs. TOR W 6 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -3
+p508
+aVDesmond Mason SEA 12/27/2001 SEA vs. LAC W 30 12 4 10 40.0 0 0 - 4 4 100.0 3 2 5 0 1 1 3 2 7
+p509
+aVPredrag Drobnjak SEA 12/27/2001 SEA vs. LAC W 11 2 1 4 25.0 0 0 - 0 2 0.0 2 2 4 1 0 0 2 0 -11
+p510
+aVShammond Williams SEA 12/27/2001 SEA vs. LAC W 14 4 0 3 0.0 0 0 - 4 4 100.0 0 1 1 1 0 0 0 3 8
+p511
+aVArt Long SEA 12/27/2001 SEA vs. LAC W 22 8 3 6 50.0 0 0 - 2 3 66.7 1 3 4 1 1 0 1 6 10
+p512
+aVGary Payton SEA 12/27/2001 SEA vs. LAC W 45 43 18 27 66.7 1 3 33.3 6 7 85.7 2 6 8 6 0 0 0 4 8
+p513
+aVBrent Barry SEA 12/27/2001 SEA vs. LAC W 35 6 2 8 25.0 1 6 16.7 1 1 100.0 1 4 5 7 0 0 2 2 25
+p514
+aVRashard Lewis SEA 12/27/2001 SEA vs. LAC W 29 16 7 15 46.7 1 3 33.3 1 1 100.0 3 4 7 1 1 0 1 2 7
+p515
+aVVin Baker SEA 12/27/2001 SEA vs. LAC W 41 10 4 7 57.1 0 0 - 2 4 50.0 5 4 9 3 0 0 1 5 21
+p516
+aVOlumide Oyedeji SEA 12/27/2001 SEA vs. LAC W 6 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 1 2 0 -3
+p517
+aVEarl Watson SEA 12/27/2001 SEA vs. LAC W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -17
+p518
+aVVladimir Radmanovic SEA 12/22/2001 SEA vs. DET W 30 18 6 9 66.7 4 6 66.7 2 2 100.0 1 5 6 1 1 0 2 3 4
+p519
+aVBrent Barry SEA 12/22/2001 SEA vs. DET W 33 15 4 7 57.1 1 4 25.0 6 6 100.0 0 2 2 5 4 2 2 2 20
+p520
+aVPredrag Drobnjak SEA 12/22/2001 SEA vs. DET W 22 8 4 7 57.1 0 0 - 0 0 - 0 3 3 0 0 2 1 4 19
+p521
+aVShammond Williams SEA 12/22/2001 SEA vs. DET W 10 10 4 5 80.0 2 2 100.0 0 0 - 1 0 1 2 0 0 0 0 3
+p522
+aVDesmond Mason SEA 12/22/2001 SEA vs. DET W 23 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 3 0 0 1 2 15
+p523
+aVRashard Lewis SEA 12/22/2001 SEA vs. DET W 30 18 7 11 63.6 1 2 50.0 3 3 100.0 2 5 7 3 1 1 0 3 19
+p524
+aVOlumide Oyedeji SEA 12/22/2001 SEA vs. DET W 7 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 3
+p525
+aVEarl Watson SEA 12/22/2001 SEA vs. DET W 25 7 3 5 60.0 0 0 - 1 1 100.0 1 2 3 4 0 0 0 3 24
+p526
+aVAntonio Harvey SEA 12/22/2001 SEA vs. DET W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 3
+p527
+aVArt Long SEA 12/22/2001 SEA vs. DET W 24 13 5 7 71.4 0 0 - 3 5 60.0 2 3 5 2 0 2 2 3 13
+p528
+aVGary Payton SEA 12/22/2001 SEA vs. DET W 33 20 9 16 56.3 0 1 0.0 2 4 50.0 1 2 3 8 1 0 2 1 17
+p529
+aVEarl Watson SEA 12/21/2001 SEA @ GSW W 19 6 3 3 100.0 0 0 - 0 0 - 1 1 2 4 2 0 0 3 6
+p530
+aVDesmond Mason SEA 12/21/2001 SEA @ GSW W 37 16 5 11 45.5 1 1 100.0 5 6 83.3 1 4 5 0 2 0 1 5 5
+p531
+aVVin Baker SEA 12/21/2001 SEA @ GSW W 40 18 6 13 46.2 0 1 0.0 6 12 50.0 3 3 6 1 2 0 3 3 4
+p532
+aVBrent Barry SEA 12/21/2001 SEA @ GSW W 42 15 6 9 66.7 3 5 60.0 0 0 - 3 5 8 7 1 0 1 2 7
+p533
+aVGary Payton SEA 12/21/2001 SEA @ GSW W 45 20 6 21 28.6 0 2 0.0 8 10 80.0 0 4 4 12 2 0 5 3 -7
+p534
+aVRashard Lewis SEA 12/21/2001 SEA @ GSW W 44 24 11 20 55.0 2 4 50.0 0 1 0.0 4 4 8 1 2 0 1 3 -3
+p535
+aVVladimir Radmanovic SEA 12/21/2001 SEA @ GSW W 14 3 1 2 50.0 1 2 50.0 0 0 - 2 3 5 0 1 0 1 3 8
+p536
+aVArt Long SEA 12/21/2001 SEA @ GSW W 24 9 4 6 66.7 0 0 - 1 1 100.0 0 3 3 1 1 1 1 3 -5
+p537
+aVDesmond Mason SEA 12/19/2001 SEA vs. SAC W 29 6 3 7 42.9 0 0 - 0 0 - 0 7 7 2 1 0 2 0 10
+p538
+aVRashard Lewis SEA 12/19/2001 SEA vs. SAC W 41 20 8 16 50.0 2 5 40.0 2 3 66.7 1 2 3 5 0 1 2 2 9
+p539
+aVGary Payton SEA 12/19/2001 SEA vs. SAC W 41 27 11 18 61.1 2 3 66.7 3 3 100.0 0 7 7 10 1 3 3 4 6
+p540
+aVArt Long SEA 12/19/2001 SEA vs. SAC W 24 6 2 7 28.6 0 0 - 2 2 100.0 3 3 6 2 0 0 0 4 -1
+p541
+aVPredrag Drobnjak SEA 12/19/2001 SEA vs. SAC W 10 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 7
+p542
+aVEarl Watson SEA 12/19/2001 SEA vs. SAC W 21 4 2 3 66.7 0 0 - 0 0 - 1 3 4 5 2 0 3 0 4
+p543
+aVVin Baker SEA 12/19/2001 SEA vs. SAC W 36 16 7 12 58.3 0 0 - 2 3 66.7 3 6 9 3 0 1 5 4 13
+p544
+aVBrent Barry SEA 12/19/2001 SEA vs. SAC W 39 19 7 11 63.6 5 7 71.4 0 0 - 0 9 9 5 3 1 5 3 12
+p545
+aVArt Long SEA 12/16/2001 SEA vs. ORL W 24 12 6 9 66.7 0 0 - 0 0 - 5 7 12 0 0 0 1 4 24
+p546
+aVGary Payton SEA 12/16/2001 SEA vs. ORL W 38 26 13 24 54.2 0 1 0.0 0 0 - 1 3 4 9 1 0 2 1 18
+p547
+aVBrent Barry SEA 12/16/2001 SEA vs. ORL W 35 22 8 13 61.5 4 8 50.0 2 3 66.7 2 6 8 6 2 0 1 1 11
+p548
+aVShammond Williams SEA 12/16/2001 SEA vs. ORL W 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p549
+aVVin Baker SEA 12/16/2001 SEA vs. ORL W 35 19 7 15 46.7 0 1 0.0 5 5 100.0 5 4 9 3 1 0 2 4 19
+p550
+aVDesmond Mason SEA 12/16/2001 SEA vs. ORL W 28 7 3 9 33.3 0 1 0.0 1 2 50.0 0 4 4 1 1 0 0 2 12
+p551
+aVPredrag Drobnjak SEA 12/16/2001 SEA vs. ORL W 9 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 2
+p552
+aVEarl Watson SEA 12/16/2001 SEA vs. ORL W 29 10 3 5 60.0 2 3 66.7 2 4 50.0 1 2 3 4 4 1 1 3 12
+p553
+aVOlumide Oyedeji SEA 12/16/2001 SEA vs. ORL W 3 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 1
+p554
+aVRashard Lewis SEA 12/16/2001 SEA vs. ORL W 36 14 6 13 46.2 2 4 50.0 0 0 - 3 1 4 4 0 0 1 2 13
+p555
+aVBrent Barry SEA 12/12/2001 SEA @ LAC L 41 18 6 15 40.0 3 9 33.3 3 3 100.0 0 5 5 4 2 0 2 2 -16
+p556
+aVEarl Watson SEA 12/12/2001 SEA @ LAC L 16 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 2
+p557
+aVVladimir Radmanovic SEA 12/12/2001 SEA @ LAC L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 1 0 2 3 -2
+p558
+aVArt Long SEA 12/12/2001 SEA @ LAC L 20 10 4 8 50.0 0 0 - 2 2 100.0 4 2 6 1 3 0 0 4 -5
+p559
+aVShammond Williams SEA 12/12/2001 SEA @ LAC L 19 11 5 9 55.6 1 2 50.0 0 0 - 0 2 2 2 2 0 3 1 -1
+p560
+aVOlumide Oyedeji SEA 12/12/2001 SEA @ LAC L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p561
+aVPredrag Drobnjak SEA 12/12/2001 SEA @ LAC L 19 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 6
+p562
+aVGary Payton SEA 12/12/2001 SEA @ LAC L 36 14 6 15 40.0 0 1 0.0 2 2 100.0 1 3 4 7 1 1 2 1 -27
+p563
+aVVin Baker SEA 12/12/2001 SEA @ LAC L 30 15 6 11 54.5 0 0 - 3 4 75.0 1 1 2 1 0 1 2 3 -18
+p564
+aVAntonio Harvey SEA 12/12/2001 SEA @ LAC L 7 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 -12
+p565
+aVRashard Lewis SEA 12/12/2001 SEA @ LAC L 38 12 3 10 30.0 2 5 40.0 4 4 100.0 1 3 4 0 0 0 2 3 -26
+p566
+aVBrent Barry SEA 12/11/2001 SEA @ LAL W 29 4 1 4 25.0 0 0 - 2 3 66.7 1 2 3 5 1 1 4 2 -7
+p567
+aVArt Long SEA 12/11/2001 SEA @ LAL W 11 3 1 3 33.3 0 0 - 1 2 50.0 4 5 9 0 0 0 0 6 12
+p568
+aVAntonio Harvey SEA 12/11/2001 SEA @ LAL W 20 2 1 5 20.0 0 0 - 0 0 - 1 1 2 4 1 0 3 4 -7
+p569
+aVGary Payton SEA 12/11/2001 SEA @ LAL W 44 29 14 29 48.3 1 3 33.3 0 2 0.0 1 1 2 10 2 0 3 1 15
+p570
+aVVin Baker SEA 12/11/2001 SEA @ LAL W 40 27 10 22 45.5 0 0 - 7 10 70.0 4 5 9 0 0 0 1 4 2
+p571
+aVVladimir Radmanovic SEA 12/11/2001 SEA @ LAL W 29 8 2 6 33.3 2 4 50.0 2 4 50.0 2 3 5 2 4 1 0 3 18
+p572
+aVRashard Lewis SEA 12/11/2001 SEA @ LAL W 41 17 6 9 66.7 0 0 - 5 5 100.0 3 7 10 0 0 1 0 2 8
+p573
+aVEarl Watson SEA 12/11/2001 SEA @ LAL W 25 14 6 10 60.0 2 2 100.0 0 1 0.0 2 1 3 1 0 0 1 0 14
+p574
+aVOlumide Oyedeji SEA 12/11/2001 SEA @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p575
+aVPredrag Drobnjak SEA 12/08/2001 SEA @ POR L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p576
+aVCalvin Booth SEA 12/08/2001 SEA @ POR L 14 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 2 0 1 2 1 -15
+p577
+aVRashard Lewis SEA 12/08/2001 SEA @ POR L 37 4 1 8 12.5 0 2 0.0 2 2 100.0 3 2 5 4 0 2 2 2 -14
+p578
+aVBrent Barry SEA 12/08/2001 SEA @ POR L 30 12 4 8 50.0 2 5 40.0 2 2 100.0 1 2 3 4 0 0 2 2 -12
+p579
+aVShammond Williams SEA 12/08/2001 SEA @ POR L 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 1 0 0 0 0
+p580
+aVEarl Watson SEA 12/08/2001 SEA @ POR L 20 6 3 6 50.0 0 0 - 0 1 0.0 1 1 2 2 3 0 2 1 -10
+p581
+aVArt Long SEA 12/08/2001 SEA @ POR L 7 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 3 -10
+p582
+aVVin Baker SEA 12/08/2001 SEA @ POR L 35 20 9 16 56.3 0 0 - 2 4 50.0 3 5 8 2 0 0 2 3 -14
+p583
+aVGary Payton SEA 12/08/2001 SEA @ POR L 43 21 7 21 33.3 3 8 37.5 4 4 100.0 2 4 6 7 0 0 2 3 -19
+p584
+aVOlumide Oyedeji SEA 12/08/2001 SEA @ POR L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p585
+aVVladimir Radmanovic SEA 12/08/2001 SEA @ POR L 37 15 6 13 46.2 3 5 60.0 0 0 - 1 4 5 4 1 1 1 3 -7
+p586
+aVGary Payton SEA 12/07/2001 SEA vs. MIA L 47 25 11 28 39.3 1 6 16.7 2 2 100.0 2 7 9 11 0 0 1 1 3
+p587
+aVRashard Lewis SEA 12/07/2001 SEA vs. MIA L 47 22 9 18 50.0 2 6 33.3 2 5 40.0 5 6 11 0 2 2 2 5 -2
+p588
+aVShammond Williams SEA 12/07/2001 SEA vs. MIA L 9 3 1 6 16.7 1 2 50.0 0 0 - 1 0 1 0 1 0 1 0 3
+p589
+aVVladimir Radmanovic SEA 12/07/2001 SEA vs. MIA L 31 12 3 11 27.3 1 5 20.0 5 6 83.3 1 5 6 1 0 4 1 1 -1
+p590
+aVVin Baker SEA 12/07/2001 SEA vs. MIA L 24 5 2 7 28.6 0 0 - 1 4 25.0 0 2 2 1 0 1 0 6 1
+p591
+aVBrent Barry SEA 12/07/2001 SEA vs. MIA L 46 18 3 9 33.3 3 5 60.0 9 10 90.0 4 2 6 6 2 0 2 5 0
+p592
+aVOlumide Oyedeji SEA 12/07/2001 SEA vs. MIA L 13 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -3
+p593
+aVEarl Watson SEA 12/07/2001 SEA vs. MIA L 23 4 2 2 100.0 0 0 - 0 0 - 0 1 1 3 0 0 1 2 -12
+p594
+aVPredrag Drobnjak SEA 12/07/2001 SEA vs. MIA L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p595
+aVArt Long SEA 12/07/2001 SEA vs. MIA L 12 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 2 0 0 1 5 -5
+p596
+aVCalvin Booth SEA 12/07/2001 SEA vs. MIA L 8 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -5
+p597
+aVGary Payton SEA 12/05/2001 SEA @ DET L 46 21 9 24 37.5 0 4 0.0 3 4 75.0 1 14 15 12 1 0 4 5 -4
+p598
+aVVin Baker SEA 12/05/2001 SEA @ DET L 28 6 3 8 37.5 0 0 - 0 4 0.0 2 4 6 3 2 1 2 3 -3
+p599
+aVCalvin Booth SEA 12/05/2001 SEA @ DET L 8 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 0 4 5 6
+p600
+aVPredrag Drobnjak SEA 12/05/2001 SEA @ DET L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p601
+aVShammond Williams SEA 12/05/2001 SEA @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p602
+aVRashard Lewis SEA 12/05/2001 SEA @ DET L 32 21 9 13 69.2 2 4 50.0 1 2 50.0 3 3 6 0 2 0 1 6 6
+p603
+aVOlumide Oyedeji SEA 12/05/2001 SEA @ DET L 10 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -7
+p604
+aVBrent Barry SEA 12/05/2001 SEA @ DET L 42 17 5 10 50.0 4 6 66.7 3 3 100.0 1 5 6 1 1 0 2 2 3
+p605
+aVEarl Watson SEA 12/05/2001 SEA @ DET L 13 3 1 5 20.0 0 3 0.0 1 2 50.0 0 0 0 0 1 0 3 0 -9
+p606
+aVArt Long SEA 12/05/2001 SEA @ DET L 22 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 2 3 4 7
+p607
+aVVladimir Radmanovic SEA 12/05/2001 SEA @ DET L 29 11 4 5 80.0 2 2 100.0 1 3 33.3 0 3 3 1 0 0 0 3 -17
+p608
+aVArt Long SEA 12/04/2001 SEA @ MIN L 17 4 2 6 33.3 0 0 - 0 0 - 3 3 6 1 0 0 3 4 -9
+p609
+aVVladimir Radmanovic SEA 12/04/2001 SEA @ MIN L 27 7 3 7 42.9 1 3 33.3 0 3 0.0 2 1 3 2 0 1 1 3 -12
+p610
+aVVin Baker SEA 12/04/2001 SEA @ MIN L 27 13 5 10 50.0 0 0 - 3 3 100.0 4 2 6 1 0 1 5 3 -18
+p611
+aVPredrag Drobnjak SEA 12/04/2001 SEA @ MIN L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -17
+p612
+aVGary Payton SEA 12/04/2001 SEA @ MIN L 35 15 7 17 41.2 0 1 0.0 1 2 50.0 0 4 4 6 3 0 3 2 -10
+p613
+aVRashard Lewis SEA 12/04/2001 SEA @ MIN L 32 17 6 14 42.9 1 5 20.0 4 5 80.0 2 3 5 3 1 0 0 0 -9
+p614
+aVCalvin Booth SEA 12/04/2001 SEA @ MIN L 26 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 1 5 0 3 -4
+p615
+aVBrent Barry SEA 12/04/2001 SEA @ MIN L 21 3 1 3 33.3 1 1 100.0 0 0 - 0 4 4 1 1 0 1 0 -4
+p616
+aVShammond Williams SEA 12/04/2001 SEA @ MIN L 13 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 1 0 0 0 -15
+p617
+aVOlumide Oyedeji SEA 12/04/2001 SEA @ MIN L 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p618
+aVEarl Watson SEA 12/04/2001 SEA @ MIN L 28 10 4 8 50.0 1 2 50.0 1 2 50.0 0 1 1 1 0 0 2 0 -21
+p619
+aVEarl Watson SEA 12/02/2001 SEA vs. MIL W 21 2 1 5 20.0 0 2 0.0 0 0 - 2 0 2 4 2 0 0 0 -3
+p620
+aVRashard Lewis SEA 12/02/2001 SEA vs. MIL W 36 11 4 11 36.4 1 4 25.0 2 2 100.0 2 5 7 0 3 1 1 0 13
+p621
+aVGary Payton SEA 12/02/2001 SEA vs. MIL W 37 21 9 21 42.9 1 4 25.0 2 2 100.0 1 5 6 8 3 0 1 1 25
+p622
+aVVladimir Radmanovic SEA 12/02/2001 SEA vs. MIL W 19 3 1 4 25.0 1 1 100.0 0 0 - 1 4 5 2 1 0 0 1 -5
+p623
+aVArt Long SEA 12/02/2001 SEA vs. MIL W 9 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 6
+p624
+aVBrent Barry SEA 12/02/2001 SEA vs. MIL W 39 13 3 8 37.5 3 7 42.9 4 4 100.0 0 3 3 10 0 0 4 2 6
+p625
+aVPredrag Drobnjak SEA 12/02/2001 SEA vs. MIL W 11 8 2 3 66.7 0 0 - 4 4 100.0 0 1 1 0 0 0 1 0 8
+p626
+aVVin Baker SEA 12/02/2001 SEA vs. MIL W 39 19 7 12 58.3 0 0 - 5 7 71.4 2 5 7 0 0 0 6 5 3
+p627
+aVDesmond Mason SEA 12/02/2001 SEA vs. MIL W 29 16 8 9 88.9 0 0 - 0 0 - 1 3 4 1 0 0 1 3 17
+p628
+aVShammond Williams SEA 11/30/2001 SEA vs. LAL L 8 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 -3
+p629
+aVEarl Watson SEA 11/30/2001 SEA vs. LAL L 9 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 1 7
+p630
+aVCalvin Booth SEA 11/30/2001 SEA vs. LAL L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -5
+p631
+aVBrent Barry SEA 11/30/2001 SEA vs. LAL L 32 12 5 9 55.6 2 4 50.0 0 0 - 0 0 0 3 0 0 0 3 -22
+p632
+aVGary Payton SEA 11/30/2001 SEA vs. LAL L 40 11 5 15 33.3 0 1 0.0 1 2 50.0 0 4 4 9 0 0 3 3 -16
+p633
+aVDesmond Mason SEA 11/30/2001 SEA vs. LAL L 35 21 2 8 25.0 0 0 - 17 18 94.4 0 4 4 0 1 0 1 2 -7
+p634
+aVArt Long SEA 11/30/2001 SEA vs. LAL L 16 10 4 6 66.7 0 0 - 2 3 66.7 1 1 2 1 0 2 0 2 -8
+p635
+aVVin Baker SEA 11/30/2001 SEA vs. LAL L 30 13 4 9 44.4 0 0 - 5 6 83.3 3 6 9 1 0 0 2 5 -8
+p636
+aVPredrag Drobnjak SEA 11/30/2001 SEA vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p637
+aVVladimir Radmanovic SEA 11/30/2001 SEA vs. LAL L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 0 3 1 -1
+p638
+aVRashard Lewis SEA 11/30/2001 SEA vs. LAL L 41 19 7 10 70.0 2 4 50.0 3 4 75.0 1 7 8 1 1 0 1 2 -12
+p639
+aVEarl Watson SEA 11/28/2001 SEA @ UTA L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 5
+p640
+aVOlumide Oyedeji SEA 11/28/2001 SEA @ UTA L 5 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 2
+p641
+aVCalvin Booth SEA 11/28/2001 SEA @ UTA L 22 0 0 4 0.0 0 0 - 0 0 - 2 3 5 0 1 1 1 4 -10
+p642
+aVRashard Lewis SEA 11/28/2001 SEA @ UTA L 37 13 5 18 27.8 3 7 42.9 0 0 - 4 4 8 2 1 0 2 2 -30
+p643
+aVVladimir Radmanovic SEA 11/28/2001 SEA @ UTA L 7 8 2 5 40.0 1 2 50.0 3 4 75.0 2 1 3 0 0 0 0 0 3
+p644
+aVArt Long SEA 11/28/2001 SEA @ UTA L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 3
+p645
+aVPredrag Drobnjak SEA 11/28/2001 SEA @ UTA L 16 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 1 0 1 0 -15
+p646
+aVBrent Barry SEA 11/28/2001 SEA @ UTA L 38 5 1 6 16.7 1 4 25.0 2 2 100.0 2 4 6 6 2 0 3 2 -25
+p647
+aVDesmond Mason SEA 11/28/2001 SEA @ UTA L 25 12 4 8 50.0 0 0 - 4 4 100.0 0 0 0 0 1 1 0 4 -3
+p648
+aVGary Payton SEA 11/28/2001 SEA @ UTA L 34 18 7 13 53.8 0 2 0.0 4 4 100.0 0 3 3 5 1 0 3 4 -23
+p649
+aVShammond Williams SEA 11/28/2001 SEA @ UTA L 6 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 1 -8
+p650
+aVVin Baker SEA 11/28/2001 SEA @ UTA L 32 20 9 14 64.3 0 0 - 2 3 66.7 1 1 2 4 0 1 2 2 -19
+p651
+aVCalvin Booth SEA 11/27/2001 SEA vs. MIN W 19 10 4 6 66.7 0 0 - 2 2 100.0 1 1 2 1 1 3 0 2 15
+p652
+aVGary Payton SEA 11/27/2001 SEA vs. MIN W 42 20 8 22 36.4 0 4 0.0 4 5 80.0 1 2 3 13 2 0 3 0 20
+p653
+aVBrent Barry SEA 11/27/2001 SEA vs. MIN W 42 31 10 15 66.7 5 8 62.5 6 6 100.0 0 6 6 10 2 0 0 1 10
+p654
+aVVin Baker SEA 11/27/2001 SEA vs. MIN W 40 24 9 16 56.3 0 0 - 6 7 85.7 5 4 9 1 0 1 2 5 15
+p655
+aVEarl Watson SEA 11/27/2001 SEA vs. MIN W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p656
+aVPredrag Drobnjak SEA 11/27/2001 SEA vs. MIN W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 1 3 -2
+p657
+aVShammond Williams SEA 11/27/2001 SEA vs. MIN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p658
+aVArt Long SEA 11/27/2001 SEA vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p659
+aVDesmond Mason SEA 11/27/2001 SEA vs. MIN W 30 6 3 10 30.0 0 1 0.0 0 2 0.0 4 3 7 2 1 0 2 0 -8
+p660
+aVRashard Lewis SEA 11/27/2001 SEA vs. MIN W 37 15 6 13 46.2 3 7 42.9 0 0 - 2 5 7 1 0 0 0 4 13
+p661
+aVEarl Watson SEA 11/25/2001 SEA vs. IND W 17 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 1 1 0 2 3 14
+p662
+aVVin Baker SEA 11/25/2001 SEA vs. IND W 33 19 8 15 53.3 0 0 - 3 5 60.0 4 2 6 0 1 1 2 5 11
+p663
+aVDesmond Mason SEA 11/25/2001 SEA vs. IND W 34 8 4 13 30.8 0 1 0.0 0 0 - 0 5 5 1 1 0 3 5 4
+p664
+aVPredrag Drobnjak SEA 11/25/2001 SEA vs. IND W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 1
+p665
+aVGary Payton SEA 11/25/2001 SEA vs. IND W 45 20 7 17 41.2 2 3 66.7 4 4 100.0 1 2 3 12 2 1 0 1 10
+p666
+aVOlumide Oyedeji SEA 11/25/2001 SEA vs. IND W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p667
+aVRashard Lewis SEA 11/25/2001 SEA vs. IND W 37 24 9 16 56.3 0 1 0.0 6 6 100.0 1 6 7 2 2 2 1 1 16
+p668
+aVBrent Barry SEA 11/25/2001 SEA vs. IND W 39 17 5 16 31.3 1 8 12.5 6 6 100.0 2 6 8 4 2 1 0 3 2
+p669
+aVCalvin Booth SEA 11/25/2001 SEA vs. IND W 23 6 2 6 33.3 0 0 - 2 2 100.0 3 3 6 0 1 0 0 5 0
+p670
+aVPredrag Drobnjak SEA 11/23/2001 SEA vs. HOU W 16 4 2 5 40.0 0 0 - 0 2 0.0 1 1 2 1 0 1 0 2 -2
+p671
+aVCalvin Booth SEA 11/23/2001 SEA vs. HOU W 24 8 3 7 42.9 0 0 - 2 2 100.0 2 4 6 1 2 0 1 3 15
+p672
+aVBrent Barry SEA 11/23/2001 SEA vs. HOU W 42 15 5 11 45.5 2 6 33.3 3 5 60.0 1 9 10 4 4 2 1 4 14
+p673
+aVGary Payton SEA 11/23/2001 SEA vs. HOU W 45 24 10 19 52.6 1 3 33.3 3 5 60.0 2 0 2 8 1 0 4 1 18
+p674
+aVEarl Watson SEA 11/23/2001 SEA vs. HOU W 17 8 4 5 80.0 0 1 0.0 0 0 - 2 1 3 2 0 1 0 2 0
+p675
+aVArt Long SEA 11/23/2001 SEA vs. HOU W 10 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -1
+p676
+aVDesmond Mason SEA 11/23/2001 SEA vs. HOU W 28 21 9 14 64.3 0 0 - 3 3 100.0 2 3 5 2 1 0 1 2 27
+p677
+aVVladimir Radmanovic SEA 11/23/2001 SEA vs. HOU W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p678
+aVRashard Lewis SEA 11/23/2001 SEA vs. HOU W 46 15 6 18 33.3 1 7 14.3 2 2 100.0 3 6 9 2 2 0 1 2 20
+p679
+aVShammond Williams SEA 11/23/2001 SEA vs. HOU W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 0 3
+p680
+aVOlumide Oyedeji SEA 11/21/2001 SEA @ SAS L 17 5 2 5 40.0 0 0 - 1 2 50.0 5 4 9 1 0 0 1 5 6
+p681
+aVVladimir Radmanovic SEA 11/21/2001 SEA @ SAS L 11 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 4
+p682
+aVBrent Barry SEA 11/21/2001 SEA @ SAS L 27 13 5 10 50.0 3 7 42.9 0 1 0.0 0 3 3 2 2 0 3 3 -13
+p683
+aVCalvin Booth SEA 11/21/2001 SEA @ SAS L 20 12 5 8 62.5 0 0 - 2 2 100.0 1 0 1 1 0 2 0 4 -16
+p684
+aVEarl Watson SEA 11/21/2001 SEA @ SAS L 15 9 3 5 60.0 1 1 100.0 2 3 66.7 0 1 1 1 2 0 1 1 1
+p685
+aVDesmond Mason SEA 11/21/2001 SEA @ SAS L 29 6 3 7 42.9 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -24
+p686
+aVArt Long SEA 11/21/2001 SEA @ SAS L 15 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 3
+p687
+aVGary Payton SEA 11/21/2001 SEA @ SAS L 39 17 8 16 50.0 0 2 0.0 1 1 100.0 0 4 4 7 2 0 1 0 -24
+p688
+aVShammond Williams SEA 11/21/2001 SEA @ SAS L 19 9 3 7 42.9 1 3 33.3 2 4 50.0 1 1 2 2 0 0 0 0 2
+p689
+aVPredrag Drobnjak SEA 11/21/2001 SEA @ SAS L 20 6 2 6 33.3 0 0 - 2 2 100.0 3 2 5 2 0 0 2 3 -12
+p690
+aVRashard Lewis SEA 11/21/2001 SEA @ SAS L 29 8 4 10 40.0 0 1 0.0 0 0 - 2 0 2 1 0 0 3 2 -12
+p691
+aVGary Payton SEA 11/20/2001 SEA @ DAL W 46 25 11 22 50.0 0 1 0.0 3 5 60.0 1 4 5 10 2 0 5 3 8
+p692
+aVShammond Williams SEA 11/20/2001 SEA @ DAL W 23 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 2 1 0 2 0 11
+p693
+aVBrent Barry SEA 11/20/2001 SEA @ DAL W 42 8 4 6 66.7 0 2 0.0 0 0 - 0 8 8 5 0 0 2 0 -6
+p694
+aVPredrag Drobnjak SEA 11/20/2001 SEA @ DAL W 16 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 18
+p695
+aVDesmond Mason SEA 11/20/2001 SEA @ DAL W 41 20 7 14 50.0 1 2 50.0 5 7 71.4 1 4 5 2 1 2 1 2 18
+p696
+aVEarl Watson SEA 11/20/2001 SEA @ DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p697
+aVArt Long SEA 11/20/2001 SEA @ DAL W 12 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 1 0 1 1 2 9
+p698
+aVCalvin Booth SEA 11/20/2001 SEA @ DAL W 30 24 6 10 60.0 0 0 - 12 12 100.0 2 4 6 5 0 0 1 1 -7
+p699
+aVRashard Lewis SEA 11/20/2001 SEA @ DAL W 27 9 4 8 50.0 1 2 50.0 0 0 - 2 5 7 1 0 0 0 5 -6
+p700
+aVGary Payton SEA 11/17/2001 SEA vs. DEN L 45 16 4 14 28.6 0 2 0.0 8 8 100.0 0 1 1 7 2 0 4 3 -9
+p701
+aVRashard Lewis SEA 11/17/2001 SEA vs. DEN L 41 23 9 18 50.0 5 9 55.6 0 0 - 3 7 10 1 3 1 3 3 -8
+p702
+aVArt Long SEA 11/17/2001 SEA vs. DEN L 25 9 4 7 57.1 0 0 - 1 2 50.0 3 7 10 2 0 1 1 4 -5
+p703
+aVDesmond Mason SEA 11/17/2001 SEA vs. DEN L 45 19 7 11 63.6 0 0 - 5 5 100.0 1 1 2 3 0 0 1 5 -9
+p704
+aVVladimir Radmanovic SEA 11/17/2001 SEA vs. DEN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 1
+p705
+aVAntonio Harvey SEA 11/17/2001 SEA vs. DEN L 8 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 1 0 2 -2
+p706
+aVBrent Barry SEA 11/17/2001 SEA vs. DEN L 40 22 8 12 66.7 3 6 50.0 3 3 100.0 1 5 6 4 0 2 3 1 -18
+p707
+aVEarl Watson SEA 11/17/2001 SEA vs. DEN L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 0 2 3
+p708
+aVJerome James SEA 11/17/2001 SEA vs. DEN L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -2
+p709
+aVShammond Williams SEA 11/17/2001 SEA vs. DEN L 8 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 2 0 0 1 0 -1
+p710
+aVArt Long SEA 11/16/2001 SEA vs. GSW W 23 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 0 0 2 4 -7
+p711
+aVVladimir Radmanovic SEA 11/16/2001 SEA vs. GSW W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -4
+p712
+aVEarl Watson SEA 11/16/2001 SEA vs. GSW W 25 13 5 8 62.5 1 1 100.0 2 3 66.7 0 1 1 4 5 0 1 5 -1
+p713
+aVBrent Barry SEA 11/16/2001 SEA vs. GSW W 39 11 4 7 57.1 0 3 0.0 3 6 50.0 0 3 3 6 2 0 2 2 1
+p714
+aVDesmond Mason SEA 11/16/2001 SEA vs. GSW W 42 16 6 13 46.2 0 1 0.0 4 4 100.0 1 3 4 1 1 0 1 1 18
+p715
+aVAntonio Harvey SEA 11/16/2001 SEA vs. GSW W 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 5
+p716
+aVRashard Lewis SEA 11/16/2001 SEA vs. GSW W 42 18 7 17 41.2 2 7 28.6 2 4 50.0 2 8 10 3 1 0 2 2 14
+p717
+aVJerome James SEA 11/16/2001 SEA vs. GSW W 11 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 1 3 5 6
+p718
+aVGary Payton SEA 11/16/2001 SEA vs. GSW W 44 30 14 22 63.6 1 2 50.0 1 1 100.0 1 4 5 5 1 0 2 1 13
+p719
+aVGary Payton SEA 11/13/2001 SEA vs. PHX L 41 27 11 23 47.8 1 4 25.0 4 4 100.0 0 2 2 9 1 1 5 2 2
+p720
+aVEarl Watson SEA 11/13/2001 SEA vs. PHX L 17 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 2 3 0 0 3 -4
+p721
+aVArt Long SEA 11/13/2001 SEA vs. PHX L 23 6 3 4 75.0 0 0 - 0 2 0.0 3 7 10 1 0 0 2 4 -6
+p722
+aVJerome James SEA 11/13/2001 SEA vs. PHX L 25 10 4 6 66.7 0 0 - 2 2 100.0 2 5 7 0 1 3 3 5 5
+p723
+aVVladimir Radmanovic SEA 11/13/2001 SEA vs. PHX L 13 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 2 0 2 1 -4
+p724
+aVBrent Barry SEA 11/13/2001 SEA vs. PHX L 40 11 4 8 50.0 3 6 50.0 0 0 - 0 5 5 2 2 0 1 0 -2
+p725
+aVDesmond Mason SEA 11/13/2001 SEA vs. PHX L 39 12 3 13 23.1 0 0 - 6 8 75.0 2 3 5 2 0 0 3 4 1
+p726
+aVRashard Lewis SEA 11/13/2001 SEA vs. PHX L 42 18 8 19 42.1 0 6 0.0 2 3 66.7 2 8 10 1 1 0 2 2 3
+p727
+aVArt Long SEA 11/11/2001 SEA @ WAS W 26 10 5 9 55.6 0 0 - 0 2 0.0 4 6 10 0 4 1 4 5 11
+p728
+aVJerome James SEA 11/11/2001 SEA @ WAS W 11 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -1
+p729
+aVDesmond Mason SEA 11/11/2001 SEA @ WAS W 42 14 6 11 54.5 0 1 0.0 2 4 50.0 0 3 3 2 1 1 3 2 16
+p730
+aVGary Payton SEA 11/11/2001 SEA @ WAS W 44 32 11 22 50.0 3 4 75.0 7 8 87.5 1 6 7 15 0 0 4 3 22
+p731
+aVVladimir Radmanovic SEA 11/11/2001 SEA @ WAS W 12 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 1 4 3
+p732
+aVRashard Lewis SEA 11/11/2001 SEA @ WAS W 42 14 5 16 31.3 4 9 44.4 0 0 - 1 8 9 0 0 1 1 3 15
+p733
+aVBrent Barry SEA 11/11/2001 SEA @ WAS W 45 20 7 10 70.0 3 4 75.0 3 4 75.0 1 5 6 6 2 0 2 3 11
+p734
+aVEarl Watson SEA 11/11/2001 SEA @ WAS W 18 5 2 3 66.7 1 2 50.0 0 0 - 2 1 3 2 1 0 2 2 -2
+p735
+aVRashard Lewis SEA 11/09/2001 SEA @ BOS L 39 9 4 14 28.6 1 5 20.0 0 0 - 0 4 4 3 0 1 2 3 -17
+p736
+aVOlumide Oyedeji SEA 11/09/2001 SEA @ BOS L 4 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -4
+p737
+aVBrent Barry SEA 11/09/2001 SEA @ BOS L 32 10 3 5 60.0 3 5 60.0 1 1 100.0 0 7 7 4 2 0 2 2 -10
+p738
+aVDesmond Mason SEA 11/09/2001 SEA @ BOS L 31 8 3 7 42.9 0 1 0.0 2 2 100.0 0 4 4 1 0 1 2 5 0
+p739
+aVEarl Watson SEA 11/09/2001 SEA @ BOS L 18 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -8
+p740
+aVVin Baker SEA 11/09/2001 SEA @ BOS L 39 23 9 20 45.0 0 1 0.0 5 6 83.3 4 4 8 0 0 3 4 4 -14
+p741
+aVGary Payton SEA 11/09/2001 SEA @ BOS L 43 30 13 24 54.2 1 4 25.0 3 3 100.0 1 4 5 10 3 0 1 2 0
+p742
+aVVladimir Radmanovic SEA 11/09/2001 SEA @ BOS L 19 9 4 5 80.0 1 1 100.0 0 0 - 1 3 4 0 2 0 0 0 6
+p743
+aVJerome James SEA 11/09/2001 SEA @ BOS L 15 0 0 3 0.0 0 0 - 0 4 0.0 1 3 4 0 1 0 1 2 -3
+p744
+aVVin Baker SEA 11/08/2001 SEA @ NJN L 33 22 10 23 43.5 0 0 - 2 3 66.7 7 5 12 2 0 1 0 2 -19
+p745
+aVEarl Watson SEA 11/08/2001 SEA @ NJN L 17 7 3 8 37.5 1 2 50.0 0 0 - 2 1 3 3 1 0 2 3 9
+p746
+aVDesmond Mason SEA 11/08/2001 SEA @ NJN L 30 13 5 10 50.0 1 3 33.3 2 2 100.0 0 3 3 0 2 0 2 1 -5
+p747
+aVVladimir Radmanovic SEA 11/08/2001 SEA @ NJN L 23 4 1 7 14.3 0 1 0.0 2 2 100.0 4 3 7 3 2 0 1 2 -5
+p748
+aVArt Long SEA 11/08/2001 SEA @ NJN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -2
+p749
+aVRashard Lewis SEA 11/08/2001 SEA @ NJN L 42 17 7 18 38.9 3 8 37.5 0 0 - 5 5 10 0 1 1 3 3 -18
+p750
+aVGary Payton SEA 11/08/2001 SEA @ NJN L 37 19 8 19 42.1 3 5 60.0 0 0 - 3 3 6 6 0 0 2 1 -13
+p751
+aVJerome James SEA 11/08/2001 SEA @ NJN L 14 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 1 2 5 10
+p752
+aVBrent Barry SEA 11/08/2001 SEA @ NJN L 40 9 3 11 27.3 2 6 33.3 1 1 100.0 0 7 7 2 0 0 2 3 -17
+p753
+aVBrent Barry SEA 11/06/2001 SEA @ MIA L 45 7 2 10 20.0 1 5 20.0 2 2 100.0 0 9 9 4 2 0 2 3 -7
+p754
+aVVladimir Radmanovic SEA 11/06/2001 SEA @ MIA L 21 12 4 6 66.7 3 4 75.0 1 2 50.0 2 5 7 1 1 0 4 1 11
+p755
+aVEarl Watson SEA 11/06/2001 SEA @ MIA L 27 7 3 10 30.0 1 3 33.3 0 0 - 1 2 3 1 2 2 0 2 10
+p756
+aVVin Baker SEA 11/06/2001 SEA @ MIA L 40 20 7 15 46.7 0 0 - 6 9 66.7 4 4 8 0 0 0 1 5 -8
+p757
+aVRashard Lewis SEA 11/06/2001 SEA @ MIA L 44 11 3 15 20.0 3 7 42.9 2 4 50.0 2 9 11 3 3 0 1 3 -5
+p758
+aVGary Payton SEA 11/06/2001 SEA @ MIA L 50 24 9 28 32.1 1 5 20.0 5 5 100.0 2 3 5 8 2 0 2 3 -1
+p759
+aVCalvin Booth SEA 11/06/2001 SEA @ MIA L 16 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 2 4 -6
+p760
+aVJerome James SEA 11/06/2001 SEA @ MIA L 16 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 0 1 4 2 1
+p761
+aVArt Long SEA 11/06/2001 SEA @ MIA L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -5
+p762
+aVGary Payton SEA 11/05/2001 SEA @ ORL W 49 32 14 23 60.9 3 4 75.0 1 2 50.0 1 4 5 11 1 0 4 3 13
+p763
+aVVin Baker SEA 11/05/2001 SEA @ ORL W 49 22 8 17 47.1 0 0 - 6 10 60.0 5 1 6 2 1 0 1 3 2
+p764
+aVCalvin Booth SEA 11/05/2001 SEA @ ORL W 18 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 1 3 6 -5
+p765
+aVJerome James SEA 11/05/2001 SEA @ ORL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p766
+aVArt Long SEA 11/05/2001 SEA @ ORL W 12 4 1 4 25.0 0 0 - 2 4 50.0 4 2 6 0 0 1 1 2 -4
+p767
+aVDesmond Mason SEA 11/05/2001 SEA @ ORL W 39 16 6 13 46.2 0 2 0.0 4 4 100.0 1 4 5 2 1 0 0 5 6
+p768
+aVRashard Lewis SEA 11/05/2001 SEA @ ORL W 54 36 15 28 53.6 5 8 62.5 1 1 100.0 7 12 19 3 1 1 1 3 13
+p769
+aVVladimir Radmanovic SEA 11/05/2001 SEA @ ORL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -1
+p770
+aVEarl Watson SEA 11/05/2001 SEA @ ORL W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 2 1 1 0 -3
+p771
+aVBrent Barry SEA 11/05/2001 SEA @ ORL W 53 9 2 11 18.2 1 7 14.3 4 4 100.0 1 4 5 11 2 1 3 3 -2
+p772
+aVGary Payton SEA 11/03/2001 SEA vs. UTA L 43 14 5 17 29.4 0 3 0.0 4 4 100.0 0 1 1 9 1 0 3 3 -10
+p773
+aVVin Baker SEA 11/03/2001 SEA vs. UTA L 34 10 5 14 35.7 0 0 - 0 0 - 3 4 7 1 1 1 4 5 -14
+p774
+aVArt Long SEA 11/03/2001 SEA vs. UTA L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 2 5 -6
+p775
+aVJerome James SEA 11/03/2001 SEA vs. UTA L 22 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 2 3 1 3 4
+p776
+aVBrent Barry SEA 11/03/2001 SEA vs. UTA L 41 13 3 7 42.9 1 3 33.3 6 7 85.7 0 4 4 6 2 0 3 2 -15
+p777
+aVVladimir Radmanovic SEA 11/03/2001 SEA vs. UTA L 18 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 1 2 0 1 1 -14
+p778
+aVRashard Lewis SEA 11/03/2001 SEA vs. UTA L 39 13 5 11 45.5 1 5 20.0 2 4 50.0 5 5 10 4 2 0 3 6 -11
+p779
+aVDesmond Mason SEA 11/03/2001 SEA vs. UTA L 28 18 7 9 77.8 2 2 100.0 2 4 50.0 0 1 1 0 1 1 2 4 -15
+p780
+aVEarl Watson SEA 11/03/2001 SEA vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p781
+aVEarl Watson SEA 11/01/2001 SEA vs. SAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 10
+p782
+aVRashard Lewis SEA 11/01/2001 SEA vs. SAS W 43 22 7 15 46.7 4 9 44.4 4 4 100.0 1 6 7 4 1 1 2 2 1
+p783
+aVBrent Barry SEA 11/01/2001 SEA vs. SAS W 40 24 6 7 85.7 3 3 100.0 9 12 75.0 3 4 7 6 3 1 2 3 3
+p784
+aVArt Long SEA 11/01/2001 SEA vs. SAS W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 2 2 -3
+p785
+aVDesmond Mason SEA 11/01/2001 SEA vs. SAS W 27 15 6 7 85.7 2 2 100.0 1 1 100.0 0 1 1 3 0 0 0 3 8
+p786
+aVCalvin Booth SEA 11/01/2001 SEA vs. SAS W 15 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -2
+p787
+aVGary Payton SEA 11/01/2001 SEA vs. SAS W 42 25 9 19 47.4 1 3 33.3 6 8 75.0 0 4 4 10 2 1 4 3 -3
+p788
+aVJerome James SEA 11/01/2001 SEA vs. SAS W 10 4 2 4 50.0 0 0 - 0 2 0.0 1 2 3 0 0 1 0 4 -5
+p789
+aVVladimir Radmanovic SEA 11/01/2001 SEA vs. SAS W 18 9 3 7 42.9 1 3 33.3 2 2 100.0 1 2 3 1 0 0 0 3 9
+p790
+aVVin Baker SEA 11/01/2001 SEA vs. SAS W 33 9 4 10 40.0 0 0 - 1 4 25.0 4 4 8 1 1 2 0 5 12
+p791
+aVArt Long SEA 10/30/2001 SEA @ SAC L 10 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -10
+p792
+aVRashard Lewis SEA 10/30/2001 SEA @ SAC L 20 6 2 5 40.0 0 1 0.0 2 4 50.0 0 7 7 0 2 1 0 2 -3
+p793
+aVVladimir Radmanovic SEA 10/30/2001 SEA @ SAC L 19 6 2 7 28.6 2 5 40.0 0 2 0.0 0 3 3 1 1 1 3 4 0
+p794
+aVJerome James SEA 10/30/2001 SEA @ SAC L 15 11 5 9 55.6 0 0 - 1 1 100.0 1 1 2 0 1 1 1 4 -2
+p795
+aVEarl Watson SEA 10/30/2001 SEA @ SAC L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 1 6
+p796
+aVBrent Barry SEA 10/30/2001 SEA @ SAC L 40 16 6 10 60.0 2 2 100.0 2 2 100.0 2 7 9 6 1 0 1 4 2
+p797
+aVCalvin Booth SEA 10/30/2001 SEA @ SAC L 23 10 4 7 57.1 0 0 - 2 2 100.0 1 6 7 2 0 0 1 1 -3
+p798
+aVVin Baker SEA 10/30/2001 SEA @ SAC L 32 20 10 18 55.6 0 1 0.0 0 0 - 2 4 6 1 0 0 1 5 -2
+p799
+aVGary Payton SEA 10/30/2001 SEA @ SAC L 40 18 5 18 27.8 1 4 25.0 7 8 87.5 1 4 5 13 2 0 4 2 -15
+p800
+aVDesmond Mason SEA 10/30/2001 SEA @ SAC L 32 4 1 6 16.7 0 0 - 2 2 100.0 2 6 8 1 1 0 3 4 -3
+p801
+a.

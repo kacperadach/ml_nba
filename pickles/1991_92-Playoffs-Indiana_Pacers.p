@@ -1,0 +1,62 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGreg Dreiling IND 04/27/1992 IND vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p2
+aVKenny Williams IND 04/27/1992 IND vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p3
+aVVern Fleming IND 04/27/1992 IND vs. BOS L 14 2 1 4 25.0 0 0 - 0 2 0.0 0 0 0 2 0 0 3 3 -
+p4
+aVMicheal Williams IND 04/27/1992 IND vs. BOS L 38 15 5 13 38.5 0 1 0.0 5 7 71.4 1 3 4 11 3 0 2 4 -
+p5
+aVSean Green IND 04/27/1992 IND vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p6
+aVDetlef Schrempf IND 04/27/1992 IND vs. BOS L 40 23 6 12 50.0 1 1 100.0 10 11 90.9 3 9 12 2 1 1 4 4 -
+p7
+aVDale Davis IND 04/27/1992 IND vs. BOS L 28 4 2 6 33.3 0 0 - 0 0 - 5 8 13 0 0 2 0 2 -
+p8
+aVChuck Person IND 04/27/1992 IND vs. BOS L 41 12 4 14 28.6 2 6 33.3 2 4 50.0 0 4 4 3 0 0 2 5 -
+p9
+aVRik Smits IND 04/27/1992 IND vs. BOS L 13 6 3 8 37.5 0 0 - 0 0 - 3 3 6 0 1 0 3 1 -
+p10
+aVLaSalle Thompson IND 04/27/1992 IND vs. BOS L 16 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -
+p11
+aVReggie Miller IND 04/27/1992 IND vs. BOS L 43 32 9 18 50.0 2 3 66.7 12 18 66.7 3 1 4 5 2 0 0 6 -
+p12
+aVGeorge McCloud IND 04/25/1992 IND @ BOS L 26 6 1 5 20.0 0 2 0.0 4 4 100.0 0 1 1 2 1 1 0 1 -
+p13
+aVDetlef Schrempf IND 04/25/1992 IND @ BOS L 45 19 4 13 30.8 1 2 50.0 10 11 90.9 3 13 16 3 0 0 3 2 -
+p14
+aVRik Smits IND 04/25/1992 IND @ BOS L 14 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 1 1 0 4 -
+p15
+aVVern Fleming IND 04/25/1992 IND @ BOS L 18 6 3 6 50.0 0 0 - 0 0 - 0 1 1 3 0 0 0 2 -
+p16
+aVDale Davis IND 04/25/1992 IND @ BOS L 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -
+p17
+aVChuck Person IND 04/25/1992 IND @ BOS L 38 32 12 23 52.2 2 5 40.0 6 6 100.0 1 2 3 0 1 0 2 3 -
+p18
+aVMicheal Williams IND 04/25/1992 IND @ BOS L 35 17 7 16 43.8 2 5 40.0 1 2 50.0 0 3 3 7 2 0 4 4 -
+p19
+aVLaSalle Thompson IND 04/25/1992 IND @ BOS L 30 4 2 6 33.3 0 0 - 0 0 - 1 8 9 1 1 4 1 4 -
+p20
+aVReggie Miller IND 04/25/1992 IND @ BOS L 47 20 5 9 55.6 2 3 66.7 8 8 100.0 1 1 2 6 0 0 2 4 -
+p21
+aVGeorge McCloud IND 04/23/1992 IND @ BOS L 27 17 5 7 71.4 3 4 75.0 4 7 57.1 0 1 1 4 1 0 3 4 -
+p22
+aVMicheal Williams IND 04/23/1992 IND @ BOS L 33 18 6 14 42.9 1 3 33.3 5 6 83.3 0 1 1 6 4 0 1 4 -
+p23
+aVDale Davis IND 04/23/1992 IND @ BOS L 29 0 0 2 0.0 0 0 - 0 0 - 0 5 5 2 0 3 0 3 -
+p24
+aVLaSalle Thompson IND 04/23/1992 IND @ BOS L 17 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 3 0 0 1 2 -
+p25
+aVChuck Person IND 04/23/1992 IND @ BOS L 39 7 3 10 30.0 1 4 25.0 0 2 0.0 0 2 2 4 1 0 2 3 -
+p26
+aVVern Fleming IND 04/23/1992 IND @ BOS L 19 13 6 8 75.0 0 0 - 1 1 100.0 0 1 1 1 3 0 1 0 -
+p27
+aVRik Smits IND 04/23/1992 IND @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p28
+aVDetlef Schrempf IND 04/23/1992 IND @ BOS L 35 21 8 22 36.4 0 1 0.0 5 6 83.3 6 5 11 2 1 0 0 4 -
+p29
+aVReggie Miller IND 04/23/1992 IND @ BOS L 40 29 11 16 68.8 3 5 60.0 4 4 100.0 0 1 1 3 2 0 2 2 -
+p30
+a.

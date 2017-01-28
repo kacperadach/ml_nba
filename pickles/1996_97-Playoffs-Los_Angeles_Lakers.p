@@ -1,0 +1,198 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVShaquille O'Neal LAL 05/12/1997 LAL @ UTA L 36 23 9 17 52.9 0 0 - 5 9 55.6 6 7 13 5 0 1 2 6 7
+p2
+aVTravis Knight LAL 05/12/1997 LAL @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p3
+aVKobe Bryant LAL 05/12/1997 LAL @ UTA L 28 11 4 14 28.6 0 6 0.0 3 3 100.0 0 2 2 2 1 0 1 3 -1
+p4
+aVSean Rooks LAL 05/12/1997 LAL @ UTA L 9 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 1 -1
+p5
+aVJerome Kersey LAL 05/12/1997 LAL @ UTA L 25 10 3 6 50.0 0 0 - 4 5 80.0 1 4 5 1 0 0 0 6 7
+p6
+aVRobert Horry LAL 05/12/1997 LAL @ UTA L 23 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 1 0 0 1 -9
+p7
+aVNick Van Exel LAL 05/12/1997 LAL @ UTA L 50 26 9 17 52.9 2 7 28.6 6 6 100.0 1 4 5 4 3 0 2 2 -6
+p8
+aVElden Campbell LAL 05/12/1997 LAL @ UTA L 43 6 1 13 7.7 0 0 - 4 4 100.0 4 5 9 1 1 3 1 4 -11
+p9
+aVEddie Jones LAL 05/12/1997 LAL @ UTA L 41 11 4 14 28.6 1 5 20.0 2 2 100.0 2 3 5 0 1 1 0 5 -10
+p10
+aVDerek Fisher LAL 05/12/1997 LAL @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p11
+aVRobert Horry LAL 05/10/1997 LAL vs. UTA L 40 13 3 8 37.5 2 7 28.6 5 6 83.3 1 8 9 4 0 1 2 5 -11
+p12
+aVNick Van Exel LAL 05/10/1997 LAL vs. UTA L 42 15 4 12 33.3 1 3 33.3 6 6 100.0 0 3 3 7 3 0 1 2 0
+p13
+aVJerome Kersey LAL 05/10/1997 LAL vs. UTA L 22 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 1 1 1 0 4 2
+p14
+aVElden Campbell LAL 05/10/1997 LAL vs. UTA L 19 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 1 1 0 4 -13
+p15
+aVKobe Bryant LAL 05/10/1997 LAL vs. UTA L 28 9 3 9 33.3 3 6 50.0 0 0 - 0 2 2 0 0 0 5 4 -12
+p16
+aVShaquille O'Neal LAL 05/10/1997 LAL vs. UTA L 43 34 12 19 63.2 0 0 - 10 15 66.7 3 8 11 4 1 6 2 5 -13
+p17
+aVByron Scott LAL 05/10/1997 LAL vs. UTA L 15 4 1 2 50.0 0 1 0.0 2 4 50.0 0 0 0 5 0 0 2 2 10
+p18
+aVTravis Knight LAL 05/10/1997 LAL vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p19
+aVEddie Jones LAL 05/10/1997 LAL vs. UTA L 26 15 5 8 62.5 1 1 100.0 4 6 66.7 1 1 2 2 1 0 0 4 -29
+p20
+aVByron Scott LAL 05/08/1997 LAL vs. UTA W 21 10 3 6 50.0 0 1 0.0 4 4 100.0 0 1 1 1 0 0 1 3 7
+p21
+aVDerek Fisher LAL 05/08/1997 LAL vs. UTA W 4 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 2 0 -5
+p22
+aVNick Van Exel LAL 05/08/1997 LAL vs. UTA W 28 17 7 14 50.0 0 4 0.0 3 4 75.0 1 3 4 5 1 0 2 2 10
+p23
+aVEddie Jones LAL 05/08/1997 LAL vs. UTA W 26 8 2 5 40.0 0 1 0.0 4 4 100.0 0 2 2 2 0 0 2 1 18
+p24
+aVShaquille O'Neal LAL 05/08/1997 LAL vs. UTA W 17 11 5 8 62.5 0 0 - 1 4 25.0 3 7 10 2 0 0 2 4 19
+p25
+aVKobe Bryant LAL 05/08/1997 LAL vs. UTA W 19 19 3 7 42.9 0 2 0.0 13 14 92.9 0 1 1 3 1 1 3 3 10
+p26
+aVJerome Kersey LAL 05/08/1997 LAL vs. UTA W 17 4 2 4 50.0 0 0 - 0 0 - 0 4 4 1 1 0 0 6 11
+p27
+aVCorie Blount LAL 05/08/1997 LAL vs. UTA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -5
+p28
+aVElden Campbell LAL 05/08/1997 LAL vs. UTA W 30 14 6 12 50.0 0 0 - 2 2 100.0 1 4 5 1 0 3 1 3 18
+p29
+aVRobert Horry LAL 05/08/1997 LAL vs. UTA W 40 7 2 6 33.3 0 3 0.0 3 6 50.0 0 8 8 1 1 4 0 3 22
+p30
+aVTravis Knight LAL 05/08/1997 LAL vs. UTA W 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -2
+p31
+aVSean Rooks LAL 05/08/1997 LAL vs. UTA W 14 8 2 4 50.0 0 0 - 4 4 100.0 4 3 7 1 1 1 2 4 -3
+p32
+aVRobert Horry LAL 05/06/1997 LAL @ UTA L 44 21 7 7 100.0 7 7 100.0 0 0 - 1 2 3 2 3 0 1 2 -7
+p33
+aVSean Rooks LAL 05/06/1997 LAL @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p34
+aVJerome Kersey LAL 05/06/1997 LAL @ UTA L 17 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 2 0 2 0 4 -3
+p35
+aVEddie Jones LAL 05/06/1997 LAL @ UTA L 28 0 0 3 0.0 0 0 - 0 0 - 0 2 2 5 0 0 2 1 -9
+p36
+aVNick Van Exel LAL 05/06/1997 LAL @ UTA L 43 15 6 17 35.3 1 6 16.7 2 3 66.7 1 3 4 12 1 0 3 2 -5
+p37
+aVKobe Bryant LAL 05/06/1997 LAL @ UTA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 3
+p38
+aVByron Scott LAL 05/06/1997 LAL @ UTA L 24 24 7 11 63.6 3 5 60.0 7 7 100.0 0 2 2 0 0 0 0 3 9
+p39
+aVShaquille O'Neal LAL 05/06/1997 LAL @ UTA L 35 25 10 25 40.0 0 0 - 5 10 50.0 9 3 12 2 0 2 5 4 -8
+p40
+aVElden Campbell LAL 05/06/1997 LAL @ UTA L 29 7 2 5 40.0 0 0 - 3 4 75.0 3 3 6 0 0 0 3 4 6
+p41
+aVTravis Knight LAL 05/06/1997 LAL @ UTA L 11 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 6
+p42
+aVEddie Jones LAL 05/04/1997 LAL @ UTA L 40 17 6 15 40.0 3 6 50.0 2 2 100.0 1 3 4 3 3 0 4 3 -11
+p43
+aVKobe Bryant LAL 05/04/1997 LAL @ UTA L 14 3 1 7 14.3 1 5 20.0 0 1 0.0 1 1 2 3 0 1 0 5 -10
+p44
+aVNick Van Exel LAL 05/04/1997 LAL @ UTA L 44 23 7 19 36.8 4 9 44.4 5 5 100.0 2 1 3 4 0 0 3 3 -19
+p45
+aVRobert Horry LAL 05/04/1997 LAL @ UTA L 31 2 0 2 0.0 0 1 0.0 2 2 100.0 2 7 9 0 3 0 2 4 -5
+p46
+aVSean Rooks LAL 05/04/1997 LAL @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p47
+aVDerek Fisher LAL 05/04/1997 LAL @ UTA L 1 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 1
+p48
+aVByron Scott LAL 05/04/1997 LAL @ UTA L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p49
+aVShaquille O'Neal LAL 05/04/1997 LAL @ UTA L 39 17 6 16 37.5 0 0 - 5 8 62.5 4 8 12 3 1 1 4 5 -7
+p50
+aVElden Campbell LAL 05/04/1997 LAL @ UTA L 33 9 4 13 30.8 0 0 - 1 2 50.0 1 4 5 1 0 3 1 5 -14
+p51
+aVJerome Kersey LAL 05/04/1997 LAL @ UTA L 21 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 2 0 0 1 -7
+p52
+aVTravis Knight LAL 05/04/1997 LAL @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p53
+aVSean Rooks LAL 05/02/1997 LAL @ POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p54
+aVByron Scott LAL 05/02/1997 LAL @ POR W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 5
+p55
+aVJerome Kersey LAL 05/02/1997 LAL @ POR W 27 7 2 5 40.0 0 0 - 3 3 100.0 4 4 8 2 2 0 0 5 0
+p56
+aVKobe Bryant LAL 05/02/1997 LAL @ POR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p57
+aVElden Campbell LAL 05/02/1997 LAL @ POR W 35 27 8 16 50.0 0 0 - 11 12 91.7 2 0 2 0 3 0 3 4 9
+p58
+aVNick Van Exel LAL 05/02/1997 LAL @ POR W 45 11 4 13 30.8 0 3 0.0 3 4 75.0 1 7 8 5 0 0 2 1 8
+p59
+aVRobert Horry LAL 05/02/1997 LAL @ POR W 30 6 1 6 16.7 0 3 0.0 4 4 100.0 4 4 8 1 1 0 1 3 -6
+p60
+aVEddie Jones LAL 05/02/1997 LAL @ POR W 36 15 3 8 37.5 1 4 25.0 8 10 80.0 0 1 1 5 3 2 2 3 3
+p61
+aVTravis Knight LAL 05/02/1997 LAL @ POR W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -7
+p62
+aVShaquille O'Neal LAL 05/02/1997 LAL @ POR W 40 27 9 19 47.4 0 0 - 9 11 81.8 3 5 8 2 0 2 4 4 9
+p63
+aVTravis Knight LAL 04/30/1997 LAL @ POR L 16 9 4 5 80.0 0 0 - 1 2 50.0 0 2 2 1 1 0 0 2 -2
+p64
+aVKobe Bryant LAL 04/30/1997 LAL @ POR L 26 22 7 13 53.8 2 3 66.7 6 8 75.0 0 4 4 2 1 0 4 5 15
+p65
+aVJerome Kersey LAL 04/30/1997 LAL @ POR L 27 8 2 4 50.0 0 1 0.0 4 5 80.0 5 5 10 2 1 0 2 2 15
+p66
+aVByron Scott LAL 04/30/1997 LAL @ POR L 19 7 2 6 33.3 1 2 50.0 2 2 100.0 0 3 3 0 0 0 3 3 18
+p67
+aVElden Campbell LAL 04/30/1997 LAL @ POR L 22 4 1 5 20.0 0 0 - 2 4 50.0 1 2 3 1 0 2 2 1 -14
+p68
+aVNick Van Exel LAL 04/30/1997 LAL @ POR L 24 0 0 6 0.0 0 3 0.0 0 2 0.0 0 0 0 4 1 0 1 2 -33
+p69
+aVRobert Horry LAL 04/30/1997 LAL @ POR L 23 0 0 2 0.0 0 1 0.0 0 0 - 1 4 5 1 1 1 3 4 -11
+p70
+aVShaquille O'Neal LAL 04/30/1997 LAL @ POR L 40 29 10 21 47.6 0 0 - 9 16 56.3 6 6 12 4 0 1 1 4 -10
+p71
+aVEddie Jones LAL 04/30/1997 LAL @ POR L 31 11 4 9 44.4 1 5 20.0 2 3 66.7 3 4 7 3 0 1 2 2 -23
+p72
+aVSean Rooks LAL 04/30/1997 LAL @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p73
+aVDerek Fisher LAL 04/30/1997 LAL @ POR L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 3
+p74
+aVEddie Jones LAL 04/27/1997 LAL vs. POR W 27 19 7 7 100.0 2 2 100.0 3 4 75.0 1 6 7 3 0 0 1 2 7
+p75
+aVSean Rooks LAL 04/27/1997 LAL vs. POR W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 2
+p76
+aVByron Scott LAL 04/27/1997 LAL vs. POR W 15 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 1 0 11
+p77
+aVShaquille O'Neal LAL 04/27/1997 LAL vs. POR W 38 30 11 21 52.4 0 0 - 8 14 57.1 1 5 6 5 2 2 1 2 12
+p78
+aVRobert Horry LAL 04/27/1997 LAL vs. POR W 22 8 3 5 60.0 2 4 50.0 0 0 - 1 1 2 0 0 1 0 2 0
+p79
+aVElden Campbell LAL 04/27/1997 LAL vs. POR W 28 16 5 7 71.4 0 0 - 6 6 100.0 1 4 5 1 1 0 1 1 1
+p80
+aVTravis Knight LAL 04/27/1997 LAL vs. POR W 17 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 1 1 1 2 15
+p81
+aVNick Van Exel LAL 04/27/1997 LAL vs. POR W 38 13 4 9 44.4 2 4 50.0 3 4 75.0 0 1 1 9 1 0 2 4 10
+p82
+aVDerek Fisher LAL 04/27/1997 LAL vs. POR W 9 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 4 0 0 2 0 4
+p83
+aVKobe Bryant LAL 04/27/1997 LAL vs. POR W 4 6 1 3 33.3 0 1 0.0 4 4 100.0 0 0 0 0 0 0 0 1 -4
+p84
+aVCorie Blount LAL 04/27/1997 LAL vs. POR W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p85
+aVJerome Kersey LAL 04/27/1997 LAL vs. POR W 25 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 1 2 1 2 14
+p86
+aVShaquille O'Neal LAL 04/25/1997 LAL vs. POR W 35 46 17 27 63.0 0 0 - 12 18 66.7 3 8 11 2 1 2 1 3 23
+p87
+aVEddie Jones LAL 04/25/1997 LAL vs. POR W 25 5 2 3 66.7 0 0 - 1 4 25.0 0 1 1 6 1 0 0 3 8
+p88
+aVElden Campbell LAL 04/25/1997 LAL vs. POR W 36 20 9 18 50.0 1 1 100.0 1 2 50.0 1 2 3 4 1 1 2 4 13
+p89
+aVKobe Bryant LAL 04/25/1997 LAL vs. POR W 0 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p90
+aVByron Scott LAL 04/25/1997 LAL vs. POR W 21 4 2 3 66.7 0 0 - 0 0 - 0 3 3 2 0 0 1 1 8
+p91
+aVDerek Fisher LAL 04/25/1997 LAL vs. POR W 12 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 2 9
+p92
+aVJerome Kersey LAL 04/25/1997 LAL vs. POR W 24 5 2 4 50.0 0 0 - 1 2 50.0 3 7 10 2 1 1 0 4 19
+p93
+aVNick Van Exel LAL 04/25/1997 LAL vs. POR W 35 10 4 12 33.3 2 5 40.0 0 0 - 0 3 3 8 0 0 2 1 9
+p94
+aVTravis Knight LAL 04/25/1997 LAL vs. POR W 14 2 0 0 - 0 0 - 2 2 100.0 0 5 5 0 1 0 0 3 3
+p95
+aVSean Rooks LAL 04/25/1997 LAL vs. POR W 8 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 1 0 0 -3
+p96
+aVRobert Horry LAL 04/25/1997 LAL vs. POR W 24 0 0 1 0.0 0 1 0.0 0 0 - 2 0 2 3 0 0 2 3 -3
+p97
+aVCorie Blount LAL 04/25/1997 LAL vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p98
+a.

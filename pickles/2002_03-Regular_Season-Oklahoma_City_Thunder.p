@@ -1,0 +1,1556 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJerome James SEA 04/16/2003 SEA vs. PHX W 13 8 4 6 66.7 0 0 - 0 2 0.0 2 1 3 0 0 2 0 5 2
+p2
+aVCalvin Booth SEA 04/16/2003 SEA vs. PHX W 20 10 3 6 50.0 0 0 - 4 4 100.0 2 2 4 1 0 3 1 1 10
+p3
+aVVitaly Potapenko SEA 04/16/2003 SEA vs. PHX W 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -8
+p4
+aVPredrag Drobnjak SEA 04/16/2003 SEA vs. PHX W 18 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 1 0 0 2 2 6
+p5
+aVRonald Murray SEA 04/16/2003 SEA vs. PHX W 18 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 2 0 0 3 0 2
+p6
+aVKevin Ollie SEA 04/16/2003 SEA vs. PHX W 26 8 4 8 50.0 0 0 - 0 0 - 0 6 6 2 2 0 1 1 11
+p7
+aVReggie Evans SEA 04/16/2003 SEA vs. PHX W 29 3 0 3 0.0 0 0 - 3 4 75.0 3 7 10 0 1 0 1 3 25
+p8
+aVJoseph Forte SEA 04/16/2003 SEA vs. PHX W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -8
+p9
+aVBrent Barry SEA 04/16/2003 SEA vs. PHX W 29 14 5 9 55.6 4 7 57.1 0 0 - 0 4 4 5 1 0 0 1 12
+p10
+aVRay Allen SEA 04/16/2003 SEA vs. PHX W 39 19 7 17 41.2 5 10 50.0 0 0 - 2 3 5 5 4 0 3 1 15
+p11
+aVVladimir Radmanovic SEA 04/16/2003 SEA vs. PHX W 36 12 5 14 35.7 1 4 25.0 1 1 100.0 3 3 6 4 1 0 2 2 3
+p12
+aVReggie Evans SEA 04/14/2003 SEA @ DAL L 31 13 5 7 71.4 0 0 - 3 4 75.0 4 7 11 0 1 0 0 4 -11
+p13
+aVBrent Barry SEA 04/14/2003 SEA @ DAL L 30 13 5 11 45.5 3 6 50.0 0 0 - 1 4 5 7 2 0 1 4 -4
+p14
+aVVladimir Radmanovic SEA 04/14/2003 SEA @ DAL L 32 1 0 9 0.0 0 3 0.0 1 2 50.0 1 4 5 3 2 0 0 3 3
+p15
+aVRashard Lewis SEA 04/14/2003 SEA @ DAL L 27 21 6 10 60.0 1 2 50.0 8 10 80.0 1 2 3 4 0 0 1 3 4
+p16
+aVPredrag Drobnjak SEA 04/14/2003 SEA @ DAL L 25 8 3 9 33.3 2 5 40.0 0 0 - 0 4 4 1 0 0 2 4 -4
+p17
+aVKevin Ollie SEA 04/14/2003 SEA @ DAL L 37 7 2 6 33.3 0 0 - 3 5 60.0 2 6 8 5 1 1 2 4 -1
+p18
+aVCalvin Booth SEA 04/14/2003 SEA @ DAL L 14 8 4 5 80.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 1 6
+p19
+aVRay Allen SEA 04/14/2003 SEA @ DAL L 45 35 10 28 35.7 4 10 40.0 11 11 100.0 4 2 6 3 2 0 0 4 -8
+p20
+aVPredrag Drobnjak SEA 04/12/2003 SEA @ HOU L 22 4 2 8 25.0 0 1 0.0 0 0 - 0 6 6 1 0 1 0 3 -9
+p21
+aVKevin Ollie SEA 04/12/2003 SEA @ HOU L 24 7 0 9 0.0 0 0 - 7 8 87.5 1 4 5 5 1 0 2 0 -4
+p22
+aVReggie Evans SEA 04/12/2003 SEA @ HOU L 29 9 4 5 80.0 0 0 - 1 3 33.3 1 2 3 1 2 0 0 1 -11
+p23
+aVJerome James SEA 04/12/2003 SEA @ HOU L 16 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 2 0 1 0 3 -14
+p24
+aVVladimir Radmanovic SEA 04/12/2003 SEA @ HOU L 30 10 5 11 45.5 0 4 0.0 0 0 - 0 1 1 0 0 0 2 1 2
+p25
+aVRay Allen SEA 04/12/2003 SEA @ HOU L 35 6 2 10 20.0 0 4 0.0 2 2 100.0 1 2 3 8 0 0 4 0 -12
+p26
+aVRashard Lewis SEA 04/12/2003 SEA @ HOU L 43 19 7 16 43.8 2 4 50.0 3 4 75.0 0 8 8 0 1 0 3 4 -18
+p27
+aVBrent Barry SEA 04/12/2003 SEA @ HOU L 34 23 6 9 66.7 3 6 50.0 8 9 88.9 2 2 4 3 1 0 3 3 -17
+p28
+aVCalvin Booth SEA 04/12/2003 SEA @ HOU L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 8
+p29
+aVBrent Barry SEA 04/11/2003 SEA @ SAS L 37 11 4 7 57.1 3 4 75.0 0 0 - 1 2 3 2 1 0 2 5 -7
+p30
+aVElden Campbell SEA 04/11/2003 SEA @ SAS L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p31
+aVRashard Lewis SEA 04/11/2003 SEA @ SAS L 40 13 6 18 33.3 1 3 33.3 0 0 - 2 6 8 1 1 0 1 2 5
+p32
+aVCalvin Booth SEA 04/11/2003 SEA @ SAS L 15 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -2
+p33
+aVRay Allen SEA 04/11/2003 SEA @ SAS L 39 32 13 22 59.1 2 5 40.0 4 5 80.0 0 0 0 4 1 0 2 6 -2
+p34
+aVJerome James SEA 04/11/2003 SEA @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p35
+aVPredrag Drobnjak SEA 04/11/2003 SEA @ SAS L 30 12 5 16 31.3 0 3 0.0 2 2 100.0 2 3 5 4 1 1 0 5 -10
+p36
+aVReggie Evans SEA 04/11/2003 SEA @ SAS L 25 2 0 1 0.0 0 0 - 2 4 50.0 5 8 13 1 1 1 2 4 -10
+p37
+aVKevin Ollie SEA 04/11/2003 SEA @ SAS L 30 7 1 4 25.0 0 0 - 5 6 83.3 0 2 2 2 3 0 3 4 -1
+p38
+aVVladimir Radmanovic SEA 04/11/2003 SEA @ SAS L 16 5 2 6 33.3 1 5 20.0 0 0 - 0 1 1 1 0 0 1 3 -9
+p39
+aVElden Campbell SEA 04/09/2003 SEA vs. MIN W 11 3 1 2 50.0 0 0 - 1 1 100.0 1 2 3 0 1 0 1 2 12
+p40
+aVJerome James SEA 04/09/2003 SEA vs. MIN W 18 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 2 2 2 5
+p41
+aVVladimir Radmanovic SEA 04/09/2003 SEA vs. MIN W 26 12 4 8 50.0 0 2 0.0 4 6 66.7 0 5 5 1 1 0 0 1 20
+p42
+aVKevin Ollie SEA 04/09/2003 SEA vs. MIN W 30 10 2 8 25.0 0 0 - 6 7 85.7 1 0 1 6 3 0 2 3 22
+p43
+aVRashard Lewis SEA 04/09/2003 SEA vs. MIN W 43 19 8 15 53.3 0 2 0.0 3 3 100.0 3 5 8 3 3 0 3 4 6
+p44
+aVBrent Barry SEA 04/09/2003 SEA vs. MIN W 18 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 3 0 0 1 2 -14
+p45
+aVReggie Evans SEA 04/09/2003 SEA vs. MIN W 20 5 2 3 66.7 0 0 - 1 2 50.0 3 5 8 0 1 1 3 4 -10
+p46
+aVPredrag Drobnjak SEA 04/09/2003 SEA vs. MIN W 30 4 2 12 16.7 0 3 0.0 0 0 - 2 3 5 2 0 2 0 3 -6
+p47
+aVRay Allen SEA 04/09/2003 SEA vs. MIN W 44 33 10 18 55.6 5 10 50.0 8 8 100.0 1 2 3 6 3 0 3 2 5
+p48
+aVBrent Barry SEA 04/08/2003 SEA @ SAC L 25 4 2 8 25.0 0 3 0.0 0 0 - 1 0 1 6 1 0 0 2 -16
+p49
+aVPredrag Drobnjak SEA 04/08/2003 SEA @ SAC L 27 22 10 19 52.6 1 5 20.0 1 1 100.0 3 4 7 1 2 0 1 0 -10
+p50
+aVJerome James SEA 04/08/2003 SEA @ SAC L 9 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -5
+p51
+aVReggie Evans SEA 04/08/2003 SEA @ SAC L 30 2 0 2 0.0 0 0 - 2 4 50.0 4 4 8 0 2 0 1 4 -4
+p52
+aVCalvin Booth SEA 04/08/2003 SEA @ SAC L 12 5 1 3 33.3 0 0 - 3 4 75.0 1 0 1 1 0 0 0 1 -7
+p53
+aVRay Allen SEA 04/08/2003 SEA @ SAC L 35 22 8 14 57.1 2 6 33.3 4 4 100.0 3 0 3 6 0 0 7 2 -9
+p54
+aVKevin Ollie SEA 04/08/2003 SEA @ SAC L 28 9 3 8 37.5 0 0 - 3 4 75.0 0 1 1 3 2 0 0 3 -10
+p55
+aVVladimir Radmanovic SEA 04/08/2003 SEA @ SAC L 25 3 1 11 9.1 0 4 0.0 1 1 100.0 0 8 8 1 2 1 2 2 -11
+p56
+aVVitaly Potapenko SEA 04/08/2003 SEA @ SAC L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p57
+aVJoseph Forte SEA 04/08/2003 SEA @ SAC L 8 6 3 5 60.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -5
+p58
+aVRashard Lewis SEA 04/08/2003 SEA @ SAC L 33 8 4 12 33.3 0 0 - 0 0 - 1 4 5 1 1 0 2 4 -24
+p59
+aVPredrag Drobnjak SEA 04/06/2003 SEA vs. UTA W 29 17 6 13 46.2 2 5 40.0 3 3 100.0 0 2 2 0 1 1 3 1 -6
+p60
+aVRay Allen SEA 04/06/2003 SEA vs. UTA W 42 18 6 16 37.5 2 5 40.0 4 4 100.0 2 3 5 4 2 0 1 3 4
+p61
+aVRashard Lewis SEA 04/06/2003 SEA vs. UTA W 45 24 9 17 52.9 2 3 66.7 4 6 66.7 0 5 5 0 2 1 1 3 4
+p62
+aVVladimir Radmanovic SEA 04/06/2003 SEA vs. UTA W 18 3 1 9 11.1 0 2 0.0 1 1 100.0 1 4 5 4 1 0 1 1 8
+p63
+aVJerome James SEA 04/06/2003 SEA vs. UTA W 19 8 4 9 44.4 0 0 - 0 0 - 8 2 10 0 0 3 3 3 8
+p64
+aVBrent Barry SEA 04/06/2003 SEA vs. UTA W 33 6 2 7 28.6 1 4 25.0 1 2 50.0 2 3 5 5 1 0 4 1 -9
+p65
+aVReggie Evans SEA 04/06/2003 SEA vs. UTA W 27 0 0 1 0.0 0 0 - 0 0 - 3 3 6 1 1 0 1 3 -14
+p66
+aVKevin Ollie SEA 04/06/2003 SEA vs. UTA W 27 6 3 8 37.5 0 0 - 0 0 - 0 2 2 3 2 0 1 2 15
+p67
+aVPredrag Drobnjak SEA 04/04/2003 SEA vs. LAC W 34 26 9 15 60.0 2 3 66.7 6 7 85.7 0 1 1 1 1 2 0 4 12
+p68
+aVReggie Evans SEA 04/04/2003 SEA vs. LAC W 31 5 1 4 25.0 0 0 - 3 3 100.0 2 7 9 1 0 0 1 5 8
+p69
+aVVladimir Radmanovic SEA 04/04/2003 SEA vs. LAC W 17 5 2 7 28.6 1 4 25.0 0 0 - 1 3 4 3 0 1 3 2 -2
+p70
+aVKevin Ollie SEA 04/04/2003 SEA vs. LAC W 21 7 2 5 40.0 0 0 - 3 3 100.0 1 1 2 5 0 0 1 0 -6
+p71
+aVRashard Lewis SEA 04/04/2003 SEA vs. LAC W 39 22 9 15 60.0 2 4 50.0 2 2 100.0 1 7 8 1 4 1 1 3 18
+p72
+aVBrent Barry SEA 04/04/2003 SEA vs. LAC W 39 15 3 11 27.3 1 7 14.3 8 10 80.0 0 1 1 5 2 0 3 3 7
+p73
+aVCalvin Booth SEA 04/04/2003 SEA vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p74
+aVJerome James SEA 04/04/2003 SEA vs. LAC W 9 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 0 0 2 2 0 -5
+p75
+aVRay Allen SEA 04/04/2003 SEA vs. LAC W 46 19 8 17 47.1 2 6 33.3 1 1 100.0 0 6 6 7 3 0 2 3 9
+p76
+aVElden Campbell SEA 04/02/2003 SEA @ MIN L 13 3 1 5 20.0 0 0 - 1 2 50.0 0 4 4 2 0 1 0 3 1
+p77
+aVKevin Ollie SEA 04/02/2003 SEA @ MIN L 21 5 2 6 33.3 0 0 - 1 3 33.3 1 1 2 4 1 0 0 0 -8
+p78
+aVRay Allen SEA 04/02/2003 SEA @ MIN L 43 19 6 17 35.3 2 7 28.6 5 5 100.0 3 4 7 4 1 0 5 1 -5
+p79
+aVBrent Barry SEA 04/02/2003 SEA @ MIN L 32 11 3 5 60.0 1 3 33.3 4 6 66.7 0 4 4 6 0 0 3 2 3
+p80
+aVVladimir Radmanovic SEA 04/02/2003 SEA @ MIN L 26 8 3 6 50.0 2 4 50.0 0 0 - 1 4 5 0 1 2 0 2 -1
+p81
+aVRashard Lewis SEA 04/02/2003 SEA @ MIN L 44 15 5 13 38.5 1 3 33.3 4 4 100.0 1 4 5 2 2 0 1 1 -4
+p82
+aVReggie Evans SEA 04/02/2003 SEA @ MIN L 26 4 2 5 40.0 0 0 - 0 0 - 2 4 6 2 0 0 0 4 -5
+p83
+aVJerome James SEA 04/02/2003 SEA @ MIN L 12 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 0 0 3 3 -6
+p84
+aVPredrag Drobnjak SEA 04/02/2003 SEA @ MIN L 23 16 7 13 53.8 2 3 66.7 0 0 - 1 4 5 0 0 0 2 0 0
+p85
+aVBrent Barry SEA 04/01/2003 SEA @ CHI W 45 12 4 9 44.4 2 5 40.0 2 2 100.0 1 7 8 6 2 0 1 2 17
+p86
+aVRay Allen SEA 04/01/2003 SEA @ CHI W 48 26 9 23 39.1 2 7 28.6 6 6 100.0 3 10 13 6 0 1 3 1 9
+p87
+aVReggie Evans SEA 04/01/2003 SEA @ CHI W 20 4 2 4 50.0 0 0 - 0 0 - 3 5 8 0 1 0 0 3 -10
+p88
+aVCalvin Booth SEA 04/01/2003 SEA @ CHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p89
+aVElden Campbell SEA 04/01/2003 SEA @ CHI W 17 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 1 0 0 2 18
+p90
+aVRashard Lewis SEA 04/01/2003 SEA @ CHI W 43 26 8 17 47.1 0 2 0.0 10 15 66.7 1 6 7 3 0 0 1 1 6
+p91
+aVVladimir Radmanovic SEA 04/01/2003 SEA @ CHI W 36 12 3 15 20.0 2 11 18.2 4 6 66.7 0 5 5 3 1 0 1 1 8
+p92
+aVPredrag Drobnjak SEA 04/01/2003 SEA @ CHI W 14 3 1 6 16.7 1 2 50.0 0 0 - 0 1 1 0 1 1 1 2 -3
+p93
+aVJerome James SEA 04/01/2003 SEA @ CHI W 15 10 4 7 57.1 0 0 - 2 2 100.0 4 3 7 0 1 4 4 3 -5
+p94
+aVKevin Ollie SEA 04/01/2003 SEA @ CHI W 22 6 3 6 50.0 0 0 - 0 1 0.0 0 2 2 2 0 0 0 3 -6
+p95
+aVRashard Lewis SEA 03/30/2003 SEA vs. LAL W 43 24 8 13 61.5 2 3 66.7 6 7 85.7 1 2 3 1 0 0 1 1 32
+p96
+aVPredrag Drobnjak SEA 03/30/2003 SEA vs. LAL W 22 20 9 12 75.0 1 3 33.3 1 1 100.0 2 2 4 1 1 0 0 4 11
+p97
+aVRay Allen SEA 03/30/2003 SEA vs. LAL W 38 32 11 21 52.4 4 10 40.0 6 7 85.7 3 1 4 5 3 0 1 1 17
+p98
+aVReggie Evans SEA 03/30/2003 SEA vs. LAL W 28 9 3 5 60.0 0 0 - 3 5 60.0 3 5 8 1 1 0 2 4 -3
+p99
+aVElden Campbell SEA 03/30/2003 SEA vs. LAL W 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 2 5
+p100
+aVBrent Barry SEA 03/30/2003 SEA vs. LAL W 34 15 5 8 62.5 2 4 50.0 3 3 100.0 0 9 9 13 1 0 2 3 19
+p101
+aVVladimir Radmanovic SEA 03/30/2003 SEA vs. LAL W 21 5 1 5 20.0 1 3 33.3 2 2 100.0 0 4 4 2 0 0 4 1 10
+p102
+aVJerome James SEA 03/30/2003 SEA vs. LAL W 12 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 2 2 3 5
+p103
+aVKevin Ollie SEA 03/30/2003 SEA vs. LAL W 28 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 0 9
+p104
+aVVladimir Radmanovic SEA 03/28/2003 SEA vs. MEM W 38 21 8 20 40.0 5 7 71.4 0 0 - 2 8 10 2 2 0 2 1 30
+p105
+aVPredrag Drobnjak SEA 03/28/2003 SEA vs. MEM W 25 12 6 17 35.3 0 2 0.0 0 1 0.0 4 1 5 1 0 0 2 2 17
+p106
+aVJerome James SEA 03/28/2003 SEA vs. MEM W 21 9 4 8 50.0 0 0 - 1 2 50.0 5 2 7 0 0 4 2 3 6
+p107
+aVKevin Ollie SEA 03/28/2003 SEA vs. MEM W 26 6 2 8 25.0 0 0 - 2 2 100.0 0 5 5 2 1 0 1 2 9
+p108
+aVCalvin Booth SEA 03/28/2003 SEA vs. MEM W 23 8 4 10 40.0 0 0 - 0 0 - 3 2 5 1 0 2 2 5 7
+p109
+aVRay Allen SEA 03/28/2003 SEA vs. MEM W 39 25 11 18 61.1 3 8 37.5 0 0 - 1 8 9 5 3 0 3 0 21
+p110
+aVBrent Barry SEA 03/28/2003 SEA vs. MEM W 41 14 5 13 38.5 2 6 33.3 2 3 66.7 3 6 9 10 3 0 2 3 12
+p111
+aVReggie Evans SEA 03/28/2003 SEA vs. MEM W 27 0 0 4 0.0 0 0 - 0 0 - 2 7 9 0 1 1 0 4 18
+p112
+aVReggie Evans SEA 03/26/2003 SEA vs. WAS L 27 11 4 5 80.0 0 0 - 3 4 75.0 5 6 11 0 0 0 0 2 -7
+p113
+aVPredrag Drobnjak SEA 03/26/2003 SEA vs. WAS L 14 4 1 7 14.3 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 -12
+p114
+aVVladimir Radmanovic SEA 03/26/2003 SEA vs. WAS L 34 8 3 9 33.3 2 4 50.0 0 2 0.0 0 5 5 1 0 0 1 0 6
+p115
+aVElden Campbell SEA 03/26/2003 SEA vs. WAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 2 0 0 -1
+p116
+aVJerome James SEA 03/26/2003 SEA vs. WAS L 11 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 0 0 2 1 4
+p117
+aVKevin Ollie SEA 03/26/2003 SEA vs. WAS L 32 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 4 1 0 2 1 4
+p118
+aVBrent Barry SEA 03/26/2003 SEA vs. WAS L 32 15 6 10 60.0 3 4 75.0 0 0 - 0 1 1 4 2 0 4 5 3
+p119
+aVRay Allen SEA 03/26/2003 SEA vs. WAS L 44 17 6 18 33.3 1 7 14.3 4 4 100.0 2 6 8 6 1 0 5 6 -9
+p120
+aVRashard Lewis SEA 03/26/2003 SEA vs. WAS L 40 14 5 15 33.3 1 2 50.0 3 4 75.0 1 4 5 1 1 1 0 2 -18
+p121
+aVVladimir Radmanovic SEA 03/24/2003 SEA @ PHX W 29 9 3 13 23.1 3 10 30.0 0 0 - 1 5 6 0 0 0 3 2 13
+p122
+aVPredrag Drobnjak SEA 03/24/2003 SEA @ PHX W 14 3 1 6 16.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p123
+aVElden Campbell SEA 03/24/2003 SEA @ PHX W 4 0 0 0 - 0 0 - 0 2 0.0 2 0 2 0 0 0 0 1 -6
+p124
+aVJerome James SEA 03/24/2003 SEA @ PHX W 20 5 2 4 50.0 0 0 - 1 2 50.0 2 4 6 0 0 2 2 3 5
+p125
+aVRay Allen SEA 03/24/2003 SEA @ PHX W 43 23 7 18 38.9 1 5 20.0 8 10 80.0 1 5 6 3 2 0 3 4 18
+p126
+aVRashard Lewis SEA 03/24/2003 SEA @ PHX W 35 29 12 16 75.0 1 2 50.0 4 6 66.7 1 5 6 1 3 1 2 4 8
+p127
+aVKevin Ollie SEA 03/24/2003 SEA @ PHX W 31 4 1 6 16.7 0 0 - 2 2 100.0 1 7 8 3 2 0 0 0 -8
+p128
+aVReggie Evans SEA 03/24/2003 SEA @ PHX W 29 3 1 5 20.0 0 0 - 1 1 100.0 7 6 13 0 0 0 0 2 12
+p129
+aVBrent Barry SEA 03/24/2003 SEA @ PHX W 36 6 1 8 12.5 1 4 25.0 3 4 75.0 0 3 3 8 0 0 1 2 7
+p130
+aVElden Campbell SEA 03/21/2003 SEA vs. DEN W 13 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 2 3
+p131
+aVVladimir Radmanovic SEA 03/21/2003 SEA vs. DEN W 33 17 7 15 46.7 2 6 33.3 1 1 100.0 1 2 3 3 3 0 1 2 9
+p132
+aVRashard Lewis SEA 03/21/2003 SEA vs. DEN W 51 7 3 14 21.4 1 4 25.0 0 0 - 0 4 4 1 1 0 1 4 0
+p133
+aVRay Allen SEA 03/21/2003 SEA vs. DEN W 47 38 14 23 60.9 7 10 70.0 3 3 100.0 0 3 3 6 1 0 4 2 -2
+p134
+aVJerome James SEA 03/21/2003 SEA vs. DEN W 25 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 1 0 2 3 6 20
+p135
+aVReggie Evans SEA 03/21/2003 SEA vs. DEN W 24 4 0 1 0.0 0 0 - 4 6 66.7 2 3 5 1 0 0 0 2 -12
+p136
+aVBrent Barry SEA 03/21/2003 SEA vs. DEN W 26 8 3 7 42.9 2 3 66.7 0 0 - 0 0 0 2 1 0 1 1 -13
+p137
+aVKevin Ollie SEA 03/21/2003 SEA vs. DEN W 36 14 5 7 71.4 0 0 - 4 5 80.0 1 5 6 6 1 0 2 4 22
+p138
+aVPredrag Drobnjak SEA 03/21/2003 SEA vs. DEN W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -17
+p139
+aVVladimir Radmanovic SEA 03/19/2003 SEA @ GSW L 30 8 3 8 37.5 1 4 25.0 1 2 50.0 1 4 5 1 0 0 0 1 -10
+p140
+aVPredrag Drobnjak SEA 03/19/2003 SEA @ GSW L 24 9 4 11 36.4 1 2 50.0 0 0 - 1 1 2 0 1 1 0 1 7
+p141
+aVReggie Evans SEA 03/19/2003 SEA @ GSW L 20 7 2 2 100.0 0 0 - 3 4 75.0 2 3 5 1 0 0 1 3 1
+p142
+aVRashard Lewis SEA 03/19/2003 SEA @ GSW L 42 18 8 17 47.1 1 2 50.0 1 1 100.0 3 4 7 3 0 0 1 6 -5
+p143
+aVCalvin Booth SEA 03/19/2003 SEA @ GSW L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p144
+aVElden Campbell SEA 03/19/2003 SEA @ GSW L 11 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 0 4 2 -1
+p145
+aVJerome James SEA 03/19/2003 SEA @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -5
+p146
+aVKevin Ollie SEA 03/19/2003 SEA @ GSW L 23 7 3 6 50.0 0 0 - 1 2 50.0 1 0 1 2 2 0 3 1 -13
+p147
+aVBrent Barry SEA 03/19/2003 SEA @ GSW L 42 23 7 11 63.6 3 6 50.0 6 6 100.0 2 7 9 4 2 0 1 2 3
+p148
+aVRay Allen SEA 03/19/2003 SEA @ GSW L 39 23 8 21 38.1 3 8 37.5 4 6 66.7 1 4 5 7 3 0 1 3 -4
+p149
+aVRay Allen SEA 03/18/2003 SEA vs. HOU W 37 23 8 18 44.4 3 8 37.5 4 4 100.0 0 4 4 7 1 0 4 1 5
+p150
+aVPredrag Drobnjak SEA 03/18/2003 SEA vs. HOU W 22 11 4 11 36.4 1 2 50.0 2 2 100.0 3 3 6 0 1 1 2 3 2
+p151
+aVBrent Barry SEA 03/18/2003 SEA vs. HOU W 41 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 8 1 0 1 3 3
+p152
+aVKevin Ollie SEA 03/18/2003 SEA vs. HOU W 26 13 6 8 75.0 0 0 - 1 3 33.3 0 2 2 6 1 0 0 0 -1
+p153
+aVReggie Evans SEA 03/18/2003 SEA vs. HOU W 21 1 0 0 - 0 0 - 1 2 50.0 2 4 6 1 1 0 1 3 7
+p154
+aVJerome James SEA 03/18/2003 SEA vs. HOU W 26 13 6 9 66.7 0 0 - 1 3 33.3 1 5 6 2 1 0 2 5 6
+p155
+aVRashard Lewis SEA 03/18/2003 SEA vs. HOU W 42 25 10 20 50.0 2 4 50.0 3 6 50.0 3 6 9 4 2 0 3 3 8
+p156
+aVVladimir Radmanovic SEA 03/18/2003 SEA vs. HOU W 25 8 2 7 28.6 2 5 40.0 2 2 100.0 0 2 2 1 2 0 1 3 0
+p157
+aVElden Campbell SEA 03/16/2003 SEA @ DEN W 16 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 1 3 1 3 -1
+p158
+aVBrent Barry SEA 03/16/2003 SEA @ DEN W 34 14 5 11 45.5 2 5 40.0 2 2 100.0 1 3 4 9 3 0 4 1 11
+p159
+aVVladimir Radmanovic SEA 03/16/2003 SEA @ DEN W 22 12 5 8 62.5 2 5 40.0 0 0 - 3 6 9 0 1 0 0 0 2
+p160
+aVRay Allen SEA 03/16/2003 SEA @ DEN W 41 20 7 16 43.8 0 5 0.0 6 7 85.7 0 5 5 5 0 0 5 1 9
+p161
+aVRashard Lewis SEA 03/16/2003 SEA @ DEN W 34 24 9 17 52.9 1 3 33.3 5 6 83.3 1 3 4 3 0 1 2 4 2
+p162
+aVPredrag Drobnjak SEA 03/16/2003 SEA @ DEN W 33 11 4 12 33.3 0 1 0.0 3 4 75.0 2 4 6 1 0 0 1 3 11
+p163
+aVReggie Evans SEA 03/16/2003 SEA @ DEN W 39 5 2 3 66.7 0 0 - 1 1 100.0 3 8 11 0 4 0 0 4 12
+p164
+aVKevin Ollie SEA 03/16/2003 SEA @ DEN W 22 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -6
+p165
+aVBrent Barry SEA 03/15/2003 SEA vs. GSW L 41 10 4 9 44.4 0 3 0.0 2 2 100.0 0 3 3 5 1 1 0 5 -8
+p166
+aVKevin Ollie SEA 03/15/2003 SEA vs. GSW L 25 6 3 8 37.5 0 0 - 0 0 - 0 1 1 5 1 0 2 2 -7
+p167
+aVJerome James SEA 03/15/2003 SEA vs. GSW L 24 10 4 6 66.7 0 0 - 2 4 50.0 4 6 10 3 0 3 1 4 -3
+p168
+aVVladimir Radmanovic SEA 03/15/2003 SEA vs. GSW L 25 6 3 10 30.0 0 4 0.0 0 0 - 1 3 4 2 0 0 1 1 -5
+p169
+aVReggie Evans SEA 03/15/2003 SEA vs. GSW L 25 0 0 1 0.0 0 0 - 0 0 - 5 7 12 0 1 0 2 3 -4
+p170
+aVPredrag Drobnjak SEA 03/15/2003 SEA vs. GSW L 17 7 3 12 25.0 0 1 0.0 1 1 100.0 2 2 4 0 2 0 1 0 3
+p171
+aVRay Allen SEA 03/15/2003 SEA vs. GSW L 42 21 9 23 39.1 2 9 22.2 1 2 50.0 0 3 3 5 2 1 1 3 4
+p172
+aVRashard Lewis SEA 03/15/2003 SEA vs. GSW L 40 28 12 22 54.5 2 3 66.7 2 2 100.0 4 4 8 1 3 1 2 1 -10
+p173
+aVKevin Ollie SEA 03/13/2003 SEA vs. DAL W 27 9 3 7 42.9 0 0 - 3 4 75.0 0 0 0 5 0 0 3 3 3
+p174
+aVReggie Evans SEA 03/13/2003 SEA vs. DAL W 24 4 1 3 33.3 0 0 - 2 6 33.3 2 6 8 0 1 0 2 2 -8
+p175
+aVElden Campbell SEA 03/13/2003 SEA vs. DAL W 19 9 2 9 22.2 0 0 - 5 6 83.3 3 3 6 3 1 0 1 2 10
+p176
+aVRay Allen SEA 03/13/2003 SEA vs. DAL W 43 29 11 18 61.1 0 3 0.0 7 7 100.0 1 3 4 6 0 0 1 3 5
+p177
+aVBrent Barry SEA 03/13/2003 SEA vs. DAL W 36 9 2 4 50.0 1 3 33.3 4 6 66.7 0 4 4 5 1 0 5 3 19
+p178
+aVPredrag Drobnjak SEA 03/13/2003 SEA vs. DAL W 20 3 1 7 14.3 0 3 0.0 1 1 100.0 0 3 3 0 0 0 0 2 -7
+p179
+aVRashard Lewis SEA 03/13/2003 SEA vs. DAL W 44 30 12 18 66.7 1 2 50.0 5 6 83.3 3 7 10 1 1 1 2 3 1
+p180
+aVJoseph Forte SEA 03/13/2003 SEA vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p181
+aVVladimir Radmanovic SEA 03/13/2003 SEA vs. DAL W 28 14 4 6 66.7 4 6 66.7 2 2 100.0 0 6 6 0 1 0 0 3 14
+p182
+aVVladimir Radmanovic SEA 03/11/2003 SEA vs. POR L 28 14 5 11 45.5 4 7 57.1 0 0 - 0 2 2 1 2 1 0 0 -5
+p183
+aVElden Campbell SEA 03/11/2003 SEA vs. POR L 24 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 1 1 1 0 3 -5
+p184
+aVBrent Barry SEA 03/11/2003 SEA vs. POR L 32 10 4 11 36.4 0 5 0.0 2 2 100.0 3 2 5 2 3 0 3 3 -7
+p185
+aVKevin Ollie SEA 03/11/2003 SEA vs. POR L 30 15 6 9 66.7 1 1 100.0 2 2 100.0 1 2 3 11 1 0 1 1 2
+p186
+aVRay Allen SEA 03/11/2003 SEA vs. POR L 46 14 6 18 33.3 0 6 0.0 2 2 100.0 1 3 4 5 1 0 3 0 -17
+p187
+aVReggie Evans SEA 03/11/2003 SEA vs. POR L 20 5 1 2 50.0 0 0 - 3 3 100.0 3 5 8 0 0 0 1 2 -10
+p188
+aVRashard Lewis SEA 03/11/2003 SEA vs. POR L 29 9 4 8 50.0 1 1 100.0 0 0 - 1 2 3 1 1 0 1 5 -19
+p189
+aVJerome James SEA 03/11/2003 SEA vs. POR L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 4 1 0
+p190
+aVVitaly Potapenko SEA 03/11/2003 SEA vs. POR L 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 2 1 0 -5
+p191
+aVPredrag Drobnjak SEA 03/11/2003 SEA vs. POR L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -9
+p192
+aVRashard Lewis SEA 03/07/2003 SEA vs. PHI L 38 12 5 13 38.5 1 2 50.0 1 2 50.0 0 3 3 2 1 1 0 2 -3
+p193
+aVReggie Evans SEA 03/07/2003 SEA vs. PHI L 23 3 1 1 100.0 0 0 - 1 1 100.0 0 4 4 0 1 0 1 5 -2
+p194
+aVRay Allen SEA 03/07/2003 SEA vs. PHI L 46 24 8 23 34.8 5 9 55.6 3 4 75.0 1 6 7 7 1 0 3 4 -7
+p195
+aVBrent Barry SEA 03/07/2003 SEA vs. PHI L 29 14 3 6 50.0 2 4 50.0 6 6 100.0 0 1 1 7 1 0 2 1 -6
+p196
+aVJerome James SEA 03/07/2003 SEA vs. PHI L 24 7 2 3 66.7 0 0 - 3 6 50.0 2 4 6 0 0 4 3 3 -9
+p197
+aVVladimir Radmanovic SEA 03/07/2003 SEA vs. PHI L 30 20 7 10 70.0 4 6 66.7 2 2 100.0 0 4 4 2 1 1 2 4 7
+p198
+aVPredrag Drobnjak SEA 03/07/2003 SEA vs. PHI L 24 7 3 8 37.5 1 2 50.0 0 0 - 1 1 2 1 0 0 1 3 -16
+p199
+aVKevin Ollie SEA 03/07/2003 SEA vs. PHI L 27 12 5 8 62.5 0 0 - 2 2 100.0 0 2 2 5 1 0 2 2 -9
+p200
+aVPredrag Drobnjak SEA 03/05/2003 SEA @ UTA L 30 16 5 11 45.5 1 2 50.0 5 8 62.5 2 1 3 0 0 1 1 3 -4
+p201
+aVBrent Barry SEA 03/05/2003 SEA @ UTA L 34 13 4 8 50.0 3 5 60.0 2 2 100.0 2 1 3 5 2 0 1 5 -15
+p202
+aVVitaly Potapenko SEA 03/05/2003 SEA @ UTA L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -4
+p203
+aVVladimir Radmanovic SEA 03/05/2003 SEA @ UTA L 23 6 3 8 37.5 0 2 0.0 0 0 - 2 2 4 0 0 0 1 1 0
+p204
+aVReggie Evans SEA 03/05/2003 SEA @ UTA L 16 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 0 0 0 2 4 -9
+p205
+aVRashard Lewis SEA 03/05/2003 SEA @ UTA L 41 14 6 13 46.2 0 4 0.0 2 2 100.0 1 4 5 0 1 0 1 2 -18
+p206
+aVKevin Ollie SEA 03/05/2003 SEA @ UTA L 27 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 3 2 0 2 5 -3
+p207
+aVJerome James SEA 03/05/2003 SEA @ UTA L 20 5 2 5 40.0 0 0 - 1 2 50.0 0 6 6 0 0 2 3 3 5
+p208
+aVRay Allen SEA 03/05/2003 SEA @ UTA L 43 24 8 20 40.0 1 10 10.0 7 7 100.0 1 3 4 5 1 0 3 4 -7
+p209
+aVBrent Barry SEA 03/04/2003 SEA vs. MIN W 39 19 7 11 63.6 3 5 60.0 2 2 100.0 0 2 2 6 1 1 2 2 4
+p210
+aVRashard Lewis SEA 03/04/2003 SEA vs. MIN W 38 17 6 14 42.9 0 1 0.0 5 6 83.3 0 5 5 0 1 0 1 2 7
+p211
+aVRay Allen SEA 03/04/2003 SEA vs. MIN W 40 29 10 20 50.0 4 7 57.1 5 5 100.0 1 8 9 6 3 0 3 2 10
+p212
+aVReggie Evans SEA 03/04/2003 SEA vs. MIN W 20 2 1 3 33.3 0 0 - 0 0 - 4 2 6 3 0 0 0 3 3
+p213
+aVJerome James SEA 03/04/2003 SEA vs. MIN W 13 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 1 1 5 6
+p214
+aVVladimir Radmanovic SEA 03/04/2003 SEA vs. MIN W 19 2 1 7 14.3 0 2 0.0 0 0 - 1 1 2 0 2 0 1 0 4
+p215
+aVPredrag Drobnjak SEA 03/04/2003 SEA vs. MIN W 24 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 2 1 0 0 1 6
+p216
+aVKevin Ollie SEA 03/04/2003 SEA vs. MIN W 32 11 4 8 50.0 0 0 - 3 5 60.0 1 2 3 2 0 0 2 3 6
+p217
+aVElden Campbell SEA 03/04/2003 SEA vs. MIN W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 1 1 1 1 -1
+p218
+aVVladimir Radmanovic SEA 03/01/2003 SEA @ LAC W 18 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 3 8
+p219
+aVRay Allen SEA 03/01/2003 SEA @ LAC W 41 40 12 18 66.7 5 9 55.6 11 12 91.7 2 3 5 3 1 0 3 2 4
+p220
+aVRashard Lewis SEA 03/01/2003 SEA @ LAC W 42 10 4 15 26.7 0 2 0.0 2 2 100.0 0 2 2 2 0 1 0 2 -2
+p221
+aVKevin Ollie SEA 03/01/2003 SEA @ LAC W 25 12 4 7 57.1 0 0 - 4 6 66.7 0 2 2 7 1 0 0 4 10
+p222
+aVBrent Barry SEA 03/01/2003 SEA @ LAC W 36 12 5 10 50.0 2 7 28.6 0 0 - 1 5 6 6 2 0 4 2 3
+p223
+aVJerome James SEA 03/01/2003 SEA @ LAC W 14 10 5 5 100.0 0 0 - 0 2 0.0 0 4 4 0 0 1 1 5 0
+p224
+aVPredrag Drobnjak SEA 03/01/2003 SEA @ LAC W 31 19 8 12 66.7 0 1 0.0 3 4 75.0 2 5 7 3 0 1 0 4 9
+p225
+aVReggie Evans SEA 03/01/2003 SEA @ LAC W 33 3 1 2 50.0 0 0 - 1 1 100.0 4 4 8 0 0 1 2 4 8
+p226
+aVReggie Evans SEA 02/28/2003 SEA vs. LAL W 19 4 1 2 50.0 0 0 - 2 2 100.0 3 6 9 1 0 0 0 2 5
+p227
+aVRay Allen SEA 02/28/2003 SEA vs. LAL W 37 29 11 25 44.0 3 11 27.3 4 4 100.0 3 7 10 10 0 1 2 4 12
+p228
+aVBrent Barry SEA 02/28/2003 SEA vs. LAL W 38 10 3 8 37.5 2 5 40.0 2 2 100.0 2 5 7 6 1 0 2 4 8
+p229
+aVKevin Ollie SEA 02/28/2003 SEA vs. LAL W 29 11 3 6 50.0 0 0 - 5 5 100.0 0 6 6 2 1 0 0 1 12
+p230
+aVJoseph Forte SEA 02/28/2003 SEA vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p231
+aVVladimir Radmanovic SEA 02/28/2003 SEA vs. LAL W 28 18 8 12 66.7 2 4 50.0 0 0 - 1 4 5 2 1 1 1 1 15
+p232
+aVJerome James SEA 02/28/2003 SEA vs. LAL W 20 4 1 5 20.0 0 0 - 2 2 100.0 2 4 6 0 0 0 4 5 5
+p233
+aVPredrag Drobnjak SEA 02/28/2003 SEA vs. LAL W 24 18 9 15 60.0 0 1 0.0 0 0 - 3 3 6 2 0 1 2 3 8
+p234
+aVElden Campbell SEA 02/28/2003 SEA vs. LAL W 6 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 3
+p235
+aVRashard Lewis SEA 02/28/2003 SEA vs. LAL W 38 11 5 13 38.5 0 4 0.0 1 2 50.0 1 4 5 1 2 0 0 3 19
+p236
+aVRay Allen SEA 02/26/2003 SEA vs. ATL W 36 21 5 15 33.3 4 8 50.0 7 7 100.0 3 3 6 9 3 0 1 1 19
+p237
+aVJoseph Forte SEA 02/26/2003 SEA vs. ATL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -1
+p238
+aVRonald Murray SEA 02/26/2003 SEA vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p239
+aVReggie Evans SEA 02/26/2003 SEA vs. ATL W 32 3 1 2 50.0 0 0 - 1 2 50.0 4 8 12 1 0 0 1 3 5
+p240
+aVBrent Barry SEA 02/26/2003 SEA vs. ATL W 28 7 2 6 33.3 1 4 25.0 2 2 100.0 0 3 3 3 3 2 1 2 0
+p241
+aVRashard Lewis SEA 02/26/2003 SEA vs. ATL W 42 15 5 12 41.7 2 3 66.7 3 4 75.0 0 5 5 0 2 0 3 2 12
+p242
+aVJerome James SEA 02/26/2003 SEA vs. ATL W 20 11 4 10 40.0 0 0 - 3 5 60.0 0 2 2 2 1 2 1 4 17
+p243
+aVPredrag Drobnjak SEA 02/26/2003 SEA vs. ATL W 26 13 6 14 42.9 0 1 0.0 1 2 50.0 1 2 3 1 0 0 2 2 0
+p244
+aVKevin Ollie SEA 02/26/2003 SEA vs. ATL W 20 8 4 6 66.7 0 0 - 0 0 - 1 0 1 3 0 0 2 0 12
+p245
+aVVladimir Radmanovic SEA 02/26/2003 SEA vs. ATL W 29 15 5 7 71.4 3 3 100.0 2 2 100.0 1 3 4 4 2 0 1 1 22
+p246
+aVJerome James SEA 02/24/2003 SEA vs. DET W 18 8 3 5 60.0 0 0 - 2 4 50.0 1 2 3 1 0 0 3 4 5
+p247
+aVVitaly Potapenko SEA 02/24/2003 SEA vs. DET W 13 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -3
+p248
+aVBrent Barry SEA 02/24/2003 SEA vs. DET W 35 4 1 6 16.7 0 2 0.0 2 4 50.0 0 3 3 3 2 0 1 2 3
+p249
+aVKevin Ollie SEA 02/24/2003 SEA vs. DET W 25 8 3 3 100.0 0 0 - 2 2 100.0 0 6 6 4 0 0 0 1 1
+p250
+aVPredrag Drobnjak SEA 02/24/2003 SEA vs. DET W 31 15 7 13 53.8 1 1 100.0 0 0 - 0 2 2 2 1 0 1 3 7
+p251
+aVRashard Lewis SEA 02/24/2003 SEA vs. DET W 41 22 9 14 64.3 1 1 100.0 3 5 60.0 0 8 8 0 2 0 2 0 3
+p252
+aVReggie Evans SEA 02/24/2003 SEA vs. DET W 20 2 1 2 50.0 0 0 - 0 0 - 3 5 8 0 2 0 1 4 8
+p253
+aVRay Allen SEA 02/24/2003 SEA vs. DET W 38 23 7 18 38.9 2 5 40.0 7 8 87.5 0 3 3 8 1 0 0 3 9
+p254
+aVVladimir Radmanovic SEA 02/24/2003 SEA vs. DET W 19 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 2
+p255
+aVJoseph Forte SEA 02/24/2003 SEA vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p256
+aVPredrag Drobnjak SEA 02/23/2003 SEA @ LAL L 34 16 7 15 46.7 0 2 0.0 2 2 100.0 2 4 6 3 0 1 0 4 -2
+p257
+aVReggie Evans SEA 02/23/2003 SEA @ LAL L 19 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 8
+p258
+aVJerome James SEA 02/23/2003 SEA @ LAL L 12 8 4 5 80.0 0 0 - 0 0 - 1 4 5 1 0 2 1 6 -5
+p259
+aVRashard Lewis SEA 02/23/2003 SEA @ LAL L 40 28 9 18 50.0 1 5 20.0 9 10 90.0 3 5 8 2 3 0 2 2 7
+p260
+aVElden Campbell SEA 02/23/2003 SEA @ LAL L 10 4 0 1 0.0 0 0 - 4 4 100.0 1 2 3 1 0 0 0 0 9
+p261
+aVVitaly Potapenko SEA 02/23/2003 SEA @ LAL L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -12
+p262
+aVRay Allen SEA 02/23/2003 SEA @ LAL L 42 26 9 27 33.3 4 14 28.6 4 5 80.0 9 4 13 9 3 0 5 4 7
+p263
+aVKevin Ollie SEA 02/23/2003 SEA @ LAL L 13 2 0 2 0.0 0 0 - 2 4 50.0 0 0 0 0 0 0 2 0 -18
+p264
+aVBrent Barry SEA 02/23/2003 SEA @ LAL L 41 12 3 6 50.0 2 4 50.0 4 5 80.0 0 1 1 3 1 0 5 4 1
+p265
+aVVladimir Radmanovic SEA 02/23/2003 SEA @ LAL L 22 4 2 7 28.6 0 3 0.0 0 0 - 0 2 2 0 0 0 2 2 -20
+p266
+aVPredrag Drobnjak SEA 02/21/2003 SEA vs. MIL W 38 12 5 16 31.3 2 3 66.7 0 0 - 0 5 5 3 0 4 0 0 20
+p267
+aVRashard Lewis SEA 02/21/2003 SEA vs. MIL W 40 20 8 19 42.1 2 4 50.0 2 3 66.7 1 4 5 3 0 0 2 0 31
+p268
+aVVitaly Potapenko SEA 02/21/2003 SEA vs. MIL W 13 8 4 4 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 12
+p269
+aVJoseph Forte SEA 02/21/2003 SEA vs. MIL W 24 7 2 7 28.6 0 1 0.0 3 4 75.0 1 2 3 1 2 0 3 2 14
+p270
+aVBrent Barry SEA 02/21/2003 SEA vs. MIL W 37 16 6 7 85.7 2 3 66.7 2 2 100.0 1 4 5 16 0 0 3 1 21
+p271
+aVJerome James SEA 02/21/2003 SEA vs. MIL W 22 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 1 1 1 0 3 5
+p272
+aVReggie Evans SEA 02/21/2003 SEA vs. MIL W 22 7 3 3 100.0 0 0 - 1 4 25.0 4 10 14 0 0 0 1 4 19
+p273
+aVVladimir Radmanovic SEA 02/21/2003 SEA vs. MIL W 43 12 5 18 27.8 1 4 25.0 1 2 50.0 2 5 7 1 0 1 1 1 28
+p274
+aVBrent Barry SEA 02/19/2003 SEA vs. NYK W 24 6 3 5 60.0 0 2 0.0 0 1 0.0 0 4 4 2 1 0 2 6 0
+p275
+aVVladimir Radmanovic SEA 02/19/2003 SEA vs. NYK W 22 11 3 7 42.9 2 6 33.3 3 4 75.0 0 4 4 0 1 1 2 2 3
+p276
+aVDesmond Mason SEA 02/19/2003 SEA vs. NYK W 31 9 2 5 40.0 0 0 - 5 6 83.3 0 4 4 3 0 1 1 0 6
+p277
+aVAnsu Sesay SEA 02/19/2003 SEA vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p278
+aVRashard Lewis SEA 02/19/2003 SEA vs. NYK W 41 26 9 14 64.3 1 2 50.0 7 8 87.5 4 4 8 2 1 0 3 2 12
+p279
+aVPredrag Drobnjak SEA 02/19/2003 SEA vs. NYK W 29 11 4 13 30.8 1 2 50.0 2 2 100.0 1 4 5 2 0 0 1 3 12
+p280
+aVReggie Evans SEA 02/19/2003 SEA vs. NYK W 29 5 2 2 100.0 0 0 - 1 3 33.3 6 8 14 0 1 0 2 6 8
+p281
+aVVitaly Potapenko SEA 02/19/2003 SEA vs. NYK W 15 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 -5
+p282
+aVGary Payton SEA 02/19/2003 SEA vs. NYK W 45 31 11 26 42.3 1 3 33.3 8 10 80.0 1 2 3 5 5 0 4 3 11
+p283
+aVVitaly Potapenko SEA 02/15/2003 SEA @ POR L 22 13 6 6 100.0 0 0 - 1 2 50.0 0 6 6 0 1 0 1 4 -5
+p284
+aVPredrag Drobnjak SEA 02/15/2003 SEA @ POR L 30 23 9 15 60.0 3 4 75.0 2 2 100.0 3 2 5 0 0 0 1 5 -11
+p285
+aVBrent Barry SEA 02/15/2003 SEA @ POR L 38 6 2 6 33.3 2 6 33.3 0 0 - 1 7 8 13 0 1 1 0 -5
+p286
+aVReggie Evans SEA 02/15/2003 SEA @ POR L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p287
+aVJerome James SEA 02/15/2003 SEA @ POR L 13 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 0 0 2 1 5 9
+p288
+aVGary Payton SEA 02/15/2003 SEA @ POR L 41 19 8 21 38.1 1 6 16.7 2 3 66.7 0 1 1 7 5 0 1 2 -6
+p289
+aVDesmond Mason SEA 02/15/2003 SEA @ POR L 39 14 6 13 46.2 0 1 0.0 2 3 66.7 0 2 2 4 0 0 1 6 -14
+p290
+aVVladimir Radmanovic SEA 02/15/2003 SEA @ POR L 30 9 3 8 37.5 2 6 33.3 1 2 50.0 0 2 2 3 0 0 3 2 13
+p291
+aVAnsu Sesay SEA 02/15/2003 SEA @ POR L 20 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 3 1 0 2 3 4
+p292
+aVGary Payton SEA 02/14/2003 SEA @ SAC L 35 20 7 18 38.9 0 2 0.0 6 10 60.0 4 3 7 3 2 0 2 2 -32
+p293
+aVBrent Barry SEA 02/14/2003 SEA @ SAC L 21 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 7 2 1 2 0 -11
+p294
+aVRashard Lewis SEA 02/14/2003 SEA @ SAC L 28 11 2 12 16.7 0 1 0.0 7 7 100.0 3 2 5 1 0 0 3 3 -34
+p295
+aVAnsu Sesay SEA 02/14/2003 SEA @ SAC L 16 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 1 0 0 0 4
+p296
+aVJoseph Forte SEA 02/14/2003 SEA @ SAC L 5 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 4 1 0 1 1 -1
+p297
+aVCalvin Booth SEA 02/14/2003 SEA @ SAC L 16 4 1 6 16.7 0 0 - 2 2 100.0 1 3 4 0 0 1 0 2 -11
+p298
+aVVladimir Radmanovic SEA 02/14/2003 SEA @ SAC L 27 5 2 8 25.0 1 4 25.0 0 0 - 2 3 5 0 1 1 2 1 -19
+p299
+aVDesmond Mason SEA 02/14/2003 SEA @ SAC L 42 12 6 14 42.9 0 0 - 0 2 0.0 3 3 6 2 1 0 1 0 -13
+p300
+aVJerome James SEA 02/14/2003 SEA @ SAC L 7 2 1 4 25.0 0 0 - 0 0 - 3 0 3 0 0 1 1 2 -10
+p301
+aVReggie Evans SEA 02/14/2003 SEA @ SAC L 18 2 0 0 - 0 0 - 2 4 50.0 0 5 5 0 0 0 1 4 -16
+p302
+aVPredrag Drobnjak SEA 02/14/2003 SEA @ SAC L 23 12 5 12 41.7 0 1 0.0 2 2 100.0 3 2 5 1 0 1 2 1 -2
+p303
+aVPredrag Drobnjak SEA 02/11/2003 SEA vs. BOS L 11 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 2
+p304
+aVAnsu Sesay SEA 02/11/2003 SEA vs. BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p305
+aVJerome James SEA 02/11/2003 SEA vs. BOS L 7 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 1 1 0 -6
+p306
+aVDesmond Mason SEA 02/11/2003 SEA vs. BOS L 43 17 6 19 31.6 0 2 0.0 5 7 71.4 2 6 8 4 0 1 1 3 5
+p307
+aVGary Payton SEA 02/11/2003 SEA vs. BOS L 45 23 9 21 42.9 0 3 0.0 5 8 62.5 2 5 7 11 2 0 4 1 -2
+p308
+aVCalvin Booth SEA 02/11/2003 SEA vs. BOS L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -11
+p309
+aVBrent Barry SEA 02/11/2003 SEA vs. BOS L 32 0 0 4 0.0 0 3 0.0 0 0 - 2 3 5 4 1 0 1 4 -6
+p310
+aVVitaly Potapenko SEA 02/11/2003 SEA vs. BOS L 9 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 2 1 1 1 11
+p311
+aVReggie Evans SEA 02/11/2003 SEA vs. BOS L 31 5 1 1 100.0 0 0 - 3 6 50.0 7 9 16 0 0 1 2 2 -13
+p312
+aVKenny Anderson SEA 02/11/2003 SEA vs. BOS L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 -13
+p313
+aVRashard Lewis SEA 02/11/2003 SEA vs. BOS L 38 15 7 21 33.3 0 4 0.0 1 2 50.0 3 4 7 0 1 1 4 4 0
+p314
+aVAnsu Sesay SEA 02/06/2003 SEA @ MIL L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -1
+p315
+aVDesmond Mason SEA 02/06/2003 SEA @ MIL L 40 12 4 10 40.0 0 0 - 4 4 100.0 2 1 3 5 1 0 2 1 -4
+p316
+aVRashard Lewis SEA 02/06/2003 SEA @ MIL L 39 18 8 15 53.3 1 3 33.3 1 1 100.0 1 6 7 5 3 0 3 5 -1
+p317
+aVPredrag Drobnjak SEA 02/06/2003 SEA @ MIL L 9 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -7
+p318
+aVBrent Barry SEA 02/06/2003 SEA @ MIL L 24 13 4 5 80.0 3 4 75.0 2 4 50.0 1 1 2 3 2 0 3 0 -8
+p319
+aVReggie Evans SEA 02/06/2003 SEA @ MIL L 26 2 0 1 0.0 0 0 - 2 2 100.0 5 3 8 4 0 0 2 5 3
+p320
+aVGary Payton SEA 02/06/2003 SEA @ MIL L 41 27 10 20 50.0 2 3 66.7 5 6 83.3 0 4 4 3 0 0 2 2 -4
+p321
+aVKenny Anderson SEA 02/06/2003 SEA @ MIL L 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 0 0 0 2 -5
+p322
+aVJerome James SEA 02/06/2003 SEA @ MIL L 23 12 4 8 50.0 0 0 - 4 6 66.7 1 3 4 0 0 2 0 4 2
+p323
+aVCalvin Booth SEA 02/06/2003 SEA @ MIL L 17 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 0 1 1 -5
+p324
+aVVitaly Potapenko SEA 02/05/2003 SEA @ BOS L 15 5 1 3 33.3 0 0 - 3 3 100.0 1 5 6 1 0 0 3 1 -21
+p325
+aVCalvin Booth SEA 02/05/2003 SEA @ BOS L 6 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 0 -6
+p326
+aVKenny Anderson SEA 02/05/2003 SEA @ BOS L 23 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 3 0 0 0 1 -23
+p327
+aVJoseph Forte SEA 02/05/2003 SEA @ BOS L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p328
+aVAnsu Sesay SEA 02/05/2003 SEA @ BOS L 21 5 2 7 28.6 0 0 - 1 2 50.0 2 2 4 1 0 1 0 1 -19
+p329
+aVJerome James SEA 02/05/2003 SEA @ BOS L 17 8 4 4 100.0 0 0 - 0 2 0.0 2 3 5 0 0 3 1 3 1
+p330
+aVBrent Barry SEA 02/05/2003 SEA @ BOS L 26 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 2 1 0 1 1 -25
+p331
+aVPredrag Drobnjak SEA 02/05/2003 SEA @ BOS L 19 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 1 0 2 0 1 -25
+p332
+aVDesmond Mason SEA 02/05/2003 SEA @ BOS L 41 12 5 17 29.4 0 1 0.0 2 2 100.0 1 6 7 2 0 0 2 1 -39
+p333
+aVGary Payton SEA 02/05/2003 SEA @ BOS L 34 14 6 14 42.9 0 1 0.0 2 2 100.0 2 3 5 9 1 0 1 1 -20
+p334
+aVRashard Lewis SEA 02/05/2003 SEA @ BOS L 34 15 6 15 40.0 1 4 25.0 2 2 100.0 1 4 5 0 0 0 1 1 -17
+p335
+aVGary Payton SEA 02/03/2003 SEA @ NJN L 45 12 5 19 26.3 0 2 0.0 2 2 100.0 1 3 4 7 2 1 2 4 -6
+p336
+aVKenny Anderson SEA 02/03/2003 SEA @ NJN L 33 15 7 12 58.3 0 0 - 1 1 100.0 0 5 5 8 2 0 1 1 12
+p337
+aVBrent Barry SEA 02/03/2003 SEA @ NJN L 20 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 3 0 0 3 -7
+p338
+aVReggie Evans SEA 02/03/2003 SEA @ NJN L 18 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 1 0 0 1 -6
+p339
+aVDesmond Mason SEA 02/03/2003 SEA @ NJN L 50 30 13 25 52.0 1 3 33.3 3 5 60.0 2 4 6 6 1 0 1 4 5
+p340
+aVRashard Lewis SEA 02/03/2003 SEA @ NJN L 47 25 8 14 57.1 2 4 50.0 7 7 100.0 5 3 8 1 3 0 1 4 -2
+p341
+aVJerome James SEA 02/03/2003 SEA @ NJN L 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 2 1 -9
+p342
+aVCalvin Booth SEA 02/03/2003 SEA @ NJN L 29 7 3 4 75.0 0 0 - 1 1 100.0 1 3 4 1 1 2 0 2 9
+p343
+aVPredrag Drobnjak SEA 02/03/2003 SEA @ NJN L 17 12 4 7 57.1 1 1 100.0 3 4 75.0 1 0 1 0 0 1 0 2 -1
+p344
+aVKenny Anderson SEA 02/01/2003 SEA vs. CHI W 27 6 2 7 28.6 0 0 - 2 2 100.0 0 3 3 3 3 0 1 1 5
+p345
+aVPredrag Drobnjak SEA 02/01/2003 SEA vs. CHI W 12 4 1 7 14.3 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 0 -5
+p346
+aVCalvin Booth SEA 02/01/2003 SEA vs. CHI W 16 0 0 1 0.0 0 0 - 0 0 - 0 4 4 2 0 3 0 5 -6
+p347
+aVDesmond Mason SEA 02/01/2003 SEA vs. CHI W 42 20 7 12 58.3 0 0 - 6 8 75.0 2 6 8 2 2 1 3 1 14
+p348
+aVAnsu Sesay SEA 02/01/2003 SEA vs. CHI W 7 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 -6
+p349
+aVGary Payton SEA 02/01/2003 SEA vs. CHI W 42 20 5 20 25.0 0 3 0.0 10 12 83.3 1 5 6 8 4 0 4 2 16
+p350
+aVRashard Lewis SEA 02/01/2003 SEA vs. CHI W 41 23 7 17 41.2 2 4 50.0 7 9 77.8 2 3 5 0 0 1 2 1 14
+p351
+aVReggie Evans SEA 02/01/2003 SEA vs. CHI W 32 6 2 5 40.0 0 0 - 2 4 50.0 5 7 12 0 2 0 1 3 11
+p352
+aVJerome James SEA 02/01/2003 SEA vs. CHI W 22 8 3 7 42.9 0 0 - 2 2 100.0 4 4 8 2 1 4 0 5 22
+p353
+aVDesmond Mason SEA 01/30/2003 SEA vs. SAC L 37 11 4 14 28.6 0 1 0.0 3 5 60.0 0 11 11 3 1 0 1 3 -12
+p354
+aVRashard Lewis SEA 01/30/2003 SEA vs. SAC L 42 25 10 18 55.6 4 6 66.7 1 1 100.0 2 5 7 0 0 0 3 3 -18
+p355
+aVCalvin Booth SEA 01/30/2003 SEA vs. SAC L 16 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 0 1 2 0 4 1
+p356
+aVAnsu Sesay SEA 01/30/2003 SEA vs. SAC L 27 6 3 7 42.9 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -14
+p357
+aVGary Payton SEA 01/30/2003 SEA vs. SAC L 44 12 5 17 29.4 0 1 0.0 2 2 100.0 0 4 4 10 2 0 3 1 -18
+p358
+aVJerome James SEA 01/30/2003 SEA vs. SAC L 21 3 1 4 25.0 0 0 - 1 2 50.0 2 8 10 0 0 3 1 3 -7
+p359
+aVKenny Anderson SEA 01/30/2003 SEA vs. SAC L 32 12 4 16 25.0 0 0 - 4 5 80.0 2 1 3 1 1 0 2 0 -11
+p360
+aVReggie Evans SEA 01/30/2003 SEA vs. SAC L 10 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 0 1
+p361
+aVPredrag Drobnjak SEA 01/30/2003 SEA vs. SAC L 11 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 -12
+p362
+aVJerome James SEA 01/28/2003 SEA vs. GSW W 19 12 5 10 50.0 0 0 - 2 2 100.0 3 3 6 1 0 2 3 3 4
+p363
+aVReggie Evans SEA 01/28/2003 SEA vs. GSW W 24 0 0 2 0.0 0 0 - 0 0 - 2 7 9 1 1 0 0 6 20
+p364
+aVRashard Lewis SEA 01/28/2003 SEA vs. GSW W 38 22 7 13 53.8 2 2 100.0 6 10 60.0 4 11 15 1 0 0 5 3 6
+p365
+aVAnsu Sesay SEA 01/28/2003 SEA vs. GSW W 20 2 1 4 25.0 0 0 - 0 2 0.0 1 0 1 1 2 0 1 1 -8
+p366
+aVDesmond Mason SEA 01/28/2003 SEA vs. GSW W 36 17 7 14 50.0 0 0 - 3 6 50.0 2 8 10 3 2 0 1 3 -15
+p367
+aVPredrag Drobnjak SEA 01/28/2003 SEA vs. GSW W 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 3
+p368
+aVKenny Anderson SEA 01/28/2003 SEA vs. GSW W 39 10 4 13 30.8 0 0 - 2 2 100.0 1 1 2 7 5 0 3 3 1
+p369
+aVCalvin Booth SEA 01/28/2003 SEA vs. GSW W 10 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 0 1 1 1 4
+p370
+aVGary Payton SEA 01/28/2003 SEA vs. GSW W 42 20 7 20 35.0 1 3 33.3 5 10 50.0 1 1 2 7 3 0 1 4 0
+p371
+aVGary Payton SEA 01/25/2003 SEA @ MEM W 41 18 7 15 46.7 1 2 50.0 3 4 75.0 2 3 5 6 1 1 2 1 9
+p372
+aVKenny Anderson SEA 01/25/2003 SEA @ MEM W 19 8 4 9 44.4 0 1 0.0 0 0 - 0 3 3 5 1 0 0 2 0
+p373
+aVAnsu Sesay SEA 01/25/2003 SEA @ MEM W 15 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 2 4
+p374
+aVDesmond Mason SEA 01/25/2003 SEA @ MEM W 39 7 2 12 16.7 0 1 0.0 3 4 75.0 2 4 6 5 1 0 0 3 16
+p375
+aVJerome James SEA 01/25/2003 SEA @ MEM W 11 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 1 0 1 2 5 3
+p376
+aVVladimir Radmanovic SEA 01/25/2003 SEA @ MEM W 40 29 9 15 60.0 6 11 54.5 5 7 71.4 2 6 8 3 2 1 2 4 14
+p377
+aVPredrag Drobnjak SEA 01/25/2003 SEA @ MEM W 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -5
+p378
+aVRashard Lewis SEA 01/25/2003 SEA @ MEM W 41 22 9 17 52.9 0 2 0.0 4 6 66.7 4 6 10 1 2 0 2 3 6
+p379
+aVCalvin Booth SEA 01/25/2003 SEA @ MEM W 18 3 0 0 - 0 0 - 3 4 75.0 0 3 3 0 0 4 0 3 13
+p380
+aVBrent Barry SEA 01/24/2003 SEA @ IND L 20 4 1 4 25.0 1 3 33.3 1 2 50.0 1 2 3 3 0 0 2 4 -13
+p381
+aVRashard Lewis SEA 01/24/2003 SEA @ IND L 39 13 5 13 38.5 0 1 0.0 3 4 75.0 2 4 6 1 1 1 4 2 -10
+p382
+aVDesmond Mason SEA 01/24/2003 SEA @ IND L 35 17 7 16 43.8 1 1 100.0 2 2 100.0 2 4 6 2 0 0 1 2 -1
+p383
+aVJerome James SEA 01/24/2003 SEA @ IND L 20 6 2 5 40.0 0 0 - 2 2 100.0 2 7 9 0 1 3 1 4 -6
+p384
+aVCalvin Booth SEA 01/24/2003 SEA @ IND L 17 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 3 0 2 -4
+p385
+aVKenny Anderson SEA 01/24/2003 SEA @ IND L 31 15 7 11 63.6 0 0 - 1 2 50.0 0 5 5 6 2 0 2 1 -6
+p386
+aVPredrag Drobnjak SEA 01/24/2003 SEA @ IND L 15 0 0 5 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 -8
+p387
+aVGary Payton SEA 01/24/2003 SEA @ IND L 38 18 8 15 53.3 0 1 0.0 2 2 100.0 1 4 5 8 2 0 4 4 -8
+p388
+aVVladimir Radmanovic SEA 01/24/2003 SEA @ IND L 25 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 1 0 0 4 0 -9
+p389
+aVPredrag Drobnjak SEA 01/22/2003 SEA @ MIN L 25 6 2 7 28.6 0 1 0.0 2 2 100.0 1 3 4 2 0 0 0 1 -7
+p390
+aVKenny Anderson SEA 01/22/2003 SEA @ MIN L 26 11 5 9 55.6 0 1 0.0 1 2 50.0 0 7 7 5 0 0 0 3 0
+p391
+aVJerome James SEA 01/22/2003 SEA @ MIN L 17 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 1 1 2 2 -6
+p392
+aVGary Payton SEA 01/22/2003 SEA @ MIN L 38 20 10 13 76.9 0 0 - 0 0 - 2 4 6 13 2 0 3 0 -6
+p393
+aVRashard Lewis SEA 01/22/2003 SEA @ MIN L 40 10 4 14 28.6 0 5 0.0 2 2 100.0 2 2 4 1 0 0 4 3 -13
+p394
+aVDesmond Mason SEA 01/22/2003 SEA @ MIN L 29 14 7 13 53.8 0 0 - 0 0 - 1 3 4 0 1 0 0 1 3
+p395
+aVVladimir Radmanovic SEA 01/22/2003 SEA @ MIN L 15 9 4 8 50.0 1 3 33.3 0 0 - 1 4 5 1 0 0 0 2 7
+p396
+aVBrent Barry SEA 01/22/2003 SEA @ MIN L 29 11 4 6 66.7 2 4 50.0 1 1 100.0 0 2 2 3 0 0 1 2 -3
+p397
+aVVitaly Potapenko SEA 01/22/2003 SEA @ MIN L 22 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 1 1 1 0 0
+p398
+aVVitaly Potapenko SEA 01/19/2003 SEA vs. DAL W 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -11
+p399
+aVGary Payton SEA 01/19/2003 SEA vs. DAL W 39 12 6 17 35.3 0 3 0.0 0 0 - 0 2 2 8 1 0 4 3 -4
+p400
+aVJerome James SEA 01/19/2003 SEA vs. DAL W 7 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 1 0
+p401
+aVDesmond Mason SEA 01/19/2003 SEA vs. DAL W 28 6 3 12 25.0 0 1 0.0 0 0 - 1 5 6 3 1 0 1 1 6
+p402
+aVBrent Barry SEA 01/19/2003 SEA vs. DAL W 37 13 5 7 71.4 3 5 60.0 0 0 - 0 2 2 6 2 0 2 4 23
+p403
+aVKenny Anderson SEA 01/19/2003 SEA vs. DAL W 30 13 6 11 54.5 0 0 - 1 1 100.0 1 2 3 7 0 0 2 3 -2
+p404
+aVRashard Lewis SEA 01/19/2003 SEA vs. DAL W 39 19 7 13 53.8 2 4 50.0 3 4 75.0 2 11 13 1 2 0 4 3 -2
+p405
+aVPredrag Drobnjak SEA 01/19/2003 SEA vs. DAL W 36 19 8 13 61.5 0 1 0.0 3 3 100.0 2 7 9 2 1 1 0 1 18
+p406
+aVAnsu Sesay SEA 01/19/2003 SEA vs. DAL W 15 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 1 5 -8
+p407
+aVJerome James SEA 01/17/2003 SEA vs. MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 4
+p408
+aVDesmond Mason SEA 01/17/2003 SEA vs. MEM W 39 20 9 13 69.2 0 1 0.0 2 3 66.7 0 6 6 3 0 0 0 4 1
+p409
+aVRashard Lewis SEA 01/17/2003 SEA vs. MEM W 42 24 9 20 45.0 1 4 25.0 5 6 83.3 1 0 1 3 1 2 1 4 7
+p410
+aVAnsu Sesay SEA 01/17/2003 SEA vs. MEM W 22 8 4 7 57.1 0 0 - 0 0 - 2 3 5 1 0 0 1 5 -7
+p411
+aVKenny Anderson SEA 01/17/2003 SEA vs. MEM W 26 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 3 4 0 1 2 4
+p412
+aVBrent Barry SEA 01/17/2003 SEA vs. MEM W 35 8 3 4 75.0 2 2 100.0 0 0 - 1 5 6 8 1 0 0 5 17
+p413
+aVPredrag Drobnjak SEA 01/17/2003 SEA vs. MEM W 19 0 0 8 0.0 0 0 - 0 0 - 3 4 7 0 0 1 0 1 -4
+p414
+aVVitaly Potapenko SEA 01/17/2003 SEA vs. MEM W 33 10 5 8 62.5 0 0 - 0 0 - 3 4 7 0 0 0 1 5 11
+p415
+aVGary Payton SEA 01/17/2003 SEA vs. MEM W 44 27 12 26 46.2 1 3 33.3 2 8 25.0 1 11 12 9 0 0 0 0 -3
+p416
+aVVitaly Potapenko SEA 01/16/2003 SEA @ UTA L 14 7 2 3 66.7 0 0 - 3 3 100.0 2 2 4 0 0 0 5 1 -6
+p417
+aVPredrag Drobnjak SEA 01/16/2003 SEA @ UTA L 31 7 3 7 42.9 0 0 - 1 2 50.0 4 4 8 2 5 0 1 3 2
+p418
+aVJerome James SEA 01/16/2003 SEA @ UTA L 23 4 1 2 50.0 0 0 - 2 6 33.3 1 3 4 1 1 3 0 4 1
+p419
+aVRashard Lewis SEA 01/16/2003 SEA @ UTA L 40 11 5 13 38.5 1 4 25.0 0 0 - 2 3 5 2 1 0 2 3 -9
+p420
+aVKenny Anderson SEA 01/16/2003 SEA @ UTA L 13 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 -6
+p421
+aVBrent Barry SEA 01/16/2003 SEA @ UTA L 36 11 3 9 33.3 1 6 16.7 4 4 100.0 1 1 2 4 0 0 2 4 -1
+p422
+aVDesmond Mason SEA 01/16/2003 SEA @ UTA L 31 11 5 10 50.0 0 1 0.0 1 2 50.0 1 5 6 2 1 2 2 3 -9
+p423
+aVGary Payton SEA 01/16/2003 SEA @ UTA L 41 27 11 20 55.0 1 3 33.3 4 5 80.0 1 4 5 8 2 0 2 2 -4
+p424
+aVCalvin Booth SEA 01/16/2003 SEA @ UTA L 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p425
+aVRashard Lewis SEA 01/12/2003 SEA vs. CLE L 37 17 6 13 46.2 0 3 0.0 5 5 100.0 1 5 6 1 3 0 3 2 -9
+p426
+aVGary Payton SEA 01/12/2003 SEA vs. CLE L 43 21 9 17 52.9 0 0 - 3 4 75.0 2 3 5 7 2 0 3 3 -14
+p427
+aVJerome James SEA 01/12/2003 SEA vs. CLE L 30 9 4 11 36.4 0 0 - 1 2 50.0 1 4 5 0 2 4 0 5 -9
+p428
+aVJoseph Forte SEA 01/12/2003 SEA vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p429
+aVCalvin Booth SEA 01/12/2003 SEA vs. CLE L 4 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -2
+p430
+aVVladimir Radmanovic SEA 01/12/2003 SEA vs. CLE L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p431
+aVBrent Barry SEA 01/12/2003 SEA vs. CLE L 30 5 1 7 14.3 1 3 33.3 2 2 100.0 0 3 3 2 3 1 4 4 -3
+p432
+aVDesmond Mason SEA 01/12/2003 SEA vs. CLE L 28 7 2 6 33.3 0 0 - 3 4 75.0 1 5 6 0 0 0 3 5 -3
+p433
+aVPredrag Drobnjak SEA 01/12/2003 SEA vs. CLE L 25 6 3 11 27.3 0 0 - 0 0 - 2 3 5 4 0 0 1 1 -2
+p434
+aVKenny Anderson SEA 01/12/2003 SEA vs. CLE L 19 6 3 4 75.0 0 0 - 0 1 0.0 0 1 1 0 1 0 0 0 3
+p435
+aVVitaly Potapenko SEA 01/12/2003 SEA vs. CLE L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p436
+aVAnsu Sesay SEA 01/12/2003 SEA vs. CLE L 9 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -3
+p437
+aVBrent Barry SEA 01/10/2003 SEA vs. LAC L 27 3 1 5 20.0 0 3 0.0 1 2 50.0 0 4 4 3 2 0 1 2 1
+p438
+aVDesmond Mason SEA 01/10/2003 SEA vs. LAC L 32 12 5 12 41.7 0 2 0.0 2 2 100.0 0 5 5 1 1 1 1 1 9
+p439
+aVVitaly Potapenko SEA 01/10/2003 SEA vs. LAC L 19 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 0 1 0 2 4 -11
+p440
+aVKenny Anderson SEA 01/10/2003 SEA vs. LAC L 26 10 5 11 45.5 0 0 - 0 0 - 0 0 0 3 2 0 0 2 -13
+p441
+aVRashard Lewis SEA 01/10/2003 SEA vs. LAC L 42 18 4 15 26.7 0 1 0.0 10 12 83.3 2 2 4 0 0 0 1 5 -3
+p442
+aVVladimir Radmanovic SEA 01/10/2003 SEA vs. LAC L 28 16 4 7 57.1 4 6 66.7 4 4 100.0 0 3 3 2 0 0 1 5 1
+p443
+aVGary Payton SEA 01/10/2003 SEA vs. LAC L 38 17 7 19 36.8 0 2 0.0 3 4 75.0 1 6 7 10 3 0 4 4 -1
+p444
+aVAnsu Sesay SEA 01/10/2003 SEA vs. LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p445
+aVPredrag Drobnjak SEA 01/10/2003 SEA vs. LAC L 11 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 3
+p446
+aVJerome James SEA 01/10/2003 SEA vs. LAC L 18 4 2 3 66.7 0 0 - 0 0 - 1 6 7 2 0 2 0 4 6
+p447
+aVVladimir Radmanovic SEA 01/08/2003 SEA vs. SAS L 27 6 2 9 22.2 1 2 50.0 1 1 100.0 1 1 2 0 2 0 1 3 -9
+p448
+aVVitaly Potapenko SEA 01/08/2003 SEA vs. SAS L 30 8 3 7 42.9 0 0 - 2 2 100.0 2 7 9 0 2 1 3 3 2
+p449
+aVDesmond Mason SEA 01/08/2003 SEA vs. SAS L 38 18 5 11 45.5 3 3 100.0 5 5 100.0 1 1 2 1 0 0 2 4 8
+p450
+aVGary Payton SEA 01/08/2003 SEA vs. SAS L 42 18 9 17 52.9 0 1 0.0 0 0 - 3 5 8 10 2 0 3 5 -18
+p451
+aVRashard Lewis SEA 01/08/2003 SEA vs. SAS L 41 19 6 14 42.9 3 7 42.9 4 4 100.0 2 4 6 4 2 1 3 1 -13
+p452
+aVKenny Anderson SEA 01/08/2003 SEA vs. SAS L 35 14 7 13 53.8 0 0 - 0 0 - 1 2 3 5 3 0 2 4 -2
+p453
+aVPredrag Drobnjak SEA 01/08/2003 SEA vs. SAS L 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 1 -10
+p454
+aVJerome James SEA 01/08/2003 SEA vs. SAS L 18 8 3 4 75.0 0 0 - 2 6 33.3 3 2 5 1 0 2 3 5 -13
+p455
+aVDesmond Mason SEA 01/07/2003 SEA @ LAL L 42 19 7 14 50.0 0 0 - 5 9 55.6 2 7 9 3 0 0 1 2 -13
+p456
+aVPredrag Drobnjak SEA 01/07/2003 SEA @ LAL L 25 6 3 10 30.0 0 0 - 0 0 - 2 3 5 1 1 0 0 3 -12
+p457
+aVJoseph Forte SEA 01/07/2003 SEA @ LAL L 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p458
+aVGary Payton SEA 01/07/2003 SEA @ LAL L 37 14 6 15 40.0 1 1 100.0 1 3 33.3 1 0 1 12 3 0 4 0 -19
+p459
+aVRashard Lewis SEA 01/07/2003 SEA @ LAL L 40 6 3 7 42.9 0 0 - 0 0 - 1 2 3 1 2 0 2 3 -26
+p460
+aVVladimir Radmanovic SEA 01/07/2003 SEA @ LAL L 35 18 7 12 58.3 2 7 28.6 2 2 100.0 2 6 8 4 2 0 1 2 -21
+p461
+aVJerome James SEA 01/07/2003 SEA @ LAL L 12 2 0 5 0.0 0 0 - 2 2 100.0 2 2 4 1 0 0 2 6 -11
+p462
+aVVitaly Potapenko SEA 01/07/2003 SEA @ LAL L 16 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 2
+p463
+aVAnsu Sesay SEA 01/07/2003 SEA @ LAL L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p464
+aVCalvin Booth SEA 01/07/2003 SEA @ LAL L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p465
+aVKenny Anderson SEA 01/07/2003 SEA @ LAL L 21 17 7 11 63.6 0 0 - 3 3 100.0 1 1 2 3 1 0 1 4 -9
+p466
+aVRashard Lewis SEA 01/03/2003 SEA vs. DEN L 43 13 5 16 31.3 0 3 0.0 3 3 100.0 3 1 4 0 0 1 1 2 -17
+p467
+aVPredrag Drobnjak SEA 01/03/2003 SEA vs. DEN L 35 13 5 10 50.0 1 2 50.0 2 2 100.0 0 3 3 2 2 0 0 4 -6
+p468
+aVVitaly Potapenko SEA 01/03/2003 SEA vs. DEN L 17 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 5 -13
+p469
+aVAnsu Sesay SEA 01/03/2003 SEA vs. DEN L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 2
+p470
+aVVladimir Radmanovic SEA 01/03/2003 SEA vs. DEN L 23 2 1 9 11.1 0 3 0.0 0 0 - 4 2 6 2 0 0 0 1 -12
+p471
+aVJoseph Forte SEA 01/03/2003 SEA vs. DEN L 10 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 0 0 1 1 -3
+p472
+aVReggie Evans SEA 01/03/2003 SEA vs. DEN L 21 3 1 2 50.0 0 0 - 1 5 20.0 2 2 4 1 0 0 2 2 7
+p473
+aVGary Payton SEA 01/03/2003 SEA vs. DEN L 42 25 9 20 45.0 3 4 75.0 4 9 44.4 1 3 4 14 2 0 2 5 -9
+p474
+aVDesmond Mason SEA 01/03/2003 SEA vs. DEN L 42 21 9 16 56.3 1 1 100.0 2 4 50.0 3 1 4 0 0 0 2 5 -9
+p475
+aVPredrag Drobnjak SEA 12/30/2002 SEA @ DEN W 29 9 3 11 27.3 0 0 - 3 4 75.0 2 2 4 1 0 0 0 5 -13
+p476
+aVDesmond Mason SEA 12/30/2002 SEA @ DEN W 40 23 9 20 45.0 0 2 0.0 5 5 100.0 0 8 8 1 2 1 2 2 6
+p477
+aVReggie Evans SEA 12/30/2002 SEA @ DEN W 22 0 0 3 0.0 0 0 - 0 0 - 4 3 7 1 1 1 1 3 -3
+p478
+aVVladimir Radmanovic SEA 12/30/2002 SEA @ DEN W 19 8 4 6 66.7 0 1 0.0 0 0 - 0 5 5 0 2 0 2 3 7
+p479
+aVKenny Anderson SEA 12/30/2002 SEA @ DEN W 28 12 5 9 55.6 0 0 - 2 2 100.0 0 4 4 7 1 0 1 4 14
+p480
+aVGary Payton SEA 12/30/2002 SEA @ DEN W 42 21 9 21 42.9 0 1 0.0 3 9 33.3 1 4 5 9 3 1 1 1 7
+p481
+aVBrent Barry SEA 12/30/2002 SEA @ DEN W 23 0 0 3 0.0 0 2 0.0 0 0 - 1 3 4 1 0 0 0 1 -8
+p482
+aVVitaly Potapenko SEA 12/30/2002 SEA @ DEN W 18 4 0 3 0.0 0 0 - 4 6 66.7 1 3 4 0 0 0 2 4 15
+p483
+aVCalvin Booth SEA 12/30/2002 SEA @ DEN W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 1 0 3 -1
+p484
+aVAnsu Sesay SEA 12/30/2002 SEA @ DEN W 12 0 0 4 0.0 0 0 - 0 0 - 1 1 2 2 1 0 3 3 -14
+p485
+aVBrent Barry SEA 12/26/2002 SEA vs. TOR W 21 0 0 4 0.0 0 4 0.0 0 0 - 1 6 7 7 0 0 2 4 18
+p486
+aVRashard Lewis SEA 12/26/2002 SEA vs. TOR W 39 20 7 13 53.8 0 1 0.0 6 6 100.0 3 3 6 1 0 1 3 3 -6
+p487
+aVPredrag Drobnjak SEA 12/26/2002 SEA vs. TOR W 36 15 6 15 40.0 1 2 50.0 2 2 100.0 2 8 10 1 2 1 0 2 7
+p488
+aVAnsu Sesay SEA 12/26/2002 SEA vs. TOR W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -4
+p489
+aVVitaly Potapenko SEA 12/26/2002 SEA vs. TOR W 12 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 2
+p490
+aVGary Payton SEA 12/26/2002 SEA vs. TOR W 42 35 15 25 60.0 1 1 100.0 4 5 80.0 1 6 7 7 0 0 2 3 21
+p491
+aVReggie Evans SEA 12/26/2002 SEA vs. TOR W 19 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 1 0 0 1 7
+p492
+aVVladimir Radmanovic SEA 12/26/2002 SEA vs. TOR W 24 16 6 9 66.7 1 2 50.0 3 5 60.0 0 1 1 2 0 1 1 1 6
+p493
+aVDesmond Mason SEA 12/26/2002 SEA vs. TOR W 29 5 1 4 25.0 0 0 - 3 4 75.0 1 3 4 1 1 1 1 4 -4
+p494
+aVKenny Anderson SEA 12/26/2002 SEA vs. TOR W 13 2 1 1 100.0 0 0 - 0 0 - 1 1 2 8 0 0 1 1 -2
+p495
+aVRashard Lewis SEA 12/23/2002 SEA @ PHX L 41 24 10 15 66.7 1 1 100.0 3 3 100.0 3 4 7 1 1 0 2 3 0
+p496
+aVBrent Barry SEA 12/23/2002 SEA @ PHX L 20 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 5 1 0 3 1 -10
+p497
+aVVitaly Potapenko SEA 12/23/2002 SEA @ PHX L 18 2 1 5 20.0 0 0 - 0 0 - 0 6 6 0 1 0 0 2 1
+p498
+aVPredrag Drobnjak SEA 12/23/2002 SEA @ PHX L 30 21 10 18 55.6 0 0 - 1 1 100.0 5 2 7 0 1 1 1 3 -4
+p499
+aVDesmond Mason SEA 12/23/2002 SEA @ PHX L 32 13 6 14 42.9 1 1 100.0 0 0 - 1 4 5 2 1 0 1 2 12
+p500
+aVAnsu Sesay SEA 12/23/2002 SEA @ PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p501
+aVVladimir Radmanovic SEA 12/23/2002 SEA @ PHX L 24 8 3 6 50.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 1 1 10
+p502
+aVReggie Evans SEA 12/23/2002 SEA @ PHX L 12 1 0 0 - 0 0 - 1 2 50.0 3 1 4 1 0 0 1 1 -13
+p503
+aVKenny Anderson SEA 12/23/2002 SEA @ PHX L 24 4 2 3 66.7 0 0 - 0 0 - 1 3 4 6 1 0 0 1 11
+p504
+aVGary Payton SEA 12/23/2002 SEA @ PHX L 38 12 5 18 27.8 0 2 0.0 2 2 100.0 1 3 4 6 0 1 1 4 -10
+p505
+aVRashard Lewis SEA 12/21/2002 SEA @ POR L 38 20 8 15 53.3 2 4 50.0 2 2 100.0 4 5 9 1 3 0 2 3 9
+p506
+aVAnsu Sesay SEA 12/21/2002 SEA @ POR L 10 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 0 0 1 1 -10
+p507
+aVBrent Barry SEA 12/21/2002 SEA @ POR L 35 13 5 7 71.4 2 4 50.0 1 1 100.0 0 7 7 9 1 0 3 1 11
+p508
+aVPredrag Drobnjak SEA 12/21/2002 SEA @ POR L 23 8 4 9 44.4 0 0 - 0 0 - 0 0 0 1 2 0 0 3 5
+p509
+aVVladimir Radmanovic SEA 12/21/2002 SEA @ POR L 24 9 3 11 27.3 2 8 25.0 1 2 50.0 4 3 7 0 1 0 2 0 1
+p510
+aVDesmond Mason SEA 12/21/2002 SEA @ POR L 23 8 2 11 18.2 0 1 0.0 4 4 100.0 3 2 5 0 0 0 3 2 -13
+p511
+aVGary Payton SEA 12/21/2002 SEA @ POR L 39 12 4 15 26.7 1 5 20.0 3 3 100.0 0 4 4 8 2 0 6 2 1
+p512
+aVVitaly Potapenko SEA 12/21/2002 SEA @ POR L 24 4 1 6 16.7 0 0 - 2 3 66.7 1 3 4 0 0 1 2 2 -2
+p513
+aVReggie Evans SEA 12/21/2002 SEA @ POR L 24 2 1 1 100.0 0 0 - 0 2 0.0 3 9 12 0 1 0 3 2 -7
+p514
+aVRashard Lewis SEA 12/20/2002 SEA vs. NOH L 49 26 7 19 36.8 1 3 33.3 11 11 100.0 6 6 12 2 5 0 3 4 3
+p515
+aVDesmond Mason SEA 12/20/2002 SEA vs. NOH L 37 12 5 15 33.3 0 0 - 2 2 100.0 2 4 6 0 0 1 2 4 -7
+p516
+aVReggie Evans SEA 12/20/2002 SEA vs. NOH L 18 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 13
+p517
+aVCalvin Booth SEA 12/20/2002 SEA vs. NOH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p518
+aVBrent Barry SEA 12/20/2002 SEA vs. NOH L 45 10 4 10 40.0 2 3 66.7 0 0 - 0 2 2 5 4 0 3 1 -6
+p519
+aVGary Payton SEA 12/20/2002 SEA vs. NOH L 45 15 6 24 25.0 1 2 50.0 2 2 100.0 0 6 6 7 1 0 2 0 6
+p520
+aVAnsu Sesay SEA 12/20/2002 SEA vs. NOH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p521
+aVVitaly Potapenko SEA 12/20/2002 SEA vs. NOH L 16 6 3 5 60.0 0 0 - 0 0 - 2 4 6 0 0 0 0 0 4
+p522
+aVVladimir Radmanovic SEA 12/20/2002 SEA vs. NOH L 17 3 1 3 33.3 0 2 0.0 1 2 50.0 0 3 3 2 1 0 0 0 -17
+p523
+aVPredrag Drobnjak SEA 12/20/2002 SEA vs. NOH L 37 12 6 12 50.0 0 0 - 0 0 - 2 2 4 0 0 0 2 4 -6
+p524
+aVBrent Barry SEA 12/18/2002 SEA vs. SAS L 26 12 5 9 55.6 0 2 0.0 2 2 100.0 1 2 3 2 2 0 2 3 0
+p525
+aVRashard Lewis SEA 12/18/2002 SEA vs. SAS L 38 15 2 14 14.3 1 4 25.0 10 11 90.9 1 2 3 1 0 0 2 4 -8
+p526
+aVPredrag Drobnjak SEA 12/18/2002 SEA vs. SAS L 21 5 2 10 20.0 0 1 0.0 1 2 50.0 0 1 1 3 0 0 2 5 -9
+p527
+aVReggie Evans SEA 12/18/2002 SEA vs. SAS L 18 1 0 0 - 0 0 - 1 2 50.0 2 6 8 1 0 0 0 2 -3
+p528
+aVVladimir Radmanovic SEA 12/18/2002 SEA vs. SAS L 29 17 8 13 61.5 1 3 33.3 0 0 - 3 3 6 1 0 0 0 3 -2
+p529
+aVVitaly Potapenko SEA 12/18/2002 SEA vs. SAS L 18 4 1 2 50.0 0 0 - 2 4 50.0 3 4 7 0 0 0 2 4 3
+p530
+aVGary Payton SEA 12/18/2002 SEA vs. SAS L 40 25 10 20 50.0 1 3 33.3 4 7 57.1 0 2 2 8 2 0 1 2 -1
+p531
+aVDesmond Mason SEA 12/18/2002 SEA vs. SAS L 32 9 3 6 50.0 0 0 - 3 4 75.0 1 2 3 0 2 0 1 3 2
+p532
+aVAnsu Sesay SEA 12/18/2002 SEA vs. SAS L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 5
+p533
+aVCalvin Booth SEA 12/18/2002 SEA vs. SAS L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p534
+aVBrent Barry SEA 12/16/2002 SEA @ CLE W 18 3 1 3 33.3 0 2 0.0 1 2 50.0 0 1 1 5 0 2 4 4 5
+p535
+aVReggie Evans SEA 12/16/2002 SEA @ CLE W 22 3 1 2 50.0 0 0 - 1 2 50.0 6 11 17 0 0 1 0 1 5
+p536
+aVDesmond Mason SEA 12/16/2002 SEA @ CLE W 36 13 6 14 42.9 0 0 - 1 2 50.0 3 9 12 2 3 0 2 2 8
+p537
+aVRashard Lewis SEA 12/16/2002 SEA @ CLE W 41 29 10 15 66.7 2 3 66.7 7 9 77.8 3 7 10 4 1 0 3 2 14
+p538
+aVGary Payton SEA 12/16/2002 SEA @ CLE W 38 23 11 22 50.0 0 1 0.0 1 1 100.0 1 3 4 9 2 1 1 4 9
+p539
+aVCalvin Booth SEA 12/16/2002 SEA @ CLE W 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 0 2 4
+p540
+aVVladimir Radmanovic SEA 12/16/2002 SEA @ CLE W 24 11 4 7 57.1 2 4 50.0 1 2 50.0 1 1 2 1 0 0 1 3 4
+p541
+aVPredrag Drobnjak SEA 12/16/2002 SEA @ CLE W 32 23 10 18 55.6 0 1 0.0 3 5 60.0 2 2 4 3 3 1 2 2 9
+p542
+aVKenny Anderson SEA 12/16/2002 SEA @ CLE W 13 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 4 1 0 2 2 7
+p543
+aVDesmond Mason SEA 12/14/2002 SEA @ DET L 31 7 3 10 30.0 0 0 - 1 4 25.0 1 4 5 1 1 0 2 4 -3
+p544
+aVKenny Anderson SEA 12/14/2002 SEA @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 3 -2
+p545
+aVCalvin Booth SEA 12/14/2002 SEA @ DET L 13 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -12
+p546
+aVPredrag Drobnjak SEA 12/14/2002 SEA @ DET L 24 7 3 7 42.9 1 2 50.0 0 0 - 0 3 3 1 0 1 0 2 3
+p547
+aVBrent Barry SEA 12/14/2002 SEA @ DET L 29 9 3 8 37.5 1 3 33.3 2 4 50.0 0 2 2 4 2 0 1 4 -6
+p548
+aVJoseph Forte SEA 12/14/2002 SEA @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p549
+aVAnsu Sesay SEA 12/14/2002 SEA @ DET L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 2
+p550
+aVGary Payton SEA 12/14/2002 SEA @ DET L 40 24 10 24 41.7 1 3 33.3 3 4 75.0 2 4 6 6 0 0 5 3 -15
+p551
+aVRashard Lewis SEA 12/14/2002 SEA @ DET L 40 20 7 14 50.0 0 2 0.0 6 6 100.0 2 9 11 3 0 0 3 0 -16
+p552
+aVVladimir Radmanovic SEA 12/14/2002 SEA @ DET L 27 8 3 10 30.0 2 6 33.3 0 0 - 0 2 2 0 0 0 1 1 -15
+p553
+aVReggie Evans SEA 12/14/2002 SEA @ DET L 22 1 0 1 0.0 0 0 - 1 4 25.0 3 3 6 0 0 0 0 3 -4
+p554
+aVDesmond Mason SEA 12/13/2002 SEA @ TOR W 33 14 7 11 63.6 0 1 0.0 0 1 0.0 3 5 8 3 1 0 3 4 5
+p555
+aVPredrag Drobnjak SEA 12/13/2002 SEA @ TOR W 26 12 6 10 60.0 0 0 - 0 0 - 3 2 5 1 3 2 3 0 17
+p556
+aVCalvin Booth SEA 12/13/2002 SEA @ TOR W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p557
+aVRashard Lewis SEA 12/13/2002 SEA @ TOR W 39 12 2 10 20.0 0 2 0.0 8 8 100.0 2 5 7 4 0 1 2 4 4
+p558
+aVReggie Evans SEA 12/13/2002 SEA @ TOR W 20 6 2 2 100.0 0 0 - 2 6 33.3 1 3 4 0 2 0 2 2 9
+p559
+aVGary Payton SEA 12/13/2002 SEA @ TOR W 37 21 8 17 47.1 1 2 50.0 4 6 66.7 1 5 6 6 2 0 4 1 14
+p560
+aVAnsu Sesay SEA 12/13/2002 SEA @ TOR W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -3
+p561
+aVKenny Anderson SEA 12/13/2002 SEA @ TOR W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 6
+p562
+aVVladimir Radmanovic SEA 12/13/2002 SEA @ TOR W 26 15 6 10 60.0 3 6 50.0 0 0 - 1 5 6 2 2 0 1 2 0
+p563
+aVBrent Barry SEA 12/13/2002 SEA @ TOR W 34 7 3 8 37.5 1 4 25.0 0 2 0.0 1 5 6 8 0 0 0 3 10
+p564
+aVVladimir Radmanovic SEA 12/11/2002 SEA @ PHI W 29 11 5 12 41.7 1 6 16.7 0 1 0.0 1 2 3 2 1 1 0 3 13
+p565
+aVPredrag Drobnjak SEA 12/11/2002 SEA @ PHI W 20 6 3 8 37.5 0 0 - 0 0 - 3 4 7 1 0 0 0 2 -11
+p566
+aVBrent Barry SEA 12/11/2002 SEA @ PHI W 31 18 8 12 66.7 2 4 50.0 0 0 - 2 3 5 2 1 0 1 3 -2
+p567
+aVGary Payton SEA 12/11/2002 SEA @ PHI W 43 20 8 24 33.3 0 3 0.0 4 4 100.0 1 4 5 6 2 0 2 2 7
+p568
+aVDesmond Mason SEA 12/11/2002 SEA @ PHI W 29 8 4 10 40.0 0 2 0.0 0 0 - 3 4 7 3 2 1 2 2 18
+p569
+aVKenny Anderson SEA 12/11/2002 SEA @ PHI W 7 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 2
+p570
+aVAnsu Sesay SEA 12/11/2002 SEA @ PHI W 0 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 1
+p571
+aVCalvin Booth SEA 12/11/2002 SEA @ PHI W 22 6 3 3 100.0 0 0 - 0 2 0.0 2 3 5 0 0 1 1 4 8
+p572
+aVRashard Lewis SEA 12/11/2002 SEA @ PHI W 45 20 7 15 46.7 0 1 0.0 6 7 85.7 1 7 8 2 4 2 3 4 -1
+p573
+aVReggie Evans SEA 12/11/2002 SEA @ PHI W 13 0 0 0 - 0 0 - 0 4 0.0 2 3 5 1 1 0 0 0 -15
+p574
+aVCalvin Booth SEA 12/10/2002 SEA @ NYK L 16 4 2 7 28.6 0 0 - 0 2 0.0 4 1 5 0 0 0 0 0 0
+p575
+aVGary Payton SEA 12/10/2002 SEA @ NYK L 44 20 8 19 42.1 1 2 50.0 3 3 100.0 3 3 6 4 3 0 3 3 -20
+p576
+aVBrent Barry SEA 12/10/2002 SEA @ NYK L 37 12 3 7 42.9 1 3 33.3 5 5 100.0 0 5 5 6 3 0 4 2 -16
+p577
+aVAnsu Sesay SEA 12/10/2002 SEA @ NYK L 24 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 0 1 0 2 -7
+p578
+aVReggie Evans SEA 12/10/2002 SEA @ NYK L 19 5 1 2 50.0 0 0 - 3 9 33.3 2 1 3 1 0 0 1 3 -8
+p579
+aVDesmond Mason SEA 12/10/2002 SEA @ NYK L 40 12 5 16 31.3 0 1 0.0 2 2 100.0 1 8 9 0 1 0 1 5 -12
+p580
+aVPredrag Drobnjak SEA 12/10/2002 SEA @ NYK L 23 7 3 8 37.5 1 1 100.0 0 0 - 2 3 5 3 1 0 0 1 -12
+p581
+aVVladimir Radmanovic SEA 12/10/2002 SEA @ NYK L 29 17 7 14 50.0 2 4 50.0 1 1 100.0 1 5 6 2 0 1 1 2 -9
+p582
+aVKenny Anderson SEA 12/10/2002 SEA @ NYK L 8 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -1
+p583
+aVRashard Lewis SEA 12/07/2002 SEA vs. MIA W 36 13 5 11 45.5 0 2 0.0 3 4 75.0 1 5 6 1 1 1 1 3 19
+p584
+aVAnsu Sesay SEA 12/07/2002 SEA vs. MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p585
+aVDesmond Mason SEA 12/07/2002 SEA vs. MIA W 28 14 5 12 41.7 0 1 0.0 4 7 57.1 3 4 7 1 1 1 0 1 17
+p586
+aVJoseph Forte SEA 12/07/2002 SEA vs. MIA W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p587
+aVCalvin Booth SEA 12/07/2002 SEA vs. MIA W 21 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 1 1 0 3 16
+p588
+aVBrent Barry SEA 12/07/2002 SEA vs. MIA W 29 11 4 10 40.0 2 3 66.7 1 1 100.0 1 3 4 5 2 1 1 3 11
+p589
+aVPredrag Drobnjak SEA 12/07/2002 SEA vs. MIA W 24 10 5 10 50.0 0 0 - 0 0 - 0 5 5 2 0 0 0 0 15
+p590
+aVGary Payton SEA 12/07/2002 SEA vs. MIA W 37 18 8 11 72.7 0 0 - 2 6 33.3 0 1 1 11 2 1 1 2 26
+p591
+aVReggie Evans SEA 12/07/2002 SEA vs. MIA W 21 5 2 3 66.7 0 0 - 1 1 100.0 1 7 8 1 1 0 0 2 17
+p592
+aVVladimir Radmanovic SEA 12/07/2002 SEA vs. MIA W 25 19 6 11 54.5 5 7 71.4 2 2 100.0 1 2 3 1 1 1 3 1 11
+p593
+aVKenny Anderson SEA 12/07/2002 SEA vs. MIA W 12 6 3 4 75.0 0 0 - 0 0 - 0 2 2 2 1 0 1 4 7
+p594
+aVVladimir Radmanovic SEA 12/04/2002 SEA vs. IND L 33 15 6 10 60.0 3 4 75.0 0 2 0.0 0 4 4 0 1 0 1 2 -2
+p595
+aVCalvin Booth SEA 12/04/2002 SEA vs. IND L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 1 1 0 -4
+p596
+aVReggie Evans SEA 12/04/2002 SEA vs. IND L 15 3 0 1 0.0 0 0 - 3 4 75.0 1 6 7 0 0 2 0 3 0
+p597
+aVGary Payton SEA 12/04/2002 SEA vs. IND L 46 40 19 30 63.3 1 2 50.0 1 2 50.0 0 3 3 10 2 0 1 3 2
+p598
+aVDesmond Mason SEA 12/04/2002 SEA vs. IND L 38 10 4 7 57.1 0 1 0.0 2 3 66.7 2 5 7 1 0 0 1 4 -6
+p599
+aVRashard Lewis SEA 12/04/2002 SEA vs. IND L 44 8 2 15 13.3 0 2 0.0 4 6 66.7 3 8 11 4 1 0 3 3 -5
+p600
+aVAnsu Sesay SEA 12/04/2002 SEA vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p601
+aVKenny Anderson SEA 12/04/2002 SEA vs. IND L 13 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 3 0 0 0 2 2
+p602
+aVBrent Barry SEA 12/04/2002 SEA vs. IND L 42 11 4 8 50.0 1 2 50.0 2 4 50.0 0 6 6 7 3 0 2 2 -2
+p603
+aVPredrag Drobnjak SEA 12/04/2002 SEA vs. IND L 25 18 7 10 70.0 1 1 100.0 3 3 100.0 2 1 3 1 0 0 1 2 3
+p604
+aVReggie Evans SEA 12/01/2002 SEA vs. NJN W 23 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 1 1 3 4 -10
+p605
+aVBrent Barry SEA 12/01/2002 SEA vs. NJN W 34 14 5 9 55.6 2 4 50.0 2 2 100.0 1 2 3 3 2 1 5 1 -3
+p606
+aVVladimir Radmanovic SEA 12/01/2002 SEA vs. NJN W 25 9 4 13 30.8 1 5 20.0 0 1 0.0 1 6 7 0 2 0 3 2 0
+p607
+aVKenny Anderson SEA 12/01/2002 SEA vs. NJN W 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 6 2 0 0 0 9
+p608
+aVAnsu Sesay SEA 12/01/2002 SEA vs. NJN W 13 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 2 7
+p609
+aVRashard Lewis SEA 12/01/2002 SEA vs. NJN W 35 14 4 12 33.3 0 0 - 6 6 100.0 1 4 5 6 0 2 3 3 -3
+p610
+aVDesmond Mason SEA 12/01/2002 SEA vs. NJN W 31 12 5 13 38.5 0 1 0.0 2 3 66.7 4 3 7 3 1 1 1 3 7
+p611
+aVPredrag Drobnjak SEA 12/01/2002 SEA vs. NJN W 19 7 3 7 42.9 0 0 - 1 2 50.0 2 1 3 2 0 0 0 2 -1
+p612
+aVGary Payton SEA 12/01/2002 SEA vs. NJN W 44 28 13 19 68.4 2 3 66.7 0 0 - 2 8 10 4 1 0 1 4 -1
+p613
+aVRashard Lewis SEA 11/29/2002 SEA vs. HOU L 39 18 7 15 46.7 2 7 28.6 2 2 100.0 1 1 2 0 1 0 2 2 -13
+p614
+aVKenny Anderson SEA 11/29/2002 SEA vs. HOU L 16 6 3 7 42.9 0 0 - 0 0 - 1 3 4 3 1 0 1 2 -10
+p615
+aVPredrag Drobnjak SEA 11/29/2002 SEA vs. HOU L 35 8 4 11 36.4 0 0 - 0 0 - 2 2 4 0 2 2 2 5 0
+p616
+aVVladimir Radmanovic SEA 11/29/2002 SEA vs. HOU L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 0 -8
+p617
+aVReggie Evans SEA 11/29/2002 SEA vs. HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p618
+aVAnsu Sesay SEA 11/29/2002 SEA vs. HOU L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p619
+aVCalvin Booth SEA 11/29/2002 SEA vs. HOU L 13 2 1 2 50.0 0 1 0.0 0 0 - 2 3 5 0 0 0 2 0 -11
+p620
+aVBrent Barry SEA 11/29/2002 SEA vs. HOU L 34 7 2 8 25.0 1 2 50.0 2 2 100.0 0 7 7 3 2 0 2 2 -6
+p621
+aVGary Payton SEA 11/29/2002 SEA vs. HOU L 41 10 3 16 18.8 0 3 0.0 4 6 66.7 1 4 5 14 2 0 3 4 -7
+p622
+aVDesmond Mason SEA 11/29/2002 SEA vs. HOU L 37 19 9 16 56.3 0 1 0.0 1 1 100.0 1 3 4 1 2 0 1 2 -6
+p623
+aVReggie Evans SEA 11/27/2002 SEA @ MEM L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p624
+aVGary Payton SEA 11/27/2002 SEA @ MEM L 41 17 8 18 44.4 0 1 0.0 1 2 50.0 1 1 2 13 2 0 4 1 -26
+p625
+aVCalvin Booth SEA 11/27/2002 SEA @ MEM L 22 9 3 6 50.0 0 0 - 3 4 75.0 2 2 4 1 1 0 1 2 0
+p626
+aVRashard Lewis SEA 11/27/2002 SEA @ MEM L 39 24 10 22 45.5 3 5 60.0 1 1 100.0 2 5 7 1 0 2 1 1 -16
+p627
+aVVladimir Radmanovic SEA 11/27/2002 SEA @ MEM L 36 14 6 11 54.5 2 3 66.7 0 1 0.0 2 2 4 2 1 0 1 2 5
+p628
+aVPredrag Drobnjak SEA 11/27/2002 SEA @ MEM L 14 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 2 1 2 -18
+p629
+aVDesmond Mason SEA 11/27/2002 SEA @ MEM L 37 22 8 16 50.0 2 4 50.0 4 4 100.0 4 5 9 3 2 0 1 1 -11
+p630
+aVBrent Barry SEA 11/27/2002 SEA @ MEM L 31 3 0 2 0.0 0 2 0.0 3 4 75.0 0 4 4 4 2 0 2 3 -16
+p631
+aVKenny Anderson SEA 11/27/2002 SEA @ MEM L 16 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 4 3 0 2 1 6
+p632
+aVKenny Anderson SEA 11/26/2002 SEA @ ATL L 11 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 0
+p633
+aVCalvin Booth SEA 11/26/2002 SEA @ ATL L 13 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 0 2 -1
+p634
+aVRashard Lewis SEA 11/26/2002 SEA @ ATL L 37 18 5 17 29.4 1 3 33.3 7 8 87.5 2 1 3 1 1 0 3 4 -13
+p635
+aVPredrag Drobnjak SEA 11/26/2002 SEA @ ATL L 32 8 4 11 36.4 0 0 - 0 0 - 3 4 7 2 1 2 0 4 3
+p636
+aVReggie Evans SEA 11/26/2002 SEA @ ATL L 19 7 3 4 75.0 0 0 - 1 2 50.0 3 1 4 0 1 0 1 4 -3
+p637
+aVAnsu Sesay SEA 11/26/2002 SEA @ ATL L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 6 1
+p638
+aVVladimir Radmanovic SEA 11/26/2002 SEA @ ATL L 15 5 1 6 16.7 0 2 0.0 3 4 75.0 0 1 1 0 1 1 1 1 4
+p639
+aVBrent Barry SEA 11/26/2002 SEA @ ATL L 44 15 5 11 45.5 1 4 25.0 4 4 100.0 0 5 5 6 2 0 0 2 -7
+p640
+aVGary Payton SEA 11/26/2002 SEA @ ATL L 49 32 13 20 65.0 0 2 0.0 6 6 100.0 0 3 3 8 2 1 0 1 3
+p641
+aVDesmond Mason SEA 11/26/2002 SEA @ ATL L 36 23 11 20 55.0 0 0 - 1 2 50.0 2 3 5 0 1 2 1 1 -2
+p642
+aVReggie Evans SEA 11/24/2002 SEA @ SAS W 11 0 0 2 0.0 0 0 - 0 0 - 2 4 6 0 0 0 0 2 -3
+p643
+aVPredrag Drobnjak SEA 11/24/2002 SEA @ SAS W 35 10 4 13 30.8 0 0 - 2 2 100.0 2 3 5 0 1 0 0 5 -8
+p644
+aVVladimir Radmanovic SEA 11/24/2002 SEA @ SAS W 19 10 3 8 37.5 1 4 25.0 3 4 75.0 0 4 4 1 2 1 2 2 10
+p645
+aVCalvin Booth SEA 11/24/2002 SEA @ SAS W 17 8 4 7 57.1 0 0 - 0 0 - 1 1 2 2 0 1 0 2 2
+p646
+aVKenny Anderson SEA 11/24/2002 SEA @ SAS W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p647
+aVAnsu Sesay SEA 11/24/2002 SEA @ SAS W 9 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 5
+p648
+aVGary Payton SEA 11/24/2002 SEA @ SAS W 44 26 10 21 47.6 2 2 100.0 4 7 57.1 2 2 4 11 0 0 2 3 3
+p649
+aVDesmond Mason SEA 11/24/2002 SEA @ SAS W 35 15 7 15 46.7 1 1 100.0 0 0 - 3 5 8 0 3 0 0 2 12
+p650
+aVBrent Barry SEA 11/24/2002 SEA @ SAS W 25 5 2 8 25.0 1 2 50.0 0 0 - 2 4 6 3 1 0 2 1 4
+p651
+aVRashard Lewis SEA 11/24/2002 SEA @ SAS W 39 13 4 13 30.8 1 3 33.3 4 5 80.0 1 4 5 1 1 0 1 3 -15
+p652
+aVBrent Barry SEA 11/23/2002 SEA @ DAL L 42 12 5 13 38.5 2 6 33.3 0 1 0.0 0 6 6 3 2 1 2 4 0
+p653
+aVKenny Anderson SEA 11/23/2002 SEA @ DAL L 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 5 0 1 2 0 -10
+p654
+aVAnsu Sesay SEA 11/23/2002 SEA @ DAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -6
+p655
+aVGary Payton SEA 11/23/2002 SEA @ DAL L 42 20 7 13 53.8 1 1 100.0 5 6 83.3 2 2 4 10 3 0 1 2 -10
+p656
+aVRashard Lewis SEA 11/23/2002 SEA @ DAL L 30 14 5 11 45.5 0 1 0.0 4 6 66.7 4 2 6 2 1 0 1 5 -12
+p657
+aVDesmond Mason SEA 11/23/2002 SEA @ DAL L 40 19 7 14 50.0 2 5 40.0 3 4 75.0 4 9 13 1 0 0 2 4 -15
+p658
+aVPredrag Drobnjak SEA 11/23/2002 SEA @ DAL L 28 14 4 10 40.0 0 0 - 6 8 75.0 1 2 3 0 0 0 3 2 11
+p659
+aVReggie Evans SEA 11/23/2002 SEA @ DAL L 13 10 3 5 60.0 0 0 - 4 5 80.0 3 2 5 1 1 0 1 0 8
+p660
+aVVladimir Radmanovic SEA 11/23/2002 SEA @ DAL L 28 12 5 12 41.7 2 5 40.0 0 2 0.0 3 6 9 0 0 1 2 5 -16
+p661
+aVGary Payton SEA 11/21/2002 SEA vs. POR L 41 22 10 23 43.5 1 3 33.3 1 2 50.0 2 2 4 14 1 0 1 1 2
+p662
+aVAnsu Sesay SEA 11/21/2002 SEA vs. POR L 7 0 0 5 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 -5
+p663
+aVRashard Lewis SEA 11/21/2002 SEA vs. POR L 40 11 4 14 28.6 1 4 25.0 2 4 50.0 2 6 8 5 2 2 1 2 4
+p664
+aVReggie Evans SEA 11/21/2002 SEA vs. POR L 16 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 1 0 1 4 0
+p665
+aVCalvin Booth SEA 11/21/2002 SEA vs. POR L 9 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -7
+p666
+aVPredrag Drobnjak SEA 11/21/2002 SEA vs. POR L 34 18 8 14 57.1 0 0 - 2 2 100.0 3 2 5 0 3 1 1 3 1
+p667
+aVVladimir Radmanovic SEA 11/21/2002 SEA vs. POR L 24 4 2 8 25.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 -9
+p668
+aVBrent Barry SEA 11/21/2002 SEA vs. POR L 40 14 6 11 54.5 2 4 50.0 0 0 - 1 4 5 7 0 1 1 4 5
+p669
+aVDesmond Mason SEA 11/21/2002 SEA vs. POR L 28 14 6 12 50.0 0 2 0.0 2 2 100.0 1 6 7 1 0 0 2 3 -11
+p670
+aVRashard Lewis SEA 11/19/2002 SEA vs. ORL L 44 23 10 21 47.6 0 3 0.0 3 3 100.0 2 0 2 3 1 0 2 1 -16
+p671
+aVDesmond Mason SEA 11/19/2002 SEA vs. ORL L 31 14 3 11 27.3 0 2 0.0 8 8 100.0 0 7 7 1 0 0 2 3 -16
+p672
+aVGary Payton SEA 11/19/2002 SEA vs. ORL L 41 14 7 13 53.8 0 1 0.0 0 0 - 2 4 6 7 2 1 5 2 -15
+p673
+aVAnsu Sesay SEA 11/19/2002 SEA vs. ORL L 12 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -9
+p674
+aVReggie Evans SEA 11/19/2002 SEA vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p675
+aVPredrag Drobnjak SEA 11/19/2002 SEA vs. ORL L 26 9 3 10 30.0 0 0 - 3 4 75.0 4 3 7 0 1 0 0 2 -11
+p676
+aVVladimir Radmanovic SEA 11/19/2002 SEA vs. ORL L 39 13 6 14 42.9 1 6 16.7 0 0 - 0 5 5 4 1 0 2 2 -7
+p677
+aVBrent Barry SEA 11/19/2002 SEA vs. ORL L 40 11 3 8 37.5 1 3 33.3 4 4 100.0 1 7 8 8 4 1 1 3 -13
+p678
+aVCalvin Booth SEA 11/19/2002 SEA vs. ORL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 0
+p679
+aVJoseph Forte SEA 11/19/2002 SEA vs. ORL L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p680
+aVVladimir Radmanovic SEA 11/17/2002 SEA @ LAC W 29 10 3 8 37.5 1 4 25.0 3 4 75.0 0 6 6 2 1 0 1 5 1
+p681
+aVReggie Evans SEA 11/17/2002 SEA @ LAC W 7 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -5
+p682
+aVAnsu Sesay SEA 11/17/2002 SEA @ LAC W 8 3 1 2 50.0 0 0 - 1 1 100.0 1 1 2 0 1 0 0 0 5
+p683
+aVBrent Barry SEA 11/17/2002 SEA @ LAC W 35 9 3 10 30.0 1 3 33.3 2 3 66.7 0 2 2 3 2 0 1 3 2
+p684
+aVDesmond Mason SEA 11/17/2002 SEA @ LAC W 31 18 6 15 40.0 0 1 0.0 6 8 75.0 1 4 5 1 1 2 1 3 7
+p685
+aVRashard Lewis SEA 11/17/2002 SEA @ LAC W 40 16 7 14 50.0 0 1 0.0 2 4 50.0 3 8 11 2 1 1 1 2 3
+p686
+aVPredrag Drobnjak SEA 11/17/2002 SEA @ LAC W 33 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 0 2 0 0 5 -3
+p687
+aVCalvin Booth SEA 11/17/2002 SEA @ LAC W 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 13
+p688
+aVGary Payton SEA 11/17/2002 SEA @ LAC W 44 22 9 23 39.1 2 4 50.0 2 2 100.0 0 6 6 10 0 1 4 1 7
+p689
+aVRashard Lewis SEA 11/15/2002 SEA vs. SAC W 32 16 6 9 66.7 1 1 100.0 3 3 100.0 2 4 6 3 4 0 1 3 7
+p690
+aVVladimir Radmanovic SEA 11/15/2002 SEA vs. SAC W 32 16 7 9 77.8 0 2 0.0 2 2 100.0 0 5 5 3 3 0 4 5 19
+p691
+aVAnsu Sesay SEA 11/15/2002 SEA vs. SAC W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -3
+p692
+aVGary Payton SEA 11/15/2002 SEA vs. SAC W 38 24 11 18 61.1 0 2 0.0 2 4 50.0 0 3 3 9 3 1 5 3 10
+p693
+aVBrent Barry SEA 11/15/2002 SEA vs. SAC W 39 14 5 10 50.0 0 4 0.0 4 5 80.0 0 2 2 13 4 0 1 2 17
+p694
+aVReggie Evans SEA 11/15/2002 SEA vs. SAC W 4 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -5
+p695
+aVPredrag Drobnjak SEA 11/15/2002 SEA vs. SAC W 39 16 8 14 57.1 0 0 - 0 0 - 0 5 5 2 0 0 2 3 6
+p696
+aVJoseph Forte SEA 11/15/2002 SEA vs. SAC W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p697
+aVCalvin Booth SEA 11/15/2002 SEA vs. SAC W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 8
+p698
+aVDesmond Mason SEA 11/15/2002 SEA vs. SAC W 35 20 7 18 38.9 0 0 - 6 7 85.7 5 12 17 3 0 1 1 0 15
+p699
+aVCalvin Booth SEA 11/12/2002 SEA @ WAS W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p700
+aVDesmond Mason SEA 11/12/2002 SEA @ WAS W 32 10 4 11 36.4 0 0 - 2 4 50.0 1 4 5 2 1 1 2 1 5
+p701
+aVPredrag Drobnjak SEA 11/12/2002 SEA @ WAS W 25 12 6 10 60.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 9
+p702
+aVReggie Evans SEA 11/12/2002 SEA @ WAS W 9 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 1 1 2 -3
+p703
+aVBrent Barry SEA 11/12/2002 SEA @ WAS W 42 17 7 12 58.3 3 5 60.0 0 0 - 1 3 4 6 2 0 2 2 0
+p704
+aVVladimir Radmanovic SEA 11/12/2002 SEA @ WAS W 31 6 2 5 40.0 0 1 0.0 2 3 66.7 4 4 8 1 2 0 3 3 3
+p705
+aVAnsu Sesay SEA 11/12/2002 SEA @ WAS W 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -6
+p706
+aVRashard Lewis SEA 11/12/2002 SEA @ WAS W 44 37 16 19 84.2 3 4 75.0 2 3 66.7 0 7 7 3 1 0 2 2 13
+p707
+aVGary Payton SEA 11/12/2002 SEA @ WAS W 42 14 6 18 33.3 0 3 0.0 2 3 66.7 1 3 4 16 2 0 1 3 10
+p708
+aVDesmond Mason SEA 11/09/2002 SEA @ MIA W 28 7 1 6 16.7 0 0 - 5 8 62.5 0 6 6 0 0 1 2 2 -1
+p709
+aVGary Payton SEA 11/09/2002 SEA @ MIA W 38 20 6 21 28.6 2 3 66.7 6 7 85.7 0 7 7 11 0 0 3 1 11
+p710
+aVBrent Barry SEA 11/09/2002 SEA @ MIA W 37 14 5 10 50.0 4 5 80.0 0 0 - 0 2 2 3 3 0 3 3 11
+p711
+aVKenny Anderson SEA 11/09/2002 SEA @ MIA W 6 0 0 5 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -9
+p712
+aVVladimir Radmanovic SEA 11/09/2002 SEA @ MIA W 36 12 5 11 45.5 2 5 40.0 0 1 0.0 5 5 10 2 1 2 2 3 -8
+p713
+aVAnsu Sesay SEA 11/09/2002 SEA @ MIA W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p714
+aVReggie Evans SEA 11/09/2002 SEA @ MIA W 20 1 0 0 - 0 0 - 1 2 50.0 3 0 3 1 0 0 0 2 10
+p715
+aVPredrag Drobnjak SEA 11/09/2002 SEA @ MIA W 28 4 2 8 25.0 0 0 - 0 0 - 0 3 3 1 2 0 0 0 4
+p716
+aVRashard Lewis SEA 11/09/2002 SEA @ MIA W 41 24 9 18 50.0 4 4 100.0 2 2 100.0 1 9 10 1 1 3 2 3 -1
+p717
+aVVladimir Radmanovic SEA 11/08/2002 SEA @ ORL L 40 20 8 14 57.1 3 5 60.0 1 1 100.0 5 6 11 1 0 0 4 4 2
+p718
+aVCalvin Booth SEA 11/08/2002 SEA @ ORL L 10 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 1 -12
+p719
+aVPredrag Drobnjak SEA 11/08/2002 SEA @ ORL L 27 10 4 7 57.1 0 0 - 2 3 66.7 2 5 7 2 0 0 2 2 9
+p720
+aVKenny Anderson SEA 11/08/2002 SEA @ ORL L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -10
+p721
+aVAnsu Sesay SEA 11/08/2002 SEA @ ORL L 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -12
+p722
+aVDesmond Mason SEA 11/08/2002 SEA @ ORL L 30 13 6 11 54.5 1 1 100.0 0 0 - 0 2 2 2 0 0 2 4 -22
+p723
+aVRashard Lewis SEA 11/08/2002 SEA @ ORL L 40 13 5 14 35.7 0 2 0.0 3 4 75.0 3 7 10 4 0 0 0 2 1
+p724
+aVGary Payton SEA 11/08/2002 SEA @ ORL L 37 21 10 21 47.6 0 1 0.0 1 1 100.0 1 3 4 8 1 0 3 3 3
+p725
+aVBrent Barry SEA 11/08/2002 SEA @ ORL L 33 13 4 12 33.3 2 8 25.0 3 3 100.0 1 6 7 5 2 0 3 4 6
+p726
+aVJerome James SEA 11/06/2002 SEA @ NOH L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p727
+aVPredrag Drobnjak SEA 11/06/2002 SEA @ NOH L 22 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 1 0 1 5 1
+p728
+aVGary Payton SEA 11/06/2002 SEA @ NOH L 43 29 9 17 52.9 0 0 - 11 13 84.6 2 4 6 9 0 1 5 1 2
+p729
+aVCalvin Booth SEA 11/06/2002 SEA @ NOH L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 3
+p730
+aVDesmond Mason SEA 11/06/2002 SEA @ NOH L 32 10 5 10 50.0 0 1 0.0 0 0 - 1 5 6 1 0 1 1 1 -4
+p731
+aVKenny Anderson SEA 11/06/2002 SEA @ NOH L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -9
+p732
+aVBrent Barry SEA 11/06/2002 SEA @ NOH L 37 9 3 8 37.5 1 3 33.3 2 2 100.0 2 6 8 4 0 0 2 5 1
+p733
+aVAnsu Sesay SEA 11/06/2002 SEA @ NOH L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -6
+p734
+aVRashard Lewis SEA 11/06/2002 SEA @ NOH L 42 21 10 19 52.6 0 4 0.0 1 2 50.0 2 5 7 0 1 0 1 1 -1
+p735
+aVVladimir Radmanovic SEA 11/06/2002 SEA @ NOH L 37 8 4 13 30.8 0 4 0.0 0 0 - 3 4 7 2 2 0 2 2 9
+p736
+aVRashard Lewis SEA 11/05/2002 SEA @ HOU W 36 18 8 15 53.3 2 3 66.7 0 0 - 3 9 12 0 0 0 1 2 9
+p737
+aVPredrag Drobnjak SEA 11/05/2002 SEA @ HOU W 18 8 4 9 44.4 0 0 - 0 0 - 1 4 5 0 0 0 2 1 5
+p738
+aVAnsu Sesay SEA 11/05/2002 SEA @ HOU W 10 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 1 -4
+p739
+aVJerome James SEA 11/05/2002 SEA @ HOU W 20 13 5 6 83.3 0 0 - 3 5 60.0 2 4 6 2 0 5 0 4 15
+p740
+aVKenny Anderson SEA 11/05/2002 SEA @ HOU W 11 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 0 0 1 2 -3
+p741
+aVDesmond Mason SEA 11/05/2002 SEA @ HOU W 34 12 5 9 55.6 2 4 50.0 0 0 - 1 3 4 3 4 0 3 4 17
+p742
+aVBrent Barry SEA 11/05/2002 SEA @ HOU W 39 11 4 6 66.7 3 4 75.0 0 1 0.0 0 3 3 1 1 0 1 2 -7
+p743
+aVCalvin Booth SEA 11/05/2002 SEA @ HOU W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -3
+p744
+aVVladimir Radmanovic SEA 11/05/2002 SEA @ HOU W 26 16 4 9 44.4 4 5 80.0 4 4 100.0 1 1 2 1 1 0 2 2 -2
+p745
+aVGary Payton SEA 11/05/2002 SEA @ HOU W 40 20 7 21 33.3 0 2 0.0 6 7 85.7 1 6 7 18 1 0 1 2 8
+p746
+aVAnsu Sesay SEA 11/03/2002 SEA vs. UTA W 18 2 1 3 33.3 0 0 - 0 0 - 2 2 4 2 0 0 2 3 -2
+p747
+aVBrent Barry SEA 11/03/2002 SEA vs. UTA W 28 8 2 6 33.3 2 6 33.3 2 3 66.7 1 4 5 3 0 0 1 0 7
+p748
+aVDesmond Mason SEA 11/03/2002 SEA vs. UTA W 32 16 6 13 46.2 0 1 0.0 4 4 100.0 0 4 4 3 1 0 1 4 12
+p749
+aVCalvin Booth SEA 11/03/2002 SEA vs. UTA W 19 6 2 6 33.3 0 0 - 2 4 50.0 2 4 6 0 1 1 0 2 5
+p750
+aVJoseph Forte SEA 11/03/2002 SEA vs. UTA W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -7
+p751
+aVJerome James SEA 11/03/2002 SEA vs. UTA W 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 1 1 2 1
+p752
+aVGary Payton SEA 11/03/2002 SEA vs. UTA W 29 18 9 12 75.0 0 2 0.0 0 0 - 0 5 5 5 3 0 3 2 13
+p753
+aVRashard Lewis SEA 11/03/2002 SEA vs. UTA W 28 4 2 9 22.2 0 4 0.0 0 0 - 5 3 8 4 2 0 1 2 13
+p754
+aVPredrag Drobnjak SEA 11/03/2002 SEA vs. UTA W 26 10 5 12 41.7 0 0 - 0 1 0.0 1 2 3 0 0 0 0 1 7
+p755
+aVVladimir Radmanovic SEA 11/03/2002 SEA vs. UTA W 32 15 7 14 50.0 1 3 33.3 0 0 - 1 4 5 3 1 0 0 2 20
+p756
+aVKenny Anderson SEA 11/03/2002 SEA vs. UTA W 19 10 5 7 71.4 0 0 - 0 0 - 3 4 7 4 0 0 2 2 1
+p757
+aVGary Payton SEA 11/01/2002 SEA @ GSW W 39 26 9 19 47.4 3 4 75.0 5 8 62.5 0 1 1 10 0 0 0 1 8
+p758
+aVPredrag Drobnjak SEA 11/01/2002 SEA @ GSW W 33 8 4 10 40.0 0 1 0.0 0 0 - 1 5 6 3 0 1 5 4 12
+p759
+aVDesmond Mason SEA 11/01/2002 SEA @ GSW W 32 23 9 15 60.0 1 1 100.0 4 4 100.0 4 5 9 0 3 0 2 4 11
+p760
+aVCalvin Booth SEA 11/01/2002 SEA @ GSW W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 3 4
+p761
+aVVladimir Radmanovic SEA 11/01/2002 SEA @ GSW W 18 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 2 5
+p762
+aVAnsu Sesay SEA 11/01/2002 SEA @ GSW W 12 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 2 2 0 1 3 0
+p763
+aVJerome James SEA 11/01/2002 SEA @ GSW W 9 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 2 4 -3
+p764
+aVReggie Evans SEA 11/01/2002 SEA @ GSW W 9 3 0 1 0.0 0 0 - 3 4 75.0 1 3 4 2 0 0 0 0 4
+p765
+aVRashard Lewis SEA 11/01/2002 SEA @ GSW W 44 19 8 20 40.0 1 2 50.0 2 4 50.0 7 2 9 3 4 1 0 1 17
+p766
+aVBrent Barry SEA 11/01/2002 SEA @ GSW W 38 17 5 6 83.3 3 3 100.0 4 5 80.0 0 6 6 6 2 1 2 4 7
+p767
+aVJerome James SEA 10/30/2002 SEA vs. PHX W 6 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 1 1 2 -5
+p768
+aVGary Payton SEA 10/30/2002 SEA vs. PHX W 39 20 9 19 47.4 1 3 33.3 1 2 50.0 1 4 5 8 3 1 4 3 10
+p769
+aVDesmond Mason SEA 10/30/2002 SEA vs. PHX W 37 11 5 14 35.7 0 1 0.0 1 1 100.0 4 2 6 1 0 1 1 2 9
+p770
+aVBrent Barry SEA 10/30/2002 SEA vs. PHX W 41 25 9 12 75.0 5 6 83.3 2 3 66.7 1 4 5 2 3 0 0 4 8
+p771
+aVAnsu Sesay SEA 10/30/2002 SEA vs. PHX W 16 2 1 1 100.0 0 0 - 0 0 - 0 2 2 3 0 0 0 3 15
+p772
+aVReggie Evans SEA 10/30/2002 SEA vs. PHX W 6 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 0 0 -4
+p773
+aVRashard Lewis SEA 10/30/2002 SEA vs. PHX W 36 10 3 13 23.1 0 2 0.0 4 4 100.0 1 3 4 3 2 3 1 3 6
+p774
+aVVladimir Radmanovic SEA 10/30/2002 SEA vs. PHX W 21 6 2 6 33.3 0 1 0.0 2 2 100.0 2 3 5 1 1 2 2 1 11
+p775
+aVPredrag Drobnjak SEA 10/30/2002 SEA vs. PHX W 15 4 2 4 50.0 0 0 - 0 2 0.0 0 2 2 1 0 0 1 0 -2
+p776
+aVCalvin Booth SEA 10/30/2002 SEA vs. PHX W 24 8 3 3 100.0 0 0 - 2 4 50.0 1 3 4 1 1 0 2 1 17
+p777
+a.

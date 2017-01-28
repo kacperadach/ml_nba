@@ -1,0 +1,110 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAl-Farouq Aminu DAL 04/28/2015 DAL @ HOU L 36 14 3 8 37.5 1 1 100.0 7 8 87.5 3 6 9 2 5 0 2 6 -8
+p2
+aVTyson Chandler DAL 04/28/2015 DAL @ HOU L 36 11 5 6 83.3 0 0 - 1 4 25.0 4 2 6 0 0 0 1 2 -9
+p3
+aVCharlie Villanueva DAL 04/28/2015 DAL @ HOU L 9 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 1 0 1 0 2 2
+p4
+aVMonta Ellis DAL 04/28/2015 DAL @ HOU L 42 25 11 26 42.3 2 7 28.6 1 1 100.0 0 3 3 7 4 1 6 3 -4
+p5
+aVDirk Nowitzki DAL 04/28/2015 DAL @ HOU L 39 22 8 23 34.8 0 6 0.0 6 8 75.0 0 15 15 0 1 0 2 5 -13
+p6
+aVDevin Harris DAL 04/28/2015 DAL @ HOU L 27 8 2 7 28.6 0 4 0.0 4 4 100.0 1 3 4 1 1 0 1 4 5
+p7
+aVAmar'e Stoudemire DAL 04/28/2015 DAL @ HOU L 11 2 1 5 20.0 0 0 - 0 0 - 2 1 3 0 1 0 3 4 -1
+p8
+aVDwight Powell DAL 04/28/2015 DAL @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p9
+aVJ.J. Barea DAL 04/28/2015 DAL @ HOU L 37 6 3 12 25.0 0 3 0.0 0 0 - 0 6 6 9 2 0 3 2 -19
+p10
+aVGreg Smith DAL 04/28/2015 DAL @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p11
+aVMonta Ellis DAL 04/26/2015 DAL vs. HOU W 39 31 13 21 61.9 2 6 33.3 3 5 60.0 1 5 6 3 1 0 5 3 26
+p12
+aVDirk Nowitzki DAL 04/26/2015 DAL vs. HOU W 34 16 7 14 50.0 0 1 0.0 2 2 100.0 0 8 8 4 0 1 1 2 20
+p13
+aVCharlie Villanueva DAL 04/26/2015 DAL vs. HOU W 12 8 3 7 42.9 2 5 40.0 0 0 - 3 3 6 1 0 0 0 2 -2
+p14
+aVTyson Chandler DAL 04/26/2015 DAL vs. HOU W 29 10 4 4 100.0 0 0 - 2 6 33.3 5 9 14 1 0 2 0 4 26
+p15
+aVDevin Harris DAL 04/26/2015 DAL vs. HOU W 16 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 3 -13
+p16
+aVJ.J. Barea DAL 04/26/2015 DAL vs. HOU W 36 17 7 15 46.7 2 6 33.3 1 2 50.0 2 1 3 13 1 0 4 5 22
+p17
+aVAmar'e Stoudemire DAL 04/26/2015 DAL vs. HOU W 18 12 6 11 54.5 0 0 - 0 3 0.0 0 1 1 1 0 1 1 3 -14
+p18
+aVRaymond Felton DAL 04/26/2015 DAL vs. HOU W 6 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -10
+p19
+aVAl-Farouq Aminu DAL 04/26/2015 DAL vs. HOU W 38 16 6 10 60.0 3 5 60.0 1 3 33.3 4 8 12 2 0 1 2 3 22
+p20
+aVRichard Jefferson DAL 04/26/2015 DAL vs. HOU W 12 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 2 3 -17
+p21
+aVJ.J. Barea DAL 04/24/2015 DAL vs. HOU L 25 11 4 7 57.1 1 3 33.3 2 2 100.0 1 5 6 9 1 0 2 4 22
+p22
+aVCharlie Villanueva DAL 04/24/2015 DAL vs. HOU L 11 5 2 6 33.3 1 4 25.0 0 0 - 1 3 4 1 1 0 0 1 2
+p23
+aVDirk Nowitzki DAL 04/24/2015 DAL vs. HOU L 36 34 10 19 52.6 3 7 42.9 11 11 100.0 1 7 8 4 0 1 1 3 2
+p24
+aVAl-Farouq Aminu DAL 04/24/2015 DAL vs. HOU L 34 15 4 5 80.0 2 3 66.7 5 6 83.3 2 3 5 0 2 2 2 3 -1
+p25
+aVDevin Harris DAL 04/24/2015 DAL vs. HOU L 21 10 3 8 37.5 0 4 0.0 4 5 80.0 0 1 1 2 0 0 1 2 -21
+p26
+aVRaymond Felton DAL 04/24/2015 DAL vs. HOU L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 1 3
+p27
+aVMonta Ellis DAL 04/24/2015 DAL vs. HOU L 39 34 15 25 60.0 3 5 60.0 1 2 50.0 1 1 2 9 3 0 1 4 -6
+p28
+aVRichard Jefferson DAL 04/24/2015 DAL vs. HOU L 12 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 2 0 1 3 -9
+p29
+aVTyson Chandler DAL 04/24/2015 DAL vs. HOU L 34 8 3 5 60.0 0 0 - 2 6 33.3 6 2 8 0 0 1 1 4 -8
+p30
+aVAmar'e Stoudemire DAL 04/24/2015 DAL vs. HOU L 14 8 3 4 75.0 0 0 - 2 3 66.7 2 2 4 0 0 2 1 3 6
+p31
+aVAl-Farouq Aminu DAL 04/21/2015 DAL @ HOU L 23 9 3 5 60.0 1 1 100.0 2 2 100.0 3 1 4 2 2 3 0 1 2
+p32
+aVRaymond Felton DAL 04/21/2015 DAL @ HOU L 18 9 3 9 33.3 0 2 0.0 3 3 100.0 0 2 2 3 0 0 0 0 -8
+p33
+aVDwight Powell DAL 04/21/2015 DAL @ HOU L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p34
+aVJ.J. Barea DAL 04/21/2015 DAL @ HOU L 34 13 5 14 35.7 1 4 25.0 2 2 100.0 1 5 6 2 0 0 4 2 -5
+p35
+aVTyson Chandler DAL 04/21/2015 DAL @ HOU L 30 11 2 6 33.3 0 0 - 7 8 87.5 4 4 8 0 1 2 1 4 -25
+p36
+aVBernard James DAL 04/21/2015 DAL @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p37
+aVDirk Nowitzki DAL 04/21/2015 DAL @ HOU L 37 10 3 14 21.4 0 2 0.0 4 4 100.0 1 12 13 2 1 0 0 1 -14
+p38
+aVCharlie Villanueva DAL 04/21/2015 DAL @ HOU L 9 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 3 6
+p39
+aVMonta Ellis DAL 04/21/2015 DAL @ HOU L 38 24 8 23 34.8 2 8 25.0 6 6 100.0 2 3 5 3 0 1 1 3 -8
+p40
+aVAmar'e Stoudemire DAL 04/21/2015 DAL @ HOU L 16 7 3 3 100.0 0 0 - 1 1 100.0 2 1 3 1 0 0 1 3 7
+p41
+aVRajon Rondo DAL 04/21/2015 DAL @ HOU L 10 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 4 -11
+p42
+aVRichard Jefferson DAL 04/21/2015 DAL @ HOU L 23 7 2 6 33.3 1 3 33.3 2 2 100.0 0 0 0 0 0 0 0 2 -10
+p43
+aVTyson Chandler DAL 04/18/2015 DAL @ HOU L 31 11 5 8 62.5 0 0 - 1 2 50.0 8 10 18 0 2 1 2 2 -18
+p44
+aVDevin Harris DAL 04/18/2015 DAL @ HOU L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 0 0 2 1 4
+p45
+aVCharlie Villanueva DAL 04/18/2015 DAL @ HOU L 2 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 0 2 -2
+p46
+aVDirk Nowitzki DAL 04/18/2015 DAL @ HOU L 34 24 10 14 71.4 1 1 100.0 3 3 100.0 2 6 8 2 0 0 6 5 -6
+p47
+aVChandler Parsons DAL 04/18/2015 DAL @ HOU L 37 10 5 15 33.3 0 4 0.0 0 0 - 0 6 6 2 0 0 1 1 -16
+p48
+aVJ.J. Barea DAL 04/18/2015 DAL @ HOU L 22 12 6 9 66.7 0 0 - 0 0 - 1 2 3 4 0 0 1 4 12
+p49
+aVMonta Ellis DAL 04/18/2015 DAL @ HOU L 39 16 5 16 31.3 2 4 50.0 4 6 66.7 0 0 0 4 2 1 3 5 -12
+p50
+aVAl-Farouq Aminu DAL 04/18/2015 DAL @ HOU L 19 2 1 3 33.3 0 1 0.0 0 0 - 2 4 6 0 1 2 0 2 3
+p51
+aVAmar'e Stoudemire DAL 04/18/2015 DAL @ HOU L 16 10 2 12 16.7 0 0 - 6 6 100.0 1 4 5 1 0 0 1 3 7
+p52
+aVRajon Rondo DAL 04/18/2015 DAL @ HOU L 27 15 7 16 43.8 1 2 50.0 0 0 - 0 0 0 5 0 0 1 2 -25
+p53
+aVRichard Jefferson DAL 04/18/2015 DAL @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p54
+a.

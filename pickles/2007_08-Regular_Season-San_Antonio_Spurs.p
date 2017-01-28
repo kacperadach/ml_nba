@@ -1,0 +1,1798 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrent Barry SAS 04/16/2008 SAS vs. UTA W 9 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 2 3
+p2
+aVBruce Bowen SAS 04/16/2008 SAS vs. UTA W 18 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 1 3
+p3
+aVTim Duncan SAS 04/16/2008 SAS vs. UTA W 27 14 5 9 55.6 0 0 - 4 6 66.7 1 10 11 0 2 3 0 0 18
+p4
+aVIme Udoka SAS 04/16/2008 SAS vs. UTA W 21 6 2 7 28.6 2 4 50.0 0 0 - 0 4 4 1 0 0 2 3 8
+p5
+aVMatt Bonner SAS 04/16/2008 SAS vs. UTA W 24 10 3 7 42.9 2 4 50.0 2 2 100.0 2 2 4 2 0 0 0 5 5
+p6
+aVManu Ginobili SAS 04/16/2008 SAS vs. UTA W 19 12 4 4 100.0 0 0 - 4 4 100.0 0 6 6 4 3 0 1 3 13
+p7
+aVFabricio Oberto SAS 04/16/2008 SAS vs. UTA W 22 6 3 3 100.0 0 0 - 0 2 0.0 2 2 4 0 0 0 0 3 22
+p8
+aVDamon Stoudamire SAS 04/16/2008 SAS vs. UTA W 11 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 4 0 0 2 0 4
+p9
+aVTony Parker SAS 04/16/2008 SAS vs. UTA W 29 24 10 17 58.8 0 0 - 4 6 66.7 0 1 1 12 3 0 4 0 23
+p10
+aVMichael Finley SAS 04/16/2008 SAS vs. UTA W 22 12 4 6 66.7 2 3 66.7 2 2 100.0 0 1 1 0 0 0 2 0 22
+p11
+aVJacque Vaughn SAS 04/16/2008 SAS vs. UTA W 19 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 6
+p12
+aVKurt Thomas SAS 04/16/2008 SAS vs. UTA W 20 10 4 5 80.0 0 0 - 2 2 100.0 0 2 2 0 0 1 1 1 18
+p13
+aVKurt Thomas SAS 04/14/2008 SAS @ SAC W 29 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 1 1 1 4 0
+p14
+aVBruce Bowen SAS 04/14/2008 SAS @ SAC W 34 5 2 5 40.0 1 4 25.0 0 0 - 0 4 4 1 0 0 1 2 4
+p15
+aVTim Duncan SAS 04/14/2008 SAS @ SAC W 25 19 6 7 85.7 0 0 - 7 8 87.5 1 4 5 3 2 1 2 6 4
+p16
+aVJacque Vaughn SAS 04/14/2008 SAS @ SAC W 11 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -16
+p17
+aVMatt Bonner SAS 04/14/2008 SAS @ SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p18
+aVIme Udoka SAS 04/14/2008 SAS @ SAC W 20 9 3 6 50.0 3 4 75.0 0 0 - 0 3 3 1 0 0 1 4 4
+p19
+aVBrent Barry SAS 04/14/2008 SAS @ SAC W 4 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -10
+p20
+aVMichael Finley SAS 04/14/2008 SAS @ SAC W 38 19 8 15 53.3 1 6 16.7 2 3 66.7 0 3 3 3 0 0 1 3 8
+p21
+aVFabricio Oberto SAS 04/14/2008 SAS @ SAC W 36 17 8 10 80.0 0 0 - 1 1 100.0 2 6 8 3 1 0 3 2 -1
+p22
+aVTony Parker SAS 04/14/2008 SAS @ SAC W 37 32 12 22 54.5 1 2 50.0 7 9 77.8 0 3 3 11 2 0 1 2 19
+p23
+aVIme Udoka SAS 04/13/2008 SAS @ LAL L 28 14 4 10 40.0 2 6 33.3 4 4 100.0 0 3 3 2 2 0 1 2 -13
+p24
+aVJacque Vaughn SAS 04/13/2008 SAS @ LAL L 22 8 4 5 80.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -14
+p25
+aVTony Parker SAS 04/13/2008 SAS @ LAL L 29 20 8 15 53.3 0 0 - 4 4 100.0 1 6 7 5 0 0 3 1 -11
+p26
+aVFabricio Oberto SAS 04/13/2008 SAS @ LAL L 9 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 3 3
+p27
+aVTim Duncan SAS 04/13/2008 SAS @ LAL L 32 16 6 19 31.6 0 0 - 4 7 57.1 6 6 12 2 0 0 1 3 -13
+p28
+aVMatt Bonner SAS 04/13/2008 SAS @ LAL L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -1
+p29
+aVDerMarr Johnson SAS 04/13/2008 SAS @ LAL L 9 3 1 3 33.3 1 2 50.0 0 2 0.0 0 1 1 1 1 0 0 0 -7
+p30
+aVKurt Thomas SAS 04/13/2008 SAS @ LAL L 20 1 0 3 0.0 0 1 0.0 1 4 25.0 1 1 2 1 3 0 0 4 -15
+p31
+aVBruce Bowen SAS 04/13/2008 SAS @ LAL L 33 4 1 4 25.0 1 2 50.0 1 3 33.3 0 3 3 0 1 0 0 1 -25
+p32
+aVMichael Finley SAS 04/13/2008 SAS @ LAL L 33 11 5 11 45.5 1 3 33.3 0 0 - 0 1 1 1 2 0 1 1 -5
+p33
+aVDamon Stoudamire SAS 04/13/2008 SAS @ LAL L 16 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 4 0 1 2 1 -4
+p34
+aVKurt Thomas SAS 04/11/2008 SAS vs. SEA W 22 6 3 7 42.9 0 0 - 0 0 - 0 5 5 1 1 1 0 0 3
+p35
+aVTim Duncan SAS 04/11/2008 SAS vs. SEA W 24 12 4 12 33.3 0 0 - 4 8 50.0 1 5 6 2 0 4 0 1 11
+p36
+aVMatt Bonner SAS 04/11/2008 SAS vs. SEA W 19 5 2 6 33.3 0 4 0.0 1 2 50.0 2 8 10 0 0 1 1 1 13
+p37
+aVDamon Stoudamire SAS 04/11/2008 SAS vs. SEA W 14 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 2 1 0 0 1 7
+p38
+aVIme Udoka SAS 04/11/2008 SAS vs. SEA W 27 13 5 9 55.6 3 4 75.0 0 0 - 1 5 6 3 0 1 1 2 5
+p39
+aVMichael Finley SAS 04/11/2008 SAS vs. SEA W 28 14 6 14 42.9 1 5 20.0 1 1 100.0 0 4 4 1 0 0 2 0 11
+p40
+aVTony Parker SAS 04/11/2008 SAS vs. SEA W 29 20 10 18 55.6 0 1 0.0 0 0 - 0 3 3 7 2 0 5 0 20
+p41
+aVJacque Vaughn SAS 04/11/2008 SAS vs. SEA W 18 7 2 4 50.0 0 1 0.0 3 3 100.0 0 1 1 6 0 0 1 0 7
+p42
+aVFabricio Oberto SAS 04/11/2008 SAS vs. SEA W 26 10 5 8 62.5 0 0 - 0 1 0.0 2 8 10 3 0 0 1 2 8
+p43
+aVBruce Bowen SAS 04/11/2008 SAS vs. SEA W 26 4 2 3 66.7 0 1 0.0 0 0 - 0 6 6 1 0 0 0 2 18
+p44
+aVDerMarr Johnson SAS 04/11/2008 SAS vs. SEA W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p45
+aVFabricio Oberto SAS 04/09/2008 SAS vs. PHX L 23 6 3 8 37.5 0 0 - 0 0 - 2 2 4 2 0 1 1 3 -15
+p46
+aVTim Duncan SAS 04/09/2008 SAS vs. PHX L 35 23 9 21 42.9 0 0 - 5 6 83.3 3 7 10 0 0 2 3 5 -9
+p47
+aVIme Udoka SAS 04/09/2008 SAS vs. PHX L 26 2 1 3 33.3 0 1 0.0 0 0 - 0 6 6 2 3 0 2 1 -17
+p48
+aVMichael Finley SAS 04/09/2008 SAS vs. PHX L 29 10 4 5 80.0 2 2 100.0 0 0 - 1 0 1 1 0 0 0 0 -16
+p49
+aVBobby Jones SAS 04/09/2008 SAS vs. PHX L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p50
+aVTony Parker SAS 04/09/2008 SAS vs. PHX L 34 20 9 17 52.9 0 1 0.0 2 3 66.7 0 2 2 4 0 0 3 0 -9
+p51
+aVManu Ginobili SAS 04/09/2008 SAS vs. PHX L 28 8 3 12 25.0 0 4 0.0 2 2 100.0 1 3 4 4 1 1 2 1 -2
+p52
+aVJacque Vaughn SAS 04/09/2008 SAS vs. PHX L 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -8
+p53
+aVBruce Bowen SAS 04/09/2008 SAS vs. PHX L 32 4 2 8 25.0 0 1 0.0 0 0 - 2 3 5 2 0 0 0 4 -7
+p54
+aVMatt Bonner SAS 04/09/2008 SAS vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p55
+aVKurt Thomas SAS 04/09/2008 SAS vs. PHX L 13 0 0 4 0.0 0 0 - 0 0 - 0 4 4 0 0 1 0 3 -2
+p56
+aVKurt Thomas SAS 04/06/2008 SAS @ POR W 26 2 1 4 25.0 0 0 - 0 0 - 2 11 13 0 0 0 0 3 1
+p57
+aVTony Parker SAS 04/06/2008 SAS @ POR W 33 8 4 16 25.0 0 3 0.0 0 0 - 0 3 3 7 0 0 0 2 9
+p58
+aVBruce Bowen SAS 04/06/2008 SAS @ POR W 39 10 4 7 57.1 2 4 50.0 0 0 - 0 3 3 1 0 0 1 3 3
+p59
+aVTim Duncan SAS 04/06/2008 SAS @ POR W 37 27 10 22 45.5 0 1 0.0 7 9 77.8 4 7 11 0 0 1 1 0 7
+p60
+aVMatt Bonner SAS 04/06/2008 SAS @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p61
+aVMichael Finley SAS 04/06/2008 SAS @ POR W 20 7 3 4 75.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 1 6
+p62
+aVManu Ginobili SAS 04/06/2008 SAS @ POR W 30 10 3 5 60.0 0 2 0.0 4 5 80.0 0 3 3 6 0 0 4 2 3
+p63
+aVIme Udoka SAS 04/06/2008 SAS @ POR W 23 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 0 1 0 1 1 2
+p64
+aVJacque Vaughn SAS 04/06/2008 SAS @ POR W 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -3
+p65
+aVFabricio Oberto SAS 04/06/2008 SAS @ POR W 15 3 1 2 50.0 0 0 - 1 1 100.0 0 4 4 0 0 0 1 4 8
+p66
+aVDamon Stoudamire SAS 04/06/2008 SAS @ POR W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p67
+aVTony Parker SAS 04/04/2008 SAS @ UTA L 30 17 7 14 50.0 0 1 0.0 3 4 75.0 0 4 4 4 0 0 1 1 -13
+p68
+aVIme Udoka SAS 04/04/2008 SAS @ UTA L 20 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -18
+p69
+aVMichael Finley SAS 04/04/2008 SAS @ UTA L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 3 -14
+p70
+aVFabricio Oberto SAS 04/04/2008 SAS @ UTA L 22 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 3 1 -18
+p71
+aVJacque Vaughn SAS 04/04/2008 SAS @ UTA L 18 0 0 4 0.0 0 0 - 0 0 - 0 3 3 1 1 0 3 2 -13
+p72
+aVBruce Bowen SAS 04/04/2008 SAS @ UTA L 23 3 1 4 25.0 1 3 33.3 0 0 - 1 4 5 1 1 0 0 0 -5
+p73
+aVKurt Thomas SAS 04/04/2008 SAS @ UTA L 25 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 1 1 1 1 -9
+p74
+aVBobby Jones SAS 04/04/2008 SAS @ UTA L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 -6
+p75
+aVMatt Bonner SAS 04/04/2008 SAS @ UTA L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p76
+aVTim Duncan SAS 04/04/2008 SAS @ UTA L 26 15 6 12 50.0 0 0 - 3 6 50.0 1 9 10 1 0 3 3 1 -5
+p77
+aVDamon Stoudamire SAS 04/04/2008 SAS @ UTA L 9 9 3 6 50.0 1 2 50.0 2 2 100.0 1 1 2 0 1 0 1 1 -6
+p78
+aVManu Ginobili SAS 04/04/2008 SAS @ UTA L 26 8 2 10 20.0 0 2 0.0 4 4 100.0 0 3 3 1 0 2 2 2 -17
+p79
+aVIme Udoka SAS 04/01/2008 SAS vs. GSW W 30 9 4 7 57.1 1 3 33.3 0 0 - 3 2 5 1 2 1 1 1 29
+p80
+aVFabricio Oberto SAS 04/01/2008 SAS vs. GSW W 19 8 4 6 66.7 0 0 - 0 0 - 6 4 10 3 2 0 2 2 14
+p81
+aVTim Duncan SAS 04/01/2008 SAS vs. GSW W 28 17 8 12 66.7 0 0 - 1 2 50.0 0 12 12 0 1 3 1 1 7
+p82
+aVBobby Jones SAS 04/01/2008 SAS vs. GSW W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -1
+p83
+aVJacque Vaughn SAS 04/01/2008 SAS vs. GSW W 15 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 1 0 1 1 13
+p84
+aVTony Parker SAS 04/01/2008 SAS vs. GSW W 32 26 12 19 63.2 0 1 0.0 2 5 40.0 0 4 4 7 0 0 2 2 12
+p85
+aVMatt Bonner SAS 04/01/2008 SAS vs. GSW W 7 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 1 0 1 -1
+p86
+aVDamon Stoudamire SAS 04/01/2008 SAS vs. GSW W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -6
+p87
+aVKurt Thomas SAS 04/01/2008 SAS vs. GSW W 7 5 2 3 66.7 0 0 - 1 2 50.0 0 4 4 0 0 0 0 1 -1
+p88
+aVBruce Bowen SAS 04/01/2008 SAS vs. GSW W 28 12 4 9 44.4 4 6 66.7 0 0 - 0 7 7 2 0 0 1 3 6
+p89
+aVMichael Finley SAS 04/01/2008 SAS vs. GSW W 35 13 4 10 40.0 3 8 37.5 2 2 100.0 0 3 3 5 0 0 1 0 20
+p90
+aVManu Ginobili SAS 04/01/2008 SAS vs. GSW W 29 16 7 14 50.0 1 3 33.3 1 1 100.0 1 6 7 2 1 2 6 2 28
+p91
+aVTim Duncan SAS 03/30/2008 SAS vs. HOU W 29 13 6 12 50.0 0 0 - 1 2 50.0 3 3 6 1 0 0 3 2 14
+p92
+aVDamon Stoudamire SAS 03/30/2008 SAS vs. HOU W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p93
+aVMichael Finley SAS 03/30/2008 SAS vs. HOU W 31 22 9 13 69.2 1 2 50.0 3 3 100.0 0 6 6 0 0 0 1 1 15
+p94
+aVManu Ginobili SAS 03/30/2008 SAS vs. HOU W 27 14 3 8 37.5 1 2 50.0 7 8 87.5 0 6 6 5 0 2 0 1 14
+p95
+aVTony Parker SAS 03/30/2008 SAS vs. HOU W 31 22 10 15 66.7 0 0 - 2 2 100.0 1 5 6 5 0 0 0 3 22
+p96
+aVMatt Bonner SAS 03/30/2008 SAS vs. HOU W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p97
+aVBruce Bowen SAS 03/30/2008 SAS vs. HOU W 31 9 3 6 50.0 1 2 50.0 2 4 50.0 0 3 3 1 1 1 0 2 15
+p98
+aVKurt Thomas SAS 03/30/2008 SAS vs. HOU W 21 10 4 9 44.4 0 0 - 2 2 100.0 2 5 7 1 1 0 0 1 3
+p99
+aVFabricio Oberto SAS 03/30/2008 SAS vs. HOU W 29 8 4 4 100.0 0 0 - 0 0 - 2 3 5 5 0 1 0 2 16
+p100
+aVIme Udoka SAS 03/30/2008 SAS vs. HOU W 15 5 2 4 50.0 1 2 50.0 0 0 - 1 3 4 1 0 1 1 2 7
+p101
+aVJacque Vaughn SAS 03/30/2008 SAS vs. HOU W 17 4 2 8 25.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -3
+p102
+aVManu Ginobili SAS 03/28/2008 SAS vs. MIN W 25 26 8 11 72.7 5 8 62.5 5 6 83.3 0 1 1 3 0 0 1 1 14
+p103
+aVFabricio Oberto SAS 03/28/2008 SAS vs. MIN W 15 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 1 0 1 1 -5
+p104
+aVTony Parker SAS 03/28/2008 SAS vs. MIN W 27 18 7 13 53.8 0 0 - 4 4 100.0 0 3 3 8 0 0 3 1 -1
+p105
+aVMatt Bonner SAS 03/28/2008 SAS vs. MIN W 21 7 3 4 75.0 1 1 100.0 0 0 - 0 4 4 1 0 0 1 1 11
+p106
+aVTim Duncan SAS 03/28/2008 SAS vs. MIN W 34 12 4 13 30.8 0 0 - 4 4 100.0 2 12 14 2 1 2 0 1 7
+p107
+aVIme Udoka SAS 03/28/2008 SAS vs. MIN W 26 8 3 4 75.0 1 2 50.0 1 2 50.0 0 3 3 1 1 0 1 2 22
+p108
+aVKurt Thomas SAS 03/28/2008 SAS vs. MIN W 21 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 1 0 2 4 17
+p109
+aVJacque Vaughn SAS 03/28/2008 SAS vs. MIN W 19 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 4 15
+p110
+aVMichael Finley SAS 03/28/2008 SAS vs. MIN W 23 16 7 8 87.5 2 2 100.0 0 0 - 1 2 3 1 0 0 3 0 6
+p111
+aVDamon Stoudamire SAS 03/28/2008 SAS vs. MIN W 9 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 1 0 0 2 0 -13
+p112
+aVBruce Bowen SAS 03/28/2008 SAS vs. MIN W 19 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 2
+p113
+aVJacque Vaughn SAS 03/26/2008 SAS vs. LAC W 14 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 2 1 0 1 2 -5
+p114
+aVFabricio Oberto SAS 03/26/2008 SAS vs. LAC W 17 6 3 3 100.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 11
+p115
+aVTim Duncan SAS 03/26/2008 SAS vs. LAC W 37 26 8 10 80.0 0 0 - 10 13 76.9 5 7 12 4 0 2 2 2 9
+p116
+aVMatt Bonner SAS 03/26/2008 SAS vs. LAC W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -4
+p117
+aVBruce Bowen SAS 03/26/2008 SAS vs. LAC W 29 7 3 9 33.3 1 4 25.0 0 0 - 0 1 1 1 0 0 0 5 9
+p118
+aVMichael Finley SAS 03/26/2008 SAS vs. LAC W 36 16 6 11 54.5 2 5 40.0 2 2 100.0 1 5 6 1 0 0 0 3 16
+p119
+aVTony Parker SAS 03/26/2008 SAS vs. LAC W 34 15 6 13 46.2 0 1 0.0 3 6 50.0 0 4 4 4 1 0 1 3 14
+p120
+aVManu Ginobili SAS 03/26/2008 SAS vs. LAC W 31 13 5 11 45.5 2 4 50.0 1 2 50.0 0 2 2 3 3 2 2 1 10
+p121
+aVKurt Thomas SAS 03/26/2008 SAS vs. LAC W 11 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -2
+p122
+aVIme Udoka SAS 03/26/2008 SAS vs. LAC W 24 7 3 10 30.0 1 3 33.3 0 0 - 0 7 7 1 0 0 1 0 -13
+p123
+aVIme Udoka SAS 03/25/2008 SAS @ ORL W 24 3 1 7 14.3 1 3 33.3 0 0 - 0 4 4 0 2 0 0 3 -2
+p124
+aVFabricio Oberto SAS 03/25/2008 SAS @ ORL W 11 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 1 0 0 0 4 -5
+p125
+aVTony Parker SAS 03/25/2008 SAS @ ORL W 35 11 4 13 30.8 0 1 0.0 3 5 60.0 0 6 6 9 0 0 1 0 19
+p126
+aVJacque Vaughn SAS 03/25/2008 SAS @ ORL W 13 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -9
+p127
+aVMatt Bonner SAS 03/25/2008 SAS @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p128
+aVManu Ginobili SAS 03/25/2008 SAS @ ORL W 33 28 10 19 52.6 1 5 20.0 7 7 100.0 1 1 2 5 0 0 3 2 10
+p129
+aVMichael Finley SAS 03/25/2008 SAS @ ORL W 39 24 9 13 69.2 2 4 50.0 4 4 100.0 0 3 3 1 0 0 1 2 14
+p130
+aVKurt Thomas SAS 03/25/2008 SAS @ ORL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p131
+aVBruce Bowen SAS 03/25/2008 SAS @ ORL W 42 11 4 7 57.1 3 5 60.0 0 0 - 0 2 2 1 1 0 3 2 10
+p132
+aVTim Duncan SAS 03/25/2008 SAS @ ORL W 35 19 7 10 70.0 0 0 - 5 6 83.3 2 13 15 3 0 4 2 4 15
+p133
+aVManu Ginobili SAS 03/23/2008 SAS @ DAL W 34 26 6 15 40.0 3 8 37.5 11 11 100.0 4 4 8 6 1 1 0 2 13
+p134
+aVIme Udoka SAS 03/23/2008 SAS @ DAL W 30 7 3 4 75.0 1 1 100.0 0 0 - 0 4 4 1 1 1 1 1 10
+p135
+aVBruce Bowen SAS 03/23/2008 SAS @ DAL W 41 5 2 8 25.0 1 5 20.0 0 0 - 1 8 9 2 0 0 0 2 11
+p136
+aVMichael Finley SAS 03/23/2008 SAS @ DAL W 24 2 0 7 0.0 0 3 0.0 2 2 100.0 1 4 5 0 2 0 1 2 -9
+p137
+aVKurt Thomas SAS 03/23/2008 SAS @ DAL W 15 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 1 1 1 2 -2
+p138
+aVTim Duncan SAS 03/23/2008 SAS @ DAL W 35 19 7 21 33.3 0 0 - 5 6 83.3 3 10 13 1 0 1 2 2 14
+p139
+aVJacque Vaughn SAS 03/23/2008 SAS @ DAL W 11 6 3 4 75.0 0 0 - 0 0 - 1 0 1 2 0 0 0 2 10
+p140
+aVTony Parker SAS 03/23/2008 SAS @ DAL W 37 13 4 21 19.0 0 2 0.0 5 5 100.0 0 4 4 3 0 0 0 3 -3
+p141
+aVFabricio Oberto SAS 03/23/2008 SAS @ DAL W 14 4 2 6 33.3 0 0 - 0 0 - 4 1 5 0 0 1 0 0 -9
+p142
+aVTim Duncan SAS 03/21/2008 SAS vs. SAC W 32 21 8 18 44.4 0 0 - 5 6 83.3 3 10 13 3 2 3 2 2 14
+p143
+aVDamon Stoudamire SAS 03/21/2008 SAS vs. SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -3
+p144
+aVTony Parker SAS 03/21/2008 SAS vs. SAC W 32 19 6 14 42.9 2 2 100.0 5 6 83.3 0 4 4 7 0 0 1 0 12
+p145
+aVFabricio Oberto SAS 03/21/2008 SAS vs. SAC W 23 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 1 0 0 0 4 -6
+p146
+aVManu Ginobili SAS 03/21/2008 SAS vs. SAC W 27 9 3 5 60.0 1 3 33.3 2 2 100.0 0 2 2 5 0 1 2 2 18
+p147
+aVJacque Vaughn SAS 03/21/2008 SAS vs. SAC W 18 11 4 9 44.4 0 0 - 3 4 75.0 0 0 0 7 0 0 1 1 5
+p148
+aVIme Udoka SAS 03/21/2008 SAS vs. SAC W 21 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 4 8
+p149
+aVRobert Horry SAS 03/21/2008 SAS vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -1
+p150
+aVBruce Bowen SAS 03/21/2008 SAS vs. SAC W 29 10 3 4 75.0 2 2 100.0 2 2 100.0 1 2 3 1 0 0 0 3 2
+p151
+aVKurt Thomas SAS 03/21/2008 SAS vs. SAC W 21 8 4 6 66.7 0 0 - 0 0 - 2 5 7 0 1 0 1 1 16
+p152
+aVMatt Bonner SAS 03/21/2008 SAS vs. SAC W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p153
+aVMichael Finley SAS 03/21/2008 SAS vs. SAC W 30 9 4 9 44.4 1 3 33.3 0 1 0.0 0 2 2 1 0 1 0 1 3
+p154
+aVMichael Finley SAS 03/20/2008 SAS @ CHI W 22 10 4 6 66.7 2 2 100.0 0 0 - 0 1 1 1 1 0 1 2 6
+p155
+aVManu Ginobili SAS 03/20/2008 SAS @ CHI W 27 6 1 8 12.5 0 3 0.0 4 4 100.0 0 4 4 2 2 0 3 0 18
+p156
+aVTim Duncan SAS 03/20/2008 SAS @ CHI W 26 22 9 14 64.3 0 0 - 4 4 100.0 3 7 10 1 0 3 1 0 20
+p157
+aVFabricio Oberto SAS 03/20/2008 SAS @ CHI W 22 4 2 3 66.7 0 0 - 0 0 - 2 5 7 2 0 0 1 6 7
+p158
+aVRobert Horry SAS 03/20/2008 SAS @ CHI W 12 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 2 1 0 0 2 18
+p159
+aVJacque Vaughn SAS 03/20/2008 SAS @ CHI W 18 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 4 0 0 0 1 3
+p160
+aVMatt Bonner SAS 03/20/2008 SAS @ CHI W 9 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 -3
+p161
+aVIme Udoka SAS 03/20/2008 SAS @ CHI W 27 13 5 11 45.5 1 5 20.0 2 3 66.7 0 4 4 3 2 0 1 4 10
+p162
+aVDamon Stoudamire SAS 03/20/2008 SAS @ CHI W 9 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 0 -3
+p163
+aVTony Parker SAS 03/20/2008 SAS @ CHI W 30 23 8 18 44.4 0 3 0.0 7 10 70.0 0 2 2 6 0 0 2 2 19
+p164
+aVBruce Bowen SAS 03/20/2008 SAS @ CHI W 20 6 2 8 25.0 2 6 33.3 0 0 - 1 0 1 1 1 0 0 1 12
+p165
+aVKurt Thomas SAS 03/20/2008 SAS @ CHI W 20 4 2 6 33.3 0 0 - 0 0 - 4 2 6 0 1 1 0 0 3
+p166
+aVKurt Thomas SAS 03/17/2008 SAS vs. BOS L 15 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 1 0 0 0 2 9
+p167
+aVFabricio Oberto SAS 03/17/2008 SAS vs. BOS L 17 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 1 -1
+p168
+aVRobert Horry SAS 03/17/2008 SAS vs. BOS L 13 7 2 6 33.3 1 5 20.0 2 2 100.0 2 4 6 1 0 0 1 2 13
+p169
+aVIme Udoka SAS 03/17/2008 SAS vs. BOS L 24 6 2 7 28.6 1 4 25.0 1 2 50.0 0 1 1 0 3 1 1 4 19
+p170
+aVMichael Finley SAS 03/17/2008 SAS vs. BOS L 27 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -18
+p171
+aVJacque Vaughn SAS 03/17/2008 SAS vs. BOS L 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 3 1 0 0 3 9
+p172
+aVManu Ginobili SAS 03/17/2008 SAS vs. BOS L 33 32 10 18 55.6 4 7 57.1 8 8 100.0 1 3 4 2 0 0 2 0 5
+p173
+aVTim Duncan SAS 03/17/2008 SAS vs. BOS L 34 10 4 8 50.0 0 0 - 2 2 100.0 1 7 8 2 0 3 2 3 -6
+p174
+aVTony Parker SAS 03/17/2008 SAS vs. BOS L 37 17 7 14 50.0 1 2 50.0 2 2 100.0 1 4 5 8 2 1 4 1 -15
+p175
+aVBruce Bowen SAS 03/17/2008 SAS vs. BOS L 27 6 2 5 40.0 1 2 50.0 1 2 50.0 0 2 2 0 1 0 0 3 -25
+p176
+aVFabricio Oberto SAS 03/15/2008 SAS @ PHI L 13 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -10
+p177
+aVMichael Finley SAS 03/15/2008 SAS @ PHI L 27 3 1 6 16.7 0 3 0.0 1 1 100.0 0 3 3 1 0 0 0 1 -8
+p178
+aVBruce Bowen SAS 03/15/2008 SAS @ PHI L 37 10 4 7 57.1 2 3 66.7 0 0 - 0 1 1 1 0 0 0 3 -5
+p179
+aVManu Ginobili SAS 03/15/2008 SAS @ PHI L 38 22 7 12 58.3 3 6 50.0 5 5 100.0 3 4 7 6 0 1 3 5 0
+p180
+aVTony Parker SAS 03/15/2008 SAS @ PHI L 36 27 12 16 75.0 0 1 0.0 3 4 75.0 1 1 2 5 3 0 1 4 0
+p181
+aVTim Duncan SAS 03/15/2008 SAS @ PHI L 33 16 5 14 35.7 0 1 0.0 6 7 85.7 1 5 6 1 0 1 2 1 3
+p182
+aVKurt Thomas SAS 03/15/2008 SAS @ PHI L 24 7 3 7 42.9 0 0 - 1 2 50.0 0 6 6 3 1 1 2 3 -6
+p183
+aVJacque Vaughn SAS 03/15/2008 SAS @ PHI L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 2 3
+p184
+aVMatt Bonner SAS 03/15/2008 SAS @ PHI L 16 3 1 6 16.7 1 6 16.7 0 0 - 0 6 6 0 0 1 0 1 -2
+p185
+aVDamon Stoudamire SAS 03/15/2008 SAS @ PHI L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -10
+p186
+aVMatt Bonner SAS 03/14/2008 SAS @ DET L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 9
+p187
+aVTony Parker SAS 03/14/2008 SAS @ DET L 38 26 12 18 66.7 0 0 - 2 3 66.7 1 3 4 7 3 1 1 3 1
+p188
+aVManu Ginobili SAS 03/14/2008 SAS @ DET L 35 9 4 10 40.0 1 5 20.0 0 0 - 1 4 5 2 1 1 2 4 -4
+p189
+aVTim Duncan SAS 03/14/2008 SAS @ DET L 39 20 9 23 39.1 0 0 - 2 3 66.7 3 7 10 3 0 1 4 1 8
+p190
+aVMichael Finley SAS 03/14/2008 SAS @ DET L 35 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 0 1 0 0 0 -1
+p191
+aVKurt Thomas SAS 03/14/2008 SAS @ DET L 21 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 1 0 0 0 -2
+p192
+aVJacque Vaughn SAS 03/14/2008 SAS @ DET L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p193
+aVRobert Horry SAS 03/14/2008 SAS @ DET L 23 8 3 5 60.0 2 3 66.7 0 0 - 3 2 5 0 0 1 1 4 2
+p194
+aVFabricio Oberto SAS 03/14/2008 SAS @ DET L 13 2 1 5 20.0 0 0 - 0 0 - 2 1 3 1 0 1 1 4 -16
+p195
+aVDamon Stoudamire SAS 03/14/2008 SAS @ DET L 19 5 2 10 20.0 1 7 14.3 0 0 - 1 1 2 0 1 0 1 1 -12
+p196
+aVManu Ginobili SAS 03/12/2008 SAS @ NOH L 31 11 5 10 50.0 0 4 0.0 1 1 100.0 0 3 3 4 3 0 3 1 -7
+p197
+aVDamon Stoudamire SAS 03/12/2008 SAS @ NOH L 9 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p198
+aVRobert Horry SAS 03/12/2008 SAS @ NOH L 18 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 1 3 0 1 2 -13
+p199
+aVJacque Vaughn SAS 03/12/2008 SAS @ NOH L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p200
+aVMichael Finley SAS 03/12/2008 SAS @ NOH L 16 2 1 6 16.7 0 4 0.0 0 0 - 0 0 0 1 0 0 0 0 -17
+p201
+aVTony Parker SAS 03/12/2008 SAS @ NOH L 34 24 10 16 62.5 2 3 66.7 2 8 25.0 0 2 2 4 0 0 1 2 -18
+p202
+aVFabricio Oberto SAS 03/12/2008 SAS @ NOH L 16 0 0 1 0.0 0 0 - 0 0 - 2 1 3 2 1 0 0 3 -9
+p203
+aVKurt Thomas SAS 03/12/2008 SAS @ NOH L 22 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 1 3 5 -12
+p204
+aVMatt Bonner SAS 03/12/2008 SAS @ NOH L 5 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 1 -5
+p205
+aVIme Udoka SAS 03/12/2008 SAS @ NOH L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 -1
+p206
+aVBruce Bowen SAS 03/12/2008 SAS @ NOH L 31 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 3 1 0 2 2 -17
+p207
+aVTim Duncan SAS 03/12/2008 SAS @ NOH L 33 24 10 16 62.5 0 0 - 4 6 66.7 3 8 11 3 1 1 0 0 -16
+p208
+aVKurt Thomas SAS 03/10/2008 SAS vs. DEN W 24 13 6 8 75.0 0 0 - 1 4 25.0 0 2 2 0 1 0 2 5 7
+p209
+aVManu Ginobili SAS 03/10/2008 SAS vs. DEN W 32 13 4 11 36.4 1 4 25.0 4 4 100.0 0 3 3 14 2 0 2 2 0
+p210
+aVMichael Finley SAS 03/10/2008 SAS vs. DEN W 19 8 3 6 50.0 1 2 50.0 1 1 100.0 0 3 3 0 0 0 0 2 1
+p211
+aVBruce Bowen SAS 03/10/2008 SAS vs. DEN W 41 11 4 8 50.0 2 2 100.0 1 2 50.0 1 1 2 0 2 1 0 2 8
+p212
+aVIme Udoka SAS 03/10/2008 SAS vs. DEN W 14 9 4 11 36.4 0 3 0.0 1 2 50.0 0 2 2 1 1 0 1 2 -9
+p213
+aVTony Parker SAS 03/10/2008 SAS vs. DEN W 39 16 6 14 42.9 0 0 - 4 4 100.0 0 2 2 4 0 0 2 1 10
+p214
+aVDamon Stoudamire SAS 03/10/2008 SAS vs. DEN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -1
+p215
+aVFabricio Oberto SAS 03/10/2008 SAS vs. DEN W 8 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 1 0 0 1 -8
+p216
+aVTim Duncan SAS 03/10/2008 SAS vs. DEN W 39 23 7 15 46.7 0 0 - 9 10 90.0 6 12 18 5 0 3 2 2 9
+p217
+aVJacque Vaughn SAS 03/10/2008 SAS vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p218
+aVMatt Bonner SAS 03/10/2008 SAS vs. DEN W 15 10 4 8 50.0 1 3 33.3 1 2 50.0 1 1 2 0 1 1 1 2 8
+p219
+aVTony Parker SAS 03/09/2008 SAS @ PHX L 38 21 7 15 46.7 0 0 - 7 8 87.5 0 2 2 5 0 0 2 3 -6
+p220
+aVDamon Stoudamire SAS 03/09/2008 SAS @ PHX L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -1
+p221
+aVManu Ginobili SAS 03/09/2008 SAS @ PHX L 32 22 7 19 36.8 4 6 66.7 4 5 80.0 0 5 5 2 1 0 5 4 7
+p222
+aVRobert Horry SAS 03/09/2008 SAS @ PHX L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 10
+p223
+aVFabricio Oberto SAS 03/09/2008 SAS @ PHX L 10 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 11
+p224
+aVJacque Vaughn SAS 03/09/2008 SAS @ PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p225
+aVKurt Thomas SAS 03/09/2008 SAS @ PHX L 27 11 4 9 44.4 0 0 - 3 4 75.0 2 5 7 0 0 0 0 3 -15
+p226
+aVMichael Finley SAS 03/09/2008 SAS @ PHX L 23 1 0 6 0.0 0 2 0.0 1 1 100.0 0 2 2 0 0 0 0 2 -16
+p227
+aVTim Duncan SAS 03/09/2008 SAS @ PHX L 35 17 6 19 31.6 0 0 - 5 8 62.5 6 4 10 1 2 2 1 1 -23
+p228
+aVBruce Bowen SAS 03/09/2008 SAS @ PHX L 38 3 1 5 20.0 1 3 33.3 0 0 - 3 2 5 1 0 1 0 3 -19
+p229
+aVIme Udoka SAS 03/09/2008 SAS @ PHX L 20 8 3 7 42.9 2 4 50.0 0 0 - 1 5 6 0 2 1 1 3 17
+p230
+aVRobert Horry SAS 03/07/2008 SAS @ DEN L 15 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 2 0 0 0 3 -15
+p231
+aVTony Parker SAS 03/07/2008 SAS @ DEN L 29 4 2 7 28.6 0 0 - 0 0 - 1 1 2 6 1 0 5 3 2
+p232
+aVBruce Bowen SAS 03/07/2008 SAS @ DEN L 25 11 5 7 71.4 1 3 33.3 0 0 - 0 2 2 2 1 1 0 3 -2
+p233
+aVFabricio Oberto SAS 03/07/2008 SAS @ DEN L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -9
+p234
+aVKurt Thomas SAS 03/07/2008 SAS @ DEN L 24 6 3 6 50.0 0 0 - 0 0 - 0 6 6 1 2 0 0 2 8
+p235
+aVMichael Finley SAS 03/07/2008 SAS @ DEN L 23 6 2 8 25.0 1 3 33.3 1 1 100.0 0 0 0 2 0 0 1 1 -12
+p236
+aVJacque Vaughn SAS 03/07/2008 SAS @ DEN L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -11
+p237
+aVDamon Stoudamire SAS 03/07/2008 SAS @ DEN L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 2 0 0 1 3 -4
+p238
+aVTim Duncan SAS 03/07/2008 SAS @ DEN L 33 23 8 11 72.7 0 0 - 7 9 77.8 2 7 9 2 0 4 3 2 -6
+p239
+aVManu Ginobili SAS 03/07/2008 SAS @ DEN L 28 24 9 17 52.9 2 5 40.0 4 4 100.0 0 4 4 5 0 0 1 3 -12
+p240
+aVIme Udoka SAS 03/07/2008 SAS @ DEN L 26 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 2 1 0 4 5 -6
+p241
+aVMatt Bonner SAS 03/07/2008 SAS @ DEN L 6 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 2
+p242
+aVIme Udoka SAS 03/06/2008 SAS vs. IND W 21 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 1 0 0 1 2 -9
+p243
+aVMatt Bonner SAS 03/06/2008 SAS vs. IND W 25 15 6 13 46.2 1 4 25.0 2 2 100.0 1 3 4 2 0 1 2 5 -1
+p244
+aVJacque Vaughn SAS 03/06/2008 SAS vs. IND W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 2 0 2 2 1
+p245
+aVManu Ginobili SAS 03/06/2008 SAS vs. IND W 28 28 10 13 76.9 0 1 0.0 8 9 88.9 1 4 5 3 0 0 5 1 16
+p246
+aVTim Duncan SAS 03/06/2008 SAS vs. IND W 24 6 3 11 27.3 0 0 - 0 1 0.0 2 10 12 1 1 1 3 2 14
+p247
+aVFabricio Oberto SAS 03/06/2008 SAS vs. IND W 15 6 3 3 100.0 0 0 - 0 0 - 2 1 3 2 0 0 1 1 3
+p248
+aVMichael Finley SAS 03/06/2008 SAS vs. IND W 25 12 3 11 27.3 2 4 50.0 4 4 100.0 0 5 5 1 0 1 0 0 4
+p249
+aVDamon Stoudamire SAS 03/06/2008 SAS vs. IND W 14 2 1 5 20.0 0 1 0.0 0 1 0.0 0 0 0 3 1 0 4 0 -8
+p250
+aVKurt Thomas SAS 03/06/2008 SAS vs. IND W 27 8 3 5 60.0 0 0 - 2 2 100.0 3 3 6 3 1 0 2 2 3
+p251
+aVTony Parker SAS 03/06/2008 SAS vs. IND W 27 19 6 8 75.0 1 1 100.0 6 10 60.0 1 1 2 5 3 0 2 1 13
+p252
+aVBruce Bowen SAS 03/06/2008 SAS vs. IND W 24 8 2 5 40.0 2 3 66.7 2 2 100.0 1 3 4 2 0 0 0 1 19
+p253
+aVManu Ginobili SAS 03/04/2008 SAS vs. NJN W 33 12 3 11 27.3 1 4 25.0 5 5 100.0 0 7 7 3 4 1 1 2 10
+p254
+aVBruce Bowen SAS 03/04/2008 SAS vs. NJN W 28 10 3 9 33.3 1 3 33.3 3 4 75.0 0 3 3 0 0 1 0 4 1
+p255
+aVKurt Thomas SAS 03/04/2008 SAS vs. NJN W 19 0 0 1 0.0 0 0 - 0 0 - 3 3 6 0 1 1 1 1 4
+p256
+aVTim Duncan SAS 03/04/2008 SAS vs. NJN W 34 29 11 21 52.4 0 0 - 7 9 77.8 3 9 12 3 0 2 2 2 12
+p257
+aVTony Parker SAS 03/04/2008 SAS vs. NJN W 26 11 3 6 50.0 0 0 - 5 6 83.3 1 2 3 1 0 0 4 2 15
+p258
+aVRobert Horry SAS 03/04/2008 SAS vs. NJN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p259
+aVFabricio Oberto SAS 03/04/2008 SAS vs. NJN W 17 0 0 3 0.0 0 0 - 0 0 - 3 1 4 1 0 0 1 1 -2
+p260
+aVDamon Stoudamire SAS 03/04/2008 SAS vs. NJN W 17 2 1 8 12.5 0 0 - 0 0 - 0 2 2 1 1 0 1 0 -11
+p261
+aVIme Udoka SAS 03/04/2008 SAS vs. NJN W 31 5 2 6 33.3 1 2 50.0 0 0 - 4 7 11 3 2 1 1 2 6
+p262
+aVMichael Finley SAS 03/04/2008 SAS vs. NJN W 18 6 2 6 33.3 1 2 50.0 1 3 33.3 0 2 2 1 0 0 0 2 16
+p263
+aVJacque Vaughn SAS 03/04/2008 SAS vs. NJN W 13 6 1 4 25.0 0 0 - 4 4 100.0 0 1 1 2 0 0 0 1 9
+p264
+aVMatt Bonner SAS 03/04/2008 SAS vs. NJN W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p265
+aVKurt Thomas SAS 03/02/2008 SAS @ NJN W 17 6 3 8 37.5 0 0 - 0 0 - 3 6 9 0 2 1 1 3 7
+p266
+aVTony Parker SAS 03/02/2008 SAS @ NJN W 33 25 10 18 55.6 0 0 - 5 6 83.3 1 7 8 7 1 0 2 2 15
+p267
+aVFabricio Oberto SAS 03/02/2008 SAS @ NJN W 19 4 1 3 33.3 0 0 - 2 2 100.0 4 3 7 0 0 0 0 3 -9
+p268
+aVTim Duncan SAS 03/02/2008 SAS @ NJN W 35 13 4 14 28.6 0 0 - 5 6 83.3 3 11 14 1 0 1 2 4 17
+p269
+aVIme Udoka SAS 03/02/2008 SAS @ NJN W 30 13 5 7 71.4 3 3 100.0 0 0 - 0 5 5 0 1 1 0 2 7
+p270
+aVJacque Vaughn SAS 03/02/2008 SAS @ NJN W 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 5
+p271
+aVManu Ginobili SAS 03/02/2008 SAS @ NJN W 29 17 6 13 46.2 2 4 50.0 3 4 75.0 0 4 4 3 0 0 2 3 5
+p272
+aVBruce Bowen SAS 03/02/2008 SAS @ NJN W 28 7 3 5 60.0 1 1 100.0 0 0 - 1 0 1 0 1 0 0 4 0
+p273
+aVDamon Stoudamire SAS 03/02/2008 SAS @ NJN W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -9
+p274
+aVMichael Finley SAS 03/02/2008 SAS @ NJN W 31 4 2 10 20.0 0 5 0.0 0 0 - 0 3 3 2 0 0 3 0 12
+p275
+aVTony Parker SAS 03/01/2008 SAS @ MIL W 35 26 11 16 68.8 0 0 - 4 10 40.0 0 2 2 5 1 0 4 1 8
+p276
+aVKurt Thomas SAS 03/01/2008 SAS @ MIL W 9 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -10
+p277
+aVBruce Bowen SAS 03/01/2008 SAS @ MIL W 31 6 2 6 33.3 2 4 50.0 0 0 - 2 4 6 0 1 1 0 4 5
+p278
+aVJacque Vaughn SAS 03/01/2008 SAS @ MIL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p279
+aVManu Ginobili SAS 03/01/2008 SAS @ MIL W 33 30 10 17 58.8 1 5 20.0 9 11 81.8 0 4 4 4 3 0 3 3 5
+p280
+aVTim Duncan SAS 03/01/2008 SAS @ MIL W 33 9 4 11 36.4 0 0 - 1 2 50.0 1 6 7 4 0 0 1 5 -2
+p281
+aVRobert Horry SAS 03/01/2008 SAS @ MIL W 14 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 1 -7
+p282
+aVDamon Stoudamire SAS 03/01/2008 SAS @ MIL W 17 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 2 -3
+p283
+aVMichael Finley SAS 03/01/2008 SAS @ MIL W 28 11 4 9 44.4 1 5 20.0 2 2 100.0 0 3 3 0 0 0 2 3 7
+p284
+aVFabricio Oberto SAS 03/01/2008 SAS @ MIL W 21 2 0 1 0.0 0 0 - 2 2 100.0 3 5 8 1 0 0 1 4 10
+p285
+aVIme Udoka SAS 03/01/2008 SAS @ MIL W 19 8 2 5 40.0 2 3 66.7 2 2 100.0 0 5 5 1 1 1 0 3 -1
+p286
+aVTony Parker SAS 02/28/2008 SAS vs. DAL W 33 10 5 13 38.5 0 0 - 0 2 0.0 0 5 5 4 2 0 1 1 1
+p287
+aVTim Duncan SAS 02/28/2008 SAS vs. DAL W 40 31 12 20 60.0 0 0 - 7 10 70.0 4 11 15 3 1 1 1 3 8
+p288
+aVRobert Horry SAS 02/28/2008 SAS vs. DAL W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -14
+p289
+aVFabricio Oberto SAS 02/28/2008 SAS vs. DAL W 14 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 2 0 1 3 0
+p290
+aVDamon Stoudamire SAS 02/28/2008 SAS vs. DAL W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 5
+p291
+aVIme Udoka SAS 02/28/2008 SAS vs. DAL W 19 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 0 0 1 0 4 9
+p292
+aVJacque Vaughn SAS 02/28/2008 SAS vs. DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p293
+aVKurt Thomas SAS 02/28/2008 SAS vs. DAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p294
+aVBruce Bowen SAS 02/28/2008 SAS vs. DAL W 37 14 5 8 62.5 2 4 50.0 2 2 100.0 1 3 4 2 0 2 0 3 11
+p295
+aVMichael Finley SAS 02/28/2008 SAS vs. DAL W 30 16 5 9 55.6 3 5 60.0 3 4 75.0 0 1 1 1 0 0 0 2 12
+p296
+aVManu Ginobili SAS 02/28/2008 SAS vs. DAL W 38 17 6 20 30.0 1 7 14.3 4 4 100.0 2 3 5 5 0 0 2 2 -11
+p297
+aVDamon Stoudamire SAS 02/25/2008 SAS vs. ATL W 14 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 1 0 1 2 -6
+p298
+aVIme Udoka SAS 02/25/2008 SAS vs. ATL W 18 10 4 4 100.0 1 1 100.0 1 2 50.0 1 0 1 3 1 0 1 1 -1
+p299
+aVJacque Vaughn SAS 02/25/2008 SAS vs. ATL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 3
+p300
+aVFabricio Oberto SAS 02/25/2008 SAS vs. ATL W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p301
+aVMichael Finley SAS 02/25/2008 SAS vs. ATL W 26 9 4 11 36.4 1 6 16.7 0 0 - 2 1 3 1 1 0 0 0 -1
+p302
+aVTony Parker SAS 02/25/2008 SAS vs. ATL W 28 15 7 16 43.8 0 0 - 1 1 100.0 1 3 4 9 0 2 3 1 18
+p303
+aVMatt Bonner SAS 02/25/2008 SAS vs. ATL W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p304
+aVBruce Bowen SAS 02/25/2008 SAS vs. ATL W 34 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 0 2 0 1 2 12
+p305
+aVTim Duncan SAS 02/25/2008 SAS vs. ATL W 35 23 5 9 55.6 0 0 - 13 16 81.3 1 9 10 1 2 3 6 5 4
+p306
+aVKurt Thomas SAS 02/25/2008 SAS vs. ATL W 13 4 2 5 40.0 0 0 - 0 0 - 3 6 9 0 1 2 0 3 11
+p307
+aVRobert Horry SAS 02/25/2008 SAS vs. ATL W 21 3 1 4 25.0 1 1 100.0 0 2 0.0 2 3 5 1 0 1 0 0 19
+p308
+aVManu Ginobili SAS 02/25/2008 SAS vs. ATL W 36 13 4 13 30.8 3 6 50.0 2 2 100.0 1 4 5 3 3 0 3 3 20
+p309
+aVTony Parker SAS 02/23/2008 SAS vs. NOH W 30 10 4 13 30.8 0 0 - 2 2 100.0 1 2 3 4 0 0 1 3 -1
+p310
+aVMichael Finley SAS 02/23/2008 SAS vs. NOH W 11 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 1
+p311
+aVManu Ginobili SAS 02/23/2008 SAS vs. NOH W 37 30 10 18 55.6 4 8 50.0 6 6 100.0 1 5 6 12 1 0 3 2 8
+p312
+aVTim Duncan SAS 02/23/2008 SAS vs. NOH W 38 25 10 16 62.5 0 0 - 5 5 100.0 3 8 11 6 1 4 1 2 7
+p313
+aVFabricio Oberto SAS 02/23/2008 SAS vs. NOH W 32 8 3 3 100.0 0 0 - 2 2 100.0 1 8 9 1 0 0 1 2 -5
+p314
+aVDamon Stoudamire SAS 02/23/2008 SAS vs. NOH W 16 7 3 8 37.5 1 3 33.3 0 0 - 1 3 4 1 1 0 0 0 12
+p315
+aVRobert Horry SAS 02/23/2008 SAS vs. NOH W 22 7 3 8 37.5 1 6 16.7 0 0 - 1 2 3 0 0 0 0 2 15
+p316
+aVMatt Bonner SAS 02/23/2008 SAS vs. NOH W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p317
+aVJacque Vaughn SAS 02/23/2008 SAS vs. NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p318
+aVBruce Bowen SAS 02/23/2008 SAS vs. NOH W 31 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 1 0 1 2 3 8
+p319
+aVIme Udoka SAS 02/23/2008 SAS vs. NOH W 17 4 1 3 33.3 0 1 0.0 2 2 100.0 0 3 3 1 0 0 0 3 1
+p320
+aVTim Duncan SAS 02/21/2008 SAS @ MIN W 38 24 8 16 50.0 0 0 - 8 8 100.0 2 12 14 7 3 4 4 3 4
+p321
+aVManu Ginobili SAS 02/21/2008 SAS @ MIN W 38 44 13 18 72.2 7 9 77.8 11 12 91.7 2 1 3 4 1 0 2 2 0
+p322
+aVTony Parker SAS 02/21/2008 SAS @ MIN W 18 8 3 7 42.9 0 1 0.0 2 2 100.0 1 1 2 1 0 0 1 1 -9
+p323
+aVMatt Bonner SAS 02/21/2008 SAS @ MIN W 6 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 1 0 2 0
+p324
+aVBruce Bowen SAS 02/21/2008 SAS @ MIN W 23 0 0 5 0.0 0 3 0.0 0 2 0.0 0 3 3 1 0 0 0 1 -3
+p325
+aVFabricio Oberto SAS 02/21/2008 SAS @ MIN W 18 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 1 0 0 2 -7
+p326
+aVRobert Horry SAS 02/21/2008 SAS @ MIN W 16 0 0 3 0.0 0 3 0.0 0 0 - 2 4 6 1 0 0 1 4 2
+p327
+aVIme Udoka SAS 02/21/2008 SAS @ MIN W 22 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 0 2 0 0 2 2
+p328
+aVDamon Stoudamire SAS 02/21/2008 SAS @ MIN W 23 4 2 4 50.0 0 2 0.0 0 0 - 1 3 4 4 1 0 2 0 13
+p329
+aVMichael Finley SAS 02/21/2008 SAS @ MIN W 31 13 6 11 54.5 1 3 33.3 0 0 - 0 2 2 1 0 1 0 1 6
+p330
+aVJacque Vaughn SAS 02/21/2008 SAS @ MIN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p331
+aVBruce Bowen SAS 02/19/2008 SAS vs. CHA W 23 6 2 9 22.2 2 6 33.3 0 0 - 0 3 3 1 2 0 3 4 7
+p332
+aVFrancisco Elson SAS 02/19/2008 SAS vs. CHA W 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p333
+aVJacque Vaughn SAS 02/19/2008 SAS vs. CHA W 25 10 4 5 80.0 0 0 - 2 4 50.0 0 2 2 3 2 1 2 2 6
+p334
+aVIme Udoka SAS 02/19/2008 SAS vs. CHA W 32 12 5 12 41.7 2 6 33.3 0 0 - 1 9 10 5 0 0 2 2 24
+p335
+aVDamon Stoudamire SAS 02/19/2008 SAS vs. CHA W 23 8 3 6 50.0 2 3 66.7 0 0 - 1 2 3 4 0 0 2 2 14
+p336
+aVTim Duncan SAS 02/19/2008 SAS vs. CHA W 32 7 2 12 16.7 0 0 - 3 4 75.0 5 10 15 5 1 5 3 2 17
+p337
+aVRobert Horry SAS 02/19/2008 SAS vs. CHA W 19 2 1 2 50.0 0 1 0.0 0 0 - 1 5 6 1 1 0 0 0 1
+p338
+aVFabricio Oberto SAS 02/19/2008 SAS vs. CHA W 22 4 2 2 100.0 0 0 - 0 0 - 1 7 8 1 0 0 1 4 3
+p339
+aVMatt Bonner SAS 02/19/2008 SAS vs. CHA W 4 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 1 -2
+p340
+aVManu Ginobili SAS 02/19/2008 SAS vs. CHA W 32 18 4 8 50.0 1 4 25.0 9 11 81.8 0 4 4 3 0 1 6 4 12
+p341
+aVMichael Finley SAS 02/19/2008 SAS vs. CHA W 24 14 6 10 60.0 2 3 66.7 0 0 - 0 2 2 0 0 1 0 0 20
+p342
+aVTim Duncan SAS 02/13/2008 SAS @ CLE W 39 23 8 21 38.1 0 0 - 7 9 77.8 3 10 13 2 1 2 1 3 21
+p343
+aVDamon Stoudamire SAS 02/13/2008 SAS @ CLE W 19 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 3 0 0 1 0 -3
+p344
+aVManu Ginobili SAS 02/13/2008 SAS @ CLE W 41 46 15 20 75.0 8 11 72.7 8 9 88.9 0 5 5 8 3 1 1 2 12
+p345
+aVJacque Vaughn SAS 02/13/2008 SAS @ CLE W 18 2 1 8 12.5 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -9
+p346
+aVBruce Bowen SAS 02/13/2008 SAS @ CLE W 37 10 4 4 100.0 2 2 100.0 0 0 - 1 0 1 3 0 0 0 2 9
+p347
+aVMichael Finley SAS 02/13/2008 SAS @ CLE W 25 8 2 8 25.0 1 3 33.3 3 4 75.0 0 0 0 5 0 0 0 1 11
+p348
+aVIme Udoka SAS 02/13/2008 SAS @ CLE W 24 12 4 4 100.0 1 1 100.0 3 3 100.0 0 3 3 0 0 0 2 3 17
+p349
+aVRobert Horry SAS 02/13/2008 SAS @ CLE W 16 7 2 4 50.0 0 1 0.0 3 3 100.0 2 1 3 0 0 0 0 2 2
+p350
+aVFabricio Oberto SAS 02/13/2008 SAS @ CLE W 22 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 0 0 0 0 1 -25
+p351
+aVDamon Stoudamire SAS 02/11/2008 SAS @ TOR W 15 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 0 0 0 1 2 -14
+p352
+aVIme Udoka SAS 02/11/2008 SAS @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p353
+aVRobert Horry SAS 02/11/2008 SAS @ TOR W 17 1 0 0 - 0 0 - 1 2 50.0 0 1 1 4 0 0 0 3 -6
+p354
+aVManu Ginobili SAS 02/11/2008 SAS @ TOR W 39 34 13 22 59.1 6 12 50.0 2 2 100.0 2 13 15 6 2 0 2 2 11
+p355
+aVMichael Finley SAS 02/11/2008 SAS @ TOR W 28 12 4 9 44.4 1 5 20.0 3 3 100.0 0 1 1 1 0 0 3 1 -9
+p356
+aVFrancisco Elson SAS 02/11/2008 SAS @ TOR W 12 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 3
+p357
+aVJacque Vaughn SAS 02/11/2008 SAS @ TOR W 33 7 3 8 37.5 1 2 50.0 0 0 - 1 2 3 5 0 0 1 1 19
+p358
+aVTim Duncan SAS 02/11/2008 SAS @ TOR W 36 22 11 19 57.9 0 1 0.0 0 1 0.0 4 9 13 2 1 2 2 1 3
+p359
+aVFabricio Oberto SAS 02/11/2008 SAS @ TOR W 30 6 3 7 42.9 0 0 - 0 2 0.0 3 4 7 4 1 0 1 3 10
+p360
+aVBruce Bowen SAS 02/11/2008 SAS @ TOR W 28 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 8
+p361
+aVMatt Bonner SAS 02/11/2008 SAS @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p362
+aVFabricio Oberto SAS 02/10/2008 SAS @ BOS L 20 4 2 4 50.0 0 0 - 0 0 - 0 4 4 3 0 0 2 2 -13
+p363
+aVJacque Vaughn SAS 02/10/2008 SAS @ BOS L 25 8 2 6 33.3 0 0 - 4 6 66.7 1 0 1 2 1 0 1 4 -4
+p364
+aVIme Udoka SAS 02/10/2008 SAS @ BOS L 24 5 2 5 40.0 1 3 33.3 0 0 - 0 6 6 0 0 0 1 6 -5
+p365
+aVMichael Finley SAS 02/10/2008 SAS @ BOS L 32 19 8 13 61.5 3 6 50.0 0 0 - 0 2 2 0 1 0 1 3 -2
+p366
+aVRobert Horry SAS 02/10/2008 SAS @ BOS L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 1 7
+p367
+aVManu Ginobili SAS 02/10/2008 SAS @ BOS L 38 21 7 15 46.7 5 11 45.5 2 2 100.0 0 4 4 4 2 1 6 5 -11
+p368
+aVTim Duncan SAS 02/10/2008 SAS @ BOS L 40 22 10 20 50.0 0 0 - 2 4 50.0 6 8 14 6 1 2 3 3 1
+p369
+aVBruce Bowen SAS 02/10/2008 SAS @ BOS L 31 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 0 0 0 0 3 -8
+p370
+aVDamon Stoudamire SAS 02/10/2008 SAS @ BOS L 23 8 3 11 27.3 1 6 16.7 1 1 100.0 0 2 2 3 0 0 1 1 -5
+p371
+aVTim Duncan SAS 02/08/2008 SAS @ NYK W 44 21 8 17 47.1 0 0 - 5 5 100.0 4 10 14 1 2 3 2 3 19
+p372
+aVDamon Stoudamire SAS 02/08/2008 SAS @ NYK W 19 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 3 0 0 2 0 -5
+p373
+aVBruce Bowen SAS 02/08/2008 SAS @ NYK W 37 7 3 8 37.5 1 2 50.0 0 0 - 1 3 4 0 0 1 1 2 -1
+p374
+aVManu Ginobili SAS 02/08/2008 SAS @ NYK W 42 20 6 16 37.5 1 6 16.7 7 10 70.0 1 6 7 9 5 0 6 4 14
+p375
+aVFrancisco Elson SAS 02/08/2008 SAS @ NYK W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -12
+p376
+aVJacque Vaughn SAS 02/08/2008 SAS @ NYK W 25 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 4 0 0 0 2 1
+p377
+aVMichael Finley SAS 02/08/2008 SAS @ NYK W 27 17 6 10 60.0 5 6 83.3 0 0 - 0 2 2 1 0 0 0 1 13
+p378
+aVFabricio Oberto SAS 02/08/2008 SAS @ NYK W 34 8 4 5 80.0 0 0 - 0 0 - 4 4 8 1 0 0 2 5 11
+p379
+aVRobert Horry SAS 02/08/2008 SAS @ NYK W 18 13 5 6 83.3 3 4 75.0 0 0 - 0 2 2 2 2 0 1 1 -5
+p380
+aVIme Udoka SAS 02/08/2008 SAS @ NYK W 15 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 1 1 0 1 -5
+p381
+aVTim Duncan SAS 02/06/2008 SAS @ WAS W 37 23 9 16 56.3 0 0 - 5 9 55.6 2 7 9 4 1 0 3 3 -1
+p382
+aVIme Udoka SAS 02/06/2008 SAS @ WAS W 16 1 0 5 0.0 0 4 0.0 1 2 50.0 1 2 3 1 0 0 3 1 -8
+p383
+aVRobert Horry SAS 02/06/2008 SAS @ WAS W 19 9 3 5 60.0 1 3 33.3 2 2 100.0 1 5 6 2 0 1 2 4 12
+p384
+aVJacque Vaughn SAS 02/06/2008 SAS @ WAS W 26 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 2 0 0 0 1 11
+p385
+aVManu Ginobili SAS 02/06/2008 SAS @ WAS W 34 9 3 8 37.5 0 2 0.0 3 3 100.0 2 4 6 10 0 0 1 1 12
+p386
+aVFabricio Oberto SAS 02/06/2008 SAS @ WAS W 30 10 5 8 62.5 0 0 - 0 2 0.0 5 6 11 2 1 1 0 1 8
+p387
+aVMichael Finley SAS 02/06/2008 SAS @ WAS W 23 5 2 8 25.0 1 5 20.0 0 0 - 0 1 1 1 1 0 0 2 9
+p388
+aVFrancisco Elson SAS 02/06/2008 SAS @ WAS W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 2 0 -3
+p389
+aVBruce Bowen SAS 02/06/2008 SAS @ WAS W 28 9 3 7 42.9 1 3 33.3 2 3 66.7 1 1 2 1 1 0 0 4 3
+p390
+aVDamon Stoudamire SAS 02/06/2008 SAS @ WAS W 22 9 3 7 42.9 3 5 60.0 0 0 - 0 4 4 3 0 0 0 3 -3
+p391
+aVManu Ginobili SAS 02/05/2008 SAS @ IND W 27 15 6 13 46.2 3 6 50.0 0 1 0.0 1 2 3 7 0 0 1 3 14
+p392
+aVRobert Horry SAS 02/05/2008 SAS @ IND W 16 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 1 0 1 0 2 0
+p393
+aVIme Udoka SAS 02/05/2008 SAS @ IND W 24 5 2 7 28.6 1 5 20.0 0 0 - 0 6 6 5 2 2 1 3 16
+p394
+aVBruce Bowen SAS 02/05/2008 SAS @ IND W 26 14 5 8 62.5 2 3 66.7 2 2 100.0 0 2 2 3 0 0 1 0 20
+p395
+aVMichael Finley SAS 02/05/2008 SAS @ IND W 33 11 4 11 36.4 2 7 28.6 1 1 100.0 1 3 4 2 2 0 5 1 14
+p396
+aVTim Duncan SAS 02/05/2008 SAS @ IND W 32 19 7 12 58.3 0 0 - 5 8 62.5 4 11 15 6 0 1 1 2 11
+p397
+aVFabricio Oberto SAS 02/05/2008 SAS @ IND W 24 10 5 9 55.6 0 0 - 0 0 - 1 7 8 1 0 0 1 2 27
+p398
+aVDamon Stoudamire SAS 02/05/2008 SAS @ IND W 22 11 4 7 57.1 2 3 66.7 1 1 100.0 0 1 1 0 1 0 0 3 19
+p399
+aVFrancisco Elson SAS 02/05/2008 SAS @ IND W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 2 1 0 3
+p400
+aVJacque Vaughn SAS 02/05/2008 SAS @ IND W 26 16 7 8 87.5 0 0 - 2 3 66.7 1 0 1 5 1 0 2 1 8
+p401
+aVMatt Bonner SAS 02/05/2008 SAS @ IND W 5 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 3
+p402
+aVIme Udoka SAS 01/31/2008 SAS @ PHX W 30 10 4 9 44.4 1 1 100.0 1 4 25.0 1 8 9 0 2 0 3 1 10
+p403
+aVFrancisco Elson SAS 01/31/2008 SAS @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p404
+aVMichael Finley SAS 01/31/2008 SAS @ PHX W 37 13 5 11 45.5 3 7 42.9 0 0 - 0 2 2 2 0 0 2 3 11
+p405
+aVBruce Bowen SAS 01/31/2008 SAS @ PHX W 34 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 0 1 0 0 5 -1
+p406
+aVFabricio Oberto SAS 01/31/2008 SAS @ PHX W 19 2 1 3 33.3 0 0 - 0 0 - 1 6 7 0 1 0 0 3 -10
+p407
+aVManu Ginobili SAS 01/31/2008 SAS @ PHX W 41 19 3 14 21.4 1 5 20.0 12 12 100.0 0 7 7 2 3 0 6 2 6
+p408
+aVMatt Bonner SAS 01/31/2008 SAS @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -2
+p409
+aVTim Duncan SAS 01/31/2008 SAS @ PHX W 43 16 7 16 43.8 0 0 - 2 2 100.0 3 14 17 7 0 2 5 5 5
+p410
+aVJacque Vaughn SAS 01/31/2008 SAS @ PHX W 31 17 6 15 40.0 0 0 - 5 6 83.3 1 0 1 2 3 0 1 3 -3
+p411
+aVManu Ginobili SAS 01/29/2008 SAS @ SEA L 40 29 10 18 55.6 4 7 57.1 5 8 62.5 0 4 4 7 0 0 1 2 6
+p412
+aVIme Udoka SAS 01/29/2008 SAS @ SEA L 18 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 1 -8
+p413
+aVTim Duncan SAS 01/29/2008 SAS @ SEA L 38 27 10 21 47.6 0 0 - 7 7 100.0 3 9 12 2 1 1 2 3 7
+p414
+aVFabricio Oberto SAS 01/29/2008 SAS @ SEA L 33 12 6 9 66.7 0 1 0.0 0 0 - 1 6 7 1 1 0 0 3 0
+p415
+aVBruce Bowen SAS 01/29/2008 SAS @ SEA L 28 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 0 0 1 3 15
+p416
+aVMichael Finley SAS 01/29/2008 SAS @ SEA L 22 6 2 7 28.6 2 5 40.0 0 0 - 2 2 4 1 0 0 1 0 -15
+p417
+aVMatt Bonner SAS 01/29/2008 SAS @ SEA L 17 5 2 6 33.3 0 1 0.0 1 2 50.0 0 2 2 0 0 1 0 2 -11
+p418
+aVJacque Vaughn SAS 01/29/2008 SAS @ SEA L 37 4 2 9 22.2 0 0 - 0 0 - 0 4 4 4 0 0 2 3 -7
+p419
+aVRobert Horry SAS 01/29/2008 SAS @ SEA L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p420
+aVMatt Bonner SAS 01/28/2008 SAS @ UTA L 9 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 0 5
+p421
+aVFrancisco Elson SAS 01/28/2008 SAS @ UTA L 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 10
+p422
+aVIme Udoka SAS 01/28/2008 SAS @ UTA L 22 10 4 8 50.0 1 3 33.3 1 1 100.0 0 5 5 0 2 0 0 2 14
+p423
+aVFabricio Oberto SAS 01/28/2008 SAS @ UTA L 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -14
+p424
+aVTony Parker SAS 01/28/2008 SAS @ UTA L 33 5 1 7 14.3 0 0 - 3 4 75.0 1 2 3 3 0 0 4 4 -2
+p425
+aVMichael Finley SAS 01/28/2008 SAS @ UTA L 23 4 2 8 25.0 0 2 0.0 0 0 - 0 4 4 2 1 0 0 0 6
+p426
+aVManu Ginobili SAS 01/28/2008 SAS @ UTA L 30 29 9 16 56.3 2 5 40.0 9 9 100.0 2 2 4 3 0 0 4 4 -12
+p427
+aVRobert Horry SAS 01/28/2008 SAS @ UTA L 16 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 1 2 1 1 0 -2
+p428
+aVJacque Vaughn SAS 01/28/2008 SAS @ UTA L 15 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -4
+p429
+aVBruce Bowen SAS 01/28/2008 SAS @ UTA L 24 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 1 1 1 1 -18
+p430
+aVTim Duncan SAS 01/28/2008 SAS @ UTA L 37 26 9 15 60.0 0 0 - 8 10 80.0 4 7 11 2 1 1 7 3 -13
+p431
+aVFrancisco Elson SAS 01/26/2008 SAS vs. NOH L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p432
+aVMatt Bonner SAS 01/26/2008 SAS vs. NOH L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p433
+aVTim Duncan SAS 01/26/2008 SAS vs. NOH L 34 17 6 12 50.0 0 0 - 5 7 71.4 1 7 8 1 1 1 1 1 -21
+p434
+aVFabricio Oberto SAS 01/26/2008 SAS vs. NOH L 28 10 4 4 100.0 0 0 - 2 2 100.0 1 3 4 0 0 0 2 2 -7
+p435
+aVJeremy Richardson SAS 01/26/2008 SAS vs. NOH L 7 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p436
+aVJacque Vaughn SAS 01/26/2008 SAS vs. NOH L 17 0 0 3 0.0 0 0 - 0 0 - 0 3 3 3 0 0 2 3 -8
+p437
+aVMichael Finley SAS 01/26/2008 SAS vs. NOH L 21 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 1 0 0 0 0 -22
+p438
+aVRobert Horry SAS 01/26/2008 SAS vs. NOH L 17 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 1 0 2 0 0 -10
+p439
+aVIme Udoka SAS 01/26/2008 SAS vs. NOH L 24 13 6 10 60.0 1 4 25.0 0 0 - 3 4 7 1 1 0 2 3 -16
+p440
+aVManu Ginobili SAS 01/26/2008 SAS vs. NOH L 27 11 4 12 33.3 1 4 25.0 2 2 100.0 1 2 3 2 0 1 3 1 -6
+p441
+aVBruce Bowen SAS 01/26/2008 SAS vs. NOH L 24 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 1 1 0 0 0 -8
+p442
+aVTony Parker SAS 01/26/2008 SAS vs. NOH L 31 17 8 16 50.0 0 1 0.0 1 2 50.0 0 2 2 6 1 0 1 1 -16
+p443
+aVJacque Vaughn SAS 01/24/2008 SAS @ MIA W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 2 -6
+p444
+aVMichael Finley SAS 01/24/2008 SAS @ MIA W 24 10 3 11 27.3 2 5 40.0 2 2 100.0 1 5 6 2 0 0 1 1 7
+p445
+aVTim Duncan SAS 01/24/2008 SAS @ MIA W 39 30 14 19 73.7 0 0 - 2 2 100.0 2 9 11 5 0 1 3 4 4
+p446
+aVFabricio Oberto SAS 01/24/2008 SAS @ MIA W 20 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -2
+p447
+aVTony Parker SAS 01/24/2008 SAS @ MIA W 36 12 5 9 55.6 0 1 0.0 2 4 50.0 0 1 1 1 1 0 2 1 7
+p448
+aVBrent Barry SAS 01/24/2008 SAS @ MIA W 8 3 1 6 16.7 1 6 16.7 0 0 - 0 0 0 0 0 1 1 1 -10
+p449
+aVBruce Bowen SAS 01/24/2008 SAS @ MIA W 33 7 2 6 33.3 1 3 33.3 2 2 100.0 0 0 0 1 1 0 1 3 4
+p450
+aVIme Udoka SAS 01/24/2008 SAS @ MIA W 14 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 3 0 0 4 -10
+p451
+aVRobert Horry SAS 01/24/2008 SAS @ MIA W 17 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 1 0 1 0 0 7
+p452
+aVManu Ginobili SAS 01/24/2008 SAS @ MIA W 37 18 5 12 41.7 1 7 14.3 7 8 87.5 2 9 11 8 2 0 4 2 4
+p453
+aVBrent Barry SAS 01/23/2008 SAS vs. LAL W 28 11 4 6 66.7 3 5 60.0 0 0 - 0 1 1 2 1 0 0 2 -3
+p454
+aVTim Duncan SAS 01/23/2008 SAS vs. LAL W 40 28 12 21 57.1 0 0 - 4 5 80.0 6 11 17 4 1 3 1 3 18
+p455
+aVJacque Vaughn SAS 01/23/2008 SAS vs. LAL W 11 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 0 0 4 1
+p456
+aVBruce Bowen SAS 01/23/2008 SAS vs. LAL W 23 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 2 1 0 2 11
+p457
+aVManu Ginobili SAS 01/23/2008 SAS vs. LAL W 33 12 3 16 18.8 2 7 28.6 4 6 66.7 1 5 6 4 8 0 3 2 7
+p458
+aVMichael Finley SAS 01/23/2008 SAS vs. LAL W 31 11 4 10 40.0 3 7 42.9 0 0 - 0 2 2 2 1 0 1 1 10
+p459
+aVFabricio Oberto SAS 01/23/2008 SAS vs. LAL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -6
+p460
+aVIme Udoka SAS 01/23/2008 SAS vs. LAL W 24 18 7 10 70.0 3 4 75.0 1 1 100.0 2 3 5 2 1 1 0 2 9
+p461
+aVTony Parker SAS 01/23/2008 SAS vs. LAL W 37 16 7 15 46.7 0 0 - 2 4 50.0 0 1 1 4 2 0 0 1 11
+p462
+aVRobert Horry SAS 01/23/2008 SAS vs. LAL W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 2
+p463
+aVTony Parker SAS 01/21/2008 SAS @ CHA W 32 16 7 14 50.0 0 0 - 2 2 100.0 2 2 4 3 2 0 3 1 6
+p464
+aVTim Duncan SAS 01/21/2008 SAS @ CHA W 31 19 8 17 47.1 0 0 - 3 4 75.0 2 8 10 3 0 5 4 2 7
+p465
+aVManu Ginobili SAS 01/21/2008 SAS @ CHA W 28 16 7 15 46.7 1 3 33.3 1 3 33.3 1 4 5 6 4 1 1 1 19
+p466
+aVFrancisco Elson SAS 01/21/2008 SAS @ CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p467
+aVMichael Finley SAS 01/21/2008 SAS @ CHA W 26 13 5 9 55.6 3 3 100.0 0 1 0.0 0 5 5 1 0 2 0 1 3
+p468
+aVIme Udoka SAS 01/21/2008 SAS @ CHA W 23 11 4 7 57.1 1 2 50.0 2 2 100.0 2 3 5 0 0 0 1 1 9
+p469
+aVFabricio Oberto SAS 01/21/2008 SAS @ CHA W 14 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 2 1 0 0 8
+p470
+aVBruce Bowen SAS 01/21/2008 SAS @ CHA W 26 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 3 1 1 1 1 -3
+p471
+aVJacque Vaughn SAS 01/21/2008 SAS @ CHA W 16 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 3
+p472
+aVBrent Barry SAS 01/21/2008 SAS @ CHA W 25 7 1 5 20.0 1 4 25.0 4 4 100.0 2 1 3 2 1 0 1 2 16
+p473
+aVMatt Bonner SAS 01/21/2008 SAS @ CHA W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -6
+p474
+aVJeremy Richardson SAS 01/21/2008 SAS @ CHA W 11 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 -11
+p475
+aVBrent Barry SAS 01/19/2008 SAS @ HOU L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p476
+aVIme Udoka SAS 01/19/2008 SAS @ HOU L 13 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 10
+p477
+aVTony Parker SAS 01/19/2008 SAS @ HOU L 36 16 7 15 46.7 0 0 - 2 4 50.0 0 4 4 4 0 0 1 0 0
+p478
+aVFabricio Oberto SAS 01/19/2008 SAS @ HOU L 31 2 1 3 33.3 0 0 - 0 0 - 0 5 5 2 0 1 1 5 7
+p479
+aVRobert Horry SAS 01/19/2008 SAS @ HOU L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 0 5
+p480
+aVManu Ginobili SAS 01/19/2008 SAS @ HOU L 33 21 6 13 46.2 4 7 57.1 5 6 83.3 0 5 5 4 0 0 2 3 -8
+p481
+aVMatt Bonner SAS 01/19/2008 SAS @ HOU L 10 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 1 0 1 1 1 3
+p482
+aVJacque Vaughn SAS 01/19/2008 SAS @ HOU L 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p483
+aVTim Duncan SAS 01/19/2008 SAS @ HOU L 39 24 10 21 47.6 0 0 - 4 9 44.4 5 12 17 1 0 2 5 4 -4
+p484
+aVMichael Finley SAS 01/19/2008 SAS @ HOU L 19 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 0 1 0 0 0 -9
+p485
+aVBruce Bowen SAS 01/19/2008 SAS @ HOU L 31 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 0 -6
+p486
+aVFrancisco Elson SAS 01/19/2008 SAS @ HOU L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -4
+p487
+aVJacque Vaughn SAS 01/17/2008 SAS vs. CLE L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 0
+p488
+aVIme Udoka SAS 01/17/2008 SAS vs. CLE L 13 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 0 0 0 2 2 -11
+p489
+aVMatt Bonner SAS 01/17/2008 SAS vs. CLE L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 0
+p490
+aVFrancisco Elson SAS 01/17/2008 SAS vs. CLE L 3 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p491
+aVTony Parker SAS 01/17/2008 SAS vs. CLE L 38 23 10 21 47.6 0 1 0.0 3 5 60.0 0 3 3 6 2 0 4 1 -2
+p492
+aVMichael Finley SAS 01/17/2008 SAS vs. CLE L 18 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 1 1 0 1 0 1
+p493
+aVRobert Horry SAS 01/17/2008 SAS vs. CLE L 9 0 0 2 0.0 0 1 0.0 0 0 - 3 1 4 0 1 0 0 1 1
+p494
+aVManu Ginobili SAS 01/17/2008 SAS vs. CLE L 35 31 10 15 66.7 4 6 66.7 7 8 87.5 1 3 4 4 2 0 4 3 1
+p495
+aVTim Duncan SAS 01/17/2008 SAS vs. CLE L 40 20 7 17 41.2 0 0 - 6 10 60.0 3 8 11 1 0 4 3 3 -2
+p496
+aVBrent Barry SAS 01/17/2008 SAS vs. CLE L 15 6 2 6 33.3 2 6 33.3 0 0 - 0 1 1 2 1 0 0 0 5
+p497
+aVBruce Bowen SAS 01/17/2008 SAS vs. CLE L 34 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 7
+p498
+aVFabricio Oberto SAS 01/17/2008 SAS vs. CLE L 18 0 0 0 - 0 0 - 0 0 - 0 3 3 1 2 1 1 3 -6
+p499
+aVRobert Horry SAS 01/14/2008 SAS vs. PHI W 9 1 0 2 0.0 0 2 0.0 1 2 50.0 2 1 3 0 2 0 0 0 2
+p500
+aVJeremy Richardson SAS 01/14/2008 SAS vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p501
+aVMatt Bonner SAS 01/14/2008 SAS vs. PHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -1
+p502
+aVBruce Bowen SAS 01/14/2008 SAS vs. PHI W 30 2 1 8 12.5 0 4 0.0 0 0 - 1 2 3 1 0 0 0 3 1
+p503
+aVFrancisco Elson SAS 01/14/2008 SAS vs. PHI W 17 7 3 7 42.9 0 0 - 1 2 50.0 1 6 7 0 0 2 2 1 3
+p504
+aVIme Udoka SAS 01/14/2008 SAS vs. PHI W 19 5 1 5 20.0 1 4 25.0 2 2 100.0 1 2 3 1 1 0 1 1 15
+p505
+aVTony Parker SAS 01/14/2008 SAS vs. PHI W 36 14 5 13 38.5 0 2 0.0 4 5 80.0 0 2 2 7 0 0 3 1 6
+p506
+aVFabricio Oberto SAS 01/14/2008 SAS vs. PHI W 16 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 0 0 0 3 0
+p507
+aVJacque Vaughn SAS 01/14/2008 SAS vs. PHI W 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 1
+p508
+aVMichael Finley SAS 01/14/2008 SAS vs. PHI W 28 14 6 13 46.2 2 5 40.0 0 0 - 0 4 4 2 1 0 0 0 -3
+p509
+aVTim Duncan SAS 01/14/2008 SAS vs. PHI W 36 18 8 14 57.1 0 0 - 2 3 66.7 6 10 16 6 0 2 1 3 5
+p510
+aVManu Ginobili SAS 01/14/2008 SAS vs. PHI W 30 20 4 10 40.0 4 8 50.0 8 8 100.0 1 3 4 5 0 0 2 4 8
+p511
+aVJacque Vaughn SAS 01/12/2008 SAS vs. MIN W 24 0 0 2 0.0 0 0 - 0 0 - 0 2 2 8 3 0 0 1 0
+p512
+aVTony Parker SAS 01/12/2008 SAS vs. MIN W 29 21 7 14 50.0 0 1 0.0 7 9 77.8 0 0 0 8 1 0 6 1 21
+p513
+aVMatt Bonner SAS 01/12/2008 SAS vs. MIN W 17 9 3 5 60.0 2 3 66.7 1 1 100.0 1 5 6 0 0 1 5 1 2
+p514
+aVJeremy Richardson SAS 01/12/2008 SAS vs. MIN W 8 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 0 1 0 0 2 1
+p515
+aVTim Duncan SAS 01/12/2008 SAS vs. MIN W 31 15 7 12 58.3 0 0 - 1 6 16.7 2 7 9 0 1 3 1 2 16
+p516
+aVIme Udoka SAS 01/12/2008 SAS vs. MIN W 19 9 3 7 42.9 2 4 50.0 1 2 50.0 0 1 1 1 1 0 0 4 10
+p517
+aVFrancisco Elson SAS 01/12/2008 SAS vs. MIN W 19 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 0 1 0 0 3 -1
+p518
+aVFabricio Oberto SAS 01/12/2008 SAS vs. MIN W 21 6 3 3 100.0 0 0 - 0 1 0.0 3 4 7 1 2 3 0 1 15
+p519
+aVManu Ginobili SAS 01/12/2008 SAS vs. MIN W 27 22 6 10 60.0 3 5 60.0 7 10 70.0 3 2 5 3 5 0 4 1 11
+p520
+aVBruce Bowen SAS 01/12/2008 SAS vs. MIN W 20 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 1 0 0 0 0 11
+p521
+aVRobert Horry SAS 01/12/2008 SAS vs. MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p522
+aVMichael Finley SAS 01/12/2008 SAS vs. MIN W 20 11 4 8 50.0 3 5 60.0 0 0 - 1 0 1 1 0 0 1 0 1
+p523
+aVMatt Bonner SAS 01/10/2008 SAS vs. DET L 18 2 1 4 25.0 0 3 0.0 0 0 - 0 4 4 0 0 1 1 3 -1
+p524
+aVJeremy Richardson SAS 01/10/2008 SAS vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p525
+aVTony Parker SAS 01/10/2008 SAS vs. DET L 32 12 4 13 30.8 0 0 - 4 5 80.0 0 4 4 4 1 0 5 1 -8
+p526
+aVManu Ginobili SAS 01/10/2008 SAS vs. DET L 28 9 3 12 25.0 0 3 0.0 3 5 60.0 1 3 4 2 1 1 2 2 -20
+p527
+aVMichael Finley SAS 01/10/2008 SAS vs. DET L 34 7 3 9 33.3 1 3 33.3 0 0 - 0 3 3 1 2 0 0 0 0
+p528
+aVIme Udoka SAS 01/10/2008 SAS vs. DET L 7 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p529
+aVBruce Bowen SAS 01/10/2008 SAS vs. DET L 26 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 0 2 0 2 -5
+p530
+aVTim Duncan SAS 01/10/2008 SAS vs. DET L 41 24 8 16 50.0 0 0 - 8 9 88.9 5 10 15 5 1 1 1 2 -2
+p531
+aVFabricio Oberto SAS 01/10/2008 SAS vs. DET L 19 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 0 1 2 12
+p532
+aVFrancisco Elson SAS 01/10/2008 SAS vs. DET L 7 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -8
+p533
+aVRobert Horry SAS 01/10/2008 SAS vs. DET L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -20
+p534
+aVJacque Vaughn SAS 01/10/2008 SAS vs. DET L 19 10 3 3 100.0 1 1 100.0 3 4 75.0 0 0 0 3 0 0 2 4 -3
+p535
+aVManu Ginobili SAS 01/07/2008 SAS @ GSW L 41 20 7 15 46.7 3 6 50.0 3 4 75.0 1 5 6 4 0 1 5 5 -11
+p536
+aVMatt Bonner SAS 01/07/2008 SAS @ GSW L 9 2 1 5 20.0 0 2 0.0 0 0 - 2 1 3 0 1 0 0 0 -3
+p537
+aVRobert Horry SAS 01/07/2008 SAS @ GSW L 14 3 0 1 0.0 0 0 - 3 3 100.0 1 1 2 2 0 1 3 2 -2
+p538
+aVTim Duncan SAS 01/07/2008 SAS @ GSW L 41 32 9 19 47.4 0 0 - 14 16 87.5 4 9 13 3 0 0 1 5 -13
+p539
+aVIme Udoka SAS 01/07/2008 SAS @ GSW L 24 13 5 9 55.6 1 2 50.0 2 4 50.0 2 2 4 1 0 0 0 4 -6
+p540
+aVFabricio Oberto SAS 01/07/2008 SAS @ GSW L 12 0 0 0 - 0 0 - 0 0 - 3 3 6 1 2 0 1 1 4
+p541
+aVJacque Vaughn SAS 01/07/2008 SAS @ GSW L 11 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 1
+p542
+aVMichael Finley SAS 01/07/2008 SAS @ GSW L 41 14 5 11 45.5 3 6 50.0 1 1 100.0 0 3 3 1 0 0 0 1 -5
+p543
+aVTony Parker SAS 01/07/2008 SAS @ GSW L 42 31 12 20 60.0 1 2 50.0 6 6 100.0 1 0 1 8 0 0 3 0 -10
+p544
+aVBruce Bowen SAS 01/07/2008 SAS @ GSW L 30 6 2 8 25.0 2 7 28.6 0 0 - 0 3 3 1 1 0 0 4 0
+p545
+aVMatt Bonner SAS 01/06/2008 SAS @ LAC W 19 4 2 5 40.0 0 2 0.0 0 0 - 3 1 4 1 0 0 1 3 2
+p546
+aVMichael Finley SAS 01/06/2008 SAS @ LAC W 36 3 1 10 10.0 0 6 0.0 1 2 50.0 2 9 11 1 1 1 0 1 3
+p547
+aVFabricio Oberto SAS 01/06/2008 SAS @ LAC W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p548
+aVIme Udoka SAS 01/06/2008 SAS @ LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p549
+aVTim Duncan SAS 01/06/2008 SAS @ LAC W 35 17 8 16 50.0 0 0 - 1 4 25.0 4 13 17 3 2 0 4 3 7
+p550
+aVJacque Vaughn SAS 01/06/2008 SAS @ LAC W 12 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 3 0 0 0 0 -2
+p551
+aVBruce Bowen SAS 01/06/2008 SAS @ LAC W 38 6 1 8 12.5 0 2 0.0 4 6 66.7 1 3 4 2 0 0 2 3 4
+p552
+aVRobert Horry SAS 01/06/2008 SAS @ LAC W 21 4 1 3 33.3 1 1 100.0 1 2 50.0 2 0 2 1 2 1 0 2 -7
+p553
+aVManu Ginobili SAS 01/06/2008 SAS @ LAC W 29 23 5 12 41.7 1 5 20.0 12 13 92.3 1 4 5 2 1 1 2 3 16
+p554
+aVTony Parker SAS 01/06/2008 SAS @ LAC W 36 26 10 17 58.8 1 2 50.0 5 7 71.4 1 1 2 2 0 0 2 1 8
+p555
+aVJacque Vaughn SAS 01/04/2008 SAS vs. NYK W 14 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 6 0 0 0 2 1
+p556
+aVTim Duncan SAS 01/04/2008 SAS vs. NYK W 37 12 5 16 31.3 0 0 - 2 3 66.7 2 7 9 5 0 2 3 1 12
+p557
+aVTony Parker SAS 01/04/2008 SAS vs. NYK W 37 12 5 13 38.5 0 0 - 2 4 50.0 0 2 2 5 2 0 0 2 2
+p558
+aVIme Udoka SAS 01/04/2008 SAS vs. NYK W 15 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -4
+p559
+aVRobert Horry SAS 01/04/2008 SAS vs. NYK W 20 8 2 5 40.0 2 4 50.0 2 2 100.0 3 3 6 4 2 0 1 2 16
+p560
+aVMatt Bonner SAS 01/04/2008 SAS vs. NYK W 24 14 5 11 45.5 3 5 60.0 1 1 100.0 4 2 6 1 3 0 0 4 -11
+p561
+aVFabricio Oberto SAS 01/04/2008 SAS vs. NYK W 14 3 1 4 25.0 0 0 - 1 2 50.0 3 2 5 0 0 0 0 3 -9
+p562
+aVBruce Bowen SAS 01/04/2008 SAS vs. NYK W 41 15 5 10 50.0 2 5 40.0 3 4 75.0 0 1 1 2 2 1 1 1 8
+p563
+aVMichael Finley SAS 01/04/2008 SAS vs. NYK W 31 14 6 11 54.5 2 3 66.7 0 0 - 0 3 3 1 0 0 1 1 -4
+p564
+aVDerMarr Johnson SAS 01/04/2008 SAS vs. NYK W 5 8 3 6 50.0 2 5 40.0 0 0 - 0 0 0 0 0 0 0 2 9
+p565
+aVTony Parker SAS 01/03/2008 SAS @ DEN L 39 20 8 19 42.1 0 0 - 4 7 57.1 1 3 4 9 2 0 2 1 8
+p566
+aVBruce Bowen SAS 01/03/2008 SAS @ DEN L 40 4 1 2 50.0 1 1 100.0 1 2 50.0 0 1 1 1 0 1 1 3 14
+p567
+aVRobert Horry SAS 01/03/2008 SAS @ DEN L 16 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 3 0 0 1 0 -3
+p568
+aVTim Duncan SAS 01/03/2008 SAS @ DEN L 39 20 7 20 35.0 0 0 - 6 10 60.0 2 12 14 2 2 2 4 1 4
+p569
+aVIme Udoka SAS 01/03/2008 SAS @ DEN L 11 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 2 -11
+p570
+aVFabricio Oberto SAS 01/03/2008 SAS @ DEN L 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 4 -19
+p571
+aVDerMarr Johnson SAS 01/03/2008 SAS @ DEN L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p572
+aVFrancisco Elson SAS 01/03/2008 SAS @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p573
+aVJacque Vaughn SAS 01/03/2008 SAS @ DEN L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -5
+p574
+aVMatt Bonner SAS 01/03/2008 SAS @ DEN L 24 9 3 8 37.5 2 6 33.3 1 1 100.0 0 3 3 2 0 0 0 3 5
+p575
+aVMichael Finley SAS 01/03/2008 SAS @ DEN L 38 18 6 13 46.2 3 6 50.0 3 3 100.0 1 7 8 2 0 0 0 1 -6
+p576
+aVJacque Vaughn SAS 12/30/2007 SAS vs. MEM W 20 8 4 5 80.0 0 0 - 0 0 - 1 1 2 4 0 0 0 3 14
+p577
+aVFrancisco Elson SAS 12/30/2007 SAS vs. MEM W 4 6 3 3 100.0 0 0 - 0 1 0.0 0 3 3 0 0 0 0 1 3
+p578
+aVTony Parker SAS 12/30/2007 SAS vs. MEM W 34 24 6 12 50.0 0 1 0.0 12 12 100.0 1 3 4 9 1 0 3 1 8
+p579
+aVDerMarr Johnson SAS 12/30/2007 SAS vs. MEM W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p580
+aVMichael Finley SAS 12/30/2007 SAS vs. MEM W 32 22 8 12 66.7 5 7 71.4 1 2 50.0 0 7 7 1 1 0 0 3 18
+p581
+aVFabricio Oberto SAS 12/30/2007 SAS vs. MEM W 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 2 1 -9
+p582
+aVMatt Bonner SAS 12/30/2007 SAS vs. MEM W 23 18 5 8 62.5 3 5 60.0 5 5 100.0 2 1 3 1 2 0 1 2 15
+p583
+aVTim Duncan SAS 12/30/2007 SAS vs. MEM W 34 24 10 20 50.0 0 0 - 4 7 57.1 5 12 17 7 1 3 5 4 30
+p584
+aVKeith Langford SAS 12/30/2007 SAS vs. MEM W 6 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p585
+aVBruce Bowen SAS 12/30/2007 SAS vs. MEM W 34 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 3 21
+p586
+aVRobert Horry SAS 12/30/2007 SAS vs. MEM W 16 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 3 9
+p587
+aVIme Udoka SAS 12/30/2007 SAS vs. MEM W 23 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 1 2 0 0 3 4
+p588
+aVJacque Vaughn SAS 12/28/2007 SAS vs. TOR L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 1 -3
+p589
+aVFrancisco Elson SAS 12/28/2007 SAS vs. TOR L 7 0 0 3 0.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -2
+p590
+aVMichael Finley SAS 12/28/2007 SAS vs. TOR L 39 20 7 19 36.8 3 10 30.0 3 3 100.0 2 6 8 0 1 0 0 0 -6
+p591
+aVBruce Bowen SAS 12/28/2007 SAS vs. TOR L 38 7 2 5 40.0 1 2 50.0 2 3 66.7 1 4 5 0 0 0 0 0 -21
+p592
+aVTim Duncan SAS 12/28/2007 SAS vs. TOR L 40 16 6 12 50.0 0 0 - 4 7 57.1 4 8 12 3 0 2 5 3 -6
+p593
+aVMatt Bonner SAS 12/28/2007 SAS vs. TOR L 25 10 2 7 28.6 2 5 40.0 4 4 100.0 4 6 10 1 0 0 1 5 8
+p594
+aVKeith Langford SAS 12/28/2007 SAS vs. TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p595
+aVIme Udoka SAS 12/28/2007 SAS vs. TOR L 21 5 2 9 22.2 1 7 14.3 0 0 - 2 3 5 0 1 1 2 1 -5
+p596
+aVFabricio Oberto SAS 12/28/2007 SAS vs. TOR L 12 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -5
+p597
+aVRobert Horry SAS 12/28/2007 SAS vs. TOR L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 -6
+p598
+aVTony Parker SAS 12/28/2007 SAS vs. TOR L 37 15 4 12 33.3 0 0 - 7 11 63.6 0 2 2 4 0 0 6 1 -7
+p599
+aVRobert Horry SAS 12/26/2007 SAS vs. CHI W 5 1 0 0 - 0 0 - 1 4 25.0 1 0 1 0 0 1 0 0 0
+p600
+aVBrent Barry SAS 12/26/2007 SAS vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p601
+aVIme Udoka SAS 12/26/2007 SAS vs. CHI W 25 12 4 5 80.0 2 2 100.0 2 2 100.0 0 1 1 1 2 0 0 2 25
+p602
+aVTim Duncan SAS 12/26/2007 SAS vs. CHI W 27 8 2 9 22.2 0 0 - 4 6 66.7 4 7 11 6 1 2 5 3 -3
+p603
+aVTony Parker SAS 12/26/2007 SAS vs. CHI W 33 28 12 19 63.2 1 2 50.0 3 5 60.0 0 3 3 5 0 0 0 0 15
+p604
+aVBruce Bowen SAS 12/26/2007 SAS vs. CHI W 28 12 4 7 57.1 2 3 66.7 2 2 100.0 1 3 4 2 0 0 1 2 -1
+p605
+aVFrancisco Elson SAS 12/26/2007 SAS vs. CHI W 19 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 1 0 1 10
+p606
+aVFabricio Oberto SAS 12/26/2007 SAS vs. CHI W 22 4 1 4 25.0 0 0 - 2 4 50.0 2 1 3 1 1 0 1 1 5
+p607
+aVJacque Vaughn SAS 12/26/2007 SAS vs. CHI W 19 0 0 3 0.0 0 0 - 0 0 - 0 1 1 5 1 0 0 0 1
+p608
+aVMichael Finley SAS 12/26/2007 SAS vs. CHI W 36 15 7 15 46.7 1 6 16.7 0 0 - 0 4 4 2 0 0 1 1 8
+p609
+aVMarcus Williams SAS 12/26/2007 SAS vs. CHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p610
+aVMatt Bonner SAS 12/26/2007 SAS vs. CHI W 22 12 5 8 62.5 2 4 50.0 0 0 - 1 8 9 1 0 0 2 0 18
+p611
+aVJacque Vaughn SAS 12/22/2007 SAS vs. LAC W 14 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 3 2 0 2 1 2
+p612
+aVBrent Barry SAS 12/22/2007 SAS vs. LAC W 24 4 1 4 25.0 1 3 33.3 1 2 50.0 1 3 4 3 1 0 3 1 4
+p613
+aVIme Udoka SAS 12/22/2007 SAS vs. LAC W 29 17 7 11 63.6 1 3 33.3 2 2 100.0 1 7 8 0 0 0 2 0 2
+p614
+aVMatt Bonner SAS 12/22/2007 SAS vs. LAC W 10 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -7
+p615
+aVManu Ginobili SAS 12/22/2007 SAS vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p616
+aVFabricio Oberto SAS 12/22/2007 SAS vs. LAC W 25 2 1 4 25.0 0 0 - 0 2 0.0 3 6 9 2 0 0 0 1 2
+p617
+aVTim Duncan SAS 12/22/2007 SAS vs. LAC W 35 34 13 22 59.1 0 0 - 8 9 88.9 6 12 18 5 0 1 1 3 14
+p618
+aVTony Parker SAS 12/22/2007 SAS vs. LAC W 34 18 6 17 35.3 0 1 0.0 6 7 85.7 0 2 2 6 0 0 4 0 7
+p619
+aVBruce Bowen SAS 12/22/2007 SAS vs. LAC W 38 6 3 5 60.0 0 1 0.0 0 0 - 0 5 5 0 0 1 0 1 15
+p620
+aVMichael Finley SAS 12/22/2007 SAS vs. LAC W 30 10 3 9 33.3 3 4 75.0 1 2 50.0 1 2 3 6 0 0 0 1 10
+p621
+aVRobert Horry SAS 12/19/2007 SAS @ MEM L 12 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 0 0 0 3
+p622
+aVManu Ginobili SAS 12/19/2007 SAS @ MEM L 33 20 7 21 33.3 2 8 25.0 4 6 66.7 0 5 5 5 3 0 3 2 9
+p623
+aVJacque Vaughn SAS 12/19/2007 SAS @ MEM L 27 10 5 11 45.5 0 0 - 0 0 - 1 0 1 5 1 0 0 1 -9
+p624
+aVTim Duncan SAS 12/19/2007 SAS @ MEM L 33 16 7 14 50.0 0 0 - 2 2 100.0 3 11 14 4 0 2 1 1 -4
+p625
+aVFabricio Oberto SAS 12/19/2007 SAS @ MEM L 19 6 3 5 60.0 0 0 - 0 0 - 4 2 6 0 1 0 1 2 -8
+p626
+aVDarius Washington SAS 12/19/2007 SAS @ MEM L 6 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -4
+p627
+aVBruce Bowen SAS 12/19/2007 SAS @ MEM L 22 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 0 3 0 3 1 -21
+p628
+aVMatt Bonner SAS 12/19/2007 SAS @ MEM L 14 7 3 7 42.9 1 4 25.0 0 0 - 1 2 3 0 0 0 0 1 1
+p629
+aVMichael Finley SAS 12/19/2007 SAS @ MEM L 31 11 5 13 38.5 1 7 14.3 0 0 - 1 4 5 1 0 0 1 1 -1
+p630
+aVIme Udoka SAS 12/19/2007 SAS @ MEM L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 0 2 1
+p631
+aVBrent Barry SAS 12/19/2007 SAS @ MEM L 29 8 3 7 42.9 1 4 25.0 1 1 100.0 1 1 2 4 4 0 2 3 18
+p632
+aVFabricio Oberto SAS 12/17/2007 SAS vs. PHX L 20 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -8
+p633
+aVBrent Barry SAS 12/17/2007 SAS vs. PHX L 23 5 2 6 33.3 1 5 20.0 0 0 - 3 3 6 5 0 1 1 2 -10
+p634
+aVMatt Bonner SAS 12/17/2007 SAS vs. PHX L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 3 7
+p635
+aVMichael Finley SAS 12/17/2007 SAS vs. PHX L 40 15 6 13 46.2 2 7 28.6 1 1 100.0 0 6 6 3 0 0 2 3 0
+p636
+aVBruce Bowen SAS 12/17/2007 SAS vs. PHX L 35 0 0 4 0.0 0 2 0.0 0 0 - 1 4 5 3 2 0 2 5 -2
+p637
+aVRobert Horry SAS 12/17/2007 SAS vs. PHX L 13 0 0 1 0.0 0 1 0.0 0 0 - 1 3 4 0 1 0 0 1 -8
+p638
+aVJacque Vaughn SAS 12/17/2007 SAS vs. PHX L 35 14 7 10 70.0 0 0 - 0 0 - 0 2 2 4 0 0 3 3 4
+p639
+aVManu Ginobili SAS 12/17/2007 SAS vs. PHX L 32 18 6 19 31.6 1 6 16.7 5 6 83.3 1 3 4 5 0 1 2 4 -13
+p640
+aVTim Duncan SAS 12/17/2007 SAS vs. PHX L 36 36 15 25 60.0 0 0 - 6 8 75.0 6 11 17 3 0 1 2 1 5
+p641
+aVFrancisco Elson SAS 12/15/2007 SAS vs. DEN W 12 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 1 -16
+p642
+aVBruce Bowen SAS 12/15/2007 SAS vs. DEN W 34 7 2 5 40.0 2 3 66.7 1 2 50.0 0 2 2 1 2 0 0 2 11
+p643
+aVBrent Barry SAS 12/15/2007 SAS vs. DEN W 27 14 5 11 45.5 3 6 50.0 1 1 100.0 1 3 4 3 0 0 2 2 -2
+p644
+aVRobert Horry SAS 12/15/2007 SAS vs. DEN W 6 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p645
+aVJacque Vaughn SAS 12/15/2007 SAS vs. DEN W 34 10 4 9 44.4 0 0 - 2 2 100.0 1 2 3 6 0 0 2 2 10
+p646
+aVTim Duncan SAS 12/15/2007 SAS vs. DEN W 20 8 4 10 40.0 0 0 - 0 0 - 1 4 5 1 1 1 3 0 8
+p647
+aVIme Udoka SAS 12/15/2007 SAS vs. DEN W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -12
+p648
+aVFabricio Oberto SAS 12/15/2007 SAS vs. DEN W 30 21 10 11 90.9 0 0 - 1 2 50.0 4 9 13 5 0 1 0 2 17
+p649
+aVMichael Finley SAS 12/15/2007 SAS vs. DEN W 26 21 8 12 66.7 4 5 80.0 1 3 33.3 3 3 6 4 0 0 2 1 27
+p650
+aVDarius Washington SAS 12/15/2007 SAS vs. DEN W 16 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 0 2 2 4
+p651
+aVManu Ginobili SAS 12/15/2007 SAS vs. DEN W 28 11 4 11 36.4 2 5 40.0 1 1 100.0 0 4 4 7 1 0 4 2 10
+p652
+aVRobert Horry SAS 12/13/2007 SAS @ LAL L 24 6 2 3 66.7 2 3 66.7 0 0 - 2 2 4 4 2 3 1 2 -6
+p653
+aVFrancisco Elson SAS 12/13/2007 SAS @ LAL L 6 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p654
+aVMatt Bonner SAS 12/13/2007 SAS @ LAL L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 4 -4
+p655
+aVDarius Washington SAS 12/13/2007 SAS @ LAL L 11 3 1 4 25.0 0 1 0.0 1 4 25.0 0 1 1 1 1 0 0 0 2
+p656
+aVFabricio Oberto SAS 12/13/2007 SAS @ LAL L 37 9 3 4 75.0 0 0 - 3 4 75.0 4 12 16 3 1 1 1 1 -4
+p657
+aVIme Udoka SAS 12/13/2007 SAS @ LAL L 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 0 5
+p658
+aVJacque Vaughn SAS 12/13/2007 SAS @ LAL L 20 7 1 7 14.3 0 0 - 5 6 83.3 0 4 4 3 0 0 3 2 -4
+p659
+aVBruce Bowen SAS 12/13/2007 SAS @ LAL L 34 22 8 13 61.5 5 7 71.4 1 1 100.0 0 4 4 1 0 0 0 3 -5
+p660
+aVBrent Barry SAS 12/13/2007 SAS @ LAL L 29 17 6 11 54.5 3 8 37.5 2 2 100.0 0 4 4 4 0 0 0 2 -1
+p661
+aVManu Ginobili SAS 12/13/2007 SAS @ LAL L 35 14 5 17 29.4 1 7 14.3 3 3 100.0 1 5 6 3 0 0 7 5 -12
+p662
+aVMichael Finley SAS 12/13/2007 SAS @ LAL L 21 11 4 13 30.8 2 7 28.6 1 2 50.0 1 2 3 4 0 0 1 3 6
+p663
+aVTony Parker SAS 12/11/2007 SAS @ GSW L 29 11 5 14 35.7 0 0 - 1 2 50.0 1 1 2 6 0 0 6 1 -7
+p664
+aVFrancisco Elson SAS 12/11/2007 SAS @ GSW L 17 3 1 5 20.0 0 0 - 1 1 100.0 1 6 7 0 0 0 0 0 -10
+p665
+aVBrent Barry SAS 12/11/2007 SAS @ GSW L 25 5 1 4 25.0 1 3 33.3 2 2 100.0 0 5 5 3 0 0 1 1 -13
+p666
+aVJacque Vaughn SAS 12/11/2007 SAS @ GSW L 17 7 2 3 66.7 0 0 - 3 4 75.0 1 0 1 2 0 0 1 1 0
+p667
+aVMatt Bonner SAS 12/11/2007 SAS @ GSW L 39 25 9 16 56.3 3 4 75.0 4 4 100.0 6 11 17 1 0 1 3 5 4
+p668
+aVBruce Bowen SAS 12/11/2007 SAS @ GSW L 21 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 3 -12
+p669
+aVIme Udoka SAS 12/11/2007 SAS @ GSW L 16 7 3 7 42.9 0 2 0.0 1 1 100.0 2 4 6 0 2 1 3 0 9
+p670
+aVFabricio Oberto SAS 12/11/2007 SAS @ GSW L 21 3 1 3 33.3 0 0 - 1 2 50.0 3 3 6 2 0 2 1 4 -7
+p671
+aVRobert Horry SAS 12/11/2007 SAS @ GSW L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 5
+p672
+aVMichael Finley SAS 12/11/2007 SAS @ GSW L 17 7 3 9 33.3 1 6 16.7 0 0 - 0 1 1 0 0 0 0 1 -8
+p673
+aVManu Ginobili SAS 12/11/2007 SAS @ GSW L 29 13 4 14 28.6 1 3 33.3 4 6 66.7 1 2 3 1 1 1 5 1 -21
+p674
+aVBrent Barry SAS 12/07/2007 SAS vs. UTA W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 0 3
+p675
+aVFrancisco Elson SAS 12/07/2007 SAS vs. UTA W 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -6
+p676
+aVTony Parker SAS 12/07/2007 SAS vs. UTA W 36 16 5 14 35.7 0 1 0.0 6 10 60.0 0 2 2 7 2 0 5 4 8
+p677
+aVRobert Horry SAS 12/07/2007 SAS vs. UTA W 15 6 2 6 33.3 1 2 50.0 1 2 50.0 1 0 1 0 0 0 0 1 -1
+p678
+aVMatt Bonner SAS 12/07/2007 SAS vs. UTA W 33 13 5 12 41.7 2 7 28.6 1 1 100.0 2 2 4 0 0 1 2 3 7
+p679
+aVMichael Finley SAS 12/07/2007 SAS vs. UTA W 29 15 5 8 62.5 4 7 57.1 1 2 50.0 0 5 5 2 0 0 1 2 0
+p680
+aVJacque Vaughn SAS 12/07/2007 SAS vs. UTA W 10 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -1
+p681
+aVBruce Bowen SAS 12/07/2007 SAS vs. UTA W 24 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 1 2 1 0 1 2
+p682
+aVFabricio Oberto SAS 12/07/2007 SAS vs. UTA W 31 4 2 4 50.0 0 0 - 0 0 - 5 6 11 3 2 0 0 5 12
+p683
+aVManu Ginobili SAS 12/07/2007 SAS vs. UTA W 36 37 9 21 42.9 2 7 28.6 17 19 89.5 3 5 8 6 3 1 3 2 6
+p684
+aVBruce Bowen SAS 12/05/2007 SAS vs. DAL W 42 0 0 7 0.0 0 5 0.0 0 0 - 0 8 8 1 3 0 2 4 -6
+p685
+aVMatt Bonner SAS 12/05/2007 SAS vs. DAL W 6 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -3
+p686
+aVBrent Barry SAS 12/05/2007 SAS vs. DAL W 18 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 3 1
+p687
+aVRobert Horry SAS 12/05/2007 SAS vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p688
+aVFrancisco Elson SAS 12/05/2007 SAS vs. DAL W 25 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -10
+p689
+aVTony Parker SAS 12/05/2007 SAS vs. DAL W 32 23 9 22 40.9 0 2 0.0 5 6 83.3 0 2 2 3 1 0 4 4 -2
+p690
+aVJacque Vaughn SAS 12/05/2007 SAS vs. DAL W 14 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 3
+p691
+aVManu Ginobili SAS 12/05/2007 SAS vs. DAL W 39 37 12 24 50.0 2 5 40.0 11 12 91.7 0 4 4 6 2 1 4 3 5
+p692
+aVMichael Finley SAS 12/05/2007 SAS vs. DAL W 32 14 5 9 55.6 4 5 80.0 0 0 - 1 7 8 1 0 0 1 3 11
+p693
+aVFabricio Oberto SAS 12/05/2007 SAS vs. DAL W 25 8 3 3 100.0 0 0 - 2 2 100.0 2 3 5 1 0 0 0 6 10
+p694
+aVBruce Bowen SAS 12/02/2007 SAS vs. POR W 29 10 3 7 42.9 2 3 66.7 2 2 100.0 1 2 3 1 2 0 0 2 20
+p695
+aVTim Duncan SAS 12/02/2007 SAS vs. POR W 11 2 1 7 14.3 0 0 - 0 0 - 2 0 2 0 0 1 0 0 -4
+p696
+aVMatt Bonner SAS 12/02/2007 SAS vs. POR W 17 7 2 4 50.0 1 1 100.0 2 2 100.0 1 0 1 1 0 0 1 3 7
+p697
+aVJacque Vaughn SAS 12/02/2007 SAS vs. POR W 17 10 5 6 83.3 0 0 - 0 0 - 0 1 1 2 1 0 1 2 2
+p698
+aVFrancisco Elson SAS 12/02/2007 SAS vs. POR W 22 4 2 5 40.0 0 0 - 0 0 - 1 3 4 2 0 1 0 1 21
+p699
+aVFabricio Oberto SAS 12/02/2007 SAS vs. POR W 25 6 3 3 100.0 0 0 - 0 0 - 1 8 9 1 0 0 0 3 16
+p700
+aVBrent Barry SAS 12/02/2007 SAS vs. POR W 25 17 5 7 71.4 3 5 60.0 4 4 100.0 0 5 5 3 0 0 0 5 7
+p701
+aVMichael Finley SAS 12/02/2007 SAS vs. POR W 21 4 2 10 20.0 0 1 0.0 0 0 - 0 3 3 3 0 0 0 1 -4
+p702
+aVIme Udoka SAS 12/02/2007 SAS vs. POR W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p703
+aVRobert Horry SAS 12/02/2007 SAS vs. POR W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 1 0 1
+p704
+aVTony Parker SAS 12/02/2007 SAS vs. POR W 35 27 11 15 73.3 1 2 50.0 4 6 66.7 2 2 4 8 0 0 1 0 21
+p705
+aVManu Ginobili SAS 12/02/2007 SAS vs. POR W 23 11 2 8 25.0 1 4 25.0 6 9 66.7 0 5 5 2 0 1 0 2 15
+p706
+aVManu Ginobili SAS 11/30/2007 SAS @ MIN W 33 31 11 16 68.8 7 9 77.8 2 2 100.0 0 3 3 4 3 0 4 1 35
+p707
+aVFabricio Oberto SAS 11/30/2007 SAS @ MIN W 23 8 4 5 80.0 0 0 - 0 0 - 1 1 2 3 1 0 2 1 -15
+p708
+aVBruce Bowen SAS 11/30/2007 SAS @ MIN W 36 10 3 7 42.9 3 6 50.0 1 2 50.0 0 2 2 0 1 0 0 2 20
+p709
+aVIme Udoka SAS 11/30/2007 SAS @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p710
+aVBrent Barry SAS 11/30/2007 SAS @ MIN W 21 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 3 1 0 0 1 16
+p711
+aVJacque Vaughn SAS 11/30/2007 SAS @ MIN W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 4
+p712
+aVMichael Finley SAS 11/30/2007 SAS @ MIN W 23 2 1 11 9.1 0 6 0.0 0 0 - 0 6 6 2 0 0 0 0 -1
+p713
+aVMatt Bonner SAS 11/30/2007 SAS @ MIN W 6 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 1 0 1 10
+p714
+aVTim Duncan SAS 11/30/2007 SAS @ MIN W 40 20 7 11 63.6 0 0 - 6 9 66.7 5 9 14 4 0 1 2 4 11
+p715
+aVFrancisco Elson SAS 11/30/2007 SAS @ MIN W 14 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -4
+p716
+aVTony Parker SAS 11/30/2007 SAS @ MIN W 36 17 6 13 46.2 0 0 - 5 6 83.3 2 2 4 9 2 0 3 1 -3
+p717
+aVFabricio Oberto SAS 11/28/2007 SAS vs. WAS W 34 5 2 3 66.7 0 0 - 1 1 100.0 2 5 7 4 0 0 0 4 23
+p718
+aVFrancisco Elson SAS 11/28/2007 SAS vs. WAS W 24 10 5 8 62.5 0 0 - 0 0 - 1 6 7 2 0 0 1 0 -11
+p719
+aVBruce Bowen SAS 11/28/2007 SAS vs. WAS W 31 12 5 8 62.5 2 5 40.0 0 0 - 0 2 2 2 2 0 0 2 17
+p720
+aVManu Ginobili SAS 11/28/2007 SAS vs. WAS W 27 19 6 11 54.5 3 5 60.0 4 6 66.7 0 1 1 3 2 0 1 2 2
+p721
+aVIme Udoka SAS 11/28/2007 SAS vs. WAS W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p722
+aVJacque Vaughn SAS 11/28/2007 SAS vs. WAS W 13 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 3 0 0 1 1 -5
+p723
+aVBrent Barry SAS 11/28/2007 SAS vs. WAS W 16 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 2 6
+p724
+aVTony Parker SAS 11/28/2007 SAS vs. WAS W 35 29 12 18 66.7 0 2 0.0 5 7 71.4 0 8 8 11 0 1 2 1 20
+p725
+aVMatt Bonner SAS 11/28/2007 SAS vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p726
+aVMichael Finley SAS 11/28/2007 SAS vs. WAS W 21 10 3 7 42.9 3 5 60.0 1 1 100.0 0 3 3 2 0 0 0 0 14
+p727
+aVDarius Washington SAS 11/28/2007 SAS vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p728
+aVTim Duncan SAS 11/28/2007 SAS vs. WAS W 35 16 8 13 61.5 0 0 - 0 0 - 1 6 7 2 1 1 1 1 18
+p729
+aVMichael Finley SAS 11/26/2007 SAS @ SAC L 27 9 3 11 27.3 3 6 50.0 0 0 - 1 3 4 1 0 0 0 2 1
+p730
+aVFrancisco Elson SAS 11/26/2007 SAS @ SAC L 6 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 0 0 0 -3
+p731
+aVDarius Washington SAS 11/26/2007 SAS @ SAC L 10 8 3 7 42.9 1 2 50.0 1 2 50.0 0 2 2 1 1 0 0 0 3
+p732
+aVManu Ginobili SAS 11/26/2007 SAS @ SAC L 27 9 3 12 25.0 1 6 16.7 2 2 100.0 1 5 6 7 0 0 2 5 -19
+p733
+aVMatt Bonner SAS 11/26/2007 SAS @ SAC L 14 6 3 5 60.0 0 1 0.0 0 0 - 2 2 4 0 0 1 0 2 -6
+p734
+aVIme Udoka SAS 11/26/2007 SAS @ SAC L 8 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 1 1 0 1 0 5
+p735
+aVBruce Bowen SAS 11/26/2007 SAS @ SAC L 26 10 4 6 66.7 1 2 50.0 1 3 33.3 0 3 3 1 0 0 1 1 -10
+p736
+aVFabricio Oberto SAS 11/26/2007 SAS @ SAC L 27 13 6 7 85.7 0 0 - 1 3 33.3 3 3 6 0 1 1 0 4 -2
+p737
+aVTim Duncan SAS 11/26/2007 SAS @ SAC L 33 15 6 11 54.5 0 0 - 3 5 60.0 1 4 5 3 3 1 3 3 -10
+p738
+aVJacque Vaughn SAS 11/26/2007 SAS @ SAC L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 0
+p739
+aVTony Parker SAS 11/26/2007 SAS @ SAC L 31 12 5 13 38.5 0 1 0.0 2 3 66.7 2 5 7 7 0 0 4 1 -15
+p740
+aVBrent Barry SAS 11/26/2007 SAS @ SAC L 23 8 2 7 28.6 2 5 40.0 2 2 100.0 1 1 2 1 0 0 1 1 -9
+p741
+aVBrent Barry SAS 11/25/2007 SAS @ SEA W 16 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 2 0 0 0 0 8
+p742
+aVMichael Finley SAS 11/25/2007 SAS @ SEA W 19 11 3 4 75.0 3 3 100.0 2 2 100.0 0 1 1 0 0 0 0 0 3
+p743
+aVManu Ginobili SAS 11/25/2007 SAS @ SEA W 28 22 8 13 61.5 4 6 66.7 2 2 100.0 0 1 1 2 0 0 1 3 15
+p744
+aVFrancisco Elson SAS 11/25/2007 SAS @ SEA W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 9
+p745
+aVTim Duncan SAS 11/25/2007 SAS @ SEA W 35 26 11 18 61.1 0 0 - 4 4 100.0 3 2 5 3 1 2 1 0 12
+p746
+aVDarius Washington SAS 11/25/2007 SAS @ SEA W 1 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p747
+aVFabricio Oberto SAS 11/25/2007 SAS @ SEA W 28 6 3 5 60.0 0 0 - 0 0 - 3 6 9 1 0 0 0 2 -1
+p748
+aVMatt Bonner SAS 11/25/2007 SAS @ SEA W 23 12 3 5 60.0 2 3 66.7 4 4 100.0 2 4 6 3 1 1 2 5 11
+p749
+aVBruce Bowen SAS 11/25/2007 SAS @ SEA W 34 4 2 5 40.0 0 2 0.0 0 0 - 2 4 6 1 1 0 1 4 -3
+p750
+aVTony Parker SAS 11/25/2007 SAS @ SEA W 36 22 8 20 40.0 0 1 0.0 6 6 100.0 2 3 5 7 0 0 2 1 2
+p751
+aVJacque Vaughn SAS 11/25/2007 SAS @ SEA W 12 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 3 0 0 1 0 13
+p752
+aVIme Udoka SAS 11/25/2007 SAS @ SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 3
+p753
+aVManu Ginobili SAS 11/23/2007 SAS vs. MEM W 27 11 5 15 33.3 1 5 20.0 0 0 - 1 3 4 4 1 0 2 1 21
+p754
+aVIme Udoka SAS 11/23/2007 SAS vs. MEM W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p755
+aVDarius Washington SAS 11/23/2007 SAS vs. MEM W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -4
+p756
+aVTony Parker SAS 11/23/2007 SAS vs. MEM W 28 21 8 15 53.3 0 0 - 5 7 71.4 0 5 5 8 0 0 3 2 6
+p757
+aVMatt Bonner SAS 11/23/2007 SAS vs. MEM W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -4
+p758
+aVBrent Barry SAS 11/23/2007 SAS vs. MEM W 23 14 6 10 60.0 1 4 25.0 1 1 100.0 0 3 3 4 2 0 0 1 3
+p759
+aVJacque Vaughn SAS 11/23/2007 SAS vs. MEM W 19 8 4 9 44.4 0 1 0.0 0 1 0.0 0 0 0 2 1 0 1 0 7
+p760
+aVBruce Bowen SAS 11/23/2007 SAS vs. MEM W 29 2 1 3 33.3 0 2 0.0 0 0 - 0 5 5 1 1 1 0 1 11
+p761
+aVFabricio Oberto SAS 11/23/2007 SAS vs. MEM W 24 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 1 1 0 0 0 4
+p762
+aVMichael Finley SAS 11/23/2007 SAS vs. MEM W 25 2 1 7 14.3 0 3 0.0 0 0 - 0 6 6 2 0 1 0 3 3
+p763
+aVTim Duncan SAS 11/23/2007 SAS vs. MEM W 28 28 14 17 82.4 0 0 - 0 1 0.0 4 5 9 2 2 1 2 3 10
+p764
+aVFrancisco Elson SAS 11/23/2007 SAS vs. MEM W 20 5 2 6 33.3 0 0 - 1 1 100.0 2 7 9 1 1 1 2 2 12
+p765
+aVJacque Vaughn SAS 11/21/2007 SAS vs. ORL W 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 0 3 11
+p766
+aVFrancisco Elson SAS 11/21/2007 SAS vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p767
+aVMichael Finley SAS 11/21/2007 SAS vs. ORL W 35 11 3 13 23.1 3 6 50.0 2 2 100.0 1 2 3 2 1 0 0 1 4
+p768
+aVFabricio Oberto SAS 11/21/2007 SAS vs. ORL W 17 6 3 5 60.0 0 0 - 0 0 - 4 4 8 3 0 0 0 2 -2
+p769
+aVTim Duncan SAS 11/21/2007 SAS vs. ORL W 36 20 8 14 57.1 0 0 - 4 6 66.7 4 12 16 5 1 2 1 4 19
+p770
+aVTony Parker SAS 11/21/2007 SAS vs. ORL W 39 32 14 22 63.6 0 1 0.0 4 6 66.7 0 0 0 9 1 0 0 1 7
+p771
+aVBruce Bowen SAS 11/21/2007 SAS vs. ORL W 30 8 3 7 42.9 2 4 50.0 0 0 - 0 5 5 2 0 0 0 2 -5
+p772
+aVIme Udoka SAS 11/21/2007 SAS vs. ORL W 7 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 13
+p773
+aVBrent Barry SAS 11/21/2007 SAS vs. ORL W 29 19 7 8 87.5 5 6 83.3 0 0 - 0 2 2 2 1 0 1 3 25
+p774
+aVManu Ginobili SAS 11/21/2007 SAS vs. ORL W 36 27 8 17 47.1 2 6 33.3 9 10 90.0 0 4 4 5 0 0 1 3 17
+p775
+aVTim Duncan SAS 11/20/2007 SAS @ ATL W 33 13 5 12 41.7 0 1 0.0 3 4 75.0 3 4 7 6 0 2 3 3 15
+p776
+aVJacque Vaughn SAS 11/20/2007 SAS @ ATL W 14 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 -4
+p777
+aVTony Parker SAS 11/20/2007 SAS @ ATL W 34 31 13 20 65.0 1 1 100.0 4 4 100.0 0 2 2 9 0 0 2 0 16
+p778
+aVFrancisco Elson SAS 11/20/2007 SAS @ ATL W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 2 3 -7
+p779
+aVFabricio Oberto SAS 11/20/2007 SAS @ ATL W 24 10 5 7 71.4 0 0 - 0 1 0.0 4 6 10 1 0 0 0 3 19
+p780
+aVIme Udoka SAS 11/20/2007 SAS @ ATL W 9 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 0 0 1 1 -9
+p781
+aVMichael Finley SAS 11/20/2007 SAS @ ATL W 32 10 4 9 44.4 2 6 33.3 0 0 - 0 2 2 1 0 2 1 2 12
+p782
+aVDarius Washington SAS 11/20/2007 SAS @ ATL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p783
+aVMatt Bonner SAS 11/20/2007 SAS @ ATL W 22 3 1 5 20.0 1 2 50.0 0 0 - 3 3 6 1 0 0 0 2 -6
+p784
+aVBruce Bowen SAS 11/20/2007 SAS @ ATL W 33 2 1 3 33.3 0 0 - 0 0 - 1 4 5 2 1 0 2 2 18
+p785
+aVManu Ginobili SAS 11/20/2007 SAS @ ATL W 26 19 7 11 63.6 2 3 66.7 3 4 75.0 1 3 4 0 2 0 3 0 8
+p786
+aVMichael Finley SAS 11/16/2007 SAS vs. HOU W 31 17 7 8 87.5 3 4 75.0 0 0 - 1 3 4 5 1 0 0 2 8
+p787
+aVFabricio Oberto SAS 11/16/2007 SAS vs. HOU W 18 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 1 0 0 4 4
+p788
+aVFrancisco Elson SAS 11/16/2007 SAS vs. HOU W 15 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 0 8
+p789
+aVMatt Bonner SAS 11/16/2007 SAS vs. HOU W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -8
+p790
+aVDarius Washington SAS 11/16/2007 SAS vs. HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p791
+aVTony Parker SAS 11/16/2007 SAS vs. HOU W 33 14 6 13 46.2 0 0 - 2 4 50.0 0 3 3 3 0 0 2 0 7
+p792
+aVTim Duncan SAS 11/16/2007 SAS vs. HOU W 39 25 11 22 50.0 0 0 - 3 6 50.0 4 9 13 2 2 1 4 3 0
+p793
+aVJacque Vaughn SAS 11/16/2007 SAS vs. HOU W 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p794
+aVBruce Bowen SAS 11/16/2007 SAS vs. HOU W 32 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 2 1 0 1 2 -6
+p795
+aVBrent Barry SAS 11/16/2007 SAS vs. HOU W 20 5 2 4 50.0 1 3 33.3 0 0 - 1 2 3 0 0 0 0 2 2
+p796
+aVManu Ginobili SAS 11/16/2007 SAS vs. HOU W 29 19 5 14 35.7 3 6 50.0 6 6 100.0 2 7 9 7 1 1 6 4 16
+p797
+aVTony Parker SAS 11/15/2007 SAS @ DAL L 33 7 1 11 9.1 0 1 0.0 5 6 83.3 2 1 3 8 1 1 1 3 -21
+p798
+aVFrancisco Elson SAS 11/15/2007 SAS @ DAL L 17 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 0 1 0 1 2 -1
+p799
+aVMichael Finley SAS 11/15/2007 SAS @ DAL L 25 0 0 6 0.0 0 2 0.0 0 0 - 0 4 4 0 0 0 1 2 -3
+p800
+aVMatt Bonner SAS 11/15/2007 SAS @ DAL L 22 8 3 9 33.3 1 3 33.3 1 1 100.0 0 3 3 0 0 0 0 3 2
+p801
+aVDarius Washington SAS 11/15/2007 SAS @ DAL L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p802
+aVJacque Vaughn SAS 11/15/2007 SAS @ DAL L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 8
+p803
+aVTim Duncan SAS 11/15/2007 SAS @ DAL L 33 24 11 21 52.4 0 0 - 2 2 100.0 4 1 5 1 1 0 5 2 -19
+p804
+aVBrent Barry SAS 11/15/2007 SAS @ DAL L 14 11 4 4 100.0 3 3 100.0 0 0 - 0 1 1 0 0 0 0 2 1
+p805
+aVFabricio Oberto SAS 11/15/2007 SAS @ DAL L 19 3 1 2 50.0 0 0 - 1 2 50.0 5 0 5 1 1 0 1 3 -8
+p806
+aVManu Ginobili SAS 11/15/2007 SAS @ DAL L 32 25 7 15 46.7 1 4 25.0 10 13 76.9 3 6 9 7 3 0 4 3 -8
+p807
+aVIme Udoka SAS 11/15/2007 SAS @ DAL L 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p808
+aVBruce Bowen SAS 11/15/2007 SAS @ DAL L 19 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 0 4 -14
+p809
+aVBruce Bowen SAS 11/13/2007 SAS vs. LAL W 38 23 7 11 63.6 6 6 100.0 3 4 75.0 1 2 3 1 1 0 1 2 24
+p810
+aVMatt Bonner SAS 11/13/2007 SAS vs. LAL W 19 15 6 13 46.2 3 7 42.9 0 0 - 1 3 4 0 1 1 0 4 14
+p811
+aVIme Udoka SAS 11/13/2007 SAS vs. LAL W 8 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 3 0 0 0 0 -5
+p812
+aVFabricio Oberto SAS 11/13/2007 SAS vs. LAL W 21 2 1 2 50.0 0 0 - 0 0 - 2 4 6 2 0 0 0 3 2
+p813
+aVManu Ginobili SAS 11/13/2007 SAS vs. LAL W 27 17 6 12 50.0 2 4 50.0 3 3 100.0 2 2 4 5 2 0 1 1 17
+p814
+aVIan Mahinmi SAS 11/13/2007 SAS vs. LAL W 4 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -3
+p815
+aVMichael Finley SAS 11/13/2007 SAS vs. LAL W 28 10 4 14 28.6 1 7 14.3 1 1 100.0 0 2 2 1 2 0 0 2 -3
+p816
+aVTim Duncan SAS 11/13/2007 SAS vs. LAL W 30 5 2 13 15.4 0 0 - 1 1 100.0 1 4 5 4 2 3 4 3 14
+p817
+aVTony Parker SAS 11/13/2007 SAS vs. LAL W 34 26 11 16 68.8 0 0 - 4 4 100.0 0 4 4 9 1 0 2 1 20
+p818
+aVFrancisco Elson SAS 11/13/2007 SAS vs. LAL W 14 0 0 1 0.0 0 0 - 0 0 - 0 6 6 1 0 1 2 3 2
+p819
+aVBrent Barry SAS 11/13/2007 SAS vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p820
+aVDarius Washington SAS 11/13/2007 SAS vs. LAL W 14 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 2 0 0 1 1 -5
+p821
+aVMatt Bonner SAS 11/11/2007 SAS vs. MIL W 25 0 0 2 0.0 0 1 0.0 0 0 - 2 7 9 2 0 0 1 0 -4
+p822
+aVBruce Bowen SAS 11/11/2007 SAS vs. MIL W 26 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 3 0 0 1 2 18
+p823
+aVDarius Washington SAS 11/11/2007 SAS vs. MIL W 23 11 4 6 66.7 1 2 50.0 2 2 100.0 0 2 2 2 1 0 2 2 1
+p824
+aVMichael Finley SAS 11/11/2007 SAS vs. MIL W 20 17 7 12 58.3 3 7 42.9 0 0 - 0 2 2 2 0 0 0 2 14
+p825
+aVIme Udoka SAS 11/11/2007 SAS vs. MIL W 28 3 1 5 20.0 0 3 0.0 1 2 50.0 0 3 3 2 2 1 2 3 10
+p826
+aVManu Ginobili SAS 11/11/2007 SAS vs. MIL W 19 21 6 9 66.7 3 5 60.0 6 6 100.0 0 3 3 1 2 0 1 3 19
+p827
+aVIan Mahinmi SAS 11/11/2007 SAS vs. MIL W 10 12 4 7 57.1 0 0 - 4 4 100.0 0 1 1 1 0 2 2 0 -5
+p828
+aVTony Parker SAS 11/11/2007 SAS vs. MIL W 25 12 4 9 44.4 0 1 0.0 4 6 66.7 0 1 1 5 1 1 2 2 24
+p829
+aVFrancisco Elson SAS 11/11/2007 SAS vs. MIL W 26 12 4 8 50.0 0 0 - 4 4 100.0 1 3 4 0 0 0 1 3 4
+p830
+aVTim Duncan SAS 11/11/2007 SAS vs. MIL W 27 16 5 7 71.4 0 0 - 6 6 100.0 1 9 10 3 1 4 1 0 31
+p831
+aVFabricio Oberto SAS 11/11/2007 SAS vs. MIL W 12 6 3 3 100.0 0 0 - 0 1 0.0 1 3 4 1 1 0 0 4 13
+p832
+aVMichael Finley SAS 11/09/2007 SAS @ NOH W 17 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -11
+p833
+aVMatt Bonner SAS 11/09/2007 SAS @ NOH W 14 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 3 -1
+p834
+aVIme Udoka SAS 11/09/2007 SAS @ NOH W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p835
+aVFrancisco Elson SAS 11/09/2007 SAS @ NOH W 19 0 0 4 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 -7
+p836
+aVDarius Washington SAS 11/09/2007 SAS @ NOH W 14 7 3 4 75.0 0 1 0.0 1 1 100.0 0 1 1 2 0 0 0 1 -9
+p837
+aVTim Duncan SAS 11/09/2007 SAS @ NOH W 36 24 11 14 78.6 0 0 - 2 4 50.0 2 10 12 2 0 4 2 3 29
+p838
+aVManu Ginobili SAS 11/09/2007 SAS @ NOH W 32 14 4 11 36.4 1 6 16.7 5 5 100.0 1 9 10 3 2 1 2 0 24
+p839
+aVIan Mahinmi SAS 11/09/2007 SAS @ NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p840
+aVBruce Bowen SAS 11/09/2007 SAS @ NOH W 32 3 1 3 33.3 1 2 50.0 0 0 - 1 3 4 1 1 1 1 2 7
+p841
+aVTony Parker SAS 11/09/2007 SAS @ NOH W 39 27 11 20 55.0 1 2 50.0 4 7 57.1 0 4 4 8 2 0 3 1 25
+p842
+aVFabricio Oberto SAS 11/09/2007 SAS @ NOH W 27 13 6 8 75.0 0 0 - 1 1 100.0 2 2 4 1 0 0 0 4 2
+p843
+aVTim Duncan SAS 11/07/2007 SAS vs. MIA W 31 12 4 9 44.4 0 0 - 4 4 100.0 0 8 8 3 0 1 2 2 7
+p844
+aVFrancisco Elson SAS 11/07/2007 SAS vs. MIA W 36 12 6 11 54.5 0 0 - 0 1 0.0 6 8 14 1 1 1 1 2 7
+p845
+aVManu Ginobili SAS 11/07/2007 SAS vs. MIA W 35 25 8 12 66.7 4 7 57.1 5 8 62.5 1 6 7 7 1 0 4 3 23
+p846
+aVDarius Washington SAS 11/07/2007 SAS vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p847
+aVBrent Barry SAS 11/07/2007 SAS vs. MIA W 11 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 0 -5
+p848
+aVIan Mahinmi SAS 11/07/2007 SAS vs. MIA W 0 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p849
+aVFabricio Oberto SAS 11/07/2007 SAS vs. MIA W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 1
+p850
+aVMichael Finley SAS 11/07/2007 SAS vs. MIA W 24 4 2 8 25.0 0 5 0.0 0 2 0.0 0 4 4 1 0 0 3 1 9
+p851
+aVTony Parker SAS 11/07/2007 SAS vs. MIA W 41 23 10 17 58.8 1 4 25.0 2 4 50.0 0 1 1 8 1 0 1 0 10
+p852
+aVMatt Bonner SAS 11/07/2007 SAS vs. MIA W 20 5 2 8 25.0 1 6 16.7 0 0 - 0 3 3 0 2 1 1 3 5
+p853
+aVBruce Bowen SAS 11/07/2007 SAS vs. MIA W 33 0 0 3 0.0 0 3 0.0 0 0 - 1 3 4 1 0 0 1 1 -5
+p854
+aVFabricio Oberto SAS 11/06/2007 SAS @ HOU L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 6
+p855
+aVTim Duncan SAS 11/06/2007 SAS @ HOU L 37 14 5 15 33.3 0 0 - 4 8 50.0 1 9 10 1 0 3 5 4 -12
+p856
+aVMichael Finley SAS 11/06/2007 SAS @ HOU L 29 10 3 8 37.5 1 2 50.0 3 3 100.0 0 2 2 3 2 0 1 0 -6
+p857
+aVBrent Barry SAS 11/06/2007 SAS @ HOU L 22 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 2 1 0 2 -12
+p858
+aVIme Udoka SAS 11/06/2007 SAS @ HOU L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p859
+aVManu Ginobili SAS 11/06/2007 SAS @ HOU L 30 23 8 17 47.1 0 2 0.0 7 11 63.6 0 2 2 3 5 2 1 2 3
+p860
+aVTony Parker SAS 11/06/2007 SAS @ HOU L 40 21 10 17 58.8 1 1 100.0 0 1 0.0 0 1 1 5 1 0 4 1 -9
+p861
+aVMatt Bonner SAS 11/06/2007 SAS @ HOU L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p862
+aVDarius Washington SAS 11/06/2007 SAS @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p863
+aVBruce Bowen SAS 11/06/2007 SAS @ HOU L 30 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -4
+p864
+aVFrancisco Elson SAS 11/06/2007 SAS @ HOU L 23 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 2 0 2 -1
+p865
+aVBrent Barry SAS 11/02/2007 SAS vs. SAC W 18 5 2 7 28.6 1 5 20.0 0 0 - 1 0 1 2 1 0 2 0 5
+p866
+aVMichael Finley SAS 11/02/2007 SAS vs. SAC W 13 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 1 0 0 1 1 5
+p867
+aVTony Parker SAS 11/02/2007 SAS vs. SAC W 31 15 5 12 41.7 1 2 50.0 4 6 66.7 0 6 6 4 2 1 2 1 18
+p868
+aVBruce Bowen SAS 11/02/2007 SAS vs. SAC W 22 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 1 0 1 0 16
+p869
+aVTim Duncan SAS 11/02/2007 SAS vs. SAC W 25 15 3 7 42.9 0 0 - 9 9 100.0 1 9 10 3 2 1 1 3 17
+p870
+aVMatt Bonner SAS 11/02/2007 SAS vs. SAC W 24 13 5 11 45.5 3 8 37.5 0 0 - 0 1 1 1 0 0 3 3 0
+p871
+aVIme Udoka SAS 11/02/2007 SAS vs. SAC W 24 14 4 8 50.0 3 4 75.0 3 3 100.0 1 5 6 2 1 0 0 2 -1
+p872
+aVIan Mahinmi SAS 11/02/2007 SAS vs. SAC W 6 5 2 2 100.0 0 0 - 1 1 100.0 0 2 2 0 0 2 0 3 -8
+p873
+aVFabricio Oberto SAS 11/02/2007 SAS vs. SAC W 26 8 3 7 42.9 0 0 - 2 2 100.0 4 6 10 2 0 0 1 4 7
+p874
+aVFrancisco Elson SAS 11/02/2007 SAS vs. SAC W 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 3 1 1 1 5 16
+p875
+aVManu Ginobili SAS 11/02/2007 SAS vs. SAC W 25 10 3 5 60.0 1 1 100.0 3 4 75.0 2 3 5 3 0 0 5 3 6
+p876
+aVDarius Washington SAS 11/02/2007 SAS vs. SAC W 12 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 2 1 -1
+p877
+aVBrent Barry SAS 10/31/2007 SAS @ MEM W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 1 1 13
+p878
+aVTim Duncan SAS 10/31/2007 SAS @ MEM W 36 17 7 15 46.7 0 0 - 3 6 50.0 4 5 9 0 1 3 1 2 -12
+p879
+aVMatt Bonner SAS 10/31/2007 SAS @ MEM W 19 11 4 9 44.4 3 4 75.0 0 0 - 0 5 5 1 0 0 0 3 3
+p880
+aVFabricio Oberto SAS 10/31/2007 SAS @ MEM W 16 4 2 3 66.7 0 0 - 0 0 - 0 3 3 2 1 0 0 1 7
+p881
+aVDarius Washington SAS 10/31/2007 SAS @ MEM W 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 1 0 2 3 5
+p882
+aVFrancisco Elson SAS 10/31/2007 SAS @ MEM W 22 4 2 5 40.0 0 0 - 0 0 - 1 10 11 0 0 1 0 3 6
+p883
+aVTony Parker SAS 10/31/2007 SAS @ MEM W 37 17 8 20 40.0 1 3 33.3 0 0 - 0 4 4 7 0 0 2 0 -2
+p884
+aVBruce Bowen SAS 10/31/2007 SAS @ MEM W 27 7 3 3 100.0 1 1 100.0 0 2 0.0 0 3 3 1 2 0 2 1 -11
+p885
+aVManu Ginobili SAS 10/31/2007 SAS @ MEM W 31 30 6 14 42.9 5 9 55.6 13 14 92.9 2 3 5 7 2 1 1 3 4
+p886
+aVMichael Finley SAS 10/31/2007 SAS @ MEM W 25 7 3 10 30.0 1 4 25.0 0 0 - 0 0 0 1 1 0 0 0 2
+p887
+aVFrancisco Elson SAS 10/30/2007 SAS vs. POR W 21 9 4 9 44.4 0 0 - 1 2 50.0 1 4 5 0 1 0 1 1 -4
+p888
+aVMatt Bonner SAS 10/30/2007 SAS vs. POR W 19 8 4 9 44.4 0 2 0.0 0 0 - 2 3 5 0 0 0 0 2 10
+p889
+aVMichael Finley SAS 10/30/2007 SAS vs. POR W 23 9 4 11 36.4 1 5 20.0 0 0 - 0 1 1 3 0 0 0 0 5
+p890
+aVDarius Washington SAS 10/30/2007 SAS vs. POR W 12 3 1 1 100.0 1 1 100.0 0 2 0.0 0 1 1 2 1 0 1 1 8
+p891
+aVTim Duncan SAS 10/30/2007 SAS vs. POR W 36 24 10 15 66.7 0 0 - 4 7 57.1 6 7 13 3 0 1 0 2 5
+p892
+aVIan Mahinmi SAS 10/30/2007 SAS vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p893
+aVFabricio Oberto SAS 10/30/2007 SAS vs. POR W 19 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 1 1 6 6
+p894
+aVManu Ginobili SAS 10/30/2007 SAS vs. POR W 29 16 4 11 36.4 1 5 20.0 7 8 87.5 1 2 3 8 5 1 2 3 -1
+p895
+aVTony Parker SAS 10/30/2007 SAS vs. POR W 36 19 7 14 50.0 0 1 0.0 5 6 83.3 0 5 5 2 1 0 3 1 1
+p896
+aVBruce Bowen SAS 10/30/2007 SAS vs. POR W 27 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 3 0 1 0 2 7
+p897
+aVBrent Barry SAS 10/30/2007 SAS vs. POR W 17 12 4 8 50.0 3 7 42.9 1 1 100.0 1 1 2 0 0 0 0 1 6
+p898
+a.

@@ -1,0 +1,84 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLandry Fields NYK 04/24/2011 NYK vs. BOS L 14 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 1 0 0 -12
+p2
+aVToney Douglas NYK 04/24/2011 NYK vs. BOS L 23 6 3 11 27.3 0 3 0.0 0 0 - 0 3 3 2 0 0 0 3 -14
+p3
+aVShawne Williams NYK 04/24/2011 NYK vs. BOS L 37 6 2 9 22.2 2 5 40.0 0 0 - 1 3 4 2 1 1 1 4 -6
+p4
+aVAnthony Carter NYK 04/24/2011 NYK vs. BOS L 23 11 5 7 71.4 1 2 50.0 0 0 - 0 5 5 4 1 0 2 1 3
+p5
+aVAmar'e Stoudemire NYK 04/24/2011 NYK vs. BOS L 44 19 5 20 25.0 0 0 - 9 12 75.0 6 6 12 3 0 1 5 5 -11
+p6
+aVRonny Turiaf NYK 04/24/2011 NYK vs. BOS L 13 3 1 2 50.0 0 0 - 1 3 33.3 0 3 3 0 0 2 0 2 -10
+p7
+aVRoger Mason Jr. NYK 04/24/2011 NYK vs. BOS L 22 6 2 6 33.3 2 5 40.0 0 0 - 2 1 3 1 0 0 1 3 6
+p8
+aVHenry Walker NYK 04/24/2011 NYK vs. BOS L 15 5 2 5 40.0 1 4 25.0 0 0 - 1 2 3 2 1 0 2 2 -5
+p9
+aVJared Jeffries NYK 04/24/2011 NYK vs. BOS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -1
+p10
+aVCarmelo Anthony NYK 04/24/2011 NYK vs. BOS L 43 32 10 24 41.7 2 7 28.6 10 11 90.9 3 6 9 3 1 0 2 4 -10
+p11
+aVJared Jeffries NYK 04/22/2011 NYK vs. BOS L 34 12 5 11 45.5 0 0 - 2 2 100.0 4 1 5 0 1 3 0 3 -5
+p12
+aVRoger Mason Jr. NYK 04/22/2011 NYK vs. BOS L 16 10 4 8 50.0 2 5 40.0 0 0 - 0 0 0 2 0 0 0 1 -1
+p13
+aVRonny Turiaf NYK 04/22/2011 NYK vs. BOS L 10 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 2 2 -15
+p14
+aVToney Douglas NYK 04/22/2011 NYK vs. BOS L 30 15 4 6 66.7 3 4 75.0 4 4 100.0 1 2 3 3 0 0 3 3 -23
+p15
+aVShawne Williams NYK 04/22/2011 NYK vs. BOS L 32 17 6 10 60.0 2 5 40.0 3 4 75.0 2 4 6 2 2 2 1 0 13
+p16
+aVAmar'e Stoudemire NYK 04/22/2011 NYK vs. BOS L 33 7 2 8 25.0 0 0 - 3 4 75.0 1 2 3 1 0 0 1 2 -34
+p17
+aVCarmelo Anthony NYK 04/22/2011 NYK vs. BOS L 35 15 4 16 25.0 1 3 33.3 6 8 75.0 3 8 11 6 2 1 5 2 -27
+p18
+aVAnthony Carter NYK 04/22/2011 NYK vs. BOS L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 10
+p19
+aVHenry Walker NYK 04/22/2011 NYK vs. BOS L 24 9 4 9 44.4 1 1 100.0 0 1 0.0 1 0 1 1 2 0 2 3 6
+p20
+aVLandry Fields NYK 04/22/2011 NYK vs. BOS L 22 2 1 5 20.0 0 2 0.0 0 2 0.0 0 4 4 3 2 1 3 0 -9
+p21
+aVCarmelo Anthony NYK 04/19/2011 NYK @ BOS L 44 42 14 30 46.7 4 8 50.0 10 11 90.9 5 12 17 6 0 2 1 5 -5
+p22
+aVToney Douglas NYK 04/19/2011 NYK @ BOS L 34 14 5 16 31.3 2 6 33.3 2 2 100.0 1 6 7 2 2 0 1 4 -4
+p23
+aVAmar'e Stoudemire NYK 04/19/2011 NYK @ BOS L 18 4 2 9 22.2 0 0 - 0 2 0.0 2 3 5 1 0 0 2 0 -6
+p24
+aVRoger Mason Jr. NYK 04/19/2011 NYK @ BOS L 18 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 0 1 0 0 2 5
+p25
+aVRonny Turiaf NYK 04/19/2011 NYK @ BOS L 22 6 1 3 33.3 0 0 - 4 4 100.0 3 0 3 3 1 0 1 0 -6
+p26
+aVHenry Walker NYK 04/19/2011 NYK @ BOS L 33 2 0 11 0.0 0 5 0.0 2 2 100.0 2 6 8 1 2 0 1 1 10
+p27
+aVAnthony Carter NYK 04/19/2011 NYK @ BOS L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p28
+aVJared Jeffries NYK 04/19/2011 NYK @ BOS L 26 10 5 7 71.4 0 0 - 0 0 - 4 2 6 0 1 2 2 3 3
+p29
+aVLandry Fields NYK 04/19/2011 NYK @ BOS L 15 4 2 4 50.0 0 1 0.0 0 2 0.0 0 0 0 0 0 1 1 0 -13
+p30
+aVShawne Williams NYK 04/19/2011 NYK @ BOS L 22 6 1 3 33.3 1 2 50.0 3 4 75.0 1 3 4 1 1 0 2 2 1
+p31
+aVLandry Fields NYK 04/17/2011 NYK @ BOS L 19 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 7
+p32
+aVShawne Williams NYK 04/17/2011 NYK @ BOS L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 1 0 2 7
+p33
+aVToney Douglas NYK 04/17/2011 NYK @ BOS L 26 8 3 8 37.5 2 5 40.0 0 0 - 0 0 0 2 0 0 0 2 -4
+p34
+aVHenry Walker NYK 04/17/2011 NYK @ BOS L 17 7 3 5 60.0 1 1 100.0 0 0 - 1 0 1 0 0 0 2 3 -4
+p35
+aVRonny Turiaf NYK 04/17/2011 NYK @ BOS L 29 9 4 5 80.0 0 0 - 1 2 50.0 1 4 5 1 0 4 0 0 1
+p36
+aVCarmelo Anthony NYK 04/17/2011 NYK @ BOS L 34 15 5 18 27.8 2 8 25.0 3 4 75.0 2 2 4 4 2 0 5 5 2
+p37
+aVAmar'e Stoudemire NYK 04/17/2011 NYK @ BOS L 39 28 12 18 66.7 0 0 - 4 6 66.7 2 9 11 2 1 2 4 3 -9
+p38
+aVChauncey Billups NYK 04/17/2011 NYK @ BOS L 35 10 3 11 27.3 2 6 33.3 2 2 100.0 0 2 2 4 0 0 3 2 1
+p39
+aVAnthony Carter NYK 04/17/2011 NYK @ BOS L 13 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 2 1 1 0 0 -3
+p40
+aVJared Jeffries NYK 04/17/2011 NYK @ BOS L 19 3 1 4 25.0 0 0 - 1 2 50.0 5 4 9 1 1 1 0 0 -8
+p41
+a.

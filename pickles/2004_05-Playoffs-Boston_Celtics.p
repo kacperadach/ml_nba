@@ -1,0 +1,160 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRaef LaFrentz BOS 05/07/2005 BOS vs. IND L 31 0 0 4 0.0 0 2 0.0 0 0 - 1 6 7 1 2 1 1 4 -15
+p2
+aVMarcus Banks BOS 05/07/2005 BOS vs. IND L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -10
+p3
+aVGary Payton BOS 05/07/2005 BOS vs. IND L 31 7 3 10 30.0 1 2 50.0 0 0 - 0 1 1 7 2 0 1 1 -6
+p4
+aVJustin Reed BOS 05/07/2005 BOS vs. IND L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p5
+aVAl Jefferson BOS 05/07/2005 BOS vs. IND L 23 7 3 9 33.3 0 0 - 1 2 50.0 4 3 7 0 1 3 0 2 -21
+p6
+aVRicky Davis BOS 05/07/2005 BOS vs. IND L 31 8 3 7 42.9 1 2 50.0 1 2 50.0 0 2 2 0 0 0 2 1 -19
+p7
+aVKendrick Perkins BOS 05/07/2005 BOS vs. IND L 4 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 0 0 2 0 0 -5
+p8
+aVAntoine Walker BOS 05/07/2005 BOS vs. IND L 37 20 8 17 47.1 2 4 50.0 2 4 50.0 2 3 5 1 1 2 2 3 -14
+p9
+aVDelonte West BOS 05/07/2005 BOS vs. IND L 27 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 2 1 0 1 4 -17
+p10
+aVPaul Pierce BOS 05/07/2005 BOS vs. IND L 36 19 6 13 46.2 0 4 0.0 7 7 100.0 1 6 7 3 1 1 6 2 -21
+p11
+aVTony Allen BOS 05/07/2005 BOS vs. IND L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p12
+aVMarcus Banks BOS 05/05/2005 BOS @ IND W 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 3 -2
+p13
+aVJustin Reed BOS 05/05/2005 BOS @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p14
+aVAntoine Walker BOS 05/05/2005 BOS @ IND W 50 24 11 26 42.3 2 4 50.0 0 0 - 4 7 11 1 3 1 8 5 3
+p15
+aVDelonte West BOS 05/05/2005 BOS @ IND W 15 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -9
+p16
+aVKendrick Perkins BOS 05/05/2005 BOS @ IND W 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p17
+aVRaef LaFrentz BOS 05/05/2005 BOS @ IND W 27 4 2 8 25.0 0 2 0.0 0 0 - 0 5 5 0 0 3 0 6 -8
+p18
+aVPaul Pierce BOS 05/05/2005 BOS @ IND W 44 20 7 12 58.3 0 2 0.0 6 6 100.0 1 10 11 6 4 1 1 3 -5
+p19
+aVTony Allen BOS 05/05/2005 BOS @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p20
+aVRicky Davis BOS 05/05/2005 BOS @ IND W 42 22 7 15 46.7 1 2 50.0 7 8 87.5 1 4 5 4 2 0 5 3 15
+p21
+aVAl Jefferson BOS 05/05/2005 BOS @ IND W 29 11 5 12 41.7 0 0 - 1 1 100.0 8 6 14 1 1 2 0 5 17
+p22
+aVGary Payton BOS 05/05/2005 BOS @ IND W 39 8 4 13 30.8 0 6 0.0 0 0 - 3 2 5 2 0 0 1 0 7
+p23
+aVGary Payton BOS 05/03/2005 BOS vs. IND L 36 10 4 7 57.1 0 2 0.0 2 2 100.0 0 3 3 3 0 1 1 2 -7
+p24
+aVTony Allen BOS 05/03/2005 BOS vs. IND L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p25
+aVPaul Pierce BOS 05/03/2005 BOS vs. IND L 44 27 6 13 46.2 2 4 50.0 13 16 81.3 1 6 7 3 1 2 6 4 -8
+p26
+aVAl Jefferson BOS 05/03/2005 BOS vs. IND L 14 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 0 0 0 1 1 -1
+p27
+aVJustin Reed BOS 05/03/2005 BOS vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p28
+aVKendrick Perkins BOS 05/03/2005 BOS vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p29
+aVMarcus Banks BOS 05/03/2005 BOS vs. IND L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -1
+p30
+aVDelonte West BOS 05/03/2005 BOS vs. IND L 21 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 3 -1
+p31
+aVAntoine Walker BOS 05/03/2005 BOS vs. IND L 31 10 5 13 38.5 0 3 0.0 0 0 - 2 5 7 3 1 1 3 2 -6
+p32
+aVRaef LaFrentz BOS 05/03/2005 BOS vs. IND L 30 6 2 6 33.3 1 2 50.0 1 2 50.0 0 4 4 2 2 2 3 3 -2
+p33
+aVRicky Davis BOS 05/03/2005 BOS vs. IND L 43 19 7 15 46.7 0 0 - 5 8 62.5 2 5 7 3 4 0 4 3 2
+p34
+aVJustin Reed BOS 04/30/2005 BOS @ IND W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p35
+aVRaef LaFrentz BOS 04/30/2005 BOS @ IND W 26 11 3 5 60.0 1 2 50.0 4 4 100.0 0 6 6 3 0 2 0 4 26
+p36
+aVMark Blount BOS 04/30/2005 BOS @ IND W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p37
+aVGary Payton BOS 04/30/2005 BOS @ IND W 35 14 6 12 50.0 0 1 0.0 2 2 100.0 1 5 6 3 2 0 4 2 31
+p38
+aVPaul Pierce BOS 04/30/2005 BOS @ IND W 40 30 10 15 66.7 1 2 50.0 9 11 81.8 0 7 7 8 1 5 1 2 32
+p39
+aVMarcus Banks BOS 04/30/2005 BOS @ IND W 25 8 3 6 50.0 1 1 100.0 1 2 50.0 0 3 3 1 2 0 0 4 -1
+p40
+aVAl Jefferson BOS 04/30/2005 BOS @ IND W 25 5 2 6 33.3 0 0 - 1 1 100.0 0 7 7 0 0 0 1 3 23
+p41
+aVKendrick Perkins BOS 04/30/2005 BOS @ IND W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p42
+aVRicky Davis BOS 04/30/2005 BOS @ IND W 37 15 7 11 63.6 1 3 33.3 0 0 - 0 2 2 2 0 0 3 4 38
+p43
+aVTony Allen BOS 04/30/2005 BOS @ IND W 20 9 4 9 44.4 0 0 - 1 1 100.0 2 2 4 0 0 2 1 4 5
+p44
+aVDelonte West BOS 04/30/2005 BOS @ IND W 12 14 5 5 100.0 3 3 100.0 1 2 50.0 0 0 0 0 2 0 0 5 11
+p45
+aVKendrick Perkins BOS 04/28/2005 BOS @ IND L 11 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 1 1 3 -10
+p46
+aVAntoine Walker BOS 04/28/2005 BOS @ IND L 36 14 5 16 31.3 1 3 33.3 3 4 75.0 4 5 9 2 0 1 2 3 -14
+p47
+aVMark Blount BOS 04/28/2005 BOS @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p48
+aVRaef LaFrentz BOS 04/28/2005 BOS @ IND L 20 3 1 5 20.0 1 2 50.0 0 0 - 2 1 3 0 1 1 2 4 -5
+p49
+aVJustin Reed BOS 04/28/2005 BOS @ IND L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p50
+aVTony Allen BOS 04/28/2005 BOS @ IND L 21 0 0 2 0.0 0 0 - 0 2 0.0 0 4 4 0 1 0 2 3 0
+p51
+aVDelonte West BOS 04/28/2005 BOS @ IND L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -8
+p52
+aVAl Jefferson BOS 04/28/2005 BOS @ IND L 19 4 1 5 20.0 0 0 - 2 4 50.0 0 1 1 0 2 0 1 3 -11
+p53
+aVPaul Pierce BOS 04/28/2005 BOS @ IND L 37 19 7 13 53.8 1 4 25.0 4 4 100.0 2 4 6 2 1 1 2 3 -14
+p54
+aVRicky Davis BOS 04/28/2005 BOS @ IND L 26 4 2 10 20.0 0 2 0.0 0 0 - 1 2 3 1 0 0 1 4 -22
+p55
+aVGary Payton BOS 04/28/2005 BOS @ IND L 34 15 7 14 50.0 0 0 - 1 1 100.0 4 4 8 6 1 0 0 1 -13
+p56
+aVMarcus Banks BOS 04/28/2005 BOS @ IND L 14 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 2 -9
+p57
+aVPaul Pierce BOS 04/25/2005 BOS vs. IND L 43 33 9 16 56.3 2 7 28.6 13 15 86.7 1 6 7 5 0 0 1 2 -7
+p58
+aVRaef LaFrentz BOS 04/25/2005 BOS vs. IND L 26 3 0 4 0.0 0 1 0.0 3 4 75.0 3 3 6 1 1 0 1 4 -3
+p59
+aVRicky Davis BOS 04/25/2005 BOS vs. IND L 36 6 1 8 12.5 0 0 - 4 4 100.0 1 5 6 1 0 2 5 6 2
+p60
+aVGary Payton BOS 04/25/2005 BOS vs. IND L 35 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 4 0 0 3 1 -8
+p61
+aVMark Blount BOS 04/25/2005 BOS vs. IND L 18 4 2 8 25.0 0 0 - 0 2 0.0 3 2 5 1 0 0 2 1 8
+p62
+aVTony Allen BOS 04/25/2005 BOS vs. IND L 12 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 4 -7
+p63
+aVDelonte West BOS 04/25/2005 BOS vs. IND L 11 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 0 0 5
+p64
+aVMarcus Banks BOS 04/25/2005 BOS vs. IND L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p65
+aVAntoine Walker BOS 04/25/2005 BOS vs. IND L 39 19 8 16 50.0 1 3 33.3 2 2 100.0 3 4 7 3 2 1 2 2 -6
+p66
+aVAl Jefferson BOS 04/25/2005 BOS vs. IND L 10 2 1 3 33.3 0 0 - 0 0 - 3 2 5 1 0 1 1 0 0
+p67
+aVRaef LaFrentz BOS 04/23/2005 BOS vs. IND W 26 21 8 9 88.9 5 5 100.0 0 0 - 0 3 3 1 0 3 0 2 10
+p68
+aVDelonte West BOS 04/23/2005 BOS vs. IND W 15 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 3 1 0 2 3
+p69
+aVKendrick Perkins BOS 04/23/2005 BOS vs. IND W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p70
+aVAl Jefferson BOS 04/23/2005 BOS vs. IND W 16 8 3 3 100.0 0 0 - 2 2 100.0 1 6 7 0 0 2 0 2 17
+p71
+aVMarcus Banks BOS 04/23/2005 BOS vs. IND W 19 11 4 7 57.1 2 3 66.7 1 2 50.0 0 2 2 2 1 0 1 3 2
+p72
+aVMark Blount BOS 04/23/2005 BOS vs. IND W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 2 7
+p73
+aVGary Payton BOS 04/23/2005 BOS vs. IND W 29 14 7 11 63.6 0 2 0.0 0 1 0.0 0 3 3 7 1 0 1 3 18
+p74
+aVTony Allen BOS 04/23/2005 BOS vs. IND W 22 2 1 3 33.3 0 0 - 0 2 0.0 1 0 1 2 1 0 1 6 -2
+p75
+aVRicky Davis BOS 04/23/2005 BOS vs. IND W 25 13 5 8 62.5 0 0 - 3 4 75.0 0 0 0 3 3 0 1 2 20
+p76
+aVPaul Pierce BOS 04/23/2005 BOS vs. IND W 33 12 2 11 18.2 1 4 25.0 7 9 77.8 1 8 9 5 5 0 2 2 15
+p77
+aVAntoine Walker BOS 04/23/2005 BOS vs. IND W 30 13 6 16 37.5 1 2 50.0 0 1 0.0 1 4 5 4 0 0 1 4 23
+p78
+aVJustin Reed BOS 04/23/2005 BOS vs. IND W 6 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 1 0 -7
+p79
+a.

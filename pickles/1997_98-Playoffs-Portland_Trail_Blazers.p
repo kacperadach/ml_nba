@@ -1,0 +1,82 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVStacey Augmon POR 04/30/1998 POR vs. LAL L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -2
+p2
+aVArvydas Sabonis POR 04/30/1998 POR vs. LAL L 33 15 6 15 40.0 1 2 50.0 2 2 100.0 1 6 7 2 2 0 3 4 -6
+p3
+aVDamon Stoudamire POR 04/30/1998 POR vs. LAL L 46 24 9 22 40.9 4 9 44.4 2 2 100.0 2 3 5 8 1 0 1 4 -6
+p4
+aVGary Grant POR 04/30/1998 POR vs. LAL L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p5
+aVIsaiah Rider POR 04/30/1998 POR vs. LAL L 42 10 4 14 28.6 0 2 0.0 2 2 100.0 4 2 6 7 2 0 2 1 -13
+p6
+aVRasheed Wallace POR 04/30/1998 POR vs. LAL L 31 17 6 13 46.2 3 3 100.0 2 7 28.6 0 2 2 2 0 1 2 5 -6
+p7
+aVBrian Grant POR 04/30/1998 POR vs. LAL L 33 18 5 10 50.0 0 0 - 8 8 100.0 6 6 12 1 1 0 0 5 1
+p8
+aVJermaine O'Neal POR 04/30/1998 POR vs. LAL L 3 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 2 0 1 0
+p9
+aVKelvin Cato POR 04/30/1998 POR vs. LAL L 14 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 0 0 1 0 3 -3
+p10
+aVWalt Williams POR 04/30/1998 POR vs. LAL L 26 7 2 7 28.6 1 3 33.3 2 3 66.7 2 1 3 2 0 0 0 5 -13
+p11
+aVGary Grant POR 04/28/1998 POR vs. LAL W 10 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 3 0 0 0 1 4
+p12
+aVArvydas Sabonis POR 04/28/1998 POR vs. LAL W 34 13 5 9 55.6 0 0 - 3 4 75.0 2 6 8 2 2 1 2 6 3
+p13
+aVKelvin Cato POR 04/28/1998 POR vs. LAL W 12 7 2 3 66.7 0 0 - 3 4 75.0 0 3 3 1 0 2 0 2 1
+p14
+aVBrian Grant POR 04/28/1998 POR vs. LAL W 24 13 5 10 50.0 0 0 - 3 3 100.0 6 6 12 1 1 1 3 5 4
+p15
+aVIsaiah Rider POR 04/28/1998 POR vs. LAL W 40 18 6 19 31.6 0 3 0.0 6 8 75.0 2 8 10 3 2 0 4 2 12
+p16
+aVStacey Augmon POR 04/28/1998 POR vs. LAL W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -7
+p17
+aVRasheed Wallace POR 04/28/1998 POR vs. LAL W 42 11 5 11 45.5 1 1 100.0 0 2 0.0 3 4 7 2 1 0 1 5 4
+p18
+aVWalt Williams POR 04/28/1998 POR vs. LAL W 30 17 6 12 50.0 1 4 25.0 4 6 66.7 1 7 8 1 0 0 1 1 3
+p19
+aVDamon Stoudamire POR 04/28/1998 POR vs. LAL W 37 18 5 10 50.0 1 3 33.3 7 7 100.0 0 1 1 6 1 0 5 3 1
+p20
+aVKelvin Cato POR 04/26/1998 POR @ LAL L 20 10 3 6 50.0 0 0 - 4 5 80.0 1 1 2 0 1 1 1 3 -4
+p21
+aVBrian Grant POR 04/26/1998 POR @ LAL L 35 15 7 10 70.0 0 0 - 1 2 50.0 2 5 7 1 1 2 1 5 -4
+p22
+aVGary Grant POR 04/26/1998 POR @ LAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 12
+p23
+aVStacey Augmon POR 04/26/1998 POR @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -2
+p24
+aVWalt Williams POR 04/26/1998 POR @ LAL L 28 15 5 7 71.4 4 5 80.0 1 1 100.0 0 2 2 4 0 0 0 6 5
+p25
+aVArvydas Sabonis POR 04/26/1998 POR @ LAL L 13 6 2 5 40.0 0 0 - 2 2 100.0 2 5 7 1 2 1 2 4 -2
+p26
+aVAlton Lister POR 04/26/1998 POR @ LAL L 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -5
+p27
+aVRasheed Wallace POR 04/26/1998 POR @ LAL L 42 12 6 11 54.5 0 1 0.0 0 0 - 2 5 7 2 1 1 1 4 -18
+p28
+aVDamon Stoudamire POR 04/26/1998 POR @ LAL L 46 17 7 17 41.2 1 4 25.0 2 2 100.0 2 2 4 14 1 1 6 3 -18
+p29
+aVIsaiah Rider POR 04/26/1998 POR @ LAL L 40 24 8 15 53.3 1 5 20.0 7 9 77.8 0 2 2 4 1 0 4 5 -9
+p30
+aVGary Grant POR 04/24/1998 POR @ LAL L 10 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 2 1 1 2 1 4
+p31
+aVStacey Augmon POR 04/24/1998 POR @ LAL L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -3
+p32
+aVAlton Lister POR 04/24/1998 POR @ LAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 1 4 -8
+p33
+aVRasheed Wallace POR 04/24/1998 POR @ LAL L 41 18 6 12 50.0 0 0 - 6 7 85.7 2 1 3 5 0 0 1 2 -3
+p34
+aVArvydas Sabonis POR 04/24/1998 POR @ LAL L 24 15 5 11 45.5 0 0 - 5 6 83.3 2 7 9 1 1 1 3 5 5
+p35
+aVDamon Stoudamire POR 04/24/1998 POR @ LAL L 37 12 4 14 28.6 2 6 33.3 2 2 100.0 2 5 7 10 2 0 4 3 -3
+p36
+aVWalt Williams POR 04/24/1998 POR @ LAL L 15 14 4 5 80.0 2 3 66.7 4 4 100.0 0 1 1 2 1 0 0 6 2
+p37
+aVKelvin Cato POR 04/24/1998 POR @ LAL L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 3 3 4 1
+p38
+aVBrian Grant POR 04/24/1998 POR @ LAL L 40 7 2 6 33.3 0 0 - 3 5 60.0 4 8 12 3 1 0 1 5 0
+p39
+aVIsaiah Rider POR 04/24/1998 POR @ LAL L 43 25 10 19 52.6 0 1 0.0 5 7 71.4 1 1 2 3 0 0 6 3 -5
+p40
+a.

@@ -1,0 +1,1720 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJohn Wall WAS 04/13/2011 WAS @ CLE L 24 10 4 6 66.7 0 1 0.0 2 2 100.0 0 5 5 4 4 1 1 0 12
+p2
+aVHamady Ndiaye WAS 04/13/2011 WAS @ CLE L 10 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 2 0 3 -8
+p3
+aVOthyus Jeffers WAS 04/13/2011 WAS @ CLE L 25 7 3 9 33.3 0 0 - 1 2 50.0 3 4 7 2 1 0 0 3 -19
+p4
+aVAndray Blatche WAS 04/13/2011 WAS @ CLE L 24 20 7 13 53.8 0 1 0.0 6 9 66.7 3 4 7 4 2 0 5 1 12
+p5
+aVJaVale McGee WAS 04/13/2011 WAS @ CLE L 19 10 5 7 71.4 0 0 - 0 0 - 1 3 4 0 0 2 1 2 9
+p6
+aVLarry Owens WAS 04/13/2011 WAS @ CLE L 24 3 1 6 16.7 1 3 33.3 0 0 - 0 2 2 4 0 2 1 4 -19
+p7
+aVKevin Seraphin WAS 04/13/2011 WAS @ CLE L 18 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 0 2 2 5 -8
+p8
+aVMaurice Evans WAS 04/13/2011 WAS @ CLE L 24 15 6 7 85.7 3 3 100.0 0 0 - 0 0 0 1 2 0 1 2 12
+p9
+aVMustafa Shakur WAS 04/13/2011 WAS @ CLE L 16 8 4 13 30.8 0 1 0.0 0 0 - 2 0 2 3 2 0 2 2 -5
+p10
+aVJordan Crawford WAS 04/13/2011 WAS @ CLE L 30 4 2 14 14.3 0 3 0.0 0 0 - 1 1 2 6 0 0 3 2 -2
+p11
+aVYi Jianlian WAS 04/13/2011 WAS @ CLE L 24 10 4 10 40.0 0 0 - 2 2 100.0 4 8 12 0 0 1 0 1 -19
+p12
+aVJordan Crawford WAS 04/11/2011 WAS vs. BOS W 46 17 8 19 42.1 1 2 50.0 0 0 - 0 2 2 6 1 0 5 3 -13
+p13
+aVAndray Blatche WAS 04/11/2011 WAS vs. BOS W 29 16 7 12 58.3 0 0 - 2 4 50.0 0 2 2 0 1 4 3 6 -6
+p14
+aVJaVale McGee WAS 04/11/2011 WAS vs. BOS W 30 13 4 12 33.3 0 0 - 5 6 83.3 3 6 9 1 1 5 2 6 0
+p15
+aVJohn Wall WAS 04/11/2011 WAS vs. BOS W 46 24 5 17 29.4 0 0 - 14 15 93.3 0 9 9 3 1 1 1 4 -6
+p16
+aVMaurice Evans WAS 04/11/2011 WAS vs. BOS W 21 2 1 6 16.7 0 1 0.0 0 0 - 1 4 5 0 0 1 1 2 -11
+p17
+aVKevin Seraphin WAS 04/11/2011 WAS vs. BOS W 20 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 2 0 0 3 2
+p18
+aVOthyus Jeffers WAS 04/11/2011 WAS vs. BOS W 23 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 1 2 0 2 1 19
+p19
+aVYi Jianlian WAS 04/11/2011 WAS vs. BOS W 27 6 3 8 37.5 0 0 - 0 0 - 3 7 10 2 1 0 0 2 7
+p20
+aVLarry Owens WAS 04/11/2011 WAS vs. BOS W 22 7 2 3 66.7 1 2 50.0 2 5 40.0 0 1 1 0 4 0 3 4 13
+p21
+aVYi Jianlian WAS 04/09/2011 WAS vs. ATL W 21 15 5 13 38.5 0 0 - 5 6 83.3 6 3 9 1 0 0 0 1 13
+p22
+aVAndray Blatche WAS 04/09/2011 WAS vs. ATL W 27 23 9 15 60.0 0 0 - 5 6 83.3 2 5 7 1 2 1 4 1 19
+p23
+aVOthyus Jeffers WAS 04/09/2011 WAS vs. ATL W 30 13 4 7 57.1 0 0 - 5 6 83.3 2 9 11 2 3 0 0 2 24
+p24
+aVJohn Wall WAS 04/09/2011 WAS vs. ATL W 32 19 8 15 53.3 0 1 0.0 3 3 100.0 1 4 5 7 2 1 2 2 24
+p25
+aVKevin Seraphin WAS 04/09/2011 WAS vs. ATL W 21 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 1 1 1 3 20
+p26
+aVLarry Owens WAS 04/09/2011 WAS vs. ATL W 22 10 4 8 50.0 2 3 66.7 0 0 - 0 0 0 1 1 2 0 2 19
+p27
+aVJaVale McGee WAS 04/09/2011 WAS vs. ATL W 27 12 5 9 55.6 0 0 - 2 6 33.3 3 4 7 0 0 2 0 1 12
+p28
+aVMaurice Evans WAS 04/09/2011 WAS vs. ATL W 26 10 5 5 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 13
+p29
+aVJordan Crawford WAS 04/09/2011 WAS vs. ATL W 27 6 3 9 33.3 0 0 - 0 0 - 0 3 3 8 1 0 1 3 10
+p30
+aVMustafa Shakur WAS 04/09/2011 WAS vs. ATL W 7 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 1 0 6
+p31
+aVOthyus Jeffers WAS 04/08/2011 WAS @ BOS L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 9
+p32
+aVKevin Seraphin WAS 04/08/2011 WAS @ BOS L 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 13
+p33
+aVJaVale McGee WAS 04/08/2011 WAS @ BOS L 31 15 7 10 70.0 0 0 - 1 7 14.3 5 5 10 0 0 1 6 3 -30
+p34
+aVJordan Crawford WAS 04/08/2011 WAS @ BOS L 40 19 8 18 44.4 0 2 0.0 3 3 100.0 1 0 1 3 1 0 3 4 -21
+p35
+aVLarry Owens WAS 04/08/2011 WAS @ BOS L 26 2 1 4 25.0 0 1 0.0 0 0 - 1 5 6 0 1 1 1 2 1
+p36
+aVJohn Wall WAS 04/08/2011 WAS @ BOS L 41 20 7 18 38.9 1 2 50.0 5 6 83.3 0 2 2 7 5 0 7 4 -20
+p37
+aVYi Jianlian WAS 04/08/2011 WAS @ BOS L 12 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 3 1
+p38
+aVAndray Blatche WAS 04/08/2011 WAS @ BOS L 42 20 7 14 50.0 0 0 - 6 8 75.0 4 6 10 1 1 0 4 2 -16
+p39
+aVMaurice Evans WAS 04/08/2011 WAS @ BOS L 22 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 2 1 0 0 4 -17
+p40
+aVJordan Crawford WAS 04/06/2011 WAS @ IND L 39 29 9 23 39.1 1 4 25.0 10 10 100.0 0 0 0 2 2 0 2 1 -24
+p41
+aVOthyus Jeffers WAS 04/06/2011 WAS @ IND L 33 13 3 5 60.0 0 0 - 7 12 58.3 1 2 3 0 1 0 1 1 -2
+p42
+aVJohn Wall WAS 04/06/2011 WAS @ IND L 28 19 7 14 50.0 2 2 100.0 3 3 100.0 1 8 9 4 2 0 6 4 -17
+p43
+aVJaVale McGee WAS 04/06/2011 WAS @ IND L 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 2 5 -12
+p44
+aVLarry Owens WAS 04/06/2011 WAS @ IND L 17 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 2 1 0 0 2 -5
+p45
+aVMaurice Evans WAS 04/06/2011 WAS @ IND L 23 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 0 1 1 2 -25
+p46
+aVYi Jianlian WAS 04/06/2011 WAS @ IND L 26 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 0 1 1 1 2 -5
+p47
+aVKevin Seraphin WAS 04/06/2011 WAS @ IND L 18 4 2 6 33.3 0 0 - 0 0 - 4 1 5 1 1 0 1 3 -4
+p48
+aVMustafa Shakur WAS 04/06/2011 WAS @ IND L 11 7 3 5 60.0 1 1 100.0 0 2 0.0 0 1 1 1 0 0 1 0 -2
+p49
+aVAndray Blatche WAS 04/06/2011 WAS @ IND L 34 23 9 19 47.4 0 0 - 5 7 71.4 5 5 10 0 1 1 2 2 -24
+p50
+aVJordan Crawford WAS 04/05/2011 WAS vs. DET W 41 17 6 17 35.3 1 3 33.3 4 4 100.0 0 3 3 4 1 0 3 2 1
+p51
+aVYi Jianlian WAS 04/05/2011 WAS vs. DET W 14 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 2 0 3 -6
+p52
+aVJaVale McGee WAS 04/05/2011 WAS vs. DET W 33 8 4 5 80.0 0 0 - 0 2 0.0 0 8 8 2 0 3 3 5 17
+p53
+aVAndray Blatche WAS 04/05/2011 WAS vs. DET W 41 26 8 18 44.4 0 0 - 10 12 83.3 6 4 10 2 6 2 4 2 3
+p54
+aVJohn Wall WAS 04/05/2011 WAS vs. DET W 46 26 6 15 40.0 0 1 0.0 14 16 87.5 0 6 6 12 4 2 5 1 6
+p55
+aVMustafa Shakur WAS 04/05/2011 WAS vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 1
+p56
+aVKevin Seraphin WAS 04/05/2011 WAS vs. DET W 8 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 3 1 -10
+p57
+aVMaurice Evans WAS 04/05/2011 WAS vs. DET W 36 20 9 13 69.2 2 6 33.3 0 1 0.0 1 2 3 0 1 1 0 2 6
+p58
+aVOthyus Jeffers WAS 04/05/2011 WAS vs. DET W 17 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -8
+p59
+aVJordan Crawford WAS 04/03/2011 WAS @ CHA W 42 23 10 20 50.0 2 5 40.0 1 1 100.0 3 2 5 3 2 0 1 2 8
+p60
+aVCartier Martin WAS 04/03/2011 WAS @ CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 3
+p61
+aVOthyus Jeffers WAS 04/03/2011 WAS @ CHA W 16 3 0 3 0.0 0 1 0.0 3 4 75.0 2 2 4 2 0 0 0 1 -8
+p62
+aVAndray Blatche WAS 04/03/2011 WAS @ CHA W 35 25 10 19 52.6 0 0 - 5 7 71.4 5 12 17 2 3 1 1 3 8
+p63
+aVJohn Wall WAS 04/03/2011 WAS @ CHA W 42 18 7 12 58.3 0 1 0.0 4 6 66.7 0 5 5 5 3 2 6 2 15
+p64
+aVKevin Seraphin WAS 04/03/2011 WAS @ CHA W 12 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -6
+p65
+aVJaVale McGee WAS 04/03/2011 WAS @ CHA W 36 15 7 16 43.8 0 0 - 1 2 50.0 2 5 7 2 1 3 1 3 12
+p66
+aVMaurice Evans WAS 04/03/2011 WAS @ CHA W 42 11 4 11 36.4 0 3 0.0 3 3 100.0 1 5 6 2 0 0 1 3 0
+p67
+aVYi Jianlian WAS 04/03/2011 WAS @ CHA W 13 2 1 4 25.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 3 -2
+p68
+aVYi Jianlian WAS 04/01/2011 WAS vs. CLE W 17 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 0 1 0 1 5
+p69
+aVCartier Martin WAS 04/01/2011 WAS vs. CLE W 22 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 0 0 0 0 3 2
+p70
+aVMaurice Evans WAS 04/01/2011 WAS vs. CLE W 36 7 2 7 28.6 1 2 50.0 2 2 100.0 2 1 3 0 1 0 0 0 3
+p71
+aVHamady Ndiaye WAS 04/01/2011 WAS vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p72
+aVMustafa Shakur WAS 04/01/2011 WAS vs. CLE W 10 0 0 2 0.0 0 0 - 0 2 0.0 1 2 3 3 0 0 2 1 -2
+p73
+aVKevin Seraphin WAS 04/01/2011 WAS vs. CLE W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -7
+p74
+aVAndray Blatche WAS 04/01/2011 WAS vs. CLE W 40 36 15 32 46.9 0 0 - 6 9 66.7 16 3 19 4 1 1 4 3 7
+p75
+aVJaVale McGee WAS 04/01/2011 WAS vs. CLE W 31 25 11 15 73.3 0 0 - 3 7 42.9 1 7 8 0 0 3 1 5 13
+p76
+aVOthyus Jeffers WAS 04/01/2011 WAS vs. CLE W 33 13 5 7 71.4 0 0 - 3 5 60.0 2 2 4 0 3 0 1 5 7
+p77
+aVJordan Crawford WAS 04/01/2011 WAS vs. CLE W 43 21 8 18 44.4 1 2 50.0 4 5 80.0 2 8 10 11 0 2 3 2 14
+p78
+aVOthyus Jeffers WAS 03/30/2011 WAS vs. MIA L 29 15 6 7 85.7 0 0 - 3 5 60.0 2 6 8 0 1 0 2 3 -20
+p79
+aVMustafa Shakur WAS 03/30/2011 WAS vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p80
+aVYi Jianlian WAS 03/30/2011 WAS vs. MIA L 20 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 5 -1
+p81
+aVAndray Blatche WAS 03/30/2011 WAS vs. MIA L 27 14 6 15 40.0 0 0 - 2 4 50.0 3 5 8 2 3 0 1 5 -15
+p82
+aVKevin Seraphin WAS 03/30/2011 WAS vs. MIA L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 1 1 2 1
+p83
+aVCartier Martin WAS 03/30/2011 WAS vs. MIA L 18 4 1 4 25.0 1 3 33.3 1 2 50.0 0 2 2 3 0 0 2 3 -6
+p84
+aVJaVale McGee WAS 03/30/2011 WAS vs. MIA L 36 12 4 7 57.1 0 0 - 4 6 66.7 2 3 5 0 0 4 1 4 -10
+p85
+aVJordan Crawford WAS 03/30/2011 WAS vs. MIA L 46 39 12 24 50.0 5 8 62.5 10 10 100.0 0 3 3 4 0 0 5 3 -11
+p86
+aVHamady Ndiaye WAS 03/30/2011 WAS vs. MIA L 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p87
+aVJohn Wall WAS 03/30/2011 WAS vs. MIA L 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 5 0 0 2 1 0
+p88
+aVMaurice Evans WAS 03/30/2011 WAS vs. MIA L 39 21 8 14 57.1 3 5 60.0 2 2 100.0 3 2 5 0 2 1 0 4 -14
+p89
+aVCartier Martin WAS 03/28/2011 WAS @ UTA W 20 6 2 7 28.6 2 6 33.3 0 0 - 0 3 3 2 1 0 2 1 7
+p90
+aVJohn Wall WAS 03/28/2011 WAS @ UTA W 50 28 10 20 50.0 0 2 0.0 8 10 80.0 1 5 6 7 1 0 2 4 4
+p91
+aVJaVale McGee WAS 03/28/2011 WAS @ UTA W 49 11 4 12 33.3 0 0 - 3 4 75.0 5 12 17 1 0 3 0 3 11
+p92
+aVHamady Ndiaye WAS 03/28/2011 WAS @ UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p93
+aVKevin Seraphin WAS 03/28/2011 WAS @ UTA W 21 6 3 3 100.0 0 0 - 0 0 - 1 7 8 0 2 1 1 4 7
+p94
+aVJordan Crawford WAS 03/28/2011 WAS @ UTA W 44 25 9 25 36.0 1 10 10.0 6 7 85.7 2 3 5 2 4 0 2 1 -3
+p95
+aVMaurice Evans WAS 03/28/2011 WAS @ UTA W 34 12 4 13 30.8 2 6 33.3 2 2 100.0 1 2 3 1 0 1 2 5 -3
+p96
+aVOthyus Jeffers WAS 03/28/2011 WAS @ UTA W 21 6 1 4 25.0 1 2 50.0 3 6 50.0 5 1 6 1 0 0 2 1 9
+p97
+aVYi Jianlian WAS 03/28/2011 WAS @ UTA W 23 6 3 8 37.5 0 0 - 0 0 - 1 4 5 0 0 2 1 6 -3
+p98
+aVKevin Seraphin WAS 03/27/2011 WAS @ GSW L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -3
+p99
+aVYi Jianlian WAS 03/27/2011 WAS @ GSW L 33 12 6 14 42.9 0 0 - 0 0 - 2 8 10 1 0 0 2 2 3
+p100
+aVNick Young WAS 03/27/2011 WAS @ GSW L 13 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p101
+aVCartier Martin WAS 03/27/2011 WAS @ GSW L 9 5 1 3 33.3 1 3 33.3 2 2 100.0 0 0 0 1 0 0 0 2 7
+p102
+aVJaVale McGee WAS 03/27/2011 WAS @ GSW L 40 28 9 12 75.0 0 0 - 10 11 90.9 7 11 18 0 0 5 3 2 -11
+p103
+aVOthyus Jeffers WAS 03/27/2011 WAS @ GSW L 21 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 3 2 0 0 3 5
+p104
+aVJordan Crawford WAS 03/27/2011 WAS @ GSW L 37 11 5 21 23.8 0 4 0.0 1 1 100.0 1 4 5 7 0 0 3 4 -22
+p105
+aVMaurice Evans WAS 03/27/2011 WAS @ GSW L 36 23 8 15 53.3 2 4 50.0 5 6 83.3 4 4 8 0 0 1 1 0 -15
+p106
+aVJohn Wall WAS 03/27/2011 WAS @ GSW L 44 18 5 16 31.3 0 3 0.0 8 10 80.0 0 2 2 12 2 1 3 1 -15
+p107
+aVOthyus Jeffers WAS 03/25/2011 WAS @ DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p108
+aVMustafa Shakur WAS 03/25/2011 WAS @ DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 2
+p109
+aVNick Young WAS 03/25/2011 WAS @ DEN L 33 10 4 15 26.7 0 3 0.0 2 2 100.0 0 1 1 0 1 0 2 2 -20
+p110
+aVTrevor Booker WAS 03/25/2011 WAS @ DEN L 40 10 4 7 57.1 0 0 - 2 4 50.0 2 8 10 2 1 3 1 3 -14
+p111
+aVKevin Seraphin WAS 03/25/2011 WAS @ DEN L 9 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -9
+p112
+aVYi Jianlian WAS 03/25/2011 WAS @ DEN L 29 7 3 7 42.9 0 0 - 1 2 50.0 3 4 7 0 2 0 2 3 -6
+p113
+aVJohn Wall WAS 03/25/2011 WAS @ DEN L 41 13 2 10 20.0 0 1 0.0 9 9 100.0 0 2 2 6 0 3 4 3 -18
+p114
+aVHamady Ndiaye WAS 03/25/2011 WAS @ DEN L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p115
+aVJaVale McGee WAS 03/25/2011 WAS @ DEN L 23 13 5 13 38.5 0 0 - 3 4 75.0 6 7 13 0 0 0 1 4 -9
+p116
+aVJordan Crawford WAS 03/25/2011 WAS @ DEN L 34 19 8 16 50.0 3 5 60.0 0 0 - 1 1 2 4 2 0 1 2 -10
+p117
+aVMaurice Evans WAS 03/25/2011 WAS @ DEN L 22 16 8 15 53.3 0 2 0.0 0 0 - 4 3 7 0 1 0 0 1 -15
+p118
+aVHamady Ndiaye WAS 03/23/2011 WAS @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p119
+aVTrevor Booker WAS 03/23/2011 WAS @ LAC L 23 8 2 6 33.3 0 0 - 4 4 100.0 2 2 4 2 1 0 0 4 10
+p120
+aVOthyus Jeffers WAS 03/23/2011 WAS @ LAC L 22 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 4 1 0 1 3 1
+p121
+aVJohn Wall WAS 03/23/2011 WAS @ LAC L 51 32 12 26 46.2 0 0 - 8 11 72.7 1 4 5 10 1 1 6 2 -12
+p122
+aVJordan Crawford WAS 03/23/2011 WAS @ LAC L 53 25 10 28 35.7 2 9 22.2 3 4 75.0 2 5 7 10 4 0 7 3 -10
+p123
+aVYi Jianlian WAS 03/23/2011 WAS @ LAC L 42 18 9 14 64.3 0 0 - 0 0 - 2 5 7 1 2 0 2 5 -14
+p124
+aVMaurice Evans WAS 03/23/2011 WAS @ LAC L 37 7 2 9 22.2 1 4 25.0 2 2 100.0 1 1 2 2 1 1 0 4 1
+p125
+aVJaVale McGee WAS 03/23/2011 WAS @ LAC L 51 22 11 14 78.6 0 0 - 0 2 0.0 4 9 13 0 2 4 1 3 1
+p126
+aVKevin Seraphin WAS 03/23/2011 WAS @ LAC L 8 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 5 -15
+p127
+aVMustafa Shakur WAS 03/22/2011 WAS @ POR L 10 8 4 5 80.0 0 0 - 0 0 - 0 1 1 0 0 0 3 0 -12
+p128
+aVJaVale McGee WAS 03/22/2011 WAS @ POR L 24 8 3 6 50.0 0 0 - 2 3 66.7 1 6 7 1 1 1 2 4 -16
+p129
+aVCartier Martin WAS 03/22/2011 WAS @ POR L 13 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 2 2 0 1 1 -1
+p130
+aVJordan Crawford WAS 03/22/2011 WAS @ POR L 35 12 3 15 20.0 1 4 25.0 5 7 71.4 2 2 4 4 1 0 6 4 -29
+p131
+aVJohn Wall WAS 03/22/2011 WAS @ POR L 34 9 3 12 25.0 0 0 - 3 4 75.0 0 3 3 7 3 0 4 4 -20
+p132
+aVKevin Seraphin WAS 03/22/2011 WAS @ POR L 17 10 5 9 55.6 0 0 - 0 0 - 2 1 3 0 0 0 1 5 -21
+p133
+aVMaurice Evans WAS 03/22/2011 WAS @ POR L 29 6 2 8 25.0 2 3 66.7 0 0 - 2 1 3 0 1 0 3 2 -31
+p134
+aVYi Jianlian WAS 03/22/2011 WAS @ POR L 28 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 1 1 1 2 2 -19
+p135
+aVTrevor Booker WAS 03/22/2011 WAS @ POR L 33 9 2 3 66.7 0 0 - 5 6 83.3 1 2 3 0 0 1 2 2 -22
+p136
+aVHamady Ndiaye WAS 03/22/2011 WAS @ POR L 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 1 2 2
+p137
+aVOthyus Jeffers WAS 03/22/2011 WAS @ POR L 10 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 2 0 2 1 -6
+p138
+aVMaurice Evans WAS 03/20/2011 WAS vs. NJN W 32 15 7 11 63.6 1 2 50.0 0 0 - 1 1 2 1 1 1 2 4 13
+p139
+aVJaVale McGee WAS 03/20/2011 WAS vs. NJN W 38 16 8 9 88.9 0 0 - 0 0 - 3 4 7 3 1 2 1 3 5
+p140
+aVJohn Wall WAS 03/20/2011 WAS vs. NJN W 38 26 11 22 50.0 0 2 0.0 4 6 66.7 2 4 6 8 4 0 4 1 1
+p141
+aVYi Jianlian WAS 03/20/2011 WAS vs. NJN W 36 9 3 8 37.5 0 0 - 3 4 75.0 0 4 4 1 3 0 0 1 2
+p142
+aVKevin Seraphin WAS 03/20/2011 WAS vs. NJN W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -1
+p143
+aVOthyus Jeffers WAS 03/20/2011 WAS vs. NJN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 3 0
+p144
+aVCartier Martin WAS 03/20/2011 WAS vs. NJN W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p145
+aVJordan Crawford WAS 03/20/2011 WAS vs. NJN W 44 21 8 17 47.1 0 2 0.0 5 5 100.0 0 4 4 3 2 1 0 0 12
+p146
+aVTrevor Booker WAS 03/20/2011 WAS vs. NJN W 34 9 4 10 40.0 0 1 0.0 1 2 50.0 4 4 8 3 1 1 2 1 -3
+p147
+aVJaVale McGee WAS 03/18/2011 WAS @ TOR L 29 11 4 10 40.0 0 0 - 3 6 50.0 7 5 12 2 1 4 1 5 -8
+p148
+aVOthyus Jeffers WAS 03/18/2011 WAS @ TOR L 11 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 1 5
+p149
+aVTrevor Booker WAS 03/18/2011 WAS @ TOR L 36 26 12 15 80.0 0 0 - 2 2 100.0 5 8 13 3 2 1 0 6 1
+p150
+aVHamady Ndiaye WAS 03/18/2011 WAS @ TOR L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 2 0 3 -9
+p151
+aVJohn Wall WAS 03/18/2011 WAS @ TOR L 42 21 5 14 35.7 1 1 100.0 10 12 83.3 0 2 2 7 0 0 2 4 -7
+p152
+aVKevin Seraphin WAS 03/18/2011 WAS @ TOR L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 2 3 -4
+p153
+aVYi Jianlian WAS 03/18/2011 WAS @ TOR L 33 9 4 10 40.0 0 0 - 1 3 33.3 2 2 4 1 0 1 1 3 -4
+p154
+aVJordan Crawford WAS 03/18/2011 WAS @ TOR L 42 25 12 27 44.4 0 5 0.0 1 2 50.0 1 1 2 3 1 0 5 2 -16
+p155
+aVMaurice Evans WAS 03/18/2011 WAS @ TOR L 29 15 4 7 57.1 1 4 25.0 6 6 100.0 2 4 6 0 3 1 1 1 -3
+p156
+aVJaVale McGee WAS 03/15/2011 WAS @ CHI L 39 11 5 14 35.7 0 0 - 1 3 33.3 3 9 12 1 0 12 2 4 -15
+p157
+aVYi Jianlian WAS 03/15/2011 WAS @ CHI L 41 14 5 9 55.6 0 0 - 4 7 57.1 2 4 6 0 2 0 1 4 -22
+p158
+aVMaurice Evans WAS 03/15/2011 WAS @ CHI L 29 4 2 9 22.2 0 4 0.0 0 0 - 1 2 3 1 1 0 0 0 -1
+p159
+aVHamady Ndiaye WAS 03/15/2011 WAS @ CHI L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p160
+aVKevin Seraphin WAS 03/15/2011 WAS @ CHI L 9 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 2 1 -4
+p161
+aVMustafa Shakur WAS 03/15/2011 WAS @ CHI L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p162
+aVTrevor Booker WAS 03/15/2011 WAS @ CHI L 25 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 2 2 -16
+p163
+aVJordan Crawford WAS 03/15/2011 WAS @ CHI L 48 27 10 21 47.6 3 7 42.9 4 6 66.7 0 3 3 4 0 0 2 3 -19
+p164
+aVJohn Wall WAS 03/15/2011 WAS @ CHI L 46 17 7 14 50.0 1 1 100.0 2 3 66.7 2 9 11 7 4 1 7 3 -23
+p165
+aVMaurice Evans WAS 03/14/2011 WAS vs. OKC L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -14
+p166
+aVMustafa Shakur WAS 03/14/2011 WAS vs. OKC L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 0 2
+p167
+aVJordan Crawford WAS 03/14/2011 WAS vs. OKC L 28 12 6 13 46.2 0 2 0.0 0 0 - 2 1 3 5 1 0 4 2 -6
+p168
+aVJohn Wall WAS 03/14/2011 WAS vs. OKC L 37 14 6 15 40.0 0 1 0.0 2 2 100.0 2 5 7 5 4 1 6 2 -21
+p169
+aVJaVale McGee WAS 03/14/2011 WAS vs. OKC L 25 14 6 10 60.0 0 0 - 2 2 100.0 5 4 9 1 0 5 2 3 -28
+p170
+aVKevin Seraphin WAS 03/14/2011 WAS vs. OKC L 22 12 5 9 55.6 0 0 - 2 2 100.0 3 0 3 0 3 0 1 1 -7
+p171
+aVHamady Ndiaye WAS 03/14/2011 WAS vs. OKC L 6 4 2 2 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 1 4
+p172
+aVNick Young WAS 03/14/2011 WAS vs. OKC L 27 11 4 16 25.0 0 4 0.0 3 4 75.0 0 1 1 1 0 0 2 2 -28
+p173
+aVJosh Howard WAS 03/14/2011 WAS vs. OKC L 11 0 0 6 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 0 -12
+p174
+aVYi Jianlian WAS 03/14/2011 WAS vs. OKC L 22 6 3 9 33.3 0 0 - 0 2 0.0 4 4 8 0 0 1 0 1 -12
+p175
+aVTrevor Booker WAS 03/14/2011 WAS vs. OKC L 41 14 4 11 36.4 0 0 - 6 9 66.7 7 6 13 1 1 2 0 0 -13
+p176
+aVMustafa Shakur WAS 03/12/2011 WAS vs. LAC L 3 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p177
+aVNick Young WAS 03/12/2011 WAS vs. LAC L 32 15 7 17 41.2 1 6 16.7 0 0 - 1 1 2 1 1 0 0 4 -11
+p178
+aVYi Jianlian WAS 03/12/2011 WAS vs. LAC L 8 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 2 5 -20
+p179
+aVTrevor Booker WAS 03/12/2011 WAS vs. LAC L 23 13 4 7 57.1 0 0 - 5 5 100.0 2 4 6 1 0 0 0 5 4
+p180
+aVJohn Wall WAS 03/12/2011 WAS vs. LAC L 42 25 9 23 39.1 0 1 0.0 7 10 70.0 1 6 7 8 1 1 4 2 -18
+p181
+aVJaVale McGee WAS 03/12/2011 WAS vs. LAC L 34 12 6 7 85.7 0 0 - 0 0 - 2 6 8 1 1 1 2 2 -11
+p182
+aVKevin Seraphin WAS 03/12/2011 WAS vs. LAC L 20 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 -8
+p183
+aVJosh Howard WAS 03/12/2011 WAS vs. LAC L 22 9 4 9 44.4 0 1 0.0 1 2 50.0 1 4 5 3 0 0 1 2 0
+p184
+aVJordan Crawford WAS 03/12/2011 WAS vs. LAC L 26 16 4 16 25.0 0 5 0.0 8 8 100.0 1 2 3 2 3 0 1 0 -5
+p185
+aVMaurice Evans WAS 03/12/2011 WAS vs. LAC L 20 8 2 6 33.3 2 3 66.7 2 2 100.0 0 0 0 0 0 0 0 2 -26
+p186
+aVHamady Ndiaye WAS 03/12/2011 WAS vs. LAC L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p187
+aVKevin Seraphin WAS 03/08/2011 WAS vs. MIL L 23 1 0 4 0.0 0 0 - 1 2 50.0 3 3 6 0 0 0 0 3 -16
+p188
+aVHamady Ndiaye WAS 03/08/2011 WAS vs. MIL L 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -3
+p189
+aVMaurice Evans WAS 03/08/2011 WAS vs. MIL L 33 11 5 11 45.5 1 1 100.0 0 0 - 2 1 3 2 0 0 1 1 -17
+p190
+aVAndray Blatche WAS 03/08/2011 WAS vs. MIL L 3 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 5
+p191
+aVJaVale McGee WAS 03/08/2011 WAS vs. MIL L 25 9 4 9 44.4 0 0 - 1 5 20.0 7 6 13 0 0 1 4 2 -3
+p192
+aVJordan Crawford WAS 03/08/2011 WAS vs. MIL L 27 22 9 17 52.9 1 5 20.0 3 3 100.0 1 3 4 3 2 0 5 0 -22
+p193
+aVJohn Wall WAS 03/08/2011 WAS vs. MIL L 40 10 4 17 23.5 0 1 0.0 2 4 50.0 3 6 9 7 3 1 5 3 -7
+p194
+aVNick Young WAS 03/08/2011 WAS vs. MIL L 33 10 5 13 38.5 0 4 0.0 0 1 0.0 0 3 3 2 1 1 5 3 -7
+p195
+aVYi Jianlian WAS 03/08/2011 WAS vs. MIL L 14 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -10
+p196
+aVMustafa Shakur WAS 03/08/2011 WAS vs. MIL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -6
+p197
+aVTrevor Booker WAS 03/08/2011 WAS vs. MIL L 32 8 4 9 44.4 0 0 - 0 0 - 2 6 8 1 0 4 0 0 -9
+p198
+aVJohn Wall WAS 03/06/2011 WAS @ DET L 45 24 6 15 40.0 0 2 0.0 12 13 92.3 1 4 5 7 0 0 4 1 -6
+p199
+aVMustafa Shakur WAS 03/06/2011 WAS @ DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p200
+aVCartier Martin WAS 03/06/2011 WAS @ DET L 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 6
+p201
+aVAndray Blatche WAS 03/06/2011 WAS @ DET L 28 21 9 19 47.4 0 0 - 3 4 75.0 2 7 9 1 0 0 3 5 5
+p202
+aVTrevor Booker WAS 03/06/2011 WAS @ DET L 29 10 3 5 60.0 0 0 - 4 4 100.0 2 1 3 0 1 0 2 3 -9
+p203
+aVKevin Seraphin WAS 03/06/2011 WAS @ DET L 8 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 2 -7
+p204
+aVMaurice Evans WAS 03/06/2011 WAS @ DET L 30 4 2 7 28.6 0 4 0.0 0 0 - 0 1 1 1 0 0 0 2 -10
+p205
+aVNick Young WAS 03/06/2011 WAS @ DET L 41 21 7 16 43.8 3 7 42.9 4 7 57.1 0 4 4 1 1 0 2 4 -7
+p206
+aVJaVale McGee WAS 03/06/2011 WAS @ DET L 30 12 5 6 83.3 0 0 - 2 4 50.0 0 2 2 1 1 3 0 1 -10
+p207
+aVYi Jianlian WAS 03/06/2011 WAS @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p208
+aVJordan Crawford WAS 03/06/2011 WAS @ DET L 22 7 3 10 30.0 1 3 33.3 0 0 - 1 0 1 3 2 0 0 1 -11
+p209
+aVTrevor Booker WAS 03/05/2011 WAS vs. MIN W 17 7 3 5 60.0 0 0 - 1 2 50.0 3 4 7 1 1 1 0 2 10
+p210
+aVAndray Blatche WAS 03/05/2011 WAS vs. MIN W 40 20 9 18 50.0 0 0 - 2 4 50.0 4 3 7 7 3 0 2 4 5
+p211
+aVJohn Wall WAS 03/05/2011 WAS vs. MIN W 39 18 8 17 47.1 0 0 - 2 6 33.3 2 9 11 8 1 0 2 2 8
+p212
+aVJaVale McGee WAS 03/05/2011 WAS vs. MIN W 29 14 5 9 55.6 0 0 - 4 6 66.7 3 4 7 0 1 2 2 4 5
+p213
+aVRashard Lewis WAS 03/05/2011 WAS vs. MIN W 23 10 3 11 27.3 2 4 50.0 2 2 100.0 1 0 1 1 0 0 2 2 1
+p214
+aVKevin Seraphin WAS 03/05/2011 WAS vs. MIN W 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -10
+p215
+aVYi Jianlian WAS 03/05/2011 WAS vs. MIN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p216
+aVJordan Crawford WAS 03/05/2011 WAS vs. MIN W 20 8 3 10 30.0 1 5 20.0 1 2 50.0 1 3 4 1 1 0 2 2 -3
+p217
+aVMustafa Shakur WAS 03/05/2011 WAS vs. MIN W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 2 0 -1
+p218
+aVCartier Martin WAS 03/05/2011 WAS vs. MIN W 27 7 2 8 25.0 2 4 50.0 1 2 50.0 1 4 5 1 1 1 0 1 12
+p219
+aVMaurice Evans WAS 03/05/2011 WAS vs. MIN W 25 15 5 10 50.0 3 5 60.0 2 2 100.0 0 1 1 0 2 0 1 1 6
+p220
+aVJordan Crawford WAS 03/02/2011 WAS vs. GSW L 12 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 0 0 0 0 2 6
+p221
+aVRashard Lewis WAS 03/02/2011 WAS vs. GSW L 5 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -1
+p222
+aVYi Jianlian WAS 03/02/2011 WAS vs. GSW L 6 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 0 0 1 2 -4
+p223
+aVJosh Howard WAS 03/02/2011 WAS vs. GSW L 19 13 4 9 44.4 0 0 - 5 6 83.3 0 5 5 1 0 1 1 2 -11
+p224
+aVJaVale McGee WAS 03/02/2011 WAS vs. GSW L 18 5 2 4 50.0 0 0 - 1 1 100.0 1 5 6 0 0 0 0 1 -13
+p225
+aVJohn Wall WAS 03/02/2011 WAS vs. GSW L 39 14 5 10 50.0 0 1 0.0 4 5 80.0 0 0 0 6 1 0 4 5 -7
+p226
+aVNick Young WAS 03/02/2011 WAS vs. GSW L 44 31 10 24 41.7 4 7 57.1 7 8 87.5 1 1 2 1 1 1 1 3 -1
+p227
+aVAndray Blatche WAS 03/02/2011 WAS vs. GSW L 39 20 8 14 57.1 0 0 - 4 7 57.1 4 5 9 6 1 1 2 1 -5
+p228
+aVMustafa Shakur WAS 03/02/2011 WAS vs. GSW L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 3
+p229
+aVTrevor Booker WAS 03/02/2011 WAS vs. GSW L 19 7 3 3 100.0 0 0 - 1 3 33.3 3 8 11 1 1 1 0 3 14
+p230
+aVKevin Seraphin WAS 03/02/2011 WAS vs. GSW L 11 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p231
+aVMaurice Evans WAS 03/02/2011 WAS vs. GSW L 21 4 2 9 22.2 0 2 0.0 0 0 - 0 0 0 0 1 0 0 5 2
+p232
+aVJohn Wall WAS 02/28/2011 WAS vs. CHI L 39 9 3 14 21.4 0 0 - 3 4 75.0 0 3 3 10 2 0 2 3 -20
+p233
+aVTrevor Booker WAS 02/28/2011 WAS vs. CHI L 19 4 2 6 33.3 0 0 - 0 1 0.0 1 3 4 1 0 2 1 1 -9
+p234
+aVKevin Seraphin WAS 02/28/2011 WAS vs. CHI L 18 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 1 2 2 3 -12
+p235
+aVRashard Lewis WAS 02/28/2011 WAS vs. CHI L 10 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 1 0 0 1 3 -7
+p236
+aVJordan Crawford WAS 02/28/2011 WAS vs. CHI L 16 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 2 3 0 4 1 -17
+p237
+aVNick Young WAS 02/28/2011 WAS vs. CHI L 36 14 6 15 40.0 2 6 33.3 0 0 - 1 4 5 1 1 0 2 1 -17
+p238
+aVAndray Blatche WAS 02/28/2011 WAS vs. CHI L 28 15 6 14 42.9 0 0 - 3 3 100.0 5 6 11 1 1 0 1 2 -10
+p239
+aVMaurice Evans WAS 02/28/2011 WAS vs. CHI L 20 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 1 0 0 0 2 -18
+p240
+aVMustafa Shakur WAS 02/28/2011 WAS vs. CHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p241
+aVYi Jianlian WAS 02/28/2011 WAS vs. CHI L 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p242
+aVJaVale McGee WAS 02/28/2011 WAS vs. CHI L 27 5 1 3 33.3 0 0 - 3 4 75.0 2 6 8 0 0 2 1 3 -13
+p243
+aVJosh Howard WAS 02/28/2011 WAS vs. CHI L 19 10 5 10 50.0 0 1 0.0 0 0 - 2 2 4 2 0 0 1 2 -12
+p244
+aVRashard Lewis WAS 02/26/2011 WAS vs. DAL L 33 13 5 7 71.4 3 3 100.0 0 0 - 0 3 3 1 1 0 1 5 -12
+p245
+aVMaurice Evans WAS 02/26/2011 WAS vs. DAL L 15 5 2 4 50.0 1 2 50.0 0 0 - 1 2 3 0 0 0 0 2 4
+p246
+aVJosh Howard WAS 02/26/2011 WAS vs. DAL L 29 9 3 9 33.3 0 0 - 3 5 60.0 1 5 6 2 0 0 1 0 -13
+p247
+aVTrevor Booker WAS 02/26/2011 WAS vs. DAL L 15 8 3 5 60.0 0 0 - 2 7 28.6 1 4 5 0 0 0 0 3 6
+p248
+aVKevin Seraphin WAS 02/26/2011 WAS vs. DAL L 14 8 4 5 80.0 0 0 - 0 0 - 3 3 6 0 0 0 1 2 -3
+p249
+aVJaVale McGee WAS 02/26/2011 WAS vs. DAL L 29 6 3 9 33.3 0 0 - 0 0 - 2 9 11 1 2 2 0 3 -3
+p250
+aVMike Bibby WAS 02/26/2011 WAS vs. DAL L 19 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 4 1 0 0 2 7
+p251
+aVYi Jianlian WAS 02/26/2011 WAS vs. DAL L 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 0
+p252
+aVNick Young WAS 02/26/2011 WAS vs. DAL L 31 14 7 16 43.8 0 4 0.0 0 0 - 0 3 3 2 1 0 2 2 -9
+p253
+aVJordan Crawford WAS 02/26/2011 WAS vs. DAL L 17 10 5 9 55.6 0 2 0.0 0 0 - 0 0 0 2 2 0 0 0 1
+p254
+aVJohn Wall WAS 02/26/2011 WAS vs. DAL L 32 24 11 26 42.3 1 1 100.0 1 4 25.0 2 3 5 5 0 1 4 2 -8
+p255
+aVMaurice Evans WAS 02/25/2011 WAS @ MIA L 14 7 3 6 50.0 1 4 25.0 0 0 - 1 1 2 0 0 0 2 2 -16
+p256
+aVMike Bibby WAS 02/25/2011 WAS @ MIA L 10 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 4 0 0 1 1 -19
+p257
+aVTrevor Booker WAS 02/25/2011 WAS @ MIA L 12 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -17
+p258
+aVJaVale McGee WAS 02/25/2011 WAS @ MIA L 36 18 9 16 56.3 0 0 - 0 3 0.0 6 11 17 0 1 0 1 4 -8
+p259
+aVJordan Crawford WAS 02/25/2011 WAS @ MIA L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p260
+aVNick Young WAS 02/25/2011 WAS @ MIA L 37 38 12 19 63.2 6 8 75.0 8 8 100.0 0 3 3 1 1 0 2 3 3
+p261
+aVJohn Wall WAS 02/25/2011 WAS @ MIA L 39 24 7 15 46.7 1 2 50.0 9 12 75.0 1 2 3 12 0 0 4 2 11
+p262
+aVRashard Lewis WAS 02/25/2011 WAS @ MIA L 21 5 2 9 22.2 1 3 33.3 0 0 - 2 2 4 1 1 1 1 3 6
+p263
+aVYi Jianlian WAS 02/25/2011 WAS @ MIA L 17 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 1 2 7
+p264
+aVKevin Seraphin WAS 02/25/2011 WAS @ MIA L 11 4 2 4 50.0 0 0 - 0 0 - 3 4 7 0 0 0 0 3 -4
+p265
+aVJosh Howard WAS 02/25/2011 WAS @ MIA L 36 9 4 11 36.4 1 4 25.0 0 0 - 0 5 5 3 0 0 0 6 -2
+p266
+aVRashard Lewis WAS 02/23/2011 WAS @ PHI L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 4 4 0 1 1 0 2 -8
+p267
+aVNick Young WAS 02/23/2011 WAS @ PHI L 32 15 6 15 40.0 2 3 66.7 1 1 100.0 0 2 2 0 0 0 1 3 -27
+p268
+aVJosh Howard WAS 02/23/2011 WAS @ PHI L 30 6 2 5 40.0 0 0 - 2 5 40.0 2 4 6 1 0 0 2 4 -26
+p269
+aVKevin Seraphin WAS 02/23/2011 WAS @ PHI L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 1 2 6
+p270
+aVJohn Wall WAS 02/23/2011 WAS @ PHI L 44 21 8 19 42.1 1 2 50.0 4 5 80.0 1 4 5 12 2 0 4 2 -18
+p271
+aVAl Thornton WAS 02/23/2011 WAS @ PHI L 19 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 4 -1
+p272
+aVJaVale McGee WAS 02/23/2011 WAS @ PHI L 12 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 0 -5
+p273
+aVAndray Blatche WAS 02/23/2011 WAS @ PHI L 29 16 6 16 37.5 0 0 - 4 4 100.0 1 1 2 2 0 0 1 1 -23
+p274
+aVTrevor Booker WAS 02/23/2011 WAS @ PHI L 18 21 9 10 90.0 0 0 - 3 3 100.0 4 1 5 1 1 1 0 2 -5
+p275
+aVYi Jianlian WAS 02/23/2011 WAS @ PHI L 14 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 1 0 0 1 1 -11
+p276
+aVCartier Martin WAS 02/23/2011 WAS @ PHI L 19 7 3 10 30.0 1 4 25.0 0 0 - 0 2 2 1 1 0 0 2 3
+p277
+aVAl Thornton WAS 02/22/2011 WAS vs. IND L 12 7 2 7 28.6 0 0 - 3 4 75.0 0 2 2 0 0 0 0 4 7
+p278
+aVAndray Blatche WAS 02/22/2011 WAS vs. IND L 32 21 9 16 56.3 0 0 - 3 3 100.0 1 4 5 5 2 0 3 1 -4
+p279
+aVJaVale McGee WAS 02/22/2011 WAS vs. IND L 22 5 2 4 50.0 0 0 - 1 2 50.0 1 7 8 1 1 1 2 4 -22
+p280
+aVCartier Martin WAS 02/22/2011 WAS vs. IND L 12 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 1 0 0 3 -6
+p281
+aVHilton Armstrong WAS 02/22/2011 WAS vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p282
+aVKevin Seraphin WAS 02/22/2011 WAS vs. IND L 15 7 3 6 50.0 0 0 - 1 1 100.0 3 0 3 1 0 0 1 5 7
+p283
+aVTrevor Booker WAS 02/22/2011 WAS vs. IND L 16 5 2 4 50.0 0 0 - 1 2 50.0 1 5 6 0 0 1 0 2 -13
+p284
+aVJosh Howard WAS 02/22/2011 WAS vs. IND L 29 14 7 16 43.8 0 1 0.0 0 0 - 2 3 5 3 0 0 2 2 -13
+p285
+aVJohn Wall WAS 02/22/2011 WAS vs. IND L 38 15 5 15 33.3 0 2 0.0 5 7 71.4 0 8 8 10 0 0 6 5 -29
+p286
+aVRashard Lewis WAS 02/22/2011 WAS vs. IND L 20 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 2 -3
+p287
+aVYi Jianlian WAS 02/22/2011 WAS vs. IND L 9 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -6
+p288
+aVNick Young WAS 02/22/2011 WAS vs. IND L 33 16 4 15 26.7 2 4 50.0 6 7 85.7 1 4 5 2 0 0 2 3 -7
+p289
+aVJosh Howard WAS 02/16/2011 WAS @ ORL L 24 3 1 10 10.0 0 1 0.0 1 3 33.3 0 7 7 1 0 0 1 1 -16
+p290
+aVTrevor Booker WAS 02/16/2011 WAS @ ORL L 22 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 0 0 0 -7
+p291
+aVHilton Armstrong WAS 02/16/2011 WAS @ ORL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -2
+p292
+aVKirk Hinrich WAS 02/16/2011 WAS @ ORL L 31 10 4 9 44.4 1 1 100.0 1 1 100.0 0 1 1 3 0 0 1 1 -15
+p293
+aVMustafa Shakur WAS 02/16/2011 WAS @ ORL L 5 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 0
+p294
+aVYi Jianlian WAS 02/16/2011 WAS @ ORL L 13 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 0
+p295
+aVAl Thornton WAS 02/16/2011 WAS @ ORL L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p296
+aVCartier Martin WAS 02/16/2011 WAS @ ORL L 30 5 2 13 15.4 1 7 14.3 0 0 - 3 4 7 0 1 1 0 3 -16
+p297
+aVJohn Wall WAS 02/16/2011 WAS @ ORL L 39 27 10 17 58.8 1 3 33.3 6 10 60.0 0 5 5 1 2 1 5 2 -22
+p298
+aVKevin Seraphin WAS 02/16/2011 WAS @ ORL L 18 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 0 3 2 4 -5
+p299
+aVAndray Blatche WAS 02/16/2011 WAS @ ORL L 31 15 6 17 35.3 0 1 0.0 3 4 75.0 3 6 9 1 1 1 4 3 -21
+p300
+aVJaVale McGee WAS 02/16/2011 WAS @ ORL L 14 4 1 6 16.7 0 0 - 2 3 66.7 2 3 5 0 0 0 1 3 -18
+p301
+aVTrevor Booker WAS 02/13/2011 WAS @ CLE W 17 2 1 5 20.0 0 0 - 0 0 - 4 4 8 1 0 2 0 3 2
+p302
+aVCartier Martin WAS 02/13/2011 WAS @ CLE W 21 2 0 3 0.0 0 3 0.0 2 2 100.0 2 1 3 2 0 1 1 1 -1
+p303
+aVJohn Wall WAS 02/13/2011 WAS @ CLE W 36 19 8 19 42.1 0 0 - 3 6 50.0 0 5 5 14 2 2 2 1 21
+p304
+aVKirk Hinrich WAS 02/13/2011 WAS @ CLE W 29 17 8 13 61.5 1 3 33.3 0 0 - 0 2 2 5 1 2 0 3 4
+p305
+aVNick Young WAS 02/13/2011 WAS @ CLE W 32 31 14 21 66.7 1 1 100.0 2 2 100.0 0 4 4 0 2 0 0 1 5
+p306
+aVJosh Howard WAS 02/13/2011 WAS @ CLE W 25 16 6 11 54.5 3 6 50.0 1 1 100.0 0 5 5 2 2 1 2 2 16
+p307
+aVJaVale McGee WAS 02/13/2011 WAS @ CLE W 31 9 4 6 66.7 0 0 - 1 2 50.0 1 4 5 1 0 2 0 5 21
+p308
+aVYi Jianlian WAS 02/13/2011 WAS @ CLE W 14 2 1 1 100.0 0 0 - 0 0 - 2 2 4 1 0 1 2 1 10
+p309
+aVKevin Seraphin WAS 02/13/2011 WAS @ CLE W 7 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -12
+p310
+aVAndray Blatche WAS 02/13/2011 WAS @ CLE W 27 17 8 11 72.7 0 0 - 1 1 100.0 4 5 9 5 2 1 4 5 9
+p311
+aVCartier Martin WAS 02/12/2011 WAS vs. SAS L 35 16 5 9 55.6 2 4 50.0 4 7 57.1 0 3 3 2 0 1 0 2 -8
+p312
+aVJohn Wall WAS 02/12/2011 WAS vs. SAS L 28 8 3 9 33.3 0 0 - 2 3 66.7 0 1 1 7 1 0 4 1 -27
+p313
+aVMustafa Shakur WAS 02/12/2011 WAS vs. SAS L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 7
+p314
+aVTrevor Booker WAS 02/12/2011 WAS vs. SAS L 30 7 3 5 60.0 0 0 - 1 2 50.0 2 6 8 1 0 3 1 2 -8
+p315
+aVAndray Blatche WAS 02/12/2011 WAS vs. SAS L 30 16 6 12 50.0 0 0 - 4 6 66.7 5 4 9 1 0 1 4 3 -24
+p316
+aVKevin Seraphin WAS 02/12/2011 WAS vs. SAS L 11 7 2 4 50.0 0 0 - 3 4 75.0 2 1 3 0 1 0 0 1 -3
+p317
+aVNick Young WAS 02/12/2011 WAS vs. SAS L 19 4 2 10 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 3 4 -9
+p318
+aVYi Jianlian WAS 02/12/2011 WAS vs. SAS L 19 9 4 7 57.1 0 1 0.0 1 2 50.0 2 1 3 0 0 0 0 0 -5
+p319
+aVJaVale McGee WAS 02/12/2011 WAS vs. SAS L 25 14 7 10 70.0 0 0 - 0 0 - 1 2 3 0 0 1 3 1 -17
+p320
+aVHilton Armstrong WAS 02/12/2011 WAS vs. SAS L 6 5 2 2 100.0 1 1 100.0 0 0 - 2 2 4 0 2 0 0 0 4
+p321
+aVKirk Hinrich WAS 02/12/2011 WAS vs. SAS L 31 6 3 10 30.0 0 1 0.0 0 0 - 0 1 1 3 0 1 1 3 -30
+p322
+aVAndray Blatche WAS 02/09/2011 WAS vs. MIL W 35 12 4 10 40.0 0 0 - 4 4 100.0 4 4 8 3 1 1 4 3 15
+p323
+aVKirk Hinrich WAS 02/09/2011 WAS vs. MIL W 21 10 4 11 36.4 1 1 100.0 1 1 100.0 0 2 2 4 2 1 2 1 -3
+p324
+aVJohn Wall WAS 02/09/2011 WAS vs. MIL W 34 15 5 9 55.6 1 1 100.0 4 4 100.0 0 7 7 6 2 1 3 3 14
+p325
+aVJaVale McGee WAS 02/09/2011 WAS vs. MIL W 37 16 6 11 54.5 0 0 - 4 4 100.0 3 14 17 1 0 3 1 3 15
+p326
+aVNick Young WAS 02/09/2011 WAS vs. MIL W 41 26 10 19 52.6 3 5 60.0 3 3 100.0 0 4 4 1 1 2 3 3 19
+p327
+aVCartier Martin WAS 02/09/2011 WAS vs. MIL W 23 15 5 8 62.5 5 7 71.4 0 0 - 3 1 4 0 0 0 1 2 9
+p328
+aVTrevor Booker WAS 02/09/2011 WAS vs. MIL W 12 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 1 0 1 1 1 -1
+p329
+aVKevin Seraphin WAS 02/09/2011 WAS vs. MIL W 7 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 2 3 -2
+p330
+aVRashard Lewis WAS 02/09/2011 WAS vs. MIL W 29 3 1 5 20.0 0 2 0.0 1 2 50.0 0 4 4 3 1 0 0 1 9
+p331
+aVHilton Armstrong WAS 02/09/2011 WAS vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p332
+aVJohn Wall WAS 02/05/2011 WAS vs. ATL L 32 18 8 13 61.5 0 0 - 2 7 28.6 2 4 6 6 1 1 2 5 -6
+p333
+aVAndray Blatche WAS 02/05/2011 WAS vs. ATL L 37 14 7 14 50.0 0 0 - 0 0 - 3 3 6 5 1 0 1 4 -10
+p334
+aVNick Young WAS 02/05/2011 WAS vs. ATL L 43 21 7 17 41.2 3 6 50.0 4 6 66.7 0 4 4 0 1 0 2 2 0
+p335
+aVJaVale McGee WAS 02/05/2011 WAS vs. ATL L 31 12 5 10 50.0 0 0 - 2 5 40.0 0 5 5 1 0 1 0 3 -1
+p336
+aVYi Jianlian WAS 02/05/2011 WAS vs. ATL L 10 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p337
+aVKirk Hinrich WAS 02/05/2011 WAS vs. ATL L 27 13 6 9 66.7 1 2 50.0 0 0 - 0 4 4 4 1 1 3 0 -8
+p338
+aVTrevor Booker WAS 02/05/2011 WAS vs. ATL L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 5 3
+p339
+aVAl Thornton WAS 02/05/2011 WAS vs. ATL L 18 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -5
+p340
+aVRashard Lewis WAS 02/05/2011 WAS vs. ATL L 31 10 4 9 44.4 2 4 50.0 0 0 - 1 4 5 1 1 1 1 3 -2
+p341
+aVKevin Seraphin WAS 02/04/2011 WAS vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p342
+aVAl Thornton WAS 02/04/2011 WAS vs. ORL L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 5
+p343
+aVRashard Lewis WAS 02/04/2011 WAS vs. ORL L 35 14 6 10 60.0 0 2 0.0 2 2 100.0 1 7 8 1 3 1 1 3 -22
+p344
+aVHilton Armstrong WAS 02/04/2011 WAS vs. ORL L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p345
+aVKirk Hinrich WAS 02/04/2011 WAS vs. ORL L 26 17 7 13 53.8 3 5 60.0 0 0 - 0 3 3 5 1 0 2 2 -1
+p346
+aVJaVale McGee WAS 02/04/2011 WAS vs. ORL L 17 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -7
+p347
+aVCartier Martin WAS 02/04/2011 WAS vs. ORL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p348
+aVNick Young WAS 02/04/2011 WAS vs. ORL L 36 17 7 20 35.0 0 2 0.0 3 5 60.0 0 1 1 2 0 0 3 2 -20
+p349
+aVAndray Blatche WAS 02/04/2011 WAS vs. ORL L 32 10 4 7 57.1 0 0 - 2 2 100.0 3 3 6 6 2 0 1 5 -22
+p350
+aVYi Jianlian WAS 02/04/2011 WAS vs. ORL L 18 6 3 9 33.3 0 0 - 0 0 - 1 5 6 2 0 0 2 1 2
+p351
+aVJohn Wall WAS 02/04/2011 WAS vs. ORL L 37 14 5 12 41.7 0 1 0.0 4 4 100.0 0 5 5 5 0 0 3 3 -17
+p352
+aVTrevor Booker WAS 02/04/2011 WAS vs. ORL L 24 6 3 5 60.0 0 0 - 0 0 - 1 5 6 1 0 6 1 0 -4
+p353
+aVTrevor Booker WAS 02/01/2011 WAS @ NOH L 14 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 1 2 1 -8
+p354
+aVJaVale McGee WAS 02/01/2011 WAS @ NOH L 19 9 4 5 80.0 0 0 - 1 3 33.3 0 3 3 0 0 1 0 1 1
+p355
+aVKirk Hinrich WAS 02/01/2011 WAS @ NOH L 36 10 3 7 42.9 1 3 33.3 3 4 75.0 0 1 1 1 3 0 3 3 -1
+p356
+aVYi Jianlian WAS 02/01/2011 WAS @ NOH L 18 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 1 0 -12
+p357
+aVRashard Lewis WAS 02/01/2011 WAS @ NOH L 28 4 2 6 33.3 0 1 0.0 0 0 - 2 1 3 1 1 0 1 6 -2
+p358
+aVCartier Martin WAS 02/01/2011 WAS @ NOH L 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -6
+p359
+aVAl Thornton WAS 02/01/2011 WAS @ NOH L 5 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 0 1 0 0 0 0
+p360
+aVNick Young WAS 02/01/2011 WAS @ NOH L 39 30 9 18 50.0 3 7 42.9 9 12 75.0 1 3 4 2 1 0 1 4 -5
+p361
+aVAndray Blatche WAS 02/01/2011 WAS @ NOH L 38 21 10 17 58.8 0 0 - 1 2 50.0 1 8 9 2 2 1 4 4 3
+p362
+aVJohn Wall WAS 02/01/2011 WAS @ NOH L 37 4 2 10 20.0 0 1 0.0 0 0 - 1 5 6 7 2 0 3 3 -10
+p363
+aVKirk Hinrich WAS 01/31/2011 WAS @ DAL L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 2 -2
+p364
+aVNick Young WAS 01/31/2011 WAS @ DAL L 38 18 6 20 30.0 0 3 0.0 6 9 66.7 1 2 3 2 1 1 0 3 -5
+p365
+aVYi Jianlian WAS 01/31/2011 WAS @ DAL L 29 14 6 12 50.0 0 0 - 2 2 100.0 3 8 11 0 4 1 0 4 -3
+p366
+aVTrevor Booker WAS 01/31/2011 WAS @ DAL L 11 0 0 0 - 0 0 - 0 2 0.0 1 2 3 0 0 0 0 4 -2
+p367
+aVJohn Wall WAS 01/31/2011 WAS @ DAL L 42 17 7 13 53.8 1 2 50.0 2 4 50.0 1 3 4 10 1 0 2 4 -11
+p368
+aVJaVale McGee WAS 01/31/2011 WAS @ DAL L 13 2 1 4 25.0 0 0 - 0 2 0.0 0 3 3 0 0 2 0 4 -7
+p369
+aVKevin Seraphin WAS 01/31/2011 WAS @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p370
+aVAl Thornton WAS 01/31/2011 WAS @ DAL L 15 2 1 3 33.3 0 0 - 0 1 0.0 0 2 2 1 0 0 0 2 0
+p371
+aVAndray Blatche WAS 01/31/2011 WAS @ DAL L 38 16 4 17 23.5 0 0 - 8 10 80.0 3 10 13 2 0 1 1 2 -11
+p372
+aVRashard Lewis WAS 01/31/2011 WAS @ DAL L 38 18 7 13 53.8 3 7 42.9 1 1 100.0 5 1 6 1 1 1 4 5 -7
+p373
+aVKirk Hinrich WAS 01/29/2011 WAS @ MEM L 19 9 3 9 33.3 1 3 33.3 2 3 66.7 1 1 2 3 0 0 1 3 -11
+p374
+aVYi Jianlian WAS 01/29/2011 WAS @ MEM L 15 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 0 0 0 0 0 -8
+p375
+aVKevin Seraphin WAS 01/29/2011 WAS @ MEM L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 4
+p376
+aVTrevor Booker WAS 01/29/2011 WAS @ MEM L 34 12 5 8 62.5 0 0 - 2 2 100.0 4 8 12 0 0 0 1 4 3
+p377
+aVCartier Martin WAS 01/29/2011 WAS @ MEM L 12 12 4 6 66.7 2 3 66.7 2 2 100.0 0 2 2 0 0 0 1 1 5
+p378
+aVRashard Lewis WAS 01/29/2011 WAS @ MEM L 29 10 4 10 40.0 1 4 25.0 1 2 50.0 0 2 2 1 1 1 1 3 -19
+p379
+aVHilton Armstrong WAS 01/29/2011 WAS @ MEM L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 3 -8
+p380
+aVAndray Blatche WAS 01/29/2011 WAS @ MEM L 33 10 4 12 33.3 0 1 0.0 2 2 100.0 1 8 9 4 0 3 0 0 -16
+p381
+aVJohn Wall WAS 01/29/2011 WAS @ MEM L 33 14 4 10 40.0 1 3 33.3 5 7 71.4 0 5 5 8 0 1 5 3 -7
+p382
+aVAl Thornton WAS 01/29/2011 WAS @ MEM L 27 12 5 8 62.5 0 0 - 2 2 100.0 1 0 1 1 1 0 2 1 -11
+p383
+aVNick Young WAS 01/29/2011 WAS @ MEM L 28 8 2 9 22.2 1 1 100.0 3 4 75.0 0 0 0 1 2 0 1 1 -2
+p384
+aVAl Thornton WAS 01/28/2011 WAS @ OKC L 20 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -6
+p385
+aVNick Young WAS 01/28/2011 WAS @ OKC L 52 32 13 33 39.4 1 4 25.0 5 7 71.4 1 2 3 1 1 0 1 3 0
+p386
+aVRashard Lewis WAS 01/28/2011 WAS @ OKC L 51 22 8 20 40.0 4 10 40.0 2 2 100.0 3 5 8 1 0 0 0 4 -8
+p387
+aVJohn Wall WAS 01/28/2011 WAS @ OKC L 52 13 5 19 26.3 1 4 25.0 2 4 50.0 0 5 5 10 2 0 0 2 -4
+p388
+aVMustafa Shakur WAS 01/28/2011 WAS @ OKC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p389
+aVTrevor Booker WAS 01/28/2011 WAS @ OKC L 45 21 9 11 81.8 0 0 - 3 6 50.0 5 7 12 0 0 0 2 6 0
+p390
+aVKevin Seraphin WAS 01/28/2011 WAS @ OKC L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -2
+p391
+aVHilton Armstrong WAS 01/28/2011 WAS @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p392
+aVYi Jianlian WAS 01/28/2011 WAS @ OKC L 28 9 2 6 33.3 0 0 - 5 6 83.3 3 8 11 2 1 1 0 3 -16
+p393
+aVAndray Blatche WAS 01/28/2011 WAS @ OKC L 31 13 6 12 50.0 0 0 - 1 1 100.0 1 1 2 3 3 0 1 4 4
+p394
+aVHilton Armstrong WAS 01/25/2011 WAS vs. DEN L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p395
+aVNick Young WAS 01/25/2011 WAS vs. DEN L 41 26 10 19 52.6 0 5 0.0 6 8 75.0 1 4 5 2 1 1 0 2 -8
+p396
+aVRashard Lewis WAS 01/25/2011 WAS vs. DEN L 34 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 2 1 3 3 3 -7
+p397
+aVJaVale McGee WAS 01/25/2011 WAS vs. DEN L 24 11 5 9 55.6 0 0 - 1 1 100.0 0 7 7 0 1 2 0 3 -9
+p398
+aVCartier Martin WAS 01/25/2011 WAS vs. DEN L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p399
+aVMustafa Shakur WAS 01/25/2011 WAS vs. DEN L 14 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 2 1 0 2 2 -7
+p400
+aVTrevor Booker WAS 01/25/2011 WAS vs. DEN L 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p401
+aVJohn Wall WAS 01/25/2011 WAS vs. DEN L 34 10 4 8 50.0 0 1 0.0 2 3 66.7 0 5 5 13 2 0 4 5 -4
+p402
+aVAl Thornton WAS 01/25/2011 WAS vs. DEN L 13 8 2 5 40.0 0 0 - 4 4 100.0 0 0 0 0 0 1 1 3 -4
+p403
+aVAndray Blatche WAS 01/25/2011 WAS vs. DEN L 38 25 8 14 57.1 0 0 - 9 9 100.0 2 7 9 4 3 1 2 2 -2
+p404
+aVYi Jianlian WAS 01/25/2011 WAS vs. DEN L 12 10 5 9 55.6 0 2 0.0 0 0 - 2 2 4 0 0 1 0 0 6
+p405
+aVKevin Seraphin WAS 01/25/2011 WAS vs. DEN L 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -11
+p406
+aVJaVale McGee WAS 01/24/2011 WAS @ NYK L 30 15 7 9 77.8 0 0 - 1 2 50.0 2 8 10 0 0 1 1 3 0
+p407
+aVHilton Armstrong WAS 01/24/2011 WAS @ NYK L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p408
+aVAl Thornton WAS 01/24/2011 WAS @ NYK L 24 10 4 6 66.7 0 0 - 2 3 66.7 1 4 5 1 2 0 2 4 -3
+p409
+aVMustafa Shakur WAS 01/24/2011 WAS @ NYK L 14 6 3 5 60.0 0 1 0.0 0 0 - 2 3 5 4 1 0 2 1 14
+p410
+aVKevin Seraphin WAS 01/24/2011 WAS @ NYK L 15 0 0 0 - 0 0 - 0 0 - 2 1 3 0 1 1 1 3 -5
+p411
+aVTrevor Booker WAS 01/24/2011 WAS @ NYK L 22 7 3 8 37.5 0 0 - 1 1 100.0 2 3 5 1 1 1 1 2 4
+p412
+aVYi Jianlian WAS 01/24/2011 WAS @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p413
+aVNick Young WAS 01/24/2011 WAS @ NYK L 41 22 7 16 43.8 2 5 40.0 6 7 85.7 0 1 1 2 0 0 3 2 -24
+p414
+aVJohn Wall WAS 01/24/2011 WAS @ NYK L 34 18 5 13 38.5 1 2 50.0 7 8 87.5 1 6 7 9 2 0 4 1 -23
+p415
+aVCartier Martin WAS 01/24/2011 WAS @ NYK L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p416
+aVAndray Blatche WAS 01/24/2011 WAS @ NYK L 28 6 2 10 20.0 0 0 - 2 4 50.0 1 4 5 1 2 0 3 1 -17
+p417
+aVRashard Lewis WAS 01/24/2011 WAS @ NYK L 29 20 8 14 57.1 1 4 25.0 3 3 100.0 0 5 5 1 1 0 0 3 5
+p418
+aVAndray Blatche WAS 01/22/2011 WAS vs. BOS W 32 11 5 12 41.7 0 0 - 1 2 50.0 1 4 5 3 1 1 1 2 -1
+p419
+aVCartier Martin WAS 01/22/2011 WAS vs. BOS W 8 3 1 4 25.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 0 8
+p420
+aVJaVale McGee WAS 01/22/2011 WAS vs. BOS W 38 16 6 11 54.5 0 0 - 4 5 80.0 3 3 6 0 0 3 0 0 -1
+p421
+aVMustafa Shakur WAS 01/22/2011 WAS vs. BOS W 10 5 2 4 50.0 0 2 0.0 1 1 100.0 1 1 2 5 0 2 0 3 6
+p422
+aVTrevor Booker WAS 01/22/2011 WAS vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p423
+aVYi Jianlian WAS 01/22/2011 WAS vs. BOS W 9 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 0
+p424
+aVKevin Seraphin WAS 01/22/2011 WAS vs. BOS W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p425
+aVRashard Lewis WAS 01/22/2011 WAS vs. BOS W 34 18 7 13 53.8 0 1 0.0 4 4 100.0 4 7 11 0 0 0 3 4 1
+p426
+aVNick Young WAS 01/22/2011 WAS vs. BOS W 40 6 1 13 7.7 0 3 0.0 4 5 80.0 0 4 4 2 1 0 1 2 -6
+p427
+aVAl Thornton WAS 01/22/2011 WAS vs. BOS W 16 8 3 5 60.0 0 1 0.0 2 4 50.0 1 4 5 0 0 0 1 2 3
+p428
+aVJohn Wall WAS 01/22/2011 WAS vs. BOS W 38 16 7 12 58.3 1 1 100.0 1 3 33.3 1 5 6 4 0 0 5 5 -4
+p429
+aVKirk Hinrich WAS 01/21/2011 WAS vs. PHX L 13 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 2 1 0 2 3 1
+p430
+aVNick Young WAS 01/21/2011 WAS vs. PHX L 41 25 10 20 50.0 4 8 50.0 1 2 50.0 1 7 8 2 0 0 2 4 -17
+p431
+aVAl Thornton WAS 01/21/2011 WAS vs. PHX L 22 4 1 7 14.3 0 0 - 2 2 100.0 0 4 4 0 0 0 0 2 -14
+p432
+aVRashard Lewis WAS 01/21/2011 WAS vs. PHX L 38 16 6 15 40.0 0 5 0.0 4 4 100.0 3 9 12 1 1 1 3 2 -18
+p433
+aVTrevor Booker WAS 01/21/2011 WAS vs. PHX L 8 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 0 0 0 -8
+p434
+aVJaVale McGee WAS 01/21/2011 WAS vs. PHX L 21 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 2 0 1 -3
+p435
+aVAndray Blatche WAS 01/21/2011 WAS vs. PHX L 35 14 7 17 41.2 0 0 - 0 0 - 2 5 7 5 1 1 4 2 -2
+p436
+aVKevin Seraphin WAS 01/21/2011 WAS vs. PHX L 15 4 2 5 40.0 0 0 - 0 0 - 3 2 5 1 0 2 0 2 -7
+p437
+aVCartier Martin WAS 01/21/2011 WAS vs. PHX L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p438
+aVJohn Wall WAS 01/21/2011 WAS vs. PHX L 40 11 4 13 30.8 0 1 0.0 3 5 60.0 0 4 4 14 4 0 5 0 -20
+p439
+aVYi Jianlian WAS 01/21/2011 WAS vs. PHX L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p440
+aVAl Thornton WAS 01/19/2011 WAS @ MIL L 14 3 1 2 50.0 1 2 50.0 0 0 - 1 3 4 0 0 1 0 2 -8
+p441
+aVCartier Martin WAS 01/19/2011 WAS @ MIL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p442
+aVKirk Hinrich WAS 01/19/2011 WAS @ MIL L 24 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 3 1 1 1 3 -13
+p443
+aVJaVale McGee WAS 01/19/2011 WAS @ MIL L 26 7 3 6 50.0 0 0 - 1 3 33.3 2 3 5 0 1 3 2 3 -20
+p444
+aVTrevor Booker WAS 01/19/2011 WAS @ MIL L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p445
+aVAndray Blatche WAS 01/19/2011 WAS @ MIL L 37 23 10 17 58.8 0 0 - 3 3 100.0 1 6 7 2 4 0 4 4 -5
+p446
+aVHilton Armstrong WAS 01/19/2011 WAS @ MIL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p447
+aVRashard Lewis WAS 01/19/2011 WAS @ MIL L 37 8 3 11 27.3 0 5 0.0 2 2 100.0 0 4 4 2 1 0 1 4 -7
+p448
+aVNick Young WAS 01/19/2011 WAS @ MIL L 37 21 9 19 47.4 1 4 25.0 2 3 66.7 1 5 6 5 1 0 0 0 -9
+p449
+aVYi Jianlian WAS 01/19/2011 WAS @ MIL L 13 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -7
+p450
+aVJohn Wall WAS 01/19/2011 WAS @ MIL L 38 10 3 11 27.3 0 0 - 4 4 100.0 0 6 6 13 1 0 4 3 -1
+p451
+aVKevin Seraphin WAS 01/19/2011 WAS @ MIL L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 2 6
+p452
+aVNick Young WAS 01/17/2011 WAS vs. UTA W 37 25 7 12 58.3 3 5 60.0 8 8 100.0 0 3 3 2 0 1 2 2 11
+p453
+aVJohn Wall WAS 01/17/2011 WAS vs. UTA W 40 19 7 12 58.3 0 0 - 5 7 71.4 1 4 5 15 1 0 7 2 12
+p454
+aVAl Thornton WAS 01/17/2011 WAS vs. UTA W 18 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -8
+p455
+aVKirk Hinrich WAS 01/17/2011 WAS vs. UTA W 25 9 2 6 33.3 1 3 33.3 4 4 100.0 0 0 0 3 2 0 2 2 -5
+p456
+aVJaVale McGee WAS 01/17/2011 WAS vs. UTA W 24 7 3 6 50.0 0 0 - 1 1 100.0 3 8 11 2 0 1 2 3 15
+p457
+aVRashard Lewis WAS 01/17/2011 WAS vs. UTA W 36 13 4 7 57.1 2 5 40.0 3 4 75.0 1 7 8 2 1 1 1 1 4
+p458
+aVYi Jianlian WAS 01/17/2011 WAS vs. UTA W 20 10 5 10 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 4 -2
+p459
+aVAndray Blatche WAS 01/17/2011 WAS vs. UTA W 38 21 8 15 53.3 0 0 - 5 7 71.4 4 7 11 3 3 4 3 4 11
+p460
+aVTrevor Booker WAS 01/17/2011 WAS vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p461
+aVJaVale McGee WAS 01/15/2011 WAS vs. TOR W 25 10 5 7 71.4 0 0 - 0 0 - 3 8 11 1 0 6 3 2 -5
+p462
+aVKirk Hinrich WAS 01/15/2011 WAS vs. TOR W 19 2 1 8 12.5 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 5
+p463
+aVYi Jianlian WAS 01/15/2011 WAS vs. TOR W 15 10 5 5 100.0 0 0 - 0 0 - 2 2 4 0 1 0 0 1 2
+p464
+aVNick Young WAS 01/15/2011 WAS vs. TOR W 41 29 10 19 52.6 2 7 28.6 7 8 87.5 1 5 6 4 1 0 1 2 6
+p465
+aVJohn Wall WAS 01/15/2011 WAS vs. TOR W 36 8 4 14 28.6 0 0 - 0 0 - 1 2 3 9 2 0 5 0 -3
+p466
+aVAl Thornton WAS 01/15/2011 WAS vs. TOR W 30 9 4 6 66.7 0 0 - 1 1 100.0 1 6 7 4 1 0 0 2 8
+p467
+aVCartier Martin WAS 01/15/2011 WAS vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p468
+aVAndray Blatche WAS 01/15/2011 WAS vs. TOR W 40 17 6 18 33.3 0 0 - 5 6 83.3 3 10 13 0 1 1 2 3 4
+p469
+aVRashard Lewis WAS 01/15/2011 WAS vs. TOR W 34 13 4 8 50.0 3 4 75.0 2 2 100.0 1 2 3 3 0 1 1 2 -2
+p470
+aVAl Thornton WAS 01/13/2011 WAS @ MIN L 26 14 6 9 66.7 0 1 0.0 2 2 100.0 1 3 4 2 1 0 2 3 -6
+p471
+aVNick Young WAS 01/13/2011 WAS @ MIN L 43 15 5 14 35.7 3 6 50.0 2 2 100.0 0 4 4 1 1 1 2 0 -10
+p472
+aVCartier Martin WAS 01/13/2011 WAS @ MIN L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p473
+aVJaVale McGee WAS 01/13/2011 WAS @ MIN L 17 5 2 2 100.0 0 0 - 1 2 50.0 1 6 7 0 0 3 1 4 0
+p474
+aVRashard Lewis WAS 01/13/2011 WAS @ MIN L 32 19 8 13 61.5 3 7 42.9 0 0 - 0 5 5 2 1 0 4 5 -3
+p475
+aVYi Jianlian WAS 01/13/2011 WAS @ MIN L 26 8 4 10 40.0 0 0 - 0 0 - 4 4 8 0 0 1 3 4 -4
+p476
+aVTrevor Booker WAS 01/13/2011 WAS @ MIN L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -3
+p477
+aVHilton Armstrong WAS 01/13/2011 WAS @ MIN L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p478
+aVKevin Seraphin WAS 01/13/2011 WAS @ MIN L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p479
+aVJohn Wall WAS 01/13/2011 WAS @ MIN L 41 14 4 11 36.4 0 1 0.0 6 8 75.0 0 4 4 10 3 1 2 1 -18
+p480
+aVKirk Hinrich WAS 01/13/2011 WAS @ MIN L 33 18 6 16 37.5 2 4 50.0 4 4 100.0 0 3 3 5 2 0 3 1 -4
+p481
+aVKevin Seraphin WAS 01/11/2011 WAS vs. SAC W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p482
+aVCartier Martin WAS 01/11/2011 WAS vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p483
+aVKirk Hinrich WAS 01/11/2011 WAS vs. SAC W 25 14 5 9 55.6 1 3 33.3 3 3 100.0 0 4 4 4 1 0 2 2 -17
+p484
+aVHilton Armstrong WAS 01/11/2011 WAS vs. SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p485
+aVJohn Wall WAS 01/11/2011 WAS vs. SAC W 43 22 6 19 31.6 0 0 - 10 10 100.0 1 5 6 9 2 0 6 0 16
+p486
+aVYi Jianlian WAS 01/11/2011 WAS vs. SAC W 9 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 1 1 0 0 -9
+p487
+aVTrevor Booker WAS 01/11/2011 WAS vs. SAC W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p488
+aVRashard Lewis WAS 01/11/2011 WAS vs. SAC W 45 16 7 11 63.6 1 4 25.0 1 2 50.0 2 8 10 6 2 0 3 4 20
+p489
+aVAndray Blatche WAS 01/11/2011 WAS vs. SAC W 29 16 5 10 50.0 0 0 - 6 7 85.7 3 10 13 4 4 1 3 5 21
+p490
+aVJaVale McGee WAS 01/11/2011 WAS vs. SAC W 43 10 3 10 30.0 0 0 - 4 6 66.7 4 7 11 0 0 1 1 3 19
+p491
+aVAl Thornton WAS 01/11/2011 WAS vs. SAC W 12 9 4 5 80.0 0 0 - 1 2 50.0 1 0 1 1 0 0 1 3 -27
+p492
+aVNick Young WAS 01/11/2011 WAS vs. SAC W 45 43 14 22 63.6 7 10 70.0 8 9 88.9 2 2 4 3 0 0 3 2 2
+p493
+aVAndray Blatche WAS 01/08/2011 WAS @ CHA L 36 10 4 13 30.8 0 0 - 2 2 100.0 2 6 8 1 1 2 4 3 -7
+p494
+aVNick Young WAS 01/08/2011 WAS @ CHA L 23 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 1 0 0 2 3 -10
+p495
+aVTrevor Booker WAS 01/08/2011 WAS @ CHA L 6 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p496
+aVJaVale McGee WAS 01/08/2011 WAS @ CHA L 25 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 0 1 2 0 1 -10
+p497
+aVJohn Wall WAS 01/08/2011 WAS @ CHA L 37 16 8 19 42.1 0 5 0.0 0 1 0.0 1 1 2 11 1 0 5 1 -13
+p498
+aVKirk Hinrich WAS 01/08/2011 WAS @ CHA L 32 18 7 14 50.0 3 4 75.0 1 1 100.0 0 2 2 5 2 1 1 4 -10
+p499
+aVAl Thornton WAS 01/08/2011 WAS @ CHA L 30 13 4 9 44.4 0 0 - 5 7 71.4 3 4 7 3 3 1 1 4 1
+p500
+aVKevin Seraphin WAS 01/08/2011 WAS @ CHA L 7 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -8
+p501
+aVRashard Lewis WAS 01/08/2011 WAS @ CHA L 28 4 1 5 20.0 0 2 0.0 2 2 100.0 3 4 7 3 1 1 2 4 -20
+p502
+aVCartier Martin WAS 01/08/2011 WAS @ CHA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p503
+aVYi Jianlian WAS 01/08/2011 WAS @ CHA L 13 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 0 0 1 1 3
+p504
+aVTrevor Booker WAS 01/07/2011 WAS vs. NJN W 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -5
+p505
+aVAndray Blatche WAS 01/07/2011 WAS vs. NJN W 30 14 4 11 36.4 0 0 - 6 6 100.0 1 6 7 0 0 2 1 3 14
+p506
+aVKevin Seraphin WAS 01/07/2011 WAS vs. NJN W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -3
+p507
+aVCartier Martin WAS 01/07/2011 WAS vs. NJN W 4 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p508
+aVNick Young WAS 01/07/2011 WAS vs. NJN W 36 16 6 15 40.0 1 4 25.0 3 6 50.0 0 2 2 5 0 0 2 1 24
+p509
+aVJaVale McGee WAS 01/07/2011 WAS vs. NJN W 34 15 7 9 77.8 0 0 - 1 1 100.0 1 6 7 0 1 6 5 4 23
+p510
+aVRashard Lewis WAS 01/07/2011 WAS vs. NJN W 41 16 5 11 45.5 3 6 50.0 3 4 75.0 3 10 13 6 3 1 0 1 23
+p511
+aVKirk Hinrich WAS 01/07/2011 WAS vs. NJN W 22 10 3 7 42.9 2 2 100.0 2 2 100.0 0 2 2 2 0 1 0 1 13
+p512
+aVAl Thornton WAS 01/07/2011 WAS vs. NJN W 19 9 3 7 42.9 0 0 - 3 3 100.0 1 3 4 1 0 0 0 1 8
+p513
+aVJohn Wall WAS 01/07/2011 WAS vs. NJN W 34 5 2 8 25.0 0 2 0.0 1 2 50.0 0 2 2 9 0 0 0 2 7
+p514
+aVYi Jianlian WAS 01/07/2011 WAS vs. NJN W 10 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 0
+p515
+aVJosh Howard WAS 01/05/2011 WAS @ PHI L 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 5
+p516
+aVJaVale McGee WAS 01/05/2011 WAS @ PHI L 24 4 2 6 33.3 0 0 - 0 2 0.0 2 4 6 0 0 1 1 3 -3
+p517
+aVAndray Blatche WAS 01/05/2011 WAS @ PHI L 40 17 8 18 44.4 0 0 - 1 1 100.0 3 3 6 3 2 0 2 4 -8
+p518
+aVKirk Hinrich WAS 01/05/2011 WAS @ PHI L 26 13 5 11 45.5 0 1 0.0 3 3 100.0 0 3 3 4 1 0 3 4 -13
+p519
+aVRashard Lewis WAS 01/05/2011 WAS @ PHI L 39 18 7 11 63.6 2 4 50.0 2 3 66.7 2 8 10 2 1 1 5 3 -9
+p520
+aVTrevor Booker WAS 01/05/2011 WAS @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p521
+aVNick Young WAS 01/05/2011 WAS @ PHI L 39 21 9 16 56.3 2 3 66.7 1 1 100.0 0 1 1 1 1 0 0 4 -13
+p522
+aVAl Thornton WAS 01/05/2011 WAS @ PHI L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -2
+p523
+aVKevin Seraphin WAS 01/05/2011 WAS @ PHI L 9 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -10
+p524
+aVJohn Wall WAS 01/05/2011 WAS @ PHI L 38 18 6 14 42.9 1 4 25.0 5 8 62.5 0 1 1 14 1 0 1 4 -5
+p525
+aVHilton Armstrong WAS 01/01/2011 WAS vs. NOH L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 2 -11
+p526
+aVJaVale McGee WAS 01/01/2011 WAS vs. NOH L 31 12 6 9 66.7 0 0 - 0 0 - 5 8 13 0 0 6 2 3 3
+p527
+aVCartier Martin WAS 01/01/2011 WAS vs. NOH L 10 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 3 6
+p528
+aVAndray Blatche WAS 01/01/2011 WAS vs. NOH L 38 8 4 12 33.3 0 0 - 0 0 - 1 5 6 1 2 0 2 0 -25
+p529
+aVNick Young WAS 01/01/2011 WAS vs. NOH L 40 24 9 20 45.0 1 5 20.0 5 5 100.0 1 4 5 3 1 1 1 5 -13
+p530
+aVRashard Lewis WAS 01/01/2011 WAS vs. NOH L 41 14 6 12 50.0 1 5 20.0 1 1 100.0 2 4 6 3 2 1 1 2 -8
+p531
+aVAl Thornton WAS 01/01/2011 WAS vs. NOH L 19 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 4
+p532
+aVLester Hudson WAS 01/01/2011 WAS vs. NOH L 15 3 1 4 25.0 1 2 50.0 0 1 0.0 0 2 2 2 0 0 1 1 -10
+p533
+aVJohn Wall WAS 01/01/2011 WAS vs. NOH L 33 12 4 10 40.0 2 5 40.0 2 2 100.0 0 2 2 10 2 1 8 3 -1
+p534
+aVAndray Blatche WAS 12/31/2010 WAS @ IND L 34 8 4 16 25.0 0 1 0.0 0 0 - 3 9 12 0 0 3 6 3 -22
+p535
+aVRashard Lewis WAS 12/31/2010 WAS @ IND L 39 15 5 10 50.0 2 3 66.7 3 4 75.0 2 4 6 5 2 1 3 0 1
+p536
+aVHilton Armstrong WAS 12/31/2010 WAS @ IND L 17 0 0 1 0.0 0 1 0.0 0 0 - 2 1 3 0 1 0 0 2 5
+p537
+aVJosh Howard WAS 12/31/2010 WAS @ IND L 15 4 0 5 0.0 0 3 0.0 4 6 66.7 2 1 3 0 3 0 2 0 -10
+p538
+aVJaVale McGee WAS 12/31/2010 WAS @ IND L 18 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 0 1 0 0 4 -18
+p539
+aVCartier Martin WAS 12/31/2010 WAS @ IND L 19 4 1 7 14.3 0 1 0.0 2 2 100.0 1 2 3 1 0 0 0 1 -3
+p540
+aVNick Young WAS 12/31/2010 WAS @ IND L 30 8 2 11 18.2 2 6 33.3 2 2 100.0 1 0 1 1 0 0 3 5 -6
+p541
+aVYi Jianlian WAS 12/31/2010 WAS @ IND L 5 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 6
+p542
+aVJohn Wall WAS 12/31/2010 WAS @ IND L 39 25 10 15 66.7 1 2 50.0 4 4 100.0 0 3 3 4 1 0 7 4 -14
+p543
+aVAl Thornton WAS 12/31/2010 WAS @ IND L 16 10 4 4 100.0 0 0 - 2 2 100.0 0 1 1 0 2 0 1 1 11
+p544
+aVLester Hudson WAS 12/31/2010 WAS @ IND L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 5
+p545
+aVKirk Hinrich WAS 12/29/2010 WAS vs. IND W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 1
+p546
+aVTrevor Booker WAS 12/29/2010 WAS vs. IND W 7 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 1 0 1 1
+p547
+aVAndray Blatche WAS 12/29/2010 WAS vs. IND W 39 22 9 23 39.1 0 0 - 4 6 66.7 5 6 11 4 1 2 1 2 15
+p548
+aVCartier Martin WAS 12/29/2010 WAS vs. IND W 13 11 4 6 66.7 3 3 100.0 0 0 - 1 2 3 0 1 0 0 2 8
+p549
+aVHilton Armstrong WAS 12/29/2010 WAS vs. IND W 11 4 1 2 50.0 0 1 0.0 2 3 66.7 2 2 4 0 0 1 1 1 -7
+p550
+aVJohn Wall WAS 12/29/2010 WAS vs. IND W 35 10 4 12 33.3 1 1 100.0 1 1 100.0 2 5 7 12 1 0 2 1 9
+p551
+aVNick Young WAS 12/29/2010 WAS vs. IND W 43 25 10 26 38.5 3 9 33.3 2 2 100.0 2 7 9 3 3 0 1 0 9
+p552
+aVJaVale McGee WAS 12/29/2010 WAS vs. IND W 22 16 4 7 57.1 0 0 - 8 10 80.0 6 4 10 0 0 4 0 2 11
+p553
+aVRashard Lewis WAS 12/29/2010 WAS vs. IND W 33 10 4 10 40.0 2 4 50.0 0 0 - 1 5 6 3 0 1 1 3 19
+p554
+aVJosh Howard WAS 12/29/2010 WAS vs. IND W 24 4 2 9 22.2 0 3 0.0 0 0 - 2 2 4 1 3 2 1 2 4
+p555
+aVJosh Howard WAS 12/27/2010 WAS @ HOU L 23 12 5 13 38.5 1 2 50.0 1 2 50.0 1 1 2 2 1 0 1 3 8
+p556
+aVAl Thornton WAS 12/27/2010 WAS @ HOU L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p557
+aVNick Young WAS 12/27/2010 WAS @ HOU L 38 18 6 13 46.2 2 2 100.0 4 4 100.0 0 0 0 0 2 0 1 3 -14
+p558
+aVRashard Lewis WAS 12/27/2010 WAS @ HOU L 43 12 6 16 37.5 0 2 0.0 0 0 - 5 4 9 5 1 0 2 3 -7
+p559
+aVJohn Wall WAS 12/27/2010 WAS @ HOU L 27 13 2 7 28.6 0 1 0.0 9 13 69.2 0 5 5 6 0 2 3 3 5
+p560
+aVJaVale McGee WAS 12/27/2010 WAS @ HOU L 24 2 1 5 20.0 0 0 - 0 0 - 4 3 7 0 0 3 1 1 5
+p561
+aVKirk Hinrich WAS 12/27/2010 WAS @ HOU L 38 19 7 15 46.7 0 1 0.0 5 6 83.3 0 5 5 0 1 0 0 1 -14
+p562
+aVAndray Blatche WAS 12/27/2010 WAS @ HOU L 37 17 7 15 46.7 0 0 - 3 4 75.0 5 9 14 2 3 2 6 5 -17
+p563
+aVTrevor Booker WAS 12/27/2010 WAS @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p564
+aVLester Hudson WAS 12/26/2010 WAS @ SAS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 0
+p565
+aVTrevor Booker WAS 12/26/2010 WAS @ SAS L 15 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 1 1 0 -6
+p566
+aVHilton Armstrong WAS 12/26/2010 WAS @ SAS L 29 6 1 5 20.0 0 0 - 4 4 100.0 5 8 13 2 0 0 0 1 -4
+p567
+aVAl Thornton WAS 12/26/2010 WAS @ SAS L 28 11 5 10 50.0 0 1 0.0 1 2 50.0 1 2 3 1 0 0 1 1 -6
+p568
+aVJohn Wall WAS 12/26/2010 WAS @ SAS L 19 4 2 9 22.2 0 1 0.0 0 0 - 0 6 6 4 0 1 4 4 -8
+p569
+aVJosh Howard WAS 12/26/2010 WAS @ SAS L 24 11 4 12 33.3 0 1 0.0 3 4 75.0 2 4 6 0 1 0 1 1 -12
+p570
+aVNick Young WAS 12/26/2010 WAS @ SAS L 36 10 5 19 26.3 0 2 0.0 0 0 - 2 2 4 1 0 0 2 1 -7
+p571
+aVRashard Lewis WAS 12/26/2010 WAS @ SAS L 42 21 8 19 42.1 4 8 50.0 1 1 100.0 2 10 12 2 1 1 1 3 -8
+p572
+aVKevin Seraphin WAS 12/26/2010 WAS @ SAS L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -10
+p573
+aVKirk Hinrich WAS 12/26/2010 WAS @ SAS L 35 15 7 10 70.0 1 1 100.0 0 0 - 0 2 2 7 2 0 4 1 -9
+p574
+aVJosh Howard WAS 12/22/2010 WAS vs. CHI L 25 13 4 8 50.0 1 1 100.0 4 5 80.0 0 1 1 0 1 0 1 1 2
+p575
+aVAndray Blatche WAS 12/22/2010 WAS vs. CHI L 37 7 3 14 21.4 0 0 - 1 2 50.0 2 4 6 2 3 0 4 3 -1
+p576
+aVKirk Hinrich WAS 12/22/2010 WAS vs. CHI L 43 19 6 14 42.9 0 1 0.0 7 8 87.5 2 3 5 9 2 0 2 4 -6
+p577
+aVTrevor Booker WAS 12/22/2010 WAS vs. CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p578
+aVNick Young WAS 12/22/2010 WAS vs. CHI L 39 22 9 19 47.4 3 6 50.0 1 1 100.0 0 1 1 1 2 1 4 4 -11
+p579
+aVRashard Lewis WAS 12/22/2010 WAS vs. CHI L 22 8 4 10 40.0 0 5 0.0 0 0 - 1 2 3 1 0 1 2 5 -8
+p580
+aVJaVale McGee WAS 12/22/2010 WAS vs. CHI L 29 0 0 3 0.0 0 0 - 0 0 - 2 8 10 2 0 2 1 3 -1
+p581
+aVLester Hudson WAS 12/22/2010 WAS vs. CHI L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -1
+p582
+aVAl Thornton WAS 12/22/2010 WAS vs. CHI L 29 11 4 10 40.0 0 0 - 3 3 100.0 1 3 4 0 0 0 0 1 -11
+p583
+aVHilton Armstrong WAS 12/22/2010 WAS vs. CHI L 11 0 0 0 - 0 0 - 0 0 - 1 2 3 1 2 0 1 2 2
+p584
+aVHilton Armstrong WAS 12/20/2010 WAS vs. CHA W 13 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 4 -1
+p585
+aVJaVale McGee WAS 12/20/2010 WAS vs. CHA W 28 10 3 4 75.0 0 0 - 4 6 66.7 0 3 3 0 1 5 0 4 32
+p586
+aVJosh Howard WAS 12/20/2010 WAS vs. CHA W 21 6 2 7 28.6 1 2 50.0 1 2 50.0 0 3 3 1 1 0 1 3 11
+p587
+aVAndray Blatche WAS 12/20/2010 WAS vs. CHA W 35 19 6 13 46.2 0 2 0.0 7 9 77.8 1 4 5 0 1 0 0 3 28
+p588
+aVAl Thornton WAS 12/20/2010 WAS vs. CHA W 32 13 6 8 75.0 0 0 - 1 1 100.0 1 2 3 3 1 1 0 3 24
+p589
+aVNick Young WAS 12/20/2010 WAS vs. CHA W 35 21 8 13 61.5 3 6 50.0 2 2 100.0 0 2 2 1 0 0 5 5 29
+p590
+aVLester Hudson WAS 12/20/2010 WAS vs. CHA W 17 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 6 3 1 3 1 4
+p591
+aVTrevor Booker WAS 12/20/2010 WAS vs. CHA W 15 6 1 2 50.0 0 0 - 4 4 100.0 2 1 3 0 1 0 1 0 1
+p592
+aVCartier Martin WAS 12/20/2010 WAS vs. CHA W 8 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 2
+p593
+aVKirk Hinrich WAS 12/20/2010 WAS vs. CHA W 31 18 7 14 50.0 0 2 0.0 4 4 100.0 1 5 6 11 2 0 3 3 29
+p594
+aVKevin Seraphin WAS 12/20/2010 WAS vs. CHA W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p595
+aVCartier Martin WAS 12/18/2010 WAS vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p596
+aVAlonzo Gee WAS 12/18/2010 WAS vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p597
+aVKirk Hinrich WAS 12/18/2010 WAS vs. MIA L 48 13 4 16 25.0 0 4 0.0 5 6 83.3 0 6 6 12 2 0 5 4 -1
+p598
+aVHilton Armstrong WAS 12/18/2010 WAS vs. MIA L 21 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 1 1 0 3 -2
+p599
+aVNick Young WAS 12/18/2010 WAS vs. MIA L 46 30 13 23 56.5 2 2 100.0 2 2 100.0 0 4 4 1 1 0 1 3 -1
+p600
+aVAl Thornton WAS 12/18/2010 WAS vs. MIA L 26 10 4 8 50.0 0 0 - 2 2 100.0 1 1 2 5 0 0 1 1 3
+p601
+aVAndray Blatche WAS 12/18/2010 WAS vs. MIA L 40 20 8 21 38.1 0 0 - 4 6 66.7 3 9 12 3 4 1 2 5 6
+p602
+aVJosh Howard WAS 12/18/2010 WAS vs. MIA L 22 13 5 9 55.6 0 2 0.0 3 6 50.0 2 2 4 1 1 0 1 2 -6
+p603
+aVTrevor Booker WAS 12/18/2010 WAS vs. MIA L 8 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 0 1 3 -7
+p604
+aVJaVale McGee WAS 12/18/2010 WAS vs. MIA L 27 5 2 7 28.6 0 1 0.0 1 2 50.0 2 8 10 0 0 4 2 2 3
+p605
+aVCartier Martin WAS 12/16/2010 WAS @ NJN L 8 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 2 -8
+p606
+aVAlonzo Gee WAS 12/16/2010 WAS @ NJN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p607
+aVJaVale McGee WAS 12/16/2010 WAS @ NJN L 21 2 1 5 20.0 0 0 - 0 0 - 0 5 5 0 0 2 2 5 -7
+p608
+aVNick Young WAS 12/16/2010 WAS @ NJN L 33 22 6 14 42.9 1 3 33.3 9 10 90.0 1 2 3 0 1 0 2 4 -3
+p609
+aVKirk Hinrich WAS 12/16/2010 WAS @ NJN L 34 10 5 10 50.0 0 1 0.0 0 0 - 0 3 3 6 4 0 2 4 -7
+p610
+aVGilbert Arenas WAS 12/16/2010 WAS @ NJN L 43 19 8 19 42.1 3 10 30.0 0 0 - 0 3 3 9 2 0 4 6 -3
+p611
+aVKevin Seraphin WAS 12/16/2010 WAS @ NJN L 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -4
+p612
+aVTrevor Booker WAS 12/16/2010 WAS @ NJN L 31 11 2 8 25.0 0 0 - 7 8 87.5 2 7 9 1 1 0 2 3 3
+p613
+aVHamady Ndiaye WAS 12/16/2010 WAS @ NJN L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -3
+p614
+aVAl Thornton WAS 12/16/2010 WAS @ NJN L 39 18 6 14 42.9 1 1 100.0 5 6 83.3 2 2 4 0 1 1 4 4 -11
+p615
+aVHilton Armstrong WAS 12/16/2010 WAS @ NJN L 19 4 2 5 40.0 0 0 - 0 2 0.0 2 5 7 1 0 1 2 4 6
+p616
+aVHilton Armstrong WAS 12/14/2010 WAS vs. LAL L 12 4 2 6 33.3 0 0 - 0 0 - 0 5 5 1 0 0 1 4 1
+p617
+aVNick Young WAS 12/14/2010 WAS vs. LAL L 32 21 9 21 42.9 0 4 0.0 3 3 100.0 0 1 1 2 2 0 2 2 -17
+p618
+aVTrevor Booker WAS 12/14/2010 WAS vs. LAL L 34 9 4 7 57.1 0 0 - 1 1 100.0 4 5 9 0 1 0 0 2 -12
+p619
+aVJaVale McGee WAS 12/14/2010 WAS vs. LAL L 29 12 6 8 75.0 0 0 - 0 0 - 6 3 9 0 3 2 2 3 -13
+p620
+aVKirk Hinrich WAS 12/14/2010 WAS vs. LAL L 36 7 3 10 30.0 0 2 0.0 1 2 50.0 1 4 5 4 0 0 3 4 -7
+p621
+aVKevin Seraphin WAS 12/14/2010 WAS vs. LAL L 15 6 2 6 33.3 0 0 - 2 2 100.0 6 3 9 0 0 1 1 2 -2
+p622
+aVGilbert Arenas WAS 12/14/2010 WAS vs. LAL L 35 11 5 15 33.3 1 7 14.3 0 0 - 0 2 2 10 1 1 1 3 -9
+p623
+aVCartier Martin WAS 12/14/2010 WAS vs. LAL L 14 6 2 7 28.6 2 6 33.3 0 0 - 1 1 2 0 1 0 0 3 -6
+p624
+aVAl Thornton WAS 12/14/2010 WAS vs. LAL L 27 11 3 9 33.3 0 0 - 5 8 62.5 1 1 2 2 1 0 0 4 -3
+p625
+aVYi Jianlian WAS 12/14/2010 WAS vs. LAL L 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p626
+aVNick Young WAS 12/10/2010 WAS vs. NYK L 33 17 6 13 46.2 3 7 42.9 2 3 66.7 0 4 4 1 1 0 2 2 11
+p627
+aVTrevor Booker WAS 12/10/2010 WAS vs. NYK L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -3
+p628
+aVJohn Wall WAS 12/10/2010 WAS vs. NYK L 37 8 4 14 28.6 0 1 0.0 0 2 0.0 0 5 5 6 1 0 1 2 -11
+p629
+aVGilbert Arenas WAS 12/10/2010 WAS vs. NYK L 39 20 9 18 50.0 2 7 28.6 0 0 - 0 3 3 6 4 1 4 5 -8
+p630
+aVKirk Hinrich WAS 12/10/2010 WAS vs. NYK L 22 13 3 6 50.0 1 3 33.3 6 6 100.0 0 4 4 2 2 0 0 0 6
+p631
+aVJaVale McGee WAS 12/10/2010 WAS vs. NYK L 33 10 3 8 37.5 0 0 - 4 6 66.7 4 6 10 0 1 0 0 4 -4
+p632
+aVAl Thornton WAS 12/10/2010 WAS vs. NYK L 14 2 1 5 20.0 0 0 - 0 0 - 2 1 3 1 0 0 1 4 -14
+p633
+aVYi Jianlian WAS 12/10/2010 WAS vs. NYK L 16 7 2 5 40.0 0 0 - 3 4 75.0 2 3 5 2 1 0 2 2 0
+p634
+aVAndray Blatche WAS 12/10/2010 WAS vs. NYK L 40 16 6 14 42.9 0 0 - 4 6 66.7 3 2 5 4 3 0 3 4 -7
+p635
+aVJaVale McGee WAS 12/08/2010 WAS @ SAC L 29 13 5 9 55.6 0 0 - 3 7 42.9 2 7 9 0 1 1 0 3 3
+p636
+aVKirk Hinrich WAS 12/08/2010 WAS @ SAC L 37 18 6 9 66.7 1 1 100.0 5 5 100.0 2 3 5 3 4 0 5 2 -21
+p637
+aVAlonzo Gee WAS 12/08/2010 WAS @ SAC L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -12
+p638
+aVAl Thornton WAS 12/08/2010 WAS @ SAC L 33 20 7 11 63.6 0 0 - 6 9 66.7 0 1 1 0 2 0 2 2 -12
+p639
+aVCartier Martin WAS 12/08/2010 WAS @ SAC L 10 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 1 1 0 2 0 6
+p640
+aVGilbert Arenas WAS 12/08/2010 WAS @ SAC L 41 19 6 17 35.3 2 7 28.6 5 6 83.3 1 2 3 4 0 0 5 3 -31
+p641
+aVTrevor Booker WAS 12/08/2010 WAS @ SAC L 30 4 1 2 50.0 0 0 - 2 2 100.0 3 2 5 2 1 1 1 1 -16
+p642
+aVKevin Seraphin WAS 12/08/2010 WAS @ SAC L 16 4 2 5 40.0 0 0 - 0 2 0.0 4 3 7 0 0 0 4 2 -16
+p643
+aVYi Jianlian WAS 12/08/2010 WAS @ SAC L 13 4 1 8 12.5 0 0 - 2 2 100.0 1 0 1 0 1 0 1 2 -6
+p644
+aVHilton Armstrong WAS 12/08/2010 WAS @ SAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -12
+p645
+aVNick Young WAS 12/08/2010 WAS @ SAC L 26 3 1 8 12.5 0 1 0.0 1 1 100.0 0 3 3 1 0 1 3 3 -8
+p646
+aVAl Thornton WAS 12/07/2010 WAS @ LAL L 15 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 2 0 0 0 1 -16
+p647
+aVHilton Armstrong WAS 12/07/2010 WAS @ LAL L 8 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 1 0 1 -2
+p648
+aVTrevor Booker WAS 12/07/2010 WAS @ LAL L 21 14 7 9 77.8 0 0 - 0 0 - 3 1 4 0 2 0 0 5 17
+p649
+aVGilbert Arenas WAS 12/07/2010 WAS @ LAL L 38 23 8 17 47.1 2 8 25.0 5 5 100.0 0 2 2 4 2 0 7 5 -12
+p650
+aVKirk Hinrich WAS 12/07/2010 WAS @ LAL L 21 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 3 0 0 1 1 11
+p651
+aVJohn Wall WAS 12/07/2010 WAS @ LAL L 38 22 7 14 50.0 2 5 40.0 6 6 100.0 0 5 5 14 1 3 3 3 -13
+p652
+aVAlonzo Gee WAS 12/07/2010 WAS @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p653
+aVYi Jianlian WAS 12/07/2010 WAS @ LAL L 26 7 2 3 66.7 0 0 - 3 5 60.0 0 5 5 0 0 0 2 2 -24
+p654
+aVJaVale McGee WAS 12/07/2010 WAS @ LAL L 21 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 1 0 1 2 4 -16
+p655
+aVKevin Seraphin WAS 12/07/2010 WAS @ LAL L 19 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 2 1 4 0 5 11
+p656
+aVNick Young WAS 12/07/2010 WAS @ LAL L 32 30 10 18 55.6 6 11 54.5 4 4 100.0 0 3 3 1 3 1 2 4 9
+p657
+aVGilbert Arenas WAS 12/05/2010 WAS @ PHX L 32 14 6 13 46.2 2 6 33.3 0 1 0.0 0 1 1 6 1 1 0 2 -7
+p658
+aVHilton Armstrong WAS 12/05/2010 WAS @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -4
+p659
+aVNick Young WAS 12/05/2010 WAS @ PHX L 23 20 8 14 57.1 2 5 40.0 2 3 66.7 2 2 4 1 0 1 1 4 -2
+p660
+aVJaVale McGee WAS 12/05/2010 WAS @ PHX L 18 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 0 0 1 3 -15
+p661
+aVCartier Martin WAS 12/05/2010 WAS @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 1
+p662
+aVJohn Wall WAS 12/05/2010 WAS @ PHX L 43 12 4 12 33.3 1 2 50.0 3 4 75.0 0 2 2 12 3 1 4 4 -8
+p663
+aVKirk Hinrich WAS 12/05/2010 WAS @ PHX L 20 2 1 3 33.3 0 0 - 0 0 - 0 5 5 2 0 0 0 4 -20
+p664
+aVAlonzo Gee WAS 12/05/2010 WAS @ PHX L 17 8 3 6 50.0 0 2 0.0 2 2 100.0 2 1 3 0 0 0 1 1 -18
+p665
+aVTrevor Booker WAS 12/05/2010 WAS @ PHX L 13 9 4 6 66.7 0 0 - 1 1 100.0 1 1 2 0 1 0 1 2 -1
+p666
+aVAndray Blatche WAS 12/05/2010 WAS @ PHX L 34 24 10 13 76.9 0 0 - 4 4 100.0 1 2 3 0 0 0 4 2 -11
+p667
+aVAl Thornton WAS 12/05/2010 WAS @ PHX L 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 0 1 3
+p668
+aVYi Jianlian WAS 12/05/2010 WAS @ PHX L 26 13 6 14 42.9 1 3 33.3 0 0 - 4 5 9 1 1 0 2 3 -3
+p669
+aVCartier Martin WAS 12/03/2010 WAS vs. POR W 10 6 2 5 40.0 1 3 33.3 1 3 33.3 1 3 4 0 0 0 0 0 8
+p670
+aVHilton Armstrong WAS 12/03/2010 WAS vs. POR W 12 6 3 3 100.0 0 0 - 0 0 - 2 1 3 0 1 1 1 1 5
+p671
+aVGilbert Arenas WAS 12/03/2010 WAS vs. POR W 30 15 6 16 37.5 0 4 0.0 3 3 100.0 0 2 2 6 0 1 5 6 -1
+p672
+aVKirk Hinrich WAS 12/03/2010 WAS vs. POR W 36 11 4 10 40.0 1 3 33.3 2 2 100.0 1 2 3 5 3 0 1 2 8
+p673
+aVAl Thornton WAS 12/03/2010 WAS vs. POR W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -7
+p674
+aVJohn Wall WAS 12/03/2010 WAS vs. POR W 40 10 3 13 23.1 0 2 0.0 4 4 100.0 0 4 4 2 0 0 4 2 0
+p675
+aVTrevor Booker WAS 12/03/2010 WAS vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p676
+aVJaVale McGee WAS 12/03/2010 WAS vs. POR W 32 13 4 6 66.7 0 0 - 5 6 83.3 5 5 10 0 0 5 1 0 1
+p677
+aVAndray Blatche WAS 12/03/2010 WAS vs. POR W 40 19 7 13 53.8 0 0 - 5 6 83.3 1 8 9 0 1 0 2 4 8
+p678
+aVYi Jianlian WAS 12/03/2010 WAS vs. POR W 11 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 2 1 1 -4
+p679
+aVAlonzo Gee WAS 12/03/2010 WAS vs. POR W 19 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 1 1 0 2 1 2
+p680
+aVAlonzo Gee WAS 12/01/2010 WAS @ TOR L 14 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 1 0 1 1 -8
+p681
+aVCartier Martin WAS 12/01/2010 WAS @ TOR L 7 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 1 0 0 0 0 4
+p682
+aVAl Thornton WAS 12/01/2010 WAS @ TOR L 16 3 1 5 20.0 0 0 - 1 1 100.0 0 4 4 2 0 0 0 1 -10
+p683
+aVAndray Blatche WAS 12/01/2010 WAS @ TOR L 33 17 7 16 43.8 0 1 0.0 3 6 50.0 2 4 6 0 0 1 2 3 -11
+p684
+aVKirk Hinrich WAS 12/01/2010 WAS @ TOR L 34 15 7 12 58.3 0 1 0.0 1 2 50.0 0 1 1 5 1 0 2 1 -15
+p685
+aVTrevor Booker WAS 12/01/2010 WAS @ TOR L 23 5 2 4 50.0 0 0 - 1 3 33.3 2 2 4 0 2 2 1 4 -10
+p686
+aVKevin Seraphin WAS 12/01/2010 WAS @ TOR L 13 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 1 4 -2
+p687
+aVGilbert Arenas WAS 12/01/2010 WAS @ TOR L 29 7 1 10 10.0 0 2 0.0 5 6 83.3 0 2 2 3 2 0 2 2 -6
+p688
+aVJaVale McGee WAS 12/01/2010 WAS @ TOR L 27 21 8 12 66.7 0 0 - 5 8 62.5 4 3 7 1 0 1 0 2 -15
+p689
+aVNick Young WAS 12/01/2010 WAS @ TOR L 12 9 2 6 33.3 0 0 - 5 6 83.3 0 0 0 1 0 0 0 1 -11
+p690
+aVJohn Wall WAS 12/01/2010 WAS @ TOR L 32 19 5 11 45.5 1 3 33.3 8 9 88.9 0 1 1 8 2 0 2 3 -11
+p691
+aVKirk Hinrich WAS 11/29/2010 WAS @ MIA L 36 5 2 7 28.6 0 1 0.0 1 2 50.0 0 3 3 3 1 0 3 3 -11
+p692
+aVAndray Blatche WAS 11/29/2010 WAS @ MIA L 38 26 8 19 42.1 0 0 - 10 14 71.4 3 6 9 1 1 1 2 5 -16
+p693
+aVAlonzo Gee WAS 11/29/2010 WAS @ MIA L 24 7 2 4 50.0 0 0 - 3 4 75.0 0 1 1 0 1 0 1 5 -6
+p694
+aVGilbert Arenas WAS 11/29/2010 WAS @ MIA L 41 23 9 21 42.9 3 10 30.0 2 2 100.0 0 5 5 7 2 0 1 2 -10
+p695
+aVJaVale McGee WAS 11/29/2010 WAS @ MIA L 26 10 5 7 71.4 0 0 - 0 1 0.0 5 5 10 1 0 2 2 6 -11
+p696
+aVCartier Martin WAS 11/29/2010 WAS @ MIA L 10 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 1 -1
+p697
+aVKevin Seraphin WAS 11/29/2010 WAS @ MIA L 8 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 6
+p698
+aVHilton Armstrong WAS 11/29/2010 WAS @ MIA L 17 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 1 0 0 2 -4
+p699
+aVTrevor Booker WAS 11/29/2010 WAS @ MIA L 8 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 2 1 3 3
+p700
+aVNick Young WAS 11/29/2010 WAS @ MIA L 33 13 4 15 26.7 0 4 0.0 5 6 83.3 1 1 2 0 0 0 1 2 -5
+p701
+aVGilbert Arenas WAS 11/27/2010 WAS vs. ORL L 37 31 9 23 39.1 1 6 16.7 12 14 85.7 0 5 5 5 0 1 2 4 -7
+p702
+aVAlonzo Gee WAS 11/27/2010 WAS vs. ORL L 30 8 3 5 60.0 0 0 - 2 4 50.0 5 2 7 2 4 0 2 0 2
+p703
+aVNick Young WAS 11/27/2010 WAS vs. ORL L 32 21 8 15 53.3 3 4 75.0 2 2 100.0 0 1 1 2 1 0 2 1 7
+p704
+aVJaVale McGee WAS 11/27/2010 WAS vs. ORL L 26 9 4 6 66.7 0 0 - 1 4 25.0 3 4 7 1 1 2 1 5 15
+p705
+aVTrevor Booker WAS 11/27/2010 WAS vs. ORL L 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 0
+p706
+aVAndray Blatche WAS 11/27/2010 WAS vs. ORL L 38 10 4 11 36.4 0 0 - 2 2 100.0 3 10 13 4 2 2 2 4 -1
+p707
+aVHilton Armstrong WAS 11/27/2010 WAS vs. ORL L 12 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 1 1 0 4 -6
+p708
+aVCartier Martin WAS 11/27/2010 WAS vs. ORL L 11 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 0 1
+p709
+aVKirk Hinrich WAS 11/27/2010 WAS vs. ORL L 34 9 3 12 25.0 2 4 50.0 1 1 100.0 1 2 3 4 1 0 1 3 -6
+p710
+aVKevin Seraphin WAS 11/27/2010 WAS vs. ORL L 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 1 3 -10
+p711
+aVKevin Seraphin WAS 11/25/2010 WAS @ ATL L 17 6 2 7 28.6 0 0 - 2 2 100.0 4 1 5 0 0 1 0 3 3
+p712
+aVKirk Hinrich WAS 11/25/2010 WAS @ ATL L 25 8 4 7 57.1 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -25
+p713
+aVNick Young WAS 11/25/2010 WAS @ ATL L 26 20 8 14 57.1 0 2 0.0 4 6 66.7 2 2 4 0 0 2 0 3 0
+p714
+aVJaVale McGee WAS 11/25/2010 WAS @ ATL L 34 7 2 8 25.0 0 1 0.0 3 3 100.0 3 7 10 0 1 1 1 1 -17
+p715
+aVTrevor Booker WAS 11/25/2010 WAS @ ATL L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p716
+aVGilbert Arenas WAS 11/25/2010 WAS @ ATL L 38 21 7 18 38.9 4 9 44.4 3 3 100.0 0 6 6 8 3 0 1 3 -3
+p717
+aVJohn Wall WAS 11/25/2010 WAS @ ATL L 33 10 3 12 25.0 0 3 0.0 4 4 100.0 0 1 1 7 1 1 3 1 -25
+p718
+aVAlonzo Gee WAS 11/25/2010 WAS @ ATL L 13 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 0 0 1 1 -12
+p719
+aVHamady Ndiaye WAS 11/25/2010 WAS @ ATL L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -2
+p720
+aVAndray Blatche WAS 11/25/2010 WAS @ ATL L 23 12 4 10 40.0 0 0 - 4 4 100.0 1 3 4 1 0 0 3 0 -20
+p721
+aVHilton Armstrong WAS 11/25/2010 WAS @ ATL L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 2 4 -4
+p722
+aVCartier Martin WAS 11/25/2010 WAS @ ATL L 9 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 5
+p723
+aVJaVale McGee WAS 11/23/2010 WAS vs. PHI W 46 24 9 15 60.0 0 0 - 6 9 66.7 10 8 18 2 2 4 2 1 12
+p724
+aVTrevor Booker WAS 11/23/2010 WAS vs. PHI W 12 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 0 -2
+p725
+aVAndray Blatche WAS 11/23/2010 WAS vs. PHI W 43 17 8 21 38.1 0 0 - 1 2 50.0 4 8 12 3 0 0 1 3 1
+p726
+aVKirk Hinrich WAS 11/23/2010 WAS vs. PHI W 35 7 3 8 37.5 0 1 0.0 1 2 50.0 0 1 1 6 2 0 1 5 4
+p727
+aVAl Thornton WAS 11/23/2010 WAS vs. PHI W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p728
+aVHilton Armstrong WAS 11/23/2010 WAS vs. PHI W 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -5
+p729
+aVGilbert Arenas WAS 11/23/2010 WAS vs. PHI W 42 17 6 16 37.5 3 7 42.9 2 2 100.0 0 3 3 7 1 2 8 4 -3
+p730
+aVNick Young WAS 11/23/2010 WAS vs. PHI W 32 19 7 15 46.7 4 8 50.0 1 1 100.0 0 3 3 1 1 1 1 1 0
+p731
+aVJohn Wall WAS 11/23/2010 WAS vs. PHI W 36 25 7 15 46.7 3 7 42.9 8 8 100.0 0 3 3 6 1 0 1 4 13
+p732
+aVCartier Martin WAS 11/23/2010 WAS vs. PHI W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p733
+aVAlonzo Gee WAS 11/23/2010 WAS vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p734
+aVKirk Hinrich WAS 11/21/2010 WAS @ DET L 39 12 6 9 66.7 0 0 - 0 0 - 0 3 3 6 1 1 3 3 -14
+p735
+aVHilton Armstrong WAS 11/21/2010 WAS @ DET L 11 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 1 0 0 -6
+p736
+aVAl Thornton WAS 11/21/2010 WAS @ DET L 31 8 4 11 36.4 0 1 0.0 0 0 - 0 2 2 4 1 1 0 3 -6
+p737
+aVJaVale McGee WAS 11/21/2010 WAS @ DET L 42 20 9 13 69.2 0 1 0.0 2 4 50.0 8 8 16 1 0 2 3 4 1
+p738
+aVGilbert Arenas WAS 11/21/2010 WAS @ DET L 43 19 9 18 50.0 1 8 12.5 0 0 - 1 3 4 16 0 0 6 6 3
+p739
+aVAndray Blatche WAS 11/21/2010 WAS @ DET L 44 20 9 22 40.9 0 3 0.0 2 4 50.0 1 7 8 1 2 1 2 3 -12
+p740
+aVNick Young WAS 11/21/2010 WAS @ DET L 31 18 7 10 70.0 2 3 66.7 2 3 66.7 0 1 1 0 0 0 0 3 0
+p741
+aVLester Hudson WAS 11/21/2010 WAS @ DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p742
+aVCartier Martin WAS 11/21/2010 WAS @ DET L 15 9 3 5 60.0 2 3 66.7 1 2 50.0 1 2 3 0 0 0 1 3 5
+p743
+aVTrevor Booker WAS 11/21/2010 WAS @ DET L 9 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 7
+p744
+aVAndray Blatche WAS 11/19/2010 WAS vs. MEM W 38 17 6 15 40.0 0 0 - 5 6 83.3 2 7 9 1 0 1 4 4 10
+p745
+aVLester Hudson WAS 11/19/2010 WAS vs. MEM W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p746
+aVGilbert Arenas WAS 11/19/2010 WAS vs. MEM W 39 24 7 15 46.7 2 6 33.3 8 10 80.0 0 3 3 4 1 2 5 2 12
+p747
+aVTrevor Booker WAS 11/19/2010 WAS vs. MEM W 10 2 1 5 20.0 0 0 - 0 0 - 3 1 4 0 0 0 2 1 -7
+p748
+aVAl Thornton WAS 11/19/2010 WAS vs. MEM W 39 5 1 8 12.5 0 1 0.0 3 4 75.0 3 4 7 1 0 0 2 3 5
+p749
+aVCartier Martin WAS 11/19/2010 WAS vs. MEM W 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -2
+p750
+aVKirk Hinrich WAS 11/19/2010 WAS vs. MEM W 41 22 6 12 50.0 1 5 20.0 9 9 100.0 1 1 2 6 2 0 1 2 2
+p751
+aVJaVale McGee WAS 11/19/2010 WAS vs. MEM W 38 10 4 7 57.1 0 0 - 2 2 100.0 6 6 12 2 3 3 1 5 7
+p752
+aVHilton Armstrong WAS 11/19/2010 WAS vs. MEM W 10 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 2 0 4 -4
+p753
+aVNick Young WAS 11/19/2010 WAS vs. MEM W 21 5 1 8 12.5 0 3 0.0 3 4 75.0 0 1 1 0 1 0 0 0 -8
+p754
+aVAl Thornton WAS 11/17/2010 WAS @ BOS L 27 15 4 8 50.0 1 2 50.0 6 6 100.0 1 0 1 0 0 1 2 0 -18
+p755
+aVGilbert Arenas WAS 11/17/2010 WAS @ BOS L 31 9 3 11 27.3 2 7 28.6 1 2 50.0 1 2 3 1 3 0 4 4 -26
+p756
+aVNick Young WAS 11/17/2010 WAS @ BOS L 29 20 9 15 60.0 1 4 25.0 1 2 50.0 1 0 1 0 1 0 0 0 -20
+p757
+aVKevin Seraphin WAS 11/17/2010 WAS @ BOS L 9 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 0 0 2 2 -4
+p758
+aVLester Hudson WAS 11/17/2010 WAS @ BOS L 14 2 0 5 0.0 0 3 0.0 2 2 100.0 1 0 1 4 1 0 1 4 -2
+p759
+aVHilton Armstrong WAS 11/17/2010 WAS @ BOS L 13 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 -7
+p760
+aVTrevor Booker WAS 11/17/2010 WAS @ BOS L 22 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 2 1 0 0 1 -3
+p761
+aVKirk Hinrich WAS 11/17/2010 WAS @ BOS L 30 10 4 10 40.0 0 2 0.0 2 4 50.0 1 3 4 5 0 0 2 1 -21
+p762
+aVAndray Blatche WAS 11/17/2010 WAS @ BOS L 26 10 4 9 44.4 2 2 100.0 0 0 - 1 2 3 0 0 2 4 2 -28
+p763
+aVJaVale McGee WAS 11/17/2010 WAS @ BOS L 27 8 4 9 44.4 0 0 - 0 0 - 6 4 10 0 2 2 0 3 -20
+p764
+aVCartier Martin WAS 11/17/2010 WAS @ BOS L 13 4 1 4 25.0 0 2 0.0 2 2 100.0 0 0 0 0 2 0 0 0 -6
+p765
+aVCartier Martin WAS 11/16/2010 WAS vs. TOR W 7 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 -1
+p766
+aVKevin Seraphin WAS 11/16/2010 WAS vs. TOR W 2 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -4
+p767
+aVAndray Blatche WAS 11/16/2010 WAS vs. TOR W 32 22 9 13 69.2 1 1 100.0 3 4 75.0 2 5 7 5 3 0 4 2 11
+p768
+aVHamady Ndiaye WAS 11/16/2010 WAS vs. TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p769
+aVTrevor Booker WAS 11/16/2010 WAS vs. TOR W 20 8 4 6 66.7 0 0 - 0 1 0.0 0 2 2 0 1 1 2 4 8
+p770
+aVAl Thornton WAS 11/16/2010 WAS vs. TOR W 31 6 3 6 50.0 0 1 0.0 0 0 - 1 6 7 2 1 0 1 4 16
+p771
+aVHilton Armstrong WAS 11/16/2010 WAS vs. TOR W 16 10 5 6 83.3 0 0 - 0 0 - 3 1 4 2 1 0 1 0 3
+p772
+aVNick Young WAS 11/16/2010 WAS vs. TOR W 30 20 8 15 53.3 1 4 25.0 3 4 75.0 0 6 6 0 1 0 2 3 -6
+p773
+aVKirk Hinrich WAS 11/16/2010 WAS vs. TOR W 39 13 5 8 62.5 1 2 50.0 2 2 100.0 0 4 4 12 0 0 2 3 20
+p774
+aVJaVale McGee WAS 11/16/2010 WAS vs. TOR W 26 8 3 7 42.9 0 0 - 2 2 100.0 4 5 9 0 0 4 0 4 12
+p775
+aVGilbert Arenas WAS 11/16/2010 WAS vs. TOR W 32 20 7 14 50.0 3 6 50.0 3 4 75.0 0 7 7 6 1 0 3 4 24
+p776
+aVLester Hudson WAS 11/16/2010 WAS vs. TOR W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p777
+aVKirk Hinrich WAS 11/13/2010 WAS @ CHI L 37 8 3 4 75.0 1 1 100.0 1 1 100.0 1 3 4 6 1 1 3 5 -7
+p778
+aVAl Thornton WAS 11/13/2010 WAS @ CHI L 25 6 3 10 30.0 0 1 0.0 0 0 - 1 3 4 1 0 0 5 4 -6
+p779
+aVTrevor Booker WAS 11/13/2010 WAS @ CHI L 18 2 1 4 25.0 0 0 - 0 0 - 2 0 2 4 1 1 0 3 6
+p780
+aVHilton Armstrong WAS 11/13/2010 WAS @ CHI L 18 8 4 8 50.0 0 0 - 0 1 0.0 4 6 10 0 1 0 1 3 -1
+p781
+aVAndray Blatche WAS 11/13/2010 WAS @ CHI L 27 4 2 10 20.0 0 1 0.0 0 0 - 4 3 7 1 0 0 3 3 -16
+p782
+aVGilbert Arenas WAS 11/13/2010 WAS @ CHI L 32 30 11 22 50.0 7 10 70.0 1 2 50.0 2 4 6 4 2 0 5 5 0
+p783
+aVNick Young WAS 11/13/2010 WAS @ CHI L 19 11 5 9 55.6 1 2 50.0 0 0 - 0 5 5 2 0 0 0 1 3
+p784
+aVYi Jianlian WAS 11/13/2010 WAS @ CHI L 13 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 1 0 1 1 8
+p785
+aVJohn Wall WAS 11/13/2010 WAS @ CHI L 31 16 7 14 50.0 2 4 50.0 0 1 0.0 0 2 2 6 3 0 4 1 -11
+p786
+aVJaVale McGee WAS 11/13/2010 WAS @ CHI L 20 6 2 5 40.0 0 0 - 2 3 66.7 3 2 5 0 0 4 1 0 -11
+p787
+aVHilton Armstrong WAS 11/12/2010 WAS vs. CHA L 5 2 1 1 100.0 0 0 - 0 1 0.0 2 0 2 0 1 0 0 1 4
+p788
+aVNick Young WAS 11/12/2010 WAS vs. CHA L 13 9 4 7 57.1 1 3 33.3 0 0 - 0 0 0 0 0 0 0 3 4
+p789
+aVAl Thornton WAS 11/12/2010 WAS vs. CHA L 21 2 1 8 12.5 0 2 0.0 0 0 - 1 1 2 0 1 0 2 4 -7
+p790
+aVAndray Blatche WAS 11/12/2010 WAS vs. CHA L 38 22 10 21 47.6 0 0 - 2 2 100.0 5 4 9 2 2 0 1 0 -12
+p791
+aVJohn Wall WAS 11/12/2010 WAS vs. CHA L 40 13 6 16 37.5 1 4 25.0 0 0 - 1 3 4 11 4 0 1 2 -17
+p792
+aVJaVale McGee WAS 11/12/2010 WAS vs. CHA L 21 10 4 5 80.0 0 0 - 2 3 66.7 0 2 2 1 1 2 2 1 -6
+p793
+aVGilbert Arenas WAS 11/12/2010 WAS vs. CHA L 32 5 2 14 14.3 1 9 11.1 0 0 - 1 5 6 4 2 1 4 2 1
+p794
+aVKirk Hinrich WAS 11/12/2010 WAS vs. CHA L 38 14 5 7 71.4 2 3 66.7 2 2 100.0 0 1 1 8 1 0 0 2 -5
+p795
+aVYi Jianlian WAS 11/12/2010 WAS vs. CHA L 32 8 3 7 42.9 0 0 - 2 2 100.0 3 1 4 1 1 6 2 4 -2
+p796
+aVJohn Wall WAS 11/10/2010 WAS vs. HOU W 42 19 8 16 50.0 2 4 50.0 1 2 50.0 1 9 10 13 6 1 1 3 12
+p797
+aVAl Thornton WAS 11/10/2010 WAS vs. HOU W 37 20 7 13 53.8 0 0 - 6 10 60.0 4 2 6 3 0 0 1 3 2
+p798
+aVJaVale McGee WAS 11/10/2010 WAS vs. HOU W 22 8 4 6 66.7 0 0 - 0 0 - 3 3 6 0 1 4 2 1 -3
+p799
+aVCartier Martin WAS 11/10/2010 WAS vs. HOU W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p800
+aVKirk Hinrich WAS 11/10/2010 WAS vs. HOU W 29 10 3 9 33.3 1 2 50.0 3 4 75.0 1 3 4 2 1 0 6 4 -5
+p801
+aVHilton Armstrong WAS 11/10/2010 WAS vs. HOU W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -1
+p802
+aVYi Jianlian WAS 11/10/2010 WAS vs. HOU W 29 13 6 12 50.0 0 1 0.0 1 2 50.0 0 7 7 1 0 4 2 1 10
+p803
+aVGilbert Arenas WAS 11/10/2010 WAS vs. HOU W 23 5 1 7 14.3 1 2 50.0 2 2 100.0 0 2 2 3 0 1 2 4 7
+p804
+aVAndray Blatche WAS 11/10/2010 WAS vs. HOU W 35 20 9 21 42.9 1 1 100.0 1 2 50.0 6 5 11 3 2 0 2 5 8
+p805
+aVNick Young WAS 11/10/2010 WAS vs. HOU W 8 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 4
+p806
+aVYi Jianlian WAS 11/06/2010 WAS vs. CLE L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 0 1 0 2 -11
+p807
+aVGilbert Arenas WAS 11/06/2010 WAS vs. CLE L 25 13 4 13 30.8 3 6 50.0 2 2 100.0 0 1 1 3 2 1 2 2 -21
+p808
+aVAndray Blatche WAS 11/06/2010 WAS vs. CLE L 33 16 6 14 42.9 0 0 - 4 4 100.0 4 11 15 2 1 1 3 2 9
+p809
+aVJaVale McGee WAS 11/06/2010 WAS vs. CLE L 32 11 5 8 62.5 0 0 - 1 4 25.0 4 6 10 2 0 3 0 2 12
+p810
+aVAl Thornton WAS 11/06/2010 WAS vs. CLE L 33 23 10 16 62.5 1 2 50.0 2 2 100.0 1 5 6 2 1 0 1 1 7
+p811
+aVJohn Wall WAS 11/06/2010 WAS vs. CLE L 43 13 5 14 35.7 0 1 0.0 3 4 75.0 0 4 4 10 1 1 6 4 -1
+p812
+aVKirk Hinrich WAS 11/06/2010 WAS vs. CLE L 37 21 7 14 50.0 3 9 33.3 4 4 100.0 1 4 5 4 1 0 0 3 12
+p813
+aVNick Young WAS 11/06/2010 WAS vs. CLE L 6 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p814
+aVHilton Armstrong WAS 11/06/2010 WAS vs. CLE L 15 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 2 0 2 3 -20
+p815
+aVNick Young WAS 11/05/2010 WAS @ NYK L 15 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 0 -18
+p816
+aVAndray Blatche WAS 11/05/2010 WAS @ NYK L 38 22 9 17 52.9 0 1 0.0 4 4 100.0 2 4 6 2 3 0 3 1 -14
+p817
+aVTrevor Booker WAS 11/05/2010 WAS @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p818
+aVAl Thornton WAS 11/05/2010 WAS @ NYK L 26 8 4 9 44.4 0 0 - 0 0 - 3 3 6 0 0 0 2 3 -3
+p819
+aVJaVale McGee WAS 11/05/2010 WAS @ NYK L 25 8 4 5 80.0 0 0 - 0 0 - 3 5 8 0 1 1 2 5 -12
+p820
+aVJohn Wall WAS 11/05/2010 WAS @ NYK L 35 13 4 11 36.4 0 2 0.0 5 6 83.3 0 4 4 7 0 0 9 2 -16
+p821
+aVLester Hudson WAS 11/05/2010 WAS @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p822
+aVHilton Armstrong WAS 11/05/2010 WAS @ NYK L 18 4 2 4 50.0 0 0 - 0 0 - 1 6 7 0 0 1 0 0 -1
+p823
+aVKirk Hinrich WAS 11/05/2010 WAS @ NYK L 33 7 2 8 25.0 0 4 0.0 3 4 75.0 0 2 2 2 1 0 3 2 -5
+p824
+aVGilbert Arenas WAS 11/05/2010 WAS @ NYK L 26 18 6 13 46.2 4 8 50.0 2 3 66.7 0 1 1 1 1 0 0 2 -13
+p825
+aVCartier Martin WAS 11/05/2010 WAS @ NYK L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p826
+aVYi Jianlian WAS 11/05/2010 WAS @ NYK L 13 8 2 5 40.0 0 0 - 4 4 100.0 0 1 1 1 0 0 2 0 -9
+p827
+aVKirk Hinrich WAS 11/02/2010 WAS vs. PHI W 42 8 3 5 60.0 1 2 50.0 1 1 100.0 0 4 4 9 0 0 1 4 -14
+p828
+aVAndray Blatche WAS 11/02/2010 WAS vs. PHI W 43 23 5 17 29.4 0 0 - 13 14 92.9 3 5 8 1 1 0 6 2 1
+p829
+aVYi Jianlian WAS 11/02/2010 WAS vs. PHI W 20 9 3 8 37.5 0 1 0.0 3 4 75.0 2 2 4 0 1 0 2 1 10
+p830
+aVTrevor Booker WAS 11/02/2010 WAS vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p831
+aVAl Thornton WAS 11/02/2010 WAS vs. PHI W 40 12 5 12 41.7 0 1 0.0 2 2 100.0 2 4 6 1 3 0 1 3 2
+p832
+aVCartier Martin WAS 11/02/2010 WAS vs. PHI W 9 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p833
+aVJohn Wall WAS 11/02/2010 WAS vs. PHI W 45 29 9 16 56.3 0 1 0.0 11 14 78.6 0 2 2 13 9 0 8 5 1
+p834
+aVHilton Armstrong WAS 11/02/2010 WAS vs. PHI W 21 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 0 1 1 4 3
+p835
+aVNick Young WAS 11/02/2010 WAS vs. PHI W 23 20 7 11 63.6 3 5 60.0 3 3 100.0 0 2 2 0 1 0 1 2 14
+p836
+aVJaVale McGee WAS 11/02/2010 WAS vs. PHI W 22 3 1 3 33.3 0 0 - 1 3 33.3 1 5 6 0 0 1 1 2 -7
+p837
+aVAl Thornton WAS 10/30/2010 WAS @ ATL L 42 24 10 15 66.7 0 2 0.0 4 8 50.0 4 3 7 1 2 1 1 1 2
+p838
+aVCartier Martin WAS 10/30/2010 WAS @ ATL L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -13
+p839
+aVHilton Armstrong WAS 10/30/2010 WAS @ ATL L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 2 2 0
+p840
+aVTrevor Booker WAS 10/30/2010 WAS @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p841
+aVJaVale McGee WAS 10/30/2010 WAS @ ATL L 27 7 3 4 75.0 0 0 - 1 1 100.0 2 6 8 0 1 7 5 5 -6
+p842
+aVKirk Hinrich WAS 10/30/2010 WAS @ ATL L 41 8 3 8 37.5 2 5 40.0 0 0 - 0 3 3 4 3 0 0 5 -5
+p843
+aVYi Jianlian WAS 10/30/2010 WAS @ ATL L 24 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 4 5
+p844
+aVNick Young WAS 10/30/2010 WAS @ ATL L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -2
+p845
+aVAndray Blatche WAS 10/30/2010 WAS @ ATL L 34 18 9 19 47.4 0 1 0.0 0 0 - 2 5 7 2 1 1 4 3 0
+p846
+aVJohn Wall WAS 10/30/2010 WAS @ ATL L 42 28 9 17 52.9 2 3 66.7 8 10 80.0 0 5 5 9 0 0 3 1 3
+p847
+aVAndray Blatche WAS 10/28/2010 WAS @ ORL L 24 6 2 9 22.2 0 1 0.0 2 2 100.0 0 2 2 2 1 0 2 4 -24
+p848
+aVJaVale McGee WAS 10/28/2010 WAS @ ORL L 20 7 3 6 50.0 0 0 - 1 2 50.0 2 0 2 0 1 1 1 2 -14
+p849
+aVTrevor Booker WAS 10/28/2010 WAS @ ORL L 10 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 0 1
+p850
+aVHilton Armstrong WAS 10/28/2010 WAS @ ORL L 11 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 1 2 5 -5
+p851
+aVHamady Ndiaye WAS 10/28/2010 WAS @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 4
+p852
+aVKirk Hinrich WAS 10/28/2010 WAS @ ORL L 33 12 4 9 44.4 3 6 50.0 1 1 100.0 0 0 0 2 0 0 1 2 -25
+p853
+aVNick Young WAS 10/28/2010 WAS @ ORL L 21 5 1 5 20.0 0 2 0.0 3 3 100.0 0 2 2 1 0 0 0 0 -4
+p854
+aVAl Thornton WAS 10/28/2010 WAS @ ORL L 24 9 4 9 44.4 0 3 0.0 1 2 50.0 1 6 7 1 1 0 0 4 -26
+p855
+aVCartier Martin WAS 10/28/2010 WAS @ ORL L 24 17 5 9 55.6 1 4 25.0 6 6 100.0 0 2 2 0 2 1 0 0 -3
+p856
+aVLester Hudson WAS 10/28/2010 WAS @ ORL L 7 0 0 2 0.0 0 2 0.0 0 1 0.0 0 0 0 1 0 0 2 0 2
+p857
+aVJohn Wall WAS 10/28/2010 WAS @ ORL L 35 14 6 19 31.6 0 0 - 2 3 66.7 0 1 1 9 3 0 3 3 -31
+p858
+aVYi Jianlian WAS 10/28/2010 WAS @ ORL L 28 6 2 6 33.3 0 1 0.0 2 6 33.3 0 5 5 0 1 0 2 3 -20
+p859
+a.

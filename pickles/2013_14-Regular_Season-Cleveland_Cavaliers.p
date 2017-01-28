@@ -1,0 +1,1744 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCarrick Felix CLE 04/16/2014 CLE vs. BKN W 12 10 4 6 66.7 2 3 66.7 0 0 - 0 2 2 3 0 0 1 2 12
+p2
+aVSpencer Hawes CLE 04/16/2014 CLE vs. BKN W 24 10 4 7 57.1 2 4 50.0 0 0 - 1 6 7 3 0 2 2 2 11
+p3
+aVJarrett Jack CLE 04/16/2014 CLE vs. BKN W 25 5 2 10 20.0 1 3 33.3 0 0 - 0 3 3 9 2 0 2 2 18
+p4
+aVDion Waiters CLE 04/16/2014 CLE vs. BKN W 27 19 7 12 58.3 2 5 40.0 3 4 75.0 1 1 2 2 1 0 2 0 14
+p5
+aVAnthony Bennett CLE 04/16/2014 CLE vs. BKN W 15 7 3 6 50.0 0 0 - 1 2 50.0 1 6 7 0 0 0 1 0 8
+p6
+aVAlonzo Gee CLE 04/16/2014 CLE vs. BKN W 30 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 1 2 1 0 3 23
+p7
+aVTristan Thompson CLE 04/16/2014 CLE vs. BKN W 27 11 5 9 55.6 0 0 - 1 1 100.0 5 5 10 1 0 1 0 0 20
+p8
+aVTyler Zeller CLE 04/16/2014 CLE vs. BKN W 26 22 9 11 81.8 0 0 - 4 5 80.0 4 7 11 2 1 2 0 2 16
+p9
+aVMatthew Dellavedova CLE 04/16/2014 CLE vs. BKN W 26 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 6 1 0 2 4 13
+p10
+aVKyrie Irving CLE 04/16/2014 CLE vs. BKN W 27 15 6 12 50.0 0 2 0.0 3 3 100.0 0 2 2 5 3 1 2 3 10
+p11
+aVTyler Zeller CLE 04/12/2014 CLE vs. BOS L 26 12 4 8 50.0 0 0 - 4 7 57.1 2 5 7 2 0 0 0 3 4
+p12
+aVSpencer Hawes CLE 04/12/2014 CLE vs. BOS L 21 3 1 4 25.0 1 2 50.0 0 0 - 2 8 10 4 0 0 3 3 -18
+p13
+aVMatthew Dellavedova CLE 04/12/2014 CLE vs. BOS L 32 10 4 9 44.4 2 5 40.0 0 0 - 0 1 1 2 0 0 3 0 7
+p14
+aVDion Waiters CLE 04/12/2014 CLE vs. BOS L 27 15 6 15 40.0 0 3 0.0 3 6 50.0 1 3 4 2 0 1 1 0 -26
+p15
+aVTristan Thompson CLE 04/12/2014 CLE vs. BOS L 33 14 6 12 50.0 0 0 - 2 3 66.7 4 6 10 1 0 1 1 2 -1
+p16
+aVAnderson Varejao CLE 04/12/2014 CLE vs. BOS L 16 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 2 -9
+p17
+aVKyrie Irving CLE 04/12/2014 CLE vs. BOS L 31 15 3 15 20.0 1 4 25.0 8 8 100.0 0 1 1 2 0 0 1 2 -27
+p18
+aVJarrett Jack CLE 04/12/2014 CLE vs. BOS L 33 15 6 14 42.9 1 4 25.0 2 2 100.0 1 2 3 6 1 0 0 3 -2
+p19
+aVAlonzo Gee CLE 04/12/2014 CLE vs. BOS L 20 11 5 9 55.6 0 0 - 1 4 25.0 4 3 7 3 1 0 1 5 12
+p20
+aVSpencer Hawes CLE 04/11/2014 CLE @ MIL L 25 15 7 12 58.3 1 5 20.0 0 0 - 0 6 6 2 0 2 3 6 -18
+p21
+aVDion Waiters CLE 04/11/2014 CLE @ MIL L 30 23 8 15 53.3 1 2 50.0 6 8 75.0 0 0 0 3 5 0 1 3 13
+p22
+aVAlonzo Gee CLE 04/11/2014 CLE @ MIL L 23 9 3 8 37.5 0 1 0.0 3 4 75.0 1 3 4 1 1 0 1 1 -17
+p23
+aVKyrie Irving CLE 04/11/2014 CLE @ MIL L 32 12 4 12 33.3 0 5 0.0 4 4 100.0 2 0 2 2 3 1 1 1 -11
+p24
+aVJarrett Jack CLE 04/11/2014 CLE @ MIL L 34 21 7 13 53.8 2 5 40.0 5 5 100.0 0 4 4 2 1 0 2 2 3
+p25
+aVMatthew Dellavedova CLE 04/11/2014 CLE @ MIL L 25 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 5 1 0 0 5 4
+p26
+aVTyler Zeller CLE 04/11/2014 CLE @ MIL L 19 11 5 8 62.5 0 0 - 1 2 50.0 2 4 6 0 0 0 1 4 11
+p27
+aVTristan Thompson CLE 04/11/2014 CLE @ MIL L 35 18 5 8 62.5 0 0 - 8 10 80.0 5 5 10 2 0 1 0 3 -3
+p28
+aVAnderson Varejao CLE 04/11/2014 CLE @ MIL L 17 3 1 3 33.3 0 0 - 1 2 50.0 0 6 6 1 0 0 1 2 3
+p29
+aVAlonzo Gee CLE 04/09/2014 CLE vs. DET W 8 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 2 0 0 -7
+p30
+aVSergey Karasev CLE 04/09/2014 CLE vs. DET W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -7
+p31
+aVJarrett Jack CLE 04/09/2014 CLE vs. DET W 22 7 3 6 50.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 4 2 18
+p32
+aVAnderson Varejao CLE 04/09/2014 CLE vs. DET W 21 11 5 8 62.5 0 0 - 1 2 50.0 5 7 12 2 1 0 0 2 14
+p33
+aVLuol Deng CLE 04/09/2014 CLE vs. DET W 25 13 6 12 50.0 0 4 0.0 1 1 100.0 0 2 2 7 0 0 2 2 10
+p34
+aVScotty Hopson CLE 04/09/2014 CLE vs. DET W 5 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -8
+p35
+aVDion Waiters CLE 04/09/2014 CLE vs. DET W 31 22 9 18 50.0 4 8 50.0 0 1 0.0 0 3 3 8 1 0 1 4 20
+p36
+aVTristan Thompson CLE 04/09/2014 CLE vs. DET W 24 10 5 6 83.3 0 0 - 0 1 0.0 1 3 4 0 0 2 1 0 9
+p37
+aVKyrie Irving CLE 04/09/2014 CLE vs. DET W 23 8 3 6 50.0 0 1 0.0 2 2 100.0 2 3 5 5 3 0 2 2 15
+p38
+aVTyler Zeller CLE 04/09/2014 CLE vs. DET W 24 18 9 11 81.8 0 0 - 0 0 - 3 3 6 0 1 2 0 2 14
+p39
+aVMatthew Dellavedova CLE 04/09/2014 CLE vs. DET W 31 14 5 8 62.5 4 6 66.7 0 0 - 0 4 4 12 1 0 2 3 18
+p40
+aVSpencer Hawes CLE 04/09/2014 CLE vs. DET W 19 15 6 8 75.0 3 3 100.0 0 0 - 2 6 8 3 1 0 2 4 14
+p41
+aVMatthew Dellavedova CLE 04/05/2014 CLE vs. CHA L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -3
+p42
+aVJarrett Jack CLE 04/05/2014 CLE vs. CHA L 27 5 1 8 12.5 0 1 0.0 3 3 100.0 0 2 2 2 0 0 0 3 0
+p43
+aVLuol Deng CLE 04/05/2014 CLE vs. CHA L 37 5 2 10 20.0 0 3 0.0 1 1 100.0 0 3 3 1 0 0 0 1 -3
+p44
+aVTristan Thompson CLE 04/05/2014 CLE vs. CHA L 30 4 2 8 25.0 0 0 - 0 0 - 2 10 12 3 1 0 1 1 -4
+p45
+aVSpencer Hawes CLE 04/05/2014 CLE vs. CHA L 36 9 3 9 33.3 1 2 50.0 2 2 100.0 1 6 7 4 0 0 1 2 -3
+p46
+aVAlonzo Gee CLE 04/05/2014 CLE vs. CHA L 7 2 1 2 50.0 0 1 0.0 0 2 0.0 1 4 5 0 0 0 1 0 -5
+p47
+aVKyrie Irving CLE 04/05/2014 CLE vs. CHA L 43 44 16 31 51.6 5 9 55.6 7 8 87.5 2 5 7 8 3 0 3 3 3
+p48
+aVTyler Zeller CLE 04/05/2014 CLE vs. CHA L 17 5 2 6 33.3 0 0 - 1 1 100.0 2 6 8 1 0 0 1 0 4
+p49
+aVAnderson Varejao CLE 04/05/2014 CLE vs. CHA L 23 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 1 0 1 6 -2
+p50
+aVDion Waiters CLE 04/05/2014 CLE vs. CHA L 36 14 5 16 31.3 1 4 25.0 3 4 75.0 1 2 3 1 0 3 2 2 3
+p51
+aVLuol Deng CLE 04/04/2014 CLE @ ATL L 35 13 4 13 30.8 0 3 0.0 5 6 83.3 1 1 2 0 0 0 0 0 -12
+p52
+aVMatthew Dellavedova CLE 04/04/2014 CLE @ ATL L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 4 -14
+p53
+aVKyrie Irving CLE 04/04/2014 CLE @ ATL L 38 13 6 15 40.0 0 3 0.0 1 2 50.0 0 7 7 4 6 0 2 1 -14
+p54
+aVJarrett Jack CLE 04/04/2014 CLE @ ATL L 22 9 4 13 30.8 1 6 16.7 0 0 - 0 3 3 2 0 1 0 1 -5
+p55
+aVAnderson Varejao CLE 04/04/2014 CLE @ ATL L 24 9 3 8 37.5 0 0 - 3 4 75.0 1 4 5 2 0 0 0 1 -10
+p56
+aVTristan Thompson CLE 04/04/2014 CLE @ ATL L 24 8 2 3 66.7 0 0 - 4 4 100.0 1 2 3 0 0 0 1 5 -5
+p57
+aVSpencer Hawes CLE 04/04/2014 CLE @ ATL L 38 16 6 14 42.9 1 3 33.3 3 4 75.0 5 5 10 4 6 2 1 1 -12
+p58
+aVAlonzo Gee CLE 04/04/2014 CLE @ ATL L 8 5 2 3 66.7 0 0 - 1 1 100.0 2 0 2 0 0 0 0 1 -11
+p59
+aVDion Waiters CLE 04/04/2014 CLE @ ATL L 36 23 8 19 42.1 3 5 60.0 4 4 100.0 0 2 2 3 0 0 2 4 -12
+p60
+aVSpencer Hawes CLE 04/02/2014 CLE @ ORL W 34 20 7 16 43.8 4 7 57.1 2 2 100.0 0 8 8 5 0 0 1 1 17
+p61
+aVTyler Zeller CLE 04/02/2014 CLE @ ORL W 19 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 2 1 1 9
+p62
+aVJarrett Jack CLE 04/02/2014 CLE @ ORL W 30 13 5 9 55.6 1 3 33.3 2 2 100.0 0 4 4 4 1 0 3 2 -2
+p63
+aVLuol Deng CLE 04/02/2014 CLE @ ORL W 21 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 28
+p64
+aVScotty Hopson CLE 04/02/2014 CLE @ ORL W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 2
+p65
+aVMatthew Dellavedova CLE 04/02/2014 CLE @ ORL W 22 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 5 0 0 0 0 8
+p66
+aVDion Waiters CLE 04/02/2014 CLE @ ORL W 34 26 10 15 66.7 3 3 100.0 3 4 75.0 0 0 0 3 1 0 3 3 10
+p67
+aVTristan Thompson CLE 04/02/2014 CLE @ ORL W 32 20 6 10 60.0 0 0 - 8 8 100.0 5 6 11 0 2 1 0 4 18
+p68
+aVKyrie Irving CLE 04/02/2014 CLE @ ORL W 28 17 7 8 87.5 0 1 0.0 3 4 75.0 0 6 6 8 1 0 4 1 20
+p69
+aVSergey Karasev CLE 04/02/2014 CLE @ ORL W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p70
+aVAlonzo Gee CLE 04/02/2014 CLE @ ORL W 16 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 1 1 0 2 -7
+p71
+aVTyler Zeller CLE 03/30/2014 CLE vs. IND W 16 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 1 4 12
+p72
+aVLuol Deng CLE 03/30/2014 CLE vs. IND W 36 15 6 12 50.0 0 2 0.0 3 5 60.0 1 4 5 3 1 0 3 1 12
+p73
+aVTristan Thompson CLE 03/30/2014 CLE vs. IND W 30 12 4 10 40.0 0 0 - 4 4 100.0 6 10 16 1 2 0 1 3 6
+p74
+aVAnderson Varejao CLE 03/30/2014 CLE vs. IND W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 6 6 0 0 0 1 0 13
+p75
+aVJarrett Jack CLE 03/30/2014 CLE vs. IND W 36 11 4 11 36.4 1 2 50.0 2 2 100.0 0 6 6 9 1 1 0 2 12
+p76
+aVDion Waiters CLE 03/30/2014 CLE vs. IND W 33 19 9 20 45.0 1 4 25.0 0 0 - 0 1 1 1 2 0 2 3 -6
+p77
+aVSpencer Hawes CLE 03/30/2014 CLE vs. IND W 33 13 5 9 55.6 1 2 50.0 2 2 100.0 1 4 5 0 0 0 4 5 -5
+p78
+aVMatthew Dellavedova CLE 03/30/2014 CLE vs. IND W 30 11 3 6 50.0 2 4 50.0 3 4 75.0 1 1 2 6 0 0 2 2 24
+p79
+aVAlonzo Gee CLE 03/30/2014 CLE vs. IND W 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 2
+p80
+aVJarrett Jack CLE 03/28/2014 CLE @ BKN L 41 9 4 12 33.3 1 5 20.0 0 0 - 0 2 2 7 2 0 1 2 -4
+p81
+aVSpencer Hawes CLE 03/28/2014 CLE @ BKN L 22 16 6 13 46.2 3 3 100.0 1 2 50.0 3 2 5 2 0 2 2 0 -13
+p82
+aVDion Waiters CLE 03/28/2014 CLE @ BKN L 42 20 6 18 33.3 3 7 42.9 5 5 100.0 0 1 1 5 1 0 3 3 -6
+p83
+aVLuol Deng CLE 03/28/2014 CLE @ BKN L 38 20 7 15 46.7 1 5 20.0 5 6 83.3 2 4 6 7 1 0 1 2 10
+p84
+aVTyler Zeller CLE 03/28/2014 CLE @ BKN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p85
+aVAnderson Varejao CLE 03/28/2014 CLE @ BKN L 29 8 3 8 37.5 0 0 - 2 3 66.7 4 9 13 0 1 0 1 3 -9
+p86
+aVTristan Thompson CLE 03/28/2014 CLE @ BKN L 25 14 7 10 70.0 0 0 - 0 0 - 1 4 5 0 1 0 0 2 -5
+p87
+aVAlonzo Gee CLE 03/28/2014 CLE @ BKN L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -18
+p88
+aVMatthew Dellavedova CLE 03/28/2014 CLE @ BKN L 29 8 3 6 50.0 2 3 66.7 0 0 - 0 3 3 4 0 0 2 4 -2
+p89
+aVLuol Deng CLE 03/26/2014 CLE @ DET W 34 7 3 14 21.4 0 4 0.0 1 1 100.0 2 4 6 4 0 0 2 0 -1
+p90
+aVSpencer Hawes CLE 03/26/2014 CLE @ DET W 24 4 2 4 50.0 0 2 0.0 0 1 0.0 1 5 6 2 1 1 2 1 -18
+p91
+aVDion Waiters CLE 03/26/2014 CLE @ DET W 39 18 8 20 40.0 0 6 0.0 2 3 66.7 0 4 4 4 0 1 0 3 3
+p92
+aVJarrett Jack CLE 03/26/2014 CLE @ DET W 29 17 7 15 46.7 2 4 50.0 1 1 100.0 0 2 2 1 0 0 2 0 -12
+p93
+aVMatthew Dellavedova CLE 03/26/2014 CLE @ DET W 36 21 7 9 77.8 5 7 71.4 2 4 50.0 0 3 3 6 1 0 2 2 24
+p94
+aVAnderson Varejao CLE 03/26/2014 CLE @ DET W 31 12 5 9 55.6 0 0 - 2 4 50.0 7 9 16 0 1 0 0 4 25
+p95
+aVAlonzo Gee CLE 03/26/2014 CLE @ DET W 17 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 1 0 0 0 2 4
+p96
+aVTristan Thompson CLE 03/26/2014 CLE @ DET W 22 6 0 3 0.0 0 0 - 6 10 60.0 3 3 6 0 0 0 2 0 -16
+p97
+aVTyler Zeller CLE 03/26/2014 CLE @ DET W 10 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p98
+aVAnderson Varejao CLE 03/25/2014 CLE vs. TOR W 23 11 4 8 50.0 0 1 0.0 3 4 75.0 3 5 8 2 1 0 2 3 -1
+p99
+aVDion Waiters CLE 03/25/2014 CLE vs. TOR W 43 24 10 19 52.6 1 2 50.0 3 4 75.0 1 2 3 7 1 2 4 0 4
+p100
+aVLuol Deng CLE 03/25/2014 CLE vs. TOR W 40 19 7 13 53.8 2 4 50.0 3 4 75.0 0 6 6 7 1 1 1 1 -2
+p101
+aVMatthew Dellavedova CLE 03/25/2014 CLE vs. TOR W 26 0 0 2 0.0 0 0 - 0 0 - 0 4 4 5 0 0 0 3 -8
+p102
+aVTristan Thompson CLE 03/25/2014 CLE vs. TOR W 27 15 3 4 75.0 0 0 - 9 10 90.0 4 9 13 0 0 1 2 5 9
+p103
+aVTyler Zeller CLE 03/25/2014 CLE vs. TOR W 9 5 1 1 100.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 1 -1
+p104
+aVAlonzo Gee CLE 03/25/2014 CLE vs. TOR W 13 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 0 1 1 2 4 0
+p105
+aVSpencer Hawes CLE 03/25/2014 CLE vs. TOR W 22 11 4 10 40.0 1 3 33.3 2 2 100.0 1 6 7 1 0 3 2 3 8
+p106
+aVJarrett Jack CLE 03/25/2014 CLE vs. TOR W 37 13 6 9 66.7 0 1 0.0 1 3 33.3 0 5 5 5 2 1 1 2 1
+p107
+aVMatthew Dellavedova CLE 03/23/2014 CLE @ NYK W 26 9 3 5 60.0 1 3 33.3 2 2 100.0 0 3 3 1 0 0 0 1 -4
+p108
+aVSpencer Hawes CLE 03/23/2014 CLE @ NYK W 22 7 3 5 60.0 1 1 100.0 0 0 - 1 4 5 1 1 0 1 2 7
+p109
+aVDion Waiters CLE 03/23/2014 CLE @ NYK W 41 22 9 17 52.9 2 7 28.6 2 2 100.0 0 5 5 2 0 0 2 1 16
+p110
+aVJarrett Jack CLE 03/23/2014 CLE @ NYK W 42 31 13 19 68.4 1 2 50.0 4 5 80.0 0 5 5 10 0 1 3 0 8
+p111
+aVAlonzo Gee CLE 03/23/2014 CLE @ NYK W 16 11 4 6 66.7 1 1 100.0 2 2 100.0 0 3 3 1 0 1 0 4 -9
+p112
+aVLuol Deng CLE 03/23/2014 CLE @ NYK W 32 13 5 8 62.5 3 4 75.0 0 0 - 1 3 4 0 2 0 1 3 15
+p113
+aVTristan Thompson CLE 03/23/2014 CLE @ NYK W 28 9 3 5 60.0 0 0 - 3 4 75.0 1 3 4 1 2 1 1 2 -4
+p114
+aVAnderson Varejao CLE 03/23/2014 CLE @ NYK W 20 4 2 3 66.7 0 0 - 0 2 0.0 0 4 4 1 0 0 3 3 6
+p115
+aVTyler Zeller CLE 03/23/2014 CLE @ NYK W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -5
+p116
+aVTyler Zeller CLE 03/22/2014 CLE vs. HOU L 30 23 10 16 62.5 0 0 - 3 5 60.0 3 4 7 3 0 1 1 4 16
+p117
+aVDion Waiters CLE 03/22/2014 CLE vs. HOU L 40 26 11 21 52.4 1 6 16.7 3 4 75.0 1 4 5 7 0 0 3 5 -8
+p118
+aVSpencer Hawes CLE 03/22/2014 CLE vs. HOU L 17 3 1 8 12.5 0 2 0.0 1 2 50.0 2 0 2 2 0 1 2 2 -18
+p119
+aVAnderson Varejao CLE 03/22/2014 CLE vs. HOU L 24 12 5 7 71.4 0 1 0.0 2 2 100.0 3 8 11 2 1 1 1 3 1
+p120
+aVSeth Curry CLE 03/22/2014 CLE vs. HOU L 9 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 2 0 0 0 -5
+p121
+aVJarrett Jack CLE 03/22/2014 CLE vs. HOU L 36 11 5 13 38.5 0 1 0.0 1 1 100.0 0 4 4 5 1 1 2 1 -1
+p122
+aVTristan Thompson CLE 03/22/2014 CLE vs. HOU L 25 10 4 8 50.0 0 0 - 2 2 100.0 3 9 12 1 1 0 0 5 -13
+p123
+aVAlonzo Gee CLE 03/22/2014 CLE vs. HOU L 23 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 2 2 0 1 3 -16
+p124
+aVMatthew Dellavedova CLE 03/22/2014 CLE vs. HOU L 37 14 5 11 45.5 3 5 60.0 1 1 100.0 1 4 5 10 0 0 6 4 9
+p125
+aVAlonzo Gee CLE 03/20/2014 CLE vs. OKC L 26 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 3 2 0 0 4 -6
+p126
+aVMatthew Dellavedova CLE 03/20/2014 CLE vs. OKC L 33 11 4 8 50.0 2 6 33.3 1 2 50.0 2 2 4 10 1 0 3 1 8
+p127
+aVShane Edwards CLE 03/20/2014 CLE vs. OKC L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p128
+aVTristan Thompson CLE 03/20/2014 CLE vs. OKC L 32 5 2 8 25.0 0 0 - 1 2 50.0 3 7 10 0 0 0 0 3 1
+p129
+aVTyler Zeller CLE 03/20/2014 CLE vs. OKC L 14 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 2 0 0 0 0 -8
+p130
+aVSpencer Hawes CLE 03/20/2014 CLE vs. OKC L 31 20 8 17 47.1 3 10 30.0 1 2 50.0 0 3 3 3 0 0 3 3 4
+p131
+aVDion Waiters CLE 03/20/2014 CLE vs. OKC L 41 30 11 25 44.0 2 3 66.7 6 12 50.0 0 2 2 4 3 0 1 3 1
+p132
+aVAnderson Varejao CLE 03/20/2014 CLE vs. OKC L 19 8 3 5 60.0 0 0 - 2 2 100.0 2 6 8 1 2 0 2 3 -11
+p133
+aVJarrett Jack CLE 03/20/2014 CLE vs. OKC L 34 6 2 8 25.0 0 1 0.0 2 2 100.0 1 2 3 4 1 0 2 2 -19
+p134
+aVAlonzo Gee CLE 03/18/2014 CLE vs. MIA L 36 12 5 11 45.5 2 6 33.3 0 0 - 1 2 3 2 1 2 1 5 -4
+p135
+aVAnderson Varejao CLE 03/18/2014 CLE vs. MIA L 26 16 7 11 63.6 0 0 - 2 2 100.0 0 11 11 1 3 1 2 6 7
+p136
+aVDion Waiters CLE 03/18/2014 CLE vs. MIA L 41 17 6 19 31.6 1 6 16.7 4 5 80.0 0 4 4 11 1 0 6 4 -14
+p137
+aVJarrett Jack CLE 03/18/2014 CLE vs. MIA L 42 22 8 13 61.5 4 6 66.7 2 4 50.0 0 4 4 4 0 1 3 2 -2
+p138
+aVSpencer Hawes CLE 03/18/2014 CLE vs. MIA L 35 11 5 10 50.0 0 3 0.0 1 2 50.0 0 9 9 3 0 1 2 3 -7
+p139
+aVMatthew Dellavedova CLE 03/18/2014 CLE vs. MIA L 23 5 2 3 66.7 0 1 0.0 1 1 100.0 1 2 3 6 0 0 2 4 13
+p140
+aVTyler Zeller CLE 03/18/2014 CLE vs. MIA L 14 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 3
+p141
+aVCJ Miles CLE 03/18/2014 CLE vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p142
+aVTristan Thompson CLE 03/18/2014 CLE vs. MIA L 21 10 3 4 75.0 0 0 - 4 6 66.7 1 3 4 0 1 0 2 3 -11
+p143
+aVDion Waiters CLE 03/16/2014 CLE @ LAC L 36 15 5 15 33.3 3 6 50.0 2 4 50.0 0 3 3 5 0 0 3 2 -9
+p144
+aVTristan Thompson CLE 03/16/2014 CLE @ LAC L 20 2 1 6 16.7 0 0 - 0 1 0.0 0 1 1 0 0 0 0 3 -31
+p145
+aVTyler Zeller CLE 03/16/2014 CLE @ LAC L 21 4 2 8 25.0 0 0 - 0 0 - 2 7 9 1 0 1 3 2 7
+p146
+aVMatthew Dellavedova CLE 03/16/2014 CLE @ LAC L 22 4 2 7 28.6 0 3 0.0 0 0 - 2 3 5 1 0 0 2 1 10
+p147
+aVAlonzo Gee CLE 03/16/2014 CLE @ LAC L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -7
+p148
+aVAnderson Varejao CLE 03/16/2014 CLE @ LAC L 19 2 1 3 33.3 0 0 - 0 2 0.0 5 7 12 1 1 0 1 2 3
+p149
+aVLuol Deng CLE 03/16/2014 CLE @ LAC L 31 23 8 16 50.0 3 7 42.9 4 4 100.0 3 3 6 1 1 0 0 0 -23
+p150
+aVShane Edwards CLE 03/16/2014 CLE @ LAC L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p151
+aVJarrett Jack CLE 03/16/2014 CLE @ LAC L 35 12 4 8 50.0 1 3 33.3 3 3 100.0 0 2 2 5 0 0 6 1 -26
+p152
+aVKyrie Irving CLE 03/16/2014 CLE @ LAC L 10 2 0 5 0.0 0 0 - 2 2 100.0 1 3 4 2 0 0 0 0 -11
+p153
+aVSpencer Hawes CLE 03/16/2014 CLE @ LAC L 34 14 5 11 45.5 1 4 25.0 3 4 75.0 2 3 5 1 0 0 2 5 -20
+p154
+aVJarrett Jack CLE 03/14/2014 CLE @ GSW W 28 9 4 5 80.0 0 0 - 1 1 100.0 0 3 3 4 1 0 1 5 15
+p155
+aVSpencer Hawes CLE 03/14/2014 CLE @ GSW W 36 22 8 18 44.4 1 7 14.3 5 6 83.3 3 10 13 2 1 1 0 4 -6
+p156
+aVMatthew Dellavedova CLE 03/14/2014 CLE @ GSW W 16 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 3 0 0 0 0 10
+p157
+aVDion Waiters CLE 03/14/2014 CLE @ GSW W 31 18 8 17 47.1 2 5 40.0 0 0 - 0 1 1 4 1 0 2 0 9
+p158
+aVTristan Thompson CLE 03/14/2014 CLE @ GSW W 26 4 1 7 14.3 0 0 - 2 2 100.0 1 4 5 1 1 2 2 4 -7
+p159
+aVLuol Deng CLE 03/14/2014 CLE @ GSW W 33 16 6 10 60.0 2 3 66.7 2 4 50.0 0 6 6 0 1 0 0 1 -8
+p160
+aVAnderson Varejao CLE 03/14/2014 CLE @ GSW W 20 5 2 4 50.0 0 0 - 1 2 50.0 0 6 6 1 1 0 1 3 20
+p161
+aVKyrie Irving CLE 03/14/2014 CLE @ GSW W 37 16 6 12 50.0 3 5 60.0 1 2 50.0 0 2 2 4 4 1 5 2 1
+p162
+aVTyler Zeller CLE 03/14/2014 CLE @ GSW W 12 7 3 5 60.0 0 0 - 1 1 100.0 0 5 5 0 1 0 0 1 11
+p163
+aVMatthew Dellavedova CLE 03/12/2014 CLE @ PHX W 10 7 2 4 50.0 1 2 50.0 2 2 100.0 3 0 3 1 1 0 2 1 4
+p164
+aVAlonzo Gee CLE 03/12/2014 CLE @ PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p165
+aVTyler Zeller CLE 03/12/2014 CLE @ PHX W 15 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 1 0 0 0 1 1
+p166
+aVKyrie Irving CLE 03/12/2014 CLE @ PHX W 39 23 9 19 47.4 3 6 50.0 2 2 100.0 1 8 9 6 2 1 3 3 12
+p167
+aVAnderson Varejao CLE 03/12/2014 CLE @ PHX W 15 6 3 7 42.9 0 0 - 0 0 - 3 4 7 0 1 0 0 0 2
+p168
+aVJarrett Jack CLE 03/12/2014 CLE @ PHX W 34 11 3 7 42.9 0 1 0.0 5 6 83.3 1 3 4 4 0 0 1 2 2
+p169
+aVDion Waiters CLE 03/12/2014 CLE @ PHX W 18 10 4 11 36.4 2 5 40.0 0 0 - 1 1 2 1 2 0 4 3 5
+p170
+aVLuol Deng CLE 03/12/2014 CLE @ PHX W 39 18 7 12 58.3 3 6 50.0 1 1 100.0 0 9 9 3 0 0 2 3 8
+p171
+aVSpencer Hawes CLE 03/12/2014 CLE @ PHX W 34 19 6 11 54.5 3 4 75.0 4 4 100.0 1 5 6 3 0 0 4 4 8
+p172
+aVTristan Thompson CLE 03/12/2014 CLE @ PHX W 31 13 3 7 42.9 0 0 - 7 10 70.0 2 5 7 1 0 0 1 3 6
+p173
+aVDion Waiters CLE 03/08/2014 CLE vs. NYK L 14 8 3 8 37.5 0 0 - 2 3 66.7 0 2 2 1 0 0 0 1 -9
+p174
+aVTyler Zeller CLE 03/08/2014 CLE vs. NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p175
+aVAlonzo Gee CLE 03/08/2014 CLE vs. NYK L 11 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p176
+aVAnderson Varejao CLE 03/08/2014 CLE vs. NYK L 9 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -4
+p177
+aVMatthew Dellavedova CLE 03/08/2014 CLE vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p178
+aVJarrett Jack CLE 03/08/2014 CLE vs. NYK L 39 12 5 13 38.5 0 4 0.0 2 2 100.0 0 2 2 3 2 0 3 2 -5
+p179
+aVSpencer Hawes CLE 03/08/2014 CLE vs. NYK L 36 21 7 15 46.7 4 7 57.1 3 3 100.0 1 9 10 3 1 3 2 5 -4
+p180
+aVTristan Thompson CLE 03/08/2014 CLE vs. NYK L 37 8 3 8 37.5 0 0 - 2 2 100.0 1 3 4 1 2 1 0 2 -4
+p181
+aVLuol Deng CLE 03/08/2014 CLE vs. NYK L 39 10 3 12 25.0 2 3 66.7 2 2 100.0 3 4 7 4 1 1 2 1 -7
+p182
+aVAnthony Bennett CLE 03/08/2014 CLE vs. NYK L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p183
+aVKyrie Irving CLE 03/08/2014 CLE vs. NYK L 43 30 11 25 44.0 3 9 33.3 5 6 83.3 2 6 8 8 2 0 3 3 -6
+p184
+aVJarrett Jack CLE 03/07/2014 CLE @ CHA L 27 10 3 6 50.0 0 1 0.0 4 4 100.0 1 1 2 6 0 1 3 1 -4
+p185
+aVAnthony Bennett CLE 03/07/2014 CLE @ CHA L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 9
+p186
+aVTyler Zeller CLE 03/07/2014 CLE @ CHA L 17 5 2 5 40.0 0 0 - 1 2 50.0 4 1 5 0 1 0 2 3 1
+p187
+aVDion Waiters CLE 03/07/2014 CLE @ CHA L 32 19 8 18 44.4 1 3 33.3 2 2 100.0 1 4 5 1 3 0 0 1 -4
+p188
+aVSpencer Hawes CLE 03/07/2014 CLE @ CHA L 36 13 5 13 38.5 1 3 33.3 2 2 100.0 0 7 7 1 0 0 1 5 -16
+p189
+aVMatthew Dellavedova CLE 03/07/2014 CLE @ CHA L 15 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 2 -5
+p190
+aVLuol Deng CLE 03/07/2014 CLE @ CHA L 34 19 8 15 53.3 0 2 0.0 3 4 75.0 3 3 6 1 1 0 2 2 -6
+p191
+aVTristan Thompson CLE 03/07/2014 CLE @ CHA L 31 10 5 9 55.6 0 0 - 0 0 - 3 5 8 0 0 0 0 0 -10
+p192
+aVKyrie Irving CLE 03/07/2014 CLE @ CHA L 36 13 5 17 29.4 0 7 0.0 3 6 50.0 3 3 6 5 2 0 4 5 -10
+p193
+aVArinze Onuaku CLE 03/04/2014 CLE vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p194
+aVTristan Thompson CLE 03/04/2014 CLE vs. SAS L 30 5 2 8 25.0 0 0 - 1 2 50.0 2 8 10 0 0 0 0 3 -5
+p195
+aVLuol Deng CLE 03/04/2014 CLE vs. SAS L 35 9 3 10 30.0 0 2 0.0 3 4 75.0 1 1 2 3 0 0 4 3 1
+p196
+aVMatthew Dellavedova CLE 03/04/2014 CLE vs. SAS L 16 0 0 0 - 0 0 - 0 0 - 0 2 2 7 1 0 1 0 -12
+p197
+aVSpencer Hawes CLE 03/04/2014 CLE vs. SAS L 33 20 7 9 77.8 3 4 75.0 3 5 60.0 0 13 13 1 1 1 2 3 -7
+p198
+aVTyler Zeller CLE 03/04/2014 CLE vs. SAS L 15 1 0 2 0.0 0 0 - 1 2 50.0 0 4 4 0 0 1 0 1 -19
+p199
+aVAnthony Bennett CLE 03/04/2014 CLE vs. SAS L 13 14 5 8 62.5 2 2 100.0 2 2 100.0 0 1 1 1 1 0 1 5 -12
+p200
+aVKyrie Irving CLE 03/04/2014 CLE vs. SAS L 39 24 8 17 47.1 3 6 50.0 5 5 100.0 0 4 4 6 2 0 5 2 -17
+p201
+aVAlonzo Gee CLE 03/04/2014 CLE vs. SAS L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p202
+aVSergey Karasev CLE 03/04/2014 CLE vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p203
+aVDion Waiters CLE 03/04/2014 CLE vs. SAS L 23 24 11 18 61.1 2 3 66.7 0 0 - 1 0 1 3 0 1 2 3 -24
+p204
+aVJarrett Jack CLE 03/04/2014 CLE vs. SAS L 21 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 2 -1
+p205
+aVTristan Thompson CLE 03/01/2014 CLE @ MEM L 29 18 8 10 80.0 0 0 - 2 3 66.7 1 7 8 0 0 0 2 0 -11
+p206
+aVJarrett Jack CLE 03/01/2014 CLE @ MEM L 35 6 3 6 50.0 0 1 0.0 0 0 - 1 2 3 5 1 0 1 1 -17
+p207
+aVKyrie Irving CLE 03/01/2014 CLE @ MEM L 41 28 11 19 57.9 3 8 37.5 3 4 75.0 0 1 1 3 3 0 3 3 -10
+p208
+aVMatthew Dellavedova CLE 03/01/2014 CLE @ MEM L 20 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 4 0 0 1 4 -1
+p209
+aVTyler Zeller CLE 03/01/2014 CLE @ MEM L 25 9 3 6 50.0 0 0 - 3 4 75.0 2 3 5 1 1 2 2 4 -4
+p210
+aVSpencer Hawes CLE 03/01/2014 CLE @ MEM L 33 13 5 12 41.7 3 5 60.0 0 0 - 1 3 4 3 0 1 2 3 -17
+p211
+aVAnthony Bennett CLE 03/01/2014 CLE @ MEM L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 4
+p212
+aVLuol Deng CLE 03/01/2014 CLE @ MEM L 35 11 5 14 35.7 0 1 0.0 1 2 50.0 2 4 6 2 0 0 1 0 -18
+p213
+aVAlonzo Gee CLE 03/01/2014 CLE @ MEM L 13 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 2 0 0 0 1 4
+p214
+aVArinze Onuaku CLE 02/28/2014 CLE vs. UTA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p215
+aVKyrie Irving CLE 02/28/2014 CLE vs. UTA W 39 21 7 16 43.8 1 3 33.3 6 6 100.0 0 10 10 12 0 1 5 1 21
+p216
+aVAlonzo Gee CLE 02/28/2014 CLE vs. UTA W 20 7 2 2 100.0 1 1 100.0 2 2 100.0 0 2 2 0 0 1 0 1 17
+p217
+aVLuol Deng CLE 02/28/2014 CLE vs. UTA W 30 16 8 12 66.7 0 0 - 0 2 0.0 0 3 3 1 1 0 0 0 5
+p218
+aVJarrett Jack CLE 02/28/2014 CLE vs. UTA W 28 5 2 9 22.2 0 4 0.0 1 2 50.0 0 1 1 4 0 0 1 2 3
+p219
+aVSergey Karasev CLE 02/28/2014 CLE vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p220
+aVSpencer Hawes CLE 02/28/2014 CLE vs. UTA W 37 13 6 12 50.0 1 2 50.0 0 0 - 3 13 16 2 1 2 3 5 21
+p221
+aVMatthew Dellavedova CLE 02/28/2014 CLE vs. UTA W 26 9 4 11 36.4 1 5 20.0 0 0 - 1 0 1 5 0 0 0 1 16
+p222
+aVTristan Thompson CLE 02/28/2014 CLE vs. UTA W 33 18 9 13 69.2 0 0 - 0 0 - 6 8 14 2 0 0 1 0 9
+p223
+aVTyler Zeller CLE 02/28/2014 CLE vs. UTA W 23 10 5 12 41.7 0 0 - 0 0 - 3 6 9 2 0 0 0 2 9
+p224
+aVTristan Thompson CLE 02/26/2014 CLE @ OKC W 36 11 4 6 66.7 0 0 - 3 3 100.0 3 8 11 5 1 1 1 2 3
+p225
+aVAlonzo Gee CLE 02/26/2014 CLE @ OKC W 11 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 1 1 0 0 1 7
+p226
+aVKyrie Irving CLE 02/26/2014 CLE @ OKC W 43 31 10 19 52.6 4 7 57.1 7 7 100.0 0 5 5 9 4 0 3 2 4
+p227
+aVMatthew Dellavedova CLE 02/26/2014 CLE @ OKC W 14 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 1 0 2 1 5
+p228
+aVLuol Deng CLE 02/26/2014 CLE @ OKC W 37 13 5 16 31.3 1 5 20.0 2 2 100.0 0 3 3 2 1 0 2 0 3
+p229
+aVJarrett Jack CLE 02/26/2014 CLE @ OKC W 39 21 6 14 42.9 3 7 42.9 6 6 100.0 2 1 3 4 1 0 1 2 11
+p230
+aVAnthony Bennett CLE 02/26/2014 CLE @ OKC W 12 4 2 4 50.0 0 1 0.0 0 0 - 2 0 2 0 1 0 1 2 7
+p231
+aVTyler Zeller CLE 02/26/2014 CLE @ OKC W 16 8 2 3 66.7 0 0 - 4 4 100.0 1 2 3 0 2 0 4 2 11
+p232
+aVSpencer Hawes CLE 02/26/2014 CLE @ OKC W 32 19 8 18 44.4 3 6 50.0 0 0 - 3 4 7 1 0 0 2 2 -1
+p233
+aVKyrie Irving CLE 02/25/2014 CLE vs. TOR L 45 25 10 22 45.5 1 5 20.0 4 4 100.0 2 2 4 9 2 0 2 2 -3
+p234
+aVSpencer Hawes CLE 02/25/2014 CLE vs. TOR L 32 15 6 12 50.0 3 4 75.0 0 0 - 2 5 7 1 0 1 1 4 4
+p235
+aVAlonzo Gee CLE 02/25/2014 CLE vs. TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p236
+aVMatthew Dellavedova CLE 02/25/2014 CLE vs. TOR L 29 10 4 6 66.7 0 1 0.0 2 2 100.0 0 3 3 2 0 0 0 3 -17
+p237
+aVJarrett Jack CLE 02/25/2014 CLE vs. TOR L 26 12 5 10 50.0 1 1 100.0 1 1 100.0 0 3 3 4 2 0 1 2 9
+p238
+aVAnthony Bennett CLE 02/25/2014 CLE vs. TOR L 9 2 0 5 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 3 1 -8
+p239
+aVTristan Thompson CLE 02/25/2014 CLE vs. TOR L 31 13 4 10 40.0 0 0 - 5 6 83.3 3 6 9 2 0 0 0 1 10
+p240
+aVTyler Zeller CLE 02/25/2014 CLE vs. TOR L 24 8 2 4 50.0 0 0 - 4 4 100.0 3 3 6 1 0 0 3 5 -18
+p241
+aVLuol Deng CLE 02/25/2014 CLE vs. TOR L 40 8 3 14 21.4 0 5 0.0 2 5 40.0 3 6 9 5 2 0 1 3 -1
+p242
+aVMatthew Dellavedova CLE 02/23/2014 CLE vs. WAS L 20 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p243
+aVTristan Thompson CLE 02/23/2014 CLE vs. WAS L 32 11 4 9 44.4 0 0 - 3 5 60.0 4 8 12 0 0 0 4 2 -9
+p244
+aVLuol Deng CLE 02/23/2014 CLE vs. WAS L 38 17 4 13 30.8 0 2 0.0 9 9 100.0 1 6 7 2 1 0 0 1 -8
+p245
+aVAnthony Bennett CLE 02/23/2014 CLE vs. WAS L 17 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 1 0
+p246
+aVJarrett Jack CLE 02/23/2014 CLE vs. WAS L 38 6 3 11 27.3 0 3 0.0 0 0 - 1 3 4 3 0 0 3 2 -15
+p247
+aVSpencer Hawes CLE 02/23/2014 CLE vs. WAS L 32 16 5 10 50.0 1 4 25.0 5 6 83.3 3 9 12 4 0 1 1 1 -2
+p248
+aVTyler Zeller CLE 02/23/2014 CLE vs. WAS L 14 6 3 7 42.9 0 0 - 0 0 - 2 2 4 0 0 1 1 2 -12
+p249
+aVAlonzo Gee CLE 02/23/2014 CLE vs. WAS L 10 6 2 3 66.7 0 0 - 2 4 50.0 0 2 2 1 0 0 0 0 -8
+p250
+aVSergey Karasev CLE 02/23/2014 CLE vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p251
+aVKyrie Irving CLE 02/23/2014 CLE vs. WAS L 38 15 6 17 35.3 1 5 20.0 2 2 100.0 1 4 5 5 1 0 3 1 -9
+p252
+aVLuol Deng CLE 02/21/2014 CLE @ TOR L 38 21 6 15 40.0 2 4 50.0 7 8 87.5 5 6 11 1 2 0 3 2 -10
+p253
+aVTyler Zeller CLE 02/21/2014 CLE @ TOR L 20 8 4 6 66.7 0 0 - 0 0 - 3 1 4 0 0 3 0 3 -9
+p254
+aVSpencer Hawes CLE 02/21/2014 CLE @ TOR L 26 7 3 10 30.0 1 3 33.3 0 0 - 4 6 10 3 0 3 3 4 7
+p255
+aVJarrett Jack CLE 02/21/2014 CLE @ TOR L 41 9 3 9 33.3 1 1 100.0 2 2 100.0 0 2 2 5 1 0 3 2 -11
+p256
+aVTristan Thompson CLE 02/21/2014 CLE @ TOR L 34 13 6 10 60.0 0 0 - 1 3 33.3 3 6 9 0 0 0 2 2 -6
+p257
+aVKyrie Irving CLE 02/21/2014 CLE @ TOR L 41 17 3 16 18.8 1 6 16.7 10 12 83.3 0 3 3 9 0 1 2 1 -7
+p258
+aVAnthony Bennett CLE 02/21/2014 CLE @ TOR L 15 9 4 6 66.7 0 1 0.0 1 4 25.0 0 3 3 0 1 1 0 0 -1
+p259
+aVMatthew Dellavedova CLE 02/21/2014 CLE @ TOR L 14 5 2 7 28.6 1 4 25.0 0 0 - 1 1 2 1 1 0 1 3 1
+p260
+aVAlonzo Gee CLE 02/21/2014 CLE @ TOR L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 2 0 0 0 1 1
+p261
+aVLuol Deng CLE 02/19/2014 CLE vs. ORL W 33 17 6 14 42.9 1 2 50.0 4 4 100.0 1 2 3 3 1 0 1 0 11
+p262
+aVAlonzo Gee CLE 02/19/2014 CLE vs. ORL W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -3
+p263
+aVTristan Thompson CLE 02/19/2014 CLE vs. ORL W 39 16 5 9 55.6 0 0 - 6 9 66.7 1 13 14 0 1 0 3 3 10
+p264
+aVKyrie Irving CLE 02/19/2014 CLE vs. ORL W 38 22 8 18 44.4 3 7 42.9 3 4 75.0 1 6 7 7 1 0 2 2 13
+p265
+aVCJ Miles CLE 02/19/2014 CLE vs. ORL W 16 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 0 3 -2
+p266
+aVTyler Zeller CLE 02/19/2014 CLE vs. ORL W 31 16 4 5 80.0 0 0 - 8 9 88.9 1 5 6 2 0 3 2 4 15
+p267
+aVMatthew Dellavedova CLE 02/19/2014 CLE vs. ORL W 15 4 2 7 28.6 0 4 0.0 0 0 - 1 0 1 2 0 0 0 2 -8
+p268
+aVJarrett Jack CLE 02/19/2014 CLE vs. ORL W 34 10 3 10 30.0 1 2 50.0 3 4 75.0 0 6 6 6 2 2 1 2 13
+p269
+aVAnthony Bennett CLE 02/19/2014 CLE vs. ORL W 16 7 2 8 25.0 0 2 0.0 3 3 100.0 3 6 9 1 0 0 1 1 -7
+p270
+aVHenry Sims CLE 02/19/2014 CLE vs. ORL W 10 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 3 -2
+p271
+aVAlonzo Gee CLE 02/18/2014 CLE @ PHI W 13 7 2 4 50.0 0 1 0.0 3 4 75.0 0 1 1 2 2 1 3 0 5
+p272
+aVDion Waiters CLE 02/18/2014 CLE @ PHI W 15 13 5 7 71.4 1 2 50.0 2 2 100.0 0 4 4 3 0 0 3 1 9
+p273
+aVTristan Thompson CLE 02/18/2014 CLE @ PHI W 26 12 4 9 44.4 0 0 - 4 4 100.0 3 7 10 3 2 0 1 3 22
+p274
+aVJarrett Jack CLE 02/18/2014 CLE @ PHI W 23 6 2 6 33.3 0 0 - 2 2 100.0 2 0 2 7 1 0 4 3 17
+p275
+aVHenry Sims CLE 02/18/2014 CLE @ PHI W 20 7 2 5 40.0 0 0 - 3 4 75.0 4 4 8 1 0 0 0 3 6
+p276
+aVTyler Zeller CLE 02/18/2014 CLE @ PHI W 25 18 6 14 42.9 0 1 0.0 6 7 85.7 6 9 15 1 0 1 1 2 23
+p277
+aVCJ Miles CLE 02/18/2014 CLE @ PHI W 13 10 3 6 50.0 3 6 50.0 1 2 50.0 0 2 2 0 0 0 1 0 10
+p278
+aVLuol Deng CLE 02/18/2014 CLE @ PHI W 28 13 5 13 38.5 1 2 50.0 2 2 100.0 1 3 4 2 1 0 0 0 19
+p279
+aVEarl Clark CLE 02/18/2014 CLE @ PHI W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p280
+aVKyrie Irving CLE 02/18/2014 CLE @ PHI W 24 14 5 8 62.5 1 1 100.0 3 3 100.0 0 1 1 3 1 0 2 4 24
+p281
+aVMatthew Dellavedova CLE 02/18/2014 CLE @ PHI W 22 4 1 6 16.7 0 3 0.0 2 2 100.0 1 1 2 4 0 0 3 4 2
+p282
+aVAnthony Bennett CLE 02/18/2014 CLE @ PHI W 24 10 5 9 55.6 0 2 0.0 0 1 0.0 4 7 11 2 0 0 2 1 8
+p283
+aVAlonzo Gee CLE 02/12/2014 CLE @ DET W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p284
+aVTyler Zeller CLE 02/12/2014 CLE @ DET W 22 8 4 6 66.7 0 0 - 0 0 - 0 3 3 1 0 1 0 6 5
+p285
+aVMatthew Dellavedova CLE 02/12/2014 CLE @ DET W 13 3 0 2 0.0 0 0 - 3 3 100.0 0 0 0 2 0 0 1 2 2
+p286
+aVAnthony Bennett CLE 02/12/2014 CLE @ DET W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 2 -2
+p287
+aVHenry Sims CLE 02/12/2014 CLE @ DET W 14 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 2 0 1 1 0
+p288
+aVCJ Miles CLE 02/12/2014 CLE @ DET W 9 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 0
+p289
+aVEarl Clark CLE 02/12/2014 CLE @ DET W 12 5 2 5 40.0 0 1 0.0 1 2 50.0 1 1 2 0 0 1 1 1 -2
+p290
+aVDion Waiters CLE 02/12/2014 CLE @ DET W 20 9 4 8 50.0 1 3 33.3 0 4 0.0 0 3 3 0 0 0 1 1 -5
+p291
+aVKyrie Irving CLE 02/12/2014 CLE @ DET W 36 23 6 16 37.5 2 3 66.7 9 9 100.0 2 3 5 4 3 0 2 2 4
+p292
+aVTristan Thompson CLE 02/12/2014 CLE @ DET W 34 25 12 16 75.0 0 0 - 1 3 33.3 6 9 15 1 0 0 0 3 3
+p293
+aVJarrett Jack CLE 02/12/2014 CLE @ DET W 28 9 3 7 42.9 1 2 50.0 2 3 66.7 0 2 2 8 2 0 1 2 9
+p294
+aVLuol Deng CLE 02/12/2014 CLE @ DET W 36 4 0 9 0.0 0 3 0.0 4 6 66.7 2 5 7 1 1 0 2 1 6
+p295
+aVTyler Zeller CLE 02/11/2014 CLE vs. SAC W 18 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 0 0 2 3 5
+p296
+aVAnthony Bennett CLE 02/11/2014 CLE vs. SAC W 30 19 6 9 66.7 3 3 100.0 4 9 44.4 3 7 10 0 1 0 1 1 5
+p297
+aVHenry Sims CLE 02/11/2014 CLE vs. SAC W 18 7 3 5 60.0 0 0 - 1 2 50.0 3 2 5 0 0 0 2 6 2
+p298
+aVMatthew Dellavedova CLE 02/11/2014 CLE vs. SAC W 17 0 0 3 0.0 0 2 0.0 0 0 - 1 3 4 5 1 0 0 3 -6
+p299
+aVAlonzo Gee CLE 02/11/2014 CLE vs. SAC W 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p300
+aVJarrett Jack CLE 02/11/2014 CLE vs. SAC W 18 2 1 3 33.3 0 0 - 0 0 - 0 3 3 4 2 1 3 3 7
+p301
+aVKyrie Irving CLE 02/11/2014 CLE vs. SAC W 33 13 5 12 41.7 3 6 50.0 0 0 - 0 2 2 6 1 0 1 3 14
+p302
+aVDion Waiters CLE 02/11/2014 CLE vs. SAC W 28 20 7 17 41.2 2 5 40.0 4 4 100.0 0 1 1 8 0 0 1 3 5
+p303
+aVLuol Deng CLE 02/11/2014 CLE vs. SAC W 33 22 9 17 52.9 4 5 80.0 0 0 - 1 2 3 4 1 0 1 2 12
+p304
+aVTristan Thompson CLE 02/11/2014 CLE vs. SAC W 30 16 5 10 50.0 0 0 - 6 8 75.0 6 7 13 1 2 0 1 3 8
+p305
+aVCJ Miles CLE 02/09/2014 CLE vs. MEM W 24 14 5 11 45.5 3 7 42.9 1 1 100.0 0 1 1 0 1 1 2 2 4
+p306
+aVMatthew Dellavedova CLE 02/09/2014 CLE vs. MEM W 13 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 3 0 1 0 0 12
+p307
+aVKyrie Irving CLE 02/09/2014 CLE vs. MEM W 40 28 9 17 52.9 4 4 100.0 6 8 75.0 1 4 5 6 1 1 5 3 -4
+p308
+aVAnthony Bennett CLE 02/09/2014 CLE vs. MEM W 6 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 6
+p309
+aVTristan Thompson CLE 02/09/2014 CLE vs. MEM W 29 4 2 8 25.0 0 0 - 0 2 0.0 0 3 3 2 1 1 1 5 1
+p310
+aVAnderson Varejao CLE 02/09/2014 CLE vs. MEM W 43 4 2 6 33.3 0 0 - 0 2 0.0 2 12 14 5 0 1 1 1 1
+p311
+aVJarrett Jack CLE 02/09/2014 CLE vs. MEM W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 0 -10
+p312
+aVLuol Deng CLE 02/09/2014 CLE vs. MEM W 32 9 4 9 44.4 1 2 50.0 0 0 - 1 4 5 0 1 0 0 1 -5
+p313
+aVDion Waiters CLE 02/09/2014 CLE vs. MEM W 38 18 7 21 33.3 1 5 20.0 3 3 100.0 2 5 7 6 2 0 2 1 18
+p314
+aVTyler Zeller CLE 02/09/2014 CLE vs. MEM W 24 5 2 6 33.3 0 0 - 1 2 50.0 3 5 8 0 0 0 0 5 17
+p315
+aVDion Waiters CLE 02/07/2014 CLE @ WAS W 33 24 11 18 61.1 1 3 33.3 1 2 50.0 1 3 4 1 1 0 4 3 5
+p316
+aVKyrie Irving CLE 02/07/2014 CLE @ WAS W 33 23 5 11 45.5 0 2 0.0 13 13 100.0 1 2 3 12 0 0 4 3 -2
+p317
+aVMatthew Dellavedova CLE 02/07/2014 CLE @ WAS W 15 7 2 7 28.6 1 4 25.0 2 2 100.0 1 2 3 3 0 0 1 3 1
+p318
+aVAnthony Bennett CLE 02/07/2014 CLE @ WAS W 21 8 3 4 75.0 1 2 50.0 1 2 50.0 1 5 6 0 0 0 2 5 13
+p319
+aVAlonzo Gee CLE 02/07/2014 CLE @ WAS W 27 11 4 6 66.7 1 1 100.0 2 2 100.0 3 4 7 1 1 1 1 1 -7
+p320
+aVCJ Miles CLE 02/07/2014 CLE @ WAS W 25 18 7 11 63.6 2 3 66.7 2 2 100.0 0 4 4 1 2 0 1 2 7
+p321
+aVTyler Zeller CLE 02/07/2014 CLE @ WAS W 17 8 1 2 50.0 0 0 - 6 6 100.0 3 2 5 0 1 1 0 2 2
+p322
+aVJarrett Jack CLE 02/07/2014 CLE @ WAS W 12 0 0 3 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 3
+p323
+aVTristan Thompson CLE 02/07/2014 CLE @ WAS W 36 10 5 10 50.0 0 0 - 0 0 - 1 7 8 1 2 0 4 3 -16
+p324
+aVAnderson Varejao CLE 02/07/2014 CLE @ WAS W 22 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 1 0 0 1 1 4
+p325
+aVKyrie Irving CLE 02/05/2014 CLE vs. LAL L 28 11 5 14 35.7 0 5 0.0 1 1 100.0 4 2 6 4 4 0 2 0 -25
+p326
+aVDion Waiters CLE 02/05/2014 CLE vs. LAL L 24 6 3 11 27.3 0 5 0.0 0 1 0.0 0 2 2 1 1 0 1 1 7
+p327
+aVTristan Thompson CLE 02/05/2014 CLE vs. LAL L 20 13 4 8 50.0 0 0 - 5 8 62.5 5 3 8 1 0 0 1 2 -18
+p328
+aVJarrett Jack CLE 02/05/2014 CLE vs. LAL L 17 7 2 5 40.0 0 2 0.0 3 4 75.0 2 2 4 1 0 1 1 2 -21
+p329
+aVMatthew Dellavedova CLE 02/05/2014 CLE vs. LAL L 23 8 3 8 37.5 1 5 20.0 1 2 50.0 2 2 4 5 1 0 1 2 4
+p330
+aVAnderson Varejao CLE 02/05/2014 CLE vs. LAL L 35 15 7 16 43.8 0 0 - 1 1 100.0 7 6 13 5 2 0 1 4 13
+p331
+aVCJ Miles CLE 02/05/2014 CLE vs. LAL L 29 27 7 15 46.7 4 11 36.4 9 10 90.0 0 3 3 3 0 0 0 2 21
+p332
+aVLuol Deng CLE 02/05/2014 CLE vs. LAL L 24 3 1 10 10.0 0 2 0.0 1 2 50.0 1 2 3 2 0 0 0 0 -18
+p333
+aVTyler Zeller CLE 02/05/2014 CLE vs. LAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p334
+aVAnthony Bennett CLE 02/05/2014 CLE vs. LAL L 22 14 4 10 40.0 0 1 0.0 6 6 100.0 4 4 8 1 2 0 2 4 7
+p335
+aVEarl Clark CLE 02/05/2014 CLE vs. LAL L 11 4 2 4 50.0 0 2 0.0 0 2 0.0 2 4 6 1 0 0 2 4 -11
+p336
+aVJarrett Jack CLE 02/03/2014 CLE @ DAL L 40 12 5 7 71.4 1 2 50.0 1 2 50.0 0 3 3 8 0 0 3 3 -12
+p337
+aVHenry Sims CLE 02/03/2014 CLE @ DAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p338
+aVDion Waiters CLE 02/03/2014 CLE @ DAL L 11 0 0 4 0.0 0 2 0.0 0 2 0.0 0 1 1 1 0 0 0 2 -7
+p339
+aVAnderson Varejao CLE 02/03/2014 CLE @ DAL L 25 10 3 8 37.5 0 0 - 4 4 100.0 2 3 5 0 3 0 0 1 -4
+p340
+aVKyrie Irving CLE 02/03/2014 CLE @ DAL L 40 27 8 18 44.4 4 9 44.4 7 8 87.5 0 3 3 8 0 1 3 2 -19
+p341
+aVTristan Thompson CLE 02/03/2014 CLE @ DAL L 39 17 5 10 50.0 0 0 - 7 8 87.5 3 5 8 1 0 2 0 4 -18
+p342
+aVLuol Deng CLE 02/03/2014 CLE @ DAL L 42 18 8 16 50.0 0 4 0.0 2 5 40.0 4 4 8 3 4 0 2 3 -14
+p343
+aVTyler Zeller CLE 02/03/2014 CLE @ DAL L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 1
+p344
+aVMatthew Dellavedova CLE 02/03/2014 CLE @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p345
+aVAnthony Bennett CLE 02/03/2014 CLE @ DAL L 26 11 3 8 37.5 1 2 50.0 4 4 100.0 0 1 1 0 1 1 0 6 -15
+p346
+aVCJ Miles CLE 02/03/2014 CLE @ DAL L 13 10 4 7 57.1 2 5 40.0 0 0 - 0 0 0 0 1 0 0 2 -1
+p347
+aVMatthew Dellavedova CLE 02/01/2014 CLE @ HOU L 1 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -3
+p348
+aVJarrett Jack CLE 02/01/2014 CLE @ HOU L 31 7 3 9 33.3 1 6 16.7 0 0 - 0 0 0 6 0 0 1 2 -16
+p349
+aVTristan Thompson CLE 02/01/2014 CLE @ HOU L 35 6 2 6 33.3 0 0 - 2 2 100.0 3 4 7 1 0 0 0 0 -9
+p350
+aVCJ Miles CLE 02/01/2014 CLE @ HOU L 11 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 0 0 0 1 2 -7
+p351
+aVAnthony Bennett CLE 02/01/2014 CLE @ HOU L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 0 0 1 2 4 -7
+p352
+aVHenry Sims CLE 02/01/2014 CLE @ HOU L 21 7 3 7 42.9 0 0 - 1 2 50.0 1 5 6 0 1 2 1 2 -13
+p353
+aVLuol Deng CLE 02/01/2014 CLE @ HOU L 36 24 10 19 52.6 3 8 37.5 1 2 50.0 1 3 4 2 2 0 0 3 -4
+p354
+aVDion Waiters CLE 02/01/2014 CLE @ HOU L 26 19 8 14 57.1 2 3 66.7 1 1 100.0 0 2 2 4 0 0 4 2 -3
+p355
+aVKyrie Irving CLE 02/01/2014 CLE @ HOU L 39 21 8 19 42.1 2 7 28.6 3 3 100.0 1 3 4 7 3 0 6 4 -9
+p356
+aVTyler Zeller CLE 02/01/2014 CLE @ HOU L 27 4 2 3 66.7 0 0 - 0 0 - 0 3 3 2 2 1 1 5 1
+p357
+aVAnthony Bennett CLE 01/30/2014 CLE @ NYK L 23 4 1 6 16.7 0 2 0.0 2 4 50.0 2 0 2 1 1 0 0 3 -13
+p358
+aVCJ Miles CLE 01/30/2014 CLE @ NYK L 13 9 3 4 75.0 3 4 75.0 0 0 - 0 1 1 2 2 0 1 1 -8
+p359
+aVMatthew Dellavedova CLE 01/30/2014 CLE @ NYK L 9 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 0 1 0 0 1 -2
+p360
+aVTristan Thompson CLE 01/30/2014 CLE @ NYK L 22 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 0 2 5 -29
+p361
+aVAlonzo Gee CLE 01/30/2014 CLE @ NYK L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 -8
+p362
+aVHenry Sims CLE 01/30/2014 CLE @ NYK L 22 4 2 5 40.0 0 0 - 0 0 - 3 2 5 2 1 2 0 1 -8
+p363
+aVTyler Zeller CLE 01/30/2014 CLE @ NYK L 14 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 1 3 -9
+p364
+aVEarl Clark CLE 01/30/2014 CLE @ NYK L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 2
+p365
+aVDion Waiters CLE 01/30/2014 CLE @ NYK L 25 21 8 15 53.3 2 4 50.0 3 3 100.0 1 2 3 0 2 0 1 4 -16
+p366
+aVJarrett Jack CLE 01/30/2014 CLE @ NYK L 20 4 1 8 12.5 1 3 33.3 1 2 50.0 0 0 0 1 2 0 3 1 -23
+p367
+aVLuol Deng CLE 01/30/2014 CLE @ NYK L 32 13 3 9 33.3 1 2 50.0 6 6 100.0 3 8 11 2 0 0 1 3 -12
+p368
+aVKyrie Irving CLE 01/30/2014 CLE @ NYK L 39 24 10 25 40.0 1 5 20.0 3 5 60.0 2 4 6 3 0 0 2 2 -29
+p369
+aVMatthew Dellavedova CLE 01/28/2014 CLE vs. NOP L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 1 1
+p370
+aVLuol Deng CLE 01/28/2014 CLE vs. NOP L 31 6 3 10 30.0 0 1 0.0 0 2 0.0 2 0 2 3 1 0 1 0 -19
+p371
+aVKyrie Irving CLE 01/28/2014 CLE vs. NOP L 35 23 8 17 47.1 1 4 25.0 6 6 100.0 0 3 3 5 2 0 0 1 -16
+p372
+aVCJ Miles CLE 01/28/2014 CLE vs. NOP L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 2 -11
+p373
+aVDion Waiters CLE 01/28/2014 CLE vs. NOP L 36 21 9 13 69.2 3 4 75.0 0 2 0.0 0 0 0 4 2 1 3 2 0
+p374
+aVJarrett Jack CLE 01/28/2014 CLE vs. NOP L 21 2 0 4 0.0 0 1 0.0 2 2 100.0 0 3 3 3 2 0 0 0 12
+p375
+aVTyler Zeller CLE 01/28/2014 CLE vs. NOP L 21 13 4 8 50.0 0 0 - 5 5 100.0 4 6 10 2 1 0 2 2 -11
+p376
+aVTristan Thompson CLE 01/28/2014 CLE vs. NOP L 32 5 2 10 20.0 0 0 - 1 4 25.0 2 3 5 1 0 0 1 2 -17
+p377
+aVAnthony Bennett CLE 01/28/2014 CLE vs. NOP L 31 15 5 10 50.0 2 3 66.7 3 6 50.0 2 6 8 1 0 1 1 3 1
+p378
+aVHenry Sims CLE 01/28/2014 CLE vs. NOP L 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 5
+p379
+aVDion Waiters CLE 01/26/2014 CLE vs. PHX L 18 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 3 3 -12
+p380
+aVJarrett Jack CLE 01/26/2014 CLE vs. PHX L 28 8 3 8 37.5 2 2 100.0 0 0 - 1 2 3 2 1 1 0 1 0
+p381
+aVKyrie Irving CLE 01/26/2014 CLE vs. PHX L 37 24 8 23 34.8 0 3 0.0 8 8 100.0 0 2 2 9 2 0 2 2 -1
+p382
+aVMatthew Dellavedova CLE 01/26/2014 CLE vs. PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p383
+aVTristan Thompson CLE 01/26/2014 CLE vs. PHX L 39 17 6 9 66.7 0 0 - 5 7 71.4 4 9 13 0 0 0 2 3 -3
+p384
+aVAnderson Varejao CLE 01/26/2014 CLE vs. PHX L 34 2 1 9 11.1 0 0 - 0 3 0.0 4 6 10 4 1 0 1 1 0
+p385
+aVTyler Zeller CLE 01/26/2014 CLE vs. PHX L 13 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -5
+p386
+aVEarl Clark CLE 01/26/2014 CLE vs. PHX L 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 2 -10
+p387
+aVLuol Deng CLE 01/26/2014 CLE vs. PHX L 41 18 7 18 38.9 0 2 0.0 4 6 66.7 3 7 10 5 1 1 3 4 -4
+p388
+aVCJ Miles CLE 01/26/2014 CLE vs. PHX L 20 12 5 11 45.5 2 7 28.6 0 0 - 0 1 1 1 1 1 1 4 -10
+p389
+aVAnderson Varejao CLE 01/24/2014 CLE vs. MIL W 26 16 8 11 72.7 0 0 - 0 0 - 1 3 4 3 2 1 3 2 20
+p390
+aVEarl Clark CLE 01/24/2014 CLE vs. MIL W 14 7 3 3 100.0 1 1 100.0 0 0 - 0 4 4 0 0 0 0 0 8
+p391
+aVMatthew Dellavedova CLE 01/24/2014 CLE vs. MIL W 17 0 0 3 0.0 0 0 - 0 0 - 0 2 2 4 1 0 0 0 -3
+p392
+aVKyrie Irving CLE 01/24/2014 CLE vs. MIL W 28 10 4 10 40.0 1 3 33.3 1 1 100.0 1 2 3 10 1 0 0 3 17
+p393
+aVJarrett Jack CLE 01/24/2014 CLE vs. MIL W 22 10 3 8 37.5 1 3 33.3 3 3 100.0 0 0 0 3 0 0 0 1 0
+p394
+aVLuol Deng CLE 01/24/2014 CLE vs. MIL W 29 9 4 9 44.4 0 2 0.0 1 1 100.0 3 2 5 1 0 1 2 0 16
+p395
+aVAlonzo Gee CLE 01/24/2014 CLE vs. MIL W 3 0 0 3 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -9
+p396
+aVDion Waiters CLE 01/24/2014 CLE vs. MIL W 28 13 5 13 38.5 1 3 33.3 2 4 50.0 2 6 8 3 2 0 4 2 14
+p397
+aVHenry Sims CLE 01/24/2014 CLE vs. MIL W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -13
+p398
+aVTristan Thompson CLE 01/24/2014 CLE vs. MIL W 24 14 6 12 50.0 0 0 - 2 6 33.3 5 5 10 1 0 0 1 0 13
+p399
+aVCJ Miles CLE 01/24/2014 CLE vs. MIL W 15 4 1 6 16.7 0 2 0.0 2 2 100.0 1 2 3 3 1 0 0 3 10
+p400
+aVTyler Zeller CLE 01/24/2014 CLE vs. MIL W 22 8 3 6 50.0 0 0 - 2 2 100.0 4 5 9 0 2 3 1 2 11
+p401
+aVAnthony Bennett CLE 01/24/2014 CLE vs. MIL W 5 2 0 4 0.0 0 0 - 2 2 100.0 3 0 3 0 0 0 1 3 -9
+p402
+aVTristan Thompson CLE 01/22/2014 CLE vs. CHI L 37 6 3 14 21.4 0 0 - 0 1 0.0 5 2 7 3 1 1 0 2 -15
+p403
+aVLuol Deng CLE 01/22/2014 CLE vs. CHI L 40 11 2 11 18.2 0 2 0.0 7 9 77.8 1 4 5 1 1 0 1 4 -10
+p404
+aVCJ Miles CLE 01/22/2014 CLE vs. CHI L 20 8 3 9 33.3 2 4 50.0 0 0 - 1 3 4 1 1 0 1 0 -16
+p405
+aVKyrie Irving CLE 01/22/2014 CLE vs. CHI L 37 26 10 19 52.6 5 7 71.4 1 1 100.0 3 3 6 5 1 0 1 2 -12
+p406
+aVDion Waiters CLE 01/22/2014 CLE vs. CHI L 28 15 6 13 46.2 1 4 25.0 2 2 100.0 0 1 1 3 0 0 0 4 -3
+p407
+aVAnderson Varejao CLE 01/22/2014 CLE vs. CHI L 34 10 5 10 50.0 0 0 - 0 1 0.0 7 4 11 5 2 0 3 3 -13
+p408
+aVEarl Clark CLE 01/22/2014 CLE vs. CHI L 6 5 2 5 40.0 0 2 0.0 1 1 100.0 0 0 0 0 1 0 0 2 0
+p409
+aVJarrett Jack CLE 01/22/2014 CLE vs. CHI L 22 2 0 4 0.0 0 0 - 2 2 100.0 0 3 3 5 0 0 0 1 11
+p410
+aVTyler Zeller CLE 01/22/2014 CLE vs. CHI L 16 4 2 3 66.7 0 0 - 0 1 0.0 2 2 4 0 0 1 3 0 3
+p411
+aVMatthew Dellavedova CLE 01/20/2014 CLE vs. DAL L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p412
+aVAnderson Varejao CLE 01/20/2014 CLE vs. DAL L 38 18 7 12 58.3 0 0 - 4 6 66.7 4 17 21 4 2 0 1 5 12
+p413
+aVTristan Thompson CLE 01/20/2014 CLE vs. DAL L 39 19 6 11 54.5 0 0 - 7 10 70.0 8 2 10 0 0 1 2 4 10
+p414
+aVJarrett Jack CLE 01/20/2014 CLE vs. DAL L 22 6 2 4 50.0 1 2 50.0 1 2 50.0 0 2 2 2 0 0 2 1 -7
+p415
+aVLuol Deng CLE 01/20/2014 CLE vs. DAL L 35 20 5 8 62.5 2 4 50.0 8 9 88.9 0 2 2 3 1 0 2 3 1
+p416
+aVTyler Zeller CLE 01/20/2014 CLE vs. DAL L 9 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -11
+p417
+aVDion Waiters CLE 01/20/2014 CLE vs. DAL L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 -10
+p418
+aVEarl Clark CLE 01/20/2014 CLE vs. DAL L 9 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 0 0 0 0 2 -17
+p419
+aVKyrie Irving CLE 01/20/2014 CLE vs. DAL L 40 26 10 27 37.0 2 6 33.3 4 4 100.0 0 2 2 9 2 0 4 4 10
+p420
+aVCJ Miles CLE 01/20/2014 CLE vs. DAL L 27 6 2 7 28.6 0 5 0.0 2 2 100.0 0 0 0 3 0 0 1 3 -3
+p421
+aVDion Waiters CLE 01/17/2014 CLE @ DEN W 28 9 3 14 21.4 1 3 33.3 2 2 100.0 0 0 0 2 2 0 1 2 8
+p422
+aVKyrie Irving CLE 01/17/2014 CLE @ DEN W 33 23 9 16 56.3 1 3 33.3 4 5 80.0 1 3 4 6 0 1 1 4 9
+p423
+aVEarl Clark CLE 01/17/2014 CLE @ DEN W 11 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 0
+p424
+aVJarrett Jack CLE 01/17/2014 CLE @ DEN W 15 13 5 7 71.4 0 1 0.0 3 3 100.0 0 4 4 1 1 0 1 2 -1
+p425
+aVAnderson Varejao CLE 01/17/2014 CLE @ DEN W 31 7 2 5 40.0 0 0 - 3 4 75.0 3 13 16 7 3 1 2 2 14
+p426
+aVTristan Thompson CLE 01/17/2014 CLE @ DEN W 37 20 8 9 88.9 0 0 - 4 6 66.7 3 7 10 0 1 2 3 1 8
+p427
+aVLuol Deng CLE 01/17/2014 CLE @ DEN W 30 18 6 17 35.3 0 1 0.0 6 7 85.7 3 0 3 2 1 1 0 2 -7
+p428
+aVTyler Zeller CLE 01/17/2014 CLE @ DEN W 17 4 1 4 25.0 0 0 - 2 4 50.0 5 2 7 1 0 0 2 1 -5
+p429
+aVCJ Miles CLE 01/17/2014 CLE @ DEN W 38 19 6 12 50.0 3 7 42.9 4 4 100.0 1 3 4 2 0 1 0 4 14
+p430
+aVKyrie Irving CLE 01/15/2014 CLE @ POR L 40 21 7 20 35.0 1 7 14.3 6 6 100.0 0 2 2 4 1 0 3 3 -9
+p431
+aVAnderson Varejao CLE 01/15/2014 CLE @ POR L 38 8 4 7 57.1 0 0 - 0 0 - 4 10 14 4 3 2 2 3 -9
+p432
+aVMatthew Dellavedova CLE 01/15/2014 CLE @ POR L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -9
+p433
+aVCJ Miles CLE 01/15/2014 CLE @ POR L 12 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 2 5
+p434
+aVHenry Sims CLE 01/15/2014 CLE @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p435
+aVTristan Thompson CLE 01/15/2014 CLE @ POR L 38 10 4 8 50.0 0 0 - 2 2 100.0 3 7 10 0 0 0 1 3 -12
+p436
+aVLuol Deng CLE 01/15/2014 CLE @ POR L 39 25 10 20 50.0 2 7 28.6 3 4 75.0 1 5 6 2 3 0 3 2 -9
+p437
+aVEarl Clark CLE 01/15/2014 CLE @ POR L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -4
+p438
+aVDion Waiters CLE 01/15/2014 CLE @ POR L 30 18 8 19 42.1 1 3 33.3 1 4 25.0 1 1 2 3 1 0 1 1 -13
+p439
+aVTyler Zeller CLE 01/15/2014 CLE @ POR L 9 6 3 3 100.0 0 0 - 0 2 0.0 1 0 1 0 1 0 2 5 1
+p440
+aVJarrett Jack CLE 01/15/2014 CLE @ POR L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 3 0 0 0 0 -3
+p441
+aVLuol Deng CLE 01/14/2014 CLE @ LAL W 38 27 9 15 60.0 5 5 100.0 4 4 100.0 1 4 5 4 1 0 2 3 9
+p442
+aVDion Waiters CLE 01/14/2014 CLE @ LAL W 23 17 4 11 36.4 2 2 100.0 7 8 87.5 1 1 2 4 2 1 0 3 -2
+p443
+aVKyrie Irving CLE 01/14/2014 CLE @ LAL W 30 13 5 12 41.7 2 2 100.0 1 2 50.0 0 1 1 4 2 0 1 5 -3
+p444
+aVTyler Zeller CLE 01/14/2014 CLE @ LAL W 17 8 2 5 40.0 0 0 - 4 6 66.7 2 2 4 1 0 0 0 2 -3
+p445
+aVAnderson Varejao CLE 01/14/2014 CLE @ LAL W 37 18 7 11 63.6 0 0 - 4 4 100.0 7 11 18 6 0 0 2 3 9
+p446
+aVJarrett Jack CLE 01/14/2014 CLE @ LAL W 18 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 5 1 0 1 1 -8
+p447
+aVCJ Miles CLE 01/14/2014 CLE @ LAL W 15 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 3 1 0 1 2 11
+p448
+aVMatthew Dellavedova CLE 01/14/2014 CLE @ LAL W 20 11 4 6 66.7 3 5 60.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p449
+aVEarl Clark CLE 01/14/2014 CLE @ LAL W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p450
+aVTristan Thompson CLE 01/14/2014 CLE @ LAL W 37 15 6 15 40.0 0 0 - 3 6 50.0 4 9 13 0 1 1 1 3 7
+p451
+aVDion Waiters CLE 01/12/2014 CLE @ SAC L 20 4 1 7 14.3 1 5 20.0 1 2 50.0 0 0 0 3 0 0 2 2 -19
+p452
+aVMatthew Dellavedova CLE 01/12/2014 CLE @ SAC L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 1 0 0 -12
+p453
+aVAnderson Varejao CLE 01/12/2014 CLE @ SAC L 26 10 4 7 57.1 0 0 - 2 2 100.0 0 7 7 6 1 0 2 3 -24
+p454
+aVEarl Clark CLE 01/12/2014 CLE @ SAC L 24 11 4 7 57.1 2 3 66.7 1 2 50.0 1 4 5 1 0 0 1 2 -25
+p455
+aVLuol Deng CLE 01/12/2014 CLE @ SAC L 24 12 5 11 45.5 1 3 33.3 1 2 50.0 2 3 5 2 1 0 3 1 -15
+p456
+aVTristan Thompson CLE 01/12/2014 CLE @ SAC L 24 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 1 -19
+p457
+aVTyler Zeller CLE 01/12/2014 CLE @ SAC L 13 6 3 4 75.0 0 0 - 0 4 0.0 0 1 1 0 0 0 1 3 -12
+p458
+aVJarrett Jack CLE 01/12/2014 CLE @ SAC L 19 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 2 1 0 3 4 -28
+p459
+aVKyrie Irving CLE 01/12/2014 CLE @ SAC L 32 7 3 14 21.4 0 3 0.0 1 4 25.0 1 3 4 5 2 0 1 2 -29
+p460
+aVSergey Karasev CLE 01/12/2014 CLE @ SAC L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p461
+aVAnthony Bennett CLE 01/12/2014 CLE @ SAC L 9 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 1 -9
+p462
+aVAlonzo Gee CLE 01/12/2014 CLE @ SAC L 8 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -6
+p463
+aVCJ Miles CLE 01/12/2014 CLE @ SAC L 25 14 5 8 62.5 3 3 100.0 1 1 100.0 1 1 2 1 1 0 1 2 -18
+p464
+aVEarl Clark CLE 01/10/2014 CLE @ UTA W 5 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p465
+aVCJ Miles CLE 01/10/2014 CLE @ UTA W 24 17 6 7 85.7 1 1 100.0 4 4 100.0 0 1 1 0 1 0 0 1 7
+p466
+aVDion Waiters CLE 01/10/2014 CLE @ UTA W 31 17 6 13 46.2 2 5 40.0 3 4 75.0 0 1 1 2 0 0 0 3 9
+p467
+aVAnderson Varejao CLE 01/10/2014 CLE @ UTA W 33 2 1 6 16.7 0 0 - 0 0 - 1 13 14 4 2 1 0 4 5
+p468
+aVAlonzo Gee CLE 01/10/2014 CLE @ UTA W 1 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p469
+aVTristan Thompson CLE 01/10/2014 CLE @ UTA W 35 18 9 12 75.0 0 0 - 0 0 - 5 10 15 2 0 0 1 3 12
+p470
+aVAnthony Bennett CLE 01/10/2014 CLE @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p471
+aVJarrett Jack CLE 01/10/2014 CLE @ UTA W 26 12 5 6 83.3 1 2 50.0 1 1 100.0 0 0 0 2 0 0 0 1 1
+p472
+aVTyler Zeller CLE 01/10/2014 CLE @ UTA W 22 10 4 8 50.0 0 0 - 2 4 50.0 1 5 6 0 0 0 1 3 5
+p473
+aVKyrie Irving CLE 01/10/2014 CLE @ UTA W 37 25 9 18 50.0 3 3 100.0 4 5 80.0 0 6 6 8 5 0 2 3 13
+p474
+aVLuol Deng CLE 01/10/2014 CLE @ UTA W 21 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 4 0 10
+p475
+aVMatthew Dellavedova CLE 01/10/2014 CLE @ UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p476
+aVSergey Karasev CLE 01/10/2014 CLE @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p477
+aVTristan Thompson CLE 01/07/2014 CLE vs. PHI W 29 12 5 11 45.5 0 0 - 2 4 50.0 5 5 10 1 1 0 3 0 19
+p478
+aVMatthew Dellavedova CLE 01/07/2014 CLE vs. PHI W 31 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 6 0 0 3 4 2
+p479
+aVAnderson Varejao CLE 01/07/2014 CLE vs. PHI W 26 18 8 10 80.0 0 0 - 2 5 40.0 3 11 14 2 0 1 1 2 21
+p480
+aVHenry Sims CLE 01/07/2014 CLE vs. PHI W 5 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 1 0 1 -6
+p481
+aVCJ Miles CLE 01/07/2014 CLE vs. PHI W 31 34 11 18 61.1 10 14 71.4 2 3 66.7 2 3 5 2 2 0 0 3 32
+p482
+aVAlonzo Gee CLE 01/07/2014 CLE vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p483
+aVCarrick Felix CLE 01/07/2014 CLE vs. PHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p484
+aVEarl Clark CLE 01/07/2014 CLE vs. PHI W 11 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 0 0 1 0 0 5
+p485
+aVSergey Karasev CLE 01/07/2014 CLE vs. PHI W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -13
+p486
+aVTyler Zeller CLE 01/07/2014 CLE vs. PHI W 18 9 4 5 80.0 0 0 - 1 1 100.0 1 3 4 1 0 3 1 3 6
+p487
+aVAnthony Bennett CLE 01/07/2014 CLE vs. PHI W 18 2 1 6 16.7 0 0 - 0 0 - 1 7 8 0 0 0 5 4 -4
+p488
+aVKyrie Irving CLE 01/07/2014 CLE vs. PHI W 30 16 6 9 66.7 2 4 50.0 2 2 100.0 0 1 1 8 0 3 1 3 19
+p489
+aVDion Waiters CLE 01/07/2014 CLE vs. PHI W 28 12 5 14 35.7 1 4 25.0 1 3 33.3 0 4 4 8 2 0 2 2 16
+p490
+aVTristan Thompson CLE 01/05/2014 CLE vs. IND L 35 13 4 10 40.0 0 0 - 5 5 100.0 2 8 10 1 0 0 1 4 -6
+p491
+aVAlonzo Gee CLE 01/05/2014 CLE vs. IND L 16 0 0 5 0.0 0 0 - 0 0 - 2 2 4 1 0 0 2 2 -9
+p492
+aVMatthew Dellavedova CLE 01/05/2014 CLE vs. IND L 41 11 3 10 30.0 2 5 40.0 3 3 100.0 0 2 2 2 2 0 3 1 -9
+p493
+aVAnthony Bennett CLE 01/05/2014 CLE vs. IND L 13 6 2 4 50.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 3 4 2
+p494
+aVDion Waiters CLE 01/05/2014 CLE vs. IND L 32 14 6 17 35.3 2 6 33.3 0 0 - 0 1 1 5 0 0 3 5 -1
+p495
+aVCJ Miles CLE 01/05/2014 CLE vs. IND L 37 21 8 13 61.5 2 5 40.0 3 5 60.0 3 3 6 3 3 0 3 1 10
+p496
+aVEarl Clark CLE 01/05/2014 CLE vs. IND L 18 2 0 6 0.0 0 3 0.0 2 2 100.0 1 1 2 0 0 0 1 2 -3
+p497
+aVTyler Zeller CLE 01/05/2014 CLE vs. IND L 21 4 1 5 20.0 0 0 - 2 2 100.0 3 5 8 1 0 1 1 2 -18
+p498
+aVAnderson Varejao CLE 01/05/2014 CLE vs. IND L 27 7 3 9 33.3 0 0 - 1 1 100.0 4 9 13 1 2 1 1 4 14
+p499
+aVAnderson Varejao CLE 01/04/2014 CLE @ BKN L 36 4 2 6 33.3 0 0 - 0 0 - 4 8 12 1 0 2 2 2 -5
+p500
+aVTyler Zeller CLE 01/04/2014 CLE @ BKN L 6 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 0 0 5 4
+p501
+aVCJ Miles CLE 01/04/2014 CLE @ BKN L 31 19 6 19 31.6 2 8 25.0 5 8 62.5 1 7 8 0 2 0 1 4 7
+p502
+aVEarl Clark CLE 01/04/2014 CLE @ BKN L 24 7 3 9 33.3 1 4 25.0 0 0 - 0 6 6 0 0 0 0 0 -4
+p503
+aVMatthew Dellavedova CLE 01/04/2014 CLE @ BKN L 29 13 4 7 57.1 4 4 100.0 1 2 50.0 0 0 0 2 1 0 0 3 -6
+p504
+aVTristan Thompson CLE 01/04/2014 CLE @ BKN L 36 9 3 8 37.5 0 0 - 3 4 75.0 5 4 9 3 1 0 3 2 -8
+p505
+aVJarrett Jack CLE 01/04/2014 CLE @ BKN L 38 2 1 8 12.5 0 1 0.0 0 0 - 1 3 4 7 0 0 1 2 -9
+p506
+aVAnthony Bennett CLE 01/04/2014 CLE @ BKN L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p507
+aVHenry Sims CLE 01/04/2014 CLE @ BKN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p508
+aVDion Waiters CLE 01/04/2014 CLE @ BKN L 28 26 9 18 50.0 3 5 60.0 5 6 83.3 1 1 2 0 0 1 4 3 -7
+p509
+aVEarl Clark CLE 01/02/2014 CLE vs. ORL W 20 4 2 10 20.0 0 5 0.0 0 0 - 1 1 2 2 2 2 2 0 -3
+p510
+aVCJ Miles CLE 01/02/2014 CLE vs. ORL W 28 14 4 8 50.0 3 5 60.0 3 3 100.0 0 2 2 1 0 1 0 4 0
+p511
+aVAnderson Varejao CLE 01/02/2014 CLE vs. ORL W 39 18 8 17 47.1 0 0 - 2 4 50.0 8 17 25 3 0 1 1 3 8
+p512
+aVMatthew Dellavedova CLE 01/02/2014 CLE vs. ORL W 21 2 1 5 20.0 0 3 0.0 0 0 - 1 0 1 2 2 0 2 3 5
+p513
+aVTyler Zeller CLE 01/02/2014 CLE vs. ORL W 14 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 1 1 1 -6
+p514
+aVAlonzo Gee CLE 01/02/2014 CLE vs. ORL W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -6
+p515
+aVDion Waiters CLE 01/02/2014 CLE vs. ORL W 39 17 6 20 30.0 0 3 0.0 5 6 83.3 1 3 4 3 0 0 1 0 18
+p516
+aVJarrett Jack CLE 01/02/2014 CLE vs. ORL W 42 14 5 16 31.3 1 2 50.0 3 3 100.0 1 6 7 7 0 0 1 3 12
+p517
+aVTristan Thompson CLE 01/02/2014 CLE vs. ORL W 41 16 6 13 46.2 0 0 - 4 8 50.0 3 7 10 2 0 0 1 2 6
+p518
+aVAnthony Bennett CLE 01/02/2014 CLE vs. ORL W 11 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 1 1 0 2 3 -4
+p519
+aVTristan Thompson CLE 12/31/2013 CLE @ IND L 37 7 3 11 27.3 0 0 - 1 4 25.0 4 9 13 0 0 0 2 2 -2
+p520
+aVHenry Sims CLE 12/31/2013 CLE @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p521
+aVKyrie Irving CLE 12/31/2013 CLE @ IND L 35 10 3 9 33.3 0 2 0.0 4 4 100.0 1 4 5 5 2 1 2 0 -7
+p522
+aVAnderson Varejao CLE 12/31/2013 CLE @ IND L 30 14 5 13 38.5 0 0 - 4 6 66.7 6 5 11 2 1 1 1 4 -11
+p523
+aVDion Waiters CLE 12/31/2013 CLE @ IND L 35 12 5 13 38.5 0 2 0.0 2 2 100.0 0 4 4 2 0 0 1 2 -12
+p524
+aVEarl Clark CLE 12/31/2013 CLE @ IND L 34 7 2 11 18.2 1 5 20.0 2 2 100.0 0 4 4 0 0 1 0 4 -4
+p525
+aVCJ Miles CLE 12/31/2013 CLE @ IND L 15 5 2 5 40.0 0 1 0.0 1 1 100.0 0 0 0 0 1 0 2 2 -5
+p526
+aVJarrett Jack CLE 12/31/2013 CLE @ IND L 25 8 4 9 44.4 0 2 0.0 0 0 - 0 3 3 6 0 0 2 3 -17
+p527
+aVAlonzo Gee CLE 12/31/2013 CLE @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p528
+aVAnthony Bennett CLE 12/31/2013 CLE @ IND L 11 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 1 0 0 2 -11
+p529
+aVTyler Zeller CLE 12/31/2013 CLE @ IND L 16 7 3 5 60.0 0 0 - 1 2 50.0 0 5 5 0 0 0 3 3 -8
+p530
+aVKyrie Irving CLE 12/29/2013 CLE vs. GSW L 40 27 9 19 47.4 3 3 100.0 6 6 100.0 0 1 1 9 1 0 1 2 -7
+p531
+aVEarl Clark CLE 12/29/2013 CLE vs. GSW L 13 6 2 3 66.7 1 2 50.0 1 1 100.0 0 4 4 1 0 2 1 0 1
+p532
+aVAnthony Bennett CLE 12/29/2013 CLE vs. GSW L 11 3 0 4 0.0 0 0 - 3 4 75.0 1 1 2 0 1 0 0 0 -4
+p533
+aVCJ Miles CLE 12/29/2013 CLE vs. GSW L 23 17 6 12 50.0 3 6 50.0 2 3 66.7 0 1 1 1 3 0 0 4 3
+p534
+aVDion Waiters CLE 12/29/2013 CLE vs. GSW L 39 8 3 15 20.0 1 2 50.0 1 2 50.0 0 5 5 4 0 0 5 1 -3
+p535
+aVMatthew Dellavedova CLE 12/29/2013 CLE vs. GSW L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 3
+p536
+aVTristan Thompson CLE 12/29/2013 CLE vs. GSW L 40 17 8 14 57.1 0 0 - 1 1 100.0 4 8 12 1 0 0 5 2 4
+p537
+aVJarrett Jack CLE 12/29/2013 CLE vs. GSW L 34 12 5 11 45.5 2 3 66.7 0 0 - 0 4 4 4 2 1 2 4 -9
+p538
+aVTyler Zeller CLE 12/29/2013 CLE vs. GSW L 18 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 0 2 0 2 -2
+p539
+aVAnderson Varejao CLE 12/29/2013 CLE vs. GSW L 37 8 3 8 37.5 0 0 - 2 2 100.0 2 10 12 1 1 2 0 2 -6
+p540
+aVJarrett Jack CLE 12/28/2013 CLE @ BOS L 31 14 5 8 62.5 2 2 100.0 2 2 100.0 0 1 1 4 0 0 0 3 1
+p541
+aVKyrie Irving CLE 12/28/2013 CLE @ BOS L 41 32 13 22 59.1 4 6 66.7 2 2 100.0 0 2 2 3 1 0 2 1 6
+p542
+aVEarl Clark CLE 12/28/2013 CLE @ BOS L 24 12 4 9 44.4 3 5 60.0 1 2 50.0 0 3 3 1 1 1 1 1 -12
+p543
+aVTyler Zeller CLE 12/28/2013 CLE @ BOS L 22 5 2 5 40.0 0 0 - 1 2 50.0 4 6 10 3 0 1 3 1 -6
+p544
+aVTristan Thompson CLE 12/28/2013 CLE @ BOS L 26 7 3 5 60.0 0 0 - 1 2 50.0 2 5 7 0 0 0 4 3 -9
+p545
+aVAnderson Varejao CLE 12/28/2013 CLE @ BOS L 29 6 1 2 50.0 0 0 - 4 4 100.0 1 7 8 2 0 0 1 2 0
+p546
+aVMatthew Dellavedova CLE 12/28/2013 CLE @ BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p547
+aVAnthony Bennett CLE 12/28/2013 CLE @ BOS L 19 5 2 6 33.3 0 2 0.0 1 2 50.0 3 2 5 2 1 1 1 3 9
+p548
+aVDion Waiters CLE 12/28/2013 CLE @ BOS L 32 17 6 16 37.5 0 2 0.0 5 8 62.5 0 3 3 2 2 0 3 3 5
+p549
+aVCJ Miles CLE 12/28/2013 CLE @ BOS L 11 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 2 -6
+p550
+aVDion Waiters CLE 12/26/2013 CLE vs. ATL L 42 20 9 14 64.3 1 3 33.3 1 2 50.0 1 3 4 2 0 0 5 1 10
+p551
+aVTyler Zeller CLE 12/26/2013 CLE vs. ATL L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 6
+p552
+aVKyrie Irving CLE 12/26/2013 CLE vs. ATL L 45 40 17 33 51.5 3 8 37.5 3 4 75.0 0 2 2 9 4 1 6 3 -9
+p553
+aVJarrett Jack CLE 12/26/2013 CLE vs. ATL L 32 9 2 5 40.0 0 1 0.0 5 8 62.5 1 4 5 3 0 0 2 2 0
+p554
+aVAndrew Bynum CLE 12/26/2013 CLE vs. ATL L 18 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -10
+p555
+aVAnderson Varejao CLE 12/26/2013 CLE vs. ATL L 35 8 4 7 57.1 0 1 0.0 0 0 - 5 12 17 3 1 3 3 4 11
+p556
+aVCJ Miles CLE 12/26/2013 CLE vs. ATL L 14 10 4 7 57.1 2 3 66.7 0 0 - 0 2 2 0 1 0 2 1 -1
+p557
+aVMatthew Dellavedova CLE 12/26/2013 CLE vs. ATL L 24 9 2 6 33.3 1 4 25.0 4 4 100.0 0 1 1 3 2 0 2 2 -6
+p558
+aVTristan Thompson CLE 12/26/2013 CLE vs. ATL L 47 22 8 13 61.5 0 0 - 6 8 75.0 2 4 6 1 0 2 2 4 -14
+p559
+aVAnthony Bennett CLE 12/26/2013 CLE vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p560
+aVEarl Clark CLE 12/26/2013 CLE vs. ATL L 18 3 1 4 25.0 1 1 100.0 0 0 - 1 4 5 1 0 1 0 1 0
+p561
+aVMatthew Dellavedova CLE 12/23/2013 CLE vs. DET L 27 10 4 6 66.7 1 1 100.0 1 2 50.0 0 2 2 6 1 0 1 2 -12
+p562
+aVSergey Karasev CLE 12/23/2013 CLE vs. DET L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 3
+p563
+aVCarrick Felix CLE 12/23/2013 CLE vs. DET L 6 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 1
+p564
+aVTristan Thompson CLE 12/23/2013 CLE vs. DET L 30 17 6 10 60.0 0 0 - 5 9 55.6 3 3 6 1 0 0 0 2 -12
+p565
+aVCJ Miles CLE 12/23/2013 CLE vs. DET L 20 6 2 9 22.2 1 6 16.7 1 2 50.0 0 3 3 0 2 0 3 3 2
+p566
+aVAndrew Bynum CLE 12/23/2013 CLE vs. DET L 22 0 0 11 0.0 0 0 - 0 0 - 4 3 7 1 0 2 2 1 -8
+p567
+aVAlonzo Gee CLE 12/23/2013 CLE vs. DET L 14 7 2 5 40.0 1 4 25.0 2 2 100.0 1 3 4 1 0 0 1 0 6
+p568
+aVAnderson Varejao CLE 12/23/2013 CLE vs. DET L 19 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 1 0 1 3 -20
+p569
+aVJarrett Jack CLE 12/23/2013 CLE vs. DET L 20 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -24
+p570
+aVKyrie Irving CLE 12/23/2013 CLE vs. DET L 29 21 7 14 50.0 3 6 50.0 4 4 100.0 2 1 3 7 1 0 4 1 -17
+p571
+aVTyler Zeller CLE 12/23/2013 CLE vs. DET L 14 13 6 7 85.7 0 0 - 1 1 100.0 2 2 4 1 0 0 0 0 3
+p572
+aVAnthony Bennett CLE 12/23/2013 CLE vs. DET L 16 7 3 7 42.9 0 1 0.0 1 2 50.0 0 2 2 0 0 0 3 2 -21
+p573
+aVEarl Clark CLE 12/23/2013 CLE vs. DET L 14 6 2 10 20.0 2 8 25.0 0 0 - 0 1 1 0 0 2 2 0 -16
+p574
+aVSergey Karasev CLE 12/21/2013 CLE @ CHI L 8 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 5
+p575
+aVKyrie Irving CLE 12/21/2013 CLE @ CHI L 35 14 5 16 31.3 1 5 20.0 3 3 100.0 0 2 2 5 0 0 2 2 -17
+p576
+aVCarrick Felix CLE 12/21/2013 CLE @ CHI L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p577
+aVMatthew Dellavedova CLE 12/21/2013 CLE @ CHI L 29 10 4 9 44.4 2 3 66.7 0 0 - 0 1 1 4 0 2 0 3 -17
+p578
+aVAndrew Bynum CLE 12/21/2013 CLE @ CHI L 27 19 9 15 60.0 0 0 - 1 2 50.0 2 5 7 2 1 0 2 3 -10
+p579
+aVHenry Sims CLE 12/21/2013 CLE @ CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p580
+aVEarl Clark CLE 12/21/2013 CLE @ CHI L 6 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -6
+p581
+aVCJ Miles CLE 12/21/2013 CLE @ CHI L 22 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 1 2 1 1 2 -1
+p582
+aVTristan Thompson CLE 12/21/2013 CLE @ CHI L 24 10 5 12 41.7 0 0 - 0 0 - 3 4 7 1 0 0 1 2 4
+p583
+aVAlonzo Gee CLE 12/21/2013 CLE @ CHI L 17 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 3 -15
+p584
+aVJarrett Jack CLE 12/21/2013 CLE @ CHI L 31 11 4 13 30.8 1 3 33.3 2 2 100.0 0 3 3 6 0 0 2 1 -5
+p585
+aVAnderson Varejao CLE 12/21/2013 CLE @ CHI L 24 6 3 6 50.0 0 0 - 0 0 - 3 3 6 2 1 0 1 3 -22
+p586
+aVTyler Zeller CLE 12/21/2013 CLE @ CHI L 13 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 1 0 0 0
+p587
+aVAnderson Varejao CLE 12/20/2013 CLE vs. MIL W 34 5 2 6 33.3 0 0 - 1 1 100.0 6 7 13 1 1 3 2 5 9
+p588
+aVCJ Miles CLE 12/20/2013 CLE vs. MIL W 30 15 4 8 50.0 3 4 75.0 4 4 100.0 0 2 2 3 0 1 2 3 -2
+p589
+aVMatthew Dellavedova CLE 12/20/2013 CLE vs. MIL W 16 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 1 1 0 2 -2
+p590
+aVTristan Thompson CLE 12/20/2013 CLE vs. MIL W 29 10 4 12 33.3 0 0 - 2 3 66.7 9 6 15 0 0 0 1 5 -5
+p591
+aVEarl Clark CLE 12/20/2013 CLE vs. MIL W 19 14 5 8 62.5 4 6 66.7 0 0 - 0 3 3 0 1 0 1 2 -2
+p592
+aVAlonzo Gee CLE 12/20/2013 CLE vs. MIL W 34 4 1 7 14.3 0 5 0.0 2 2 100.0 1 7 8 0 2 0 2 2 11
+p593
+aVAndrew Bynum CLE 12/20/2013 CLE vs. MIL W 24 8 3 14 21.4 0 0 - 2 2 100.0 1 6 7 1 0 3 0 0 4
+p594
+aVKyrie Irving CLE 12/20/2013 CLE vs. MIL W 42 39 13 25 52.0 2 7 28.6 11 12 91.7 0 3 3 6 0 4 4 2 1
+p595
+aVJarrett Jack CLE 12/20/2013 CLE vs. MIL W 38 17 6 17 35.3 2 4 50.0 3 3 100.0 1 3 4 5 0 0 0 1 1
+p596
+aVAnderson Varejao CLE 12/17/2013 CLE vs. POR L 25 5 2 7 28.6 0 0 - 1 2 50.0 3 6 9 0 0 0 0 0 6
+p597
+aVTristan Thompson CLE 12/17/2013 CLE vs. POR L 34 15 7 11 63.6 0 0 - 1 4 25.0 4 3 7 2 0 0 3 1 1
+p598
+aVAlonzo Gee CLE 12/17/2013 CLE vs. POR L 18 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 1 1 0 0 1 -12
+p599
+aVJarrett Jack CLE 12/17/2013 CLE vs. POR L 28 12 5 14 35.7 1 1 100.0 1 1 100.0 0 5 5 4 1 0 0 2 9
+p600
+aVKyrie Irving CLE 12/17/2013 CLE vs. POR L 34 25 9 22 40.9 3 7 42.9 4 4 100.0 0 3 3 10 1 0 0 3 -4
+p601
+aVEarl Clark CLE 12/17/2013 CLE vs. POR L 9 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 0 0 1 0 2 4
+p602
+aVCJ Miles CLE 12/17/2013 CLE vs. POR L 19 8 4 8 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 5
+p603
+aVDion Waiters CLE 12/17/2013 CLE vs. POR L 31 25 11 19 57.9 2 2 100.0 1 1 100.0 1 2 3 5 1 0 1 4 -8
+p604
+aVMatthew Dellavedova CLE 12/17/2013 CLE vs. POR L 10 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 2 0 0 0 1 -1
+p605
+aVAndrew Bynum CLE 12/17/2013 CLE vs. POR L 27 13 6 12 50.0 0 0 - 1 2 50.0 2 7 9 2 2 0 2 2 -10
+p606
+aVAnthony Bennett CLE 12/17/2013 CLE vs. POR L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p607
+aVKyrie Irving CLE 12/14/2013 CLE @ MIA L 31 19 6 16 37.5 3 9 33.3 4 4 100.0 0 0 0 3 4 0 3 4 -9
+p608
+aVDion Waiters CLE 12/14/2013 CLE @ MIA L 35 16 5 11 45.5 2 4 50.0 4 4 100.0 2 1 3 0 0 0 2 2 -11
+p609
+aVAlonzo Gee CLE 12/14/2013 CLE @ MIA L 26 10 4 10 40.0 1 3 33.3 1 2 50.0 1 4 5 2 0 0 1 1 3
+p610
+aVAnderson Varejao CLE 12/14/2013 CLE @ MIA L 31 6 2 5 40.0 0 0 - 2 4 50.0 2 6 8 4 0 1 1 0 -5
+p611
+aVAnthony Bennett CLE 12/14/2013 CLE @ MIA L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p612
+aVCJ Miles CLE 12/14/2013 CLE @ MIA L 13 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 1 0 0 2 4 4
+p613
+aVJarrett Jack CLE 12/14/2013 CLE @ MIA L 22 14 6 11 54.5 0 3 0.0 2 2 100.0 1 4 5 4 1 0 1 0 -1
+p614
+aVTristan Thompson CLE 12/14/2013 CLE @ MIA L 26 16 6 14 42.9 0 0 - 4 7 57.1 2 5 7 1 1 0 1 2 -4
+p615
+aVEarl Clark CLE 12/14/2013 CLE @ MIA L 16 12 5 9 55.6 2 5 40.0 0 0 - 1 1 2 0 0 0 0 1 -1
+p616
+aVMatthew Dellavedova CLE 12/14/2013 CLE @ MIA L 15 5 2 2 100.0 1 1 100.0 0 0 - 1 3 4 1 1 0 2 2 -2
+p617
+aVAndrew Bynum CLE 12/14/2013 CLE @ MIA L 18 4 2 2 100.0 0 0 - 0 0 - 2 2 4 2 0 0 1 2 -4
+p618
+aVEarl Clark CLE 12/13/2013 CLE @ ORL W 18 9 3 4 75.0 3 4 75.0 0 0 - 1 4 5 0 0 0 1 2 8
+p619
+aVKyrie Irving CLE 12/13/2013 CLE @ ORL W 36 31 12 24 50.0 2 6 33.3 5 5 100.0 1 2 3 5 2 0 2 1 5
+p620
+aVMatthew Dellavedova CLE 12/13/2013 CLE @ ORL W 19 9 2 3 66.7 2 3 66.7 3 4 75.0 1 0 1 0 1 0 0 3 14
+p621
+aVDion Waiters CLE 12/13/2013 CLE @ ORL W 29 21 8 18 44.4 1 2 50.0 4 6 66.7 0 5 5 4 1 1 2 2 13
+p622
+aVAndrew Bynum CLE 12/13/2013 CLE @ ORL W 18 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -9
+p623
+aVAnderson Varejao CLE 12/13/2013 CLE @ ORL W 32 10 4 7 57.1 0 0 - 2 2 100.0 2 12 14 1 1 2 1 1 15
+p624
+aVAnthony Bennett CLE 12/13/2013 CLE @ ORL W 9 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 5
+p625
+aVTristan Thompson CLE 12/13/2013 CLE @ ORL W 28 6 3 7 42.9 0 0 - 0 0 - 1 6 7 0 0 0 2 0 0
+p626
+aVCJ Miles CLE 12/13/2013 CLE @ ORL W 20 10 5 10 50.0 0 3 0.0 0 0 - 0 1 1 2 0 0 0 3 -9
+p627
+aVAlonzo Gee CLE 12/13/2013 CLE @ ORL W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -14
+p628
+aVJarrett Jack CLE 12/13/2013 CLE @ ORL W 20 5 1 5 20.0 0 1 0.0 3 3 100.0 0 4 4 6 0 0 1 1 7
+p629
+aVEarl Clark CLE 12/10/2013 CLE vs. NYK W 10 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -9
+p630
+aVAlonzo Gee CLE 12/10/2013 CLE vs. NYK W 30 8 4 6 66.7 0 0 - 0 0 - 2 4 6 1 3 0 2 1 22
+p631
+aVSergey Karasev CLE 12/10/2013 CLE vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p632
+aVMatthew Dellavedova CLE 12/10/2013 CLE vs. NYK W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p633
+aVAnderson Varejao CLE 12/10/2013 CLE vs. NYK W 31 9 3 4 75.0 0 0 - 3 3 100.0 2 5 7 5 0 0 0 2 11
+p634
+aVAnthony Bennett CLE 12/10/2013 CLE vs. NYK W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p635
+aVTristan Thompson CLE 12/10/2013 CLE vs. NYK W 30 12 5 8 62.5 0 0 - 2 2 100.0 4 5 9 1 0 0 0 3 11
+p636
+aVKyrie Irving CLE 12/10/2013 CLE vs. NYK W 36 37 14 23 60.9 4 7 57.1 5 6 83.3 0 1 1 11 1 0 1 0 20
+p637
+aVDion Waiters CLE 12/10/2013 CLE vs. NYK W 14 6 2 6 33.3 0 1 0.0 2 4 50.0 0 0 0 1 0 0 4 3 -2
+p638
+aVJarrett Jack CLE 12/10/2013 CLE vs. NYK W 24 17 6 8 75.0 3 5 60.0 2 3 66.7 0 0 0 1 0 0 2 0 -13
+p639
+aVCJ Miles CLE 12/10/2013 CLE vs. NYK W 26 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 2 2 0 0 1 22
+p640
+aVAndrew Bynum CLE 12/10/2013 CLE vs. NYK W 24 3 1 6 16.7 0 0 - 1 2 50.0 1 7 8 2 0 1 2 1 18
+p641
+aVTyler Zeller CLE 12/10/2013 CLE vs. NYK W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p642
+aVAnthony Bennett CLE 12/07/2013 CLE vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p643
+aVTristan Thompson CLE 12/07/2013 CLE vs. LAC W 40 20 7 15 46.7 0 0 - 6 11 54.5 5 8 13 4 2 1 0 3 10
+p644
+aVCJ Miles CLE 12/07/2013 CLE vs. LAC W 19 5 1 7 14.3 1 4 25.0 2 2 100.0 0 2 2 2 1 0 2 2 7
+p645
+aVKyrie Irving CLE 12/07/2013 CLE vs. LAC W 40 20 6 15 40.0 1 2 50.0 7 8 87.5 0 3 3 6 0 1 7 4 4
+p646
+aVAndrew Bynum CLE 12/07/2013 CLE vs. LAC W 24 18 8 13 61.5 0 0 - 2 2 100.0 2 4 6 0 0 0 0 0 -4
+p647
+aVDion Waiters CLE 12/07/2013 CLE vs. LAC W 29 3 1 10 10.0 0 2 0.0 1 2 50.0 3 3 6 2 0 0 1 1 -1
+p648
+aVEarl Clark CLE 12/07/2013 CLE vs. LAC W 9 5 2 5 40.0 1 4 25.0 0 0 - 0 0 0 0 0 0 0 1 6
+p649
+aVMatthew Dellavedova CLE 12/07/2013 CLE vs. LAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p650
+aVAlonzo Gee CLE 12/07/2013 CLE vs. LAC W 16 0 0 4 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 2 5
+p651
+aVAnderson Varejao CLE 12/07/2013 CLE vs. LAC W 23 6 3 7 42.9 0 0 - 0 0 - 5 12 17 1 0 1 2 3 0
+p652
+aVJarrett Jack CLE 12/07/2013 CLE vs. LAC W 32 11 3 7 42.9 1 2 50.0 4 5 80.0 0 9 9 3 1 0 2 3 1
+p653
+aVAnthony Bennett CLE 12/06/2013 CLE @ ATL L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p654
+aVMatthew Dellavedova CLE 12/06/2013 CLE @ ATL L 26 7 3 7 42.9 1 2 50.0 0 0 - 1 0 1 4 1 0 1 2 13
+p655
+aVTyler Zeller CLE 12/06/2013 CLE @ ATL L 7 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -4
+p656
+aVAnderson Varejao CLE 12/06/2013 CLE @ ATL L 21 2 1 6 16.7 0 0 - 0 0 - 1 5 6 4 1 0 0 1 3
+p657
+aVEarl Clark CLE 12/06/2013 CLE @ ATL L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p658
+aVAlonzo Gee CLE 12/06/2013 CLE @ ATL L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -12
+p659
+aVKyrie Irving CLE 12/06/2013 CLE @ ATL L 20 0 0 9 0.0 0 3 0.0 0 3 0.0 0 4 4 4 0 0 0 1 -19
+p660
+aVDion Waiters CLE 12/06/2013 CLE @ ATL L 35 30 13 20 65.0 1 4 25.0 3 3 100.0 0 2 2 1 0 0 2 0 -7
+p661
+aVSergey Karasev CLE 12/06/2013 CLE @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p662
+aVJarrett Jack CLE 12/06/2013 CLE @ ATL L 29 12 4 10 40.0 2 4 50.0 2 2 100.0 0 3 3 3 1 0 1 2 -6
+p663
+aVAndrew Bynum CLE 12/06/2013 CLE @ ATL L 27 20 9 14 64.3 0 0 - 2 7 28.6 9 4 13 2 0 2 3 1 -11
+p664
+aVCJ Miles CLE 12/06/2013 CLE @ ATL L 12 3 1 8 12.5 1 4 25.0 0 0 - 0 2 2 0 0 0 2 2 -14
+p665
+aVTristan Thompson CLE 12/06/2013 CLE @ ATL L 35 9 4 9 44.4 0 0 - 1 2 50.0 3 8 11 1 1 0 0 1 -20
+p666
+aVAndrew Bynum CLE 12/04/2013 CLE vs. DEN W 20 14 6 15 40.0 0 0 - 2 2 100.0 4 3 7 1 0 1 2 1 -3
+p667
+aVDion Waiters CLE 12/04/2013 CLE vs. DEN W 26 5 2 8 25.0 0 1 0.0 1 2 50.0 1 3 4 6 0 0 2 0 12
+p668
+aVKyrie Irving CLE 12/04/2013 CLE vs. DEN W 37 23 9 20 45.0 2 5 40.0 3 3 100.0 1 1 2 4 1 0 3 2 3
+p669
+aVAnderson Varejao CLE 12/04/2013 CLE vs. DEN W 28 18 7 9 77.8 0 0 - 4 6 66.7 3 10 13 3 2 3 1 0 13
+p670
+aVJarrett Jack CLE 12/04/2013 CLE vs. DEN W 32 6 2 7 28.6 1 2 50.0 1 1 100.0 0 2 2 4 1 3 2 2 13
+p671
+aVCJ Miles CLE 12/04/2013 CLE vs. DEN W 16 0 0 4 0.0 0 2 0.0 0 0 - 2 1 3 1 1 1 0 2 -3
+p672
+aVEarl Clark CLE 12/04/2013 CLE vs. DEN W 14 3 1 2 50.0 0 1 0.0 1 2 50.0 0 4 4 0 0 2 0 1 6
+p673
+aVTristan Thompson CLE 12/04/2013 CLE vs. DEN W 34 17 6 13 46.2 0 0 - 5 6 83.3 9 12 21 1 0 3 2 0 4
+p674
+aVAnthony Bennett CLE 12/04/2013 CLE vs. DEN W 11 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 7
+p675
+aVAlonzo Gee CLE 12/04/2013 CLE vs. DEN W 22 7 2 8 25.0 1 2 50.0 2 2 100.0 0 2 2 0 1 0 0 2 -2
+p676
+aVTristan Thompson CLE 11/30/2013 CLE vs. CHI W 36 14 4 7 57.1 0 1 0.0 6 8 75.0 2 12 14 2 0 0 2 2 18
+p677
+aVCJ Miles CLE 11/30/2013 CLE vs. CHI W 16 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 2 1 2 1 1 10
+p678
+aVAlonzo Gee CLE 11/30/2013 CLE vs. CHI W 36 5 2 4 50.0 1 1 100.0 0 0 - 1 3 4 3 0 0 1 3 20
+p679
+aVAnthony Bennett CLE 11/30/2013 CLE vs. CHI W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p680
+aVJarrett Jack CLE 11/30/2013 CLE vs. CHI W 24 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 3 0 0 1 2 -12
+p681
+aVAndrew Bynum CLE 11/30/2013 CLE vs. CHI W 30 20 8 14 57.1 0 0 - 4 4 100.0 3 7 10 3 0 5 1 1 9
+p682
+aVMatthew Dellavedova CLE 11/30/2013 CLE vs. CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p683
+aVAnderson Varejao CLE 11/30/2013 CLE vs. CHI W 24 6 3 7 42.9 0 0 - 0 0 - 2 3 5 0 1 0 0 3 -15
+p684
+aVKyrie Irving CLE 11/30/2013 CLE vs. CHI W 39 19 7 21 33.3 1 5 20.0 4 5 80.0 2 1 3 6 2 0 0 3 7
+p685
+aVDion Waiters CLE 11/30/2013 CLE vs. CHI W 27 20 8 10 80.0 2 2 100.0 2 2 100.0 0 2 2 0 1 0 4 1 -9
+p686
+aVKyrie Irving CLE 11/29/2013 CLE @ BOS L 36 17 7 16 43.8 0 4 0.0 3 6 50.0 0 3 3 3 0 0 4 2 -24
+p687
+aVAnderson Varejao CLE 11/29/2013 CLE @ BOS L 26 10 4 9 44.4 0 0 - 2 3 66.7 5 7 12 0 2 1 1 2 2
+p688
+aVAnthony Bennett CLE 11/29/2013 CLE @ BOS L 20 4 1 4 25.0 1 2 50.0 1 2 50.0 1 3 4 1 0 0 3 4 10
+p689
+aVMatthew Dellavedova CLE 11/29/2013 CLE @ BOS L 12 7 2 2 100.0 2 2 100.0 1 2 50.0 0 1 1 0 1 0 0 1 7
+p690
+aVJarrett Jack CLE 11/29/2013 CLE @ BOS L 22 9 4 9 44.4 0 2 0.0 1 1 100.0 0 1 1 2 0 0 1 2 -3
+p691
+aVAlonzo Gee CLE 11/29/2013 CLE @ BOS L 12 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 -17
+p692
+aVSergey Karasev CLE 11/29/2013 CLE @ BOS L 15 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 1 3 -15
+p693
+aVTristan Thompson CLE 11/29/2013 CLE @ BOS L 25 2 1 6 16.7 0 0 - 0 0 - 3 4 7 0 0 0 0 0 -21
+p694
+aVCarrick Felix CLE 11/29/2013 CLE @ BOS L 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p695
+aVAndrew Bynum CLE 11/29/2013 CLE @ BOS L 15 4 2 7 28.6 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -25
+p696
+aVEarl Clark CLE 11/29/2013 CLE @ BOS L 12 1 0 5 0.0 0 2 0.0 1 2 50.0 0 2 2 0 1 0 1 1 -4
+p697
+aVDion Waiters CLE 11/29/2013 CLE @ BOS L 35 21 7 18 38.9 1 5 20.0 6 7 85.7 2 2 4 6 1 0 6 5 -3
+p698
+aVTyler Zeller CLE 11/29/2013 CLE @ BOS L 6 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 6
+p699
+aVEarl Clark CLE 11/27/2013 CLE vs. MIA L 27 13 5 11 45.5 3 5 60.0 0 0 - 1 1 2 2 2 0 0 4 0
+p700
+aVSergey Karasev CLE 11/27/2013 CLE vs. MIA L 19 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 0 1 1 2 3 -2
+p701
+aVAndrew Bynum CLE 11/27/2013 CLE vs. MIA L 23 4 2 10 20.0 0 0 - 0 0 - 3 4 7 1 0 0 2 3 -10
+p702
+aVTristan Thompson CLE 11/27/2013 CLE vs. MIA L 23 4 1 6 16.7 0 0 - 2 4 50.0 3 8 11 1 0 0 1 0 -11
+p703
+aVJarrett Jack CLE 11/27/2013 CLE vs. MIA L 37 8 3 6 50.0 2 4 50.0 0 0 - 1 4 5 6 1 1 5 1 -7
+p704
+aVAlonzo Gee CLE 11/27/2013 CLE vs. MIA L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -11
+p705
+aVAnderson Varejao CLE 11/27/2013 CLE vs. MIA L 22 10 3 10 30.0 0 1 0.0 4 5 80.0 2 5 7 3 2 0 0 0 -1
+p706
+aVKyrie Irving CLE 11/27/2013 CLE vs. MIA L 34 16 6 19 31.6 0 5 0.0 4 4 100.0 2 1 3 3 1 0 4 3 -11
+p707
+aVMatthew Dellavedova CLE 11/27/2013 CLE vs. MIA L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p708
+aVDion Waiters CLE 11/27/2013 CLE vs. MIA L 33 24 7 14 50.0 4 8 50.0 6 11 54.5 0 6 6 3 0 0 3 2 2
+p709
+aVAnderson Varejao CLE 11/23/2013 CLE @ SAS L 13 9 4 5 80.0 0 0 - 1 2 50.0 1 5 6 1 0 0 2 3 -2
+p710
+aVJarrett Jack CLE 11/23/2013 CLE @ SAS L 17 0 0 3 0.0 0 0 - 0 0 - 0 0 0 5 0 0 0 1 -22
+p711
+aVEarl Clark CLE 11/23/2013 CLE @ SAS L 9 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 1 0 0 -1
+p712
+aVKyrie Irving CLE 11/23/2013 CLE @ SAS L 27 15 7 17 41.2 0 1 0.0 1 2 50.0 0 0 0 4 1 0 1 1 -28
+p713
+aVSergey Karasev CLE 11/23/2013 CLE @ SAS L 21 8 2 6 33.3 0 3 0.0 4 4 100.0 0 5 5 1 0 0 1 2 -3
+p714
+aVAnthony Bennett CLE 11/23/2013 CLE @ SAS L 12 9 4 5 80.0 1 2 50.0 0 2 0.0 2 3 5 0 1 0 5 3 -1
+p715
+aVAlonzo Gee CLE 11/23/2013 CLE @ SAS L 16 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -12
+p716
+aVCarrick Felix CLE 11/23/2013 CLE @ SAS L 9 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 1
+p717
+aVTyler Zeller CLE 11/23/2013 CLE @ SAS L 15 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 1 0 0 0 -8
+p718
+aVAndrew Bynum CLE 11/23/2013 CLE @ SAS L 21 16 8 15 53.3 0 0 - 0 0 - 2 4 6 0 0 1 1 3 -20
+p719
+aVMatthew Dellavedova CLE 11/23/2013 CLE @ SAS L 34 14 6 8 75.0 1 2 50.0 1 2 50.0 1 1 2 2 4 0 2 1 -12
+p720
+aVDion Waiters CLE 11/23/2013 CLE @ SAS L 20 11 4 9 44.4 1 1 100.0 2 2 100.0 1 0 1 2 1 0 3 2 -14
+p721
+aVTristan Thompson CLE 11/23/2013 CLE @ SAS L 27 5 1 8 12.5 0 0 - 3 4 75.0 3 6 9 2 0 0 1 2 -28
+p722
+aVJarrett Jack CLE 11/22/2013 CLE @ NOP L 33 19 9 13 69.2 1 3 33.3 0 0 - 0 1 1 4 0 0 3 1 -7
+p723
+aVTristan Thompson CLE 11/22/2013 CLE @ NOP L 23 12 6 10 60.0 0 0 - 0 0 - 3 5 8 1 1 0 1 1 0
+p724
+aVEarl Clark CLE 11/22/2013 CLE @ NOP L 28 11 4 6 66.7 3 5 60.0 0 0 - 0 2 2 0 0 0 1 3 -8
+p725
+aVAndrew Bynum CLE 11/22/2013 CLE @ NOP L 18 8 3 5 60.0 0 0 - 2 3 66.7 1 0 1 4 0 2 1 3 9
+p726
+aVCarrick Felix CLE 11/22/2013 CLE @ NOP L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -6
+p727
+aVMatthew Dellavedova CLE 11/22/2013 CLE @ NOP L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 5 8
+p728
+aVDion Waiters CLE 11/22/2013 CLE @ NOP L 26 14 5 9 55.6 1 4 25.0 3 5 60.0 0 4 4 2 1 0 4 4 -8
+p729
+aVSergey Karasev CLE 11/22/2013 CLE @ NOP L 11 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 1 4 1
+p730
+aVKyrie Irving CLE 11/22/2013 CLE @ NOP L 33 22 9 22 40.9 1 6 16.7 3 5 60.0 2 3 5 2 3 1 4 1 -5
+p731
+aVAlonzo Gee CLE 11/22/2013 CLE @ NOP L 28 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 1 1 1 0 2 5
+p732
+aVAnderson Varejao CLE 11/22/2013 CLE @ NOP L 28 4 1 3 33.3 0 0 - 2 3 66.7 0 9 9 0 1 1 1 2 -9
+p733
+aVAnthony Bennett CLE 11/20/2013 CLE vs. WAS L 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 6
+p734
+aVTristan Thompson CLE 11/20/2013 CLE vs. WAS L 24 2 0 5 0.0 0 0 - 2 2 100.0 2 2 4 0 0 0 2 1 -28
+p735
+aVHenry Sims CLE 11/20/2013 CLE vs. WAS L 7 6 3 4 75.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 6
+p736
+aVAndrew Bynum CLE 11/20/2013 CLE vs. WAS L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -21
+p737
+aVKyrie Irving CLE 11/20/2013 CLE vs. WAS L 30 28 9 14 64.3 3 4 75.0 7 7 100.0 0 0 0 6 1 0 3 3 -20
+p738
+aVEarl Clark CLE 11/20/2013 CLE vs. WAS L 29 3 1 6 16.7 1 3 33.3 0 2 0.0 0 8 8 3 0 0 3 1 -14
+p739
+aVAlonzo Gee CLE 11/20/2013 CLE vs. WAS L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -7
+p740
+aVDion Waiters CLE 11/20/2013 CLE vs. WAS L 30 11 2 13 15.4 0 2 0.0 7 8 87.5 1 2 3 3 1 0 3 3 4
+p741
+aVJarrett Jack CLE 11/20/2013 CLE vs. WAS L 28 14 6 10 60.0 2 4 50.0 0 0 - 0 1 1 6 1 0 1 0 4
+p742
+aVAnderson Varejao CLE 11/20/2013 CLE vs. WAS L 35 14 7 10 70.0 0 0 - 0 0 - 5 6 11 0 1 0 1 5 14
+p743
+aVSergey Karasev CLE 11/20/2013 CLE vs. WAS L 2 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 0
+p744
+aVMatthew Dellavedova CLE 11/20/2013 CLE vs. WAS L 27 9 3 6 50.0 3 6 50.0 0 0 - 1 2 3 0 0 0 1 4 21
+p745
+aVCJ Miles CLE 11/20/2013 CLE vs. WAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p746
+aVSergey Karasev CLE 11/16/2013 CLE @ WAS W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p747
+aVAndrew Bynum CLE 11/16/2013 CLE @ WAS W 21 6 2 8 25.0 0 0 - 2 2 100.0 1 2 3 0 1 1 2 0 -7
+p748
+aVAnderson Varejao CLE 11/16/2013 CLE @ WAS W 35 2 0 3 0.0 0 1 0.0 2 2 100.0 2 6 8 6 1 0 0 2 15
+p749
+aVJarrett Jack CLE 11/16/2013 CLE @ WAS W 34 13 5 13 38.5 1 4 25.0 2 2 100.0 1 4 5 4 1 0 5 1 8
+p750
+aVTristan Thompson CLE 11/16/2013 CLE @ WAS W 32 15 6 11 54.5 0 0 - 3 3 100.0 3 9 12 0 2 2 1 3 10
+p751
+aVAlonzo Gee CLE 11/16/2013 CLE @ WAS W 17 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 1 1 2 2 -11
+p752
+aVEarl Clark CLE 11/16/2013 CLE @ WAS W 33 11 4 6 66.7 3 4 75.0 0 0 - 0 3 3 0 2 2 2 4 -5
+p753
+aVCJ Miles CLE 11/16/2013 CLE @ WAS W 16 8 2 3 66.7 2 2 100.0 2 2 100.0 0 3 3 0 0 0 2 4 3
+p754
+aVKyrie Irving CLE 11/16/2013 CLE @ WAS W 42 41 14 28 50.0 4 7 57.1 9 9 100.0 0 4 4 5 2 0 6 2 16
+p755
+aVMatthew Dellavedova CLE 11/16/2013 CLE @ WAS W 31 2 1 5 20.0 0 2 0.0 0 0 - 0 6 6 2 2 0 0 1 16
+p756
+aVKyrie Irving CLE 11/15/2013 CLE vs. CHA L 38 18 5 16 31.3 1 5 20.0 7 7 100.0 0 2 2 10 2 0 6 4 3
+p757
+aVJarrett Jack CLE 11/15/2013 CLE vs. CHA L 24 11 5 9 55.6 0 1 0.0 1 2 50.0 0 4 4 3 2 1 2 0 -10
+p758
+aVEarl Clark CLE 11/15/2013 CLE vs. CHA L 25 15 6 7 85.7 3 3 100.0 0 0 - 1 4 5 0 0 1 1 3 1
+p759
+aVSergey Karasev CLE 11/15/2013 CLE vs. CHA L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p760
+aVAnthony Bennett CLE 11/15/2013 CLE vs. CHA L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 0 0 2
+p761
+aVCJ Miles CLE 11/15/2013 CLE vs. CHA L 33 8 4 13 30.8 0 4 0.0 0 0 - 1 1 2 1 2 0 0 2 1
+p762
+aVHenry Sims CLE 11/15/2013 CLE vs. CHA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p763
+aVTyler Zeller CLE 11/15/2013 CLE vs. CHA L 14 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 1 0 2 1 2 -13
+p764
+aVTristan Thompson CLE 11/15/2013 CLE vs. CHA L 40 15 6 15 40.0 0 0 - 3 6 50.0 4 6 10 1 2 0 1 2 1
+p765
+aVAlonzo Gee CLE 11/15/2013 CLE vs. CHA L 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 1 3 -9
+p766
+aVAnderson Varejao CLE 11/15/2013 CLE vs. CHA L 33 4 2 5 40.0 0 0 - 0 0 - 3 10 13 1 0 1 1 1 3
+p767
+aVTristan Thompson CLE 11/13/2013 CLE @ MIN L 24 10 3 7 42.9 0 0 - 4 5 80.0 2 4 6 2 0 0 1 3 -17
+p768
+aVSergey Karasev CLE 11/13/2013 CLE @ MIN L 14 7 2 5 40.0 1 1 100.0 2 2 100.0 0 4 4 2 0 0 0 1 3
+p769
+aVDion Waiters CLE 11/13/2013 CLE @ MIN L 22 6 2 6 33.3 1 2 50.0 1 2 50.0 0 2 2 2 0 0 1 1 -12
+p770
+aVAlonzo Gee CLE 11/13/2013 CLE @ MIN L 22 5 2 2 100.0 1 1 100.0 0 0 - 1 1 2 1 2 0 3 2 -8
+p771
+aVAnthony Bennett CLE 11/13/2013 CLE @ MIN L 20 6 3 11 27.3 0 1 0.0 0 0 - 3 2 5 0 0 0 1 1 -17
+p772
+aVCJ Miles CLE 11/13/2013 CLE @ MIN L 7 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 0 -14
+p773
+aVHenry Sims CLE 11/13/2013 CLE @ MIN L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 6
+p774
+aVEarl Clark CLE 11/13/2013 CLE @ MIN L 14 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 0 0 0 1 1 0
+p775
+aVJarrett Jack CLE 11/13/2013 CLE @ MIN L 24 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 5 0 0 1 1 -30
+p776
+aVTyler Zeller CLE 11/13/2013 CLE @ MIN L 15 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 0 0 0 0 0 -8
+p777
+aVMatthew Dellavedova CLE 11/13/2013 CLE @ MIN L 13 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -8
+p778
+aVAnderson Varejao CLE 11/13/2013 CLE @ MIN L 29 13 5 8 62.5 0 0 - 3 4 75.0 3 2 5 3 1 0 0 3 -22
+p779
+aVKyrie Irving CLE 11/13/2013 CLE @ MIN L 27 20 8 17 47.1 1 5 20.0 3 3 100.0 0 1 1 2 1 1 3 2 -18
+p780
+aVTristan Thompson CLE 11/11/2013 CLE @ CHI L 39 14 6 11 54.5 0 0 - 2 4 50.0 4 9 13 0 1 1 1 4 -21
+p781
+aVAlonzo Gee CLE 11/11/2013 CLE @ CHI L 19 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 0 1 1 0 0 -2
+p782
+aVCJ Miles CLE 11/11/2013 CLE @ CHI L 19 9 4 10 40.0 1 4 25.0 0 0 - 0 2 2 0 1 3 1 3 -6
+p783
+aVHenry Sims CLE 11/11/2013 CLE @ CHI L 5 0 0 0 - 0 0 - 0 2 0.0 1 2 3 0 0 0 0 3 -5
+p784
+aVAndrew Bynum CLE 11/11/2013 CLE @ CHI L 21 11 3 5 60.0 0 0 - 5 5 100.0 2 4 6 2 0 2 3 1 -1
+p785
+aVJarrett Jack CLE 11/11/2013 CLE @ CHI L 25 2 0 6 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 1 1 -3
+p786
+aVAnderson Varejao CLE 11/11/2013 CLE @ CHI L 29 5 2 5 40.0 0 0 - 1 2 50.0 3 3 6 3 2 2 2 3 -11
+p787
+aVKyrie Irving CLE 11/11/2013 CLE @ CHI L 41 16 5 19 26.3 2 5 40.0 4 5 80.0 0 2 2 4 0 0 3 3 -13
+p788
+aVDion Waiters CLE 11/11/2013 CLE @ CHI L 34 13 6 13 46.2 1 3 33.3 0 0 - 0 2 2 2 1 2 6 2 -19
+p789
+aVMatthew Dellavedova CLE 11/11/2013 CLE @ CHI L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -1
+p790
+aVTyler Zeller CLE 11/11/2013 CLE @ CHI L 4 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 7
+p791
+aVMatthew Dellavedova CLE 11/09/2013 CLE vs. PHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -5
+p792
+aVAnthony Bennett CLE 11/09/2013 CLE vs. PHI W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p793
+aVTyler Zeller CLE 11/09/2013 CLE vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p794
+aVAlonzo Gee CLE 11/09/2013 CLE vs. PHI W 20 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 0 0 0 3 3 -10
+p795
+aVDion Waiters CLE 11/09/2013 CLE vs. PHI W 44 24 9 19 47.4 3 5 60.0 3 6 50.0 1 7 8 6 4 0 3 5 -1
+p796
+aVJarrett Jack CLE 11/09/2013 CLE vs. PHI W 37 20 7 14 50.0 3 6 50.0 3 4 75.0 1 3 4 5 3 3 3 1 11
+p797
+aVHenry Sims CLE 11/09/2013 CLE vs. PHI W 13 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 1 0 2 2 2 7
+p798
+aVTristan Thompson CLE 11/09/2013 CLE vs. PHI W 48 19 6 10 60.0 0 0 - 7 8 87.5 6 4 10 0 1 2 0 3 2
+p799
+aVCJ Miles CLE 11/09/2013 CLE vs. PHI W 19 6 2 8 25.0 2 5 40.0 0 0 - 0 3 3 0 0 0 1 0 2
+p800
+aVKyrie Irving CLE 11/09/2013 CLE vs. PHI W 48 39 15 33 45.5 5 12 41.7 4 5 80.0 1 4 5 12 0 0 3 1 11
+p801
+aVAnderson Varejao CLE 11/09/2013 CLE vs. PHI W 43 13 5 10 50.0 0 0 - 3 4 75.0 4 6 10 2 2 3 3 3 -3
+p802
+aVAlonzo Gee CLE 11/08/2013 CLE @ PHI L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -12
+p803
+aVKyrie Irving CLE 11/08/2013 CLE @ PHI L 34 10 4 17 23.5 1 6 16.7 1 2 50.0 3 0 3 9 1 0 1 1 -9
+p804
+aVSergey Karasev CLE 11/08/2013 CLE @ PHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p805
+aVAnderson Varejao CLE 11/08/2013 CLE @ PHI L 32 2 1 7 14.3 0 1 0.0 0 0 - 2 2 4 3 2 0 0 2 -8
+p806
+aVTyler Zeller CLE 11/08/2013 CLE @ PHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 0
+p807
+aVAndrew Bynum CLE 11/08/2013 CLE @ PHI L 18 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 1 1 1 0 -15
+p808
+aVCJ Miles CLE 11/08/2013 CLE @ PHI L 18 13 5 7 71.4 2 4 50.0 1 2 50.0 0 0 0 3 0 0 2 2 -13
+p809
+aVDion Waiters CLE 11/08/2013 CLE @ PHI L 32 18 7 19 36.8 3 6 50.0 1 2 50.0 0 6 6 3 1 0 0 0 0
+p810
+aVJarrett Jack CLE 11/08/2013 CLE @ PHI L 25 13 3 10 30.0 3 4 75.0 4 4 100.0 1 3 4 3 2 0 3 1 -6
+p811
+aVAnthony Bennett CLE 11/08/2013 CLE @ PHI L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p812
+aVTristan Thompson CLE 11/08/2013 CLE @ PHI L 35 13 5 15 33.3 0 0 - 3 4 75.0 9 7 16 0 0 2 2 4 -6
+p813
+aVEarl Clark CLE 11/08/2013 CLE @ PHI L 16 4 2 9 22.2 0 4 0.0 0 0 - 2 1 3 0 2 1 0 0 -2
+p814
+aVKyrie Irving CLE 11/06/2013 CLE @ MIL L 35 29 10 20 50.0 4 6 66.7 5 5 100.0 1 4 5 8 0 0 2 2 11
+p815
+aVJarrett Jack CLE 11/06/2013 CLE @ MIL L 19 6 3 8 37.5 0 1 0.0 0 0 - 0 0 0 2 0 0 2 3 -19
+p816
+aVTristan Thompson CLE 11/06/2013 CLE @ MIL L 35 5 1 5 20.0 0 0 - 3 4 75.0 3 4 7 0 2 0 2 1 8
+p817
+aVAnthony Bennett CLE 11/06/2013 CLE @ MIL L 12 3 1 5 20.0 1 3 33.3 0 0 - 2 1 3 1 2 1 0 1 -5
+p818
+aVEarl Clark CLE 11/06/2013 CLE @ MIL L 13 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 1 0 0 3 -1
+p819
+aVAlonzo Gee CLE 11/06/2013 CLE @ MIL L 23 7 2 5 40.0 1 3 33.3 2 2 100.0 1 3 4 1 1 0 1 1 -15
+p820
+aVAndrew Bynum CLE 11/06/2013 CLE @ MIL L 14 4 2 7 28.6 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -9
+p821
+aVCJ Miles CLE 11/06/2013 CLE @ MIL L 24 14 5 11 45.5 4 10 40.0 0 0 - 1 2 3 2 0 0 0 2 -5
+p822
+aVTyler Zeller CLE 11/06/2013 CLE @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p823
+aVDion Waiters CLE 11/06/2013 CLE @ MIL L 30 21 7 13 53.8 1 4 25.0 6 11 54.5 0 3 3 3 1 1 1 2 10
+p824
+aVAnderson Varejao CLE 11/06/2013 CLE @ MIL L 33 12 6 9 66.7 0 0 - 0 0 - 3 5 8 3 3 0 0 3 2
+p825
+aVKyrie Irving CLE 11/04/2013 CLE vs. MIN W 33 15 7 15 46.7 1 3 33.3 0 0 - 0 8 8 6 1 2 9 4 -5
+p826
+aVTristan Thompson CLE 11/04/2013 CLE vs. MIN W 37 12 5 13 38.5 0 0 - 2 3 66.7 3 8 11 1 1 0 6 3 3
+p827
+aVAnderson Varejao CLE 11/04/2013 CLE vs. MIN W 29 12 6 7 85.7 0 0 - 0 0 - 2 4 6 4 1 1 0 3 -2
+p828
+aVCJ Miles CLE 11/04/2013 CLE vs. MIN W 19 19 8 13 61.5 3 5 60.0 0 0 - 2 3 5 1 2 2 1 1 8
+p829
+aVJarrett Jack CLE 11/04/2013 CLE vs. MIN W 27 2 1 7 14.3 0 2 0.0 0 0 - 0 4 4 5 0 1 3 3 -3
+p830
+aVTyler Zeller CLE 11/04/2013 CLE vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p831
+aVAlonzo Gee CLE 11/04/2013 CLE vs. MIN W 34 9 4 7 57.1 1 2 50.0 0 0 - 2 4 6 1 1 0 2 1 -8
+p832
+aVAnthony Bennett CLE 11/04/2013 CLE vs. MIN W 10 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 1 1 0 1 0
+p833
+aVDion Waiters CLE 11/04/2013 CLE vs. MIN W 20 8 3 10 30.0 0 2 0.0 2 2 100.0 0 4 4 2 1 2 0 1 8
+p834
+aVAndrew Bynum CLE 11/04/2013 CLE vs. MIN W 19 10 2 6 33.3 0 0 - 6 6 100.0 2 2 4 1 0 3 1 2 3
+p835
+aVEarl Clark CLE 11/04/2013 CLE vs. MIN W 11 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 2 0 1 4 3
+p836
+aVHenry Sims CLE 11/02/2013 CLE @ IND L 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p837
+aVJarrett Jack CLE 11/02/2013 CLE @ IND L 24 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 3 2 0 4 3 -15
+p838
+aVTyler Zeller CLE 11/02/2013 CLE @ IND L 18 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 0 1 1 3 -8
+p839
+aVDion Waiters CLE 11/02/2013 CLE @ IND L 29 17 7 21 33.3 2 3 66.7 1 1 100.0 0 2 2 0 4 0 2 3 3
+p840
+aVEarl Clark CLE 11/02/2013 CLE @ IND L 18 2 0 4 0.0 0 1 0.0 2 2 100.0 0 7 7 0 0 0 2 0 -6
+p841
+aVSergey Karasev CLE 11/02/2013 CLE @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p842
+aVCJ Miles CLE 11/02/2013 CLE @ IND L 19 8 2 9 22.2 0 5 0.0 4 4 100.0 1 1 2 2 2 0 0 3 -8
+p843
+aVAnthony Bennett CLE 11/02/2013 CLE @ IND L 13 0 0 4 0.0 0 1 0.0 0 0 - 2 4 6 0 2 0 0 1 -11
+p844
+aVAnderson Varejao CLE 11/02/2013 CLE @ IND L 29 14 6 9 66.7 0 0 - 2 2 100.0 2 4 6 0 3 0 4 4 -7
+p845
+aVMatthew Dellavedova CLE 11/02/2013 CLE @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p846
+aVAlonzo Gee CLE 11/02/2013 CLE @ IND L 18 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 0 1 4 -14
+p847
+aVKyrie Irving CLE 11/02/2013 CLE @ IND L 34 15 6 17 35.3 1 3 33.3 2 4 50.0 0 3 3 5 0 0 1 3 -5
+p848
+aVTristan Thompson CLE 11/02/2013 CLE @ IND L 35 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -4
+p849
+aVTyler Zeller CLE 11/01/2013 CLE @ CHA L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 -3
+p850
+aVTristan Thompson CLE 11/01/2013 CLE @ CHA L 35 21 6 11 54.5 0 0 - 9 10 90.0 4 7 11 0 1 1 4 5 4
+p851
+aVCJ Miles CLE 11/01/2013 CLE @ CHA L 29 22 9 16 56.3 3 7 42.9 1 1 100.0 0 5 5 1 3 0 1 3 6
+p852
+aVAnderson Varejao CLE 11/01/2013 CLE @ CHA L 29 2 0 4 0.0 0 1 0.0 2 2 100.0 3 4 7 2 0 0 2 4 -7
+p853
+aVAnthony Bennett CLE 11/01/2013 CLE @ CHA L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 4 -3
+p854
+aVAndrew Bynum CLE 11/01/2013 CLE @ CHA L 11 5 2 7 28.6 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -1
+p855
+aVKyrie Irving CLE 11/01/2013 CLE @ CHA L 31 16 7 17 41.2 0 3 0.0 2 5 40.0 2 2 4 7 0 0 3 3 -7
+p856
+aVDion Waiters CLE 11/01/2013 CLE @ CHA L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 -7
+p857
+aVJarrett Jack CLE 11/01/2013 CLE @ CHA L 28 15 7 13 53.8 1 3 33.3 0 0 - 0 3 3 3 0 0 3 0 -5
+p858
+aVEarl Clark CLE 11/01/2013 CLE @ CHA L 17 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 0 -5
+p859
+aVAlonzo Gee CLE 11/01/2013 CLE @ CHA L 25 1 0 2 0.0 0 1 0.0 1 2 50.0 0 3 3 1 2 0 1 4 -2
+p860
+aVCJ Miles CLE 10/30/2013 CLE vs. BKN W 15 10 4 6 66.7 2 4 50.0 0 0 - 0 0 0 0 0 0 2 1 2
+p861
+aVKyrie Irving CLE 10/30/2013 CLE vs. BKN W 31 15 4 16 25.0 0 2 0.0 7 9 77.8 0 7 7 9 2 0 2 4 -1
+p862
+aVTristan Thompson CLE 10/30/2013 CLE vs. BKN W 35 18 8 13 61.5 0 0 - 2 4 50.0 3 6 9 0 0 0 1 2 -3
+p863
+aVAndrew Bynum CLE 10/30/2013 CLE vs. BKN W 8 3 1 5 20.0 0 0 - 1 1 100.0 2 1 3 2 0 2 1 1 8
+p864
+aVJarrett Jack CLE 10/30/2013 CLE vs. BKN W 23 12 3 6 50.0 1 1 100.0 5 6 83.3 0 3 3 3 1 0 1 1 1
+p865
+aVAnthony Bennett CLE 10/30/2013 CLE vs. BKN W 15 2 0 5 0.0 0 3 0.0 2 4 50.0 1 4 5 0 0 0 0 1 10
+p866
+aVAnderson Varejao CLE 10/30/2013 CLE vs. BKN W 35 11 5 9 55.6 0 0 - 1 4 25.0 3 5 8 3 0 1 0 3 -5
+p867
+aVAlonzo Gee CLE 10/30/2013 CLE vs. BKN W 19 7 1 2 50.0 1 1 100.0 4 4 100.0 3 1 4 1 1 0 0 2 5
+p868
+aVTyler Zeller CLE 10/30/2013 CLE vs. BKN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p869
+aVDion Waiters CLE 10/30/2013 CLE vs. BKN W 29 11 5 12 41.7 1 3 33.3 0 0 - 1 0 1 2 3 0 2 2 3
+p870
+aVEarl Clark CLE 10/30/2013 CLE vs. BKN W 27 9 4 10 40.0 0 1 0.0 1 2 50.0 3 5 8 1 0 0 1 2 2
+p871
+a.

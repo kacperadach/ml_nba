@@ -1,0 +1,92 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVStromile Swift MEM 04/25/2004 MEM vs. SAS L 17 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -10
+p2
+aVMike Miller MEM 04/25/2004 MEM vs. SAS L 27 8 3 9 33.3 2 6 33.3 0 0 - 0 4 4 0 0 0 1 1 -6
+p3
+aVLorenzen Wright MEM 04/25/2004 MEM vs. SAS L 21 4 2 5 40.0 0 0 - 0 2 0.0 0 2 2 1 1 0 2 5 -1
+p4
+aVPau Gasol MEM 04/25/2004 MEM vs. SAS L 33 22 10 15 66.7 0 0 - 2 2 100.0 0 2 2 2 1 2 1 4 -15
+p5
+aVJason Williams MEM 04/25/2004 MEM vs. SAS L 27 13 4 10 40.0 3 7 42.9 2 2 100.0 0 1 1 8 0 0 0 3 -9
+p6
+aVRyan Humphrey MEM 04/25/2004 MEM vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p7
+aVBonzi Wells MEM 04/25/2004 MEM vs. SAS L 21 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 0 0 3 3 -7
+p8
+aVShane Battier MEM 04/25/2004 MEM vs. SAS L 12 6 2 5 40.0 0 1 0.0 2 2 100.0 2 2 4 0 0 0 2 4 -5
+p9
+aVBo Outlaw MEM 04/25/2004 MEM vs. SAS L 22 1 0 0 - 0 0 - 1 2 50.0 0 1 1 2 2 0 1 2 -1
+p10
+aVJames Posey MEM 04/25/2004 MEM vs. SAS L 38 20 6 13 46.2 0 0 - 8 8 100.0 5 6 11 2 2 1 3 4 -9
+p11
+aVEarl Watson MEM 04/25/2004 MEM vs. SAS L 21 13 5 9 55.6 0 2 0.0 3 3 100.0 3 1 4 2 2 0 2 3 -4
+p12
+aVLorenzen Wright MEM 04/22/2004 MEM vs. SAS L 28 8 4 8 50.0 0 0 - 0 0 - 3 3 6 1 2 0 1 4 5
+p13
+aVBo Outlaw MEM 04/22/2004 MEM vs. SAS L 14 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 4 0 1 0 2 -2
+p14
+aVJason Williams MEM 04/22/2004 MEM vs. SAS L 35 16 5 15 33.3 1 4 25.0 5 5 100.0 0 2 2 3 1 0 0 3 -2
+p15
+aVStromile Swift MEM 04/22/2004 MEM vs. SAS L 18 9 4 9 44.4 0 0 - 1 2 50.0 3 3 6 0 0 2 0 2 -4
+p16
+aVEarl Watson MEM 04/22/2004 MEM vs. SAS L 13 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 3 1 0 2 3 0
+p17
+aVShane Battier MEM 04/22/2004 MEM vs. SAS L 19 6 2 3 66.7 2 3 66.7 0 2 0.0 0 0 0 0 0 0 1 4 -6
+p18
+aVBonzi Wells MEM 04/22/2004 MEM vs. SAS L 24 14 6 11 54.5 0 0 - 2 4 50.0 0 1 1 1 1 0 1 3 -6
+p19
+aVJames Posey MEM 04/22/2004 MEM vs. SAS L 31 5 2 6 33.3 0 2 0.0 1 2 50.0 1 3 4 0 3 0 0 3 1
+p20
+aVPau Gasol MEM 04/22/2004 MEM vs. SAS L 34 18 8 10 80.0 0 0 - 2 2 100.0 2 3 5 3 0 0 1 2 0
+p21
+aVMike Miller MEM 04/22/2004 MEM vs. SAS L 24 12 5 11 45.5 2 4 50.0 0 0 - 0 3 3 1 1 0 1 1 4
+p22
+aVJason Williams MEM 04/19/2004 MEM @ SAS L 35 4 2 10 20.0 0 3 0.0 0 0 - 0 4 4 4 0 0 3 4 0
+p23
+aVJames Posey MEM 04/19/2004 MEM @ SAS L 34 10 3 9 33.3 0 2 0.0 4 5 80.0 1 2 3 1 1 1 2 4 -8
+p24
+aVBonzi Wells MEM 04/19/2004 MEM @ SAS L 23 13 6 12 50.0 0 0 - 1 2 50.0 0 3 3 2 1 1 1 0 -3
+p25
+aVBo Outlaw MEM 04/19/2004 MEM @ SAS L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -14
+p26
+aVPau Gasol MEM 04/19/2004 MEM @ SAS L 37 20 7 13 53.8 0 0 - 6 8 75.0 2 9 11 3 2 2 3 3 -5
+p27
+aVMike Miller MEM 04/19/2004 MEM @ SAS L 25 9 4 9 44.4 1 2 50.0 0 1 0.0 0 0 0 1 2 0 1 1 -14
+p28
+aVLorenzen Wright MEM 04/19/2004 MEM @ SAS L 28 4 2 6 33.3 0 0 - 0 2 0.0 0 6 6 0 0 2 1 4 -6
+p29
+aVShane Battier MEM 04/19/2004 MEM @ SAS L 17 4 1 3 33.3 0 1 0.0 2 2 100.0 1 3 4 1 0 0 0 5 -10
+p30
+aVRyan Humphrey MEM 04/19/2004 MEM @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p31
+aVEarl Watson MEM 04/19/2004 MEM @ SAS L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -17
+p32
+aVStromile Swift MEM 04/19/2004 MEM @ SAS L 17 6 1 5 20.0 0 0 - 4 4 100.0 0 4 4 1 2 1 3 1 -10
+p33
+aVJake Tsakalidis MEM 04/17/2004 MEM @ SAS L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 3 0 -3
+p34
+aVBonzi Wells MEM 04/17/2004 MEM @ SAS L 26 16 6 11 54.5 0 1 0.0 4 6 66.7 1 4 5 0 2 0 4 2 -13
+p35
+aVEarl Watson MEM 04/17/2004 MEM @ SAS L 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 2 0 2 1 -2
+p36
+aVShane Battier MEM 04/17/2004 MEM @ SAS L 21 3 1 4 25.0 1 2 50.0 0 0 - 3 1 4 0 0 1 1 4 -14
+p37
+aVPau Gasol MEM 04/17/2004 MEM @ SAS L 30 14 3 11 27.3 0 0 - 8 8 100.0 0 2 2 2 1 2 0 1 -19
+p38
+aVJames Posey MEM 04/17/2004 MEM @ SAS L 27 15 4 9 44.4 1 2 50.0 6 6 100.0 1 3 4 1 3 0 1 2 -10
+p39
+aVMike Miller MEM 04/17/2004 MEM @ SAS L 22 1 0 5 0.0 0 1 0.0 1 2 50.0 0 5 5 1 2 0 2 1 -11
+p40
+aVBo Outlaw MEM 04/17/2004 MEM @ SAS L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 5 -2
+p41
+aVStromile Swift MEM 04/17/2004 MEM @ SAS L 22 3 1 6 16.7 0 0 - 1 2 50.0 2 5 7 1 0 3 0 2 -10
+p42
+aVLorenzen Wright MEM 04/17/2004 MEM @ SAS L 23 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 0 1 0 1 2 -11
+p43
+aVRyan Humphrey MEM 04/17/2004 MEM @ SAS L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p44
+aVJason Williams MEM 04/17/2004 MEM @ SAS L 33 10 4 11 36.4 2 7 28.6 0 0 - 1 1 2 3 1 0 4 0 -22
+p45
+a.

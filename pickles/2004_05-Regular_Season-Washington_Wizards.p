@@ -1,0 +1,1602 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSteve Blake WAS 04/20/2005 WAS @ NYK L 22 0 0 5 0.0 0 3 0.0 0 0 - 0 3 3 3 1 0 1 1 -4
+p2
+aVLarry Hughes WAS 04/20/2005 WAS @ NYK L 24 16 7 12 58.3 1 2 50.0 1 4 25.0 0 2 2 3 3 0 1 0 -1
+p3
+aVAnthony Peeler WAS 04/20/2005 WAS @ NYK L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -17
+p4
+aVKwame Brown WAS 04/20/2005 WAS @ NYK L 29 19 7 8 87.5 0 0 - 5 8 62.5 0 4 4 1 0 0 1 5 -12
+p5
+aVLaron Profit WAS 04/20/2005 WAS @ NYK L 23 2 1 7 14.3 0 2 0.0 0 2 0.0 0 0 0 0 0 0 0 1 -2
+p6
+aVJared Jeffries WAS 04/20/2005 WAS @ NYK L 27 12 5 11 45.5 1 4 25.0 1 3 33.3 1 1 2 3 1 0 0 1 -6
+p7
+aVGilbert Arenas WAS 04/20/2005 WAS @ NYK L 27 25 9 18 50.0 3 8 37.5 4 4 100.0 1 7 8 2 1 0 0 2 1
+p8
+aVEtan Thomas WAS 04/20/2005 WAS @ NYK L 38 13 6 11 54.5 0 0 - 1 5 20.0 4 7 11 1 1 2 2 6 -5
+p9
+aVJuan Dixon WAS 04/20/2005 WAS @ NYK L 21 13 5 8 62.5 2 3 66.7 1 2 50.0 0 4 4 0 0 0 1 2 0
+p10
+aVAntawn Jamison WAS 04/20/2005 WAS @ NYK L 17 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 1 0 0 0 1 6
+p11
+aVGilbert Arenas WAS 04/19/2005 WAS @ NJN L 31 8 2 7 28.6 2 5 40.0 2 2 100.0 1 5 6 6 1 1 5 3 -21
+p12
+aVJared Jeffries WAS 04/19/2005 WAS @ NJN L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -10
+p13
+aVEtan Thomas WAS 04/19/2005 WAS @ NJN L 28 14 5 8 62.5 0 0 - 4 6 66.7 1 10 11 0 0 0 0 2 9
+p14
+aVAntawn Jamison WAS 04/19/2005 WAS @ NJN L 26 14 5 9 55.6 1 3 33.3 3 4 75.0 0 1 1 3 1 0 2 0 -20
+p15
+aVKwame Brown WAS 04/19/2005 WAS @ NJN L 36 14 6 13 46.2 0 0 - 2 2 100.0 4 4 8 3 0 1 2 5 -6
+p16
+aVSteve Blake WAS 04/19/2005 WAS @ NJN L 12 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 4 0 0 1 1 14
+p17
+aVLarry Hughes WAS 04/19/2005 WAS @ NJN L 34 18 7 14 50.0 1 2 50.0 3 5 60.0 1 4 5 2 2 0 4 3 -19
+p18
+aVJuan Dixon WAS 04/19/2005 WAS @ NJN L 13 7 3 8 37.5 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 5
+p19
+aVAnthony Peeler WAS 04/19/2005 WAS @ NJN L 16 5 2 6 33.3 1 3 33.3 0 0 - 1 1 2 0 0 0 0 1 3
+p20
+aVLaron Profit WAS 04/19/2005 WAS @ NJN L 12 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 2 0 0 1 1 14
+p21
+aVBrendan Haywood WAS 04/19/2005 WAS @ NJN L 25 12 4 9 44.4 0 0 - 4 6 66.7 5 0 5 1 0 2 0 5 -9
+p22
+aVLarry Hughes WAS 04/17/2005 WAS vs. CHA W 46 28 11 22 50.0 3 7 42.9 3 4 75.0 0 7 7 5 4 0 3 2 7
+p23
+aVAnthony Peeler WAS 04/17/2005 WAS vs. CHA W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 3 0 0 0 8
+p24
+aVAntawn Jamison WAS 04/17/2005 WAS vs. CHA W 42 26 11 18 61.1 1 1 100.0 3 4 75.0 6 7 13 5 1 0 3 2 12
+p25
+aVGilbert Arenas WAS 04/17/2005 WAS vs. CHA W 42 27 10 21 47.6 3 10 30.0 4 6 66.7 1 7 8 4 1 0 1 2 10
+p26
+aVJuan Dixon WAS 04/17/2005 WAS vs. CHA W 18 6 1 7 14.3 0 4 0.0 4 4 100.0 0 1 1 3 4 0 1 2 -5
+p27
+aVBrendan Haywood WAS 04/17/2005 WAS vs. CHA W 24 8 3 6 50.0 0 0 - 2 2 100.0 4 2 6 1 0 1 2 1 12
+p28
+aVKwame Brown WAS 04/17/2005 WAS vs. CHA W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 1 1 0 -10
+p29
+aVSteve Blake WAS 04/17/2005 WAS vs. CHA W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -9
+p30
+aVJared Jeffries WAS 04/17/2005 WAS vs. CHA W 27 5 2 5 40.0 0 1 0.0 1 2 50.0 2 1 3 2 1 1 4 4 -8
+p31
+aVEtan Thomas WAS 04/17/2005 WAS vs. CHA W 17 6 3 6 50.0 0 0 - 0 2 0.0 2 1 3 1 0 2 2 3 -7
+p32
+aVKwame Brown WAS 04/15/2005 WAS vs. CLE W 14 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 5 -2
+p33
+aVJared Jeffries WAS 04/15/2005 WAS vs. CLE W 13 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 6
+p34
+aVLarry Hughes WAS 04/15/2005 WAS vs. CLE W 42 31 11 21 52.4 1 3 33.3 8 10 80.0 0 6 6 1 5 0 3 1 11
+p35
+aVJuan Dixon WAS 04/15/2005 WAS vs. CLE W 20 11 4 6 66.7 2 3 66.7 1 1 100.0 0 0 0 3 0 0 0 2 3
+p36
+aVMichael Ruffin WAS 04/15/2005 WAS vs. CLE W 12 0 0 1 0.0 0 0 - 0 0 - 3 3 6 0 0 0 0 2 -2
+p37
+aVEtan Thomas WAS 04/15/2005 WAS vs. CLE W 14 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 0 1 1 2 3
+p38
+aVAntawn Jamison WAS 04/15/2005 WAS vs. CLE W 42 21 9 18 50.0 0 4 0.0 3 4 75.0 0 3 3 3 1 0 2 4 12
+p39
+aVDamone Brown WAS 04/15/2005 WAS vs. CLE W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p40
+aVGilbert Arenas WAS 04/15/2005 WAS vs. CLE W 46 33 12 16 75.0 2 3 66.7 7 8 87.5 0 4 4 9 0 1 3 1 8
+p41
+aVBrendan Haywood WAS 04/15/2005 WAS vs. CLE W 34 10 4 7 57.1 0 0 - 2 4 50.0 1 8 9 0 0 3 2 3 5
+p42
+aVLarry Hughes WAS 04/13/2005 WAS vs. CHI W 39 23 7 14 50.0 1 4 25.0 8 10 80.0 0 6 6 5 1 1 3 4 24
+p43
+aVEtan Thomas WAS 04/13/2005 WAS vs. CHI W 15 8 4 7 57.1 0 0 - 0 0 - 2 5 7 0 0 2 1 3 -2
+p44
+aVAntawn Jamison WAS 04/13/2005 WAS vs. CHI W 41 19 8 19 42.1 1 2 50.0 2 2 100.0 3 11 14 2 2 1 2 2 26
+p45
+aVGilbert Arenas WAS 04/13/2005 WAS vs. CHI W 46 21 8 20 40.0 3 7 42.9 2 4 50.0 0 7 7 3 1 1 4 3 16
+p46
+aVSteve Blake WAS 04/13/2005 WAS vs. CHI W 11 3 1 5 20.0 1 2 50.0 0 0 - 2 0 2 2 0 0 0 1 -16
+p47
+aVLaron Profit WAS 04/13/2005 WAS vs. CHI W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -8
+p48
+aVKwame Brown WAS 04/13/2005 WAS vs. CHI W 6 0 0 3 0.0 0 0 - 0 2 0.0 1 2 3 0 0 0 3 1 -7
+p49
+aVBrendan Haywood WAS 04/13/2005 WAS vs. CHI W 29 7 3 4 75.0 0 0 - 1 4 25.0 2 9 11 0 1 4 0 2 24
+p50
+aVJuan Dixon WAS 04/13/2005 WAS vs. CHI W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -12
+p51
+aVJared Jeffries WAS 04/13/2005 WAS vs. CHI W 40 9 4 11 36.4 0 0 - 1 2 50.0 4 8 12 4 1 0 3 3 22
+p52
+aVDamone Brown WAS 04/13/2005 WAS vs. CHI W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p53
+aVMichael Ruffin WAS 04/13/2005 WAS vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -4
+p54
+aVLarry Hughes WAS 04/11/2005 WAS vs. MIL W 35 23 9 15 60.0 0 2 0.0 5 5 100.0 3 5 8 7 2 0 2 5 9
+p55
+aVGilbert Arenas WAS 04/11/2005 WAS vs. MIL W 43 8 2 9 22.2 1 4 25.0 3 3 100.0 0 2 2 13 0 1 4 2 5
+p56
+aVAntawn Jamison WAS 04/11/2005 WAS vs. MIL W 40 32 13 19 68.4 2 3 66.7 4 4 100.0 3 5 8 1 0 0 1 3 6
+p57
+aVMichael Ruffin WAS 04/11/2005 WAS vs. MIL W 20 0 0 0 - 0 0 - 0 0 - 5 2 7 2 0 0 0 1 13
+p58
+aVKwame Brown WAS 04/11/2005 WAS vs. MIL W 25 17 8 12 66.7 0 0 - 1 2 50.0 0 4 4 1 0 0 2 4 8
+p59
+aVSteve Blake WAS 04/11/2005 WAS vs. MIL W 15 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 3 0 0 1 1 -7
+p60
+aVJuan Dixon WAS 04/11/2005 WAS vs. MIL W 15 12 3 9 33.3 2 6 33.3 4 4 100.0 0 0 0 0 1 0 0 1 6
+p61
+aVEtan Thomas WAS 04/11/2005 WAS vs. MIL W 23 17 7 12 58.3 0 0 - 3 7 42.9 3 2 5 2 1 0 2 2 -3
+p62
+aVJared Jeffries WAS 04/11/2005 WAS vs. MIL W 24 5 1 5 20.0 0 0 - 3 4 75.0 4 2 6 0 1 0 1 2 -2
+p63
+aVEtan Thomas WAS 04/09/2005 WAS vs. PHI L 22 4 2 4 50.0 0 0 - 0 0 - 2 6 8 1 0 0 3 4 -4
+p64
+aVGilbert Arenas WAS 04/09/2005 WAS vs. PHI L 47 44 13 24 54.2 6 14 42.9 12 15 80.0 0 4 4 3 0 1 1 2 -4
+p65
+aVLarry Hughes WAS 04/09/2005 WAS vs. PHI L 44 23 9 19 47.4 0 3 0.0 5 7 71.4 2 6 8 6 2 2 5 5 -2
+p66
+aVKwame Brown WAS 04/09/2005 WAS vs. PHI L 10 2 0 1 0.0 0 0 - 2 4 50.0 0 2 2 0 0 0 1 0 -1
+p67
+aVJared Jeffries WAS 04/09/2005 WAS vs. PHI L 33 10 3 7 42.9 0 0 - 4 4 100.0 0 8 8 4 0 2 0 1 13
+p68
+aVMichael Ruffin WAS 04/09/2005 WAS vs. PHI L 27 6 3 4 75.0 0 0 - 0 0 - 7 2 9 2 0 0 1 4 -16
+p69
+aVAntawn Jamison WAS 04/09/2005 WAS vs. PHI L 40 14 6 18 33.3 2 6 33.3 0 0 - 2 2 4 7 1 0 1 0 -17
+p70
+aVJuan Dixon WAS 04/09/2005 WAS vs. PHI L 17 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 0 0 0 1 2 1
+p71
+aVLaron Profit WAS 04/08/2005 WAS @ IND L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 7
+p72
+aVKwame Brown WAS 04/08/2005 WAS @ IND L 31 16 6 10 60.0 0 0 - 4 6 66.7 1 4 5 0 2 1 2 4 -10
+p73
+aVJuan Dixon WAS 04/08/2005 WAS @ IND L 27 9 3 8 37.5 1 2 50.0 2 2 100.0 0 1 1 2 2 0 1 1 -3
+p74
+aVEtan Thomas WAS 04/08/2005 WAS @ IND L 19 1 0 1 0.0 0 0 - 1 4 25.0 1 4 5 1 1 1 0 3 -4
+p75
+aVDamone Brown WAS 04/08/2005 WAS @ IND L 7 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -3
+p76
+aVJared Jeffries WAS 04/08/2005 WAS @ IND L 23 12 6 9 66.7 0 0 - 0 0 - 3 1 4 0 0 0 1 1 -4
+p77
+aVGilbert Arenas WAS 04/08/2005 WAS @ IND L 41 14 5 17 29.4 2 4 50.0 2 2 100.0 0 3 3 2 0 1 5 4 -7
+p78
+aVLarry Hughes WAS 04/08/2005 WAS @ IND L 39 24 8 22 36.4 0 4 0.0 8 9 88.9 2 7 9 1 0 1 0 3 -15
+p79
+aVPeter Ramos WAS 04/08/2005 WAS @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p80
+aVSteve Blake WAS 04/08/2005 WAS @ IND L 18 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 4 0 0 3 0 -6
+p81
+aVMichael Ruffin WAS 04/08/2005 WAS @ IND L 21 2 1 3 33.3 0 0 - 0 0 - 7 2 9 1 0 0 0 4 -5
+p82
+aVKwame Brown WAS 04/06/2005 WAS @ DET L 25 4 1 5 20.0 0 0 - 2 4 50.0 2 1 3 0 0 0 3 0 -16
+p83
+aVSteve Blake WAS 04/06/2005 WAS @ DET L 22 7 2 9 22.2 1 3 33.3 2 2 100.0 0 1 1 2 1 0 1 2 8
+p84
+aVGilbert Arenas WAS 04/06/2005 WAS @ DET L 40 19 8 18 44.4 2 6 33.3 1 2 50.0 2 2 4 5 2 0 2 3 -17
+p85
+aVMichael Ruffin WAS 04/06/2005 WAS @ DET L 23 0 0 1 0.0 0 0 - 0 0 - 0 5 5 2 1 0 0 2 -1
+p86
+aVJuan Dixon WAS 04/06/2005 WAS @ DET L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -9
+p87
+aVPeter Ramos WAS 04/06/2005 WAS @ DET L 3 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 5
+p88
+aVJared Jeffries WAS 04/06/2005 WAS @ DET L 20 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -13
+p89
+aVLaron Profit WAS 04/06/2005 WAS @ DET L 15 8 4 7 57.1 0 1 0.0 0 0 - 1 2 3 3 1 0 0 2 6
+p90
+aVEtan Thomas WAS 04/06/2005 WAS @ DET L 29 8 4 6 66.7 0 0 - 0 0 - 1 6 7 0 2 3 0 3 -19
+p91
+aVLarry Hughes WAS 04/06/2005 WAS @ DET L 37 28 9 17 52.9 0 0 - 10 11 90.9 1 3 4 4 5 1 2 4 -18
+p92
+aVDamone Brown WAS 04/06/2005 WAS @ DET L 17 6 2 9 22.2 0 1 0.0 2 2 100.0 1 3 4 2 0 0 1 0 14
+p93
+aVJared Jeffries WAS 04/05/2005 WAS vs. BOS L 20 6 3 4 75.0 0 0 - 0 0 - 2 4 6 2 0 0 0 2 -9
+p94
+aVLarry Hughes WAS 04/05/2005 WAS vs. BOS L 39 9 3 16 18.8 0 6 0.0 3 6 50.0 2 2 4 5 4 0 3 3 -14
+p95
+aVDamone Brown WAS 04/05/2005 WAS vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p96
+aVGilbert Arenas WAS 04/05/2005 WAS vs. BOS L 48 43 9 21 42.9 4 10 40.0 21 25 84.0 2 7 9 4 1 1 3 1 -8
+p97
+aVJuan Dixon WAS 04/05/2005 WAS vs. BOS L 16 0 0 7 0.0 0 3 0.0 0 0 - 2 0 2 2 0 0 1 5 7
+p98
+aVMichael Ruffin WAS 04/05/2005 WAS vs. BOS L 19 6 3 4 75.0 0 0 - 0 0 - 1 5 6 1 2 1 0 1 7
+p99
+aVKwame Brown WAS 04/05/2005 WAS vs. BOS L 24 2 1 6 16.7 0 0 - 0 2 0.0 3 0 3 3 0 2 2 3 0
+p100
+aVAntawn Jamison WAS 04/05/2005 WAS vs. BOS L 37 30 9 18 50.0 4 5 80.0 8 8 100.0 3 5 8 2 2 0 1 1 -2
+p101
+aVEtan Thomas WAS 04/05/2005 WAS vs. BOS L 29 12 3 5 60.0 0 0 - 6 7 85.7 0 4 4 0 0 3 1 5 -16
+p102
+aVLaron Profit WAS 04/05/2005 WAS vs. BOS L 7 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 1 1 -3
+p103
+aVGilbert Arenas WAS 04/03/2005 WAS vs. IND L 41 22 8 18 44.4 1 6 16.7 5 5 100.0 1 6 7 4 1 0 2 5 3
+p104
+aVSteve Blake WAS 04/03/2005 WAS vs. IND L 12 1 0 4 0.0 0 1 0.0 1 3 33.3 1 1 2 1 1 0 0 1 5
+p105
+aVMichael Ruffin WAS 04/03/2005 WAS vs. IND L 17 2 1 1 100.0 0 0 - 0 2 0.0 0 4 4 1 2 1 0 1 3
+p106
+aVEtan Thomas WAS 04/03/2005 WAS vs. IND L 30 6 2 7 28.6 0 0 - 2 2 100.0 2 4 6 0 1 2 2 2 -9
+p107
+aVLaron Profit WAS 04/03/2005 WAS vs. IND L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p108
+aVLarry Hughes WAS 04/03/2005 WAS vs. IND L 34 12 3 16 18.8 0 1 0.0 6 8 75.0 3 5 8 1 2 0 0 2 -6
+p109
+aVJared Jeffries WAS 04/03/2005 WAS vs. IND L 35 7 2 5 40.0 1 1 100.0 2 4 50.0 2 1 3 3 1 0 3 3 3
+p110
+aVDamone Brown WAS 04/03/2005 WAS vs. IND L 11 4 1 4 25.0 1 2 50.0 1 2 50.0 0 3 3 0 0 0 2 1 2
+p111
+aVJuan Dixon WAS 04/03/2005 WAS vs. IND L 25 8 3 8 37.5 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 1 -13
+p112
+aVKwame Brown WAS 04/03/2005 WAS vs. IND L 31 12 5 8 62.5 0 0 - 2 3 66.7 3 5 8 2 1 2 2 2 2
+p113
+aVEtan Thomas WAS 04/01/2005 WAS @ ORL W 29 10 4 9 44.4 0 0 - 2 3 66.7 3 7 10 1 1 0 1 6 10
+p114
+aVKwame Brown WAS 04/01/2005 WAS @ ORL W 25 8 4 9 44.4 0 0 - 0 0 - 4 3 7 2 1 0 4 4 1
+p115
+aVMichael Ruffin WAS 04/01/2005 WAS @ ORL W 21 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 2 0 1 2 0 -1
+p116
+aVJuan Dixon WAS 04/01/2005 WAS @ ORL W 21 8 3 6 50.0 1 3 33.3 1 2 50.0 1 2 3 0 2 0 1 1 3
+p117
+aVJared Jeffries WAS 04/01/2005 WAS @ ORL W 35 6 3 5 60.0 0 0 - 0 4 0.0 1 2 3 1 2 0 1 6 10
+p118
+aVSteve Blake WAS 04/01/2005 WAS @ ORL W 11 6 2 6 33.3 2 6 33.3 0 0 - 1 0 1 1 1 0 2 1 4
+p119
+aVLarry Hughes WAS 04/01/2005 WAS @ ORL W 40 30 9 18 50.0 2 3 66.7 10 12 83.3 0 9 9 5 2 0 2 1 4
+p120
+aVGilbert Arenas WAS 04/01/2005 WAS @ ORL W 38 31 8 16 50.0 3 7 42.9 12 13 92.3 1 3 4 4 0 0 6 4 4
+p121
+aVDamone Brown WAS 04/01/2005 WAS @ ORL W 19 11 5 12 41.7 1 3 33.3 0 0 - 4 1 5 1 0 2 0 3 15
+p122
+aVLaron Profit WAS 04/01/2005 WAS @ ORL W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p123
+aVEtan Thomas WAS 03/30/2005 WAS vs. ATL W 35 16 7 10 70.0 0 0 - 2 3 66.7 3 5 8 1 2 0 2 2 7
+p124
+aVSteve Blake WAS 03/30/2005 WAS vs. ATL W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p125
+aVGilbert Arenas WAS 03/30/2005 WAS vs. ATL W 39 36 11 17 64.7 3 7 42.9 11 13 84.6 0 4 4 2 3 0 6 3 9
+p126
+aVJared Jeffries WAS 03/30/2005 WAS vs. ATL W 35 1 0 6 0.0 0 2 0.0 1 3 33.3 0 3 3 10 1 1 0 3 1
+p127
+aVLarry Hughes WAS 03/30/2005 WAS vs. ATL W 45 26 9 17 52.9 1 3 33.3 7 8 87.5 1 6 7 2 4 0 3 3 -2
+p128
+aVDamone Brown WAS 03/30/2005 WAS vs. ATL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 3
+p129
+aVMichael Ruffin WAS 03/30/2005 WAS vs. ATL W 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p130
+aVLaron Profit WAS 03/30/2005 WAS vs. ATL W 16 7 3 7 42.9 1 1 100.0 0 0 - 1 1 2 1 1 0 1 1 5
+p131
+aVKwame Brown WAS 03/30/2005 WAS vs. ATL W 32 7 2 5 40.0 0 0 - 3 4 75.0 0 2 2 0 1 2 3 5 -2
+p132
+aVJuan Dixon WAS 03/30/2005 WAS vs. ATL W 15 9 2 6 33.3 0 1 0.0 5 5 100.0 0 1 1 1 0 0 1 1 -2
+p133
+aVJared Jeffries WAS 03/28/2005 WAS @ POR W 22 7 3 10 30.0 0 1 0.0 1 2 50.0 1 1 2 6 1 1 0 2 4
+p134
+aVSteve Blake WAS 03/28/2005 WAS @ POR W 10 4 1 5 20.0 0 1 0.0 2 3 66.7 0 0 0 0 0 0 0 1 4
+p135
+aVDamone Brown WAS 03/28/2005 WAS @ POR W 14 4 2 4 50.0 0 0 - 0 2 0.0 0 1 1 1 0 2 1 1 7
+p136
+aVJuan Dixon WAS 03/28/2005 WAS @ POR W 21 13 4 7 57.1 1 1 100.0 4 6 66.7 0 1 1 3 2 0 2 2 3
+p137
+aVKwame Brown WAS 03/28/2005 WAS @ POR W 25 12 3 6 50.0 0 0 - 6 8 75.0 2 6 8 1 3 0 0 4 3
+p138
+aVGilbert Arenas WAS 03/28/2005 WAS @ POR W 37 28 11 17 64.7 1 4 25.0 5 5 100.0 4 2 6 2 2 0 3 4 1
+p139
+aVEtan Thomas WAS 03/28/2005 WAS @ POR W 31 10 4 11 36.4 0 0 - 2 4 50.0 7 7 14 2 0 1 2 4 11
+p140
+aVLarry Hughes WAS 03/28/2005 WAS @ POR W 43 25 9 19 47.4 0 4 0.0 7 7 100.0 0 5 5 5 3 0 2 1 3
+p141
+aVMichael Ruffin WAS 03/28/2005 WAS @ POR W 18 0 0 1 0.0 0 0 - 0 0 - 3 0 3 0 2 1 2 1 0
+p142
+aVLaron Profit WAS 03/28/2005 WAS @ POR W 19 11 4 6 66.7 0 0 - 3 4 75.0 1 4 5 2 2 0 0 1 4
+p143
+aVMichael Ruffin WAS 03/27/2005 WAS @ SEA W 16 4 2 2 100.0 0 0 - 0 0 - 2 0 2 1 1 0 1 1 -3
+p144
+aVSteve Blake WAS 03/27/2005 WAS @ SEA W 11 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 2 2 0 0 1 -2
+p145
+aVLaron Profit WAS 03/27/2005 WAS @ SEA W 17 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 1 0 5 -4
+p146
+aVDamone Brown WAS 03/27/2005 WAS @ SEA W 13 6 2 5 40.0 1 1 100.0 1 2 50.0 1 3 4 1 0 0 1 1 8
+p147
+aVGilbert Arenas WAS 03/27/2005 WAS @ SEA W 47 18 7 19 36.8 4 9 44.4 0 0 - 2 5 7 9 0 0 4 5 0
+p148
+aVEtan Thomas WAS 03/27/2005 WAS @ SEA W 28 15 5 7 71.4 0 0 - 5 6 83.3 1 4 5 2 1 2 4 3 10
+p149
+aVJared Jeffries WAS 03/27/2005 WAS @ SEA W 33 4 1 2 50.0 0 0 - 2 2 100.0 0 5 5 2 0 0 0 4 -1
+p150
+aVKwame Brown WAS 03/27/2005 WAS @ SEA W 30 8 3 10 30.0 0 0 - 2 6 33.3 3 1 4 1 1 0 1 5 -8
+p151
+aVLarry Hughes WAS 03/27/2005 WAS @ SEA W 45 31 12 28 42.9 2 6 33.3 5 5 100.0 2 9 11 5 4 0 3 3 5
+p152
+aVSteve Blake WAS 03/25/2005 WAS @ LAC L 13 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 3 0 0 1 1 -2
+p153
+aVLaron Profit WAS 03/25/2005 WAS @ LAC L 10 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 2 0 0 0 4 13
+p154
+aVMichael Ruffin WAS 03/25/2005 WAS @ LAC L 7 2 1 1 100.0 0 0 - 0 0 - 3 2 5 0 0 0 0 0 -8
+p155
+aVBrendan Haywood WAS 03/25/2005 WAS @ LAC L 26 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -1
+p156
+aVDamone Brown WAS 03/25/2005 WAS @ LAC L 17 11 5 8 62.5 1 2 50.0 0 1 0.0 0 2 2 1 0 0 2 2 -11
+p157
+aVLarry Hughes WAS 03/25/2005 WAS @ LAC L 48 21 9 22 40.9 0 4 0.0 3 3 100.0 0 4 4 9 6 0 3 5 -4
+p158
+aVEtan Thomas WAS 03/25/2005 WAS @ LAC L 11 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 3 3 0
+p159
+aVGilbert Arenas WAS 03/25/2005 WAS @ LAC L 48 33 11 28 39.3 4 15 26.7 7 10 70.0 3 4 7 4 2 1 3 3 -4
+p160
+aVJared Jeffries WAS 03/25/2005 WAS @ LAC L 35 10 4 9 44.4 0 2 0.0 2 3 66.7 1 6 7 1 2 1 3 2 -2
+p161
+aVKwame Brown WAS 03/25/2005 WAS @ LAC L 25 6 2 6 33.3 0 0 - 2 2 100.0 0 4 4 0 1 0 2 5 -1
+p162
+aVKwame Brown WAS 03/24/2005 WAS @ UTA W 31 11 2 5 40.0 0 0 - 7 9 77.8 5 3 8 0 2 2 2 3 0
+p163
+aVDamone Brown WAS 03/24/2005 WAS @ UTA W 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 1 3 2 -8
+p164
+aVLaron Profit WAS 03/24/2005 WAS @ UTA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p165
+aVEtan Thomas WAS 03/24/2005 WAS @ UTA W 23 6 2 6 33.3 0 0 - 2 4 50.0 1 4 5 0 0 0 2 2 2
+p166
+aVSteve Blake WAS 03/24/2005 WAS @ UTA W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 6
+p167
+aVMichael Ruffin WAS 03/24/2005 WAS @ UTA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p168
+aVBrendan Haywood WAS 03/24/2005 WAS @ UTA W 21 4 1 2 50.0 0 0 - 2 6 33.3 0 3 3 0 2 1 3 3 3
+p169
+aVJared Jeffries WAS 03/24/2005 WAS @ UTA W 41 5 1 4 25.0 0 0 - 3 3 100.0 0 8 8 2 2 1 1 2 6
+p170
+aVLarry Hughes WAS 03/24/2005 WAS @ UTA W 43 25 8 21 38.1 3 7 42.9 6 8 75.0 0 9 9 2 4 0 3 3 -8
+p171
+aVGilbert Arenas WAS 03/24/2005 WAS @ UTA W 48 29 10 23 43.5 3 6 50.0 6 7 85.7 2 1 3 6 0 0 2 4 1
+p172
+aVDamone Brown WAS 03/22/2005 WAS @ DEN L 26 6 3 9 33.3 0 1 0.0 0 0 - 1 2 3 6 1 0 2 3 -12
+p173
+aVLaron Profit WAS 03/22/2005 WAS @ DEN L 10 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 1 0 3 2 -8
+p174
+aVLarry Hughes WAS 03/22/2005 WAS @ DEN L 35 12 2 11 18.2 0 2 0.0 8 11 72.7 2 2 4 2 2 1 4 2 -20
+p175
+aVKwame Brown WAS 03/22/2005 WAS @ DEN L 21 7 3 5 60.0 0 0 - 1 4 25.0 4 4 8 0 1 0 2 3 -14
+p176
+aVEtan Thomas WAS 03/22/2005 WAS @ DEN L 20 12 4 7 57.1 0 0 - 4 5 80.0 1 2 3 0 0 1 0 4 -18
+p177
+aVBrendan Haywood WAS 03/22/2005 WAS @ DEN L 21 5 1 3 33.3 0 0 - 3 6 50.0 2 4 6 0 1 2 4 0 -8
+p178
+aVJared Jeffries WAS 03/22/2005 WAS @ DEN L 24 15 5 6 83.3 2 2 100.0 3 5 60.0 0 1 1 0 1 1 3 4 -17
+p179
+aVMichael Ruffin WAS 03/22/2005 WAS @ DEN L 19 2 1 1 100.0 0 0 - 0 0 - 2 3 5 2 0 1 0 4 -10
+p180
+aVGilbert Arenas WAS 03/22/2005 WAS @ DEN L 39 25 7 19 36.8 3 6 50.0 8 11 72.7 1 4 5 3 0 0 2 4 -22
+p181
+aVSteve Blake WAS 03/22/2005 WAS @ DEN L 25 8 2 12 16.7 1 8 12.5 3 4 75.0 1 2 3 1 1 0 0 1 -16
+p182
+aVBrendan Haywood WAS 03/19/2005 WAS vs. UTA W 30 12 4 5 80.0 0 0 - 4 5 80.0 1 3 4 0 0 1 3 4 12
+p183
+aVLaron Profit WAS 03/19/2005 WAS vs. UTA W 23 8 3 6 50.0 0 1 0.0 2 3 66.7 2 0 2 1 1 0 0 1 2
+p184
+aVMichael Ruffin WAS 03/19/2005 WAS vs. UTA W 5 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 3 -5
+p185
+aVLarry Hughes WAS 03/19/2005 WAS vs. UTA W 43 21 7 18 38.9 2 6 33.3 5 8 62.5 1 1 2 4 0 0 2 5 8
+p186
+aVJared Jeffries WAS 03/19/2005 WAS vs. UTA W 45 8 3 10 30.0 0 0 - 2 2 100.0 2 8 10 4 1 1 3 3 7
+p187
+aVEtan Thomas WAS 03/19/2005 WAS vs. UTA W 22 8 3 5 60.0 0 0 - 2 2 100.0 3 3 6 0 1 1 3 4 -8
+p188
+aVSteve Blake WAS 03/19/2005 WAS vs. UTA W 28 15 5 10 50.0 5 6 83.3 0 0 - 1 4 5 1 0 0 1 1 -3
+p189
+aVGilbert Arenas WAS 03/19/2005 WAS vs. UTA W 41 22 5 16 31.3 2 5 40.0 10 12 83.3 3 5 8 5 2 0 7 4 -2
+p190
+aVDamone Brown WAS 03/19/2005 WAS vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p191
+aVBrendan Haywood WAS 03/18/2005 WAS @ MIL L 37 9 4 9 44.4 0 0 - 1 2 50.0 4 4 8 0 1 0 1 3 1
+p192
+aVLaron Profit WAS 03/18/2005 WAS @ MIL L 23 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 2 1 1 1 2 0
+p193
+aVLarry Hughes WAS 03/18/2005 WAS @ MIL L 44 24 7 18 38.9 2 7 28.6 8 12 66.7 4 4 8 5 1 0 6 2 1
+p194
+aVJared Jeffries WAS 03/18/2005 WAS @ MIL L 31 7 2 4 50.0 0 1 0.0 3 5 60.0 1 3 4 0 2 1 1 2 -11
+p195
+aVEtan Thomas WAS 03/18/2005 WAS @ MIL L 25 10 4 9 44.4 0 0 - 2 2 100.0 4 6 10 0 1 0 1 4 -5
+p196
+aVSteve Blake WAS 03/18/2005 WAS @ MIL L 28 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 -20
+p197
+aVMichael Ruffin WAS 03/18/2005 WAS @ MIL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -6
+p198
+aVGilbert Arenas WAS 03/18/2005 WAS @ MIL L 46 27 12 35 34.3 3 12 25.0 0 0 - 3 7 10 7 3 1 0 3 -5
+p199
+aVBrendan Haywood WAS 03/16/2005 WAS @ ATL W 30 9 3 6 50.0 0 0 - 3 4 75.0 1 4 5 1 0 3 1 1 14
+p200
+aVJuan Dixon WAS 03/16/2005 WAS @ ATL W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p201
+aVSteve Blake WAS 03/16/2005 WAS @ ATL W 27 17 6 8 75.0 3 3 100.0 2 2 100.0 1 1 2 3 0 0 2 1 15
+p202
+aVKwame Brown WAS 03/16/2005 WAS @ ATL W 33 13 5 6 83.3 0 0 - 3 4 75.0 0 5 5 0 0 0 3 4 27
+p203
+aVLaron Profit WAS 03/16/2005 WAS @ ATL W 5 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 1
+p204
+aVJared Jeffries WAS 03/16/2005 WAS @ ATL W 24 14 6 7 85.7 0 0 - 2 4 50.0 3 5 8 1 0 0 0 2 16
+p205
+aVMichael Ruffin WAS 03/16/2005 WAS @ ATL W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p206
+aVGilbert Arenas WAS 03/16/2005 WAS @ ATL W 40 29 9 15 60.0 4 6 66.7 7 10 70.0 1 3 4 4 4 0 2 3 27
+p207
+aVLarry Hughes WAS 03/16/2005 WAS @ ATL W 41 23 7 18 38.9 1 3 33.3 8 9 88.9 0 3 3 7 6 0 3 1 31
+p208
+aVEtan Thomas WAS 03/16/2005 WAS @ ATL W 18 15 6 8 75.0 0 0 - 3 6 50.0 0 4 4 1 0 2 1 4 15
+p209
+aVSteve Blake WAS 03/14/2005 WAS vs. LAL W 18 9 2 5 40.0 2 4 50.0 3 4 75.0 0 0 0 0 0 0 2 1 -1
+p210
+aVLaron Profit WAS 03/14/2005 WAS vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p211
+aVMichael Ruffin WAS 03/14/2005 WAS vs. LAL W 9 0 0 0 - 0 0 - 0 0 - 3 0 3 2 2 0 1 1 -2
+p212
+aVBrendan Haywood WAS 03/14/2005 WAS vs. LAL W 33 16 7 7 100.0 0 0 - 2 3 66.7 2 2 4 2 1 2 0 2 16
+p213
+aVKwame Brown WAS 03/14/2005 WAS vs. LAL W 35 9 2 5 40.0 0 0 - 5 9 55.6 2 9 11 1 3 0 3 3 15
+p214
+aVAntawn Jamison WAS 03/14/2005 WAS vs. LAL W 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p215
+aVJared Jeffries WAS 03/14/2005 WAS vs. LAL W 37 9 3 5 60.0 0 0 - 3 4 75.0 3 6 9 2 0 0 1 4 10
+p216
+aVLarry Hughes WAS 03/14/2005 WAS vs. LAL W 44 21 7 23 30.4 1 7 14.3 6 8 75.0 1 11 12 7 4 1 4 4 17
+p217
+aVEtan Thomas WAS 03/14/2005 WAS vs. LAL W 14 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 0 2 2 2 1
+p218
+aVGilbert Arenas WAS 03/14/2005 WAS vs. LAL W 40 21 6 17 35.3 2 6 33.3 7 8 87.5 1 1 2 5 1 0 2 2 17
+p219
+aVMichael Ruffin WAS 03/13/2005 WAS @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p220
+aVJared Jeffries WAS 03/13/2005 WAS @ BOS L 40 13 3 7 42.9 0 0 - 7 9 77.8 6 10 16 2 1 1 1 3 8
+p221
+aVBrendan Haywood WAS 03/13/2005 WAS @ BOS L 31 7 3 7 42.9 0 0 - 1 4 25.0 4 8 12 1 1 1 0 3 4
+p222
+aVAntawn Jamison WAS 03/13/2005 WAS @ BOS L 36 14 6 13 46.2 0 3 0.0 2 2 100.0 0 2 2 3 1 0 2 3 11
+p223
+aVEtan Thomas WAS 03/13/2005 WAS @ BOS L 17 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -5
+p224
+aVKwame Brown WAS 03/13/2005 WAS @ BOS L 15 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 1 0 2 1 -11
+p225
+aVGilbert Arenas WAS 03/13/2005 WAS @ BOS L 47 25 7 22 31.8 1 7 14.3 10 13 76.9 0 2 2 6 1 0 2 2 -9
+p226
+aVLaron Profit WAS 03/13/2005 WAS @ BOS L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p227
+aVSteve Blake WAS 03/13/2005 WAS @ BOS L 12 9 2 5 40.0 2 3 66.7 3 5 60.0 1 0 1 0 0 0 1 3 -15
+p228
+aVLarry Hughes WAS 03/13/2005 WAS @ BOS L 40 26 11 20 55.0 1 4 25.0 3 6 50.0 4 5 9 1 2 0 5 2 7
+p229
+aVLarry Hughes WAS 03/08/2005 WAS @ NYK L 43 27 8 21 38.1 1 4 25.0 10 12 83.3 0 5 5 1 3 0 2 3 -12
+p230
+aVLaron Profit WAS 03/08/2005 WAS @ NYK L 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 1 1 2 -10
+p231
+aVJared Jeffries WAS 03/08/2005 WAS @ NYK L 35 7 3 7 42.9 0 1 0.0 1 2 50.0 2 5 7 2 2 0 0 1 4
+p232
+aVMichael Ruffin WAS 03/08/2005 WAS @ NYK L 13 1 0 2 0.0 0 0 - 1 2 50.0 4 2 6 0 0 0 0 5 -19
+p233
+aVBrendan Haywood WAS 03/08/2005 WAS @ NYK L 33 13 4 8 50.0 0 0 - 5 6 83.3 4 7 11 1 2 3 3 5 11
+p234
+aVJuan Dixon WAS 03/08/2005 WAS @ NYK L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 3 0 -4
+p235
+aVGilbert Arenas WAS 03/08/2005 WAS @ NYK L 43 23 8 24 33.3 2 8 25.0 5 7 71.4 2 6 8 2 1 0 3 1 -14
+p236
+aVKwame Brown WAS 03/08/2005 WAS @ NYK L 30 2 0 8 0.0 0 0 - 2 4 50.0 3 4 7 2 0 1 1 2 -5
+p237
+aVSteve Blake WAS 03/08/2005 WAS @ NYK L 21 8 2 6 33.3 0 2 0.0 4 4 100.0 0 2 2 2 0 0 0 1 -1
+p238
+aVLarry Hughes WAS 03/05/2005 WAS @ CHA W 39 19 3 15 20.0 0 2 0.0 13 16 81.3 2 6 8 4 4 0 4 3 2
+p239
+aVBrendan Haywood WAS 03/05/2005 WAS @ CHA W 36 22 8 12 66.7 0 0 - 6 9 66.7 6 2 8 1 0 4 1 1 9
+p240
+aVKwame Brown WAS 03/05/2005 WAS @ CHA W 40 16 8 16 50.0 0 0 - 0 0 - 1 11 12 0 0 0 2 4 6
+p241
+aVJuan Dixon WAS 03/05/2005 WAS @ CHA W 10 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -5
+p242
+aVMichael Ruffin WAS 03/05/2005 WAS @ CHA W 17 0 0 0 - 0 0 - 0 0 - 2 0 2 0 1 1 0 2 -11
+p243
+aVAntawn Jamison WAS 03/05/2005 WAS @ CHA W 22 2 1 5 20.0 0 0 - 0 1 0.0 2 5 7 1 0 0 1 1 -4
+p244
+aVLaron Profit WAS 03/05/2005 WAS @ CHA W 23 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 1 1 1 3 9
+p245
+aVGilbert Arenas WAS 03/05/2005 WAS @ CHA W 47 21 5 18 27.8 1 7 14.3 10 10 100.0 1 3 4 1 0 0 2 3 2
+p246
+aVSteve Blake WAS 03/05/2005 WAS @ CHA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p247
+aVAntawn Jamison WAS 03/04/2005 WAS vs. GSW L 37 9 3 12 25.0 1 2 50.0 2 2 100.0 2 7 9 0 0 0 2 3 -18
+p248
+aVGilbert Arenas WAS 03/04/2005 WAS vs. GSW L 41 23 7 18 38.9 3 8 37.5 6 8 75.0 1 2 3 8 4 0 8 2 -12
+p249
+aVAnthony Peeler WAS 03/04/2005 WAS vs. GSW L 15 3 1 2 50.0 1 2 50.0 0 0 - 1 2 3 3 0 0 0 1 3
+p250
+aVLaron Profit WAS 03/04/2005 WAS vs. GSW L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p251
+aVSteve Blake WAS 03/04/2005 WAS vs. GSW L 14 6 2 4 50.0 2 2 100.0 0 0 - 1 2 3 2 0 0 2 1 -8
+p252
+aVKwame Brown WAS 03/04/2005 WAS vs. GSW L 23 9 4 6 66.7 0 0 - 1 4 25.0 3 6 9 1 1 1 2 3 -5
+p253
+aVMichael Ruffin WAS 03/04/2005 WAS vs. GSW L 26 1 0 2 0.0 0 0 - 1 4 25.0 2 2 4 0 0 1 2 5 -10
+p254
+aVBrendan Haywood WAS 03/04/2005 WAS vs. GSW L 34 10 5 10 50.0 0 0 - 0 4 0.0 5 6 11 0 0 0 2 3 -7
+p255
+aVLarry Hughes WAS 03/04/2005 WAS vs. GSW L 43 27 8 21 38.1 0 6 0.0 11 14 78.6 1 5 6 2 3 0 1 3 -9
+p256
+aVBrendan Haywood WAS 03/02/2005 WAS vs. HOU W 31 12 5 6 83.3 0 0 - 2 2 100.0 4 5 9 2 1 1 1 2 9
+p257
+aVMichael Ruffin WAS 03/02/2005 WAS vs. HOU W 15 0 0 1 0.0 0 0 - 0 0 - 1 4 5 1 2 1 0 4 15
+p258
+aVKwame Brown WAS 03/02/2005 WAS vs. HOU W 32 3 1 6 16.7 0 0 - 1 2 50.0 3 9 12 2 1 0 0 4 -9
+p259
+aVLarry Hughes WAS 03/02/2005 WAS vs. HOU W 37 31 11 20 55.0 3 5 60.0 6 9 66.7 0 6 6 4 2 1 1 3 2
+p260
+aVSteve Blake WAS 03/02/2005 WAS vs. HOU W 23 5 2 11 18.2 1 8 12.5 0 0 - 0 0 0 1 3 0 1 1 0
+p261
+aVEtan Thomas WAS 03/02/2005 WAS vs. HOU W 17 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 0 0 0 3 -8
+p262
+aVGilbert Arenas WAS 03/02/2005 WAS vs. HOU W 43 33 9 20 45.0 2 8 25.0 13 16 81.3 3 5 8 5 2 2 6 4 11
+p263
+aVAntawn Jamison WAS 03/02/2005 WAS vs. HOU W 42 13 5 10 50.0 1 2 50.0 2 2 100.0 0 3 3 1 0 0 3 3 -5
+p264
+aVSteve Blake WAS 02/27/2005 WAS vs. SAC L 34 17 6 9 66.7 2 4 50.0 3 4 75.0 0 5 5 5 1 0 0 2 3
+p265
+aVAntawn Jamison WAS 02/27/2005 WAS vs. SAC L 40 7 3 15 20.0 1 6 16.7 0 2 0.0 0 3 3 7 1 0 6 5 -1
+p266
+aVEtan Thomas WAS 02/27/2005 WAS vs. SAC L 18 6 2 3 66.7 0 0 - 2 5 40.0 1 4 5 0 0 1 1 3 4
+p267
+aVKwame Brown WAS 02/27/2005 WAS vs. SAC L 31 10 3 7 42.9 0 0 - 4 8 50.0 6 4 10 3 1 0 2 1 -9
+p268
+aVMichael Ruffin WAS 02/27/2005 WAS vs. SAC L 24 2 0 1 0.0 0 0 - 2 4 50.0 1 5 6 3 0 1 2 2 6
+p269
+aVBrendan Haywood WAS 02/27/2005 WAS vs. SAC L 30 13 5 8 62.5 0 0 - 3 3 100.0 2 4 6 0 2 1 0 3 -4
+p270
+aVGilbert Arenas WAS 02/27/2005 WAS vs. SAC L 47 43 16 32 50.0 7 11 63.6 4 7 57.1 1 6 7 3 2 0 3 4 -1
+p271
+aVLaron Profit WAS 02/27/2005 WAS vs. SAC L 6 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 0 -8
+p272
+aVJarvis Hayes WAS 02/27/2005 WAS vs. SAC L 10 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 0
+p273
+aVMichael Ruffin WAS 02/25/2005 WAS @ CHI L 16 1 0 2 0.0 0 0 - 1 2 50.0 2 0 2 1 2 0 0 6 -13
+p274
+aVAntawn Jamison WAS 02/25/2005 WAS @ CHI L 43 19 7 23 30.4 2 7 28.6 3 5 60.0 5 5 10 3 0 0 4 4 3
+p275
+aVAnthony Peeler WAS 02/25/2005 WAS @ CHI L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p276
+aVEtan Thomas WAS 02/25/2005 WAS @ CHI L 12 5 2 7 28.6 0 0 - 1 2 50.0 4 2 6 0 0 2 1 2 -19
+p277
+aVJarvis Hayes WAS 02/25/2005 WAS @ CHI L 41 9 4 9 44.4 1 2 50.0 0 0 - 0 4 4 1 2 0 3 2 -4
+p278
+aVGilbert Arenas WAS 02/25/2005 WAS @ CHI L 44 36 15 33 45.5 0 7 0.0 6 8 75.0 1 4 5 7 3 2 5 2 -4
+p279
+aVBrendan Haywood WAS 02/25/2005 WAS @ CHI L 33 13 6 8 75.0 0 0 - 1 2 50.0 3 5 8 1 3 2 1 3 10
+p280
+aVKwame Brown WAS 02/25/2005 WAS @ CHI L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -3
+p281
+aVSteve Blake WAS 02/25/2005 WAS @ CHI L 19 2 1 6 16.7 0 2 0.0 0 0 - 3 5 8 0 0 0 1 1 -5
+p282
+aVJared Jeffries WAS 02/25/2005 WAS @ CHI L 17 5 1 3 33.3 0 0 - 3 3 100.0 3 3 6 2 0 0 2 1 7
+p283
+aVKwame Brown WAS 02/23/2005 WAS vs. MEM W 10 2 1 4 25.0 0 0 - 0 1 0.0 0 2 2 3 0 0 0 2 -5
+p284
+aVGilbert Arenas WAS 02/23/2005 WAS vs. MEM W 40 30 8 20 40.0 1 3 33.3 13 13 100.0 1 9 10 6 2 0 2 4 14
+p285
+aVBrendan Haywood WAS 02/23/2005 WAS vs. MEM W 26 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 4 3 0 2 3 10
+p286
+aVAntawn Jamison WAS 02/23/2005 WAS vs. MEM W 46 27 8 17 47.1 1 3 33.3 10 14 71.4 2 8 10 1 1 0 1 1 10
+p287
+aVMichael Ruffin WAS 02/23/2005 WAS vs. MEM W 12 2 1 1 100.0 0 0 - 0 0 - 2 1 3 2 0 2 2 3 4
+p288
+aVJarvis Hayes WAS 02/23/2005 WAS vs. MEM W 27 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 4 3 2
+p289
+aVJared Jeffries WAS 02/23/2005 WAS vs. MEM W 24 8 4 7 57.1 0 0 - 0 0 - 1 0 1 0 1 0 3 3 11
+p290
+aVSteve Blake WAS 02/23/2005 WAS vs. MEM W 25 9 2 6 33.3 1 2 50.0 4 4 100.0 0 2 2 2 1 0 0 2 3
+p291
+aVAnthony Peeler WAS 02/23/2005 WAS vs. MEM W 8 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 0 1
+p292
+aVEtan Thomas WAS 02/23/2005 WAS vs. MEM W 22 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 0 0 2 0 3 0
+p293
+aVAntawn Jamison WAS 02/15/2005 WAS @ HOU L 38 23 9 17 52.9 1 5 20.0 4 5 80.0 2 5 7 3 0 0 4 2 -19
+p294
+aVSteve Blake WAS 02/15/2005 WAS @ HOU L 24 8 2 6 33.3 2 5 40.0 2 2 100.0 0 1 1 1 0 0 1 2 -24
+p295
+aVPeter Ramos WAS 02/15/2005 WAS @ HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p296
+aVBrendan Haywood WAS 02/15/2005 WAS @ HOU L 23 16 7 12 58.3 0 0 - 2 2 100.0 2 1 3 3 1 2 0 0 -3
+p297
+aVJuan Dixon WAS 02/15/2005 WAS @ HOU L 8 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 1 0 1 1 -8
+p298
+aVJarvis Hayes WAS 02/15/2005 WAS @ HOU L 39 21 9 17 52.9 1 4 25.0 2 2 100.0 1 3 4 2 1 0 2 2 -26
+p299
+aVGilbert Arenas WAS 02/15/2005 WAS @ HOU L 39 11 3 14 21.4 2 8 25.0 3 3 100.0 1 3 4 9 4 1 2 1 -19
+p300
+aVLaron Profit WAS 02/15/2005 WAS @ HOU L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p301
+aVJared Jeffries WAS 02/15/2005 WAS @ HOU L 29 2 1 2 50.0 0 0 - 0 0 - 2 1 3 3 1 0 2 4 -12
+p302
+aVEtan Thomas WAS 02/15/2005 WAS @ HOU L 20 6 2 7 28.6 0 0 - 2 4 50.0 2 2 4 0 0 2 0 1 -23
+p303
+aVMichael Ruffin WAS 02/15/2005 WAS @ HOU L 8 2 1 2 50.0 0 0 - 0 1 0.0 0 3 3 0 1 0 0 1 -9
+p304
+aVJuan Dixon WAS 02/14/2005 WAS @ NOH L 16 8 4 10 40.0 0 3 0.0 0 0 - 3 1 4 1 1 0 3 3 -4
+p305
+aVSteve Blake WAS 02/14/2005 WAS @ NOH L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p306
+aVAntawn Jamison WAS 02/14/2005 WAS @ NOH L 43 30 9 22 40.9 3 5 60.0 9 11 81.8 5 7 12 1 0 0 1 2 5
+p307
+aVEtan Thomas WAS 02/14/2005 WAS @ NOH L 16 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 0 1 1 2 5
+p308
+aVJared Jeffries WAS 02/14/2005 WAS @ NOH L 35 4 2 5 40.0 0 0 - 0 0 - 3 4 7 2 0 1 3 3 13
+p309
+aVGilbert Arenas WAS 02/14/2005 WAS @ NOH L 48 34 12 29 41.4 2 12 16.7 8 9 88.9 1 3 4 6 4 1 2 2 -2
+p310
+aVMichael Ruffin WAS 02/14/2005 WAS @ NOH L 11 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 1 1 5 -8
+p311
+aVJarvis Hayes WAS 02/14/2005 WAS @ NOH L 25 8 3 6 50.0 0 1 0.0 2 2 100.0 1 3 4 0 0 0 1 1 10
+p312
+aVBrendan Haywood WAS 02/14/2005 WAS @ NOH L 28 8 3 3 100.0 0 0 - 2 2 100.0 1 6 7 0 1 1 1 4 -8
+p313
+aVLaron Profit WAS 02/14/2005 WAS @ NOH L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 -13
+p314
+aVJuan Dixon WAS 02/12/2005 WAS @ DET L 15 7 3 8 37.5 1 4 25.0 0 0 - 2 1 3 1 0 0 3 2 -7
+p315
+aVAntawn Jamison WAS 02/12/2005 WAS @ DET L 30 14 5 19 26.3 2 6 33.3 2 2 100.0 1 1 2 0 1 0 1 1 -16
+p316
+aVSamaki Walker WAS 02/12/2005 WAS @ DET L 11 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 1 0 0 0 0
+p317
+aVJarvis Hayes WAS 02/12/2005 WAS @ DET L 32 9 3 10 30.0 2 4 50.0 1 2 50.0 1 5 6 0 0 0 2 0 -19
+p318
+aVMichael Ruffin WAS 02/12/2005 WAS @ DET L 15 4 2 4 50.0 0 0 - 0 0 - 5 2 7 0 0 0 1 2 -9
+p319
+aVAnthony Peeler WAS 02/12/2005 WAS @ DET L 19 2 1 5 20.0 0 1 0.0 0 0 - 0 4 4 7 0 0 3 2 -9
+p320
+aVEtan Thomas WAS 02/12/2005 WAS @ DET L 23 11 5 6 83.3 0 0 - 1 2 50.0 2 4 6 0 1 2 1 3 -3
+p321
+aVBrendan Haywood WAS 02/12/2005 WAS @ DET L 25 6 3 6 50.0 0 0 - 0 0 - 3 4 7 2 0 0 2 5 -18
+p322
+aVGilbert Arenas WAS 02/12/2005 WAS @ DET L 35 24 9 20 45.0 3 5 60.0 3 6 50.0 0 1 1 5 2 1 2 3 -21
+p323
+aVLaron Profit WAS 02/12/2005 WAS @ DET L 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -1
+p324
+aVSteve Blake WAS 02/12/2005 WAS @ DET L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -2
+p325
+aVJared Jeffries WAS 02/12/2005 WAS @ DET L 17 3 0 8 0.0 0 0 - 3 4 75.0 5 1 6 2 1 1 1 3 0
+p326
+aVBrendan Haywood WAS 02/11/2005 WAS vs. LAC W 30 13 5 9 55.6 0 0 - 3 5 60.0 4 5 9 0 0 2 0 6 9
+p327
+aVJared Jeffries WAS 02/11/2005 WAS vs. LAC W 20 5 1 7 14.3 0 1 0.0 3 6 50.0 3 2 5 1 0 1 4 3 -1
+p328
+aVJarvis Hayes WAS 02/11/2005 WAS vs. LAC W 35 13 6 8 75.0 1 1 100.0 0 0 - 0 3 3 2 3 0 1 3 5
+p329
+aVGilbert Arenas WAS 02/11/2005 WAS vs. LAC W 45 35 11 20 55.0 5 10 50.0 8 9 88.9 0 2 2 9 5 0 2 2 7
+p330
+aVEtan Thomas WAS 02/11/2005 WAS vs. LAC W 17 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 0 0 3 1 2 -8
+p331
+aVJuan Dixon WAS 02/11/2005 WAS vs. LAC W 25 9 3 11 27.3 0 4 0.0 3 3 100.0 1 1 2 2 0 0 2 2 4
+p332
+aVAntawn Jamison WAS 02/11/2005 WAS vs. LAC W 41 17 7 16 43.8 1 3 33.3 2 2 100.0 2 5 7 1 0 0 2 1 7
+p333
+aVSteve Blake WAS 02/11/2005 WAS vs. LAC W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 1 -6
+p334
+aVMichael Ruffin WAS 02/11/2005 WAS vs. LAC W 20 0 0 2 0.0 0 0 - 0 2 0.0 1 6 7 1 0 0 1 1 -2
+p335
+aVBrendan Haywood WAS 02/09/2005 WAS vs. SAS W 22 14 5 6 83.3 0 0 - 4 6 66.7 4 3 7 0 0 2 0 3 -4
+p336
+aVJuan Dixon WAS 02/09/2005 WAS vs. SAS W 27 10 4 9 44.4 0 1 0.0 2 2 100.0 1 5 6 3 0 1 2 4 16
+p337
+aVEtan Thomas WAS 02/09/2005 WAS vs. SAS W 25 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 0 0 3 0 2 10
+p338
+aVJarvis Hayes WAS 02/09/2005 WAS vs. SAS W 30 4 1 8 12.5 0 0 - 2 4 50.0 0 4 4 1 0 0 2 3 -8
+p339
+aVMichael Ruffin WAS 02/09/2005 WAS vs. SAS W 25 2 1 2 50.0 0 0 - 0 0 - 4 4 8 1 0 3 0 2 9
+p340
+aVGilbert Arenas WAS 02/09/2005 WAS vs. SAS W 44 24 9 28 32.1 2 4 50.0 4 6 66.7 2 4 6 4 3 0 4 2 11
+p341
+aVAntawn Jamison WAS 02/09/2005 WAS vs. SAS W 46 35 14 24 58.3 3 6 50.0 4 5 80.0 3 8 11 2 2 0 3 1 8
+p342
+aVJared Jeffries WAS 02/09/2005 WAS vs. SAS W 21 2 1 3 33.3 0 0 - 0 0 - 2 0 2 2 0 1 0 1 -2
+p343
+aVAntawn Jamison WAS 02/07/2005 WAS vs. IND W 40 24 11 21 52.4 0 1 0.0 2 6 33.3 2 2 4 2 1 0 1 2 2
+p344
+aVBrendan Haywood WAS 02/07/2005 WAS vs. IND W 16 5 2 5 40.0 0 0 - 1 4 25.0 2 1 3 0 0 1 0 1 -15
+p345
+aVMichael Ruffin WAS 02/07/2005 WAS vs. IND W 20 0 0 1 0.0 0 0 - 0 0 - 3 5 8 0 0 1 0 6 13
+p346
+aVJuan Dixon WAS 02/07/2005 WAS vs. IND W 21 11 3 5 60.0 1 1 100.0 4 4 100.0 1 1 2 3 1 0 2 0 13
+p347
+aVJared Jeffries WAS 02/07/2005 WAS vs. IND W 34 6 2 4 50.0 0 0 - 2 6 33.3 2 2 4 1 2 1 0 0 -8
+p348
+aVEtan Thomas WAS 02/07/2005 WAS vs. IND W 14 6 2 5 40.0 0 0 - 2 3 66.7 0 3 3 0 0 1 1 3 3
+p349
+aVSteve Blake WAS 02/07/2005 WAS vs. IND W 14 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 4 0 0 0 3 8
+p350
+aVJarvis Hayes WAS 02/07/2005 WAS vs. IND W 35 10 4 9 44.4 1 3 33.3 1 1 100.0 0 3 3 1 1 0 0 0 2
+p351
+aVGilbert Arenas WAS 02/07/2005 WAS vs. IND W 45 43 15 28 53.6 3 5 60.0 10 13 76.9 2 7 9 6 1 1 4 3 2
+p352
+aVSteve Blake WAS 02/05/2005 WAS vs. MIL W 18 2 1 7 14.3 0 2 0.0 0 0 - 1 2 3 4 0 0 0 2 -4
+p353
+aVAntawn Jamison WAS 02/05/2005 WAS vs. MIL W 38 9 3 8 37.5 0 0 - 3 4 75.0 1 4 5 3 0 0 2 3 23
+p354
+aVBrendan Haywood WAS 02/05/2005 WAS vs. MIL W 18 13 5 7 71.4 0 0 - 3 3 100.0 2 5 7 0 1 0 1 3 12
+p355
+aVGilbert Arenas WAS 02/05/2005 WAS vs. MIL W 39 31 10 17 58.8 3 5 60.0 8 11 72.7 1 5 6 9 6 1 3 4 19
+p356
+aVJarvis Hayes WAS 02/05/2005 WAS vs. MIL W 32 15 6 13 46.2 1 2 50.0 2 3 66.7 1 4 5 1 3 0 3 4 17
+p357
+aVJared Jeffries WAS 02/05/2005 WAS vs. MIL W 33 7 3 6 50.0 0 1 0.0 1 1 100.0 0 1 1 4 3 0 1 3 11
+p358
+aVLaron Profit WAS 02/05/2005 WAS vs. MIL W 9 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 0 0 1 0 -3
+p359
+aVJuan Dixon WAS 02/05/2005 WAS vs. MIL W 17 8 3 10 30.0 0 3 0.0 2 2 100.0 0 1 1 0 0 0 0 3 5
+p360
+aVEtan Thomas WAS 02/05/2005 WAS vs. MIL W 30 23 9 12 75.0 0 0 - 5 8 62.5 5 3 8 0 0 1 1 2 6
+p361
+aVMichael Ruffin WAS 02/05/2005 WAS vs. MIL W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 4
+p362
+aVEtan Thomas WAS 02/04/2005 WAS @ TOR L 8 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 8
+p363
+aVJarvis Hayes WAS 02/04/2005 WAS @ TOR L 42 18 8 13 61.5 0 1 0.0 2 3 66.7 0 7 7 5 0 1 2 3 -8
+p364
+aVJuan Dixon WAS 02/04/2005 WAS @ TOR L 29 15 6 12 50.0 1 2 50.0 2 2 100.0 0 3 3 6 1 0 5 3 -9
+p365
+aVBrendan Haywood WAS 02/04/2005 WAS @ TOR L 27 6 3 4 75.0 0 0 - 0 0 - 1 5 6 1 0 1 0 4 0
+p366
+aVAnthony Peeler WAS 02/04/2005 WAS @ TOR L 15 5 2 5 40.0 1 2 50.0 0 0 - 2 1 3 2 0 0 1 0 -15
+p367
+aVGilbert Arenas WAS 02/04/2005 WAS @ TOR L 28 21 8 13 61.5 3 5 60.0 2 2 100.0 0 0 0 4 0 0 4 1 12
+p368
+aVMichael Ruffin WAS 02/04/2005 WAS @ TOR L 26 1 0 0 - 0 0 - 1 2 50.0 0 8 8 1 0 1 1 3 6
+p369
+aVJared Jeffries WAS 02/04/2005 WAS @ TOR L 20 4 1 5 20.0 0 1 0.0 2 2 100.0 1 0 1 4 0 1 1 5 -5
+p370
+aVAntawn Jamison WAS 02/04/2005 WAS @ TOR L 45 30 12 24 50.0 1 2 50.0 5 9 55.6 0 11 11 5 1 0 0 1 -4
+p371
+aVJarvis Hayes WAS 02/01/2005 WAS vs. DET L 41 11 4 9 44.4 1 1 100.0 2 2 100.0 1 2 3 3 1 1 2 3 -2
+p372
+aVJuan Dixon WAS 02/01/2005 WAS vs. DET L 25 8 4 11 36.4 0 1 0.0 0 0 - 2 1 3 4 0 1 2 1 -22
+p373
+aVGilbert Arenas WAS 02/01/2005 WAS vs. DET L 43 21 8 21 38.1 3 11 27.3 2 4 50.0 1 5 6 8 1 0 2 4 -5
+p374
+aVMichael Ruffin WAS 02/01/2005 WAS vs. DET L 14 8 3 4 75.0 0 0 - 2 3 66.7 2 4 6 0 1 0 2 4 -2
+p375
+aVSteve Blake WAS 02/01/2005 WAS vs. DET L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p376
+aVAntawn Jamison WAS 02/01/2005 WAS vs. DET L 44 26 9 19 47.4 3 6 50.0 5 6 83.3 2 4 6 3 1 0 2 2 -10
+p377
+aVEtan Thomas WAS 02/01/2005 WAS vs. DET L 15 3 1 5 20.0 0 0 - 1 2 50.0 1 0 1 0 0 0 2 4 -21
+p378
+aVBrendan Haywood WAS 02/01/2005 WAS vs. DET L 22 6 2 4 50.0 0 0 - 2 3 66.7 2 6 8 1 1 0 1 6 13
+p379
+aVJared Jeffries WAS 02/01/2005 WAS vs. DET L 31 11 4 10 40.0 1 2 50.0 2 2 100.0 1 5 6 3 3 4 1 2 8
+p380
+aVJuan Dixon WAS 01/29/2005 WAS vs. ORL L 25 14 4 10 40.0 0 1 0.0 6 7 85.7 2 1 3 1 3 0 2 3 -8
+p381
+aVAnthony Peeler WAS 01/29/2005 WAS vs. ORL L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -7
+p382
+aVBrendan Haywood WAS 01/29/2005 WAS vs. ORL L 23 3 1 4 25.0 0 0 - 1 4 25.0 2 3 5 1 1 0 2 3 6
+p383
+aVJared Jeffries WAS 01/29/2005 WAS vs. ORL L 24 6 2 4 50.0 0 0 - 2 4 50.0 5 4 9 3 0 0 4 5 -4
+p384
+aVEtan Thomas WAS 01/29/2005 WAS vs. ORL L 24 6 2 6 33.3 0 0 - 2 7 28.6 5 3 8 2 1 1 0 3 -8
+p385
+aVGilbert Arenas WAS 01/29/2005 WAS vs. ORL L 48 37 10 22 45.5 4 8 50.0 13 13 100.0 0 8 8 6 3 0 1 4 -6
+p386
+aVJarvis Hayes WAS 01/29/2005 WAS vs. ORL L 31 11 4 12 33.3 1 3 33.3 2 2 100.0 0 5 5 2 1 0 1 2 3
+p387
+aVAntawn Jamison WAS 01/29/2005 WAS vs. ORL L 43 18 6 21 28.6 1 4 25.0 5 8 62.5 1 3 4 2 2 0 2 2 -2
+p388
+aVMichael Ruffin WAS 01/29/2005 WAS vs. ORL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p389
+aVEtan Thomas WAS 01/28/2005 WAS @ ORL L 29 8 3 4 75.0 0 0 - 2 6 33.3 1 5 6 0 0 0 2 4 -11
+p390
+aVJuan Dixon WAS 01/28/2005 WAS @ ORL L 8 4 1 4 25.0 0 3 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -11
+p391
+aVAntawn Jamison WAS 01/28/2005 WAS @ ORL L 38 28 12 22 54.5 1 2 50.0 3 3 100.0 2 3 5 2 1 0 2 2 8
+p392
+aVSteve Blake WAS 01/28/2005 WAS @ ORL L 8 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 2 -3
+p393
+aVGilbert Arenas WAS 01/28/2005 WAS @ ORL L 43 30 8 22 36.4 1 6 16.7 13 18 72.2 1 3 4 8 4 0 1 3 4
+p394
+aVJared Jeffries WAS 01/28/2005 WAS @ ORL L 33 4 2 7 28.6 0 0 - 0 2 0.0 4 5 9 4 1 0 2 3 -11
+p395
+aVJarvis Hayes WAS 01/28/2005 WAS @ ORL L 29 12 5 13 38.5 2 4 50.0 0 0 - 1 2 3 2 1 0 2 2 -11
+p396
+aVAnthony Peeler WAS 01/28/2005 WAS @ ORL L 18 6 2 6 33.3 1 3 33.3 1 1 100.0 0 1 1 1 1 0 0 0 1
+p397
+aVBrendan Haywood WAS 01/28/2005 WAS @ ORL L 16 4 1 6 16.7 0 0 - 2 2 100.0 3 2 5 1 1 0 2 3 0
+p398
+aVMichael Ruffin WAS 01/28/2005 WAS @ ORL L 18 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -1
+p399
+aVJuan Dixon WAS 01/26/2005 WAS vs. PHI W 30 22 6 13 46.2 2 3 66.7 8 9 88.9 0 1 1 5 3 0 0 5 22
+p400
+aVSteve Blake WAS 01/26/2005 WAS vs. PHI W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 7
+p401
+aVMichael Ruffin WAS 01/26/2005 WAS vs. PHI W 22 7 2 2 100.0 0 0 - 3 6 50.0 4 1 5 2 0 1 0 5 13
+p402
+aVGilbert Arenas WAS 01/26/2005 WAS vs. PHI W 44 33 11 26 42.3 4 11 36.4 7 8 87.5 2 4 6 9 3 0 5 2 3
+p403
+aVJared Jeffries WAS 01/26/2005 WAS vs. PHI W 23 11 4 6 66.7 1 1 100.0 2 2 100.0 4 2 6 3 1 1 2 5 -6
+p404
+aVAnthony Peeler WAS 01/26/2005 WAS vs. PHI W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p405
+aVAntawn Jamison WAS 01/26/2005 WAS vs. PHI W 38 23 10 17 58.8 1 2 50.0 2 3 66.7 1 6 7 3 2 0 2 1 9
+p406
+aVEtan Thomas WAS 01/26/2005 WAS vs. PHI W 24 4 1 4 25.0 0 0 - 2 2 100.0 3 4 7 2 2 1 0 4 17
+p407
+aVBrendan Haywood WAS 01/26/2005 WAS vs. PHI W 22 2 1 3 33.3 0 0 - 0 2 0.0 2 5 7 0 2 0 3 2 -4
+p408
+aVJarvis Hayes WAS 01/26/2005 WAS vs. PHI W 28 12 5 15 33.3 1 7 14.3 1 1 100.0 1 4 5 1 1 1 1 2 -7
+p409
+aVMichael Ruffin WAS 01/24/2005 WAS @ CLE W 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 0 0 1 0 2
+p410
+aVJared Jeffries WAS 01/24/2005 WAS @ CLE W 32 12 4 10 40.0 0 1 0.0 4 5 80.0 0 2 2 1 2 0 1 2 4
+p411
+aVEtan Thomas WAS 01/24/2005 WAS @ CLE W 16 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 1 0 2 2
+p412
+aVAnthony Peeler WAS 01/24/2005 WAS @ CLE W 22 14 3 9 33.3 3 4 75.0 5 5 100.0 0 4 4 0 2 1 0 1 3
+p413
+aVLaron Profit WAS 01/24/2005 WAS @ CLE W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 0 5
+p414
+aVBrendan Haywood WAS 01/24/2005 WAS @ CLE W 30 15 5 6 83.3 0 0 - 5 6 83.3 3 3 6 3 0 2 2 5 8
+p415
+aVJarvis Hayes WAS 01/24/2005 WAS @ CLE W 24 13 6 11 54.5 1 3 33.3 0 0 - 1 6 7 2 0 1 1 5 -4
+p416
+aVAntawn Jamison WAS 01/24/2005 WAS @ CLE W 41 16 2 9 22.2 0 3 0.0 12 17 70.6 1 4 5 2 1 1 1 2 15
+p417
+aVGilbert Arenas WAS 01/24/2005 WAS @ CLE W 48 30 7 18 38.9 3 8 37.5 13 16 81.3 1 3 4 1 1 1 4 4 9
+p418
+aVSamaki Walker WAS 01/24/2005 WAS @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p419
+aVBrendan Haywood WAS 01/22/2005 WAS @ IND W 32 15 5 7 71.4 0 0 - 5 8 62.5 5 5 10 2 0 5 1 4 6
+p420
+aVJarvis Hayes WAS 01/22/2005 WAS @ IND W 40 5 1 7 14.3 1 3 33.3 2 2 100.0 0 3 3 3 0 0 0 3 1
+p421
+aVAnthony Peeler WAS 01/22/2005 WAS @ IND W 30 16 6 9 66.7 4 5 80.0 0 0 - 0 1 1 0 0 0 1 5 1
+p422
+aVMichael Ruffin WAS 01/22/2005 WAS @ IND W 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -6
+p423
+aVJared Jeffries WAS 01/22/2005 WAS @ IND W 21 3 1 3 33.3 0 1 0.0 1 4 25.0 2 1 3 2 0 1 1 4 9
+p424
+aVLaron Profit WAS 01/22/2005 WAS @ IND W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -2
+p425
+aVGilbert Arenas WAS 01/22/2005 WAS @ IND W 44 33 12 26 46.2 3 8 37.5 6 10 60.0 0 2 2 6 1 0 3 2 2
+p426
+aVEtan Thomas WAS 01/22/2005 WAS @ IND W 16 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 0 0 1 0 3 -8
+p427
+aVAntawn Jamison WAS 01/22/2005 WAS @ IND W 43 19 7 18 38.9 1 2 50.0 4 5 80.0 2 11 13 1 1 0 4 3 7
+p428
+aVGilbert Arenas WAS 01/21/2005 WAS vs. TOR W 44 23 3 14 21.4 0 6 0.0 17 20 85.0 0 2 2 8 0 0 4 3 1
+p429
+aVJuan Dixon WAS 01/21/2005 WAS vs. TOR W 34 26 11 16 68.8 4 8 50.0 0 0 - 0 1 1 5 2 0 1 5 0
+p430
+aVJarvis Hayes WAS 01/21/2005 WAS vs. TOR W 40 16 6 11 54.5 1 3 33.3 3 4 75.0 1 7 8 2 2 1 1 2 5
+p431
+aVBrendan Haywood WAS 01/21/2005 WAS vs. TOR W 32 12 3 5 60.0 0 0 - 6 9 66.7 4 5 9 2 0 4 1 5 3
+p432
+aVAntawn Jamison WAS 01/21/2005 WAS vs. TOR W 42 26 11 24 45.8 1 5 20.0 3 6 50.0 1 12 13 1 0 0 3 2 4
+p433
+aVLaron Profit WAS 01/21/2005 WAS vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p434
+aVMichael Ruffin WAS 01/21/2005 WAS vs. TOR W 17 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 4
+p435
+aVJared Jeffries WAS 01/21/2005 WAS vs. TOR W 23 13 5 8 62.5 1 1 100.0 2 2 100.0 4 4 8 4 1 0 2 5 13
+p436
+aVEtan Thomas WAS 01/21/2005 WAS vs. TOR W 7 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 2 1 0 14
+p437
+aVGilbert Arenas WAS 01/18/2005 WAS @ DAL L 42 43 11 23 47.8 6 10 60.0 15 18 83.3 1 2 3 3 2 0 2 6 -18
+p438
+aVAntawn Jamison WAS 01/18/2005 WAS @ DAL L 40 27 8 17 47.1 0 0 - 11 11 100.0 4 6 10 1 0 0 1 1 -19
+p439
+aVJarvis Hayes WAS 01/18/2005 WAS @ DAL L 24 9 3 9 33.3 2 4 50.0 1 2 50.0 1 1 2 2 1 0 0 4 -3
+p440
+aVLaron Profit WAS 01/18/2005 WAS @ DAL L 22 3 1 6 16.7 0 3 0.0 1 2 50.0 0 4 4 1 1 0 1 2 -13
+p441
+aVJared Jeffries WAS 01/18/2005 WAS @ DAL L 30 8 3 8 37.5 0 1 0.0 2 2 100.0 2 4 6 4 2 0 4 3 -1
+p442
+aVJuan Dixon WAS 01/18/2005 WAS @ DAL L 43 19 8 20 40.0 1 5 20.0 2 3 66.7 3 3 6 6 4 1 4 1 -15
+p443
+aVBrendan Haywood WAS 01/18/2005 WAS @ DAL L 7 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 -9
+p444
+aVMichael Ruffin WAS 01/18/2005 WAS @ DAL L 14 4 2 3 66.7 0 0 - 0 0 - 5 0 5 2 2 0 1 4 7
+p445
+aVEtan Thomas WAS 01/18/2005 WAS @ DAL L 15 5 2 4 50.0 0 0 - 1 6 16.7 3 1 4 0 0 0 0 4 -13
+p446
+aVSamaki Walker WAS 01/18/2005 WAS @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p447
+aVAntawn Jamison WAS 01/17/2005 WAS @ SAS L 19 6 2 8 25.0 1 2 50.0 1 1 100.0 0 0 0 1 0 1 0 0 -20
+p448
+aVSamaki Walker WAS 01/17/2005 WAS @ SAS L 24 6 3 10 30.0 0 0 - 0 1 0.0 3 2 5 2 1 0 0 1 -4
+p449
+aVBrendan Haywood WAS 01/17/2005 WAS @ SAS L 15 2 1 6 16.7 0 0 - 0 0 - 1 3 4 0 0 2 0 1 -18
+p450
+aVJarvis Hayes WAS 01/17/2005 WAS @ SAS L 32 27 10 20 50.0 5 7 71.4 2 2 100.0 0 4 4 0 2 0 1 0 -5
+p451
+aVJared Jeffries WAS 01/17/2005 WAS @ SAS L 19 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 0 0 0 2 -23
+p452
+aVJuan Dixon WAS 01/17/2005 WAS @ SAS L 26 10 4 10 40.0 1 3 33.3 1 1 100.0 1 5 6 3 2 0 2 1 -19
+p453
+aVEtan Thomas WAS 01/17/2005 WAS @ SAS L 23 7 3 6 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -13
+p454
+aVLaron Profit WAS 01/17/2005 WAS @ SAS L 12 1 0 2 0.0 0 2 0.0 1 2 50.0 2 0 2 3 1 0 0 1 -1
+p455
+aVGilbert Arenas WAS 01/17/2005 WAS @ SAS L 34 3 0 12 0.0 0 4 0.0 3 4 75.0 1 1 2 2 0 0 2 2 -27
+p456
+aVAnthony Peeler WAS 01/17/2005 WAS @ SAS L 24 6 2 6 33.3 0 1 0.0 2 2 100.0 2 2 4 3 0 0 1 0 -9
+p457
+aVMichael Ruffin WAS 01/17/2005 WAS @ SAS L 12 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 2 -1
+p458
+aVMichael Ruffin WAS 01/15/2005 WAS vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p459
+aVAntawn Jamison WAS 01/15/2005 WAS vs. PHX W 43 17 7 18 38.9 2 6 33.3 1 2 50.0 3 4 7 3 0 0 1 2 5
+p460
+aVJared Jeffries WAS 01/15/2005 WAS vs. PHX W 25 9 4 6 66.7 1 2 50.0 0 0 - 3 2 5 4 2 3 2 3 -15
+p461
+aVEtan Thomas WAS 01/15/2005 WAS vs. PHX W 19 2 0 1 0.0 0 0 - 2 4 50.0 1 3 4 0 0 0 1 4 4
+p462
+aVJuan Dixon WAS 01/15/2005 WAS vs. PHX W 26 26 10 13 76.9 3 4 75.0 3 3 100.0 2 3 5 1 4 0 1 2 23
+p463
+aVBrendan Haywood WAS 01/15/2005 WAS vs. PHX W 27 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 1 3 4 2
+p464
+aVGilbert Arenas WAS 01/15/2005 WAS vs. PHX W 43 26 6 23 26.1 2 9 22.2 12 14 85.7 1 6 7 7 2 1 2 0 4
+p465
+aVJarvis Hayes WAS 01/15/2005 WAS vs. PHX W 9 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 0 4
+p466
+aVLarry Hughes WAS 01/15/2005 WAS vs. PHX W 43 22 8 20 40.0 0 4 0.0 6 6 100.0 3 10 13 3 0 0 4 4 -6
+p467
+aVJuan Dixon WAS 01/14/2005 WAS @ MIL W 13 13 5 5 100.0 0 0 - 3 3 100.0 0 0 0 5 1 0 1 1 9
+p468
+aVEtan Thomas WAS 01/14/2005 WAS @ MIL W 16 0 0 1 0.0 0 0 - 0 4 0.0 0 2 2 0 1 1 0 2 3
+p469
+aVMichael Ruffin WAS 01/14/2005 WAS @ MIL W 16 0 0 0 - 0 0 - 0 2 0.0 0 1 1 2 0 0 0 1 5
+p470
+aVLaron Profit WAS 01/14/2005 WAS @ MIL W 8 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 0 1 0 0 3 -1
+p471
+aVAntawn Jamison WAS 01/14/2005 WAS @ MIL W 44 22 9 18 50.0 1 2 50.0 3 4 75.0 1 5 6 1 4 1 3 4 -1
+p472
+aVBrendan Haywood WAS 01/14/2005 WAS @ MIL W 30 11 3 5 60.0 0 0 - 5 6 83.3 1 2 3 1 0 1 2 5 6
+p473
+aVLarry Hughes WAS 01/14/2005 WAS @ MIL W 41 23 5 14 35.7 1 3 33.3 12 14 85.7 1 2 3 8 5 0 2 1 2
+p474
+aVJared Jeffries WAS 01/14/2005 WAS @ MIL W 30 9 4 6 66.7 1 1 100.0 0 0 - 3 1 4 2 1 1 2 4 -17
+p475
+aVGilbert Arenas WAS 01/14/2005 WAS @ MIL W 42 20 6 19 31.6 2 11 18.2 6 8 75.0 1 6 7 2 1 0 4 3 4
+p476
+aVMichael Ruffin WAS 01/12/2005 WAS vs. POR W 10 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 0 0 0 1 3 11
+p477
+aVBrendan Haywood WAS 01/12/2005 WAS vs. POR W 35 13 5 6 83.3 0 0 - 3 6 50.0 5 4 9 0 0 3 0 3 -1
+p478
+aVGilbert Arenas WAS 01/12/2005 WAS vs. POR W 38 26 11 16 68.8 4 8 50.0 0 3 0.0 1 3 4 5 2 0 0 5 3
+p479
+aVJarvis Hayes WAS 01/12/2005 WAS vs. POR W 27 5 2 5 40.0 1 1 100.0 0 0 - 2 1 3 2 0 0 0 1 -3
+p480
+aVJuan Dixon WAS 01/12/2005 WAS vs. POR W 17 9 4 6 66.7 0 1 0.0 1 2 50.0 0 2 2 2 0 0 0 2 -4
+p481
+aVEtan Thomas WAS 01/12/2005 WAS vs. POR W 13 4 2 6 33.3 0 0 - 0 3 0.0 2 2 4 0 0 1 1 2 4
+p482
+aVLarry Hughes WAS 01/12/2005 WAS vs. POR W 42 26 10 20 50.0 1 3 33.3 5 7 71.4 0 5 5 9 6 0 3 3 10
+p483
+aVAntawn Jamison WAS 01/12/2005 WAS vs. POR W 33 11 4 17 23.5 0 4 0.0 3 5 60.0 2 4 6 1 0 1 3 1 -5
+p484
+aVJared Jeffries WAS 01/12/2005 WAS vs. POR W 25 6 3 7 42.9 0 1 0.0 0 2 0.0 3 5 8 2 2 0 1 0 5
+p485
+aVJared Jeffries WAS 01/08/2005 WAS vs. MIN W 37 13 5 6 83.3 0 0 - 3 4 75.0 1 5 6 2 1 0 0 4 7
+p486
+aVJarvis Hayes WAS 01/08/2005 WAS vs. MIN W 22 7 2 9 22.2 0 1 0.0 3 3 100.0 2 6 8 1 0 0 0 1 -2
+p487
+aVLarry Hughes WAS 01/08/2005 WAS vs. MIN W 43 28 9 18 50.0 2 4 50.0 8 9 88.9 3 8 11 8 1 0 3 3 5
+p488
+aVBrendan Haywood WAS 01/08/2005 WAS vs. MIN W 33 6 2 6 33.3 0 0 - 2 4 50.0 6 3 9 1 0 0 0 5 1
+p489
+aVGilbert Arenas WAS 01/08/2005 WAS vs. MIN W 45 40 13 26 50.0 3 9 33.3 11 12 91.7 1 0 1 4 2 0 4 4 10
+p490
+aVMichael Ruffin WAS 01/08/2005 WAS vs. MIN W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -3
+p491
+aVAnthony Peeler WAS 01/08/2005 WAS vs. MIN W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -9
+p492
+aVAntawn Jamison WAS 01/08/2005 WAS vs. MIN W 43 23 9 22 40.9 3 7 42.9 2 4 50.0 3 7 10 0 0 0 1 2 6
+p493
+aVJarvis Hayes WAS 01/06/2005 WAS vs. SEA W 28 15 5 10 50.0 3 3 100.0 2 2 100.0 0 2 2 1 1 0 0 0 3
+p494
+aVAntawn Jamison WAS 01/06/2005 WAS vs. SEA W 43 19 8 20 40.0 2 3 66.7 1 2 50.0 1 8 9 0 3 0 0 1 9
+p495
+aVLarry Hughes WAS 01/06/2005 WAS vs. SEA W 46 21 6 15 40.0 1 4 25.0 8 10 80.0 1 7 8 6 1 0 4 4 19
+p496
+aVGilbert Arenas WAS 01/06/2005 WAS vs. SEA W 42 27 7 20 35.0 2 7 28.6 11 11 100.0 1 6 7 4 2 0 2 4 13
+p497
+aVBrendan Haywood WAS 01/06/2005 WAS vs. SEA W 24 12 2 5 40.0 0 0 - 8 8 100.0 5 2 7 1 0 1 2 2 10
+p498
+aVMichael Ruffin WAS 01/06/2005 WAS vs. SEA W 15 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 0 5 0
+p499
+aVJuan Dixon WAS 01/06/2005 WAS vs. SEA W 8 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p500
+aVJared Jeffries WAS 01/06/2005 WAS vs. SEA W 29 11 5 8 62.5 0 0 - 1 2 50.0 4 2 6 1 1 0 1 4 10
+p501
+aVKwame Brown WAS 01/06/2005 WAS vs. SEA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p502
+aVMichael Ruffin WAS 01/04/2005 WAS vs. NJN W 21 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 1 1 2 15
+p503
+aVJarvis Hayes WAS 01/04/2005 WAS vs. NJN W 34 19 7 13 53.8 3 4 75.0 2 2 100.0 0 3 3 3 3 0 0 1 39
+p504
+aVGilbert Arenas WAS 01/04/2005 WAS vs. NJN W 37 20 6 13 46.2 3 8 37.5 5 6 83.3 0 6 6 3 4 0 2 2 19
+p505
+aVBrendan Haywood WAS 01/04/2005 WAS vs. NJN W 31 6 2 9 22.2 0 0 - 2 6 33.3 2 5 7 1 2 1 2 1 6
+p506
+aVAntawn Jamison WAS 01/04/2005 WAS vs. NJN W 42 13 5 12 41.7 2 3 66.7 1 3 33.3 4 6 10 3 0 0 3 2 25
+p507
+aVJared Jeffries WAS 01/04/2005 WAS vs. NJN W 16 9 4 6 66.7 1 1 100.0 0 0 - 1 1 2 1 0 0 1 3 -13
+p508
+aVLarry Hughes WAS 01/04/2005 WAS vs. NJN W 42 33 12 22 54.5 2 6 33.3 7 9 77.8 1 2 3 7 5 1 2 1 21
+p509
+aVJuan Dixon WAS 01/04/2005 WAS vs. NJN W 11 6 2 6 33.3 1 3 33.3 1 1 100.0 0 0 0 3 0 0 0 1 9
+p510
+aVSteve Blake WAS 01/04/2005 WAS vs. NJN W 6 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p511
+aVJared Jeffries WAS 01/02/2005 WAS vs. ATL W 18 6 3 3 100.0 0 0 - 0 1 0.0 1 4 5 1 0 1 4 4 -6
+p512
+aVAntawn Jamison WAS 01/02/2005 WAS vs. ATL W 43 19 6 14 42.9 1 3 33.3 6 7 85.7 2 10 12 2 1 0 2 1 10
+p513
+aVMichael Ruffin WAS 01/02/2005 WAS vs. ATL W 23 0 0 2 0.0 0 0 - 0 0 - 2 5 7 2 2 1 2 2 3
+p514
+aVLarry Hughes WAS 01/02/2005 WAS vs. ATL W 37 26 7 24 29.2 1 3 33.3 11 13 84.6 0 3 3 0 2 0 1 1 -5
+p515
+aVAnthony Peeler WAS 01/02/2005 WAS vs. ATL W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -4
+p516
+aVSteve Blake WAS 01/02/2005 WAS vs. ATL W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 1 0 1 1 8
+p517
+aVJarvis Hayes WAS 01/02/2005 WAS vs. ATL W 27 6 2 8 25.0 0 2 0.0 2 2 100.0 1 3 4 5 0 0 0 3 1
+p518
+aVJuan Dixon WAS 01/02/2005 WAS vs. ATL W 14 15 6 10 60.0 3 4 75.0 0 0 - 0 2 2 2 0 0 2 2 4
+p519
+aVGilbert Arenas WAS 01/02/2005 WAS vs. ATL W 30 17 7 15 46.7 1 4 25.0 2 4 50.0 1 1 2 4 2 0 4 4 2
+p520
+aVBrendan Haywood WAS 01/02/2005 WAS vs. ATL W 30 11 4 6 66.7 0 0 - 3 7 42.9 3 2 5 1 0 3 1 3 2
+p521
+aVJarvis Hayes WAS 12/31/2004 WAS @ BOS L 26 6 2 6 33.3 0 1 0.0 2 2 100.0 1 3 4 1 0 1 2 3 -9
+p522
+aVSteve Blake WAS 12/31/2004 WAS @ BOS L 28 5 2 8 25.0 1 3 33.3 0 0 - 0 3 3 6 0 0 1 3 3
+p523
+aVLarry Hughes WAS 12/31/2004 WAS @ BOS L 37 33 13 20 65.0 6 6 100.0 1 2 50.0 0 6 6 6 1 0 3 3 -3
+p524
+aVMichael Ruffin WAS 12/31/2004 WAS @ BOS L 20 4 2 4 50.0 0 0 - 0 0 - 6 4 10 1 2 0 1 2 -5
+p525
+aVAnthony Peeler WAS 12/31/2004 WAS @ BOS L 23 5 2 7 28.6 1 4 25.0 0 0 - 0 4 4 3 0 0 4 4 -5
+p526
+aVJared Jeffries WAS 12/31/2004 WAS @ BOS L 31 6 3 7 42.9 0 0 - 0 0 - 2 1 3 4 0 0 1 0 0
+p527
+aVBrendan Haywood WAS 12/31/2004 WAS @ BOS L 29 13 5 11 45.5 0 0 - 3 3 100.0 3 3 6 1 3 1 1 1 0
+p528
+aVAntawn Jamison WAS 12/31/2004 WAS @ BOS L 39 29 13 28 46.4 2 4 50.0 1 1 100.0 2 5 7 3 0 0 0 4 -1
+p529
+aVJuan Dixon WAS 12/31/2004 WAS @ BOS L 7 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 -5
+p530
+aVBrendan Haywood WAS 12/29/2004 WAS vs. DET L 30 9 3 6 50.0 0 0 - 3 3 100.0 5 0 5 2 0 1 4 5 -11
+p531
+aVGilbert Arenas WAS 12/29/2004 WAS vs. DET L 43 34 12 19 63.2 5 9 55.6 5 6 83.3 2 2 4 4 2 0 3 5 0
+p532
+aVMichael Ruffin WAS 12/29/2004 WAS vs. DET L 28 2 1 2 50.0 0 0 - 0 0 - 3 6 9 1 1 0 0 1 6
+p533
+aVSteve Blake WAS 12/29/2004 WAS vs. DET L 8 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p534
+aVJared Jeffries WAS 12/29/2004 WAS vs. DET L 23 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 1 1 0 0 4 -8
+p535
+aVJarvis Hayes WAS 12/29/2004 WAS vs. DET L 29 11 5 11 45.5 1 4 25.0 0 0 - 0 2 2 1 0 0 2 4 17
+p536
+aVAntawn Jamison WAS 12/29/2004 WAS vs. DET L 33 16 8 19 42.1 0 3 0.0 0 0 - 2 4 6 2 3 0 2 4 -10
+p537
+aVLarry Hughes WAS 12/29/2004 WAS vs. DET L 46 30 11 20 55.0 1 2 50.0 7 7 100.0 0 4 4 7 6 2 1 1 -2
+p538
+aVAntawn Jamison WAS 12/27/2004 WAS vs. CHA W 30 15 7 17 41.2 0 0 - 1 3 33.3 0 5 5 3 0 0 0 2 16
+p539
+aVGilbert Arenas WAS 12/27/2004 WAS vs. CHA W 34 17 6 10 60.0 2 3 66.7 3 4 75.0 0 4 4 3 1 1 0 2 20
+p540
+aVLarry Hughes WAS 12/27/2004 WAS vs. CHA W 32 20 7 12 58.3 1 2 50.0 5 6 83.3 0 4 4 6 1 1 5 0 14
+p541
+aVJuan Dixon WAS 12/27/2004 WAS vs. CHA W 12 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 3
+p542
+aVBrendan Haywood WAS 12/27/2004 WAS vs. CHA W 22 14 5 6 83.3 0 0 - 4 5 80.0 2 2 4 1 2 1 1 4 5
+p543
+aVJarvis Hayes WAS 12/27/2004 WAS vs. CHA W 26 12 3 9 33.3 0 1 0.0 6 6 100.0 2 4 6 1 3 0 1 2 10
+p544
+aVSteve Blake WAS 12/27/2004 WAS vs. CHA W 20 4 2 5 40.0 0 3 0.0 0 0 - 0 2 2 1 0 0 3 0 2
+p545
+aVKwame Brown WAS 12/27/2004 WAS vs. CHA W 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -3
+p546
+aVJared Jeffries WAS 12/27/2004 WAS vs. CHA W 32 15 7 8 87.5 0 1 0.0 1 2 50.0 3 2 5 2 1 0 1 4 14
+p547
+aVMichael Ruffin WAS 12/27/2004 WAS vs. CHA W 25 1 0 0 - 0 0 - 1 2 50.0 3 4 7 0 1 1 2 3 14
+p548
+aVLarry Hughes WAS 12/26/2004 WAS @ MIN L 28 13 6 11 54.5 0 1 0.0 1 2 50.0 0 6 6 4 1 0 3 2 -15
+p549
+aVGilbert Arenas WAS 12/26/2004 WAS @ MIN L 36 21 7 13 53.8 2 5 40.0 5 5 100.0 1 4 5 3 0 0 5 2 -20
+p550
+aVJared Jeffries WAS 12/26/2004 WAS @ MIN L 17 2 1 4 25.0 0 0 - 0 0 - 1 5 6 0 0 0 2 0 -5
+p551
+aVSamaki Walker WAS 12/26/2004 WAS @ MIN L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 3 2 -11
+p552
+aVSteve Blake WAS 12/26/2004 WAS @ MIN L 12 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 0 3 2 -16
+p553
+aVJuan Dixon WAS 12/26/2004 WAS @ MIN L 13 7 3 8 37.5 1 4 25.0 0 0 - 0 1 1 0 0 0 1 0 -15
+p554
+aVAnthony Peeler WAS 12/26/2004 WAS @ MIN L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p555
+aVMichael Ruffin WAS 12/26/2004 WAS @ MIN L 20 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -16
+p556
+aVJarvis Hayes WAS 12/26/2004 WAS @ MIN L 25 7 3 12 25.0 1 4 25.0 0 0 - 1 1 2 3 1 1 0 0 -19
+p557
+aVAntawn Jamison WAS 12/26/2004 WAS @ MIN L 32 8 4 10 40.0 0 2 0.0 0 0 - 1 5 6 0 0 0 1 4 -19
+p558
+aVKwame Brown WAS 12/26/2004 WAS @ MIN L 27 5 1 5 20.0 0 0 - 3 6 50.0 4 2 6 4 0 0 2 1 -26
+p559
+aVBrendan Haywood WAS 12/26/2004 WAS @ MIN L 17 5 2 6 33.3 0 0 - 1 1 100.0 1 0 1 0 0 1 0 3 -9
+p560
+aVLarry Hughes WAS 12/21/2004 WAS @ SAC L 42 19 8 20 40.0 0 1 0.0 3 4 75.0 2 2 4 7 3 0 3 1 -9
+p561
+aVGilbert Arenas WAS 12/21/2004 WAS @ SAC L 41 22 8 17 47.1 4 11 36.4 2 3 66.7 0 6 6 4 2 0 4 5 -9
+p562
+aVJarvis Hayes WAS 12/21/2004 WAS @ SAC L 27 9 4 12 33.3 1 2 50.0 0 0 - 0 2 2 1 2 1 1 1 -17
+p563
+aVLaron Profit WAS 12/21/2004 WAS @ SAC L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -2
+p564
+aVAntawn Jamison WAS 12/21/2004 WAS @ SAC L 38 20 7 14 50.0 2 4 50.0 4 4 100.0 3 5 8 1 0 2 2 1 -11
+p565
+aVMichael Ruffin WAS 12/21/2004 WAS @ SAC L 13 0 0 1 0.0 0 0 - 0 0 - 4 0 4 0 0 1 0 3 2
+p566
+aVJared Jeffries WAS 12/21/2004 WAS @ SAC L 17 6 3 6 50.0 0 1 0.0 0 2 0.0 1 2 3 2 1 0 3 1 5
+p567
+aVKwame Brown WAS 12/21/2004 WAS @ SAC L 21 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 2 1 0 3 1 -14
+p568
+aVAnthony Peeler WAS 12/21/2004 WAS @ SAC L 9 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 1 0 0 1 2 -2
+p569
+aVBrendan Haywood WAS 12/21/2004 WAS @ SAC L 25 11 5 5 100.0 0 0 - 1 2 50.0 1 2 3 1 0 2 3 1 2
+p570
+aVJared Jeffries WAS 12/20/2004 WAS @ GSW W 20 2 0 4 0.0 0 0 - 2 2 100.0 0 0 0 2 1 0 2 4 6
+p571
+aVAntawn Jamison WAS 12/20/2004 WAS @ GSW W 35 18 8 23 34.8 0 0 - 2 3 66.7 4 7 11 2 1 0 1 2 5
+p572
+aVMichael Ruffin WAS 12/20/2004 WAS @ GSW W 25 3 1 3 33.3 0 0 - 1 4 25.0 11 1 12 2 0 0 1 4 -14
+p573
+aVKwame Brown WAS 12/20/2004 WAS @ GSW W 19 7 1 6 16.7 0 0 - 5 6 83.3 2 0 2 0 1 0 5 3 2
+p574
+aVAnthony Peeler WAS 12/20/2004 WAS @ GSW W 13 10 3 4 75.0 1 1 100.0 3 4 75.0 0 2 2 1 0 0 2 0 1
+p575
+aVLarry Hughes WAS 12/20/2004 WAS @ GSW W 38 25 10 18 55.6 1 2 50.0 4 6 66.7 3 5 8 3 0 1 2 5 7
+p576
+aVGilbert Arenas WAS 12/20/2004 WAS @ GSW W 37 29 8 13 61.5 2 6 33.3 11 16 68.8 1 6 7 5 2 0 4 4 4
+p577
+aVBrendan Haywood WAS 12/20/2004 WAS @ GSW W 25 7 2 3 66.7 0 0 - 3 4 75.0 1 3 4 2 0 1 2 3 10
+p578
+aVJuan Dixon WAS 12/20/2004 WAS @ GSW W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p579
+aVJarvis Hayes WAS 12/20/2004 WAS @ GSW W 20 2 1 8 12.5 0 1 0.0 0 0 - 1 3 4 2 1 0 2 0 -5
+p580
+aVAnthony Peeler WAS 12/18/2004 WAS @ PHX L 16 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 3 1 0 0 2 -1
+p581
+aVMichael Ruffin WAS 12/18/2004 WAS @ PHX L 11 0 0 0 - 0 0 - 0 0 - 2 0 2 1 2 1 1 0 -3
+p582
+aVJuan Dixon WAS 12/18/2004 WAS @ PHX L 8 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 0 0 1 1 2
+p583
+aVBrendan Haywood WAS 12/18/2004 WAS @ PHX L 27 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 1 1 0 2 0 -13
+p584
+aVJarvis Hayes WAS 12/18/2004 WAS @ PHX L 27 4 2 5 40.0 0 3 0.0 0 0 - 1 1 2 2 0 0 1 1 -5
+p585
+aVKwame Brown WAS 12/18/2004 WAS @ PHX L 14 4 2 4 50.0 0 0 - 0 0 - 0 7 7 2 0 0 1 3 1
+p586
+aVGilbert Arenas WAS 12/18/2004 WAS @ PHX L 34 19 7 17 41.2 2 7 28.6 3 5 60.0 1 3 4 4 2 0 1 2 -11
+p587
+aVLarry Hughes WAS 12/18/2004 WAS @ PHX L 36 19 8 18 44.4 1 3 33.3 2 3 66.7 0 5 5 6 2 0 3 3 -18
+p588
+aVJared Jeffries WAS 12/18/2004 WAS @ PHX L 20 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -9
+p589
+aVLaron Profit WAS 12/18/2004 WAS @ PHX L 10 9 4 7 57.1 1 1 100.0 0 0 - 2 2 4 0 0 0 2 1 5
+p590
+aVAntawn Jamison WAS 12/18/2004 WAS @ PHX L 37 25 11 17 64.7 3 4 75.0 0 0 - 1 8 9 2 0 1 6 2 -18
+p591
+aVMichael Ruffin WAS 12/17/2004 WAS @ LAL W 18 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 1 5 -2
+p592
+aVAnthony Peeler WAS 12/17/2004 WAS @ LAL W 18 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 3 0 0 0 1 8
+p593
+aVJared Jeffries WAS 12/17/2004 WAS @ LAL W 32 8 4 7 57.1 0 0 - 0 0 - 1 2 3 5 0 1 1 2 8
+p594
+aVBrendan Haywood WAS 12/17/2004 WAS @ LAL W 23 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 2 4 2 0 3 10
+p595
+aVJarvis Hayes WAS 12/17/2004 WAS @ LAL W 19 4 2 5 40.0 0 0 - 0 0 - 1 4 5 2 0 0 0 0 -10
+p596
+aVLarry Hughes WAS 12/17/2004 WAS @ LAL W 43 33 15 21 71.4 0 1 0.0 3 6 50.0 0 5 5 6 2 0 1 3 7
+p597
+aVKwame Brown WAS 12/17/2004 WAS @ LAL W 22 8 4 8 50.0 0 0 - 0 0 - 2 1 3 1 0 2 1 3 -7
+p598
+aVAntawn Jamison WAS 12/17/2004 WAS @ LAL W 41 22 9 21 42.9 1 3 33.3 3 4 75.0 2 5 7 2 0 0 1 2 3
+p599
+aVGilbert Arenas WAS 12/17/2004 WAS @ LAL W 49 37 11 25 44.0 1 6 16.7 14 15 93.3 1 5 6 7 1 0 1 2 3
+p600
+aVLarry Hughes WAS 12/15/2004 WAS vs. MIA L 39 19 8 18 44.4 0 1 0.0 3 4 75.0 2 4 6 2 3 1 2 2 -7
+p601
+aVAntawn Jamison WAS 12/15/2004 WAS vs. MIA L 33 26 10 26 38.5 1 7 14.3 5 5 100.0 2 3 5 1 1 0 1 4 -8
+p602
+aVBrendan Haywood WAS 12/15/2004 WAS vs. MIA L 30 9 2 4 50.0 0 0 - 5 9 55.6 5 7 12 3 0 2 4 4 -4
+p603
+aVGilbert Arenas WAS 12/15/2004 WAS vs. MIA L 46 22 8 20 40.0 1 5 20.0 5 7 71.4 0 7 7 8 4 0 2 2 -5
+p604
+aVKwame Brown WAS 12/15/2004 WAS vs. MIA L 19 4 2 4 50.0 0 0 - 0 0 - 3 6 9 0 0 0 1 4 1
+p605
+aVAnthony Peeler WAS 12/15/2004 WAS vs. MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p606
+aVJarvis Hayes WAS 12/15/2004 WAS vs. MIA L 25 6 3 11 27.3 0 2 0.0 0 0 - 1 3 4 0 0 0 0 1 -7
+p607
+aVJuan Dixon WAS 12/15/2004 WAS vs. MIA L 6 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 4
+p608
+aVJared Jeffries WAS 12/15/2004 WAS vs. MIA L 30 5 2 5 40.0 0 0 - 1 4 25.0 3 5 8 1 1 0 1 3 1
+p609
+aVMichael Ruffin WAS 12/15/2004 WAS vs. MIA L 7 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 1 0 1 2
+p610
+aVKwame Brown WAS 12/13/2004 WAS @ MIA L 22 16 6 9 66.7 0 0 - 4 5 80.0 2 2 4 0 0 0 1 5 -12
+p611
+aVJarvis Hayes WAS 12/13/2004 WAS @ MIA L 19 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 1 1 0 1 1 -3
+p612
+aVJuan Dixon WAS 12/13/2004 WAS @ MIA L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 1 0 4
+p613
+aVAntawn Jamison WAS 12/13/2004 WAS @ MIA L 43 12 5 17 29.4 1 4 25.0 1 4 25.0 3 7 10 5 0 2 1 4 -23
+p614
+aVAnthony Peeler WAS 12/13/2004 WAS @ MIA L 16 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 1 2 0 1 2 -17
+p615
+aVLaron Profit WAS 12/13/2004 WAS @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p616
+aVJared Jeffries WAS 12/13/2004 WAS @ MIA L 27 5 2 3 66.7 0 0 - 1 2 50.0 0 6 6 0 0 1 1 3 -9
+p617
+aVGilbert Arenas WAS 12/13/2004 WAS @ MIA L 39 18 5 18 27.8 2 6 33.3 6 6 100.0 0 2 2 4 0 0 3 3 -19
+p618
+aVMichael Ruffin WAS 12/13/2004 WAS @ MIA L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -1
+p619
+aVBrendan Haywood WAS 12/13/2004 WAS @ MIA L 20 6 2 3 66.7 0 0 - 2 4 50.0 1 4 5 0 1 0 1 6 -10
+p620
+aVLarry Hughes WAS 12/13/2004 WAS @ MIA L 40 12 5 22 22.7 0 2 0.0 2 2 100.0 3 5 8 4 1 0 2 2 -24
+p621
+aVSamaki Walker WAS 12/12/2004 WAS vs. NOH W 11 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 6 -7
+p622
+aVJared Jeffries WAS 12/12/2004 WAS vs. NOH W 25 5 2 8 25.0 0 0 - 1 2 50.0 2 4 6 2 2 0 3 3 27
+p623
+aVJuan Dixon WAS 12/12/2004 WAS vs. NOH W 9 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 1
+p624
+aVMichael Ruffin WAS 12/12/2004 WAS vs. NOH W 10 0 0 0 - 0 0 - 0 0 - 2 2 4 0 1 0 0 0 1
+p625
+aVBrendan Haywood WAS 12/12/2004 WAS vs. NOH W 28 17 6 9 66.7 0 0 - 5 5 100.0 4 2 6 0 2 2 1 2 14
+p626
+aVLaron Profit WAS 12/12/2004 WAS vs. NOH W 8 1 0 2 0.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 2 0 -11
+p627
+aVKwame Brown WAS 12/12/2004 WAS vs. NOH W 20 6 3 5 60.0 0 0 - 0 0 - 0 4 4 1 1 0 2 2 5
+p628
+aVAntawn Jamison WAS 12/12/2004 WAS vs. NOH W 30 17 7 14 50.0 0 4 0.0 3 4 75.0 2 1 3 0 2 0 0 3 25
+p629
+aVLarry Hughes WAS 12/12/2004 WAS vs. NOH W 34 15 6 18 33.3 1 3 33.3 2 2 100.0 0 9 9 5 4 0 5 3 26
+p630
+aVGilbert Arenas WAS 12/12/2004 WAS vs. NOH W 38 16 6 13 46.2 1 4 25.0 3 3 100.0 3 3 6 6 6 0 3 2 14
+p631
+aVJarvis Hayes WAS 12/12/2004 WAS vs. NOH W 20 4 2 11 18.2 0 3 0.0 0 2 0.0 1 2 3 0 2 0 3 3 -8
+p632
+aVAnthony Peeler WAS 12/12/2004 WAS vs. NOH W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 0 0 8
+p633
+aVSamaki Walker WAS 12/10/2004 WAS vs. NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p634
+aVBrendan Haywood WAS 12/10/2004 WAS vs. NYK W 36 17 6 9 66.7 0 0 - 5 12 41.7 9 5 14 0 1 4 2 2 12
+p635
+aVLarry Hughes WAS 12/10/2004 WAS vs. NYK W 37 18 6 12 50.0 0 2 0.0 6 8 75.0 1 4 5 9 3 0 2 2 11
+p636
+aVAnthony Peeler WAS 12/10/2004 WAS vs. NYK W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 -7
+p637
+aVJared Jeffries WAS 12/10/2004 WAS vs. NYK W 28 12 5 7 71.4 1 2 50.0 1 2 50.0 3 2 5 2 3 1 1 1 14
+p638
+aVJarvis Hayes WAS 12/10/2004 WAS vs. NYK W 18 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 0 1 0 1 1 -10
+p639
+aVAntawn Jamison WAS 12/10/2004 WAS vs. NYK W 45 25 11 25 44.0 1 2 50.0 2 2 100.0 8 5 13 7 1 1 3 2 9
+p640
+aVMichael Ruffin WAS 12/10/2004 WAS vs. NYK W 12 4 1 2 50.0 0 1 0.0 2 2 100.0 3 1 4 1 1 0 0 2 -10
+p641
+aVJuan Dixon WAS 12/10/2004 WAS vs. NYK W 12 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 -13
+p642
+aVGilbert Arenas WAS 12/10/2004 WAS vs. NYK W 41 20 8 24 33.3 3 10 30.0 1 2 50.0 2 3 5 7 2 0 3 4 13
+p643
+aVJared Jeffries WAS 12/08/2004 WAS vs. DEN L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 1 0 3 -9
+p644
+aVMichael Ruffin WAS 12/08/2004 WAS vs. DEN L 22 2 0 1 0.0 0 0 - 2 2 100.0 1 5 6 1 1 1 0 1 4
+p645
+aVAnthony Peeler WAS 12/08/2004 WAS vs. DEN L 8 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 1 1 0 2 1 -5
+p646
+aVAntawn Jamison WAS 12/08/2004 WAS vs. DEN L 42 27 12 22 54.5 0 1 0.0 3 4 75.0 4 7 11 5 0 1 2 2 -2
+p647
+aVGilbert Arenas WAS 12/08/2004 WAS vs. DEN L 43 28 10 20 50.0 4 10 40.0 4 5 80.0 1 3 4 3 1 0 4 4 -7
+p648
+aVKwame Brown WAS 12/08/2004 WAS vs. DEN L 6 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -4
+p649
+aVBrendan Haywood WAS 12/08/2004 WAS vs. DEN L 25 6 2 6 33.3 0 0 - 2 2 100.0 4 5 9 0 0 2 2 6 -10
+p650
+aVJuan Dixon WAS 12/08/2004 WAS vs. DEN L 5 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 1
+p651
+aVJarvis Hayes WAS 12/08/2004 WAS vs. DEN L 31 10 5 8 62.5 0 0 - 0 0 - 1 0 1 1 0 1 0 4 3
+p652
+aVLarry Hughes WAS 12/08/2004 WAS vs. DEN L 40 15 6 18 33.3 0 3 0.0 3 6 50.0 2 6 8 5 1 1 1 2 -1
+p653
+aVJared Jeffries WAS 12/04/2004 WAS vs. CHI W 23 10 3 5 60.0 1 1 100.0 3 8 37.5 1 5 6 3 2 0 2 1 10
+p654
+aVAnthony Peeler WAS 12/04/2004 WAS vs. CHI W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 -3
+p655
+aVJarvis Hayes WAS 12/04/2004 WAS vs. CHI W 25 2 1 6 16.7 0 0 - 0 0 - 0 1 1 2 0 0 1 3 -4
+p656
+aVGilbert Arenas WAS 12/04/2004 WAS vs. CHI W 42 34 10 25 40.0 3 6 50.0 11 14 78.6 2 1 3 3 3 0 3 3 15
+p657
+aVJuan Dixon WAS 12/04/2004 WAS vs. CHI W 11 9 3 7 42.9 1 2 50.0 2 2 100.0 0 0 0 2 0 0 0 0 -7
+p658
+aVMichael Ruffin WAS 12/04/2004 WAS vs. CHI W 13 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 3 -4
+p659
+aVKwame Brown WAS 12/04/2004 WAS vs. CHI W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p660
+aVAntawn Jamison WAS 12/04/2004 WAS vs. CHI W 45 14 5 18 27.8 0 1 0.0 4 6 66.7 5 8 13 0 1 0 1 4 5
+p661
+aVBrendan Haywood WAS 12/04/2004 WAS vs. CHI W 32 4 2 4 50.0 0 0 - 0 0 - 4 1 5 0 2 3 0 6 9
+p662
+aVLarry Hughes WAS 12/04/2004 WAS vs. CHI W 34 18 4 15 26.7 0 2 0.0 10 14 71.4 1 3 4 1 7 0 1 3 14
+p663
+aVJuan Dixon WAS 12/03/2004 WAS @ ATL W 22 17 6 12 50.0 3 6 50.0 2 2 100.0 1 3 4 3 2 0 1 1 -4
+p664
+aVAntawn Jamison WAS 12/03/2004 WAS @ ATL W 25 13 5 11 45.5 1 2 50.0 2 2 100.0 0 3 3 2 0 0 0 2 24
+p665
+aVJared Jeffries WAS 12/03/2004 WAS @ ATL W 28 12 5 7 71.4 1 1 100.0 1 2 50.0 1 4 5 1 1 0 1 4 20
+p666
+aVJarvis Hayes WAS 12/03/2004 WAS @ ATL W 25 9 3 8 37.5 1 4 25.0 2 2 100.0 0 3 3 0 2 0 1 3 -5
+p667
+aVLarry Hughes WAS 12/03/2004 WAS @ ATL W 26 19 8 16 50.0 1 3 33.3 2 2 100.0 2 2 4 5 6 0 2 1 28
+p668
+aVMichael Ruffin WAS 12/03/2004 WAS @ ATL W 20 3 1 3 33.3 0 0 - 1 2 50.0 5 1 6 1 2 0 2 6 8
+p669
+aVGilbert Arenas WAS 12/03/2004 WAS @ ATL W 26 13 4 7 57.1 2 3 66.7 3 3 100.0 0 4 4 8 4 0 1 2 28
+p670
+aVBrendan Haywood WAS 12/03/2004 WAS @ ATL W 26 11 3 4 75.0 0 0 - 5 6 83.3 2 6 8 0 0 2 2 4 20
+p671
+aVAnthony Peeler WAS 12/03/2004 WAS @ ATL W 22 7 2 9 22.2 2 6 33.3 1 2 50.0 0 2 2 3 1 0 0 2 -4
+p672
+aVKwame Brown WAS 12/03/2004 WAS @ ATL W 20 10 3 6 50.0 0 0 - 4 8 50.0 1 1 2 1 0 0 1 2 5
+p673
+aVMichael Ruffin WAS 12/01/2004 WAS vs. NJN W 23 0 0 2 0.0 0 0 - 0 2 0.0 1 4 5 1 0 1 1 5 20
+p674
+aVGilbert Arenas WAS 12/01/2004 WAS vs. NJN W 37 30 8 17 47.1 3 5 60.0 11 14 78.6 1 6 7 5 1 0 1 2 25
+p675
+aVBrendan Haywood WAS 12/01/2004 WAS vs. NJN W 30 7 2 5 40.0 0 0 - 3 6 50.0 3 10 13 0 0 4 2 5 23
+p676
+aVAnthony Peeler WAS 12/01/2004 WAS vs. NJN W 18 9 4 7 57.1 1 4 25.0 0 0 - 2 2 4 2 1 0 0 2 -1
+p677
+aVJared Jeffries WAS 12/01/2004 WAS vs. NJN W 11 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 5 1
+p678
+aVAntawn Jamison WAS 12/01/2004 WAS vs. NJN W 36 18 9 17 52.9 0 2 0.0 0 0 - 2 7 9 4 0 0 1 3 25
+p679
+aVJarvis Hayes WAS 12/01/2004 WAS vs. NJN W 27 7 3 10 30.0 0 2 0.0 1 2 50.0 2 4 6 1 0 0 0 2 15
+p680
+aVJuan Dixon WAS 12/01/2004 WAS vs. NJN W 12 2 1 3 33.3 0 0 - 0 1 0.0 1 0 1 2 0 0 1 1 -1
+p681
+aVKwame Brown WAS 12/01/2004 WAS vs. NJN W 14 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 2
+p682
+aVLarry Hughes WAS 12/01/2004 WAS vs. NJN W 32 15 4 16 25.0 1 4 25.0 6 8 75.0 0 4 4 9 4 0 1 2 26
+p683
+aVBrendan Haywood WAS 11/28/2004 WAS @ TOR W 45 22 10 15 66.7 0 0 - 2 4 50.0 4 6 10 3 1 2 4 2 -1
+p684
+aVGilbert Arenas WAS 11/28/2004 WAS @ TOR W 41 27 11 21 52.4 2 5 40.0 3 3 100.0 1 1 2 5 0 0 2 2 1
+p685
+aVJuan Dixon WAS 11/28/2004 WAS @ TOR W 12 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 3 7
+p686
+aVJared Jeffries WAS 11/28/2004 WAS @ TOR W 19 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 0 -11
+p687
+aVSamaki Walker WAS 11/28/2004 WAS @ TOR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 0 7
+p688
+aVMichael Ruffin WAS 11/28/2004 WAS @ TOR W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p689
+aVJarvis Hayes WAS 11/28/2004 WAS @ TOR W 36 11 2 4 50.0 1 2 50.0 6 6 100.0 1 7 8 3 0 0 0 2 14
+p690
+aVAntawn Jamison WAS 11/28/2004 WAS @ TOR W 47 15 7 18 38.9 1 3 33.3 0 0 - 2 8 10 4 1 0 3 1 2
+p691
+aVLarry Hughes WAS 11/28/2004 WAS @ TOR W 52 33 11 21 52.4 1 5 20.0 10 15 66.7 1 9 10 10 1 1 2 4 2
+p692
+aVAnthony Peeler WAS 11/26/2004 WAS @ PHI L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 2 1 0 0 3 -4
+p693
+aVAntawn Jamison WAS 11/26/2004 WAS @ PHI L 45 27 11 19 57.9 2 4 50.0 3 5 60.0 4 11 15 1 0 0 1 5 6
+p694
+aVJared Jeffries WAS 11/26/2004 WAS @ PHI L 28 8 3 7 42.9 0 2 0.0 2 5 40.0 3 3 6 0 1 0 3 1 -14
+p695
+aVJarvis Hayes WAS 11/26/2004 WAS @ PHI L 36 18 6 15 40.0 4 8 50.0 2 2 100.0 0 7 7 4 0 0 2 0 2
+p696
+aVGilbert Arenas WAS 11/26/2004 WAS @ PHI L 45 23 8 19 42.1 4 8 50.0 3 4 75.0 1 2 3 4 0 0 4 5 3
+p697
+aVJuan Dixon WAS 11/26/2004 WAS @ PHI L 13 2 1 7 14.3 0 2 0.0 0 0 - 2 3 5 1 0 0 3 2 0
+p698
+aVBrendan Haywood WAS 11/26/2004 WAS @ PHI L 36 14 7 10 70.0 0 0 - 0 2 0.0 6 8 14 1 0 1 1 5 13
+p699
+aVLarry Hughes WAS 11/26/2004 WAS @ PHI L 38 20 6 18 33.3 1 6 16.7 7 7 100.0 3 9 12 9 0 0 2 5 -3
+p700
+aVMichael Ruffin WAS 11/26/2004 WAS @ PHI L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -13
+p701
+aVBrendan Haywood WAS 11/23/2004 WAS vs. TOR W 32 3 1 6 16.7 0 0 - 1 2 50.0 5 6 11 2 0 0 1 4 15
+p702
+aVJared Jeffries WAS 11/23/2004 WAS vs. TOR W 29 10 4 11 36.4 1 2 50.0 1 1 100.0 7 5 12 2 0 0 1 2 23
+p703
+aVSteve Blake WAS 11/23/2004 WAS vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -3
+p704
+aVAntawn Jamison WAS 11/23/2004 WAS vs. TOR W 41 28 11 22 50.0 1 4 25.0 5 5 100.0 6 7 13 4 4 1 2 3 22
+p705
+aVAnthony Peeler WAS 11/23/2004 WAS vs. TOR W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 -1
+p706
+aVGilbert Arenas WAS 11/23/2004 WAS vs. TOR W 38 26 10 23 43.5 3 8 37.5 3 4 75.0 1 4 5 4 1 0 1 4 23
+p707
+aVJarvis Hayes WAS 11/23/2004 WAS vs. TOR W 26 9 4 9 44.4 1 2 50.0 0 2 0.0 2 7 9 2 0 0 4 3 -2
+p708
+aVLarry Hughes WAS 11/23/2004 WAS vs. TOR W 39 20 7 21 33.3 3 5 60.0 3 4 75.0 3 4 7 3 1 1 1 5 16
+p709
+aVMichael Ruffin WAS 11/23/2004 WAS vs. TOR W 13 0 0 0 - 0 0 - 0 2 0.0 1 3 4 0 0 0 1 4 -7
+p710
+aVJuan Dixon WAS 11/23/2004 WAS vs. TOR W 12 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 1 0 0 1 3 -6
+p711
+aVBrendan Haywood WAS 11/20/2004 WAS @ NJN W 23 4 2 11 18.2 0 0 - 0 0 - 3 1 4 0 0 1 0 4 1
+p712
+aVLarry Hughes WAS 11/20/2004 WAS @ NJN W 35 22 7 14 50.0 2 3 66.7 6 9 66.7 1 2 3 3 5 0 3 4 -2
+p713
+aVJarvis Hayes WAS 11/20/2004 WAS @ NJN W 26 14 5 9 55.6 0 0 - 4 4 100.0 0 2 2 1 0 0 0 2 17
+p714
+aVAntawn Jamison WAS 11/20/2004 WAS @ NJN W 39 27 9 17 52.9 2 4 50.0 7 8 87.5 2 3 5 2 1 0 1 1 8
+p715
+aVMichael Ruffin WAS 11/20/2004 WAS @ NJN W 24 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 1 1 0 3 7
+p716
+aVJared Jeffries WAS 11/20/2004 WAS @ NJN W 33 8 3 5 60.0 0 1 0.0 2 4 50.0 3 3 6 2 2 1 3 3 0
+p717
+aVGilbert Arenas WAS 11/20/2004 WAS @ NJN W 28 7 0 4 0.0 0 3 0.0 7 8 87.5 0 3 3 5 0 0 1 4 -2
+p718
+aVJuan Dixon WAS 11/20/2004 WAS @ NJN W 13 8 2 5 40.0 1 2 50.0 3 4 75.0 0 5 5 2 0 0 1 0 13
+p719
+aVAnthony Peeler WAS 11/20/2004 WAS @ NJN W 16 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 1 18
+p720
+aVSteve Blake WAS 11/20/2004 WAS @ NJN W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p721
+aVAnthony Peeler WAS 11/17/2004 WAS vs. BOS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p722
+aVJuan Dixon WAS 11/17/2004 WAS vs. BOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p723
+aVMichael Ruffin WAS 11/17/2004 WAS vs. BOS W 19 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 2 1 5 -12
+p724
+aVBrendan Haywood WAS 11/17/2004 WAS vs. BOS W 33 6 2 9 22.2 0 0 - 2 4 50.0 5 5 10 0 1 4 2 5 18
+p725
+aVAntawn Jamison WAS 11/17/2004 WAS vs. BOS W 49 27 8 24 33.3 2 5 40.0 9 12 75.0 4 6 10 4 0 0 1 2 13
+p726
+aVGilbert Arenas WAS 11/17/2004 WAS vs. BOS W 47 25 8 25 32.0 2 7 28.6 7 7 100.0 3 2 5 7 3 1 4 3 11
+p727
+aVLarry Hughes WAS 11/17/2004 WAS vs. BOS W 44 21 7 14 50.0 1 3 33.3 6 6 100.0 3 9 12 7 6 0 5 4 8
+p728
+aVJared Jeffries WAS 11/17/2004 WAS vs. BOS W 35 15 5 9 55.6 0 2 0.0 5 6 83.3 4 3 7 2 0 1 3 4 9
+p729
+aVLaron Profit WAS 11/17/2004 WAS vs. BOS W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p730
+aVJarvis Hayes WAS 11/17/2004 WAS vs. BOS W 20 14 3 9 33.3 1 1 100.0 7 8 87.5 1 1 2 2 1 0 1 6 -5
+p731
+aVJarvis Hayes WAS 11/14/2004 WAS vs. DAL L 31 14 4 13 30.8 0 3 0.0 6 7 85.7 2 5 7 3 1 0 2 4 -1
+p732
+aVAnthony Peeler WAS 11/14/2004 WAS vs. DAL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p733
+aVGilbert Arenas WAS 11/14/2004 WAS vs. DAL L 39 20 8 17 47.1 3 5 60.0 1 1 100.0 0 2 2 9 1 0 4 5 -9
+p734
+aVMichael Ruffin WAS 11/14/2004 WAS vs. DAL L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -9
+p735
+aVJuan Dixon WAS 11/14/2004 WAS vs. DAL L 12 5 2 7 28.6 1 3 33.3 0 0 - 2 3 5 1 0 0 1 0 -2
+p736
+aVAntawn Jamison WAS 11/14/2004 WAS vs. DAL L 43 23 8 18 44.4 1 3 33.3 6 7 85.7 5 4 9 6 1 1 3 4 0
+p737
+aVLarry Hughes WAS 11/14/2004 WAS vs. DAL L 38 23 8 16 50.0 0 2 0.0 7 8 87.5 0 6 6 8 4 0 3 2 -10
+p738
+aVBrendan Haywood WAS 11/14/2004 WAS vs. DAL L 40 20 9 10 90.0 0 0 - 2 4 50.0 5 4 9 0 5 4 1 3 0
+p739
+aVJared Jeffries WAS 11/14/2004 WAS vs. DAL L 24 7 3 6 50.0 1 1 100.0 0 0 - 4 1 5 2 0 0 2 5 -17
+p740
+aVPeter Ramos WAS 11/13/2004 WAS @ CLE L 4 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p741
+aVJuan Dixon WAS 11/13/2004 WAS @ CLE L 20 5 2 6 33.3 0 1 0.0 1 1 100.0 0 1 1 2 0 0 0 1 -20
+p742
+aVBrendan Haywood WAS 11/13/2004 WAS @ CLE L 28 10 4 8 50.0 0 0 - 2 4 50.0 2 2 4 1 1 7 2 3 -10
+p743
+aVAnthony Peeler WAS 11/13/2004 WAS @ CLE L 21 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 0 0 2 1 -18
+p744
+aVAntawn Jamison WAS 11/13/2004 WAS @ CLE L 39 14 6 17 35.3 0 0 - 2 2 100.0 3 6 9 1 1 1 2 1 -24
+p745
+aVLarry Hughes WAS 11/13/2004 WAS @ CLE L 26 7 3 12 25.0 1 1 100.0 0 0 - 1 2 3 2 1 0 2 3 -10
+p746
+aVLaron Profit WAS 11/13/2004 WAS @ CLE L 4 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 1 0 0 0 -4
+p747
+aVJarvis Hayes WAS 11/13/2004 WAS @ CLE L 24 2 1 7 14.3 0 0 - 0 0 - 2 4 6 4 0 0 0 0 -17
+p748
+aVSamaki Walker WAS 11/13/2004 WAS @ CLE L 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -1
+p749
+aVGilbert Arenas WAS 11/13/2004 WAS @ CLE L 34 25 9 20 45.0 3 5 60.0 4 5 80.0 0 1 1 2 2 0 1 3 -22
+p750
+aVJared Jeffries WAS 11/13/2004 WAS @ CLE L 14 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 2 -8
+p751
+aVMichael Ruffin WAS 11/13/2004 WAS @ CLE L 20 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 2 4 -17
+p752
+aVLaron Profit WAS 11/10/2004 WAS vs. ORL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p753
+aVJarvis Hayes WAS 11/10/2004 WAS vs. ORL W 36 15 4 13 30.8 0 2 0.0 7 8 87.5 2 2 4 2 4 0 1 4 -1
+p754
+aVAnthony Peeler WAS 11/10/2004 WAS vs. ORL W 16 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 2 2 0 2 1 -7
+p755
+aVBrendan Haywood WAS 11/10/2004 WAS vs. ORL W 23 13 5 7 71.4 0 0 - 3 4 75.0 2 3 5 0 0 2 3 6 15
+p756
+aVAntawn Jamison WAS 11/10/2004 WAS vs. ORL W 43 26 10 20 50.0 0 2 0.0 6 6 100.0 3 8 11 2 1 0 1 2 14
+p757
+aVJuan Dixon WAS 11/10/2004 WAS vs. ORL W 14 9 4 8 50.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 0 -2
+p758
+aVGilbert Arenas WAS 11/10/2004 WAS vs. ORL W 42 10 4 10 40.0 1 6 16.7 1 2 50.0 0 4 4 6 1 1 4 3 11
+p759
+aVLarry Hughes WAS 11/10/2004 WAS vs. ORL W 32 26 8 18 44.4 0 3 0.0 10 11 90.9 3 2 5 4 3 0 2 4 19
+p760
+aVSamaki Walker WAS 11/10/2004 WAS vs. ORL W 5 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 0 0 1 0 4
+p761
+aVMichael Ruffin WAS 11/10/2004 WAS vs. ORL W 25 5 1 4 25.0 0 0 - 3 3 100.0 2 5 7 2 1 2 0 4 1
+p762
+aVMichael Ruffin WAS 11/09/2004 WAS @ MIA L 28 0 0 0 - 0 0 - 0 2 0.0 2 4 6 1 0 0 0 3 -20
+p763
+aVJarvis Hayes WAS 11/09/2004 WAS @ MIA L 29 11 4 10 40.0 0 1 0.0 3 5 60.0 1 5 6 0 0 0 2 1 -18
+p764
+aVSamaki Walker WAS 11/09/2004 WAS @ MIA L 17 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 11
+p765
+aVAnthony Peeler WAS 11/09/2004 WAS @ MIA L 17 13 6 8 75.0 1 2 50.0 0 0 - 1 4 5 4 1 0 1 1 11
+p766
+aVLaron Profit WAS 11/09/2004 WAS @ MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 8
+p767
+aVJared Jeffries WAS 11/09/2004 WAS @ MIA L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 2 0 -3
+p768
+aVAntawn Jamison WAS 11/09/2004 WAS @ MIA L 31 14 6 18 33.3 0 2 0.0 2 2 100.0 3 4 7 1 1 0 2 1 -28
+p769
+aVPeter Ramos WAS 11/09/2004 WAS @ MIA L 5 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 8
+p770
+aVJuan Dixon WAS 11/09/2004 WAS @ MIA L 22 12 4 10 40.0 2 3 66.7 2 2 100.0 2 1 3 4 0 0 1 2 -5
+p771
+aVGilbert Arenas WAS 11/09/2004 WAS @ MIA L 35 20 7 14 50.0 4 5 80.0 2 3 66.7 0 0 0 6 1 0 6 4 4
+p772
+aVBrendan Haywood WAS 11/09/2004 WAS @ MIA L 16 4 2 3 66.7 0 0 - 0 2 0.0 4 3 7 1 0 1 2 4 7
+p773
+aVLarry Hughes WAS 11/09/2004 WAS @ MIA L 26 7 3 15 20.0 0 2 0.0 1 2 50.0 0 3 3 4 3 0 1 2 -25
+p774
+aVGilbert Arenas WAS 11/06/2004 WAS vs. MIA L 46 27 6 15 40.0 2 7 28.6 13 15 86.7 0 0 0 5 2 0 7 4 -12
+p775
+aVJared Jeffries WAS 11/06/2004 WAS vs. MIA L 15 8 3 6 50.0 1 2 50.0 1 2 50.0 2 2 4 0 0 0 1 1 -13
+p776
+aVLarry Hughes WAS 11/06/2004 WAS vs. MIA L 35 26 11 20 55.0 2 4 50.0 2 4 50.0 0 5 5 3 3 1 2 4 -11
+p777
+aVSamaki Walker WAS 11/06/2004 WAS vs. MIA L 17 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 2 0 6 -8
+p778
+aVJuan Dixon WAS 11/06/2004 WAS vs. MIA L 22 6 3 7 42.9 0 4 0.0 0 0 - 0 2 2 1 0 0 2 3 1
+p779
+aVMichael Ruffin WAS 11/06/2004 WAS vs. MIA L 17 0 0 0 - 0 0 - 0 0 - 2 3 5 3 1 0 1 6 9
+p780
+aVAntawn Jamison WAS 11/06/2004 WAS vs. MIA L 40 24 8 16 50.0 2 4 50.0 6 8 75.0 6 7 13 2 1 0 0 6 -6
+p781
+aVAnthony Peeler WAS 11/06/2004 WAS vs. MIA L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -10
+p782
+aVJarvis Hayes WAS 11/06/2004 WAS vs. MIA L 40 15 6 17 35.3 0 5 0.0 3 3 100.0 0 8 8 2 2 0 1 2 -10
+p783
+aVLarry Hughes WAS 11/04/2004 WAS @ CHA W 29 14 3 11 27.3 1 3 33.3 7 10 70.0 2 3 5 1 4 0 0 3 5
+p784
+aVJared Jeffries WAS 11/04/2004 WAS @ CHA W 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 1 1 2 4 -4
+p785
+aVSamaki Walker WAS 11/04/2004 WAS @ CHA W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -3
+p786
+aVAnthony Peeler WAS 11/04/2004 WAS @ CHA W 14 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 0 3
+p787
+aVJarvis Hayes WAS 11/04/2004 WAS @ CHA W 43 17 6 13 46.2 0 0 - 5 6 83.3 0 6 6 3 2 0 0 1 10
+p788
+aVJuan Dixon WAS 11/04/2004 WAS @ CHA W 20 15 5 7 71.4 2 3 66.7 3 3 100.0 0 5 5 5 1 0 0 3 1
+p789
+aVGilbert Arenas WAS 11/04/2004 WAS @ CHA W 36 19 6 14 42.9 2 6 33.3 5 5 100.0 3 4 7 8 2 0 7 5 10
+p790
+aVAntawn Jamison WAS 11/04/2004 WAS @ CHA W 40 24 10 22 45.5 0 2 0.0 4 5 80.0 2 1 3 0 2 1 1 2 11
+p791
+aVMichael Ruffin WAS 11/04/2004 WAS @ CHA W 28 4 2 6 33.3 0 0 - 0 0 - 4 1 5 0 1 2 2 5 2
+p792
+aVSamaki Walker WAS 11/03/2004 WAS @ MEM W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 4
+p793
+aVAntawn Jamison WAS 11/03/2004 WAS @ MEM W 45 34 13 30 43.3 0 2 0.0 8 9 88.9 3 5 8 3 1 0 4 4 17
+p794
+aVJarvis Hayes WAS 11/03/2004 WAS @ MEM W 40 20 5 16 31.3 1 4 25.0 9 10 90.0 1 8 9 3 1 0 4 3 5
+p795
+aVJared Jeffries WAS 11/03/2004 WAS @ MEM W 28 4 2 3 66.7 0 0 - 0 2 0.0 4 3 7 2 1 0 2 5 3
+p796
+aVPeter Ramos WAS 11/03/2004 WAS @ MEM W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -8
+p797
+aVMichael Ruffin WAS 11/03/2004 WAS @ MEM W 39 6 2 4 50.0 0 0 - 2 6 33.3 7 4 11 4 1 7 0 5 16
+p798
+aVJuan Dixon WAS 11/03/2004 WAS @ MEM W 42 28 11 20 55.0 2 5 40.0 4 4 100.0 0 3 3 4 5 1 4 2 14
+p799
+aVLaron Profit WAS 11/03/2004 WAS @ MEM W 33 11 3 7 42.9 2 4 50.0 3 4 75.0 2 5 7 6 2 0 3 3 9
+p800
+a.

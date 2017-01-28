@@ -1,0 +1,1680 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAustin Daye MEM 04/17/2013 MEM vs. UTA W 8 4 1 3 33.3 1 3 33.3 1 2 50.0 0 2 2 2 1 1 0 1 -3
+p2
+aVEd Davis MEM 04/17/2013 MEM vs. UTA W 22 4 2 7 28.6 0 0 - 0 0 - 3 6 9 0 0 4 2 5 13
+p3
+aVQuincy Pondexter MEM 04/17/2013 MEM vs. UTA W 9 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 1 0 1 2 3
+p4
+aVZach Randolph MEM 04/17/2013 MEM vs. UTA W 31 25 10 20 50.0 0 0 - 5 7 71.4 6 13 19 2 0 0 1 2 16
+p5
+aVTony Allen MEM 04/17/2013 MEM vs. UTA W 20 8 3 9 33.3 0 0 - 2 2 100.0 3 4 7 4 0 0 1 2 5
+p6
+aVMarc Gasol MEM 04/17/2013 MEM vs. UTA W 27 4 2 7 28.6 0 0 - 0 1 0.0 4 3 7 2 2 2 1 5 5
+p7
+aVKeyon Dooling MEM 04/17/2013 MEM vs. UTA W 16 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 1 -2
+p8
+aVTayshaun Prince MEM 04/17/2013 MEM vs. UTA W 32 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 2 1 0 2 1 17
+p9
+aVJerryd Bayless MEM 04/17/2013 MEM vs. UTA W 27 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 3 2 0 0 3 10
+p10
+aVMike Conley MEM 04/17/2013 MEM vs. UTA W 32 14 5 11 45.5 1 2 50.0 3 4 75.0 1 2 3 5 0 1 2 1 18
+p11
+aVDarrell Arthur MEM 04/17/2013 MEM vs. UTA W 16 11 5 9 55.6 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -2
+p12
+aVMarc Gasol MEM 04/15/2013 MEM @ DAL W 24 6 2 2 100.0 0 0 - 2 2 100.0 1 6 7 6 0 1 2 2 9
+p13
+aVEd Davis MEM 04/15/2013 MEM @ DAL W 28 11 5 10 50.0 0 0 - 1 1 100.0 7 4 11 1 1 0 2 3 -2
+p14
+aVJerryd Bayless MEM 04/15/2013 MEM @ DAL W 29 19 6 13 46.2 2 6 33.3 5 6 83.3 0 4 4 4 4 1 2 1 1
+p15
+aVKeyon Dooling MEM 04/15/2013 MEM @ DAL W 25 13 4 5 80.0 4 5 80.0 1 2 50.0 0 1 1 3 0 0 1 1 0
+p16
+aVDarrell Arthur MEM 04/15/2013 MEM @ DAL W 13 8 4 8 50.0 0 0 - 0 0 - 2 0 2 1 0 1 1 4 -1
+p17
+aVQuincy Pondexter MEM 04/15/2013 MEM @ DAL W 24 7 3 8 37.5 0 4 0.0 1 1 100.0 2 3 5 1 0 0 0 1 6
+p18
+aVZach Randolph MEM 04/15/2013 MEM @ DAL W 20 9 3 7 42.9 0 0 - 3 4 75.0 1 6 7 2 0 0 2 1 8
+p19
+aVTayshaun Prince MEM 04/15/2013 MEM @ DAL W 22 12 4 7 57.1 1 1 100.0 3 4 75.0 0 1 1 1 0 0 0 1 4
+p20
+aVJon Leuer MEM 04/15/2013 MEM @ DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p21
+aVAustin Daye MEM 04/15/2013 MEM @ DAL W 16 6 1 6 16.7 0 3 0.0 4 4 100.0 0 3 3 1 2 0 3 3 0
+p22
+aVMike Conley MEM 04/15/2013 MEM @ DAL W 23 6 3 8 37.5 0 2 0.0 0 0 - 1 3 4 3 1 0 2 1 6
+p23
+aVTony Allen MEM 04/15/2013 MEM @ DAL W 14 6 3 5 60.0 0 0 - 0 1 0.0 2 2 4 1 2 0 1 3 4
+p24
+aVJerryd Bayless MEM 04/13/2013 MEM vs. LAC L 22 8 3 10 30.0 1 3 33.3 1 1 100.0 0 1 1 1 1 0 0 2 -6
+p25
+aVKeyon Dooling MEM 04/13/2013 MEM vs. LAC L 4 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 2 -2
+p26
+aVMarc Gasol MEM 04/13/2013 MEM vs. LAC L 38 18 7 14 50.0 0 0 - 4 4 100.0 3 12 15 7 0 0 0 2 6
+p27
+aVEd Davis MEM 04/13/2013 MEM vs. LAC L 2 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 2 -5
+p28
+aVAustin Daye MEM 04/13/2013 MEM vs. LAC L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 1 -7
+p29
+aVZach Randolph MEM 04/13/2013 MEM vs. LAC L 39 16 7 17 41.2 0 1 0.0 2 3 66.7 5 7 12 1 1 2 3 2 -1
+p30
+aVTony Allen MEM 04/13/2013 MEM vs. LAC L 22 7 3 7 42.9 0 0 - 1 4 25.0 0 2 2 0 0 0 1 2 -2
+p31
+aVQuincy Pondexter MEM 04/13/2013 MEM vs. LAC L 19 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 1 2 1 3 1 -8
+p32
+aVMike Conley MEM 04/13/2013 MEM vs. LAC L 37 12 4 11 36.4 1 2 50.0 3 5 60.0 0 4 4 6 0 0 1 4 5
+p33
+aVDarrell Arthur MEM 04/13/2013 MEM vs. LAC L 16 4 2 5 40.0 0 0 - 0 0 - 1 3 4 2 2 1 0 1 -6
+p34
+aVTayshaun Prince MEM 04/13/2013 MEM vs. LAC L 34 13 5 10 50.0 3 4 75.0 0 0 - 0 1 1 0 0 0 1 1 6
+p35
+aVMike Conley MEM 04/12/2013 MEM @ HOU W 36 12 4 14 28.6 0 3 0.0 4 6 66.7 0 7 7 5 2 0 1 3 15
+p36
+aVAustin Daye MEM 04/12/2013 MEM @ HOU W 9 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 0 5
+p37
+aVDarrell Arthur MEM 04/12/2013 MEM @ HOU W 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 1 1 2 -5
+p38
+aVEd Davis MEM 04/12/2013 MEM @ HOU W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -6
+p39
+aVQuincy Pondexter MEM 04/12/2013 MEM @ HOU W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 0
+p40
+aVTony Allen MEM 04/12/2013 MEM @ HOU W 25 10 4 12 33.3 0 1 0.0 2 8 25.0 2 2 4 1 1 0 1 4 -1
+p41
+aVJerryd Bayless MEM 04/12/2013 MEM @ HOU W 30 13 5 14 35.7 2 4 50.0 1 1 100.0 2 3 5 2 1 0 1 2 1
+p42
+aVZach Randolph MEM 04/12/2013 MEM @ HOU W 29 15 5 12 41.7 0 0 - 5 5 100.0 4 4 8 1 1 1 0 2 11
+p43
+aVMarc Gasol MEM 04/12/2013 MEM @ HOU W 36 15 5 13 38.5 0 1 0.0 5 6 83.3 3 8 11 5 3 3 0 4 6
+p44
+aVTayshaun Prince MEM 04/12/2013 MEM @ HOU W 35 9 3 7 42.9 1 2 50.0 2 2 100.0 0 3 3 1 1 1 1 1 7
+p45
+aVKeyon Dooling MEM 04/12/2013 MEM @ HOU W 12 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 2 -13
+p46
+aVEd Davis MEM 04/09/2013 MEM vs. CHA W 23 8 3 5 60.0 0 0 - 2 3 66.7 2 4 6 1 0 1 1 2 22
+p47
+aVTony Wroten MEM 04/09/2013 MEM vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p48
+aVZach Randolph MEM 04/09/2013 MEM vs. CHA W 26 11 5 14 35.7 0 1 0.0 1 3 33.3 6 7 13 2 1 1 3 1 -3
+p49
+aVJon Leuer MEM 04/09/2013 MEM vs. CHA W 13 11 4 4 100.0 0 0 - 3 3 100.0 0 5 5 2 1 0 0 0 13
+p50
+aVMike Conley MEM 04/09/2013 MEM vs. CHA W 36 20 8 13 61.5 0 3 0.0 4 5 80.0 0 2 2 7 2 1 0 1 25
+p51
+aVKeyon Dooling MEM 04/09/2013 MEM vs. CHA W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -6
+p52
+aVAustin Daye MEM 04/09/2013 MEM vs. CHA W 16 10 4 6 66.7 1 3 33.3 1 2 50.0 1 6 7 1 0 1 0 3 8
+p53
+aVQuincy Pondexter MEM 04/09/2013 MEM vs. CHA W 23 8 3 8 37.5 2 4 50.0 0 0 - 1 1 2 2 0 0 0 1 22
+p54
+aVMarc Gasol MEM 04/09/2013 MEM vs. CHA W 31 8 4 11 36.4 0 0 - 0 1 0.0 1 5 6 1 0 3 0 2 12
+p55
+aVTony Allen MEM 04/09/2013 MEM vs. CHA W 24 8 3 8 37.5 0 0 - 2 2 100.0 1 3 4 0 1 0 0 1 2
+p56
+aVDexter Pittman MEM 04/09/2013 MEM vs. CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p57
+aVTayshaun Prince MEM 04/09/2013 MEM vs. CHA W 30 8 4 8 50.0 0 1 0.0 0 1 0.0 0 3 3 1 0 0 0 1 12
+p58
+aVMike Conley MEM 04/07/2013 MEM @ SAC W 38 25 9 14 64.3 2 2 100.0 5 6 83.3 0 3 3 4 2 0 4 2 -2
+p59
+aVMarc Gasol MEM 04/07/2013 MEM @ SAC W 34 15 4 10 40.0 0 1 0.0 7 9 77.8 3 7 10 4 0 5 2 4 4
+p60
+aVTony Allen MEM 04/07/2013 MEM @ SAC W 35 12 5 8 62.5 0 0 - 2 4 50.0 0 6 6 2 2 3 0 2 2
+p61
+aVKeyon Dooling MEM 04/07/2013 MEM @ SAC W 11 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 1 4
+p62
+aVZach Randolph MEM 04/07/2013 MEM @ SAC W 36 9 4 13 30.8 0 0 - 1 2 50.0 2 5 7 0 0 0 1 4 -4
+p63
+aVEd Davis MEM 04/07/2013 MEM @ SAC W 18 2 0 4 0.0 0 0 - 2 2 100.0 2 5 7 0 1 2 1 4 7
+p64
+aVTony Wroten MEM 04/07/2013 MEM @ SAC W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 0
+p65
+aVTayshaun Prince MEM 04/07/2013 MEM @ SAC W 30 3 1 5 20.0 0 0 - 1 2 50.0 0 5 5 2 2 1 3 0 3
+p66
+aVJon Leuer MEM 04/07/2013 MEM @ SAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p67
+aVAustin Daye MEM 04/07/2013 MEM @ SAC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -9
+p68
+aVQuincy Pondexter MEM 04/07/2013 MEM @ SAC W 23 17 7 13 53.8 1 3 33.3 2 2 100.0 1 4 5 1 2 0 1 3 7
+p69
+aVDarrell Arthur MEM 04/05/2013 MEM @ LAL L 8 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -11
+p70
+aVJon Leuer MEM 04/05/2013 MEM @ LAL L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p71
+aVMike Conley MEM 04/05/2013 MEM @ LAL L 34 21 9 19 47.4 1 2 50.0 2 2 100.0 0 2 2 6 2 0 1 2 -7
+p72
+aVMarc Gasol MEM 04/05/2013 MEM @ LAL L 39 11 5 8 62.5 0 0 - 1 2 50.0 0 8 8 7 3 2 3 3 -3
+p73
+aVJerryd Bayless MEM 04/05/2013 MEM @ LAL L 31 14 7 15 46.7 0 4 0.0 0 0 - 1 3 4 6 1 0 1 2 1
+p74
+aVTayshaun Prince MEM 04/05/2013 MEM @ LAL L 19 6 3 8 37.5 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 -8
+p75
+aVQuincy Pondexter MEM 04/05/2013 MEM @ LAL L 20 3 1 7 14.3 1 4 25.0 0 0 - 0 0 0 1 2 0 0 1 6
+p76
+aVAustin Daye MEM 04/05/2013 MEM @ LAL L 21 5 2 5 40.0 1 3 33.3 0 0 - 0 4 4 1 1 0 0 0 3
+p77
+aVZach Randolph MEM 04/05/2013 MEM @ LAL L 32 15 7 17 41.2 0 0 - 1 1 100.0 2 5 7 0 0 1 0 2 2
+p78
+aVEd Davis MEM 04/05/2013 MEM @ LAL L 12 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 2 4
+p79
+aVTony Allen MEM 04/05/2013 MEM @ LAL L 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 2 1 2 2 -1
+p80
+aVJerryd Bayless MEM 04/03/2013 MEM @ POR W 28 2 0 8 0.0 0 3 0.0 2 2 100.0 0 0 0 7 0 0 2 1 3
+p81
+aVDexter Pittman MEM 04/03/2013 MEM @ POR W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p82
+aVJon Leuer MEM 04/03/2013 MEM @ POR W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p83
+aVMarc Gasol MEM 04/03/2013 MEM @ POR W 29 6 3 5 60.0 0 0 - 0 0 - 2 3 5 5 2 1 4 3 22
+p84
+aVTayshaun Prince MEM 04/03/2013 MEM @ POR W 20 6 3 7 42.9 0 0 - 0 0 - 0 1 1 2 0 0 0 0 5
+p85
+aVZach Randolph MEM 04/03/2013 MEM @ POR W 28 17 5 9 55.6 0 0 - 7 8 87.5 1 7 8 2 1 0 1 3 7
+p86
+aVEd Davis MEM 04/03/2013 MEM @ POR W 18 12 5 6 83.3 0 0 - 2 2 100.0 4 6 10 1 1 0 0 1 10
+p87
+aVAustin Daye MEM 04/03/2013 MEM @ POR W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 1 1 -1
+p88
+aVQuincy Pondexter MEM 04/03/2013 MEM @ POR W 24 10 3 4 75.0 0 1 0.0 4 4 100.0 0 4 4 1 0 0 1 2 17
+p89
+aVMike Conley MEM 04/03/2013 MEM @ POR W 31 20 7 11 63.6 3 5 60.0 3 6 50.0 0 2 2 5 1 0 1 0 17
+p90
+aVKeyon Dooling MEM 04/03/2013 MEM @ POR W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p91
+aVTony Allen MEM 04/03/2013 MEM @ POR W 29 14 5 10 50.0 0 0 - 4 6 66.7 0 2 2 3 5 0 0 1 10
+p92
+aVDarrell Arthur MEM 04/03/2013 MEM @ POR W 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 3 1 4 3
+p93
+aVMike Conley MEM 04/01/2013 MEM vs. SAS W 36 23 11 17 64.7 1 3 33.3 0 1 0.0 1 2 3 2 0 0 4 4 11
+p94
+aVTony Wroten MEM 04/01/2013 MEM vs. SAS W 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 -9
+p95
+aVDarrell Arthur MEM 04/01/2013 MEM vs. SAS W 15 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -7
+p96
+aVEd Davis MEM 04/01/2013 MEM vs. SAS W 14 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 1 1 1 2 -2
+p97
+aVMarc Gasol MEM 04/01/2013 MEM vs. SAS W 35 16 6 14 42.9 0 0 - 4 4 100.0 3 4 7 4 2 1 1 3 3
+p98
+aVTony Allen MEM 04/01/2013 MEM vs. SAS W 20 6 1 5 20.0 0 0 - 4 4 100.0 2 5 7 2 0 2 1 0 4
+p99
+aVZach Randolph MEM 04/01/2013 MEM vs. SAS W 28 11 4 11 36.4 0 0 - 3 4 75.0 3 7 10 0 2 0 0 0 9
+p100
+aVJerryd Bayless MEM 04/01/2013 MEM vs. SAS W 28 17 7 12 58.3 0 1 0.0 3 5 60.0 0 2 2 3 0 0 1 3 -2
+p101
+aVAustin Daye MEM 04/01/2013 MEM vs. SAS W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 4
+p102
+aVQuincy Pondexter MEM 04/01/2013 MEM vs. SAS W 15 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -8
+p103
+aVTayshaun Prince MEM 04/01/2013 MEM vs. SAS W 29 11 5 11 45.5 1 2 50.0 0 0 - 0 6 6 4 3 1 0 0 7
+p104
+aVDarrell Arthur MEM 03/30/2013 MEM @ MIN W 16 15 6 9 66.7 1 2 50.0 2 3 66.7 2 2 4 0 0 0 0 3 12
+p105
+aVJon Leuer MEM 03/30/2013 MEM @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p106
+aVMike Conley MEM 03/30/2013 MEM @ MIN W 33 19 8 15 53.3 3 3 100.0 0 0 - 0 1 1 5 2 1 3 3 8
+p107
+aVTayshaun Prince MEM 03/30/2013 MEM @ MIN W 27 4 2 4 50.0 0 0 - 0 0 - 0 2 2 4 2 0 1 2 -1
+p108
+aVMarc Gasol MEM 03/30/2013 MEM @ MIN W 35 21 8 12 66.7 0 0 - 5 6 83.3 2 6 8 6 0 3 4 4 3
+p109
+aVJerryd Bayless MEM 03/30/2013 MEM @ MIN W 29 4 0 5 0.0 0 2 0.0 4 6 66.7 0 3 3 7 2 0 0 2 16
+p110
+aVTony Wroten MEM 03/30/2013 MEM @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p111
+aVQuincy Pondexter MEM 03/30/2013 MEM @ MIN W 19 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 5 8
+p112
+aVTony Allen MEM 03/30/2013 MEM @ MIN W 21 7 3 5 60.0 0 0 - 1 4 25.0 0 2 2 0 1 0 1 3 -3
+p113
+aVZach Randolph MEM 03/30/2013 MEM @ MIN W 29 14 5 11 45.5 0 0 - 4 4 100.0 0 7 7 1 1 0 0 3 1
+p114
+aVAustin Daye MEM 03/30/2013 MEM @ MIN W 13 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 1 1 1 0 0 16
+p115
+aVEd Davis MEM 03/30/2013 MEM @ MIN W 14 3 0 2 0.0 0 0 - 3 4 75.0 1 3 4 0 0 0 0 3 7
+p116
+aVTayshaun Prince MEM 03/29/2013 MEM vs. HOU W 40 10 4 9 44.4 0 0 - 2 2 100.0 0 8 8 2 0 0 1 2 18
+p117
+aVTony Allen MEM 03/29/2013 MEM vs. HOU W 27 16 8 12 66.7 0 0 - 0 0 - 2 2 4 0 2 0 3 1 6
+p118
+aVEd Davis MEM 03/29/2013 MEM vs. HOU W 14 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 0 1 0 2 -9
+p119
+aVDarrell Arthur MEM 03/29/2013 MEM vs. HOU W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -3
+p120
+aVJerryd Bayless MEM 03/29/2013 MEM vs. HOU W 25 14 6 11 54.5 2 6 33.3 0 0 - 0 2 2 4 1 1 4 3 -4
+p121
+aVMarc Gasol MEM 03/29/2013 MEM vs. HOU W 39 21 8 12 66.7 0 0 - 5 5 100.0 0 5 5 4 0 1 2 2 19
+p122
+aVZach Randolph MEM 03/29/2013 MEM vs. HOU W 34 21 6 12 50.0 0 0 - 9 10 90.0 6 6 12 3 0 0 2 4 11
+p123
+aVMike Conley MEM 03/29/2013 MEM vs. HOU W 37 15 5 11 45.5 2 3 66.7 3 4 75.0 0 3 3 10 4 0 1 2 19
+p124
+aVQuincy Pondexter MEM 03/29/2013 MEM vs. HOU W 16 0 0 5 0.0 0 2 0.0 0 0 - 2 1 3 0 1 0 1 3 -12
+p125
+aVMarc Gasol MEM 03/27/2013 MEM @ NYK L 36 13 4 7 57.1 0 0 - 5 7 71.4 0 5 5 3 1 1 2 3 -3
+p126
+aVAustin Daye MEM 03/27/2013 MEM @ NYK L 10 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p127
+aVZach Randolph MEM 03/27/2013 MEM @ NYK L 25 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 3 0 0 5 3 -4
+p128
+aVTony Allen MEM 03/27/2013 MEM @ NYK L 26 18 7 10 70.0 0 0 - 4 5 80.0 4 6 10 0 2 0 0 5 2
+p129
+aVQuincy Pondexter MEM 03/27/2013 MEM @ NYK L 26 10 4 7 57.1 0 2 0.0 2 2 100.0 4 1 5 1 0 0 1 4 3
+p130
+aVTayshaun Prince MEM 03/27/2013 MEM @ NYK L 38 5 2 5 40.0 0 1 0.0 1 1 100.0 0 5 5 1 1 0 1 0 -10
+p131
+aVMike Conley MEM 03/27/2013 MEM @ NYK L 39 26 6 16 37.5 2 8 25.0 12 14 85.7 1 3 4 6 1 0 2 1 -7
+p132
+aVJerryd Bayless MEM 03/27/2013 MEM @ NYK L 32 24 8 17 47.1 4 7 57.1 4 4 100.0 1 0 1 0 1 1 4 6 -3
+p133
+aVDarrell Arthur MEM 03/27/2013 MEM @ NYK L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p134
+aVDarrell Arthur MEM 03/25/2013 MEM @ WAS L 19 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 1 6 -24
+p135
+aVJerryd Bayless MEM 03/25/2013 MEM @ WAS L 28 14 5 17 29.4 0 4 0.0 4 4 100.0 1 5 6 7 0 0 1 2 14
+p136
+aVMike Conley MEM 03/25/2013 MEM @ WAS L 40 23 7 14 50.0 1 4 25.0 8 8 100.0 1 3 4 7 3 0 6 2 -20
+p137
+aVDexter Pittman MEM 03/25/2013 MEM @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p138
+aVQuincy Pondexter MEM 03/25/2013 MEM @ WAS L 27 14 5 9 55.6 4 5 80.0 0 0 - 1 4 5 0 1 0 1 2 3
+p139
+aVZach Randolph MEM 03/25/2013 MEM @ WAS L 28 10 4 8 50.0 0 0 - 2 2 100.0 0 7 7 0 1 0 4 3 -25
+p140
+aVAustin Daye MEM 03/25/2013 MEM @ WAS L 16 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 1 0 1 0 3 4
+p141
+aVTony Allen MEM 03/25/2013 MEM @ WAS L 16 3 1 6 16.7 0 0 - 1 2 50.0 0 0 0 0 3 0 2 2 -21
+p142
+aVJon Leuer MEM 03/25/2013 MEM @ WAS L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p143
+aVTayshaun Prince MEM 03/25/2013 MEM @ WAS L 35 8 4 9 44.4 0 1 0.0 0 0 - 1 5 6 2 0 0 1 0 -17
+p144
+aVEd Davis MEM 03/25/2013 MEM @ WAS L 23 9 3 4 75.0 0 0 - 3 4 75.0 2 5 7 0 0 0 0 5 27
+p145
+aVTony Allen MEM 03/23/2013 MEM vs. BOS W 33 10 5 13 38.5 0 0 - 0 0 - 3 7 10 3 1 0 1 4 9
+p146
+aVJerryd Bayless MEM 03/23/2013 MEM vs. BOS W 38 30 11 20 55.0 4 6 66.7 4 5 80.0 0 4 4 3 0 0 2 2 7
+p147
+aVTayshaun Prince MEM 03/23/2013 MEM vs. BOS W 35 12 5 11 45.5 0 0 - 2 2 100.0 2 0 2 4 1 1 1 2 -9
+p148
+aVEd Davis MEM 03/23/2013 MEM vs. BOS W 19 11 4 7 57.1 0 0 - 3 4 75.0 4 4 8 0 0 5 1 3 4
+p149
+aVMike Conley MEM 03/23/2013 MEM vs. BOS W 37 12 4 13 30.8 0 3 0.0 4 4 100.0 1 1 2 10 4 0 2 4 -2
+p150
+aVDarrell Arthur MEM 03/23/2013 MEM vs. BOS W 29 18 8 14 57.1 0 0 - 2 3 66.7 1 6 7 2 1 0 1 1 0
+p151
+aVQuincy Pondexter MEM 03/23/2013 MEM vs. BOS W 17 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 9
+p152
+aVZach Randolph MEM 03/23/2013 MEM vs. BOS W 31 15 5 13 38.5 0 1 0.0 5 6 83.3 5 6 11 2 0 0 0 3 2
+p153
+aVDarrell Arthur MEM 03/22/2013 MEM @ NOH L 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -12
+p154
+aVTony Allen MEM 03/22/2013 MEM @ NOH L 24 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 2 1 0 1 3 3
+p155
+aVZach Randolph MEM 03/22/2013 MEM @ NOH L 28 14 7 14 50.0 0 0 - 0 1 0.0 7 2 9 0 0 0 1 3 0
+p156
+aVAustin Daye MEM 03/22/2013 MEM @ NOH L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p157
+aVMarc Gasol MEM 03/22/2013 MEM @ NOH L 38 16 7 13 53.8 0 0 - 2 2 100.0 2 4 6 4 4 1 3 3 4
+p158
+aVEd Davis MEM 03/22/2013 MEM @ NOH L 13 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 0 1 2 0 1 -9
+p159
+aVQuincy Pondexter MEM 03/22/2013 MEM @ NOH L 17 4 0 3 0.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 1 -9
+p160
+aVJon Leuer MEM 03/22/2013 MEM @ NOH L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p161
+aVDexter Pittman MEM 03/22/2013 MEM @ NOH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p162
+aVMike Conley MEM 03/22/2013 MEM @ NOH L 38 20 5 13 38.5 3 7 42.9 7 9 77.8 0 5 5 4 2 0 2 4 10
+p163
+aVTayshaun Prince MEM 03/22/2013 MEM @ NOH L 34 7 3 7 42.9 0 2 0.0 1 2 50.0 0 2 2 3 2 0 0 0 2
+p164
+aVJerryd Bayless MEM 03/22/2013 MEM @ NOH L 29 12 5 12 41.7 0 1 0.0 2 3 66.7 0 2 2 1 0 0 2 1 -16
+p165
+aVTony Wroten MEM 03/22/2013 MEM @ NOH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p166
+aVTayshaun Prince MEM 03/20/2013 MEM vs. OKC W 43 7 3 13 23.1 1 2 50.0 0 0 - 2 1 3 1 0 0 1 3 2
+p167
+aVAustin Daye MEM 03/20/2013 MEM vs. OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p168
+aVTony Wroten MEM 03/20/2013 MEM vs. OKC W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 2 2 -3
+p169
+aVJerryd Bayless MEM 03/20/2013 MEM vs. OKC W 28 20 5 10 50.0 4 6 66.7 6 6 100.0 1 1 2 1 1 0 3 5 -4
+p170
+aVQuincy Pondexter MEM 03/20/2013 MEM vs. OKC W 15 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 1 2 1
+p171
+aVMarc Gasol MEM 03/20/2013 MEM vs. OKC W 42 14 5 12 41.7 0 0 - 4 6 66.7 3 12 15 1 0 2 3 2 -1
+p172
+aVZach Randolph MEM 03/20/2013 MEM vs. OKC W 42 15 6 23 26.1 0 0 - 3 4 75.0 7 11 18 0 0 0 7 3 7
+p173
+aVTony Allen MEM 03/20/2013 MEM vs. OKC W 35 8 4 8 50.0 0 0 - 0 0 - 2 4 6 2 2 1 1 4 -3
+p174
+aVMike Conley MEM 03/20/2013 MEM vs. OKC W 48 24 9 21 42.9 1 5 20.0 5 6 83.3 3 4 7 5 2 1 1 3 4
+p175
+aVEd Davis MEM 03/20/2013 MEM vs. OKC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -3
+p176
+aVQuincy Pondexter MEM 03/18/2013 MEM vs. MIN W 23 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 1 1 0 2 3 -5
+p177
+aVAustin Daye MEM 03/18/2013 MEM vs. MIN W 13 1 0 2 0.0 0 2 0.0 1 2 50.0 0 4 4 1 1 1 1 1 -8
+p178
+aVEd Davis MEM 03/18/2013 MEM vs. MIN W 17 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 0 2 0 3 -4
+p179
+aVMike Conley MEM 03/18/2013 MEM vs. MIN W 34 20 8 14 57.1 3 6 50.0 1 1 100.0 1 2 3 6 2 0 1 1 25
+p180
+aVTony Allen MEM 03/18/2013 MEM vs. MIN W 17 7 3 7 42.9 0 0 - 1 1 100.0 1 3 4 0 0 1 0 4 13
+p181
+aVJerryd Bayless MEM 03/18/2013 MEM vs. MIN W 25 15 7 12 58.3 1 4 25.0 0 0 - 0 0 0 2 0 0 2 3 4
+p182
+aVTayshaun Prince MEM 03/18/2013 MEM vs. MIN W 36 12 6 12 50.0 0 0 - 0 2 0.0 3 11 14 4 0 1 2 1 16
+p183
+aVMarc Gasol MEM 03/18/2013 MEM vs. MIN W 33 16 6 13 46.2 0 0 - 4 5 80.0 2 6 8 5 0 4 3 2 17
+p184
+aVZach Randolph MEM 03/18/2013 MEM vs. MIN W 35 14 7 11 63.6 0 0 - 0 0 - 2 8 10 0 2 1 1 3 20
+p185
+aVTony Wroten MEM 03/18/2013 MEM vs. MIN W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p186
+aVMike Conley MEM 03/16/2013 MEM @ UTA L 37 13 6 18 33.3 0 2 0.0 1 2 50.0 0 4 4 4 1 1 1 2 -13
+p187
+aVTony Allen MEM 03/16/2013 MEM @ UTA L 30 4 1 3 33.3 0 0 - 2 4 50.0 1 8 9 2 0 1 1 3 10
+p188
+aVZach Randolph MEM 03/16/2013 MEM @ UTA L 39 19 7 11 63.6 0 1 0.0 5 7 71.4 2 7 9 1 2 0 2 5 -10
+p189
+aVMarc Gasol MEM 03/16/2013 MEM @ UTA L 41 11 5 14 35.7 0 0 - 1 1 100.0 3 3 6 3 0 2 3 5 1
+p190
+aVAustin Daye MEM 03/16/2013 MEM @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p191
+aVJon Leuer MEM 03/16/2013 MEM @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p192
+aVJerryd Bayless MEM 03/16/2013 MEM @ UTA L 24 24 9 14 64.3 4 7 57.1 2 2 100.0 0 2 2 2 0 0 2 2 2
+p193
+aVTayshaun Prince MEM 03/16/2013 MEM @ UTA L 33 9 3 11 27.3 0 1 0.0 3 4 75.0 2 5 7 2 1 0 2 1 -7
+p194
+aVQuincy Pondexter MEM 03/16/2013 MEM @ UTA L 15 0 0 2 0.0 0 1 0.0 0 2 0.0 0 0 0 0 0 1 0 1 -3
+p195
+aVEd Davis MEM 03/16/2013 MEM @ UTA L 16 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 0 1 0 2 -3
+p196
+aVZach Randolph MEM 03/15/2013 MEM @ DEN L 39 18 6 14 42.9 0 0 - 6 8 75.0 10 8 18 1 1 0 2 4 0
+p197
+aVQuincy Pondexter MEM 03/15/2013 MEM @ DEN L 20 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -13
+p198
+aVTony Allen MEM 03/15/2013 MEM @ DEN L 25 8 3 12 25.0 0 0 - 2 2 100.0 2 4 6 2 2 1 0 2 0
+p199
+aVMike Conley MEM 03/15/2013 MEM @ DEN L 39 11 4 13 30.8 1 4 25.0 2 2 100.0 3 3 6 3 2 0 7 4 -1
+p200
+aVTony Wroten MEM 03/15/2013 MEM @ DEN L 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -4
+p201
+aVEd Davis MEM 03/15/2013 MEM @ DEN L 11 4 1 5 20.0 0 0 - 2 3 66.7 2 1 3 0 1 1 0 0 -4
+p202
+aVTayshaun Prince MEM 03/15/2013 MEM @ DEN L 35 11 5 13 38.5 1 4 25.0 0 0 - 2 2 4 3 1 0 1 4 -1
+p203
+aVJerryd Bayless MEM 03/15/2013 MEM @ DEN L 23 10 3 9 33.3 2 3 66.7 2 2 100.0 0 2 2 0 0 0 2 2 -11
+p204
+aVMarc Gasol MEM 03/15/2013 MEM @ DEN L 40 14 6 13 46.2 0 0 - 2 2 100.0 1 6 7 5 1 3 2 4 -1
+p205
+aVEd Davis MEM 03/13/2013 MEM @ LAC W 14 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 1 0 4 1
+p206
+aVTony Allen MEM 03/13/2013 MEM @ LAC W 31 7 2 7 28.6 0 1 0.0 3 3 100.0 2 4 6 2 0 1 2 3 8
+p207
+aVZach Randolph MEM 03/13/2013 MEM @ LAC W 40 13 5 11 45.5 0 0 - 3 4 75.0 4 4 8 1 1 0 1 4 11
+p208
+aVQuincy Pondexter MEM 03/13/2013 MEM @ LAC W 15 11 3 3 100.0 3 3 100.0 2 3 66.7 0 2 2 1 0 0 0 2 2
+p209
+aVMike Conley MEM 03/13/2013 MEM @ LAC W 40 17 5 11 45.5 2 6 33.3 5 6 83.3 1 2 3 11 1 1 1 2 8
+p210
+aVTony Wroten MEM 03/13/2013 MEM @ LAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 4 2
+p211
+aVMarc Gasol MEM 03/13/2013 MEM @ LAC W 39 21 10 14 71.4 0 0 - 1 2 50.0 0 4 4 2 5 0 4 4 9
+p212
+aVJerryd Bayless MEM 03/13/2013 MEM @ LAC W 17 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 3 0 0 0 1 7
+p213
+aVTayshaun Prince MEM 03/13/2013 MEM @ LAC W 39 18 9 15 60.0 0 0 - 0 0 - 3 3 6 0 1 0 2 1 7
+p214
+aVQuincy Pondexter MEM 03/12/2013 MEM @ POR W 23 8 3 5 60.0 1 3 33.3 1 2 50.0 1 2 3 0 1 0 0 2 1
+p215
+aVMarc Gasol MEM 03/12/2013 MEM @ POR W 37 20 8 13 61.5 0 0 - 4 6 66.7 0 2 2 5 1 2 2 5 5
+p216
+aVTony Wroten MEM 03/12/2013 MEM @ POR W 13 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 2 7
+p217
+aVTony Allen MEM 03/12/2013 MEM @ POR W 24 12 5 10 50.0 0 1 0.0 2 5 40.0 1 1 2 0 0 2 1 0 6
+p218
+aVJerryd Bayless MEM 03/12/2013 MEM @ POR W 28 5 1 7 14.3 1 3 33.3 2 2 100.0 0 1 1 6 1 0 1 5 -1
+p219
+aVZach Randolph MEM 03/12/2013 MEM @ POR W 28 19 8 13 61.5 0 0 - 3 3 100.0 4 6 10 1 1 0 1 3 5
+p220
+aVEd Davis MEM 03/12/2013 MEM @ POR W 25 14 6 9 66.7 0 0 - 2 3 66.7 2 7 9 1 1 2 0 2 2
+p221
+aVMike Conley MEM 03/12/2013 MEM @ POR W 35 14 4 12 33.3 0 3 0.0 6 8 75.0 0 4 4 15 4 0 3 4 -2
+p222
+aVTayshaun Prince MEM 03/12/2013 MEM @ POR W 27 9 4 6 66.7 1 1 100.0 0 0 - 1 5 6 1 1 1 2 1 2
+p223
+aVJon Leuer MEM 03/09/2013 MEM vs. NOH W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -4
+p224
+aVJerryd Bayless MEM 03/09/2013 MEM vs. NOH W 25 10 4 9 44.4 1 2 50.0 1 1 100.0 0 3 3 1 0 2 1 1 -5
+p225
+aVQuincy Pondexter MEM 03/09/2013 MEM vs. NOH W 32 13 4 8 50.0 2 6 33.3 3 4 75.0 0 3 3 2 0 0 2 1 2
+p226
+aVTayshaun Prince MEM 03/09/2013 MEM vs. NOH W 37 13 5 11 45.5 0 0 - 3 4 75.0 2 5 7 0 0 0 0 1 18
+p227
+aVMike Conley MEM 03/09/2013 MEM vs. NOH W 35 22 8 15 53.3 1 4 25.0 5 5 100.0 0 4 4 8 3 0 4 3 20
+p228
+aVAustin Daye MEM 03/09/2013 MEM vs. NOH W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p229
+aVDexter Pittman MEM 03/09/2013 MEM vs. NOH W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p230
+aVMarc Gasol MEM 03/09/2013 MEM vs. NOH W 33 10 5 11 45.5 0 0 - 0 0 - 2 5 7 6 0 4 1 3 21
+p231
+aVTony Allen MEM 03/09/2013 MEM vs. NOH W 31 14 5 9 55.6 0 0 - 4 4 100.0 3 3 6 4 2 0 1 3 16
+p232
+aVTony Wroten MEM 03/09/2013 MEM vs. NOH W 7 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -9
+p233
+aVEd Davis MEM 03/09/2013 MEM vs. NOH W 30 12 6 11 54.5 0 0 - 0 2 0.0 4 5 9 0 1 5 1 4 8
+p234
+aVMike Conley MEM 03/08/2013 MEM @ CLE W 34 17 6 10 60.0 1 2 50.0 4 5 80.0 0 0 0 11 5 1 3 2 21
+p235
+aVEd Davis MEM 03/08/2013 MEM @ CLE W 29 12 6 11 54.5 0 0 - 0 0 - 3 6 9 1 0 0 2 4 6
+p236
+aVQuincy Pondexter MEM 03/08/2013 MEM @ CLE W 16 4 1 3 33.3 1 2 50.0 1 2 50.0 0 3 3 0 0 0 0 1 -12
+p237
+aVJon Leuer MEM 03/08/2013 MEM @ CLE W 12 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -7
+p238
+aVTony Wroten MEM 03/08/2013 MEM @ CLE W 7 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 1 1 0 1 0 0
+p239
+aVMarc Gasol MEM 03/08/2013 MEM @ CLE W 40 22 11 16 68.8 0 0 - 0 0 - 3 5 8 5 1 2 1 2 18
+p240
+aVTony Allen MEM 03/08/2013 MEM @ CLE W 33 11 4 9 44.4 0 0 - 3 3 100.0 0 6 6 2 2 0 3 3 13
+p241
+aVAustin Daye MEM 03/08/2013 MEM @ CLE W 11 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 2 1 1 -5
+p242
+aVJerryd Bayless MEM 03/08/2013 MEM @ CLE W 23 17 8 16 50.0 1 3 33.3 0 0 - 1 1 2 3 1 0 0 2 0
+p243
+aVTayshaun Prince MEM 03/08/2013 MEM @ CLE W 35 8 4 12 33.3 0 1 0.0 0 0 - 1 4 5 7 0 1 1 0 21
+p244
+aVMike Conley MEM 03/06/2013 MEM vs. POR W 36 20 7 11 63.6 1 2 50.0 5 6 83.3 0 3 3 6 2 2 2 3 9
+p245
+aVJerryd Bayless MEM 03/06/2013 MEM vs. POR W 25 13 5 12 41.7 3 5 60.0 0 0 - 0 2 2 1 1 0 1 3 19
+p246
+aVTony Wroten MEM 03/06/2013 MEM vs. POR W 14 6 3 5 60.0 0 1 0.0 0 0 - 2 2 4 4 0 0 1 1 -3
+p247
+aVAustin Daye MEM 03/06/2013 MEM vs. POR W 7 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 2 0
+p248
+aVEd Davis MEM 03/06/2013 MEM vs. POR W 25 3 1 4 25.0 0 0 - 1 2 50.0 2 4 6 0 1 2 0 4 -1
+p249
+aVTony Allen MEM 03/06/2013 MEM vs. POR W 21 10 4 13 30.8 0 1 0.0 2 2 100.0 2 5 7 0 1 1 0 2 -1
+p250
+aVTayshaun Prince MEM 03/06/2013 MEM vs. POR W 35 6 3 12 25.0 0 1 0.0 0 0 - 2 7 9 5 0 0 1 0 4
+p251
+aVJon Leuer MEM 03/06/2013 MEM vs. POR W 10 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -9
+p252
+aVDexter Pittman MEM 03/06/2013 MEM vs. POR W 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p253
+aVQuincy Pondexter MEM 03/06/2013 MEM vs. POR W 22 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 1 0 0 0 1 6
+p254
+aVMarc Gasol MEM 03/06/2013 MEM vs. POR W 41 23 10 17 58.8 0 0 - 3 6 50.0 5 7 12 3 0 1 3 4 6
+p255
+aVTayshaun Prince MEM 03/03/2013 MEM @ ORL W 28 14 6 12 50.0 2 3 66.7 0 0 - 0 4 4 3 1 0 0 1 19
+p256
+aVJerryd Bayless MEM 03/03/2013 MEM @ ORL W 25 6 2 6 33.3 1 3 33.3 1 1 100.0 1 3 4 3 2 0 1 0 6
+p257
+aVEd Davis MEM 03/03/2013 MEM @ ORL W 24 10 5 6 83.3 0 0 - 0 4 0.0 2 8 10 0 2 3 2 1 17
+p258
+aVJon Leuer MEM 03/03/2013 MEM @ ORL W 17 6 3 4 75.0 0 0 - 0 0 - 3 1 4 1 1 0 1 2 2
+p259
+aVMike Conley MEM 03/03/2013 MEM @ ORL W 25 13 5 9 55.6 2 5 40.0 1 1 100.0 0 2 2 4 1 1 1 3 23
+p260
+aVAustin Daye MEM 03/03/2013 MEM @ ORL W 5 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 1 2 -3
+p261
+aVQuincy Pondexter MEM 03/03/2013 MEM @ ORL W 22 12 4 9 44.4 3 6 50.0 1 2 50.0 1 0 1 3 0 0 0 1 21
+p262
+aVTony Wroten MEM 03/03/2013 MEM @ ORL W 17 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 5 0 0 4 4 4
+p263
+aVTony Allen MEM 03/03/2013 MEM @ ORL W 21 13 6 13 46.2 0 2 0.0 1 1 100.0 2 3 5 1 1 0 0 2 8
+p264
+aVDexter Pittman MEM 03/03/2013 MEM @ ORL W 10 2 1 4 25.0 0 0 - 0 1 0.0 2 1 3 0 0 0 0 1 -5
+p265
+aVDarrell Arthur MEM 03/03/2013 MEM @ ORL W 9 7 2 4 50.0 0 0 - 3 3 100.0 1 1 2 0 0 0 1 2 7
+p266
+aVMarc Gasol MEM 03/03/2013 MEM @ ORL W 36 12 5 6 83.3 0 0 - 2 2 100.0 2 3 5 11 0 1 2 0 31
+p267
+aVTayshaun Prince MEM 03/01/2013 MEM @ MIA L 35 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 4 0 1 0 1 4
+p268
+aVEd Davis MEM 03/01/2013 MEM @ MIA L 10 3 1 2 50.0 0 0 - 1 4 25.0 0 3 3 0 0 0 1 3 -3
+p269
+aVZach Randolph MEM 03/01/2013 MEM @ MIA L 37 14 6 16 37.5 0 0 - 2 4 50.0 4 5 9 1 1 0 3 4 -8
+p270
+aVTony Allen MEM 03/01/2013 MEM @ MIA L 28 9 2 7 28.6 0 0 - 5 6 83.3 2 2 4 0 0 0 1 2 -5
+p271
+aVQuincy Pondexter MEM 03/01/2013 MEM @ MIA L 21 10 2 3 66.7 1 2 50.0 5 5 100.0 0 1 1 3 1 0 1 1 -9
+p272
+aVAustin Daye MEM 03/01/2013 MEM @ MIA L 10 5 2 7 28.6 1 4 25.0 0 0 - 1 2 3 0 0 1 1 3 -9
+p273
+aVMarc Gasol MEM 03/01/2013 MEM @ MIA L 36 24 8 13 61.5 0 1 0.0 8 8 100.0 2 7 9 4 0 1 2 4 5
+p274
+aVMike Conley MEM 03/01/2013 MEM @ MIA L 34 14 6 13 46.2 2 4 50.0 0 0 - 0 4 4 8 2 0 2 4 2
+p275
+aVJerryd Bayless MEM 03/01/2013 MEM @ MIA L 17 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 3 0 0 0 0 -4
+p276
+aVDarrell Arthur MEM 03/01/2013 MEM @ MIA L 12 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -8
+p277
+aVAustin Daye MEM 02/27/2013 MEM vs. DAL W 16 10 4 8 50.0 2 4 50.0 0 0 - 1 3 4 1 0 1 0 3 -8
+p278
+aVTony Allen MEM 02/27/2013 MEM vs. DAL W 25 9 2 7 28.6 0 0 - 5 6 83.3 1 2 3 1 2 0 1 4 4
+p279
+aVMike Conley MEM 02/27/2013 MEM vs. DAL W 37 5 2 13 15.4 0 4 0.0 1 1 100.0 0 4 4 6 3 0 4 1 8
+p280
+aVTayshaun Prince MEM 02/27/2013 MEM vs. DAL W 26 4 2 8 25.0 0 1 0.0 0 0 - 1 7 8 0 0 0 1 3 18
+p281
+aVEd Davis MEM 02/27/2013 MEM vs. DAL W 5 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -6
+p282
+aVDarrell Arthur MEM 02/27/2013 MEM vs. DAL W 14 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 1 1 1 2
+p283
+aVJerryd Bayless MEM 02/27/2013 MEM vs. DAL W 14 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 2 1 0 1 2 2
+p284
+aVMarc Gasol MEM 02/27/2013 MEM vs. DAL W 38 21 6 14 42.9 0 0 - 9 11 81.8 6 6 12 5 1 0 4 5 11
+p285
+aVZach Randolph MEM 02/27/2013 MEM vs. DAL W 38 22 7 16 43.8 0 1 0.0 8 10 80.0 2 8 10 4 3 0 3 2 5
+p286
+aVQuincy Pondexter MEM 02/27/2013 MEM vs. DAL W 26 12 3 4 75.0 2 3 66.7 4 4 100.0 0 1 1 2 0 0 0 1 -6
+p287
+aVTayshaun Prince MEM 02/24/2013 MEM @ BKN W 30 11 5 9 55.6 1 1 100.0 0 1 0.0 1 0 1 1 3 0 3 2 11
+p288
+aVAustin Daye MEM 02/24/2013 MEM @ BKN W 11 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 1 1 0 2
+p289
+aVMarc Gasol MEM 02/24/2013 MEM @ BKN W 37 14 6 11 54.5 0 1 0.0 2 2 100.0 1 6 7 5 0 4 1 2 7
+p290
+aVQuincy Pondexter MEM 02/24/2013 MEM @ BKN W 18 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -5
+p291
+aVJon Leuer MEM 02/24/2013 MEM @ BKN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p292
+aVTony Allen MEM 02/24/2013 MEM @ BKN W 30 12 5 8 62.5 0 0 - 2 2 100.0 1 5 6 0 0 2 0 2 12
+p293
+aVJerryd Bayless MEM 02/24/2013 MEM @ BKN W 15 0 0 6 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -9
+p294
+aVDarrell Arthur MEM 02/24/2013 MEM @ BKN W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 1 3 -2
+p295
+aVZach Randolph MEM 02/24/2013 MEM @ BKN W 41 16 7 16 43.8 0 0 - 2 3 66.7 3 11 14 0 0 1 4 2 13
+p296
+aVTony Wroten MEM 02/24/2013 MEM @ BKN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p297
+aVMike Conley MEM 02/24/2013 MEM @ BKN W 37 10 4 10 40.0 0 1 0.0 2 2 100.0 0 2 2 7 3 0 0 3 6
+p298
+aVEd Davis MEM 02/24/2013 MEM @ BKN W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 1 2 -10
+p299
+aVTony Wroten MEM 02/22/2013 MEM vs. ORL W 6 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 1 2 -3
+p300
+aVZach Randolph MEM 02/22/2013 MEM vs. ORL W 37 16 6 13 46.2 0 0 - 4 7 57.1 4 10 14 4 0 1 3 1 12
+p301
+aVDarrell Arthur MEM 02/22/2013 MEM vs. ORL W 7 1 0 3 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -10
+p302
+aVTayshaun Prince MEM 02/22/2013 MEM vs. ORL W 29 6 2 6 33.3 0 1 0.0 2 4 50.0 0 6 6 5 2 0 1 1 14
+p303
+aVTony Allen MEM 02/22/2013 MEM vs. ORL W 33 9 4 12 33.3 0 0 - 1 2 50.0 3 5 8 1 2 2 2 3 12
+p304
+aVMike Conley MEM 02/22/2013 MEM vs. ORL W 35 14 4 11 36.4 2 7 28.6 4 4 100.0 0 2 2 7 2 0 4 3 10
+p305
+aVAustin Daye MEM 02/22/2013 MEM vs. ORL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 2
+p306
+aVEd Davis MEM 02/22/2013 MEM vs. ORL W 14 10 4 4 100.0 0 0 - 2 4 50.0 0 1 1 0 0 2 0 2 -11
+p307
+aVQuincy Pondexter MEM 02/22/2013 MEM vs. ORL W 17 5 2 6 33.3 1 4 25.0 0 0 - 2 2 4 0 0 0 1 0 -10
+p308
+aVJerryd Bayless MEM 02/22/2013 MEM vs. ORL W 22 8 4 9 44.4 0 3 0.0 0 0 - 1 1 2 2 1 0 2 1 -7
+p309
+aVMarc Gasol MEM 02/22/2013 MEM vs. ORL W 37 19 8 11 72.7 0 0 - 3 4 75.0 2 11 13 4 1 0 0 1 21
+p310
+aVQuincy Pondexter MEM 02/20/2013 MEM @ TOR W 16 4 2 3 66.7 0 1 0.0 0 0 - 2 1 3 0 1 0 0 1 -3
+p311
+aVMarc Gasol MEM 02/20/2013 MEM @ TOR W 34 5 2 12 16.7 0 0 - 1 2 50.0 0 3 3 4 0 4 2 4 12
+p312
+aVMike Conley MEM 02/20/2013 MEM @ TOR W 41 17 4 10 40.0 3 6 50.0 6 9 66.7 4 2 6 6 3 1 3 1 4
+p313
+aVDarrell Arthur MEM 02/20/2013 MEM @ TOR W 13 8 4 7 57.1 0 0 - 0 0 - 2 1 3 1 0 0 1 3 -8
+p314
+aVTayshaun Prince MEM 02/20/2013 MEM @ TOR W 31 11 5 10 50.0 1 2 50.0 0 0 - 1 1 2 1 0 0 0 4 5
+p315
+aVTony Allen MEM 02/20/2013 MEM @ TOR W 35 12 3 8 37.5 0 0 - 6 7 85.7 3 5 8 1 3 1 1 3 3
+p316
+aVTony Wroten MEM 02/20/2013 MEM @ TOR W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 3
+p317
+aVEd Davis MEM 02/20/2013 MEM @ TOR W 14 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 0 1 1 2 2
+p318
+aVZach Randolph MEM 02/20/2013 MEM @ TOR W 33 17 4 17 23.5 0 0 - 9 14 64.3 7 11 18 3 0 0 1 3 4
+p319
+aVJerryd Bayless MEM 02/20/2013 MEM @ TOR W 16 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 3 0 0 1 1 8
+p320
+aVTony Wroten MEM 02/19/2013 MEM @ DET W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -14
+p321
+aVJon Leuer MEM 02/19/2013 MEM @ DET W 5 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -11
+p322
+aVTayshaun Prince MEM 02/19/2013 MEM @ DET W 20 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 0 1 1 0 1 6
+p323
+aVAustin Daye MEM 02/19/2013 MEM @ DET W 14 6 3 5 60.0 0 2 0.0 0 2 0.0 0 3 3 2 1 0 0 2 -11
+p324
+aVDarrell Arthur MEM 02/19/2013 MEM @ DET W 16 8 4 10 40.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -8
+p325
+aVEd Davis MEM 02/19/2013 MEM @ DET W 21 14 6 7 85.7 0 0 - 2 6 33.3 1 3 4 1 1 4 0 2 11
+p326
+aVQuincy Pondexter MEM 02/19/2013 MEM @ DET W 22 10 4 6 66.7 1 1 100.0 1 1 100.0 1 2 3 1 3 1 1 0 23
+p327
+aVTony Allen MEM 02/19/2013 MEM @ DET W 20 10 5 7 71.4 0 1 0.0 0 0 - 1 5 6 1 1 1 4 4 8
+p328
+aVZach Randolph MEM 02/19/2013 MEM @ DET W 27 15 6 11 54.5 0 0 - 3 4 75.0 5 5 10 3 0 0 1 1 25
+p329
+aVMike Conley MEM 02/19/2013 MEM @ DET W 30 19 8 11 72.7 2 2 100.0 1 1 100.0 0 2 2 4 2 0 3 1 16
+p330
+aVMarc Gasol MEM 02/19/2013 MEM @ DET W 27 8 2 7 28.6 0 0 - 4 4 100.0 2 3 5 7 2 0 0 4 11
+p331
+aVJerryd Bayless MEM 02/19/2013 MEM @ DET W 31 8 4 8 50.0 0 2 0.0 0 0 - 0 5 5 10 3 0 3 1 14
+p332
+aVZach Randolph MEM 02/12/2013 MEM vs. SAC W 36 13 6 11 54.5 0 0 - 1 3 33.3 1 8 9 0 0 0 1 3 14
+p333
+aVMarc Gasol MEM 02/12/2013 MEM vs. SAC W 41 24 8 13 61.5 0 0 - 8 9 88.9 0 12 12 2 0 1 5 4 1
+p334
+aVEd Davis MEM 02/12/2013 MEM vs. SAC W 6 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -5
+p335
+aVTony Allen MEM 02/12/2013 MEM vs. SAC W 33 19 8 12 66.7 1 2 50.0 2 2 100.0 2 6 8 3 2 1 4 4 2
+p336
+aVTony Wroten MEM 02/12/2013 MEM vs. SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -5
+p337
+aVMike Conley MEM 02/12/2013 MEM vs. SAC W 34 22 6 12 50.0 2 4 50.0 8 8 100.0 1 1 2 7 1 1 4 3 11
+p338
+aVTayshaun Prince MEM 02/12/2013 MEM vs. SAC W 36 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 4 0 0 1 1 14
+p339
+aVAustin Daye MEM 02/12/2013 MEM vs. SAC W 13 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 2 -9
+p340
+aVDarrell Arthur MEM 02/12/2013 MEM vs. SAC W 14 6 3 4 75.0 0 0 - 0 0 - 2 1 3 1 1 0 0 4 4
+p341
+aVJerryd Bayless MEM 02/12/2013 MEM vs. SAC W 24 6 2 7 28.6 1 4 25.0 1 2 50.0 0 1 1 3 0 0 3 1 8
+p342
+aVTayshaun Prince MEM 02/10/2013 MEM vs. MIN W 23 18 8 8 100.0 1 1 100.0 1 2 50.0 1 2 3 1 0 1 2 2 16
+p343
+aVEd Davis MEM 02/10/2013 MEM vs. MIN W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 1 0 0 2
+p344
+aVMarc Gasol MEM 02/10/2013 MEM vs. MIN W 35 9 2 7 28.6 0 0 - 5 6 83.3 3 6 9 8 3 1 2 2 20
+p345
+aVTony Allen MEM 02/10/2013 MEM vs. MIN W 26 8 3 6 50.0 0 0 - 2 4 50.0 2 3 5 3 4 0 2 2 13
+p346
+aVMike Conley MEM 02/10/2013 MEM vs. MIN W 36 16 6 13 46.2 2 5 40.0 2 2 100.0 0 3 3 8 1 0 0 4 19
+p347
+aVZach Randolph MEM 02/10/2013 MEM vs. MIN W 31 16 7 15 46.7 0 0 - 2 2 100.0 4 4 8 2 2 0 1 2 7
+p348
+aVTony Wroten MEM 02/10/2013 MEM vs. MIN W 11 7 2 4 50.0 0 1 0.0 3 4 75.0 0 0 0 3 0 0 0 2 -2
+p349
+aVChris Johnson MEM 02/10/2013 MEM vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p350
+aVJerryd Bayless MEM 02/10/2013 MEM vs. MIN W 19 7 3 7 42.9 1 1 100.0 0 0 - 1 0 1 3 1 0 2 4 7
+p351
+aVJon Leuer MEM 02/10/2013 MEM vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p352
+aVDarrell Arthur MEM 02/10/2013 MEM vs. MIN W 17 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 2 6
+p353
+aVAustin Daye MEM 02/10/2013 MEM vs. MIN W 25 16 6 9 66.7 2 4 50.0 2 2 100.0 1 3 4 1 0 1 3 2 1
+p354
+aVQuincy Pondexter MEM 02/10/2013 MEM vs. MIN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p355
+aVZach Randolph MEM 02/08/2013 MEM vs. GSW W 36 16 4 13 30.8 0 0 - 8 8 100.0 2 10 12 1 1 1 2 3 3
+p356
+aVTayshaun Prince MEM 02/08/2013 MEM vs. GSW W 35 6 3 12 25.0 0 3 0.0 0 0 - 0 4 4 5 0 1 0 0 5
+p357
+aVMarc Gasol MEM 02/08/2013 MEM vs. GSW W 36 20 9 14 64.3 0 0 - 2 2 100.0 4 7 11 5 1 0 3 3 3
+p358
+aVJerryd Bayless MEM 02/08/2013 MEM vs. GSW W 27 14 4 13 30.8 3 9 33.3 3 4 75.0 0 2 2 3 0 0 1 3 -2
+p359
+aVAustin Daye MEM 02/08/2013 MEM vs. GSW W 17 12 4 6 66.7 3 4 75.0 1 1 100.0 0 4 4 2 0 0 0 4 2
+p360
+aVTony Allen MEM 02/08/2013 MEM vs. GSW W 28 17 7 8 87.5 1 1 100.0 2 4 50.0 2 2 4 0 2 0 2 6 5
+p361
+aVDarrell Arthur MEM 02/08/2013 MEM vs. GSW W 16 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 4
+p362
+aVMike Conley MEM 02/08/2013 MEM vs. GSW W 38 7 2 7 28.6 1 3 33.3 2 2 100.0 1 3 4 10 2 1 4 2 10
+p363
+aVEd Davis MEM 02/08/2013 MEM vs. GSW W 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 0
+p364
+aVAustin Daye MEM 02/06/2013 MEM @ ATL L 14 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 1 0 0 1 -3
+p365
+aVTayshaun Prince MEM 02/06/2013 MEM @ ATL L 30 6 3 9 33.3 0 0 - 0 2 0.0 0 2 2 2 0 0 0 1 -10
+p366
+aVEd Davis MEM 02/06/2013 MEM @ ATL L 9 2 1 1 100.0 0 0 - 0 0 - 1 5 6 0 0 1 1 3 4
+p367
+aVTony Wroten MEM 02/06/2013 MEM @ ATL L 9 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 3 0 1 1 1 3
+p368
+aVMike Conley MEM 02/06/2013 MEM @ ATL L 34 17 6 12 50.0 2 5 40.0 3 3 100.0 0 1 1 8 1 0 2 0 -8
+p369
+aVJon Leuer MEM 02/06/2013 MEM @ ATL L 0 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p370
+aVChris Johnson MEM 02/06/2013 MEM @ ATL L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p371
+aVTony Allen MEM 02/06/2013 MEM @ ATL L 27 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 0 0 2 3 -10
+p372
+aVDarrell Arthur MEM 02/06/2013 MEM @ ATL L 16 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 1 1 0 1 -4
+p373
+aVZach Randolph MEM 02/06/2013 MEM @ ATL L 36 20 10 18 55.6 0 1 0.0 0 1 0.0 2 5 7 2 0 1 0 0 -10
+p374
+aVJerryd Bayless MEM 02/06/2013 MEM @ ATL L 25 15 6 9 66.7 1 1 100.0 2 2 100.0 0 4 4 5 0 0 1 4 -4
+p375
+aVMarc Gasol MEM 02/06/2013 MEM @ ATL L 35 14 4 13 30.8 0 0 - 6 8 75.0 5 5 10 4 3 0 1 5 -14
+p376
+aVAustin Daye MEM 02/05/2013 MEM vs. PHX L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -13
+p377
+aVMike Conley MEM 02/05/2013 MEM vs. PHX L 37 9 3 11 27.3 0 3 0.0 3 3 100.0 0 1 1 6 2 0 1 2 8
+p378
+aVMarc Gasol MEM 02/05/2013 MEM vs. PHX L 23 6 2 8 25.0 0 0 - 2 2 100.0 0 3 3 1 0 0 4 6 -13
+p379
+aVZach Randolph MEM 02/05/2013 MEM vs. PHX L 39 21 9 16 56.3 0 1 0.0 3 4 75.0 7 6 13 2 0 0 2 2 4
+p380
+aVTony Allen MEM 02/05/2013 MEM vs. PHX L 30 8 4 6 66.7 0 0 - 0 0 - 1 1 2 1 1 0 1 3 -11
+p381
+aVChris Johnson MEM 02/05/2013 MEM vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p382
+aVTayshaun Prince MEM 02/05/2013 MEM vs. PHX L 37 11 5 12 41.7 0 0 - 1 2 50.0 2 4 6 3 3 0 3 1 3
+p383
+aVJerryd Bayless MEM 02/05/2013 MEM vs. PHX L 29 29 11 15 73.3 3 4 75.0 4 4 100.0 0 2 2 2 1 0 4 3 -4
+p384
+aVDarrell Arthur MEM 02/05/2013 MEM vs. PHX L 25 4 1 10 10.0 0 1 0.0 2 2 100.0 4 3 7 0 0 0 1 2 -5
+p385
+aVEd Davis MEM 02/05/2013 MEM vs. PHX L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p386
+aVAustin Daye MEM 02/01/2013 MEM vs. WAS W 5 1 0 2 0.0 0 1 0.0 1 1 100.0 1 1 2 0 0 0 0 0 2
+p387
+aVMarc Gasol MEM 02/01/2013 MEM vs. WAS W 37 13 5 13 38.5 0 1 0.0 3 3 100.0 5 10 15 5 1 2 4 1 2
+p388
+aVJerryd Bayless MEM 02/01/2013 MEM vs. WAS W 36 11 4 13 30.8 0 2 0.0 3 4 75.0 0 5 5 2 1 0 1 2 13
+p389
+aVTony Wroten MEM 02/01/2013 MEM vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -4
+p390
+aVDarrell Arthur MEM 02/01/2013 MEM vs. WAS W 17 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 1 1 0 2 6
+p391
+aVTayshaun Prince MEM 02/01/2013 MEM vs. WAS W 32 14 7 11 63.6 0 0 - 0 0 - 0 1 1 3 0 1 0 0 12
+p392
+aVMike Conley MEM 02/01/2013 MEM vs. WAS W 34 18 7 15 46.7 1 3 33.3 3 3 100.0 0 3 3 6 4 0 3 1 7
+p393
+aVTony Allen MEM 02/01/2013 MEM vs. WAS W 35 11 5 8 62.5 0 0 - 1 2 50.0 3 5 8 3 2 1 4 4 -3
+p394
+aVZach Randolph MEM 02/01/2013 MEM vs. WAS W 36 7 3 10 30.0 0 0 - 1 2 50.0 3 8 11 3 0 1 3 1 5
+p395
+aVEd Davis MEM 02/01/2013 MEM vs. WAS W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 5
+p396
+aVTony Allen MEM 01/31/2013 MEM @ OKC L 30 8 3 12 25.0 0 1 0.0 2 2 100.0 5 4 9 0 0 0 1 5 -12
+p397
+aVDarrell Arthur MEM 01/31/2013 MEM @ OKC L 24 9 4 10 40.0 1 3 33.3 0 0 - 2 2 4 0 1 1 1 2 -8
+p398
+aVChris Johnson MEM 01/31/2013 MEM @ OKC L 21 1 0 6 0.0 0 5 0.0 1 2 50.0 2 0 2 0 2 0 1 3 -16
+p399
+aVMike Conley MEM 01/31/2013 MEM @ OKC L 38 17 7 19 36.8 3 9 33.3 0 0 - 1 2 3 4 3 0 1 3 -7
+p400
+aVMarc Gasol MEM 01/31/2013 MEM @ OKC L 37 16 6 15 40.0 0 1 0.0 4 5 80.0 1 6 7 3 0 0 4 3 -7
+p401
+aVJerryd Bayless MEM 01/31/2013 MEM @ OKC L 40 23 9 17 52.9 2 5 40.0 3 4 75.0 1 2 3 6 1 0 3 3 -15
+p402
+aVJon Leuer MEM 01/31/2013 MEM @ OKC L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p403
+aVZach Randolph MEM 01/31/2013 MEM @ OKC L 37 9 4 17 23.5 0 0 - 1 2 50.0 9 10 19 2 3 1 2 2 -15
+p404
+aVTony Wroten MEM 01/31/2013 MEM @ OKC L 9 6 1 2 50.0 0 1 0.0 4 4 100.0 0 0 0 4 2 0 0 2 -4
+p405
+aVRudy Gay MEM 01/28/2013 MEM @ PHI W 40 26 10 17 58.8 3 6 50.0 3 4 75.0 1 6 7 5 0 1 3 1 5
+p406
+aVTony Wroten MEM 01/28/2013 MEM @ PHI W 13 6 2 2 100.0 0 0 - 2 3 66.7 0 2 2 1 1 0 2 2 -4
+p407
+aVDarrell Arthur MEM 01/28/2013 MEM @ PHI W 20 6 3 7 42.9 0 0 - 0 2 0.0 2 0 2 1 0 0 1 2 0
+p408
+aVTony Allen MEM 01/28/2013 MEM @ PHI W 24 5 2 6 33.3 1 2 50.0 0 0 - 2 1 3 0 1 0 4 3 -18
+p409
+aVZach Randolph MEM 01/28/2013 MEM @ PHI W 32 4 2 7 28.6 0 0 - 0 0 - 3 9 12 2 1 0 2 2 -3
+p410
+aVMarc Gasol MEM 01/28/2013 MEM @ PHI W 43 27 10 15 66.7 1 1 100.0 6 6 100.0 0 7 7 7 2 2 3 3 9
+p411
+aVJerryd Bayless MEM 01/28/2013 MEM @ PHI W 41 21 8 15 53.3 1 2 50.0 4 4 100.0 1 4 5 9 0 1 2 1 7
+p412
+aVChris Johnson MEM 01/28/2013 MEM @ PHI W 26 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 1 1 0 0 1 19
+p413
+aVChris Johnson MEM 01/27/2013 MEM vs. NOH L 16 6 2 5 40.0 2 5 40.0 0 0 - 0 3 3 1 1 0 1 0 8
+p414
+aVRudy Gay MEM 01/27/2013 MEM vs. NOH L 34 10 3 17 17.6 1 7 14.3 3 4 75.0 2 3 5 3 2 1 4 1 -11
+p415
+aVTony Wroten MEM 01/27/2013 MEM vs. NOH L 26 2 1 7 14.3 0 0 - 0 0 - 0 1 1 4 1 2 2 1 -3
+p416
+aVJerryd Bayless MEM 01/27/2013 MEM vs. NOH L 36 14 6 12 50.0 0 3 0.0 2 2 100.0 1 1 2 5 3 0 1 4 -7
+p417
+aVDarrell Arthur MEM 01/27/2013 MEM vs. NOH L 21 8 3 7 42.9 0 0 - 2 2 100.0 4 3 7 0 0 1 3 4 -5
+p418
+aVMike Conley MEM 01/27/2013 MEM vs. NOH L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -4
+p419
+aVZach Randolph MEM 01/27/2013 MEM vs. NOH L 34 20 9 16 56.3 0 0 - 2 2 100.0 7 6 13 1 1 0 2 2 -2
+p420
+aVTony Allen MEM 01/27/2013 MEM vs. NOH L 28 9 3 9 33.3 0 0 - 3 4 75.0 3 2 5 0 0 0 1 1 -7
+p421
+aVMarc Gasol MEM 01/27/2013 MEM vs. NOH L 40 14 5 14 35.7 0 0 - 4 4 100.0 5 6 11 3 1 3 1 4 -9
+p422
+aVDarrell Arthur MEM 01/25/2013 MEM vs. BKN W 20 6 3 9 33.3 0 0 - 0 0 - 1 4 5 1 0 1 0 3 4
+p423
+aVMarc Gasol MEM 01/25/2013 MEM vs. BKN W 34 20 10 15 66.7 0 0 - 0 1 0.0 4 5 9 2 0 1 2 3 19
+p424
+aVZach Randolph MEM 01/25/2013 MEM vs. BKN W 39 12 6 13 46.2 0 0 - 0 0 - 1 8 9 2 1 1 3 3 25
+p425
+aVTony Allen MEM 01/25/2013 MEM vs. BKN W 21 6 3 7 42.9 0 0 - 0 0 - 1 1 2 2 1 0 0 3 1
+p426
+aVRudy Gay MEM 01/25/2013 MEM vs. BKN W 26 11 5 13 38.5 0 1 0.0 1 2 50.0 1 3 4 4 1 0 0 2 5
+p427
+aVJon Leuer MEM 01/25/2013 MEM vs. BKN W 2 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 0
+p428
+aVChris Johnson MEM 01/25/2013 MEM vs. BKN W 22 10 4 6 66.7 2 4 50.0 0 0 - 3 1 4 0 0 0 1 1 21
+p429
+aVJerryd Bayless MEM 01/25/2013 MEM vs. BKN W 30 11 5 8 62.5 0 1 0.0 1 1 100.0 1 6 7 8 1 0 2 3 15
+p430
+aVMike Conley MEM 01/25/2013 MEM vs. BKN W 22 14 6 7 85.7 2 3 66.7 0 0 - 0 1 1 4 1 0 1 2 13
+p431
+aVTony Wroten MEM 01/25/2013 MEM vs. BKN W 23 11 5 9 55.6 0 0 - 1 2 50.0 3 1 4 2 0 0 3 1 17
+p432
+aVHamed Haddadi MEM 01/25/2013 MEM vs. BKN W 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p433
+aVRudy Gay MEM 01/23/2013 MEM vs. LAL W 37 12 3 11 27.3 2 3 66.7 4 5 80.0 2 9 11 2 0 1 6 4 -1
+p434
+aVMike Conley MEM 01/23/2013 MEM vs. LAL W 33 19 9 14 64.3 1 2 50.0 0 0 - 1 2 3 6 2 0 0 2 12
+p435
+aVTony Wroten MEM 01/23/2013 MEM vs. LAL W 18 9 4 13 30.8 0 3 0.0 1 1 100.0 3 2 5 2 1 1 0 1 16
+p436
+aVDarrell Arthur MEM 01/23/2013 MEM vs. LAL W 28 20 9 15 60.0 0 1 0.0 2 2 100.0 4 5 9 3 1 1 0 1 22
+p437
+aVTony Allen MEM 01/23/2013 MEM vs. LAL W 30 12 6 11 54.5 0 0 - 0 0 - 2 3 5 1 2 1 0 5 0
+p438
+aVMarc Gasol MEM 01/23/2013 MEM vs. LAL W 30 8 4 7 57.1 0 0 - 0 0 - 1 6 7 4 0 2 0 5 1
+p439
+aVChris Johnson MEM 01/23/2013 MEM vs. LAL W 7 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 7
+p440
+aVZach Randolph MEM 01/23/2013 MEM vs. LAL W 29 12 6 13 46.2 0 0 - 0 0 - 2 8 10 2 1 0 5 3 -3
+p441
+aVHamed Haddadi MEM 01/23/2013 MEM vs. LAL W 15 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 2 1 4 6
+p442
+aVJerryd Bayless MEM 01/23/2013 MEM vs. LAL W 14 10 4 7 57.1 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 3 5
+p443
+aVMarreese Speights MEM 01/21/2013 MEM vs. IND L 11 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 1 1 0 1 2 1
+p444
+aVWayne Ellington MEM 01/21/2013 MEM vs. IND L 26 17 7 9 77.8 3 3 100.0 0 0 - 0 0 0 0 0 0 3 0 3
+p445
+aVTony Allen MEM 01/21/2013 MEM vs. IND L 26 6 3 8 37.5 0 0 - 0 0 - 5 3 8 1 3 0 1 0 -5
+p446
+aVDarrell Arthur MEM 01/21/2013 MEM vs. IND L 17 4 2 7 28.6 0 0 - 0 0 - 1 0 1 1 0 1 0 2 -9
+p447
+aVMarc Gasol MEM 01/21/2013 MEM vs. IND L 31 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 2 1 1 2 3 8
+p448
+aVJerryd Bayless MEM 01/21/2013 MEM vs. IND L 20 4 2 3 66.7 0 0 - 0 0 - 0 4 4 5 0 0 3 0 -12
+p449
+aVMike Conley MEM 01/21/2013 MEM vs. IND L 33 13 6 12 50.0 1 4 25.0 0 0 - 0 0 0 2 3 0 3 3 6
+p450
+aVZach Randolph MEM 01/21/2013 MEM vs. IND L 37 13 5 14 35.7 0 0 - 3 3 100.0 2 5 7 1 1 0 1 0 -2
+p451
+aVRudy Gay MEM 01/21/2013 MEM vs. IND L 40 14 7 22 31.8 0 3 0.0 0 0 - 3 5 8 3 1 0 1 2 5
+p452
+aVRudy Gay MEM 01/19/2013 MEM @ CHI W 45 16 6 19 31.6 0 0 - 4 6 66.7 3 5 8 2 2 2 2 1 10
+p453
+aVMarreese Speights MEM 01/19/2013 MEM @ CHI W 11 5 2 7 28.6 0 1 0.0 1 1 100.0 0 2 2 0 0 0 0 3 -8
+p454
+aVZach Randolph MEM 01/19/2013 MEM @ CHI W 42 13 6 20 30.0 0 1 0.0 1 4 25.0 9 10 19 0 1 0 1 2 14
+p455
+aVTony Allen MEM 01/19/2013 MEM @ CHI W 39 9 3 6 50.0 0 0 - 3 4 75.0 1 5 6 2 0 0 0 3 6
+p456
+aVDarrell Arthur MEM 01/19/2013 MEM @ CHI W 20 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 1 2 3 4 -12
+p457
+aVWayne Ellington MEM 01/19/2013 MEM @ CHI W 16 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 2 1 -3
+p458
+aVMarc Gasol MEM 01/19/2013 MEM @ CHI W 32 19 7 10 70.0 0 0 - 5 8 62.5 3 5 8 1 1 1 1 5 12
+p459
+aVMike Conley MEM 01/19/2013 MEM @ CHI W 47 13 5 11 45.5 0 2 0.0 3 5 60.0 0 0 0 9 3 3 3 2 4
+p460
+aVJerryd Bayless MEM 01/19/2013 MEM @ CHI W 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p461
+aVMike Conley MEM 01/18/2013 MEM vs. SAC W 37 19 7 16 43.8 2 5 40.0 3 4 75.0 0 5 5 4 1 0 3 2 10
+p462
+aVTony Allen MEM 01/18/2013 MEM vs. SAC W 37 14 6 11 54.5 0 0 - 2 3 66.7 3 6 9 6 1 3 1 3 19
+p463
+aVMarreese Speights MEM 01/18/2013 MEM vs. SAC W 27 10 5 12 41.7 0 0 - 0 2 0.0 4 5 9 2 1 0 1 4 10
+p464
+aVMarc Gasol MEM 01/18/2013 MEM vs. SAC W 37 18 6 14 42.9 0 0 - 6 6 100.0 5 5 10 2 1 3 3 2 11
+p465
+aVRudy Gay MEM 01/18/2013 MEM vs. SAC W 41 13 6 11 54.5 0 0 - 1 1 100.0 2 3 5 3 2 1 5 0 15
+p466
+aVJerryd Bayless MEM 01/18/2013 MEM vs. SAC W 21 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 3 1 0 1 1 10
+p467
+aVWayne Ellington MEM 01/18/2013 MEM vs. SAC W 16 3 1 6 16.7 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 0
+p468
+aVDarrell Arthur MEM 01/18/2013 MEM vs. SAC W 25 7 3 7 42.9 0 0 - 1 2 50.0 1 6 7 0 1 3 1 3 5
+p469
+aVMarreese Speights MEM 01/16/2013 MEM @ SAS L 13 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 0 0 2 1 0 -10
+p470
+aVTony Allen MEM 01/16/2013 MEM @ SAS L 27 11 4 7 57.1 0 0 - 3 3 100.0 1 3 4 1 1 0 3 2 -2
+p471
+aVMarc Gasol MEM 01/16/2013 MEM @ SAS L 27 12 4 6 66.7 0 0 - 4 5 80.0 1 2 3 1 0 0 0 3 -17
+p472
+aVWayne Ellington MEM 01/16/2013 MEM @ SAS L 18 4 0 5 0.0 0 2 0.0 4 4 100.0 0 1 1 1 0 0 0 0 -13
+p473
+aVJerryd Bayless MEM 01/16/2013 MEM @ SAS L 16 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 1 0 0 0 2 -1
+p474
+aVRudy Gay MEM 01/16/2013 MEM @ SAS L 39 17 7 13 53.8 0 0 - 3 4 75.0 1 7 8 2 1 1 6 2 -15
+p475
+aVDarrell Arthur MEM 01/16/2013 MEM @ SAS L 23 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -11
+p476
+aVMike Conley MEM 01/16/2013 MEM @ SAS L 31 10 3 7 42.9 1 3 33.3 3 3 100.0 0 2 2 3 2 0 1 2 -22
+p477
+aVHamed Haddadi MEM 01/16/2013 MEM @ SAS L 3 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 0
+p478
+aVZach Randolph MEM 01/16/2013 MEM @ SAS L 33 11 4 11 36.4 0 2 0.0 3 3 100.0 0 5 5 2 0 0 1 3 -10
+p479
+aVTony Wroten MEM 01/16/2013 MEM @ SAS L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -2
+p480
+aVJosh Selby MEM 01/16/2013 MEM @ SAS L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p481
+aVHamed Haddadi MEM 01/14/2013 MEM vs. LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p482
+aVMarreese Speights MEM 01/14/2013 MEM vs. LAC L 11 2 1 5 20.0 0 0 - 0 0 - 3 2 5 0 0 1 0 4 -8
+p483
+aVMike Conley MEM 01/14/2013 MEM vs. LAC L 30 5 2 11 18.2 1 5 20.0 0 0 - 0 0 0 1 2 0 3 3 -12
+p484
+aVDarrell Arthur MEM 01/14/2013 MEM vs. LAC L 23 10 4 10 40.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 1 2 -17
+p485
+aVTony Wroten MEM 01/14/2013 MEM vs. LAC L 14 8 2 7 28.6 0 1 0.0 4 4 100.0 2 3 5 3 0 0 0 0 -2
+p486
+aVJosh Selby MEM 01/14/2013 MEM vs. LAC L 9 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 0 0 0 2 1 -13
+p487
+aVMarc Gasol MEM 01/14/2013 MEM vs. LAC L 34 8 4 13 30.8 0 0 - 0 0 - 4 6 10 2 1 1 2 3 -22
+p488
+aVTony Allen MEM 01/14/2013 MEM vs. LAC L 33 8 3 9 33.3 0 1 0.0 2 2 100.0 3 3 6 4 2 1 1 4 -10
+p489
+aVWayne Ellington MEM 01/14/2013 MEM vs. LAC L 30 11 4 9 44.4 3 6 50.0 0 0 - 1 5 6 1 1 0 1 2 -7
+p490
+aVJerryd Bayless MEM 01/14/2013 MEM vs. LAC L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 2 0 3 4 -22
+p491
+aVZach Randolph MEM 01/14/2013 MEM vs. LAC L 36 15 5 16 31.3 0 1 0.0 5 9 55.6 10 2 12 1 0 0 1 3 -16
+p492
+aVTony Allen MEM 01/12/2013 MEM @ DAL L 24 9 4 9 44.4 0 0 - 1 2 50.0 3 1 4 0 2 1 1 3 -12
+p493
+aVWayne Ellington MEM 01/12/2013 MEM @ DAL L 21 2 1 9 11.1 0 3 0.0 0 0 - 0 1 1 2 1 0 0 2 3
+p494
+aVRudy Gay MEM 01/12/2013 MEM @ DAL L 28 12 5 11 45.5 1 2 50.0 1 2 50.0 1 2 3 1 1 0 3 1 -26
+p495
+aVMike Conley MEM 01/12/2013 MEM @ DAL L 23 7 2 5 40.0 1 1 100.0 2 2 100.0 0 1 1 4 1 0 0 0 -14
+p496
+aVDarrell Arthur MEM 01/12/2013 MEM @ DAL L 28 11 5 13 38.5 0 1 0.0 1 4 25.0 4 5 9 0 0 0 1 4 2
+p497
+aVMarc Gasol MEM 01/12/2013 MEM @ DAL L 22 8 3 8 37.5 0 0 - 2 2 100.0 2 4 6 3 0 1 0 1 -23
+p498
+aVZach Randolph MEM 01/12/2013 MEM @ DAL L 20 6 3 7 42.9 0 0 - 0 0 - 2 2 4 2 0 0 1 0 -16
+p499
+aVJerryd Bayless MEM 01/12/2013 MEM @ DAL L 29 9 2 4 50.0 1 1 100.0 4 5 80.0 0 1 1 5 0 0 1 1 -17
+p500
+aVHamed Haddadi MEM 01/12/2013 MEM @ DAL L 16 2 1 5 20.0 0 0 - 0 0 - 2 5 7 0 0 3 0 1 12
+p501
+aVJosh Selby MEM 01/12/2013 MEM @ DAL L 16 10 3 6 50.0 0 0 - 4 7 57.1 0 3 3 2 1 0 0 1 6
+p502
+aVMarreese Speights MEM 01/12/2013 MEM @ DAL L 13 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -20
+p503
+aVRudy Gay MEM 01/11/2013 MEM vs. SAS W 43 23 10 20 50.0 1 4 25.0 2 5 40.0 1 5 6 1 0 1 0 3 0
+p504
+aVZach Randolph MEM 01/11/2013 MEM vs. SAS W 43 18 8 15 53.3 0 1 0.0 2 2 100.0 5 5 10 2 1 0 2 4 0
+p505
+aVMarreese Speights MEM 01/11/2013 MEM vs. SAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p506
+aVDarrell Arthur MEM 01/11/2013 MEM vs. SAS W 23 14 6 9 66.7 0 0 - 2 2 100.0 0 5 5 3 2 0 0 2 11
+p507
+aVTony Allen MEM 01/11/2013 MEM vs. SAS W 39 10 5 7 71.4 0 0 - 0 0 - 2 3 5 3 3 0 1 3 2
+p508
+aVMarc Gasol MEM 01/11/2013 MEM vs. SAS W 37 10 4 11 36.4 0 0 - 2 2 100.0 1 5 6 2 1 3 2 4 1
+p509
+aVWayne Ellington MEM 01/11/2013 MEM vs. SAS W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p510
+aVMike Conley MEM 01/11/2013 MEM vs. SAS W 41 21 5 15 33.3 1 4 25.0 10 10 100.0 0 2 2 5 2 0 4 2 13
+p511
+aVJerryd Bayless MEM 01/11/2013 MEM vs. SAS W 24 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 3 1 0 4 2 -3
+p512
+aVDarrell Arthur MEM 01/09/2013 MEM @ GSW W 14 8 4 5 80.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 2
+p513
+aVRudy Gay MEM 01/09/2013 MEM @ GSW W 38 18 9 19 47.4 0 4 0.0 0 0 - 1 4 5 6 0 0 0 2 -1
+p514
+aVTony Allen MEM 01/09/2013 MEM @ GSW W 29 10 4 11 36.4 0 0 - 2 3 66.7 3 1 4 2 1 0 1 1 6
+p515
+aVMike Conley MEM 01/09/2013 MEM @ GSW W 39 16 6 12 50.0 1 4 25.0 3 4 75.0 0 2 2 4 3 0 5 2 11
+p516
+aVMarreese Speights MEM 01/09/2013 MEM @ GSW W 8 6 3 5 60.0 0 0 - 0 0 - 3 3 6 2 1 0 0 3 -9
+p517
+aVJerryd Bayless MEM 01/09/2013 MEM @ GSW W 33 5 2 10 20.0 1 7 14.3 0 1 0.0 1 3 4 6 2 1 1 3 12
+p518
+aVWayne Ellington MEM 01/09/2013 MEM @ GSW W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p519
+aVZach Randolph MEM 01/09/2013 MEM @ GSW W 37 19 8 13 61.5 0 1 0.0 3 3 100.0 4 8 12 0 2 0 1 3 17
+p520
+aVMarc Gasol MEM 01/09/2013 MEM @ GSW W 37 12 4 12 33.3 0 0 - 4 5 80.0 1 8 9 5 1 1 2 2 4
+p521
+aVRudy Gay MEM 01/07/2013 MEM @ SAC W 33 8 2 10 20.0 1 2 50.0 3 3 100.0 0 4 4 2 1 1 1 1 17
+p522
+aVMarc Gasol MEM 01/07/2013 MEM @ SAC W 23 13 3 4 75.0 0 0 - 7 7 100.0 2 4 6 3 0 2 1 3 10
+p523
+aVZach Randolph MEM 01/07/2013 MEM @ SAC W 34 17 6 12 50.0 1 2 50.0 4 4 100.0 1 6 7 4 2 0 1 3 29
+p524
+aVTony Allen MEM 01/07/2013 MEM @ SAC W 29 10 4 10 40.0 0 0 - 2 3 66.7 3 2 5 4 3 2 1 4 15
+p525
+aVMike Conley MEM 01/07/2013 MEM @ SAC W 33 15 5 11 45.5 2 5 40.0 3 4 75.0 2 3 5 8 1 1 1 3 19
+p526
+aVJerryd Bayless MEM 01/07/2013 MEM @ SAC W 20 7 2 6 33.3 1 3 33.3 2 2 100.0 0 5 5 2 0 0 2 3 18
+p527
+aVDarrell Arthur MEM 01/07/2013 MEM @ SAC W 18 5 2 4 50.0 0 1 0.0 1 2 50.0 2 4 6 0 0 0 0 3 11
+p528
+aVWayne Ellington MEM 01/07/2013 MEM @ SAC W 26 26 10 11 90.9 6 7 85.7 0 0 - 0 1 1 4 1 0 0 1 25
+p529
+aVMarreese Speights MEM 01/07/2013 MEM @ SAC W 20 10 4 10 40.0 0 0 - 2 2 100.0 1 4 5 1 0 0 0 3 17
+p530
+aVTony Wroten MEM 01/07/2013 MEM @ SAC W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p531
+aVDarrell Arthur MEM 01/06/2013 MEM @ PHX W 10 6 2 3 66.7 1 1 100.0 1 2 50.0 1 1 2 0 0 0 0 1 0
+p532
+aVMarc Gasol MEM 01/06/2013 MEM @ PHX W 36 10 5 10 50.0 0 1 0.0 0 0 - 4 8 12 5 2 3 5 5 17
+p533
+aVJerryd Bayless MEM 01/06/2013 MEM @ PHX W 25 9 2 2 100.0 1 1 100.0 4 4 100.0 1 6 7 6 1 0 0 1 4
+p534
+aVJosh Selby MEM 01/06/2013 MEM @ PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p535
+aVMarreese Speights MEM 01/06/2013 MEM @ PHX W 12 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 1 3 2 -4
+p536
+aVTony Wroten MEM 01/06/2013 MEM @ PHX W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p537
+aVRudy Gay MEM 01/06/2013 MEM @ PHX W 40 20 9 18 50.0 0 2 0.0 2 2 100.0 0 3 3 0 1 0 3 1 14
+p538
+aVZach Randolph MEM 01/06/2013 MEM @ PHX W 36 21 9 11 81.8 0 0 - 3 5 60.0 0 8 8 0 1 0 2 3 11
+p539
+aVTony Allen MEM 01/06/2013 MEM @ PHX W 27 11 3 7 42.9 0 0 - 5 5 100.0 1 3 4 2 3 0 2 3 6
+p540
+aVWayne Ellington MEM 01/06/2013 MEM @ PHX W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 0
+p541
+aVHamed Haddadi MEM 01/06/2013 MEM @ PHX W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -5
+p542
+aVMike Conley MEM 01/06/2013 MEM @ PHX W 32 7 3 10 30.0 0 2 0.0 1 2 50.0 0 0 0 9 4 0 1 0 12
+p543
+aVWayne Ellington MEM 01/04/2013 MEM vs. POR L 21 9 2 5 40.0 1 2 50.0 4 4 100.0 1 3 4 2 1 0 1 2 9
+p544
+aVRudy Gay MEM 01/04/2013 MEM vs. POR L 39 19 8 21 38.1 1 2 50.0 2 2 100.0 2 7 9 2 1 0 1 3 4
+p545
+aVMike Conley MEM 01/04/2013 MEM vs. POR L 33 6 2 8 25.0 0 1 0.0 2 2 100.0 1 2 3 3 2 0 1 3 -2
+p546
+aVDarrell Arthur MEM 01/04/2013 MEM vs. POR L 21 10 5 10 50.0 0 0 - 0 0 - 2 3 5 0 1 0 1 1 -4
+p547
+aVJerryd Bayless MEM 01/04/2013 MEM vs. POR L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 0
+p548
+aVTony Allen MEM 01/04/2013 MEM vs. POR L 41 4 2 9 22.2 0 0 - 0 0 - 1 2 3 1 0 0 4 2 -10
+p549
+aVHamed Haddadi MEM 01/04/2013 MEM vs. POR L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 1
+p550
+aVMarc Gasol MEM 01/04/2013 MEM vs. POR L 38 12 5 11 45.5 0 0 - 2 2 100.0 1 5 6 3 3 8 3 2 -5
+p551
+aVMarreese Speights MEM 01/04/2013 MEM vs. POR L 27 22 7 15 46.7 0 0 - 8 8 100.0 7 6 13 0 1 0 2 5 -3
+p552
+aVWayne Ellington MEM 01/02/2013 MEM @ BOS W 19 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 1 0 2 1 7
+p553
+aVTony Wroten MEM 01/02/2013 MEM @ BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p554
+aVDarrell Arthur MEM 01/02/2013 MEM @ BOS W 23 10 4 7 57.1 2 3 66.7 0 0 - 1 2 3 0 0 1 0 1 6
+p555
+aVTony Allen MEM 01/02/2013 MEM @ BOS W 30 15 6 8 75.0 0 1 0.0 3 4 75.0 2 3 5 2 1 0 0 3 2
+p556
+aVMarreese Speights MEM 01/02/2013 MEM @ BOS W 14 10 4 6 66.7 0 0 - 2 2 100.0 2 4 6 0 0 0 1 0 5
+p557
+aVMarc Gasol MEM 01/02/2013 MEM @ BOS W 40 5 1 7 14.3 0 0 - 3 4 75.0 1 6 7 4 4 0 3 3 16
+p558
+aVHamed Haddadi MEM 01/02/2013 MEM @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p559
+aVJerryd Bayless MEM 01/02/2013 MEM @ BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -2
+p560
+aVRudy Gay MEM 01/02/2013 MEM @ BOS W 36 19 6 15 40.0 2 6 33.3 5 6 83.3 0 6 6 5 1 1 2 4 2
+p561
+aVZach Randolph MEM 01/02/2013 MEM @ BOS W 30 6 3 8 37.5 0 0 - 0 2 0.0 2 6 8 2 0 1 1 1 2
+p562
+aVMike Conley MEM 01/02/2013 MEM @ BOS W 44 23 8 15 53.3 3 6 50.0 4 4 100.0 0 3 3 9 1 0 1 3 15
+p563
+aVDarrell Arthur MEM 12/31/2012 MEM @ IND L 18 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 2 4 4 -13
+p564
+aVMarc Gasol MEM 12/31/2012 MEM @ IND L 30 13 6 10 60.0 0 0 - 1 1 100.0 1 1 2 0 0 1 0 5 7
+p565
+aVJerryd Bayless MEM 12/31/2012 MEM @ IND L 19 1 0 4 0.0 0 1 0.0 1 1 100.0 0 0 0 2 1 0 1 1 -11
+p566
+aVMarreese Speights MEM 12/31/2012 MEM @ IND L 15 5 2 6 33.3 0 0 - 1 2 50.0 4 3 7 0 0 0 0 2 0
+p567
+aVRudy Gay MEM 12/31/2012 MEM @ IND L 41 11 3 17 17.6 0 1 0.0 5 8 62.5 2 1 3 3 4 0 2 3 -6
+p568
+aVWayne Ellington MEM 12/31/2012 MEM @ IND L 18 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 1 0 0 1 1 3
+p569
+aVMike Conley MEM 12/31/2012 MEM @ IND L 32 9 3 9 33.3 1 4 25.0 2 2 100.0 2 4 6 7 3 1 4 2 0
+p570
+aVTony Allen MEM 12/31/2012 MEM @ IND L 27 11 5 8 62.5 0 0 - 1 2 50.0 3 3 6 1 1 1 1 3 -2
+p571
+aVZach Randolph MEM 12/31/2012 MEM @ IND L 41 21 7 18 38.9 0 1 0.0 7 8 87.5 5 10 15 3 1 0 3 1 -3
+p572
+aVWayne Ellington MEM 12/29/2012 MEM vs. DEN W 15 6 2 4 50.0 2 3 66.7 0 0 - 0 4 4 0 0 0 0 0 11
+p573
+aVRudy Gay MEM 12/29/2012 MEM vs. DEN W 32 19 8 18 44.4 1 3 33.3 2 3 66.7 1 5 6 0 1 0 2 1 2
+p574
+aVMike Conley MEM 12/29/2012 MEM vs. DEN W 28 7 3 12 25.0 1 5 20.0 0 0 - 0 1 1 6 2 0 0 0 10
+p575
+aVTony Allen MEM 12/29/2012 MEM vs. DEN W 25 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 1 1 1 3 1
+p576
+aVMarc Gasol MEM 12/29/2012 MEM vs. DEN W 29 6 3 9 33.3 0 1 0.0 0 0 - 4 5 9 2 3 2 1 3 1
+p577
+aVHamed Haddadi MEM 12/29/2012 MEM vs. DEN W 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 6
+p578
+aVZach Randolph MEM 12/29/2012 MEM vs. DEN W 29 12 6 13 46.2 0 1 0.0 0 0 - 3 4 7 2 0 0 2 1 8
+p579
+aVMarreese Speights MEM 12/29/2012 MEM vs. DEN W 16 8 3 9 33.3 0 0 - 2 4 50.0 6 4 10 0 1 2 1 2 1
+p580
+aVJerryd Bayless MEM 12/29/2012 MEM vs. DEN W 24 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 5 0 0 1 3 8
+p581
+aVQuincy Pondexter MEM 12/29/2012 MEM vs. DEN W 16 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -2
+p582
+aVDarrell Arthur MEM 12/29/2012 MEM vs. DEN W 18 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 2 1 1 0 3 -1
+p583
+aVMarreese Speights MEM 12/26/2012 MEM vs. PHI L 10 7 2 4 50.0 0 0 - 3 6 50.0 1 2 3 1 0 1 0 3 0
+p584
+aVQuincy Pondexter MEM 12/26/2012 MEM vs. PHI L 39 13 3 10 30.0 3 7 42.9 4 4 100.0 3 2 5 1 1 0 2 2 -6
+p585
+aVDarrell Arthur MEM 12/26/2012 MEM vs. PHI L 15 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 1 0 1 1 2 -8
+p586
+aVJerryd Bayless MEM 12/26/2012 MEM vs. PHI L 12 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 2 0 0 1 0 0
+p587
+aVZach Randolph MEM 12/26/2012 MEM vs. PHI L 33 23 10 18 55.6 1 1 100.0 2 2 100.0 5 4 9 0 4 0 2 4 -2
+p588
+aVTony Allen MEM 12/26/2012 MEM vs. PHI L 27 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 1 0 0 1 3 -1
+p589
+aVMarc Gasol MEM 12/26/2012 MEM vs. PHI L 38 18 9 15 60.0 0 0 - 0 0 - 4 4 8 8 1 2 4 0 -10
+p590
+aVWayne Ellington MEM 12/26/2012 MEM vs. PHI L 30 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 3 1 0 0 3 -13
+p591
+aVMike Conley MEM 12/26/2012 MEM vs. PHI L 36 10 3 17 17.6 1 3 33.3 3 3 100.0 1 2 3 5 3 0 2 1 -10
+p592
+aVMike Conley MEM 12/22/2012 MEM @ HOU L 28 16 7 12 58.3 0 0 - 2 2 100.0 0 1 1 6 3 1 1 2 -10
+p593
+aVHamed Haddadi MEM 12/22/2012 MEM @ HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -1
+p594
+aVQuincy Pondexter MEM 12/22/2012 MEM @ HOU L 28 14 6 13 46.2 2 6 33.3 0 0 - 1 1 2 1 1 0 3 2 -12
+p595
+aVMarreese Speights MEM 12/22/2012 MEM @ HOU L 16 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 1 1 1 1 5
+p596
+aVDarrell Arthur MEM 12/22/2012 MEM @ HOU L 23 8 4 8 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -17
+p597
+aVTony Allen MEM 12/22/2012 MEM @ HOU L 19 11 5 8 62.5 0 1 0.0 1 2 50.0 0 1 1 0 0 1 0 3 -10
+p598
+aVRudy Gay MEM 12/22/2012 MEM @ HOU L 29 6 3 6 50.0 0 2 0.0 0 0 - 0 4 4 4 0 0 4 3 -13
+p599
+aVWayne Ellington MEM 12/22/2012 MEM @ HOU L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p600
+aVZach Randolph MEM 12/22/2012 MEM @ HOU L 26 10 5 8 62.5 0 0 - 0 0 - 2 8 10 3 0 1 1 2 -16
+p601
+aVMarc Gasol MEM 12/22/2012 MEM @ HOU L 27 11 4 7 57.1 0 0 - 3 4 75.0 1 4 5 3 0 0 2 1 -21
+p602
+aVJerryd Bayless MEM 12/22/2012 MEM @ HOU L 21 5 2 6 33.3 0 2 0.0 1 2 50.0 1 3 4 5 0 0 3 2 -18
+p603
+aVJosh Selby MEM 12/22/2012 MEM @ HOU L 14 5 1 4 25.0 0 2 0.0 3 4 75.0 0 1 1 0 0 0 2 0 -10
+p604
+aVRudy Gay MEM 12/21/2012 MEM vs. DAL W 38 26 8 20 40.0 2 6 33.3 8 8 100.0 0 5 5 2 4 0 3 0 16
+p605
+aVQuincy Pondexter MEM 12/21/2012 MEM vs. DAL W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 4 1 0 2 0 -11
+p606
+aVMike Conley MEM 12/21/2012 MEM vs. DAL W 37 9 2 10 20.0 0 2 0.0 5 6 83.3 0 2 2 11 4 0 1 3 19
+p607
+aVDarrell Arthur MEM 12/21/2012 MEM vs. DAL W 18 6 3 6 50.0 0 0 - 0 0 - 1 5 6 1 1 0 1 1 -3
+p608
+aVWayne Ellington MEM 12/21/2012 MEM vs. DAL W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p609
+aVJerryd Bayless MEM 12/21/2012 MEM vs. DAL W 11 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 2 -9
+p610
+aVMarc Gasol MEM 12/21/2012 MEM vs. DAL W 28 11 4 8 50.0 0 0 - 3 4 75.0 7 4 11 2 1 3 1 4 15
+p611
+aVZach Randolph MEM 12/21/2012 MEM vs. DAL W 35 17 8 15 53.3 0 1 0.0 1 1 100.0 6 7 13 1 1 0 3 0 10
+p612
+aVMarreese Speights MEM 12/21/2012 MEM vs. DAL W 13 6 3 7 42.9 0 1 0.0 0 1 0.0 0 3 3 0 0 0 0 3 -4
+p613
+aVTony Allen MEM 12/21/2012 MEM vs. DAL W 35 10 5 14 35.7 0 0 - 0 0 - 3 2 5 1 3 0 2 2 21
+p614
+aVWayne Ellington MEM 12/19/2012 MEM vs. MIL W 19 2 1 5 20.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 12
+p615
+aVZach Randolph MEM 12/19/2012 MEM vs. MIL W 31 15 6 16 37.5 0 0 - 3 4 75.0 4 13 17 2 1 0 1 1 11
+p616
+aVDarrell Arthur MEM 12/19/2012 MEM vs. MIL W 17 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 2 1 0 2 2 -1
+p617
+aVMarreese Speights MEM 12/19/2012 MEM vs. MIL W 16 10 4 8 50.0 1 1 100.0 1 2 50.0 4 2 6 1 0 2 2 3 -1
+p618
+aVQuincy Pondexter MEM 12/19/2012 MEM vs. MIL W 18 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 0 0 0 1 0 11
+p619
+aVJerryd Bayless MEM 12/19/2012 MEM vs. MIL W 19 8 4 7 57.1 0 1 0.0 0 0 - 0 5 5 5 0 0 2 2 5
+p620
+aVTony Allen MEM 12/19/2012 MEM vs. MIL W 27 8 3 11 27.3 0 0 - 2 2 100.0 2 1 3 1 4 1 1 1 2
+p621
+aVMarc Gasol MEM 12/19/2012 MEM vs. MIL W 32 12 5 10 50.0 0 0 - 2 2 100.0 4 8 12 2 0 3 3 4 11
+p622
+aVRudy Gay MEM 12/19/2012 MEM vs. MIL W 30 13 6 15 40.0 1 2 50.0 0 0 - 1 7 8 5 2 0 1 2 -1
+p623
+aVMike Conley MEM 12/19/2012 MEM vs. MIL W 31 11 4 8 50.0 0 2 0.0 3 5 60.0 0 0 0 6 2 0 2 2 1
+p624
+aVMarc Gasol MEM 12/17/2012 MEM vs. CHI W 37 4 1 7 14.3 0 0 - 2 2 100.0 2 9 11 3 3 1 2 2 5
+p625
+aVQuincy Pondexter MEM 12/17/2012 MEM vs. CHI W 21 6 2 6 33.3 1 1 100.0 1 2 50.0 3 3 6 0 1 1 2 2 14
+p626
+aVMike Conley MEM 12/17/2012 MEM vs. CHI W 32 17 6 12 50.0 1 4 25.0 4 5 80.0 0 4 4 4 2 0 2 1 -1
+p627
+aVJerryd Bayless MEM 12/17/2012 MEM vs. CHI W 16 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 3 0 0 2 2 10
+p628
+aVZach Randolph MEM 12/17/2012 MEM vs. CHI W 32 10 4 14 28.6 0 0 - 2 2 100.0 7 8 15 1 1 0 2 1 -1
+p629
+aVMarreese Speights MEM 12/17/2012 MEM vs. CHI W 17 4 2 7 28.6 0 0 - 0 0 - 4 1 5 0 0 1 2 3 9
+p630
+aVRudy Gay MEM 12/17/2012 MEM vs. CHI W 29 12 5 13 38.5 0 0 - 2 4 50.0 1 1 2 2 0 0 3 2 -3
+p631
+aVWayne Ellington MEM 12/17/2012 MEM vs. CHI W 20 11 4 7 57.1 3 4 75.0 0 0 - 0 2 2 2 0 0 2 2 13
+p632
+aVDarrell Arthur MEM 12/17/2012 MEM vs. CHI W 10 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 1 0 1 0 2 5
+p633
+aVTony Allen MEM 12/17/2012 MEM vs. CHI W 26 6 2 6 33.3 0 1 0.0 2 2 100.0 0 3 3 0 0 1 1 2 -6
+p634
+aVMarreese Speights MEM 12/15/2012 MEM @ UTA W 14 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 0 1 2 0 -6
+p635
+aVRudy Gay MEM 12/15/2012 MEM @ UTA W 35 14 5 13 38.5 1 4 25.0 3 3 100.0 0 1 1 1 2 0 2 0 17
+p636
+aVTony Allen MEM 12/15/2012 MEM @ UTA W 29 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 1 0 0 0 1 17
+p637
+aVWayne Ellington MEM 12/15/2012 MEM @ UTA W 15 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -7
+p638
+aVMarc Gasol MEM 12/15/2012 MEM @ UTA W 33 16 5 10 50.0 0 0 - 6 9 66.7 2 6 8 0 2 2 0 4 16
+p639
+aVMike Conley MEM 12/15/2012 MEM @ UTA W 38 12 4 11 36.4 2 4 50.0 2 3 66.7 1 3 4 8 1 0 2 0 19
+p640
+aVJerryd Bayless MEM 12/15/2012 MEM @ UTA W 10 4 2 7 28.6 0 1 0.0 0 0 - 2 0 2 1 0 0 1 0 -6
+p641
+aVHamed Haddadi MEM 12/15/2012 MEM @ UTA W 12 2 1 5 20.0 0 0 - 0 0 - 4 4 8 1 0 0 1 4 -3
+p642
+aVZach Randolph MEM 12/15/2012 MEM @ UTA W 38 25 10 16 62.5 0 0 - 5 5 100.0 5 11 16 1 3 1 4 4 19
+p643
+aVQuincy Pondexter MEM 12/15/2012 MEM @ UTA W 17 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 2 0 0 0 3 -1
+p644
+aVMarreese Speights MEM 12/14/2012 MEM @ DEN L 20 14 7 11 63.6 0 0 - 0 0 - 1 3 4 0 0 1 0 1 -3
+p645
+aVMike Conley MEM 12/14/2012 MEM @ DEN L 33 14 5 14 35.7 2 5 40.0 2 2 100.0 3 0 3 4 1 1 5 1 -7
+p646
+aVWayne Ellington MEM 12/14/2012 MEM @ DEN L 18 11 4 7 57.1 3 5 60.0 0 0 - 0 1 1 1 0 0 0 2 -2
+p647
+aVRudy Gay MEM 12/14/2012 MEM @ DEN L 35 21 10 21 47.6 0 4 0.0 1 1 100.0 3 1 4 4 0 0 2 5 -6
+p648
+aVMarc Gasol MEM 12/14/2012 MEM @ DEN L 37 10 2 10 20.0 0 1 0.0 6 7 85.7 3 6 9 5 3 4 4 5 -7
+p649
+aVJerryd Bayless MEM 12/14/2012 MEM @ DEN L 17 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 11 2 0 1 2 6
+p650
+aVDarrell Arthur MEM 12/14/2012 MEM @ DEN L 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p651
+aVZach Randolph MEM 12/14/2012 MEM @ DEN L 32 10 5 12 41.7 0 0 - 0 0 - 3 2 5 1 0 2 1 3 0
+p652
+aVTony Allen MEM 12/14/2012 MEM @ DEN L 21 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 3 0 1 3 0
+p653
+aVQuincy Pondexter MEM 12/14/2012 MEM @ DEN L 24 8 3 6 50.0 2 3 66.7 0 0 - 1 4 5 0 0 0 2 5 -10
+p654
+aVQuincy Pondexter MEM 12/12/2012 MEM @ PHX L 18 2 0 2 0.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 1 -5
+p655
+aVZach Randolph MEM 12/12/2012 MEM @ PHX L 34 18 9 14 64.3 0 0 - 0 0 - 4 6 10 0 0 0 2 3 2
+p656
+aVMarreese Speights MEM 12/12/2012 MEM @ PHX L 6 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -1
+p657
+aVRudy Gay MEM 12/12/2012 MEM @ PHX L 43 21 7 17 41.2 0 3 0.0 7 7 100.0 2 9 11 3 2 2 4 2 0
+p658
+aVDarrell Arthur MEM 12/12/2012 MEM @ PHX L 17 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 0 1 0 0 3 0
+p659
+aVJerryd Bayless MEM 12/12/2012 MEM @ PHX L 13 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 3 0 1 4 0 -1
+p660
+aVWayne Ellington MEM 12/12/2012 MEM @ PHX L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p661
+aVMike Conley MEM 12/12/2012 MEM @ PHX L 35 7 3 8 37.5 1 4 25.0 0 0 - 1 1 2 6 2 0 4 4 -1
+p662
+aVTony Allen MEM 12/12/2012 MEM @ PHX L 26 2 1 6 16.7 0 0 - 0 0 - 0 3 3 2 1 0 0 2 0
+p663
+aVMarc Gasol MEM 12/12/2012 MEM @ PHX L 39 15 7 12 58.3 0 0 - 1 1 100.0 1 1 2 4 0 6 1 2 -5
+p664
+aVDarrell Arthur MEM 12/08/2012 MEM vs. ATL L 13 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 0 0 1 3 2
+p665
+aVTony Allen MEM 12/08/2012 MEM vs. ATL L 24 4 2 3 66.7 0 0 - 0 4 0.0 0 4 4 0 1 0 2 2 0
+p666
+aVQuincy Pondexter MEM 12/08/2012 MEM vs. ATL L 20 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -2
+p667
+aVJerryd Bayless MEM 12/08/2012 MEM vs. ATL L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 4 1 1 2 2 -11
+p668
+aVZach Randolph MEM 12/08/2012 MEM vs. ATL L 39 18 8 12 66.7 0 0 - 2 4 50.0 4 9 13 0 0 1 1 2 0
+p669
+aVMarc Gasol MEM 12/08/2012 MEM vs. ATL L 36 18 6 11 54.5 0 1 0.0 6 6 100.0 3 5 8 5 1 2 1 2 -12
+p670
+aVMarreese Speights MEM 12/08/2012 MEM vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p671
+aVRudy Gay MEM 12/08/2012 MEM vs. ATL L 36 17 7 25 28.0 2 7 28.6 1 1 100.0 2 7 9 1 4 1 2 2 -9
+p672
+aVMike Conley MEM 12/08/2012 MEM vs. ATL L 35 12 4 10 40.0 2 4 50.0 2 3 66.7 1 0 1 3 1 0 6 1 -15
+p673
+aVWayne Ellington MEM 12/08/2012 MEM vs. ATL L 14 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 1 0 0 1 1 7
+p674
+aVWayne Ellington MEM 12/07/2012 MEM @ NOH W 10 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -11
+p675
+aVMarc Gasol MEM 12/07/2012 MEM @ NOH W 30 13 5 11 45.5 0 0 - 3 3 100.0 2 7 9 4 0 1 4 2 5
+p676
+aVTony Allen MEM 12/07/2012 MEM @ NOH W 22 6 3 6 50.0 0 0 - 0 1 0.0 0 2 2 0 3 1 1 1 6
+p677
+aVMarreese Speights MEM 12/07/2012 MEM @ NOH W 10 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 1 2 0 1
+p678
+aVRudy Gay MEM 12/07/2012 MEM @ NOH W 41 28 10 18 55.6 2 5 40.0 6 8 75.0 0 8 8 5 0 2 2 4 17
+p679
+aVQuincy Pondexter MEM 12/07/2012 MEM @ NOH W 26 16 6 6 100.0 4 4 100.0 0 0 - 3 3 6 3 0 0 2 2 3
+p680
+aVZach Randolph MEM 12/07/2012 MEM @ NOH W 33 15 7 13 53.8 0 1 0.0 1 4 25.0 4 3 7 0 1 1 2 2 6
+p681
+aVJerryd Bayless MEM 12/07/2012 MEM @ NOH W 21 5 1 2 50.0 1 1 100.0 2 2 100.0 0 4 4 2 0 0 1 1 -4
+p682
+aVMike Conley MEM 12/07/2012 MEM @ NOH W 36 7 2 11 18.2 1 4 25.0 2 2 100.0 0 5 5 9 5 0 1 2 22
+p683
+aVDarrell Arthur MEM 12/07/2012 MEM @ NOH W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -10
+p684
+aVRudy Gay MEM 12/04/2012 MEM vs. PHX W 45 14 5 12 41.7 0 2 0.0 4 6 66.7 1 6 7 2 2 3 4 2 13
+p685
+aVMarc Gasol MEM 12/04/2012 MEM vs. PHX W 38 14 7 13 53.8 0 1 0.0 0 0 - 4 5 9 4 1 1 2 6 2
+p686
+aVWayne Ellington MEM 12/04/2012 MEM vs. PHX W 24 7 3 9 33.3 1 5 20.0 0 0 - 0 1 1 2 1 0 3 0 -5
+p687
+aVMarreese Speights MEM 12/04/2012 MEM vs. PHX W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -8
+p688
+aVJerryd Bayless MEM 12/04/2012 MEM vs. PHX W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -10
+p689
+aVDarrell Arthur MEM 12/04/2012 MEM vs. PHX W 21 6 3 8 37.5 0 1 0.0 0 0 - 1 1 2 1 2 2 2 4 10
+p690
+aVMike Conley MEM 12/04/2012 MEM vs. PHX W 42 11 2 9 22.2 1 3 33.3 6 8 75.0 1 4 5 1 2 0 3 4 20
+p691
+aVZach Randolph MEM 12/04/2012 MEM vs. PHX W 44 38 15 22 68.2 0 0 - 8 8 100.0 7 15 22 0 1 3 3 2 16
+p692
+aVQuincy Pondexter MEM 12/04/2012 MEM vs. PHX W 37 16 4 9 44.4 2 6 33.3 6 9 66.7 1 2 3 1 1 0 2 2 12
+p693
+aVRudy Gay MEM 12/01/2012 MEM @ SAS L 46 15 7 18 38.9 1 4 25.0 0 0 - 2 8 10 3 2 0 4 1 -11
+p694
+aVQuincy Pondexter MEM 12/01/2012 MEM @ SAS L 29 3 1 6 16.7 1 4 25.0 0 0 - 0 3 3 1 0 0 2 1 -1
+p695
+aVZach Randolph MEM 12/01/2012 MEM @ SAS L 39 17 5 21 23.8 0 0 - 7 7 100.0 7 8 15 2 0 0 3 3 -16
+p696
+aVJerryd Bayless MEM 12/01/2012 MEM @ SAS L 21 5 1 8 12.5 0 4 0.0 3 4 75.0 0 1 1 3 1 0 1 4 0
+p697
+aVMike Conley MEM 12/01/2012 MEM @ SAS L 42 18 5 13 38.5 2 3 66.7 6 7 85.7 1 1 2 12 4 0 4 5 -6
+p698
+aVMarreese Speights MEM 12/01/2012 MEM @ SAS L 15 4 1 6 16.7 0 0 - 2 2 100.0 2 6 8 0 0 3 0 2 -4
+p699
+aVMarc Gasol MEM 12/01/2012 MEM @ SAS L 37 20 10 16 62.5 0 0 - 0 0 - 4 4 8 3 2 1 3 5 0
+p700
+aVWayne Ellington MEM 12/01/2012 MEM @ SAS L 22 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 1 1 0 0 2 4
+p701
+aVDarrell Arthur MEM 12/01/2012 MEM @ SAS L 15 10 5 8 62.5 0 0 - 0 0 - 2 0 2 0 0 0 2 1 14
+p702
+aVRudy Gay MEM 11/30/2012 MEM vs. DET W 39 18 6 17 35.3 0 2 0.0 6 6 100.0 2 2 4 0 0 0 3 2 11
+p703
+aVWayne Ellington MEM 11/30/2012 MEM vs. DET W 32 3 1 9 11.1 1 4 25.0 0 0 - 0 3 3 3 1 0 1 0 -6
+p704
+aVDarrell Arthur MEM 11/30/2012 MEM vs. DET W 15 11 5 8 62.5 0 0 - 1 1 100.0 0 1 1 1 0 0 0 3 9
+p705
+aVMike Conley MEM 11/30/2012 MEM vs. DET W 33 17 6 10 60.0 3 5 60.0 2 2 100.0 1 3 4 5 6 1 2 2 8
+p706
+aVMarreese Speights MEM 11/30/2012 MEM vs. DET W 17 6 3 7 42.9 0 0 - 0 1 0.0 3 4 7 0 1 0 0 2 6
+p707
+aVMarc Gasol MEM 11/30/2012 MEM vs. DET W 34 17 6 17 35.3 0 0 - 5 5 100.0 3 8 11 3 0 4 2 3 8
+p708
+aVZach Randolph MEM 11/30/2012 MEM vs. DET W 30 8 3 8 37.5 0 0 - 2 4 50.0 2 3 5 2 0 0 1 3 1
+p709
+aVQuincy Pondexter MEM 11/30/2012 MEM vs. DET W 25 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 2 0 0 4 19
+p710
+aVJerryd Bayless MEM 11/30/2012 MEM vs. DET W 15 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 4 1 0 3 3 4
+p711
+aVRudy Gay MEM 11/28/2012 MEM vs. TOR W 27 14 5 13 38.5 3 5 60.0 1 2 50.0 1 5 6 2 2 1 0 0 27
+p712
+aVHamed Haddadi MEM 11/28/2012 MEM vs. TOR W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p713
+aVTony Allen MEM 11/28/2012 MEM vs. TOR W 28 9 3 5 60.0 0 1 0.0 3 4 75.0 0 4 4 1 3 1 2 1 18
+p714
+aVZach Randolph MEM 11/28/2012 MEM vs. TOR W 31 17 7 10 70.0 0 0 - 3 4 75.0 4 9 13 6 1 0 2 5 19
+p715
+aVJerryd Bayless MEM 11/28/2012 MEM vs. TOR W 17 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 4 1 0 0 3 -10
+p716
+aVMike Conley MEM 11/28/2012 MEM vs. TOR W 31 16 4 6 66.7 4 5 80.0 4 6 66.7 0 1 1 5 2 2 4 1 31
+p717
+aVWayne Ellington MEM 11/28/2012 MEM vs. TOR W 13 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 7
+p718
+aVMarreese Speights MEM 11/28/2012 MEM vs. TOR W 24 18 7 11 63.6 1 1 100.0 3 4 75.0 4 8 12 2 1 1 2 3 10
+p719
+aVJosh Selby MEM 11/28/2012 MEM vs. TOR W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p720
+aVMarc Gasol MEM 11/28/2012 MEM vs. TOR W 33 17 6 15 40.0 0 1 0.0 5 7 71.4 2 3 5 3 0 1 1 3 19
+p721
+aVQuincy Pondexter MEM 11/28/2012 MEM vs. TOR W 24 4 2 6 33.3 0 2 0.0 0 1 0.0 1 1 2 4 0 1 1 0 -9
+p722
+aVMarreese Speights MEM 11/26/2012 MEM vs. CLE W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p723
+aVWayne Ellington MEM 11/26/2012 MEM vs. CLE W 12 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p724
+aVMarc Gasol MEM 11/26/2012 MEM vs. CLE W 37 19 7 10 70.0 0 0 - 5 5 100.0 3 3 6 3 1 0 3 3 5
+p725
+aVRudy Gay MEM 11/26/2012 MEM vs. CLE W 42 15 6 13 46.2 2 3 66.7 1 2 50.0 0 6 6 3 2 0 2 1 8
+p726
+aVQuincy Pondexter MEM 11/26/2012 MEM vs. CLE W 22 10 4 6 66.7 2 3 66.7 0 0 - 0 2 2 1 0 0 0 0 -6
+p727
+aVDarrell Arthur MEM 11/26/2012 MEM vs. CLE W 18 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 2 0 0 -1
+p728
+aVZach Randolph MEM 11/26/2012 MEM vs. CLE W 36 19 8 11 72.7 0 0 - 3 6 50.0 3 5 8 1 1 1 5 2 12
+p729
+aVJosh Selby MEM 11/26/2012 MEM vs. CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -2
+p730
+aVJerryd Bayless MEM 11/26/2012 MEM vs. CLE W 34 9 3 11 27.3 0 3 0.0 3 3 100.0 1 2 3 6 1 2 3 4 9
+p731
+aVTony Allen MEM 11/26/2012 MEM vs. CLE W 29 8 3 9 33.3 0 0 - 2 2 100.0 1 3 4 0 3 0 0 2 11
+p732
+aVDarrell Arthur MEM 11/23/2012 MEM vs. LAL W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p733
+aVMarreese Speights MEM 11/23/2012 MEM vs. LAL W 14 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 1 0 0 0 4 -11
+p734
+aVJerryd Bayless MEM 11/23/2012 MEM vs. LAL W 13 9 3 6 50.0 0 0 - 3 3 100.0 0 0 0 1 1 0 0 2 -17
+p735
+aVWayne Ellington MEM 11/23/2012 MEM vs. LAL W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 -14
+p736
+aVMike Conley MEM 11/23/2012 MEM vs. LAL W 36 19 8 14 57.1 1 3 33.3 2 2 100.0 1 0 1 6 4 0 2 2 23
+p737
+aVMarc Gasol MEM 11/23/2012 MEM vs. LAL W 39 14 5 8 62.5 0 0 - 4 4 100.0 2 3 5 8 0 2 3 2 8
+p738
+aVQuincy Pondexter MEM 11/23/2012 MEM vs. LAL W 21 8 2 2 100.0 2 2 100.0 2 2 100.0 1 1 2 0 0 0 1 4 1
+p739
+aVZach Randolph MEM 11/23/2012 MEM vs. LAL W 34 17 6 14 42.9 0 1 0.0 5 9 55.6 5 7 12 2 2 0 2 2 24
+p740
+aVTony Allen MEM 11/23/2012 MEM vs. LAL W 24 12 5 8 62.5 0 0 - 2 4 50.0 1 5 6 0 2 1 2 5 18
+p741
+aVRudy Gay MEM 11/23/2012 MEM vs. LAL W 41 21 7 17 41.2 3 4 75.0 4 4 100.0 1 7 8 5 0 0 4 2 15
+p742
+aVMike Conley MEM 11/19/2012 MEM vs. DEN L 36 11 4 10 40.0 3 6 50.0 0 0 - 0 0 0 8 2 0 3 2 -7
+p743
+aVTony Allen MEM 11/19/2012 MEM vs. DEN L 28 8 2 9 22.2 0 0 - 4 4 100.0 3 2 5 1 2 0 1 1 9
+p744
+aVZach Randolph MEM 11/19/2012 MEM vs. DEN L 39 12 6 15 40.0 0 0 - 0 0 - 3 10 13 3 0 0 2 1 -5
+p745
+aVWayne Ellington MEM 11/19/2012 MEM vs. DEN L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p746
+aVMarreese Speights MEM 11/19/2012 MEM vs. DEN L 13 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 0 2 1 4 -5
+p747
+aVQuincy Pondexter MEM 11/19/2012 MEM vs. DEN L 26 6 3 7 42.9 0 3 0.0 0 0 - 1 1 2 1 2 0 0 2 -13
+p748
+aVRudy Gay MEM 11/19/2012 MEM vs. DEN L 34 22 8 13 61.5 2 2 100.0 4 5 80.0 1 2 3 1 0 1 4 4 0
+p749
+aVMarc Gasol MEM 11/19/2012 MEM vs. DEN L 36 16 5 7 71.4 0 0 - 6 6 100.0 3 3 6 5 2 1 3 4 2
+p750
+aVJerryd Bayless MEM 11/19/2012 MEM vs. DEN L 19 9 4 8 50.0 1 5 20.0 0 2 0.0 0 1 1 3 2 0 2 2 -3
+p751
+aVJerryd Bayless MEM 11/17/2012 MEM @ CHA W 22 5 2 5 40.0 0 1 0.0 1 1 100.0 0 2 2 3 0 3 2 2 0
+p752
+aVMarreese Speights MEM 11/17/2012 MEM @ CHA W 21 9 1 7 14.3 0 0 - 7 8 87.5 3 3 6 0 0 0 4 3 -3
+p753
+aVQuincy Pondexter MEM 11/17/2012 MEM @ CHA W 23 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 1 0 0 1 2 -4
+p754
+aVMarc Gasol MEM 11/17/2012 MEM @ CHA W 35 12 3 7 42.9 0 0 - 6 6 100.0 3 6 9 7 0 2 0 4 15
+p755
+aVZach Randolph MEM 11/17/2012 MEM @ CHA W 40 18 7 15 46.7 0 0 - 4 5 80.0 4 8 12 0 0 1 2 1 2
+p756
+aVTony Allen MEM 11/17/2012 MEM @ CHA W 28 12 3 10 30.0 0 0 - 6 7 85.7 0 3 3 1 3 0 0 2 3
+p757
+aVWayne Ellington MEM 11/17/2012 MEM @ CHA W 11 0 0 5 0.0 0 4 0.0 0 0 - 0 1 1 1 0 0 0 1 0
+p758
+aVRudy Gay MEM 11/17/2012 MEM @ CHA W 28 16 7 16 43.8 1 4 25.0 1 1 100.0 2 2 4 2 3 1 1 6 11
+p759
+aVMike Conley MEM 11/17/2012 MEM @ CHA W 32 20 7 12 58.3 1 3 33.3 5 6 83.3 0 4 4 2 4 0 4 2 11
+p760
+aVRudy Gay MEM 11/16/2012 MEM vs. NYK W 38 17 6 16 37.5 1 4 25.0 4 6 66.7 1 1 2 3 2 4 1 4 16
+p761
+aVMarreese Speights MEM 11/16/2012 MEM vs. NYK W 11 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 0 0 1 1 3 -9
+p762
+aVQuincy Pondexter MEM 11/16/2012 MEM vs. NYK W 25 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 1 0 0 0 0 -3
+p763
+aVJerryd Bayless MEM 11/16/2012 MEM vs. NYK W 13 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 3 -2
+p764
+aVTony Allen MEM 11/16/2012 MEM vs. NYK W 25 9 4 8 50.0 0 0 - 1 1 100.0 1 3 4 0 1 0 3 5 18
+p765
+aVMarc Gasol MEM 11/16/2012 MEM vs. NYK W 38 24 6 10 60.0 0 1 0.0 12 13 92.3 1 6 7 1 1 1 2 2 20
+p766
+aVZach Randolph MEM 11/16/2012 MEM vs. NYK W 35 20 7 11 63.6 0 0 - 6 7 85.7 8 7 15 0 0 0 1 3 9
+p767
+aVTony Wroten MEM 11/16/2012 MEM vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p768
+aVJosh Selby MEM 11/16/2012 MEM vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p769
+aVMike Conley MEM 11/16/2012 MEM vs. NYK W 35 16 6 12 50.0 2 4 50.0 2 3 66.7 1 1 2 8 2 0 2 2 19
+p770
+aVWayne Ellington MEM 11/16/2012 MEM vs. NYK W 17 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 1 1 -10
+p771
+aVRudy Gay MEM 11/14/2012 MEM @ OKC W 43 28 12 21 57.1 2 3 66.7 2 2 100.0 2 4 6 5 0 0 2 3 7
+p772
+aVMike Conley MEM 11/14/2012 MEM @ OKC W 35 8 4 12 33.3 0 2 0.0 0 0 - 2 3 5 7 0 0 2 1 -1
+p773
+aVZach Randolph MEM 11/14/2012 MEM @ OKC W 36 20 8 14 57.1 0 0 - 4 4 100.0 3 8 11 0 2 1 2 3 -2
+p774
+aVMarc Gasol MEM 11/14/2012 MEM @ OKC W 44 14 6 14 42.9 0 0 - 2 4 50.0 1 5 6 2 2 2 0 4 9
+p775
+aVMarreese Speights MEM 11/14/2012 MEM @ OKC W 7 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 7
+p776
+aVWayne Ellington MEM 11/14/2012 MEM @ OKC W 11 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 9
+p777
+aVQuincy Pondexter MEM 11/14/2012 MEM @ OKC W 27 13 4 10 40.0 3 7 42.9 2 2 100.0 1 1 2 2 0 0 0 2 8
+p778
+aVTony Allen MEM 11/14/2012 MEM @ OKC W 19 6 2 6 33.3 0 1 0.0 2 2 100.0 2 2 4 1 2 0 1 3 0
+p779
+aVJerryd Bayless MEM 11/14/2012 MEM @ OKC W 17 12 5 8 62.5 2 3 66.7 0 0 - 0 2 2 4 0 0 1 5 13
+p780
+aVJerryd Bayless MEM 11/11/2012 MEM vs. MIA W 16 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 1 1 3 2 -8
+p781
+aVTony Allen MEM 11/11/2012 MEM vs. MIA W 14 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 3 -2
+p782
+aVHamed Haddadi MEM 11/11/2012 MEM vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p783
+aVMarc Gasol MEM 11/11/2012 MEM vs. MIA W 32 2 1 6 16.7 0 0 - 0 0 - 1 9 10 6 0 0 0 1 20
+p784
+aVJosh Selby MEM 11/11/2012 MEM vs. MIA W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -9
+p785
+aVMike Conley MEM 11/11/2012 MEM vs. MIA W 32 18 7 11 63.6 3 6 50.0 1 1 100.0 0 3 3 9 0 0 3 3 26
+p786
+aVTony Wroten MEM 11/11/2012 MEM vs. MIA W 4 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -9
+p787
+aVWayne Ellington MEM 11/11/2012 MEM vs. MIA W 27 25 8 13 61.5 7 11 63.6 2 2 100.0 0 1 1 3 0 0 0 2 36
+p788
+aVQuincy Pondexter MEM 11/11/2012 MEM vs. MIA W 19 7 3 6 50.0 1 2 50.0 0 2 0.0 0 1 1 1 1 0 0 2 19
+p789
+aVZach Randolph MEM 11/11/2012 MEM vs. MIA W 32 18 8 16 50.0 0 0 - 2 2 100.0 5 7 12 1 0 0 2 4 15
+p790
+aVMarreese Speights MEM 11/11/2012 MEM vs. MIA W 19 4 1 6 16.7 0 0 - 2 2 100.0 3 2 5 1 0 0 2 3 -15
+p791
+aVRudy Gay MEM 11/11/2012 MEM vs. MIA W 37 21 7 17 41.2 2 3 66.7 5 5 100.0 1 7 8 5 4 2 3 0 22
+p792
+aVJerryd Bayless MEM 11/09/2012 MEM vs. HOU W 18 12 4 8 50.0 2 4 50.0 2 2 100.0 0 2 2 3 3 0 1 1 9
+p793
+aVQuincy Pondexter MEM 11/09/2012 MEM vs. HOU W 29 5 2 7 28.6 1 4 25.0 0 0 - 1 0 1 1 4 0 1 1 12
+p794
+aVWayne Ellington MEM 11/09/2012 MEM vs. HOU W 18 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 2 0 1 0 1 12
+p795
+aVMike Conley MEM 11/09/2012 MEM vs. HOU W 31 14 5 13 38.5 1 3 33.3 3 5 60.0 1 3 4 4 3 0 2 2 -4
+p796
+aVRudy Gay MEM 11/09/2012 MEM vs. HOU W 30 21 9 19 47.4 1 4 25.0 2 4 50.0 3 4 7 1 1 0 2 3 -6
+p797
+aVMarreese Speights MEM 11/09/2012 MEM vs. HOU W 21 7 2 9 22.2 0 0 - 3 4 75.0 6 1 7 2 0 2 0 0 9
+p798
+aVTony Allen MEM 11/09/2012 MEM vs. HOU W 20 8 3 9 33.3 0 1 0.0 2 2 100.0 0 0 0 0 2 1 0 3 -6
+p799
+aVMarc Gasol MEM 11/09/2012 MEM vs. HOU W 33 6 3 12 25.0 0 0 - 0 0 - 2 2 4 2 0 1 1 4 -4
+p800
+aVZach Randolph MEM 11/09/2012 MEM vs. HOU W 41 15 5 13 38.5 0 0 - 5 6 83.3 5 9 14 1 1 3 2 1 18
+p801
+aVRudy Gay MEM 11/07/2012 MEM @ MIL W 35 17 7 20 35.0 0 3 0.0 3 4 75.0 1 4 5 2 2 0 3 1 8
+p802
+aVZach Randolph MEM 11/07/2012 MEM @ MIL W 36 18 7 12 58.3 0 0 - 4 5 80.0 4 9 13 1 1 0 3 1 17
+p803
+aVQuincy Pondexter MEM 11/07/2012 MEM @ MIL W 23 9 3 6 50.0 3 4 75.0 0 0 - 1 1 2 1 1 0 0 2 12
+p804
+aVJosh Selby MEM 11/07/2012 MEM @ MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p805
+aVJerryd Bayless MEM 11/07/2012 MEM @ MIL W 13 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 3 1 0 0 2 14
+p806
+aVMarreese Speights MEM 11/07/2012 MEM @ MIL W 22 18 9 13 69.2 0 0 - 0 1 0.0 1 8 9 1 0 2 1 4 10
+p807
+aVTony Wroten MEM 11/07/2012 MEM @ MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p808
+aVMike Conley MEM 11/07/2012 MEM @ MIL W 33 13 5 9 55.6 0 3 0.0 3 3 100.0 0 2 2 12 0 0 2 1 5
+p809
+aVMarc Gasol MEM 11/07/2012 MEM @ MIL W 37 14 5 8 62.5 0 0 - 4 6 66.7 3 6 9 5 1 1 1 3 11
+p810
+aVWayne Ellington MEM 11/07/2012 MEM @ MIL W 18 5 2 3 66.7 1 2 50.0 0 0 - 1 2 3 2 0 0 0 2 9
+p811
+aVTony Allen MEM 11/07/2012 MEM @ MIL W 17 6 3 6 50.0 0 1 0.0 0 0 - 0 5 5 0 1 2 3 4 10
+p812
+aVQuincy Pondexter MEM 11/05/2012 MEM vs. UTA W 22 14 5 8 62.5 2 2 100.0 2 3 66.7 1 1 2 1 0 0 1 1 3
+p813
+aVTony Allen MEM 11/05/2012 MEM vs. UTA W 27 8 4 13 30.8 0 1 0.0 0 0 - 0 2 2 2 3 2 0 2 12
+p814
+aVZach Randolph MEM 11/05/2012 MEM vs. UTA W 38 16 8 19 42.1 0 1 0.0 0 0 - 9 9 18 1 1 0 0 2 -2
+p815
+aVJerryd Bayless MEM 11/05/2012 MEM vs. UTA W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 4 1 1 2 1 3
+p816
+aVRudy Gay MEM 11/05/2012 MEM vs. UTA W 35 15 3 17 17.6 1 4 25.0 8 8 100.0 1 4 5 0 1 2 2 2 -5
+p817
+aVMike Conley MEM 11/05/2012 MEM vs. UTA W 34 16 7 10 70.0 1 2 50.0 1 2 50.0 0 5 5 4 1 1 3 1 6
+p818
+aVWayne Ellington MEM 11/05/2012 MEM vs. UTA W 13 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 1 0 0 0 6
+p819
+aVMarc Gasol MEM 11/05/2012 MEM vs. UTA W 36 22 6 11 54.5 0 0 - 10 10 100.0 2 6 8 8 0 3 0 4 11
+p820
+aVMarreese Speights MEM 11/05/2012 MEM vs. UTA W 21 7 3 5 60.0 0 0 - 1 2 50.0 0 6 6 1 1 1 3 4 11
+p821
+aVQuincy Pondexter MEM 11/02/2012 MEM @ GSW W 18 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 1 0 0 1 -1
+p822
+aVMarc Gasol MEM 11/02/2012 MEM @ GSW W 37 21 7 13 53.8 0 0 - 7 8 87.5 0 6 6 5 0 1 1 4 17
+p823
+aVZach Randolph MEM 11/02/2012 MEM @ GSW W 36 15 5 10 50.0 0 1 0.0 5 5 100.0 4 10 14 0 1 1 5 4 9
+p824
+aVTony Allen MEM 11/02/2012 MEM @ GSW W 30 6 3 9 33.3 0 0 - 0 1 0.0 1 2 3 1 1 0 0 2 9
+p825
+aVJerryd Bayless MEM 11/02/2012 MEM @ GSW W 14 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 4 0 0 1 2 -4
+p826
+aVMarreese Speights MEM 11/02/2012 MEM @ GSW W 18 4 2 7 28.6 0 0 - 0 0 - 2 3 5 0 0 1 1 4 -5
+p827
+aVWayne Ellington MEM 11/02/2012 MEM @ GSW W 18 10 3 6 50.0 2 4 50.0 2 2 100.0 0 0 0 3 1 0 0 0 2
+p828
+aVRudy Gay MEM 11/02/2012 MEM @ GSW W 35 18 7 18 38.9 0 2 0.0 4 8 50.0 2 6 8 0 0 1 2 2 9
+p829
+aVMike Conley MEM 11/02/2012 MEM @ GSW W 34 21 5 9 55.6 3 5 60.0 8 8 100.0 0 3 3 7 5 0 3 3 14
+p830
+aVJerryd Bayless MEM 10/31/2012 MEM @ LAC L 15 6 1 8 12.5 1 3 33.3 3 4 75.0 0 1 1 4 1 1 1 3 -6
+p831
+aVTony Allen MEM 10/31/2012 MEM @ LAC L 29 8 2 6 33.3 0 1 0.0 4 4 100.0 1 4 5 1 3 0 1 3 -11
+p832
+aVRudy Gay MEM 10/31/2012 MEM @ LAC L 38 25 11 21 52.4 0 1 0.0 3 4 75.0 3 4 7 3 2 1 3 2 1
+p833
+aVMike Conley MEM 10/31/2012 MEM @ LAC L 34 7 2 10 20.0 1 4 25.0 2 2 100.0 1 2 3 5 3 0 6 3 -4
+p834
+aVWayne Ellington MEM 10/31/2012 MEM @ LAC L 16 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 2 3
+p835
+aVMarc Gasol MEM 10/31/2012 MEM @ LAC L 39 20 8 13 61.5 0 0 - 4 4 100.0 3 4 7 5 1 1 2 3 0
+p836
+aVQuincy Pondexter MEM 10/31/2012 MEM @ LAC L 12 0 0 4 0.0 0 3 0.0 0 0 - 1 0 1 3 2 0 1 2 -10
+p837
+aVZach Randolph MEM 10/31/2012 MEM @ LAC L 40 15 5 15 33.3 0 0 - 5 9 55.6 7 9 16 3 1 1 4 3 -25
+p838
+aVMarreese Speights MEM 10/31/2012 MEM @ LAC L 17 7 2 4 50.0 0 0 - 3 3 100.0 0 2 2 0 1 0 0 4 7
+p839
+a.

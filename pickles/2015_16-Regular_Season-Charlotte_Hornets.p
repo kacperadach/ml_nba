@@ -1,0 +1,1738 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMarvin Williams CHA 04/13/2016 CHA vs. ORL W 10 11 4 5 80.0 2 3 66.7 1 1 100.0 0 4 4 0 0 0 0 0 12
+p2
+aVTyler Hansbrough CHA 04/13/2016 CHA vs. ORL W 12 8 2 3 66.7 0 0 - 4 6 66.7 0 1 1 1 0 0 1 2 7
+p3
+aVJorge Gutierrez CHA 04/13/2016 CHA vs. ORL W 18 4 2 6 33.3 0 2 0.0 0 0 - 0 4 4 4 0 0 1 1 6
+p4
+aVAl Jefferson CHA 04/13/2016 CHA vs. ORL W 23 26 11 15 73.3 0 0 - 4 6 66.7 0 4 4 2 0 1 0 1 1
+p5
+aVJeremy Lin CHA 04/13/2016 CHA vs. ORL W 21 10 4 7 57.1 2 3 66.7 0 0 - 1 3 4 4 0 0 1 1 5
+p6
+aVCody Zeller CHA 04/13/2016 CHA vs. ORL W 13 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 1 6
+p7
+aVTroy Daniels CHA 04/13/2016 CHA vs. ORL W 27 13 5 9 55.6 3 7 42.9 0 0 - 0 3 3 4 1 0 2 1 3
+p8
+aVCourtney Lee CHA 04/13/2016 CHA vs. ORL W 14 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 2 2 0 0 0 13
+p9
+aVKemba Walker CHA 04/13/2016 CHA vs. ORL W 18 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 8 0 0 0 1 16
+p10
+aVAaron Harrison CHA 04/13/2016 CHA vs. ORL W 16 6 2 3 66.7 1 1 100.0 1 2 50.0 0 5 5 1 1 0 0 3 3
+p11
+aVJeremy Lamb CHA 04/13/2016 CHA vs. ORL W 30 12 6 10 60.0 0 3 0.0 0 0 - 1 8 9 2 1 3 3 2 -4
+p12
+aVSpencer Hawes CHA 04/13/2016 CHA vs. ORL W 18 12 5 6 83.3 2 2 100.0 0 0 - 2 3 5 3 0 1 0 1 -3
+p13
+aVFrank Kaminsky CHA 04/13/2016 CHA vs. ORL W 20 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 1 0 5
+p14
+aVKemba Walker CHA 04/11/2016 CHA @ BOS W 36 18 6 15 40.0 2 5 40.0 4 5 80.0 1 4 5 6 1 1 4 1 11
+p15
+aVTyler Hansbrough CHA 04/11/2016 CHA @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p16
+aVAaron Harrison CHA 04/11/2016 CHA @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p17
+aVJeremy Lin CHA 04/11/2016 CHA @ BOS W 39 25 7 14 50.0 1 6 16.7 10 10 100.0 0 7 7 5 5 1 1 4 8
+p18
+aVCourtney Lee CHA 04/11/2016 CHA @ BOS W 33 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 2 0 0 1 2 13
+p19
+aVAl Jefferson CHA 04/11/2016 CHA @ BOS W 27 16 8 11 72.7 0 0 - 0 0 - 2 9 11 2 2 1 3 5 23
+p20
+aVFrank Kaminsky CHA 04/11/2016 CHA @ BOS W 19 8 2 5 40.0 1 2 50.0 3 4 75.0 2 5 7 1 0 1 0 1 -7
+p21
+aVTroy Daniels CHA 04/11/2016 CHA @ BOS W 17 11 4 6 66.7 3 4 75.0 0 0 - 0 1 1 0 0 0 1 2 -17
+p22
+aVJorge Gutierrez CHA 04/11/2016 CHA @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p23
+aVMarvin Williams CHA 04/11/2016 CHA @ BOS W 29 16 6 13 46.2 4 8 50.0 0 1 0.0 1 0 1 1 1 2 1 1 21
+p24
+aVNicolas Batum CHA 04/11/2016 CHA @ BOS W 17 6 3 6 50.0 0 3 0.0 0 0 - 0 3 3 5 1 0 1 0 31
+p25
+aVSpencer Hawes CHA 04/11/2016 CHA @ BOS W 20 9 3 5 60.0 2 2 100.0 1 2 50.0 1 4 5 0 0 1 1 3 -7
+p26
+aVSpencer Hawes CHA 04/10/2016 CHA @ WAS L 5 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 2 3 0
+p27
+aVTyler Hansbrough CHA 04/10/2016 CHA @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p28
+aVJeremy Lin CHA 04/10/2016 CHA @ WAS L 22 1 0 6 0.0 0 3 0.0 1 2 50.0 0 1 1 3 1 0 3 2 -2
+p29
+aVNicolas Batum CHA 04/10/2016 CHA @ WAS L 34 10 3 11 27.3 1 2 50.0 3 3 100.0 1 4 5 4 2 0 3 2 -16
+p30
+aVKemba Walker CHA 04/10/2016 CHA @ WAS L 33 16 4 11 36.4 1 7 14.3 7 9 77.8 0 3 3 7 1 1 2 0 1
+p31
+aVJorge Gutierrez CHA 04/10/2016 CHA @ WAS L 3 4 0 0 - 0 0 - 4 4 100.0 0 0 0 1 0 0 0 0 -1
+p32
+aVMarvin Williams CHA 04/10/2016 CHA @ WAS L 20 14 5 11 45.5 2 4 50.0 2 2 100.0 3 3 6 3 0 0 2 2 -5
+p33
+aVJeremy Lamb CHA 04/10/2016 CHA @ WAS L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p34
+aVCody Zeller CHA 04/10/2016 CHA @ WAS L 17 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 1 0 0 0 3 1
+p35
+aVTroy Daniels CHA 04/10/2016 CHA @ WAS L 22 6 2 7 28.6 2 7 28.6 0 0 - 0 2 2 1 1 0 1 4 -5
+p36
+aVCourtney Lee CHA 04/10/2016 CHA @ WAS L 28 8 2 11 18.2 2 6 33.3 2 2 100.0 1 2 3 0 2 1 1 3 -21
+p37
+aVFrank Kaminsky CHA 04/10/2016 CHA @ WAS L 30 18 4 8 50.0 3 3 100.0 7 9 77.8 2 9 11 0 0 0 0 2 -12
+p38
+aVAl Jefferson CHA 04/10/2016 CHA @ WAS L 21 10 4 9 44.4 0 0 - 2 2 100.0 1 6 7 0 0 0 1 4 -13
+p39
+aVNicolas Batum CHA 04/08/2016 CHA vs. BKN W 27 14 6 11 54.5 2 6 33.3 0 0 - 2 4 6 6 0 1 4 2 20
+p40
+aVKemba Walker CHA 04/08/2016 CHA vs. BKN W 30 22 7 17 41.2 4 11 36.4 4 4 100.0 0 4 4 4 1 3 0 1 17
+p41
+aVTyler Hansbrough CHA 04/08/2016 CHA vs. BKN W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -8
+p42
+aVCody Zeller CHA 04/08/2016 CHA vs. BKN W 23 5 1 2 50.0 0 0 - 3 4 75.0 0 4 4 1 1 5 1 1 19
+p43
+aVSpencer Hawes CHA 04/08/2016 CHA vs. BKN W 13 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 3 0 1 0 2 -6
+p44
+aVAl Jefferson CHA 04/08/2016 CHA vs. BKN W 17 6 3 8 37.5 0 0 - 0 0 - 2 7 9 5 2 0 1 2 5
+p45
+aVJeremy Lin CHA 04/08/2016 CHA vs. BKN W 27 11 4 11 36.4 1 4 25.0 2 3 66.7 2 3 5 3 0 1 4 0 1
+p46
+aVCourtney Lee CHA 04/08/2016 CHA vs. BKN W 24 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 2 15
+p47
+aVFrank Kaminsky CHA 04/08/2016 CHA vs. BKN W 21 12 5 8 62.5 1 2 50.0 1 1 100.0 1 3 4 1 1 0 0 1 9
+p48
+aVAaron Harrison CHA 04/08/2016 CHA vs. BKN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -5
+p49
+aVJorge Gutierrez CHA 04/08/2016 CHA vs. BKN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p50
+aVTroy Daniels CHA 04/08/2016 CHA vs. BKN W 25 17 6 10 60.0 5 7 71.4 0 0 - 0 3 3 0 1 0 2 2 1
+p51
+aVMarvin Williams CHA 04/08/2016 CHA vs. BKN W 22 12 4 7 57.1 1 4 25.0 3 4 75.0 2 1 3 1 3 1 0 4 8
+p52
+aVSpencer Hawes CHA 04/06/2016 CHA @ NYK W 18 4 1 5 20.0 0 1 0.0 2 3 66.7 1 1 2 1 0 1 1 0 12
+p53
+aVMarvin Williams CHA 04/06/2016 CHA @ NYK W 31 13 4 11 36.4 1 3 33.3 4 4 100.0 1 2 3 2 2 0 0 4 10
+p54
+aVAl Jefferson CHA 04/06/2016 CHA @ NYK W 29 24 11 21 52.4 0 0 - 2 2 100.0 0 8 8 1 2 0 1 2 6
+p55
+aVFrank Kaminsky CHA 04/06/2016 CHA @ NYK W 24 16 7 13 53.8 2 5 40.0 0 1 0.0 2 2 4 3 1 0 0 1 6
+p56
+aVJeremy Lamb CHA 04/06/2016 CHA @ NYK W 15 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 0 1 1 0 1 15
+p57
+aVCourtney Lee CHA 04/06/2016 CHA @ NYK W 36 4 2 4 50.0 0 1 0.0 0 0 - 0 5 5 6 0 1 0 0 6
+p58
+aVCody Zeller CHA 04/06/2016 CHA @ NYK W 19 6 3 5 60.0 0 0 - 0 0 - 5 0 5 1 1 0 1 3 8
+p59
+aVKemba Walker CHA 04/06/2016 CHA @ NYK W 35 34 11 18 61.1 7 10 70.0 5 5 100.0 0 5 5 2 2 0 3 2 4
+p60
+aVJeremy Lin CHA 04/06/2016 CHA @ NYK W 33 6 2 9 22.2 2 5 40.0 0 0 - 2 3 5 3 0 0 2 1 3
+p61
+aVAl Jefferson CHA 04/05/2016 CHA @ TOR L 20 5 2 9 22.2 0 0 - 1 2 50.0 5 6 11 4 0 0 0 3 -2
+p62
+aVFrank Kaminsky CHA 04/05/2016 CHA @ TOR L 30 9 3 10 30.0 2 7 28.6 1 2 50.0 1 5 6 1 0 1 0 2 -5
+p63
+aVSpencer Hawes CHA 04/05/2016 CHA @ TOR L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 1 1 1 -7
+p64
+aVCourtney Lee CHA 04/05/2016 CHA @ TOR L 36 11 5 11 45.5 0 3 0.0 1 2 50.0 0 2 2 2 1 1 1 5 -13
+p65
+aVJeremy Lin CHA 04/05/2016 CHA @ TOR L 40 21 5 11 45.5 4 6 66.7 7 8 87.5 1 3 4 7 1 0 3 4 -2
+p66
+aVMarvin Williams CHA 04/05/2016 CHA @ TOR L 31 15 5 11 45.5 3 6 50.0 2 2 100.0 3 3 6 1 2 0 0 2 7
+p67
+aVJeremy Lamb CHA 04/05/2016 CHA @ TOR L 19 7 3 11 27.3 1 4 25.0 0 0 - 0 4 4 0 0 0 0 0 5
+p68
+aVKemba Walker CHA 04/05/2016 CHA @ TOR L 36 11 4 16 25.0 1 8 12.5 2 3 66.7 0 2 2 4 1 1 1 3 -16
+p69
+aVCody Zeller CHA 04/05/2016 CHA @ TOR L 19 9 4 6 66.7 0 0 - 1 2 50.0 1 5 6 0 0 2 0 2 3
+p70
+aVCody Zeller CHA 04/03/2016 CHA @ CLE L 29 8 2 6 33.3 0 0 - 4 4 100.0 2 4 6 1 5 0 0 1 -2
+p71
+aVKemba Walker CHA 04/03/2016 CHA @ CLE L 41 29 9 19 47.4 1 7 14.3 10 11 90.9 1 5 6 7 4 1 4 0 2
+p72
+aVMarvin Williams CHA 04/03/2016 CHA @ CLE L 38 22 8 11 72.7 4 6 66.7 2 2 100.0 1 5 6 3 1 1 3 4 8
+p73
+aVNicolas Batum CHA 04/03/2016 CHA @ CLE L 20 5 2 6 33.3 0 3 0.0 1 1 100.0 0 0 0 5 0 0 1 1 -12
+p74
+aVSpencer Hawes CHA 04/03/2016 CHA @ CLE L 19 9 3 8 37.5 1 1 100.0 2 2 100.0 5 4 9 2 1 0 1 1 -7
+p75
+aVFrank Kaminsky CHA 04/03/2016 CHA @ CLE L 24 5 2 4 50.0 1 2 50.0 0 0 - 1 3 4 1 1 1 1 1 -9
+p76
+aVCourtney Lee CHA 04/03/2016 CHA @ CLE L 38 11 5 13 38.5 1 3 33.3 0 0 - 1 0 1 3 3 1 0 2 -6
+p77
+aVJeremy Lin CHA 04/03/2016 CHA @ CLE L 27 14 3 9 33.3 1 4 25.0 7 7 100.0 0 3 3 1 0 0 5 2 -15
+p78
+aVJeremy Lamb CHA 04/03/2016 CHA @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p79
+aVKemba Walker CHA 04/01/2016 CHA vs. PHI W 36 27 8 18 44.4 4 9 44.4 7 9 77.8 2 9 11 4 1 0 2 1 8
+p80
+aVJeremy Lamb CHA 04/01/2016 CHA vs. PHI W 15 5 2 5 40.0 0 1 0.0 1 1 100.0 1 3 4 1 0 0 1 2 -6
+p81
+aVMarvin Williams CHA 04/01/2016 CHA vs. PHI W 30 7 3 9 33.3 0 4 0.0 1 3 33.3 0 5 5 1 0 1 1 0 10
+p82
+aVAl Jefferson CHA 04/01/2016 CHA vs. PHI W 21 13 4 8 50.0 0 0 - 5 5 100.0 0 7 7 0 1 2 0 3 1
+p83
+aVCody Zeller CHA 04/01/2016 CHA vs. PHI W 27 8 3 5 60.0 0 0 - 2 2 100.0 3 6 9 2 3 1 0 0 8
+p84
+aVCourtney Lee CHA 04/01/2016 CHA vs. PHI W 36 4 1 7 14.3 0 2 0.0 2 2 100.0 2 3 5 2 2 0 1 3 10
+p85
+aVFrank Kaminsky CHA 04/01/2016 CHA vs. PHI W 18 8 3 7 42.9 1 4 25.0 1 2 50.0 0 6 6 0 1 1 3 3 -1
+p86
+aVJeremy Lin CHA 04/01/2016 CHA vs. PHI W 24 9 4 8 50.0 0 0 - 1 1 100.0 0 4 4 6 1 1 1 1 0
+p87
+aVNicolas Batum CHA 04/01/2016 CHA vs. PHI W 33 19 8 17 47.1 2 7 28.6 1 2 50.0 0 4 4 7 0 0 2 1 15
+p88
+aVNicolas Batum CHA 03/29/2016 CHA @ PHI W 38 19 8 16 50.0 1 4 25.0 2 2 100.0 2 9 11 12 1 0 3 2 18
+p89
+aVJeremy Lamb CHA 03/29/2016 CHA @ PHI W 20 7 2 7 28.6 0 2 0.0 3 4 75.0 0 7 7 4 0 1 2 1 3
+p90
+aVKemba Walker CHA 03/29/2016 CHA @ PHI W 36 16 5 19 26.3 4 12 33.3 2 2 100.0 0 5 5 2 2 0 2 0 15
+p91
+aVCody Zeller CHA 03/29/2016 CHA @ PHI W 26 18 7 8 87.5 0 0 - 4 4 100.0 0 11 11 0 0 2 2 2 10
+p92
+aVAl Jefferson CHA 03/29/2016 CHA @ PHI W 21 7 3 9 33.3 0 0 - 1 1 100.0 1 8 9 0 1 2 1 1 8
+p93
+aVCourtney Lee CHA 03/29/2016 CHA @ PHI W 37 15 6 10 60.0 2 2 100.0 1 1 100.0 0 6 6 3 2 1 3 1 12
+p94
+aVTyler Hansbrough CHA 03/29/2016 CHA @ PHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p95
+aVFrank Kaminsky CHA 03/29/2016 CHA @ PHI W 17 6 2 5 40.0 0 1 0.0 2 2 100.0 1 3 4 0 0 0 0 0 -8
+p96
+aVJorge Gutierrez CHA 03/29/2016 CHA @ PHI W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 0 0 2 0 0
+p97
+aVTroy Daniels CHA 03/29/2016 CHA @ PHI W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p98
+aVMarvin Williams CHA 03/29/2016 CHA @ PHI W 31 8 3 10 30.0 0 4 0.0 2 2 100.0 5 4 9 2 0 0 0 0 23
+p99
+aVJeremy Lamb CHA 03/26/2016 CHA @ MIL W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -3
+p100
+aVKemba Walker CHA 03/26/2016 CHA @ MIL W 30 18 5 11 45.5 3 6 50.0 5 5 100.0 0 0 0 6 0 0 2 0 28
+p101
+aVMarvin Williams CHA 03/26/2016 CHA @ MIL W 34 21 8 12 66.7 4 7 57.1 1 2 50.0 1 7 8 1 0 3 1 2 33
+p102
+aVSpencer Hawes CHA 03/26/2016 CHA @ MIL W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 1 0 0 2
+p103
+aVTyler Hansbrough CHA 03/26/2016 CHA @ MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p104
+aVJorge Gutierrez CHA 03/26/2016 CHA @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p105
+aVJeremy Lin CHA 03/26/2016 CHA @ MIL W 25 9 4 5 80.0 1 2 50.0 0 0 - 0 4 4 4 5 0 4 0 1
+p106
+aVNicolas Batum CHA 03/26/2016 CHA @ MIL W 35 25 8 15 53.3 5 9 55.6 4 4 100.0 1 6 7 8 1 0 0 1 35
+p107
+aVCody Zeller CHA 03/26/2016 CHA @ MIL W 20 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 2 0 3 14
+p108
+aVAl Jefferson CHA 03/26/2016 CHA @ MIL W 22 15 4 8 50.0 0 0 - 7 10 70.0 1 5 6 1 0 0 0 1 8
+p109
+aVFrank Kaminsky CHA 03/26/2016 CHA @ MIL W 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -12
+p110
+aVTroy Daniels CHA 03/26/2016 CHA @ MIL W 3 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p111
+aVCourtney Lee CHA 03/26/2016 CHA @ MIL W 35 12 5 9 55.6 2 4 50.0 0 0 - 1 3 4 5 0 1 0 1 18
+p112
+aVCourtney Lee CHA 03/25/2016 CHA @ DET L 28 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 1 1 0 1 1 -14
+p113
+aVTyler Hansbrough CHA 03/25/2016 CHA @ DET L 8 5 1 2 50.0 0 0 - 3 4 75.0 2 1 3 0 0 0 0 3 19
+p114
+aVJorge Gutierrez CHA 03/25/2016 CHA @ DET L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 2 2 0 0 1 16
+p115
+aVFrank Kaminsky CHA 03/25/2016 CHA @ DET L 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -21
+p116
+aVMarvin Williams CHA 03/25/2016 CHA @ DET L 22 7 2 6 33.3 0 2 0.0 3 3 100.0 0 2 2 2 0 0 0 0 -5
+p117
+aVNicolas Batum CHA 03/25/2016 CHA @ DET L 27 10 4 12 33.3 1 3 33.3 1 1 100.0 0 7 7 7 1 0 2 1 -10
+p118
+aVJeremy Lamb CHA 03/25/2016 CHA @ DET L 22 11 3 6 50.0 2 3 66.7 3 6 50.0 0 5 5 1 3 0 0 3 5
+p119
+aVTroy Daniels CHA 03/25/2016 CHA @ DET L 9 4 1 5 20.0 1 3 33.3 1 1 100.0 0 1 1 0 0 0 0 1 19
+p120
+aVAl Jefferson CHA 03/25/2016 CHA @ DET L 20 8 4 12 33.3 0 0 - 0 0 - 1 6 7 1 1 0 1 4 -22
+p121
+aVCody Zeller CHA 03/25/2016 CHA @ DET L 21 8 4 5 80.0 0 0 - 0 0 - 3 3 6 0 0 1 0 3 -4
+p122
+aVJeremy Lin CHA 03/25/2016 CHA @ DET L 23 4 2 11 18.2 0 3 0.0 0 0 - 0 3 3 3 0 1 3 1 -20
+p123
+aVSpencer Hawes CHA 03/25/2016 CHA @ DET L 9 5 2 6 33.3 1 1 100.0 0 0 - 1 3 4 2 0 0 0 0 19
+p124
+aVKemba Walker CHA 03/25/2016 CHA @ DET L 30 29 9 18 50.0 6 9 66.7 5 5 100.0 0 2 2 5 0 0 0 1 -17
+p125
+aVSpencer Hawes CHA 03/22/2016 CHA @ BKN W 20 2 1 5 20.0 0 1 0.0 0 0 - 1 4 5 1 0 1 1 3 5
+p126
+aVNicolas Batum CHA 03/22/2016 CHA @ BKN W 39 23 7 16 43.8 4 9 44.4 5 5 100.0 0 2 2 2 1 0 0 4 -2
+p127
+aVJeremy Lamb CHA 03/22/2016 CHA @ BKN W 11 6 2 4 50.0 1 3 33.3 1 2 50.0 1 1 2 0 0 1 1 2 3
+p128
+aVJeremy Lin CHA 03/22/2016 CHA @ BKN W 30 21 8 12 66.7 1 2 50.0 4 6 66.7 0 2 2 4 1 0 2 1 -9
+p129
+aVKemba Walker CHA 03/22/2016 CHA @ BKN W 37 14 4 14 28.6 1 5 20.0 5 6 83.3 0 3 3 4 2 0 2 0 2
+p130
+aVFrank Kaminsky CHA 03/22/2016 CHA @ BKN W 28 14 5 11 45.5 2 5 40.0 2 2 100.0 1 6 7 1 0 2 1 2 1
+p131
+aVCourtney Lee CHA 03/22/2016 CHA @ BKN W 27 7 3 7 42.9 1 3 33.3 0 0 - 0 5 5 3 3 0 0 2 20
+p132
+aVAl Jefferson CHA 03/22/2016 CHA @ BKN W 24 10 5 8 62.5 0 0 - 0 0 - 0 4 4 4 0 0 0 3 -3
+p133
+aVCody Zeller CHA 03/22/2016 CHA @ BKN W 24 8 4 5 80.0 0 0 - 0 0 - 0 6 6 2 0 1 1 4 8
+p134
+aVFrank Kaminsky CHA 03/21/2016 CHA vs. SAS W 26 5 2 9 22.2 0 3 0.0 1 2 50.0 0 1 1 0 1 0 0 0 8
+p135
+aVJeremy Lin CHA 03/21/2016 CHA vs. SAS W 31 29 11 18 61.1 4 4 100.0 3 3 100.0 0 7 7 2 1 0 3 1 9
+p136
+aVKemba Walker CHA 03/21/2016 CHA vs. SAS W 30 6 2 11 18.2 0 4 0.0 2 3 66.7 0 1 1 2 2 0 3 2 -13
+p137
+aVAl Jefferson CHA 03/21/2016 CHA vs. SAS W 19 3 1 9 11.1 0 0 - 1 2 50.0 3 3 6 2 0 1 1 1 5
+p138
+aVCourtney Lee CHA 03/21/2016 CHA vs. SAS W 33 17 8 13 61.5 1 2 50.0 0 0 - 0 2 2 2 4 0 1 1 12
+p139
+aVJeremy Lamb CHA 03/21/2016 CHA vs. SAS W 16 4 1 5 20.0 1 1 100.0 1 2 50.0 1 6 7 2 1 2 0 2 10
+p140
+aVCody Zeller CHA 03/21/2016 CHA vs. SAS W 29 6 3 6 50.0 0 0 - 0 0 - 4 10 14 3 1 0 0 1 -2
+p141
+aVMarvin Williams CHA 03/21/2016 CHA vs. SAS W 22 6 2 7 28.6 2 4 50.0 0 0 - 0 2 2 2 0 1 1 1 -5
+p142
+aVNicolas Batum CHA 03/21/2016 CHA vs. SAS W 35 15 5 9 55.6 0 1 0.0 5 7 71.4 2 4 6 3 1 1 5 3 -9
+p143
+aVJeremy Lin CHA 03/19/2016 CHA vs. DEN L 25 16 6 10 60.0 2 2 100.0 2 4 50.0 0 3 3 0 1 0 2 2 -11
+p144
+aVMarvin Williams CHA 03/19/2016 CHA vs. DEN L 32 5 2 9 22.2 0 4 0.0 1 2 50.0 2 3 5 1 1 2 1 1 -6
+p145
+aVCody Zeller CHA 03/19/2016 CHA vs. DEN L 29 10 3 6 50.0 0 0 - 4 6 66.7 1 1 2 0 0 5 0 3 -6
+p146
+aVTroy Daniels CHA 03/19/2016 CHA vs. DEN L 14 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 2 0 0 1 0 -12
+p147
+aVKemba Walker CHA 03/19/2016 CHA vs. DEN L 36 15 6 18 33.3 1 9 11.1 2 2 100.0 2 5 7 5 2 0 1 3 -1
+p148
+aVCourtney Lee CHA 03/19/2016 CHA vs. DEN L 29 7 3 10 30.0 1 4 25.0 0 0 - 1 3 4 3 1 2 1 2 5
+p149
+aVNicolas Batum CHA 03/19/2016 CHA vs. DEN L 40 24 9 18 50.0 5 10 50.0 1 2 50.0 1 7 8 9 1 1 4 1 -5
+p150
+aVFrank Kaminsky CHA 03/19/2016 CHA vs. DEN L 16 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -2
+p151
+aVAl Jefferson CHA 03/19/2016 CHA vs. DEN L 19 10 4 6 66.7 0 0 - 2 2 100.0 1 5 6 1 0 3 1 5 -2
+p152
+aVCourtney Lee CHA 03/17/2016 CHA @ MIA W 37 13 3 6 50.0 2 3 66.7 5 6 83.3 0 3 3 1 0 0 1 4 -8
+p153
+aVTroy Daniels CHA 03/17/2016 CHA @ MIA W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -12
+p154
+aVMarvin Williams CHA 03/17/2016 CHA @ MIA W 32 12 4 8 50.0 4 5 80.0 0 2 0.0 2 3 5 1 2 0 0 1 16
+p155
+aVFrank Kaminsky CHA 03/17/2016 CHA @ MIA W 16 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -13
+p156
+aVTyler Hansbrough CHA 03/17/2016 CHA @ MIA W 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p157
+aVCody Zeller CHA 03/17/2016 CHA @ MIA W 14 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 11
+p158
+aVNicolas Batum CHA 03/17/2016 CHA @ MIA W 38 19 7 19 36.8 2 7 28.6 3 3 100.0 0 5 5 7 0 0 3 1 14
+p159
+aVKemba Walker CHA 03/17/2016 CHA @ MIA W 43 21 7 18 38.9 4 9 44.4 3 3 100.0 1 6 7 7 0 0 1 4 13
+p160
+aVAl Jefferson CHA 03/17/2016 CHA @ MIA W 27 21 10 16 62.5 0 0 - 1 3 33.3 3 7 10 1 1 0 1 2 -4
+p161
+aVJeremy Lin CHA 03/17/2016 CHA @ MIA W 17 6 1 6 16.7 0 1 0.0 4 4 100.0 1 2 3 1 0 0 2 4 2
+p162
+aVFrank Kaminsky CHA 03/16/2016 CHA vs. ORL W 18 6 1 5 20.0 0 1 0.0 4 4 100.0 2 5 7 1 2 0 1 2 -6
+p163
+aVCody Zeller CHA 03/16/2016 CHA vs. ORL W 29 13 5 7 71.4 0 0 - 3 4 75.0 3 10 13 0 0 1 1 2 14
+p164
+aVCourtney Lee CHA 03/16/2016 CHA vs. ORL W 28 6 2 9 22.2 1 5 20.0 1 1 100.0 0 1 1 5 0 1 2 2 20
+p165
+aVKemba Walker CHA 03/16/2016 CHA vs. ORL W 38 16 6 16 37.5 3 6 50.0 1 2 50.0 0 8 8 1 0 0 1 2 2
+p166
+aVAl Jefferson CHA 03/16/2016 CHA vs. ORL W 19 7 3 12 25.0 0 0 - 1 2 50.0 3 5 8 3 0 0 0 1 -6
+p167
+aVMarvin Williams CHA 03/16/2016 CHA vs. ORL W 30 26 10 21 47.6 4 10 40.0 2 2 100.0 4 5 9 2 1 1 0 1 14
+p168
+aVTroy Daniels CHA 03/16/2016 CHA vs. ORL W 15 2 1 6 16.7 0 5 0.0 0 0 - 1 3 4 0 0 0 0 0 -8
+p169
+aVNicolas Batum CHA 03/16/2016 CHA vs. ORL W 38 26 10 17 58.8 3 6 50.0 3 4 75.0 2 5 7 9 0 0 1 0 14
+p170
+aVJeremy Lin CHA 03/16/2016 CHA vs. ORL W 25 5 2 7 28.6 0 4 0.0 1 2 50.0 0 2 2 2 0 1 2 2 -4
+p171
+aVMarvin Williams CHA 03/14/2016 CHA vs. DAL L 33 19 8 17 47.1 1 5 20.0 2 4 50.0 0 7 7 0 0 1 1 4 -4
+p172
+aVKemba Walker CHA 03/14/2016 CHA vs. DAL L 40 25 8 18 44.4 2 8 25.0 7 9 77.8 1 3 4 9 2 1 5 2 -4
+p173
+aVNicolas Batum CHA 03/14/2016 CHA vs. DAL L 40 20 7 14 50.0 3 7 42.9 3 4 75.0 0 3 3 7 2 2 4 0 -11
+p174
+aVCody Zeller CHA 03/14/2016 CHA vs. DAL L 27 1 0 3 0.0 0 0 - 1 2 50.0 4 5 9 0 1 0 2 4 -4
+p175
+aVJeremy Lin CHA 03/14/2016 CHA vs. DAL L 19 1 0 3 0.0 0 1 0.0 1 4 25.0 0 2 2 0 0 1 1 1 -3
+p176
+aVCourtney Lee CHA 03/14/2016 CHA vs. DAL L 31 12 4 7 57.1 2 4 50.0 2 2 100.0 1 2 3 0 2 0 1 1 -10
+p177
+aVAl Jefferson CHA 03/14/2016 CHA vs. DAL L 21 7 1 3 33.3 0 0 - 5 6 83.3 0 4 4 0 1 1 1 0 -7
+p178
+aVTroy Daniels CHA 03/14/2016 CHA vs. DAL L 15 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 1 1 1 0 1 -5
+p179
+aVFrank Kaminsky CHA 03/14/2016 CHA vs. DAL L 15 5 2 7 28.6 0 1 0.0 1 3 33.3 1 6 7 1 0 0 0 3 -7
+p180
+aVMarvin Williams CHA 03/12/2016 CHA vs. HOU W 27 25 9 16 56.3 3 5 60.0 4 4 100.0 3 1 4 0 2 0 1 2 15
+p181
+aVCourtney Lee CHA 03/12/2016 CHA vs. HOU W 26 12 5 9 55.6 2 4 50.0 0 0 - 0 2 2 1 0 0 0 0 9
+p182
+aVCody Zeller CHA 03/12/2016 CHA vs. HOU W 15 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 3 0 0 2 3 2
+p183
+aVJeremy Lamb CHA 03/12/2016 CHA vs. HOU W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 2 1 1 -5
+p184
+aVJeremy Lin CHA 03/12/2016 CHA vs. HOU W 26 16 4 9 44.4 1 2 50.0 7 8 87.5 1 3 4 4 1 0 0 5 9
+p185
+aVJorge Gutierrez CHA 03/12/2016 CHA vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p186
+aVNicolas Batum CHA 03/12/2016 CHA vs. HOU W 34 14 5 10 50.0 2 4 50.0 2 2 100.0 0 8 8 8 1 1 1 1 1
+p187
+aVAaron Harrison CHA 03/12/2016 CHA vs. HOU W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p188
+aVAl Jefferson CHA 03/12/2016 CHA vs. HOU W 30 10 5 11 45.5 0 0 - 0 0 - 2 8 10 3 0 2 1 5 18
+p189
+aVTyler Hansbrough CHA 03/12/2016 CHA vs. HOU W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p190
+aVTroy Daniels CHA 03/12/2016 CHA vs. HOU W 13 6 2 4 50.0 2 3 66.7 0 0 - 1 1 2 1 1 0 0 1 10
+p191
+aVKemba Walker CHA 03/12/2016 CHA vs. HOU W 33 26 11 16 68.8 4 7 57.1 0 0 - 0 5 5 6 0 0 2 2 32
+p192
+aVFrank Kaminsky CHA 03/12/2016 CHA vs. HOU W 21 5 2 6 33.3 1 5 20.0 0 0 - 1 1 2 1 0 0 3 4 1
+p193
+aVTroy Daniels CHA 03/11/2016 CHA vs. DET W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p194
+aVFrank Kaminsky CHA 03/11/2016 CHA vs. DET W 25 10 4 6 66.7 1 1 100.0 1 2 50.0 1 3 4 0 0 2 1 1 10
+p195
+aVNicolas Batum CHA 03/11/2016 CHA vs. DET W 37 17 6 15 40.0 1 5 20.0 4 5 80.0 0 5 5 11 2 0 2 1 18
+p196
+aVKemba Walker CHA 03/11/2016 CHA vs. DET W 32 16 3 11 27.3 1 5 20.0 9 9 100.0 0 1 1 8 1 0 3 2 5
+p197
+aVJeremy Lamb CHA 03/11/2016 CHA vs. DET W 8 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 0 0 0 0 0 -6
+p198
+aVAaron Harrison CHA 03/11/2016 CHA vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 0
+p199
+aVJorge Gutierrez CHA 03/11/2016 CHA vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p200
+aVCourtney Lee CHA 03/11/2016 CHA vs. DET W 35 15 7 9 77.8 0 0 - 1 1 100.0 0 6 6 1 1 1 1 4 23
+p201
+aVJeremy Lin CHA 03/11/2016 CHA vs. DET W 22 8 3 7 42.9 2 4 50.0 0 0 - 1 0 1 2 2 0 0 0 10
+p202
+aVCody Zeller CHA 03/11/2016 CHA vs. DET W 24 10 3 4 75.0 0 0 - 4 4 100.0 3 1 4 2 2 2 0 1 18
+p203
+aVTyler Hansbrough CHA 03/11/2016 CHA vs. DET W 3 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p204
+aVAl Jefferson CHA 03/11/2016 CHA vs. DET W 21 12 5 10 50.0 0 0 - 2 4 50.0 0 4 4 1 1 0 0 5 -3
+p205
+aVMarvin Williams CHA 03/11/2016 CHA vs. DET W 25 22 7 12 58.3 5 8 62.5 3 4 75.0 3 3 6 0 0 0 1 4 0
+p206
+aVJeremy Lin CHA 03/09/2016 CHA vs. NOP W 22 12 3 10 30.0 0 3 0.0 6 6 100.0 0 2 2 0 0 0 0 0 3
+p207
+aVNicolas Batum CHA 03/09/2016 CHA vs. NOP W 41 15 6 13 46.2 2 7 28.6 1 1 100.0 0 6 6 5 0 0 1 1 4
+p208
+aVFrank Kaminsky CHA 03/09/2016 CHA vs. NOP W 18 10 4 8 50.0 2 3 66.7 0 0 - 0 5 5 1 2 1 0 1 0
+p209
+aVJeremy Lamb CHA 03/09/2016 CHA vs. NOP W 16 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 3 7
+p210
+aVCody Zeller CHA 03/09/2016 CHA vs. NOP W 30 13 3 4 75.0 0 0 - 7 9 77.8 1 7 8 0 0 1 2 3 5
+p211
+aVCourtney Lee CHA 03/09/2016 CHA vs. NOP W 29 16 6 12 50.0 4 5 80.0 0 0 - 1 5 6 1 1 0 0 2 2
+p212
+aVAl Jefferson CHA 03/09/2016 CHA vs. NOP W 18 5 1 3 33.3 0 0 - 3 4 75.0 0 3 3 1 0 1 0 5 4
+p213
+aVKemba Walker CHA 03/09/2016 CHA vs. NOP W 36 35 9 18 50.0 5 10 50.0 12 16 75.0 1 6 7 7 2 0 0 2 11
+p214
+aVMarvin Williams CHA 03/09/2016 CHA vs. NOP W 30 14 5 9 55.6 2 5 40.0 2 2 100.0 1 4 5 4 1 0 1 1 9
+p215
+aVNicolas Batum CHA 03/07/2016 CHA vs. MIN W 38 11 5 15 33.3 1 5 20.0 0 0 - 1 4 5 4 2 3 2 2 -14
+p216
+aVCody Zeller CHA 03/07/2016 CHA vs. MIN W 21 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 2 1 1 3 6 -21
+p217
+aVMarvin Williams CHA 03/07/2016 CHA vs. MIN W 30 15 6 12 50.0 3 6 50.0 0 0 - 1 6 7 1 1 3 1 1 -6
+p218
+aVCourtney Lee CHA 03/07/2016 CHA vs. MIN W 27 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 2 0 0 1 2 -11
+p219
+aVAl Jefferson CHA 03/07/2016 CHA vs. MIN W 26 20 9 14 64.3 0 0 - 2 3 66.7 1 5 6 2 0 0 0 0 28
+p220
+aVKemba Walker CHA 03/07/2016 CHA vs. MIN W 41 34 12 20 60.0 6 9 66.7 4 6 66.7 1 6 7 6 0 0 3 1 8
+p221
+aVJeremy Lin CHA 03/07/2016 CHA vs. MIN W 23 9 1 8 12.5 1 4 25.0 6 6 100.0 0 5 5 2 1 0 3 1 14
+p222
+aVFrank Kaminsky CHA 03/07/2016 CHA vs. MIN W 18 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 0 3 0 0 2 9
+p223
+aVJeremy Lamb CHA 03/07/2016 CHA vs. MIN W 16 7 3 6 50.0 1 3 33.3 0 0 - 1 3 4 1 0 0 0 2 18
+p224
+aVJeremy Lamb CHA 03/04/2016 CHA vs. IND W 11 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 0 1 0 1 1 4
+p225
+aVNicolas Batum CHA 03/04/2016 CHA vs. IND W 39 31 12 22 54.5 4 10 40.0 3 4 75.0 3 4 7 4 0 2 3 4 -1
+p226
+aVCody Zeller CHA 03/04/2016 CHA vs. IND W 27 4 2 7 28.6 0 0 - 0 0 - 2 9 11 2 0 2 1 3 3
+p227
+aVCourtney Lee CHA 03/04/2016 CHA vs. IND W 34 4 1 4 25.0 1 2 50.0 1 2 50.0 0 2 2 1 0 1 1 1 0
+p228
+aVKemba Walker CHA 03/04/2016 CHA vs. IND W 37 33 9 17 52.9 4 10 40.0 11 11 100.0 0 2 2 10 0 0 2 0 3
+p229
+aVMarvin Williams CHA 03/04/2016 CHA vs. IND W 27 5 2 4 50.0 1 3 33.3 0 0 - 1 5 6 0 0 0 1 3 -8
+p230
+aVJeremy Lin CHA 03/04/2016 CHA vs. IND W 23 7 3 9 33.3 1 2 50.0 0 0 - 0 2 2 0 0 1 2 3 15
+p231
+aVAl Jefferson CHA 03/04/2016 CHA vs. IND W 21 13 6 10 60.0 0 0 - 1 2 50.0 0 4 4 1 2 2 0 4 4
+p232
+aVFrank Kaminsky CHA 03/04/2016 CHA vs. IND W 21 8 2 4 50.0 2 3 66.7 2 2 100.0 1 4 5 2 1 1 0 0 15
+p233
+aVAl Jefferson CHA 03/02/2016 CHA @ PHI W 19 6 2 4 50.0 0 0 - 2 3 66.7 0 6 6 1 1 1 1 3 13
+p234
+aVFrank Kaminsky CHA 03/02/2016 CHA @ PHI W 18 7 3 5 60.0 1 3 33.3 0 0 - 1 7 8 3 1 0 0 2 8
+p235
+aVJorge Gutierrez CHA 03/02/2016 CHA @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p236
+aVTyler Hansbrough CHA 03/02/2016 CHA @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p237
+aVNicolas Batum CHA 03/02/2016 CHA @ PHI W 37 12 5 14 35.7 2 6 33.3 0 0 - 0 4 4 7 2 0 2 1 7
+p238
+aVAaron Harrison CHA 03/02/2016 CHA @ PHI W 2 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 1 0
+p239
+aVKemba Walker CHA 03/02/2016 CHA @ PHI W 38 30 10 21 47.6 2 5 40.0 8 12 66.7 0 7 7 2 2 0 1 1 17
+p240
+aVTroy Daniels CHA 03/02/2016 CHA @ PHI W 2 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 0
+p241
+aVMarvin Williams CHA 03/02/2016 CHA @ PHI W 30 14 6 11 54.5 2 4 50.0 0 0 - 3 6 9 0 1 2 1 1 15
+p242
+aVJeremy Lin CHA 03/02/2016 CHA @ PHI W 20 14 4 6 66.7 0 1 0.0 6 6 100.0 1 3 4 2 0 0 3 4 15
+p243
+aVCourtney Lee CHA 03/02/2016 CHA @ PHI W 29 9 2 5 40.0 1 2 50.0 4 4 100.0 0 3 3 3 1 0 2 4 13
+p244
+aVCody Zeller CHA 03/02/2016 CHA @ PHI W 28 15 3 6 50.0 0 0 - 9 10 90.0 2 4 6 2 0 4 1 3 4
+p245
+aVJeremy Lamb CHA 03/02/2016 CHA @ PHI W 16 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 1 8
+p246
+aVTyler Hansbrough CHA 03/01/2016 CHA vs. PHX W 8 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 0 1 0 0 1 -8
+p247
+aVCody Zeller CHA 03/01/2016 CHA vs. PHX W 21 9 4 6 66.7 0 0 - 1 1 100.0 4 3 7 4 1 0 0 4 16
+p248
+aVAl Jefferson CHA 03/01/2016 CHA vs. PHX W 19 19 8 15 53.3 0 0 - 3 3 100.0 2 5 7 0 0 1 0 1 26
+p249
+aVCourtney Lee CHA 03/01/2016 CHA vs. PHX W 24 8 3 5 60.0 1 2 50.0 1 1 100.0 0 1 1 2 1 0 2 3 34
+p250
+aVJeremy Lin CHA 03/01/2016 CHA vs. PHX W 17 6 1 7 14.3 0 0 - 4 4 100.0 0 3 3 2 0 2 2 1 8
+p251
+aVJeremy Lamb CHA 03/01/2016 CHA vs. PHX W 15 15 6 10 60.0 2 4 50.0 1 1 100.0 2 4 6 0 0 0 0 2 8
+p252
+aVFrank Kaminsky CHA 03/01/2016 CHA vs. PHX W 20 9 3 8 37.5 2 3 66.7 1 2 50.0 3 4 7 2 0 2 0 4 0
+p253
+aVAaron Harrison CHA 03/01/2016 CHA vs. PHX W 8 2 0 3 0.0 0 3 0.0 2 4 50.0 0 0 0 0 0 0 0 2 -8
+p254
+aVNicolas Batum CHA 03/01/2016 CHA vs. PHX W 31 15 6 10 60.0 2 3 66.7 1 1 100.0 1 8 9 4 1 0 3 1 35
+p255
+aVMarvin Williams CHA 03/01/2016 CHA vs. PHX W 28 5 2 5 40.0 1 3 33.3 0 0 - 0 6 6 2 3 0 2 1 34
+p256
+aVTroy Daniels CHA 03/01/2016 CHA vs. PHX W 12 6 2 6 33.3 2 4 50.0 0 0 - 0 2 2 1 0 1 0 1 -3
+p257
+aVKemba Walker CHA 03/01/2016 CHA vs. PHX W 30 26 9 16 56.3 3 5 60.0 5 5 100.0 1 5 6 9 1 0 1 0 36
+p258
+aVJorge Gutierrez CHA 03/01/2016 CHA vs. PHX W 8 5 1 1 100.0 0 0 - 3 3 100.0 0 0 0 1 0 0 2 0 -8
+p259
+aVJeremy Lamb CHA 02/28/2016 CHA @ ATL L 20 9 4 8 50.0 1 3 33.3 0 2 0.0 0 1 1 2 2 1 0 1 2
+p260
+aVJeremy Lin CHA 02/28/2016 CHA @ ATL L 21 15 4 7 57.1 1 3 33.3 6 7 85.7 0 1 1 1 0 1 1 4 -10
+p261
+aVNicolas Batum CHA 02/28/2016 CHA @ ATL L 39 2 1 6 16.7 0 4 0.0 0 0 - 0 4 4 1 2 1 1 0 -8
+p262
+aVFrank Kaminsky CHA 02/28/2016 CHA @ ATL L 18 4 2 6 33.3 0 4 0.0 0 0 - 1 2 3 2 1 0 1 2 1
+p263
+aVCourtney Lee CHA 02/28/2016 CHA @ ATL L 22 9 3 6 50.0 1 2 50.0 2 2 100.0 1 2 3 2 1 0 0 1 -9
+p264
+aVKemba Walker CHA 02/28/2016 CHA @ ATL L 42 9 3 15 20.0 0 7 0.0 3 4 75.0 2 4 6 5 0 1 0 1 -8
+p265
+aVCody Zeller CHA 02/28/2016 CHA @ ATL L 23 6 1 4 25.0 0 0 - 4 6 66.7 2 5 7 0 1 0 2 2 -4
+p266
+aVMarvin Williams CHA 02/28/2016 CHA @ ATL L 32 16 6 18 33.3 4 9 44.4 0 0 - 2 7 9 1 0 0 1 0 -10
+p267
+aVAl Jefferson CHA 02/28/2016 CHA @ ATL L 23 6 3 11 27.3 0 0 - 0 2 0.0 2 5 7 2 0 0 0 1 -9
+p268
+aVCody Zeller CHA 02/26/2016 CHA @ IND W 27 14 5 5 100.0 0 0 - 4 7 57.1 2 3 5 0 0 1 2 2 11
+p269
+aVKemba Walker CHA 02/26/2016 CHA @ IND W 37 22 8 21 38.1 3 7 42.9 3 4 75.0 0 3 3 10 1 0 1 5 7
+p270
+aVJeremy Lamb CHA 02/26/2016 CHA @ IND W 13 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 1 4 -4
+p271
+aVJeremy Lin CHA 02/26/2016 CHA @ IND W 22 7 3 8 37.5 1 1 100.0 0 0 - 0 3 3 2 0 0 1 2 -9
+p272
+aVMarvin Williams CHA 02/26/2016 CHA @ IND W 35 26 9 13 69.2 5 9 55.6 3 4 75.0 2 11 13 1 1 2 1 2 1
+p273
+aVAl Jefferson CHA 02/26/2016 CHA @ IND W 21 9 4 12 33.3 0 0 - 1 2 50.0 1 2 3 1 0 2 1 1 -10
+p274
+aVFrank Kaminsky CHA 02/26/2016 CHA @ IND W 13 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 1 1 1 1 0
+p275
+aVCourtney Lee CHA 02/26/2016 CHA @ IND W 39 7 3 10 30.0 1 5 20.0 0 0 - 0 4 4 2 3 0 1 1 1
+p276
+aVNicolas Batum CHA 02/26/2016 CHA @ IND W 33 6 2 6 33.3 0 3 0.0 2 2 100.0 0 2 2 7 2 1 5 3 8
+p277
+aVMarvin Williams CHA 02/24/2016 CHA @ CLE L 25 9 2 8 25.0 1 5 20.0 4 4 100.0 0 10 10 2 2 0 2 3 -5
+p278
+aVCody Zeller CHA 02/24/2016 CHA @ CLE L 23 7 3 6 50.0 0 0 - 1 2 50.0 3 3 6 0 0 0 1 3 5
+p279
+aVJorge Gutierrez CHA 02/24/2016 CHA @ CLE L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 0 9
+p280
+aVKemba Walker CHA 02/24/2016 CHA @ CLE L 36 20 7 13 53.8 3 6 50.0 3 3 100.0 0 2 2 6 1 0 3 2 -2
+p281
+aVCourtney Lee CHA 02/24/2016 CHA @ CLE L 30 8 4 7 57.1 0 3 0.0 0 0 - 1 4 5 2 1 1 0 2 -21
+p282
+aVNicolas Batum CHA 02/24/2016 CHA @ CLE L 33 9 4 9 44.4 1 4 25.0 0 0 - 0 5 5 6 1 1 3 2 -4
+p283
+aVTroy Daniels CHA 02/24/2016 CHA @ CLE L 4 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 9
+p284
+aVTyler Hansbrough CHA 02/24/2016 CHA @ CLE L 4 2 0 0 - 0 0 - 2 4 50.0 0 2 2 0 0 0 0 1 9
+p285
+aVJeremy Lamb CHA 02/24/2016 CHA @ CLE L 9 1 0 3 0.0 0 2 0.0 1 2 50.0 1 0 1 0 1 0 1 1 -16
+p286
+aVJeremy Lin CHA 02/24/2016 CHA @ CLE L 25 10 4 9 44.4 1 2 50.0 1 3 33.3 1 0 1 4 0 0 2 2 -17
+p287
+aVAl Jefferson CHA 02/24/2016 CHA @ CLE L 21 12 5 9 55.6 0 0 - 2 3 66.7 2 4 6 0 0 0 1 3 -25
+p288
+aVFrank Kaminsky CHA 02/24/2016 CHA @ CLE L 23 16 5 9 55.6 3 6 50.0 3 4 75.0 0 4 4 1 0 0 1 1 -6
+p289
+aVAaron Harrison CHA 02/24/2016 CHA @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 9
+p290
+aVJeremy Lin CHA 02/21/2016 CHA @ BKN W 31 11 3 10 30.0 0 1 0.0 5 6 83.3 1 4 5 2 1 1 0 2 10
+p291
+aVTyler Hansbrough CHA 02/21/2016 CHA @ BKN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p292
+aVMarvin Williams CHA 02/21/2016 CHA @ BKN W 31 9 3 6 50.0 1 2 50.0 2 2 100.0 3 9 12 4 2 0 1 1 4
+p293
+aVAl Jefferson CHA 02/21/2016 CHA @ BKN W 24 18 9 13 69.2 0 0 - 0 0 - 1 6 7 0 0 0 2 3 6
+p294
+aVNicolas Batum CHA 02/21/2016 CHA @ BKN W 37 16 5 10 50.0 3 8 37.5 3 3 100.0 0 7 7 8 1 0 4 2 13
+p295
+aVFrank Kaminsky CHA 02/21/2016 CHA @ BKN W 17 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 1 1 0 0 2 4
+p296
+aVCody Zeller CHA 02/21/2016 CHA @ BKN W 22 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 3 4 9
+p297
+aVJeremy Lamb CHA 02/21/2016 CHA @ BKN W 16 5 2 7 28.6 1 3 33.3 0 0 - 1 2 3 4 0 0 0 2 7
+p298
+aVCourtney Lee CHA 02/21/2016 CHA @ BKN W 21 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 3 -8
+p299
+aVKemba Walker CHA 02/21/2016 CHA @ BKN W 39 28 11 18 61.1 4 10 40.0 2 2 100.0 0 2 2 3 2 0 4 2 2
+p300
+aVTyler Hansbrough CHA 02/19/2016 CHA @ MIL W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p301
+aVKemba Walker CHA 02/19/2016 CHA @ MIL W 40 25 8 16 50.0 4 9 44.4 5 7 71.4 0 6 6 4 2 0 3 1 0
+p302
+aVMarvin Williams CHA 02/19/2016 CHA @ MIL W 29 15 5 15 33.3 2 7 28.6 3 4 75.0 1 4 5 0 1 2 1 2 -12
+p303
+aVCody Zeller CHA 02/19/2016 CHA @ MIL W 31 23 9 12 75.0 0 0 - 5 5 100.0 5 3 8 2 0 0 0 0 5
+p304
+aVNicolas Batum CHA 02/19/2016 CHA @ MIL W 36 7 3 11 27.3 1 5 20.0 0 0 - 0 5 5 2 2 3 4 2 -1
+p305
+aVJeremy Lin CHA 02/19/2016 CHA @ MIL W 23 4 1 8 12.5 0 3 0.0 2 2 100.0 0 0 0 2 4 0 3 1 8
+p306
+aVFrank Kaminsky CHA 02/19/2016 CHA @ MIL W 24 4 2 6 33.3 0 1 0.0 0 0 - 2 3 5 0 0 0 2 2 -10
+p307
+aVAl Jefferson CHA 02/19/2016 CHA @ MIL W 23 6 3 7 42.9 0 0 - 0 0 - 0 5 5 1 1 1 2 2 9
+p308
+aVJeremy Lamb CHA 02/19/2016 CHA @ MIL W 23 14 6 10 60.0 2 6 33.3 0 0 - 0 3 3 2 3 0 2 4 18
+p309
+aVPJ Hairston CHA 02/10/2016 CHA @ IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p310
+aVMichael Kidd-Gilchrist CHA 02/10/2016 CHA @ IND W 19 8 3 4 75.0 0 0 - 2 2 100.0 2 1 3 2 1 0 2 0 4
+p311
+aVBrian Roberts CHA 02/10/2016 CHA @ IND W 2 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 1 0 0 0 1 0
+p312
+aVNicolas Batum CHA 02/10/2016 CHA @ IND W 38 11 4 12 33.3 3 7 42.9 0 0 - 1 5 6 5 0 2 1 1 25
+p313
+aVSpencer Hawes CHA 02/10/2016 CHA @ IND W 23 6 1 4 25.0 1 2 50.0 3 4 75.0 1 3 4 2 0 1 2 2 13
+p314
+aVJeremy Lamb CHA 02/10/2016 CHA @ IND W 14 16 7 8 87.5 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 15
+p315
+aVTroy Daniels CHA 02/10/2016 CHA @ IND W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p316
+aVKemba Walker CHA 02/10/2016 CHA @ IND W 40 25 10 21 47.6 0 3 0.0 5 7 71.4 2 5 7 3 2 1 3 0 14
+p317
+aVJeremy Lin CHA 02/10/2016 CHA @ IND W 28 14 5 9 55.6 2 2 100.0 2 2 100.0 1 4 5 4 3 2 2 1 8
+p318
+aVFrank Kaminsky CHA 02/10/2016 CHA @ IND W 30 10 4 11 36.4 2 7 28.6 0 0 - 1 7 8 2 0 1 2 3 20
+p319
+aVMarvin Williams CHA 02/10/2016 CHA @ IND W 18 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 1 0 1 0 2 2
+p320
+aVTyler Hansbrough CHA 02/10/2016 CHA @ IND W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p321
+aVCody Zeller CHA 02/10/2016 CHA @ IND W 23 11 4 7 57.1 0 0 - 3 3 100.0 2 9 11 3 0 0 1 2 9
+p322
+aVMarvin Williams CHA 02/08/2016 CHA vs. CHI W 30 9 3 7 42.9 3 6 50.0 0 0 - 1 4 5 0 1 2 0 1 18
+p323
+aVMichael Kidd-Gilchrist CHA 02/08/2016 CHA vs. CHI W 30 20 7 14 50.0 1 2 50.0 5 6 83.3 3 4 7 0 0 2 0 0 16
+p324
+aVNicolas Batum CHA 02/08/2016 CHA vs. CHI W 44 19 8 13 61.5 3 6 50.0 0 0 - 0 13 13 8 2 0 4 1 11
+p325
+aVFrank Kaminsky CHA 02/08/2016 CHA vs. CHI W 19 5 0 3 0.0 0 2 0.0 5 6 83.3 0 4 4 0 0 0 1 2 -1
+p326
+aVJeremy Lin CHA 02/08/2016 CHA vs. CHI W 18 2 1 7 14.3 0 4 0.0 0 0 - 0 3 3 2 0 1 1 1 1
+p327
+aVSpencer Hawes CHA 02/08/2016 CHA vs. CHI W 28 13 5 9 55.6 1 3 33.3 2 2 100.0 1 7 8 0 0 1 2 6 4
+p328
+aVJeremy Lamb CHA 02/08/2016 CHA vs. CHI W 16 5 1 5 20.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 0 1 1
+p329
+aVKemba Walker CHA 02/08/2016 CHA vs. CHI W 36 30 8 19 42.1 4 9 44.4 10 13 76.9 3 4 7 8 3 0 2 1 22
+p330
+aVCody Zeller CHA 02/08/2016 CHA vs. CHI W 20 5 2 3 66.7 1 1 100.0 0 2 0.0 2 6 8 1 0 2 3 6 13
+p331
+aVFrank Kaminsky CHA 02/06/2016 CHA vs. WAS W 20 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 1 0 2 2 2 5
+p332
+aVJeremy Lamb CHA 02/06/2016 CHA vs. WAS W 14 3 1 6 16.7 0 0 - 1 1 100.0 0 1 1 3 1 0 0 1 -9
+p333
+aVNicolas Batum CHA 02/06/2016 CHA vs. WAS W 44 26 9 20 45.0 3 9 33.3 5 6 83.3 1 10 11 9 1 1 6 2 -1
+p334
+aVMichael Kidd-Gilchrist CHA 02/06/2016 CHA vs. WAS W 27 9 3 7 42.9 0 2 0.0 3 4 75.0 0 0 0 2 1 0 2 3 6
+p335
+aVJeremy Lin CHA 02/06/2016 CHA vs. WAS W 23 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 3 4
+p336
+aVSpencer Hawes CHA 02/06/2016 CHA vs. WAS W 18 14 4 6 66.7 1 1 100.0 5 6 83.3 2 2 4 0 0 2 1 3 -17
+p337
+aVCody Zeller CHA 02/06/2016 CHA vs. WAS W 30 8 3 6 50.0 0 0 - 2 2 100.0 2 7 9 1 3 0 1 3 21
+p338
+aVKemba Walker CHA 02/06/2016 CHA vs. WAS W 35 23 8 20 40.0 4 10 40.0 3 4 75.0 0 5 5 5 1 0 1 2 12
+p339
+aVMarvin Williams CHA 02/06/2016 CHA vs. WAS W 29 13 5 6 83.3 2 3 66.7 1 2 50.0 2 8 10 1 0 0 0 2 -1
+p340
+aVMichael Kidd-Gilchrist CHA 02/05/2016 CHA vs. MIA L 30 9 4 7 57.1 0 0 - 1 1 100.0 0 3 3 1 0 1 0 2 3
+p341
+aVNicolas Batum CHA 02/05/2016 CHA vs. MIA L 39 21 7 12 58.3 4 7 57.1 3 3 100.0 1 5 6 7 0 3 4 1 5
+p342
+aVMarvin Williams CHA 02/05/2016 CHA vs. MIA L 32 27 12 17 70.6 2 4 50.0 1 1 100.0 0 4 4 2 0 1 0 2 3
+p343
+aVJeremy Lamb CHA 02/05/2016 CHA vs. MIA L 9 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 0 1 1 0 0 -8
+p344
+aVSpencer Hawes CHA 02/05/2016 CHA vs. MIA L 23 2 1 5 20.0 0 3 0.0 0 0 - 1 5 6 1 1 2 2 1 -17
+p345
+aVPJ Hairston CHA 02/05/2016 CHA vs. MIA L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 0
+p346
+aVKemba Walker CHA 02/05/2016 CHA vs. MIA L 36 20 7 18 38.9 4 8 50.0 2 2 100.0 0 5 5 6 2 0 2 1 5
+p347
+aVFrank Kaminsky CHA 02/05/2016 CHA vs. MIA L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 3 0 0 2 2 -6
+p348
+aVJeremy Lin CHA 02/05/2016 CHA vs. MIA L 16 6 1 6 16.7 0 0 - 4 5 80.0 0 2 2 3 0 1 0 2 -14
+p349
+aVCody Zeller CHA 02/05/2016 CHA vs. MIA L 25 6 2 7 28.6 0 0 - 2 3 66.7 1 7 8 0 1 1 1 3 14
+p350
+aVMichael Kidd-Gilchrist CHA 02/03/2016 CHA vs. CLE W 37 11 5 14 35.7 0 1 0.0 1 2 50.0 2 11 13 0 0 0 1 2 7
+p351
+aVSpencer Hawes CHA 02/03/2016 CHA vs. CLE W 20 6 3 5 60.0 0 2 0.0 0 0 - 0 4 4 4 2 1 3 2 3
+p352
+aVCody Zeller CHA 02/03/2016 CHA vs. CLE W 28 6 3 7 42.9 0 0 - 0 0 - 2 5 7 2 0 1 0 3 6
+p353
+aVPJ Hairston CHA 02/03/2016 CHA vs. CLE W 11 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 2
+p354
+aVJeremy Lin CHA 02/03/2016 CHA vs. CLE W 32 24 7 13 53.8 2 4 50.0 8 11 72.7 1 4 5 8 0 0 5 0 3
+p355
+aVBrian Roberts CHA 02/03/2016 CHA vs. CLE W 16 8 2 4 50.0 0 1 0.0 4 4 100.0 1 0 1 3 0 0 0 2 6
+p356
+aVMarvin Williams CHA 02/03/2016 CHA vs. CLE W 24 16 5 7 71.4 3 5 60.0 3 3 100.0 0 4 4 0 1 0 0 0 -3
+p357
+aVFrank Kaminsky CHA 02/03/2016 CHA vs. CLE W 24 15 7 8 87.5 1 2 50.0 0 0 - 3 3 6 1 0 0 0 1 12
+p358
+aVJeremy Lamb CHA 02/03/2016 CHA vs. CLE W 17 7 3 10 30.0 1 3 33.3 0 0 - 2 2 4 2 1 0 0 2 4
+p359
+aVNicolas Batum CHA 02/03/2016 CHA vs. CLE W 31 10 3 8 37.5 1 6 16.7 3 3 100.0 0 5 5 5 0 1 4 1 5
+p360
+aVBrian Roberts CHA 01/31/2016 CHA @ LAL W 24 8 3 11 27.3 0 2 0.0 2 2 100.0 0 3 3 2 0 0 0 2 6
+p361
+aVTroy Daniels CHA 01/31/2016 CHA @ LAL W 14 9 4 10 40.0 1 4 25.0 0 0 - 0 5 5 1 0 0 1 0 5
+p362
+aVKemba Walker CHA 01/31/2016 CHA @ LAL W 33 12 3 14 21.4 2 7 28.6 4 5 80.0 0 7 7 6 0 0 3 0 20
+p363
+aVJeremy Lin CHA 01/31/2016 CHA @ LAL W 22 6 2 10 20.0 1 3 33.3 1 1 100.0 2 3 5 5 0 0 1 2 12
+p364
+aVPJ Hairston CHA 01/31/2016 CHA @ LAL W 20 9 3 8 37.5 3 6 50.0 0 0 - 1 2 3 1 2 0 1 2 -5
+p365
+aVMichael Kidd-Gilchrist CHA 01/31/2016 CHA @ LAL W 28 19 6 7 85.7 2 2 100.0 5 8 62.5 4 8 12 3 1 0 1 2 24
+p366
+aVAaron Harrison CHA 01/31/2016 CHA @ LAL W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -5
+p367
+aVTyler Hansbrough CHA 01/31/2016 CHA @ LAL W 20 4 1 4 25.0 0 0 - 2 5 40.0 1 2 3 0 2 1 0 3 5
+p368
+aVMarvin Williams CHA 01/31/2016 CHA @ LAL W 25 19 7 13 53.8 4 8 50.0 1 2 50.0 4 8 12 2 1 3 2 1 19
+p369
+aVFrank Kaminsky CHA 01/31/2016 CHA @ LAL W 23 11 5 9 55.6 0 1 0.0 1 3 33.3 1 2 3 3 0 2 0 2 0
+p370
+aVSpencer Hawes CHA 01/31/2016 CHA @ LAL W 28 4 2 8 25.0 0 3 0.0 0 0 - 1 5 6 5 1 2 1 1 14
+p371
+aVMarvin Williams CHA 01/29/2016 CHA @ POR L 34 20 8 14 57.1 4 7 57.1 0 3 0.0 3 6 9 0 1 1 1 1 4
+p372
+aVNicolas Batum CHA 01/29/2016 CHA @ POR L 40 3 1 11 9.1 1 4 25.0 0 0 - 1 3 4 8 1 1 6 2 -14
+p373
+aVKemba Walker CHA 01/29/2016 CHA @ POR L 24 14 4 13 30.8 2 6 33.3 4 4 100.0 1 2 3 4 4 0 3 0 -3
+p374
+aVFrank Kaminsky CHA 01/29/2016 CHA @ POR L 14 2 1 4 25.0 0 3 0.0 0 0 - 1 0 1 0 0 0 0 0 -22
+p375
+aVPJ Hairston CHA 01/29/2016 CHA @ POR L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 0 -16
+p376
+aVTyler Hansbrough CHA 01/29/2016 CHA @ POR L 23 12 2 5 40.0 0 0 - 8 10 80.0 6 8 14 0 2 1 0 2 -1
+p377
+aVBrian Roberts CHA 01/29/2016 CHA @ POR L 24 17 6 15 40.0 1 4 25.0 4 5 80.0 1 1 2 0 0 0 1 2 -15
+p378
+aVTroy Daniels CHA 01/29/2016 CHA @ POR L 8 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 2 -4
+p379
+aVSpencer Hawes CHA 01/29/2016 CHA @ POR L 25 5 2 6 33.3 1 3 33.3 0 0 - 0 5 5 4 1 0 0 3 -17
+p380
+aVMichael Kidd-Gilchrist CHA 01/29/2016 CHA @ POR L 34 13 5 8 62.5 0 0 - 3 6 50.0 1 6 7 1 0 0 2 0 -2
+p381
+aVPJ Hairston CHA 01/27/2016 CHA @ UTA L 28 4 1 5 20.0 0 2 0.0 2 2 100.0 0 3 3 0 0 0 1 2 -5
+p382
+aVNicolas Batum CHA 01/27/2016 CHA @ UTA L 30 6 2 9 22.2 1 5 20.0 1 2 50.0 0 10 10 2 0 0 2 2 -14
+p383
+aVSpencer Hawes CHA 01/27/2016 CHA @ UTA L 26 9 3 7 42.9 2 3 66.7 1 2 50.0 1 3 4 2 0 0 1 2 -6
+p384
+aVTyler Hansbrough CHA 01/27/2016 CHA @ UTA L 22 0 0 0 - 0 0 - 0 0 - 1 2 3 1 2 0 0 2 -23
+p385
+aVBrian Roberts CHA 01/27/2016 CHA @ UTA L 12 13 3 4 75.0 2 2 100.0 5 5 100.0 0 1 1 1 0 0 1 0 -10
+p386
+aVAaron Harrison CHA 01/27/2016 CHA @ UTA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -4
+p387
+aVJeremy Lin CHA 01/27/2016 CHA @ UTA L 17 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 1 1 0 1 1 -23
+p388
+aVKemba Walker CHA 01/27/2016 CHA @ UTA L 30 15 7 11 63.6 1 3 33.3 0 1 0.0 2 3 5 1 1 0 4 0 -9
+p389
+aVFrank Kaminsky CHA 01/27/2016 CHA @ UTA L 25 8 2 6 33.3 0 3 0.0 4 4 100.0 0 1 1 1 0 0 1 1 -29
+p390
+aVMarvin Williams CHA 01/27/2016 CHA @ UTA L 23 9 3 10 30.0 0 3 0.0 3 3 100.0 1 4 5 1 1 0 1 1 0
+p391
+aVTroy Daniels CHA 01/27/2016 CHA @ UTA L 22 5 2 7 28.6 0 2 0.0 1 2 50.0 0 1 1 0 0 0 5 3 -22
+p392
+aVPJ Hairston CHA 01/25/2016 CHA @ SAC W 33 5 2 7 28.6 1 4 25.0 0 1 0.0 0 2 2 0 2 0 0 3 -4
+p393
+aVFrank Kaminsky CHA 01/25/2016 CHA @ SAC W 29 4 1 10 10.0 0 4 0.0 2 2 100.0 3 5 8 3 2 0 1 1 -1
+p394
+aVKemba Walker CHA 01/25/2016 CHA @ SAC W 45 24 5 25 20.0 1 8 12.5 13 15 86.7 0 4 4 8 4 1 2 2 -6
+p395
+aVJeremy Lin CHA 01/25/2016 CHA @ SAC W 50 20 8 19 42.1 2 4 50.0 2 2 100.0 1 6 7 11 0 0 3 4 5
+p396
+aVMarvin Williams CHA 01/25/2016 CHA @ SAC W 33 21 8 17 47.1 3 7 42.9 2 2 100.0 4 1 5 3 1 1 1 6 -4
+p397
+aVTroy Daniels CHA 01/25/2016 CHA @ SAC W 31 28 10 15 66.7 8 11 72.7 0 2 0.0 2 5 7 0 0 0 0 2 -2
+p398
+aVBrian Roberts CHA 01/25/2016 CHA @ SAC W 13 7 2 4 50.0 1 1 100.0 2 2 100.0 0 0 0 2 0 0 1 1 7
+p399
+aVSpencer Hawes CHA 01/25/2016 CHA @ SAC W 30 18 7 10 70.0 4 5 80.0 0 0 - 2 5 7 0 2 0 1 6 2
+p400
+aVAaron Harrison CHA 01/25/2016 CHA @ SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p401
+aVTyler Hansbrough CHA 01/25/2016 CHA @ SAC W 20 2 1 3 33.3 0 0 - 0 0 - 4 2 6 0 0 0 0 6 1
+p402
+aVFrank Kaminsky CHA 01/23/2016 CHA vs. NYK W 18 9 2 4 50.0 1 1 100.0 4 7 57.1 0 3 3 1 0 0 1 3 14
+p403
+aVMarvin Williams CHA 01/23/2016 CHA vs. NYK W 35 4 1 8 12.5 0 4 0.0 2 3 66.7 4 8 12 0 0 0 0 2 -3
+p404
+aVBrian Roberts CHA 01/23/2016 CHA vs. NYK W 11 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 -6
+p405
+aVTroy Daniels CHA 01/23/2016 CHA vs. NYK W 9 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 4 0
+p406
+aVJeremy Lin CHA 01/23/2016 CHA vs. NYK W 40 26 7 17 41.2 2 5 40.0 10 10 100.0 1 4 5 5 0 1 5 3 23
+p407
+aVKemba Walker CHA 01/23/2016 CHA vs. NYK W 42 26 7 25 28.0 3 9 33.3 9 9 100.0 2 4 6 5 1 1 3 0 10
+p408
+aVTyler Hansbrough CHA 01/23/2016 CHA vs. NYK W 14 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 2
+p409
+aVAaron Harrison CHA 01/23/2016 CHA vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p410
+aVPJ Hairston CHA 01/23/2016 CHA vs. NYK W 34 20 7 14 50.0 2 7 28.6 4 4 100.0 1 9 10 1 2 0 1 4 14
+p411
+aVSpencer Hawes CHA 01/23/2016 CHA vs. NYK W 34 2 1 7 14.3 0 2 0.0 0 0 - 3 7 10 3 2 1 0 2 11
+p412
+aVJeremy Lamb CHA 01/22/2016 CHA @ ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p413
+aVBrian Roberts CHA 01/22/2016 CHA @ ORL W 24 11 4 5 80.0 1 2 50.0 2 2 100.0 0 2 2 1 0 0 1 2 16
+p414
+aVSpencer Hawes CHA 01/22/2016 CHA @ ORL W 32 16 7 14 50.0 1 4 25.0 1 1 100.0 3 7 10 3 0 1 0 3 11
+p415
+aVTyler Hansbrough CHA 01/22/2016 CHA @ ORL W 18 6 3 7 42.9 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -4
+p416
+aVPJ Hairston CHA 01/22/2016 CHA @ ORL W 18 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 1 3 0 0 2 -17
+p417
+aVKemba Walker CHA 01/22/2016 CHA @ ORL W 46 40 14 28 50.0 2 7 28.6 10 12 83.3 0 7 7 9 4 1 2 0 7
+p418
+aVJeremy Lin CHA 01/22/2016 CHA @ ORL W 30 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 4 0 0 3 3 -11
+p419
+aVFrank Kaminsky CHA 01/22/2016 CHA @ ORL W 27 5 2 9 22.2 1 1 100.0 0 0 - 4 2 6 1 1 0 1 0 3
+p420
+aVTroy Daniels CHA 01/22/2016 CHA @ ORL W 32 17 7 15 46.7 3 5 60.0 0 0 - 2 1 3 2 0 1 1 4 20
+p421
+aVMarvin Williams CHA 01/22/2016 CHA @ ORL W 34 11 3 11 27.3 0 4 0.0 5 5 100.0 3 11 14 2 2 1 1 1 0
+p422
+aVAaron Harrison CHA 01/20/2016 CHA @ OKC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 5
+p423
+aVNicolas Batum CHA 01/20/2016 CHA @ OKC L 24 0 0 4 0.0 0 3 0.0 0 0 - 0 6 6 3 0 0 3 1 -12
+p424
+aVBrian Roberts CHA 01/20/2016 CHA @ OKC L 12 9 2 4 50.0 1 2 50.0 4 4 100.0 0 0 0 2 0 0 0 1 4
+p425
+aVMarvin Williams CHA 01/20/2016 CHA @ OKC L 24 3 1 4 25.0 0 2 0.0 1 2 50.0 0 3 3 1 1 1 1 0 -18
+p426
+aVSpencer Hawes CHA 01/20/2016 CHA @ OKC L 27 6 2 8 25.0 0 2 0.0 2 2 100.0 1 5 6 3 0 0 1 1 -3
+p427
+aVCody Zeller CHA 01/20/2016 CHA @ OKC L 14 3 0 3 0.0 0 0 - 3 4 75.0 1 1 2 0 1 0 1 4 -15
+p428
+aVJeremy Lin CHA 01/20/2016 CHA @ OKC L 28 16 6 11 54.5 0 1 0.0 4 4 100.0 0 1 1 2 0 0 2 4 -7
+p429
+aVFrank Kaminsky CHA 01/20/2016 CHA @ OKC L 31 15 6 12 50.0 2 4 50.0 1 2 50.0 1 5 6 4 0 1 0 2 4
+p430
+aVKemba Walker CHA 01/20/2016 CHA @ OKC L 30 21 8 15 53.3 2 4 50.0 3 3 100.0 0 2 2 2 2 0 3 2 -18
+p431
+aVTroy Daniels CHA 01/20/2016 CHA @ OKC L 17 11 4 7 57.1 3 5 60.0 0 0 - 0 2 2 0 0 0 1 1 5
+p432
+aVPJ Hairston CHA 01/20/2016 CHA @ OKC L 22 11 5 11 45.5 1 4 25.0 0 0 - 0 2 2 0 2 0 1 3 -19
+p433
+aVTyler Hansbrough CHA 01/20/2016 CHA @ OKC L 7 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 1 0 3 2 4
+p434
+aVJeremy Lin CHA 01/18/2016 CHA vs. UTA W 37 9 4 6 66.7 1 1 100.0 0 0 - 1 5 6 5 1 0 1 0 3
+p435
+aVCody Zeller CHA 01/18/2016 CHA vs. UTA W 42 14 4 9 44.4 0 0 - 6 8 75.0 1 5 6 1 0 1 1 5 5
+p436
+aVTroy Daniels CHA 01/18/2016 CHA vs. UTA W 14 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 1 0 1 1 1
+p437
+aVKemba Walker CHA 01/18/2016 CHA vs. UTA W 47 52 16 33 48.5 6 11 54.5 14 15 93.3 1 8 9 8 2 0 3 3 4
+p438
+aVFrank Kaminsky CHA 01/18/2016 CHA vs. UTA W 25 17 7 12 58.3 1 1 100.0 2 3 66.7 3 4 7 0 0 1 3 1 -5
+p439
+aVSpencer Hawes CHA 01/18/2016 CHA vs. UTA W 16 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 -6
+p440
+aVPJ Hairston CHA 01/18/2016 CHA vs. UTA W 19 0 0 2 0.0 0 1 0.0 0 0 - 0 6 6 0 0 1 0 2 10
+p441
+aVNicolas Batum CHA 01/18/2016 CHA vs. UTA W 47 10 4 13 30.8 2 5 40.0 0 0 - 1 8 9 4 1 0 5 3 8
+p442
+aVMarvin Williams CHA 01/18/2016 CHA vs. UTA W 44 19 5 8 62.5 3 4 75.0 6 6 100.0 0 7 7 1 1 0 2 3 5
+p443
+aVTroy Daniels CHA 01/16/2016 CHA vs. MIL L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 8
+p444
+aVCody Zeller CHA 01/16/2016 CHA vs. MIL L 23 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 1 0 0 0 5 -10
+p445
+aVMarvin Williams CHA 01/16/2016 CHA vs. MIL L 25 14 5 11 45.5 2 6 33.3 2 2 100.0 4 3 7 2 1 1 1 0 -11
+p446
+aVJeremy Lin CHA 01/16/2016 CHA vs. MIL L 22 15 6 13 46.2 0 3 0.0 3 4 75.0 0 0 0 1 3 0 0 3 -8
+p447
+aVFrank Kaminsky CHA 01/16/2016 CHA vs. MIL L 30 12 5 12 41.7 2 6 33.3 0 0 - 0 5 5 0 1 0 0 2 -10
+p448
+aVSpencer Hawes CHA 01/16/2016 CHA vs. MIL L 21 7 3 7 42.9 0 2 0.0 1 2 50.0 3 6 9 3 0 0 0 2 -11
+p449
+aVKemba Walker CHA 01/16/2016 CHA vs. MIL L 34 12 4 14 28.6 2 7 28.6 2 2 100.0 1 0 1 6 2 0 0 2 -11
+p450
+aVNicolas Batum CHA 01/16/2016 CHA vs. MIL L 36 6 2 10 20.0 1 5 20.0 1 2 50.0 2 1 3 9 0 1 2 2 -15
+p451
+aVBrian Roberts CHA 01/16/2016 CHA vs. MIL L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 2 -1
+p452
+aVAaron Harrison CHA 01/16/2016 CHA vs. MIL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p453
+aVPJ Hairston CHA 01/16/2016 CHA vs. MIL L 27 11 4 10 40.0 1 5 20.0 2 4 50.0 2 2 4 2 0 0 1 2 -12
+p454
+aVTyler Hansbrough CHA 01/16/2016 CHA vs. MIL L 4 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 0 8
+p455
+aVKemba Walker CHA 01/15/2016 CHA @ NOP L 42 25 9 17 52.9 5 7 71.4 2 2 100.0 0 4 4 4 0 0 1 1 3
+p456
+aVFrank Kaminsky CHA 01/15/2016 CHA @ NOP L 25 18 7 9 77.8 2 2 100.0 2 4 50.0 1 5 6 1 0 0 1 1 -9
+p457
+aVPJ Hairston CHA 01/15/2016 CHA @ NOP L 27 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 2 0
+p458
+aVMarvin Williams CHA 01/15/2016 CHA @ NOP L 27 10 3 6 50.0 1 3 33.3 3 4 75.0 0 3 3 4 0 1 1 5 9
+p459
+aVTroy Daniels CHA 01/15/2016 CHA @ NOP L 15 6 2 4 50.0 2 4 50.0 0 0 - 0 3 3 0 0 0 2 1 -15
+p460
+aVJeremy Lin CHA 01/15/2016 CHA @ NOP L 30 7 3 10 30.0 1 5 20.0 0 0 - 0 5 5 1 1 0 1 1 6
+p461
+aVSpencer Hawes CHA 01/15/2016 CHA @ NOP L 11 4 2 5 40.0 0 2 0.0 0 0 - 1 2 3 2 0 0 1 2 -6
+p462
+aVNicolas Batum CHA 01/15/2016 CHA @ NOP L 41 25 11 22 50.0 2 9 22.2 1 1 100.0 0 4 4 8 0 0 3 1 -2
+p463
+aVCody Zeller CHA 01/15/2016 CHA @ NOP L 23 5 2 7 28.6 0 0 - 1 1 100.0 1 7 8 1 0 0 1 3 4
+p464
+aVJeremy Lin CHA 01/13/2016 CHA vs. ATL W 27 19 5 11 45.5 1 6 16.7 8 8 100.0 2 3 5 1 0 1 2 3 14
+p465
+aVSpencer Hawes CHA 01/13/2016 CHA vs. ATL W 15 3 1 3 33.3 1 3 33.3 0 0 - 1 4 5 1 0 1 1 1 14
+p466
+aVNicolas Batum CHA 01/13/2016 CHA vs. ATL W 25 6 2 5 40.0 1 4 25.0 1 1 100.0 1 1 2 10 0 0 4 4 31
+p467
+aVTyler Hansbrough CHA 01/13/2016 CHA vs. ATL W 6 3 1 2 50.0 0 0 - 1 4 25.0 0 2 2 0 0 0 0 2 -11
+p468
+aVAaron Harrison CHA 01/13/2016 CHA vs. ATL W 5 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -12
+p469
+aVKemba Walker CHA 01/13/2016 CHA vs. ATL W 26 23 9 13 69.2 4 6 66.7 1 1 100.0 1 2 3 5 3 1 1 0 34
+p470
+aVCody Zeller CHA 01/13/2016 CHA vs. ATL W 27 19 6 10 60.0 0 0 - 7 8 87.5 1 9 10 1 1 3 1 2 20
+p471
+aVJeremy Lamb CHA 01/13/2016 CHA vs. ATL W 14 6 3 4 75.0 0 1 0.0 0 0 - 1 4 5 2 0 1 3 1 -2
+p472
+aVFrank Kaminsky CHA 01/13/2016 CHA vs. ATL W 29 6 2 7 28.6 2 4 50.0 0 0 - 0 8 8 2 2 1 1 3 -5
+p473
+aVTroy Daniels CHA 01/13/2016 CHA vs. ATL W 14 5 2 6 33.3 1 4 25.0 0 0 - 1 0 1 1 1 0 0 1 -3
+p474
+aVBrian Roberts CHA 01/13/2016 CHA vs. ATL W 6 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -11
+p475
+aVPJ Hairston CHA 01/13/2016 CHA vs. ATL W 26 5 1 6 16.7 1 5 20.0 2 2 100.0 2 3 5 0 0 0 3 4 18
+p476
+aVMarvin Williams CHA 01/13/2016 CHA vs. ATL W 19 8 3 9 33.3 2 5 40.0 0 0 - 0 7 7 2 1 1 0 2 28
+p477
+aVPJ Hairston CHA 01/10/2016 CHA @ DEN L 18 7 3 8 37.5 1 5 20.0 0 0 - 0 3 3 1 0 0 0 4 -13
+p478
+aVSpencer Hawes CHA 01/10/2016 CHA @ DEN L 17 8 2 6 33.3 2 2 100.0 2 2 100.0 1 3 4 3 2 1 2 1 3
+p479
+aVCody Zeller CHA 01/10/2016 CHA @ DEN L 31 15 6 11 54.5 0 0 - 3 4 75.0 4 2 6 0 0 0 3 1 -6
+p480
+aVKemba Walker CHA 01/10/2016 CHA @ DEN L 37 11 3 12 25.0 1 4 25.0 4 4 100.0 1 2 3 6 0 1 1 1 -14
+p481
+aVFrank Kaminsky CHA 01/10/2016 CHA @ DEN L 26 14 4 12 33.3 2 5 40.0 4 5 80.0 1 4 5 2 1 1 1 2 0
+p482
+aVJeremy Lamb CHA 01/10/2016 CHA @ DEN L 30 15 6 14 42.9 1 5 20.0 2 2 100.0 1 7 8 1 3 0 2 2 10
+p483
+aVNicolas Batum CHA 01/10/2016 CHA @ DEN L 38 9 3 8 37.5 2 7 28.6 1 1 100.0 0 6 6 7 0 0 1 3 7
+p484
+aVMarvin Williams CHA 01/10/2016 CHA @ DEN L 20 11 3 3 100.0 3 3 100.0 2 2 100.0 1 3 4 2 0 0 0 2 -2
+p485
+aVJeremy Lin CHA 01/10/2016 CHA @ DEN L 24 2 0 9 0.0 0 5 0.0 2 4 50.0 0 1 1 2 0 1 2 2 0
+p486
+aVBrian Roberts CHA 01/09/2016 CHA @ LAC L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 1 0 3 0 5
+p487
+aVCody Zeller CHA 01/09/2016 CHA @ LAC L 33 6 2 7 28.6 0 0 - 2 4 50.0 3 10 13 0 0 1 2 4 -19
+p488
+aVMarvin Williams CHA 01/09/2016 CHA @ LAC L 30 7 3 12 25.0 1 7 14.3 0 0 - 2 1 3 1 0 1 0 1 -20
+p489
+aVJeremy Lin CHA 01/09/2016 CHA @ LAC L 41 26 9 16 56.3 3 4 75.0 5 6 83.3 0 4 4 4 1 0 2 5 -15
+p490
+aVSpencer Hawes CHA 01/09/2016 CHA @ LAC L 15 7 2 5 40.0 1 2 50.0 2 2 100.0 1 3 4 1 0 0 1 0 5
+p491
+aVFrank Kaminsky CHA 01/09/2016 CHA @ LAC L 18 4 1 6 16.7 0 1 0.0 2 2 100.0 1 4 5 2 0 0 2 1 6
+p492
+aVJeremy Lamb CHA 01/09/2016 CHA @ LAC L 34 18 8 14 57.1 2 4 50.0 0 0 - 3 10 13 0 1 1 1 1 5
+p493
+aVPJ Hairston CHA 01/09/2016 CHA @ LAC L 21 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 1 0 0 1 -18
+p494
+aVKemba Walker CHA 01/09/2016 CHA @ LAC L 38 11 4 16 25.0 0 4 0.0 3 5 60.0 1 1 2 3 0 0 4 3 -19
+p495
+aVTyler Hansbrough CHA 01/06/2016 CHA @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p496
+aVPJ Hairston CHA 01/06/2016 CHA @ PHX L 35 11 3 7 42.9 2 5 40.0 3 5 60.0 0 5 5 0 1 0 0 4 -12
+p497
+aVKemba Walker CHA 01/06/2016 CHA @ PHX L 34 25 9 24 37.5 2 5 40.0 5 6 83.3 2 2 4 6 2 1 3 0 11
+p498
+aVMarvin Williams CHA 01/06/2016 CHA @ PHX L 29 15 5 6 83.3 3 3 100.0 2 2 100.0 1 2 3 4 1 1 2 1 0
+p499
+aVBrian Roberts CHA 01/06/2016 CHA @ PHX L 15 5 2 7 28.6 0 2 0.0 1 1 100.0 0 2 2 1 0 1 0 1 -10
+p500
+aVCody Zeller CHA 01/06/2016 CHA @ PHX L 34 13 6 9 66.7 0 0 - 1 2 50.0 3 8 11 0 3 1 1 5 7
+p501
+aVJeremy Lamb CHA 01/06/2016 CHA @ PHX L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -10
+p502
+aVFrank Kaminsky CHA 01/06/2016 CHA @ PHX L 23 3 1 8 12.5 0 3 0.0 1 2 50.0 1 4 5 2 0 1 2 0 -13
+p503
+aVJeremy Lin CHA 01/06/2016 CHA @ PHX L 29 15 6 9 66.7 1 2 50.0 2 4 50.0 1 4 5 4 0 0 5 2 -9
+p504
+aVTroy Daniels CHA 01/06/2016 CHA @ PHX L 23 13 5 9 55.6 3 7 42.9 0 0 - 0 3 3 2 1 0 0 1 0
+p505
+aVSpencer Hawes CHA 01/06/2016 CHA @ PHX L 9 0 0 5 0.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 1 -11
+p506
+aVCody Zeller CHA 01/04/2016 CHA @ GSW L 28 8 2 7 28.6 0 0 - 4 4 100.0 3 7 10 0 2 1 2 2 0
+p507
+aVJeremy Lin CHA 01/04/2016 CHA @ GSW L 31 13 5 12 41.7 1 5 20.0 2 2 100.0 0 3 3 1 0 0 1 3 -14
+p508
+aVPJ Hairston CHA 01/04/2016 CHA @ GSW L 20 7 2 7 28.6 2 3 66.7 1 2 50.0 1 1 2 1 0 0 1 2 -8
+p509
+aVKemba Walker CHA 01/04/2016 CHA @ GSW L 39 22 9 21 42.9 1 4 25.0 3 3 100.0 2 5 7 3 1 0 3 0 -6
+p510
+aVBrian Roberts CHA 01/04/2016 CHA @ GSW L 16 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 2 -3
+p511
+aVMarvin Williams CHA 01/04/2016 CHA @ GSW L 30 8 3 7 42.9 2 3 66.7 0 0 - 0 6 6 1 0 0 0 0 -6
+p512
+aVSpencer Hawes CHA 01/04/2016 CHA @ GSW L 20 6 1 6 16.7 0 2 0.0 4 4 100.0 0 4 4 4 0 0 2 2 -10
+p513
+aVJeremy Lamb CHA 01/04/2016 CHA @ GSW L 30 22 9 14 64.3 0 3 0.0 4 4 100.0 0 3 3 1 3 0 1 1 2
+p514
+aVFrank Kaminsky CHA 01/04/2016 CHA @ GSW L 26 6 3 7 42.9 0 0 - 0 0 - 2 3 5 3 0 0 0 0 -5
+p515
+aVKemba Walker CHA 01/02/2016 CHA vs. OKC L 36 32 10 24 41.7 1 5 20.0 11 12 91.7 0 3 3 5 3 1 1 2 -11
+p516
+aVJeremy Lin CHA 01/02/2016 CHA vs. OKC L 34 15 5 15 33.3 1 4 25.0 4 6 66.7 0 1 1 4 1 1 0 5 -16
+p517
+aVAaron Harrison CHA 01/02/2016 CHA vs. OKC L 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 0
+p518
+aVFrank Kaminsky CHA 01/02/2016 CHA vs. OKC L 33 6 2 11 18.2 0 2 0.0 2 4 50.0 0 6 6 2 0 0 2 2 -8
+p519
+aVTyler Hansbrough CHA 01/02/2016 CHA vs. OKC L 15 4 1 1 100.0 0 0 - 2 4 50.0 2 1 3 0 0 1 0 3 -6
+p520
+aVPJ Hairston CHA 01/02/2016 CHA vs. OKC L 21 10 3 6 50.0 2 4 50.0 2 2 100.0 0 1 1 1 1 0 0 4 -11
+p521
+aVJeremy Lamb CHA 01/02/2016 CHA vs. OKC L 25 9 3 12 25.0 1 3 33.3 2 2 100.0 1 2 3 4 1 1 1 4 -12
+p522
+aVBrian Roberts CHA 01/02/2016 CHA vs. OKC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p523
+aVTroy Daniels CHA 01/02/2016 CHA vs. OKC L 18 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 0 1 0 0 2 -5
+p524
+aVMarvin Williams CHA 01/02/2016 CHA vs. OKC L 28 4 2 5 40.0 0 1 0.0 0 0 - 2 6 8 1 0 2 0 1 -12
+p525
+aVCody Zeller CHA 01/02/2016 CHA vs. OKC L 23 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 0 0 1 0 4 -14
+p526
+aVNicolas Batum CHA 01/01/2016 CHA @ TOR L 42 14 4 9 44.4 3 4 75.0 3 4 75.0 0 4 4 7 0 1 5 2 -6
+p527
+aVFrank Kaminsky CHA 01/01/2016 CHA @ TOR L 27 13 5 10 50.0 1 5 20.0 2 2 100.0 2 2 4 2 3 0 1 4 -7
+p528
+aVMarvin Williams CHA 01/01/2016 CHA @ TOR L 26 17 6 12 50.0 3 6 50.0 2 2 100.0 1 3 4 1 0 1 1 2 -3
+p529
+aVPJ Hairston CHA 01/01/2016 CHA @ TOR L 21 2 1 5 20.0 0 3 0.0 0 0 - 1 5 6 0 0 0 0 0 -6
+p530
+aVTyler Hansbrough CHA 01/01/2016 CHA @ TOR L 13 2 1 6 16.7 0 0 - 0 0 - 3 1 4 0 0 0 1 3 -3
+p531
+aVJeremy Lamb CHA 01/01/2016 CHA @ TOR L 28 5 2 10 20.0 1 4 25.0 0 0 - 2 4 6 1 0 1 0 1 -1
+p532
+aVCody Zeller CHA 01/01/2016 CHA @ TOR L 30 15 5 7 71.4 0 0 - 5 6 83.3 4 5 9 1 0 3 0 3 -7
+p533
+aVKemba Walker CHA 01/01/2016 CHA @ TOR L 36 18 7 21 33.3 2 8 25.0 2 2 100.0 0 4 4 3 4 1 2 1 -4
+p534
+aVBrian Roberts CHA 01/01/2016 CHA @ TOR L 17 8 3 5 60.0 0 2 0.0 2 2 100.0 1 1 2 0 0 0 0 0 -13
+p535
+aVPJ Hairston CHA 12/30/2015 CHA vs. LAC L 22 5 2 9 22.2 1 6 16.7 0 0 - 1 3 4 1 0 0 0 5 -2
+p536
+aVBrian Roberts CHA 12/30/2015 CHA vs. LAC L 18 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 2 2 0 1 3 -3
+p537
+aVKemba Walker CHA 12/30/2015 CHA vs. LAC L 37 29 9 19 47.4 2 5 40.0 9 9 100.0 1 2 3 7 2 0 1 3 2
+p538
+aVNicolas Batum CHA 12/30/2015 CHA vs. LAC L 42 19 6 11 54.5 2 4 50.0 5 5 100.0 2 6 8 6 1 0 3 3 -2
+p539
+aVJeremy Lamb CHA 12/30/2015 CHA vs. LAC L 23 19 7 13 53.8 1 1 100.0 4 4 100.0 2 3 5 2 0 0 0 6 -5
+p540
+aVMarvin Williams CHA 12/30/2015 CHA vs. LAC L 24 5 2 8 25.0 1 4 25.0 0 0 - 1 4 5 0 0 2 1 1 -1
+p541
+aVCody Zeller CHA 12/30/2015 CHA vs. LAC L 28 12 4 6 66.7 0 0 - 4 4 100.0 4 4 8 1 3 1 1 1 -1
+p542
+aVFrank Kaminsky CHA 12/30/2015 CHA vs. LAC L 29 20 5 15 33.3 2 6 33.3 8 8 100.0 2 2 4 1 0 0 3 3 0
+p543
+aVTyler Hansbrough CHA 12/30/2015 CHA vs. LAC L 15 4 1 1 100.0 0 0 - 2 6 33.3 4 1 5 0 0 0 1 1 -8
+p544
+aVTroy Daniels CHA 12/30/2015 CHA vs. LAC L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p545
+aVKemba Walker CHA 12/28/2015 CHA vs. LAL W 42 38 14 25 56.0 3 6 50.0 7 7 100.0 1 5 6 5 3 2 2 1 14
+p546
+aVAl Jefferson CHA 12/28/2015 CHA vs. LAL W 15 3 1 4 25.0 0 0 - 1 2 50.0 0 4 4 0 0 0 2 1 0
+p547
+aVJeremy Lamb CHA 12/28/2015 CHA vs. LAL W 12 2 1 3 33.3 0 1 0.0 0 1 0.0 0 2 2 1 2 0 0 2 3
+p548
+aVCody Zeller CHA 12/28/2015 CHA vs. LAL W 33 16 8 10 80.0 0 0 - 0 2 0.0 1 7 8 2 0 0 1 2 10
+p549
+aVFrank Kaminsky CHA 12/28/2015 CHA vs. LAL W 20 6 1 4 25.0 0 1 0.0 4 4 100.0 1 3 4 1 0 2 0 2 -1
+p550
+aVMarvin Williams CHA 12/28/2015 CHA vs. LAL W 28 2 1 4 25.0 0 2 0.0 0 0 - 2 9 11 3 0 0 0 1 11
+p551
+aVJeremy Lin CHA 12/28/2015 CHA vs. LAL W 35 13 5 10 50.0 1 3 33.3 2 3 66.7 1 5 6 4 1 2 3 2 5
+p552
+aVNicolas Batum CHA 12/28/2015 CHA vs. LAL W 36 15 7 17 41.2 0 6 0.0 1 2 50.0 1 4 5 11 1 0 2 1 7
+p553
+aVPJ Hairston CHA 12/28/2015 CHA vs. LAL W 19 13 5 12 41.7 2 6 33.3 1 1 100.0 0 0 0 1 0 0 0 4 1
+p554
+aVKemba Walker CHA 12/26/2015 CHA vs. MEM W 40 22 6 12 50.0 4 6 66.7 6 6 100.0 1 5 6 8 1 0 3 1 8
+p555
+aVTyler Hansbrough CHA 12/26/2015 CHA vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -5
+p556
+aVPJ Hairston CHA 12/26/2015 CHA vs. MEM W 18 14 5 6 83.3 4 5 80.0 0 0 - 0 0 0 1 2 0 0 4 8
+p557
+aVJeremy Lamb CHA 12/26/2015 CHA vs. MEM W 15 0 0 3 0.0 0 3 0.0 0 0 - 1 3 4 0 0 1 2 1 -6
+p558
+aVNicolas Batum CHA 12/26/2015 CHA vs. MEM W 40 20 7 14 50.0 2 7 28.6 4 4 100.0 2 9 11 8 1 2 4 0 16
+p559
+aVAl Jefferson CHA 12/26/2015 CHA vs. MEM W 18 2 1 8 12.5 0 0 - 0 2 0.0 1 3 4 0 1 2 0 6 -16
+p560
+aVFrank Kaminsky CHA 12/26/2015 CHA vs. MEM W 26 10 2 8 25.0 1 4 25.0 5 6 83.3 0 2 2 0 2 2 1 3 7
+p561
+aVJeremy Lin CHA 12/26/2015 CHA vs. MEM W 28 13 2 7 28.6 2 3 66.7 7 8 87.5 0 5 5 3 1 1 3 1 -2
+p562
+aVMarvin Williams CHA 12/26/2015 CHA vs. MEM W 24 9 2 5 40.0 1 4 25.0 4 4 100.0 0 4 4 0 0 3 1 2 -6
+p563
+aVCody Zeller CHA 12/26/2015 CHA vs. MEM W 28 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 0 2 2 1 3 26
+p564
+aVSpencer Hawes CHA 12/23/2015 CHA vs. BOS L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -4
+p565
+aVNicolas Batum CHA 12/23/2015 CHA vs. BOS L 39 17 6 15 40.0 3 8 37.5 2 4 50.0 0 6 6 7 0 0 1 3 -13
+p566
+aVPJ Hairston CHA 12/23/2015 CHA vs. BOS L 13 5 1 5 20.0 1 4 25.0 2 2 100.0 0 1 1 0 2 0 0 1 -18
+p567
+aVJeremy Lin CHA 12/23/2015 CHA vs. BOS L 32 12 3 11 27.3 0 1 0.0 6 6 100.0 4 4 8 3 0 2 4 1 3
+p568
+aVJeremy Lamb CHA 12/23/2015 CHA vs. BOS L 19 12 2 4 50.0 1 1 100.0 7 8 87.5 1 4 5 0 0 1 3 2 4
+p569
+aVFrank Kaminsky CHA 12/23/2015 CHA vs. BOS L 31 23 9 20 45.0 2 7 28.6 3 6 50.0 2 5 7 2 0 1 1 3 0
+p570
+aVTyler Hansbrough CHA 12/23/2015 CHA vs. BOS L 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 7
+p571
+aVKemba Walker CHA 12/23/2015 CHA vs. BOS L 41 10 4 12 33.3 0 4 0.0 2 4 50.0 0 3 3 4 1 1 4 2 -15
+p572
+aVCody Zeller CHA 12/23/2015 CHA vs. BOS L 34 7 3 7 42.9 0 0 - 1 2 50.0 4 6 10 2 2 1 1 2 -16
+p573
+aVMarvin Williams CHA 12/23/2015 CHA vs. BOS L 17 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 2 -13
+p574
+aVJeremy Lin CHA 12/21/2015 CHA @ HOU L 22 13 4 6 66.7 1 3 33.3 4 7 57.1 1 0 1 5 0 0 1 5 -3
+p575
+aVNicolas Batum CHA 12/21/2015 CHA @ HOU L 34 9 3 11 27.3 0 3 0.0 3 4 75.0 0 5 5 3 1 0 2 2 -12
+p576
+aVMarvin Williams CHA 12/21/2015 CHA @ HOU L 26 12 2 9 22.2 2 5 40.0 6 6 100.0 2 4 6 0 0 1 0 3 -8
+p577
+aVTroy Daniels CHA 12/21/2015 CHA @ HOU L 2 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 1
+p578
+aVCody Zeller CHA 12/21/2015 CHA @ HOU L 26 10 5 9 55.6 0 0 - 0 0 - 2 5 7 0 2 0 1 6 -3
+p579
+aVKemba Walker CHA 12/21/2015 CHA @ HOU L 41 14 3 10 30.0 2 6 33.3 6 6 100.0 1 4 5 6 0 0 4 5 -4
+p580
+aVBrian Roberts CHA 12/21/2015 CHA @ HOU L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 2
+p581
+aVPJ Hairston CHA 12/21/2015 CHA @ HOU L 20 7 2 12 16.7 2 9 22.2 1 2 50.0 2 0 2 0 1 0 0 3 -1
+p582
+aVFrank Kaminsky CHA 12/21/2015 CHA @ HOU L 23 12 4 8 50.0 2 5 40.0 2 3 66.7 0 5 5 0 0 1 0 0 -1
+p583
+aVJeremy Lamb CHA 12/21/2015 CHA @ HOU L 19 10 3 9 33.3 1 5 20.0 3 3 100.0 1 1 2 3 0 0 0 0 -4
+p584
+aVSpencer Hawes CHA 12/21/2015 CHA @ HOU L 21 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 2 3 1 1 3 -2
+p585
+aVSpencer Hawes CHA 12/19/2015 CHA @ WAS L 18 9 4 8 50.0 1 2 50.0 0 0 - 1 3 4 2 0 0 1 1 6
+p586
+aVJeremy Lamb CHA 12/19/2015 CHA @ WAS L 12 9 4 8 50.0 1 4 25.0 0 0 - 1 3 4 0 0 0 0 3 3
+p587
+aVKemba Walker CHA 12/19/2015 CHA @ WAS L 41 18 6 18 33.3 1 7 14.3 5 5 100.0 0 3 3 2 3 0 4 3 -6
+p588
+aVTyler Hansbrough CHA 12/19/2015 CHA @ WAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -8
+p589
+aVNicolas Batum CHA 12/19/2015 CHA @ WAS L 32 14 5 12 41.7 1 7 14.3 3 4 75.0 0 6 6 8 3 1 4 1 -7
+p590
+aVCody Zeller CHA 12/19/2015 CHA @ WAS L 26 11 5 9 55.6 0 0 - 1 2 50.0 4 3 7 0 1 1 1 3 -6
+p591
+aVFrank Kaminsky CHA 12/19/2015 CHA @ WAS L 19 6 2 4 50.0 1 3 33.3 1 2 50.0 2 3 5 1 0 1 0 2 -3
+p592
+aVPJ Hairston CHA 12/19/2015 CHA @ WAS L 19 10 3 6 50.0 2 3 66.7 2 2 100.0 3 3 6 2 0 0 1 1 -10
+p593
+aVJeremy Lin CHA 12/19/2015 CHA @ WAS L 36 15 6 13 46.2 2 2 100.0 1 1 100.0 1 5 6 7 0 0 3 2 -6
+p594
+aVMarvin Williams CHA 12/19/2015 CHA @ WAS L 34 9 4 14 28.6 1 5 20.0 0 0 - 6 3 9 1 1 1 1 3 -3
+p595
+aVFrank Kaminsky CHA 12/17/2015 CHA vs. TOR W 27 6 1 6 16.7 0 4 0.0 4 6 66.7 0 6 6 1 0 3 1 1 0
+p596
+aVPJ Hairston CHA 12/17/2015 CHA vs. TOR W 34 14 5 10 50.0 4 7 57.1 0 0 - 1 3 4 0 0 0 2 4 8
+p597
+aVTroy Daniels CHA 12/17/2015 CHA vs. TOR W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -4
+p598
+aVKemba Walker CHA 12/17/2015 CHA vs. TOR W 44 27 10 24 41.7 0 3 0.0 7 8 87.5 2 4 6 7 1 2 3 0 11
+p599
+aVTyler Hansbrough CHA 12/17/2015 CHA vs. TOR W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p600
+aVSpencer Hawes CHA 12/17/2015 CHA vs. TOR W 23 5 2 2 100.0 1 1 100.0 0 0 - 0 10 10 4 3 1 1 5 12
+p601
+aVJeremy Lamb CHA 12/17/2015 CHA vs. TOR W 15 7 2 6 33.3 1 3 33.3 2 2 100.0 0 2 2 0 0 0 1 2 2
+p602
+aVMarvin Williams CHA 12/17/2015 CHA vs. TOR W 32 10 2 6 33.3 2 5 40.0 4 4 100.0 1 9 10 3 1 1 0 0 12
+p603
+aVCody Zeller CHA 12/17/2015 CHA vs. TOR W 21 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 3 0 0 1 6 -6
+p604
+aVJeremy Lin CHA 12/17/2015 CHA vs. TOR W 47 35 13 22 59.1 2 5 40.0 7 9 77.8 0 5 5 4 0 2 3 4 11
+p605
+aVTyler Hansbrough CHA 12/16/2015 CHA @ ORL L 11 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 3
+p606
+aVPJ Hairston CHA 12/16/2015 CHA @ ORL L 22 14 5 11 45.5 3 7 42.9 1 1 100.0 1 1 2 0 1 0 2 1 -14
+p607
+aVMarvin Williams CHA 12/16/2015 CHA @ ORL L 26 6 2 7 28.6 2 5 40.0 0 0 - 0 5 5 2 0 3 2 1 -19
+p608
+aVFrank Kaminsky CHA 12/16/2015 CHA @ ORL L 26 9 4 8 50.0 1 4 25.0 0 0 - 1 4 5 0 2 0 2 2 -9
+p609
+aVTroy Daniels CHA 12/16/2015 CHA @ ORL L 7 9 3 4 75.0 3 3 100.0 0 0 - 0 1 1 0 0 0 0 1 5
+p610
+aVCody Zeller CHA 12/16/2015 CHA @ ORL L 23 11 3 3 100.0 0 0 - 5 5 100.0 0 2 2 2 3 0 0 2 -1
+p611
+aVKemba Walker CHA 12/16/2015 CHA @ ORL L 27 12 4 12 33.3 0 3 0.0 4 6 66.7 0 4 4 9 1 0 3 1 -11
+p612
+aVJeremy Lin CHA 12/16/2015 CHA @ ORL L 29 8 3 9 33.3 1 4 25.0 1 2 50.0 1 1 2 4 0 0 1 3 -12
+p613
+aVBrian Roberts CHA 12/16/2015 CHA @ ORL L 7 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 5
+p614
+aVJeremy Lamb CHA 12/16/2015 CHA @ ORL L 24 16 7 10 70.0 1 2 50.0 1 1 100.0 1 4 5 4 4 0 2 1 -3
+p615
+aVNicolas Batum CHA 12/16/2015 CHA @ ORL L 20 6 2 7 28.6 2 4 50.0 0 0 - 2 0 2 2 1 0 3 4 -11
+p616
+aVSpencer Hawes CHA 12/16/2015 CHA @ ORL L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -8
+p617
+aVCody Zeller CHA 12/12/2015 CHA vs. BOS L 27 12 6 9 66.7 0 0 - 0 0 - 1 4 5 1 0 0 1 3 -24
+p618
+aVNicolas Batum CHA 12/12/2015 CHA vs. BOS L 38 21 9 21 42.9 2 10 20.0 1 1 100.0 0 8 8 2 0 0 4 2 -11
+p619
+aVPJ Hairston CHA 12/12/2015 CHA vs. BOS L 22 6 2 7 28.6 2 5 40.0 0 0 - 0 4 4 0 0 1 0 0 -12
+p620
+aVJeremy Lin CHA 12/12/2015 CHA vs. BOS L 32 14 5 10 50.0 0 1 0.0 4 4 100.0 1 4 5 2 0 2 1 3 10
+p621
+aVKemba Walker CHA 12/12/2015 CHA vs. BOS L 34 16 5 15 33.3 2 4 50.0 4 4 100.0 3 3 6 4 0 0 1 2 -21
+p622
+aVJeremy Lamb CHA 12/12/2015 CHA vs. BOS L 15 9 3 11 27.3 2 5 40.0 1 1 100.0 0 3 3 2 1 0 1 0 16
+p623
+aVSpencer Hawes CHA 12/12/2015 CHA vs. BOS L 21 10 4 6 66.7 2 3 66.7 0 0 - 1 7 8 3 0 0 1 1 19
+p624
+aVFrank Kaminsky CHA 12/12/2015 CHA vs. BOS L 23 3 1 1 100.0 1 1 100.0 0 0 - 0 6 6 2 0 1 1 0 14
+p625
+aVMarvin Williams CHA 12/12/2015 CHA vs. BOS L 29 2 1 8 12.5 0 6 0.0 0 0 - 1 6 7 1 0 1 1 1 -16
+p626
+aVCody Zeller CHA 12/11/2015 CHA @ MEM W 22 2 1 5 20.0 0 0 - 0 0 - 0 2 2 3 3 0 1 5 9
+p627
+aVBrian Roberts CHA 12/11/2015 CHA @ MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -1
+p628
+aVSpencer Hawes CHA 12/11/2015 CHA @ MEM W 17 8 0 2 0.0 0 0 - 8 8 100.0 0 2 2 1 0 0 3 2 16
+p629
+aVJeremy Lin CHA 12/11/2015 CHA @ MEM W 27 16 4 10 40.0 2 5 40.0 6 7 85.7 2 2 4 2 1 3 2 2 25
+p630
+aVPJ Hairston CHA 12/11/2015 CHA @ MEM W 18 2 1 4 25.0 0 3 0.0 0 0 - 1 4 5 3 0 0 1 4 0
+p631
+aVJeremy Lamb CHA 12/11/2015 CHA @ MEM W 17 10 4 8 50.0 1 3 33.3 1 1 100.0 1 3 4 0 0 0 0 3 6
+p632
+aVAaron Harrison CHA 12/11/2015 CHA @ MEM W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p633
+aVFrank Kaminsky CHA 12/11/2015 CHA @ MEM W 27 15 4 6 66.7 1 2 50.0 6 6 100.0 1 5 6 3 0 0 0 3 15
+p634
+aVKemba Walker CHA 12/11/2015 CHA @ MEM W 35 33 12 19 63.2 5 8 62.5 4 5 80.0 1 4 5 6 0 0 3 2 21
+p635
+aVTyler Hansbrough CHA 12/11/2015 CHA @ MEM W 6 4 1 2 50.0 1 1 100.0 1 2 50.0 0 2 2 1 0 1 0 1 -2
+p636
+aVNicolas Batum CHA 12/11/2015 CHA @ MEM W 30 20 7 11 63.6 5 8 62.5 1 1 100.0 1 3 4 2 0 0 0 1 15
+p637
+aVTroy Daniels CHA 12/11/2015 CHA @ MEM W 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p638
+aVMarvin Williams CHA 12/11/2015 CHA @ MEM W 31 7 3 7 42.9 1 5 20.0 0 0 - 0 6 6 0 1 1 2 1 18
+p639
+aVKemba Walker CHA 12/09/2015 CHA vs. MIA W 31 18 8 13 61.5 1 2 50.0 1 2 50.0 0 5 5 4 5 0 0 2 20
+p640
+aVTyler Hansbrough CHA 12/09/2015 CHA vs. MIA W 10 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -8
+p641
+aVMarvin Williams CHA 12/09/2015 CHA vs. MIA W 23 18 7 11 63.6 4 6 66.7 0 0 - 0 4 4 0 0 1 0 0 16
+p642
+aVJeremy Lamb CHA 12/09/2015 CHA vs. MIA W 19 10 5 12 41.7 0 4 0.0 0 1 0.0 1 3 4 1 0 1 0 1 10
+p643
+aVSpencer Hawes CHA 12/09/2015 CHA vs. MIA W 17 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 4 14
+p644
+aVAaron Harrison CHA 12/09/2015 CHA vs. MIA W 7 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 1 0 0 0 -5
+p645
+aVJeremy Lin CHA 12/09/2015 CHA vs. MIA W 20 5 2 5 40.0 1 3 33.3 0 2 0.0 0 0 0 2 0 1 1 1 10
+p646
+aVTroy Daniels CHA 12/09/2015 CHA vs. MIA W 9 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 1 -12
+p647
+aVFrank Kaminsky CHA 12/09/2015 CHA vs. MIA W 29 5 2 6 33.3 0 2 0.0 1 2 50.0 0 7 7 6 1 0 1 3 6
+p648
+aVPJ Hairston CHA 12/09/2015 CHA vs. MIA W 16 6 2 3 66.7 2 2 100.0 0 0 - 0 2 2 0 0 0 0 1 11
+p649
+aVNicolas Batum CHA 12/09/2015 CHA vs. MIA W 28 10 3 9 33.3 1 4 25.0 3 4 75.0 0 11 11 11 1 1 3 1 22
+p650
+aVCody Zeller CHA 12/09/2015 CHA vs. MIA W 24 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 2 0 1 0 3 14
+p651
+aVBrian Roberts CHA 12/09/2015 CHA vs. MIA W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -8
+p652
+aVJeremy Lin CHA 12/07/2015 CHA vs. DET W 26 13 5 10 50.0 1 3 33.3 2 4 50.0 0 3 3 4 2 0 1 2 6
+p653
+aVAaron Harrison CHA 12/07/2015 CHA vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p654
+aVJeremy Lamb CHA 12/07/2015 CHA vs. DET W 21 6 3 11 27.3 0 2 0.0 0 2 0.0 3 4 7 3 0 1 1 3 13
+p655
+aVTyler Hansbrough CHA 12/07/2015 CHA vs. DET W 4 3 1 1 100.0 0 0 - 1 4 25.0 0 2 2 0 0 0 0 0 -2
+p656
+aVNicolas Batum CHA 12/07/2015 CHA vs. DET W 34 13 4 15 26.7 2 7 28.6 3 3 100.0 1 6 7 8 2 0 4 0 16
+p657
+aVPJ Hairston CHA 12/07/2015 CHA vs. DET W 16 6 2 6 33.3 1 3 33.3 1 1 100.0 0 3 3 1 0 0 0 5 13
+p658
+aVBrian Roberts CHA 12/07/2015 CHA vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p659
+aVSpencer Hawes CHA 12/07/2015 CHA vs. DET W 16 8 4 8 50.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 0 2
+p660
+aVCody Zeller CHA 12/07/2015 CHA vs. DET W 28 20 5 9 55.6 0 0 - 10 13 76.9 4 2 6 1 0 2 3 3 20
+p661
+aVKemba Walker CHA 12/07/2015 CHA vs. DET W 25 14 3 9 33.3 1 3 33.3 7 8 87.5 0 9 9 2 1 1 2 1 12
+p662
+aVFrank Kaminsky CHA 12/07/2015 CHA vs. DET W 31 7 3 5 60.0 1 2 50.0 0 0 - 0 4 4 1 0 1 2 4 12
+p663
+aVTroy Daniels CHA 12/07/2015 CHA vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p664
+aVMarvin Williams CHA 12/07/2015 CHA vs. DET W 28 14 6 8 75.0 2 4 50.0 0 0 - 5 7 12 0 0 0 0 1 14
+p665
+aVKemba Walker CHA 12/05/2015 CHA @ CHI W 38 17 7 16 43.8 2 6 33.3 1 2 50.0 2 4 6 5 3 1 3 4 2
+p666
+aVJeremy Lin CHA 12/05/2015 CHA @ CHI W 27 9 3 9 33.3 0 3 0.0 3 4 75.0 2 3 5 3 3 0 0 3 6
+p667
+aVPJ Hairston CHA 12/05/2015 CHA @ CHI W 19 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 1 0 1 0 5
+p668
+aVMarvin Williams CHA 12/05/2015 CHA @ CHI W 31 7 3 12 25.0 1 6 16.7 0 0 - 2 7 9 3 2 0 0 2 5
+p669
+aVJeremy Lamb CHA 12/05/2015 CHA @ CHI W 22 10 4 10 40.0 0 2 0.0 2 2 100.0 1 0 1 1 0 0 0 1 0
+p670
+aVTyler Hansbrough CHA 12/05/2015 CHA @ CHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p671
+aVCody Zeller CHA 12/05/2015 CHA @ CHI W 32 17 6 10 60.0 0 1 0.0 5 7 71.4 2 6 8 2 1 1 0 4 9
+p672
+aVFrank Kaminsky CHA 12/05/2015 CHA @ CHI W 11 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 0 0 0 0 1 -8
+p673
+aVSpencer Hawes CHA 12/05/2015 CHA @ CHI W 23 14 4 6 66.7 3 4 75.0 3 4 75.0 4 3 7 4 0 0 2 2 -1
+p674
+aVNicolas Batum CHA 12/05/2015 CHA @ CHI W 35 24 8 16 50.0 4 6 66.7 4 6 66.7 0 11 11 5 0 1 3 1 10
+p675
+aVBrian Roberts CHA 12/02/2015 CHA vs. GSW L 20 5 2 7 28.6 1 1 100.0 0 0 - 0 6 6 5 2 0 0 1 8
+p676
+aVTroy Daniels CHA 12/02/2015 CHA vs. GSW L 8 5 1 5 20.0 1 3 33.3 2 2 100.0 0 1 1 0 1 0 0 0 9
+p677
+aVSpencer Hawes CHA 12/02/2015 CHA vs. GSW L 20 12 5 9 55.6 0 2 0.0 2 2 100.0 2 3 5 2 0 0 1 1 -8
+p678
+aVJeremy Lin CHA 12/02/2015 CHA vs. GSW L 13 5 1 2 50.0 1 2 50.0 2 4 50.0 0 0 0 3 1 1 1 2 -11
+p679
+aVMarvin Williams CHA 12/02/2015 CHA vs. GSW L 30 6 2 9 22.2 0 4 0.0 2 2 100.0 3 3 6 1 1 1 0 0 -17
+p680
+aVPJ Hairston CHA 12/02/2015 CHA vs. GSW L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -9
+p681
+aVTyler Hansbrough CHA 12/02/2015 CHA vs. GSW L 11 8 3 3 100.0 0 0 - 2 4 50.0 1 2 3 1 2 1 1 0 5
+p682
+aVNicolas Batum CHA 12/02/2015 CHA vs. GSW L 30 17 6 15 40.0 1 6 16.7 4 5 80.0 2 6 8 3 3 2 2 2 -16
+p683
+aVKemba Walker CHA 12/02/2015 CHA vs. GSW L 31 4 2 16 12.5 0 5 0.0 0 0 - 1 2 3 2 0 0 0 2 -19
+p684
+aVFrank Kaminsky CHA 12/02/2015 CHA vs. GSW L 27 16 5 8 62.5 3 3 100.0 3 5 60.0 1 0 1 1 0 1 0 4 -7
+p685
+aVCody Zeller CHA 12/02/2015 CHA vs. GSW L 17 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 1 1 -14
+p686
+aVAaron Harrison CHA 12/02/2015 CHA vs. GSW L 7 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 2
+p687
+aVJeremy Lamb CHA 12/02/2015 CHA vs. GSW L 21 13 5 13 38.5 2 5 40.0 1 2 50.0 2 2 4 0 0 0 2 0 -8
+p688
+aVCody Zeller CHA 11/29/2015 CHA vs. MIL W 16 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 4 6
+p689
+aVSpencer Hawes CHA 11/29/2015 CHA vs. MIL W 16 5 1 4 25.0 1 1 100.0 2 2 100.0 0 8 8 0 0 0 2 2 4
+p690
+aVTyler Hansbrough CHA 11/29/2015 CHA vs. MIL W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 2 0 3 3
+p691
+aVNicolas Batum CHA 11/29/2015 CHA vs. MIL W 34 15 4 13 30.8 3 8 37.5 4 5 80.0 2 3 5 5 2 1 9 1 -8
+p692
+aVAl Jefferson CHA 11/29/2015 CHA vs. MIL W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -8
+p693
+aVJeremy Lin CHA 11/29/2015 CHA vs. MIL W 22 7 1 4 25.0 1 1 100.0 4 4 100.0 0 3 3 4 0 0 0 3 10
+p694
+aVJeremy Lamb CHA 11/29/2015 CHA vs. MIL W 27 14 5 10 50.0 3 6 50.0 1 2 50.0 1 8 9 2 0 0 0 0 21
+p695
+aVPJ Hairston CHA 11/29/2015 CHA vs. MIL W 15 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -13
+p696
+aVKemba Walker CHA 11/29/2015 CHA vs. MIL W 40 22 7 13 53.8 3 4 75.0 5 6 83.3 1 1 2 3 3 1 2 1 -9
+p697
+aVMarvin Williams CHA 11/29/2015 CHA vs. MIL W 37 12 4 10 40.0 3 7 42.9 1 1 100.0 1 6 7 2 0 1 0 0 0
+p698
+aVFrank Kaminsky CHA 11/29/2015 CHA vs. MIL W 17 4 2 8 25.0 0 2 0.0 0 0 - 0 4 4 2 1 1 0 1 19
+p699
+aVPJ Hairston CHA 11/27/2015 CHA vs. CLE L 19 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 1 1 0 0 4 1
+p700
+aVFrank Kaminsky CHA 11/27/2015 CHA vs. CLE L 19 3 1 4 25.0 0 1 0.0 1 2 50.0 1 1 2 1 0 0 1 3 -9
+p701
+aVKemba Walker CHA 11/27/2015 CHA vs. CLE L 35 18 6 16 37.5 1 4 25.0 5 5 100.0 1 3 4 4 3 2 3 0 -4
+p702
+aVJeremy Lin CHA 11/27/2015 CHA vs. CLE L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 4 0 0 2 2 0
+p703
+aVSpencer Hawes CHA 11/27/2015 CHA vs. CLE L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 1
+p704
+aVMarvin Williams CHA 11/27/2015 CHA vs. CLE L 33 10 3 8 37.5 2 6 33.3 2 2 100.0 1 1 2 3 0 2 0 5 8
+p705
+aVNicolas Batum CHA 11/27/2015 CHA vs. CLE L 39 17 6 13 46.2 1 7 14.3 4 5 80.0 2 6 8 4 1 0 3 2 -7
+p706
+aVCody Zeller CHA 11/27/2015 CHA vs. CLE L 15 7 1 2 50.0 0 0 - 5 6 83.3 0 2 2 1 1 1 1 4 -7
+p707
+aVJeremy Lamb CHA 11/27/2015 CHA vs. CLE L 24 11 5 12 41.7 0 2 0.0 1 3 33.3 1 7 8 0 0 1 1 2 -8
+p708
+aVAl Jefferson CHA 11/27/2015 CHA vs. CLE L 31 11 5 12 41.7 0 0 - 1 2 50.0 1 5 6 1 1 1 0 1 0
+p709
+aVJeremy Lin CHA 11/25/2015 CHA vs. WAS W 15 5 2 4 50.0 0 1 0.0 1 1 100.0 0 0 0 0 0 2 3 4 8
+p710
+aVPJ Hairston CHA 11/25/2015 CHA vs. WAS W 16 5 1 4 25.0 1 4 25.0 2 2 100.0 0 3 3 2 0 0 1 3 -4
+p711
+aVAl Jefferson CHA 11/25/2015 CHA vs. WAS W 30 14 6 13 46.2 0 0 - 2 2 100.0 3 8 11 1 1 0 0 2 11
+p712
+aVNicolas Batum CHA 11/25/2015 CHA vs. WAS W 34 16 5 15 33.3 3 7 42.9 3 3 100.0 1 6 7 11 2 0 2 1 16
+p713
+aVMarvin Williams CHA 11/25/2015 CHA vs. WAS W 33 14 5 7 71.4 2 3 66.7 2 2 100.0 4 7 11 0 1 1 2 0 11
+p714
+aVJeremy Lamb CHA 11/25/2015 CHA vs. WAS W 32 18 6 12 50.0 2 5 40.0 4 4 100.0 0 7 7 3 1 1 3 2 18
+p715
+aVKemba Walker CHA 11/25/2015 CHA vs. WAS W 41 16 8 17 47.1 0 3 0.0 0 0 - 0 2 2 5 0 2 5 1 5
+p716
+aVCody Zeller CHA 11/25/2015 CHA vs. WAS W 22 11 5 7 71.4 0 2 0.0 1 1 100.0 0 8 8 0 0 0 2 3 11
+p717
+aVFrank Kaminsky CHA 11/25/2015 CHA vs. WAS W 17 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 -6
+p718
+aVKemba Walker CHA 11/23/2015 CHA vs. SAC W 47 39 16 23 69.6 4 6 66.7 3 4 75.0 2 4 6 5 2 3 2 0 11
+p719
+aVSpencer Hawes CHA 11/23/2015 CHA vs. SAC W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 1 -6
+p720
+aVFrank Kaminsky CHA 11/23/2015 CHA vs. SAC W 21 9 4 8 50.0 1 4 25.0 0 0 - 2 3 5 0 0 0 0 0 23
+p721
+aVAl Jefferson CHA 11/23/2015 CHA vs. SAC W 23 10 4 10 40.0 0 0 - 2 4 50.0 0 3 3 3 1 1 3 1 -8
+p722
+aVCody Zeller CHA 11/23/2015 CHA vs. SAC W 28 12 4 8 50.0 0 0 - 4 4 100.0 1 5 6 0 1 0 1 4 16
+p723
+aVPJ Hairston CHA 11/23/2015 CHA vs. SAC W 19 5 2 5 40.0 1 4 25.0 0 0 - 0 6 6 1 0 1 1 2 -6
+p724
+aVJeremy Lin CHA 11/23/2015 CHA vs. SAC W 31 14 5 12 41.7 1 3 33.3 3 5 60.0 1 2 3 3 2 1 4 1 18
+p725
+aVJeremy Lamb CHA 11/23/2015 CHA vs. SAC W 26 11 5 9 55.6 0 2 0.0 1 2 50.0 0 5 5 2 1 0 1 5 -11
+p726
+aVMarvin Williams CHA 11/23/2015 CHA vs. SAC W 19 9 4 6 66.7 1 2 50.0 0 0 - 1 1 2 0 1 0 1 4 -17
+p727
+aVNicolas Batum CHA 11/23/2015 CHA vs. SAC W 43 18 5 16 31.3 1 7 14.3 7 7 100.0 1 9 10 8 2 1 5 1 5
+p728
+aVAl Jefferson CHA 11/20/2015 CHA vs. PHI W 31 26 11 19 57.9 0 0 - 4 5 80.0 1 9 10 2 1 5 1 5 18
+p729
+aVMarvin Williams CHA 11/20/2015 CHA vs. PHI W 29 11 3 7 42.9 2 3 66.7 3 3 100.0 3 6 9 0 1 2 1 2 18
+p730
+aVBrian Roberts CHA 11/20/2015 CHA vs. PHI W 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 1 7
+p731
+aVAaron Harrison CHA 11/20/2015 CHA vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p732
+aVSpencer Hawes CHA 11/20/2015 CHA vs. PHI W 15 4 1 6 16.7 0 4 0.0 2 2 100.0 0 5 5 2 0 0 2 3 -2
+p733
+aVJeremy Lin CHA 11/20/2015 CHA vs. PHI W 29 9 3 8 37.5 1 3 33.3 2 2 100.0 0 3 3 2 0 1 0 1 6
+p734
+aVKemba Walker CHA 11/20/2015 CHA vs. PHI W 35 20 7 12 58.3 2 5 40.0 4 4 100.0 0 2 2 7 3 0 2 1 18
+p735
+aVFrank Kaminsky CHA 11/20/2015 CHA vs. PHI W 19 9 4 4 100.0 1 1 100.0 0 0 - 0 3 3 3 0 2 0 3 7
+p736
+aVNicolas Batum CHA 11/20/2015 CHA vs. PHI W 32 14 4 9 44.4 3 4 75.0 3 3 100.0 1 3 4 3 0 0 4 2 16
+p737
+aVJeremy Lamb CHA 11/20/2015 CHA vs. PHI W 30 13 4 10 40.0 2 4 50.0 3 3 100.0 0 3 3 2 1 0 1 3 14
+p738
+aVTyler Hansbrough CHA 11/20/2015 CHA vs. PHI W 2 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 9
+p739
+aVTroy Daniels CHA 11/20/2015 CHA vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p740
+aVJeremy Lamb CHA 11/18/2015 CHA vs. BKN W 21 6 2 7 28.6 0 2 0.0 2 2 100.0 0 3 3 1 0 1 0 0 6
+p741
+aVAl Jefferson CHA 11/18/2015 CHA vs. BKN W 30 18 7 16 43.8 0 0 - 4 7 57.1 1 7 8 2 0 2 1 4 -7
+p742
+aVFrank Kaminsky CHA 11/18/2015 CHA vs. BKN W 23 11 4 6 66.7 1 2 50.0 2 2 100.0 1 2 3 1 1 1 3 0 5
+p743
+aVSpencer Hawes CHA 11/18/2015 CHA vs. BKN W 18 12 5 7 71.4 2 2 100.0 0 0 - 0 4 4 2 0 0 0 1 13
+p744
+aVMarvin Williams CHA 11/18/2015 CHA vs. BKN W 36 14 4 9 44.4 2 5 40.0 4 4 100.0 4 5 9 2 1 1 1 1 4
+p745
+aVKemba Walker CHA 11/18/2015 CHA vs. BKN W 29 18 5 9 55.6 3 4 75.0 5 10 50.0 2 5 7 7 1 0 2 3 -2
+p746
+aVJeremy Lin CHA 11/18/2015 CHA vs. BKN W 29 13 5 13 38.5 0 4 0.0 3 4 75.0 1 8 9 4 1 0 4 3 8
+p747
+aVCody Zeller CHA 11/18/2015 CHA vs. BKN W 14 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 1 0 3 -6
+p748
+aVNicolas Batum CHA 11/18/2015 CHA vs. BKN W 41 24 7 12 58.3 3 6 50.0 7 7 100.0 0 1 1 8 1 2 4 1 4
+p749
+aVAl Jefferson CHA 11/17/2015 CHA @ NYK L 26 10 5 12 41.7 0 0 - 0 2 0.0 0 5 5 2 3 1 0 1 -15
+p750
+aVFrank Kaminsky CHA 11/17/2015 CHA @ NYK L 24 2 1 5 20.0 0 1 0.0 0 0 - 1 4 5 1 0 2 0 2 3
+p751
+aVJeremy Lamb CHA 11/17/2015 CHA @ NYK L 23 12 5 7 71.4 0 2 0.0 2 2 100.0 1 5 6 3 0 0 0 2 11
+p752
+aVJeremy Lin CHA 11/17/2015 CHA @ NYK L 28 13 4 9 44.4 0 2 0.0 5 6 83.3 1 4 5 3 0 0 2 2 3
+p753
+aVNicolas Batum CHA 11/17/2015 CHA @ NYK L 35 4 1 9 11.1 1 4 25.0 1 2 50.0 0 6 6 0 0 0 1 2 -19
+p754
+aVSpencer Hawes CHA 11/17/2015 CHA @ NYK L 17 14 4 10 40.0 2 4 50.0 4 4 100.0 3 2 5 1 0 1 1 2 5
+p755
+aVMarvin Williams CHA 11/17/2015 CHA @ NYK L 30 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 1 1 0 2 -4
+p756
+aVKemba Walker CHA 11/17/2015 CHA @ NYK L 38 31 12 21 57.1 2 5 40.0 5 8 62.5 0 4 4 1 3 1 1 0 -17
+p757
+aVCody Zeller CHA 11/17/2015 CHA @ NYK L 18 6 3 5 60.0 0 0 - 0 1 0.0 2 3 5 1 0 1 2 3 -7
+p758
+aVJeremy Lin CHA 11/15/2015 CHA vs. POR W 20 5 2 9 22.2 1 4 25.0 0 0 - 0 0 0 3 1 1 1 1 6
+p759
+aVAl Jefferson CHA 11/15/2015 CHA vs. POR W 30 29 13 17 76.5 0 0 - 3 4 75.0 2 3 5 3 1 1 2 4 10
+p760
+aVJeremy Lamb CHA 11/15/2015 CHA vs. POR W 28 13 6 10 60.0 1 5 20.0 0 0 - 0 5 5 3 0 2 1 2 21
+p761
+aVMarvin Williams CHA 11/15/2015 CHA vs. POR W 34 7 3 8 37.5 0 3 0.0 1 2 50.0 0 8 8 2 1 2 1 2 9
+p762
+aVNicolas Batum CHA 11/15/2015 CHA vs. POR W 39 33 11 19 57.9 5 10 50.0 6 7 85.7 0 5 5 6 0 0 2 2 5
+p763
+aVCody Zeller CHA 11/15/2015 CHA vs. POR W 21 1 0 4 0.0 0 2 0.0 1 2 50.0 3 3 6 2 0 2 1 1 7
+p764
+aVBrian Roberts CHA 11/15/2015 CHA vs. POR W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -7
+p765
+aVKemba Walker CHA 11/15/2015 CHA vs. POR W 36 14 5 12 41.7 2 5 40.0 2 2 100.0 0 4 4 5 2 0 2 2 2
+p766
+aVSpencer Hawes CHA 11/15/2015 CHA vs. POR W 18 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 4 0 1 1 2 2
+p767
+aVPJ Hairston CHA 11/15/2015 CHA vs. POR W 9 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 5
+p768
+aVKemba Walker CHA 11/13/2015 CHA @ CHI L 37 13 5 18 27.8 1 4 25.0 2 2 100.0 1 8 9 7 3 2 2 1 9
+p769
+aVNicolas Batum CHA 11/13/2015 CHA @ CHI L 35 28 10 17 58.8 5 6 83.3 3 3 100.0 3 5 8 2 2 0 2 1 6
+p770
+aVFrank Kaminsky CHA 11/13/2015 CHA @ CHI L 20 5 2 9 22.2 1 3 33.3 0 0 - 1 2 3 1 0 1 0 3 -5
+p771
+aVJeremy Lin CHA 11/13/2015 CHA @ CHI L 17 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 1 2 0 0 2 -15
+p772
+aVSpencer Hawes CHA 11/13/2015 CHA @ CHI L 17 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 2 -15
+p773
+aVTroy Daniels CHA 11/13/2015 CHA @ CHI L 2 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 0 1
+p774
+aVPJ Hairston CHA 11/13/2015 CHA @ CHI L 15 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 0 0 0 0 3 3
+p775
+aVMarvin Williams CHA 11/13/2015 CHA @ CHI L 35 14 5 11 45.5 3 6 50.0 1 1 100.0 1 4 5 2 1 1 1 3 -7
+p776
+aVJeremy Lamb CHA 11/13/2015 CHA @ CHI L 32 15 5 14 35.7 2 7 28.6 3 4 75.0 2 7 9 2 0 0 1 2 -12
+p777
+aVAl Jefferson CHA 11/13/2015 CHA @ CHI L 31 6 3 9 33.3 0 0 - 0 0 - 0 5 5 5 1 0 0 4 10
+p778
+aVAl Jefferson CHA 11/11/2015 CHA vs. NYK W 23 4 2 10 20.0 0 0 - 0 0 - 2 3 5 2 0 0 0 1 -10
+p779
+aVMarvin Williams CHA 11/11/2015 CHA vs. NYK W 29 8 3 6 50.0 1 3 33.3 1 2 50.0 1 1 2 1 1 3 0 1 -10
+p780
+aVCody Zeller CHA 11/11/2015 CHA vs. NYK W 25 12 2 6 33.3 0 0 - 8 15 53.3 2 2 4 3 0 1 0 1 -3
+p781
+aVKemba Walker CHA 11/11/2015 CHA vs. NYK W 27 9 2 11 18.2 1 2 50.0 4 4 100.0 0 2 2 3 1 0 0 0 -9
+p782
+aVJeremy Lamb CHA 11/11/2015 CHA vs. NYK W 24 14 6 10 60.0 2 4 50.0 0 0 - 0 4 4 0 2 0 1 0 13
+p783
+aVNicolas Batum CHA 11/11/2015 CHA vs. NYK W 36 24 10 18 55.6 2 5 40.0 2 5 40.0 1 4 5 1 1 0 2 0 1
+p784
+aVPJ Hairston CHA 11/11/2015 CHA vs. NYK W 26 5 2 8 25.0 1 5 20.0 0 0 - 0 3 3 2 0 1 0 3 -8
+p785
+aVFrank Kaminsky CHA 11/11/2015 CHA vs. NYK W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 3 0 0 0 14
+p786
+aVJeremy Lin CHA 11/11/2015 CHA vs. NYK W 21 17 7 11 63.6 1 1 100.0 2 2 100.0 0 2 2 3 3 0 2 2 11
+p787
+aVSpencer Hawes CHA 11/11/2015 CHA vs. NYK W 19 0 0 2 0.0 0 2 0.0 0 0 - 1 3 4 5 0 0 0 1 11
+p788
+aVFrank Kaminsky CHA 11/10/2015 CHA @ MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p789
+aVAl Jefferson CHA 11/10/2015 CHA @ MIN W 26 9 3 9 33.3 0 0 - 3 4 75.0 0 4 4 2 0 1 2 2 -14
+p790
+aVMarvin Williams CHA 11/10/2015 CHA @ MIN W 35 7 2 6 33.3 1 4 25.0 2 2 100.0 1 9 10 0 2 2 2 4 3
+p791
+aVJeremy Lamb CHA 11/10/2015 CHA @ MIN W 23 18 8 10 80.0 2 3 66.7 0 0 - 0 4 4 0 1 0 1 1 13
+p792
+aVBrian Roberts CHA 11/10/2015 CHA @ MIN W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 9
+p793
+aVPJ Hairston CHA 11/10/2015 CHA @ MIN W 8 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 2 -5
+p794
+aVSpencer Hawes CHA 11/10/2015 CHA @ MIN W 19 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 2 1 0 1 3 22
+p795
+aVNicolas Batum CHA 11/10/2015 CHA @ MIN W 35 17 6 11 54.5 3 5 60.0 2 2 100.0 0 6 6 3 0 2 4 3 -5
+p796
+aVCody Zeller CHA 11/10/2015 CHA @ MIN W 24 14 5 8 62.5 0 0 - 4 6 66.7 3 3 6 1 2 0 1 4 23
+p797
+aVKemba Walker CHA 11/10/2015 CHA @ MIN W 35 10 4 12 33.3 0 5 0.0 2 3 66.7 0 0 0 6 2 0 3 0 -14
+p798
+aVJeremy Lin CHA 11/10/2015 CHA @ MIN W 26 19 6 11 54.5 1 5 20.0 6 8 75.0 0 1 1 3 0 0 0 1 18
+p799
+aVKemba Walker CHA 11/07/2015 CHA @ SAS L 29 27 11 15 73.3 2 2 100.0 3 4 75.0 0 1 1 4 2 0 3 0 4
+p800
+aVAl Jefferson CHA 11/07/2015 CHA @ SAS L 30 13 6 11 54.5 0 0 - 1 2 50.0 1 6 7 1 0 0 0 4 4
+p801
+aVFrank Kaminsky CHA 11/07/2015 CHA @ SAS L 9 8 2 3 66.7 1 1 100.0 3 4 75.0 0 0 0 2 0 0 0 1 9
+p802
+aVMarvin Williams CHA 11/07/2015 CHA @ SAS L 27 9 4 7 57.1 1 2 50.0 0 0 - 0 4 4 0 1 0 0 1 7
+p803
+aVPJ Hairston CHA 11/07/2015 CHA @ SAS L 17 4 1 5 20.0 0 3 0.0 2 2 100.0 0 3 3 0 0 0 1 2 16
+p804
+aVNicolas Batum CHA 11/07/2015 CHA @ SAS L 32 10 2 6 33.3 1 2 50.0 5 5 100.0 1 3 4 4 3 0 4 3 -20
+p805
+aVTyler Hansbrough CHA 11/07/2015 CHA @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p806
+aVBrian Roberts CHA 11/07/2015 CHA @ SAS L 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 4
+p807
+aVJeremy Lin CHA 11/07/2015 CHA @ SAS L 22 12 4 10 40.0 1 4 25.0 3 6 50.0 0 3 3 2 0 0 2 2 -37
+p808
+aVSpencer Hawes CHA 11/07/2015 CHA @ SAS L 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -28
+p809
+aVJeremy Lamb CHA 11/07/2015 CHA @ SAS L 23 4 2 8 25.0 0 3 0.0 0 2 0.0 2 2 4 0 0 0 2 2 -29
+p810
+aVCody Zeller CHA 11/07/2015 CHA @ SAS L 24 2 0 4 0.0 0 1 0.0 2 4 50.0 2 3 5 1 1 0 1 2 -38
+p811
+aVTroy Daniels CHA 11/07/2015 CHA @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p812
+aVJeremy Lamb CHA 11/05/2015 CHA @ DAL W 24 16 7 11 63.6 2 4 50.0 0 0 - 2 2 4 0 0 0 0 2 3
+p813
+aVFrank Kaminsky CHA 11/05/2015 CHA @ DAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p814
+aVTyler Hansbrough CHA 11/05/2015 CHA @ DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p815
+aVMarvin Williams CHA 11/05/2015 CHA @ DAL W 32 17 6 11 54.5 3 5 60.0 2 3 66.7 2 10 12 2 0 1 1 3 16
+p816
+aVCody Zeller CHA 11/05/2015 CHA @ DAL W 19 11 4 6 66.7 0 0 - 3 4 75.0 0 3 3 0 2 1 0 3 12
+p817
+aVNicolas Batum CHA 11/05/2015 CHA @ DAL W 34 8 3 10 30.0 0 5 0.0 2 2 100.0 1 6 7 4 2 1 1 1 11
+p818
+aVPJ Hairston CHA 11/05/2015 CHA @ DAL W 22 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 0 1 0 0 4 12
+p819
+aVJeremy Lin CHA 11/05/2015 CHA @ DAL W 17 7 3 8 37.5 0 3 0.0 1 1 100.0 0 1 1 2 2 1 4 2 7
+p820
+aVBrian Roberts CHA 11/05/2015 CHA @ DAL W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p821
+aVSpencer Hawes CHA 11/05/2015 CHA @ DAL W 18 0 0 4 0.0 0 2 0.0 0 0 - 0 4 4 3 0 1 2 3 8
+p822
+aVKemba Walker CHA 11/05/2015 CHA @ DAL W 30 14 4 11 36.4 1 5 20.0 5 6 83.3 0 2 2 7 1 0 1 2 10
+p823
+aVTroy Daniels CHA 11/05/2015 CHA @ DAL W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -4
+p824
+aVAl Jefferson CHA 11/05/2015 CHA @ DAL W 27 31 15 18 83.3 0 0 - 1 1 100.0 3 6 9 1 0 1 2 3 10
+p825
+aVTroy Daniels CHA 11/03/2015 CHA vs. CHI W 6 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -5
+p826
+aVAl Jefferson CHA 11/03/2015 CHA vs. CHI W 21 14 7 12 58.3 0 0 - 0 0 - 2 1 3 2 2 1 0 3 3
+p827
+aVCody Zeller CHA 11/03/2015 CHA vs. CHI W 16 6 2 5 40.0 0 1 0.0 2 2 100.0 2 3 5 1 1 0 1 0 18
+p828
+aVNicolas Batum CHA 11/03/2015 CHA vs. CHI W 28 18 4 11 36.4 1 2 50.0 9 9 100.0 0 8 8 3 0 0 1 1 17
+p829
+aVFrank Kaminsky CHA 11/03/2015 CHA vs. CHI W 21 6 2 6 33.3 2 2 100.0 0 0 - 1 2 3 3 1 0 0 0 -2
+p830
+aVMarvin Williams CHA 11/03/2015 CHA vs. CHI W 25 4 2 6 33.3 0 2 0.0 0 0 - 2 8 10 3 0 0 0 0 22
+p831
+aVTyler Hansbrough CHA 11/03/2015 CHA vs. CHI W 7 6 1 4 25.0 0 0 - 4 4 100.0 3 0 3 0 0 0 1 1 -2
+p832
+aVJeremy Lin CHA 11/03/2015 CHA vs. CHI W 19 15 4 8 50.0 2 2 100.0 5 5 100.0 1 4 5 4 0 1 1 1 21
+p833
+aVJeremy Lamb CHA 11/03/2015 CHA vs. CHI W 26 20 9 10 90.0 2 3 66.7 0 1 0.0 0 4 4 3 2 0 1 0 22
+p834
+aVPJ Hairston CHA 11/03/2015 CHA vs. CHI W 20 10 3 5 60.0 2 3 66.7 2 2 100.0 0 5 5 0 0 0 0 3 4
+p835
+aVBrian Roberts CHA 11/03/2015 CHA vs. CHI W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p836
+aVKemba Walker CHA 11/03/2015 CHA vs. CHI W 26 13 6 12 50.0 1 2 50.0 0 0 - 1 1 2 5 0 2 2 0 8
+p837
+aVSpencer Hawes CHA 11/03/2015 CHA vs. CHI W 20 13 5 6 83.3 3 3 100.0 0 0 - 0 3 3 2 0 0 1 1 24
+p838
+aVNicolas Batum CHA 11/01/2015 CHA vs. ATL L 36 16 5 14 35.7 4 9 44.4 2 2 100.0 3 2 5 8 2 2 2 2 3
+p839
+aVFrank Kaminsky CHA 11/01/2015 CHA vs. ATL L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p840
+aVCody Zeller CHA 11/01/2015 CHA vs. ATL L 23 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 1 1 1 0 -15
+p841
+aVJeremy Lamb CHA 11/01/2015 CHA vs. ATL L 18 9 4 11 36.4 1 4 25.0 0 0 - 0 4 4 2 0 2 0 1 -5
+p842
+aVPJ Hairston CHA 11/01/2015 CHA vs. ATL L 23 7 2 6 33.3 0 4 0.0 3 3 100.0 0 4 4 1 0 0 2 1 4
+p843
+aVAl Jefferson CHA 11/01/2015 CHA vs. ATL L 29 10 5 12 41.7 0 0 - 0 0 - 0 10 10 2 0 2 0 1 2
+p844
+aVMarvin Williams CHA 11/01/2015 CHA vs. ATL L 33 15 5 10 50.0 5 8 62.5 0 0 - 0 5 5 1 0 3 2 0 4
+p845
+aVKemba Walker CHA 11/01/2015 CHA vs. ATL L 31 17 4 9 44.4 2 3 66.7 7 8 87.5 2 4 6 6 2 0 2 3 -1
+p846
+aVSpencer Hawes CHA 11/01/2015 CHA vs. ATL L 18 2 1 8 12.5 0 2 0.0 0 0 - 1 3 4 2 1 1 1 4 -2
+p847
+aVJeremy Lin CHA 11/01/2015 CHA vs. ATL L 21 7 2 9 22.2 1 6 16.7 2 2 100.0 1 1 2 5 1 2 1 2 -2
+p848
+aVNicolas Batum CHA 10/30/2015 CHA @ ATL L 33 14 6 10 60.0 1 4 25.0 1 1 100.0 2 9 11 4 1 0 7 2 6
+p849
+aVFrank Kaminsky CHA 10/30/2015 CHA @ ATL L 14 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 1 8
+p850
+aVMarvin Williams CHA 10/30/2015 CHA @ ATL L 36 13 5 11 45.5 3 5 60.0 0 0 - 3 9 12 3 0 1 2 2 6
+p851
+aVPJ Hairston CHA 10/30/2015 CHA @ ATL L 17 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 0 0 1 0 1 -6
+p852
+aVAl Jefferson CHA 10/30/2015 CHA @ ATL L 30 10 5 15 33.3 0 0 - 0 0 - 4 7 11 0 1 2 0 1 7
+p853
+aVKemba Walker CHA 10/30/2015 CHA @ ATL L 35 13 5 15 33.3 1 5 20.0 2 2 100.0 0 4 4 6 1 0 3 3 6
+p854
+aVJeremy Lin CHA 10/30/2015 CHA @ ATL L 27 12 2 8 25.0 2 4 50.0 6 6 100.0 2 2 4 4 1 0 3 2 3
+p855
+aVCody Zeller CHA 10/30/2015 CHA @ ATL L 17 5 2 5 40.0 0 1 0.0 1 1 100.0 1 1 2 0 1 0 0 3 -27
+p856
+aVJeremy Lamb CHA 10/30/2015 CHA @ ATL L 15 11 4 8 50.0 3 5 60.0 0 0 - 0 2 2 1 0 2 1 0 -9
+p857
+aVSpencer Hawes CHA 10/30/2015 CHA @ ATL L 18 8 4 6 66.7 0 0 - 0 3 0.0 1 3 4 4 2 0 2 5 -9
+p858
+aVSpencer Hawes CHA 10/28/2015 CHA @ MIA L 18 7 3 5 60.0 0 1 0.0 1 2 50.0 0 3 3 0 0 0 0 2 -14
+p859
+aVAl Jefferson CHA 10/28/2015 CHA @ MIA L 22 17 8 14 57.1 0 0 - 1 3 33.3 2 3 5 1 1 0 1 1 -8
+p860
+aVBrian Roberts CHA 10/28/2015 CHA @ MIA L 13 5 2 6 33.3 0 0 - 1 1 100.0 0 1 1 1 0 0 0 1 4
+p861
+aVKemba Walker CHA 10/28/2015 CHA @ MIA L 35 19 5 16 31.3 1 4 25.0 8 9 88.9 1 3 4 4 2 1 0 2 -14
+p862
+aVMarvin Williams CHA 10/28/2015 CHA @ MIA L 38 10 4 10 40.0 0 5 0.0 2 2 100.0 2 8 10 3 0 0 1 1 4
+p863
+aVPJ Hairston CHA 10/28/2015 CHA @ MIA L 18 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 2 0 0 0 1 -6
+p864
+aVNicolas Batum CHA 10/28/2015 CHA @ MIA L 33 9 3 12 25.0 2 6 33.3 1 2 50.0 2 4 6 3 0 0 3 3 -3
+p865
+aVCody Zeller CHA 10/28/2015 CHA @ MIA L 30 7 2 4 50.0 0 0 - 3 4 75.0 4 8 12 0 1 0 1 2 -7
+p866
+aVJeremy Lin CHA 10/28/2015 CHA @ MIA L 27 17 5 10 50.0 2 3 66.7 5 6 83.3 0 1 1 2 0 0 2 3 -2
+p867
+aVFrank Kaminsky CHA 10/28/2015 CHA @ MIA L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p868
+a.

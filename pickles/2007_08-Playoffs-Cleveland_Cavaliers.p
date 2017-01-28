@@ -1,0 +1,266 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDelonte West CLE 05/18/2008 CLE @ BOS L 45 15 4 8 50.0 2 4 50.0 5 6 83.3 1 2 3 5 1 0 6 4 -2
+p2
+aVSasha Pavlovic CLE 05/18/2008 CLE @ BOS L 36 7 3 8 37.5 1 2 50.0 0 1 0.0 2 1 3 1 0 0 1 5 5
+p3
+aVBen Wallace CLE 05/18/2008 CLE @ BOS L 30 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 1 0 1 0 5 -15
+p4
+aVDamon Jones CLE 05/18/2008 CLE @ BOS L 10 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 2
+p5
+aVAnderson Varejao CLE 05/18/2008 CLE @ BOS L 11 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 3
+p6
+aVWally Szczerbiak CLE 05/18/2008 CLE @ BOS L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 4 -14
+p7
+aVZydrunas Ilgauskas CLE 05/18/2008 CLE @ BOS L 31 8 2 8 25.0 0 0 - 4 4 100.0 2 3 5 0 0 1 2 2 0
+p8
+aVJoe Smith CLE 05/18/2008 CLE @ BOS L 16 6 3 5 60.0 0 1 0.0 0 1 0.0 2 4 6 0 0 0 1 1 -4
+p9
+aVLeBron James CLE 05/18/2008 CLE @ BOS L 47 45 14 29 48.3 3 11 27.3 14 19 73.7 1 4 5 6 2 0 2 4 0
+p10
+aVZydrunas Ilgauskas CLE 05/16/2008 CLE vs. BOS W 31 7 3 11 27.3 0 0 - 1 1 100.0 5 5 10 1 0 3 0 3 -4
+p11
+aVSasha Pavlovic CLE 05/16/2008 CLE vs. BOS W 19 3 1 6 16.7 1 3 33.3 0 0 - 2 0 2 0 0 0 1 2 7
+p12
+aVLeBron James CLE 05/16/2008 CLE vs. BOS W 47 32 9 23 39.1 1 3 33.3 13 15 86.7 3 9 12 6 2 1 8 2 7
+p13
+aVWally Szczerbiak CLE 05/16/2008 CLE vs. BOS W 30 9 2 11 18.2 1 6 16.7 4 4 100.0 0 2 2 2 0 1 0 2 -4
+p14
+aVJoe Smith CLE 05/16/2008 CLE vs. BOS W 27 9 3 4 75.0 0 0 - 3 4 75.0 1 4 5 1 1 0 0 3 -7
+p15
+aVBen Wallace CLE 05/16/2008 CLE vs. BOS W 22 0 0 3 0.0 0 0 - 0 0 - 1 5 6 0 1 2 0 2 11
+p16
+aVAnderson Varejao CLE 05/16/2008 CLE vs. BOS W 15 4 2 6 33.3 0 0 - 0 1 0.0 3 2 5 0 1 0 1 1 10
+p17
+aVDelonte West CLE 05/16/2008 CLE vs. BOS W 45 10 4 7 57.1 2 3 66.7 0 0 - 1 2 3 0 0 0 4 1 11
+p18
+aVDamon Jones CLE 05/16/2008 CLE vs. BOS W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p19
+aVDelonte West CLE 05/14/2008 CLE @ BOS L 43 21 5 12 41.7 1 3 33.3 10 13 76.9 0 2 2 4 4 0 3 3 -10
+p20
+aVSasha Pavlovic CLE 05/14/2008 CLE @ BOS L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 4
+p21
+aVAnderson Varejao CLE 05/14/2008 CLE @ BOS L 20 4 1 3 33.3 0 0 - 2 6 33.3 4 3 7 2 1 0 0 4 2
+p22
+aVLeBron James CLE 05/14/2008 CLE @ BOS L 45 35 12 25 48.0 0 5 0.0 11 13 84.6 0 3 3 5 1 1 4 3 -8
+p23
+aVBen Wallace CLE 05/14/2008 CLE @ BOS L 27 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 1 1 1 -11
+p24
+aVDaniel Gibson CLE 05/14/2008 CLE @ BOS L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 1 1 1 0
+p25
+aVWally Szczerbiak CLE 05/14/2008 CLE @ BOS L 36 10 3 8 37.5 2 6 33.3 2 3 66.7 0 4 4 0 0 0 1 2 -3
+p26
+aVZydrunas Ilgauskas CLE 05/14/2008 CLE @ BOS L 26 6 2 5 40.0 0 0 - 2 2 100.0 1 6 7 0 0 1 2 1 -9
+p27
+aVJoe Smith CLE 05/14/2008 CLE @ BOS L 19 7 3 5 60.0 0 0 - 1 4 25.0 0 2 2 0 1 1 0 2 0
+p28
+aVJoe Smith CLE 05/12/2008 CLE vs. BOS W 25 8 4 6 66.7 0 0 - 0 0 - 0 6 6 1 0 0 0 2 17
+p29
+aVDelonte West CLE 05/12/2008 CLE vs. BOS W 30 6 3 8 37.5 0 4 0.0 0 0 - 1 0 1 1 0 0 2 2 6
+p30
+aVBen Wallace CLE 05/12/2008 CLE vs. BOS W 23 2 1 4 25.0 0 0 - 0 0 - 1 6 7 1 2 0 0 1 -8
+p31
+aVZydrunas Ilgauskas CLE 05/12/2008 CLE vs. BOS W 23 9 3 10 30.0 0 0 - 3 4 75.0 3 4 7 2 0 0 1 1 -4
+p32
+aVDaniel Gibson CLE 05/12/2008 CLE vs. BOS W 28 14 5 9 55.6 2 4 50.0 2 4 50.0 1 5 6 4 0 0 0 2 19
+p33
+aVWally Szczerbiak CLE 05/12/2008 CLE vs. BOS W 31 14 6 11 54.5 2 4 50.0 0 0 - 1 1 2 2 0 0 0 2 -6
+p34
+aVSasha Pavlovic CLE 05/12/2008 CLE vs. BOS W 12 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 1
+p35
+aVLeBron James CLE 05/12/2008 CLE vs. BOS W 44 21 7 20 35.0 2 5 40.0 5 8 62.5 1 5 6 13 3 2 4 3 15
+p36
+aVAnderson Varejao CLE 05/12/2008 CLE vs. BOS W 26 12 6 8 75.0 0 0 - 0 0 - 0 6 6 0 0 0 0 2 15
+p37
+aVDelonte West CLE 05/10/2008 CLE vs. BOS W 38 21 7 11 63.6 4 6 66.7 3 3 100.0 0 5 5 7 1 0 3 3 16
+p38
+aVDaniel Gibson CLE 05/10/2008 CLE vs. BOS W 21 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 3 0 0 0 2 8
+p39
+aVWally Szczerbiak CLE 05/10/2008 CLE vs. BOS W 42 16 4 10 40.0 2 6 33.3 6 7 85.7 0 0 0 1 0 0 1 1 20
+p40
+aVAnderson Varejao CLE 05/10/2008 CLE vs. BOS W 11 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 0 0 1 4 15
+p41
+aVDwayne Jones CLE 05/10/2008 CLE vs. BOS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p42
+aVDevin Brown CLE 05/10/2008 CLE vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p43
+aVSasha Pavlovic CLE 05/10/2008 CLE vs. BOS W 2 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p44
+aVLeBron James CLE 05/10/2008 CLE vs. BOS W 40 21 5 16 31.3 3 5 60.0 8 12 66.7 0 5 5 8 4 3 2 3 29
+p45
+aVJoe Smith CLE 05/10/2008 CLE vs. BOS W 24 17 7 8 87.5 0 0 - 3 4 75.0 1 5 6 1 0 1 1 4 16
+p46
+aVZydrunas Ilgauskas CLE 05/10/2008 CLE vs. BOS W 28 12 5 10 50.0 0 0 - 2 2 100.0 1 7 8 6 0 0 1 3 8
+p47
+aVBen Wallace CLE 05/10/2008 CLE vs. BOS W 28 9 4 6 66.7 0 0 - 1 4 25.0 7 2 9 2 1 2 1 1 2
+p48
+aVBen Wallace CLE 05/08/2008 CLE @ BOS L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 1 6
+p49
+aVSasha Pavlovic CLE 05/08/2008 CLE @ BOS L 15 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 2 -11
+p50
+aVZydrunas Ilgauskas CLE 05/08/2008 CLE @ BOS L 31 19 9 12 75.0 0 0 - 1 2 50.0 1 4 5 1 0 2 2 4 -6
+p51
+aVDevin Brown CLE 05/08/2008 CLE @ BOS L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 6
+p52
+aVLeBron James CLE 05/08/2008 CLE @ BOS L 42 21 6 24 25.0 0 4 0.0 9 13 69.2 2 3 5 6 2 1 7 1 -15
+p53
+aVDwayne Jones CLE 05/08/2008 CLE @ BOS L 3 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 6
+p54
+aVWally Szczerbiak CLE 05/08/2008 CLE @ BOS L 35 13 4 11 36.4 1 4 25.0 4 4 100.0 0 1 1 3 1 0 0 4 -12
+p55
+aVAnderson Varejao CLE 05/08/2008 CLE @ BOS L 33 3 1 5 20.0 0 0 - 1 2 50.0 3 7 10 1 1 0 1 5 -21
+p56
+aVJoe Smith CLE 05/08/2008 CLE @ BOS L 19 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -9
+p57
+aVDelonte West CLE 05/08/2008 CLE @ BOS L 35 3 1 5 20.0 0 1 0.0 1 2 50.0 1 6 7 5 0 4 3 3 -11
+p58
+aVDaniel Gibson CLE 05/08/2008 CLE @ BOS L 20 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 2 2 -13
+p59
+aVLeBron James CLE 05/06/2008 CLE @ BOS L 39 12 2 18 11.1 0 6 0.0 8 10 80.0 2 7 9 9 1 1 10 4 -7
+p60
+aVJoe Smith CLE 05/06/2008 CLE @ BOS L 16 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 1 1 2 3 -13
+p61
+aVBen Wallace CLE 05/06/2008 CLE @ BOS L 31 4 1 3 33.3 0 0 - 2 2 100.0 5 4 9 2 1 0 1 1 3
+p62
+aVDaniel Gibson CLE 05/06/2008 CLE @ BOS L 24 7 2 6 33.3 1 3 33.3 2 2 100.0 0 0 0 1 2 0 0 2 -5
+p63
+aVDelonte West CLE 05/06/2008 CLE @ BOS L 35 4 2 10 20.0 0 3 0.0 0 0 - 1 4 5 2 2 0 2 3 0
+p64
+aVWally Szczerbiak CLE 05/06/2008 CLE @ BOS L 32 13 5 14 35.7 2 5 40.0 1 1 100.0 1 1 2 2 0 0 0 1 5
+p65
+aVAnderson Varejao CLE 05/06/2008 CLE @ BOS L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 2 0 0 1 -2
+p66
+aVSasha Pavlovic CLE 05/06/2008 CLE @ BOS L 14 7 2 3 66.7 1 1 100.0 2 3 66.7 0 0 0 0 1 0 0 3 -5
+p67
+aVZydrunas Ilgauskas CLE 05/06/2008 CLE @ BOS L 37 22 8 18 44.4 0 0 - 6 6 100.0 3 9 12 2 2 2 2 3 4
+p68
+aVDelonte West CLE 05/02/2008 CLE @ WAS W 25 4 2 8 25.0 0 1 0.0 0 0 - 0 3 3 7 0 0 0 3 12
+p69
+aVWally Szczerbiak CLE 05/02/2008 CLE @ WAS W 33 26 9 18 50.0 6 13 46.2 2 2 100.0 0 2 2 1 0 0 1 4 5
+p70
+aVLeBron James CLE 05/02/2008 CLE @ WAS W 44 27 8 17 47.1 1 2 50.0 10 10 100.0 2 11 13 13 2 1 1 2 26
+p71
+aVAnderson Varejao CLE 05/02/2008 CLE @ WAS W 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p72
+aVDwayne Jones CLE 05/02/2008 CLE @ WAS W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -7
+p73
+aVZydrunas Ilgauskas CLE 05/02/2008 CLE @ WAS W 32 12 5 9 55.6 0 0 - 2 4 50.0 2 5 7 2 0 2 2 2 10
+p74
+aVSasha Pavlovic CLE 05/02/2008 CLE @ WAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p75
+aVDevin Brown CLE 05/02/2008 CLE @ WAS W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -5
+p76
+aVBen Wallace CLE 05/02/2008 CLE @ WAS W 25 4 2 4 50.0 0 0 - 0 0 - 4 3 7 2 0 2 0 1 17
+p77
+aVDamon Jones CLE 05/02/2008 CLE @ WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p78
+aVJoe Smith CLE 05/02/2008 CLE @ WAS W 26 8 4 7 57.1 0 0 - 0 0 - 3 2 5 0 0 1 0 5 16
+p79
+aVDaniel Gibson CLE 05/02/2008 CLE @ WAS W 31 22 9 14 64.3 4 6 66.7 0 1 0.0 1 2 3 2 2 0 1 1 27
+p80
+aVDaniel Gibson CLE 04/30/2008 CLE vs. WAS L 31 9 3 8 37.5 3 7 42.9 0 0 - 0 4 4 3 0 0 2 3 -2
+p81
+aVAnderson Varejao CLE 04/30/2008 CLE vs. WAS L 17 3 1 6 16.7 0 0 - 1 2 50.0 1 2 3 0 0 1 0 2 -9
+p82
+aVLeBron James CLE 04/30/2008 CLE vs. WAS L 44 34 8 21 38.1 3 9 33.3 15 18 83.3 2 8 10 7 1 2 5 0 -3
+p83
+aVWally Szczerbiak CLE 04/30/2008 CLE vs. WAS L 18 4 1 6 16.7 1 3 33.3 1 1 100.0 1 1 2 0 1 0 4 1 2
+p84
+aVDevin Brown CLE 04/30/2008 CLE vs. WAS L 14 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 6
+p85
+aVBen Wallace CLE 04/30/2008 CLE vs. WAS L 24 2 1 1 100.0 0 0 - 0 2 0.0 1 5 6 0 0 1 1 3 -2
+p86
+aVDelonte West CLE 04/30/2008 CLE vs. WAS L 37 12 4 11 36.4 1 3 33.3 3 3 100.0 1 4 5 8 1 0 0 3 -6
+p87
+aVJoe Smith CLE 04/30/2008 CLE vs. WAS L 20 1 0 6 0.0 0 0 - 1 2 50.0 1 3 4 0 0 1 0 3 -8
+p88
+aVZydrunas Ilgauskas CLE 04/30/2008 CLE vs. WAS L 35 19 8 11 72.7 0 0 - 3 4 75.0 5 1 6 0 2 2 1 4 17
+p89
+aVWally Szczerbiak CLE 04/27/2008 CLE @ WAS W 16 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 0 4 -2
+p90
+aVDaniel Gibson CLE 04/27/2008 CLE @ WAS W 34 12 4 10 40.0 4 7 57.1 0 0 - 0 1 1 5 1 0 2 3 1
+p91
+aVBen Wallace CLE 04/27/2008 CLE @ WAS W 33 0 0 0 - 0 0 - 0 2 0.0 4 8 12 2 2 2 1 3 14
+p92
+aVJoe Smith CLE 04/27/2008 CLE @ WAS W 19 7 1 6 16.7 0 0 - 5 5 100.0 5 3 8 1 1 0 0 3 8
+p93
+aVLeBron James CLE 04/27/2008 CLE @ WAS W 44 34 11 25 44.0 3 8 37.5 9 14 64.3 2 10 12 7 2 0 5 5 3
+p94
+aVDelonte West CLE 04/27/2008 CLE @ WAS W 36 21 7 12 58.3 5 8 62.5 2 2 100.0 1 1 2 5 3 0 4 4 12
+p95
+aVZydrunas Ilgauskas CLE 04/27/2008 CLE @ WAS W 29 9 4 8 50.0 0 0 - 1 2 50.0 2 5 7 1 1 0 2 4 -2
+p96
+aVDevin Brown CLE 04/27/2008 CLE @ WAS W 15 9 2 8 25.0 1 3 33.3 4 6 66.7 2 1 3 0 0 0 2 0 -9
+p97
+aVBilly Thomas CLE 04/27/2008 CLE @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p98
+aVAnderson Varejao CLE 04/27/2008 CLE @ WAS W 13 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 0 2 1 -10
+p99
+aVDaniel Gibson CLE 04/24/2008 CLE @ WAS L 25 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 1 1 0 4 1 -13
+p100
+aVWally Szczerbiak CLE 04/24/2008 CLE @ WAS L 27 6 3 9 33.3 0 0 - 0 0 - 0 2 2 3 0 0 0 0 -27
+p101
+aVDelonte West CLE 04/24/2008 CLE @ WAS L 25 5 1 3 33.3 0 1 0.0 3 4 75.0 1 0 1 2 0 0 4 3 -23
+p102
+aVAnderson Varejao CLE 04/24/2008 CLE @ WAS L 23 3 1 2 50.0 0 0 - 1 4 25.0 2 7 9 3 1 0 2 4 -7
+p103
+aVJoe Smith CLE 04/24/2008 CLE @ WAS L 17 8 4 8 50.0 0 0 - 0 0 - 4 0 4 0 0 0 1 6 -19
+p104
+aVLeBron James CLE 04/24/2008 CLE @ WAS L 36 22 10 19 52.6 0 4 0.0 2 4 50.0 0 7 7 3 1 1 4 3 -24
+p105
+aVZydrunas Ilgauskas CLE 04/24/2008 CLE @ WAS L 30 9 4 10 40.0 0 0 - 1 2 50.0 1 3 4 1 0 0 3 4 -22
+p106
+aVBilly Thomas CLE 04/24/2008 CLE @ WAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 0
+p107
+aVDamon Jones CLE 04/24/2008 CLE @ WAS L 6 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 1 1 -6
+p108
+aVDwayne Jones CLE 04/24/2008 CLE @ WAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p109
+aVDevin Brown CLE 04/24/2008 CLE @ WAS L 24 10 2 8 25.0 2 4 50.0 4 7 57.1 5 3 8 2 0 0 3 5 -17
+p110
+aVBen Wallace CLE 04/24/2008 CLE @ WAS L 16 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 1 0 2 1 3 -14
+p111
+aVDamon Jones CLE 04/21/2008 CLE vs. WAS W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p112
+aVAnderson Varejao CLE 04/21/2008 CLE vs. WAS W 21 7 3 6 50.0 0 0 - 1 1 100.0 3 5 8 0 1 0 0 2 22
+p113
+aVBen Wallace CLE 04/21/2008 CLE vs. WAS W 18 8 3 5 60.0 0 0 - 2 4 50.0 2 5 7 2 0 1 1 3 2
+p114
+aVLeBron James CLE 04/21/2008 CLE vs. WAS W 39 30 9 19 47.4 2 6 33.3 10 17 58.8 1 8 9 12 1 2 1 2 34
+p115
+aVWally Szczerbiak CLE 04/21/2008 CLE vs. WAS W 30 15 6 9 66.7 2 5 40.0 1 1 100.0 1 1 2 1 0 0 1 4 24
+p116
+aVDaniel Gibson CLE 04/21/2008 CLE vs. WAS W 29 13 4 8 50.0 2 2 100.0 3 3 100.0 1 2 3 3 0 1 1 0 23
+p117
+aVDwayne Jones CLE 04/21/2008 CLE vs. WAS W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 2
+p118
+aVDevin Brown CLE 04/21/2008 CLE vs. WAS W 15 7 2 5 40.0 1 3 33.3 2 2 100.0 1 4 5 4 2 0 2 2 2
+p119
+aVJoe Smith CLE 04/21/2008 CLE vs. WAS W 27 9 4 9 44.4 0 0 - 1 2 50.0 2 2 4 0 1 1 0 4 17
+p120
+aVDelonte West CLE 04/21/2008 CLE vs. WAS W 23 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 3 1 0 0 4 5
+p121
+aVBilly Thomas CLE 04/21/2008 CLE vs. WAS W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 4
+p122
+aVZydrunas Ilgauskas CLE 04/21/2008 CLE vs. WAS W 24 16 7 11 63.6 0 0 - 2 3 66.7 3 6 9 1 0 1 3 1 13
+p123
+aVZydrunas Ilgauskas CLE 04/19/2008 CLE vs. WAS W 37 22 7 17 41.2 0 0 - 8 8 100.0 4 7 11 4 0 0 0 3 22
+p124
+aVJoe Smith CLE 04/19/2008 CLE vs. WAS W 9 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 1 1 1 0
+p125
+aVAnderson Varejao CLE 04/19/2008 CLE vs. WAS W 27 2 1 6 16.7 0 0 - 0 0 - 2 6 8 2 1 0 2 1 -12
+p126
+aVLeBron James CLE 04/19/2008 CLE vs. WAS W 41 32 12 19 63.2 0 2 0.0 8 14 57.1 0 6 6 4 1 2 1 1 9
+p127
+aVDaniel Gibson CLE 04/19/2008 CLE vs. WAS W 28 11 4 9 44.4 2 5 40.0 1 2 50.0 0 0 0 5 1 0 2 1 0
+p128
+aVDelonte West CLE 04/19/2008 CLE vs. WAS W 35 16 3 10 30.0 2 4 50.0 8 8 100.0 0 5 5 5 2 2 1 4 12
+p129
+aVDevin Brown CLE 04/19/2008 CLE vs. WAS W 10 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -12
+p130
+aVWally Szczerbiak CLE 04/19/2008 CLE vs. WAS W 29 8 2 10 20.0 1 6 16.7 3 3 100.0 0 2 2 2 0 0 0 3 12
+p131
+aVBen Wallace CLE 04/19/2008 CLE vs. WAS W 23 0 0 0 - 0 0 - 0 2 0.0 1 5 6 1 1 0 0 1 4
+p132
+a.

@@ -1,0 +1,1808 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTony Massenburg LAC 04/23/1995 LAC vs. DAL W 30 11 4 12 33.3 0 0 - 3 4 75.0 4 4 8 1 1 1 0 4 -
+p2
+aVLAC 04/23/1995 LAC vs. DAL W 43 26 13 22 59.1 0 1 0.0 0 0 - 3 18 21 4 2 0 2 1 -
+p3
+aVGary Grant LAC 04/23/1995 LAC vs. DAL W 29 16 6 8 75.0 0 0 - 4 4 100.0 0 2 2 9 1 1 1 4 -
+p4
+aVBo Outlaw LAC 04/23/1995 LAC vs. DAL W 18 9 4 7 57.1 0 0 - 1 6 16.7 1 2 3 1 1 2 1 2 -
+p5
+aVLamond Murray LAC 04/23/1995 LAC vs. DAL W 32 17 7 20 35.0 0 0 - 3 3 100.0 5 8 13 1 2 4 0 1 -
+p6
+aVPooh Richardson LAC 04/23/1995 LAC vs. DAL W 32 15 6 8 75.0 3 4 75.0 0 0 - 0 5 5 10 1 0 6 3 -
+p7
+aVTerry Dehere LAC 04/23/1995 LAC vs. DAL W 24 15 6 10 60.0 2 2 100.0 1 1 100.0 0 0 0 3 0 0 4 1 -
+p8
+aVHarold Ellis LAC 04/23/1995 LAC vs. DAL W 4 1 0 2 0.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 2 0 -
+p9
+aVEric Riley LAC 04/23/1995 LAC vs. DAL W 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -
+p10
+aVEric Piatkowski LAC 04/23/1995 LAC vs. DAL W 24 14 6 7 85.7 2 3 66.7 0 0 - 1 4 5 2 0 0 3 1 -
+p11
+aVPooh Richardson LAC 04/21/1995 LAC @ SAN L 32 6 2 7 28.6 1 4 25.0 1 1 100.0 1 0 1 9 2 0 1 2 -
+p12
+aVTerry Dehere LAC 04/21/1995 LAC @ SAN L 40 20 6 13 46.2 0 2 0.0 8 8 100.0 1 2 3 7 3 0 1 4 -
+p13
+aVEric Piatkowski LAC 04/21/1995 LAC @ SAN L 22 11 4 10 40.0 2 4 50.0 1 1 100.0 0 1 1 0 1 0 1 4 -
+p14
+aVMichael Smith LAC 04/21/1995 LAC @ SAN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p15
+aVEric Riley LAC 04/21/1995 LAC @ SAN L 10 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 0 1 0 1 1 -
+p16
+aVHarold Ellis LAC 04/21/1995 LAC @ SAN L 5 3 1 4 25.0 0 1 0.0 1 2 50.0 1 0 1 0 1 0 1 0 -
+p17
+aVTony Massenburg LAC 04/21/1995 LAC @ SAN L 34 11 4 12 33.3 0 1 0.0 3 4 75.0 3 4 7 1 0 0 2 4 -
+p18
+aVLamond Murray LAC 04/21/1995 LAC @ SAN L 25 21 7 12 58.3 0 0 - 7 7 100.0 2 3 5 0 1 1 0 1 -
+p19
+aVGary Grant LAC 04/21/1995 LAC @ SAN L 19 2 1 7 14.3 0 0 - 0 0 - 0 2 2 4 1 0 2 1 -
+p20
+aVBo Outlaw LAC 04/21/1995 LAC @ SAN L 13 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 2 1 5 -
+p21
+aVLAC 04/21/1995 LAC @ SAN L 38 14 6 13 46.2 0 0 - 2 2 100.0 1 5 6 0 2 0 2 4 -
+p22
+aVTony Massenburg LAC 04/18/1995 LAC @ DAL L 17 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 0 0 0 2 3 -
+p23
+aVMichael Smith LAC 04/18/1995 LAC @ DAL L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p24
+aVPooh Richardson LAC 04/18/1995 LAC @ DAL L 20 6 2 4 50.0 1 1 100.0 1 1 100.0 0 1 1 7 1 0 0 1 -
+p25
+aVGary Grant LAC 04/18/1995 LAC @ DAL L 28 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 7 0 0 3 4 -
+p26
+aVLamond Murray LAC 04/18/1995 LAC @ DAL L 22 7 2 9 22.2 1 3 33.3 2 4 50.0 1 1 2 3 0 1 0 2 -
+p27
+aVRandy Woods LAC 04/18/1995 LAC @ DAL L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p28
+aVEric Piatkowski LAC 04/18/1995 LAC @ DAL L 26 13 5 12 41.7 1 4 25.0 2 2 100.0 1 2 3 0 0 0 0 3 -
+p29
+aVHarold Ellis LAC 04/18/1995 LAC @ DAL L 17 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 2 1 0 1 1 -
+p30
+aVLAC 04/18/1995 LAC @ DAL L 38 28 13 20 65.0 0 0 - 2 3 66.7 6 11 17 0 2 0 3 3 -
+p31
+aVBo Outlaw LAC 04/18/1995 LAC @ DAL L 30 9 4 7 57.1 0 0 - 1 3 33.3 3 3 6 1 4 1 2 2 -
+p32
+aVTerry Dehere LAC 04/18/1995 LAC @ DAL L 31 7 1 9 11.1 1 4 25.0 4 6 66.7 1 0 1 2 0 1 5 5 -
+p33
+aVTerry Dehere LAC 04/17/1995 LAC @ HOU L 38 23 7 14 50.0 0 2 0.0 9 10 90.0 0 3 3 10 1 0 1 3 -
+p34
+aVEric Piatkowski LAC 04/17/1995 LAC @ HOU L 32 19 8 13 61.5 3 6 50.0 0 0 - 0 0 0 5 0 1 0 4 -
+p35
+aVLAC 04/17/1995 LAC @ HOU L 40 16 7 13 53.8 0 1 0.0 2 2 100.0 3 9 12 2 1 0 3 0 -
+p36
+aVBo Outlaw LAC 04/17/1995 LAC @ HOU L 25 8 4 4 100.0 0 0 - 0 0 - 2 4 6 2 3 1 1 1 -
+p37
+aVHarold Ellis LAC 04/17/1995 LAC @ HOU L 17 5 2 4 50.0 0 0 - 1 4 25.0 1 0 1 0 0 0 1 3 -
+p38
+aVGary Grant LAC 04/17/1995 LAC @ HOU L 12 12 6 9 66.7 0 0 - 0 0 - 0 1 1 2 1 0 0 2 -
+p39
+aVMichael Smith LAC 04/17/1995 LAC @ HOU L 12 10 3 3 100.0 0 0 - 4 4 100.0 0 2 2 1 0 0 1 3 -
+p40
+aVEric Riley LAC 04/17/1995 LAC @ HOU L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 1 0 3 1 -
+p41
+aVTony Massenburg LAC 04/17/1995 LAC @ HOU L 20 2 1 5 20.0 0 0 - 0 0 - 1 3 4 3 1 0 3 3 -
+p42
+aVRandy Woods LAC 04/17/1995 LAC @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p43
+aVPooh Richardson LAC 04/17/1995 LAC @ HOU L 38 14 5 13 38.5 1 2 50.0 3 3 100.0 0 1 1 7 2 0 3 2 -
+p44
+aVBo Outlaw LAC 04/15/1995 LAC @ UTH L 19 8 3 6 50.0 0 0 - 2 6 33.3 0 2 2 3 0 3 1 2 -
+p45
+aVTerry Dehere LAC 04/15/1995 LAC @ UTH L 30 13 5 15 33.3 1 1 100.0 2 3 66.7 2 3 5 7 1 1 2 3 -
+p46
+aVRandy Woods LAC 04/15/1995 LAC @ UTH L 13 9 3 5 60.0 3 5 60.0 0 0 - 0 0 0 3 0 0 1 2 -
+p47
+aVMichael Smith LAC 04/15/1995 LAC @ UTH L 11 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -
+p48
+aVLAC 04/15/1995 LAC @ UTH L 35 12 4 13 30.8 0 0 - 4 5 80.0 5 8 13 1 0 0 3 3 -
+p49
+aVHarold Ellis LAC 04/15/1995 LAC @ UTH L 9 8 4 8 50.0 0 0 - 0 1 0.0 5 3 8 0 0 0 0 3 -
+p50
+aVLamond Murray LAC 04/15/1995 LAC @ UTH L 24 10 3 11 27.3 1 3 33.3 3 4 75.0 2 2 4 2 0 0 5 4 -
+p51
+aVEric Riley LAC 04/15/1995 LAC @ UTH L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 4 -
+p52
+aVTony Massenburg LAC 04/15/1995 LAC @ UTH L 25 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -
+p53
+aVGary Grant LAC 04/15/1995 LAC @ UTH L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p54
+aVEric Piatkowski LAC 04/15/1995 LAC @ UTH L 31 13 5 12 41.7 3 5 60.0 0 0 - 0 1 1 1 2 0 2 1 -
+p55
+aVPooh Richardson LAC 04/15/1995 LAC @ UTH L 26 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 1 -
+p56
+aVEric Riley LAC 04/13/1995 LAC vs. DEN L 19 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 0 2 1 3 -
+p57
+aVEric Piatkowski LAC 04/13/1995 LAC vs. DEN L 20 11 4 8 50.0 3 5 60.0 0 0 - 1 1 2 1 0 0 3 3 -
+p58
+aVLamond Murray LAC 04/13/1995 LAC vs. DEN L 30 12 4 11 36.4 1 3 33.3 3 3 100.0 1 0 1 1 2 0 1 1 -
+p59
+aVTony Massenburg LAC 04/13/1995 LAC vs. DEN L 27 11 5 8 62.5 0 0 - 1 1 100.0 2 0 2 0 0 1 1 5 -
+p60
+aVRandy Woods LAC 04/13/1995 LAC vs. DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p61
+aVMichael Smith LAC 04/13/1995 LAC vs. DEN L 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -
+p62
+aVBo Outlaw LAC 04/13/1995 LAC vs. DEN L 18 5 2 5 40.0 0 0 - 1 2 50.0 2 5 7 3 1 1 2 3 -
+p63
+aVPooh Richardson LAC 04/13/1995 LAC vs. DEN L 27 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 8 1 0 4 0 -
+p64
+aVGary Grant LAC 04/13/1995 LAC vs. DEN L 25 19 7 10 70.0 0 0 - 5 6 83.3 1 1 2 4 1 0 2 3 -
+p65
+aVTerry Dehere LAC 04/13/1995 LAC vs. DEN L 29 25 7 14 50.0 3 7 42.9 8 10 80.0 0 4 4 2 1 0 3 2 -
+p66
+aVHarold Ellis LAC 04/13/1995 LAC vs. DEN L 10 0 0 4 0.0 0 0 - 0 0 - 2 0 2 2 1 0 0 1 -
+p67
+aVLAC 04/13/1995 LAC vs. DEN L 29 12 6 12 50.0 0 0 - 0 2 0.0 3 7 10 2 3 0 1 4 -
+p68
+aVRandy Woods LAC 04/11/1995 LAC vs. SAC L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 2 -
+p69
+aVMichael Smith LAC 04/11/1995 LAC vs. SAC L 20 7 2 6 33.3 0 1 0.0 3 4 75.0 2 3 5 0 2 0 2 1 -
+p70
+aVTerry Dehere LAC 04/11/1995 LAC vs. SAC L 18 14 4 6 66.7 1 2 50.0 5 5 100.0 1 1 2 1 1 0 2 3 -
+p71
+aVPooh Richardson LAC 04/11/1995 LAC vs. SAC L 36 9 4 12 33.3 0 3 0.0 1 2 50.0 0 1 1 6 5 0 4 0 -
+p72
+aVBo Outlaw LAC 04/11/1995 LAC vs. SAC L 29 11 4 6 66.7 0 0 - 3 6 50.0 2 1 3 1 0 2 1 2 -
+p73
+aVLamond Murray LAC 04/11/1995 LAC vs. SAC L 25 12 5 14 35.7 2 4 50.0 0 0 - 0 1 1 3 1 0 1 0 -
+p74
+aVGary Grant LAC 04/11/1995 LAC vs. SAC L 9 1 0 3 0.0 0 0 - 1 1 100.0 0 1 1 1 1 0 1 2 -
+p75
+aVEric Piatkowski LAC 04/11/1995 LAC vs. SAC L 26 14 4 8 50.0 2 5 40.0 4 6 66.7 2 1 3 1 2 0 0 2 -
+p76
+aVEric Riley LAC 04/11/1995 LAC vs. SAC L 29 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 0 2 3 0 5 -
+p77
+aVTony Massenburg LAC 04/11/1995 LAC vs. SAC L 31 10 3 10 30.0 0 0 - 4 4 100.0 0 5 5 0 0 0 3 3 -
+p78
+aVHarold Ellis LAC 04/11/1995 LAC vs. SAC L 11 2 0 3 0.0 0 1 0.0 2 4 50.0 0 0 0 1 1 0 0 4 -
+p79
+aVLamond Murray LAC 04/08/1995 LAC @ SAC W 51 19 7 20 35.0 2 4 50.0 3 3 100.0 3 5 8 6 1 2 3 3 -
+p80
+aVEric Piatkowski LAC 04/08/1995 LAC @ SAC W 28 10 3 5 60.0 2 4 50.0 2 2 100.0 0 3 3 6 2 0 2 2 -
+p81
+aVTerry Dehere LAC 04/08/1995 LAC @ SAC W 28 10 4 7 57.1 0 1 0.0 2 4 50.0 0 2 2 4 0 0 2 1 -
+p82
+aVGary Grant LAC 04/08/1995 LAC @ SAC W 13 12 4 6 66.7 0 0 - 4 4 100.0 0 1 1 1 0 0 1 1 -
+p83
+aVTony Massenburg LAC 04/08/1995 LAC @ SAC W 47 26 9 12 75.0 0 0 - 8 14 57.1 5 4 9 2 1 0 1 5 -
+p84
+aVPooh Richardson LAC 04/08/1995 LAC @ SAC W 39 18 7 12 58.3 1 1 100.0 3 4 75.0 0 7 7 5 2 0 4 4 -
+p85
+aVBo Outlaw LAC 04/08/1995 LAC @ SAC W 31 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 0 1 3 0 6 -
+p86
+aVMichael Smith LAC 04/08/1995 LAC @ SAC W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p87
+aVEric Riley LAC 04/08/1995 LAC @ SAC W 22 11 4 6 66.7 0 0 - 3 4 75.0 2 8 10 0 0 2 1 3 -
+p88
+aVTony Massenburg LAC 04/04/1995 LAC vs. SAN L 26 12 6 8 75.0 0 0 - 0 0 - 1 2 3 1 3 0 0 3 -
+p89
+aVLamond Murray LAC 04/04/1995 LAC vs. SAN L 31 16 7 12 58.3 1 3 33.3 1 2 50.0 3 4 7 1 2 0 5 5 -
+p90
+aVGary Grant LAC 04/04/1995 LAC vs. SAN L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -
+p91
+aVPooh Richardson LAC 04/04/1995 LAC vs. SAN L 37 2 1 10 10.0 0 1 0.0 0 2 0.0 0 3 3 6 0 1 0 2 -
+p92
+aVEric Riley LAC 04/04/1995 LAC vs. SAN L 7 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 -
+p93
+aVRandy Woods LAC 04/04/1995 LAC vs. SAN L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 2 0 0 0 -
+p94
+aVEric Piatkowski LAC 04/04/1995 LAC vs. SAN L 38 17 8 14 57.1 1 5 20.0 0 1 0.0 0 2 2 2 1 0 1 2 -
+p95
+aVLAC 04/04/1995 LAC vs. SAN L 34 14 7 22 31.8 0 0 - 0 0 - 4 9 13 2 1 0 2 2 -
+p96
+aVTerry Dehere LAC 04/04/1995 LAC vs. SAN L 24 8 2 5 40.0 0 1 0.0 4 4 100.0 0 1 1 2 0 0 2 2 -
+p97
+aVBo Outlaw LAC 04/04/1995 LAC vs. SAN L 15 0 0 1 0.0 0 0 - 0 4 0.0 2 2 4 0 1 4 1 3 -
+p98
+aVMichael Smith LAC 04/04/1995 LAC vs. SAN L 13 7 2 6 33.3 0 0 - 3 3 100.0 0 0 0 0 0 0 0 1 -
+p99
+aVHarold Ellis LAC 04/04/1995 LAC vs. SAN L 4 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -
+p100
+aVEric Piatkowski LAC 04/01/1995 LAC vs. UTH W 20 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 1 0 4 -
+p101
+aVLAC 04/01/1995 LAC vs. UTH W 46 21 9 13 69.2 0 0 - 3 5 60.0 3 13 16 3 1 0 5 2 -
+p102
+aVTerry Dehere LAC 04/01/1995 LAC vs. UTH W 25 21 7 13 53.8 0 1 0.0 7 8 87.5 0 0 0 3 0 0 1 2 -
+p103
+aVMichael Smith LAC 04/01/1995 LAC vs. UTH W 7 6 2 4 50.0 1 1 100.0 1 1 100.0 0 0 0 0 0 0 1 2 -
+p104
+aVPooh Richardson LAC 04/01/1995 LAC vs. UTH W 48 18 5 15 33.3 5 8 62.5 3 4 75.0 0 3 3 8 4 1 1 2 -
+p105
+aVLamond Murray LAC 04/01/1995 LAC vs. UTH W 48 26 10 20 50.0 0 2 0.0 6 6 100.0 5 7 12 4 2 3 3 2 -
+p106
+aVGary Grant LAC 04/01/1995 LAC vs. UTH W 3 6 1 1 100.0 0 0 - 4 4 100.0 0 1 1 0 0 0 0 1 -
+p107
+aVBo Outlaw LAC 04/01/1995 LAC vs. UTH W 15 3 1 2 50.0 0 0 - 1 4 25.0 1 1 2 0 1 0 0 6 -
+p108
+aVTony Massenburg LAC 04/01/1995 LAC vs. UTH W 28 9 3 4 75.0 0 0 - 3 4 75.0 2 5 7 0 1 0 0 5 -
+p109
+aVLAC 03/30/1995 LAC vs. HOU L 44 20 8 17 47.1 0 0 - 4 4 100.0 6 10 16 2 1 0 3 3 -
+p110
+aVBo Outlaw LAC 03/30/1995 LAC vs. HOU L 11 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 0 1 0 1 4 -
+p111
+aVPooh Richardson LAC 03/30/1995 LAC vs. HOU L 35 16 6 17 35.3 1 5 20.0 3 3 100.0 0 2 2 8 1 0 0 3 -
+p112
+aVMichael Smith LAC 03/30/1995 LAC vs. HOU L 10 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 1 0 0 2 2 -
+p113
+aVTony Massenburg LAC 03/30/1995 LAC vs. HOU L 28 9 4 7 57.1 0 0 - 1 2 50.0 2 3 5 0 0 1 0 3 -
+p114
+aVGary Grant LAC 03/30/1995 LAC vs. HOU L 16 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 5 2 0 1 5 -
+p115
+aVHarold Ellis LAC 03/30/1995 LAC vs. HOU L 25 0 0 6 0.0 0 0 - 0 0 - 3 1 4 1 2 0 1 3 -
+p116
+aVEric Riley LAC 03/30/1995 LAC vs. HOU L 7 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p117
+aVTerry Dehere LAC 03/30/1995 LAC vs. HOU L 13 6 2 5 40.0 2 2 100.0 0 0 - 0 2 2 4 0 0 1 3 -
+p118
+aVEric Piatkowski LAC 03/30/1995 LAC vs. HOU L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p119
+aVLamond Murray LAC 03/30/1995 LAC vs. HOU L 44 26 10 19 52.6 3 5 60.0 3 3 100.0 1 3 4 1 2 1 1 4 -
+p120
+aVTerry Dehere LAC 03/27/1995 LAC @ DEN L 20 8 3 7 42.9 0 1 0.0 2 3 66.7 0 0 0 3 3 0 2 2 -
+p121
+aVRandy Woods LAC 03/27/1995 LAC @ DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p122
+aVEric Riley LAC 03/27/1995 LAC @ DEN L 17 14 5 9 55.6 0 0 - 4 4 100.0 4 3 7 0 0 3 2 5 -
+p123
+aVGary Grant LAC 03/27/1995 LAC @ DEN L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -
+p124
+aVLamond Murray LAC 03/27/1995 LAC @ DEN L 38 18 6 13 46.2 0 1 0.0 6 10 60.0 0 4 4 3 1 0 4 1 -
+p125
+aVBo Outlaw LAC 03/27/1995 LAC @ DEN L 14 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 1 0 2 0 2 -
+p126
+aVPooh Richardson LAC 03/27/1995 LAC @ DEN L 28 11 5 9 55.6 1 1 100.0 0 0 - 0 3 3 2 0 0 4 3 -
+p127
+aVTony Massenburg LAC 03/27/1995 LAC @ DEN L 17 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 2 0 3 4 -
+p128
+aVLAC 03/27/1995 LAC @ DEN L 36 14 5 12 41.7 0 0 - 4 5 80.0 3 2 5 2 0 0 0 3 -
+p129
+aVMichael Smith LAC 03/27/1995 LAC @ DEN L 13 8 4 5 80.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p130
+aVHarold Ellis LAC 03/27/1995 LAC @ DEN L 25 6 1 3 33.3 0 0 - 4 4 100.0 1 0 1 1 2 2 1 3 -
+p131
+aVEric Piatkowski LAC 03/27/1995 LAC @ DEN L 22 18 6 10 60.0 2 4 50.0 4 6 66.7 2 3 5 0 1 1 1 4 -
+p132
+aVBo Outlaw LAC 03/25/1995 LAC vs. NYK L 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 1 0 0 1 -
+p133
+aVLAC 03/25/1995 LAC vs. NYK L 43 18 7 13 53.8 0 1 0.0 4 5 80.0 2 3 5 3 1 0 3 5 -
+p134
+aVEric Riley LAC 03/25/1995 LAC vs. NYK L 13 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 1 4 -
+p135
+aVTony Massenburg LAC 03/25/1995 LAC vs. NYK L 31 8 3 8 37.5 0 0 - 2 4 50.0 1 5 6 2 0 1 3 2 -
+p136
+aVMichael Smith LAC 03/25/1995 LAC vs. NYK L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -
+p137
+aVLamond Murray LAC 03/25/1995 LAC vs. NYK L 44 26 11 23 47.8 0 4 0.0 4 5 80.0 2 3 5 0 2 2 6 5 -
+p138
+aVHarold Ellis LAC 03/25/1995 LAC vs. NYK L 37 17 8 10 80.0 0 1 0.0 1 1 100.0 4 2 6 3 5 1 2 2 -
+p139
+aVGary Grant LAC 03/25/1995 LAC vs. NYK L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p140
+aVEric Piatkowski LAC 03/25/1995 LAC vs. NYK L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p141
+aVPooh Richardson LAC 03/25/1995 LAC vs. NYK L 48 11 4 11 36.4 1 4 25.0 2 2 100.0 0 10 10 11 3 1 3 3 -
+p142
+aVTerry Dehere LAC 03/25/1995 LAC vs. NYK L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -
+p143
+aVEric Piatkowski LAC 03/23/1995 LAC @ MIL L 13 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 0 0 1 1 0 -
+p144
+aVLAC 03/23/1995 LAC @ MIL L 36 19 8 14 57.1 0 1 0.0 3 4 75.0 0 2 2 3 0 0 2 3 -
+p145
+aVPooh Richardson LAC 03/23/1995 LAC @ MIL L 24 4 2 10 20.0 0 2 0.0 0 0 - 0 2 2 6 1 0 1 4 -
+p146
+aVHarold Ellis LAC 03/23/1995 LAC @ MIL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p147
+aVMichael Smith LAC 03/23/1995 LAC @ MIL L 16 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -
+p148
+aVEric Riley LAC 03/23/1995 LAC @ MIL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p149
+aVBo Outlaw LAC 03/23/1995 LAC @ MIL L 31 7 3 5 60.0 0 1 0.0 1 2 50.0 1 5 6 4 0 1 0 4 -
+p150
+aVGary Grant LAC 03/23/1995 LAC @ MIL L 33 9 4 9 44.4 0 0 - 1 2 50.0 1 3 4 11 3 0 4 1 -
+p151
+aVTerry Dehere LAC 03/23/1995 LAC @ MIL L 24 16 6 9 66.7 1 2 50.0 3 3 100.0 0 2 2 0 0 0 1 3 -
+p152
+aVLamond Murray LAC 03/23/1995 LAC @ MIL L 19 8 3 8 37.5 0 1 0.0 2 2 100.0 0 2 2 0 0 0 3 0 -
+p153
+aVTony Massenburg LAC 03/23/1995 LAC @ MIL L 36 16 5 7 71.4 0 0 - 6 6 100.0 3 7 10 1 2 2 1 4 -
+p154
+aVHarold Ellis LAC 03/22/1995 LAC @ IND L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 3 -
+p155
+aVBo Outlaw LAC 03/22/1995 LAC @ IND L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p156
+aVLamond Murray LAC 03/22/1995 LAC @ IND L 42 19 6 15 40.0 2 2 100.0 5 6 83.3 4 2 6 7 0 0 2 1 -
+p157
+aVMichael Smith LAC 03/22/1995 LAC @ IND L 4 3 0 1 0.0 0 1 0.0 3 3 100.0 0 2 2 0 0 0 0 0 -
+p158
+aVLAC 03/22/1995 LAC @ IND L 37 22 10 14 71.4 0 0 - 2 3 66.7 4 6 10 1 2 0 2 2 -
+p159
+aVEric Piatkowski LAC 03/22/1995 LAC @ IND L 20 5 2 8 25.0 1 3 33.3 0 0 - 1 0 1 2 0 0 1 2 -
+p160
+aVTerry Dehere LAC 03/22/1995 LAC @ IND L 19 5 1 7 14.3 0 2 0.0 3 3 100.0 1 0 1 2 1 0 4 3 -
+p161
+aVEric Riley LAC 03/22/1995 LAC @ IND L 22 7 2 6 33.3 0 0 - 3 4 75.0 7 3 10 1 0 2 0 6 -
+p162
+aVPooh Richardson LAC 03/22/1995 LAC @ IND L 43 24 9 16 56.3 4 6 66.7 2 2 100.0 2 1 3 7 2 0 4 4 -
+p163
+aVTony Massenburg LAC 03/22/1995 LAC @ IND L 36 12 3 9 33.3 0 0 - 6 6 100.0 1 3 4 2 2 0 2 4 -
+p164
+aVEric Piatkowski LAC 03/20/1995 LAC @ ATL L 19 15 5 7 71.4 2 4 50.0 3 4 75.0 0 0 0 0 1 1 4 4 -
+p165
+aVMichael Smith LAC 03/20/1995 LAC @ ATL L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 2 2 -
+p166
+aVLamond Murray LAC 03/20/1995 LAC @ ATL L 45 18 6 12 50.0 1 2 50.0 5 6 83.3 0 2 2 1 2 0 1 0 -
+p167
+aVTony Massenburg LAC 03/20/1995 LAC @ ATL L 36 11 5 8 62.5 0 0 - 1 2 50.0 3 5 8 1 0 0 2 5 -
+p168
+aVBo Outlaw LAC 03/20/1995 LAC @ ATL L 11 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 1 0 4 -
+p169
+aVLAC 03/20/1995 LAC @ ATL L 40 20 9 18 50.0 0 2 0.0 2 3 66.7 1 6 7 2 1 0 4 3 -
+p170
+aVPooh Richardson LAC 03/20/1995 LAC @ ATL L 39 18 8 15 53.3 1 2 50.0 1 1 100.0 2 5 7 13 0 0 1 3 -
+p171
+aVTerry Dehere LAC 03/20/1995 LAC @ ATL L 18 10 4 8 50.0 1 4 25.0 1 2 50.0 0 3 3 2 1 0 2 5 -
+p172
+aVHarold Ellis LAC 03/20/1995 LAC @ ATL L 21 7 3 5 60.0 0 0 - 1 2 50.0 3 0 3 0 3 0 0 4 -
+p173
+aVEric Piatkowski LAC 03/19/1995 LAC @ MIN L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -
+p174
+aVHarold Ellis LAC 03/19/1995 LAC @ MIN L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p175
+aVBo Outlaw LAC 03/19/1995 LAC @ MIN L 17 7 3 4 75.0 0 0 - 1 3 33.3 2 2 4 0 0 3 2 3 -
+p176
+aVRandy Woods LAC 03/19/1995 LAC @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p177
+aVMalik Sealy LAC 03/19/1995 LAC @ MIN L 12 9 4 9 44.4 0 0 - 1 1 100.0 1 0 1 1 0 1 1 1 -
+p178
+aVTerry Dehere LAC 03/19/1995 LAC @ MIN L 30 12 4 8 50.0 1 2 50.0 3 3 100.0 0 0 0 5 0 0 2 3 -
+p179
+aVLamond Murray LAC 03/19/1995 LAC @ MIN L 42 17 6 14 42.9 0 0 - 5 9 55.6 1 8 9 3 0 0 2 2 -
+p180
+aVPooh Richardson LAC 03/19/1995 LAC @ MIN L 45 8 4 9 44.4 0 3 0.0 0 0 - 1 2 3 8 1 0 3 3 -
+p181
+aVLAC 03/19/1995 LAC @ MIN L 44 21 9 18 50.0 0 1 0.0 3 7 42.9 1 11 12 4 0 1 0 4 -
+p182
+aVMichael Smith LAC 03/19/1995 LAC @ MIN L 4 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p183
+aVTony Massenburg LAC 03/19/1995 LAC @ MIN L 31 15 5 10 50.0 0 0 - 5 6 83.3 3 6 9 2 1 2 0 3 -
+p184
+aVTerry Dehere LAC 03/17/1995 LAC vs. MIA L 25 11 5 13 38.5 0 1 0.0 1 2 50.0 0 3 3 7 0 0 2 4 -
+p185
+aVLamond Murray LAC 03/17/1995 LAC vs. MIA L 21 8 3 7 42.9 0 2 0.0 2 2 100.0 2 1 3 1 0 1 2 1 -
+p186
+aVMalik Sealy LAC 03/17/1995 LAC vs. MIA L 20 9 3 7 42.9 0 0 - 3 4 75.0 3 2 5 2 0 0 1 2 -
+p187
+aVHarold Ellis LAC 03/17/1995 LAC vs. MIA L 11 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 2 0 0 2 -
+p188
+aVMichael Smith LAC 03/17/1995 LAC vs. MIA L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -
+p189
+aVLAC 03/17/1995 LAC vs. MIA L 39 22 9 21 42.9 0 0 - 4 6 66.7 5 2 7 2 0 1 2 0 -
+p190
+aVBo Outlaw LAC 03/17/1995 LAC vs. MIA L 27 10 4 5 80.0 0 0 - 2 4 50.0 4 2 6 1 0 0 2 4 -
+p191
+aVRandy Woods LAC 03/17/1995 LAC vs. MIA L 4 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 3 -
+p192
+aVEric Piatkowski LAC 03/17/1995 LAC vs. MIA L 15 6 3 8 37.5 0 3 0.0 0 0 - 1 0 1 1 1 0 1 1 -
+p193
+aVPooh Richardson LAC 03/17/1995 LAC vs. MIA L 34 18 6 16 37.5 4 6 66.7 2 4 50.0 2 5 7 4 3 0 3 5 -
+p194
+aVTony Massenburg LAC 03/17/1995 LAC vs. MIA L 20 2 1 5 20.0 0 0 - 0 0 - 1 5 6 2 1 1 0 3 -
+p195
+aVEric Riley LAC 03/17/1995 LAC vs. MIA L 12 6 2 2 100.0 0 0 - 2 2 100.0 2 0 2 0 0 0 2 3 -
+p196
+aVHarold Ellis LAC 03/15/1995 LAC vs. DET W 28 12 3 4 75.0 0 0 - 6 8 75.0 1 0 1 2 1 0 0 5 -
+p197
+aVLAC 03/15/1995 LAC vs. DET W 39 21 10 18 55.6 0 1 0.0 1 1 100.0 8 6 14 3 2 0 0 1 -
+p198
+aVPooh Richardson LAC 03/15/1995 LAC vs. DET W 31 11 3 10 30.0 2 2 100.0 3 4 75.0 1 3 4 6 0 1 1 2 -
+p199
+aVMalik Sealy LAC 03/15/1995 LAC vs. DET W 33 25 9 19 47.4 1 2 50.0 6 8 75.0 1 2 3 2 3 2 1 3 -
+p200
+aVMichael Smith LAC 03/15/1995 LAC vs. DET W 9 0 0 7 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p201
+aVEric Piatkowski LAC 03/15/1995 LAC vs. DET W 10 10 3 7 42.9 1 2 50.0 3 3 100.0 1 1 2 0 0 0 1 1 -
+p202
+aVBo Outlaw LAC 03/15/1995 LAC vs. DET W 15 6 2 2 100.0 0 0 - 2 2 100.0 2 2 4 2 1 2 0 1 -
+p203
+aVTerry Dehere LAC 03/15/1995 LAC vs. DET W 21 11 4 7 57.1 1 1 100.0 2 2 100.0 1 3 4 8 1 0 2 2 -
+p204
+aVRandy Woods LAC 03/15/1995 LAC vs. DET W 2 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 0 -
+p205
+aVEric Riley LAC 03/15/1995 LAC vs. DET W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p206
+aVLamond Murray LAC 03/15/1995 LAC vs. DET W 16 6 2 9 22.2 0 1 0.0 2 3 66.7 1 3 4 2 2 0 1 6 -
+p207
+aVTony Massenburg LAC 03/15/1995 LAC vs. DET W 32 13 5 9 55.6 0 0 - 3 3 100.0 3 6 9 2 1 1 1 3 -
+p208
+aVTerry Dehere LAC 03/12/1995 LAC vs. SAC L 29 14 6 11 54.5 0 0 - 2 2 100.0 0 3 3 6 0 0 1 2 -
+p209
+aVLAC 03/12/1995 LAC vs. SAC L 36 20 9 18 50.0 1 3 33.3 1 2 50.0 3 5 8 2 1 0 1 5 -
+p210
+aVTony Massenburg LAC 03/12/1995 LAC vs. SAC L 21 8 4 9 44.4 0 0 - 0 0 - 2 3 5 0 0 1 1 1 -
+p211
+aVLamond Murray LAC 03/12/1995 LAC vs. SAC L 26 8 2 11 18.2 0 0 - 4 6 66.7 1 0 1 1 1 0 0 1 -
+p212
+aVHarold Ellis LAC 03/12/1995 LAC vs. SAC L 9 6 1 3 33.3 0 1 0.0 4 5 80.0 2 0 2 0 1 0 1 2 -
+p213
+aVMichael Smith LAC 03/12/1995 LAC vs. SAC L 18 7 3 10 30.0 0 0 - 1 1 100.0 3 3 6 2 0 0 0 1 -
+p214
+aVMalik Sealy LAC 03/12/1995 LAC vs. SAC L 16 5 2 7 28.6 0 0 - 1 2 50.0 0 0 0 0 2 0 2 3 -
+p215
+aVBo Outlaw LAC 03/12/1995 LAC vs. SAC L 13 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 2 2 2 -
+p216
+aVEric Riley LAC 03/12/1995 LAC vs. SAC L 13 3 1 3 33.3 0 0 - 1 1 100.0 1 5 6 0 2 1 1 4 -
+p217
+aVPooh Richardson LAC 03/12/1995 LAC vs. SAC L 37 9 4 9 44.4 1 2 50.0 0 0 - 2 4 6 5 2 0 0 4 -
+p218
+aVRandy Woods LAC 03/12/1995 LAC vs. SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p219
+aVEric Piatkowski LAC 03/12/1995 LAC vs. SAC L 20 13 4 6 66.7 0 1 0.0 5 6 83.3 2 1 3 2 0 0 2 4 -
+p220
+aVMichael Smith LAC 03/10/1995 LAC vs. GOS W 17 8 4 7 57.1 0 0 - 0 0 - 0 5 5 1 0 1 2 5 -
+p221
+aVBo Outlaw LAC 03/10/1995 LAC vs. GOS W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -
+p222
+aVEric Piatkowski LAC 03/10/1995 LAC vs. GOS W 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p223
+aVPooh Richardson LAC 03/10/1995 LAC vs. GOS W 41 19 6 13 46.2 5 8 62.5 2 2 100.0 1 7 8 11 1 0 1 2 -
+p224
+aVMalik Sealy LAC 03/10/1995 LAC vs. GOS W 28 9 4 9 44.4 0 0 - 1 1 100.0 1 2 3 2 1 0 1 4 -
+p225
+aVEric Riley LAC 03/10/1995 LAC vs. GOS W 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 2 1 -
+p226
+aVLamond Murray LAC 03/10/1995 LAC vs. GOS W 39 14 5 13 38.5 0 1 0.0 4 5 80.0 2 7 9 2 2 0 6 4 -
+p227
+aVHarold Ellis LAC 03/10/1995 LAC vs. GOS W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p228
+aVTerry Dehere LAC 03/10/1995 LAC vs. GOS W 22 21 7 8 87.5 1 2 50.0 6 9 66.7 0 0 0 5 2 1 6 3 -
+p229
+aVRandy Woods LAC 03/10/1995 LAC vs. GOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p230
+aVLAC 03/10/1995 LAC vs. GOS W 30 20 10 13 76.9 0 0 - 0 0 - 1 9 10 3 1 1 1 5 -
+p231
+aVTony Massenburg LAC 03/10/1995 LAC vs. GOS W 36 20 7 9 77.8 0 0 - 6 9 66.7 3 5 8 1 0 3 1 4 -
+p232
+aVEric Riley LAC 03/08/1995 LAC @ GOS L 18 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 2 3 0 2 -
+p233
+aVLAC 03/08/1995 LAC @ GOS L 34 18 7 15 46.7 0 0 - 4 4 100.0 1 3 4 1 1 1 2 2 -
+p234
+aVBo Outlaw LAC 03/08/1995 LAC @ GOS L 10 1 0 1 0.0 0 0 - 1 4 25.0 0 1 1 0 0 1 1 1 -
+p235
+aVMichael Smith LAC 03/08/1995 LAC @ GOS L 12 10 5 7 71.4 0 0 - 0 0 - 1 3 4 2 0 0 1 1 -
+p236
+aVHarold Ellis LAC 03/08/1995 LAC @ GOS L 4 9 4 4 100.0 1 1 100.0 0 0 - 1 0 1 0 1 0 1 0 -
+p237
+aVRandy Woods LAC 03/08/1995 LAC @ GOS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 0 -
+p238
+aVEric Piatkowski LAC 03/08/1995 LAC @ GOS L 28 18 6 9 66.7 3 3 100.0 3 3 100.0 2 3 5 2 0 0 1 3 -
+p239
+aVLamond Murray LAC 03/08/1995 LAC @ GOS L 31 12 5 11 45.5 1 4 25.0 1 2 50.0 1 4 5 4 2 1 3 2 -
+p240
+aVMalik Sealy LAC 03/08/1995 LAC @ GOS L 33 15 5 14 35.7 0 1 0.0 5 5 100.0 3 5 8 4 0 0 0 3 -
+p241
+aVPooh Richardson LAC 03/08/1995 LAC @ GOS L 23 2 1 4 25.0 0 2 0.0 0 2 0.0 0 2 2 5 1 0 1 2 -
+p242
+aVTerry Dehere LAC 03/08/1995 LAC @ GOS L 25 14 5 10 50.0 1 1 100.0 3 3 100.0 0 1 1 8 0 0 4 4 -
+p243
+aVTony Massenburg LAC 03/08/1995 LAC @ GOS L 20 4 1 6 16.7 0 0 - 2 2 100.0 2 2 4 0 2 0 1 3 -
+p244
+aVEric Piatkowski LAC 03/06/1995 LAC vs. MIN W 3 4 0 0 - 0 0 - 4 4 100.0 0 0 0 1 0 0 0 0 -
+p245
+aVLamond Murray LAC 03/06/1995 LAC vs. MIN W 33 9 3 12 25.0 0 0 - 3 4 75.0 2 3 5 0 1 1 3 2 -
+p246
+aVHarold Ellis LAC 03/06/1995 LAC vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p247
+aVTerry Dehere LAC 03/06/1995 LAC vs. MIN W 19 13 3 8 37.5 0 1 0.0 7 7 100.0 1 2 3 8 0 1 3 4 -
+p248
+aVMichael Smith LAC 03/06/1995 LAC vs. MIN W 15 6 3 5 60.0 0 0 - 0 0 - 0 2 2 2 1 1 1 3 -
+p249
+aVMalik Sealy LAC 03/06/1995 LAC vs. MIN W 32 13 6 14 42.9 0 1 0.0 1 2 50.0 2 5 7 2 2 2 1 4 -
+p250
+aVPooh Richardson LAC 03/06/1995 LAC vs. MIN W 39 17 7 11 63.6 3 4 75.0 0 2 0.0 0 0 0 9 2 1 2 2 -
+p251
+aVTony Massenburg LAC 03/06/1995 LAC vs. MIN W 33 19 7 12 58.3 0 0 - 5 6 83.3 3 6 9 0 1 3 1 4 -
+p252
+aVBo Outlaw LAC 03/06/1995 LAC vs. MIN W 21 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 2 4 0 4 -
+p253
+aVLAC 03/06/1995 LAC vs. MIN W 41 12 6 11 54.5 0 1 0.0 0 0 - 3 4 7 2 3 0 2 4 -
+p254
+aVEric Riley LAC 03/06/1995 LAC vs. MIN W 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -
+p255
+aVLamond Murray LAC 03/04/1995 LAC vs. DEN L 31 13 6 15 40.0 1 8 12.5 0 0 - 1 3 4 1 0 0 1 2 -
+p256
+aVEric Riley LAC 03/04/1995 LAC vs. DEN L 15 5 2 5 40.0 0 0 - 1 2 50.0 4 2 6 1 0 1 0 4 -
+p257
+aVTony Massenburg LAC 03/04/1995 LAC vs. DEN L 26 6 3 9 33.3 0 0 - 0 0 - 3 6 9 1 0 0 0 3 -
+p258
+aVLAC 03/04/1995 LAC vs. DEN L 31 17 7 12 58.3 0 0 - 3 4 75.0 4 1 5 1 2 1 4 1 -
+p259
+aVMalik Sealy LAC 03/04/1995 LAC vs. DEN L 35 12 4 10 40.0 1 2 50.0 3 4 75.0 0 3 3 0 1 2 2 2 -
+p260
+aVPooh Richardson LAC 03/04/1995 LAC vs. DEN L 27 2 1 6 16.7 0 1 0.0 0 0 - 0 5 5 10 1 0 2 2 -
+p261
+aVMichael Smith LAC 03/04/1995 LAC vs. DEN L 17 9 3 7 42.9 0 0 - 3 4 75.0 0 1 1 3 1 0 1 1 -
+p262
+aVBo Outlaw LAC 03/04/1995 LAC vs. DEN L 7 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -
+p263
+aVTerry Dehere LAC 03/04/1995 LAC vs. DEN L 24 11 3 5 60.0 0 0 - 5 6 83.3 0 1 1 6 1 0 2 3 -
+p264
+aVHarold Ellis LAC 03/04/1995 LAC vs. DEN L 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p265
+aVEric Piatkowski LAC 03/04/1995 LAC vs. DEN L 18 9 2 7 28.6 1 4 25.0 4 4 100.0 0 0 0 1 0 0 1 2 -
+p266
+aVTerry Dehere LAC 03/02/1995 LAC vs. SEA L 18 4 0 4 0.0 0 2 0.0 4 4 100.0 1 1 2 4 0 0 3 1 -
+p267
+aVTony Massenburg LAC 03/02/1995 LAC vs. SEA L 22 4 2 4 50.0 0 0 - 0 0 - 0 5 5 0 1 0 1 2 -
+p268
+aVMichael Smith LAC 03/02/1995 LAC vs. SEA L 18 15 6 8 75.0 0 0 - 3 5 60.0 1 3 4 1 0 0 0 2 -
+p269
+aVEric Piatkowski LAC 03/02/1995 LAC vs. SEA L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -
+p270
+aVHarold Ellis LAC 03/02/1995 LAC vs. SEA L 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 4 -
+p271
+aVBo Outlaw LAC 03/02/1995 LAC vs. SEA L 23 10 4 8 50.0 0 2 0.0 2 3 66.7 0 1 1 0 3 3 0 2 -
+p272
+aVLamond Murray LAC 03/02/1995 LAC vs. SEA L 30 10 4 10 40.0 1 3 33.3 1 1 100.0 0 3 3 3 1 1 2 3 -
+p273
+aVRandy Woods LAC 03/02/1995 LAC vs. SEA L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 4 0 -
+p274
+aVEric Riley LAC 03/02/1995 LAC vs. SEA L 8 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 2 0 0 1 -
+p275
+aVPooh Richardson LAC 03/02/1995 LAC vs. SEA L 28 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 3 0 0 2 1 -
+p276
+aVLAC 03/02/1995 LAC vs. SEA L 25 12 6 12 50.0 0 1 0.0 0 0 - 3 3 6 2 0 0 2 4 -
+p277
+aVMalik Sealy LAC 03/02/1995 LAC vs. SEA L 31 16 6 13 46.2 0 0 - 4 6 66.7 2 2 4 2 2 2 3 1 -
+p278
+aVMichael Smith LAC 02/28/1995 LAC vs. PHX W 16 17 8 11 72.7 0 1 0.0 1 1 100.0 2 5 7 0 0 0 1 3 -
+p279
+aVLamond Murray LAC 02/28/1995 LAC vs. PHX W 38 18 8 14 57.1 1 4 25.0 1 2 50.0 1 6 7 2 2 0 0 1 -
+p280
+aVHarold Ellis LAC 02/28/1995 LAC vs. PHX W 5 7 1 2 50.0 0 1 0.0 5 8 62.5 0 2 2 1 3 1 1 1 -
+p281
+aVTerry Dehere LAC 02/28/1995 LAC vs. PHX W 17 9 3 5 60.0 0 1 0.0 3 5 60.0 0 3 3 3 2 0 0 4 -
+p282
+aVTony Massenburg LAC 02/28/1995 LAC vs. PHX W 32 4 2 8 25.0 0 0 - 0 0 - 3 1 4 0 0 1 4 3 -
+p283
+aVEric Piatkowski LAC 02/28/1995 LAC vs. PHX W 24 14 4 8 50.0 2 2 100.0 4 4 100.0 1 0 1 2 2 0 1 0 -
+p284
+aVPooh Richardson LAC 02/28/1995 LAC vs. PHX W 32 11 4 12 33.3 1 3 33.3 2 2 100.0 1 5 6 10 2 0 2 3 -
+p285
+aVMalik Sealy LAC 02/28/1995 LAC vs. PHX W 28 17 7 13 53.8 0 0 - 3 3 100.0 2 2 4 2 1 1 0 4 -
+p286
+aVLAC 02/28/1995 LAC vs. PHX W 32 4 1 8 12.5 0 0 - 2 2 100.0 1 6 7 1 0 0 1 2 -
+p287
+aVBo Outlaw LAC 02/28/1995 LAC vs. PHX W 16 9 3 3 100.0 0 0 - 3 6 50.0 0 3 3 0 0 4 0 1 -
+p288
+aVEric Riley LAC 02/27/1995 LAC @ POR L 7 5 2 4 50.0 0 0 - 1 3 33.3 1 1 2 0 0 0 0 1 -
+p289
+aVHarold Ellis LAC 02/27/1995 LAC @ POR L 5 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 1 0 0 0 -
+p290
+aVTony Massenburg LAC 02/27/1995 LAC @ POR L 36 13 6 14 42.9 0 0 - 1 2 50.0 3 7 10 0 1 1 2 3 -
+p291
+aVMalik Sealy LAC 02/27/1995 LAC @ POR L 28 8 3 11 27.3 0 0 - 2 2 100.0 2 2 4 0 0 1 1 3 -
+p292
+aVBo Outlaw LAC 02/27/1995 LAC @ POR L 10 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 0 1 4 -
+p293
+aVPooh Richardson LAC 02/27/1995 LAC @ POR L 41 14 6 10 60.0 1 2 50.0 1 1 100.0 0 4 4 7 1 0 1 3 -
+p294
+aVLamond Murray LAC 02/27/1995 LAC @ POR L 31 10 2 9 22.2 0 1 0.0 6 6 100.0 0 5 5 2 0 1 3 4 -
+p295
+aVLAC 02/27/1995 LAC @ POR L 34 12 6 15 40.0 0 0 - 0 0 - 3 6 9 1 1 0 0 3 -
+p296
+aVMichael Smith LAC 02/27/1995 LAC @ POR L 16 6 3 7 42.9 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -
+p297
+aVTerry Dehere LAC 02/27/1995 LAC @ POR L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 2 2 -
+p298
+aVEric Piatkowski LAC 02/27/1995 LAC @ POR L 16 7 1 6 16.7 1 3 33.3 4 6 66.7 2 1 3 1 0 0 0 3 -
+p299
+aVRandy Woods LAC 02/27/1995 LAC @ POR L 5 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 2 -
+p300
+aVPooh Richardson LAC 02/25/1995 LAC vs. LAL W 48 8 3 10 30.0 0 3 0.0 2 4 50.0 0 7 7 9 2 0 2 4 -
+p301
+aVLamond Murray LAC 02/25/1995 LAC vs. LAL W 39 17 6 16 37.5 1 2 50.0 4 4 100.0 2 5 7 2 0 0 2 0 -
+p302
+aVMalik Sealy LAC 02/25/1995 LAC vs. LAL W 28 6 2 9 22.2 0 0 - 2 2 100.0 2 1 3 2 4 0 3 4 -
+p303
+aVTerry Dehere LAC 02/25/1995 LAC vs. LAL W 20 8 3 7 42.9 0 0 - 2 4 50.0 0 2 2 2 1 0 0 2 -
+p304
+aVEric Piatkowski LAC 02/25/1995 LAC vs. LAL W 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p305
+aVLAC 02/25/1995 LAC vs. LAL W 48 27 12 17 70.6 0 0 - 3 4 75.0 2 8 10 2 1 1 3 3 -
+p306
+aVBo Outlaw LAC 02/25/1995 LAC vs. LAL W 16 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 -
+p307
+aVTony Massenburg LAC 02/25/1995 LAC vs. LAL W 32 11 3 6 50.0 0 0 - 5 6 83.3 2 4 6 1 1 2 3 5 -
+p308
+aVMichael Smith LAC 02/24/1995 LAC @ PHX L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -
+p309
+aVRandy Woods LAC 02/24/1995 LAC @ PHX L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 0 -
+p310
+aVLAC 02/24/1995 LAC @ PHX L 28 14 7 13 53.8 0 1 0.0 0 1 0.0 4 7 11 1 1 1 3 3 -
+p311
+aVPooh Richardson LAC 02/24/1995 LAC @ PHX L 33 7 3 11 27.3 1 3 33.3 0 0 - 0 2 2 8 1 0 2 2 -
+p312
+aVTony Massenburg LAC 02/24/1995 LAC @ PHX L 25 7 2 6 33.3 0 0 - 3 3 100.0 3 3 6 0 0 0 0 5 -
+p313
+aVTerry Dehere LAC 02/24/1995 LAC @ PHX L 24 13 5 13 38.5 0 4 0.0 3 3 100.0 0 2 2 4 1 0 2 3 -
+p314
+aVLamond Murray LAC 02/24/1995 LAC @ PHX L 28 20 8 19 42.1 0 2 0.0 4 6 66.7 8 4 12 2 1 0 2 3 -
+p315
+aVEric Riley LAC 02/24/1995 LAC @ PHX L 17 7 3 6 50.0 0 0 - 1 2 50.0 5 3 8 1 1 1 0 2 -
+p316
+aVEric Piatkowski LAC 02/24/1995 LAC @ PHX L 18 10 4 9 44.4 2 4 50.0 0 0 - 1 1 2 1 0 0 1 3 -
+p317
+aVHarold Ellis LAC 02/24/1995 LAC @ PHX L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 2 0 0 2 0 -
+p318
+aVMalik Sealy LAC 02/24/1995 LAC @ PHX L 32 16 5 12 41.7 0 3 0.0 6 6 100.0 1 2 3 3 4 0 2 3 -
+p319
+aVBo Outlaw LAC 02/24/1995 LAC @ PHX L 14 7 2 4 50.0 0 0 - 3 7 42.9 1 1 2 1 0 2 2 3 -
+p320
+aVEric Piatkowski LAC 02/22/1995 LAC @ UTH L 35 18 6 7 85.7 4 4 100.0 2 2 100.0 0 2 2 1 1 1 2 2 -
+p321
+aVLAC 02/22/1995 LAC @ UTH L 46 21 9 17 52.9 1 2 50.0 2 2 100.0 2 6 8 3 1 1 5 3 -
+p322
+aVLamond Murray LAC 02/22/1995 LAC @ UTH L 16 10 4 9 44.4 1 2 50.0 1 1 100.0 1 1 2 0 0 0 2 3 -
+p323
+aVBo Outlaw LAC 02/22/1995 LAC @ UTH L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 2 1 1 -
+p324
+aVMalik Sealy LAC 02/22/1995 LAC @ UTH L 29 18 3 11 27.3 1 1 100.0 11 13 84.6 4 1 5 2 1 1 0 4 -
+p325
+aVPooh Richardson LAC 02/22/1995 LAC @ UTH L 43 21 9 18 50.0 0 3 0.0 3 4 75.0 0 4 4 11 1 0 0 4 -
+p326
+aVRandy Woods LAC 02/22/1995 LAC @ UTH L 3 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 1 -
+p327
+aVTerry Dehere LAC 02/22/1995 LAC @ UTH L 20 8 4 6 66.7 0 0 - 0 2 0.0 0 1 1 1 0 1 1 4 -
+p328
+aVTony Massenburg LAC 02/22/1995 LAC @ UTH L 34 6 1 3 33.3 0 0 - 4 4 100.0 0 6 6 1 1 0 2 4 -
+p329
+aVMichael Smith LAC 02/22/1995 LAC @ UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p330
+aVEric Riley LAC 02/22/1995 LAC @ UTH L 8 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 -
+p331
+aVRandy Woods LAC 02/21/1995 LAC @ DEN L 14 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 2 1 -
+p332
+aVBo Outlaw LAC 02/21/1995 LAC @ DEN L 19 4 1 2 50.0 0 0 - 2 4 50.0 0 0 0 1 0 2 2 2 -
+p333
+aVEric Piatkowski LAC 02/21/1995 LAC @ DEN L 24 14 5 11 45.5 1 2 50.0 3 4 75.0 1 1 2 4 0 0 0 4 -
+p334
+aVEric Riley LAC 02/21/1995 LAC @ DEN L 18 8 4 8 50.0 0 0 - 0 0 - 0 7 7 0 0 1 3 3 -
+p335
+aVLamond Murray LAC 02/21/1995 LAC @ DEN L 26 10 2 11 18.2 0 1 0.0 6 6 100.0 1 0 1 1 0 0 1 2 -
+p336
+aVLAC 02/21/1995 LAC @ DEN L 31 13 6 13 46.2 1 1 100.0 0 0 - 0 10 10 0 1 0 1 1 -
+p337
+aVTony Massenburg LAC 02/21/1995 LAC @ DEN L 21 11 3 5 60.0 0 0 - 5 5 100.0 3 2 5 1 0 0 4 3 -
+p338
+aVTerry Dehere LAC 02/21/1995 LAC @ DEN L 19 6 2 8 25.0 0 2 0.0 2 3 66.7 0 0 0 2 0 0 0 1 -
+p339
+aVMalik Sealy LAC 02/21/1995 LAC @ DEN L 23 7 2 6 33.3 1 1 100.0 2 2 100.0 4 0 4 1 1 0 4 3 -
+p340
+aVHarold Ellis LAC 02/21/1995 LAC @ DEN L 12 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 1 2 -
+p341
+aVMichael Smith LAC 02/21/1995 LAC @ DEN L 7 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 1 -
+p342
+aVPooh Richardson LAC 02/21/1995 LAC @ DEN L 26 0 0 6 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 4 -
+p343
+aVBo Outlaw LAC 02/18/1995 LAC @ SAC L 28 0 0 4 0.0 0 0 - 0 0 - 3 4 7 1 4 3 0 2 -
+p344
+aVTerry Dehere LAC 02/18/1995 LAC @ SAC L 29 12 4 13 30.8 1 2 50.0 3 4 75.0 0 2 2 4 0 0 1 2 -
+p345
+aVLAC 02/18/1995 LAC @ SAC L 33 11 5 13 38.5 1 1 100.0 0 0 - 1 5 6 3 1 1 2 2 -
+p346
+aVElmore Spencer LAC 02/18/1995 LAC @ SAC L 19 12 5 9 55.6 0 0 - 2 2 100.0 0 3 3 0 1 3 0 3 -
+p347
+aVRandy Woods LAC 02/18/1995 LAC @ SAC L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 2 -
+p348
+aVEric Piatkowski LAC 02/18/1995 LAC @ SAC L 28 20 7 13 53.8 3 7 42.9 3 3 100.0 2 2 4 5 0 1 1 3 -
+p349
+aVTony Massenburg LAC 02/18/1995 LAC @ SAC L 16 14 5 9 55.6 0 0 - 4 6 66.7 3 0 3 0 0 0 1 2 -
+p350
+aVLamond Murray LAC 02/18/1995 LAC @ SAC L 20 10 3 7 42.9 0 2 0.0 4 4 100.0 0 3 3 1 0 2 3 0 -
+p351
+aVPooh Richardson LAC 02/18/1995 LAC @ SAC L 27 7 3 10 30.0 1 2 50.0 0 0 - 0 1 1 5 0 0 2 0 -
+p352
+aVHarold Ellis LAC 02/18/1995 LAC @ SAC L 12 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 2 4 2 1 0 -
+p353
+aVMalik Sealy LAC 02/18/1995 LAC @ SAC L 19 6 3 8 37.5 0 0 - 0 0 - 0 3 3 0 1 0 1 4 -
+p354
+aVRandy Woods LAC 02/17/1995 LAC vs. BOS W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -
+p355
+aVPooh Richardson LAC 02/17/1995 LAC vs. BOS W 48 22 9 14 64.3 1 3 33.3 3 3 100.0 0 5 5 10 1 0 2 4 -
+p356
+aVHarold Ellis LAC 02/17/1995 LAC vs. BOS W 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 1 1 -
+p357
+aVBo Outlaw LAC 02/17/1995 LAC vs. BOS W 21 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 3 3 1 1 -
+p358
+aVLamond Murray LAC 02/17/1995 LAC vs. BOS W 48 17 8 18 44.4 1 3 33.3 0 0 - 2 2 4 3 0 3 3 6 -
+p359
+aVEric Piatkowski LAC 02/17/1995 LAC vs. BOS W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p360
+aVElmore Spencer LAC 02/17/1995 LAC vs. BOS W 37 14 6 12 50.0 0 0 - 2 2 100.0 0 7 7 3 0 4 5 4 -
+p361
+aVLAC 02/17/1995 LAC vs. BOS W 58 25 11 20 55.0 0 0 - 3 4 75.0 3 13 16 4 3 1 2 5 -
+p362
+aVMalik Sealy LAC 02/17/1995 LAC vs. BOS W 47 28 9 20 45.0 0 1 0.0 10 12 83.3 1 2 3 3 2 0 0 5 -
+p363
+aVGary Grant LAC 02/17/1995 LAC vs. BOS W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 2 -
+p364
+aVTerry Dehere LAC 02/17/1995 LAC vs. BOS W 11 10 4 6 66.7 0 2 0.0 2 3 66.7 2 1 3 0 0 0 0 1 -
+p365
+aVRandy Woods LAC 02/14/1995 LAC @ HOU L 12 5 1 4 25.0 1 3 33.3 2 2 100.0 1 0 1 11 1 0 1 2 -
+p366
+aVPooh Richardson LAC 02/14/1995 LAC @ HOU L 31 18 8 15 53.3 1 5 20.0 1 2 50.0 2 2 4 8 2 0 1 2 -
+p367
+aVGary Grant LAC 02/14/1995 LAC @ HOU L 9 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 2 1 -
+p368
+aVElmore Spencer LAC 02/14/1995 LAC @ HOU L 14 12 4 5 80.0 0 0 - 4 5 80.0 1 0 1 0 1 1 1 1 -
+p369
+aVTerry Dehere LAC 02/14/1995 LAC @ HOU L 9 0 0 5 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p370
+aVLamond Murray LAC 02/14/1995 LAC @ HOU L 40 13 3 17 17.6 1 5 20.0 6 8 75.0 3 4 7 1 0 2 3 3 -
+p371
+aVBo Outlaw LAC 02/14/1995 LAC @ HOU L 24 6 3 8 37.5 0 0 - 0 0 - 5 6 11 0 1 1 1 4 -
+p372
+aVHarold Ellis LAC 02/14/1995 LAC @ HOU L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p373
+aVTony Massenburg LAC 02/14/1995 LAC @ HOU L 12 0 0 2 0.0 0 0 - 0 0 - 3 0 3 1 1 0 0 1 -
+p374
+aVMalik Sealy LAC 02/14/1995 LAC @ HOU L 36 19 8 16 50.0 1 2 50.0 2 3 66.7 0 5 5 0 3 0 1 5 -
+p375
+aVLAC 02/14/1995 LAC @ HOU L 41 20 10 18 55.6 0 0 - 0 2 0.0 3 6 9 0 2 1 1 2 -
+p376
+aVEric Piatkowski LAC 02/14/1995 LAC @ HOU L 6 3 1 4 25.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 1 -
+p377
+aVLAC 02/09/1995 LAC vs. HOU W 45 33 14 18 77.8 0 0 - 5 6 83.3 6 7 13 4 0 0 1 3 -
+p378
+aVElmore Spencer LAC 02/09/1995 LAC vs. HOU W 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -
+p379
+aVTerry Dehere LAC 02/09/1995 LAC vs. HOU W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p380
+aVEric Piatkowski LAC 02/09/1995 LAC vs. HOU W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p381
+aVMalik Sealy LAC 02/09/1995 LAC vs. HOU W 34 24 11 16 68.8 0 0 - 2 5 40.0 2 4 6 3 0 1 2 3 -
+p382
+aVBo Outlaw LAC 02/09/1995 LAC vs. HOU W 19 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 1 3 0 4 -
+p383
+aVGary Grant LAC 02/09/1995 LAC vs. HOU W 16 10 3 6 50.0 1 2 50.0 3 4 75.0 0 0 0 2 0 0 0 2 -
+p384
+aVLamond Murray LAC 02/09/1995 LAC vs. HOU W 46 26 10 18 55.6 0 1 0.0 6 6 100.0 2 4 6 4 2 3 1 4 -
+p385
+aVTony Massenburg LAC 02/09/1995 LAC vs. HOU W 26 10 4 4 100.0 0 0 - 2 2 100.0 1 1 2 2 0 1 3 6 -
+p386
+aVPooh Richardson LAC 02/09/1995 LAC vs. HOU W 41 11 5 11 45.5 0 2 0.0 1 2 50.0 0 3 3 14 2 0 0 4 -
+p387
+aVHarold Ellis LAC 02/09/1995 LAC vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p388
+aVTony Massenburg LAC 02/07/1995 LAC vs. UTH L 36 12 5 9 55.6 0 0 - 2 2 100.0 3 3 6 2 1 1 0 4 -
+p389
+aVMalik Sealy LAC 02/07/1995 LAC vs. UTH L 30 16 7 15 46.7 0 0 - 2 2 100.0 1 0 1 1 2 0 0 2 -
+p390
+aVLamond Murray LAC 02/07/1995 LAC vs. UTH L 33 8 3 11 27.3 0 3 0.0 2 4 50.0 2 6 8 2 1 0 5 1 -
+p391
+aVEric Piatkowski LAC 02/07/1995 LAC vs. UTH L 17 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 0 1 0 1 1 -
+p392
+aVBo Outlaw LAC 02/07/1995 LAC vs. UTH L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -
+p393
+aVElmore Spencer LAC 02/07/1995 LAC vs. UTH L 8 5 2 2 100.0 0 0 - 1 3 33.3 1 0 1 1 1 1 2 1 -
+p394
+aVRandy Woods LAC 02/07/1995 LAC vs. UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p395
+aVTerry Dehere LAC 02/07/1995 LAC vs. UTH L 18 6 3 6 50.0 0 1 0.0 0 2 0.0 0 0 0 0 1 0 1 1 -
+p396
+aVLAC 02/07/1995 LAC vs. UTH L 42 21 10 14 71.4 0 0 - 1 1 100.0 5 9 14 2 0 1 1 2 -
+p397
+aVPooh Richardson LAC 02/07/1995 LAC vs. UTH L 27 8 3 10 30.0 1 2 50.0 1 2 50.0 1 1 2 6 1 0 2 3 -
+p398
+aVGary Grant LAC 02/07/1995 LAC vs. UTH L 20 10 4 9 44.4 0 0 - 2 2 100.0 0 0 0 5 1 0 1 3 -
+p399
+aVHarold Ellis LAC 02/04/1995 LAC vs. LAL L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 -
+p400
+aVBo Outlaw LAC 02/04/1995 LAC vs. LAL L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 2 1 0 2 0 -
+p401
+aVEric Piatkowski LAC 02/04/1995 LAC vs. LAL L 11 5 1 2 50.0 1 2 50.0 2 2 100.0 1 0 1 1 0 0 0 2 -
+p402
+aVLAC 02/04/1995 LAC vs. LAL L 41 28 12 20 60.0 1 3 33.3 3 3 100.0 3 7 10 2 1 0 0 4 -
+p403
+aVTony Massenburg LAC 02/04/1995 LAC vs. LAL L 36 20 7 10 70.0 0 0 - 6 6 100.0 1 2 3 2 0 0 1 2 -
+p404
+aVMalik Sealy LAC 02/04/1995 LAC vs. LAL L 41 34 14 21 66.7 0 1 0.0 6 7 85.7 0 9 9 3 2 1 2 4 -
+p405
+aVGary Grant LAC 02/04/1995 LAC vs. LAL L 21 8 4 7 57.1 0 0 - 0 0 - 0 0 0 4 2 0 2 3 -
+p406
+aVEric Riley LAC 02/04/1995 LAC vs. LAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 2 2 -
+p407
+aVPooh Richardson LAC 02/04/1995 LAC vs. LAL L 27 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 7 0 1 5 3 -
+p408
+aVTerry Dehere LAC 02/04/1995 LAC vs. LAL L 7 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 0 -
+p409
+aVLamond Murray LAC 02/04/1995 LAC vs. LAL L 33 13 4 6 66.7 1 1 100.0 4 4 100.0 3 2 5 5 1 0 1 1 -
+p410
+aVTony Massenburg LAC 02/03/1995 LAC @ GOS L 21 12 4 8 50.0 0 0 - 4 6 66.7 3 2 5 2 0 0 2 2 -
+p411
+aVBo Outlaw LAC 02/03/1995 LAC @ GOS L 29 7 3 6 50.0 0 0 - 1 2 50.0 1 7 8 1 2 1 0 3 -
+p412
+aVLamond Murray LAC 02/03/1995 LAC @ GOS L 27 10 5 17 29.4 0 3 0.0 0 0 - 5 1 6 0 2 0 3 2 -
+p413
+aVEric Riley LAC 02/03/1995 LAC @ GOS L 15 4 1 3 33.3 0 0 - 2 4 50.0 1 1 2 0 0 1 0 2 -
+p414
+aVTerry Dehere LAC 02/03/1995 LAC @ GOS L 22 13 4 11 36.4 0 2 0.0 5 6 83.3 0 0 0 2 1 0 3 4 -
+p415
+aVMalik Sealy LAC 02/03/1995 LAC @ GOS L 15 4 1 7 14.3 0 2 0.0 2 2 100.0 0 0 0 2 1 0 0 1 -
+p416
+aVPooh Richardson LAC 02/03/1995 LAC @ GOS L 27 5 2 8 25.0 1 1 100.0 0 0 - 0 2 2 6 2 0 2 3 -
+p417
+aVLAC 02/03/1995 LAC @ GOS L 31 12 5 12 41.7 0 0 - 2 4 50.0 1 6 7 2 1 0 0 0 -
+p418
+aVGary Grant LAC 02/03/1995 LAC @ GOS L 15 7 3 9 33.3 1 3 33.3 0 0 - 2 1 3 3 1 0 2 2 -
+p419
+aVHarold Ellis LAC 02/03/1995 LAC @ GOS L 13 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 3 4 0 0 3 -
+p420
+aVEric Piatkowski LAC 02/03/1995 LAC @ GOS L 19 6 3 12 25.0 0 6 0.0 0 0 - 2 1 3 2 2 0 0 2 -
+p421
+aVRandy Woods LAC 02/03/1995 LAC @ GOS L 6 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 1 -
+p422
+aVRandy Woods LAC 01/30/1995 LAC @ DET L 18 7 2 4 50.0 2 3 66.7 1 2 50.0 0 0 0 5 1 0 2 2 -
+p423
+aVTony Massenburg LAC 01/30/1995 LAC @ DET L 33 13 4 11 36.4 0 0 - 5 8 62.5 2 8 10 1 0 1 0 2 -
+p424
+aVEric Piatkowski LAC 01/30/1995 LAC @ DET L 11 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 2 2 -
+p425
+aVGary Grant LAC 01/30/1995 LAC @ DET L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -
+p426
+aVPooh Richardson LAC 01/30/1995 LAC @ DET L 23 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 4 3 0 1 3 -
+p427
+aVMalik Sealy LAC 01/30/1995 LAC @ DET L 29 2 1 7 14.3 0 1 0.0 0 0 - 0 4 4 3 1 0 3 5 -
+p428
+aVBo Outlaw LAC 01/30/1995 LAC @ DET L 15 4 2 3 66.7 0 0 - 0 2 0.0 1 2 3 2 0 0 1 3 -
+p429
+aVLamond Murray LAC 01/30/1995 LAC @ DET L 26 13 5 11 45.5 0 1 0.0 3 4 75.0 0 1 1 2 1 1 0 5 -
+p430
+aVTerry Dehere LAC 01/30/1995 LAC @ DET L 22 12 3 11 27.3 0 1 0.0 6 7 85.7 2 0 2 2 2 0 1 3 -
+p431
+aVLAC 01/30/1995 LAC @ DET L 48 30 9 21 42.9 0 0 - 12 13 92.3 7 5 12 2 2 0 2 1 -
+p432
+aVHarold Ellis LAC 01/30/1995 LAC @ DET L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p433
+aVTerry Dehere LAC 01/28/1995 LAC @ WAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p434
+aVEric Piatkowski LAC 01/28/1995 LAC @ WAS L 2 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -
+p435
+aVGary Grant LAC 01/28/1995 LAC @ WAS L 21 8 2 8 25.0 0 0 - 4 5 80.0 1 0 1 3 1 0 0 4 -
+p436
+aVLamond Murray LAC 01/28/1995 LAC @ WAS L 44 25 11 22 50.0 2 5 40.0 1 1 100.0 2 3 5 0 1 0 4 2 -
+p437
+aVBo Outlaw LAC 01/28/1995 LAC @ WAS L 30 7 3 6 50.0 0 0 - 1 2 50.0 1 5 6 0 1 2 2 4 -
+p438
+aVTony Massenburg LAC 01/28/1995 LAC @ WAS L 32 9 3 7 42.9 0 0 - 3 4 75.0 4 3 7 0 0 2 3 2 -
+p439
+aVHarold Ellis LAC 01/28/1995 LAC @ WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p440
+aVLAC 01/28/1995 LAC @ WAS L 34 16 5 12 41.7 0 0 - 6 8 75.0 4 10 14 2 0 1 0 5 -
+p441
+aVRandy Woods LAC 01/28/1995 LAC @ WAS L 35 5 1 7 14.3 1 2 50.0 2 2 100.0 0 3 3 7 3 0 4 4 -
+p442
+aVMalik Sealy LAC 01/28/1995 LAC @ WAS L 31 15 4 10 40.0 0 0 - 7 7 100.0 1 2 3 2 0 0 0 6 -
+p443
+aVEric Piatkowski LAC 01/26/1995 LAC @ NYK L 13 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 2 1 -
+p444
+aVLamond Murray LAC 01/26/1995 LAC @ NYK L 34 14 5 20 25.0 2 4 50.0 2 3 66.7 2 0 2 0 0 0 3 2 -
+p445
+aVRandy Woods LAC 01/26/1995 LAC @ NYK L 28 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 5 5 0 1 3 -
+p446
+aVMalik Sealy LAC 01/26/1995 LAC @ NYK L 29 8 3 10 30.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 3 -
+p447
+aVTony Massenburg LAC 01/26/1995 LAC @ NYK L 30 10 5 10 50.0 0 0 - 0 0 - 0 4 4 1 0 1 2 1 -
+p448
+aVTerry Dehere LAC 01/26/1995 LAC @ NYK L 20 8 4 7 57.1 0 1 0.0 0 0 - 0 3 3 2 0 0 1 0 -
+p449
+aVEric Riley LAC 01/26/1995 LAC @ NYK L 5 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -
+p450
+aVGary Grant LAC 01/26/1995 LAC @ NYK L 20 10 4 5 80.0 1 1 100.0 1 1 100.0 0 1 1 4 4 0 3 0 -
+p451
+aVLAC 01/26/1995 LAC @ NYK L 25 4 2 8 25.0 0 0 - 0 0 - 1 7 8 0 0 1 2 6 -
+p452
+aVHarold Ellis LAC 01/26/1995 LAC @ NYK L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p453
+aVBo Outlaw LAC 01/26/1995 LAC @ NYK L 33 13 5 7 71.4 0 0 - 3 6 50.0 4 5 9 2 1 3 2 5 -
+p454
+aVHarold Ellis LAC 01/25/1995 LAC @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p455
+aVTerry Dehere LAC 01/25/1995 LAC @ BOS W 14 8 2 5 40.0 0 1 0.0 4 5 80.0 1 1 2 0 2 0 1 3 -
+p456
+aVEric Piatkowski LAC 01/25/1995 LAC @ BOS W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p457
+aVPooh Richardson LAC 01/25/1995 LAC @ BOS W 44 15 6 13 46.2 0 3 0.0 3 8 37.5 0 4 4 11 1 1 5 1 -
+p458
+aVBo Outlaw LAC 01/25/1995 LAC @ BOS W 35 5 2 4 50.0 0 0 - 1 1 100.0 2 4 6 2 4 2 4 5 -
+p459
+aVLAC 01/25/1995 LAC @ BOS W 35 22 9 15 60.0 0 1 0.0 4 6 66.7 4 8 12 2 3 2 5 2 -
+p460
+aVMalik Sealy LAC 01/25/1995 LAC @ BOS W 33 17 7 12 58.3 0 2 0.0 3 3 100.0 1 5 6 4 1 0 1 3 -
+p461
+aVTony Massenburg LAC 01/25/1995 LAC @ BOS W 25 11 4 7 57.1 0 0 - 3 4 75.0 1 4 5 0 0 2 1 5 -
+p462
+aVLamond Murray LAC 01/25/1995 LAC @ BOS W 46 21 9 17 52.9 0 2 0.0 3 6 50.0 2 3 5 1 1 0 1 2 -
+p463
+aVGary Grant LAC 01/25/1995 LAC @ BOS W 5 6 1 2 50.0 0 0 - 4 6 66.7 0 0 0 1 0 0 1 0 -
+p464
+aVMalik Sealy LAC 01/23/1995 LAC @ CLE L 28 12 5 10 50.0 0 0 - 2 2 100.0 1 4 5 2 1 1 1 2 -
+p465
+aVPooh Richardson LAC 01/23/1995 LAC @ CLE L 32 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 6 1 0 1 3 -
+p466
+aVBo Outlaw LAC 01/23/1995 LAC @ CLE L 35 11 5 7 71.4 0 0 - 1 1 100.0 3 5 8 3 0 4 2 3 -
+p467
+aVLAC 01/23/1995 LAC @ CLE L 30 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 1 0 0 1 2 -
+p468
+aVRandy Woods LAC 01/23/1995 LAC @ CLE L 9 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 1 -
+p469
+aVLamond Murray LAC 01/23/1995 LAC @ CLE L 25 8 4 10 40.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 4 -
+p470
+aVGary Grant LAC 01/23/1995 LAC @ CLE L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p471
+aVTony Massenburg LAC 01/23/1995 LAC @ CLE L 13 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p472
+aVHarold Ellis LAC 01/23/1995 LAC @ CLE L 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -
+p473
+aVEric Piatkowski LAC 01/23/1995 LAC @ CLE L 18 5 1 5 20.0 1 3 33.3 2 2 100.0 0 1 1 0 0 0 1 3 -
+p474
+aVTerry Dehere LAC 01/23/1995 LAC @ CLE L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -
+p475
+aVEric Riley LAC 01/23/1995 LAC @ CLE L 19 9 4 11 36.4 0 0 - 1 2 50.0 1 2 3 0 0 0 0 3 -
+p476
+aVEric Piatkowski LAC 01/21/1995 LAC vs. SAC L 17 10 4 6 66.7 1 2 50.0 1 2 50.0 3 0 3 1 0 0 2 4 -
+p477
+aVBo Outlaw LAC 01/21/1995 LAC vs. SAC L 31 10 5 7 71.4 0 0 - 0 2 0.0 3 2 5 0 3 3 1 3 -
+p478
+aVMalik Sealy LAC 01/21/1995 LAC vs. SAC L 35 15 3 10 30.0 0 2 0.0 9 11 81.8 2 2 4 1 2 1 3 4 -
+p479
+aVRandy Woods LAC 01/21/1995 LAC vs. SAC L 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 2 0 0 0 0 -
+p480
+aVTony Massenburg LAC 01/21/1995 LAC vs. SAC L 21 12 5 10 50.0 0 0 - 2 3 66.7 1 4 5 1 1 0 0 1 -
+p481
+aVLamond Murray LAC 01/21/1995 LAC vs. SAC L 30 5 2 8 25.0 0 3 0.0 1 1 100.0 0 3 3 0 0 1 3 2 -
+p482
+aVGary Grant LAC 01/21/1995 LAC vs. SAC L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -
+p483
+aVPooh Richardson LAC 01/21/1995 LAC vs. SAC L 42 9 4 12 33.3 1 2 50.0 0 0 - 1 3 4 7 2 0 4 2 -
+p484
+aVLAC 01/21/1995 LAC vs. SAC L 44 21 8 18 44.4 0 1 0.0 5 6 83.3 8 5 13 2 0 1 1 5 -
+p485
+aVTerry Dehere LAC 01/21/1995 LAC vs. SAC L 13 3 1 4 25.0 1 3 33.3 0 2 0.0 1 0 1 3 0 0 1 1 -
+p486
+aVEric Riley LAC 01/20/1995 LAC vs. POR L 5 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 1 0 1 0 -
+p487
+aVLamond Murray LAC 01/20/1995 LAC vs. POR L 43 18 7 20 35.0 1 3 33.3 3 3 100.0 2 1 3 3 1 0 2 1 -
+p488
+aVTony Massenburg LAC 01/20/1995 LAC vs. POR L 23 4 1 4 25.0 0 0 - 2 2 100.0 4 3 7 1 0 1 2 4 -
+p489
+aVLAC 01/20/1995 LAC vs. POR L 40 14 6 15 40.0 0 0 - 2 6 33.3 6 7 13 2 3 0 1 3 -
+p490
+aVRandy Woods LAC 01/20/1995 LAC vs. POR L 6 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 2 0 0 0 1 -
+p491
+aVMalik Sealy LAC 01/20/1995 LAC vs. POR L 32 20 7 13 53.8 3 4 75.0 3 4 75.0 1 1 2 3 2 0 4 5 -
+p492
+aVEric Piatkowski LAC 01/20/1995 LAC vs. POR L 10 5 2 5 40.0 1 1 100.0 0 0 - 2 0 2 0 0 0 1 1 -
+p493
+aVTerry Dehere LAC 01/20/1995 LAC vs. POR L 16 7 3 9 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 -
+p494
+aVBo Outlaw LAC 01/20/1995 LAC vs. POR L 22 4 0 3 0.0 0 0 - 4 6 66.7 1 1 2 1 2 1 2 4 -
+p495
+aVPooh Richardson LAC 01/20/1995 LAC vs. POR L 43 18 8 14 57.1 2 4 50.0 0 0 - 0 4 4 9 2 1 1 3 -
+p496
+aVEric Piatkowski LAC 01/18/1995 LAC vs. CLE W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 2 0 -
+p497
+aVLamond Murray LAC 01/18/1995 LAC vs. CLE W 39 17 7 16 43.8 0 3 0.0 3 4 75.0 2 6 8 3 0 0 1 2 -
+p498
+aVHarold Ellis LAC 01/18/1995 LAC vs. CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p499
+aVTony Massenburg LAC 01/18/1995 LAC vs. CLE W 13 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 2 -
+p500
+aVMalik Sealy LAC 01/18/1995 LAC vs. CLE W 39 20 6 13 46.2 1 2 50.0 7 8 87.5 0 1 1 3 0 1 1 3 -
+p501
+aVRandy Woods LAC 01/18/1995 LAC vs. CLE W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p502
+aVLAC 01/18/1995 LAC vs. CLE W 48 19 9 16 56.3 0 0 - 1 2 50.0 4 5 9 3 1 0 2 1 -
+p503
+aVTerry Dehere LAC 01/18/1995 LAC vs. CLE W 9 3 0 3 0.0 0 0 - 3 4 75.0 1 0 1 1 0 0 0 2 -
+p504
+aVPooh Richardson LAC 01/18/1995 LAC vs. CLE W 45 15 6 11 54.5 3 4 75.0 0 2 0.0 1 6 7 8 1 0 0 2 -
+p505
+aVBo Outlaw LAC 01/18/1995 LAC vs. CLE W 35 14 6 8 75.0 0 0 - 2 2 100.0 3 3 6 1 1 5 0 0 -
+p506
+aVBo Outlaw LAC 01/16/1995 LAC @ LAL L 20 6 3 7 42.9 0 0 - 0 3 0.0 2 4 6 1 2 2 0 4 -
+p507
+aVPooh Richardson LAC 01/16/1995 LAC @ LAL L 37 11 4 12 33.3 1 3 33.3 2 2 100.0 2 1 3 10 2 2 3 2 -
+p508
+aVGary Grant LAC 01/16/1995 LAC @ LAL L 18 6 2 6 33.3 0 2 0.0 2 2 100.0 0 1 1 3 1 0 1 3 -
+p509
+aVTony Massenburg LAC 01/16/1995 LAC @ LAL L 27 10 5 12 41.7 0 0 - 0 0 - 3 3 6 1 0 1 1 3 -
+p510
+aVMalik Sealy LAC 01/16/1995 LAC @ LAL L 25 8 3 12 25.0 0 1 0.0 2 2 100.0 2 2 4 2 0 1 1 2 -
+p511
+aVLamond Murray LAC 01/16/1995 LAC @ LAL L 48 17 7 21 33.3 1 4 25.0 2 2 100.0 3 6 9 4 0 3 1 3 -
+p512
+aVTerry Dehere LAC 01/16/1995 LAC @ LAL L 16 2 0 3 0.0 0 2 0.0 2 2 100.0 1 0 1 1 0 0 2 2 -
+p513
+aVEric Piatkowski LAC 01/16/1995 LAC @ LAL L 20 10 4 6 66.7 2 2 100.0 0 2 0.0 0 1 1 2 1 1 1 1 -
+p514
+aVLAC 01/16/1995 LAC @ LAL L 29 18 9 16 56.3 0 0 - 0 0 - 1 6 7 0 0 0 1 5 -
+p515
+aVTerry Dehere LAC 01/14/1995 LAC vs. PHX L 29 5 2 10 20.0 0 0 - 1 4 25.0 0 2 2 2 2 0 3 3 -
+p516
+aVPooh Richardson LAC 01/14/1995 LAC vs. PHX L 20 4 2 4 50.0 0 0 - 0 0 - 1 1 2 6 0 0 2 5 -
+p517
+aVHarold Ellis LAC 01/14/1995 LAC vs. PHX L 13 10 4 4 100.0 0 0 - 2 3 66.7 0 1 1 0 0 0 3 3 -
+p518
+aVEric Piatkowski LAC 01/14/1995 LAC vs. PHX L 14 9 2 2 100.0 1 1 100.0 4 6 66.7 1 2 3 1 0 0 0 3 -
+p519
+aVBo Outlaw LAC 01/14/1995 LAC vs. PHX L 17 8 4 4 100.0 0 0 - 0 1 0.0 2 2 4 1 2 3 1 4 -
+p520
+aVEric Riley LAC 01/14/1995 LAC vs. PHX L 18 6 2 3 66.7 0 0 - 2 3 66.7 1 8 9 1 0 1 2 2 -
+p521
+aVMalik Sealy LAC 01/14/1995 LAC vs. PHX L 19 13 4 9 44.4 1 3 33.3 4 4 100.0 1 0 1 0 2 0 2 4 -
+p522
+aVGary Grant LAC 01/14/1995 LAC vs. PHX L 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 6 1 0 2 3 -
+p523
+aVRandy Woods LAC 01/14/1995 LAC vs. PHX L 16 4 0 2 0.0 0 2 0.0 4 4 100.0 0 1 1 6 3 0 1 2 -
+p524
+aVLAC 01/14/1995 LAC vs. PHX L 32 20 9 13 69.2 0 0 - 2 2 100.0 1 7 8 0 1 0 1 3 -
+p525
+aVLamond Murray LAC 01/14/1995 LAC vs. PHX L 29 17 7 17 41.2 2 4 50.0 1 2 50.0 1 0 1 0 0 0 3 1 -
+p526
+aVTony Massenburg LAC 01/14/1995 LAC vs. PHX L 21 8 3 8 37.5 0 0 - 2 2 100.0 2 5 7 2 0 1 4 3 -
+p527
+aVGary Grant LAC 01/13/1995 LAC @ SEA L 19 6 2 6 33.3 0 0 - 2 4 50.0 1 1 2 0 3 2 3 3 -
+p528
+aVTerry Dehere LAC 01/13/1995 LAC @ SEA L 31 12 6 13 46.2 0 0 - 0 1 0.0 0 4 4 3 0 0 2 3 -
+p529
+aVLAC 01/13/1995 LAC @ SEA L 35 15 5 13 38.5 0 0 - 5 6 83.3 4 11 15 6 1 0 2 3 -
+p530
+aVPooh Richardson LAC 01/13/1995 LAC @ SEA L 29 11 5 11 45.5 1 3 33.3 0 1 0.0 0 2 2 8 1 0 1 2 -
+p531
+aVBo Outlaw LAC 01/13/1995 LAC @ SEA L 21 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 2 1 1 0 4 -
+p532
+aVEric Piatkowski LAC 01/13/1995 LAC @ SEA L 16 9 3 5 60.0 0 2 0.0 3 3 100.0 1 1 2 1 0 1 1 1 -
+p533
+aVLamond Murray LAC 01/13/1995 LAC @ SEA L 46 24 10 16 62.5 2 4 50.0 2 2 100.0 2 1 3 2 0 3 1 1 -
+p534
+aVEric Riley LAC 01/13/1995 LAC @ SEA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 4 2 -
+p535
+aVTony Massenburg LAC 01/13/1995 LAC @ SEA L 20 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 5 -
+p536
+aVMalik Sealy LAC 01/13/1995 LAC @ SEA L 17 12 3 9 33.3 0 1 0.0 6 8 75.0 2 0 2 0 0 1 2 1 -
+p537
+aVPooh Richardson LAC 01/11/1995 LAC @ DAL L 32 15 5 10 50.0 3 5 60.0 2 4 50.0 0 5 5 8 1 0 1 1 -
+p538
+aVMalik Sealy LAC 01/11/1995 LAC @ DAL L 30 17 7 12 58.3 1 1 100.0 2 4 50.0 2 4 6 0 0 0 0 3 -
+p539
+aVLamond Murray LAC 01/11/1995 LAC @ DAL L 33 12 5 12 41.7 1 4 25.0 1 2 50.0 0 5 5 1 2 1 1 2 -
+p540
+aVBo Outlaw LAC 01/11/1995 LAC @ DAL L 22 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 1 2 1 4 -
+p541
+aVRandy Woods LAC 01/11/1995 LAC @ DAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -
+p542
+aVEric Riley LAC 01/11/1995 LAC @ DAL L 13 7 3 8 37.5 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 -
+p543
+aVGary Grant LAC 01/11/1995 LAC @ DAL L 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -
+p544
+aVTony Massenburg LAC 01/11/1995 LAC @ DAL L 27 10 4 7 57.1 0 0 - 2 2 100.0 1 5 6 1 0 1 2 3 -
+p545
+aVHarold Ellis LAC 01/11/1995 LAC @ DAL L 4 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -
+p546
+aVEric Piatkowski LAC 01/11/1995 LAC @ DAL L 8 0 0 1 0.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 3 -
+p547
+aVTerry Dehere LAC 01/11/1995 LAC @ DAL L 18 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 3 4 -
+p548
+aVLAC 01/11/1995 LAC @ DAL L 37 20 8 19 42.1 0 1 0.0 4 5 80.0 2 5 7 2 2 0 4 3 -
+p549
+aVTony Massenburg LAC 01/10/1995 LAC @ SAN L 11 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 0 5 -
+p550
+aVLamond Murray LAC 01/10/1995 LAC @ SAN L 42 19 7 13 53.8 2 3 66.7 3 5 60.0 0 4 4 3 0 0 2 2 -
+p551
+aVHarold Ellis LAC 01/10/1995 LAC @ SAN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p552
+aVPooh Richardson LAC 01/10/1995 LAC @ SAN L 43 14 5 15 33.3 2 6 33.3 2 4 50.0 1 4 5 7 4 0 1 4 -
+p553
+aVEric Piatkowski LAC 01/10/1995 LAC @ SAN L 11 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 -
+p554
+aVBo Outlaw LAC 01/10/1995 LAC @ SAN L 35 11 3 6 50.0 0 0 - 5 10 50.0 2 4 6 6 2 5 2 3 -
+p555
+aVRandy Woods LAC 01/10/1995 LAC @ SAN L 1 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 1 -
+p556
+aVGary Grant LAC 01/10/1995 LAC @ SAN L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -
+p557
+aVLAC 01/10/1995 LAC @ SAN L 45 17 7 15 46.7 0 1 0.0 3 3 100.0 3 12 15 5 3 0 6 4 -
+p558
+aVTerry Dehere LAC 01/10/1995 LAC @ SAN L 40 22 9 17 52.9 1 3 33.3 3 4 75.0 0 4 4 5 1 0 0 3 -
+p559
+aVBo Outlaw LAC 01/07/1995 LAC vs. SAN L 22 4 2 4 50.0 0 0 - 0 3 0.0 2 2 4 2 1 0 2 5 -
+p560
+aVRandy Woods LAC 01/07/1995 LAC vs. SAN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 0 3 -
+p561
+aVLamond Murray LAC 01/07/1995 LAC vs. SAN L 29 10 5 17 29.4 0 3 0.0 0 1 0.0 2 1 3 1 1 0 0 2 -
+p562
+aVHarold Ellis LAC 01/07/1995 LAC vs. SAN L 5 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 1 0 2 0 -
+p563
+aVEric Piatkowski LAC 01/07/1995 LAC vs. SAN L 20 9 3 8 37.5 1 3 33.3 2 3 66.7 1 0 1 2 2 0 2 2 -
+p564
+aVEric Riley LAC 01/07/1995 LAC vs. SAN L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 2 1 1 -
+p565
+aVTerry Dehere LAC 01/07/1995 LAC vs. SAN L 29 9 1 4 25.0 0 1 0.0 7 7 100.0 0 2 2 2 1 0 2 1 -
+p566
+aVGary Grant LAC 01/07/1995 LAC vs. SAN L 20 12 5 8 62.5 0 0 - 2 2 100.0 0 2 2 3 3 0 1 2 -
+p567
+aVLAC 01/07/1995 LAC vs. SAN L 43 29 12 23 52.2 1 2 50.0 4 4 100.0 5 8 13 1 1 1 3 2 -
+p568
+aVPooh Richardson LAC 01/07/1995 LAC vs. SAN L 37 6 3 13 23.1 0 3 0.0 0 0 - 0 2 2 8 2 0 1 3 -
+p569
+aVTony Massenburg LAC 01/07/1995 LAC vs. SAN L 22 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 -
+p570
+aVPooh Richardson LAC 01/05/1995 LAC vs. PHL W 47 14 5 11 45.5 1 1 100.0 3 4 75.0 1 2 3 14 3 0 2 5 -
+p571
+aVEric Riley LAC 01/05/1995 LAC vs. PHL W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -
+p572
+aVTerry Dehere LAC 01/05/1995 LAC vs. PHL W 32 12 4 10 40.0 0 1 0.0 4 4 100.0 1 2 3 4 1 0 1 3 -
+p573
+aVLAC 01/05/1995 LAC vs. PHL W 47 25 12 20 60.0 0 0 - 1 3 33.3 1 11 12 2 3 0 0 4 -
+p574
+aVBo Outlaw LAC 01/05/1995 LAC vs. PHL W 16 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 1 2 1 3 -
+p575
+aVLamond Murray LAC 01/05/1995 LAC vs. PHL W 41 13 5 16 31.3 1 2 50.0 2 4 50.0 1 4 5 1 2 2 2 2 -
+p576
+aVEric Piatkowski LAC 01/05/1995 LAC vs. PHL W 7 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p577
+aVGary Grant LAC 01/05/1995 LAC vs. PHL W 16 7 2 4 50.0 0 1 0.0 3 4 75.0 1 1 2 6 1 0 2 2 -
+p578
+aVTony Massenburg LAC 01/05/1995 LAC vs. PHL W 33 18 8 11 72.7 0 0 - 2 4 50.0 3 5 8 0 0 2 1 3 -
+p579
+aVPooh Richardson LAC 12/30/1994 LAC @ ORL L 51 18 8 17 47.1 2 6 33.3 0 0 - 2 2 4 11 8 0 2 3 -
+p580
+aVMalik Sealy LAC 12/30/1994 LAC @ ORL L 33 18 8 14 57.1 1 2 50.0 1 1 100.0 2 3 5 4 1 0 3 6 -
+p581
+aVHarold Ellis LAC 12/30/1994 LAC @ ORL L 6 3 1 2 50.0 0 0 - 1 4 25.0 2 0 2 1 0 0 0 0 -
+p582
+aVLamond Murray LAC 12/30/1994 LAC @ ORL L 46 17 7 17 41.2 3 7 42.9 0 3 0.0 1 6 7 1 1 0 2 2 -
+p583
+aVBo Outlaw LAC 12/30/1994 LAC @ ORL L 25 11 4 5 80.0 0 0 - 3 4 75.0 1 2 3 3 1 1 0 5 -
+p584
+aVLAC 12/30/1994 LAC @ ORL L 50 21 9 23 39.1 0 1 0.0 3 4 75.0 3 6 9 1 0 0 2 3 -
+p585
+aVTony Massenburg LAC 12/30/1994 LAC @ ORL L 27 10 3 8 37.5 0 0 - 4 4 100.0 0 2 2 0 1 0 2 3 -
+p586
+aVTerry Dehere LAC 12/30/1994 LAC @ ORL L 13 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 -
+p587
+aVRandy Woods LAC 12/30/1994 LAC @ ORL L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p588
+aVMatt Fish LAC 12/30/1994 LAC @ ORL L 3 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -
+p589
+aVEric Piatkowski LAC 12/30/1994 LAC @ ORL L 9 4 1 4 25.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 1 1 -
+p590
+aVEric Riley LAC 12/29/1994 LAC @ MIA L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 0 -
+p591
+aVHarold Ellis LAC 12/29/1994 LAC @ MIA L 19 11 5 6 83.3 0 0 - 1 4 25.0 2 1 3 3 5 0 1 3 -
+p592
+aVEric Piatkowski LAC 12/29/1994 LAC @ MIA L 15 5 2 8 25.0 1 7 14.3 0 0 - 0 2 2 0 1 0 2 1 -
+p593
+aVPooh Richardson LAC 12/29/1994 LAC @ MIA L 36 8 4 11 36.4 0 2 0.0 0 0 - 0 1 1 7 2 0 0 5 -
+p594
+aVRandy Woods LAC 12/29/1994 LAC @ MIA L 15 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 5 2 0 1 2 -
+p595
+aVBo Outlaw LAC 12/29/1994 LAC @ MIA L 33 8 3 5 60.0 0 0 - 2 4 50.0 2 2 4 0 2 0 4 3 -
+p596
+aVMalik Sealy LAC 12/29/1994 LAC @ MIA L 28 10 5 13 38.5 0 2 0.0 0 0 - 1 4 5 2 1 1 4 3 -
+p597
+aVLAC 12/29/1994 LAC @ MIA L 24 10 5 13 38.5 0 1 0.0 0 0 - 3 3 6 1 0 0 1 3 -
+p598
+aVTony Massenburg LAC 12/29/1994 LAC @ MIA L 9 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -
+p599
+aVTerry Dehere LAC 12/29/1994 LAC @ MIA L 23 8 4 10 40.0 0 2 0.0 0 2 0.0 1 0 1 2 0 0 5 2 -
+p600
+aVLamond Murray LAC 12/29/1994 LAC @ MIA L 22 10 4 12 33.3 0 2 0.0 2 4 50.0 1 1 2 0 2 0 1 0 -
+p601
+aVMatt Fish LAC 12/29/1994 LAC @ MIA L 12 5 2 3 66.7 0 0 - 1 1 100.0 2 1 3 1 0 1 0 3 -
+p602
+aVHarold Ellis LAC 12/27/1994 LAC @ CHI W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 1 1 1 -
+p603
+aVPooh Richardson LAC 12/27/1994 LAC @ CHI W 40 21 8 16 50.0 1 3 33.3 4 4 100.0 0 3 3 10 1 0 3 1 -
+p604
+aVMatt Fish LAC 12/27/1994 LAC @ CHI W 8 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 2 0 0 2 -
+p605
+aVBo Outlaw LAC 12/27/1994 LAC @ CHI W 33 11 5 7 71.4 0 0 - 1 2 50.0 2 3 5 2 3 2 1 2 -
+p606
+aVEric Riley LAC 12/27/1994 LAC @ CHI W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p607
+aVTerry Dehere LAC 12/27/1994 LAC @ CHI W 29 11 5 13 38.5 1 1 100.0 0 1 0.0 1 2 3 2 0 0 2 3 -
+p608
+aVLamond Murray LAC 12/27/1994 LAC @ CHI W 46 19 5 15 33.3 0 2 0.0 9 9 100.0 3 1 4 1 3 0 3 1 -
+p609
+aVRandy Woods LAC 12/27/1994 LAC @ CHI W 8 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 2 0 3 1 -
+p610
+aVEric Piatkowski LAC 12/27/1994 LAC @ CHI W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -
+p611
+aVTony Massenburg LAC 12/27/1994 LAC @ CHI W 28 8 4 8 50.0 0 0 - 0 0 - 2 4 6 1 0 2 3 2 -
+p612
+aVLAC 12/27/1994 LAC @ CHI W 18 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 1 0 1 4 -
+p613
+aVMalik Sealy LAC 12/27/1994 LAC @ CHI W 20 12 4 7 57.1 0 0 - 4 6 66.7 1 1 2 0 2 0 1 1 -
+p614
+aVTerry Dehere LAC 12/26/1994 LAC @ MIN L 18 6 2 7 28.6 0 2 0.0 2 3 66.7 0 2 2 1 1 1 1 2 -
+p615
+aVPooh Richardson LAC 12/26/1994 LAC @ MIN L 48 8 4 13 30.8 0 3 0.0 0 0 - 0 2 2 11 2 1 3 1 -
+p616
+aVHarold Ellis LAC 12/26/1994 LAC @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p617
+aVEric Piatkowski LAC 12/26/1994 LAC @ MIN L 27 11 4 5 80.0 3 4 75.0 0 1 0.0 0 2 2 2 2 0 2 1 -
+p618
+aVEric Riley LAC 12/26/1994 LAC @ MIN L 13 7 2 4 50.0 0 0 - 3 4 75.0 2 1 3 0 1 2 1 2 -
+p619
+aVTony Massenburg LAC 12/26/1994 LAC @ MIN L 16 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 3 0 0 0 5 -
+p620
+aVMatt Fish LAC 12/26/1994 LAC @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p621
+aVLamond Murray LAC 12/26/1994 LAC @ MIN L 21 12 4 11 36.4 2 3 66.7 2 2 100.0 1 4 5 0 1 0 3 5 -
+p622
+aVLAC 12/26/1994 LAC @ MIN L 29 20 9 11 81.8 0 0 - 2 4 50.0 2 3 5 1 3 0 0 6 -
+p623
+aVBo Outlaw LAC 12/26/1994 LAC @ MIN L 34 4 2 5 40.0 0 0 - 0 0 - 2 5 7 1 1 1 2 5 -
+p624
+aVMalik Sealy LAC 12/26/1994 LAC @ MIN L 30 10 4 11 36.4 0 1 0.0 2 4 50.0 1 3 4 3 0 0 2 2 -
+p625
+aVLAC 12/23/1994 LAC vs. WAS L 38 20 5 12 41.7 1 1 100.0 9 10 90.0 7 6 13 1 3 0 3 3 -
+p626
+aVLamond Murray LAC 12/23/1994 LAC vs. WAS L 37 18 9 18 50.0 0 4 0.0 0 0 - 4 6 10 4 1 0 2 0 -
+p627
+aVEric Piatkowski LAC 12/23/1994 LAC vs. WAS L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -
+p628
+aVTerry Dehere LAC 12/23/1994 LAC vs. WAS L 20 14 5 12 41.7 0 3 0.0 4 5 80.0 0 3 3 1 1 0 4 2 -
+p629
+aVPooh Richardson LAC 12/23/1994 LAC vs. WAS L 32 8 3 8 37.5 2 2 100.0 0 0 - 1 3 4 5 1 0 3 2 -
+p630
+aVRandy Woods LAC 12/23/1994 LAC vs. WAS L 11 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 3 1 0 1 5 -
+p631
+aVMalik Sealy LAC 12/23/1994 LAC vs. WAS L 33 15 6 13 46.2 1 2 50.0 2 2 100.0 3 1 4 1 3 1 0 1 -
+p632
+aVEric Riley LAC 12/23/1994 LAC vs. WAS L 13 10 3 4 75.0 0 0 - 4 6 66.7 0 0 0 1 0 3 0 2 -
+p633
+aVBo Outlaw LAC 12/23/1994 LAC vs. WAS L 38 10 3 6 50.0 0 0 - 4 8 50.0 0 6 6 3 2 6 1 5 -
+p634
+aVTony Massenburg LAC 12/23/1994 LAC vs. WAS L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p635
+aVLamond Murray LAC 12/21/1994 LAC vs. ORL L 40 18 9 23 39.1 0 0 - 0 0 - 3 5 8 0 1 0 2 3 -
+p636
+aVTony Massenburg LAC 12/21/1994 LAC vs. ORL L 15 7 3 5 60.0 0 0 - 1 2 50.0 3 4 7 0 0 0 0 2 -
+p637
+aVEric Riley LAC 12/21/1994 LAC vs. ORL L 5 8 3 4 75.0 0 0 - 2 3 66.7 1 0 1 0 0 0 0 1 -
+p638
+aVPooh Richardson LAC 12/21/1994 LAC vs. ORL L 43 11 5 12 41.7 0 0 - 1 2 50.0 1 3 4 11 2 0 2 2 -
+p639
+aVMatt Fish LAC 12/21/1994 LAC vs. ORL L 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -
+p640
+aVBo Outlaw LAC 12/21/1994 LAC vs. ORL L 25 2 1 5 20.0 0 0 - 0 2 0.0 4 3 7 0 1 3 1 4 -
+p641
+aVLAC 12/21/1994 LAC vs. ORL L 37 15 7 17 41.2 0 0 - 1 2 50.0 1 7 8 2 2 0 1 5 -
+p642
+aVRandy Woods LAC 12/21/1994 LAC vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p643
+aVTerry Dehere LAC 12/21/1994 LAC vs. ORL L 15 11 3 9 33.3 0 1 0.0 5 5 100.0 1 1 2 3 0 0 0 0 -
+p644
+aVMalik Sealy LAC 12/21/1994 LAC vs. ORL L 34 14 7 19 36.8 0 4 0.0 0 0 - 5 4 9 4 2 0 3 4 -
+p645
+aVHarold Ellis LAC 12/21/1994 LAC vs. ORL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p646
+aVEric Piatkowski LAC 12/21/1994 LAC vs. ORL L 17 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 0 1 1 1 3 -
+p647
+aVPooh Richardson LAC 12/20/1994 LAC @ SEA L 29 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 5 2 0 1 2 -
+p648
+aVMalik Sealy LAC 12/20/1994 LAC @ SEA L 37 22 9 12 75.0 1 2 50.0 3 5 60.0 1 4 5 3 0 0 0 4 -
+p649
+aVBo Outlaw LAC 12/20/1994 LAC @ SEA L 36 8 4 8 50.0 0 0 - 0 0 - 5 3 8 2 3 3 3 4 -
+p650
+aVTony Massenburg LAC 12/20/1994 LAC @ SEA L 22 12 5 9 55.6 0 0 - 2 4 50.0 4 5 9 0 0 0 3 2 -
+p651
+aVMatt Fish LAC 12/20/1994 LAC @ SEA L 12 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 0 -
+p652
+aVLAC 12/20/1994 LAC @ SEA L 26 9 4 12 33.3 0 0 - 1 2 50.0 2 4 6 1 0 0 4 3 -
+p653
+aVTerry Dehere LAC 12/20/1994 LAC @ SEA L 18 8 2 10 20.0 0 4 0.0 4 4 100.0 1 1 2 1 0 0 4 2 -
+p654
+aVRandy Woods LAC 12/20/1994 LAC @ SEA L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 3 4 -
+p655
+aVEric Piatkowski LAC 12/20/1994 LAC @ SEA L 17 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 2 2 1 2 3 -
+p656
+aVLamond Murray LAC 12/20/1994 LAC @ SEA L 27 10 2 11 18.2 1 2 50.0 5 6 83.3 1 0 1 0 1 1 3 2 -
+p657
+aVHarold Ellis LAC 12/20/1994 LAC @ SEA L 4 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 1 0 0 -
+p658
+aVLAC 12/17/1994 LAC vs. DAL L 35 23 10 17 58.8 0 0 - 3 7 42.9 6 7 13 2 1 1 1 4 -
+p659
+aVHarold Ellis LAC 12/17/1994 LAC vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p660
+aVLamond Murray LAC 12/17/1994 LAC vs. DAL L 42 22 10 25 40.0 2 5 40.0 0 0 - 2 3 5 1 0 2 2 3 -
+p661
+aVTerry Dehere LAC 12/17/1994 LAC vs. DAL L 21 5 2 8 25.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 4 -
+p662
+aVBo Outlaw LAC 12/17/1994 LAC vs. DAL L 32 3 0 4 0.0 0 0 - 3 4 75.0 3 6 9 0 2 2 1 2 -
+p663
+aVEric Piatkowski LAC 12/17/1994 LAC vs. DAL L 14 5 2 6 33.3 1 2 50.0 0 0 - 3 0 3 0 1 0 0 2 -
+p664
+aVPooh Richardson LAC 12/17/1994 LAC vs. DAL L 38 3 0 10 0.0 0 5 0.0 3 6 50.0 0 2 2 14 3 0 3 4 -
+p665
+aVTony Massenburg LAC 12/17/1994 LAC vs. DAL L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 -
+p666
+aVMatt Fish LAC 12/17/1994 LAC vs. DAL L 14 5 1 2 50.0 0 0 - 3 6 50.0 0 4 4 2 0 0 2 3 -
+p667
+aVMalik Sealy LAC 12/17/1994 LAC vs. DAL L 33 19 8 16 50.0 2 4 50.0 1 2 50.0 3 1 4 0 2 0 0 4 -
+p668
+aVRandy Woods LAC 12/17/1994 LAC vs. DAL L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p669
+aVLamond Murray LAC 12/15/1994 LAC vs. GOS W 35 9 4 10 40.0 0 0 - 1 4 25.0 6 2 8 1 0 1 3 4 -
+p670
+aVHarold Ellis LAC 12/15/1994 LAC vs. GOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p671
+aVTerry Dehere LAC 12/15/1994 LAC vs. GOS W 12 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 0 0 4 3 -
+p672
+aVBo Outlaw LAC 12/15/1994 LAC vs. GOS W 18 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 3 1 0 3 6 -
+p673
+aVEric Piatkowski LAC 12/15/1994 LAC vs. GOS W 24 8 4 10 40.0 0 4 0.0 0 0 - 1 6 7 0 0 0 1 2 -
+p674
+aVMalik Sealy LAC 12/15/1994 LAC vs. GOS W 35 22 7 17 41.2 2 2 100.0 6 7 85.7 2 2 4 1 1 0 1 5 -
+p675
+aVRandy Woods LAC 12/15/1994 LAC vs. GOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p676
+aVMatt Fish LAC 12/15/1994 LAC vs. GOS W 23 10 4 5 80.0 0 0 - 2 2 100.0 1 1 2 2 1 1 4 5 -
+p677
+aVLAC 12/15/1994 LAC vs. GOS W 44 18 7 15 46.7 0 0 - 4 4 100.0 2 9 11 2 6 1 1 2 -
+p678
+aVPooh Richardson LAC 12/15/1994 LAC vs. GOS W 47 13 6 17 35.3 0 2 0.0 1 1 100.0 3 6 9 6 3 0 3 2 -
+p679
+aVLAC 12/14/1994 LAC @ POR L 32 8 4 12 33.3 0 0 - 0 0 - 1 7 8 0 3 0 0 2 -
+p680
+aVTony Massenburg LAC 12/14/1994 LAC @ POR L 29 5 2 8 25.0 0 0 - 1 2 50.0 2 1 3 0 0 1 4 1 -
+p681
+aVTerry Dehere LAC 12/14/1994 LAC @ POR L 20 17 6 12 50.0 4 6 66.7 1 1 100.0 3 2 5 2 0 0 1 2 -
+p682
+aVBo Outlaw LAC 12/14/1994 LAC @ POR L 25 7 3 3 100.0 0 0 - 1 2 50.0 2 2 4 1 1 0 1 0 -
+p683
+aVRandy Woods LAC 12/14/1994 LAC @ POR L 11 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 4 0 0 0 2 -
+p684
+aVMatt Fish LAC 12/14/1994 LAC @ POR L 8 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 -
+p685
+aVEric Piatkowski LAC 12/14/1994 LAC @ POR L 22 9 2 10 20.0 1 5 20.0 4 4 100.0 1 0 1 0 1 2 0 1 -
+p686
+aVLamond Murray LAC 12/14/1994 LAC @ POR L 25 9 4 16 25.0 1 6 16.7 0 0 - 0 0 0 0 1 0 3 2 -
+p687
+aVHarold Ellis LAC 12/14/1994 LAC @ POR L 15 0 0 4 0.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 3 -
+p688
+aVPooh Richardson LAC 12/14/1994 LAC @ POR L 28 8 4 10 40.0 0 2 0.0 0 0 - 0 2 2 7 0 0 3 2 -
+p689
+aVMalik Sealy LAC 12/14/1994 LAC @ POR L 25 6 3 11 27.3 0 0 - 0 0 - 0 3 3 3 1 0 3 3 -
+p690
+aVHarold Ellis LAC 12/10/1994 LAC vs. SEA L 7 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 0 0 1 1 0 -
+p691
+aVEric Piatkowski LAC 12/10/1994 LAC vs. SEA L 32 23 8 12 66.7 3 7 42.9 4 6 66.7 0 4 4 2 2 0 0 6 -
+p692
+aVRandy Woods LAC 12/10/1994 LAC vs. SEA L 7 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 3 -
+p693
+aVBo Outlaw LAC 12/10/1994 LAC vs. SEA L 44 4 1 6 16.7 0 0 - 2 4 50.0 2 3 5 3 1 9 0 5 -
+p694
+aVTony Massenburg LAC 12/10/1994 LAC vs. SEA L 29 3 1 8 12.5 0 0 - 1 2 50.0 1 6 7 1 0 0 2 4 -
+p695
+aVMalik Sealy LAC 12/10/1994 LAC vs. SEA L 46 28 9 17 52.9 0 1 0.0 10 12 83.3 3 2 5 4 3 2 1 5 -
+p696
+aVPooh Richardson LAC 12/10/1994 LAC vs. SEA L 52 32 14 24 58.3 4 11 36.4 0 0 - 1 4 5 15 2 0 3 6 -
+p697
+aVLAC 12/10/1994 LAC vs. SEA L 43 20 9 20 45.0 0 0 - 2 3 66.7 6 8 14 4 2 0 7 6 -
+p698
+aVLamond Murray LAC 12/10/1994 LAC vs. SEA L 30 11 2 10 20.0 1 4 25.0 6 6 100.0 1 3 4 1 0 1 4 6 -
+p699
+aVPooh Richardson LAC 12/09/1994 LAC @ LAL W 48 20 8 11 72.7 4 4 100.0 0 0 - 0 3 3 10 5 0 4 1 -
+p700
+aVMalik Sealy LAC 12/09/1994 LAC @ LAL W 40 25 11 25 44.0 0 0 - 3 5 60.0 3 5 8 5 2 1 1 2 -
+p701
+aVBo Outlaw LAC 12/09/1994 LAC @ LAL W 25 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 2 1 1 2 -
+p702
+aVLamond Murray LAC 12/09/1994 LAC @ LAL W 41 18 7 17 41.2 2 4 50.0 2 3 66.7 0 4 4 5 4 2 2 2 -
+p703
+aVLAC 12/09/1994 LAC @ LAL W 41 19 9 17 52.9 0 0 - 1 2 50.0 4 11 15 1 1 0 3 3 -
+p704
+aVTony Massenburg LAC 12/09/1994 LAC @ LAL W 26 12 3 8 37.5 0 0 - 6 7 85.7 4 2 6 0 3 1 3 2 -
+p705
+aVEric Piatkowski LAC 12/09/1994 LAC @ LAL W 13 9 3 6 50.0 0 1 0.0 3 3 100.0 3 0 3 1 0 0 0 3 -
+p706
+aVRandy Woods LAC 12/09/1994 LAC @ LAL W 3 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p707
+aVHarold Ellis LAC 12/09/1994 LAC @ LAL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p708
+aVTony Massenburg LAC 12/07/1994 LAC vs. MIL W 32 13 6 8 75.0 0 0 - 1 1 100.0 1 3 4 1 1 2 5 5 -
+p709
+aVTerry Dehere LAC 12/07/1994 LAC vs. MIL W 23 12 3 8 37.5 1 2 50.0 5 5 100.0 0 1 1 5 0 1 2 3 -
+p710
+aVLAC 12/07/1994 LAC vs. MIL W 52 30 14 21 66.7 0 0 - 2 2 100.0 4 10 14 1 5 1 2 5 -
+p711
+aVPooh Richardson LAC 12/07/1994 LAC vs. MIL W 46 9 4 11 36.4 1 6 16.7 0 0 - 0 6 6 13 2 0 4 5 -
+p712
+aVLamond Murray LAC 12/07/1994 LAC vs. MIL W 49 19 8 23 34.8 1 6 16.7 2 3 66.7 0 4 4 4 2 2 2 4 -
+p713
+aVHarold Ellis LAC 12/07/1994 LAC vs. MIL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -
+p714
+aVEric Piatkowski LAC 12/07/1994 LAC vs. MIL W 12 7 2 4 50.0 0 1 0.0 3 4 75.0 0 0 0 1 0 0 1 3 -
+p715
+aVBo Outlaw LAC 12/07/1994 LAC vs. MIL W 17 4 2 2 100.0 0 0 - 0 1 0.0 1 6 7 0 2 2 1 1 -
+p716
+aVMatt Fish LAC 12/07/1994 LAC vs. MIL W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p717
+aVRandy Woods LAC 12/07/1994 LAC vs. MIL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -
+p718
+aVMalik Sealy LAC 12/07/1994 LAC vs. MIL W 15 2 1 8 12.5 0 0 - 0 0 - 0 3 3 1 0 1 1 1 -
+p719
+aVPooh Richardson LAC 12/05/1994 LAC vs. CHH L 24 10 4 9 44.4 1 2 50.0 1 3 33.3 0 1 1 6 0 0 3 2 -
+p720
+aVMatt Fish LAC 12/05/1994 LAC vs. CHH L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 5 -
+p721
+aVMalik Sealy LAC 12/05/1994 LAC vs. CHH L 26 9 4 11 36.4 1 3 33.3 0 0 - 1 2 3 1 2 0 2 0 -
+p722
+aVBo Outlaw LAC 12/05/1994 LAC vs. CHH L 18 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 1 2 0 4 -
+p723
+aVEric Piatkowski LAC 12/05/1994 LAC vs. CHH L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p724
+aVLamond Murray LAC 12/05/1994 LAC vs. CHH L 27 14 5 11 45.5 0 3 0.0 4 5 80.0 1 1 2 2 0 0 3 2 -
+p725
+aVBob Martin LAC 12/05/1994 LAC vs. CHH L 14 2 1 5 20.0 0 0 - 0 0 - 2 0 2 1 0 1 0 2 -
+p726
+aVTony Massenburg LAC 12/05/1994 LAC vs. CHH L 31 9 3 7 42.9 0 0 - 3 6 50.0 2 3 5 1 0 1 0 2 -
+p727
+aVHarold Ellis LAC 12/05/1994 LAC vs. CHH L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 2 1 0 0 -
+p728
+aVTerry Dehere LAC 12/05/1994 LAC vs. CHH L 25 13 6 13 46.2 1 3 33.3 0 0 - 0 2 2 3 1 0 4 3 -
+p729
+aVLAC 12/05/1994 LAC vs. CHH L 37 12 5 10 50.0 0 0 - 2 4 50.0 1 7 8 0 2 0 2 2 -
+p730
+aVRandy Woods LAC 12/05/1994 LAC vs. CHH L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 4 2 0 1 2 -
+p731
+aVHarold Ellis LAC 12/03/1994 LAC vs. MIN L 13 7 3 7 42.9 0 0 - 1 3 33.3 2 0 2 1 1 0 1 2 -
+p732
+aVMalik Sealy LAC 12/03/1994 LAC vs. MIN L 15 11 4 7 57.1 0 2 0.0 3 4 75.0 0 0 0 1 1 0 1 0 -
+p733
+aVLamond Murray LAC 12/03/1994 LAC vs. MIN L 19 23 7 11 63.6 4 6 66.7 5 6 83.3 2 3 5 2 1 1 1 2 -
+p734
+aVEric Piatkowski LAC 12/03/1994 LAC vs. MIN L 7 0 0 4 0.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 2 -
+p735
+aVTony Massenburg LAC 12/03/1994 LAC vs. MIN L 26 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 1 2 3 3 -
+p736
+aVMatt Fish LAC 12/03/1994 LAC vs. MIN L 27 6 2 7 28.6 0 0 - 2 2 100.0 5 4 9 3 1 0 3 6 -
+p737
+aVBo Outlaw LAC 12/03/1994 LAC vs. MIN L 23 4 2 3 66.7 0 0 - 0 0 - 1 3 4 2 1 4 0 6 -
+p738
+aVTerry Dehere LAC 12/03/1994 LAC vs. MIN L 27 11 5 8 62.5 0 1 0.0 1 3 33.3 0 2 2 4 1 0 4 2 -
+p739
+aVPooh Richardson LAC 12/03/1994 LAC vs. MIN L 33 7 2 8 25.0 1 4 25.0 2 2 100.0 0 0 0 8 0 0 1 0 -
+p740
+aVRandy Woods LAC 12/03/1994 LAC vs. MIN L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -
+p741
+aVLAC 12/03/1994 LAC vs. MIN L 43 20 10 20 50.0 0 0 - 0 1 0.0 1 5 6 1 1 0 2 1 -
+p742
+aVLAC 12/01/1994 LAC vs. IND L 41 16 6 10 60.0 0 0 - 4 8 50.0 6 3 9 1 2 0 2 2 -
+p743
+aVMalik Sealy LAC 12/01/1994 LAC vs. IND L 14 5 2 9 22.2 0 0 - 1 2 50.0 1 1 2 0 1 0 0 3 -
+p744
+aVElmore Spencer LAC 12/01/1994 LAC vs. IND L 3 2 0 0 - 0 0 - 2 4 50.0 0 0 0 1 1 0 0 3 -
+p745
+aVEric Piatkowski LAC 12/01/1994 LAC vs. IND L 5 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 -
+p746
+aVHarold Ellis LAC 12/01/1994 LAC vs. IND L 11 7 2 4 50.0 0 1 0.0 3 3 100.0 1 1 2 1 1 0 2 1 -
+p747
+aVTerry Dehere LAC 12/01/1994 LAC vs. IND L 25 16 2 10 20.0 0 2 0.0 12 14 85.7 1 0 1 1 1 0 2 1 -
+p748
+aVLamond Murray LAC 12/01/1994 LAC vs. IND L 18 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p749
+aVMatt Fish LAC 12/01/1994 LAC vs. IND L 22 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 1 1 1 4 -
+p750
+aVRandy Woods LAC 12/01/1994 LAC vs. IND L 13 7 3 4 75.0 0 1 0.0 1 2 50.0 0 0 0 0 2 0 2 1 -
+p751
+aVBo Outlaw LAC 12/01/1994 LAC vs. IND L 23 4 2 2 100.0 0 0 - 0 2 0.0 3 4 7 1 1 2 2 2 -
+p752
+aVTony Massenburg LAC 12/01/1994 LAC vs. IND L 30 5 1 8 12.5 0 0 - 3 6 50.0 1 5 6 1 3 1 1 3 -
+p753
+aVPooh Richardson LAC 12/01/1994 LAC vs. IND L 35 17 6 19 31.6 1 2 50.0 4 4 100.0 0 1 1 4 3 0 4 3 -
+p754
+aVEric Piatkowski LAC 11/29/1994 LAC @ GOS L 9 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 0 0 2 -
+p755
+aVTerry Dehere LAC 11/29/1994 LAC @ GOS L 39 18 6 17 35.3 1 6 16.7 5 7 71.4 0 6 6 7 1 0 1 4 -
+p756
+aVMalik Sealy LAC 11/29/1994 LAC @ GOS L 17 8 4 12 33.3 0 2 0.0 0 0 - 0 2 2 3 1 0 2 4 -
+p757
+aVLAC 11/29/1994 LAC @ GOS L 28 15 7 15 46.7 0 0 - 1 1 100.0 4 4 8 3 0 2 2 4 -
+p758
+aVLamond Murray LAC 11/29/1994 LAC @ GOS L 43 19 7 16 43.8 2 6 33.3 3 3 100.0 3 3 6 5 1 2 1 3 -
+p759
+aVRandy Woods LAC 11/29/1994 LAC @ GOS L 5 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 0 2 -
+p760
+aVElmore Spencer LAC 11/29/1994 LAC @ GOS L 15 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 0 1 0 4 4 -
+p761
+aVPooh Richardson LAC 11/29/1994 LAC @ GOS L 44 17 5 19 26.3 2 9 22.2 5 6 83.3 1 5 6 15 2 0 1 5 -
+p762
+aVMatt Fish LAC 11/29/1994 LAC @ GOS L 9 8 4 5 80.0 0 0 - 0 0 - 2 4 6 0 0 0 2 5 -
+p763
+aVHarold Ellis LAC 11/29/1994 LAC @ GOS L 6 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 3 -
+p764
+aVTony Massenburg LAC 11/29/1994 LAC @ GOS L 41 17 8 14 57.1 0 0 - 1 2 50.0 6 10 16 0 2 0 3 6 -
+p765
+aVBo Outlaw LAC 11/29/1994 LAC @ GOS L 9 8 3 5 60.0 0 0 - 2 2 100.0 3 2 5 0 1 2 1 2 -
+p766
+aVEric Piatkowski LAC 11/25/1994 LAC vs. NJN L 9 5 2 6 33.3 1 1 100.0 0 0 - 1 1 2 2 1 0 0 0 -
+p767
+aVLAC 11/25/1994 LAC vs. NJN L 31 21 9 11 81.8 0 0 - 3 4 75.0 3 2 5 2 1 0 1 2 -
+p768
+aVLamond Murray LAC 11/25/1994 LAC vs. NJN L 20 9 4 9 44.4 1 3 33.3 0 0 - 1 1 2 2 0 0 0 2 -
+p769
+aVElmore Spencer LAC 11/25/1994 LAC vs. NJN L 22 6 2 5 40.0 0 1 0.0 2 2 100.0 0 4 4 2 0 2 5 4 -
+p770
+aVRandy Woods LAC 11/25/1994 LAC vs. NJN L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 2 -
+p771
+aVTerry Dehere LAC 11/25/1994 LAC vs. NJN L 18 8 3 9 33.3 2 3 66.7 0 0 - 1 1 2 0 2 0 2 0 -
+p772
+aVHarold Ellis LAC 11/25/1994 LAC vs. NJN L 21 24 9 10 90.0 0 0 - 6 9 66.7 2 3 5 1 3 0 1 5 -
+p773
+aVMalik Sealy LAC 11/25/1994 LAC vs. NJN L 22 7 2 5 40.0 0 0 - 3 7 42.9 0 2 2 1 0 0 2 1 -
+p774
+aVTony Massenburg LAC 11/25/1994 LAC vs. NJN L 29 6 3 10 30.0 0 0 - 0 0 - 0 7 7 1 1 0 3 4 -
+p775
+aVMatt Fish LAC 11/25/1994 LAC vs. NJN L 26 8 4 6 66.7 0 0 - 0 0 - 2 4 6 1 3 1 1 2 -
+p776
+aVPooh Richardson LAC 11/25/1994 LAC vs. NJN L 35 6 3 11 27.3 0 0 - 0 0 - 0 0 0 11 2 1 3 4 -
+p777
+aVTerry Dehere LAC 11/23/1994 LAC @ PHX L 26 16 5 11 45.5 4 9 44.4 2 2 100.0 2 1 3 3 1 0 5 4 -
+p778
+aVPooh Richardson LAC 11/23/1994 LAC @ PHX L 28 5 2 6 33.3 0 3 0.0 1 3 33.3 0 1 1 8 1 0 0 1 -
+p779
+aVTony Massenburg LAC 11/23/1994 LAC @ PHX L 31 13 6 11 54.5 0 0 - 1 2 50.0 1 9 10 1 0 0 1 4 -
+p780
+aVMalik Sealy LAC 11/23/1994 LAC @ PHX L 20 17 7 12 58.3 1 4 25.0 2 2 100.0 0 3 3 4 4 0 2 2 -
+p781
+aVElmore Spencer LAC 11/23/1994 LAC @ PHX L 19 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 0 1 2 3 -
+p782
+aVRandy Woods LAC 11/23/1994 LAC @ PHX L 12 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 7 0 0 1 1 -
+p783
+aVLamond Murray LAC 11/23/1994 LAC @ PHX L 28 30 12 22 54.5 2 4 50.0 4 5 80.0 3 0 3 0 3 0 1 3 -
+p784
+aVLAC 11/23/1994 LAC @ PHX L 35 15 7 10 70.0 0 0 - 1 2 50.0 4 4 8 4 2 0 3 6 -
+p785
+aVMatt Fish LAC 11/23/1994 LAC @ PHX L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p786
+aVBo Outlaw LAC 11/23/1994 LAC @ PHX L 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -
+p787
+aVHarold Ellis LAC 11/23/1994 LAC @ PHX L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -
+p788
+aVEric Piatkowski LAC 11/23/1994 LAC @ PHX L 11 0 0 3 0.0 0 3 0.0 0 0 - 1 0 1 1 1 0 1 1 -
+p789
+aVMalik Sealy LAC 11/22/1994 LAC vs. CHI L 17 8 3 8 37.5 0 3 0.0 2 4 50.0 0 2 2 1 1 0 2 2 -
+p790
+aVLamond Murray LAC 11/22/1994 LAC vs. CHI L 23 16 6 9 66.7 2 3 66.7 2 4 50.0 0 3 3 0 1 0 0 3 -
+p791
+aVTony Massenburg LAC 11/22/1994 LAC vs. CHI L 35 11 5 8 62.5 0 0 - 1 2 50.0 3 7 10 2 1 0 0 3 -
+p792
+aVEric Piatkowski LAC 11/22/1994 LAC vs. CHI L 6 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -
+p793
+aVTerry Dehere LAC 11/22/1994 LAC vs. CHI L 21 9 2 10 20.0 1 3 33.3 4 4 100.0 2 1 3 2 0 0 1 2 -
+p794
+aVMatt Fish LAC 11/22/1994 LAC vs. CHI L 24 10 4 8 50.0 0 0 - 2 5 40.0 3 3 6 0 2 0 1 2 -
+p795
+aVHarold Ellis LAC 11/22/1994 LAC vs. CHI L 6 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p796
+aVRandy Woods LAC 11/22/1994 LAC vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -
+p797
+aVPooh Richardson LAC 11/22/1994 LAC vs. CHI L 43 14 6 17 35.3 0 4 0.0 2 2 100.0 2 2 4 10 1 0 5 3 -
+p798
+aVElmore Spencer LAC 11/22/1994 LAC vs. CHI L 19 4 2 8 25.0 0 0 - 0 0 - 1 3 4 3 0 1 4 4 -
+p799
+aVBo Outlaw LAC 11/22/1994 LAC vs. CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p800
+aVLAC 11/22/1994 LAC vs. CHI L 39 15 7 13 53.8 0 0 - 1 2 50.0 7 4 11 0 0 1 4 3 -
+p801
+aVPooh Richardson LAC 11/20/1994 LAC @ NJN L 44 19 8 21 38.1 2 5 40.0 1 1 100.0 2 5 7 12 1 0 4 4 -
+p802
+aVMatt Fish LAC 11/20/1994 LAC @ NJN L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 1 1 4 -
+p803
+aVLamond Murray LAC 11/20/1994 LAC @ NJN L 11 11 5 8 62.5 1 2 50.0 0 0 - 1 1 2 0 0 0 1 0 -
+p804
+aVElmore Spencer LAC 11/20/1994 LAC @ NJN L 33 15 6 11 54.5 0 0 - 3 4 75.0 2 8 10 1 2 4 2 4 -
+p805
+aVLAC 11/20/1994 LAC @ NJN L 37 10 5 20 25.0 0 0 - 0 0 - 5 3 8 0 3 0 4 1 -
+p806
+aVMalik Sealy LAC 11/20/1994 LAC @ NJN L 11 4 2 6 33.3 0 1 0.0 0 0 - 2 1 3 1 0 0 0 4 -
+p807
+aVTerry Dehere LAC 11/20/1994 LAC @ NJN L 37 16 6 18 33.3 3 6 50.0 1 3 33.3 2 2 4 2 3 0 1 4 -
+p808
+aVTony Massenburg LAC 11/20/1994 LAC @ NJN L 37 16 7 13 53.8 0 0 - 2 2 100.0 8 2 10 0 1 1 1 3 -
+p809
+aVRandy Woods LAC 11/20/1994 LAC @ NJN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p810
+aVBo Outlaw LAC 11/20/1994 LAC @ NJN L 13 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 1 0 3 -
+p811
+aVMalik Sealy LAC 11/18/1994 LAC @ PHL L 16 7 3 6 50.0 1 2 50.0 0 0 - 1 2 3 1 1 0 0 0 -
+p812
+aVMatt Fish LAC 11/18/1994 LAC @ PHL L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -
+p813
+aVLamond Murray LAC 11/18/1994 LAC @ PHL L 9 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 1 0 2 1 1 -
+p814
+aVElmore Spencer LAC 11/18/1994 LAC @ PHL L 16 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 1 4 2 -
+p815
+aVEric Piatkowski LAC 11/18/1994 LAC @ PHL L 21 11 4 13 30.8 2 8 25.0 1 2 50.0 2 2 4 2 1 0 0 5 -
+p816
+aVRandy Woods LAC 11/18/1994 LAC @ PHL L 19 6 2 7 28.6 1 6 16.7 1 2 50.0 0 3 3 4 1 0 2 2 -
+p817
+aVTony Massenburg LAC 11/18/1994 LAC @ PHL L 23 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 0 1 0 2 4 -
+p818
+aVLAC 11/18/1994 LAC @ PHL L 42 14 7 15 46.7 0 1 0.0 0 0 - 6 8 14 1 0 0 2 3 -
+p819
+aVBo Outlaw LAC 11/18/1994 LAC @ PHL L 26 10 5 8 62.5 0 0 - 0 0 - 3 3 6 1 2 3 0 2 -
+p820
+aVPooh Richardson LAC 11/18/1994 LAC @ PHL L 29 11 5 16 31.3 0 5 0.0 1 2 50.0 0 9 9 6 0 0 2 2 -
+p821
+aVTerry Dehere LAC 11/18/1994 LAC @ PHL L 32 12 3 7 42.9 1 3 33.3 5 7 71.4 0 3 3 3 0 0 2 4 -
+p822
+aVEric Piatkowski LAC 11/17/1994 LAC @ CHH L 9 5 2 4 50.0 1 3 33.3 0 1 0.0 0 1 1 1 0 0 0 0 -
+p823
+aVHarold Ellis LAC 11/17/1994 LAC @ CHH L 3 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -
+p824
+aVRandy Woods LAC 11/17/1994 LAC @ CHH L 18 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 5 2 0 2 2 -
+p825
+aVMatt Fish LAC 11/17/1994 LAC @ CHH L 10 1 0 5 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 1 2 -
+p826
+aVMalik Sealy LAC 11/17/1994 LAC @ CHH L 27 10 5 11 45.5 0 0 - 0 2 0.0 1 3 4 1 0 0 1 4 -
+p827
+aVTerry Dehere LAC 11/17/1994 LAC @ CHH L 18 10 4 8 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 4 -
+p828
+aVElmore Spencer LAC 11/17/1994 LAC @ CHH L 29 12 5 11 45.5 0 0 - 2 5 40.0 0 0 0 0 3 0 4 5 -
+p829
+aVTony Massenburg LAC 11/17/1994 LAC @ CHH L 25 10 4 10 40.0 0 2 0.0 2 4 50.0 0 4 4 2 0 0 2 5 -
+p830
+aVLAC 11/17/1994 LAC @ CHH L 26 8 4 8 50.0 0 0 - 0 0 - 4 1 5 1 1 0 3 3 -
+p831
+aVLamond Murray LAC 11/17/1994 LAC @ CHH L 17 7 3 9 33.3 1 2 50.0 0 3 0.0 1 3 4 0 0 0 1 2 -
+p832
+aVPooh Richardson LAC 11/17/1994 LAC @ CHH L 30 4 2 7 28.6 0 0 - 0 0 - 0 2 2 6 1 0 4 2 -
+p833
+aVBo Outlaw LAC 11/17/1994 LAC @ CHH L 28 7 2 7 28.6 0 0 - 3 6 50.0 4 6 10 0 0 2 1 1 -
+p834
+aVEric Piatkowski LAC 11/15/1994 LAC vs. LAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p835
+aVHarold Ellis LAC 11/15/1994 LAC vs. LAL L 22 13 6 11 54.5 0 1 0.0 1 3 33.3 1 2 3 2 4 0 1 2 -
+p836
+aVElmore Spencer LAC 11/15/1994 LAC vs. LAL L 23 9 3 7 42.9 0 0 - 3 5 60.0 1 3 4 2 0 2 4 4 -
+p837
+aVBo Outlaw LAC 11/15/1994 LAC vs. LAL L 14 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 0 1 2 0 3 -
+p838
+aVMatt Fish LAC 11/15/1994 LAC vs. LAL L 25 8 3 5 60.0 0 0 - 2 2 100.0 3 2 5 4 1 0 0 3 -
+p839
+aVTony Massenburg LAC 11/15/1994 LAC vs. LAL L 32 13 3 9 33.3 0 0 - 7 11 63.6 3 4 7 2 1 3 2 0 -
+p840
+aVPooh Richardson LAC 11/15/1994 LAC vs. LAL L 33 9 4 14 28.6 1 3 33.3 0 0 - 0 2 2 6 3 0 1 3 -
+p841
+aVLamond Murray LAC 11/15/1994 LAC vs. LAL L 9 4 2 6 33.3 0 0 - 0 0 - 0 1 1 4 1 0 0 1 -
+p842
+aVTerry Dehere LAC 11/15/1994 LAC vs. LAL L 31 15 4 13 30.8 1 4 25.0 6 6 100.0 1 2 3 0 0 0 3 4 -
+p843
+aVLAC 11/15/1994 LAC vs. LAL L 34 14 7 14 50.0 0 0 - 0 0 - 5 7 12 0 0 0 2 3 -
+p844
+aVRandy Woods LAC 11/15/1994 LAC vs. LAL L 15 5 1 3 33.3 1 3 33.3 2 2 100.0 1 1 2 5 1 0 4 0 -
+p845
+aVMatt Fish LAC 11/13/1994 LAC @ SEA L 15 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 4 -
+p846
+aVPooh Richardson LAC 11/13/1994 LAC @ SEA L 37 9 4 13 30.8 1 3 33.3 0 0 - 1 0 1 5 0 0 3 4 -
+p847
+aVLAC 11/13/1994 LAC @ SEA L 36 23 11 12 91.7 0 0 - 1 2 50.0 4 5 9 1 1 4 5 3 -
+p848
+aVBo Outlaw LAC 11/13/1994 LAC @ SEA L 17 1 0 2 0.0 0 0 - 1 4 25.0 0 1 1 0 1 1 0 3 -
+p849
+aVLamond Murray LAC 11/13/1994 LAC @ SEA L 19 5 2 6 33.3 0 1 0.0 1 2 50.0 1 0 1 0 0 0 2 3 -
+p850
+aVEric Piatkowski LAC 11/13/1994 LAC @ SEA L 10 3 1 5 20.0 1 3 33.3 0 0 - 1 0 1 0 0 0 1 1 -
+p851
+aVTony Massenburg LAC 11/13/1994 LAC @ SEA L 26 10 2 3 66.7 0 0 - 6 6 100.0 2 3 5 1 1 1 3 3 -
+p852
+aVElmore Spencer LAC 11/13/1994 LAC @ SEA L 21 2 1 6 16.7 0 0 - 0 4 0.0 0 6 6 5 1 0 1 4 -
+p853
+aVRandy Woods LAC 11/13/1994 LAC @ SEA L 11 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 3 0 0 0 2 -
+p854
+aVTerry Dehere LAC 11/13/1994 LAC @ SEA L 33 24 7 15 46.7 2 7 28.6 8 11 72.7 0 5 5 2 0 0 3 3 -
+p855
+aVHarold Ellis LAC 11/13/1994 LAC @ SEA L 15 7 2 5 40.0 0 0 - 3 10 30.0 4 0 4 0 3 1 0 3 -
+p856
+aVTony Massenburg LAC 11/12/1994 LAC vs. PHX L 28 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 0 1 2 0 4 -
+p857
+aVRandy Woods LAC 11/12/1994 LAC vs. PHX L 10 0 0 0 - 0 0 - 0 0 - 1 2 3 4 0 0 1 4 -
+p858
+aVEric Piatkowski LAC 11/12/1994 LAC vs. PHX L 8 8 2 3 66.7 2 2 100.0 2 2 100.0 1 1 2 0 1 1 0 3 -
+p859
+aVLAC 11/12/1994 LAC vs. PHX L 29 15 6 15 40.0 0 1 0.0 3 5 60.0 2 6 8 0 2 0 3 5 -
+p860
+aVBo Outlaw LAC 11/12/1994 LAC vs. PHX L 20 11 4 6 66.7 0 0 - 3 7 42.9 2 3 5 1 3 3 2 2 -
+p861
+aVTerry Dehere LAC 11/12/1994 LAC vs. PHX L 39 19 6 17 35.3 4 10 40.0 3 7 42.9 0 4 4 6 0 0 3 5 -
+p862
+aVElmore Spencer LAC 11/12/1994 LAC vs. PHX L 26 4 2 8 25.0 0 0 - 0 0 - 0 3 3 1 3 0 3 5 -
+p863
+aVLamond Murray LAC 11/12/1994 LAC vs. PHX L 22 15 7 13 53.8 0 2 0.0 1 1 100.0 1 2 3 0 1 0 1 1 -
+p864
+aVPooh Richardson LAC 11/12/1994 LAC vs. PHX L 38 16 7 14 50.0 1 3 33.3 1 3 33.3 1 3 4 9 4 0 2 3 -
+p865
+aVMatt Fish LAC 11/12/1994 LAC vs. PHX L 9 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 1 -
+p866
+aVHarold Ellis LAC 11/12/1994 LAC vs. PHX L 11 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 1 0 1 1 -
+p867
+aVTerry Dehere LAC 11/10/1994 LAC vs. ATL L 21 7 2 8 25.0 0 1 0.0 3 4 75.0 0 1 1 5 0 0 1 3 -
+p868
+aVHarold Ellis LAC 11/10/1994 LAC vs. ATL L 17 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 2 0 5 2 -
+p869
+aVBo Outlaw LAC 11/10/1994 LAC vs. ATL L 8 7 2 2 100.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 2 -
+p870
+aVMalik Sealy LAC 11/10/1994 LAC vs. ATL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -
+p871
+aVMatt Fish LAC 11/10/1994 LAC vs. ATL L 26 10 3 8 37.5 0 0 - 4 6 66.7 1 5 6 0 1 0 4 3 -
+p872
+aVRandy Woods LAC 11/10/1994 LAC vs. ATL L 13 4 0 3 0.0 0 2 0.0 4 6 66.7 0 1 1 4 1 0 1 3 -
+p873
+aVElmore Spencer LAC 11/10/1994 LAC vs. ATL L 13 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 0 0 5 -
+p874
+aVEric Piatkowski LAC 11/10/1994 LAC vs. ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p875
+aVPooh Richardson LAC 11/10/1994 LAC vs. ATL L 35 14 6 13 46.2 2 2 100.0 0 0 - 0 0 0 5 2 0 2 3 -
+p876
+aVTony Massenburg LAC 11/10/1994 LAC vs. ATL L 37 12 6 12 50.0 0 0 - 0 0 - 2 2 4 3 1 2 1 5 -
+p877
+aVLAC 11/10/1994 LAC vs. ATL L 36 20 8 15 53.3 0 1 0.0 4 7 57.1 5 7 12 3 1 0 3 3 -
+p878
+aVLamond Murray LAC 11/10/1994 LAC vs. ATL L 24 12 5 9 55.6 0 2 0.0 2 2 100.0 2 0 2 0 0 1 3 2 -
+p879
+aVHarold Ellis LAC 11/05/1994 LAC @ POR L 16 2 1 7 14.3 0 1 0.0 0 2 0.0 3 1 4 2 1 0 1 1 -
+p880
+aVBo Outlaw LAC 11/05/1994 LAC @ POR L 7 3 1 2 50.0 0 0 - 1 2 50.0 3 0 3 0 2 0 1 1 -
+p881
+aVRandy Woods LAC 11/05/1994 LAC @ POR L 7 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 2 0 1 3 -
+p882
+aVLamond Murray LAC 11/05/1994 LAC @ POR L 22 7 3 11 27.3 1 3 33.3 0 1 0.0 2 1 3 1 1 0 5 1 -
+p883
+aVPooh Richardson LAC 11/05/1994 LAC @ POR L 29 5 2 8 25.0 1 1 100.0 0 0 - 0 2 2 4 2 0 2 3 -
+p884
+aVEric Piatkowski LAC 11/05/1994 LAC @ POR L 11 9 3 6 50.0 1 1 100.0 2 4 50.0 2 2 4 1 0 0 1 3 -
+p885
+aVTony Massenburg LAC 11/05/1994 LAC @ POR L 35 16 7 11 63.6 0 0 - 2 2 100.0 5 8 13 1 1 1 1 2 -
+p886
+aVMalik Sealy LAC 11/05/1994 LAC @ POR L 12 8 2 3 66.7 1 1 100.0 3 5 60.0 1 1 2 3 1 0 2 1 -
+p887
+aVTerry Dehere LAC 11/05/1994 LAC @ POR L 24 16 6 9 66.7 0 2 0.0 4 6 66.7 0 0 0 2 1 0 3 4 -
+p888
+aVLAC 11/05/1994 LAC @ POR L 33 12 4 11 36.4 0 0 - 4 6 66.7 2 1 3 1 0 0 1 3 -
+p889
+aVElmore Spencer LAC 11/05/1994 LAC @ POR L 20 10 5 8 62.5 0 0 - 0 0 - 2 4 6 2 0 0 3 3 -
+p890
+aVMatt Fish LAC 11/05/1994 LAC @ POR L 24 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 1 4 2 -
+p891
+aVPooh Richardson LAC 11/04/1994 LAC vs. POR L 27 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 5 0 0 2 5 -
+p892
+aVElmore Spencer LAC 11/04/1994 LAC vs. POR L 28 11 4 11 36.4 0 0 - 3 6 50.0 2 2 4 2 0 3 3 3 -
+p893
+aVTony Massenburg LAC 11/04/1994 LAC vs. POR L 26 13 5 11 45.5 0 0 - 3 4 75.0 5 7 12 0 0 3 2 4 -
+p894
+aVTerry Dehere LAC 11/04/1994 LAC vs. POR L 28 19 5 12 41.7 1 2 50.0 8 8 100.0 0 1 1 6 1 0 4 3 -
+p895
+aVMalik Sealy LAC 11/04/1994 LAC vs. POR L 14 6 0 0 - 0 0 - 6 6 100.0 0 1 1 1 0 0 2 1 -
+p896
+aVMatt Fish LAC 11/04/1994 LAC vs. POR L 20 10 4 6 66.7 0 0 - 2 3 66.7 0 4 4 0 2 0 0 4 -
+p897
+aVBo Outlaw LAC 11/04/1994 LAC vs. POR L 13 0 0 7 0.0 0 0 - 0 2 0.0 1 2 3 0 1 1 1 2 -
+p898
+aVEric Piatkowski LAC 11/04/1994 LAC vs. POR L 13 4 1 7 14.3 0 3 0.0 2 2 100.0 1 1 2 1 0 1 0 4 -
+p899
+aVHarold Ellis LAC 11/04/1994 LAC vs. POR L 13 2 1 6 16.7 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -
+p900
+aVLAC 11/04/1994 LAC vs. POR L 30 16 6 9 66.7 0 0 - 4 4 100.0 2 3 5 1 1 1 1 4 -
+p901
+aVLamond Murray LAC 11/04/1994 LAC vs. POR L 15 9 3 7 42.9 1 1 100.0 2 5 40.0 1 2 3 0 1 0 2 3 -
+p902
+aVRandy Woods LAC 11/04/1994 LAC vs. POR L 13 1 0 1 0.0 0 1 0.0 1 3 33.3 0 1 1 1 1 0 0 3 -
+p903
+a.

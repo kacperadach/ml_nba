@@ -1,0 +1,1608 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChris Wright MIL 04/16/2014 MIL vs. ATL L 18 6 3 7 42.9 0 0 - 0 0 - 2 3 5 0 0 1 0 0 -6
+p2
+aVGiannis Antetokounmpo MIL 04/16/2014 MIL vs. ATL L 26 10 4 6 66.7 2 3 66.7 0 0 - 1 4 5 3 0 1 1 5 4
+p3
+aVJeff Adrien MIL 04/16/2014 MIL vs. ATL L 34 8 3 5 60.0 0 0 - 2 4 50.0 2 5 7 4 1 0 3 1 -3
+p4
+aVJohn Henson MIL 04/16/2014 MIL vs. ATL L 34 19 8 13 61.5 0 0 - 3 5 60.0 1 4 5 3 3 2 4 1 -1
+p5
+aVZaza Pachulia MIL 04/16/2014 MIL vs. ATL L 21 7 2 5 40.0 0 0 - 3 4 75.0 2 4 6 4 0 0 3 3 -8
+p6
+aVRamon Sessions MIL 04/16/2014 MIL vs. ATL L 30 6 2 6 33.3 0 3 0.0 2 2 100.0 0 1 1 6 1 1 3 1 -14
+p7
+aVKhris Middleton MIL 04/16/2014 MIL vs. ATL L 37 16 6 17 35.3 2 6 33.3 2 2 100.0 1 6 7 1 0 0 3 5 -6
+p8
+aVBrandon Knight MIL 04/16/2014 MIL vs. ATL L 40 31 12 18 66.7 3 6 50.0 4 4 100.0 2 5 7 4 0 0 3 5 -6
+p9
+aVGiannis Antetokounmpo MIL 04/14/2014 MIL @ TOR L 24 5 1 3 33.3 1 1 100.0 2 2 100.0 0 4 4 3 1 0 1 1 3
+p10
+aVChris Wright MIL 04/14/2014 MIL @ TOR L 10 4 2 3 66.7 0 0 - 0 2 0.0 0 0 0 0 0 0 1 2 -11
+p11
+aVRamon Sessions MIL 04/14/2014 MIL @ TOR L 40 21 7 13 53.8 2 2 100.0 5 6 83.3 1 1 2 5 1 0 4 1 -8
+p12
+aVZaza Pachulia MIL 04/14/2014 MIL @ TOR L 17 6 3 5 60.0 0 0 - 0 0 - 1 3 4 3 0 1 1 2 -9
+p13
+aVJohn Henson MIL 04/14/2014 MIL @ TOR L 27 12 5 8 62.5 0 0 - 2 2 100.0 2 5 7 2 0 1 3 3 -6
+p14
+aVJeff Adrien MIL 04/14/2014 MIL @ TOR L 40 19 9 16 56.3 0 0 - 1 3 33.3 1 8 9 0 1 0 0 3 -4
+p15
+aVKhris Middleton MIL 04/14/2014 MIL @ TOR L 36 15 4 8 50.0 2 3 66.7 5 7 71.4 0 3 3 4 2 0 3 4 -11
+p16
+aVBrandon Knight MIL 04/14/2014 MIL @ TOR L 43 18 7 17 41.2 1 4 25.0 3 4 75.0 0 2 2 4 2 1 2 3 -9
+p17
+aVMiroslav Raduljica MIL 04/14/2014 MIL @ TOR L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 2 5
+p18
+aVMiroslav Raduljica MIL 04/12/2014 MIL @ WAS L 17 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 1 0 1 0 2 -10
+p19
+aVJeff Adrien MIL 04/12/2014 MIL @ WAS L 31 11 4 6 66.7 0 0 - 3 8 37.5 3 7 10 0 0 1 5 2 -5
+p20
+aVJohn Henson MIL 04/12/2014 MIL @ WAS L 24 13 6 10 60.0 0 0 - 1 2 50.0 1 6 7 2 1 0 3 3 -3
+p21
+aVZaza Pachulia MIL 04/12/2014 MIL @ WAS L 24 9 4 9 44.4 0 0 - 1 2 50.0 3 3 6 5 0 0 4 1 -8
+p22
+aVKhris Middleton MIL 04/12/2014 MIL @ WAS L 42 20 6 15 40.0 4 5 80.0 4 4 100.0 1 2 3 1 0 0 1 3 -14
+p23
+aVChris Wright MIL 04/12/2014 MIL @ WAS L 17 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 0 0 1 3 -6
+p24
+aVGiannis Antetokounmpo MIL 04/12/2014 MIL @ WAS L 43 8 3 5 60.0 1 1 100.0 1 4 25.0 2 6 8 2 3 1 4 1 -12
+p25
+aVRamon Sessions MIL 04/12/2014 MIL @ WAS L 42 20 6 16 37.5 0 2 0.0 8 10 80.0 1 0 1 8 1 0 2 1 -7
+p26
+aVChris Wright MIL 04/11/2014 MIL vs. CLE W 17 14 7 9 77.8 0 1 0.0 0 0 - 1 3 4 1 0 1 1 3 -2
+p27
+aVJohn Henson MIL 04/11/2014 MIL vs. CLE W 30 15 7 9 77.8 0 0 - 1 4 25.0 3 3 6 1 2 0 1 1 0
+p28
+aVRamon Sessions MIL 04/11/2014 MIL vs. CLE W 43 20 6 12 50.0 0 3 0.0 8 9 88.9 1 2 3 7 0 0 3 1 -10
+p29
+aVMiroslav Raduljica MIL 04/11/2014 MIL vs. CLE W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 1
+p30
+aVGiannis Antetokounmpo MIL 04/11/2014 MIL vs. CLE W 20 3 0 3 0.0 0 1 0.0 3 6 50.0 0 3 3 0 0 2 0 0 5
+p31
+aVJeff Adrien MIL 04/11/2014 MIL vs. CLE W 27 9 3 10 30.0 0 0 - 3 6 50.0 4 5 9 1 0 1 0 5 -6
+p32
+aVZaza Pachulia MIL 04/11/2014 MIL vs. CLE W 30 16 6 13 46.2 0 0 - 4 5 80.0 5 3 8 4 1 0 1 4 7
+p33
+aVBrandon Knight MIL 04/11/2014 MIL vs. CLE W 38 24 8 17 47.1 3 6 50.0 5 6 83.3 0 4 4 4 2 0 4 2 15
+p34
+aVKhris Middleton MIL 04/11/2014 MIL vs. CLE W 31 17 7 11 63.6 3 5 60.0 0 0 - 0 3 3 2 0 0 1 4 5
+p35
+aVChris Wright MIL 04/09/2014 MIL vs. IND L 15 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 2 2 2 4 -6
+p36
+aVZaza Pachulia MIL 04/09/2014 MIL vs. IND L 33 15 6 10 60.0 0 0 - 3 4 75.0 2 7 9 1 0 1 1 3 10
+p37
+aVJohn Henson MIL 04/09/2014 MIL vs. IND L 20 7 3 5 60.0 0 0 - 1 1 100.0 2 2 4 2 0 1 1 0 -9
+p38
+aVGiannis Antetokounmpo MIL 04/09/2014 MIL vs. IND L 21 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 1 0 2 2 -10
+p39
+aVJeff Adrien MIL 04/09/2014 MIL vs. IND L 37 13 6 14 42.9 0 0 - 1 2 50.0 6 11 17 1 2 1 0 4 5
+p40
+aVRamon Sessions MIL 04/09/2014 MIL vs. IND L 38 20 6 15 40.0 2 3 66.7 6 7 85.7 1 1 2 4 0 0 2 2 1
+p41
+aVBrandon Knight MIL 04/09/2014 MIL vs. IND L 39 25 8 21 38.1 1 7 14.3 8 12 66.7 0 4 4 10 0 0 1 0 -3
+p42
+aVKhris Middleton MIL 04/09/2014 MIL vs. IND L 36 16 6 14 42.9 1 5 20.0 3 3 100.0 1 6 7 2 1 0 2 5 2
+p43
+aVKhris Middleton MIL 04/05/2014 MIL vs. TOR L 34 20 6 9 66.7 0 2 0.0 8 8 100.0 1 0 1 3 0 0 2 6 -13
+p44
+aVJohn Henson MIL 04/05/2014 MIL vs. TOR L 39 23 10 16 62.5 0 0 - 3 4 75.0 3 6 9 6 1 3 1 3 7
+p45
+aVGiannis Antetokounmpo MIL 04/05/2014 MIL vs. TOR L 25 4 1 6 16.7 0 1 0.0 2 2 100.0 1 3 4 2 0 0 1 1 -4
+p46
+aVZaza Pachulia MIL 04/05/2014 MIL vs. TOR L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 4 -9
+p47
+aVJeff Adrien MIL 04/05/2014 MIL vs. TOR L 41 19 8 17 47.1 0 0 - 3 3 100.0 4 8 12 2 0 1 1 1 4
+p48
+aVChris Wright MIL 04/05/2014 MIL vs. TOR L 16 4 2 2 100.0 0 0 - 0 4 0.0 2 2 4 0 3 0 0 0 1
+p49
+aVBrandon Knight MIL 04/05/2014 MIL vs. TOR L 33 15 6 15 40.0 0 4 0.0 3 4 75.0 1 3 4 4 1 1 2 4 -10
+p50
+aVRamon Sessions MIL 04/05/2014 MIL vs. TOR L 43 13 5 13 38.5 1 2 50.0 2 2 100.0 0 3 3 10 0 0 1 2 4
+p51
+aVDJ Stephens MIL 04/04/2014 MIL @ CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p52
+aVGiannis Antetokounmpo MIL 04/04/2014 MIL @ CHI L 33 4 1 6 16.7 0 0 - 2 4 50.0 1 2 3 5 3 2 3 6 -2
+p53
+aVKhris Middleton MIL 04/04/2014 MIL @ CHI L 33 10 2 4 50.0 0 1 0.0 6 6 100.0 0 6 6 2 0 0 3 3 -15
+p54
+aVBrandon Knight MIL 04/04/2014 MIL @ CHI L 38 22 8 17 47.1 2 5 40.0 4 5 80.0 0 3 3 3 1 1 4 6 -9
+p55
+aVRamon Sessions MIL 04/04/2014 MIL @ CHI L 40 14 4 13 30.8 0 2 0.0 6 8 75.0 1 4 5 2 2 1 2 1 -10
+p56
+aVJeff Adrien MIL 04/04/2014 MIL @ CHI L 37 21 9 12 75.0 0 0 - 3 6 50.0 3 6 9 2 1 3 3 3 -8
+p57
+aVJohn Henson MIL 04/04/2014 MIL @ CHI L 19 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 0 0 1 3 2 -17
+p58
+aVZaza Pachulia MIL 04/04/2014 MIL @ CHI L 40 13 5 10 50.0 0 0 - 3 4 75.0 2 7 9 3 0 1 2 3 1
+p59
+aVEkpe Udoh MIL 04/02/2014 MIL @ MIA L 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -12
+p60
+aVBrandon Knight MIL 04/02/2014 MIL @ MIA L 42 11 4 11 36.4 2 8 25.0 1 1 100.0 1 4 5 2 1 1 5 2 -27
+p61
+aVDJ Stephens MIL 04/02/2014 MIL @ MIA L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p62
+aVKhris Middleton MIL 04/02/2014 MIL @ MIA L 33 4 2 10 20.0 0 5 0.0 0 0 - 1 3 4 2 1 0 3 4 -15
+p63
+aVRamon Sessions MIL 04/02/2014 MIL @ MIA L 45 19 6 12 50.0 1 4 25.0 6 6 100.0 0 3 3 6 1 0 5 1 -13
+p64
+aVMiroslav Raduljica MIL 04/02/2014 MIL @ MIA L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 8
+p65
+aVGiannis Antetokounmpo MIL 04/02/2014 MIL @ MIA L 22 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 1 0 1 1 1 -6
+p66
+aVJeff Adrien MIL 04/02/2014 MIL @ MIA L 34 14 7 15 46.7 0 0 - 0 0 - 1 6 7 2 0 1 2 2 -1
+p67
+aVJohn Henson MIL 04/02/2014 MIL @ MIA L 15 10 5 9 55.6 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -19
+p68
+aVZaza Pachulia MIL 04/02/2014 MIL @ MIA L 25 8 3 5 60.0 0 0 - 2 2 100.0 6 10 16 4 0 0 0 2 -14
+p69
+aVBrandon Knight MIL 03/31/2014 MIL @ DET L 38 25 7 21 33.3 0 4 0.0 11 14 78.6 3 6 9 7 0 0 0 3 -9
+p70
+aVJeff Adrien MIL 03/31/2014 MIL @ DET L 27 16 7 13 53.8 0 0 - 2 2 100.0 4 4 8 1 0 0 1 2 -10
+p71
+aVKhris Middleton MIL 03/31/2014 MIL @ DET L 32 14 6 16 37.5 2 7 28.6 0 0 - 0 1 1 1 2 1 2 3 -15
+p72
+aVZaza Pachulia MIL 03/31/2014 MIL @ DET L 35 12 6 13 46.2 0 0 - 0 0 - 7 6 13 6 0 3 3 2 -3
+p73
+aVRamon Sessions MIL 03/31/2014 MIL @ DET L 44 20 5 10 50.0 1 4 25.0 9 11 81.8 2 3 5 11 1 0 3 3 -6
+p74
+aVGiannis Antetokounmpo MIL 03/31/2014 MIL @ DET L 30 14 4 6 66.7 2 2 100.0 4 5 80.0 0 5 5 2 1 1 1 0 15
+p75
+aVEkpe Udoh MIL 03/31/2014 MIL @ DET L 17 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 3 2
+p76
+aVJohn Henson MIL 03/31/2014 MIL @ DET L 17 7 3 8 37.5 0 0 - 1 2 50.0 1 4 5 0 1 0 2 4 1
+p77
+aVGiannis Antetokounmpo MIL 03/29/2014 MIL vs. MIA L 22 1 0 5 0.0 0 1 0.0 1 2 50.0 1 3 4 2 0 1 2 2 -12
+p78
+aVBrandon Knight MIL 03/29/2014 MIL vs. MIA L 39 13 6 18 33.3 1 7 14.3 0 0 - 3 1 4 5 0 1 1 0 -19
+p79
+aVRamon Sessions MIL 03/29/2014 MIL vs. MIA L 41 15 5 15 33.3 1 4 25.0 4 5 80.0 0 4 4 3 1 1 4 0 -19
+p80
+aVMiroslav Raduljica MIL 03/29/2014 MIL vs. MIA L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 0
+p81
+aVJeff Adrien MIL 03/29/2014 MIL vs. MIA L 15 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 1 1 0 3 3 -5
+p82
+aVJohn Henson MIL 03/29/2014 MIL vs. MIA L 30 12 6 11 54.5 0 0 - 0 2 0.0 8 2 10 2 2 0 0 3 -14
+p83
+aVZaza Pachulia MIL 03/29/2014 MIL vs. MIA L 18 4 2 6 33.3 0 0 - 0 0 - 1 5 6 1 1 0 2 3 -9
+p84
+aVDJ Stephens MIL 03/29/2014 MIL vs. MIA L 12 5 2 5 40.0 0 0 - 1 1 100.0 1 3 4 0 0 0 0 0 -3
+p85
+aVEkpe Udoh MIL 03/29/2014 MIL vs. MIA L 22 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 1 1 1 1 -8
+p86
+aVKhris Middleton MIL 03/29/2014 MIL vs. MIA L 39 10 4 11 36.4 2 2 100.0 0 0 - 0 3 3 0 0 0 1 3 -16
+p87
+aVGiannis Antetokounmpo MIL 03/27/2014 MIL vs. LAL W 25 10 4 6 66.7 1 1 100.0 1 2 50.0 2 5 7 0 3 1 5 3 11
+p88
+aVJohn Henson MIL 03/27/2014 MIL vs. LAL W 26 10 3 6 50.0 0 0 - 4 7 57.1 3 4 7 1 2 1 2 3 -2
+p89
+aVBrandon Knight MIL 03/27/2014 MIL vs. LAL W 46 30 12 21 57.1 2 4 50.0 4 6 66.7 0 0 0 3 0 1 4 3 -2
+p90
+aVJeff Adrien MIL 03/27/2014 MIL vs. LAL W 32 8 3 8 37.5 0 0 - 2 3 66.7 1 8 9 2 0 2 1 3 2
+p91
+aVKhris Middleton MIL 03/27/2014 MIL vs. LAL W 31 14 6 9 66.7 2 3 66.7 0 0 - 1 2 3 1 2 0 3 3 -6
+p92
+aVEkpe Udoh MIL 03/27/2014 MIL vs. LAL W 16 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 3 1 3 -1
+p93
+aVZaza Pachulia MIL 03/27/2014 MIL vs. LAL W 21 10 4 6 66.7 0 0 - 2 2 100.0 1 1 2 2 2 0 1 3 7
+p94
+aVRamon Sessions MIL 03/27/2014 MIL vs. LAL W 42 22 5 10 50.0 1 2 50.0 11 14 78.6 1 2 3 5 0 0 1 0 6
+p95
+aVKhris Middleton MIL 03/24/2014 MIL @ LAC L 20 4 2 10 20.0 0 3 0.0 0 0 - 1 2 3 2 1 0 1 1 -6
+p96
+aVJohn Henson MIL 03/24/2014 MIL @ LAC L 19 10 4 5 80.0 0 0 - 2 5 40.0 2 5 7 2 1 0 0 3 0
+p97
+aVBrandon Knight MIL 03/24/2014 MIL @ LAC L 35 9 3 12 25.0 1 3 33.3 2 2 100.0 0 3 3 3 3 0 6 1 -14
+p98
+aVRamon Sessions MIL 03/24/2014 MIL @ LAC L 44 28 13 21 61.9 2 3 66.7 0 0 - 1 5 6 7 0 0 1 1 4
+p99
+aVO.J. Mayo MIL 03/24/2014 MIL @ LAC L 17 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 1 0 0 0 2 -6
+p100
+aVEkpe Udoh MIL 03/24/2014 MIL @ LAC L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 4
+p101
+aVJeff Adrien MIL 03/24/2014 MIL @ LAC L 32 14 4 11 36.4 0 0 - 6 6 100.0 3 4 7 2 0 0 1 4 -14
+p102
+aVZaza Pachulia MIL 03/24/2014 MIL @ LAC L 35 14 7 11 63.6 0 0 - 0 0 - 3 3 6 8 1 0 1 2 -6
+p103
+aVGiannis Antetokounmpo MIL 03/24/2014 MIL @ LAC L 28 9 4 4 100.0 0 0 - 1 3 33.3 1 2 3 1 0 1 0 4 -2
+p104
+aVChris Wright MIL 03/23/2014 MIL @ SAC L 26 9 4 5 80.0 0 0 - 1 3 33.3 2 2 4 3 1 1 0 4 8
+p105
+aVErsan Ilyasova MIL 03/23/2014 MIL @ SAC L 24 14 4 7 57.1 0 1 0.0 6 6 100.0 1 3 4 0 0 0 0 0 -11
+p106
+aVZaza Pachulia MIL 03/23/2014 MIL @ SAC L 20 8 4 8 50.0 0 0 - 0 2 0.0 3 0 3 0 0 0 2 5 -15
+p107
+aVKhris Middleton MIL 03/23/2014 MIL @ SAC L 24 7 3 8 37.5 1 4 25.0 0 0 - 2 3 5 0 0 0 0 2 -30
+p108
+aVJohn Henson MIL 03/23/2014 MIL @ SAC L 24 7 3 8 37.5 0 0 - 1 2 50.0 2 2 4 2 1 3 0 3 11
+p109
+aVMiroslav Raduljica MIL 03/23/2014 MIL @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -13
+p110
+aVBrandon Knight MIL 03/23/2014 MIL @ SAC L 23 6 2 12 16.7 0 4 0.0 2 3 66.7 0 2 2 7 0 2 3 2 -24
+p111
+aVO.J. Mayo MIL 03/23/2014 MIL @ SAC L 28 21 9 14 64.3 2 6 33.3 1 2 50.0 0 2 2 4 0 0 1 1 -1
+p112
+aVGiannis Antetokounmpo MIL 03/23/2014 MIL @ SAC L 23 9 3 7 42.9 1 2 50.0 2 2 100.0 1 5 6 2 0 0 2 4 -5
+p113
+aVJeff Adrien MIL 03/23/2014 MIL @ SAC L 24 13 4 8 50.0 0 0 - 5 8 62.5 0 4 4 1 1 0 0 5 -6
+p114
+aVRamon Sessions MIL 03/23/2014 MIL @ SAC L 20 13 6 8 75.0 0 1 0.0 1 2 50.0 0 5 5 6 0 0 3 2 1
+p115
+aVNate Wolters MIL 03/20/2014 MIL @ GSW L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -9
+p116
+aVZaza Pachulia MIL 03/20/2014 MIL @ GSW L 26 6 3 4 75.0 0 0 - 0 0 - 0 2 2 4 1 0 3 2 1
+p117
+aVJeff Adrien MIL 03/20/2014 MIL @ GSW L 23 11 5 6 83.3 0 0 - 1 2 50.0 1 5 6 1 0 0 0 0 1
+p118
+aVBrandon Knight MIL 03/20/2014 MIL @ GSW L 38 27 9 16 56.3 1 2 50.0 8 12 66.7 0 2 2 6 1 0 2 3 1
+p119
+aVJohn Henson MIL 03/20/2014 MIL @ GSW L 22 13 5 10 50.0 0 0 - 3 6 50.0 3 3 6 1 1 1 2 3 -4
+p120
+aVRamon Sessions MIL 03/20/2014 MIL @ GSW L 34 18 5 12 41.7 1 2 50.0 7 8 87.5 0 4 4 2 1 0 1 5 -3
+p121
+aVGiannis Antetokounmpo MIL 03/20/2014 MIL @ GSW L 30 11 3 6 50.0 0 2 0.0 5 6 83.3 0 8 8 4 1 0 1 1 -4
+p122
+aVErsan Ilyasova MIL 03/20/2014 MIL @ GSW L 19 11 4 9 44.4 0 2 0.0 3 3 100.0 0 3 3 0 0 0 0 3 -2
+p123
+aVKhris Middleton MIL 03/20/2014 MIL @ GSW L 38 11 4 14 28.6 1 3 33.3 2 2 100.0 2 2 4 4 2 0 1 4 -6
+p124
+aVJeff Adrien MIL 03/18/2014 MIL @ POR L 20 7 3 5 60.0 0 0 - 1 1 100.0 1 4 5 1 1 1 1 3 -9
+p125
+aVRamon Sessions MIL 03/18/2014 MIL @ POR L 35 23 8 16 50.0 1 2 50.0 6 9 66.7 0 5 5 5 1 0 2 2 -13
+p126
+aVErsan Ilyasova MIL 03/18/2014 MIL @ POR L 23 12 6 10 60.0 0 0 - 0 0 - 5 4 9 2 2 0 1 6 2
+p127
+aVJohn Henson MIL 03/18/2014 MIL @ POR L 16 6 3 5 60.0 0 0 - 0 2 0.0 0 1 1 2 0 1 2 3 -9
+p128
+aVZaza Pachulia MIL 03/18/2014 MIL @ POR L 37 17 7 14 50.0 0 0 - 3 3 100.0 6 7 13 3 4 0 3 1 4
+p129
+aVBrandon Knight MIL 03/18/2014 MIL @ POR L 37 24 8 20 40.0 3 7 42.9 5 7 71.4 0 8 8 4 2 1 4 5 -2
+p130
+aVKhris Middleton MIL 03/18/2014 MIL @ POR L 40 18 7 17 41.2 4 7 57.1 0 0 - 0 6 6 5 0 0 0 6 5
+p131
+aVGiannis Antetokounmpo MIL 03/18/2014 MIL @ POR L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -7
+p132
+aVNate Wolters MIL 03/18/2014 MIL @ POR L 38 4 1 5 20.0 0 0 - 2 4 50.0 0 4 4 6 0 0 5 3 4
+p133
+aVKhris Middleton MIL 03/16/2014 MIL vs. CHA L 32 8 3 12 25.0 2 7 28.6 0 0 - 1 1 2 0 0 0 1 1 -20
+p134
+aVGiannis Antetokounmpo MIL 03/16/2014 MIL vs. CHA L 22 2 0 4 0.0 0 1 0.0 2 2 100.0 0 3 3 1 2 2 2 2 8
+p135
+aVJohn Henson MIL 03/16/2014 MIL vs. CHA L 36 12 6 15 40.0 0 0 - 0 0 - 6 1 7 3 0 0 0 1 -13
+p136
+aVBrandon Knight MIL 03/16/2014 MIL vs. CHA L 36 21 9 21 42.9 3 7 42.9 0 0 - 3 5 8 7 3 0 2 2 -14
+p137
+aVZaza Pachulia MIL 03/16/2014 MIL vs. CHA L 38 8 3 9 33.3 0 0 - 2 4 50.0 3 6 9 3 3 0 2 1 -13
+p138
+aVJeff Adrien MIL 03/16/2014 MIL vs. CHA L 14 12 4 6 66.7 0 0 - 4 5 80.0 2 2 4 1 1 0 0 3 6
+p139
+aVEkpe Udoh MIL 03/16/2014 MIL vs. CHA L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 4
+p140
+aVNate Wolters MIL 03/16/2014 MIL vs. CHA L 28 11 5 7 71.4 1 1 100.0 0 0 - 0 3 3 3 1 0 1 4 -1
+p141
+aVRamon Sessions MIL 03/16/2014 MIL vs. CHA L 30 18 7 14 50.0 1 2 50.0 3 5 60.0 0 0 0 6 0 0 1 1 -2
+p142
+aVJeff Adrien MIL 03/15/2014 MIL @ NYK L 23 10 5 10 50.0 0 0 - 0 0 - 3 4 7 1 1 0 1 3 -5
+p143
+aVBrandon Knight MIL 03/15/2014 MIL @ NYK L 27 14 5 13 38.5 0 1 0.0 4 5 80.0 2 0 2 2 0 0 3 1 -18
+p144
+aVKhris Middleton MIL 03/15/2014 MIL @ NYK L 27 6 3 10 30.0 0 3 0.0 0 0 - 0 1 1 2 0 0 1 3 -15
+p145
+aVZaza Pachulia MIL 03/15/2014 MIL @ NYK L 20 4 2 3 66.7 0 0 - 0 0 - 2 3 5 4 1 0 1 1 -12
+p146
+aVNate Wolters MIL 03/15/2014 MIL @ NYK L 29 15 5 7 71.4 2 2 100.0 3 4 75.0 0 3 3 2 0 0 1 0 -14
+p147
+aVChris Wright MIL 03/15/2014 MIL @ NYK L 7 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 0 1 0 0 1 -3
+p148
+aVRamon Sessions MIL 03/15/2014 MIL @ NYK L 28 14 4 9 44.4 1 1 100.0 5 6 83.3 0 1 1 4 0 0 0 1 -7
+p149
+aVJohn Henson MIL 03/15/2014 MIL @ NYK L 20 9 4 8 50.0 0 0 - 1 4 25.0 3 2 5 0 1 0 3 3 -8
+p150
+aVErsan Ilyasova MIL 03/15/2014 MIL @ NYK L 25 8 3 10 30.0 0 2 0.0 2 2 100.0 2 1 3 1 0 0 0 2 -16
+p151
+aVGiannis Antetokounmpo MIL 03/15/2014 MIL @ NYK L 27 7 2 5 40.0 1 1 100.0 2 2 100.0 2 1 3 1 2 1 0 4 -6
+p152
+aVEkpe Udoh MIL 03/15/2014 MIL @ NYK L 8 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -1
+p153
+aVZaza Pachulia MIL 03/13/2014 MIL @ ATL L 23 4 2 6 33.3 0 0 - 0 0 - 1 4 5 1 1 0 3 2 -4
+p154
+aVGiannis Antetokounmpo MIL 03/13/2014 MIL @ ATL L 26 5 1 4 25.0 1 4 25.0 2 4 50.0 1 3 4 5 1 0 0 1 0
+p155
+aVJeff Adrien MIL 03/13/2014 MIL @ ATL L 18 12 5 10 50.0 0 0 - 2 4 50.0 2 4 6 0 2 1 0 2 -5
+p156
+aVRamon Sessions MIL 03/13/2014 MIL @ ATL L 27 7 2 8 25.0 0 3 0.0 3 4 75.0 2 3 5 4 1 0 1 4 -4
+p157
+aVJohn Henson MIL 03/13/2014 MIL @ ATL L 25 12 5 6 83.3 0 0 - 2 2 100.0 1 4 5 2 2 2 1 2 -1
+p158
+aVKhris Middleton MIL 03/13/2014 MIL @ ATL L 34 8 4 15 26.7 0 4 0.0 0 0 - 0 2 2 4 3 0 1 1 -2
+p159
+aVErsan Ilyasova MIL 03/13/2014 MIL @ ATL L 30 22 10 20 50.0 0 3 0.0 2 2 100.0 7 3 10 3 2 0 1 2 0
+p160
+aVNate Wolters MIL 03/13/2014 MIL @ ATL L 23 7 2 7 28.6 1 3 33.3 2 2 100.0 0 1 1 1 1 0 1 3 -6
+p161
+aVBrandon Knight MIL 03/13/2014 MIL @ ATL L 35 20 6 13 46.2 1 2 50.0 7 8 87.5 2 3 5 4 0 0 0 4 -3
+p162
+aVKhris Middleton MIL 03/11/2014 MIL @ MIN L 29 11 4 9 44.4 1 4 25.0 2 2 100.0 2 2 4 2 1 0 3 4 -7
+p163
+aVJeff Adrien MIL 03/11/2014 MIL @ MIN L 20 12 5 6 83.3 0 0 - 2 4 50.0 2 5 7 0 0 2 1 2 -4
+p164
+aVNate Wolters MIL 03/11/2014 MIL @ MIN L 31 14 5 6 83.3 2 2 100.0 2 4 50.0 0 3 3 3 0 0 2 3 -10
+p165
+aVEkpe Udoh MIL 03/11/2014 MIL @ MIN L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 3 -10
+p166
+aVTony Mitchell MIL 03/11/2014 MIL @ MIN L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p167
+aVRamon Sessions MIL 03/11/2014 MIL @ MIN L 28 11 4 11 36.4 1 2 50.0 2 2 100.0 0 3 3 3 1 0 0 1 -19
+p168
+aVGiannis Antetokounmpo MIL 03/11/2014 MIL @ MIN L 22 4 0 5 0.0 0 1 0.0 4 4 100.0 1 4 5 4 0 0 2 2 4
+p169
+aVBrandon Knight MIL 03/11/2014 MIL @ MIN L 32 21 9 17 52.9 1 6 16.7 2 5 40.0 0 1 1 4 1 0 5 2 -7
+p170
+aVZaza Pachulia MIL 03/11/2014 MIL @ MIN L 28 9 4 7 57.1 0 0 - 1 2 50.0 0 6 6 10 0 0 1 2 -7
+p171
+aVMiroslav Raduljica MIL 03/11/2014 MIL @ MIN L 3 5 1 2 50.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 1 4
+p172
+aVJohn Henson MIL 03/11/2014 MIL @ MIN L 32 10 5 8 62.5 0 0 - 0 2 0.0 0 8 8 2 0 2 1 4 -5
+p173
+aVGiannis Antetokounmpo MIL 03/10/2014 MIL vs. ORL W 28 6 2 4 50.0 1 2 50.0 1 2 50.0 0 4 4 1 0 2 2 2 4
+p174
+aVBrandon Knight MIL 03/10/2014 MIL vs. ORL W 44 24 9 23 39.1 1 9 11.1 5 5 100.0 0 3 3 6 1 0 3 1 18
+p175
+aVNate Wolters MIL 03/10/2014 MIL vs. ORL W 20 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 4
+p176
+aVRamon Sessions MIL 03/10/2014 MIL vs. ORL W 26 16 5 8 62.5 0 0 - 6 6 100.0 0 2 2 8 1 0 2 0 6
+p177
+aVO.J. Mayo MIL 03/10/2014 MIL vs. ORL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -11
+p178
+aVKhris Middleton MIL 03/10/2014 MIL vs. ORL W 34 21 5 13 38.5 5 8 62.5 6 6 100.0 2 4 6 7 2 1 1 2 11
+p179
+aVJeff Adrien MIL 03/10/2014 MIL vs. ORL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -14
+p180
+aVZaza Pachulia MIL 03/10/2014 MIL vs. ORL W 17 4 2 5 40.0 0 0 - 0 0 - 3 2 5 0 1 1 0 1 -1
+p181
+aVErsan Ilyasova MIL 03/10/2014 MIL vs. ORL W 32 16 6 13 46.2 1 6 16.7 3 6 50.0 2 9 11 1 0 0 0 1 12
+p182
+aVJohn Henson MIL 03/10/2014 MIL vs. ORL W 30 10 5 9 55.6 0 0 - 0 0 - 3 5 8 1 0 0 1 1 6
+p183
+aVJeff Adrien MIL 03/08/2014 MIL vs. WAS L 22 8 2 4 50.0 0 0 - 4 5 80.0 5 3 8 0 0 1 1 1 -7
+p184
+aVJohn Henson MIL 03/08/2014 MIL vs. WAS L 17 12 6 8 75.0 0 0 - 0 0 - 3 3 6 0 0 2 4 3 -8
+p185
+aVErsan Ilyasova MIL 03/08/2014 MIL vs. WAS L 28 13 4 10 40.0 0 2 0.0 5 6 83.3 1 7 8 0 1 1 1 4 2
+p186
+aVZaza Pachulia MIL 03/08/2014 MIL vs. WAS L 29 6 2 7 28.6 0 0 - 2 2 100.0 2 2 4 3 2 0 1 1 -1
+p187
+aVBrandon Knight MIL 03/08/2014 MIL vs. WAS L 34 25 9 20 45.0 2 5 40.0 5 5 100.0 0 2 2 2 3 0 2 4 7
+p188
+aVGiannis Antetokounmpo MIL 03/08/2014 MIL vs. WAS L 22 4 1 4 25.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 2 1 -11
+p189
+aVKhris Middleton MIL 03/08/2014 MIL vs. WAS L 33 15 7 12 58.3 1 2 50.0 0 0 - 3 2 5 2 1 0 2 5 -5
+p190
+aVNate Wolters MIL 03/08/2014 MIL vs. WAS L 29 10 4 10 40.0 1 2 50.0 1 2 50.0 2 3 5 4 0 0 0 1 7
+p191
+aVRamon Sessions MIL 03/08/2014 MIL vs. WAS L 22 14 4 11 36.4 0 3 0.0 6 6 100.0 0 2 2 1 1 0 1 0 -9
+p192
+aVTony Mitchell MIL 03/08/2014 MIL vs. WAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -10
+p193
+aVGiannis Antetokounmpo MIL 03/07/2014 MIL @ NOP L 20 2 1 5 20.0 0 3 0.0 0 0 - 0 4 4 3 0 0 1 1 -13
+p194
+aVZaza Pachulia MIL 03/07/2014 MIL @ NOP L 30 6 3 8 37.5 0 0 - 0 1 0.0 3 4 7 4 0 0 1 2 -11
+p195
+aVMiroslav Raduljica MIL 03/07/2014 MIL @ NOP L 8 0 0 5 0.0 0 0 - 0 0 - 3 0 3 0 0 0 0 0 5
+p196
+aVRamon Sessions MIL 03/07/2014 MIL @ NOP L 28 16 6 10 60.0 0 0 - 4 7 57.1 1 3 4 2 1 0 1 3 -6
+p197
+aVJohn Henson MIL 03/07/2014 MIL @ NOP L 23 12 6 9 66.7 0 0 - 0 0 - 1 5 6 2 0 2 3 4 -3
+p198
+aVO.J. Mayo MIL 03/07/2014 MIL @ NOP L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p199
+aVKhris Middleton MIL 03/07/2014 MIL @ NOP L 38 25 10 17 58.8 3 8 37.5 2 2 100.0 2 1 3 4 0 1 2 4 -6
+p200
+aVNate Wolters MIL 03/07/2014 MIL @ NOP L 19 8 4 9 44.4 0 2 0.0 0 0 - 1 3 4 2 0 0 0 2 2
+p201
+aVJeff Adrien MIL 03/07/2014 MIL @ NOP L 30 20 5 8 62.5 0 0 - 10 11 90.9 4 6 10 2 1 3 0 3 1
+p202
+aVBrandon Knight MIL 03/07/2014 MIL @ NOP L 41 15 5 17 29.4 2 7 28.6 3 4 75.0 1 2 3 5 1 0 1 1 -6
+p203
+aVRamon Sessions MIL 03/05/2014 MIL vs. SAC L 17 9 2 5 40.0 1 2 50.0 4 4 100.0 1 2 3 3 0 0 2 1 -11
+p204
+aVBrandon Knight MIL 03/05/2014 MIL vs. SAC L 33 25 7 13 53.8 2 4 50.0 9 10 90.0 1 4 5 6 0 0 1 0 -11
+p205
+aVGiannis Antetokounmpo MIL 03/05/2014 MIL vs. SAC L 18 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 0 1 0 4 -2
+p206
+aVJohn Henson MIL 03/05/2014 MIL vs. SAC L 24 6 2 6 33.3 0 0 - 2 4 50.0 5 2 7 1 0 0 0 3 -6
+p207
+aVTony Mitchell MIL 03/05/2014 MIL vs. SAC L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p208
+aVKhris Middleton MIL 03/05/2014 MIL vs. SAC L 29 11 4 14 28.6 2 4 50.0 1 2 50.0 0 4 4 1 2 1 0 3 -22
+p209
+aVErsan Ilyasova MIL 03/05/2014 MIL vs. SAC L 30 9 3 8 37.5 0 2 0.0 3 4 75.0 2 3 5 2 0 0 0 4 -15
+p210
+aVMiroslav Raduljica MIL 03/05/2014 MIL vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 6
+p211
+aVNate Wolters MIL 03/05/2014 MIL vs. SAC L 24 8 4 6 66.7 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -4
+p212
+aVJeff Adrien MIL 03/05/2014 MIL vs. SAC L 22 15 6 9 66.7 0 0 - 3 3 100.0 1 4 5 1 1 0 0 4 2
+p213
+aVO.J. Mayo MIL 03/05/2014 MIL vs. SAC L 20 8 3 9 33.3 0 2 0.0 2 2 100.0 0 3 3 1 0 0 1 1 2
+p214
+aVZaza Pachulia MIL 03/05/2014 MIL vs. SAC L 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 3 0 0 3 4 -15
+p215
+aVBrandon Knight MIL 03/03/2014 MIL vs. UTA W 26 11 4 7 57.1 1 2 50.0 2 3 66.7 0 1 1 5 2 0 0 2 26
+p216
+aVRamon Sessions MIL 03/03/2014 MIL vs. UTA W 24 14 4 7 57.1 0 0 - 6 6 100.0 0 4 4 4 0 0 2 2 0
+p217
+aVZaza Pachulia MIL 03/03/2014 MIL vs. UTA W 26 14 3 4 75.0 0 0 - 8 8 100.0 2 4 6 5 0 1 1 2 26
+p218
+aVO.J. Mayo MIL 03/03/2014 MIL vs. UTA W 24 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 3 0 0 1 3 -1
+p219
+aVMiroslav Raduljica MIL 03/03/2014 MIL vs. UTA W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -3
+p220
+aVJeff Adrien MIL 03/03/2014 MIL vs. UTA W 20 8 3 8 37.5 0 0 - 2 4 50.0 3 8 11 0 1 1 0 5 -1
+p221
+aVErsan Ilyasova MIL 03/03/2014 MIL vs. UTA W 30 31 13 14 92.9 2 2 100.0 3 4 75.0 2 3 5 0 2 1 1 1 31
+p222
+aVKhris Middleton MIL 03/03/2014 MIL vs. UTA W 21 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 2 1 0 3 2 19
+p223
+aVNate Wolters MIL 03/03/2014 MIL vs. UTA W 22 10 4 6 66.7 2 2 100.0 0 0 - 0 6 6 5 1 0 2 1 27
+p224
+aVJohn Henson MIL 03/03/2014 MIL vs. UTA W 16 6 3 7 42.9 0 0 - 0 0 - 5 2 7 1 0 0 1 4 -1
+p225
+aVGiannis Antetokounmpo MIL 03/03/2014 MIL vs. UTA W 27 8 3 9 33.3 1 3 33.3 1 1 100.0 1 3 4 3 0 1 0 1 7
+p226
+aVJeff Adrien MIL 03/01/2014 MIL vs. BKN L 16 5 2 5 40.0 0 0 - 1 2 50.0 3 7 10 0 1 1 2 2 3
+p227
+aVO.J. Mayo MIL 03/01/2014 MIL vs. BKN L 23 9 4 7 57.1 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 1 2
+p228
+aVErsan Ilyasova MIL 03/01/2014 MIL vs. BKN L 22 11 3 9 33.3 1 2 50.0 4 5 80.0 3 8 11 1 0 0 1 4 -13
+p229
+aVJohn Henson MIL 03/01/2014 MIL vs. BKN L 26 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 3 0 1 2 1 -3
+p230
+aVNate Wolters MIL 03/01/2014 MIL vs. BKN L 19 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 2 -6
+p231
+aVBrandon Knight MIL 03/01/2014 MIL vs. BKN L 32 14 6 13 46.2 1 3 33.3 1 1 100.0 0 1 1 5 0 0 4 1 -10
+p232
+aVGiannis Antetokounmpo MIL 03/01/2014 MIL vs. BKN L 28 12 3 7 42.9 1 2 50.0 5 9 55.6 1 2 3 3 3 1 2 1 -1
+p233
+aVZaza Pachulia MIL 03/01/2014 MIL vs. BKN L 15 2 1 5 20.0 0 0 - 0 0 - 3 2 5 0 0 1 3 1 -5
+p234
+aVRamon Sessions MIL 03/01/2014 MIL vs. BKN L 23 16 2 5 40.0 1 1 100.0 11 11 100.0 1 2 3 1 0 0 2 3 -5
+p235
+aVKhris Middleton MIL 03/01/2014 MIL vs. BKN L 36 16 8 12 66.7 0 1 0.0 0 0 - 0 4 4 3 2 0 1 3 -7
+p236
+aVKhris Middleton MIL 02/27/2014 MIL @ IND L 26 22 9 15 60.0 3 4 75.0 1 1 100.0 1 1 2 1 3 0 1 5 0
+p237
+aVBrandon Knight MIL 02/27/2014 MIL @ IND L 29 23 10 20 50.0 3 7 42.9 0 0 - 0 2 2 5 1 0 1 3 -3
+p238
+aVJeff Adrien MIL 02/27/2014 MIL @ IND L 20 4 2 3 66.7 0 0 - 0 0 - 0 6 6 0 0 0 1 0 0
+p239
+aVJohn Henson MIL 02/27/2014 MIL @ IND L 22 0 0 4 0.0 0 0 - 0 2 0.0 1 3 4 2 0 1 3 3 -7
+p240
+aVErsan Ilyasova MIL 02/27/2014 MIL @ IND L 28 9 3 7 42.9 1 1 100.0 2 2 100.0 2 9 11 1 0 0 2 2 -5
+p241
+aVRamon Sessions MIL 02/27/2014 MIL @ IND L 27 13 4 8 50.0 1 2 50.0 4 4 100.0 0 0 0 5 1 0 1 1 -2
+p242
+aVO.J. Mayo MIL 02/27/2014 MIL @ IND L 24 14 5 14 35.7 3 9 33.3 1 2 50.0 0 0 0 0 1 2 0 4 -7
+p243
+aVZaza Pachulia MIL 02/27/2014 MIL @ IND L 26 2 1 8 12.5 0 0 - 0 0 - 5 1 6 2 0 0 0 2 2
+p244
+aVGiannis Antetokounmpo MIL 02/27/2014 MIL @ IND L 21 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 3 1 0 2 1 -4
+p245
+aVNate Wolters MIL 02/27/2014 MIL @ IND L 17 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 1
+p246
+aVJeff Adrien MIL 02/24/2014 MIL @ PHI W 24 6 3 8 37.5 0 0 - 0 0 - 4 6 10 2 1 1 2 2 15
+p247
+aVGiannis Antetokounmpo MIL 02/24/2014 MIL @ PHI W 29 13 5 8 62.5 1 2 50.0 2 2 100.0 4 2 6 4 0 4 5 4 12
+p248
+aVRamon Sessions MIL 02/24/2014 MIL @ PHI W 28 16 6 11 54.5 1 1 100.0 3 4 75.0 2 2 4 5 0 0 4 0 19
+p249
+aVO.J. Mayo MIL 02/24/2014 MIL @ PHI W 35 25 8 14 57.1 7 9 77.8 2 2 100.0 0 1 1 3 1 0 1 3 11
+p250
+aVZaza Pachulia MIL 02/24/2014 MIL @ PHI W 18 2 1 3 33.3 0 0 - 0 0 - 4 5 9 2 2 0 1 1 13
+p251
+aVErsan Ilyasova MIL 02/24/2014 MIL @ PHI W 25 20 7 9 77.8 0 1 0.0 6 6 100.0 2 2 4 3 1 1 0 2 7
+p252
+aVNate Wolters MIL 02/24/2014 MIL @ PHI W 15 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 2 1 0 3 1 9
+p253
+aVBrandon Knight MIL 02/24/2014 MIL @ PHI W 21 15 5 10 50.0 1 2 50.0 4 6 66.7 1 4 5 4 0 0 2 2 4
+p254
+aVKhris Middleton MIL 02/24/2014 MIL @ PHI W 16 15 4 6 66.7 2 3 66.7 5 6 83.3 0 0 0 2 1 0 2 3 3
+p255
+aVMiroslav Raduljica MIL 02/24/2014 MIL @ PHI W 4 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 2 1 -10
+p256
+aVJohn Henson MIL 02/24/2014 MIL @ PHI W 26 12 6 9 66.7 0 0 - 0 3 0.0 1 4 5 4 0 0 1 2 17
+p257
+aVO.J. Mayo MIL 02/22/2014 MIL vs. IND L 17 8 3 8 37.5 2 6 33.3 0 0 - 0 2 2 1 0 0 2 5 -14
+p258
+aVJeff Adrien MIL 02/22/2014 MIL vs. IND L 18 6 3 7 42.9 0 0 - 0 0 - 5 6 11 3 0 0 1 5 5
+p259
+aVKhris Middleton MIL 02/22/2014 MIL vs. IND L 24 13 5 11 45.5 3 7 42.9 0 0 - 0 2 2 2 0 0 2 2 -14
+p260
+aVGiannis Antetokounmpo MIL 02/22/2014 MIL vs. IND L 24 8 2 6 33.3 0 2 0.0 4 4 100.0 2 4 6 1 1 0 1 3 2
+p261
+aVJohn Henson MIL 02/22/2014 MIL vs. IND L 24 6 3 7 42.9 0 0 - 0 5 0.0 3 5 8 0 0 2 3 5 -6
+p262
+aVNate Wolters MIL 02/22/2014 MIL vs. IND L 19 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -2
+p263
+aVRamon Sessions MIL 02/22/2014 MIL vs. IND L 23 7 1 5 20.0 0 0 - 5 6 83.3 0 3 3 1 0 0 1 0 -4
+p264
+aVZaza Pachulia MIL 02/22/2014 MIL vs. IND L 27 10 1 5 20.0 0 0 - 8 10 80.0 4 5 9 2 2 0 2 3 -2
+p265
+aVErsan Ilyasova MIL 02/22/2014 MIL vs. IND L 26 12 5 9 55.6 1 3 33.3 1 1 100.0 0 2 2 2 0 0 0 5 -7
+p266
+aVBrandon Knight MIL 02/22/2014 MIL vs. IND L 39 30 12 23 52.2 3 9 33.3 3 6 50.0 1 4 5 8 1 1 0 3 -8
+p267
+aVMiroslav Raduljica MIL 02/20/2014 MIL vs. DEN L 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -1
+p268
+aVZaza Pachulia MIL 02/20/2014 MIL vs. DEN L 24 5 1 5 20.0 0 0 - 3 4 75.0 1 2 3 2 0 0 4 3 -12
+p269
+aVJohn Henson MIL 02/20/2014 MIL vs. DEN L 25 12 6 8 75.0 0 0 - 0 0 - 3 4 7 2 0 1 5 4 0
+p270
+aVCaron Butler MIL 02/20/2014 MIL vs. DEN L 31 17 7 17 41.2 1 4 25.0 2 3 66.7 0 4 4 1 1 2 1 0 -9
+p271
+aVKhris Middleton MIL 02/20/2014 MIL vs. DEN L 28 6 2 9 22.2 0 5 0.0 2 2 100.0 0 1 1 1 0 0 0 3 -12
+p272
+aVO.J. Mayo MIL 02/20/2014 MIL vs. DEN L 23 11 5 8 62.5 1 4 25.0 0 0 - 0 3 3 0 0 0 1 1 1
+p273
+aVErsan Ilyasova MIL 02/20/2014 MIL vs. DEN L 35 14 5 14 35.7 1 3 33.3 3 4 75.0 4 7 11 0 1 0 0 4 -11
+p274
+aVGiannis Antetokounmpo MIL 02/20/2014 MIL vs. DEN L 32 11 3 7 42.9 1 3 33.3 4 5 80.0 3 1 4 4 2 3 0 1 4
+p275
+aVNate Wolters MIL 02/20/2014 MIL vs. DEN L 40 12 6 14 42.9 0 2 0.0 0 0 - 1 1 2 5 0 0 1 2 -15
+p276
+aVNate Wolters MIL 02/18/2014 MIL vs. ORL W 40 15 6 13 46.2 1 2 50.0 2 2 100.0 2 5 7 8 2 0 1 2 -1
+p277
+aVKhris Middleton MIL 02/18/2014 MIL vs. ORL W 22 12 5 10 50.0 2 3 66.7 0 0 - 0 1 1 2 0 0 0 1 -7
+p278
+aVZaza Pachulia MIL 02/18/2014 MIL vs. ORL W 16 6 2 3 66.7 0 0 - 2 4 50.0 0 2 2 0 0 0 1 1 -12
+p279
+aVGary Neal MIL 02/18/2014 MIL vs. ORL W 20 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 1 2 0 1 1 4
+p280
+aVJohn Henson MIL 02/18/2014 MIL vs. ORL W 32 9 4 9 44.4 0 0 - 1 4 25.0 6 4 10 1 0 2 0 3 15
+p281
+aVGiannis Antetokounmpo MIL 02/18/2014 MIL vs. ORL W 27 8 2 3 66.7 1 1 100.0 3 6 50.0 2 6 8 4 2 1 0 2 16
+p282
+aVErsan Ilyasova MIL 02/18/2014 MIL vs. ORL W 19 9 3 9 33.3 1 2 50.0 2 2 100.0 1 7 8 2 0 0 2 2 -6
+p283
+aVBrandon Knight MIL 02/18/2014 MIL vs. ORL W 35 18 3 13 23.1 0 4 0.0 12 12 100.0 0 0 0 7 2 1 2 0 0
+p284
+aVCaron Butler MIL 02/18/2014 MIL vs. ORL W 29 21 7 15 46.7 7 13 53.8 0 0 - 1 6 7 0 0 0 3 3 11
+p285
+aVGiannis Antetokounmpo MIL 02/12/2014 MIL vs. NOP L 20 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 1 1 1 2 1 4
+p286
+aVMiroslav Raduljica MIL 02/12/2014 MIL vs. NOP L 10 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -9
+p287
+aVBrandon Knight MIL 02/12/2014 MIL vs. NOP L 45 22 8 17 47.1 1 6 16.7 5 6 83.3 0 2 2 9 0 0 0 3 -6
+p288
+aVNate Wolters MIL 02/12/2014 MIL vs. NOP L 33 14 6 11 54.5 2 3 66.7 0 0 - 2 4 6 7 1 2 1 3 4
+p289
+aVZaza Pachulia MIL 02/12/2014 MIL vs. NOP L 38 8 3 11 27.3 0 0 - 2 2 100.0 2 5 7 2 0 0 2 2 5
+p290
+aVKhris Middleton MIL 02/12/2014 MIL vs. NOP L 30 11 5 9 55.6 1 2 50.0 0 0 - 2 2 4 4 0 0 3 3 -11
+p291
+aVErsan Ilyasova MIL 02/12/2014 MIL vs. NOP L 35 16 5 13 38.5 1 1 100.0 5 8 62.5 2 7 9 2 0 0 0 2 -10
+p292
+aVGary Neal MIL 02/12/2014 MIL vs. NOP L 29 18 8 12 66.7 1 4 25.0 1 1 100.0 0 1 1 3 1 0 3 1 3
+p293
+aVJohn Henson MIL 02/10/2014 MIL vs. BOS L 37 16 8 12 66.7 0 0 - 0 0 - 0 3 3 2 0 2 5 5 -7
+p294
+aVNate Wolters MIL 02/10/2014 MIL vs. BOS L 36 7 2 9 22.2 1 3 33.3 2 4 50.0 2 4 6 3 2 1 0 2 -5
+p295
+aVEkpe Udoh MIL 02/10/2014 MIL vs. BOS L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 2 2 -13
+p296
+aVZaza Pachulia MIL 02/10/2014 MIL vs. BOS L 32 8 3 8 37.5 0 0 - 2 2 100.0 5 3 8 4 2 0 3 3 -3
+p297
+aVBrandon Knight MIL 02/10/2014 MIL vs. BOS L 41 22 7 18 38.9 2 4 50.0 6 8 75.0 0 5 5 4 0 0 5 1 -7
+p298
+aVKhris Middleton MIL 02/10/2014 MIL vs. BOS L 27 8 2 6 33.3 1 3 33.3 3 4 75.0 0 5 5 1 1 0 2 4 0
+p299
+aVMiroslav Raduljica MIL 02/10/2014 MIL vs. BOS L 7 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -8
+p300
+aVGiannis Antetokounmpo MIL 02/10/2014 MIL vs. BOS L 26 4 1 5 20.0 1 2 50.0 1 2 50.0 0 4 4 0 0 0 1 1 -20
+p301
+aVGary Neal MIL 02/10/2014 MIL vs. BOS L 19 17 6 11 54.5 1 4 25.0 4 5 80.0 0 1 1 2 0 0 1 0 -17
+p302
+aVGary Neal MIL 02/08/2014 MIL vs. HOU L 12 2 0 8 0.0 0 3 0.0 2 2 100.0 2 0 2 0 0 0 1 0 -6
+p303
+aVJohn Henson MIL 02/08/2014 MIL vs. HOU L 41 14 7 14 50.0 0 0 - 0 0 - 2 8 10 3 0 4 3 2 1
+p304
+aVGiannis Antetokounmpo MIL 02/08/2014 MIL vs. HOU L 25 1 0 8 0.0 0 1 0.0 1 2 50.0 1 4 5 0 1 1 1 2 -10
+p305
+aVNate Wolters MIL 02/08/2014 MIL vs. HOU L 39 19 9 15 60.0 1 3 33.3 0 1 0.0 2 5 7 3 1 0 2 1 -4
+p306
+aVKhris Middleton MIL 02/08/2014 MIL vs. HOU L 35 20 7 13 53.8 3 5 60.0 3 3 100.0 0 4 4 8 1 0 2 5 -1
+p307
+aVMiroslav Raduljica MIL 02/08/2014 MIL vs. HOU L 19 2 1 4 25.0 0 0 - 0 0 - 2 1 3 2 1 1 2 3 -5
+p308
+aVBrandon Knight MIL 02/08/2014 MIL vs. HOU L 35 23 10 20 50.0 2 3 66.7 1 1 100.0 0 2 2 5 1 0 4 1 0
+p309
+aVZaza Pachulia MIL 02/08/2014 MIL vs. HOU L 29 12 5 5 100.0 0 0 - 2 2 100.0 3 7 10 5 1 0 2 4 0
+p310
+aVLarry Sanders MIL 02/08/2014 MIL vs. HOU L 4 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 0 -5
+p311
+aVNate Wolters MIL 02/05/2014 MIL @ DEN L 28 4 2 7 28.6 0 0 - 0 0 - 1 1 2 4 1 1 0 0 -6
+p312
+aVLarry Sanders MIL 02/05/2014 MIL @ DEN L 34 25 12 19 63.2 0 0 - 1 5 20.0 8 7 15 2 1 1 2 1 3
+p313
+aVLuke Ridnour MIL 02/05/2014 MIL @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p314
+aVGiannis Antetokounmpo MIL 02/05/2014 MIL @ DEN L 33 5 1 4 25.0 0 1 0.0 3 6 50.0 0 4 4 1 1 1 4 4 -1
+p315
+aVKhris Middleton MIL 02/05/2014 MIL @ DEN L 44 25 10 21 47.6 5 8 62.5 0 0 - 2 4 6 3 2 0 4 5 5
+p316
+aVErsan Ilyasova MIL 02/05/2014 MIL @ DEN L 21 8 4 16 25.0 0 3 0.0 0 0 - 3 8 11 2 0 1 0 1 2
+p317
+aVZaza Pachulia MIL 02/05/2014 MIL @ DEN L 22 15 2 6 33.3 0 0 - 11 12 91.7 3 1 4 2 2 0 2 3 -10
+p318
+aVJohn Henson MIL 02/05/2014 MIL @ DEN L 17 2 1 5 20.0 0 0 - 0 0 - 2 3 5 0 0 1 1 4 -18
+p319
+aVBrandon Knight MIL 02/05/2014 MIL @ DEN L 38 16 4 17 23.5 2 4 50.0 6 8 75.0 0 2 2 8 2 0 1 2 -17
+p320
+aVLarry Sanders MIL 02/03/2014 MIL vs. NYK W 30 8 3 4 75.0 0 0 - 2 2 100.0 1 10 11 0 0 1 0 6 11
+p321
+aVZaza Pachulia MIL 02/03/2014 MIL vs. NYK W 18 12 4 9 44.4 0 0 - 4 4 100.0 5 2 7 2 1 0 1 1 -8
+p322
+aVKhris Middleton MIL 02/03/2014 MIL vs. NYK W 25 19 6 9 66.7 5 6 83.3 2 2 100.0 0 4 4 3 0 0 1 3 10
+p323
+aVErsan Ilyasova MIL 02/03/2014 MIL vs. NYK W 34 13 4 11 36.4 1 2 50.0 4 4 100.0 4 4 8 2 0 0 1 3 8
+p324
+aVCaron Butler MIL 02/03/2014 MIL vs. NYK W 15 3 1 6 16.7 1 1 100.0 0 0 - 0 5 5 0 0 0 0 0 -3
+p325
+aVNate Wolters MIL 02/03/2014 MIL vs. NYK W 23 6 3 7 42.9 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -3
+p326
+aVGiannis Antetokounmpo MIL 02/03/2014 MIL vs. NYK W 28 15 5 9 55.6 0 0 - 5 8 62.5 1 2 3 2 1 0 1 3 -9
+p327
+aVBrandon Knight MIL 02/03/2014 MIL vs. NYK W 46 25 10 23 43.5 4 8 50.0 1 1 100.0 0 3 3 7 0 0 4 3 2
+p328
+aVLuke Ridnour MIL 02/03/2014 MIL vs. NYK W 21 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 4 7
+p329
+aVNate Wolters MIL 02/01/2014 MIL @ MEM L 24 9 4 9 44.4 0 0 - 1 2 50.0 1 2 3 2 0 0 1 2 -11
+p330
+aVZaza Pachulia MIL 02/01/2014 MIL @ MEM L 12 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 -8
+p331
+aVCaron Butler MIL 02/01/2014 MIL @ MEM L 21 10 2 6 33.3 1 3 33.3 5 6 83.3 0 2 2 0 1 1 1 2 -6
+p332
+aVErsan Ilyasova MIL 02/01/2014 MIL @ MEM L 38 14 5 13 38.5 2 3 66.7 2 3 66.7 2 11 13 2 2 0 1 4 0
+p333
+aVBrandon Knight MIL 02/01/2014 MIL @ MEM L 41 23 8 19 42.1 2 5 40.0 5 6 83.3 3 3 6 7 1 0 3 2 -6
+p334
+aVGary Neal MIL 02/01/2014 MIL @ MEM L 13 3 1 8 12.5 1 6 16.7 0 0 - 0 1 1 0 0 0 0 1 -8
+p335
+aVMiroslav Raduljica MIL 02/01/2014 MIL @ MEM L 8 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 3 6
+p336
+aVLarry Sanders MIL 02/01/2014 MIL @ MEM L 30 10 4 7 57.1 0 0 - 2 2 100.0 2 6 8 0 0 2 1 3 -6
+p337
+aVGiannis Antetokounmpo MIL 02/01/2014 MIL @ MEM L 20 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 1 0 2 1 2
+p338
+aVKhris Middleton MIL 02/01/2014 MIL @ MEM L 32 12 3 8 37.5 2 4 50.0 4 4 100.0 1 1 2 1 2 0 3 2 -8
+p339
+aVGary Neal MIL 01/31/2014 MIL @ ORL L 24 13 5 10 50.0 0 2 0.0 3 4 75.0 1 0 1 1 1 0 3 3 1
+p340
+aVErsan Ilyasova MIL 01/31/2014 MIL @ ORL L 20 10 4 12 33.3 2 3 66.7 0 0 - 2 4 6 1 0 0 0 2 -7
+p341
+aVCaron Butler MIL 01/31/2014 MIL @ ORL L 29 20 7 12 58.3 4 6 66.7 2 2 100.0 0 4 4 1 1 1 1 2 -4
+p342
+aVGiannis Antetokounmpo MIL 01/31/2014 MIL @ ORL L 29 15 4 7 57.1 2 4 50.0 5 9 55.6 1 6 7 3 1 0 2 1 -5
+p343
+aVLarry Sanders MIL 01/31/2014 MIL @ ORL L 33 10 4 11 36.4 0 0 - 2 4 50.0 4 5 9 2 4 4 2 3 -3
+p344
+aVMiroslav Raduljica MIL 01/31/2014 MIL @ ORL L 12 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 0 2 3 4 -6
+p345
+aVNate Wolters MIL 01/31/2014 MIL @ ORL L 41 8 4 11 36.4 0 0 - 0 3 0.0 1 6 7 9 0 0 0 3 -13
+p346
+aVKhris Middleton MIL 01/31/2014 MIL @ ORL L 25 10 5 11 45.5 0 1 0.0 0 0 - 1 3 4 2 1 0 3 1 -7
+p347
+aVBrandon Knight MIL 01/31/2014 MIL @ ORL L 26 10 3 9 33.3 2 5 40.0 2 2 100.0 0 0 0 4 0 0 1 1 -11
+p348
+aVErsan Ilyasova MIL 01/29/2014 MIL vs. PHX L 33 27 7 15 46.7 3 6 50.0 10 10 100.0 1 3 4 1 0 0 0 5 -15
+p349
+aVGiannis Antetokounmpo MIL 01/29/2014 MIL vs. PHX L 25 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 4 1 0 0 4 -16
+p350
+aVLarry Sanders MIL 01/29/2014 MIL vs. PHX L 33 14 7 11 63.6 0 0 - 0 0 - 6 3 9 0 0 2 0 5 -4
+p351
+aVKhris Middleton MIL 01/29/2014 MIL vs. PHX L 34 17 6 13 46.2 2 5 40.0 3 4 75.0 2 2 4 2 0 0 3 2 0
+p352
+aVNate Wolters MIL 01/29/2014 MIL vs. PHX L 19 11 3 8 37.5 0 0 - 5 5 100.0 0 3 3 4 0 0 1 0 2
+p353
+aVCaron Butler MIL 01/29/2014 MIL vs. PHX L 27 9 3 9 33.3 1 2 50.0 2 2 100.0 0 5 5 3 0 0 1 1 8
+p354
+aVLuke Ridnour MIL 01/29/2014 MIL vs. PHX L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -5
+p355
+aVBrandon Knight MIL 01/29/2014 MIL vs. PHX L 38 24 6 15 40.0 1 5 20.0 11 11 100.0 0 2 2 8 2 0 4 1 -10
+p356
+aVJohn Henson MIL 01/29/2014 MIL vs. PHX L 22 9 4 8 50.0 0 0 - 1 2 50.0 2 4 6 0 0 1 0 5 -5
+p357
+aVLuke Ridnour MIL 01/27/2014 MIL vs. LAC L 15 2 1 3 33.3 0 0 - 0 0 - 1 0 1 3 0 0 2 1 -7
+p358
+aVMiroslav Raduljica MIL 01/27/2014 MIL vs. LAC L 23 11 4 6 66.7 0 0 - 3 4 75.0 4 2 6 1 0 1 0 1 -5
+p359
+aVGiannis Antetokounmpo MIL 01/27/2014 MIL vs. LAC L 37 8 3 7 42.9 0 1 0.0 2 4 50.0 1 6 7 3 0 1 1 4 -27
+p360
+aVJohn Henson MIL 01/27/2014 MIL vs. LAC L 27 11 5 10 50.0 0 0 - 1 2 50.0 4 4 8 2 0 1 1 4 -21
+p361
+aVBrandon Knight MIL 01/27/2014 MIL vs. LAC L 28 9 3 12 25.0 0 5 0.0 3 4 75.0 0 2 2 7 0 0 2 2 -29
+p362
+aVNate Wolters MIL 01/27/2014 MIL vs. LAC L 18 4 1 6 16.7 0 1 0.0 2 4 50.0 0 0 0 3 2 0 0 0 -9
+p363
+aVKhris Middleton MIL 01/27/2014 MIL vs. LAC L 38 14 7 15 46.7 0 3 0.0 0 0 - 0 4 4 3 2 0 2 1 -18
+p364
+aVErsan Ilyasova MIL 01/27/2014 MIL vs. LAC L 31 16 6 22 27.3 1 6 16.7 3 4 75.0 4 4 8 1 1 0 0 2 -17
+p365
+aVCaron Butler MIL 01/27/2014 MIL vs. LAC L 23 11 4 8 50.0 3 6 50.0 0 0 - 3 2 5 1 1 0 3 0 -7
+p366
+aVLarry Sanders MIL 01/25/2014 MIL vs. ATL L 21 1 0 5 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 2 -17
+p367
+aVBrandon Knight MIL 01/25/2014 MIL vs. ATL L 36 27 11 15 73.3 5 7 71.4 0 0 - 0 4 4 5 1 1 4 4 -25
+p368
+aVKhris Middleton MIL 01/25/2014 MIL vs. ATL L 31 11 5 9 55.6 0 3 0.0 1 2 50.0 1 0 1 1 1 0 2 4 -24
+p369
+aVJohn Henson MIL 01/25/2014 MIL vs. ATL L 28 10 5 8 62.5 0 0 - 0 2 0.0 3 7 10 1 0 2 1 2 -19
+p370
+aVNate Wolters MIL 01/25/2014 MIL vs. ATL L 16 8 3 5 60.0 0 0 - 2 4 50.0 1 0 1 5 1 1 0 1 7
+p371
+aVGiannis Antetokounmpo MIL 01/25/2014 MIL vs. ATL L 25 5 2 6 33.3 0 2 0.0 1 2 50.0 0 2 2 2 1 1 4 5 3
+p372
+aVMiroslav Raduljica MIL 01/25/2014 MIL vs. ATL L 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 4
+p373
+aVErsan Ilyasova MIL 01/25/2014 MIL vs. ATL L 21 11 5 15 33.3 0 3 0.0 1 1 100.0 6 7 13 1 1 0 1 2 -23
+p374
+aVCaron Butler MIL 01/25/2014 MIL vs. ATL L 15 10 5 9 55.6 0 1 0.0 0 0 - 0 2 2 1 1 0 2 1 -5
+p375
+aVO.J. Mayo MIL 01/25/2014 MIL vs. ATL L 21 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 3 0 0 1 1 -16
+p376
+aVLuke Ridnour MIL 01/25/2014 MIL vs. ATL L 15 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 3 0 0 2 3 -10
+p377
+aVKhris Middleton MIL 01/24/2014 MIL @ CLE L 28 13 5 7 71.4 3 5 60.0 0 1 0.0 0 3 3 0 2 0 3 3 0
+p378
+aVNate Wolters MIL 01/24/2014 MIL @ CLE L 9 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 5
+p379
+aVJohn Henson MIL 01/24/2014 MIL @ CLE L 25 8 4 7 57.1 0 0 - 0 0 - 2 4 6 3 1 2 4 3 -19
+p380
+aVErsan Ilyasova MIL 01/24/2014 MIL @ CLE L 22 5 2 10 20.0 1 3 33.3 0 0 - 0 6 6 1 0 0 1 0 -10
+p381
+aVCaron Butler MIL 01/24/2014 MIL @ CLE L 17 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 1 0 0 0 4 -10
+p382
+aVGiannis Antetokounmpo MIL 01/24/2014 MIL @ CLE L 26 10 3 5 60.0 2 3 66.7 2 2 100.0 1 6 7 2 1 2 3 2 -1
+p383
+aVLarry Sanders MIL 01/24/2014 MIL @ CLE L 21 7 3 5 60.0 0 0 - 1 2 50.0 3 2 5 0 0 3 0 1 -10
+p384
+aVLuke Ridnour MIL 01/24/2014 MIL @ CLE L 19 4 1 7 14.3 0 3 0.0 2 2 100.0 0 0 0 2 0 0 1 2 -10
+p385
+aVMiroslav Raduljica MIL 01/24/2014 MIL @ CLE L 16 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 0 0 0 3 3
+p386
+aVBrandon Knight MIL 01/24/2014 MIL @ CLE L 23 8 4 12 33.3 0 4 0.0 0 1 0.0 0 0 0 3 1 1 1 0 -18
+p387
+aVO.J. Mayo MIL 01/24/2014 MIL @ CLE L 22 9 3 6 50.0 1 4 25.0 2 2 100.0 0 1 1 6 1 0 1 2 -2
+p388
+aVEkpe Udoh MIL 01/24/2014 MIL @ CLE L 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -3
+p389
+aVJohn Henson MIL 01/22/2014 MIL vs. DET W 21 12 6 9 66.7 0 0 - 0 4 0.0 1 2 3 0 0 3 1 4 -4
+p390
+aVEkpe Udoh MIL 01/22/2014 MIL vs. DET W 24 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 2 0 0 2 2 -15
+p391
+aVCaron Butler MIL 01/22/2014 MIL vs. DET W 32 30 12 21 57.1 2 10 20.0 4 4 100.0 1 6 7 5 1 1 0 5 16
+p392
+aVKhris Middleton MIL 01/22/2014 MIL vs. DET W 30 10 3 6 50.0 2 3 66.7 2 2 100.0 0 2 2 4 4 2 2 3 20
+p393
+aVGiannis Antetokounmpo MIL 01/22/2014 MIL vs. DET W 26 4 1 3 33.3 0 2 0.0 2 2 100.0 0 5 5 3 1 1 2 1 -18
+p394
+aVBrandon Knight MIL 01/22/2014 MIL vs. DET W 41 16 5 17 29.4 2 5 40.0 4 8 50.0 1 6 7 9 1 0 6 2 -1
+p395
+aVErsan Ilyasova MIL 01/22/2014 MIL vs. DET W 27 12 6 13 46.2 0 3 0.0 0 0 - 3 3 6 1 1 0 2 3 -12
+p396
+aVLuke Ridnour MIL 01/22/2014 MIL vs. DET W 19 8 3 7 42.9 2 4 50.0 0 0 - 1 2 3 3 1 0 2 1 12
+p397
+aVMiroslav Raduljica MIL 01/22/2014 MIL vs. DET W 20 8 4 5 80.0 0 0 - 0 0 - 3 5 8 2 2 0 1 3 17
+p398
+aVLuke Ridnour MIL 01/19/2014 MIL @ SAS L 11 2 1 5 20.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -10
+p399
+aVGary Neal MIL 01/19/2014 MIL @ SAS L 18 3 1 8 12.5 1 5 20.0 0 0 - 1 1 2 3 0 0 1 1 -18
+p400
+aVKhris Middleton MIL 01/19/2014 MIL @ SAS L 26 8 4 7 57.1 0 2 0.0 0 2 0.0 0 0 0 2 4 0 0 1 -14
+p401
+aVJohn Henson MIL 01/19/2014 MIL @ SAS L 24 10 5 11 45.5 0 0 - 0 1 0.0 3 8 11 1 1 2 0 5 -15
+p402
+aVLarry Sanders MIL 01/19/2014 MIL @ SAS L 21 10 4 8 50.0 0 0 - 2 4 50.0 3 4 7 0 4 1 0 2 -5
+p403
+aVNate Wolters MIL 01/19/2014 MIL @ SAS L 12 9 3 7 42.9 0 1 0.0 3 5 60.0 1 0 1 3 0 1 0 0 -4
+p404
+aVBrandon Knight MIL 01/19/2014 MIL @ SAS L 32 21 8 16 50.0 2 4 50.0 3 3 100.0 0 1 1 3 0 0 3 1 -14
+p405
+aVErsan Ilyasova MIL 01/19/2014 MIL @ SAS L 19 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 -5
+p406
+aVEkpe Udoh MIL 01/19/2014 MIL @ SAS L 20 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 0 1 0 0 1 -5
+p407
+aVO.J. Mayo MIL 01/19/2014 MIL @ SAS L 19 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 0 2 1 0 -13
+p408
+aVGiannis Antetokounmpo MIL 01/19/2014 MIL @ SAS L 30 11 4 10 40.0 3 6 50.0 0 0 - 1 3 4 1 0 0 2 2 -19
+p409
+aVMiroslav Raduljica MIL 01/19/2014 MIL @ SAS L 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -18
+p410
+aVMiroslav Raduljica MIL 01/18/2014 MIL @ HOU L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -3
+p411
+aVLarry Sanders MIL 01/18/2014 MIL @ HOU L 31 12 5 8 62.5 0 0 - 2 6 33.3 3 2 5 1 2 5 0 4 -6
+p412
+aVLuke Ridnour MIL 01/18/2014 MIL @ HOU L 30 14 5 8 62.5 4 4 100.0 0 0 - 0 1 1 5 0 0 3 3 -15
+p413
+aVO.J. Mayo MIL 01/18/2014 MIL @ HOU L 30 9 4 9 44.4 1 4 25.0 0 0 - 3 2 5 1 0 0 4 3 -3
+p414
+aVKhris Middleton MIL 01/18/2014 MIL @ HOU L 28 6 3 9 33.3 0 4 0.0 0 0 - 0 1 1 3 2 2 0 2 -2
+p415
+aVErsan Ilyasova MIL 01/18/2014 MIL @ HOU L 23 5 1 3 33.3 1 1 100.0 2 2 100.0 0 3 3 1 1 0 3 1 -5
+p416
+aVGiannis Antetokounmpo MIL 01/18/2014 MIL @ HOU L 21 10 4 10 40.0 2 4 50.0 0 0 - 0 4 4 3 1 1 3 4 -5
+p417
+aVJohn Henson MIL 01/18/2014 MIL @ HOU L 29 20 8 12 66.7 0 0 - 4 6 66.7 4 11 15 1 0 1 1 2 -3
+p418
+aVCaron Butler MIL 01/18/2014 MIL @ HOU L 5 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -6
+p419
+aVBrandon Knight MIL 01/18/2014 MIL @ HOU L 34 26 9 16 56.3 3 6 50.0 5 7 71.4 0 4 4 7 0 0 4 3 -2
+p420
+aVJohn Henson MIL 01/15/2014 MIL vs. MEM L 26 8 3 9 33.3 0 0 - 2 4 50.0 5 8 13 2 1 1 2 2 -12
+p421
+aVKhris Middleton MIL 01/15/2014 MIL vs. MEM L 12 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -17
+p422
+aVO.J. Mayo MIL 01/15/2014 MIL vs. MEM L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -14
+p423
+aVLuke Ridnour MIL 01/15/2014 MIL vs. MEM L 43 9 4 8 50.0 1 3 33.3 0 0 - 0 6 6 9 1 0 3 3 -2
+p424
+aVBrandon Knight MIL 01/15/2014 MIL vs. MEM L 40 27 10 17 58.8 5 8 62.5 2 2 100.0 0 2 2 4 1 0 4 0 9
+p425
+aVGiannis Antetokounmpo MIL 01/15/2014 MIL vs. MEM L 22 6 2 4 50.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 2 4 6
+p426
+aVErsan Ilyasova MIL 01/15/2014 MIL vs. MEM L 29 4 2 11 18.2 0 1 0.0 0 0 - 4 9 13 3 1 0 1 4 2
+p427
+aVCaron Butler MIL 01/15/2014 MIL vs. MEM L 19 10 5 12 41.7 0 2 0.0 0 0 - 0 2 2 2 1 1 1 1 7
+p428
+aVMiroslav Raduljica MIL 01/15/2014 MIL vs. MEM L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -9
+p429
+aVLarry Sanders MIL 01/15/2014 MIL vs. MEM L 37 10 4 12 33.3 0 1 0.0 2 2 100.0 5 7 12 1 0 3 1 3 5
+p430
+aVLuke Ridnour MIL 01/13/2014 MIL @ TOR L 24 7 2 6 33.3 2 3 66.7 1 2 50.0 0 1 1 7 0 0 1 2 -10
+p431
+aVKhris Middleton MIL 01/13/2014 MIL @ TOR L 35 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 5 2 0 2 3 -25
+p432
+aVO.J. Mayo MIL 01/13/2014 MIL @ TOR L 17 5 2 8 25.0 1 3 33.3 0 0 - 0 0 0 1 0 1 2 4 -26
+p433
+aVBrandon Knight MIL 01/13/2014 MIL @ TOR L 28 16 4 11 36.4 2 4 50.0 6 6 100.0 3 1 4 4 1 0 1 2 -5
+p434
+aVNate Wolters MIL 01/13/2014 MIL @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 7
+p435
+aVCaron Butler MIL 01/13/2014 MIL @ TOR L 16 5 2 7 28.6 1 3 33.3 0 0 - 0 3 3 0 0 1 1 1 -22
+p436
+aVGiannis Antetokounmpo MIL 01/13/2014 MIL @ TOR L 33 11 5 10 50.0 0 1 0.0 1 4 25.0 3 4 7 4 2 1 4 5 -13
+p437
+aVMiroslav Raduljica MIL 01/13/2014 MIL @ TOR L 4 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 1 0 0 1 7
+p438
+aVErsan Ilyasova MIL 01/13/2014 MIL @ TOR L 33 29 11 16 68.8 3 3 100.0 4 4 100.0 2 7 9 0 2 0 0 0 3
+p439
+aVJohn Henson MIL 01/13/2014 MIL @ TOR L 17 8 4 6 66.7 0 0 - 0 0 - 3 2 5 0 0 4 2 0 -23
+p440
+aVLarry Sanders MIL 01/13/2014 MIL @ TOR L 27 6 2 8 25.0 0 0 - 2 4 50.0 4 4 8 1 0 0 3 3 -3
+p441
+aVLarry Sanders MIL 01/11/2014 MIL @ OKC L 7 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 1 3 -7
+p442
+aVO.J. Mayo MIL 01/11/2014 MIL @ OKC L 30 16 5 11 45.5 4 8 50.0 2 4 50.0 0 2 2 3 1 0 2 2 -8
+p443
+aVGiannis Antetokounmpo MIL 01/11/2014 MIL @ OKC L 38 13 5 12 41.7 0 3 0.0 3 4 75.0 4 7 11 5 2 2 4 2 -10
+p444
+aVBrandon Knight MIL 01/11/2014 MIL @ OKC L 35 13 6 15 40.0 1 8 12.5 0 0 - 1 1 2 4 1 0 3 1 -18
+p445
+aVLuke Ridnour MIL 01/11/2014 MIL @ OKC L 28 16 6 11 54.5 4 5 80.0 0 0 - 0 1 1 5 0 0 2 1 -7
+p446
+aVErsan Ilyasova MIL 01/11/2014 MIL @ OKC L 26 8 3 9 33.3 2 4 50.0 0 0 - 1 2 3 2 0 0 2 4 -9
+p447
+aVMiroslav Raduljica MIL 01/11/2014 MIL @ OKC L 17 9 3 6 50.0 0 0 - 3 3 100.0 1 2 3 0 1 0 0 5 -8
+p448
+aVKhris Middleton MIL 01/11/2014 MIL @ OKC L 36 8 3 14 21.4 1 3 33.3 1 3 33.3 4 4 8 3 1 0 1 3 -12
+p449
+aVEkpe Udoh MIL 01/11/2014 MIL @ OKC L 24 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 1 1 0 2 -1
+p450
+aVCaron Butler MIL 01/10/2014 MIL vs. CHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -4
+p451
+aVLarry Sanders MIL 01/10/2014 MIL vs. CHI L 23 1 0 2 0.0 0 0 - 1 2 50.0 3 6 9 0 0 2 1 6 -12
+p452
+aVErsan Ilyasova MIL 01/10/2014 MIL vs. CHI L 30 14 6 13 46.2 2 2 100.0 0 0 - 1 5 6 0 1 0 0 4 -10
+p453
+aVMiroslav Raduljica MIL 01/10/2014 MIL vs. CHI L 21 10 3 4 75.0 0 0 - 4 4 100.0 4 1 5 0 0 1 0 3 3
+p454
+aVKhris Middleton MIL 01/10/2014 MIL vs. CHI L 29 3 1 7 14.3 1 1 100.0 0 0 - 1 7 8 2 0 0 1 3 3
+p455
+aVLuke Ridnour MIL 01/10/2014 MIL vs. CHI L 40 14 6 14 42.9 2 5 40.0 0 0 - 1 4 5 8 1 0 1 4 -2
+p456
+aVO.J. Mayo MIL 01/10/2014 MIL vs. CHI L 27 16 6 16 37.5 2 6 33.3 2 4 50.0 2 2 4 1 0 0 2 2 -7
+p457
+aVGiannis Antetokounmpo MIL 01/10/2014 MIL vs. CHI L 12 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 3 3 -5
+p458
+aVBrandon Knight MIL 01/10/2014 MIL vs. CHI L 31 12 5 21 23.8 0 6 0.0 2 2 100.0 2 2 4 1 3 0 2 3 -13
+p459
+aVEkpe Udoh MIL 01/10/2014 MIL vs. CHI L 19 2 1 4 25.0 0 0 - 0 0 - 2 2 4 2 0 1 2 0 2
+p460
+aVKhris Middleton MIL 01/07/2014 MIL vs. GSW L 31 10 4 7 57.1 0 1 0.0 2 2 100.0 1 3 4 1 1 0 0 2 -7
+p461
+aVO.J. Mayo MIL 01/07/2014 MIL vs. GSW L 25 13 5 8 62.5 3 4 75.0 0 0 - 0 2 2 1 1 0 2 2 -1
+p462
+aVLarry Sanders MIL 01/07/2014 MIL vs. GSW L 30 5 2 10 20.0 0 0 - 1 2 50.0 3 3 6 2 0 0 1 3 -11
+p463
+aVGiannis Antetokounmpo MIL 01/07/2014 MIL vs. GSW L 24 2 1 3 33.3 0 0 - 0 0 - 0 5 5 5 2 0 1 3 -22
+p464
+aVBrandon Knight MIL 01/07/2014 MIL vs. GSW L 36 18 8 15 53.3 0 3 0.0 2 2 100.0 0 0 0 4 1 0 2 2 -7
+p465
+aVEkpe Udoh MIL 01/07/2014 MIL vs. GSW L 16 1 0 4 0.0 0 0 - 1 2 50.0 2 4 6 0 0 2 2 2 -9
+p466
+aVNate Wolters MIL 01/07/2014 MIL vs. GSW L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 2 0 0 1 0 -1
+p467
+aVLuke Ridnour MIL 01/07/2014 MIL vs. GSW L 26 4 2 9 22.2 0 0 - 0 0 - 0 1 1 3 1 1 0 0 -25
+p468
+aVMiroslav Raduljica MIL 01/07/2014 MIL vs. GSW L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p469
+aVCaron Butler MIL 01/07/2014 MIL vs. GSW L 17 2 1 7 14.3 0 2 0.0 0 0 - 1 5 6 2 0 0 1 2 -3
+p470
+aVErsan Ilyasova MIL 01/07/2014 MIL vs. GSW L 31 20 6 15 40.0 2 5 40.0 6 8 75.0 3 3 6 0 2 0 1 2 -18
+p471
+aVLarry Sanders MIL 01/04/2014 MIL @ PHX L 26 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 0 0 1 3 4 -26
+p472
+aVO.J. Mayo MIL 01/04/2014 MIL @ PHX L 31 20 7 11 63.6 4 5 80.0 2 2 100.0 1 2 3 5 1 0 1 3 11
+p473
+aVEkpe Udoh MIL 01/04/2014 MIL @ PHX L 18 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 1 6
+p474
+aVCaron Butler MIL 01/04/2014 MIL @ PHX L 27 16 6 11 54.5 4 6 66.7 0 0 - 1 6 7 3 0 1 4 2 3
+p475
+aVMiroslav Raduljica MIL 01/04/2014 MIL @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p476
+aVErsan Ilyasova MIL 01/04/2014 MIL @ PHX L 21 12 6 9 66.7 0 3 0.0 0 1 0.0 1 3 4 0 1 0 2 1 -19
+p477
+aVKhris Middleton MIL 01/04/2014 MIL @ PHX L 22 7 3 6 50.0 0 1 0.0 1 2 50.0 0 8 8 0 0 0 2 2 1
+p478
+aVGary Neal MIL 01/04/2014 MIL @ PHX L 18 9 3 8 37.5 1 5 20.0 2 2 100.0 0 1 1 1 0 0 2 1 -20
+p479
+aVNate Wolters MIL 01/04/2014 MIL @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p480
+aVBrandon Knight MIL 01/04/2014 MIL @ PHX L 36 25 8 12 66.7 1 1 100.0 8 9 88.9 1 3 4 8 1 1 4 2 -6
+p481
+aVGiannis Antetokounmpo MIL 01/04/2014 MIL @ PHX L 14 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 4 3 -18
+p482
+aVLuke Ridnour MIL 01/04/2014 MIL @ PHX L 21 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 3 1 -20
+p483
+aVGary Neal MIL 01/02/2014 MIL @ UTA L 17 11 5 9 55.6 1 4 25.0 0 1 0.0 0 1 1 0 0 0 0 0 -1
+p484
+aVLarry Sanders MIL 01/02/2014 MIL @ UTA L 35 16 7 7 100.0 0 0 - 2 2 100.0 0 8 8 2 2 2 1 3 -4
+p485
+aVMiroslav Raduljica MIL 01/02/2014 MIL @ UTA L 13 7 3 5 60.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 4 -5
+p486
+aVErsan Ilyasova MIL 01/02/2014 MIL @ UTA L 18 8 4 9 44.4 0 1 0.0 0 0 - 1 2 3 0 0 0 4 2 -5
+p487
+aVCaron Butler MIL 01/02/2014 MIL @ UTA L 17 9 4 8 50.0 1 2 50.0 0 0 - 0 3 3 2 1 0 0 0 -7
+p488
+aVBrandon Knight MIL 01/02/2014 MIL @ UTA L 32 8 3 12 25.0 1 5 20.0 1 2 50.0 0 2 2 3 2 0 1 2 -4
+p489
+aVLuke Ridnour MIL 01/02/2014 MIL @ UTA L 37 12 4 8 50.0 0 2 0.0 4 4 100.0 1 2 3 8 1 0 3 1 -4
+p490
+aVGiannis Antetokounmpo MIL 01/02/2014 MIL @ UTA L 34 10 3 6 50.0 1 2 50.0 3 4 75.0 1 6 7 5 0 1 2 4 1
+p491
+aVO.J. Mayo MIL 01/02/2014 MIL @ UTA L 18 4 2 7 28.6 0 4 0.0 0 0 - 1 0 1 0 1 1 1 1 -9
+p492
+aVKhris Middleton MIL 01/02/2014 MIL @ UTA L 20 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 1 1 0 1 2 -7
+p493
+aVGary Neal MIL 12/31/2013 MIL @ LAL W 14 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 -11
+p494
+aVMiroslav Raduljica MIL 12/31/2013 MIL @ LAL W 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -5
+p495
+aVErsan Ilyasova MIL 12/31/2013 MIL @ LAL W 33 15 7 15 46.7 0 1 0.0 1 2 50.0 5 7 12 1 2 0 1 1 24
+p496
+aVGiannis Antetokounmpo MIL 12/31/2013 MIL @ LAL W 38 8 3 7 42.9 0 0 - 2 2 100.0 4 7 11 1 0 0 1 3 25
+p497
+aVLarry Sanders MIL 12/31/2013 MIL @ LAL W 35 7 3 8 37.5 0 0 - 1 4 25.0 4 7 11 5 2 4 0 4 18
+p498
+aVBrandon Knight MIL 12/31/2013 MIL @ LAL W 39 37 15 25 60.0 3 8 37.5 4 6 66.7 2 6 8 2 4 0 2 1 17
+p499
+aVO.J. Mayo MIL 12/31/2013 MIL @ LAL W 9 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p500
+aVCaron Butler MIL 12/31/2013 MIL @ LAL W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 3 1 -6
+p501
+aVKhris Middleton MIL 12/31/2013 MIL @ LAL W 17 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 1 1 0 0 0 -11
+p502
+aVLuke Ridnour MIL 12/31/2013 MIL @ LAL W 35 11 5 11 45.5 1 6 16.7 0 0 - 1 3 4 3 1 0 0 3 30
+p503
+aVErsan Ilyasova MIL 12/28/2013 MIL vs. MIN L 21 4 2 10 20.0 0 3 0.0 0 0 - 2 1 3 1 3 0 2 2 -9
+p504
+aVBrandon Knight MIL 12/28/2013 MIL vs. MIN L 34 18 6 15 40.0 1 5 20.0 5 7 71.4 1 1 2 5 1 0 4 2 -11
+p505
+aVCaron Butler MIL 12/28/2013 MIL vs. MIN L 24 6 3 11 27.3 0 2 0.0 0 0 - 0 5 5 4 1 1 0 5 -16
+p506
+aVO.J. Mayo MIL 12/28/2013 MIL vs. MIN L 24 19 8 12 66.7 1 4 25.0 2 2 100.0 1 1 2 2 0 0 2 1 -10
+p507
+aVKhris Middleton MIL 12/28/2013 MIL vs. MIN L 41 23 10 20 50.0 3 7 42.9 0 0 - 1 8 9 4 1 2 3 3 -8
+p508
+aVLarry Sanders MIL 12/28/2013 MIL vs. MIN L 34 9 4 7 57.1 0 0 - 1 4 25.0 3 7 10 0 2 0 3 3 -4
+p509
+aVMiroslav Raduljica MIL 12/28/2013 MIL vs. MIN L 14 8 3 6 50.0 0 0 - 2 2 100.0 4 1 5 1 0 0 1 1 -10
+p510
+aVGiannis Antetokounmpo MIL 12/28/2013 MIL vs. MIN L 31 6 3 6 50.0 0 1 0.0 0 0 - 4 1 5 4 4 2 4 1 -26
+p511
+aVEkpe Udoh MIL 12/28/2013 MIL vs. MIN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -5
+p512
+aVNate Wolters MIL 12/28/2013 MIL vs. MIN L 14 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 3 0 1 1 0 -11
+p513
+aVNate Wolters MIL 12/27/2013 MIL @ BKN L 11 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 1 0 2 1 -11
+p514
+aVKhris Middleton MIL 12/27/2013 MIL @ BKN L 33 15 3 11 27.3 2 6 33.3 7 7 100.0 3 5 8 3 1 1 3 6 6
+p515
+aVMiroslav Raduljica MIL 12/27/2013 MIL @ BKN L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p516
+aVErsan Ilyasova MIL 12/27/2013 MIL @ BKN L 22 6 2 11 18.2 0 4 0.0 2 2 100.0 2 3 5 1 0 0 0 2 -7
+p517
+aVLuke Ridnour MIL 12/27/2013 MIL @ BKN L 20 7 3 5 60.0 1 3 33.3 0 0 - 1 1 2 5 0 0 0 2 -2
+p518
+aVJohn Henson MIL 12/27/2013 MIL @ BKN L 20 8 4 5 80.0 0 0 - 0 0 - 1 6 7 0 0 1 0 3 -17
+p519
+aVLarry Sanders MIL 12/27/2013 MIL @ BKN L 22 10 4 5 80.0 0 0 - 2 6 33.3 2 5 7 1 1 2 1 6 2
+p520
+aVBrandon Knight MIL 12/27/2013 MIL @ BKN L 28 11 4 13 30.8 1 4 25.0 2 4 50.0 1 1 2 5 2 0 2 2 -9
+p521
+aVO.J. Mayo MIL 12/27/2013 MIL @ BKN L 27 13 5 13 38.5 3 7 42.9 0 0 - 0 0 0 1 2 0 0 0 -6
+p522
+aVCaron Butler MIL 12/27/2013 MIL @ BKN L 17 0 0 7 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -27
+p523
+aVGiannis Antetokounmpo MIL 12/27/2013 MIL @ BKN L 34 16 5 12 41.7 1 5 20.0 5 6 83.3 2 8 10 1 0 3 1 3 12
+p524
+aVCaron Butler MIL 12/23/2013 MIL @ CHA L 30 11 3 11 27.3 1 5 20.0 4 4 100.0 0 4 4 3 1 0 2 3 7
+p525
+aVEkpe Udoh MIL 12/23/2013 MIL @ CHA L 14 2 1 4 25.0 0 0 - 0 0 - 2 2 4 2 1 0 1 2 -9
+p526
+aVNate Wolters MIL 12/23/2013 MIL @ CHA L 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -8
+p527
+aVMiroslav Raduljica MIL 12/23/2013 MIL @ CHA L 19 8 3 3 100.0 0 0 - 2 2 100.0 0 4 4 0 0 1 1 3 13
+p528
+aVLuke Ridnour MIL 12/23/2013 MIL @ CHA L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -1
+p529
+aVBrandon Knight MIL 12/23/2013 MIL @ CHA L 38 26 11 23 47.8 2 5 40.0 2 2 100.0 1 7 8 14 0 0 2 3 7
+p530
+aVO.J. Mayo MIL 12/23/2013 MIL @ CHA L 25 14 5 13 38.5 2 5 40.0 2 2 100.0 2 7 9 2 2 1 4 1 -3
+p531
+aVGiannis Antetokounmpo MIL 12/23/2013 MIL @ CHA L 36 12 4 8 50.0 2 4 50.0 2 2 100.0 2 4 6 2 0 0 0 1 3
+p532
+aVKhris Middleton MIL 12/23/2013 MIL @ CHA L 41 19 7 14 50.0 3 8 37.5 2 2 100.0 2 4 6 3 3 0 1 4 2
+p533
+aVJohn Henson MIL 12/23/2013 MIL @ CHA L 35 14 6 14 42.9 0 0 - 2 3 66.7 3 6 9 1 0 6 1 3 -16
+p534
+aVCaron Butler MIL 12/21/2013 MIL vs. PHI W 40 22 8 21 38.1 2 10 20.0 4 6 66.7 0 11 11 4 0 1 4 3 -4
+p535
+aVEkpe Udoh MIL 12/21/2013 MIL vs. PHI W 26 0 0 1 0.0 0 0 - 0 0 - 4 3 7 2 0 5 0 5 -6
+p536
+aVO.J. Mayo MIL 12/21/2013 MIL vs. PHI W 20 7 3 7 42.9 1 4 25.0 0 0 - 0 3 3 1 1 0 2 1 7
+p537
+aVGiannis Antetokounmpo MIL 12/21/2013 MIL vs. PHI W 35 12 3 7 42.9 0 0 - 6 6 100.0 2 5 7 3 0 2 2 0 11
+p538
+aVLuke Ridnour MIL 12/21/2013 MIL vs. PHI W 13 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 2 1 0 1 0 0
+p539
+aVNate Wolters MIL 12/21/2013 MIL vs. PHI W 15 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 0 3 0 0 1 12
+p540
+aVBrandon Knight MIL 12/21/2013 MIL vs. PHI W 33 21 7 13 53.8 2 4 50.0 5 5 100.0 0 4 4 6 0 0 0 3 0
+p541
+aVKhris Middleton MIL 12/21/2013 MIL vs. PHI W 36 27 11 15 73.3 1 5 20.0 4 4 100.0 1 4 5 4 2 1 0 4 14
+p542
+aVMiroslav Raduljica MIL 12/21/2013 MIL vs. PHI W 22 14 5 7 71.4 0 0 - 4 4 100.0 2 2 4 1 2 0 4 3 16
+p543
+aVBrandon Knight MIL 12/20/2013 MIL @ CLE L 35 17 6 20 30.0 1 5 20.0 4 4 100.0 1 13 14 8 3 1 0 1 -5
+p544
+aVO.J. Mayo MIL 12/20/2013 MIL @ CLE L 36 20 6 21 28.6 3 11 27.3 5 6 83.3 1 6 7 4 1 2 4 3 -4
+p545
+aVMiroslav Raduljica MIL 12/20/2013 MIL @ CLE L 17 7 2 6 33.3 0 0 - 3 5 60.0 3 1 4 0 0 2 1 4 -4
+p546
+aVEkpe Udoh MIL 12/20/2013 MIL @ CLE L 28 10 4 7 57.1 0 0 - 2 2 100.0 4 2 6 0 0 0 3 5 3
+p547
+aVGiannis Antetokounmpo MIL 12/20/2013 MIL @ CLE L 23 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 1 0 0 1 4 1
+p548
+aVNate Wolters MIL 12/20/2013 MIL @ CLE L 18 8 3 7 42.9 0 0 - 2 2 100.0 0 0 0 3 2 0 1 0 2
+p549
+aVKhris Middleton MIL 12/20/2013 MIL @ CLE L 50 14 5 15 33.3 4 7 57.1 0 0 - 0 7 7 1 0 0 1 4 8
+p550
+aVLuke Ridnour MIL 12/20/2013 MIL @ CLE L 21 11 5 8 62.5 1 4 25.0 0 0 - 1 3 4 2 1 0 0 1 1
+p551
+aVJohn Henson MIL 12/20/2013 MIL @ CLE L 37 18 7 12 58.3 0 0 - 4 4 100.0 4 6 10 3 0 2 0 1 -17
+p552
+aVErsan Ilyasova MIL 12/18/2013 MIL vs. NYK L 49 11 2 10 20.0 0 4 0.0 7 8 87.5 1 3 4 2 0 1 2 3 -5
+p553
+aVGiannis Antetokounmpo MIL 12/18/2013 MIL vs. NYK L 42 10 2 3 66.7 0 0 - 6 7 85.7 1 6 7 2 2 1 3 6 -1
+p554
+aVJohn Henson MIL 12/18/2013 MIL vs. NYK L 51 20 7 14 50.0 0 0 - 6 10 60.0 4 10 14 2 0 1 3 2 2
+p555
+aVNate Wolters MIL 12/18/2013 MIL vs. NYK L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -3
+p556
+aVEkpe Udoh MIL 12/18/2013 MIL vs. NYK L 16 0 0 2 0.0 0 0 - 0 0 - 2 6 8 0 1 1 1 3 -9
+p557
+aVKhris Middleton MIL 12/18/2013 MIL vs. NYK L 52 20 8 22 36.4 2 4 50.0 2 4 50.0 3 6 9 2 1 0 2 6 -4
+p558
+aVLuke Ridnour MIL 12/18/2013 MIL vs. NYK L 17 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -13
+p559
+aVBrandon Knight MIL 12/18/2013 MIL vs. NYK L 50 36 13 25 52.0 6 12 50.0 4 6 66.7 1 8 9 3 0 1 8 4 3
+p560
+aVLuke Ridnour MIL 12/14/2013 MIL @ DAL L 16 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 2 1 0 0 0 15
+p561
+aVBrandon Knight MIL 12/14/2013 MIL @ DAL L 24 16 7 16 43.8 1 6 16.7 1 1 100.0 0 2 2 1 2 0 1 1 -26
+p562
+aVO.J. Mayo MIL 12/14/2013 MIL @ DAL L 15 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 2 1 0 2 1 -15
+p563
+aVMiroslav Raduljica MIL 12/14/2013 MIL @ DAL L 14 12 6 8 75.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 7
+p564
+aVErsan Ilyasova MIL 12/14/2013 MIL @ DAL L 19 2 0 2 0.0 0 0 - 2 2 100.0 1 4 5 0 2 0 3 2 -20
+p565
+aVNate Wolters MIL 12/14/2013 MIL @ DAL L 28 6 3 6 50.0 0 0 - 0 0 - 1 4 5 2 0 1 2 1 14
+p566
+aVEkpe Udoh MIL 12/14/2013 MIL @ DAL L 18 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -12
+p567
+aVKhris Middleton MIL 12/14/2013 MIL @ DAL L 30 10 3 7 42.9 2 4 50.0 2 2 100.0 0 1 1 2 0 0 1 3 -11
+p568
+aVGary Neal MIL 12/14/2013 MIL @ DAL L 13 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 0 0 0 1 0 -14
+p569
+aVJohn Henson MIL 12/14/2013 MIL @ DAL L 29 18 8 17 47.1 0 0 - 2 4 50.0 2 11 13 1 2 2 5 1 -3
+p570
+aVGiannis Antetokounmpo MIL 12/14/2013 MIL @ DAL L 35 13 3 9 33.3 0 1 0.0 7 8 87.5 2 7 9 4 0 1 0 2 0
+p571
+aVEkpe Udoh MIL 12/13/2013 MIL vs. CHI L 33 7 3 5 60.0 0 0 - 1 2 50.0 1 4 5 2 1 3 3 3 0
+p572
+aVO.J. Mayo MIL 12/13/2013 MIL vs. CHI L 29 14 6 13 46.2 2 5 40.0 0 0 - 0 1 1 2 0 0 1 5 -9
+p573
+aVGiannis Antetokounmpo MIL 12/13/2013 MIL vs. CHI L 24 8 2 4 50.0 0 0 - 4 4 100.0 4 5 9 1 0 0 0 2 1
+p574
+aVErsan Ilyasova MIL 12/13/2013 MIL vs. CHI L 24 3 1 7 14.3 0 1 0.0 1 2 50.0 2 1 3 1 1 0 0 1 5
+p575
+aVJohn Henson MIL 12/13/2013 MIL vs. CHI L 36 15 6 9 66.7 0 0 - 3 4 75.0 1 7 8 3 2 4 2 3 -6
+p576
+aVMiroslav Raduljica MIL 12/13/2013 MIL vs. CHI L 3 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -1
+p577
+aVNate Wolters MIL 12/13/2013 MIL vs. CHI L 19 5 2 7 28.6 0 0 - 1 2 50.0 2 0 2 3 2 0 1 0 10
+p578
+aVGary Neal MIL 12/13/2013 MIL vs. CHI L 19 17 5 9 55.6 2 4 50.0 5 6 83.3 0 2 2 0 0 0 4 0 5
+p579
+aVKhris Middleton MIL 12/13/2013 MIL vs. CHI L 24 10 5 9 55.6 0 0 - 0 0 - 1 3 4 2 0 1 0 2 1
+p580
+aVBrandon Knight MIL 12/13/2013 MIL vs. CHI L 29 11 3 9 33.3 0 0 - 5 5 100.0 0 2 2 4 0 0 3 1 -11
+p581
+aVEkpe Udoh MIL 12/11/2013 MIL vs. SAS L 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -21
+p582
+aVGiannis Antetokounmpo MIL 12/11/2013 MIL vs. SAS L 33 15 5 8 62.5 0 1 0.0 5 8 62.5 3 5 8 1 2 1 1 3 -5
+p583
+aVJohn Henson MIL 12/11/2013 MIL vs. SAS L 21 4 2 6 33.3 0 0 - 0 0 - 4 4 8 1 1 0 3 1 -31
+p584
+aVErsan Ilyasova MIL 12/11/2013 MIL vs. SAS L 39 8 3 16 18.8 1 4 25.0 1 2 50.0 2 4 6 2 1 0 0 1 -13
+p585
+aVLuke Ridnour MIL 12/11/2013 MIL vs. SAS L 26 7 3 10 30.0 0 1 0.0 1 2 50.0 0 4 4 2 1 0 3 3 -1
+p586
+aVBrandon Knight MIL 12/11/2013 MIL vs. SAS L 18 8 2 7 28.6 0 3 0.0 4 4 100.0 0 1 1 1 0 0 0 3 -25
+p587
+aVO.J. Mayo MIL 12/11/2013 MIL vs. SAS L 22 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 1 -31
+p588
+aVMiroslav Raduljica MIL 12/11/2013 MIL vs. SAS L 23 10 4 7 57.1 0 0 - 2 2 100.0 6 1 7 1 0 2 0 1 1
+p589
+aVKhris Middleton MIL 12/11/2013 MIL vs. SAS L 15 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 1 0 0 2 2 -27
+p590
+aVNate Wolters MIL 12/11/2013 MIL vs. SAS L 30 18 7 15 46.7 0 2 0.0 4 5 80.0 0 1 1 7 2 1 2 2 -7
+p591
+aVJohn Henson MIL 12/10/2013 MIL @ CHI W 41 25 11 17 64.7 0 0 - 3 4 75.0 6 8 14 2 3 6 3 3 5
+p592
+aVBrandon Knight MIL 12/10/2013 MIL @ CHI W 44 19 8 23 34.8 1 3 33.3 2 2 100.0 1 9 10 2 0 0 6 2 3
+p593
+aVErsan Ilyasova MIL 12/10/2013 MIL @ CHI W 31 10 4 9 44.4 0 2 0.0 2 2 100.0 0 1 1 1 2 0 2 2 3
+p594
+aVO.J. Mayo MIL 12/10/2013 MIL @ CHI W 44 7 2 12 16.7 0 4 0.0 3 3 100.0 1 0 1 7 0 2 1 4 3
+p595
+aVKhris Middleton MIL 12/10/2013 MIL @ CHI W 33 8 2 6 33.3 1 2 50.0 3 3 100.0 0 4 4 0 1 1 0 2 13
+p596
+aVNate Wolters MIL 12/10/2013 MIL @ CHI W 13 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 2 0 0 1 0 2
+p597
+aVGiannis Antetokounmpo MIL 12/10/2013 MIL @ CHI W 10 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 0 -8
+p598
+aVEkpe Udoh MIL 12/10/2013 MIL @ CHI W 22 4 2 3 66.7 0 0 - 0 2 0.0 4 1 5 0 1 2 0 3 2
+p599
+aVMiroslav Raduljica MIL 12/10/2013 MIL @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p600
+aVBrandon Knight MIL 12/07/2013 MIL vs. BKN L 37 10 3 12 25.0 2 5 40.0 2 2 100.0 3 3 6 3 1 0 3 2 -12
+p601
+aVGiannis Antetokounmpo MIL 12/07/2013 MIL vs. BKN L 14 3 1 3 33.3 0 2 0.0 1 2 50.0 0 2 2 1 1 1 1 1 -1
+p602
+aVNate Wolters MIL 12/07/2013 MIL vs. BKN L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 0 4
+p603
+aVEkpe Udoh MIL 12/07/2013 MIL vs. BKN L 26 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 1 1 0 5 2
+p604
+aVMiroslav Raduljica MIL 12/07/2013 MIL vs. BKN L 9 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 2 -1
+p605
+aVO.J. Mayo MIL 12/07/2013 MIL vs. BKN L 35 22 7 16 43.8 2 5 40.0 6 6 100.0 0 4 4 5 0 0 2 2 0
+p606
+aVGary Neal MIL 12/07/2013 MIL vs. BKN L 7 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 1 0 0 0 1 -2
+p607
+aVJohn Henson MIL 12/07/2013 MIL vs. BKN L 34 18 8 15 53.3 0 1 0.0 2 6 33.3 2 5 7 3 0 1 1 3 -13
+p608
+aVKhris Middleton MIL 12/07/2013 MIL vs. BKN L 37 9 3 9 33.3 1 4 25.0 2 2 100.0 0 6 6 2 0 0 1 1 -10
+p609
+aVErsan Ilyasova MIL 12/07/2013 MIL vs. BKN L 29 4 2 6 33.3 0 1 0.0 0 0 - 1 4 5 2 0 0 1 2 -7
+p610
+aVKhris Middleton MIL 12/06/2013 MIL @ WAS W 47 29 11 22 50.0 4 7 57.1 3 3 100.0 2 5 7 2 2 1 1 4 7
+p611
+aVJohn Henson MIL 12/06/2013 MIL @ WAS W 45 19 8 10 80.0 0 0 - 3 5 60.0 5 12 17 4 0 1 1 0 11
+p612
+aVGiannis Antetokounmpo MIL 12/06/2013 MIL @ WAS W 20 6 3 6 50.0 0 2 0.0 0 1 0.0 2 2 4 1 0 1 1 2 -3
+p613
+aVLuke Ridnour MIL 12/06/2013 MIL @ WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p614
+aVErsan Ilyasova MIL 12/06/2013 MIL @ WAS W 28 7 2 8 25.0 0 3 0.0 3 4 75.0 0 5 5 2 0 0 1 5 8
+p615
+aVO.J. Mayo MIL 12/06/2013 MIL @ WAS W 39 17 7 16 43.8 1 4 25.0 2 4 50.0 0 0 0 3 1 0 4 5 4
+p616
+aVBrandon Knight MIL 12/06/2013 MIL @ WAS W 33 20 6 16 37.5 1 4 25.0 7 8 87.5 1 5 6 6 3 0 4 4 8
+p617
+aVEkpe Udoh MIL 12/06/2013 MIL @ WAS W 33 7 3 5 60.0 0 0 - 1 1 100.0 2 4 6 1 0 0 2 3 -12
+p618
+aVNate Wolters MIL 12/06/2013 MIL @ WAS W 17 4 2 8 25.0 0 0 - 0 0 - 0 3 3 5 0 0 1 2 4
+p619
+aVEkpe Udoh MIL 12/04/2013 MIL vs. DET L 22 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 1 6 1 4 -4
+p620
+aVGary Neal MIL 12/04/2013 MIL vs. DET L 25 8 3 11 27.3 1 4 25.0 1 1 100.0 1 1 2 0 0 0 1 0 10
+p621
+aVMiroslav Raduljica MIL 12/04/2013 MIL vs. DET L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -3
+p622
+aVJohn Henson MIL 12/04/2013 MIL vs. DET L 30 12 5 14 35.7 0 0 - 2 2 100.0 4 5 9 2 2 3 3 4 -15
+p623
+aVBrandon Knight MIL 12/04/2013 MIL vs. DET L 20 12 4 11 36.4 1 4 25.0 3 5 60.0 0 1 1 3 0 0 1 2 -19
+p624
+aVO.J. Mayo MIL 12/04/2013 MIL vs. DET L 23 7 2 8 25.0 1 5 20.0 2 2 100.0 0 1 1 4 0 1 1 2 -17
+p625
+aVLuke Ridnour MIL 12/04/2013 MIL vs. DET L 28 10 4 10 40.0 0 1 0.0 2 2 100.0 1 2 3 8 3 0 2 2 12
+p626
+aVKhris Middleton MIL 12/04/2013 MIL vs. DET L 20 14 5 6 83.3 4 5 80.0 0 0 - 0 4 4 2 0 0 2 4 -15
+p627
+aVErsan Ilyasova MIL 12/04/2013 MIL vs. DET L 37 22 8 19 42.1 2 6 33.3 4 5 80.0 7 3 10 1 1 0 4 5 9
+p628
+aVGiannis Antetokounmpo MIL 12/04/2013 MIL vs. DET L 28 6 3 5 60.0 0 2 0.0 0 1 0.0 0 6 6 4 1 3 0 3 8
+p629
+aVZaza Pachulia MIL 12/04/2013 MIL vs. DET L 6 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 2 0 1 1 -1
+p630
+aVEkpe Udoh MIL 12/03/2013 MIL @ BOS L 28 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 0 3 2 2 -7
+p631
+aVZaza Pachulia MIL 12/03/2013 MIL @ BOS L 18 8 3 5 60.0 0 0 - 2 2 100.0 2 2 4 1 0 1 1 2 0
+p632
+aVJohn Henson MIL 12/03/2013 MIL @ BOS L 29 11 4 8 50.0 0 0 - 3 5 60.0 1 4 5 2 0 1 3 3 -10
+p633
+aVErsan Ilyasova MIL 12/03/2013 MIL @ BOS L 21 7 3 5 60.0 0 0 - 1 1 100.0 1 6 7 0 0 0 1 1 1
+p634
+aVBrandon Knight MIL 12/03/2013 MIL @ BOS L 31 15 5 15 33.3 3 7 42.9 2 2 100.0 1 3 4 6 1 0 0 2 2
+p635
+aVO.J. Mayo MIL 12/03/2013 MIL @ BOS L 32 19 6 12 50.0 2 5 40.0 5 5 100.0 0 2 2 3 1 0 1 1 3
+p636
+aVGary Neal MIL 12/03/2013 MIL @ BOS L 16 8 2 6 33.3 0 3 0.0 4 4 100.0 0 1 1 1 0 0 0 2 -11
+p637
+aVGiannis Antetokounmpo MIL 12/03/2013 MIL @ BOS L 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 1 2 1 -11
+p638
+aVKhris Middleton MIL 12/03/2013 MIL @ BOS L 33 14 5 10 50.0 3 3 100.0 1 2 50.0 1 3 4 3 1 0 1 3 3
+p639
+aVLuke Ridnour MIL 12/03/2013 MIL @ BOS L 17 6 3 6 50.0 0 0 - 0 0 - 1 1 2 3 1 0 1 0 -10
+p640
+aVBrandon Knight MIL 11/30/2013 MIL vs. BOS W 31 20 7 14 50.0 3 3 100.0 3 4 75.0 1 8 9 8 1 1 3 2 4
+p641
+aVEkpe Udoh MIL 11/30/2013 MIL vs. BOS W 39 9 4 9 44.4 0 0 - 1 4 25.0 4 6 10 1 0 2 1 2 7
+p642
+aVO.J. Mayo MIL 11/30/2013 MIL vs. BOS W 31 22 9 14 64.3 2 4 50.0 2 2 100.0 1 2 3 3 1 0 2 2 3
+p643
+aVKhris Middleton MIL 11/30/2013 MIL vs. BOS W 18 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 1 -7
+p644
+aVGiannis Antetokounmpo MIL 11/30/2013 MIL vs. BOS W 28 10 4 6 66.7 2 3 66.7 0 2 0.0 1 6 7 4 0 1 2 0 16
+p645
+aVZaza Pachulia MIL 11/30/2013 MIL vs. BOS W 22 2 0 4 0.0 0 0 - 2 2 100.0 2 3 5 3 0 1 2 5 5
+p646
+aVJohn Henson MIL 11/30/2013 MIL vs. BOS W 34 13 6 13 46.2 0 0 - 1 2 50.0 2 11 13 3 0 3 2 2 2
+p647
+aVGary Neal MIL 11/30/2013 MIL vs. BOS W 17 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p648
+aVLuke Ridnour MIL 11/30/2013 MIL vs. BOS W 21 6 2 6 33.3 1 4 25.0 1 2 50.0 0 1 1 3 2 0 0 2 1
+p649
+aVEkpe Udoh MIL 11/29/2013 MIL @ CHA L 25 10 2 8 25.0 0 0 - 6 8 75.0 3 3 6 2 0 0 1 3 -8
+p650
+aVNate Wolters MIL 11/29/2013 MIL @ CHA L 20 6 2 5 40.0 0 1 0.0 2 2 100.0 1 1 2 2 1 0 1 1 4
+p651
+aVMiroslav Raduljica MIL 11/29/2013 MIL @ CHA L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p652
+aVErsan Ilyasova MIL 11/29/2013 MIL @ CHA L 12 0 0 6 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 0 -6
+p653
+aVKhris Middleton MIL 11/29/2013 MIL @ CHA L 30 9 3 9 33.3 1 3 33.3 2 2 100.0 0 5 5 3 3 2 1 1 -6
+p654
+aVO.J. Mayo MIL 11/29/2013 MIL @ CHA L 31 5 2 11 18.2 1 6 16.7 0 0 - 0 4 4 0 0 0 2 3 -18
+p655
+aVGary Neal MIL 11/29/2013 MIL @ CHA L 20 10 4 11 36.4 2 2 100.0 0 0 - 1 0 1 1 1 0 0 1 -11
+p656
+aVLuke Ridnour MIL 11/29/2013 MIL @ CHA L 14 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 -10
+p657
+aVBrandon Knight MIL 11/29/2013 MIL @ CHA L 30 17 7 11 63.6 1 3 33.3 2 3 66.7 0 3 3 2 2 0 2 2 -7
+p658
+aVZaza Pachulia MIL 11/29/2013 MIL @ CHA L 17 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 3 1 0 1 2 -3
+p659
+aVJohn Henson MIL 11/29/2013 MIL @ CHA L 24 7 3 9 33.3 0 0 - 1 2 50.0 2 3 5 3 0 6 0 3 -15
+p660
+aVGiannis Antetokounmpo MIL 11/29/2013 MIL @ CHA L 13 4 2 3 66.7 0 1 0.0 0 1 0.0 0 2 2 1 1 1 0 3 -1
+p661
+aVZaza Pachulia MIL 11/27/2013 MIL vs. WAS L 36 3 1 2 50.0 0 0 - 1 2 50.0 7 3 10 2 1 0 3 5 -6
+p662
+aVBrandon Knight MIL 11/27/2013 MIL vs. WAS L 30 7 2 12 16.7 1 4 25.0 2 2 100.0 0 4 4 5 1 0 5 0 1
+p663
+aVGary Neal MIL 11/27/2013 MIL vs. WAS L 17 10 3 9 33.3 2 4 50.0 2 2 100.0 0 0 0 3 0 0 0 1 -4
+p664
+aVJohn Henson MIL 11/27/2013 MIL vs. WAS L 15 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 2 0 1 0 3 -6
+p665
+aVEkpe Udoh MIL 11/27/2013 MIL vs. WAS L 15 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 2 1 0 1 1 0
+p666
+aVLuke Ridnour MIL 11/27/2013 MIL vs. WAS L 23 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 1 0 0 2 1 -9
+p667
+aVErsan Ilyasova MIL 11/27/2013 MIL vs. WAS L 39 12 6 7 85.7 0 1 0.0 0 0 - 1 5 6 4 1 0 5 4 -4
+p668
+aVCaron Butler MIL 11/27/2013 MIL vs. WAS L 20 5 2 7 28.6 1 5 20.0 0 0 - 0 3 3 2 0 0 0 1 -5
+p669
+aVKhris Middleton MIL 11/27/2013 MIL vs. WAS L 33 13 6 11 54.5 1 2 50.0 0 0 - 0 7 7 2 1 0 3 3 -3
+p670
+aVO.J. Mayo MIL 11/27/2013 MIL vs. WAS L 36 21 9 23 39.1 3 7 42.9 0 0 - 2 5 7 3 2 0 3 1 -4
+p671
+aVNate Wolters MIL 11/25/2013 MIL @ DET L 17 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 3 0 0 0 0 11
+p672
+aVGiannis Antetokounmpo MIL 11/25/2013 MIL @ DET L 12 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 0 0 0 0 2 7
+p673
+aVMiroslav Raduljica MIL 11/25/2013 MIL @ DET L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -1
+p674
+aVKhris Middleton MIL 11/25/2013 MIL @ DET L 21 14 5 9 55.6 2 4 50.0 2 2 100.0 0 5 5 2 0 0 1 1 -10
+p675
+aVEkpe Udoh MIL 11/25/2013 MIL @ DET L 23 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 1 0 1 2 1 -6
+p676
+aVLuke Ridnour MIL 11/25/2013 MIL @ DET L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 4 0 0 1 1 -18
+p677
+aVErsan Ilyasova MIL 11/25/2013 MIL @ DET L 16 2 1 3 33.3 0 1 0.0 0 0 - 2 2 4 1 1 0 2 5 -16
+p678
+aVCaron Butler MIL 11/25/2013 MIL @ DET L 27 8 2 7 28.6 2 5 40.0 2 2 100.0 0 5 5 3 1 1 0 0 -9
+p679
+aVBrandon Knight MIL 11/25/2013 MIL @ DET L 21 8 2 7 28.6 0 1 0.0 4 6 66.7 0 0 0 4 0 0 6 2 -12
+p680
+aVJohn Henson MIL 11/25/2013 MIL @ DET L 22 15 7 12 58.3 0 0 - 1 2 50.0 4 3 7 1 2 2 1 1 -13
+p681
+aVO.J. Mayo MIL 11/25/2013 MIL @ DET L 25 5 1 4 25.0 0 1 0.0 3 4 75.0 0 2 2 0 0 0 3 3 -20
+p682
+aVGary Neal MIL 11/25/2013 MIL @ DET L 23 14 5 11 45.5 2 6 33.3 2 2 100.0 0 4 4 1 0 0 1 1 1
+p683
+aVZaza Pachulia MIL 11/25/2013 MIL @ DET L 17 8 2 3 66.7 0 0 - 4 4 100.0 0 1 1 2 1 0 1 3 -9
+p684
+aVCaron Butler MIL 11/23/2013 MIL vs. CHA L 20 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 0 1 0 2 2 -27
+p685
+aVEkpe Udoh MIL 11/23/2013 MIL vs. CHA L 19 4 2 5 40.0 0 0 - 0 0 - 5 2 7 1 0 1 0 2 2
+p686
+aVLuke Ridnour MIL 11/23/2013 MIL vs. CHA L 19 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 3 1 0 2 2 -24
+p687
+aVNate Wolters MIL 11/23/2013 MIL vs. CHA L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -3
+p688
+aVZaza Pachulia MIL 11/23/2013 MIL vs. CHA L 12 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 1 0 0 0 -16
+p689
+aVJohn Henson MIL 11/23/2013 MIL vs. CHA L 26 10 3 9 33.3 0 0 - 4 4 100.0 2 7 9 4 1 1 1 2 -7
+p690
+aVKhris Middleton MIL 11/23/2013 MIL vs. CHA L 28 20 8 13 61.5 2 2 100.0 2 3 66.7 1 3 4 2 1 0 0 3 3
+p691
+aVO.J. Mayo MIL 11/23/2013 MIL vs. CHA L 22 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -28
+p692
+aVErsan Ilyasova MIL 11/23/2013 MIL vs. CHA L 21 7 3 6 50.0 0 2 0.0 1 2 50.0 1 1 2 0 0 0 2 1 -25
+p693
+aVGary Neal MIL 11/23/2013 MIL vs. CHA L 19 9 4 11 36.4 1 3 33.3 0 0 - 0 2 2 0 0 0 1 2 3
+p694
+aVGiannis Antetokounmpo MIL 11/23/2013 MIL vs. CHA L 12 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 2 0 1 2 -1
+p695
+aVBrandon Knight MIL 11/23/2013 MIL vs. CHA L 26 3 1 8 12.5 1 4 25.0 0 0 - 0 1 1 7 0 0 4 1 4
+p696
+aVMiroslav Raduljica MIL 11/23/2013 MIL vs. CHA L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p697
+aVZaza Pachulia MIL 11/22/2013 MIL @ PHI L 34 7 3 8 37.5 0 0 - 1 1 100.0 3 3 6 0 0 0 2 1 3
+p698
+aVNate Wolters MIL 11/22/2013 MIL @ PHI L 18 7 3 5 60.0 0 1 0.0 1 2 50.0 0 1 1 4 0 0 2 0 -3
+p699
+aVEkpe Udoh MIL 11/22/2013 MIL @ PHI L 12 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 0 1 2 4 -2
+p700
+aVJohn Henson MIL 11/22/2013 MIL @ PHI L 19 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 1 0 3 0 3 -12
+p701
+aVO.J. Mayo MIL 11/22/2013 MIL @ PHI L 36 9 3 12 25.0 0 6 0.0 3 4 75.0 0 0 0 8 0 0 0 3 -5
+p702
+aVLuke Ridnour MIL 11/22/2013 MIL @ PHI L 34 4 1 7 14.3 1 2 50.0 1 2 50.0 1 3 4 9 2 0 3 1 3
+p703
+aVCaron Butler MIL 11/22/2013 MIL @ PHI L 36 38 13 22 59.1 4 8 50.0 8 11 72.7 2 6 8 3 3 0 4 3 -7
+p704
+aVGary Neal MIL 11/22/2013 MIL @ PHI L 18 10 3 10 30.0 2 6 33.3 2 2 100.0 0 1 1 2 0 0 1 2 -5
+p705
+aVKhris Middleton MIL 11/22/2013 MIL @ PHI L 17 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 1 2 -6
+p706
+aVErsan Ilyasova MIL 11/22/2013 MIL @ PHI L 41 19 9 17 52.9 1 4 25.0 0 0 - 1 5 6 6 3 0 1 4 -6
+p707
+aVCaron Butler MIL 11/20/2013 MIL vs. POR L 29 9 4 10 40.0 1 3 33.3 0 0 - 0 7 7 1 0 0 0 3 -9
+p708
+aVGary Neal MIL 11/20/2013 MIL vs. POR L 23 11 4 9 44.4 2 5 40.0 1 1 100.0 1 3 4 1 0 0 1 0 1
+p709
+aVErsan Ilyasova MIL 11/20/2013 MIL vs. POR L 22 5 2 8 25.0 1 3 33.3 0 0 - 2 3 5 4 2 1 1 3 1
+p710
+aVKhris Middleton MIL 11/20/2013 MIL vs. POR L 20 8 4 4 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 3 0
+p711
+aVEkpe Udoh MIL 11/20/2013 MIL vs. POR L 19 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 3 -9
+p712
+aVJohn Henson MIL 11/20/2013 MIL vs. POR L 26 10 5 11 45.5 0 0 - 0 0 - 2 5 7 2 2 2 2 2 -1
+p713
+aVZaza Pachulia MIL 11/20/2013 MIL vs. POR L 28 11 4 10 40.0 0 0 - 3 4 75.0 4 4 8 0 1 1 3 3 -9
+p714
+aVO.J. Mayo MIL 11/20/2013 MIL vs. POR L 25 9 3 8 37.5 1 2 50.0 2 2 100.0 1 2 3 1 0 0 4 1 -10
+p715
+aVNate Wolters MIL 11/20/2013 MIL vs. POR L 18 6 3 5 60.0 0 0 - 0 2 0.0 0 1 1 4 0 1 3 0 1
+p716
+aVLuke Ridnour MIL 11/20/2013 MIL vs. POR L 30 13 6 14 42.9 0 1 0.0 1 3 33.3 2 3 5 5 1 0 1 1 -10
+p717
+aVNate Wolters MIL 11/16/2013 MIL vs. OKC L 28 7 3 10 30.0 0 2 0.0 1 1 100.0 2 4 6 4 0 0 2 2 -10
+p718
+aVZaza Pachulia MIL 11/16/2013 MIL vs. OKC L 37 7 3 13 23.1 0 1 0.0 1 1 100.0 3 10 13 3 2 0 3 3 -12
+p719
+aVJohn Henson MIL 11/16/2013 MIL vs. OKC L 16 10 5 8 62.5 0 0 - 0 0 - 2 4 6 1 0 2 1 5 -6
+p720
+aVEkpe Udoh MIL 11/16/2013 MIL vs. OKC L 38 11 4 10 40.0 0 0 - 3 6 50.0 5 6 11 2 0 2 0 3 -7
+p721
+aVKhris Middleton MIL 11/16/2013 MIL vs. OKC L 32 14 5 14 35.7 2 4 50.0 2 2 100.0 0 2 2 1 1 0 0 3 -9
+p722
+aVGary Neal MIL 11/16/2013 MIL vs. OKC L 19 4 1 5 20.0 1 1 100.0 1 2 50.0 0 3 3 0 0 0 3 1 -15
+p723
+aVO.J. Mayo MIL 11/16/2013 MIL vs. OKC L 35 22 7 19 36.8 5 11 45.5 3 3 100.0 1 3 4 1 3 0 3 2 2
+p724
+aVLuke Ridnour MIL 11/16/2013 MIL vs. OKC L 20 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 5 1 0 2 1 -3
+p725
+aVGiannis Antetokounmpo MIL 11/16/2013 MIL vs. OKC L 15 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 1 0 2 2 1 -5
+p726
+aVZaza Pachulia MIL 11/15/2013 MIL @ IND L 25 4 2 14 14.3 0 0 - 0 0 - 9 2 11 1 0 0 0 0 1
+p727
+aVNate Wolters MIL 11/15/2013 MIL @ IND L 34 8 4 11 36.4 0 2 0.0 0 0 - 0 2 2 5 2 2 2 1 -1
+p728
+aVEkpe Udoh MIL 11/15/2013 MIL @ IND L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 5 -5
+p729
+aVKhris Middleton MIL 11/15/2013 MIL @ IND L 31 11 5 13 38.5 1 3 33.3 0 0 - 2 5 7 1 1 1 3 2 -3
+p730
+aVGiannis Antetokounmpo MIL 11/15/2013 MIL @ IND L 12 5 2 2 100.0 1 1 100.0 0 0 - 1 1 2 0 0 1 1 4 -18
+p731
+aVJohn Henson MIL 11/15/2013 MIL @ IND L 29 8 3 8 37.5 0 0 - 2 2 100.0 2 6 8 1 0 3 1 2 -21
+p732
+aVGary Neal MIL 11/15/2013 MIL @ IND L 26 11 4 12 33.3 3 5 60.0 0 0 - 0 0 0 3 0 0 5 4 -29
+p733
+aVLuke Ridnour MIL 11/15/2013 MIL @ IND L 21 4 2 6 33.3 0 0 - 0 0 - 0 0 0 1 0 1 1 0 -30
+p734
+aVO.J. Mayo MIL 11/15/2013 MIL @ IND L 30 20 7 17 41.2 3 5 60.0 3 3 100.0 1 2 3 1 0 0 0 3 -11
+p735
+aVMiroslav Raduljica MIL 11/15/2013 MIL @ IND L 18 4 0 2 0.0 0 0 - 4 6 66.7 2 4 6 1 0 2 0 3 -18
+p736
+aVO.J. Mayo MIL 11/13/2013 MIL @ ORL L 44 25 10 22 45.5 1 3 33.3 4 4 100.0 1 6 7 2 0 0 6 4 -4
+p737
+aVMiroslav Raduljica MIL 11/13/2013 MIL @ ORL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -6
+p738
+aVJohn Henson MIL 11/13/2013 MIL @ ORL L 27 10 5 11 45.5 0 0 - 0 1 0.0 1 8 9 1 0 5 3 2 -6
+p739
+aVGiannis Antetokounmpo MIL 11/13/2013 MIL @ ORL L 19 6 1 2 50.0 0 1 0.0 4 4 100.0 1 1 2 1 2 0 1 0 -5
+p740
+aVCaron Butler MIL 11/13/2013 MIL @ ORL L 42 20 7 17 41.2 3 5 60.0 3 3 100.0 1 4 5 3 1 0 2 1 -3
+p741
+aVKhris Middleton MIL 11/13/2013 MIL @ ORL L 43 19 6 11 54.5 1 3 33.3 6 6 100.0 0 8 8 4 3 0 3 4 1
+p742
+aVEkpe Udoh MIL 11/13/2013 MIL @ ORL L 19 0 0 2 0.0 0 0 - 0 0 - 2 2 4 2 2 2 1 3 6
+p743
+aVNate Wolters MIL 11/13/2013 MIL @ ORL L 40 9 3 8 37.5 0 1 0.0 3 4 75.0 1 2 3 3 1 0 1 2 2
+p744
+aVGiannis Antetokounmpo MIL 11/12/2013 MIL @ MIA L 22 11 4 8 50.0 3 5 60.0 0 0 - 2 2 4 0 0 0 3 1 -1
+p745
+aVJohn Henson MIL 11/12/2013 MIL @ MIA L 25 18 7 10 70.0 0 0 - 4 4 100.0 0 3 3 0 1 0 0 0 -15
+p746
+aVCaron Butler MIL 11/12/2013 MIL @ MIA L 25 10 4 15 26.7 2 8 25.0 0 0 - 1 3 4 1 1 0 2 2 -15
+p747
+aVZaza Pachulia MIL 11/12/2013 MIL @ MIA L 18 3 1 4 25.0 0 0 - 1 1 100.0 1 4 5 0 0 0 3 1 -10
+p748
+aVKhris Middleton MIL 11/12/2013 MIL @ MIA L 23 7 3 9 33.3 1 3 33.3 0 0 - 2 5 7 1 1 1 2 3 -13
+p749
+aVNate Wolters MIL 11/12/2013 MIL @ MIA L 24 9 4 8 50.0 0 2 0.0 1 2 50.0 1 2 3 3 3 0 0 0 -10
+p750
+aVGary Neal MIL 11/12/2013 MIL @ MIA L 26 18 6 11 54.5 3 7 42.9 3 4 75.0 0 3 3 4 0 0 1 1 -9
+p751
+aVBrandon Knight MIL 11/12/2013 MIL @ MIA L 24 6 0 2 0.0 0 2 0.0 6 6 100.0 0 0 0 6 1 0 4 3 -13
+p752
+aVEkpe Udoh MIL 11/12/2013 MIL @ MIA L 17 7 2 6 33.3 0 0 - 3 4 75.0 1 1 2 0 1 0 1 1 -9
+p753
+aVO.J. Mayo MIL 11/12/2013 MIL @ MIA L 25 6 2 6 33.3 2 3 66.7 0 0 - 0 2 2 3 2 0 2 2 -23
+p754
+aVMiroslav Raduljica MIL 11/12/2013 MIL @ MIA L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p755
+aVKhris Middleton MIL 11/09/2013 MIL vs. DAL L 18 6 2 6 33.3 2 2 100.0 0 0 - 1 2 3 0 0 0 0 3 6
+p756
+aVNate Wolters MIL 11/09/2013 MIL vs. DAL L 36 5 2 6 33.3 0 1 0.0 1 2 50.0 1 2 3 5 2 1 1 2 -9
+p757
+aVCaron Butler MIL 11/09/2013 MIL vs. DAL L 38 19 7 19 36.8 3 9 33.3 2 3 66.7 1 12 13 3 2 0 3 2 -1
+p758
+aVEkpe Udoh MIL 11/09/2013 MIL vs. DAL L 12 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p759
+aVGary Neal MIL 11/09/2013 MIL vs. DAL L 20 7 2 6 33.3 2 3 66.7 1 2 50.0 0 3 3 3 0 0 4 1 -10
+p760
+aVZaza Pachulia MIL 11/09/2013 MIL vs. DAL L 38 4 1 6 16.7 0 0 - 2 3 66.7 2 5 7 1 3 1 3 4 -1
+p761
+aVJohn Henson MIL 11/09/2013 MIL vs. DAL L 27 8 3 8 37.5 0 0 - 2 4 50.0 3 2 5 1 0 0 2 3 -11
+p762
+aVO.J. Mayo MIL 11/09/2013 MIL vs. DAL L 37 28 11 20 55.0 4 7 57.1 2 2 100.0 2 4 6 2 0 0 6 5 -3
+p763
+aVBrandon Knight MIL 11/09/2013 MIL vs. DAL L 15 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p764
+aVCaron Butler MIL 11/06/2013 MIL vs. CLE W 30 10 4 12 33.3 2 7 28.6 0 0 - 1 3 4 0 1 0 3 3 -10
+p765
+aVJohn Henson MIL 11/06/2013 MIL vs. CLE W 39 14 7 9 77.8 0 0 - 0 2 0.0 0 9 9 3 0 3 0 4 3
+p766
+aVNate Wolters MIL 11/06/2013 MIL vs. CLE W 33 9 2 5 40.0 0 1 0.0 5 5 100.0 2 6 8 6 0 0 0 3 7
+p767
+aVGary Neal MIL 11/06/2013 MIL vs. CLE W 31 23 8 15 53.3 4 5 80.0 3 3 100.0 0 1 1 4 0 0 1 0 12
+p768
+aVEkpe Udoh MIL 11/06/2013 MIL vs. CLE W 13 4 2 3 66.7 0 0 - 0 0 - 2 3 5 1 2 1 1 1 6
+p769
+aVKhris Middleton MIL 11/06/2013 MIL vs. CLE W 20 7 2 5 40.0 1 3 33.3 2 2 100.0 0 3 3 1 0 0 2 2 17
+p770
+aVO.J. Mayo MIL 11/06/2013 MIL vs. CLE W 33 28 9 19 47.4 6 7 85.7 4 4 100.0 0 2 2 3 0 0 4 3 -5
+p771
+aVZaza Pachulia MIL 11/06/2013 MIL vs. CLE W 41 14 2 4 50.0 0 0 - 10 10 100.0 4 5 9 7 0 0 3 2 -5
+p772
+aVCaron Butler MIL 11/02/2013 MIL vs. TOR L 25 12 3 9 33.3 1 4 25.0 5 6 83.3 0 6 6 0 0 0 1 3 -9
+p773
+aVJohn Henson MIL 11/02/2013 MIL vs. TOR L 25 13 6 9 66.7 0 0 - 1 2 50.0 1 2 3 0 2 1 2 5 -7
+p774
+aVZaza Pachulia MIL 11/02/2013 MIL vs. TOR L 14 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -11
+p775
+aVGary Neal MIL 11/02/2013 MIL vs. TOR L 26 8 3 10 30.0 0 2 0.0 2 2 100.0 0 5 5 4 1 0 2 1 -5
+p776
+aVLarry Sanders MIL 11/02/2013 MIL vs. TOR L 22 4 2 8 25.0 0 0 - 0 0 - 1 3 4 1 0 1 0 2 -1
+p777
+aVGiannis Antetokounmpo MIL 11/02/2013 MIL vs. TOR L 17 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 0 1 0 0 1 6
+p778
+aVNate Wolters MIL 11/02/2013 MIL vs. TOR L 36 7 3 8 37.5 0 3 0.0 1 2 50.0 0 4 4 10 0 0 1 4 -1
+p779
+aVKhris Middleton MIL 11/02/2013 MIL vs. TOR L 19 8 4 9 44.4 0 1 0.0 0 2 0.0 0 1 1 0 2 1 0 4 -1
+p780
+aVO.J. Mayo MIL 11/02/2013 MIL vs. TOR L 33 16 6 13 46.2 3 5 60.0 1 2 50.0 1 5 6 8 1 1 4 2 -6
+p781
+aVErsan Ilyasova MIL 11/02/2013 MIL vs. TOR L 24 14 6 12 50.0 2 2 100.0 0 0 - 2 2 4 2 0 1 2 1 0
+p782
+aVGiannis Antetokounmpo MIL 11/01/2013 MIL @ BOS W 12 5 2 5 40.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 3 11
+p783
+aVNate Wolters MIL 11/01/2013 MIL @ BOS W 29 14 5 10 50.0 1 2 50.0 3 3 100.0 1 1 2 6 0 0 1 1 23
+p784
+aVLarry Sanders MIL 11/01/2013 MIL @ BOS W 18 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 4 1 2 -18
+p785
+aVJohn Henson MIL 11/01/2013 MIL @ BOS W 25 14 6 11 54.5 0 0 - 2 4 50.0 5 4 9 0 0 1 0 2 28
+p786
+aVCaron Butler MIL 11/01/2013 MIL @ BOS W 27 8 2 8 25.0 2 4 50.0 2 2 100.0 2 4 6 1 1 0 0 1 -3
+p787
+aVErsan Ilyasova MIL 11/01/2013 MIL @ BOS W 23 5 2 7 28.6 1 3 33.3 0 0 - 0 4 4 1 2 1 1 3 -21
+p788
+aVKhris Middleton MIL 11/01/2013 MIL @ BOS W 27 13 5 8 62.5 0 1 0.0 3 3 100.0 0 1 1 2 2 0 0 4 23
+p789
+aVZaza Pachulia MIL 11/01/2013 MIL @ BOS W 30 20 5 10 50.0 0 0 - 10 10 100.0 6 3 9 4 2 1 0 4 25
+p790
+aVGary Neal MIL 11/01/2013 MIL @ BOS W 26 14 4 11 36.4 2 3 66.7 4 6 66.7 0 1 1 1 1 0 1 0 -17
+p791
+aVO.J. Mayo MIL 11/01/2013 MIL @ BOS W 23 8 2 9 22.2 0 1 0.0 4 4 100.0 2 2 4 2 2 0 3 4 -16
+p792
+aVO.J. Mayo MIL 10/30/2013 MIL @ NYK L 36 13 6 12 50.0 0 3 0.0 1 1 100.0 0 5 5 3 1 0 2 1 -10
+p793
+aVErsan Ilyasova MIL 10/30/2013 MIL @ NYK L 20 10 5 6 83.3 0 0 - 0 0 - 0 2 2 1 3 0 2 1 2
+p794
+aVCaron Butler MIL 10/30/2013 MIL @ NYK L 33 14 5 9 55.6 2 3 66.7 2 2 100.0 1 3 4 1 1 0 7 4 -8
+p795
+aVZaza Pachulia MIL 10/30/2013 MIL @ NYK L 34 13 6 10 60.0 0 0 - 1 1 100.0 2 9 11 3 2 0 2 4 -3
+p796
+aVLarry Sanders MIL 10/30/2013 MIL @ NYK L 12 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 1 2 5 -8
+p797
+aVGary Neal MIL 10/30/2013 MIL @ NYK L 32 16 6 16 37.5 2 5 40.0 2 2 100.0 0 2 2 5 0 0 0 0 0
+p798
+aVNate Wolters MIL 10/30/2013 MIL @ NYK L 30 9 3 12 25.0 1 4 25.0 2 2 100.0 1 0 1 4 1 1 2 2 -3
+p799
+aVJohn Henson MIL 10/30/2013 MIL @ NYK L 17 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 1 2 2 1 0 2
+p800
+aVKhris Middleton MIL 10/30/2013 MIL @ NYK L 19 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 3 3 -2
+p801
+aVBrandon Knight MIL 10/30/2013 MIL @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p802
+aVGiannis Antetokounmpo MIL 10/30/2013 MIL @ NYK L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -3
+p803
+a.

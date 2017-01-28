@@ -1,0 +1,356 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVClint Capela HOU 05/27/2015 HOU @ GSW L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -3
+p2
+aVDwight Howard HOU 05/27/2015 HOU @ GSW L 42 18 5 13 38.5 0 0 - 8 13 61.5 3 13 16 1 2 4 4 3 -7
+p3
+aVTrevor Ariza HOU 05/27/2015 HOU @ GSW L 44 15 5 9 55.6 1 3 33.3 4 4 100.0 2 4 6 4 2 0 1 5 -15
+p4
+aVPablo Prigioni HOU 05/27/2015 HOU @ GSW L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 2 -4
+p5
+aVJames Harden HOU 05/27/2015 HOU @ GSW L 43 14 2 11 18.2 0 3 0.0 10 13 76.9 2 4 6 5 3 0 12 5 -4
+p6
+aVJosh Smith HOU 05/27/2015 HOU @ GSW L 21 11 3 14 21.4 2 7 28.6 3 6 50.0 1 3 4 1 0 2 0 2 -4
+p7
+aVCorey Brewer HOU 05/27/2015 HOU @ GSW L 24 16 5 10 50.0 0 1 0.0 6 6 100.0 1 2 3 1 1 0 0 4 -15
+p8
+aVJason Terry HOU 05/27/2015 HOU @ GSW L 39 16 6 13 46.2 2 8 25.0 2 2 100.0 0 2 2 3 1 0 2 3 -5
+p9
+aVTerrence Jones HOU 05/27/2015 HOU @ GSW L 17 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -13
+p10
+aVCorey Brewer HOU 05/25/2015 HOU vs. GSW W 22 1 0 4 0.0 0 1 0.0 1 2 50.0 0 2 2 2 0 1 0 1 -1
+p11
+aVClint Capela HOU 05/25/2015 HOU vs. GSW W 4 4 1 1 100.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 0 -4
+p12
+aVJosh Smith HOU 05/25/2015 HOU vs. GSW W 28 20 7 8 87.5 3 4 75.0 3 12 25.0 0 6 6 5 0 2 6 1 15
+p13
+aVTerrence Jones HOU 05/25/2015 HOU vs. GSW W 24 14 6 11 54.5 1 2 50.0 1 1 100.0 1 4 5 2 0 2 1 3 -4
+p14
+aVDwight Howard HOU 05/25/2015 HOU vs. GSW W 34 14 6 10 60.0 0 0 - 2 7 28.6 1 11 12 0 2 2 3 2 19
+p15
+aVJames Harden HOU 05/25/2015 HOU vs. GSW W 40 45 13 22 59.1 7 11 63.6 12 13 92.3 2 7 9 5 2 2 3 2 21
+p16
+aVPablo Prigioni HOU 05/25/2015 HOU vs. GSW W 17 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 2 0 3
+p17
+aVTrevor Ariza HOU 05/25/2015 HOU vs. GSW W 40 17 5 10 50.0 3 7 42.9 4 4 100.0 0 5 5 3 2 1 0 3 5
+p18
+aVJason Terry HOU 05/25/2015 HOU vs. GSW W 31 10 4 9 44.4 2 6 33.3 0 0 - 0 6 6 4 1 0 1 4 11
+p19
+aVJames Harden HOU 05/23/2015 HOU vs. GSW L 32 17 3 16 18.8 1 5 20.0 10 11 90.9 0 3 3 4 0 0 1 0 -31
+p20
+aVNick Johnson HOU 05/23/2015 HOU vs. GSW L 16 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 1 2 4 -8
+p21
+aVPablo Prigioni HOU 05/23/2015 HOU vs. GSW L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -6
+p22
+aVTerrence Jones HOU 05/23/2015 HOU vs. GSW L 20 6 2 6 33.3 0 0 - 2 2 100.0 1 4 5 0 0 1 2 1 -20
+p23
+aVJosh Smith HOU 05/23/2015 HOU vs. GSW L 28 16 6 14 42.9 3 5 60.0 1 2 50.0 1 7 8 4 0 0 4 2 -15
+p24
+aVKostas Papanikolaou HOU 05/23/2015 HOU vs. GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p25
+aVTrevor Ariza HOU 05/23/2015 HOU vs. GSW L 41 7 3 8 37.5 1 4 25.0 0 0 - 3 5 8 2 2 0 1 2 -29
+p26
+aVJason Terry HOU 05/23/2015 HOU vs. GSW L 24 4 2 7 28.6 0 4 0.0 0 0 - 0 0 0 3 1 0 1 3 -21
+p27
+aVDwight Howard HOU 05/23/2015 HOU vs. GSW L 33 14 6 10 60.0 0 0 - 2 8 25.0 4 10 14 0 0 1 2 4 -16
+p28
+aVClint Capela HOU 05/23/2015 HOU vs. GSW L 8 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 1 0 0 -11
+p29
+aVCorey Brewer HOU 05/23/2015 HOU vs. GSW L 27 13 5 15 33.3 0 4 0.0 3 6 50.0 0 0 0 1 3 0 1 0 -16
+p30
+aVJason Terry HOU 05/21/2015 HOU @ GSW L 35 9 3 7 42.9 3 5 60.0 0 0 - 1 0 1 4 0 0 0 3 12
+p31
+aVCorey Brewer HOU 05/21/2015 HOU @ GSW L 19 3 1 5 20.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 2 -23
+p32
+aVPablo Prigioni HOU 05/21/2015 HOU @ GSW L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 1 -10
+p33
+aVClint Capela HOU 05/21/2015 HOU @ GSW L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -5
+p34
+aVNick Johnson HOU 05/21/2015 HOU @ GSW L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p35
+aVDwight Howard HOU 05/21/2015 HOU @ GSW L 40 19 8 11 72.7 0 0 - 3 7 42.9 5 12 17 1 2 1 2 3 4
+p36
+aVTerrence Jones HOU 05/21/2015 HOU @ GSW L 26 12 6 12 50.0 0 1 0.0 0 0 - 1 1 2 1 1 3 2 1 10
+p37
+aVJosh Smith HOU 05/21/2015 HOU @ GSW L 21 10 5 17 29.4 0 3 0.0 0 0 - 0 1 1 2 1 0 1 2 -9
+p38
+aVJames Harden HOU 05/21/2015 HOU @ GSW L 41 38 13 21 61.9 3 6 50.0 9 10 90.0 1 9 10 9 3 1 2 2 12
+p39
+aVTrevor Ariza HOU 05/21/2015 HOU @ GSW L 39 7 3 8 37.5 1 4 25.0 0 0 - 2 4 6 1 2 0 2 4 2
+p40
+aVCorey Brewer HOU 05/19/2015 HOU @ GSW L 30 9 3 7 42.9 0 1 0.0 3 4 75.0 0 2 2 0 0 0 0 5 -5
+p41
+aVDwight Howard HOU 05/19/2015 HOU @ GSW L 26 7 3 7 42.9 0 0 - 1 4 25.0 4 9 13 2 1 1 5 3 -4
+p42
+aVClint Capela HOU 05/19/2015 HOU @ GSW L 13 9 4 4 100.0 0 0 - 1 2 50.0 1 3 4 1 1 1 0 1 -1
+p43
+aVJason Terry HOU 05/19/2015 HOU @ GSW L 27 7 2 9 22.2 1 4 25.0 2 2 100.0 2 0 2 3 0 0 1 3 -8
+p44
+aVJosh Smith HOU 05/19/2015 HOU @ GSW L 27 17 6 16 37.5 2 6 33.3 3 4 75.0 1 6 7 5 0 3 3 1 -5
+p45
+aVTerrence Jones HOU 05/19/2015 HOU @ GSW L 26 5 2 10 20.0 0 2 0.0 1 4 25.0 3 1 4 1 0 1 0 0 -5
+p46
+aVTrevor Ariza HOU 05/19/2015 HOU @ GSW L 34 20 7 10 70.0 4 5 80.0 2 2 100.0 1 2 3 2 2 0 1 1 1
+p47
+aVJames Harden HOU 05/19/2015 HOU @ GSW L 42 28 11 20 55.0 1 3 33.3 5 6 83.3 2 9 11 9 4 0 5 4 -3
+p48
+aVPablo Prigioni HOU 05/19/2015 HOU @ GSW L 15 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 4 0 0 0 1 10
+p49
+aVCorey Brewer HOU 05/17/2015 HOU vs. LAC W 23 11 4 8 50.0 1 1 100.0 2 2 100.0 1 2 3 3 0 0 1 1 11
+p50
+aVClint Capela HOU 05/17/2015 HOU vs. LAC W 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 1 0 -6
+p51
+aVJames Harden HOU 05/17/2015 HOU vs. LAC W 43 31 7 20 35.0 2 7 28.6 15 18 83.3 0 7 7 8 3 1 7 1 12
+p52
+aVKostas Papanikolaou HOU 05/17/2015 HOU vs. LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p53
+aVTrevor Ariza HOU 05/17/2015 HOU vs. LAC W 43 22 6 14 42.9 6 12 50.0 4 4 100.0 0 7 7 3 2 0 2 5 6
+p54
+aVJosh Smith HOU 05/17/2015 HOU vs. LAC W 22 15 6 10 60.0 2 4 50.0 1 2 50.0 0 1 1 0 0 1 1 3 -4
+p55
+aVDwight Howard HOU 05/17/2015 HOU vs. LAC W 32 16 6 8 75.0 0 0 - 4 8 50.0 2 13 15 2 2 0 2 3 15
+p56
+aVPablo Prigioni HOU 05/17/2015 HOU vs. LAC W 20 4 1 2 50.0 1 1 100.0 1 2 50.0 1 0 1 4 3 0 0 2 20
+p57
+aVNick Johnson HOU 05/17/2015 HOU vs. LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p58
+aVJason Terry HOU 05/17/2015 HOU vs. LAC W 27 4 1 6 16.7 0 4 0.0 2 2 100.0 0 2 2 1 1 0 2 4 -5
+p59
+aVTerrence Jones HOU 05/17/2015 HOU vs. LAC W 22 8 4 10 40.0 0 1 0.0 0 1 0.0 0 3 3 1 0 1 0 2 16
+p60
+aVDwight Howard HOU 05/14/2015 HOU @ LAC W 40 20 7 12 58.3 0 0 - 6 16 37.5 7 14 21 1 1 2 2 4 15
+p61
+aVJames Harden HOU 05/14/2015 HOU @ LAC W 30 23 5 20 25.0 2 6 33.3 11 11 100.0 0 2 2 3 2 0 1 2 -21
+p62
+aVTerrence Jones HOU 05/14/2015 HOU @ LAC W 22 16 6 8 75.0 1 1 100.0 3 3 100.0 3 2 5 2 1 0 2 0 1
+p63
+aVJosh Smith HOU 05/14/2015 HOU @ LAC W 26 19 5 9 55.6 4 7 57.1 5 8 62.5 0 6 6 2 1 1 0 3 11
+p64
+aVCorey Brewer HOU 05/14/2015 HOU @ LAC W 25 19 6 14 42.9 2 5 40.0 5 7 71.4 3 7 10 2 0 1 1 3 32
+p65
+aVPablo Prigioni HOU 05/14/2015 HOU @ LAC W 15 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 3 1 0 1 4 0
+p66
+aVTrevor Ariza HOU 05/14/2015 HOU @ LAC W 45 13 4 12 33.3 3 8 37.5 2 2 100.0 1 4 5 1 2 0 1 2 11
+p67
+aVJason Terry HOU 05/14/2015 HOU @ LAC W 33 7 3 8 37.5 1 4 25.0 0 0 - 0 7 7 5 0 1 1 3 12
+p68
+aVClint Capela HOU 05/14/2015 HOU @ LAC W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p69
+aVNick Johnson HOU 05/12/2015 HOU vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p70
+aVDwight Howard HOU 05/12/2015 HOU vs. LAC W 32 20 7 14 50.0 0 0 - 6 14 42.9 5 10 15 0 1 2 0 2 7
+p71
+aVCorey Brewer HOU 05/12/2015 HOU vs. LAC W 24 15 5 8 62.5 0 1 0.0 5 6 83.3 1 1 2 1 1 0 0 3 -1
+p72
+aVTrevor Ariza HOU 05/12/2015 HOU vs. LAC W 31 22 8 12 66.7 4 6 66.7 2 2 100.0 0 8 8 3 3 0 1 1 23
+p73
+aVPablo Prigioni HOU 05/12/2015 HOU vs. LAC W 18 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 1 4 1
+p74
+aVKostas Papanikolaou HOU 05/12/2015 HOU vs. LAC W 2 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 0
+p75
+aVJosh Smith HOU 05/12/2015 HOU vs. LAC W 22 9 4 7 57.1 1 3 33.3 0 2 0.0 4 3 7 4 0 1 2 2 6
+p76
+aVTerrence Jones HOU 05/12/2015 HOU vs. LAC W 24 12 5 8 62.5 0 1 0.0 2 2 100.0 1 4 5 0 0 0 2 3 15
+p77
+aVClint Capela HOU 05/12/2015 HOU vs. LAC W 11 8 4 4 100.0 0 0 - 0 2 0.0 1 1 2 2 0 0 0 3 9
+p78
+aVJames Harden HOU 05/12/2015 HOU vs. LAC W 43 26 9 20 45.0 1 8 12.5 7 8 87.5 2 9 11 10 0 0 5 4 23
+p79
+aVJoey Dorsey HOU 05/12/2015 HOU vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p80
+aVJason Terry HOU 05/12/2015 HOU vs. LAC W 29 11 4 10 40.0 3 8 37.5 0 0 - 1 3 4 7 0 0 0 2 22
+p81
+aVPablo Prigioni HOU 05/10/2015 HOU @ LAC L 19 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 1 0 2 2 -15
+p82
+aVNick Johnson HOU 05/10/2015 HOU @ LAC L 16 10 3 7 42.9 1 2 50.0 3 3 100.0 1 0 1 2 0 0 2 2 -5
+p83
+aVTrevor Ariza HOU 05/10/2015 HOU @ LAC L 35 18 7 14 50.0 4 8 50.0 0 0 - 0 8 8 3 3 0 3 4 -24
+p84
+aVClint Capela HOU 05/10/2015 HOU @ LAC L 12 2 1 3 33.3 0 0 - 0 2 0.0 3 4 7 0 0 0 0 4 3
+p85
+aVJason Terry HOU 05/10/2015 HOU @ LAC L 27 16 6 12 50.0 4 8 50.0 0 0 - 0 0 0 2 1 0 1 3 -15
+p86
+aVKostas Papanikolaou HOU 05/10/2015 HOU @ LAC L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 4 4 -5
+p87
+aVTerrence Jones HOU 05/10/2015 HOU @ LAC L 25 10 5 12 41.7 0 1 0.0 0 2 0.0 4 2 6 0 0 0 1 3 -21
+p88
+aVJoey Dorsey HOU 05/10/2015 HOU @ LAC L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 1 -5
+p89
+aVDwight Howard HOU 05/10/2015 HOU @ LAC L 18 7 3 7 42.9 0 0 - 1 6 16.7 2 4 6 1 0 0 2 6 -28
+p90
+aVJames Harden HOU 05/10/2015 HOU @ LAC L 32 21 5 12 41.7 2 4 50.0 9 10 90.0 0 8 8 6 0 0 1 3 -18
+p91
+aVCorey Brewer HOU 05/10/2015 HOU @ LAC L 25 4 2 8 25.0 0 2 0.0 0 1 0.0 0 2 2 2 0 0 0 5 -27
+p92
+aVJosh Smith HOU 05/10/2015 HOU @ LAC L 14 1 0 2 0.0 0 0 - 1 4 25.0 0 4 4 2 1 1 2 3 -5
+p93
+aVPablo Prigioni HOU 05/08/2015 HOU @ LAC L 20 6 2 8 25.0 2 7 28.6 0 0 - 2 0 2 2 0 0 1 1 -12
+p94
+aVJoey Dorsey HOU 05/08/2015 HOU @ LAC L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 1
+p95
+aVNick Johnson HOU 05/08/2015 HOU @ LAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p96
+aVCorey Brewer HOU 05/08/2015 HOU @ LAC L 26 11 5 9 55.6 1 2 50.0 0 2 0.0 1 3 4 0 2 1 1 4 -21
+p97
+aVJason Terry HOU 05/08/2015 HOU @ LAC L 32 13 5 9 55.6 3 6 50.0 0 0 - 1 0 1 3 2 0 4 2 -22
+p98
+aVTrevor Ariza HOU 05/08/2015 HOU @ LAC L 35 10 3 9 33.3 1 6 16.7 3 4 75.0 0 2 2 1 1 0 1 2 -11
+p99
+aVKostas Papanikolaou HOU 05/08/2015 HOU @ LAC L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p100
+aVDwight Howard HOU 05/08/2015 HOU @ LAC L 38 14 5 11 45.5 0 0 - 4 11 36.4 5 9 14 2 2 2 0 3 -10
+p101
+aVClint Capela HOU 05/08/2015 HOU @ LAC L 5 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 0 0 1 0 0 -3
+p102
+aVTerrence Jones HOU 05/08/2015 HOU @ LAC L 25 12 4 10 40.0 0 1 0.0 4 6 66.7 0 2 2 1 0 0 0 2 -20
+p103
+aVJosh Smith HOU 05/08/2015 HOU @ LAC L 13 7 3 10 30.0 0 3 0.0 1 1 100.0 5 4 9 0 1 0 2 1 -13
+p104
+aVJames Harden HOU 05/08/2015 HOU @ LAC L 36 25 8 16 50.0 4 7 57.1 5 5 100.0 0 3 3 11 0 1 5 3 -16
+p105
+aVDwight Howard HOU 05/06/2015 HOU vs. LAC W 35 24 8 11 72.7 0 0 - 8 21 38.1 4 12 16 3 1 4 1 4 -1
+p106
+aVJason Terry HOU 05/06/2015 HOU vs. LAC W 28 10 3 6 50.0 0 3 0.0 4 5 80.0 0 3 3 1 1 0 1 1 4
+p107
+aVJosh Smith HOU 05/06/2015 HOU vs. LAC W 17 8 3 9 33.3 0 1 0.0 2 6 33.3 2 4 6 1 0 2 0 2 -3
+p108
+aVClint Capela HOU 05/06/2015 HOU vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -1
+p109
+aVPablo Prigioni HOU 05/06/2015 HOU vs. LAC W 20 5 1 4 25.0 1 4 25.0 2 2 100.0 0 0 0 4 0 0 1 4 2
+p110
+aVCorey Brewer HOU 05/06/2015 HOU vs. LAC W 30 11 4 11 36.4 0 3 0.0 3 6 50.0 1 1 2 1 1 0 1 3 11
+p111
+aVTrevor Ariza HOU 05/06/2015 HOU vs. LAC W 45 15 4 12 33.3 1 5 20.0 6 7 85.7 3 10 13 2 1 0 1 4 -2
+p112
+aVTerrence Jones HOU 05/06/2015 HOU vs. LAC W 27 10 4 10 40.0 0 0 - 2 2 100.0 3 5 8 1 1 3 2 4 6
+p113
+aVJames Harden HOU 05/06/2015 HOU vs. LAC W 35 32 7 17 41.2 3 10 30.0 15 15 100.0 1 2 3 7 1 1 7 4 14
+p114
+aVJosh Smith HOU 05/04/2015 HOU vs. LAC L 29 9 3 12 25.0 1 5 20.0 2 4 50.0 1 4 5 1 1 0 2 3 3
+p115
+aVJason Terry HOU 05/04/2015 HOU vs. LAC L 30 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 1 2 0 2 4 -23
+p116
+aVJames Harden HOU 05/04/2015 HOU vs. LAC L 37 20 6 13 46.2 3 6 50.0 5 6 83.3 0 5 5 12 4 0 9 4 -22
+p117
+aVPablo Prigioni HOU 05/04/2015 HOU vs. LAC L 20 11 4 6 66.7 3 5 60.0 0 0 - 1 0 1 3 1 0 0 3 2
+p118
+aVDwight Howard HOU 05/04/2015 HOU vs. LAC L 39 22 9 13 69.2 0 0 - 4 9 44.4 1 9 10 1 1 5 2 4 -17
+p119
+aVTrevor Ariza HOU 05/04/2015 HOU vs. LAC L 38 17 7 13 53.8 2 6 33.3 1 1 100.0 1 4 5 4 3 1 4 3 -11
+p120
+aVClint Capela HOU 05/04/2015 HOU vs. LAC L 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 3
+p121
+aVTerrence Jones HOU 05/04/2015 HOU vs. LAC L 16 4 1 6 16.7 0 1 0.0 2 2 100.0 1 2 3 1 1 1 1 1 -11
+p122
+aVCorey Brewer HOU 05/04/2015 HOU vs. LAC L 24 6 3 12 25.0 0 5 0.0 0 2 0.0 0 1 1 1 1 0 3 3 -4
+p123
+aVPablo Prigioni HOU 04/28/2015 HOU vs. DAL W 22 5 2 4 50.0 1 3 33.3 0 0 - 1 0 1 1 2 0 0 3 2
+p124
+aVClint Capela HOU 04/28/2015 HOU vs. DAL W 7 2 1 2 50.0 0 0 - 0 2 0.0 1 0 1 1 0 0 1 1 -1
+p125
+aVJames Harden HOU 04/28/2015 HOU vs. DAL W 35 28 9 19 47.4 4 8 50.0 6 6 100.0 1 1 2 8 1 1 6 4 16
+p126
+aVTrevor Ariza HOU 04/28/2015 HOU vs. DAL W 37 5 2 8 25.0 1 7 14.3 0 0 - 2 9 11 4 0 0 1 3 8
+p127
+aVJoey Dorsey HOU 04/28/2015 HOU vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p128
+aVTerrence Jones HOU 04/28/2015 HOU vs. DAL W 28 15 6 11 54.5 1 2 50.0 2 6 33.3 1 4 5 1 0 0 1 3 9
+p129
+aVDwight Howard HOU 04/28/2015 HOU vs. DAL W 39 18 7 14 50.0 0 0 - 4 10 40.0 3 16 19 0 4 4 4 3 6
+p130
+aVCorey Brewer HOU 04/28/2015 HOU vs. DAL W 23 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 2 0 0 2 4 4
+p131
+aVNick Johnson HOU 04/28/2015 HOU vs. DAL W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p132
+aVJason Terry HOU 04/28/2015 HOU vs. DAL W 25 5 1 5 20.0 0 2 0.0 3 4 75.0 0 1 1 3 1 1 2 2 6
+p133
+aVJosh Smith HOU 04/28/2015 HOU vs. DAL W 22 20 7 12 58.3 2 6 33.3 4 8 50.0 2 6 8 2 1 0 4 3 4
+p134
+aVKostas Papanikolaou HOU 04/28/2015 HOU vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p135
+aVTrevor Ariza HOU 04/26/2015 HOU @ DAL L 33 7 2 10 20.0 0 5 0.0 3 3 100.0 0 5 5 2 2 0 0 4 -11
+p136
+aVKostas Papanikolaou HOU 04/26/2015 HOU @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p137
+aVJosh Smith HOU 04/26/2015 HOU @ DAL L 28 23 8 10 80.0 4 5 80.0 3 6 50.0 3 3 6 3 1 1 3 3 13
+p138
+aVNick Johnson HOU 04/26/2015 HOU @ DAL L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 3
+p139
+aVJames Harden HOU 04/26/2015 HOU @ DAL L 36 24 7 15 46.7 1 7 14.3 9 9 100.0 1 4 5 5 2 0 1 2 -13
+p140
+aVCorey Brewer HOU 04/26/2015 HOU @ DAL L 32 22 9 15 60.0 1 3 33.3 3 4 75.0 1 4 5 0 1 1 2 3 -11
+p141
+aVClint Capela HOU 04/26/2015 HOU @ DAL L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 8
+p142
+aVDwight Howard HOU 04/26/2015 HOU @ DAL L 36 13 5 7 71.4 0 0 - 3 13 23.1 0 7 7 1 1 2 2 4 -23
+p143
+aVPablo Prigioni HOU 04/26/2015 HOU @ DAL L 19 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 5 1 0 1 2 3
+p144
+aVTerrence Jones HOU 04/26/2015 HOU @ DAL L 18 13 5 12 41.7 0 2 0.0 3 3 100.0 1 5 6 0 1 0 1 0 -14
+p145
+aVJoey Dorsey HOU 04/26/2015 HOU @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p146
+aVJason Terry HOU 04/26/2015 HOU @ DAL L 22 3 1 5 20.0 1 4 25.0 0 0 - 1 0 1 3 1 0 0 2 -19
+p147
+aVTrevor Ariza HOU 04/24/2015 HOU @ DAL W 39 13 5 12 41.7 2 5 40.0 1 2 50.0 0 1 1 2 0 0 2 4 12
+p148
+aVJosh Smith HOU 04/24/2015 HOU @ DAL W 27 18 7 15 46.7 2 5 40.0 2 4 50.0 1 2 3 4 0 0 2 4 -10
+p149
+aVPablo Prigioni HOU 04/24/2015 HOU @ DAL W 20 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 3 1 0 0 3 -10
+p150
+aVClint Capela HOU 04/24/2015 HOU @ DAL W 6 7 2 2 100.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 2 -6
+p151
+aVCorey Brewer HOU 04/24/2015 HOU @ DAL W 21 15 6 11 54.5 2 3 66.7 1 2 50.0 1 2 3 0 0 0 1 2 -11
+p152
+aVJames Harden HOU 04/24/2015 HOU @ DAL W 36 42 15 24 62.5 5 7 71.4 7 7 100.0 0 5 5 9 1 0 5 4 -1
+p153
+aVTerrence Jones HOU 04/24/2015 HOU @ DAL W 25 12 4 9 44.4 0 0 - 4 5 80.0 3 3 6 0 0 0 1 3 4
+p154
+aVDwight Howard HOU 04/24/2015 HOU @ DAL W 38 13 5 10 50.0 0 0 - 3 5 60.0 11 15 26 3 2 2 3 3 16
+p155
+aVJason Terry HOU 04/24/2015 HOU @ DAL W 27 7 3 7 42.9 1 2 50.0 0 0 - 0 0 0 2 0 0 0 3 16
+p156
+aVTrevor Ariza HOU 04/21/2015 HOU vs. DAL W 36 4 1 9 11.1 0 3 0.0 2 3 66.7 2 3 5 1 0 0 1 4 18
+p157
+aVJames Harden HOU 04/21/2015 HOU vs. DAL W 34 24 5 17 29.4 1 4 25.0 13 13 100.0 0 5 5 6 1 0 4 4 9
+p158
+aVTerrence Jones HOU 04/21/2015 HOU vs. DAL W 22 5 1 6 16.7 0 1 0.0 3 4 75.0 2 4 6 0 1 0 0 1 4
+p159
+aVCorey Brewer HOU 04/21/2015 HOU vs. DAL W 29 15 7 13 53.8 1 3 33.3 0 0 - 1 3 4 1 1 0 1 2 6
+p160
+aVJoey Dorsey HOU 04/21/2015 HOU vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p161
+aVJason Terry HOU 04/21/2015 HOU vs. DAL W 24 8 3 3 100.0 2 2 100.0 0 1 0.0 0 2 2 2 1 0 0 2 11
+p162
+aVDwight Howard HOU 04/21/2015 HOU vs. DAL W 33 28 10 15 66.7 0 0 - 8 11 72.7 5 7 12 2 0 2 2 4 22
+p163
+aVKostas Papanikolaou HOU 04/21/2015 HOU vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p164
+aVJosh Smith HOU 04/21/2015 HOU vs. DAL W 26 15 7 15 46.7 1 5 20.0 0 1 0.0 3 5 8 9 1 1 2 5 8
+p165
+aVClint Capela HOU 04/21/2015 HOU vs. DAL W 10 5 2 4 50.0 0 0 - 1 2 50.0 0 4 4 1 0 2 0 0 -10
+p166
+aVPablo Prigioni HOU 04/21/2015 HOU vs. DAL W 24 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 3 0 0 1 1 1
+p167
+aVNick Johnson HOU 04/21/2015 HOU vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p168
+aVDwight Howard HOU 04/18/2015 HOU vs. DAL W 17 11 5 9 55.6 0 0 - 1 2 50.0 0 5 5 0 1 5 1 5 12
+p169
+aVClint Capela HOU 04/18/2015 HOU vs. DAL W 16 8 3 5 60.0 0 0 - 2 4 50.0 1 5 6 0 0 2 1 3 -4
+p170
+aVPablo Prigioni HOU 04/18/2015 HOU vs. DAL W 21 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 0 2 0 1 4 -6
+p171
+aVTrevor Ariza HOU 04/18/2015 HOU vs. DAL W 38 12 3 6 50.0 2 2 100.0 4 4 100.0 1 10 11 6 3 0 1 0 7
+p172
+aVJames Harden HOU 04/18/2015 HOU vs. DAL W 39 24 4 11 36.4 1 5 20.0 15 17 88.2 0 2 2 11 1 0 3 1 15
+p173
+aVTerrence Jones HOU 04/18/2015 HOU vs. DAL W 34 19 6 15 40.0 0 2 0.0 7 11 63.6 4 5 9 6 1 0 0 3 8
+p174
+aVCorey Brewer HOU 04/18/2015 HOU vs. DAL W 24 15 5 11 45.5 3 4 75.0 2 3 66.7 0 0 0 1 0 0 0 3 0
+p175
+aVJosh Smith HOU 04/18/2015 HOU vs. DAL W 25 11 5 14 35.7 0 2 0.0 1 4 25.0 2 5 7 1 1 2 4 1 3
+p176
+aVJason Terry HOU 04/18/2015 HOU vs. DAL W 26 16 6 10 60.0 4 7 57.1 0 0 - 0 4 4 1 2 0 2 2 15
+p177
+a.

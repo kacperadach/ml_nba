@@ -1,0 +1,148 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCJ Watson BKN 05/04/2013 BKN vs. CHI L 17 5 2 6 33.3 0 0 - 1 1 100.0 1 0 1 0 1 0 0 1 -7
+p2
+aVMarShon Brooks BKN 05/04/2013 BKN vs. CHI L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p3
+aVReggie Evans BKN 05/04/2013 BKN vs. CHI L 26 2 0 0 - 0 0 - 2 2 100.0 5 8 13 2 0 0 2 4 9
+p4
+aVBrook Lopez BKN 05/04/2013 BKN vs. CHI L 37 21 9 20 45.0 0 0 - 3 3 100.0 8 1 9 1 1 2 1 1 -4
+p5
+aVKris Humphries BKN 05/04/2013 BKN vs. CHI L 12 3 1 5 20.0 0 0 - 1 4 25.0 2 3 5 0 0 1 0 2 -7
+p6
+aVDeron Williams BKN 05/04/2013 BKN vs. CHI L 41 24 8 17 47.1 4 8 50.0 4 6 66.7 0 6 6 7 0 0 0 4 -5
+p7
+aVJoe Johnson BKN 05/04/2013 BKN vs. CHI L 38 6 2 14 14.3 1 9 11.1 1 1 100.0 1 2 3 2 3 0 3 1 -1
+p8
+aVAndray Blatche BKN 05/04/2013 BKN vs. CHI L 21 9 3 6 50.0 0 0 - 3 3 100.0 2 2 4 4 1 1 1 1 -11
+p9
+aVGerald Wallace BKN 05/04/2013 BKN vs. CHI L 40 19 8 16 50.0 3 8 37.5 0 0 - 0 2 2 5 0 0 1 2 -2
+p10
+aVKris Humphries BKN 05/02/2013 BKN @ CHI W 11 6 3 5 60.0 0 0 - 0 1 0.0 2 2 4 1 0 0 0 3 -1
+p11
+aVReggie Evans BKN 05/02/2013 BKN @ CHI W 29 2 0 2 0.0 0 0 - 2 2 100.0 3 12 15 0 0 0 0 2 -4
+p12
+aVGerald Wallace BKN 05/02/2013 BKN @ CHI W 35 15 5 12 41.7 2 4 50.0 3 6 50.0 1 2 3 3 0 0 3 2 4
+p13
+aVBrook Lopez BKN 05/02/2013 BKN @ CHI W 37 17 7 18 38.9 0 0 - 3 4 75.0 1 2 3 1 2 2 2 2 4
+p14
+aVCJ Watson BKN 05/02/2013 BKN @ CHI W 20 9 4 8 50.0 1 2 50.0 0 2 0.0 0 2 2 0 1 0 0 0 8
+p15
+aVDeron Williams BKN 05/02/2013 BKN @ CHI W 42 17 5 12 41.7 1 4 25.0 6 8 75.0 0 2 2 11 0 0 3 3 -6
+p16
+aVMarShon Brooks BKN 05/02/2013 BKN @ CHI W 9 2 0 1 0.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 1 0 3
+p17
+aVJoe Johnson BKN 05/02/2013 BKN @ CHI W 38 17 7 13 53.8 1 3 33.3 2 2 100.0 0 2 2 4 2 0 0 2 0
+p18
+aVAndray Blatche BKN 05/02/2013 BKN @ CHI W 19 10 3 8 37.5 0 0 - 4 6 66.7 2 5 7 0 0 0 0 4 7
+p19
+aVGerald Wallace BKN 04/29/2013 BKN vs. CHI W 39 12 5 8 62.5 2 4 50.0 0 0 - 0 1 1 3 2 2 1 1 20
+p20
+aVMarShon Brooks BKN 04/29/2013 BKN vs. CHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 8
+p21
+aVTyshawn Taylor BKN 04/29/2013 BKN vs. CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p22
+aVAndray Blatche BKN 04/29/2013 BKN vs. CHI W 20 13 5 8 62.5 0 0 - 3 3 100.0 2 3 5 0 0 0 0 2 10
+p23
+aVKris Humphries BKN 04/29/2013 BKN vs. CHI W 16 8 4 8 50.0 0 0 - 0 0 - 3 3 6 0 1 0 1 2 -1
+p24
+aVBrook Lopez BKN 04/29/2013 BKN vs. CHI W 36 28 11 20 55.0 0 0 - 6 7 85.7 6 4 10 2 0 0 2 3 20
+p25
+aVCJ Watson BKN 04/29/2013 BKN vs. CHI W 23 11 4 8 50.0 1 4 25.0 2 3 66.7 2 2 4 1 0 0 0 2 0
+p26
+aVJoe Johnson BKN 04/29/2013 BKN vs. CHI W 39 11 5 11 45.5 1 5 20.0 0 0 - 1 2 3 1 1 0 2 2 14
+p27
+aVDeron Williams BKN 04/29/2013 BKN vs. CHI W 38 23 6 14 42.9 2 4 50.0 9 10 90.0 0 3 3 10 1 0 4 3 15
+p28
+aVReggie Evans BKN 04/29/2013 BKN vs. CHI W 24 4 2 6 33.3 0 0 - 0 0 - 3 9 12 1 2 0 1 2 6
+p29
+aVCJ Watson BKN 04/27/2013 BKN @ CHI L 31 9 3 8 37.5 0 2 0.0 3 3 100.0 1 2 3 3 2 0 0 4 -10
+p30
+aVJerry Stackhouse BKN 04/27/2013 BKN @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p31
+aVDeron Williams BKN 04/27/2013 BKN @ CHI L 58 32 11 25 44.0 5 11 45.5 5 7 71.4 0 3 3 10 1 2 7 1 -14
+p32
+aVKris Humphries BKN 04/27/2013 BKN @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -8
+p33
+aVGerald Wallace BKN 04/27/2013 BKN @ CHI L 48 17 5 9 55.6 2 4 50.0 5 9 55.6 2 7 9 4 1 1 1 6 6
+p34
+aVJoe Johnson BKN 04/27/2013 BKN @ CHI L 48 22 10 20 50.0 1 6 16.7 1 2 50.0 0 3 3 1 0 0 3 2 -12
+p35
+aVBrook Lopez BKN 04/27/2013 BKN @ CHI L 51 26 9 20 45.0 1 1 100.0 7 9 77.8 5 6 11 2 2 4 4 3 -11
+p36
+aVReggie Evans BKN 04/27/2013 BKN @ CHI L 50 15 5 7 71.4 0 0 - 5 12 41.7 3 10 13 0 1 2 1 6 5
+p37
+aVMarShon Brooks BKN 04/27/2013 BKN @ CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p38
+aVAndray Blatche BKN 04/27/2013 BKN @ CHI L 18 13 5 7 71.4 0 0 - 3 3 100.0 1 4 5 3 0 0 2 1 11
+p39
+aVJoe Johnson BKN 04/25/2013 BKN @ CHI L 41 15 6 14 42.9 1 4 25.0 2 2 100.0 1 2 3 3 1 0 1 2 9
+p40
+aVReggie Evans BKN 04/25/2013 BKN @ CHI L 25 0 0 2 0.0 0 0 - 0 0 - 1 11 12 1 1 0 0 3 -12
+p41
+aVBrook Lopez BKN 04/25/2013 BKN @ CHI L 35 22 8 16 50.0 0 0 - 6 6 100.0 3 6 9 1 0 7 2 3 11
+p42
+aVMarShon Brooks BKN 04/25/2013 BKN @ CHI L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 0 10
+p43
+aVGerald Wallace BKN 04/25/2013 BKN @ CHI L 25 5 2 8 25.0 1 5 20.0 0 0 - 0 4 4 0 2 0 1 3 -7
+p44
+aVJerry Stackhouse BKN 04/25/2013 BKN @ CHI L 6 1 0 3 0.0 0 2 0.0 1 2 50.0 1 1 2 0 0 0 1 0 -7
+p45
+aVCJ Watson BKN 04/25/2013 BKN @ CHI L 20 2 1 8 12.5 0 2 0.0 0 0 - 0 3 3 3 0 0 1 3 -8
+p46
+aVKris Humphries BKN 04/25/2013 BKN @ CHI L 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -1
+p47
+aVAndray Blatche BKN 04/25/2013 BKN @ CHI L 21 7 3 9 33.3 0 0 - 1 2 50.0 1 2 3 2 0 2 1 3 -7
+p48
+aVDeron Williams BKN 04/25/2013 BKN @ CHI L 40 18 5 14 35.7 3 8 37.5 5 5 100.0 0 2 2 4 1 1 2 0 -3
+p49
+aVBrook Lopez BKN 04/22/2013 BKN vs. CHI L 35 21 7 14 50.0 0 0 - 7 8 87.5 3 2 5 1 1 3 3 4 -4
+p50
+aVDeron Williams BKN 04/22/2013 BKN vs. CHI L 38 8 1 9 11.1 0 5 0.0 6 7 85.7 1 3 4 10 1 1 2 3 -11
+p51
+aVMarShon Brooks BKN 04/22/2013 BKN vs. CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p52
+aVKris Humphries BKN 04/22/2013 BKN vs. CHI L 18 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 0 0 0 0 2 0
+p53
+aVCJ Watson BKN 04/22/2013 BKN vs. CHI L 27 10 4 9 44.4 1 4 25.0 1 2 50.0 1 2 3 5 1 1 0 1 6
+p54
+aVKeith Bogans BKN 04/22/2013 BKN vs. CHI L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -1
+p55
+aVAndray Blatche BKN 04/22/2013 BKN vs. CHI L 20 8 4 9 44.4 0 0 - 0 0 - 1 6 7 0 0 0 1 2 0
+p56
+aVJoe Johnson BKN 04/22/2013 BKN vs. CHI L 40 17 6 18 33.3 3 7 42.9 2 2 100.0 1 3 4 4 1 0 2 2 -4
+p57
+aVReggie Evans BKN 04/22/2013 BKN vs. CHI L 23 4 2 3 66.7 0 0 - 0 0 - 0 8 8 0 2 0 2 1 -12
+p58
+aVJerry Stackhouse BKN 04/22/2013 BKN vs. CHI L 6 4 1 4 25.0 0 3 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -4
+p59
+aVGerald Wallace BKN 04/22/2013 BKN vs. CHI L 19 2 1 7 14.3 0 1 0.0 0 0 - 1 2 3 0 2 0 2 2 -16
+p60
+aVTyshawn Taylor BKN 04/20/2013 BKN vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p61
+aVDeron Williams BKN 04/20/2013 BKN vs. CHI W 35 22 9 15 60.0 2 3 66.7 2 2 100.0 0 2 2 7 3 0 3 3 24
+p62
+aVReggie Evans BKN 04/20/2013 BKN vs. CHI W 32 5 2 3 66.7 0 0 - 1 2 50.0 1 12 13 2 1 0 0 3 13
+p63
+aVAndray Blatche BKN 04/20/2013 BKN vs. CHI W 20 12 6 11 54.5 0 0 - 0 0 - 1 2 3 0 1 0 0 1 4
+p64
+aVMirza Teletovic BKN 04/20/2013 BKN vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p65
+aVJerry Stackhouse BKN 04/20/2013 BKN vs. CHI W 12 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 0 2
+p66
+aVBrook Lopez BKN 04/20/2013 BKN vs. CHI W 32 21 7 15 46.7 0 0 - 7 7 100.0 3 2 5 2 0 3 2 4 19
+p67
+aVCJ Watson BKN 04/20/2013 BKN vs. CHI W 23 14 6 8 75.0 1 1 100.0 1 1 100.0 0 1 1 1 0 0 0 0 9
+p68
+aVKeith Bogans BKN 04/20/2013 BKN vs. CHI W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 2 1
+p69
+aVGerald Wallace BKN 04/20/2013 BKN vs. CHI W 37 14 5 7 71.4 1 3 33.3 3 5 60.0 1 5 6 2 1 2 0 4 22
+p70
+aVMarShon Brooks BKN 04/20/2013 BKN vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p71
+aVKris Humphries BKN 04/20/2013 BKN vs. CHI W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p72
+aVJoe Johnson BKN 04/20/2013 BKN vs. CHI W 28 16 7 13 53.8 2 5 40.0 0 0 - 0 4 4 4 0 0 1 2 -1
+p73
+a.

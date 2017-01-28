@@ -1,0 +1,142 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJamal Crawford LAC 04/29/2016 LAC @ POR L 39 32 10 25 40.0 0 3 0.0 12 13 92.3 0 0 0 1 3 0 3 2 0
+p2
+aVPaul Pierce LAC 04/29/2016 LAC @ POR L 17 3 1 3 33.3 1 2 50.0 0 2 0.0 0 2 2 0 1 0 0 1 7
+p3
+aVCJ Wilcox LAC 04/29/2016 LAC @ POR L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 6
+p4
+aVCole Aldrich LAC 04/29/2016 LAC @ POR L 13 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -4
+p5
+aVWesley Johnson LAC 04/29/2016 LAC @ POR L 19 3 1 5 20.0 1 3 33.3 0 0 - 3 2 5 0 0 1 0 1 -1
+p6
+aVDeAndre Jordan LAC 04/29/2016 LAC @ POR L 34 15 6 7 85.7 0 0 - 3 8 37.5 8 12 20 1 2 0 2 4 4
+p7
+aVJeff Green LAC 04/29/2016 LAC @ POR L 36 11 5 12 41.7 0 0 - 1 2 50.0 0 5 5 2 1 0 0 3 -9
+p8
+aVLuc Mbah a Moute LAC 04/29/2016 LAC @ POR L 14 3 1 2 50.0 0 0 - 1 1 100.0 2 0 2 0 0 0 1 2 -12
+p9
+aVJJ Redick LAC 04/29/2016 LAC @ POR L 26 15 7 12 58.3 1 2 50.0 0 0 - 0 1 1 1 0 0 1 3 1
+p10
+aVAustin Rivers LAC 04/29/2016 LAC @ POR L 32 21 8 19 42.1 1 6 16.7 4 5 80.0 1 5 6 8 1 0 0 2 2
+p11
+aVPablo Prigioni LAC 04/29/2016 LAC @ POR L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -9
+p12
+aVCole Aldrich LAC 04/27/2016 LAC vs. POR L 16 11 5 6 83.3 0 0 - 1 1 100.0 1 2 3 2 2 0 0 1 3
+p13
+aVPablo Prigioni LAC 04/27/2016 LAC vs. POR L 15 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 4 0 0 2 5 10
+p14
+aVDeAndre Jordan LAC 04/27/2016 LAC vs. POR L 31 16 5 8 62.5 0 0 - 6 11 54.5 4 13 17 3 0 3 1 4 -12
+p15
+aVPaul Pierce LAC 04/27/2016 LAC vs. POR L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 3 -9
+p16
+aVJamal Crawford LAC 04/27/2016 LAC vs. POR L 44 17 6 23 26.1 1 5 20.0 4 4 100.0 0 3 3 4 2 0 1 3 -7
+p17
+aVJJ Redick LAC 04/27/2016 LAC vs. POR L 34 19 7 17 41.2 3 6 50.0 2 2 100.0 0 3 3 2 0 0 0 2 -16
+p18
+aVJeff Green LAC 04/27/2016 LAC vs. POR L 37 17 6 10 60.0 1 2 50.0 4 8 50.0 1 5 6 2 3 0 1 3 -4
+p19
+aVWesley Johnson LAC 04/27/2016 LAC vs. POR L 13 5 1 2 50.0 0 1 0.0 3 3 100.0 1 4 5 0 0 0 1 2 2
+p20
+aVAustin Rivers LAC 04/27/2016 LAC vs. POR L 37 13 6 13 46.2 1 3 33.3 0 1 0.0 0 3 3 3 0 0 3 1 -23
+p21
+aVCJ Wilcox LAC 04/27/2016 LAC vs. POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p22
+aVJeff Ayres LAC 04/27/2016 LAC vs. POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p23
+aVJamal Crawford LAC 04/25/2016 LAC @ POR L 32 12 4 15 26.7 1 4 25.0 3 4 75.0 0 5 5 2 4 0 3 1 -1
+p24
+aVWesley Johnson LAC 04/25/2016 LAC @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p25
+aVJeff Green LAC 04/25/2016 LAC @ POR L 31 17 5 10 50.0 3 6 50.0 4 6 66.7 1 4 5 0 0 0 1 0 -4
+p26
+aVChris Paul LAC 04/25/2016 LAC @ POR L 25 16 7 14 50.0 0 2 0.0 2 2 100.0 0 1 1 4 3 0 0 2 -7
+p27
+aVCole Aldrich LAC 04/25/2016 LAC @ POR L 8 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 1 0 0 0 1 -2
+p28
+aVPaul Pierce LAC 04/25/2016 LAC @ POR L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p29
+aVJJ Redick LAC 04/25/2016 LAC @ POR L 26 8 3 13 23.1 2 8 25.0 0 0 - 0 2 2 1 0 0 1 1 -8
+p30
+aVJeff Ayres LAC 04/25/2016 LAC @ POR L 1 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 0
+p31
+aVAustin Rivers LAC 04/25/2016 LAC @ POR L 23 4 1 7 14.3 0 3 0.0 2 2 100.0 2 0 2 3 1 0 1 3 -3
+p32
+aVDeAndre Jordan LAC 04/25/2016 LAC @ POR L 35 7 3 5 60.0 0 0 - 1 6 16.7 4 11 15 1 2 4 2 4 -17
+p33
+aVBlake Griffin LAC 04/25/2016 LAC @ POR L 30 17 6 15 40.0 1 1 100.0 4 5 80.0 2 5 7 2 0 0 1 3 -11
+p34
+aVLuc Mbah a Moute LAC 04/25/2016 LAC @ POR L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p35
+aVPablo Prigioni LAC 04/25/2016 LAC @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p36
+aVWesley Johnson LAC 04/23/2016 LAC @ POR L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 4
+p37
+aVPaul Pierce LAC 04/23/2016 LAC @ POR L 5 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -7
+p38
+aVAustin Rivers LAC 04/23/2016 LAC @ POR L 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -10
+p39
+aVJeff Green LAC 04/23/2016 LAC @ POR L 23 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 0 2 0 1 1 3
+p40
+aVBlake Griffin LAC 04/23/2016 LAC @ POR L 34 12 5 16 31.3 0 1 0.0 2 2 100.0 0 7 7 4 2 0 3 1 -5
+p41
+aVJamal Crawford LAC 04/23/2016 LAC @ POR L 30 19 9 18 50.0 0 3 0.0 1 1 100.0 1 2 3 1 0 0 0 0 -11
+p42
+aVCole Aldrich LAC 04/23/2016 LAC @ POR L 13 3 1 2 50.0 0 0 - 1 2 50.0 1 6 7 0 2 0 0 2 -8
+p43
+aVJJ Redick LAC 04/23/2016 LAC @ POR L 25 5 2 10 20.0 1 4 25.0 0 0 - 1 1 2 1 1 1 1 2 0
+p44
+aVDeAndre Jordan LAC 04/23/2016 LAC @ POR L 32 11 4 7 57.1 0 0 - 3 10 30.0 7 9 16 0 1 2 0 1 2
+p45
+aVChris Paul LAC 04/23/2016 LAC @ POR L 38 26 10 21 47.6 2 7 28.6 4 4 100.0 1 2 3 9 3 0 2 4 0
+p46
+aVLuc Mbah a Moute LAC 04/23/2016 LAC @ POR L 15 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p47
+aVLuc Mbah a Moute LAC 04/20/2016 LAC vs. POR W 20 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 3 0 1 2 0
+p48
+aVJJ Redick LAC 04/20/2016 LAC vs. POR W 28 17 7 15 46.7 3 8 37.5 0 1 0.0 0 1 1 0 0 0 2 0 2
+p49
+aVAustin Rivers LAC 04/20/2016 LAC vs. POR W 21 9 4 9 44.4 1 3 33.3 0 1 0.0 0 1 1 1 1 0 1 2 16
+p50
+aVDeAndre Jordan LAC 04/20/2016 LAC vs. POR W 34 3 1 4 25.0 0 0 - 1 6 16.7 5 13 18 5 1 3 1 1 5
+p51
+aVPablo Prigioni LAC 04/20/2016 LAC vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p52
+aVWesley Johnson LAC 04/20/2016 LAC vs. POR W 18 5 2 3 66.7 1 2 50.0 0 0 - 1 3 4 0 1 1 0 1 18
+p53
+aVChris Paul LAC 04/20/2016 LAC vs. POR W 30 25 10 22 45.5 2 6 33.3 3 3 100.0 0 6 6 5 1 0 0 3 8
+p54
+aVBlake Griffin LAC 04/20/2016 LAC vs. POR W 31 12 4 12 33.3 0 0 - 4 6 66.7 3 6 9 4 0 1 3 4 1
+p55
+aVJamal Crawford LAC 04/20/2016 LAC vs. POR W 27 11 4 10 40.0 1 2 50.0 2 3 66.7 1 1 2 4 0 0 1 2 18
+p56
+aVJeff Green LAC 04/20/2016 LAC vs. POR W 17 10 3 5 60.0 0 0 - 4 5 80.0 1 0 1 0 0 2 0 1 19
+p57
+aVCole Aldrich LAC 04/20/2016 LAC vs. POR W 12 8 4 6 66.7 0 0 - 0 0 - 1 7 8 0 0 2 0 2 15
+p58
+aVWesley Johnson LAC 04/17/2016 LAC vs. POR W 9 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 1 0 1 1
+p59
+aVJJ Redick LAC 04/17/2016 LAC vs. POR W 27 17 8 12 66.7 1 3 33.3 0 0 - 0 3 3 0 0 0 0 3 20
+p60
+aVDeAndre Jordan LAC 04/17/2016 LAC vs. POR W 32 18 5 7 71.4 0 0 - 8 18 44.4 2 10 12 1 1 4 1 3 21
+p61
+aVLuc Mbah a Moute LAC 04/17/2016 LAC vs. POR W 19 0 0 0 - 0 0 - 0 0 - 0 5 5 1 0 0 0 3 10
+p62
+aVCole Aldrich LAC 04/17/2016 LAC vs. POR W 14 1 0 0 - 0 0 - 1 1 100.0 3 2 5 0 2 1 2 2 -4
+p63
+aVPablo Prigioni LAC 04/17/2016 LAC vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p64
+aVAustin Rivers LAC 04/17/2016 LAC vs. POR W 18 11 5 10 50.0 1 2 50.0 0 0 - 1 2 3 1 0 0 0 1 -4
+p65
+aVJeff Green LAC 04/17/2016 LAC vs. POR W 16 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 4 -1
+p66
+aVBlake Griffin LAC 04/17/2016 LAC vs. POR W 32 19 5 10 50.0 0 0 - 9 12 75.0 2 10 12 6 1 1 2 1 21
+p67
+aVJamal Crawford LAC 04/17/2016 LAC vs. POR W 27 13 6 12 50.0 1 4 25.0 0 0 - 0 0 0 1 1 0 1 1 12
+p68
+aVPaul Pierce LAC 04/17/2016 LAC vs. POR W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p69
+aVChris Paul LAC 04/17/2016 LAC vs. POR W 33 28 10 19 52.6 2 5 40.0 6 6 100.0 3 3 6 11 2 0 2 3 29
+p70
+a.

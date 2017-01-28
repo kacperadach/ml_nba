@@ -1,0 +1,284 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTony Allen BOS 05/17/2009 BOS vs. ORL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 2 0 0 0 2
+p2
+aVMikki Moore BOS 05/17/2009 BOS vs. ORL L 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p3
+aVBrian Scalabrine BOS 05/17/2009 BOS vs. ORL L 13 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 0 1 0 4 -6
+p4
+aVRajon Rondo BOS 05/17/2009 BOS vs. ORL L 37 10 4 10 40.0 0 1 0.0 2 2 100.0 2 4 6 10 2 0 1 5 -23
+p5
+aVPaul Pierce BOS 05/17/2009 BOS vs. ORL L 39 16 4 13 30.8 1 5 20.0 7 10 70.0 0 2 2 3 0 0 1 2 -21
+p6
+aVKendrick Perkins BOS 05/17/2009 BOS vs. ORL L 39 8 3 11 27.3 0 0 - 2 2 100.0 2 13 15 1 0 2 2 3 -21
+p7
+aVStephon Marbury BOS 05/17/2009 BOS vs. ORL L 14 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 3 0 0
+p8
+aVGlen Davis BOS 05/17/2009 BOS vs. ORL L 31 13 4 7 57.1 0 0 - 5 7 71.4 1 3 4 0 1 0 2 4 -9
+p9
+aVGabe Pruitt BOS 05/17/2009 BOS vs. ORL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p10
+aVHenry Walker BOS 05/17/2009 BOS vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p11
+aVRay Allen BOS 05/17/2009 BOS vs. ORL L 41 23 9 18 50.0 3 6 50.0 2 2 100.0 1 3 4 3 1 0 1 2 -16
+p12
+aVEddie House BOS 05/17/2009 BOS vs. ORL L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -11
+p13
+aVKendrick Perkins BOS 05/14/2009 BOS @ ORL L 37 15 7 11 63.6 0 0 - 1 1 100.0 3 7 10 1 0 3 5 5 2
+p14
+aVRay Allen BOS 05/14/2009 BOS @ ORL L 42 5 2 11 18.2 0 7 0.0 1 1 100.0 3 4 7 1 0 0 4 5 -8
+p15
+aVStephon Marbury BOS 05/14/2009 BOS @ ORL L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -3
+p16
+aVRajon Rondo BOS 05/14/2009 BOS @ ORL L 40 19 8 19 42.1 2 4 50.0 1 3 33.3 3 13 16 6 4 0 5 3 -6
+p17
+aVBrian Scalabrine BOS 05/14/2009 BOS @ ORL L 33 7 3 7 42.9 1 4 25.0 0 0 - 2 1 3 1 0 1 0 4 -5
+p18
+aVEddie House BOS 05/14/2009 BOS @ ORL L 15 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 2
+p19
+aVPaul Pierce BOS 05/14/2009 BOS @ ORL L 41 17 6 14 42.9 0 3 0.0 5 8 62.5 0 9 9 5 0 0 3 3 -10
+p20
+aVGlen Davis BOS 05/14/2009 BOS @ ORL L 25 6 3 8 37.5 0 0 - 0 0 - 1 1 2 2 2 0 2 4 -12
+p21
+aVBrian Scalabrine BOS 05/12/2009 BOS vs. ORL W 18 6 2 5 40.0 2 3 66.7 0 0 - 1 0 1 2 0 0 0 4 -11
+p22
+aVEddie House BOS 05/12/2009 BOS vs. ORL W 20 8 3 6 50.0 0 2 0.0 2 2 100.0 0 2 2 0 1 0 0 1 -2
+p23
+aVRajon Rondo BOS 05/12/2009 BOS vs. ORL W 29 6 3 12 25.0 0 3 0.0 0 0 - 2 7 9 5 1 0 3 4 9
+p24
+aVKendrick Perkins BOS 05/12/2009 BOS vs. ORL W 35 6 3 7 42.9 0 0 - 0 0 - 3 8 11 1 1 1 1 4 4
+p25
+aVPaul Pierce BOS 05/12/2009 BOS vs. ORL W 40 19 6 11 54.5 0 1 0.0 7 7 100.0 1 8 9 8 2 0 0 3 1
+p26
+aVStephon Marbury BOS 05/12/2009 BOS vs. ORL W 15 12 5 10 50.0 1 2 50.0 1 1 100.0 0 0 0 2 0 0 0 0 -6
+p27
+aVGlen Davis BOS 05/12/2009 BOS vs. ORL W 42 22 8 16 50.0 0 0 - 6 6 100.0 4 3 7 2 1 0 0 4 16
+p28
+aVRay Allen BOS 05/12/2009 BOS vs. ORL W 41 13 3 11 27.3 2 5 40.0 5 5 100.0 0 3 3 3 1 0 4 0 9
+p29
+aVBrian Scalabrine BOS 05/10/2009 BOS @ ORL W 16 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 5 0
+p30
+aVGlen Davis BOS 05/10/2009 BOS @ ORL W 33 21 9 14 64.3 0 0 - 3 8 37.5 2 4 6 0 0 0 3 4 -6
+p31
+aVKendrick Perkins BOS 05/10/2009 BOS @ ORL W 40 12 5 7 71.4 0 0 - 2 2 100.0 3 10 13 2 1 5 1 3 5
+p32
+aVStephon Marbury BOS 05/10/2009 BOS @ ORL W 6 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 4
+p33
+aVPaul Pierce BOS 05/10/2009 BOS @ ORL W 32 27 9 15 60.0 1 1 100.0 8 9 88.9 0 3 3 4 0 0 2 5 -6
+p34
+aVRay Allen BOS 05/10/2009 BOS @ ORL W 47 12 6 13 46.2 0 5 0.0 0 0 - 1 4 5 4 0 0 2 2 3
+p35
+aVEddie House BOS 05/10/2009 BOS @ ORL W 17 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 7
+p36
+aVRajon Rondo BOS 05/10/2009 BOS @ ORL W 42 21 8 15 53.3 0 1 0.0 5 8 62.5 2 12 14 3 1 0 3 3 -3
+p37
+aVMikki Moore BOS 05/10/2009 BOS @ ORL W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 1
+p38
+aVGlen Davis BOS 05/08/2009 BOS @ ORL L 28 7 2 6 33.3 0 0 - 3 4 75.0 1 2 3 1 2 1 1 5 -13
+p39
+aVRajon Rondo BOS 05/08/2009 BOS @ ORL L 34 15 7 17 41.2 0 1 0.0 1 3 33.3 1 4 5 6 3 0 1 3 -20
+p40
+aVMikki Moore BOS 05/08/2009 BOS @ ORL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -6
+p41
+aVRay Allen BOS 05/08/2009 BOS @ ORL L 33 8 3 13 23.1 0 5 0.0 2 2 100.0 1 4 5 4 0 0 2 1 -12
+p42
+aVBrian Scalabrine BOS 05/08/2009 BOS @ ORL L 25 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 1 0 0 1 5 -4
+p43
+aVHenry Walker BOS 05/08/2009 BOS @ ORL L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 1 -1
+p44
+aVKendrick Perkins BOS 05/08/2009 BOS @ ORL L 29 10 5 8 62.5 0 1 0.0 0 0 - 3 4 7 0 0 0 3 5 -20
+p45
+aVEddie House BOS 05/08/2009 BOS @ ORL L 21 15 6 7 85.7 3 4 75.0 0 0 - 0 1 1 1 1 0 0 2 -11
+p46
+aVStephon Marbury BOS 05/08/2009 BOS @ ORL L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 3 -1
+p47
+aVGabe Pruitt BOS 05/08/2009 BOS @ ORL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p48
+aVTony Allen BOS 05/08/2009 BOS @ ORL L 4 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -1
+p49
+aVPaul Pierce BOS 05/08/2009 BOS @ ORL L 38 27 6 15 40.0 1 3 33.3 14 14 100.0 0 3 3 6 3 0 2 2 -15
+p50
+aVKendrick Perkins BOS 05/06/2009 BOS vs. ORL W 32 16 7 10 70.0 0 0 - 2 3 66.7 3 6 9 3 0 2 2 5 10
+p51
+aVGabe Pruitt BOS 05/06/2009 BOS vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p52
+aVEddie House BOS 05/06/2009 BOS vs. ORL W 28 31 11 14 78.6 4 4 100.0 5 6 83.3 0 4 4 2 1 0 2 4 9
+p53
+aVRay Allen BOS 05/06/2009 BOS vs. ORL W 41 22 7 15 46.7 2 7 28.6 6 6 100.0 1 5 6 4 1 0 1 3 19
+p54
+aVRajon Rondo BOS 05/06/2009 BOS vs. ORL W 39 15 7 19 36.8 0 3 0.0 1 2 50.0 1 10 11 18 2 0 3 2 25
+p55
+aVBrian Scalabrine BOS 05/06/2009 BOS vs. ORL W 35 8 3 4 75.0 2 3 66.7 0 0 - 1 2 3 2 0 2 1 4 11
+p56
+aVTony Allen BOS 05/06/2009 BOS vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p57
+aVStephon Marbury BOS 05/06/2009 BOS vs. ORL W 17 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 3 0 0 0 1 -5
+p58
+aVMikki Moore BOS 05/06/2009 BOS vs. ORL W 2 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -2
+p59
+aVPaul Pierce BOS 05/06/2009 BOS vs. ORL W 16 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 4 12
+p60
+aVHenry Walker BOS 05/06/2009 BOS vs. ORL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p61
+aVGlen Davis BOS 05/06/2009 BOS vs. ORL W 26 13 4 5 80.0 0 0 - 5 6 83.3 1 4 5 1 2 0 1 3 19
+p62
+aVBrian Scalabrine BOS 05/04/2009 BOS vs. ORL L 27 10 3 5 60.0 2 3 66.7 2 2 100.0 1 3 4 1 1 0 1 3 22
+p63
+aVEddie House BOS 05/04/2009 BOS vs. ORL L 13 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 2 0 0 0 2 4
+p64
+aVRay Allen BOS 05/04/2009 BOS vs. ORL L 40 9 2 12 16.7 1 7 14.3 4 4 100.0 1 2 3 3 1 0 1 0 -15
+p65
+aVGlen Davis BOS 05/04/2009 BOS vs. ORL L 33 12 6 10 60.0 0 0 - 0 0 - 0 5 5 1 1 1 2 6 -15
+p66
+aVTony Allen BOS 05/04/2009 BOS vs. ORL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p67
+aVKendrick Perkins BOS 05/04/2009 BOS vs. ORL L 36 6 3 9 33.3 0 0 - 0 0 - 5 11 16 3 0 3 1 3 -14
+p68
+aVRajon Rondo BOS 05/04/2009 BOS vs. ORL L 39 14 2 12 16.7 0 2 0.0 10 12 83.3 3 7 10 8 3 0 7 3 0
+p69
+aVStephon Marbury BOS 05/04/2009 BOS vs. ORL L 9 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 -7
+p70
+aVPaul Pierce BOS 05/04/2009 BOS vs. ORL L 39 23 7 18 38.9 3 6 50.0 6 8 75.0 0 5 5 2 2 0 2 3 9
+p71
+aVBrian Scalabrine BOS 05/02/2009 BOS vs. CHI W 25 8 3 6 50.0 2 3 66.7 0 0 - 0 3 3 0 0 0 1 3 -6
+p72
+aVRay Allen BOS 05/02/2009 BOS vs. CHI W 36 23 6 14 42.9 2 5 40.0 9 9 100.0 3 4 7 3 1 2 0 4 4
+p73
+aVMikki Moore BOS 05/02/2009 BOS vs. CHI W 3 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 6
+p74
+aVRajon Rondo BOS 05/02/2009 BOS vs. CHI W 38 7 2 8 25.0 0 0 - 3 6 50.0 1 4 5 11 3 2 4 3 4
+p75
+aVEddie House BOS 05/02/2009 BOS vs. CHI W 22 16 5 5 100.0 4 4 100.0 2 2 100.0 0 2 2 2 3 0 1 3 11
+p76
+aVGlen Davis BOS 05/02/2009 BOS vs. CHI W 32 15 6 16 37.5 0 0 - 3 7 42.9 1 1 2 3 0 0 1 3 4
+p77
+aVPaul Pierce BOS 05/02/2009 BOS vs. CHI W 43 20 6 17 35.3 1 4 25.0 7 8 87.5 1 8 9 4 0 2 3 3 10
+p78
+aVKendrick Perkins BOS 05/02/2009 BOS vs. CHI W 30 14 6 8 75.0 0 0 - 2 3 66.7 5 8 13 1 0 1 2 4 6
+p79
+aVStephon Marbury BOS 05/02/2009 BOS vs. CHI W 12 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 0 11
+p80
+aVRay Allen BOS 04/30/2009 BOS @ CHI L 59 51 18 32 56.3 9 18 50.0 6 7 85.7 2 3 5 3 3 0 3 1 1
+p81
+aVBrian Scalabrine BOS 04/30/2009 BOS @ CHI L 20 7 2 6 33.3 1 3 33.3 2 2 100.0 1 1 2 0 0 1 0 3 -10
+p82
+aVStephon Marbury BOS 04/30/2009 BOS @ CHI L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p83
+aVPaul Pierce BOS 04/30/2009 BOS @ CHI L 51 22 5 13 38.5 1 5 20.0 11 12 91.7 1 8 9 2 2 1 3 6 -4
+p84
+aVTony Allen BOS 04/30/2009 BOS @ CHI L 11 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 0 0 0 -11
+p85
+aVRajon Rondo BOS 04/30/2009 BOS @ CHI L 58 8 4 17 23.5 0 2 0.0 0 2 0.0 2 7 9 19 0 0 0 4 3
+p86
+aVEddie House BOS 04/30/2009 BOS @ CHI L 10 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 11
+p87
+aVMikki Moore BOS 04/30/2009 BOS @ CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p88
+aVKendrick Perkins BOS 04/30/2009 BOS @ CHI L 44 12 5 8 62.5 0 0 - 2 2 100.0 4 9 13 3 0 4 1 6 3
+p89
+aVGlen Davis BOS 04/30/2009 BOS @ CHI L 53 23 10 18 55.6 0 0 - 3 5 60.0 6 1 7 1 1 0 4 6 8
+p90
+aVStephon Marbury BOS 04/28/2009 BOS vs. CHI W 12 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 -1
+p91
+aVPaul Pierce BOS 04/28/2009 BOS vs. CHI W 51 26 11 22 50.0 1 6 16.7 3 5 60.0 0 7 7 1 2 1 2 2 2
+p92
+aVEddie House BOS 04/28/2009 BOS vs. CHI W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p93
+aVGlen Davis BOS 04/28/2009 BOS vs. CHI W 41 21 7 11 63.6 0 0 - 7 8 87.5 4 2 6 3 0 0 0 2 16
+p94
+aVBrian Scalabrine BOS 04/28/2009 BOS vs. CHI W 10 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 2 -12
+p95
+aVKendrick Perkins BOS 04/28/2009 BOS vs. CHI W 48 16 7 13 53.8 0 0 - 2 4 50.0 3 16 19 2 1 7 2 0 -2
+p96
+aVTony Allen BOS 04/28/2009 BOS vs. CHI W 17 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -3
+p97
+aVRajon Rondo BOS 04/28/2009 BOS vs. CHI W 49 28 12 22 54.5 2 2 100.0 2 4 50.0 2 6 8 11 2 0 4 4 3
+p98
+aVRay Allen BOS 04/28/2009 BOS vs. CHI W 26 10 3 8 37.5 2 4 50.0 2 3 66.7 0 1 1 2 0 1 2 6 10
+p99
+aVEddie House BOS 04/26/2009 BOS @ CHI L 18 6 2 5 40.0 1 3 33.3 1 1 100.0 0 1 1 3 1 0 0 1 7
+p100
+aVKendrick Perkins BOS 04/26/2009 BOS @ CHI L 40 15 6 10 60.0 0 0 - 3 3 100.0 4 5 9 0 1 3 6 6 6
+p101
+aVRajon Rondo BOS 04/26/2009 BOS @ CHI L 55 25 9 18 50.0 0 1 0.0 7 9 77.8 4 7 11 11 2 0 1 5 5
+p102
+aVBrian Scalabrine BOS 04/26/2009 BOS @ CHI L 18 3 1 2 50.0 1 1 100.0 0 0 - 1 3 4 0 1 0 1 6 10
+p103
+aVGlen Davis BOS 04/26/2009 BOS @ CHI L 45 10 4 16 25.0 0 0 - 2 2 100.0 3 8 11 3 1 0 1 5 -7
+p104
+aVTony Allen BOS 04/26/2009 BOS @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p105
+aVMikki Moore BOS 04/26/2009 BOS @ CHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -9
+p106
+aVStephon Marbury BOS 04/26/2009 BOS @ CHI L 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -17
+p107
+aVPaul Pierce BOS 04/26/2009 BOS @ CHI L 52 29 9 24 37.5 3 7 42.9 8 9 88.9 1 6 7 1 2 0 6 4 3
+p108
+aVRay Allen BOS 04/26/2009 BOS @ CHI L 47 28 8 17 47.1 5 11 45.5 7 8 87.5 0 3 3 1 2 0 2 3 -1
+p109
+aVKendrick Perkins BOS 04/23/2009 BOS @ CHI W 28 6 2 5 40.0 0 0 - 2 4 50.0 3 4 7 3 0 2 1 2 16
+p110
+aVPaul Pierce BOS 04/23/2009 BOS @ CHI W 28 24 9 15 60.0 4 8 50.0 2 2 100.0 0 1 1 0 0 0 1 2 24
+p111
+aVEddie House BOS 04/23/2009 BOS @ CHI W 12 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 0 1 0 1 0 -11
+p112
+aVMikki Moore BOS 04/23/2009 BOS @ CHI W 20 1 0 0 - 0 0 - 1 2 50.0 0 2 2 2 1 3 1 5 -4
+p113
+aVRajon Rondo BOS 04/23/2009 BOS @ CHI W 34 20 8 15 53.3 1 2 50.0 3 4 75.0 0 11 11 6 5 0 3 4 26
+p114
+aVGabe Pruitt BOS 04/23/2009 BOS @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 0 -6
+p115
+aVStephon Marbury BOS 04/23/2009 BOS @ CHI W 24 13 4 10 40.0 1 1 100.0 4 4 100.0 1 2 3 5 0 0 0 1 9
+p116
+aVGlen Davis BOS 04/23/2009 BOS @ CHI W 39 14 5 12 41.7 0 0 - 4 5 80.0 3 6 9 6 6 3 2 4 30
+p117
+aVTony Allen BOS 04/23/2009 BOS @ CHI W 9 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -8
+p118
+aVBrian Scalabrine BOS 04/23/2009 BOS @ CHI W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 6
+p119
+aVHenry Walker BOS 04/23/2009 BOS @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -6
+p120
+aVRay Allen BOS 04/23/2009 BOS @ CHI W 35 18 6 12 50.0 3 4 75.0 3 3 100.0 0 0 0 0 2 1 2 2 29
+p121
+aVRajon Rondo BOS 04/20/2009 BOS vs. CHI W 40 19 7 18 38.9 0 1 0.0 5 8 62.5 7 5 12 16 5 0 2 1 17
+p122
+aVTony Allen BOS 04/20/2009 BOS vs. CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p123
+aVRay Allen BOS 04/20/2009 BOS vs. CHI W 39 30 9 18 50.0 6 10 60.0 6 6 100.0 0 3 3 5 0 0 0 4 5
+p124
+aVGlen Davis BOS 04/20/2009 BOS vs. CHI W 41 26 12 21 57.1 0 0 - 2 3 66.7 4 5 9 0 1 1 1 3 20
+p125
+aVMikki Moore BOS 04/20/2009 BOS vs. CHI W 12 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 1 0 2 -17
+p126
+aVLeon Powe BOS 04/20/2009 BOS vs. CHI W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p127
+aVPaul Pierce BOS 04/20/2009 BOS vs. CHI W 44 18 8 19 42.1 0 1 0.0 2 3 66.7 0 8 8 3 1 0 4 2 5
+p128
+aVStephon Marbury BOS 04/20/2009 BOS vs. CHI W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -15
+p129
+aVEddie House BOS 04/20/2009 BOS vs. CHI W 14 3 1 4 25.0 1 3 33.3 0 0 - 2 0 2 1 1 0 1 3 -6
+p130
+aVKendrick Perkins BOS 04/20/2009 BOS vs. CHI W 32 16 7 9 77.8 0 0 - 2 5 40.0 7 5 12 0 1 2 3 3 12
+p131
+aVKendrick Perkins BOS 04/18/2009 BOS vs. CHI L 43 14 7 11 63.6 0 0 - 0 1 0.0 3 5 8 0 1 2 3 2 4
+p132
+aVRay Allen BOS 04/18/2009 BOS vs. CHI L 39 4 1 12 8.3 0 6 0.0 2 2 100.0 0 3 3 1 3 1 1 2 2
+p133
+aVRajon Rondo BOS 04/18/2009 BOS vs. CHI L 44 29 12 21 57.1 1 1 100.0 4 4 100.0 2 7 9 7 2 1 1 3 4
+p134
+aVGlen Davis BOS 04/18/2009 BOS vs. CHI L 40 18 6 15 40.0 0 0 - 6 8 75.0 2 1 3 2 0 2 0 6 7
+p135
+aVEddie House BOS 04/18/2009 BOS vs. CHI L 17 5 2 8 25.0 1 4 25.0 0 0 - 0 1 1 0 1 0 0 0 -9
+p136
+aVPaul Pierce BOS 04/18/2009 BOS vs. CHI L 43 23 8 21 38.1 2 5 40.0 5 6 83.3 0 7 7 3 1 1 4 3 11
+p137
+aVLeon Powe BOS 04/18/2009 BOS vs. CHI L 17 8 2 5 40.0 0 0 - 4 6 66.7 1 7 8 0 0 0 1 2 -10
+p138
+aVTony Allen BOS 04/18/2009 BOS vs. CHI L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p139
+aVMikki Moore BOS 04/18/2009 BOS vs. CHI L 6 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -6
+p140
+aVStephon Marbury BOS 04/18/2009 BOS vs. CHI L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 0 0 2 2 -4
+p141
+a.

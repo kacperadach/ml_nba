@@ -1,0 +1,170 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBlue Edwards UTH 05/14/1991 UTH @ POR L 17 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 1 0 1 4 -
+p2
+aVThurl Bailey UTH 05/14/1991 UTH @ POR L 27 12 4 9 44.4 0 0 - 4 4 100.0 1 4 5 2 1 1 4 6 -
+p3
+aVMike Brown UTH 05/14/1991 UTH @ POR L 22 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 0 0 0 2 3 -
+p4
+aVKarl Malone UTH 05/14/1991 UTH @ POR L 46 26 9 23 39.1 0 1 0.0 8 8 100.0 0 8 8 3 1 1 1 4 -
+p5
+aVJeff Malone UTH 05/14/1991 UTH @ POR L 43 20 10 19 52.6 0 0 - 0 0 - 0 2 2 2 0 0 3 5 -
+p6
+aVDelaney Rudd UTH 05/14/1991 UTH @ POR L 2 1 0 2 0.0 0 1 0.0 1 2 50.0 1 0 1 1 0 0 0 0 -
+p7
+aVMark Eaton UTH 05/14/1991 UTH @ POR L 38 6 2 2 100.0 0 0 - 2 2 100.0 1 7 8 2 0 0 1 4 -
+p8
+aVJohn Stockton UTH 05/14/1991 UTH @ POR L 45 19 6 10 60.0 1 1 100.0 6 6 100.0 1 2 3 14 2 0 2 3 -
+p9
+aVMike Brown UTH 05/12/1991 UTH vs. POR L 26 13 4 6 66.7 0 0 - 5 7 71.4 2 1 3 0 0 1 1 6 -
+p10
+aVKarl Malone UTH 05/12/1991 UTH vs. POR L 41 31 11 24 45.8 0 2 0.0 9 10 90.0 3 9 12 1 0 0 2 5 -
+p11
+aVMark Eaton UTH 05/12/1991 UTH vs. POR L 25 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 3 0 5 -
+p12
+aVTony Brown UTH 05/12/1991 UTH vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p13
+aVBlue Edwards UTH 05/12/1991 UTH vs. POR L 28 12 5 8 62.5 0 0 - 2 2 100.0 0 4 4 2 1 0 1 3 -
+p14
+aVJohn Stockton UTH 05/12/1991 UTH vs. POR L 43 12 4 14 28.6 0 3 0.0 4 6 66.7 2 2 4 16 4 0 3 3 -
+p15
+aVJeff Malone UTH 05/12/1991 UTH vs. POR L 41 23 10 20 50.0 0 1 0.0 3 3 100.0 1 4 5 3 0 0 1 2 -
+p16
+aVThurl Bailey UTH 05/12/1991 UTH vs. POR L 30 8 2 4 50.0 0 0 - 4 4 100.0 2 2 4 1 1 0 1 5 -
+p17
+aVDelaney Rudd UTH 05/12/1991 UTH vs. POR L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -
+p18
+aVThurl Bailey UTH 05/11/1991 UTH vs. POR W 26 11 4 13 30.8 0 0 - 3 4 75.0 2 4 6 1 0 1 0 4 -
+p19
+aVMark Eaton UTH 05/11/1991 UTH vs. POR W 30 2 1 5 20.0 0 0 - 0 0 - 5 1 6 1 1 2 1 5 -
+p20
+aVJeff Malone UTH 05/11/1991 UTH vs. POR W 38 25 8 15 53.3 0 0 - 9 9 100.0 0 1 1 3 2 0 1 3 -
+p21
+aVKarl Malone UTH 05/11/1991 UTH vs. POR W 41 30 12 29 41.4 0 1 0.0 6 6 100.0 4 17 21 2 2 3 3 5 -
+p22
+aVDelaney Rudd UTH 05/11/1991 UTH vs. POR W 8 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -
+p23
+aVJohn Stockton UTH 05/11/1991 UTH vs. POR W 40 18 6 11 54.5 2 4 50.0 4 4 100.0 1 5 6 15 3 0 3 3 -
+p24
+aVMike Brown UTH 05/11/1991 UTH vs. POR W 25 4 0 4 0.0 0 0 - 4 6 66.7 3 9 12 1 1 0 3 3 -
+p25
+aVBlue Edwards UTH 05/11/1991 UTH vs. POR W 32 10 5 13 38.5 0 0 - 0 0 - 2 2 4 2 0 0 3 5 -
+p26
+aVBlue Edwards UTH 05/09/1991 UTH @ POR L 34 12 6 11 54.5 0 0 - 0 0 - 0 2 2 1 1 1 4 5 -
+p27
+aVKarl Malone UTH 05/09/1991 UTH @ POR L 43 40 10 18 55.6 0 0 - 20 22 90.9 3 13 16 3 2 0 4 4 -
+p28
+aVJeff Malone UTH 05/09/1991 UTH @ POR L 33 24 8 14 57.1 0 0 - 8 8 100.0 1 1 2 2 0 1 0 4 -
+p29
+aVJohn Stockton UTH 05/09/1991 UTH @ POR L 45 20 7 13 53.8 2 6 33.3 4 5 80.0 2 3 5 12 1 1 3 5 -
+p30
+aVMike Brown UTH 05/09/1991 UTH @ POR L 26 8 2 8 25.0 0 0 - 4 4 100.0 1 2 3 1 0 0 0 4 -
+p31
+aVMark Eaton UTH 05/09/1991 UTH @ POR L 31 2 1 3 33.3 0 0 - 0 0 - 3 7 10 1 0 1 1 5 -
+p32
+aVDelaney Rudd UTH 05/09/1991 UTH @ POR L 3 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p33
+aVDarrell Griffith UTH 05/09/1991 UTH @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p34
+aVThurl Bailey UTH 05/09/1991 UTH @ POR L 24 8 2 7 28.6 0 0 - 4 5 80.0 2 3 5 0 0 1 1 3 -
+p35
+aVDarrell Griffith UTH 05/07/1991 UTH @ POR L 2 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p36
+aVDelaney Rudd UTH 05/07/1991 UTH @ POR L 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 2 0 0 0 -
+p37
+aVBlue Edwards UTH 05/07/1991 UTH @ POR L 24 7 2 9 22.2 1 1 100.0 2 4 50.0 0 2 2 2 1 0 3 2 -
+p38
+aVWalter Palmer UTH 05/07/1991 UTH @ POR L 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p39
+aVThurl Bailey UTH 05/07/1991 UTH @ POR L 15 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -
+p40
+aVKarl Malone UTH 05/07/1991 UTH @ POR L 43 21 8 24 33.3 0 0 - 5 7 71.4 1 15 16 5 1 3 3 3 -
+p41
+aVTony Brown UTH 05/07/1991 UTH @ POR L 14 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p42
+aVJeff Malone UTH 05/07/1991 UTH @ POR L 41 17 6 13 46.2 0 0 - 5 5 100.0 2 0 2 4 1 0 0 0 -
+p43
+aVJohn Stockton UTH 05/07/1991 UTH @ POR L 44 23 7 15 46.7 1 3 33.3 8 10 80.0 2 4 6 16 4 0 3 4 -
+p44
+aVAndy Toolson UTH 05/07/1991 UTH @ POR L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p45
+aVMark Eaton UTH 05/07/1991 UTH @ POR L 24 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 1 0 4 -
+p46
+aVMike Brown UTH 05/07/1991 UTH @ POR L 27 14 6 10 60.0 0 0 - 2 2 100.0 2 6 8 0 0 0 1 5 -
+p47
+aVBlue Edwards UTH 05/02/1991 UTH vs. PHX W 22 4 2 4 50.0 0 0 - 0 2 0.0 1 0 1 0 1 0 0 5 -
+p48
+aVThurl Bailey UTH 05/02/1991 UTH vs. PHX W 29 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 1 0 2 2 1 -
+p49
+aVMark Eaton UTH 05/02/1991 UTH vs. PHX W 28 8 3 4 75.0 0 0 - 2 3 66.7 2 3 5 0 0 2 0 3 -
+p50
+aVJohn Stockton UTH 05/02/1991 UTH vs. PHX W 41 14 4 8 50.0 0 1 0.0 6 7 85.7 1 5 6 13 1 1 7 3 -
+p51
+aVTony Brown UTH 05/02/1991 UTH vs. PHX W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p52
+aVDelaney Rudd UTH 05/02/1991 UTH vs. PHX W 8 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -
+p53
+aVKarl Malone UTH 05/02/1991 UTH vs. PHX W 46 38 13 31 41.9 0 1 0.0 12 16 75.0 3 10 13 4 0 0 3 4 -
+p54
+aVJeff Malone UTH 05/02/1991 UTH vs. PHX W 40 19 7 18 38.9 0 0 - 5 6 83.3 2 5 7 4 1 0 2 1 -
+p55
+aVMike Brown UTH 05/02/1991 UTH vs. PHX W 22 12 3 3 100.0 0 0 - 6 6 100.0 1 7 8 0 1 0 1 5 -
+p56
+aVThurl Bailey UTH 04/30/1991 UTH vs. PHX W 20 0 0 6 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 2 -
+p57
+aVMark Eaton UTH 04/30/1991 UTH vs. PHX W 23 5 2 3 66.7 0 0 - 1 3 33.3 2 6 8 0 0 2 0 5 -
+p58
+aVDelaney Rudd UTH 04/30/1991 UTH vs. PHX W 7 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 3 0 0 0 1 -
+p59
+aVJohn Stockton UTH 04/30/1991 UTH vs. PHX W 41 18 7 13 53.8 2 3 66.7 2 2 100.0 0 6 6 12 2 0 4 4 -
+p60
+aVMike Brown UTH 04/30/1991 UTH vs. PHX W 28 15 5 9 55.6 0 0 - 5 5 100.0 6 5 11 0 0 0 2 3 -
+p61
+aVJeff Malone UTH 04/30/1991 UTH vs. PHX W 39 14 5 14 35.7 0 0 - 4 4 100.0 0 6 6 3 0 0 1 3 -
+p62
+aVBlue Edwards UTH 04/30/1991 UTH vs. PHX W 37 22 7 13 53.8 0 1 0.0 8 8 100.0 3 7 10 3 1 0 2 5 -
+p63
+aVKarl Malone UTH 04/30/1991 UTH vs. PHX W 45 32 12 26 46.2 0 1 0.0 8 9 88.9 4 6 10 4 2 0 2 4 -
+p64
+aVMike Brown UTH 04/27/1991 UTH @ PHX L 22 5 2 7 28.6 0 0 - 1 2 50.0 1 5 6 1 0 0 1 5 -
+p65
+aVJohn Stockton UTH 04/27/1991 UTH @ PHX L 43 22 9 13 69.2 3 5 60.0 1 2 50.0 1 4 5 11 2 0 6 5 -
+p66
+aVBlue Edwards UTH 04/27/1991 UTH @ PHX L 24 6 2 9 22.2 0 0 - 2 2 100.0 0 2 2 3 1 0 0 3 -
+p67
+aVThurl Bailey UTH 04/27/1991 UTH @ PHX L 32 7 3 6 50.0 0 0 - 1 2 50.0 0 3 3 2 1 0 3 3 -
+p68
+aVMark Eaton UTH 04/27/1991 UTH @ PHX L 32 4 1 3 33.3 0 0 - 2 4 50.0 0 4 4 0 0 0 3 6 -
+p69
+aVDelaney Rudd UTH 04/27/1991 UTH @ PHX L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 0 -
+p70
+aVJeff Malone UTH 04/27/1991 UTH @ PHX L 40 23 8 16 50.0 0 1 0.0 7 8 87.5 1 4 5 0 2 0 3 3 -
+p71
+aVKarl Malone UTH 04/27/1991 UTH @ PHX L 42 22 10 17 58.8 0 1 0.0 2 5 40.0 5 9 14 4 0 1 5 5 -
+p72
+aVKarl Malone UTH 04/25/1991 UTH @ PHX W 36 27 10 17 58.8 0 1 0.0 7 8 87.5 0 10 10 3 1 3 3 1 -
+p73
+aVJeff Malone UTH 04/25/1991 UTH @ PHX W 36 21 9 15 60.0 0 0 - 3 5 60.0 0 5 5 8 3 0 1 1 -
+p74
+aVJohn Stockton UTH 04/25/1991 UTH @ PHX W 31 18 8 11 72.7 0 1 0.0 2 2 100.0 0 1 1 15 1 0 1 3 -
+p75
+aVWalter Palmer UTH 04/25/1991 UTH @ PHX W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -
+p76
+aVMark Eaton UTH 04/25/1991 UTH @ PHX W 24 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 2 1 4 -
+p77
+aVDelaney Rudd UTH 04/25/1991 UTH @ PHX W 17 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 7 0 0 2 3 -
+p78
+aVThurl Bailey UTH 04/25/1991 UTH @ PHX W 25 12 5 8 62.5 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -
+p79
+aVBlue Edwards UTH 04/25/1991 UTH @ PHX W 23 12 5 6 83.3 0 0 - 2 2 100.0 0 2 2 2 1 0 1 5 -
+p80
+aVMike Brown UTH 04/25/1991 UTH @ PHX W 25 9 3 4 75.0 0 0 - 3 4 75.0 1 9 10 2 1 0 1 2 -
+p81
+aVTony Brown UTH 04/25/1991 UTH @ PHX W 10 9 4 5 80.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 1 -
+p82
+aVAndy Toolson UTH 04/25/1991 UTH @ PHX W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p83
+aVDarrell Griffith UTH 04/25/1991 UTH @ PHX W 6 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p84
+a.

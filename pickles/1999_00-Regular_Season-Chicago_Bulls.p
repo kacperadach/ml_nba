@@ -1,0 +1,1708 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVElton Brand CHI 04/19/2000 CHI @ DET L 43 32 10 18 55.6 0 0 - 12 17 70.6 6 5 11 1 1 2 3 5 -12
+p2
+aVMatt Maloney CHI 04/19/2000 CHI @ DET L 28 8 3 9 33.3 2 6 33.3 0 1 0.0 2 1 3 3 0 0 2 0 -11
+p3
+aVMichael Ruffin CHI 04/19/2000 CHI @ DET L 34 4 0 1 0.0 0 0 - 4 4 100.0 9 1 10 4 2 0 2 5 -15
+p4
+aVFred Hoiberg CHI 04/19/2000 CHI @ DET L 42 15 6 13 46.2 1 4 25.0 2 2 100.0 0 3 3 1 3 0 3 1 -16
+p5
+aVB.J. Armstrong CHI 04/19/2000 CHI @ DET L 15 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -5
+p6
+aVCorey Benjamin CHI 04/19/2000 CHI @ DET L 40 13 4 10 40.0 2 7 28.6 3 3 100.0 0 3 3 3 1 0 6 5 -19
+p7
+aVChris Carr CHI 04/19/2000 CHI @ DET L 18 11 4 9 44.4 1 5 20.0 2 3 66.7 0 2 2 4 0 0 1 2 -12
+p8
+aVChris Anstey CHI 04/19/2000 CHI @ DET L 20 6 2 8 25.0 0 0 - 2 2 100.0 0 1 1 2 1 0 3 5 -15
+p9
+aVB.J. Armstrong CHI 04/18/2000 CHI vs. PHI L 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 2 1 -4
+p10
+aVCorey Benjamin CHI 04/18/2000 CHI vs. PHI L 16 12 4 6 66.7 2 3 66.7 2 2 100.0 0 1 1 4 0 0 1 5 8
+p11
+aVRandy Brown CHI 04/18/2000 CHI vs. PHI L 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p12
+aVChris Anstey CHI 04/18/2000 CHI vs. PHI L 28 17 5 9 55.6 0 0 - 7 8 87.5 1 5 6 1 2 0 3 2 4
+p13
+aVMatt Maloney CHI 04/18/2000 CHI vs. PHI L 29 3 1 7 14.3 1 5 20.0 0 0 - 0 1 1 7 1 0 3 1 9
+p14
+aVHersey Hawkins CHI 04/18/2000 CHI vs. PHI L 28 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 3 1 -24
+p15
+aVMichael Ruffin CHI 04/18/2000 CHI vs. PHI L 28 5 2 2 100.0 0 0 - 1 2 50.0 1 5 6 3 2 1 1 5 -7
+p16
+aVFred Hoiberg CHI 04/18/2000 CHI vs. PHI L 26 10 4 7 57.1 1 4 25.0 1 1 100.0 0 7 7 4 2 0 1 5 6
+p17
+aVChris Carr CHI 04/18/2000 CHI vs. PHI L 22 7 3 8 37.5 0 2 0.0 1 2 50.0 1 0 1 2 0 0 0 2 -10
+p18
+aVElton Brand CHI 04/18/2000 CHI vs. PHI L 39 26 11 19 57.9 0 0 - 4 6 66.7 5 5 10 2 2 3 4 3 -5
+p19
+aVFred Hoiberg CHI 04/16/2000 CHI @ TOR L 35 2 1 7 14.3 0 2 0.0 0 0 - 1 3 4 3 2 0 1 0 -8
+p20
+aVChris Carr CHI 04/16/2000 CHI @ TOR L 29 15 6 13 46.2 0 3 0.0 3 3 100.0 0 7 7 4 2 1 3 2 17
+p21
+aVMatt Maloney CHI 04/16/2000 CHI @ TOR L 24 9 3 7 42.9 2 4 50.0 1 1 100.0 0 1 1 1 2 0 1 1 -9
+p22
+aVWill Perdue CHI 04/16/2000 CHI @ TOR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p23
+aVChris Anstey CHI 04/16/2000 CHI @ TOR L 11 8 3 4 75.0 0 0 - 2 3 66.7 3 0 3 0 0 1 1 5 4
+p24
+aVB.J. Armstrong CHI 04/16/2000 CHI @ TOR L 24 14 7 11 63.6 0 1 0.0 0 0 - 0 2 2 2 0 1 3 1 8
+p25
+aVMichael Ruffin CHI 04/16/2000 CHI @ TOR L 42 6 2 3 66.7 0 0 - 2 4 50.0 5 5 10 0 0 2 4 5 3
+p26
+aVElton Brand CHI 04/16/2000 CHI @ TOR L 41 24 9 17 52.9 0 0 - 6 8 75.0 2 7 9 3 0 1 3 3 -6
+p27
+aVCorey Benjamin CHI 04/16/2000 CHI @ TOR L 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 1 -2
+p28
+aVHersey Hawkins CHI 04/16/2000 CHI @ TOR L 27 4 1 8 12.5 0 3 0.0 2 2 100.0 2 2 4 0 1 0 1 3 -14
+p29
+aVMichael Ruffin CHI 04/14/2000 CHI @ BOS L 33 14 5 7 71.4 0 0 - 4 4 100.0 4 6 10 4 0 1 2 4 6
+p30
+aVChris Carr CHI 04/14/2000 CHI @ BOS L 21 13 5 10 50.0 1 2 50.0 2 3 66.7 0 3 3 1 1 0 5 3 -11
+p31
+aVElton Brand CHI 04/14/2000 CHI @ BOS L 39 18 5 12 41.7 0 0 - 8 10 80.0 3 6 9 4 1 2 2 3 -10
+p32
+aVChris Anstey CHI 04/14/2000 CHI @ BOS L 11 7 3 7 42.9 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 4 -18
+p33
+aVMatt Maloney CHI 04/14/2000 CHI @ BOS L 31 10 3 4 75.0 2 3 66.7 2 2 100.0 0 2 2 2 2 0 2 0 -9
+p34
+aVWill Perdue CHI 04/14/2000 CHI @ BOS L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 1 3 0 -8
+p35
+aVB.J. Armstrong CHI 04/14/2000 CHI @ BOS L 17 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -6
+p36
+aVCorey Benjamin CHI 04/14/2000 CHI @ BOS L 19 10 3 7 42.9 2 4 50.0 2 6 33.3 0 0 0 0 0 0 3 1 -7
+p37
+aVHersey Hawkins CHI 04/14/2000 CHI @ BOS L 29 13 3 7 42.9 0 2 0.0 7 8 87.5 1 3 4 1 1 0 1 3 2
+p38
+aVFred Hoiberg CHI 04/14/2000 CHI @ BOS L 32 4 0 5 0.0 0 2 0.0 4 4 100.0 0 5 5 0 3 0 1 3 -14
+p39
+aVB.J. Armstrong CHI 04/13/2000 CHI vs. WAS L 30 11 4 8 50.0 1 3 33.3 2 2 100.0 0 1 1 5 0 0 2 3 -7
+p40
+aVElton Brand CHI 04/13/2000 CHI vs. WAS L 43 44 16 21 76.2 0 0 - 12 15 80.0 7 5 12 2 0 3 1 2 -11
+p41
+aVChris Anstey CHI 04/13/2000 CHI vs. WAS L 10 5 2 6 33.3 0 0 - 1 1 100.0 0 5 5 1 0 0 1 3 3
+p42
+aVChris Carr CHI 04/13/2000 CHI vs. WAS L 29 14 6 14 42.9 0 3 0.0 2 2 100.0 2 3 5 2 1 0 3 3 -8
+p43
+aVMichael Ruffin CHI 04/13/2000 CHI vs. WAS L 24 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 0 0 1 1 5 -12
+p44
+aVMatt Maloney CHI 04/13/2000 CHI vs. WAS L 18 10 4 7 57.1 1 4 25.0 1 1 100.0 0 1 1 7 0 1 0 0 1
+p45
+aVHersey Hawkins CHI 04/13/2000 CHI vs. WAS L 37 8 4 13 30.8 0 3 0.0 0 0 - 0 1 1 2 4 0 2 2 -8
+p46
+aVWill Perdue CHI 04/13/2000 CHI vs. WAS L 19 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 3 8
+p47
+aVFred Hoiberg CHI 04/13/2000 CHI vs. WAS L 31 8 3 6 50.0 2 5 40.0 0 0 - 0 3 3 6 1 0 0 1 4
+p48
+aVCorey Benjamin CHI 04/11/2000 CHI vs. NJN W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p49
+aVHersey Hawkins CHI 04/11/2000 CHI vs. NJN W 33 10 3 6 50.0 3 4 75.0 1 2 50.0 1 3 4 1 1 1 2 4 1
+p50
+aVChris Carr CHI 04/11/2000 CHI vs. NJN W 36 17 7 10 70.0 1 2 50.0 2 3 66.7 1 7 8 3 0 1 4 2 6
+p51
+aVElton Brand CHI 04/11/2000 CHI vs. NJN W 40 22 7 17 41.2 0 0 - 8 10 80.0 5 10 15 7 0 1 6 2 13
+p52
+aVFred Hoiberg CHI 04/11/2000 CHI vs. NJN W 28 8 2 3 66.7 2 2 100.0 2 2 100.0 0 2 2 3 1 0 1 1 3
+p53
+aVB.J. Armstrong CHI 04/11/2000 CHI vs. NJN W 22 6 3 5 60.0 0 0 - 0 0 - 0 4 4 5 0 0 2 2 -7
+p54
+aVMichael Ruffin CHI 04/11/2000 CHI vs. NJN W 22 7 3 5 60.0 0 0 - 1 2 50.0 5 4 9 4 0 0 0 5 10
+p55
+aVMetta World Peace CHI 04/11/2000 CHI vs. NJN W 18 7 3 8 37.5 0 1 0.0 1 6 16.7 0 1 1 1 1 1 1 2 5
+p56
+aVMatt Maloney CHI 04/11/2000 CHI vs. NJN W 26 19 6 7 85.7 5 6 83.3 2 2 100.0 0 1 1 2 0 0 1 1 14
+p57
+aVChris Anstey CHI 04/11/2000 CHI vs. NJN W 11 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 2 1 0 0 2 -3
+p58
+aVChris Anstey CHI 04/08/2000 CHI vs. TOR L 16 2 1 5 20.0 0 0 - 0 0 - 0 6 6 1 0 1 3 3 -13
+p59
+aVMatt Maloney CHI 04/08/2000 CHI vs. TOR L 17 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 0 -9
+p60
+aVB.J. Armstrong CHI 04/08/2000 CHI vs. TOR L 22 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 5 0 0 2 0 -6
+p61
+aVMichael Ruffin CHI 04/08/2000 CHI vs. TOR L 23 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 0 0 2 5 -20
+p62
+aVMetta World Peace CHI 04/08/2000 CHI vs. TOR L 37 17 7 14 50.0 1 3 33.3 2 2 100.0 0 5 5 3 2 0 2 3 -7
+p63
+aVCorey Benjamin CHI 04/08/2000 CHI vs. TOR L 17 7 2 6 33.3 1 3 33.3 2 4 50.0 0 0 0 0 1 0 0 1 -1
+p64
+aVWill Perdue CHI 04/08/2000 CHI vs. TOR L 19 4 1 4 25.0 0 0 - 2 2 100.0 3 0 3 1 0 0 2 1 -3
+p65
+aVElton Brand CHI 04/08/2000 CHI vs. TOR L 38 16 4 12 33.3 0 0 - 8 12 66.7 2 9 11 3 0 1 1 0 -2
+p66
+aVChris Carr CHI 04/08/2000 CHI vs. TOR L 17 7 2 9 22.2 1 1 100.0 2 2 100.0 1 1 2 2 1 1 1 2 -19
+p67
+aVHersey Hawkins CHI 04/08/2000 CHI vs. TOR L 34 13 4 6 66.7 1 2 50.0 4 4 100.0 0 3 3 4 2 2 2 2 -15
+p68
+aVMatt Maloney CHI 04/06/2000 CHI vs. MIL W 32 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 0 0 6 2 11
+p69
+aVMetta World Peace CHI 04/06/2000 CHI vs. MIL W 37 17 6 16 37.5 3 4 75.0 2 7 28.6 1 3 4 2 1 0 2 4 7
+p70
+aVMichael Ruffin CHI 04/06/2000 CHI vs. MIL W 23 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -9
+p71
+aVCorey Benjamin CHI 04/06/2000 CHI vs. MIL W 12 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -5
+p72
+aVElton Brand CHI 04/06/2000 CHI vs. MIL W 37 20 8 15 53.3 0 0 - 4 5 80.0 4 9 13 3 0 2 1 1 9
+p73
+aVDickey Simpkins CHI 04/06/2000 CHI vs. MIL W 11 2 1 1 100.0 0 0 - 0 0 - 3 3 6 1 0 0 0 1 -1
+p74
+aVHersey Hawkins CHI 04/06/2000 CHI vs. MIL W 33 20 5 7 71.4 1 1 100.0 9 9 100.0 0 6 6 6 3 1 3 4 0
+p75
+aVChris Carr CHI 04/06/2000 CHI vs. MIL W 31 11 4 13 30.8 1 4 25.0 2 4 50.0 0 5 5 5 1 5 4 3 -4
+p76
+aVChris Anstey CHI 04/06/2000 CHI vs. MIL W 25 12 4 7 57.1 0 0 - 4 6 66.7 2 4 6 1 1 0 1 4 2
+p77
+aVHersey Hawkins CHI 04/04/2000 CHI @ MIL L 28 4 2 5 40.0 0 1 0.0 0 0 - 0 6 6 5 0 1 0 4 -9
+p78
+aVMichael Ruffin CHI 04/04/2000 CHI @ MIL L 17 3 1 4 25.0 0 0 - 1 2 50.0 4 0 4 0 0 3 0 2 -14
+p79
+aVMatt Maloney CHI 04/04/2000 CHI @ MIL L 29 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 2 1 0 1 1 -9
+p80
+aVDickey Simpkins CHI 04/04/2000 CHI @ MIL L 19 4 1 3 33.3 0 0 - 2 3 66.7 3 6 9 0 0 0 2 2 1
+p81
+aVRandy Brown CHI 04/04/2000 CHI @ MIL L 19 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 1 0 4 1 -10
+p82
+aVCorey Benjamin CHI 04/04/2000 CHI @ MIL L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 4 -8
+p83
+aVMetta World Peace CHI 04/04/2000 CHI @ MIL L 33 16 5 11 45.5 0 2 0.0 6 8 75.0 1 4 5 1 1 1 5 4 -17
+p84
+aVChris Carr CHI 04/04/2000 CHI @ MIL L 20 11 4 9 44.4 0 1 0.0 3 4 75.0 0 2 2 2 1 0 2 1 -4
+p85
+aVWill Perdue CHI 04/04/2000 CHI @ MIL L 12 3 0 2 0.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 2 9
+p86
+aVChris Anstey CHI 04/04/2000 CHI @ MIL L 15 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 1 0 0 3 3 -11
+p87
+aVElton Brand CHI 04/04/2000 CHI @ MIL L 33 18 6 17 35.3 0 0 - 6 8 75.0 3 5 8 0 1 0 1 1 -23
+p88
+aVMatt Maloney CHI 04/02/2000 CHI @ CLE W 22 10 3 6 50.0 2 4 50.0 2 4 50.0 0 2 2 0 0 0 2 2 13
+p89
+aVChris Carr CHI 04/02/2000 CHI @ CLE W 28 16 6 14 42.9 1 3 33.3 3 4 75.0 3 4 7 2 1 0 2 2 18
+p90
+aVDickey Simpkins CHI 04/02/2000 CHI @ CLE W 25 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 1 1 0 1 2 -4
+p91
+aVChris Anstey CHI 04/02/2000 CHI @ CLE W 11 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 1 0 1 1 4 1
+p92
+aVHersey Hawkins CHI 04/02/2000 CHI @ CLE W 30 2 0 2 0.0 0 2 0.0 2 2 100.0 1 4 5 1 1 0 0 1 3
+p93
+aVMichael Ruffin CHI 04/02/2000 CHI @ CLE W 18 5 2 3 66.7 0 0 - 1 2 50.0 5 4 9 0 0 1 1 4 8
+p94
+aVElton Brand CHI 04/02/2000 CHI @ CLE W 41 23 9 22 40.9 0 0 - 5 8 62.5 5 9 14 3 0 1 2 2 11
+p95
+aVCorey Benjamin CHI 04/02/2000 CHI @ CLE W 14 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 0 0 1 2 2 1
+p96
+aVMetta World Peace CHI 04/02/2000 CHI @ CLE W 25 18 6 10 60.0 1 1 100.0 5 6 83.3 0 2 2 2 1 0 4 2 -2
+p97
+aVRandy Brown CHI 04/02/2000 CHI @ CLE W 26 1 0 4 0.0 0 0 - 1 2 50.0 0 4 4 5 0 1 2 1 -4
+p98
+aVFred Hoiberg CHI 04/01/2000 CHI vs. CHH L 23 5 2 4 50.0 0 1 0.0 1 2 50.0 0 2 2 4 1 0 1 1 -9
+p99
+aVHersey Hawkins CHI 04/01/2000 CHI vs. CHH L 17 6 2 3 66.7 1 1 100.0 1 1 100.0 0 3 3 5 1 0 1 6 4
+p100
+aVMetta World Peace CHI 04/01/2000 CHI vs. CHH L 31 20 7 14 50.0 1 2 50.0 5 7 71.4 1 5 6 4 1 0 4 1 -1
+p101
+aVMatt Maloney CHI 04/01/2000 CHI vs. CHH L 19 2 1 7 14.3 0 2 0.0 0 0 - 1 0 1 2 0 0 0 0 2
+p102
+aVElton Brand CHI 04/01/2000 CHI vs. CHH L 41 24 10 17 58.8 0 0 - 4 6 66.7 1 7 8 0 0 5 5 4 -16
+p103
+aVRandy Brown CHI 04/01/2000 CHI vs. CHH L 28 11 5 9 55.6 0 0 - 1 2 50.0 0 3 3 3 2 0 1 0 -11
+p104
+aVMichael Ruffin CHI 04/01/2000 CHI vs. CHH L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 3 10
+p105
+aVChris Anstey CHI 04/01/2000 CHI vs. CHH L 19 6 2 3 66.7 0 0 - 2 3 66.7 0 5 5 5 2 0 1 2 16
+p106
+aVCorey Benjamin CHI 04/01/2000 CHI vs. CHH L 17 11 5 7 71.4 0 0 - 1 2 50.0 0 1 1 0 0 0 2 4 4
+p107
+aVChris Carr CHI 04/01/2000 CHI vs. CHH L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 2
+p108
+aVDickey Simpkins CHI 04/01/2000 CHI vs. CHH L 30 2 1 5 20.0 0 0 - 0 0 - 2 5 7 2 1 1 0 4 -16
+p109
+aVHersey Hawkins CHI 03/30/2000 CHI @ MIA L 27 8 3 5 60.0 1 2 50.0 1 1 100.0 1 0 1 2 3 0 2 2 -17
+p110
+aVMatt Maloney CHI 03/30/2000 CHI @ MIA L 20 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 2 0 0 1 2 -14
+p111
+aVCorey Benjamin CHI 03/30/2000 CHI @ MIA L 18 12 3 9 33.3 0 1 0.0 6 7 85.7 1 0 1 1 2 0 1 3 -9
+p112
+aVElton Brand CHI 03/30/2000 CHI @ MIA L 36 17 8 16 50.0 0 0 - 1 2 50.0 1 4 5 2 0 1 2 3 -18
+p113
+aVMetta World Peace CHI 03/30/2000 CHI @ MIA L 25 6 2 4 50.0 0 0 - 2 4 50.0 0 3 3 1 2 0 4 2 -12
+p114
+aVRandy Brown CHI 03/30/2000 CHI @ MIA L 28 7 3 4 75.0 0 0 - 1 2 50.0 0 5 5 4 0 0 3 2 -11
+p115
+aVFred Hoiberg CHI 03/30/2000 CHI @ MIA L 27 15 2 7 28.6 0 2 0.0 11 11 100.0 0 3 3 0 0 0 1 0 -12
+p116
+aVMichael Ruffin CHI 03/30/2000 CHI @ MIA L 11 2 1 1 100.0 0 0 - 0 1 0.0 1 1 2 0 2 0 0 4 -8
+p117
+aVWill Perdue CHI 03/30/2000 CHI @ MIA L 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 3 4 -7
+p118
+aVDickey Simpkins CHI 03/30/2000 CHI @ MIA L 21 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 1 0 0 4 4 -10
+p119
+aVChris Anstey CHI 03/30/2000 CHI @ MIA L 21 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 3 0 1 0 2 -7
+p120
+aVChris Anstey CHI 03/29/2000 CHI vs. CLE L 24 18 6 11 54.5 0 0 - 6 7 85.7 3 8 11 1 0 0 1 4 3
+p121
+aVMichael Ruffin CHI 03/29/2000 CHI vs. CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p122
+aVRandy Brown CHI 03/29/2000 CHI vs. CLE L 21 3 1 8 12.5 0 0 - 1 2 50.0 1 1 2 4 0 2 0 2 -7
+p123
+aVDickey Simpkins CHI 03/29/2000 CHI vs. CLE L 32 4 2 5 40.0 0 0 - 0 0 - 5 5 10 2 1 0 2 3 -9
+p124
+aVElton Brand CHI 03/29/2000 CHI vs. CLE L 39 27 13 21 61.9 0 1 0.0 1 2 50.0 4 4 8 0 0 1 3 3 -4
+p125
+aVMetta World Peace CHI 03/29/2000 CHI vs. CLE L 25 3 1 8 12.5 1 3 33.3 0 0 - 0 4 4 1 1 0 3 1 -3
+p126
+aVHersey Hawkins CHI 03/29/2000 CHI vs. CLE L 32 20 6 10 60.0 5 6 83.3 3 4 75.0 0 1 1 6 1 0 2 3 -10
+p127
+aVChris Carr CHI 03/29/2000 CHI vs. CLE L 19 6 2 8 25.0 0 2 0.0 2 2 100.0 0 2 2 2 1 2 0 0 -7
+p128
+aVMatt Maloney CHI 03/29/2000 CHI vs. CLE L 27 0 0 6 0.0 0 4 0.0 0 0 - 0 0 0 4 0 0 1 3 2
+p129
+aVFred Hoiberg CHI 03/29/2000 CHI vs. CLE L 21 0 0 4 0.0 0 3 0.0 0 1 0.0 0 5 5 2 1 0 0 2 10
+p130
+aVCorey Benjamin CHI 03/26/2000 CHI @ HOU L 21 6 3 9 33.3 0 1 0.0 0 1 0.0 0 1 1 0 1 1 0 3 -10
+p131
+aVMetta World Peace CHI 03/26/2000 CHI @ HOU L 33 22 9 15 60.0 1 2 50.0 3 3 100.0 1 7 8 2 2 0 3 0 -23
+p132
+aVWill Perdue CHI 03/26/2000 CHI @ HOU L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -13
+p133
+aVFred Hoiberg CHI 03/26/2000 CHI @ HOU L 26 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 3 0 0 3 4 -30
+p134
+aVChris Carr CHI 03/26/2000 CHI @ HOU L 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -18
+p135
+aVRandy Brown CHI 03/26/2000 CHI @ HOU L 18 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 2 2 0 3 4 -22
+p136
+aVHersey Hawkins CHI 03/26/2000 CHI @ HOU L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 3 -19
+p137
+aVChris Anstey CHI 03/26/2000 CHI @ HOU L 25 4 2 9 22.2 0 0 - 0 0 - 1 2 3 1 1 0 1 0 -12
+p138
+aVMatt Maloney CHI 03/26/2000 CHI @ HOU L 17 3 1 5 20.0 0 3 0.0 1 1 100.0 1 0 1 1 0 0 1 0 -23
+p139
+aVElton Brand CHI 03/26/2000 CHI @ HOU L 36 24 11 20 55.0 0 0 - 2 2 100.0 2 5 7 4 2 1 3 2 -37
+p140
+aVDickey Simpkins CHI 03/26/2000 CHI @ HOU L 21 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 1 1 4 -22
+p141
+aVB.J. Armstrong CHI 03/26/2000 CHI @ HOU L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 4
+p142
+aVChris Anstey CHI 03/24/2000 CHI vs. DEN W 20 4 2 9 22.2 0 0 - 0 0 - 2 5 7 2 1 0 0 5 -2
+p143
+aVRandy Brown CHI 03/24/2000 CHI vs. DEN W 31 3 0 5 0.0 0 0 - 3 4 75.0 0 0 0 9 3 0 1 1 -2
+p144
+aVHersey Hawkins CHI 03/24/2000 CHI vs. DEN W 28 6 1 6 16.7 0 1 0.0 4 4 100.0 0 3 3 2 3 0 0 2 -4
+p145
+aVMetta World Peace CHI 03/24/2000 CHI vs. DEN W 31 15 7 14 50.0 1 3 33.3 0 4 0.0 1 3 4 1 3 1 3 1 1
+p146
+aVWill Perdue CHI 03/24/2000 CHI vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -8
+p147
+aVMatt Maloney CHI 03/24/2000 CHI vs. DEN W 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 4
+p148
+aVFred Hoiberg CHI 03/24/2000 CHI vs. DEN W 29 11 3 9 33.3 2 3 66.7 3 3 100.0 0 5 5 3 3 0 2 3 7
+p149
+aVElton Brand CHI 03/24/2000 CHI vs. DEN W 40 26 10 24 41.7 0 0 - 6 9 66.7 5 10 15 0 0 1 1 5 7
+p150
+aVDickey Simpkins CHI 03/24/2000 CHI vs. DEN W 30 1 0 3 0.0 0 0 - 1 2 50.0 0 7 7 2 1 2 1 4 7
+p151
+aVChris Carr CHI 03/24/2000 CHI vs. DEN W 10 2 0 5 0.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 2 1 0
+p152
+aVCorey Benjamin CHI 03/22/2000 CHI @ NYK L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 1
+p153
+aVChris Carr CHI 03/22/2000 CHI @ NYK L 21 14 6 13 46.2 1 2 50.0 1 1 100.0 0 2 2 1 2 0 6 4 -10
+p154
+aVWill Perdue CHI 03/22/2000 CHI @ NYK L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 1
+p155
+aVB.J. Armstrong CHI 03/22/2000 CHI @ NYK L 13 5 2 6 33.3 0 3 0.0 1 1 100.0 0 0 0 0 0 0 1 0 -14
+p156
+aVMatt Maloney CHI 03/22/2000 CHI @ NYK L 35 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 7 2 0 1 0 3
+p157
+aVDickey Simpkins CHI 03/22/2000 CHI @ NYK L 21 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 -7
+p158
+aVMetta World Peace CHI 03/22/2000 CHI @ NYK L 32 0 0 5 0.0 0 2 0.0 0 0 - 0 4 4 2 2 0 4 2 -9
+p159
+aVElton Brand CHI 03/22/2000 CHI @ NYK L 41 22 8 16 50.0 0 0 - 6 9 66.7 3 10 13 3 3 1 2 1 -12
+p160
+aVChris Anstey CHI 03/22/2000 CHI @ NYK L 29 14 5 10 50.0 0 0 - 4 4 100.0 3 7 10 0 2 0 2 4 -4
+p161
+aVHersey Hawkins CHI 03/22/2000 CHI @ NYK L 37 12 4 9 44.4 2 4 50.0 2 2 100.0 0 4 4 3 1 0 1 4 -4
+p162
+aVCorey Benjamin CHI 03/20/2000 CHI vs. ORL L 18 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 2 1 0 0 3 8
+p163
+aVMetta World Peace CHI 03/20/2000 CHI vs. ORL L 24 10 5 8 62.5 0 1 0.0 0 1 0.0 0 3 3 2 2 1 3 4 -5
+p164
+aVHersey Hawkins CHI 03/20/2000 CHI vs. ORL L 37 8 4 7 57.1 0 3 0.0 0 0 - 2 3 5 7 3 1 1 5 -7
+p165
+aVChris Carr CHI 03/20/2000 CHI vs. ORL L 27 12 5 16 31.3 0 4 0.0 2 2 100.0 2 3 5 2 0 0 3 4 0
+p166
+aVChris Anstey CHI 03/20/2000 CHI vs. ORL L 33 12 4 11 36.4 0 0 - 4 4 100.0 3 13 16 6 1 0 4 6 -3
+p167
+aVRandy Brown CHI 03/20/2000 CHI vs. ORL L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p168
+aVB.J. Armstrong CHI 03/20/2000 CHI vs. ORL L 22 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 0 0 4 2 -4
+p169
+aVElton Brand CHI 03/20/2000 CHI vs. ORL L 45 18 7 19 36.8 0 0 - 4 9 44.4 6 11 17 2 0 5 1 2 -5
+p170
+aVMatt Maloney CHI 03/20/2000 CHI vs. ORL L 26 9 3 6 50.0 3 5 60.0 0 0 - 1 2 3 4 0 0 4 1 9
+p171
+aVDickey Simpkins CHI 03/20/2000 CHI vs. ORL L 28 7 2 3 66.7 0 0 - 3 4 75.0 3 9 12 2 0 1 2 2 2
+p172
+aVElton Brand CHI 03/18/2000 CHI @ WAS L 36 24 8 18 44.4 0 0 - 8 9 88.9 0 5 5 1 0 1 2 1 -13
+p173
+aVWill Perdue CHI 03/18/2000 CHI @ WAS L 18 4 2 2 100.0 0 0 - 0 0 - 2 5 7 1 0 2 1 2 2
+p174
+aVChris Anstey CHI 03/18/2000 CHI @ WAS L 14 7 2 4 50.0 0 0 - 3 3 100.0 1 2 3 1 0 1 0 2 2
+p175
+aVCorey Benjamin CHI 03/18/2000 CHI @ WAS L 6 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 1 0 0 2 2
+p176
+aVRandy Brown CHI 03/18/2000 CHI @ WAS L 32 8 2 6 33.3 0 0 - 4 5 80.0 0 3 3 0 2 1 2 2 -16
+p177
+aVMetta World Peace CHI 03/18/2000 CHI @ WAS L 34 14 4 9 44.4 2 3 66.7 4 6 66.7 0 3 3 0 1 0 3 4 -14
+p178
+aVHersey Hawkins CHI 03/18/2000 CHI @ WAS L 32 12 4 7 57.1 0 1 0.0 4 4 100.0 0 1 1 0 0 0 1 3 -10
+p179
+aVDickey Simpkins CHI 03/18/2000 CHI @ WAS L 27 1 0 3 0.0 0 0 - 1 2 50.0 0 10 10 1 0 2 4 2 -17
+p180
+aVChris Carr CHI 03/18/2000 CHI @ WAS L 25 12 5 10 50.0 0 0 - 2 2 100.0 2 3 5 1 0 0 3 2 -4
+p181
+aVB.J. Armstrong CHI 03/18/2000 CHI @ WAS L 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 4 1 0 2 0 3
+p182
+aVFred Hoiberg CHI 03/17/2000 CHI vs. GSW L 38 18 6 18 33.3 2 6 33.3 4 4 100.0 1 1 2 3 4 0 1 3 -4
+p183
+aVWill Perdue CHI 03/17/2000 CHI vs. GSW L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -1
+p184
+aVRandy Brown CHI 03/17/2000 CHI vs. GSW L 40 16 6 10 60.0 0 0 - 4 4 100.0 0 3 3 7 2 0 4 6 8
+p185
+aVB.J. Armstrong CHI 03/17/2000 CHI vs. GSW L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p186
+aVElton Brand CHI 03/17/2000 CHI vs. GSW L 50 26 10 19 52.6 0 0 - 6 12 50.0 2 8 10 2 0 2 5 6 -4
+p187
+aVDickey Simpkins CHI 03/17/2000 CHI vs. GSW L 39 2 1 2 50.0 0 0 - 0 0 - 2 10 12 0 0 0 3 6 -2
+p188
+aVHersey Hawkins CHI 03/17/2000 CHI vs. GSW L 32 9 2 8 25.0 0 4 0.0 5 6 83.3 3 1 4 4 3 1 1 5 7
+p189
+aVChris Anstey CHI 03/17/2000 CHI vs. GSW L 8 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 1 0 1 2 3 1
+p190
+aVMetta World Peace CHI 03/17/2000 CHI vs. GSW L 27 6 2 6 33.3 1 2 50.0 1 2 50.0 1 4 5 3 1 1 3 1 -9
+p191
+aVMatt Maloney CHI 03/17/2000 CHI vs. GSW L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 4 0 0 4 3 -6
+p192
+aVChris Carr CHI 03/17/2000 CHI vs. GSW L 27 11 5 12 41.7 1 4 25.0 0 0 - 0 3 3 3 0 0 3 2 0
+p193
+aVChris Anstey CHI 03/15/2000 CHI @ CHH L 21 9 4 8 50.0 0 0 - 1 2 50.0 4 5 9 2 0 0 1 3 11
+p194
+aVMatt Maloney CHI 03/15/2000 CHI @ CHH L 21 7 1 5 20.0 1 2 50.0 4 4 100.0 0 1 1 1 0 0 2 0 1
+p195
+aVElton Brand CHI 03/15/2000 CHI @ CHH L 41 12 4 21 19.0 0 0 - 4 4 100.0 4 8 12 1 2 2 1 2 -8
+p196
+aVChris Carr CHI 03/15/2000 CHI @ CHH L 28 18 8 13 61.5 1 2 50.0 1 1 100.0 3 6 9 2 1 0 4 2 12
+p197
+aVRandy Brown CHI 03/15/2000 CHI @ CHH L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -1
+p198
+aVDickey Simpkins CHI 03/15/2000 CHI @ CHH L 20 7 3 3 100.0 0 0 - 1 2 50.0 2 3 5 3 0 0 0 4 11
+p199
+aVMetta World Peace CHI 03/15/2000 CHI @ CHH L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 1 0 -15
+p200
+aVFred Hoiberg CHI 03/15/2000 CHI @ CHH L 21 0 0 6 0.0 0 2 0.0 0 0 - 0 3 3 6 1 0 3 4 -3
+p201
+aVHersey Hawkins CHI 03/15/2000 CHI @ CHH L 32 11 4 7 57.1 1 3 33.3 2 2 100.0 0 2 2 0 3 1 1 0 4
+p202
+aVWill Perdue CHI 03/15/2000 CHI @ CHH L 15 2 0 3 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 3 -20
+p203
+aVB.J. Armstrong CHI 03/15/2000 CHI @ CHH L 18 4 2 8 25.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p204
+aVDickey Simpkins CHI 03/13/2000 CHI vs. UTA L 25 0 0 1 0.0 0 0 - 0 0 - 2 5 7 4 0 0 3 5 3
+p205
+aVWill Perdue CHI 03/13/2000 CHI vs. UTA L 24 8 2 3 66.7 0 0 - 4 7 57.1 2 7 9 1 0 2 2 4 -9
+p206
+aVElton Brand CHI 03/13/2000 CHI vs. UTA L 40 26 9 16 56.3 0 0 - 8 9 88.9 2 10 12 2 1 4 8 5 -5
+p207
+aVHersey Hawkins CHI 03/13/2000 CHI vs. UTA L 31 12 4 8 50.0 1 2 50.0 3 3 100.0 0 1 1 3 3 0 3 3 0
+p208
+aVMatt Maloney CHI 03/13/2000 CHI vs. UTA L 12 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 2 1 0 0 1 -10
+p209
+aVRandy Brown CHI 03/13/2000 CHI vs. UTA L 38 8 3 12 25.0 0 0 - 2 4 50.0 0 6 6 5 0 0 3 5 0
+p210
+aVChris Carr CHI 03/13/2000 CHI vs. UTA L 26 14 4 12 33.3 0 2 0.0 6 6 100.0 2 3 5 0 0 0 4 4 -8
+p211
+aVFred Hoiberg CHI 03/13/2000 CHI vs. UTA L 37 7 2 10 20.0 1 4 25.0 2 2 100.0 1 1 2 4 2 0 1 3 -6
+p212
+aVMichael Ruffin CHI 03/13/2000 CHI vs. UTA L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p213
+aVWill Perdue CHI 03/10/2000 CHI @ BOS L 10 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 1 0
+p214
+aVMatt Maloney CHI 03/10/2000 CHI @ BOS L 16 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 4 0 0 2 2 -7
+p215
+aVChris Anstey CHI 03/10/2000 CHI @ BOS L 15 10 4 7 57.1 0 0 - 2 2 100.0 2 1 3 1 2 0 2 3 -5
+p216
+aVMichael Ruffin CHI 03/10/2000 CHI @ BOS L 16 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 2 1 1 2 3 -12
+p217
+aVCorey Benjamin CHI 03/10/2000 CHI @ BOS L 16 10 5 8 62.5 0 1 0.0 0 0 - 1 2 3 0 1 0 2 4 6
+p218
+aVFred Hoiberg CHI 03/10/2000 CHI @ BOS L 38 12 3 6 50.0 0 1 0.0 6 6 100.0 0 7 7 0 1 1 3 1 -25
+p219
+aVHersey Hawkins CHI 03/10/2000 CHI @ BOS L 22 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 2 4 -27
+p220
+aVChris Carr CHI 03/10/2000 CHI @ BOS L 19 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -14
+p221
+aVElton Brand CHI 03/10/2000 CHI @ BOS L 37 16 6 19 31.6 0 0 - 4 8 50.0 2 7 9 0 1 2 6 3 -27
+p222
+aVDickey Simpkins CHI 03/10/2000 CHI @ BOS L 19 3 0 2 0.0 0 0 - 3 4 75.0 2 3 5 2 0 1 2 3 -16
+p223
+aVRandy Brown CHI 03/10/2000 CHI @ BOS L 32 15 4 11 36.4 0 0 - 7 8 87.5 1 2 3 3 1 0 4 2 -23
+p224
+aVFred Hoiberg CHI 03/08/2000 CHI @ ORL L 18 8 2 5 40.0 2 3 66.7 2 2 100.0 0 3 3 0 0 0 3 4 -19
+p225
+aVChris Carr CHI 03/08/2000 CHI @ ORL L 24 13 5 14 35.7 1 3 33.3 2 2 100.0 1 0 1 1 0 0 3 0 -15
+p226
+aVMatt Maloney CHI 03/08/2000 CHI @ ORL L 33 6 2 9 22.2 1 3 33.3 1 2 50.0 0 3 3 2 0 0 1 0 -16
+p227
+aVWill Perdue CHI 03/08/2000 CHI @ ORL L 15 1 0 1 0.0 0 0 - 1 2 50.0 3 2 5 1 0 1 2 2 -15
+p228
+aVDickey Simpkins CHI 03/08/2000 CHI @ ORL L 20 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -21
+p229
+aVHersey Hawkins CHI 03/08/2000 CHI @ ORL L 21 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 2 2 0 3 3 -23
+p230
+aVElton Brand CHI 03/08/2000 CHI @ ORL L 27 11 3 8 37.5 0 0 - 5 8 62.5 5 6 11 0 1 1 5 1 -22
+p231
+aVRandy Brown CHI 03/08/2000 CHI @ ORL L 29 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 1 0 2 0 -30
+p232
+aVCorey Benjamin CHI 03/08/2000 CHI @ ORL L 19 6 2 7 28.6 0 1 0.0 2 2 100.0 2 2 4 2 0 1 2 4 -5
+p233
+aVChris Anstey CHI 03/08/2000 CHI @ ORL L 20 9 4 9 44.4 0 0 - 1 2 50.0 2 3 5 1 0 0 0 2 -12
+p234
+aVMichael Ruffin CHI 03/08/2000 CHI @ ORL L 14 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 -2
+p235
+aVChris Anstey CHI 03/07/2000 CHI vs. ATL W 10 6 2 7 28.6 0 0 - 2 2 100.0 2 2 4 0 0 0 0 0 2
+p236
+aVMichael Ruffin CHI 03/07/2000 CHI vs. ATL W 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 2 3
+p237
+aVFred Hoiberg CHI 03/07/2000 CHI vs. ATL W 36 14 3 8 37.5 2 4 50.0 6 7 85.7 0 3 3 4 4 0 0 0 19
+p238
+aVHersey Hawkins CHI 03/07/2000 CHI vs. ATL W 30 5 2 9 22.2 1 4 25.0 0 0 - 2 0 2 4 0 0 1 3 -3
+p239
+aVCorey Benjamin CHI 03/07/2000 CHI vs. ATL W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p240
+aVElton Brand CHI 03/07/2000 CHI vs. ATL W 38 31 12 23 52.2 0 0 - 7 8 87.5 2 6 8 1 1 2 0 2 5
+p241
+aVWill Perdue CHI 03/07/2000 CHI vs. ATL W 11 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 1 0 0 0 -3
+p242
+aVRandy Brown CHI 03/07/2000 CHI vs. ATL W 31 9 3 9 33.3 1 1 100.0 2 2 100.0 2 3 5 7 3 0 1 2 5
+p243
+aVChris Carr CHI 03/07/2000 CHI vs. ATL W 27 10 4 15 26.7 0 0 - 2 2 100.0 3 4 7 5 0 0 0 3 2
+p244
+aVDickey Simpkins CHI 03/07/2000 CHI vs. ATL W 33 3 1 6 16.7 0 0 - 1 2 50.0 2 7 9 0 0 1 0 5 7
+p245
+aVMatt Maloney CHI 03/07/2000 CHI vs. ATL W 17 7 3 9 33.3 1 5 20.0 0 0 - 0 0 0 3 0 0 1 0 2
+p246
+aVCorey Benjamin CHI 03/05/2000 CHI @ CHH L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 5
+p247
+aVRandy Brown CHI 03/05/2000 CHI @ CHH L 38 4 1 8 12.5 0 1 0.0 2 2 100.0 2 3 5 7 1 1 1 3 0
+p248
+aVWill Perdue CHI 03/05/2000 CHI @ CHH L 19 7 2 4 50.0 0 0 - 3 6 50.0 1 4 5 1 1 0 2 3 4
+p249
+aVFred Hoiberg CHI 03/05/2000 CHI @ CHH L 42 20 8 13 61.5 3 5 60.0 1 1 100.0 1 8 9 4 2 0 2 3 3
+p250
+aVElton Brand CHI 03/05/2000 CHI @ CHH L 40 24 9 18 50.0 0 0 - 6 7 85.7 3 8 11 3 0 1 3 5 -11
+p251
+aVHersey Hawkins CHI 03/05/2000 CHI @ CHH L 16 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 5 -7
+p252
+aVChris Carr CHI 03/05/2000 CHI @ CHH L 28 17 6 10 60.0 1 2 50.0 4 6 66.7 0 3 3 3 0 0 6 4 -17
+p253
+aVMatt Maloney CHI 03/05/2000 CHI @ CHH L 18 6 2 6 33.3 2 3 66.7 0 0 - 0 2 2 3 0 0 1 1 -2
+p254
+aVDickey Simpkins CHI 03/05/2000 CHI @ CHH L 28 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 0 0 2 4 -10
+p255
+aVChris Anstey CHI 03/05/2000 CHI @ CHH L 9 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 2 0 5
+p256
+aVRandy Brown CHI 03/04/2000 CHI vs. PHI L 22 0 0 4 0.0 0 0 - 0 0 - 0 1 1 4 1 0 3 4 -18
+p257
+aVMatt Maloney CHI 03/04/2000 CHI vs. PHI L 26 17 4 6 66.7 3 4 75.0 6 7 85.7 0 0 0 6 0 0 2 1 7
+p258
+aVWill Perdue CHI 03/04/2000 CHI vs. PHI L 14 8 3 4 75.0 0 0 - 2 3 66.7 1 2 3 1 0 4 0 2 2
+p259
+aVChris Carr CHI 03/04/2000 CHI vs. PHI L 13 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 0 0 2 1 -7
+p260
+aVDickey Simpkins CHI 03/04/2000 CHI vs. PHI L 15 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 3 4 -10
+p261
+aVFred Hoiberg CHI 03/04/2000 CHI vs. PHI L 18 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 3 0 0 1 1 0
+p262
+aVMichael Ruffin CHI 03/04/2000 CHI vs. PHI L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 0
+p263
+aVHersey Hawkins CHI 03/04/2000 CHI vs. PHI L 32 11 4 8 50.0 3 5 60.0 0 0 - 0 4 4 2 3 0 2 2 6
+p264
+aVMetta World Peace CHI 03/04/2000 CHI vs. PHI L 33 18 7 12 58.3 1 2 50.0 3 4 75.0 0 6 6 4 2 0 2 4 -21
+p265
+aVElton Brand CHI 03/04/2000 CHI vs. PHI L 39 13 5 14 35.7 0 0 - 3 8 37.5 6 2 8 2 0 4 3 3 -9
+p266
+aVChris Anstey CHI 03/04/2000 CHI vs. PHI L 21 6 3 10 30.0 0 0 - 0 0 - 2 4 6 1 0 1 1 1 -5
+p267
+aVMetta World Peace CHI 03/02/2000 CHI vs. CLE L 31 15 7 13 53.8 0 3 0.0 1 3 33.3 1 4 5 3 1 1 3 4 -13
+p268
+aVWill Perdue CHI 03/02/2000 CHI vs. CLE L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 2 0 3 8
+p269
+aVMatt Maloney CHI 03/02/2000 CHI vs. CLE L 16 7 2 4 50.0 0 2 0.0 3 3 100.0 1 3 4 1 1 0 1 0 7
+p270
+aVHersey Hawkins CHI 03/02/2000 CHI vs. CLE L 31 9 1 5 20.0 1 3 33.3 6 6 100.0 1 2 3 2 0 2 3 2 -13
+p271
+aVChris Carr CHI 03/02/2000 CHI vs. CLE L 28 11 3 12 25.0 0 2 0.0 5 6 83.3 2 1 3 3 1 0 1 1 5
+p272
+aVMichael Ruffin CHI 03/02/2000 CHI vs. CLE L 15 4 2 2 100.0 0 0 - 0 0 - 2 2 4 1 2 0 3 2 -6
+p273
+aVElton Brand CHI 03/02/2000 CHI vs. CLE L 43 30 11 19 57.9 0 0 - 8 10 80.0 6 5 11 2 1 0 4 2 -12
+p274
+aVRandy Brown CHI 03/02/2000 CHI vs. CLE L 37 12 5 11 45.5 0 0 - 2 2 100.0 1 5 6 6 2 0 3 2 -11
+p275
+aVChris Anstey CHI 03/02/2000 CHI vs. CLE L 10 8 3 3 100.0 0 0 - 2 3 66.7 0 1 1 1 0 0 1 1 8
+p276
+aVDickey Simpkins CHI 03/02/2000 CHI vs. CLE L 24 7 3 3 100.0 0 0 - 1 1 100.0 2 0 2 1 1 0 3 5 -6
+p277
+aVFred Hoiberg CHI 03/02/2000 CHI vs. CLE L 17 7 2 6 33.3 1 3 33.3 2 2 100.0 1 5 6 5 1 0 2 5 13
+p278
+aVWill Perdue CHI 02/29/2000 CHI @ TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p279
+aVRandy Brown CHI 02/29/2000 CHI @ TOR L 38 11 5 11 45.5 0 0 - 1 2 50.0 0 5 5 4 1 0 2 1 -8
+p280
+aVChris Anstey CHI 02/29/2000 CHI @ TOR L 14 10 5 6 83.3 0 0 - 0 0 - 1 0 1 1 1 2 1 2 -3
+p281
+aVHersey Hawkins CHI 02/29/2000 CHI @ TOR L 32 4 1 5 20.0 0 1 0.0 2 2 100.0 1 1 2 2 0 0 2 5 -15
+p282
+aVElton Brand CHI 02/29/2000 CHI @ TOR L 42 26 12 17 70.6 0 0 - 2 2 100.0 2 5 7 4 1 0 9 4 2
+p283
+aVDickey Simpkins CHI 02/29/2000 CHI @ TOR L 34 2 0 6 0.0 0 0 - 2 6 33.3 3 5 8 3 0 3 1 5 -12
+p284
+aVMetta World Peace CHI 02/29/2000 CHI @ TOR L 32 5 2 11 18.2 0 0 - 1 3 33.3 2 6 8 5 1 0 2 2 -6
+p285
+aVChris Carr CHI 02/29/2000 CHI @ TOR L 27 13 5 11 45.5 3 4 75.0 0 0 - 1 5 6 3 1 0 4 1 1
+p286
+aVMatt Maloney CHI 02/29/2000 CHI @ TOR L 16 9 4 6 66.7 1 1 100.0 0 0 - 1 0 1 3 2 0 1 0 7
+p287
+aVChris Carr CHI 02/27/2000 CHI @ DET L 31 14 6 11 54.5 2 4 50.0 0 0 - 1 4 5 4 0 0 1 2 9
+p288
+aVWill Perdue CHI 02/27/2000 CHI @ DET L 25 0 0 2 0.0 0 0 - 0 0 - 2 9 11 2 0 0 1 2 2
+p289
+aVRandy Brown CHI 02/27/2000 CHI @ DET L 30 11 5 11 45.5 0 0 - 1 1 100.0 0 3 3 2 2 0 2 5 3
+p290
+aVMichael Ruffin CHI 02/27/2000 CHI @ DET L 5 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 0 0 0 3 2
+p291
+aVDickey Simpkins CHI 02/27/2000 CHI @ DET L 15 2 1 5 20.0 0 0 - 0 0 - 4 2 6 1 0 0 1 1 -5
+p292
+aVHersey Hawkins CHI 02/27/2000 CHI @ DET L 33 12 4 9 44.4 2 4 50.0 2 2 100.0 0 4 4 1 1 1 4 5 1
+p293
+aVMetta World Peace CHI 02/27/2000 CHI @ DET L 18 14 4 6 66.7 3 3 100.0 3 4 75.0 0 0 0 2 1 4 3 5 -7
+p294
+aVFred Hoiberg CHI 02/27/2000 CHI @ DET L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -10
+p295
+aVChris Anstey CHI 02/27/2000 CHI @ DET L 10 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 2 5
+p296
+aVMatt Maloney CHI 02/27/2000 CHI @ DET L 18 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 2 0 0 2 0 -6
+p297
+aVElton Brand CHI 02/27/2000 CHI @ DET L 41 28 10 19 52.6 0 0 - 8 10 80.0 6 6 12 4 0 0 6 5 -9
+p298
+aVChris Carr CHI 02/25/2000 CHI vs. SAS L 25 10 4 11 36.4 0 0 - 2 2 100.0 1 2 3 2 0 1 0 1 1
+p299
+aVRandy Brown CHI 02/25/2000 CHI vs. SAS L 23 9 3 6 50.0 0 0 - 3 4 75.0 1 1 2 4 0 0 0 0 -17
+p300
+aVMichael Ruffin CHI 02/25/2000 CHI vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p301
+aVMetta World Peace CHI 02/25/2000 CHI vs. SAS L 21 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 2 0 1 1 1 -8
+p302
+aVFred Hoiberg CHI 02/25/2000 CHI vs. SAS L 27 18 7 10 70.0 3 4 75.0 1 1 100.0 1 2 3 3 0 0 1 3 -5
+p303
+aVJohn Starks CHI 02/25/2000 CHI vs. SAS L 12 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 5
+p304
+aVHersey Hawkins CHI 02/25/2000 CHI vs. SAS L 27 6 2 7 28.6 0 1 0.0 2 2 100.0 0 3 3 2 2 0 1 1 -18
+p305
+aVChris Anstey CHI 02/25/2000 CHI vs. SAS L 12 10 3 5 60.0 0 0 - 4 4 100.0 0 5 5 1 0 1 3 2 10
+p306
+aVWill Perdue CHI 02/25/2000 CHI vs. SAS L 17 5 2 4 50.0 0 0 - 1 4 25.0 3 2 5 1 0 1 1 2 -1
+p307
+aVDickey Simpkins CHI 02/25/2000 CHI vs. SAS L 30 9 4 6 66.7 0 0 - 1 3 33.3 4 7 11 0 2 0 4 1 -11
+p308
+aVMatt Maloney CHI 02/25/2000 CHI vs. SAS L 9 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 1 0 0 1 0 3
+p309
+aVElton Brand CHI 02/25/2000 CHI vs. SAS L 34 10 4 15 26.7 0 0 - 2 5 40.0 9 3 12 3 0 2 7 5 -27
+p310
+aVMetta World Peace CHI 02/24/2000 CHI @ IND L 28 6 3 10 30.0 0 2 0.0 0 0 - 0 3 3 3 1 0 1 1 2
+p311
+aVRandy Brown CHI 02/24/2000 CHI @ IND L 22 2 1 7 14.3 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -11
+p312
+aVHersey Hawkins CHI 02/24/2000 CHI @ IND L 33 6 2 6 33.3 2 6 33.3 0 0 - 0 2 2 2 0 0 1 4 -5
+p313
+aVMichael Ruffin CHI 02/24/2000 CHI @ IND L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 0 0 2 0 -6
+p314
+aVChris Carr CHI 02/24/2000 CHI @ IND L 21 8 4 11 36.4 0 3 0.0 0 0 - 0 1 1 0 0 0 2 2 -20
+p315
+aVFred Hoiberg CHI 02/24/2000 CHI @ IND L 15 4 1 5 20.0 1 4 25.0 1 1 100.0 0 2 2 2 1 0 1 1 -12
+p316
+aVDickey Simpkins CHI 02/24/2000 CHI @ IND L 27 5 1 1 100.0 0 0 - 3 3 100.0 2 5 7 4 0 0 1 3 3
+p317
+aVWill Perdue CHI 02/24/2000 CHI @ IND L 16 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 1 0 1 -11
+p318
+aVElton Brand CHI 02/24/2000 CHI @ IND L 39 38 18 23 78.3 0 0 - 2 2 100.0 4 3 7 3 1 3 2 2 -10
+p319
+aVJohn Starks CHI 02/24/2000 CHI @ IND L 30 11 5 13 38.5 1 3 33.3 0 0 - 0 4 4 3 3 0 0 3 -15
+p320
+aVMetta World Peace CHI 02/22/2000 CHI vs. VAN L 29 7 2 6 33.3 1 2 50.0 2 4 50.0 1 3 4 2 0 0 3 3 0
+p321
+aVMichael Ruffin CHI 02/22/2000 CHI vs. VAN L 10 1 0 1 0.0 0 0 - 1 4 25.0 3 3 6 1 1 1 1 1 7
+p322
+aVMatt Maloney CHI 02/22/2000 CHI vs. VAN L 17 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 3 2 0 2 1 -1
+p323
+aVHersey Hawkins CHI 02/22/2000 CHI vs. VAN L 24 5 2 8 25.0 0 2 0.0 1 2 50.0 1 2 3 4 0 0 2 1 0
+p324
+aVJohn Starks CHI 02/22/2000 CHI vs. VAN L 26 17 6 9 66.7 2 2 100.0 3 3 100.0 0 2 2 4 1 1 2 4 0
+p325
+aVRandy Brown CHI 02/22/2000 CHI vs. VAN L 31 13 6 9 66.7 0 0 - 1 3 33.3 1 5 6 4 1 0 0 2 -3
+p326
+aVChris Carr CHI 02/22/2000 CHI vs. VAN L 20 2 1 5 20.0 0 0 - 0 0 - 1 2 3 2 1 0 5 2 -4
+p327
+aVElton Brand CHI 02/22/2000 CHI vs. VAN L 40 25 9 20 45.0 0 0 - 7 10 70.0 2 7 9 2 0 4 2 5 -10
+p328
+aVWill Perdue CHI 02/22/2000 CHI vs. VAN L 29 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 0 3 -5
+p329
+aVDickey Simpkins CHI 02/22/2000 CHI vs. VAN L 14 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 5 -4
+p330
+aVJohn Starks CHI 02/19/2000 CHI vs. LAC W 14 2 0 6 0.0 0 4 0.0 2 2 100.0 0 3 3 2 1 0 0 2 6
+p331
+aVElton Brand CHI 02/19/2000 CHI vs. LAC W 37 13 6 23 26.1 0 0 - 1 2 50.0 10 8 18 2 0 1 3 2 -3
+p332
+aVHersey Hawkins CHI 02/19/2000 CHI vs. LAC W 29 14 4 8 50.0 3 4 75.0 3 6 50.0 0 0 0 1 0 0 2 2 -15
+p333
+aVRandy Brown CHI 02/19/2000 CHI vs. LAC W 12 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 4 0 0 1 0 3
+p334
+aVDickey Simpkins CHI 02/19/2000 CHI vs. LAC W 24 4 2 3 66.7 0 0 - 0 4 0.0 3 2 5 2 1 1 1 2 -5
+p335
+aVChris Carr CHI 02/19/2000 CHI vs. LAC W 28 19 4 14 28.6 2 2 100.0 9 10 90.0 0 3 3 2 2 0 0 3 4
+p336
+aVWill Perdue CHI 02/19/2000 CHI vs. LAC W 23 5 2 4 50.0 0 0 - 1 5 20.0 3 5 8 0 2 0 2 4 8
+p337
+aVMatt Maloney CHI 02/19/2000 CHI vs. LAC W 32 4 1 8 12.5 1 5 20.0 1 2 50.0 1 2 3 2 1 0 1 1 12
+p338
+aVMetta World Peace CHI 02/19/2000 CHI vs. LAC W 30 10 3 8 37.5 1 2 50.0 3 5 60.0 0 5 5 4 0 0 2 1 -6
+p339
+aVMichael Ruffin CHI 02/19/2000 CHI vs. LAC W 11 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 6
+p340
+aVRandy Brown CHI 02/17/2000 CHI vs. MIA W 30 2 0 7 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 -6
+p341
+aVWill Perdue CHI 02/17/2000 CHI vs. MIA W 15 2 1 2 50.0 0 0 - 0 0 - 6 1 7 2 0 0 2 4 7
+p342
+aVMatt Maloney CHI 02/17/2000 CHI vs. MIA W 21 8 2 6 33.3 2 5 40.0 2 2 100.0 0 0 0 3 0 0 0 0 11
+p343
+aVChris Anstey CHI 02/17/2000 CHI vs. MIA W 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 1 0 1 3
+p344
+aVMetta World Peace CHI 02/17/2000 CHI vs. MIA W 23 4 2 7 28.6 0 1 0.0 0 3 0.0 0 6 6 3 2 0 3 2 -6
+p345
+aVDickey Simpkins CHI 02/17/2000 CHI vs. MIA W 25 3 1 2 50.0 0 0 - 1 2 50.0 1 4 5 1 0 0 0 3 -3
+p346
+aVElton Brand CHI 02/17/2000 CHI vs. MIA W 42 26 9 20 45.0 0 0 - 8 8 100.0 4 6 10 5 1 3 2 1 9
+p347
+aVHersey Hawkins CHI 02/17/2000 CHI vs. MIA W 38 20 7 12 58.3 4 5 80.0 2 2 100.0 1 8 9 2 0 0 1 3 14
+p348
+aVChris Carr CHI 02/17/2000 CHI vs. MIA W 31 18 5 16 31.3 1 2 50.0 7 8 87.5 1 4 5 2 0 0 6 1 8
+p349
+aVMichael Ruffin CHI 02/17/2000 CHI vs. MIA W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -2
+p350
+aVDickey Simpkins CHI 02/15/2000 CHI vs. LAL L 27 10 4 5 80.0 0 0 - 2 2 100.0 2 4 6 1 0 0 4 6 -9
+p351
+aVMatt Maloney CHI 02/15/2000 CHI vs. LAL L 19 7 2 6 33.3 2 4 50.0 1 1 100.0 0 2 2 5 1 1 0 0 2
+p352
+aVRandy Brown CHI 02/15/2000 CHI vs. LAL L 29 10 5 10 50.0 0 0 - 0 0 - 0 2 2 3 1 0 0 2 -14
+p353
+aVElton Brand CHI 02/15/2000 CHI vs. LAL L 40 8 4 14 28.6 0 0 - 0 0 - 2 6 8 3 1 2 4 1 -16
+p354
+aVHersey Hawkins CHI 02/15/2000 CHI vs. LAL L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 -2
+p355
+aVChris Carr CHI 02/15/2000 CHI vs. LAL L 18 9 4 10 40.0 1 1 100.0 0 0 - 1 0 1 1 0 0 3 4 -6
+p356
+aVWill Perdue CHI 02/15/2000 CHI vs. LAL L 17 0 0 2 0.0 0 0 - 0 2 0.0 1 4 5 3 0 0 0 6 3
+p357
+aVMichael Ruffin CHI 02/15/2000 CHI vs. LAL L 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 1 0 0 1 -2
+p358
+aVToni Kukoc CHI 02/15/2000 CHI vs. LAL L 36 14 4 14 28.6 0 1 0.0 6 6 100.0 1 2 3 1 0 0 1 3 -12
+p359
+aVMetta World Peace CHI 02/15/2000 CHI vs. LAL L 33 16 5 12 41.7 2 2 100.0 4 4 100.0 1 3 4 4 1 2 2 0 -4
+p360
+aVMatt Maloney CHI 02/09/2000 CHI @ UTA L 22 10 3 7 42.9 2 4 50.0 2 2 100.0 0 2 2 2 0 0 0 0 -21
+p361
+aVMetta World Peace CHI 02/09/2000 CHI @ UTA L 23 11 3 6 50.0 1 3 33.3 4 6 66.7 0 2 2 3 2 0 1 1 -20
+p362
+aVMichael Ruffin CHI 02/09/2000 CHI @ UTA L 16 2 0 0 - 0 0 - 2 4 50.0 2 1 3 0 0 1 1 4 -1
+p363
+aVChris Anstey CHI 02/09/2000 CHI @ UTA L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -8
+p364
+aVChris Carr CHI 02/09/2000 CHI @ UTA L 19 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 1 2 0 4 1 -11
+p365
+aVCorey Benjamin CHI 02/09/2000 CHI @ UTA L 12 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 2 0 1 1 1 -6
+p366
+aVDickey Simpkins CHI 02/09/2000 CHI @ UTA L 15 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -5
+p367
+aVHersey Hawkins CHI 02/09/2000 CHI @ UTA L 26 9 4 9 44.4 1 4 25.0 0 0 - 1 4 5 3 1 0 3 2 -15
+p368
+aVElton Brand CHI 02/09/2000 CHI @ UTA L 21 13 4 6 66.7 0 0 - 5 10 50.0 0 3 3 1 2 1 1 2 -17
+p369
+aVToni Kukoc CHI 02/09/2000 CHI @ UTA L 29 9 3 11 27.3 0 1 0.0 3 3 100.0 1 2 3 5 2 0 3 1 -20
+p370
+aVWill Perdue CHI 02/09/2000 CHI @ UTA L 12 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -6
+p371
+aVRandy Brown CHI 02/09/2000 CHI @ UTA L 34 12 5 9 55.6 0 0 - 2 2 100.0 0 1 1 6 1 1 1 2 -5
+p372
+aVWill Perdue CHI 02/08/2000 CHI @ SAC L 14 4 1 3 33.3 0 0 - 2 4 50.0 0 2 2 3 0 0 3 4 -11
+p373
+aVMetta World Peace CHI 02/08/2000 CHI @ SAC L 22 6 3 10 30.0 0 3 0.0 0 0 - 1 2 3 0 2 0 4 1 -27
+p374
+aVDickey Simpkins CHI 02/08/2000 CHI @ SAC L 22 0 0 2 0.0 0 0 - 0 0 - 1 2 3 3 1 0 4 2 -19
+p375
+aVRandy Brown CHI 02/08/2000 CHI @ SAC L 26 4 2 4 50.0 0 0 - 0 0 - 1 2 3 6 0 0 0 0 -17
+p376
+aVHersey Hawkins CHI 02/08/2000 CHI @ SAC L 21 9 3 7 42.9 3 3 100.0 0 0 - 0 2 2 1 0 0 0 1 -11
+p377
+aVChris Anstey CHI 02/08/2000 CHI @ SAC L 12 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 1 4 0 -9
+p378
+aVMatt Maloney CHI 02/08/2000 CHI @ SAC L 22 6 2 8 25.0 2 4 50.0 0 0 - 0 1 1 1 1 1 1 0 -22
+p379
+aVElton Brand CHI 02/08/2000 CHI @ SAC L 31 25 10 13 76.9 0 0 - 5 7 71.4 3 7 10 0 1 0 3 3 -27
+p380
+aVMichael Ruffin CHI 02/08/2000 CHI @ SAC L 17 2 0 2 0.0 0 0 - 2 2 100.0 2 3 5 0 0 1 0 4 -12
+p381
+aVChris Carr CHI 02/08/2000 CHI @ SAC L 17 1 0 4 0.0 0 0 - 1 2 50.0 0 5 5 2 0 0 2 0 -18
+p382
+aVToni Kukoc CHI 02/08/2000 CHI @ SAC L 27 12 5 12 41.7 1 3 33.3 1 2 50.0 1 3 4 2 0 0 0 0 -18
+p383
+aVCorey Benjamin CHI 02/08/2000 CHI @ SAC L 8 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 3 0 -4
+p384
+aVHersey Hawkins CHI 02/06/2000 CHI @ LAC W 20 10 3 4 75.0 2 2 100.0 2 2 100.0 0 4 4 0 1 0 0 3 7
+p385
+aVMichael Ruffin CHI 02/06/2000 CHI @ LAC W 15 6 3 4 75.0 0 0 - 0 0 - 4 0 4 0 0 0 1 3 4
+p386
+aVMatt Maloney CHI 02/06/2000 CHI @ LAC W 14 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 1 0 0 1 1
+p387
+aVToni Kukoc CHI 02/06/2000 CHI @ LAC W 38 20 7 16 43.8 0 3 0.0 6 8 75.0 2 5 7 10 2 1 6 2 6
+p388
+aVRandy Brown CHI 02/06/2000 CHI @ LAC W 34 7 2 7 28.6 0 0 - 3 4 75.0 0 2 2 2 1 0 1 1 9
+p389
+aVDickey Simpkins CHI 02/06/2000 CHI @ LAC W 26 4 1 2 50.0 0 0 - 2 3 66.7 0 4 4 2 0 0 4 3 2
+p390
+aVMetta World Peace CHI 02/06/2000 CHI @ LAC W 33 16 6 10 60.0 3 5 60.0 1 2 50.0 1 1 2 2 1 1 1 0 14
+p391
+aVWill Perdue CHI 02/06/2000 CHI @ LAC W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 3
+p392
+aVChris Carr CHI 02/06/2000 CHI @ LAC W 13 10 5 8 62.5 0 0 - 0 0 - 1 2 3 0 1 0 1 2 -2
+p393
+aVElton Brand CHI 02/06/2000 CHI @ LAC W 33 21 8 11 72.7 0 0 - 5 5 100.0 5 3 8 1 0 1 4 4 6
+p394
+aVMatt Maloney CHI 02/04/2000 CHI @ VAN L 21 0 0 7 0.0 0 3 0.0 0 0 - 1 1 2 2 1 0 2 1 -3
+p395
+aVMichael Ruffin CHI 02/04/2000 CHI @ VAN L 15 3 1 2 50.0 0 0 - 1 4 25.0 2 2 4 0 0 0 2 3 -8
+p396
+aVToni Kukoc CHI 02/04/2000 CHI @ VAN L 34 27 11 19 57.9 1 3 33.3 4 5 80.0 1 3 4 1 0 0 4 3 -27
+p397
+aVCorey Benjamin CHI 02/04/2000 CHI @ VAN L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 1 0 0
+p398
+aVRandy Brown CHI 02/04/2000 CHI @ VAN L 27 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 0 0 2 2 -22
+p399
+aVHersey Hawkins CHI 02/04/2000 CHI @ VAN L 13 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 -14
+p400
+aVWill Perdue CHI 02/04/2000 CHI @ VAN L 24 0 0 2 0.0 0 0 - 0 0 - 3 5 8 1 0 0 1 1 0
+p401
+aVChris Anstey CHI 02/04/2000 CHI @ VAN L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 0 -3
+p402
+aVMetta World Peace CHI 02/04/2000 CHI @ VAN L 29 3 0 5 0.0 0 2 0.0 3 4 75.0 0 2 2 2 0 1 3 0 -18
+p403
+aVElton Brand CHI 02/04/2000 CHI @ VAN L 36 22 8 17 47.1 0 1 0.0 6 6 100.0 1 3 4 1 1 2 1 4 -21
+p404
+aVChris Carr CHI 02/04/2000 CHI @ VAN L 16 2 0 4 0.0 0 2 0.0 2 2 100.0 0 3 3 0 0 0 1 4 -9
+p405
+aVMatt Maloney CHI 02/02/2000 CHI @ SEA W 19 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 2 0 0 2 0 -3
+p406
+aVChris Carr CHI 02/02/2000 CHI @ SEA W 12 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 0 0 0 3 9
+p407
+aVMichael Ruffin CHI 02/02/2000 CHI @ SEA W 10 0 0 0 - 0 0 - 0 2 0.0 2 0 2 0 0 0 1 1 7
+p408
+aVMetta World Peace CHI 02/02/2000 CHI @ SEA W 41 24 6 17 35.3 0 6 0.0 12 13 92.3 3 3 6 5 5 0 0 0 6
+p409
+aVRandy Brown CHI 02/02/2000 CHI @ SEA W 29 7 3 7 42.9 0 0 - 1 3 33.3 0 2 2 6 0 1 1 3 10
+p410
+aVDickey Simpkins CHI 02/02/2000 CHI @ SEA W 41 6 3 6 50.0 0 0 - 0 0 - 4 6 10 2 2 0 2 4 -2
+p411
+aVHersey Hawkins CHI 02/02/2000 CHI @ SEA W 14 4 1 3 33.3 0 2 0.0 2 2 100.0 1 1 2 0 0 0 0 1 12
+p412
+aVToni Kukoc CHI 02/02/2000 CHI @ SEA W 41 31 13 21 61.9 2 6 33.3 3 4 75.0 3 5 8 2 0 1 4 3 -1
+p413
+aVElton Brand CHI 02/02/2000 CHI @ SEA W 34 10 5 10 50.0 0 0 - 0 0 - 3 2 5 3 0 0 5 5 -3
+p414
+aVMatt Maloney CHI 02/01/2000 CHI @ POR L 19 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 3 1 0 0 0 -2
+p415
+aVRandy Brown CHI 02/01/2000 CHI @ POR L 29 6 3 9 33.3 0 0 - 0 0 - 0 1 1 2 4 0 2 2 -9
+p416
+aVToni Kukoc CHI 02/01/2000 CHI @ POR L 41 12 4 15 26.7 1 2 50.0 3 3 100.0 2 3 5 4 3 1 0 1 -12
+p417
+aVMetta World Peace CHI 02/01/2000 CHI @ POR L 24 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 1 3 0 2 4 -8
+p418
+aVWill Perdue CHI 02/01/2000 CHI @ POR L 12 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 3 1
+p419
+aVElton Brand CHI 02/01/2000 CHI @ POR L 38 22 9 16 56.3 0 0 - 4 7 57.1 6 2 8 0 1 1 0 3 -12
+p420
+aVHersey Hawkins CHI 02/01/2000 CHI @ POR L 22 8 2 6 33.3 2 4 50.0 2 2 100.0 0 3 3 3 2 0 3 1 3
+p421
+aVChris Carr CHI 02/01/2000 CHI @ POR L 22 9 4 10 40.0 0 2 0.0 1 1 100.0 0 2 2 1 1 0 3 3 -4
+p422
+aVDickey Simpkins CHI 02/01/2000 CHI @ POR L 19 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 1 -12
+p423
+aVMichael Ruffin CHI 02/01/2000 CHI @ POR L 9 2 1 5 20.0 0 0 - 0 0 - 4 1 5 0 0 1 0 0 0
+p424
+aVChris Anstey CHI 02/01/2000 CHI @ POR L 5 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 0
+p425
+aVHersey Hawkins CHI 01/29/2000 CHI vs. TOR L 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 1
+p426
+aVElton Brand CHI 01/29/2000 CHI vs. TOR L 36 16 7 17 41.2 0 0 - 2 2 100.0 6 3 9 6 1 0 5 3 -28
+p427
+aVChris Carr CHI 01/29/2000 CHI vs. TOR L 25 8 2 7 28.6 0 3 0.0 4 4 100.0 0 3 3 2 0 0 3 3 -12
+p428
+aVDickey Simpkins CHI 01/29/2000 CHI vs. TOR L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -10
+p429
+aVChris Anstey CHI 01/29/2000 CHI vs. TOR L 9 5 2 4 50.0 0 0 - 1 1 100.0 3 2 5 0 0 0 1 5 -5
+p430
+aVMatt Maloney CHI 01/29/2000 CHI vs. TOR L 22 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 3 1 0 1 0 -9
+p431
+aVRandy Brown CHI 01/29/2000 CHI vs. TOR L 20 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 -5
+p432
+aVToni Kukoc CHI 01/29/2000 CHI vs. TOR L 27 13 6 11 54.5 1 3 33.3 0 0 - 1 2 3 5 2 0 2 0 -18
+p433
+aVMichael Ruffin CHI 01/29/2000 CHI vs. TOR L 15 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 0 0 1 2 11
+p434
+aVCorey Benjamin CHI 01/29/2000 CHI vs. TOR L 11 11 5 7 71.4 1 1 100.0 0 0 - 0 0 0 1 0 1 1 2 9
+p435
+aVWill Perdue CHI 01/29/2000 CHI vs. TOR L 23 7 3 6 50.0 0 0 - 1 2 50.0 3 4 7 3 0 0 2 3 0
+p436
+aVMetta World Peace CHI 01/29/2000 CHI vs. TOR L 29 18 6 12 50.0 1 3 33.3 5 8 62.5 0 2 2 2 2 0 3 2 -19
+p437
+aVToni Kukoc CHI 01/28/2000 CHI vs. SAC L 41 10 5 16 31.3 0 3 0.0 0 1 0.0 2 5 7 5 3 1 1 4 -22
+p438
+aVMatt Maloney CHI 01/28/2000 CHI vs. SAC L 20 10 4 9 44.4 1 4 25.0 1 1 100.0 0 2 2 2 0 0 1 1 -7
+p439
+aVMichael Ruffin CHI 01/28/2000 CHI vs. SAC L 8 0 0 1 0.0 0 0 - 0 2 0.0 2 2 4 2 0 0 2 0 -1
+p440
+aVChris Carr CHI 01/28/2000 CHI vs. SAC L 29 16 6 11 54.5 2 4 50.0 2 2 100.0 1 2 3 1 0 0 2 4 -10
+p441
+aVElton Brand CHI 01/28/2000 CHI vs. SAC L 41 30 11 20 55.0 0 0 - 8 12 66.7 9 9 18 3 1 3 5 4 -11
+p442
+aVHersey Hawkins CHI 01/28/2000 CHI vs. SAC L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -6
+p443
+aVRandy Brown CHI 01/28/2000 CHI vs. SAC L 28 4 2 5 40.0 0 0 - 0 0 - 0 1 1 6 2 0 3 1 -5
+p444
+aVChris Anstey CHI 01/28/2000 CHI vs. SAC L 11 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 2 2 -2
+p445
+aVMetta World Peace CHI 01/28/2000 CHI vs. SAC L 36 15 6 13 46.2 1 2 50.0 2 2 100.0 1 3 4 2 4 1 2 1 2
+p446
+aVDickey Simpkins CHI 01/28/2000 CHI vs. SAC L 22 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 1 1 4 1 2
+p447
+aVDickey Simpkins CHI 01/25/2000 CHI @ ATL L 33 5 1 6 16.7 0 0 - 3 4 75.0 5 6 11 1 0 0 3 4 -1
+p448
+aVElton Brand CHI 01/25/2000 CHI @ ATL L 38 22 9 20 45.0 0 0 - 4 5 80.0 8 2 10 2 0 0 4 6 0
+p449
+aVToni Kukoc CHI 01/25/2000 CHI @ ATL L 34 14 4 20 20.0 0 3 0.0 6 8 75.0 2 8 10 5 0 0 1 3 -5
+p450
+aVChris Carr CHI 01/25/2000 CHI @ ATL L 24 13 5 7 71.4 2 3 66.7 1 2 50.0 0 1 1 1 0 0 0 3 -7
+p451
+aVMetta World Peace CHI 01/25/2000 CHI @ ATL L 33 17 7 14 50.0 1 2 50.0 2 4 50.0 1 4 5 1 4 2 1 4 -2
+p452
+aVChris Anstey CHI 01/25/2000 CHI @ ATL L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 2 -9
+p453
+aVMatt Maloney CHI 01/25/2000 CHI @ ATL L 26 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 2 0 0 1 0 -4
+p454
+aVRandy Brown CHI 01/25/2000 CHI @ ATL L 22 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 2 0 0 3 -3
+p455
+aVMichael Ruffin CHI 01/25/2000 CHI @ ATL L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p456
+aVHersey Hawkins CHI 01/25/2000 CHI @ ATL L 13 2 0 3 0.0 0 2 0.0 2 2 100.0 0 3 3 2 1 1 0 1 -5
+p457
+aVDickey Simpkins CHI 01/24/2000 CHI vs. IND W 19 2 0 2 0.0 0 0 - 2 4 50.0 3 1 4 1 0 0 2 2 -6
+p458
+aVMetta World Peace CHI 01/24/2000 CHI vs. IND W 41 17 5 11 45.5 0 2 0.0 7 8 87.5 1 2 3 7 1 3 4 4 6
+p459
+aVChris Anstey CHI 01/24/2000 CHI vs. IND W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -6
+p460
+aVMatt Maloney CHI 01/24/2000 CHI vs. IND W 18 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 2 -6
+p461
+aVChris Carr CHI 01/24/2000 CHI vs. IND W 24 15 5 8 62.5 1 2 50.0 4 4 100.0 1 3 4 1 2 0 0 0 10
+p462
+aVToni Kukoc CHI 01/24/2000 CHI vs. IND W 39 15 6 18 33.3 0 2 0.0 3 11 27.3 1 6 7 6 4 1 4 3 6
+p463
+aVHersey Hawkins CHI 01/24/2000 CHI vs. IND W 13 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 0 0 0 2 1 -5
+p464
+aVElton Brand CHI 01/24/2000 CHI vs. IND W 43 28 14 21 66.7 0 0 - 0 3 0.0 4 4 8 0 0 2 0 4 -3
+p465
+aVRandy Brown CHI 01/24/2000 CHI vs. IND W 36 4 2 8 25.0 0 0 - 0 0 - 1 6 7 5 1 0 0 3 9
+p466
+aVMetta World Peace CHI 01/22/2000 CHI vs. DET W 39 16 5 11 45.5 0 3 0.0 6 7 85.7 1 4 5 5 1 2 4 4 12
+p467
+aVToni Kukoc CHI 01/22/2000 CHI vs. DET W 39 22 5 11 45.5 1 3 33.3 11 14 78.6 0 5 5 7 3 1 5 3 14
+p468
+aVElton Brand CHI 01/22/2000 CHI vs. DET W 38 20 7 13 53.8 0 0 - 6 12 50.0 4 10 14 1 2 1 2 3 6
+p469
+aVRandy Brown CHI 01/22/2000 CHI vs. DET W 13 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -14
+p470
+aVMatt Maloney CHI 01/22/2000 CHI vs. DET W 42 12 4 10 40.0 4 9 44.4 0 0 - 1 2 3 5 0 0 1 1 15
+p471
+aVChris Carr CHI 01/22/2000 CHI vs. DET W 25 15 5 10 50.0 3 3 100.0 2 2 100.0 2 6 8 2 1 1 3 3 10
+p472
+aVDickey Simpkins CHI 01/22/2000 CHI vs. DET W 25 9 3 4 75.0 0 0 - 3 5 60.0 5 9 14 2 0 0 2 6 9
+p473
+aVChris Anstey CHI 01/22/2000 CHI vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -1
+p474
+aVHersey Hawkins CHI 01/22/2000 CHI vs. DET W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -12
+p475
+aVMichael Ruffin CHI 01/22/2000 CHI vs. DET W 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -9
+p476
+aVMichael Ruffin CHI 01/19/2000 CHI vs. CHH L 13 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 1 1 0 3 -8
+p477
+aVCorey Benjamin CHI 01/19/2000 CHI vs. CHH L 6 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 1 0 1 0 1 -11
+p478
+aVChris Carr CHI 01/19/2000 CHI vs. CHH L 21 4 2 10 20.0 0 0 - 0 0 - 1 0 1 0 2 0 1 4 -11
+p479
+aVToni Kukoc CHI 01/19/2000 CHI vs. CHH L 35 12 3 14 21.4 0 2 0.0 6 8 75.0 1 5 6 5 3 0 2 3 1
+p480
+aVDickey Simpkins CHI 01/19/2000 CHI vs. CHH L 24 4 2 4 50.0 0 0 - 0 2 0.0 1 4 5 1 2 0 2 1 1
+p481
+aVElton Brand CHI 01/19/2000 CHI vs. CHH L 38 24 11 21 52.4 0 0 - 2 4 50.0 5 6 11 1 0 3 1 4 -5
+p482
+aVRandy Brown CHI 01/19/2000 CHI vs. CHH L 21 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 3 2 0 1 2 -11
+p483
+aVChris Anstey CHI 01/19/2000 CHI vs. CHH L 11 4 0 0 - 0 0 - 4 6 66.7 0 3 3 1 1 1 4 5 -6
+p484
+aVMetta World Peace CHI 01/19/2000 CHI vs. CHH L 36 19 8 14 57.1 2 3 66.7 1 2 50.0 0 1 1 3 5 1 4 3 4
+p485
+aVMatt Maloney CHI 01/19/2000 CHI vs. CHH L 32 9 3 7 42.9 3 5 60.0 0 0 - 0 1 1 3 3 0 1 0 3
+p486
+aVWill Perdue CHI 01/19/2000 CHI vs. CHH L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p487
+aVChris Anstey CHI 01/18/2000 CHI @ MIA W 16 7 2 5 40.0 0 0 - 3 4 75.0 1 2 3 1 1 0 0 4 15
+p488
+aVMichael Ruffin CHI 01/18/2000 CHI @ MIA W 13 0 0 2 0.0 0 0 - 0 2 0.0 0 4 4 1 1 1 2 2 -3
+p489
+aVWill Perdue CHI 01/18/2000 CHI @ MIA W 13 0 0 1 0.0 0 0 - 0 2 0.0 3 2 5 0 0 1 2 3 -16
+p490
+aVMatt Maloney CHI 01/18/2000 CHI @ MIA W 34 6 3 9 33.3 0 2 0.0 0 0 - 0 1 1 3 1 0 0 0 9
+p491
+aVMetta World Peace CHI 01/18/2000 CHI @ MIA W 40 13 5 7 71.4 0 1 0.0 3 4 75.0 0 4 4 3 3 0 0 3 15
+p492
+aVElton Brand CHI 01/18/2000 CHI @ MIA W 45 24 10 20 50.0 0 0 - 4 8 50.0 7 6 13 1 1 3 2 5 4
+p493
+aVDickey Simpkins CHI 01/18/2000 CHI @ MIA W 19 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 1 0 1 1 3 8
+p494
+aVRandy Brown CHI 01/18/2000 CHI @ MIA W 22 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 2 2 -4
+p495
+aVToni Kukoc CHI 01/18/2000 CHI @ MIA W 44 23 7 20 35.0 2 3 66.7 7 8 87.5 2 4 6 4 3 1 5 1 3
+p496
+aVChris Carr CHI 01/18/2000 CHI @ MIA W 18 14 6 11 54.5 1 2 50.0 1 1 100.0 1 2 3 0 1 1 3 0 -6
+p497
+aVDickey Simpkins CHI 01/15/2000 CHI vs. HOU L 32 0 0 4 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 5 -8
+p498
+aVDedric Willoughby CHI 01/15/2000 CHI vs. HOU L 14 4 1 2 50.0 0 1 0.0 2 3 66.7 0 0 0 3 0 0 0 2 -7
+p499
+aVMichael Ruffin CHI 01/15/2000 CHI vs. HOU L 9 6 3 4 75.0 0 0 - 0 1 0.0 4 1 5 1 0 1 0 1 0
+p500
+aVMetta World Peace CHI 01/15/2000 CHI vs. HOU L 38 12 3 12 25.0 1 4 25.0 5 6 83.3 2 5 7 3 1 1 1 2 10
+p501
+aVWill Perdue CHI 01/15/2000 CHI vs. HOU L 9 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 0
+p502
+aVElton Brand CHI 01/15/2000 CHI vs. HOU L 41 15 6 14 42.9 0 0 - 3 4 75.0 3 8 11 1 1 1 3 4 -6
+p503
+aVMatt Maloney CHI 01/15/2000 CHI vs. HOU L 34 14 6 14 42.9 2 2 100.0 0 0 - 0 0 0 3 1 0 1 0 4
+p504
+aVChris Anstey CHI 01/15/2000 CHI vs. HOU L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 3
+p505
+aVToni Kukoc CHI 01/15/2000 CHI vs. HOU L 43 29 9 18 50.0 1 4 25.0 10 13 76.9 3 3 6 7 2 1 2 3 -2
+p506
+aVChris Carr CHI 01/15/2000 CHI vs. HOU L 14 8 4 5 80.0 0 0 - 0 0 - 0 0 0 1 1 1 2 0 -9
+p507
+aVMatt Maloney CHI 01/14/2000 CHI vs. ATL L 36 3 1 9 11.1 1 7 14.3 0 0 - 0 2 2 5 1 0 1 3 1
+p508
+aVWill Perdue CHI 01/14/2000 CHI vs. ATL L 17 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 0 0 0 3 -12
+p509
+aVChris Anstey CHI 01/14/2000 CHI vs. ATL L 18 19 7 11 63.6 0 0 - 5 5 100.0 2 3 5 0 0 1 1 5 3
+p510
+aVToni Kukoc CHI 01/14/2000 CHI vs. ATL L 44 19 9 23 39.1 1 7 14.3 0 0 - 2 4 6 9 1 1 10 3 -2
+p511
+aVChris Carr CHI 01/14/2000 CHI vs. ATL L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 2 1 1
+p512
+aVDedric Willoughby CHI 01/14/2000 CHI vs. ATL L 15 0 0 7 0.0 0 4 0.0 0 0 - 2 1 3 3 3 0 2 0 -9
+p513
+aVMichael Ruffin CHI 01/14/2000 CHI vs. ATL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 0 0 5
+p514
+aVMetta World Peace CHI 01/14/2000 CHI vs. ATL L 42 13 5 13 38.5 0 3 0.0 3 4 75.0 0 6 6 4 1 0 2 1 -9
+p515
+aVDickey Simpkins CHI 01/14/2000 CHI vs. ATL L 17 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 2 2 1
+p516
+aVElton Brand CHI 01/14/2000 CHI vs. ATL L 40 18 7 16 43.8 0 0 - 4 5 80.0 8 6 14 2 1 0 2 3 -9
+p517
+aVToni Kukoc CHI 01/11/2000 CHI @ NYK L 40 11 4 15 26.7 0 3 0.0 3 5 60.0 2 5 7 8 3 0 4 2 -7
+p518
+aVChris Anstey CHI 01/11/2000 CHI @ NYK L 9 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 1 0 0 5 18
+p519
+aVMichael Ruffin CHI 01/11/2000 CHI @ NYK L 9 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 1 1 0 1 2 0
+p520
+aVDedric Willoughby CHI 01/11/2000 CHI @ NYK L 21 13 4 6 66.7 4 6 66.7 1 2 50.0 1 0 1 0 1 0 4 1 -13
+p521
+aVDickey Simpkins CHI 01/11/2000 CHI @ NYK L 24 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 0 3 5 -15
+p522
+aVWill Perdue CHI 01/11/2000 CHI @ NYK L 17 3 1 2 50.0 0 0 - 1 4 25.0 1 2 3 1 0 0 1 1 -9
+p523
+aVElton Brand CHI 01/11/2000 CHI @ NYK L 40 22 9 18 50.0 0 0 - 4 7 57.1 5 2 7 0 2 1 1 2 1
+p524
+aVChris Carr CHI 01/11/2000 CHI @ NYK L 8 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -15
+p525
+aVMetta World Peace CHI 01/11/2000 CHI @ NYK L 43 24 6 15 40.0 1 4 25.0 11 17 64.7 3 3 6 4 2 1 0 3 -1
+p526
+aVMatt Maloney CHI 01/11/2000 CHI @ NYK L 27 9 4 5 80.0 1 2 50.0 0 0 - 0 1 1 2 1 0 1 2 6
+p527
+aVToni Kukoc CHI 01/08/2000 CHI vs. BOS W 37 23 7 17 41.2 2 4 50.0 7 10 70.0 1 3 4 8 1 2 5 5 22
+p528
+aVCorey Benjamin CHI 01/08/2000 CHI vs. BOS W 18 0 0 4 0.0 0 4 0.0 0 0 - 0 0 0 1 0 0 3 2 -5
+p529
+aVMichael Ruffin CHI 01/08/2000 CHI vs. BOS W 15 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 2 0 2 6
+p530
+aVChris Anstey CHI 01/08/2000 CHI vs. BOS W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 1 2 0 -3
+p531
+aVMatt Maloney CHI 01/08/2000 CHI vs. BOS W 31 16 6 12 50.0 3 6 50.0 1 2 50.0 0 1 1 4 3 0 1 2 13
+p532
+aVElton Brand CHI 01/08/2000 CHI vs. BOS W 39 26 9 14 64.3 0 0 - 8 9 88.9 5 9 14 2 3 2 2 3 9
+p533
+aVMetta World Peace CHI 01/08/2000 CHI vs. BOS W 42 14 6 10 60.0 2 2 100.0 0 0 - 0 6 6 4 1 0 5 3 23
+p534
+aVB.J. Armstrong CHI 01/08/2000 CHI vs. BOS W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p535
+aVDickey Simpkins CHI 01/08/2000 CHI vs. BOS W 35 4 1 2 50.0 0 0 - 2 4 50.0 1 5 6 1 1 0 2 3 11
+p536
+aVWill Perdue CHI 01/08/2000 CHI vs. BOS W 14 5 1 1 100.0 0 0 - 3 5 60.0 1 5 6 0 0 0 0 2 10
+p537
+aVDickey Simpkins CHI 01/07/2000 CHI @ WAS W 28 8 4 8 50.0 0 0 - 0 0 - 0 4 4 2 0 0 4 6 -4
+p538
+aVMetta World Peace CHI 01/07/2000 CHI @ WAS W 37 19 8 14 57.1 2 6 33.3 1 2 50.0 0 2 2 6 3 1 3 3 10
+p539
+aVMichael Ruffin CHI 01/07/2000 CHI @ WAS W 12 4 1 2 50.0 0 0 - 2 5 40.0 1 3 4 0 1 0 1 2 9
+p540
+aVCorey Benjamin CHI 01/07/2000 CHI @ WAS W 25 11 5 8 62.5 1 3 33.3 0 0 - 1 3 4 2 0 1 3 2 8
+p541
+aVWill Perdue CHI 01/07/2000 CHI @ WAS W 15 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 0 9
+p542
+aVElton Brand CHI 01/07/2000 CHI @ WAS W 35 16 7 13 53.8 0 0 - 2 2 100.0 6 7 13 2 1 1 1 4 -3
+p543
+aVB.J. Armstrong CHI 01/07/2000 CHI @ WAS W 33 14 5 6 83.3 2 2 100.0 2 2 100.0 0 1 1 4 0 0 4 1 17
+p544
+aVMatt Maloney CHI 01/07/2000 CHI @ WAS W 16 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 1 4 -13
+p545
+aVToni Kukoc CHI 01/07/2000 CHI @ WAS W 39 33 9 15 60.0 1 2 50.0 14 16 87.5 0 2 2 10 3 2 1 1 2
+p546
+aVChris Anstey CHI 01/05/2000 CHI vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p547
+aVB.J. Armstrong CHI 01/05/2000 CHI vs. WAS W 38 9 3 10 30.0 1 1 100.0 2 2 100.0 0 4 4 5 0 0 1 2 3
+p548
+aVDickey Simpkins CHI 01/05/2000 CHI vs. WAS W 39 6 2 5 40.0 0 0 - 2 6 33.3 6 4 10 4 0 1 2 4 14
+p549
+aVToni Kukoc CHI 01/05/2000 CHI vs. WAS W 40 18 7 26 26.9 1 7 14.3 3 4 75.0 3 8 11 5 2 2 1 1 22
+p550
+aVMichael Ruffin CHI 01/05/2000 CHI vs. WAS W 13 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 1 0 1 2 -11
+p551
+aVMetta World Peace CHI 01/05/2000 CHI vs. WAS W 44 16 4 9 44.4 1 4 25.0 7 10 70.0 1 6 7 3 2 2 4 3 21
+p552
+aVCorey Benjamin CHI 01/05/2000 CHI vs. WAS W 19 6 2 7 28.6 1 3 33.3 1 2 50.0 0 1 1 3 1 2 2 4 -4
+p553
+aVElton Brand CHI 01/05/2000 CHI vs. WAS W 33 16 6 12 50.0 0 0 - 4 5 80.0 5 11 16 0 0 1 2 5 22
+p554
+aVWill Perdue CHI 01/05/2000 CHI vs. WAS W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 2 3 2 -9
+p555
+aVCorey Benjamin CHI 01/03/2000 CHI vs. POR L 36 19 8 20 40.0 1 2 50.0 2 7 28.6 1 6 7 0 1 1 5 4 -19
+p556
+aVChris Anstey CHI 01/03/2000 CHI vs. POR L 20 4 2 6 33.3 0 0 - 0 0 - 4 5 9 0 0 0 2 3 -6
+p557
+aVWill Perdue CHI 01/03/2000 CHI vs. POR L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 2 3 -6
+p558
+aVElton Brand CHI 01/03/2000 CHI vs. POR L 38 23 10 20 50.0 0 0 - 3 4 75.0 6 4 10 2 2 0 1 2 -23
+p559
+aVB.J. Armstrong CHI 01/03/2000 CHI vs. POR L 25 10 4 7 57.1 1 1 100.0 1 2 50.0 1 1 2 5 1 0 2 0 -12
+p560
+aVDedric Willoughby CHI 01/03/2000 CHI vs. POR L 11 0 0 2 0.0 0 2 0.0 0 1 0.0 0 0 0 3 1 0 1 0 -9
+p561
+aVMetta World Peace CHI 01/03/2000 CHI vs. POR L 35 2 1 11 9.1 0 5 0.0 0 0 - 0 4 4 4 3 0 3 5 -16
+p562
+aVKhalid Reeves CHI 01/03/2000 CHI vs. POR L 7 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 1 0 5
+p563
+aVDickey Simpkins CHI 01/03/2000 CHI vs. POR L 20 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 6 3 -11
+p564
+aVMichael Ruffin CHI 01/03/2000 CHI vs. POR L 23 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 0 0 1 2 2 -12
+p565
+aVRandy Brown CHI 01/03/2000 CHI vs. POR L 18 0 0 5 0.0 0 0 - 0 0 - 1 0 1 3 3 0 5 1 -16
+p566
+aVKornel David CHI 12/30/1999 CHI @ MIN L 13 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 6
+p567
+aVWill Perdue CHI 12/30/1999 CHI @ MIN L 15 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 3 -1
+p568
+aVElton Brand CHI 12/30/1999 CHI @ MIN L 24 9 4 11 36.4 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 -23
+p569
+aVCorey Benjamin CHI 12/30/1999 CHI @ MIN L 32 21 8 14 57.1 1 3 33.3 4 5 80.0 2 4 6 2 1 1 1 2 -12
+p570
+aVMetta World Peace CHI 12/30/1999 CHI @ MIN L 31 8 3 6 50.0 1 2 50.0 1 2 50.0 1 3 4 3 0 0 2 2 -24
+p571
+aVKhalid Reeves CHI 12/30/1999 CHI @ MIN L 27 4 0 7 0.0 0 2 0.0 4 4 100.0 0 0 0 8 2 0 2 3 9
+p572
+aVDedric Willoughby CHI 12/30/1999 CHI @ MIN L 21 9 3 9 33.3 2 5 40.0 1 2 50.0 0 1 1 3 2 0 2 1 -7
+p573
+aVMichael Ruffin CHI 12/30/1999 CHI @ MIN L 24 5 2 5 40.0 0 0 - 1 2 50.0 1 7 8 0 0 0 1 3 5
+p574
+aVDickey Simpkins CHI 12/30/1999 CHI @ MIN L 19 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 1 0 4 2 -20
+p575
+aVB.J. Armstrong CHI 12/30/1999 CHI @ MIN L 21 6 2 8 25.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 0 0 -26
+p576
+aVChris Anstey CHI 12/30/1999 CHI @ MIN L 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 1 1 1 1 3
+p577
+aVDedric Willoughby CHI 12/29/1999 CHI vs. DET L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 3 1 -9
+p578
+aVB.J. Armstrong CHI 12/29/1999 CHI vs. DET L 39 22 8 16 50.0 2 2 100.0 4 4 100.0 0 0 0 3 1 0 2 3 -17
+p579
+aVKhalid Reeves CHI 12/29/1999 CHI vs. DET L 14 4 2 3 66.7 0 1 0.0 0 0 - 2 2 4 4 0 0 3 5 3
+p580
+aVDickey Simpkins CHI 12/29/1999 CHI vs. DET L 24 1 0 2 0.0 0 0 - 1 2 50.0 4 2 6 2 0 0 6 3 0
+p581
+aVElton Brand CHI 12/29/1999 CHI vs. DET L 42 17 6 12 50.0 0 0 - 5 10 50.0 3 7 10 3 2 8 5 2 -4
+p582
+aVMetta World Peace CHI 12/29/1999 CHI vs. DET L 43 6 3 11 27.3 0 3 0.0 0 0 - 1 4 5 7 3 1 3 4 -9
+p583
+aVCorey Benjamin CHI 12/29/1999 CHI vs. DET L 29 14 5 16 31.3 3 6 50.0 1 2 50.0 0 2 2 0 0 1 2 5 -3
+p584
+aVKornel David CHI 12/29/1999 CHI vs. DET L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p585
+aVChris Anstey CHI 12/29/1999 CHI vs. DET L 18 9 3 6 50.0 0 0 - 3 4 75.0 3 5 8 0 0 2 2 2 -6
+p586
+aVMichael Ruffin CHI 12/29/1999 CHI vs. DET L 15 2 1 1 100.0 0 0 - 0 0 - 2 3 5 1 0 0 1 4 -20
+p587
+aVChris Anstey CHI 12/27/1999 CHI vs. IND L 8 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 8
+p588
+aVCorey Benjamin CHI 12/27/1999 CHI vs. IND L 35 4 2 8 25.0 0 2 0.0 0 2 0.0 0 7 7 2 0 1 2 6 -4
+p589
+aVB.J. Armstrong CHI 12/27/1999 CHI vs. IND L 32 21 9 15 60.0 3 4 75.0 0 0 - 1 1 2 7 0 0 2 3 -10
+p590
+aVDickey Simpkins CHI 12/27/1999 CHI vs. IND L 25 10 4 8 50.0 0 0 - 2 2 100.0 1 6 7 1 1 0 4 1 -9
+p591
+aVMetta World Peace CHI 12/27/1999 CHI vs. IND L 44 22 6 15 40.0 4 6 66.7 6 7 85.7 2 5 7 7 2 0 2 1 -13
+p592
+aVWill Perdue CHI 12/27/1999 CHI vs. IND L 14 0 0 4 0.0 0 0 - 0 2 0.0 2 1 3 1 0 0 0 2 -9
+p593
+aVElton Brand CHI 12/27/1999 CHI vs. IND L 36 22 10 18 55.6 0 0 - 2 3 66.7 8 5 13 4 0 1 2 4 -14
+p594
+aVKornel David CHI 12/27/1999 CHI vs. IND L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 2 -4
+p595
+aVMichael Ruffin CHI 12/27/1999 CHI vs. IND L 17 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 0 0 3 -3
+p596
+aVRusty LaRue CHI 12/27/1999 CHI vs. IND L 16 1 0 5 0.0 0 3 0.0 1 2 50.0 1 3 4 1 1 0 1 0 -2
+p597
+aVCorey Benjamin CHI 12/26/1999 CHI @ NJN L 43 15 5 15 33.3 0 0 - 5 6 83.3 0 6 6 2 2 2 3 3 -24
+p598
+aVRusty LaRue CHI 12/26/1999 CHI @ NJN L 30 10 4 12 33.3 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 3 -16
+p599
+aVMichael Ruffin CHI 12/26/1999 CHI @ NJN L 13 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 0 0 0 1 -5
+p600
+aVElton Brand CHI 12/26/1999 CHI @ NJN L 35 22 9 17 52.9 0 0 - 4 6 66.7 6 5 11 0 2 1 5 2 -22
+p601
+aVB.J. Armstrong CHI 12/26/1999 CHI @ NJN L 22 2 0 4 0.0 0 0 - 2 2 100.0 0 4 4 1 1 0 0 3 -16
+p602
+aVChris Anstey CHI 12/26/1999 CHI @ NJN L 16 3 0 5 0.0 0 0 - 3 4 75.0 2 3 5 0 0 0 2 1 -16
+p603
+aVWill Perdue CHI 12/26/1999 CHI @ NJN L 14 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -5
+p604
+aVDickey Simpkins CHI 12/26/1999 CHI @ NJN L 16 10 5 6 83.3 0 0 - 0 1 0.0 2 0 2 0 0 0 1 3 -6
+p605
+aVKornel David CHI 12/26/1999 CHI @ NJN L 11 4 1 6 16.7 0 1 0.0 2 2 100.0 3 0 3 1 0 0 1 4 -8
+p606
+aVMetta World Peace CHI 12/26/1999 CHI @ NJN L 40 10 4 10 40.0 0 1 0.0 2 4 50.0 3 3 6 5 1 0 4 4 -17
+p607
+aVRusty LaRue CHI 12/22/1999 CHI vs. MIN L 46 13 6 14 42.9 0 3 0.0 1 2 50.0 0 3 3 5 3 0 1 4 -25
+p608
+aVWill Perdue CHI 12/22/1999 CHI vs. MIN L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -13
+p609
+aVElton Brand CHI 12/22/1999 CHI vs. MIN L 38 17 7 16 43.8 0 0 - 3 6 50.0 4 4 8 4 2 1 2 3 -5
+p610
+aVKornel David CHI 12/22/1999 CHI vs. MIN L 27 14 3 8 37.5 0 1 0.0 8 8 100.0 1 6 7 0 0 0 2 0 -6
+p611
+aVMichael Ruffin CHI 12/22/1999 CHI vs. MIN L 14 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -9
+p612
+aVChris Anstey CHI 12/22/1999 CHI vs. MIN L 14 8 2 4 50.0 1 1 100.0 3 4 75.0 2 4 6 1 0 0 0 2 12
+p613
+aVMetta World Peace CHI 12/22/1999 CHI vs. MIN L 39 14 7 16 43.8 0 2 0.0 0 2 0.0 2 2 4 2 2 0 4 3 -23
+p614
+aVCorey Benjamin CHI 12/22/1999 CHI vs. MIN L 31 13 5 14 35.7 0 2 0.0 3 4 75.0 0 3 3 0 2 0 2 4 -11
+p615
+aVDickey Simpkins CHI 12/22/1999 CHI vs. MIN L 22 7 3 7 42.9 0 0 - 1 2 50.0 4 2 6 2 0 0 0 2 -20
+p616
+aVMichael Ruffin CHI 12/20/1999 CHI vs. SEA L 16 2 0 0 - 0 0 - 2 2 100.0 2 0 2 0 0 0 2 1 -12
+p617
+aVRusty LaRue CHI 12/20/1999 CHI vs. SEA L 37 13 5 12 41.7 2 7 28.6 1 1 100.0 0 2 2 5 3 0 4 2 -3
+p618
+aVDickey Simpkins CHI 12/20/1999 CHI vs. SEA L 22 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 5 0 1 2 4 0
+p619
+aVChris Anstey CHI 12/20/1999 CHI vs. SEA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p620
+aVElton Brand CHI 12/20/1999 CHI vs. SEA L 42 14 6 12 50.0 0 0 - 2 7 28.6 3 6 9 3 1 2 1 0 -9
+p621
+aVMetta World Peace CHI 12/20/1999 CHI vs. SEA L 37 14 5 14 35.7 1 2 50.0 3 4 75.0 0 8 8 7 2 1 2 2 -4
+p622
+aVCorey Benjamin CHI 12/20/1999 CHI vs. SEA L 33 19 8 25 32.0 1 7 14.3 2 2 100.0 1 6 7 4 0 1 1 4 -6
+p623
+aVKornel David CHI 12/20/1999 CHI vs. SEA L 29 14 7 12 58.3 0 0 - 0 0 - 1 2 3 0 2 0 0 4 -7
+p624
+aVWill Perdue CHI 12/20/1999 CHI vs. SEA L 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 0 2 2 2 -4
+p625
+aVMetta World Peace CHI 12/18/1999 CHI vs. ORL L 41 7 0 13 0.0 0 4 0.0 7 8 87.5 3 6 9 4 0 0 1 0 -8
+p626
+aVLari Ketner CHI 12/18/1999 CHI vs. ORL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 3
+p627
+aVB.J. Armstrong CHI 12/18/1999 CHI vs. ORL L 27 11 5 9 55.6 1 2 50.0 0 0 - 0 3 3 4 0 0 3 2 -5
+p628
+aVCorey Benjamin CHI 12/18/1999 CHI vs. ORL L 40 13 4 12 33.3 3 4 75.0 2 2 100.0 1 4 5 5 4 3 2 5 3
+p629
+aVMichael Ruffin CHI 12/18/1999 CHI vs. ORL L 10 2 1 5 20.0 0 0 - 0 0 - 3 2 5 0 0 0 1 2 -13
+p630
+aVKornel David CHI 12/18/1999 CHI vs. ORL L 27 12 6 15 40.0 0 0 - 0 0 - 2 6 8 1 1 0 3 2 -13
+p631
+aVElton Brand CHI 12/18/1999 CHI vs. ORL L 40 19 8 15 53.3 0 0 - 3 4 75.0 3 7 10 2 0 5 1 5 -10
+p632
+aVChris Anstey CHI 12/18/1999 CHI vs. ORL L 15 4 2 5 40.0 0 0 - 0 0 - 4 2 6 0 0 1 1 1 -1
+p633
+aVFred Hoiberg CHI 12/18/1999 CHI vs. ORL L 11 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 2 1 0 2 0 -8
+p634
+aVDickey Simpkins CHI 12/18/1999 CHI vs. ORL L 27 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 3 1 1 0 5 7
+p635
+aVElton Brand CHI 12/17/1999 CHI @ PHI L 40 14 5 12 41.7 0 0 - 4 4 100.0 2 9 11 1 2 2 5 4 -6
+p636
+aVB.J. Armstrong CHI 12/17/1999 CHI @ PHI L 35 13 6 14 42.9 0 0 - 1 2 50.0 0 2 2 7 2 0 2 1 4
+p637
+aVFred Hoiberg CHI 12/17/1999 CHI @ PHI L 24 4 1 6 16.7 0 3 0.0 2 2 100.0 0 2 2 0 1 0 0 4 -6
+p638
+aVMetta World Peace CHI 12/17/1999 CHI @ PHI L 38 15 5 11 45.5 0 2 0.0 5 5 100.0 1 6 7 1 2 1 4 0 2
+p639
+aVKornel David CHI 12/17/1999 CHI @ PHI L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -5
+p640
+aVDedric Willoughby CHI 12/17/1999 CHI @ PHI L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p641
+aVChris Anstey CHI 12/17/1999 CHI @ PHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 0
+p642
+aVCorey Benjamin CHI 12/17/1999 CHI @ PHI L 28 16 7 13 53.8 2 2 100.0 0 0 - 2 1 3 2 2 1 3 6 -2
+p643
+aVMichael Ruffin CHI 12/17/1999 CHI @ PHI L 11 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 0 2 1
+p644
+aVLari Ketner CHI 12/17/1999 CHI @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p645
+aVWill Perdue CHI 12/17/1999 CHI @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -1
+p646
+aVDickey Simpkins CHI 12/17/1999 CHI @ PHI L 35 10 5 11 45.5 0 0 - 0 0 - 2 5 7 2 2 0 1 3 5
+p647
+aVB.J. Armstrong CHI 12/15/1999 CHI @ IND L 29 10 5 11 45.5 0 0 - 0 0 - 0 2 2 2 0 0 2 2 -19
+p648
+aVWill Perdue CHI 12/15/1999 CHI @ IND L 19 4 2 3 66.7 0 0 - 0 0 - 2 8 10 1 0 1 1 1 0
+p649
+aVChris Anstey CHI 12/15/1999 CHI @ IND L 11 8 4 6 66.7 0 0 - 0 1 0.0 1 1 2 0 0 1 0 1 3
+p650
+aVElton Brand CHI 12/15/1999 CHI @ IND L 32 16 6 13 46.2 0 0 - 4 6 66.7 2 6 8 2 2 2 2 3 -11
+p651
+aVCorey Benjamin CHI 12/15/1999 CHI @ IND L 34 16 8 14 57.1 0 1 0.0 0 0 - 0 3 3 3 1 0 3 3 1
+p652
+aVDedric Willoughby CHI 12/15/1999 CHI @ IND L 29 21 8 10 80.0 3 4 75.0 2 3 66.7 1 2 3 8 1 0 1 1 -10
+p653
+aVRandy Brown CHI 12/15/1999 CHI @ IND L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -9
+p654
+aVMetta World Peace CHI 12/15/1999 CHI @ IND L 43 10 4 15 26.7 0 4 0.0 2 2 100.0 0 8 8 2 3 0 2 2 4
+p655
+aVDickey Simpkins CHI 12/15/1999 CHI @ IND L 19 4 2 5 40.0 0 0 - 0 0 - 1 0 1 1 0 0 3 4 -14
+p656
+aVMichael Ruffin CHI 12/15/1999 CHI @ IND L 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 0
+p657
+aVWill Perdue CHI 12/11/1999 CHI @ ORL L 18 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 1 0 1 3 2 -4
+p658
+aVCorey Benjamin CHI 12/11/1999 CHI @ ORL L 37 15 5 10 50.0 3 5 60.0 2 4 50.0 1 5 6 2 1 0 1 5 -16
+p659
+aVMetta World Peace CHI 12/11/1999 CHI @ ORL L 40 20 8 20 40.0 1 4 25.0 3 4 75.0 1 6 7 3 3 2 4 1 -10
+p660
+aVElton Brand CHI 12/11/1999 CHI @ ORL L 36 16 6 11 54.5 0 0 - 4 5 80.0 7 3 10 4 2 1 1 4 -4
+p661
+aVDickey Simpkins CHI 12/11/1999 CHI @ ORL L 25 4 2 5 40.0 0 0 - 0 0 - 2 0 2 2 1 0 1 4 -16
+p662
+aVDedric Willoughby CHI 12/11/1999 CHI @ ORL L 29 11 3 9 33.3 3 8 37.5 2 2 100.0 0 2 2 5 0 0 2 0 -15
+p663
+aVB.J. Armstrong CHI 12/11/1999 CHI @ ORL L 22 10 4 8 50.0 0 1 0.0 2 2 100.0 0 2 2 3 0 0 2 3 -13
+p664
+aVMichael Ruffin CHI 12/11/1999 CHI @ ORL L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -12
+p665
+aVKornel David CHI 12/11/1999 CHI @ ORL L 16 6 3 8 37.5 0 0 - 0 0 - 0 1 1 0 1 0 2 2 -9
+p666
+aVChris Anstey CHI 12/11/1999 CHI @ ORL L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -6
+p667
+aVElton Brand CHI 12/10/1999 CHI vs. NJN W 32 16 6 19 31.6 0 0 - 4 8 50.0 6 8 14 0 1 2 3 3 -7
+p668
+aVMetta World Peace CHI 12/10/1999 CHI vs. NJN W 38 14 5 12 41.7 2 7 28.6 2 2 100.0 1 7 8 7 2 0 3 3 2
+p669
+aVChris Anstey CHI 12/10/1999 CHI vs. NJN W 10 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 2 8
+p670
+aVRandy Brown CHI 12/10/1999 CHI vs. NJN W 34 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 2 1 0 3 2 -15
+p671
+aVB.J. Armstrong CHI 12/10/1999 CHI vs. NJN W 14 1 0 5 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 0 -6
+p672
+aVKornel David CHI 12/10/1999 CHI vs. NJN W 13 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 0 -5
+p673
+aVDedric Willoughby CHI 12/10/1999 CHI vs. NJN W 25 8 3 7 42.9 0 3 0.0 2 2 100.0 1 3 4 2 0 0 2 3 17
+p674
+aVWill Perdue CHI 12/10/1999 CHI vs. NJN W 14 4 2 5 40.0 0 0 - 0 2 0.0 3 3 6 1 0 1 1 0 -5
+p675
+aVDickey Simpkins CHI 12/10/1999 CHI vs. NJN W 19 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 0 0 1 5 8
+p676
+aVMichael Ruffin CHI 12/10/1999 CHI vs. NJN W 19 4 2 4 50.0 0 0 - 0 2 0.0 1 1 2 1 1 1 0 3 5
+p677
+aVCorey Benjamin CHI 12/10/1999 CHI vs. NJN W 23 11 5 10 50.0 1 1 100.0 0 0 - 2 0 2 1 1 0 2 3 8
+p678
+aVMichael Ruffin CHI 12/08/1999 CHI @ CLE L 24 7 2 3 66.7 0 0 - 3 4 75.0 4 2 6 0 1 0 0 5 -9
+p679
+aVMetta World Peace CHI 12/08/1999 CHI @ CLE L 38 9 4 14 28.6 0 4 0.0 1 3 33.3 0 5 5 2 0 0 1 1 -16
+p680
+aVCorey Benjamin CHI 12/08/1999 CHI @ CLE L 18 15 6 10 60.0 0 0 - 3 4 75.0 1 0 1 1 1 0 1 0 -5
+p681
+aVKornel David CHI 12/08/1999 CHI @ CLE L 15 6 2 5 40.0 0 0 - 2 4 50.0 1 2 3 0 0 0 3 4 8
+p682
+aVRandy Brown CHI 12/08/1999 CHI @ CLE L 37 12 5 11 45.5 0 0 - 2 2 100.0 0 1 1 4 2 1 4 1 -24
+p683
+aVB.J. Armstrong CHI 12/08/1999 CHI @ CLE L 12 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 3 1 0 0 1 3
+p684
+aVDedric Willoughby CHI 12/08/1999 CHI @ CLE L 26 8 3 11 27.3 2 7 28.6 0 0 - 0 1 1 3 0 0 1 1 3
+p685
+aVChris Anstey CHI 12/08/1999 CHI @ CLE L 19 8 4 8 50.0 0 0 - 0 0 - 3 4 7 2 0 0 1 6 -7
+p686
+aVHersey Hawkins CHI 12/08/1999 CHI @ CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p687
+aVWill Perdue CHI 12/08/1999 CHI @ CLE L 26 13 4 7 57.1 0 0 - 5 7 71.4 2 5 7 1 1 2 0 3 7
+p688
+aVDickey Simpkins CHI 12/08/1999 CHI @ CLE L 22 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 1 0 3 4 -25
+p689
+aVRandy Brown CHI 12/04/1999 CHI vs. MIL L 27 4 2 8 25.0 0 0 - 0 0 - 0 0 0 2 1 0 4 1 -13
+p690
+aVWill Perdue CHI 12/04/1999 CHI vs. MIL L 12 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 1 0 0 0 -6
+p691
+aVDedric Willoughby CHI 12/04/1999 CHI vs. MIL L 23 12 3 8 37.5 2 5 40.0 4 4 100.0 0 1 1 6 3 0 3 3 10
+p692
+aVChris Anstey CHI 12/04/1999 CHI vs. MIL L 13 8 2 7 28.6 0 0 - 4 4 100.0 2 4 6 1 0 0 1 2 -5
+p693
+aVCorey Benjamin CHI 12/04/1999 CHI vs. MIL L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p694
+aVKornel David CHI 12/04/1999 CHI vs. MIL L 18 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -16
+p695
+aVElton Brand CHI 12/04/1999 CHI vs. MIL L 37 19 5 17 29.4 0 0 - 9 12 75.0 8 9 17 0 1 1 3 2 -1
+p696
+aVHersey Hawkins CHI 12/04/1999 CHI vs. MIL L 37 11 4 12 33.3 0 3 0.0 3 3 100.0 4 1 5 6 2 1 5 3 1
+p697
+aVDickey Simpkins CHI 12/04/1999 CHI vs. MIL L 26 6 2 5 40.0 0 1 0.0 2 4 50.0 2 3 5 3 0 2 2 1 7
+p698
+aVMichael Ruffin CHI 12/04/1999 CHI vs. MIL L 7 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 1 0 0 1 3
+p699
+aVMetta World Peace CHI 12/04/1999 CHI vs. MIL L 30 21 7 14 50.0 4 6 66.7 3 6 50.0 0 0 0 1 2 0 0 3 15
+p700
+aVRandy Brown CHI 12/02/1999 CHI vs. DAL L 26 12 6 8 75.0 0 0 - 0 1 0.0 1 2 3 4 0 0 3 1 -14
+p701
+aVDedric Willoughby CHI 12/02/1999 CHI vs. DAL L 26 12 4 13 30.8 0 5 0.0 4 4 100.0 1 4 5 5 1 1 2 1 3
+p702
+aVKornel David CHI 12/02/1999 CHI vs. DAL L 18 4 1 6 16.7 0 0 - 2 2 100.0 1 0 1 1 1 0 0 3 -13
+p703
+aVChris Anstey CHI 12/02/1999 CHI vs. DAL L 21 11 3 11 27.3 0 1 0.0 5 5 100.0 7 8 15 2 2 1 1 5 13
+p704
+aVDickey Simpkins CHI 12/02/1999 CHI vs. DAL L 21 5 2 7 28.6 0 0 - 1 4 25.0 1 2 3 2 0 0 0 1 -14
+p705
+aVWill Perdue CHI 12/02/1999 CHI vs. DAL L 8 0 0 2 0.0 0 0 - 0 2 0.0 0 4 4 1 0 0 1 1 -5
+p706
+aVHersey Hawkins CHI 12/02/1999 CHI vs. DAL L 36 3 1 4 25.0 0 1 0.0 1 2 50.0 1 3 4 0 1 0 1 3 4
+p707
+aVElton Brand CHI 12/02/1999 CHI vs. DAL L 31 14 4 11 36.4 0 0 - 6 8 75.0 5 4 9 2 0 2 3 4 3
+p708
+aVMetta World Peace CHI 12/02/1999 CHI vs. DAL L 26 20 8 13 61.5 2 4 50.0 2 2 100.0 2 4 6 3 2 0 3 2 -14
+p709
+aVCorey Benjamin CHI 12/02/1999 CHI vs. DAL L 17 10 4 9 44.4 0 2 0.0 2 4 50.0 1 0 1 2 0 0 0 3 9
+p710
+aVMichael Ruffin CHI 12/02/1999 CHI vs. DAL L 11 4 1 4 25.0 0 0 - 2 2 100.0 3 1 4 0 0 0 1 0 -2
+p711
+aVHersey Hawkins CHI 11/27/1999 CHI @ DAL L 39 3 0 4 0.0 0 2 0.0 3 3 100.0 0 2 2 1 3 0 5 2 -9
+p712
+aVDedric Willoughby CHI 11/27/1999 CHI @ DAL L 21 12 5 11 45.5 1 4 25.0 1 2 50.0 0 1 1 2 0 0 0 2 -7
+p713
+aVMetta World Peace CHI 11/27/1999 CHI @ DAL L 28 6 3 9 33.3 0 3 0.0 0 0 - 1 8 9 4 1 0 1 3 3
+p714
+aVWill Perdue CHI 11/27/1999 CHI @ DAL L 19 5 1 5 20.0 0 0 - 3 4 75.0 3 2 5 1 0 0 1 3 -11
+p715
+aVRandy Brown CHI 11/27/1999 CHI @ DAL L 36 12 6 11 54.5 0 0 - 0 0 - 0 2 2 6 0 2 3 5 -8
+p716
+aVChris Anstey CHI 11/27/1999 CHI @ DAL L 14 8 3 10 30.0 0 1 0.0 2 2 100.0 2 1 3 0 1 0 0 2 -11
+p717
+aVDickey Simpkins CHI 11/27/1999 CHI @ DAL L 17 10 5 8 62.5 0 0 - 0 0 - 3 4 7 2 0 0 3 1 6
+p718
+aVKornel David CHI 11/27/1999 CHI @ DAL L 26 9 4 7 57.1 0 0 - 1 1 100.0 0 5 5 1 0 0 3 5 -10
+p719
+aVCorey Benjamin CHI 11/27/1999 CHI @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p720
+aVElton Brand CHI 11/27/1999 CHI @ DAL L 36 18 9 17 52.9 0 0 - 0 0 - 4 5 9 5 1 1 2 3 -11
+p721
+aVRandy Brown CHI 11/26/1999 CHI @ SAS L 39 8 3 12 25.0 0 0 - 2 4 50.0 1 3 4 6 0 1 1 3 -14
+p722
+aVDedric Willoughby CHI 11/26/1999 CHI @ SAS L 16 4 1 6 16.7 0 1 0.0 2 2 100.0 0 4 4 2 1 0 2 0 -14
+p723
+aVChris Anstey CHI 11/26/1999 CHI @ SAS L 13 2 0 3 0.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 3 -18
+p724
+aVCorey Benjamin CHI 11/26/1999 CHI @ SAS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p725
+aVMetta World Peace CHI 11/26/1999 CHI @ SAS L 21 2 1 4 25.0 0 0 - 0 1 0.0 2 2 4 0 0 0 3 2 -24
+p726
+aVWill Perdue CHI 11/26/1999 CHI @ SAS L 33 4 1 5 20.0 0 0 - 2 5 40.0 1 5 6 1 1 2 1 2 -3
+p727
+aVElton Brand CHI 11/26/1999 CHI @ SAS L 36 24 9 21 42.9 0 0 - 6 7 85.7 3 3 6 2 2 0 2 4 -5
+p728
+aVMichael Ruffin CHI 11/26/1999 CHI @ SAS L 9 4 2 5 40.0 0 0 - 0 1 0.0 2 1 3 0 1 0 1 5 -16
+p729
+aVKornel David CHI 11/26/1999 CHI @ SAS L 28 13 5 12 41.7 0 0 - 3 3 100.0 3 5 8 1 2 0 1 4 -1
+p730
+aVLari Ketner CHI 11/26/1999 CHI @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p731
+aVHersey Hawkins CHI 11/26/1999 CHI @ SAS L 36 15 5 10 50.0 1 2 50.0 4 5 80.0 4 2 6 1 1 0 0 1 -9
+p732
+aVHersey Hawkins CHI 11/24/1999 CHI @ MIL L 36 15 6 9 66.7 3 3 100.0 0 0 - 0 3 3 4 1 0 0 3 -1
+p733
+aVMichael Ruffin CHI 11/24/1999 CHI @ MIL L 13 7 3 3 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 3 5
+p734
+aVElton Brand CHI 11/24/1999 CHI @ MIL L 29 16 7 14 50.0 0 0 - 2 3 66.7 2 5 7 1 0 0 3 5 -13
+p735
+aVRandy Brown CHI 11/24/1999 CHI @ MIL L 34 4 2 6 33.3 0 0 - 0 0 - 1 0 1 6 1 0 2 2 -13
+p736
+aVWill Perdue CHI 11/24/1999 CHI @ MIL L 31 9 2 5 40.0 0 0 - 5 5 100.0 2 8 10 2 0 1 3 0 6
+p737
+aVDedric Willoughby CHI 11/24/1999 CHI @ MIL L 22 11 4 11 36.4 3 8 37.5 0 0 - 1 3 4 2 1 0 0 0 8
+p738
+aVMetta World Peace CHI 11/24/1999 CHI @ MIL L 20 11 4 10 40.0 0 1 0.0 3 4 75.0 3 0 3 3 2 0 1 3 -6
+p739
+aVKornel David CHI 11/24/1999 CHI @ MIL L 34 9 4 9 44.4 0 0 - 1 2 50.0 0 3 3 3 0 0 4 4 -1
+p740
+aVCorey Benjamin CHI 11/24/1999 CHI @ MIL L 4 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 3 1 -8
+p741
+aVChris Anstey CHI 11/24/1999 CHI @ MIL L 16 10 4 6 66.7 0 0 - 2 3 66.7 1 2 3 0 0 0 2 6 -12
+p742
+aVMetta World Peace CHI 11/20/1999 CHI @ DEN L 27 9 3 13 23.1 0 3 0.0 3 4 75.0 2 3 5 1 1 0 1 1 3
+p743
+aVCorey Benjamin CHI 11/20/1999 CHI @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -4
+p744
+aVMichael Ruffin CHI 11/20/1999 CHI @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 3 3
+p745
+aVElton Brand CHI 11/20/1999 CHI @ DEN L 40 16 8 19 42.1 0 0 - 0 0 - 7 2 9 2 1 2 2 4 -4
+p746
+aVDedric Willoughby CHI 11/20/1999 CHI @ DEN L 20 5 1 3 33.3 0 2 0.0 3 4 75.0 0 2 2 3 0 0 2 0 -5
+p747
+aVLari Ketner CHI 11/20/1999 CHI @ DEN L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p748
+aVHersey Hawkins CHI 11/20/1999 CHI @ DEN L 34 1 0 6 0.0 0 1 0.0 1 2 50.0 0 5 5 3 2 0 1 1 -10
+p749
+aVKornel David CHI 11/20/1999 CHI @ DEN L 29 17 6 12 50.0 0 0 - 5 6 83.3 2 4 6 1 1 0 2 3 -12
+p750
+aVRandy Brown CHI 11/20/1999 CHI @ DEN L 43 14 7 13 53.8 0 1 0.0 0 0 - 2 2 4 6 0 0 2 3 -7
+p751
+aVChris Anstey CHI 11/20/1999 CHI @ DEN L 24 18 8 16 50.0 0 0 - 2 4 50.0 3 2 5 2 2 1 0 4 3
+p752
+aVWill Perdue CHI 11/20/1999 CHI @ DEN L 12 4 2 3 66.7 0 0 - 0 0 - 1 3 4 3 0 1 1 3 -9
+p753
+aVKornel David CHI 11/19/1999 CHI @ LAL L 18 8 4 7 57.1 0 0 - 0 0 - 3 1 4 3 0 0 0 0 9
+p754
+aVDedric Willoughby CHI 11/19/1999 CHI @ LAL L 24 15 4 11 36.4 1 6 16.7 6 8 75.0 0 1 1 3 1 0 1 3 19
+p755
+aVWill Perdue CHI 11/19/1999 CHI @ LAL L 20 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 0 3 4 -4
+p756
+aVCorey Benjamin CHI 11/19/1999 CHI @ LAL L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 0
+p757
+aVMichael Ruffin CHI 11/19/1999 CHI @ LAL L 7 2 0 2 0.0 0 0 - 2 4 50.0 1 0 1 0 0 0 1 6 7
+p758
+aVLari Ketner CHI 11/19/1999 CHI @ LAL L 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 2 6 -13
+p759
+aVMetta World Peace CHI 11/19/1999 CHI @ LAL L 30 20 7 14 50.0 3 6 50.0 3 5 60.0 2 4 6 0 3 1 1 2 0
+p760
+aVElton Brand CHI 11/19/1999 CHI @ LAL L 45 29 8 23 34.8 0 0 - 13 19 68.4 8 9 17 4 2 4 3 4 -8
+p761
+aVRandy Brown CHI 11/19/1999 CHI @ LAL L 38 4 2 9 22.2 0 0 - 0 0 - 0 4 4 4 1 0 1 3 -20
+p762
+aVHersey Hawkins CHI 11/19/1999 CHI @ LAL L 29 15 5 8 62.5 3 5 60.0 2 2 100.0 0 1 1 2 3 0 1 3 -23
+p763
+aVChris Anstey CHI 11/19/1999 CHI @ LAL L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 6 -7
+p764
+aVMetta World Peace CHI 11/17/1999 CHI @ PHX L 31 14 4 10 40.0 1 3 33.3 5 6 83.3 0 0 0 0 3 1 2 2 -10
+p765
+aVKornel David CHI 11/17/1999 CHI @ PHX L 15 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 -8
+p766
+aVRandy Brown CHI 11/17/1999 CHI @ PHX L 37 12 3 6 50.0 0 0 - 6 7 85.7 0 4 4 2 1 1 5 4 -20
+p767
+aVHersey Hawkins CHI 11/17/1999 CHI @ PHX L 35 9 3 8 37.5 1 4 25.0 2 2 100.0 0 2 2 2 3 1 5 3 -23
+p768
+aVLari Ketner CHI 11/17/1999 CHI @ PHX L 13 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 0 -8
+p769
+aVMichael Ruffin CHI 11/17/1999 CHI @ PHX L 20 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 2 0 0 1 2 -15
+p770
+aVCorey Benjamin CHI 11/17/1999 CHI @ PHX L 18 6 2 7 28.6 1 2 50.0 1 5 20.0 1 0 1 1 3 1 4 3 -5
+p771
+aVElton Brand CHI 11/17/1999 CHI @ PHX L 31 19 8 12 66.7 0 0 - 3 7 42.9 3 3 6 2 0 1 0 5 -7
+p772
+aVWill Perdue CHI 11/17/1999 CHI @ PHX L 19 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 1 1 4 1 -6
+p773
+aVChris Anstey CHI 11/17/1999 CHI @ PHX L 13 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 1 0 0 3 1 -12
+p774
+aVDedric Willoughby CHI 11/17/1999 CHI @ PHX L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p775
+aVWill Perdue CHI 11/16/1999 CHI @ GSW L 16 5 2 8 25.0 0 0 - 1 2 50.0 3 6 9 1 0 0 1 4 -6
+p776
+aVHersey Hawkins CHI 11/16/1999 CHI @ GSW L 29 7 3 5 60.0 0 1 0.0 1 2 50.0 0 5 5 3 1 0 3 0 -29
+p777
+aVMichael Ruffin CHI 11/16/1999 CHI @ GSW L 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -4
+p778
+aVRandy Brown CHI 11/16/1999 CHI @ GSW L 28 6 3 12 25.0 0 0 - 0 0 - 0 1 1 4 1 0 1 1 -14
+p779
+aVDedric Willoughby CHI 11/16/1999 CHI @ GSW L 33 14 5 15 33.3 4 9 44.4 0 0 - 0 4 4 2 3 1 1 2 4
+p780
+aVChris Anstey CHI 11/16/1999 CHI @ GSW L 13 8 3 8 37.5 0 0 - 2 2 100.0 3 4 7 1 0 0 1 2 -3
+p781
+aVElton Brand CHI 11/16/1999 CHI @ GSW L 31 17 7 17 41.2 0 0 - 3 7 42.9 5 4 9 0 1 0 4 3 -9
+p782
+aVKornel David CHI 11/16/1999 CHI @ GSW L 22 2 1 6 16.7 0 0 - 0 0 - 3 2 5 1 0 0 2 3 -27
+p783
+aVMetta World Peace CHI 11/16/1999 CHI @ GSW L 32 14 6 13 46.2 0 0 - 2 5 40.0 2 2 4 6 0 1 0 2 6
+p784
+aVDickey Simpkins CHI 11/16/1999 CHI @ GSW L 24 6 2 8 25.0 0 0 - 2 3 66.7 2 4 6 1 0 0 1 3 -18
+p785
+aVKornel David CHI 11/13/1999 CHI vs. BOS W 18 8 2 6 33.3 0 0 - 4 4 100.0 0 4 4 0 0 0 1 3 2
+p786
+aVDedric Willoughby CHI 11/13/1999 CHI vs. BOS W 14 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 0 0 0 1 12
+p787
+aVWill Perdue CHI 11/13/1999 CHI vs. BOS W 23 6 3 7 42.9 0 0 - 0 2 0.0 2 3 5 3 0 4 2 2 -1
+p788
+aVElton Brand CHI 11/13/1999 CHI vs. BOS W 18 9 2 7 28.6 0 0 - 5 8 62.5 2 4 6 1 0 2 5 6 3
+p789
+aVMichael Ruffin CHI 11/13/1999 CHI vs. BOS W 19 4 2 4 50.0 0 0 - 0 0 - 1 5 6 2 0 0 0 3 -6
+p790
+aVMetta World Peace CHI 11/13/1999 CHI vs. BOS W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -7
+p791
+aVRandy Brown CHI 11/13/1999 CHI vs. BOS W 34 18 8 15 53.3 1 1 100.0 1 2 50.0 0 1 1 4 1 0 2 1 -11
+p792
+aVDickey Simpkins CHI 11/13/1999 CHI vs. BOS W 27 1 0 0 - 0 0 - 1 2 50.0 1 4 5 3 0 0 0 5 1
+p793
+aVHersey Hawkins CHI 11/13/1999 CHI vs. BOS W 35 14 5 12 41.7 2 4 50.0 2 2 100.0 1 6 7 3 1 0 3 1 -5
+p794
+aVFred Hoiberg CHI 11/13/1999 CHI vs. BOS W 36 19 6 10 60.0 2 4 50.0 5 6 83.3 0 7 7 4 2 1 2 2 15
+p795
+aVChris Anstey CHI 11/13/1999 CHI vs. BOS W 7 8 4 5 80.0 0 0 - 0 0 - 0 0 0 1 0 0 1 5 2
+p796
+aVWill Perdue CHI 11/12/1999 CHI @ PHI L 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 1 0 3 0 -7
+p797
+aVDedric Willoughby CHI 11/12/1999 CHI @ PHI L 19 4 1 10 10.0 0 3 0.0 2 2 100.0 0 4 4 3 1 0 1 1 9
+p798
+aVHersey Hawkins CHI 11/12/1999 CHI @ PHI L 37 30 11 16 68.8 3 4 75.0 5 5 100.0 0 2 2 7 4 0 2 5 -6
+p799
+aVMichael Ruffin CHI 11/12/1999 CHI @ PHI L 17 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 2 0 4 12
+p800
+aVDickey Simpkins CHI 11/12/1999 CHI @ PHI L 20 0 0 2 0.0 0 0 - 0 0 - 2 5 7 2 0 0 2 2 -7
+p801
+aVMetta World Peace CHI 11/12/1999 CHI @ PHI L 26 8 2 8 25.0 0 1 0.0 4 4 100.0 1 2 3 3 2 0 1 2 -8
+p802
+aVRandy Brown CHI 11/12/1999 CHI @ PHI L 29 9 4 10 40.0 1 2 50.0 0 0 - 0 0 0 4 1 1 3 4 -15
+p803
+aVChris Anstey CHI 11/12/1999 CHI @ PHI L 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 1 0 0 2 7
+p804
+aVElton Brand CHI 11/12/1999 CHI @ PHI L 33 13 6 10 60.0 0 0 - 1 2 50.0 2 4 6 0 1 3 7 3 -17
+p805
+aVFred Hoiberg CHI 11/12/1999 CHI @ PHI L 28 14 6 12 50.0 1 5 20.0 1 1 100.0 0 3 3 1 1 0 1 2 -5
+p806
+aVKornel David CHI 11/12/1999 CHI @ PHI L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 2 0 0 1 7
+p807
+aVToni Kukoc CHI 11/09/1999 CHI vs. PHX L 25 10 3 11 27.3 0 1 0.0 4 4 100.0 1 1 2 2 2 1 6 1 -19
+p808
+aVMetta World Peace CHI 11/09/1999 CHI vs. PHX L 23 6 2 8 25.0 0 1 0.0 2 2 100.0 2 1 3 3 2 0 2 3 -4
+p809
+aVDickey Simpkins CHI 11/09/1999 CHI vs. PHX L 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 2 -9
+p810
+aVMichael Ruffin CHI 11/09/1999 CHI vs. PHX L 16 4 2 2 100.0 0 0 - 0 2 0.0 2 3 5 0 2 1 2 2 -1
+p811
+aVKornel David CHI 11/09/1999 CHI vs. PHX L 10 7 2 2 100.0 0 0 - 3 7 42.9 0 0 0 0 1 1 1 1 -7
+p812
+aVRandy Brown CHI 11/09/1999 CHI vs. PHX L 24 10 5 9 55.6 0 0 - 0 0 - 1 3 4 2 1 0 4 3 -15
+p813
+aVHersey Hawkins CHI 11/09/1999 CHI vs. PHX L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 2 0 3 2 -12
+p814
+aVElton Brand CHI 11/09/1999 CHI vs. PHX L 24 11 4 11 36.4 0 0 - 3 3 100.0 4 2 6 1 1 0 2 3 -17
+p815
+aVWill Perdue CHI 11/09/1999 CHI vs. PHX L 20 6 2 7 28.6 0 0 - 2 4 50.0 3 4 7 0 0 0 0 2 -13
+p816
+aVFred Hoiberg CHI 11/09/1999 CHI vs. PHX L 32 8 3 10 30.0 1 2 50.0 1 4 25.0 0 4 4 4 2 0 3 3 -11
+p817
+aVChris Anstey CHI 11/09/1999 CHI vs. PHX L 10 7 1 5 20.0 0 0 - 5 6 83.3 0 1 1 0 1 0 1 0 1
+p818
+aVDedric Willoughby CHI 11/09/1999 CHI vs. PHX L 24 9 2 6 33.3 1 3 33.3 4 6 66.7 1 1 2 2 2 0 2 2 -8
+p819
+aVDedric Willoughby CHI 11/06/1999 CHI @ ATL L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 1 0 3 2 -1
+p820
+aVFred Hoiberg CHI 11/06/1999 CHI @ ATL L 20 10 3 7 42.9 1 1 100.0 3 3 100.0 0 3 3 0 0 0 0 3 -23
+p821
+aVElton Brand CHI 11/06/1999 CHI @ ATL L 33 21 8 15 53.3 0 0 - 5 8 62.5 9 3 12 1 0 0 3 4 -4
+p822
+aVKornel David CHI 11/06/1999 CHI @ ATL L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 1 0 0 1 9
+p823
+aVMichael Ruffin CHI 11/06/1999 CHI @ ATL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 8
+p824
+aVHersey Hawkins CHI 11/06/1999 CHI @ ATL L 21 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 1 0 1 0 0 0
+p825
+aVChris Anstey CHI 11/06/1999 CHI @ ATL L 14 10 4 5 80.0 0 0 - 2 2 100.0 2 1 3 0 1 1 0 3 -7
+p826
+aVMetta World Peace CHI 11/06/1999 CHI @ ATL L 18 13 3 6 50.0 1 2 50.0 6 6 100.0 1 0 1 1 0 0 2 3 -8
+p827
+aVWill Perdue CHI 11/06/1999 CHI @ ATL L 17 2 1 3 33.3 0 0 - 0 2 0.0 1 1 2 1 0 0 2 2 -2
+p828
+aVToni Kukoc CHI 11/06/1999 CHI @ ATL L 29 21 8 16 50.0 0 5 0.0 5 8 62.5 2 4 6 5 0 1 2 0 -10
+p829
+aVRandy Brown CHI 11/06/1999 CHI @ ATL L 32 10 5 13 38.5 0 0 - 0 0 - 1 1 2 1 3 2 1 2 -15
+p830
+aVDickey Simpkins CHI 11/06/1999 CHI @ ATL L 24 0 0 7 0.0 0 0 - 0 2 0.0 1 3 4 1 0 1 1 4 -27
+p831
+aVDickey Simpkins CHI 11/05/1999 CHI vs. MIA L 20 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 -16
+p832
+aVHersey Hawkins CHI 11/05/1999 CHI vs. MIA L 19 9 3 6 50.0 0 2 0.0 3 3 100.0 0 1 1 0 1 0 3 1 -22
+p833
+aVKornel David CHI 11/05/1999 CHI vs. MIA L 10 3 1 5 20.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 0
+p834
+aVFred Hoiberg CHI 11/05/1999 CHI vs. MIA L 27 11 4 8 50.0 1 3 33.3 2 2 100.0 1 3 4 7 0 0 1 1 -2
+p835
+aVElton Brand CHI 11/05/1999 CHI vs. MIA L 27 4 1 4 25.0 0 0 - 2 4 50.0 2 4 6 2 0 1 2 4 -19
+p836
+aVDedric Willoughby CHI 11/05/1999 CHI vs. MIA L 30 10 3 9 33.3 2 7 28.6 2 2 100.0 2 1 3 3 1 0 1 3 -6
+p837
+aVChris Anstey CHI 11/05/1999 CHI vs. MIA L 12 6 3 4 75.0 0 0 - 0 1 0.0 0 5 5 0 1 1 1 0 12
+p838
+aVRandy Brown CHI 11/05/1999 CHI vs. MIA L 21 4 2 10 20.0 0 0 - 0 0 - 1 2 3 2 2 0 2 4 -6
+p839
+aVMetta World Peace CHI 11/05/1999 CHI vs. MIA L 14 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 1 3 1 2 4 -2
+p840
+aVWill Perdue CHI 11/05/1999 CHI vs. MIA L 16 3 0 2 0.0 0 0 - 3 6 50.0 1 2 3 1 0 1 0 1 -14
+p841
+aVToni Kukoc CHI 11/05/1999 CHI vs. MIA L 30 25 8 15 53.3 3 5 60.0 6 6 100.0 2 3 5 6 4 0 5 3 -20
+p842
+aVMichael Ruffin CHI 11/05/1999 CHI vs. MIA L 16 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 3 0 5
+p843
+aVHersey Hawkins CHI 11/03/1999 CHI vs. NYK L 34 4 2 4 50.0 0 2 0.0 0 0 - 2 0 2 2 0 0 2 3 -9
+p844
+aVFred Hoiberg CHI 11/03/1999 CHI vs. NYK L 29 11 3 7 42.9 1 4 25.0 4 4 100.0 0 4 4 3 0 0 2 0 -4
+p845
+aVDickey Simpkins CHI 11/03/1999 CHI vs. NYK L 30 17 5 12 41.7 0 0 - 7 10 70.0 4 2 6 1 0 1 0 2 -13
+p846
+aVToni Kukoc CHI 11/03/1999 CHI vs. NYK L 38 9 1 14 7.1 0 2 0.0 7 8 87.5 1 2 3 2 1 2 1 2 -10
+p847
+aVKornel David CHI 11/03/1999 CHI vs. NYK L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 0 8
+p848
+aVRandy Brown CHI 11/03/1999 CHI vs. NYK L 36 2 1 5 20.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -5
+p849
+aVMetta World Peace CHI 11/03/1999 CHI vs. NYK L 17 14 5 11 45.5 2 3 66.7 2 6 33.3 3 1 4 1 1 1 1 3 0
+p850
+aVElton Brand CHI 11/03/1999 CHI vs. NYK L 35 14 3 11 27.3 0 0 - 8 10 80.0 5 3 8 1 1 2 2 2 -14
+p851
+aVMichael Ruffin CHI 11/03/1999 CHI vs. NYK L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -2
+p852
+aVWill Perdue CHI 11/03/1999 CHI vs. NYK L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 2 1 2 1 -1
+p853
+a.

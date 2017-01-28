@@ -1,0 +1,1720 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCarl Landry SAC 04/13/2010 SAC @ LAL L 34 10 4 9 44.4 1 1 100.0 1 4 25.0 0 4 4 2 1 1 3 3 0
+p2
+aVBeno Udrih SAC 04/13/2010 SAC @ LAL L 45 21 8 14 57.1 1 3 33.3 4 4 100.0 1 1 2 11 2 0 0 2 -7
+p3
+aVJon Brockman SAC 04/13/2010 SAC @ LAL L 12 6 3 5 60.0 0 0 - 0 0 - 2 0 2 1 0 0 0 3 7
+p4
+aVTyreke Evans SAC 04/13/2010 SAC @ LAL L 16 10 5 7 71.4 0 0 - 0 0 - 0 1 1 3 1 0 1 3 3
+p5
+aVJason Thompson SAC 04/13/2010 SAC @ LAL L 44 19 8 18 44.4 0 2 0.0 3 4 75.0 5 11 16 5 2 0 2 1 -8
+p6
+aVFrancisco Garcia SAC 04/13/2010 SAC @ LAL L 25 15 7 10 70.0 1 1 100.0 0 0 - 0 3 3 4 1 0 0 2 -2
+p7
+aVAndres Nocioni SAC 04/13/2010 SAC @ LAL L 17 8 3 7 42.9 2 4 50.0 0 0 - 1 1 2 0 3 1 3 2 7
+p8
+aVDonte Greene SAC 04/13/2010 SAC @ LAL L 22 7 3 9 33.3 0 3 0.0 1 2 50.0 2 2 4 0 0 1 0 1 -19
+p9
+aVOmri Casspi SAC 04/13/2010 SAC @ LAL L 25 4 2 11 18.2 0 2 0.0 0 0 - 4 3 7 1 0 0 3 4 -11
+p10
+aVJason Thompson SAC 04/12/2010 SAC vs. HOU L 37 6 3 8 37.5 0 1 0.0 0 0 - 0 10 10 4 0 1 1 2 5
+p11
+aVAndres Nocioni SAC 04/12/2010 SAC vs. HOU L 27 15 5 9 55.6 3 4 75.0 2 2 100.0 0 5 5 2 0 0 1 3 -2
+p12
+aVBeno Udrih SAC 04/12/2010 SAC vs. HOU L 35 16 6 11 54.5 0 1 0.0 4 4 100.0 0 2 2 6 2 0 2 3 -1
+p13
+aVJon Brockman SAC 04/12/2010 SAC vs. HOU L 4 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 -4
+p14
+aVIme Udoka SAC 04/12/2010 SAC vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p15
+aVTyreke Evans SAC 04/12/2010 SAC vs. HOU L 38 24 8 23 34.8 0 1 0.0 8 10 80.0 2 4 6 4 3 0 4 2 -4
+p16
+aVSean May SAC 04/12/2010 SAC vs. HOU L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p17
+aVCarl Landry SAC 04/12/2010 SAC vs. HOU L 39 19 8 15 53.3 0 1 0.0 3 4 75.0 3 2 5 0 3 1 3 3 -10
+p18
+aVFrancisco Garcia SAC 04/12/2010 SAC vs. HOU L 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -6
+p19
+aVDonte Greene SAC 04/12/2010 SAC vs. HOU L 23 16 6 11 54.5 2 3 66.7 2 3 66.7 1 3 4 0 1 0 2 3 -14
+p20
+aVOmri Casspi SAC 04/12/2010 SAC vs. HOU L 13 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 3 0 0 0 1 -10
+p21
+aVIme Udoka SAC 04/10/2010 SAC vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p22
+aVTyreke Evans SAC 04/10/2010 SAC vs. DAL L 42 27 10 21 47.6 0 2 0.0 7 8 87.5 2 6 8 6 2 1 4 3 -15
+p23
+aVSean May SAC 04/10/2010 SAC vs. DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p24
+aVCarl Landry SAC 04/10/2010 SAC vs. DAL L 42 30 10 16 62.5 0 0 - 10 12 83.3 3 3 6 0 0 0 1 4 -13
+p25
+aVJason Thompson SAC 04/10/2010 SAC vs. DAL L 36 12 5 10 50.0 0 0 - 2 2 100.0 5 2 7 0 0 0 5 4 -20
+p26
+aVAndres Nocioni SAC 04/10/2010 SAC vs. DAL L 14 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 2 0 0 1 2 -21
+p27
+aVFrancisco Garcia SAC 04/10/2010 SAC vs. DAL L 22 5 2 7 28.6 1 2 50.0 0 0 - 0 4 4 1 1 0 1 1 1
+p28
+aVBeno Udrih SAC 04/10/2010 SAC vs. DAL L 37 10 4 9 44.4 0 0 - 2 2 100.0 1 2 3 5 2 0 0 1 -25
+p29
+aVOmri Casspi SAC 04/10/2010 SAC vs. DAL L 26 15 5 11 45.5 2 2 100.0 3 5 60.0 0 6 6 0 2 0 1 2 2
+p30
+aVJon Brockman SAC 04/10/2010 SAC vs. DAL L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 2
+p31
+aVDonte Greene SAC 04/10/2010 SAC vs. DAL L 11 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 0 0 1 0 3 -9
+p32
+aVJason Thompson SAC 04/08/2010 SAC vs. LAC W 42 22 10 20 50.0 0 0 - 2 3 66.7 8 7 15 3 0 0 1 1 21
+p33
+aVJon Brockman SAC 04/08/2010 SAC vs. LAC W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 1 8
+p34
+aVTyreke Evans SAC 04/08/2010 SAC vs. LAC W 37 28 12 19 63.2 0 2 0.0 4 5 80.0 1 5 6 7 2 0 3 2 2
+p35
+aVAndres Nocioni SAC 04/08/2010 SAC vs. LAC W 21 9 4 9 44.4 1 3 33.3 0 0 - 0 2 2 1 0 1 1 0 6
+p36
+aVDonte Greene SAC 04/08/2010 SAC vs. LAC W 11 8 4 4 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 13
+p37
+aVOmri Casspi SAC 04/08/2010 SAC vs. LAC W 18 11 4 6 66.7 1 2 50.0 2 2 100.0 0 4 4 1 0 0 0 0 3
+p38
+aVSean May SAC 04/08/2010 SAC vs. LAC W 6 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 3 1
+p39
+aVCarl Landry SAC 04/08/2010 SAC vs. LAC W 37 14 5 14 35.7 0 0 - 4 5 80.0 3 7 10 2 0 1 0 1 14
+p40
+aVBeno Udrih SAC 04/08/2010 SAC vs. LAC W 33 12 6 10 60.0 0 1 0.0 0 0 - 0 2 2 4 3 0 1 3 20
+p41
+aVFrancisco Garcia SAC 04/08/2010 SAC vs. LAC W 27 12 5 6 83.3 2 2 100.0 0 0 - 1 4 5 2 0 1 0 2 22
+p42
+aVDonte Greene SAC 04/06/2010 SAC vs. SAS L 25 12 5 10 50.0 2 5 40.0 0 0 - 0 2 2 0 1 1 0 1 -7
+p43
+aVJon Brockman SAC 04/06/2010 SAC vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p44
+aVCarl Landry SAC 04/06/2010 SAC vs. SAS L 39 20 9 17 52.9 0 0 - 2 5 40.0 1 1 2 0 3 1 2 3 -6
+p45
+aVJason Thompson SAC 04/06/2010 SAC vs. SAS L 34 7 3 8 37.5 1 1 100.0 0 0 - 3 5 8 2 0 1 1 3 -3
+p46
+aVSean May SAC 04/06/2010 SAC vs. SAS L 14 10 5 6 83.3 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -4
+p47
+aVBeno Udrih SAC 04/06/2010 SAC vs. SAS L 34 11 2 7 28.6 0 1 0.0 7 9 77.8 1 2 3 5 0 0 1 1 -16
+p48
+aVTyreke Evans SAC 04/06/2010 SAC vs. SAS L 43 22 10 24 41.7 1 2 50.0 1 2 50.0 1 8 9 6 0 0 4 5 -16
+p49
+aVFrancisco Garcia SAC 04/06/2010 SAC vs. SAS L 19 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 1 0 0 1 14
+p50
+aVOmri Casspi SAC 04/06/2010 SAC vs. SAS L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 0 6
+p51
+aVAndres Nocioni SAC 04/06/2010 SAC vs. SAS L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 -11
+p52
+aVJason Thompson SAC 04/03/2010 SAC vs. POR L 33 18 9 12 75.0 0 0 - 0 2 0.0 1 3 4 1 1 4 1 4 -8
+p53
+aVDonte Greene SAC 04/03/2010 SAC vs. POR L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 3 -4
+p54
+aVIme Udoka SAC 04/03/2010 SAC vs. POR L 16 0 0 1 0.0 0 0 - 0 0 - 1 4 5 1 0 0 1 3 8
+p55
+aVSean May SAC 04/03/2010 SAC vs. POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p56
+aVOmri Casspi SAC 04/03/2010 SAC vs. POR L 27 13 5 9 55.6 1 5 20.0 2 3 66.7 0 4 4 1 0 0 2 2 -5
+p57
+aVBeno Udrih SAC 04/03/2010 SAC vs. POR L 41 22 10 16 62.5 1 3 33.3 1 2 50.0 1 6 7 6 3 1 4 2 -12
+p58
+aVJon Brockman SAC 04/03/2010 SAC vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p59
+aVCarl Landry SAC 04/03/2010 SAC vs. POR L 39 14 5 11 45.5 0 0 - 4 6 66.7 6 3 9 1 0 0 2 3 -20
+p60
+aVTyreke Evans SAC 04/03/2010 SAC vs. POR L 34 6 2 12 16.7 1 3 33.3 1 3 33.3 2 3 5 6 1 0 4 3 -18
+p61
+aVAndres Nocioni SAC 04/03/2010 SAC vs. POR L 30 12 3 9 33.3 2 4 50.0 4 4 100.0 0 4 4 2 0 0 0 3 3
+p62
+aVJason Thompson SAC 03/31/2010 SAC @ MIN L 37 15 7 10 70.0 0 0 - 1 1 100.0 2 5 7 0 0 0 3 2 -14
+p63
+aVJon Brockman SAC 03/31/2010 SAC @ MIN L 13 2 1 1 100.0 0 0 - 0 1 0.0 0 2 2 1 0 0 0 1 -5
+p64
+aVTyreke Evans SAC 03/31/2010 SAC @ MIN L 39 20 7 19 36.8 1 2 50.0 5 7 71.4 3 4 7 13 3 0 1 2 -3
+p65
+aVAndres Nocioni SAC 03/31/2010 SAC @ MIN L 33 13 5 10 50.0 3 4 75.0 0 1 0.0 0 2 2 2 1 0 1 1 -17
+p66
+aVCarl Landry SAC 03/31/2010 SAC @ MIN L 43 22 10 24 41.7 0 0 - 2 3 66.7 3 4 7 1 3 1 2 4 -2
+p67
+aVBeno Udrih SAC 03/31/2010 SAC @ MIN L 37 6 3 10 30.0 0 2 0.0 0 0 - 1 3 4 9 1 0 1 2 -11
+p68
+aVDonte Greene SAC 03/31/2010 SAC @ MIN L 30 21 8 13 61.5 5 6 83.3 0 2 0.0 1 2 3 0 2 0 1 1 6
+p69
+aVIme Udoka SAC 03/31/2010 SAC @ MIN L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p70
+aVIme Udoka SAC 03/30/2010 SAC @ IND L 24 5 2 7 28.6 1 3 33.3 0 0 - 2 1 3 2 0 0 0 0 7
+p71
+aVSpencer Hawes SAC 03/30/2010 SAC @ IND L 21 4 2 7 28.6 0 0 - 0 0 - 1 6 7 1 1 1 1 2 -2
+p72
+aVBeno Udrih SAC 03/30/2010 SAC @ IND L 39 18 8 17 47.1 0 4 0.0 2 3 66.7 1 2 3 4 2 0 1 2 -18
+p73
+aVDonte Greene SAC 03/30/2010 SAC @ IND L 18 5 2 6 33.3 1 1 100.0 0 0 - 1 1 2 0 0 1 1 3 -5
+p74
+aVTyreke Evans SAC 03/30/2010 SAC @ IND L 39 17 6 13 46.2 1 2 50.0 4 4 100.0 0 7 7 10 4 0 7 3 -9
+p75
+aVCarl Landry SAC 03/30/2010 SAC @ IND L 33 17 8 15 53.3 0 0 - 1 2 50.0 4 6 10 1 1 0 2 3 -14
+p76
+aVAndres Nocioni SAC 03/30/2010 SAC @ IND L 25 9 4 12 33.3 1 2 50.0 0 0 - 1 2 3 0 0 0 2 3 4
+p77
+aVJason Thompson SAC 03/30/2010 SAC @ IND L 32 18 6 14 42.9 0 0 - 6 6 100.0 4 7 11 1 0 0 1 4 -1
+p78
+aVJon Brockman SAC 03/30/2010 SAC @ IND L 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 3
+p79
+aVCarl Landry SAC 03/28/2010 SAC @ CLE L 39 17 8 17 47.1 0 0 - 1 2 50.0 3 3 6 2 0 1 5 1 -7
+p80
+aVDominic McGuire SAC 03/28/2010 SAC @ CLE L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -6
+p81
+aVAndres Nocioni SAC 03/28/2010 SAC @ CLE L 40 21 8 17 47.1 5 7 71.4 0 0 - 1 4 5 3 1 0 2 3 -1
+p82
+aVBeno Udrih SAC 03/28/2010 SAC @ CLE L 48 18 6 17 35.3 0 1 0.0 6 6 100.0 1 9 10 15 2 0 4 2 -7
+p83
+aVOmri Casspi SAC 03/28/2010 SAC @ CLE L 22 13 5 9 55.6 1 1 100.0 2 4 50.0 0 1 1 0 0 0 0 1 2
+p84
+aVJason Thompson SAC 03/28/2010 SAC @ CLE L 48 16 6 11 54.5 0 0 - 4 4 100.0 4 10 14 1 2 1 1 3 -7
+p85
+aVDonte Greene SAC 03/28/2010 SAC @ CLE L 27 3 0 4 0.0 0 2 0.0 3 4 75.0 1 2 3 1 0 0 1 4 -6
+p86
+aVIme Udoka SAC 03/28/2010 SAC @ CLE L 11 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 2 0 0 2 -3
+p87
+aVSpencer Hawes SAC 03/26/2010 SAC @ BOS L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 2 -8
+p88
+aVDonte Greene SAC 03/26/2010 SAC @ BOS L 42 8 4 12 33.3 0 2 0.0 0 0 - 0 9 9 1 0 0 0 1 -5
+p89
+aVJoey Dorsey SAC 03/26/2010 SAC @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p90
+aVDominic McGuire SAC 03/26/2010 SAC @ BOS L 21 4 2 4 50.0 0 0 - 0 2 0.0 0 6 6 1 0 0 1 0 -12
+p91
+aVBeno Udrih SAC 03/26/2010 SAC @ BOS L 42 16 6 15 40.0 1 4 25.0 3 3 100.0 0 3 3 12 5 0 4 3 -4
+p92
+aVCarl Landry SAC 03/26/2010 SAC @ BOS L 42 30 10 16 62.5 0 0 - 10 12 83.3 3 5 8 2 0 1 4 4 -15
+p93
+aVFrancisco Garcia SAC 03/26/2010 SAC @ BOS L 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -4
+p94
+aVOmri Casspi SAC 03/26/2010 SAC @ BOS L 9 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 0 1 -5
+p95
+aVSean May SAC 03/26/2010 SAC @ BOS L 22 9 3 4 75.0 0 0 - 3 4 75.0 1 4 5 0 0 2 2 1 9
+p96
+aVAndres Nocioni SAC 03/26/2010 SAC @ BOS L 11 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 1 1 0 1 1 -7
+p97
+aVJason Thompson SAC 03/26/2010 SAC @ BOS L 20 12 4 7 57.1 0 0 - 4 6 66.7 3 2 5 1 0 1 2 6 -3
+p98
+aVIme Udoka SAC 03/26/2010 SAC @ BOS L 16 4 1 2 50.0 0 1 0.0 2 2 100.0 0 6 6 1 0 0 0 3 14
+p99
+aVDominic McGuire SAC 03/24/2010 SAC @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p100
+aVFrancisco Garcia SAC 03/24/2010 SAC @ NJN L 28 10 4 11 36.4 1 2 50.0 1 1 100.0 0 3 3 1 0 2 2 2 -22
+p101
+aVSean May SAC 03/24/2010 SAC @ NJN L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p102
+aVOmri Casspi SAC 03/24/2010 SAC @ NJN L 16 2 1 8 12.5 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 0
+p103
+aVBeno Udrih SAC 03/24/2010 SAC @ NJN L 40 19 8 13 61.5 3 3 100.0 0 0 - 0 8 8 5 1 0 4 4 -12
+p104
+aVJason Thompson SAC 03/24/2010 SAC @ NJN L 24 8 2 6 33.3 0 0 - 4 6 66.7 3 8 11 1 3 0 0 3 -4
+p105
+aVCarl Landry SAC 03/24/2010 SAC @ NJN L 33 11 4 13 30.8 0 1 0.0 3 4 75.0 2 1 3 1 0 1 0 4 -15
+p106
+aVDonte Greene SAC 03/24/2010 SAC @ NJN L 35 14 4 9 44.4 1 3 33.3 5 7 71.4 2 8 10 1 1 0 1 2 -12
+p107
+aVIme Udoka SAC 03/24/2010 SAC @ NJN L 15 1 0 2 0.0 0 1 0.0 1 2 50.0 1 3 4 0 0 0 2 2 7
+p108
+aVAndres Nocioni SAC 03/24/2010 SAC @ NJN L 11 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p109
+aVSpencer Hawes SAC 03/24/2010 SAC @ NJN L 34 12 5 13 38.5 0 1 0.0 2 2 100.0 5 2 7 6 1 2 4 2 -8
+p110
+aVOmri Casspi SAC 03/22/2010 SAC vs. MEM L 19 7 3 9 33.3 1 2 50.0 0 0 - 0 4 4 0 1 0 1 1 4
+p111
+aVAndres Nocioni SAC 03/22/2010 SAC vs. MEM L 11 3 1 7 14.3 1 5 20.0 0 0 - 0 2 2 0 0 0 0 2 -9
+p112
+aVIme Udoka SAC 03/22/2010 SAC vs. MEM L 19 4 1 6 16.7 0 1 0.0 2 2 100.0 3 2 5 1 0 0 0 0 10
+p113
+aVSpencer Hawes SAC 03/22/2010 SAC vs. MEM L 30 13 6 14 42.9 0 1 0.0 1 3 33.3 1 3 4 3 1 3 1 4 -23
+p114
+aVBeno Udrih SAC 03/22/2010 SAC vs. MEM L 44 18 9 15 60.0 0 2 0.0 0 0 - 1 6 7 10 2 0 5 0 -17
+p115
+aVCarl Landry SAC 03/22/2010 SAC vs. MEM L 36 23 9 13 69.2 0 0 - 5 7 71.4 2 3 5 1 0 1 2 4 -11
+p116
+aVDonte Greene SAC 03/22/2010 SAC vs. MEM L 12 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 0 1 4 -15
+p117
+aVJason Thompson SAC 03/22/2010 SAC vs. MEM L 17 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 5 11
+p118
+aVDominic McGuire SAC 03/22/2010 SAC vs. MEM L 10 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 0 -4
+p119
+aVFrancisco Garcia SAC 03/22/2010 SAC vs. MEM L 36 7 3 12 25.0 1 4 25.0 0 0 - 1 4 5 3 2 3 4 1 -29
+p120
+aVSean May SAC 03/22/2010 SAC vs. MEM L 6 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -2
+p121
+aVJason Thompson SAC 03/21/2010 SAC @ LAC W 23 6 2 7 28.6 0 1 0.0 2 4 50.0 2 4 6 3 0 2 1 1 -1
+p122
+aVCarl Landry SAC 03/21/2010 SAC @ LAC W 37 24 11 14 78.6 0 0 - 2 4 50.0 1 5 6 0 1 2 3 4 14
+p123
+aVOmri Casspi SAC 03/21/2010 SAC @ LAC W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 -4
+p124
+aVAndres Nocioni SAC 03/21/2010 SAC @ LAC W 18 10 3 6 50.0 2 3 66.7 2 2 100.0 0 5 5 0 1 0 1 4 1
+p125
+aVBeno Udrih SAC 03/21/2010 SAC @ LAC W 39 20 8 17 47.1 1 3 33.3 3 4 75.0 1 3 4 17 2 0 1 3 18
+p126
+aVIme Udoka SAC 03/21/2010 SAC @ LAC W 14 2 1 5 20.0 0 0 - 0 0 - 1 5 6 2 0 0 1 0 -2
+p127
+aVSean May SAC 03/21/2010 SAC @ LAC W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p128
+aVSpencer Hawes SAC 03/21/2010 SAC @ LAC W 33 13 5 12 41.7 0 1 0.0 3 5 60.0 3 7 10 2 0 3 3 5 19
+p129
+aVDonte Greene SAC 03/21/2010 SAC @ LAC W 25 9 4 7 57.1 1 1 100.0 0 0 - 0 1 1 2 1 0 1 1 9
+p130
+aVFrancisco Garcia SAC 03/21/2010 SAC @ LAC W 37 16 7 13 53.8 2 6 33.3 0 0 - 0 3 3 4 1 1 3 1 14
+p131
+aVTyreke Evans SAC 03/19/2010 SAC vs. MIL L 39 15 4 8 50.0 0 1 0.0 7 10 70.0 0 4 4 4 2 0 8 3 -12
+p132
+aVSpencer Hawes SAC 03/19/2010 SAC vs. MIL L 35 16 7 15 46.7 2 4 50.0 0 0 - 2 6 8 6 0 2 4 4 -2
+p133
+aVJason Thompson SAC 03/19/2010 SAC vs. MIL L 28 9 2 4 50.0 0 0 - 5 6 83.3 0 3 3 1 0 0 0 1 0
+p134
+aVDonte Greene SAC 03/19/2010 SAC vs. MIL L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 -1
+p135
+aVOmri Casspi SAC 03/19/2010 SAC vs. MIL L 7 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 7
+p136
+aVBeno Udrih SAC 03/19/2010 SAC vs. MIL L 45 26 11 24 45.8 2 3 66.7 2 4 50.0 1 2 3 9 4 0 2 0 -6
+p137
+aVCarl Landry SAC 03/19/2010 SAC vs. MIL L 40 16 6 10 60.0 0 0 - 4 4 100.0 1 1 2 1 0 0 0 6 -6
+p138
+aVIme Udoka SAC 03/19/2010 SAC vs. MIL L 32 7 2 5 40.0 1 3 33.3 2 2 100.0 3 10 13 0 2 0 2 2 -9
+p139
+aVAndres Nocioni SAC 03/19/2010 SAC vs. MIL L 12 5 2 7 28.6 0 2 0.0 1 2 50.0 1 2 3 1 0 0 2 2 -3
+p140
+aVFrancisco Garcia SAC 03/19/2010 SAC vs. MIL L 31 10 4 11 36.4 0 3 0.0 2 2 100.0 2 3 5 1 0 1 0 4 0
+p141
+aVDominic McGuire SAC 03/19/2010 SAC vs. MIL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p142
+aVTyreke Evans SAC 03/16/2010 SAC vs. LAL L 42 25 7 19 36.8 1 5 20.0 10 14 71.4 2 9 11 9 0 0 1 3 -13
+p143
+aVOmri Casspi SAC 03/16/2010 SAC vs. LAL L 18 10 4 8 50.0 2 3 66.7 0 0 - 1 1 2 0 0 0 0 1 9
+p144
+aVCarl Landry SAC 03/16/2010 SAC vs. LAL L 37 15 7 15 46.7 0 0 - 1 2 50.0 5 5 10 1 0 0 1 4 -18
+p145
+aVDonte Greene SAC 03/16/2010 SAC vs. LAL L 20 3 0 3 0.0 0 2 0.0 3 4 75.0 0 1 1 2 0 1 2 1 -5
+p146
+aVJason Thompson SAC 03/16/2010 SAC vs. LAL L 25 14 5 8 62.5 0 0 - 4 6 66.7 1 9 10 1 1 2 1 5 4
+p147
+aVFrancisco Garcia SAC 03/16/2010 SAC vs. LAL L 21 6 2 6 33.3 2 5 40.0 0 0 - 0 2 2 0 0 1 2 3 1
+p148
+aVBeno Udrih SAC 03/16/2010 SAC vs. LAL L 32 4 2 7 28.6 0 3 0.0 0 0 - 0 2 2 8 1 0 1 4 -4
+p149
+aVSpencer Hawes SAC 03/16/2010 SAC vs. LAL L 23 13 6 10 60.0 1 2 50.0 0 0 - 2 1 3 1 2 5 1 3 -11
+p150
+aVAndres Nocioni SAC 03/16/2010 SAC vs. LAL L 22 9 3 8 37.5 1 2 50.0 2 2 100.0 0 2 2 0 0 0 0 1 2
+p151
+aVJoey Dorsey SAC 03/14/2010 SAC vs. MIN W 3 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -8
+p152
+aVOmri Casspi SAC 03/14/2010 SAC vs. MIN W 19 9 4 8 50.0 1 1 100.0 0 0 - 2 3 5 3 1 0 2 2 -14
+p153
+aVJason Thompson SAC 03/14/2010 SAC vs. MIN W 23 15 6 7 85.7 0 0 - 3 6 50.0 1 7 8 1 1 2 2 3 -6
+p154
+aVCarl Landry SAC 03/14/2010 SAC vs. MIN W 29 13 5 13 38.5 0 0 - 3 3 100.0 1 5 6 0 1 1 1 2 28
+p155
+aVTyreke Evans SAC 03/14/2010 SAC vs. MIN W 39 29 10 19 52.6 2 5 40.0 7 7 100.0 1 8 9 11 2 0 2 2 25
+p156
+aVAndres Nocioni SAC 03/14/2010 SAC vs. MIN W 22 12 5 11 45.5 2 6 33.3 0 0 - 2 4 6 0 0 0 0 3 8
+p157
+aVBeno Udrih SAC 03/14/2010 SAC vs. MIN W 27 2 1 8 12.5 0 4 0.0 0 0 - 0 1 1 1 1 0 2 2 7
+p158
+aVFrancisco Garcia SAC 03/14/2010 SAC vs. MIN W 24 4 2 7 28.6 0 4 0.0 0 0 - 0 1 1 2 0 2 1 1 3
+p159
+aVSpencer Hawes SAC 03/14/2010 SAC vs. MIN W 23 8 4 9 44.4 0 1 0.0 0 1 0.0 3 5 8 1 0 2 1 2 25
+p160
+aVDonte Greene SAC 03/14/2010 SAC vs. MIN W 30 19 8 11 72.7 1 3 33.3 2 2 100.0 2 6 8 3 0 1 1 3 7
+p161
+aVIme Udoka SAC 03/14/2010 SAC vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p162
+aVSean May SAC 03/14/2010 SAC vs. MIN W 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p163
+aVTyreke Evans SAC 03/12/2010 SAC vs. POR L 38 10 4 12 33.3 0 2 0.0 2 2 100.0 0 10 10 4 0 0 5 4 -19
+p164
+aVDonte Greene SAC 03/12/2010 SAC vs. POR L 17 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 0 0 1 0 3 -7
+p165
+aVCarl Landry SAC 03/12/2010 SAC vs. POR L 42 18 8 15 53.3 0 0 - 2 6 33.3 2 4 6 2 2 1 3 3 -21
+p166
+aVGarrett Temple SAC 03/12/2010 SAC vs. POR L 6 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 1 1 2
+p167
+aVIme Udoka SAC 03/12/2010 SAC vs. POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p168
+aVSpencer Hawes SAC 03/12/2010 SAC vs. POR L 17 4 2 5 40.0 0 0 - 0 0 - 3 2 5 1 0 1 4 2 -15
+p169
+aVBeno Udrih SAC 03/12/2010 SAC vs. POR L 30 13 6 10 60.0 1 1 100.0 0 0 - 0 1 1 6 1 0 1 2 -7
+p170
+aVSean May SAC 03/12/2010 SAC vs. POR L 14 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 5
+p171
+aVFrancisco Garcia SAC 03/12/2010 SAC vs. POR L 30 17 6 9 66.7 3 4 75.0 2 3 66.7 1 1 2 2 2 1 1 3 -5
+p172
+aVOmri Casspi SAC 03/12/2010 SAC vs. POR L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 -8
+p173
+aVJason Thompson SAC 03/12/2010 SAC vs. POR L 26 15 6 9 66.7 0 0 - 3 5 60.0 1 1 2 2 0 0 2 5 -1
+p174
+aVSean May SAC 03/10/2010 SAC vs. TOR W 14 3 1 6 16.7 0 0 - 1 2 50.0 2 0 2 2 3 0 0 0 2
+p175
+aVOmri Casspi SAC 03/10/2010 SAC vs. TOR W 23 8 3 10 30.0 0 3 0.0 2 2 100.0 2 4 6 1 1 0 1 0 10
+p176
+aVDonte Greene SAC 03/10/2010 SAC vs. TOR W 25 15 6 11 54.5 2 4 50.0 1 2 50.0 2 4 6 2 1 1 0 2 13
+p177
+aVTyreke Evans SAC 03/10/2010 SAC vs. TOR W 36 19 7 15 46.7 0 2 0.0 5 7 71.4 1 9 10 10 0 0 2 2 19
+p178
+aVFrancisco Garcia SAC 03/10/2010 SAC vs. TOR W 23 12 5 5 100.0 0 0 - 2 2 100.0 0 5 5 1 0 1 2 2 9
+p179
+aVGarrett Temple SAC 03/10/2010 SAC vs. TOR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p180
+aVCarl Landry SAC 03/10/2010 SAC vs. TOR W 35 15 7 14 50.0 0 0 - 1 2 50.0 2 4 6 0 0 1 1 3 22
+p181
+aVBeno Udrih SAC 03/10/2010 SAC vs. TOR W 35 24 10 14 71.4 2 2 100.0 2 2 100.0 0 4 4 8 0 0 2 2 20
+p182
+aVSpencer Hawes SAC 03/10/2010 SAC vs. TOR W 23 7 3 8 37.5 0 0 - 1 1 100.0 2 6 8 2 0 0 1 1 10
+p183
+aVJason Thompson SAC 03/10/2010 SAC vs. TOR W 25 10 5 9 55.6 0 0 - 0 0 - 3 2 5 1 2 0 1 2 12
+p184
+aVTyreke Evans SAC 03/09/2010 SAC @ POR L 43 18 8 19 42.1 0 1 0.0 2 3 66.7 1 5 6 6 1 0 1 2 -12
+p185
+aVCarl Landry SAC 03/09/2010 SAC @ POR L 39 17 7 12 58.3 0 0 - 3 4 75.0 4 4 8 0 1 0 1 1 -14
+p186
+aVFrancisco Garcia SAC 03/09/2010 SAC @ POR L 28 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 2 0 1 0 2 -6
+p187
+aVSean May SAC 03/09/2010 SAC @ POR L 7 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 8
+p188
+aVOmri Casspi SAC 03/09/2010 SAC @ POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p189
+aVSpencer Hawes SAC 03/09/2010 SAC @ POR L 34 7 3 8 37.5 0 1 0.0 1 2 50.0 3 6 9 4 0 2 3 2 -8
+p190
+aVDominic McGuire SAC 03/09/2010 SAC @ POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p191
+aVJason Thompson SAC 03/09/2010 SAC @ POR L 13 4 2 4 50.0 0 0 - 0 1 0.0 0 2 2 0 0 0 3 3 2
+p192
+aVBeno Udrih SAC 03/09/2010 SAC @ POR L 29 13 6 10 60.0 1 3 33.3 0 0 - 0 3 3 3 1 0 1 4 1
+p193
+aVDonte Greene SAC 03/09/2010 SAC @ POR L 18 3 1 8 12.5 0 2 0.0 1 2 50.0 2 4 6 3 2 2 1 0 13
+p194
+aVGarrett Temple SAC 03/09/2010 SAC @ POR L 7 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 0 0 0 1 0 -9
+p195
+aVAndres Nocioni SAC 03/09/2010 SAC @ POR L 15 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 1 1 0 1 2 -3
+p196
+aVIme Udoka SAC 03/07/2010 SAC vs. OKC L 11 3 1 2 50.0 0 0 - 1 1 100.0 1 4 5 1 0 0 1 2 9
+p197
+aVFrancisco Garcia SAC 03/07/2010 SAC vs. OKC L 27 14 6 10 60.0 2 3 66.7 0 0 - 0 3 3 3 0 0 0 3 -5
+p198
+aVSpencer Hawes SAC 03/07/2010 SAC vs. OKC L 24 4 2 6 33.3 0 0 - 0 2 0.0 1 1 2 4 0 2 0 2 -15
+p199
+aVBeno Udrih SAC 03/07/2010 SAC vs. OKC L 35 10 3 8 37.5 1 2 50.0 3 3 100.0 1 0 1 5 1 0 2 0 -3
+p200
+aVDonte Greene SAC 03/07/2010 SAC vs. OKC L 19 8 3 7 42.9 0 0 - 2 3 66.7 0 1 1 0 0 0 0 3 -5
+p201
+aVTyreke Evans SAC 03/07/2010 SAC vs. OKC L 40 24 9 16 56.3 2 3 66.7 4 7 57.1 0 4 4 7 3 0 2 1 -8
+p202
+aVDominic McGuire SAC 03/07/2010 SAC vs. OKC L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p203
+aVAndres Nocioni SAC 03/07/2010 SAC vs. OKC L 12 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 0 1 0 2 3 -4
+p204
+aVCarl Landry SAC 03/07/2010 SAC vs. OKC L 41 20 9 13 69.2 0 0 - 2 5 40.0 2 6 8 0 2 1 1 4 1
+p205
+aVJason Thompson SAC 03/07/2010 SAC vs. OKC L 30 11 5 12 41.7 0 0 - 1 1 100.0 3 5 8 1 0 0 2 4 4
+p206
+aVIme Udoka SAC 03/05/2010 SAC @ DAL L 16 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 0 0 0 1 0 -5
+p207
+aVTyreke Evans SAC 03/05/2010 SAC @ DAL L 38 20 9 15 60.0 1 2 50.0 1 4 25.0 0 1 1 6 1 0 6 3 -10
+p208
+aVAndres Nocioni SAC 03/05/2010 SAC @ DAL L 26 15 6 11 54.5 2 4 50.0 1 3 33.3 1 5 6 1 1 0 0 6 9
+p209
+aVBeno Udrih SAC 03/05/2010 SAC @ DAL L 38 20 7 13 53.8 4 6 66.7 2 2 100.0 1 2 3 6 1 0 2 3 -12
+p210
+aVSean May SAC 03/05/2010 SAC @ DAL L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 3
+p211
+aVSpencer Hawes SAC 03/05/2010 SAC @ DAL L 20 7 3 7 42.9 0 0 - 1 2 50.0 3 6 9 1 0 0 2 3 -13
+p212
+aVOmri Casspi SAC 03/05/2010 SAC @ DAL L 16 4 2 5 40.0 0 0 - 0 0 - 3 2 5 0 0 0 2 0 -3
+p213
+aVDonte Greene SAC 03/05/2010 SAC @ DAL L 8 3 1 6 16.7 1 2 50.0 0 0 - 1 1 2 1 1 0 0 0 4
+p214
+aVCarl Landry SAC 03/05/2010 SAC @ DAL L 37 21 7 12 58.3 0 0 - 7 7 100.0 3 5 8 1 0 0 3 2 -22
+p215
+aVFrancisco Garcia SAC 03/05/2010 SAC @ DAL L 25 2 0 4 0.0 0 2 0.0 2 2 100.0 1 3 4 2 1 1 0 2 4
+p216
+aVGarrett Temple SAC 03/05/2010 SAC @ DAL L 8 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 0 5
+p217
+aVGarrett Temple SAC 03/03/2010 SAC @ HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p218
+aVFrancisco Garcia SAC 03/03/2010 SAC @ HOU W 29 10 4 7 57.1 1 2 50.0 1 1 100.0 1 1 2 3 0 0 1 0 -5
+p219
+aVIme Udoka SAC 03/03/2010 SAC @ HOU W 22 8 3 12 25.0 2 4 50.0 0 0 - 5 3 8 2 1 1 0 1 -1
+p220
+aVTyreke Evans SAC 03/03/2010 SAC @ HOU W 34 9 4 22 18.2 0 4 0.0 1 3 33.3 1 7 8 5 1 1 1 5 8
+p221
+aVJoey Dorsey SAC 03/03/2010 SAC @ HOU W 14 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 0 0 1 1 3 0
+p222
+aVSean May SAC 03/03/2010 SAC @ HOU W 9 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 1 0 1 1 -2
+p223
+aVOmri Casspi SAC 03/03/2010 SAC @ HOU W 18 11 4 10 40.0 0 0 - 3 4 75.0 3 2 5 0 0 0 1 2 -2
+p224
+aVBeno Udrih SAC 03/03/2010 SAC @ HOU W 38 13 5 15 33.3 1 1 100.0 2 2 100.0 3 1 4 3 1 0 0 2 3
+p225
+aVDonte Greene SAC 03/03/2010 SAC @ HOU W 10 2 1 6 16.7 0 1 0.0 0 0 - 2 0 2 1 0 0 1 0 0
+p226
+aVSpencer Hawes SAC 03/03/2010 SAC @ HOU W 28 4 2 10 20.0 0 1 0.0 0 0 - 4 6 10 1 0 0 1 5 4
+p227
+aVCarl Landry SAC 03/03/2010 SAC @ HOU W 38 22 7 13 53.8 0 0 - 8 8 100.0 5 5 10 1 2 1 1 3 7
+p228
+aVFrancisco Garcia SAC 03/02/2010 SAC @ OKC L 29 13 5 9 55.6 3 7 42.9 0 0 - 0 3 3 2 0 0 0 5 1
+p229
+aVSean May SAC 03/02/2010 SAC @ OKC L 16 9 4 8 50.0 0 0 - 1 1 100.0 1 1 2 3 0 1 1 1 10
+p230
+aVJoey Dorsey SAC 03/02/2010 SAC @ OKC L 7 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 6
+p231
+aVIme Udoka SAC 03/02/2010 SAC @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p232
+aVBeno Udrih SAC 03/02/2010 SAC @ OKC L 36 13 6 9 66.7 0 1 0.0 1 1 100.0 0 5 5 4 0 0 2 2 -8
+p233
+aVCarl Landry SAC 03/02/2010 SAC @ OKC L 35 17 7 12 58.3 0 0 - 3 3 100.0 2 5 7 0 2 0 1 5 -9
+p234
+aVDominic McGuire SAC 03/02/2010 SAC @ OKC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p235
+aVOmri Casspi SAC 03/02/2010 SAC @ OKC L 19 8 4 7 57.1 0 0 - 0 0 - 2 0 2 2 2 0 0 2 -10
+p236
+aVSpencer Hawes SAC 03/02/2010 SAC @ OKC L 32 8 4 9 44.4 0 4 0.0 0 0 - 1 2 3 3 0 1 2 3 -12
+p237
+aVTyreke Evans SAC 03/02/2010 SAC @ OKC L 39 27 7 17 41.2 0 1 0.0 13 17 76.5 1 5 6 5 2 0 4 6 -3
+p238
+aVDonte Greene SAC 03/02/2010 SAC @ OKC L 25 8 2 3 66.7 2 3 66.7 2 2 100.0 0 2 2 2 0 1 3 3 2
+p239
+aVIme Udoka SAC 02/28/2010 SAC vs. LAC W 20 3 1 2 50.0 1 2 50.0 0 0 - 1 4 5 1 2 0 0 1 -6
+p240
+aVTyreke Evans SAC 02/28/2010 SAC vs. LAC W 37 22 9 21 42.9 0 0 - 4 8 50.0 1 4 5 3 1 0 1 3 -4
+p241
+aVSean May SAC 02/28/2010 SAC vs. LAC W 7 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 4 -2
+p242
+aVDonte Greene SAC 02/28/2010 SAC vs. LAC W 6 7 3 4 75.0 1 1 100.0 0 0 - 1 0 1 0 0 1 0 1 -1
+p243
+aVCarl Landry SAC 02/28/2010 SAC vs. LAC W 41 18 6 13 46.2 0 0 - 6 8 75.0 2 6 8 2 1 0 1 4 4
+p244
+aVOmri Casspi SAC 02/28/2010 SAC vs. LAC W 29 12 4 11 36.4 1 4 25.0 3 4 75.0 4 2 6 1 2 0 2 1 3
+p245
+aVJoey Dorsey SAC 02/28/2010 SAC vs. LAC W 4 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 4
+p246
+aVSpencer Hawes SAC 02/28/2010 SAC vs. LAC W 41 16 8 16 50.0 0 1 0.0 0 0 - 0 9 9 2 1 2 1 3 5
+p247
+aVFrancisco Garcia SAC 02/28/2010 SAC vs. LAC W 18 7 3 8 37.5 1 4 25.0 0 0 - 0 2 2 2 0 1 1 3 9
+p248
+aVBeno Udrih SAC 02/28/2010 SAC vs. LAC W 37 9 4 11 36.4 1 2 50.0 0 0 - 1 2 3 6 2 0 3 3 13
+p249
+aVAndres Nocioni SAC 02/26/2010 SAC vs. UTA W 13 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 1 0 0 1 0 0
+p250
+aVBeno Udrih SAC 02/26/2010 SAC vs. UTA W 42 25 11 16 68.8 0 1 0.0 3 5 60.0 0 1 1 4 2 0 1 3 5
+p251
+aVJoey Dorsey SAC 02/26/2010 SAC vs. UTA W 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -10
+p252
+aVIme Udoka SAC 02/26/2010 SAC vs. UTA W 15 2 1 4 25.0 0 1 0.0 0 2 0.0 0 2 2 2 0 0 0 1 3
+p253
+aVSpencer Hawes SAC 02/26/2010 SAC vs. UTA W 37 15 7 13 53.8 1 2 50.0 0 0 - 3 9 12 5 0 1 1 5 6
+p254
+aVFrancisco Garcia SAC 02/26/2010 SAC vs. UTA W 19 7 3 6 50.0 0 1 0.0 1 2 50.0 0 1 1 3 0 3 0 0 -4
+p255
+aVSean May SAC 02/26/2010 SAC vs. UTA W 8 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -3
+p256
+aVCarl Landry SAC 02/26/2010 SAC vs. UTA W 40 15 5 10 50.0 0 0 - 5 6 83.3 0 4 4 1 2 0 1 2 13
+p257
+aVOmri Casspi SAC 02/26/2010 SAC vs. UTA W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 1 0 1 3 3
+p258
+aVTyreke Evans SAC 02/26/2010 SAC vs. UTA W 38 24 9 17 52.9 0 1 0.0 6 11 54.5 0 8 8 7 1 1 2 1 7
+p259
+aVFrancisco Garcia SAC 02/23/2010 SAC vs. DET L 16 6 2 4 50.0 0 2 0.0 2 2 100.0 0 1 1 2 1 0 0 2 7
+p260
+aVIme Udoka SAC 02/23/2010 SAC vs. DET L 21 6 2 5 40.0 1 2 50.0 1 2 50.0 0 2 2 0 0 0 2 1 -1
+p261
+aVAndres Nocioni SAC 02/23/2010 SAC vs. DET L 13 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 2 3
+p262
+aVJoey Dorsey SAC 02/23/2010 SAC vs. DET L 12 3 1 2 50.0 0 0 - 1 4 25.0 2 1 3 0 1 0 0 1 13
+p263
+aVCarl Landry SAC 02/23/2010 SAC vs. DET L 31 18 5 7 71.4 0 0 - 8 8 100.0 1 2 3 0 0 0 3 3 -11
+p264
+aVJason Thompson SAC 02/23/2010 SAC vs. DET L 28 7 3 7 42.9 0 0 - 1 2 50.0 1 7 8 1 0 4 1 3 -28
+p265
+aVTyreke Evans SAC 02/23/2010 SAC vs. DET L 44 28 11 19 57.9 0 2 0.0 6 9 66.7 0 3 3 13 2 0 2 4 -6
+p266
+aVBeno Udrih SAC 02/23/2010 SAC vs. DET L 20 9 3 8 37.5 1 2 50.0 2 2 100.0 0 2 2 0 1 0 0 1 -6
+p267
+aVOmri Casspi SAC 02/23/2010 SAC vs. DET L 26 5 2 9 22.2 1 3 33.3 0 0 - 1 4 5 0 0 0 0 0 -9
+p268
+aVDominic McGuire SAC 02/23/2010 SAC vs. DET L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -3
+p269
+aVSean May SAC 02/23/2010 SAC vs. DET L 12 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 3
+p270
+aVDonte Greene SAC 02/23/2010 SAC vs. DET L 13 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 2 0 -22
+p271
+aVBeno Udrih SAC 02/21/2010 SAC @ PHX L 24 17 7 9 77.8 3 3 100.0 0 2 0.0 1 3 4 5 0 0 1 2 -2
+p272
+aVJason Thompson SAC 02/21/2010 SAC @ PHX L 30 10 4 8 50.0 0 0 - 2 4 50.0 2 7 9 0 1 1 1 3 -17
+p273
+aVIme Udoka SAC 02/21/2010 SAC @ PHX L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 6
+p274
+aVCarl Landry SAC 02/21/2010 SAC @ PHX L 38 18 6 15 40.0 0 0 - 6 6 100.0 1 6 7 2 2 1 0 3 -14
+p275
+aVDonte Greene SAC 02/21/2010 SAC @ PHX L 42 16 6 15 40.0 1 3 33.3 3 3 100.0 2 3 5 0 0 1 4 1 -13
+p276
+aVSpencer Hawes SAC 02/21/2010 SAC @ PHX L 11 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 5 3
+p277
+aVDominic McGuire SAC 02/21/2010 SAC @ PHX L 19 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 0 1 1 1 -6
+p278
+aVOmri Casspi SAC 02/21/2010 SAC @ PHX L 26 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 1 1 0 4 1 -14
+p279
+aVTyreke Evans SAC 02/21/2010 SAC @ PHX L 35 16 7 13 53.8 0 0 - 2 4 50.0 1 2 3 6 1 0 5 4 -23
+p280
+aVIme Udoka SAC 02/20/2010 SAC @ LAC L 6 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 2 0 2 0 -2
+p281
+aVTyreke Evans SAC 02/20/2010 SAC @ LAC L 40 21 9 14 64.3 1 3 33.3 2 7 28.6 0 3 3 4 0 0 4 4 -15
+p282
+aVJason Thompson SAC 02/20/2010 SAC @ LAC L 26 9 4 9 44.4 0 0 - 1 2 50.0 2 5 7 0 2 0 2 5 -5
+p283
+aVCarl Landry SAC 02/20/2010 SAC @ LAC L 36 10 4 11 36.4 0 0 - 2 5 40.0 1 7 8 2 0 0 3 2 -14
+p284
+aVJoey Dorsey SAC 02/20/2010 SAC @ LAC L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p285
+aVSpencer Hawes SAC 02/20/2010 SAC @ LAC L 22 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 3 0 3 1 3 -2
+p286
+aVDonte Greene SAC 02/20/2010 SAC @ LAC L 14 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 0 -4
+p287
+aVBeno Udrih SAC 02/20/2010 SAC @ LAC L 36 8 3 8 37.5 0 1 0.0 2 2 100.0 0 1 1 4 1 0 2 3 -8
+p288
+aVAndres Nocioni SAC 02/20/2010 SAC @ LAC L 9 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 2 -4
+p289
+aVSean May SAC 02/20/2010 SAC @ LAC L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 6
+p290
+aVFrancisco Garcia SAC 02/20/2010 SAC @ LAC L 14 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 2
+p291
+aVOmri Casspi SAC 02/20/2010 SAC @ LAC L 32 15 5 11 45.5 0 2 0.0 5 5 100.0 1 4 5 3 3 0 2 1 2
+p292
+aVIme Udoka SAC 02/17/2010 SAC @ GSW L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 1 -13
+p293
+aVOmri Casspi SAC 02/17/2010 SAC @ GSW L 29 11 5 11 45.5 1 1 100.0 0 0 - 1 6 7 2 1 1 1 0 -12
+p294
+aVDonte Greene SAC 02/17/2010 SAC @ GSW L 29 15 5 11 45.5 2 5 40.0 3 4 75.0 0 3 3 0 1 2 1 3 -18
+p295
+aVJason Thompson SAC 02/17/2010 SAC @ GSW L 28 17 6 18 33.3 0 0 - 5 7 71.4 8 7 15 1 0 0 2 4 -22
+p296
+aVFrancisco Garcia SAC 02/17/2010 SAC @ GSW L 22 9 3 6 50.0 1 1 100.0 2 2 100.0 2 2 4 2 0 0 2 2 -14
+p297
+aVSergio Rodriguez SAC 02/17/2010 SAC @ GSW L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p298
+aVAndres Nocioni SAC 02/17/2010 SAC @ GSW L 10 0 0 5 0.0 0 3 0.0 0 0 - 0 3 3 2 1 0 0 0 -10
+p299
+aVTyreke Evans SAC 02/17/2010 SAC @ GSW L 32 17 6 12 50.0 0 1 0.0 5 5 100.0 0 5 5 10 3 0 6 4 -13
+p300
+aVSpencer Hawes SAC 02/17/2010 SAC @ GSW L 27 11 5 7 71.4 1 2 50.0 0 0 - 2 0 2 4 1 1 3 1 -10
+p301
+aVJon Brockman SAC 02/17/2010 SAC @ GSW L 14 4 2 3 66.7 0 0 - 0 1 0.0 2 4 6 0 0 0 0 2 -4
+p302
+aVKevin Martin SAC 02/17/2010 SAC @ GSW L 19 10 4 9 44.4 0 0 - 2 5 40.0 0 2 2 0 0 0 0 3 -16
+p303
+aVBeno Udrih SAC 02/17/2010 SAC @ GSW L 18 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 4 0 0 1 2 -22
+p304
+aVSpencer Hawes SAC 02/16/2010 SAC vs. BOS L 34 9 3 10 30.0 1 2 50.0 2 2 100.0 1 7 8 3 1 2 3 5 8
+p305
+aVJon Brockman SAC 02/16/2010 SAC vs. BOS L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -10
+p306
+aVOmri Casspi SAC 02/16/2010 SAC vs. BOS L 36 19 7 13 53.8 3 5 60.0 2 6 33.3 1 5 6 3 2 2 1 1 3
+p307
+aVFrancisco Garcia SAC 02/16/2010 SAC vs. BOS L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p308
+aVKevin Martin SAC 02/16/2010 SAC vs. BOS L 33 11 3 10 30.0 0 3 0.0 5 6 83.3 1 3 4 4 0 0 0 3 -4
+p309
+aVBeno Udrih SAC 02/16/2010 SAC vs. BOS L 20 9 4 8 50.0 1 2 50.0 0 0 - 0 3 3 2 0 0 3 1 -2
+p310
+aVDonte Greene SAC 02/16/2010 SAC vs. BOS L 26 8 2 8 25.0 2 4 50.0 2 2 100.0 1 2 3 2 2 0 3 4 -2
+p311
+aVAndres Nocioni SAC 02/16/2010 SAC vs. BOS L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -7
+p312
+aVTyreke Evans SAC 02/16/2010 SAC vs. BOS L 41 17 5 13 38.5 1 2 50.0 6 10 60.0 1 10 11 7 0 1 1 3 7
+p313
+aVJason Thompson SAC 02/16/2010 SAC vs. BOS L 31 14 6 14 42.9 0 0 - 2 4 50.0 4 7 11 0 0 4 0 3 -5
+p314
+aVIme Udoka SAC 02/16/2010 SAC vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p315
+aVSean May SAC 02/16/2010 SAC vs. BOS L 8 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 2 0 1 1
+p316
+aVOmri Casspi SAC 02/10/2010 SAC @ DET W 21 8 3 6 50.0 2 2 100.0 0 0 - 0 5 5 0 1 0 0 1 -3
+p317
+aVJon Brockman SAC 02/10/2010 SAC @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p318
+aVTyreke Evans SAC 02/10/2010 SAC @ DET W 36 13 5 10 50.0 0 1 0.0 3 6 50.0 2 3 5 6 3 0 4 2 1
+p319
+aVIme Udoka SAC 02/10/2010 SAC @ DET W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -4
+p320
+aVDonte Greene SAC 02/10/2010 SAC @ DET W 15 6 2 7 28.6 1 2 50.0 1 2 50.0 0 0 0 1 0 0 2 1 -6
+p321
+aVBeno Udrih SAC 02/10/2010 SAC @ DET W 35 22 8 10 80.0 2 2 100.0 4 4 100.0 1 2 3 6 3 1 4 4 19
+p322
+aVSpencer Hawes SAC 02/10/2010 SAC @ DET W 27 6 3 8 37.5 0 1 0.0 0 0 - 2 9 11 4 0 1 1 3 2
+p323
+aVAndres Nocioni SAC 02/10/2010 SAC @ DET W 24 13 6 9 66.7 1 3 33.3 0 0 - 1 1 2 1 0 3 1 3 10
+p324
+aVKevin Martin SAC 02/10/2010 SAC @ DET W 33 26 9 15 60.0 1 3 33.3 7 7 100.0 1 2 3 2 1 0 2 4 2
+p325
+aVJason Thompson SAC 02/10/2010 SAC @ DET W 28 5 2 9 22.2 0 0 - 1 2 50.0 4 5 9 3 0 2 3 4 8
+p326
+aVSean May SAC 02/10/2010 SAC @ DET W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -2
+p327
+aVSergio Rodriguez SAC 02/09/2010 SAC @ NYK W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 2 0 0 3 1 -4
+p328
+aVOmri Casspi SAC 02/09/2010 SAC @ NYK W 45 18 7 17 41.2 1 8 12.5 3 3 100.0 1 8 9 2 2 0 0 3 6
+p329
+aVSpencer Hawes SAC 02/09/2010 SAC @ NYK W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p330
+aVJon Brockman SAC 02/09/2010 SAC @ NYK W 16 2 1 3 33.3 0 0 - 0 0 - 5 1 6 1 0 0 0 3 2
+p331
+aVJason Thompson SAC 02/09/2010 SAC @ NYK W 34 12 5 8 62.5 0 0 - 2 2 100.0 5 6 11 1 1 2 3 4 8
+p332
+aVIme Udoka SAC 02/09/2010 SAC @ NYK W 16 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 1 0 0 0 1 4
+p333
+aVDonte Greene SAC 02/09/2010 SAC @ NYK W 40 24 9 12 75.0 4 5 80.0 2 4 50.0 1 7 8 3 1 0 2 5 6
+p334
+aVAndres Nocioni SAC 02/09/2010 SAC @ NYK W 19 9 2 8 25.0 1 3 33.3 4 4 100.0 0 5 5 2 0 0 2 3 -8
+p335
+aVKevin Martin SAC 02/09/2010 SAC @ NYK W 31 17 7 13 53.8 1 2 50.0 2 4 50.0 3 1 4 1 1 0 2 1 4
+p336
+aVBeno Udrih SAC 02/09/2010 SAC @ NYK W 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p337
+aVTyreke Evans SAC 02/09/2010 SAC @ NYK W 45 27 11 26 42.3 0 1 0.0 5 7 71.4 2 8 10 7 1 0 3 3 10
+p338
+aVSpencer Hawes SAC 02/07/2010 SAC @ TOR L 36 14 6 16 37.5 0 1 0.0 2 2 100.0 7 4 11 2 1 1 2 3 -8
+p339
+aVOmri Casspi SAC 02/07/2010 SAC @ TOR L 19 3 1 5 20.0 0 0 - 1 2 50.0 2 5 7 1 0 0 2 0 0
+p340
+aVIme Udoka SAC 02/07/2010 SAC @ TOR L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p341
+aVKevin Martin SAC 02/07/2010 SAC @ TOR L 37 24 7 18 38.9 1 6 16.7 9 12 75.0 1 6 7 2 2 0 0 2 -22
+p342
+aVBeno Udrih SAC 02/07/2010 SAC @ TOR L 21 8 3 5 60.0 0 1 0.0 2 5 40.0 1 0 1 4 3 1 0 2 -3
+p343
+aVTyreke Evans SAC 02/07/2010 SAC @ TOR L 39 11 3 8 37.5 0 0 - 5 5 100.0 1 3 4 9 2 1 5 0 -12
+p344
+aVAndres Nocioni SAC 02/07/2010 SAC @ TOR L 29 11 4 10 40.0 1 3 33.3 2 2 100.0 0 2 2 0 0 0 2 2 3
+p345
+aVDonte Greene SAC 02/07/2010 SAC @ TOR L 27 13 4 10 40.0 3 3 100.0 2 5 40.0 2 3 5 0 0 0 1 1 -13
+p346
+aVSean May SAC 02/07/2010 SAC @ TOR L 8 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 0
+p347
+aVJason Thompson SAC 02/07/2010 SAC @ TOR L 22 10 4 7 57.1 0 0 - 2 3 66.7 2 4 6 1 1 1 0 5 1
+p348
+aVIme Udoka SAC 02/05/2010 SAC vs. PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p349
+aVOmri Casspi SAC 02/05/2010 SAC vs. PHX L 36 17 6 14 42.9 2 4 50.0 3 3 100.0 1 7 8 1 0 0 2 4 -3
+p350
+aVJon Brockman SAC 02/05/2010 SAC vs. PHX L 22 6 1 3 33.3 0 0 - 4 8 50.0 2 4 6 1 1 0 0 4 8
+p351
+aVSpencer Hawes SAC 02/05/2010 SAC vs. PHX L 21 4 1 6 16.7 0 0 - 2 3 66.7 2 1 3 0 0 0 1 4 -22
+p352
+aVKevin Martin SAC 02/05/2010 SAC vs. PHX L 26 5 2 9 22.2 0 3 0.0 1 2 50.0 1 1 2 1 0 0 0 3 -31
+p353
+aVSean May SAC 02/05/2010 SAC vs. PHX L 11 7 2 4 50.0 0 0 - 3 5 60.0 2 1 3 0 0 0 0 1 6
+p354
+aVAndres Nocioni SAC 02/05/2010 SAC vs. PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -6
+p355
+aVHilton Armstrong SAC 02/05/2010 SAC vs. PHX L 12 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 2 1 3
+p356
+aVBeno Udrih SAC 02/05/2010 SAC vs. PHX L 23 5 2 6 33.3 0 1 0.0 1 1 100.0 0 1 1 0 1 0 0 2 -1
+p357
+aVDonte Greene SAC 02/05/2010 SAC vs. PHX L 35 31 11 20 55.0 1 3 33.3 8 10 80.0 3 4 7 0 0 2 1 1 -9
+p358
+aVTyreke Evans SAC 02/05/2010 SAC vs. PHX L 27 13 6 11 54.5 0 1 0.0 1 2 50.0 2 3 5 4 1 0 0 3 -17
+p359
+aVSergio Rodriguez SAC 02/05/2010 SAC vs. PHX L 19 10 3 4 75.0 0 1 0.0 4 6 66.7 0 2 2 3 1 0 4 5 10
+p360
+aVAndres Nocioni SAC 02/03/2010 SAC vs. SAS L 14 6 2 5 40.0 2 2 100.0 0 0 - 1 0 1 1 0 0 0 2 -4
+p361
+aVDonte Greene SAC 02/03/2010 SAC vs. SAS L 37 12 5 9 55.6 2 5 40.0 0 0 - 3 0 3 1 1 1 1 3 10
+p362
+aVSergio Rodriguez SAC 02/03/2010 SAC vs. SAS L 16 10 5 7 71.4 0 0 - 0 0 - 0 0 0 3 1 0 0 3 -3
+p363
+aVJon Brockman SAC 02/03/2010 SAC vs. SAS L 15 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 -16
+p364
+aVOmri Casspi SAC 02/03/2010 SAC vs. SAS L 32 8 4 12 33.3 0 3 0.0 0 0 - 1 5 6 1 2 0 1 2 -2
+p365
+aVTyreke Evans SAC 02/03/2010 SAC vs. SAS L 39 32 11 18 61.1 3 5 60.0 7 9 77.8 0 7 7 8 2 1 4 5 5
+p366
+aVKevin Martin SAC 02/03/2010 SAC vs. SAS L 39 15 6 17 35.3 1 4 25.0 2 4 50.0 0 5 5 1 1 0 1 2 -3
+p367
+aVSean May SAC 02/03/2010 SAC vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p368
+aVHilton Armstrong SAC 02/03/2010 SAC vs. SAS L 4 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 7
+p369
+aVIme Udoka SAC 02/03/2010 SAC vs. SAS L 11 6 2 3 66.7 1 2 50.0 1 1 100.0 1 1 2 0 0 0 1 0 -1
+p370
+aVSpencer Hawes SAC 02/03/2010 SAC vs. SAS L 31 18 9 14 64.3 0 1 0.0 0 1 0.0 3 3 6 3 1 3 4 3 -1
+p371
+aVJon Brockman SAC 02/01/2010 SAC @ DEN L 22 11 5 6 83.3 0 0 - 1 2 50.0 4 7 11 2 0 0 1 5 -9
+p372
+aVDonte Greene SAC 02/01/2010 SAC @ DEN L 24 7 3 5 60.0 1 2 50.0 0 0 - 0 5 5 0 0 0 1 3 -6
+p373
+aVAndres Nocioni SAC 02/01/2010 SAC @ DEN L 23 11 3 5 60.0 3 3 100.0 2 2 100.0 0 4 4 3 0 2 1 2 19
+p374
+aVJason Thompson SAC 02/01/2010 SAC @ DEN L 19 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 1 2 2 -5
+p375
+aVIme Udoka SAC 02/01/2010 SAC @ DEN L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p376
+aVSean May SAC 02/01/2010 SAC @ DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p377
+aVOmri Casspi SAC 02/01/2010 SAC @ DEN L 29 14 4 5 80.0 0 0 - 6 6 100.0 1 3 4 1 0 0 2 3 2
+p378
+aVKevin Martin SAC 02/01/2010 SAC @ DEN L 47 22 5 17 29.4 2 7 28.6 10 11 90.9 0 5 5 6 0 1 1 4 2
+p379
+aVSpencer Hawes SAC 02/01/2010 SAC @ DEN L 40 23 10 18 55.6 1 3 33.3 2 2 100.0 1 6 7 3 0 1 2 4 -11
+p380
+aVBeno Udrih SAC 02/01/2010 SAC @ DEN L 32 7 3 9 33.3 0 2 0.0 1 1 100.0 0 4 4 5 2 0 5 2 -8
+p381
+aVSergio Rodriguez SAC 02/01/2010 SAC @ DEN L 24 8 4 11 36.4 0 2 0.0 0 0 - 1 1 2 6 2 0 4 2 6
+p382
+aVJon Brockman SAC 01/30/2010 SAC vs. CHA L 11 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -12
+p383
+aVOmri Casspi SAC 01/30/2010 SAC vs. CHA L 27 14 4 8 50.0 2 4 50.0 4 5 80.0 0 4 4 4 2 0 0 3 -1
+p384
+aVSpencer Hawes SAC 01/30/2010 SAC vs. CHA L 18 4 2 5 40.0 0 0 - 0 0 - 0 4 4 3 0 3 3 3 -7
+p385
+aVIme Udoka SAC 01/30/2010 SAC vs. CHA L 14 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 1 1 -10
+p386
+aVDonte Greene SAC 01/30/2010 SAC vs. CHA L 34 6 3 8 37.5 0 3 0.0 0 1 0.0 2 4 6 0 0 1 2 3 13
+p387
+aVJason Thompson SAC 01/30/2010 SAC vs. CHA L 35 12 6 12 50.0 0 0 - 0 2 0.0 5 11 16 1 2 1 3 6 8
+p388
+aVTyreke Evans SAC 01/30/2010 SAC vs. CHA L 29 4 2 5 40.0 0 0 - 0 0 - 0 2 2 7 2 1 0 2 -9
+p389
+aVKevin Martin SAC 01/30/2010 SAC vs. CHA L 36 31 11 25 44.0 5 11 45.5 4 4 100.0 0 2 2 1 1 1 4 1 -5
+p390
+aVSergio Rodriguez SAC 01/30/2010 SAC vs. CHA L 14 9 4 7 57.1 1 1 100.0 0 1 0.0 2 2 4 5 1 0 1 1 14
+p391
+aVAndres Nocioni SAC 01/30/2010 SAC vs. CHA L 6 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 1 1 1 0 -12
+p392
+aVBeno Udrih SAC 01/30/2010 SAC vs. CHA L 17 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 2 -14
+p393
+aVDonte Greene SAC 01/29/2010 SAC @ UTA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p394
+aVKevin Martin SAC 01/29/2010 SAC @ UTA L 38 33 10 18 55.6 4 7 57.1 9 9 100.0 0 7 7 3 2 0 3 4 5
+p395
+aVSean May SAC 01/29/2010 SAC @ UTA L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 -5
+p396
+aVSpencer Hawes SAC 01/29/2010 SAC @ UTA L 22 6 3 6 50.0 0 2 0.0 0 0 - 2 7 9 1 2 0 2 0 -2
+p397
+aVIme Udoka SAC 01/29/2010 SAC @ UTA L 16 6 3 7 42.9 0 3 0.0 0 0 - 1 2 3 1 1 0 0 0 -10
+p398
+aVJon Brockman SAC 01/29/2010 SAC @ UTA L 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 5 -1
+p399
+aVJason Thompson SAC 01/29/2010 SAC @ UTA L 27 7 3 8 37.5 0 0 - 1 2 50.0 1 3 4 2 1 0 2 6 -11
+p400
+aVAndres Nocioni SAC 01/29/2010 SAC @ UTA L 23 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 2 0 1 1 5 9
+p401
+aVBeno Udrih SAC 01/29/2010 SAC @ UTA L 17 0 0 5 0.0 0 2 0.0 0 0 - 1 0 1 1 0 1 0 3 -12
+p402
+aVOmri Casspi SAC 01/29/2010 SAC @ UTA L 30 8 4 7 57.1 0 1 0.0 0 0 - 2 4 6 1 1 1 2 4 4
+p403
+aVTyreke Evans SAC 01/29/2010 SAC @ UTA L 37 25 6 14 42.9 0 1 0.0 13 15 86.7 1 0 1 6 2 0 4 1 -2
+p404
+aVIme Udoka SAC 01/26/2010 SAC vs. GSW W 24 3 1 5 20.0 1 3 33.3 0 0 - 1 6 7 2 3 1 0 3 10
+p405
+aVSean May SAC 01/26/2010 SAC vs. GSW W 15 7 2 4 50.0 0 0 - 3 6 50.0 4 7 11 0 0 0 2 1 6
+p406
+aVBeno Udrih SAC 01/26/2010 SAC vs. GSW W 31 24 8 15 53.3 0 1 0.0 8 8 100.0 1 3 4 5 2 0 4 3 0
+p407
+aVSpencer Hawes SAC 01/26/2010 SAC vs. GSW W 31 18 7 10 70.0 1 1 100.0 3 3 100.0 5 8 13 2 0 3 3 3 -1
+p408
+aVOmri Casspi SAC 01/26/2010 SAC vs. GSW W 12 1 0 4 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -1
+p409
+aVKevin Martin SAC 01/26/2010 SAC vs. GSW W 26 5 1 9 11.1 0 2 0.0 3 3 100.0 2 1 3 4 0 0 2 4 -3
+p410
+aVAndres Nocioni SAC 01/26/2010 SAC vs. GSW W 19 10 4 12 33.3 2 6 33.3 0 2 0.0 2 7 9 0 0 3 0 4 3
+p411
+aVJason Thompson SAC 01/26/2010 SAC vs. GSW W 14 4 2 6 33.3 0 0 - 0 0 - 1 5 6 0 0 0 3 4 -2
+p412
+aVDonte Greene SAC 01/26/2010 SAC vs. GSW W 30 4 2 6 33.3 0 0 - 0 0 - 3 4 7 0 1 3 1 3 7
+p413
+aVTyreke Evans SAC 01/26/2010 SAC vs. GSW W 38 23 8 21 38.1 0 2 0.0 7 9 77.8 0 6 6 4 2 0 3 3 -4
+p414
+aVSpencer Hawes SAC 01/23/2010 SAC @ MIA L 27 14 7 12 58.3 0 0 - 0 2 0.0 4 3 7 1 0 0 0 3 -11
+p415
+aVJason Thompson SAC 01/23/2010 SAC @ MIA L 23 6 2 6 33.3 0 0 - 2 3 66.7 3 4 7 0 0 2 0 4 -22
+p416
+aVAndres Nocioni SAC 01/23/2010 SAC @ MIA L 8 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 1
+p417
+aVJon Brockman SAC 01/23/2010 SAC @ MIA L 24 6 2 4 50.0 0 0 - 2 4 50.0 1 4 5 1 0 0 1 2 -20
+p418
+aVHilton Armstrong SAC 01/23/2010 SAC @ MIA L 9 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 1 0 0 2
+p419
+aVOmri Casspi SAC 01/23/2010 SAC @ MIA L 28 13 6 10 60.0 0 3 0.0 1 3 33.3 0 1 1 1 3 0 1 0 -10
+p420
+aVTyreke Evans SAC 01/23/2010 SAC @ MIA L 31 15 5 10 50.0 0 1 0.0 5 6 83.3 0 0 0 3 1 0 3 1 -27
+p421
+aVBeno Udrih SAC 01/23/2010 SAC @ MIA L 13 3 1 4 25.0 0 1 0.0 1 1 100.0 0 2 2 2 0 0 0 2 -4
+p422
+aVIme Udoka SAC 01/23/2010 SAC @ MIA L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -21
+p423
+aVSergio Rodriguez SAC 01/23/2010 SAC @ MIA L 9 5 2 2 100.0 0 0 - 1 3 33.3 1 2 3 2 0 0 1 0 2
+p424
+aVKevin Martin SAC 01/23/2010 SAC @ MIA L 24 5 1 7 14.3 0 1 0.0 3 5 60.0 0 1 1 3 1 0 5 3 -18
+p425
+aVDonte Greene SAC 01/23/2010 SAC @ MIA L 30 8 2 9 22.2 1 3 33.3 3 5 60.0 0 1 1 1 0 2 2 1 -27
+p426
+aVTyreke Evans SAC 01/22/2010 SAC @ ORL L 37 19 6 15 40.0 1 1 100.0 6 7 85.7 1 3 4 2 1 0 3 2 -20
+p427
+aVKevin Martin SAC 01/22/2010 SAC @ ORL L 41 5 1 7 14.3 0 2 0.0 3 6 50.0 1 4 5 5 0 0 1 3 -28
+p428
+aVAndres Nocioni SAC 01/22/2010 SAC @ ORL L 11 5 2 9 22.2 1 1 100.0 0 0 - 2 0 2 0 2 0 0 3 -6
+p429
+aVIme Udoka SAC 01/22/2010 SAC @ ORL L 12 6 3 6 50.0 0 2 0.0 0 0 - 2 1 3 2 0 0 0 2 11
+p430
+aVSpencer Hawes SAC 01/22/2010 SAC @ ORL L 18 8 4 9 44.4 0 1 0.0 0 0 - 1 4 5 0 0 0 2 2 8
+p431
+aVHilton Armstrong SAC 01/22/2010 SAC @ ORL L 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 0 1 10
+p432
+aVSergio Rodriguez SAC 01/22/2010 SAC @ ORL L 10 8 3 4 75.0 1 1 100.0 1 1 100.0 0 0 0 5 3 0 3 0 11
+p433
+aVOmri Casspi SAC 01/22/2010 SAC @ ORL L 16 6 3 8 37.5 0 2 0.0 0 0 - 1 3 4 2 0 1 3 3 -1
+p434
+aVBeno Udrih SAC 01/22/2010 SAC @ ORL L 24 4 1 8 12.5 0 0 - 2 2 100.0 0 2 2 1 0 0 1 1 -19
+p435
+aVDonte Greene SAC 01/22/2010 SAC @ ORL L 15 5 2 9 22.2 1 2 50.0 0 0 - 1 3 4 0 0 0 0 1 -12
+p436
+aVJason Thompson SAC 01/22/2010 SAC @ ORL L 26 10 2 8 25.0 0 0 - 6 9 66.7 3 7 10 0 0 0 1 5 -20
+p437
+aVJon Brockman SAC 01/22/2010 SAC @ ORL L 19 6 3 7 42.9 0 0 - 0 2 0.0 3 3 6 0 0 1 0 4 -14
+p438
+aVOmri Casspi SAC 01/20/2010 SAC @ ATL L 30 16 8 13 61.5 0 2 0.0 0 0 - 3 5 8 1 2 0 1 1 -3
+p439
+aVTyreke Evans SAC 01/20/2010 SAC @ ATL L 32 24 9 17 52.9 1 2 50.0 5 6 83.3 0 0 0 5 2 0 1 2 -12
+p440
+aVAndres Nocioni SAC 01/20/2010 SAC @ ATL L 4 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p441
+aVSpencer Hawes SAC 01/20/2010 SAC @ ATL L 12 4 2 5 40.0 0 0 - 0 0 - 3 2 5 4 0 0 1 1 2
+p442
+aVDonte Greene SAC 01/20/2010 SAC @ ATL L 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -5
+p443
+aVJon Brockman SAC 01/20/2010 SAC @ ATL L 23 6 3 4 75.0 0 0 - 0 1 0.0 1 2 3 0 0 0 1 4 -4
+p444
+aVIme Udoka SAC 01/20/2010 SAC @ ATL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 2
+p445
+aVBeno Udrih SAC 01/20/2010 SAC @ ATL L 30 8 4 7 57.1 0 1 0.0 0 0 - 1 1 2 8 1 0 3 4 -12
+p446
+aVKevin Martin SAC 01/20/2010 SAC @ ATL L 38 23 8 18 44.4 2 7 28.6 5 6 83.3 0 4 4 5 2 0 1 1 -1
+p447
+aVJason Thompson SAC 01/20/2010 SAC @ ATL L 36 14 6 14 42.9 0 0 - 2 2 100.0 1 4 5 0 0 1 2 3 -8
+p448
+aVHilton Armstrong SAC 01/20/2010 SAC @ ATL L 10 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 1 1 3 -8
+p449
+aVHilton Armstrong SAC 01/18/2010 SAC @ CHA L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 0 -6
+p450
+aVOmri Casspi SAC 01/18/2010 SAC @ CHA L 23 13 6 12 50.0 1 5 20.0 0 0 - 0 1 1 0 1 1 2 2 -2
+p451
+aVJon Brockman SAC 01/18/2010 SAC @ CHA L 30 0 0 1 0.0 0 0 - 0 0 - 7 7 14 1 1 1 3 5 4
+p452
+aVJason Thompson SAC 01/18/2010 SAC @ CHA L 16 6 3 10 30.0 0 1 0.0 0 0 - 2 2 4 1 0 0 0 5 -4
+p453
+aVAndres Nocioni SAC 01/18/2010 SAC @ CHA L 22 13 5 11 45.5 3 7 42.9 0 0 - 0 1 1 1 0 1 0 2 -6
+p454
+aVIme Udoka SAC 01/18/2010 SAC @ CHA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p455
+aVKevin Martin SAC 01/18/2010 SAC @ CHA L 25 9 3 9 33.3 0 4 0.0 3 5 60.0 2 4 6 0 1 0 2 2 -18
+p456
+aVTyreke Evans SAC 01/18/2010 SAC @ CHA L 41 34 13 20 65.0 0 2 0.0 8 11 72.7 1 3 4 7 2 3 3 2 6
+p457
+aVSpencer Hawes SAC 01/18/2010 SAC @ CHA L 12 6 3 4 75.0 0 0 - 0 0 - 1 3 4 2 0 1 2 2 -1
+p458
+aVBeno Udrih SAC 01/18/2010 SAC @ CHA L 24 10 4 8 50.0 2 5 40.0 0 1 0.0 0 3 3 5 0 0 3 2 9
+p459
+aVDonte Greene SAC 01/18/2010 SAC @ CHA L 33 12 4 7 57.1 1 3 33.3 3 4 75.0 0 8 8 1 1 2 3 3 8
+p460
+aVKevin Martin SAC 01/16/2010 SAC @ WAS L 37 23 6 17 35.3 3 6 50.0 8 8 100.0 1 3 4 4 0 0 1 2 -4
+p461
+aVDonte Greene SAC 01/16/2010 SAC @ WAS L 21 7 3 6 50.0 1 3 33.3 0 0 - 0 4 4 1 0 1 2 5 2
+p462
+aVSpencer Hawes SAC 01/16/2010 SAC @ WAS L 38 11 5 13 38.5 1 3 33.3 0 0 - 3 4 7 1 0 4 5 2 -11
+p463
+aVJon Brockman SAC 01/16/2010 SAC @ WAS L 13 2 0 2 0.0 0 0 - 2 2 100.0 3 2 5 0 2 0 0 3 4
+p464
+aVAndres Nocioni SAC 01/16/2010 SAC @ WAS L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p465
+aVKenny Thomas SAC 01/16/2010 SAC @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p466
+aVJason Thompson SAC 01/16/2010 SAC @ WAS L 23 7 1 5 20.0 0 0 - 5 6 83.3 0 6 6 1 0 2 3 4 -3
+p467
+aVTyreke Evans SAC 01/16/2010 SAC @ WAS L 41 21 9 19 47.4 1 4 25.0 2 3 66.7 3 3 6 7 0 0 2 3 -13
+p468
+aVOmri Casspi SAC 01/16/2010 SAC @ WAS L 24 6 3 9 33.3 0 3 0.0 0 0 - 0 6 6 1 2 0 1 0 -11
+p469
+aVIme Udoka SAC 01/16/2010 SAC @ WAS L 12 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 1 1 0 0 1 0
+p470
+aVBeno Udrih SAC 01/16/2010 SAC @ WAS L 23 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 4 0 1 0 1 -15
+p471
+aVJason Thompson SAC 01/15/2010 SAC @ PHI L 39 19 7 13 53.8 0 0 - 5 6 83.3 4 12 16 5 0 3 4 3 -1
+p472
+aVOmri Casspi SAC 01/15/2010 SAC @ PHI L 33 6 2 6 33.3 1 3 33.3 1 2 50.0 0 6 6 3 0 0 2 2 2
+p473
+aVIme Udoka SAC 01/15/2010 SAC @ PHI L 12 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 0 0 0 3 1 -13
+p474
+aVDonte Greene SAC 01/15/2010 SAC @ PHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p475
+aVJon Brockman SAC 01/15/2010 SAC @ PHI L 17 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 1 0 1 2 -13
+p476
+aVAndres Nocioni SAC 01/15/2010 SAC @ PHI L 6 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -2
+p477
+aVBeno Udrih SAC 01/15/2010 SAC @ PHI L 25 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 1 0 0 1 2 -19
+p478
+aVKevin Martin SAC 01/15/2010 SAC @ PHI L 34 19 4 10 40.0 2 4 50.0 9 9 100.0 1 2 3 2 1 1 3 3 6
+p479
+aVTyreke Evans SAC 01/15/2010 SAC @ PHI L 36 14 3 13 23.1 0 1 0.0 8 8 100.0 0 2 2 4 3 0 3 3 -13
+p480
+aVSpencer Hawes SAC 01/15/2010 SAC @ PHI L 36 14 5 11 45.5 1 3 33.3 3 6 50.0 2 4 6 2 0 1 2 4 -6
+p481
+aVAndres Nocioni SAC 01/12/2010 SAC vs. ORL L 19 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 1 0 0 0 2 -10
+p482
+aVSpencer Hawes SAC 01/12/2010 SAC vs. ORL L 28 9 4 11 36.4 1 3 33.3 0 0 - 0 3 3 0 1 0 1 3 -18
+p483
+aVIme Udoka SAC 01/12/2010 SAC vs. ORL L 23 4 1 4 25.0 0 0 - 2 3 66.7 1 2 3 2 0 0 1 3 -19
+p484
+aVDonte Greene SAC 01/12/2010 SAC vs. ORL L 21 7 3 12 25.0 1 4 25.0 0 0 - 1 2 3 1 1 1 2 2 -7
+p485
+aVSergio Rodriguez SAC 01/12/2010 SAC vs. ORL L 6 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 0 -3
+p486
+aVTyreke Evans SAC 01/12/2010 SAC vs. ORL L 38 18 5 16 31.3 1 3 33.3 7 9 77.8 2 2 4 2 2 0 0 1 -9
+p487
+aVOmri Casspi SAC 01/12/2010 SAC vs. ORL L 40 11 5 13 38.5 1 6 16.7 0 0 - 1 10 11 5 1 0 2 2 -14
+p488
+aVBeno Udrih SAC 01/12/2010 SAC vs. ORL L 33 15 5 11 45.5 2 6 33.3 3 3 100.0 0 4 4 2 0 0 2 1 -13
+p489
+aVJon Brockman SAC 01/12/2010 SAC vs. ORL L 13 9 2 2 100.0 0 0 - 5 6 83.3 5 1 6 0 0 0 0 4 -7
+p490
+aVJason Thompson SAC 01/12/2010 SAC vs. ORL L 19 6 2 8 25.0 0 0 - 2 2 100.0 2 3 5 0 1 0 3 3 -5
+p491
+aVJon Brockman SAC 01/09/2010 SAC vs. DEN W 38 5 2 9 22.2 0 0 - 1 2 50.0 7 5 12 1 0 1 0 4 -3
+p492
+aVSpencer Hawes SAC 01/09/2010 SAC vs. DEN W 26 17 8 10 80.0 1 1 100.0 0 0 - 2 3 5 3 1 1 3 3 -1
+p493
+aVSergio Rodriguez SAC 01/09/2010 SAC vs. DEN W 7 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 -3
+p494
+aVBeno Udrih SAC 01/09/2010 SAC vs. DEN W 31 11 3 7 42.9 1 3 33.3 4 5 80.0 0 3 3 3 1 1 1 3 9
+p495
+aVKenny Thomas SAC 01/09/2010 SAC vs. DEN W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p496
+aVTyreke Evans SAC 01/09/2010 SAC vs. DEN W 42 27 10 15 66.7 1 2 50.0 6 8 75.0 0 2 2 5 0 0 3 3 6
+p497
+aVIme Udoka SAC 01/09/2010 SAC vs. DEN W 23 12 5 7 71.4 2 3 66.7 0 0 - 1 1 2 0 1 0 1 1 -7
+p498
+aVOmri Casspi SAC 01/09/2010 SAC vs. DEN W 36 16 5 14 35.7 2 5 40.0 4 5 80.0 1 7 8 1 0 1 2 1 9
+p499
+aVAndres Nocioni SAC 01/09/2010 SAC vs. DEN W 10 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 1 -10
+p500
+aVJason Thompson SAC 01/09/2010 SAC vs. DEN W 21 5 2 8 25.0 0 1 0.0 1 2 50.0 0 5 5 0 0 0 3 4 7
+p501
+aVSergio Rodriguez SAC 01/08/2010 SAC @ GSW L 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 0
+p502
+aVJon Brockman SAC 01/08/2010 SAC @ GSW L 17 4 0 0 - 0 0 - 4 4 100.0 1 3 4 1 1 0 0 1 9
+p503
+aVBeno Udrih SAC 01/08/2010 SAC @ GSW L 36 14 6 14 42.9 1 6 16.7 1 1 100.0 1 5 6 4 1 0 1 3 -8
+p504
+aVAndres Nocioni SAC 01/08/2010 SAC @ GSW L 27 10 3 11 27.3 0 5 0.0 4 4 100.0 0 4 4 0 0 1 0 3 2
+p505
+aVOmri Casspi SAC 01/08/2010 SAC @ GSW L 31 4 1 8 12.5 0 3 0.0 2 2 100.0 1 5 6 0 0 0 2 3 -11
+p506
+aVJason Thompson SAC 01/08/2010 SAC @ GSW L 35 11 5 14 35.7 0 0 - 1 3 33.3 3 4 7 6 0 1 4 3 -9
+p507
+aVSpencer Hawes SAC 01/08/2010 SAC @ GSW L 15 10 5 8 62.5 0 1 0.0 0 0 - 1 3 4 2 0 0 1 2 -3
+p508
+aVTyreke Evans SAC 01/08/2010 SAC @ GSW L 38 25 8 17 47.1 1 2 50.0 8 9 88.9 1 1 2 6 3 1 6 6 -5
+p509
+aVIme Udoka SAC 01/08/2010 SAC @ GSW L 35 19 7 10 70.0 4 6 66.7 1 2 50.0 5 9 14 2 2 1 1 4 -10
+p510
+aVTyreke Evans SAC 01/05/2010 SAC vs. PHX L 39 27 10 23 43.5 0 1 0.0 7 7 100.0 3 8 11 7 2 1 2 2 -4
+p511
+aVBeno Udrih SAC 01/05/2010 SAC vs. PHX L 25 8 3 9 33.3 0 3 0.0 2 2 100.0 0 2 2 4 0 0 2 3 -7
+p512
+aVSpencer Hawes SAC 01/05/2010 SAC vs. PHX L 18 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 1 0 0 2 -1
+p513
+aVAndres Nocioni SAC 01/05/2010 SAC vs. PHX L 22 19 6 10 60.0 1 4 25.0 6 8 75.0 0 2 2 0 1 1 0 4 7
+p514
+aVIme Udoka SAC 01/05/2010 SAC vs. PHX L 15 5 1 4 25.0 0 3 0.0 3 4 75.0 0 1 1 0 1 1 1 2 -5
+p515
+aVKenny Thomas SAC 01/05/2010 SAC vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p516
+aVJon Brockman SAC 01/05/2010 SAC vs. PHX L 23 6 3 3 100.0 0 0 - 0 0 - 5 3 8 1 2 0 3 4 2
+p517
+aVDonte Greene SAC 01/05/2010 SAC vs. PHX L 17 2 1 5 20.0 0 1 0.0 0 0 - 1 4 5 4 2 2 1 2 -2
+p518
+aVOmri Casspi SAC 01/05/2010 SAC vs. PHX L 44 24 10 19 52.6 3 6 50.0 1 3 33.3 3 4 7 1 0 0 0 3 -3
+p519
+aVJason Thompson SAC 01/05/2010 SAC vs. PHX L 33 14 6 16 37.5 0 0 - 2 3 66.7 4 6 10 3 2 2 5 4 -11
+p520
+aVDonte Greene SAC 01/02/2010 SAC vs. DAL L 27 9 4 8 50.0 1 3 33.3 0 0 - 0 2 2 3 1 3 2 2 4
+p521
+aVSergio Rodriguez SAC 01/02/2010 SAC vs. DAL L 10 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -4
+p522
+aVTyreke Evans SAC 01/02/2010 SAC vs. DAL L 38 14 6 18 33.3 0 2 0.0 2 4 50.0 0 5 5 6 1 0 0 0 -2
+p523
+aVIme Udoka SAC 01/02/2010 SAC vs. DAL L 10 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p524
+aVJon Brockman SAC 01/02/2010 SAC vs. DAL L 11 2 0 0 - 0 0 - 2 2 100.0 3 1 4 0 1 0 0 3 3
+p525
+aVAndres Nocioni SAC 01/02/2010 SAC vs. DAL L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 3 -7
+p526
+aVBeno Udrih SAC 01/02/2010 SAC vs. DAL L 31 10 5 11 45.5 0 2 0.0 0 0 - 1 1 2 1 0 0 2 4 -8
+p527
+aVOmri Casspi SAC 01/02/2010 SAC vs. DAL L 41 22 7 16 43.8 4 6 66.7 4 4 100.0 0 11 11 4 1 1 2 2 -3
+p528
+aVJason Thompson SAC 01/02/2010 SAC vs. DAL L 36 15 7 15 46.7 0 0 - 1 1 100.0 6 4 10 1 0 0 3 4 -13
+p529
+aVSpencer Hawes SAC 01/02/2010 SAC vs. DAL L 22 9 3 10 30.0 1 1 100.0 2 2 100.0 2 2 4 2 0 1 3 2 -8
+p530
+aVOmri Casspi SAC 01/01/2010 SAC @ LAL L 41 23 8 13 61.5 3 4 75.0 4 4 100.0 1 5 6 3 1 0 2 1 -3
+p531
+aVJason Thompson SAC 01/01/2010 SAC @ LAL L 25 0 0 4 0.0 0 0 - 0 2 0.0 2 4 6 2 0 0 2 6 -4
+p532
+aVJon Brockman SAC 01/01/2010 SAC @ LAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p533
+aVDonte Greene SAC 01/01/2010 SAC @ LAL L 30 8 4 7 57.1 0 0 - 0 0 - 0 0 0 1 0 0 1 6 0
+p534
+aVKenny Thomas SAC 01/01/2010 SAC @ LAL L 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -10
+p535
+aVSergio Rodriguez SAC 01/01/2010 SAC @ LAL L 17 9 3 7 42.9 1 2 50.0 2 2 100.0 0 0 0 3 0 0 1 0 0
+p536
+aVIme Udoka SAC 01/01/2010 SAC @ LAL L 27 13 5 7 71.4 1 2 50.0 2 4 50.0 1 4 5 3 0 0 1 3 8
+p537
+aVAndres Nocioni SAC 01/01/2010 SAC @ LAL L 10 2 1 5 20.0 0 4 0.0 0 0 - 0 3 3 1 0 1 2 4 2
+p538
+aVBeno Udrih SAC 01/01/2010 SAC @ LAL L 34 19 8 13 61.5 1 2 50.0 2 2 100.0 0 1 1 13 2 0 1 1 -3
+p539
+aVSpencer Hawes SAC 01/01/2010 SAC @ LAL L 40 30 12 20 60.0 4 5 80.0 2 2 100.0 0 11 11 5 1 0 3 3 -3
+p540
+aVSergio Rodriguez SAC 12/30/2009 SAC vs. PHI L 24 15 6 11 54.5 0 1 0.0 3 4 75.0 1 0 1 5 2 0 0 2 -4
+p541
+aVJon Brockman SAC 12/30/2009 SAC vs. PHI L 8 5 2 2 100.0 0 0 - 1 2 50.0 3 0 3 1 1 0 1 3 -2
+p542
+aVOmri Casspi SAC 12/30/2009 SAC vs. PHI L 36 21 8 14 57.1 2 4 50.0 3 4 75.0 1 8 9 2 0 0 0 1 2
+p543
+aVAndres Nocioni SAC 12/30/2009 SAC vs. PHI L 21 8 3 8 37.5 1 3 33.3 1 2 50.0 0 0 0 1 0 0 1 2 -8
+p544
+aVKenny Thomas SAC 12/30/2009 SAC vs. PHI L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p545
+aVDonte Greene SAC 12/30/2009 SAC vs. PHI L 30 21 7 16 43.8 1 5 20.0 6 6 100.0 3 3 6 3 0 1 5 2 -9
+p546
+aVSpencer Hawes SAC 12/30/2009 SAC vs. PHI L 27 8 4 10 40.0 0 0 - 0 0 - 1 5 6 5 0 2 1 4 -6
+p547
+aVBeno Udrih SAC 12/30/2009 SAC vs. PHI L 36 9 3 11 27.3 2 4 50.0 1 2 50.0 1 2 3 2 1 1 3 1 -9
+p548
+aVIme Udoka SAC 12/30/2009 SAC vs. PHI L 17 2 1 2 50.0 0 0 - 0 0 - 1 0 1 3 0 0 1 5 -2
+p549
+aVJason Thompson SAC 12/30/2009 SAC vs. PHI L 33 15 7 14 50.0 0 0 - 1 1 100.0 3 8 11 4 1 2 0 2 -9
+p550
+aVKenny Thomas SAC 12/28/2009 SAC vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -6
+p551
+aVDonte Greene SAC 12/28/2009 SAC vs. DEN W 23 17 6 9 66.7 1 3 33.3 4 4 100.0 0 1 1 1 0 1 1 1 2
+p552
+aVSergio Rodriguez SAC 12/28/2009 SAC vs. DEN W 23 6 2 11 18.2 0 1 0.0 2 4 50.0 1 2 3 6 0 0 3 1 11
+p553
+aVAndres Nocioni SAC 12/28/2009 SAC vs. DEN W 25 21 6 7 85.7 4 5 80.0 5 6 83.3 0 6 6 2 0 1 2 3 13
+p554
+aVSpencer Hawes SAC 12/28/2009 SAC vs. DEN W 21 6 3 7 42.9 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -2
+p555
+aVJason Thompson SAC 12/28/2009 SAC vs. DEN W 38 15 5 12 41.7 0 0 - 5 5 100.0 3 8 11 2 0 0 1 4 6
+p556
+aVOmri Casspi SAC 12/28/2009 SAC vs. DEN W 36 11 4 9 44.4 1 3 33.3 2 4 50.0 0 6 6 2 1 0 2 3 1
+p557
+aVJon Brockman SAC 12/28/2009 SAC vs. DEN W 17 6 1 3 33.3 0 0 - 4 4 100.0 4 6 10 1 0 2 1 5 -3
+p558
+aVIme Udoka SAC 12/28/2009 SAC vs. DEN W 14 7 3 4 75.0 1 1 100.0 0 2 0.0 0 1 1 0 0 0 0 2 2
+p559
+aVBeno Udrih SAC 12/28/2009 SAC vs. DEN W 40 17 7 17 41.2 0 1 0.0 3 4 75.0 0 5 5 7 2 0 5 2 1
+p560
+aVAndres Nocioni SAC 12/26/2009 SAC vs. LAL L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -4
+p561
+aVDonte Greene SAC 12/26/2009 SAC vs. LAL L 35 16 6 12 50.0 2 4 50.0 2 2 100.0 2 3 5 1 4 2 2 2 9
+p562
+aVJason Thompson SAC 12/26/2009 SAC vs. LAL L 41 10 4 12 33.3 0 0 - 2 3 66.7 3 3 6 0 2 0 1 6 -8
+p563
+aVOmri Casspi SAC 12/26/2009 SAC vs. LAL L 32 15 5 14 35.7 1 6 16.7 4 6 66.7 2 8 10 1 1 0 1 3 -4
+p564
+aVSpencer Hawes SAC 12/26/2009 SAC vs. LAL L 31 8 4 14 28.6 0 2 0.0 0 0 - 5 2 7 7 3 0 0 3 -3
+p565
+aVBeno Udrih SAC 12/26/2009 SAC vs. LAL L 47 23 10 19 52.6 3 7 42.9 0 0 - 1 3 4 6 1 0 2 3 -2
+p566
+aVSergio Rodriguez SAC 12/26/2009 SAC vs. LAL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -6
+p567
+aVJon Brockman SAC 12/26/2009 SAC vs. LAL L 21 1 0 1 0.0 0 0 - 1 2 50.0 4 5 9 0 1 0 0 4 -2
+p568
+aVTyreke Evans SAC 12/26/2009 SAC vs. LAL L 46 18 9 23 39.1 0 4 0.0 0 0 - 2 3 5 2 0 1 5 5 -11
+p569
+aVIme Udoka SAC 12/26/2009 SAC vs. LAL L 23 11 4 8 50.0 0 2 0.0 3 5 60.0 0 2 2 1 0 0 3 2 -14
+p570
+aVJon Brockman SAC 12/23/2009 SAC vs. CLE L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -3
+p571
+aVOmri Casspi SAC 12/23/2009 SAC vs. CLE L 44 18 6 15 40.0 3 6 50.0 3 4 75.0 1 5 6 2 1 1 1 4 -2
+p572
+aVTyreke Evans SAC 12/23/2009 SAC vs. CLE L 44 28 11 25 44.0 2 7 28.6 4 4 100.0 0 3 3 5 1 3 1 1 -18
+p573
+aVBeno Udrih SAC 12/23/2009 SAC vs. CLE L 33 8 4 9 44.4 0 2 0.0 0 0 - 0 2 2 2 1 0 0 1 -11
+p574
+aVSpencer Hawes SAC 12/23/2009 SAC vs. CLE L 41 17 7 13 53.8 1 2 50.0 2 4 50.0 5 7 12 3 1 3 2 2 -13
+p575
+aVDonte Greene SAC 12/23/2009 SAC vs. CLE L 23 10 4 6 66.7 1 2 50.0 1 3 33.3 0 1 1 1 1 0 1 2 -5
+p576
+aVIme Udoka SAC 12/23/2009 SAC vs. CLE L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p577
+aVAndres Nocioni SAC 12/23/2009 SAC vs. CLE L 7 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 2
+p578
+aVJason Thompson SAC 12/23/2009 SAC vs. CLE L 50 18 7 14 50.0 0 0 - 4 5 80.0 4 5 9 2 1 0 3 3 -12
+p579
+aVSergio Rodriguez SAC 12/23/2009 SAC vs. CLE L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 5
+p580
+aVOmri Casspi SAC 12/21/2009 SAC @ CHI W 15 4 1 4 25.0 1 1 100.0 1 2 50.0 0 1 1 0 0 0 1 2 -25
+p581
+aVSpencer Hawes SAC 12/21/2009 SAC @ CHI W 22 6 2 6 33.3 0 1 0.0 2 2 100.0 1 4 5 1 0 1 4 4 -21
+p582
+aVJason Thompson SAC 12/21/2009 SAC @ CHI W 40 14 6 13 46.2 0 1 0.0 2 2 100.0 4 3 7 2 2 0 3 4 2
+p583
+aVKenny Thomas SAC 12/21/2009 SAC @ CHI W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -2
+p584
+aVJon Brockman SAC 12/21/2009 SAC @ CHI W 17 0 0 1 0.0 0 0 - 0 0 - 3 3 6 1 1 0 0 3 26
+p585
+aVAndres Nocioni SAC 12/21/2009 SAC @ CHI W 16 3 1 7 14.3 0 4 0.0 1 1 100.0 0 1 1 0 0 1 1 1 -28
+p586
+aVIme Udoka SAC 12/21/2009 SAC @ CHI W 23 17 6 9 66.7 3 5 60.0 2 2 100.0 1 2 3 1 1 0 1 0 13
+p587
+aVTyreke Evans SAC 12/21/2009 SAC @ CHI W 44 23 8 19 42.1 1 1 100.0 6 9 66.7 1 7 8 3 2 0 3 4 6
+p588
+aVDonte Greene SAC 12/21/2009 SAC @ CHI W 16 9 3 6 50.0 2 5 40.0 1 3 33.3 0 2 2 0 0 2 0 0 19
+p589
+aVBeno Udrih SAC 12/21/2009 SAC @ CHI W 23 16 5 11 45.5 3 4 75.0 3 3 100.0 1 3 4 3 2 0 1 1 14
+p590
+aVSergio Rodriguez SAC 12/21/2009 SAC @ CHI W 20 10 4 6 66.7 1 1 100.0 1 2 50.0 0 3 3 7 0 1 1 3 16
+p591
+aVBeno Udrih SAC 12/19/2009 SAC @ MIL W 35 16 6 11 54.5 0 1 0.0 4 4 100.0 0 1 1 3 1 0 2 2 7
+p592
+aVSpencer Hawes SAC 12/19/2009 SAC @ MIL W 28 13 5 10 50.0 1 1 100.0 2 4 50.0 3 1 4 2 1 0 0 6 -3
+p593
+aVIme Udoka SAC 12/19/2009 SAC @ MIL W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 3 4
+p594
+aVTyreke Evans SAC 12/19/2009 SAC @ MIL W 37 24 9 19 47.4 1 1 100.0 5 7 71.4 2 5 7 3 2 0 6 2 -2
+p595
+aVDonte Greene SAC 12/19/2009 SAC @ MIL W 13 5 2 5 40.0 0 1 0.0 1 2 50.0 0 6 6 0 0 0 2 2 3
+p596
+aVKenny Thomas SAC 12/19/2009 SAC @ MIL W 15 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 1 0 1 -2
+p597
+aVJason Thompson SAC 12/19/2009 SAC @ MIL W 39 22 8 16 50.0 0 1 0.0 6 8 75.0 3 7 10 4 0 2 3 3 0
+p598
+aVAndres Nocioni SAC 12/19/2009 SAC @ MIL W 25 3 1 7 14.3 1 3 33.3 0 0 - 1 5 6 3 2 0 1 1 0
+p599
+aVOmri Casspi SAC 12/19/2009 SAC @ MIL W 31 11 3 6 50.0 1 1 100.0 4 4 100.0 1 2 3 1 0 2 0 4 -2
+p600
+aVOmri Casspi SAC 12/18/2009 SAC @ MIN L 35 21 7 14 50.0 1 4 25.0 6 8 75.0 1 2 3 1 2 0 2 1 -9
+p601
+aVIme Udoka SAC 12/18/2009 SAC @ MIN L 10 7 2 6 33.3 0 2 0.0 3 3 100.0 1 1 2 2 0 0 1 0 3
+p602
+aVSergio Rodriguez SAC 12/18/2009 SAC @ MIN L 14 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 2 0 -3
+p603
+aVKenny Thomas SAC 12/18/2009 SAC @ MIN L 21 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 2 1 3 -4
+p604
+aVTyreke Evans SAC 12/18/2009 SAC @ MIN L 35 10 4 12 33.3 0 2 0.0 2 2 100.0 0 4 4 8 2 0 5 4 -15
+p605
+aVDonte Greene SAC 12/18/2009 SAC @ MIN L 18 0 0 7 0.0 0 4 0.0 0 4 0.0 0 7 7 4 0 0 1 2 -6
+p606
+aVBeno Udrih SAC 12/18/2009 SAC @ MIN L 32 18 8 14 57.1 2 5 40.0 0 0 - 1 3 4 2 0 0 2 1 -12
+p607
+aVAndres Nocioni SAC 12/18/2009 SAC @ MIN L 16 11 4 10 40.0 1 6 16.7 2 2 100.0 0 1 1 0 0 0 1 2 -5
+p608
+aVSpencer Hawes SAC 12/18/2009 SAC @ MIN L 20 7 3 7 42.9 0 1 0.0 1 2 50.0 3 0 3 3 0 1 0 3 -6
+p609
+aVJason Thompson SAC 12/18/2009 SAC @ MIN L 40 18 9 15 60.0 0 1 0.0 0 1 0.0 3 6 9 2 1 3 3 1 -23
+p610
+aVSpencer Hawes SAC 12/16/2009 SAC vs. WAS W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 9
+p611
+aVTyreke Evans SAC 12/16/2009 SAC vs. WAS W 40 26 9 18 50.0 0 1 0.0 8 10 80.0 1 5 6 6 0 2 4 3 -8
+p612
+aVAndres Nocioni SAC 12/16/2009 SAC vs. WAS W 27 20 8 15 53.3 3 7 42.9 1 1 100.0 1 5 6 2 1 0 0 1 2
+p613
+aVJason Thompson SAC 12/16/2009 SAC vs. WAS W 36 17 7 11 63.6 0 0 - 3 4 75.0 6 7 13 0 0 2 0 5 -4
+p614
+aVBeno Udrih SAC 12/16/2009 SAC vs. WAS W 31 7 2 9 22.2 0 1 0.0 3 5 60.0 1 3 4 3 1 0 0 2 0
+p615
+aVJon Brockman SAC 12/16/2009 SAC vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p616
+aVKenny Thomas SAC 12/16/2009 SAC vs. WAS W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 3 1 0 0 1 3
+p617
+aVOmri Casspi SAC 12/16/2009 SAC vs. WAS W 38 22 6 16 37.5 2 8 25.0 8 9 88.9 1 4 5 3 1 1 1 2 4
+p618
+aVIme Udoka SAC 12/16/2009 SAC vs. WAS W 27 8 4 8 50.0 0 3 0.0 0 0 - 1 5 6 2 0 0 1 2 0
+p619
+aVSergio Rodriguez SAC 12/16/2009 SAC vs. WAS W 5 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 0 12
+p620
+aVDonte Greene SAC 12/16/2009 SAC vs. WAS W 21 8 3 6 50.0 0 2 0.0 2 2 100.0 0 3 3 0 0 0 2 2 0
+p621
+aVJason Thompson SAC 12/15/2009 SAC @ POR L 40 18 7 12 58.3 0 0 - 4 7 57.1 1 8 9 2 0 1 4 4 -4
+p622
+aVAndres Nocioni SAC 12/15/2009 SAC @ POR L 17 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 0 0 0 1 1 -21
+p623
+aVSergio Rodriguez SAC 12/15/2009 SAC @ POR L 8 2 0 3 0.0 0 1 0.0 2 3 66.7 0 1 1 2 0 0 2 2 -2
+p624
+aVIme Udoka SAC 12/15/2009 SAC @ POR L 25 8 3 4 75.0 1 1 100.0 1 2 50.0 2 3 5 1 0 0 1 3 16
+p625
+aVOmri Casspi SAC 12/15/2009 SAC @ POR L 19 9 3 5 60.0 1 2 50.0 2 2 100.0 3 0 3 0 0 0 1 1 -1
+p626
+aVJon Brockman SAC 12/15/2009 SAC @ POR L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -1
+p627
+aVTyreke Evans SAC 12/15/2009 SAC @ POR L 33 19 7 9 77.8 0 1 0.0 5 6 83.3 0 7 7 3 2 1 1 4 -8
+p628
+aVBeno Udrih SAC 12/15/2009 SAC @ POR L 31 17 7 15 46.7 2 5 40.0 1 1 100.0 1 0 1 5 2 0 0 3 13
+p629
+aVDonte Greene SAC 12/15/2009 SAC @ POR L 14 6 3 10 30.0 0 2 0.0 0 1 0.0 1 0 1 0 0 0 1 2 -21
+p630
+aVSpencer Hawes SAC 12/15/2009 SAC @ POR L 28 4 2 7 28.6 0 0 - 0 0 - 1 1 2 2 0 0 2 1 -24
+p631
+aVKenny Thomas SAC 12/15/2009 SAC @ POR L 15 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 18
+p632
+aVSergio Rodriguez SAC 12/12/2009 SAC vs. MIN W 21 5 2 5 40.0 0 2 0.0 1 2 50.0 0 1 1 9 2 0 4 3 17
+p633
+aVOmri Casspi SAC 12/12/2009 SAC vs. MIN W 20 14 6 12 50.0 2 6 33.3 0 0 - 0 6 6 2 0 0 2 1 7
+p634
+aVBeno Udrih SAC 12/12/2009 SAC vs. MIN W 25 16 7 12 58.3 2 4 50.0 0 0 - 0 2 2 7 1 0 1 2 12
+p635
+aVTyreke Evans SAC 12/12/2009 SAC vs. MIN W 34 18 7 16 43.8 0 1 0.0 4 5 80.0 1 4 5 5 2 1 2 1 7
+p636
+aVKenny Thomas SAC 12/12/2009 SAC vs. MIN W 10 2 1 1 100.0 0 0 - 0 0 - 2 2 4 2 2 0 1 2 8
+p637
+aVJason Thompson SAC 12/12/2009 SAC vs. MIN W 34 23 11 17 64.7 0 0 - 1 3 33.3 6 6 12 3 1 1 2 1 10
+p638
+aVSean May SAC 12/12/2009 SAC vs. MIN W 6 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p639
+aVIme Udoka SAC 12/12/2009 SAC vs. MIN W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p640
+aVJon Brockman SAC 12/12/2009 SAC vs. MIN W 19 6 2 3 66.7 0 0 - 2 3 66.7 4 4 8 1 0 0 0 4 2
+p641
+aVAndres Nocioni SAC 12/12/2009 SAC vs. MIN W 17 14 5 7 71.4 2 2 100.0 2 3 66.7 0 2 2 0 0 1 0 4 14
+p642
+aVSpencer Hawes SAC 12/12/2009 SAC vs. MIN W 22 8 4 5 80.0 0 0 - 0 0 - 2 3 5 3 1 1 2 3 15
+p643
+aVDonte Greene SAC 12/12/2009 SAC vs. MIN W 27 8 2 11 18.2 0 4 0.0 4 6 66.7 1 3 4 1 1 2 1 1 16
+p644
+aVAndres Nocioni SAC 12/09/2009 SAC @ SAS L 20 8 3 10 30.0 2 4 50.0 0 1 0.0 0 1 1 1 0 0 0 1 -9
+p645
+aVOmri Casspi SAC 12/09/2009 SAC @ SAS L 31 20 9 14 64.3 2 4 50.0 0 2 0.0 1 6 7 2 0 0 3 3 -3
+p646
+aVTyreke Evans SAC 12/09/2009 SAC @ SAS L 39 19 9 20 45.0 0 2 0.0 1 3 33.3 1 3 4 5 4 0 4 3 -7
+p647
+aVDonte Greene SAC 12/09/2009 SAC @ SAS L 24 11 5 7 71.4 1 1 100.0 0 0 - 1 4 5 2 0 2 3 4 -12
+p648
+aVSpencer Hawes SAC 12/09/2009 SAC @ SAS L 30 10 4 7 57.1 0 0 - 2 2 100.0 4 2 6 2 0 0 1 3 -6
+p649
+aVIme Udoka SAC 12/09/2009 SAC @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p650
+aVSergio Rodriguez SAC 12/09/2009 SAC @ SAS L 16 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 4 1 0 2 3 -4
+p651
+aVJason Thompson SAC 12/09/2009 SAC @ SAS L 42 19 8 14 57.1 0 0 - 3 5 60.0 1 8 9 3 1 0 1 5 -16
+p652
+aVBeno Udrih SAC 12/09/2009 SAC @ SAS L 36 15 7 11 63.6 1 2 50.0 0 0 - 0 4 4 6 1 0 1 4 9
+p653
+aVJason Thompson SAC 12/08/2009 SAC @ NOH L 30 20 9 13 69.2 0 0 - 2 5 40.0 1 8 9 1 0 0 2 6 2
+p654
+aVSpencer Hawes SAC 12/08/2009 SAC @ NOH L 31 12 6 12 50.0 0 2 0.0 0 0 - 1 6 7 2 0 0 1 3 -9
+p655
+aVSergio Rodriguez SAC 12/08/2009 SAC @ NOH L 16 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 4 2 1 0 1 4
+p656
+aVDonte Greene SAC 12/08/2009 SAC @ NOH L 22 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 1 1 0 1 1 -8
+p657
+aVBeno Udrih SAC 12/08/2009 SAC @ NOH L 29 13 6 10 60.0 1 3 33.3 0 0 - 0 2 2 4 1 0 1 4 10
+p658
+aVKenny Thomas SAC 12/08/2009 SAC @ NOH L 24 4 2 5 40.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 4
+p659
+aVTyreke Evans SAC 12/08/2009 SAC @ NOH L 38 25 10 17 58.8 0 1 0.0 5 8 62.5 2 3 5 9 1 0 1 1 -6
+p660
+aVIme Udoka SAC 12/08/2009 SAC @ NOH L 17 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 1 2 0 1 1 10
+p661
+aVAndres Nocioni SAC 12/08/2009 SAC @ NOH L 33 8 3 10 30.0 0 2 0.0 2 6 33.3 2 4 6 4 2 1 2 1 -17
+p662
+aVOmri Casspi SAC 12/06/2009 SAC vs. MIA L 19 14 5 8 62.5 4 4 100.0 0 2 0.0 1 2 3 0 0 0 1 5 -4
+p663
+aVJason Thompson SAC 12/06/2009 SAC vs. MIA L 33 5 2 9 22.2 0 0 - 1 2 50.0 4 4 8 4 0 0 1 1 -11
+p664
+aVSergio Rodriguez SAC 12/06/2009 SAC vs. MIA L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 2 0 5 0 -2
+p665
+aVIme Udoka SAC 12/06/2009 SAC vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p666
+aVKenny Thomas SAC 12/06/2009 SAC vs. MIA L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -5
+p667
+aVAndres Nocioni SAC 12/06/2009 SAC vs. MIA L 30 9 4 13 30.8 1 7 14.3 0 0 - 2 4 6 0 0 0 2 1 -3
+p668
+aVBeno Udrih SAC 12/06/2009 SAC vs. MIA L 24 11 4 7 57.1 2 2 100.0 1 1 100.0 0 4 4 3 0 1 2 0 -9
+p669
+aVDonte Greene SAC 12/06/2009 SAC vs. MIA L 41 21 8 16 50.0 1 5 20.0 4 7 57.1 0 2 2 3 1 0 2 3 -3
+p670
+aVTyreke Evans SAC 12/06/2009 SAC vs. MIA L 39 30 10 19 52.6 0 3 0.0 10 12 83.3 3 1 4 4 3 0 2 5 -18
+p671
+aVSpencer Hawes SAC 12/06/2009 SAC vs. MIA L 27 8 2 4 50.0 0 1 0.0 4 8 50.0 1 2 3 1 0 0 2 4 -3
+p672
+aVJon Brockman SAC 12/06/2009 SAC vs. MIA L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 2
+p673
+aVIme Udoka SAC 12/05/2009 SAC @ PHX L 9 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 -11
+p674
+aVTyreke Evans SAC 12/05/2009 SAC @ PHX L 32 21 8 16 50.0 1 3 33.3 4 6 66.7 2 4 6 7 2 1 0 3 -7
+p675
+aVJason Thompson SAC 12/05/2009 SAC @ PHX L 23 13 5 9 55.6 0 0 - 3 4 75.0 1 3 4 0 0 0 1 4 -6
+p676
+aVOmri Casspi SAC 12/05/2009 SAC @ PHX L 26 8 2 8 25.0 0 1 0.0 4 6 66.7 2 3 5 0 0 0 1 2 2
+p677
+aVSergio Rodriguez SAC 12/05/2009 SAC @ PHX L 22 12 5 10 50.0 1 3 33.3 1 2 50.0 1 0 1 3 2 1 2 1 0
+p678
+aVKenny Thomas SAC 12/05/2009 SAC @ PHX L 27 4 2 5 40.0 0 0 - 0 0 - 8 10 18 1 1 1 1 5 5
+p679
+aVAndres Nocioni SAC 12/05/2009 SAC @ PHX L 31 20 7 13 53.8 4 7 57.1 2 2 100.0 0 4 4 1 1 0 1 2 -11
+p680
+aVBeno Udrih SAC 12/05/2009 SAC @ PHX L 24 12 4 8 50.0 1 4 25.0 3 3 100.0 0 2 2 3 1 0 2 1 -7
+p681
+aVDonte Greene SAC 12/05/2009 SAC @ PHX L 13 4 1 5 20.0 1 3 33.3 1 4 25.0 0 2 2 1 0 0 1 4 1
+p682
+aVSpencer Hawes SAC 12/05/2009 SAC @ PHX L 32 10 4 14 28.6 0 1 0.0 2 2 100.0 3 2 5 2 1 1 1 3 -6
+p683
+aVAndres Nocioni SAC 12/02/2009 SAC vs. IND W 33 13 5 11 45.5 3 5 60.0 0 0 - 0 5 5 4 0 0 2 5 24
+p684
+aVOmri Casspi SAC 12/02/2009 SAC vs. IND W 24 10 3 4 75.0 1 1 100.0 3 4 75.0 0 3 3 3 0 0 1 2 -5
+p685
+aVIme Udoka SAC 12/02/2009 SAC vs. IND W 18 2 1 4 25.0 0 2 0.0 0 0 - 1 4 5 3 2 0 0 3 -5
+p686
+aVJon Brockman SAC 12/02/2009 SAC vs. IND W 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -9
+p687
+aVTyreke Evans SAC 12/02/2009 SAC vs. IND W 32 26 7 14 50.0 0 2 0.0 12 14 85.7 0 5 5 6 0 0 4 5 1
+p688
+aVDonte Greene SAC 12/02/2009 SAC vs. IND W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 4 1 -3
+p689
+aVSpencer Hawes SAC 12/02/2009 SAC vs. IND W 33 21 9 14 64.3 3 4 75.0 0 2 0.0 5 2 7 2 1 2 1 3 8
+p690
+aVSergio Rodriguez SAC 12/02/2009 SAC vs. IND W 15 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 4 1 0 1 0 4
+p691
+aVJason Thompson SAC 12/02/2009 SAC vs. IND W 40 22 9 17 52.9 0 0 - 4 5 80.0 3 3 6 2 0 1 3 2 7
+p692
+aVBeno Udrih SAC 12/02/2009 SAC vs. IND W 25 9 4 8 50.0 1 2 50.0 0 0 - 0 4 4 4 0 0 2 1 3
+p693
+aVOmri Casspi SAC 11/29/2009 SAC vs. NOH W 29 12 5 10 50.0 1 2 50.0 1 2 50.0 1 4 5 1 0 0 1 1 19
+p694
+aVJon Brockman SAC 11/29/2009 SAC vs. NOH W 17 5 2 3 66.7 0 0 - 1 2 50.0 4 4 8 0 0 0 2 2 19
+p695
+aVSergio Rodriguez SAC 11/29/2009 SAC vs. NOH W 24 24 9 14 64.3 2 4 50.0 4 4 100.0 0 2 2 5 2 0 0 1 20
+p696
+aVBeno Udrih SAC 11/29/2009 SAC vs. NOH W 25 13 5 5 100.0 2 2 100.0 1 2 50.0 0 0 0 1 3 0 1 1 9
+p697
+aVAndres Nocioni SAC 11/29/2009 SAC vs. NOH W 20 13 5 12 41.7 3 6 50.0 0 0 - 0 2 2 1 0 0 0 3 0
+p698
+aVIme Udoka SAC 11/29/2009 SAC vs. NOH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p699
+aVJason Thompson SAC 11/29/2009 SAC vs. NOH W 46 22 8 13 61.5 0 0 - 6 7 85.7 4 10 14 1 0 0 2 2 13
+p700
+aVKenny Thomas SAC 11/29/2009 SAC vs. NOH W 20 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 4 -13
+p701
+aVTyreke Evans SAC 11/29/2009 SAC vs. NOH W 40 14 6 15 40.0 0 1 0.0 2 2 100.0 1 0 1 4 0 0 4 2 18
+p702
+aVDonte Greene SAC 11/29/2009 SAC vs. NOH W 19 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 3 1 1 1 0 -4
+p703
+aVSpencer Hawes SAC 11/27/2009 SAC vs. NJN W 28 16 6 11 54.5 1 4 25.0 3 4 75.0 2 8 10 1 0 3 2 1 14
+p704
+aVSean May SAC 11/27/2009 SAC vs. NJN W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p705
+aVAndres Nocioni SAC 11/27/2009 SAC vs. NJN W 17 5 1 5 20.0 1 1 100.0 2 2 100.0 0 3 3 1 1 1 3 3 4
+p706
+aVJon Brockman SAC 11/27/2009 SAC vs. NJN W 14 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 5
+p707
+aVDonte Greene SAC 11/27/2009 SAC vs. NJN W 16 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 2 0 2 0 2 2
+p708
+aVKenny Thomas SAC 11/27/2009 SAC vs. NJN W 16 7 3 3 100.0 0 0 - 1 2 50.0 0 2 2 0 1 1 1 2 0
+p709
+aVBeno Udrih SAC 11/27/2009 SAC vs. NJN W 33 21 8 10 80.0 1 3 33.3 4 4 100.0 1 1 2 5 1 0 2 3 7
+p710
+aVJason Thompson SAC 11/27/2009 SAC vs. NJN W 28 10 3 6 50.0 0 0 - 4 6 66.7 0 8 8 2 0 3 1 5 4
+p711
+aVTyreke Evans SAC 11/27/2009 SAC vs. NJN W 39 21 8 16 50.0 1 1 100.0 4 4 100.0 0 8 8 3 1 0 4 3 8
+p712
+aVOmri Casspi SAC 11/27/2009 SAC vs. NJN W 31 18 6 11 54.5 2 2 100.0 4 8 50.0 1 3 4 1 1 1 1 2 15
+p713
+aVSergio Rodriguez SAC 11/27/2009 SAC vs. NJN W 15 6 2 3 66.7 0 1 0.0 2 2 100.0 0 3 3 3 1 0 1 1 12
+p714
+aVSergio Rodriguez SAC 11/25/2009 SAC vs. NYK W 32 15 4 13 30.8 2 5 40.0 5 7 71.4 1 3 4 4 2 0 4 4 5
+p715
+aVOmri Casspi SAC 11/25/2009 SAC vs. NYK W 20 11 4 9 44.4 1 3 33.3 2 4 50.0 1 2 3 1 0 0 0 1 -7
+p716
+aVDonte Greene SAC 11/25/2009 SAC vs. NYK W 35 24 9 13 69.2 6 7 85.7 0 0 - 1 3 4 5 1 6 5 3 20
+p717
+aVJon Brockman SAC 11/25/2009 SAC vs. NYK W 26 6 3 6 50.0 0 0 - 0 0 - 4 5 9 1 1 0 1 3 9
+p718
+aVSpencer Hawes SAC 11/25/2009 SAC vs. NYK W 18 16 7 8 87.5 1 1 100.0 1 1 100.0 1 2 3 1 0 0 1 1 8
+p719
+aVAndres Nocioni SAC 11/25/2009 SAC vs. NYK W 26 10 4 9 44.4 2 7 28.6 0 0 - 0 4 4 2 0 0 0 0 6
+p720
+aVJason Thompson SAC 11/25/2009 SAC vs. NYK W 25 10 4 10 40.0 0 0 - 2 2 100.0 2 6 8 1 1 0 1 5 18
+p721
+aVTyreke Evans SAC 11/25/2009 SAC vs. NYK W 39 19 8 19 42.1 0 3 0.0 3 4 75.0 2 9 11 7 2 0 4 3 23
+p722
+aVIme Udoka SAC 11/25/2009 SAC vs. NYK W 17 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 0 2 0 2 2 -12
+p723
+aVKenny Thomas SAC 11/23/2009 SAC @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 1
+p724
+aVSean May SAC 11/23/2009 SAC @ MEM L 6 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 0
+p725
+aVDonte Greene SAC 11/23/2009 SAC @ MEM L 19 11 4 11 36.4 2 7 28.6 1 2 50.0 1 1 2 0 1 0 0 6 3
+p726
+aVIme Udoka SAC 11/23/2009 SAC @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p727
+aVBeno Udrih SAC 11/23/2009 SAC @ MEM L 29 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 2 1 0 2 2 -15
+p728
+aVJon Brockman SAC 11/23/2009 SAC @ MEM L 14 7 3 3 100.0 0 0 - 1 2 50.0 2 1 3 1 0 0 1 4 10
+p729
+aVSpencer Hawes SAC 11/23/2009 SAC @ MEM L 25 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 3 0 1 4 2 -20
+p730
+aVAndres Nocioni SAC 11/23/2009 SAC @ MEM L 31 10 4 7 57.1 1 3 33.3 1 3 33.3 1 2 3 1 2 0 4 2 -22
+p731
+aVSergio Rodriguez SAC 11/23/2009 SAC @ MEM L 18 16 6 8 75.0 1 1 100.0 3 5 60.0 0 0 0 7 0 0 1 2 10
+p732
+aVTyreke Evans SAC 11/23/2009 SAC @ MEM L 37 28 10 18 55.6 1 1 100.0 7 7 100.0 0 4 4 4 1 0 5 4 -12
+p733
+aVOmri Casspi SAC 11/23/2009 SAC @ MEM L 27 15 6 11 54.5 1 2 50.0 2 2 100.0 0 3 3 1 2 0 3 1 2
+p734
+aVJason Thompson SAC 11/23/2009 SAC @ MEM L 28 8 3 10 30.0 0 0 - 2 2 100.0 5 5 10 0 0 0 1 5 -8
+p735
+aVDonte Greene SAC 11/21/2009 SAC @ HOU L 28 13 5 5 100.0 2 2 100.0 1 1 100.0 0 1 1 0 1 0 4 4 -14
+p736
+aVBeno Udrih SAC 11/21/2009 SAC @ HOU L 37 18 8 18 44.4 2 4 50.0 0 0 - 0 1 1 8 2 0 1 1 1
+p737
+aVKenny Thomas SAC 11/21/2009 SAC @ HOU L 14 1 0 0 - 0 0 - 1 4 25.0 1 4 5 1 0 1 1 4 -1
+p738
+aVOmri Casspi SAC 11/21/2009 SAC @ HOU L 36 17 6 15 40.0 1 3 33.3 4 4 100.0 2 6 8 1 1 0 1 1 -3
+p739
+aVSpencer Hawes SAC 11/21/2009 SAC @ HOU L 36 24 10 16 62.5 2 3 66.7 2 2 100.0 2 7 9 2 0 2 4 4 -1
+p740
+aVAndres Nocioni SAC 11/21/2009 SAC @ HOU L 40 12 6 16 37.5 0 3 0.0 0 0 - 1 8 9 4 1 0 0 4 6
+p741
+aVSergio Rodriguez SAC 11/21/2009 SAC @ HOU L 11 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 4 0 0 1 0 -10
+p742
+aVJon Brockman SAC 11/21/2009 SAC @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p743
+aVJason Thompson SAC 11/21/2009 SAC @ HOU L 38 15 6 12 50.0 0 0 - 3 4 75.0 3 2 5 4 0 1 2 5 -13
+p744
+aVSergio Rodriguez SAC 11/20/2009 SAC @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 3
+p745
+aVIme Udoka SAC 11/20/2009 SAC @ DAL L 13 5 0 4 0.0 0 3 0.0 5 6 83.3 1 2 3 0 1 0 1 1 -3
+p746
+aVKenny Thomas SAC 11/20/2009 SAC @ DAL L 15 0 0 1 0.0 0 0 - 0 0 - 3 4 7 0 0 0 1 0 -3
+p747
+aVJason Thompson SAC 11/20/2009 SAC @ DAL L 36 18 9 13 69.2 0 0 - 0 1 0.0 2 6 8 0 1 2 4 5 -1
+p748
+aVTyreke Evans SAC 11/20/2009 SAC @ DAL L 44 29 13 21 61.9 2 2 100.0 1 2 50.0 1 6 7 10 1 1 5 3 0
+p749
+aVSpencer Hawes SAC 11/20/2009 SAC @ DAL L 25 6 3 6 50.0 0 0 - 0 0 - 1 5 6 1 1 0 1 2 8
+p750
+aVBeno Udrih SAC 11/20/2009 SAC @ DAL L 42 20 9 15 60.0 1 3 33.3 1 1 100.0 1 3 4 5 0 1 3 2 -6
+p751
+aVAndres Nocioni SAC 11/20/2009 SAC @ DAL L 26 15 6 13 46.2 2 4 50.0 1 1 100.0 1 2 3 2 0 1 3 4 -18
+p752
+aVOmri Casspi SAC 11/20/2009 SAC @ DAL L 24 9 3 6 50.0 1 3 33.3 2 3 66.7 0 4 4 2 2 0 2 3 15
+p753
+aVDonte Greene SAC 11/20/2009 SAC @ DAL L 12 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 -5
+p754
+aVTyreke Evans SAC 11/17/2009 SAC vs. CHI L 42 20 8 19 42.1 0 4 0.0 4 4 100.0 1 3 4 4 2 3 4 2 -7
+p755
+aVKenny Thomas SAC 11/17/2009 SAC vs. CHI L 18 0 0 0 - 0 0 - 0 0 - 3 5 8 0 0 2 2 3 -13
+p756
+aVDonte Greene SAC 11/17/2009 SAC vs. CHI L 34 24 10 19 52.6 2 8 25.0 2 6 33.3 1 4 5 0 1 0 0 2 -6
+p757
+aVBeno Udrih SAC 11/17/2009 SAC vs. CHI L 33 13 5 13 38.5 1 4 25.0 2 2 100.0 0 2 2 5 1 0 2 1 -12
+p758
+aVOmri Casspi SAC 11/17/2009 SAC vs. CHI L 18 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 0 0 0 4 1 -11
+p759
+aVJon Brockman SAC 11/17/2009 SAC vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p760
+aVIme Udoka SAC 11/17/2009 SAC vs. CHI L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 1 0 1 4 -10
+p761
+aVSergio Rodriguez SAC 11/17/2009 SAC vs. CHI L 20 9 4 6 66.7 1 1 100.0 0 0 - 1 2 3 5 1 0 1 1 -1
+p762
+aVJason Thompson SAC 11/17/2009 SAC vs. CHI L 34 8 3 7 42.9 0 0 - 2 3 66.7 4 5 9 0 1 1 7 5 -8
+p763
+aVSpencer Hawes SAC 11/17/2009 SAC vs. CHI L 24 7 2 8 25.0 0 1 0.0 3 3 100.0 2 2 4 2 1 1 0 1 -4
+p764
+aVOmri Casspi SAC 11/13/2009 SAC vs. HOU W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -4
+p765
+aVSpencer Hawes SAC 11/13/2009 SAC vs. HOU W 27 6 2 11 18.2 0 1 0.0 2 2 100.0 2 7 9 1 1 1 3 5 3
+p766
+aVAndres Nocioni SAC 11/13/2009 SAC vs. HOU W 29 15 5 12 41.7 2 4 50.0 3 5 60.0 1 6 7 3 2 0 3 2 3
+p767
+aVTyreke Evans SAC 11/13/2009 SAC vs. HOU W 40 20 9 17 52.9 2 4 50.0 0 2 0.0 0 6 6 4 1 1 3 1 -3
+p768
+aVBeno Udrih SAC 11/13/2009 SAC vs. HOU W 40 22 9 15 60.0 4 6 66.7 0 0 - 1 2 3 4 0 0 2 3 9
+p769
+aVIme Udoka SAC 11/13/2009 SAC vs. HOU W 21 8 2 4 50.0 0 0 - 4 4 100.0 0 6 6 1 1 0 0 0 10
+p770
+aVKenny Thomas SAC 11/13/2009 SAC vs. HOU W 19 3 1 2 50.0 0 0 - 1 2 50.0 1 6 7 0 0 1 1 1 10
+p771
+aVDonte Greene SAC 11/13/2009 SAC vs. HOU W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 2 2 6
+p772
+aVJon Brockman SAC 11/13/2009 SAC vs. HOU W 12 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 1 0 0 1 2 3
+p773
+aVJason Thompson SAC 11/13/2009 SAC vs. HOU W 37 27 9 15 60.0 0 0 - 9 10 90.0 9 2 11 2 0 2 2 4 8
+p774
+aVKenny Thomas SAC 11/10/2009 SAC vs. OKC W 11 4 1 1 100.0 0 0 - 2 2 100.0 4 1 5 0 0 0 2 2 6
+p775
+aVTyreke Evans SAC 11/10/2009 SAC vs. OKC W 34 20 5 16 31.3 0 2 0.0 10 10 100.0 0 8 8 8 1 0 5 5 5
+p776
+aVSpencer Hawes SAC 11/10/2009 SAC vs. OKC W 32 12 5 10 50.0 0 3 0.0 2 2 100.0 2 6 8 2 0 4 1 4 -5
+p777
+aVIme Udoka SAC 11/10/2009 SAC vs. OKC W 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 2 2 0 1 1 -2
+p778
+aVAndres Nocioni SAC 11/10/2009 SAC vs. OKC W 35 16 6 12 50.0 1 4 25.0 3 3 100.0 1 4 5 1 1 0 1 3 11
+p779
+aVOmri Casspi SAC 11/10/2009 SAC vs. OKC W 24 8 3 5 60.0 1 3 33.3 1 3 33.3 1 2 3 1 1 0 1 2 -5
+p780
+aVDonte Greene SAC 11/10/2009 SAC vs. OKC W 13 6 2 3 66.7 0 0 - 2 4 50.0 0 1 1 0 1 0 1 0 -3
+p781
+aVBeno Udrih SAC 11/10/2009 SAC vs. OKC W 40 12 5 11 45.5 0 2 0.0 2 2 100.0 0 4 4 3 2 0 4 5 2
+p782
+aVJason Thompson SAC 11/10/2009 SAC vs. OKC W 40 21 6 15 40.0 0 0 - 9 10 90.0 7 7 14 0 2 1 5 5 6
+p783
+aVSpencer Hawes SAC 11/08/2009 SAC vs. GSW W 22 10 3 5 60.0 0 0 - 4 5 80.0 3 3 6 1 0 2 4 1 6
+p784
+aVDonte Greene SAC 11/08/2009 SAC vs. GSW W 20 17 6 12 50.0 0 2 0.0 5 5 100.0 1 4 5 1 1 1 1 1 2
+p785
+aVOmri Casspi SAC 11/08/2009 SAC vs. GSW W 36 12 4 6 66.7 4 6 66.7 0 4 0.0 0 10 10 5 3 0 3 5 0
+p786
+aVJason Thompson SAC 11/08/2009 SAC vs. GSW W 27 19 6 11 54.5 0 0 - 7 8 87.5 3 7 10 0 0 1 0 2 16
+p787
+aVBeno Udrih SAC 11/08/2009 SAC vs. GSW W 35 20 9 14 64.3 0 2 0.0 2 3 66.7 2 1 3 6 0 0 2 2 23
+p788
+aVAndres Nocioni SAC 11/08/2009 SAC vs. GSW W 28 10 5 15 33.3 0 5 0.0 0 0 - 0 1 1 2 1 0 0 3 11
+p789
+aVSergio Rodriguez SAC 11/08/2009 SAC vs. GSW W 6 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 1 1 0 0 2 -6
+p790
+aVTyreke Evans SAC 11/08/2009 SAC vs. GSW W 29 23 8 15 53.3 1 1 100.0 6 7 85.7 2 6 8 2 2 0 0 1 18
+p791
+aVIme Udoka SAC 11/08/2009 SAC vs. GSW W 33 6 1 6 16.7 0 1 0.0 4 4 100.0 2 4 6 3 0 0 3 3 7
+p792
+aVJon Brockman SAC 11/08/2009 SAC vs. GSW W 5 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -12
+p793
+aVBeno Udrih SAC 11/07/2009 SAC @ UTA W 33 15 6 12 50.0 1 3 33.3 2 2 100.0 0 3 3 4 0 0 0 1 3
+p794
+aVSergio Rodriguez SAC 11/07/2009 SAC @ UTA W 8 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 1 0 0 0 1 -8
+p795
+aVJason Thompson SAC 11/07/2009 SAC @ UTA W 39 12 3 6 50.0 0 0 - 6 8 75.0 1 10 11 5 1 1 2 5 4
+p796
+aVDonte Greene SAC 11/07/2009 SAC @ UTA W 12 10 4 4 100.0 2 2 100.0 0 0 - 0 0 0 0 1 0 0 2 9
+p797
+aVIme Udoka SAC 11/07/2009 SAC @ UTA W 20 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 1 3 1 0 2 19
+p798
+aVAndres Nocioni SAC 11/07/2009 SAC @ UTA W 28 14 5 10 50.0 4 7 57.1 0 0 - 1 4 5 0 0 0 2 4 -17
+p799
+aVSean May SAC 11/07/2009 SAC @ UTA W 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 3 0
+p800
+aVTyreke Evans SAC 11/07/2009 SAC @ UTA W 43 32 7 15 46.7 2 3 66.7 16 19 84.2 0 3 3 7 1 0 2 2 11
+p801
+aVSpencer Hawes SAC 11/07/2009 SAC @ UTA W 30 7 3 8 37.5 0 1 0.0 1 1 100.0 0 4 4 1 1 1 2 3 1
+p802
+aVKenny Thomas SAC 11/07/2009 SAC @ UTA W 15 4 1 1 100.0 0 0 - 2 2 100.0 1 5 6 0 0 0 1 1 3
+p803
+aVSpencer Hawes SAC 11/04/2009 SAC vs. ATL L 31 6 3 9 33.3 0 0 - 0 0 - 3 4 7 2 2 0 1 3 -3
+p804
+aVKevin Martin SAC 11/04/2009 SAC vs. ATL L 40 29 11 22 50.0 2 5 40.0 5 6 83.3 2 9 11 2 1 0 0 1 -11
+p805
+aVBeno Udrih SAC 11/04/2009 SAC vs. ATL L 24 14 5 11 45.5 2 4 50.0 2 2 100.0 0 0 0 1 1 0 1 1 -4
+p806
+aVAndres Nocioni SAC 11/04/2009 SAC vs. ATL L 32 14 5 10 50.0 1 3 33.3 3 6 50.0 1 5 6 2 1 0 1 2 -3
+p807
+aVJon Brockman SAC 11/04/2009 SAC vs. ATL L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -5
+p808
+aVDesmond Mason SAC 11/04/2009 SAC vs. ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p809
+aVOmri Casspi SAC 11/04/2009 SAC vs. ATL L 15 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 2 -6
+p810
+aVSean May SAC 11/04/2009 SAC vs. ATL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p811
+aVTyreke Evans SAC 11/04/2009 SAC vs. ATL L 39 15 7 21 33.3 0 3 0.0 1 2 50.0 2 1 3 4 3 0 2 2 4
+p812
+aVJason Thompson SAC 11/04/2009 SAC vs. ATL L 40 22 7 15 46.7 0 0 - 8 9 88.9 8 4 12 5 2 1 0 4 -6
+p813
+aVKenny Thomas SAC 11/04/2009 SAC vs. ATL L 8 0 0 2 0.0 0 0 - 0 0 - 2 1 3 2 1 0 1 1 -2
+p814
+aVSean May SAC 11/02/2009 SAC vs. MEM W 9 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 1 0 1 4 -11
+p815
+aVDesmond Mason SAC 11/02/2009 SAC vs. MEM W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p816
+aVBeno Udrih SAC 11/02/2009 SAC vs. MEM W 29 16 7 12 58.3 2 3 66.7 0 0 - 1 3 4 6 1 0 3 1 27
+p817
+aVJon Brockman SAC 11/02/2009 SAC vs. MEM W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p818
+aVKevin Martin SAC 11/02/2009 SAC vs. MEM W 52 48 14 27 51.9 7 10 70.0 13 18 72.2 1 4 5 4 4 1 3 2 10
+p819
+aVOmri Casspi SAC 11/02/2009 SAC vs. MEM W 30 15 6 9 66.7 3 4 75.0 0 2 0.0 3 1 4 1 2 2 1 0 22
+p820
+aVKenny Thomas SAC 11/02/2009 SAC vs. MEM W 14 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 -2
+p821
+aVSpencer Hawes SAC 11/02/2009 SAC vs. MEM W 44 21 9 17 52.9 0 3 0.0 3 4 75.0 1 10 11 7 0 2 1 1 15
+p822
+aVJason Thompson SAC 11/02/2009 SAC vs. MEM W 29 7 3 8 37.5 0 0 - 1 2 50.0 2 3 5 2 0 2 1 6 2
+p823
+aVTyreke Evans SAC 11/02/2009 SAC vs. MEM W 24 3 0 4 0.0 0 0 - 3 6 50.0 0 3 3 4 0 0 2 2 -16
+p824
+aVAndres Nocioni SAC 11/02/2009 SAC vs. MEM W 20 13 4 9 44.4 2 5 40.0 3 4 75.0 0 3 3 1 0 2 1 4 17
+p825
+aVDesmond Mason SAC 10/31/2009 SAC @ SAS L 21 7 2 3 66.7 0 0 - 3 4 75.0 2 3 5 1 1 0 2 1 -14
+p826
+aVSean May SAC 10/31/2009 SAC @ SAS L 16 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -2
+p827
+aVDonte Greene SAC 10/31/2009 SAC @ SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 2
+p828
+aVSergio Rodriguez SAC 10/31/2009 SAC @ SAS L 8 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 1 7
+p829
+aVJason Thompson SAC 10/31/2009 SAC @ SAS L 29 6 2 5 40.0 0 0 - 2 2 100.0 2 5 7 4 1 1 0 5 4
+p830
+aVSpencer Hawes SAC 10/31/2009 SAC @ SAS L 31 22 8 15 53.3 0 1 0.0 6 7 85.7 3 7 10 0 0 0 5 5 -9
+p831
+aVJon Brockman SAC 10/31/2009 SAC @ SAS L 10 2 1 2 50.0 0 0 - 0 2 0.0 2 1 3 0 0 0 0 1 -10
+p832
+aVBeno Udrih SAC 10/31/2009 SAC @ SAS L 19 6 2 4 50.0 1 1 100.0 1 2 50.0 1 1 2 1 1 1 2 3 -7
+p833
+aVKevin Martin SAC 10/31/2009 SAC @ SAS L 34 29 8 14 57.1 3 5 60.0 10 11 90.9 0 0 0 0 1 0 2 0 -22
+p834
+aVOmri Casspi SAC 10/31/2009 SAC @ SAS L 25 7 3 8 37.5 1 3 33.3 0 2 0.0 2 0 2 1 0 0 2 0 -9
+p835
+aVTyreke Evans SAC 10/31/2009 SAC @ SAS L 24 6 3 9 33.3 0 2 0.0 0 2 0.0 1 1 2 6 2 0 2 3 -15
+p836
+aVAndres Nocioni SAC 10/31/2009 SAC @ SAS L 18 2 1 7 14.3 0 4 0.0 0 1 0.0 1 2 3 1 1 1 1 0 -20
+p837
+aVKevin Martin SAC 10/30/2009 SAC @ NOH L 42 20 9 29 31.0 2 10 20.0 0 0 - 2 5 7 3 1 0 1 2 1
+p838
+aVJon Brockman SAC 10/30/2009 SAC @ NOH L 19 5 2 4 50.0 0 0 - 1 5 20.0 5 5 10 1 0 0 0 4 -3
+p839
+aVTyreke Evans SAC 10/30/2009 SAC @ NOH L 33 22 7 13 53.8 1 3 33.3 7 8 87.5 0 3 3 2 2 0 3 4 -10
+p840
+aVJason Thompson SAC 10/30/2009 SAC @ NOH L 39 9 4 16 25.0 0 0 - 1 1 100.0 6 6 12 6 0 1 0 2 -5
+p841
+aVSergio Rodriguez SAC 10/30/2009 SAC @ NOH L 0 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p842
+aVSpencer Hawes SAC 10/30/2009 SAC @ NOH L 14 2 1 6 16.7 0 1 0.0 0 0 - 3 1 4 1 1 1 1 3 -6
+p843
+aVSean May SAC 10/30/2009 SAC @ NOH L 22 7 3 4 75.0 0 0 - 1 2 50.0 1 6 7 2 3 0 2 3 8
+p844
+aVOmri Casspi SAC 10/30/2009 SAC @ NOH L 10 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p845
+aVAndres Nocioni SAC 10/30/2009 SAC @ NOH L 24 16 5 8 62.5 3 6 50.0 3 4 75.0 1 0 1 1 0 0 0 2 -10
+p846
+aVBeno Udrih SAC 10/30/2009 SAC @ NOH L 18 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 4 0 0 2 3 2
+p847
+aVDesmond Mason SAC 10/30/2009 SAC @ NOH L 18 4 2 5 40.0 0 0 - 0 0 - 2 4 6 1 0 1 1 1 7
+p848
+aVDesmond Mason SAC 10/28/2009 SAC @ OKC L 17 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -18
+p849
+aVSean May SAC 10/28/2009 SAC @ OKC L 18 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 1 1 1 0 1 -12
+p850
+aVSpencer Hawes SAC 10/28/2009 SAC @ OKC L 35 8 4 10 40.0 0 2 0.0 0 0 - 1 5 6 1 1 1 2 3 -8
+p851
+aVJason Thompson SAC 10/28/2009 SAC @ OKC L 30 11 3 4 75.0 0 0 - 5 8 62.5 5 4 9 2 0 2 1 4 -13
+p852
+aVOmri Casspi SAC 10/28/2009 SAC @ OKC L 19 15 7 10 70.0 0 2 0.0 1 2 50.0 2 2 4 0 0 1 1 1 10
+p853
+aVTyreke Evans SAC 10/28/2009 SAC @ OKC L 35 10 5 15 33.3 0 1 0.0 0 2 0.0 1 3 4 2 1 0 3 5 -20
+p854
+aVAndres Nocioni SAC 10/28/2009 SAC @ OKC L 23 4 2 7 28.6 0 1 0.0 0 0 - 0 6 6 0 0 0 1 4 5
+p855
+aVSergio Rodriguez SAC 10/28/2009 SAC @ OKC L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 7
+p856
+aVKevin Martin SAC 10/28/2009 SAC @ OKC L 41 27 5 19 26.3 3 8 37.5 14 14 100.0 1 3 4 4 3 0 1 1 -19
+p857
+aVDonte Greene SAC 10/28/2009 SAC @ OKC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p858
+aVJon Brockman SAC 10/28/2009 SAC @ OKC L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p859
+a.

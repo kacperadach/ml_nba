@@ -1,0 +1,964 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChris Dudley NYK 05/05/1999 NYK vs. MIA W 30 4 2 6 33.3 0 0 - 0 0 - 4 7 11 0 1 0 3 5 13
+p2
+aVCharlie Ward NYK 05/05/1999 NYK vs. MIA W 30 7 2 5 40.0 0 1 0.0 3 5 60.0 0 2 2 9 2 0 0 3 6
+p3
+aVMarcus Camby NYK 05/05/1999 NYK vs. MIA W 37 22 11 15 73.3 0 0 - 0 0 - 4 4 8 0 1 2 2 3 5
+p4
+aVLarry Johnson NYK 05/05/1999 NYK vs. MIA W 16 11 5 8 62.5 0 0 - 1 1 100.0 1 2 3 0 0 0 0 2 4
+p5
+aVAllan Houston NYK 05/05/1999 NYK vs. MIA W 22 11 5 12 41.7 0 1 0.0 1 2 50.0 0 1 1 0 3 0 3 1 0
+p6
+aVBen Davis NYK 05/05/1999 NYK vs. MIA W 3 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 5
+p7
+aVRick Brunson NYK 05/05/1999 NYK vs. MIA W 24 0 0 4 0.0 0 1 0.0 0 4 0.0 1 2 3 12 2 0 3 1 14
+p8
+aVKurt Thomas NYK 05/05/1999 NYK vs. MIA W 25 20 8 15 53.3 0 0 - 4 4 100.0 3 1 4 0 1 0 1 4 3
+p9
+aVDavid Wingate NYK 05/05/1999 NYK vs. MIA W 24 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 3 0 2 1 13
+p10
+aVLatrell Sprewell NYK 05/05/1999 NYK vs. MIA W 29 18 8 14 57.1 0 1 0.0 2 3 66.7 0 2 2 3 0 0 0 2 2
+p11
+aVKurt Thomas NYK 05/03/1999 NYK vs. BOS W 22 8 4 6 66.7 0 0 - 0 1 0.0 0 2 2 2 2 1 0 4 9
+p12
+aVLarry Johnson NYK 05/03/1999 NYK vs. BOS W 35 5 2 6 33.3 1 2 50.0 0 0 - 1 3 4 1 1 0 2 1 9
+p13
+aVPatrick Ewing NYK 05/03/1999 NYK vs. BOS W 38 27 10 21 47.6 0 0 - 7 11 63.6 2 17 19 3 0 2 3 2 9
+p14
+aVCharlie Ward NYK 05/03/1999 NYK vs. BOS W 30 7 3 4 75.0 1 2 50.0 0 0 - 0 5 5 10 4 1 1 2 22
+p15
+aVLatrell Sprewell NYK 05/03/1999 NYK vs. BOS W 32 13 4 13 30.8 0 0 - 5 6 83.3 2 4 6 2 2 0 3 1 -4
+p16
+aVChris Childs NYK 05/03/1999 NYK vs. BOS W 18 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 -15
+p17
+aVAllan Houston NYK 05/03/1999 NYK vs. BOS W 39 21 8 14 57.1 0 0 - 5 5 100.0 1 4 5 5 0 0 3 2 12
+p18
+aVMarcus Camby NYK 05/03/1999 NYK vs. BOS W 19 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 0 0 1 4 -1
+p19
+aVChris Dudley NYK 05/03/1999 NYK vs. BOS W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p20
+aVHerb Williams NYK 05/02/1999 NYK @ IND L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p21
+aVLatrell Sprewell NYK 05/02/1999 NYK @ IND L 34 14 6 17 35.3 1 2 50.0 1 1 100.0 3 2 5 2 1 0 0 1 -15
+p22
+aVDavid Wingate NYK 05/02/1999 NYK @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p23
+aVAllan Houston NYK 05/02/1999 NYK @ IND L 37 12 5 17 29.4 0 0 - 2 4 50.0 0 4 4 1 1 0 1 3 -17
+p24
+aVMarcus Camby NYK 05/02/1999 NYK @ IND L 21 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -8
+p25
+aVChris Childs NYK 05/02/1999 NYK @ IND L 19 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 -9
+p26
+aVKurt Thomas NYK 05/02/1999 NYK @ IND L 22 5 1 10 10.0 0 0 - 3 4 75.0 4 2 6 0 0 1 0 1 -8
+p27
+aVCharlie Ward NYK 05/02/1999 NYK @ IND L 27 6 3 6 50.0 0 2 0.0 0 0 - 2 3 5 4 2 0 2 2 -9
+p28
+aVRick Brunson NYK 05/02/1999 NYK @ IND L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p29
+aVPatrick Ewing NYK 05/02/1999 NYK @ IND L 24 15 6 14 42.9 0 0 - 3 3 100.0 3 5 8 0 0 3 1 2 -19
+p30
+aVChris Dudley NYK 05/02/1999 NYK @ IND L 18 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 1 1 0 2 -1
+p31
+aVLarry Johnson NYK 05/02/1999 NYK @ IND L 25 7 3 9 33.3 1 2 50.0 0 0 - 3 3 6 1 0 0 2 2 -17
+p32
+aVLatrell Sprewell NYK 04/29/1999 NYK vs. PHI W 35 30 11 17 64.7 3 3 100.0 5 6 83.3 0 2 2 3 4 0 1 1 18
+p33
+aVLarry Johnson NYK 04/29/1999 NYK vs. PHI W 38 6 2 10 20.0 0 4 0.0 2 2 100.0 3 7 10 5 0 0 1 2 17
+p34
+aVPatrick Ewing NYK 04/29/1999 NYK vs. PHI W 21 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 0 0 1 1 3 4
+p35
+aVKurt Thomas NYK 04/29/1999 NYK vs. PHI W 25 2 1 8 12.5 0 0 - 0 0 - 2 7 9 2 0 2 2 3 -5
+p36
+aVAllan Houston NYK 04/29/1999 NYK vs. PHI W 39 22 9 16 56.3 2 3 66.7 2 3 66.7 1 4 5 4 1 0 3 2 7
+p37
+aVChris Dudley NYK 04/29/1999 NYK vs. PHI W 25 3 1 2 50.0 0 0 - 1 2 50.0 2 7 9 1 1 1 1 3 18
+p38
+aVRick Brunson NYK 04/29/1999 NYK vs. PHI W 11 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 7
+p39
+aVCharlie Ward NYK 04/29/1999 NYK vs. PHI W 37 13 5 13 38.5 2 4 50.0 1 2 50.0 2 2 4 6 0 0 3 3 8
+p40
+aVMarcus Camby NYK 04/29/1999 NYK vs. PHI W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 1 2 2 1
+p41
+aVMarcus Camby NYK 04/28/1999 NYK @ ATL L 32 10 5 7 71.4 0 0 - 0 2 0.0 1 5 6 0 1 5 1 1 -12
+p42
+aVLatrell Sprewell NYK 04/28/1999 NYK @ ATL L 34 29 8 12 66.7 1 2 50.0 12 15 80.0 0 2 2 1 3 0 4 3 0
+p43
+aVAllan Houston NYK 04/28/1999 NYK @ ATL L 36 8 4 11 36.4 0 1 0.0 0 0 - 0 1 1 2 2 1 5 5 -7
+p44
+aVChris Childs NYK 04/28/1999 NYK @ ATL L 31 4 2 8 25.0 0 3 0.0 0 0 - 0 4 4 5 1 0 0 4 6
+p45
+aVChris Dudley NYK 04/28/1999 NYK @ ATL L 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 5 3
+p46
+aVCharlie Ward NYK 04/28/1999 NYK @ ATL L 19 0 0 0 - 0 0 - 0 0 - 0 3 3 3 1 0 4 2 -4
+p47
+aVDavid Wingate NYK 04/28/1999 NYK @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p48
+aVKurt Thomas NYK 04/28/1999 NYK @ ATL L 38 14 5 12 41.7 0 0 - 4 5 80.0 0 11 11 0 0 1 1 5 -9
+p49
+aVLarry Johnson NYK 04/28/1999 NYK @ ATL L 36 6 2 10 20.0 2 4 50.0 0 0 - 2 5 7 2 2 0 5 5 10
+p50
+aVLarry Johnson NYK 04/26/1999 NYK @ CHH W 40 12 3 12 25.0 0 3 0.0 6 8 75.0 1 8 9 4 0 1 3 1 7
+p51
+aVChris Dudley NYK 04/26/1999 NYK @ CHH W 27 7 3 6 50.0 0 0 - 1 1 100.0 5 7 12 0 0 3 0 4 11
+p52
+aVMarcus Camby NYK 04/26/1999 NYK @ CHH W 26 6 3 4 75.0 0 0 - 0 1 0.0 1 3 4 2 1 7 1 4 -4
+p53
+aVLatrell Sprewell NYK 04/26/1999 NYK @ CHH W 35 21 9 21 42.9 0 1 0.0 3 4 75.0 2 4 6 2 2 0 1 4 5
+p54
+aVAllan Houston NYK 04/26/1999 NYK @ CHH W 26 15 5 8 62.5 1 2 50.0 4 4 100.0 0 0 0 2 0 0 3 6 6
+p55
+aVChris Childs NYK 04/26/1999 NYK @ CHH W 29 9 2 4 50.0 1 1 100.0 4 4 100.0 1 4 5 6 0 0 5 0 -1
+p56
+aVCharlie Ward NYK 04/26/1999 NYK @ CHH W 32 15 4 7 57.1 3 4 75.0 4 4 100.0 0 1 1 4 1 0 1 1 9
+p57
+aVKurt Thomas NYK 04/26/1999 NYK @ CHH W 24 6 3 6 50.0 0 0 - 0 0 - 0 4 4 2 4 1 2 6 2
+p58
+aVLarry Johnson NYK 04/25/1999 NYK @ MIA W 33 23 10 13 76.9 1 1 100.0 2 2 100.0 0 5 5 0 0 0 1 5 -3
+p59
+aVAllan Houston NYK 04/25/1999 NYK @ MIA W 34 17 7 17 41.2 0 0 - 3 3 100.0 0 1 1 5 0 0 5 2 0
+p60
+aVMarcus Camby NYK 04/25/1999 NYK @ MIA W 28 15 7 10 70.0 0 0 - 1 1 100.0 1 6 7 1 0 1 0 2 15
+p61
+aVChris Childs NYK 04/25/1999 NYK @ MIA W 36 8 3 6 50.0 0 1 0.0 2 2 100.0 0 5 5 6 1 0 2 2 15
+p62
+aVKurt Thomas NYK 04/25/1999 NYK @ MIA W 34 4 0 4 0.0 0 0 - 4 4 100.0 5 5 10 1 0 1 4 6 -10
+p63
+aVLatrell Sprewell NYK 04/25/1999 NYK @ MIA W 35 9 2 9 22.2 1 2 50.0 4 4 100.0 0 5 5 2 2 0 3 2 14
+p64
+aVChris Dudley NYK 04/25/1999 NYK @ MIA W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 2 1 1 3 -8
+p65
+aVCharlie Ward NYK 04/25/1999 NYK @ MIA W 29 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 6 0 0 3 2 -13
+p66
+aVLarry Johnson NYK 04/23/1999 NYK vs. CHH W 28 7 2 4 50.0 0 0 - 3 3 100.0 1 7 8 0 0 0 4 5 14
+p67
+aVChris Dudley NYK 04/23/1999 NYK vs. CHH W 8 2 1 4 25.0 0 0 - 0 0 - 3 2 5 0 0 0 0 2 3
+p68
+aVLatrell Sprewell NYK 04/23/1999 NYK vs. CHH W 32 12 6 14 42.9 0 1 0.0 0 0 - 2 4 6 8 2 0 2 0 0
+p69
+aVAllan Houston NYK 04/23/1999 NYK vs. CHH W 41 30 10 17 58.8 2 3 66.7 8 8 100.0 0 0 0 4 2 1 2 0 -1
+p70
+aVPatrick Ewing NYK 04/23/1999 NYK vs. CHH W 33 26 10 17 58.8 0 0 - 6 6 100.0 2 3 5 1 1 3 2 3 7
+p71
+aVKurt Thomas NYK 04/23/1999 NYK vs. CHH W 20 7 2 4 50.0 0 0 - 3 4 75.0 0 2 2 3 2 0 1 5 1
+p72
+aVCharlie Ward NYK 04/23/1999 NYK vs. CHH W 32 6 2 6 33.3 2 4 50.0 0 0 - 0 3 3 7 1 0 2 2 1
+p73
+aVMarcus Camby NYK 04/23/1999 NYK vs. CHH W 29 18 8 11 72.7 0 0 - 2 5 40.0 6 5 11 1 0 3 0 3 -4
+p74
+aVChris Childs NYK 04/23/1999 NYK vs. CHH W 17 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 4 0 0 1 5 4
+p75
+aVLarry Johnson NYK 04/19/1999 NYK @ PHI L 40 6 2 5 40.0 1 2 50.0 1 2 50.0 3 5 8 5 0 0 2 3 -5
+p76
+aVMarcus Camby NYK 04/19/1999 NYK @ PHI L 16 3 0 6 0.0 0 0 - 3 6 50.0 0 2 2 0 1 1 1 1 0
+p77
+aVAllan Houston NYK 04/19/1999 NYK @ PHI L 41 12 4 13 30.8 1 5 20.0 3 3 100.0 0 1 1 1 2 0 2 2 -3
+p78
+aVKurt Thomas NYK 04/19/1999 NYK @ PHI L 16 6 3 10 30.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p79
+aVCharlie Ward NYK 04/19/1999 NYK @ PHI L 25 7 3 5 60.0 1 1 100.0 0 0 - 1 4 5 4 4 0 1 2 -10
+p80
+aVPatrick Ewing NYK 04/19/1999 NYK @ PHI L 29 11 3 8 37.5 0 0 - 5 8 62.5 3 6 9 0 3 1 3 5 -5
+p81
+aVChris Dudley NYK 04/19/1999 NYK @ PHI L 19 3 1 3 33.3 0 0 - 1 4 25.0 2 4 6 0 1 1 0 3 0
+p82
+aVLatrell Sprewell NYK 04/19/1999 NYK @ PHI L 31 16 6 13 46.2 0 0 - 4 4 100.0 1 3 4 3 1 0 4 1 -2
+p83
+aVChris Childs NYK 04/19/1999 NYK @ PHI L 23 3 1 4 25.0 0 2 0.0 1 2 50.0 1 2 3 3 0 0 5 5 3
+p84
+aVAllan Houston NYK 04/17/1999 NYK vs. TOR L 40 17 5 14 35.7 2 3 66.7 5 6 83.3 0 3 3 3 0 0 2 1 -1
+p85
+aVKurt Thomas NYK 04/17/1999 NYK vs. TOR L 22 10 4 6 66.7 0 0 - 2 5 40.0 3 0 3 1 0 0 1 4 -11
+p86
+aVChris Dudley NYK 04/17/1999 NYK vs. TOR L 5 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -7
+p87
+aVCharlie Ward NYK 04/17/1999 NYK vs. TOR L 29 4 1 5 20.0 1 5 20.0 1 2 50.0 0 3 3 6 1 0 0 2 -1
+p88
+aVLarry Johnson NYK 04/17/1999 NYK vs. TOR L 29 15 6 9 66.7 1 3 33.3 2 2 100.0 3 1 4 2 1 0 1 5 -1
+p89
+aVChris Childs NYK 04/17/1999 NYK vs. TOR L 19 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 3 0 0 2 2 2
+p90
+aVLatrell Sprewell NYK 04/17/1999 NYK vs. TOR L 38 22 10 19 52.6 0 4 0.0 2 2 100.0 1 5 6 1 2 0 1 3 5
+p91
+aVPatrick Ewing NYK 04/17/1999 NYK vs. TOR L 37 14 4 12 33.3 0 0 - 6 8 75.0 1 8 9 1 0 1 2 3 0
+p92
+aVMarcus Camby NYK 04/17/1999 NYK vs. TOR L 20 0 0 5 0.0 0 0 - 0 0 - 3 1 4 0 3 0 1 3 -1
+p93
+aVCharlie Ward NYK 04/16/1999 NYK @ DET L 30 6 2 6 33.3 1 4 25.0 1 2 50.0 0 7 7 6 2 0 0 4 0
+p94
+aVChris Dudley NYK 04/16/1999 NYK @ DET L 20 4 2 3 66.7 0 0 - 0 0 - 2 5 7 0 0 0 2 2 8
+p95
+aVChris Childs NYK 04/16/1999 NYK @ DET L 23 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 0 0 3 3 -12
+p96
+aVLatrell Sprewell NYK 04/16/1999 NYK @ DET L 30 10 3 13 23.1 0 1 0.0 4 6 66.7 0 2 2 1 1 0 1 3 -16
+p97
+aVAllan Houston NYK 04/16/1999 NYK @ DET L 42 23 9 18 50.0 1 3 33.3 4 6 66.7 1 0 1 2 1 0 4 2 -2
+p98
+aVKurt Thomas NYK 04/16/1999 NYK @ DET L 31 13 6 12 50.0 0 0 - 1 1 100.0 2 9 11 1 0 1 2 2 5
+p99
+aVMarcus Camby NYK 04/16/1999 NYK @ DET L 33 7 2 6 33.3 0 0 - 3 4 75.0 2 5 7 0 0 3 0 2 -23
+p100
+aVLarry Johnson NYK 04/16/1999 NYK @ DET L 31 5 1 7 14.3 0 1 0.0 3 4 75.0 0 6 6 2 2 0 4 3 -5
+p101
+aVChris Dudley NYK 04/14/1999 NYK @ WAS L 32 10 5 5 100.0 0 0 - 0 0 - 4 4 8 1 0 2 3 5 -5
+p102
+aVKurt Thomas NYK 04/14/1999 NYK @ WAS L 24 7 3 11 27.3 0 0 - 1 4 25.0 1 6 7 0 1 0 1 1 2
+p103
+aVAllan Houston NYK 04/14/1999 NYK @ WAS L 37 11 4 15 26.7 1 6 16.7 2 2 100.0 0 3 3 0 0 0 5 4 -3
+p104
+aVChris Childs NYK 04/14/1999 NYK @ WAS L 31 7 3 11 27.3 1 6 16.7 0 0 - 0 3 3 10 0 0 1 4 -11
+p105
+aVCharlie Ward NYK 04/14/1999 NYK @ WAS L 29 14 5 7 71.4 4 4 100.0 0 0 - 1 1 2 2 2 0 0 0 10
+p106
+aVLarry Johnson NYK 04/14/1999 NYK @ WAS L 41 12 3 10 30.0 0 1 0.0 6 6 100.0 7 5 12 7 2 0 5 6 -3
+p107
+aVLatrell Sprewell NYK 04/14/1999 NYK @ WAS L 35 10 5 18 27.8 0 3 0.0 0 0 - 0 2 2 2 0 0 1 0 -11
+p108
+aVMarcus Camby NYK 04/14/1999 NYK @ WAS L 36 18 7 10 70.0 0 0 - 4 4 100.0 6 7 13 1 1 0 2 3 -9
+p109
+aVLarry Johnson NYK 04/13/1999 NYK vs. PHI W 33 17 6 10 60.0 2 5 40.0 3 4 75.0 2 4 6 4 3 0 3 2 21
+p110
+aVMarcus Camby NYK 04/13/1999 NYK vs. PHI W 24 15 7 11 63.6 0 0 - 1 1 100.0 2 3 5 1 1 2 2 4 4
+p111
+aVHerb Williams NYK 04/13/1999 NYK vs. PHI W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p112
+aVChris Dudley NYK 04/13/1999 NYK vs. PHI W 25 4 2 4 50.0 0 0 - 0 2 0.0 4 3 7 1 0 4 1 3 7
+p113
+aVLatrell Sprewell NYK 04/13/1999 NYK vs. PHI W 31 16 5 12 41.7 0 0 - 6 7 85.7 0 2 2 2 2 0 3 2 6
+p114
+aVKurt Thomas NYK 04/13/1999 NYK vs. PHI W 25 18 8 13 61.5 0 1 0.0 2 3 66.7 2 3 5 2 2 1 0 0 16
+p115
+aVBen Davis NYK 04/13/1999 NYK vs. PHI W 3 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -3
+p116
+aVDavid Wingate NYK 04/13/1999 NYK vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p117
+aVChris Childs NYK 04/13/1999 NYK vs. PHI W 22 3 1 3 33.3 0 2 0.0 1 1 100.0 0 2 2 3 1 0 0 3 4
+p118
+aVPatrick Ewing NYK 04/13/1999 NYK vs. PHI W 12 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 2 2 9
+p119
+aVCharlie Ward NYK 04/13/1999 NYK vs. PHI W 28 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 5 0 1 3 3 14
+p120
+aVAllan Houston NYK 04/13/1999 NYK vs. PHI W 31 13 5 14 35.7 1 2 50.0 2 2 100.0 0 3 3 1 1 0 2 3 17
+p121
+aVChris Childs NYK 04/11/1999 NYK @ NJN W 31 0 0 6 0.0 0 3 0.0 0 0 - 0 3 3 6 1 0 0 3 6
+p122
+aVChris Dudley NYK 04/11/1999 NYK @ NJN W 12 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 3 0 4 5
+p123
+aVAllan Houston NYK 04/11/1999 NYK @ NJN W 33 13 6 12 50.0 1 3 33.3 0 0 - 0 1 1 2 1 0 2 2 1
+p124
+aVBen Davis NYK 04/11/1999 NYK @ NJN W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 2
+p125
+aVMarcus Camby NYK 04/11/1999 NYK @ NJN W 27 19 8 13 61.5 0 0 - 3 4 75.0 3 5 8 0 0 1 2 3 11
+p126
+aVPatrick Ewing NYK 04/11/1999 NYK @ NJN W 33 15 6 17 35.3 0 0 - 3 4 75.0 4 11 15 2 1 6 4 3 13
+p127
+aVKurt Thomas NYK 04/11/1999 NYK @ NJN W 20 5 2 3 66.7 0 0 - 1 4 25.0 4 5 9 1 0 0 1 2 2
+p128
+aVCharlie Ward NYK 04/11/1999 NYK @ NJN W 17 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 3 4 0 2 3 9
+p129
+aVLatrell Sprewell NYK 04/11/1999 NYK @ NJN W 32 12 3 9 33.3 0 0 - 6 7 85.7 0 1 1 3 3 0 1 0 5
+p130
+aVLarry Johnson NYK 04/11/1999 NYK @ NJN W 33 22 9 14 64.3 3 4 75.0 1 1 100.0 1 3 4 3 0 0 5 3 21
+p131
+aVDavid Wingate NYK 04/11/1999 NYK @ NJN W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p132
+aVChris Dudley NYK 04/09/1999 NYK @ ATL W 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 1
+p133
+aVChris Childs NYK 04/09/1999 NYK @ ATL W 27 7 2 8 25.0 0 2 0.0 3 4 75.0 3 1 4 5 1 0 0 1 10
+p134
+aVPatrick Ewing NYK 04/09/1999 NYK @ ATL W 37 16 7 14 50.0 0 0 - 2 2 100.0 2 6 8 1 0 2 1 2 7
+p135
+aVKurt Thomas NYK 04/09/1999 NYK @ ATL W 22 6 3 6 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 5 -6
+p136
+aVLatrell Sprewell NYK 04/09/1999 NYK @ ATL W 32 18 6 15 40.0 0 1 0.0 6 7 85.7 1 4 5 3 0 0 1 1 6
+p137
+aVCharlie Ward NYK 04/09/1999 NYK @ ATL W 22 5 2 8 25.0 1 5 20.0 0 0 - 2 1 3 4 3 0 2 2 -1
+p138
+aVAllan Houston NYK 04/09/1999 NYK @ ATL W 32 10 4 9 44.4 0 1 0.0 2 2 100.0 0 4 4 1 0 0 2 3 3
+p139
+aVLarry Johnson NYK 04/09/1999 NYK @ ATL W 39 13 4 10 40.0 1 1 100.0 4 5 80.0 3 5 8 3 0 1 1 4 11
+p140
+aVMarcus Camby NYK 04/09/1999 NYK @ ATL W 19 9 4 6 66.7 0 0 - 1 2 50.0 2 3 5 0 1 0 2 3 9
+p141
+aVDavid Wingate NYK 04/07/1999 NYK @ CHH L 15 2 1 4 25.0 0 0 - 0 0 - 1 0 1 3 0 0 0 2 1
+p142
+aVCharlie Ward NYK 04/07/1999 NYK @ CHH L 28 6 3 8 37.5 0 2 0.0 0 0 - 2 0 2 3 4 0 5 5 -10
+p143
+aVBen Davis NYK 04/07/1999 NYK @ CHH L 7 2 1 5 20.0 0 0 - 0 2 0.0 3 1 4 1 0 0 0 0 -5
+p144
+aVKurt Thomas NYK 04/07/1999 NYK @ CHH L 31 17 8 14 57.1 0 0 - 1 2 50.0 3 6 9 1 0 0 1 4 -22
+p145
+aVLatrell Sprewell NYK 04/07/1999 NYK @ CHH L 39 13 5 16 31.3 0 3 0.0 3 3 100.0 1 2 3 3 1 0 3 3 -17
+p146
+aVChris Childs NYK 04/07/1999 NYK @ CHH L 27 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 8 0 0 1 2 -14
+p147
+aVHerb Williams NYK 04/07/1999 NYK @ CHH L 5 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 1 0 1
+p148
+aVAllan Houston NYK 04/07/1999 NYK @ CHH L 23 5 1 8 12.5 0 1 0.0 3 4 75.0 0 2 2 4 0 0 1 1 -23
+p149
+aVChris Dudley NYK 04/07/1999 NYK @ CHH L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -12
+p150
+aVLarry Johnson NYK 04/07/1999 NYK @ CHH L 34 16 4 11 36.4 0 2 0.0 8 8 100.0 2 5 7 0 1 0 1 1 -13
+p151
+aVPatrick Ewing NYK 04/07/1999 NYK @ CHH L 24 17 5 8 62.5 0 0 - 7 8 87.5 1 5 6 0 0 2 1 2 -6
+p152
+aVChris Dudley NYK 04/06/1999 NYK vs. ORL L 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p153
+aVLarry Johnson NYK 04/06/1999 NYK vs. ORL L 32 5 2 6 33.3 0 1 0.0 1 2 50.0 5 3 8 2 1 0 3 5 4
+p154
+aVChris Childs NYK 04/06/1999 NYK vs. ORL L 28 13 5 7 71.4 3 4 75.0 0 0 - 0 1 1 3 0 0 4 5 -8
+p155
+aVLatrell Sprewell NYK 04/06/1999 NYK vs. ORL L 35 6 3 9 33.3 0 1 0.0 0 0 - 1 4 5 3 2 0 5 2 -8
+p156
+aVAllan Houston NYK 04/06/1999 NYK vs. ORL L 38 14 7 20 35.0 0 4 0.0 0 0 - 1 4 5 0 0 0 3 2 1
+p157
+aVCharlie Ward NYK 04/06/1999 NYK vs. ORL L 27 0 0 6 0.0 0 3 0.0 0 0 - 0 5 5 7 1 0 4 3 -10
+p158
+aVKurt Thomas NYK 04/06/1999 NYK vs. ORL L 26 2 1 4 25.0 0 0 - 0 0 - 3 5 8 3 0 1 1 1 -14
+p159
+aVPatrick Ewing NYK 04/06/1999 NYK vs. ORL L 43 28 12 27 44.4 0 0 - 4 7 57.1 4 11 15 0 3 1 2 2 -8
+p160
+aVPatrick Ewing NYK 04/04/1999 NYK @ IND L 37 16 5 15 33.3 0 0 - 6 7 85.7 2 12 14 2 1 1 1 2 -9
+p161
+aVAllan Houston NYK 04/04/1999 NYK @ IND L 41 19 7 19 36.8 0 1 0.0 5 5 100.0 2 1 3 3 0 0 1 1 -7
+p162
+aVChris Childs NYK 04/04/1999 NYK @ IND L 28 11 3 8 37.5 1 1 100.0 4 4 100.0 4 2 6 5 2 0 0 4 -5
+p163
+aVLatrell Sprewell NYK 04/04/1999 NYK @ IND L 37 20 7 14 50.0 1 2 50.0 5 5 100.0 0 3 3 2 0 0 3 3 -17
+p164
+aVBen Davis NYK 04/04/1999 NYK @ IND L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p165
+aVKurt Thomas NYK 04/04/1999 NYK @ IND L 15 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 0 0 2 5 11
+p166
+aVLarry Johnson NYK 04/04/1999 NYK @ IND L 29 16 6 10 60.0 1 2 50.0 3 3 100.0 1 2 3 0 3 0 0 3 -5
+p167
+aVChris Dudley NYK 04/04/1999 NYK @ IND L 21 0 0 3 0.0 0 0 - 0 2 0.0 3 3 6 2 0 1 1 4 -17
+p168
+aVCharlie Ward NYK 04/04/1999 NYK @ IND L 30 11 4 8 50.0 3 5 60.0 0 0 - 0 0 0 3 1 1 1 1 -17
+p169
+aVPatrick Ewing NYK 04/01/1999 NYK vs. CLE W 38 13 2 12 16.7 0 0 - 9 10 90.0 1 10 11 1 0 2 4 3 -1
+p170
+aVMarcus Camby NYK 04/01/1999 NYK vs. CLE W 25 9 4 9 44.4 0 0 - 1 2 50.0 4 6 10 0 1 1 1 3 6
+p171
+aVKurt Thomas NYK 04/01/1999 NYK vs. CLE W 23 4 1 3 33.3 0 0 - 2 4 50.0 1 7 8 0 2 1 0 0 8
+p172
+aVChris Childs NYK 04/01/1999 NYK vs. CLE W 34 11 3 8 37.5 1 5 20.0 4 5 80.0 0 3 3 2 0 0 1 4 16
+p173
+aVLatrell Sprewell NYK 04/01/1999 NYK vs. CLE W 30 11 3 9 33.3 0 2 0.0 5 6 83.3 1 0 1 2 0 0 4 1 -8
+p174
+aVCharlie Ward NYK 04/01/1999 NYK vs. CLE W 39 14 5 8 62.5 2 5 40.0 2 3 66.7 0 3 3 7 2 0 3 5 -2
+p175
+aVChris Dudley NYK 04/01/1999 NYK vs. CLE W 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 2 0 3 -7
+p176
+aVAllan Houston NYK 04/01/1999 NYK vs. CLE W 41 16 6 16 37.5 0 1 0.0 4 4 100.0 0 3 3 2 0 0 3 3 8
+p177
+aVLatrell Sprewell NYK 03/30/1999 NYK vs. IND W 32 18 7 12 58.3 0 2 0.0 4 4 100.0 0 5 5 0 1 0 4 1 -6
+p178
+aVChris Dudley NYK 03/30/1999 NYK vs. IND W 19 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 4
+p179
+aVDavid Wingate NYK 03/30/1999 NYK vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p180
+aVCharlie Ward NYK 03/30/1999 NYK vs. IND W 37 7 2 8 25.0 1 3 33.3 2 2 100.0 1 5 6 7 4 0 2 2 5
+p181
+aVPatrick Ewing NYK 03/30/1999 NYK vs. IND W 40 37 14 24 58.3 0 0 - 9 11 81.8 4 11 15 1 1 2 0 3 5
+p182
+aVMarcus Camby NYK 03/30/1999 NYK vs. IND W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 -5
+p183
+aVAllan Houston NYK 03/30/1999 NYK vs. IND W 35 17 5 9 55.6 1 2 50.0 6 6 100.0 0 0 0 2 0 0 1 3 6
+p184
+aVLarry Johnson NYK 03/30/1999 NYK vs. IND W 37 9 2 7 28.6 0 0 - 5 6 83.3 0 3 3 4 0 0 1 3 4
+p185
+aVKurt Thomas NYK 03/30/1999 NYK vs. IND W 14 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -5
+p186
+aVChris Childs NYK 03/30/1999 NYK vs. IND W 11 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 5 -4
+p187
+aVChris Childs NYK 03/28/1999 NYK @ LAL L 27 11 3 4 75.0 1 1 100.0 4 4 100.0 1 2 3 6 1 0 1 1 -12
+p188
+aVPatrick Ewing NYK 03/28/1999 NYK @ LAL L 41 20 9 25 36.0 0 0 - 2 2 100.0 1 12 13 0 2 3 3 6 -3
+p189
+aVKurt Thomas NYK 03/28/1999 NYK @ LAL L 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 1 0 0 4 -1
+p190
+aVChris Dudley NYK 03/28/1999 NYK @ LAL L 22 2 1 2 50.0 0 0 - 0 2 0.0 3 2 5 0 0 0 0 3 -6
+p191
+aVMarcus Camby NYK 03/28/1999 NYK @ LAL L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -6
+p192
+aVAllan Houston NYK 03/28/1999 NYK @ LAL L 36 15 6 12 50.0 1 2 50.0 2 3 66.7 0 4 4 3 1 0 3 3 6
+p193
+aVLatrell Sprewell NYK 03/28/1999 NYK @ LAL L 33 25 9 17 52.9 2 5 40.0 5 6 83.3 2 5 7 2 0 0 2 2 -9
+p194
+aVLarry Johnson NYK 03/28/1999 NYK @ LAL L 36 12 3 7 42.9 0 1 0.0 6 8 75.0 1 1 2 2 0 0 1 5 -16
+p195
+aVCharlie Ward NYK 03/28/1999 NYK @ LAL L 26 2 1 6 16.7 0 2 0.0 0 0 - 1 5 6 4 1 0 3 0 7
+p196
+aVKurt Thomas NYK 03/26/1999 NYK @ PHX W 23 3 1 3 33.3 0 0 - 1 2 50.0 3 5 8 1 2 0 1 3 5
+p197
+aVAllan Houston NYK 03/26/1999 NYK @ PHX W 40 29 10 20 50.0 4 6 66.7 5 5 100.0 2 3 5 1 0 0 3 0 9
+p198
+aVPatrick Ewing NYK 03/26/1999 NYK @ PHX W 37 13 6 11 54.5 0 0 - 1 4 25.0 1 7 8 1 0 1 5 4 2
+p199
+aVLatrell Sprewell NYK 03/26/1999 NYK @ PHX W 32 23 6 15 40.0 1 3 33.3 10 10 100.0 1 2 3 2 0 0 4 3 -3
+p200
+aVMarcus Camby NYK 03/26/1999 NYK @ PHX W 20 4 2 3 66.7 0 0 - 0 0 - 2 8 10 0 1 2 0 4 -5
+p201
+aVCharlie Ward NYK 03/26/1999 NYK @ PHX W 26 5 1 5 20.0 0 3 0.0 3 4 75.0 0 3 3 5 5 0 3 1 14
+p202
+aVChris Childs NYK 03/26/1999 NYK @ PHX W 22 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 4 1 0 1 3 -7
+p203
+aVLarry Johnson NYK 03/26/1999 NYK @ PHX W 40 14 3 8 37.5 0 1 0.0 8 8 100.0 0 3 3 2 0 1 0 2 20
+p204
+aVLatrell Sprewell NYK 03/24/1999 NYK @ SAC L 30 16 7 19 36.8 1 4 25.0 1 3 33.3 0 5 5 3 0 0 3 2 5
+p205
+aVMarcus Camby NYK 03/24/1999 NYK @ SAC L 7 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 2
+p206
+aVKurt Thomas NYK 03/24/1999 NYK @ SAC L 28 8 4 8 50.0 0 0 - 0 0 - 3 4 7 0 3 0 3 6 -8
+p207
+aVChris Childs NYK 03/24/1999 NYK @ SAC L 30 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 4 0 0 1 1 5
+p208
+aVAllan Houston NYK 03/24/1999 NYK @ SAC L 26 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 3 0 0 3 5 -5
+p209
+aVCharlie Ward NYK 03/24/1999 NYK @ SAC L 40 16 6 14 42.9 4 7 57.1 0 0 - 1 1 2 6 4 0 2 2 -2
+p210
+aVPatrick Ewing NYK 03/24/1999 NYK @ SAC L 36 23 10 20 50.0 0 0 - 3 4 75.0 1 13 14 1 2 0 4 3 -1
+p211
+aVLarry Johnson NYK 03/24/1999 NYK @ SAC L 30 13 5 10 50.0 1 4 25.0 2 2 100.0 2 4 6 0 2 1 0 4 -1
+p212
+aVChris Dudley NYK 03/24/1999 NYK @ SAC L 12 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 0
+p213
+aVMarcus Camby NYK 03/22/1999 NYK vs. ATL L 17 1 0 3 0.0 0 0 - 1 2 50.0 2 3 5 0 0 2 0 1 -1
+p214
+aVChris Childs NYK 03/22/1999 NYK vs. ATL L 26 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 3 3 0 0 3 -7
+p215
+aVKurt Thomas NYK 03/22/1999 NYK vs. ATL L 15 4 1 4 25.0 0 0 - 2 2 100.0 2 3 5 1 0 0 2 3 -8
+p216
+aVChris Dudley NYK 03/22/1999 NYK vs. ATL L 14 4 1 2 50.0 0 0 - 2 5 40.0 0 3 3 0 0 2 0 3 12
+p217
+aVLarry Johnson NYK 03/22/1999 NYK vs. ATL L 33 6 3 9 33.3 0 1 0.0 0 0 - 4 6 10 0 0 0 1 3 -10
+p218
+aVCharlie Ward NYK 03/22/1999 NYK vs. ATL L 31 3 0 7 0.0 0 5 0.0 3 5 60.0 0 5 5 5 1 1 2 4 -7
+p219
+aVLatrell Sprewell NYK 03/22/1999 NYK vs. ATL L 34 11 4 12 33.3 0 1 0.0 3 4 75.0 2 4 6 2 0 0 3 0 -1
+p220
+aVPatrick Ewing NYK 03/22/1999 NYK vs. ATL L 34 23 8 21 38.1 0 0 - 7 9 77.8 3 3 6 1 1 1 1 3 -15
+p221
+aVAllan Houston NYK 03/22/1999 NYK vs. ATL L 35 16 4 13 30.8 2 3 66.7 6 8 75.0 0 2 2 1 1 1 2 5 -8
+p222
+aVAllan Houston NYK 03/21/1999 NYK @ TOR L 38 17 7 15 46.7 1 2 50.0 2 2 100.0 2 1 3 2 1 1 4 2 -2
+p223
+aVMarcus Camby NYK 03/21/1999 NYK @ TOR L 24 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 1 1 3 3 6 3
+p224
+aVKurt Thomas NYK 03/21/1999 NYK @ TOR L 17 6 3 8 37.5 0 0 - 0 0 - 2 3 5 0 2 0 1 2 -3
+p225
+aVCharlie Ward NYK 03/21/1999 NYK @ TOR L 34 3 1 4 25.0 1 3 33.3 0 0 - 1 6 7 6 1 1 4 2 -2
+p226
+aVLarry Johnson NYK 03/21/1999 NYK @ TOR L 26 5 2 9 22.2 0 3 0.0 1 2 50.0 0 1 1 2 0 0 1 2 -7
+p227
+aVLatrell Sprewell NYK 03/21/1999 NYK @ TOR L 41 9 3 11 27.3 1 3 33.3 2 6 33.3 1 4 5 5 1 1 1 1 -3
+p228
+aVChris Dudley NYK 03/21/1999 NYK @ TOR L 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -2
+p229
+aVChris Childs NYK 03/21/1999 NYK @ TOR L 35 12 5 9 55.6 2 3 66.7 0 0 - 0 2 2 5 0 1 0 3 -1
+p230
+aVPatrick Ewing NYK 03/21/1999 NYK @ TOR L 43 21 6 13 46.2 0 0 - 9 13 69.2 3 12 15 0 1 5 5 4 -3
+p231
+aVKurt Thomas NYK 03/20/1999 NYK vs. BOS W 22 6 3 8 37.5 0 0 - 0 0 - 0 2 2 0 0 2 0 0 4
+p232
+aVLarry Johnson NYK 03/20/1999 NYK vs. BOS W 35 13 4 9 44.4 1 2 50.0 4 7 57.1 0 5 5 3 0 0 2 2 9
+p233
+aVRick Brunson NYK 03/20/1999 NYK vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p234
+aVPatrick Ewing NYK 03/20/1999 NYK vs. BOS W 26 11 3 9 33.3 0 0 - 5 5 100.0 1 10 11 0 3 3 0 2 11
+p235
+aVChris Childs NYK 03/20/1999 NYK vs. BOS W 30 4 1 4 25.0 1 2 50.0 1 2 50.0 0 2 2 7 0 0 3 5 18
+p236
+aVLatrell Sprewell NYK 03/20/1999 NYK vs. BOS W 31 27 10 17 58.8 1 1 100.0 6 8 75.0 3 2 5 1 0 0 0 0 13
+p237
+aVAllan Houston NYK 03/20/1999 NYK vs. BOS W 30 11 3 10 30.0 0 3 0.0 5 7 71.4 0 2 2 4 1 0 4 2 12
+p238
+aVMarcus Camby NYK 03/20/1999 NYK vs. BOS W 27 6 2 7 28.6 0 0 - 2 6 33.3 6 9 15 1 2 1 1 1 14
+p239
+aVDavid Wingate NYK 03/20/1999 NYK vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p240
+aVCharlie Ward NYK 03/20/1999 NYK vs. BOS W 34 18 6 15 40.0 2 6 33.3 4 4 100.0 2 2 4 3 4 0 0 1 5
+p241
+aVKurt Thomas NYK 03/18/1999 NYK vs. ORL L 26 17 8 11 72.7 0 0 - 1 2 50.0 1 5 6 0 1 0 1 5 -2
+p242
+aVMarcus Camby NYK 03/18/1999 NYK vs. ORL L 20 6 2 5 40.0 0 0 - 2 4 50.0 2 2 4 0 0 1 0 1 -7
+p243
+aVLarry Johnson NYK 03/18/1999 NYK vs. ORL L 37 4 1 7 14.3 0 2 0.0 2 2 100.0 1 4 5 5 1 0 4 3 1
+p244
+aVCharlie Ward NYK 03/18/1999 NYK vs. ORL L 35 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 5 3 0 5 3 -11
+p245
+aVLatrell Sprewell NYK 03/18/1999 NYK vs. ORL L 32 12 5 16 31.3 0 0 - 2 2 100.0 2 3 5 2 2 1 2 4 -15
+p246
+aVChris Dudley NYK 03/18/1999 NYK vs. ORL L 26 6 1 3 33.3 0 0 - 4 4 100.0 2 8 10 0 0 2 1 3 -1
+p247
+aVChris Childs NYK 03/18/1999 NYK vs. ORL L 27 8 2 4 50.0 1 2 50.0 3 3 100.0 0 2 2 3 0 0 1 4 -5
+p248
+aVAllan Houston NYK 03/18/1999 NYK vs. ORL L 37 18 8 16 50.0 2 3 66.7 0 1 0.0 0 1 1 4 1 0 2 1 0
+p249
+aVAllan Houston NYK 03/16/1999 NYK vs. LAC W 29 24 6 9 66.7 3 5 60.0 9 10 90.0 1 1 2 4 0 0 4 1 11
+p250
+aVHerb Williams NYK 03/16/1999 NYK vs. LAC W 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 2 1 2 4
+p251
+aVDavid Wingate NYK 03/16/1999 NYK vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -2
+p252
+aVLatrell Sprewell NYK 03/16/1999 NYK vs. LAC W 29 31 11 17 64.7 1 2 50.0 8 9 88.9 1 3 4 2 2 0 2 1 13
+p253
+aVChris Dudley NYK 03/16/1999 NYK vs. LAC W 23 2 0 1 0.0 0 0 - 2 2 100.0 2 4 6 0 1 2 0 6 21
+p254
+aVMarcus Camby NYK 03/16/1999 NYK vs. LAC W 13 3 1 3 33.3 0 0 - 1 1 100.0 1 2 3 0 1 1 0 6 -8
+p255
+aVRick Brunson NYK 03/16/1999 NYK vs. LAC W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p256
+aVLarry Johnson NYK 03/16/1999 NYK vs. LAC W 26 20 8 12 66.7 4 5 80.0 0 0 - 0 3 3 0 0 0 1 2 13
+p257
+aVKurt Thomas NYK 03/16/1999 NYK vs. LAC W 40 12 5 10 50.0 0 0 - 2 2 100.0 1 11 12 2 2 0 4 4 34
+p258
+aVCharlie Ward NYK 03/16/1999 NYK vs. LAC W 40 15 4 8 50.0 1 2 50.0 6 7 85.7 0 3 3 9 3 0 2 2 32
+p259
+aVChris Childs NYK 03/16/1999 NYK vs. LAC W 17 6 3 3 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 5 4
+p260
+aVLatrell Sprewell NYK 03/15/1999 NYK @ MIL W 35 28 7 14 50.0 2 3 66.7 12 14 85.7 1 2 3 3 2 0 0 2 6
+p261
+aVCharlie Ward NYK 03/15/1999 NYK @ MIL W 28 8 3 5 60.0 1 2 50.0 1 2 50.0 0 2 2 7 3 0 6 1 4
+p262
+aVAllan Houston NYK 03/15/1999 NYK @ MIL W 38 22 9 14 64.3 1 1 100.0 3 3 100.0 2 0 2 3 0 0 1 0 9
+p263
+aVKurt Thomas NYK 03/15/1999 NYK @ MIL W 21 9 4 5 80.0 0 0 - 1 2 50.0 0 3 3 1 1 0 3 5 -2
+p264
+aVLarry Johnson NYK 03/15/1999 NYK @ MIL W 40 21 6 12 50.0 3 4 75.0 6 6 100.0 1 4 5 3 2 0 2 4 8
+p265
+aVChris Childs NYK 03/15/1999 NYK @ MIL W 31 14 5 9 55.6 0 2 0.0 4 4 100.0 1 2 3 5 1 0 2 3 0
+p266
+aVChris Dudley NYK 03/15/1999 NYK @ MIL W 32 6 2 7 28.6 0 0 - 2 2 100.0 5 6 11 0 1 2 0 4 8
+p267
+aVMarcus Camby NYK 03/15/1999 NYK @ MIL W 16 0 0 4 0.0 0 0 - 0 2 0.0 3 2 5 0 0 1 3 3 -3
+p268
+aVKurt Thomas NYK 03/14/1999 NYK vs. CHH W 22 10 5 9 55.6 0 0 - 0 0 - 2 6 8 2 0 0 4 4 -7
+p269
+aVChris Dudley NYK 03/14/1999 NYK vs. CHH W 33 7 3 8 37.5 0 0 - 1 2 50.0 7 6 13 0 0 2 1 5 -2
+p270
+aVDavid Wingate NYK 03/14/1999 NYK vs. CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p271
+aVAllan Houston NYK 03/14/1999 NYK vs. CHH W 39 20 6 16 37.5 2 4 50.0 6 8 75.0 0 0 0 3 0 0 2 2 6
+p272
+aVLarry Johnson NYK 03/14/1999 NYK vs. CHH W 38 19 6 10 60.0 1 2 50.0 6 8 75.0 4 4 8 2 1 1 3 3 11
+p273
+aVLatrell Sprewell NYK 03/14/1999 NYK vs. CHH W 34 16 5 13 38.5 0 0 - 6 6 100.0 2 3 5 4 3 0 1 1 14
+p274
+aVMarcus Camby NYK 03/14/1999 NYK vs. CHH W 16 4 2 2 100.0 0 0 - 0 0 - 3 5 8 0 0 2 1 4 10
+p275
+aVCharlie Ward NYK 03/14/1999 NYK vs. CHH W 25 6 1 9 11.1 0 2 0.0 4 5 80.0 0 2 2 2 2 0 3 4 -6
+p276
+aVChris Childs NYK 03/14/1999 NYK vs. CHH W 34 12 3 7 42.9 2 4 50.0 4 6 66.7 0 5 5 4 2 0 2 3 15
+p277
+aVDennis Scott NYK 03/12/1999 NYK @ CHI L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -3
+p278
+aVMarcus Camby NYK 03/12/1999 NYK @ CHI L 26 13 5 7 71.4 0 0 - 3 5 60.0 4 5 9 0 0 3 2 2 3
+p279
+aVCharlie Ward NYK 03/12/1999 NYK @ CHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -15
+p280
+aVLatrell Sprewell NYK 03/12/1999 NYK @ CHI L 34 10 2 12 16.7 0 2 0.0 6 10 60.0 1 5 6 2 1 0 4 1 -11
+p281
+aVChris Dudley NYK 03/12/1999 NYK @ CHI L 21 2 1 5 20.0 0 0 - 0 2 0.0 4 2 6 0 2 1 0 2 -5
+p282
+aVAllan Houston NYK 03/12/1999 NYK @ CHI L 36 16 5 16 31.3 0 1 0.0 6 7 85.7 0 1 1 3 2 0 3 0 -9
+p283
+aVChris Childs NYK 03/12/1999 NYK @ CHI L 36 3 1 5 20.0 1 1 100.0 0 0 - 0 5 5 2 0 0 5 5 3
+p284
+aVKurt Thomas NYK 03/12/1999 NYK @ CHI L 23 13 4 9 44.4 0 0 - 5 8 62.5 2 1 3 2 1 1 2 5 -5
+p285
+aVRick Brunson NYK 03/12/1999 NYK @ CHI L 20 2 0 2 0.0 0 1 0.0 2 4 50.0 0 1 1 3 2 0 1 2 4
+p286
+aVLarry Johnson NYK 03/12/1999 NYK @ CHI L 28 4 1 5 20.0 0 1 0.0 2 4 50.0 1 4 5 0 1 0 3 5 -27
+p287
+aVChris Childs NYK 03/11/1999 NYK vs. WAS W 26 2 1 3 33.3 0 2 0.0 0 2 0.0 0 2 2 5 2 0 1 3 13
+p288
+aVChris Dudley NYK 03/11/1999 NYK vs. WAS W 16 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 9
+p289
+aVAllan Houston NYK 03/11/1999 NYK vs. WAS W 39 19 8 18 44.4 1 2 50.0 2 2 100.0 1 4 5 4 1 1 1 3 7
+p290
+aVLarry Johnson NYK 03/11/1999 NYK vs. WAS W 38 17 8 14 57.1 1 1 100.0 0 0 - 1 3 4 5 1 0 0 3 7
+p291
+aVKurt Thomas NYK 03/11/1999 NYK vs. WAS W 33 17 7 12 58.3 0 0 - 3 5 60.0 2 6 8 2 0 1 3 3 4
+p292
+aVMarcus Camby NYK 03/11/1999 NYK vs. WAS W 24 19 8 12 66.7 0 0 - 3 5 60.0 6 6 12 0 2 1 1 5 7
+p293
+aVCharlie Ward NYK 03/11/1999 NYK vs. WAS W 32 9 4 8 50.0 0 2 0.0 1 2 50.0 1 5 6 8 3 0 3 4 9
+p294
+aVLatrell Sprewell NYK 03/11/1999 NYK vs. WAS W 31 11 3 11 27.3 0 1 0.0 5 6 83.3 3 1 4 5 0 0 1 2 4
+p295
+aVLatrell Sprewell NYK 03/09/1999 NYK vs. MIL L 38 17 7 17 41.2 1 4 25.0 2 2 100.0 2 4 6 1 2 0 1 3 -4
+p296
+aVCharlie Ward NYK 03/09/1999 NYK vs. MIL L 29 7 3 8 37.5 1 4 25.0 0 0 - 2 1 3 2 1 0 4 1 2
+p297
+aVKurt Thomas NYK 03/09/1999 NYK vs. MIL L 25 0 0 1 0.0 0 0 - 0 0 - 0 7 7 2 1 0 0 3 -2
+p298
+aVMarcus Camby NYK 03/09/1999 NYK vs. MIL L 23 10 5 10 50.0 0 0 - 0 2 0.0 3 1 4 1 0 1 1 3 -5
+p299
+aVChris Dudley NYK 03/09/1999 NYK vs. MIL L 24 6 2 4 50.0 0 0 - 2 4 50.0 2 3 5 0 0 0 0 2 8
+p300
+aVPatrick Ewing NYK 03/09/1999 NYK vs. MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p301
+aVLarry Johnson NYK 03/09/1999 NYK vs. MIL L 34 19 8 13 61.5 0 1 0.0 3 5 60.0 2 5 7 3 0 0 4 2 0
+p302
+aVAllan Houston NYK 03/09/1999 NYK vs. MIL L 38 15 4 16 25.0 1 8 12.5 6 6 100.0 1 5 6 5 0 1 1 1 8
+p303
+aVRick Brunson NYK 03/09/1999 NYK vs. MIL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p304
+aVChris Childs NYK 03/09/1999 NYK vs. MIL L 26 12 2 7 28.6 2 3 66.7 6 6 100.0 0 3 3 4 2 0 2 2 -6
+p305
+aVPatrick Ewing NYK 03/07/1999 NYK vs. NJN W 37 30 14 21 66.7 0 0 - 2 5 40.0 3 6 9 1 2 4 1 3 9
+p306
+aVChris Childs NYK 03/07/1999 NYK vs. NJN W 31 15 4 6 66.7 3 4 75.0 4 4 100.0 1 5 6 1 1 0 1 1 6
+p307
+aVAllan Houston NYK 03/07/1999 NYK vs. NJN W 37 17 6 11 54.5 1 2 50.0 4 5 80.0 0 5 5 4 0 0 1 1 16
+p308
+aVLatrell Sprewell NYK 03/07/1999 NYK vs. NJN W 28 5 2 6 33.3 0 3 0.0 1 2 50.0 0 2 2 5 0 0 2 2 5
+p309
+aVChris Dudley NYK 03/07/1999 NYK vs. NJN W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 8
+p310
+aVKurt Thomas NYK 03/07/1999 NYK vs. NJN W 22 8 3 10 30.0 0 0 - 2 2 100.0 2 1 3 3 1 0 1 2 -4
+p311
+aVLarry Johnson NYK 03/07/1999 NYK vs. NJN W 36 12 5 8 62.5 1 1 100.0 1 2 50.0 1 3 4 5 1 2 0 2 14
+p312
+aVMarcus Camby NYK 03/07/1999 NYK vs. NJN W 14 2 1 4 25.0 0 0 - 0 0 - 3 2 5 0 0 0 2 2 1
+p313
+aVCharlie Ward NYK 03/07/1999 NYK vs. NJN W 27 8 3 7 42.9 2 3 66.7 0 0 - 0 5 5 5 1 0 4 0 0
+p314
+aVCharlie Ward NYK 03/05/1999 NYK @ MIL L 31 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 2 0 0 3 2 2
+p315
+aVKurt Thomas NYK 03/05/1999 NYK @ MIL L 16 6 3 5 60.0 0 0 - 0 0 - 1 3 4 2 0 0 3 4 -9
+p316
+aVChris Dudley NYK 03/05/1999 NYK @ MIL L 6 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 3 0
+p317
+aVLarry Johnson NYK 03/05/1999 NYK @ MIL L 35 12 5 8 62.5 0 2 0.0 2 2 100.0 1 2 3 3 1 0 1 4 0
+p318
+aVPatrick Ewing NYK 03/05/1999 NYK @ MIL L 39 24 10 18 55.6 0 0 - 4 7 57.1 2 11 13 1 0 3 5 2 2
+p319
+aVLatrell Sprewell NYK 03/05/1999 NYK @ MIL L 29 18 7 17 41.2 2 5 40.0 2 2 100.0 1 4 5 2 1 0 1 1 5
+p320
+aVMarcus Camby NYK 03/05/1999 NYK @ MIL L 18 11 5 6 83.3 0 0 - 1 3 33.3 3 2 5 0 2 0 0 2 -3
+p321
+aVAllan Houston NYK 03/05/1999 NYK @ MIL L 34 7 2 12 16.7 1 2 50.0 2 2 100.0 1 4 5 3 1 0 0 3 -7
+p322
+aVChris Childs NYK 03/05/1999 NYK @ MIL L 32 7 3 5 60.0 1 2 50.0 0 0 - 2 1 3 4 0 0 1 3 5
+p323
+aVKurt Thomas NYK 03/02/1999 NYK @ MIA L 38 9 3 9 33.3 0 0 - 3 4 75.0 6 6 12 0 2 0 1 3 -11
+p324
+aVPatrick Ewing NYK 03/02/1999 NYK @ MIA L 43 31 10 26 38.5 0 0 - 11 14 78.6 6 10 16 0 1 6 4 4 -4
+p325
+aVAllan Houston NYK 03/02/1999 NYK @ MIA L 47 6 3 15 20.0 0 3 0.0 0 1 0.0 0 2 2 3 0 0 2 1 1
+p326
+aVChris Dudley NYK 03/02/1999 NYK @ MIA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p327
+aVDennis Scott NYK 03/02/1999 NYK @ MIA L 17 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -6
+p328
+aVLarry Johnson NYK 03/02/1999 NYK @ MIA L 31 19 6 14 42.9 1 2 50.0 6 6 100.0 0 4 4 2 0 1 0 2 -3
+p329
+aVChris Childs NYK 03/02/1999 NYK @ MIA L 39 10 4 8 50.0 0 1 0.0 2 2 100.0 0 5 5 2 0 0 1 4 10
+p330
+aVCharlie Ward NYK 03/02/1999 NYK @ MIA L 42 5 2 6 33.3 1 4 25.0 0 0 - 1 2 3 6 1 0 2 3 5
+p331
+aVHerb Williams NYK 03/01/1999 NYK vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p332
+aVDavid Wingate NYK 03/01/1999 NYK vs. CLE W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p333
+aVChris Childs NYK 03/01/1999 NYK vs. CLE W 28 9 3 6 50.0 1 2 50.0 2 2 100.0 0 3 3 3 1 0 1 3 -1
+p334
+aVDennis Scott NYK 03/01/1999 NYK vs. CLE W 21 9 3 5 60.0 3 4 75.0 0 0 - 0 1 1 1 0 0 0 4 -3
+p335
+aVChris Dudley NYK 03/01/1999 NYK vs. CLE W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 5
+p336
+aVPatrick Ewing NYK 03/01/1999 NYK vs. CLE W 39 16 6 14 42.9 0 0 - 4 6 66.7 1 11 12 1 0 4 2 4 6
+p337
+aVKurt Thomas NYK 03/01/1999 NYK vs. CLE W 23 9 4 10 40.0 0 0 - 1 2 50.0 0 4 4 0 2 1 1 4 11
+p338
+aVCharlie Ward NYK 03/01/1999 NYK vs. CLE W 35 9 3 5 60.0 1 2 50.0 2 3 66.7 0 3 3 9 0 0 5 3 12
+p339
+aVMarcus Camby NYK 03/01/1999 NYK vs. CLE W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 2 2 5 1
+p340
+aVLarry Johnson NYK 03/01/1999 NYK vs. CLE W 38 16 6 13 46.2 0 1 0.0 4 5 80.0 1 5 6 3 0 0 3 3 4
+p341
+aVAllan Houston NYK 03/01/1999 NYK vs. CLE W 41 15 5 12 41.7 1 5 20.0 4 4 100.0 0 6 6 3 1 0 3 3 4
+p342
+aVHerb Williams NYK 02/28/1999 NYK @ DET L 7 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p343
+aVKurt Thomas NYK 02/28/1999 NYK @ DET L 22 6 1 7 14.3 0 0 - 4 6 66.7 1 4 5 0 1 0 1 3 -9
+p344
+aVDennis Scott NYK 02/28/1999 NYK @ DET L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p345
+aVLarry Johnson NYK 02/28/1999 NYK @ DET L 30 12 5 11 45.5 0 2 0.0 2 5 40.0 4 1 5 1 0 0 2 0 -19
+p346
+aVMarcus Camby NYK 02/28/1999 NYK @ DET L 20 4 2 5 40.0 0 0 - 0 1 0.0 4 1 5 0 1 1 0 1 -13
+p347
+aVRick Brunson NYK 02/28/1999 NYK @ DET L 7 4 2 3 66.7 0 1 0.0 0 2 0.0 1 1 2 0 1 0 4 1 1
+p348
+aVChris Childs NYK 02/28/1999 NYK @ DET L 29 5 2 8 25.0 1 2 50.0 0 0 - 1 1 2 6 2 0 3 3 -11
+p349
+aVChris Dudley NYK 02/28/1999 NYK @ DET L 15 0 0 3 0.0 0 0 - 0 0 - 1 6 7 0 1 1 2 2 -5
+p350
+aVCharlie Ward NYK 02/28/1999 NYK @ DET L 27 10 3 8 37.5 1 4 25.0 3 4 75.0 0 1 1 3 2 0 1 1 -14
+p351
+aVAllan Houston NYK 02/28/1999 NYK @ DET L 35 13 4 12 33.3 1 4 25.0 4 5 80.0 0 5 5 1 0 0 1 3 -13
+p352
+aVDavid Wingate NYK 02/28/1999 NYK @ DET L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 5 -1
+p353
+aVPatrick Ewing NYK 02/28/1999 NYK @ DET L 28 6 3 7 42.9 0 0 - 0 2 0.0 1 7 8 0 0 2 3 2 -15
+p354
+aVKurt Thomas NYK 02/26/1999 NYK @ BOS L 23 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 2 0 1 1 -9
+p355
+aVCharlie Ward NYK 02/26/1999 NYK @ BOS L 32 9 4 9 44.4 0 3 0.0 1 2 50.0 1 3 4 6 3 0 6 4 -9
+p356
+aVRick Brunson NYK 02/26/1999 NYK @ BOS L 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p357
+aVAllan Houston NYK 02/26/1999 NYK @ BOS L 40 20 6 12 50.0 3 3 100.0 5 5 100.0 0 4 4 4 0 0 4 2 -5
+p358
+aVPatrick Ewing NYK 02/26/1999 NYK @ BOS L 34 17 7 15 46.7 0 0 - 3 4 75.0 2 10 12 3 1 2 4 3 2
+p359
+aVDavid Wingate NYK 02/26/1999 NYK @ BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p360
+aVMarcus Camby NYK 02/26/1999 NYK @ BOS L 30 11 4 8 50.0 0 0 - 3 4 75.0 1 5 6 1 2 6 1 5 -6
+p361
+aVLarry Johnson NYK 02/26/1999 NYK @ BOS L 34 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 1 0 1 0 2 -19
+p362
+aVDennis Scott NYK 02/26/1999 NYK @ BOS L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -15
+p363
+aVChris Childs NYK 02/26/1999 NYK @ BOS L 35 10 4 8 50.0 1 1 100.0 1 2 50.0 0 3 3 1 2 0 5 5 -12
+p364
+aVKurt Thomas NYK 02/25/1999 NYK vs. MIN W 22 9 4 8 50.0 0 0 - 1 1 100.0 0 6 6 1 0 0 1 4 -3
+p365
+aVLarry Johnson NYK 02/25/1999 NYK vs. MIN W 42 22 8 11 72.7 1 2 50.0 5 5 100.0 1 5 6 6 1 0 1 3 12
+p366
+aVRick Brunson NYK 02/25/1999 NYK vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p367
+aVDennis Scott NYK 02/25/1999 NYK vs. MIN W 13 5 2 5 40.0 1 4 25.0 0 0 - 0 0 0 0 0 0 0 2 -13
+p368
+aVAllan Houston NYK 02/25/1999 NYK vs. MIN W 45 26 8 16 50.0 2 4 50.0 8 9 88.9 0 7 7 3 0 0 4 4 3
+p369
+aVCharlie Ward NYK 02/25/1999 NYK vs. MIN W 45 18 8 18 44.4 2 6 33.3 0 0 - 0 1 1 13 2 0 5 3 14
+p370
+aVPatrick Ewing NYK 02/25/1999 NYK vs. MIN W 48 20 7 14 50.0 0 0 - 6 9 66.7 1 10 11 0 2 6 3 0 2
+p371
+aVMarcus Camby NYK 02/25/1999 NYK vs. MIN W 32 5 1 3 33.3 0 0 - 3 5 60.0 2 2 4 1 1 5 1 3 1
+p372
+aVChris Childs NYK 02/25/1999 NYK vs. MIN W 17 10 5 6 83.3 0 0 - 0 0 - 0 3 3 4 2 0 1 4 -10
+p373
+aVDavid Wingate NYK 02/25/1999 NYK vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p374
+aVLarry Johnson NYK 02/23/1999 NYK vs. NJN W 36 13 5 8 62.5 1 1 100.0 2 2 100.0 1 10 11 2 0 0 2 3 15
+p375
+aVDennis Scott NYK 02/23/1999 NYK vs. NJN W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -7
+p376
+aVChris Childs NYK 02/23/1999 NYK vs. NJN W 27 11 4 6 66.7 1 1 100.0 2 2 100.0 0 1 1 5 0 0 2 5 11
+p377
+aVPatrick Ewing NYK 02/23/1999 NYK vs. NJN W 39 20 8 21 38.1 0 0 - 4 10 40.0 4 7 11 3 0 7 5 2 16
+p378
+aVKurt Thomas NYK 02/23/1999 NYK vs. NJN W 28 4 2 6 33.3 0 0 - 0 0 - 1 2 3 2 0 0 2 3 9
+p379
+aVCharlie Ward NYK 02/23/1999 NYK vs. NJN W 38 10 4 7 57.1 1 2 50.0 1 2 50.0 0 9 9 5 5 1 3 2 13
+p380
+aVRick Brunson NYK 02/23/1999 NYK vs. NJN W 0 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p381
+aVAllan Houston NYK 02/23/1999 NYK vs. NJN W 35 14 4 11 36.4 2 3 66.7 4 4 100.0 1 4 5 2 0 0 7 1 1
+p382
+aVMarcus Camby NYK 02/23/1999 NYK vs. NJN W 20 9 4 7 57.1 0 0 - 1 2 50.0 2 2 4 0 1 0 1 5 -9
+p383
+aVChris Dudley NYK 02/23/1999 NYK vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -7
+p384
+aVDavid Wingate NYK 02/21/1999 NYK vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p385
+aVKurt Thomas NYK 02/21/1999 NYK vs. CHI W 32 17 7 10 70.0 0 0 - 3 3 100.0 1 4 5 1 3 0 2 3 20
+p386
+aVRick Brunson NYK 02/21/1999 NYK vs. CHI W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p387
+aVLarry Johnson NYK 02/21/1999 NYK vs. CHI W 34 7 3 7 42.9 0 2 0.0 1 2 50.0 0 2 2 2 0 1 3 2 10
+p388
+aVMarcus Camby NYK 02/21/1999 NYK vs. CHI W 23 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 1 0 0 3 -4
+p389
+aVPatrick Ewing NYK 02/21/1999 NYK vs. CHI W 34 10 4 15 26.7 0 0 - 2 2 100.0 1 5 6 3 0 7 4 3 10
+p390
+aVChris Dudley NYK 02/21/1999 NYK vs. CHI W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 6
+p391
+aVChris Childs NYK 02/21/1999 NYK vs. CHI W 27 7 3 6 50.0 0 1 0.0 1 2 50.0 0 4 4 3 2 0 3 2 5
+p392
+aVDennis Scott NYK 02/21/1999 NYK vs. CHI W 14 4 1 4 25.0 1 1 100.0 1 2 50.0 0 2 2 0 0 0 0 1 6
+p393
+aVAllan Houston NYK 02/21/1999 NYK vs. CHI W 37 26 10 15 66.7 4 5 80.0 2 2 100.0 0 2 2 5 3 1 3 2 7
+p394
+aVCharlie Ward NYK 02/21/1999 NYK vs. CHI W 29 4 2 3 66.7 0 0 - 0 1 0.0 0 5 5 6 2 0 4 0 19
+p395
+aVPatrick Ewing NYK 02/19/1999 NYK @ PHI W 37 11 4 11 36.4 0 0 - 3 5 60.0 0 8 8 3 2 4 4 3 16
+p396
+aVDavid Wingate NYK 02/19/1999 NYK @ PHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p397
+aVChris Dudley NYK 02/19/1999 NYK @ PHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p398
+aVLarry Johnson NYK 02/19/1999 NYK @ PHI W 29 12 4 8 50.0 1 2 50.0 3 3 100.0 2 2 4 7 1 0 3 1 10
+p399
+aVMarcus Camby NYK 02/19/1999 NYK @ PHI W 18 5 1 5 20.0 0 0 - 3 4 75.0 2 3 5 0 0 2 0 3 2
+p400
+aVDennis Scott NYK 02/19/1999 NYK @ PHI W 19 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 1 1 0 0 3 1
+p401
+aVRick Brunson NYK 02/19/1999 NYK @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p402
+aVAllan Houston NYK 02/19/1999 NYK @ PHI W 35 25 10 17 58.8 5 5 100.0 0 0 - 0 3 3 2 3 0 3 4 11
+p403
+aVChris Childs NYK 02/19/1999 NYK @ PHI W 22 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 6 0 0 3 4 3
+p404
+aVCharlie Ward NYK 02/19/1999 NYK @ PHI W 35 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 3 3 0 1 0 9
+p405
+aVKurt Thomas NYK 02/19/1999 NYK @ PHI W 34 14 6 9 66.7 0 0 - 2 5 40.0 1 5 6 0 1 0 7 3 8
+p406
+aVChris Childs NYK 02/18/1999 NYK @ CLE L 22 8 4 6 66.7 0 1 0.0 0 0 - 1 1 2 3 2 0 3 2 -12
+p407
+aVChris Dudley NYK 02/18/1999 NYK @ CLE L 10 2 1 4 25.0 0 0 - 0 0 - 4 1 5 0 0 0 0 0 3
+p408
+aVAllan Houston NYK 02/18/1999 NYK @ CLE L 34 12 5 14 35.7 2 4 50.0 0 0 - 0 2 2 5 1 0 3 2 -28
+p409
+aVKurt Thomas NYK 02/18/1999 NYK @ CLE L 18 2 1 6 16.7 0 0 - 0 0 - 3 2 5 2 0 0 0 3 -13
+p410
+aVBen Davis NYK 02/18/1999 NYK @ CLE L 4 7 2 5 40.0 0 0 - 3 4 75.0 3 0 3 0 0 0 0 1 7
+p411
+aVPatrick Ewing NYK 02/18/1999 NYK @ CLE L 32 14 7 17 41.2 0 0 - 0 0 - 4 2 6 2 0 1 2 2 -24
+p412
+aVLarry Johnson NYK 02/18/1999 NYK @ CLE L 27 11 4 8 50.0 0 1 0.0 3 3 100.0 0 3 3 1 1 0 1 3 -9
+p413
+aVDavid Wingate NYK 02/18/1999 NYK @ CLE L 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 3
+p414
+aVDennis Scott NYK 02/18/1999 NYK @ CLE L 25 5 2 10 20.0 1 3 33.3 0 0 - 2 4 6 1 0 0 1 1 -5
+p415
+aVCharlie Ward NYK 02/18/1999 NYK @ CLE L 34 2 1 9 11.1 0 4 0.0 0 0 - 0 1 1 6 3 0 1 3 -27
+p416
+aVMarcus Camby NYK 02/18/1999 NYK @ CLE L 19 6 3 5 60.0 0 0 - 0 1 0.0 0 2 2 0 0 0 1 3 -16
+p417
+aVRick Brunson NYK 02/18/1999 NYK @ CLE L 7 3 1 3 33.3 0 0 - 1 4 25.0 0 1 1 2 2 0 1 2 1
+p418
+aVDennis Scott NYK 02/16/1999 NYK vs. TOR W 13 6 3 6 50.0 0 3 0.0 0 2 0.0 0 0 0 3 0 0 0 0 4
+p419
+aVBen Davis NYK 02/16/1999 NYK vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p420
+aVAllan Houston NYK 02/16/1999 NYK vs. TOR W 42 20 7 15 46.7 2 3 66.7 4 4 100.0 1 2 3 1 0 0 3 3 15
+p421
+aVRick Brunson NYK 02/16/1999 NYK vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p422
+aVChris Dudley NYK 02/16/1999 NYK vs. TOR W 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 3 5
+p423
+aVChris Childs NYK 02/16/1999 NYK vs. TOR W 24 7 1 4 25.0 1 2 50.0 4 5 80.0 0 0 0 4 2 0 3 4 -3
+p424
+aVKurt Thomas NYK 02/16/1999 NYK vs. TOR W 22 10 5 7 71.4 0 0 - 0 0 - 1 4 5 3 1 0 3 5 13
+p425
+aVLarry Johnson NYK 02/16/1999 NYK vs. TOR W 31 13 3 6 50.0 1 1 100.0 6 7 85.7 4 3 7 3 0 0 0 4 13
+p426
+aVMarcus Camby NYK 02/16/1999 NYK vs. TOR W 23 11 5 11 45.5 0 0 - 1 2 50.0 3 9 12 0 0 1 0 2 -4
+p427
+aVCharlie Ward NYK 02/16/1999 NYK vs. TOR W 36 12 4 8 50.0 1 2 50.0 3 4 75.0 0 3 3 4 4 0 2 1 3
+p428
+aVPatrick Ewing NYK 02/16/1999 NYK vs. TOR W 37 16 4 13 30.8 0 0 - 8 10 80.0 1 7 8 1 0 1 1 3 8
+p429
+aVLarry Johnson NYK 02/15/1999 NYK vs. DET W 39 12 4 11 36.4 0 2 0.0 4 5 80.0 3 6 9 3 1 0 4 4 4
+p430
+aVMarcus Camby NYK 02/15/1999 NYK vs. DET W 19 6 2 6 33.3 0 0 - 2 4 50.0 4 1 5 0 1 3 0 5 -2
+p431
+aVKurt Thomas NYK 02/15/1999 NYK vs. DET W 20 8 4 5 80.0 0 0 - 0 0 - 1 4 5 1 0 0 2 2 3
+p432
+aVDennis Scott NYK 02/15/1999 NYK vs. DET W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 5
+p433
+aVRick Brunson NYK 02/15/1999 NYK vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p434
+aVCharlie Ward NYK 02/15/1999 NYK vs. DET W 41 10 3 7 42.9 3 7 42.9 1 4 25.0 0 1 1 9 2 0 0 2 16
+p435
+aVChris Dudley NYK 02/15/1999 NYK vs. DET W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 1 1 0 -1
+p436
+aVAllan Houston NYK 02/15/1999 NYK vs. DET W 41 19 6 18 33.3 1 4 25.0 6 6 100.0 0 4 4 3 1 2 3 2 7
+p437
+aVChris Childs NYK 02/15/1999 NYK vs. DET W 26 7 3 7 42.9 1 1 100.0 0 0 - 0 5 5 4 4 0 2 5 4
+p438
+aVDavid Wingate NYK 02/15/1999 NYK vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p439
+aVPatrick Ewing NYK 02/15/1999 NYK vs. DET W 38 14 6 12 50.0 0 1 0.0 2 3 66.7 1 9 10 3 0 6 2 3 10
+p440
+aVPatrick Ewing NYK 02/11/1999 NYK @ CHI W 40 18 6 14 42.9 0 0 - 6 10 60.0 1 8 9 2 2 3 3 2 13
+p441
+aVMarcus Camby NYK 02/11/1999 NYK @ CHI W 28 6 1 3 33.3 0 0 - 4 8 50.0 2 4 6 0 0 8 0 2 12
+p442
+aVKurt Thomas NYK 02/11/1999 NYK @ CHI W 18 9 4 9 44.4 0 0 - 1 2 50.0 2 5 7 0 1 0 1 3 -5
+p443
+aVChris Dudley NYK 02/11/1999 NYK @ CHI W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -4
+p444
+aVLarry Johnson NYK 02/11/1999 NYK @ CHI W 26 2 0 4 0.0 0 3 0.0 2 2 100.0 0 4 4 1 1 0 1 5 -4
+p445
+aVChris Childs NYK 02/11/1999 NYK @ CHI W 32 8 3 8 37.5 2 4 50.0 0 0 - 1 7 8 3 3 0 1 3 4
+p446
+aVCharlie Ward NYK 02/11/1999 NYK @ CHI W 38 13 4 9 44.4 3 5 60.0 2 2 100.0 1 5 6 6 0 0 4 3 2
+p447
+aVAllan Houston NYK 02/11/1999 NYK @ CHI W 37 15 7 18 38.9 0 1 0.0 1 2 50.0 0 2 2 4 1 0 2 4 3
+p448
+aVDennis Scott NYK 02/11/1999 NYK @ CHI W 16 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 1 4
+p449
+aVDavid Wingate NYK 02/11/1999 NYK @ CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p450
+aVDavid Wingate NYK 02/10/1999 NYK vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p451
+aVAllan Houston NYK 02/10/1999 NYK vs. WAS W 24 11 2 6 33.3 0 1 0.0 7 8 87.5 0 3 3 2 0 0 3 4 10
+p452
+aVChris Childs NYK 02/10/1999 NYK vs. WAS W 39 13 4 6 66.7 3 4 75.0 2 3 66.7 0 8 8 9 1 0 5 5 7
+p453
+aVBen Davis NYK 02/10/1999 NYK vs. WAS W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p454
+aVRick Brunson NYK 02/10/1999 NYK vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 2
+p455
+aVLarry Johnson NYK 02/10/1999 NYK vs. WAS W 33 18 8 14 57.1 1 2 50.0 1 2 50.0 3 4 7 3 0 0 0 3 0
+p456
+aVKurt Thomas NYK 02/10/1999 NYK vs. WAS W 21 8 4 5 80.0 0 0 - 0 3 0.0 1 4 5 1 2 0 0 2 7
+p457
+aVPatrick Ewing NYK 02/10/1999 NYK vs. WAS W 35 16 5 15 33.3 0 0 - 6 8 75.0 0 7 7 2 0 2 4 2 2
+p458
+aVMarcus Camby NYK 02/10/1999 NYK vs. WAS W 15 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 3 13
+p459
+aVChris Dudley NYK 02/10/1999 NYK vs. WAS W 13 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 0 1 1 1 5
+p460
+aVCharlie Ward NYK 02/10/1999 NYK vs. WAS W 36 16 4 5 80.0 2 2 100.0 6 7 85.7 0 5 5 7 1 0 4 3 5
+p461
+aVDennis Scott NYK 02/10/1999 NYK vs. WAS W 20 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 1 1 0 0 3 7
+p462
+aVKurt Thomas NYK 02/07/1999 NYK vs. MIA L 17 7 2 8 25.0 0 0 - 3 8 37.5 3 6 9 0 0 0 1 3 12
+p463
+aVCharlie Ward NYK 02/07/1999 NYK vs. MIA L 34 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 7 1 1 3 1 -16
+p464
+aVAllan Houston NYK 02/07/1999 NYK vs. MIA L 39 21 9 19 47.4 1 3 33.3 2 3 66.7 1 4 5 3 2 0 1 1 -3
+p465
+aVMarcus Camby NYK 02/07/1999 NYK vs. MIA L 5 0 0 2 0.0 0 0 - 0 2 0.0 2 1 3 0 0 1 1 1 0
+p466
+aVLarry Johnson NYK 02/07/1999 NYK vs. MIA L 36 13 6 17 35.3 1 2 50.0 0 0 - 10 5 15 3 2 0 2 1 -6
+p467
+aVPatrick Ewing NYK 02/07/1999 NYK vs. MIA L 39 24 10 25 40.0 0 0 - 4 7 57.1 5 12 17 1 1 1 3 4 -10
+p468
+aVChris Childs NYK 02/07/1999 NYK vs. MIA L 24 4 2 3 66.7 0 0 - 0 0 - 1 4 5 4 1 0 2 4 17
+p469
+aVLatrell Sprewell NYK 02/07/1999 NYK vs. MIA L 40 5 2 12 16.7 0 4 0.0 1 2 50.0 3 3 6 0 1 0 4 2 -15
+p470
+aVChris Dudley NYK 02/07/1999 NYK vs. MIA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p471
+aVCharlie Ward NYK 02/05/1999 NYK @ ORL L 33 6 3 5 60.0 0 2 0.0 0 0 - 0 5 5 6 3 1 6 0 6
+p472
+aVAllan Houston NYK 02/05/1999 NYK @ ORL L 41 12 5 18 27.8 0 4 0.0 2 4 50.0 1 6 7 5 0 0 1 2 -5
+p473
+aVDennis Scott NYK 02/05/1999 NYK @ ORL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -2
+p474
+aVKurt Thomas NYK 02/05/1999 NYK @ ORL L 18 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 3 1 1 1 3 -11
+p475
+aVMarcus Camby NYK 02/05/1999 NYK @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p476
+aVChris Dudley NYK 02/05/1999 NYK @ ORL L 11 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 2 4 -17
+p477
+aVChris Childs NYK 02/05/1999 NYK @ ORL L 23 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 1 2 0 0 4 -20
+p478
+aVLatrell Sprewell NYK 02/05/1999 NYK @ ORL L 35 24 8 16 50.0 2 5 40.0 6 9 66.7 1 5 6 2 2 0 3 4 -11
+p479
+aVLarry Johnson NYK 02/05/1999 NYK @ ORL L 33 10 5 9 55.6 0 0 - 0 0 - 4 3 7 1 1 0 0 4 13
+p480
+aVPatrick Ewing NYK 02/05/1999 NYK @ ORL L 38 17 7 13 53.8 0 0 - 3 5 60.0 1 8 9 2 0 0 4 4 7
+p481
+a.

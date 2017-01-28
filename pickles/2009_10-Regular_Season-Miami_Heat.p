@@ -1,0 +1,1658 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDorell Wright MIA 04/14/2010 MIA vs. NJN W 33 11 5 13 38.5 1 4 25.0 0 0 - 0 3 3 1 0 1 1 4 -3
+p2
+aVMichael Beasley MIA 04/14/2010 MIA vs. NJN W 35 25 10 24 41.7 0 0 - 5 5 100.0 4 9 13 2 2 3 5 6 4
+p3
+aVQuentin Richardson MIA 04/14/2010 MIA vs. NJN W 24 8 3 7 42.9 1 3 33.3 1 2 50.0 2 3 5 2 1 1 2 1 8
+p4
+aVJamaal Magloire MIA 04/14/2010 MIA vs. NJN W 19 5 2 4 50.0 0 0 - 1 3 33.3 1 5 6 0 1 0 1 2 3
+p5
+aVMario Chalmers MIA 04/14/2010 MIA vs. NJN W 42 15 6 15 40.0 3 9 33.3 0 0 - 1 1 2 7 1 0 2 4 1
+p6
+aVCarlos Arroyo MIA 04/14/2010 MIA vs. NJN W 33 8 3 9 33.3 0 1 0.0 2 3 66.7 0 2 2 3 0 0 2 1 4
+p7
+aVYakhouba Diawara MIA 04/14/2010 MIA vs. NJN W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 8
+p8
+aVShavlik Randolph MIA 04/14/2010 MIA vs. NJN W 23 8 4 8 50.0 0 0 - 0 0 - 4 2 6 0 1 0 1 4 4
+p9
+aVJames Jones MIA 04/14/2010 MIA vs. NJN W 36 11 3 10 30.0 2 7 28.6 3 3 100.0 0 5 5 0 2 0 0 0 6
+p10
+aVJoel Anthony MIA 04/14/2010 MIA vs. NJN W 39 0 0 1 0.0 0 0 - 0 0 - 3 3 6 0 2 3 0 4 5
+p11
+aVMichael Beasley MIA 04/12/2010 MIA @ PHI W 32 15 5 9 55.6 1 1 100.0 4 5 80.0 0 6 6 0 1 0 0 2 -9
+p12
+aVMario Chalmers MIA 04/12/2010 MIA @ PHI W 19 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 2 2 0 1 2 7
+p13
+aVCarlos Arroyo MIA 04/12/2010 MIA @ PHI W 34 15 6 8 75.0 0 0 - 3 4 75.0 1 1 2 7 0 0 0 1 -7
+p14
+aVQuentin Richardson MIA 04/12/2010 MIA @ PHI W 30 15 5 13 38.5 2 6 33.3 3 3 100.0 2 10 12 4 0 1 1 1 -3
+p15
+aVDwyane Wade MIA 04/12/2010 MIA @ PHI W 35 30 12 19 63.2 1 2 50.0 5 7 71.4 1 3 4 3 2 1 4 4 -1
+p16
+aVJamaal Magloire MIA 04/12/2010 MIA @ PHI W 14 1 0 0 - 0 0 - 1 2 50.0 3 1 4 0 0 0 2 2 5
+p17
+aVDorell Wright MIA 04/12/2010 MIA @ PHI W 28 12 4 7 57.1 0 1 0.0 4 5 80.0 1 3 4 4 2 0 0 1 14
+p18
+aVJoel Anthony MIA 04/12/2010 MIA @ PHI W 19 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -3
+p19
+aVUdonis Haslem MIA 04/12/2010 MIA @ PHI W 29 12 6 10 60.0 0 0 - 0 0 - 1 4 5 1 0 0 2 3 7
+p20
+aVJoel Anthony MIA 04/11/2010 MIA @ NYK W 7 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -3
+p21
+aVJermaine O'Neal MIA 04/11/2010 MIA @ NYK W 17 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 1 0 0 3 5 -9
+p22
+aVUdonis Haslem MIA 04/11/2010 MIA @ NYK W 37 14 7 13 53.8 0 0 - 0 1 0.0 4 6 10 0 3 0 1 2 20
+p23
+aVMario Chalmers MIA 04/11/2010 MIA @ NYK W 24 1 0 4 0.0 0 3 0.0 1 2 50.0 0 3 3 3 2 0 2 4 11
+p24
+aVQuentin Richardson MIA 04/11/2010 MIA @ NYK W 25 14 5 8 62.5 4 7 57.1 0 0 - 0 1 1 3 1 0 1 3 9
+p25
+aVDwyane Wade MIA 04/11/2010 MIA @ NYK W 37 32 12 26 46.2 0 1 0.0 8 9 88.9 1 4 5 5 0 0 2 1 15
+p26
+aVCarlos Arroyo MIA 04/11/2010 MIA @ NYK W 35 12 5 6 83.3 0 0 - 2 2 100.0 0 3 3 1 0 1 0 1 0
+p27
+aVDorell Wright MIA 04/11/2010 MIA @ NYK W 23 12 5 9 55.6 2 5 40.0 0 0 - 1 2 3 2 0 0 2 2 4
+p28
+aVMichael Beasley MIA 04/11/2010 MIA @ NYK W 34 16 6 9 66.7 1 2 50.0 3 6 50.0 2 5 7 3 2 1 0 2 18
+p29
+aVCarlos Arroyo MIA 04/09/2010 MIA vs. DET L 31 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 1 -4
+p30
+aVMichael Beasley MIA 04/09/2010 MIA vs. DET L 26 9 4 7 57.1 1 1 100.0 0 0 - 0 4 4 1 0 0 3 0 -14
+p31
+aVDorell Wright MIA 04/09/2010 MIA vs. DET L 25 15 5 11 45.5 3 7 42.9 2 2 100.0 2 3 5 1 2 1 1 2 6
+p32
+aVDwyane Wade MIA 04/09/2010 MIA vs. DET L 37 19 5 8 62.5 1 1 100.0 8 9 88.9 0 3 3 9 0 1 5 3 -9
+p33
+aVUdonis Haslem MIA 04/09/2010 MIA vs. DET L 27 16 8 10 80.0 0 0 - 0 0 - 4 7 11 0 0 0 0 1 6
+p34
+aVJermaine O'Neal MIA 04/09/2010 MIA vs. DET L 22 14 7 10 70.0 0 0 - 0 1 0.0 1 1 2 1 0 0 1 1 -4
+p35
+aVMario Chalmers MIA 04/09/2010 MIA vs. DET L 28 9 2 8 25.0 0 3 0.0 5 5 100.0 1 2 3 5 2 0 5 3 -1
+p36
+aVQuentin Richardson MIA 04/09/2010 MIA vs. DET L 23 9 4 8 50.0 1 3 33.3 0 1 0.0 0 3 3 3 1 0 0 1 -13
+p37
+aVJoel Anthony MIA 04/09/2010 MIA vs. DET L 21 2 1 3 33.3 0 0 - 0 0 - 3 0 3 0 0 3 0 4 -2
+p38
+aVQuentin Richardson MIA 04/07/2010 MIA vs. PHI W 25 9 4 7 57.1 1 3 33.3 0 0 - 1 5 6 3 4 0 0 1 -1
+p39
+aVDwyane Wade MIA 04/07/2010 MIA vs. PHI W 37 22 8 18 44.4 0 3 0.0 6 11 54.5 1 3 4 3 2 2 3 4 -1
+p40
+aVMario Chalmers MIA 04/07/2010 MIA vs. PHI W 31 12 4 12 33.3 1 6 16.7 3 4 75.0 0 1 1 5 4 0 1 2 20
+p41
+aVDorell Wright MIA 04/07/2010 MIA vs. PHI W 27 19 7 12 58.3 4 6 66.7 1 3 33.3 2 2 4 0 1 0 0 0 14
+p42
+aVCarlos Arroyo MIA 04/07/2010 MIA vs. PHI W 26 15 5 9 55.6 0 1 0.0 5 5 100.0 0 1 1 1 1 0 2 3 -17
+p43
+aVUdonis Haslem MIA 04/07/2010 MIA vs. PHI W 32 11 3 8 37.5 0 0 - 5 6 83.3 2 9 11 3 1 0 2 1 24
+p44
+aVJoel Anthony MIA 04/07/2010 MIA vs. PHI W 19 3 1 1 100.0 0 0 - 1 1 100.0 2 2 4 0 0 2 1 1 19
+p45
+aVMichael Beasley MIA 04/07/2010 MIA vs. PHI W 16 4 2 9 22.2 0 0 - 0 0 - 2 0 2 1 2 0 2 2 -20
+p46
+aVJermaine O'Neal MIA 04/07/2010 MIA vs. PHI W 27 4 2 10 20.0 0 0 - 0 0 - 4 5 9 0 0 0 1 2 -18
+p47
+aVUdonis Haslem MIA 04/03/2010 MIA @ MIN W 37 13 5 11 45.5 0 0 - 3 8 37.5 5 12 17 0 0 2 4 3 17
+p48
+aVDorell Wright MIA 04/03/2010 MIA @ MIN W 23 3 1 3 33.3 1 2 50.0 0 0 - 0 7 7 3 0 0 0 1 6
+p49
+aVQuentin Richardson MIA 04/03/2010 MIA @ MIN W 25 14 5 6 83.3 4 5 80.0 0 0 - 0 2 2 2 2 0 3 2 7
+p50
+aVMichael Beasley MIA 04/03/2010 MIA @ MIN W 20 12 6 13 46.2 0 2 0.0 0 0 - 2 3 5 1 1 1 1 4 13
+p51
+aVMario Chalmers MIA 04/03/2010 MIA @ MIN W 18 2 1 6 16.7 0 3 0.0 0 1 0.0 1 1 2 2 0 0 1 3 -2
+p52
+aVDwyane Wade MIA 04/03/2010 MIA @ MIN W 40 39 15 27 55.6 1 2 50.0 8 10 80.0 1 7 8 6 0 0 5 3 20
+p53
+aVCarlos Arroyo MIA 04/03/2010 MIA @ MIN W 38 12 4 7 57.1 0 0 - 4 5 80.0 0 2 2 9 3 0 0 3 8
+p54
+aVJamaal Magloire MIA 04/03/2010 MIA @ MIN W 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -12
+p55
+aVJoel Anthony MIA 04/03/2010 MIA @ MIN W 22 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 8
+p56
+aVJoel Anthony MIA 04/02/2010 MIA @ IND W 40 8 3 4 75.0 0 0 - 2 2 100.0 2 6 8 0 1 2 0 1 16
+p57
+aVUdonis Haslem MIA 04/02/2010 MIA @ IND W 34 9 2 7 28.6 0 0 - 5 6 83.3 3 8 11 0 0 0 1 3 5
+p58
+aVCarlos Arroyo MIA 04/02/2010 MIA @ IND W 27 5 2 9 22.2 0 1 0.0 1 1 100.0 0 4 4 1 0 0 0 1 -5
+p59
+aVJamaal Magloire MIA 04/02/2010 MIA @ IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p60
+aVDorell Wright MIA 04/02/2010 MIA @ IND W 28 11 4 7 57.1 2 4 50.0 1 1 100.0 1 6 7 0 0 1 3 3 4
+p61
+aVMario Chalmers MIA 04/02/2010 MIA @ IND W 35 10 4 11 36.4 2 8 25.0 0 1 0.0 0 4 4 3 3 1 1 4 3
+p62
+aVQuentin Richardson MIA 04/02/2010 MIA @ IND W 25 7 3 7 42.9 1 4 25.0 0 0 - 1 1 2 0 0 0 0 3 5
+p63
+aVMichael Beasley MIA 04/02/2010 MIA @ IND W 30 12 6 17 35.3 0 1 0.0 0 2 0.0 3 4 7 2 1 1 2 4 -7
+p64
+aVDwyane Wade MIA 04/02/2010 MIA @ IND W 44 43 14 22 63.6 2 3 66.7 13 17 76.5 2 7 9 6 3 3 5 1 20
+p65
+aVDaequan Cook MIA 03/31/2010 MIA @ DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p66
+aVYakhouba Diawara MIA 03/31/2010 MIA @ DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p67
+aVUdonis Haslem MIA 03/31/2010 MIA @ DET W 28 10 4 5 80.0 0 0 - 2 3 66.7 4 6 10 0 1 1 1 5 17
+p68
+aVCarlos Arroyo MIA 03/31/2010 MIA @ DET W 35 8 3 5 60.0 2 2 100.0 0 0 - 0 2 2 8 0 0 3 3 25
+p69
+aVDwyane Wade MIA 03/31/2010 MIA @ DET W 28 10 4 13 30.8 0 1 0.0 2 2 100.0 2 1 3 1 2 0 2 1 -3
+p70
+aVMichael Beasley MIA 03/31/2010 MIA @ DET W 39 28 11 22 50.0 0 1 0.0 6 7 85.7 3 6 9 3 2 1 2 4 20
+p71
+aVMario Chalmers MIA 03/31/2010 MIA @ DET W 31 6 2 6 33.3 2 6 33.3 0 0 - 2 1 3 5 1 0 5 4 14
+p72
+aVJoel Anthony MIA 03/31/2010 MIA @ DET W 28 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 0 1 2 3 4 -3
+p73
+aVDorell Wright MIA 03/31/2010 MIA @ DET W 22 17 5 8 62.5 4 6 66.7 3 3 100.0 0 2 2 0 1 1 0 0 19
+p74
+aVQuentin Richardson MIA 03/31/2010 MIA @ DET W 24 16 6 9 66.7 4 5 80.0 0 0 - 1 6 7 2 1 0 1 1 0
+p75
+aVMario Chalmers MIA 03/28/2010 MIA vs. TOR W 21 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 3 1 0 0 1 1
+p76
+aVUdonis Haslem MIA 03/28/2010 MIA vs. TOR W 34 23 10 11 90.9 0 0 - 3 4 75.0 1 5 6 0 0 0 2 2 11
+p77
+aVCarlos Arroyo MIA 03/28/2010 MIA vs. TOR W 32 12 3 5 60.0 0 0 - 6 6 100.0 0 0 0 8 0 2 1 1 -7
+p78
+aVMichael Beasley MIA 03/28/2010 MIA vs. TOR W 19 2 1 10 10.0 0 1 0.0 0 0 - 1 2 3 0 0 0 4 1 -15
+p79
+aVQuentin Richardson MIA 03/28/2010 MIA vs. TOR W 28 7 3 9 33.3 1 5 20.0 0 0 - 0 9 9 2 1 0 1 2 0
+p80
+aVJamaal Magloire MIA 03/28/2010 MIA vs. TOR W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 7
+p81
+aVJoel Anthony MIA 03/28/2010 MIA vs. TOR W 37 13 6 6 100.0 0 0 - 1 1 100.0 2 0 2 0 1 1 1 3 1
+p82
+aVDorell Wright MIA 03/28/2010 MIA vs. TOR W 20 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 0 0 0 0 1 5
+p83
+aVDwyane Wade MIA 03/28/2010 MIA vs. TOR W 43 32 11 18 61.1 1 3 33.3 9 10 90.0 0 7 7 6 5 3 6 4 12
+p84
+aVDorell Wright MIA 03/26/2010 MIA @ MIL W 25 14 4 8 50.0 1 3 33.3 5 5 100.0 0 0 0 0 1 1 0 3 5
+p85
+aVQuentin Richardson MIA 03/26/2010 MIA @ MIL W 23 2 1 5 20.0 0 4 0.0 0 0 - 0 3 3 1 0 0 1 3 8
+p86
+aVCarlos Arroyo MIA 03/26/2010 MIA @ MIL W 41 9 4 9 44.4 0 1 0.0 1 1 100.0 1 6 7 7 0 0 3 5 13
+p87
+aVJoel Anthony MIA 03/26/2010 MIA @ MIL W 22 8 2 2 100.0 0 0 - 4 4 100.0 5 2 7 0 0 0 0 1 8
+p88
+aVUdonis Haslem MIA 03/26/2010 MIA @ MIL W 35 10 4 6 66.7 0 0 - 2 4 50.0 2 16 18 0 1 1 2 2 0
+p89
+aVDwyane Wade MIA 03/26/2010 MIA @ MIL W 37 30 9 14 64.3 1 2 50.0 11 12 91.7 1 6 7 7 3 1 5 1 9
+p90
+aVMichael Beasley MIA 03/26/2010 MIA @ MIL W 32 8 3 9 33.3 0 0 - 2 2 100.0 0 3 3 0 0 2 3 4 16
+p91
+aVMario Chalmers MIA 03/26/2010 MIA @ MIL W 18 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 1 0 0 3 3 4
+p92
+aVJermaine O'Neal MIA 03/26/2010 MIA @ MIL W 7 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 2
+p93
+aVJamaal Magloire MIA 03/25/2010 MIA @ CHI W 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -2
+p94
+aVJoel Anthony MIA 03/25/2010 MIA @ CHI W 23 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 5 1 1 8
+p95
+aVQuentin Richardson MIA 03/25/2010 MIA @ CHI W 25 9 4 8 50.0 0 3 0.0 1 1 100.0 2 6 8 0 0 0 0 3 21
+p96
+aVMichael Beasley MIA 03/25/2010 MIA @ CHI W 20 15 7 15 46.7 0 0 - 1 1 100.0 2 2 4 1 0 0 2 2 14
+p97
+aVCarlos Arroyo MIA 03/25/2010 MIA @ CHI W 36 10 4 10 40.0 0 0 - 2 2 100.0 0 5 5 5 2 0 2 3 24
+p98
+aVDorell Wright MIA 03/25/2010 MIA @ CHI W 19 3 1 4 25.0 0 2 0.0 1 1 100.0 1 2 3 1 0 0 0 0 10
+p99
+aVDaequan Cook MIA 03/25/2010 MIA @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -2
+p100
+aVJames Jones MIA 03/25/2010 MIA @ CHI W 6 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p101
+aVDwyane Wade MIA 03/25/2010 MIA @ CHI W 29 12 5 7 71.4 0 0 - 2 7 28.6 0 5 5 10 1 2 1 0 28
+p102
+aVMario Chalmers MIA 03/25/2010 MIA @ CHI W 25 10 4 6 66.7 1 2 50.0 1 2 50.0 2 2 4 0 0 0 0 0 10
+p103
+aVUdonis Haslem MIA 03/25/2010 MIA @ CHI W 24 14 5 9 55.6 0 0 - 4 5 80.0 0 6 6 0 1 0 1 3 17
+p104
+aVJermaine O'Neal MIA 03/25/2010 MIA @ CHI W 25 24 9 14 64.3 0 0 - 6 7 85.7 1 3 4 3 0 2 1 2 21
+p105
+aVMichael Beasley MIA 03/22/2010 MIA @ NJN W 32 16 8 16 50.0 0 0 - 0 0 - 0 5 5 1 0 2 0 3 7
+p106
+aVMario Chalmers MIA 03/22/2010 MIA @ NJN W 16 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 4 3 1 2 1 -4
+p107
+aVQuentin Richardson MIA 03/22/2010 MIA @ NJN W 27 6 2 7 28.6 2 7 28.6 0 0 - 1 5 6 0 0 0 0 1 10
+p108
+aVCarlos Arroyo MIA 03/22/2010 MIA @ NJN W 42 12 6 11 54.5 0 1 0.0 0 0 - 0 1 1 4 0 0 1 2 16
+p109
+aVJermaine O'Neal MIA 03/22/2010 MIA @ NJN W 34 25 11 16 68.8 0 0 - 3 5 60.0 1 8 9 3 1 0 2 4 10
+p110
+aVJoel Anthony MIA 03/22/2010 MIA @ NJN W 19 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 5 0
+p111
+aVDwyane Wade MIA 03/22/2010 MIA @ NJN W 38 27 9 13 69.2 0 0 - 9 12 75.0 3 4 7 12 2 1 2 2 8
+p112
+aVJamaal Magloire MIA 03/22/2010 MIA @ NJN W 9 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 0 0 0 3 3
+p113
+aVDorell Wright MIA 03/22/2010 MIA @ NJN W 23 10 4 6 66.7 1 1 100.0 1 3 33.3 1 2 3 4 2 1 1 1 0
+p114
+aVDorell Wright MIA 03/20/2010 MIA vs. CHA W 21 7 3 5 60.0 1 3 33.3 0 0 - 2 3 5 1 0 1 1 3 -7
+p115
+aVMichael Beasley MIA 03/20/2010 MIA vs. CHA W 30 16 6 16 37.5 0 1 0.0 4 4 100.0 1 6 7 2 1 2 3 4 6
+p116
+aVJoel Anthony MIA 03/20/2010 MIA vs. CHA W 33 9 3 6 50.0 0 0 - 3 4 75.0 3 6 9 0 1 3 1 3 7
+p117
+aVQuentin Richardson MIA 03/20/2010 MIA vs. CHA W 27 18 6 14 42.9 6 12 50.0 0 0 - 0 5 5 0 1 1 2 3 14
+p118
+aVMario Chalmers MIA 03/20/2010 MIA vs. CHA W 30 4 0 8 0.0 0 6 0.0 4 6 66.7 1 4 5 6 1 1 0 4 2
+p119
+aVJames Jones MIA 03/20/2010 MIA vs. CHA W 7 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p120
+aVCarlos Arroyo MIA 03/20/2010 MIA vs. CHA W 18 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 4
+p121
+aVUdonis Haslem MIA 03/20/2010 MIA vs. CHA W 33 9 4 6 66.7 0 0 - 1 2 50.0 6 7 13 0 1 0 0 2 -1
+p122
+aVDwyane Wade MIA 03/20/2010 MIA vs. CHA W 40 14 6 18 33.3 0 3 0.0 2 4 50.0 0 5 5 9 1 5 3 5 11
+p123
+aVJoel Anthony MIA 03/18/2010 MIA vs. ORL L 16 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 0 0 1 2 3 -5
+p124
+aVMario Chalmers MIA 03/18/2010 MIA vs. ORL L 28 9 3 8 37.5 3 6 50.0 0 0 - 1 1 2 1 0 0 0 6 3
+p125
+aVQuentin Richardson MIA 03/18/2010 MIA vs. ORL L 20 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 1 1 0 1 1 -7
+p126
+aVMichael Beasley MIA 03/18/2010 MIA vs. ORL L 32 8 3 11 27.3 0 2 0.0 2 2 100.0 3 3 6 1 0 1 4 1 -13
+p127
+aVDwyane Wade MIA 03/18/2010 MIA vs. ORL L 45 36 12 26 46.2 3 7 42.9 9 10 90.0 3 7 10 7 1 1 1 4 -10
+p128
+aVDorell Wright MIA 03/18/2010 MIA vs. ORL L 35 9 4 12 33.3 0 5 0.0 1 1 100.0 1 6 7 1 1 0 1 3 0
+p129
+aVCarlos Arroyo MIA 03/18/2010 MIA vs. ORL L 31 11 5 6 83.3 0 0 - 1 1 100.0 1 0 1 5 0 0 1 0 -4
+p130
+aVJermaine O'Neal MIA 03/18/2010 MIA vs. ORL L 37 14 4 13 30.8 0 0 - 6 7 85.7 2 4 6 0 1 5 1 5 -1
+p131
+aVUdonis Haslem MIA 03/18/2010 MIA vs. ORL L 21 2 1 3 33.3 0 0 - 0 1 0.0 0 7 7 0 0 0 0 1 7
+p132
+aVJamaal Magloire MIA 03/16/2010 MIA vs. SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -11
+p133
+aVJames Jones MIA 03/16/2010 MIA vs. SAS L 15 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p134
+aVJermaine O'Neal MIA 03/16/2010 MIA vs. SAS L 27 13 6 11 54.5 0 0 - 1 2 50.0 2 4 6 1 1 2 2 2 -12
+p135
+aVCarlos Arroyo MIA 03/16/2010 MIA vs. SAS L 30 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 3 1 0 0 1 -10
+p136
+aVQuentin Richardson MIA 03/16/2010 MIA vs. SAS L 20 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 0 2 0 1 3 -13
+p137
+aVDwyane Wade MIA 03/16/2010 MIA vs. SAS L 43 28 11 26 42.3 1 4 25.0 5 8 62.5 1 2 3 5 3 1 5 4 -12
+p138
+aVDorell Wright MIA 03/16/2010 MIA vs. SAS L 14 4 1 4 25.0 0 2 0.0 2 2 100.0 0 3 3 0 0 0 0 1 13
+p139
+aVUdonis Haslem MIA 03/16/2010 MIA vs. SAS L 26 10 4 9 44.4 0 0 - 2 3 66.7 4 8 12 1 1 0 2 1 -7
+p140
+aVJoel Anthony MIA 03/16/2010 MIA vs. SAS L 21 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 1 2 0 1 8
+p141
+aVMario Chalmers MIA 03/16/2010 MIA vs. SAS L 23 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 2 3 -11
+p142
+aVMichael Beasley MIA 03/16/2010 MIA vs. SAS L 19 6 3 10 30.0 0 1 0.0 0 0 - 0 5 5 0 1 0 1 2 -2
+p143
+aVDwyane Wade MIA 03/14/2010 MIA vs. PHI W 36 38 14 25 56.0 1 4 25.0 9 11 81.8 1 4 5 2 5 1 1 1 13
+p144
+aVJames Jones MIA 03/14/2010 MIA vs. PHI W 17 14 4 7 57.1 3 6 50.0 3 3 100.0 0 4 4 1 1 1 0 2 -1
+p145
+aVJamaal Magloire MIA 03/14/2010 MIA vs. PHI W 23 4 2 3 66.7 0 0 - 0 2 0.0 3 5 8 0 0 1 0 1 6
+p146
+aVJoel Anthony MIA 03/14/2010 MIA vs. PHI W 13 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 2 2 6
+p147
+aVCarlos Arroyo MIA 03/14/2010 MIA vs. PHI W 38 12 6 9 66.7 0 1 0.0 0 0 - 0 1 1 10 0 0 0 2 24
+p148
+aVQuentin Richardson MIA 03/14/2010 MIA vs. PHI W 32 8 2 8 25.0 2 7 28.6 2 2 100.0 0 3 3 4 4 0 0 4 15
+p149
+aVUdonis Haslem MIA 03/14/2010 MIA vs. PHI W 38 13 6 10 60.0 0 0 - 1 2 50.0 2 10 12 3 1 1 1 1 2
+p150
+aVJermaine O'Neal MIA 03/14/2010 MIA vs. PHI W 21 10 3 10 30.0 0 0 - 4 6 66.7 2 6 8 1 0 1 2 2 11
+p151
+aVDaequan Cook MIA 03/14/2010 MIA vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p152
+aVMario Chalmers MIA 03/14/2010 MIA vs. PHI W 21 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 3 0 0 3 2 -11
+p153
+aVDaequan Cook MIA 03/12/2010 MIA vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p154
+aVQuentin Richardson MIA 03/12/2010 MIA vs. CHI W 34 23 8 12 66.7 7 11 63.6 0 1 0.0 1 6 7 2 0 1 0 1 22
+p155
+aVUdonis Haslem MIA 03/12/2010 MIA vs. CHI W 31 7 2 5 40.0 0 0 - 3 3 100.0 3 6 9 0 0 0 0 2 2
+p156
+aVJames Jones MIA 03/12/2010 MIA vs. CHI W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 1 -4
+p157
+aVJoel Anthony MIA 03/12/2010 MIA vs. CHI W 26 6 2 3 66.7 0 0 - 2 2 100.0 3 7 10 2 0 3 0 4 9
+p158
+aVDwyane Wade MIA 03/12/2010 MIA vs. CHI W 33 22 7 16 43.8 0 2 0.0 8 12 66.7 0 2 2 7 1 0 6 2 19
+p159
+aVJermaine O'Neal MIA 03/12/2010 MIA vs. CHI W 33 25 8 13 61.5 0 0 - 9 11 81.8 0 6 6 2 1 1 3 2 18
+p160
+aVYakhouba Diawara MIA 03/12/2010 MIA vs. CHI W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p161
+aVMario Chalmers MIA 03/12/2010 MIA vs. CHI W 29 17 6 9 66.7 5 6 83.3 0 0 - 0 0 0 2 1 0 4 3 4
+p162
+aVCarlos Arroyo MIA 03/12/2010 MIA vs. CHI W 36 5 2 10 20.0 0 0 - 1 1 100.0 0 4 4 4 0 0 2 2 3
+p163
+aVJamaal Magloire MIA 03/12/2010 MIA vs. CHI W 5 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 2
+p164
+aVDwyane Wade MIA 03/10/2010 MIA vs. LAC W 30 27 6 12 50.0 0 0 - 15 17 88.2 3 3 6 8 2 0 1 3 21
+p165
+aVUdonis Haslem MIA 03/10/2010 MIA vs. LAC W 23 7 2 6 33.3 0 0 - 3 4 75.0 2 8 10 2 0 0 1 0 -1
+p166
+aVDorell Wright MIA 03/10/2010 MIA vs. LAC W 22 1 0 4 0.0 0 1 0.0 1 1 100.0 1 1 2 0 1 0 0 1 -6
+p167
+aVJames Jones MIA 03/10/2010 MIA vs. LAC W 16 9 3 6 50.0 3 3 100.0 0 0 - 0 2 2 0 0 0 0 1 -11
+p168
+aVCarlos Arroyo MIA 03/10/2010 MIA vs. LAC W 20 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 10
+p169
+aVJamaal Magloire MIA 03/10/2010 MIA vs. LAC W 18 6 2 2 100.0 0 0 - 2 4 50.0 4 5 9 0 1 3 1 0 10
+p170
+aVMario Chalmers MIA 03/10/2010 MIA vs. LAC W 30 12 4 8 50.0 4 7 57.1 0 0 - 0 0 0 6 2 0 0 0 2
+p171
+aVQuentin Richardson MIA 03/10/2010 MIA vs. LAC W 26 8 3 8 37.5 2 6 33.3 0 0 - 0 6 6 1 1 0 2 2 17
+p172
+aVMichael Beasley MIA 03/10/2010 MIA vs. LAC W 25 15 6 10 60.0 0 0 - 3 4 75.0 0 3 3 1 2 0 2 2 12
+p173
+aVJermaine O'Neal MIA 03/10/2010 MIA vs. LAC W 30 19 7 16 43.8 0 0 - 5 5 100.0 3 6 9 0 1 0 3 4 1
+p174
+aVMichael Beasley MIA 03/09/2010 MIA @ CHA L 27 11 4 8 50.0 0 0 - 3 4 75.0 0 9 9 1 1 0 0 1 -9
+p175
+aVMario Chalmers MIA 03/09/2010 MIA @ CHA L 17 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 2 2 0 2 5 -1
+p176
+aVJermaine O'Neal MIA 03/09/2010 MIA @ CHA L 34 19 7 11 63.6 0 0 - 5 6 83.3 0 5 5 0 0 3 0 3 10
+p177
+aVDorell Wright MIA 03/09/2010 MIA @ CHA L 18 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 1 1 1 -5
+p178
+aVJamaal Magloire MIA 03/09/2010 MIA @ CHA L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p179
+aVUdonis Haslem MIA 03/09/2010 MIA @ CHA L 26 8 4 9 44.4 0 0 - 0 0 - 2 9 11 0 1 1 0 3 -5
+p180
+aVDwyane Wade MIA 03/09/2010 MIA @ CHA L 37 27 11 26 42.3 1 5 20.0 4 4 100.0 4 3 7 2 1 0 4 3 -9
+p181
+aVJoel Anthony MIA 03/09/2010 MIA @ CHA L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p182
+aVJames Jones MIA 03/09/2010 MIA @ CHA L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 5
+p183
+aVCarlos Arroyo MIA 03/09/2010 MIA @ CHA L 31 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 5 0 0 1 0 -2
+p184
+aVQuentin Richardson MIA 03/09/2010 MIA @ CHA L 31 7 2 8 25.0 2 7 28.6 1 2 50.0 0 2 2 0 0 0 0 4 -3
+p185
+aVJoel Anthony MIA 03/06/2010 MIA vs. ATL W 12 2 1 1 100.0 0 0 - 0 0 - 2 5 7 0 0 1 0 0 14
+p186
+aVDaequan Cook MIA 03/06/2010 MIA vs. ATL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -7
+p187
+aVMichael Beasley MIA 03/06/2010 MIA vs. ATL W 33 22 10 16 62.5 2 4 50.0 0 0 - 3 2 5 1 2 0 1 4 -10
+p188
+aVJermaine O'Neal MIA 03/06/2010 MIA vs. ATL W 11 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 -5
+p189
+aVQuentin Richardson MIA 03/06/2010 MIA vs. ATL W 39 22 7 14 50.0 5 12 41.7 3 4 75.0 1 10 11 2 2 0 1 2 11
+p190
+aVJames Jones MIA 03/06/2010 MIA vs. ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p191
+aVMario Chalmers MIA 03/06/2010 MIA vs. ATL W 9 3 1 6 16.7 0 3 0.0 1 2 50.0 0 1 1 0 0 0 0 2 -9
+p192
+aVDwyane Wade MIA 03/06/2010 MIA vs. ATL W 42 38 10 25 40.0 4 9 44.4 14 18 77.8 1 3 4 10 2 0 1 3 13
+p193
+aVUdonis Haslem MIA 03/06/2010 MIA vs. ATL W 34 3 1 3 33.3 0 0 - 1 2 50.0 3 5 8 1 1 2 1 1 15
+p194
+aVCarlos Arroyo MIA 03/06/2010 MIA vs. ATL W 40 2 1 8 12.5 0 1 0.0 0 0 - 0 1 1 3 1 0 2 1 17
+p195
+aVJamaal Magloire MIA 03/06/2010 MIA vs. ATL W 11 5 2 3 66.7 0 0 - 1 1 100.0 2 2 4 0 0 0 0 4 -7
+p196
+aVMario Chalmers MIA 03/04/2010 MIA vs. LAL W 18 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 3 1 0 1 0 -7
+p197
+aVJermaine O'Neal MIA 03/04/2010 MIA vs. LAL W 41 13 5 13 38.5 0 0 - 3 4 75.0 1 3 4 1 1 1 5 5 10
+p198
+aVDwyane Wade MIA 03/04/2010 MIA vs. LAL W 42 27 9 21 42.9 1 3 33.3 8 9 88.9 3 2 5 14 1 0 6 3 5
+p199
+aVJamaal Magloire MIA 03/04/2010 MIA vs. LAL W 6 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -1
+p200
+aVCarlos Arroyo MIA 03/04/2010 MIA vs. LAL W 42 17 6 7 85.7 0 0 - 5 6 83.3 1 2 3 5 1 0 0 0 13
+p201
+aVQuentin Richardson MIA 03/04/2010 MIA vs. LAL W 37 25 8 13 61.5 7 11 63.6 2 2 100.0 1 4 5 0 3 1 0 3 2
+p202
+aVUdonis Haslem MIA 03/04/2010 MIA vs. LAL W 31 12 5 8 62.5 0 0 - 2 2 100.0 1 10 11 0 0 1 0 1 -2
+p203
+aVJoel Anthony MIA 03/04/2010 MIA vs. LAL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p204
+aVDorell Wright MIA 03/04/2010 MIA vs. LAL W 19 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 1 3 0 2 1 -4
+p205
+aVMichael Beasley MIA 03/04/2010 MIA vs. LAL W 22 6 3 7 42.9 0 1 0.0 0 0 - 1 4 5 1 2 1 1 2 5
+p206
+aVDwyane Wade MIA 03/02/2010 MIA vs. GSW W 37 35 15 23 65.2 0 2 0.0 5 8 62.5 1 5 6 12 4 0 3 2 12
+p207
+aVCarlos Arroyo MIA 03/02/2010 MIA vs. GSW W 34 14 6 12 50.0 0 2 0.0 2 2 100.0 1 4 5 5 2 0 0 1 6
+p208
+aVMichael Beasley MIA 03/02/2010 MIA vs. GSW W 21 15 6 14 42.9 1 2 50.0 2 4 50.0 0 5 5 0 0 1 2 2 6
+p209
+aVRafer Alston MIA 03/02/2010 MIA vs. GSW W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -2
+p210
+aVQuentin Richardson MIA 03/02/2010 MIA vs. GSW W 35 15 6 8 75.0 2 3 66.7 1 2 50.0 2 5 7 1 2 0 2 3 12
+p211
+aVMario Chalmers MIA 03/02/2010 MIA vs. GSW W 17 7 2 4 50.0 2 4 50.0 1 2 50.0 0 1 1 1 0 0 2 0 -9
+p212
+aVJoel Anthony MIA 03/02/2010 MIA vs. GSW W 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 2
+p213
+aVDorell Wright MIA 03/02/2010 MIA vs. GSW W 15 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 3 -7
+p214
+aVJermaine O'Neal MIA 03/02/2010 MIA vs. GSW W 39 14 4 10 40.0 0 0 - 6 9 66.7 4 8 12 3 0 0 3 3 2
+p215
+aVUdonis Haslem MIA 03/02/2010 MIA vs. GSW W 27 6 2 7 28.6 0 0 - 2 2 100.0 2 7 9 0 0 1 1 4 -2
+p216
+aVQuentin Richardson MIA 02/28/2010 MIA @ ORL L 31 4 2 6 33.3 0 2 0.0 0 0 - 3 7 10 1 0 0 1 4 -9
+p217
+aVJermaine O'Neal MIA 02/28/2010 MIA @ ORL L 27 16 8 17 47.1 0 0 - 0 0 - 0 6 6 0 0 1 1 4 -8
+p218
+aVDorell Wright MIA 02/28/2010 MIA @ ORL L 24 5 2 7 28.6 1 4 25.0 0 0 - 1 2 3 1 0 0 1 0 -20
+p219
+aVMario Chalmers MIA 02/28/2010 MIA @ ORL L 22 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 3 0 0 1 0 -14
+p220
+aVDaequan Cook MIA 02/28/2010 MIA @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 0
+p221
+aVDwyane Wade MIA 02/28/2010 MIA @ ORL L 37 21 6 17 35.3 0 2 0.0 9 12 75.0 2 3 5 5 1 0 5 3 -3
+p222
+aVUdonis Haslem MIA 02/28/2010 MIA @ ORL L 30 7 3 8 37.5 0 0 - 1 1 100.0 2 4 6 2 0 1 1 3 -16
+p223
+aVRafer Alston MIA 02/28/2010 MIA @ ORL L 26 15 5 8 62.5 4 6 66.7 1 1 100.0 0 1 1 2 0 1 1 2 -2
+p224
+aVJoel Anthony MIA 02/28/2010 MIA @ ORL L 21 8 3 6 50.0 0 0 - 2 3 66.7 2 3 5 0 0 0 1 0 -8
+p225
+aVMichael Beasley MIA 02/28/2010 MIA @ ORL L 18 1 0 4 0.0 0 0 - 1 1 100.0 1 0 1 2 0 1 1 4 0
+p226
+aVCarlos Arroyo MIA 02/27/2010 MIA vs. MIL L 12 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 2 0 0 0 -5
+p227
+aVRafer Alston MIA 02/27/2010 MIA vs. MIL L 23 4 2 5 40.0 0 2 0.0 0 0 - 1 2 3 3 1 0 0 1 -11
+p228
+aVQuentin Richardson MIA 02/27/2010 MIA vs. MIL L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -6
+p229
+aVJermaine O'Neal MIA 02/27/2010 MIA vs. MIL L 25 14 6 11 54.5 0 0 - 2 3 66.7 1 4 5 0 0 2 2 4 -12
+p230
+aVDaequan Cook MIA 02/27/2010 MIA vs. MIL L 30 8 3 11 27.3 1 2 50.0 1 2 50.0 0 2 2 3 0 0 1 0 -14
+p231
+aVMario Chalmers MIA 02/27/2010 MIA vs. MIL L 22 7 3 10 30.0 1 4 25.0 0 2 0.0 0 3 3 2 1 0 4 4 -11
+p232
+aVDorell Wright MIA 02/27/2010 MIA vs. MIL L 26 10 3 7 42.9 0 1 0.0 4 5 80.0 0 3 3 1 3 0 1 0 -12
+p233
+aVJamaal Magloire MIA 02/27/2010 MIA vs. MIL L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -8
+p234
+aVJames Jones MIA 02/27/2010 MIA vs. MIL L 21 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 0 0 0 0 2 -10
+p235
+aVUdonis Haslem MIA 02/27/2010 MIA vs. MIL L 27 8 2 6 33.3 0 0 - 4 4 100.0 5 4 9 0 0 0 1 2 -11
+p236
+aVMichael Beasley MIA 02/27/2010 MIA vs. MIL L 31 10 5 14 35.7 0 0 - 0 0 - 0 7 7 0 1 0 0 0 -16
+p237
+aVJoel Anthony MIA 02/27/2010 MIA vs. MIL L 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 2 0 0 1
+p238
+aVMichael Beasley MIA 02/23/2010 MIA vs. MIN L 34 14 5 18 27.8 0 1 0.0 4 4 100.0 2 7 9 2 4 2 0 3 12
+p239
+aVJermaine O'Neal MIA 02/23/2010 MIA vs. MIN L 41 18 8 13 61.5 0 0 - 2 2 100.0 1 5 6 3 0 3 3 3 7
+p240
+aVMario Chalmers MIA 02/23/2010 MIA vs. MIN L 25 9 3 7 42.9 1 4 25.0 2 3 66.7 1 1 2 5 2 1 3 3 1
+p241
+aVJames Jones MIA 02/23/2010 MIA vs. MIN L 12 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p242
+aVJoel Anthony MIA 02/23/2010 MIA vs. MIN L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 1 -8
+p243
+aVQuentin Richardson MIA 02/23/2010 MIA vs. MIN L 26 5 1 5 20.0 0 2 0.0 3 3 100.0 0 4 4 0 1 1 1 0 0
+p244
+aVUdonis Haslem MIA 02/23/2010 MIA vs. MIN L 14 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -17
+p245
+aVCarlos Arroyo MIA 02/23/2010 MIA vs. MIN L 24 3 1 4 25.0 0 1 0.0 1 2 50.0 0 3 3 4 1 0 4 1 -4
+p246
+aVDaequan Cook MIA 02/23/2010 MIA vs. MIN L 28 8 4 13 30.8 0 5 0.0 0 0 - 1 3 4 1 1 1 0 2 -3
+p247
+aVDorell Wright MIA 02/23/2010 MIA vs. MIN L 30 26 9 11 81.8 6 7 85.7 2 2 100.0 2 5 7 1 2 3 1 2 6
+p248
+aVCarlos Arroyo MIA 02/20/2010 MIA @ DAL L 18 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -11
+p249
+aVUdonis Haslem MIA 02/20/2010 MIA @ DAL L 19 8 4 7 57.1 0 0 - 0 0 - 2 6 8 0 0 0 3 1 1
+p250
+aVJames Jones MIA 02/20/2010 MIA @ DAL L 16 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 3 2
+p251
+aVDorell Wright MIA 02/20/2010 MIA @ DAL L 18 3 1 4 25.0 0 1 0.0 1 1 100.0 2 4 6 0 1 0 1 2 -3
+p252
+aVJoel Anthony MIA 02/20/2010 MIA @ DAL L 10 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 5
+p253
+aVJermaine O'Neal MIA 02/20/2010 MIA @ DAL L 35 18 9 15 60.0 0 0 - 0 0 - 5 8 13 1 0 2 4 2 -17
+p254
+aVDaequan Cook MIA 02/20/2010 MIA @ DAL L 34 22 8 16 50.0 3 5 60.0 3 3 100.0 0 4 4 1 0 0 2 1 6
+p255
+aVMichael Beasley MIA 02/20/2010 MIA @ DAL L 31 12 3 11 27.3 0 1 0.0 6 6 100.0 0 3 3 5 1 0 3 5 -1
+p256
+aVMario Chalmers MIA 02/20/2010 MIA @ DAL L 30 11 5 10 50.0 1 4 25.0 0 0 - 0 2 2 8 0 0 2 5 5
+p257
+aVQuentin Richardson MIA 02/20/2010 MIA @ DAL L 28 8 3 8 37.5 2 6 33.3 0 0 - 1 1 2 1 1 0 0 3 -17
+p258
+aVJermaine O'Neal MIA 02/19/2010 MIA @ MEM W 35 18 7 16 43.8 0 0 - 4 4 100.0 3 6 9 4 2 2 4 6 -4
+p259
+aVDaequan Cook MIA 02/19/2010 MIA @ MEM W 25 3 1 7 14.3 1 3 33.3 0 0 - 0 2 2 0 0 3 3 2 -4
+p260
+aVJoel Anthony MIA 02/19/2010 MIA @ MEM W 11 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 0
+p261
+aVMichael Beasley MIA 02/19/2010 MIA @ MEM W 40 30 13 25 52.0 0 0 - 4 6 66.7 1 7 8 1 3 1 3 3 14
+p262
+aVJamaal Magloire MIA 02/19/2010 MIA @ MEM W 6 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 2 2
+p263
+aVMario Chalmers MIA 02/19/2010 MIA @ MEM W 42 18 6 12 50.0 4 7 57.1 2 2 100.0 2 5 7 4 2 0 4 4 18
+p264
+aVDorell Wright MIA 02/19/2010 MIA @ MEM W 17 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 3
+p265
+aVJames Jones MIA 02/19/2010 MIA @ MEM W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 5
+p266
+aVCarlos Arroyo MIA 02/19/2010 MIA @ MEM W 43 10 3 11 27.3 1 2 50.0 3 3 100.0 1 3 4 6 2 0 1 2 7
+p267
+aVUdonis Haslem MIA 02/19/2010 MIA @ MEM W 24 10 4 7 57.1 0 0 - 2 2 100.0 1 5 6 0 0 0 0 1 14
+p268
+aVQuentin Richardson MIA 02/19/2010 MIA @ MEM W 41 8 3 8 37.5 2 6 33.3 0 2 0.0 1 8 9 3 2 1 0 2 10
+p269
+aVDwyane Wade MIA 02/17/2010 MIA @ NJN W 7 8 2 4 50.0 0 1 0.0 4 5 80.0 1 2 3 1 0 0 0 0 5
+p270
+aVQuentin Richardson MIA 02/17/2010 MIA @ NJN W 34 16 6 12 50.0 2 3 66.7 2 2 100.0 5 9 14 0 1 0 1 1 3
+p271
+aVJermaine O'Neal MIA 02/17/2010 MIA @ NJN W 22 9 2 7 28.6 0 0 - 5 10 50.0 0 7 7 1 0 2 0 4 1
+p272
+aVUdonis Haslem MIA 02/17/2010 MIA @ NJN W 20 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 2 0 0 1 0 -7
+p273
+aVDaequan Cook MIA 02/17/2010 MIA @ NJN W 35 11 3 11 27.3 2 7 28.6 3 3 100.0 0 5 5 2 1 0 2 4 3
+p274
+aVCarlos Arroyo MIA 02/17/2010 MIA @ NJN W 27 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 5 0 0 2 5 2
+p275
+aVDorell Wright MIA 02/17/2010 MIA @ NJN W 19 9 2 7 28.6 1 1 100.0 4 4 100.0 2 1 3 0 1 0 2 1 -5
+p276
+aVJoel Anthony MIA 02/17/2010 MIA @ NJN W 21 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 0 0 1 0 2 3
+p277
+aVMichael Beasley MIA 02/17/2010 MIA @ NJN W 33 23 10 17 58.8 0 1 0.0 3 4 75.0 1 10 11 0 2 2 3 4 9
+p278
+aVRafer Alston MIA 02/17/2010 MIA @ NJN W 21 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 5 1 0 1 2 1
+p279
+aVJermaine O'Neal MIA 02/16/2010 MIA @ PHI W 30 20 10 15 66.7 0 0 - 0 0 - 2 4 6 0 0 1 1 1 31
+p280
+aVJoel Anthony MIA 02/16/2010 MIA @ PHI W 14 2 0 1 0.0 0 0 - 2 4 50.0 2 2 4 0 0 0 2 1 1
+p281
+aVCarlos Arroyo MIA 02/16/2010 MIA @ PHI W 20 2 1 4 25.0 0 0 - 0 0 - 0 3 3 7 1 0 0 3 11
+p282
+aVDaequan Cook MIA 02/16/2010 MIA @ PHI W 23 9 4 8 50.0 1 3 33.3 0 0 - 0 2 2 3 0 0 1 3 5
+p283
+aVQuentin Richardson MIA 02/16/2010 MIA @ PHI W 23 10 4 8 50.0 1 3 33.3 1 2 50.0 3 7 10 2 1 0 0 4 19
+p284
+aVRafer Alston MIA 02/16/2010 MIA @ PHI W 25 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 4 1 0 1 2 22
+p285
+aVUdonis Haslem MIA 02/16/2010 MIA @ PHI W 25 13 5 10 50.0 0 0 - 3 3 100.0 3 6 9 1 0 1 0 1 9
+p286
+aVJames Jones MIA 02/16/2010 MIA @ PHI W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -5
+p287
+aVJamaal Magloire MIA 02/16/2010 MIA @ PHI W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p288
+aVDorell Wright MIA 02/16/2010 MIA @ PHI W 19 5 2 4 50.0 0 2 0.0 1 1 100.0 1 3 4 2 0 2 3 2 13
+p289
+aVDwyane Wade MIA 02/16/2010 MIA @ PHI W 28 24 8 16 50.0 1 1 100.0 7 8 87.5 1 5 6 6 1 1 4 0 16
+p290
+aVMichael Beasley MIA 02/16/2010 MIA @ PHI W 21 12 5 9 55.6 0 0 - 2 2 100.0 1 2 3 1 0 2 0 0 18
+p291
+aVRafer Alston MIA 02/10/2010 MIA @ ATL W 25 3 1 6 16.7 1 5 20.0 0 0 - 0 0 0 1 0 0 2 2 -11
+p292
+aVQuentin Richardson MIA 02/10/2010 MIA @ ATL W 17 2 1 5 20.0 0 2 0.0 0 0 - 2 2 4 0 0 0 0 1 -9
+p293
+aVUdonis Haslem MIA 02/10/2010 MIA @ ATL W 28 14 7 9 77.8 0 0 - 0 0 - 3 9 12 0 0 0 0 3 28
+p294
+aVDorell Wright MIA 02/10/2010 MIA @ ATL W 28 10 4 5 80.0 1 2 50.0 1 1 100.0 0 2 2 3 0 0 0 2 32
+p295
+aVJermaine O'Neal MIA 02/10/2010 MIA @ ATL W 36 19 9 13 69.2 0 0 - 1 2 50.0 1 9 10 1 0 2 4 1 11
+p296
+aVJoel Anthony MIA 02/10/2010 MIA @ ATL W 12 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 7
+p297
+aVCarlos Arroyo MIA 02/10/2010 MIA @ ATL W 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 0 0 0 2 14
+p298
+aVDwyane Wade MIA 02/10/2010 MIA @ ATL W 35 18 7 15 46.7 0 2 0.0 4 7 57.1 3 1 4 11 2 1 2 1 5
+p299
+aVDaequan Cook MIA 02/10/2010 MIA @ ATL W 21 17 7 12 58.3 3 5 60.0 0 0 - 0 1 1 2 1 1 1 2 28
+p300
+aVMichael Beasley MIA 02/10/2010 MIA @ ATL W 23 7 3 11 27.3 0 0 - 1 1 100.0 3 5 8 2 2 1 1 3 -15
+p301
+aVCarlos Arroyo MIA 02/09/2010 MIA vs. HOU W 25 12 4 5 80.0 0 0 - 4 4 100.0 1 2 3 7 0 0 0 2 24
+p302
+aVJermaine O'Neal MIA 02/09/2010 MIA vs. HOU W 27 10 4 9 44.4 0 0 - 2 4 50.0 1 8 9 4 0 2 1 1 14
+p303
+aVJames Jones MIA 02/09/2010 MIA vs. HOU W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 4
+p304
+aVJoel Anthony MIA 02/09/2010 MIA vs. HOU W 21 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 5 2 4 19
+p305
+aVDorell Wright MIA 02/09/2010 MIA vs. HOU W 25 9 4 6 66.7 1 2 50.0 0 0 - 0 6 6 7 1 0 0 1 28
+p306
+aVMichael Beasley MIA 02/09/2010 MIA vs. HOU W 15 10 5 10 50.0 0 0 - 0 0 - 1 3 4 0 0 0 3 5 -13
+p307
+aVQuentin Richardson MIA 02/09/2010 MIA vs. HOU W 14 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 1 1 0 0 3 -1
+p308
+aVDwyane Wade MIA 02/09/2010 MIA vs. HOU W 29 17 8 14 57.1 0 1 0.0 1 1 100.0 1 3 4 7 5 1 2 0 10
+p309
+aVJamaal Magloire MIA 02/09/2010 MIA vs. HOU W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p310
+aVRafer Alston MIA 02/09/2010 MIA vs. HOU W 23 9 3 6 50.0 2 4 50.0 1 2 50.0 0 2 2 0 0 0 0 1 9
+p311
+aVUdonis Haslem MIA 02/09/2010 MIA vs. HOU W 29 14 7 13 53.8 0 0 - 0 0 - 0 14 14 0 2 0 0 3 42
+p312
+aVDaequan Cook MIA 02/09/2010 MIA vs. HOU W 24 10 4 11 36.4 2 6 33.3 0 0 - 0 1 1 0 0 0 0 0 25
+p313
+aVCarlos Arroyo MIA 02/06/2010 MIA @ CHI L 20 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -17
+p314
+aVUdonis Haslem MIA 02/06/2010 MIA @ CHI L 31 4 2 5 40.0 0 0 - 0 0 - 0 7 7 0 0 1 1 4 -13
+p315
+aVRafer Alston MIA 02/06/2010 MIA @ CHI L 28 11 4 6 66.7 3 5 60.0 0 0 - 0 4 4 1 2 0 2 4 13
+p316
+aVJoel Anthony MIA 02/06/2010 MIA @ CHI L 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 2 1 0 -8
+p317
+aVDwyane Wade MIA 02/06/2010 MIA @ CHI L 39 20 7 21 33.3 0 3 0.0 6 8 75.0 3 3 6 8 2 0 3 3 9
+p318
+aVDorell Wright MIA 02/06/2010 MIA @ CHI L 18 7 3 6 50.0 1 3 33.3 0 0 - 1 3 4 1 1 0 0 1 -13
+p319
+aVQuentin Richardson MIA 02/06/2010 MIA @ CHI L 37 13 5 13 38.5 3 8 37.5 0 0 - 0 5 5 1 0 1 2 3 3
+p320
+aVJermaine O'Neal MIA 02/06/2010 MIA @ CHI L 37 24 9 16 56.3 0 0 - 6 7 85.7 6 10 16 5 1 3 3 3 7
+p321
+aVMichael Beasley MIA 02/06/2010 MIA @ CHI L 22 6 2 11 18.2 0 2 0.0 2 2 100.0 1 6 7 1 0 1 4 4 -1
+p322
+aVUdonis Haslem MIA 02/04/2010 MIA @ CLE L 18 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 1 0 1 3 -3
+p323
+aVJermaine O'Neal MIA 02/04/2010 MIA @ CLE L 25 14 6 12 50.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 3 -18
+p324
+aVRafer Alston MIA 02/04/2010 MIA @ CLE L 14 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 4 0 0 2 3 -11
+p325
+aVJamaal Magloire MIA 02/04/2010 MIA @ CLE L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 2
+p326
+aVMichael Beasley MIA 02/04/2010 MIA @ CLE L 41 21 9 14 64.3 1 2 50.0 2 2 100.0 2 10 12 3 2 2 1 0 -16
+p327
+aVDwyane Wade MIA 02/04/2010 MIA @ CLE L 39 24 11 26 42.3 1 3 33.3 1 2 50.0 3 0 3 9 4 0 6 4 -16
+p328
+aVJoel Anthony MIA 02/04/2010 MIA @ CLE L 16 8 3 6 50.0 0 0 - 2 3 66.7 6 2 8 0 0 1 1 3 -1
+p329
+aVDorell Wright MIA 02/04/2010 MIA @ CLE L 36 9 2 6 33.3 2 4 50.0 3 3 100.0 0 6 6 2 1 0 0 2 -11
+p330
+aVDaequan Cook MIA 02/04/2010 MIA @ CLE L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 6
+p331
+aVCarlos Arroyo MIA 02/04/2010 MIA @ CLE L 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 1 1 0 -1
+p332
+aVQuentin Richardson MIA 02/04/2010 MIA @ CLE L 28 0 0 7 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 2 -11
+p333
+aVRafer Alston MIA 02/03/2010 MIA @ BOS L 30 15 6 10 60.0 3 5 60.0 0 0 - 0 1 1 3 1 0 0 1 3
+p334
+aVDorell Wright MIA 02/03/2010 MIA @ BOS L 16 4 2 7 28.6 0 3 0.0 0 0 - 1 1 2 0 0 0 0 2 -10
+p335
+aVDaequan Cook MIA 02/03/2010 MIA @ BOS L 16 3 1 7 14.3 1 5 20.0 0 0 - 0 2 2 1 1 0 1 4 -3
+p336
+aVJoel Anthony MIA 02/03/2010 MIA @ BOS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 4
+p337
+aVUdonis Haslem MIA 02/03/2010 MIA @ BOS L 32 15 6 8 75.0 0 0 - 3 4 75.0 1 7 8 0 1 1 0 3 1
+p338
+aVCarlos Arroyo MIA 02/03/2010 MIA @ BOS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p339
+aVDwyane Wade MIA 02/03/2010 MIA @ BOS L 41 30 11 16 68.8 2 4 50.0 6 8 75.0 1 4 5 13 1 2 6 5 6
+p340
+aVMichael Beasley MIA 02/03/2010 MIA @ BOS L 27 13 3 7 42.9 1 1 100.0 6 8 75.0 0 4 4 1 3 0 2 4 -11
+p341
+aVJermaine O'Neal MIA 02/03/2010 MIA @ BOS L 31 10 5 11 45.5 0 0 - 0 0 - 1 3 4 1 0 3 3 4 -4
+p342
+aVQuentin Richardson MIA 02/03/2010 MIA @ BOS L 34 12 4 7 57.1 2 5 40.0 2 2 100.0 2 3 5 3 1 0 1 3 0
+p343
+aVRafer Alston MIA 02/01/2010 MIA vs. MIL L 19 0 0 4 0.0 0 3 0.0 0 2 0.0 0 3 3 1 1 0 2 2 -2
+p344
+aVQuentin Richardson MIA 02/01/2010 MIA vs. MIL L 32 3 1 6 16.7 1 4 25.0 0 0 - 1 2 3 1 2 0 0 1 -3
+p345
+aVJamaal Magloire MIA 02/01/2010 MIA vs. MIL L 11 4 1 1 100.0 0 0 - 2 4 50.0 1 4 5 0 0 1 1 4 -10
+p346
+aVJoel Anthony MIA 02/01/2010 MIA vs. MIL L 27 4 2 6 33.3 0 0 - 0 0 - 4 3 7 1 0 1 0 2 -5
+p347
+aVUdonis Haslem MIA 02/01/2010 MIA vs. MIL L 24 12 3 6 50.0 0 0 - 6 7 85.7 4 6 10 0 0 0 1 0 -15
+p348
+aVDwyane Wade MIA 02/01/2010 MIA vs. MIL L 36 23 7 19 36.8 1 5 20.0 8 9 88.9 0 1 1 6 4 0 4 5 -10
+p349
+aVCarlos Arroyo MIA 02/01/2010 MIA vs. MIL L 22 10 5 9 55.6 0 0 - 0 0 - 1 0 1 2 1 0 0 1 -13
+p350
+aVMichael Beasley MIA 02/01/2010 MIA vs. MIL L 28 16 6 16 37.5 1 2 50.0 3 6 50.0 0 5 5 1 2 0 0 3 -6
+p351
+aVDaequan Cook MIA 02/01/2010 MIA vs. MIL L 19 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 0 0 0 1 1 -7
+p352
+aVDorell Wright MIA 02/01/2010 MIA vs. MIL L 22 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 1 1 2 3 0 -9
+p353
+aVDwyane Wade MIA 01/30/2010 MIA @ MIL L 31 21 6 20 30.0 0 6 0.0 9 12 75.0 1 1 2 7 0 0 4 5 -8
+p354
+aVRafer Alston MIA 01/30/2010 MIA @ MIL L 29 5 1 8 12.5 0 1 0.0 3 4 75.0 0 4 4 2 2 0 1 2 -12
+p355
+aVUdonis Haslem MIA 01/30/2010 MIA @ MIL L 31 2 1 8 12.5 0 0 - 0 0 - 2 3 5 1 1 0 0 4 -16
+p356
+aVDorell Wright MIA 01/30/2010 MIA @ MIL L 21 12 4 8 50.0 2 5 40.0 2 2 100.0 1 1 2 1 2 1 3 2 -6
+p357
+aVDaequan Cook MIA 01/30/2010 MIA @ MIL L 22 7 3 8 37.5 1 3 33.3 0 0 - 1 5 6 1 0 0 2 2 0
+p358
+aVQuentin Richardson MIA 01/30/2010 MIA @ MIL L 37 16 6 10 60.0 3 6 50.0 1 2 50.0 2 4 6 2 2 1 1 0 -1
+p359
+aVJamaal Magloire MIA 01/30/2010 MIA @ MIL L 9 1 0 0 - 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -2
+p360
+aVJoel Anthony MIA 01/30/2010 MIA @ MIL L 14 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 0 3 0 3 -11
+p361
+aVJermaine O'Neal MIA 01/30/2010 MIA @ MIL L 32 15 6 11 54.5 0 1 0.0 3 4 75.0 2 8 10 0 2 2 3 2 3
+p362
+aVCarlos Arroyo MIA 01/30/2010 MIA @ MIL L 13 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 2 1 0 0 0 -2
+p363
+aVUdonis Haslem MIA 01/29/2010 MIA @ DET W 27 16 7 12 58.3 0 0 - 2 2 100.0 3 5 8 1 0 0 1 2 15
+p364
+aVCarlos Arroyo MIA 01/29/2010 MIA @ DET W 9 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 4 0 0
+p365
+aVDorell Wright MIA 01/29/2010 MIA @ DET W 22 12 5 7 71.4 2 2 100.0 0 0 - 2 2 4 3 1 0 1 1 10
+p366
+aVQuentin Richardson MIA 01/29/2010 MIA @ DET W 21 7 3 7 42.9 1 3 33.3 0 0 - 2 1 3 3 0 0 0 0 17
+p367
+aVDaequan Cook MIA 01/29/2010 MIA @ DET W 24 8 3 7 42.9 2 2 100.0 0 0 - 2 3 5 2 0 0 0 1 12
+p368
+aVJoel Anthony MIA 01/29/2010 MIA @ DET W 22 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 0 1 0 2 9
+p369
+aVJames Jones MIA 01/29/2010 MIA @ DET W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 2 0
+p370
+aVRafer Alston MIA 01/29/2010 MIA @ DET W 27 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 7 1 1 2 3 24
+p371
+aVJamaal Magloire MIA 01/29/2010 MIA @ DET W 22 2 0 3 0.0 0 0 - 2 4 50.0 2 6 8 0 0 0 0 2 10
+p372
+aVMario Chalmers MIA 01/29/2010 MIA @ DET W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 3
+p373
+aVJermaine O'Neal MIA 01/29/2010 MIA @ DET W 25 10 4 11 36.4 0 0 - 2 2 100.0 3 8 11 4 0 2 3 3 20
+p374
+aVDwyane Wade MIA 01/29/2010 MIA @ DET W 24 22 7 11 63.6 4 5 80.0 4 7 57.1 0 4 4 3 1 0 3 2 15
+p375
+aVJoel Anthony MIA 01/27/2010 MIA @ TOR L 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 2 2 -7
+p376
+aVDwyane Wade MIA 01/27/2010 MIA @ TOR L 43 35 13 25 52.0 1 6 16.7 8 8 100.0 1 0 1 10 1 1 3 2 1
+p377
+aVJermaine O'Neal MIA 01/27/2010 MIA @ TOR L 35 22 10 16 62.5 0 0 - 2 2 100.0 4 4 8 1 0 3 0 2 0
+p378
+aVMario Chalmers MIA 01/27/2010 MIA @ TOR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -6
+p379
+aVMichael Beasley MIA 01/27/2010 MIA @ TOR L 8 6 3 5 60.0 0 0 - 0 0 - 2 4 6 0 1 0 0 1 1
+p380
+aVRafer Alston MIA 01/27/2010 MIA @ TOR L 39 10 4 16 25.0 2 6 33.3 0 0 - 0 1 1 2 1 0 1 2 4
+p381
+aVQuentin Richardson MIA 01/27/2010 MIA @ TOR L 24 5 2 7 28.6 1 5 20.0 0 0 - 1 2 3 1 3 0 0 1 8
+p382
+aVDorell Wright MIA 01/27/2010 MIA @ TOR L 24 7 3 5 60.0 1 3 33.3 0 1 0.0 0 2 2 1 1 0 1 2 -17
+p383
+aVUdonis Haslem MIA 01/27/2010 MIA @ TOR L 40 16 5 12 41.7 0 0 - 6 8 75.0 3 8 11 0 1 0 0 3 -9
+p384
+aVJames Jones MIA 01/27/2010 MIA @ TOR L 10 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 2 0 0 2 -15
+p385
+aVRafer Alston MIA 01/25/2010 MIA vs. CLE L 37 10 4 9 44.4 2 3 66.7 0 0 - 0 5 5 4 0 1 1 3 -1
+p386
+aVQuentin Richardson MIA 01/25/2010 MIA vs. CLE L 36 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 0 1 0 1 3 8
+p387
+aVDwyane Wade MIA 01/25/2010 MIA vs. CLE L 39 32 10 21 47.6 3 5 60.0 9 16 56.3 3 7 10 5 3 1 2 1 2
+p388
+aVJermaine O'Neal MIA 01/25/2010 MIA vs. CLE L 30 18 7 14 50.0 0 0 - 4 5 80.0 4 4 8 1 0 2 4 4 -1
+p389
+aVJoel Anthony MIA 01/25/2010 MIA vs. CLE L 18 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 1 2 1 4 0
+p390
+aVMichael Beasley MIA 01/25/2010 MIA vs. CLE L 28 16 7 14 50.0 0 2 0.0 2 4 50.0 3 4 7 2 0 0 1 4 -9
+p391
+aVUdonis Haslem MIA 01/25/2010 MIA vs. CLE L 29 10 4 10 40.0 0 0 - 2 2 100.0 2 7 9 1 0 0 0 1 5
+p392
+aVMario Chalmers MIA 01/25/2010 MIA vs. CLE L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p393
+aVDorell Wright MIA 01/25/2010 MIA vs. CLE L 18 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 0 -8
+p394
+aVJamaal Magloire MIA 01/23/2010 MIA vs. SAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p395
+aVUdonis Haslem MIA 01/23/2010 MIA vs. SAC W 23 14 5 11 45.5 0 0 - 4 4 100.0 1 4 5 0 0 0 3 1 4
+p396
+aVJoel Anthony MIA 01/23/2010 MIA vs. SAC W 18 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 0 1 0 3 4
+p397
+aVCarlos Arroyo MIA 01/23/2010 MIA vs. SAC W 6 6 3 3 100.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 1
+p398
+aVJermaine O'Neal MIA 01/23/2010 MIA vs. SAC W 25 12 5 10 50.0 0 0 - 2 5 40.0 3 4 7 1 0 2 1 3 24
+p399
+aVMario Chalmers MIA 01/23/2010 MIA vs. SAC W 18 7 2 3 66.7 1 2 50.0 2 2 100.0 0 3 3 0 0 0 1 1 4
+p400
+aVDorell Wright MIA 01/23/2010 MIA vs. SAC W 23 10 4 8 50.0 2 3 66.7 0 1 0.0 1 0 1 2 1 0 2 1 12
+p401
+aVQuentin Richardson MIA 01/23/2010 MIA vs. SAC W 25 9 3 4 75.0 1 2 50.0 2 4 50.0 0 3 3 3 0 1 0 2 29
+p402
+aVDwyane Wade MIA 01/23/2010 MIA vs. SAC W 30 27 11 15 73.3 0 3 0.0 5 7 71.4 1 3 4 8 1 3 0 1 27
+p403
+aVJames Jones MIA 01/23/2010 MIA vs. SAC W 6 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 1 0 1 1
+p404
+aVRafer Alston MIA 01/23/2010 MIA vs. SAC W 24 6 2 4 50.0 1 3 33.3 1 2 50.0 0 2 2 0 0 0 1 2 16
+p405
+aVMichael Beasley MIA 01/23/2010 MIA vs. SAC W 35 21 8 15 53.3 0 0 - 5 5 100.0 4 9 13 4 2 0 2 4 33
+p406
+aVUdonis Haslem MIA 01/22/2010 MIA @ WAS W 20 8 4 6 66.7 0 0 - 0 0 - 2 6 8 0 0 0 0 2 14
+p407
+aVJoel Anthony MIA 01/22/2010 MIA @ WAS W 26 6 3 5 60.0 0 0 - 0 0 - 2 4 6 0 0 4 0 3 20
+p408
+aVRafer Alston MIA 01/22/2010 MIA @ WAS W 34 11 4 10 40.0 3 5 60.0 0 0 - 0 5 5 9 4 0 2 0 26
+p409
+aVMario Chalmers MIA 01/22/2010 MIA @ WAS W 14 4 1 2 50.0 1 2 50.0 1 2 50.0 0 2 2 3 0 0 3 0 -2
+p410
+aVMichael Beasley MIA 01/22/2010 MIA @ WAS W 37 15 7 15 46.7 0 1 0.0 1 2 50.0 2 6 8 2 0 1 1 0 14
+p411
+aVQuentin Richardson MIA 01/22/2010 MIA @ WAS W 21 6 2 4 50.0 2 4 50.0 0 0 - 0 3 3 0 0 0 0 4 11
+p412
+aVCarlos Arroyo MIA 01/22/2010 MIA @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p413
+aVDwyane Wade MIA 01/22/2010 MIA @ WAS W 34 32 12 19 63.2 4 7 57.1 4 5 80.0 0 3 3 10 0 0 3 0 26
+p414
+aVDorell Wright MIA 01/22/2010 MIA @ WAS W 27 9 3 7 42.9 2 2 100.0 1 1 100.0 1 2 3 4 3 0 1 0 13
+p415
+aVJermaine O'Neal MIA 01/22/2010 MIA @ WAS W 22 18 8 10 80.0 0 0 - 2 2 100.0 2 5 7 0 0 0 1 4 4
+p416
+aVJames Jones MIA 01/22/2010 MIA @ WAS W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p417
+aVJermaine O'Neal MIA 01/20/2010 MIA @ CHA L 22 4 2 6 33.3 0 0 - 0 0 - 0 3 3 0 0 1 1 4 -13
+p418
+aVRafer Alston MIA 01/20/2010 MIA @ CHA L 24 3 1 6 16.7 0 3 0.0 1 1 100.0 0 0 0 4 0 0 3 5 -13
+p419
+aVDorell Wright MIA 01/20/2010 MIA @ CHA L 28 16 6 11 54.5 1 4 25.0 3 3 100.0 4 3 7 1 0 2 3 0 -17
+p420
+aVDaequan Cook MIA 01/20/2010 MIA @ CHA L 15 0 0 6 0.0 0 4 0.0 0 0 - 0 2 2 1 1 0 0 0 -9
+p421
+aVDwyane Wade MIA 01/20/2010 MIA @ CHA L 32 16 6 16 37.5 0 2 0.0 4 8 50.0 2 2 4 1 1 0 4 4 -27
+p422
+aVCarlos Arroyo MIA 01/20/2010 MIA @ CHA L 13 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -5
+p423
+aVMichael Beasley MIA 01/20/2010 MIA @ CHA L 26 6 3 11 27.3 0 3 0.0 0 0 - 0 2 2 2 3 0 0 1 -17
+p424
+aVJamaal Magloire MIA 01/20/2010 MIA @ CHA L 17 0 0 0 - 0 0 - 0 4 0.0 2 4 6 0 0 0 1 3 -15
+p425
+aVUdonis Haslem MIA 01/20/2010 MIA @ CHA L 21 6 0 4 0.0 0 0 - 6 8 75.0 3 2 5 1 0 0 1 3 -27
+p426
+aVJoel Anthony MIA 01/20/2010 MIA @ CHA L 9 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 1 0 0 -6
+p427
+aVQuentin Richardson MIA 01/20/2010 MIA @ CHA L 15 4 1 6 16.7 1 4 25.0 1 2 50.0 1 1 2 1 3 0 0 4 -22
+p428
+aVMario Chalmers MIA 01/20/2010 MIA @ CHA L 18 3 1 5 20.0 0 3 0.0 1 1 100.0 0 1 1 2 1 0 0 1 -24
+p429
+aVJamaal Magloire MIA 01/19/2010 MIA vs. IND W 8 7 2 3 66.7 0 0 - 3 5 60.0 2 4 6 0 0 1 0 1 5
+p430
+aVDaequan Cook MIA 01/19/2010 MIA vs. IND W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 4
+p431
+aVCarlos Arroyo MIA 01/19/2010 MIA vs. IND W 6 6 3 3 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 4
+p432
+aVUdonis Haslem MIA 01/19/2010 MIA vs. IND W 17 6 2 6 33.3 0 0 - 2 2 100.0 0 6 6 1 0 0 1 5 13
+p433
+aVJoel Anthony MIA 01/19/2010 MIA vs. IND W 14 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 2 6 8
+p434
+aVDorell Wright MIA 01/19/2010 MIA vs. IND W 24 9 4 12 33.3 0 1 0.0 1 1 100.0 0 2 2 5 3 1 1 1 12
+p435
+aVDwyane Wade MIA 01/19/2010 MIA vs. IND W 31 32 12 20 60.0 4 6 66.7 4 8 50.0 0 0 0 3 2 3 1 0 25
+p436
+aVJermaine O'Neal MIA 01/19/2010 MIA vs. IND W 26 10 4 7 57.1 0 0 - 2 2 100.0 0 6 6 2 1 2 2 2 19
+p437
+aVMichael Beasley MIA 01/19/2010 MIA vs. IND W 40 21 9 15 60.0 2 3 66.7 1 1 100.0 3 7 10 1 1 0 1 2 18
+p438
+aVMario Chalmers MIA 01/19/2010 MIA vs. IND W 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 2 1 9
+p439
+aVQuentin Richardson MIA 01/19/2010 MIA vs. IND W 26 5 2 4 50.0 1 3 33.3 0 0 - 1 6 7 0 1 0 1 3 16
+p440
+aVRafer Alston MIA 01/19/2010 MIA vs. IND W 28 8 3 5 60.0 2 3 66.7 0 0 - 0 5 5 3 1 1 2 2 17
+p441
+aVQuentin Richardson MIA 01/16/2010 MIA @ OKC L 16 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -10
+p442
+aVMario Chalmers MIA 01/16/2010 MIA @ OKC L 22 2 1 3 33.3 0 0 - 0 0 - 1 1 2 4 3 2 1 2 -5
+p443
+aVJoel Anthony MIA 01/16/2010 MIA @ OKC L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p444
+aVUdonis Haslem MIA 01/16/2010 MIA @ OKC L 18 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -15
+p445
+aVJamaal Magloire MIA 01/16/2010 MIA @ OKC L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 2 2 -7
+p446
+aVDaequan Cook MIA 01/16/2010 MIA @ OKC L 4 2 1 3 33.3 0 0 - 0 1 0.0 0 2 2 0 0 0 0 1 2
+p447
+aVDorell Wright MIA 01/16/2010 MIA @ OKC L 28 4 2 7 28.6 0 4 0.0 0 0 - 1 2 3 1 2 0 1 1 -4
+p448
+aVMichael Beasley MIA 01/16/2010 MIA @ OKC L 39 28 13 24 54.2 0 2 0.0 2 4 50.0 3 3 6 2 1 0 1 0 -10
+p449
+aVJermaine O'Neal MIA 01/16/2010 MIA @ OKC L 29 10 4 9 44.4 0 0 - 2 2 100.0 5 4 9 1 0 2 2 2 -3
+p450
+aVRafer Alston MIA 01/16/2010 MIA @ OKC L 28 5 1 5 20.0 1 2 50.0 2 2 100.0 0 0 0 3 3 0 1 4 -15
+p451
+aVDwyane Wade MIA 01/16/2010 MIA @ OKC L 38 24 10 21 47.6 0 0 - 4 9 44.4 1 3 4 6 4 3 3 2 -15
+p452
+aVMichael Beasley MIA 01/15/2010 MIA @ HOU W 26 12 5 13 38.5 1 2 50.0 1 2 50.0 1 2 3 1 1 0 0 2 8
+p453
+aVUdonis Haslem MIA 01/15/2010 MIA @ HOU W 28 8 3 7 42.9 0 0 - 2 2 100.0 2 5 7 5 1 0 2 1 -2
+p454
+aVJoel Anthony MIA 01/15/2010 MIA @ HOU W 16 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 3 0 2 -2
+p455
+aVMario Chalmers MIA 01/15/2010 MIA @ HOU W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 3 0 1 0 2 10
+p456
+aVQuentin Richardson MIA 01/15/2010 MIA @ HOU W 24 15 4 8 50.0 3 7 42.9 4 4 100.0 0 4 4 0 0 0 0 1 -5
+p457
+aVJermaine O'Neal MIA 01/15/2010 MIA @ HOU W 32 16 8 15 53.3 0 0 - 0 0 - 3 10 13 3 1 4 2 5 11
+p458
+aVDwyane Wade MIA 01/15/2010 MIA @ HOU W 42 37 15 24 62.5 0 1 0.0 7 7 100.0 2 1 3 8 3 1 2 2 12
+p459
+aVDorell Wright MIA 01/15/2010 MIA @ HOU W 24 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 2 0 0 1 14
+p460
+aVRafer Alston MIA 01/15/2010 MIA @ HOU W 34 17 7 10 70.0 2 4 50.0 1 4 25.0 0 4 4 2 0 1 2 4 -1
+p461
+aVJermaine O'Neal MIA 01/13/2010 MIA @ GSW W 31 24 11 15 73.3 0 0 - 2 2 100.0 2 5 7 1 1 0 3 2 26
+p462
+aVJoel Anthony MIA 01/13/2010 MIA @ GSW W 17 2 0 1 0.0 0 0 - 2 2 100.0 4 1 5 0 0 1 0 2 -13
+p463
+aVDorell Wright MIA 01/13/2010 MIA @ GSW W 28 11 4 7 57.1 2 3 66.7 1 1 100.0 1 4 5 2 0 0 1 2 3
+p464
+aVUdonis Haslem MIA 01/13/2010 MIA @ GSW W 29 6 3 9 33.3 0 0 - 0 0 - 1 8 9 0 0 0 1 4 2
+p465
+aVMichael Beasley MIA 01/13/2010 MIA @ GSW W 32 19 8 13 61.5 1 1 100.0 2 4 50.0 1 5 6 3 0 0 1 5 6
+p466
+aVDwyane Wade MIA 01/13/2010 MIA @ GSW W 35 35 10 15 66.7 0 0 - 15 15 100.0 2 5 7 9 3 0 7 2 21
+p467
+aVMario Chalmers MIA 01/13/2010 MIA @ GSW W 21 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 7 1 0 2 2 7
+p468
+aVQuentin Richardson MIA 01/13/2010 MIA @ GSW W 20 11 4 7 57.1 3 6 50.0 0 0 - 0 2 2 0 1 0 0 4 7
+p469
+aVRafer Alston MIA 01/13/2010 MIA @ GSW W 27 1 0 4 0.0 0 3 0.0 1 2 50.0 0 1 1 4 1 0 2 1 6
+p470
+aVDwyane Wade MIA 01/11/2010 MIA @ UTA L 29 13 6 12 50.0 0 0 - 1 1 100.0 0 3 3 6 0 3 4 1 -15
+p471
+aVDaequan Cook MIA 01/11/2010 MIA @ UTA L 16 8 3 10 30.0 2 8 25.0 0 0 - 1 0 1 2 0 0 0 2 -6
+p472
+aVJamaal Magloire MIA 01/11/2010 MIA @ UTA L 6 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 0 1 0 2
+p473
+aVRafer Alston MIA 01/11/2010 MIA @ UTA L 26 11 4 9 44.4 1 3 33.3 2 5 40.0 0 0 0 2 1 0 0 2 -11
+p474
+aVQuentin Richardson MIA 01/11/2010 MIA @ UTA L 27 8 3 6 50.0 2 3 66.7 0 0 - 1 3 4 1 1 0 2 0 -15
+p475
+aVJoel Anthony MIA 01/11/2010 MIA @ UTA L 18 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 1 1 0 0 -21
+p476
+aVMario Chalmers MIA 01/11/2010 MIA @ UTA L 15 5 2 7 28.6 1 3 33.3 0 0 - 1 2 3 2 1 0 0 1 -20
+p477
+aVDorell Wright MIA 01/11/2010 MIA @ UTA L 20 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 2 -17
+p478
+aVMichael Beasley MIA 01/11/2010 MIA @ UTA L 23 20 7 14 50.0 4 7 57.1 2 2 100.0 0 5 5 1 0 1 5 5 -18
+p479
+aVCarlos Arroyo MIA 01/11/2010 MIA @ UTA L 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 2
+p480
+aVUdonis Haslem MIA 01/11/2010 MIA @ UTA L 29 6 3 9 33.3 0 0 - 0 0 - 5 7 12 2 0 0 1 4 -16
+p481
+aVJermaine O'Neal MIA 01/11/2010 MIA @ UTA L 24 6 2 6 33.3 0 0 - 2 2 100.0 2 5 7 2 0 0 3 0 -10
+p482
+aVUdonis Haslem MIA 01/10/2010 MIA @ LAC L 22 6 3 7 42.9 0 0 - 0 0 - 1 0 1 1 0 0 1 4 -4
+p483
+aVJermaine O'Neal MIA 01/10/2010 MIA @ LAC L 20 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 0 0 2 3 2 -9
+p484
+aVQuentin Richardson MIA 01/10/2010 MIA @ LAC L 28 4 1 7 14.3 0 3 0.0 2 2 100.0 2 5 7 3 2 1 0 1 -7
+p485
+aVMario Chalmers MIA 01/10/2010 MIA @ LAC L 17 11 4 8 50.0 1 4 25.0 2 2 100.0 0 0 0 3 3 1 1 2 -1
+p486
+aVMichael Beasley MIA 01/10/2010 MIA @ LAC L 40 20 7 15 46.7 1 1 100.0 5 6 83.3 3 4 7 2 3 1 4 4 1
+p487
+aVRafer Alston MIA 01/10/2010 MIA @ LAC L 23 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 2 1 0 2 3 -13
+p488
+aVJamaal Magloire MIA 01/10/2010 MIA @ LAC L 21 6 3 4 75.0 0 0 - 0 0 - 3 5 8 0 2 1 1 4 6
+p489
+aVDwyane Wade MIA 01/10/2010 MIA @ LAC L 36 24 11 23 47.8 1 4 25.0 1 3 33.3 1 1 2 3 3 0 3 0 -13
+p490
+aVJoel Anthony MIA 01/10/2010 MIA @ LAC L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -8
+p491
+aVDorell Wright MIA 01/10/2010 MIA @ LAC L 29 5 2 9 22.2 0 1 0.0 1 1 100.0 0 5 5 1 0 1 0 1 -2
+p492
+aVQuentin Richardson MIA 01/08/2010 MIA @ PHX W 20 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 0 0 1 0 2 -10
+p493
+aVRafer Alston MIA 01/08/2010 MIA @ PHX W 35 10 3 9 33.3 2 6 33.3 2 2 100.0 2 1 3 4 1 0 1 0 8
+p494
+aVMichael Beasley MIA 01/08/2010 MIA @ PHX W 37 21 8 18 44.4 0 1 0.0 5 6 83.3 2 8 10 1 1 0 2 4 -4
+p495
+aVDwyane Wade MIA 01/08/2010 MIA @ PHX W 39 33 11 25 44.0 2 7 28.6 9 10 90.0 4 5 9 8 3 0 4 2 13
+p496
+aVDorell Wright MIA 01/08/2010 MIA @ PHX W 28 15 7 13 53.8 1 3 33.3 0 0 - 1 6 7 1 4 0 1 3 15
+p497
+aVJermaine O'Neal MIA 01/08/2010 MIA @ PHX W 31 13 4 10 40.0 0 0 - 5 6 83.3 2 5 7 0 0 3 1 3 -3
+p498
+aVJoel Anthony MIA 01/08/2010 MIA @ PHX W 17 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 1 2 0 1 7
+p499
+aVMario Chalmers MIA 01/08/2010 MIA @ PHX W 13 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 3 0 0 0 3 -5
+p500
+aVUdonis Haslem MIA 01/08/2010 MIA @ PHX W 21 10 4 9 44.4 0 0 - 2 2 100.0 0 4 4 0 0 0 0 3 -1
+p501
+aVCarlos Arroyo MIA 01/06/2010 MIA vs. BOS L 19 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 1 1 0 2 -9
+p502
+aVUdonis Haslem MIA 01/06/2010 MIA vs. BOS L 38 19 7 13 53.8 0 0 - 5 6 83.3 4 5 9 1 1 1 2 2 0
+p503
+aVMichael Beasley MIA 01/06/2010 MIA vs. BOS L 25 5 2 8 25.0 0 1 0.0 1 1 100.0 0 5 5 0 1 0 3 5 -1
+p504
+aVJoel Anthony MIA 01/06/2010 MIA vs. BOS L 18 6 2 3 66.7 0 0 - 2 2 100.0 3 0 3 0 0 1 1 2 6
+p505
+aVDwyane Wade MIA 01/06/2010 MIA vs. BOS L 43 44 15 34 44.1 3 7 42.9 11 16 68.8 5 0 5 7 3 1 2 5 -11
+p506
+aVQuentin Richardson MIA 01/06/2010 MIA vs. BOS L 36 4 1 6 16.7 1 5 20.0 1 2 50.0 1 5 6 3 1 0 1 4 -10
+p507
+aVJermaine O'Neal MIA 01/06/2010 MIA vs. BOS L 35 14 7 15 46.7 0 0 - 0 0 - 3 5 8 0 0 0 0 5 -12
+p508
+aVMario Chalmers MIA 01/06/2010 MIA vs. BOS L 34 6 2 9 22.2 2 5 40.0 0 0 - 1 2 3 4 3 0 2 2 3
+p509
+aVDorell Wright MIA 01/06/2010 MIA vs. BOS L 17 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 1 4
+p510
+aVUdonis Haslem MIA 01/04/2010 MIA vs. ATL W 26 12 6 10 60.0 0 0 - 0 0 - 2 6 8 0 0 0 0 1 8
+p511
+aVDorell Wright MIA 01/04/2010 MIA vs. ATL W 18 6 2 4 50.0 0 0 - 2 2 100.0 0 6 6 1 0 0 1 0 2
+p512
+aVMichael Beasley MIA 01/04/2010 MIA vs. ATL W 39 22 10 21 47.6 1 2 50.0 1 2 50.0 3 5 8 3 0 2 3 4 18
+p513
+aVDwyane Wade MIA 01/04/2010 MIA vs. ATL W 34 28 11 20 55.0 0 3 0.0 6 6 100.0 2 6 8 4 1 1 1 3 15
+p514
+aVJoel Anthony MIA 01/04/2010 MIA vs. ATL W 27 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 2 0 2 11
+p515
+aVJamaal Magloire MIA 01/04/2010 MIA vs. ATL W 21 5 2 4 50.0 0 0 - 1 4 25.0 3 7 10 1 1 2 1 4 6
+p516
+aVCarlos Arroyo MIA 01/04/2010 MIA vs. ATL W 19 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 5
+p517
+aVMario Chalmers MIA 01/04/2010 MIA vs. ATL W 28 7 3 6 50.0 1 2 50.0 0 0 - 1 0 1 6 0 0 1 2 16
+p518
+aVDaequan Cook MIA 01/04/2010 MIA vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p519
+aVQuentin Richardson MIA 01/04/2010 MIA vs. ATL W 27 8 1 7 14.3 1 4 25.0 5 6 83.3 1 9 10 0 0 0 3 3 6
+p520
+aVDorell Wright MIA 01/02/2010 MIA vs. CHA L 5 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -8
+p521
+aVJoel Anthony MIA 01/02/2010 MIA vs. CHA L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p522
+aVCarlos Arroyo MIA 01/02/2010 MIA vs. CHA L 34 3 1 4 25.0 0 0 - 1 1 100.0 1 3 4 9 0 0 1 1 8
+p523
+aVJermaine O'Neal MIA 01/02/2010 MIA vs. CHA L 26 6 3 10 30.0 0 0 - 0 0 - 1 4 5 0 0 4 1 4 9
+p524
+aVMichael Beasley MIA 01/02/2010 MIA vs. CHA L 27 14 6 11 54.5 0 0 - 2 3 66.7 1 5 6 0 1 0 2 4 -7
+p525
+aVDwyane Wade MIA 01/02/2010 MIA vs. CHA L 43 29 9 19 47.4 4 8 50.0 7 7 100.0 1 2 3 11 2 1 6 3 -1
+p526
+aVQuentin Richardson MIA 01/02/2010 MIA vs. CHA L 43 20 7 15 46.7 6 12 50.0 0 0 - 0 5 5 0 1 0 3 3 -2
+p527
+aVUdonis Haslem MIA 01/02/2010 MIA vs. CHA L 35 13 5 8 62.5 0 0 - 3 4 75.0 5 5 10 0 0 1 0 4 -26
+p528
+aVDaequan Cook MIA 01/02/2010 MIA vs. CHA L 7 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 0 1 0 0 1 -10
+p529
+aVMario Chalmers MIA 01/02/2010 MIA vs. CHA L 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 3 1 0 2 1 -17
+p530
+aVJamaal Magloire MIA 12/31/2009 MIA @ SAS L 9 4 1 1 100.0 0 0 - 2 4 50.0 1 1 2 0 1 0 0 1 4
+p531
+aVMichael Beasley MIA 12/31/2009 MIA @ SAS L 41 26 12 21 57.1 0 0 - 2 2 100.0 0 8 8 1 0 0 1 1 -17
+p532
+aVJoel Anthony MIA 12/31/2009 MIA @ SAS L 16 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 2 2 1 2 -13
+p533
+aVJermaine O'Neal MIA 12/31/2009 MIA @ SAS L 16 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 1 2 0 -4
+p534
+aVUdonis Haslem MIA 12/31/2009 MIA @ SAS L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -30
+p535
+aVQuentin Richardson MIA 12/31/2009 MIA @ SAS L 24 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 0 1 1 0 3 -6
+p536
+aVCarlos Arroyo MIA 12/31/2009 MIA @ SAS L 22 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 4 1 0 2 2 -18
+p537
+aVDorell Wright MIA 12/31/2009 MIA @ SAS L 20 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 2 2 1 0 -14
+p538
+aVDaequan Cook MIA 12/31/2009 MIA @ SAS L 23 5 2 9 22.2 1 2 50.0 0 0 - 1 1 2 1 0 1 0 2 -19
+p539
+aVMario Chalmers MIA 12/31/2009 MIA @ SAS L 25 7 3 6 50.0 0 1 0.0 1 2 50.0 0 0 0 3 0 0 3 3 -14
+p540
+aVDwyane Wade MIA 12/31/2009 MIA @ SAS L 29 16 6 18 33.3 1 5 20.0 3 6 50.0 0 2 2 6 3 0 7 3 -19
+p541
+aVCarlos Arroyo MIA 12/30/2009 MIA @ NOH L 26 11 5 10 50.0 1 1 100.0 0 0 - 1 2 3 3 2 0 0 2 -3
+p542
+aVJoel Anthony MIA 12/30/2009 MIA @ NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p543
+aVDwyane Wade MIA 12/30/2009 MIA @ NOH L 38 22 7 13 53.8 1 1 100.0 7 10 70.0 2 1 3 6 0 2 6 2 5
+p544
+aVUdonis Haslem MIA 12/30/2009 MIA @ NOH L 30 10 4 10 40.0 0 0 - 2 2 100.0 3 6 9 1 0 1 2 4 -4
+p545
+aVDaequan Cook MIA 12/30/2009 MIA @ NOH L 19 5 2 6 33.3 1 5 20.0 0 0 - 0 3 3 2 0 0 0 2 6
+p546
+aVJermaine O'Neal MIA 12/30/2009 MIA @ NOH L 40 12 4 10 40.0 0 0 - 4 6 66.7 1 8 9 0 1 0 1 3 3
+p547
+aVMario Chalmers MIA 12/30/2009 MIA @ NOH L 18 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 2 2 0 1 1 -3
+p548
+aVQuentin Richardson MIA 12/30/2009 MIA @ NOH L 34 14 5 14 35.7 4 9 44.4 0 0 - 2 6 8 2 1 0 1 2 -10
+p549
+aVDorell Wright MIA 12/30/2009 MIA @ NOH L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -9
+p550
+aVMichael Beasley MIA 12/30/2009 MIA @ NOH L 25 11 3 8 37.5 0 1 0.0 5 5 100.0 2 3 5 2 1 0 0 1 -1
+p551
+aVUdonis Haslem MIA 12/27/2009 MIA vs. IND W 22 13 6 13 46.2 0 0 - 1 1 100.0 1 6 7 0 0 0 0 1 -1
+p552
+aVJames Jones MIA 12/27/2009 MIA vs. IND W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p553
+aVDorell Wright MIA 12/27/2009 MIA vs. IND W 22 6 2 7 28.6 0 1 0.0 2 2 100.0 3 5 8 1 0 0 0 3 -3
+p554
+aVQuentin Richardson MIA 12/27/2009 MIA vs. IND W 27 8 3 7 42.9 0 1 0.0 2 2 100.0 1 8 9 2 3 1 2 0 41
+p555
+aVJermaine O'Neal MIA 12/27/2009 MIA vs. IND W 19 19 6 7 85.7 0 0 - 7 7 100.0 2 4 6 2 0 1 1 4 39
+p556
+aVMario Chalmers MIA 12/27/2009 MIA vs. IND W 20 9 4 9 44.4 1 6 16.7 0 0 - 0 2 2 1 1 0 1 4 -7
+p557
+aVCarlos Arroyo MIA 12/27/2009 MIA vs. IND W 28 8 4 9 44.4 0 0 - 0 0 - 1 2 3 5 2 0 0 2 41
+p558
+aVMichael Beasley MIA 12/27/2009 MIA vs. IND W 26 16 7 13 53.8 0 0 - 2 3 66.7 1 4 5 1 0 0 2 4 33
+p559
+aVDaequan Cook MIA 12/27/2009 MIA vs. IND W 18 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 1 1 1 0 1 -7
+p560
+aVJamaal Magloire MIA 12/27/2009 MIA vs. IND W 9 2 1 2 50.0 0 0 - 0 6 0.0 0 3 3 0 0 0 0 2 -4
+p561
+aVDwyane Wade MIA 12/27/2009 MIA vs. IND W 28 25 10 17 58.8 0 1 0.0 5 6 83.3 1 2 3 6 3 1 1 2 38
+p562
+aVJoel Anthony MIA 12/27/2009 MIA vs. IND W 15 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 0 3 0 4 2
+p563
+aVCarlos Arroyo MIA 12/25/2009 MIA @ NYK W 20 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 1 0 1 1 5
+p564
+aVDorell Wright MIA 12/25/2009 MIA @ NYK W 17 0 0 1 0.0 0 0 - 0 0 - 3 3 6 2 1 1 1 2 -3
+p565
+aVMichael Beasley MIA 12/25/2009 MIA @ NYK W 35 19 7 16 43.8 0 1 0.0 5 6 83.3 1 1 2 0 0 0 0 2 1
+p566
+aVDaequan Cook MIA 12/25/2009 MIA @ NYK W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 6
+p567
+aVUdonis Haslem MIA 12/25/2009 MIA @ NYK W 30 12 4 9 44.4 0 0 - 4 4 100.0 0 6 6 0 1 0 1 2 4
+p568
+aVJermaine O'Neal MIA 12/25/2009 MIA @ NYK W 24 11 5 7 71.4 0 0 - 1 1 100.0 1 7 8 3 0 0 2 2 5
+p569
+aVQuentin Richardson MIA 12/25/2009 MIA @ NYK W 31 8 3 10 30.0 1 7 14.3 1 1 100.0 1 0 1 1 0 0 1 5 9
+p570
+aVJoel Anthony MIA 12/25/2009 MIA @ NYK W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 3 1
+p571
+aVMario Chalmers MIA 12/25/2009 MIA @ NYK W 28 11 1 4 25.0 0 1 0.0 9 12 75.0 0 1 1 1 3 0 2 2 1
+p572
+aVDwyane Wade MIA 12/25/2009 MIA @ NYK W 38 30 11 21 52.4 1 2 50.0 7 8 87.5 1 8 9 5 4 0 4 2 1
+p573
+aVCarlos Arroyo MIA 12/23/2009 MIA vs. UTA W 19 7 3 6 50.0 0 0 - 1 1 100.0 2 0 2 2 2 0 0 2 13
+p574
+aVMario Chalmers MIA 12/23/2009 MIA vs. UTA W 29 6 2 11 18.2 2 5 40.0 0 0 - 0 1 1 2 2 0 2 3 -3
+p575
+aVDwyane Wade MIA 12/23/2009 MIA vs. UTA W 37 29 12 28 42.9 0 1 0.0 5 6 83.3 2 5 7 5 2 3 4 2 18
+p576
+aVJames Jones MIA 12/23/2009 MIA vs. UTA W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p577
+aVDorell Wright MIA 12/23/2009 MIA vs. UTA W 17 0 0 6 0.0 0 4 0.0 0 0 - 0 2 2 0 0 1 0 0 -7
+p578
+aVJermaine O'Neal MIA 12/23/2009 MIA vs. UTA W 3 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -1
+p579
+aVJoel Anthony MIA 12/23/2009 MIA vs. UTA W 35 8 2 5 40.0 0 0 - 4 5 80.0 6 3 9 0 0 5 3 4 2
+p580
+aVMichael Beasley MIA 12/23/2009 MIA vs. UTA W 29 5 2 10 20.0 0 0 - 1 2 50.0 0 5 5 1 2 2 2 4 14
+p581
+aVQuentin Richardson MIA 12/23/2009 MIA vs. UTA W 31 11 4 8 50.0 2 5 40.0 1 2 50.0 2 5 7 1 0 0 0 2 17
+p582
+aVUdonis Haslem MIA 12/23/2009 MIA vs. UTA W 29 12 5 9 55.6 0 0 - 2 2 100.0 3 8 11 0 0 0 1 4 5
+p583
+aVDaequan Cook MIA 12/23/2009 MIA vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p584
+aVMichael Beasley MIA 12/20/2009 MIA vs. POR L 30 17 7 13 53.8 0 1 0.0 3 4 75.0 4 4 8 3 1 1 1 3 -2
+p585
+aVDorell Wright MIA 12/20/2009 MIA vs. POR L 21 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 0 0 2 1 0 -2
+p586
+aVJoel Anthony MIA 12/20/2009 MIA vs. POR L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p587
+aVJermaine O'Neal MIA 12/20/2009 MIA vs. POR L 30 12 5 10 50.0 0 0 - 2 2 100.0 2 4 6 2 0 0 1 4 -10
+p588
+aVMario Chalmers MIA 12/20/2009 MIA vs. POR L 26 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 4 1 0 1 2 -1
+p589
+aVJames Jones MIA 12/20/2009 MIA vs. POR L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 10
+p590
+aVUdonis Haslem MIA 12/20/2009 MIA vs. POR L 32 4 2 4 50.0 0 0 - 0 0 - 0 8 8 0 0 0 0 2 -5
+p591
+aVDwyane Wade MIA 12/20/2009 MIA vs. POR L 38 28 13 31 41.9 0 3 0.0 2 2 100.0 0 0 0 10 1 1 3 4 -8
+p592
+aVQuentin Richardson MIA 12/20/2009 MIA vs. POR L 33 22 7 7 100.0 7 7 100.0 1 2 50.0 0 4 4 1 1 0 0 0 -14
+p593
+aVCarlos Arroyo MIA 12/20/2009 MIA vs. POR L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 3 -1
+p594
+aVDwyane Wade MIA 12/17/2009 MIA vs. ORL W 29 25 10 17 58.8 1 1 100.0 4 8 50.0 0 3 3 7 0 3 0 0 32
+p595
+aVCarlos Arroyo MIA 12/17/2009 MIA vs. ORL W 26 5 2 5 40.0 1 1 100.0 0 0 - 2 2 4 7 0 0 0 1 8
+p596
+aVMichael Beasley MIA 12/17/2009 MIA vs. ORL W 34 22 8 15 53.3 0 2 0.0 6 8 75.0 2 6 8 2 1 0 2 1 4
+p597
+aVJermaine O'Neal MIA 12/17/2009 MIA vs. ORL W 18 8 4 7 57.1 0 0 - 0 0 - 2 2 4 2 0 0 0 4 18
+p598
+aVDaequan Cook MIA 12/17/2009 MIA vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p599
+aVMario Chalmers MIA 12/17/2009 MIA vs. ORL W 22 7 2 6 33.3 1 2 50.0 2 2 100.0 0 4 4 6 0 0 2 4 10
+p600
+aVDorell Wright MIA 12/17/2009 MIA vs. ORL W 26 11 5 9 55.6 1 1 100.0 0 0 - 1 7 8 0 1 0 0 1 3
+p601
+aVJoel Anthony MIA 12/17/2009 MIA vs. ORL W 26 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 2 2 0 4 4
+p602
+aVUdonis Haslem MIA 12/17/2009 MIA vs. ORL W 30 9 4 8 50.0 0 0 - 1 1 100.0 1 5 6 0 1 0 2 2 -1
+p603
+aVQuentin Richardson MIA 12/17/2009 MIA vs. ORL W 21 11 4 9 44.4 3 7 42.9 0 0 - 0 4 4 1 0 0 1 0 15
+p604
+aVJamaal Magloire MIA 12/17/2009 MIA vs. ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p605
+aVDaequan Cook MIA 12/15/2009 MIA vs. TOR W 19 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 1 1 1 1 2 8
+p606
+aVCarlos Arroyo MIA 12/15/2009 MIA vs. TOR W 21 12 4 6 66.7 0 0 - 4 5 80.0 0 1 1 3 1 0 0 4 4
+p607
+aVUdonis Haslem MIA 12/15/2009 MIA vs. TOR W 24 8 4 5 80.0 0 0 - 0 0 - 0 6 6 1 0 0 2 2 12
+p608
+aVMichael Beasley MIA 12/15/2009 MIA vs. TOR W 36 28 11 19 57.9 0 0 - 6 6 100.0 2 9 11 1 1 1 0 3 18
+p609
+aVYakhouba Diawara MIA 12/15/2009 MIA vs. TOR W 20 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 2 0 0 2 3 3
+p610
+aVJoel Anthony MIA 12/15/2009 MIA vs. TOR W 12 9 2 4 50.0 0 0 - 5 6 83.3 5 2 7 0 0 0 0 2 -2
+p611
+aVDorell Wright MIA 12/15/2009 MIA vs. TOR W 28 16 7 11 63.6 1 2 50.0 1 1 100.0 2 6 8 3 1 1 0 1 17
+p612
+aVJermaine O'Neal MIA 12/15/2009 MIA vs. TOR W 24 10 5 10 50.0 0 0 - 0 0 - 0 4 4 1 1 2 4 1 12
+p613
+aVDwyane Wade MIA 12/15/2009 MIA vs. TOR W 29 19 8 19 42.1 1 1 100.0 2 2 100.0 1 1 2 7 0 0 1 3 12
+p614
+aVMario Chalmers MIA 12/15/2009 MIA vs. TOR W 27 6 2 6 33.3 0 4 0.0 2 2 100.0 0 1 1 8 2 0 1 2 16
+p615
+aVMichael Beasley MIA 12/13/2009 MIA vs. MEM L 25 6 2 11 18.2 0 1 0.0 2 2 100.0 0 4 4 0 2 0 2 2 -20
+p616
+aVJamaal Magloire MIA 12/13/2009 MIA vs. MEM L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p617
+aVUdonis Haslem MIA 12/13/2009 MIA vs. MEM L 26 6 2 5 40.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 3 -13
+p618
+aVDwyane Wade MIA 12/13/2009 MIA vs. MEM L 33 25 11 23 47.8 1 2 50.0 2 3 66.7 3 1 4 4 0 0 3 1 -21
+p619
+aVJoel Anthony MIA 12/13/2009 MIA vs. MEM L 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 2 0 2 -9
+p620
+aVYakhouba Diawara MIA 12/13/2009 MIA vs. MEM L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -10
+p621
+aVDorell Wright MIA 12/13/2009 MIA vs. MEM L 27 16 6 9 66.7 2 3 66.7 2 2 100.0 1 3 4 1 0 1 1 3 -16
+p622
+aVCarlos Arroyo MIA 12/13/2009 MIA vs. MEM L 17 8 2 5 40.0 0 1 0.0 4 4 100.0 0 1 1 4 0 0 0 0 -8
+p623
+aVJames Jones MIA 12/13/2009 MIA vs. MEM L 15 7 1 4 25.0 1 3 33.3 4 5 80.0 0 1 1 1 0 1 0 1 -4
+p624
+aVDaequan Cook MIA 12/13/2009 MIA vs. MEM L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p625
+aVJermaine O'Neal MIA 12/13/2009 MIA vs. MEM L 26 12 6 9 66.7 0 0 - 0 0 - 0 2 2 1 1 2 2 2 -15
+p626
+aVMario Chalmers MIA 12/13/2009 MIA vs. MEM L 28 4 2 6 33.3 0 2 0.0 0 0 - 2 3 5 5 0 0 4 4 -18
+p627
+aVDorell Wright MIA 12/11/2009 MIA vs. DAL L 29 4 1 6 16.7 0 2 0.0 2 2 100.0 0 3 3 2 0 1 1 4 -9
+p628
+aVJames Jones MIA 12/11/2009 MIA vs. DAL L 7 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 4
+p629
+aVUdonis Haslem MIA 12/11/2009 MIA vs. DAL L 35 22 9 10 90.0 0 0 - 4 6 66.7 1 9 10 0 0 0 0 3 10
+p630
+aVDwyane Wade MIA 12/11/2009 MIA vs. DAL L 40 28 8 24 33.3 0 2 0.0 12 15 80.0 4 7 11 5 1 1 4 2 -21
+p631
+aVJoel Anthony MIA 12/11/2009 MIA vs. DAL L 32 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 1 4 1 3 -17
+p632
+aVMichael Beasley MIA 12/11/2009 MIA vs. DAL L 39 16 7 19 36.8 0 1 0.0 2 3 66.7 4 7 11 3 0 0 2 4 -13
+p633
+aVQuentin Richardson MIA 12/11/2009 MIA vs. DAL L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p634
+aVMario Chalmers MIA 12/11/2009 MIA vs. DAL L 37 11 3 11 27.3 1 3 33.3 4 4 100.0 0 4 4 2 2 0 2 1 -16
+p635
+aVCarlos Arroyo MIA 12/11/2009 MIA vs. DAL L 14 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 0 9
+p636
+aVQuentin Richardson MIA 12/06/2009 MIA @ SAC W 36 20 7 15 46.7 5 12 41.7 1 2 50.0 0 5 5 2 0 1 2 3 15
+p637
+aVMichael Beasley MIA 12/06/2009 MIA @ SAC W 33 20 7 10 70.0 1 2 50.0 5 6 83.3 0 5 5 4 1 0 2 5 -1
+p638
+aVJoel Anthony MIA 12/06/2009 MIA @ SAC W 30 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 0 0 2 1 3 2
+p639
+aVMario Chalmers MIA 12/06/2009 MIA @ SAC W 29 2 0 3 0.0 0 1 0.0 2 2 100.0 0 4 4 6 3 0 3 3 -5
+p640
+aVUdonis Haslem MIA 12/06/2009 MIA @ SAC W 33 15 6 9 66.7 0 0 - 3 3 100.0 1 5 6 3 2 0 3 2 24
+p641
+aVDorell Wright MIA 12/06/2009 MIA @ SAC W 29 19 9 13 69.2 1 1 100.0 0 0 - 1 1 2 5 1 1 0 3 18
+p642
+aVDwyane Wade MIA 12/06/2009 MIA @ SAC W 39 34 10 16 62.5 0 2 0.0 14 16 87.5 2 3 5 10 1 4 2 1 14
+p643
+aVJames Jones MIA 12/06/2009 MIA @ SAC W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -2
+p644
+aVUdonis Haslem MIA 12/04/2009 MIA @ LAL L 26 14 5 11 45.5 0 0 - 4 5 80.0 3 3 6 1 1 1 1 4 10
+p645
+aVMario Chalmers MIA 12/04/2009 MIA @ LAL L 39 12 4 9 44.4 4 8 50.0 0 0 - 0 1 1 3 0 0 4 3 -13
+p646
+aVJamaal Magloire MIA 12/04/2009 MIA @ LAL L 16 7 3 4 75.0 0 0 - 1 4 25.0 3 2 5 0 0 0 0 1 -2
+p647
+aVJermaine O'Neal MIA 12/04/2009 MIA @ LAL L 32 16 6 10 60.0 0 1 0.0 4 9 44.4 1 9 10 4 1 1 2 5 1
+p648
+aVMichael Beasley MIA 12/04/2009 MIA @ LAL L 29 12 6 8 75.0 0 0 - 0 0 - 2 3 5 2 0 1 1 4 -20
+p649
+aVDorell Wright MIA 12/04/2009 MIA @ LAL L 19 7 2 5 40.0 1 1 100.0 2 2 100.0 0 4 4 0 0 0 0 2 2
+p650
+aVQuentin Richardson MIA 12/04/2009 MIA @ LAL L 38 13 4 8 50.0 1 2 50.0 4 4 100.0 2 6 8 2 2 0 2 2 9
+p651
+aVDwyane Wade MIA 12/04/2009 MIA @ LAL L 42 26 7 21 33.3 0 1 0.0 12 18 66.7 3 5 8 9 0 2 2 4 8
+p652
+aVDorell Wright MIA 12/03/2009 MIA @ DEN L 20 7 3 5 60.0 1 2 50.0 0 0 - 1 4 5 1 0 0 0 2 4
+p653
+aVQuentin Richardson MIA 12/03/2009 MIA @ DEN L 30 3 1 4 25.0 1 3 33.3 0 1 0.0 0 4 4 2 2 1 1 3 -17
+p654
+aVJoel Anthony MIA 12/03/2009 MIA @ DEN L 7 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 0 -8
+p655
+aVUdonis Haslem MIA 12/03/2009 MIA @ DEN L 22 5 1 4 25.0 0 0 - 3 4 75.0 4 1 5 1 1 0 1 4 -19
+p656
+aVMichael Beasley MIA 12/03/2009 MIA @ DEN L 35 17 7 19 36.8 0 2 0.0 3 4 75.0 1 6 7 0 1 0 2 3 -19
+p657
+aVDaequan Cook MIA 12/03/2009 MIA @ DEN L 9 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 0 11
+p658
+aVJermaine O'Neal MIA 12/03/2009 MIA @ DEN L 25 9 4 8 50.0 0 0 - 1 2 50.0 2 2 4 0 0 2 0 2 -16
+p659
+aVDwyane Wade MIA 12/03/2009 MIA @ DEN L 35 25 8 20 40.0 0 3 0.0 9 13 69.2 3 7 10 4 1 0 4 3 -23
+p660
+aVMario Chalmers MIA 12/03/2009 MIA @ DEN L 17 7 3 6 50.0 0 2 0.0 1 2 50.0 0 1 1 3 1 0 0 4 -13
+p661
+aVJames Jones MIA 12/03/2009 MIA @ DEN L 16 6 2 6 33.3 2 4 50.0 0 1 0.0 0 0 0 1 1 0 0 4 -1
+p662
+aVCarlos Arroyo MIA 12/03/2009 MIA @ DEN L 16 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 0 0 0 0 0
+p663
+aVJamaal Magloire MIA 12/03/2009 MIA @ DEN L 9 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 1 1 1 1 11
+p664
+aVJermaine O'Neal MIA 12/01/2009 MIA @ POR W 28 14 7 12 58.3 0 0 - 0 1 0.0 1 4 5 4 0 1 1 5 -1
+p665
+aVMario Chalmers MIA 12/01/2009 MIA @ POR W 22 6 2 3 66.7 1 2 50.0 1 3 33.3 0 1 1 2 1 1 1 4 0
+p666
+aVCarlos Arroyo MIA 12/01/2009 MIA @ POR W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 1 -3
+p667
+aVQuentin Richardson MIA 12/01/2009 MIA @ POR W 40 20 8 15 53.3 4 10 40.0 0 0 - 0 9 9 2 1 1 0 3 6
+p668
+aVDorell Wright MIA 12/01/2009 MIA @ POR W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 1
+p669
+aVJoel Anthony MIA 12/01/2009 MIA @ POR W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 6
+p670
+aVUdonis Haslem MIA 12/01/2009 MIA @ POR W 22 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 2 0 0 1 1 4
+p671
+aVDwyane Wade MIA 12/01/2009 MIA @ POR W 38 22 9 18 50.0 0 1 0.0 4 7 57.1 3 2 5 12 1 0 3 5 10
+p672
+aVJames Jones MIA 12/01/2009 MIA @ POR W 26 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 1 0 0 0 3 7
+p673
+aVMichael Beasley MIA 12/01/2009 MIA @ POR W 37 27 8 15 53.3 0 1 0.0 11 12 91.7 1 7 8 0 1 1 2 0 5
+p674
+aVDwyane Wade MIA 11/29/2009 MIA vs. BOS L 37 27 11 23 47.8 0 3 0.0 5 8 62.5 1 4 5 6 2 1 3 1 -14
+p675
+aVMario Chalmers MIA 11/29/2009 MIA vs. BOS L 35 9 4 7 57.1 0 1 0.0 1 2 50.0 0 2 2 1 2 0 1 4 -10
+p676
+aVUdonis Haslem MIA 11/29/2009 MIA vs. BOS L 23 9 4 8 50.0 0 0 - 1 2 50.0 2 2 4 0 2 0 0 2 -3
+p677
+aVJoel Anthony MIA 11/29/2009 MIA vs. BOS L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p678
+aVDaequan Cook MIA 11/29/2009 MIA vs. BOS L 17 2 1 6 16.7 0 2 0.0 0 1 0.0 0 1 1 1 0 0 1 0 -7
+p679
+aVCarlos Arroyo MIA 11/29/2009 MIA vs. BOS L 14 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 1 0 1 0 3
+p680
+aVQuentin Richardson MIA 11/29/2009 MIA vs. BOS L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 0
+p681
+aVJermaine O'Neal MIA 11/29/2009 MIA vs. BOS L 30 14 5 11 45.5 0 0 - 4 8 50.0 3 7 10 0 0 0 2 3 -7
+p682
+aVJames Jones MIA 11/29/2009 MIA vs. BOS L 33 4 0 5 0.0 0 4 0.0 4 4 100.0 1 5 6 2 1 0 1 2 5
+p683
+aVMichael Beasley MIA 11/29/2009 MIA vs. BOS L 36 18 7 14 50.0 2 4 50.0 2 3 66.7 3 4 7 0 2 1 1 3 4
+p684
+aVMichael Beasley MIA 11/27/2009 MIA vs. WAS L 37 14 6 13 46.2 0 2 0.0 2 2 100.0 3 4 7 2 0 0 3 3 -13
+p685
+aVUdonis Haslem MIA 11/27/2009 MIA vs. WAS L 27 0 0 4 0.0 0 0 - 0 0 - 2 3 5 0 0 1 1 1 -14
+p686
+aVCarlos Arroyo MIA 11/27/2009 MIA vs. WAS L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -14
+p687
+aVJoel Anthony MIA 11/27/2009 MIA vs. WAS L 4 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 2 0 2 -1
+p688
+aVJermaine O'Neal MIA 11/27/2009 MIA vs. WAS L 40 19 9 15 60.0 0 0 - 1 2 50.0 2 11 13 1 1 2 1 2 -10
+p689
+aVDwyane Wade MIA 11/27/2009 MIA vs. WAS L 38 18 6 19 31.6 1 6 16.7 5 7 71.4 0 4 4 6 2 1 4 4 2
+p690
+aVMario Chalmers MIA 11/27/2009 MIA vs. WAS L 40 20 8 15 53.3 2 8 25.0 2 2 100.0 1 1 2 4 1 0 2 2 1
+p691
+aVJames Jones MIA 11/27/2009 MIA vs. WAS L 36 6 2 7 28.6 2 7 28.6 0 1 0.0 0 2 2 1 1 0 1 1 8
+p692
+aVDaequan Cook MIA 11/27/2009 MIA vs. WAS L 11 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -9
+p693
+aVJoel Anthony MIA 11/25/2009 MIA @ ORL W 13 6 3 6 50.0 0 0 - 0 0 - 2 1 3 0 1 3 0 1 9
+p694
+aVJermaine O'Neal MIA 11/25/2009 MIA @ ORL W 35 13 5 10 50.0 0 0 - 3 6 50.0 7 9 16 1 1 2 2 5 -8
+p695
+aVCarlos Arroyo MIA 11/25/2009 MIA @ ORL W 14 6 2 5 40.0 0 0 - 2 3 66.7 0 0 0 1 0 0 0 3 -1
+p696
+aVJames Jones MIA 11/25/2009 MIA @ ORL W 30 16 4 7 57.1 4 7 57.1 4 4 100.0 1 3 4 1 0 0 0 6 13
+p697
+aVDwyane Wade MIA 11/25/2009 MIA @ ORL W 39 24 6 22 27.3 1 5 20.0 11 11 100.0 1 3 4 6 3 2 4 1 -2
+p698
+aVMichael Beasley MIA 11/25/2009 MIA @ ORL W 34 15 7 16 43.8 0 3 0.0 1 2 50.0 2 10 12 0 0 0 1 2 -2
+p699
+aVDaequan Cook MIA 11/25/2009 MIA @ ORL W 21 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 1 1 0 0 2 6
+p700
+aVMario Chalmers MIA 11/25/2009 MIA @ ORL W 26 4 0 3 0.0 0 2 0.0 4 4 100.0 0 1 1 2 0 0 1 1 -10
+p701
+aVUdonis Haslem MIA 11/25/2009 MIA @ ORL W 28 10 4 10 40.0 0 0 - 2 2 100.0 2 6 8 0 0 0 0 3 0
+p702
+aVCarlos Arroyo MIA 11/22/2009 MIA vs. NOH W 13 3 1 5 20.0 0 0 - 1 1 100.0 0 2 2 1 0 0 1 1 -10
+p703
+aVDaequan Cook MIA 11/22/2009 MIA vs. NOH W 19 5 1 3 33.3 1 3 33.3 2 2 100.0 0 6 6 1 0 0 0 0 -7
+p704
+aVUdonis Haslem MIA 11/22/2009 MIA vs. NOH W 34 14 5 10 50.0 0 0 - 4 6 66.7 3 4 7 3 0 1 1 2 4
+p705
+aVJermaine O'Neal MIA 11/22/2009 MIA vs. NOH W 29 15 5 8 62.5 0 0 - 5 6 83.3 1 3 4 1 0 1 2 5 4
+p706
+aVJames Jones MIA 11/22/2009 MIA vs. NOH W 39 5 1 3 33.3 1 2 50.0 2 2 100.0 0 4 4 1 0 0 1 0 5
+p707
+aVJoel Anthony MIA 11/22/2009 MIA vs. NOH W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 2 2 -11
+p708
+aVMario Chalmers MIA 11/22/2009 MIA vs. NOH W 35 12 5 8 62.5 1 3 33.3 1 2 50.0 0 4 4 9 1 1 1 4 8
+p709
+aVDwyane Wade MIA 11/22/2009 MIA vs. NOH W 37 31 12 21 57.1 3 4 75.0 4 7 57.1 0 6 6 3 1 3 4 4 4
+p710
+aVMichael Beasley MIA 11/22/2009 MIA vs. NOH W 28 17 7 13 53.8 1 1 100.0 2 2 100.0 0 9 9 2 0 1 2 2 8
+p711
+aVJoel Anthony MIA 11/20/2009 MIA @ TOR L 15 2 1 3 33.3 0 0 - 0 1 0.0 2 5 7 0 0 0 2 3 3
+p712
+aVMario Chalmers MIA 11/20/2009 MIA @ TOR L 38 30 9 15 60.0 5 9 55.6 7 9 77.8 0 1 1 3 3 0 2 2 2
+p713
+aVShavlik Randolph MIA 11/20/2009 MIA @ TOR L 8 0 0 4 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 5
+p714
+aVDwyane Wade MIA 11/20/2009 MIA @ TOR L 42 30 10 24 41.7 1 5 20.0 9 10 90.0 0 5 5 8 2 0 0 2 0
+p715
+aVJermaine O'Neal MIA 11/20/2009 MIA @ TOR L 33 17 7 12 58.3 0 0 - 3 3 100.0 3 1 4 3 1 1 2 5 -10
+p716
+aVMichael Beasley MIA 11/20/2009 MIA @ TOR L 39 21 8 18 44.4 1 1 100.0 4 4 100.0 6 6 12 2 1 0 2 6 -12
+p717
+aVJames Jones MIA 11/20/2009 MIA @ TOR L 34 5 2 7 28.6 0 5 0.0 1 3 33.3 2 2 4 4 0 0 1 4 10
+p718
+aVDorell Wright MIA 11/20/2009 MIA @ TOR L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p719
+aVDaequan Cook MIA 11/20/2009 MIA @ TOR L 13 4 1 5 20.0 0 3 0.0 2 2 100.0 0 1 1 0 0 0 0 2 -17
+p720
+aVCarlos Arroyo MIA 11/20/2009 MIA @ TOR L 13 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 -9
+p721
+aVJames Jones MIA 11/18/2009 MIA @ ATL L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p722
+aVMario Chalmers MIA 11/18/2009 MIA @ ATL L 29 8 3 8 37.5 2 5 40.0 0 0 - 0 3 3 4 1 0 1 3 -5
+p723
+aVShavlik Randolph MIA 11/18/2009 MIA @ ATL L 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 1 3 0
+p724
+aVJoel Anthony MIA 11/18/2009 MIA @ ATL L 18 5 1 3 33.3 0 0 - 3 4 75.0 1 0 1 1 0 3 1 1 2
+p725
+aVJermaine O'Neal MIA 11/18/2009 MIA @ ATL L 30 12 6 11 54.5 0 0 - 0 2 0.0 2 5 7 1 0 0 0 6 -17
+p726
+aVDwyane Wade MIA 11/18/2009 MIA @ ATL L 38 15 6 18 33.3 2 5 40.0 1 2 50.0 0 6 6 5 0 2 4 2 -14
+p727
+aVDaequan Cook MIA 11/18/2009 MIA @ ATL L 27 9 3 10 30.0 2 6 33.3 1 1 100.0 1 4 5 2 1 1 1 2 3
+p728
+aVMichael Beasley MIA 11/18/2009 MIA @ ATL L 33 21 8 15 53.3 0 1 0.0 5 6 83.3 3 6 9 0 0 1 4 5 -15
+p729
+aVQuentin Richardson MIA 11/18/2009 MIA @ ATL L 21 6 2 3 66.7 2 3 66.7 0 0 - 0 4 4 1 0 0 1 3 -17
+p730
+aVCarlos Arroyo MIA 11/18/2009 MIA @ ATL L 19 9 4 7 57.1 0 0 - 1 1 100.0 1 3 4 2 1 0 1 3 -10
+p731
+aVDwyane Wade MIA 11/17/2009 MIA vs. OKC L 40 22 6 19 31.6 1 4 25.0 9 12 75.0 2 4 6 7 4 2 6 1 -12
+p732
+aVQuentin Richardson MIA 11/17/2009 MIA vs. OKC L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -11
+p733
+aVJoel Anthony MIA 11/17/2009 MIA vs. OKC L 9 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -12
+p734
+aVDorell Wright MIA 11/17/2009 MIA vs. OKC L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p735
+aVUdonis Haslem MIA 11/17/2009 MIA vs. OKC L 34 5 2 7 28.6 0 0 - 1 2 50.0 1 8 9 1 0 0 1 4 -8
+p736
+aVDaequan Cook MIA 11/17/2009 MIA vs. OKC L 24 17 5 11 45.5 4 9 44.4 3 4 75.0 0 1 1 2 1 0 0 3 8
+p737
+aVJermaine O'Neal MIA 11/17/2009 MIA vs. OKC L 38 19 8 15 53.3 0 0 - 3 5 60.0 3 7 10 1 1 1 1 2 -3
+p738
+aVMichael Beasley MIA 11/17/2009 MIA vs. OKC L 23 8 3 9 33.3 0 2 0.0 2 2 100.0 0 0 0 0 0 1 1 3 -6
+p739
+aVCarlos Arroyo MIA 11/17/2009 MIA vs. OKC L 17 4 2 2 100.0 0 0 - 0 0 - 0 3 3 2 0 0 3 1 -11
+p740
+aVMario Chalmers MIA 11/17/2009 MIA vs. OKC L 31 7 3 5 60.0 0 2 0.0 1 3 33.3 2 2 4 2 0 0 2 3 -2
+p741
+aVCarlos Arroyo MIA 11/14/2009 MIA vs. NJN W 37 7 3 10 30.0 0 1 0.0 1 2 50.0 1 2 3 4 1 0 0 2 -3
+p742
+aVDwyane Wade MIA 11/14/2009 MIA vs. NJN W 42 22 8 17 47.1 1 5 20.0 5 7 71.4 1 7 8 6 6 2 3 3 7
+p743
+aVJames Jones MIA 11/14/2009 MIA vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p744
+aVUdonis Haslem MIA 11/14/2009 MIA vs. NJN W 39 28 12 20 60.0 0 0 - 4 4 100.0 4 8 12 2 0 0 1 0 0
+p745
+aVDaequan Cook MIA 11/14/2009 MIA vs. NJN W 27 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 3 0 1 2 1 -5
+p746
+aVQuentin Richardson MIA 11/14/2009 MIA vs. NJN W 23 13 5 8 62.5 3 5 60.0 0 0 - 1 4 5 1 0 0 0 3 -1
+p747
+aVJamaal Magloire MIA 11/14/2009 MIA vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -9
+p748
+aVJoel Anthony MIA 11/14/2009 MIA vs. NJN W 32 2 1 5 20.0 0 0 - 0 0 - 3 2 5 0 0 2 0 2 10
+p749
+aVMario Chalmers MIA 11/14/2009 MIA vs. NJN W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 1 0 1 -1
+p750
+aVMichael Beasley MIA 11/14/2009 MIA vs. NJN W 28 7 3 17 17.6 0 3 0.0 1 2 50.0 5 3 8 3 2 1 0 4 6
+p751
+aVDorell Wright MIA 11/12/2009 MIA vs. CLE L 15 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 2 0 0 0 2 -1
+p752
+aVJoel Anthony MIA 11/12/2009 MIA vs. CLE L 13 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -4
+p753
+aVJermaine O'Neal MIA 11/12/2009 MIA vs. CLE L 33 15 5 11 45.5 0 0 - 5 5 100.0 3 6 9 0 0 2 1 3 -6
+p754
+aVDwyane Wade MIA 11/12/2009 MIA vs. CLE L 38 36 9 21 42.9 3 6 50.0 15 21 71.4 0 4 4 5 0 2 4 1 -4
+p755
+aVUdonis Haslem MIA 11/12/2009 MIA vs. CLE L 20 9 4 7 57.1 0 0 - 1 3 33.3 1 7 8 0 0 0 2 5 1
+p756
+aVMichael Beasley MIA 11/12/2009 MIA vs. CLE L 38 24 9 17 52.9 2 5 40.0 4 4 100.0 2 4 6 0 2 1 0 4 -7
+p757
+aVMario Chalmers MIA 11/12/2009 MIA vs. CLE L 34 8 3 7 42.9 1 4 25.0 1 2 50.0 1 4 5 6 1 0 1 2 0
+p758
+aVCarlos Arroyo MIA 11/12/2009 MIA vs. CLE L 14 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -7
+p759
+aVDaequan Cook MIA 11/12/2009 MIA vs. CLE L 7 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p760
+aVQuentin Richardson MIA 11/12/2009 MIA vs. CLE L 27 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 5 -7
+p761
+aVJermaine O'Neal MIA 11/10/2009 MIA vs. WAS W 31 6 3 7 42.9 0 0 - 0 0 - 0 6 6 1 0 3 0 5 17
+p762
+aVJoel Anthony MIA 11/10/2009 MIA vs. WAS W 17 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 1 -3
+p763
+aVMario Chalmers MIA 11/10/2009 MIA vs. WAS W 33 13 5 8 62.5 3 5 60.0 0 0 - 1 0 1 5 4 0 3 1 16
+p764
+aVUdonis Haslem MIA 11/10/2009 MIA vs. WAS W 30 4 1 5 20.0 0 0 - 2 3 66.7 2 5 7 1 0 1 0 2 9
+p765
+aVDwyane Wade MIA 11/10/2009 MIA vs. WAS W 38 41 14 29 48.3 1 3 33.3 12 13 92.3 2 3 5 5 3 1 2 2 15
+p766
+aVDorell Wright MIA 11/10/2009 MIA vs. WAS W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p767
+aVMichael Beasley MIA 11/10/2009 MIA vs. WAS W 33 15 6 17 35.3 0 3 0.0 3 4 75.0 1 4 5 2 1 0 2 0 1
+p768
+aVQuentin Richardson MIA 11/10/2009 MIA vs. WAS W 33 0 0 2 0.0 0 1 0.0 0 0 - 0 5 5 1 1 0 3 5 18
+p769
+aVCarlos Arroyo MIA 11/10/2009 MIA vs. WAS W 15 10 4 5 80.0 0 0 - 2 4 50.0 1 3 4 2 0 0 1 2 -2
+p770
+aVDwyane Wade MIA 11/06/2009 MIA vs. DEN W 41 22 6 17 35.3 0 3 0.0 10 12 83.3 1 1 2 5 2 1 3 1 12
+p771
+aVDorell Wright MIA 11/06/2009 MIA vs. DEN W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -4
+p772
+aVUdonis Haslem MIA 11/06/2009 MIA vs. DEN W 30 11 4 9 44.4 0 0 - 3 6 50.0 6 4 10 0 0 1 1 1 -5
+p773
+aVMario Chalmers MIA 11/06/2009 MIA vs. DEN W 34 16 6 9 66.7 4 5 80.0 0 0 - 1 4 5 4 1 0 2 2 15
+p774
+aVCarlos Arroyo MIA 11/06/2009 MIA vs. DEN W 14 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 2 3 -7
+p775
+aVQuentin Richardson MIA 11/06/2009 MIA vs. DEN W 38 13 6 15 40.0 1 7 14.3 0 0 - 2 7 9 2 0 0 1 4 10
+p776
+aVJermaine O'Neal MIA 11/06/2009 MIA vs. DEN W 34 18 8 11 72.7 0 0 - 2 4 50.0 0 7 7 1 1 3 3 5 9
+p777
+aVJoel Anthony MIA 11/06/2009 MIA vs. DEN W 10 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 1 0 0 2 4 -8
+p778
+aVMichael Beasley MIA 11/06/2009 MIA vs. DEN W 31 7 3 8 37.5 1 2 50.0 0 0 - 1 2 3 1 2 0 2 1 18
+p779
+aVCarlos Arroyo MIA 11/04/2009 MIA @ WAS W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 5 -2
+p780
+aVJoel Anthony MIA 11/04/2009 MIA @ WAS W 12 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 0 1 0 1 -11
+p781
+aVQuentin Richardson MIA 11/04/2009 MIA @ WAS W 43 19 7 10 70.0 5 7 71.4 0 0 - 0 9 9 1 0 0 3 2 12
+p782
+aVDwyane Wade MIA 11/04/2009 MIA @ WAS W 43 40 14 26 53.8 2 5 40.0 10 13 76.9 0 4 4 5 1 2 4 3 12
+p783
+aVUdonis Haslem MIA 11/04/2009 MIA @ WAS W 32 13 5 11 45.5 0 0 - 3 4 75.0 3 4 7 0 0 0 2 2 -5
+p784
+aVJermaine O'Neal MIA 11/04/2009 MIA @ WAS W 33 4 2 7 28.6 0 0 - 0 0 - 2 5 7 2 0 1 2 3 17
+p785
+aVDorell Wright MIA 11/04/2009 MIA @ WAS W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -8
+p786
+aVMario Chalmers MIA 11/04/2009 MIA @ WAS W 36 5 1 6 16.7 1 2 50.0 2 2 100.0 0 0 0 8 2 0 4 5 6
+p787
+aVMichael Beasley MIA 11/04/2009 MIA @ WAS W 24 10 5 10 50.0 0 0 - 0 0 - 1 3 4 1 0 1 2 4 -1
+p788
+aVJoel Anthony MIA 11/03/2009 MIA vs. PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -11
+p789
+aVDorell Wright MIA 11/03/2009 MIA vs. PHX L 16 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 1 0 0 2 2 3
+p790
+aVMichael Beasley MIA 11/03/2009 MIA vs. PHX L 23 12 4 10 40.0 0 2 0.0 4 4 100.0 1 3 4 0 0 0 0 4 -6
+p791
+aVQuentin Richardson MIA 11/03/2009 MIA vs. PHX L 38 18 7 17 41.2 4 9 44.4 0 0 - 6 4 10 2 2 1 1 2 -7
+p792
+aVMario Chalmers MIA 11/03/2009 MIA vs. PHX L 34 5 2 8 25.0 1 5 20.0 0 0 - 0 0 0 3 3 0 0 3 -4
+p793
+aVDwyane Wade MIA 11/03/2009 MIA vs. PHX L 38 23 7 18 38.9 0 3 0.0 9 11 81.8 2 7 9 7 2 0 4 4 -8
+p794
+aVJermaine O'Neal MIA 11/03/2009 MIA vs. PHX L 29 14 7 12 58.3 0 0 - 0 0 - 1 1 2 3 1 0 1 3 10
+p795
+aVCarlos Arroyo MIA 11/03/2009 MIA vs. PHX L 14 5 2 7 28.6 1 1 100.0 0 0 - 0 1 1 4 0 0 0 0 -4
+p796
+aVUdonis Haslem MIA 11/03/2009 MIA vs. PHX L 37 10 4 11 36.4 0 0 - 2 2 100.0 2 11 13 2 0 1 0 1 -3
+p797
+aVJames Jones MIA 11/03/2009 MIA vs. PHX L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -10
+p798
+aVMario Chalmers MIA 11/01/2009 MIA vs. CHI W 32 11 3 5 60.0 1 2 50.0 4 4 100.0 0 2 2 4 4 1 5 2 7
+p799
+aVDorell Wright MIA 11/01/2009 MIA vs. CHI W 16 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 2 1 0 0
+p800
+aVQuentin Richardson MIA 11/01/2009 MIA vs. CHI W 27 6 2 6 33.3 2 5 40.0 0 0 - 0 4 4 2 2 0 0 2 5
+p801
+aVJoel Anthony MIA 11/01/2009 MIA vs. CHI W 20 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 3 2 3 4
+p802
+aVDwyane Wade MIA 11/01/2009 MIA vs. CHI W 36 25 8 19 42.1 1 4 25.0 8 10 80.0 1 0 1 3 0 0 4 2 7
+p803
+aVUdonis Haslem MIA 11/01/2009 MIA vs. CHI W 35 19 9 13 69.2 0 0 - 1 1 100.0 2 9 11 1 0 0 1 0 15
+p804
+aVMichael Beasley MIA 11/01/2009 MIA vs. CHI W 31 10 3 12 25.0 0 3 0.0 4 5 80.0 4 7 11 1 0 2 1 1 -3
+p805
+aVJermaine O'Neal MIA 11/01/2009 MIA vs. CHI W 28 8 3 6 50.0 0 0 - 2 3 66.7 1 6 7 1 0 0 3 3 4
+p806
+aVCarlos Arroyo MIA 11/01/2009 MIA vs. CHI W 16 12 5 7 71.4 0 0 - 2 2 100.0 0 0 0 2 0 0 1 2 1
+p807
+aVCarlos Arroyo MIA 10/30/2009 MIA @ IND W 14 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -11
+p808
+aVMario Chalmers MIA 10/30/2009 MIA @ IND W 34 8 2 2 100.0 0 0 - 4 5 80.0 0 2 2 6 1 0 2 1 24
+p809
+aVMichael Beasley MIA 10/30/2009 MIA @ IND W 29 12 4 9 44.4 0 0 - 4 5 80.0 3 6 9 1 2 0 3 3 12
+p810
+aVJermaine O'Neal MIA 10/30/2009 MIA @ IND W 32 22 7 13 53.8 0 0 - 8 12 66.7 1 11 12 1 0 1 1 4 20
+p811
+aVQuentin Richardson MIA 10/30/2009 MIA @ IND W 28 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 4 14
+p812
+aVJoel Anthony MIA 10/30/2009 MIA @ IND W 16 6 2 3 66.7 0 0 - 2 2 100.0 3 1 4 0 0 1 0 2 -7
+p813
+aVUdonis Haslem MIA 10/30/2009 MIA @ IND W 29 10 4 9 44.4 0 0 - 2 2 100.0 4 6 10 0 1 0 3 2 -11
+p814
+aVDaequan Cook MIA 10/30/2009 MIA @ IND W 17 4 1 9 11.1 1 3 33.3 1 1 100.0 1 3 4 0 0 0 2 0 1
+p815
+aVDwyane Wade MIA 10/30/2009 MIA @ IND W 35 32 9 19 47.4 0 3 0.0 14 19 73.7 1 2 3 4 3 1 2 5 20
+p816
+aVYakhouba Diawara MIA 10/30/2009 MIA @ IND W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p817
+aVDaequan Cook MIA 10/28/2009 MIA vs. NYK W 21 15 4 10 40.0 2 5 40.0 5 5 100.0 0 5 5 1 0 0 2 2 -7
+p818
+aVMario Chalmers MIA 10/28/2009 MIA vs. NYK W 31 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 4 2 0 2 4 33
+p819
+aVUdonis Haslem MIA 10/28/2009 MIA vs. NYK W 30 8 4 9 44.4 0 0 - 0 1 0.0 2 7 9 2 0 0 3 3 0
+p820
+aVMichael Beasley MIA 10/28/2009 MIA vs. NYK W 36 21 9 14 64.3 1 2 50.0 2 2 100.0 0 3 3 0 2 1 3 4 18
+p821
+aVDwyane Wade MIA 10/28/2009 MIA vs. NYK W 36 26 10 22 45.5 1 4 25.0 5 7 71.4 0 5 5 5 2 0 2 1 35
+p822
+aVJames Jones MIA 10/28/2009 MIA vs. NYK W 2 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p823
+aVJoel Anthony MIA 10/28/2009 MIA vs. NYK W 19 0 0 2 0.0 0 0 - 0 0 - 3 0 3 1 0 2 0 2 -6
+p824
+aVQuentin Richardson MIA 10/28/2009 MIA vs. NYK W 17 5 2 2 100.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 1 24
+p825
+aVCarlos Arroyo MIA 10/28/2009 MIA vs. NYK W 17 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 0 0 1 1 -11
+p826
+aVJermaine O'Neal MIA 10/28/2009 MIA vs. NYK W 29 22 10 12 83.3 0 0 - 2 2 100.0 0 12 12 4 0 0 3 2 28
+p827
+aVDorell Wright MIA 10/28/2009 MIA vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p828
+a.

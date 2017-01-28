@@ -1,0 +1,168 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRodney Stuckey IND 05/01/2016 IND @ TOR L 15 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 0 1 0 0 0 -3
+p2
+aVMonta Ellis IND 05/01/2016 IND @ TOR L 37 15 7 14 50.0 1 4 25.0 0 0 - 1 3 4 7 0 0 3 1 -7
+p3
+aVTy Lawson IND 05/01/2016 IND @ TOR L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 -1
+p4
+aVMyles Turner IND 05/01/2016 IND @ TOR L 29 4 2 11 18.2 0 0 - 0 0 - 0 6 6 0 0 4 0 2 -12
+p5
+aVSolomon Hill IND 05/01/2016 IND @ TOR L 34 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 0 0 0 0 3 6
+p6
+aVPaul George IND 05/01/2016 IND @ TOR L 46 26 8 18 44.4 4 7 57.1 6 6 100.0 1 11 12 1 3 0 7 4 -3
+p7
+aVIan Mahinmi IND 05/01/2016 IND @ TOR L 28 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 0 1 2 3 -3
+p8
+aVGeorge Hill IND 05/01/2016 IND @ TOR L 40 19 8 11 72.7 3 4 75.0 0 0 - 1 0 1 2 1 0 1 3 -1
+p9
+aVCJ Miles IND 05/01/2016 IND @ TOR L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 -1
+p10
+aVGeorge Hill IND 04/29/2016 IND vs. TOR W 34 12 2 8 25.0 1 2 50.0 7 8 87.5 1 4 5 4 1 0 3 0 14
+p11
+aVLavoy Allen IND 04/29/2016 IND vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p12
+aVJoe Young IND 04/29/2016 IND vs. TOR W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -9
+p13
+aVMonta Ellis IND 04/29/2016 IND vs. TOR W 29 14 6 12 50.0 1 5 20.0 1 1 100.0 1 0 1 5 4 0 4 3 6
+p14
+aVPaul George IND 04/29/2016 IND vs. TOR W 40 21 5 14 35.7 1 5 20.0 10 10 100.0 3 8 11 6 2 1 2 4 22
+p15
+aVGlenn Robinson IND 04/29/2016 IND vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p16
+aVJordan Hill IND 04/29/2016 IND vs. TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p17
+aVCJ Miles IND 04/29/2016 IND vs. TOR W 7 4 2 8 25.0 0 2 0.0 0 0 - 2 2 4 0 0 0 0 0 -1
+p18
+aVTy Lawson IND 04/29/2016 IND vs. TOR W 10 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 -4
+p19
+aVRodney Stuckey IND 04/29/2016 IND vs. TOR W 20 8 3 4 75.0 2 3 66.7 0 0 - 0 3 3 4 1 0 0 2 29
+p20
+aVSolomon Hill IND 04/29/2016 IND vs. TOR W 24 9 3 5 60.0 3 4 75.0 0 0 - 0 3 3 1 1 0 0 4 32
+p21
+aVMyles Turner IND 04/29/2016 IND vs. TOR W 33 15 6 11 54.5 0 0 - 3 3 100.0 3 6 9 0 1 4 3 5 12
+p22
+aVIan Mahinmi IND 04/29/2016 IND vs. TOR W 30 12 5 8 62.5 0 0 - 2 4 50.0 2 2 4 1 2 2 1 3 17
+p23
+aVMonta Ellis IND 04/26/2016 IND @ TOR L 33 8 3 10 30.0 0 2 0.0 2 2 100.0 0 4 4 3 2 0 2 3 5
+p24
+aVSolomon Hill IND 04/26/2016 IND @ TOR L 30 11 3 4 75.0 3 3 100.0 2 2 100.0 1 5 6 0 0 0 0 4 -8
+p25
+aVIan Mahinmi IND 04/26/2016 IND @ TOR L 19 4 1 2 50.0 0 0 - 2 2 100.0 2 4 6 0 0 0 2 4 -9
+p26
+aVPaul George IND 04/26/2016 IND @ TOR L 41 39 11 19 57.9 5 11 45.5 12 12 100.0 1 7 8 8 2 1 3 4 15
+p27
+aVCJ Miles IND 04/26/2016 IND @ TOR L 17 5 2 8 25.0 1 5 20.0 0 0 - 0 4 4 1 0 0 0 1 -19
+p28
+aVLavoy Allen IND 04/26/2016 IND @ TOR L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p29
+aVGeorge Hill IND 04/26/2016 IND @ TOR L 34 15 5 9 55.6 4 7 57.1 1 1 100.0 0 2 2 3 1 1 0 3 6
+p30
+aVTy Lawson IND 04/26/2016 IND @ TOR L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -18
+p31
+aVRodney Stuckey IND 04/26/2016 IND @ TOR L 22 2 1 10 10.0 0 1 0.0 0 2 0.0 1 1 2 5 0 0 3 1 1
+p32
+aVMyles Turner IND 04/26/2016 IND @ TOR L 35 14 7 10 70.0 0 0 - 0 0 - 2 6 8 1 0 3 3 4 9
+p33
+aVSolomon Hill IND 04/23/2016 IND vs. TOR W 28 7 2 4 50.0 2 3 66.7 1 2 50.0 2 1 3 3 1 0 2 3 15
+p34
+aVGeorge Hill IND 04/23/2016 IND vs. TOR W 31 22 9 11 81.8 2 4 50.0 2 2 100.0 1 3 4 3 0 0 0 1 12
+p35
+aVJoe Young IND 04/23/2016 IND vs. TOR W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 0
+p36
+aVLavoy Allen IND 04/23/2016 IND vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p37
+aVGlenn Robinson IND 04/23/2016 IND vs. TOR W 3 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 1 0 0 0
+p38
+aVPaul George IND 04/23/2016 IND vs. TOR W 35 19 6 16 37.5 1 4 25.0 6 7 85.7 0 4 4 2 1 0 1 4 11
+p39
+aVMonta Ellis IND 04/23/2016 IND vs. TOR W 30 7 3 7 42.9 1 2 50.0 0 0 - 1 3 4 3 3 0 3 3 7
+p40
+aVMyles Turner IND 04/23/2016 IND vs. TOR W 27 4 2 13 15.4 0 0 - 0 0 - 3 4 7 1 1 2 1 1 0
+p41
+aVCJ Miles IND 04/23/2016 IND vs. TOR W 15 4 2 3 66.7 0 0 - 0 1 0.0 1 2 3 1 0 1 0 3 5
+p42
+aVJordan Hill IND 04/23/2016 IND vs. TOR W 3 0 0 1 0.0 0 0 - 0 0 - 2 2 4 2 0 0 0 0 0
+p43
+aVRodney Stuckey IND 04/23/2016 IND vs. TOR W 16 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 1 0 0 2 1 5
+p44
+aVTy Lawson IND 04/23/2016 IND vs. TOR W 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 2 0 0 1 10
+p45
+aVIan Mahinmi IND 04/23/2016 IND vs. TOR W 33 22 9 14 64.3 0 0 - 4 5 80.0 5 5 10 5 2 1 2 4 20
+p46
+aVPaul George IND 04/21/2016 IND vs. TOR L 42 25 6 19 31.6 1 8 12.5 12 12 100.0 1 9 10 6 1 1 4 3 -8
+p47
+aVJoe Young IND 04/21/2016 IND vs. TOR L 1 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p48
+aVJordan Hill IND 04/21/2016 IND vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p49
+aVCJ Miles IND 04/21/2016 IND vs. TOR L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 1 0 -7
+p50
+aVTy Lawson IND 04/21/2016 IND vs. TOR L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p51
+aVIan Mahinmi IND 04/21/2016 IND vs. TOR L 24 7 3 5 60.0 0 0 - 1 4 25.0 1 3 4 0 0 1 4 4 -10
+p52
+aVRodney Stuckey IND 04/21/2016 IND vs. TOR L 17 5 1 2 50.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 1 -12
+p53
+aVMyles Turner IND 04/21/2016 IND vs. TOR L 31 17 7 12 58.3 0 0 - 3 4 75.0 5 3 8 1 0 3 1 3 -4
+p54
+aVGlenn Robinson IND 04/21/2016 IND vs. TOR L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p55
+aVMonta Ellis IND 04/21/2016 IND vs. TOR L 36 7 3 9 33.3 0 2 0.0 1 2 50.0 1 5 6 4 1 0 4 2 -11
+p56
+aVGeorge Hill IND 04/21/2016 IND vs. TOR L 33 13 3 7 42.9 2 4 50.0 5 6 83.3 1 2 3 2 1 0 1 3 1
+p57
+aVLavoy Allen IND 04/21/2016 IND vs. TOR L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -7
+p58
+aVSolomon Hill IND 04/21/2016 IND vs. TOR L 28 8 2 5 40.0 2 3 66.7 2 2 100.0 0 3 3 2 0 0 0 2 -11
+p59
+aVJoe Young IND 04/18/2016 IND @ TOR L 3 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 6
+p60
+aVIan Mahinmi IND 04/18/2016 IND @ TOR L 22 5 0 6 0.0 0 0 - 5 6 83.3 0 5 5 0 0 0 1 2 -1
+p61
+aVGeorge Hill IND 04/18/2016 IND @ TOR L 31 4 2 5 40.0 0 3 0.0 0 0 - 1 0 1 1 1 0 2 4 -8
+p62
+aVTy Lawson IND 04/18/2016 IND @ TOR L 13 4 1 4 25.0 0 2 0.0 2 2 100.0 0 0 0 3 0 0 1 2 -13
+p63
+aVLavoy Allen IND 04/18/2016 IND @ TOR L 21 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 1 0 1 1 -8
+p64
+aVPaul George IND 04/18/2016 IND @ TOR L 33 28 8 15 53.3 2 3 66.7 10 11 90.9 2 2 4 1 1 0 2 2 -8
+p65
+aVSolomon Hill IND 04/18/2016 IND @ TOR L 27 2 1 5 20.0 0 2 0.0 0 0 - 1 5 6 2 0 0 1 3 -15
+p66
+aVMonta Ellis IND 04/18/2016 IND @ TOR L 31 15 6 12 50.0 1 2 50.0 2 3 66.7 0 5 5 3 2 0 0 1 -6
+p67
+aVMyles Turner IND 04/18/2016 IND @ TOR L 16 8 4 5 80.0 0 1 0.0 0 0 - 0 2 2 0 0 2 3 5 -6
+p68
+aVJordan Hill IND 04/18/2016 IND @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p69
+aVRodney Stuckey IND 04/18/2016 IND @ TOR L 17 7 2 6 33.3 1 1 100.0 2 4 50.0 0 3 3 1 1 1 1 2 -9
+p70
+aVCJ Miles IND 04/18/2016 IND @ TOR L 19 6 2 7 28.6 0 5 0.0 2 2 100.0 0 2 2 0 1 0 1 1 1
+p71
+aVGlenn Robinson IND 04/18/2016 IND @ TOR L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p72
+aVJordan Hill IND 04/16/2016 IND @ TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p73
+aVGeorge Hill IND 04/16/2016 IND @ TOR W 31 10 3 6 50.0 1 3 33.3 3 5 60.0 1 2 3 0 1 0 1 2 13
+p74
+aVMyles Turner IND 04/16/2016 IND @ TOR W 26 10 5 9 55.6 0 1 0.0 0 2 0.0 3 2 5 0 0 5 1 4 15
+p75
+aVRodney Stuckey IND 04/16/2016 IND @ TOR W 19 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 3 1 0 0 2 -2
+p76
+aVPaul George IND 04/16/2016 IND @ TOR W 38 33 12 22 54.5 4 5 80.0 5 6 83.3 1 3 4 6 4 2 4 3 16
+p77
+aVLavoy Allen IND 04/16/2016 IND @ TOR W 14 4 2 6 33.3 0 0 - 0 0 - 1 6 7 0 0 0 0 1 -1
+p78
+aVCJ Miles IND 04/16/2016 IND @ TOR W 19 5 2 7 28.6 1 3 33.3 0 0 - 1 6 7 1 0 0 1 1 4
+p79
+aVSolomon Hill IND 04/16/2016 IND @ TOR W 26 13 1 3 33.3 1 3 33.3 10 10 100.0 1 1 2 0 0 0 0 1 1
+p80
+aVTy Lawson IND 04/16/2016 IND @ TOR W 17 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 1 0 3 1 -3
+p81
+aVIan Mahinmi IND 04/16/2016 IND @ TOR W 17 1 0 2 0.0 0 0 - 1 4 25.0 1 2 3 1 1 1 2 5 -7
+p82
+aVMonta Ellis IND 04/16/2016 IND @ TOR W 29 15 5 12 41.7 3 4 75.0 2 2 100.0 0 3 3 5 3 0 1 4 11
+p83
+a.

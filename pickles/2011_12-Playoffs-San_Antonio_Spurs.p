@@ -1,0 +1,332 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVManu Ginobili SAS 06/06/2012 SAS @ OKC L 36 10 4 12 33.3 2 8 25.0 0 0 - 0 5 5 1 0 0 3 5 -14
+p2
+aVGary Neal SAS 06/06/2012 SAS @ OKC L 19 7 2 6 33.3 1 3 33.3 2 3 66.7 0 1 1 1 1 0 0 3 -2
+p3
+aVTim Duncan SAS 06/06/2012 SAS @ OKC L 41 25 11 23 47.8 0 0 - 3 4 75.0 3 11 14 2 1 2 2 4 -3
+p4
+aVStephen Jackson SAS 06/06/2012 SAS @ OKC L 32 23 6 7 85.7 6 7 85.7 5 6 83.3 1 3 4 1 2 0 2 4 -4
+p5
+aVKawhi Leonard SAS 06/06/2012 SAS @ OKC L 41 5 2 7 28.6 1 3 33.3 0 0 - 2 0 2 1 1 0 1 3 -6
+p6
+aVDanny Green SAS 06/06/2012 SAS @ OKC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p7
+aVDeJuan Blair SAS 06/06/2012 SAS @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p8
+aVBoris Diaw SAS 06/06/2012 SAS @ OKC L 25 0 0 1 0.0 0 0 - 0 0 - 2 3 5 2 2 0 3 4 1
+p9
+aVTiago Splitter SAS 06/06/2012 SAS @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p10
+aVTony Parker SAS 06/06/2012 SAS @ OKC L 42 29 12 27 44.4 1 4 25.0 4 5 80.0 1 2 3 12 2 0 1 1 -5
+p11
+aVBoris Diaw SAS 06/04/2012 SAS vs. OKC L 25 5 2 5 40.0 1 2 50.0 0 0 - 1 2 3 3 1 0 2 2 10
+p12
+aVStephen Jackson SAS 06/04/2012 SAS vs. OKC L 30 13 5 9 55.6 3 6 50.0 0 0 - 0 2 2 3 2 0 2 4 -15
+p13
+aVDanny Green SAS 06/04/2012 SAS vs. OKC L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -5
+p14
+aVManu Ginobili SAS 06/04/2012 SAS vs. OKC L 38 34 11 21 52.4 5 10 50.0 7 8 87.5 2 4 6 7 2 0 5 4 13
+p15
+aVTony Parker SAS 06/04/2012 SAS vs. OKC L 41 20 5 14 35.7 0 1 0.0 10 12 83.3 1 3 4 4 1 0 5 3 -1
+p16
+aVTim Duncan SAS 06/04/2012 SAS vs. OKC L 33 18 7 10 70.0 0 0 - 4 5 80.0 5 7 12 3 1 1 2 4 17
+p17
+aVMatt Bonner SAS 06/04/2012 SAS vs. OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p18
+aVGary Neal SAS 06/04/2012 SAS vs. OKC L 15 2 0 6 0.0 0 3 0.0 2 2 100.0 0 1 1 0 0 0 1 1 -17
+p19
+aVKawhi Leonard SAS 06/04/2012 SAS vs. OKC L 36 4 1 4 25.0 0 1 0.0 2 2 100.0 0 10 10 2 1 0 1 2 -2
+p20
+aVTiago Splitter SAS 06/04/2012 SAS vs. OKC L 10 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -12
+p21
+aVDeJuan Blair SAS 06/04/2012 SAS vs. OKC L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -10
+p22
+aVStephen Jackson SAS 06/02/2012 SAS @ OKC L 22 11 4 6 66.7 2 3 66.7 1 1 100.0 0 0 0 2 1 0 1 6 5
+p23
+aVManu Ginobili SAS 06/02/2012 SAS @ OKC L 25 13 4 7 57.1 2 3 66.7 3 3 100.0 0 0 0 4 1 0 6 6 -10
+p24
+aVGary Neal SAS 06/02/2012 SAS @ OKC L 15 8 3 5 60.0 1 2 50.0 1 1 100.0 0 1 1 1 0 0 0 1 -8
+p25
+aVMatt Bonner SAS 06/02/2012 SAS @ OKC L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p26
+aVDeJuan Blair SAS 06/02/2012 SAS @ OKC L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 0 0 6
+p27
+aVPatty Mills SAS 06/02/2012 SAS @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p28
+aVBoris Diaw SAS 06/02/2012 SAS @ OKC L 34 12 5 11 45.5 2 4 50.0 0 0 - 4 3 7 2 1 0 0 2 -8
+p29
+aVTiago Splitter SAS 06/02/2012 SAS @ OKC L 6 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 0 -2
+p30
+aVDanny Green SAS 06/02/2012 SAS @ OKC L 20 7 3 9 33.3 1 6 16.7 0 0 - 0 1 1 1 0 0 0 2 7
+p31
+aVTim Duncan SAS 06/02/2012 SAS @ OKC L 36 21 9 17 52.9 0 0 - 3 7 42.9 2 6 8 2 0 1 0 0 -3
+p32
+aVTony Parker SAS 06/02/2012 SAS @ OKC L 39 12 5 15 33.3 0 1 0.0 2 2 100.0 0 2 2 4 0 0 1 2 0
+p33
+aVKawhi Leonard SAS 06/02/2012 SAS @ OKC L 33 17 7 8 87.5 3 4 75.0 0 0 - 1 8 9 0 1 0 2 1 -12
+p34
+aVDanny Green SAS 05/31/2012 SAS @ OKC L 21 3 1 3 33.3 1 3 33.3 0 0 - 1 3 4 1 1 1 0 1 -7
+p35
+aVTiago Splitter SAS 05/31/2012 SAS @ OKC L 12 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 0 2 3 -7
+p36
+aVStephen Jackson SAS 05/31/2012 SAS @ OKC L 22 16 6 7 85.7 4 5 80.0 0 0 - 0 2 2 0 1 0 4 2 -11
+p37
+aVDeJuan Blair SAS 05/31/2012 SAS @ OKC L 10 10 5 7 71.4 0 0 - 0 0 - 3 3 6 0 0 0 0 2 3
+p38
+aVManu Ginobili SAS 05/31/2012 SAS @ OKC L 21 8 1 5 20.0 1 2 50.0 5 5 100.0 1 5 6 1 0 0 4 2 -4
+p39
+aVKawhi Leonard SAS 05/31/2012 SAS @ OKC L 15 2 1 3 33.3 0 1 0.0 0 1 0.0 1 5 6 0 0 1 0 1 -11
+p40
+aVGary Neal SAS 05/31/2012 SAS @ OKC L 22 7 3 11 27.3 1 3 33.3 0 0 - 0 0 0 5 0 0 1 0 -17
+p41
+aVBoris Diaw SAS 05/31/2012 SAS @ OKC L 14 1 0 2 0.0 0 0 - 1 1 100.0 2 1 3 2 0 0 1 0 -9
+p42
+aVJames Anderson SAS 05/31/2012 SAS @ OKC L 16 4 1 2 50.0 1 2 50.0 1 2 50.0 0 3 3 1 0 0 0 0 6
+p43
+aVPatty Mills SAS 05/31/2012 SAS @ OKC L 11 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 0 0 1 0 -3
+p44
+aVTony Parker SAS 05/31/2012 SAS @ OKC L 28 16 6 12 50.0 2 4 50.0 2 2 100.0 1 2 3 4 0 0 5 1 -13
+p45
+aVTim Duncan SAS 05/31/2012 SAS @ OKC L 26 11 5 15 33.3 0 0 - 1 2 50.0 1 1 2 1 0 5 2 3 -16
+p46
+aVMatt Bonner SAS 05/31/2012 SAS @ OKC L 23 0 0 4 0.0 0 3 0.0 0 0 - 1 3 4 1 0 0 1 4 -11
+p47
+aVTony Parker SAS 05/29/2012 SAS vs. OKC W 40 34 16 21 76.2 1 2 50.0 1 2 50.0 0 3 3 8 0 0 2 4 15
+p48
+aVTim Duncan SAS 05/29/2012 SAS vs. OKC W 36 11 2 11 18.2 0 0 - 7 10 70.0 3 9 12 6 0 4 3 2 18
+p49
+aVMatt Bonner SAS 05/29/2012 SAS vs. OKC W 17 4 1 2 50.0 1 2 50.0 1 2 50.0 0 2 2 1 0 0 0 2 -4
+p50
+aVGary Neal SAS 05/29/2012 SAS vs. OKC W 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -6
+p51
+aVManu Ginobili SAS 05/29/2012 SAS vs. OKC W 26 20 6 11 54.5 1 5 20.0 7 8 87.5 1 0 1 4 0 0 2 4 -3
+p52
+aVJames Anderson SAS 05/29/2012 SAS vs. OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p53
+aVBoris Diaw SAS 05/29/2012 SAS vs. OKC W 27 9 4 5 80.0 1 1 100.0 0 0 - 1 6 7 2 1 1 2 5 12
+p54
+aVStephen Jackson SAS 05/29/2012 SAS vs. OKC W 12 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 1 0 0 0 2 -2
+p55
+aVKawhi Leonard SAS 05/29/2012 SAS vs. OKC W 35 18 7 12 58.3 3 6 50.0 1 1 100.0 2 8 10 0 1 2 1 1 11
+p56
+aVDanny Green SAS 05/29/2012 SAS vs. OKC W 27 10 4 10 40.0 2 7 28.6 0 0 - 0 5 5 2 1 1 2 2 14
+p57
+aVTiago Splitter SAS 05/29/2012 SAS vs. OKC W 11 8 1 1 100.0 0 0 - 6 12 50.0 0 0 0 3 0 0 0 2 -8
+p58
+aVGary Neal SAS 05/27/2012 SAS vs. OKC W 24 12 5 9 55.6 2 4 50.0 0 0 - 0 1 1 1 0 0 0 1 7
+p59
+aVTiago Splitter SAS 05/27/2012 SAS vs. OKC W 13 9 4 5 80.0 0 0 - 1 5 20.0 0 6 6 3 0 0 1 1 2
+p60
+aVTony Parker SAS 05/27/2012 SAS vs. OKC W 38 18 6 15 40.0 1 2 50.0 5 7 71.4 1 7 8 6 2 0 4 3 8
+p61
+aVMatt Bonner SAS 05/27/2012 SAS vs. OKC W 11 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 2 0 0 1 1 1
+p62
+aVKawhi Leonard SAS 05/27/2012 SAS vs. OKC W 25 7 3 9 33.3 1 3 33.3 0 0 - 4 3 7 0 1 0 2 1 -16
+p63
+aVDanny Green SAS 05/27/2012 SAS vs. OKC W 16 0 0 6 0.0 0 5 0.0 0 0 - 0 2 2 0 0 1 2 0 -7
+p64
+aVTim Duncan SAS 05/27/2012 SAS vs. OKC W 35 16 6 15 40.0 0 0 - 4 6 66.7 4 7 11 2 0 1 2 3 9
+p65
+aVManu Ginobili SAS 05/27/2012 SAS vs. OKC W 34 26 9 14 64.3 3 5 60.0 5 5 100.0 1 4 5 3 1 0 3 3 8
+p66
+aVBoris Diaw SAS 05/27/2012 SAS vs. OKC W 22 8 4 6 66.7 0 1 0.0 0 0 - 2 2 4 4 0 0 0 1 -8
+p67
+aVStephen Jackson SAS 05/27/2012 SAS vs. OKC W 23 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 1 1 0 1 4 11
+p68
+aVGary Neal SAS 05/20/2012 SAS @ LAC W 14 14 5 7 71.4 2 3 66.7 2 2 100.0 0 1 1 3 0 0 1 1 3
+p69
+aVDanny Green SAS 05/20/2012 SAS @ LAC W 30 14 5 9 55.6 3 5 60.0 1 2 50.0 0 6 6 4 1 0 1 4 10
+p70
+aVTiago Splitter SAS 05/20/2012 SAS @ LAC W 24 11 5 7 71.4 0 0 - 1 2 50.0 2 5 7 0 1 1 1 3 0
+p71
+aVTim Duncan SAS 05/20/2012 SAS @ LAC W 30 21 9 14 64.3 0 0 - 3 3 100.0 2 7 9 4 0 3 1 2 0
+p72
+aVStephen Jackson SAS 05/20/2012 SAS @ LAC W 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 4 0 0 1 1 1
+p73
+aVKawhi Leonard SAS 05/20/2012 SAS @ LAC W 24 5 2 5 40.0 0 2 0.0 1 1 100.0 1 4 5 1 1 0 0 2 1
+p74
+aVMatt Bonner SAS 05/20/2012 SAS @ LAC W 16 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 4 3
+p75
+aVBoris Diaw SAS 05/20/2012 SAS @ LAC W 21 2 0 3 0.0 0 1 0.0 2 4 50.0 3 2 5 1 0 0 1 4 2
+p76
+aVTony Parker SAS 05/20/2012 SAS @ LAC W 37 17 5 13 38.5 0 0 - 7 9 77.8 1 2 3 5 0 0 6 1 -2
+p77
+aVManu Ginobili SAS 05/20/2012 SAS @ LAC W 29 11 4 9 44.4 0 3 0.0 3 4 75.0 0 2 2 4 1 0 3 0 -3
+p78
+aVMatt Bonner SAS 05/19/2012 SAS @ LAC W 10 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -10
+p79
+aVKawhi Leonard SAS 05/19/2012 SAS @ LAC W 37 14 5 7 71.4 3 5 60.0 1 1 100.0 1 8 9 1 2 1 1 2 4
+p80
+aVTim Duncan SAS 05/19/2012 SAS @ LAC W 38 19 8 16 50.0 0 0 - 3 5 60.0 3 10 13 4 0 3 1 3 20
+p81
+aVTony Parker SAS 05/19/2012 SAS @ LAC W 36 23 8 20 40.0 1 3 33.3 6 9 66.7 0 3 3 10 1 0 3 2 24
+p82
+aVStephen Jackson SAS 05/19/2012 SAS @ LAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 0 -4
+p83
+aVTiago Splitter SAS 05/19/2012 SAS @ LAC W 14 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 1 1 0 0 2 -13
+p84
+aVGary Neal SAS 05/19/2012 SAS @ LAC W 21 7 2 5 40.0 1 4 25.0 2 3 66.7 0 2 2 2 0 0 2 2 -9
+p85
+aVPatty Mills SAS 05/19/2012 SAS @ LAC W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p86
+aVDanny Green SAS 05/19/2012 SAS @ LAC W 17 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 0 0 1 0 2 24
+p87
+aVManu Ginobili SAS 05/19/2012 SAS @ LAC W 30 13 4 9 44.4 1 3 33.3 4 5 80.0 1 3 4 6 0 1 3 2 -3
+p88
+aVBoris Diaw SAS 05/19/2012 SAS @ LAC W 29 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 2 1 1 0 4 17
+p89
+aVPatty Mills SAS 05/17/2012 SAS vs. LAC W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 0
+p90
+aVStephen Jackson SAS 05/17/2012 SAS vs. LAC W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 0 -4
+p91
+aVBoris Diaw SAS 05/17/2012 SAS vs. LAC W 27 16 7 7 100.0 2 2 100.0 0 0 - 2 2 4 4 0 0 1 3 12
+p92
+aVGary Neal SAS 05/17/2012 SAS vs. LAC W 13 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 1 0 -3
+p93
+aVJames Anderson SAS 05/17/2012 SAS vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p94
+aVKawhi Leonard SAS 05/17/2012 SAS vs. LAC W 26 5 2 5 40.0 0 2 0.0 1 2 50.0 1 5 6 0 2 1 1 1 20
+p95
+aVDeJuan Blair SAS 05/17/2012 SAS vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p96
+aVTony Parker SAS 05/17/2012 SAS vs. LAC W 37 22 8 19 42.1 0 2 0.0 6 6 100.0 0 5 5 5 3 0 3 0 25
+p97
+aVMatt Bonner SAS 05/17/2012 SAS vs. LAC W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 1 0 0 3 -5
+p98
+aVTim Duncan SAS 05/17/2012 SAS vs. LAC W 33 18 9 14 64.3 0 0 - 0 0 - 0 5 5 3 2 0 2 0 23
+p99
+aVTiago Splitter SAS 05/17/2012 SAS vs. LAC W 19 9 4 6 66.7 0 0 - 1 5 20.0 1 2 3 0 0 1 0 4 4
+p100
+aVDanny Green SAS 05/17/2012 SAS vs. LAC W 25 13 4 6 66.7 4 6 66.7 1 2 50.0 1 1 2 0 2 0 2 3 9
+p101
+aVManu Ginobili SAS 05/17/2012 SAS vs. LAC W 26 10 3 11 27.3 2 7 28.6 2 2 100.0 1 2 3 5 1 1 0 2 4
+p102
+aVBoris Diaw SAS 05/15/2012 SAS vs. LAC W 27 7 3 9 33.3 1 2 50.0 0 0 - 5 7 12 5 3 1 0 0 24
+p103
+aVKawhi Leonard SAS 05/15/2012 SAS vs. LAC W 28 16 5 8 62.5 3 3 100.0 3 4 75.0 3 3 6 1 3 1 2 1 9
+p104
+aVManu Ginobili SAS 05/15/2012 SAS vs. LAC W 27 22 6 13 46.2 3 8 37.5 7 8 87.5 0 3 3 3 0 0 2 3 12
+p105
+aVPatty Mills SAS 05/15/2012 SAS vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p106
+aVTim Duncan SAS 05/15/2012 SAS vs. LAC W 35 26 12 20 60.0 0 0 - 2 2 100.0 2 8 10 2 2 2 1 2 26
+p107
+aVTony Parker SAS 05/15/2012 SAS vs. LAC W 38 7 1 9 11.1 0 1 0.0 5 5 100.0 0 2 2 11 1 0 4 1 26
+p108
+aVGary Neal SAS 05/15/2012 SAS vs. LAC W 12 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 2 1 -8
+p109
+aVDeJuan Blair SAS 05/15/2012 SAS vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p110
+aVStephen Jackson SAS 05/15/2012 SAS vs. LAC W 20 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 3 0 0 1 3 -6
+p111
+aVJames Anderson SAS 05/15/2012 SAS vs. LAC W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p112
+aVTiago Splitter SAS 05/15/2012 SAS vs. LAC W 12 4 2 2 100.0 0 0 - 0 2 0.0 1 0 1 0 0 0 3 2 -11
+p113
+aVDanny Green SAS 05/15/2012 SAS vs. LAC W 29 15 6 11 54.5 3 6 50.0 0 0 - 0 6 6 2 0 2 3 2 14
+p114
+aVMatt Bonner SAS 05/15/2012 SAS vs. LAC W 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -7
+p115
+aVMatt Bonner SAS 05/07/2012 SAS @ UTA W 20 5 1 4 25.0 1 3 33.3 2 3 66.7 0 4 4 1 1 1 0 2 20
+p116
+aVStephen Jackson SAS 05/07/2012 SAS @ UTA W 26 8 2 5 40.0 2 4 50.0 2 2 100.0 0 6 6 1 0 0 2 3 12
+p117
+aVBoris Diaw SAS 05/07/2012 SAS @ UTA W 21 0 0 1 0.0 0 0 - 0 0 - 1 3 4 2 0 0 0 0 -12
+p118
+aVManu Ginobili SAS 05/07/2012 SAS @ UTA W 27 17 6 11 54.5 3 6 50.0 2 4 50.0 0 4 4 1 0 0 3 2 -2
+p119
+aVKawhi Leonard SAS 05/07/2012 SAS @ UTA W 20 3 1 7 14.3 1 2 50.0 0 0 - 1 4 5 0 0 0 1 3 -6
+p120
+aVGary Neal SAS 05/07/2012 SAS @ UTA W 18 11 4 6 66.7 1 2 50.0 2 2 100.0 1 2 3 1 0 0 1 4 13
+p121
+aVTim Duncan SAS 05/07/2012 SAS @ UTA W 28 11 4 10 40.0 0 0 - 3 3 100.0 1 4 5 1 1 3 1 4 -13
+p122
+aVJames Anderson SAS 05/07/2012 SAS @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p123
+aVPatty Mills SAS 05/07/2012 SAS @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p124
+aVDeJuan Blair SAS 05/07/2012 SAS @ UTA W 7 6 2 2 100.0 0 0 - 2 4 50.0 2 1 3 0 0 0 0 0 -2
+p125
+aVTony Parker SAS 05/07/2012 SAS @ UTA W 27 11 4 14 28.6 1 1 100.0 2 5 40.0 1 2 3 3 2 0 2 3 -13
+p126
+aVTiago Splitter SAS 05/07/2012 SAS @ UTA W 20 10 3 9 33.3 0 0 - 4 5 80.0 0 2 2 0 3 0 0 1 21
+p127
+aVDanny Green SAS 05/07/2012 SAS @ UTA W 25 5 1 5 20.0 1 4 25.0 2 2 100.0 0 4 4 2 0 0 2 1 16
+p128
+aVMatt Bonner SAS 05/05/2012 SAS @ UTA W 16 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 2 0 4 9
+p129
+aVGary Neal SAS 05/05/2012 SAS @ UTA W 7 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 1 1 0
+p130
+aVStephen Jackson SAS 05/05/2012 SAS @ UTA W 23 13 5 9 55.6 3 5 60.0 0 0 - 2 1 3 0 0 2 1 2 8
+p131
+aVTony Parker SAS 05/05/2012 SAS @ UTA W 40 27 10 17 58.8 0 0 - 7 8 87.5 0 3 3 6 0 0 5 0 11
+p132
+aVKawhi Leonard SAS 05/05/2012 SAS @ UTA W 15 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 0
+p133
+aVBoris Diaw SAS 05/05/2012 SAS @ UTA W 21 2 0 3 0.0 0 1 0.0 2 2 100.0 2 2 4 1 0 1 1 2 5
+p134
+aVTiago Splitter SAS 05/05/2012 SAS @ UTA W 18 10 5 8 62.5 0 0 - 0 2 0.0 0 8 8 1 0 1 1 4 4
+p135
+aVDeJuan Blair SAS 05/05/2012 SAS @ UTA W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p136
+aVManu Ginobili SAS 05/05/2012 SAS @ UTA W 28 6 2 6 33.3 0 2 0.0 2 2 100.0 0 5 5 10 0 1 1 2 9
+p137
+aVTim Duncan SAS 05/05/2012 SAS @ UTA W 35 17 7 15 46.7 0 1 0.0 3 4 75.0 2 4 6 3 1 3 1 2 8
+p138
+aVJames Anderson SAS 05/05/2012 SAS @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p139
+aVDanny Green SAS 05/05/2012 SAS @ UTA W 31 14 5 12 41.7 1 5 20.0 3 4 75.0 1 5 6 0 1 1 0 2 8
+p140
+aVDeJuan Blair SAS 05/02/2012 SAS vs. UTA W 23 10 5 8 62.5 0 0 - 0 0 - 1 6 7 2 0 0 0 3 -5
+p141
+aVPatty Mills SAS 05/02/2012 SAS vs. UTA W 14 9 4 5 80.0 1 1 100.0 0 0 - 1 0 1 1 1 0 1 2 -3
+p142
+aVMatt Bonner SAS 05/02/2012 SAS vs. UTA W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p143
+aVKawhi Leonard SAS 05/02/2012 SAS vs. UTA W 25 17 6 7 85.7 3 4 75.0 2 2 100.0 0 3 3 1 2 0 1 3 36
+p144
+aVBoris Diaw SAS 05/02/2012 SAS vs. UTA W 28 11 5 6 83.3 1 2 50.0 0 0 - 2 4 6 4 1 0 2 2 41
+p145
+aVDanny Green SAS 05/02/2012 SAS vs. UTA W 21 13 5 8 62.5 3 5 60.0 0 0 - 0 4 4 2 1 3 2 1 31
+p146
+aVTim Duncan SAS 05/02/2012 SAS vs. UTA W 27 12 5 10 50.0 0 0 - 2 2 100.0 0 13 13 1 0 1 1 1 36
+p147
+aVJames Anderson SAS 05/02/2012 SAS vs. UTA W 10 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -5
+p148
+aVStephen Jackson SAS 05/02/2012 SAS vs. UTA W 21 5 2 8 25.0 1 2 50.0 0 0 - 0 2 2 3 1 0 0 4 -2
+p149
+aVGary Neal SAS 05/02/2012 SAS vs. UTA W 15 11 5 8 62.5 1 2 50.0 0 0 - 0 1 1 1 1 0 0 0 -5
+p150
+aVManu Ginobili SAS 05/02/2012 SAS vs. UTA W 19 4 2 6 33.3 0 4 0.0 0 0 - 0 2 2 3 2 1 4 0 2
+p151
+aVTony Parker SAS 05/02/2012 SAS vs. UTA W 28 18 6 10 60.0 0 0 - 6 6 100.0 1 3 4 9 0 0 1 1 34
+p152
+aVDeJuan Blair SAS 04/29/2012 SAS vs. UTA W 10 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 0 2 0 0 3 1
+p153
+aVBoris Diaw SAS 04/29/2012 SAS vs. UTA W 26 9 4 5 80.0 0 0 - 1 1 100.0 1 4 5 1 1 0 2 0 12
+p154
+aVTony Parker SAS 04/29/2012 SAS vs. UTA W 37 28 10 19 52.6 0 0 - 8 10 80.0 1 3 4 8 1 0 2 1 13
+p155
+aVGary Neal SAS 04/29/2012 SAS vs. UTA W 12 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 4 4
+p156
+aVKawhi Leonard SAS 04/29/2012 SAS vs. UTA W 20 6 2 5 40.0 0 3 0.0 2 2 100.0 0 2 2 1 2 0 0 1 7
+p157
+aVStephen Jackson SAS 04/29/2012 SAS vs. UTA W 27 14 4 8 50.0 2 4 50.0 4 4 100.0 1 3 4 2 0 1 0 3 7
+p158
+aVPatty Mills SAS 04/29/2012 SAS vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p159
+aVDanny Green SAS 04/29/2012 SAS vs. UTA W 21 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 0 3 -3
+p160
+aVTim Duncan SAS 04/29/2012 SAS vs. UTA W 31 17 7 14 50.0 0 0 - 3 5 60.0 4 7 11 5 2 0 2 0 17
+p161
+aVTiago Splitter SAS 04/29/2012 SAS vs. UTA W 7 4 2 4 50.0 0 0 - 0 2 0.0 1 0 1 0 0 1 0 0 -3
+p162
+aVMatt Bonner SAS 04/29/2012 SAS vs. UTA W 20 9 3 5 60.0 3 4 75.0 0 0 - 1 3 4 1 0 0 1 2 5
+p163
+aVManu Ginobili SAS 04/29/2012 SAS vs. UTA W 25 7 3 10 30.0 0 2 0.0 1 2 50.0 1 2 3 4 2 0 3 1 17
+p164
+aVJames Anderson SAS 04/29/2012 SAS vs. UTA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p165
+a.

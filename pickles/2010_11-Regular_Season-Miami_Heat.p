@@ -1,0 +1,1696 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDexter Pittman MIA 04/13/2011 MIA @ TOR W 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 9
+p2
+aVMike Bibby MIA 04/13/2011 MIA @ TOR W 16 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 1 1 0 4 0 3
+p3
+aVZydrunas Ilgauskas MIA 04/13/2011 MIA @ TOR W 20 9 3 7 42.9 0 0 - 3 4 75.0 3 1 4 2 0 0 1 3 0
+p4
+aVJamaal Magloire MIA 04/13/2011 MIA @ TOR W 29 8 3 4 75.0 0 0 - 2 4 50.0 5 14 19 0 2 0 1 4 22
+p5
+aVJoel Anthony MIA 04/13/2011 MIA @ TOR W 21 1 0 4 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 3 -3
+p6
+aVMario Chalmers MIA 04/13/2011 MIA @ TOR W 32 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 13 2 1 4 0 15
+p7
+aVEddie House MIA 04/13/2011 MIA @ TOR W 45 35 14 27 51.9 7 13 53.8 0 0 - 0 0 0 1 0 0 2 1 16
+p8
+aVJames Jones MIA 04/13/2011 MIA @ TOR W 36 12 4 11 36.4 4 6 66.7 0 0 - 0 4 4 2 1 0 1 4 5
+p9
+aVJuwan Howard MIA 04/13/2011 MIA @ TOR W 32 18 7 12 58.3 0 0 - 4 4 100.0 2 4 6 0 0 0 1 2 23
+p10
+aVJuwan Howard MIA 04/11/2011 MIA @ ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p11
+aVZydrunas Ilgauskas MIA 04/11/2011 MIA @ ATL W 22 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 1 0 0 0 4 6
+p12
+aVLeBron James MIA 04/11/2011 MIA @ ATL W 43 34 10 21 47.6 2 4 50.0 12 14 85.7 1 9 10 7 3 0 7 1 7
+p13
+aVJoel Anthony MIA 04/11/2011 MIA @ ATL W 23 4 2 2 100.0 0 0 - 0 0 - 2 6 8 0 0 0 0 4 -8
+p14
+aVDwyane Wade MIA 04/11/2011 MIA @ ATL W 37 21 9 15 60.0 0 2 0.0 3 3 100.0 1 4 5 6 1 3 3 1 18
+p15
+aVMario Chalmers MIA 04/11/2011 MIA @ ATL W 17 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 5 1 0 1 1 4
+p16
+aVChris Bosh MIA 04/11/2011 MIA @ ATL W 31 15 7 10 70.0 0 0 - 1 1 100.0 2 7 9 2 0 0 3 5 17
+p17
+aVMike Miller MIA 04/11/2011 MIA @ ATL W 12 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 2 -4
+p18
+aVJames Jones MIA 04/11/2011 MIA @ ATL W 21 7 2 5 40.0 2 5 40.0 1 1 100.0 1 0 1 0 0 0 1 0 -1
+p19
+aVMike Bibby MIA 04/11/2011 MIA @ ATL W 31 10 4 8 50.0 1 3 33.3 1 3 33.3 0 1 1 2 0 0 2 1 6
+p20
+aVMike Bibby MIA 04/10/2011 MIA vs. BOS W 31 6 2 10 20.0 2 7 28.6 0 0 - 0 3 3 5 2 0 3 1 12
+p21
+aVJuwan Howard MIA 04/10/2011 MIA vs. BOS W 13 6 3 3 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 8
+p22
+aVJoel Anthony MIA 04/10/2011 MIA vs. BOS W 35 7 3 5 60.0 0 0 - 1 2 50.0 4 6 10 1 0 0 0 0 21
+p23
+aVMike Miller MIA 04/10/2011 MIA vs. BOS W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 2 6
+p24
+aVLeBron James MIA 04/10/2011 MIA vs. BOS W 37 27 11 19 57.9 0 2 0.0 5 9 55.6 0 5 5 7 4 1 4 1 24
+p25
+aVChris Bosh MIA 04/10/2011 MIA vs. BOS W 32 13 5 8 62.5 0 0 - 3 5 60.0 5 3 8 0 1 1 2 4 11
+p26
+aVMario Chalmers MIA 04/10/2011 MIA vs. BOS W 20 9 3 8 37.5 2 6 33.3 1 1 100.0 0 0 0 2 0 0 3 3 14
+p27
+aVJames Jones MIA 04/10/2011 MIA vs. BOS W 15 5 1 1 100.0 1 1 100.0 2 3 66.7 0 2 2 0 0 1 1 2 9
+p28
+aVJamaal Magloire MIA 04/10/2011 MIA vs. BOS W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p29
+aVDwyane Wade MIA 04/10/2011 MIA vs. BOS W 37 14 4 12 33.3 0 1 0.0 6 6 100.0 1 4 5 8 1 1 3 3 8
+p30
+aVZydrunas Ilgauskas MIA 04/10/2011 MIA vs. BOS W 11 8 4 7 57.1 0 0 - 0 0 - 4 1 5 0 1 0 0 1 0
+p31
+aVJames Jones MIA 04/08/2011 MIA vs. CHA W 20 6 2 3 66.7 2 2 100.0 0 0 - 1 0 1 0 0 0 0 0 1
+p32
+aVMike Bibby MIA 04/08/2011 MIA vs. CHA W 33 4 1 5 20.0 0 2 0.0 2 2 100.0 0 3 3 2 0 1 3 4 13
+p33
+aVDwyane Wade MIA 04/08/2011 MIA vs. CHA W 33 27 6 11 54.5 0 1 0.0 15 16 93.8 0 3 3 4 3 1 4 2 15
+p34
+aVMario Chalmers MIA 04/08/2011 MIA vs. CHA W 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 5 0 0 2 2 -4
+p35
+aVLeBron James MIA 04/08/2011 MIA vs. CHA W 37 23 9 16 56.3 0 1 0.0 5 6 83.3 1 6 7 9 2 1 1 2 12
+p36
+aVJoel Anthony MIA 04/08/2011 MIA vs. CHA W 27 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 1 2 3 -9
+p37
+aVZydrunas Ilgauskas MIA 04/08/2011 MIA vs. CHA W 18 10 5 7 71.4 0 0 - 0 0 - 1 3 4 1 0 0 1 3 12
+p38
+aVChris Bosh MIA 04/08/2011 MIA vs. CHA W 37 27 9 14 64.3 0 0 - 9 10 90.0 1 9 10 2 1 0 3 2 4
+p39
+aVMike Miller MIA 04/08/2011 MIA vs. CHA W 20 9 4 9 44.4 1 3 33.3 0 1 0.0 0 2 2 2 1 0 0 2 1
+p40
+aVMike Bibby MIA 04/06/2011 MIA vs. MIL L 31 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 1 0 0 6 4 -9
+p41
+aVZydrunas Ilgauskas MIA 04/06/2011 MIA vs. MIL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p42
+aVJuwan Howard MIA 04/06/2011 MIA vs. MIL L 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 2
+p43
+aVLeBron James MIA 04/06/2011 MIA vs. MIL L 39 29 10 22 45.5 3 7 42.9 6 8 75.0 1 1 2 8 2 2 4 2 -10
+p44
+aVJames Jones MIA 04/06/2011 MIA vs. MIL L 33 5 1 5 20.0 1 4 25.0 2 2 100.0 1 4 5 1 0 0 0 1 -3
+p45
+aVMike Miller MIA 04/06/2011 MIA vs. MIL L 26 8 3 7 42.9 2 6 33.3 0 0 - 2 10 12 2 1 0 1 2 3
+p46
+aVChris Bosh MIA 04/06/2011 MIA vs. MIL L 40 18 6 15 40.0 0 0 - 6 8 75.0 2 5 7 1 1 1 2 1 -5
+p47
+aVMario Chalmers MIA 04/06/2011 MIA vs. MIL L 17 2 1 9 11.1 0 2 0.0 0 0 - 0 2 2 0 1 0 1 3 4
+p48
+aVErick Dampier MIA 04/06/2011 MIA vs. MIL L 15 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 0 0 2 0 0 -6
+p49
+aVJoel Anthony MIA 04/06/2011 MIA vs. MIL L 27 8 3 3 100.0 0 0 - 2 2 100.0 5 6 11 0 1 1 0 0 3
+p50
+aVZydrunas Ilgauskas MIA 04/03/2011 MIA @ NJN W 20 11 5 9 55.6 0 0 - 1 2 50.0 2 2 4 1 1 1 2 4 1
+p51
+aVDwyane Wade MIA 04/03/2011 MIA @ NJN W 27 18 7 13 53.8 1 2 50.0 3 4 75.0 0 3 3 5 0 0 2 1 14
+p52
+aVMike Bibby MIA 04/03/2011 MIA @ NJN W 27 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 4 0 0 0 2 11
+p53
+aVMario Chalmers MIA 04/03/2011 MIA @ NJN W 17 3 1 5 20.0 0 1 0.0 1 3 33.3 0 0 0 1 0 0 0 4 4
+p54
+aVLeBron James MIA 04/03/2011 MIA @ NJN W 39 31 13 18 72.2 0 2 0.0 5 8 62.5 2 9 11 7 3 0 7 2 13
+p55
+aVJames Jones MIA 04/03/2011 MIA @ NJN W 24 10 3 4 75.0 3 4 75.0 1 2 50.0 0 4 4 2 0 0 0 4 4
+p56
+aVErick Dampier MIA 04/03/2011 MIA @ NJN W 28 10 3 6 50.0 0 0 - 4 6 66.7 2 12 14 0 0 2 1 2 8
+p57
+aVChris Bosh MIA 04/03/2011 MIA @ NJN W 37 16 6 9 66.7 0 0 - 4 7 57.1 1 6 7 2 0 1 2 2 19
+p58
+aVMike Miller MIA 04/03/2011 MIA @ NJN W 21 4 2 6 33.3 0 3 0.0 0 0 - 1 4 5 0 1 0 1 2 -4
+p59
+aVZydrunas Ilgauskas MIA 04/01/2011 MIA @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p60
+aVDexter Pittman MIA 04/01/2011 MIA @ MIN W 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -1
+p61
+aVErick Dampier MIA 04/01/2011 MIA @ MIN W 17 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 2 0 0 1 2 34
+p62
+aVDwyane Wade MIA 04/01/2011 MIA @ MIN W 34 32 14 21 66.7 0 3 0.0 4 5 80.0 2 3 5 2 2 2 4 2 24
+p63
+aVJuwan Howard MIA 04/01/2011 MIA @ MIN W 13 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 2 -6
+p64
+aVJoel Anthony MIA 04/01/2011 MIA @ MIN W 15 1 0 1 0.0 0 0 - 1 1 100.0 1 3 4 0 0 0 1 4 1
+p65
+aVChris Bosh MIA 04/01/2011 MIA @ MIN W 37 24 9 17 52.9 0 0 - 6 6 100.0 1 10 11 1 1 0 4 2 21
+p66
+aVMike Bibby MIA 04/01/2011 MIA @ MIN W 30 9 2 5 40.0 2 4 50.0 3 5 60.0 1 4 5 7 0 0 0 0 16
+p67
+aVLeBron James MIA 04/01/2011 MIA @ MIN W 43 27 11 20 55.0 0 1 0.0 5 7 71.4 2 4 6 10 3 1 3 2 15
+p68
+aVEddie House MIA 04/01/2011 MIA @ MIN W 20 7 2 7 28.6 1 4 25.0 2 2 100.0 0 3 3 3 2 0 1 2 2
+p69
+aVJames Jones MIA 04/01/2011 MIA @ MIN W 28 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 3 -8
+p70
+aVZydrunas Ilgauskas MIA 03/30/2011 MIA @ WAS W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p71
+aVJamaal Magloire MIA 03/30/2011 MIA @ WAS W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 0
+p72
+aVErick Dampier MIA 03/30/2011 MIA @ WAS W 16 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 2 0 2 -3
+p73
+aVEddie House MIA 03/30/2011 MIA @ WAS W 24 6 2 6 33.3 2 2 100.0 0 0 - 1 4 5 2 1 0 1 1 4
+p74
+aVLeBron James MIA 03/30/2011 MIA @ WAS W 44 35 12 16 75.0 1 3 33.3 10 13 76.9 1 7 8 8 5 0 5 3 20
+p75
+aVJuwan Howard MIA 03/30/2011 MIA @ WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -3
+p76
+aVJames Jones MIA 03/30/2011 MIA @ WAS W 32 12 4 6 66.7 4 5 80.0 0 1 0.0 1 1 2 2 1 1 0 3 19
+p77
+aVMike Bibby MIA 03/30/2011 MIA @ WAS W 28 6 2 7 28.6 2 6 33.3 0 0 - 0 2 2 1 0 0 2 0 11
+p78
+aVDwyane Wade MIA 03/30/2011 MIA @ WAS W 39 33 11 17 64.7 1 3 33.3 10 12 83.3 1 2 3 9 0 2 2 3 19
+p79
+aVChris Bosh MIA 03/30/2011 MIA @ WAS W 41 26 8 15 53.3 0 0 - 10 11 90.9 2 6 8 4 0 1 0 1 21
+p80
+aVJoel Anthony MIA 03/30/2011 MIA @ WAS W 11 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 1 1 3 -8
+p81
+aVJoel Anthony MIA 03/29/2011 MIA @ CLE L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 13
+p82
+aVJames Jones MIA 03/29/2011 MIA @ CLE L 33 2 1 6 16.7 0 5 0.0 0 0 - 1 1 2 0 0 0 1 4 -1
+p83
+aVDwyane Wade MIA 03/29/2011 MIA @ CLE L 43 24 8 20 40.0 2 4 50.0 6 8 75.0 3 1 4 6 3 2 3 3 -12
+p84
+aVZydrunas Ilgauskas MIA 03/29/2011 MIA @ CLE L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p85
+aVEddie House MIA 03/29/2011 MIA @ CLE L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p86
+aVMike Bibby MIA 03/29/2011 MIA @ CLE L 43 23 7 11 63.6 7 11 63.6 2 2 100.0 0 2 2 1 2 0 1 2 -11
+p87
+aVChris Bosh MIA 03/29/2011 MIA @ CLE L 33 10 5 14 35.7 0 0 - 0 2 0.0 3 1 4 4 0 1 1 3 -24
+p88
+aVJuwan Howard MIA 03/29/2011 MIA @ CLE L 9 4 2 2 100.0 0 0 - 0 0 - 0 5 5 1 0 0 0 2 -3
+p89
+aVLeBron James MIA 03/29/2011 MIA @ CLE L 43 27 10 21 47.6 1 5 20.0 6 10 60.0 0 10 10 12 0 0 3 3 -9
+p90
+aVErick Dampier MIA 03/29/2011 MIA @ CLE L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -5
+p91
+aVErick Dampier MIA 03/27/2011 MIA vs. HOU W 12 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -1
+p92
+aVJuwan Howard MIA 03/27/2011 MIA vs. HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p93
+aVMike Bibby MIA 03/27/2011 MIA vs. HOU W 35 14 5 7 71.4 4 5 80.0 0 0 - 0 0 0 1 0 1 1 2 -4
+p94
+aVLeBron James MIA 03/27/2011 MIA vs. HOU W 40 33 13 21 61.9 0 1 0.0 7 9 77.8 1 9 10 7 0 0 2 1 5
+p95
+aVJames Jones MIA 03/27/2011 MIA vs. HOU W 24 5 1 3 33.3 0 2 0.0 3 3 100.0 0 1 1 0 0 1 0 1 6
+p96
+aVMike Miller MIA 03/27/2011 MIA vs. HOU W 23 4 2 4 50.0 0 2 0.0 0 2 0.0 1 3 4 0 0 0 2 2 -3
+p97
+aVJoel Anthony MIA 03/27/2011 MIA vs. HOU W 15 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 15
+p98
+aVDwyane Wade MIA 03/27/2011 MIA vs. HOU W 37 30 10 25 40.0 1 5 20.0 9 10 90.0 4 7 11 5 0 2 3 4 18
+p99
+aVZydrunas Ilgauskas MIA 03/27/2011 MIA vs. HOU W 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -2
+p100
+aVEddie House MIA 03/27/2011 MIA vs. HOU W 6 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p101
+aVChris Bosh MIA 03/27/2011 MIA vs. HOU W 38 31 11 21 52.4 0 0 - 9 10 90.0 8 4 12 3 0 0 1 3 -1
+p102
+aVMike Bibby MIA 03/25/2011 MIA vs. PHI W 30 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 6 2 0 2 2 6
+p103
+aVLeBron James MIA 03/25/2011 MIA vs. PHI W 41 32 11 17 64.7 1 4 25.0 9 9 100.0 2 8 10 2 3 1 4 3 17
+p104
+aVJames Jones MIA 03/25/2011 MIA vs. PHI W 19 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 1 0 0 0 0 5
+p105
+aVJoel Anthony MIA 03/25/2011 MIA vs. PHI W 10 0 0 1 0.0 0 0 - 0 2 0.0 2 0 2 0 0 0 1 2 -15
+p106
+aVErick Dampier MIA 03/25/2011 MIA vs. PHI W 17 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 -2
+p107
+aVMike Miller MIA 03/25/2011 MIA vs. PHI W 21 4 1 6 16.7 1 3 33.3 1 2 50.0 1 2 3 2 1 0 2 1 -7
+p108
+aVJuwan Howard MIA 03/25/2011 MIA vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p109
+aVDwyane Wade MIA 03/25/2011 MIA vs. PHI W 41 39 15 26 57.7 1 3 33.3 8 11 72.7 4 7 11 8 3 5 2 3 24
+p110
+aVChris Bosh MIA 03/25/2011 MIA vs. PHI W 39 20 8 15 53.3 0 0 - 4 4 100.0 3 7 10 2 0 0 2 2 33
+p111
+aVEddie House MIA 03/25/2011 MIA vs. PHI W 18 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 1 2 0 1 1 6
+p112
+aVJamaal Magloire MIA 03/25/2011 MIA vs. PHI W 3 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -5
+p113
+aVJamaal Magloire MIA 03/23/2011 MIA @ DET W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p114
+aVMike Miller MIA 03/23/2011 MIA @ DET W 27 13 4 8 50.0 3 7 42.9 2 2 100.0 0 2 2 0 0 0 2 3 8
+p115
+aVEddie House MIA 03/23/2011 MIA @ DET W 15 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 2 1 0 0 0 10
+p116
+aVErick Dampier MIA 03/23/2011 MIA @ DET W 16 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 3 1 -6
+p117
+aVChris Bosh MIA 03/23/2011 MIA @ DET W 39 23 6 11 54.5 0 0 - 11 12 91.7 2 5 7 2 0 0 2 2 13
+p118
+aVLeBron James MIA 03/23/2011 MIA @ DET W 42 19 8 16 50.0 0 3 0.0 3 4 75.0 3 5 8 7 0 0 3 3 6
+p119
+aVJames Jones MIA 03/23/2011 MIA @ DET W 19 9 2 5 40.0 2 5 40.0 3 5 60.0 0 4 4 0 2 0 0 1 18
+p120
+aVMike Bibby MIA 03/23/2011 MIA @ DET W 26 5 2 5 40.0 1 3 33.3 0 0 - 0 4 4 4 0 0 0 5 -13
+p121
+aVDwyane Wade MIA 03/23/2011 MIA @ DET W 40 24 7 13 53.8 0 0 - 10 12 83.3 2 2 4 4 3 0 0 3 -1
+p122
+aVJoel Anthony MIA 03/23/2011 MIA @ DET W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p123
+aVLeBron James MIA 03/19/2011 MIA vs. DEN W 41 33 15 25 60.0 1 4 25.0 2 2 100.0 0 6 6 2 2 0 5 3 16
+p124
+aVChris Bosh MIA 03/19/2011 MIA vs. DEN W 37 18 4 9 44.4 0 1 0.0 10 11 90.9 2 9 11 6 0 0 2 3 14
+p125
+aVErick Dampier MIA 03/19/2011 MIA vs. DEN W 19 0 0 0 - 0 0 - 0 0 - 0 9 9 1 0 2 1 2 13
+p126
+aVDwyane Wade MIA 03/19/2011 MIA vs. DEN W 39 32 10 20 50.0 1 3 33.3 11 13 84.6 1 1 2 2 1 3 2 3 10
+p127
+aVJames Jones MIA 03/19/2011 MIA vs. DEN W 9 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 2 -5
+p128
+aVEddie House MIA 03/19/2011 MIA vs. DEN W 3 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 1 0 0 0 0
+p129
+aVMike Miller MIA 03/19/2011 MIA vs. DEN W 18 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 1 1 0 1 -20
+p130
+aVJamaal Magloire MIA 03/19/2011 MIA vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 1
+p131
+aVMike Bibby MIA 03/19/2011 MIA vs. DEN W 34 14 5 9 55.6 4 8 50.0 0 0 - 0 1 1 2 1 1 0 1 -4
+p132
+aVMario Chalmers MIA 03/19/2011 MIA vs. DEN W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 9
+p133
+aVJoel Anthony MIA 03/19/2011 MIA vs. DEN W 26 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 4 2 4 -9
+p134
+aVJuwan Howard MIA 03/18/2011 MIA @ ATL W 8 3 1 5 20.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -7
+p135
+aVEddie House MIA 03/18/2011 MIA @ ATL W 8 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -7
+p136
+aVErick Dampier MIA 03/18/2011 MIA @ ATL W 16 4 2 3 66.7 0 0 - 0 0 - 1 6 7 0 0 1 1 2 17
+p137
+aVJames Jones MIA 03/18/2011 MIA @ ATL W 21 9 3 5 60.0 2 4 50.0 1 1 100.0 0 3 3 1 0 1 0 0 -4
+p138
+aVMario Chalmers MIA 03/18/2011 MIA @ ATL W 17 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 4 1 0 2 2 14
+p139
+aVMike Bibby MIA 03/18/2011 MIA @ ATL W 25 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 6 0 0 1 2 13
+p140
+aVLeBron James MIA 03/18/2011 MIA @ ATL W 31 43 16 21 76.2 5 7 71.4 6 7 85.7 0 2 2 3 0 0 4 2 23
+p141
+aVDwyane Wade MIA 03/18/2011 MIA @ ATL W 27 14 5 9 55.6 3 4 75.0 1 2 50.0 0 2 2 5 1 0 2 3 25
+p142
+aVJamaal Magloire MIA 03/18/2011 MIA @ ATL W 17 4 2 2 100.0 0 0 - 0 0 - 2 7 9 0 0 0 0 2 5
+p143
+aVJoel Anthony MIA 03/18/2011 MIA @ ATL W 15 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 0 1 0 4 -1
+p144
+aVMike Miller MIA 03/18/2011 MIA @ ATL W 24 4 1 2 50.0 1 2 50.0 1 1 100.0 2 2 4 4 0 0 4 1 -5
+p145
+aVChris Bosh MIA 03/18/2011 MIA @ ATL W 32 17 5 8 62.5 0 0 - 7 11 63.6 1 9 10 4 0 0 1 3 32
+p146
+aVMike Miller MIA 03/16/2011 MIA vs. OKC L 18 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 1 1 0 0 4 -6
+p147
+aVJoel Anthony MIA 03/16/2011 MIA vs. OKC L 22 6 2 2 100.0 0 0 - 2 2 100.0 3 1 4 1 1 2 0 1 5
+p148
+aVMario Chalmers MIA 03/16/2011 MIA vs. OKC L 22 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 3 2 -1
+p149
+aVMike Bibby MIA 03/16/2011 MIA vs. OKC L 26 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 1 1 0 1 4 -10
+p150
+aVLeBron James MIA 03/16/2011 MIA vs. OKC L 39 19 8 21 38.1 0 3 0.0 3 3 100.0 0 8 8 3 1 1 1 0 -6
+p151
+aVJuwan Howard MIA 03/16/2011 MIA vs. OKC L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 4
+p152
+aVJames Jones MIA 03/16/2011 MIA vs. OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p153
+aVChris Bosh MIA 03/16/2011 MIA vs. OKC L 39 21 6 17 35.3 0 2 0.0 9 10 90.0 3 8 11 1 0 2 3 0 -15
+p154
+aVErick Dampier MIA 03/16/2011 MIA vs. OKC L 14 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 2 1 2 -8
+p155
+aVDwyane Wade MIA 03/16/2011 MIA vs. OKC L 40 21 7 21 33.3 1 5 20.0 6 9 66.7 2 4 6 2 1 1 2 4 -8
+p156
+aVJamaal Magloire MIA 03/16/2011 MIA vs. OKC L 9 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 1 0 0 0 0 -8
+p157
+aVChris Bosh MIA 03/14/2011 MIA vs. SAS W 36 30 10 16 62.5 0 0 - 10 10 100.0 2 10 12 1 2 0 2 0 30
+p158
+aVJamaal Magloire MIA 03/14/2011 MIA vs. SAS W 20 4 2 3 66.7 0 0 - 0 0 - 1 6 7 1 0 1 0 4 17
+p159
+aVErick Dampier MIA 03/14/2011 MIA vs. SAS W 15 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 2
+p160
+aVJoel Anthony MIA 03/14/2011 MIA vs. SAS W 13 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 11
+p161
+aVMario Chalmers MIA 03/14/2011 MIA vs. SAS W 30 11 4 4 100.0 2 2 100.0 1 2 50.0 0 2 2 5 3 0 2 4 22
+p162
+aVMike Miller MIA 03/14/2011 MIA vs. SAS W 21 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 6 1 0 1 2 9
+p163
+aVMike Bibby MIA 03/14/2011 MIA vs. SAS W 10 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 4 8
+p164
+aVJuwan Howard MIA 03/14/2011 MIA vs. SAS W 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p165
+aVJames Jones MIA 03/14/2011 MIA vs. SAS W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p166
+aVLeBron James MIA 03/14/2011 MIA vs. SAS W 42 21 8 19 42.1 0 1 0.0 5 5 100.0 0 6 6 8 0 2 2 3 22
+p167
+aVDwyane Wade MIA 03/14/2011 MIA vs. SAS W 39 29 11 23 47.8 0 1 0.0 7 7 100.0 3 6 9 4 2 2 3 3 27
+p168
+aVDwyane Wade MIA 03/12/2011 MIA vs. MEM W 34 28 9 15 60.0 1 2 50.0 9 9 100.0 0 5 5 9 3 5 3 3 37
+p169
+aVChris Bosh MIA 03/12/2011 MIA vs. MEM W 32 18 7 11 63.6 0 0 - 4 5 80.0 1 9 10 2 1 0 3 3 31
+p170
+aVLeBron James MIA 03/12/2011 MIA vs. MEM W 32 27 10 16 62.5 2 4 50.0 5 6 83.3 1 4 5 5 1 2 3 1 17
+p171
+aVEddie House MIA 03/12/2011 MIA vs. MEM W 6 2 1 4 25.0 0 2 0.0 0 1 0.0 0 0 0 0 0 0 0 0 -2
+p172
+aVErick Dampier MIA 03/12/2011 MIA vs. MEM W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 14
+p173
+aVJamaal Magloire MIA 03/12/2011 MIA vs. MEM W 15 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 9
+p174
+aVMike Miller MIA 03/12/2011 MIA vs. MEM W 19 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 4 1 0 1 3 17
+p175
+aVMario Chalmers MIA 03/12/2011 MIA vs. MEM W 23 7 2 7 28.6 2 3 66.7 1 1 100.0 0 3 3 2 2 0 2 1 13
+p176
+aVJoel Anthony MIA 03/12/2011 MIA vs. MEM W 18 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 3 0 5 9
+p177
+aVMike Bibby MIA 03/12/2011 MIA vs. MEM W 25 17 5 5 100.0 5 5 100.0 2 2 100.0 0 2 2 4 1 0 0 0 20
+p178
+aVJuwan Howard MIA 03/12/2011 MIA vs. MEM W 16 6 1 2 50.0 0 0 - 4 4 100.0 1 2 3 0 1 0 1 4 2
+p179
+aVJames Jones MIA 03/12/2011 MIA vs. MEM W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -2
+p180
+aVErick Dampier MIA 03/10/2011 MIA vs. LAL W 19 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 0 1 3 1 -10
+p181
+aVMario Chalmers MIA 03/10/2011 MIA vs. LAL W 24 9 3 9 33.3 3 6 50.0 0 0 - 1 4 5 0 1 0 1 2 -9
+p182
+aVZydrunas Ilgauskas MIA 03/10/2011 MIA vs. LAL W 25 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 2 1 1 4 16
+p183
+aVChris Bosh MIA 03/10/2011 MIA vs. LAL W 38 24 10 17 58.8 0 0 - 4 6 66.7 4 5 9 0 0 0 4 3 -2
+p184
+aVJoel Anthony MIA 03/10/2011 MIA vs. LAL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p185
+aVLeBron James MIA 03/10/2011 MIA vs. LAL W 42 19 7 17 41.2 0 3 0.0 5 7 71.4 1 7 8 9 1 0 1 1 8
+p186
+aVMike Bibby MIA 03/10/2011 MIA vs. LAL W 22 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 1 0 0 0 2 9
+p187
+aVDwyane Wade MIA 03/10/2011 MIA vs. LAL W 39 20 9 23 39.1 1 4 25.0 1 1 100.0 3 2 5 5 4 1 4 1 -2
+p188
+aVMike Miller MIA 03/10/2011 MIA vs. LAL W 16 12 4 6 66.7 2 3 66.7 2 4 50.0 3 4 7 0 0 0 1 0 12
+p189
+aVJuwan Howard MIA 03/10/2011 MIA vs. LAL W 10 0 0 0 - 0 0 - 0 0 - 2 1 3 1 0 0 0 3 8
+p190
+aVMike Miller MIA 03/08/2011 MIA vs. POR L 24 2 1 7 14.3 0 2 0.0 0 0 - 1 3 4 2 1 0 0 3 -5
+p191
+aVMike Bibby MIA 03/08/2011 MIA vs. POR L 21 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 0 0 0 1 3 -6
+p192
+aVZydrunas Ilgauskas MIA 03/08/2011 MIA vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p193
+aVJoel Anthony MIA 03/08/2011 MIA vs. POR L 13 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -3
+p194
+aVMario Chalmers MIA 03/08/2011 MIA vs. POR L 35 10 4 7 57.1 1 4 25.0 1 1 100.0 0 1 1 4 2 0 2 2 -5
+p195
+aVErick Dampier MIA 03/08/2011 MIA vs. POR L 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 0
+p196
+aVJames Jones MIA 03/08/2011 MIA vs. POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p197
+aVChris Bosh MIA 03/08/2011 MIA vs. POR L 40 7 3 11 27.3 0 0 - 1 1 100.0 1 3 4 0 1 0 2 2 -15
+p198
+aVLeBron James MIA 03/08/2011 MIA vs. POR L 46 31 14 20 70.0 2 4 50.0 1 4 25.0 1 10 11 8 1 0 4 3 -2
+p199
+aVDwyane Wade MIA 03/08/2011 MIA vs. POR L 43 38 12 21 57.1 2 8 25.0 12 13 92.3 1 5 6 5 1 2 3 4 -12
+p200
+aVMike Bibby MIA 03/06/2011 MIA vs. CHI L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 3 3 -2
+p201
+aVJames Jones MIA 03/06/2011 MIA vs. CHI L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p202
+aVErick Dampier MIA 03/06/2011 MIA vs. CHI L 22 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 2 0 0 -8
+p203
+aVZydrunas Ilgauskas MIA 03/06/2011 MIA vs. CHI L 14 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 1 0 2 4 -1
+p204
+aVDwyane Wade MIA 03/06/2011 MIA vs. CHI L 38 20 8 19 42.1 0 1 0.0 4 6 66.7 2 2 4 5 0 1 7 2 -2
+p205
+aVChris Bosh MIA 03/06/2011 MIA vs. CHI L 42 23 9 14 64.3 0 0 - 5 6 83.3 1 4 5 2 1 1 1 2 -4
+p206
+aVMike Miller MIA 03/06/2011 MIA vs. CHI L 31 1 0 5 0.0 0 4 0.0 1 2 50.0 0 2 2 0 2 0 0 5 -1
+p207
+aVLeBron James MIA 03/06/2011 MIA vs. CHI L 42 26 10 18 55.6 1 2 50.0 5 6 83.3 3 5 8 6 2 0 2 2 -4
+p208
+aVMario Chalmers MIA 03/06/2011 MIA vs. CHI L 31 11 4 5 80.0 1 1 100.0 2 3 66.7 0 1 1 5 2 0 1 5 12
+p209
+aVJames Jones MIA 03/04/2011 MIA @ SAS L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -12
+p210
+aVChris Bosh MIA 03/04/2011 MIA @ SAS L 36 17 5 9 55.6 0 0 - 7 9 77.8 1 13 14 2 2 1 2 2 -16
+p211
+aVEddie House MIA 03/04/2011 MIA @ SAS L 21 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 3 0 0 2 1 -6
+p212
+aVDwyane Wade MIA 03/04/2011 MIA @ SAS L 27 19 8 18 44.4 1 3 33.3 2 2 100.0 0 3 3 1 0 0 5 3 -24
+p213
+aVMario Chalmers MIA 03/04/2011 MIA @ SAS L 19 7 2 5 40.0 2 3 66.7 1 1 100.0 0 0 0 1 0 0 1 3 -23
+p214
+aVJuwan Howard MIA 03/04/2011 MIA @ SAS L 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -1
+p215
+aVErick Dampier MIA 03/04/2011 MIA @ SAS L 13 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 1 0 3 -16
+p216
+aVZydrunas Ilgauskas MIA 03/04/2011 MIA @ SAS L 11 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p217
+aVMike Bibby MIA 03/04/2011 MIA @ SAS L 29 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 5 0 0 0 4 -7
+p218
+aVMike Miller MIA 03/04/2011 MIA @ SAS L 33 12 4 8 50.0 3 5 60.0 1 1 100.0 0 4 4 1 0 0 0 2 -20
+p219
+aVLeBron James MIA 03/04/2011 MIA @ SAS L 36 26 11 19 57.9 1 3 33.3 3 7 42.9 3 5 8 7 1 0 4 2 -16
+p220
+aVJames Jones MIA 03/03/2011 MIA vs. ORL L 7 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 6
+p221
+aVLeBron James MIA 03/03/2011 MIA vs. ORL L 40 29 11 16 68.8 0 2 0.0 7 7 100.0 2 4 6 4 0 2 2 2 0
+p222
+aVZydrunas Ilgauskas MIA 03/03/2011 MIA vs. ORL L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p223
+aVChris Bosh MIA 03/03/2011 MIA vs. ORL L 40 13 5 15 33.3 0 1 0.0 3 3 100.0 0 5 5 1 2 0 1 1 -8
+p224
+aVMario Chalmers MIA 03/03/2011 MIA vs. ORL L 24 6 2 11 18.2 1 6 16.7 1 1 100.0 0 4 4 2 0 0 1 1 5
+p225
+aVDwyane Wade MIA 03/03/2011 MIA vs. ORL L 41 28 10 18 55.6 0 1 0.0 8 12 66.7 2 2 4 5 4 1 2 3 -9
+p226
+aVMike Bibby MIA 03/03/2011 MIA vs. ORL L 19 3 1 4 25.0 1 4 25.0 0 2 0.0 1 2 3 1 0 0 1 1 -7
+p227
+aVErick Dampier MIA 03/03/2011 MIA vs. ORL L 31 9 3 3 100.0 0 0 - 3 3 100.0 2 1 3 0 2 2 3 4 9
+p228
+aVJoel Anthony MIA 03/03/2011 MIA vs. ORL L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -7
+p229
+aVMike Miller MIA 03/03/2011 MIA vs. ORL L 24 5 2 3 66.7 1 2 50.0 0 0 - 1 5 6 0 2 0 1 1 -5
+p230
+aVMario Chalmers MIA 02/27/2011 MIA vs. NYK L 25 7 2 7 28.6 2 4 50.0 1 2 50.0 0 2 2 0 1 0 2 2 12
+p231
+aVLeBron James MIA 02/27/2011 MIA vs. NYK L 39 27 10 20 50.0 1 5 20.0 6 8 75.0 0 7 7 5 3 1 5 2 -3
+p232
+aVEddie House MIA 02/27/2011 MIA vs. NYK L 14 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p233
+aVChris Bosh MIA 02/27/2011 MIA vs. NYK L 41 20 8 15 53.3 0 0 - 4 4 100.0 2 10 12 3 2 1 3 3 0
+p234
+aVDwyane Wade MIA 02/27/2011 MIA vs. NYK L 40 12 5 15 33.3 0 3 0.0 2 3 66.7 1 6 7 9 3 0 5 4 0
+p235
+aVJoel Anthony MIA 02/27/2011 MIA vs. NYK L 30 3 1 1 100.0 0 0 - 1 2 50.0 3 3 6 1 0 0 0 1 -17
+p236
+aVMike Miller MIA 02/27/2011 MIA vs. NYK L 27 10 3 6 50.0 3 5 60.0 1 1 100.0 0 4 4 0 0 0 2 4 -22
+p237
+aVErick Dampier MIA 02/27/2011 MIA vs. NYK L 17 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 2 0 0 0 1 16
+p238
+aVJames Jones MIA 02/27/2011 MIA vs. NYK L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 1 0 -6
+p239
+aVMario Chalmers MIA 02/25/2011 MIA vs. WAS W 33 14 5 9 55.6 2 5 40.0 2 2 100.0 1 2 3 3 1 0 1 4 -10
+p240
+aVJames Jones MIA 02/25/2011 MIA vs. WAS W 12 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 9
+p241
+aVChris Bosh MIA 02/25/2011 MIA vs. WAS W 40 15 5 12 41.7 0 0 - 5 5 100.0 0 8 8 0 0 1 1 0 11
+p242
+aVDwyane Wade MIA 02/25/2011 MIA vs. WAS W 40 41 18 27 66.7 2 3 66.7 3 9 33.3 0 5 5 2 2 0 2 1 10
+p243
+aVJuwan Howard MIA 02/25/2011 MIA vs. WAS W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p244
+aVEddie House MIA 02/25/2011 MIA vs. WAS W 23 9 2 6 33.3 1 2 50.0 4 4 100.0 0 1 1 1 1 0 1 1 16
+p245
+aVErick Dampier MIA 02/25/2011 MIA vs. WAS W 22 7 2 2 100.0 0 0 - 3 4 75.0 0 2 2 1 0 1 1 4 -8
+p246
+aVLeBron James MIA 02/25/2011 MIA vs. WAS W 43 25 5 11 45.5 0 1 0.0 15 19 78.9 1 8 9 7 1 3 1 2 -4
+p247
+aVZydrunas Ilgauskas MIA 02/25/2011 MIA vs. WAS W 25 8 3 5 60.0 0 0 - 2 2 100.0 2 3 5 0 0 1 0 5 16
+p248
+aVDwyane Wade MIA 02/24/2011 MIA @ CHI L 42 34 12 25 48.0 0 1 0.0 10 12 83.3 2 6 8 2 2 0 3 2 -4
+p249
+aVLeBron James MIA 02/24/2011 MIA @ CHI L 41 29 12 21 57.1 0 4 0.0 5 6 83.3 0 10 10 5 2 1 2 1 3
+p250
+aVErick Dampier MIA 02/24/2011 MIA @ CHI L 29 5 2 2 100.0 0 0 - 1 1 100.0 2 3 5 0 0 2 3 4 1
+p251
+aVChris Bosh MIA 02/24/2011 MIA @ CHI L 42 7 1 18 5.6 0 0 - 5 6 83.3 1 8 9 1 0 1 1 2 2
+p252
+aVEddie House MIA 02/24/2011 MIA @ CHI L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 4 -10
+p253
+aVMario Chalmers MIA 02/24/2011 MIA @ CHI L 40 12 4 6 66.7 2 2 100.0 2 2 100.0 0 4 4 4 2 0 1 5 0
+p254
+aVJames Jones MIA 02/24/2011 MIA @ CHI L 13 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 1 0 0 2 -6
+p255
+aVJoel Anthony MIA 02/24/2011 MIA @ CHI L 18 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 1 3 -6
+p256
+aVMario Chalmers MIA 02/22/2011 MIA vs. SAC W 28 14 6 7 85.7 0 1 0.0 2 2 100.0 0 3 3 4 1 1 1 1 18
+p257
+aVChris Bosh MIA 02/22/2011 MIA vs. SAC W 35 22 8 14 57.1 0 1 0.0 6 6 100.0 0 9 9 1 4 1 1 1 24
+p258
+aVJamaal Magloire MIA 02/22/2011 MIA vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -4
+p259
+aVCarlos Arroyo MIA 02/22/2011 MIA vs. SAC W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p260
+aVJames Jones MIA 02/22/2011 MIA vs. SAC W 26 9 3 6 50.0 3 5 60.0 0 0 - 0 2 2 1 0 0 0 2 4
+p261
+aVJuwan Howard MIA 02/22/2011 MIA vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p262
+aVErick Dampier MIA 02/22/2011 MIA vs. SAC W 24 0 0 0 - 0 0 - 0 0 - 2 3 5 2 2 1 1 2 18
+p263
+aVEddie House MIA 02/22/2011 MIA vs. SAC W 28 10 5 11 45.5 0 2 0.0 0 0 - 0 3 3 1 0 0 0 2 6
+p264
+aVLeBron James MIA 02/22/2011 MIA vs. SAC W 30 31 14 26 53.8 3 6 50.0 0 3 0.0 2 6 8 3 0 0 3 4 18
+p265
+aVDwyane Wade MIA 02/22/2011 MIA vs. SAC W 35 23 11 20 55.0 1 3 33.3 0 0 - 1 7 8 7 2 1 1 2 22
+p266
+aVJoel Anthony MIA 02/22/2011 MIA vs. SAC W 20 6 3 3 100.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 6
+p267
+aVErick Dampier MIA 02/16/2011 MIA @ TOR W 28 8 3 3 100.0 0 0 - 2 4 50.0 3 7 10 0 0 2 0 3 1
+p268
+aVDwyane Wade MIA 02/16/2011 MIA @ TOR W 40 28 10 18 55.6 0 0 - 8 10 80.0 2 5 7 1 1 2 5 0 10
+p269
+aVChris Bosh MIA 02/16/2011 MIA @ TOR W 39 25 7 16 43.8 0 1 0.0 11 12 91.7 0 6 6 2 1 0 2 2 12
+p270
+aVCarlos Arroyo MIA 02/16/2011 MIA @ TOR W 16 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 3 0 0 2 1 -2
+p271
+aVEddie House MIA 02/16/2011 MIA @ TOR W 25 8 3 8 37.5 1 5 20.0 1 1 100.0 0 3 3 2 0 0 1 0 2
+p272
+aVLeBron James MIA 02/16/2011 MIA @ TOR W 38 23 8 18 44.4 0 2 0.0 7 10 70.0 3 10 13 8 0 0 5 1 6
+p273
+aVJoel Anthony MIA 02/16/2011 MIA @ TOR W 8 0 0 0 - 0 0 - 0 0 - 1 3 4 0 1 1 0 0 0
+p274
+aVMario Chalmers MIA 02/16/2011 MIA @ TOR W 28 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 6 2 0 0 3 6
+p275
+aVJames Jones MIA 02/16/2011 MIA @ TOR W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p276
+aVZydrunas Ilgauskas MIA 02/16/2011 MIA @ TOR W 12 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 2 3 7
+p277
+aVEddie House MIA 02/15/2011 MIA @ IND W 22 5 1 7 14.3 1 5 20.0 2 2 100.0 0 3 3 0 0 1 0 3 -4
+p278
+aVMike Miller MIA 02/15/2011 MIA @ IND W 15 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 -21
+p279
+aVLeBron James MIA 02/15/2011 MIA @ IND W 41 27 11 20 55.0 1 3 33.3 4 6 66.7 1 5 6 5 2 2 5 1 9
+p280
+aVZydrunas Ilgauskas MIA 02/15/2011 MIA @ IND W 12 4 2 4 50.0 0 0 - 0 0 - 4 1 5 0 0 3 0 4 9
+p281
+aVJoel Anthony MIA 02/15/2011 MIA @ IND W 11 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -4
+p282
+aVJames Jones MIA 02/15/2011 MIA @ IND W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p283
+aVChris Bosh MIA 02/15/2011 MIA @ IND W 39 22 8 16 50.0 1 1 100.0 5 5 100.0 2 6 8 3 0 0 1 1 11
+p284
+aVErick Dampier MIA 02/15/2011 MIA @ IND W 25 9 4 5 80.0 0 0 - 1 3 33.3 2 2 4 0 0 1 1 3 2
+p285
+aVMario Chalmers MIA 02/15/2011 MIA @ IND W 26 2 1 5 20.0 0 3 0.0 0 0 - 0 6 6 2 1 1 2 3 15
+p286
+aVDwyane Wade MIA 02/15/2011 MIA @ IND W 42 41 16 29 55.2 1 4 25.0 8 10 80.0 0 12 12 3 2 0 2 2 16
+p287
+aVJoel Anthony MIA 02/13/2011 MIA @ BOS L 21 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 5
+p288
+aVMike Miller MIA 02/13/2011 MIA @ BOS L 25 5 1 5 20.0 1 5 20.0 2 3 66.7 0 9 9 1 0 0 1 2 -11
+p289
+aVDwyane Wade MIA 02/13/2011 MIA @ BOS L 42 16 6 17 35.3 1 2 50.0 3 5 60.0 3 2 5 4 0 0 6 3 -1
+p290
+aVZydrunas Ilgauskas MIA 02/13/2011 MIA @ BOS L 21 9 4 10 40.0 0 0 - 1 1 100.0 1 0 1 1 0 2 0 3 -3
+p291
+aVErick Dampier MIA 02/13/2011 MIA @ BOS L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p292
+aVEddie House MIA 02/13/2011 MIA @ BOS L 21 2 1 6 16.7 0 4 0.0 0 0 - 0 3 3 0 1 0 1 2 1
+p293
+aVMario Chalmers MIA 02/13/2011 MIA @ BOS L 13 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 2 0 0 1 2 0
+p294
+aVChris Bosh MIA 02/13/2011 MIA @ BOS L 41 24 8 11 72.7 0 0 - 8 10 80.0 2 8 10 2 1 1 2 3 3
+p295
+aVLeBron James MIA 02/13/2011 MIA @ BOS L 43 22 10 21 47.6 0 2 0.0 2 3 66.7 1 6 7 7 1 0 4 2 1
+p296
+aVJames Jones MIA 02/13/2011 MIA @ BOS L 7 1 0 1 0.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 2 -6
+p297
+aVDwyane Wade MIA 02/11/2011 MIA @ DET W 36 24 9 15 60.0 0 0 - 6 6 100.0 1 7 8 7 1 0 1 4 19
+p298
+aVEddie House MIA 02/11/2011 MIA @ DET W 18 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 3 0 0 0 1 9
+p299
+aVMario Chalmers MIA 02/11/2011 MIA @ DET W 27 10 4 7 57.1 1 3 33.3 1 2 50.0 0 1 1 2 1 0 4 1 -2
+p300
+aVJames Jones MIA 02/11/2011 MIA @ DET W 8 4 0 1 0.0 0 0 - 4 5 80.0 0 0 0 1 0 0 0 0 1
+p301
+aVJuwan Howard MIA 02/11/2011 MIA @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p302
+aVLeBron James MIA 02/11/2011 MIA @ DET W 35 16 7 17 41.2 0 2 0.0 2 3 66.7 0 8 8 10 4 0 3 0 15
+p303
+aVZydrunas Ilgauskas MIA 02/11/2011 MIA @ DET W 22 10 5 7 71.4 0 0 - 0 0 - 4 2 6 2 0 2 2 3 8
+p304
+aVJoel Anthony MIA 02/11/2011 MIA @ DET W 24 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 1 0 1 1 4 1
+p305
+aVMike Miller MIA 02/11/2011 MIA @ DET W 30 16 6 9 66.7 3 5 60.0 1 1 100.0 0 3 3 2 1 0 1 3 4
+p306
+aVChris Bosh MIA 02/11/2011 MIA @ DET W 37 17 4 10 40.0 0 0 - 9 10 90.0 3 7 10 1 2 0 3 1 21
+p307
+aVChris Bosh MIA 02/08/2011 MIA vs. IND W 41 19 8 14 57.1 0 0 - 3 4 75.0 3 4 7 1 0 0 3 1 -2
+p308
+aVLeBron James MIA 02/08/2011 MIA vs. IND W 42 41 15 23 65.2 2 5 40.0 9 13 69.2 3 10 13 8 3 1 4 1 18
+p309
+aVJames Jones MIA 02/08/2011 MIA vs. IND W 11 8 2 6 33.3 2 6 33.3 2 2 100.0 0 0 0 0 0 0 0 0 3
+p310
+aVErick Dampier MIA 02/08/2011 MIA vs. IND W 26 6 3 3 100.0 0 0 - 0 0 - 2 1 3 1 2 1 0 2 14
+p311
+aVJoel Anthony MIA 02/08/2011 MIA vs. IND W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -5
+p312
+aVMike Miller MIA 02/08/2011 MIA vs. IND W 22 8 3 7 42.9 2 4 50.0 0 0 - 1 4 5 0 0 0 0 4 12
+p313
+aVDwyane Wade MIA 02/08/2011 MIA vs. IND W 41 17 7 17 41.2 0 1 0.0 3 5 60.0 0 3 3 7 1 0 3 1 -2
+p314
+aVZydrunas Ilgauskas MIA 02/08/2011 MIA vs. IND W 16 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -8
+p315
+aVMario Chalmers MIA 02/08/2011 MIA vs. IND W 30 16 6 12 50.0 2 7 28.6 2 2 100.0 0 1 1 2 3 0 0 1 4
+p316
+aVEddie House MIA 02/08/2011 MIA vs. IND W 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 0 -9
+p317
+aVJoel Anthony MIA 02/06/2011 MIA vs. LAC W 31 4 1 3 33.3 0 0 - 2 3 66.7 1 2 3 0 0 3 0 3 13
+p318
+aVLeBron James MIA 02/06/2011 MIA vs. LAC W 36 12 6 15 40.0 0 2 0.0 0 2 0.0 1 5 6 4 4 0 6 2 15
+p319
+aVMike Miller MIA 02/06/2011 MIA vs. LAC W 21 8 2 7 28.6 2 6 33.3 2 2 100.0 0 5 5 1 0 0 0 5 -3
+p320
+aVDwyane Wade MIA 02/06/2011 MIA vs. LAC W 37 28 8 14 57.1 3 4 75.0 9 10 90.0 2 6 8 8 1 3 4 2 20
+p321
+aVZydrunas Ilgauskas MIA 02/06/2011 MIA vs. LAC W 17 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 5
+p322
+aVCarlos Arroyo MIA 02/06/2011 MIA vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p323
+aVChris Bosh MIA 02/06/2011 MIA vs. LAC W 34 16 5 9 55.6 0 0 - 6 11 54.5 4 3 7 3 0 1 1 4 18
+p324
+aVMario Chalmers MIA 02/06/2011 MIA vs. LAC W 20 4 2 7 28.6 0 4 0.0 0 0 - 0 0 0 0 2 0 0 1 4
+p325
+aVJames Jones MIA 02/06/2011 MIA vs. LAC W 16 6 2 5 40.0 2 5 40.0 0 0 - 1 6 7 1 0 0 1 0 3
+p326
+aVJuwan Howard MIA 02/06/2011 MIA vs. LAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p327
+aVEddie House MIA 02/06/2011 MIA vs. LAC W 22 15 6 11 54.5 3 7 42.9 0 0 - 0 4 4 2 1 0 0 4 25
+p328
+aVEddie House MIA 02/04/2011 MIA @ CHA W 21 16 6 8 75.0 4 5 80.0 0 0 - 0 0 0 0 2 0 0 2 5
+p329
+aVZydrunas Ilgauskas MIA 02/04/2011 MIA @ CHA W 17 13 6 7 85.7 0 0 - 1 1 100.0 1 2 3 0 0 1 0 3 1
+p330
+aVJoel Anthony MIA 02/04/2011 MIA @ CHA W 25 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 9
+p331
+aVErick Dampier MIA 02/04/2011 MIA @ CHA W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 2 1 0 0 2
+p332
+aVMario Chalmers MIA 02/04/2011 MIA @ CHA W 27 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 4 3 0 0 3 7
+p333
+aVChris Bosh MIA 02/04/2011 MIA @ CHA W 41 14 7 17 41.2 0 1 0.0 0 1 0.0 0 5 5 1 3 1 0 2 8
+p334
+aVJames Jones MIA 02/04/2011 MIA @ CHA W 7 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 2 0 1 2 4
+p335
+aVLeBron James MIA 02/04/2011 MIA @ CHA W 37 19 7 13 53.8 0 3 0.0 5 6 83.3 1 7 8 9 0 0 3 3 10
+p336
+aVMike Miller MIA 02/04/2011 MIA @ CHA W 19 13 4 4 100.0 3 3 100.0 2 2 100.0 0 2 2 0 0 0 0 4 12
+p337
+aVDwyane Wade MIA 02/04/2011 MIA @ CHA W 40 22 8 20 40.0 1 4 25.0 5 7 71.4 4 8 12 10 0 0 4 4 2
+p338
+aVDwyane Wade MIA 02/03/2011 MIA @ ORL W 35 14 5 12 41.7 0 1 0.0 4 8 50.0 0 4 4 1 1 2 1 2 15
+p339
+aVMike Miller MIA 02/03/2011 MIA @ ORL W 20 5 2 3 66.7 1 1 100.0 0 0 - 3 8 11 1 0 0 1 5 1
+p340
+aVEddie House MIA 02/03/2011 MIA @ ORL W 33 10 4 9 44.4 2 5 40.0 0 0 - 1 5 6 3 0 0 1 1 -3
+p341
+aVErick Dampier MIA 02/03/2011 MIA @ ORL W 25 4 2 3 66.7 0 0 - 0 3 0.0 2 0 2 2 0 2 1 3 -1
+p342
+aVMario Chalmers MIA 02/03/2011 MIA @ ORL W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 4 5
+p343
+aVJames Jones MIA 02/03/2011 MIA @ ORL W 10 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 0 4
+p344
+aVChris Bosh MIA 02/03/2011 MIA @ ORL W 38 13 3 12 25.0 0 0 - 7 8 87.5 0 6 6 4 1 0 2 3 -6
+p345
+aVJoel Anthony MIA 02/03/2011 MIA @ ORL W 20 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 1 1 5 -3
+p346
+aVLeBron James MIA 02/03/2011 MIA @ ORL W 43 51 17 25 68.0 3 5 60.0 14 17 82.4 2 9 11 8 1 1 3 2 2
+p347
+aVZydrunas Ilgauskas MIA 02/03/2011 MIA @ ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 6
+p348
+aVLeBron James MIA 01/31/2011 MIA vs. CLE W 31 24 7 14 50.0 0 0 - 10 11 90.9 1 3 4 8 0 2 2 1 20
+p349
+aVErick Dampier MIA 01/31/2011 MIA vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p350
+aVZydrunas Ilgauskas MIA 01/31/2011 MIA vs. CLE W 18 12 5 14 35.7 0 0 - 2 2 100.0 9 5 14 0 0 1 1 3 10
+p351
+aVDwyane Wade MIA 01/31/2011 MIA vs. CLE W 34 34 13 21 61.9 1 1 100.0 7 8 87.5 2 5 7 5 3 0 4 4 17
+p352
+aVMike Miller MIA 01/31/2011 MIA vs. CLE W 27 10 4 6 66.7 2 3 66.7 0 0 - 2 9 11 1 0 0 0 1 20
+p353
+aVJoel Anthony MIA 01/31/2011 MIA vs. CLE W 25 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 19
+p354
+aVJames Jones MIA 01/31/2011 MIA vs. CLE W 16 4 1 3 33.3 1 2 50.0 1 1 100.0 0 1 1 0 1 0 0 0 13
+p355
+aVJuwan Howard MIA 01/31/2011 MIA vs. CLE W 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 -2
+p356
+aVCarlos Arroyo MIA 01/31/2011 MIA vs. CLE W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p357
+aVEddie House MIA 01/31/2011 MIA vs. CLE W 26 12 5 10 50.0 2 6 33.3 0 0 - 0 1 1 4 0 0 0 3 21
+p358
+aVMario Chalmers MIA 01/31/2011 MIA vs. CLE W 22 6 2 5 40.0 2 5 40.0 0 0 - 1 3 4 1 2 0 3 2 5
+p359
+aVChris Bosh MIA 01/31/2011 MIA vs. CLE W 25 10 4 11 36.4 0 0 - 2 4 50.0 1 6 7 0 0 2 1 3 16
+p360
+aVLeBron James MIA 01/30/2011 MIA @ OKC W 40 23 7 14 50.0 2 5 40.0 7 11 63.6 0 4 4 13 4 3 4 3 6
+p361
+aVMike Miller MIA 01/30/2011 MIA @ OKC W 29 6 2 6 33.3 2 4 50.0 0 0 - 3 5 8 2 2 0 1 0 14
+p362
+aVMario Chalmers MIA 01/30/2011 MIA @ OKC W 23 6 1 2 50.0 1 2 50.0 3 3 100.0 0 0 0 3 0 0 1 3 -1
+p363
+aVChris Bosh MIA 01/30/2011 MIA @ OKC W 36 20 8 13 61.5 0 1 0.0 4 8 50.0 3 4 7 1 0 1 2 5 0
+p364
+aVJames Jones MIA 01/30/2011 MIA @ OKC W 12 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 0 0 0 1 5
+p365
+aVZydrunas Ilgauskas MIA 01/30/2011 MIA @ OKC W 20 8 4 8 50.0 0 0 - 0 0 - 1 4 5 0 1 0 1 3 3
+p366
+aVJoel Anthony MIA 01/30/2011 MIA @ OKC W 27 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 5 1 5 -6
+p367
+aVEddie House MIA 01/30/2011 MIA @ OKC W 12 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 0 1 0 1 0 6
+p368
+aVDwyane Wade MIA 01/30/2011 MIA @ OKC W 41 32 13 22 59.1 0 0 - 6 8 75.0 4 5 9 2 2 0 9 4 -2
+p369
+aVZydrunas Ilgauskas MIA 01/28/2011 MIA vs. DET W 17 5 2 8 25.0 0 0 - 1 2 50.0 3 3 6 0 0 1 0 0 -2
+p370
+aVJames Jones MIA 01/28/2011 MIA vs. DET W 31 5 1 6 16.7 1 5 20.0 2 2 100.0 0 2 2 2 0 0 0 2 -2
+p371
+aVMario Chalmers MIA 01/28/2011 MIA vs. DET W 28 8 3 9 33.3 1 5 20.0 1 1 100.0 0 0 0 4 0 0 2 4 -3
+p372
+aVLeBron James MIA 01/28/2011 MIA vs. DET W 44 39 15 25 60.0 2 4 50.0 7 10 70.0 0 8 8 9 1 2 3 1 4
+p373
+aVMike Miller MIA 01/28/2011 MIA vs. DET W 42 12 4 12 33.3 0 6 0.0 4 5 80.0 1 9 10 3 1 0 2 4 0
+p374
+aVCarlos Arroyo MIA 01/28/2011 MIA vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p375
+aVJuwan Howard MIA 01/28/2011 MIA vs. DET W 15 2 1 1 100.0 0 0 - 0 0 - 4 3 7 0 0 0 0 2 0
+p376
+aVJoel Anthony MIA 01/28/2011 MIA vs. DET W 31 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 2 1 2 3
+p377
+aVEddie House MIA 01/28/2011 MIA vs. DET W 28 15 6 9 66.7 1 4 25.0 2 2 100.0 0 3 3 0 1 0 1 1 7
+p378
+aVMario Chalmers MIA 01/27/2011 MIA @ NYK L 36 7 1 4 25.0 0 3 0.0 5 5 100.0 0 2 2 1 2 0 1 4 1
+p379
+aVJuwan Howard MIA 01/27/2011 MIA @ NYK L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -10
+p380
+aVErick Dampier MIA 01/27/2011 MIA @ NYK L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p381
+aVDwyane Wade MIA 01/27/2011 MIA @ NYK L 41 34 14 22 63.6 0 2 0.0 6 14 42.9 3 13 16 5 1 0 6 3 -6
+p382
+aVJames Jones MIA 01/27/2011 MIA @ NYK L 31 15 5 9 55.6 5 8 62.5 0 0 - 2 3 5 0 2 0 1 4 2
+p383
+aVEddie House MIA 01/27/2011 MIA @ NYK L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p384
+aVMike Miller MIA 01/27/2011 MIA @ NYK L 21 0 0 3 0.0 0 2 0.0 0 0 - 2 4 6 1 0 1 2 3 -8
+p385
+aVLeBron James MIA 01/27/2011 MIA @ NYK L 43 24 7 24 29.2 0 2 0.0 10 12 83.3 2 9 11 5 2 2 4 3 5
+p386
+aVJoel Anthony MIA 01/27/2011 MIA @ NYK L 36 8 3 5 60.0 0 0 - 2 2 100.0 2 4 6 0 0 2 0 3 -3
+p387
+aVCarlos Arroyo MIA 01/27/2011 MIA @ NYK L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p388
+aVZydrunas Ilgauskas MIA 01/27/2011 MIA @ NYK L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p389
+aVJuwan Howard MIA 01/22/2011 MIA vs. TOR W 18 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 1 0 2 6
+p390
+aVJames Jones MIA 01/22/2011 MIA vs. TOR W 27 15 4 6 66.7 2 2 100.0 5 5 100.0 0 4 4 0 1 0 1 1 17
+p391
+aVJoel Anthony MIA 01/22/2011 MIA vs. TOR W 35 2 1 4 25.0 0 0 - 0 0 - 3 3 6 3 0 4 1 4 16
+p392
+aVLeBron James MIA 01/22/2011 MIA vs. TOR W 38 38 14 29 48.3 1 3 33.3 9 14 64.3 1 10 11 6 2 1 1 2 13
+p393
+aVMike Miller MIA 01/22/2011 MIA vs. TOR W 33 32 12 20 60.0 6 11 54.5 2 3 66.7 3 7 10 3 1 0 3 4 9
+p394
+aVMario Chalmers MIA 01/22/2011 MIA vs. TOR W 35 10 3 3 100.0 3 3 100.0 1 1 100.0 1 3 4 9 0 1 3 4 20
+p395
+aVZydrunas Ilgauskas MIA 01/22/2011 MIA vs. TOR W 13 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 1 1 3 1
+p396
+aVEddie House MIA 01/22/2011 MIA vs. TOR W 28 13 4 10 40.0 4 7 57.1 1 1 100.0 0 2 2 1 0 0 1 1 6
+p397
+aVCarlos Arroyo MIA 01/22/2011 MIA vs. TOR W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 4 0 0 2 1 -3
+p398
+aVMike Miller MIA 01/18/2011 MIA vs. ATL L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 0 -10
+p399
+aVJoel Anthony MIA 01/18/2011 MIA vs. ATL L 43 0 0 0 - 0 0 - 0 0 - 8 8 16 0 1 3 1 5 1
+p400
+aVJuwan Howard MIA 01/18/2011 MIA vs. ATL L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p401
+aVDwyane Wade MIA 01/18/2011 MIA vs. ATL L 46 27 8 20 40.0 0 4 0.0 11 12 91.7 0 6 6 3 1 1 6 4 1
+p402
+aVLeBron James MIA 01/18/2011 MIA vs. ATL L 44 34 11 30 36.7 2 10 20.0 10 11 90.9 2 8 10 7 2 0 6 3 -5
+p403
+aVEddie House MIA 01/18/2011 MIA vs. ATL L 29 12 3 8 37.5 2 5 40.0 4 4 100.0 1 3 4 0 1 1 1 1 8
+p404
+aVMario Chalmers MIA 01/18/2011 MIA vs. ATL L 40 10 4 8 50.0 2 6 33.3 0 0 - 0 4 4 1 1 0 1 1 6
+p405
+aVZydrunas Ilgauskas MIA 01/18/2011 MIA vs. ATL L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -10
+p406
+aVCarlos Arroyo MIA 01/18/2011 MIA vs. ATL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p407
+aVErick Dampier MIA 01/18/2011 MIA vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p408
+aVJames Jones MIA 01/18/2011 MIA vs. ATL L 18 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 0 0 0 0 2 -5
+p409
+aVZydrunas Ilgauskas MIA 01/15/2011 MIA @ CHI L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p410
+aVDwyane Wade MIA 01/15/2011 MIA @ CHI L 35 33 10 20 50.0 4 7 57.1 9 13 69.2 3 3 6 4 0 5 3 4 -4
+p411
+aVJoel Anthony MIA 01/15/2011 MIA @ CHI L 38 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 3 1 2 1
+p412
+aVJuwan Howard MIA 01/15/2011 MIA @ CHI L 16 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 1 4 -4
+p413
+aVChris Bosh MIA 01/15/2011 MIA @ CHI L 31 17 7 18 38.9 1 1 100.0 2 3 66.7 1 4 5 3 0 1 1 2 -3
+p414
+aVMario Chalmers MIA 01/15/2011 MIA @ CHI L 29 10 4 12 33.3 2 9 22.2 0 0 - 0 3 3 3 2 0 3 3 -5
+p415
+aVMike Miller MIA 01/15/2011 MIA @ CHI L 26 8 3 6 50.0 2 3 66.7 0 0 - 0 3 3 2 0 0 2 1 16
+p416
+aVCarlos Arroyo MIA 01/15/2011 MIA @ CHI L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -16
+p417
+aVJames Jones MIA 01/15/2011 MIA @ CHI L 21 7 2 6 33.3 1 5 20.0 2 2 100.0 0 0 0 0 0 0 0 3 -12
+p418
+aVEddie House MIA 01/15/2011 MIA @ CHI L 24 13 5 7 71.4 3 3 100.0 0 0 - 0 5 5 3 0 0 0 0 14
+p419
+aVMario Chalmers MIA 01/13/2011 MIA @ DEN L 29 14 5 10 50.0 4 7 57.1 0 0 - 0 0 0 3 2 0 3 3 -13
+p420
+aVJames Jones MIA 01/13/2011 MIA @ DEN L 15 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 1 0 0 0 3 -9
+p421
+aVZydrunas Ilgauskas MIA 01/13/2011 MIA @ DEN L 14 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 1 1 3 -8
+p422
+aVCarlos Arroyo MIA 01/13/2011 MIA @ DEN L 19 10 5 7 71.4 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -15
+p423
+aVErick Dampier MIA 01/13/2011 MIA @ DEN L 25 4 2 3 66.7 0 0 - 0 1 0.0 1 5 6 0 0 2 2 1 -19
+p424
+aVJuwan Howard MIA 01/13/2011 MIA @ DEN L 18 7 3 8 37.5 0 0 - 1 2 50.0 3 4 7 0 0 0 0 0 -2
+p425
+aVMike Miller MIA 01/13/2011 MIA @ DEN L 33 4 2 7 28.6 0 1 0.0 0 0 - 1 7 8 8 1 0 3 3 -19
+p426
+aVDwyane Wade MIA 01/13/2011 MIA @ DEN L 31 16 7 19 36.8 0 3 0.0 2 7 28.6 2 2 4 4 0 1 3 1 -25
+p427
+aVEddie House MIA 01/13/2011 MIA @ DEN L 17 15 5 11 45.5 4 8 50.0 1 1 100.0 0 1 1 2 0 0 1 1 -3
+p428
+aVJoel Anthony MIA 01/13/2011 MIA @ DEN L 9 2 1 1 100.0 0 0 - 0 1 0.0 2 1 3 0 0 1 0 0 -1
+p429
+aVChris Bosh MIA 01/13/2011 MIA @ DEN L 30 24 9 17 52.9 0 0 - 6 6 100.0 1 5 6 2 0 0 2 0 -26
+p430
+aVLeBron James MIA 01/12/2011 MIA @ LAC L 40 27 11 24 45.8 3 6 50.0 2 5 40.0 2 6 8 6 0 0 3 1 -3
+p431
+aVDwyane Wade MIA 01/12/2011 MIA @ LAC L 41 31 12 22 54.5 1 4 25.0 6 7 85.7 1 6 7 5 1 3 1 2 7
+p432
+aVJuwan Howard MIA 01/12/2011 MIA @ LAC L 5 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -3
+p433
+aVZydrunas Ilgauskas MIA 01/12/2011 MIA @ LAC L 22 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 0 0 3 4
+p434
+aVErick Dampier MIA 01/12/2011 MIA @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p435
+aVCarlos Arroyo MIA 01/12/2011 MIA @ LAC L 19 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 2 -8
+p436
+aVMike Miller MIA 01/12/2011 MIA @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p437
+aVMario Chalmers MIA 01/12/2011 MIA @ LAC L 29 12 4 12 33.3 3 9 33.3 1 2 50.0 2 2 4 3 2 0 1 3 2
+p438
+aVChris Bosh MIA 01/12/2011 MIA @ LAC L 40 26 6 17 35.3 1 3 33.3 13 14 92.9 3 10 13 4 0 0 1 3 4
+p439
+aVJoel Anthony MIA 01/12/2011 MIA @ LAC L 25 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 2 0 4 -11
+p440
+aVJames Jones MIA 01/12/2011 MIA @ LAC L 16 1 0 3 0.0 0 3 0.0 1 2 50.0 0 0 0 1 0 0 0 2 -13
+p441
+aVJuwan Howard MIA 01/09/2011 MIA @ POR W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 0 2 0 -2
+p442
+aVMario Chalmers MIA 01/09/2011 MIA @ POR W 20 2 1 3 33.3 0 2 0.0 0 0 - 0 5 5 2 0 0 2 2 -7
+p443
+aVChris Bosh MIA 01/09/2011 MIA @ POR W 44 18 9 17 52.9 0 1 0.0 0 0 - 0 8 8 0 1 2 2 3 15
+p444
+aVLeBron James MIA 01/09/2011 MIA @ POR W 46 44 17 26 65.4 3 5 60.0 7 10 70.0 3 10 13 6 2 0 6 4 5
+p445
+aVJames Jones MIA 01/09/2011 MIA @ POR W 25 5 1 3 33.3 1 3 33.3 2 2 100.0 0 2 2 0 0 0 0 4 4
+p446
+aVDwyane Wade MIA 01/09/2011 MIA @ POR W 42 34 15 22 68.2 1 3 33.3 3 4 75.0 2 6 8 5 0 1 2 3 19
+p447
+aVCarlos Arroyo MIA 01/09/2011 MIA @ POR W 33 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 3 2 0 1 1 14
+p448
+aVZydrunas Ilgauskas MIA 01/09/2011 MIA @ POR W 18 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 1 0 1 1 -4
+p449
+aVJoel Anthony MIA 01/09/2011 MIA @ POR W 29 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -9
+p450
+aVErick Dampier MIA 01/07/2011 MIA @ MIL W 22 4 2 3 66.7 0 0 - 0 2 0.0 1 1 2 2 0 1 0 0 -6
+p451
+aVLeBron James MIA 01/07/2011 MIA @ MIL W 45 26 8 23 34.8 1 4 25.0 9 11 81.8 1 9 10 5 6 1 5 2 7
+p452
+aVJuwan Howard MIA 01/07/2011 MIA @ MIL W 16 7 2 5 40.0 0 0 - 3 3 100.0 1 3 4 1 0 0 1 1 -1
+p453
+aVJames Jones MIA 01/07/2011 MIA @ MIL W 17 6 2 3 66.7 2 2 100.0 0 1 0.0 0 2 2 1 1 0 0 1 4
+p454
+aVMario Chalmers MIA 01/07/2011 MIA @ MIL W 17 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 2 0 0 2 4 0
+p455
+aVChris Bosh MIA 01/07/2011 MIA @ MIL W 37 16 6 16 37.5 0 0 - 4 4 100.0 3 9 12 0 0 1 2 4 7
+p456
+aVCarlos Arroyo MIA 01/07/2011 MIA @ MIL W 36 15 6 11 54.5 1 3 33.3 2 2 100.0 1 2 3 3 1 0 3 1 6
+p457
+aVDwyane Wade MIA 01/07/2011 MIA @ MIL W 44 14 4 19 21.1 0 1 0.0 6 7 85.7 4 3 7 5 3 0 1 4 1
+p458
+aVZydrunas Ilgauskas MIA 01/07/2011 MIA @ MIL W 31 6 2 4 50.0 0 0 - 2 2 100.0 2 6 8 1 0 3 2 4 12
+p459
+aVMario Chalmers MIA 01/04/2011 MIA vs. MIL W 21 9 3 9 33.3 2 5 40.0 1 1 100.0 0 0 0 0 3 0 2 1 5
+p460
+aVMike Miller MIA 01/04/2011 MIA vs. MIL W 9 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 -3
+p461
+aVJames Jones MIA 01/04/2011 MIA vs. MIL W 15 4 1 2 50.0 1 2 50.0 1 1 100.0 1 3 4 0 1 0 1 3 9
+p462
+aVJoel Anthony MIA 01/04/2011 MIA vs. MIL W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -11
+p463
+aVJuwan Howard MIA 01/04/2011 MIA vs. MIL W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p464
+aVChris Bosh MIA 01/04/2011 MIA vs. MIL W 38 19 6 13 46.2 0 0 - 7 9 77.8 3 9 12 0 2 0 0 1 5
+p465
+aVLeBron James MIA 01/04/2011 MIA vs. MIL W 37 25 8 15 53.3 0 0 - 9 11 81.8 1 5 6 9 0 2 2 2 10
+p466
+aVZydrunas Ilgauskas MIA 01/04/2011 MIA vs. MIL W 19 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 0 2 0 2 4
+p467
+aVDwyane Wade MIA 01/04/2011 MIA vs. MIL W 35 34 10 19 52.6 1 2 50.0 13 15 86.7 1 3 4 2 1 0 2 3 8
+p468
+aVCarlos Arroyo MIA 01/04/2011 MIA vs. MIL W 27 2 1 7 14.3 0 2 0.0 0 0 - 0 4 4 2 1 1 2 3 7
+p469
+aVErick Dampier MIA 01/04/2011 MIA vs. MIL W 20 2 1 1 100.0 0 0 - 0 0 - 3 6 9 0 0 2 3 4 19
+p470
+aVMario Chalmers MIA 01/03/2011 MIA @ CHA W 29 2 1 7 14.3 0 3 0.0 0 0 - 0 4 4 1 2 0 0 0 7
+p471
+aVJoel Anthony MIA 01/03/2011 MIA @ CHA W 35 2 1 1 100.0 0 0 - 0 0 - 4 7 11 1 0 3 0 1 15
+p472
+aVCarlos Arroyo MIA 01/03/2011 MIA @ CHA W 19 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 7
+p473
+aVLeBron James MIA 01/03/2011 MIA @ CHA W 37 38 15 26 57.7 2 4 50.0 6 6 100.0 0 9 9 5 1 0 3 3 20
+p474
+aVDwyane Wade MIA 01/03/2011 MIA @ CHA W 31 31 12 20 60.0 1 4 25.0 6 6 100.0 4 7 11 4 0 1 4 4 17
+p475
+aVChris Bosh MIA 01/03/2011 MIA @ CHA W 34 11 4 9 44.4 0 0 - 3 5 60.0 1 3 4 2 1 0 2 0 5
+p476
+aVJuwan Howard MIA 01/03/2011 MIA @ CHA W 14 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 9
+p477
+aVZydrunas Ilgauskas MIA 01/03/2011 MIA @ CHA W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -1
+p478
+aVJames Jones MIA 01/03/2011 MIA @ CHA W 20 6 2 4 50.0 2 4 50.0 0 0 - 0 3 3 0 1 1 0 3 -7
+p479
+aVMike Miller MIA 01/03/2011 MIA @ CHA W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p480
+aVDwyane Wade MIA 01/01/2011 MIA vs. GSW W 39 25 7 18 38.9 0 2 0.0 11 16 68.8 0 6 6 8 2 1 0 0 7
+p481
+aVJuwan Howard MIA 01/01/2011 MIA vs. GSW W 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p482
+aVMario Chalmers MIA 01/01/2011 MIA vs. GSW W 22 8 3 7 42.9 2 5 40.0 0 0 - 0 4 4 0 1 0 1 2 7
+p483
+aVLeBron James MIA 01/01/2011 MIA vs. GSW W 42 25 7 15 46.7 0 3 0.0 11 17 64.7 2 5 7 10 1 1 3 1 6
+p484
+aVChris Bosh MIA 01/01/2011 MIA vs. GSW W 39 20 6 10 60.0 0 0 - 8 9 88.9 5 6 11 3 1 1 3 2 7
+p485
+aVZydrunas Ilgauskas MIA 01/01/2011 MIA vs. GSW W 17 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 2 1 2 2 4
+p486
+aVJoel Anthony MIA 01/01/2011 MIA vs. GSW W 22 4 0 1 0.0 0 0 - 4 4 100.0 2 5 7 0 0 2 3 3 3
+p487
+aVJames Jones MIA 01/01/2011 MIA vs. GSW W 21 13 4 7 57.1 4 7 57.1 1 1 100.0 0 0 0 0 0 0 0 2 -1
+p488
+aVCarlos Arroyo MIA 01/01/2011 MIA vs. GSW W 27 11 4 7 57.1 3 4 75.0 0 0 - 0 2 2 3 0 0 2 0 0
+p489
+aVJoel Anthony MIA 12/29/2010 MIA @ HOU W 22 4 0 0 - 0 0 - 4 6 66.7 2 5 7 0 0 2 0 4 -1
+p490
+aVChris Bosh MIA 12/29/2010 MIA @ HOU W 39 21 8 14 57.1 0 1 0.0 5 6 83.3 1 3 4 2 0 2 5 3 -16
+p491
+aVMike Miller MIA 12/29/2010 MIA @ HOU W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -11
+p492
+aVDwyane Wade MIA 12/29/2010 MIA @ HOU W 38 45 17 24 70.8 1 3 33.3 10 10 100.0 0 7 7 1 2 0 6 3 2
+p493
+aVZydrunas Ilgauskas MIA 12/29/2010 MIA @ HOU W 19 7 3 7 42.9 0 0 - 1 1 100.0 1 4 5 0 0 2 0 3 7
+p494
+aVMario Chalmers MIA 12/29/2010 MIA @ HOU W 24 8 1 2 50.0 1 2 50.0 5 5 100.0 0 3 3 4 0 1 1 4 3
+p495
+aVErick Dampier MIA 12/29/2010 MIA @ HOU W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p496
+aVCarlos Arroyo MIA 12/29/2010 MIA @ HOU W 24 11 3 5 60.0 2 2 100.0 3 3 100.0 0 1 1 3 0 0 1 3 3
+p497
+aVJuwan Howard MIA 12/29/2010 MIA @ HOU W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 0 22
+p498
+aVJames Jones MIA 12/29/2010 MIA @ HOU W 12 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 2 0 2 5
+p499
+aVLeBron James MIA 12/29/2010 MIA @ HOU W 39 20 8 15 53.3 0 4 0.0 4 4 100.0 0 6 6 9 1 0 3 3 16
+p500
+aVCarlos Arroyo MIA 12/28/2010 MIA vs. NYK W 21 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 1 0 0 1 0 15
+p501
+aVZydrunas Ilgauskas MIA 12/28/2010 MIA vs. NYK W 14 14 6 8 75.0 0 0 - 2 2 100.0 5 5 10 0 0 1 1 3 8
+p502
+aVLeBron James MIA 12/28/2010 MIA vs. NYK W 40 18 8 17 47.1 1 2 50.0 1 3 33.3 0 10 10 8 0 0 3 3 17
+p503
+aVJames Jones MIA 12/28/2010 MIA vs. NYK W 17 4 0 3 0.0 0 2 0.0 4 5 80.0 0 2 2 0 0 0 0 3 -12
+p504
+aVMario Chalmers MIA 12/28/2010 MIA vs. NYK W 27 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 2 3 -7
+p505
+aVJoel Anthony MIA 12/28/2010 MIA vs. NYK W 34 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 2 0 4 0
+p506
+aVChris Bosh MIA 12/28/2010 MIA vs. NYK W 39 18 6 12 50.0 0 0 - 6 7 85.7 2 8 10 4 0 1 2 1 13
+p507
+aVJuwan Howard MIA 12/28/2010 MIA vs. NYK W 9 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -5
+p508
+aVDwyane Wade MIA 12/28/2010 MIA vs. NYK W 38 40 13 28 46.4 1 7 14.3 13 16 81.3 2 7 9 2 2 1 0 2 11
+p509
+aVLeBron James MIA 12/25/2010 MIA @ LAL W 38 27 8 14 57.1 5 6 83.3 6 6 100.0 1 10 11 10 4 0 1 2 15
+p510
+aVChris Bosh MIA 12/25/2010 MIA @ LAL W 38 24 11 17 64.7 0 0 - 2 3 66.7 5 8 13 2 1 1 1 2 21
+p511
+aVMike Miller MIA 12/25/2010 MIA @ LAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p512
+aVJoel Anthony MIA 12/25/2010 MIA @ LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 0
+p513
+aVJames Jones MIA 12/25/2010 MIA @ LAL W 20 3 1 6 16.7 1 6 16.7 0 0 - 1 3 4 1 0 0 0 2 -2
+p514
+aVDwyane Wade MIA 12/25/2010 MIA @ LAL W 36 18 6 17 35.3 0 1 0.0 6 6 100.0 0 5 5 6 1 1 3 3 21
+p515
+aVErick Dampier MIA 12/25/2010 MIA @ LAL W 22 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 0 2 2 8
+p516
+aVJuwan Howard MIA 12/25/2010 MIA @ LAL W 10 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -5
+p517
+aVCarlos Arroyo MIA 12/25/2010 MIA @ LAL W 19 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 4 0 0 0 0 11
+p518
+aVZydrunas Ilgauskas MIA 12/25/2010 MIA @ LAL W 23 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 2 1 2 8
+p519
+aVMario Chalmers MIA 12/25/2010 MIA @ LAL W 29 13 4 11 36.4 3 9 33.3 2 3 66.7 0 2 2 2 1 0 1 2 5
+p520
+aVMario Chalmers MIA 12/23/2010 MIA @ PHX W 27 11 5 11 45.5 1 4 25.0 0 0 - 0 3 3 2 2 1 3 2 12
+p521
+aVJames Jones MIA 12/23/2010 MIA @ PHX W 35 7 3 9 33.3 1 5 20.0 0 0 - 0 2 2 1 1 1 1 0 10
+p522
+aVJuwan Howard MIA 12/23/2010 MIA @ PHX W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 2 6
+p523
+aVLeBron James MIA 12/23/2010 MIA @ PHX W 37 36 13 22 59.1 2 5 40.0 8 8 100.0 1 5 6 4 3 0 5 5 4
+p524
+aVMike Miller MIA 12/23/2010 MIA @ PHX W 19 1 0 3 0.0 0 0 - 1 2 50.0 1 4 5 0 0 0 2 3 17
+p525
+aVJoel Anthony MIA 12/23/2010 MIA @ PHX W 24 0 0 0 - 0 0 - 0 0 - 2 0 2 0 1 1 0 5 11
+p526
+aVErick Dampier MIA 12/23/2010 MIA @ PHX W 16 2 1 5 20.0 0 0 - 0 0 - 4 5 9 0 0 0 0 1 3
+p527
+aVChris Bosh MIA 12/23/2010 MIA @ PHX W 37 23 9 17 52.9 0 1 0.0 5 5 100.0 3 8 11 2 2 1 1 2 9
+p528
+aVCarlos Arroyo MIA 12/23/2010 MIA @ PHX W 26 11 5 12 41.7 1 3 33.3 0 0 - 0 3 3 2 0 0 2 2 -7
+p529
+aVZydrunas Ilgauskas MIA 12/23/2010 MIA @ PHX W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p530
+aVJoel Anthony MIA 12/20/2010 MIA vs. DAL L 28 5 2 2 100.0 0 0 - 1 2 50.0 3 3 6 0 0 0 0 2 6
+p531
+aVZydrunas Ilgauskas MIA 12/20/2010 MIA vs. DAL L 18 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 0 1 0 2 -10
+p532
+aVLeBron James MIA 12/20/2010 MIA vs. DAL L 36 19 6 17 35.3 2 4 50.0 5 7 71.4 3 7 10 7 0 0 5 4 -20
+p533
+aVJuwan Howard MIA 12/20/2010 MIA vs. DAL L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 1 0 0 11
+p534
+aVMike Miller MIA 12/20/2010 MIA vs. DAL L 4 0 0 4 0.0 0 4 0.0 0 0 - 2 2 4 0 0 0 0 1 5
+p535
+aVMario Chalmers MIA 12/20/2010 MIA vs. DAL L 30 13 3 10 30.0 3 7 42.9 4 4 100.0 2 2 4 2 3 0 2 6 5
+p536
+aVDwyane Wade MIA 12/20/2010 MIA vs. DAL L 39 22 8 17 47.1 3 7 42.9 3 6 50.0 1 3 4 7 3 2 1 1 5
+p537
+aVCarlos Arroyo MIA 12/20/2010 MIA vs. DAL L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 3 1 -7
+p538
+aVChris Bosh MIA 12/20/2010 MIA vs. DAL L 36 19 8 15 53.3 0 1 0.0 3 5 60.0 2 6 8 0 0 0 0 0 -13
+p539
+aVJames Jones MIA 12/20/2010 MIA vs. DAL L 18 10 3 7 42.9 3 7 42.9 1 1 100.0 0 2 2 0 0 1 1 3 8
+p540
+aVJames Jones MIA 12/18/2010 MIA @ WAS W 16 2 0 2 0.0 0 2 0.0 2 2 100.0 0 2 2 2 3 0 0 2 13
+p541
+aVEddie House MIA 12/18/2010 MIA @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p542
+aVZydrunas Ilgauskas MIA 12/18/2010 MIA @ WAS W 16 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 2 1 2 -5
+p543
+aVLeBron James MIA 12/18/2010 MIA @ WAS W 41 32 9 19 47.4 3 7 42.9 11 12 91.7 1 6 7 6 1 0 4 3 6
+p544
+aVCarlos Arroyo MIA 12/18/2010 MIA @ WAS W 19 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 -13
+p545
+aVDwyane Wade MIA 12/18/2010 MIA @ WAS W 40 20 7 19 36.8 2 5 40.0 4 6 66.7 1 5 6 2 1 2 3 5 -10
+p546
+aVChris Bosh MIA 12/18/2010 MIA @ WAS W 36 20 6 10 60.0 1 1 100.0 7 10 70.0 1 8 9 2 1 0 7 1 -1
+p547
+aVJoel Anthony MIA 12/18/2010 MIA @ WAS W 23 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 4 0 2 -1
+p548
+aVErick Dampier MIA 12/18/2010 MIA @ WAS W 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 0
+p549
+aVMario Chalmers MIA 12/18/2010 MIA @ WAS W 29 8 3 7 42.9 2 5 40.0 0 0 - 0 6 6 4 1 0 1 3 14
+p550
+aVJuwan Howard MIA 12/18/2010 MIA @ WAS W 12 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 1 0 0 0 2
+p551
+aVChris Bosh MIA 12/17/2010 MIA @ NYK W 36 26 11 19 57.9 0 0 - 4 5 80.0 1 6 7 1 1 0 5 3 20
+p552
+aVJoel Anthony MIA 12/17/2010 MIA @ NYK W 20 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 3 1 4 3
+p553
+aVJames Jones MIA 12/17/2010 MIA @ NYK W 17 2 0 2 0.0 0 2 0.0 2 2 100.0 1 0 1 0 1 0 0 2 -1
+p554
+aVMario Chalmers MIA 12/17/2010 MIA @ NYK W 22 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 0 2 0 0 1 -1
+p555
+aVJamaal Magloire MIA 12/17/2010 MIA @ NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 0
+p556
+aVDwyane Wade MIA 12/17/2010 MIA @ NYK W 38 26 9 22 40.9 2 3 66.7 6 8 75.0 3 5 8 5 2 3 2 0 14
+p557
+aVCarlos Arroyo MIA 12/17/2010 MIA @ NYK W 26 11 4 5 80.0 3 3 100.0 0 0 - 1 3 4 2 1 0 0 2 23
+p558
+aVErick Dampier MIA 12/17/2010 MIA @ NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p559
+aVJuwan Howard MIA 12/17/2010 MIA @ NYK W 19 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 9
+p560
+aVEddie House MIA 12/17/2010 MIA @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p561
+aVLeBron James MIA 12/17/2010 MIA @ NYK W 38 32 14 23 60.9 3 6 50.0 1 3 33.3 1 10 11 10 1 0 5 1 31
+p562
+aVZydrunas Ilgauskas MIA 12/17/2010 MIA @ NYK W 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 2 3 1 4 11
+p563
+aVMario Chalmers MIA 12/15/2010 MIA vs. CLE W 35 14 5 9 55.6 4 8 50.0 0 0 - 1 2 3 4 0 0 2 4 4
+p564
+aVDwyane Wade MIA 12/15/2010 MIA vs. CLE W 40 28 10 18 55.6 3 6 50.0 5 7 71.4 2 4 6 3 1 0 1 4 15
+p565
+aVChris Bosh MIA 12/15/2010 MIA vs. CLE W 40 16 6 15 40.0 0 1 0.0 4 4 100.0 0 4 4 1 1 1 1 2 8
+p566
+aVLeBron James MIA 12/15/2010 MIA vs. CLE W 39 21 5 15 33.3 0 4 0.0 11 18 61.1 2 11 13 5 1 0 4 1 0
+p567
+aVZydrunas Ilgauskas MIA 12/15/2010 MIA vs. CLE W 18 4 1 3 33.3 0 0 - 2 2 100.0 2 6 8 1 0 1 4 0 12
+p568
+aVEddie House MIA 12/15/2010 MIA vs. CLE W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p569
+aVJuwan Howard MIA 12/15/2010 MIA vs. CLE W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p570
+aVErick Dampier MIA 12/15/2010 MIA vs. CLE W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -7
+p571
+aVJoel Anthony MIA 12/15/2010 MIA vs. CLE W 22 5 1 3 33.3 0 0 - 3 8 37.5 2 3 5 0 0 5 1 3 1
+p572
+aVJames Jones MIA 12/15/2010 MIA vs. CLE W 24 11 3 4 75.0 3 4 75.0 2 2 100.0 0 3 3 2 1 0 0 4 1
+p573
+aVLeBron James MIA 12/13/2010 MIA vs. NOH W 40 20 6 16 37.5 0 3 0.0 8 10 80.0 1 3 4 7 0 0 5 2 11
+p574
+aVCarlos Arroyo MIA 12/13/2010 MIA vs. NOH W 22 7 3 8 37.5 1 2 50.0 0 0 - 1 1 2 5 0 0 0 3 6
+p575
+aVDwyane Wade MIA 12/13/2010 MIA vs. NOH W 39 32 8 13 61.5 2 3 66.7 14 17 82.4 1 4 5 1 1 0 1 2 7
+p576
+aVChris Bosh MIA 12/13/2010 MIA vs. NOH W 38 23 10 18 55.6 0 0 - 3 5 60.0 2 9 11 1 1 3 0 4 8
+p577
+aVJames Jones MIA 12/13/2010 MIA vs. NOH W 16 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 1 0 0 8
+p578
+aVJuwan Howard MIA 12/13/2010 MIA vs. NOH W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 4
+p579
+aVZydrunas Ilgauskas MIA 12/13/2010 MIA vs. NOH W 21 2 1 4 25.0 0 0 - 0 0 - 0 8 8 0 1 3 0 4 3
+p580
+aVErick Dampier MIA 12/13/2010 MIA vs. NOH W 23 3 1 2 50.0 0 0 - 1 2 50.0 3 1 4 0 1 1 0 4 12
+p581
+aVMario Chalmers MIA 12/13/2010 MIA vs. NOH W 27 6 1 5 20.0 0 3 0.0 4 4 100.0 0 1 1 3 1 0 0 4 4
+p582
+aVJoel Anthony MIA 12/13/2010 MIA vs. NOH W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p583
+aVMario Chalmers MIA 12/11/2010 MIA @ SAC W 27 8 2 7 28.6 2 4 50.0 2 2 100.0 1 2 3 3 2 0 2 3 11
+p584
+aVEddie House MIA 12/11/2010 MIA @ SAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p585
+aVDwyane Wade MIA 12/11/2010 MIA @ SAC W 36 36 15 23 65.2 1 2 50.0 5 9 55.6 3 3 6 6 1 1 3 2 31
+p586
+aVCarlos Arroyo MIA 12/11/2010 MIA @ SAC W 21 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 5 0 0 0 0 10
+p587
+aVJames Jones MIA 12/11/2010 MIA @ SAC W 23 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 2 1 0 1 1 -2
+p588
+aVLeBron James MIA 12/11/2010 MIA @ SAC W 35 25 10 19 52.6 2 3 66.7 3 5 60.0 1 9 10 3 2 0 3 1 15
+p589
+aVZydrunas Ilgauskas MIA 12/11/2010 MIA @ SAC W 23 6 3 6 50.0 0 0 - 0 2 0.0 0 4 4 1 1 1 3 3 13
+p590
+aVErick Dampier MIA 12/11/2010 MIA @ SAC W 16 1 0 0 - 0 0 - 1 2 50.0 2 2 4 0 0 3 0 2 2
+p591
+aVChris Bosh MIA 12/11/2010 MIA @ SAC W 36 14 6 13 46.2 0 0 - 2 2 100.0 2 15 17 2 0 1 2 3 33
+p592
+aVJoel Anthony MIA 12/11/2010 MIA @ SAC W 11 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 2 0 2 4
+p593
+aVJuwan Howard MIA 12/11/2010 MIA @ SAC W 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -10
+p594
+aVChris Bosh MIA 12/10/2010 MIA @ GSW W 33 16 7 14 50.0 0 0 - 2 2 100.0 2 5 7 4 4 1 2 1 22
+p595
+aVJoel Anthony MIA 12/10/2010 MIA @ GSW W 12 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -3
+p596
+aVZydrunas Ilgauskas MIA 12/10/2010 MIA @ GSW W 21 7 3 4 75.0 0 0 - 1 3 33.3 3 3 6 0 0 2 2 1 19
+p597
+aVJames Jones MIA 12/10/2010 MIA @ GSW W 27 9 3 5 60.0 3 5 60.0 0 0 - 1 3 4 3 0 1 0 1 -2
+p598
+aVCarlos Arroyo MIA 12/10/2010 MIA @ GSW W 19 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 3 1 0 0 2 15
+p599
+aVErick Dampier MIA 12/10/2010 MIA @ GSW W 18 0 0 6 0.0 0 0 - 0 0 - 4 3 7 1 0 2 1 1 8
+p600
+aVMario Chalmers MIA 12/10/2010 MIA @ GSW W 28 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 2 1 0 3 2 5
+p601
+aVLeBron James MIA 12/10/2010 MIA @ GSW W 31 25 10 18 55.6 3 4 75.0 2 3 66.7 0 7 7 9 1 1 4 1 22
+p602
+aVEddie House MIA 12/10/2010 MIA @ GSW W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p603
+aVDwyane Wade MIA 12/10/2010 MIA @ GSW W 35 34 12 20 60.0 0 1 0.0 10 13 76.9 3 6 9 7 1 0 4 3 30
+p604
+aVJuwan Howard MIA 12/10/2010 MIA @ GSW W 11 0 0 2 0.0 0 0 - 0 0 - 1 3 4 2 0 0 0 2 -2
+p605
+aVJames Jones MIA 12/08/2010 MIA @ UTA W 16 8 3 4 75.0 2 3 66.7 0 0 - 1 1 2 0 0 0 2 1 8
+p606
+aVChris Bosh MIA 12/08/2010 MIA @ UTA W 39 14 6 16 37.5 0 0 - 2 2 100.0 3 6 9 3 0 0 2 4 19
+p607
+aVCarlos Arroyo MIA 12/08/2010 MIA @ UTA W 23 0 0 3 0.0 0 1 0.0 0 1 0.0 0 0 0 0 1 0 1 3 -3
+p608
+aVZydrunas Ilgauskas MIA 12/08/2010 MIA @ UTA W 26 16 7 10 70.0 0 0 - 2 2 100.0 4 6 10 1 1 0 0 3 2
+p609
+aVDwyane Wade MIA 12/08/2010 MIA @ UTA W 41 28 9 14 64.3 2 3 66.7 8 11 72.7 2 2 4 4 2 0 4 0 18
+p610
+aVJoel Anthony MIA 12/08/2010 MIA @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p611
+aVLeBron James MIA 12/08/2010 MIA @ UTA W 39 33 12 20 60.0 3 5 60.0 6 7 85.7 1 6 7 9 0 0 2 4 0
+p612
+aVErick Dampier MIA 12/08/2010 MIA @ UTA W 22 2 0 2 0.0 0 1 0.0 2 2 100.0 2 4 6 1 2 1 0 2 11
+p613
+aVJuwan Howard MIA 12/08/2010 MIA @ UTA W 9 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 0 2 0 -6
+p614
+aVMario Chalmers MIA 12/08/2010 MIA @ UTA W 25 8 3 9 33.3 2 7 28.6 0 0 - 0 2 2 3 2 0 2 4 16
+p615
+aVZydrunas Ilgauskas MIA 12/06/2010 MIA @ MIL W 16 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 5 3
+p616
+aVChris Bosh MIA 12/06/2010 MIA @ MIL W 39 16 8 17 47.1 0 0 - 0 0 - 3 9 12 1 0 0 3 1 11
+p617
+aVJames Jones MIA 12/06/2010 MIA @ MIL W 19 6 2 3 66.7 2 3 66.7 0 0 - 1 3 4 1 0 0 0 3 -1
+p618
+aVJoel Anthony MIA 12/06/2010 MIA @ MIL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -2
+p619
+aVMario Chalmers MIA 12/06/2010 MIA @ MIL W 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 4 2 0
+p620
+aVLeBron James MIA 12/06/2010 MIA @ MIL W 39 17 7 16 43.8 1 3 33.3 2 4 50.0 0 6 6 6 1 1 1 5 17
+p621
+aVJuwan Howard MIA 12/06/2010 MIA @ MIL W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p622
+aVErick Dampier MIA 12/06/2010 MIA @ MIL W 24 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 1 1 2 7
+p623
+aVCarlos Arroyo MIA 12/06/2010 MIA @ MIL W 32 18 6 6 100.0 2 2 100.0 4 4 100.0 0 2 2 3 0 0 1 1 8
+p624
+aVDwyane Wade MIA 12/06/2010 MIA @ MIL W 39 25 9 20 45.0 0 0 - 7 10 70.0 5 9 14 5 0 1 6 3 8
+p625
+aVJuwan Howard MIA 12/04/2010 MIA vs. ATL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -6
+p626
+aVCarlos Arroyo MIA 12/04/2010 MIA vs. ATL W 21 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -4
+p627
+aVLeBron James MIA 12/04/2010 MIA vs. ATL W 37 22 5 11 45.5 1 1 100.0 11 13 84.6 0 7 7 4 1 1 2 1 5
+p628
+aVJames Jones MIA 12/04/2010 MIA vs. ATL W 19 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 1 3
+p629
+aVZydrunas Ilgauskas MIA 12/04/2010 MIA vs. ATL W 16 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 5
+p630
+aVDwyane Wade MIA 12/04/2010 MIA vs. ATL W 40 26 11 18 61.1 0 1 0.0 4 6 66.7 2 8 10 3 3 3 4 2 12
+p631
+aVChris Bosh MIA 12/04/2010 MIA vs. ATL W 40 27 12 22 54.5 0 0 - 3 4 75.0 4 6 10 1 0 0 2 2 12
+p632
+aVJoel Anthony MIA 12/04/2010 MIA vs. ATL W 22 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 2 0 4 6
+p633
+aVErick Dampier MIA 12/04/2010 MIA vs. ATL W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 1 3
+p634
+aVMario Chalmers MIA 12/04/2010 MIA vs. ATL W 27 9 4 10 40.0 1 3 33.3 0 0 - 0 5 5 4 1 0 1 2 14
+p635
+aVJuwan Howard MIA 12/02/2010 MIA @ CLE W 19 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 6
+p636
+aVCarlos Arroyo MIA 12/02/2010 MIA @ CLE W 28 6 3 9 33.3 0 3 0.0 0 0 - 2 1 3 1 0 0 0 4 16
+p637
+aVZydrunas Ilgauskas MIA 12/02/2010 MIA @ CLE W 17 0 0 0 - 0 0 - 0 0 - 1 1 2 1 1 1 0 3 13
+p638
+aVJoel Anthony MIA 12/02/2010 MIA @ CLE W 24 4 1 1 100.0 0 0 - 2 2 100.0 2 6 8 2 0 1 2 3 12
+p639
+aVErick Dampier MIA 12/02/2010 MIA @ CLE W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 0 3
+p640
+aVJames Jones MIA 12/02/2010 MIA @ CLE W 26 18 6 8 75.0 5 7 71.4 1 2 50.0 0 6 6 0 0 1 0 3 8
+p641
+aVLeBron James MIA 12/02/2010 MIA @ CLE W 30 38 15 25 60.0 2 7 28.6 6 9 66.7 0 5 5 8 1 1 0 1 26
+p642
+aVEddie House MIA 12/02/2010 MIA @ CLE W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 1 3
+p643
+aVMario Chalmers MIA 12/02/2010 MIA @ CLE W 20 9 3 5 60.0 3 4 75.0 0 0 - 0 0 0 3 0 0 0 5 12
+p644
+aVChris Bosh MIA 12/02/2010 MIA @ CLE W 29 15 6 11 54.5 0 1 0.0 3 5 60.0 0 5 5 3 1 0 3 4 22
+p645
+aVDwyane Wade MIA 12/02/2010 MIA @ CLE W 33 22 10 16 62.5 0 1 0.0 2 3 66.7 3 6 9 9 3 0 3 4 19
+p646
+aVCarlos Arroyo MIA 12/01/2010 MIA vs. DET W 27 4 2 7 28.6 0 1 0.0 0 0 - 0 5 5 5 1 0 2 2 9
+p647
+aVErick Dampier MIA 12/01/2010 MIA vs. DET W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -7
+p648
+aVChris Bosh MIA 12/01/2010 MIA vs. DET W 29 16 6 11 54.5 0 0 - 4 8 50.0 1 6 7 4 1 0 0 3 23
+p649
+aVLeBron James MIA 12/01/2010 MIA vs. DET W 31 18 8 15 53.3 1 1 100.0 1 2 50.0 2 4 6 3 1 0 4 0 17
+p650
+aVDwyane Wade MIA 12/01/2010 MIA vs. DET W 18 16 7 9 77.8 0 0 - 2 5 40.0 0 2 2 1 2 0 3 4 19
+p651
+aVEddie House MIA 12/01/2010 MIA vs. DET W 15 10 3 5 60.0 2 3 66.7 2 2 100.0 0 1 1 2 0 0 0 0 -3
+p652
+aVJames Jones MIA 12/01/2010 MIA vs. DET W 28 9 3 8 37.5 3 6 50.0 0 0 - 4 3 7 0 0 0 0 1 22
+p653
+aVJuwan Howard MIA 12/01/2010 MIA vs. DET W 19 12 6 9 66.7 0 0 - 0 0 - 1 3 4 1 1 0 0 3 2
+p654
+aVJoel Anthony MIA 12/01/2010 MIA vs. DET W 23 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 1 2 1 1 17
+p655
+aVZydrunas Ilgauskas MIA 12/01/2010 MIA vs. DET W 17 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 1 0 2 0 1 15
+p656
+aVMario Chalmers MIA 12/01/2010 MIA vs. DET W 24 4 1 4 25.0 0 1 0.0 2 2 100.0 0 4 4 6 3 0 0 0 11
+p657
+aVErick Dampier MIA 11/29/2010 MIA vs. WAS W 12 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 0 1 0 2 -2
+p658
+aVDwyane Wade MIA 11/29/2010 MIA vs. WAS W 35 26 8 17 47.1 0 1 0.0 10 10 100.0 0 8 8 6 4 1 2 1 13
+p659
+aVMario Chalmers MIA 11/29/2010 MIA vs. WAS W 22 5 2 8 25.0 1 5 20.0 0 0 - 0 5 5 1 0 0 0 1 8
+p660
+aVJoel Anthony MIA 11/29/2010 MIA vs. WAS W 23 6 2 3 66.7 0 0 - 2 4 50.0 4 0 4 0 0 2 0 6 5
+p661
+aVCarlos Arroyo MIA 11/29/2010 MIA vs. WAS W 25 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 1 -3
+p662
+aVJuwan Howard MIA 11/29/2010 MIA vs. WAS W 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p663
+aVEddie House MIA 11/29/2010 MIA vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p664
+aVLeBron James MIA 11/29/2010 MIA vs. WAS W 38 30 10 18 55.6 1 1 100.0 9 11 81.8 1 5 6 5 1 1 7 3 3
+p665
+aVChris Bosh MIA 11/29/2010 MIA vs. WAS W 37 20 5 14 35.7 0 0 - 10 14 71.4 2 5 7 1 1 0 4 2 17
+p666
+aVZydrunas Ilgauskas MIA 11/29/2010 MIA vs. WAS W 13 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 0 1 1 2 8
+p667
+aVJames Jones MIA 11/29/2010 MIA vs. WAS W 25 7 2 5 40.0 2 4 50.0 1 1 100.0 0 1 1 0 0 0 0 1 12
+p668
+aVMario Chalmers MIA 11/27/2010 MIA @ DAL L 21 8 2 4 50.0 2 3 66.7 2 2 100.0 0 1 1 3 2 0 0 3 1
+p669
+aVZydrunas Ilgauskas MIA 11/27/2010 MIA @ DAL L 11 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 2 0 0 3 -15
+p670
+aVJames Jones MIA 11/27/2010 MIA @ DAL L 17 9 3 5 60.0 2 4 50.0 1 1 100.0 1 2 3 1 1 0 0 1 -1
+p671
+aVLeBron James MIA 11/27/2010 MIA @ DAL L 36 23 5 19 26.3 0 4 0.0 13 15 86.7 2 6 8 4 1 0 5 3 -14
+p672
+aVChris Bosh MIA 11/27/2010 MIA @ DAL L 38 22 9 18 50.0 0 1 0.0 4 4 100.0 1 7 8 2 2 0 1 5 -8
+p673
+aVEddie House MIA 11/27/2010 MIA @ DAL L 10 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p674
+aVJuwan Howard MIA 11/27/2010 MIA @ DAL L 9 2 0 0 - 0 0 - 2 2 100.0 1 2 3 2 0 0 1 2 2
+p675
+aVErick Dampier MIA 11/27/2010 MIA @ DAL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p676
+aVJoel Anthony MIA 11/27/2010 MIA @ DAL L 29 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 3 0 2 2
+p677
+aVDwyane Wade MIA 11/27/2010 MIA @ DAL L 41 22 8 16 50.0 0 1 0.0 6 11 54.5 1 8 9 5 0 2 7 3 -8
+p678
+aVCarlos Arroyo MIA 11/27/2010 MIA @ DAL L 21 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 -12
+p679
+aVDwyane Wade MIA 11/26/2010 MIA vs. PHI W 36 23 7 16 43.8 0 1 0.0 9 12 75.0 3 3 6 8 2 0 3 2 -2
+p680
+aVZydrunas Ilgauskas MIA 11/26/2010 MIA vs. PHI W 16 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 2 4
+p681
+aVMario Chalmers MIA 11/26/2010 MIA vs. PHI W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -1
+p682
+aVChris Bosh MIA 11/26/2010 MIA vs. PHI W 38 18 9 20 45.0 0 0 - 0 0 - 2 7 9 2 1 1 1 2 15
+p683
+aVJoel Anthony MIA 11/26/2010 MIA vs. PHI W 31 7 2 4 50.0 0 0 - 3 4 75.0 1 4 5 0 0 1 1 3 8
+p684
+aVLeBron James MIA 11/26/2010 MIA vs. PHI W 41 20 5 15 33.3 1 5 20.0 9 11 81.8 1 7 8 6 2 1 2 1 11
+p685
+aVJames Jones MIA 11/26/2010 MIA vs. PHI W 14 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 8
+p686
+aVJuwan Howard MIA 11/26/2010 MIA vs. PHI W 11 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -9
+p687
+aVEddie House MIA 11/26/2010 MIA vs. PHI W 14 3 1 5 20.0 1 3 33.3 0 0 - 2 0 2 0 0 0 0 0 13
+p688
+aVCarlos Arroyo MIA 11/26/2010 MIA vs. PHI W 32 17 6 9 66.7 3 4 75.0 2 2 100.0 1 1 2 1 1 0 2 3 -2
+p689
+aVZydrunas Ilgauskas MIA 11/24/2010 MIA @ ORL L 25 7 3 7 42.9 0 0 - 1 2 50.0 3 3 6 1 1 0 0 5 5
+p690
+aVDwyane Wade MIA 11/24/2010 MIA @ ORL L 40 18 6 21 28.6 1 4 25.0 5 7 71.4 2 5 7 5 0 1 1 2 -10
+p691
+aVLeBron James MIA 11/24/2010 MIA @ ORL L 41 25 9 18 50.0 1 3 33.3 6 8 75.0 1 5 6 4 1 0 3 3 -15
+p692
+aVJames Jones MIA 11/24/2010 MIA @ ORL L 17 0 0 5 0.0 0 5 0.0 0 0 - 1 2 3 0 1 0 0 2 5
+p693
+aVJamaal Magloire MIA 11/24/2010 MIA @ ORL L 10 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 1 0 0 1 -8
+p694
+aVChris Bosh MIA 11/24/2010 MIA @ ORL L 36 21 7 13 53.8 0 0 - 7 8 87.5 3 3 6 2 0 0 2 4 -3
+p695
+aVJuwan Howard MIA 11/24/2010 MIA @ ORL L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 1 -6
+p696
+aVEddie House MIA 11/24/2010 MIA @ ORL L 26 7 2 6 33.3 1 4 25.0 2 2 100.0 0 3 3 2 2 0 1 4 -12
+p697
+aVJoel Anthony MIA 11/24/2010 MIA @ ORL L 11 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 1 1 5 -4
+p698
+aVCarlos Arroyo MIA 11/24/2010 MIA @ ORL L 22 9 4 7 57.1 1 2 50.0 0 0 - 0 4 4 5 0 0 0 0 3
+p699
+aVJuwan Howard MIA 11/22/2010 MIA vs. IND L 15 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 1 2 6
+p700
+aVJames Jones MIA 11/22/2010 MIA vs. IND L 21 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 2 1 -13
+p701
+aVLeBron James MIA 11/22/2010 MIA vs. IND L 42 25 6 14 42.9 2 8 25.0 11 15 73.3 0 5 5 6 1 0 6 3 -1
+p702
+aVCarlos Arroyo MIA 11/22/2010 MIA vs. IND L 25 12 5 6 83.3 2 2 100.0 0 0 - 0 1 1 2 0 0 2 3 0
+p703
+aVChris Bosh MIA 11/22/2010 MIA vs. IND L 39 21 7 13 53.8 0 0 - 7 10 70.0 1 10 11 0 1 2 4 2 -22
+p704
+aVEddie House MIA 11/22/2010 MIA vs. IND L 23 0 0 6 0.0 0 5 0.0 0 0 - 0 2 2 1 0 0 0 2 -16
+p705
+aVZydrunas Ilgauskas MIA 11/22/2010 MIA vs. IND L 22 12 4 8 50.0 0 0 - 4 4 100.0 4 4 8 1 0 4 2 2 -7
+p706
+aVDwyane Wade MIA 11/22/2010 MIA vs. IND L 38 3 1 13 7.7 0 4 0.0 1 5 20.0 0 4 4 5 2 2 5 3 -18
+p707
+aVJamaal Magloire MIA 11/22/2010 MIA vs. IND L 15 4 1 1 100.0 0 0 - 2 4 50.0 1 3 4 0 0 1 0 1 -9
+p708
+aVJames Jones MIA 11/20/2010 MIA @ MEM L 20 3 1 7 14.3 0 6 0.0 1 1 100.0 1 2 3 0 1 0 0 1 6
+p709
+aVLeBron James MIA 11/20/2010 MIA @ MEM L 42 29 11 23 47.8 2 4 50.0 5 6 83.3 0 3 3 11 1 0 4 2 -1
+p710
+aVZydrunas Ilgauskas MIA 11/20/2010 MIA @ MEM L 31 6 3 8 37.5 0 0 - 0 0 - 2 8 10 0 0 0 0 4 -5
+p711
+aVJamaal Magloire MIA 11/20/2010 MIA @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p712
+aVMario Chalmers MIA 11/20/2010 MIA @ MEM L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 -7
+p713
+aVJuwan Howard MIA 11/20/2010 MIA @ MEM L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 0
+p714
+aVCarlos Arroyo MIA 11/20/2010 MIA @ MEM L 21 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p715
+aVEddie House MIA 11/20/2010 MIA @ MEM L 30 20 7 13 53.8 6 9 66.7 0 0 - 1 0 1 4 1 0 0 2 4
+p716
+aVJerry Stackhouse MIA 11/20/2010 MIA @ MEM L 19 2 1 3 33.3 0 1 0.0 0 1 0.0 0 1 1 1 0 0 0 2 -3
+p717
+aVChris Bosh MIA 11/20/2010 MIA @ MEM L 39 20 8 14 57.1 1 1 100.0 3 4 75.0 2 8 10 0 2 0 1 4 0
+p718
+aVUdonis Haslem MIA 11/20/2010 MIA @ MEM L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 1
+p719
+aVJames Jones MIA 11/19/2010 MIA vs. CHA W 28 7 2 6 33.3 2 6 33.3 1 1 100.0 0 3 3 1 0 1 0 1 5
+p720
+aVZydrunas Ilgauskas MIA 11/19/2010 MIA vs. CHA W 19 8 4 5 80.0 0 0 - 0 0 - 3 6 9 0 1 2 0 2 -1
+p721
+aVJoel Anthony MIA 11/19/2010 MIA vs. CHA W 7 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -5
+p722
+aVDwyane Wade MIA 11/19/2010 MIA vs. CHA W 36 11 4 13 30.8 0 4 0.0 3 6 50.0 0 3 3 4 2 0 2 3 7
+p723
+aVCarlos Arroyo MIA 11/19/2010 MIA vs. CHA W 16 8 2 5 40.0 1 1 100.0 3 4 75.0 0 1 1 1 0 0 0 0 5
+p724
+aVUdonis Haslem MIA 11/19/2010 MIA vs. CHA W 32 6 3 6 50.0 0 0 - 0 0 - 3 6 9 1 0 0 1 2 6
+p725
+aVEddie House MIA 11/19/2010 MIA vs. CHA W 19 1 0 3 0.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 4 -1
+p726
+aVChris Bosh MIA 11/19/2010 MIA vs. CHA W 38 22 7 15 46.7 0 0 - 8 8 100.0 2 12 14 1 0 0 3 2 16
+p727
+aVLeBron James MIA 11/19/2010 MIA vs. CHA W 39 32 12 25 48.0 2 5 40.0 6 7 85.7 0 2 2 5 2 0 4 1 4
+p728
+aVMario Chalmers MIA 11/19/2010 MIA vs. CHA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 4
+p729
+aVJoel Anthony MIA 11/17/2010 MIA vs. PHX W 16 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 0 1 1 4 2
+p730
+aVMario Chalmers MIA 11/17/2010 MIA vs. PHX W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p731
+aVChris Bosh MIA 11/17/2010 MIA vs. PHX W 30 35 12 17 70.6 0 0 - 11 11 100.0 0 6 6 4 1 0 0 2 23
+p732
+aVUdonis Haslem MIA 11/17/2010 MIA vs. PHX W 27 8 4 8 50.0 0 0 - 0 0 - 3 7 10 0 2 0 2 2 21
+p733
+aVLeBron James MIA 11/17/2010 MIA vs. PHX W 23 20 9 15 60.0 0 2 0.0 2 3 66.7 3 5 8 9 3 0 3 5 24
+p734
+aVCarlos Arroyo MIA 11/17/2010 MIA vs. PHX W 22 10 3 6 50.0 2 4 50.0 2 3 66.7 0 1 1 4 1 0 1 4 -7
+p735
+aVDwyane Wade MIA 11/17/2010 MIA vs. PHX W 31 17 6 11 54.5 0 1 0.0 5 6 83.3 1 5 6 6 0 2 2 2 20
+p736
+aVZydrunas Ilgauskas MIA 11/17/2010 MIA vs. PHX W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 4
+p737
+aVJuwan Howard MIA 11/17/2010 MIA vs. PHX W 15 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 0 2 4
+p738
+aVJames Jones MIA 11/17/2010 MIA vs. PHX W 30 5 2 8 25.0 1 4 25.0 0 0 - 0 1 1 1 1 0 0 0 23
+p739
+aVEddie House MIA 11/17/2010 MIA vs. PHX W 28 15 6 9 66.7 3 6 50.0 0 0 - 0 0 0 2 1 0 2 3 19
+p740
+aVJerry Stackhouse MIA 11/17/2010 MIA vs. PHX W 5 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 0 1
+p741
+aVJoel Anthony MIA 11/13/2010 MIA vs. TOR W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 2
+p742
+aVUdonis Haslem MIA 11/13/2010 MIA vs. TOR W 37 10 4 8 50.0 0 0 - 2 2 100.0 5 5 10 0 1 0 2 2 1
+p743
+aVJames Jones MIA 11/13/2010 MIA vs. TOR W 27 14 4 7 57.1 3 5 60.0 3 4 75.0 0 5 5 0 0 0 0 3 -4
+p744
+aVCarlos Arroyo MIA 11/13/2010 MIA vs. TOR W 18 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 12
+p745
+aVZydrunas Ilgauskas MIA 11/13/2010 MIA vs. TOR W 30 12 6 7 85.7 0 0 - 0 0 - 1 2 3 0 0 1 1 4 4
+p746
+aVLeBron James MIA 11/13/2010 MIA vs. TOR W 39 23 8 21 38.1 0 1 0.0 7 11 63.6 1 1 2 11 2 0 3 0 11
+p747
+aVMario Chalmers MIA 11/13/2010 MIA vs. TOR W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -4
+p748
+aVChris Bosh MIA 11/13/2010 MIA vs. TOR W 22 12 4 8 50.0 0 0 - 4 4 100.0 2 4 6 4 0 0 1 5 11
+p749
+aVEddie House MIA 11/13/2010 MIA vs. TOR W 14 3 1 4 25.0 0 2 0.0 1 1 100.0 0 2 2 0 1 0 0 1 6
+p750
+aVDwyane Wade MIA 11/13/2010 MIA vs. TOR W 35 31 11 16 68.8 0 1 0.0 9 14 64.3 2 6 8 2 0 1 1 2 6
+p751
+aVZydrunas Ilgauskas MIA 11/11/2010 MIA vs. BOS L 19 6 3 4 75.0 0 0 - 0 0 - 2 4 6 0 0 1 1 4 -1
+p752
+aVCarlos Arroyo MIA 11/11/2010 MIA vs. BOS L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p753
+aVChris Bosh MIA 11/11/2010 MIA vs. BOS L 36 15 6 10 60.0 0 0 - 3 4 75.0 4 3 7 2 0 1 0 2 -6
+p754
+aVMario Chalmers MIA 11/11/2010 MIA vs. BOS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -8
+p755
+aVLeBron James MIA 11/11/2010 MIA vs. BOS L 44 35 9 21 42.9 0 5 0.0 17 22 77.3 0 10 10 9 3 0 4 3 0
+p756
+aVEddie House MIA 11/11/2010 MIA vs. BOS L 19 13 4 6 66.7 2 2 100.0 3 3 100.0 1 0 1 0 0 0 1 3 3
+p757
+aVDwyane Wade MIA 11/11/2010 MIA vs. BOS L 40 8 2 12 16.7 0 5 0.0 4 6 66.7 0 1 1 3 0 1 6 4 -17
+p758
+aVJerry Stackhouse MIA 11/11/2010 MIA vs. BOS L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -1
+p759
+aVJoel Anthony MIA 11/11/2010 MIA vs. BOS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p760
+aVJames Jones MIA 11/11/2010 MIA vs. BOS L 19 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 2 0 0 1 4 14
+p761
+aVUdonis Haslem MIA 11/11/2010 MIA vs. BOS L 33 21 9 10 90.0 0 0 - 3 4 75.0 4 6 10 1 1 1 1 1 9
+p762
+aVDwyane Wade MIA 11/09/2010 MIA vs. UTA L 42 39 12 23 52.2 3 5 60.0 12 16 75.0 1 5 6 1 1 0 2 3 0
+p763
+aVChris Bosh MIA 11/09/2010 MIA vs. UTA L 41 17 7 13 53.8 0 0 - 3 6 50.0 1 8 9 3 0 2 1 2 -1
+p764
+aVUdonis Haslem MIA 11/09/2010 MIA vs. UTA L 31 5 2 5 40.0 0 0 - 1 2 50.0 3 6 9 0 1 0 1 3 -13
+p765
+aVLeBron James MIA 11/09/2010 MIA vs. UTA L 47 20 5 18 27.8 0 1 0.0 10 11 90.9 2 9 11 14 1 3 2 3 4
+p766
+aVJames Jones MIA 11/09/2010 MIA vs. UTA L 28 11 2 5 40.0 2 5 40.0 5 5 100.0 0 1 1 0 0 0 1 3 -5
+p767
+aVJoel Anthony MIA 11/09/2010 MIA vs. UTA L 18 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 1 0 1 12
+p768
+aVEddie House MIA 11/09/2010 MIA vs. UTA L 13 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p769
+aVZydrunas Ilgauskas MIA 11/09/2010 MIA vs. UTA L 17 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 1 4 3 -4
+p770
+aVCarlos Arroyo MIA 11/09/2010 MIA vs. UTA L 29 10 2 4 50.0 1 1 100.0 5 7 71.4 0 0 0 2 0 0 0 1 5
+p771
+aVJames Jones MIA 11/06/2010 MIA vs. NJN W 24 8 3 4 75.0 2 3 66.7 0 0 - 0 3 3 1 0 0 0 0 19
+p772
+aVChris Bosh MIA 11/06/2010 MIA vs. NJN W 33 21 6 12 50.0 0 1 0.0 9 10 90.0 0 5 5 2 1 3 0 0 11
+p773
+aVJoel Anthony MIA 11/06/2010 MIA vs. NJN W 12 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 2 0 1 2
+p774
+aVEddie House MIA 11/06/2010 MIA vs. NJN W 23 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 1 2 0 0 2 1
+p775
+aVCarlos Arroyo MIA 11/06/2010 MIA vs. NJN W 20 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 6
+p776
+aVMario Chalmers MIA 11/06/2010 MIA vs. NJN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -8
+p777
+aVJerry Stackhouse MIA 11/06/2010 MIA vs. NJN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -8
+p778
+aVLeBron James MIA 11/06/2010 MIA vs. NJN W 34 23 9 16 56.3 2 4 50.0 3 5 60.0 0 3 3 9 2 0 4 1 11
+p779
+aVJamaal Magloire MIA 11/06/2010 MIA vs. NJN W 4 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 -8
+p780
+aVDwyane Wade MIA 11/06/2010 MIA vs. NJN W 36 29 10 17 58.8 2 3 66.7 7 10 70.0 3 7 10 3 2 1 3 2 15
+p781
+aVUdonis Haslem MIA 11/06/2010 MIA vs. NJN W 30 6 3 9 33.3 0 0 - 0 0 - 1 6 7 2 0 0 3 4 8
+p782
+aVZydrunas Ilgauskas MIA 11/06/2010 MIA vs. NJN W 17 4 2 4 50.0 0 0 - 0 0 - 0 8 8 0 0 0 0 2 11
+p783
+aVChris Bosh MIA 11/05/2010 MIA @ NOH L 34 15 7 13 53.8 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 -4
+p784
+aVJames Jones MIA 11/05/2010 MIA @ NOH L 28 6 2 6 33.3 2 6 33.3 0 0 - 0 1 1 2 0 1 0 3 15
+p785
+aVZydrunas Ilgauskas MIA 11/05/2010 MIA @ NOH L 22 10 5 6 83.3 0 0 - 0 0 - 0 3 3 0 0 0 0 4 3
+p786
+aVCarlos Arroyo MIA 11/05/2010 MIA @ NOH L 17 0 0 2 0.0 0 0 - 0 1 0.0 1 0 1 1 0 0 1 1 -11
+p787
+aVEddie House MIA 11/05/2010 MIA @ NOH L 18 4 2 10 20.0 0 7 0.0 0 0 - 1 1 2 3 1 0 1 2 0
+p788
+aVJoel Anthony MIA 11/05/2010 MIA @ NOH L 14 2 1 2 50.0 0 0 - 0 0 - 3 2 5 0 0 1 0 1 -10
+p789
+aVDwyane Wade MIA 11/05/2010 MIA @ NOH L 40 28 7 16 43.8 1 5 20.0 13 13 100.0 2 8 10 2 2 2 7 1 -7
+p790
+aVLeBron James MIA 11/05/2010 MIA @ NOH L 41 20 6 16 37.5 1 2 50.0 7 8 87.5 0 7 7 10 3 1 3 0 -6
+p791
+aVUdonis Haslem MIA 11/05/2010 MIA @ NOH L 26 8 3 7 42.9 0 0 - 2 2 100.0 1 5 6 0 0 0 0 4 5
+p792
+aVJoel Anthony MIA 11/02/2010 MIA vs. MIN W 20 4 1 1 100.0 0 0 - 2 2 100.0 0 5 5 0 1 1 0 2 11
+p793
+aVMario Chalmers MIA 11/02/2010 MIA vs. MIN W 18 8 2 4 50.0 2 4 50.0 2 2 100.0 0 2 2 8 1 0 2 1 8
+p794
+aVJuwan Howard MIA 11/02/2010 MIA vs. MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 6
+p795
+aVLeBron James MIA 11/02/2010 MIA vs. MIN W 32 20 7 12 58.3 0 2 0.0 6 8 75.0 0 0 0 12 2 1 1 0 32
+p796
+aVJames Jones MIA 11/02/2010 MIA vs. MIN W 22 17 6 10 60.0 5 9 55.6 0 0 - 1 5 6 1 0 0 0 4 11
+p797
+aVUdonis Haslem MIA 11/02/2010 MIA vs. MIN W 24 11 5 6 83.3 0 0 - 1 2 50.0 1 9 10 1 0 1 1 4 10
+p798
+aVEddie House MIA 11/02/2010 MIA vs. MIN W 17 15 4 5 80.0 4 4 100.0 3 4 75.0 0 2 2 1 2 0 2 3 -2
+p799
+aVDwyane Wade MIA 11/02/2010 MIA vs. MIN W 24 26 12 17 70.6 0 0 - 2 2 100.0 1 1 2 1 0 0 3 5 12
+p800
+aVChris Bosh MIA 11/02/2010 MIA vs. MIN W 26 13 4 12 33.3 0 0 - 5 6 83.3 1 5 6 2 2 1 2 2 25
+p801
+aVCarlos Arroyo MIA 11/02/2010 MIA vs. MIN W 24 8 2 3 66.7 1 2 50.0 3 3 100.0 1 5 6 3 0 0 1 1 29
+p802
+aVJerry Stackhouse MIA 11/02/2010 MIA vs. MIN W 6 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 1 0 6
+p803
+aVZydrunas Ilgauskas MIA 11/02/2010 MIA vs. MIN W 19 6 3 6 50.0 0 0 - 0 0 - 2 4 6 2 0 2 1 4 12
+p804
+aVCarlos Arroyo MIA 10/31/2010 MIA @ NJN W 27 12 5 7 71.4 1 2 50.0 1 2 50.0 0 5 5 4 1 0 1 4 5
+p805
+aVUdonis Haslem MIA 10/31/2010 MIA @ NJN W 24 6 2 7 28.6 0 0 - 2 2 100.0 2 5 7 0 2 0 0 3 8
+p806
+aVEddie House MIA 10/31/2010 MIA @ NJN W 24 11 5 8 62.5 1 3 33.3 0 0 - 0 3 3 4 1 0 0 1 12
+p807
+aVJamaal Magloire MIA 10/31/2010 MIA @ NJN W 3 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 0
+p808
+aVMario Chalmers MIA 10/31/2010 MIA @ NJN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 0
+p809
+aVJoel Anthony MIA 10/31/2010 MIA @ NJN W 24 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 2 1 4 0 4 9
+p810
+aVJames Jones MIA 10/31/2010 MIA @ NJN W 31 6 2 6 33.3 2 4 50.0 0 0 - 0 2 2 1 0 0 0 1 15
+p811
+aVJerry Stackhouse MIA 10/31/2010 MIA @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p812
+aVChris Bosh MIA 10/31/2010 MIA @ NJN W 26 18 8 10 80.0 0 0 - 2 2 100.0 0 1 1 2 0 1 0 0 13
+p813
+aVDwyane Wade MIA 10/31/2010 MIA @ NJN W 27 17 4 9 44.4 1 2 50.0 8 12 66.7 1 5 6 7 2 1 1 0 19
+p814
+aVZydrunas Ilgauskas MIA 10/31/2010 MIA @ NJN W 18 10 5 6 83.3 0 0 - 0 0 - 1 3 4 1 0 0 0 5 16
+p815
+aVLeBron James MIA 10/31/2010 MIA @ NJN W 29 20 5 12 41.7 0 4 0.0 10 12 83.3 0 7 7 7 2 0 5 3 18
+p816
+aVJamaal Magloire MIA 10/29/2010 MIA vs. ORL W 5 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -2
+p817
+aVUdonis Haslem MIA 10/29/2010 MIA vs. ORL W 23 11 4 7 57.1 0 0 - 3 4 75.0 2 9 11 0 0 0 2 2 2
+p818
+aVZydrunas Ilgauskas MIA 10/29/2010 MIA vs. ORL W 16 8 4 10 40.0 0 0 - 0 0 - 5 0 5 0 0 1 0 3 0
+p819
+aVMario Chalmers MIA 10/29/2010 MIA vs. ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p820
+aVEddie House MIA 10/29/2010 MIA vs. ORL W 24 8 2 9 22.2 2 3 66.7 2 2 100.0 0 3 3 1 3 0 2 3 -1
+p821
+aVDwyane Wade MIA 10/29/2010 MIA vs. ORL W 34 26 9 20 45.0 2 6 33.3 6 8 75.0 2 4 6 3 0 2 4 2 32
+p822
+aVChris Bosh MIA 10/29/2010 MIA vs. ORL W 30 11 2 9 22.2 0 1 0.0 7 8 87.5 1 9 10 1 1 1 0 4 29
+p823
+aVJoel Anthony MIA 10/29/2010 MIA vs. ORL W 23 0 0 0 - 0 0 - 0 0 - 3 1 4 0 0 0 1 5 23
+p824
+aVCarlos Arroyo MIA 10/29/2010 MIA vs. ORL W 25 7 3 7 42.9 0 0 - 1 1 100.0 0 4 4 4 1 0 0 1 21
+p825
+aVJames Jones MIA 10/29/2010 MIA vs. ORL W 27 9 3 6 50.0 3 5 60.0 0 0 - 0 1 1 1 1 1 0 2 10
+p826
+aVLeBron James MIA 10/29/2010 MIA vs. ORL W 30 15 6 13 46.2 2 3 66.7 1 2 50.0 0 6 6 7 0 0 3 4 13
+p827
+aVJames Jones MIA 10/27/2010 MIA @ PHI W 30 20 7 10 70.0 6 9 66.7 0 0 - 0 1 1 0 1 1 0 1 -3
+p828
+aVLeBron James MIA 10/27/2010 MIA @ PHI W 38 16 5 12 41.7 0 2 0.0 6 6 100.0 0 6 6 7 2 1 9 1 6
+p829
+aVJuwan Howard MIA 10/27/2010 MIA @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p830
+aVCarlos Arroyo MIA 10/27/2010 MIA @ PHI W 28 6 3 7 42.9 0 0 - 0 0 - 1 2 3 1 1 0 3 1 17
+p831
+aVDwyane Wade MIA 10/27/2010 MIA @ PHI W 35 30 10 20 50.0 1 2 50.0 9 12 75.0 2 5 7 4 3 2 1 3 9
+p832
+aVJoel Anthony MIA 10/27/2010 MIA @ PHI W 18 0 0 0 - 0 0 - 0 2 0.0 0 3 3 0 0 1 1 4 8
+p833
+aVZydrunas Ilgauskas MIA 10/27/2010 MIA @ PHI W 9 5 1 2 50.0 0 0 - 3 4 75.0 1 2 3 0 0 0 0 2 6
+p834
+aVJerry Stackhouse MIA 10/27/2010 MIA @ PHI W 5 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 1
+p835
+aVEddie House MIA 10/27/2010 MIA @ PHI W 22 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 -10
+p836
+aVUdonis Haslem MIA 10/27/2010 MIA @ PHI W 13 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 0 0 1 5 -2
+p837
+aVChris Bosh MIA 10/27/2010 MIA @ PHI W 39 15 6 12 50.0 0 0 - 3 5 60.0 1 6 7 1 1 1 1 1 25
+p838
+aVEddie House MIA 10/26/2010 MIA @ BOS L 26 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 2 1 0 0 0 0
+p839
+aVDwyane Wade MIA 10/26/2010 MIA @ BOS L 37 13 4 16 25.0 1 3 33.3 4 6 66.7 0 4 4 6 3 0 6 4 -18
+p840
+aVJoel Anthony MIA 10/26/2010 MIA @ BOS L 17 2 1 1 100.0 0 0 - 0 0 - 3 4 7 1 0 1 0 2 -12
+p841
+aVZydrunas Ilgauskas MIA 10/26/2010 MIA @ BOS L 11 1 0 0 - 0 0 - 1 2 50.0 2 1 3 0 3 1 2 4 17
+p842
+aVCarlos Arroyo MIA 10/26/2010 MIA @ BOS L 13 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -5
+p843
+aVJames Jones MIA 10/26/2010 MIA @ BOS L 26 6 2 7 28.6 2 7 28.6 0 0 - 0 2 2 1 1 0 0 2 -2
+p844
+aVLeBron James MIA 10/26/2010 MIA @ BOS L 43 31 10 21 47.6 3 6 50.0 8 12 66.7 0 4 4 3 1 2 8 1 1
+p845
+aVUdonis Haslem MIA 10/26/2010 MIA @ BOS L 31 8 3 7 42.9 0 0 - 2 2 100.0 4 7 11 0 0 1 0 4 -4
+p846
+aVChris Bosh MIA 10/26/2010 MIA @ BOS L 38 8 3 11 27.3 0 0 - 2 2 100.0 2 6 8 2 1 1 1 4 -17
+p847
+a.

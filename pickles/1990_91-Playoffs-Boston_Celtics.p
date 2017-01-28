@@ -1,0 +1,212 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDee Brown BOS 05/17/1991 BOS @ DET L 39 21 9 13 69.2 0 0 - 3 4 75.0 0 5 5 4 0 1 2 1 -
+p2
+aVLarry Bird BOS 05/17/1991 BOS @ DET L 45 12 4 14 28.6 0 0 - 4 4 100.0 1 3 4 4 2 0 0 3 -
+p3
+aVReggie Lewis BOS 05/17/1991 BOS @ DET L 51 23 9 27 33.3 0 1 0.0 5 5 100.0 3 4 7 5 2 1 2 2 -
+p4
+aVKevin McHale BOS 05/17/1991 BOS @ DET L 46 34 11 19 57.9 1 1 100.0 11 14 78.6 1 7 8 3 0 0 2 5 -
+p5
+aVJoe Kleine BOS 05/17/1991 BOS @ DET L 7 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 4 -
+p6
+aVKevin Gamble BOS 05/17/1991 BOS @ DET L 18 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p7
+aVBrian Shaw BOS 05/17/1991 BOS @ DET L 18 8 3 10 30.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 -
+p8
+aVEd Pinckney BOS 05/17/1991 BOS @ DET L 40 13 6 6 100.0 0 0 - 1 3 33.3 5 4 9 1 0 1 0 3 -
+p9
+aVMichael Smith BOS 05/17/1991 BOS @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p10
+aVRobert Parish BOS 05/15/1991 BOS vs. DET L 12 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p11
+aVEd Pinckney BOS 05/15/1991 BOS vs. DET L 30 12 2 2 100.0 0 0 - 8 8 100.0 6 3 9 0 0 0 0 2 -
+p12
+aVLarry Bird BOS 05/15/1991 BOS vs. DET L 41 16 7 18 38.9 0 3 0.0 2 2 100.0 1 4 5 5 1 0 1 2 -
+p13
+aVReggie Lewis BOS 05/15/1991 BOS vs. DET L 43 30 11 22 50.0 0 1 0.0 8 8 100.0 6 5 11 5 0 1 3 6 -
+p14
+aVBrian Shaw BOS 05/15/1991 BOS vs. DET L 20 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 1 1 4 -
+p15
+aVDee Brown BOS 05/15/1991 BOS vs. DET L 33 19 8 10 80.0 0 0 - 3 4 75.0 0 3 3 10 2 0 3 4 -
+p16
+aVJoe Kleine BOS 05/15/1991 BOS vs. DET L 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p17
+aVKevin Gamble BOS 05/15/1991 BOS vs. DET L 10 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 2 -
+p18
+aVKevin McHale BOS 05/15/1991 BOS vs. DET L 39 18 6 17 35.3 1 3 33.3 5 6 83.3 0 7 7 3 1 2 1 4 -
+p19
+aVDerek Smith BOS 05/15/1991 BOS vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p20
+aVLarry Bird BOS 05/13/1991 BOS @ DET L 44 13 4 10 40.0 0 0 - 5 5 100.0 0 6 6 4 3 0 1 1 -
+p21
+aVKevin Gamble BOS 05/13/1991 BOS @ DET L 27 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p22
+aVRobert Parish BOS 05/13/1991 BOS @ DET L 23 12 4 7 57.1 0 0 - 4 10 40.0 2 8 10 0 0 1 1 6 -
+p23
+aVReggie Lewis BOS 05/13/1991 BOS @ DET L 39 20 8 14 57.1 0 0 - 4 6 66.7 0 6 6 3 0 0 0 4 -
+p24
+aVDee Brown BOS 05/13/1991 BOS @ DET L 31 8 4 12 33.3 0 1 0.0 0 0 - 0 4 4 4 0 0 1 2 -
+p25
+aVDerek Smith BOS 05/13/1991 BOS @ DET L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p26
+aVKevin McHale BOS 05/13/1991 BOS @ DET L 37 28 13 21 61.9 0 2 0.0 2 3 66.7 1 2 3 1 0 0 2 5 -
+p27
+aVEd Pinckney BOS 05/13/1991 BOS @ DET L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 5 -
+p28
+aVBrian Shaw BOS 05/13/1991 BOS @ DET L 19 6 3 5 60.0 0 0 - 0 0 - 0 1 1 6 1 0 0 3 -
+p29
+aVMichael Smith BOS 05/11/1991 BOS @ DET W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -
+p30
+aVKevin Gamble BOS 05/11/1991 BOS @ DET W 19 7 3 7 42.9 0 0 - 1 2 50.0 0 1 1 1 1 0 1 1 -
+p31
+aVKevin McHale BOS 05/11/1991 BOS @ DET W 26 16 4 9 44.4 1 1 100.0 7 8 87.5 2 4 6 6 0 1 2 4 -
+p32
+aVDee Brown BOS 05/11/1991 BOS @ DET W 29 13 6 14 42.9 0 1 0.0 1 2 50.0 2 7 9 6 1 1 2 1 -
+p33
+aVLarry Bird BOS 05/11/1991 BOS @ DET W 33 10 4 11 36.4 1 3 33.3 1 3 33.3 2 5 7 4 1 0 1 3 -
+p34
+aVBrian Shaw BOS 05/11/1991 BOS @ DET W 30 19 7 12 58.3 1 1 100.0 4 5 80.0 1 7 8 5 0 0 1 1 -
+p35
+aVDerek Smith BOS 05/11/1991 BOS @ DET W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 2 2 -
+p36
+aVEd Pinckney BOS 05/11/1991 BOS @ DET W 18 4 2 2 100.0 0 0 - 0 0 - 3 2 5 1 0 0 0 1 -
+p37
+aVStojko Vrankovic BOS 05/11/1991 BOS @ DET W 4 2 1 1 100.0 0 0 - 0 1 0.0 0 2 2 0 0 0 1 2 -
+p38
+aVReggie Lewis BOS 05/11/1991 BOS @ DET W 37 21 9 16 56.3 0 0 - 3 4 75.0 0 3 3 1 0 0 1 3 -
+p39
+aVRobert Parish BOS 05/11/1991 BOS @ DET W 22 13 5 8 62.5 0 0 - 3 5 60.0 4 7 11 0 0 2 0 3 -
+p40
+aVJoe Kleine BOS 05/11/1991 BOS @ DET W 7 6 3 3 100.0 0 0 - 0 0 - 2 3 5 1 0 0 1 1 -
+p41
+aVBrian Shaw BOS 05/09/1991 BOS vs. DET W 30 8 4 10 40.0 0 0 - 0 0 - 1 1 2 5 0 0 2 3 -
+p42
+aVDee Brown BOS 05/09/1991 BOS vs. DET W 30 22 7 11 63.6 0 0 - 8 10 80.0 2 2 4 8 1 1 2 5 -
+p43
+aVDerek Smith BOS 05/09/1991 BOS vs. DET W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p44
+aVReggie Lewis BOS 05/09/1991 BOS vs. DET W 36 23 8 14 57.1 0 0 - 7 7 100.0 1 6 7 1 0 2 2 1 -
+p45
+aVKevin Gamble BOS 05/09/1991 BOS vs. DET W 18 6 3 5 60.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -
+p46
+aVKevin McHale BOS 05/09/1991 BOS vs. DET W 30 15 6 13 46.2 0 0 - 3 5 60.0 4 5 9 1 0 1 0 3 -
+p47
+aVLarry Bird BOS 05/09/1991 BOS vs. DET W 42 16 7 15 46.7 1 1 100.0 1 2 50.0 0 8 8 5 0 1 1 3 -
+p48
+aVEd Pinckney BOS 05/09/1991 BOS vs. DET W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p49
+aVRobert Parish BOS 05/09/1991 BOS vs. DET W 38 19 5 13 38.5 0 0 - 9 12 75.0 3 10 13 0 2 0 0 1 -
+p50
+aVReggie Lewis BOS 05/07/1991 BOS vs. DET L 46 20 7 15 46.7 0 1 0.0 6 7 85.7 2 3 5 2 1 0 2 2 -
+p51
+aVJoe Kleine BOS 05/07/1991 BOS vs. DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p52
+aVDee Brown BOS 05/07/1991 BOS vs. DET L 27 12 5 13 38.5 0 1 0.0 2 3 66.7 2 2 4 0 2 0 3 2 -
+p53
+aVDerek Smith BOS 05/07/1991 BOS vs. DET L 19 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 1 1 1 1 3 -
+p54
+aVKevin McHale BOS 05/07/1991 BOS vs. DET L 39 13 5 14 35.7 0 0 - 3 4 75.0 1 9 10 1 0 3 4 2 -
+p55
+aVKevin Gamble BOS 05/07/1991 BOS vs. DET L 30 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -
+p56
+aVBrian Shaw BOS 05/07/1991 BOS vs. DET L 23 5 2 4 50.0 0 0 - 1 2 50.0 0 4 4 5 2 0 4 2 -
+p57
+aVRobert Parish BOS 05/07/1991 BOS vs. DET L 36 13 5 14 35.7 0 0 - 3 4 75.0 1 8 9 0 0 0 1 4 -
+p58
+aVEd Pinckney BOS 05/07/1991 BOS vs. DET L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 1 1 1 1 -
+p59
+aVBrian Shaw BOS 05/05/1991 BOS vs. IND W 35 13 4 11 36.4 0 0 - 5 6 83.3 1 6 7 9 1 0 4 3 -
+p60
+aVDerek Smith BOS 05/05/1991 BOS vs. IND W 22 12 5 9 55.6 0 1 0.0 2 2 100.0 2 0 2 1 1 0 0 5 -
+p61
+aVDee Brown BOS 05/05/1991 BOS vs. IND W 21 4 2 8 25.0 0 1 0.0 0 0 - 2 2 4 2 2 1 2 4 -
+p62
+aVRobert Parish BOS 05/05/1991 BOS vs. IND W 40 21 7 11 63.6 0 0 - 7 10 70.0 3 5 8 3 0 2 3 4 -
+p63
+aVKevin McHale BOS 05/05/1991 BOS vs. IND W 25 13 4 9 44.4 0 0 - 5 6 83.3 2 4 6 0 2 1 1 5 -
+p64
+aVLarry Bird BOS 05/05/1991 BOS vs. IND W 33 32 12 19 63.2 0 5 0.0 8 10 80.0 2 7 9 7 1 0 4 2 -
+p65
+aVReggie Lewis BOS 05/05/1991 BOS vs. IND W 42 22 10 17 58.8 0 0 - 2 2 100.0 0 6 6 3 3 1 4 3 -
+p66
+aVKevin Gamble BOS 05/05/1991 BOS vs. IND W 13 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 2 0 1 2 2 -
+p67
+aVEd Pinckney BOS 05/05/1991 BOS vs. IND W 9 5 2 2 100.0 0 0 - 1 2 50.0 2 2 4 0 1 0 0 1 -
+p68
+aVDee Brown BOS 05/03/1991 BOS @ IND L 20 14 5 8 62.5 0 0 - 4 4 100.0 0 6 6 1 2 1 3 3 -
+p69
+aVRobert Parish BOS 05/03/1991 BOS @ IND L 36 18 6 8 75.0 0 0 - 6 8 75.0 4 8 12 0 3 0 3 3 -
+p70
+aVKevin McHale BOS 05/03/1991 BOS @ IND L 37 24 8 12 66.7 2 2 100.0 6 8 75.0 1 4 5 1 0 2 1 3 -
+p71
+aVEd Pinckney BOS 05/03/1991 BOS @ IND L 8 2 0 0 - 0 0 - 2 2 100.0 2 0 2 0 0 0 1 1 -
+p72
+aVReggie Lewis BOS 05/03/1991 BOS @ IND L 41 22 9 17 52.9 0 0 - 4 6 66.7 2 5 7 5 1 0 3 2 -
+p73
+aVKevin Gamble BOS 05/03/1991 BOS @ IND L 22 6 3 9 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 3 -
+p74
+aVLarry Bird BOS 05/03/1991 BOS @ IND L 40 18 7 14 50.0 1 3 33.3 3 3 100.0 0 6 6 8 0 2 3 3 -
+p75
+aVDerek Smith BOS 05/03/1991 BOS @ IND L 6 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 0 2 -
+p76
+aVBrian Shaw BOS 05/03/1991 BOS @ IND L 30 9 4 9 44.4 0 0 - 1 1 100.0 1 1 2 5 0 0 4 4 -
+p77
+aVReggie Lewis BOS 05/01/1991 BOS @ IND W 45 15 5 13 38.5 0 0 - 5 8 62.5 2 3 5 3 1 0 3 4 -
+p78
+aVLarry Bird BOS 05/01/1991 BOS @ IND W 37 15 4 13 30.8 0 3 0.0 7 7 100.0 0 9 9 6 1 0 3 4 -
+p79
+aVKevin Gamble BOS 05/01/1991 BOS @ IND W 36 18 8 13 61.5 0 0 - 2 2 100.0 0 4 4 3 2 1 2 5 -
+p80
+aVBrian Shaw BOS 05/01/1991 BOS @ IND W 44 15 4 6 66.7 0 0 - 7 8 87.5 1 3 4 7 2 0 5 5 -
+p81
+aVKevin McHale BOS 05/01/1991 BOS @ IND W 36 22 8 11 72.7 0 1 0.0 6 6 100.0 1 7 8 3 2 4 0 3 -
+p82
+aVDee Brown BOS 05/01/1991 BOS @ IND W 9 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p83
+aVEd Pinckney BOS 05/01/1991 BOS @ IND W 10 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -
+p84
+aVRobert Parish BOS 05/01/1991 BOS @ IND W 16 13 5 6 83.3 0 0 - 3 4 75.0 4 3 7 1 2 1 3 5 -
+p85
+aVDerek Smith BOS 05/01/1991 BOS @ IND W 7 7 2 3 66.7 0 0 - 3 4 75.0 0 2 2 0 0 0 2 3 -
+p86
+aVRobert Parish BOS 04/28/1991 BOS vs. IND L 40 21 7 12 58.3 0 0 - 7 8 87.5 6 6 12 0 1 0 2 3 -
+p87
+aVDee Brown BOS 04/28/1991 BOS vs. IND L 18 7 2 7 28.6 0 1 0.0 3 3 100.0 1 1 2 1 1 0 0 5 -
+p88
+aVBrian Shaw BOS 04/28/1991 BOS vs. IND L 38 22 9 21 42.9 0 2 0.0 4 4 100.0 1 3 4 6 3 0 3 3 -
+p89
+aVLarry Bird BOS 04/28/1991 BOS vs. IND L 40 18 7 18 38.9 0 1 0.0 4 5 80.0 0 6 6 10 1 0 2 5 -
+p90
+aVDerek Smith BOS 04/28/1991 BOS vs. IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p91
+aVKevin Gamble BOS 04/28/1991 BOS vs. IND L 22 8 4 7 57.1 0 0 - 0 0 - 1 0 1 5 0 0 0 2 -
+p92
+aVKevin McHale BOS 04/28/1991 BOS vs. IND L 34 20 4 8 50.0 1 1 100.0 11 12 91.7 2 4 6 1 0 0 1 4 -
+p93
+aVEd Pinckney BOS 04/28/1991 BOS vs. IND L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 2 0 0 0 -
+p94
+aVReggie Lewis BOS 04/28/1991 BOS vs. IND L 41 22 9 21 42.9 0 1 0.0 4 4 100.0 0 5 5 3 2 1 0 2 -
+p95
+aVRobert Parish BOS 04/26/1991 BOS vs. IND W 33 20 10 12 83.3 0 0 - 0 0 - 5 2 7 2 0 1 3 4 -
+p96
+aVDee Brown BOS 04/26/1991 BOS vs. IND W 27 10 3 7 42.9 0 0 - 4 4 100.0 0 4 4 5 0 1 2 3 -
+p97
+aVKevin Gamble BOS 04/26/1991 BOS vs. IND W 23 5 1 4 25.0 0 0 - 3 4 75.0 0 0 0 3 1 0 0 2 -
+p98
+aVKevin McHale BOS 04/26/1991 BOS vs. IND W 27 25 9 15 60.0 0 0 - 7 8 87.5 3 1 4 0 0 0 0 4 -
+p99
+aVDerek Smith BOS 04/26/1991 BOS vs. IND W 3 4 0 2 0.0 0 0 - 4 4 100.0 0 0 0 0 0 0 1 1 -
+p100
+aVReggie Lewis BOS 04/26/1991 BOS vs. IND W 41 28 10 19 52.6 0 0 - 8 11 72.7 2 4 6 1 2 0 0 4 -
+p101
+aVBrian Shaw BOS 04/26/1991 BOS vs. IND W 29 12 5 6 83.3 0 0 - 2 2 100.0 0 3 3 1 1 0 1 5 -
+p102
+aVJoe Kleine BOS 04/26/1991 BOS vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p103
+aVLarry Bird BOS 04/26/1991 BOS vs. IND W 41 21 6 20 30.0 0 2 0.0 9 10 90.0 2 10 12 12 3 0 3 2 -
+p104
+aVEd Pinckney BOS 04/26/1991 BOS vs. IND W 13 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -
+p105
+a.

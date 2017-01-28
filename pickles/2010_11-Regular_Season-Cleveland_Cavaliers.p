@@ -1,0 +1,1658 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDaniel Gibson CLE 04/13/2011 CLE vs. WAS W 27 10 4 16 25.0 0 7 0.0 2 2 100.0 0 1 1 3 1 2 0 0 11
+p2
+aVChristian Eyenga CLE 04/13/2011 CLE vs. WAS W 16 6 2 4 50.0 1 2 50.0 1 2 50.0 0 2 2 0 0 0 0 1 8
+p3
+aVAnthony Parker CLE 04/13/2011 CLE vs. WAS W 24 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 4 0 2 0 0 4
+p4
+aVJJ Hickson CLE 04/13/2011 CLE vs. WAS W 33 15 7 12 58.3 0 0 - 1 3 33.3 6 7 13 3 1 0 3 1 0
+p5
+aVLuke Harangody CLE 04/13/2011 CLE vs. WAS W 17 9 3 8 37.5 3 5 60.0 0 0 - 1 0 1 1 1 0 0 2 9
+p6
+aVRamon Sessions CLE 04/13/2011 CLE vs. WAS W 33 27 8 13 61.5 0 1 0.0 11 12 91.7 1 3 4 3 0 0 5 2 -2
+p7
+aVJoey Graham CLE 04/13/2011 CLE vs. WAS W 10 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 5
+p8
+aVAlonzo Gee CLE 04/13/2011 CLE vs. WAS W 27 6 3 9 33.3 0 2 0.0 0 0 - 1 3 4 3 0 0 3 0 -9
+p9
+aVRyan Hollins CLE 04/13/2011 CLE vs. WAS W 36 12 2 3 66.7 0 0 - 8 8 100.0 2 4 6 1 0 2 2 4 0
+p10
+aVManny Harris CLE 04/13/2011 CLE vs. WAS W 17 4 1 7 14.3 0 0 - 2 2 100.0 2 2 4 5 0 0 0 2 9
+p11
+aVRamon Sessions CLE 04/11/2011 CLE @ DET W 29 17 6 13 46.2 0 0 - 5 5 100.0 2 2 4 9 0 0 0 2 2
+p12
+aVAlonzo Gee CLE 04/11/2011 CLE @ DET W 30 16 6 8 75.0 0 0 - 4 5 80.0 0 2 2 2 1 1 1 3 -3
+p13
+aVLuke Harangody CLE 04/11/2011 CLE @ DET W 18 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 3 0 0 0 1 -1
+p14
+aVDaniel Gibson CLE 04/11/2011 CLE @ DET W 26 17 4 10 40.0 4 7 57.1 5 5 100.0 0 2 2 2 3 0 0 6 11
+p15
+aVManny Harris CLE 04/11/2011 CLE @ DET W 22 4 1 5 20.0 0 0 - 2 4 50.0 1 3 4 3 1 0 0 3 0
+p16
+aVBaron Davis CLE 04/11/2011 CLE @ DET W 19 4 1 5 20.0 1 5 20.0 1 1 100.0 0 1 1 4 1 0 1 1 7
+p17
+aVChristian Eyenga CLE 04/11/2011 CLE @ DET W 22 13 6 11 54.5 1 5 20.0 0 0 - 1 2 3 1 1 0 1 0 11
+p18
+aVJJ Hickson CLE 04/11/2011 CLE @ DET W 32 20 8 16 50.0 0 0 - 4 7 57.1 3 8 11 2 1 0 1 4 5
+p19
+aVRyan Hollins CLE 04/11/2011 CLE @ DET W 23 12 5 5 100.0 0 0 - 2 3 66.7 1 4 5 1 1 2 1 1 19
+p20
+aVSemih Erden CLE 04/11/2011 CLE @ DET W 19 5 1 5 20.0 0 0 - 3 4 75.0 0 0 0 1 0 0 1 4 -6
+p21
+aVAlonzo Gee CLE 04/09/2011 CLE @ MIL L 30 14 5 5 100.0 2 2 100.0 2 2 100.0 3 2 5 1 1 1 1 3 -16
+p22
+aVManny Harris CLE 04/09/2011 CLE @ MIL L 19 5 2 6 33.3 0 1 0.0 1 1 100.0 0 1 1 0 0 0 1 1 -1
+p23
+aVAnthony Parker CLE 04/09/2011 CLE @ MIL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -11
+p24
+aVChristian Eyenga CLE 04/09/2011 CLE @ MIL L 13 5 1 3 33.3 1 1 100.0 2 2 100.0 0 2 2 2 0 2 0 1 7
+p25
+aVSemih Erden CLE 04/09/2011 CLE @ MIL L 23 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 1 2 0 2 5
+p26
+aVJoey Graham CLE 04/09/2011 CLE @ MIL L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -6
+p27
+aVLuke Harangody CLE 04/09/2011 CLE @ MIL L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 1 -1
+p28
+aVRyan Hollins CLE 04/09/2011 CLE @ MIL L 25 10 5 8 62.5 0 0 - 0 1 0.0 0 3 3 1 0 1 1 2 -10
+p29
+aVDaniel Gibson CLE 04/09/2011 CLE @ MIL L 27 10 3 8 37.5 1 4 25.0 3 4 75.0 0 2 2 2 1 0 0 2 7
+p30
+aVRamon Sessions CLE 04/09/2011 CLE @ MIL L 21 15 6 11 54.5 0 0 - 3 3 100.0 0 3 3 5 2 0 3 0 4
+p31
+aVJJ Hickson CLE 04/09/2011 CLE @ MIL L 24 11 3 7 42.9 0 0 - 5 6 83.3 3 9 12 0 0 0 2 2 0
+p32
+aVBaron Davis CLE 04/09/2011 CLE @ MIL L 27 19 8 17 47.1 2 6 33.3 1 1 100.0 2 1 3 6 1 0 4 3 -13
+p33
+aVJJ Hickson CLE 04/08/2011 CLE vs. CHI L 32 22 11 20 55.0 0 0 - 0 3 0.0 5 10 15 0 1 1 4 2 -14
+p34
+aVRyan Hollins CLE 04/08/2011 CLE vs. CHI L 27 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 1 1 1 -1
+p35
+aVManny Harris CLE 04/08/2011 CLE vs. CHI L 10 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -6
+p36
+aVSemih Erden CLE 04/08/2011 CLE vs. CHI L 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 0 4 -7
+p37
+aVRamon Sessions CLE 04/08/2011 CLE vs. CHI L 18 13 5 10 50.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 3 0 2
+p38
+aVAlonzo Gee CLE 04/08/2011 CLE vs. CHI L 27 11 5 10 50.0 1 3 33.3 0 0 - 1 4 5 0 1 0 1 4 -16
+p39
+aVAnthony Parker CLE 04/08/2011 CLE vs. CHI L 27 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 3 2 0 3 1 1
+p40
+aVLuke Harangody CLE 04/08/2011 CLE vs. CHI L 21 0 0 5 0.0 0 3 0.0 0 0 - 0 3 3 3 1 0 1 4 -3
+p41
+aVJoey Graham CLE 04/08/2011 CLE vs. CHI L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 9
+p42
+aVBaron Davis CLE 04/08/2011 CLE vs. CHI L 30 10 4 12 33.3 0 3 0.0 2 2 100.0 0 3 3 6 0 0 1 2 -13
+p43
+aVDaniel Gibson CLE 04/08/2011 CLE vs. CHI L 28 14 6 9 66.7 1 3 33.3 1 1 100.0 0 2 2 1 0 1 1 0 -7
+p44
+aVJJ Hickson CLE 04/06/2011 CLE @ TOR W 37 28 9 17 52.9 0 0 - 10 14 71.4 2 8 10 3 0 1 3 4 8
+p45
+aVRyan Hollins CLE 04/06/2011 CLE @ TOR W 35 14 5 7 71.4 0 0 - 4 6 66.7 1 3 4 2 1 3 0 5 18
+p46
+aVManny Harris CLE 04/06/2011 CLE @ TOR W 13 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p47
+aVAlonzo Gee CLE 04/06/2011 CLE @ TOR W 36 10 4 9 44.4 0 2 0.0 2 2 100.0 5 4 9 0 0 0 1 2 11
+p48
+aVAnthony Parker CLE 04/06/2011 CLE @ TOR W 30 7 2 3 66.7 2 2 100.0 1 1 100.0 0 1 1 2 3 0 1 3 16
+p49
+aVRamon Sessions CLE 04/06/2011 CLE @ TOR W 18 15 4 7 57.1 0 0 - 7 10 70.0 0 1 1 2 0 0 0 1 -10
+p50
+aVDaniel Gibson CLE 04/06/2011 CLE @ TOR W 17 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -4
+p51
+aVJoey Graham CLE 04/06/2011 CLE @ TOR W 8 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 0 0 1 0 2 -10
+p52
+aVLuke Harangody CLE 04/06/2011 CLE @ TOR W 17 4 2 7 28.6 0 3 0.0 0 0 - 3 7 10 0 0 1 1 1 0
+p53
+aVBaron Davis CLE 04/06/2011 CLE @ TOR W 30 19 7 18 38.9 3 7 42.9 2 4 50.0 0 2 2 12 3 0 1 3 18
+p54
+aVBaron Davis CLE 04/05/2011 CLE vs. CHA W 27 11 3 10 30.0 2 5 40.0 3 4 75.0 0 2 2 5 0 0 3 1 -7
+p55
+aVAlonzo Gee CLE 04/05/2011 CLE vs. CHA W 32 13 5 8 62.5 2 3 66.7 1 2 50.0 3 3 6 1 1 0 3 2 -1
+p56
+aVDaniel Gibson CLE 04/05/2011 CLE vs. CHA W 27 10 3 8 37.5 3 6 50.0 1 1 100.0 1 3 4 5 2 1 0 3 7
+p57
+aVChristian Eyenga CLE 04/05/2011 CLE vs. CHA W 7 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 3
+p58
+aVJoey Graham CLE 04/05/2011 CLE vs. CHA W 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p59
+aVRyan Hollins CLE 04/05/2011 CLE vs. CHA W 31 16 7 7 100.0 0 0 - 2 2 100.0 0 2 2 0 1 1 0 4 3
+p60
+aVLuke Harangody CLE 04/05/2011 CLE vs. CHA W 19 11 5 9 55.6 1 4 25.0 0 0 - 2 2 4 1 2 0 0 4 11
+p61
+aVJJ Hickson CLE 04/05/2011 CLE vs. CHA W 36 16 7 18 38.9 0 0 - 2 3 66.7 3 16 19 2 0 0 2 2 7
+p62
+aVRamon Sessions CLE 04/05/2011 CLE vs. CHA W 21 18 5 7 71.4 0 0 - 8 8 100.0 0 3 3 4 0 0 4 2 17
+p63
+aVAnthony Parker CLE 04/05/2011 CLE vs. CHA W 30 0 0 8 0.0 0 5 0.0 0 0 - 0 2 2 5 1 0 2 1 11
+p64
+aVDaniel Gibson CLE 04/03/2011 CLE @ NYK L 26 9 4 9 44.4 1 5 20.0 0 0 - 1 3 4 1 1 0 1 2 -18
+p65
+aVManny Harris CLE 04/03/2011 CLE @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p66
+aVJoey Graham CLE 04/03/2011 CLE @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p67
+aVJJ Hickson CLE 04/03/2011 CLE @ NYK L 35 23 10 17 58.8 0 0 - 3 6 50.0 1 7 8 0 1 0 3 3 -4
+p68
+aVLuke Harangody CLE 04/03/2011 CLE @ NYK L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 1 0 0 0 -12
+p69
+aVBaron Davis CLE 04/03/2011 CLE @ NYK L 26 22 8 14 57.1 5 8 62.5 1 2 50.0 0 1 1 6 2 0 4 3 12
+p70
+aVAnthony Parker CLE 04/03/2011 CLE @ NYK L 29 11 5 8 62.5 1 2 50.0 0 2 0.0 2 2 4 5 0 0 1 0 1
+p71
+aVChristian Eyenga CLE 04/03/2011 CLE @ NYK L 12 5 2 3 66.7 0 1 0.0 1 2 50.0 0 1 1 0 0 0 2 1 -15
+p72
+aVSamardo Samuels CLE 04/03/2011 CLE @ NYK L 28 9 4 7 57.1 0 0 - 1 4 25.0 3 6 9 0 0 1 5 5 -6
+p73
+aVAlonzo Gee CLE 04/03/2011 CLE @ NYK L 28 11 2 4 50.0 1 2 50.0 6 6 100.0 0 4 4 1 0 1 1 3 0
+p74
+aVRyan Hollins CLE 04/03/2011 CLE @ NYK L 20 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 1 2 6 -10
+p75
+aVRamon Sessions CLE 04/03/2011 CLE @ NYK L 21 10 5 13 38.5 0 1 0.0 0 0 - 0 2 2 8 1 0 3 1 -28
+p76
+aVRamon Sessions CLE 04/01/2011 CLE @ WAS L 25 26 9 16 56.3 0 0 - 8 8 100.0 0 2 2 1 0 0 1 0 3
+p77
+aVJJ Hickson CLE 04/01/2011 CLE @ WAS L 37 21 6 10 60.0 0 0 - 9 12 75.0 3 7 10 2 0 0 2 4 -14
+p78
+aVAnthony Parker CLE 04/01/2011 CLE @ WAS L 31 4 1 4 25.0 0 3 0.0 2 2 100.0 0 3 3 4 1 0 0 3 -6
+p79
+aVRyan Hollins CLE 04/01/2011 CLE @ WAS L 28 12 5 8 62.5 0 0 - 2 3 66.7 4 2 6 0 1 0 0 5 -1
+p80
+aVAlonzo Gee CLE 04/01/2011 CLE @ WAS L 24 12 5 9 55.6 2 2 100.0 0 0 - 2 3 5 0 1 1 2 3 -4
+p81
+aVLuke Harangody CLE 04/01/2011 CLE @ WAS L 31 12 5 11 45.5 1 4 25.0 1 2 50.0 2 6 8 2 2 3 0 2 -1
+p82
+aVDaniel Gibson CLE 04/01/2011 CLE @ WAS L 21 8 2 7 28.6 0 3 0.0 4 5 80.0 1 0 1 2 0 0 0 4 2
+p83
+aVBaron Davis CLE 04/01/2011 CLE @ WAS L 26 10 4 12 33.3 2 8 25.0 0 0 - 0 1 1 11 1 0 3 3 -11
+p84
+aVChristian Eyenga CLE 04/01/2011 CLE @ WAS L 16 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 0 0 1 0 0 -8
+p85
+aVAnthony Parker CLE 03/30/2011 CLE @ CHA L 31 14 6 9 66.7 2 2 100.0 0 0 - 0 2 2 2 0 1 1 1 -6
+p86
+aVRyan Hollins CLE 03/30/2011 CLE @ CHA L 32 4 0 2 0.0 0 0 - 4 6 66.7 1 2 3 0 0 0 1 5 2
+p87
+aVChristian Eyenga CLE 03/30/2011 CLE @ CHA L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p88
+aVJJ Hickson CLE 03/30/2011 CLE @ CHA L 26 20 10 15 66.7 0 0 - 0 0 - 1 6 7 2 0 0 3 5 -12
+p89
+aVDaniel Gibson CLE 03/30/2011 CLE @ CHA L 20 7 2 6 33.3 1 3 33.3 2 2 100.0 1 2 3 3 1 1 1 1 6
+p90
+aVAlonzo Gee CLE 03/30/2011 CLE @ CHA L 24 10 4 7 57.1 1 1 100.0 1 2 50.0 3 1 4 0 1 0 0 1 -7
+p91
+aVBaron Davis CLE 03/30/2011 CLE @ CHA L 25 11 4 9 44.4 2 5 40.0 1 1 100.0 0 2 2 6 0 1 3 0 -8
+p92
+aVRamon Sessions CLE 03/30/2011 CLE @ CHA L 30 24 7 12 58.3 0 0 - 10 10 100.0 0 5 5 4 1 0 2 1 8
+p93
+aVLuke Harangody CLE 03/30/2011 CLE @ CHA L 26 3 1 4 25.0 1 2 50.0 0 0 - 0 5 5 0 0 1 0 3 7
+p94
+aVJoey Graham CLE 03/30/2011 CLE @ CHA L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 1
+p95
+aVRyan Hollins CLE 03/29/2011 CLE vs. MIA W 36 13 3 4 75.0 0 0 - 7 12 58.3 2 1 3 2 2 3 2 5 33
+p96
+aVBaron Davis CLE 03/29/2011 CLE vs. MIA W 24 10 4 10 40.0 2 6 33.3 0 0 - 0 0 0 7 1 0 2 0 22
+p97
+aVAnthony Parker CLE 03/29/2011 CLE vs. MIA W 29 20 7 9 77.8 4 4 100.0 2 3 66.7 0 7 7 2 0 0 0 2 21
+p98
+aVDaniel Gibson CLE 03/29/2011 CLE vs. MIA W 26 5 2 5 40.0 1 3 33.3 0 0 - 1 4 5 5 0 2 1 4 -5
+p99
+aVJJ Hickson CLE 03/29/2011 CLE vs. MIA W 33 21 6 13 46.2 0 0 - 9 10 90.0 2 10 12 1 0 1 5 4 3
+p100
+aVLuke Harangody CLE 03/29/2011 CLE vs. MIA W 24 9 4 7 57.1 1 2 50.0 0 0 - 0 4 4 1 0 0 0 2 -10
+p101
+aVAlonzo Gee CLE 03/29/2011 CLE vs. MIA W 17 6 3 3 100.0 0 0 - 0 0 - 1 3 4 1 0 1 1 4 13
+p102
+aVRamon Sessions CLE 03/29/2011 CLE vs. MIA W 26 11 3 6 50.0 0 0 - 5 8 62.5 0 6 6 6 0 0 3 0 -6
+p103
+aVJoey Graham CLE 03/29/2011 CLE vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p104
+aVChristian Eyenga CLE 03/29/2011 CLE vs. MIA W 20 7 3 6 50.0 1 2 50.0 0 2 0.0 0 3 3 0 2 0 1 2 -9
+p105
+aVAnthony Parker CLE 03/27/2011 CLE vs. ATL L 25 2 1 5 20.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -17
+p106
+aVRyan Hollins CLE 03/27/2011 CLE vs. ATL L 26 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 1 1 3 -24
+p107
+aVJoey Graham CLE 03/27/2011 CLE vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p108
+aVAlonzo Gee CLE 03/27/2011 CLE vs. ATL L 26 10 4 11 36.4 0 0 - 2 3 66.7 1 5 6 1 1 0 1 3 -1
+p109
+aVSamardo Samuels CLE 03/27/2011 CLE vs. ATL L 22 9 3 6 50.0 0 0 - 3 5 60.0 1 1 2 0 1 0 0 5 8
+p110
+aVRamon Sessions CLE 03/27/2011 CLE vs. ATL L 23 13 5 11 45.5 0 0 - 3 4 75.0 1 3 4 3 0 0 1 0 -10
+p111
+aVBaron Davis CLE 03/27/2011 CLE vs. ATL L 23 19 6 14 42.9 2 6 33.3 5 5 100.0 1 3 4 7 1 2 3 1 -5
+p112
+aVDaniel Gibson CLE 03/27/2011 CLE vs. ATL L 26 11 4 9 44.4 2 6 33.3 1 2 50.0 0 2 2 1 0 0 0 2 -3
+p113
+aVLuke Harangody CLE 03/27/2011 CLE vs. ATL L 21 4 2 6 33.3 0 3 0.0 0 0 - 1 6 7 1 1 0 1 0 -1
+p114
+aVJJ Hickson CLE 03/27/2011 CLE vs. ATL L 27 10 5 14 35.7 0 0 - 0 0 - 5 8 13 0 1 0 2 5 -15
+p115
+aVChristian Eyenga CLE 03/27/2011 CLE vs. ATL L 17 3 1 6 16.7 1 4 25.0 0 1 0.0 0 3 3 1 1 1 1 3 -10
+p116
+aVManny Harris CLE 03/27/2011 CLE vs. ATL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p117
+aVJJ Hickson CLE 03/25/2011 CLE vs. DET W 36 24 9 13 69.2 0 0 - 6 6 100.0 7 8 15 2 2 1 2 1 11
+p118
+aVRamon Sessions CLE 03/25/2011 CLE vs. DET W 24 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 6 1 0 3 0 6
+p119
+aVChristian Eyenga CLE 03/25/2011 CLE vs. DET W 14 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 1 2 1 -3
+p120
+aVDaniel Gibson CLE 03/25/2011 CLE vs. DET W 24 7 2 7 28.6 1 3 33.3 2 2 100.0 1 2 3 0 0 0 2 1 0
+p121
+aVSamardo Samuels CLE 03/25/2011 CLE vs. DET W 18 9 3 7 42.9 0 0 - 3 4 75.0 2 1 3 0 2 1 1 4 1
+p122
+aVBaron Davis CLE 03/25/2011 CLE vs. DET W 24 16 6 13 46.2 4 7 57.1 0 0 - 1 3 4 5 0 1 2 3 0
+p123
+aVAnthony Parker CLE 03/25/2011 CLE vs. DET W 30 5 2 9 22.2 0 3 0.0 1 1 100.0 0 5 5 7 1 0 0 2 5
+p124
+aVRyan Hollins CLE 03/25/2011 CLE vs. DET W 24 10 5 7 71.4 0 0 - 0 3 0.0 1 1 2 0 0 2 2 2 -2
+p125
+aVLuke Harangody CLE 03/25/2011 CLE vs. DET W 17 10 3 6 50.0 1 1 100.0 3 4 75.0 4 5 9 1 0 1 2 2 2
+p126
+aVAlonzo Gee CLE 03/25/2011 CLE vs. DET W 28 8 4 10 40.0 0 2 0.0 0 0 - 2 4 6 0 0 0 1 3 10
+p127
+aVRyan Hollins CLE 03/23/2011 CLE vs. NJN L 31 6 2 5 40.0 0 0 - 2 2 100.0 1 4 5 1 1 1 2 6 -2
+p128
+aVManny Harris CLE 03/23/2011 CLE vs. NJN L 18 5 2 7 28.6 0 2 0.0 1 2 50.0 0 3 3 1 0 1 1 0 1
+p129
+aVChristian Eyenga CLE 03/23/2011 CLE vs. NJN L 14 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 1 1 0 2 1 -4
+p130
+aVLuke Harangody CLE 03/23/2011 CLE vs. NJN L 17 7 3 6 50.0 0 1 0.0 1 2 50.0 0 3 3 0 1 1 1 1 -1
+p131
+aVRamon Sessions CLE 03/23/2011 CLE vs. NJN L 35 21 7 15 46.7 0 0 - 7 10 70.0 3 5 8 2 1 0 5 5 -7
+p132
+aVDaniel Gibson CLE 03/23/2011 CLE vs. NJN L 33 8 3 8 37.5 1 2 50.0 1 2 50.0 0 3 3 3 1 1 0 2 -1
+p133
+aVSamardo Samuels CLE 03/23/2011 CLE vs. NJN L 22 8 3 10 30.0 0 0 - 2 4 50.0 6 2 8 1 0 1 2 4 0
+p134
+aVAlonzo Gee CLE 03/23/2011 CLE vs. NJN L 27 10 4 11 36.4 0 3 0.0 2 3 66.7 1 2 3 0 1 2 1 3 -1
+p135
+aVAnthony Parker CLE 03/23/2011 CLE vs. NJN L 31 8 3 10 30.0 1 2 50.0 1 2 50.0 2 4 6 4 1 0 0 1 -2
+p136
+aVJJ Hickson CLE 03/23/2011 CLE vs. NJN L 36 17 5 15 33.3 0 0 - 7 8 87.5 5 12 17 2 3 0 2 3 -3
+p137
+aVDaniel Gibson CLE 03/21/2011 CLE vs. ORL L 23 16 7 11 63.6 2 5 40.0 0 0 - 1 2 3 6 2 1 1 1 4
+p138
+aVManny Harris CLE 03/21/2011 CLE vs. ORL L 25 8 1 8 12.5 1 4 25.0 5 7 71.4 0 3 3 5 2 1 1 2 4
+p139
+aVAlonzo Gee CLE 03/21/2011 CLE vs. ORL L 26 6 3 10 30.0 0 2 0.0 0 0 - 2 1 3 1 1 0 0 1 -12
+p140
+aVJoey Graham CLE 03/21/2011 CLE vs. ORL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p141
+aVChristian Eyenga CLE 03/21/2011 CLE vs. ORL L 22 12 5 9 55.6 2 3 66.7 0 0 - 0 1 1 0 1 0 2 0 1
+p142
+aVJJ Hickson CLE 03/21/2011 CLE vs. ORL L 30 18 6 14 42.9 0 0 - 6 7 85.7 0 6 6 1 0 3 0 3 -24
+p143
+aVAnthony Parker CLE 03/21/2011 CLE vs. ORL L 21 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 2 0 0 1 0 -17
+p144
+aVSamardo Samuels CLE 03/21/2011 CLE vs. ORL L 19 7 2 7 28.6 0 0 - 3 4 75.0 1 3 4 1 1 0 5 3 -5
+p145
+aVRamon Sessions CLE 03/21/2011 CLE vs. ORL L 27 9 3 6 50.0 0 1 0.0 3 3 100.0 2 4 6 6 0 0 3 1 -13
+p146
+aVLuke Harangody CLE 03/21/2011 CLE vs. ORL L 21 2 1 4 25.0 0 3 0.0 0 0 - 1 3 4 2 0 0 0 1 4
+p147
+aVRyan Hollins CLE 03/21/2011 CLE vs. ORL L 25 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 2 0 2 5 3
+p148
+aVLuke Harangody CLE 03/19/2011 CLE @ LAC L 9 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -13
+p149
+aVChristian Eyenga CLE 03/19/2011 CLE @ LAC L 10 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -11
+p150
+aVSamardo Samuels CLE 03/19/2011 CLE @ LAC L 32 17 6 9 66.7 0 0 - 5 7 71.4 3 2 5 1 3 1 3 6 4
+p151
+aVManny Harris CLE 03/19/2011 CLE @ LAC L 7 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -9
+p152
+aVDaniel Gibson CLE 03/19/2011 CLE @ LAC L 28 10 4 12 33.3 2 9 22.2 0 0 - 0 6 6 3 2 0 1 2 -10
+p153
+aVRamon Sessions CLE 03/19/2011 CLE @ LAC L 34 18 7 13 53.8 0 0 - 4 4 100.0 1 2 3 7 0 0 4 1 3
+p154
+aVAlonzo Gee CLE 03/19/2011 CLE @ LAC L 31 9 3 5 60.0 0 0 - 3 3 100.0 1 6 7 1 1 0 0 0 6
+p155
+aVJJ Hickson CLE 03/19/2011 CLE @ LAC L 35 28 12 18 66.7 0 0 - 4 4 100.0 2 7 9 4 0 0 4 3 -8
+p156
+aVAnthony Parker CLE 03/19/2011 CLE @ LAC L 35 2 1 4 25.0 0 3 0.0 0 0 - 0 4 4 4 0 0 1 3 -1
+p157
+aVRyan Hollins CLE 03/19/2011 CLE @ LAC L 19 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 2 -1
+p158
+aVDaniel Gibson CLE 03/17/2011 CLE @ POR L 23 12 2 5 40.0 1 3 33.3 7 9 77.8 0 1 1 0 1 0 1 2 -6
+p159
+aVAlonzo Gee CLE 03/17/2011 CLE @ POR L 27 2 0 5 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 2 -33
+p160
+aVRamon Sessions CLE 03/17/2011 CLE @ POR L 21 14 4 8 50.0 0 0 - 6 6 100.0 1 0 1 0 1 0 2 1 -32
+p161
+aVBaron Davis CLE 03/17/2011 CLE @ POR L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 3 1 -12
+p162
+aVAnthony Parker CLE 03/17/2011 CLE @ POR L 21 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 0 0 0 2 2 -30
+p163
+aVJJ Hickson CLE 03/17/2011 CLE @ POR L 27 5 2 4 50.0 0 0 - 1 2 50.0 3 4 7 0 0 0 0 3 -32
+p164
+aVLuke Harangody CLE 03/17/2011 CLE @ POR L 20 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 1 1 0 3 4 -13
+p165
+aVSamardo Samuels CLE 03/17/2011 CLE @ POR L 20 7 1 8 12.5 0 0 - 5 6 83.3 1 2 3 1 0 0 1 3 -19
+p166
+aVManny Harris CLE 03/17/2011 CLE @ POR L 19 10 5 6 83.3 0 1 0.0 0 0 - 0 2 2 3 2 0 1 0 -7
+p167
+aVChristian Eyenga CLE 03/17/2011 CLE @ POR L 25 3 1 5 20.0 0 2 0.0 1 1 100.0 0 5 5 1 1 0 2 3 -12
+p168
+aVRyan Hollins CLE 03/17/2011 CLE @ POR L 21 5 1 3 33.3 0 0 - 3 4 75.0 2 1 3 0 0 0 1 3 -9
+p169
+aVAnthony Parker CLE 03/16/2011 CLE @ SAC W 31 5 2 4 50.0 0 0 - 1 1 100.0 0 5 5 4 2 0 0 2 11
+p170
+aVSamardo Samuels CLE 03/16/2011 CLE @ SAC W 28 13 5 11 45.5 0 0 - 3 6 50.0 2 1 3 1 1 0 3 4 5
+p171
+aVRamon Sessions CLE 03/16/2011 CLE @ SAC W 29 20 10 15 66.7 0 0 - 0 2 0.0 1 4 5 6 1 0 4 0 3
+p172
+aVManny Harris CLE 03/16/2011 CLE @ SAC W 13 7 3 6 50.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 2 0
+p173
+aVAlonzo Gee CLE 03/16/2011 CLE @ SAC W 24 8 2 2 100.0 0 0 - 4 4 100.0 0 4 4 0 0 0 2 1 5
+p174
+aVDaniel Gibson CLE 03/16/2011 CLE @ SAC W 26 8 3 8 37.5 1 3 33.3 1 1 100.0 0 2 2 1 0 0 1 1 -2
+p175
+aVChristian Eyenga CLE 03/16/2011 CLE @ SAC W 20 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 0 -3
+p176
+aVLuke Harangody CLE 03/16/2011 CLE @ SAC W 25 15 6 12 50.0 1 3 33.3 2 2 100.0 3 5 8 0 1 2 1 4 -3
+p177
+aVRyan Hollins CLE 03/16/2011 CLE @ SAC W 12 2 0 0 - 0 0 - 2 2 100.0 0 4 4 1 0 0 3 1 1
+p178
+aVJJ Hickson CLE 03/16/2011 CLE @ SAC W 31 17 6 12 50.0 0 0 - 5 10 50.0 1 7 8 2 1 1 2 3 3
+p179
+aVSamardo Samuels CLE 03/13/2011 CLE vs. OKC L 23 10 3 11 27.3 0 0 - 4 5 80.0 2 8 10 2 0 1 0 1 -5
+p180
+aVDaniel Gibson CLE 03/13/2011 CLE vs. OKC L 24 13 5 11 45.5 2 3 66.7 1 2 50.0 1 2 3 3 1 1 2 2 -20
+p181
+aVJoey Graham CLE 03/13/2011 CLE vs. OKC L 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 7
+p182
+aVManny Harris CLE 03/13/2011 CLE vs. OKC L 27 6 2 6 33.3 2 3 66.7 0 2 0.0 0 2 2 2 0 1 2 3 -4
+p183
+aVLuke Harangody CLE 03/13/2011 CLE vs. OKC L 16 3 0 8 0.0 0 4 0.0 3 4 75.0 3 3 6 1 0 0 0 4 -22
+p184
+aVRamon Sessions CLE 03/13/2011 CLE vs. OKC L 21 4 1 7 14.3 0 0 - 2 4 50.0 1 1 2 5 1 0 4 0 -16
+p185
+aVAnthony Parker CLE 03/13/2011 CLE vs. OKC L 26 9 4 6 66.7 1 2 50.0 0 1 0.0 0 1 1 1 1 0 3 1 -5
+p186
+aVJJ Hickson CLE 03/13/2011 CLE vs. OKC L 27 8 4 10 40.0 0 0 - 0 0 - 7 8 15 1 1 0 2 0 -1
+p187
+aVRyan Hollins CLE 03/13/2011 CLE vs. OKC L 21 6 2 6 33.3 0 0 - 2 2 100.0 2 6 8 0 0 0 2 0 -19
+p188
+aVAlonzo Gee CLE 03/13/2011 CLE vs. OKC L 24 8 2 6 33.3 0 1 0.0 4 6 66.7 1 2 3 1 0 1 1 1 0
+p189
+aVChristian Eyenga CLE 03/13/2011 CLE vs. OKC L 22 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 0 1 0 1 2 -15
+p190
+aVAlonzo Gee CLE 03/09/2011 CLE @ MIL L 26 12 4 8 50.0 0 0 - 4 4 100.0 0 1 1 1 2 0 1 2 -29
+p191
+aVSamardo Samuels CLE 03/09/2011 CLE @ MIL L 31 15 7 11 63.6 0 0 - 1 1 100.0 2 3 5 0 1 0 2 2 -16
+p192
+aVAnthony Parker CLE 03/09/2011 CLE @ MIL L 28 11 3 7 42.9 1 3 33.3 4 4 100.0 0 5 5 2 0 0 2 3 -10
+p193
+aVJoey Graham CLE 03/09/2011 CLE @ MIL L 23 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 1 0 0 5 -5
+p194
+aVRyan Hollins CLE 03/09/2011 CLE @ MIL L 15 6 2 3 66.7 0 0 - 2 4 50.0 0 1 1 0 0 1 0 5 -3
+p195
+aVDaniel Gibson CLE 03/09/2011 CLE @ MIL L 24 13 5 10 50.0 3 6 50.0 0 0 - 0 2 2 7 0 0 3 2 7
+p196
+aVManny Harris CLE 03/09/2011 CLE @ MIL L 19 4 1 4 25.0 0 1 0.0 2 2 100.0 0 3 3 2 0 0 3 0 -6
+p197
+aVRamon Sessions CLE 03/09/2011 CLE @ MIL L 27 10 5 12 41.7 0 0 - 0 0 - 0 5 5 6 1 0 2 1 -24
+p198
+aVJJ Hickson CLE 03/09/2011 CLE @ MIL L 28 4 2 10 20.0 0 0 - 0 0 - 2 6 8 0 0 0 0 1 -16
+p199
+aVChristian Eyenga CLE 03/09/2011 CLE @ MIL L 21 11 5 8 62.5 1 2 50.0 0 0 - 0 0 0 2 1 0 1 2 2
+p200
+aVBaron Davis CLE 03/08/2011 CLE vs. GSW L 31 19 7 14 50.0 2 4 50.0 3 4 75.0 1 4 5 6 3 1 4 2 5
+p201
+aVJJ Hickson CLE 03/08/2011 CLE vs. GSW L 29 10 3 11 27.3 0 0 - 4 4 100.0 4 3 7 3 1 0 2 2 -7
+p202
+aVJoey Graham CLE 03/08/2011 CLE vs. GSW L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 0
+p203
+aVRamon Sessions CLE 03/08/2011 CLE vs. GSW L 22 8 2 9 22.2 0 0 - 4 4 100.0 0 4 4 2 1 0 3 0 -17
+p204
+aVAnthony Parker CLE 03/08/2011 CLE vs. GSW L 28 6 2 9 22.2 1 4 25.0 1 2 50.0 0 2 2 2 1 0 0 0 -14
+p205
+aVAlonzo Gee CLE 03/08/2011 CLE vs. GSW L 21 4 2 7 28.6 0 3 0.0 0 0 - 4 4 8 0 0 1 2 4 -4
+p206
+aVSamardo Samuels CLE 03/08/2011 CLE vs. GSW L 31 11 5 14 35.7 0 1 0.0 1 2 50.0 5 4 9 1 0 0 3 2 -25
+p207
+aVRyan Hollins CLE 03/08/2011 CLE vs. GSW L 24 14 6 8 75.0 0 0 - 2 3 66.7 2 0 2 1 0 0 1 3 7
+p208
+aVChristian Eyenga CLE 03/08/2011 CLE vs. GSW L 28 8 3 7 42.9 0 2 0.0 2 2 100.0 1 4 5 0 1 0 1 1 0
+p209
+aVDaniel Gibson CLE 03/08/2011 CLE vs. GSW L 24 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 3 0 0 1 2 5
+p210
+aVChristian Eyenga CLE 03/06/2011 CLE vs. NOH L 16 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 2 1 0 2 1 2
+p211
+aVRamon Sessions CLE 03/06/2011 CLE vs. NOH L 34 15 3 10 30.0 0 0 - 9 12 75.0 0 2 2 4 0 0 3 0 -14
+p212
+aVAnthony Parker CLE 03/06/2011 CLE vs. NOH L 33 8 3 10 30.0 1 5 20.0 1 1 100.0 0 1 1 2 0 0 1 3 -21
+p213
+aVLuke Harangody CLE 03/06/2011 CLE vs. NOH L 16 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 3 -12
+p214
+aVSemih Erden CLE 03/06/2011 CLE vs. NOH L 11 0 0 3 0.0 0 0 - 0 0 - 5 0 5 0 0 1 1 2 -2
+p215
+aVBaron Davis CLE 03/06/2011 CLE vs. NOH L 28 17 6 11 54.5 4 7 57.1 1 1 100.0 0 5 5 6 2 1 4 4 -17
+p216
+aVSamardo Samuels CLE 03/06/2011 CLE vs. NOH L 32 11 4 9 44.4 0 1 0.0 3 7 42.9 3 5 8 1 0 3 3 2 -3
+p217
+aVAlonzo Gee CLE 03/06/2011 CLE vs. NOH L 29 6 3 7 42.9 0 2 0.0 0 0 - 0 5 5 2 1 2 1 1 -6
+p218
+aVJJ Hickson CLE 03/06/2011 CLE vs. NOH L 37 15 5 15 33.3 0 0 - 5 6 83.3 4 6 10 2 0 1 1 2 -13
+p219
+aVManny Harris CLE 03/06/2011 CLE vs. NOH L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 11
+p220
+aVBaron Davis CLE 03/04/2011 CLE @ NYK W 26 18 6 15 40.0 4 7 57.1 2 2 100.0 1 2 3 5 1 0 1 2 10
+p221
+aVLuke Harangody CLE 03/04/2011 CLE @ NYK W 22 18 6 11 54.5 2 6 33.3 4 4 100.0 2 2 4 2 0 0 1 3 -1
+p222
+aVChristian Eyenga CLE 03/04/2011 CLE @ NYK W 24 13 5 7 71.4 3 3 100.0 0 0 - 1 3 4 0 0 0 1 2 -6
+p223
+aVAnthony Parker CLE 03/04/2011 CLE @ NYK W 32 13 5 8 62.5 3 5 60.0 0 0 - 1 3 4 7 1 0 0 1 13
+p224
+aVRyan Hollins CLE 03/04/2011 CLE @ NYK W 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 1 1 3 -3
+p225
+aVManny Harris CLE 03/04/2011 CLE @ NYK W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -7
+p226
+aVJJ Hickson CLE 03/04/2011 CLE @ NYK W 35 23 9 17 52.9 0 0 - 5 7 71.4 4 4 8 4 2 1 3 1 15
+p227
+aVAlonzo Gee CLE 03/04/2011 CLE @ NYK W 18 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 4 0
+p228
+aVSamardo Samuels CLE 03/04/2011 CLE @ NYK W 31 15 5 9 55.6 0 0 - 5 10 50.0 4 2 6 1 1 0 1 4 -3
+p229
+aVRamon Sessions CLE 03/04/2011 CLE @ NYK W 34 11 4 15 26.7 0 0 - 3 4 75.0 1 1 2 6 0 0 3 1 2
+p230
+aVManny Harris CLE 03/02/2011 CLE vs. SAS L 27 8 2 10 20.0 1 4 25.0 3 4 75.0 1 4 5 4 3 0 1 1 9
+p231
+aVSamardo Samuels CLE 03/02/2011 CLE vs. SAS L 34 23 10 18 55.6 0 0 - 3 5 60.0 8 2 10 3 0 0 0 2 -2
+p232
+aVChristian Eyenga CLE 03/02/2011 CLE vs. SAS L 16 11 4 7 57.1 3 3 100.0 0 0 - 0 2 2 0 0 1 0 1 3
+p233
+aVRyan Hollins CLE 03/02/2011 CLE vs. SAS L 10 4 1 1 100.0 0 0 - 2 4 50.0 0 1 1 0 0 0 2 4 -6
+p234
+aVAlonzo Gee CLE 03/02/2011 CLE vs. SAS L 38 18 6 13 46.2 2 3 66.7 4 4 100.0 3 4 7 2 1 0 0 3 2
+p235
+aVJoey Graham CLE 03/02/2011 CLE vs. SAS L 15 4 2 6 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 1 5
+p236
+aVAnthony Parker CLE 03/02/2011 CLE vs. SAS L 31 3 1 7 14.3 0 2 0.0 1 1 100.0 0 5 5 2 2 0 3 2 -27
+p237
+aVRamon Sessions CLE 03/02/2011 CLE vs. SAS L 32 14 6 17 35.3 0 1 0.0 2 4 50.0 0 2 2 7 2 0 0 1 -17
+p238
+aVLuke Harangody CLE 03/02/2011 CLE vs. SAS L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p239
+aVJJ Hickson CLE 03/02/2011 CLE vs. SAS L 29 12 3 10 30.0 0 0 - 6 6 100.0 3 4 7 0 0 1 3 6 -17
+p240
+aVRamon Sessions CLE 02/27/2011 CLE vs. PHI L 38 20 6 13 46.2 0 0 - 8 11 72.7 0 6 6 10 0 1 5 2 0
+p241
+aVSamardo Samuels CLE 02/27/2011 CLE vs. PHI L 24 12 5 8 62.5 0 0 - 2 4 50.0 1 5 6 0 0 1 0 4 -7
+p242
+aVAnthony Parker CLE 02/27/2011 CLE vs. PHI L 36 2 1 8 12.5 0 3 0.0 0 0 - 0 5 5 4 1 0 1 3 -1
+p243
+aVAlonzo Gee CLE 02/27/2011 CLE vs. PHI L 12 4 1 4 25.0 0 1 0.0 2 4 50.0 0 0 0 0 1 0 1 0 -11
+p244
+aVChristian Eyenga CLE 02/27/2011 CLE vs. PHI L 22 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 1 0 1 0 2 3
+p245
+aVRyan Hollins CLE 02/27/2011 CLE vs. PHI L 4 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 1
+p246
+aVJJ Hickson CLE 02/27/2011 CLE vs. PHI L 35 22 9 15 60.0 0 1 0.0 4 7 57.1 9 7 16 0 2 1 2 2 14
+p247
+aVDaniel Gibson CLE 02/27/2011 CLE vs. PHI L 33 9 3 12 25.0 2 6 33.3 1 1 100.0 0 3 3 4 0 0 1 1 -4
+p248
+aVAntawn Jamison CLE 02/27/2011 CLE vs. PHI L 30 16 7 14 50.0 0 1 0.0 2 2 100.0 0 4 4 0 1 0 3 2 -9
+p249
+aVManny Harris CLE 02/27/2011 CLE vs. PHI L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p250
+aVChristian Eyenga CLE 02/25/2011 CLE vs. NYK W 22 4 2 8 25.0 0 1 0.0 0 0 - 1 7 8 0 0 1 0 2 16
+p251
+aVDaniel Gibson CLE 02/25/2011 CLE vs. NYK W 23 8 3 10 30.0 2 7 28.6 0 1 0.0 0 0 0 4 0 0 2 4 4
+p252
+aVManny Harris CLE 02/25/2011 CLE vs. NYK W 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 1 0 1 0 -5
+p253
+aVAnthony Parker CLE 02/25/2011 CLE vs. NYK W 37 16 5 6 83.3 0 0 - 6 6 100.0 1 4 5 4 1 1 2 1 22
+p254
+aVAlonzo Gee CLE 02/25/2011 CLE vs. NYK W 24 11 3 4 75.0 2 3 66.7 3 4 75.0 2 4 6 0 0 1 1 2 -16
+p255
+aVSamardo Samuels CLE 02/25/2011 CLE vs. NYK W 18 2 1 8 12.5 0 0 - 0 0 - 2 3 5 2 0 1 2 2 -6
+p256
+aVRamon Sessions CLE 02/25/2011 CLE vs. NYK W 33 22 6 12 50.0 1 2 50.0 9 14 64.3 0 8 8 4 2 0 3 5 -3
+p257
+aVAntawn Jamison CLE 02/25/2011 CLE vs. NYK W 39 28 10 25 40.0 1 8 12.5 7 9 77.8 7 6 13 3 1 1 0 2 9
+p258
+aVJJ Hickson CLE 02/25/2011 CLE vs. NYK W 39 24 9 17 52.9 0 0 - 6 10 60.0 4 11 15 1 0 5 3 5 9
+p259
+aVManny Harris CLE 02/23/2011 CLE vs. HOU L 26 21 9 16 56.3 3 4 75.0 0 0 - 5 4 9 5 0 0 1 4 10
+p260
+aVRamon Sessions CLE 02/23/2011 CLE vs. HOU L 35 20 8 14 57.1 1 1 100.0 3 5 60.0 0 3 3 12 1 0 4 2 -14
+p261
+aVChristian Eyenga CLE 02/23/2011 CLE vs. HOU L 17 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 0 1 0 0 4 -18
+p262
+aVRyan Hollins CLE 02/23/2011 CLE vs. HOU L 18 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 9
+p263
+aVSamardo Samuels CLE 02/23/2011 CLE vs. HOU L 18 12 6 8 75.0 0 0 - 0 0 - 1 0 1 1 0 1 1 3 6
+p264
+aVAntawn Jamison CLE 02/23/2011 CLE vs. HOU L 36 26 8 15 53.3 2 6 33.3 8 9 88.9 0 3 3 2 1 1 0 3 -13
+p265
+aVAnthony Parker CLE 02/23/2011 CLE vs. HOU L 37 19 7 10 70.0 4 5 80.0 1 1 100.0 0 5 5 5 2 1 4 2 -7
+p266
+aVJJ Hickson CLE 02/23/2011 CLE vs. HOU L 24 4 2 9 22.2 0 0 - 0 0 - 0 3 3 0 0 1 0 3 -12
+p267
+aVJamario Moon CLE 02/23/2011 CLE vs. HOU L 29 11 4 7 57.1 3 5 60.0 0 0 - 0 8 8 1 0 3 0 1 14
+p268
+aVAntawn Jamison CLE 02/16/2011 CLE vs. LAL W 42 19 8 18 44.4 2 6 33.3 1 2 50.0 2 8 10 2 1 1 1 3 11
+p269
+aVMo Williams CLE 02/16/2011 CLE vs. LAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 2
+p270
+aVChristian Eyenga CLE 02/16/2011 CLE vs. LAL W 27 10 5 7 71.4 0 2 0.0 0 0 - 0 2 2 0 3 0 1 2 6
+p271
+aVAnthony Parker CLE 02/16/2011 CLE vs. LAL W 34 18 7 13 53.8 2 5 40.0 2 2 100.0 0 3 3 9 1 0 2 3 9
+p272
+aVJamario Moon CLE 02/16/2011 CLE vs. LAL W 21 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 3 1 1 0 2 -3
+p273
+aVRamon Sessions CLE 02/16/2011 CLE vs. LAL W 36 32 9 16 56.3 1 1 100.0 13 14 92.9 0 1 1 8 3 0 3 1 8
+p274
+aVRyan Hollins CLE 02/16/2011 CLE vs. LAL W 14 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -3
+p275
+aVDaniel Gibson CLE 02/16/2011 CLE vs. LAL W 22 3 1 6 16.7 0 1 0.0 1 1 100.0 0 1 1 3 0 0 3 1 -7
+p276
+aVJJ Hickson CLE 02/16/2011 CLE vs. LAL W 40 13 6 18 33.3 0 0 - 1 1 100.0 9 6 15 3 0 1 3 3 2
+p277
+aVAnthony Parker CLE 02/13/2011 CLE vs. WAS L 32 10 4 12 33.3 2 5 40.0 0 0 - 4 2 6 3 1 0 2 1 -21
+p278
+aVMo Williams CLE 02/13/2011 CLE vs. WAS L 27 10 3 9 33.3 1 3 33.3 3 3 100.0 0 3 3 8 2 0 7 3 -18
+p279
+aVDaniel Gibson CLE 02/13/2011 CLE vs. WAS L 9 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 2 2
+p280
+aVAntawn Jamison CLE 02/13/2011 CLE vs. WAS L 33 21 7 15 46.7 4 6 66.7 3 5 60.0 1 6 7 0 0 0 1 5 -16
+p281
+aVJamario Moon CLE 02/13/2011 CLE vs. WAS L 28 12 4 8 50.0 4 6 66.7 0 0 - 0 2 2 3 1 0 0 1 8
+p282
+aVManny Harris CLE 02/13/2011 CLE vs. WAS L 3 0 0 2 0.0 0 1 0.0 0 2 0.0 0 1 1 0 0 0 0 0 2
+p283
+aVJJ Hickson CLE 02/13/2011 CLE vs. WAS L 35 16 7 18 38.9 0 0 - 2 7 28.6 8 5 13 2 0 0 1 0 -26
+p284
+aVRamon Sessions CLE 02/13/2011 CLE vs. WAS L 25 14 5 8 62.5 0 0 - 4 5 80.0 0 4 4 6 3 1 2 1 1
+p285
+aVChristian Eyenga CLE 02/13/2011 CLE vs. WAS L 20 6 3 5 60.0 0 1 0.0 0 1 0.0 1 1 2 0 2 0 3 1 -19
+p286
+aVRyan Hollins CLE 02/13/2011 CLE vs. WAS L 19 5 1 1 100.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 1 6
+p287
+aVSamardo Samuels CLE 02/13/2011 CLE vs. WAS L 8 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 2 6
+p288
+aVAnthony Parker CLE 02/11/2011 CLE vs. LAC W 34 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 5 1 1 1 2 0
+p289
+aVRamon Sessions CLE 02/11/2011 CLE vs. LAC W 26 12 3 6 50.0 0 0 - 6 7 85.7 1 1 2 5 0 0 2 1 -1
+p290
+aVJJ Hickson CLE 02/11/2011 CLE vs. LAC W 45 27 12 19 63.2 0 0 - 3 3 100.0 8 6 14 1 0 4 7 5 2
+p291
+aVMo Williams CLE 02/11/2011 CLE vs. LAC W 31 17 7 18 38.9 1 4 25.0 2 2 100.0 0 3 3 14 1 0 2 3 10
+p292
+aVJamario Moon CLE 02/11/2011 CLE vs. LAC W 17 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 1 0 1 0 1 6
+p293
+aVChristian Eyenga CLE 02/11/2011 CLE vs. LAC W 19 6 3 9 33.3 0 2 0.0 0 0 - 0 4 4 0 2 0 0 1 -1
+p294
+aVDaniel Gibson CLE 02/11/2011 CLE vs. LAC W 32 17 4 8 50.0 3 5 60.0 6 6 100.0 0 1 1 3 0 0 1 3 10
+p295
+aVRyan Hollins CLE 02/11/2011 CLE vs. LAC W 16 6 3 3 100.0 0 0 - 0 1 0.0 1 2 3 1 1 0 1 5 3
+p296
+aVAntawn Jamison CLE 02/11/2011 CLE vs. LAC W 44 35 11 20 55.0 4 6 66.7 9 13 69.2 2 7 9 4 2 0 1 3 6
+p297
+aVJJ Hickson CLE 02/09/2011 CLE vs. DET L 38 18 8 12 66.7 0 0 - 2 4 50.0 4 11 15 4 0 1 4 2 6
+p298
+aVRamon Sessions CLE 02/09/2011 CLE vs. DET L 43 20 7 11 63.6 0 0 - 6 8 75.0 0 6 6 12 5 0 3 4 -6
+p299
+aVChristian Eyenga CLE 02/09/2011 CLE vs. DET L 26 8 4 9 44.4 0 1 0.0 0 0 - 1 2 3 1 0 2 1 2 -2
+p300
+aVRyan Hollins CLE 02/09/2011 CLE vs. DET L 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 3 2 -15
+p301
+aVDaniel Gibson CLE 02/09/2011 CLE vs. DET L 31 12 4 8 50.0 4 7 57.1 0 0 - 0 1 1 2 0 1 1 3 -19
+p302
+aVAnthony Parker CLE 02/09/2011 CLE vs. DET L 30 9 3 6 50.0 2 4 50.0 1 2 50.0 1 0 1 2 1 0 1 2 11
+p303
+aVAntawn Jamison CLE 02/09/2011 CLE vs. DET L 43 22 9 19 47.4 1 3 33.3 3 5 60.0 1 6 7 3 0 1 3 1 -6
+p304
+aVJamario Moon CLE 02/09/2011 CLE vs. DET L 14 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 1 0 2 0 1 -11
+p305
+aVManny Harris CLE 02/09/2011 CLE vs. DET L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -3
+p306
+aVJJ Hickson CLE 02/07/2011 CLE @ DAL L 36 26 12 18 66.7 0 0 - 2 4 50.0 5 7 12 1 1 0 3 4 2
+p307
+aVAntawn Jamison CLE 02/07/2011 CLE @ DAL L 39 18 8 23 34.8 1 6 16.7 1 1 100.0 2 9 11 1 1 0 2 3 5
+p308
+aVRamon Sessions CLE 02/07/2011 CLE @ DAL L 40 19 6 12 50.0 0 0 - 7 7 100.0 1 5 6 13 2 0 2 0 8
+p309
+aVDaniel Gibson CLE 02/07/2011 CLE @ DAL L 21 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -11
+p310
+aVManny Harris CLE 02/07/2011 CLE @ DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -7
+p311
+aVAnthony Parker CLE 02/07/2011 CLE @ DAL L 32 7 3 10 30.0 1 4 25.0 0 0 - 1 2 3 2 4 1 1 2 5
+p312
+aVJoey Graham CLE 02/07/2011 CLE @ DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -9
+p313
+aVChristian Eyenga CLE 02/07/2011 CLE @ DAL L 28 15 7 15 46.7 1 3 33.3 0 0 - 1 3 4 0 0 0 0 1 -7
+p314
+aVRyan Hollins CLE 02/07/2011 CLE @ DAL L 16 5 1 2 50.0 0 0 - 3 5 60.0 0 1 1 0 0 2 1 5 -4
+p315
+aVJamario Moon CLE 02/07/2011 CLE @ DAL L 18 4 2 5 40.0 0 1 0.0 0 0 - 2 1 3 0 0 1 0 1 3
+p316
+aVSamardo Samuels CLE 02/05/2011 CLE vs. POR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p317
+aVDaniel Gibson CLE 02/05/2011 CLE vs. POR L 26 12 5 11 45.5 2 5 40.0 0 0 - 0 1 1 9 0 0 1 4 -4
+p318
+aVChristian Eyenga CLE 02/05/2011 CLE vs. POR L 28 12 5 12 41.7 1 2 50.0 1 2 50.0 3 3 6 3 2 1 0 0 -5
+p319
+aVRyan Hollins CLE 02/05/2011 CLE vs. POR L 18 3 1 2 50.0 0 0 - 1 1 100.0 0 3 3 1 1 0 1 4 11
+p320
+aVAnthony Parker CLE 02/05/2011 CLE vs. POR L 26 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 2 0 0 0 2 -3
+p321
+aVAntawn Jamison CLE 02/05/2011 CLE vs. POR L 37 17 7 16 43.8 2 7 28.6 1 1 100.0 0 3 3 3 2 1 2 3 -15
+p322
+aVRamon Sessions CLE 02/05/2011 CLE vs. POR L 33 15 7 11 63.6 0 1 0.0 1 2 50.0 1 5 6 7 1 0 2 1 -13
+p323
+aVJJ Hickson CLE 02/05/2011 CLE vs. POR L 32 11 4 11 36.4 0 1 0.0 3 4 75.0 1 5 6 0 0 1 1 3 -18
+p324
+aVManny Harris CLE 02/05/2011 CLE vs. POR L 16 12 3 3 100.0 2 2 100.0 4 4 100.0 0 2 2 1 1 0 2 0 9
+p325
+aVJamario Moon CLE 02/05/2011 CLE vs. POR L 19 14 5 6 83.3 2 3 66.7 2 2 100.0 1 1 2 2 1 1 0 2 0
+p326
+aVRamon Sessions CLE 02/04/2011 CLE @ MEM L 41 20 8 13 61.5 0 0 - 4 4 100.0 2 2 4 11 1 1 3 2 -3
+p327
+aVJamario Moon CLE 02/04/2011 CLE @ MEM L 21 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 1 2 2 -3
+p328
+aVJJ Hickson CLE 02/04/2011 CLE @ MEM L 39 31 11 21 52.4 0 0 - 9 10 90.0 6 9 15 2 0 1 0 4 -19
+p329
+aVManny Harris CLE 02/04/2011 CLE @ MEM L 18 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 4 1 -10
+p330
+aVRyan Hollins CLE 02/04/2011 CLE @ MEM L 14 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 1 1 3 5
+p331
+aVAntawn Jamison CLE 02/04/2011 CLE @ MEM L 43 19 7 22 31.8 1 8 12.5 4 4 100.0 1 5 6 0 2 2 4 3 0
+p332
+aVChristian Eyenga CLE 02/04/2011 CLE @ MEM L 36 10 4 7 57.1 1 4 25.0 1 1 100.0 0 2 2 1 3 2 1 4 -10
+p333
+aVAnthony Parker CLE 02/04/2011 CLE @ MEM L 29 18 5 7 71.4 4 5 80.0 4 5 80.0 1 0 1 5 3 0 1 0 5
+p334
+aVSamardo Samuels CLE 02/02/2011 CLE vs. IND L 6 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -3
+p335
+aVAnthony Parker CLE 02/02/2011 CLE vs. IND L 25 17 7 11 63.6 2 3 66.7 1 1 100.0 1 2 3 4 2 0 3 3 1
+p336
+aVRyan Hollins CLE 02/02/2011 CLE vs. IND L 11 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 3 6
+p337
+aVRamon Sessions CLE 02/02/2011 CLE vs. IND L 41 25 6 10 60.0 0 0 - 13 14 92.9 0 1 1 9 1 1 3 2 1
+p338
+aVManny Harris CLE 02/02/2011 CLE vs. IND L 31 19 5 12 41.7 2 5 40.0 7 7 100.0 0 8 8 1 0 0 1 3 -12
+p339
+aVJoey Graham CLE 02/02/2011 CLE vs. IND L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -9
+p340
+aVJJ Hickson CLE 02/02/2011 CLE vs. IND L 32 10 3 11 27.3 0 0 - 4 6 66.7 2 1 3 0 0 1 2 4 -8
+p341
+aVChristian Eyenga CLE 02/02/2011 CLE vs. IND L 37 12 5 11 45.5 1 3 33.3 1 2 50.0 1 3 4 5 2 2 2 3 4
+p342
+aVAntawn Jamison CLE 02/02/2011 CLE vs. IND L 37 21 5 14 35.7 4 7 57.1 7 10 70.0 1 6 7 1 2 3 1 2 4
+p343
+aVAlonzo Gee CLE 02/02/2011 CLE vs. IND L 11 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 -9
+p344
+aVJJ Hickson CLE 01/31/2011 CLE @ MIA L 33 14 6 15 40.0 0 0 - 2 4 50.0 3 7 10 2 2 1 1 4 -12
+p345
+aVJoey Graham CLE 01/31/2011 CLE @ MIA L 19 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 3 -19
+p346
+aVAlonzo Gee CLE 01/31/2011 CLE @ MIA L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p347
+aVAnthony Parker CLE 01/31/2011 CLE @ MIA L 21 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 1 0 0 0 -20
+p348
+aVAntawn Jamison CLE 01/31/2011 CLE @ MIA L 30 21 7 20 35.0 1 3 33.3 6 6 100.0 4 6 10 1 1 0 2 2 -13
+p349
+aVRamon Sessions CLE 01/31/2011 CLE @ MIA L 32 11 3 10 30.0 0 0 - 5 6 83.3 1 2 3 7 0 0 3 2 -25
+p350
+aVChristian Eyenga CLE 01/31/2011 CLE @ MIA L 30 8 3 6 50.0 1 3 33.3 1 2 50.0 2 2 4 2 3 2 3 2 -1
+p351
+aVManny Harris CLE 01/31/2011 CLE @ MIA L 34 20 6 14 42.9 1 4 25.0 7 7 100.0 2 3 5 0 1 0 1 2 -8
+p352
+aVRyan Hollins CLE 01/31/2011 CLE @ MIA L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p353
+aVSamardo Samuels CLE 01/31/2011 CLE @ MIA L 22 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 0 1 3 4 -25
+p354
+aVSamardo Samuels CLE 01/30/2011 CLE @ ORL L 19 16 6 8 75.0 0 0 - 4 5 80.0 1 1 2 0 1 0 1 4 0
+p355
+aVJJ Hickson CLE 01/30/2011 CLE @ ORL L 22 0 0 5 0.0 0 0 - 0 0 - 1 10 11 1 0 3 2 4 -9
+p356
+aVAnthony Parker CLE 01/30/2011 CLE @ ORL L 19 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 6 2 0 1 2 -4
+p357
+aVManny Harris CLE 01/30/2011 CLE @ ORL L 38 20 7 12 58.3 3 5 60.0 3 6 50.0 2 4 6 3 1 0 4 3 -8
+p358
+aVAlonzo Gee CLE 01/30/2011 CLE @ ORL L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 9
+p359
+aVRamon Sessions CLE 01/30/2011 CLE @ ORL L 22 8 3 8 37.5 0 1 0.0 2 2 100.0 0 1 1 5 1 0 1 0 -15
+p360
+aVJamario Moon CLE 01/30/2011 CLE @ ORL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p361
+aVJoey Graham CLE 01/30/2011 CLE @ ORL L 12 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 2 1 9
+p362
+aVAntawn Jamison CLE 01/30/2011 CLE @ ORL L 29 7 2 11 18.2 0 1 0.0 3 4 75.0 1 9 10 0 2 1 2 2 -23
+p363
+aVRyan Hollins CLE 01/30/2011 CLE @ ORL L 15 11 4 5 80.0 0 0 - 3 4 75.0 1 1 2 0 0 1 0 5 -9
+p364
+aVChristian Eyenga CLE 01/30/2011 CLE @ ORL L 24 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 2 0 2 3 1 -19
+p365
+aVDaniel Gibson CLE 01/30/2011 CLE @ ORL L 25 4 2 9 22.2 0 3 0.0 0 0 - 0 1 1 2 0 0 1 0 -14
+p366
+aVAntawn Jamison CLE 01/28/2011 CLE vs. DEN L 37 20 7 19 36.8 1 5 20.0 5 7 71.4 2 10 12 6 1 0 4 5 -10
+p367
+aVRyan Hollins CLE 01/28/2011 CLE vs. DEN L 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 2 5 3
+p368
+aVAlonzo Gee CLE 01/28/2011 CLE vs. DEN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p369
+aVDaniel Gibson CLE 01/28/2011 CLE vs. DEN L 35 15 5 14 35.7 5 11 45.5 0 0 - 1 2 3 0 1 0 2 1 -13
+p370
+aVSamardo Samuels CLE 01/28/2011 CLE vs. DEN L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p371
+aVManny Harris CLE 01/28/2011 CLE vs. DEN L 8 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -4
+p372
+aVAnthony Parker CLE 01/28/2011 CLE vs. DEN L 20 2 1 5 20.0 0 4 0.0 0 0 - 0 3 3 4 0 0 0 0 -9
+p373
+aVRamon Sessions CLE 01/28/2011 CLE vs. DEN L 38 14 4 10 40.0 0 0 - 6 8 75.0 0 3 3 13 0 1 0 4 -9
+p374
+aVJJ Hickson CLE 01/28/2011 CLE vs. DEN L 33 24 10 12 83.3 0 0 - 4 8 50.0 6 8 14 0 2 2 1 4 -11
+p375
+aVJoey Graham CLE 01/28/2011 CLE vs. DEN L 23 14 6 10 60.0 2 4 50.0 0 0 - 0 6 6 2 0 0 3 4 7
+p376
+aVChristian Eyenga CLE 01/28/2011 CLE vs. DEN L 31 6 3 9 33.3 0 1 0.0 0 0 - 2 1 3 0 0 2 1 4 -18
+p377
+aVAnthony Parker CLE 01/25/2011 CLE @ BOS L 14 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 2 -8
+p378
+aVDaniel Gibson CLE 01/25/2011 CLE @ BOS L 28 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 3 0 0 2 0 -12
+p379
+aVRyan Hollins CLE 01/25/2011 CLE @ BOS L 20 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 1 1 0 1 5 -7
+p380
+aVSamardo Samuels CLE 01/25/2011 CLE @ BOS L 22 10 4 10 40.0 0 0 - 2 3 66.7 1 3 4 1 0 2 3 2 -7
+p381
+aVManny Harris CLE 01/25/2011 CLE @ BOS L 18 14 5 9 55.6 1 2 50.0 3 4 75.0 3 1 4 4 0 0 1 0 3
+p382
+aVJJ Hickson CLE 01/25/2011 CLE @ BOS L 24 12 6 10 60.0 0 0 - 0 2 0.0 4 13 17 5 0 4 2 4 -2
+p383
+aVJoey Graham CLE 01/25/2011 CLE @ BOS L 26 10 4 5 80.0 2 3 66.7 0 0 - 0 5 5 1 0 0 1 1 -5
+p384
+aVRamon Sessions CLE 01/25/2011 CLE @ BOS L 30 14 4 8 50.0 0 0 - 6 8 75.0 0 1 1 7 0 0 3 1 -20
+p385
+aVAntawn Jamison CLE 01/25/2011 CLE @ BOS L 31 11 5 14 35.7 0 0 - 1 2 50.0 2 5 7 1 0 1 1 3 -18
+p386
+aVChristian Eyenga CLE 01/25/2011 CLE @ BOS L 28 15 6 15 40.0 1 3 33.3 2 2 100.0 1 2 3 0 0 1 1 4 -9
+p387
+aVChristian Eyenga CLE 01/24/2011 CLE @ NJN L 19 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 1 1 0 2 4 -8
+p388
+aVJoey Graham CLE 01/24/2011 CLE @ NJN L 29 14 5 11 45.5 1 2 50.0 3 3 100.0 1 2 3 2 1 0 0 4 6
+p389
+aVDaniel Gibson CLE 01/24/2011 CLE @ NJN L 39 19 6 10 60.0 2 4 50.0 5 7 71.4 0 3 3 5 1 0 1 1 -10
+p390
+aVSamardo Samuels CLE 01/24/2011 CLE @ NJN L 12 5 2 2 100.0 0 0 - 1 1 100.0 1 2 3 0 0 0 2 2 8
+p391
+aVAntawn Jamison CLE 01/24/2011 CLE @ NJN L 39 26 7 16 43.8 2 5 40.0 10 10 100.0 3 5 8 1 0 0 1 2 -10
+p392
+aVManny Harris CLE 01/24/2011 CLE @ NJN L 21 4 2 6 33.3 0 1 0.0 0 0 - 1 4 5 1 1 0 0 1 6
+p393
+aVRamon Sessions CLE 01/24/2011 CLE @ NJN L 36 16 8 14 57.1 0 0 - 0 0 - 0 4 4 6 0 1 5 2 0
+p394
+aVRyan Hollins CLE 01/24/2011 CLE @ NJN L 22 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 0 1 1 3 2 6
+p395
+aVJJ Hickson CLE 01/24/2011 CLE @ NJN L 24 12 6 19 31.6 0 0 - 0 1 0.0 4 4 8 2 1 0 2 4 -8
+p396
+aVJJ Hickson CLE 01/22/2011 CLE @ CHI L 33 13 5 19 26.3 0 0 - 3 6 50.0 11 9 20 1 1 1 2 1 -27
+p397
+aVManny Harris CLE 01/22/2011 CLE @ CHI L 33 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 4 1 0 2 2 -16
+p398
+aVChristian Eyenga CLE 01/22/2011 CLE @ CHI L 32 7 2 9 22.2 0 2 0.0 3 4 75.0 2 3 5 3 0 0 3 5 -14
+p399
+aVRyan Hollins CLE 01/22/2011 CLE @ CHI L 18 6 1 4 25.0 0 0 - 4 4 100.0 3 1 4 0 0 1 2 3 5
+p400
+aVSamardo Samuels CLE 01/22/2011 CLE @ CHI L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p401
+aVDaniel Gibson CLE 01/22/2011 CLE @ CHI L 40 10 3 12 25.0 2 6 33.3 2 4 50.0 0 2 2 5 1 1 3 2 -5
+p402
+aVRamon Sessions CLE 01/22/2011 CLE @ CHI L 11 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -20
+p403
+aVAntawn Jamison CLE 01/22/2011 CLE @ CHI L 37 31 12 22 54.5 4 7 57.1 3 5 60.0 1 10 11 5 2 0 2 1 -4
+p404
+aVJoey Graham CLE 01/22/2011 CLE @ CHI L 29 6 2 7 28.6 0 3 0.0 2 3 66.7 0 5 5 0 2 3 1 3 16
+p405
+aVAnthony Parker CLE 01/21/2011 CLE vs. MIL L 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 5
+p406
+aVDaniel Gibson CLE 01/21/2011 CLE vs. MIL L 33 15 4 11 36.4 2 3 66.7 5 6 83.3 0 1 1 8 0 0 4 3 -2
+p407
+aVJJ Hickson CLE 01/21/2011 CLE vs. MIL L 18 2 1 4 25.0 0 0 - 0 0 - 0 5 5 0 0 0 1 4 -2
+p408
+aVSamardo Samuels CLE 01/21/2011 CLE vs. MIL L 18 6 1 4 25.0 0 0 - 4 6 66.7 5 1 6 0 0 0 1 4 -10
+p409
+aVJoey Graham CLE 01/21/2011 CLE vs. MIL L 12 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 0 0 3 2 -4
+p410
+aVRyan Hollins CLE 01/21/2011 CLE vs. MIL L 12 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -2
+p411
+aVManny Harris CLE 01/21/2011 CLE vs. MIL L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 3 2 -12
+p412
+aVAlonzo Gee CLE 01/21/2011 CLE vs. MIL L 23 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 0 -13
+p413
+aVRamon Sessions CLE 01/21/2011 CLE vs. MIL L 34 22 4 14 28.6 0 0 - 14 16 87.5 2 2 4 4 1 0 2 2 -19
+p414
+aVAntawn Jamison CLE 01/21/2011 CLE vs. MIL L 36 22 7 18 38.9 0 0 - 8 11 72.7 1 4 5 1 1 1 1 2 -10
+p415
+aVChristian Eyenga CLE 01/21/2011 CLE vs. MIL L 25 9 3 6 50.0 2 2 100.0 1 1 100.0 1 3 4 1 1 0 0 4 -1
+p416
+aVSamardo Samuels CLE 01/19/2011 CLE vs. PHX L 19 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 1 1
+p417
+aVDaniel Gibson CLE 01/19/2011 CLE vs. PHX L 30 16 6 13 46.2 4 6 66.7 0 0 - 0 1 1 1 1 2 1 4 -6
+p418
+aVAlonzo Gee CLE 01/19/2011 CLE vs. PHX L 20 3 1 2 50.0 0 1 0.0 1 2 50.0 1 2 3 2 1 0 0 2 -7
+p419
+aVAntawn Jamison CLE 01/19/2011 CLE vs. PHX L 39 23 9 21 42.9 2 4 50.0 3 4 75.0 3 3 6 2 1 0 0 1 -12
+p420
+aVJamario Moon CLE 01/19/2011 CLE vs. PHX L 29 5 2 9 22.2 1 7 14.3 0 0 - 0 2 2 1 3 5 1 1 -4
+p421
+aVManny Harris CLE 01/19/2011 CLE vs. PHX L 29 10 3 6 50.0 2 3 66.7 2 2 100.0 1 2 3 2 1 1 3 1 8
+p422
+aVJJ Hickson CLE 01/19/2011 CLE vs. PHX L 36 16 5 11 45.5 0 0 - 6 7 85.7 1 14 15 2 1 0 4 5 -2
+p423
+aVRamon Sessions CLE 01/19/2011 CLE vs. PHX L 38 19 7 15 46.7 0 0 - 5 5 100.0 1 4 5 8 3 1 5 4 -18
+p424
+aVRamon Sessions CLE 01/15/2011 CLE @ DEN L 33 21 7 13 53.8 0 0 - 7 8 87.5 1 1 2 9 1 0 1 1 -8
+p425
+aVSamardo Samuels CLE 01/15/2011 CLE @ DEN L 28 10 5 7 71.4 0 1 0.0 0 0 - 3 5 8 0 0 0 2 2 7
+p426
+aVManny Harris CLE 01/15/2011 CLE @ DEN L 37 14 4 14 28.6 1 5 20.0 5 6 83.3 3 4 7 3 1 1 3 4 -32
+p427
+aVAntawn Jamison CLE 01/15/2011 CLE @ DEN L 31 17 7 22 31.8 0 6 0.0 3 4 75.0 1 6 7 1 0 0 1 3 -36
+p428
+aVMo Williams CLE 01/15/2011 CLE @ DEN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -7
+p429
+aVJamario Moon CLE 01/15/2011 CLE @ DEN L 29 12 5 14 35.7 2 5 40.0 0 0 - 2 3 5 0 0 2 0 1 -7
+p430
+aVJJ Hickson CLE 01/15/2011 CLE @ DEN L 36 13 5 14 35.7 0 0 - 3 7 42.9 6 3 9 3 2 1 2 2 -27
+p431
+aVAlonzo Gee CLE 01/15/2011 CLE @ DEN L 41 12 4 13 30.8 1 2 50.0 3 3 100.0 2 6 8 3 6 1 4 3 -30
+p432
+aVMo Williams CLE 01/14/2011 CLE @ UTA L 34 14 5 16 31.3 2 7 28.6 2 2 100.0 0 2 2 10 2 0 3 4 -13
+p433
+aVManny Harris CLE 01/14/2011 CLE @ UTA L 30 8 3 9 33.3 2 3 66.7 0 0 - 1 6 7 3 0 0 4 2 -5
+p434
+aVSamardo Samuels CLE 01/14/2011 CLE @ UTA L 21 8 3 4 75.0 0 0 - 2 6 33.3 4 1 5 0 1 2 1 4 -23
+p435
+aVRamon Sessions CLE 01/14/2011 CLE @ UTA L 31 15 7 12 58.3 0 0 - 1 1 100.0 0 4 4 6 1 0 2 0 -26
+p436
+aVAntawn Jamison CLE 01/14/2011 CLE @ UTA L 39 26 10 19 52.6 4 7 57.1 2 3 66.7 5 6 11 2 1 2 1 3 -6
+p437
+aVJamario Moon CLE 01/14/2011 CLE @ UTA L 17 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 1 2 1 1 -16
+p438
+aVAlonzo Gee CLE 01/14/2011 CLE @ UTA L 31 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p439
+aVJJ Hickson CLE 01/14/2011 CLE @ UTA L 36 21 8 13 61.5 0 0 - 5 9 55.6 6 8 14 3 0 2 9 5 -15
+p440
+aVAntawn Jamison CLE 01/11/2011 CLE @ LAL L 31 6 3 10 30.0 0 3 0.0 0 0 - 5 3 8 3 2 0 3 2 -46
+p441
+aVChristian Eyenga CLE 01/11/2011 CLE @ LAL L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p442
+aVSamardo Samuels CLE 01/11/2011 CLE @ LAL L 33 3 1 12 8.3 0 0 - 1 2 50.0 1 5 6 0 1 1 4 4 -24
+p443
+aVRamon Sessions CLE 01/11/2011 CLE @ LAL L 26 10 4 8 50.0 0 0 - 2 2 100.0 1 0 1 4 1 0 1 0 -10
+p444
+aVAlonzo Gee CLE 01/11/2011 CLE @ LAL L 30 12 6 12 50.0 0 2 0.0 0 0 - 4 4 8 0 3 1 1 2 -17
+p445
+aVManny Harris CLE 01/11/2011 CLE @ LAL L 41 8 2 8 25.0 0 3 0.0 4 6 66.7 0 6 6 1 0 0 1 3 -57
+p446
+aVMo Williams CLE 01/11/2011 CLE @ LAL L 26 2 1 9 11.1 0 3 0.0 0 2 0.0 0 1 1 1 1 0 3 0 -43
+p447
+aVJamario Moon CLE 01/11/2011 CLE @ LAL L 14 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 1 1 0 1 0 -4
+p448
+aVRyan Hollins CLE 01/11/2011 CLE @ LAL L 16 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 0 1 3 1 -35
+p449
+aVJJ Hickson CLE 01/11/2011 CLE @ LAL L 17 5 1 8 12.5 0 0 - 3 4 75.0 1 3 4 0 0 1 2 4 -29
+p450
+aVSamardo Samuels CLE 01/09/2011 CLE @ PHX L 20 2 1 3 33.3 0 0 - 0 0 - 4 5 9 0 0 0 1 0 0
+p451
+aVAntawn Jamison CLE 01/09/2011 CLE @ PHX L 41 23 9 23 39.1 1 7 14.3 4 4 100.0 1 6 7 2 3 0 2 2 -10
+p452
+aVJJ Hickson CLE 01/09/2011 CLE @ PHX L 35 23 8 23 34.8 0 0 - 7 11 63.6 9 8 17 3 2 1 0 2 -6
+p453
+aVRamon Sessions CLE 01/09/2011 CLE @ PHX L 18 4 2 7 28.6 0 0 - 0 0 - 0 2 2 3 2 0 1 1 3
+p454
+aVChristian Eyenga CLE 01/09/2011 CLE @ PHX L 27 8 4 10 40.0 0 2 0.0 0 0 - 1 4 5 0 1 2 2 3 -6
+p455
+aVMo Williams CLE 01/09/2011 CLE @ PHX L 36 5 2 11 18.2 0 3 0.0 1 1 100.0 0 1 1 12 1 0 2 5 -9
+p456
+aVManny Harris CLE 01/09/2011 CLE @ PHX L 41 27 7 13 53.8 4 7 57.1 9 11 81.8 3 5 8 2 1 0 1 3 -10
+p457
+aVAlonzo Gee CLE 01/09/2011 CLE @ PHX L 21 8 2 5 40.0 1 1 100.0 3 4 75.0 0 0 0 2 0 0 2 3 -2
+p458
+aVRamon Sessions CLE 01/07/2011 CLE @ GSW L 28 13 4 9 44.4 0 0 - 5 8 62.5 1 1 2 5 1 0 3 1 -5
+p459
+aVAntawn Jamison CLE 01/07/2011 CLE @ GSW L 37 21 8 17 47.1 2 5 40.0 3 6 50.0 2 3 5 4 1 0 3 1 -16
+p460
+aVSamardo Samuels CLE 01/07/2011 CLE @ GSW L 8 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 0 1 0 0 0 0
+p461
+aVMo Williams CLE 01/07/2011 CLE @ GSW L 30 16 5 11 45.5 1 3 33.3 5 7 71.4 1 1 2 7 3 0 2 5 -25
+p462
+aVManny Harris CLE 01/07/2011 CLE @ GSW L 36 16 6 9 66.7 1 2 50.0 3 3 100.0 2 8 10 4 3 0 1 2 -6
+p463
+aVJJ Hickson CLE 01/07/2011 CLE @ GSW L 32 17 5 13 38.5 0 0 - 7 9 77.8 0 9 9 0 2 1 4 4 -4
+p464
+aVChristian Eyenga CLE 01/07/2011 CLE @ GSW L 27 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 3 1 2 2 0 -7
+p465
+aVRyan Hollins CLE 01/07/2011 CLE @ GSW L 16 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 0 1 4 -14
+p466
+aVAlonzo Gee CLE 01/07/2011 CLE @ GSW L 25 0 0 3 0.0 0 1 0.0 0 2 0.0 0 3 3 1 3 0 1 3 -13
+p467
+aVRyan Hollins CLE 01/05/2011 CLE vs. TOR L 12 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 2 0
+p468
+aVMo Williams CLE 01/05/2011 CLE vs. TOR L 35 11 5 11 45.5 1 3 33.3 0 0 - 0 3 3 9 0 0 6 2 -14
+p469
+aVRamon Sessions CLE 01/05/2011 CLE vs. TOR L 27 16 2 4 50.0 0 0 - 12 12 100.0 2 3 5 6 0 0 3 2 -15
+p470
+aVAntawn Jamison CLE 01/05/2011 CLE vs. TOR L 38 32 11 21 52.4 5 7 71.4 5 7 71.4 1 3 4 1 2 1 1 4 -6
+p471
+aVDaniel Gibson CLE 01/05/2011 CLE vs. TOR L 26 13 5 11 45.5 2 4 50.0 1 2 50.0 0 2 2 6 2 0 0 3 1
+p472
+aVAlonzo Gee CLE 01/05/2011 CLE vs. TOR L 25 9 2 4 50.0 1 1 100.0 4 5 80.0 0 2 2 2 1 1 2 3 0
+p473
+aVAnderson Varejao CLE 01/05/2011 CLE vs. TOR L 35 4 1 4 25.0 0 0 - 2 2 100.0 2 6 8 1 1 0 1 2 -12
+p474
+aVManny Harris CLE 01/05/2011 CLE vs. TOR L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 0
+p475
+aVLeon Powe CLE 01/05/2011 CLE vs. TOR L 7 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 -13
+p476
+aVChristian Eyenga CLE 01/05/2011 CLE vs. TOR L 28 16 7 10 70.0 1 4 25.0 1 1 100.0 0 2 2 0 0 1 2 3 -16
+p477
+aVAnthony Parker CLE 01/02/2011 CLE vs. DAL L 31 8 3 5 60.0 1 1 100.0 1 2 50.0 0 0 0 1 1 0 2 2 -18
+p478
+aVChristian Eyenga CLE 01/02/2011 CLE vs. DAL L 15 4 2 6 33.3 0 4 0.0 0 0 - 0 3 3 0 0 0 1 2 -7
+p479
+aVAlonzo Gee CLE 01/02/2011 CLE vs. DAL L 20 5 2 2 100.0 0 0 - 1 2 50.0 2 3 5 1 1 0 2 1 9
+p480
+aVJJ Hickson CLE 01/02/2011 CLE vs. DAL L 19 7 3 10 30.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 1 3 5
+p481
+aVRamon Sessions CLE 01/02/2011 CLE vs. DAL L 30 19 9 13 69.2 0 0 - 1 2 50.0 0 7 7 12 0 0 3 1 11
+p482
+aVRyan Hollins CLE 01/02/2011 CLE vs. DAL L 17 8 4 5 80.0 0 0 - 0 0 - 2 1 3 0 1 0 1 6 1
+p483
+aVLeon Powe CLE 01/02/2011 CLE vs. DAL L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -17
+p484
+aVMo Williams CLE 01/02/2011 CLE vs. DAL L 33 5 2 11 18.2 1 4 25.0 0 0 - 0 1 1 7 2 2 1 1 -21
+p485
+aVAntawn Jamison CLE 01/02/2011 CLE vs. DAL L 39 35 14 22 63.6 3 6 50.0 4 5 80.0 3 7 10 0 1 0 1 4 2
+p486
+aVManny Harris CLE 01/02/2011 CLE vs. DAL L 22 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 4 0 0 1 0 -10
+p487
+aVAlonzo Gee CLE 01/01/2011 CLE @ CHI L 28 6 1 4 25.0 0 1 0.0 4 4 100.0 1 1 2 1 0 0 0 2 -1
+p488
+aVJamario Moon CLE 01/01/2011 CLE @ CHI L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 6
+p489
+aVAnthony Parker CLE 01/01/2011 CLE @ CHI L 40 7 3 14 21.4 1 6 16.7 0 0 - 1 4 5 8 0 0 2 1 -6
+p490
+aVManny Harris CLE 01/01/2011 CLE @ CHI L 25 11 4 10 40.0 1 2 50.0 2 2 100.0 1 2 3 3 1 0 2 1 -5
+p491
+aVAntawn Jamison CLE 01/01/2011 CLE @ CHI L 36 19 5 16 31.3 2 8 25.0 7 8 87.5 0 9 9 3 0 2 1 4 -15
+p492
+aVLeon Powe CLE 01/01/2011 CLE @ CHI L 33 14 6 13 46.2 0 0 - 2 4 50.0 2 4 6 1 2 1 0 5 1
+p493
+aVRamon Sessions CLE 01/01/2011 CLE @ CHI L 34 13 5 9 55.6 0 1 0.0 3 3 100.0 0 6 6 3 2 0 4 3 -20
+p494
+aVJJ Hickson CLE 01/01/2011 CLE @ CHI L 32 21 9 16 56.3 0 0 - 3 4 75.0 3 5 8 0 1 2 4 5 -5
+p495
+aVManny Harris CLE 12/29/2010 CLE @ CHA L 25 8 3 9 33.3 1 3 33.3 1 1 100.0 0 2 2 2 2 0 1 3 -7
+p496
+aVAnderson Varejao CLE 12/29/2010 CLE @ CHA L 35 9 3 5 60.0 0 0 - 3 4 75.0 4 6 10 0 0 5 4 5 -8
+p497
+aVDaniel Gibson CLE 12/29/2010 CLE @ CHA L 23 11 3 11 27.3 1 4 25.0 4 4 100.0 0 0 0 1 0 0 2 0 -9
+p498
+aVAnthony Parker CLE 12/29/2010 CLE @ CHA L 39 9 4 13 30.8 1 8 12.5 0 0 - 1 2 3 6 1 0 0 2 -14
+p499
+aVAlonzo Gee CLE 12/29/2010 CLE @ CHA L 27 3 1 3 33.3 1 2 50.0 0 0 - 2 7 9 1 2 1 2 4 6
+p500
+aVJJ Hickson CLE 12/29/2010 CLE @ CHA L 23 12 4 9 44.4 0 0 - 4 6 66.7 2 4 6 2 1 0 2 2 -4
+p501
+aVAntawn Jamison CLE 12/29/2010 CLE @ CHA L 38 18 8 16 50.0 0 5 0.0 2 3 66.7 0 3 3 1 0 0 2 3 -4
+p502
+aVRamon Sessions CLE 12/29/2010 CLE @ CHA L 31 22 6 13 46.2 0 0 - 10 11 90.9 2 3 5 4 0 0 1 4 -5
+p503
+aVMo Williams CLE 12/28/2010 CLE vs. ORL L 33 14 5 11 45.5 1 6 16.7 3 3 100.0 0 2 2 8 0 1 6 0 -2
+p504
+aVJJ Hickson CLE 12/28/2010 CLE vs. ORL L 31 9 4 9 44.4 0 0 - 1 7 14.3 1 7 8 1 3 0 0 3 -12
+p505
+aVAnderson Varejao CLE 12/28/2010 CLE vs. ORL L 31 14 4 9 44.4 0 0 - 6 6 100.0 2 7 9 1 5 3 3 3 4
+p506
+aVAnthony Parker CLE 12/28/2010 CLE vs. ORL L 33 8 3 11 27.3 2 7 28.6 0 0 - 1 2 3 1 2 0 0 0 2
+p507
+aVRyan Hollins CLE 12/28/2010 CLE vs. ORL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p508
+aVManny Harris CLE 12/28/2010 CLE vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p509
+aVAntawn Jamison CLE 12/28/2010 CLE vs. ORL L 29 21 8 13 61.5 1 3 33.3 4 6 66.7 0 3 3 0 0 0 2 4 -14
+p510
+aVJamario Moon CLE 12/28/2010 CLE vs. ORL L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -20
+p511
+aVRamon Sessions CLE 12/28/2010 CLE vs. ORL L 21 12 4 8 50.0 0 0 - 4 4 100.0 0 3 3 6 1 0 3 2 -15
+p512
+aVDaniel Gibson CLE 12/28/2010 CLE vs. ORL L 35 15 4 8 50.0 2 2 100.0 5 7 71.4 2 4 6 4 1 1 3 6 -6
+p513
+aVRamon Sessions CLE 12/26/2010 CLE vs. MIN L 18 5 2 3 66.7 0 1 0.0 1 2 50.0 0 2 2 5 0 0 1 0 -1
+p514
+aVJawad Williams CLE 12/26/2010 CLE vs. MIN L 24 9 3 6 50.0 3 5 60.0 0 0 - 0 0 0 0 0 0 0 3 -9
+p515
+aVAnderson Varejao CLE 12/26/2010 CLE vs. MIN L 42 6 3 6 50.0 0 0 - 0 2 0.0 3 9 12 2 2 0 1 3 2
+p516
+aVMo Williams CLE 12/26/2010 CLE vs. MIN L 39 17 6 16 37.5 2 3 66.7 3 3 100.0 1 4 5 11 1 1 5 3 7
+p517
+aVJamario Moon CLE 12/26/2010 CLE vs. MIN L 25 4 2 8 25.0 0 5 0.0 0 0 - 2 4 6 3 1 1 0 1 6
+p518
+aVJJ Hickson CLE 12/26/2010 CLE vs. MIN L 12 11 5 9 55.6 0 0 - 1 2 50.0 0 5 5 0 0 0 3 2 0
+p519
+aVRyan Hollins CLE 12/26/2010 CLE vs. MIN L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -6
+p520
+aVAntawn Jamison CLE 12/26/2010 CLE vs. MIN L 37 24 10 21 47.6 2 3 66.7 2 4 50.0 1 5 6 2 0 1 3 2 2
+p521
+aVAnthony Parker CLE 12/26/2010 CLE vs. MIN L 39 21 9 18 50.0 3 9 33.3 0 0 - 1 6 7 7 1 0 3 1 -6
+p522
+aVAnthony Parker CLE 12/22/2010 CLE @ ATL L 40 8 3 10 30.0 2 6 33.3 0 0 - 2 4 6 3 0 0 0 2 -9
+p523
+aVAnderson Varejao CLE 12/22/2010 CLE @ ATL L 36 4 1 4 25.0 0 0 - 2 2 100.0 3 10 13 2 0 0 0 2 -12
+p524
+aVJJ Hickson CLE 12/22/2010 CLE @ ATL L 15 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -12
+p525
+aVRamon Sessions CLE 12/22/2010 CLE @ ATL L 14 7 2 5 40.0 0 0 - 3 4 75.0 0 0 0 3 1 0 1 0 -12
+p526
+aVDaniel Gibson CLE 12/22/2010 CLE @ ATL L 41 12 4 12 33.3 2 7 28.6 2 2 100.0 0 0 0 2 0 0 3 2 -4
+p527
+aVMo Williams CLE 12/22/2010 CLE @ ATL L 34 18 8 20 40.0 0 3 0.0 2 2 100.0 1 1 2 11 0 0 3 2 -2
+p528
+aVJamario Moon CLE 12/22/2010 CLE @ ATL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p529
+aVRyan Hollins CLE 12/22/2010 CLE @ ATL L 5 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 1
+p530
+aVAntawn Jamison CLE 12/22/2010 CLE @ ATL L 40 23 10 16 62.5 1 4 25.0 2 3 66.7 1 6 7 0 1 2 0 1 -5
+p531
+aVJawad Williams CLE 12/22/2010 CLE @ ATL L 10 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -9
+p532
+aVManny Harris CLE 12/20/2010 CLE vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p533
+aVJamario Moon CLE 12/20/2010 CLE vs. UTA L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p534
+aVAnderson Varejao CLE 12/20/2010 CLE vs. UTA L 32 9 4 6 66.7 0 0 - 1 2 50.0 1 4 5 1 0 2 0 1 -15
+p535
+aVAntawn Jamison CLE 12/20/2010 CLE vs. UTA L 42 13 5 17 29.4 2 8 25.0 1 2 50.0 0 6 6 2 3 0 0 1 0
+p536
+aVAnthony Parker CLE 12/20/2010 CLE vs. UTA L 38 11 4 10 40.0 1 5 20.0 2 4 50.0 2 1 3 1 2 0 0 1 -10
+p537
+aVMo Williams CLE 12/20/2010 CLE vs. UTA L 38 16 5 15 33.3 2 7 28.6 4 4 100.0 1 5 6 10 0 0 3 3 2
+p538
+aVJJ Hickson CLE 12/20/2010 CLE vs. UTA L 22 10 3 4 75.0 0 0 - 4 7 57.1 1 8 9 0 0 0 1 3 -8
+p539
+aVJawad Williams CLE 12/20/2010 CLE vs. UTA L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -13
+p540
+aVRamon Sessions CLE 12/20/2010 CLE vs. UTA L 16 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -16
+p541
+aVSamardo Samuels CLE 12/20/2010 CLE vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p542
+aVDaniel Gibson CLE 12/20/2010 CLE vs. UTA L 36 29 8 15 53.3 7 8 87.5 6 6 100.0 1 3 4 4 2 0 1 4 2
+p543
+aVJamario Moon CLE 12/18/2010 CLE vs. NYK W 21 3 1 5 20.0 1 3 33.3 0 0 - 0 5 5 0 1 2 1 0 3
+p544
+aVMo Williams CLE 12/18/2010 CLE vs. NYK W 43 23 9 21 42.9 3 8 37.5 2 2 100.0 1 4 5 14 0 0 3 0 15
+p545
+aVAntawn Jamison CLE 12/18/2010 CLE vs. NYK W 38 21 8 16 50.0 1 4 25.0 4 6 66.7 2 7 9 2 1 0 2 2 8
+p546
+aVDaniel Gibson CLE 12/18/2010 CLE vs. NYK W 37 11 4 20 20.0 3 8 37.5 0 0 - 1 5 6 4 1 1 1 3 2
+p547
+aVAnderson Varejao CLE 12/18/2010 CLE vs. NYK W 41 14 7 13 53.8 0 0 - 0 0 - 7 10 17 2 2 4 0 3 0
+p548
+aVRamon Sessions CLE 12/18/2010 CLE vs. NYK W 21 12 4 10 40.0 0 0 - 4 5 80.0 1 3 4 4 1 0 0 0 -7
+p549
+aVAnthony Parker CLE 12/18/2010 CLE vs. NYK W 37 17 5 9 55.6 2 3 66.7 5 7 71.4 1 5 6 1 2 0 4 1 11
+p550
+aVJawad Williams CLE 12/18/2010 CLE vs. NYK W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 1
+p551
+aVJJ Hickson CLE 12/18/2010 CLE vs. NYK W 14 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 0 0 2 0 2
+p552
+aVSamardo Samuels CLE 12/17/2010 CLE @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p553
+aVAnthony Parker CLE 12/17/2010 CLE @ IND L 36 17 6 14 42.9 4 7 57.1 1 2 50.0 1 5 6 3 1 0 1 2 -2
+p554
+aVRamon Sessions CLE 12/17/2010 CLE @ IND L 19 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 2 0 0 0 1 -12
+p555
+aVManny Harris CLE 12/17/2010 CLE @ IND L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p556
+aVJJ Hickson CLE 12/17/2010 CLE @ IND L 20 11 2 8 25.0 0 0 - 7 10 70.0 0 4 4 0 3 0 1 5 -1
+p557
+aVAnderson Varejao CLE 12/17/2010 CLE @ IND L 30 15 5 9 55.6 0 0 - 5 5 100.0 0 6 6 2 0 2 3 5 -3
+p558
+aVJawad Williams CLE 12/17/2010 CLE @ IND L 13 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -14
+p559
+aVDaniel Gibson CLE 12/17/2010 CLE @ IND L 35 4 1 7 14.3 0 0 - 2 5 40.0 1 5 6 1 1 1 1 2 -1
+p560
+aVMo Williams CLE 12/17/2010 CLE @ IND L 40 22 8 12 66.7 1 1 100.0 5 6 83.3 1 5 6 11 0 0 5 4 -10
+p561
+aVRyan Hollins CLE 12/17/2010 CLE @ IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 0
+p562
+aVAntawn Jamison CLE 12/17/2010 CLE @ IND L 38 17 7 19 36.8 0 4 0.0 3 4 75.0 1 6 7 1 0 0 2 3 -17
+p563
+aVJamario Moon CLE 12/17/2010 CLE @ IND L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p564
+aVAntawn Jamison CLE 12/15/2010 CLE @ MIA L 39 15 5 18 27.8 3 9 33.3 2 2 100.0 1 7 8 1 0 0 1 4 -3
+p565
+aVDaniel Gibson CLE 12/15/2010 CLE @ MIA L 39 26 10 16 62.5 4 7 57.1 2 3 66.7 1 2 3 4 1 0 2 6 -2
+p566
+aVAnderson Varejao CLE 12/15/2010 CLE @ MIA L 40 18 6 10 60.0 0 0 - 6 7 85.7 6 9 15 1 1 0 1 5 1
+p567
+aVRamon Sessions CLE 12/15/2010 CLE @ MIA L 11 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 3 0 0 0 0 -6
+p568
+aVAnthony Parker CLE 12/15/2010 CLE @ MIA L 37 11 4 10 40.0 1 6 16.7 2 2 100.0 0 3 3 0 1 0 1 4 1
+p569
+aVJJ Hickson CLE 12/15/2010 CLE @ MIA L 19 4 2 4 50.0 0 0 - 0 2 0.0 1 3 4 0 1 0 1 1 -12
+p570
+aVJoey Graham CLE 12/15/2010 CLE @ MIA L 16 4 1 6 16.7 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 3 -9
+p571
+aVMo Williams CLE 12/15/2010 CLE @ MIA L 38 13 6 20 30.0 1 10 10.0 0 0 - 1 1 2 9 2 0 1 5 0
+p572
+aVJoey Graham CLE 12/12/2010 CLE @ OKC L 16 7 2 5 40.0 0 0 - 3 5 60.0 2 0 2 0 0 0 1 1 -19
+p573
+aVLeon Powe CLE 12/12/2010 CLE @ OKC L 6 3 1 2 50.0 0 0 - 1 3 33.3 2 0 2 0 1 0 0 0 -8
+p574
+aVRamon Sessions CLE 12/12/2010 CLE @ OKC L 18 6 0 5 0.0 0 0 - 6 8 75.0 0 4 4 2 1 0 0 1 -9
+p575
+aVJawad Williams CLE 12/12/2010 CLE @ OKC L 15 1 0 5 0.0 0 2 0.0 1 2 50.0 0 2 2 0 0 0 2 3 -11
+p576
+aVJJ Hickson CLE 12/12/2010 CLE @ OKC L 24 9 4 9 44.4 0 0 - 1 5 20.0 0 4 4 0 1 0 1 3 -30
+p577
+aVDaniel Gibson CLE 12/12/2010 CLE @ OKC L 25 11 5 11 45.5 1 1 100.0 0 0 - 0 3 3 0 0 0 2 1 -2
+p578
+aVAnderson Varejao CLE 12/12/2010 CLE @ OKC L 28 7 3 7 42.9 0 0 - 1 1 100.0 9 7 16 0 1 1 1 1 -12
+p579
+aVMo Williams CLE 12/12/2010 CLE @ OKC L 30 8 3 9 33.3 0 1 0.0 2 2 100.0 1 3 4 4 0 0 4 2 -20
+p580
+aVAnthony Parker CLE 12/12/2010 CLE @ OKC L 24 12 4 8 50.0 2 3 66.7 2 2 100.0 1 1 2 2 2 0 0 3 1
+p581
+aVManny Harris CLE 12/12/2010 CLE @ OKC L 16 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 2 0 0 1 2 -27
+p582
+aVAntawn Jamison CLE 12/12/2010 CLE @ OKC L 24 8 3 11 27.3 2 7 28.6 0 0 - 0 2 2 1 1 0 2 1 1
+p583
+aVRyan Hollins CLE 12/12/2010 CLE @ OKC L 14 3 0 1 0.0 0 0 - 3 4 75.0 0 0 0 0 0 0 2 3 -9
+p584
+aVMo Williams CLE 12/11/2010 CLE @ HOU L 31 18 6 13 46.2 1 4 25.0 5 6 83.3 0 2 2 9 0 0 3 2 -7
+p585
+aVDaniel Gibson CLE 12/11/2010 CLE @ HOU L 32 12 3 9 33.3 2 3 66.7 4 4 100.0 1 3 4 3 4 0 0 4 -13
+p586
+aVManny Harris CLE 12/11/2010 CLE @ HOU L 16 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 0 2 -2
+p587
+aVAnderson Varejao CLE 12/11/2010 CLE @ HOU L 28 11 5 7 71.4 0 0 - 1 2 50.0 2 6 8 1 0 0 2 4 -5
+p588
+aVRamon Sessions CLE 12/11/2010 CLE @ HOU L 17 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 0 0 3 0 -8
+p589
+aVAnthony Parker CLE 12/11/2010 CLE @ HOU L 34 8 2 8 25.0 0 4 0.0 4 4 100.0 1 2 3 2 1 0 1 2 -15
+p590
+aVJJ Hickson CLE 12/11/2010 CLE @ HOU L 18 5 2 9 22.2 0 0 - 1 2 50.0 1 4 5 0 0 0 0 0 -13
+p591
+aVLeon Powe CLE 12/11/2010 CLE @ HOU L 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -11
+p592
+aVJawad Williams CLE 12/11/2010 CLE @ HOU L 14 13 6 8 75.0 0 1 0.0 1 1 100.0 0 1 1 0 1 0 0 0 0
+p593
+aVAntawn Jamison CLE 12/11/2010 CLE @ HOU L 33 24 9 15 60.0 3 3 100.0 3 3 100.0 1 4 5 2 2 1 0 2 -1
+p594
+aVJJ Hickson CLE 12/08/2010 CLE vs. CHI L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 2 1 0
+p595
+aVDaniel Gibson CLE 12/08/2010 CLE vs. CHI L 37 14 4 16 25.0 2 7 28.6 4 4 100.0 1 7 8 4 2 1 4 2 -5
+p596
+aVMo Williams CLE 12/08/2010 CLE vs. CHI L 38 13 5 18 27.8 2 7 28.6 1 1 100.0 2 3 5 10 0 0 2 3 -3
+p597
+aVJawad Williams CLE 12/08/2010 CLE vs. CHI L 20 2 1 5 20.0 0 1 0.0 0 0 - 1 4 5 2 0 2 1 1 2
+p598
+aVAnthony Parker CLE 12/08/2010 CLE vs. CHI L 33 10 4 6 66.7 2 3 66.7 0 0 - 1 2 3 2 1 0 1 0 -10
+p599
+aVAntawn Jamison CLE 12/08/2010 CLE vs. CHI L 34 21 8 19 42.1 2 7 28.6 3 7 42.9 1 5 6 2 0 1 1 3 -2
+p600
+aVAnderson Varejao CLE 12/08/2010 CLE vs. CHI L 37 17 7 7 100.0 0 0 - 3 6 50.0 4 8 12 0 2 1 2 5 -9
+p601
+aVManny Harris CLE 12/08/2010 CLE vs. CHI L 21 6 2 7 28.6 2 5 40.0 0 0 - 0 2 2 2 2 0 2 1 -2
+p602
+aVRyan Hollins CLE 12/08/2010 CLE vs. CHI L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 4
+p603
+aVAnderson Varejao CLE 12/07/2010 CLE @ PHI L 29 4 2 6 33.3 0 0 - 0 0 - 3 5 8 2 2 2 0 2 -12
+p604
+aVJawad Williams CLE 12/07/2010 CLE @ PHI L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 3 -16
+p605
+aVMo Williams CLE 12/07/2010 CLE @ PHI L 32 15 7 16 43.8 1 6 16.7 0 0 - 0 2 2 7 1 0 3 3 -9
+p606
+aVLeon Powe CLE 12/07/2010 CLE @ PHI L 10 6 2 2 100.0 0 0 - 2 3 66.7 0 1 1 0 0 0 0 3 -3
+p607
+aVRyan Hollins CLE 12/07/2010 CLE @ PHI L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p608
+aVAntawn Jamison CLE 12/07/2010 CLE @ PHI L 21 10 4 10 40.0 2 3 66.7 0 0 - 1 5 6 2 0 0 0 1 -17
+p609
+aVDaniel Gibson CLE 12/07/2010 CLE @ PHI L 27 16 6 10 60.0 4 6 66.7 0 0 - 0 0 0 3 0 0 0 2 -14
+p610
+aVJJ Hickson CLE 12/07/2010 CLE @ PHI L 27 18 6 12 50.0 0 0 - 6 8 75.0 1 3 4 0 1 1 2 2 -3
+p611
+aVJoey Graham CLE 12/07/2010 CLE @ PHI L 20 8 4 5 80.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -8
+p612
+aVJamario Moon CLE 12/07/2010 CLE @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p613
+aVAnthony Parker CLE 12/07/2010 CLE @ PHI L 31 5 2 5 40.0 0 1 0.0 1 2 50.0 0 3 3 4 1 0 3 0 -1
+p614
+aVRamon Sessions CLE 12/07/2010 CLE @ PHI L 16 11 4 5 80.0 0 0 - 3 4 75.0 0 1 1 1 0 0 2 2 -11
+p615
+aVMo Williams CLE 12/05/2010 CLE @ DET L 34 14 5 14 35.7 0 2 0.0 4 4 100.0 0 4 4 10 0 0 2 3 -15
+p616
+aVDaniel Gibson CLE 12/05/2010 CLE @ DET L 27 12 4 13 30.8 2 6 33.3 2 2 100.0 0 0 0 1 1 0 0 4 2
+p617
+aVAnthony Parker CLE 12/05/2010 CLE @ DET L 28 11 4 7 57.1 3 5 60.0 0 0 - 0 3 3 2 0 0 1 1 -7
+p618
+aVJoey Graham CLE 12/05/2010 CLE @ DET L 18 8 4 8 50.0 0 0 - 0 0 - 1 2 3 1 0 1 1 3 -10
+p619
+aVRamon Sessions CLE 12/05/2010 CLE @ DET L 14 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 3 3 0 1 0 5
+p620
+aVAnderson Varejao CLE 12/05/2010 CLE @ DET L 35 11 5 7 71.4 0 0 - 1 2 50.0 6 8 14 1 0 2 1 1 -17
+p621
+aVJawad Williams CLE 12/05/2010 CLE @ DET L 23 3 1 6 16.7 0 2 0.0 1 2 50.0 1 1 2 2 3 0 0 1 -5
+p622
+aVAntawn Jamison CLE 12/05/2010 CLE @ DET L 32 22 8 17 47.1 1 5 20.0 5 6 83.3 3 3 6 1 1 0 1 4 -5
+p623
+aVRyan Hollins CLE 12/05/2010 CLE @ DET L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 3 7
+p624
+aVJJ Hickson CLE 12/05/2010 CLE @ DET L 16 7 3 5 60.0 0 0 - 1 4 25.0 0 2 2 3 0 0 5 4 -5
+p625
+aVSamardo Samuels CLE 12/04/2010 CLE @ MIN L 8 6 1 2 50.0 0 0 - 4 5 80.0 2 0 2 0 1 1 1 1 -5
+p626
+aVLeon Powe CLE 12/04/2010 CLE @ MIN L 23 10 5 9 55.6 0 0 - 0 0 - 1 5 6 0 0 0 2 3 -22
+p627
+aVMo Williams CLE 12/04/2010 CLE @ MIN L 19 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 4 1 0 0 0 -30
+p628
+aVAntawn Jamison CLE 12/04/2010 CLE @ MIN L 21 17 5 13 38.5 3 7 42.9 4 4 100.0 1 2 3 2 0 1 1 2 -15
+p629
+aVManny Harris CLE 12/04/2010 CLE @ MIN L 12 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 0 2 0 1 0 -3
+p630
+aVAnderson Varejao CLE 12/04/2010 CLE @ MIN L 18 4 2 7 28.6 0 0 - 0 2 0.0 1 2 3 1 0 0 0 4 -20
+p631
+aVDaniel Gibson CLE 12/04/2010 CLE @ MIN L 23 8 3 9 33.3 0 3 0.0 2 2 100.0 0 2 2 1 0 0 1 0 -15
+p632
+aVJawad Williams CLE 12/04/2010 CLE @ MIN L 35 11 4 14 28.6 1 4 25.0 2 2 100.0 1 5 6 4 0 0 0 1 -22
+p633
+aVJamario Moon CLE 12/04/2010 CLE @ MIN L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p634
+aVAnthony Parker CLE 12/04/2010 CLE @ MIN L 26 5 2 9 22.2 1 4 25.0 0 0 - 2 2 4 2 3 0 0 2 -28
+p635
+aVRyan Hollins CLE 12/04/2010 CLE @ MIN L 17 4 0 2 0.0 0 0 - 4 4 100.0 1 1 2 0 1 1 0 1 -8
+p636
+aVRamon Sessions CLE 12/04/2010 CLE @ MIN L 29 18 7 10 70.0 0 0 - 4 4 100.0 0 1 1 6 1 0 2 2 -4
+p637
+aVJawad Williams CLE 12/02/2010 CLE vs. MIA L 19 6 3 8 37.5 0 2 0.0 0 0 - 0 5 5 0 1 0 0 2 -1
+p638
+aVAnthony Parker CLE 12/02/2010 CLE vs. MIA L 20 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 0 0 4 1 -18
+p639
+aVJamario Moon CLE 12/02/2010 CLE vs. MIA L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -15
+p640
+aVAntawn Jamison CLE 12/02/2010 CLE vs. MIA L 26 11 4 10 40.0 1 3 33.3 2 2 100.0 2 1 3 3 2 0 1 3 -11
+p641
+aVDaniel Gibson CLE 12/02/2010 CLE vs. MIA L 28 21 6 14 42.9 4 6 66.7 5 7 71.4 1 3 4 2 1 0 0 1 -10
+p642
+aVMo Williams CLE 12/02/2010 CLE vs. MIA L 25 11 2 8 25.0 1 2 50.0 6 8 75.0 0 1 1 6 0 0 4 4 -24
+p643
+aVRamon Sessions CLE 12/02/2010 CLE vs. MIA L 23 11 2 5 40.0 0 0 - 7 8 87.5 1 2 3 7 1 0 1 0 -4
+p644
+aVLeon Powe CLE 12/02/2010 CLE vs. MIA L 12 7 2 4 50.0 0 0 - 3 4 75.0 1 3 4 0 0 0 0 0 2
+p645
+aVJJ Hickson CLE 12/02/2010 CLE vs. MIA L 27 6 3 9 33.3 0 1 0.0 0 0 - 1 3 4 0 0 0 2 1 -27
+p646
+aVAnderson Varejao CLE 12/02/2010 CLE vs. MIA L 25 4 1 4 25.0 0 0 - 2 2 100.0 2 6 8 1 1 0 1 1 -20
+p647
+aVJoey Graham CLE 12/02/2010 CLE vs. MIA L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -12
+p648
+aVRyan Hollins CLE 12/02/2010 CLE vs. MIA L 6 4 0 2 0.0 0 0 - 4 6 66.7 1 2 3 0 0 0 0 3 0
+p649
+aVAntawn Jamison CLE 11/30/2010 CLE vs. BOS L 26 6 3 10 30.0 0 3 0.0 0 0 - 0 3 3 0 2 0 1 1 -14
+p650
+aVRyan Hollins CLE 11/30/2010 CLE vs. BOS L 15 2 1 6 16.7 0 0 - 0 0 - 2 2 4 1 0 2 1 3 -13
+p651
+aVMo Williams CLE 11/30/2010 CLE vs. BOS L 25 13 5 12 41.7 2 3 66.7 1 2 50.0 0 3 3 4 0 1 3 2 -10
+p652
+aVJoey Graham CLE 11/30/2010 CLE vs. BOS L 17 3 1 5 20.0 0 1 0.0 1 1 100.0 0 3 3 1 0 0 1 5 -2
+p653
+aVAnderson Varejao CLE 11/30/2010 CLE vs. BOS L 27 16 7 12 58.3 0 0 - 2 3 66.7 7 5 12 3 2 0 2 2 -6
+p654
+aVJJ Hickson CLE 11/30/2010 CLE vs. BOS L 25 1 0 4 0.0 0 0 - 1 2 50.0 0 11 11 0 1 0 2 1 -3
+p655
+aVAnthony Parker CLE 11/30/2010 CLE vs. BOS L 30 13 3 11 27.3 1 4 25.0 6 6 100.0 0 2 2 3 2 1 0 0 -2
+p656
+aVDaniel Gibson CLE 11/30/2010 CLE vs. BOS L 24 16 5 6 83.3 1 2 50.0 5 5 100.0 0 2 2 2 0 1 1 5 -15
+p657
+aVRamon Sessions CLE 11/30/2010 CLE vs. BOS L 23 14 6 10 60.0 0 0 - 2 5 40.0 1 2 3 4 0 0 1 0 -9
+p658
+aVJamario Moon CLE 11/30/2010 CLE vs. BOS L 25 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 1 3 1 2 2 -19
+p659
+aVJawad Williams CLE 11/30/2010 CLE vs. BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p660
+aVRamon Sessions CLE 11/27/2010 CLE vs. MEM W 13 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -21
+p661
+aVRyan Hollins CLE 11/27/2010 CLE vs. MEM W 17 8 3 4 75.0 0 0 - 2 5 40.0 3 2 5 0 0 0 2 1 -17
+p662
+aVAntawn Jamison CLE 11/27/2010 CLE vs. MEM W 24 8 2 10 20.0 1 4 25.0 3 4 75.0 1 6 7 2 0 2 1 1 -14
+p663
+aVJoey Graham CLE 11/27/2010 CLE vs. MEM W 29 12 5 10 50.0 2 4 50.0 0 0 - 1 2 3 1 1 1 1 1 22
+p664
+aVAnthony Parker CLE 11/27/2010 CLE vs. MEM W 28 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 2 1 2 0 1 20
+p665
+aVAnderson Varejao CLE 11/27/2010 CLE vs. MEM W 31 3 1 3 33.3 0 0 - 1 2 50.0 1 10 11 1 2 2 0 5 23
+p666
+aVJamario Moon CLE 11/27/2010 CLE vs. MEM W 19 4 2 7 28.6 0 4 0.0 0 0 - 1 3 4 1 1 0 0 1 -16
+p667
+aVJJ Hickson CLE 11/27/2010 CLE vs. MEM W 24 16 6 11 54.5 0 0 - 4 5 80.0 2 3 5 1 1 1 4 1 17
+p668
+aVDaniel Gibson CLE 11/27/2010 CLE vs. MEM W 21 6 2 9 22.2 0 3 0.0 2 2 100.0 1 2 3 0 0 0 2 0 -11
+p669
+aVMo Williams CLE 11/27/2010 CLE vs. MEM W 35 25 10 21 47.6 4 6 66.7 1 2 50.0 1 4 5 12 2 1 4 3 27
+p670
+aVJamario Moon CLE 11/26/2010 CLE @ ORL L 19 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 1 1 0 1 2 -7
+p671
+aVLeon Powe CLE 11/26/2010 CLE @ ORL L 5 0 0 3 0.0 0 0 - 0 2 0.0 2 0 2 0 0 0 0 0 -2
+p672
+aVMo Williams CLE 11/26/2010 CLE @ ORL L 29 20 6 14 42.9 2 3 66.7 6 8 75.0 2 2 4 8 1 0 4 3 -6
+p673
+aVRyan Hollins CLE 11/26/2010 CLE @ ORL L 16 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 1 1 1 3 -2
+p674
+aVAntawn Jamison CLE 11/26/2010 CLE @ ORL L 30 22 9 20 45.0 2 7 28.6 2 2 100.0 1 6 7 1 1 1 1 4 -4
+p675
+aVJJ Hickson CLE 11/26/2010 CLE @ ORL L 20 7 3 6 50.0 0 1 0.0 1 1 100.0 0 1 1 1 0 0 3 2 -4
+p676
+aVDaniel Gibson CLE 11/26/2010 CLE @ ORL L 30 4 2 8 25.0 0 3 0.0 0 0 - 1 5 6 3 0 0 1 2 -5
+p677
+aVRamon Sessions CLE 11/26/2010 CLE @ ORL L 19 13 6 8 75.0 0 0 - 1 3 33.3 2 2 4 6 1 1 1 0 -5
+p678
+aVJoey Graham CLE 11/26/2010 CLE @ ORL L 23 10 4 8 50.0 0 2 0.0 2 2 100.0 0 5 5 0 0 0 0 2 -4
+p679
+aVAnthony Parker CLE 11/26/2010 CLE @ ORL L 24 9 3 6 50.0 3 3 100.0 0 0 - 0 2 2 3 1 0 0 2 -6
+p680
+aVAnderson Varejao CLE 11/26/2010 CLE @ ORL L 24 6 3 4 75.0 0 0 - 0 2 0.0 1 2 3 2 1 0 1 5 -10
+p681
+aVJoey Graham CLE 11/24/2010 CLE vs. MIL W 27 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 5 10
+p682
+aVAnderson Varejao CLE 11/24/2010 CLE vs. MIL W 31 6 2 4 50.0 0 0 - 2 3 66.7 3 10 13 2 0 2 1 0 8
+p683
+aVRamon Sessions CLE 11/24/2010 CLE vs. MIL W 15 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 5 0 0 2 0 -9
+p684
+aVJJ Hickson CLE 11/24/2010 CLE vs. MIL W 20 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 0 0 3 1 7
+p685
+aVAnthony Parker CLE 11/24/2010 CLE vs. MIL W 30 14 5 10 50.0 2 4 50.0 2 2 100.0 0 0 0 2 0 0 0 0 15
+p686
+aVMo Williams CLE 11/24/2010 CLE vs. MIL W 33 25 11 22 50.0 2 6 33.3 1 1 100.0 0 4 4 5 1 0 3 2 11
+p687
+aVAntawn Jamison CLE 11/24/2010 CLE vs. MIL W 28 6 2 9 22.2 1 3 33.3 1 4 25.0 1 4 5 1 1 0 0 1 -5
+p688
+aVDaniel Gibson CLE 11/24/2010 CLE vs. MIL W 23 12 5 11 45.5 1 5 20.0 1 1 100.0 0 4 4 2 0 0 0 4 -9
+p689
+aVJamario Moon CLE 11/24/2010 CLE vs. MIL W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p690
+aVRyan Hollins CLE 11/24/2010 CLE vs. MIL W 17 5 1 1 100.0 0 0 - 3 4 75.0 0 4 4 0 0 1 1 3 -6
+p691
+aVJawad Williams CLE 11/24/2010 CLE vs. MIL W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 1 0 0 -3
+p692
+aVAnderson Varejao CLE 11/23/2010 CLE @ IND L 25 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 2 1 3 3 1 -26
+p693
+aVJoey Graham CLE 11/23/2010 CLE @ IND L 28 11 4 10 40.0 0 0 - 3 4 75.0 0 1 1 0 0 0 2 3 -21
+p694
+aVAntawn Jamison CLE 11/23/2010 CLE @ IND L 25 12 4 9 44.4 1 1 100.0 3 4 75.0 4 6 10 2 0 0 1 3 11
+p695
+aVRamon Sessions CLE 11/23/2010 CLE @ IND L 25 15 7 12 58.3 0 0 - 1 2 50.0 2 4 6 5 1 0 1 1 16
+p696
+aVLeon Powe CLE 11/23/2010 CLE @ IND L 9 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 13
+p697
+aVJawad Williams CLE 11/23/2010 CLE @ IND L 12 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 1 0 0 0 16
+p698
+aVJJ Hickson CLE 11/23/2010 CLE @ IND L 23 9 4 8 50.0 0 0 - 1 2 50.0 0 10 10 0 0 0 0 2 -22
+p699
+aVMo Williams CLE 11/23/2010 CLE @ IND L 23 6 3 7 42.9 0 0 - 0 0 - 0 1 1 3 1 2 3 3 -27
+p700
+aVRyan Hollins CLE 11/23/2010 CLE @ IND L 14 6 2 3 66.7 0 0 - 2 4 50.0 0 3 3 0 0 0 0 1 2
+p701
+aVAnthony Parker CLE 11/23/2010 CLE @ IND L 22 0 0 5 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -23
+p702
+aVDaniel Gibson CLE 11/23/2010 CLE @ IND L 26 15 6 10 60.0 1 1 100.0 2 2 100.0 1 3 4 2 0 0 1 1 12
+p703
+aVJamario Moon CLE 11/23/2010 CLE @ IND L 8 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 0 1 1 0 0 -6
+p704
+aVDaniel Gibson CLE 11/20/2010 CLE @ SAS L 29 17 6 10 60.0 3 4 75.0 2 2 100.0 0 1 1 2 0 1 1 1 -17
+p705
+aVAntawn Jamison CLE 11/20/2010 CLE @ SAS L 23 12 6 12 50.0 0 1 0.0 0 2 0.0 1 2 3 0 0 0 1 1 -14
+p706
+aVJawad Williams CLE 11/20/2010 CLE @ SAS L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 -2
+p707
+aVLeon Powe CLE 11/20/2010 CLE @ SAS L 6 5 2 2 100.0 0 0 - 1 3 33.3 1 0 1 0 2 1 1 0 -2
+p708
+aVRamon Sessions CLE 11/20/2010 CLE @ SAS L 18 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 5 0 0 2 1 -14
+p709
+aVJoey Graham CLE 11/20/2010 CLE @ SAS L 20 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 1 0 0 2 4 -17
+p710
+aVMo Williams CLE 11/20/2010 CLE @ SAS L 30 21 9 15 60.0 0 0 - 3 3 100.0 1 2 3 6 3 0 2 2 -10
+p711
+aVJamario Moon CLE 11/20/2010 CLE @ SAS L 22 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 0 0 0 0 0 -5
+p712
+aVRyan Hollins CLE 11/20/2010 CLE @ SAS L 13 3 1 2 50.0 0 0 - 1 4 25.0 1 3 4 0 0 2 0 2 -10
+p713
+aVAnderson Varejao CLE 11/20/2010 CLE @ SAS L 30 8 4 9 44.4 0 0 - 0 0 - 4 5 9 1 0 1 4 2 -12
+p714
+aVAnthony Parker CLE 11/20/2010 CLE @ SAS L 21 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -3
+p715
+aVJJ Hickson CLE 11/20/2010 CLE @ SAS L 23 6 3 10 30.0 0 0 - 0 0 - 0 5 5 0 0 1 2 2 -14
+p716
+aVJawad Williams CLE 11/19/2010 CLE @ NOH L 5 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 0 0 0 1 2 5
+p717
+aVDaniel Gibson CLE 11/19/2010 CLE @ NOH L 29 10 3 10 30.0 2 7 28.6 2 2 100.0 1 2 3 3 1 0 0 2 11
+p718
+aVJoey Graham CLE 11/19/2010 CLE @ NOH L 19 9 3 8 37.5 1 2 50.0 2 2 100.0 0 5 5 1 0 0 0 1 -2
+p719
+aVAntawn Jamison CLE 11/19/2010 CLE @ NOH L 28 20 5 12 41.7 3 5 60.0 7 8 87.5 0 11 11 2 0 0 1 5 7
+p720
+aVAnthony Parker CLE 11/19/2010 CLE @ NOH L 24 7 2 6 33.3 1 3 33.3 2 2 100.0 0 1 1 4 1 0 0 3 -14
+p721
+aVAnderson Varejao CLE 11/19/2010 CLE @ NOH L 31 10 4 14 28.6 0 0 - 2 2 100.0 6 7 13 0 1 1 0 2 -6
+p722
+aVRamon Sessions CLE 11/19/2010 CLE @ NOH L 27 16 4 8 50.0 0 1 0.0 8 8 100.0 0 3 3 5 0 0 3 3 7
+p723
+aVJamario Moon CLE 11/19/2010 CLE @ NOH L 19 3 1 4 25.0 1 4 25.0 0 0 - 1 2 3 0 0 0 1 0 -15
+p724
+aVRyan Hollins CLE 11/19/2010 CLE @ NOH L 17 5 1 5 20.0 0 0 - 3 4 75.0 3 0 3 0 0 0 1 2 -1
+p725
+aVMo Williams CLE 11/19/2010 CLE @ NOH L 21 8 3 8 37.5 0 2 0.0 2 2 100.0 0 0 0 2 2 0 5 3 -14
+p726
+aVJJ Hickson CLE 11/19/2010 CLE @ NOH L 19 8 2 8 25.0 0 0 - 4 4 100.0 2 6 8 2 1 1 1 2 -13
+p727
+aVManny Harris CLE 11/16/2010 CLE vs. PHI W 12 4 1 3 33.3 0 1 0.0 2 4 50.0 0 0 0 2 0 0 1 1 -5
+p728
+aVRamon Sessions CLE 11/16/2010 CLE vs. PHI W 27 7 1 8 12.5 0 0 - 5 6 83.3 1 3 4 8 0 0 1 0 7
+p729
+aVRyan Hollins CLE 11/16/2010 CLE vs. PHI W 18 9 3 5 60.0 0 0 - 3 4 75.0 0 2 2 1 0 0 1 2 -1
+p730
+aVDaniel Gibson CLE 11/16/2010 CLE vs. PHI W 30 18 6 12 50.0 3 5 60.0 3 4 75.0 0 4 4 8 2 0 0 5 -1
+p731
+aVAnderson Varejao CLE 11/16/2010 CLE vs. PHI W 30 9 4 5 80.0 0 0 - 1 1 100.0 0 5 5 2 1 1 0 3 9
+p732
+aVJamario Moon CLE 11/16/2010 CLE vs. PHI W 20 13 5 8 62.5 1 3 33.3 2 2 100.0 0 8 8 1 1 0 1 1 13
+p733
+aVAnthony Parker CLE 11/16/2010 CLE vs. PHI W 26 10 3 8 37.5 1 3 33.3 3 4 75.0 0 3 3 4 2 0 0 1 15
+p734
+aVJJ Hickson CLE 11/16/2010 CLE vs. PHI W 17 8 4 9 44.4 0 0 - 0 0 - 1 1 2 0 0 1 1 0 7
+p735
+aVJoey Graham CLE 11/16/2010 CLE vs. PHI W 28 13 6 11 54.5 1 3 33.3 0 0 - 0 4 4 0 0 0 1 2 -5
+p736
+aVAntawn Jamison CLE 11/16/2010 CLE vs. PHI W 31 10 4 11 36.4 2 5 40.0 0 0 - 1 5 6 2 0 1 1 3 1
+p737
+aVRyan Hollins CLE 11/13/2010 CLE vs. IND L 18 4 2 2 100.0 0 0 - 0 0 - 2 1 3 1 1 1 1 4 -12
+p738
+aVAnthony Parker CLE 11/13/2010 CLE vs. IND L 33 3 1 8 12.5 0 3 0.0 1 2 50.0 1 7 8 3 0 0 2 1 -23
+p739
+aVJawad Williams CLE 11/13/2010 CLE vs. IND L 18 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 3 -5
+p740
+aVJJ Hickson CLE 11/13/2010 CLE vs. IND L 31 12 4 12 33.3 0 0 - 4 4 100.0 0 2 2 0 0 1 1 1 -27
+p741
+aVAntawn Jamison CLE 11/13/2010 CLE vs. IND L 26 19 8 16 50.0 1 4 25.0 2 3 66.7 3 6 9 1 1 1 1 2 4
+p742
+aVDaniel Gibson CLE 11/13/2010 CLE vs. IND L 27 15 4 11 36.4 1 4 25.0 6 7 85.7 0 4 4 1 0 0 3 3 1
+p743
+aVManny Harris CLE 11/13/2010 CLE vs. IND L 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 2 0 1 1 -2
+p744
+aVLeon Powe CLE 11/13/2010 CLE vs. IND L 21 9 4 6 66.7 0 0 - 1 1 100.0 3 0 3 0 2 0 1 2 6
+p745
+aVJamario Moon CLE 11/13/2010 CLE vs. IND L 23 4 2 4 50.0 0 2 0.0 0 0 - 0 3 3 3 0 0 0 0 -3
+p746
+aVRamon Sessions CLE 11/13/2010 CLE vs. IND L 36 17 6 17 35.3 0 0 - 5 6 83.3 1 4 5 5 0 0 1 2 -9
+p747
+aVAnthony Parker CLE 11/10/2010 CLE vs. NJN L 27 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 5 0 0 1 2 -7
+p748
+aVJawad Williams CLE 11/10/2010 CLE vs. NJN L 12 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -3
+p749
+aVJJ Hickson CLE 11/10/2010 CLE vs. NJN L 25 15 6 11 54.5 0 0 - 3 4 75.0 0 6 6 0 0 0 3 4 -4
+p750
+aVDaniel Gibson CLE 11/10/2010 CLE vs. NJN L 30 5 2 10 20.0 0 2 0.0 1 2 50.0 0 2 2 5 1 0 2 4 -10
+p751
+aVMo Williams CLE 11/10/2010 CLE vs. NJN L 22 9 4 11 36.4 1 3 33.3 0 0 - 0 2 2 4 0 1 0 2 -4
+p752
+aVJamario Moon CLE 11/10/2010 CLE vs. NJN L 27 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 2 2 0 2 3 4
+p753
+aVAnderson Varejao CLE 11/10/2010 CLE vs. NJN L 35 8 3 6 50.0 0 0 - 2 4 50.0 1 4 5 0 0 2 0 3 -11
+p754
+aVRamon Sessions CLE 11/10/2010 CLE vs. NJN L 26 14 4 10 40.0 0 0 - 6 6 100.0 0 3 3 3 0 0 1 1 -4
+p755
+aVAntawn Jamison CLE 11/10/2010 CLE vs. NJN L 23 14 6 12 50.0 1 4 25.0 1 3 33.3 3 6 9 1 0 0 2 4 -4
+p756
+aVRyan Hollins CLE 11/10/2010 CLE vs. NJN L 13 11 4 5 80.0 0 0 - 3 3 100.0 2 0 2 0 0 0 0 1 3
+p757
+aVJJ Hickson CLE 11/09/2010 CLE @ NJN W 25 18 8 14 57.1 0 0 - 2 2 100.0 3 7 10 1 0 0 1 3 -2
+p758
+aVAnthony Parker CLE 11/09/2010 CLE @ NJN W 24 9 3 5 60.0 1 1 100.0 2 2 100.0 1 3 4 2 0 0 1 0 -11
+p759
+aVAnderson Varejao CLE 11/09/2010 CLE @ NJN W 35 10 4 9 44.4 0 0 - 2 4 50.0 5 2 7 3 0 2 3 3 -6
+p760
+aVJamario Moon CLE 11/09/2010 CLE @ NJN W 24 2 1 5 20.0 0 2 0.0 0 0 - 0 6 6 0 0 0 0 1 -11
+p761
+aVRamon Sessions CLE 11/09/2010 CLE @ NJN W 23 15 6 11 54.5 0 0 - 3 6 50.0 0 4 4 5 0 0 0 1 12
+p762
+aVAntawn Jamison CLE 11/09/2010 CLE @ NJN W 28 15 6 10 60.0 3 4 75.0 0 3 0.0 2 6 8 3 1 0 1 1 12
+p763
+aVRyan Hollins CLE 11/09/2010 CLE @ NJN W 7 2 0 2 0.0 0 0 - 2 4 50.0 1 0 1 1 0 0 0 5 0
+p764
+aVJawad Williams CLE 11/09/2010 CLE @ NJN W 19 6 2 4 50.0 1 1 100.0 1 1 100.0 0 0 0 1 0 0 0 1 14
+p765
+aVMo Williams CLE 11/09/2010 CLE @ NJN W 25 2 1 12 8.3 0 4 0.0 0 0 - 0 3 3 7 1 0 2 3 -10
+p766
+aVDaniel Gibson CLE 11/09/2010 CLE @ NJN W 29 14 5 10 50.0 4 5 80.0 0 0 - 0 1 1 4 0 0 0 0 12
+p767
+aVJJ Hickson CLE 11/06/2010 CLE @ WAS W 31 10 4 10 40.0 0 0 - 2 4 50.0 1 2 3 2 0 1 2 3 -4
+p768
+aVJamario Moon CLE 11/06/2010 CLE @ WAS W 25 7 2 8 25.0 1 4 25.0 2 2 100.0 0 3 3 5 2 0 0 3 -16
+p769
+aVRamon Sessions CLE 11/06/2010 CLE @ WAS W 18 6 1 6 16.7 0 0 - 4 4 100.0 1 4 5 1 0 0 1 1 15
+p770
+aVJoey Graham CLE 11/06/2010 CLE @ WAS W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 8
+p771
+aVRyan Hollins CLE 11/06/2010 CLE @ WAS W 17 11 5 5 100.0 0 0 - 1 1 100.0 0 1 1 0 0 1 0 0 9
+p772
+aVMo Williams CLE 11/06/2010 CLE @ WAS W 32 28 10 19 52.6 1 6 16.7 7 10 70.0 0 4 4 3 2 0 3 2 -3
+p773
+aVAnderson Varejao CLE 11/06/2010 CLE @ WAS W 35 8 4 7 57.1 0 0 - 0 0 - 2 9 11 2 1 0 0 3 1
+p774
+aVAnthony Parker CLE 11/06/2010 CLE @ WAS W 30 13 4 9 44.4 3 4 75.0 2 2 100.0 0 2 2 1 0 0 1 1 -4
+p775
+aVJawad Williams CLE 11/06/2010 CLE @ WAS W 15 3 1 6 16.7 1 2 50.0 0 0 - 0 3 3 3 0 0 1 0 9
+p776
+aVDaniel Gibson CLE 11/06/2010 CLE @ WAS W 28 19 7 11 63.6 2 2 100.0 3 3 100.0 1 3 4 2 2 0 2 3 10
+p777
+aVRamon Sessions CLE 11/05/2010 CLE @ PHI W 18 9 2 6 33.3 0 0 - 5 5 100.0 1 1 2 6 0 0 2 0 -6
+p778
+aVRyan Hollins CLE 11/05/2010 CLE @ PHI W 12 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 0 0 1 1 4 -7
+p779
+aVAnderson Varejao CLE 11/05/2010 CLE @ PHI W 36 23 10 10 100.0 0 0 - 3 5 60.0 5 7 12 2 0 0 1 2 14
+p780
+aVJJ Hickson CLE 11/05/2010 CLE @ PHI W 31 16 5 12 41.7 0 0 - 6 6 100.0 3 5 8 0 1 0 2 0 11
+p781
+aVJamario Moon CLE 11/05/2010 CLE @ PHI W 25 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 2 0 0 0 1 3
+p782
+aVJawad Williams CLE 11/05/2010 CLE @ PHI W 17 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 1 0 0 1 3 -7
+p783
+aVMo Williams CLE 11/05/2010 CLE @ PHI W 30 22 6 15 40.0 0 5 0.0 10 12 83.3 0 3 3 7 3 0 3 3 13
+p784
+aVAnthony Parker CLE 11/05/2010 CLE @ PHI W 28 7 1 2 50.0 0 0 - 5 6 83.3 1 3 4 0 0 0 4 2 7
+p785
+aVJoey Graham CLE 11/05/2010 CLE @ PHI W 15 10 4 6 66.7 0 0 - 2 3 66.7 1 0 1 0 1 0 1 0 -5
+p786
+aVDaniel Gibson CLE 11/05/2010 CLE @ PHI W 28 20 6 9 66.7 2 4 50.0 6 9 66.7 1 4 5 4 1 0 2 2 12
+p787
+aVAnthony Parker CLE 11/02/2010 CLE vs. ATL L 32 10 4 10 40.0 2 3 66.7 0 0 - 1 2 3 2 0 0 0 2 -12
+p788
+aVJamario Moon CLE 11/02/2010 CLE vs. ATL L 34 6 3 5 60.0 0 2 0.0 0 0 - 1 6 7 2 0 2 0 3 2
+p789
+aVMo Williams CLE 11/02/2010 CLE vs. ATL L 24 12 4 12 33.3 2 6 33.3 2 2 100.0 1 1 2 2 0 1 1 3 -15
+p790
+aVDaniel Gibson CLE 11/02/2010 CLE vs. ATL L 24 6 3 10 30.0 0 5 0.0 0 1 0.0 0 7 7 2 1 0 2 5 -4
+p791
+aVJJ Hickson CLE 11/02/2010 CLE vs. ATL L 32 31 11 17 64.7 0 0 - 9 11 81.8 2 3 5 0 1 0 5 0 -6
+p792
+aVJawad Williams CLE 11/02/2010 CLE vs. ATL L 15 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 -15
+p793
+aVRyan Hollins CLE 11/02/2010 CLE vs. ATL L 14 8 2 2 100.0 0 0 - 4 4 100.0 1 0 1 1 0 0 1 4 -3
+p794
+aVAnderson Varejao CLE 11/02/2010 CLE vs. ATL L 34 2 1 6 16.7 0 0 - 0 0 - 2 10 12 3 0 0 2 3 -9
+p795
+aVLeon Powe CLE 11/02/2010 CLE vs. ATL L 8 1 0 1 0.0 0 0 - 1 4 25.0 0 3 3 0 0 1 0 0 0
+p796
+aVRamon Sessions CLE 11/02/2010 CLE vs. ATL L 22 7 2 9 22.2 0 0 - 3 4 75.0 2 1 3 3 0 0 2 1 2
+p797
+aVManny Harris CLE 10/30/2010 CLE vs. SAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p798
+aVRamon Sessions CLE 10/30/2010 CLE vs. SAC L 31 21 9 13 69.2 0 0 - 3 4 75.0 1 3 4 3 1 0 3 1 -4
+p799
+aVJJ Hickson CLE 10/30/2010 CLE vs. SAC L 28 15 4 11 36.4 0 0 - 7 9 77.8 3 2 5 4 0 0 1 3 -6
+p800
+aVAnthony Parker CLE 10/30/2010 CLE vs. SAC L 31 12 5 9 55.6 1 2 50.0 1 2 50.0 0 2 2 2 3 0 3 3 -6
+p801
+aVAnderson Varejao CLE 10/30/2010 CLE vs. SAC L 35 8 3 6 50.0 0 1 0.0 2 6 33.3 3 6 9 0 0 1 2 5 -9
+p802
+aVRyan Hollins CLE 10/30/2010 CLE vs. SAC L 13 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 0 1 0 1 6
+p803
+aVAntawn Jamison CLE 10/30/2010 CLE vs. SAC L 18 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 2 1 0 1 2 -1
+p804
+aVDaniel Gibson CLE 10/30/2010 CLE vs. SAC L 31 20 8 16 50.0 3 6 50.0 1 1 100.0 0 2 2 7 2 0 2 1 5
+p805
+aVJawad Williams CLE 10/30/2010 CLE vs. SAC L 18 13 4 6 66.7 2 3 66.7 3 4 75.0 1 2 3 0 1 0 0 0 0
+p806
+aVJamario Moon CLE 10/30/2010 CLE vs. SAC L 32 7 3 7 42.9 0 3 0.0 1 1 100.0 1 3 4 4 0 0 1 2 1
+p807
+aVJJ Hickson CLE 10/29/2010 CLE @ TOR L 19 6 3 8 37.5 0 0 - 0 0 - 1 5 6 0 0 0 4 4 -20
+p808
+aVRyan Hollins CLE 10/29/2010 CLE @ TOR L 24 7 2 3 66.7 0 0 - 3 4 75.0 3 2 5 0 2 1 1 3 -14
+p809
+aVLeon Powe CLE 10/29/2010 CLE @ TOR L 17 8 4 8 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -5
+p810
+aVJawad Williams CLE 10/29/2010 CLE @ TOR L 20 7 3 10 30.0 1 3 33.3 0 0 - 1 0 1 1 1 0 3 1 0
+p811
+aVManny Harris CLE 10/29/2010 CLE @ TOR L 12 8 3 4 75.0 2 2 100.0 0 0 - 0 2 2 1 1 0 2 0 2
+p812
+aVAntawn Jamison CLE 10/29/2010 CLE @ TOR L 25 13 4 9 44.4 3 5 60.0 2 2 100.0 1 1 2 2 1 1 2 1 -3
+p813
+aVJoey Graham CLE 10/29/2010 CLE @ TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 3
+p814
+aVSamardo Samuels CLE 10/29/2010 CLE @ TOR L 7 7 3 5 60.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -1
+p815
+aVJamario Moon CLE 10/29/2010 CLE @ TOR L 28 2 1 5 20.0 0 3 0.0 0 0 - 1 5 6 0 0 0 0 1 -20
+p816
+aVRamon Sessions CLE 10/29/2010 CLE @ TOR L 24 4 1 10 10.0 0 0 - 2 3 66.7 0 1 1 4 1 0 5 1 -12
+p817
+aVDaniel Gibson CLE 10/29/2010 CLE @ TOR L 31 9 4 10 40.0 1 3 33.3 0 0 - 0 2 2 3 1 0 0 1 -11
+p818
+aVAnthony Parker CLE 10/29/2010 CLE @ TOR L 29 10 4 11 36.4 2 3 66.7 0 0 - 0 4 4 3 2 0 1 3 -19
+p819
+aVJJ Hickson CLE 10/27/2010 CLE vs. BOS W 30 21 8 11 72.7 0 0 - 5 6 83.3 1 5 6 1 0 1 1 4 6
+p820
+aVAnthony Parker CLE 10/27/2010 CLE vs. BOS W 35 10 4 12 33.3 2 4 50.0 0 2 0.0 0 2 2 6 0 0 2 1 2
+p821
+aVAnderson Varejao CLE 10/27/2010 CLE vs. BOS W 32 8 3 4 75.0 0 1 0.0 2 2 100.0 1 9 10 4 1 1 1 1 7
+p822
+aVDaniel Gibson CLE 10/27/2010 CLE vs. BOS W 27 16 4 14 28.6 2 8 25.0 6 6 100.0 0 4 4 8 0 1 2 3 11
+p823
+aVRyan Hollins CLE 10/27/2010 CLE vs. BOS W 16 10 4 6 66.7 0 0 - 2 2 100.0 3 1 4 1 1 0 1 3 1
+p824
+aVRamon Sessions CLE 10/27/2010 CLE vs. BOS W 35 14 6 15 40.0 0 0 - 2 3 66.7 1 1 2 3 2 0 4 3 6
+p825
+aVAntawn Jamison CLE 10/27/2010 CLE vs. BOS W 21 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 1 0
+p826
+aVJawad Williams CLE 10/27/2010 CLE vs. BOS W 15 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 3 4
+p827
+aVJamario Moon CLE 10/27/2010 CLE vs. BOS W 29 10 4 8 50.0 2 5 40.0 0 0 - 1 4 5 1 1 1 1 1 3
+p828
+a.

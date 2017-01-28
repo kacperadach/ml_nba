@@ -1,0 +1,66 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBimbo Coles MIA 04/29/1992 MIA vs. CHI L 16 9 2 2 100.0 0 0 - 5 7 71.4 0 2 2 1 1 0 2 1 -
+p2
+aVGlen Rice MIA 04/29/1992 MIA vs. CHI L 42 25 10 26 38.5 1 6 16.7 4 5 80.0 3 3 6 1 0 0 1 2 -
+p3
+aVBrian Shaw MIA 04/29/1992 MIA vs. CHI L 37 19 7 12 58.3 2 3 66.7 3 4 75.0 0 6 6 6 1 0 2 3 -
+p4
+aVKeith Askins MIA 04/29/1992 MIA vs. CHI L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -
+p5
+aVSteven Smith MIA 04/29/1992 MIA vs. CHI L 32 18 7 11 63.6 4 4 100.0 0 1 0.0 2 3 5 6 1 0 1 1 -
+p6
+aVKevin Edwards MIA 04/29/1992 MIA vs. CHI L 12 4 1 1 100.0 0 0 - 2 4 50.0 0 2 2 1 0 0 2 0 -
+p7
+aVRony Seikaly MIA 04/29/1992 MIA vs. CHI L 46 22 4 9 44.4 0 0 - 14 16 87.5 3 9 12 1 0 5 3 5 -
+p8
+aVAlan Ogg MIA 04/29/1992 MIA vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -
+p9
+aVGrant Long MIA 04/29/1992 MIA vs. CHI L 44 17 7 15 46.7 0 2 0.0 3 6 50.0 2 0 2 3 2 0 1 5 -
+p10
+aVKevin Edwards MIA 04/26/1992 MIA @ CHI L 26 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 3 2 0 2 3 -
+p11
+aVBrian Shaw MIA 04/26/1992 MIA @ CHI L 20 2 1 5 20.0 0 0 - 0 0 - 1 1 2 5 1 0 2 5 -
+p12
+aVAlec Kessler MIA 04/26/1992 MIA @ CHI L 7 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -
+p13
+aVRony Seikaly MIA 04/26/1992 MIA @ CHI L 38 26 9 15 60.0 0 0 - 8 10 80.0 3 4 7 2 1 0 5 4 -
+p14
+aVSteven Smith MIA 04/26/1992 MIA @ CHI L 32 11 4 9 44.4 1 2 50.0 2 2 100.0 0 0 0 2 0 1 2 1 -
+p15
+aVBimbo Coles MIA 04/26/1992 MIA @ CHI L 18 8 3 6 50.0 1 1 100.0 1 1 100.0 1 3 4 4 0 0 2 2 -
+p16
+aVGrant Long MIA 04/26/1992 MIA @ CHI L 31 10 3 9 33.3 0 1 0.0 4 4 100.0 1 3 4 1 2 0 1 5 -
+p17
+aVGlen Rice MIA 04/26/1992 MIA @ CHI L 38 15 7 18 38.9 1 5 20.0 0 0 - 0 3 3 3 1 0 3 1 -
+p18
+aVAlan Ogg MIA 04/26/1992 MIA @ CHI L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 2 0 1 -
+p19
+aVKeith Askins MIA 04/26/1992 MIA @ CHI L 25 5 2 6 33.3 1 2 50.0 0 2 0.0 3 2 5 1 1 0 1 3 -
+p20
+aVGrant Long MIA 04/24/1992 MIA @ CHI L 45 10 5 12 41.7 0 1 0.0 0 0 - 4 5 9 4 1 0 3 1 -
+p21
+aVAlec Kessler MIA 04/24/1992 MIA @ CHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p22
+aVBrian Shaw MIA 04/24/1992 MIA @ CHI L 28 15 6 13 46.2 1 2 50.0 2 4 50.0 1 4 5 1 0 0 3 5 -
+p23
+aVKevin Edwards MIA 04/24/1992 MIA @ CHI L 17 3 1 6 16.7 0 0 - 1 2 50.0 1 1 2 3 0 0 1 0 -
+p24
+aVSteven Smith MIA 04/24/1992 MIA @ CHI L 36 19 7 14 50.0 2 5 40.0 3 3 100.0 1 0 1 7 3 0 0 0 -
+p25
+aVJohn Morton MIA 04/24/1992 MIA @ CHI L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -
+p26
+aVAlan Ogg MIA 04/24/1992 MIA @ CHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p27
+aVBimbo Coles MIA 04/24/1992 MIA @ CHI L 11 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 1 2 0 1 2 -
+p28
+aVJon Sundvold MIA 04/24/1992 MIA @ CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p29
+aVGlen Rice MIA 04/24/1992 MIA @ CHI L 39 17 7 20 35.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 2 4 -
+p30
+aVKeith Askins MIA 04/24/1992 MIA @ CHI L 14 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 3 -
+p31
+aVRony Seikaly MIA 04/24/1992 MIA @ CHI L 33 14 6 11 54.5 0 0 - 2 6 33.3 5 6 11 1 0 0 1 6 -
+p32
+a.

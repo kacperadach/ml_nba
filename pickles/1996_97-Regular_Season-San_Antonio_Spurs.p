@@ -1,0 +1,1578 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCory Alexander SAS 04/20/1997 SAS vs. HOU L 32 12 3 11 27.3 0 8 0.0 6 6 100.0 0 3 3 7 1 1 2 1 2
+p2
+aVCarl Herrera SAS 04/20/1997 SAS vs. HOU L 40 19 8 20 40.0 0 0 - 3 9 33.3 5 9 14 1 1 1 0 6 -9
+p3
+aVWill Perdue SAS 04/20/1997 SAS vs. HOU L 26 16 6 11 54.5 0 0 - 4 4 100.0 6 3 9 1 0 2 1 4 9
+p4
+aVGreg Anderson SAS 04/20/1997 SAS vs. HOU L 24 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 2 0 1 4 -12
+p5
+aVAvery Johnson SAS 04/20/1997 SAS vs. HOU L 23 17 8 13 61.5 0 1 0.0 1 2 50.0 1 3 4 4 0 0 0 1 -6
+p6
+aVJamie Feick SAS 04/20/1997 SAS vs. HOU L 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 1 0 0 6
+p7
+aVVernon Maxwell SAS 04/20/1997 SAS vs. HOU L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 1 1 8
+p8
+aVVinny Del Negro SAS 04/20/1997 SAS vs. HOU L 42 11 5 12 41.7 0 0 - 1 2 50.0 1 5 6 3 0 0 1 4 -10
+p9
+aVDominique Wilkins SAS 04/20/1997 SAS vs. HOU L 35 18 7 13 53.8 1 4 25.0 3 4 75.0 2 2 4 2 0 0 2 0 -8
+p10
+aVCory Alexander SAS 04/18/1997 SAS vs. PHX L 28 14 5 14 35.7 4 9 44.4 0 0 - 0 1 1 2 4 1 3 4 -7
+p11
+aVCarl Herrera SAS 04/18/1997 SAS vs. PHX L 26 8 4 12 33.3 0 0 - 0 0 - 0 6 6 0 1 0 1 1 -16
+p12
+aVAvery Johnson SAS 04/18/1997 SAS vs. PHX L 20 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -4
+p13
+aVDominique Wilkins SAS 04/18/1997 SAS vs. PHX L 29 12 4 12 33.3 0 0 - 4 4 100.0 5 2 7 6 0 0 1 0 -11
+p14
+aVGreg Anderson SAS 04/18/1997 SAS vs. PHX L 15 8 4 6 66.7 0 0 - 0 0 - 4 3 7 0 0 0 2 3 2
+p15
+aVWill Perdue SAS 04/18/1997 SAS vs. PHX L 34 16 6 13 46.2 0 0 - 4 4 100.0 7 5 12 1 0 1 2 3 -13
+p16
+aVJamie Feick SAS 04/18/1997 SAS vs. PHX L 26 12 5 9 55.6 1 2 50.0 1 2 50.0 2 8 10 0 1 0 1 4 -8
+p17
+aVVernon Maxwell SAS 04/18/1997 SAS vs. PHX L 28 7 3 12 25.0 1 5 20.0 0 0 - 1 2 3 5 1 0 0 3 -3
+p18
+aVVinny Del Negro SAS 04/18/1997 SAS vs. PHX L 36 12 6 14 42.9 0 1 0.0 0 0 - 1 4 5 2 1 0 1 0 5
+p19
+aVCarl Herrera SAS 04/15/1997 SAS @ SEA L 31 14 6 8 75.0 0 0 - 2 2 100.0 1 6 7 1 1 1 2 3 5
+p20
+aVJamie Feick SAS 04/15/1997 SAS @ SEA L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 4 -18
+p21
+aVWill Perdue SAS 04/15/1997 SAS @ SEA L 34 13 5 9 55.6 0 0 - 3 5 60.0 2 6 8 1 0 2 2 3 -10
+p22
+aVCory Alexander SAS 04/15/1997 SAS @ SEA L 28 9 3 9 33.3 2 7 28.6 1 2 50.0 0 0 0 10 1 0 3 4 -8
+p23
+aVGreg Anderson SAS 04/15/1997 SAS @ SEA L 31 12 5 6 83.3 0 0 - 2 4 50.0 2 4 6 3 0 0 0 4 -9
+p24
+aVCharles Smith SAS 04/15/1997 SAS @ SEA L 7 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 2 0 -7
+p25
+aVAvery Johnson SAS 04/15/1997 SAS @ SEA L 34 17 8 10 80.0 1 2 50.0 0 0 - 0 3 3 5 4 1 3 1 -24
+p26
+aVVinny Del Negro SAS 04/15/1997 SAS @ SEA L 39 8 3 11 27.3 0 3 0.0 2 2 100.0 0 1 1 4 2 0 3 1 -9
+p27
+aVVernon Maxwell SAS 04/15/1997 SAS @ SEA L 25 10 4 13 30.8 2 8 25.0 0 0 - 1 1 2 0 0 0 1 3 -20
+p28
+aVAvery Johnson SAS 04/14/1997 SAS @ SAC L 31 19 8 11 72.7 0 1 0.0 3 4 75.0 0 0 0 5 0 0 1 3 0
+p29
+aVCarl Herrera SAS 04/14/1997 SAS @ SAC L 26 17 6 13 46.2 0 0 - 5 6 83.3 3 3 6 0 0 0 3 3 -5
+p30
+aVVernon Maxwell SAS 04/14/1997 SAS @ SAC L 21 16 6 13 46.2 1 4 25.0 3 4 75.0 1 0 1 2 3 0 2 2 -9
+p31
+aVVinny Del Negro SAS 04/14/1997 SAS @ SAC L 37 29 11 18 61.1 4 6 66.7 3 3 100.0 1 2 3 1 1 0 1 1 1
+p32
+aVJamie Feick SAS 04/14/1997 SAS @ SAC L 13 2 0 4 0.0 0 0 - 2 6 33.3 2 2 4 1 0 0 0 1 -7
+p33
+aVGreg Anderson SAS 04/14/1997 SAS @ SAC L 32 4 2 9 22.2 0 0 - 0 0 - 6 6 12 1 3 0 2 1 -17
+p34
+aVCory Alexander SAS 04/14/1997 SAS @ SAC L 27 7 2 12 16.7 1 9 11.1 2 2 100.0 1 1 2 3 4 0 3 2 -12
+p35
+aVWill Perdue SAS 04/14/1997 SAS @ SAC L 29 8 3 12 25.0 0 0 - 2 4 50.0 12 6 18 0 0 0 2 2 -8
+p36
+aVCharles Smith SAS 04/14/1997 SAS @ SAC L 25 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 1 1 4 -13
+p37
+aVJamie Feick SAS 04/12/1997 SAS vs. SEA L 37 11 4 5 80.0 1 1 100.0 2 6 33.3 4 8 12 4 0 1 0 4 -6
+p38
+aVWill Perdue SAS 04/12/1997 SAS vs. SEA L 35 9 3 8 37.5 0 0 - 3 4 75.0 8 4 12 2 1 5 1 1 5
+p39
+aVVernon Maxwell SAS 04/12/1997 SAS vs. SEA L 32 17 7 18 38.9 3 9 33.3 0 0 - 1 1 2 3 0 1 3 5 6
+p40
+aVVinny Del Negro SAS 04/12/1997 SAS vs. SEA L 38 15 6 18 33.3 2 4 50.0 1 1 100.0 3 3 6 3 1 0 0 3 -13
+p41
+aVCarl Herrera SAS 04/12/1997 SAS vs. SEA L 11 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 4 1
+p42
+aVDominique Wilkins SAS 04/12/1997 SAS vs. SEA L 25 5 2 13 15.4 1 5 20.0 0 0 - 1 2 3 5 0 3 3 1 -5
+p43
+aVAvery Johnson SAS 04/12/1997 SAS vs. SEA L 22 17 7 9 77.8 0 1 0.0 3 4 75.0 1 6 7 2 0 0 2 4 -9
+p44
+aVGreg Anderson SAS 04/12/1997 SAS vs. SEA L 12 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 1 1 0 2 -7
+p45
+aVCory Alexander SAS 04/12/1997 SAS vs. SEA L 26 15 5 12 41.7 3 7 42.9 2 3 66.7 0 0 0 5 2 0 5 3 3
+p46
+aVCory Alexander SAS 04/10/1997 SAS vs. POR L 29 10 3 10 30.0 3 8 37.5 1 1 100.0 0 3 3 4 2 0 2 3 -12
+p47
+aVVernon Maxwell SAS 04/10/1997 SAS vs. POR L 17 4 1 7 14.3 0 3 0.0 2 3 66.7 0 1 1 1 0 1 3 0 -4
+p48
+aVDominique Wilkins SAS 04/10/1997 SAS vs. POR L 24 10 3 14 21.4 1 2 50.0 3 4 75.0 4 2 6 1 0 0 2 0 -10
+p49
+aVMonty Williams SAS 04/10/1997 SAS vs. POR L 9 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 1 3 0 -5
+p50
+aVCarl Herrera SAS 04/10/1997 SAS vs. POR L 12 4 2 4 50.0 0 0 - 0 0 - 3 0 3 1 0 0 2 0 3
+p51
+aVVinny Del Negro SAS 04/10/1997 SAS vs. POR L 31 7 3 8 37.5 0 2 0.0 1 1 100.0 0 1 1 1 1 0 0 1 -13
+p52
+aVCharles Smith SAS 04/10/1997 SAS vs. POR L 25 6 3 5 60.0 0 0 - 0 0 - 2 5 7 2 0 1 2 3 -16
+p53
+aVWill Perdue SAS 04/10/1997 SAS vs. POR L 31 13 5 9 55.6 0 0 - 3 6 50.0 6 7 13 2 0 2 1 3 -13
+p54
+aVGreg Anderson SAS 04/10/1997 SAS vs. POR L 17 5 2 5 40.0 0 0 - 1 2 50.0 0 5 5 1 0 2 1 0 -4
+p55
+aVAvery Johnson SAS 04/10/1997 SAS vs. POR L 19 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 4 0 0 1 1 -5
+p56
+aVJamie Feick SAS 04/10/1997 SAS vs. POR L 26 13 5 9 55.6 0 0 - 3 6 50.0 5 3 8 1 0 1 3 2 -6
+p57
+aVAvery Johnson SAS 04/08/1997 SAS vs. DEN W 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 4 1 0 1 1 1
+p58
+aVJamie Feick SAS 04/08/1997 SAS vs. DEN W 29 1 0 11 0.0 0 0 - 1 2 50.0 7 8 15 1 0 0 1 3 0
+p59
+aVCharles Smith SAS 04/08/1997 SAS vs. DEN W 19 6 2 5 40.0 0 0 - 2 4 50.0 1 5 6 1 0 2 0 2 6
+p60
+aVWill Perdue SAS 04/08/1997 SAS vs. DEN W 15 7 3 7 42.9 0 0 - 1 2 50.0 6 3 9 0 0 0 0 1 7
+p61
+aVGreg Anderson SAS 04/08/1997 SAS vs. DEN W 33 14 6 10 60.0 0 0 - 2 2 100.0 10 6 16 0 1 2 2 4 -1
+p62
+aVMonty Williams SAS 04/08/1997 SAS vs. DEN W 43 30 14 26 53.8 0 0 - 2 4 50.0 5 5 10 3 0 4 2 2 3
+p63
+aVCory Alexander SAS 04/08/1997 SAS vs. DEN W 34 15 7 19 36.8 1 5 20.0 0 0 - 1 5 6 9 4 0 2 3 5
+p64
+aVVernon Maxwell SAS 04/08/1997 SAS vs. DEN W 26 13 5 15 33.3 3 7 42.9 0 0 - 0 0 0 2 2 0 0 2 10
+p65
+aVVinny Del Negro SAS 04/08/1997 SAS vs. DEN W 26 10 5 13 38.5 0 0 - 0 0 - 2 2 4 2 2 0 0 1 -1
+p66
+aVVernon Maxwell SAS 04/07/1997 SAS @ UTA L 23 12 4 10 40.0 1 4 25.0 3 3 100.0 0 1 1 1 2 0 2 6 -12
+p67
+aVVinny Del Negro SAS 04/07/1997 SAS @ UTA L 32 7 3 9 33.3 0 2 0.0 1 1 100.0 0 3 3 5 0 0 2 2 -10
+p68
+aVAvery Johnson SAS 04/07/1997 SAS @ UTA L 13 10 5 8 62.5 0 0 - 0 1 0.0 1 0 1 1 0 0 1 3 -9
+p69
+aVMonty Williams SAS 04/07/1997 SAS @ UTA L 41 15 5 15 33.3 0 0 - 5 7 71.4 4 0 4 6 2 2 5 4 -24
+p70
+aVJamie Feick SAS 04/07/1997 SAS @ UTA L 27 15 4 7 57.1 0 0 - 7 11 63.6 2 8 10 0 1 1 1 4 -12
+p71
+aVWill Perdue SAS 04/07/1997 SAS @ UTA L 31 4 2 7 28.6 0 0 - 0 0 - 2 5 7 0 2 2 0 3 -14
+p72
+aVCory Alexander SAS 04/07/1997 SAS @ UTA L 35 24 7 13 53.8 5 9 55.6 5 6 83.3 1 1 2 5 0 0 4 3 -14
+p73
+aVCharles Smith SAS 04/07/1997 SAS @ UTA L 21 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 1 3 1 3 -11
+p74
+aVGreg Anderson SAS 04/07/1997 SAS @ UTA L 17 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 1 0 2 3 -9
+p75
+aVGreg Anderson SAS 04/05/1997 SAS @ GSW L 30 2 1 2 50.0 0 0 - 0 0 - 3 4 7 0 1 0 0 3 -21
+p76
+aVWill Perdue SAS 04/05/1997 SAS @ GSW L 19 4 2 2 100.0 0 0 - 0 0 - 0 6 6 1 1 1 1 1 6
+p77
+aVAvery Johnson SAS 04/05/1997 SAS @ GSW L 23 6 1 7 14.3 0 0 - 4 4 100.0 1 3 4 6 2 0 2 2 -21
+p78
+aVCory Alexander SAS 04/05/1997 SAS @ GSW L 25 9 3 6 50.0 1 3 33.3 2 3 66.7 0 1 1 10 0 0 3 1 4
+p79
+aVDominique Wilkins SAS 04/05/1997 SAS @ GSW L 25 25 10 15 66.7 1 3 33.3 4 4 100.0 3 2 5 2 0 0 2 1 -10
+p80
+aVCharles Smith SAS 04/05/1997 SAS @ GSW L 16 4 2 8 25.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -5
+p81
+aVVinny Del Negro SAS 04/05/1997 SAS @ GSW L 24 20 10 12 83.3 0 0 - 0 0 - 1 0 1 4 0 0 2 1 -19
+p82
+aVJamie Feick SAS 04/05/1997 SAS @ GSW L 22 2 1 4 25.0 0 1 0.0 0 2 0.0 1 3 4 1 1 0 0 2 -5
+p83
+aVMonty Williams SAS 04/05/1997 SAS @ GSW L 32 16 7 13 53.8 0 0 - 2 6 33.3 3 2 5 6 0 2 5 6 -16
+p84
+aVVernon Maxwell SAS 04/05/1997 SAS @ GSW L 24 15 7 15 46.7 1 3 33.3 0 0 - 0 0 0 2 0 0 3 4 2
+p85
+aVGreg Anderson SAS 04/04/1997 SAS @ LAL W 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 4 -7
+p86
+aVMonty Williams SAS 04/04/1997 SAS @ LAL W 29 18 6 11 54.5 0 0 - 6 6 100.0 1 2 3 3 2 1 4 4 -1
+p87
+aVCory Alexander SAS 04/04/1997 SAS @ LAL W 23 9 3 6 50.0 1 3 33.3 2 2 100.0 0 3 3 7 0 0 2 3 7
+p88
+aVWill Perdue SAS 04/04/1997 SAS @ LAL W 28 4 2 7 28.6 0 0 - 0 4 0.0 4 3 7 0 2 1 0 1 12
+p89
+aVDominique Wilkins SAS 04/04/1997 SAS @ LAL W 26 28 10 18 55.6 2 4 50.0 6 8 75.0 3 4 7 3 0 0 2 2 20
+p90
+aVAvery Johnson SAS 04/04/1997 SAS @ LAL W 25 12 5 6 83.3 0 0 - 2 2 100.0 0 1 1 4 1 0 0 3 4
+p91
+aVVernon Maxwell SAS 04/04/1997 SAS @ LAL W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 4
+p92
+aVVinny Del Negro SAS 04/04/1997 SAS @ LAL W 37 7 3 9 33.3 0 0 - 1 1 100.0 0 3 3 2 3 0 2 1 0
+p93
+aVCharles Smith SAS 04/04/1997 SAS @ LAL W 23 8 3 5 60.0 0 0 - 2 2 100.0 0 4 4 1 2 3 1 0 22
+p94
+aVCarl Herrera SAS 04/04/1997 SAS @ LAL W 26 4 2 8 25.0 0 0 - 0 0 - 1 4 5 1 1 1 3 4 -6
+p95
+aVCory Alexander SAS 04/02/1997 SAS vs. DET L 24 7 3 8 37.5 1 5 20.0 0 0 - 0 1 1 5 1 1 4 2 -11
+p96
+aVCharles Smith SAS 04/02/1997 SAS vs. DET L 13 1 0 4 0.0 0 0 - 1 2 50.0 1 2 3 0 0 2 0 0 -10
+p97
+aVVinny Del Negro SAS 04/02/1997 SAS vs. DET L 33 9 4 9 44.4 1 2 50.0 0 0 - 0 5 5 3 1 0 0 2 7
+p98
+aVGreg Anderson SAS 04/02/1997 SAS vs. DET L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -2
+p99
+aVCarl Herrera SAS 04/02/1997 SAS vs. DET L 41 22 10 16 62.5 0 0 - 2 2 100.0 3 5 8 3 1 0 2 1 -2
+p100
+aVMonty Williams SAS 04/02/1997 SAS vs. DET L 21 6 3 9 33.3 0 0 - 0 0 - 1 1 2 3 1 0 3 2 2
+p101
+aVAvery Johnson SAS 04/02/1997 SAS vs. DET L 24 9 4 9 44.4 0 0 - 1 1 100.0 1 1 2 6 0 0 1 1 4
+p102
+aVDominique Wilkins SAS 04/02/1997 SAS vs. DET L 28 19 8 14 57.1 0 1 0.0 3 4 75.0 4 1 5 4 0 0 2 4 -10
+p103
+aVVernon Maxwell SAS 04/02/1997 SAS vs. DET L 15 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 1 0 0 1 1 -14
+p104
+aVWill Perdue SAS 04/02/1997 SAS vs. DET L 35 14 7 12 58.3 0 0 - 0 1 0.0 8 8 16 1 1 0 0 4 1
+p105
+aVCarl Herrera SAS 03/29/1997 SAS vs. UTA L 21 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 1 3 6 -11
+p106
+aVCharles Smith SAS 03/29/1997 SAS vs. UTA L 17 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 2 1 1 5 5
+p107
+aVAvery Johnson SAS 03/29/1997 SAS vs. UTA L 19 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 4 3 0 2 2 -5
+p108
+aVVinny Del Negro SAS 03/29/1997 SAS vs. UTA L 23 11 4 9 44.4 1 3 33.3 2 2 100.0 0 1 1 3 0 0 1 1 -6
+p109
+aVJamie Feick SAS 03/29/1997 SAS vs. UTA L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 5 -7
+p110
+aVCory Alexander SAS 03/29/1997 SAS vs. UTA L 29 16 5 15 33.3 1 5 20.0 5 6 83.3 0 0 0 5 3 0 4 5 -8
+p111
+aVDominique Wilkins SAS 03/29/1997 SAS vs. UTA L 26 26 8 16 50.0 4 6 66.7 6 6 100.0 1 1 2 1 0 0 0 1 -6
+p112
+aVWill Perdue SAS 03/29/1997 SAS vs. UTA L 37 6 2 5 40.0 0 0 - 2 2 100.0 4 7 11 1 1 0 1 5 -8
+p113
+aVGreg Anderson SAS 03/29/1997 SAS vs. UTA L 11 8 3 6 50.0 0 0 - 2 2 100.0 4 0 4 0 0 0 0 5 -5
+p114
+aVMonty Williams SAS 03/29/1997 SAS vs. UTA L 22 13 5 9 55.6 0 0 - 3 4 75.0 2 2 4 0 0 0 3 3 -7
+p115
+aVVernon Maxwell SAS 03/29/1997 SAS vs. UTA L 25 9 3 10 30.0 1 6 16.7 2 2 100.0 0 0 0 0 2 1 1 2 -7
+p116
+aVAvery Johnson SAS 03/27/1997 SAS vs. ORL W 20 2 1 3 33.3 0 0 - 0 0 - 1 2 3 9 1 0 2 1 9
+p117
+aVWill Perdue SAS 03/27/1997 SAS vs. ORL W 20 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 0 1 0 1 4 -5
+p118
+aVCarl Herrera SAS 03/27/1997 SAS vs. ORL W 30 10 3 10 30.0 0 0 - 4 4 100.0 0 7 7 0 0 1 0 4 8
+p119
+aVGreg Anderson SAS 03/27/1997 SAS vs. ORL W 18 8 4 7 57.1 0 0 - 0 0 - 2 3 5 0 2 1 0 3 13
+p120
+aVVernon Maxwell SAS 03/27/1997 SAS vs. ORL W 26 17 6 13 46.2 3 5 60.0 2 4 50.0 2 1 3 2 2 0 2 0 -3
+p121
+aVCharles Smith SAS 03/27/1997 SAS vs. ORL W 14 7 2 3 66.7 0 0 - 3 4 75.0 0 2 2 1 1 0 0 1 0
+p122
+aVMonty Williams SAS 03/27/1997 SAS vs. ORL W 31 20 10 13 76.9 0 0 - 0 2 0.0 3 3 6 5 1 1 1 3 16
+p123
+aVJamie Feick SAS 03/27/1997 SAS vs. ORL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p124
+aVCory Alexander SAS 03/27/1997 SAS vs. ORL W 28 4 1 5 20.0 1 5 20.0 1 2 50.0 0 1 1 6 1 1 3 2 -5
+p125
+aVVinny Del Negro SAS 03/27/1997 SAS vs. ORL W 22 12 6 10 60.0 0 0 - 0 0 - 0 3 3 2 0 0 1 0 7
+p126
+aVDominique Wilkins SAS 03/27/1997 SAS vs. ORL W 25 13 5 11 45.5 1 2 50.0 2 2 100.0 2 4 6 1 0 1 3 0 -17
+p127
+aVCharles Smith SAS 03/25/1997 SAS vs. CLE W 14 4 2 5 40.0 0 1 0.0 0 0 - 3 1 4 2 0 1 2 3 3
+p128
+aVMonty Williams SAS 03/25/1997 SAS vs. CLE W 27 9 4 6 66.7 0 0 - 1 4 25.0 0 1 1 4 2 1 2 0 6
+p129
+aVWill Perdue SAS 03/25/1997 SAS vs. CLE W 26 5 2 7 28.6 0 0 - 1 2 50.0 6 8 14 0 0 2 1 1 5
+p130
+aVCarl Herrera SAS 03/25/1997 SAS vs. CLE W 34 6 3 9 33.3 0 0 - 0 0 - 1 6 7 1 0 0 1 3 0
+p131
+aVGreg Anderson SAS 03/25/1997 SAS vs. CLE W 22 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 1 2 0 2 0
+p132
+aVJamie Feick SAS 03/25/1997 SAS vs. CLE W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p133
+aVDominique Wilkins SAS 03/25/1997 SAS vs. CLE W 21 4 2 9 22.2 0 1 0.0 0 2 0.0 5 3 8 1 0 0 4 1 -1
+p134
+aVVinny Del Negro SAS 03/25/1997 SAS vs. CLE W 27 8 4 9 44.4 0 0 - 0 0 - 0 4 4 1 0 0 0 2 12
+p135
+aVVernon Maxwell SAS 03/25/1997 SAS vs. CLE W 21 10 3 10 30.0 2 6 33.3 2 2 100.0 1 2 3 0 0 0 2 2 -5
+p136
+aVCory Alexander SAS 03/25/1997 SAS vs. CLE W 34 4 0 4 0.0 0 3 0.0 4 4 100.0 0 3 3 4 1 2 2 0 -5
+p137
+aVAvery Johnson SAS 03/25/1997 SAS vs. CLE W 14 10 3 3 100.0 0 0 - 4 4 100.0 0 1 1 3 0 0 0 0 10
+p138
+aVDominique Wilkins SAS 03/23/1997 SAS @ LAC L 24 9 3 9 33.3 2 5 40.0 1 2 50.0 1 1 2 3 0 0 1 1 -23
+p139
+aVMonty Williams SAS 03/23/1997 SAS @ LAC L 23 17 8 14 57.1 0 0 - 1 2 50.0 1 1 2 2 1 1 1 2 14
+p140
+aVJamie Feick SAS 03/23/1997 SAS @ LAC L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -8
+p141
+aVVinny Del Negro SAS 03/23/1997 SAS @ LAC L 33 17 8 14 57.1 1 1 100.0 0 0 - 0 3 3 0 1 0 2 1 -6
+p142
+aVGreg Anderson SAS 03/23/1997 SAS @ LAC L 21 2 1 3 33.3 0 0 - 0 0 - 4 5 9 1 1 1 1 4 3
+p143
+aVCharles Smith SAS 03/23/1997 SAS @ LAC L 13 4 0 1 0.0 0 0 - 4 4 100.0 1 1 2 0 2 0 0 3 2
+p144
+aVWill Perdue SAS 03/23/1997 SAS @ LAC L 27 8 4 4 100.0 0 0 - 0 0 - 3 9 12 0 0 0 1 4 -18
+p145
+aVCarl Herrera SAS 03/23/1997 SAS @ LAC L 28 12 6 9 66.7 0 0 - 0 0 - 3 2 5 0 1 0 2 3 -9
+p146
+aVVernon Maxwell SAS 03/23/1997 SAS @ LAC L 23 6 1 8 12.5 0 3 0.0 4 4 100.0 0 0 0 2 0 0 3 4 -12
+p147
+aVCory Alexander SAS 03/23/1997 SAS @ LAC L 41 16 5 18 27.8 2 10 20.0 4 4 100.0 0 2 2 10 3 0 7 4 -18
+p148
+aVVernon Maxwell SAS 03/21/1997 SAS @ SAC L 36 16 6 15 40.0 3 6 50.0 1 2 50.0 0 3 3 2 2 0 2 3 -3
+p149
+aVCarl Herrera SAS 03/21/1997 SAS @ SAC L 24 4 2 6 33.3 0 0 - 0 0 - 0 5 5 0 0 0 0 5 -6
+p150
+aVVinny Del Negro SAS 03/21/1997 SAS @ SAC L 45 25 9 16 56.3 3 4 75.0 4 4 100.0 0 3 3 2 1 0 1 2 -8
+p151
+aVGreg Anderson SAS 03/21/1997 SAS @ SAC L 22 6 1 2 50.0 0 0 - 4 4 100.0 2 0 2 1 0 0 1 2 1
+p152
+aVCory Alexander SAS 03/21/1997 SAS @ SAC L 49 16 6 13 46.2 2 5 40.0 2 4 50.0 1 3 4 11 2 0 2 5 -11
+p153
+aVDominique Wilkins SAS 03/21/1997 SAS @ SAC L 41 31 10 23 43.5 1 4 25.0 10 11 90.9 1 2 3 1 1 1 3 2 2
+p154
+aVJamie Feick SAS 03/21/1997 SAS @ SAC L 18 2 1 3 33.3 0 0 - 0 0 - 1 6 7 0 2 0 3 3 11
+p155
+aVWill Perdue SAS 03/21/1997 SAS @ SAC L 31 10 5 7 71.4 0 0 - 0 1 0.0 3 4 7 2 0 1 1 1 -6
+p156
+aVVernon Maxwell SAS 03/20/1997 SAS @ PHX L 29 26 11 20 55.0 2 6 33.3 2 2 100.0 0 3 3 2 2 0 0 1 7
+p157
+aVDominique Wilkins SAS 03/20/1997 SAS @ PHX L 31 12 5 13 38.5 0 3 0.0 2 2 100.0 3 0 3 4 1 0 1 2 -9
+p158
+aVGreg Anderson SAS 03/20/1997 SAS @ PHX L 23 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 1 2 1 2 -14
+p159
+aVCharles Smith SAS 03/20/1997 SAS @ PHX L 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 1 2 1 0 6
+p160
+aVCarl Herrera SAS 03/20/1997 SAS @ PHX L 29 17 8 13 61.5 0 0 - 1 2 50.0 0 3 3 6 0 1 2 3 -4
+p161
+aVWill Perdue SAS 03/20/1997 SAS @ PHX L 27 4 2 2 100.0 0 0 - 0 1 0.0 0 14 14 1 0 0 0 3 4
+p162
+aVCory Alexander SAS 03/20/1997 SAS @ PHX L 47 26 9 15 60.0 5 8 62.5 3 3 100.0 1 4 5 6 0 1 3 5 -8
+p163
+aVJamie Feick SAS 03/20/1997 SAS @ PHX L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -3
+p164
+aVVinny Del Negro SAS 03/20/1997 SAS @ PHX L 37 13 5 13 38.5 1 1 100.0 2 2 100.0 2 1 3 6 0 0 1 4 -14
+p165
+aVWill Perdue SAS 03/17/1997 SAS vs. WAS L 30 11 5 7 71.4 0 0 - 1 2 50.0 2 5 7 0 2 2 3 3 -6
+p166
+aVCory Alexander SAS 03/17/1997 SAS vs. WAS L 48 24 9 17 52.9 6 9 66.7 0 0 - 0 3 3 10 4 0 4 1 -24
+p167
+aVMonty Williams SAS 03/17/1997 SAS vs. WAS L 25 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 4 1 0 7 4 -24
+p168
+aVVernon Maxwell SAS 03/17/1997 SAS vs. WAS L 31 13 3 13 23.1 2 7 28.6 5 6 83.3 0 1 1 6 4 0 2 1 -5
+p169
+aVGreg Anderson SAS 03/17/1997 SAS vs. WAS L 19 8 3 3 100.0 0 0 - 2 2 100.0 4 0 4 1 1 3 0 3 -17
+p170
+aVCharles Smith SAS 03/17/1997 SAS vs. WAS L 11 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 1 1 2 0 -4
+p171
+aVJamie Feick SAS 03/17/1997 SAS vs. WAS L 20 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 0 0 1 1 -13
+p172
+aVDominique Wilkins SAS 03/17/1997 SAS vs. WAS L 34 9 4 17 23.5 0 2 0.0 1 1 100.0 0 2 2 1 1 0 4 2 -19
+p173
+aVCarl Herrera SAS 03/17/1997 SAS vs. WAS L 23 8 4 8 50.0 0 1 0.0 0 1 0.0 1 4 5 1 0 2 1 4 -8
+p174
+aVGreg Anderson SAS 03/15/1997 SAS @ DEN L 32 11 3 6 50.0 0 0 - 5 6 83.3 3 6 9 1 1 0 0 3 -2
+p175
+aVMonty Williams SAS 03/15/1997 SAS @ DEN L 24 19 7 12 58.3 0 0 - 5 7 71.4 2 0 2 2 0 0 1 1 -8
+p176
+aVCarl Herrera SAS 03/15/1997 SAS @ DEN L 28 10 5 12 41.7 0 0 - 0 0 - 1 3 4 0 1 2 0 5 -16
+p177
+aVWill Perdue SAS 03/15/1997 SAS @ DEN L 23 6 3 9 33.3 0 0 - 0 0 - 4 4 8 0 1 1 1 4 -13
+p178
+aVCory Alexander SAS 03/15/1997 SAS @ DEN L 48 18 8 14 57.1 2 7 28.6 0 0 - 1 3 4 9 1 0 1 2 -16
+p179
+aVVinny Del Negro SAS 03/15/1997 SAS @ DEN L 36 18 9 13 69.2 0 0 - 0 0 - 0 0 0 3 0 0 4 0 -17
+p180
+aVJamie Feick SAS 03/15/1997 SAS @ DEN L 12 3 1 4 25.0 0 0 - 1 2 50.0 4 3 7 0 0 0 0 1 5
+p181
+aVCharles Smith SAS 03/15/1997 SAS @ DEN L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p182
+aVDominique Wilkins SAS 03/15/1997 SAS @ DEN L 31 20 6 16 37.5 0 0 - 8 8 100.0 1 2 3 4 0 0 1 1 -5
+p183
+aVJamie Feick SAS 03/14/1997 SAS vs. BOS W 13 2 1 6 16.7 0 1 0.0 0 0 - 4 3 7 0 0 0 2 1 -15
+p184
+aVDominique Wilkins SAS 03/14/1997 SAS vs. BOS W 31 22 8 18 44.4 0 2 0.0 6 6 100.0 4 4 8 1 1 0 2 1 18
+p185
+aVCory Alexander SAS 03/14/1997 SAS vs. BOS W 47 22 7 16 43.8 5 9 55.6 3 4 75.0 0 7 7 10 2 0 4 4 9
+p186
+aVWill Perdue SAS 03/14/1997 SAS vs. BOS W 22 6 3 5 60.0 0 0 - 0 2 0.0 5 4 9 0 0 5 1 2 13
+p187
+aVCarl Herrera SAS 03/14/1997 SAS vs. BOS W 30 10 3 7 42.9 0 0 - 4 4 100.0 3 6 9 2 0 1 1 5 15
+p188
+aVGreg Anderson SAS 03/14/1997 SAS vs. BOS W 18 6 3 5 60.0 0 0 - 0 0 - 3 5 8 0 0 1 2 2 -5
+p189
+aVMonty Williams SAS 03/14/1997 SAS vs. BOS W 32 20 5 10 50.0 0 0 - 10 10 100.0 1 2 3 3 2 1 1 2 11
+p190
+aVVinny Del Negro SAS 03/14/1997 SAS vs. BOS W 47 15 7 16 43.8 0 2 0.0 1 2 50.0 1 2 3 2 1 0 4 3 9
+p191
+aVCarl Herrera SAS 03/11/1997 SAS vs. HOU L 29 4 2 8 25.0 0 0 - 0 0 - 2 4 6 1 0 0 6 1 -25
+p192
+aVWill Perdue SAS 03/11/1997 SAS vs. HOU L 20 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 0 3 -4
+p193
+aVCory Alexander SAS 03/11/1997 SAS vs. HOU L 21 6 3 10 30.0 0 5 0.0 0 0 - 0 1 1 3 1 1 0 5 -10
+p194
+aVJoe Courtney SAS 03/11/1997 SAS vs. HOU L 4 2 1 2 50.0 0 0 - 0 2 0.0 3 0 3 0 0 0 0 0 -3
+p195
+aVDominique Wilkins SAS 03/11/1997 SAS vs. HOU L 25 13 4 10 40.0 0 2 0.0 5 6 83.3 4 0 4 1 0 1 2 0 -13
+p196
+aVJamie Feick SAS 03/11/1997 SAS vs. HOU L 19 0 0 4 0.0 0 0 - 0 2 0.0 2 5 7 1 0 2 1 2 -1
+p197
+aVGreg Anderson SAS 03/11/1997 SAS vs. HOU L 23 8 4 6 66.7 0 0 - 0 1 0.0 2 3 5 0 2 0 1 3 -13
+p198
+aVAvery Johnson SAS 03/11/1997 SAS vs. HOU L 27 11 4 11 36.4 0 1 0.0 3 5 60.0 1 1 2 2 1 0 0 2 -14
+p199
+aVVinny Del Negro SAS 03/11/1997 SAS vs. HOU L 36 12 6 13 46.2 0 1 0.0 0 2 0.0 0 4 4 5 2 0 1 0 -26
+p200
+aVMonty Williams SAS 03/11/1997 SAS vs. HOU L 36 19 9 13 69.2 0 0 - 1 2 50.0 1 5 6 3 3 2 4 2 -11
+p201
+aVJoe Courtney SAS 03/08/1997 SAS @ IND W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p202
+aVCory Alexander SAS 03/08/1997 SAS @ IND W 17 3 1 6 16.7 1 1 100.0 0 0 - 1 1 2 2 1 0 0 0 -3
+p203
+aVVernon Maxwell SAS 03/08/1997 SAS @ IND W 39 10 3 15 20.0 0 4 0.0 4 5 80.0 1 1 2 3 4 0 3 4 8
+p204
+aVCarl Herrera SAS 03/08/1997 SAS @ IND W 35 21 8 12 66.7 0 0 - 5 5 100.0 0 3 3 2 1 2 1 4 1
+p205
+aVVinny Del Negro SAS 03/08/1997 SAS @ IND W 46 22 8 16 50.0 0 2 0.0 6 6 100.0 0 5 5 4 0 2 2 1 -1
+p206
+aVGreg Anderson SAS 03/08/1997 SAS @ IND W 35 14 4 8 50.0 0 0 - 6 8 75.0 3 8 11 0 1 2 1 6 1
+p207
+aVAvery Johnson SAS 03/08/1997 SAS @ IND W 42 26 10 15 66.7 0 0 - 6 8 75.0 0 2 2 9 1 0 1 4 10
+p208
+aVJamie Feick SAS 03/08/1997 SAS @ IND W 23 6 2 3 66.7 0 0 - 2 2 100.0 3 5 8 0 0 0 1 3 -1
+p209
+aVJamie Feick SAS 03/07/1997 SAS @ TOR W 20 6 3 5 60.0 0 1 0.0 0 0 - 2 5 7 0 0 0 0 1 13
+p210
+aVCory Alexander SAS 03/07/1997 SAS @ TOR W 23 18 6 8 75.0 3 4 75.0 3 3 100.0 0 0 0 5 0 1 1 3 6
+p211
+aVVernon Maxwell SAS 03/07/1997 SAS @ TOR W 41 34 9 20 45.0 3 7 42.9 13 13 100.0 1 2 3 7 1 1 1 3 3
+p212
+aVGreg Anderson SAS 03/07/1997 SAS @ TOR W 41 14 6 7 85.7 0 0 - 2 4 50.0 3 7 10 0 2 3 1 4 -1
+p213
+aVVinny Del Negro SAS 03/07/1997 SAS @ TOR W 39 17 6 13 46.2 1 3 33.3 4 6 66.7 1 2 3 5 1 1 4 2 -5
+p214
+aVJoe Courtney SAS 03/07/1997 SAS @ TOR W 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p215
+aVAvery Johnson SAS 03/07/1997 SAS @ TOR W 25 4 2 7 28.6 0 0 - 0 1 0.0 1 1 2 6 1 0 2 3 -3
+p216
+aVCarl Herrera SAS 03/07/1997 SAS @ TOR W 36 11 4 11 36.4 0 0 - 3 4 75.0 2 6 8 0 1 2 3 2 -3
+p217
+aVCarl Herrera SAS 03/05/1997 SAS @ CHI L 24 4 1 11 9.1 0 0 - 2 2 100.0 2 4 6 0 0 1 0 2 -26
+p218
+aVVinny Del Negro SAS 03/05/1997 SAS @ CHI L 23 9 4 8 50.0 1 1 100.0 0 0 - 1 4 5 2 0 0 1 3 -23
+p219
+aVVernon Maxwell SAS 03/05/1997 SAS @ CHI L 31 7 2 10 20.0 0 3 0.0 3 4 75.0 1 1 2 3 0 0 5 2 -23
+p220
+aVAvery Johnson SAS 03/05/1997 SAS @ CHI L 23 4 2 8 25.0 0 0 - 0 1 0.0 0 2 2 3 0 1 1 1 -25
+p221
+aVWill Perdue SAS 03/05/1997 SAS @ CHI L 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p222
+aVJamie Feick SAS 03/05/1997 SAS @ CHI L 29 11 5 10 50.0 0 0 - 1 2 50.0 9 6 15 2 3 1 3 1 -22
+p223
+aVMonty Williams SAS 03/05/1997 SAS @ CHI L 41 19 7 15 46.7 0 0 - 5 7 71.4 1 3 4 1 2 3 6 2 -35
+p224
+aVGreg Anderson SAS 03/05/1997 SAS @ CHI L 21 0 0 3 0.0 0 0 - 0 0 - 2 6 8 0 1 0 0 3 -21
+p225
+aVJoe Courtney SAS 03/05/1997 SAS @ CHI L 16 7 2 7 28.6 0 0 - 3 3 100.0 1 1 2 0 0 0 2 2 -13
+p226
+aVCory Alexander SAS 03/05/1997 SAS @ CHI L 25 6 2 9 22.2 1 3 33.3 1 1 100.0 2 1 3 4 3 0 3 4 -17
+p227
+aVWill Perdue SAS 03/04/1997 SAS @ CHH L 27 12 6 10 60.0 0 0 - 0 0 - 5 2 7 1 0 0 0 3 -8
+p228
+aVCory Alexander SAS 03/04/1997 SAS @ CHH L 21 13 4 8 50.0 2 3 66.7 3 4 75.0 1 2 3 3 0 0 1 4 0
+p229
+aVVinny Del Negro SAS 03/04/1997 SAS @ CHH L 42 17 8 16 50.0 1 2 50.0 0 0 - 0 5 5 5 0 0 2 4 -10
+p230
+aVMonty Williams SAS 03/04/1997 SAS @ CHH L 33 15 6 12 50.0 0 0 - 3 4 75.0 3 0 3 2 1 0 5 3 -6
+p231
+aVCarl Herrera SAS 03/04/1997 SAS @ CHH L 41 21 9 15 60.0 0 0 - 3 5 60.0 0 4 4 1 1 1 0 4 -7
+p232
+aVAvery Johnson SAS 03/04/1997 SAS @ CHH L 27 4 2 5 40.0 0 0 - 0 0 - 0 2 2 8 1 0 1 0 -7
+p233
+aVVernon Maxwell SAS 03/04/1997 SAS @ CHH L 21 14 5 11 45.5 1 4 25.0 3 3 100.0 1 2 3 2 0 0 1 3 2
+p234
+aVGreg Anderson SAS 03/04/1997 SAS @ CHH L 21 2 1 2 50.0 0 0 - 0 0 - 1 5 6 1 1 0 3 4 1
+p235
+aVJamie Feick SAS 03/04/1997 SAS @ CHH L 7 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 1 0
+p236
+aVMonty Williams SAS 03/02/1997 SAS @ MIA L 39 28 11 17 64.7 0 0 - 6 9 66.7 1 3 4 2 0 1 4 4 2
+p237
+aVCarl Herrera SAS 03/02/1997 SAS @ MIA L 43 18 7 17 41.2 0 0 - 4 4 100.0 3 9 12 1 2 1 4 2 -6
+p238
+aVGreg Anderson SAS 03/02/1997 SAS @ MIA L 18 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 3 -8
+p239
+aVJoe Courtney SAS 03/02/1997 SAS @ MIA L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p240
+aVCory Alexander SAS 03/02/1997 SAS @ MIA L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 0 -7
+p241
+aVJamie Feick SAS 03/02/1997 SAS @ MIA L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -1
+p242
+aVWill Perdue SAS 03/02/1997 SAS @ MIA L 30 6 2 4 50.0 0 0 - 2 7 28.6 3 2 5 1 1 2 0 3 1
+p243
+aVAvery Johnson SAS 03/02/1997 SAS @ MIA L 41 2 0 6 0.0 0 1 0.0 2 4 50.0 0 3 3 8 0 0 3 2 -3
+p244
+aVVinny Del Negro SAS 03/02/1997 SAS @ MIA L 44 16 7 16 43.8 1 1 100.0 1 2 50.0 0 5 5 2 0 0 0 1 -4
+p245
+aVWill Perdue SAS 02/28/1997 SAS @ ORL L 30 9 4 5 80.0 0 0 - 1 3 33.3 2 1 3 1 0 2 1 2 -18
+p246
+aVGreg Anderson SAS 02/28/1997 SAS @ ORL L 18 7 3 4 75.0 0 0 - 1 1 100.0 3 2 5 0 3 0 0 2 -3
+p247
+aVCarl Herrera SAS 02/28/1997 SAS @ ORL L 23 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 1 1 0 2 4 -8
+p248
+aVVinny Del Negro SAS 02/28/1997 SAS @ ORL L 43 13 6 14 42.9 0 3 0.0 1 1 100.0 1 4 5 3 3 0 4 1 -15
+p249
+aVJamie Feick SAS 02/28/1997 SAS @ ORL L 25 2 1 5 20.0 0 0 - 0 0 - 2 6 8 2 1 0 1 3 -13
+p250
+aVMonty Williams SAS 02/28/1997 SAS @ ORL L 21 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 1 0 2 1 1 -11
+p251
+aVDominique Wilkins SAS 02/28/1997 SAS @ ORL L 32 19 7 17 41.2 1 5 20.0 4 5 80.0 1 4 5 2 0 0 5 2 -16
+p252
+aVAvery Johnson SAS 02/28/1997 SAS @ ORL L 27 6 3 7 42.9 0 0 - 0 0 - 1 3 4 3 1 0 5 1 -16
+p253
+aVCory Alexander SAS 02/28/1997 SAS @ ORL L 21 6 2 8 25.0 2 4 50.0 0 0 - 0 2 2 4 0 1 5 3 -5
+p254
+aVJamie Feick SAS 02/26/1997 SAS vs. MIN L 12 2 0 3 0.0 0 0 - 2 6 33.3 1 2 3 0 0 0 1 3 2
+p255
+aVCarl Herrera SAS 02/26/1997 SAS vs. MIN L 38 11 5 10 50.0 0 1 0.0 1 2 50.0 5 2 7 2 2 2 2 3 -18
+p256
+aVDominique Wilkins SAS 02/26/1997 SAS vs. MIN L 42 20 7 21 33.3 1 4 25.0 5 6 83.3 4 3 7 3 0 1 4 4 -24
+p257
+aVGreg Anderson SAS 02/26/1997 SAS vs. MIN L 16 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 0 0 2 -19
+p258
+aVVinny Del Negro SAS 02/26/1997 SAS vs. MIN L 40 9 4 12 33.3 0 0 - 1 2 50.0 0 1 1 2 2 0 3 5 -19
+p259
+aVMonty Williams SAS 02/26/1997 SAS vs. MIN L 12 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 1 2
+p260
+aVWill Perdue SAS 02/26/1997 SAS vs. MIN L 32 19 9 11 81.8 0 0 - 1 3 33.3 9 8 17 1 0 2 0 2 0
+p261
+aVAvery Johnson SAS 02/26/1997 SAS vs. MIN L 30 16 7 12 58.3 0 0 - 2 3 66.7 0 3 3 6 2 0 3 4 -8
+p262
+aVCory Alexander SAS 02/26/1997 SAS vs. MIN L 18 3 1 8 12.5 1 2 50.0 0 0 - 1 0 1 2 5 0 2 0 -11
+p263
+aVDominique Wilkins SAS 02/24/1997 SAS vs. CHH L 43 20 9 24 37.5 0 3 0.0 2 5 40.0 1 3 4 2 1 0 1 2 -14
+p264
+aVCory Alexander SAS 02/24/1997 SAS vs. CHH L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 1 1 3
+p265
+aVVinny Del Negro SAS 02/24/1997 SAS vs. CHH L 45 24 9 13 69.2 1 3 33.3 5 5 100.0 0 3 3 3 0 0 1 4 -11
+p266
+aVJamie Feick SAS 02/24/1997 SAS vs. CHH L 20 2 1 4 25.0 0 0 - 0 0 - 2 6 8 0 1 0 0 2 -2
+p267
+aVAvery Johnson SAS 02/24/1997 SAS vs. CHH L 41 17 6 9 66.7 0 0 - 5 6 83.3 0 0 0 12 3 0 1 0 -15
+p268
+aVCarl Herrera SAS 02/24/1997 SAS vs. CHH L 36 12 6 16 37.5 0 0 - 0 0 - 0 2 2 0 1 1 0 3 -9
+p269
+aVGreg Anderson SAS 02/24/1997 SAS vs. CHH L 14 0 0 1 0.0 0 0 - 0 0 - 0 5 5 1 0 0 2 3 -3
+p270
+aVWill Perdue SAS 02/24/1997 SAS vs. CHH L 34 9 4 8 50.0 0 0 - 1 2 50.0 8 5 13 0 0 0 4 4 -9
+p271
+aVAvery Johnson SAS 02/23/1997 SAS @ HOU L 44 15 6 13 46.2 0 0 - 3 6 50.0 1 5 6 12 0 1 2 3 -5
+p272
+aVGreg Anderson SAS 02/23/1997 SAS @ HOU L 27 5 2 4 50.0 0 0 - 1 2 50.0 3 4 7 0 1 0 1 1 -14
+p273
+aVCory Alexander SAS 02/23/1997 SAS @ HOU L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -10
+p274
+aVVinny Del Negro SAS 02/23/1997 SAS @ HOU L 45 22 9 17 52.9 0 1 0.0 4 5 80.0 1 3 4 5 3 0 2 3 -7
+p275
+aVWill Perdue SAS 02/23/1997 SAS @ HOU L 25 2 0 3 0.0 0 0 - 2 2 100.0 4 10 14 1 0 0 4 4 5
+p276
+aVDominique Wilkins SAS 02/23/1997 SAS @ HOU L 40 28 11 22 50.0 1 3 33.3 5 6 83.3 5 3 8 1 1 0 1 0 -10
+p277
+aVJamie Feick SAS 02/23/1997 SAS @ HOU L 17 4 2 4 50.0 0 0 - 0 0 - 2 7 9 1 0 0 0 3 2
+p278
+aVCarl Herrera SAS 02/23/1997 SAS @ HOU L 32 9 3 11 27.3 0 0 - 3 4 75.0 1 2 3 1 1 0 0 4 -11
+p279
+aVCory Alexander SAS 02/21/1997 SAS vs. MIL W 11 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 3 0 0 0 0 -2
+p280
+aVGreg Anderson SAS 02/21/1997 SAS vs. MIL W 21 7 2 2 100.0 0 0 - 3 4 75.0 1 6 7 0 1 2 0 4 8
+p281
+aVCarl Herrera SAS 02/21/1997 SAS vs. MIL W 39 24 10 17 58.8 0 0 - 4 4 100.0 2 3 5 1 2 0 3 5 2
+p282
+aVJamie Feick SAS 02/21/1997 SAS vs. MIL W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 2 3 7
+p283
+aVAvery Johnson SAS 02/21/1997 SAS vs. MIL W 43 20 6 10 60.0 0 0 - 8 8 100.0 1 3 4 14 3 0 1 1 13
+p284
+aVWill Perdue SAS 02/21/1997 SAS vs. MIL W 29 6 3 3 100.0 0 0 - 0 4 0.0 3 5 8 0 1 3 1 4 -2
+p285
+aVDominique Wilkins SAS 02/21/1997 SAS vs. MIL W 42 18 9 22 40.9 0 1 0.0 0 0 - 3 5 8 5 1 3 4 2 0
+p286
+aVVinny Del Negro SAS 02/21/1997 SAS vs. MIL W 42 18 9 17 52.9 0 2 0.0 0 0 - 0 2 2 3 1 0 1 1 -1
+p287
+aVJamie Feick SAS 02/19/1997 SAS vs. TOR L 28 6 2 7 28.6 0 1 0.0 2 2 100.0 1 3 4 1 2 2 2 3 -13
+p288
+aVVinny Del Negro SAS 02/19/1997 SAS vs. TOR L 38 13 6 18 33.3 0 3 0.0 1 1 100.0 0 2 2 4 1 0 0 4 -27
+p289
+aVGreg Anderson SAS 02/19/1997 SAS vs. TOR L 20 2 1 2 50.0 0 0 - 0 4 0.0 1 2 3 0 1 1 0 5 -19
+p290
+aVAvery Johnson SAS 02/19/1997 SAS vs. TOR L 33 16 7 11 63.6 0 0 - 2 2 100.0 2 0 2 5 1 0 4 4 -23
+p291
+aVDominique Wilkins SAS 02/19/1997 SAS vs. TOR L 35 17 5 16 31.3 1 2 50.0 6 10 60.0 1 4 5 2 4 0 0 0 -25
+p292
+aVCory Alexander SAS 02/19/1997 SAS vs. TOR L 23 5 1 5 20.0 1 5 20.0 2 2 100.0 1 2 3 3 0 0 2 3 -18
+p293
+aVCarl Herrera SAS 02/19/1997 SAS vs. TOR L 34 17 7 15 46.7 0 0 - 3 4 75.0 1 5 6 2 0 1 3 4 -26
+p294
+aVWill Perdue SAS 02/19/1997 SAS vs. TOR L 28 16 4 7 57.1 0 0 - 8 9 88.9 4 6 10 2 0 1 0 0 -14
+p295
+aVVernon Maxwell SAS 02/18/1997 SAS @ UTA L 17 4 2 10 20.0 0 2 0.0 0 2 0.0 0 0 0 0 0 0 0 0 -20
+p296
+aVVinny Del Negro SAS 02/18/1997 SAS @ UTA L 34 28 10 13 76.9 3 3 100.0 5 5 100.0 0 3 3 7 2 0 1 3 10
+p297
+aVJamie Feick SAS 02/18/1997 SAS @ UTA L 5 5 1 2 50.0 1 1 100.0 2 2 100.0 1 1 2 0 1 0 1 3 0
+p298
+aVGreg Anderson SAS 02/18/1997 SAS @ UTA L 26 2 0 1 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 2 4 -26
+p299
+aVWill Perdue SAS 02/18/1997 SAS @ UTA L 33 10 3 4 75.0 0 0 - 4 6 66.7 2 5 7 0 0 1 2 2 6
+p300
+aVAvery Johnson SAS 02/18/1997 SAS @ UTA L 38 5 2 11 18.2 0 0 - 1 2 50.0 0 1 1 6 1 0 2 4 -10
+p301
+aVCory Alexander SAS 02/18/1997 SAS @ UTA L 14 11 3 6 50.0 3 5 60.0 2 2 100.0 0 1 1 1 0 1 2 5 7
+p302
+aVDominique Wilkins SAS 02/18/1997 SAS @ UTA L 39 32 10 18 55.6 0 3 0.0 12 13 92.3 4 8 12 3 0 0 5 3 -15
+p303
+aVCarl Herrera SAS 02/18/1997 SAS @ UTA L 34 8 4 7 57.1 0 0 - 0 0 - 1 3 4 1 1 0 1 4 8
+p304
+aVCarl Herrera SAS 02/15/1997 SAS vs. ATL L 38 8 4 10 40.0 0 0 - 0 0 - 2 4 6 1 2 0 4 2 -10
+p305
+aVVernon Maxwell SAS 02/15/1997 SAS vs. ATL L 33 24 9 18 50.0 5 10 50.0 1 2 50.0 1 1 2 4 0 1 0 4 -11
+p306
+aVVinny Del Negro SAS 02/15/1997 SAS vs. ATL L 27 18 7 10 70.0 0 0 - 4 5 80.0 0 0 0 2 2 0 0 1 -13
+p307
+aVGreg Anderson SAS 02/15/1997 SAS vs. ATL L 36 8 2 6 33.3 0 0 - 4 6 66.7 8 5 13 0 3 0 0 2 -13
+p308
+aVAvery Johnson SAS 02/15/1997 SAS vs. ATL L 30 12 5 12 41.7 0 0 - 2 2 100.0 1 0 1 6 2 0 1 1 -13
+p309
+aVJamie Feick SAS 02/15/1997 SAS vs. ATL L 24 5 2 7 28.6 0 1 0.0 1 2 50.0 1 5 6 2 0 0 2 3 -8
+p310
+aVDominique Wilkins SAS 02/15/1997 SAS vs. ATL L 34 11 5 13 38.5 0 3 0.0 1 2 50.0 1 3 4 2 0 1 4 1 -25
+p311
+aVCory Alexander SAS 02/15/1997 SAS vs. ATL L 18 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 4 0 0 2 0 -7
+p312
+aVAvery Johnson SAS 02/14/1997 SAS vs. GSW L 37 2 1 3 33.3 0 0 - 0 0 - 0 1 1 11 0 1 0 3 1
+p313
+aVCory Alexander SAS 02/14/1997 SAS vs. GSW L 24 15 6 11 54.5 2 4 50.0 1 1 100.0 3 1 4 1 1 0 4 2 -12
+p314
+aVVernon Maxwell SAS 02/14/1997 SAS vs. GSW L 31 14 4 14 28.6 2 7 28.6 4 6 66.7 0 2 2 1 1 0 1 2 -7
+p315
+aVCarl Herrera SAS 02/14/1997 SAS vs. GSW L 29 9 3 11 27.3 0 0 - 3 3 100.0 4 6 10 0 0 4 1 2 -8
+p316
+aVJamie Feick SAS 02/14/1997 SAS vs. GSW L 10 6 2 4 50.0 1 1 100.0 1 2 50.0 3 0 3 1 0 1 0 0 1
+p317
+aVGreg Anderson SAS 02/14/1997 SAS vs. GSW L 38 7 2 9 22.2 0 0 - 3 6 50.0 6 11 17 0 2 3 4 1 -16
+p318
+aVVinny Del Negro SAS 02/14/1997 SAS vs. GSW L 24 11 4 8 50.0 0 2 0.0 3 4 75.0 1 2 3 1 0 0 0 2 -14
+p319
+aVMonty Williams SAS 02/14/1997 SAS vs. GSW L 15 8 3 9 33.3 0 0 - 2 2 100.0 2 0 2 1 1 0 2 3 -14
+p320
+aVDominique Wilkins SAS 02/14/1997 SAS vs. GSW L 32 22 8 17 47.1 1 6 16.7 5 7 71.4 1 4 5 1 0 1 0 3 -1
+p321
+aVAvery Johnson SAS 02/12/1997 SAS vs. VAN L 33 3 0 3 0.0 0 0 - 3 4 75.0 1 1 2 6 2 0 2 3 -10
+p322
+aVCarl Herrera SAS 02/12/1997 SAS vs. VAN L 32 14 6 13 46.2 0 0 - 2 5 40.0 8 2 10 1 0 2 4 3 -7
+p323
+aVVernon Maxwell SAS 02/12/1997 SAS vs. VAN L 33 19 5 16 31.3 4 12 33.3 5 5 100.0 0 2 2 5 1 1 0 3 -4
+p324
+aVGreg Anderson SAS 02/12/1997 SAS vs. VAN L 18 5 2 3 66.7 0 0 - 1 1 100.0 2 4 6 0 0 2 1 3 -8
+p325
+aVDominique Wilkins SAS 02/12/1997 SAS vs. VAN L 20 8 3 5 60.0 0 0 - 2 3 66.7 1 4 5 2 0 0 3 2 4
+p326
+aVWill Perdue SAS 02/12/1997 SAS vs. VAN L 25 12 6 7 85.7 0 0 - 0 0 - 1 7 8 0 3 0 1 4 -7
+p327
+aVVinny Del Negro SAS 02/12/1997 SAS vs. VAN L 32 14 6 13 46.2 0 2 0.0 2 2 100.0 1 0 1 6 1 0 3 2 0
+p328
+aVMonty Williams SAS 02/12/1997 SAS vs. VAN L 33 15 5 10 50.0 0 0 - 5 8 62.5 5 1 6 1 1 4 3 4 2
+p329
+aVCory Alexander SAS 02/12/1997 SAS vs. VAN L 15 11 4 7 57.1 3 5 60.0 0 0 - 0 1 1 4 1 0 0 3 5
+p330
+aVWill Perdue SAS 02/11/1997 SAS @ DAL W 30 2 1 2 50.0 0 0 - 0 0 - 7 9 16 1 0 3 3 1 18
+p331
+aVGreg Anderson SAS 02/11/1997 SAS @ DAL W 25 10 4 8 50.0 0 0 - 2 3 66.7 4 2 6 1 0 1 0 3 -1
+p332
+aVJamie Feick SAS 02/11/1997 SAS @ DAL W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p333
+aVCory Alexander SAS 02/11/1997 SAS @ DAL W 11 5 2 3 66.7 1 2 50.0 0 1 0.0 0 0 0 2 0 0 0 1 -6
+p334
+aVAvery Johnson SAS 02/11/1997 SAS @ DAL W 37 9 4 10 40.0 0 0 - 1 1 100.0 0 4 4 13 0 1 1 4 20
+p335
+aVVinny Del Negro SAS 02/11/1997 SAS @ DAL W 28 18 6 13 46.2 2 3 66.7 4 5 80.0 1 3 4 3 1 1 1 2 1
+p336
+aVMonty Williams SAS 02/11/1997 SAS @ DAL W 21 11 4 7 57.1 0 0 - 3 3 100.0 2 3 5 4 0 1 0 5 4
+p337
+aVVernon Maxwell SAS 02/11/1997 SAS @ DAL W 35 34 13 22 59.1 7 11 63.6 1 2 50.0 0 2 2 3 2 0 1 1 25
+p338
+aVCarl Herrera SAS 02/11/1997 SAS @ DAL W 21 14 7 10 70.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 15
+p339
+aVDominique Wilkins SAS 02/11/1997 SAS @ DAL W 27 8 4 12 33.3 0 2 0.0 0 0 - 1 2 3 0 0 0 1 1 2
+p340
+aVCory Alexander SAS 02/06/1997 SAS @ NYK L 14 14 4 6 66.7 4 5 80.0 2 4 50.0 0 1 1 0 3 0 0 0 6
+p341
+aVDominique Wilkins SAS 02/06/1997 SAS @ NYK L 27 19 5 14 35.7 0 4 0.0 9 13 69.2 0 6 6 1 2 0 2 2 -12
+p342
+aVMonty Williams SAS 02/06/1997 SAS @ NYK L 44 18 6 16 37.5 0 0 - 6 11 54.5 6 2 8 3 1 2 3 2 -9
+p343
+aVJamie Feick SAS 02/06/1997 SAS @ NYK L 20 2 1 11 9.1 0 1 0.0 0 0 - 8 3 11 2 0 1 1 2 2
+p344
+aVAvery Johnson SAS 02/06/1997 SAS @ NYK L 34 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 3 0 0 1 1 -18
+p345
+aVGreg Anderson SAS 02/06/1997 SAS @ NYK L 36 11 4 6 66.7 0 1 0.0 3 5 60.0 5 7 12 0 1 1 2 4 -9
+p346
+aVVernon Maxwell SAS 02/06/1997 SAS @ NYK L 27 7 3 10 30.0 1 5 20.0 0 0 - 0 1 1 2 1 0 2 2 -13
+p347
+aVCarl Herrera SAS 02/06/1997 SAS @ NYK L 14 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 0 0 0 6 -11
+p348
+aVVinny Del Negro SAS 02/06/1997 SAS @ NYK L 23 5 1 7 14.3 0 1 0.0 3 3 100.0 1 1 2 2 2 0 2 2 4
+p349
+aVSean Elliott SAS 02/05/1997 SAS @ PHI L 28 11 5 11 45.5 0 1 0.0 1 3 33.3 0 3 3 2 0 0 3 5 -15
+p350
+aVVernon Maxwell SAS 02/05/1997 SAS @ PHI L 31 19 6 16 37.5 5 9 55.6 2 2 100.0 0 4 4 3 4 0 0 1 -9
+p351
+aVMonty Williams SAS 02/05/1997 SAS @ PHI L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -1
+p352
+aVCory Alexander SAS 02/05/1997 SAS @ PHI L 21 16 7 14 50.0 2 5 40.0 0 0 - 5 1 6 2 0 0 4 0 -3
+p353
+aVVinny Del Negro SAS 02/05/1997 SAS @ PHI L 29 14 7 13 53.8 0 3 0.0 0 0 - 2 1 3 4 1 0 1 4 -3
+p354
+aVAvery Johnson SAS 02/05/1997 SAS @ PHI L 27 6 2 5 40.0 0 0 - 2 5 40.0 0 1 1 11 0 0 0 2 -13
+p355
+aVJamie Feick SAS 02/05/1997 SAS @ PHI L 27 7 3 7 42.9 0 0 - 1 2 50.0 6 6 12 2 0 0 0 2 1
+p356
+aVGreg Anderson SAS 02/05/1997 SAS @ PHI L 19 2 1 1 100.0 0 0 - 0 1 0.0 1 3 4 0 0 1 0 1 -16
+p357
+aVDarrin Hancock SAS 02/05/1997 SAS @ PHI L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 0
+p358
+aVDominique Wilkins SAS 02/05/1997 SAS @ PHI L 26 14 4 14 28.6 0 0 - 6 9 66.7 4 3 7 1 1 0 1 1 -6
+p359
+aVCarl Herrera SAS 02/05/1997 SAS @ PHI L 17 2 1 4 25.0 0 0 - 0 2 0.0 2 3 5 0 1 1 0 3 -15
+p360
+aVVinny Del Negro SAS 02/03/1997 SAS vs. SAC L 18 11 5 12 41.7 0 1 0.0 1 1 100.0 0 3 3 4 0 0 1 4 -19
+p361
+aVAvery Johnson SAS 02/03/1997 SAS vs. SAC L 39 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 10 2 1 1 1 -15
+p362
+aVCory Alexander SAS 02/03/1997 SAS vs. SAC L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 3 1 0 1 2 9
+p363
+aVVernon Maxwell SAS 02/03/1997 SAS vs. SAC L 30 15 5 14 35.7 1 6 16.7 4 4 100.0 0 1 1 3 0 0 0 3 13
+p364
+aVGreg Anderson SAS 02/03/1997 SAS vs. SAC L 37 4 2 6 33.3 0 0 - 0 0 - 3 9 12 1 0 1 2 1 -7
+p365
+aVSean Elliott SAS 02/03/1997 SAS vs. SAC L 33 9 4 12 33.3 0 3 0.0 1 1 100.0 1 4 5 2 0 2 0 4 -4
+p366
+aVDominique Wilkins SAS 02/03/1997 SAS vs. SAC L 23 13 5 14 35.7 0 1 0.0 3 4 75.0 3 5 8 1 0 0 1 2 -18
+p367
+aVCarl Herrera SAS 02/03/1997 SAS vs. SAC L 37 12 6 13 46.2 0 0 - 0 1 0.0 5 2 7 0 3 1 1 3 13
+p368
+aVMonty Williams SAS 02/03/1997 SAS vs. SAC L 15 9 4 6 66.7 0 0 - 1 1 100.0 0 2 2 0 1 1 2 1 -2
+p369
+aVAvery Johnson SAS 01/31/1997 SAS vs. MIN L 29 4 2 5 40.0 0 0 - 0 0 - 0 0 0 6 1 0 1 2 -6
+p370
+aVVernon Maxwell SAS 01/31/1997 SAS vs. MIN L 35 27 8 17 47.1 5 8 62.5 6 6 100.0 0 2 2 0 5 1 0 3 -1
+p371
+aVDominique Wilkins SAS 01/31/1997 SAS vs. MIN L 38 27 8 16 50.0 0 2 0.0 11 11 100.0 2 6 8 4 0 0 3 3 0
+p372
+aVVinny Del Negro SAS 01/31/1997 SAS vs. MIN L 24 12 4 8 50.0 0 0 - 4 4 100.0 0 4 4 4 0 0 0 0 6
+p373
+aVCory Alexander SAS 01/31/1997 SAS vs. MIN L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 1 2 2 1 0 -3
+p374
+aVJamie Feick SAS 01/31/1997 SAS vs. MIN L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 3 0
+p375
+aVGreg Anderson SAS 01/31/1997 SAS vs. MIN L 40 6 3 3 100.0 0 0 - 0 0 - 1 8 9 0 0 3 3 4 0
+p376
+aVSean Elliott SAS 01/31/1997 SAS vs. MIN L 30 17 5 14 35.7 2 4 50.0 5 6 83.3 0 0 0 3 0 0 3 5 -2
+p377
+aVMonty Williams SAS 01/31/1997 SAS vs. MIN L 28 0 0 5 0.0 0 1 0.0 0 0 - 1 3 4 2 2 1 1 3 -4
+p378
+aVVernon Maxwell SAS 01/29/1997 SAS vs. LAL L 16 11 4 8 50.0 3 4 75.0 0 0 - 0 1 1 1 0 0 1 3 -8
+p379
+aVAvery Johnson SAS 01/29/1997 SAS vs. LAL L 39 5 2 11 18.2 0 0 - 1 2 50.0 1 4 5 9 1 0 1 4 -4
+p380
+aVCory Alexander SAS 01/29/1997 SAS vs. LAL L 9 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 2 1 -3
+p381
+aVCarl Herrera SAS 01/29/1997 SAS vs. LAL L 11 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 0
+p382
+aVGreg Anderson SAS 01/29/1997 SAS vs. LAL L 41 6 3 6 50.0 0 0 - 0 0 - 3 5 8 0 3 5 0 5 -10
+p383
+aVVinny Del Negro SAS 01/29/1997 SAS vs. LAL L 33 9 4 11 36.4 0 1 0.0 1 1 100.0 0 5 5 2 1 0 1 1 1
+p384
+aVMonty Williams SAS 01/29/1997 SAS vs. LAL L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 0 4
+p385
+aVDominique Wilkins SAS 01/29/1997 SAS vs. LAL L 34 28 8 18 44.4 4 8 50.0 8 10 80.0 4 8 12 0 1 0 3 3 -6
+p386
+aVJamie Feick SAS 01/29/1997 SAS vs. LAL L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 3
+p387
+aVSean Elliott SAS 01/29/1997 SAS vs. LAL L 37 23 8 16 50.0 0 2 0.0 7 10 70.0 2 3 5 4 0 1 5 5 -12
+p388
+aVVernon Maxwell SAS 01/26/1997 SAS @ MIL L 25 10 4 10 40.0 0 3 0.0 2 2 100.0 0 3 3 3 0 0 2 3 -2
+p389
+aVAvery Johnson SAS 01/26/1997 SAS @ MIL L 36 2 1 4 25.0 0 0 - 0 0 - 0 0 0 9 3 0 4 2 -8
+p390
+aVCory Alexander SAS 01/26/1997 SAS @ MIL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 3 1 -8
+p391
+aVWill Perdue SAS 01/26/1997 SAS @ MIL L 26 11 4 6 66.7 0 0 - 3 4 75.0 4 5 9 1 0 0 1 1 5
+p392
+aVGreg Anderson SAS 01/26/1997 SAS @ MIL L 14 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 0 2 3 -14
+p393
+aVMonty Williams SAS 01/26/1997 SAS @ MIL L 15 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 1 3 -13
+p394
+aVSean Elliott SAS 01/26/1997 SAS @ MIL L 34 11 5 13 38.5 1 3 33.3 0 2 0.0 1 0 1 3 0 1 0 3 -7
+p395
+aVDominique Wilkins SAS 01/26/1997 SAS @ MIL L 17 10 3 8 37.5 0 1 0.0 4 4 100.0 0 2 2 0 0 0 2 0 -10
+p396
+aVCarl Herrera SAS 01/26/1997 SAS @ MIL L 38 22 9 15 60.0 0 0 - 4 4 100.0 2 9 11 0 2 0 2 3 -12
+p397
+aVJason Sasser SAS 01/26/1997 SAS @ MIL L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p398
+aVVinny Del Negro SAS 01/26/1997 SAS @ MIL L 29 7 3 12 25.0 0 3 0.0 1 1 100.0 0 1 1 2 1 0 2 3 -18
+p399
+aVAvery Johnson SAS 01/24/1997 SAS vs. DAL W 43 14 4 9 44.4 0 0 - 6 8 75.0 2 2 4 10 0 0 1 2 7
+p400
+aVWill Perdue SAS 01/24/1997 SAS vs. DAL W 31 6 3 4 75.0 0 0 - 0 2 0.0 4 8 12 0 0 4 1 5 6
+p401
+aVGreg Anderson SAS 01/24/1997 SAS vs. DAL W 15 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 1 2 4 4
+p402
+aVDominique Wilkins SAS 01/24/1997 SAS vs. DAL W 30 24 10 18 55.6 3 5 60.0 1 1 100.0 2 4 6 1 1 0 3 2 3
+p403
+aVMonty Williams SAS 01/24/1997 SAS vs. DAL W 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -2
+p404
+aVVinny Del Negro SAS 01/24/1997 SAS vs. DAL W 34 21 7 10 70.0 1 1 100.0 6 6 100.0 0 2 2 2 0 0 1 2 4
+p405
+aVSean Elliott SAS 01/24/1997 SAS vs. DAL W 42 16 6 15 40.0 1 7 14.3 3 5 60.0 2 4 6 8 0 1 2 1 10
+p406
+aVVernon Maxwell SAS 01/24/1997 SAS vs. DAL W 14 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 0 2 0 0 0 6
+p407
+aVCarl Herrera SAS 01/24/1997 SAS vs. DAL W 17 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 1 0 1 4 9
+p408
+aVCory Alexander SAS 01/24/1997 SAS vs. DAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p409
+aVGreg Anderson SAS 01/22/1997 SAS vs. NJN L 10 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 2 1 1 6
+p410
+aVMonty Williams SAS 01/22/1997 SAS vs. NJN L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 1 3 0
+p411
+aVAvery Johnson SAS 01/22/1997 SAS vs. NJN L 40 10 5 12 41.7 0 0 - 0 0 - 0 1 1 13 0 0 1 2 -3
+p412
+aVVinny Del Negro SAS 01/22/1997 SAS vs. NJN L 25 11 4 9 44.4 1 1 100.0 2 2 100.0 0 5 5 4 1 0 1 2 -2
+p413
+aVDominique Wilkins SAS 01/22/1997 SAS vs. NJN L 29 20 5 10 50.0 2 4 50.0 8 9 88.9 1 2 3 2 1 0 4 1 -9
+p414
+aVSean Elliott SAS 01/22/1997 SAS vs. NJN L 38 13 4 11 36.4 0 2 0.0 5 5 100.0 2 7 9 1 0 1 3 4 -10
+p415
+aVCarl Herrera SAS 01/22/1997 SAS vs. NJN L 17 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 1 0 1 0 2 1
+p416
+aVVernon Maxwell SAS 01/22/1997 SAS vs. NJN L 29 20 8 15 53.3 4 8 50.0 0 0 - 0 0 0 1 1 2 0 3 -10
+p417
+aVWill Perdue SAS 01/22/1997 SAS vs. NJN L 37 16 8 9 88.9 0 0 - 0 3 0.0 2 6 8 0 0 4 1 2 -12
+p418
+aVCory Alexander SAS 01/22/1997 SAS vs. NJN L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p419
+aVJason Sasser SAS 01/20/1997 SAS @ MIN L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 1
+p420
+aVCory Alexander SAS 01/20/1997 SAS @ MIN L 24 4 0 4 0.0 0 1 0.0 4 4 100.0 1 1 2 6 0 0 2 3 -6
+p421
+aVCarl Herrera SAS 01/20/1997 SAS @ MIN L 19 4 2 3 66.7 0 0 - 0 0 - 3 1 4 1 2 1 2 1 -12
+p422
+aVVernon Maxwell SAS 01/20/1997 SAS @ MIN L 28 4 2 11 18.2 0 3 0.0 0 0 - 0 2 2 5 0 0 1 1 -14
+p423
+aVSean Elliott SAS 01/20/1997 SAS @ MIN L 35 14 4 8 50.0 3 4 75.0 3 5 60.0 0 5 5 0 0 2 1 3 -14
+p424
+aVGreg Anderson SAS 01/20/1997 SAS @ MIN L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -10
+p425
+aVAvery Johnson SAS 01/20/1997 SAS @ MIN L 13 5 2 7 28.6 0 0 - 1 2 50.0 0 1 1 1 0 0 2 3 -10
+p426
+aVWill Perdue SAS 01/20/1997 SAS @ MIN L 40 10 4 4 100.0 0 0 - 2 2 100.0 2 11 13 2 0 2 3 4 -9
+p427
+aVMonty Williams SAS 01/20/1997 SAS @ MIN L 31 20 8 11 72.7 0 0 - 4 7 57.1 1 6 7 0 3 2 3 3 5
+p428
+aVVinny Del Negro SAS 01/20/1997 SAS @ MIN L 30 22 9 18 50.0 1 2 50.0 3 4 75.0 1 2 3 2 0 0 2 2 4
+p429
+aVGreg Anderson SAS 01/17/1997 SAS vs. SAC W 23 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 2 1 1 1 4 5
+p430
+aVSean Elliott SAS 01/17/1997 SAS vs. SAC W 23 19 6 13 46.2 2 4 50.0 5 6 83.3 1 5 6 5 0 1 3 3 18
+p431
+aVCarl Herrera SAS 01/17/1997 SAS vs. SAC W 36 14 7 12 58.3 0 0 - 0 0 - 1 0 1 1 1 1 0 2 19
+p432
+aVDevin Gray SAS 01/17/1997 SAS vs. SAC W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -7
+p433
+aVVinny Del Negro SAS 01/17/1997 SAS vs. SAC W 24 9 4 9 44.4 1 2 50.0 0 0 - 2 6 8 4 2 0 3 1 17
+p434
+aVMonty Williams SAS 01/17/1997 SAS vs. SAC W 17 10 3 5 60.0 0 0 - 4 6 66.7 2 0 2 2 2 1 1 4 12
+p435
+aVWill Perdue SAS 01/17/1997 SAS vs. SAC W 34 8 3 5 60.0 0 0 - 2 3 66.7 1 10 11 1 0 4 1 2 23
+p436
+aVVernon Maxwell SAS 01/17/1997 SAS vs. SAC W 26 8 3 6 50.0 2 3 66.7 0 0 - 1 1 2 3 1 0 1 0 1
+p437
+aVAvery Johnson SAS 01/17/1997 SAS vs. SAC W 32 13 5 9 55.6 0 0 - 3 4 75.0 0 2 2 8 2 1 0 1 21
+p438
+aVJason Sasser SAS 01/17/1997 SAS vs. SAC W 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p439
+aVCory Alexander SAS 01/17/1997 SAS vs. SAC W 16 6 2 3 66.7 0 1 0.0 2 4 50.0 1 3 4 3 1 0 0 4 -1
+p440
+aVGreg Anderson SAS 01/15/1997 SAS vs. NYK L 14 0 0 0 - 0 0 - 0 0 - 0 5 5 1 0 0 0 5 -13
+p441
+aVAvery Johnson SAS 01/15/1997 SAS vs. NYK L 36 2 1 5 20.0 0 0 - 0 0 - 0 1 1 6 0 1 3 3 -12
+p442
+aVCory Alexander SAS 01/15/1997 SAS vs. NYK L 12 10 3 3 100.0 2 2 100.0 2 4 50.0 0 0 0 2 0 0 4 2 -5
+p443
+aVCarl Herrera SAS 01/15/1997 SAS vs. NYK L 29 9 4 10 40.0 0 2 0.0 1 2 50.0 0 4 4 0 2 0 1 2 -7
+p444
+aVVernon Maxwell SAS 01/15/1997 SAS vs. NYK L 36 22 7 16 43.8 4 6 66.7 4 4 100.0 0 0 0 1 1 2 1 2 -1
+p445
+aVSean Elliott SAS 01/15/1997 SAS vs. NYK L 29 14 6 11 54.5 0 2 0.0 2 2 100.0 1 3 4 1 0 0 2 3 -8
+p446
+aVWill Perdue SAS 01/15/1997 SAS vs. NYK L 27 7 3 8 37.5 0 0 - 1 4 25.0 6 7 13 1 1 1 0 5 0
+p447
+aVDevin Gray SAS 01/15/1997 SAS vs. NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p448
+aVMonty Williams SAS 01/15/1997 SAS vs. NYK L 25 4 2 8 25.0 0 0 - 0 2 0.0 1 4 5 2 2 1 2 4 -12
+p449
+aVVinny Del Negro SAS 01/15/1997 SAS vs. NYK L 30 9 4 11 36.4 1 4 25.0 0 0 - 0 4 4 4 1 1 0 1 -23
+p450
+aVVernon Maxwell SAS 01/11/1997 SAS @ ATL L 43 17 7 25 28.0 1 7 14.3 2 2 100.0 2 7 9 4 1 0 2 4 -8
+p451
+aVCarl Herrera SAS 01/11/1997 SAS @ ATL L 17 2 1 9 11.1 0 0 - 0 0 - 1 0 1 2 2 0 0 5 -5
+p452
+aVMonty Williams SAS 01/11/1997 SAS @ ATL L 28 12 5 9 55.6 0 0 - 2 5 40.0 2 4 6 1 1 0 2 4 -4
+p453
+aVAvery Johnson SAS 01/11/1997 SAS @ ATL L 46 21 9 19 47.4 0 1 0.0 3 4 75.0 1 2 3 5 1 1 3 1 -7
+p454
+aVCory Alexander SAS 01/11/1997 SAS @ ATL L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 2
+p455
+aVVinny Del Negro SAS 01/11/1997 SAS @ ATL L 37 7 3 10 30.0 0 3 0.0 1 3 33.3 1 1 2 3 2 1 2 3 -5
+p456
+aVWill Perdue SAS 01/11/1997 SAS @ ATL L 47 19 9 12 75.0 0 0 - 1 3 33.3 8 9 17 1 0 1 2 4 -5
+p457
+aVGreg Anderson SAS 01/11/1997 SAS @ ATL L 40 4 2 6 33.3 0 0 - 0 0 - 4 5 9 3 4 2 0 6 7
+p458
+aVVernon Maxwell SAS 01/10/1997 SAS @ DET L 39 21 9 19 47.4 2 5 40.0 1 1 100.0 1 4 5 4 2 0 1 1 10
+p459
+aVVinny Del Negro SAS 01/10/1997 SAS @ DET L 21 5 2 7 28.6 1 4 25.0 0 0 - 1 1 2 0 0 0 1 2 -17
+p460
+aVGreg Anderson SAS 01/10/1997 SAS @ DET L 20 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 3 -23
+p461
+aVWill Perdue SAS 01/10/1997 SAS @ DET L 34 2 1 4 25.0 0 0 - 0 0 - 3 9 12 0 0 1 1 3 14
+p462
+aVJason Sasser SAS 01/10/1997 SAS @ DET L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p463
+aVAvery Johnson SAS 01/10/1997 SAS @ DET L 30 11 4 9 44.4 0 2 0.0 3 5 60.0 0 1 1 4 1 0 1 2 -14
+p464
+aVCory Alexander SAS 01/10/1997 SAS @ DET L 18 18 5 8 62.5 4 6 66.7 4 4 100.0 0 0 0 5 0 0 3 4 8
+p465
+aVCarl Herrera SAS 01/10/1997 SAS @ DET L 42 13 6 12 50.0 1 1 100.0 0 2 0.0 1 3 4 1 2 1 2 4 -3
+p466
+aVMonty Williams SAS 01/10/1997 SAS @ DET L 32 8 3 12 25.0 0 0 - 2 4 50.0 1 3 4 2 2 1 1 4 4
+p467
+aVCarl Herrera SAS 01/08/1997 SAS @ BOS L 21 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 2 0 1 2 2 -16
+p468
+aVJason Sasser SAS 01/08/1997 SAS @ BOS L 24 11 5 8 62.5 1 1 100.0 0 0 - 0 2 2 1 1 0 1 5 -16
+p469
+aVDevin Gray SAS 01/08/1997 SAS @ BOS L 18 8 4 13 30.8 0 0 - 0 1 0.0 3 2 5 0 1 0 3 5 -6
+p470
+aVWill Perdue SAS 01/08/1997 SAS @ BOS L 35 13 4 7 57.1 0 0 - 5 9 55.6 7 7 14 1 0 1 3 0 -25
+p471
+aVCory Alexander SAS 01/08/1997 SAS @ BOS L 16 7 2 4 50.0 0 1 0.0 3 4 75.0 0 0 0 0 1 0 2 3 -4
+p472
+aVVernon Maxwell SAS 01/08/1997 SAS @ BOS L 48 12 5 19 26.3 0 6 0.0 2 2 100.0 1 5 6 7 2 0 1 1 -24
+p473
+aVMonty Williams SAS 01/08/1997 SAS @ BOS L 32 14 6 7 85.7 0 0 - 2 2 100.0 0 4 4 1 2 0 6 4 -11
+p474
+aVGreg Anderson SAS 01/08/1997 SAS @ BOS L 15 2 1 1 100.0 0 0 - 0 0 - 3 2 5 2 0 1 0 3 2
+p475
+aVAvery Johnson SAS 01/08/1997 SAS @ BOS L 32 14 5 9 55.6 0 0 - 4 7 57.1 0 1 1 3 0 0 8 0 -20
+p476
+aVAvery Johnson SAS 01/07/1997 SAS @ NJN L 31 16 7 9 77.8 0 0 - 2 2 100.0 0 3 3 3 3 0 5 3 -8
+p477
+aVCory Alexander SAS 01/07/1997 SAS @ NJN L 17 9 3 7 42.9 0 2 0.0 3 6 50.0 0 1 1 4 1 1 4 1 -8
+p478
+aVVernon Maxwell SAS 01/07/1997 SAS @ NJN L 40 13 6 12 50.0 1 2 50.0 0 5 0.0 2 5 7 2 2 2 7 3 -17
+p479
+aVMonty Williams SAS 01/07/1997 SAS @ NJN L 40 16 5 12 41.7 0 0 - 6 8 75.0 1 1 2 1 1 1 2 4 -11
+p480
+aVWill Perdue SAS 01/07/1997 SAS @ NJN L 30 4 1 10 10.0 0 0 - 2 4 50.0 3 6 9 1 1 2 2 4 -12
+p481
+aVGreg Anderson SAS 01/07/1997 SAS @ NJN L 27 2 1 3 33.3 0 0 - 0 0 - 1 5 6 2 2 2 1 3 -9
+p482
+aVCarl Herrera SAS 01/07/1997 SAS @ NJN L 38 12 4 12 33.3 1 1 100.0 3 4 75.0 4 3 7 1 2 1 3 4 -12
+p483
+aVJason Sasser SAS 01/07/1997 SAS @ NJN L 18 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -3
+p484
+aVAvery Johnson SAS 01/05/1997 SAS vs. LAC L 37 11 5 10 50.0 0 0 - 1 4 25.0 0 3 3 6 2 0 2 2 3
+p485
+aVStephen Howard SAS 01/05/1997 SAS vs. LAC L 9 4 1 2 50.0 0 0 - 2 3 66.7 0 0 0 0 1 1 1 2 -1
+p486
+aVWill Perdue SAS 01/05/1997 SAS vs. LAC L 38 8 3 6 50.0 0 0 - 2 3 66.7 2 7 9 1 0 6 1 4 -14
+p487
+aVGreg Anderson SAS 01/05/1997 SAS vs. LAC L 14 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 2
+p488
+aVSean Elliott SAS 01/05/1997 SAS vs. LAC L 39 17 4 14 28.6 1 2 50.0 8 9 88.9 3 5 8 5 0 0 1 4 -9
+p489
+aVCarl Herrera SAS 01/05/1997 SAS vs. LAC L 31 3 1 3 33.3 0 0 - 1 2 50.0 5 5 10 0 3 1 2 4 0
+p490
+aVMonty Williams SAS 01/05/1997 SAS vs. LAC L 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 5 -13
+p491
+aVGaylon Nickerson SAS 01/05/1997 SAS vs. LAC L 9 6 1 3 33.3 0 0 - 4 4 100.0 1 1 2 0 0 0 0 0 6
+p492
+aVVernon Maxwell SAS 01/05/1997 SAS vs. LAC L 38 23 8 21 38.1 3 8 37.5 4 4 100.0 0 2 2 1 0 0 2 4 -7
+p493
+aVCory Alexander SAS 01/05/1997 SAS vs. LAC L 11 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 1 2 1 3 3 -12
+p494
+aVCory Alexander SAS 01/03/1997 SAS @ DEN W 14 11 4 7 57.1 2 2 100.0 1 2 50.0 1 0 1 0 0 0 0 1 -3
+p495
+aVStephen Howard SAS 01/03/1997 SAS @ DEN W 19 7 2 4 50.0 0 0 - 3 4 75.0 0 2 2 1 1 1 1 2 -7
+p496
+aVMonty Williams SAS 01/03/1997 SAS @ DEN W 34 12 6 19 31.6 0 0 - 0 0 - 4 2 6 0 2 0 3 1 4
+p497
+aVAvery Johnson SAS 01/03/1997 SAS @ DEN W 38 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 9 0 0 2 2 0
+p498
+aVGreg Anderson SAS 01/03/1997 SAS @ DEN W 12 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 1 0 1 3
+p499
+aVGaylon Nickerson SAS 01/03/1997 SAS @ DEN W 12 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 0 1 0 1 1
+p500
+aVVernon Maxwell SAS 01/03/1997 SAS @ DEN W 40 24 8 20 40.0 4 6 66.7 4 4 100.0 0 5 5 2 0 0 0 3 5
+p501
+aVCarl Herrera SAS 01/03/1997 SAS @ DEN W 29 10 5 14 35.7 0 0 - 0 0 - 2 4 6 1 3 2 0 5 9
+p502
+aVSean Elliott SAS 01/03/1997 SAS @ DEN W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -1
+p503
+aVWill Perdue SAS 01/03/1997 SAS @ DEN W 36 12 5 10 50.0 0 0 - 2 2 100.0 8 8 16 0 1 2 2 2 -1
+p504
+aVAvery Johnson SAS 01/02/1997 SAS vs. UTA W 40 22 9 13 69.2 0 0 - 4 6 66.7 1 1 2 6 4 0 2 3 6
+p505
+aVStephen Howard SAS 01/02/1997 SAS vs. UTA W 18 5 2 2 100.0 0 0 - 1 1 100.0 2 2 4 0 2 0 1 1 -4
+p506
+aVMonty Williams SAS 01/02/1997 SAS vs. UTA W 12 3 1 3 33.3 0 0 - 1 3 33.3 2 0 2 1 0 0 2 1 -11
+p507
+aVSean Elliott SAS 01/02/1997 SAS vs. UTA W 36 18 5 16 31.3 1 5 20.0 7 12 58.3 1 5 6 3 1 0 4 1 14
+p508
+aVVernon Maxwell SAS 01/02/1997 SAS vs. UTA W 43 12 3 14 21.4 0 7 0.0 6 8 75.0 0 5 5 4 4 1 5 3 1
+p509
+aVCory Alexander SAS 01/02/1997 SAS vs. UTA W 13 5 2 7 28.6 0 3 0.0 1 2 50.0 0 3 3 3 1 0 1 1 -1
+p510
+aVCarl Herrera SAS 01/02/1997 SAS vs. UTA W 30 4 2 4 50.0 0 0 - 0 0 - 2 6 8 1 2 3 1 3 7
+p511
+aVWill Perdue SAS 01/02/1997 SAS vs. UTA W 33 12 5 6 83.3 0 0 - 2 2 100.0 2 10 12 0 1 1 3 3 -1
+p512
+aVGreg Anderson SAS 01/02/1997 SAS vs. UTA W 15 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 1 0 2 2 4
+p513
+aVSean Elliott SAS 12/30/1996 SAS @ VAN W 38 11 4 7 57.1 1 2 50.0 2 2 100.0 0 5 5 5 1 0 4 3 8
+p514
+aVCory Alexander SAS 12/30/1996 SAS @ VAN W 5 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 1 0 0 0 -5
+p515
+aVMonty Williams SAS 12/30/1996 SAS @ VAN W 27 11 5 9 55.6 0 0 - 1 2 50.0 1 3 4 3 1 1 1 4 0
+p516
+aVDominique Wilkins SAS 12/30/1996 SAS @ VAN W 15 9 2 7 28.6 1 3 33.3 4 5 80.0 0 2 2 1 1 0 0 1 2
+p517
+aVGreg Anderson SAS 12/30/1996 SAS @ VAN W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 4
+p518
+aVVernon Maxwell SAS 12/30/1996 SAS @ VAN W 40 23 9 15 60.0 3 4 75.0 2 2 100.0 0 4 4 2 2 0 2 2 0
+p519
+aVCarl Herrera SAS 12/30/1996 SAS @ VAN W 19 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 2 0 0 3
+p520
+aVStephen Howard SAS 12/30/1996 SAS @ VAN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 0 0 8
+p521
+aVAvery Johnson SAS 12/30/1996 SAS @ VAN W 43 23 8 18 44.4 1 1 100.0 6 6 100.0 0 1 1 13 0 0 4 1 12
+p522
+aVWill Perdue SAS 12/30/1996 SAS @ VAN W 39 11 5 8 62.5 0 0 - 1 2 50.0 4 9 13 0 1 3 2 2 3
+p523
+aVStephen Howard SAS 12/29/1996 SAS @ POR L 15 6 1 3 33.3 0 0 - 4 4 100.0 2 1 3 0 2 0 2 1 9
+p524
+aVWill Perdue SAS 12/29/1996 SAS @ POR L 24 4 1 3 33.3 0 0 - 2 2 100.0 4 4 8 0 2 0 2 3 -10
+p525
+aVDominique Wilkins SAS 12/29/1996 SAS @ POR L 21 16 3 16 18.8 1 5 20.0 9 14 64.3 2 2 4 1 1 2 1 0 -20
+p526
+aVSean Elliott SAS 12/29/1996 SAS @ POR L 20 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 1 3 -19
+p527
+aVGaylon Nickerson SAS 12/29/1996 SAS @ POR L 15 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 3
+p528
+aVVernon Maxwell SAS 12/29/1996 SAS @ POR L 22 4 2 7 28.6 0 2 0.0 0 2 0.0 0 0 0 0 2 0 3 3 -27
+p529
+aVCarl Herrera SAS 12/29/1996 SAS @ POR L 15 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 0 1 1 0 3 -15
+p530
+aVAvery Johnson SAS 12/29/1996 SAS @ POR L 28 7 2 6 33.3 0 0 - 3 5 60.0 0 0 0 4 1 0 2 1 -31
+p531
+aVCory Alexander SAS 12/29/1996 SAS @ POR L 20 13 5 8 62.5 1 2 50.0 2 3 66.7 0 6 6 6 2 0 3 2 7
+p532
+aVMonty Williams SAS 12/29/1996 SAS @ POR L 36 15 6 10 60.0 0 0 - 3 4 75.0 3 2 5 2 0 1 5 4 -3
+p533
+aVGreg Anderson SAS 12/29/1996 SAS @ POR L 24 7 3 4 75.0 0 0 - 1 1 100.0 2 2 4 0 0 1 4 4 -14
+p534
+aVMonty Williams SAS 12/26/1996 SAS @ SEA L 14 9 2 6 33.3 0 0 - 5 6 83.3 1 1 2 0 2 1 1 0 7
+p535
+aVCarl Herrera SAS 12/26/1996 SAS @ SEA L 21 10 4 6 66.7 0 0 - 2 2 100.0 1 1 2 0 1 0 2 5 5
+p536
+aVCory Alexander SAS 12/26/1996 SAS @ SEA L 17 3 1 6 16.7 0 5 0.0 1 2 50.0 0 2 2 2 0 0 1 1 -1
+p537
+aVVinny Del Negro SAS 12/26/1996 SAS @ SEA L 21 10 5 7 71.4 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -2
+p538
+aVDominique Wilkins SAS 12/26/1996 SAS @ SEA L 32 17 8 15 53.3 0 4 0.0 1 1 100.0 1 6 7 3 0 0 0 2 -11
+p539
+aVVernon Maxwell SAS 12/26/1996 SAS @ SEA L 27 14 5 9 55.6 2 4 50.0 2 2 100.0 0 1 1 0 0 0 4 5 -6
+p540
+aVSean Elliott SAS 12/26/1996 SAS @ SEA L 34 17 5 8 62.5 0 1 0.0 7 7 100.0 0 2 2 6 1 1 1 2 -15
+p541
+aVWill Perdue SAS 12/26/1996 SAS @ SEA L 29 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 1 2 0 2 -14
+p542
+aVAvery Johnson SAS 12/26/1996 SAS @ SEA L 32 2 1 7 14.3 0 0 - 0 0 - 0 2 2 6 1 0 2 5 -7
+p543
+aVGreg Anderson SAS 12/26/1996 SAS @ SEA L 14 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 2 2 4
+p544
+aVMonty Williams SAS 12/23/1996 SAS vs. MIA L 14 10 4 8 50.0 0 0 - 2 2 100.0 3 2 5 0 1 1 1 3 5
+p545
+aVDavid Robinson SAS 12/23/1996 SAS vs. MIA L 26 18 5 8 62.5 0 0 - 8 10 80.0 1 5 6 1 2 2 0 1 -1
+p546
+aVAvery Johnson SAS 12/23/1996 SAS vs. MIA L 38 8 4 8 50.0 0 1 0.0 0 0 - 0 0 0 5 1 0 3 1 -14
+p547
+aVVernon Maxwell SAS 12/23/1996 SAS vs. MIA L 14 4 2 4 50.0 0 1 0.0 0 2 0.0 0 1 1 2 1 0 2 2 -7
+p548
+aVSean Elliott SAS 12/23/1996 SAS vs. MIA L 38 18 7 14 50.0 1 1 100.0 3 4 75.0 3 4 7 1 0 0 2 3 -9
+p549
+aVVinny Del Negro SAS 12/23/1996 SAS vs. MIA L 34 8 3 7 42.9 2 3 66.7 0 0 - 2 1 3 2 0 0 1 0 -4
+p550
+aVCory Alexander SAS 12/23/1996 SAS vs. MIA L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 2 3 3
+p551
+aVDominique Wilkins SAS 12/23/1996 SAS vs. MIA L 33 11 2 10 20.0 0 4 0.0 7 8 87.5 1 4 5 1 0 1 2 1 -14
+p552
+aVWill Perdue SAS 12/23/1996 SAS vs. MIA L 31 0 0 2 0.0 0 0 - 0 0 - 1 6 7 0 0 2 2 5 -11
+p553
+aVGreg Anderson SAS 12/23/1996 SAS vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p554
+aVGreg Anderson SAS 12/21/1996 SAS vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p555
+aVDavid Robinson SAS 12/21/1996 SAS vs. PHX W 25 12 4 12 33.3 0 0 - 4 6 66.7 5 5 10 1 1 0 0 3 8
+p556
+aVCory Alexander SAS 12/21/1996 SAS vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p557
+aVSean Elliott SAS 12/21/1996 SAS vs. PHX W 40 29 9 15 60.0 5 8 62.5 6 7 85.7 0 5 5 5 1 0 1 1 20
+p558
+aVWill Perdue SAS 12/21/1996 SAS vs. PHX W 35 10 4 5 80.0 0 0 - 2 2 100.0 3 9 12 1 1 1 2 1 18
+p559
+aVMonty Williams SAS 12/21/1996 SAS vs. PHX W 9 2 1 1 100.0 0 0 - 0 0 - 1 5 6 0 1 0 0 2 -5
+p560
+aVStephen Howard SAS 12/21/1996 SAS vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p561
+aVVinny Del Negro SAS 12/21/1996 SAS vs. PHX W 26 10 4 8 50.0 0 1 0.0 2 2 100.0 0 3 3 6 1 0 1 0 15
+p562
+aVDominique Wilkins SAS 12/21/1996 SAS vs. PHX W 32 24 8 18 44.4 1 6 16.7 7 9 77.8 1 7 8 0 0 0 1 1 0
+p563
+aVVernon Maxwell SAS 12/21/1996 SAS vs. PHX W 22 2 1 8 12.5 0 4 0.0 0 0 - 1 1 2 4 0 0 2 1 -2
+p564
+aVAvery Johnson SAS 12/21/1996 SAS vs. PHX W 44 12 6 13 46.2 0 0 - 0 0 - 1 1 2 10 4 0 3 6 19
+p565
+aVAvery Johnson SAS 12/19/1996 SAS @ HOU W 35 15 7 10 70.0 0 0 - 1 2 50.0 0 0 0 6 1 0 2 1 15
+p566
+aVStephen Howard SAS 12/19/1996 SAS @ HOU W 2 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -3
+p567
+aVWill Perdue SAS 12/19/1996 SAS @ HOU W 27 6 3 3 100.0 0 0 - 0 0 - 1 6 7 0 0 0 1 6 10
+p568
+aVGreg Anderson SAS 12/19/1996 SAS @ HOU W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p569
+aVDominique Wilkins SAS 12/19/1996 SAS @ HOU W 32 24 8 13 61.5 4 5 80.0 4 5 80.0 3 3 6 3 0 1 2 0 11
+p570
+aVSean Elliott SAS 12/19/1996 SAS @ HOU W 34 16 6 12 50.0 3 5 60.0 1 1 100.0 1 6 7 2 0 0 2 3 6
+p571
+aVVernon Maxwell SAS 12/19/1996 SAS @ HOU W 23 11 5 12 41.7 1 4 25.0 0 2 0.0 0 0 0 4 5 0 0 1 7
+p572
+aVMonty Williams SAS 12/19/1996 SAS @ HOU W 16 4 2 2 100.0 0 0 - 0 0 - 1 0 1 3 2 0 3 5 10
+p573
+aVVinny Del Negro SAS 12/19/1996 SAS @ HOU W 25 12 4 10 40.0 1 2 50.0 3 3 100.0 0 4 4 5 0 0 0 1 7
+p574
+aVDavid Robinson SAS 12/19/1996 SAS @ HOU W 26 20 8 14 57.1 0 0 - 4 11 36.4 5 4 9 4 0 0 4 2 7
+p575
+aVCory Alexander SAS 12/19/1996 SAS @ HOU W 13 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 2 0 0 0 0 -1
+p576
+aVCory Alexander SAS 12/14/1996 SAS vs. DAL W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 1 0 1 1 -3
+p577
+aVCarl Herrera SAS 12/14/1996 SAS vs. DAL W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p578
+aVWill Perdue SAS 12/14/1996 SAS vs. DAL W 32 4 2 4 50.0 0 0 - 0 0 - 2 7 9 1 0 4 2 2 -5
+p579
+aVVinny Del Negro SAS 12/14/1996 SAS vs. DAL W 28 13 5 11 45.5 3 5 60.0 0 0 - 0 1 1 4 0 0 2 2 2
+p580
+aVVernon Maxwell SAS 12/14/1996 SAS vs. DAL W 20 8 3 9 33.3 0 3 0.0 2 2 100.0 0 0 0 1 2 0 0 2 -1
+p581
+aVDavid Robinson SAS 12/14/1996 SAS vs. DAL W 25 27 10 13 76.9 0 0 - 7 10 70.0 4 6 10 1 1 2 1 1 3
+p582
+aVMonty Williams SAS 12/14/1996 SAS vs. DAL W 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 0
+p583
+aVGreg Anderson SAS 12/14/1996 SAS vs. DAL W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p584
+aVSean Elliott SAS 12/14/1996 SAS vs. DAL W 35 19 7 12 58.3 1 4 25.0 4 6 66.7 1 2 3 6 1 0 1 3 1
+p585
+aVAvery Johnson SAS 12/14/1996 SAS vs. DAL W 36 10 4 8 50.0 0 1 0.0 2 4 50.0 0 2 2 9 2 0 0 0 4
+p586
+aVDominique Wilkins SAS 12/14/1996 SAS vs. DAL W 33 15 6 14 42.9 3 6 50.0 0 2 0.0 2 6 8 0 2 0 0 1 10
+p587
+aVAvery Johnson SAS 12/12/1996 SAS @ LAC L 39 10 4 8 50.0 0 0 - 2 4 50.0 1 2 3 3 1 0 2 3 -1
+p588
+aVCory Alexander SAS 12/12/1996 SAS @ LAC L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -2
+p589
+aVSean Elliott SAS 12/12/1996 SAS @ LAC L 35 8 3 11 27.3 0 4 0.0 2 3 66.7 0 3 3 2 3 0 4 2 -6
+p590
+aVVernon Maxwell SAS 12/12/1996 SAS @ LAC L 23 18 6 11 54.5 2 5 40.0 4 4 100.0 0 2 2 1 0 0 2 4 -4
+p591
+aVCarl Herrera SAS 12/12/1996 SAS @ LAC L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p592
+aVMonty Williams SAS 12/12/1996 SAS @ LAC L 8 4 2 3 66.7 0 0 - 0 0 - 2 0 2 2 1 0 0 2 3
+p593
+aVWill Perdue SAS 12/12/1996 SAS @ LAC L 23 5 2 2 100.0 0 0 - 1 1 100.0 0 3 3 0 1 1 1 4 4
+p594
+aVDavid Robinson SAS 12/12/1996 SAS @ LAC L 25 20 6 12 50.0 0 0 - 8 11 72.7 2 5 7 1 1 1 2 1 -1
+p595
+aVDominique Wilkins SAS 12/12/1996 SAS @ LAC L 28 19 6 13 46.2 2 5 40.0 5 6 83.3 3 3 6 0 1 1 1 2 -6
+p596
+aVGreg Anderson SAS 12/12/1996 SAS @ LAC L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -9
+p597
+aVVinny Del Negro SAS 12/12/1996 SAS @ LAC L 30 8 2 8 25.0 0 1 0.0 4 4 100.0 0 3 3 5 0 0 0 3 7
+p598
+aVDavid Robinson SAS 12/10/1996 SAS @ PHX L 19 9 3 13 23.1 0 0 - 3 4 75.0 2 7 9 0 1 1 1 1 5
+p599
+aVGreg Anderson SAS 12/10/1996 SAS @ PHX L 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -14
+p600
+aVVernon Maxwell SAS 12/10/1996 SAS @ PHX L 27 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 0 0 0 5 1 -28
+p601
+aVCory Alexander SAS 12/10/1996 SAS @ PHX L 14 9 3 7 42.9 3 4 75.0 0 0 - 1 0 1 1 2 0 2 3 5
+p602
+aVVinny Del Negro SAS 12/10/1996 SAS @ PHX L 21 7 3 6 50.0 1 1 100.0 0 0 - 1 2 3 2 1 0 1 2 11
+p603
+aVDominique Wilkins SAS 12/10/1996 SAS @ PHX L 24 17 6 12 50.0 1 5 20.0 4 4 100.0 1 3 4 2 2 0 2 1 -18
+p604
+aVCarl Herrera SAS 12/10/1996 SAS @ PHX L 21 4 1 5 20.0 0 0 - 2 2 100.0 1 6 7 0 0 1 3 5 -5
+p605
+aVSean Elliott SAS 12/10/1996 SAS @ PHX L 33 12 4 7 57.1 1 2 50.0 3 3 100.0 1 2 3 2 0 0 4 2 -14
+p606
+aVMonty Williams SAS 12/10/1996 SAS @ PHX L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p607
+aVAvery Johnson SAS 12/10/1996 SAS @ PHX L 34 6 3 7 42.9 0 0 - 0 0 - 1 1 2 6 1 0 4 2 -22
+p608
+aVWill Perdue SAS 12/10/1996 SAS @ PHX L 30 6 2 2 100.0 0 0 - 2 3 66.7 1 5 6 1 1 0 2 2 0
+p609
+aVGreg Anderson SAS 12/08/1996 SAS @ GSW L 23 9 4 7 57.1 0 0 - 1 2 50.0 3 3 6 0 1 1 1 3 -8
+p610
+aVTim Kempton SAS 12/08/1996 SAS @ GSW L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p611
+aVCarl Herrera SAS 12/08/1996 SAS @ GSW L 22 12 6 11 54.5 0 0 - 0 2 0.0 0 3 3 0 0 0 1 3 -12
+p612
+aVAvery Johnson SAS 12/08/1996 SAS @ GSW L 27 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 5 1 0 1 1 -18
+p613
+aVVernon Maxwell SAS 12/08/1996 SAS @ GSW L 30 5 1 7 14.3 0 2 0.0 3 4 75.0 1 3 4 2 1 0 3 1 -15
+p614
+aVWill Perdue SAS 12/08/1996 SAS @ GSW L 29 15 6 8 75.0 0 0 - 3 4 75.0 3 3 6 0 1 3 3 2 -21
+p615
+aVVinny Del Negro SAS 12/08/1996 SAS @ GSW L 31 6 2 10 20.0 0 2 0.0 2 2 100.0 1 3 4 8 1 0 2 2 -19
+p616
+aVDominique Wilkins SAS 12/08/1996 SAS @ GSW L 19 15 5 12 41.7 1 4 25.0 4 5 80.0 1 1 2 2 1 1 1 0 -10
+p617
+aVCory Alexander SAS 12/08/1996 SAS @ GSW L 8 4 1 3 33.3 1 3 33.3 1 2 50.0 0 0 0 0 0 0 1 1 0
+p618
+aVSean Elliott SAS 12/08/1996 SAS @ GSW L 25 10 4 11 36.4 0 2 0.0 2 2 100.0 3 1 4 1 1 0 1 0 -18
+p619
+aVMonty Williams SAS 12/08/1996 SAS @ GSW L 20 10 2 4 50.0 0 0 - 6 8 75.0 2 1 3 1 1 0 1 1 -7
+p620
+aVTim Kempton SAS 12/06/1996 SAS vs. VAN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p621
+aVMonty Williams SAS 12/06/1996 SAS vs. VAN L 7 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 -3
+p622
+aVDominique Wilkins SAS 12/06/1996 SAS vs. VAN L 31 24 10 17 58.8 2 4 50.0 2 2 100.0 4 5 9 3 0 0 2 4 -17
+p623
+aVCory Alexander SAS 12/06/1996 SAS vs. VAN L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -4
+p624
+aVCarl Herrera SAS 12/06/1996 SAS vs. VAN L 24 8 4 8 50.0 0 0 - 0 1 0.0 3 0 3 0 0 1 1 4 5
+p625
+aVVernon Maxwell SAS 12/06/1996 SAS vs. VAN L 27 13 6 11 54.5 1 2 50.0 0 1 0.0 1 1 2 5 1 1 2 1 -10
+p626
+aVVinny Del Negro SAS 12/06/1996 SAS vs. VAN L 30 3 1 6 16.7 0 3 0.0 1 2 50.0 0 1 1 7 0 0 0 1 -6
+p627
+aVAvery Johnson SAS 12/06/1996 SAS vs. VAN L 34 3 1 8 12.5 0 0 - 1 2 50.0 0 2 2 4 1 0 1 1 -12
+p628
+aVWill Perdue SAS 12/06/1996 SAS vs. VAN L 32 14 5 8 62.5 0 0 - 4 7 57.1 6 5 11 0 1 3 1 0 -18
+p629
+aVGreg Anderson SAS 12/06/1996 SAS vs. VAN L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p630
+aVSean Elliott SAS 12/06/1996 SAS vs. VAN L 41 22 8 18 44.4 2 4 50.0 4 6 66.7 1 6 7 6 1 1 4 4 -13
+p631
+aVVernon Maxwell SAS 12/04/1996 SAS vs. PHI W 25 13 5 11 45.5 1 4 25.0 2 2 100.0 1 3 4 3 2 0 4 2 -1
+p632
+aVCarl Herrera SAS 12/04/1996 SAS vs. PHI W 15 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 0 0
+p633
+aVCory Alexander SAS 12/04/1996 SAS vs. PHI W 12 5 2 4 50.0 0 0 - 1 4 25.0 1 1 2 2 1 0 0 5 -7
+p634
+aVGreg Anderson SAS 12/04/1996 SAS vs. PHI W 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -6
+p635
+aVAvery Johnson SAS 12/04/1996 SAS vs. PHI W 36 24 8 14 57.1 0 0 - 8 10 80.0 0 1 1 11 2 1 2 3 17
+p636
+aVWill Perdue SAS 12/04/1996 SAS vs. PHI W 35 12 5 5 100.0 0 0 - 2 2 100.0 3 4 7 0 1 9 0 5 14
+p637
+aVMonty Williams SAS 12/04/1996 SAS vs. PHI W 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 0 0 0 1 2
+p638
+aVSean Elliott SAS 12/04/1996 SAS vs. PHI W 34 19 5 13 38.5 1 3 33.3 8 10 80.0 0 5 5 1 1 2 3 0 8
+p639
+aVVinny Del Negro SAS 12/04/1996 SAS vs. PHI W 24 12 5 7 71.4 2 2 100.0 0 0 - 0 1 1 4 1 0 1 2 13
+p640
+aVDominique Wilkins SAS 12/04/1996 SAS vs. PHI W 33 24 9 18 50.0 3 6 50.0 3 6 50.0 2 8 10 4 1 2 4 3 10
+p641
+aVVinny Del Negro SAS 11/30/1996 SAS vs. CHI L 23 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 3 0 0 2 0 5
+p642
+aVWill Perdue SAS 11/30/1996 SAS vs. CHI L 34 9 4 6 66.7 0 0 - 1 2 50.0 7 16 23 0 1 0 2 5 -4
+p643
+aVVernon Maxwell SAS 11/30/1996 SAS vs. CHI L 32 6 3 13 23.1 0 4 0.0 0 1 0.0 0 2 2 0 1 1 2 2 -13
+p644
+aVGreg Anderson SAS 11/30/1996 SAS vs. CHI L 11 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 1 0 0 3 -7
+p645
+aVDominique Wilkins SAS 11/30/1996 SAS vs. CHI L 42 25 8 20 40.0 3 9 33.3 6 6 100.0 3 7 10 3 0 2 4 1 -3
+p646
+aVMonty Williams SAS 11/30/1996 SAS vs. CHI L 5 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 3
+p647
+aVCarl Herrera SAS 11/30/1996 SAS vs. CHI L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p648
+aVSean Elliott SAS 11/30/1996 SAS vs. CHI L 43 17 7 19 36.8 2 4 50.0 1 1 100.0 1 1 2 3 1 0 3 4 -12
+p649
+aVAvery Johnson SAS 11/30/1996 SAS vs. CHI L 41 23 8 17 47.1 0 1 0.0 7 7 100.0 1 0 1 6 1 0 3 3 -10
+p650
+aVWill Perdue SAS 11/27/1996 SAS vs. POR L 21 2 1 7 14.3 0 0 - 0 0 - 3 2 5 1 0 0 1 4 -3
+p651
+aVCarl Herrera SAS 11/27/1996 SAS vs. POR L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p652
+aVDominique Wilkins SAS 11/27/1996 SAS vs. POR L 43 33 11 21 52.4 4 8 50.0 7 9 77.8 3 8 11 0 2 0 2 5 -12
+p653
+aVMonty Williams SAS 11/27/1996 SAS vs. POR L 17 8 4 7 57.1 0 0 - 0 0 - 2 3 5 1 0 0 1 4 -4
+p654
+aVVernon Maxwell SAS 11/27/1996 SAS vs. POR L 25 10 4 10 40.0 2 5 40.0 0 0 - 0 3 3 0 1 0 0 1 -3
+p655
+aVVinny Del Negro SAS 11/27/1996 SAS vs. POR L 30 11 5 7 71.4 0 1 0.0 1 1 100.0 1 0 1 9 0 0 0 1 -11
+p656
+aVGreg Anderson SAS 11/27/1996 SAS vs. POR L 12 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 4 -7
+p657
+aVAvery Johnson SAS 11/27/1996 SAS vs. POR L 33 18 8 10 80.0 0 0 - 2 2 100.0 0 1 1 12 2 0 4 5 -8
+p658
+aVCory Alexander SAS 11/27/1996 SAS vs. POR L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p659
+aVTim Kempton SAS 11/27/1996 SAS vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p660
+aVSean Elliott SAS 11/27/1996 SAS vs. POR L 37 27 10 18 55.6 0 1 0.0 7 8 87.5 3 1 4 1 2 1 3 6 -6
+p661
+aVWill Perdue SAS 11/26/1996 SAS @ DAL L 24 7 3 6 50.0 0 0 - 1 3 33.3 3 5 8 0 0 0 2 2 -13
+p662
+aVVinny Del Negro SAS 11/26/1996 SAS @ DAL L 18 7 3 4 75.0 1 2 50.0 0 0 - 1 1 2 2 1 0 5 0 -13
+p663
+aVSean Elliott SAS 11/26/1996 SAS @ DAL L 43 12 4 10 40.0 2 4 50.0 2 2 100.0 2 3 5 5 2 0 0 2 -4
+p664
+aVDominique Wilkins SAS 11/26/1996 SAS @ DAL L 37 32 8 17 47.1 1 5 20.0 15 16 93.8 3 4 7 1 0 0 3 2 -1
+p665
+aVGreg Anderson SAS 11/26/1996 SAS @ DAL L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p666
+aVAvery Johnson SAS 11/26/1996 SAS @ DAL L 45 12 5 10 50.0 1 2 50.0 1 2 50.0 1 0 1 8 1 0 1 2 -3
+p667
+aVVernon Maxwell SAS 11/26/1996 SAS @ DAL L 33 21 7 18 38.9 5 11 45.5 2 3 66.7 1 0 1 3 1 1 0 5 8
+p668
+aVCarl Herrera SAS 11/26/1996 SAS @ DAL L 10 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -2
+p669
+aVMonty Williams SAS 11/26/1996 SAS @ DAL L 25 8 4 9 44.4 0 0 - 0 2 0.0 5 3 8 1 0 1 0 4 8
+p670
+aVDominique Wilkins SAS 11/24/1996 SAS @ VAN L 36 26 8 17 47.1 2 6 33.3 8 9 88.9 6 5 11 1 1 1 1 3 1
+p671
+aVAvery Johnson SAS 11/24/1996 SAS @ VAN L 28 8 3 9 33.3 0 0 - 2 3 66.7 1 1 2 4 0 0 2 2 -2
+p672
+aVVernon Maxwell SAS 11/24/1996 SAS @ VAN L 32 2 1 8 12.5 0 6 0.0 0 0 - 1 4 5 2 1 0 0 2 -7
+p673
+aVWill Perdue SAS 11/24/1996 SAS @ VAN L 23 14 5 7 71.4 0 0 - 4 4 100.0 2 4 6 1 0 0 2 1 -5
+p674
+aVSean Elliott SAS 11/24/1996 SAS @ VAN L 46 17 4 15 26.7 2 6 33.3 7 10 70.0 3 4 7 8 0 0 5 3 -3
+p675
+aVCory Alexander SAS 11/24/1996 SAS @ VAN L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -7
+p676
+aVCarl Herrera SAS 11/24/1996 SAS @ VAN L 15 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 1 5 1 -8
+p677
+aVVinny Del Negro SAS 11/24/1996 SAS @ VAN L 32 13 4 10 40.0 1 5 20.0 4 5 80.0 0 3 3 5 2 0 0 2 6
+p678
+aVGreg Anderson SAS 11/24/1996 SAS @ VAN L 25 8 4 6 66.7 0 0 - 0 0 - 4 6 10 0 1 0 1 5 0
+p679
+aVWill Perdue SAS 11/22/1996 SAS @ LAL L 30 17 8 10 80.0 0 0 - 1 2 50.0 3 4 7 0 0 0 1 6 -8
+p680
+aVDominique Wilkins SAS 11/22/1996 SAS @ LAL L 34 19 7 16 43.8 2 5 40.0 3 3 100.0 6 7 13 2 1 1 4 3 -4
+p681
+aVCarl Herrera SAS 11/22/1996 SAS @ LAL L 17 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 0 2 3 -5
+p682
+aVVernon Maxwell SAS 11/22/1996 SAS @ LAL L 43 13 5 14 35.7 1 5 20.0 2 7 28.6 0 1 1 1 3 1 2 0 -12
+p683
+aVAvery Johnson SAS 11/22/1996 SAS @ LAL L 43 15 7 13 53.8 0 0 - 1 2 50.0 0 2 2 14 1 0 3 1 -7
+p684
+aVGreg Anderson SAS 11/22/1996 SAS @ LAL L 12 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 0 3 3 2
+p685
+aVCory Alexander SAS 11/22/1996 SAS @ LAL L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -3
+p686
+aVMonty Williams SAS 11/22/1996 SAS @ LAL L 12 5 1 2 50.0 0 0 - 3 4 75.0 1 0 1 1 1 1 2 3 -3
+p687
+aVTim Kempton SAS 11/22/1996 SAS @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p688
+aVVinny Del Negro SAS 11/22/1996 SAS @ LAL L 42 10 5 10 50.0 0 2 0.0 0 0 - 2 2 4 1 3 0 1 3 -9
+p689
+aVVinny Del Negro SAS 11/20/1996 SAS vs. LAC L 24 12 4 6 66.7 1 1 100.0 3 3 100.0 1 1 2 2 1 0 3 2 -8
+p690
+aVTim Kempton SAS 11/20/1996 SAS vs. LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p691
+aVDominique Wilkins SAS 11/20/1996 SAS vs. LAC L 36 24 7 18 38.9 0 4 0.0 10 10 100.0 6 3 9 0 2 1 3 5 -9
+p692
+aVAvery Johnson SAS 11/20/1996 SAS vs. LAC L 37 3 1 7 14.3 0 0 - 1 2 50.0 0 3 3 11 3 0 4 1 -1
+p693
+aVVernon Maxwell SAS 11/20/1996 SAS vs. LAC L 25 13 5 12 41.7 2 6 33.3 1 2 50.0 0 2 2 0 3 0 1 2 -11
+p694
+aVCory Alexander SAS 11/20/1996 SAS vs. LAC L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -12
+p695
+aVSean Elliott SAS 11/20/1996 SAS vs. LAC L 40 8 3 14 21.4 0 5 0.0 2 2 100.0 1 3 4 2 1 1 1 2 -4
+p696
+aVWill Perdue SAS 11/20/1996 SAS vs. LAC L 40 13 4 9 44.4 0 0 - 5 8 62.5 7 7 14 1 0 0 2 5 -2
+p697
+aVGreg Anderson SAS 11/20/1996 SAS vs. LAC L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -4
+p698
+aVCarl Herrera SAS 11/20/1996 SAS vs. LAC L 25 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 5 -7
+p699
+aVSean Elliott SAS 11/17/1996 SAS vs. GSW L 39 14 6 12 50.0 0 2 0.0 2 4 50.0 3 2 5 1 0 3 0 2 -10
+p700
+aVMonty Williams SAS 11/17/1996 SAS vs. GSW L 4 3 1 2 50.0 0 0 - 1 3 33.3 1 0 1 0 0 0 0 2 2
+p701
+aVVernon Maxwell SAS 11/17/1996 SAS vs. GSW L 34 17 8 18 44.4 1 9 11.1 0 0 - 1 4 5 3 0 0 4 5 -11
+p702
+aVCory Alexander SAS 11/17/1996 SAS vs. GSW L 8 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 2 2 0 1 0 5
+p703
+aVCarl Herrera SAS 11/17/1996 SAS vs. GSW L 15 2 1 4 25.0 0 0 - 0 0 - 1 6 7 0 0 0 0 1 2
+p704
+aVGreg Anderson SAS 11/17/1996 SAS vs. GSW L 20 0 0 0 - 0 0 - 0 0 - 1 2 3 0 2 0 0 2 -13
+p705
+aVDominique Wilkins SAS 11/17/1996 SAS vs. GSW L 30 11 4 13 30.8 1 7 14.3 2 2 100.0 3 4 7 2 1 0 2 1 -14
+p706
+aVWill Perdue SAS 11/17/1996 SAS vs. GSW L 24 7 2 5 40.0 0 0 - 3 6 50.0 5 2 7 2 0 4 2 3 0
+p707
+aVAvery Johnson SAS 11/17/1996 SAS vs. GSW L 40 17 8 14 57.1 0 0 - 1 1 100.0 0 1 1 9 4 0 1 3 -15
+p708
+aVVinny Del Negro SAS 11/17/1996 SAS vs. GSW L 26 16 6 14 42.9 1 2 50.0 3 3 100.0 2 2 4 5 0 1 2 3 4
+p709
+aVAvery Johnson SAS 11/15/1996 SAS vs. IND L 29 10 5 11 45.5 0 1 0.0 0 1 0.0 0 1 1 7 2 1 3 1 -20
+p710
+aVGreg Anderson SAS 11/15/1996 SAS vs. IND L 23 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 2 0 0 4 -7
+p711
+aVDominique Wilkins SAS 11/15/1996 SAS vs. IND L 41 19 6 18 33.3 2 6 33.3 5 6 83.3 7 9 16 1 0 0 3 4 -15
+p712
+aVCarl Herrera SAS 11/15/1996 SAS vs. IND L 23 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 4 -12
+p713
+aVMonty Williams SAS 11/15/1996 SAS vs. IND L 22 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 0 0 1 3 3
+p714
+aVVernon Maxwell SAS 11/15/1996 SAS vs. IND L 42 16 7 21 33.3 2 10 20.0 0 0 - 0 5 5 4 0 0 1 4 -9
+p715
+aVCory Alexander SAS 11/15/1996 SAS vs. IND L 19 15 5 8 62.5 2 5 40.0 3 4 75.0 0 0 0 7 2 0 2 2 5
+p716
+aVTim Kempton SAS 11/15/1996 SAS vs. IND L 9 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p717
+aVSean Elliott SAS 11/15/1996 SAS vs. IND L 33 9 3 9 33.3 1 4 25.0 2 5 40.0 1 2 3 1 1 2 3 1 -20
+p718
+aVGreg Anderson SAS 11/13/1996 SAS vs. LAL W 24 4 2 2 100.0 0 0 - 0 0 - 1 7 8 1 4 2 3 5 14
+p719
+aVCarl Herrera SAS 11/13/1996 SAS vs. LAL W 21 9 4 7 57.1 0 0 - 1 2 50.0 4 2 6 0 2 0 0 4 -9
+p720
+aVSean Elliott SAS 11/13/1996 SAS vs. LAL W 45 14 5 11 45.5 1 3 33.3 3 4 75.0 1 6 7 11 1 0 5 4 14
+p721
+aVAvery Johnson SAS 11/13/1996 SAS vs. LAL W 39 16 7 11 63.6 0 0 - 2 2 100.0 1 2 3 10 3 0 1 1 17
+p722
+aVCory Alexander SAS 11/13/1996 SAS vs. LAL W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 2 -5
+p723
+aVMonty Williams SAS 11/13/1996 SAS vs. LAL W 11 2 1 3 33.3 0 0 - 0 4 0.0 1 4 5 0 0 2 3 1 -3
+p724
+aVTim Kempton SAS 11/13/1996 SAS vs. LAL W 13 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 1 3 0 2
+p725
+aVVernon Maxwell SAS 11/13/1996 SAS vs. LAL W 40 22 9 20 45.0 3 8 37.5 1 2 50.0 0 0 0 1 0 0 1 2 13
+p726
+aVDominique Wilkins SAS 11/13/1996 SAS vs. LAL W 39 28 10 19 52.6 4 9 44.4 4 5 80.0 6 5 11 4 2 2 2 0 17
+p727
+aVCarl Herrera SAS 11/10/1996 SAS @ POR L 7 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p728
+aVGreg Anderson SAS 11/10/1996 SAS @ POR L 17 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 2 0 3 4 -14
+p729
+aVCory Alexander SAS 11/10/1996 SAS @ POR L 13 2 0 5 0.0 0 3 0.0 2 2 100.0 1 1 2 2 0 0 0 1 5
+p730
+aVVinny Del Negro SAS 11/10/1996 SAS @ POR L 16 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -13
+p731
+aVTim Kempton SAS 11/10/1996 SAS @ POR L 18 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 2 0 -4
+p732
+aVVernon Maxwell SAS 11/10/1996 SAS @ POR L 36 17 4 15 26.7 2 7 28.6 7 10 70.0 0 3 3 2 2 0 1 3 0
+p733
+aVMonty Williams SAS 11/10/1996 SAS @ POR L 26 14 6 7 85.7 0 0 - 2 3 66.7 1 3 4 0 0 3 0 4 2
+p734
+aVSean Elliott SAS 11/10/1996 SAS @ POR L 38 12 4 11 36.4 2 5 40.0 2 2 100.0 2 1 3 4 0 0 3 2 -17
+p735
+aVDominique Wilkins SAS 11/10/1996 SAS @ POR L 35 18 9 20 45.0 0 2 0.0 0 0 - 7 4 11 2 0 1 0 1 -10
+p736
+aVAvery Johnson SAS 11/10/1996 SAS @ POR L 35 14 6 7 85.7 1 1 100.0 1 2 50.0 1 0 1 3 3 0 1 2 -18
+p737
+aVVinny Del Negro SAS 11/08/1996 SAS vs. SEA L 31 11 5 11 45.5 0 6 0.0 1 1 100.0 0 3 3 5 1 0 1 3 -8
+p738
+aVGreg Anderson SAS 11/08/1996 SAS vs. SEA L 36 4 1 3 33.3 0 0 - 2 2 100.0 1 7 8 0 1 6 2 2 -12
+p739
+aVTim Kempton SAS 11/08/1996 SAS vs. SEA L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p740
+aVAvery Johnson SAS 11/08/1996 SAS vs. SEA L 36 15 7 13 53.8 0 1 0.0 1 4 25.0 1 3 4 7 0 0 2 2 -6
+p741
+aVMonty Williams SAS 11/08/1996 SAS vs. SEA L 14 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 0 0 2 1 2 -4
+p742
+aVVernon Maxwell SAS 11/08/1996 SAS vs. SEA L 27 9 3 10 30.0 0 3 0.0 3 6 50.0 0 1 1 1 0 1 2 3 -6
+p743
+aVCory Alexander SAS 11/08/1996 SAS vs. SEA L 6 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 2 0 0 2 0 -2
+p744
+aVSean Elliott SAS 11/08/1996 SAS vs. SEA L 40 15 6 14 42.9 1 5 20.0 2 3 66.7 3 8 11 3 2 1 2 2 -8
+p745
+aVDominique Wilkins SAS 11/08/1996 SAS vs. SEA L 42 12 5 14 35.7 0 3 0.0 2 5 40.0 2 4 6 3 1 2 5 2 -10
+p746
+aVCarl Herrera SAS 11/08/1996 SAS vs. SEA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -3
+p747
+aVVinny Del Negro SAS 11/06/1996 SAS @ WAS L 20 11 5 7 71.4 1 3 33.3 0 0 - 0 4 4 0 1 0 0 1 4
+p748
+aVAvery Johnson SAS 11/06/1996 SAS @ WAS L 36 8 4 15 26.7 0 1 0.0 0 0 - 1 1 2 11 3 0 2 3 -4
+p749
+aVCharles Smith SAS 11/06/1996 SAS @ WAS L 27 8 3 9 33.3 0 0 - 2 2 100.0 1 5 6 2 0 1 0 3 -8
+p750
+aVCarl Herrera SAS 11/06/1996 SAS @ WAS L 20 4 1 7 14.3 0 0 - 2 4 50.0 1 5 6 1 0 2 0 1 -4
+p751
+aVGreg Anderson SAS 11/06/1996 SAS @ WAS L 28 7 2 2 100.0 0 0 - 3 7 42.9 4 7 11 1 0 0 1 1 -12
+p752
+aVSean Elliott SAS 11/06/1996 SAS @ WAS L 41 18 5 13 38.5 0 3 0.0 8 9 88.9 1 5 6 3 1 0 3 2 -9
+p753
+aVMonty Williams SAS 11/06/1996 SAS @ WAS L 2 4 2 3 66.7 0 0 - 0 0 - 3 0 3 0 1 0 0 2 -1
+p754
+aVVernon Maxwell SAS 11/06/1996 SAS @ WAS L 28 10 5 11 45.5 0 1 0.0 0 0 - 1 1 2 0 1 0 2 3 -12
+p755
+aVDominique Wilkins SAS 11/06/1996 SAS @ WAS L 24 13 5 12 41.7 0 4 0.0 3 4 75.0 2 2 4 0 2 0 1 0 2
+p756
+aVCory Alexander SAS 11/06/1996 SAS @ WAS L 12 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 1 0 2 0 -6
+p757
+aVMonty Williams SAS 11/05/1996 SAS @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p758
+aVGreg Anderson SAS 11/05/1996 SAS @ CLE W 44 4 2 4 50.0 0 0 - 0 0 - 1 12 13 2 1 5 0 2 6
+p759
+aVTim Kempton SAS 11/05/1996 SAS @ CLE W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p760
+aVVinny Del Negro SAS 11/05/1996 SAS @ CLE W 22 14 5 9 55.6 0 2 0.0 4 4 100.0 0 0 0 3 0 0 0 1 -4
+p761
+aVVernon Maxwell SAS 11/05/1996 SAS @ CLE W 26 8 3 10 30.0 1 5 20.0 1 2 50.0 0 1 1 2 1 0 3 2 10
+p762
+aVAvery Johnson SAS 11/05/1996 SAS @ CLE W 42 9 3 9 33.3 0 0 - 3 4 75.0 0 3 3 6 1 3 2 0 16
+p763
+aVDominique Wilkins SAS 11/05/1996 SAS @ CLE W 26 8 3 9 33.3 2 4 50.0 0 0 - 1 2 3 2 0 0 3 1 12
+p764
+aVCharles Smith SAS 11/05/1996 SAS @ CLE W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 3 5 3
+p765
+aVCory Alexander SAS 11/05/1996 SAS @ CLE W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p766
+aVSean Elliott SAS 11/05/1996 SAS @ CLE W 42 17 5 9 55.6 1 2 50.0 6 9 66.7 2 5 7 2 0 1 1 2 11
+p767
+aVCarl Herrera SAS 11/05/1996 SAS @ CLE W 17 10 4 7 57.1 0 0 - 2 4 50.0 0 0 0 0 1 0 4 2 -13
+p768
+aVVinny Del Negro SAS 11/03/1996 SAS vs. DEN L 37 11 4 10 40.0 1 3 33.3 2 2 100.0 1 2 3 1 0 0 0 3 2
+p769
+aVAvery Johnson SAS 11/03/1996 SAS vs. DEN L 37 14 6 13 46.2 1 2 50.0 1 2 50.0 0 4 4 7 5 1 3 3 1
+p770
+aVSean Elliott SAS 11/03/1996 SAS vs. DEN L 47 17 3 10 30.0 2 3 66.7 9 10 90.0 0 8 8 3 1 2 3 1 -4
+p771
+aVCarl Herrera SAS 11/03/1996 SAS vs. DEN L 15 2 1 8 12.5 0 0 - 0 0 - 0 2 2 1 1 2 2 2 -1
+p772
+aVVernon Maxwell SAS 11/03/1996 SAS vs. DEN L 27 4 1 9 11.1 0 4 0.0 2 2 100.0 0 3 3 1 0 0 3 4 -12
+p773
+aVCharles Smith SAS 11/03/1996 SAS vs. DEN L 25 10 4 7 57.1 0 0 - 2 2 100.0 5 5 10 0 0 1 4 5 -10
+p774
+aVMonty Williams SAS 11/03/1996 SAS vs. DEN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p775
+aVDominique Wilkins SAS 11/03/1996 SAS vs. DEN L 22 10 1 13 7.7 0 2 0.0 8 14 57.1 7 1 8 2 0 0 2 1 -13
+p776
+aVCory Alexander SAS 11/03/1996 SAS vs. DEN L 8 6 2 2 100.0 2 2 100.0 0 0 - 1 0 1 0 2 0 1 3 -10
+p777
+aVGreg Anderson SAS 11/03/1996 SAS vs. DEN L 21 5 2 2 100.0 0 0 - 1 1 100.0 1 7 8 1 0 0 1 3 7
+p778
+aVVinny Del Negro SAS 11/01/1996 SAS @ MIN L 18 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -11
+p779
+aVCory Alexander SAS 11/01/1996 SAS @ MIN L 22 3 1 3 33.3 0 2 0.0 1 2 50.0 0 6 6 5 3 0 3 2 10
+p780
+aVDominique Wilkins SAS 11/01/1996 SAS @ MIN L 36 18 7 21 33.3 2 5 40.0 2 2 100.0 3 5 8 2 1 1 2 2 9
+p781
+aVCarl Herrera SAS 11/01/1996 SAS @ MIN L 12 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 1 0 0 1 -13
+p782
+aVMonty Williams SAS 11/01/1996 SAS @ MIN L 7 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 2 7
+p783
+aVCharles Smith SAS 11/01/1996 SAS @ MIN L 28 12 5 6 83.3 0 0 - 2 2 100.0 0 5 5 3 1 3 2 5 5
+p784
+aVSean Elliott SAS 11/01/1996 SAS @ MIN L 41 14 5 11 45.5 1 2 50.0 3 6 50.0 1 7 8 3 1 0 2 3 -11
+p785
+aVVernon Maxwell SAS 11/01/1996 SAS @ MIN L 31 9 3 7 42.9 0 2 0.0 3 4 75.0 0 1 1 1 2 0 4 1 8
+p786
+aVAvery Johnson SAS 11/01/1996 SAS @ MIN L 25 14 6 11 54.5 1 1 100.0 1 2 50.0 0 1 1 5 0 0 3 5 -15
+p787
+aVGreg Anderson SAS 11/01/1996 SAS @ MIN L 20 2 1 3 33.3 0 0 - 0 0 - 2 5 7 0 0 0 1 2 -9
+p788
+a.

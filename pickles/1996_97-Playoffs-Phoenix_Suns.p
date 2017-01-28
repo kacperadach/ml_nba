@@ -1,0 +1,112 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKevin Johnson PHX 05/03/1997 PHX @ SEA L 43 20 8 27 29.6 1 5 20.0 3 3 100.0 1 1 2 4 4 0 1 3 -21
+p2
+aVWesley Person PHX 05/03/1997 PHX @ SEA L 43 26 10 19 52.6 5 10 50.0 1 2 50.0 1 7 8 1 1 1 3 1 -13
+p3
+aVHot Rod Williams PHX 05/03/1997 PHX @ SEA L 22 3 1 2 50.0 0 0 - 1 2 50.0 4 3 7 1 0 1 1 2 2
+p4
+aVLoren Meyer PHX 05/03/1997 PHX @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p5
+aVDanny Manning PHX 05/03/1997 PHX @ SEA L 17 8 4 8 50.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 4 -20
+p6
+aVRex Chapman PHX 05/03/1997 PHX @ SEA L 37 16 6 13 46.2 3 7 42.9 1 2 50.0 1 1 2 5 0 0 3 4 -17
+p7
+aVMike Brown PHX 05/03/1997 PHX @ SEA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p8
+aVMark Bryant PHX 05/03/1997 PHX @ SEA L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -11
+p9
+aVSteve Nash PHX 05/03/1997 PHX @ SEA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p10
+aVCedric Ceballos PHX 05/03/1997 PHX @ SEA L 19 0 0 2 0.0 0 2 0.0 0 0 - 2 1 3 0 0 0 1 4 -19
+p11
+aVJason Kidd PHX 05/03/1997 PHX @ SEA L 43 17 7 12 58.3 3 5 60.0 0 0 - 0 8 8 7 0 1 3 3 -15
+p12
+aVKevin Johnson PHX 05/01/1997 PHX vs. SEA L 49 23 7 19 36.8 1 3 33.3 8 9 88.9 1 3 4 11 2 0 6 6 -5
+p13
+aVWesley Person PHX 05/01/1997 PHX vs. SEA L 33 2 1 5 20.0 0 4 0.0 0 0 - 1 4 5 2 1 0 0 1 -9
+p14
+aVSteve Nash PHX 05/01/1997 PHX vs. SEA L 2 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 1
+p15
+aVMike Brown PHX 05/01/1997 PHX vs. SEA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p16
+aVJason Kidd PHX 05/01/1997 PHX vs. SEA L 48 23 9 17 52.9 2 2 100.0 3 7 42.9 2 4 6 14 1 1 1 1 -12
+p17
+aVHot Rod Williams PHX 05/01/1997 PHX vs. SEA L 22 3 1 3 33.3 0 0 - 1 1 100.0 1 5 6 0 1 2 1 2 -14
+p18
+aVCedric Ceballos PHX 05/01/1997 PHX vs. SEA L 30 16 6 12 50.0 2 6 33.3 2 2 100.0 2 5 7 2 2 0 1 4 11
+p19
+aVWayman Tisdale PHX 05/01/1997 PHX vs. SEA L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p20
+aVDanny Manning PHX 05/01/1997 PHX vs. SEA L 28 19 8 13 61.5 0 1 0.0 3 3 100.0 0 10 10 0 1 1 2 6 6
+p21
+aVRex Chapman PHX 05/01/1997 PHX vs. SEA L 44 22 9 22 40.9 4 12 33.3 0 1 0.0 0 5 5 4 1 0 4 3 0
+p22
+aVWayman Tisdale PHX 04/29/1997 PHX vs. SEA W 3 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p23
+aVSteve Nash PHX 04/29/1997 PHX vs. SEA W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p24
+aVCedric Ceballos PHX 04/29/1997 PHX vs. SEA W 24 6 2 9 22.2 0 1 0.0 2 2 100.0 3 5 8 0 0 2 1 3 3
+p25
+aVWesley Person PHX 04/29/1997 PHX vs. SEA W 40 29 8 14 57.1 6 10 60.0 7 8 87.5 3 7 10 1 1 2 0 2 22
+p26
+aVHot Rod Williams PHX 04/29/1997 PHX vs. SEA W 23 8 4 4 100.0 0 0 - 0 0 - 1 3 4 1 0 2 1 2 11
+p27
+aVKevin Johnson PHX 04/29/1997 PHX vs. SEA W 41 22 6 17 35.3 0 7 0.0 10 12 83.3 3 3 6 8 2 0 2 1 5
+p28
+aVJason Kidd PHX 04/29/1997 PHX vs. SEA W 40 7 2 6 33.3 1 2 50.0 2 2 100.0 1 5 6 10 4 0 4 4 5
+p29
+aVMark Bryant PHX 04/29/1997 PHX vs. SEA W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p30
+aVRex Chapman PHX 04/29/1997 PHX vs. SEA W 35 23 8 14 57.1 4 8 50.0 3 6 50.0 0 3 3 2 1 0 2 3 13
+p31
+aVDanny Manning PHX 04/29/1997 PHX vs. SEA W 25 11 5 8 62.5 0 0 - 1 2 50.0 0 5 5 0 1 3 2 2 -5
+p32
+aVRex Chapman PHX 04/27/1997 PHX @ SEA L 33 18 6 12 50.0 2 4 50.0 4 4 100.0 0 2 2 0 0 0 4 3 -36
+p33
+aVMike Brown PHX 04/27/1997 PHX @ SEA L 13 9 2 4 50.0 0 0 - 5 6 83.3 1 1 2 1 0 0 0 2 -9
+p34
+aVMark Bryant PHX 04/27/1997 PHX @ SEA L 12 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -4
+p35
+aVKevin Johnson PHX 04/27/1997 PHX @ SEA L 31 6 1 12 8.3 0 4 0.0 4 4 100.0 1 2 3 2 1 0 3 4 -29
+p36
+aVWayman Tisdale PHX 04/27/1997 PHX @ SEA L 11 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -17
+p37
+aVHot Rod Williams PHX 04/27/1997 PHX @ SEA L 14 1 0 2 0.0 0 0 - 1 4 25.0 4 0 4 0 0 1 0 2 -27
+p38
+aVWesley Person PHX 04/27/1997 PHX @ SEA L 25 11 4 11 36.4 2 6 33.3 1 2 50.0 0 10 10 1 0 0 1 1 -14
+p39
+aVDanny Manning PHX 04/27/1997 PHX @ SEA L 15 14 3 6 50.0 0 0 - 8 8 100.0 3 2 5 1 0 1 1 5 -8
+p40
+aVSteve Nash PHX 04/27/1997 PHX @ SEA L 9 0 0 4 0.0 0 0 - 0 0 - 1 0 1 1 1 1 2 4 -16
+p41
+aVLoren Meyer PHX 04/27/1997 PHX @ SEA L 10 0 0 4 0.0 0 1 0.0 0 0 - 2 3 5 1 0 1 3 0 -17
+p42
+aVCedric Ceballos PHX 04/27/1997 PHX @ SEA L 30 11 3 10 30.0 1 3 33.3 4 4 100.0 2 5 7 1 2 1 5 1 -11
+p43
+aVJason Kidd PHX 04/27/1997 PHX @ SEA L 33 2 0 7 0.0 0 6 0.0 2 4 50.0 1 4 5 8 3 0 2 1 -32
+p44
+aVCedric Ceballos PHX 04/25/1997 PHX @ SEA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p45
+aVKevin Johnson PHX 04/25/1997 PHX @ SEA W 42 13 4 13 30.8 1 3 33.3 4 5 80.0 2 5 7 5 4 0 6 1 2
+p46
+aVWayman Tisdale PHX 04/25/1997 PHX @ SEA W 18 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -3
+p47
+aVRex Chapman PHX 04/25/1997 PHX @ SEA W 41 42 12 22 54.5 9 17 52.9 9 12 75.0 1 3 4 2 0 0 2 1 5
+p48
+aVMark Bryant PHX 04/25/1997 PHX @ SEA W 12 5 2 2 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 1 0 7
+p49
+aVJason Kidd PHX 04/25/1997 PHX @ SEA W 41 11 3 11 27.3 2 7 28.6 3 6 50.0 0 5 5 10 3 0 3 2 8
+p50
+aVDanny Manning PHX 04/25/1997 PHX @ SEA W 30 14 6 10 60.0 0 1 0.0 2 2 100.0 1 5 6 5 2 2 2 4 11
+p51
+aVLoren Meyer PHX 04/25/1997 PHX @ SEA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p52
+aVWesley Person PHX 04/25/1997 PHX @ SEA W 19 10 2 4 50.0 1 3 33.3 5 6 83.3 0 0 0 1 1 0 0 0 4
+p53
+aVHot Rod Williams PHX 04/25/1997 PHX @ SEA W 19 5 2 4 50.0 0 0 - 1 3 33.3 0 2 2 1 1 2 2 4 -9
+p54
+aVMike Brown PHX 04/25/1997 PHX @ SEA W 11 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 1 3 1
+p55
+a.

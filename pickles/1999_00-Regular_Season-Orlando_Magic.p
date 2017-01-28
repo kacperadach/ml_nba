@@ -1,0 +1,1826 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJohn Amaechi ORL 04/19/2000 ORL vs. TOR W 25 12 4 10 40.0 0 0 - 4 4 100.0 0 4 4 2 0 2 2 1 8
+p2
+aVDerek Strong ORL 04/19/2000 ORL vs. TOR W 22 13 5 10 50.0 0 0 - 3 3 100.0 1 7 8 0 1 0 1 0 -4
+p3
+aVMichael Doleac ORL 04/19/2000 ORL vs. TOR W 23 8 4 8 50.0 0 0 - 0 0 - 2 5 7 0 0 0 1 4 -2
+p4
+aVChucky Atkins ORL 04/19/2000 ORL vs. TOR W 23 0 0 4 0.0 0 0 - 0 2 0.0 0 6 6 7 0 0 4 2 -9
+p5
+aVDarrell Armstrong ORL 04/19/2000 ORL vs. TOR W 25 22 7 11 63.6 2 4 50.0 6 6 100.0 0 3 3 6 4 0 1 1 15
+p6
+aVBo Outlaw ORL 04/19/2000 ORL vs. TOR W 26 12 6 7 85.7 0 0 - 0 0 - 2 3 5 6 2 1 3 2 12
+p7
+aVRon Mercer ORL 04/19/2000 ORL vs. TOR W 33 27 9 14 64.3 0 0 - 9 10 90.0 1 2 3 3 1 0 5 3 10
+p8
+aVCorey Maggette ORL 04/19/2000 ORL vs. TOR W 17 5 1 4 25.0 0 0 - 3 4 75.0 2 3 5 0 0 0 1 2 -8
+p9
+aVPat Garrity ORL 04/19/2000 ORL vs. TOR W 26 2 1 9 11.1 0 4 0.0 0 0 - 1 3 4 2 0 0 0 2 10
+p10
+aVAnthony Johnson ORL 04/19/2000 ORL vs. TOR W 15 3 1 4 25.0 1 2 50.0 0 2 0.0 0 1 1 0 1 0 0 1 -4
+p11
+aVJohnny Taylor ORL 04/19/2000 ORL vs. TOR W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 2
+p12
+aVMichael Doleac ORL 04/17/2000 ORL vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p13
+aVDarrell Armstrong ORL 04/17/2000 ORL vs. MIL L 36 14 5 17 29.4 2 5 40.0 2 2 100.0 0 5 5 6 2 0 5 3 -10
+p14
+aVRon Mercer ORL 04/17/2000 ORL vs. MIL L 34 13 3 13 23.1 0 0 - 7 8 87.5 4 5 9 2 2 0 2 4 2
+p15
+aVChucky Atkins ORL 04/17/2000 ORL vs. MIL L 32 18 7 22 31.8 3 9 33.3 1 2 50.0 0 4 4 6 4 0 3 3 15
+p16
+aVBen Wallace ORL 04/17/2000 ORL vs. MIL L 26 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 2 1 4 0
+p17
+aVBo Outlaw ORL 04/17/2000 ORL vs. MIL L 30 6 3 7 42.9 0 0 - 0 0 - 4 0 4 2 2 2 2 2 -7
+p18
+aVJohn Amaechi ORL 04/17/2000 ORL vs. MIL L 20 3 1 4 25.0 0 0 - 1 2 50.0 2 4 6 1 0 0 2 3 -18
+p19
+aVCorey Maggette ORL 04/17/2000 ORL vs. MIL L 10 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 1 1 1 0 0 -1
+p20
+aVPat Garrity ORL 04/17/2000 ORL vs. MIL L 30 15 6 14 42.9 1 5 20.0 2 2 100.0 1 5 6 1 0 0 1 4 13
+p21
+aVMonty Williams ORL 04/17/2000 ORL vs. MIL L 20 8 3 4 75.0 0 0 - 2 3 66.7 0 1 1 1 1 0 3 2 -3
+p22
+aVDerek Strong ORL 04/16/2000 ORL @ MIA L 3 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p23
+aVAnthony Johnson ORL 04/16/2000 ORL @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p24
+aVBen Wallace ORL 04/16/2000 ORL @ MIA L 26 6 3 5 60.0 0 0 - 0 0 - 5 5 10 1 1 2 4 3 -14
+p25
+aVBo Outlaw ORL 04/16/2000 ORL @ MIA L 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 2 0 0 2 -5
+p26
+aVMonty Williams ORL 04/16/2000 ORL @ MIA L 26 13 4 7 57.1 0 0 - 5 6 83.3 5 0 5 1 0 0 3 1 -1
+p27
+aVDarrell Armstrong ORL 04/16/2000 ORL @ MIA L 31 16 6 17 35.3 1 8 12.5 3 3 100.0 1 3 4 3 0 0 1 1 -18
+p28
+aVJohn Amaechi ORL 04/16/2000 ORL @ MIA L 31 7 2 6 33.3 0 1 0.0 3 4 75.0 1 3 4 0 1 1 4 4 -20
+p29
+aVRon Mercer ORL 04/16/2000 ORL @ MIA L 23 8 4 12 33.3 0 0 - 0 2 0.0 1 1 2 2 3 0 2 2 -8
+p30
+aVPat Garrity ORL 04/16/2000 ORL @ MIA L 22 8 3 8 37.5 2 6 33.3 0 0 - 2 2 4 0 2 1 0 3 -5
+p31
+aVMichael Doleac ORL 04/16/2000 ORL @ MIA L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 1 2 9
+p32
+aVCorey Maggette ORL 04/16/2000 ORL @ MIA L 25 15 4 6 66.7 0 0 - 7 10 70.0 1 0 1 1 1 1 2 1 -3
+p33
+aVChucky Atkins ORL 04/16/2000 ORL @ MIA L 20 5 2 9 22.2 1 3 33.3 0 0 - 0 1 1 2 2 0 1 0 2
+p34
+aVMonty Williams ORL 04/14/2000 ORL @ NJN W 18 8 4 6 66.7 0 0 - 0 0 - 5 2 7 0 0 1 1 2 -1
+p35
+aVBen Wallace ORL 04/14/2000 ORL @ NJN W 38 9 4 9 44.4 0 0 - 1 3 33.3 8 12 20 1 1 3 2 1 9
+p36
+aVPat Garrity ORL 04/14/2000 ORL @ NJN W 16 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 1 2 4 -8
+p37
+aVRon Mercer ORL 04/14/2000 ORL @ NJN W 39 22 9 22 40.9 0 2 0.0 4 4 100.0 1 2 3 2 4 0 3 3 7
+p38
+aVJohn Amaechi ORL 04/14/2000 ORL @ NJN W 26 12 4 14 28.6 0 0 - 4 4 100.0 0 2 2 1 0 1 2 2 14
+p39
+aVBo Outlaw ORL 04/14/2000 ORL @ NJN W 40 3 1 4 25.0 0 0 - 1 4 25.0 6 6 12 3 1 7 2 2 12
+p40
+aVChucky Atkins ORL 04/14/2000 ORL @ NJN W 15 3 0 4 0.0 0 0 - 3 4 75.0 0 0 0 4 0 0 3 3 -5
+p41
+aVCorey Maggette ORL 04/14/2000 ORL @ NJN W 9 7 1 3 33.3 0 0 - 5 6 83.3 1 1 2 0 1 0 1 3 -5
+p42
+aVDarrell Armstrong ORL 04/14/2000 ORL @ NJN W 34 23 9 14 64.3 1 3 33.3 4 4 100.0 1 4 5 6 1 0 2 1 15
+p43
+aVMichael Doleac ORL 04/14/2000 ORL @ NJN W 5 4 2 4 50.0 0 0 - 0 0 - 0 4 4 2 0 0 0 0 2
+p44
+aVMichael Doleac ORL 04/12/2000 ORL @ BOS L 8 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 2 4 -3
+p45
+aVChucky Atkins ORL 04/12/2000 ORL @ BOS L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 0 -4
+p46
+aVMonty Williams ORL 04/12/2000 ORL @ BOS L 15 11 5 7 71.4 0 1 0.0 1 2 50.0 1 1 2 0 0 0 1 0 -4
+p47
+aVRon Mercer ORL 04/12/2000 ORL @ BOS L 38 14 5 16 31.3 0 0 - 4 4 100.0 1 1 2 3 1 0 2 2 -2
+p48
+aVDarrell Armstrong ORL 04/12/2000 ORL @ BOS L 33 13 4 13 30.8 1 2 50.0 4 4 100.0 2 5 7 5 1 0 2 0 0
+p49
+aVJohn Amaechi ORL 04/12/2000 ORL @ BOS L 35 22 9 18 50.0 0 0 - 4 4 100.0 1 8 9 3 1 0 2 4 3
+p50
+aVPat Garrity ORL 04/12/2000 ORL @ BOS L 24 8 2 8 25.0 2 3 66.7 2 2 100.0 2 4 6 1 1 0 2 1 -4
+p51
+aVCorey Maggette ORL 04/12/2000 ORL @ BOS L 10 7 0 2 0.0 0 0 - 7 8 87.5 0 3 3 0 0 0 2 1 -2
+p52
+aVBen Wallace ORL 04/12/2000 ORL @ BOS L 23 2 1 2 50.0 0 0 - 0 0 - 3 4 7 1 0 0 0 2 -3
+p53
+aVBo Outlaw ORL 04/12/2000 ORL @ BOS L 37 8 4 8 50.0 0 0 - 0 3 0.0 4 3 7 2 3 1 2 3 -1
+p54
+aVJohn Amaechi ORL 04/10/2000 ORL @ MIL L 19 7 1 6 16.7 0 0 - 5 6 83.3 0 2 2 1 0 0 2 1 -22
+p55
+aVMonty Williams ORL 04/10/2000 ORL @ MIL L 21 7 1 6 16.7 0 0 - 5 8 62.5 3 0 3 0 1 1 0 4 9
+p56
+aVRon Mercer ORL 04/10/2000 ORL @ MIL L 26 14 7 12 58.3 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -15
+p57
+aVChucky Atkins ORL 04/10/2000 ORL @ MIL L 23 12 4 13 30.8 1 6 16.7 3 4 75.0 1 2 3 3 1 0 2 0 4
+p58
+aVCorey Maggette ORL 04/10/2000 ORL @ MIL L 13 8 3 6 50.0 0 0 - 2 3 66.7 3 2 5 0 0 1 2 3 -3
+p59
+aVDarrell Armstrong ORL 04/10/2000 ORL @ MIL L 35 13 5 15 33.3 0 4 0.0 3 3 100.0 1 2 3 6 2 0 5 2 -16
+p60
+aVDerek Strong ORL 04/10/2000 ORL @ MIL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -4
+p61
+aVAnthony Johnson ORL 04/10/2000 ORL @ MIL L 11 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 3 0 -2
+p62
+aVBo Outlaw ORL 04/10/2000 ORL @ MIL L 27 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 1 0 0 3 3 -23
+p63
+aVBen Wallace ORL 04/10/2000 ORL @ MIL L 29 9 4 8 50.0 0 0 - 1 2 50.0 3 10 13 2 1 1 0 1 -17
+p64
+aVPat Garrity ORL 04/10/2000 ORL @ MIL L 22 9 2 8 25.0 0 1 0.0 5 8 62.5 1 0 1 1 2 0 0 4 2
+p65
+aVMichael Doleac ORL 04/10/2000 ORL @ MIL L 9 6 2 4 50.0 0 0 - 2 4 50.0 2 1 3 1 0 0 1 1 2
+p66
+aVPat Garrity ORL 04/09/2000 ORL vs. PHI W 19 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 1 0 1 3 -5
+p67
+aVMonty Williams ORL 04/09/2000 ORL vs. PHI W 13 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 2 2 -1
+p68
+aVBen Wallace ORL 04/09/2000 ORL vs. PHI W 29 4 2 5 40.0 0 0 - 0 2 0.0 4 8 12 1 1 0 0 1 17
+p69
+aVRon Mercer ORL 04/09/2000 ORL vs. PHI W 35 17 8 22 36.4 0 0 - 1 2 50.0 1 3 4 2 2 0 3 1 11
+p70
+aVMichael Doleac ORL 04/09/2000 ORL vs. PHI W 25 10 5 8 62.5 0 0 - 0 0 - 1 6 7 3 0 0 1 4 7
+p71
+aVDarrell Armstrong ORL 04/09/2000 ORL vs. PHI W 38 14 4 16 25.0 1 6 16.7 5 5 100.0 2 4 6 9 2 1 3 1 8
+p72
+aVJohn Amaechi ORL 04/09/2000 ORL vs. PHI W 23 9 3 14 21.4 0 1 0.0 3 4 75.0 3 4 7 1 1 0 1 2 5
+p73
+aVChucky Atkins ORL 04/09/2000 ORL vs. PHI W 17 13 5 10 50.0 3 6 50.0 0 0 - 0 2 2 3 0 0 1 2 0
+p74
+aVBo Outlaw ORL 04/09/2000 ORL vs. PHI W 33 12 6 12 50.0 0 0 - 0 1 0.0 9 2 11 4 2 5 0 2 14
+p75
+aVCorey Maggette ORL 04/09/2000 ORL vs. PHI W 9 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 4
+p76
+aVMichael Doleac ORL 04/07/2000 ORL vs. NYK L 17 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 1 2 0 3 0
+p77
+aVMonty Williams ORL 04/07/2000 ORL vs. NYK L 19 10 4 9 44.4 0 0 - 2 3 66.7 0 3 3 3 2 0 1 0 5
+p78
+aVPat Garrity ORL 04/07/2000 ORL vs. NYK L 22 13 5 7 71.4 2 3 66.7 1 2 50.0 0 3 3 0 1 2 0 3 -1
+p79
+aVChucky Atkins ORL 04/07/2000 ORL vs. NYK L 22 14 6 13 46.2 1 5 20.0 1 2 50.0 0 1 1 5 0 0 4 2 2
+p80
+aVDarrell Armstrong ORL 04/07/2000 ORL vs. NYK L 31 15 6 12 50.0 1 4 25.0 2 2 100.0 1 1 2 1 2 0 2 0 -13
+p81
+aVBen Wallace ORL 04/07/2000 ORL vs. NYK L 28 6 3 5 60.0 0 0 - 0 2 0.0 3 3 6 1 1 1 0 1 -3
+p82
+aVCorey Maggette ORL 04/07/2000 ORL vs. NYK L 13 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 2 2 -5
+p83
+aVJohn Amaechi ORL 04/07/2000 ORL vs. NYK L 29 9 3 10 30.0 0 0 - 3 4 75.0 1 5 6 0 0 0 1 1 -8
+p84
+aVBo Outlaw ORL 04/07/2000 ORL vs. NYK L 24 2 0 2 0.0 0 0 - 2 4 50.0 3 6 9 2 2 1 3 1 -10
+p85
+aVRon Mercer ORL 04/07/2000 ORL vs. NYK L 35 11 3 15 20.0 0 3 0.0 5 7 71.4 1 2 3 0 4 2 2 6 -2
+p86
+aVBen Wallace ORL 04/04/2000 ORL vs. SAS W 36 9 4 9 44.4 0 0 - 1 2 50.0 5 4 9 2 1 3 1 4 12
+p87
+aVDarrell Armstrong ORL 04/04/2000 ORL vs. SAS W 33 23 8 18 44.4 5 11 45.5 2 2 100.0 1 4 5 5 3 0 0 2 22
+p88
+aVJohn Amaechi ORL 04/04/2000 ORL vs. SAS W 33 24 10 18 55.6 0 0 - 4 7 57.1 0 5 5 2 1 0 1 2 20
+p89
+aVMonty Williams ORL 04/04/2000 ORL vs. SAS W 13 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 3 -3
+p90
+aVChucky Atkins ORL 04/04/2000 ORL vs. SAS W 21 16 6 10 60.0 2 2 100.0 2 2 100.0 0 1 1 6 0 0 4 3 -8
+p91
+aVMichael Doleac ORL 04/04/2000 ORL vs. SAS W 15 8 4 4 100.0 0 0 - 0 0 - 0 3 3 0 0 0 2 5 -10
+p92
+aVPat Garrity ORL 04/04/2000 ORL vs. SAS W 12 4 2 5 40.0 0 2 0.0 0 0 - 2 1 3 1 0 0 1 4 -2
+p93
+aVAnthony Johnson ORL 04/04/2000 ORL vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p94
+aVRon Mercer ORL 04/04/2000 ORL vs. SAS W 38 6 3 8 37.5 0 0 - 0 0 - 1 2 3 2 2 0 0 1 17
+p95
+aVBo Outlaw ORL 04/04/2000 ORL vs. SAS W 36 11 5 6 83.3 0 0 - 1 2 50.0 6 5 11 5 0 1 5 1 12
+p96
+aVCorey Maggette ORL 04/04/2000 ORL vs. SAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p97
+aVMichael Doleac ORL 03/31/2000 ORL vs. NJN W 11 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 0 -1
+p98
+aVPat Garrity ORL 03/31/2000 ORL vs. NJN W 19 2 0 4 0.0 0 1 0.0 2 4 50.0 0 2 2 3 0 0 0 1 -4
+p99
+aVMonty Williams ORL 03/31/2000 ORL vs. NJN W 13 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 1 0 0 3 -2
+p100
+aVBo Outlaw ORL 03/31/2000 ORL vs. NJN W 35 16 7 8 87.5 0 0 - 2 5 40.0 1 8 9 7 2 2 5 2 8
+p101
+aVJohn Amaechi ORL 03/31/2000 ORL vs. NJN W 33 17 7 13 53.8 0 0 - 3 4 75.0 1 2 3 2 0 0 2 2 10
+p102
+aVRon Mercer ORL 03/31/2000 ORL vs. NJN W 38 22 11 20 55.0 0 0 - 0 0 - 1 2 3 2 1 0 2 2 9
+p103
+aVCorey Maggette ORL 03/31/2000 ORL vs. NJN W 10 3 1 4 25.0 0 0 - 1 2 50.0 3 0 3 1 0 1 3 0 -3
+p104
+aVBen Wallace ORL 03/31/2000 ORL vs. NJN W 32 11 5 9 55.6 0 0 - 1 3 33.3 7 7 14 0 2 4 2 5 5
+p105
+aVChucky Atkins ORL 03/31/2000 ORL vs. NJN W 15 9 3 7 42.9 1 3 33.3 2 2 100.0 0 2 2 1 1 0 1 5 -3
+p106
+aVDarrell Armstrong ORL 03/31/2000 ORL vs. NJN W 34 11 4 10 40.0 0 3 0.0 3 4 75.0 3 5 8 9 0 0 4 1 11
+p107
+aVAnthony Johnson ORL 03/28/2000 ORL vs. BOS W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 2 0 0 0 0 13
+p108
+aVChucky Atkins ORL 03/28/2000 ORL vs. BOS W 17 21 7 11 63.6 2 3 66.7 5 6 83.3 0 2 2 1 0 0 3 0 16
+p109
+aVBen Wallace ORL 03/28/2000 ORL vs. BOS W 28 13 6 7 85.7 0 0 - 1 7 14.3 2 7 9 0 1 5 0 0 31
+p110
+aVPat Garrity ORL 03/28/2000 ORL vs. BOS W 28 10 4 7 57.1 2 2 100.0 0 0 - 2 0 2 1 0 1 0 2 23
+p111
+aVCorey Maggette ORL 03/28/2000 ORL vs. BOS W 21 12 1 5 20.0 0 1 0.0 10 11 90.9 3 8 11 1 1 0 2 5 3
+p112
+aVBo Outlaw ORL 03/28/2000 ORL vs. BOS W 33 10 4 4 100.0 0 0 - 2 4 50.0 2 12 14 10 0 4 2 3 38
+p113
+aVMonty Williams ORL 03/28/2000 ORL vs. BOS W 16 6 3 6 50.0 0 0 - 0 0 - 0 2 2 3 0 0 3 1 -3
+p114
+aVDerek Strong ORL 03/28/2000 ORL vs. BOS W 7 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 4
+p115
+aVJohn Amaechi ORL 03/28/2000 ORL vs. BOS W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 2 4 19
+p116
+aVMichael Doleac ORL 03/28/2000 ORL vs. BOS W 20 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -7
+p117
+aVRon Mercer ORL 03/28/2000 ORL vs. BOS W 28 23 11 22 50.0 0 0 - 1 1 100.0 2 1 3 2 0 0 2 3 34
+p118
+aVDarrell Armstrong ORL 03/28/2000 ORL vs. BOS W 17 9 3 8 37.5 1 3 33.3 2 2 100.0 0 2 2 1 1 0 2 1 4
+p119
+aVMonty Williams ORL 03/26/2000 ORL vs. MIA W 24 9 3 4 75.0 0 0 - 3 5 60.0 3 3 6 0 1 2 1 3 18
+p120
+aVChucky Atkins ORL 03/26/2000 ORL vs. MIA W 25 20 7 13 53.8 2 6 33.3 4 4 100.0 1 2 3 5 1 0 0 0 20
+p121
+aVDarrell Armstrong ORL 03/26/2000 ORL vs. MIA W 26 16 6 13 46.2 4 10 40.0 0 0 - 1 1 2 1 4 1 7 2 8
+p122
+aVPat Garrity ORL 03/26/2000 ORL vs. MIA W 25 9 3 10 30.0 2 6 33.3 1 2 50.0 0 5 5 1 0 0 0 3 20
+p123
+aVCorey Maggette ORL 03/26/2000 ORL vs. MIA W 22 6 2 4 50.0 0 0 - 2 3 66.7 3 6 9 1 0 1 2 0 15
+p124
+aVJohn Amaechi ORL 03/26/2000 ORL vs. MIA W 20 10 4 9 44.4 0 0 - 2 3 66.7 1 2 3 2 0 0 1 4 6
+p125
+aVBen Wallace ORL 03/26/2000 ORL vs. MIA W 24 6 3 5 60.0 0 0 - 0 0 - 3 8 11 0 2 3 1 2 6
+p126
+aVMichael Doleac ORL 03/26/2000 ORL vs. MIA W 27 6 3 9 33.3 0 0 - 0 0 - 3 2 5 1 1 2 1 4 18
+p127
+aVBo Outlaw ORL 03/26/2000 ORL vs. MIA W 21 2 0 0 - 0 0 - 2 2 100.0 1 3 4 2 2 0 2 3 4
+p128
+aVRon Mercer ORL 03/26/2000 ORL vs. MIA W 26 10 4 11 36.4 0 0 - 2 3 66.7 0 0 0 0 0 0 2 2 10
+p129
+aVRon Mercer ORL 03/24/2000 ORL vs. HOU W 29 14 5 15 33.3 0 0 - 4 5 80.0 1 1 2 0 0 0 1 0 21
+p130
+aVPat Garrity ORL 03/24/2000 ORL vs. HOU W 21 13 5 8 62.5 3 4 75.0 0 0 - 1 2 3 0 0 0 1 6 -2
+p131
+aVDerek Strong ORL 03/24/2000 ORL vs. HOU W 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -6
+p132
+aVBen Wallace ORL 03/24/2000 ORL vs. HOU W 25 11 5 9 55.6 0 0 - 1 1 100.0 5 9 14 0 1 4 0 0 20
+p133
+aVDarrell Armstrong ORL 03/24/2000 ORL vs. HOU W 31 21 8 19 42.1 4 7 57.1 1 1 100.0 0 2 2 9 2 0 2 0 21
+p134
+aVJohn Amaechi ORL 03/24/2000 ORL vs. HOU W 15 6 3 10 30.0 0 0 - 0 0 - 1 1 2 1 1 0 1 2 6
+p135
+aVAnthony Johnson ORL 03/24/2000 ORL vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p136
+aVMichael Doleac ORL 03/24/2000 ORL vs. HOU W 16 4 2 7 28.6 0 0 - 0 0 - 4 4 8 0 1 0 0 4 1
+p137
+aVCorey Maggette ORL 03/24/2000 ORL vs. HOU W 19 11 2 5 40.0 0 0 - 7 8 87.5 2 3 5 1 2 0 3 4 -5
+p138
+aVBo Outlaw ORL 03/24/2000 ORL vs. HOU W 28 6 2 4 50.0 0 0 - 2 4 50.0 5 6 11 7 2 1 0 1 19
+p139
+aVChucky Atkins ORL 03/24/2000 ORL vs. HOU W 22 10 5 13 38.5 0 0 - 0 0 - 1 1 2 4 0 0 0 1 -1
+p140
+aVMonty Williams ORL 03/24/2000 ORL vs. HOU W 25 14 7 11 63.6 0 0 - 0 0 - 1 2 3 1 0 1 0 4 7
+p141
+aVBen Wallace ORL 03/22/2000 ORL vs. ATL W 32 7 3 5 60.0 0 0 - 1 2 50.0 3 13 16 1 2 2 2 1 17
+p142
+aVAnthony Johnson ORL 03/22/2000 ORL vs. ATL W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -4
+p143
+aVMichael Doleac ORL 03/22/2000 ORL vs. ATL W 19 2 1 7 14.3 0 0 - 0 0 - 5 4 9 0 0 0 2 5 -1
+p144
+aVBo Outlaw ORL 03/22/2000 ORL vs. ATL W 29 6 3 5 60.0 0 0 - 0 0 - 3 4 7 5 1 1 1 2 12
+p145
+aVDarrell Armstrong ORL 03/22/2000 ORL vs. ATL W 30 27 9 15 60.0 2 3 66.7 7 8 87.5 0 1 1 10 1 0 3 1 15
+p146
+aVRon Mercer ORL 03/22/2000 ORL vs. ATL W 28 15 5 13 38.5 0 0 - 5 8 62.5 2 0 2 1 1 0 0 3 15
+p147
+aVChucky Atkins ORL 03/22/2000 ORL vs. ATL W 18 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 0 2 0 2 3 -4
+p148
+aVCorey Maggette ORL 03/22/2000 ORL vs. ATL W 14 8 2 6 33.3 0 0 - 4 6 66.7 2 2 4 0 0 1 3 2 -7
+p149
+aVMonty Williams ORL 03/22/2000 ORL vs. ATL W 21 12 6 10 60.0 0 0 - 0 0 - 2 6 8 0 1 0 1 2 6
+p150
+aVJohn Amaechi ORL 03/22/2000 ORL vs. ATL W 29 16 7 13 53.8 0 0 - 2 2 100.0 0 6 6 1 0 0 4 3 12
+p151
+aVPat Garrity ORL 03/22/2000 ORL vs. ATL W 16 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 4 -6
+p152
+aVChucky Atkins ORL 03/20/2000 ORL @ CHI W 18 2 1 7 14.3 0 1 0.0 0 0 - 0 2 2 6 1 0 0 0 -6
+p153
+aVCorey Maggette ORL 03/20/2000 ORL @ CHI W 26 13 4 8 50.0 0 0 - 5 5 100.0 1 3 4 1 2 0 1 4 -6
+p154
+aVJohn Amaechi ORL 03/20/2000 ORL @ CHI W 34 12 5 12 41.7 0 0 - 2 3 66.7 0 0 0 3 2 1 1 2 4
+p155
+aVMichael Doleac ORL 03/20/2000 ORL @ CHI W 17 3 1 4 25.0 0 0 - 1 2 50.0 2 7 9 0 0 1 0 3 -5
+p156
+aVRon Mercer ORL 03/20/2000 ORL @ CHI W 38 19 7 18 38.9 0 0 - 5 6 83.3 1 2 3 1 2 0 2 2 6
+p157
+aVBen Wallace ORL 03/20/2000 ORL @ CHI W 37 0 0 4 0.0 0 0 - 0 2 0.0 4 5 9 2 0 2 3 3 12
+p158
+aVBo Outlaw ORL 03/20/2000 ORL @ CHI W 26 4 1 2 50.0 0 0 - 2 5 40.0 2 6 8 3 2 1 0 3 2
+p159
+aVDarrell Armstrong ORL 03/20/2000 ORL @ CHI W 36 20 6 15 40.0 0 2 0.0 8 8 100.0 0 3 3 6 7 0 3 2 12
+p160
+aVAnthony Johnson ORL 03/20/2000 ORL @ CHI W 16 7 3 6 50.0 0 0 - 1 4 25.0 0 1 1 1 1 0 1 2 -2
+p161
+aVPat Garrity ORL 03/20/2000 ORL @ CHI W 17 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p162
+aVBo Outlaw ORL 03/19/2000 ORL @ PHI L 28 7 2 3 66.7 0 0 - 3 3 100.0 2 4 6 0 0 1 6 3 14
+p163
+aVRon Mercer ORL 03/19/2000 ORL @ PHI L 39 26 10 19 52.6 0 0 - 6 6 100.0 0 2 2 2 2 0 6 2 -2
+p164
+aVDerek Strong ORL 03/19/2000 ORL @ PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p165
+aVChucky Atkins ORL 03/19/2000 ORL @ PHI L 23 2 1 9 11.1 0 1 0.0 0 1 0.0 1 1 2 4 2 0 3 4 -13
+p166
+aVAnthony Johnson ORL 03/19/2000 ORL @ PHI L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p167
+aVMonty Williams ORL 03/19/2000 ORL @ PHI L 15 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 2 0 2 2 -16
+p168
+aVJohn Amaechi ORL 03/19/2000 ORL @ PHI L 21 6 3 6 50.0 0 0 - 0 0 - 1 3 4 2 0 0 2 5 -4
+p169
+aVDarrell Armstrong ORL 03/19/2000 ORL @ PHI L 34 16 6 14 42.9 2 4 50.0 2 3 66.7 2 1 3 8 5 1 3 1 8
+p170
+aVPat Garrity ORL 03/19/2000 ORL @ PHI L 18 8 3 4 75.0 2 2 100.0 0 0 - 0 2 2 0 2 0 2 3 -9
+p171
+aVBen Wallace ORL 03/19/2000 ORL @ PHI L 36 8 4 7 57.1 0 0 - 0 0 - 4 17 21 0 1 2 2 1 7
+p172
+aVMichael Doleac ORL 03/19/2000 ORL @ PHI L 20 8 4 11 36.4 0 0 - 0 0 - 1 1 2 0 0 0 2 6 6
+p173
+aVCorey Maggette ORL 03/17/2000 ORL @ TOR L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 0
+p174
+aVMonty Williams ORL 03/17/2000 ORL @ TOR L 26 12 6 9 66.7 0 0 - 0 0 - 1 6 7 4 1 0 0 4 -3
+p175
+aVJohn Amaechi ORL 03/17/2000 ORL @ TOR L 27 11 4 5 80.0 0 0 - 3 5 60.0 3 2 5 4 0 1 7 3 0
+p176
+aVBo Outlaw ORL 03/17/2000 ORL @ TOR L 19 7 3 3 100.0 0 0 - 1 2 50.0 1 3 4 2 1 3 3 4 -6
+p177
+aVBen Wallace ORL 03/17/2000 ORL @ TOR L 24 14 6 8 75.0 0 0 - 2 4 50.0 1 6 7 1 2 4 0 1 -4
+p178
+aVChucky Atkins ORL 03/17/2000 ORL @ TOR L 20 14 6 14 42.9 1 3 33.3 1 2 50.0 0 2 2 4 0 0 1 2 5
+p179
+aVMichael Doleac ORL 03/17/2000 ORL @ TOR L 21 8 4 7 57.1 0 0 - 0 0 - 3 7 10 1 0 0 0 3 -2
+p180
+aVRon Mercer ORL 03/17/2000 ORL @ TOR L 35 10 5 17 29.4 0 0 - 0 0 - 1 3 4 2 0 0 2 2 8
+p181
+aVPat Garrity ORL 03/17/2000 ORL @ TOR L 20 5 2 12 16.7 1 2 50.0 0 0 - 0 1 1 0 0 0 1 5 -2
+p182
+aVAnthony Johnson ORL 03/17/2000 ORL @ TOR L 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p183
+aVDarrell Armstrong ORL 03/17/2000 ORL @ TOR L 33 6 2 4 50.0 2 2 100.0 0 0 - 0 3 3 6 0 0 3 2 -8
+p184
+aVDerek Strong ORL 03/15/2000 ORL @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p185
+aVDarrell Armstrong ORL 03/15/2000 ORL @ DET L 28 14 4 9 44.4 3 6 50.0 3 4 75.0 0 2 2 4 1 0 2 4 -20
+p186
+aVBen Wallace ORL 03/15/2000 ORL @ DET L 18 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 4 -11
+p187
+aVRon Mercer ORL 03/15/2000 ORL @ DET L 38 19 7 17 41.2 0 0 - 5 6 83.3 0 4 4 2 1 0 2 4 -20
+p188
+aVAnthony Johnson ORL 03/15/2000 ORL @ DET L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -3
+p189
+aVBo Outlaw ORL 03/15/2000 ORL @ DET L 36 2 1 1 100.0 0 0 - 0 0 - 1 5 6 4 1 2 3 3 -19
+p190
+aVCorey Maggette ORL 03/15/2000 ORL @ DET L 9 5 2 4 50.0 0 1 0.0 1 2 50.0 1 0 1 0 1 0 2 3 0
+p191
+aVChucky Atkins ORL 03/15/2000 ORL @ DET L 23 10 4 11 36.4 1 3 33.3 1 2 50.0 0 0 0 4 0 0 2 1 -1
+p192
+aVMonty Williams ORL 03/15/2000 ORL @ DET L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 2 3 -4
+p193
+aVPat Garrity ORL 03/15/2000 ORL @ DET L 25 10 4 8 50.0 0 0 - 2 2 100.0 2 3 5 3 1 0 3 2 -9
+p194
+aVJohn Amaechi ORL 03/15/2000 ORL @ DET L 35 27 7 14 50.0 0 0 - 13 18 72.2 1 4 5 0 0 1 6 3 -11
+p195
+aVMichael Doleac ORL 03/15/2000 ORL @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -9
+p196
+aVBo Outlaw ORL 03/14/2000 ORL vs. WAS W 26 12 5 7 71.4 0 0 - 2 2 100.0 0 4 4 4 3 2 1 0 10
+p197
+aVJohn Amaechi ORL 03/14/2000 ORL vs. WAS W 18 7 3 7 42.9 0 0 - 1 2 50.0 0 0 0 1 3 1 1 2 -4
+p198
+aVCorey Maggette ORL 03/14/2000 ORL vs. WAS W 19 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 2 1 0
+p199
+aVDarrell Armstrong ORL 03/14/2000 ORL vs. WAS W 26 17 6 11 54.5 3 6 50.0 2 2 100.0 1 1 2 6 1 0 2 1 13
+p200
+aVChucky Atkins ORL 03/14/2000 ORL vs. WAS W 22 10 4 10 40.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 2 2 -4
+p201
+aVMichael Doleac ORL 03/14/2000 ORL vs. WAS W 21 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 1 0 2 4 16
+p202
+aVAnthony Johnson ORL 03/14/2000 ORL vs. WAS W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -8
+p203
+aVRon Mercer ORL 03/14/2000 ORL vs. WAS W 29 18 6 15 40.0 0 0 - 6 6 100.0 2 1 3 3 1 0 5 3 9
+p204
+aVPat Garrity ORL 03/14/2000 ORL vs. WAS W 19 8 3 3 100.0 2 2 100.0 0 0 - 0 3 3 1 0 0 0 3 2
+p205
+aVDerek Strong ORL 03/14/2000 ORL vs. WAS W 10 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -3
+p206
+aVBen Wallace ORL 03/14/2000 ORL vs. WAS W 29 4 1 4 25.0 0 0 - 2 4 50.0 2 10 12 0 1 3 1 2 7
+p207
+aVMonty Williams ORL 03/14/2000 ORL vs. WAS W 17 19 6 8 75.0 0 0 - 7 10 70.0 0 1 1 1 1 0 3 4 7
+p208
+aVAnthony Johnson ORL 03/12/2000 ORL @ NJN L 33 8 4 11 36.4 0 0 - 0 0 - 0 0 0 2 1 1 0 0 -11
+p209
+aVBo Outlaw ORL 03/12/2000 ORL @ NJN L 27 10 5 6 83.3 0 0 - 0 0 - 4 7 11 2 0 0 2 4 -5
+p210
+aVPat Garrity ORL 03/12/2000 ORL @ NJN L 23 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 3 1 2 4 2 -29
+p211
+aVJohn Amaechi ORL 03/12/2000 ORL @ NJN L 17 14 5 10 50.0 0 0 - 4 4 100.0 0 2 2 1 0 0 3 2 -3
+p212
+aVMonty Williams ORL 03/12/2000 ORL @ NJN L 19 10 5 10 50.0 0 0 - 0 0 - 3 1 4 2 0 0 2 5 -29
+p213
+aVChucky Atkins ORL 03/12/2000 ORL @ NJN L 31 4 2 9 22.2 0 0 - 0 0 - 0 0 0 5 0 0 4 3 -30
+p214
+aVDerek Strong ORL 03/12/2000 ORL @ NJN L 11 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 1 3 1 -15
+p215
+aVBen Wallace ORL 03/12/2000 ORL @ NJN L 25 9 3 3 100.0 0 0 - 3 4 75.0 2 5 7 2 0 1 1 1 -12
+p216
+aVCorey Maggette ORL 03/12/2000 ORL @ NJN L 20 13 5 10 50.0 0 0 - 3 4 75.0 5 4 9 2 0 0 5 3 -34
+p217
+aVDarrell Armstrong ORL 03/12/2000 ORL @ NJN L 28 15 6 13 46.2 1 6 16.7 2 2 100.0 1 3 4 4 1 1 4 1 -12
+p218
+aVMichael Doleac ORL 03/12/2000 ORL @ NJN L 6 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -10
+p219
+aVMonty Williams ORL 03/11/2000 ORL vs. DEN W 15 5 1 3 33.3 0 0 - 3 6 50.0 3 0 3 1 0 0 0 2 -3
+p220
+aVDerek Strong ORL 03/11/2000 ORL vs. DEN W 14 2 0 1 0.0 0 0 - 2 4 50.0 2 5 7 0 1 0 1 1 -2
+p221
+aVJohn Amaechi ORL 03/11/2000 ORL vs. DEN W 35 31 12 20 60.0 0 0 - 7 9 77.8 0 3 3 1 1 0 1 3 4
+p222
+aVMichael Doleac ORL 03/11/2000 ORL vs. DEN W 13 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 5 -1
+p223
+aVBen Wallace ORL 03/11/2000 ORL vs. DEN W 21 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 1 1 0 4 9
+p224
+aVCorey Maggette ORL 03/11/2000 ORL vs. DEN W 18 12 2 8 25.0 0 0 - 8 11 72.7 1 4 5 0 0 1 2 3 -2
+p225
+aVBo Outlaw ORL 03/11/2000 ORL vs. DEN W 31 11 4 6 66.7 0 0 - 3 4 75.0 6 7 13 4 3 0 2 4 5
+p226
+aVPat Garrity ORL 03/11/2000 ORL vs. DEN W 15 0 0 5 0.0 0 3 0.0 0 0 - 1 1 2 1 0 0 2 4 -7
+p227
+aVDarrell Armstrong ORL 03/11/2000 ORL vs. DEN W 34 23 8 18 44.4 2 6 33.3 5 5 100.0 0 2 2 5 4 0 1 0 11
+p228
+aVAnthony Johnson ORL 03/11/2000 ORL vs. DEN W 27 10 4 10 40.0 0 1 0.0 2 2 100.0 0 1 1 3 3 0 1 2 10
+p229
+aVChucky Atkins ORL 03/11/2000 ORL vs. DEN W 17 9 4 8 50.0 0 4 0.0 1 2 50.0 0 0 0 3 0 0 4 5 -9
+p230
+aVDarrell Armstrong ORL 03/08/2000 ORL vs. CHI W 26 17 8 14 57.1 1 4 25.0 0 0 - 1 2 3 3 4 0 2 1 32
+p231
+aVPat Garrity ORL 03/08/2000 ORL vs. CHI W 24 10 3 11 27.3 2 7 28.6 2 2 100.0 0 5 5 1 1 1 1 3 9
+p232
+aVDerek Strong ORL 03/08/2000 ORL vs. CHI W 9 6 3 3 100.0 0 0 - 0 0 - 0 3 3 1 1 0 2 3 5
+p233
+aVBo Outlaw ORL 03/08/2000 ORL vs. CHI W 28 11 5 7 71.4 0 0 - 1 2 50.0 2 5 7 2 4 0 1 3 30
+p234
+aVMichael Doleac ORL 03/08/2000 ORL vs. CHI W 18 2 1 4 25.0 0 0 - 0 0 - 1 5 6 0 1 0 0 2 4
+p235
+aVJohn Amaechi ORL 03/08/2000 ORL vs. CHI W 21 16 5 8 62.5 0 0 - 6 6 100.0 1 2 3 2 0 1 1 3 27
+p236
+aVBen Wallace ORL 03/08/2000 ORL vs. CHI W 24 4 2 5 40.0 0 0 - 0 0 - 0 6 6 0 0 1 0 3 29
+p237
+aVChucky Atkins ORL 03/08/2000 ORL vs. CHI W 18 4 2 5 40.0 0 0 - 0 0 - 1 2 3 3 0 1 0 2 -3
+p238
+aVMonty Williams ORL 03/08/2000 ORL vs. CHI W 19 6 1 4 25.0 0 0 - 4 4 100.0 2 1 3 2 0 0 1 3 4
+p239
+aVAnthony Johnson ORL 03/08/2000 ORL vs. CHI W 25 12 5 9 55.6 0 1 0.0 2 3 66.7 2 0 2 2 2 1 2 3 30
+p240
+aVCorey Maggette ORL 03/08/2000 ORL vs. CHI W 28 15 6 11 54.5 0 0 - 3 4 75.0 3 2 5 5 0 1 3 2 13
+p241
+aVChucky Atkins ORL 03/06/2000 ORL @ WAS W 25 15 6 13 46.2 3 5 60.0 0 0 - 0 1 1 5 1 0 1 1 10
+p242
+aVBen Wallace ORL 03/06/2000 ORL @ WAS W 28 8 4 8 50.0 0 0 - 0 2 0.0 5 11 16 1 2 1 2 3 2
+p243
+aVCorey Maggette ORL 03/06/2000 ORL @ WAS W 21 14 6 11 54.5 0 0 - 2 4 50.0 2 0 2 2 0 2 2 2 -4
+p244
+aVPat Garrity ORL 03/06/2000 ORL @ WAS W 15 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 1 0 0 3 2
+p245
+aVDarrell Armstrong ORL 03/06/2000 ORL @ WAS W 27 6 3 16 18.8 0 4 0.0 0 0 - 2 0 2 3 3 0 1 2 -4
+p246
+aVBo Outlaw ORL 03/06/2000 ORL @ WAS W 26 4 1 6 16.7 0 0 - 2 6 33.3 3 5 8 5 1 0 3 0 3
+p247
+aVJohn Amaechi ORL 03/06/2000 ORL @ WAS W 25 13 5 8 62.5 1 1 100.0 2 2 100.0 1 2 3 0 0 1 3 2 -2
+p248
+aVAnthony Johnson ORL 03/06/2000 ORL @ WAS W 22 6 3 7 42.9 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p249
+aVDerek Strong ORL 03/06/2000 ORL @ WAS W 13 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 0 1 1 1 1
+p250
+aVMichael Doleac ORL 03/06/2000 ORL @ WAS W 16 6 3 5 60.0 0 0 - 0 0 - 0 5 5 1 0 0 0 2 3
+p251
+aVMonty Williams ORL 03/06/2000 ORL @ WAS W 23 8 3 10 30.0 0 0 - 2 2 100.0 3 3 6 2 2 1 2 1 -2
+p252
+aVAnthony Johnson ORL 03/05/2000 ORL @ BOS L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p253
+aVMonty Williams ORL 03/05/2000 ORL @ BOS L 17 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 1 0 0 2 1 -6
+p254
+aVJohn Amaechi ORL 03/05/2000 ORL @ BOS L 23 12 6 9 66.7 0 1 0.0 0 0 - 0 5 5 1 0 1 5 3 -12
+p255
+aVRon Mercer ORL 03/05/2000 ORL @ BOS L 11 3 1 6 16.7 0 0 - 1 2 50.0 0 0 0 0 2 0 0 2 -3
+p256
+aVChucky Atkins ORL 03/05/2000 ORL @ BOS L 21 17 7 14 50.0 2 5 40.0 1 1 100.0 0 2 2 3 1 0 3 2 3
+p257
+aVMichael Doleac ORL 03/05/2000 ORL @ BOS L 14 6 2 5 40.0 0 0 - 2 2 100.0 1 4 5 1 0 0 1 1 6
+p258
+aVBo Outlaw ORL 03/05/2000 ORL @ BOS L 32 6 3 6 50.0 0 0 - 0 2 0.0 3 5 8 5 2 2 5 3 0
+p259
+aVPat Garrity ORL 03/05/2000 ORL @ BOS L 23 3 1 8 12.5 1 2 50.0 0 0 - 1 3 4 0 0 0 2 1 3
+p260
+aVCorey Maggette ORL 03/05/2000 ORL @ BOS L 23 14 5 9 55.6 0 0 - 4 4 100.0 1 2 3 0 0 0 2 3 -6
+p261
+aVBen Wallace ORL 03/05/2000 ORL @ BOS L 31 2 1 1 100.0 0 0 - 0 0 - 1 7 8 0 0 4 2 0 -11
+p262
+aVDarrell Armstrong ORL 03/05/2000 ORL @ BOS L 39 19 8 17 47.1 3 6 50.0 0 0 - 2 5 7 6 1 0 4 4 -5
+p263
+aVRon Mercer ORL 03/02/2000 ORL vs. CHH W 33 19 6 12 50.0 0 0 - 7 8 87.5 1 5 6 0 2 1 4 2 7
+p264
+aVJohn Amaechi ORL 03/02/2000 ORL vs. CHH W 21 6 2 9 22.2 0 0 - 2 2 100.0 0 2 2 1 1 2 0 3 13
+p265
+aVMonty Williams ORL 03/02/2000 ORL vs. CHH W 22 10 5 8 62.5 0 0 - 0 0 - 1 3 4 1 0 0 4 2 11
+p266
+aVCorey Maggette ORL 03/02/2000 ORL vs. CHH W 15 9 4 6 66.7 0 0 - 1 2 50.0 2 3 5 0 0 0 0 0 1
+p267
+aVChucky Atkins ORL 03/02/2000 ORL vs. CHH W 21 14 5 9 55.6 3 4 75.0 1 1 100.0 0 0 0 5 0 0 1 2 6
+p268
+aVDarrell Armstrong ORL 03/02/2000 ORL vs. CHH W 28 13 3 11 27.3 1 3 33.3 6 8 75.0 0 1 1 4 1 0 2 3 4
+p269
+aVMichael Doleac ORL 03/02/2000 ORL vs. CHH W 18 5 1 3 33.3 0 0 - 3 4 75.0 0 3 3 0 0 0 0 2 -7
+p270
+aVPat Garrity ORL 03/02/2000 ORL vs. CHH W 29 13 6 9 66.7 1 1 100.0 0 0 - 3 3 6 0 0 0 2 5 11
+p271
+aVBen Wallace ORL 03/02/2000 ORL vs. CHH W 25 6 3 5 60.0 0 0 - 0 0 - 1 7 8 0 1 2 1 1 -5
+p272
+aVBo Outlaw ORL 03/02/2000 ORL vs. CHH W 27 9 4 6 66.7 0 0 - 1 2 50.0 5 5 10 3 3 2 2 0 -1
+p273
+aVJohn Amaechi ORL 02/29/2000 ORL vs. SEA W 31 11 3 9 33.3 0 0 - 5 6 83.3 1 5 6 1 1 2 1 1 10
+p274
+aVChucky Atkins ORL 02/29/2000 ORL vs. SEA W 21 10 5 7 71.4 0 1 0.0 0 0 - 1 2 3 3 1 0 3 0 3
+p275
+aVBo Outlaw ORL 02/29/2000 ORL vs. SEA W 20 4 2 2 100.0 0 0 - 0 0 - 4 1 5 5 0 4 1 3 0
+p276
+aVDarrell Armstrong ORL 02/29/2000 ORL vs. SEA W 36 18 8 14 57.1 2 5 40.0 0 0 - 0 2 2 9 4 0 3 1 5
+p277
+aVMonty Williams ORL 02/29/2000 ORL vs. SEA W 22 11 5 8 62.5 0 0 - 1 1 100.0 1 1 2 2 0 0 1 2 4
+p278
+aVPat Garrity ORL 02/29/2000 ORL vs. SEA W 28 14 5 14 35.7 3 7 42.9 1 2 50.0 1 5 6 0 0 0 2 3 5
+p279
+aVMichael Doleac ORL 02/29/2000 ORL vs. SEA W 13 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 0 0 0 3 -2
+p280
+aVRon Mercer ORL 02/29/2000 ORL vs. SEA W 34 27 12 21 57.1 0 0 - 3 3 100.0 0 3 3 2 1 0 1 4 9
+p281
+aVBen Wallace ORL 02/29/2000 ORL vs. SEA W 24 4 2 4 50.0 0 0 - 0 0 - 4 5 9 2 0 1 0 3 5
+p282
+aVCorey Maggette ORL 02/29/2000 ORL vs. SEA W 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 2 2 6
+p283
+aVPat Garrity ORL 02/27/2000 ORL @ MIL L 37 32 12 17 70.6 5 8 62.5 3 4 75.0 2 4 6 5 0 0 3 5 5
+p284
+aVDarrell Armstrong ORL 02/27/2000 ORL @ MIL L 26 13 5 14 35.7 2 7 28.6 1 1 100.0 2 1 3 6 1 0 1 1 -8
+p285
+aVAnthony Johnson ORL 02/27/2000 ORL @ MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p286
+aVJohn Amaechi ORL 02/27/2000 ORL @ MIL L 23 7 2 8 25.0 0 1 0.0 3 4 75.0 0 1 1 0 0 0 3 1 -9
+p287
+aVChucky Atkins ORL 02/27/2000 ORL @ MIL L 28 8 4 12 33.3 0 1 0.0 0 0 - 1 1 2 6 0 0 1 3 2
+p288
+aVBo Outlaw ORL 02/27/2000 ORL @ MIL L 30 4 2 3 66.7 0 0 - 0 0 - 4 5 9 2 0 1 1 4 -13
+p289
+aVMichael Doleac ORL 02/27/2000 ORL @ MIL L 20 7 3 8 37.5 1 1 100.0 0 1 0.0 1 3 4 0 0 2 0 1 3
+p290
+aVMonty Williams ORL 02/27/2000 ORL @ MIL L 13 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 2 1 0 2 3 6
+p291
+aVRon Mercer ORL 02/27/2000 ORL @ MIL L 35 13 6 16 37.5 0 1 0.0 1 1 100.0 0 3 3 3 1 0 2 6 -8
+p292
+aVBen Wallace ORL 02/27/2000 ORL @ MIL L 11 0 0 0 - 0 0 - 0 0 - 0 3 3 0 2 1 0 2 -12
+p293
+aVCorey Maggette ORL 02/27/2000 ORL @ MIL L 16 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 2 0 1 1 2 -1
+p294
+aVMichael Doleac ORL 02/25/2000 ORL @ UTA L 17 6 3 7 42.9 0 0 - 0 0 - 1 1 2 1 1 0 1 5 -9
+p295
+aVBo Outlaw ORL 02/25/2000 ORL @ UTA L 29 3 1 1 100.0 0 0 - 1 2 50.0 1 6 7 4 0 2 2 2 1
+p296
+aVChucky Atkins ORL 02/25/2000 ORL @ UTA L 23 15 6 11 54.5 1 2 50.0 2 2 100.0 0 1 1 1 2 0 4 4 -8
+p297
+aVMonty Williams ORL 02/25/2000 ORL @ UTA L 12 2 0 3 0.0 0 0 - 2 4 50.0 2 1 3 0 0 0 1 2 -11
+p298
+aVDarrell Armstrong ORL 02/25/2000 ORL @ UTA L 34 11 4 7 57.1 1 3 33.3 2 2 100.0 0 2 2 2 1 0 3 3 -2
+p299
+aVBen Wallace ORL 02/25/2000 ORL @ UTA L 32 8 3 3 100.0 0 0 - 2 4 50.0 2 11 13 1 0 0 2 3 -1
+p300
+aVRon Mercer ORL 02/25/2000 ORL @ UTA L 37 19 6 14 42.9 0 0 - 7 12 58.3 1 4 5 3 1 2 1 1 5
+p301
+aVCorey Maggette ORL 02/25/2000 ORL @ UTA L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -10
+p302
+aVPat Garrity ORL 02/25/2000 ORL @ UTA L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -6
+p303
+aVJohn Amaechi ORL 02/25/2000 ORL @ UTA L 31 24 8 17 47.1 0 0 - 8 10 80.0 1 1 2 2 1 0 0 6 1
+p304
+aVMonty Williams ORL 02/24/2000 ORL @ POR L 18 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -6
+p305
+aVPat Garrity ORL 02/24/2000 ORL @ POR L 23 7 3 7 42.9 0 2 0.0 1 1 100.0 0 1 1 0 2 0 1 1 -14
+p306
+aVMichael Doleac ORL 02/24/2000 ORL @ POR L 26 14 6 13 46.2 0 0 - 2 2 100.0 1 5 6 0 0 1 1 3 -7
+p307
+aVDarrell Armstrong ORL 02/24/2000 ORL @ POR L 32 16 6 16 37.5 1 6 16.7 3 3 100.0 2 1 3 1 1 0 1 1 -16
+p308
+aVCorey Maggette ORL 02/24/2000 ORL @ POR L 14 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 1 0 0 4 4 -5
+p309
+aVJohn Amaechi ORL 02/24/2000 ORL @ POR L 17 10 5 11 45.5 0 0 - 0 0 - 1 3 4 0 0 0 2 2 -13
+p310
+aVBen Wallace ORL 02/24/2000 ORL @ POR L 27 4 2 5 40.0 0 0 - 0 1 0.0 7 5 12 1 1 4 1 1 -7
+p311
+aVRon Mercer ORL 02/24/2000 ORL @ POR L 32 9 4 15 26.7 0 0 - 1 1 100.0 1 2 3 1 0 0 2 2 -6
+p312
+aVBo Outlaw ORL 02/24/2000 ORL @ POR L 25 3 1 2 50.0 0 0 - 1 3 33.3 3 2 5 6 1 0 4 1 -13
+p313
+aVChucky Atkins ORL 02/24/2000 ORL @ POR L 22 16 7 13 53.8 1 3 33.3 1 2 50.0 0 2 2 7 2 0 0 1 -10
+p314
+aVDerek Strong ORL 02/24/2000 ORL @ POR L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p315
+aVMonty Williams ORL 02/22/2000 ORL @ SEA L 19 9 4 12 33.3 0 0 - 1 2 50.0 2 2 4 1 1 0 0 4 -5
+p316
+aVJohn Amaechi ORL 02/22/2000 ORL @ SEA L 17 9 4 8 50.0 0 0 - 1 3 33.3 0 2 2 0 1 1 4 1 -16
+p317
+aVDarrell Armstrong ORL 02/22/2000 ORL @ SEA L 29 11 4 12 33.3 2 5 40.0 1 2 50.0 0 1 1 3 1 0 0 0 -35
+p318
+aVBen Wallace ORL 02/22/2000 ORL @ SEA L 24 4 2 6 33.3 0 0 - 0 2 0.0 4 3 7 2 1 1 0 3 -25
+p319
+aVDerek Strong ORL 02/22/2000 ORL @ SEA L 17 5 1 2 50.0 0 0 - 3 4 75.0 2 3 5 1 1 0 1 2 4
+p320
+aVBo Outlaw ORL 02/22/2000 ORL @ SEA L 26 6 3 5 60.0 0 0 - 0 0 - 3 2 5 3 0 1 2 3 -33
+p321
+aVPat Garrity ORL 02/22/2000 ORL @ SEA L 20 6 1 6 16.7 0 2 0.0 4 4 100.0 0 5 5 0 1 0 3 2 -16
+p322
+aVChucky Atkins ORL 02/22/2000 ORL @ SEA L 29 21 9 15 60.0 3 6 50.0 0 2 0.0 0 3 3 4 3 0 2 2 -20
+p323
+aVCorey Maggette ORL 02/22/2000 ORL @ SEA L 22 13 5 11 45.5 0 1 0.0 3 4 75.0 2 3 5 0 0 0 3 3 -7
+p324
+aVRon Mercer ORL 02/22/2000 ORL @ SEA L 18 4 2 11 18.2 0 0 - 0 2 0.0 3 1 4 2 1 0 2 0 -16
+p325
+aVJohnny Taylor ORL 02/22/2000 ORL @ SEA L 11 3 1 4 25.0 1 1 100.0 0 0 - 1 0 1 0 1 1 0 1 3
+p326
+aVMichael Doleac ORL 02/22/2000 ORL @ SEA L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -14
+p327
+aVBo Outlaw ORL 02/18/2000 ORL vs. LAL L 36 7 3 6 50.0 0 1 0.0 1 3 33.3 5 4 9 9 1 1 1 3 -10
+p328
+aVMonty Williams ORL 02/18/2000 ORL vs. LAL L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p329
+aVRon Mercer ORL 02/18/2000 ORL vs. LAL L 35 11 5 12 41.7 0 0 - 1 2 50.0 2 3 5 1 0 0 2 5 -13
+p330
+aVPat Garrity ORL 02/18/2000 ORL vs. LAL L 38 13 6 13 46.2 1 6 16.7 0 0 - 1 4 5 2 0 0 2 1 1
+p331
+aVBen Wallace ORL 02/18/2000 ORL vs. LAL L 17 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 1 0 0 3 -10
+p332
+aVJohn Amaechi ORL 02/18/2000 ORL vs. LAL L 18 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 1 -7
+p333
+aVDarrell Armstrong ORL 02/18/2000 ORL vs. LAL L 36 24 10 20 50.0 2 6 33.3 2 2 100.0 0 2 2 5 2 0 4 3 -7
+p334
+aVCorey Maggette ORL 02/18/2000 ORL vs. LAL L 18 4 2 6 33.3 0 0 - 0 0 - 2 4 6 1 0 0 1 1 5
+p335
+aVMichael Doleac ORL 02/18/2000 ORL vs. LAL L 31 16 7 14 50.0 0 0 - 2 2 100.0 0 7 7 3 2 1 3 6 3
+p336
+aVChucky Atkins ORL 02/18/2000 ORL vs. LAL L 20 11 5 15 33.3 1 3 33.3 0 0 - 0 3 3 4 0 0 2 3 0
+p337
+aVBo Outlaw ORL 02/16/2000 ORL vs. LAC W 28 8 3 5 60.0 0 0 - 2 3 66.7 2 5 7 8 1 2 2 3 21
+p338
+aVChucky Atkins ORL 02/16/2000 ORL vs. LAC W 17 8 4 11 36.4 0 3 0.0 0 0 - 2 1 3 2 1 0 0 2 7
+p339
+aVBen Wallace ORL 02/16/2000 ORL vs. LAC W 25 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 1 0 0 23
+p340
+aVPat Garrity ORL 02/16/2000 ORL vs. LAC W 18 15 6 11 54.5 3 5 60.0 0 2 0.0 0 4 4 0 0 1 1 1 10
+p341
+aVMichael Doleac ORL 02/16/2000 ORL vs. LAC W 21 4 2 4 50.0 0 0 - 0 0 - 2 2 4 2 0 0 0 0 4
+p342
+aVCorey Maggette ORL 02/16/2000 ORL vs. LAC W 22 14 4 7 57.1 0 0 - 6 6 100.0 3 5 8 2 0 0 3 2 13
+p343
+aVJohn Amaechi ORL 02/16/2000 ORL vs. LAC W 27 23 10 15 66.7 0 0 - 3 3 100.0 0 3 3 1 1 0 1 3 29
+p344
+aVDarrell Armstrong ORL 02/16/2000 ORL vs. LAC W 31 26 10 12 83.3 6 8 75.0 0 0 - 0 3 3 9 4 0 3 0 26
+p345
+aVRon Mercer ORL 02/16/2000 ORL vs. LAC W 27 17 6 17 35.3 0 2 0.0 5 5 100.0 1 3 4 4 0 2 2 1 20
+p346
+aVMonty Williams ORL 02/16/2000 ORL vs. LAC W 17 10 4 5 80.0 0 0 - 2 2 100.0 0 6 6 2 0 0 1 2 8
+p347
+aVJohnny Taylor ORL 02/16/2000 ORL vs. LAC W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 4
+p348
+aVBen Wallace ORL 02/09/2000 ORL vs. WAS W 37 11 5 8 62.5 0 0 - 1 3 33.3 3 13 16 1 3 3 2 3 5
+p349
+aVDarrell Armstrong ORL 02/09/2000 ORL vs. WAS W 30 13 6 15 40.0 0 4 0.0 1 2 50.0 3 1 4 8 3 0 0 2 2
+p350
+aVMichael Doleac ORL 02/09/2000 ORL vs. WAS W 20 8 4 7 57.1 0 0 - 0 1 0.0 0 2 2 1 2 0 0 5 8
+p351
+aVPat Garrity ORL 02/09/2000 ORL vs. WAS W 15 9 4 7 57.1 1 2 50.0 0 0 - 1 2 3 2 0 0 0 2 2
+p352
+aVJohn Amaechi ORL 02/09/2000 ORL vs. WAS W 28 14 7 11 63.6 0 0 - 0 1 0.0 0 2 2 1 1 1 0 3 3
+p353
+aVMonty Williams ORL 02/09/2000 ORL vs. WAS W 13 8 3 8 37.5 0 0 - 2 4 50.0 0 3 3 1 2 0 1 4 6
+p354
+aVCorey Maggette ORL 02/09/2000 ORL vs. WAS W 21 15 6 10 60.0 0 0 - 3 3 100.0 1 2 3 0 0 0 0 0 8
+p355
+aVJohnny Taylor ORL 02/09/2000 ORL vs. WAS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p356
+aVRon Mercer ORL 02/09/2000 ORL vs. WAS W 27 14 7 16 43.8 0 1 0.0 0 0 - 4 0 4 2 2 1 2 0 1
+p357
+aVChucky Atkins ORL 02/09/2000 ORL vs. WAS W 18 11 4 9 44.4 0 0 - 3 4 75.0 0 3 3 9 1 0 1 1 9
+p358
+aVBo Outlaw ORL 02/09/2000 ORL vs. WAS W 30 4 2 5 40.0 0 0 - 0 2 0.0 3 1 4 4 1 2 2 1 12
+p359
+aVMichael Doleac ORL 02/07/2000 ORL vs. GSW W 21 23 11 15 73.3 0 0 - 1 1 100.0 0 3 3 0 1 0 2 6 -5
+p360
+aVChucky Atkins ORL 02/07/2000 ORL vs. GSW W 21 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 13 0 0 2 2 0
+p361
+aVCorey Maggette ORL 02/07/2000 ORL vs. GSW W 27 9 3 7 42.9 0 1 0.0 3 4 75.0 2 2 4 0 0 0 3 3 -2
+p362
+aVDarrell Armstrong ORL 02/07/2000 ORL vs. GSW W 27 8 2 5 40.0 2 4 50.0 2 3 66.7 0 2 2 10 3 0 2 0 20
+p363
+aVBo Outlaw ORL 02/07/2000 ORL vs. GSW W 27 8 4 5 80.0 0 0 - 0 0 - 2 3 5 3 2 3 1 4 25
+p364
+aVBen Wallace ORL 02/07/2000 ORL vs. GSW W 31 3 0 2 0.0 0 0 - 3 4 75.0 1 8 9 0 0 3 1 3 19
+p365
+aVJohn Amaechi ORL 02/07/2000 ORL vs. GSW W 27 25 8 15 53.3 0 0 - 9 10 90.0 0 7 7 2 0 2 2 2 25
+p366
+aVJohnny Taylor ORL 02/07/2000 ORL vs. GSW W 5 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p367
+aVPat Garrity ORL 02/07/2000 ORL vs. GSW W 17 7 3 5 60.0 1 3 33.3 0 0 - 0 4 4 1 0 0 1 4 -4
+p368
+aVRon Mercer ORL 02/07/2000 ORL vs. GSW W 21 18 7 15 46.7 0 0 - 4 5 80.0 0 2 2 1 3 0 0 4 22
+p369
+aVMonty Williams ORL 02/07/2000 ORL vs. GSW W 16 10 4 4 100.0 0 0 - 2 2 100.0 1 3 4 1 0 0 4 1 0
+p370
+aVChucky Atkins ORL 02/05/2000 ORL vs. IND W 21 17 6 10 60.0 1 1 100.0 4 5 80.0 1 4 5 7 1 0 0 2 1
+p371
+aVDarrell Armstrong ORL 02/05/2000 ORL vs. IND W 27 10 2 9 22.2 0 3 0.0 6 6 100.0 0 2 2 6 1 0 2 3 2
+p372
+aVBen Wallace ORL 02/05/2000 ORL vs. IND W 26 4 2 7 28.6 0 0 - 0 1 0.0 5 6 11 0 1 0 2 2 -2
+p373
+aVPat Garrity ORL 02/05/2000 ORL vs. IND W 25 18 6 12 50.0 4 7 57.1 2 2 100.0 0 3 3 1 0 0 1 5 1
+p374
+aVJohn Amaechi ORL 02/05/2000 ORL vs. IND W 33 19 7 15 46.7 0 0 - 5 13 38.5 2 5 7 3 1 0 3 3 4
+p375
+aVBo Outlaw ORL 02/05/2000 ORL vs. IND W 22 8 3 3 100.0 0 0 - 2 4 50.0 1 2 3 1 4 0 1 3 3
+p376
+aVMichael Doleac ORL 02/05/2000 ORL vs. IND W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 0 0 1 5 3
+p377
+aVRon Mercer ORL 02/05/2000 ORL vs. IND W 30 8 4 12 33.3 0 0 - 0 0 - 1 3 4 3 1 0 2 3 4
+p378
+aVMonty Williams ORL 02/05/2000 ORL vs. IND W 24 12 4 6 66.7 0 0 - 4 6 66.7 1 1 2 1 1 0 1 2 6
+p379
+aVCorey Maggette ORL 02/05/2000 ORL vs. IND W 18 5 1 3 33.3 0 0 - 3 4 75.0 1 2 3 0 1 0 3 3 3
+p380
+aVJohn Amaechi ORL 02/01/2000 ORL @ NYK W 20 6 2 7 28.6 0 0 - 2 2 100.0 1 2 3 1 0 1 3 2 11
+p381
+aVChucky Atkins ORL 02/01/2000 ORL @ NYK W 28 22 10 16 62.5 1 4 25.0 1 1 100.0 0 0 0 7 2 0 0 1 8
+p382
+aVMonty Williams ORL 02/01/2000 ORL @ NYK W 29 14 5 9 55.6 0 0 - 4 7 57.1 2 3 5 1 1 0 2 3 13
+p383
+aVPat Garrity ORL 02/01/2000 ORL @ NYK W 25 10 4 9 44.4 2 4 50.0 0 0 - 0 5 5 1 0 1 1 4 4
+p384
+aVDarrell Armstrong ORL 02/01/2000 ORL @ NYK W 31 9 2 4 50.0 0 1 0.0 5 5 100.0 0 3 3 7 2 0 2 1 22
+p385
+aVMichael Doleac ORL 02/01/2000 ORL @ NYK W 25 14 6 10 60.0 0 0 - 2 3 66.7 1 2 3 1 0 0 0 3 10
+p386
+aVCorey Maggette ORL 02/01/2000 ORL @ NYK W 19 7 2 9 22.2 0 1 0.0 3 4 75.0 1 3 4 0 0 0 2 3 8
+p387
+aVBen Wallace ORL 02/01/2000 ORL @ NYK W 30 9 4 4 100.0 0 0 - 1 4 25.0 1 9 10 1 1 3 2 2 20
+p388
+aVBo Outlaw ORL 02/01/2000 ORL @ NYK W 33 7 3 5 60.0 0 0 - 1 2 50.0 1 10 11 3 0 0 0 1 9
+p389
+aVChris Gatling ORL 01/31/2000 ORL vs. PHX L 25 10 4 9 44.4 0 1 0.0 2 3 66.7 1 4 5 0 1 0 1 5 9
+p390
+aVJohn Amaechi ORL 01/31/2000 ORL vs. PHX L 17 8 4 10 40.0 0 0 - 0 0 - 1 0 1 2 0 0 2 1 -7
+p391
+aVMonty Williams ORL 01/31/2000 ORL vs. PHX L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 2 3 -3
+p392
+aVChucky Atkins ORL 01/31/2000 ORL vs. PHX L 15 6 2 6 33.3 2 3 66.7 0 1 0.0 0 0 0 0 0 0 0 2 1
+p393
+aVPat Garrity ORL 01/31/2000 ORL vs. PHX L 12 6 1 5 20.0 0 0 - 4 4 100.0 0 1 1 1 0 1 0 1 13
+p394
+aVTariq Abdul-Wahad ORL 01/31/2000 ORL vs. PHX L 29 19 8 18 44.4 0 0 - 3 6 50.0 4 2 6 3 1 1 1 4 -11
+p395
+aVMichael Doleac ORL 01/31/2000 ORL vs. PHX L 21 12 6 7 85.7 0 0 - 0 0 - 0 2 2 0 2 0 0 3 -10
+p396
+aVDarrell Armstrong ORL 01/31/2000 ORL vs. PHX L 41 26 10 21 47.6 4 8 50.0 2 2 100.0 1 2 3 11 3 0 2 4 5
+p397
+aVCorey Maggette ORL 01/31/2000 ORL vs. PHX L 25 16 6 8 75.0 1 1 100.0 3 4 75.0 4 6 10 2 1 0 1 3 7
+p398
+aVBen Wallace ORL 01/31/2000 ORL vs. PHX L 22 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 2 1 0 -11
+p399
+aVBo Outlaw ORL 01/31/2000 ORL vs. PHX L 24 4 2 2 100.0 0 0 - 0 2 0.0 2 1 3 2 0 1 0 1 -13
+p400
+aVCorey Maggette ORL 01/29/2000 ORL vs. ATL W 22 18 4 5 80.0 0 0 - 10 14 71.4 3 4 7 4 0 0 1 3 16
+p401
+aVTariq Abdul-Wahad ORL 01/29/2000 ORL vs. ATL W 26 8 4 8 50.0 0 0 - 0 0 - 2 4 6 3 0 0 3 4 0
+p402
+aVChucky Atkins ORL 01/29/2000 ORL vs. ATL W 22 9 3 7 42.9 0 0 - 3 4 75.0 0 1 1 3 1 0 1 3 17
+p403
+aVPat Garrity ORL 01/29/2000 ORL vs. ATL W 19 5 2 7 28.6 0 3 0.0 1 2 50.0 0 3 3 0 0 1 0 3 0
+p404
+aVChris Gatling ORL 01/29/2000 ORL vs. ATL W 31 19 8 14 57.1 0 1 0.0 3 3 100.0 1 11 12 0 2 0 0 5 32
+p405
+aVMonty Williams ORL 01/29/2000 ORL vs. ATL W 22 13 4 7 57.1 0 0 - 5 6 83.3 0 2 2 1 1 2 1 3 18
+p406
+aVBen Wallace ORL 01/29/2000 ORL vs. ATL W 14 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -12
+p407
+aVDarrell Armstrong ORL 01/29/2000 ORL vs. ATL W 26 16 5 14 35.7 2 7 28.6 4 4 100.0 0 5 5 4 1 0 3 0 -1
+p408
+aVDerek Strong ORL 01/29/2000 ORL vs. ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -4
+p409
+aVJohn Amaechi ORL 01/29/2000 ORL vs. ATL W 11 2 1 5 20.0 0 0 - 0 1 0.0 0 1 1 0 0 1 1 0 -7
+p410
+aVBo Outlaw ORL 01/29/2000 ORL vs. ATL W 26 7 3 4 75.0 0 0 - 1 2 50.0 2 3 5 1 0 2 0 1 -2
+p411
+aVMichael Doleac ORL 01/29/2000 ORL vs. ATL W 18 6 3 4 75.0 0 0 - 0 0 - 1 4 5 2 0 0 1 5 23
+p412
+aVPat Garrity ORL 01/27/2000 ORL @ CLE L 15 8 3 8 37.5 1 2 50.0 1 2 50.0 0 1 1 0 0 0 3 4 -18
+p413
+aVDerek Strong ORL 01/27/2000 ORL @ CLE L 3 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 7
+p414
+aVCorey Maggette ORL 01/27/2000 ORL @ CLE L 27 16 7 9 77.8 0 1 0.0 2 2 100.0 3 3 6 3 0 0 1 1 8
+p415
+aVMonty Williams ORL 01/27/2000 ORL @ CLE L 13 2 1 7 14.3 0 0 - 0 0 - 1 0 1 2 0 0 1 3 -10
+p416
+aVBen Wallace ORL 01/27/2000 ORL @ CLE L 21 0 0 4 0.0 0 0 - 0 0 - 2 4 6 0 1 0 0 4 -11
+p417
+aVDarrell Armstrong ORL 01/27/2000 ORL @ CLE L 31 21 8 14 57.1 3 7 42.9 2 2 100.0 1 2 3 7 2 1 4 4 0
+p418
+aVJohn Amaechi ORL 01/27/2000 ORL @ CLE L 15 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 1 0 2 2 -8
+p419
+aVBo Outlaw ORL 01/27/2000 ORL @ CLE L 31 4 1 4 25.0 0 0 - 2 2 100.0 4 5 9 2 1 0 1 5 -3
+p420
+aVChucky Atkins ORL 01/27/2000 ORL @ CLE L 24 9 3 7 42.9 2 3 66.7 1 1 100.0 0 3 3 4 0 0 4 3 -11
+p421
+aVTariq Abdul-Wahad ORL 01/27/2000 ORL @ CLE L 27 17 6 14 42.9 0 1 0.0 5 6 83.3 1 5 6 2 5 1 6 2 -9
+p422
+aVChris Gatling ORL 01/27/2000 ORL @ CLE L 19 5 2 8 25.0 0 0 - 1 2 50.0 0 4 4 0 1 1 4 4 -3
+p423
+aVMichael Doleac ORL 01/27/2000 ORL @ CLE L 13 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 0 0 2 2 -2
+p424
+aVPat Garrity ORL 01/26/2000 ORL vs. BOS W 13 6 3 3 100.0 0 0 - 0 0 - 0 2 2 1 0 1 1 5 -1
+p425
+aVBo Outlaw ORL 01/26/2000 ORL vs. BOS W 31 13 5 7 71.4 0 0 - 3 5 60.0 0 1 1 2 1 0 0 1 27
+p426
+aVDerek Strong ORL 01/26/2000 ORL vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p427
+aVBen Wallace ORL 01/26/2000 ORL vs. BOS W 31 12 5 6 83.3 0 0 - 2 3 66.7 0 7 7 2 0 2 2 2 18
+p428
+aVChucky Atkins ORL 01/26/2000 ORL vs. BOS W 19 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 5 0 0 1 1 0
+p429
+aVDarrell Armstrong ORL 01/26/2000 ORL vs. BOS W 29 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 8 1 1 0 1 22
+p430
+aVMichael Doleac ORL 01/26/2000 ORL vs. BOS W 10 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 1 0 0 0 0 1
+p431
+aVMonty Williams ORL 01/26/2000 ORL vs. BOS W 18 7 2 5 40.0 0 0 - 3 4 75.0 0 4 4 3 0 0 1 2 -3
+p432
+aVTariq Abdul-Wahad ORL 01/26/2000 ORL vs. BOS W 29 19 7 12 58.3 0 0 - 5 5 100.0 1 6 7 0 2 0 3 3 23
+p433
+aVCorey Maggette ORL 01/26/2000 ORL vs. BOS W 18 9 1 2 50.0 1 1 100.0 6 8 75.0 1 1 2 0 0 1 1 0 -3
+p434
+aVChris Gatling ORL 01/26/2000 ORL vs. BOS W 16 7 1 3 33.3 0 0 - 5 10 50.0 1 1 2 0 0 0 1 4 -2
+p435
+aVJohn Amaechi ORL 01/26/2000 ORL vs. BOS W 24 16 7 11 63.6 0 0 - 2 2 100.0 1 1 2 3 2 1 1 4 25
+p436
+aVTariq Abdul-Wahad ORL 01/23/2000 ORL @ LAC W 26 15 6 10 60.0 0 0 - 3 6 50.0 0 3 3 0 1 1 1 2 9
+p437
+aVDerek Strong ORL 01/23/2000 ORL @ LAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p438
+aVCorey Maggette ORL 01/23/2000 ORL @ LAC W 11 10 4 5 80.0 0 0 - 2 4 50.0 2 3 5 1 0 0 1 2 -9
+p439
+aVChucky Atkins ORL 01/23/2000 ORL @ LAC W 23 9 4 11 36.4 1 3 33.3 0 0 - 1 1 2 4 0 0 0 1 4
+p440
+aVDarrell Armstrong ORL 01/23/2000 ORL @ LAC W 37 17 8 14 57.1 1 3 33.3 0 0 - 2 4 6 6 2 0 1 3 22
+p441
+aVPat Garrity ORL 01/23/2000 ORL @ LAC W 8 3 1 6 16.7 0 1 0.0 1 1 100.0 1 1 2 0 0 0 0 0 -1
+p442
+aVMonty Williams ORL 01/23/2000 ORL @ LAC W 12 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 2 -5
+p443
+aVBo Outlaw ORL 01/23/2000 ORL @ LAC W 35 14 5 10 50.0 0 0 - 4 6 66.7 3 6 9 2 3 2 2 2 18
+p444
+aVBen Wallace ORL 01/23/2000 ORL @ LAC W 37 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 2 3 2 0 4 15
+p445
+aVJohn Amaechi ORL 01/23/2000 ORL @ LAC W 21 12 4 11 36.4 0 0 - 4 6 66.7 0 5 5 1 1 0 2 1 9
+p446
+aVChris Gatling ORL 01/23/2000 ORL @ LAC W 26 11 3 13 23.1 0 0 - 5 5 100.0 3 6 9 0 0 0 1 4 7
+p447
+aVCorey Maggette ORL 01/22/2000 ORL @ VAN W 19 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 1 -3
+p448
+aVMichael Doleac ORL 01/22/2000 ORL @ VAN W 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -12
+p449
+aVChucky Atkins ORL 01/22/2000 ORL @ VAN W 18 16 6 9 66.7 1 2 50.0 3 4 75.0 0 0 0 3 0 0 2 2 -4
+p450
+aVJohn Amaechi ORL 01/22/2000 ORL @ VAN W 24 8 4 9 44.4 0 0 - 0 1 0.0 2 3 5 1 2 2 3 1 5
+p451
+aVMonty Williams ORL 01/22/2000 ORL @ VAN W 12 0 0 4 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -3
+p452
+aVBo Outlaw ORL 01/22/2000 ORL @ VAN W 36 2 1 3 33.3 0 0 - 0 0 - 1 2 3 3 3 2 2 2 6
+p453
+aVChris Gatling ORL 01/22/2000 ORL @ VAN W 22 14 5 12 41.7 0 0 - 4 6 66.7 3 3 6 0 1 1 2 4 -1
+p454
+aVDarrell Armstrong ORL 01/22/2000 ORL @ VAN W 34 9 3 11 27.3 1 2 50.0 2 3 66.7 0 1 1 7 2 0 3 0 5
+p455
+aVTariq Abdul-Wahad ORL 01/22/2000 ORL @ VAN W 25 16 8 16 50.0 0 0 - 0 0 - 4 1 5 2 1 0 1 1 7
+p456
+aVBen Wallace ORL 01/22/2000 ORL @ VAN W 25 9 4 5 80.0 0 0 - 1 2 50.0 3 8 11 1 2 4 2 3 9
+p457
+aVPat Garrity ORL 01/22/2000 ORL @ VAN W 17 9 4 6 66.7 1 1 100.0 0 0 - 0 3 3 1 1 0 1 3 6
+p458
+aVBo Outlaw ORL 01/20/2000 ORL @ SAC L 39 12 5 8 62.5 0 1 0.0 2 4 50.0 4 4 8 4 2 1 1 2 -5
+p459
+aVAnthony Parker ORL 01/20/2000 ORL @ SAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -3
+p460
+aVMichael Doleac ORL 01/20/2000 ORL @ SAC L 15 9 2 8 25.0 0 1 0.0 5 5 100.0 1 3 4 0 0 1 1 5 6
+p461
+aVBen Wallace ORL 01/20/2000 ORL @ SAC L 24 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 1 4 1 0 0 -4
+p462
+aVDerek Strong ORL 01/20/2000 ORL @ SAC L 10 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 1 0 0 0 1 -8
+p463
+aVPat Garrity ORL 01/20/2000 ORL @ SAC L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p464
+aVChris Gatling ORL 01/20/2000 ORL @ SAC L 19 10 2 5 40.0 0 0 - 6 10 60.0 0 7 7 0 1 1 3 3 -5
+p465
+aVJohn Amaechi ORL 01/20/2000 ORL @ SAC L 20 12 5 11 45.5 0 0 - 2 2 100.0 0 0 0 1 0 0 1 2 -4
+p466
+aVDarrell Armstrong ORL 01/20/2000 ORL @ SAC L 35 16 8 15 53.3 0 2 0.0 0 0 - 0 2 2 6 3 0 4 2 -9
+p467
+aVTariq Abdul-Wahad ORL 01/20/2000 ORL @ SAC L 20 6 2 11 18.2 0 0 - 2 2 100.0 3 2 5 2 3 0 1 4 6
+p468
+aVCorey Maggette ORL 01/20/2000 ORL @ SAC L 25 18 9 11 81.8 0 1 0.0 0 0 - 2 2 4 0 0 1 5 3 -13
+p469
+aVChucky Atkins ORL 01/20/2000 ORL @ SAC L 18 5 2 8 25.0 1 2 50.0 0 0 - 0 1 1 2 1 0 2 1 2
+p470
+aVBo Outlaw ORL 01/17/2000 ORL @ GSW L 34 12 6 9 66.7 0 0 - 0 0 - 2 3 5 2 0 3 1 2 -3
+p471
+aVDerek Strong ORL 01/17/2000 ORL @ GSW L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 3
+p472
+aVDarrell Armstrong ORL 01/17/2000 ORL @ GSW L 35 18 6 21 28.6 3 4 75.0 3 3 100.0 2 3 5 6 4 0 2 1 -3
+p473
+aVAnthony Parker ORL 01/17/2000 ORL @ GSW L 13 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 0 -6
+p474
+aVBen Wallace ORL 01/17/2000 ORL @ GSW L 25 2 1 1 100.0 0 0 - 0 0 - 3 4 7 3 1 2 0 3 0
+p475
+aVCorey Maggette ORL 01/17/2000 ORL @ GSW L 11 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 0 1 3 -12
+p476
+aVJohn Amaechi ORL 01/17/2000 ORL @ GSW L 23 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 2 0 0 2 0 -3
+p477
+aVMichael Doleac ORL 01/17/2000 ORL @ GSW L 16 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -4
+p478
+aVChris Gatling ORL 01/17/2000 ORL @ GSW L 20 10 4 7 57.1 0 1 0.0 2 3 66.7 0 4 4 2 0 0 5 3 -15
+p479
+aVPat Garrity ORL 01/17/2000 ORL @ GSW L 9 6 2 4 50.0 1 2 50.0 1 2 50.0 2 2 4 0 0 0 0 4 -6
+p480
+aVTariq Abdul-Wahad ORL 01/17/2000 ORL @ GSW L 35 19 6 15 40.0 0 0 - 7 8 87.5 1 2 3 2 0 2 3 2 -7
+p481
+aVChucky Atkins ORL 01/17/2000 ORL @ GSW L 17 9 4 8 50.0 1 4 25.0 0 0 - 0 0 0 1 0 0 4 0 -9
+p482
+aVAnthony Parker ORL 01/15/2000 ORL vs. IND L 14 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -12
+p483
+aVMichael Doleac ORL 01/15/2000 ORL vs. IND L 10 2 1 5 20.0 0 0 - 0 0 - 4 4 8 0 1 0 0 2 1
+p484
+aVTariq Abdul-Wahad ORL 01/15/2000 ORL vs. IND L 34 18 9 15 60.0 0 0 - 0 0 - 1 5 6 2 1 1 2 2 5
+p485
+aVChucky Atkins ORL 01/15/2000 ORL vs. IND L 16 2 1 6 16.7 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -8
+p486
+aVChris Gatling ORL 01/15/2000 ORL vs. IND L 31 13 3 12 25.0 0 0 - 7 10 70.0 0 3 3 0 1 0 2 4 -11
+p487
+aVJohn Amaechi ORL 01/15/2000 ORL vs. IND L 17 10 4 11 36.4 0 0 - 2 4 50.0 0 0 0 0 1 0 0 1 4
+p488
+aVBen Wallace ORL 01/15/2000 ORL vs. IND L 20 2 1 1 100.0 0 0 - 0 0 - 4 2 6 0 1 0 1 2 2
+p489
+aVCorey Maggette ORL 01/15/2000 ORL vs. IND L 18 6 2 7 28.6 0 0 - 2 4 50.0 1 3 4 0 1 0 2 3 -16
+p490
+aVPat Garrity ORL 01/15/2000 ORL vs. IND L 18 8 4 12 33.3 0 3 0.0 0 0 - 2 3 5 0 0 0 4 4 -10
+p491
+aVDarrell Armstrong ORL 01/15/2000 ORL vs. IND L 32 17 7 12 58.3 1 3 33.3 2 2 100.0 2 6 8 4 1 0 1 2 1
+p492
+aVBo Outlaw ORL 01/15/2000 ORL vs. IND L 29 9 4 7 57.1 0 0 - 1 1 100.0 4 2 6 2 0 1 1 2 9
+p493
+aVTariq Abdul-Wahad ORL 01/14/2000 ORL @ PHI L 15 9 4 8 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 2 0 -4
+p494
+aVChucky Atkins ORL 01/14/2000 ORL @ PHI L 28 15 6 11 54.5 1 2 50.0 2 2 100.0 1 0 1 4 0 0 1 0 3
+p495
+aVCorey Maggette ORL 01/14/2000 ORL @ PHI L 15 14 4 9 44.4 0 0 - 6 8 75.0 3 0 3 0 0 0 0 3 4
+p496
+aVBo Outlaw ORL 01/14/2000 ORL @ PHI L 29 2 1 1 100.0 0 0 - 0 0 - 2 4 6 3 1 6 4 2 -2
+p497
+aVDarrell Armstrong ORL 01/14/2000 ORL @ PHI L 35 9 4 11 36.4 1 3 33.3 0 0 - 2 2 4 5 0 0 6 1 -11
+p498
+aVPat Garrity ORL 01/14/2000 ORL @ PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p499
+aVMichael Doleac ORL 01/14/2000 ORL @ PHI L 37 18 8 21 38.1 0 0 - 2 2 100.0 5 8 13 2 0 3 0 5 10
+p500
+aVJohn Amaechi ORL 01/14/2000 ORL @ PHI L 11 7 3 4 75.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 4 -12
+p501
+aVChris Gatling ORL 01/14/2000 ORL @ PHI L 36 18 3 11 27.3 0 0 - 12 13 92.3 5 6 11 3 0 0 2 4 2
+p502
+aVBen Wallace ORL 01/14/2000 ORL @ PHI L 12 0 0 1 0.0 0 0 - 0 0 - 0 5 5 1 0 1 1 1 -4
+p503
+aVAnthony Parker ORL 01/14/2000 ORL @ PHI L 21 8 2 5 40.0 0 1 0.0 4 4 100.0 0 3 3 5 2 1 2 0 4
+p504
+aVJohn Amaechi ORL 01/12/2000 ORL @ TOR L 15 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 2 0 1 3 1 1
+p505
+aVPat Garrity ORL 01/12/2000 ORL @ TOR L 11 8 4 8 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 2 -2
+p506
+aVChucky Atkins ORL 01/12/2000 ORL @ TOR L 22 6 3 10 30.0 0 2 0.0 0 0 - 1 1 2 7 1 0 4 4 -9
+p507
+aVBen Wallace ORL 01/12/2000 ORL @ TOR L 27 5 2 3 66.7 0 0 - 1 1 100.0 3 7 10 0 3 2 1 2 3
+p508
+aVMichael Doleac ORL 01/12/2000 ORL @ TOR L 29 20 7 11 63.6 0 0 - 6 7 85.7 2 6 8 3 0 2 1 5 -3
+p509
+aVChris Gatling ORL 01/12/2000 ORL @ TOR L 21 14 3 7 42.9 0 1 0.0 8 8 100.0 1 1 2 1 0 0 3 3 -9
+p510
+aVTariq Abdul-Wahad ORL 01/12/2000 ORL @ TOR L 29 23 7 12 58.3 0 0 - 9 10 90.0 1 2 3 1 0 0 4 0 5
+p511
+aVDarrell Armstrong ORL 01/12/2000 ORL @ TOR L 28 15 5 10 50.0 1 2 50.0 4 4 100.0 0 2 2 3 6 1 7 3 -2
+p512
+aVBo Outlaw ORL 01/12/2000 ORL @ TOR L 31 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 2 0 2 1 4 1
+p513
+aVCorey Maggette ORL 01/12/2000 ORL @ TOR L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p514
+aVAnthony Parker ORL 01/12/2000 ORL @ TOR L 18 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 1 2 2 3 -11
+p515
+aVMonty Williams ORL 01/10/2000 ORL vs. NJN L 12 5 2 7 28.6 0 0 - 1 1 100.0 1 1 2 0 2 0 4 0 -2
+p516
+aVChucky Atkins ORL 01/10/2000 ORL vs. NJN L 19 4 1 4 25.0 0 1 0.0 2 4 50.0 0 1 1 1 0 0 4 2 4
+p517
+aVPat Garrity ORL 01/10/2000 ORL vs. NJN L 27 11 4 12 33.3 2 5 40.0 1 2 50.0 1 1 2 1 2 2 2 3 5
+p518
+aVJohn Amaechi ORL 01/10/2000 ORL vs. NJN L 12 5 2 7 28.6 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 -15
+p519
+aVBen Wallace ORL 01/10/2000 ORL vs. NJN L 35 14 5 8 62.5 0 0 - 4 4 100.0 4 10 14 2 0 1 1 3 -5
+p520
+aVDarrell Armstrong ORL 01/10/2000 ORL vs. NJN L 40 29 11 19 57.9 1 3 33.3 6 6 100.0 0 2 2 8 1 0 2 4 0
+p521
+aVCorey Maggette ORL 01/10/2000 ORL vs. NJN L 12 0 0 4 0.0 0 0 - 0 0 - 0 0 0 2 2 0 0 1 -9
+p522
+aVMichael Doleac ORL 01/10/2000 ORL vs. NJN L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p523
+aVChris Gatling ORL 01/10/2000 ORL vs. NJN L 16 8 4 7 57.1 0 0 - 0 0 - 4 3 7 0 2 0 3 2 -4
+p524
+aVBo Outlaw ORL 01/10/2000 ORL vs. NJN L 36 16 5 8 62.5 0 0 - 6 10 60.0 2 8 10 1 1 3 2 3 3
+p525
+aVTariq Abdul-Wahad ORL 01/10/2000 ORL vs. NJN L 24 2 1 7 14.3 0 0 - 0 0 - 0 2 2 2 1 0 1 1 -7
+p526
+aVBen Wallace ORL 01/08/2000 ORL @ SAS L 22 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 2 -33
+p527
+aVKiwane Garris ORL 01/08/2000 ORL @ SAS L 21 4 2 9 22.2 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 10
+p528
+aVJohn Amaechi ORL 01/08/2000 ORL @ SAS L 21 4 0 6 0.0 0 0 - 4 4 100.0 1 2 3 2 2 1 3 2 -37
+p529
+aVPat Garrity ORL 01/08/2000 ORL @ SAS L 20 13 5 7 71.4 2 3 66.7 1 1 100.0 0 1 1 1 1 0 2 1 2
+p530
+aVChris Gatling ORL 01/08/2000 ORL @ SAS L 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 1 0 1 3 -14
+p531
+aVTariq Abdul-Wahad ORL 01/08/2000 ORL @ SAS L 12 2 0 4 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -30
+p532
+aVDarrell Armstrong ORL 01/08/2000 ORL @ SAS L 22 8 4 7 57.1 0 0 - 0 0 - 0 2 2 4 0 0 5 1 -39
+p533
+aVChucky Atkins ORL 01/08/2000 ORL @ SAS L 13 6 3 5 60.0 0 0 - 0 0 - 0 1 1 5 1 0 1 0 -12
+p534
+aVBo Outlaw ORL 01/08/2000 ORL @ SAS L 23 11 5 6 83.3 0 0 - 1 1 100.0 2 4 6 1 0 1 1 3 9
+p535
+aVCorey Maggette ORL 01/08/2000 ORL @ SAS L 32 17 7 14 50.0 0 0 - 3 5 60.0 2 2 4 0 2 1 5 5 -16
+p536
+aVMonty Williams ORL 01/08/2000 ORL @ SAS L 20 10 4 8 50.0 0 0 - 2 2 100.0 0 0 0 0 2 0 2 3 -18
+p537
+aVMichael Doleac ORL 01/08/2000 ORL @ SAS L 19 13 6 12 50.0 0 0 - 1 2 50.0 2 4 6 2 0 1 1 4 3
+p538
+aVKiwane Garris ORL 01/07/2000 ORL vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p539
+aVPat Garrity ORL 01/07/2000 ORL vs. NYK L 20 7 3 9 33.3 1 2 50.0 0 0 - 0 3 3 1 1 1 0 0 6
+p540
+aVTariq Abdul-Wahad ORL 01/07/2000 ORL vs. NYK L 24 9 4 15 26.7 0 0 - 1 2 50.0 3 2 5 3 2 0 3 2 -10
+p541
+aVChucky Atkins ORL 01/07/2000 ORL vs. NYK L 17 2 1 7 14.3 0 1 0.0 0 0 - 0 2 2 4 0 0 2 1 -1
+p542
+aVJohn Amaechi ORL 01/07/2000 ORL vs. NYK L 23 12 5 12 41.7 0 0 - 2 3 66.7 2 3 5 1 0 1 3 1 -17
+p543
+aVBo Outlaw ORL 01/07/2000 ORL vs. NYK L 34 2 0 1 0.0 0 0 - 2 2 100.0 4 5 9 3 3 2 0 3 2
+p544
+aVMichael Doleac ORL 01/07/2000 ORL vs. NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p545
+aVBen Wallace ORL 01/07/2000 ORL vs. NYK L 27 6 3 5 60.0 0 0 - 0 4 0.0 7 3 10 0 0 1 0 1 5
+p546
+aVDarrell Armstrong ORL 01/07/2000 ORL vs. NYK L 32 16 5 15 33.3 2 8 25.0 4 4 100.0 2 3 5 6 3 0 4 3 -9
+p547
+aVChris Gatling ORL 01/07/2000 ORL vs. NYK L 21 11 4 17 23.5 0 1 0.0 3 5 60.0 5 5 10 1 1 0 1 0 -1
+p548
+aVCorey Maggette ORL 01/07/2000 ORL vs. NYK L 20 14 7 10 70.0 0 0 - 0 0 - 2 5 7 1 0 0 4 4 -5
+p549
+aVMonty Williams ORL 01/07/2000 ORL vs. NYK L 18 7 3 7 42.9 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 -6
+p550
+aVBo Outlaw ORL 01/05/2000 ORL vs. VAN W 31 6 3 3 100.0 0 0 - 0 0 - 0 2 2 4 2 4 5 4 27
+p551
+aVCorey Maggette ORL 01/05/2000 ORL vs. VAN W 23 10 4 9 44.4 0 0 - 2 2 100.0 4 2 6 3 1 0 1 4 -1
+p552
+aVTariq Abdul-Wahad ORL 01/05/2000 ORL vs. VAN W 22 17 5 10 50.0 0 0 - 7 8 87.5 4 2 6 4 0 0 1 4 7
+p553
+aVDarrell Armstrong ORL 01/05/2000 ORL vs. VAN W 25 15 5 6 83.3 2 2 100.0 3 3 100.0 0 2 2 2 0 1 3 2 4
+p554
+aVMonty Williams ORL 01/05/2000 ORL vs. VAN W 14 6 3 4 75.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 8
+p555
+aVBen Wallace ORL 01/05/2000 ORL vs. VAN W 23 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 2 2 0 2 2
+p556
+aVChucky Atkins ORL 01/05/2000 ORL vs. VAN W 29 9 4 11 36.4 0 0 - 1 3 33.3 1 3 4 8 1 0 3 2 15
+p557
+aVJohn Amaechi ORL 01/05/2000 ORL vs. VAN W 20 16 6 12 50.0 0 0 - 4 4 100.0 0 5 5 1 1 1 0 1 2
+p558
+aVPat Garrity ORL 01/05/2000 ORL vs. VAN W 6 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 2 1
+p559
+aVMichael Doleac ORL 01/05/2000 ORL vs. VAN W 22 8 4 9 44.4 0 0 - 0 0 - 0 2 2 3 0 2 1 2 15
+p560
+aVChris Gatling ORL 01/05/2000 ORL vs. VAN W 25 23 7 11 63.6 0 1 0.0 9 10 90.0 1 3 4 0 2 0 2 4 20
+p561
+aVChucky Atkins ORL 01/03/2000 ORL vs. DET L 27 10 4 6 66.7 1 1 100.0 1 2 50.0 0 0 0 5 1 0 2 5 2
+p562
+aVDarrell Armstrong ORL 01/03/2000 ORL vs. DET L 22 3 1 5 20.0 0 2 0.0 1 1 100.0 0 2 2 4 2 0 4 1 -19
+p563
+aVPat Garrity ORL 01/03/2000 ORL vs. DET L 25 17 6 9 66.7 3 3 100.0 2 5 40.0 1 2 3 1 0 0 1 3 0
+p564
+aVMonty Williams ORL 01/03/2000 ORL vs. DET L 18 6 3 10 30.0 0 0 - 0 0 - 2 0 2 1 0 0 1 1 -13
+p565
+aVJohn Amaechi ORL 01/03/2000 ORL vs. DET L 10 2 1 7 14.3 0 0 - 0 0 - 1 2 3 1 0 0 2 2 -11
+p566
+aVChris Gatling ORL 01/03/2000 ORL vs. DET L 31 26 10 18 55.6 1 1 100.0 5 8 62.5 2 9 11 4 1 0 8 5 1
+p567
+aVMichael Doleac ORL 01/03/2000 ORL vs. DET L 7 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 -2
+p568
+aVBen Wallace ORL 01/03/2000 ORL vs. DET L 18 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 0 1 2 1 -13
+p569
+aVTariq Abdul-Wahad ORL 01/03/2000 ORL vs. DET L 19 11 5 10 50.0 0 0 - 1 2 50.0 1 4 5 2 1 1 2 3 -21
+p570
+aVCorey Maggette ORL 01/03/2000 ORL vs. DET L 35 20 6 8 75.0 0 0 - 8 9 88.9 3 5 8 2 1 1 4 5 6
+p571
+aVBo Outlaw ORL 01/03/2000 ORL vs. DET L 28 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 1 2 1 4 8
+p572
+aVKiwane Garris ORL 01/03/2000 ORL vs. DET L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p573
+aVMichael Doleac ORL 01/02/2000 ORL @ MIA L 28 14 5 9 55.6 0 0 - 4 4 100.0 2 8 10 2 0 1 2 4 0
+p574
+aVBo Outlaw ORL 01/02/2000 ORL @ MIA L 25 4 1 3 33.3 0 0 - 2 2 100.0 1 6 7 5 2 1 2 1 6
+p575
+aVJohn Amaechi ORL 01/02/2000 ORL @ MIA L 24 10 4 12 33.3 0 0 - 2 2 100.0 2 2 4 0 0 1 0 2 -5
+p576
+aVChris Gatling ORL 01/02/2000 ORL @ MIA L 28 10 2 10 20.0 0 0 - 6 9 66.7 5 4 9 0 0 1 2 4 6
+p577
+aVDarrell Armstrong ORL 01/02/2000 ORL @ MIA L 38 16 6 18 33.3 2 8 25.0 2 2 100.0 0 2 2 3 3 0 4 4 -13
+p578
+aVMonty Williams ORL 01/02/2000 ORL @ MIA L 27 6 2 6 33.3 0 1 0.0 2 2 100.0 2 4 6 2 0 0 2 6 -17
+p579
+aVBen Wallace ORL 01/02/2000 ORL @ MIA L 21 0 0 2 0.0 0 0 - 0 0 - 3 7 10 3 0 1 0 3 -8
+p580
+aVCorey Maggette ORL 01/02/2000 ORL @ MIA L 14 5 2 6 33.3 0 0 - 1 1 100.0 1 2 3 0 0 0 2 4 7
+p581
+aVTariq Abdul-Wahad ORL 01/02/2000 ORL @ MIA L 40 22 7 20 35.0 0 0 - 8 8 100.0 4 5 9 1 1 0 5 4 -15
+p582
+aVChucky Atkins ORL 01/02/2000 ORL @ MIA L 16 12 4 7 57.1 1 1 100.0 3 4 75.0 1 2 3 1 0 0 1 0 9
+p583
+aVPat Garrity ORL 01/02/2000 ORL @ MIA L 4 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p584
+aVPat Garrity ORL 12/30/1999 ORL @ NJN L 12 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 0 0 0 2 3 -9
+p585
+aVCorey Maggette ORL 12/30/1999 ORL @ NJN L 15 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 1 2 0 -3
+p586
+aVChucky Atkins ORL 12/30/1999 ORL @ NJN L 17 8 4 10 40.0 0 3 0.0 0 0 - 0 1 1 4 0 0 3 1 4
+p587
+aVBo Outlaw ORL 12/30/1999 ORL @ NJN L 31 8 4 5 80.0 0 0 - 0 1 0.0 2 6 8 2 1 3 1 2 5
+p588
+aVJohn Amaechi ORL 12/30/1999 ORL @ NJN L 28 13 6 10 60.0 0 0 - 1 2 50.0 1 4 5 1 0 1 1 1 5
+p589
+aVTariq Abdul-Wahad ORL 12/30/1999 ORL @ NJN L 35 18 7 16 43.8 0 0 - 4 6 66.7 6 11 17 3 1 0 4 1 -4
+p590
+aVMichael Doleac ORL 12/30/1999 ORL @ NJN L 12 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -10
+p591
+aVBen Wallace ORL 12/30/1999 ORL @ NJN L 19 0 0 1 0.0 0 0 - 0 0 - 2 4 6 0 1 0 0 1 -11
+p592
+aVChris Gatling ORL 12/30/1999 ORL @ NJN L 25 14 6 12 50.0 0 0 - 2 4 50.0 0 4 4 3 1 0 2 3 5
+p593
+aVDarrell Armstrong ORL 12/30/1999 ORL @ NJN L 32 18 6 18 33.3 4 7 57.1 2 2 100.0 0 2 2 4 1 0 2 3 -14
+p594
+aVMonty Williams ORL 12/30/1999 ORL @ NJN L 14 4 1 6 16.7 0 0 - 2 2 100.0 2 2 4 1 0 0 1 0 -18
+p595
+aVChris Gatling ORL 12/29/1999 ORL vs. MIA L 33 21 6 13 46.2 0 1 0.0 9 11 81.8 5 4 9 1 0 0 2 4 -5
+p596
+aVPat Garrity ORL 12/29/1999 ORL vs. MIA L 9 8 2 4 50.0 2 2 100.0 2 2 100.0 0 1 1 1 0 0 0 0 5
+p597
+aVCorey Maggette ORL 12/29/1999 ORL vs. MIA L 14 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 5
+p598
+aVDarrell Armstrong ORL 12/29/1999 ORL vs. MIA L 32 15 5 16 31.3 1 5 20.0 4 4 100.0 1 4 5 10 4 0 2 2 -3
+p599
+aVMonty Williams ORL 12/29/1999 ORL vs. MIA L 28 10 4 9 44.4 0 0 - 2 2 100.0 2 4 6 2 0 0 2 3 -2
+p600
+aVChucky Atkins ORL 12/29/1999 ORL vs. MIA L 16 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 0 0 0 3 1 0
+p601
+aVMichael Doleac ORL 12/29/1999 ORL vs. MIA L 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 2 0 1 4 -7
+p602
+aVTariq Abdul-Wahad ORL 12/29/1999 ORL vs. MIA L 34 21 9 16 56.3 0 0 - 3 7 42.9 1 5 6 1 2 1 1 5 -8
+p603
+aVBo Outlaw ORL 12/29/1999 ORL vs. MIA L 20 0 0 1 0.0 0 0 - 0 0 - 2 4 6 1 0 0 0 2 -3
+p604
+aVBen Wallace ORL 12/29/1999 ORL vs. MIA L 19 4 2 6 33.3 0 0 - 0 0 - 5 2 7 0 0 0 0 0 -3
+p605
+aVJohn Amaechi ORL 12/29/1999 ORL vs. MIA L 23 12 5 14 35.7 0 0 - 2 3 66.7 0 2 2 0 1 0 1 4 6
+p606
+aVBo Outlaw ORL 12/27/1999 ORL vs. MIN L 32 6 3 4 75.0 0 0 - 0 0 - 2 3 5 2 2 2 1 2 -2
+p607
+aVDarrell Armstrong ORL 12/27/1999 ORL vs. MIN L 30 16 7 19 36.8 2 8 25.0 0 0 - 0 0 0 3 3 0 2 1 -3
+p608
+aVMonty Williams ORL 12/27/1999 ORL vs. MIN L 22 6 2 8 25.0 0 0 - 2 2 100.0 0 2 2 2 0 0 1 0 -3
+p609
+aVBen Wallace ORL 12/27/1999 ORL vs. MIN L 17 8 4 5 80.0 0 0 - 0 2 0.0 3 2 5 1 0 0 1 1 -6
+p610
+aVChucky Atkins ORL 12/27/1999 ORL vs. MIN L 19 12 6 9 66.7 0 0 - 0 0 - 0 1 1 3 0 1 0 2 7
+p611
+aVTariq Abdul-Wahad ORL 12/27/1999 ORL vs. MIN L 20 16 6 11 54.5 0 0 - 4 6 66.7 2 6 8 1 2 0 0 1 -11
+p612
+aVJohn Amaechi ORL 12/27/1999 ORL vs. MIN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p613
+aVMichael Doleac ORL 12/27/1999 ORL vs. MIN L 12 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -5
+p614
+aVCorey Maggette ORL 12/27/1999 ORL vs. MIN L 27 13 5 7 71.4 0 0 - 3 3 100.0 0 2 2 0 1 0 1 2 8
+p615
+aVChris Gatling ORL 12/27/1999 ORL vs. MIN L 28 12 5 8 62.5 0 0 - 2 5 40.0 1 5 6 0 0 0 3 3 -3
+p616
+aVPat Garrity ORL 12/27/1999 ORL vs. MIN L 29 12 5 9 55.6 2 4 50.0 0 0 - 0 1 1 1 0 0 1 0 11
+p617
+aVChris Gatling ORL 12/23/1999 ORL @ CHH W 20 12 5 7 71.4 0 1 0.0 2 3 66.7 1 1 2 1 1 0 3 4 0
+p618
+aVChucky Atkins ORL 12/23/1999 ORL @ CHH W 13 4 1 6 16.7 0 1 0.0 2 3 66.7 1 1 2 0 0 0 2 1 -21
+p619
+aVCorey Maggette ORL 12/23/1999 ORL @ CHH W 26 13 5 14 35.7 0 0 - 3 3 100.0 4 1 5 0 0 1 3 0 -17
+p620
+aVBo Outlaw ORL 12/23/1999 ORL @ CHH W 15 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 2 0 2 -17
+p621
+aVJohn Amaechi ORL 12/23/1999 ORL @ CHH W 7 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -22
+p622
+aVPat Garrity ORL 12/23/1999 ORL @ CHH W 18 14 5 10 50.0 1 2 50.0 3 4 75.0 0 2 2 0 0 1 4 3 -1
+p623
+aVDarrell Armstrong ORL 12/23/1999 ORL @ CHH W 41 28 9 14 64.3 6 7 85.7 4 4 100.0 0 2 2 10 1 0 3 1 24
+p624
+aVMonty Williams ORL 12/23/1999 ORL @ CHH W 23 15 5 12 41.7 0 0 - 5 5 100.0 0 4 4 2 1 0 1 4 16
+p625
+aVBen Wallace ORL 12/23/1999 ORL @ CHH W 31 14 5 7 71.4 0 0 - 4 8 50.0 4 11 15 4 4 6 5 4 11
+p626
+aVTariq Abdul-Wahad ORL 12/23/1999 ORL @ CHH W 29 4 2 7 28.6 0 0 - 0 0 - 1 9 10 3 0 1 1 3 21
+p627
+aVMichael Doleac ORL 12/23/1999 ORL @ CHH W 17 6 3 5 60.0 0 0 - 0 0 - 0 4 4 1 1 2 0 4 26
+p628
+aVTariq Abdul-Wahad ORL 12/22/1999 ORL @ CLE W 16 8 4 9 44.4 0 0 - 0 0 - 0 1 1 2 0 0 1 5 1
+p629
+aVJohn Amaechi ORL 12/22/1999 ORL @ CLE W 14 7 3 4 75.0 0 0 - 1 2 50.0 0 4 4 3 0 0 0 2 0
+p630
+aVChris Gatling ORL 12/22/1999 ORL @ CLE W 29 13 4 8 50.0 1 2 50.0 4 10 40.0 1 6 7 1 2 1 3 4 15
+p631
+aVChucky Atkins ORL 12/22/1999 ORL @ CLE W 26 22 9 19 47.4 2 4 50.0 2 2 100.0 0 2 2 5 0 0 0 2 23
+p632
+aVBen Wallace ORL 12/22/1999 ORL @ CLE W 17 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 2 0 4 -3
+p633
+aVMichael Doleac ORL 12/22/1999 ORL @ CLE W 15 12 5 8 62.5 0 0 - 2 2 100.0 0 3 3 1 0 3 0 4 -9
+p634
+aVMonty Williams ORL 12/22/1999 ORL @ CLE W 24 14 6 13 46.2 0 0 - 2 4 50.0 2 6 8 2 0 0 1 1 -13
+p635
+aVBo Outlaw ORL 12/22/1999 ORL @ CLE W 28 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 6 3 2 1 3 12
+p636
+aVCorey Maggette ORL 12/22/1999 ORL @ CLE W 18 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 0 2 1 2
+p637
+aVPat Garrity ORL 12/22/1999 ORL @ CLE W 20 9 3 6 50.0 1 2 50.0 2 2 100.0 1 2 3 0 2 0 1 0 10
+p638
+aVDarrell Armstrong ORL 12/22/1999 ORL @ CLE W 32 7 2 8 25.0 0 4 0.0 3 5 60.0 0 4 4 6 2 0 3 2 -8
+p639
+aVBo Outlaw ORL 12/20/1999 ORL vs. UTA W 16 4 2 2 100.0 0 0 - 0 0 - 3 1 4 1 1 1 0 3 -8
+p640
+aVPat Garrity ORL 12/20/1999 ORL vs. UTA W 6 8 3 3 100.0 1 1 100.0 1 3 33.3 0 2 2 0 0 0 0 0 4
+p641
+aVMichael Doleac ORL 12/20/1999 ORL vs. UTA W 22 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 0 1 2 3 -2
+p642
+aVCorey Maggette ORL 12/20/1999 ORL vs. UTA W 16 11 4 8 50.0 0 0 - 3 4 75.0 0 3 3 0 0 1 1 6 5
+p643
+aVJohn Amaechi ORL 12/20/1999 ORL vs. UTA W 13 9 3 7 42.9 0 0 - 3 6 50.0 0 0 0 0 0 0 0 1 0
+p644
+aVMonty Williams ORL 12/20/1999 ORL vs. UTA W 28 14 5 13 38.5 0 0 - 4 6 66.7 4 1 5 0 3 1 2 4 1
+p645
+aVBen Wallace ORL 12/20/1999 ORL vs. UTA W 33 6 3 3 100.0 0 0 - 0 0 - 1 7 8 3 1 4 1 3 1
+p646
+aVTariq Abdul-Wahad ORL 12/20/1999 ORL vs. UTA W 33 14 4 7 57.1 0 0 - 6 8 75.0 1 1 2 4 3 0 1 3 2
+p647
+aVDarrell Armstrong ORL 12/20/1999 ORL vs. UTA W 39 22 9 22 40.9 0 5 0.0 4 6 66.7 2 2 4 8 1 0 4 0 6
+p648
+aVAnthony Parker ORL 12/20/1999 ORL vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p649
+aVChucky Atkins ORL 12/20/1999 ORL vs. UTA W 20 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -2
+p650
+aVChris Gatling ORL 12/20/1999 ORL vs. UTA W 14 6 2 9 22.2 0 0 - 2 2 100.0 5 3 8 1 0 0 1 5 1
+p651
+aVMichael Doleac ORL 12/18/1999 ORL @ CHI W 13 0 0 2 0.0 0 0 - 0 0 - 2 3 5 2 0 1 0 3 -9
+p652
+aVJohn Amaechi ORL 12/18/1999 ORL @ CHI W 29 13 5 10 50.0 0 0 - 3 4 75.0 2 4 6 1 0 1 0 2 16
+p653
+aVPat Garrity ORL 12/18/1999 ORL @ CHI W 10 6 2 7 28.6 0 0 - 2 3 66.7 0 2 2 0 0 0 0 2 -1
+p654
+aVDarrell Armstrong ORL 12/18/1999 ORL @ CHI W 35 9 3 11 27.3 1 7 14.3 2 2 100.0 1 1 2 7 1 0 4 1 3
+p655
+aVTariq Abdul-Wahad ORL 12/18/1999 ORL @ CHI W 28 9 2 10 20.0 0 0 - 5 6 83.3 4 5 9 1 1 0 0 2 2
+p656
+aVMonty Williams ORL 12/18/1999 ORL @ CHI W 20 6 3 8 37.5 0 0 - 0 0 - 1 1 2 0 1 2 1 2 -3
+p657
+aVChucky Atkins ORL 12/18/1999 ORL @ CHI W 13 9 4 9 44.4 1 1 100.0 0 0 - 0 3 3 1 3 0 0 0 6
+p658
+aVBo Outlaw ORL 12/18/1999 ORL @ CHI W 28 9 4 5 80.0 0 0 - 1 4 25.0 4 4 8 3 0 2 1 3 12
+p659
+aVCorey Maggette ORL 12/18/1999 ORL @ CHI W 20 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 1 0 0 3 1 7
+p660
+aVBen Wallace ORL 12/18/1999 ORL @ CHI W 21 9 4 7 57.1 0 0 - 1 2 50.0 1 5 6 0 0 3 1 0 8
+p661
+aVChris Gatling ORL 12/18/1999 ORL @ CHI W 23 10 5 13 38.5 0 0 - 0 0 - 1 3 4 0 2 0 1 3 4
+p662
+aVBo Outlaw ORL 12/17/1999 ORL vs. TOR W 23 6 2 2 100.0 0 0 - 2 2 100.0 3 3 6 0 1 1 0 3 11
+p663
+aVTariq Abdul-Wahad ORL 12/17/1999 ORL vs. TOR W 22 7 2 8 25.0 0 1 0.0 3 4 75.0 0 4 4 1 1 1 0 2 6
+p664
+aVChucky Atkins ORL 12/17/1999 ORL vs. TOR W 18 16 6 12 50.0 2 2 100.0 2 3 66.7 1 2 3 3 0 0 2 1 10
+p665
+aVMichael Doleac ORL 12/17/1999 ORL vs. TOR W 10 3 1 7 14.3 0 0 - 1 2 50.0 1 3 4 0 1 0 0 1 -3
+p666
+aVPat Garrity ORL 12/17/1999 ORL vs. TOR W 15 6 1 5 20.0 1 2 50.0 3 6 50.0 0 0 0 1 0 0 0 5 11
+p667
+aVDarrell Armstrong ORL 12/17/1999 ORL vs. TOR W 30 13 5 13 38.5 2 6 33.3 1 1 100.0 0 4 4 8 4 0 6 1 4
+p668
+aVChris Gatling ORL 12/17/1999 ORL vs. TOR W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 3 4 3
+p669
+aVJohn Amaechi ORL 12/17/1999 ORL vs. TOR W 27 14 4 9 44.4 0 0 - 6 6 100.0 1 3 4 1 0 1 2 1 17
+p670
+aVMonty Williams ORL 12/17/1999 ORL vs. TOR W 28 15 6 10 60.0 1 1 100.0 2 2 100.0 1 4 5 2 1 0 2 0 5
+p671
+aVBen Wallace ORL 12/17/1999 ORL vs. TOR W 26 12 4 9 44.4 0 0 - 4 6 66.7 9 5 14 4 1 1 0 2 1
+p672
+aVAnthony Parker ORL 12/17/1999 ORL vs. TOR W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p673
+aVCorey Maggette ORL 12/17/1999 ORL vs. TOR W 23 16 5 10 50.0 0 0 - 6 8 75.0 2 5 7 2 2 1 0 4 6
+p674
+aVTariq Abdul-Wahad ORL 12/15/1999 ORL vs. MIL L 22 15 5 11 45.5 0 0 - 5 6 83.3 1 1 2 2 1 0 1 1 -18
+p675
+aVBo Outlaw ORL 12/15/1999 ORL vs. MIL L 32 2 1 4 25.0 0 1 0.0 0 0 - 2 2 4 0 0 2 2 5 -8
+p676
+aVAnthony Parker ORL 12/15/1999 ORL vs. MIL L 7 7 3 3 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 5
+p677
+aVPat Garrity ORL 12/15/1999 ORL vs. MIL L 16 5 2 7 28.6 1 5 20.0 0 0 - 3 2 5 0 0 0 0 0 -4
+p678
+aVChris Gatling ORL 12/15/1999 ORL vs. MIL L 26 14 4 12 33.3 0 0 - 6 7 85.7 2 9 11 2 1 0 3 3 -3
+p679
+aVDarrell Armstrong ORL 12/15/1999 ORL vs. MIL L 23 7 3 11 27.3 0 3 0.0 1 3 33.3 1 0 1 2 3 0 2 2 -18
+p680
+aVChucky Atkins ORL 12/15/1999 ORL vs. MIL L 25 15 4 9 44.4 1 3 33.3 6 6 100.0 0 3 3 5 0 0 3 3 1
+p681
+aVBen Wallace ORL 12/15/1999 ORL vs. MIL L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -11
+p682
+aVMichael Doleac ORL 12/15/1999 ORL vs. MIL L 16 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 1 0 0 1 1 -24
+p683
+aVCorey Maggette ORL 12/15/1999 ORL vs. MIL L 30 12 3 7 42.9 0 0 - 6 9 66.7 3 5 8 2 1 1 2 2 -1
+p684
+aVMonty Williams ORL 12/15/1999 ORL vs. MIL L 16 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 2 -9
+p685
+aVJohn Amaechi ORL 12/15/1999 ORL vs. MIL L 16 8 2 6 33.3 0 0 - 4 4 100.0 2 2 4 3 0 0 1 1 5
+p686
+aVChucky Atkins ORL 12/11/1999 ORL vs. CHI W 23 8 4 9 44.4 0 0 - 0 0 - 0 0 0 4 2 0 2 0 10
+p687
+aVBen Wallace ORL 12/11/1999 ORL vs. CHI W 21 3 1 3 33.3 0 0 - 1 2 50.0 1 5 6 0 2 0 0 1 -7
+p688
+aVAnthony Parker ORL 12/11/1999 ORL vs. CHI W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p689
+aVJohn Amaechi ORL 12/11/1999 ORL vs. CHI W 24 11 2 7 28.6 0 0 - 7 9 77.8 3 5 8 0 0 0 2 4 13
+p690
+aVPat Garrity ORL 12/11/1999 ORL vs. CHI W 27 16 7 16 43.8 2 5 40.0 0 0 - 1 4 5 0 0 0 1 4 28
+p691
+aVTariq Abdul-Wahad ORL 12/11/1999 ORL vs. CHI W 19 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 4 0 0 3 1 -8
+p692
+aVDarrell Armstrong ORL 12/11/1999 ORL vs. CHI W 25 16 5 8 62.5 2 3 66.7 4 4 100.0 0 0 0 8 0 0 2 2 11
+p693
+aVBo Outlaw ORL 12/11/1999 ORL vs. CHI W 28 2 1 3 33.3 0 0 - 0 0 - 3 3 6 7 4 2 1 2 23
+p694
+aVCorey Maggette ORL 12/11/1999 ORL vs. CHI W 29 16 7 12 58.3 0 0 - 2 2 100.0 1 7 8 3 0 1 0 3 29
+p695
+aVMichael Doleac ORL 12/11/1999 ORL vs. CHI W 24 16 6 12 50.0 0 0 - 4 4 100.0 1 4 5 0 1 1 0 3 8
+p696
+aVMonty Williams ORL 12/11/1999 ORL vs. CHI W 19 16 6 7 85.7 0 0 - 4 4 100.0 0 0 0 0 0 0 0 3 -4
+p697
+aVAnthony Parker ORL 12/07/1999 ORL @ PHX L 9 8 4 6 66.7 0 1 0.0 0 0 - 2 0 2 0 0 0 1 3 -20
+p698
+aVMonty Williams ORL 12/07/1999 ORL @ PHX L 26 10 3 7 42.9 0 0 - 4 6 66.7 3 2 5 5 0 1 4 5 3
+p699
+aVJohn Amaechi ORL 12/07/1999 ORL @ PHX L 6 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -17
+p700
+aVPat Garrity ORL 12/07/1999 ORL @ PHX L 14 4 1 8 12.5 0 4 0.0 2 2 100.0 1 0 1 0 0 0 2 1 0
+p701
+aVDarrell Armstrong ORL 12/07/1999 ORL @ PHX L 36 16 7 18 38.9 1 6 16.7 1 1 100.0 1 5 6 7 3 0 7 3 1
+p702
+aVBo Outlaw ORL 12/07/1999 ORL @ PHX L 30 10 5 6 83.3 0 0 - 0 1 0.0 2 5 7 5 2 2 1 4 -10
+p703
+aVChris Gatling ORL 12/07/1999 ORL @ PHX L 23 14 7 16 43.8 0 2 0.0 0 1 0.0 4 4 8 3 1 0 4 5 -13
+p704
+aVBen Wallace ORL 12/07/1999 ORL @ PHX L 25 6 3 4 75.0 0 0 - 0 0 - 3 6 9 0 2 2 0 2 10
+p705
+aVTariq Abdul-Wahad ORL 12/07/1999 ORL @ PHX L 18 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 0 1 1 2 2 10
+p706
+aVChucky Atkins ORL 12/07/1999 ORL @ PHX L 12 6 3 4 75.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -4
+p707
+aVCorey Maggette ORL 12/07/1999 ORL @ PHX L 21 14 7 12 58.3 0 0 - 0 0 - 3 3 6 0 0 0 3 3 9
+p708
+aVMichael Doleac ORL 12/07/1999 ORL @ PHX L 20 12 3 9 33.3 0 0 - 6 6 100.0 2 4 6 2 2 0 3 5 16
+p709
+aVTariq Abdul-Wahad ORL 12/05/1999 ORL @ LAL L 27 8 2 10 20.0 0 1 0.0 4 4 100.0 0 7 7 0 3 0 2 4 -13
+p710
+aVBo Outlaw ORL 12/05/1999 ORL @ LAL L 15 5 1 1 100.0 0 0 - 3 4 75.0 2 1 3 0 3 0 2 3 -11
+p711
+aVJohn Amaechi ORL 12/05/1999 ORL @ LAL L 22 14 5 10 50.0 0 0 - 4 5 80.0 1 0 1 0 1 0 2 2 -11
+p712
+aVChris Gatling ORL 12/05/1999 ORL @ LAL L 11 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 0 3 0 -12
+p713
+aVChucky Atkins ORL 12/05/1999 ORL @ LAL L 20 11 3 8 37.5 1 3 33.3 4 5 80.0 0 0 0 5 1 0 1 2 -8
+p714
+aVBen Wallace ORL 12/05/1999 ORL @ LAL L 25 4 1 3 33.3 0 0 - 2 2 100.0 4 4 8 1 0 0 2 2 -5
+p715
+aVMichael Doleac ORL 12/05/1999 ORL @ LAL L 15 10 5 10 50.0 0 0 - 0 0 - 1 3 4 0 1 0 3 4 -6
+p716
+aVPat Garrity ORL 12/05/1999 ORL @ LAL L 23 16 5 11 45.5 2 5 40.0 4 4 100.0 2 2 4 1 0 1 2 5 0
+p717
+aVCorey Maggette ORL 12/05/1999 ORL @ LAL L 20 9 2 5 40.0 0 0 - 5 6 83.3 0 3 3 2 1 0 1 2 4
+p718
+aVMonty Williams ORL 12/05/1999 ORL @ LAL L 18 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 1 4 -12
+p719
+aVAnthony Parker ORL 12/05/1999 ORL @ LAL L 15 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 1 2 1
+p720
+aVDarrell Armstrong ORL 12/05/1999 ORL @ LAL L 30 20 6 13 46.2 2 8 25.0 6 6 100.0 1 1 2 9 0 0 4 2 -12
+p721
+aVBo Outlaw ORL 12/03/1999 ORL @ DEN W 31 7 3 6 50.0 0 0 - 1 2 50.0 3 5 8 1 2 2 0 2 18
+p722
+aVAnthony Parker ORL 12/03/1999 ORL @ DEN W 24 8 4 6 66.7 0 1 0.0 0 0 - 0 3 3 0 1 0 1 1 12
+p723
+aVChucky Atkins ORL 12/03/1999 ORL @ DEN W 24 14 4 8 50.0 0 0 - 6 7 85.7 1 0 1 8 2 0 2 1 12
+p724
+aVJohn Amaechi ORL 12/03/1999 ORL @ DEN W 27 16 5 6 83.3 0 0 - 6 8 75.0 1 3 4 2 1 2 2 4 11
+p725
+aVTariq Abdul-Wahad ORL 12/03/1999 ORL @ DEN W 17 11 5 6 83.3 0 0 - 1 2 50.0 1 2 3 0 0 0 3 3 0
+p726
+aVBen Wallace ORL 12/03/1999 ORL @ DEN W 18 1 0 2 0.0 0 0 - 1 2 50.0 0 6 6 0 1 4 0 4 -3
+p727
+aVPat Garrity ORL 12/03/1999 ORL @ DEN W 10 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 7
+p728
+aVChris Gatling ORL 12/03/1999 ORL @ DEN W 20 10 3 12 25.0 0 2 0.0 4 4 100.0 3 3 6 1 1 2 1 3 8
+p729
+aVDarrell Armstrong ORL 12/03/1999 ORL @ DEN W 28 20 7 11 63.6 2 4 50.0 4 4 100.0 0 3 3 7 1 0 1 1 -1
+p730
+aVMichael Doleac ORL 12/03/1999 ORL @ DEN W 19 10 4 12 33.3 0 0 - 2 2 100.0 2 6 8 2 1 0 0 1 2
+p731
+aVMonty Williams ORL 12/03/1999 ORL @ DEN W 22 9 4 9 44.4 0 0 - 1 2 50.0 1 4 5 2 0 0 5 1 -6
+p732
+aVDarrell Armstrong ORL 12/02/1999 ORL @ MIN W 25 2 0 11 0.0 0 5 0.0 2 2 100.0 1 1 2 7 3 0 4 1 3
+p733
+aVMichael Doleac ORL 12/02/1999 ORL @ MIN W 12 12 5 8 62.5 0 0 - 2 2 100.0 2 1 3 0 0 0 0 2 5
+p734
+aVBo Outlaw ORL 12/02/1999 ORL @ MIN W 31 6 2 3 66.7 0 0 - 2 4 50.0 2 5 7 3 2 4 0 3 8
+p735
+aVAnthony Parker ORL 12/02/1999 ORL @ MIN W 21 4 2 7 28.6 0 1 0.0 0 2 0.0 1 5 6 1 2 1 1 1 0
+p736
+aVChris Gatling ORL 12/02/1999 ORL @ MIN W 28 22 9 16 56.3 2 2 100.0 2 4 50.0 1 3 4 1 2 1 2 5 6
+p737
+aVBen Wallace ORL 12/02/1999 ORL @ MIN W 17 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 1 0 0 1 4
+p738
+aVChucky Atkins ORL 12/02/1999 ORL @ MIN W 24 18 7 14 50.0 0 1 0.0 4 5 80.0 0 2 2 5 1 0 3 3 7
+p739
+aVMonty Williams ORL 12/02/1999 ORL @ MIN W 23 14 7 13 53.8 0 0 - 0 0 - 1 1 2 2 0 0 2 3 0
+p740
+aVPat Garrity ORL 12/02/1999 ORL @ MIN W 10 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 3
+p741
+aVJohn Amaechi ORL 12/02/1999 ORL @ MIN W 27 7 2 5 40.0 0 0 - 3 3 100.0 1 9 10 2 1 0 1 3 2
+p742
+aVTariq Abdul-Wahad ORL 12/02/1999 ORL @ MIN W 21 12 5 11 45.5 0 0 - 2 2 100.0 0 3 3 0 2 0 1 3 12
+p743
+aVTariq Abdul-Wahad ORL 11/30/1999 ORL vs. SAC L 25 12 6 12 50.0 0 1 0.0 0 2 0.0 1 4 5 0 1 0 1 2 -6
+p744
+aVJohn Amaechi ORL 11/30/1999 ORL vs. SAC L 21 7 2 6 33.3 0 0 - 3 4 75.0 2 1 3 1 0 1 1 0 -5
+p745
+aVBo Outlaw ORL 11/30/1999 ORL vs. SAC L 23 1 0 1 0.0 0 0 - 1 2 50.0 5 4 9 0 0 1 1 2 0
+p746
+aVPat Garrity ORL 11/30/1999 ORL vs. SAC L 10 7 3 5 60.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 1 3 2
+p747
+aVChucky Atkins ORL 11/30/1999 ORL vs. SAC L 14 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 4
+p748
+aVCorey Maggette ORL 11/30/1999 ORL vs. SAC L 18 6 3 9 33.3 0 0 - 0 0 - 2 2 4 0 0 1 1 1 -3
+p749
+aVMichael Doleac ORL 11/30/1999 ORL vs. SAC L 16 3 1 5 20.0 0 0 - 1 2 50.0 0 6 6 0 0 0 0 1 -2
+p750
+aVBen Wallace ORL 11/30/1999 ORL vs. SAC L 22 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 0 1 2 1 -7
+p751
+aVDarrell Armstrong ORL 11/30/1999 ORL vs. SAC L 35 29 13 22 59.1 1 6 16.7 2 2 100.0 3 1 4 12 5 0 6 3 -15
+p752
+aVMonty Williams ORL 11/30/1999 ORL vs. SAC L 27 10 4 8 50.0 0 0 - 2 3 66.7 0 3 3 1 2 0 1 4 -3
+p753
+aVChris Gatling ORL 11/30/1999 ORL vs. SAC L 25 17 5 13 38.5 1 3 33.3 6 8 75.0 0 6 6 0 2 0 2 3 -3
+p754
+aVAnthony Parker ORL 11/30/1999 ORL vs. SAC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p755
+aVChucky Atkins ORL 11/28/1999 ORL @ DET W 15 5 1 4 25.0 0 0 - 3 4 75.0 0 2 2 2 0 0 1 2 -4
+p756
+aVCorey Maggette ORL 11/28/1999 ORL @ DET W 12 8 3 4 75.0 0 0 - 2 2 100.0 1 0 1 0 0 1 2 1 -5
+p757
+aVDarrell Armstrong ORL 11/28/1999 ORL @ DET W 34 17 6 13 46.2 0 5 0.0 5 5 100.0 0 5 5 8 4 0 3 3 12
+p758
+aVMichael Doleac ORL 11/28/1999 ORL @ DET W 24 20 8 13 61.5 0 0 - 4 4 100.0 3 3 6 0 0 0 1 3 21
+p759
+aVChris Gatling ORL 11/28/1999 ORL @ DET W 21 16 6 11 54.5 0 0 - 4 8 50.0 2 5 7 2 2 0 3 3 -7
+p760
+aVMonty Williams ORL 11/28/1999 ORL @ DET W 34 18 7 12 58.3 0 0 - 4 6 66.7 1 3 4 2 1 1 3 5 11
+p761
+aVBo Outlaw ORL 11/28/1999 ORL @ DET W 15 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 0 4 1 3 -6
+p762
+aVPat Garrity ORL 11/28/1999 ORL @ DET W 20 0 0 4 0.0 0 0 - 0 1 0.0 0 0 0 1 0 0 1 1 -9
+p763
+aVTariq Abdul-Wahad ORL 11/28/1999 ORL @ DET W 36 16 7 17 41.2 0 2 0.0 2 2 100.0 2 3 5 3 3 0 1 4 14
+p764
+aVBen Wallace ORL 11/28/1999 ORL @ DET W 29 8 3 5 60.0 0 0 - 2 3 66.7 4 8 12 3 0 2 0 3 18
+p765
+aVAnthony Parker ORL 11/27/1999 ORL @ NYK L 6 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p766
+aVTariq Abdul-Wahad ORL 11/27/1999 ORL @ NYK L 33 12 6 17 35.3 0 4 0.0 0 0 - 1 7 8 1 0 0 1 3 -3
+p767
+aVPat Garrity ORL 11/27/1999 ORL @ NYK L 11 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 6
+p768
+aVMonty Williams ORL 11/27/1999 ORL @ NYK L 20 14 6 10 60.0 0 0 - 2 2 100.0 0 2 2 3 2 0 2 5 -9
+p769
+aVChucky Atkins ORL 11/27/1999 ORL @ NYK L 15 11 5 7 71.4 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 4
+p770
+aVMichael Doleac ORL 11/27/1999 ORL @ NYK L 22 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 1 0 0 0 1 5
+p771
+aVChris Gatling ORL 11/27/1999 ORL @ NYK L 29 17 7 15 46.7 0 0 - 3 7 42.9 0 7 7 0 0 0 1 2 0
+p772
+aVCorey Maggette ORL 11/27/1999 ORL @ NYK L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 3
+p773
+aVBo Outlaw ORL 11/27/1999 ORL @ NYK L 31 2 0 2 0.0 0 0 - 2 4 50.0 3 3 6 1 1 2 2 1 0
+p774
+aVJohn Amaechi ORL 11/27/1999 ORL @ NYK L 18 11 2 4 50.0 0 0 - 7 8 87.5 1 5 6 1 0 0 1 0 -6
+p775
+aVBen Wallace ORL 11/27/1999 ORL @ NYK L 16 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -9
+p776
+aVDarrell Armstrong ORL 11/27/1999 ORL @ NYK L 33 16 5 11 45.5 2 7 28.6 4 4 100.0 4 1 5 8 0 0 2 1 -9
+p777
+aVAnthony Parker ORL 11/24/1999 ORL vs. DAL W 21 5 2 9 22.2 1 4 25.0 0 0 - 0 2 2 1 1 0 1 2 4
+p778
+aVMichael Doleac ORL 11/24/1999 ORL vs. DAL W 14 4 2 6 33.3 0 0 - 0 0 - 1 5 6 0 2 0 3 2 4
+p779
+aVBen Wallace ORL 11/24/1999 ORL vs. DAL W 23 7 3 6 50.0 0 0 - 1 2 50.0 4 4 8 1 0 3 2 1 -1
+p780
+aVChris Gatling ORL 11/24/1999 ORL vs. DAL W 30 19 6 11 54.5 0 0 - 7 10 70.0 8 4 12 0 0 1 1 1 15
+p781
+aVJohn Amaechi ORL 11/24/1999 ORL vs. DAL W 8 2 0 4 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 1 -4
+p782
+aVBo Outlaw ORL 11/24/1999 ORL vs. DAL W 23 0 0 0 - 0 0 - 0 0 - 1 4 5 3 0 3 1 3 10
+p783
+aVTariq Abdul-Wahad ORL 11/24/1999 ORL vs. DAL W 26 16 7 9 77.8 0 0 - 2 4 50.0 2 0 2 1 6 0 4 5 12
+p784
+aVPat Garrity ORL 11/24/1999 ORL vs. DAL W 21 12 5 9 55.6 0 1 0.0 2 2 100.0 0 0 0 1 0 0 3 5 3
+p785
+aVMonty Williams ORL 11/24/1999 ORL vs. DAL W 27 10 4 11 36.4 0 0 - 2 2 100.0 2 3 5 5 1 0 2 2 5
+p786
+aVChucky Atkins ORL 11/24/1999 ORL vs. DAL W 11 4 2 8 25.0 0 1 0.0 0 0 - 1 0 1 3 0 0 0 0 -6
+p787
+aVDarrell Armstrong ORL 11/24/1999 ORL vs. DAL W 37 33 12 20 60.0 6 11 54.5 3 3 100.0 0 4 4 14 5 0 5 2 18
+p788
+aVBen Wallace ORL 11/20/1999 ORL @ ATL W 16 5 2 4 50.0 0 0 - 1 1 100.0 2 7 9 0 1 2 0 4 -5
+p789
+aVTariq Abdul-Wahad ORL 11/20/1999 ORL @ ATL W 33 12 5 10 50.0 0 0 - 2 2 100.0 0 2 2 3 2 1 0 2 -2
+p790
+aVJohn Amaechi ORL 11/20/1999 ORL @ ATL W 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 0 6
+p791
+aVChris Gatling ORL 11/20/1999 ORL @ ATL W 32 28 11 19 57.9 1 2 50.0 5 8 62.5 3 8 11 1 1 0 3 3 6
+p792
+aVMichael Doleac ORL 11/20/1999 ORL @ ATL W 33 18 9 15 60.0 0 0 - 0 0 - 1 7 8 5 1 1 1 4 -5
+p793
+aVPat Garrity ORL 11/20/1999 ORL @ ATL W 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 9
+p794
+aVChucky Atkins ORL 11/20/1999 ORL @ ATL W 19 7 3 8 37.5 0 0 - 1 1 100.0 0 1 1 6 0 0 0 0 12
+p795
+aVMonty Williams ORL 11/20/1999 ORL @ ATL W 18 6 3 8 37.5 0 0 - 0 0 - 1 1 2 1 1 0 0 3 -4
+p796
+aVCorey Maggette ORL 11/20/1999 ORL @ ATL W 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 0 4
+p797
+aVBo Outlaw ORL 11/20/1999 ORL @ ATL W 29 4 2 5 40.0 0 0 - 0 0 - 3 4 7 2 2 3 2 2 5
+p798
+aVDarrell Armstrong ORL 11/20/1999 ORL @ ATL W 29 21 8 21 38.1 2 5 40.0 3 3 100.0 0 2 2 8 0 0 2 0 -6
+p799
+aVTariq Abdul-Wahad ORL 11/19/1999 ORL vs. CHH L 20 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 0 0 0 3 3 7
+p800
+aVBo Outlaw ORL 11/19/1999 ORL vs. CHH L 35 4 2 5 40.0 0 0 - 0 2 0.0 1 6 7 3 4 5 1 1 1
+p801
+aVChucky Atkins ORL 11/19/1999 ORL vs. CHH L 20 9 4 11 36.4 1 5 20.0 0 0 - 0 1 1 4 1 0 4 2 -3
+p802
+aVDarrell Armstrong ORL 11/19/1999 ORL vs. CHH L 35 18 5 15 33.3 2 6 33.3 6 6 100.0 2 3 5 10 4 0 4 1 4
+p803
+aVPat Garrity ORL 11/19/1999 ORL vs. CHH L 18 8 4 8 50.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 -25
+p804
+aVBen Wallace ORL 11/19/1999 ORL vs. CHH L 22 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 1 1 0 3 9
+p805
+aVMonty Williams ORL 11/19/1999 ORL vs. CHH L 23 14 7 10 70.0 0 0 - 0 0 - 0 4 4 1 0 0 1 4 -14
+p806
+aVChris Gatling ORL 11/19/1999 ORL vs. CHH L 13 0 0 4 0.0 0 0 - 0 0 - 1 3 4 1 0 0 2 1 -19
+p807
+aVCorey Maggette ORL 11/19/1999 ORL vs. CHH L 21 11 3 7 42.9 0 0 - 5 12 41.7 2 3 5 0 0 0 4 5 -10
+p808
+aVJohn Amaechi ORL 11/19/1999 ORL vs. CHH L 20 8 3 8 37.5 0 1 0.0 2 2 100.0 1 3 4 2 0 0 2 0 -15
+p809
+aVEarl Boykins ORL 11/19/1999 ORL vs. CHH L 8 6 3 4 75.0 0 0 - 0 0 - 1 0 1 3 0 0 0 0 5
+p810
+aVMichael Doleac ORL 11/19/1999 ORL vs. CHH L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 5
+p811
+aVChris Gatling ORL 11/17/1999 ORL vs. POR L 25 21 8 13 61.5 0 0 - 5 5 100.0 3 2 5 1 2 0 2 4 0
+p812
+aVBen Wallace ORL 11/17/1999 ORL vs. POR L 21 0 0 3 0.0 0 0 - 0 0 - 4 6 10 0 0 1 1 2 -5
+p813
+aVMichael Doleac ORL 11/17/1999 ORL vs. POR L 15 9 3 10 30.0 0 0 - 3 4 75.0 2 2 4 0 0 0 1 1 0
+p814
+aVMonty Williams ORL 11/17/1999 ORL vs. POR L 30 2 1 9 11.1 0 1 0.0 0 0 - 3 2 5 5 1 0 1 2 2
+p815
+aVCorey Maggette ORL 11/17/1999 ORL vs. POR L 18 5 2 6 33.3 0 1 0.0 1 4 25.0 3 1 4 2 0 0 0 0 -4
+p816
+aVBo Outlaw ORL 11/17/1999 ORL vs. POR L 28 0 0 0 - 0 0 - 0 0 - 5 2 7 2 2 3 2 1 1
+p817
+aVDarrell Armstrong ORL 11/17/1999 ORL vs. POR L 32 13 3 12 25.0 1 2 50.0 6 6 100.0 3 7 10 6 2 0 4 0 3
+p818
+aVPat Garrity ORL 11/17/1999 ORL vs. POR L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 2 0 1 2 -2
+p819
+aVChucky Atkins ORL 11/17/1999 ORL vs. POR L 16 10 5 10 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 0 -5
+p820
+aVJohn Amaechi ORL 11/17/1999 ORL vs. POR L 23 8 4 11 36.4 0 0 - 0 0 - 0 4 4 2 0 0 4 2 1
+p821
+aVTariq Abdul-Wahad ORL 11/17/1999 ORL vs. POR L 24 9 4 15 26.7 1 3 33.3 0 0 - 2 7 9 0 1 0 1 2 -1
+p822
+aVTariq Abdul-Wahad ORL 11/13/1999 ORL @ DAL L 37 12 6 10 60.0 0 0 - 0 0 - 1 1 2 3 1 0 1 6 -12
+p823
+aVBo Outlaw ORL 11/13/1999 ORL @ DAL L 14 4 1 2 50.0 0 0 - 2 5 40.0 1 2 3 2 1 0 5 5 -7
+p824
+aVBen Wallace ORL 11/13/1999 ORL @ DAL L 15 4 2 4 50.0 0 0 - 0 0 - 2 7 9 1 0 2 1 1 -11
+p825
+aVMichael Doleac ORL 11/13/1999 ORL @ DAL L 11 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -6
+p826
+aVDarrell Armstrong ORL 11/13/1999 ORL @ DAL L 37 29 10 21 47.6 5 10 50.0 4 6 66.7 1 2 3 4 0 0 4 2 -17
+p827
+aVPat Garrity ORL 11/13/1999 ORL @ DAL L 25 7 2 5 40.0 2 2 100.0 1 1 100.0 0 5 5 3 1 0 1 4 7
+p828
+aVChucky Atkins ORL 11/13/1999 ORL @ DAL L 15 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 1 0 0 2 2 5
+p829
+aVChris Gatling ORL 11/13/1999 ORL @ DAL L 31 31 9 11 81.8 1 1 100.0 12 14 85.7 1 9 10 2 2 0 5 2 2
+p830
+aVMonty Williams ORL 11/13/1999 ORL @ DAL L 39 18 9 13 69.2 0 0 - 0 0 - 3 5 8 5 1 1 4 5 -3
+p831
+aVJohn Amaechi ORL 11/13/1999 ORL @ DAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 2 0 -2
+p832
+aVCorey Maggette ORL 11/13/1999 ORL @ DAL L 14 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 1 2 4 4
+p833
+aVMichael Doleac ORL 11/11/1999 ORL @ IND L 16 14 5 10 50.0 0 0 - 4 4 100.0 2 1 3 0 0 0 0 0 -8
+p834
+aVTariq Abdul-Wahad ORL 11/11/1999 ORL @ IND L 28 4 2 8 25.0 0 0 - 0 0 - 2 3 5 1 0 0 4 4 -16
+p835
+aVChucky Atkins ORL 11/11/1999 ORL @ IND L 16 4 1 3 33.3 1 1 100.0 1 2 50.0 0 1 1 2 0 0 2 4 -14
+p836
+aVPat Garrity ORL 11/11/1999 ORL @ IND L 18 13 5 9 55.6 1 3 33.3 2 2 100.0 0 1 1 0 0 0 2 2 -6
+p837
+aVJohn Amaechi ORL 11/11/1999 ORL @ IND L 13 13 6 11 54.5 0 0 - 1 2 50.0 0 3 3 0 0 0 2 1 -2
+p838
+aVBen Wallace ORL 11/11/1999 ORL @ IND L 25 2 1 4 25.0 0 0 - 0 1 0.0 0 5 5 1 1 0 0 2 5
+p839
+aVChris Gatling ORL 11/11/1999 ORL @ IND L 21 12 5 7 71.4 0 0 - 2 2 100.0 1 7 8 1 2 0 2 1 -14
+p840
+aVDarrell Armstrong ORL 11/11/1999 ORL @ IND L 32 22 9 16 56.3 4 7 57.1 0 0 - 1 1 2 6 0 0 4 1 -1
+p841
+aVMonty Williams ORL 11/11/1999 ORL @ IND L 29 11 5 10 50.0 0 0 - 1 2 50.0 2 1 3 2 1 0 1 5 -11
+p842
+aVBo Outlaw ORL 11/11/1999 ORL @ IND L 26 4 2 5 40.0 0 0 - 0 0 - 3 2 5 1 1 2 0 4 -5
+p843
+aVCorey Maggette ORL 11/11/1999 ORL @ IND L 16 2 1 6 16.7 0 0 - 0 0 - 3 3 6 1 0 0 3 3 -3
+p844
+aVDarrell Armstrong ORL 11/10/1999 ORL vs. PHI W 36 20 8 19 42.1 2 7 28.6 2 2 100.0 0 2 2 10 0 0 6 4 22
+p845
+aVBo Outlaw ORL 11/10/1999 ORL vs. PHI W 32 6 3 4 75.0 0 0 - 0 0 - 2 2 4 3 1 3 2 2 6
+p846
+aVChucky Atkins ORL 11/10/1999 ORL vs. PHI W 11 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 5 1 0 1 6 -17
+p847
+aVPat Garrity ORL 11/10/1999 ORL vs. PHI W 21 25 10 11 90.9 1 2 50.0 4 4 100.0 1 1 2 1 1 1 0 2 10
+p848
+aVTariq Abdul-Wahad ORL 11/10/1999 ORL vs. PHI W 21 14 6 10 60.0 0 1 0.0 2 2 100.0 0 5 5 3 0 1 0 1 20
+p849
+aVMichael Doleac ORL 11/10/1999 ORL vs. PHI W 18 8 4 9 44.4 0 0 - 0 0 - 0 4 4 1 0 0 0 2 15
+p850
+aVChris Gatling ORL 11/10/1999 ORL vs. PHI W 8 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 0 -14
+p851
+aVJohn Amaechi ORL 11/10/1999 ORL vs. PHI W 23 13 3 7 42.9 0 0 - 7 10 70.0 3 2 5 1 0 0 0 2 -10
+p852
+aVMonty Williams ORL 11/10/1999 ORL vs. PHI W 23 12 6 9 66.7 0 0 - 0 2 0.0 1 3 4 2 2 1 1 1 -10
+p853
+aVBen Wallace ORL 11/10/1999 ORL vs. PHI W 23 3 0 2 0.0 0 0 - 3 4 75.0 2 7 9 3 2 1 0 1 9
+p854
+aVCorey Maggette ORL 11/10/1999 ORL vs. PHI W 18 7 3 8 37.5 0 0 - 1 1 100.0 0 1 1 1 0 0 1 1 -6
+p855
+aVJohn Amaechi ORL 11/08/1999 ORL @ HOU W 29 18 5 14 35.7 0 0 - 8 9 88.9 1 5 6 3 1 0 4 3 12
+p856
+aVBen Wallace ORL 11/08/1999 ORL @ HOU W 15 0 0 4 0.0 0 0 - 0 0 - 5 4 9 0 0 1 0 3 -13
+p857
+aVMatt Harpring ORL 11/08/1999 ORL @ HOU W 16 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 3 0 1 0 -2
+p858
+aVTariq Abdul-Wahad ORL 11/08/1999 ORL @ HOU W 30 10 4 12 33.3 0 0 - 2 2 100.0 1 5 6 1 2 1 0 2 11
+p859
+aVCorey Maggette ORL 11/08/1999 ORL @ HOU W 14 14 5 9 55.6 0 0 - 4 6 66.7 3 1 4 0 1 0 3 2 4
+p860
+aVChris Gatling ORL 11/08/1999 ORL @ HOU W 29 22 9 18 50.0 0 0 - 4 8 50.0 6 10 16 1 3 0 2 4 7
+p861
+aVMichael Doleac ORL 11/08/1999 ORL @ HOU W 10 4 2 7 28.6 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -2
+p862
+aVBo Outlaw ORL 11/08/1999 ORL @ HOU W 30 6 2 5 40.0 0 0 - 2 2 100.0 3 3 6 3 3 1 2 4 15
+p863
+aVPat Garrity ORL 11/08/1999 ORL @ HOU W 7 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 3 -4
+p864
+aVDarrell Armstrong ORL 11/08/1999 ORL @ HOU W 31 12 3 11 27.3 0 3 0.0 6 6 100.0 0 4 4 3 1 0 6 2 7
+p865
+aVChucky Atkins ORL 11/08/1999 ORL @ HOU W 18 9 4 8 50.0 1 2 50.0 0 1 0.0 0 0 0 3 1 0 0 1 -2
+p866
+aVMonty Williams ORL 11/08/1999 ORL @ HOU W 10 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -8
+p867
+aVTariq Abdul-Wahad ORL 11/06/1999 ORL @ WAS W 33 14 5 8 62.5 0 2 0.0 4 6 66.7 3 5 8 2 0 2 1 4 7
+p868
+aVMatt Harpring ORL 11/06/1999 ORL @ WAS W 28 16 4 6 66.7 2 2 100.0 6 7 85.7 1 2 3 4 1 0 0 3 2
+p869
+aVBen Wallace ORL 11/06/1999 ORL @ WAS W 19 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 2 1 2 -8
+p870
+aVJohn Amaechi ORL 11/06/1999 ORL @ WAS W 18 14 4 6 66.7 0 0 - 6 8 75.0 0 2 2 3 0 0 3 5 1
+p871
+aVMichael Doleac ORL 11/06/1999 ORL @ WAS W 18 8 4 13 30.8 0 0 - 0 0 - 2 0 2 0 0 1 1 3 4
+p872
+aVMonty Williams ORL 11/06/1999 ORL @ WAS W 18 10 3 5 60.0 0 0 - 4 4 100.0 0 4 4 0 0 0 1 0 -2
+p873
+aVChris Gatling ORL 11/06/1999 ORL @ WAS W 13 2 1 7 14.3 0 0 - 0 0 - 3 3 6 0 2 0 1 5 5
+p874
+aVChucky Atkins ORL 11/06/1999 ORL @ WAS W 15 10 4 8 50.0 0 2 0.0 2 4 50.0 0 0 0 1 1 1 1 1 -11
+p875
+aVBo Outlaw ORL 11/06/1999 ORL @ WAS W 31 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 6 1 5 0 1 5
+p876
+aVDarrell Armstrong ORL 11/06/1999 ORL @ WAS W 34 20 7 16 43.8 1 5 20.0 5 7 71.4 0 5 5 11 3 0 1 1 9
+p877
+aVPat Garrity ORL 11/06/1999 ORL @ WAS W 13 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 1 0 1 4 3
+p878
+aVDarrell Armstrong ORL 11/05/1999 ORL vs. CLE L 32 20 9 17 52.9 2 6 33.3 0 0 - 0 3 3 3 1 1 7 3 4
+p879
+aVBo Outlaw ORL 11/05/1999 ORL vs. CLE L 28 4 2 5 40.0 0 0 - 0 2 0.0 0 4 4 3 1 1 2 2 0
+p880
+aVMonty Williams ORL 11/05/1999 ORL vs. CLE L 21 8 3 5 60.0 0 0 - 2 2 100.0 2 3 5 2 0 0 0 3 -7
+p881
+aVChris Gatling ORL 11/05/1999 ORL vs. CLE L 23 21 6 11 54.5 0 0 - 9 11 81.8 5 3 8 1 1 0 3 1 2
+p882
+aVMichael Doleac ORL 11/05/1999 ORL vs. CLE L 20 4 2 8 25.0 0 0 - 0 0 - 0 4 4 2 1 1 1 2 1
+p883
+aVCorey Maggette ORL 11/05/1999 ORL vs. CLE L 9 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p884
+aVPat Garrity ORL 11/05/1999 ORL vs. CLE L 11 8 2 6 33.3 0 1 0.0 4 4 100.0 0 2 2 1 1 0 1 0 -11
+p885
+aVJohn Amaechi ORL 11/05/1999 ORL vs. CLE L 13 8 3 7 42.9 0 0 - 2 2 100.0 1 0 1 0 0 0 2 1 -5
+p886
+aVBen Wallace ORL 11/05/1999 ORL vs. CLE L 23 0 0 3 0.0 0 0 - 0 0 - 3 6 9 1 3 1 0 1 13
+p887
+aVMatt Harpring ORL 11/05/1999 ORL vs. CLE L 10 0 0 4 0.0 0 0 - 0 0 - 3 2 5 1 1 1 0 2 -2
+p888
+aVTariq Abdul-Wahad ORL 11/05/1999 ORL vs. CLE L 33 20 8 16 50.0 1 3 33.3 3 4 75.0 4 4 8 0 0 0 2 1 4
+p889
+aVChucky Atkins ORL 11/05/1999 ORL vs. CLE L 16 4 1 8 12.5 0 3 0.0 2 2 100.0 0 2 2 3 0 0 2 2 -12
+p890
+aVDarrell Armstrong ORL 11/03/1999 ORL vs. DET W 34 17 5 11 45.5 0 1 0.0 7 7 100.0 1 6 7 7 4 0 3 3 2
+p891
+aVMichael Doleac ORL 11/03/1999 ORL vs. DET W 18 10 5 12 41.7 0 0 - 0 1 0.0 2 6 8 0 0 3 2 1 -8
+p892
+aVTariq Abdul-Wahad ORL 11/03/1999 ORL vs. DET W 28 12 5 18 27.8 0 2 0.0 2 3 66.7 5 6 11 3 1 0 6 2 7
+p893
+aVBen Wallace ORL 11/03/1999 ORL vs. DET W 13 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 0 1 2 -5
+p894
+aVMonty Williams ORL 11/03/1999 ORL vs. DET W 29 12 5 12 41.7 0 0 - 2 3 66.7 6 1 7 2 0 1 2 4 5
+p895
+aVBo Outlaw ORL 11/03/1999 ORL vs. DET W 36 7 3 5 60.0 0 0 - 1 4 25.0 1 7 8 4 2 1 2 4 15
+p896
+aVChris Gatling ORL 11/03/1999 ORL vs. DET W 22 14 6 7 85.7 0 0 - 2 4 50.0 0 6 6 2 2 0 2 1 13
+p897
+aVPat Garrity ORL 11/03/1999 ORL vs. DET W 28 20 9 15 60.0 2 2 100.0 0 0 - 1 2 3 0 0 0 0 2 9
+p898
+aVCorey Maggette ORL 11/03/1999 ORL vs. DET W 17 5 2 7 28.6 0 1 0.0 1 2 50.0 2 1 3 0 0 0 1 3 -3
+p899
+aVChucky Atkins ORL 11/03/1999 ORL vs. DET W 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 4 0 0 3 0 10
+p900
+aVPat Garrity ORL 11/02/1999 ORL @ CHH L 19 9 3 6 50.0 0 2 0.0 3 6 50.0 0 3 3 2 1 0 0 1 10
+p901
+aVMatt Harpring ORL 11/02/1999 ORL @ CHH L 8 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -1
+p902
+aVJohn Amaechi ORL 11/02/1999 ORL @ CHH L 15 7 2 4 50.0 0 0 - 3 3 100.0 1 3 4 2 0 0 2 2 11
+p903
+aVChris Gatling ORL 11/02/1999 ORL @ CHH L 24 15 7 13 53.8 0 0 - 1 4 25.0 1 6 7 1 1 1 4 4 -15
+p904
+aVDarrell Armstrong ORL 11/02/1999 ORL @ CHH L 27 12 5 15 33.3 0 4 0.0 2 4 50.0 1 2 3 3 3 0 3 1 -20
+p905
+aVChucky Atkins ORL 11/02/1999 ORL @ CHH L 21 10 4 10 40.0 0 2 0.0 2 2 100.0 0 4 4 4 2 0 4 2 6
+p906
+aVMichael Doleac ORL 11/02/1999 ORL @ CHH L 20 7 1 6 16.7 0 0 - 5 6 83.3 0 3 3 2 0 0 3 3 -11
+p907
+aVMonty Williams ORL 11/02/1999 ORL @ CHH L 19 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 3 0 1 0 5 -2
+p908
+aVCorey Maggette ORL 11/02/1999 ORL @ CHH L 22 10 5 7 71.4 0 0 - 0 0 - 4 3 7 0 0 0 3 5 6
+p909
+aVTariq Abdul-Wahad ORL 11/02/1999 ORL @ CHH L 20 4 2 7 28.6 0 0 - 0 0 - 2 2 4 0 0 0 2 1 -15
+p910
+aVBen Wallace ORL 11/02/1999 ORL @ CHH L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -19
+p911
+aVBo Outlaw ORL 11/02/1999 ORL @ CHH L 31 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 2 1 1 3 -20
+p912
+a.

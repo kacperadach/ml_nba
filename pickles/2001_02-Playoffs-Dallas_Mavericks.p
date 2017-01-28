@@ -1,0 +1,164 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSteve Nash DAL 05/13/2002 DAL @ SAC L 37 12 4 9 44.4 1 3 33.3 3 3 100.0 2 2 4 9 0 0 3 4 -1
+p2
+aVMichael Finley DAL 05/13/2002 DAL @ SAC L 45 26 9 18 50.0 2 6 33.3 6 7 85.7 2 4 6 2 2 0 3 3 -14
+p3
+aVGreg Buckner DAL 05/13/2002 DAL @ SAC L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -1
+p4
+aVAdrian Griffin DAL 05/13/2002 DAL @ SAC L 30 14 7 11 63.6 0 1 0.0 0 2 0.0 2 4 6 1 0 1 1 3 -5
+p5
+aVDirk Nowitzki DAL 05/13/2002 DAL @ SAC L 48 32 13 25 52.0 3 5 60.0 3 4 75.0 0 12 12 3 1 1 1 1 -13
+p6
+aVRaef LaFrentz DAL 05/13/2002 DAL @ SAC L 25 7 3 10 30.0 0 0 - 1 2 50.0 4 4 8 3 0 1 1 4 -8
+p7
+aVShawn Bradley DAL 05/13/2002 DAL @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p8
+aVNick Van Exel DAL 05/13/2002 DAL @ SAC L 28 6 3 9 33.3 0 3 0.0 0 0 - 0 1 1 4 2 0 1 2 -11
+p9
+aVWang Zhi-zhi DAL 05/13/2002 DAL @ SAC L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 3 -5
+p10
+aVEduardo Najera DAL 05/13/2002 DAL @ SAC L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p11
+aVDirk Nowitzki DAL 05/11/2002 DAL vs. SAC L 48 31 9 28 32.1 1 5 20.0 12 14 85.7 5 7 12 7 2 0 4 4 -2
+p12
+aVSteve Nash DAL 05/11/2002 DAL vs. SAC L 44 24 7 11 63.6 2 2 100.0 8 8 100.0 2 4 6 6 1 0 9 0 2
+p13
+aVMichael Finley DAL 05/11/2002 DAL vs. SAC L 52 28 10 24 41.7 4 9 44.4 4 4 100.0 1 4 5 1 1 0 1 4 5
+p14
+aVAdrian Griffin DAL 05/11/2002 DAL vs. SAC L 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -2
+p15
+aVGreg Buckner DAL 05/11/2002 DAL vs. SAC L 15 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 2 0 0 2 -7
+p16
+aVWang Zhi-zhi DAL 05/11/2002 DAL vs. SAC L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p17
+aVShawn Bradley DAL 05/11/2002 DAL vs. SAC L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 1
+p18
+aVNick Van Exel DAL 05/11/2002 DAL vs. SAC L 37 4 2 10 20.0 0 3 0.0 0 0 - 4 1 5 6 2 0 1 3 -3
+p19
+aVEduardo Najera DAL 05/11/2002 DAL vs. SAC L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 6
+p20
+aVRaef LaFrentz DAL 05/11/2002 DAL vs. SAC L 44 12 5 11 45.5 2 4 50.0 0 0 - 0 7 7 0 0 4 1 5 -2
+p21
+aVDirk Nowitzki DAL 05/09/2002 DAL vs. SAC L 42 19 6 15 40.0 2 3 66.7 5 5 100.0 1 4 5 2 1 0 3 4 -9
+p22
+aVShawn Bradley DAL 05/09/2002 DAL vs. SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p23
+aVEduardo Najera DAL 05/09/2002 DAL vs. SAC L 10 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 0 4
+p24
+aVJohnny Newman DAL 05/09/2002 DAL vs. SAC L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p25
+aVNick Van Exel DAL 05/09/2002 DAL vs. SAC L 39 7 3 11 27.3 1 3 33.3 0 0 - 2 3 5 2 1 0 2 3 3
+p26
+aVSteve Nash DAL 05/09/2002 DAL vs. SAC L 45 15 5 19 26.3 2 10 20.0 3 3 100.0 0 4 4 15 3 0 3 4 3
+p27
+aVWang Zhi-zhi DAL 05/09/2002 DAL vs. SAC L 4 7 3 4 75.0 1 1 100.0 0 0 - 2 0 2 0 0 0 0 1 1
+p28
+aVGreg Buckner DAL 05/09/2002 DAL vs. SAC L 12 5 2 4 50.0 0 1 0.0 1 2 50.0 2 1 3 0 0 0 1 2 -9
+p29
+aVRaef LaFrentz DAL 05/09/2002 DAL vs. SAC L 37 24 10 16 62.5 1 3 33.3 3 4 75.0 5 8 13 0 0 2 2 6 -7
+p30
+aVMichael Finley DAL 05/09/2002 DAL vs. SAC L 48 37 13 23 56.5 1 3 33.3 10 11 90.9 2 2 4 5 1 0 0 3 -4
+p31
+aVRaef LaFrentz DAL 05/06/2002 DAL @ SAC W 28 14 7 10 70.0 0 1 0.0 0 0 - 2 8 10 0 1 5 1 4 4
+p32
+aVDirk Nowitzki DAL 05/06/2002 DAL @ SAC W 46 22 7 15 46.7 2 2 100.0 6 6 100.0 2 13 15 3 1 1 3 3 12
+p33
+aVGreg Buckner DAL 05/06/2002 DAL @ SAC W 22 8 4 8 50.0 0 0 - 0 0 - 3 5 8 0 1 0 2 3 7
+p34
+aVShawn Bradley DAL 05/06/2002 DAL @ SAC W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p35
+aVNick Van Exel DAL 05/06/2002 DAL @ SAC W 35 19 8 18 44.4 0 4 0.0 3 5 60.0 0 3 3 2 0 0 3 4 16
+p36
+aVSteve Nash DAL 05/06/2002 DAL @ SAC W 41 30 12 18 66.7 4 6 66.7 2 3 66.7 0 0 0 8 0 0 3 3 11
+p37
+aVJohnny Newman DAL 05/06/2002 DAL @ SAC W 10 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 2 -10
+p38
+aVWang Zhi-zhi DAL 05/06/2002 DAL @ SAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p39
+aVAdrian Griffin DAL 05/06/2002 DAL @ SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -3
+p40
+aVEduardo Najera DAL 05/06/2002 DAL @ SAC W 4 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -6
+p41
+aVMichael Finley DAL 05/06/2002 DAL @ SAC W 44 11 2 10 20.0 0 3 0.0 7 8 87.5 3 7 10 1 1 1 1 2 7
+p42
+aVEvan Eschmeyer DAL 05/04/2002 DAL @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p43
+aVShawn Bradley DAL 05/04/2002 DAL @ SAC L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p44
+aVRaef LaFrentz DAL 05/04/2002 DAL @ SAC L 25 3 1 7 14.3 0 2 0.0 1 2 50.0 2 4 6 0 0 3 1 5 -8
+p45
+aVMichael Finley DAL 05/04/2002 DAL @ SAC L 45 21 8 19 42.1 1 4 25.0 4 5 80.0 1 4 5 2 1 1 2 1 -16
+p46
+aVEduardo Najera DAL 05/04/2002 DAL @ SAC L 19 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -9
+p47
+aVNick Van Exel DAL 05/04/2002 DAL @ SAC L 31 15 7 15 46.7 0 4 0.0 1 1 100.0 1 2 3 3 1 0 2 4 -1
+p48
+aVJohnny Newman DAL 05/04/2002 DAL @ SAC L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 3 -8
+p49
+aVWang Zhi-zhi DAL 05/04/2002 DAL @ SAC L 11 7 2 4 50.0 2 3 66.7 1 4 25.0 0 0 0 0 0 0 0 4 -9
+p50
+aVSteve Nash DAL 05/04/2002 DAL @ SAC L 36 12 4 12 33.3 3 6 50.0 1 1 100.0 0 5 5 5 0 0 4 1 -17
+p51
+aVGreg Buckner DAL 05/04/2002 DAL @ SAC L 17 4 2 4 50.0 0 0 - 0 0 - 4 3 7 2 0 1 0 2 -7
+p52
+aVDirk Nowitzki DAL 05/04/2002 DAL @ SAC L 43 23 8 24 33.3 0 2 0.0 7 9 77.8 4 10 14 1 2 0 5 1 -13
+p53
+aVSteve Nash DAL 04/28/2002 DAL @ MIN W 41 25 6 16 37.5 3 7 42.9 10 10 100.0 2 2 4 11 0 0 4 3 19
+p54
+aVNick Van Exel DAL 04/28/2002 DAL @ MIN W 27 3 1 13 7.7 1 4 25.0 0 0 - 0 2 2 2 1 0 2 2 11
+p55
+aVWang Zhi-zhi DAL 04/28/2002 DAL @ MIN W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 0 2 -4
+p56
+aVMichael Finley DAL 04/28/2002 DAL @ MIN W 48 30 9 17 52.9 4 6 66.7 8 9 88.9 0 9 9 2 2 0 4 4 13
+p57
+aVRaef LaFrentz DAL 04/28/2002 DAL @ MIN W 17 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 1 0 1 0 6 25
+p58
+aVShawn Bradley DAL 04/28/2002 DAL @ MIN W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -15
+p59
+aVDirk Nowitzki DAL 04/28/2002 DAL @ MIN W 43 39 11 17 64.7 3 3 100.0 14 16 87.5 3 14 17 0 3 0 3 5 11
+p60
+aVEduardo Najera DAL 04/28/2002 DAL @ MIN W 29 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 2 0 0 5 6
+p61
+aVGreg Buckner DAL 04/28/2002 DAL @ MIN W 16 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -1
+p62
+aVShawn Bradley DAL 04/24/2002 DAL vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p63
+aVGreg Buckner DAL 04/24/2002 DAL vs. MIN W 12 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 5
+p64
+aVMichael Finley DAL 04/24/2002 DAL vs. MIN W 46 28 11 23 47.8 2 4 50.0 4 4 100.0 4 4 8 4 1 2 2 5 14
+p65
+aVRaef LaFrentz DAL 04/24/2002 DAL vs. MIN W 40 14 7 13 53.8 0 3 0.0 0 1 0.0 5 7 12 1 1 1 0 4 10
+p66
+aVWang Zhi-zhi DAL 04/24/2002 DAL vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p67
+aVSteve Nash DAL 04/24/2002 DAL vs. MIN W 39 17 6 14 42.9 3 6 50.0 2 2 100.0 1 3 4 10 0 0 3 3 11
+p68
+aVEduardo Najera DAL 04/24/2002 DAL vs. MIN W 26 13 6 9 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 4
+p69
+aVNick Van Exel DAL 04/24/2002 DAL vs. MIN W 30 17 7 12 58.3 2 4 50.0 1 2 50.0 0 2 2 5 0 0 1 5 4
+p70
+aVDirk Nowitzki DAL 04/24/2002 DAL vs. MIN W 43 31 9 21 42.9 4 5 80.0 9 10 90.0 1 14 15 2 4 1 0 6 9
+p71
+aVEvan Eschmeyer DAL 04/24/2002 DAL vs. MIN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p72
+aVDirk Nowitzki DAL 04/21/2002 DAL vs. MIN W 44 30 10 19 52.6 1 3 33.3 9 10 90.0 1 14 15 0 2 3 3 3 -4
+p73
+aVSteve Nash DAL 04/21/2002 DAL vs. MIN W 42 21 7 19 36.8 2 5 40.0 5 5 100.0 0 5 5 6 0 0 1 2 16
+p74
+aVEvan Eschmeyer DAL 04/21/2002 DAL vs. MIN W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -4
+p75
+aVRaef LaFrentz DAL 04/21/2002 DAL vs. MIN W 29 10 4 9 44.4 1 3 33.3 1 2 50.0 0 4 4 0 0 5 0 5 11
+p76
+aVEduardo Najera DAL 04/21/2002 DAL vs. MIN W 22 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 1 0 1 3 2
+p77
+aVAdrian Griffin DAL 04/21/2002 DAL vs. MIN W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -10
+p78
+aVMichael Finley DAL 04/21/2002 DAL vs. MIN W 45 16 7 14 50.0 0 2 0.0 2 2 100.0 0 3 3 1 3 0 2 2 1
+p79
+aVWang Zhi-zhi DAL 04/21/2002 DAL vs. MIN W 6 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 0 5
+p80
+aVNick Van Exel DAL 04/21/2002 DAL vs. MIN W 36 18 6 13 46.2 3 9 33.3 3 4 75.0 0 3 3 7 1 0 0 3 18
+p81
+a.

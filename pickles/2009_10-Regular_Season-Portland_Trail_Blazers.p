@@ -1,0 +1,1626 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTravis Diener POR 04/14/2010 POR vs. GSW L 13 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 0 1 -4
+p2
+aVPatty Mills POR 04/14/2010 POR vs. GSW L 13 11 4 8 50.0 2 3 66.7 1 3 33.3 0 1 1 2 0 0 2 4 -8
+p3
+aVDante Cunningham POR 04/14/2010 POR vs. GSW L 29 13 6 11 54.5 0 0 - 1 1 100.0 3 8 11 1 0 1 1 2 -3
+p4
+aVNicolas Batum POR 04/14/2010 POR vs. GSW L 38 12 5 12 41.7 2 6 33.3 0 2 0.0 1 11 12 3 0 0 1 0 -2
+p5
+aVRudy Fernandez POR 04/14/2010 POR vs. GSW L 31 8 3 9 33.3 2 7 28.6 0 0 - 1 1 2 9 0 0 1 0 2
+p6
+aVJeff Ayres POR 04/14/2010 POR vs. GSW L 29 23 11 15 73.3 0 0 - 1 1 100.0 2 2 4 1 2 1 1 3 -13
+p7
+aVJerryd Bayless POR 04/14/2010 POR vs. GSW L 30 12 4 13 30.8 2 5 40.0 2 2 100.0 0 2 2 9 0 0 3 5 0
+p8
+aVMartell Webster POR 04/14/2010 POR vs. GSW L 31 18 5 9 55.6 2 3 66.7 6 7 85.7 1 3 4 3 0 0 2 3 -5
+p9
+aVAndre Miller POR 04/14/2010 POR vs. GSW L 9 6 1 1 100.0 0 0 - 4 4 100.0 1 1 2 2 0 0 1 0 -2
+p10
+aVJuwan Howard POR 04/14/2010 POR vs. GSW L 17 13 5 7 71.4 0 0 - 3 4 75.0 0 4 4 0 0 0 2 3 5
+p11
+aVRudy Fernandez POR 04/12/2010 POR vs. OKC W 33 9 2 6 33.3 2 6 33.3 3 4 75.0 0 4 4 2 0 0 0 2 -7
+p12
+aVNicolas Batum POR 04/12/2010 POR vs. OKC W 33 12 5 9 55.6 0 2 0.0 2 3 66.7 2 3 5 3 1 0 0 5 18
+p13
+aVLaMarcus Aldridge POR 04/12/2010 POR vs. OKC W 34 15 6 13 46.2 0 0 - 3 4 75.0 1 4 5 4 1 0 0 3 19
+p14
+aVAndre Miller POR 04/12/2010 POR vs. OKC W 34 22 9 16 56.3 0 2 0.0 4 5 80.0 0 4 4 7 4 0 3 1 17
+p15
+aVJuwan Howard POR 04/12/2010 POR vs. OKC W 19 4 2 7 28.6 0 0 - 0 0 - 0 0 0 0 0 1 2 2 -8
+p16
+aVDante Cunningham POR 04/12/2010 POR vs. OKC W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p17
+aVMartell Webster POR 04/12/2010 POR vs. OKC W 30 9 3 6 50.0 1 2 50.0 2 3 66.7 0 0 0 0 0 1 0 4 2
+p18
+aVMarcus Camby POR 04/12/2010 POR vs. OKC W 36 30 12 16 75.0 0 0 - 6 8 75.0 5 8 13 3 1 1 0 4 14
+p19
+aVJerryd Bayless POR 04/12/2010 POR vs. OKC W 16 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 1 0 0 1 2 -8
+p20
+aVJerryd Bayless POR 04/11/2010 POR @ LAL W 16 8 3 5 60.0 1 2 50.0 1 2 50.0 0 5 5 1 0 0 2 1 -5
+p21
+aVLaMarcus Aldridge POR 04/11/2010 POR @ LAL W 43 24 10 21 47.6 0 0 - 4 4 100.0 3 8 11 2 0 0 1 4 8
+p22
+aVAndre Miller POR 04/11/2010 POR @ LAL W 30 15 7 20 35.0 0 0 - 1 1 100.0 0 2 2 7 0 0 3 4 8
+p23
+aVRudy Fernandez POR 04/11/2010 POR @ LAL W 37 9 3 6 50.0 2 4 50.0 1 1 100.0 1 2 3 6 0 0 1 2 7
+p24
+aVDante Cunningham POR 04/11/2010 POR @ LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p25
+aVMarcus Camby POR 04/11/2010 POR @ LAL W 37 10 5 8 62.5 0 1 0.0 0 0 - 7 10 17 0 0 4 2 2 1
+p26
+aVBrandon Roy POR 04/11/2010 POR @ LAL W 11 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 1 0 0 0 0 2
+p27
+aVNicolas Batum POR 04/11/2010 POR @ LAL W 25 5 2 7 28.6 1 4 25.0 0 0 - 0 3 3 0 0 1 0 3 -1
+p28
+aVMartell Webster POR 04/11/2010 POR @ LAL W 25 16 4 7 57.1 2 4 50.0 6 6 100.0 1 2 3 1 0 0 0 5 -2
+p29
+aVJuwan Howard POR 04/11/2010 POR @ LAL W 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 2 2 -3
+p30
+aVLaMarcus Aldridge POR 04/09/2010 POR vs. DAL L 42 27 9 20 45.0 0 0 - 9 11 81.8 2 3 5 2 1 3 2 3 2
+p31
+aVMartell Webster POR 04/09/2010 POR vs. DAL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p32
+aVAndre Miller POR 04/09/2010 POR vs. DAL L 25 6 2 12 16.7 0 2 0.0 2 3 66.7 1 1 2 4 1 0 1 3 -6
+p33
+aVMarcus Camby POR 04/09/2010 POR vs. DAL L 36 2 1 4 25.0 0 0 - 0 0 - 1 17 18 2 0 2 1 3 -3
+p34
+aVRudy Fernandez POR 04/09/2010 POR vs. DAL L 22 11 4 7 57.1 3 4 75.0 0 0 - 1 3 4 0 1 1 1 2 -6
+p35
+aVBrandon Roy POR 04/09/2010 POR vs. DAL L 41 13 4 14 28.6 0 4 0.0 5 9 55.6 4 4 8 6 1 1 2 2 -8
+p36
+aVNicolas Batum POR 04/09/2010 POR vs. DAL L 28 7 3 9 33.3 1 7 14.3 0 0 - 1 2 3 0 2 0 1 5 2
+p37
+aVJerryd Bayless POR 04/09/2010 POR vs. DAL L 20 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 2 0 0 2 1 -2
+p38
+aVJuwan Howard POR 04/09/2010 POR vs. DAL L 18 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 4 2 -11
+p39
+aVAndre Miller POR 04/07/2010 POR @ LAC W 33 13 5 9 55.6 0 0 - 3 4 75.0 0 4 4 4 4 0 5 3 14
+p40
+aVJuwan Howard POR 04/07/2010 POR @ LAC W 24 10 5 8 62.5 0 0 - 0 0 - 2 3 5 0 0 0 1 3 -10
+p41
+aVBrandon Roy POR 04/07/2010 POR @ LAC W 39 23 10 17 58.8 1 3 33.3 2 3 66.7 0 3 3 6 1 0 1 2 12
+p42
+aVJeff Ayres POR 04/07/2010 POR @ LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p43
+aVLaMarcus Aldridge POR 04/07/2010 POR @ LAC W 42 27 12 26 46.2 0 0 - 3 4 75.0 7 5 12 5 1 1 0 1 8
+p44
+aVNicolas Batum POR 04/07/2010 POR @ LAC W 31 11 5 8 62.5 1 3 33.3 0 1 0.0 0 4 4 2 1 1 2 2 10
+p45
+aVMartell Webster POR 04/07/2010 POR @ LAC W 11 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 2 3 -6
+p46
+aVMarcus Camby POR 04/07/2010 POR @ LAC W 27 2 1 5 20.0 0 0 - 0 0 - 1 8 9 2 1 2 0 2 18
+p47
+aVJerryd Bayless POR 04/07/2010 POR @ LAC W 11 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 1 1 0 0 1 -6
+p48
+aVRudy Fernandez POR 04/07/2010 POR @ LAC W 18 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 2 0 0
+p49
+aVAndre Miller POR 04/03/2010 POR @ SAC W 33 23 9 15 60.0 0 1 0.0 5 6 83.3 1 1 2 4 1 0 1 1 11
+p50
+aVLaMarcus Aldridge POR 04/03/2010 POR @ SAC W 42 21 8 17 47.1 0 0 - 5 6 83.3 4 5 9 3 1 0 0 2 10
+p51
+aVMarcus Camby POR 04/03/2010 POR @ SAC W 38 2 1 2 50.0 0 0 - 0 0 - 1 14 15 1 1 2 1 3 24
+p52
+aVRudy Fernandez POR 04/03/2010 POR @ SAC W 19 0 0 5 0.0 0 3 0.0 0 0 - 1 2 3 1 0 0 0 0 -9
+p53
+aVDante Cunningham POR 04/03/2010 POR @ SAC W 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 2 1 2 4 -12
+p54
+aVNicolas Batum POR 04/03/2010 POR @ SAC W 30 21 6 11 54.5 5 8 62.5 4 4 100.0 0 2 2 1 2 3 0 2 22
+p55
+aVJerryd Bayless POR 04/03/2010 POR @ SAC W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 2 0 0 3 3 2
+p56
+aVBrandon Roy POR 04/03/2010 POR @ SAC W 39 24 8 14 57.1 1 4 25.0 7 8 87.5 1 3 4 6 0 1 3 2 20
+p57
+aVMartell Webster POR 04/03/2010 POR @ SAC W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -13
+p58
+aVJeff Ayres POR 04/01/2010 POR @ DEN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p59
+aVDante Cunningham POR 04/01/2010 POR @ DEN L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p60
+aVJerryd Bayless POR 04/01/2010 POR @ DEN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 2 1 -1
+p61
+aVNicolas Batum POR 04/01/2010 POR @ DEN L 20 0 0 4 0.0 0 1 0.0 0 0 - 2 1 3 1 0 0 2 2 -7
+p62
+aVBrandon Roy POR 04/01/2010 POR @ DEN L 37 14 3 13 23.1 1 1 100.0 7 7 100.0 1 2 3 3 0 0 2 3 -9
+p63
+aVRudy Fernandez POR 04/01/2010 POR @ DEN L 18 3 1 8 12.5 1 4 25.0 0 0 - 0 2 2 2 0 0 0 1 -18
+p64
+aVLaMarcus Aldridge POR 04/01/2010 POR @ DEN L 36 16 7 15 46.7 0 0 - 2 3 66.7 2 5 7 3 2 4 1 4 -15
+p65
+aVTravis Diener POR 04/01/2010 POR @ DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p66
+aVJuwan Howard POR 04/01/2010 POR @ DEN L 24 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 3 0 0 1 2 -13
+p67
+aVAndre Miller POR 04/01/2010 POR @ DEN L 33 24 8 18 44.4 0 0 - 8 12 66.7 1 2 3 1 0 0 2 3 -6
+p68
+aVMarcus Camby POR 04/01/2010 POR @ DEN L 33 12 6 7 85.7 0 0 - 0 0 - 2 6 8 2 1 2 0 5 -6
+p69
+aVMartell Webster POR 04/01/2010 POR @ DEN L 28 17 6 9 66.7 2 3 66.7 3 4 75.0 1 3 4 0 1 1 1 6 -10
+p70
+aVMarcus Camby POR 03/31/2010 POR vs. NYK W 26 9 4 9 44.4 0 0 - 1 2 50.0 4 6 10 2 1 0 1 3 23
+p71
+aVJerryd Bayless POR 03/31/2010 POR vs. NYK W 23 6 3 6 50.0 0 1 0.0 0 0 - 0 4 4 7 2 0 2 2 8
+p72
+aVAndre Miller POR 03/31/2010 POR vs. NYK W 22 6 3 5 60.0 0 0 - 0 1 0.0 0 2 2 7 0 0 1 3 22
+p73
+aVLaMarcus Aldridge POR 03/31/2010 POR vs. NYK W 27 21 10 12 83.3 0 0 - 1 2 50.0 1 2 3 5 1 0 0 2 28
+p74
+aVRudy Fernandez POR 03/31/2010 POR vs. NYK W 23 3 1 5 20.0 1 5 20.0 0 0 - 1 3 4 4 2 0 1 0 14
+p75
+aVMartell Webster POR 03/31/2010 POR vs. NYK W 20 14 6 13 46.2 2 6 33.3 0 0 - 0 4 4 0 1 1 0 1 5
+p76
+aVNicolas Batum POR 03/31/2010 POR vs. NYK W 22 20 7 13 53.8 3 7 42.9 3 3 100.0 2 3 5 0 1 0 0 1 18
+p77
+aVJuwan Howard POR 03/31/2010 POR vs. NYK W 19 12 4 11 36.4 0 0 - 4 4 100.0 3 1 4 1 2 0 1 1 11
+p78
+aVJeff Ayres POR 03/31/2010 POR vs. NYK W 7 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -3
+p79
+aVDante Cunningham POR 03/31/2010 POR vs. NYK W 17 6 3 5 60.0 0 0 - 0 0 - 2 5 7 2 0 0 0 2 -3
+p80
+aVTravis Diener POR 03/31/2010 POR vs. NYK W 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -6
+p81
+aVBrandon Roy POR 03/31/2010 POR vs. NYK W 28 16 7 12 58.3 0 1 0.0 2 2 100.0 2 3 5 1 2 0 1 2 23
+p82
+aVNicolas Batum POR 03/28/2010 POR @ OKC W 33 9 4 8 50.0 1 2 50.0 0 0 - 3 2 5 0 1 1 0 3 3
+p83
+aVJerryd Bayless POR 03/28/2010 POR @ OKC W 12 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 -1
+p84
+aVBrandon Roy POR 03/28/2010 POR @ OKC W 40 20 8 22 36.4 0 3 0.0 4 4 100.0 1 2 3 7 0 1 1 2 9
+p85
+aVJuwan Howard POR 03/28/2010 POR @ OKC W 22 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 4 -4
+p86
+aVAndre Miller POR 03/28/2010 POR @ OKC W 32 26 9 18 50.0 1 1 100.0 7 7 100.0 2 4 6 4 3 0 4 3 8
+p87
+aVRudy Fernandez POR 03/28/2010 POR @ OKC W 14 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -4
+p88
+aVMarcus Camby POR 03/28/2010 POR @ OKC W 34 11 4 6 66.7 0 0 - 3 4 75.0 3 9 12 2 1 0 2 4 9
+p89
+aVMartell Webster POR 03/28/2010 POR @ OKC W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 2 2
+p90
+aVLaMarcus Aldridge POR 03/28/2010 POR @ OKC W 40 14 7 14 50.0 0 1 0.0 0 0 - 2 4 6 0 2 1 3 1 3
+p91
+aVTravis Diener POR 03/27/2010 POR @ NOH W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p92
+aVRudy Fernandez POR 03/27/2010 POR @ NOH W 25 6 2 9 22.2 2 8 25.0 0 0 - 0 4 4 0 2 1 0 0 1
+p93
+aVJeff Ayres POR 03/27/2010 POR @ NOH W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p94
+aVLaMarcus Aldridge POR 03/27/2010 POR @ NOH W 34 24 11 16 68.8 0 0 - 2 2 100.0 0 5 5 0 0 0 3 2 17
+p95
+aVNicolas Batum POR 03/27/2010 POR @ NOH W 21 13 4 5 80.0 2 3 66.7 3 3 100.0 1 2 3 0 1 1 0 2 17
+p96
+aVMartell Webster POR 03/27/2010 POR @ NOH W 16 6 0 5 0.0 0 2 0.0 6 6 100.0 2 0 2 0 0 0 0 1 -11
+p97
+aVJuwan Howard POR 03/27/2010 POR @ NOH W 21 4 2 6 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 2 4
+p98
+aVDante Cunningham POR 03/27/2010 POR @ NOH W 8 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -9
+p99
+aVJerryd Bayless POR 03/27/2010 POR @ NOH W 23 9 2 6 33.3 1 3 33.3 4 4 100.0 2 1 3 5 0 0 3 2 -7
+p100
+aVAndre Miller POR 03/27/2010 POR @ NOH W 23 8 4 6 66.7 0 0 - 0 0 - 0 0 0 8 1 0 3 3 21
+p101
+aVBrandon Roy POR 03/27/2010 POR @ NOH W 32 28 12 14 85.7 1 2 50.0 3 5 60.0 1 0 1 7 0 0 0 0 22
+p102
+aVMarcus Camby POR 03/27/2010 POR @ NOH W 29 11 5 6 83.3 0 0 - 1 1 100.0 4 10 14 2 1 0 1 2 20
+p103
+aVRudy Fernandez POR 03/25/2010 POR vs. DAL W 28 7 2 6 33.3 1 3 33.3 2 2 100.0 0 2 2 0 0 0 0 3 3
+p104
+aVBrandon Roy POR 03/25/2010 POR vs. DAL W 41 16 5 7 71.4 0 0 - 6 8 75.0 0 4 4 7 0 1 2 1 11
+p105
+aVJerryd Bayless POR 03/25/2010 POR vs. DAL W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p106
+aVMarcus Camby POR 03/25/2010 POR vs. DAL W 32 17 8 13 61.5 0 0 - 1 6 16.7 4 7 11 1 1 2 1 1 9
+p107
+aVMartell Webster POR 03/25/2010 POR vs. DAL W 10 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 1
+p108
+aVLaMarcus Aldridge POR 03/25/2010 POR vs. DAL W 36 20 9 18 50.0 0 0 - 2 2 100.0 3 7 10 5 1 1 2 4 10
+p109
+aVJuwan Howard POR 03/25/2010 POR vs. DAL W 25 4 2 7 28.6 0 0 - 0 0 - 3 1 4 0 0 0 0 1 7
+p110
+aVAndre Miller POR 03/25/2010 POR vs. DAL W 33 19 6 11 54.5 0 1 0.0 7 8 87.5 0 3 3 10 3 0 2 2 21
+p111
+aVNicolas Batum POR 03/25/2010 POR vs. DAL W 24 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 2 0 2 1 1 6
+p112
+aVDante Cunningham POR 03/25/2010 POR vs. DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p113
+aVNicolas Batum POR 03/21/2010 POR @ PHX L 32 8 3 8 37.5 1 6 16.7 1 2 50.0 1 3 4 2 2 0 0 6 7
+p114
+aVAndre Miller POR 03/21/2010 POR @ PHX L 37 22 7 20 35.0 0 6 0.0 8 9 88.9 1 2 3 9 2 0 1 3 0
+p115
+aVMarcus Camby POR 03/21/2010 POR @ PHX L 35 7 3 6 50.0 0 0 - 1 2 50.0 5 11 16 1 1 5 0 2 -1
+p116
+aVLaMarcus Aldridge POR 03/21/2010 POR @ PHX L 38 16 6 15 40.0 0 0 - 4 6 66.7 2 6 8 1 0 0 1 5 -3
+p117
+aVJuwan Howard POR 03/21/2010 POR @ PHX L 20 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -2
+p118
+aVMartell Webster POR 03/21/2010 POR @ PHX L 18 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -12
+p119
+aVDante Cunningham POR 03/21/2010 POR @ PHX L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -6
+p120
+aVJerryd Bayless POR 03/21/2010 POR @ PHX L 12 1 0 5 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -6
+p121
+aVBrandon Roy POR 03/21/2010 POR @ PHX L 45 23 8 25 32.0 1 5 20.0 6 8 75.0 4 4 8 2 0 0 1 2 -7
+p122
+aVRudy Fernandez POR 03/19/2010 POR vs. WAS W 14 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 3 0 0 2 3 -7
+p123
+aVLaMarcus Aldridge POR 03/19/2010 POR vs. WAS W 40 19 6 17 35.3 0 0 - 7 10 70.0 4 8 12 1 2 1 2 2 9
+p124
+aVJuwan Howard POR 03/19/2010 POR vs. WAS W 19 9 2 3 66.7 0 0 - 5 6 83.3 2 2 4 0 0 0 1 1 1
+p125
+aVNicolas Batum POR 03/19/2010 POR vs. WAS W 27 5 1 5 20.0 1 4 25.0 2 2 100.0 2 5 7 1 0 1 1 3 3
+p126
+aVBrandon Roy POR 03/19/2010 POR vs. WAS W 36 14 4 18 22.2 1 5 20.0 5 6 83.3 1 1 2 1 1 0 1 2 -7
+p127
+aVMartell Webster POR 03/19/2010 POR vs. WAS W 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 8
+p128
+aVMarcus Camby POR 03/19/2010 POR vs. WAS W 36 2 1 6 16.7 0 0 - 0 0 - 6 13 19 0 2 4 0 1 -10
+p129
+aVAndre Miller POR 03/19/2010 POR vs. WAS W 33 14 6 15 40.0 0 0 - 2 4 50.0 1 1 2 3 0 0 0 3 6
+p130
+aVJerryd Bayless POR 03/19/2010 POR vs. WAS W 21 9 3 6 50.0 0 0 - 3 3 100.0 1 2 3 1 0 0 1 3 7
+p131
+aVNicolas Batum POR 03/14/2010 POR vs. TOR W 31 22 7 9 77.8 5 6 83.3 3 3 100.0 0 2 2 0 1 2 1 1 9
+p132
+aVAndre Miller POR 03/14/2010 POR vs. TOR W 32 13 5 12 41.7 0 1 0.0 3 3 100.0 2 5 7 5 1 0 2 3 12
+p133
+aVJerryd Bayless POR 03/14/2010 POR vs. TOR W 16 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 1 0 2 1 -1
+p134
+aVMartell Webster POR 03/14/2010 POR vs. TOR W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 5
+p135
+aVRudy Fernandez POR 03/14/2010 POR vs. TOR W 21 12 3 8 37.5 3 5 60.0 3 3 100.0 2 1 3 3 1 0 0 2 2
+p136
+aVMarcus Camby POR 03/14/2010 POR vs. TOR W 37 12 6 11 54.5 0 0 - 0 0 - 5 1 6 2 3 1 0 4 9
+p137
+aVLaMarcus Aldridge POR 03/14/2010 POR vs. TOR W 40 22 9 21 42.9 0 0 - 4 5 80.0 8 4 12 3 0 1 0 2 14
+p138
+aVBrandon Roy POR 03/14/2010 POR vs. TOR W 39 20 6 16 37.5 2 4 50.0 6 7 85.7 1 1 2 5 0 0 1 1 6
+p139
+aVJuwan Howard POR 03/14/2010 POR vs. TOR W 19 2 0 1 0.0 0 0 - 2 2 100.0 1 6 7 2 0 0 3 3 -1
+p140
+aVMarcus Camby POR 03/12/2010 POR @ SAC W 24 2 1 3 33.3 0 0 - 0 0 - 2 5 7 2 1 1 1 3 8
+p141
+aVDante Cunningham POR 03/12/2010 POR @ SAC W 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 9
+p142
+aVTravis Diener POR 03/12/2010 POR @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p143
+aVLaMarcus Aldridge POR 03/12/2010 POR @ SAC W 34 18 8 17 47.1 0 0 - 2 2 100.0 2 4 6 0 0 1 1 3 6
+p144
+aVJeff Ayres POR 03/12/2010 POR @ SAC W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -1
+p145
+aVBrandon Roy POR 03/12/2010 POR @ SAC W 35 28 10 13 76.9 2 2 100.0 6 6 100.0 0 2 2 4 1 0 3 1 18
+p146
+aVAndre Miller POR 03/12/2010 POR @ SAC W 28 15 4 10 40.0 0 0 - 7 7 100.0 1 2 3 1 2 0 1 2 8
+p147
+aVNicolas Batum POR 03/12/2010 POR @ SAC W 23 11 4 6 66.7 0 1 0.0 3 4 75.0 1 2 3 2 0 0 0 2 17
+p148
+aVJuwan Howard POR 03/12/2010 POR @ SAC W 27 8 2 6 33.3 0 0 - 4 4 100.0 2 1 3 0 0 0 0 4 10
+p149
+aVRudy Fernandez POR 03/12/2010 POR @ SAC W 27 10 3 7 42.9 3 5 60.0 1 2 50.0 0 1 1 1 2 0 0 2 1
+p150
+aVJerryd Bayless POR 03/12/2010 POR @ SAC W 15 10 2 5 40.0 0 0 - 6 7 85.7 2 2 4 1 1 0 1 2 6
+p151
+aVMartell Webster POR 03/12/2010 POR @ SAC W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 3 0 1 1 0 -1
+p152
+aVBrandon Roy POR 03/11/2010 POR @ GSW W 42 41 14 22 63.6 0 2 0.0 13 17 76.5 3 5 8 3 2 1 4 4 6
+p153
+aVJuwan Howard POR 03/11/2010 POR @ GSW W 18 6 3 4 75.0 0 0 - 0 0 - 4 1 5 5 0 0 1 1 -9
+p154
+aVJerryd Bayless POR 03/11/2010 POR @ GSW W 20 12 4 7 57.1 1 2 50.0 3 3 100.0 0 0 0 1 0 0 2 3 1
+p155
+aVAndre Miller POR 03/11/2010 POR @ GSW W 30 15 4 15 26.7 0 0 - 7 8 87.5 1 5 6 7 4 1 3 1 12
+p156
+aVRudy Fernandez POR 03/11/2010 POR @ GSW W 26 12 4 8 50.0 4 6 66.7 0 0 - 0 1 1 1 1 0 0 0 1
+p157
+aVNicolas Batum POR 03/11/2010 POR @ GSW W 21 6 2 5 40.0 2 3 66.7 0 0 - 0 4 4 1 0 2 0 0 -3
+p158
+aVDante Cunningham POR 03/11/2010 POR @ GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p159
+aVMarcus Camby POR 03/11/2010 POR @ GSW W 33 4 1 7 14.3 0 0 - 2 2 100.0 9 8 17 1 0 0 0 1 9
+p160
+aVMartell Webster POR 03/11/2010 POR @ GSW W 16 0 0 4 0.0 0 2 0.0 0 0 - 0 4 4 0 0 1 0 2 3
+p161
+aVLaMarcus Aldridge POR 03/11/2010 POR @ GSW W 33 14 4 14 28.6 0 0 - 6 7 85.7 5 3 8 1 0 0 6 5 5
+p162
+aVAndre Miller POR 03/09/2010 POR vs. SAC W 34 14 4 9 44.4 0 0 - 6 6 100.0 0 2 2 5 2 0 1 1 6
+p163
+aVMartell Webster POR 03/09/2010 POR vs. SAC W 15 11 4 7 57.1 1 3 33.3 2 2 100.0 0 0 0 0 0 1 0 3 3
+p164
+aVMarcus Camby POR 03/09/2010 POR vs. SAC W 33 6 3 5 60.0 0 0 - 0 0 - 2 6 8 2 1 5 4 2 10
+p165
+aVLaMarcus Aldridge POR 03/09/2010 POR vs. SAC W 39 13 6 15 40.0 0 0 - 1 1 100.0 2 5 7 4 2 0 3 4 7
+p166
+aVDante Cunningham POR 03/09/2010 POR vs. SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p167
+aVBrandon Roy POR 03/09/2010 POR vs. SAC W 39 19 8 16 50.0 0 0 - 3 7 42.9 3 5 8 3 2 0 2 1 7
+p168
+aVJerryd Bayless POR 03/09/2010 POR vs. SAC W 10 0 0 4 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -6
+p169
+aVRudy Fernandez POR 03/09/2010 POR vs. SAC W 20 5 2 8 25.0 1 3 33.3 0 1 0.0 1 2 3 1 0 1 0 0 2
+p170
+aVNicolas Batum POR 03/09/2010 POR vs. SAC W 27 14 6 7 85.7 1 2 50.0 1 1 100.0 0 2 2 2 0 0 1 2 9
+p171
+aVJuwan Howard POR 03/09/2010 POR vs. SAC W 21 6 2 5 40.0 0 0 - 2 4 50.0 1 7 8 0 0 0 0 3 -4
+p172
+aVDante Cunningham POR 03/07/2010 POR @ DEN L 12 5 1 1 100.0 0 0 - 3 4 75.0 2 1 3 0 0 0 0 4 0
+p173
+aVJuwan Howard POR 03/07/2010 POR @ DEN L 28 8 4 6 66.7 0 0 - 0 2 0.0 2 5 7 4 2 0 1 3 1
+p174
+aVMartell Webster POR 03/07/2010 POR @ DEN L 17 4 1 6 16.7 1 2 50.0 1 2 50.0 1 4 5 2 1 0 0 2 -12
+p175
+aVNicolas Batum POR 03/07/2010 POR @ DEN L 14 4 2 7 28.6 0 3 0.0 0 0 - 0 3 3 1 0 1 0 4 1
+p176
+aVRudy Fernandez POR 03/07/2010 POR @ DEN L 26 14 5 9 55.6 4 4 100.0 0 0 - 1 2 3 1 1 0 0 0 -9
+p177
+aVAndre Miller POR 03/07/2010 POR @ DEN L 34 19 7 15 46.7 0 0 - 5 6 83.3 0 1 1 2 1 0 2 3 -3
+p178
+aVBrandon Roy POR 03/07/2010 POR @ DEN L 41 12 3 14 21.4 1 4 25.0 5 6 83.3 2 3 5 5 0 0 1 2 -4
+p179
+aVJeff Ayres POR 03/07/2010 POR @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p180
+aVJerryd Bayless POR 03/07/2010 POR @ DEN L 24 24 6 10 60.0 3 3 100.0 9 11 81.8 0 2 2 5 0 0 4 2 -7
+p181
+aVLaMarcus Aldridge POR 03/07/2010 POR @ DEN L 41 16 6 14 42.9 0 0 - 4 5 80.0 5 2 7 3 0 2 1 4 -19
+p182
+aVJeff Ayres POR 03/03/2010 POR vs. IND W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p183
+aVPatty Mills POR 03/03/2010 POR vs. IND W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p184
+aVMarcus Camby POR 03/03/2010 POR vs. IND W 26 0 0 0 - 0 0 - 0 0 - 1 6 7 1 2 1 3 0 12
+p185
+aVJerryd Bayless POR 03/03/2010 POR vs. IND W 17 10 5 6 83.3 0 1 0.0 0 0 - 0 6 6 2 0 0 1 2 22
+p186
+aVRudy Fernandez POR 03/03/2010 POR vs. IND W 31 16 5 12 41.7 5 10 50.0 1 2 50.0 1 2 3 5 0 0 0 1 23
+p187
+aVNicolas Batum POR 03/03/2010 POR vs. IND W 20 5 2 8 25.0 1 4 25.0 0 0 - 2 0 2 1 0 0 1 2 1
+p188
+aVAndre Miller POR 03/03/2010 POR vs. IND W 25 12 3 6 50.0 1 1 100.0 5 5 100.0 1 3 4 4 1 0 3 1 3
+p189
+aVDante Cunningham POR 03/03/2010 POR vs. IND W 24 4 1 7 14.3 0 0 - 2 2 100.0 4 4 8 1 4 0 0 1 21
+p190
+aVBrandon Roy POR 03/03/2010 POR vs. IND W 32 22 6 16 37.5 0 3 0.0 10 11 90.9 1 4 5 3 0 3 1 2 21
+p191
+aVLaMarcus Aldridge POR 03/03/2010 POR vs. IND W 26 19 8 11 72.7 0 0 - 3 6 50.0 2 5 7 1 1 0 0 0 3
+p192
+aVMartell Webster POR 03/03/2010 POR vs. IND W 14 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 1
+p193
+aVJuwan Howard POR 03/03/2010 POR vs. IND W 16 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 0 2 0 0 2 12
+p194
+aVRudy Fernandez POR 03/01/2010 POR @ MEM W 17 5 2 7 28.6 1 6 16.7 0 0 - 0 1 1 1 0 0 0 1 -1
+p195
+aVAndre Miller POR 03/01/2010 POR @ MEM W 30 12 5 11 45.5 0 0 - 2 2 100.0 0 5 5 11 1 1 2 2 3
+p196
+aVDante Cunningham POR 03/01/2010 POR @ MEM W 3 5 2 2 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 3
+p197
+aVLaMarcus Aldridge POR 03/01/2010 POR @ MEM W 40 13 6 11 54.5 0 0 - 1 1 100.0 0 2 2 0 4 1 0 5 19
+p198
+aVNicolas Batum POR 03/01/2010 POR @ MEM W 33 21 7 11 63.6 4 7 57.1 3 3 100.0 0 3 3 1 1 1 2 1 15
+p199
+aVJuwan Howard POR 03/01/2010 POR @ MEM W 23 6 2 7 28.6 0 0 - 2 2 100.0 4 1 5 0 0 1 1 5 -16
+p200
+aVMartell Webster POR 03/01/2010 POR @ MEM W 6 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 1 0 0 4
+p201
+aVJerryd Bayless POR 03/01/2010 POR @ MEM W 18 9 4 8 50.0 0 0 - 1 1 100.0 1 4 5 3 1 1 2 1 7
+p202
+aVMarcus Camby POR 03/01/2010 POR @ MEM W 29 4 2 6 33.3 0 0 - 0 0 - 4 3 7 1 0 1 3 3 12
+p203
+aVBrandon Roy POR 03/01/2010 POR @ MEM W 40 25 7 18 38.9 2 6 33.3 9 9 100.0 1 6 7 5 3 0 3 3 4
+p204
+aVJeff Ayres POR 02/27/2010 POR @ MIN W 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 2 -9
+p205
+aVLaMarcus Aldridge POR 02/27/2010 POR @ MIN W 31 21 8 14 57.1 0 0 - 5 7 71.4 2 5 7 2 1 0 1 2 22
+p206
+aVDante Cunningham POR 02/27/2010 POR @ MIN W 9 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 1 1 0 1 -8
+p207
+aVAndre Miller POR 02/27/2010 POR @ MIN W 26 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 4 0 0 1 2 27
+p208
+aVBrandon Roy POR 02/27/2010 POR @ MIN W 28 7 2 7 28.6 0 2 0.0 3 4 75.0 2 2 4 9 3 0 1 1 22
+p209
+aVMartell Webster POR 02/27/2010 POR @ MIN W 21 8 2 9 22.2 0 2 0.0 4 4 100.0 3 4 7 1 0 0 1 2 -9
+p210
+aVNicolas Batum POR 02/27/2010 POR @ MIN W 29 31 11 16 68.8 5 8 62.5 4 4 100.0 2 5 7 7 3 0 0 1 31
+p211
+aVMarcus Camby POR 02/27/2010 POR @ MIN W 25 4 2 4 50.0 0 0 - 0 2 0.0 2 1 3 2 2 4 1 2 21
+p212
+aVPatty Mills POR 02/27/2010 POR @ MIN W 4 8 3 5 60.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -10
+p213
+aVRudy Fernandez POR 02/27/2010 POR @ MIN W 23 18 5 8 62.5 2 5 40.0 6 6 100.0 0 4 4 1 0 0 0 0 8
+p214
+aVJuwan Howard POR 02/27/2010 POR @ MIN W 25 3 1 5 20.0 0 0 - 1 2 50.0 1 4 5 1 1 0 2 4 12
+p215
+aVJerryd Bayless POR 02/27/2010 POR @ MIN W 12 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 0 0 0 3 -12
+p216
+aVJerryd Bayless POR 02/26/2010 POR @ CHI L 22 15 5 8 62.5 0 1 0.0 5 6 83.3 0 0 0 2 2 0 1 4 -4
+p217
+aVRudy Fernandez POR 02/26/2010 POR @ CHI L 21 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 1 0 1 0 -7
+p218
+aVLaMarcus Aldridge POR 02/26/2010 POR @ CHI L 44 32 15 23 65.2 0 0 - 2 2 100.0 2 5 7 0 1 0 3 4 -11
+p219
+aVBrandon Roy POR 02/26/2010 POR @ CHI L 45 23 8 19 42.1 1 4 25.0 6 8 75.0 1 3 4 6 1 1 1 5 15
+p220
+aVMartell Webster POR 02/26/2010 POR @ CHI L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -6
+p221
+aVDante Cunningham POR 02/26/2010 POR @ CHI L 5 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 4
+p222
+aVAndre Miller POR 02/26/2010 POR @ CHI L 42 14 6 13 46.2 1 3 33.3 1 2 50.0 1 2 3 7 3 0 3 1 7
+p223
+aVJuwan Howard POR 02/26/2010 POR @ CHI L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 2 -9
+p224
+aVNicolas Batum POR 02/26/2010 POR @ CHI L 24 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 1 1 0 2 2 -14
+p225
+aVMarcus Camby POR 02/26/2010 POR @ CHI L 42 9 3 6 50.0 0 0 - 3 4 75.0 5 6 11 3 3 3 0 3 5
+p226
+aVJeff Ayres POR 02/24/2010 POR @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p227
+aVNicolas Batum POR 02/24/2010 POR @ TOR W 19 9 4 6 66.7 1 2 50.0 0 0 - 1 2 3 0 1 0 1 1 -14
+p228
+aVDante Cunningham POR 02/24/2010 POR @ TOR W 22 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 0 1 1 0 4 6
+p229
+aVJuwan Howard POR 02/24/2010 POR @ TOR W 31 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 2 1 0 1 3 19
+p230
+aVMartell Webster POR 02/24/2010 POR @ TOR W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p231
+aVRudy Fernandez POR 02/24/2010 POR @ TOR W 32 17 6 9 66.7 3 5 60.0 2 2 100.0 1 6 7 3 1 0 1 5 24
+p232
+aVPatty Mills POR 02/24/2010 POR @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p233
+aVLaMarcus Aldridge POR 02/24/2010 POR @ TOR W 39 9 4 12 33.3 0 0 - 1 2 50.0 0 2 2 1 1 2 1 2 7
+p234
+aVAndre Miller POR 02/24/2010 POR @ TOR W 33 18 8 14 57.1 0 1 0.0 2 2 100.0 2 5 7 10 3 0 0 1 2
+p235
+aVBrandon Roy POR 02/24/2010 POR @ TOR W 38 20 8 17 47.1 1 3 33.3 3 5 60.0 1 4 5 5 1 0 1 1 9
+p236
+aVJerryd Bayless POR 02/24/2010 POR @ TOR W 17 11 5 13 38.5 1 4 25.0 0 0 - 1 3 4 4 0 0 1 2 12
+p237
+aVNicolas Batum POR 02/23/2010 POR @ NJN W 23 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 0 1 3 0 1 2
+p238
+aVBrandon Roy POR 02/23/2010 POR @ NJN W 37 28 9 14 64.3 0 0 - 10 13 76.9 0 4 4 4 0 0 0 2 5
+p239
+aVMarcus Camby POR 02/23/2010 POR @ NJN W 5 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -1
+p240
+aVJuwan Howard POR 02/23/2010 POR @ NJN W 25 9 4 7 57.1 0 0 - 1 1 100.0 2 3 5 2 0 0 2 3 11
+p241
+aVLaMarcus Aldridge POR 02/23/2010 POR @ NJN W 46 27 13 20 65.0 0 0 - 1 1 100.0 2 5 7 4 0 0 0 4 4
+p242
+aVJerryd Bayless POR 02/23/2010 POR @ NJN W 7 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 3 3
+p243
+aVJeff Ayres POR 02/23/2010 POR @ NJN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 4 6
+p244
+aVRudy Fernandez POR 02/23/2010 POR @ NJN W 20 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 1 0 0 0 3
+p245
+aVMartell Webster POR 02/23/2010 POR @ NJN W 19 6 2 6 33.3 1 4 25.0 1 2 50.0 0 1 1 2 0 0 1 1 5
+p246
+aVDante Cunningham POR 02/23/2010 POR @ NJN W 13 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -2
+p247
+aVAndre Miller POR 02/23/2010 POR @ NJN W 38 20 7 10 70.0 1 1 100.0 5 5 100.0 2 3 5 7 1 0 0 2 9
+p248
+aVMarcus Camby POR 02/21/2010 POR vs. UTA L 36 2 1 7 14.3 0 0 - 0 0 - 8 10 18 2 2 4 1 3 -13
+p249
+aVNicolas Batum POR 02/21/2010 POR vs. UTA L 32 14 5 10 50.0 2 5 40.0 2 2 100.0 1 8 9 0 0 1 2 4 0
+p250
+aVBrandon Roy POR 02/21/2010 POR vs. UTA L 34 23 7 15 46.7 2 5 40.0 7 11 63.6 1 2 3 4 0 1 5 2 -21
+p251
+aVMartell Webster POR 02/21/2010 POR vs. UTA L 14 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 6
+p252
+aVDante Cunningham POR 02/21/2010 POR vs. UTA L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 0 1 0
+p253
+aVLaMarcus Aldridge POR 02/21/2010 POR vs. UTA L 33 15 6 16 37.5 0 0 - 3 5 60.0 6 4 10 1 1 1 1 6 6
+p254
+aVJuwan Howard POR 02/21/2010 POR vs. UTA L 29 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 1 1 0 4 -1
+p255
+aVAndre Miller POR 02/21/2010 POR vs. UTA L 40 17 5 18 27.8 0 3 0.0 7 9 77.8 2 2 4 5 3 0 2 1 3
+p256
+aVRudy Fernandez POR 02/21/2010 POR vs. UTA L 29 10 4 11 36.4 2 5 40.0 0 0 - 2 1 3 3 1 1 0 3 2
+p257
+aVJerryd Bayless POR 02/21/2010 POR vs. UTA L 10 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 2 -2
+p258
+aVDante Cunningham POR 02/19/2010 POR vs. BOS L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p259
+aVJerryd Bayless POR 02/19/2010 POR vs. BOS L 22 14 3 6 50.0 0 0 - 8 9 88.9 1 3 4 1 1 0 2 4 -5
+p260
+aVMarcus Camby POR 02/19/2010 POR vs. BOS L 29 2 1 5 20.0 0 0 - 0 0 - 2 5 7 0 1 3 5 2 -6
+p261
+aVRudy Fernandez POR 02/19/2010 POR vs. BOS L 24 5 1 7 14.3 0 4 0.0 3 3 100.0 1 1 2 0 2 1 4 4 -5
+p262
+aVJuwan Howard POR 02/19/2010 POR vs. BOS L 16 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 0 1 0 1 2 -14
+p263
+aVLaMarcus Aldridge POR 02/19/2010 POR vs. BOS L 42 15 7 16 43.8 0 0 - 1 3 33.3 3 6 9 1 1 1 1 4 -13
+p264
+aVNicolas Batum POR 02/19/2010 POR vs. BOS L 13 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 0 0 1 0 2 -11
+p265
+aVJeff Ayres POR 02/19/2010 POR vs. BOS L 3 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 1 0
+p266
+aVPatty Mills POR 02/19/2010 POR vs. BOS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p267
+aVBrandon Roy POR 02/19/2010 POR vs. BOS L 34 9 3 8 37.5 1 2 50.0 2 5 40.0 1 3 4 1 0 1 2 1 -17
+p268
+aVMartell Webster POR 02/19/2010 POR vs. BOS L 23 4 1 5 20.0 1 4 25.0 1 2 50.0 0 1 1 2 0 1 0 0 -7
+p269
+aVAndre Miller POR 02/19/2010 POR vs. BOS L 25 16 4 9 44.4 0 1 0.0 8 10 80.0 1 2 3 2 2 0 3 1 -15
+p270
+aVMartell Webster POR 02/16/2010 POR vs. LAC W 34 28 9 13 69.2 7 11 63.6 3 3 100.0 0 1 1 3 2 1 1 0 25
+p271
+aVAndre Miller POR 02/16/2010 POR vs. LAC W 37 10 3 8 37.5 0 0 - 4 6 66.7 3 3 6 12 2 0 1 2 16
+p272
+aVJerryd Bayless POR 02/16/2010 POR vs. LAC W 11 6 0 4 0.0 0 1 0.0 6 6 100.0 0 0 0 3 1 0 2 2 6
+p273
+aVLaMarcus Aldridge POR 02/16/2010 POR vs. LAC W 40 22 9 16 56.3 0 0 - 4 6 66.7 1 8 9 2 3 1 1 5 23
+p274
+aVJeff Ayres POR 02/16/2010 POR vs. LAC W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -1
+p275
+aVNicolas Batum POR 02/16/2010 POR vs. LAC W 16 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 -6
+p276
+aVDante Cunningham POR 02/16/2010 POR vs. LAC W 26 10 4 9 44.4 0 0 - 2 4 50.0 0 5 5 0 1 1 1 1 7
+p277
+aVBrandon Roy POR 02/16/2010 POR vs. LAC W 15 4 2 7 28.6 0 0 - 0 1 0.0 0 0 0 1 2 0 1 1 3
+p278
+aVJuwan Howard POR 02/16/2010 POR vs. LAC W 21 6 2 4 50.0 0 0 - 2 2 100.0 2 4 6 0 2 0 1 5 13
+p279
+aVRudy Fernandez POR 02/16/2010 POR vs. LAC W 31 15 5 10 50.0 3 6 50.0 2 2 100.0 1 1 2 1 2 0 0 0 26
+p280
+aVPatty Mills POR 02/16/2010 POR vs. LAC W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -2
+p281
+aVJuwan Howard POR 02/10/2010 POR @ PHX W 23 10 5 10 50.0 0 0 - 0 0 - 1 4 5 0 1 0 0 0 5
+p282
+aVNicolas Batum POR 02/10/2010 POR @ PHX W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 2 -20
+p283
+aVDante Cunningham POR 02/10/2010 POR @ PHX W 21 13 6 7 85.7 0 0 - 1 2 50.0 1 3 4 1 1 1 0 2 7
+p284
+aVJerryd Bayless POR 02/10/2010 POR @ PHX W 13 5 0 4 0.0 0 0 - 5 6 83.3 1 0 1 1 0 0 0 0 -17
+p285
+aVJeff Ayres POR 02/10/2010 POR @ PHX W 10 5 2 2 100.0 0 0 - 1 1 100.0 0 2 2 0 1 0 3 3 2
+p286
+aVRudy Fernandez POR 02/10/2010 POR @ PHX W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 4 -10
+p287
+aVLaMarcus Aldridge POR 02/10/2010 POR @ PHX W 40 22 11 17 64.7 0 0 - 0 0 - 1 5 6 0 1 2 2 4 15
+p288
+aVMartell Webster POR 02/10/2010 POR @ PHX W 32 10 5 7 71.4 0 1 0.0 0 0 - 0 4 4 1 3 1 1 1 21
+p289
+aVSteve Blake POR 02/10/2010 POR @ PHX W 38 20 7 12 58.3 2 5 40.0 4 4 100.0 0 2 2 12 2 1 1 0 23
+p290
+aVAndre Miller POR 02/10/2010 POR @ PHX W 41 20 8 15 53.3 0 1 0.0 4 6 66.7 2 5 7 5 1 3 2 3 9
+p291
+aVNicolas Batum POR 02/09/2010 POR vs. OKC L 36 12 4 10 40.0 1 4 25.0 3 3 100.0 0 4 4 1 1 1 2 5 -7
+p292
+aVJerryd Bayless POR 02/09/2010 POR vs. OKC L 15 5 2 7 28.6 0 1 0.0 1 2 50.0 0 2 2 0 0 0 3 2 -16
+p293
+aVMartell Webster POR 02/09/2010 POR vs. OKC L 17 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 0 0 0 3 3 -18
+p294
+aVAndre Miller POR 02/09/2010 POR vs. OKC L 32 22 9 18 50.0 1 1 100.0 3 3 100.0 1 5 6 6 0 1 4 2 -10
+p295
+aVJeff Ayres POR 02/09/2010 POR vs. OKC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p296
+aVJuwan Howard POR 02/09/2010 POR vs. OKC L 26 6 3 5 60.0 0 0 - 0 0 - 2 4 6 2 0 0 2 2 -20
+p297
+aVDante Cunningham POR 02/09/2010 POR vs. OKC L 21 14 7 12 58.3 0 0 - 0 0 - 3 3 6 0 1 0 0 2 6
+p298
+aVRudy Fernandez POR 02/09/2010 POR vs. OKC L 23 0 0 6 0.0 0 6 0.0 0 0 - 0 3 3 2 0 0 2 0 6
+p299
+aVLaMarcus Aldridge POR 02/09/2010 POR vs. OKC L 43 15 5 10 50.0 0 0 - 5 6 83.3 3 12 15 4 4 1 4 1 -7
+p300
+aVSteve Blake POR 02/09/2010 POR vs. OKC L 24 0 0 5 0.0 0 4 0.0 0 0 - 3 1 4 3 0 0 1 2 6
+p301
+aVJeff Ayres POR 02/06/2010 POR vs. LAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 5
+p302
+aVRudy Fernandez POR 02/06/2010 POR vs. LAL L 24 7 2 6 33.3 2 4 50.0 1 1 100.0 0 1 1 1 0 0 1 1 -5
+p303
+aVJuwan Howard POR 02/06/2010 POR vs. LAL L 28 10 5 7 71.4 0 0 - 0 0 - 1 6 7 1 0 0 1 3 -6
+p304
+aVNicolas Batum POR 02/06/2010 POR vs. LAL L 24 8 3 9 33.3 2 5 40.0 0 2 0.0 0 2 2 0 1 1 1 1 -14
+p305
+aVMartell Webster POR 02/06/2010 POR vs. LAL L 28 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 2 1 0 2 3 -11
+p306
+aVDante Cunningham POR 02/06/2010 POR vs. LAL L 21 8 3 5 60.0 0 0 - 2 2 100.0 0 5 5 1 1 1 0 2 -6
+p307
+aVAndre Miller POR 02/06/2010 POR vs. LAL L 30 14 5 8 62.5 0 0 - 4 4 100.0 0 4 4 6 1 0 2 1 -18
+p308
+aVPatty Mills POR 02/06/2010 POR vs. LAL L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p309
+aVLaMarcus Aldridge POR 02/06/2010 POR vs. LAL L 39 16 7 16 43.8 0 0 - 2 2 100.0 1 4 5 2 0 0 1 2 -22
+p310
+aVJerryd Bayless POR 02/06/2010 POR vs. LAL L 21 13 4 8 50.0 0 0 - 5 6 83.3 0 2 2 0 0 0 1 2 -14
+p311
+aVSteve Blake POR 02/06/2010 POR vs. LAL L 18 3 1 5 20.0 1 5 20.0 0 0 - 0 1 1 7 1 0 0 2 4
+p312
+aVRudy Fernandez POR 02/04/2010 POR vs. SAS W 28 10 4 10 40.0 0 6 0.0 2 2 100.0 0 2 2 5 1 2 2 0 1
+p313
+aVSteve Blake POR 02/04/2010 POR vs. SAS W 15 0 0 0 - 0 0 - 0 0 - 0 2 2 6 0 0 2 3 -5
+p314
+aVDante Cunningham POR 02/04/2010 POR vs. SAS W 19 9 4 6 66.7 0 0 - 1 1 100.0 1 3 4 0 0 0 1 3 -6
+p315
+aVJerryd Bayless POR 02/04/2010 POR vs. SAS W 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -6
+p316
+aVAndre Miller POR 02/04/2010 POR vs. SAS W 35 11 5 14 35.7 0 0 - 1 4 25.0 1 3 4 10 0 0 0 2 8
+p317
+aVJuwan Howard POR 02/04/2010 POR vs. SAS W 28 10 5 5 100.0 0 0 - 0 0 - 1 7 8 0 1 0 1 4 -4
+p318
+aVLaMarcus Aldridge POR 02/04/2010 POR vs. SAS W 41 28 12 22 54.5 0 0 - 4 7 57.1 4 9 13 3 1 0 2 2 12
+p319
+aVMartell Webster POR 02/04/2010 POR vs. SAS W 31 21 6 9 66.7 5 5 100.0 4 4 100.0 0 5 5 3 0 0 1 3 2
+p320
+aVJeff Ayres POR 02/04/2010 POR vs. SAS W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p321
+aVNicolas Batum POR 02/04/2010 POR vs. SAS W 23 7 3 6 50.0 1 2 50.0 0 0 - 2 2 4 2 0 0 2 1 9
+p322
+aVMartell Webster POR 02/03/2010 POR @ UTA L 36 20 8 17 47.1 3 9 33.3 1 2 50.0 1 2 3 1 2 0 2 3 -14
+p323
+aVAndre Miller POR 02/03/2010 POR @ UTA L 30 9 3 13 23.1 0 0 - 3 3 100.0 0 1 1 4 1 0 1 2 -17
+p324
+aVPatty Mills POR 02/03/2010 POR @ UTA L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p325
+aVSteve Blake POR 02/03/2010 POR @ UTA L 21 8 3 7 42.9 2 3 66.7 0 0 - 1 2 3 2 1 0 1 2 1
+p326
+aVJuwan Howard POR 02/03/2010 POR @ UTA L 33 6 3 7 42.9 0 0 - 0 0 - 5 5 10 0 0 0 2 2 -15
+p327
+aVNicolas Batum POR 02/03/2010 POR @ UTA L 14 8 3 3 100.0 2 2 100.0 0 0 - 1 1 2 0 0 0 0 2 2
+p328
+aVJeff Ayres POR 02/03/2010 POR @ UTA L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p329
+aVJerryd Bayless POR 02/03/2010 POR @ UTA L 22 14 5 12 41.7 0 2 0.0 4 4 100.0 0 1 1 3 0 0 0 4 -8
+p330
+aVRudy Fernandez POR 02/03/2010 POR @ UTA L 23 7 1 5 20.0 1 3 33.3 4 4 100.0 0 2 2 2 1 0 1 1 -2
+p331
+aVLaMarcus Aldridge POR 02/03/2010 POR @ UTA L 42 27 8 18 44.4 0 0 - 11 15 73.3 5 7 12 5 0 0 1 4 -8
+p332
+aVDante Cunningham POR 02/03/2010 POR @ UTA L 15 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 2 1 0 1 -3
+p333
+aVAndre Miller POR 02/01/2010 POR vs. CHA W 33 8 4 6 66.7 0 0 - 0 0 - 1 1 2 10 1 0 3 1 14
+p334
+aVJerryd Bayless POR 02/01/2010 POR vs. CHA W 21 15 6 10 60.0 1 2 50.0 2 2 100.0 0 2 2 1 2 0 4 2 3
+p335
+aVJeff Ayres POR 02/01/2010 POR vs. CHA W 5 4 0 0 - 0 0 - 4 4 100.0 1 0 1 0 0 0 0 2 -4
+p336
+aVPatty Mills POR 02/01/2010 POR vs. CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p337
+aVSteve Blake POR 02/01/2010 POR vs. CHA W 17 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 4 1 0 2 2 5
+p338
+aVDante Cunningham POR 02/01/2010 POR vs. CHA W 31 10 5 8 62.5 0 0 - 0 0 - 4 0 4 0 0 2 1 1 19
+p339
+aVMartell Webster POR 02/01/2010 POR vs. CHA W 23 10 3 8 37.5 2 6 33.3 2 2 100.0 1 4 5 0 1 0 2 2 -2
+p340
+aVLaMarcus Aldridge POR 02/01/2010 POR vs. CHA W 38 17 8 13 61.5 0 0 - 1 2 50.0 2 6 8 1 1 0 2 3 19
+p341
+aVNicolas Batum POR 02/01/2010 POR vs. CHA W 25 15 7 10 70.0 1 3 33.3 0 0 - 2 7 9 0 0 1 1 1 21
+p342
+aVJuwan Howard POR 02/01/2010 POR vs. CHA W 23 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 2 4
+p343
+aVRudy Fernandez POR 02/01/2010 POR vs. CHA W 24 11 4 9 44.4 2 6 33.3 1 1 100.0 2 2 4 5 3 0 2 4 16
+p344
+aVLaMarcus Aldridge POR 01/30/2010 POR @ DAL W 47 21 10 20 50.0 0 0 - 1 4 25.0 1 3 4 0 1 0 0 3 10
+p345
+aVSteve Blake POR 01/30/2010 POR @ DAL W 25 10 4 10 40.0 2 4 50.0 0 0 - 0 2 2 3 1 0 1 3 -5
+p346
+aVJuwan Howard POR 01/30/2010 POR @ DAL W 29 2 1 3 33.3 0 0 - 0 0 - 3 9 12 1 0 0 1 3 -7
+p347
+aVMartell Webster POR 01/30/2010 POR @ DAL W 24 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 0 1 0 1 3 6
+p348
+aVJeff Ayres POR 01/30/2010 POR @ DAL W 12 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 2 1 3 -1
+p349
+aVNicolas Batum POR 01/30/2010 POR @ DAL W 26 2 0 2 0.0 0 1 0.0 2 2 100.0 0 3 3 1 1 0 1 5 -10
+p350
+aVJerryd Bayless POR 01/30/2010 POR @ DAL W 29 17 7 11 63.6 0 2 0.0 3 4 75.0 0 1 1 2 1 0 1 1 20
+p351
+aVDante Cunningham POR 01/30/2010 POR @ DAL W 13 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 2 0 1 -6
+p352
+aVRudy Fernandez POR 01/30/2010 POR @ DAL W 17 3 0 3 0.0 0 2 0.0 3 3 100.0 0 2 2 0 0 0 1 2 -1
+p353
+aVAndre Miller POR 01/30/2010 POR @ DAL W 42 52 22 31 71.0 1 1 100.0 7 8 87.5 1 4 5 2 2 0 2 2 4
+p354
+aVJeff Ayres POR 01/29/2010 POR @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p355
+aVNicolas Batum POR 01/29/2010 POR @ HOU L 28 12 4 7 57.1 1 4 25.0 3 3 100.0 2 7 9 5 1 0 1 4 6
+p356
+aVRudy Fernandez POR 01/29/2010 POR @ HOU L 25 25 9 14 64.3 5 6 83.3 2 3 66.7 0 5 5 3 1 1 3 4 2
+p357
+aVLaMarcus Aldridge POR 01/29/2010 POR @ HOU L 41 20 7 17 41.2 0 0 - 6 8 75.0 1 6 7 2 1 4 1 3 -2
+p358
+aVAndre Miller POR 01/29/2010 POR @ HOU L 21 2 1 6 16.7 0 1 0.0 0 0 - 3 0 3 3 0 0 2 1 -10
+p359
+aVMartell Webster POR 01/29/2010 POR @ HOU L 21 2 1 7 14.3 0 5 0.0 0 0 - 1 3 4 0 0 0 0 3 -8
+p360
+aVDante Cunningham POR 01/29/2010 POR @ HOU L 16 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 5 5
+p361
+aVJuwan Howard POR 01/29/2010 POR @ HOU L 35 8 3 6 50.0 0 0 - 2 2 100.0 1 5 6 0 0 0 0 2 -15
+p362
+aVSteve Blake POR 01/29/2010 POR @ HOU L 26 14 6 10 60.0 2 4 50.0 0 0 - 0 1 1 9 1 0 3 2 2
+p363
+aVJerryd Bayless POR 01/29/2010 POR @ HOU L 23 11 3 8 37.5 0 1 0.0 5 5 100.0 0 2 2 3 0 0 2 3 -2
+p364
+aVRudy Fernandez POR 01/27/2010 POR vs. UTA L 25 9 2 8 25.0 1 5 20.0 4 4 100.0 1 3 4 1 1 0 1 1 -14
+p365
+aVMartell Webster POR 01/27/2010 POR vs. UTA L 30 14 4 14 28.6 2 9 22.2 4 4 100.0 2 0 2 1 2 0 0 2 -5
+p366
+aVAndre Miller POR 01/27/2010 POR vs. UTA L 24 7 2 11 18.2 0 2 0.0 3 3 100.0 0 0 0 4 3 0 3 3 -8
+p367
+aVJuwan Howard POR 01/27/2010 POR vs. UTA L 35 2 1 4 25.0 0 0 - 0 0 - 8 3 11 1 0 0 1 2 -14
+p368
+aVJerryd Bayless POR 01/27/2010 POR vs. UTA L 27 16 5 12 41.7 0 0 - 6 7 85.7 1 0 1 4 1 0 0 6 -5
+p369
+aVJeff Ayres POR 01/27/2010 POR vs. UTA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 1
+p370
+aVNicolas Batum POR 01/27/2010 POR vs. UTA L 27 16 7 9 77.8 2 2 100.0 0 0 - 2 2 4 1 1 1 1 3 -1
+p371
+aVDante Cunningham POR 01/27/2010 POR vs. UTA L 12 6 2 4 50.0 0 0 - 2 3 66.7 1 4 5 0 0 1 0 5 1
+p372
+aVLaMarcus Aldridge POR 01/27/2010 POR vs. UTA L 42 25 10 24 41.7 0 3 0.0 5 7 71.4 4 5 9 1 3 1 3 2 -10
+p373
+aVSteve Blake POR 01/27/2010 POR vs. UTA L 11 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 3 0 0 0 1 0
+p374
+aVLaMarcus Aldridge POR 01/25/2010 POR vs. NOH L 37 16 8 19 42.1 0 0 - 0 0 - 2 4 6 4 0 0 2 4 -10
+p375
+aVSteve Blake POR 01/25/2010 POR vs. NOH L 22 9 4 8 50.0 1 5 20.0 0 0 - 0 3 3 2 0 0 0 2 -13
+p376
+aVJuwan Howard POR 01/25/2010 POR vs. NOH L 33 16 8 15 53.3 0 0 - 0 0 - 3 4 7 1 2 0 1 4 13
+p377
+aVJerryd Bayless POR 01/25/2010 POR vs. NOH L 13 12 5 8 62.5 1 3 33.3 1 2 50.0 0 1 1 5 0 0 3 4 11
+p378
+aVAndre Miller POR 01/25/2010 POR vs. NOH L 37 6 1 8 12.5 0 0 - 4 6 66.7 3 2 5 10 2 0 4 3 -5
+p379
+aVRudy Fernandez POR 01/25/2010 POR vs. NOH L 28 12 4 7 57.1 2 3 66.7 2 3 66.7 2 5 7 3 2 0 1 0 11
+p380
+aVDante Cunningham POR 01/25/2010 POR vs. NOH L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 7
+p381
+aVMartell Webster POR 01/25/2010 POR vs. NOH L 34 14 4 9 44.4 4 6 66.7 2 2 100.0 0 3 3 2 0 2 0 3 -15
+p382
+aVNicolas Batum POR 01/25/2010 POR vs. NOH L 10 6 3 5 60.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 8
+p383
+aVJeff Ayres POR 01/25/2010 POR vs. NOH L 18 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 1 0 1 -12
+p384
+aVMartell Webster POR 01/23/2010 POR @ DET W 48 28 9 19 47.4 6 13 46.2 4 4 100.0 0 7 7 2 1 0 1 4 4
+p385
+aVRudy Fernandez POR 01/23/2010 POR @ DET W 21 19 4 8 50.0 1 3 33.3 10 10 100.0 0 2 2 2 0 0 1 2 -7
+p386
+aVDante Cunningham POR 01/23/2010 POR @ DET W 11 3 1 2 50.0 0 1 0.0 1 2 50.0 1 2 3 0 0 0 0 4 4
+p387
+aVSteve Blake POR 01/23/2010 POR @ DET W 40 11 5 12 41.7 1 4 25.0 0 0 - 0 1 1 10 3 0 0 2 5
+p388
+aVAndre Miller POR 01/23/2010 POR @ DET W 36 11 3 6 50.0 0 0 - 5 6 83.3 0 5 5 13 2 0 2 2 10
+p389
+aVLaMarcus Aldridge POR 01/23/2010 POR @ DET W 39 21 10 18 55.6 0 1 0.0 1 2 50.0 2 6 8 0 1 0 2 3 -1
+p390
+aVJeff Ayres POR 01/23/2010 POR @ DET W 17 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 1 4 12
+p391
+aVJuwan Howard POR 01/23/2010 POR @ DET W 29 2 1 5 20.0 0 0 - 0 2 0.0 1 4 5 0 0 0 2 3 -7
+p392
+aVAndre Miller POR 01/22/2010 POR @ BOS L 47 28 11 23 47.8 0 2 0.0 6 6 100.0 4 4 8 8 2 0 6 1 2
+p393
+aVLaMarcus Aldridge POR 01/22/2010 POR @ BOS L 47 19 7 18 38.9 0 3 0.0 5 8 62.5 2 8 10 3 0 0 1 3 3
+p394
+aVDante Cunningham POR 01/22/2010 POR @ BOS L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -8
+p395
+aVJeff Ayres POR 01/22/2010 POR @ BOS L 11 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -9
+p396
+aVMartell Webster POR 01/22/2010 POR @ BOS L 33 19 5 16 31.3 2 7 28.6 7 9 77.8 2 2 4 0 0 1 2 5 10
+p397
+aVRudy Fernandez POR 01/22/2010 POR @ BOS L 35 6 2 11 18.2 2 8 25.0 0 0 - 2 3 5 1 1 0 1 4 -1
+p398
+aVJerryd Bayless POR 01/22/2010 POR @ BOS L 21 12 4 7 57.1 0 0 - 4 4 100.0 0 2 2 4 0 0 2 0 -7
+p399
+aVJuwan Howard POR 01/22/2010 POR @ BOS L 41 6 3 6 50.0 0 0 - 0 0 - 4 8 12 2 1 0 1 2 6
+p400
+aVSteve Blake POR 01/22/2010 POR @ BOS L 21 5 2 7 28.6 1 5 20.0 0 0 - 1 0 1 0 1 0 1 1 -11
+p401
+aVLaMarcus Aldridge POR 01/20/2010 POR @ PHI W 41 23 8 13 61.5 0 0 - 7 8 87.5 2 7 9 4 0 1 1 3 2
+p402
+aVAndre Miller POR 01/20/2010 POR @ PHI W 39 24 8 17 47.1 1 4 25.0 7 7 100.0 1 1 2 3 0 0 4 1 3
+p403
+aVDante Cunningham POR 01/20/2010 POR @ PHI W 11 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 1 3
+p404
+aVJerryd Bayless POR 01/20/2010 POR @ PHI W 21 18 7 12 58.3 0 1 0.0 4 4 100.0 1 1 2 2 3 0 0 3 5
+p405
+aVRudy Fernandez POR 01/20/2010 POR @ PHI W 24 7 2 6 33.3 2 3 66.7 1 2 50.0 1 1 2 2 1 0 2 2 12
+p406
+aVMartell Webster POR 01/20/2010 POR @ PHI W 20 2 1 9 11.1 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -9
+p407
+aVJeff Ayres POR 01/20/2010 POR @ PHI W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 8
+p408
+aVBrandon Roy POR 01/20/2010 POR @ PHI W 18 10 4 6 66.7 1 1 100.0 1 2 50.0 0 4 4 2 1 0 0 1 4
+p409
+aVJuwan Howard POR 01/20/2010 POR @ PHI W 33 8 4 7 57.1 0 0 - 0 0 - 3 5 8 2 0 0 0 2 3
+p410
+aVSteve Blake POR 01/20/2010 POR @ PHI W 22 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 5 0 0 0 0 9
+p411
+aVJerryd Bayless POR 01/18/2010 POR @ WAS L 34 9 3 9 33.3 0 2 0.0 3 4 75.0 0 3 3 8 0 1 2 3 -9
+p412
+aVLaMarcus Aldridge POR 01/18/2010 POR @ WAS L 43 22 9 17 52.9 0 0 - 4 4 100.0 9 6 15 2 2 0 3 3 1
+p413
+aVRudy Fernandez POR 01/18/2010 POR @ WAS L 13 2 1 8 12.5 0 4 0.0 0 0 - 1 2 3 1 0 0 0 1 -7
+p414
+aVDante Cunningham POR 01/18/2010 POR @ WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p415
+aVAndre Miller POR 01/18/2010 POR @ WAS L 31 22 10 16 62.5 0 1 0.0 2 2 100.0 1 2 3 2 0 0 2 6 5
+p416
+aVSteve Blake POR 01/18/2010 POR @ WAS L 22 10 4 9 44.4 1 3 33.3 1 1 100.0 0 3 3 4 2 0 3 2 -5
+p417
+aVJuwan Howard POR 01/18/2010 POR @ WAS L 32 7 3 6 50.0 0 0 - 1 1 100.0 3 3 6 1 1 0 2 4 1
+p418
+aVMartell Webster POR 01/18/2010 POR @ WAS L 44 18 6 14 42.9 2 7 28.6 4 4 100.0 0 3 3 1 1 2 1 1 1
+p419
+aVJeff Ayres POR 01/18/2010 POR @ WAS L 16 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -4
+p420
+aVJeff Ayres POR 01/15/2010 POR vs. ORL W 15 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 2 0 0 4 8
+p421
+aVAndre Miller POR 01/15/2010 POR vs. ORL W 37 19 8 14 57.1 0 0 - 3 3 100.0 0 1 1 9 1 0 2 2 26
+p422
+aVRudy Fernandez POR 01/15/2010 POR vs. ORL W 18 10 3 7 42.9 2 5 40.0 2 2 100.0 0 2 2 1 0 0 0 2 -13
+p423
+aVLaMarcus Aldridge POR 01/15/2010 POR vs. ORL W 38 14 7 17 41.2 0 1 0.0 0 0 - 5 9 14 3 1 0 1 1 21
+p424
+aVJerryd Bayless POR 01/15/2010 POR vs. ORL W 20 1 0 6 0.0 0 0 - 1 2 50.0 0 1 1 3 0 0 1 2 2
+p425
+aVSteve Blake POR 01/15/2010 POR vs. ORL W 31 18 7 12 58.3 4 6 66.7 0 0 - 0 4 4 6 1 0 2 1 8
+p426
+aVJuwan Howard POR 01/15/2010 POR vs. ORL W 31 8 4 9 44.4 0 0 - 0 0 - 1 5 6 1 1 0 0 4 4
+p427
+aVMartell Webster POR 01/15/2010 POR vs. ORL W 38 24 8 14 57.1 5 9 55.6 3 3 100.0 1 8 9 0 0 0 0 1 22
+p428
+aVDante Cunningham POR 01/15/2010 POR vs. ORL W 12 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p429
+aVShavlik Randolph POR 01/13/2010 POR vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p430
+aVMartell Webster POR 01/13/2010 POR vs. MIL W 25 15 6 10 60.0 3 4 75.0 0 0 - 1 3 4 1 0 2 0 0 12
+p431
+aVDante Cunningham POR 01/13/2010 POR vs. MIL W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 5 0
+p432
+aVJerryd Bayless POR 01/13/2010 POR vs. MIL W 18 12 3 7 42.9 1 3 33.3 5 5 100.0 0 0 0 2 0 0 3 4 -2
+p433
+aVLaMarcus Aldridge POR 01/13/2010 POR vs. MIL W 38 21 10 15 66.7 0 0 - 1 1 100.0 1 6 7 6 1 2 3 3 13
+p434
+aVAndre Miller POR 01/13/2010 POR vs. MIL W 33 19 6 8 75.0 0 0 - 7 12 58.3 1 2 3 6 1 0 1 0 10
+p435
+aVJuwan Howard POR 01/13/2010 POR vs. MIL W 30 9 4 5 80.0 0 0 - 1 2 50.0 1 6 7 1 0 1 1 4 12
+p436
+aVJeff Ayres POR 01/13/2010 POR vs. MIL W 19 9 3 4 75.0 0 0 - 3 4 75.0 0 3 3 0 0 2 0 4 0
+p437
+aVSteve Blake POR 01/13/2010 POR vs. MIL W 28 11 4 7 57.1 3 5 60.0 0 0 - 0 5 5 4 0 0 0 2 6
+p438
+aVRudy Fernandez POR 01/13/2010 POR vs. MIL W 15 2 1 5 20.0 0 4 0.0 0 0 - 0 0 0 0 0 1 1 1 -6
+p439
+aVBrandon Roy POR 01/13/2010 POR vs. MIL W 27 22 7 10 70.0 1 3 33.3 7 7 100.0 0 1 1 4 3 0 1 0 19
+p440
+aVJuwan Howard POR 01/10/2010 POR vs. CLE L 38 6 3 7 42.9 0 1 0.0 0 0 - 1 3 4 1 0 0 1 5 -4
+p441
+aVLaMarcus Aldridge POR 01/10/2010 POR vs. CLE L 40 18 8 11 72.7 0 0 - 2 4 50.0 4 9 13 1 1 0 2 4 -6
+p442
+aVJeff Ayres POR 01/10/2010 POR vs. CLE L 11 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -11
+p443
+aVAndre Miller POR 01/10/2010 POR vs. CLE L 41 14 5 11 45.5 0 1 0.0 4 4 100.0 0 4 4 8 0 0 1 3 -7
+p444
+aVBrandon Roy POR 01/10/2010 POR vs. CLE L 45 34 14 23 60.9 3 7 42.9 3 8 37.5 0 4 4 3 1 0 2 3 -10
+p445
+aVDante Cunningham POR 01/10/2010 POR vs. CLE L 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p446
+aVSteve Blake POR 01/10/2010 POR vs. CLE L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p447
+aVJerryd Bayless POR 01/10/2010 POR vs. CLE L 15 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 1 -9
+p448
+aVMartell Webster POR 01/10/2010 POR vs. CLE L 37 12 4 11 36.4 2 9 22.2 2 2 100.0 1 5 6 2 0 1 1 3 1
+p449
+aVJeff Ayres POR 01/08/2010 POR vs. LAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p450
+aVLaMarcus Aldridge POR 01/08/2010 POR vs. LAL W 38 8 3 8 37.5 0 0 - 2 2 100.0 0 8 8 4 1 0 2 2 -4
+p451
+aVDante Cunningham POR 01/08/2010 POR vs. LAL W 17 7 3 6 50.0 0 1 0.0 1 2 50.0 1 4 5 0 0 1 0 3 14
+p452
+aVAndre Miller POR 01/08/2010 POR vs. LAL W 39 17 5 10 50.0 1 1 100.0 6 7 85.7 0 3 3 7 1 1 4 2 -6
+p453
+aVBrandon Roy POR 01/08/2010 POR vs. LAL W 38 32 9 11 81.8 1 2 50.0 13 14 92.9 0 5 5 6 1 0 0 3 9
+p454
+aVMartell Webster POR 01/08/2010 POR vs. LAL W 46 14 6 17 35.3 2 10 20.0 0 2 0.0 3 5 8 0 0 0 0 2 16
+p455
+aVJerryd Bayless POR 01/08/2010 POR vs. LAL W 21 21 5 9 55.6 1 1 100.0 10 12 83.3 0 3 3 3 0 1 1 1 8
+p456
+aVJuwan Howard POR 01/08/2010 POR vs. LAL W 35 8 4 8 50.0 0 0 - 0 0 - 5 5 10 2 0 0 1 1 2
+p457
+aVMartell Webster POR 01/05/2010 POR vs. MEM L 40 21 8 15 53.3 5 11 45.5 0 0 - 0 3 3 1 3 0 0 2 -1
+p458
+aVJeff Ayres POR 01/05/2010 POR vs. MEM L 24 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 4 13
+p459
+aVBrandon Roy POR 01/05/2010 POR vs. MEM L 44 27 9 18 50.0 1 4 25.0 8 10 80.0 1 2 3 9 3 0 2 4 -9
+p460
+aVJerryd Bayless POR 01/05/2010 POR vs. MEM L 29 13 5 10 50.0 0 2 0.0 3 4 75.0 0 4 4 5 1 0 1 2 7
+p461
+aVAndre Miller POR 01/05/2010 POR vs. MEM L 31 16 7 11 63.6 0 0 - 2 2 100.0 5 5 10 4 0 0 4 4 -11
+p462
+aVJuwan Howard POR 01/05/2010 POR vs. MEM L 31 13 6 12 50.0 0 0 - 1 2 50.0 0 5 5 0 0 1 2 6 -11
+p463
+aVLaMarcus Aldridge POR 01/05/2010 POR vs. MEM L 41 11 4 8 50.0 0 0 - 3 4 75.0 3 4 7 3 0 1 0 3 -8
+p464
+aVShavlik Randolph POR 01/04/2010 POR @ LAC L 3 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 6
+p465
+aVMartell Webster POR 01/04/2010 POR @ LAC L 40 25 9 15 60.0 5 9 55.6 2 3 66.7 1 5 6 0 1 0 1 0 -7
+p466
+aVJerryd Bayless POR 01/04/2010 POR @ LAC L 23 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 2 0 0 3 1 -13
+p467
+aVDante Cunningham POR 01/04/2010 POR @ LAC L 24 7 3 5 60.0 0 0 - 1 2 50.0 2 1 3 0 3 0 1 3 -10
+p468
+aVJeff Ayres POR 01/04/2010 POR @ LAC L 30 8 4 4 100.0 0 0 - 0 0 - 3 4 7 0 0 1 1 3 2
+p469
+aVJuwan Howard POR 01/04/2010 POR @ LAC L 36 16 8 11 72.7 0 0 - 0 0 - 0 4 4 0 1 0 2 5 -13
+p470
+aVAndre Miller POR 01/04/2010 POR @ LAC L 40 22 9 20 45.0 0 2 0.0 4 7 57.1 2 1 3 16 3 0 2 1 -10
+p471
+aVBrandon Roy POR 01/04/2010 POR @ LAC L 40 6 3 12 25.0 0 3 0.0 0 0 - 0 4 4 6 0 1 3 2 -10
+p472
+aVPatty Mills POR 01/04/2010 POR @ LAC L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 5
+p473
+aVJuwan Howard POR 01/02/2010 POR vs. GSW W 34 12 6 11 54.5 0 0 - 0 0 - 1 5 6 0 2 0 3 3 9
+p474
+aVAndre Miller POR 01/02/2010 POR vs. GSW W 44 23 7 18 38.9 0 1 0.0 9 10 90.0 4 1 5 6 1 0 6 4 14
+p475
+aVDante Cunningham POR 01/02/2010 POR vs. GSW W 23 6 2 4 50.0 0 0 - 2 2 100.0 2 8 10 1 0 1 0 5 14
+p476
+aVBrandon Roy POR 01/02/2010 POR vs. GSW W 41 37 12 16 75.0 1 2 50.0 12 14 85.7 3 3 6 5 2 0 1 2 14
+p477
+aVMartell Webster POR 01/02/2010 POR vs. GSW W 46 21 7 13 53.8 4 8 50.0 3 6 50.0 2 9 11 3 0 2 1 4 18
+p478
+aVJerryd Bayless POR 01/02/2010 POR vs. GSW W 40 6 2 11 18.2 0 4 0.0 2 2 100.0 1 2 3 2 1 0 3 2 20
+p479
+aVJeff Ayres POR 01/02/2010 POR vs. GSW W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -8
+p480
+aVShavlik Randolph POR 01/02/2010 POR vs. GSW W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p481
+aVLaMarcus Aldridge POR 12/30/2009 POR vs. LAC W 6 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 2
+p482
+aVJerryd Bayless POR 12/30/2009 POR vs. LAC W 28 14 5 14 35.7 1 4 25.0 3 5 60.0 0 2 2 8 1 0 2 0 8
+p483
+aVDante Cunningham POR 12/30/2009 POR vs. LAC W 27 8 4 8 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 3 5
+p484
+aVJuwan Howard POR 12/30/2009 POR vs. LAC W 38 10 5 7 71.4 0 0 - 0 0 - 4 5 9 2 2 0 1 4 -1
+p485
+aVBrandon Roy POR 12/30/2009 POR vs. LAC W 37 25 12 20 60.0 0 2 0.0 1 1 100.0 4 3 7 6 1 0 4 2 -4
+p486
+aVSteve Blake POR 12/30/2009 POR vs. LAC W 28 10 4 8 50.0 2 5 40.0 0 1 0.0 0 0 0 2 1 0 1 3 3
+p487
+aVAndre Miller POR 12/30/2009 POR vs. LAC W 20 6 2 7 28.6 0 0 - 2 4 50.0 0 0 0 3 0 0 1 4 -4
+p488
+aVJeff Ayres POR 12/30/2009 POR vs. LAC W 25 8 4 8 50.0 0 0 - 0 0 - 3 11 14 0 0 2 1 2 0
+p489
+aVMartell Webster POR 12/30/2009 POR vs. LAC W 31 15 4 9 44.4 1 4 25.0 6 8 75.0 0 4 4 0 0 1 1 4 11
+p490
+aVMartell Webster POR 12/28/2009 POR vs. PHI L 36 6 2 7 28.6 0 2 0.0 2 2 100.0 2 3 5 1 1 1 0 1 -3
+p491
+aVJeff Ayres POR 12/28/2009 POR vs. PHI L 19 11 4 5 80.0 0 0 - 3 4 75.0 2 3 5 0 0 1 0 2 -10
+p492
+aVSteve Blake POR 12/28/2009 POR vs. PHI L 24 10 4 10 40.0 2 5 40.0 0 0 - 1 1 2 3 1 0 1 3 -12
+p493
+aVJerryd Bayless POR 12/28/2009 POR vs. PHI L 16 2 0 7 0.0 0 0 - 2 2 100.0 1 0 1 4 0 0 1 2 -1
+p494
+aVAndre Miller POR 12/28/2009 POR vs. PHI L 31 11 4 7 57.1 0 0 - 3 3 100.0 2 2 4 7 1 0 2 0 -8
+p495
+aVDante Cunningham POR 12/28/2009 POR vs. PHI L 7 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 1 1 1 0 1 4
+p496
+aVLaMarcus Aldridge POR 12/28/2009 POR vs. PHI L 44 17 7 16 43.8 0 0 - 3 6 50.0 4 8 12 1 0 1 1 3 -18
+p497
+aVJuwan Howard POR 12/28/2009 POR vs. PHI L 20 6 3 5 60.0 0 0 - 0 0 - 2 0 2 1 1 0 1 4 1
+p498
+aVBrandon Roy POR 12/28/2009 POR vs. PHI L 42 24 9 20 45.0 3 8 37.5 3 7 42.9 0 3 3 1 2 0 1 0 -8
+p499
+aVJerryd Bayless POR 12/25/2009 POR vs. DEN W 30 8 2 10 20.0 0 3 0.0 4 7 57.1 0 1 1 7 0 0 1 3 11
+p500
+aVLaMarcus Aldridge POR 12/25/2009 POR vs. DEN W 45 10 5 10 50.0 0 0 - 0 0 - 1 12 13 3 1 1 2 2 10
+p501
+aVAndre Miller POR 12/25/2009 POR vs. DEN W 26 14 5 9 55.6 0 0 - 4 5 80.0 0 1 1 8 1 0 1 2 -3
+p502
+aVSteve Blake POR 12/25/2009 POR vs. DEN W 21 17 6 8 75.0 5 7 71.4 0 0 - 0 2 2 1 0 0 1 3 12
+p503
+aVBrandon Roy POR 12/25/2009 POR vs. DEN W 43 41 16 26 61.5 3 6 50.0 6 6 100.0 2 4 6 4 1 0 2 3 14
+p504
+aVMartell Webster POR 12/25/2009 POR vs. DEN W 25 11 4 7 57.1 3 5 60.0 0 0 - 0 2 2 0 0 1 3 2 1
+p505
+aVJeff Ayres POR 12/25/2009 POR vs. DEN W 20 2 0 1 0.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 2 2
+p506
+aVJuwan Howard POR 12/25/2009 POR vs. DEN W 31 4 2 5 40.0 0 0 - 0 0 - 4 4 8 3 0 1 1 5 8
+p507
+aVSteve Blake POR 12/23/2009 POR @ SAS W 33 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 5 0 0 1 1 -6
+p508
+aVLaMarcus Aldridge POR 12/23/2009 POR @ SAS W 33 22 9 13 69.2 0 0 - 4 6 66.7 4 4 8 1 3 0 2 3 6
+p509
+aVMartell Webster POR 12/23/2009 POR @ SAS W 39 11 3 8 37.5 2 5 40.0 3 3 100.0 0 3 3 1 0 0 1 4 4
+p510
+aVJeff Ayres POR 12/23/2009 POR @ SAS W 17 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 1 1 0 2 -18
+p511
+aVAndre Miller POR 12/23/2009 POR @ SAS W 31 9 2 13 15.4 0 1 0.0 5 5 100.0 1 0 1 4 0 0 1 2 5
+p512
+aVDante Cunningham POR 12/23/2009 POR @ SAS W 9 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 -2
+p513
+aVJuwan Howard POR 12/23/2009 POR @ SAS W 37 12 6 9 66.7 0 0 - 0 0 - 5 7 12 1 0 0 3 4 22
+p514
+aVJerryd Bayless POR 12/23/2009 POR @ SAS W 42 31 10 24 41.7 2 2 100.0 9 10 90.0 0 2 2 7 1 1 0 1 9
+p515
+aVAnthony Tolliver POR 12/22/2009 POR @ DAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p516
+aVBrandon Roy POR 12/22/2009 POR @ DAL W 41 23 7 19 36.8 1 4 25.0 8 8 100.0 1 2 3 6 4 1 2 1 2
+p517
+aVJeff Ayres POR 12/22/2009 POR @ DAL W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -5
+p518
+aVAndre Miller POR 12/22/2009 POR @ DAL W 22 12 4 11 36.4 0 1 0.0 4 4 100.0 1 3 4 3 1 0 0 1 5
+p519
+aVSteve Blake POR 12/22/2009 POR @ DAL W 28 6 2 7 28.6 2 2 100.0 0 0 - 0 2 2 4 1 0 1 4 3
+p520
+aVJoel Przybilla POR 12/22/2009 POR @ DAL W 9 1 0 0 - 0 0 - 1 2 50.0 1 4 5 0 0 1 0 1 -3
+p521
+aVLaMarcus Aldridge POR 12/22/2009 POR @ DAL W 45 19 9 16 56.3 0 0 - 1 3 33.3 5 7 12 2 1 1 1 2 8
+p522
+aVJerryd Bayless POR 12/22/2009 POR @ DAL W 26 9 3 8 37.5 1 2 50.0 2 2 100.0 0 4 4 2 1 0 3 5 1
+p523
+aVMartell Webster POR 12/22/2009 POR @ DAL W 28 3 1 6 16.7 1 4 25.0 0 0 - 0 4 4 0 0 0 1 2 5
+p524
+aVJuwan Howard POR 12/22/2009 POR @ DAL W 34 10 5 10 50.0 0 0 - 0 0 - 1 9 10 4 1 0 2 5 8
+p525
+aVJerryd Bayless POR 12/20/2009 POR @ MIA W 16 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 2 0 0 1 1 -8
+p526
+aVSteve Blake POR 12/20/2009 POR @ MIA W 23 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 2 1 0 1 3 -13
+p527
+aVAndre Miller POR 12/20/2009 POR @ MIA W 31 17 6 10 60.0 0 1 0.0 5 6 83.3 0 1 1 4 1 0 0 2 15
+p528
+aVAnthony Tolliver POR 12/20/2009 POR @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p529
+aVJoel Przybilla POR 12/20/2009 POR @ MIA W 34 8 3 5 60.0 0 0 - 2 4 50.0 3 9 12 2 0 2 3 3 15
+p530
+aVLaMarcus Aldridge POR 12/20/2009 POR @ MIA W 42 23 10 23 43.5 0 0 - 3 3 100.0 2 6 8 1 1 0 1 2 11
+p531
+aVJuwan Howard POR 12/20/2009 POR @ MIA W 18 2 1 4 25.0 0 0 - 0 0 - 0 5 5 0 0 1 1 2 -10
+p532
+aVMartell Webster POR 12/20/2009 POR @ MIA W 34 15 4 7 57.1 3 6 50.0 4 4 100.0 0 5 5 1 0 0 0 0 24
+p533
+aVBrandon Roy POR 12/20/2009 POR @ MIA W 41 28 11 14 78.6 5 5 100.0 1 1 100.0 2 2 4 8 0 0 3 1 5
+p534
+aVSteve Blake POR 12/19/2009 POR @ ORL L 27 11 3 5 60.0 2 3 66.7 3 3 100.0 0 2 2 1 1 0 1 4 -13
+p535
+aVLaMarcus Aldridge POR 12/19/2009 POR @ ORL L 31 3 1 6 16.7 0 0 - 1 2 50.0 1 0 1 1 3 0 1 4 -10
+p536
+aVJuwan Howard POR 12/19/2009 POR @ ORL L 10 2 0 0 - 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 -1
+p537
+aVJerryd Bayless POR 12/19/2009 POR @ ORL L 30 10 3 13 23.1 0 2 0.0 4 4 100.0 1 3 4 1 0 0 2 2 -11
+p538
+aVJoel Przybilla POR 12/19/2009 POR @ ORL L 29 4 2 2 100.0 0 0 - 0 0 - 2 8 10 0 1 1 0 4 -2
+p539
+aVDante Cunningham POR 12/19/2009 POR @ ORL L 7 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p540
+aVMartell Webster POR 12/19/2009 POR @ ORL L 32 2 1 11 9.1 0 6 0.0 0 2 0.0 1 6 7 1 2 1 1 2 -7
+p541
+aVAndre Miller POR 12/19/2009 POR @ ORL L 33 16 5 10 50.0 0 1 0.0 6 8 75.0 2 2 4 1 3 0 4 2 0
+p542
+aVBrandon Roy POR 12/19/2009 POR @ ORL L 42 33 13 27 48.1 1 6 16.7 6 8 75.0 1 3 4 1 1 0 2 1 1
+p543
+aVLaMarcus Aldridge POR 12/17/2009 POR vs. PHX W 39 15 5 15 33.3 0 0 - 5 6 83.3 2 5 7 2 1 0 3 4 -2
+p544
+aVSteve Blake POR 12/17/2009 POR vs. PHX W 38 12 4 7 57.1 4 7 57.1 0 0 - 1 2 3 2 0 1 1 3 1
+p545
+aVJerryd Bayless POR 12/17/2009 POR vs. PHX W 29 29 9 15 60.0 2 3 66.7 9 12 75.0 0 3 3 4 0 0 2 2 13
+p546
+aVJuwan Howard POR 12/17/2009 POR vs. PHX W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -4
+p547
+aVDante Cunningham POR 12/17/2009 POR vs. PHX W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 4
+p548
+aVMartell Webster POR 12/17/2009 POR vs. PHX W 33 15 6 10 60.0 2 5 40.0 1 1 100.0 3 4 7 1 2 1 1 1 18
+p549
+aVJoel Przybilla POR 12/17/2009 POR vs. PHX W 25 3 1 3 33.3 0 0 - 1 2 50.0 3 7 10 0 0 2 0 3 -5
+p550
+aVBrandon Roy POR 12/17/2009 POR vs. PHX W 42 27 9 22 40.9 2 5 40.0 7 11 63.6 3 5 8 4 3 0 1 3 -3
+p551
+aVAndre Miller POR 12/17/2009 POR vs. PHX W 18 4 1 3 33.3 0 0 - 2 3 66.7 0 0 0 5 0 0 2 1 -7
+p552
+aVMartell Webster POR 12/15/2009 POR vs. SAC W 23 9 3 7 42.9 2 4 50.0 1 2 50.0 0 4 4 2 0 0 1 0 6
+p553
+aVJerryd Bayless POR 12/15/2009 POR vs. SAC W 24 14 3 6 50.0 0 1 0.0 8 10 80.0 0 2 2 2 0 1 1 3 3
+p554
+aVLaMarcus Aldridge POR 12/15/2009 POR vs. SAC W 41 25 10 21 47.6 0 0 - 5 5 100.0 5 4 9 5 0 0 1 3 2
+p555
+aVJuwan Howard POR 12/15/2009 POR vs. SAC W 18 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -16
+p556
+aVAndre Miller POR 12/15/2009 POR vs. SAC W 29 4 2 10 20.0 0 2 0.0 0 0 - 1 2 3 3 0 0 0 2 -6
+p557
+aVBrandon Roy POR 12/15/2009 POR vs. SAC W 44 25 10 20 50.0 1 3 33.3 4 7 57.1 2 3 5 10 0 0 5 1 12
+p558
+aVDante Cunningham POR 12/15/2009 POR vs. SAC W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p559
+aVJoel Przybilla POR 12/15/2009 POR vs. SAC W 31 5 2 3 66.7 0 0 - 1 2 50.0 4 6 10 0 1 2 3 4 27
+p560
+aVSteve Blake POR 12/15/2009 POR vs. SAC W 24 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 2 1 0 0 0 6
+p561
+aVJoel Przybilla POR 12/12/2009 POR @ MIL L 44 8 2 3 66.7 0 0 - 4 5 80.0 2 8 10 0 2 4 2 4 -20
+p562
+aVBrandon Roy POR 12/12/2009 POR @ MIL L 49 23 8 24 33.3 1 3 33.3 6 8 75.0 0 8 8 6 0 0 4 4 -9
+p563
+aVJuwan Howard POR 12/12/2009 POR @ MIL L 16 0 0 1 0.0 0 0 - 0 0 - 3 3 6 2 0 0 0 2 12
+p564
+aVSteve Blake POR 12/12/2009 POR @ MIL L 42 7 3 10 30.0 1 7 14.3 0 0 - 1 4 5 1 1 0 3 0 -8
+p565
+aVMartell Webster POR 12/12/2009 POR @ MIL L 33 16 6 14 42.9 3 6 50.0 1 1 100.0 2 2 4 2 0 0 3 0 1
+p566
+aVDante Cunningham POR 12/12/2009 POR @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p567
+aVJerryd Bayless POR 12/12/2009 POR @ MIL L 18 9 3 6 50.0 1 1 100.0 2 2 100.0 1 2 3 0 1 0 1 3 5
+p568
+aVAndre Miller POR 12/12/2009 POR @ MIL L 34 7 2 12 16.7 0 1 0.0 3 6 50.0 1 3 4 7 2 0 3 1 -6
+p569
+aVLaMarcus Aldridge POR 12/12/2009 POR @ MIL L 52 31 13 22 59.1 0 0 - 5 7 71.4 5 6 11 0 0 0 1 4 -8
+p570
+aVDante Cunningham POR 12/11/2009 POR @ CLE L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p571
+aVAndre Miller POR 12/11/2009 POR @ CLE L 32 20 8 13 61.5 2 3 66.7 2 2 100.0 1 5 6 3 1 0 2 3 -2
+p572
+aVSteve Blake POR 12/11/2009 POR @ CLE L 36 0 0 4 0.0 0 3 0.0 0 0 - 1 2 3 8 0 0 4 2 -5
+p573
+aVJuwan Howard POR 12/11/2009 POR @ CLE L 16 15 6 7 85.7 0 0 - 3 4 75.0 0 1 1 0 0 0 0 2 -4
+p574
+aVJerryd Bayless POR 12/11/2009 POR @ CLE L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 6
+p575
+aVJoel Przybilla POR 12/11/2009 POR @ CLE L 33 2 1 3 33.3 0 0 - 0 0 - 2 9 11 2 1 3 1 4 -7
+p576
+aVBrandon Roy POR 12/11/2009 POR @ CLE L 40 23 9 25 36.0 2 7 28.6 3 3 100.0 2 1 3 6 3 0 3 2 -8
+p577
+aVLaMarcus Aldridge POR 12/11/2009 POR @ CLE L 36 22 8 13 61.5 1 1 100.0 5 5 100.0 0 2 2 1 1 0 2 3 -11
+p578
+aVMartell Webster POR 12/11/2009 POR @ CLE L 35 13 4 13 30.8 3 9 33.3 2 2 100.0 1 3 4 0 0 0 0 4 -3
+p579
+aVDante Cunningham POR 12/09/2009 POR @ IND W 8 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -5
+p580
+aVMartell Webster POR 12/09/2009 POR @ IND W 29 5 2 8 25.0 1 4 25.0 0 0 - 1 4 5 1 0 1 1 2 0
+p581
+aVJoel Przybilla POR 12/09/2009 POR @ IND W 29 12 4 7 57.1 0 0 - 4 7 57.1 3 5 8 0 0 1 1 3 16
+p582
+aVJerryd Bayless POR 12/09/2009 POR @ IND W 14 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 2 0 0 1 1 -1
+p583
+aVAndre Miller POR 12/09/2009 POR @ IND W 25 15 5 12 41.7 2 5 40.0 3 4 75.0 0 1 1 2 4 1 2 3 8
+p584
+aVBrandon Roy POR 12/09/2009 POR @ IND W 36 29 11 21 52.4 1 3 33.3 6 10 60.0 1 6 7 5 0 0 1 2 16
+p585
+aVJuwan Howard POR 12/09/2009 POR @ IND W 19 6 3 3 100.0 0 0 - 0 0 - 0 3 3 1 0 1 2 5 -2
+p586
+aVLaMarcus Aldridge POR 12/09/2009 POR @ IND W 39 20 8 12 66.7 0 0 - 4 4 100.0 1 7 8 3 1 1 1 4 13
+p587
+aVSteve Blake POR 12/09/2009 POR @ IND W 39 6 2 7 28.6 2 4 50.0 0 0 - 1 2 3 6 1 0 1 1 10
+p588
+aVSteve Blake POR 12/07/2009 POR @ NYK L 38 9 4 8 50.0 0 1 0.0 1 2 50.0 0 5 5 4 2 0 2 3 -2
+p589
+aVAndre Miller POR 12/07/2009 POR @ NYK L 26 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 2 1 0 4 4 -4
+p590
+aVDante Cunningham POR 12/07/2009 POR @ NYK L 11 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -5
+p591
+aVLaMarcus Aldridge POR 12/07/2009 POR @ NYK L 45 19 7 15 46.7 0 0 - 5 6 83.3 3 10 13 2 1 2 1 5 -11
+p592
+aVMartell Webster POR 12/07/2009 POR @ NYK L 23 3 1 6 16.7 1 2 50.0 0 0 - 0 1 1 0 1 1 1 3 -11
+p593
+aVJerryd Bayless POR 12/07/2009 POR @ NYK L 17 14 4 5 80.0 0 0 - 6 7 85.7 1 0 1 2 1 0 1 2 -10
+p594
+aVBrandon Roy POR 12/07/2009 POR @ NYK L 40 27 9 19 47.4 0 4 0.0 9 10 90.0 2 4 6 3 2 0 5 3 -3
+p595
+aVJuwan Howard POR 12/07/2009 POR @ NYK L 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 2 12
+p596
+aVJoel Przybilla POR 12/07/2009 POR @ NYK L 32 4 2 5 40.0 0 0 - 0 0 - 2 6 8 0 0 0 3 2 -11
+p597
+aVAndre Miller POR 12/05/2009 POR vs. HOU W 36 24 9 14 64.3 1 1 100.0 5 7 71.4 1 2 3 3 0 0 1 3 1
+p598
+aVLaMarcus Aldridge POR 12/05/2009 POR vs. HOU W 40 12 5 14 35.7 1 1 100.0 1 2 50.0 2 9 11 3 0 0 1 3 0
+p599
+aVBrandon Roy POR 12/05/2009 POR vs. HOU W 42 28 9 15 60.0 1 2 50.0 9 9 100.0 1 2 3 3 2 0 4 4 -1
+p600
+aVJerryd Bayless POR 12/05/2009 POR vs. HOU W 21 13 4 6 66.7 0 1 0.0 5 6 83.3 0 2 2 0 0 0 1 4 12
+p601
+aVDante Cunningham POR 12/05/2009 POR vs. HOU W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 1
+p602
+aVJuwan Howard POR 12/05/2009 POR vs. HOU W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -5
+p603
+aVGreg Oden POR 12/05/2009 POR vs. HOU W 4 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 1
+p604
+aVSteve Blake POR 12/05/2009 POR vs. HOU W 29 3 1 6 16.7 1 5 20.0 0 0 - 0 0 0 3 1 0 1 2 -2
+p605
+aVMartell Webster POR 12/05/2009 POR vs. HOU W 17 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 0 0 0 0 2 -3
+p606
+aVJoel Przybilla POR 12/05/2009 POR vs. HOU W 35 6 2 2 100.0 0 0 - 2 2 100.0 1 11 12 0 0 1 3 5 1
+p607
+aVMartell Webster POR 12/01/2009 POR vs. MIA L 31 11 4 14 28.6 2 6 33.3 1 2 50.0 2 3 5 0 0 0 0 2 -7
+p608
+aVJerryd Bayless POR 12/01/2009 POR vs. MIA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p609
+aVAndre Miller POR 12/01/2009 POR vs. MIA L 32 18 4 9 44.4 0 0 - 10 12 83.3 1 2 3 6 0 0 3 0 -3
+p610
+aVBrandon Roy POR 12/01/2009 POR vs. MIA L 42 25 9 25 36.0 3 8 37.5 4 5 80.0 3 2 5 5 1 0 3 2 -2
+p611
+aVGreg Oden POR 12/01/2009 POR vs. MIA L 30 13 4 13 30.8 0 0 - 5 8 62.5 11 9 20 2 1 4 1 5 4
+p612
+aVJoel Przybilla POR 12/01/2009 POR vs. MIA L 14 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 2 5 -4
+p613
+aVJuwan Howard POR 12/01/2009 POR vs. MIA L 27 14 6 8 75.0 0 0 - 2 2 100.0 1 4 5 2 0 0 0 1 -9
+p614
+aVDante Cunningham POR 12/01/2009 POR vs. MIA L 19 6 2 6 33.3 0 0 - 2 3 66.7 2 3 5 1 0 0 0 4 -13
+p615
+aVRudy Fernandez POR 12/01/2009 POR vs. MIA L 18 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 1 -3
+p616
+aVSteve Blake POR 12/01/2009 POR vs. MIA L 25 9 3 6 50.0 3 5 60.0 0 0 - 0 1 1 3 2 0 0 2 2
+p617
+aVJuwan Howard POR 11/28/2009 POR @ UTA L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p618
+aVRudy Fernandez POR 11/28/2009 POR @ UTA L 32 11 3 10 30.0 1 5 20.0 4 5 80.0 0 4 4 3 1 0 3 2 -2
+p619
+aVDante Cunningham POR 11/28/2009 POR @ UTA L 16 6 3 4 75.0 0 0 - 0 2 0.0 2 3 5 0 0 1 0 2 7
+p620
+aVMartell Webster POR 11/28/2009 POR @ UTA L 31 9 3 7 42.9 2 5 40.0 1 2 50.0 1 4 5 0 0 0 1 3 -5
+p621
+aVSteve Blake POR 11/28/2009 POR @ UTA L 22 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 4 0 0 1 0 -22
+p622
+aVBrandon Roy POR 11/28/2009 POR @ UTA L 32 19 7 13 53.8 0 1 0.0 5 5 100.0 1 3 4 4 3 0 3 3 -22
+p623
+aVAndre Miller POR 11/28/2009 POR @ UTA L 6 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 2 1 -3
+p624
+aVGreg Oden POR 11/28/2009 POR @ UTA L 24 9 4 6 66.7 0 0 - 1 2 50.0 0 3 3 1 2 0 2 5 -2
+p625
+aVLaMarcus Aldridge POR 11/28/2009 POR @ UTA L 32 14 6 16 37.5 0 0 - 2 2 100.0 2 2 4 2 0 0 0 1 -23
+p626
+aVJerryd Bayless POR 11/28/2009 POR @ UTA L 22 14 3 7 42.9 0 3 0.0 8 11 72.7 1 0 1 3 0 0 0 2 6
+p627
+aVJoel Przybilla POR 11/28/2009 POR @ UTA L 18 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 1 1 3 -17
+p628
+aVMartell Webster POR 11/27/2009 POR vs. MEM L 38 24 9 14 64.3 6 11 54.5 0 0 - 0 5 5 1 1 3 0 0 3
+p629
+aVRudy Fernandez POR 11/27/2009 POR vs. MEM L 18 4 1 6 16.7 0 3 0.0 2 2 100.0 0 1 1 2 0 0 1 1 -13
+p630
+aVDante Cunningham POR 11/27/2009 POR vs. MEM L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p631
+aVSteve Blake POR 11/27/2009 POR vs. MEM L 24 0 0 3 0.0 0 2 0.0 0 2 0.0 0 2 2 2 0 0 2 1 0
+p632
+aVBrandon Roy POR 11/27/2009 POR vs. MEM L 42 26 9 22 40.9 2 6 33.3 6 7 85.7 2 6 8 9 2 0 3 2 -10
+p633
+aVAndre Miller POR 11/27/2009 POR vs. MEM L 21 13 3 9 33.3 1 1 100.0 6 8 75.0 1 0 1 2 0 0 1 2 -6
+p634
+aVLaMarcus Aldridge POR 11/27/2009 POR vs. MEM L 45 16 7 16 43.8 1 1 100.0 1 1 100.0 4 1 5 1 0 1 1 1 -2
+p635
+aVJerryd Bayless POR 11/27/2009 POR vs. MEM L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -4
+p636
+aVJoel Przybilla POR 11/27/2009 POR vs. MEM L 17 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -9
+p637
+aVGreg Oden POR 11/27/2009 POR vs. MEM L 28 13 4 8 50.0 0 0 - 5 6 83.3 4 6 10 2 0 3 2 4 -1
+p638
+aVJoel Przybilla POR 11/25/2009 POR vs. NJN W 18 2 1 3 33.3 0 0 - 0 2 0.0 3 7 10 1 0 1 5 0 6
+p639
+aVSteve Blake POR 11/25/2009 POR vs. NJN W 25 8 3 6 50.0 2 3 66.7 0 2 0.0 0 2 2 4 0 0 0 1 -1
+p640
+aVGreg Oden POR 11/25/2009 POR vs. NJN W 25 18 7 11 63.6 0 0 - 4 5 80.0 6 2 8 2 1 4 4 5 2
+p641
+aVLaMarcus Aldridge POR 11/25/2009 POR vs. NJN W 34 12 4 13 30.8 0 0 - 4 5 80.0 1 7 8 4 0 1 0 2 11
+p642
+aVJerryd Bayless POR 11/25/2009 POR vs. NJN W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 1
+p643
+aVMartell Webster POR 11/25/2009 POR vs. NJN W 25 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 0 0 1 2 1 4
+p644
+aVDante Cunningham POR 11/25/2009 POR vs. NJN W 17 6 3 6 50.0 0 0 - 0 2 0.0 2 3 5 2 1 0 0 1 3
+p645
+aVBrandon Roy POR 11/25/2009 POR vs. NJN W 39 13 5 10 50.0 1 3 33.3 2 4 50.0 0 2 2 5 0 0 3 1 2
+p646
+aVAndre Miller POR 11/25/2009 POR vs. NJN W 26 10 3 6 50.0 0 2 0.0 4 4 100.0 1 2 3 6 2 0 0 1 17
+p647
+aVRudy Fernandez POR 11/25/2009 POR vs. NJN W 26 12 4 6 66.7 4 5 80.0 0 0 - 0 2 2 1 0 0 1 2 5
+p648
+aVJuwan Howard POR 11/23/2009 POR vs. CHI W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p649
+aVLaMarcus Aldridge POR 11/23/2009 POR vs. CHI W 36 24 10 16 62.5 1 1 100.0 3 3 100.0 3 10 13 3 0 1 2 4 16
+p650
+aVAndre Miller POR 11/23/2009 POR vs. CHI W 27 16 3 6 50.0 0 1 0.0 10 11 90.9 0 0 0 5 0 0 2 1 30
+p651
+aVBrandon Roy POR 11/23/2009 POR vs. CHI W 36 18 6 13 46.2 1 3 33.3 5 7 71.4 0 2 2 7 0 0 0 3 10
+p652
+aVSteve Blake POR 11/23/2009 POR vs. CHI W 29 3 1 3 33.3 1 3 33.3 0 1 0.0 2 3 5 4 1 0 2 0 8
+p653
+aVDante Cunningham POR 11/23/2009 POR vs. CHI W 14 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 1 1 2 14
+p654
+aVRudy Fernandez POR 11/23/2009 POR vs. CHI W 19 13 5 7 71.4 3 5 60.0 0 1 0.0 0 3 3 3 0 0 1 2 18
+p655
+aVGreg Oden POR 11/23/2009 POR vs. CHI W 27 24 7 8 87.5 0 0 - 10 12 83.3 6 6 12 1 0 2 2 4 7
+p656
+aVJerryd Bayless POR 11/23/2009 POR vs. CHI W 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p657
+aVJoel Przybilla POR 11/23/2009 POR vs. CHI W 17 8 3 3 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 2 10
+p658
+aVMartell Webster POR 11/23/2009 POR vs. CHI W 22 6 3 10 30.0 0 2 0.0 0 1 0.0 1 3 4 1 0 0 0 0 -2
+p659
+aVGreg Oden POR 11/21/2009 POR vs. MIN W 24 16 7 9 77.8 0 0 - 2 2 100.0 0 5 5 1 0 3 1 2 10
+p660
+aVJoel Przybilla POR 11/21/2009 POR vs. MIN W 21 14 5 10 50.0 0 0 - 4 6 66.7 6 5 11 0 0 2 0 4 19
+p661
+aVLaMarcus Aldridge POR 11/21/2009 POR vs. MIN W 22 10 3 5 60.0 0 0 - 4 4 100.0 0 3 3 0 0 0 2 4 17
+p662
+aVJerryd Bayless POR 11/21/2009 POR vs. MIN W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -7
+p663
+aVDante Cunningham POR 11/21/2009 POR vs. MIN W 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 11
+p664
+aVSteve Blake POR 11/21/2009 POR vs. MIN W 29 14 5 7 71.4 4 6 66.7 0 0 - 0 4 4 9 0 0 1 0 17
+p665
+aVAndre Miller POR 11/21/2009 POR vs. MIN W 20 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 4 0 0 0 1 12
+p666
+aVBrandon Roy POR 11/21/2009 POR vs. MIN W 32 18 8 15 53.3 1 4 25.0 1 5 20.0 0 1 1 5 0 0 1 1 19
+p667
+aVMartell Webster POR 11/21/2009 POR vs. MIN W 31 21 7 13 53.8 4 7 57.1 3 7 42.9 2 11 13 2 0 0 1 1 26
+p668
+aVRudy Fernandez POR 11/21/2009 POR vs. MIN W 24 5 1 9 11.1 1 6 16.7 2 2 100.0 3 1 4 5 2 0 1 2 17
+p669
+aVJuwan Howard POR 11/21/2009 POR vs. MIN W 21 0 0 3 0.0 0 0 - 0 0 - 4 2 6 1 0 0 1 3 -1
+p670
+aVGreg Oden POR 11/20/2009 POR @ GSW L 24 16 6 8 75.0 0 0 - 4 5 80.0 3 3 6 2 0 1 1 4 -8
+p671
+aVLaMarcus Aldridge POR 11/20/2009 POR @ GSW L 27 12 4 10 40.0 0 0 - 4 5 80.0 1 5 6 1 0 1 2 2 -11
+p672
+aVRudy Fernandez POR 11/20/2009 POR @ GSW L 38 19 6 11 54.5 3 8 37.5 4 5 80.0 0 4 4 6 4 0 4 1 -10
+p673
+aVBrandon Roy POR 11/20/2009 POR @ GSW L 38 17 6 17 35.3 1 5 20.0 4 4 100.0 2 2 4 1 1 0 3 4 -16
+p674
+aVMartell Webster POR 11/20/2009 POR @ GSW L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 1 1 2 7
+p675
+aVJerryd Bayless POR 11/20/2009 POR @ GSW L 9 6 2 5 40.0 0 0 - 2 4 50.0 0 0 0 1 1 0 0 2 -5
+p676
+aVDante Cunningham POR 11/20/2009 POR @ GSW L 3 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 0 0 0 6
+p677
+aVJuwan Howard POR 11/20/2009 POR @ GSW L 12 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 0 2 0 -11
+p678
+aVJoel Przybilla POR 11/20/2009 POR @ GSW L 20 0 0 3 0.0 0 0 - 0 0 - 5 4 9 0 0 3 1 2 -9
+p679
+aVSteve Blake POR 11/20/2009 POR @ GSW L 36 6 2 9 22.2 0 4 0.0 2 2 100.0 1 3 4 5 1 0 2 1 -3
+p680
+aVAndre Miller POR 11/20/2009 POR @ GSW L 19 14 5 9 55.6 0 0 - 4 5 80.0 0 2 2 2 0 0 7 5 -10
+p681
+aVSteve Blake POR 11/18/2009 POR vs. DET W 35 17 5 10 50.0 3 6 50.0 4 4 100.0 1 2 3 2 0 0 3 2 8
+p682
+aVBrandon Roy POR 11/18/2009 POR vs. DET W 36 20 7 14 50.0 2 3 66.7 4 4 100.0 1 3 4 5 0 0 2 2 11
+p683
+aVLaMarcus Aldridge POR 11/18/2009 POR vs. DET W 38 20 8 16 50.0 0 0 - 4 5 80.0 1 6 7 2 0 1 1 1 12
+p684
+aVJoel Przybilla POR 11/18/2009 POR vs. DET W 24 6 3 4 75.0 0 0 - 0 2 0.0 0 5 5 1 0 1 0 4 19
+p685
+aVAndre Miller POR 11/18/2009 POR vs. DET W 33 10 3 7 42.9 0 0 - 4 8 50.0 1 3 4 11 0 0 2 2 8
+p686
+aVMartell Webster POR 11/18/2009 POR vs. DET W 12 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 1 0 0 3 -5
+p687
+aVGreg Oden POR 11/18/2009 POR vs. DET W 24 6 3 7 42.9 0 0 - 0 0 - 1 9 10 0 0 3 2 4 -15
+p688
+aVJuwan Howard POR 11/18/2009 POR vs. DET W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p689
+aVRudy Fernandez POR 11/18/2009 POR vs. DET W 28 6 3 8 37.5 0 4 0.0 0 0 - 1 0 1 4 2 0 3 0 -2
+p690
+aVJerryd Bayless POR 11/16/2009 POR @ ATL L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 0
+p691
+aVJuwan Howard POR 11/16/2009 POR @ ATL L 7 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 0 0 1 1 -2
+p692
+aVGreg Oden POR 11/16/2009 POR @ ATL L 34 11 5 9 55.6 0 0 - 1 3 33.3 2 5 7 0 1 1 4 5 -3
+p693
+aVRudy Fernandez POR 11/16/2009 POR @ ATL L 32 19 7 12 58.3 4 6 66.7 1 1 100.0 0 4 4 2 4 0 3 4 -1
+p694
+aVSteve Blake POR 11/16/2009 POR @ ATL L 40 8 3 11 27.3 2 6 33.3 0 0 - 0 0 0 11 0 0 2 1 2
+p695
+aVAndre Miller POR 11/16/2009 POR @ ATL L 30 14 4 10 40.0 0 2 0.0 6 6 100.0 2 1 3 5 3 0 3 1 -7
+p696
+aVLaMarcus Aldridge POR 11/16/2009 POR @ ATL L 46 18 8 17 47.1 0 0 - 2 2 100.0 1 8 9 2 1 0 0 3 -2
+p697
+aVJoel Przybilla POR 11/16/2009 POR @ ATL L 19 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 1 1 2 -1
+p698
+aVBrandon Roy POR 11/16/2009 POR @ ATL L 43 17 7 15 46.7 1 3 33.3 2 2 100.0 1 8 9 4 0 0 3 5 -9
+p699
+aVMartell Webster POR 11/16/2009 POR @ ATL L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p700
+aVGreg Oden POR 11/14/2009 POR @ CHA W 17 8 4 4 100.0 0 0 - 0 0 - 1 3 4 0 0 4 1 6 9
+p701
+aVLaMarcus Aldridge POR 11/14/2009 POR @ CHA W 36 11 4 11 36.4 0 1 0.0 3 6 50.0 1 6 7 0 0 0 1 3 3
+p702
+aVBrandon Roy POR 11/14/2009 POR @ CHA W 40 25 9 16 56.3 1 1 100.0 6 7 85.7 1 6 7 5 0 0 4 2 8
+p703
+aVJuwan Howard POR 11/14/2009 POR @ CHA W 12 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 3
+p704
+aVMartell Webster POR 11/14/2009 POR @ CHA W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 2 -3
+p705
+aVJoel Przybilla POR 11/14/2009 POR @ CHA W 26 0 0 0 - 0 0 - 0 0 - 0 6 6 0 0 2 0 2 0
+p706
+aVRudy Fernandez POR 11/14/2009 POR @ CHA W 26 10 2 5 40.0 2 5 40.0 4 4 100.0 2 5 7 0 1 0 1 2 -11
+p707
+aVTravis Outlaw POR 11/14/2009 POR @ CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p708
+aVSteve Blake POR 11/14/2009 POR @ CHA W 32 8 2 10 20.0 2 10 20.0 2 2 100.0 0 4 4 2 0 0 2 0 9
+p709
+aVAndre Miller POR 11/14/2009 POR @ CHA W 39 15 5 12 41.7 0 2 0.0 5 5 100.0 1 5 6 1 0 0 2 1 15
+p710
+aVSteve Blake POR 11/13/2009 POR @ NOH W 32 3 1 7 14.3 1 5 20.0 0 0 - 0 4 4 2 0 0 1 1 19
+p711
+aVBrandon Roy POR 11/13/2009 POR @ NOH W 38 15 5 16 31.3 1 2 50.0 4 7 57.1 2 6 8 6 0 0 3 3 17
+p712
+aVRudy Fernandez POR 11/13/2009 POR @ NOH W 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 3 0 -8
+p713
+aVTravis Outlaw POR 11/13/2009 POR @ NOH W 19 6 3 11 27.3 0 3 0.0 0 0 - 3 2 5 1 1 0 1 1 -6
+p714
+aVJoel Przybilla POR 11/13/2009 POR @ NOH W 18 10 2 3 66.7 0 0 - 6 7 85.7 3 5 8 0 1 3 0 2 5
+p715
+aVMartell Webster POR 11/13/2009 POR @ NOH W 13 4 1 3 33.3 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -6
+p716
+aVJerryd Bayless POR 11/13/2009 POR @ NOH W 11 8 2 3 66.7 0 0 - 4 6 66.7 0 2 2 0 0 0 1 1 -13
+p717
+aVGreg Oden POR 11/13/2009 POR @ NOH W 29 8 4 10 40.0 0 0 - 0 0 - 5 7 12 1 0 3 0 4 7
+p718
+aVAndre Miller POR 11/13/2009 POR @ NOH W 36 12 5 13 38.5 0 1 0.0 2 3 66.7 3 3 6 3 0 1 3 4 19
+p719
+aVLaMarcus Aldridge POR 11/13/2009 POR @ NOH W 29 20 10 19 52.6 0 0 - 0 1 0.0 4 9 13 1 1 0 0 4 14
+p720
+aVJuwan Howard POR 11/13/2009 POR @ NOH W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p721
+aVDante Cunningham POR 11/13/2009 POR @ NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p722
+aVLaMarcus Aldridge POR 11/11/2009 POR @ MIN W 25 11 5 9 55.6 0 1 0.0 1 1 100.0 0 4 4 2 0 0 0 2 9
+p723
+aVRudy Fernandez POR 11/11/2009 POR @ MIN W 26 15 5 7 71.4 4 4 100.0 1 1 100.0 0 5 5 4 3 0 4 2 18
+p724
+aVGreg Oden POR 11/11/2009 POR @ MIN W 26 18 8 10 80.0 0 0 - 2 2 100.0 2 9 11 1 1 1 0 0 15
+p725
+aVDante Cunningham POR 11/11/2009 POR @ MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p726
+aVSteve Blake POR 11/11/2009 POR @ MIN W 23 5 2 7 28.6 1 5 20.0 0 0 - 0 2 2 5 1 0 2 1 11
+p727
+aVJoel Przybilla POR 11/11/2009 POR @ MIN W 22 3 0 2 0.0 0 0 - 3 4 75.0 3 8 11 0 0 4 2 3 8
+p728
+aVJerryd Bayless POR 11/11/2009 POR @ MIN W 12 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 2 1
+p729
+aVBrandon Roy POR 11/11/2009 POR @ MIN W 26 14 7 11 63.6 0 3 0.0 0 0 - 0 2 2 5 0 1 0 0 13
+p730
+aVMartell Webster POR 11/11/2009 POR @ MIN W 25 16 5 9 55.6 2 5 40.0 4 4 100.0 1 2 3 0 2 0 2 2 10
+p731
+aVAndre Miller POR 11/11/2009 POR @ MIN W 27 9 4 7 57.1 0 2 0.0 1 1 100.0 0 2 2 10 1 0 2 0 10
+p732
+aVTravis Outlaw POR 11/11/2009 POR @ MIN W 23 9 3 8 37.5 2 4 50.0 1 2 50.0 0 0 0 1 0 1 1 3 14
+p733
+aVJerryd Bayless POR 11/10/2009 POR @ MEM W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -8
+p734
+aVAndre Miller POR 11/10/2009 POR @ MEM W 31 7 3 9 33.3 0 0 - 1 1 100.0 1 1 2 7 0 0 3 0 18
+p735
+aVLaMarcus Aldridge POR 11/10/2009 POR @ MEM W 38 16 7 12 58.3 0 0 - 2 2 100.0 0 12 12 3 1 2 0 3 18
+p736
+aVGreg Oden POR 11/10/2009 POR @ MEM W 23 14 6 10 60.0 0 0 - 2 3 66.7 3 3 6 1 0 2 1 5 16
+p737
+aVMartell Webster POR 11/10/2009 POR @ MEM W 16 9 1 6 16.7 1 4 25.0 6 6 100.0 0 4 4 0 0 2 1 1 -5
+p738
+aVBrandon Roy POR 11/10/2009 POR @ MEM W 39 20 6 11 54.5 2 4 50.0 6 8 75.0 1 0 1 7 0 1 3 4 16
+p739
+aVJoel Przybilla POR 11/10/2009 POR @ MEM W 18 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 2 6 -4
+p740
+aVRudy Fernandez POR 11/10/2009 POR @ MEM W 19 7 2 3 66.7 2 2 100.0 1 1 100.0 1 1 2 0 1 0 0 3 2
+p741
+aVSteve Blake POR 11/10/2009 POR @ MEM W 31 14 5 9 55.6 4 6 66.7 0 0 - 0 2 2 2 1 0 2 0 16
+p742
+aVTravis Outlaw POR 11/10/2009 POR @ MEM W 22 4 1 9 11.1 0 2 0.0 2 2 100.0 2 3 5 0 0 0 2 1 1
+p743
+aVTravis Outlaw POR 11/08/2009 POR vs. MIN W 19 19 5 9 55.6 3 4 75.0 6 6 100.0 0 1 1 1 1 1 0 0 13
+p744
+aVJoel Przybilla POR 11/08/2009 POR vs. MIN W 26 7 3 5 60.0 0 0 - 1 2 50.0 3 10 13 1 1 0 2 4 12
+p745
+aVAndre Miller POR 11/08/2009 POR vs. MIN W 26 21 9 14 64.3 1 1 100.0 2 3 66.7 1 3 4 3 2 0 4 3 13
+p746
+aVJerryd Bayless POR 11/08/2009 POR vs. MIN W 18 12 4 7 57.1 0 0 - 4 5 80.0 0 1 1 4 0 0 0 5 12
+p747
+aVSteve Blake POR 11/08/2009 POR vs. MIN W 27 6 3 6 50.0 0 2 0.0 0 0 - 0 4 4 5 1 0 0 0 10
+p748
+aVDante Cunningham POR 11/08/2009 POR vs. MIN W 6 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p749
+aVGreg Oden POR 11/08/2009 POR vs. MIN W 22 11 4 8 50.0 0 0 - 3 3 100.0 2 2 4 1 0 2 0 1 11
+p750
+aVLaMarcus Aldridge POR 11/08/2009 POR vs. MIN W 25 19 5 11 45.5 0 0 - 9 9 100.0 5 5 10 3 0 0 1 1 12
+p751
+aVMartell Webster POR 11/08/2009 POR vs. MIN W 21 8 2 6 33.3 2 4 50.0 2 2 100.0 0 1 1 4 2 0 2 0 11
+p752
+aVRudy Fernandez POR 11/08/2009 POR vs. MIN W 23 5 2 6 33.3 1 3 33.3 0 0 - 1 4 5 6 4 0 3 1 11
+p753
+aVBrandon Roy POR 11/08/2009 POR vs. MIN W 26 2 1 6 16.7 0 1 0.0 0 0 - 0 6 6 7 1 0 1 2 12
+p754
+aVMartell Webster POR 11/06/2009 POR vs. SAS W 13 4 1 4 25.0 0 2 0.0 2 2 100.0 1 0 1 0 1 0 1 2 5
+p755
+aVAndre Miller POR 11/06/2009 POR vs. SAS W 33 10 2 9 22.2 0 2 0.0 6 6 100.0 1 5 6 4 2 0 3 1 14
+p756
+aVJoel Przybilla POR 11/06/2009 POR vs. SAS W 18 4 1 4 25.0 0 0 - 2 2 100.0 6 7 13 0 0 1 0 3 -3
+p757
+aVLaMarcus Aldridge POR 11/06/2009 POR vs. SAS W 34 8 3 10 30.0 0 0 - 2 2 100.0 1 4 5 1 2 0 1 4 6
+p758
+aVSteve Blake POR 11/06/2009 POR vs. SAS W 38 15 4 7 57.1 3 5 60.0 4 4 100.0 0 6 6 2 1 0 1 2 7
+p759
+aVBrandon Roy POR 11/06/2009 POR vs. SAS W 36 24 9 15 60.0 1 3 33.3 5 8 62.5 0 5 5 2 0 0 1 2 15
+p760
+aVGreg Oden POR 11/06/2009 POR vs. SAS W 25 14 6 9 66.7 0 0 - 2 2 100.0 2 6 8 0 0 4 2 5 13
+p761
+aVTravis Outlaw POR 11/06/2009 POR vs. SAS W 24 9 4 9 44.4 1 3 33.3 0 0 - 0 3 3 0 1 1 2 0 7
+p762
+aVJuwan Howard POR 11/06/2009 POR vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p763
+aVJerryd Bayless POR 11/06/2009 POR vs. SAS W 5 5 1 2 50.0 0 0 - 3 3 100.0 0 1 1 1 0 0 1 2 2
+p764
+aVRudy Fernandez POR 11/06/2009 POR vs. SAS W 12 3 1 5 20.0 0 2 0.0 1 1 100.0 0 0 0 1 0 1 0 0 -3
+p765
+aVSteve Blake POR 11/03/2009 POR vs. ATL L 27 5 2 10 20.0 1 4 25.0 0 0 - 0 1 1 3 0 0 1 1 2
+p766
+aVJoel Przybilla POR 11/03/2009 POR vs. ATL L 19 4 2 2 100.0 0 0 - 0 0 - 2 4 6 0 1 2 1 2 6
+p767
+aVMartell Webster POR 11/03/2009 POR vs. ATL L 27 8 2 5 40.0 2 4 50.0 2 2 100.0 0 1 1 0 1 0 0 1 -4
+p768
+aVBrandon Roy POR 11/03/2009 POR vs. ATL L 42 19 8 19 42.1 1 6 16.7 2 3 66.7 0 2 2 6 0 0 2 2 -2
+p769
+aVTravis Outlaw POR 11/03/2009 POR vs. ATL L 23 19 7 15 46.7 1 2 50.0 4 4 100.0 2 1 3 0 1 2 0 2 -8
+p770
+aVGreg Oden POR 11/03/2009 POR vs. ATL L 16 8 4 6 66.7 0 0 - 0 1 0.0 3 6 9 0 0 0 3 5 -4
+p771
+aVAndre Miller POR 11/03/2009 POR vs. ATL L 28 5 1 6 16.7 0 0 - 3 4 75.0 0 0 0 11 0 0 0 2 -13
+p772
+aVRudy Fernandez POR 11/03/2009 POR vs. ATL L 18 3 1 5 20.0 1 5 20.0 0 0 - 0 0 0 2 2 0 0 2 2
+p773
+aVLaMarcus Aldridge POR 11/03/2009 POR vs. ATL L 40 20 9 17 52.9 0 0 - 2 2 100.0 3 11 14 0 2 0 1 3 -9
+p774
+aVTravis Outlaw POR 11/01/2009 POR @ OKC W 32 12 4 10 40.0 2 4 50.0 2 4 50.0 1 5 6 2 1 1 3 1 3
+p775
+aVAndre Miller POR 11/01/2009 POR @ OKC W 20 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 4 -8
+p776
+aVRudy Fernandez POR 11/01/2009 POR @ OKC W 14 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 1 2 0 1 1 -4
+p777
+aVJuwan Howard POR 11/01/2009 POR @ OKC W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -2
+p778
+aVGreg Oden POR 11/01/2009 POR @ OKC W 29 12 4 5 80.0 0 0 - 4 4 100.0 2 8 10 1 0 1 3 4 9
+p779
+aVLaMarcus Aldridge POR 11/01/2009 POR @ OKC W 12 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 3 0 1 0 0 12
+p780
+aVJoel Przybilla POR 11/01/2009 POR @ OKC W 17 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 0 2 4 -2
+p781
+aVMartell Webster POR 11/01/2009 POR @ OKC W 39 10 4 12 33.3 1 5 20.0 1 2 50.0 1 4 5 1 4 1 1 2 12
+p782
+aVBrandon Roy POR 11/01/2009 POR @ OKC W 39 16 5 17 29.4 1 5 20.0 5 7 71.4 0 3 3 5 1 0 1 2 12
+p783
+aVSteve Blake POR 11/01/2009 POR @ OKC W 31 18 6 9 66.7 4 5 80.0 2 2 100.0 0 3 3 3 1 0 1 5 13
+p784
+aVBrandon Roy POR 10/31/2009 POR @ HOU L 41 42 12 20 60.0 5 7 71.4 13 13 100.0 1 5 6 4 1 0 3 3 -1
+p785
+aVSteve Blake POR 10/31/2009 POR @ HOU L 25 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 6 1 0 3 2 1
+p786
+aVTravis Outlaw POR 10/31/2009 POR @ HOU L 20 4 1 8 12.5 0 3 0.0 2 2 100.0 2 2 4 1 0 1 0 1 -2
+p787
+aVLaMarcus Aldridge POR 10/31/2009 POR @ HOU L 40 27 13 16 81.3 0 0 - 1 3 33.3 1 3 4 2 1 0 2 6 8
+p788
+aVGreg Oden POR 10/31/2009 POR @ HOU L 22 6 2 3 66.7 0 0 - 2 2 100.0 2 7 9 1 0 3 2 5 -5
+p789
+aVJoel Przybilla POR 10/31/2009 POR @ HOU L 21 2 1 2 50.0 0 0 - 0 0 - 3 3 6 0 0 3 2 0 -6
+p790
+aVRudy Fernandez POR 10/31/2009 POR @ HOU L 32 7 3 9 33.3 1 6 16.7 0 2 0.0 1 0 1 2 2 0 1 0 -3
+p791
+aVMartell Webster POR 10/31/2009 POR @ HOU L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 0 3 -6
+p792
+aVAndre Miller POR 10/31/2009 POR @ HOU L 24 15 4 9 44.4 0 0 - 7 9 77.8 2 3 5 2 0 0 2 4 -6
+p793
+aVRudy Fernandez POR 10/29/2009 POR vs. DEN L 23 22 6 9 66.7 2 5 40.0 8 8 100.0 2 2 4 0 1 0 2 0 -10
+p794
+aVMartell Webster POR 10/29/2009 POR vs. DEN L 30 10 4 9 44.4 1 2 50.0 1 2 50.0 0 4 4 1 1 2 1 4 9
+p795
+aVTravis Outlaw POR 10/29/2009 POR vs. DEN L 16 4 1 8 12.5 0 1 0.0 2 2 100.0 3 4 7 0 0 0 1 2 5
+p796
+aVSteve Blake POR 10/29/2009 POR vs. DEN L 20 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 3 1 0 1 2 -5
+p797
+aVBrandon Roy POR 10/29/2009 POR vs. DEN L 33 30 6 16 37.5 2 6 33.3 16 18 88.9 0 5 5 5 0 0 1 4 1
+p798
+aVJoel Przybilla POR 10/29/2009 POR vs. DEN L 12 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 0 0 0 5 -6
+p799
+aVAndre Miller POR 10/29/2009 POR vs. DEN L 27 8 3 11 27.3 0 3 0.0 2 3 66.7 0 0 0 5 0 0 0 3 -1
+p800
+aVLaMarcus Aldridge POR 10/29/2009 POR vs. DEN L 40 9 4 15 26.7 0 0 - 1 2 50.0 2 5 7 1 0 0 0 4 -13
+p801
+aVGreg Oden POR 10/29/2009 POR vs. DEN L 22 6 2 5 40.0 0 0 - 2 4 50.0 5 4 9 1 1 2 1 5 6
+p802
+aVJuwan Howard POR 10/29/2009 POR vs. DEN L 16 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 1 0 1 -1
+p803
+aVSteve Blake POR 10/27/2009 POR vs. HOU W 26 7 2 6 33.3 2 5 40.0 1 2 50.0 0 3 3 2 1 0 2 3 4
+p804
+aVGreg Oden POR 10/27/2009 POR vs. HOU W 26 2 1 3 33.3 0 0 - 0 0 - 4 8 12 1 1 5 7 5 6
+p805
+aVJoel Przybilla POR 10/27/2009 POR vs. HOU W 16 2 1 3 33.3 0 0 - 0 0 - 4 6 10 1 0 2 2 6 4
+p806
+aVLaMarcus Aldridge POR 10/27/2009 POR vs. HOU W 24 11 5 10 50.0 0 0 - 1 1 100.0 1 5 6 1 0 1 4 5 -7
+p807
+aVAndre Miller POR 10/27/2009 POR vs. HOU W 26 9 3 11 27.3 1 2 50.0 2 2 100.0 1 3 4 7 1 0 2 2 1
+p808
+aVRudy Fernandez POR 10/27/2009 POR vs. HOU W 26 8 3 5 60.0 2 3 66.7 0 0 - 0 4 4 2 1 1 3 1 9
+p809
+aVBrandon Roy POR 10/27/2009 POR vs. HOU W 37 20 5 18 27.8 0 2 0.0 10 11 90.9 1 4 5 5 1 1 3 2 -1
+p810
+aVTravis Outlaw POR 10/27/2009 POR vs. HOU W 33 23 9 14 64.3 3 5 60.0 2 2 100.0 0 4 4 2 2 1 1 2 15
+p811
+aVMartell Webster POR 10/27/2009 POR vs. HOU W 25 14 4 7 57.1 2 4 50.0 4 4 100.0 1 2 3 2 2 1 2 1 14
+p812
+a.

@@ -1,0 +1,1572 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVShawne Williams NYK 04/13/2011 NYK @ BOS L 24 9 4 10 40.0 0 2 0.0 1 1 100.0 0 2 2 1 1 1 3 3 -2
+p2
+aVAmar'e Stoudemire NYK 04/13/2011 NYK @ BOS L 20 14 6 15 40.0 0 0 - 2 3 66.7 2 2 4 1 0 1 2 1 -3
+p3
+aVJared Jeffries NYK 04/13/2011 NYK @ BOS L 16 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 0 1 1 0 1 -3
+p4
+aVHenry Walker NYK 04/13/2011 NYK @ BOS L 24 12 3 6 50.0 1 3 33.3 5 6 83.3 0 3 3 2 0 0 0 2 2
+p5
+aVAnthony Carter NYK 04/13/2011 NYK @ BOS L 20 9 3 4 75.0 1 2 50.0 2 2 100.0 0 1 1 6 1 1 3 1 -10
+p6
+aVRonny Turiaf NYK 04/13/2011 NYK @ BOS L 12 8 4 5 80.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -1
+p7
+aVDerrick Brown NYK 04/13/2011 NYK @ BOS L 22 7 3 7 42.9 1 2 50.0 0 0 - 6 1 7 2 3 1 5 4 -9
+p8
+aVToney Douglas NYK 04/13/2011 NYK @ BOS L 31 8 3 8 37.5 1 4 25.0 1 1 100.0 0 1 1 5 2 0 1 0 2
+p9
+aVRoger Mason Jr. NYK 04/13/2011 NYK @ BOS L 31 8 3 9 33.3 1 5 20.0 1 1 100.0 0 5 5 4 0 0 1 3 -8
+p10
+aVLandry Fields NYK 04/13/2011 NYK @ BOS L 30 16 6 12 50.0 2 5 40.0 2 3 66.7 0 7 7 0 0 0 1 1 -7
+p11
+aVShelden Williams NYK 04/13/2011 NYK @ BOS L 10 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -11
+p12
+aVLandry Fields NYK 04/12/2011 NYK vs. CHI L 28 8 4 9 44.4 0 1 0.0 0 0 - 0 4 4 2 0 0 1 0 -14
+p13
+aVDerrick Brown NYK 04/12/2011 NYK vs. CHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p14
+aVToney Douglas NYK 04/12/2011 NYK vs. CHI L 30 13 4 15 26.7 1 7 14.3 4 4 100.0 2 3 5 3 4 0 0 1 -3
+p15
+aVChauncey Billups NYK 04/12/2011 NYK vs. CHI L 29 10 4 10 40.0 1 2 50.0 1 1 100.0 2 2 4 8 0 0 3 2 -17
+p16
+aVHenry Walker NYK 04/12/2011 NYK vs. CHI L 22 18 6 12 50.0 3 7 42.9 3 3 100.0 0 3 3 0 0 0 1 3 10
+p17
+aVShawne Williams NYK 04/12/2011 NYK vs. CHI L 30 10 4 11 36.4 2 7 28.6 0 0 - 0 3 3 1 0 1 2 2 -16
+p18
+aVShelden Williams NYK 04/12/2011 NYK vs. CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p19
+aVAnthony Carter NYK 04/12/2011 NYK vs. CHI L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 3 2 0 1 2 1
+p20
+aVRonny Turiaf NYK 04/12/2011 NYK vs. CHI L 23 6 2 2 100.0 0 0 - 2 4 50.0 1 3 4 0 1 2 0 1 -15
+p21
+aVCarmelo Anthony NYK 04/12/2011 NYK vs. CHI L 32 21 8 19 42.1 1 6 16.7 4 4 100.0 0 5 5 2 1 2 3 3 -12
+p22
+aVJared Jeffries NYK 04/12/2011 NYK vs. CHI L 21 2 1 1 100.0 0 0 - 0 1 0.0 0 3 3 0 2 0 0 4 -2
+p23
+aVShawne Williams NYK 04/10/2011 NYK @ IND W 32 11 3 9 33.3 1 7 14.3 4 4 100.0 0 4 4 1 2 1 1 4 16
+p24
+aVDerrick Brown NYK 04/10/2011 NYK @ IND W 6 5 1 1 100.0 0 0 - 3 4 75.0 1 2 3 0 0 0 1 0 -5
+p25
+aVAnthony Carter NYK 04/10/2011 NYK @ IND W 16 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 2 -6
+p26
+aVCarmelo Anthony NYK 04/10/2011 NYK @ IND W 36 34 11 28 39.3 6 13 46.2 6 8 75.0 0 4 4 5 2 3 0 5 6
+p27
+aVToney Douglas NYK 04/10/2011 NYK @ IND W 26 14 5 10 50.0 2 6 33.3 2 2 100.0 2 1 3 2 1 0 0 3 1
+p28
+aVShelden Williams NYK 04/10/2011 NYK @ IND W 10 2 0 1 0.0 0 0 - 2 4 50.0 0 5 5 0 0 0 0 2 -2
+p29
+aVChauncey Billups NYK 04/10/2011 NYK @ IND W 33 21 4 14 28.6 2 6 33.3 11 13 84.6 0 3 3 7 1 0 2 1 7
+p30
+aVRonny Turiaf NYK 04/10/2011 NYK @ IND W 22 4 0 0 - 0 0 - 4 4 100.0 0 3 3 0 0 3 2 4 -3
+p31
+aVLandry Fields NYK 04/10/2011 NYK @ IND W 24 6 3 9 33.3 0 2 0.0 0 0 - 2 5 7 0 2 0 1 0 -1
+p32
+aVJared Jeffries NYK 04/10/2011 NYK @ IND W 20 7 2 2 100.0 1 1 100.0 2 2 100.0 2 3 5 1 1 1 2 2 2
+p33
+aVHenry Walker NYK 04/10/2011 NYK @ IND W 15 2 0 2 0.0 0 1 0.0 2 2 100.0 0 3 3 1 1 1 1 3 -10
+p34
+aVAnthony Carter NYK 04/08/2011 NYK @ NJN W 13 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 13
+p35
+aVRoger Mason Jr. NYK 04/08/2011 NYK @ NJN W 9 3 1 5 20.0 1 4 25.0 0 0 - 1 1 2 2 0 0 2 0 -3
+p36
+aVHenry Walker NYK 04/08/2011 NYK @ NJN W 26 10 2 8 25.0 2 5 40.0 4 6 66.7 2 3 5 1 1 0 2 4 12
+p37
+aVJared Jeffries NYK 04/08/2011 NYK @ NJN W 18 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 2 0 1 3 19
+p38
+aVShawne Williams NYK 04/08/2011 NYK @ NJN W 21 10 4 8 50.0 2 6 33.3 0 0 - 1 4 5 0 1 2 0 2 9
+p39
+aVCarmelo Anthony NYK 04/08/2011 NYK @ NJN W 30 25 9 18 50.0 2 6 33.3 5 5 100.0 2 12 14 2 1 1 1 0 18
+p40
+aVLandry Fields NYK 04/08/2011 NYK @ NJN W 22 5 2 5 40.0 0 0 - 1 1 100.0 1 7 8 4 1 1 2 2 11
+p41
+aVDerrick Brown NYK 04/08/2011 NYK @ NJN W 19 8 3 4 75.0 2 2 100.0 0 2 0.0 0 1 1 2 0 0 1 1 7
+p42
+aVRonny Turiaf NYK 04/08/2011 NYK @ NJN W 17 4 2 2 100.0 0 0 - 0 0 - 3 3 6 1 2 0 1 1 8
+p43
+aVShelden Williams NYK 04/08/2011 NYK @ NJN W 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -4
+p44
+aVToney Douglas NYK 04/08/2011 NYK @ NJN W 26 10 3 10 30.0 2 6 33.3 2 2 100.0 0 4 4 9 1 0 2 1 12
+p45
+aVChauncey Billups NYK 04/08/2011 NYK @ NJN W 26 22 8 14 57.1 3 5 60.0 3 3 100.0 0 0 0 4 0 0 3 1 13
+p46
+aVCarmelo Anthony NYK 04/06/2011 NYK @ PHI W 37 31 12 23 52.2 5 8 62.5 2 3 66.7 3 8 11 2 0 2 0 5 7
+p47
+aVLandry Fields NYK 04/06/2011 NYK @ PHI W 25 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 6
+p48
+aVDerrick Brown NYK 04/06/2011 NYK @ PHI W 10 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 1 -9
+p49
+aVToney Douglas NYK 04/06/2011 NYK @ PHI W 30 17 5 14 35.7 3 8 37.5 4 4 100.0 1 2 3 2 0 1 1 1 -2
+p50
+aVAnthony Carter NYK 04/06/2011 NYK @ PHI W 15 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 3 0 0 0 1 0
+p51
+aVAmar'e Stoudemire NYK 04/06/2011 NYK @ PHI W 39 18 7 19 36.8 0 1 0.0 4 5 80.0 1 5 6 7 1 3 2 2 3
+p52
+aVShawne Williams NYK 04/06/2011 NYK @ PHI W 13 8 3 6 50.0 2 4 50.0 0 0 - 1 1 2 0 0 0 1 3 5
+p53
+aVChauncey Billups NYK 04/06/2011 NYK @ PHI W 24 3 1 7 14.3 0 3 0.0 1 1 100.0 1 4 5 0 1 0 1 1 9
+p54
+aVHenry Walker NYK 04/06/2011 NYK @ PHI W 13 4 2 5 40.0 0 3 0.0 0 0 - 1 5 6 1 1 1 0 2 -3
+p55
+aVJared Jeffries NYK 04/06/2011 NYK @ PHI W 14 4 1 1 100.0 0 0 - 2 4 50.0 4 0 4 2 0 0 0 1 3
+p56
+aVRonny Turiaf NYK 04/06/2011 NYK @ PHI W 13 0 0 0 - 0 0 - 0 0 - 0 5 5 2 0 1 0 1 5
+p57
+aVShelden Williams NYK 04/06/2011 NYK @ PHI W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 1
+p58
+aVCarmelo Anthony NYK 04/05/2011 NYK vs. TOR W 29 23 9 15 60.0 5 7 71.4 0 0 - 0 9 9 1 1 0 4 2 0
+p59
+aVShawne Williams NYK 04/05/2011 NYK vs. TOR W 18 7 3 5 60.0 1 3 33.3 0 0 - 0 3 3 0 2 1 1 3 9
+p60
+aVDerrick Brown NYK 04/05/2011 NYK vs. TOR W 10 7 2 2 100.0 0 0 - 3 5 60.0 0 0 0 0 1 0 0 1 -4
+p61
+aVToney Douglas NYK 04/05/2011 NYK vs. TOR W 26 28 10 15 66.7 6 9 66.7 2 5 40.0 0 1 1 6 2 0 0 1 9
+p62
+aVAmar'e Stoudemire NYK 04/05/2011 NYK vs. TOR W 36 23 7 13 53.8 0 0 - 9 11 81.8 1 5 6 5 1 2 2 3 7
+p63
+aVShelden Williams NYK 04/05/2011 NYK vs. TOR W 12 6 2 2 100.0 0 0 - 2 2 100.0 3 1 4 1 0 0 0 0 6
+p64
+aVChauncey Billups NYK 04/05/2011 NYK vs. TOR W 26 13 3 8 37.5 1 3 33.3 6 6 100.0 0 1 1 9 0 1 2 3 3
+p65
+aVHenry Walker NYK 04/05/2011 NYK vs. TOR W 23 8 3 8 37.5 1 4 25.0 1 1 100.0 0 3 3 1 0 0 1 3 6
+p66
+aVRonny Turiaf NYK 04/05/2011 NYK vs. TOR W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 2 1
+p67
+aVLandry Fields NYK 04/05/2011 NYK vs. TOR W 23 10 3 5 60.0 1 1 100.0 3 4 75.0 1 2 3 3 1 0 2 0 7
+p68
+aVJared Jeffries NYK 04/05/2011 NYK vs. TOR W 13 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 7
+p69
+aVAnthony Carter NYK 04/05/2011 NYK vs. TOR W 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 5 2 0 1 1 14
+p70
+aVHenry Walker NYK 04/03/2011 NYK vs. CLE W 13 13 4 5 80.0 2 3 66.7 3 3 100.0 0 4 4 1 0 0 0 1 16
+p71
+aVShelden Williams NYK 04/03/2011 NYK vs. CLE W 20 9 3 4 75.0 0 0 - 3 3 100.0 2 4 6 0 0 0 1 3 -11
+p72
+aVLandry Fields NYK 04/03/2011 NYK vs. CLE W 19 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 2 3 0 3 1 -8
+p73
+aVCarmelo Anthony NYK 04/03/2011 NYK vs. CLE W 35 25 8 18 44.4 0 4 0.0 9 9 100.0 1 4 5 3 2 1 1 2 0
+p74
+aVAmar'e Stoudemire NYK 04/03/2011 NYK vs. CLE W 39 28 9 20 45.0 0 0 - 10 12 83.3 2 5 7 0 1 2 2 4 15
+p75
+aVAnthony Carter NYK 04/03/2011 NYK vs. CLE W 19 4 2 4 50.0 0 0 - 0 0 - 1 2 3 4 2 0 0 1 15
+p76
+aVChauncey Billups NYK 04/03/2011 NYK vs. CLE W 33 23 7 12 58.3 3 7 42.9 6 6 100.0 0 1 1 7 2 0 2 1 4
+p77
+aVShawne Williams NYK 04/03/2011 NYK vs. CLE W 12 8 3 4 75.0 2 2 100.0 0 0 - 1 2 3 0 0 0 1 4 2
+p78
+aVJared Jeffries NYK 04/03/2011 NYK vs. CLE W 26 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 2 0 0 26
+p79
+aVToney Douglas NYK 04/03/2011 NYK vs. CLE W 25 11 4 10 40.0 3 6 50.0 0 0 - 1 2 3 6 2 0 0 2 21
+p80
+aVToney Douglas NYK 03/30/2011 NYK vs. NJN W 24 7 2 8 25.0 1 4 25.0 2 2 100.0 1 4 5 1 0 0 1 3 0
+p81
+aVCarmelo Anthony NYK 03/30/2011 NYK vs. NJN W 41 39 15 26 57.7 3 4 75.0 6 6 100.0 4 6 10 5 0 0 2 3 14
+p82
+aVHenry Walker NYK 03/30/2011 NYK vs. NJN W 10 2 1 3 33.3 0 1 0.0 0 2 0.0 0 0 0 0 0 0 0 1 -13
+p83
+aVShawne Williams NYK 03/30/2011 NYK vs. NJN W 24 4 2 6 33.3 0 3 0.0 0 0 - 1 3 4 2 2 0 0 2 4
+p84
+aVShelden Williams NYK 03/30/2011 NYK vs. NJN W 17 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 1
+p85
+aVChauncey Billups NYK 03/30/2011 NYK vs. NJN W 36 33 10 23 43.5 3 9 33.3 10 10 100.0 1 5 6 6 1 0 0 2 14
+p86
+aVLandry Fields NYK 03/30/2011 NYK vs. NJN W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p87
+aVAmar'e Stoudemire NYK 03/30/2011 NYK vs. NJN W 31 23 10 15 66.7 0 0 - 3 6 50.0 0 1 1 3 0 2 0 5 -4
+p88
+aVAnthony Carter NYK 03/30/2011 NYK vs. NJN W 18 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 5 1 0 2 3 3
+p89
+aVJared Jeffries NYK 03/30/2011 NYK vs. NJN W 25 0 0 1 0.0 0 0 - 0 0 - 1 5 6 2 4 1 0 3 7
+p90
+aVAmar'e Stoudemire NYK 03/28/2011 NYK vs. ORL W 44 20 6 10 60.0 0 0 - 8 10 80.0 3 6 9 3 2 0 4 2 13
+p91
+aVJared Jeffries NYK 03/28/2011 NYK vs. ORL W 22 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 4 0
+p92
+aVShelden Williams NYK 03/28/2011 NYK vs. ORL W 16 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 2 0 1 6 7
+p93
+aVAnthony Carter NYK 03/28/2011 NYK vs. ORL W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 4 -2
+p94
+aVChauncey Billups NYK 03/28/2011 NYK vs. ORL W 33 17 4 10 40.0 3 9 33.3 6 8 75.0 0 6 6 6 0 0 0 1 4
+p95
+aVHenry Walker NYK 03/28/2011 NYK vs. ORL W 14 6 2 5 40.0 2 4 50.0 0 0 - 2 1 3 1 2 0 2 3 7
+p96
+aVShawne Williams NYK 03/28/2011 NYK vs. ORL W 17 8 2 6 33.3 2 4 50.0 2 2 100.0 1 2 3 0 1 0 0 3 -10
+p97
+aVLandry Fields NYK 03/28/2011 NYK vs. ORL W 25 3 1 3 33.3 0 2 0.0 1 2 50.0 0 4 4 1 1 0 3 3 -8
+p98
+aVToney Douglas NYK 03/28/2011 NYK vs. ORL W 37 16 6 17 35.3 3 10 30.0 1 2 50.0 0 4 4 2 0 0 1 1 20
+p99
+aVCarmelo Anthony NYK 03/28/2011 NYK vs. ORL W 43 39 12 26 46.2 2 6 33.3 13 17 76.5 3 7 10 2 1 0 3 4 4
+p100
+aVCarmelo Anthony NYK 03/26/2011 NYK @ CHA L 41 36 13 25 52.0 3 10 30.0 7 8 87.5 1 3 4 1 1 2 3 4 4
+p101
+aVLandry Fields NYK 03/26/2011 NYK @ CHA L 34 16 3 8 37.5 1 3 33.3 9 12 75.0 1 5 6 0 0 0 1 3 -1
+p102
+aVRoger Mason Jr. NYK 03/26/2011 NYK @ CHA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p103
+aVShawne Williams NYK 03/26/2011 NYK @ CHA L 24 7 2 8 25.0 0 3 0.0 3 3 100.0 1 3 4 0 0 2 0 2 -10
+p104
+aVToney Douglas NYK 03/26/2011 NYK @ CHA L 15 5 2 8 25.0 1 3 33.3 0 0 - 2 2 4 2 0 1 0 3 -12
+p105
+aVAnthony Carter NYK 03/26/2011 NYK @ CHA L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 0 -9
+p106
+aVJared Jeffries NYK 03/26/2011 NYK @ CHA L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p107
+aVHenry Walker NYK 03/26/2011 NYK @ CHA L 7 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p108
+aVAmar'e Stoudemire NYK 03/26/2011 NYK @ CHA L 39 14 4 13 30.8 0 0 - 6 7 85.7 3 3 6 3 0 4 2 3 -9
+p109
+aVChauncey Billups NYK 03/26/2011 NYK @ CHA L 35 14 6 16 37.5 1 6 16.7 1 1 100.0 0 1 1 10 0 1 0 2 3
+p110
+aVShelden Williams NYK 03/26/2011 NYK @ CHA L 25 10 3 3 100.0 0 0 - 4 4 100.0 2 7 9 1 1 1 0 5 6
+p111
+aVShawne Williams NYK 03/25/2011 NYK vs. MIL L 22 2 1 6 16.7 0 4 0.0 0 0 - 1 4 5 0 1 0 0 2 11
+p112
+aVRoger Mason Jr. NYK 03/25/2011 NYK vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p113
+aVLandry Fields NYK 03/25/2011 NYK vs. MIL L 22 7 3 5 60.0 0 1 0.0 1 2 50.0 1 4 5 1 0 0 1 1 -3
+p114
+aVShelden Williams NYK 03/25/2011 NYK vs. MIL L 12 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 1 1 2 -4
+p115
+aVAnthony Carter NYK 03/25/2011 NYK vs. MIL L 18 7 2 3 66.7 1 2 50.0 2 2 100.0 0 4 4 2 0 1 2 0 10
+p116
+aVToney Douglas NYK 03/25/2011 NYK vs. MIL L 35 16 6 17 35.3 2 6 33.3 2 2 100.0 2 2 4 2 1 0 1 5 3
+p117
+aVAmar'e Stoudemire NYK 03/25/2011 NYK vs. MIL L 39 28 10 20 50.0 0 0 - 8 10 80.0 6 3 9 2 1 1 2 3 -7
+p118
+aVChauncey Billups NYK 03/25/2011 NYK vs. MIL L 34 7 3 11 27.3 1 5 20.0 0 0 - 0 1 1 4 0 0 1 3 -14
+p119
+aVRonny Turiaf NYK 03/25/2011 NYK vs. MIL L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -12
+p120
+aVJared Jeffries NYK 03/25/2011 NYK vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p121
+aVCarmelo Anthony NYK 03/25/2011 NYK vs. MIL L 38 25 9 22 40.9 0 1 0.0 7 7 100.0 3 5 8 2 1 0 1 1 -12
+p122
+aVChauncey Billups NYK 03/23/2011 NYK vs. ORL L 34 17 5 12 41.7 3 8 37.5 4 4 100.0 0 2 2 3 0 0 2 3 -9
+p123
+aVRoger Mason Jr. NYK 03/23/2011 NYK vs. ORL L 15 8 2 5 40.0 2 3 66.7 2 2 100.0 0 2 2 0 0 0 0 0 -4
+p124
+aVRonny Turiaf NYK 03/23/2011 NYK vs. ORL L 19 9 4 5 80.0 0 0 - 1 2 50.0 0 1 1 2 2 0 1 3 0
+p125
+aVCarmelo Anthony NYK 03/23/2011 NYK vs. ORL L 38 24 6 12 50.0 2 3 66.7 10 11 90.9 1 4 5 9 2 0 3 3 -5
+p126
+aVJared Jeffries NYK 03/23/2011 NYK vs. ORL L 13 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -2
+p127
+aVShawne Williams NYK 03/23/2011 NYK vs. ORL L 25 6 2 7 28.6 1 4 25.0 1 2 50.0 3 3 6 0 1 3 1 2 -7
+p128
+aVAmar'e Stoudemire NYK 03/23/2011 NYK vs. ORL L 40 13 6 20 30.0 0 0 - 1 3 33.3 4 3 7 2 1 2 1 5 -15
+p129
+aVToney Douglas NYK 03/23/2011 NYK vs. ORL L 29 17 7 14 50.0 3 6 50.0 0 0 - 1 4 5 1 0 0 1 4 -7
+p130
+aVLandry Fields NYK 03/23/2011 NYK vs. ORL L 29 5 2 7 28.6 1 4 25.0 0 0 - 0 4 4 2 0 0 1 0 -11
+p131
+aVAmar'e Stoudemire NYK 03/21/2011 NYK vs. BOS L 35 16 7 15 46.7 0 0 - 2 4 50.0 2 9 11 1 1 1 3 3 -17
+p132
+aVShawne Williams NYK 03/21/2011 NYK vs. BOS L 25 0 0 3 0.0 0 2 0.0 0 0 - 1 4 5 2 1 1 1 3 -1
+p133
+aVCarmelo Anthony NYK 03/21/2011 NYK vs. BOS L 37 22 7 17 41.2 1 2 50.0 7 8 87.5 1 4 5 3 1 0 2 5 -3
+p134
+aVLandry Fields NYK 03/21/2011 NYK vs. BOS L 35 4 1 6 16.7 0 2 0.0 2 2 100.0 2 4 6 3 0 0 0 2 -21
+p135
+aVJared Jeffries NYK 03/21/2011 NYK vs. BOS L 16 1 0 1 0.0 0 1 0.0 1 2 50.0 2 2 4 0 0 0 0 1 -3
+p136
+aVRonny Turiaf NYK 03/21/2011 NYK vs. BOS L 27 11 5 7 71.4 0 0 - 1 2 50.0 0 2 2 2 1 4 0 3 1
+p137
+aVRoger Mason Jr. NYK 03/21/2011 NYK vs. BOS L 10 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 2 0 0 0 2 11
+p138
+aVToney Douglas NYK 03/21/2011 NYK vs. BOS L 20 5 2 7 28.6 0 4 0.0 1 2 50.0 1 0 1 4 1 0 2 1 0
+p139
+aVChauncey Billups NYK 03/21/2011 NYK vs. BOS L 35 21 6 15 40.0 4 9 44.4 5 5 100.0 0 3 3 3 1 0 5 3 -17
+p140
+aVCarmelo Anthony NYK 03/20/2011 NYK @ MIL L 37 23 7 14 50.0 2 3 66.7 7 8 87.5 0 5 5 1 1 0 2 5 -11
+p141
+aVShelden Williams NYK 03/20/2011 NYK @ MIL L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -12
+p142
+aVAmar'e Stoudemire NYK 03/20/2011 NYK @ MIL L 40 25 11 28 39.3 0 1 0.0 3 3 100.0 6 5 11 3 0 0 1 2 4
+p143
+aVLandry Fields NYK 03/20/2011 NYK @ MIL L 21 13 5 11 45.5 3 6 50.0 0 0 - 0 5 5 0 0 0 0 2 -4
+p144
+aVToney Douglas NYK 03/20/2011 NYK @ MIL L 29 7 3 13 23.1 1 3 33.3 0 0 - 0 2 2 9 2 0 1 2 -5
+p145
+aVRoger Mason Jr. NYK 03/20/2011 NYK @ MIL L 16 1 0 2 0.0 0 2 0.0 1 1 100.0 0 0 0 2 0 0 0 0 9
+p146
+aVShawne Williams NYK 03/20/2011 NYK @ MIL L 28 5 2 5 40.0 1 3 33.3 0 0 - 2 5 7 1 1 0 0 3 5
+p147
+aVJared Jeffries NYK 03/20/2011 NYK @ MIL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -9
+p148
+aVRonny Turiaf NYK 03/20/2011 NYK @ MIL L 25 0 0 0 - 0 0 - 0 0 - 0 6 6 1 1 1 0 2 10
+p149
+aVChauncey Billups NYK 03/20/2011 NYK @ MIL L 31 21 6 13 46.2 2 4 50.0 7 10 70.0 0 2 2 4 0 0 1 6 -12
+p150
+aVLandry Fields NYK 03/18/2011 NYK @ DET L 21 9 4 8 50.0 1 3 33.3 0 0 - 1 3 4 1 1 0 0 2 -5
+p151
+aVShawne Williams NYK 03/18/2011 NYK @ DET L 27 17 6 11 54.5 4 9 44.4 1 2 50.0 1 8 9 1 0 1 1 1 -1
+p152
+aVRoger Mason Jr. NYK 03/18/2011 NYK @ DET L 16 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 3 1
+p153
+aVChauncey Billups NYK 03/18/2011 NYK @ DET L 31 12 4 10 40.0 2 7 28.6 2 2 100.0 4 1 5 4 1 0 8 1 -3
+p154
+aVToney Douglas NYK 03/18/2011 NYK @ DET L 33 20 8 14 57.1 4 8 50.0 0 0 - 0 5 5 11 0 0 2 2 2
+p155
+aVCarmelo Anthony NYK 03/18/2011 NYK @ DET L 37 6 2 12 16.7 0 2 0.0 2 2 100.0 1 3 4 2 2 1 1 4 -4
+p156
+aVRonny Turiaf NYK 03/18/2011 NYK @ DET L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p157
+aVJared Jeffries NYK 03/18/2011 NYK @ DET L 23 4 2 5 40.0 0 0 - 0 0 - 2 1 3 3 2 1 1 1 -5
+p158
+aVAmar'e Stoudemire NYK 03/18/2011 NYK @ DET L 42 20 8 16 50.0 0 0 - 4 5 80.0 4 8 12 0 0 1 5 3 -3
+p159
+aVRoger Mason Jr. NYK 03/17/2011 NYK vs. MEM W 19 6 2 4 50.0 2 4 50.0 0 0 - 0 4 4 1 0 0 0 0 8
+p160
+aVJared Jeffries NYK 03/17/2011 NYK vs. MEM W 31 5 2 2 100.0 0 0 - 1 3 33.3 2 4 6 2 2 1 0 2 12
+p161
+aVChauncey Billups NYK 03/17/2011 NYK vs. MEM W 29 18 5 9 55.6 2 4 50.0 6 6 100.0 0 0 0 8 2 0 1 5 13
+p162
+aVCarmelo Anthony NYK 03/17/2011 NYK vs. MEM W 34 28 10 19 52.6 3 7 42.9 5 5 100.0 2 1 3 2 0 0 2 1 18
+p163
+aVLandry Fields NYK 03/17/2011 NYK vs. MEM W 26 8 3 10 30.0 2 4 50.0 0 0 - 0 3 3 2 0 0 1 2 12
+p164
+aVShawne Williams NYK 03/17/2011 NYK vs. MEM W 20 9 3 9 33.3 2 5 40.0 1 1 100.0 0 6 6 1 1 0 2 1 9
+p165
+aVRonny Turiaf NYK 03/17/2011 NYK vs. MEM W 13 1 0 0 - 0 0 - 1 2 50.0 0 2 2 3 0 2 2 3 5
+p166
+aVAmar'e Stoudemire NYK 03/17/2011 NYK vs. MEM W 37 16 6 12 50.0 0 0 - 4 4 100.0 2 7 9 3 0 0 1 5 10
+p167
+aVToney Douglas NYK 03/17/2011 NYK vs. MEM W 31 29 10 14 71.4 9 12 75.0 0 0 - 0 2 2 3 0 0 1 1 18
+p168
+aVRonny Turiaf NYK 03/15/2011 NYK @ IND L 8 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 2 1
+p169
+aVHenry Walker NYK 03/15/2011 NYK @ IND L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -4
+p170
+aVChauncey Billups NYK 03/15/2011 NYK @ IND L 31 14 5 11 45.5 0 4 0.0 4 4 100.0 0 0 0 5 2 0 3 2 -20
+p171
+aVJared Jeffries NYK 03/15/2011 NYK @ IND L 25 4 2 5 40.0 0 1 0.0 0 1 0.0 3 3 6 0 2 2 1 1 3
+p172
+aVShawne Williams NYK 03/15/2011 NYK @ IND L 34 10 4 7 57.1 2 3 66.7 0 0 - 2 4 6 1 1 0 0 3 13
+p173
+aVLandry Fields NYK 03/15/2011 NYK @ IND L 30 17 5 10 50.0 3 5 60.0 4 6 66.7 2 1 3 5 2 0 2 2 2
+p174
+aVToney Douglas NYK 03/15/2011 NYK @ IND L 29 17 5 11 45.5 4 6 66.7 3 3 100.0 1 2 3 4 2 0 1 2 8
+p175
+aVRoger Mason Jr. NYK 03/15/2011 NYK @ IND L 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 2 1
+p176
+aVCarmelo Anthony NYK 03/15/2011 NYK @ IND L 36 29 10 20 50.0 3 5 60.0 6 7 85.7 2 7 9 2 0 0 4 4 -9
+p177
+aVAmar'e Stoudemire NYK 03/15/2011 NYK @ IND L 34 21 7 17 41.2 0 0 - 7 9 77.8 1 9 10 1 0 2 2 5 -5
+p178
+aVJared Jeffries NYK 03/13/2011 NYK vs. IND L 20 0 0 3 0.0 0 0 - 0 2 0.0 2 3 5 0 0 0 0 3 -10
+p179
+aVLandry Fields NYK 03/13/2011 NYK vs. IND L 23 5 1 3 33.3 0 0 - 3 4 75.0 1 4 5 1 0 0 1 0 -13
+p180
+aVRonny Turiaf NYK 03/13/2011 NYK vs. IND L 19 4 1 1 100.0 0 0 - 2 4 50.0 2 1 3 0 0 2 1 3 2
+p181
+aVRoger Mason Jr. NYK 03/13/2011 NYK vs. IND L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 0 -7
+p182
+aVToney Douglas NYK 03/13/2011 NYK vs. IND L 27 3 1 12 8.3 1 8 12.5 0 0 - 4 1 5 3 0 0 1 5 -5
+p183
+aVCarmelo Anthony NYK 03/13/2011 NYK vs. IND L 36 25 9 22 40.9 1 5 20.0 6 6 100.0 0 5 5 0 1 0 5 5 -19
+p184
+aVShawne Williams NYK 03/13/2011 NYK vs. IND L 30 13 4 7 57.1 3 6 50.0 2 2 100.0 2 2 4 1 2 1 0 2 -4
+p185
+aVAmar'e Stoudemire NYK 03/13/2011 NYK vs. IND L 34 28 8 15 53.3 0 0 - 12 14 85.7 1 5 6 2 0 0 3 5 0
+p186
+aVChauncey Billups NYK 03/13/2011 NYK vs. IND L 35 9 4 14 28.6 0 7 0.0 1 2 50.0 3 3 6 4 1 0 4 2 -16
+p187
+aVHenry Walker NYK 03/13/2011 NYK vs. IND L 6 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 0 7
+p188
+aVShawne Williams NYK 03/10/2011 NYK @ DAL L 27 14 3 7 42.9 2 4 50.0 6 7 85.7 0 1 1 2 0 2 1 5 -2
+p189
+aVCarmelo Anthony NYK 03/10/2011 NYK @ DAL L 36 18 5 15 33.3 1 3 33.3 7 7 100.0 2 8 10 5 0 1 2 4 -11
+p190
+aVRonny Turiaf NYK 03/10/2011 NYK @ DAL L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -17
+p191
+aVHenry Walker NYK 03/10/2011 NYK @ DAL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -6
+p192
+aVAmar'e Stoudemire NYK 03/10/2011 NYK @ DAL L 38 36 12 27 44.4 0 0 - 12 13 92.3 3 4 7 1 1 1 3 2 -23
+p193
+aVRoger Mason Jr. NYK 03/10/2011 NYK @ DAL L 19 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -9
+p194
+aVLandry Fields NYK 03/10/2011 NYK @ DAL L 31 19 6 9 66.7 1 3 33.3 6 6 100.0 2 4 6 1 4 0 1 0 -7
+p195
+aVToney Douglas NYK 03/10/2011 NYK @ DAL L 38 18 6 12 50.0 2 6 33.3 4 4 100.0 0 3 3 8 0 0 0 2 -8
+p196
+aVJared Jeffries NYK 03/10/2011 NYK @ DAL L 24 2 1 4 25.0 0 0 - 0 0 - 3 1 4 1 1 1 3 4 3
+p197
+aVAnthony Carter NYK 03/10/2011 NYK @ DAL L 10 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -10
+p198
+aVToney Douglas NYK 03/09/2011 NYK @ MEM W 35 18 7 14 50.0 4 8 50.0 0 0 - 0 1 1 10 1 0 3 2 6
+p199
+aVCarmelo Anthony NYK 03/09/2011 NYK @ MEM W 40 31 12 24 50.0 3 5 60.0 4 4 100.0 2 3 5 6 1 0 2 4 11
+p200
+aVAmar'e Stoudemire NYK 03/09/2011 NYK @ MEM W 41 26 13 22 59.1 0 0 - 0 0 - 1 5 6 3 2 0 6 2 3
+p201
+aVRonny Turiaf NYK 03/09/2011 NYK @ MEM W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -4
+p202
+aVLandry Fields NYK 03/09/2011 NYK @ MEM W 37 16 7 8 87.5 2 3 66.7 0 0 - 1 5 6 6 0 0 2 3 2
+p203
+aVJared Jeffries NYK 03/09/2011 NYK @ MEM W 21 2 1 3 33.3 0 0 - 0 0 - 2 0 2 3 0 2 2 4 2
+p204
+aVShawne Williams NYK 03/09/2011 NYK @ MEM W 22 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 2 0 2 0 5 5
+p205
+aVAnthony Carter NYK 03/09/2011 NYK @ MEM W 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -4
+p206
+aVRoger Mason Jr. NYK 03/09/2011 NYK @ MEM W 21 10 4 7 57.1 2 4 50.0 0 0 - 1 2 3 0 2 0 0 3 -11
+p207
+aVAnthony Carter NYK 03/07/2011 NYK vs. UTA W 19 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 5 3 0 3 3 4
+p208
+aVAndy Rautins NYK 03/07/2011 NYK vs. UTA W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 3 0 -6
+p209
+aVRoger Mason Jr. NYK 03/07/2011 NYK vs. UTA W 25 9 3 6 50.0 2 4 50.0 1 2 50.0 0 4 4 2 3 0 1 3 -4
+p210
+aVLandry Fields NYK 03/07/2011 NYK vs. UTA W 23 6 2 6 33.3 0 1 0.0 2 2 100.0 1 3 4 2 0 0 0 1 26
+p211
+aVDerrick Brown NYK 03/07/2011 NYK vs. UTA W 12 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p212
+aVShawne Williams NYK 03/07/2011 NYK vs. UTA W 22 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 1 1 0 0 2 -3
+p213
+aVCarmelo Anthony NYK 03/07/2011 NYK vs. UTA W 30 34 12 16 75.0 4 5 80.0 6 6 100.0 0 3 3 5 1 0 2 2 30
+p214
+aVRenaldo Balkman NYK 03/07/2011 NYK vs. UTA W 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p215
+aVAmar'e Stoudemire NYK 03/07/2011 NYK vs. UTA W 24 31 12 15 80.0 0 0 - 7 7 100.0 1 3 4 0 0 3 3 4 28
+p216
+aVToney Douglas NYK 03/07/2011 NYK vs. UTA W 23 20 6 9 66.7 5 7 71.4 3 4 75.0 0 3 3 6 0 0 1 3 24
+p217
+aVShelden Williams NYK 03/07/2011 NYK vs. UTA W 25 13 3 8 37.5 0 0 - 7 8 87.5 2 3 5 7 1 1 1 3 -5
+p218
+aVJared Jeffries NYK 03/07/2011 NYK vs. UTA W 23 0 0 2 0.0 0 0 - 0 0 - 3 3 6 3 1 1 0 1 27
+p219
+aVShawne Williams NYK 03/06/2011 NYK @ ATL W 28 12 4 8 50.0 4 6 66.7 0 0 - 2 4 6 0 2 1 1 0 11
+p220
+aVRoger Mason Jr. NYK 03/06/2011 NYK @ ATL W 25 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 0 0 2 0 1 15
+p221
+aVShelden Williams NYK 03/06/2011 NYK @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p222
+aVAmar'e Stoudemire NYK 03/06/2011 NYK @ ATL W 40 26 10 20 50.0 0 0 - 6 6 100.0 2 5 7 2 3 1 2 2 7
+p223
+aVLandry Fields NYK 03/06/2011 NYK @ ATL W 39 15 6 11 54.5 2 4 50.0 1 2 50.0 0 4 4 4 2 0 0 1 8
+p224
+aVAnthony Carter NYK 03/06/2011 NYK @ ATL W 15 10 4 5 80.0 2 3 66.7 0 0 - 1 1 2 1 1 0 2 1 1
+p225
+aVToney Douglas NYK 03/06/2011 NYK @ ATL W 33 10 4 9 44.4 1 4 25.0 1 2 50.0 0 5 5 7 1 0 2 1 12
+p226
+aVCarmelo Anthony NYK 03/06/2011 NYK @ ATL W 31 14 6 18 33.3 0 3 0.0 2 5 40.0 1 6 7 7 1 0 5 3 5
+p227
+aVJared Jeffries NYK 03/06/2011 NYK @ ATL W 27 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 2 0 1 3 11
+p228
+aVAnthony Carter NYK 03/04/2011 NYK vs. CLE L 22 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 0 0 1 1 4 0
+p229
+aVJared Jeffries NYK 03/04/2011 NYK vs. CLE L 26 1 0 0 - 0 0 - 1 2 50.0 3 1 4 2 2 1 1 6 7
+p230
+aVLandry Fields NYK 03/04/2011 NYK vs. CLE L 35 17 6 8 75.0 3 4 75.0 2 2 100.0 0 6 6 0 1 0 1 0 14
+p231
+aVShawne Williams NYK 03/04/2011 NYK vs. CLE L 24 2 1 7 14.3 0 3 0.0 0 0 - 2 1 3 1 0 4 0 3 -13
+p232
+aVToney Douglas NYK 03/04/2011 NYK vs. CLE L 32 11 5 9 55.6 1 4 25.0 0 0 - 0 5 5 5 0 0 2 4 -4
+p233
+aVCarmelo Anthony NYK 03/04/2011 NYK vs. CLE L 42 29 10 16 62.5 1 2 50.0 8 10 80.0 1 4 5 2 1 1 6 4 -11
+p234
+aVAmar'e Stoudemire NYK 03/04/2011 NYK vs. CLE L 39 41 16 32 50.0 1 2 50.0 8 10 80.0 4 5 9 3 0 1 5 4 -7
+p235
+aVShelden Williams NYK 03/04/2011 NYK vs. CLE L 12 6 1 1 100.0 0 0 - 4 6 66.7 3 1 4 0 0 1 0 3 -1
+p236
+aVHenry Walker NYK 03/04/2011 NYK vs. CLE L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -5
+p237
+aVToney Douglas NYK 03/02/2011 NYK vs. NOH W 32 24 10 13 76.9 4 6 66.7 0 0 - 0 4 4 5 1 0 3 2 13
+p238
+aVAnthony Carter NYK 03/02/2011 NYK vs. NOH W 18 4 2 3 66.7 0 1 0.0 0 0 - 2 5 7 2 2 0 4 2 6
+p239
+aVHenry Walker NYK 03/02/2011 NYK vs. NOH W 17 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 0 0 0 0 3 12
+p240
+aVJared Jeffries NYK 03/02/2011 NYK vs. NOH W 24 0 0 1 0.0 0 0 - 0 0 - 4 2 6 1 0 0 3 3 -2
+p241
+aVLandry Fields NYK 03/02/2011 NYK vs. NOH W 28 10 3 8 37.5 1 4 25.0 3 4 75.0 1 2 3 4 0 0 0 1 3
+p242
+aVCarmelo Anthony NYK 03/02/2011 NYK vs. NOH W 29 22 8 18 44.4 0 1 0.0 6 9 66.7 0 4 4 4 1 0 1 2 18
+p243
+aVRonny Turiaf NYK 03/02/2011 NYK vs. NOH W 18 2 1 1 100.0 0 0 - 0 0 - 0 1 1 4 2 1 0 2 8
+p244
+aVAmar'e Stoudemire NYK 03/02/2011 NYK vs. NOH W 35 24 10 19 52.6 0 0 - 4 7 57.1 2 5 7 4 0 0 4 2 21
+p245
+aVRoger Mason Jr. NYK 03/02/2011 NYK vs. NOH W 4 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 1
+p246
+aVShelden Williams NYK 03/02/2011 NYK vs. NOH W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p247
+aVDerrick Brown NYK 03/02/2011 NYK vs. NOH W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p248
+aVShawne Williams NYK 03/02/2011 NYK vs. NOH W 28 16 6 8 75.0 4 6 66.7 0 0 - 0 4 4 2 0 1 1 3 12
+p249
+aVShelden Williams NYK 03/01/2011 NYK @ ORL L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p250
+aVAmar'e Stoudemire NYK 03/01/2011 NYK @ ORL L 38 30 10 17 58.8 0 0 - 10 14 71.4 2 0 2 1 1 0 2 4 -1
+p251
+aVToney Douglas NYK 03/01/2011 NYK @ ORL L 19 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 1 1 0 2 3 -16
+p252
+aVRonny Turiaf NYK 03/01/2011 NYK @ ORL L 13 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 1 0 1 0 3 0
+p253
+aVHenry Walker NYK 03/01/2011 NYK @ ORL L 11 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 3 1
+p254
+aVCarmelo Anthony NYK 03/01/2011 NYK @ ORL L 38 25 8 24 33.3 1 5 20.0 8 8 100.0 3 1 4 2 0 0 1 3 -11
+p255
+aVAnthony Carter NYK 03/01/2011 NYK @ ORL L 17 2 0 3 0.0 0 2 0.0 2 2 100.0 0 3 3 2 2 0 0 2 4
+p256
+aVShawne Williams NYK 03/01/2011 NYK @ ORL L 31 8 4 9 44.4 0 3 0.0 0 0 - 1 5 6 1 1 1 1 4 -17
+p257
+aVChauncey Billups NYK 03/01/2011 NYK @ ORL L 34 30 4 12 33.3 4 9 44.4 18 20 90.0 2 4 6 6 3 0 1 4 2
+p258
+aVLandry Fields NYK 03/01/2011 NYK @ ORL L 35 6 2 6 33.3 1 5 20.0 1 1 100.0 1 10 11 1 1 0 0 2 9
+p259
+aVRenaldo Balkman NYK 02/27/2011 NYK @ MIA W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -4
+p260
+aVToney Douglas NYK 02/27/2011 NYK @ MIA W 15 5 1 7 14.3 1 5 20.0 2 2 100.0 1 0 1 3 1 0 1 1 0
+p261
+aVCarmelo Anthony NYK 02/27/2011 NYK @ MIA W 37 29 10 22 45.5 1 4 25.0 8 9 88.9 3 6 9 2 1 1 3 2 11
+p262
+aVAnthony Carter NYK 02/27/2011 NYK @ MIA W 19 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 2 0 1 1 1 -4
+p263
+aVHenry Walker NYK 02/27/2011 NYK @ MIA W 25 10 3 7 42.9 2 6 33.3 2 2 100.0 0 7 7 1 1 0 2 0 22
+p264
+aVRonny Turiaf NYK 02/27/2011 NYK @ MIA W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -10
+p265
+aVLandry Fields NYK 02/27/2011 NYK @ MIA W 27 5 1 8 12.5 1 4 25.0 2 2 100.0 1 5 6 0 0 0 1 0 -3
+p266
+aVAmar'e Stoudemire NYK 02/27/2011 NYK @ MIA W 40 16 8 14 57.1 0 0 - 0 0 - 2 8 10 3 0 1 2 4 4
+p267
+aVShawne Williams NYK 02/27/2011 NYK @ MIA W 28 6 1 4 25.0 0 2 0.0 4 4 100.0 0 3 3 4 0 1 0 4 4
+p268
+aVChauncey Billups NYK 02/27/2011 NYK @ MIA W 34 16 5 11 45.5 3 7 42.9 3 4 75.0 0 4 4 2 2 0 5 3 5
+p269
+aVRonny Turiaf NYK 02/25/2011 NYK @ CLE L 26 2 1 4 25.0 0 0 - 0 1 0.0 3 2 5 1 0 2 0 2 -14
+p270
+aVChauncey Billups NYK 02/25/2011 NYK @ CLE L 29 26 6 14 42.9 2 5 40.0 12 14 85.7 0 3 3 8 0 0 2 4 9
+p271
+aVHenry Walker NYK 02/25/2011 NYK @ CLE L 13 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 1 0 0 1 2 1
+p272
+aVToney Douglas NYK 02/25/2011 NYK @ CLE L 30 2 1 8 12.5 0 4 0.0 0 0 - 1 3 4 4 2 0 1 4 -13
+p273
+aVShawne Williams NYK 02/25/2011 NYK @ CLE L 22 2 1 6 16.7 0 3 0.0 0 0 - 2 2 4 0 2 2 1 4 -2
+p274
+aVCarmelo Anthony NYK 02/25/2011 NYK @ CLE L 39 27 9 22 40.9 2 3 66.7 7 9 77.8 2 6 8 3 0 0 3 6 -6
+p275
+aVLandry Fields NYK 02/25/2011 NYK @ CLE L 31 11 4 7 57.1 3 3 100.0 0 0 - 0 3 3 2 1 0 2 2 -9
+p276
+aVAmar'e Stoudemire NYK 02/25/2011 NYK @ CLE L 42 31 14 27 51.9 0 1 0.0 3 5 60.0 5 6 11 3 3 5 3 3 -11
+p277
+aVRenaldo Balkman NYK 02/25/2011 NYK @ CLE L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 15
+p278
+aVChauncey Billups NYK 02/23/2011 NYK vs. MIL W 33 21 4 12 33.3 1 6 16.7 12 12 100.0 0 6 6 8 2 0 2 2 7
+p279
+aVHenry Walker NYK 02/23/2011 NYK vs. MIL W 17 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 2 0 0 0 1 3
+p280
+aVShawne Williams NYK 02/23/2011 NYK vs. MIL W 25 8 3 5 60.0 1 3 33.3 1 2 50.0 2 4 6 0 1 2 2 5 1
+p281
+aVRonny Turiaf NYK 02/23/2011 NYK vs. MIL W 20 6 3 3 100.0 0 0 - 0 0 - 0 5 5 1 0 1 0 3 3
+p282
+aVAmar'e Stoudemire NYK 02/23/2011 NYK vs. MIL W 34 19 6 13 46.2 0 0 - 7 7 100.0 1 4 5 4 1 0 4 6 7
+p283
+aVLandry Fields NYK 02/23/2011 NYK vs. MIL W 43 7 3 6 50.0 1 3 33.3 0 0 - 0 6 6 1 1 0 4 3 0
+p284
+aVToney Douglas NYK 02/23/2011 NYK vs. MIL W 29 23 10 12 83.3 3 5 60.0 0 0 - 2 1 3 3 2 0 3 2 8
+p285
+aVCarmelo Anthony NYK 02/23/2011 NYK vs. MIL W 39 27 10 25 40.0 1 2 50.0 6 7 85.7 3 7 10 1 2 0 2 4 1
+p286
+aVAmar'e Stoudemire NYK 02/16/2011 NYK vs. ATL W 33 23 8 17 47.1 0 0 - 7 8 87.5 1 6 7 3 0 3 5 2 8
+p287
+aVRonny Turiaf NYK 02/16/2011 NYK vs. ATL W 15 4 1 2 50.0 0 0 - 2 2 100.0 2 4 6 1 0 1 1 2 1
+p288
+aVLandry Fields NYK 02/16/2011 NYK vs. ATL W 37 11 4 5 80.0 2 2 100.0 1 2 50.0 0 9 9 5 2 0 1 1 6
+p289
+aVToney Douglas NYK 02/16/2011 NYK vs. ATL W 15 5 1 5 20.0 1 2 50.0 2 3 66.7 1 0 1 3 1 0 0 0 1
+p290
+aVShawne Williams NYK 02/16/2011 NYK vs. ATL W 10 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 0 3
+p291
+aVRaymond Felton NYK 02/16/2011 NYK vs. ATL W 37 13 6 16 37.5 0 2 0.0 1 2 50.0 0 2 2 11 2 1 3 1 12
+p292
+aVHenry Walker NYK 02/16/2011 NYK vs. ATL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p293
+aVDanilo Gallinari NYK 02/16/2011 NYK vs. ATL W 37 17 5 12 41.7 3 8 37.5 4 4 100.0 1 8 9 1 1 0 0 3 13
+p294
+aVTimofey Mozgov NYK 02/16/2011 NYK vs. ATL W 14 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 1 0 1 2
+p295
+aVWilson Chandler NYK 02/16/2011 NYK vs. ATL W 35 20 9 15 60.0 2 6 33.3 0 0 - 0 5 5 0 1 1 2 1 10
+p296
+aVHenry Walker NYK 02/12/2011 NYK @ NJN W 18 11 4 6 66.7 3 4 75.0 0 0 - 1 5 6 2 2 0 1 3 12
+p297
+aVRaymond Felton NYK 02/12/2011 NYK @ NJN W 36 13 4 13 30.8 1 6 16.7 4 4 100.0 0 5 5 11 1 0 6 3 0
+p298
+aVDanilo Gallinari NYK 02/12/2011 NYK @ NJN W 30 7 2 5 40.0 1 2 50.0 2 2 100.0 1 7 8 0 2 0 2 3 0
+p299
+aVRonny Turiaf NYK 02/12/2011 NYK @ NJN W 10 6 1 4 25.0 0 0 - 4 4 100.0 0 2 2 0 1 1 1 4 3
+p300
+aVWilson Chandler NYK 02/12/2011 NYK @ NJN W 42 21 8 21 38.1 3 6 50.0 2 2 100.0 3 5 8 3 1 5 0 2 16
+p301
+aVLandry Fields NYK 02/12/2011 NYK @ NJN W 40 14 5 7 71.4 3 4 75.0 1 2 50.0 1 3 4 5 1 1 0 0 10
+p302
+aVToney Douglas NYK 02/12/2011 NYK @ NJN W 21 19 8 13 61.5 3 6 50.0 0 2 0.0 0 3 3 0 1 0 1 3 6
+p303
+aVTimofey Mozgov NYK 02/12/2011 NYK @ NJN W 20 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 1 1 1 1 5 -5
+p304
+aVShawne Williams NYK 02/12/2011 NYK @ NJN W 24 8 3 11 27.3 2 6 33.3 0 0 - 2 3 5 3 0 0 0 3 8
+p305
+aVAmar'e Stoudemire NYK 02/11/2011 NYK vs. LAL L 32 24 9 20 45.0 0 0 - 6 7 85.7 2 7 9 1 0 2 6 4 -14
+p306
+aVToney Douglas NYK 02/11/2011 NYK vs. LAL L 23 4 1 6 16.7 1 4 25.0 1 2 50.0 1 3 4 6 1 0 0 2 -8
+p307
+aVTimofey Mozgov NYK 02/11/2011 NYK vs. LAL L 29 7 3 9 33.3 0 0 - 1 2 50.0 7 4 11 1 1 0 1 4 2
+p308
+aVWilson Chandler NYK 02/11/2011 NYK vs. LAL L 34 13 5 10 50.0 1 3 33.3 2 2 100.0 0 5 5 4 2 0 2 4 -18
+p309
+aVShawne Williams NYK 02/11/2011 NYK vs. LAL L 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -8
+p310
+aVLandry Fields NYK 02/11/2011 NYK vs. LAL L 30 6 2 6 33.3 0 1 0.0 2 2 100.0 1 5 6 1 0 0 2 2 -17
+p311
+aVAnthony Randolph NYK 02/11/2011 NYK vs. LAL L 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 1 3
+p312
+aVRaymond Felton NYK 02/11/2011 NYK vs. LAL L 34 20 7 12 58.3 3 6 50.0 3 3 100.0 0 1 1 7 3 0 2 2 -14
+p313
+aVDanilo Gallinari NYK 02/11/2011 NYK vs. LAL L 38 14 4 15 26.7 0 6 0.0 6 6 100.0 2 4 6 2 1 0 4 3 -11
+p314
+aVLandry Fields NYK 02/09/2011 NYK vs. LAC L 37 4 2 8 25.0 0 3 0.0 0 0 - 2 4 6 3 1 0 2 0 -19
+p315
+aVToney Douglas NYK 02/09/2011 NYK vs. LAC L 24 12 4 6 66.7 2 4 50.0 2 2 100.0 3 1 4 0 1 0 0 1 16
+p316
+aVWilson Chandler NYK 02/09/2011 NYK vs. LAC L 33 11 5 13 38.5 1 4 25.0 0 0 - 1 2 3 2 1 1 1 4 3
+p317
+aVAmar'e Stoudemire NYK 02/09/2011 NYK vs. LAC L 27 23 10 13 76.9 0 0 - 3 4 75.0 1 4 5 2 1 2 5 4 -9
+p318
+aVRaymond Felton NYK 02/09/2011 NYK vs. LAC L 38 17 7 15 46.7 2 4 50.0 1 1 100.0 0 3 3 12 1 0 3 2 -13
+p319
+aVDanilo Gallinari NYK 02/09/2011 NYK vs. LAC L 41 21 3 13 23.1 1 8 12.5 14 14 100.0 1 4 5 2 1 0 4 3 -9
+p320
+aVShawne Williams NYK 02/09/2011 NYK vs. LAC L 14 2 1 4 25.0 0 3 0.0 0 0 - 1 1 2 0 1 0 0 1 3
+p321
+aVTimofey Mozgov NYK 02/09/2011 NYK vs. LAC L 26 18 8 9 88.9 0 0 - 2 2 100.0 3 3 6 0 1 1 0 1 -12
+p322
+aVAmar'e Stoudemire NYK 02/06/2011 NYK vs. PHI W 36 41 17 21 81.0 0 0 - 7 7 100.0 4 3 7 4 1 4 3 5 11
+p323
+aVToney Douglas NYK 02/06/2011 NYK vs. PHI W 21 10 4 8 50.0 2 3 66.7 0 0 - 2 1 3 2 0 0 3 1 -4
+p324
+aVTimofey Mozgov NYK 02/06/2011 NYK vs. PHI W 30 3 1 3 33.3 0 0 - 1 2 50.0 2 6 8 0 0 3 1 6 8
+p325
+aVShawne Williams NYK 02/06/2011 NYK vs. PHI W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 0 0 6
+p326
+aVRaymond Felton NYK 02/06/2011 NYK vs. PHI W 38 13 5 12 41.7 1 6 16.7 2 2 100.0 1 1 2 13 3 0 4 1 16
+p327
+aVDanilo Gallinari NYK 02/06/2011 NYK vs. PHI W 31 10 3 6 50.0 0 3 0.0 4 6 66.7 0 3 3 5 0 0 1 4 13
+p328
+aVWilson Chandler NYK 02/06/2011 NYK vs. PHI W 28 12 5 12 41.7 2 6 33.3 0 0 - 0 4 4 0 1 0 2 1 7
+p329
+aVLandry Fields NYK 02/06/2011 NYK vs. PHI W 38 25 10 13 76.9 5 7 71.4 0 0 - 1 9 10 1 2 0 3 1 13
+p330
+aVRonny Turiaf NYK 02/04/2011 NYK @ PHI L 18 8 4 5 80.0 0 0 - 0 1 0.0 2 1 3 0 0 1 2 1 -8
+p331
+aVAmar'e Stoudemire NYK 02/04/2011 NYK @ PHI L 38 21 7 19 36.8 0 0 - 7 9 77.8 1 6 7 2 2 0 3 4 3
+p332
+aVWilson Chandler NYK 02/04/2011 NYK @ PHI L 20 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 0 0 0 1 2 -1
+p333
+aVTimofey Mozgov NYK 02/04/2011 NYK @ PHI L 22 9 3 4 75.0 0 0 - 3 4 75.0 5 2 7 0 0 2 0 3 8
+p334
+aVRaymond Felton NYK 02/04/2011 NYK @ PHI L 39 26 11 20 55.0 3 8 37.5 1 3 33.3 0 4 4 9 0 0 2 3 -3
+p335
+aVShawne Williams NYK 02/04/2011 NYK @ PHI L 12 6 2 8 25.0 2 4 50.0 0 0 - 3 1 4 1 0 1 0 0 -7
+p336
+aVToney Douglas NYK 02/04/2011 NYK @ PHI L 13 2 1 6 16.7 0 3 0.0 0 0 - 1 0 1 2 0 0 0 0 -5
+p337
+aVDanilo Gallinari NYK 02/04/2011 NYK @ PHI L 39 18 4 12 33.3 1 4 25.0 9 9 100.0 2 11 13 0 1 0 3 3 3
+p338
+aVHenry Walker NYK 02/04/2011 NYK @ PHI L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p339
+aVLandry Fields NYK 02/04/2011 NYK @ PHI L 36 5 2 5 40.0 1 2 50.0 0 0 - 0 7 7 3 1 1 2 0 7
+p340
+aVRaymond Felton NYK 02/02/2011 NYK vs. DAL L 36 11 4 14 28.6 1 4 25.0 2 2 100.0 0 3 3 9 0 1 0 1 -12
+p341
+aVHenry Walker NYK 02/02/2011 NYK vs. DAL L 15 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 2 0 0 2 -6
+p342
+aVAnthony Randolph NYK 02/02/2011 NYK vs. DAL L 3 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 5
+p343
+aVTimofey Mozgov NYK 02/02/2011 NYK vs. DAL L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p344
+aVDanilo Gallinari NYK 02/02/2011 NYK vs. DAL L 39 27 7 14 50.0 1 5 20.0 12 12 100.0 0 6 6 2 2 1 3 1 -12
+p345
+aVRonny Turiaf NYK 02/02/2011 NYK vs. DAL L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -17
+p346
+aVLandry Fields NYK 02/02/2011 NYK vs. DAL L 31 4 2 11 18.2 0 4 0.0 0 0 - 2 7 9 0 1 0 1 0 -21
+p347
+aVAmar'e Stoudemire NYK 02/02/2011 NYK vs. DAL L 36 21 10 20 50.0 0 0 - 1 2 50.0 1 4 5 4 1 3 1 2 -14
+p348
+aVShawne Williams NYK 02/02/2011 NYK vs. DAL L 24 2 1 5 20.0 0 1 0.0 0 0 - 0 7 7 1 1 1 1 6 4
+p349
+aVToney Douglas NYK 02/02/2011 NYK vs. DAL L 28 22 9 13 69.2 3 6 50.0 1 2 50.0 0 0 0 3 3 0 0 0 -4
+p350
+aVAndy Rautins NYK 02/02/2011 NYK vs. DAL L 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 1 0 3
+p351
+aVAmar'e Stoudemire NYK 01/30/2011 NYK vs. DET W 40 33 11 19 57.9 0 0 - 11 12 91.7 3 3 6 4 1 1 2 0 13
+p352
+aVDanilo Gallinari NYK 01/30/2011 NYK vs. DET W 41 29 7 12 58.3 4 7 57.1 11 11 100.0 3 2 5 1 0 0 0 1 19
+p353
+aVRonny Turiaf NYK 01/30/2011 NYK vs. DET W 8 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 3 0 0 0 4 3
+p354
+aVTimofey Mozgov NYK 01/30/2011 NYK vs. DET W 40 23 9 15 60.0 0 0 - 5 6 83.3 5 9 14 1 0 0 2 4 15
+p355
+aVRaymond Felton NYK 01/30/2011 NYK vs. DET W 37 12 5 13 38.5 1 3 33.3 1 2 50.0 1 2 3 5 2 0 1 1 5
+p356
+aVLandry Fields NYK 01/30/2011 NYK vs. DET W 41 10 3 9 33.3 1 5 20.0 3 4 75.0 0 4 4 3 0 1 0 4 21
+p357
+aVHenry Walker NYK 01/30/2011 NYK vs. DET W 8 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 1 1
+p358
+aVAnthony Randolph NYK 01/30/2011 NYK vs. DET W 9 0 0 1 0.0 0 1 0.0 0 0 - 1 4 5 0 0 1 0 1 5
+p359
+aVToney Douglas NYK 01/30/2011 NYK vs. DET W 17 8 4 8 50.0 0 2 0.0 0 0 - 2 1 3 2 1 0 1 0 8
+p360
+aVAmar'e Stoudemire NYK 01/28/2011 NYK @ ATL L 32 27 9 21 42.9 0 2 0.0 9 9 100.0 1 2 3 1 0 1 3 4 -3
+p361
+aVDanilo Gallinari NYK 01/28/2011 NYK @ ATL L 35 12 4 8 50.0 2 4 50.0 2 2 100.0 1 1 2 4 1 0 1 3 -15
+p362
+aVHenry Walker NYK 01/28/2011 NYK @ ATL L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 0 -2
+p363
+aVLandry Fields NYK 01/28/2011 NYK @ ATL L 37 15 7 9 77.8 1 2 50.0 0 0 - 1 4 5 1 2 0 0 2 -8
+p364
+aVRaymond Felton NYK 01/28/2011 NYK @ ATL L 41 21 9 21 42.9 0 4 0.0 3 3 100.0 1 2 3 13 1 1 2 2 -7
+p365
+aVToney Douglas NYK 01/28/2011 NYK @ ATL L 20 4 2 8 25.0 0 3 0.0 0 0 - 1 1 2 4 0 0 2 3 2
+p366
+aVRonny Turiaf NYK 01/28/2011 NYK @ ATL L 24 8 4 5 80.0 0 0 - 0 0 - 2 5 7 0 1 0 2 2 -2
+p367
+aVShawne Williams NYK 01/28/2011 NYK @ ATL L 43 12 5 13 38.5 2 5 40.0 0 0 - 3 8 11 0 1 1 1 3 -10
+p368
+aVRaymond Felton NYK 01/27/2011 NYK vs. MIA W 37 6 1 6 16.7 0 4 0.0 4 4 100.0 0 3 3 7 2 0 3 2 -1
+p369
+aVHenry Walker NYK 01/27/2011 NYK vs. MIA W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 4
+p370
+aVAmar'e Stoudemire NYK 01/27/2011 NYK vs. MIA W 38 24 10 17 58.8 1 1 100.0 3 4 75.0 2 6 8 4 2 1 1 4 11
+p371
+aVWilson Chandler NYK 01/27/2011 NYK vs. MIA W 29 7 3 14 21.4 1 4 25.0 0 0 - 0 4 4 2 0 0 1 3 -5
+p372
+aVShawne Williams NYK 01/27/2011 NYK vs. MIA W 27 11 4 11 36.4 1 4 25.0 2 2 100.0 2 4 6 0 1 0 0 4 12
+p373
+aVLandry Fields NYK 01/27/2011 NYK vs. MIA W 40 19 6 11 54.5 3 6 50.0 4 4 100.0 5 8 13 6 0 0 2 2 14
+p374
+aVToney Douglas NYK 01/27/2011 NYK vs. MIA W 20 5 1 6 16.7 1 5 20.0 2 2 100.0 2 2 4 3 2 0 2 3 -2
+p375
+aVDanilo Gallinari NYK 01/27/2011 NYK vs. MIA W 31 20 5 15 33.3 3 7 42.9 7 10 70.0 2 2 4 2 0 0 2 2 2
+p376
+aVRonny Turiaf NYK 01/27/2011 NYK vs. MIA W 12 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 2 -10
+p377
+aVShawne Williams NYK 01/24/2011 NYK vs. WAS W 12 9 2 6 33.3 2 5 40.0 3 4 75.0 1 4 5 0 0 0 2 1 0
+p378
+aVAmar'e Stoudemire NYK 01/24/2011 NYK vs. WAS W 39 30 13 23 56.5 0 0 - 4 7 57.1 5 4 9 5 1 2 3 3 10
+p379
+aVWilson Chandler NYK 01/24/2011 NYK vs. WAS W 37 25 9 20 45.0 4 8 50.0 3 4 75.0 2 5 7 1 1 1 0 1 5
+p380
+aVToney Douglas NYK 01/24/2011 NYK vs. WAS W 22 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 3 0 0 0 2 2
+p381
+aVRaymond Felton NYK 01/24/2011 NYK vs. WAS W 39 17 7 14 50.0 1 4 25.0 2 2 100.0 0 2 2 15 4 0 4 1 13
+p382
+aVDanilo Gallinari NYK 01/24/2011 NYK vs. WAS W 36 17 5 13 38.5 1 5 20.0 6 8 75.0 2 2 4 0 0 0 1 3 8
+p383
+aVHenry Walker NYK 01/24/2011 NYK vs. WAS W 8 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -2
+p384
+aVLandry Fields NYK 01/24/2011 NYK vs. WAS W 19 4 2 2 100.0 0 0 - 0 0 - 2 4 6 0 1 0 1 0 -1
+p385
+aVRonny Turiaf NYK 01/24/2011 NYK vs. WAS W 28 7 2 4 50.0 0 0 - 3 4 75.0 1 3 4 0 0 2 0 3 10
+p386
+aVRonny Turiaf NYK 01/22/2011 NYK @ OKC L 27 7 3 3 100.0 0 0 - 1 4 25.0 3 4 7 2 0 2 1 4 -6
+p387
+aVShawne Williams NYK 01/22/2011 NYK @ OKC L 20 2 1 3 33.3 0 0 - 0 0 - 2 5 7 1 1 1 2 3 1
+p388
+aVAmar'e Stoudemire NYK 01/22/2011 NYK @ OKC L 37 18 7 18 38.9 0 0 - 4 6 66.7 2 10 12 4 2 1 2 3 3
+p389
+aVHenry Walker NYK 01/22/2011 NYK @ OKC L 12 12 4 9 44.4 4 9 44.4 0 0 - 0 1 1 0 0 0 0 2 -6
+p390
+aVWilson Chandler NYK 01/22/2011 NYK @ OKC L 18 5 2 8 25.0 0 2 0.0 1 1 100.0 0 1 1 2 0 2 2 3 -5
+p391
+aVToney Douglas NYK 01/22/2011 NYK @ OKC L 30 10 4 10 40.0 1 3 33.3 1 1 100.0 2 4 6 3 3 0 1 2 -3
+p392
+aVRaymond Felton NYK 01/22/2011 NYK @ OKC L 36 10 5 16 31.3 0 4 0.0 0 0 - 0 0 0 7 1 0 3 1 3
+p393
+aVDanilo Gallinari NYK 01/22/2011 NYK @ OKC L 29 23 7 12 58.3 3 5 60.0 6 7 85.7 0 4 4 1 1 2 0 4 -2
+p394
+aVLandry Fields NYK 01/22/2011 NYK @ OKC L 31 11 4 7 57.1 1 3 33.3 2 2 100.0 0 2 2 1 2 1 0 0 0
+p395
+aVDanilo Gallinari NYK 01/21/2011 NYK @ SAS L 33 16 5 13 38.5 0 3 0.0 6 6 100.0 0 2 2 1 2 0 0 3 -12
+p396
+aVAmar'e Stoudemire NYK 01/21/2011 NYK @ SAS L 39 18 8 25 32.0 0 0 - 2 2 100.0 8 7 15 1 4 2 2 4 -13
+p397
+aVHenry Walker NYK 01/21/2011 NYK @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p398
+aVWilson Chandler NYK 01/21/2011 NYK @ SAS L 31 6 3 10 30.0 0 1 0.0 0 0 - 2 3 5 2 0 1 1 3 2
+p399
+aVRonny Turiaf NYK 01/21/2011 NYK @ SAS L 28 10 5 9 55.6 0 0 - 0 0 - 5 5 10 3 0 2 1 3 -11
+p400
+aVLandry Fields NYK 01/21/2011 NYK @ SAS L 25 2 1 3 33.3 0 0 - 0 0 - 0 3 3 3 0 1 2 1 -10
+p401
+aVRaymond Felton NYK 01/21/2011 NYK @ SAS L 38 23 8 21 38.1 3 4 75.0 4 4 100.0 1 3 4 7 1 0 6 1 -6
+p402
+aVToney Douglas NYK 01/21/2011 NYK @ SAS L 31 11 5 14 35.7 1 4 25.0 0 0 - 1 1 2 2 4 0 1 2 1
+p403
+aVShawne Williams NYK 01/21/2011 NYK @ SAS L 10 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 0 4 5
+p404
+aVAmar'e Stoudemire NYK 01/19/2011 NYK @ HOU L 37 25 11 21 52.4 0 0 - 3 6 50.0 0 5 5 1 2 1 5 3 -16
+p405
+aVLandry Fields NYK 01/19/2011 NYK @ HOU L 32 9 3 6 50.0 0 1 0.0 3 3 100.0 1 5 6 1 2 0 1 3 -13
+p406
+aVRonny Turiaf NYK 01/19/2011 NYK @ HOU L 20 4 2 3 66.7 0 0 - 0 0 - 2 4 6 3 1 1 0 1 -1
+p407
+aVWilson Chandler NYK 01/19/2011 NYK @ HOU L 40 10 4 13 30.8 1 6 16.7 1 2 50.0 0 8 8 1 0 2 2 1 -15
+p408
+aVToney Douglas NYK 01/19/2011 NYK @ HOU L 18 13 5 10 50.0 3 6 50.0 0 0 - 1 6 7 3 0 0 0 1 0
+p409
+aVRaymond Felton NYK 01/19/2011 NYK @ HOU L 37 14 5 14 35.7 2 5 40.0 2 2 100.0 1 3 4 5 1 0 2 2 -18
+p410
+aVHenry Walker NYK 01/19/2011 NYK @ HOU L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 1 0 0 2
+p411
+aVShawne Williams NYK 01/19/2011 NYK @ HOU L 11 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 0 0 0 1 0 1
+p412
+aVDanilo Gallinari NYK 01/19/2011 NYK @ HOU L 34 11 4 11 36.4 1 4 25.0 2 2 100.0 3 3 6 0 0 1 3 5 -15
+p413
+aVWilson Chandler NYK 01/17/2011 NYK vs. PHX L 44 23 10 21 47.6 2 9 22.2 1 2 50.0 3 2 5 2 1 1 0 0 -8
+p414
+aVToney Douglas NYK 01/17/2011 NYK vs. PHX L 16 7 3 8 37.5 1 3 33.3 0 2 0.0 0 2 2 3 0 0 0 4 4
+p415
+aVRaymond Felton NYK 01/17/2011 NYK vs. PHX L 39 7 3 13 23.1 1 4 25.0 0 0 - 1 2 3 13 2 0 5 3 -9
+p416
+aVShawne Williams NYK 01/17/2011 NYK vs. PHX L 25 6 3 7 42.9 0 3 0.0 0 0 - 1 3 4 2 0 2 0 6 -3
+p417
+aVDanilo Gallinari NYK 01/17/2011 NYK vs. PHX L 31 17 4 7 57.1 1 3 33.3 8 9 88.9 1 3 4 1 2 1 1 2 -13
+p418
+aVHenry Walker NYK 01/17/2011 NYK vs. PHX L 17 9 3 4 75.0 3 4 75.0 0 0 - 0 5 5 1 0 1 2 1 5
+p419
+aVLandry Fields NYK 01/17/2011 NYK vs. PHX L 33 11 4 7 57.1 3 4 75.0 0 0 - 2 7 9 2 1 0 1 3 -4
+p420
+aVAmar'e Stoudemire NYK 01/17/2011 NYK vs. PHX L 35 41 15 25 60.0 0 1 0.0 11 12 91.7 2 4 6 1 0 1 2 5 -12
+p421
+aVShawne Williams NYK 01/14/2011 NYK vs. SAC L 25 0 0 6 0.0 0 3 0.0 0 0 - 1 4 5 0 2 2 2 1 -5
+p422
+aVAmar'e Stoudemire NYK 01/14/2011 NYK vs. SAC L 42 25 6 22 27.3 1 2 50.0 12 14 85.7 5 8 13 4 2 5 3 4 -8
+p423
+aVWilson Chandler NYK 01/14/2011 NYK vs. SAC L 37 9 4 14 28.6 1 4 25.0 0 0 - 0 5 5 1 0 0 1 4 -10
+p424
+aVLandry Fields NYK 01/14/2011 NYK vs. SAC L 30 9 3 9 33.3 1 2 50.0 2 2 100.0 3 5 8 0 1 0 4 1 -9
+p425
+aVHenry Walker NYK 01/14/2011 NYK vs. SAC L 17 11 4 6 66.7 3 5 60.0 0 0 - 1 1 2 1 1 0 2 1 -3
+p426
+aVRaymond Felton NYK 01/14/2011 NYK vs. SAC L 36 6 2 15 13.3 0 4 0.0 2 4 50.0 1 1 2 6 1 0 2 2 -6
+p427
+aVToney Douglas NYK 01/14/2011 NYK vs. SAC L 37 21 9 17 52.9 3 8 37.5 0 0 - 2 7 9 1 1 0 1 3 -10
+p428
+aVRonny Turiaf NYK 01/14/2011 NYK vs. SAC L 16 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 1 0 0 0 1
+p429
+aVAmar'e Stoudemire NYK 01/12/2011 NYK @ UTA L 28 22 5 11 45.5 1 1 100.0 11 12 91.7 2 1 3 5 0 1 0 4 -8
+p430
+aVShawne Williams NYK 01/12/2011 NYK @ UTA L 34 25 8 12 66.7 7 8 87.5 2 3 66.7 1 1 2 0 1 0 0 6 8
+p431
+aVToney Douglas NYK 01/12/2011 NYK @ UTA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p432
+aVRonny Turiaf NYK 01/12/2011 NYK @ UTA L 21 9 3 5 60.0 0 0 - 3 4 75.0 1 1 2 1 0 0 0 5 -10
+p433
+aVRaymond Felton NYK 01/12/2011 NYK @ UTA L 40 23 6 15 40.0 1 5 20.0 10 10 100.0 1 6 7 11 1 0 4 5 10
+p434
+aVWilson Chandler NYK 01/12/2011 NYK @ UTA L 40 14 6 14 42.9 1 6 16.7 1 2 50.0 1 4 5 2 1 0 2 2 2
+p435
+aVHenry Walker NYK 01/12/2011 NYK @ UTA L 29 23 8 11 72.7 3 5 60.0 4 4 100.0 0 1 1 0 1 0 3 5 1
+p436
+aVLandry Fields NYK 01/12/2011 NYK @ UTA L 31 8 3 6 50.0 1 3 33.3 1 2 50.0 1 4 5 1 1 0 3 1 -16
+p437
+aVRoger Mason Jr. NYK 01/12/2011 NYK @ UTA L 14 1 0 2 0.0 0 0 - 1 1 100.0 1 0 1 1 0 0 1 1 -11
+p438
+aVRaymond Felton NYK 01/11/2011 NYK @ POR W 40 17 7 16 43.8 2 5 40.0 1 2 50.0 0 2 2 14 3 0 0 0 15
+p439
+aVHenry Walker NYK 01/11/2011 NYK @ POR W 17 10 4 9 44.4 2 4 50.0 0 0 - 1 3 4 0 2 0 0 4 5
+p440
+aVToney Douglas NYK 01/11/2011 NYK @ POR W 18 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 7
+p441
+aVLandry Fields NYK 01/11/2011 NYK @ POR W 41 8 4 6 66.7 0 1 0.0 0 0 - 0 6 6 4 2 0 3 1 4
+p442
+aVRonny Turiaf NYK 01/11/2011 NYK @ POR W 38 19 8 9 88.9 0 0 - 3 3 100.0 1 9 10 3 3 2 1 3 17
+p443
+aVWilson Chandler NYK 01/11/2011 NYK @ POR W 35 17 7 13 53.8 1 1 100.0 2 2 100.0 1 4 5 1 0 1 1 4 7
+p444
+aVAmar'e Stoudemire NYK 01/11/2011 NYK @ POR W 36 23 9 23 39.1 0 0 - 5 8 62.5 5 3 8 4 0 1 3 4 15
+p445
+aVShawne Williams NYK 01/11/2011 NYK @ POR W 15 4 2 3 66.7 0 1 0.0 0 0 - 1 2 3 0 0 1 2 4 0
+p446
+aVWilson Chandler NYK 01/09/2011 NYK @ LAL L 37 19 8 19 42.1 0 5 0.0 3 4 75.0 0 4 4 1 3 3 3 4 -23
+p447
+aVTimofey Mozgov NYK 01/09/2011 NYK @ LAL L 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p448
+aVHenry Walker NYK 01/09/2011 NYK @ LAL L 22 9 3 7 42.9 3 7 42.9 0 3 0.0 0 2 2 0 1 1 1 3 0
+p449
+aVRonny Turiaf NYK 01/09/2011 NYK @ LAL L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 2 2
+p450
+aVShawne Williams NYK 01/09/2011 NYK @ LAL L 35 8 2 7 28.6 1 3 33.3 3 5 60.0 0 3 3 0 0 1 1 5 -20
+p451
+aVRaymond Felton NYK 01/09/2011 NYK @ LAL L 36 12 4 14 28.6 2 6 33.3 2 2 100.0 1 5 6 7 3 0 3 3 -25
+p452
+aVToney Douglas NYK 01/09/2011 NYK @ LAL L 24 2 1 4 25.0 0 0 - 0 0 - 0 5 5 6 0 0 2 2 2
+p453
+aVLandry Fields NYK 01/09/2011 NYK @ LAL L 39 12 5 10 50.0 2 4 50.0 0 0 - 2 6 8 2 2 0 0 1 -23
+p454
+aVAmar'e Stoudemire NYK 01/09/2011 NYK @ LAL L 36 23 7 23 30.4 0 0 - 9 11 81.8 4 6 10 4 0 6 2 4 -19
+p455
+aVTimofey Mozgov NYK 01/07/2011 NYK @ PHX W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p456
+aVLandry Fields NYK 01/07/2011 NYK @ PHX W 33 14 6 6 100.0 2 2 100.0 0 0 - 0 10 10 2 1 0 3 2 29
+p457
+aVShawne Williams NYK 01/07/2011 NYK @ PHX W 26 15 5 12 41.7 4 9 44.4 1 1 100.0 1 6 7 2 3 2 0 2 13
+p458
+aVWilson Chandler NYK 01/07/2011 NYK @ PHX W 36 16 7 15 46.7 1 4 25.0 1 2 50.0 2 4 6 0 0 0 0 2 24
+p459
+aVAmar'e Stoudemire NYK 01/07/2011 NYK @ PHX W 31 23 9 18 50.0 0 0 - 5 6 83.3 3 6 9 2 0 2 3 3 22
+p460
+aVRoger Mason Jr. NYK 01/07/2011 NYK @ PHX W 7 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -6
+p461
+aVToney Douglas NYK 01/07/2011 NYK @ PHX W 22 11 4 8 50.0 3 5 60.0 0 0 - 1 0 1 3 1 0 2 5 3
+p462
+aVRonny Turiaf NYK 01/07/2011 NYK @ PHX W 13 5 1 2 50.0 0 0 - 3 4 75.0 2 1 3 1 0 0 1 4 11
+p463
+aVRaymond Felton NYK 01/07/2011 NYK @ PHX W 38 23 8 20 40.0 5 10 50.0 2 2 100.0 2 8 10 11 1 0 5 1 27
+p464
+aVAnthony Randolph NYK 01/07/2011 NYK @ PHX W 5 2 1 3 33.3 0 0 - 0 2 0.0 1 1 2 0 0 0 1 0 -7
+p465
+aVHenry Walker NYK 01/07/2011 NYK @ PHX W 21 8 3 4 75.0 2 2 100.0 0 1 0.0 0 9 9 2 0 0 3 2 18
+p466
+aVAndy Rautins NYK 01/07/2011 NYK @ PHX W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p467
+aVRonny Turiaf NYK 01/04/2011 NYK vs. SAS W 21 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 1 0 0 3 7
+p468
+aVWilson Chandler NYK 01/04/2011 NYK vs. SAS W 39 31 13 19 68.4 3 6 50.0 2 2 100.0 2 7 9 4 1 0 2 1 9
+p469
+aVLandry Fields NYK 01/04/2011 NYK vs. SAS W 40 13 5 10 50.0 0 3 0.0 3 3 100.0 4 2 6 3 3 1 0 0 16
+p470
+aVShawne Williams NYK 01/04/2011 NYK vs. SAS W 21 9 4 10 40.0 1 4 25.0 0 0 - 2 3 5 1 0 0 0 3 1
+p471
+aVAmar'e Stoudemire NYK 01/04/2011 NYK vs. SAS W 36 28 11 17 64.7 0 0 - 6 8 75.0 1 8 9 6 0 3 2 3 11
+p472
+aVHenry Walker NYK 01/04/2011 NYK vs. SAS W 18 6 2 6 33.3 1 5 20.0 1 1 100.0 0 2 2 1 1 0 1 2 -1
+p473
+aVRaymond Felton NYK 01/04/2011 NYK vs. SAS W 37 28 10 17 58.8 2 5 40.0 6 6 100.0 0 4 4 7 0 0 0 2 8
+p474
+aVToney Douglas NYK 01/04/2011 NYK vs. SAS W 29 9 3 10 30.0 1 4 25.0 2 3 66.7 0 1 1 3 3 0 1 3 14
+p475
+aVHenry Walker NYK 01/02/2011 NYK vs. IND W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 7
+p476
+aVDanilo Gallinari NYK 01/02/2011 NYK vs. IND W 30 19 5 8 62.5 0 1 0.0 9 11 81.8 2 3 5 1 0 0 0 0 -8
+p477
+aVWilson Chandler NYK 01/02/2011 NYK vs. IND W 38 10 2 6 33.3 2 3 66.7 4 4 100.0 0 6 6 2 0 1 0 4 -2
+p478
+aVLandry Fields NYK 01/02/2011 NYK vs. IND W 13 10 3 5 60.0 2 4 50.0 2 2 100.0 1 4 5 0 0 2 1 1 -6
+p479
+aVAmar'e Stoudemire NYK 01/02/2011 NYK vs. IND W 37 26 9 24 37.5 0 0 - 8 13 61.5 4 4 8 2 2 2 3 4 -5
+p480
+aVRaymond Felton NYK 01/02/2011 NYK vs. IND W 38 14 5 13 38.5 0 2 0.0 4 7 57.1 0 1 1 2 2 0 5 0 2
+p481
+aVRonny Turiaf NYK 01/02/2011 NYK vs. IND W 28 2 1 3 33.3 0 0 - 0 1 0.0 0 10 10 1 1 6 1 4 16
+p482
+aVToney Douglas NYK 01/02/2011 NYK vs. IND W 29 12 4 10 40.0 2 5 40.0 2 2 100.0 1 3 4 7 2 0 1 1 22
+p483
+aVShawne Williams NYK 01/02/2011 NYK vs. IND W 17 5 2 3 66.7 1 1 100.0 0 0 - 1 4 5 0 0 1 0 3 4
+p484
+aVWilson Chandler NYK 12/30/2010 NYK @ ORL L 45 29 11 19 57.9 3 6 50.0 4 6 66.7 4 5 9 2 1 2 1 4 2
+p485
+aVShawne Williams NYK 12/30/2010 NYK @ ORL L 22 15 5 7 71.4 3 5 60.0 2 2 100.0 1 2 3 2 0 1 2 5 -18
+p486
+aVLandry Fields NYK 12/30/2010 NYK @ ORL L 28 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 2 0 0 0 2 1
+p487
+aVDanilo Gallinari NYK 12/30/2010 NYK @ ORL L 41 10 2 5 40.0 0 1 0.0 6 7 85.7 3 4 7 0 1 1 3 3 -1
+p488
+aVAmar'e Stoudemire NYK 12/30/2010 NYK @ ORL L 32 30 12 22 54.5 0 0 - 6 9 66.7 2 2 4 4 0 4 0 5 5
+p489
+aVRaymond Felton NYK 12/30/2010 NYK @ ORL L 41 14 6 22 27.3 1 7 14.3 1 2 50.0 0 4 4 6 2 0 6 3 -5
+p490
+aVRonny Turiaf NYK 12/30/2010 NYK @ ORL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -6
+p491
+aVHenry Walker NYK 12/30/2010 NYK @ ORL L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -12
+p492
+aVToney Douglas NYK 12/30/2010 NYK @ ORL L 20 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 1 1 0 2 2 -11
+p493
+aVShawne Williams NYK 12/28/2010 NYK @ MIA L 9 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 3 -12
+p494
+aVRonny Turiaf NYK 12/28/2010 NYK @ MIA L 15 2 0 0 - 0 0 - 2 4 50.0 2 0 2 2 1 2 2 4 1
+p495
+aVAmar'e Stoudemire NYK 12/28/2010 NYK @ MIA L 43 30 10 23 43.5 0 1 0.0 10 12 83.3 4 3 7 1 2 2 1 1 -6
+p496
+aVToney Douglas NYK 12/28/2010 NYK @ MIA L 19 11 3 9 33.3 3 5 60.0 2 3 66.7 1 1 2 1 0 0 2 1 -13
+p497
+aVWilson Chandler NYK 12/28/2010 NYK @ MIA L 40 21 9 15 60.0 0 1 0.0 3 4 75.0 0 6 6 1 0 0 2 6 -4
+p498
+aVLandry Fields NYK 12/28/2010 NYK @ MIA L 32 3 1 6 16.7 0 4 0.0 1 3 33.3 1 6 7 1 1 0 1 1 -10
+p499
+aVHenry Walker NYK 12/28/2010 NYK @ MIA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 9
+p500
+aVDanilo Gallinari NYK 12/28/2010 NYK @ MIA L 38 13 5 12 41.7 1 4 25.0 2 2 100.0 1 3 4 3 0 1 0 2 8
+p501
+aVRaymond Felton NYK 12/28/2010 NYK @ MIA L 39 15 5 13 38.5 2 6 33.3 3 4 75.0 0 3 3 5 0 0 0 3 -13
+p502
+aVAmar'e Stoudemire NYK 12/25/2010 NYK vs. CHI W 37 20 10 18 55.6 0 0 - 0 2 0.0 1 9 10 2 2 6 7 3 2
+p503
+aVToney Douglas NYK 12/25/2010 NYK vs. CHI W 22 8 3 8 37.5 2 3 66.7 0 0 - 1 4 5 3 2 0 1 1 0
+p504
+aVRaymond Felton NYK 12/25/2010 NYK vs. CHI W 41 20 9 18 50.0 2 7 28.6 0 0 - 1 0 1 12 5 0 5 1 9
+p505
+aVRonny Turiaf NYK 12/25/2010 NYK vs. CHI W 14 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 0 1 1 2 6
+p506
+aVShawne Williams NYK 12/25/2010 NYK vs. CHI W 20 6 2 2 100.0 2 2 100.0 0 0 - 0 3 3 1 0 0 1 4 -1
+p507
+aVLandry Fields NYK 12/25/2010 NYK vs. CHI W 39 14 5 7 71.4 2 2 100.0 2 2 100.0 3 8 11 3 0 1 2 0 10
+p508
+aVDanilo Gallinari NYK 12/25/2010 NYK vs. CHI W 37 15 5 9 55.6 3 4 75.0 2 4 50.0 0 4 4 2 2 0 5 0 2
+p509
+aVWilson Chandler NYK 12/25/2010 NYK vs. CHI W 30 15 6 14 42.9 1 4 25.0 2 2 100.0 0 10 10 2 1 2 2 5 12
+p510
+aVRonny Turiaf NYK 12/22/2010 NYK vs. OKC W 22 11 4 5 80.0 0 0 - 3 5 60.0 1 1 2 1 0 1 0 3 13
+p511
+aVRaymond Felton NYK 12/22/2010 NYK vs. OKC W 33 12 5 14 35.7 1 4 25.0 1 1 100.0 1 5 6 10 1 0 1 3 10
+p512
+aVAmar'e Stoudemire NYK 12/22/2010 NYK vs. OKC W 37 23 7 16 43.8 0 0 - 9 10 90.0 2 5 7 4 0 3 5 3 28
+p513
+aVDanilo Gallinari NYK 12/22/2010 NYK vs. OKC W 33 13 4 8 50.0 2 4 50.0 3 3 100.0 0 3 3 5 2 0 0 3 10
+p514
+aVAnthony Randolph NYK 12/22/2010 NYK vs. OKC W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p515
+aVRoger Mason Jr. NYK 12/22/2010 NYK vs. OKC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p516
+aVWilson Chandler NYK 12/22/2010 NYK vs. OKC W 32 21 9 15 60.0 3 4 75.0 0 0 - 0 5 5 4 0 1 1 3 26
+p517
+aVHenry Walker NYK 12/22/2010 NYK vs. OKC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p518
+aVShawne Williams NYK 12/22/2010 NYK vs. OKC W 18 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 0 1 3 1 2 -21
+p519
+aVTimofey Mozgov NYK 12/22/2010 NYK vs. OKC W 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p520
+aVToney Douglas NYK 12/22/2010 NYK vs. OKC W 22 9 4 8 50.0 1 4 25.0 0 0 - 1 4 5 3 0 0 0 2 5
+p521
+aVLandry Fields NYK 12/22/2010 NYK vs. OKC W 31 14 5 8 62.5 2 3 66.7 2 2 100.0 1 9 10 3 2 1 2 2 25
+p522
+aVShawne Williams NYK 12/18/2010 NYK @ CLE L 21 12 4 6 66.7 2 3 66.7 2 2 100.0 1 6 7 0 0 1 0 1 2
+p523
+aVRonny Turiaf NYK 12/18/2010 NYK @ CLE L 15 6 2 4 50.0 0 0 - 2 2 100.0 2 4 6 3 1 1 1 0 -3
+p524
+aVRaymond Felton NYK 12/18/2010 NYK @ CLE L 44 23 9 19 47.4 3 7 42.9 2 2 100.0 0 7 7 11 2 0 2 4 -5
+p525
+aVToney Douglas NYK 12/18/2010 NYK @ CLE L 23 7 3 11 27.3 1 5 20.0 0 0 - 0 4 4 0 0 0 2 2 -6
+p526
+aVWilson Chandler NYK 12/18/2010 NYK @ CLE L 42 13 5 14 35.7 2 6 33.3 1 2 50.0 1 3 4 3 1 1 2 2 -5
+p527
+aVDanilo Gallinari NYK 12/18/2010 NYK @ CLE L 39 7 3 14 21.4 1 10 10.0 0 0 - 0 2 2 2 1 0 2 3 -8
+p528
+aVLandry Fields NYK 12/18/2010 NYK @ CLE L 41 11 5 8 62.5 1 2 50.0 0 0 - 1 5 6 2 3 0 2 4 -3
+p529
+aVAmar'e Stoudemire NYK 12/18/2010 NYK @ CLE L 41 23 8 19 42.1 1 1 100.0 6 6 100.0 1 10 11 1 3 4 8 4 -7
+p530
+aVWilson Chandler NYK 12/17/2010 NYK vs. MIA L 38 17 6 13 46.2 2 5 40.0 3 4 75.0 3 7 10 2 2 0 1 4 -19
+p531
+aVRonny Turiaf NYK 12/17/2010 NYK vs. MIA L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -9
+p532
+aVDanilo Gallinari NYK 12/17/2010 NYK vs. MIA L 40 25 8 16 50.0 4 8 50.0 5 6 83.3 0 4 4 1 0 1 1 3 -23
+p533
+aVHenry Walker NYK 12/17/2010 NYK vs. MIA L 5 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 1 0 -3
+p534
+aVAmar'e Stoudemire NYK 12/17/2010 NYK vs. MIA L 38 24 11 28 39.3 0 0 - 2 7 28.6 7 7 14 4 1 2 4 1 -22
+p535
+aVShawne Williams NYK 12/17/2010 NYK vs. MIA L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 7
+p536
+aVAnthony Randolph NYK 12/17/2010 NYK vs. MIA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p537
+aVToney Douglas NYK 12/17/2010 NYK vs. MIA L 20 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 0 1 0 0 1 0
+p538
+aVTimofey Mozgov NYK 12/17/2010 NYK vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p539
+aVLandry Fields NYK 12/17/2010 NYK vs. MIA L 34 5 2 7 28.6 0 2 0.0 1 2 50.0 1 4 5 5 0 0 1 1 -8
+p540
+aVRaymond Felton NYK 12/17/2010 NYK vs. MIA L 41 8 3 12 25.0 0 3 0.0 2 4 50.0 0 4 4 10 1 0 3 1 -33
+p541
+aVRaymond Felton NYK 12/15/2010 NYK vs. BOS L 46 26 8 16 50.0 3 7 42.9 7 7 100.0 0 0 0 14 0 0 5 2 -6
+p542
+aVDanilo Gallinari NYK 12/15/2010 NYK vs. BOS L 43 20 8 14 57.1 1 3 33.3 3 6 50.0 1 2 3 3 0 0 1 3 1
+p543
+aVShawne Williams NYK 12/15/2010 NYK vs. BOS L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p544
+aVLandry Fields NYK 12/15/2010 NYK vs. BOS L 36 6 2 5 40.0 2 2 100.0 0 0 - 1 5 6 0 2 0 3 2 8
+p545
+aVWilson Chandler NYK 12/15/2010 NYK vs. BOS L 43 18 8 17 47.1 2 7 28.6 0 0 - 2 10 12 1 2 2 2 2 1
+p546
+aVToney Douglas NYK 12/15/2010 NYK vs. BOS L 16 5 1 5 20.0 1 4 25.0 2 2 100.0 1 0 1 1 0 0 1 3 -9
+p547
+aVRonny Turiaf NYK 12/15/2010 NYK vs. BOS L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -11
+p548
+aVAmar'e Stoudemire NYK 12/15/2010 NYK vs. BOS L 42 39 15 22 68.2 0 0 - 9 11 81.8 3 7 10 0 1 3 4 4 9
+p549
+aVLandry Fields NYK 12/12/2010 NYK vs. DEN W 44 18 7 11 63.6 3 5 60.0 1 1 100.0 4 5 9 3 2 1 1 0 3
+p550
+aVToney Douglas NYK 12/12/2010 NYK vs. DEN W 20 13 2 6 33.3 2 5 40.0 7 7 100.0 0 1 1 1 0 0 0 3 2
+p551
+aVDanilo Gallinari NYK 12/12/2010 NYK vs. DEN W 33 16 4 11 36.4 2 6 33.3 6 7 85.7 0 3 3 2 0 1 0 4 0
+p552
+aVAmar'e Stoudemire NYK 12/12/2010 NYK vs. DEN W 40 30 13 23 56.5 0 0 - 4 4 100.0 0 8 8 4 0 3 2 5 16
+p553
+aVWilson Chandler NYK 12/12/2010 NYK vs. DEN W 37 27 10 17 58.8 5 9 55.6 2 2 100.0 4 3 7 1 1 1 0 3 6
+p554
+aVShawne Williams NYK 12/12/2010 NYK vs. DEN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p555
+aVRaymond Felton NYK 12/12/2010 NYK vs. DEN W 45 19 7 15 46.7 1 4 25.0 4 5 80.0 0 3 3 17 1 0 2 2 7
+p556
+aVRonny Turiaf NYK 12/12/2010 NYK vs. DEN W 15 6 3 4 75.0 0 0 - 0 0 - 0 2 2 2 2 1 0 5 -13
+p557
+aVHenry Walker NYK 12/12/2010 NYK vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p558
+aVWilson Chandler NYK 12/10/2010 NYK @ WAS W 40 16 7 9 77.8 2 3 66.7 0 0 - 1 7 8 1 0 2 1 4 6
+p559
+aVRaymond Felton NYK 12/10/2010 NYK @ WAS W 39 13 5 17 29.4 1 4 25.0 2 2 100.0 0 2 2 4 3 0 4 3 -2
+p560
+aVAmar'e Stoudemire NYK 12/10/2010 NYK @ WAS W 42 36 13 24 54.2 0 0 - 10 11 90.9 3 7 10 5 0 2 11 4 13
+p561
+aVLandry Fields NYK 12/10/2010 NYK @ WAS W 30 11 3 7 42.9 2 4 50.0 3 6 50.0 1 5 6 0 1 0 0 1 11
+p562
+aVToney Douglas NYK 12/10/2010 NYK @ WAS W 27 7 3 10 30.0 1 5 20.0 0 0 - 1 4 5 6 4 0 1 2 3
+p563
+aVDanilo Gallinari NYK 12/10/2010 NYK @ WAS W 38 16 3 5 60.0 1 1 100.0 9 9 100.0 1 4 5 3 1 1 1 2 9
+p564
+aVTimofey Mozgov NYK 12/10/2010 NYK @ WAS W 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -3
+p565
+aVShawne Williams NYK 12/10/2010 NYK @ WAS W 5 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 -8
+p566
+aVRonny Turiaf NYK 12/10/2010 NYK @ WAS W 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 1
+p567
+aVRaymond Felton NYK 12/08/2010 NYK vs. TOR W 43 28 10 20 50.0 2 5 40.0 6 6 100.0 0 3 3 11 2 1 4 3 5
+p568
+aVRonny Turiaf NYK 12/08/2010 NYK vs. TOR W 8 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 -10
+p569
+aVShawne Williams NYK 12/08/2010 NYK vs. TOR W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p570
+aVWilson Chandler NYK 12/08/2010 NYK vs. TOR W 41 14 6 13 46.2 2 6 33.3 0 0 - 0 6 6 3 0 1 2 4 3
+p571
+aVAmar'e Stoudemire NYK 12/08/2010 NYK vs. TOR W 43 34 15 27 55.6 0 0 - 4 4 100.0 7 7 14 2 0 2 3 5 6
+p572
+aVDanilo Gallinari NYK 12/08/2010 NYK vs. TOR W 38 20 5 13 38.5 2 5 40.0 8 9 88.9 0 9 9 1 0 0 1 4 14
+p573
+aVLandry Fields NYK 12/08/2010 NYK vs. TOR W 34 9 4 9 44.4 1 2 50.0 0 1 0.0 3 7 10 1 1 1 2 2 9
+p574
+aVToney Douglas NYK 12/08/2010 NYK vs. TOR W 22 7 3 6 50.0 1 3 33.3 0 0 - 2 2 4 1 1 0 2 3 -2
+p575
+aVWilson Chandler NYK 12/06/2010 NYK vs. MIN W 37 21 7 12 58.3 2 6 33.3 5 6 83.3 0 4 4 5 2 1 0 1 12
+p576
+aVLandry Fields NYK 12/06/2010 NYK vs. MIN W 29 2 1 7 14.3 0 4 0.0 0 0 - 4 6 10 2 1 0 0 2 1
+p577
+aVTimofey Mozgov NYK 12/06/2010 NYK vs. MIN W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -3
+p578
+aVRonny Turiaf NYK 12/06/2010 NYK vs. MIN W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 3 0 1 0 2 9
+p579
+aVToney Douglas NYK 12/06/2010 NYK vs. MIN W 21 11 4 7 57.1 1 3 33.3 2 2 100.0 1 5 6 0 0 0 0 2 3
+p580
+aVShawne Williams NYK 12/06/2010 NYK vs. MIN W 26 13 5 9 55.6 3 4 75.0 0 0 - 1 1 2 1 0 2 1 3 3
+p581
+aVRaymond Felton NYK 12/06/2010 NYK vs. MIN W 38 18 6 13 46.2 5 8 62.5 1 2 50.0 1 2 3 11 4 0 5 4 17
+p582
+aVDanilo Gallinari NYK 12/06/2010 NYK vs. MIN W 34 17 6 11 54.5 2 5 40.0 3 4 75.0 0 2 2 1 0 0 1 2 -9
+p583
+aVAmar'e Stoudemire NYK 12/06/2010 NYK vs. MIN W 39 34 15 23 65.2 0 0 - 4 5 80.0 2 3 5 1 2 2 3 5 2
+p584
+aVShawne Williams NYK 12/05/2010 NYK @ TOR W 21 14 5 6 83.3 4 4 100.0 0 0 - 2 1 3 2 1 0 1 1 8
+p585
+aVLandry Fields NYK 12/05/2010 NYK @ TOR W 36 15 5 10 50.0 2 2 100.0 3 4 75.0 3 7 10 3 3 0 2 0 13
+p586
+aVAmar'e Stoudemire NYK 12/05/2010 NYK @ TOR W 38 31 12 24 50.0 0 0 - 7 7 100.0 5 11 16 2 1 1 2 3 24
+p587
+aVDanilo Gallinari NYK 12/05/2010 NYK @ TOR W 40 6 2 7 28.6 2 6 33.3 0 0 - 0 4 4 5 1 0 0 1 19
+p588
+aVWilson Chandler NYK 12/05/2010 NYK @ TOR W 34 21 8 14 57.1 3 7 42.9 2 2 100.0 1 2 3 1 0 0 1 3 17
+p589
+aVToney Douglas NYK 12/05/2010 NYK @ TOR W 23 5 2 7 28.6 0 2 0.0 1 2 50.0 0 2 2 1 2 1 1 2 -1
+p590
+aVTimofey Mozgov NYK 12/05/2010 NYK @ TOR W 10 6 1 2 50.0 0 0 - 4 5 80.0 1 1 2 0 0 0 1 2 -7
+p591
+aVRaymond Felton NYK 12/05/2010 NYK @ TOR W 38 18 8 18 44.4 1 6 16.7 1 1 100.0 1 1 2 8 2 0 3 1 12
+p592
+aVHenry Walker NYK 12/03/2010 NYK @ NOH W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 -5
+p593
+aVToney Douglas NYK 12/03/2010 NYK @ NOH W 21 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 3 1 0 1 5 6
+p594
+aVLandry Fields NYK 12/03/2010 NYK @ NOH W 36 6 2 5 40.0 0 2 0.0 2 3 66.7 2 7 9 4 0 0 3 0 14
+p595
+aVAmar'e Stoudemire NYK 12/03/2010 NYK @ NOH W 41 34 15 22 68.2 0 0 - 4 5 80.0 2 8 10 2 2 1 4 4 11
+p596
+aVDanilo Gallinari NYK 12/03/2010 NYK @ NOH W 31 13 5 12 41.7 3 6 50.0 0 0 - 0 1 1 3 1 1 0 2 -2
+p597
+aVWilson Chandler NYK 12/03/2010 NYK @ NOH W 39 14 5 14 35.7 4 8 50.0 0 0 - 0 9 9 1 1 1 0 3 7
+p598
+aVRaymond Felton NYK 12/03/2010 NYK @ NOH W 43 17 6 13 46.2 2 4 50.0 3 4 75.0 2 3 5 13 1 0 3 2 4
+p599
+aVShawne Williams NYK 12/03/2010 NYK @ NOH W 21 13 5 7 71.4 3 4 75.0 0 0 - 0 4 4 1 1 1 1 3 10
+p600
+aVTimofey Mozgov NYK 12/03/2010 NYK @ NOH W 4 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -5
+p601
+aVDanilo Gallinari NYK 11/30/2010 NYK vs. NJN W 37 13 3 11 27.3 2 6 33.3 5 7 71.4 0 6 6 1 0 0 1 2 10
+p602
+aVAnthony Randolph NYK 11/30/2010 NYK vs. NJN W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p603
+aVLandry Fields NYK 11/30/2010 NYK vs. NJN W 37 6 2 5 40.0 0 2 0.0 2 2 100.0 1 5 6 2 1 0 0 0 2
+p604
+aVAmar'e Stoudemire NYK 11/30/2010 NYK vs. NJN W 41 35 13 22 59.1 0 0 - 9 11 81.8 1 8 9 2 2 1 1 3 14
+p605
+aVTimofey Mozgov NYK 11/30/2010 NYK vs. NJN W 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 1 4 -5
+p606
+aVToney Douglas NYK 11/30/2010 NYK vs. NJN W 16 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 9
+p607
+aVShawne Williams NYK 11/30/2010 NYK vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p608
+aVHenry Walker NYK 11/30/2010 NYK vs. NJN W 11 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 1
+p609
+aVRaymond Felton NYK 11/30/2010 NYK vs. NJN W 39 21 10 15 66.7 0 3 0.0 1 1 100.0 2 5 7 10 3 1 5 1 13
+p610
+aVWilson Chandler NYK 11/30/2010 NYK vs. NJN W 44 27 9 15 60.0 1 5 20.0 8 8 100.0 3 8 11 3 0 3 2 2 14
+p611
+aVRaymond Felton NYK 11/28/2010 NYK @ DET W 53 23 5 17 29.4 3 11 27.3 10 10 100.0 0 5 5 11 2 0 3 5 11
+p612
+aVAnthony Randolph NYK 11/28/2010 NYK @ DET W 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p613
+aVRoger Mason Jr. NYK 11/28/2010 NYK @ DET W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p614
+aVTimofey Mozgov NYK 11/28/2010 NYK @ DET W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 3 3 6
+p615
+aVWilson Chandler NYK 11/28/2010 NYK @ DET W 39 20 8 14 57.1 4 8 50.0 0 1 0.0 0 4 4 0 1 1 1 4 8
+p616
+aVDanilo Gallinari NYK 11/28/2010 NYK @ DET W 52 20 7 12 58.3 4 9 44.4 2 2 100.0 3 6 9 4 0 1 2 4 13
+p617
+aVLandry Fields NYK 11/28/2010 NYK @ DET W 51 16 6 14 42.9 2 5 40.0 2 4 50.0 3 8 11 6 2 0 3 2 4
+p618
+aVShawne Williams NYK 11/28/2010 NYK @ DET W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 5
+p619
+aVAmar'e Stoudemire NYK 11/28/2010 NYK @ DET W 54 37 12 20 60.0 0 0 - 13 15 86.7 5 10 15 7 0 1 6 4 6
+p620
+aVHenry Walker NYK 11/28/2010 NYK @ DET W 12 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 1 1 0 0 3 3
+p621
+aVHenry Walker NYK 11/27/2010 NYK vs. ATL L 14 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 0 -7
+p622
+aVWilson Chandler NYK 11/27/2010 NYK vs. ATL L 36 15 7 13 53.8 0 2 0.0 1 1 100.0 0 6 6 2 0 0 1 2 -1
+p623
+aVToney Douglas NYK 11/27/2010 NYK vs. ATL L 28 2 0 5 0.0 0 4 0.0 2 2 100.0 0 3 3 2 0 0 0 1 4
+p624
+aVRaymond Felton NYK 11/27/2010 NYK vs. ATL L 37 18 8 16 50.0 2 3 66.7 0 0 - 1 1 2 4 2 0 3 0 -16
+p625
+aVAmar'e Stoudemire NYK 11/27/2010 NYK vs. ATL L 37 24 7 15 46.7 0 0 - 10 12 83.3 1 9 10 3 1 1 4 4 -8
+p626
+aVAnthony Randolph NYK 11/27/2010 NYK vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 4
+p627
+aVTimofey Mozgov NYK 11/27/2010 NYK vs. ATL L 14 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 0 0 3 0 4 -4
+p628
+aVRonny Turiaf NYK 11/27/2010 NYK vs. ATL L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -13
+p629
+aVAndy Rautins NYK 11/27/2010 NYK vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p630
+aVLandry Fields NYK 11/27/2010 NYK vs. ATL L 37 15 6 10 60.0 1 3 33.3 2 2 100.0 2 9 11 0 0 0 1 2 -3
+p631
+aVDanilo Gallinari NYK 11/27/2010 NYK vs. ATL L 23 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 1 0 0 0 0 -5
+p632
+aVAmar'e Stoudemire NYK 11/24/2010 NYK @ CHA W 34 20 8 15 53.3 0 0 - 4 4 100.0 2 2 4 1 0 6 0 2 -4
+p633
+aVToney Douglas NYK 11/24/2010 NYK @ CHA W 20 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 4 1 0 0 2 11
+p634
+aVHenry Walker NYK 11/24/2010 NYK @ CHA W 16 10 4 6 66.7 2 4 50.0 0 0 - 1 0 1 0 0 0 1 0 -4
+p635
+aVRonny Turiaf NYK 11/24/2010 NYK @ CHA W 17 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 1 1 1 3 -5
+p636
+aVWilson Chandler NYK 11/24/2010 NYK @ CHA W 34 21 8 12 66.7 4 5 80.0 1 2 50.0 0 8 8 1 0 1 3 3 7
+p637
+aVRaymond Felton NYK 11/24/2010 NYK @ CHA W 40 23 9 18 50.0 2 5 40.0 3 4 75.0 1 2 3 13 2 0 6 3 3
+p638
+aVLandry Fields NYK 11/24/2010 NYK @ CHA W 32 8 3 5 60.0 0 2 0.0 2 4 50.0 3 7 10 1 2 0 2 3 8
+p639
+aVDanilo Gallinari NYK 11/24/2010 NYK @ CHA W 36 9 2 9 22.2 2 5 40.0 3 4 75.0 1 6 7 1 1 0 2 3 -6
+p640
+aVTimofey Mozgov NYK 11/24/2010 NYK @ CHA W 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 3 0 2 10
+p641
+aVTimofey Mozgov NYK 11/23/2010 NYK vs. CHA W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -8
+p642
+aVWilson Chandler NYK 11/23/2010 NYK vs. CHA W 30 7 2 8 25.0 0 4 0.0 3 3 100.0 0 5 5 0 0 1 1 2 1
+p643
+aVLandry Fields NYK 11/23/2010 NYK vs. CHA W 26 14 6 10 60.0 2 4 50.0 0 0 - 1 6 7 2 2 1 1 1 2
+p644
+aVRonny Turiaf NYK 11/23/2010 NYK vs. CHA W 31 12 6 6 100.0 0 0 - 0 0 - 0 2 2 1 2 2 2 4 1
+p645
+aVDanilo Gallinari NYK 11/23/2010 NYK vs. CHA W 40 15 3 7 42.9 1 4 25.0 8 8 100.0 2 4 6 4 2 1 3 2 12
+p646
+aVHenry Walker NYK 11/23/2010 NYK vs. CHA W 11 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p647
+aVRaymond Felton NYK 11/23/2010 NYK vs. CHA W 38 16 5 13 38.5 1 5 20.0 5 5 100.0 1 2 3 9 1 1 4 4 5
+p648
+aVAmar'e Stoudemire NYK 11/23/2010 NYK vs. CHA W 31 17 5 12 41.7 0 0 - 7 7 100.0 1 6 7 1 0 3 7 5 9
+p649
+aVToney Douglas NYK 11/23/2010 NYK vs. CHA W 24 22 8 12 66.7 5 7 71.4 1 2 50.0 0 0 0 1 3 0 1 2 -1
+p650
+aVRaymond Felton NYK 11/20/2010 NYK @ LAC W 42 20 6 16 37.5 3 8 37.5 5 5 100.0 1 2 3 7 7 1 2 2 18
+p651
+aVLandry Fields NYK 11/20/2010 NYK @ LAC W 30 7 2 7 28.6 0 2 0.0 3 3 100.0 0 2 2 2 2 0 0 1 13
+p652
+aVHenry Walker NYK 11/20/2010 NYK @ LAC W 14 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p653
+aVToney Douglas NYK 11/20/2010 NYK @ LAC W 21 12 4 8 50.0 4 6 66.7 0 0 - 0 2 2 3 0 0 2 1 -9
+p654
+aVTimofey Mozgov NYK 11/20/2010 NYK @ LAC W 14 3 0 2 0.0 0 0 - 3 4 75.0 2 3 5 1 0 1 1 4 8
+p655
+aVRonny Turiaf NYK 11/20/2010 NYK @ LAC W 17 2 0 0 - 0 0 - 2 4 50.0 1 2 3 4 0 0 2 5 -1
+p656
+aVWilson Chandler NYK 11/20/2010 NYK @ LAC W 19 10 2 6 33.3 0 0 - 6 6 100.0 1 1 2 1 0 2 1 6 2
+p657
+aVAmar'e Stoudemire NYK 11/20/2010 NYK @ LAC W 40 39 14 24 58.3 0 0 - 11 16 68.8 5 6 11 2 0 2 2 5 5
+p658
+aVDanilo Gallinari NYK 11/20/2010 NYK @ LAC W 42 31 7 11 63.6 4 6 66.7 13 13 100.0 1 3 4 2 4 0 1 2 12
+p659
+aVAmar'e Stoudemire NYK 11/19/2010 NYK @ GSW W 39 26 10 12 83.3 0 0 - 6 7 85.7 2 9 11 4 2 2 5 2 2
+p660
+aVLandry Fields NYK 11/19/2010 NYK @ GSW W 28 9 3 7 42.9 1 1 100.0 2 2 100.0 1 8 9 1 0 1 3 2 -1
+p661
+aVRaymond Felton NYK 11/19/2010 NYK @ GSW W 43 35 13 17 76.5 4 7 57.1 5 6 83.3 1 4 5 11 4 1 5 1 4
+p662
+aVRonny Turiaf NYK 11/19/2010 NYK @ GSW W 35 7 3 4 75.0 0 0 - 1 1 100.0 3 1 4 8 0 3 3 1 4
+p663
+aVHenry Walker NYK 11/19/2010 NYK @ GSW W 17 8 3 4 75.0 1 2 50.0 1 2 50.0 1 3 4 0 0 0 0 2 9
+p664
+aVToney Douglas NYK 11/19/2010 NYK @ GSW W 20 4 1 6 16.7 0 4 0.0 2 3 66.7 1 3 4 3 1 0 1 3 5
+p665
+aVWilson Chandler NYK 11/19/2010 NYK @ GSW W 26 13 4 12 33.3 1 4 25.0 4 5 80.0 3 3 6 3 0 0 1 4 12
+p666
+aVDanilo Gallinari NYK 11/19/2010 NYK @ GSW W 33 23 7 15 46.7 3 5 60.0 6 6 100.0 0 0 0 1 0 0 0 1 -5
+p667
+aVDanilo Gallinari NYK 11/17/2010 NYK @ SAC W 41 27 4 8 50.0 3 5 60.0 16 17 94.1 0 4 4 0 0 0 0 1 13
+p668
+aVTimofey Mozgov NYK 11/17/2010 NYK @ SAC W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -3
+p669
+aVHenry Walker NYK 11/17/2010 NYK @ SAC W 12 3 1 3 33.3 0 2 0.0 1 2 50.0 0 0 0 1 1 0 0 1 2
+p670
+aVLandry Fields NYK 11/17/2010 NYK @ SAC W 22 10 2 4 50.0 0 1 0.0 6 6 100.0 1 4 5 2 0 0 4 1 -2
+p671
+aVRaymond Felton NYK 11/17/2010 NYK @ SAC W 34 16 8 15 53.3 0 2 0.0 0 0 - 0 5 5 3 1 0 5 0 -10
+p672
+aVAmar'e Stoudemire NYK 11/17/2010 NYK @ SAC W 40 27 11 19 57.9 0 0 - 5 8 62.5 4 6 10 2 2 2 3 3 2
+p673
+aVRonny Turiaf NYK 11/17/2010 NYK @ SAC W 30 3 1 4 25.0 0 0 - 1 2 50.0 3 4 7 4 1 2 0 4 13
+p674
+aVToney Douglas NYK 11/17/2010 NYK @ SAC W 21 14 5 9 55.6 2 4 50.0 2 2 100.0 0 1 1 1 1 0 2 3 16
+p675
+aVWilson Chandler NYK 11/17/2010 NYK @ SAC W 34 13 5 9 55.6 1 1 100.0 2 2 100.0 1 3 4 1 1 1 2 4 4
+p676
+aVToney Douglas NYK 11/16/2010 NYK @ DEN L 16 0 0 4 0.0 0 3 0.0 0 0 - 1 1 2 2 0 0 0 2 -11
+p677
+aVAnthony Randolph NYK 11/16/2010 NYK @ DEN L 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p678
+aVWilson Chandler NYK 11/16/2010 NYK @ DEN L 31 23 8 16 50.0 2 5 40.0 5 6 83.3 1 0 1 1 0 5 2 5 -1
+p679
+aVDanilo Gallinari NYK 11/16/2010 NYK @ DEN L 36 21 6 19 31.6 2 10 20.0 7 8 87.5 3 7 10 3 0 1 1 4 5
+p680
+aVTimofey Mozgov NYK 11/16/2010 NYK @ DEN L 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 4 -5
+p681
+aVRonny Turiaf NYK 11/16/2010 NYK @ DEN L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 2 1 6 -2
+p682
+aVAmar'e Stoudemire NYK 11/16/2010 NYK @ DEN L 32 24 10 19 52.6 1 2 50.0 3 8 37.5 1 5 6 2 1 2 2 3 -12
+p683
+aVRaymond Felton NYK 11/16/2010 NYK @ DEN L 40 19 5 13 38.5 2 4 50.0 7 10 70.0 4 4 8 12 1 1 1 3 11
+p684
+aVRoger Mason Jr. NYK 11/16/2010 NYK @ DEN L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -11
+p685
+aVLandry Fields NYK 11/16/2010 NYK @ DEN L 38 21 10 15 66.7 0 3 0.0 1 1 100.0 5 12 17 1 2 0 2 5 12
+p686
+aVHenry Walker NYK 11/16/2010 NYK @ DEN L 10 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 1 0 0 0 0 11
+p687
+aVRoger Mason Jr. NYK 11/14/2010 NYK vs. HOU L 11 2 1 5 20.0 0 1 0.0 0 1 0.0 0 4 4 0 0 0 0 2 -11
+p688
+aVDanilo Gallinari NYK 11/14/2010 NYK vs. HOU L 36 14 4 7 57.1 0 1 0.0 6 9 66.7 1 3 4 1 2 0 1 3 -1
+p689
+aVWilson Chandler NYK 11/14/2010 NYK vs. HOU L 38 17 7 15 46.7 0 2 0.0 3 3 100.0 0 7 7 3 0 3 2 4 0
+p690
+aVTimofey Mozgov NYK 11/14/2010 NYK vs. HOU L 17 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 2 1 2 -10
+p691
+aVLandry Fields NYK 11/14/2010 NYK vs. HOU L 32 12 5 6 83.3 1 1 100.0 1 1 100.0 1 5 6 1 0 0 0 4 -1
+p692
+aVAnthony Randolph NYK 11/14/2010 NYK vs. HOU L 11 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 1 1 1 -5
+p693
+aVAmar'e Stoudemire NYK 11/14/2010 NYK vs. HOU L 37 25 10 19 52.6 0 0 - 5 8 62.5 1 7 8 2 1 0 3 4 -3
+p694
+aVToney Douglas NYK 11/14/2010 NYK vs. HOU L 18 3 1 11 9.1 1 6 16.7 0 0 - 3 3 6 2 2 1 0 1 -8
+p695
+aVRaymond Felton NYK 11/14/2010 NYK vs. HOU L 40 15 6 16 37.5 1 5 20.0 2 2 100.0 0 0 0 5 0 0 4 3 -1
+p696
+aVDanilo Gallinari NYK 11/12/2010 NYK @ MIN L 41 25 6 17 35.3 4 11 36.4 9 9 100.0 2 2 4 0 0 0 1 4 -2
+p697
+aVRaymond Felton NYK 11/12/2010 NYK @ MIN L 41 22 6 13 46.2 3 5 60.0 7 7 100.0 2 1 3 8 2 0 4 1 -10
+p698
+aVLandry Fields NYK 11/12/2010 NYK @ MIN L 36 16 7 14 50.0 1 4 25.0 1 3 33.3 2 8 10 2 3 0 2 1 2
+p699
+aVAmar'e Stoudemire NYK 11/12/2010 NYK @ MIN L 28 14 6 15 40.0 0 0 - 2 3 66.7 1 8 9 2 0 4 2 5 -12
+p700
+aVWilson Chandler NYK 11/12/2010 NYK @ MIN L 42 17 6 19 31.6 2 6 33.3 3 3 100.0 2 4 6 7 1 5 1 3 -17
+p701
+aVAnthony Randolph NYK 11/12/2010 NYK @ MIN L 12 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 1 2 0 4
+p702
+aVToney Douglas NYK 11/12/2010 NYK @ MIN L 23 9 4 10 40.0 1 3 33.3 0 0 - 0 3 3 1 1 0 0 2 -11
+p703
+aVTimofey Mozgov NYK 11/12/2010 NYK @ MIN L 17 0 0 2 0.0 0 0 - 0 0 - 2 3 5 1 2 1 1 1 1
+p704
+aVDanilo Gallinari NYK 11/10/2010 NYK vs. GSW L 33 15 3 9 33.3 0 5 0.0 9 9 100.0 1 6 7 3 2 0 3 5 -7
+p705
+aVLandry Fields NYK 11/10/2010 NYK vs. GSW L 34 11 5 7 71.4 0 2 0.0 1 2 50.0 1 5 6 1 0 0 3 3 9
+p706
+aVWilson Chandler NYK 11/10/2010 NYK vs. GSW L 41 27 9 20 45.0 4 10 40.0 5 7 71.4 2 4 6 0 1 3 2 1 -5
+p707
+aVHenry Walker NYK 11/10/2010 NYK vs. GSW L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 2
+p708
+aVAnthony Randolph NYK 11/10/2010 NYK vs. GSW L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -5
+p709
+aVTimofey Mozgov NYK 11/10/2010 NYK vs. GSW L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -3
+p710
+aVRaymond Felton NYK 11/10/2010 NYK vs. GSW L 38 20 6 12 50.0 2 5 40.0 6 6 100.0 3 3 6 6 2 0 4 5 -13
+p711
+aVToney Douglas NYK 11/10/2010 NYK vs. GSW L 34 9 4 12 33.3 0 7 0.0 1 1 100.0 1 0 1 2 2 0 2 4 -1
+p712
+aVAmar'e Stoudemire NYK 11/10/2010 NYK vs. GSW L 41 33 9 15 60.0 1 1 100.0 14 16 87.5 1 9 10 3 3 1 6 3 -2
+p713
+aVRonny Turiaf NYK 11/09/2010 NYK @ MIL L 12 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -13
+p714
+aVLandry Fields NYK 11/09/2010 NYK @ MIL L 22 8 3 7 42.9 0 2 0.0 2 2 100.0 1 2 3 1 0 0 0 0 -6
+p715
+aVTimofey Mozgov NYK 11/09/2010 NYK @ MIL L 23 7 3 8 37.5 0 0 - 1 1 100.0 2 3 5 1 1 0 0 5 -18
+p716
+aVHenry Walker NYK 11/09/2010 NYK @ MIL L 20 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 1 0 0 3 4 -6
+p717
+aVRaymond Felton NYK 11/09/2010 NYK @ MIL L 26 10 3 6 50.0 0 2 0.0 4 4 100.0 0 0 0 8 1 1 6 2 -17
+p718
+aVDanilo Gallinari NYK 11/09/2010 NYK @ MIL L 20 5 1 6 16.7 0 2 0.0 3 3 100.0 2 1 3 1 0 0 0 1 0
+p719
+aVWilson Chandler NYK 11/09/2010 NYK @ MIL L 18 11 5 11 45.5 1 4 25.0 0 0 - 1 1 2 2 0 1 2 4 -6
+p720
+aVRoger Mason Jr. NYK 11/09/2010 NYK @ MIL L 15 0 0 2 0.0 0 0 - 0 1 0.0 0 3 3 0 1 0 0 1 -9
+p721
+aVAndy Rautins NYK 11/09/2010 NYK @ MIL L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 3 0 -5
+p722
+aVAmar'e Stoudemire NYK 11/09/2010 NYK @ MIL L 26 19 7 13 53.8 1 1 100.0 4 4 100.0 0 4 4 0 1 2 2 3 -18
+p723
+aVAnthony Randolph NYK 11/09/2010 NYK @ MIL L 28 8 2 7 28.6 0 0 - 4 4 100.0 3 6 9 2 2 2 1 5 -15
+p724
+aVToney Douglas NYK 11/09/2010 NYK @ MIL L 19 6 2 6 33.3 2 3 66.7 0 0 - 0 2 2 1 0 0 3 3 -22
+p725
+aVRonny Turiaf NYK 11/07/2010 NYK vs. PHI L 28 5 2 4 50.0 0 0 - 1 3 33.3 2 1 3 5 1 3 1 4 -5
+p726
+aVLandry Fields NYK 11/07/2010 NYK vs. PHI L 20 8 4 5 80.0 0 0 - 0 0 - 0 5 5 2 1 1 1 2 15
+p727
+aVHenry Walker NYK 11/07/2010 NYK vs. PHI L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -6
+p728
+aVTimofey Mozgov NYK 11/07/2010 NYK vs. PHI L 15 9 4 6 66.7 0 0 - 1 2 50.0 0 0 0 0 1 0 3 2 8
+p729
+aVAnthony Randolph NYK 11/07/2010 NYK vs. PHI L 12 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 0 -1
+p730
+aVToney Douglas NYK 11/07/2010 NYK vs. PHI L 26 17 5 13 38.5 0 4 0.0 7 7 100.0 0 2 2 1 3 0 3 5 -19
+p731
+aVRaymond Felton NYK 11/07/2010 NYK vs. PHI L 33 7 2 11 18.2 0 3 0.0 3 3 100.0 3 5 8 10 2 1 3 4 -11
+p732
+aVWilson Chandler NYK 11/07/2010 NYK vs. PHI L 24 11 4 14 28.6 1 5 20.0 2 4 50.0 2 2 4 0 1 0 3 2 -19
+p733
+aVAmar'e Stoudemire NYK 11/07/2010 NYK vs. PHI L 36 21 8 18 44.4 0 0 - 5 8 62.5 5 10 15 1 2 1 1 4 -9
+p734
+aVDanilo Gallinari NYK 11/07/2010 NYK vs. PHI L 33 15 4 11 36.4 2 6 33.3 5 6 83.3 1 5 6 1 1 0 0 1 -3
+p735
+aVDanilo Gallinari NYK 11/05/2010 NYK vs. WAS W 33 16 6 13 46.2 4 9 44.4 0 1 0.0 2 2 4 2 0 2 1 1 24
+p736
+aVWilson Chandler NYK 11/05/2010 NYK vs. WAS W 24 14 5 8 62.5 1 2 50.0 3 3 100.0 2 4 6 0 0 1 2 1 13
+p737
+aVLandry Fields NYK 11/05/2010 NYK vs. WAS W 20 5 2 5 40.0 1 2 50.0 0 0 - 1 2 3 1 0 0 0 2 8
+p738
+aVTimofey Mozgov NYK 11/05/2010 NYK vs. WAS W 14 6 3 4 75.0 0 0 - 0 2 0.0 0 0 0 2 3 1 4 1 -2
+p739
+aVToney Douglas NYK 11/05/2010 NYK vs. WAS W 30 19 8 19 42.1 3 8 37.5 0 0 - 4 6 10 3 5 0 1 1 19
+p740
+aVRonny Turiaf NYK 11/05/2010 NYK vs. WAS W 30 10 4 4 100.0 0 0 - 2 2 100.0 0 4 4 2 0 1 2 5 23
+p741
+aVAnthony Randolph NYK 11/05/2010 NYK vs. WAS W 10 2 1 7 14.3 0 1 0.0 0 2 0.0 3 4 7 0 1 2 3 3 -1
+p742
+aVAmar'e Stoudemire NYK 11/05/2010 NYK vs. WAS W 33 18 6 11 54.5 0 0 - 6 7 85.7 1 3 4 2 1 4 2 1 11
+p743
+aVRaymond Felton NYK 11/05/2010 NYK vs. WAS W 31 13 5 10 50.0 2 5 40.0 1 1 100.0 0 2 2 10 1 0 3 4 9
+p744
+aVHenry Walker NYK 11/05/2010 NYK vs. WAS W 15 9 4 6 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 1
+p745
+aVAmar'e Stoudemire NYK 11/04/2010 NYK @ CHI W 37 14 5 21 23.8 0 0 - 4 5 80.0 2 6 8 3 1 2 8 6 1
+p746
+aVHenry Walker NYK 11/04/2010 NYK @ CHI W 15 6 2 2 100.0 1 1 100.0 1 2 50.0 0 1 1 1 0 0 1 0 20
+p747
+aVRaymond Felton NYK 11/04/2010 NYK @ CHI W 35 20 7 11 63.6 4 6 66.7 2 2 100.0 1 4 5 10 2 0 3 0 -8
+p748
+aVRonny Turiaf NYK 11/04/2010 NYK @ CHI W 26 9 4 8 50.0 0 0 - 1 1 100.0 4 3 7 3 2 1 0 2 15
+p749
+aVWilson Chandler NYK 11/04/2010 NYK @ CHI W 25 10 4 11 36.4 1 3 33.3 1 2 50.0 1 4 5 3 1 1 1 5 10
+p750
+aVTimofey Mozgov NYK 11/04/2010 NYK @ CHI W 10 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 1 1 1 -4
+p751
+aVToney Douglas NYK 11/04/2010 NYK @ CHI W 31 30 9 14 64.3 5 9 55.6 7 7 100.0 0 1 1 4 4 0 1 4 15
+p752
+aVAnthony Randolph NYK 11/04/2010 NYK @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 6
+p753
+aVDanilo Gallinari NYK 11/04/2010 NYK @ CHI W 37 24 7 11 63.6 4 4 100.0 6 6 100.0 2 4 6 1 2 1 1 2 -7
+p754
+aVLandry Fields NYK 11/04/2010 NYK @ CHI W 21 6 2 2 100.0 1 1 100.0 1 2 50.0 0 3 3 1 0 0 1 3 -8
+p755
+aVLandry Fields NYK 10/30/2010 NYK vs. POR L 25 11 3 6 50.0 0 1 0.0 5 6 83.3 2 6 8 1 1 0 1 2 -7
+p756
+aVRaymond Felton NYK 10/30/2010 NYK vs. POR L 37 16 7 14 50.0 1 4 25.0 1 2 50.0 1 4 5 5 1 0 2 1 -7
+p757
+aVAmar'e Stoudemire NYK 10/30/2010 NYK vs. POR L 35 18 8 17 47.1 0 2 0.0 2 4 50.0 3 2 5 3 0 0 6 5 -2
+p758
+aVDanilo Gallinari NYK 10/30/2010 NYK vs. POR L 15 4 2 9 22.2 0 3 0.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p759
+aVTimofey Mozgov NYK 10/30/2010 NYK vs. POR L 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 1 2 4 2
+p760
+aVRonny Turiaf NYK 10/30/2010 NYK vs. POR L 25 2 0 1 0.0 0 0 - 2 6 33.3 3 3 6 4 2 2 1 3 5
+p761
+aVRoger Mason Jr. NYK 10/30/2010 NYK vs. POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p762
+aVToney Douglas NYK 10/30/2010 NYK vs. POR L 27 11 5 11 45.5 0 4 0.0 1 3 33.3 2 2 4 2 2 0 2 5 1
+p763
+aVWilson Chandler NYK 10/30/2010 NYK vs. POR L 38 22 8 22 36.4 3 9 33.3 3 4 75.0 6 10 16 0 2 3 1 2 -2
+p764
+aVHenry Walker NYK 10/30/2010 NYK vs. POR L 18 9 3 5 60.0 3 5 60.0 0 0 - 0 3 3 0 0 0 1 1 -1
+p765
+aVDanilo Gallinari NYK 10/29/2010 NYK @ BOS L 12 2 0 6 0.0 0 3 0.0 2 2 100.0 0 3 3 1 0 0 1 3 -3
+p766
+aVHenry Walker NYK 10/29/2010 NYK @ BOS L 17 4 2 4 50.0 0 2 0.0 0 0 - 1 1 2 2 0 0 0 1 1
+p767
+aVLandry Fields NYK 10/29/2010 NYK @ BOS L 34 11 5 10 50.0 1 3 33.3 0 0 - 2 8 10 4 1 0 0 1 -10
+p768
+aVAmar'e Stoudemire NYK 10/29/2010 NYK @ BOS L 36 27 8 17 47.1 2 3 66.7 9 13 69.2 2 6 8 4 0 2 2 5 -3
+p769
+aVRonny Turiaf NYK 10/29/2010 NYK @ BOS L 22 6 2 2 100.0 0 0 - 2 4 50.0 0 0 0 3 0 2 0 2 10
+p770
+aVToney Douglas NYK 10/29/2010 NYK @ BOS L 25 12 4 8 50.0 3 5 60.0 1 2 50.0 0 4 4 3 1 0 2 2 0
+p771
+aVWilson Chandler NYK 10/29/2010 NYK @ BOS L 33 19 9 20 45.0 1 7 14.3 0 0 - 2 4 6 0 2 4 1 4 -2
+p772
+aVRoger Mason Jr. NYK 10/29/2010 NYK @ BOS L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 8
+p773
+aVTimofey Mozgov NYK 10/29/2010 NYK @ BOS L 17 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 1 1 2 1 -11
+p774
+aVRaymond Felton NYK 10/29/2010 NYK @ BOS L 37 17 6 14 42.9 2 4 50.0 3 4 75.0 0 1 1 6 3 0 2 1 -10
+p775
+aVRonny Turiaf NYK 10/27/2010 NYK @ TOR W 23 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 0 2 4 0 0 7
+p776
+aVHenry Walker NYK 10/27/2010 NYK @ TOR W 10 0 0 6 0.0 0 2 0.0 0 0 - 2 0 2 0 0 0 1 2 3
+p777
+aVRaymond Felton NYK 10/27/2010 NYK @ TOR W 37 15 6 14 42.9 1 4 25.0 2 2 100.0 2 4 6 6 1 0 3 2 2
+p778
+aVDanilo Gallinari NYK 10/27/2010 NYK @ TOR W 33 12 3 9 33.3 2 5 40.0 4 4 100.0 0 6 6 1 1 1 0 3 -3
+p779
+aVRoger Mason Jr. NYK 10/27/2010 NYK @ TOR W 7 1 0 3 0.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 0 0 3
+p780
+aVToney Douglas NYK 10/27/2010 NYK @ TOR W 27 10 5 9 55.6 0 3 0.0 0 0 - 1 3 4 0 0 0 1 4 4
+p781
+aVLandry Fields NYK 10/27/2010 NYK @ TOR W 30 11 4 8 50.0 3 6 50.0 0 0 - 2 2 4 0 0 1 0 1 6
+p782
+aVAmar'e Stoudemire NYK 10/27/2010 NYK @ TOR W 36 19 7 16 43.8 0 0 - 5 6 83.3 3 7 10 2 0 2 9 3 2
+p783
+aVWilson Chandler NYK 10/27/2010 NYK @ TOR W 29 22 10 18 55.6 1 3 33.3 1 2 50.0 2 6 8 2 0 2 0 4 0
+p784
+aVTimofey Mozgov NYK 10/27/2010 NYK @ TOR W 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 1
+p785
+a.

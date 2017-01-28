@@ -1,0 +1,100 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDwight Howard HOU 05/02/2014 HOU @ POR L 40 26 10 18 55.6 0 0 - 6 11 54.5 5 6 11 3 1 2 3 4 -2
+p2
+aVOmer Asik HOU 05/02/2014 HOU @ POR L 33 4 1 2 50.0 0 0 - 2 2 100.0 3 4 7 1 2 1 2 6 16
+p3
+aVJeremy Lin HOU 05/02/2014 HOU @ POR L 32 11 4 13 30.8 1 6 16.7 2 4 50.0 0 1 1 3 0 0 3 1 -3
+p4
+aVTerrence Jones HOU 05/02/2014 HOU @ POR L 18 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 1 0 1 2 -16
+p5
+aVChandler Parsons HOU 05/02/2014 HOU @ POR L 42 16 7 17 41.2 2 4 50.0 0 0 - 3 9 12 3 0 0 1 1 7
+p6
+aVTroy Daniels HOU 05/02/2014 HOU @ POR L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -13
+p7
+aVPatrick Beverley HOU 05/02/2014 HOU @ POR L 23 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 3 0 0 1 2 -1
+p8
+aVJames Harden HOU 05/02/2014 HOU @ POR L 42 34 9 15 60.0 4 6 66.7 12 12 100.0 0 4 4 6 4 0 4 3 7
+p9
+aVPatrick Beverley HOU 04/30/2014 HOU vs. POR W 21 5 2 5 40.0 1 3 33.3 0 0 - 2 1 3 2 0 1 0 1 -3
+p10
+aVChandler Parsons HOU 04/30/2014 HOU vs. POR W 41 20 8 22 36.4 3 8 37.5 1 2 50.0 1 3 4 4 1 0 1 2 7
+p11
+aVTerrence Jones HOU 04/30/2014 HOU vs. POR W 22 8 4 5 80.0 0 0 - 0 0 - 2 1 3 3 0 1 1 2 12
+p12
+aVJeremy Lin HOU 04/30/2014 HOU vs. POR W 31 21 9 15 60.0 2 5 40.0 1 1 100.0 1 2 3 4 2 1 2 1 10
+p13
+aVJames Harden HOU 04/30/2014 HOU vs. POR W 41 17 5 15 33.3 1 7 14.3 6 7 85.7 1 2 3 7 3 1 2 2 10
+p14
+aVOmer Asik HOU 04/30/2014 HOU vs. POR W 33 10 5 12 41.7 0 0 - 0 0 - 6 9 15 0 0 1 3 6 -6
+p15
+aVTroy Daniels HOU 04/30/2014 HOU vs. POR W 17 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 1 1 0 2 3 11
+p16
+aVDwight Howard HOU 04/30/2014 HOU vs. POR W 33 22 9 15 60.0 0 0 - 4 6 66.7 1 13 14 2 0 3 1 4 9
+p17
+aVPatrick Beverley HOU 04/27/2014 HOU @ POR L 37 6 2 7 28.6 0 4 0.0 2 2 100.0 1 0 1 1 0 0 2 4 -7
+p18
+aVChandler Parsons HOU 04/27/2014 HOU @ POR L 45 26 11 18 61.1 4 6 66.7 0 2 0.0 0 8 8 2 1 1 2 5 -3
+p19
+aVOmer Asik HOU 04/27/2014 HOU @ POR L 33 6 3 5 60.0 0 0 - 0 0 - 2 6 8 0 0 1 1 5 -2
+p20
+aVJeremy Lin HOU 04/27/2014 HOU @ POR L 21 4 1 6 16.7 0 2 0.0 2 2 100.0 2 3 5 4 0 0 3 2 0
+p21
+aVTroy Daniels HOU 04/27/2014 HOU @ POR L 21 17 5 7 71.4 4 5 80.0 3 3 100.0 1 2 3 0 0 0 0 3 9
+p22
+aVDwight Howard HOU 04/27/2014 HOU @ POR L 44 25 7 14 50.0 0 0 - 11 17 64.7 3 11 14 2 2 2 3 2 -10
+p23
+aVTerrence Jones HOU 04/27/2014 HOU @ POR L 22 8 3 6 50.0 0 0 - 2 4 50.0 4 2 6 1 1 0 0 2 4
+p24
+aVJames Harden HOU 04/27/2014 HOU @ POR L 42 28 9 21 42.9 3 11 27.3 7 8 87.5 1 3 4 6 1 0 5 4 -6
+p25
+aVTroy Daniels HOU 04/25/2014 HOU @ POR W 20 9 3 6 50.0 3 6 50.0 0 0 - 2 1 3 0 1 0 0 3 0
+p26
+aVChandler Parsons HOU 04/25/2014 HOU @ POR W 34 15 5 12 41.7 1 4 25.0 4 4 100.0 1 3 4 2 0 1 0 6 -8
+p27
+aVTerrence Jones HOU 04/25/2014 HOU @ POR W 13 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 8
+p28
+aVJames Harden HOU 04/25/2014 HOU @ POR W 50 37 13 35 37.1 3 11 27.3 8 9 88.9 1 8 9 6 2 0 1 3 11
+p29
+aVPatrick Beverley HOU 04/25/2014 HOU @ POR W 42 16 6 15 40.0 4 6 66.7 0 0 - 4 5 9 1 1 0 0 3 9
+p30
+aVOmer Asik HOU 04/25/2014 HOU @ POR W 27 7 3 7 42.9 0 0 - 1 1 100.0 5 3 8 2 0 1 2 4 13
+p31
+aVJeremy Lin HOU 04/25/2014 HOU @ POR W 33 13 5 11 45.5 1 4 25.0 2 2 100.0 1 3 4 6 0 0 1 3 -10
+p32
+aVDwight Howard HOU 04/25/2014 HOU @ POR W 45 24 10 16 62.5 0 0 - 4 6 66.7 6 8 14 2 0 2 4 4 2
+p33
+aVDwight Howard HOU 04/23/2014 HOU vs. POR L 35 32 13 22 59.1 0 0 - 6 7 85.7 6 8 14 1 0 4 6 5 0
+p34
+aVJames Harden HOU 04/23/2014 HOU vs. POR L 44 18 6 19 31.6 2 5 40.0 4 4 100.0 0 3 3 4 1 0 5 6 1
+p35
+aVPatrick Beverley HOU 04/23/2014 HOU vs. POR L 41 14 5 11 45.5 1 4 25.0 3 4 75.0 1 1 2 2 1 0 0 5 -6
+p36
+aVTerrence Jones HOU 04/23/2014 HOU vs. POR L 26 13 5 11 45.5 0 1 0.0 3 6 50.0 4 4 8 1 2 0 0 1 -6
+p37
+aVOmer Asik HOU 04/23/2014 HOU vs. POR L 24 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 1 0 1 3 -8
+p38
+aVChandler Parsons HOU 04/23/2014 HOU vs. POR L 40 15 5 15 33.3 0 3 0.0 5 5 100.0 1 6 7 2 1 0 0 2 -5
+p39
+aVJeremy Lin HOU 04/23/2014 HOU vs. POR L 25 5 1 5 20.0 0 3 0.0 3 4 75.0 0 3 3 5 1 0 2 4 -3
+p40
+aVFrancisco Garcia HOU 04/23/2014 HOU vs. POR L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p41
+aVChandler Parsons HOU 04/20/2014 HOU vs. POR L 47 24 10 21 47.6 3 11 27.3 1 2 50.0 0 6 6 1 1 0 1 3 -2
+p42
+aVJames Harden HOU 04/20/2014 HOU vs. POR L 45 27 8 28 28.6 3 14 21.4 8 10 80.0 2 3 5 6 1 0 4 3 -8
+p43
+aVPatrick Beverley HOU 04/20/2014 HOU vs. POR L 38 9 3 8 37.5 1 4 25.0 2 4 50.0 4 2 6 2 1 1 1 6 -2
+p44
+aVDwight Howard HOU 04/20/2014 HOU vs. POR L 34 27 9 21 42.9 0 0 - 9 17 52.9 6 9 15 1 1 4 2 6 -5
+p45
+aVJeremy Lin HOU 04/20/2014 HOU vs. POR L 34 14 5 11 45.5 1 3 33.3 3 3 100.0 3 3 6 4 0 0 2 4 5
+p46
+aVTerrence Jones HOU 04/20/2014 HOU vs. POR L 36 12 6 10 60.0 0 0 - 0 0 - 3 10 13 2 1 2 0 4 -3
+p47
+aVFrancisco Garcia HOU 04/20/2014 HOU vs. POR L 18 5 1 4 25.0 0 3 0.0 3 4 75.0 1 1 2 0 0 0 0 2 8
+p48
+aVOmer Asik HOU 04/20/2014 HOU vs. POR L 12 2 1 2 50.0 0 0 - 0 0 - 3 3 6 0 0 0 2 5 -3
+p49
+a.

@@ -1,0 +1,982 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAndre Roberson OKC 01/23/2017 OKC @ UTA W 31 8 4 6 66.7 0 2 0.0 0 0 - 1 10 11 2 0 0 0 3 6
+p2
+aVAlex Abrines OKC 01/23/2017 OKC @ UTA W 13 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 0 0 0 0 1 -6
+p3
+aVSteven Adams OKC 01/23/2017 OKC @ UTA W 37 9 4 10 40.0 0 0 - 1 2 50.0 3 3 6 1 0 4 2 2 7
+p4
+aVJerami Grant OKC 01/23/2017 OKC @ UTA W 19 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 1 0 1 -6
+p5
+aVDomantas Sabonis OKC 01/23/2017 OKC @ UTA W 18 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 2 0 0 1 2 1
+p6
+aVCameron Payne OKC 01/23/2017 OKC @ UTA W 14 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 2 -11
+p7
+aVJoffrey Lauvergne OKC 01/23/2017 OKC @ UTA W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p8
+aVVictor Oladipo OKC 01/23/2017 OKC @ UTA W 30 18 8 11 72.7 1 1 100.0 1 2 50.0 1 3 4 1 2 0 0 5 18
+p9
+aVEnes Kanter OKC 01/23/2017 OKC @ UTA W 29 14 5 9 55.6 0 0 - 4 4 100.0 2 3 5 0 0 0 0 3 2
+p10
+aVRussell Westbrook OKC 01/23/2017 OKC @ UTA W 36 38 11 29 37.9 3 7 42.9 13 17 76.5 1 9 10 10 4 1 6 3 4
+p11
+aVJerami Grant OKC 01/18/2017 OKC @ GSW L 29 7 2 8 25.0 0 2 0.0 3 4 75.0 1 0 1 1 1 2 0 4 -28
+p12
+aVCameron Payne OKC 01/18/2017 OKC @ GSW L 25 9 3 8 37.5 1 5 20.0 2 2 100.0 0 1 1 4 0 1 1 2 5
+p13
+aVKyle Singler OKC 01/18/2017 OKC @ GSW L 17 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 -6
+p14
+aVAlex Abrines OKC 01/18/2017 OKC @ GSW L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -2
+p15
+aVAnthony Morrow OKC 01/18/2017 OKC @ GSW L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 1
+p16
+aVEnes Kanter OKC 01/18/2017 OKC @ GSW L 30 22 11 18 61.1 0 0 - 0 0 - 5 4 9 1 1 0 3 4 -7
+p17
+aVAndre Roberson OKC 01/18/2017 OKC @ GSW L 34 3 1 7 14.3 0 3 0.0 1 2 50.0 1 1 2 1 0 0 1 1 -19
+p18
+aVRussell Westbrook OKC 01/18/2017 OKC @ GSW L 35 27 8 23 34.8 1 6 16.7 10 11 90.9 4 11 15 13 2 2 10 5 -19
+p19
+aVDomantas Sabonis OKC 01/18/2017 OKC @ GSW L 15 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 1 0 1 1 -12
+p20
+aVVictor Oladipo OKC 01/18/2017 OKC @ GSW L 37 20 8 17 47.1 4 8 50.0 0 0 - 1 2 3 2 4 1 2 2 -18
+p21
+aVRussell Westbrook OKC 01/16/2017 OKC @ LAC L 29 24 7 19 36.8 2 7 28.6 8 9 88.9 1 4 5 4 2 0 4 2 -20
+p22
+aVJerami Grant OKC 01/16/2017 OKC @ LAC L 34 9 3 4 75.0 3 3 100.0 0 0 - 1 7 8 1 0 3 2 0 -23
+p23
+aVDomantas Sabonis OKC 01/16/2017 OKC @ LAC L 27 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 4 2 0 2 3 -6
+p24
+aVAlex Abrines OKC 01/16/2017 OKC @ LAC L 14 4 1 4 25.0 0 1 0.0 2 3 66.7 0 0 0 1 1 0 1 4 -5
+p25
+aVKyle Singler OKC 01/16/2017 OKC @ LAC L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p26
+aVCameron Payne OKC 01/16/2017 OKC @ LAC L 21 8 4 9 44.4 0 4 0.0 0 0 - 0 0 0 2 1 0 2 3 1
+p27
+aVAnthony Morrow OKC 01/16/2017 OKC @ LAC L 5 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p28
+aVVictor Oladipo OKC 01/16/2017 OKC @ LAC L 24 6 3 11 27.3 0 2 0.0 0 0 - 0 3 3 3 2 0 1 1 -22
+p29
+aVEnes Kanter OKC 01/16/2017 OKC @ LAC L 23 12 5 10 50.0 0 1 0.0 2 2 100.0 3 2 5 1 1 1 3 0 -14
+p30
+aVJoffrey Lauvergne OKC 01/16/2017 OKC @ LAC L 30 13 5 14 35.7 1 4 25.0 2 3 66.7 3 6 9 1 1 0 0 0 -4
+p31
+aVAndre Roberson OKC 01/16/2017 OKC @ LAC L 26 5 2 5 40.0 1 4 25.0 0 0 - 1 4 5 1 0 0 0 1 -17
+p32
+aVJoffrey Lauvergne OKC 01/15/2017 OKC @ SAC W 4 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -3
+p33
+aVJerami Grant OKC 01/15/2017 OKC @ SAC W 19 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 0 1 0 2 4
+p34
+aVDomantas Sabonis OKC 01/15/2017 OKC @ SAC W 28 7 3 8 37.5 0 4 0.0 1 2 50.0 0 3 3 1 0 0 1 5 -9
+p35
+aVCameron Payne OKC 01/15/2017 OKC @ SAC W 18 4 2 7 28.6 0 3 0.0 0 0 - 1 1 2 1 2 0 0 4 10
+p36
+aVAlex Abrines OKC 01/15/2017 OKC @ SAC W 17 13 3 5 60.0 3 4 75.0 4 5 80.0 1 2 3 1 1 0 2 4 9
+p37
+aVRussell Westbrook OKC 01/15/2017 OKC @ SAC W 36 36 11 21 52.4 4 5 80.0 10 11 90.9 2 9 11 10 4 0 7 1 -1
+p38
+aVEnes Kanter OKC 01/15/2017 OKC @ SAC W 32 29 10 18 55.6 0 1 0.0 9 11 81.8 7 5 12 2 1 1 4 5 19
+p39
+aVAndre Roberson OKC 01/15/2017 OKC @ SAC W 27 1 0 6 0.0 0 2 0.0 1 4 25.0 5 0 5 1 3 1 0 1 -3
+p40
+aVSteven Adams OKC 01/15/2017 OKC @ SAC W 20 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 1 0 3 1 1
+p41
+aVVictor Oladipo OKC 01/15/2017 OKC @ SAC W 40 23 7 14 50.0 1 7 14.3 8 8 100.0 0 1 1 2 2 1 2 3 -7
+p42
+aVJerami Grant OKC 01/13/2017 OKC @ MIN L 20 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 -1
+p43
+aVAndre Roberson OKC 01/13/2017 OKC @ MIN L 32 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 1 5 2 0 3 -5
+p44
+aVAlex Abrines OKC 01/13/2017 OKC @ MIN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p45
+aVDomantas Sabonis OKC 01/13/2017 OKC @ MIN L 21 7 3 11 27.3 0 3 0.0 1 3 33.3 1 5 6 0 0 0 0 2 2
+p46
+aVSteven Adams OKC 01/13/2017 OKC @ MIN L 32 4 2 5 40.0 0 0 - 0 0 - 3 2 5 1 2 0 2 4 -12
+p47
+aVRussell Westbrook OKC 01/13/2017 OKC @ MIN L 36 21 7 23 30.4 1 10 10.0 6 7 85.7 3 8 11 12 2 0 10 3 -10
+p48
+aVCameron Payne OKC 01/13/2017 OKC @ MIN L 16 4 2 6 33.3 0 2 0.0 0 0 - 0 4 4 2 0 0 1 1 -1
+p49
+aVVictor Oladipo OKC 01/13/2017 OKC @ MIN L 33 19 8 18 44.4 1 4 25.0 2 2 100.0 2 3 5 0 1 0 1 0 -7
+p50
+aVJoffrey Lauvergne OKC 01/13/2017 OKC @ MIN L 10 0 0 4 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -8
+p51
+aVKyle Singler OKC 01/13/2017 OKC @ MIN L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p52
+aVEnes Kanter OKC 01/13/2017 OKC @ MIN L 30 21 8 10 80.0 1 1 100.0 4 5 80.0 6 2 8 2 0 0 3 4 -5
+p53
+aVJoffrey Lauvergne OKC 01/11/2017 OKC vs. MEM W 11 6 1 2 50.0 0 1 0.0 4 4 100.0 1 2 3 1 0 0 0 2 -3
+p54
+aVAlex Abrines OKC 01/11/2017 OKC vs. MEM W 17 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 0 3 9
+p55
+aVCameron Payne OKC 01/11/2017 OKC vs. MEM W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -5
+p56
+aVEnes Kanter OKC 01/11/2017 OKC vs. MEM W 30 19 8 18 44.4 0 2 0.0 3 3 100.0 3 9 12 3 2 0 4 3 9
+p57
+aVAndre Roberson OKC 01/11/2017 OKC vs. MEM W 31 8 3 5 60.0 1 3 33.3 1 2 50.0 1 7 8 0 0 1 1 1 9
+p58
+aVJerami Grant OKC 01/11/2017 OKC vs. MEM W 18 10 4 6 66.7 1 2 50.0 1 1 100.0 1 3 4 0 0 0 1 1 -2
+p59
+aVSteven Adams OKC 01/11/2017 OKC vs. MEM W 39 12 6 13 46.2 0 0 - 0 1 0.0 4 4 8 1 1 2 0 2 9
+p60
+aVVictor Oladipo OKC 01/11/2017 OKC vs. MEM W 32 16 5 10 50.0 4 7 57.1 2 3 66.7 0 3 3 2 0 0 1 1 1
+p61
+aVRussell Westbrook OKC 01/11/2017 OKC vs. MEM W 37 24 6 20 30.0 0 7 0.0 12 15 80.0 1 12 13 12 2 1 6 1 13
+p62
+aVDomantas Sabonis OKC 01/11/2017 OKC vs. MEM W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 -2
+p63
+aVNick Collison OKC 01/11/2017 OKC vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p64
+aVJoffrey Lauvergne OKC 01/09/2017 OKC @ CHI W 14 6 2 3 66.7 1 2 50.0 1 2 50.0 0 0 0 0 0 0 3 0 -4
+p65
+aVAndre Roberson OKC 01/09/2017 OKC @ CHI W 33 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 2 1 1 1 1 22
+p66
+aVSteven Adams OKC 01/09/2017 OKC @ CHI W 36 22 11 14 78.6 0 0 - 0 0 - 1 4 5 2 0 1 1 0 13
+p67
+aVDomantas Sabonis OKC 01/09/2017 OKC @ CHI W 22 5 1 5 20.0 0 2 0.0 3 3 100.0 1 4 5 1 0 0 0 3 -8
+p68
+aVVictor Oladipo OKC 01/09/2017 OKC @ CHI W 25 13 6 9 66.7 1 2 50.0 0 0 - 0 2 2 2 2 0 1 4 10
+p69
+aVRussell Westbrook OKC 01/09/2017 OKC @ CHI W 33 21 9 18 50.0 1 7 14.3 2 3 66.7 0 9 9 14 1 0 4 2 10
+p70
+aVJerami Grant OKC 01/09/2017 OKC @ CHI W 16 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 1 0 2 0 2 4
+p71
+aVAlex Abrines OKC 01/09/2017 OKC @ CHI W 19 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 2 0 1 1 0 -4
+p72
+aVCameron Payne OKC 01/09/2017 OKC @ CHI W 15 0 0 6 0.0 0 1 0.0 0 0 - 0 4 4 3 0 0 0 4 5
+p73
+aVEnes Kanter OKC 01/09/2017 OKC @ CHI W 28 20 9 11 81.8 0 0 - 2 3 66.7 4 7 11 3 1 0 1 1 27
+p74
+aVRussell Westbrook OKC 01/07/2017 OKC vs. DEN W 35 32 10 20 50.0 7 12 58.3 5 6 83.3 2 15 17 11 3 0 5 3 24
+p75
+aVCameron Payne OKC 01/07/2017 OKC vs. DEN W 13 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 1 0 0 1 1 -9
+p76
+aVAlex Abrines OKC 01/07/2017 OKC vs. DEN W 20 7 1 4 25.0 1 3 33.3 4 4 100.0 0 2 2 3 1 0 0 3 -1
+p77
+aVVictor Oladipo OKC 01/07/2017 OKC vs. DEN W 33 15 7 19 36.8 0 8 0.0 1 2 50.0 1 2 3 3 2 1 0 3 17
+p78
+aVEnes Kanter OKC 01/07/2017 OKC vs. DEN W 21 14 7 12 58.3 0 0 - 0 0 - 2 4 6 1 0 1 1 0 0
+p79
+aVJerami Grant OKC 01/07/2017 OKC vs. DEN W 24 3 1 3 33.3 0 2 0.0 1 1 100.0 0 0 0 0 0 4 1 1 2
+p80
+aVSteven Adams OKC 01/07/2017 OKC vs. DEN W 31 16 7 10 70.0 0 0 - 2 3 66.7 0 5 5 2 1 4 2 3 23
+p81
+aVAndre Roberson OKC 01/07/2017 OKC vs. DEN W 39 13 3 7 42.9 2 5 40.0 5 8 62.5 0 9 9 0 0 1 0 3 17
+p82
+aVJoffrey Lauvergne OKC 01/07/2017 OKC vs. DEN W 5 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -3
+p83
+aVDomantas Sabonis OKC 01/07/2017 OKC vs. DEN W 19 9 2 7 28.6 0 2 0.0 5 5 100.0 1 4 5 1 1 0 0 2 5
+p84
+aVAlex Abrines OKC 01/05/2017 OKC @ HOU L 17 3 1 2 50.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 0 2 1
+p85
+aVEnes Kanter OKC 01/05/2017 OKC @ HOU L 22 15 5 8 62.5 0 0 - 5 6 83.3 6 7 13 1 0 1 1 2 5
+p86
+aVSteven Adams OKC 01/05/2017 OKC @ HOU L 29 8 2 6 33.3 0 0 - 4 4 100.0 1 7 8 3 2 2 2 2 -7
+p87
+aVVictor Oladipo OKC 01/05/2017 OKC @ HOU L 41 17 6 16 37.5 4 9 44.4 1 2 50.0 2 5 7 2 1 0 1 3 -9
+p88
+aVRussell Westbrook OKC 01/05/2017 OKC @ HOU L 38 49 16 34 47.1 8 15 53.3 9 11 81.8 1 7 8 5 2 0 5 2 2
+p89
+aVSemaj Christon OKC 01/05/2017 OKC @ HOU L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p90
+aVJerami Grant OKC 01/05/2017 OKC @ HOU L 22 2 1 5 20.0 0 1 0.0 0 0 - 0 4 4 2 0 2 0 3 -3
+p91
+aVDomantas Sabonis OKC 01/05/2017 OKC @ HOU L 22 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 1 2 0 3 1
+p92
+aVAndre Roberson OKC 01/05/2017 OKC @ HOU L 36 14 6 11 54.5 0 3 0.0 2 2 100.0 5 4 9 0 0 2 0 4 4
+p93
+aVSemaj Christon OKC 01/04/2017 OKC @ CHA L 15 4 2 3 66.7 0 0 - 0 0 - 0 3 3 5 0 0 2 2 -4
+p94
+aVEnes Kanter OKC 01/04/2017 OKC @ CHA L 20 22 8 13 61.5 1 2 50.0 5 6 83.3 2 6 8 0 0 0 1 3 -4
+p95
+aVRussell Westbrook OKC 01/04/2017 OKC @ CHA L 34 33 10 31 32.3 2 12 16.7 11 13 84.6 3 12 15 8 2 1 4 5 -8
+p96
+aVAndre Roberson OKC 01/04/2017 OKC @ CHA L 30 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 1 3 -10
+p97
+aVAlex Abrines OKC 01/04/2017 OKC @ CHA L 21 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 0 2 0 0 4 0
+p98
+aVSteven Adams OKC 01/04/2017 OKC @ CHA L 36 18 8 10 80.0 0 0 - 2 2 100.0 4 8 12 3 1 1 2 5 -8
+p99
+aVVictor Oladipo OKC 01/04/2017 OKC @ CHA L 36 18 7 20 35.0 3 8 37.5 1 2 50.0 2 1 3 5 1 0 3 5 -6
+p100
+aVAnthony Morrow OKC 01/04/2017 OKC @ CHA L 4 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p101
+aVDomantas Sabonis OKC 01/04/2017 OKC @ CHA L 17 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -8
+p102
+aVJerami Grant OKC 01/04/2017 OKC @ CHA L 27 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 0 -2
+p103
+aVDomantas Sabonis OKC 01/02/2017 OKC @ MIL L 26 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 2 11
+p104
+aVJerami Grant OKC 01/02/2017 OKC @ MIL L 29 4 2 4 50.0 0 1 0.0 0 2 0.0 0 3 3 1 0 2 0 0 -5
+p105
+aVJoffrey Lauvergne OKC 01/02/2017 OKC @ MIL L 14 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 0 -9
+p106
+aVVictor Oladipo OKC 01/02/2017 OKC @ MIL L 35 18 7 12 58.3 4 7 57.1 0 0 - 1 4 5 4 1 0 2 4 5
+p107
+aVRussell Westbrook OKC 01/02/2017 OKC @ MIL L 36 30 9 28 32.1 2 10 20.0 10 11 90.9 0 7 7 6 3 0 5 3 3
+p108
+aVAlex Abrines OKC 01/02/2017 OKC @ MIL L 14 6 2 6 33.3 2 4 50.0 0 0 - 1 1 2 1 1 0 0 2 -9
+p109
+aVSteven Adams OKC 01/02/2017 OKC @ MIL L 34 20 9 11 81.8 0 0 - 2 2 100.0 3 5 8 2 1 3 0 3 5
+p110
+aVEnes Kanter OKC 01/02/2017 OKC @ MIL L 22 2 1 6 16.7 0 0 - 0 0 - 2 3 5 1 0 0 0 3 -13
+p111
+aVSemaj Christon OKC 01/02/2017 OKC @ MIL L 12 11 5 6 83.3 1 2 50.0 0 2 0.0 0 1 1 2 0 0 1 1 -7
+p112
+aVAndre Roberson OKC 01/02/2017 OKC @ MIL L 19 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 1 0 0 0 2 -1
+p113
+aVAndre Roberson OKC 12/31/2016 OKC vs. LAC W 31 9 3 11 27.3 1 7 14.3 2 2 100.0 1 2 3 2 2 2 1 1 22
+p114
+aVRussell Westbrook OKC 12/31/2016 OKC vs. LAC W 29 17 6 11 54.5 0 2 0.0 5 6 83.3 0 12 12 14 2 0 1 0 26
+p115
+aVSemaj Christon OKC 12/31/2016 OKC vs. LAC W 19 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 2 1 0 0 0 0
+p116
+aVEnes Kanter OKC 12/31/2016 OKC vs. LAC W 25 23 6 13 46.2 0 0 - 11 12 91.7 2 6 8 0 1 1 2 3 12
+p117
+aVSteven Adams OKC 12/31/2016 OKC vs. LAC W 29 11 4 5 80.0 0 0 - 3 5 60.0 2 3 5 2 1 0 0 1 29
+p118
+aVVictor Oladipo OKC 12/31/2016 OKC vs. LAC W 29 15 4 9 44.4 2 5 40.0 5 5 100.0 0 4 4 2 0 0 2 5 23
+p119
+aVJoffrey Lauvergne OKC 12/31/2016 OKC vs. LAC W 16 8 2 4 50.0 0 1 0.0 4 5 80.0 0 3 3 1 0 0 1 6 -3
+p120
+aVAnthony Morrow OKC 12/31/2016 OKC vs. LAC W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p121
+aVJerami Grant OKC 12/31/2016 OKC vs. LAC W 17 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 4
+p122
+aVAlex Abrines OKC 12/31/2016 OKC vs. LAC W 12 12 4 5 80.0 4 5 80.0 0 0 - 0 1 1 0 2 1 0 2 13
+p123
+aVKyle Singler OKC 12/31/2016 OKC vs. LAC W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p124
+aVDomantas Sabonis OKC 12/31/2016 OKC vs. LAC W 25 9 4 10 40.0 1 4 25.0 0 0 - 2 2 4 2 0 2 1 0 16
+p125
+aVSemaj Christon OKC 12/29/2016 OKC @ MEM L 27 2 1 4 25.0 0 3 0.0 0 0 - 1 2 3 4 1 1 2 2 -21
+p126
+aVAlex Abrines OKC 12/29/2016 OKC @ MEM L 27 10 2 11 18.2 2 8 25.0 4 4 100.0 2 1 3 0 0 0 2 0 -14
+p127
+aVJerami Grant OKC 12/29/2016 OKC @ MEM L 24 9 2 4 50.0 0 0 - 5 8 62.5 0 1 1 0 0 1 0 1 -21
+p128
+aVKyle Singler OKC 12/29/2016 OKC @ MEM L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p129
+aVEnes Kanter OKC 12/29/2016 OKC @ MEM L 24 19 7 11 63.6 0 1 0.0 5 7 71.4 0 5 5 0 0 0 2 1 -13
+p130
+aVNick Collison OKC 12/29/2016 OKC @ MEM L 8 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 0 0 1 0 1 -10
+p131
+aVAnthony Morrow OKC 12/29/2016 OKC @ MEM L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -20
+p132
+aVDomantas Sabonis OKC 12/29/2016 OKC @ MEM L 21 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 3 0 2 2 4 -13
+p133
+aVAndre Roberson OKC 12/29/2016 OKC @ MEM L 24 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 1 0 0 1 -13
+p134
+aVSteven Adams OKC 12/29/2016 OKC @ MEM L 27 6 1 9 11.1 0 0 - 4 8 50.0 8 6 14 2 0 2 3 2 -17
+p135
+aVRussell Westbrook OKC 12/29/2016 OKC @ MEM L 23 21 6 19 31.6 2 6 33.3 7 10 70.0 2 3 5 0 2 0 6 3 -13
+p136
+aVJoffrey Lauvergne OKC 12/29/2016 OKC @ MEM L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -6
+p137
+aVAnthony Morrow OKC 12/27/2016 OKC @ MIA W 20 9 3 7 42.9 1 5 20.0 2 2 100.0 0 0 0 1 0 0 0 0 2
+p138
+aVJoffrey Lauvergne OKC 12/27/2016 OKC @ MIA W 11 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 5
+p139
+aVAndre Roberson OKC 12/27/2016 OKC @ MIA W 22 1 0 3 0.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 2 3
+p140
+aVAlex Abrines OKC 12/27/2016 OKC @ MIA W 22 14 5 9 55.6 4 7 57.1 0 0 - 1 1 2 0 0 1 0 4 3
+p141
+aVSemaj Christon OKC 12/27/2016 OKC @ MIA W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 1 1 0
+p142
+aVJerami Grant OKC 12/27/2016 OKC @ MIA W 24 10 3 7 42.9 0 3 0.0 4 4 100.0 0 0 0 1 0 1 0 5 9
+p143
+aVKyle Singler OKC 12/27/2016 OKC @ MIA W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 6
+p144
+aVRussell Westbrook OKC 12/27/2016 OKC @ MIA W 37 29 11 22 50.0 0 1 0.0 7 10 70.0 0 17 17 11 0 0 7 0 12
+p145
+aVDomantas Sabonis OKC 12/27/2016 OKC @ MIA W 26 6 3 6 50.0 0 2 0.0 0 0 - 2 3 5 0 1 0 0 1 -3
+p146
+aVEnes Kanter OKC 12/27/2016 OKC @ MIA W 33 19 9 16 56.3 0 1 0.0 1 4 25.0 5 3 8 2 1 0 4 1 8
+p147
+aVSteven Adams OKC 12/27/2016 OKC @ MIA W 23 15 7 10 70.0 0 0 - 1 1 100.0 6 2 8 1 0 2 4 5 15
+p148
+aVJerami Grant OKC 12/25/2016 OKC vs. MIN W 28 9 3 5 60.0 1 2 50.0 2 2 100.0 0 4 4 1 1 1 1 2 8
+p149
+aVSemaj Christon OKC 12/25/2016 OKC vs. MIN W 18 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 3 0 0 2 2 4
+p150
+aVSteven Adams OKC 12/25/2016 OKC vs. MIN W 29 22 9 12 75.0 0 0 - 4 4 100.0 1 5 6 1 2 0 2 3 13
+p151
+aVRussell Westbrook OKC 12/25/2016 OKC vs. MIN W 33 31 11 25 44.0 1 4 25.0 8 9 88.9 3 4 7 15 1 1 5 2 12
+p152
+aVDomantas Sabonis OKC 12/25/2016 OKC vs. MIN W 20 3 1 5 20.0 0 3 0.0 1 1 100.0 1 6 7 0 0 1 1 3 -7
+p153
+aVAlex Abrines OKC 12/25/2016 OKC vs. MIN W 21 10 3 9 33.3 3 7 42.9 1 1 100.0 0 2 2 0 1 0 0 3 -5
+p154
+aVEnes Kanter OKC 12/25/2016 OKC vs. MIN W 29 20 8 10 80.0 0 1 0.0 4 7 57.1 0 4 4 4 1 0 3 2 17
+p155
+aVAndre Roberson OKC 12/25/2016 OKC vs. MIN W 27 4 2 5 40.0 0 1 0.0 0 0 - 2 2 4 1 2 1 1 3 9
+p156
+aVAnthony Morrow OKC 12/25/2016 OKC vs. MIN W 12 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 2 0
+p157
+aVJoffrey Lauvergne OKC 12/25/2016 OKC vs. MIN W 18 8 3 4 75.0 2 2 100.0 0 0 - 1 3 4 1 0 0 0 1 1
+p158
+aVKyle Singler OKC 12/25/2016 OKC vs. MIN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p159
+aVAlex Abrines OKC 12/23/2016 OKC @ BOS W 6 3 1 2 50.0 1 1 100.0 0 0 - 2 0 2 1 0 0 0 1 -2
+p160
+aVJoffrey Lauvergne OKC 12/23/2016 OKC @ BOS W 13 3 0 3 0.0 0 1 0.0 3 4 75.0 0 4 4 3 0 0 1 1 1
+p161
+aVAndre Roberson OKC 12/23/2016 OKC @ BOS W 38 5 2 4 50.0 0 1 0.0 1 6 16.7 0 5 5 4 0 2 3 4 9
+p162
+aVAnthony Morrow OKC 12/23/2016 OKC @ BOS W 12 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -10
+p163
+aVSemaj Christon OKC 12/23/2016 OKC @ BOS W 21 4 2 5 40.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 3 4
+p164
+aVJerami Grant OKC 12/23/2016 OKC @ BOS W 29 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 1 1 3 2 4 7
+p165
+aVSteven Adams OKC 12/23/2016 OKC @ BOS W 29 8 4 6 66.7 0 0 - 0 2 0.0 3 8 11 3 2 1 1 0 12
+p166
+aVKyle Singler OKC 12/23/2016 OKC @ BOS W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -4
+p167
+aVDomantas Sabonis OKC 12/23/2016 OKC @ BOS W 25 20 8 11 72.7 4 6 66.7 0 0 - 0 1 1 1 1 0 1 1 -3
+p168
+aVEnes Kanter OKC 12/23/2016 OKC @ BOS W 23 20 8 13 61.5 0 0 - 4 6 66.7 4 2 6 2 0 0 1 3 1
+p169
+aVRussell Westbrook OKC 12/23/2016 OKC @ BOS W 35 45 13 25 52.0 5 7 71.4 14 16 87.5 1 10 11 11 1 0 4 1 10
+p170
+aVDomantas Sabonis OKC 12/21/2016 OKC @ NOP W 12 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 1 0 0 0 3 -1
+p171
+aVEnes Kanter OKC 12/21/2016 OKC @ NOP W 34 14 6 11 54.5 0 0 - 2 2 100.0 5 8 13 1 0 2 2 4 11
+p172
+aVAlex Abrines OKC 12/21/2016 OKC @ NOP W 30 18 6 12 50.0 5 11 45.5 1 2 50.0 0 3 3 1 1 0 2 2 13
+p173
+aVJoffrey Lauvergne OKC 12/21/2016 OKC @ NOP W 25 10 5 7 71.4 0 1 0.0 0 0 - 1 5 6 3 2 0 0 1 20
+p174
+aVSteven Adams OKC 12/21/2016 OKC @ NOP W 23 12 6 11 54.5 0 0 - 0 0 - 4 0 4 3 0 1 2 4 -8
+p175
+aVAnthony Morrow OKC 12/21/2016 OKC @ NOP W 18 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 2 0 0 0 -2
+p176
+aVSemaj Christon OKC 12/21/2016 OKC @ NOP W 14 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 5 0 0 0 1 15
+p177
+aVRussell Westbrook OKC 12/21/2016 OKC @ NOP W 34 42 12 26 46.2 2 7 28.6 16 18 88.9 1 9 10 7 1 0 4 2 -4
+p178
+aVAndre Roberson OKC 12/21/2016 OKC @ NOP W 29 9 4 7 57.1 1 3 33.3 0 0 - 1 6 7 0 2 1 0 2 9
+p179
+aVJerami Grant OKC 12/21/2016 OKC @ NOP W 21 4 1 1 100.0 1 1 100.0 1 2 50.0 1 0 1 1 0 2 0 1 2
+p180
+aVSemaj Christon OKC 12/19/2016 OKC vs. ATL L 25 2 1 5 20.0 0 2 0.0 0 0 - 2 1 3 3 0 0 0 0 1
+p181
+aVDomantas Sabonis OKC 12/19/2016 OKC vs. ATL L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 0 0 0 2 1 -7
+p182
+aVEnes Kanter OKC 12/19/2016 OKC vs. ATL L 15 8 4 5 80.0 0 0 - 0 0 - 4 3 7 1 0 1 1 3 0
+p183
+aVSteven Adams OKC 12/19/2016 OKC vs. ATL L 31 6 2 4 50.0 0 0 - 2 5 40.0 4 5 9 0 3 1 1 2 0
+p184
+aVAnthony Morrow OKC 12/19/2016 OKC vs. ATL L 19 4 1 5 20.0 0 3 0.0 2 2 100.0 0 0 0 1 1 0 0 4 0
+p185
+aVAlex Abrines OKC 12/19/2016 OKC vs. ATL L 17 9 3 8 37.5 1 5 20.0 2 2 100.0 0 1 1 0 1 0 0 2 3
+p186
+aVNick Collison OKC 12/19/2016 OKC vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p187
+aVKyle Singler OKC 12/19/2016 OKC vs. ATL L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 1
+p188
+aVJerami Grant OKC 12/19/2016 OKC vs. ATL L 28 15 5 7 71.4 3 3 100.0 2 2 100.0 0 1 1 0 1 0 0 1 3
+p189
+aVJoffrey Lauvergne OKC 12/19/2016 OKC vs. ATL L 4 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 1
+p190
+aVAndre Roberson OKC 12/19/2016 OKC vs. ATL L 40 14 5 14 35.7 3 9 33.3 1 2 50.0 2 3 5 1 1 0 3 1 -10
+p191
+aVRussell Westbrook OKC 12/19/2016 OKC vs. ATL L 35 46 16 33 48.5 3 10 30.0 11 13 84.6 2 9 11 7 1 0 4 2 -2
+p192
+aVDomantas Sabonis OKC 12/17/2016 OKC vs. PHX W 24 9 3 9 33.3 1 1 100.0 2 4 50.0 0 4 4 0 1 1 1 3 10
+p193
+aVAlex Abrines OKC 12/17/2016 OKC vs. PHX W 12 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -3
+p194
+aVNick Collison OKC 12/17/2016 OKC vs. PHX W 6 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -4
+p195
+aVRussell Westbrook OKC 12/17/2016 OKC vs. PHX W 34 26 9 17 52.9 1 2 50.0 7 7 100.0 0 11 11 22 2 1 5 3 16
+p196
+aVSteven Adams OKC 12/17/2016 OKC vs. PHX W 29 19 8 13 61.5 0 0 - 3 5 60.0 4 3 7 2 2 0 2 4 11
+p197
+aVKyle Singler OKC 12/17/2016 OKC vs. PHX W 14 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 0 -3
+p198
+aVAnthony Morrow OKC 12/17/2016 OKC vs. PHX W 21 11 4 6 66.7 3 4 75.0 0 0 - 0 0 0 0 2 0 0 0 1
+p199
+aVJerami Grant OKC 12/17/2016 OKC vs. PHX W 29 8 3 8 37.5 1 2 50.0 1 2 50.0 1 4 5 1 1 1 1 3 11
+p200
+aVAndre Roberson OKC 12/17/2016 OKC vs. PHX W 35 11 4 7 57.1 1 2 50.0 2 4 50.0 0 1 1 0 3 0 0 3 16
+p201
+aVEnes Kanter OKC 12/17/2016 OKC vs. PHX W 14 12 3 7 42.9 0 0 - 6 7 85.7 3 2 5 1 0 1 1 0 9
+p202
+aVSemaj Christon OKC 12/17/2016 OKC vs. PHX W 22 7 3 7 42.9 0 2 0.0 1 1 100.0 0 4 4 1 1 0 1 3 1
+p203
+aVEnes Kanter OKC 12/14/2016 OKC @ UTA L 18 19 6 11 54.5 0 0 - 7 8 87.5 1 1 2 1 1 1 0 2 -9
+p204
+aVJoffrey Lauvergne OKC 12/14/2016 OKC @ UTA L 8 2 1 5 20.0 0 1 0.0 0 0 - 3 0 3 0 0 0 0 0 -4
+p205
+aVSemaj Christon OKC 12/14/2016 OKC @ UTA L 23 7 3 9 33.3 1 3 33.3 0 0 - 1 2 3 2 0 0 1 2 -20
+p206
+aVNick Collison OKC 12/14/2016 OKC @ UTA L 16 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 1 0 0 0 9
+p207
+aVDomantas Sabonis OKC 12/14/2016 OKC @ UTA L 16 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 2 0 0 0 0 -13
+p208
+aVAnthony Morrow OKC 12/14/2016 OKC @ UTA L 28 3 1 4 25.0 0 2 0.0 1 2 50.0 1 1 2 0 0 0 0 3 1
+p209
+aVSteven Adams OKC 12/14/2016 OKC @ UTA L 28 10 4 7 57.1 0 0 - 2 2 100.0 3 2 5 1 1 2 2 3 -10
+p210
+aVAlex Abrines OKC 12/14/2016 OKC @ UTA L 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p211
+aVAndre Roberson OKC 12/14/2016 OKC @ UTA L 32 0 0 3 0.0 0 3 0.0 0 0 - 1 4 5 1 0 0 0 2 -11
+p212
+aVKyle Singler OKC 12/14/2016 OKC @ UTA L 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -12
+p213
+aVRussell Westbrook OKC 12/14/2016 OKC @ UTA L 31 27 7 25 28.0 2 5 40.0 11 13 84.6 1 5 6 5 1 0 5 4 -6
+p214
+aVJerami Grant OKC 12/14/2016 OKC @ UTA L 22 7 2 6 33.3 1 1 100.0 2 2 100.0 0 2 2 1 0 0 0 2 -23
+p215
+aVJerami Grant OKC 12/13/2016 OKC @ POR L 26 11 3 8 37.5 0 1 0.0 5 6 83.3 0 1 1 0 1 0 1 4 -3
+p216
+aVKyle Singler OKC 12/13/2016 OKC @ POR L 6 5 1 1 100.0 1 1 100.0 2 2 100.0 0 2 2 1 0 0 0 0 2
+p217
+aVAlex Abrines OKC 12/13/2016 OKC @ POR L 13 5 2 7 28.6 1 5 20.0 0 0 - 0 2 2 1 0 0 0 1 -7
+p218
+aVAndre Roberson OKC 12/13/2016 OKC @ POR L 31 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 1 2 1 2 1 -12
+p219
+aVRussell Westbrook OKC 12/13/2016 OKC @ POR L 27 20 7 19 36.8 2 5 40.0 4 4 100.0 2 4 6 6 0 0 4 1 -10
+p220
+aVSteven Adams OKC 12/13/2016 OKC @ POR L 26 14 6 10 60.0 0 1 0.0 2 3 66.7 2 2 4 1 4 0 4 0 -8
+p221
+aVDomantas Sabonis OKC 12/13/2016 OKC @ POR L 20 5 2 4 50.0 1 1 100.0 0 0 - 2 7 9 0 0 1 2 4 -1
+p222
+aVAnthony Morrow OKC 12/13/2016 OKC @ POR L 20 9 4 11 36.4 1 5 20.0 0 0 - 1 1 2 1 1 0 0 2 -19
+p223
+aVJoffrey Lauvergne OKC 12/13/2016 OKC @ POR L 16 9 3 7 42.9 1 2 50.0 2 2 100.0 3 0 3 2 1 0 0 2 -13
+p224
+aVSemaj Christon OKC 12/13/2016 OKC @ POR L 27 4 1 6 16.7 0 2 0.0 2 4 50.0 0 1 1 3 1 0 3 4 -13
+p225
+aVNick Collison OKC 12/13/2016 OKC @ POR L 8 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 1 1 4
+p226
+aVEnes Kanter OKC 12/13/2016 OKC @ POR L 19 6 1 7 14.3 0 1 0.0 4 7 57.1 5 2 7 1 0 0 4 1 -15
+p227
+aVEnes Kanter OKC 12/11/2016 OKC vs. BOS W 25 14 6 10 60.0 0 2 0.0 2 2 100.0 3 4 7 2 0 2 0 1 4
+p228
+aVRussell Westbrook OKC 12/11/2016 OKC vs. BOS W 36 37 14 26 53.8 2 5 40.0 7 12 58.3 3 9 12 6 2 0 7 3 9
+p229
+aVAndre Roberson OKC 12/11/2016 OKC vs. BOS W 33 4 2 7 28.6 0 4 0.0 0 0 - 1 4 5 0 1 2 1 2 -5
+p230
+aVAlex Abrines OKC 12/11/2016 OKC vs. BOS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p231
+aVJoffrey Lauvergne OKC 12/11/2016 OKC vs. BOS W 21 7 3 10 30.0 0 3 0.0 1 4 25.0 2 5 7 2 1 0 1 0 2
+p232
+aVVictor Oladipo OKC 12/11/2016 OKC vs. BOS W 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 1 -6
+p233
+aVSemaj Christon OKC 12/11/2016 OKC vs. BOS W 21 9 3 3 100.0 1 1 100.0 2 4 50.0 0 0 0 2 2 0 0 0 3
+p234
+aVAnthony Morrow OKC 12/11/2016 OKC vs. BOS W 28 4 2 8 25.0 0 4 0.0 0 0 - 1 0 1 2 2 0 0 0 6
+p235
+aVKyle Singler OKC 12/11/2016 OKC vs. BOS W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p236
+aVSteven Adams OKC 12/11/2016 OKC vs. BOS W 32 16 7 8 87.5 0 0 - 2 5 40.0 4 4 8 2 1 1 0 0 2
+p237
+aVJerami Grant OKC 12/11/2016 OKC vs. BOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p238
+aVDomantas Sabonis OKC 12/11/2016 OKC vs. BOS W 17 4 2 6 33.3 0 2 0.0 0 0 - 1 4 5 1 0 2 1 0 -6
+p239
+aVAnthony Morrow OKC 12/09/2016 OKC vs. HOU L 26 12 5 11 45.5 2 5 40.0 0 0 - 1 1 2 0 1 0 1 2 1
+p240
+aVDomantas Sabonis OKC 12/09/2016 OKC vs. HOU L 24 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 1 0 0 1 1 -6
+p241
+aVVictor Oladipo OKC 12/09/2016 OKC vs. HOU L 38 12 5 13 38.5 2 7 28.6 0 0 - 0 7 7 1 0 0 3 1 0
+p242
+aVSemaj Christon OKC 12/09/2016 OKC vs. HOU L 12 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 -1
+p243
+aVAndre Roberson OKC 12/09/2016 OKC vs. HOU L 37 9 3 7 42.9 2 5 40.0 1 4 25.0 1 7 8 3 2 1 0 4 -4
+p244
+aVJerami Grant OKC 12/09/2016 OKC vs. HOU L 23 2 1 2 50.0 0 0 - 0 2 0.0 2 0 2 0 1 4 0 2 5
+p245
+aVRussell Westbrook OKC 12/09/2016 OKC vs. HOU L 36 27 8 25 32.0 0 7 0.0 11 12 91.7 1 9 10 10 3 0 8 3 -2
+p246
+aVEnes Kanter OKC 12/09/2016 OKC vs. HOU L 14 10 3 6 50.0 0 1 0.0 4 4 100.0 1 2 3 1 0 0 0 3 4
+p247
+aVSteven Adams OKC 12/09/2016 OKC vs. HOU L 29 24 8 9 88.9 0 0 - 8 9 88.9 2 8 10 1 1 1 4 2 -12
+p248
+aVAndre Roberson OKC 12/05/2016 OKC @ ATL W 38 4 1 4 25.0 0 2 0.0 2 2 100.0 0 3 3 0 0 1 2 4 4
+p249
+aVRussell Westbrook OKC 12/05/2016 OKC @ ATL W 34 32 10 22 45.5 3 8 37.5 9 14 64.3 1 12 13 12 1 1 4 1 -4
+p250
+aVJoffrey Lauvergne OKC 12/05/2016 OKC @ ATL W 5 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 1 1 1 2 2 4
+p251
+aVJerami Grant OKC 12/05/2016 OKC @ ATL W 25 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 3 2 0 1 3 -12
+p252
+aVAnthony Morrow OKC 12/05/2016 OKC @ ATL W 26 15 5 8 62.5 4 6 66.7 1 1 100.0 0 2 2 0 1 0 0 1 6
+p253
+aVEnes Kanter OKC 12/05/2016 OKC @ ATL W 15 10 3 6 50.0 1 2 50.0 3 4 75.0 0 3 3 1 0 1 3 3 -3
+p254
+aVDomantas Sabonis OKC 12/05/2016 OKC @ ATL W 19 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 2 1 1 1 4 12
+p255
+aVSemaj Christon OKC 12/05/2016 OKC @ ATL W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 5 1 0 2 1 7
+p256
+aVVictor Oladipo OKC 12/05/2016 OKC @ ATL W 36 14 6 15 40.0 2 8 25.0 0 0 - 0 6 6 2 1 0 2 4 -5
+p257
+aVSteven Adams OKC 12/05/2016 OKC @ ATL W 28 12 5 10 50.0 0 0 - 2 5 40.0 6 4 10 0 1 0 2 4 6
+p258
+aVAnthony Morrow OKC 12/04/2016 OKC vs. NOP W 25 2 1 7 14.3 0 5 0.0 0 0 - 1 2 3 0 0 0 0 1 6
+p259
+aVJerami Grant OKC 12/04/2016 OKC vs. NOP W 14 8 3 6 50.0 1 2 50.0 1 1 100.0 0 2 2 0 0 0 0 3 1
+p260
+aVSemaj Christon OKC 12/04/2016 OKC vs. NOP W 11 2 1 3 33.3 0 1 0.0 0 1 0.0 0 1 1 5 0 0 1 0 -2
+p261
+aVDomantas Sabonis OKC 12/04/2016 OKC vs. NOP W 25 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 0 2 1 1 4 8
+p262
+aVEnes Kanter OKC 12/04/2016 OKC vs. NOP W 30 17 7 13 53.8 0 0 - 3 6 50.0 4 6 10 1 1 2 2 2 3
+p263
+aVJoffrey Lauvergne OKC 12/04/2016 OKC vs. NOP W 18 4 2 6 33.3 0 1 0.0 0 0 - 4 7 11 0 0 0 0 1 -2
+p264
+aVSteven Adams OKC 12/04/2016 OKC vs. NOP W 9 7 3 3 100.0 0 0 - 1 1 100.0 0 3 3 0 1 0 0 0 6
+p265
+aVVictor Oladipo OKC 12/04/2016 OKC vs. NOP W 35 15 6 15 40.0 1 8 12.5 2 7 28.6 0 5 5 4 1 0 0 0 5
+p266
+aVAndre Roberson OKC 12/04/2016 OKC vs. NOP W 37 13 6 8 75.0 1 2 50.0 0 1 0.0 1 4 5 2 1 2 1 3 7
+p267
+aVRussell Westbrook OKC 12/04/2016 OKC vs. NOP W 38 28 10 23 43.5 2 8 25.0 6 9 66.7 1 16 17 12 1 0 10 1 13
+p268
+aVJoffrey Lauvergne OKC 11/30/2016 OKC vs. WAS W 12 5 2 3 66.7 1 1 100.0 0 0 - 0 4 4 1 1 0 2 1 7
+p269
+aVEnes Kanter OKC 11/30/2016 OKC vs. WAS W 15 14 6 10 60.0 0 0 - 2 3 66.7 0 3 3 0 0 1 0 1 -3
+p270
+aVAndre Roberson OKC 11/30/2016 OKC vs. WAS W 35 10 4 6 66.7 2 3 66.7 0 0 - 0 5 5 0 2 2 1 4 12
+p271
+aVSteven Adams OKC 11/30/2016 OKC vs. WAS W 28 12 3 6 50.0 0 0 - 6 10 60.0 2 4 6 0 0 0 1 1 -5
+p272
+aVJerami Grant OKC 11/30/2016 OKC vs. WAS W 24 7 1 3 33.3 1 3 33.3 4 8 50.0 2 2 4 1 1 0 1 4 -3
+p273
+aVSemaj Christon OKC 11/30/2016 OKC vs. WAS W 15 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 3 1 0 0 1 12
+p274
+aVRussell Westbrook OKC 11/30/2016 OKC vs. WAS W 41 35 12 35 34.3 1 6 16.7 10 10 100.0 4 10 14 11 2 0 5 3 4
+p275
+aVVictor Oladipo OKC 11/30/2016 OKC vs. WAS W 45 25 10 16 62.5 5 9 55.6 0 0 - 0 6 6 6 1 0 2 1 6
+p276
+aVDomantas Sabonis OKC 11/30/2016 OKC vs. WAS W 19 10 5 5 100.0 0 0 - 0 0 - 0 3 3 2 2 1 0 3 5
+p277
+aVAnthony Morrow OKC 11/30/2016 OKC vs. WAS W 31 6 2 9 22.2 2 7 28.6 0 0 - 0 1 1 4 0 0 1 3 20
+p278
+aVDomantas Sabonis OKC 11/28/2016 OKC @ NYK W 16 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 3 -8
+p279
+aVJerami Grant OKC 11/28/2016 OKC @ NYK W 14 1 0 0 - 0 0 - 1 4 25.0 1 1 2 0 0 1 2 1 7
+p280
+aVJoffrey Lauvergne OKC 11/28/2016 OKC @ NYK W 20 6 3 8 37.5 0 3 0.0 0 0 - 0 5 5 1 0 0 1 3 4
+p281
+aVSteven Adams OKC 11/28/2016 OKC @ NYK W 32 14 7 11 63.6 0 0 - 0 0 - 4 6 10 0 0 0 1 2 7
+p282
+aVEnes Kanter OKC 11/28/2016 OKC @ NYK W 28 27 12 17 70.6 0 1 0.0 3 5 60.0 6 4 10 0 0 3 1 4 15
+p283
+aVVictor Oladipo OKC 11/28/2016 OKC @ NYK W 31 8 4 11 36.4 0 4 0.0 0 0 - 0 4 4 4 1 1 0 2 8
+p284
+aVRussell Westbrook OKC 11/28/2016 OKC @ NYK W 36 27 9 23 39.1 2 3 66.7 7 7 100.0 5 12 17 14 2 0 7 3 5
+p285
+aVSemaj Christon OKC 11/28/2016 OKC @ NYK W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 0 4
+p286
+aVAnthony Morrow OKC 11/28/2016 OKC @ NYK W 20 14 5 7 71.4 3 5 60.0 1 2 50.0 0 0 0 1 0 0 0 0 0
+p287
+aVAndre Roberson OKC 11/28/2016 OKC @ NYK W 31 10 4 8 50.0 2 4 50.0 0 0 - 1 2 3 1 1 2 0 4 3
+p288
+aVAndre Roberson OKC 11/26/2016 OKC vs. DET W 30 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 12
+p289
+aVVictor Oladipo OKC 11/26/2016 OKC vs. DET W 33 18 6 10 60.0 3 5 60.0 3 6 50.0 1 5 6 2 1 0 0 2 10
+p290
+aVRussell Westbrook OKC 11/26/2016 OKC vs. DET W 37 17 8 22 36.4 0 5 0.0 1 2 50.0 3 10 13 15 1 1 5 2 14
+p291
+aVAlex Abrines OKC 11/26/2016 OKC vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p292
+aVEnes Kanter OKC 11/26/2016 OKC vs. DET W 18 12 5 8 62.5 0 0 - 2 3 66.7 0 3 3 0 0 1 2 3 8
+p293
+aVAnthony Morrow OKC 11/26/2016 OKC vs. DET W 26 21 8 12 66.7 3 6 50.0 2 2 100.0 0 1 1 1 0 0 0 1 12
+p294
+aVSteven Adams OKC 11/26/2016 OKC vs. DET W 29 16 7 9 77.8 0 0 - 2 5 40.0 3 6 9 0 1 0 2 1 10
+p295
+aVJoffrey Lauvergne OKC 11/26/2016 OKC vs. DET W 12 6 1 4 25.0 0 1 0.0 4 8 50.0 1 3 4 1 0 0 0 0 -13
+p296
+aVJerami Grant OKC 11/26/2016 OKC vs. DET W 26 9 4 8 50.0 1 3 33.3 0 0 - 1 2 3 0 0 1 1 2 15
+p297
+aVSemaj Christon OKC 11/26/2016 OKC vs. DET W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p298
+aVDomantas Sabonis OKC 11/26/2016 OKC vs. DET W 24 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 1 1 0 0 5 19
+p299
+aVAndre Roberson OKC 11/25/2016 OKC @ DEN W 35 8 4 6 66.7 0 2 0.0 0 1 0.0 1 1 2 1 1 0 0 3 7
+p300
+aVJerami Grant OKC 11/25/2016 OKC @ DEN W 29 6 1 6 16.7 0 3 0.0 4 6 66.7 0 5 5 0 1 1 1 3 6
+p301
+aVSemaj Christon OKC 11/25/2016 OKC @ DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p302
+aVRussell Westbrook OKC 11/25/2016 OKC @ DEN W 41 36 9 25 36.0 3 4 75.0 15 17 88.2 1 10 11 17 0 1 7 3 10
+p303
+aVJoffrey Lauvergne OKC 11/25/2016 OKC @ DEN W 18 15 6 8 75.0 3 4 75.0 0 0 - 1 3 4 0 1 1 0 2 -7
+p304
+aVDomantas Sabonis OKC 11/25/2016 OKC @ DEN W 28 13 5 7 71.4 3 3 100.0 0 0 - 1 5 6 1 1 0 2 2 1
+p305
+aVSteven Adams OKC 11/25/2016 OKC @ DEN W 30 7 3 7 42.9 0 0 - 1 2 50.0 1 5 6 1 2 0 1 5 5
+p306
+aVEnes Kanter OKC 11/25/2016 OKC @ DEN W 19 11 5 9 55.6 0 2 0.0 1 1 100.0 1 1 2 1 2 0 0 2 -2
+p307
+aVVictor Oladipo OKC 11/25/2016 OKC @ DEN W 42 26 11 19 57.9 2 6 33.3 2 2 100.0 1 3 4 7 3 0 1 1 6
+p308
+aVAnthony Morrow OKC 11/25/2016 OKC @ DEN W 22 10 4 8 50.0 2 2 100.0 0 0 - 0 0 0 1 0 1 1 0 -10
+p309
+aVAlex Abrines OKC 11/23/2016 OKC @ SAC L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p310
+aVAnthony Morrow OKC 11/23/2016 OKC @ SAC L 19 8 2 8 25.0 1 2 50.0 3 3 100.0 0 0 0 0 0 0 0 1 -12
+p311
+aVAndre Roberson OKC 11/23/2016 OKC @ SAC L 35 10 4 7 57.1 1 4 25.0 1 2 50.0 1 4 5 1 1 2 0 4 -2
+p312
+aVSemaj Christon OKC 11/23/2016 OKC @ SAC L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -3
+p313
+aVDomantas Sabonis OKC 11/23/2016 OKC @ SAC L 15 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 1 0 1 2 -9
+p314
+aVJerami Grant OKC 11/23/2016 OKC @ SAC L 32 6 2 5 40.0 0 2 0.0 2 4 50.0 0 3 3 1 1 1 0 2 -4
+p315
+aVJoffrey Lauvergne OKC 11/23/2016 OKC @ SAC L 6 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 2 0 -7
+p316
+aVEnes Kanter OKC 11/23/2016 OKC @ SAC L 21 10 3 9 33.3 0 1 0.0 4 4 100.0 2 5 7 1 1 0 0 2 3
+p317
+aVKyle Singler OKC 11/23/2016 OKC @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p318
+aVVictor Oladipo OKC 11/23/2016 OKC @ SAC L 36 18 7 15 46.7 3 8 37.5 1 2 50.0 0 6 6 2 1 2 2 3 -11
+p319
+aVSteven Adams OKC 11/23/2016 OKC @ SAC L 28 11 4 7 57.1 0 0 - 3 4 75.0 0 4 4 0 0 2 0 3 -19
+p320
+aVRussell Westbrook OKC 11/23/2016 OKC @ SAC L 35 31 7 18 38.9 1 5 20.0 16 19 84.2 1 10 11 9 2 0 3 1 -7
+p321
+aVVictor Oladipo OKC 11/22/2016 OKC @ LAL L 39 14 6 13 46.2 2 4 50.0 0 0 - 0 4 4 4 2 1 3 1 12
+p322
+aVEnes Kanter OKC 11/22/2016 OKC @ LAL L 19 10 4 8 50.0 0 0 - 2 2 100.0 3 2 5 2 0 0 2 2 -16
+p323
+aVDomantas Sabonis OKC 11/22/2016 OKC @ LAL L 22 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 3 1 0 1 0 11
+p324
+aVSemaj Christon OKC 11/22/2016 OKC @ LAL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p325
+aVAnthony Morrow OKC 11/22/2016 OKC @ LAL L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 0
+p326
+aVJerami Grant OKC 11/22/2016 OKC @ LAL L 23 9 4 5 80.0 1 2 50.0 0 0 - 0 3 3 1 1 0 0 2 -18
+p327
+aVAlex Abrines OKC 11/22/2016 OKC @ LAL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 -9
+p328
+aVAndre Roberson OKC 11/22/2016 OKC @ LAL L 27 5 2 5 40.0 1 3 33.3 0 2 0.0 1 2 3 1 2 2 0 1 0
+p329
+aVSteven Adams OKC 11/22/2016 OKC @ LAL L 31 20 9 13 69.2 0 0 - 2 2 100.0 4 2 6 2 1 1 1 1 6
+p330
+aVRussell Westbrook OKC 11/22/2016 OKC @ LAL L 36 34 13 30 43.3 4 9 44.4 4 5 80.0 3 5 8 13 2 0 8 3 9
+p331
+aVJoffrey Lauvergne OKC 11/22/2016 OKC @ LAL L 23 12 5 9 55.6 2 4 50.0 0 0 - 0 7 7 1 1 1 0 3 -1
+p332
+aVSteven Adams OKC 11/20/2016 OKC vs. IND L 34 8 3 7 42.9 0 0 - 2 2 100.0 4 4 8 0 1 0 4 5 -15
+p333
+aVJerami Grant OKC 11/20/2016 OKC vs. IND L 15 9 3 3 100.0 1 1 100.0 2 2 100.0 0 1 1 0 0 2 0 4 19
+p334
+aVAlex Abrines OKC 11/20/2016 OKC vs. IND L 23 8 4 9 44.4 0 4 0.0 0 0 - 0 0 0 1 1 0 1 0 1
+p335
+aVEnes Kanter OKC 11/20/2016 OKC vs. IND L 25 16 5 9 55.6 1 2 50.0 5 6 83.3 0 4 4 3 1 3 2 3 18
+p336
+aVAnthony Morrow OKC 11/20/2016 OKC vs. IND L 7 5 2 5 40.0 0 3 0.0 1 2 50.0 0 1 1 0 0 0 0 0 9
+p337
+aVJoffrey Lauvergne OKC 11/20/2016 OKC vs. IND L 26 7 3 5 60.0 1 3 33.3 0 1 0.0 2 5 7 2 0 1 0 1 8
+p338
+aVVictor Oladipo OKC 11/20/2016 OKC vs. IND L 38 14 6 14 42.9 2 6 33.3 0 0 - 0 5 5 6 2 0 4 2 4
+p339
+aVDomantas Sabonis OKC 11/20/2016 OKC vs. IND L 20 7 3 10 30.0 1 5 20.0 0 0 - 3 3 6 0 2 0 2 2 -19
+p340
+aVAndre Roberson OKC 11/20/2016 OKC vs. IND L 36 6 2 5 40.0 2 4 50.0 0 0 - 1 5 6 1 1 1 0 3 -27
+p341
+aVRussell Westbrook OKC 11/20/2016 OKC vs. IND L 40 31 13 34 38.2 2 8 25.0 3 5 60.0 5 6 11 15 2 0 7 3 -18
+p342
+aVKyle Singler OKC 11/18/2016 OKC vs. BKN W 13 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -1
+p343
+aVSteven Adams OKC 11/18/2016 OKC vs. BKN W 32 15 4 6 66.7 0 0 - 7 8 87.5 3 4 7 0 0 2 3 1 13
+p344
+aVAnthony Morrow OKC 11/18/2016 OKC vs. BKN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p345
+aVVictor Oladipo OKC 11/18/2016 OKC vs. BKN W 36 26 11 17 64.7 3 6 50.0 1 1 100.0 1 4 5 6 0 0 3 4 25
+p346
+aVRussell Westbrook OKC 11/18/2016 OKC vs. BKN W 34 30 13 21 61.9 0 1 0.0 4 5 80.0 3 7 10 13 1 0 3 0 21
+p347
+aVDomantas Sabonis OKC 11/18/2016 OKC vs. BKN W 26 6 3 9 33.3 0 3 0.0 0 0 - 0 3 3 0 1 2 2 3 13
+p348
+aVAlex Abrines OKC 11/18/2016 OKC vs. BKN W 22 10 4 10 40.0 2 7 28.6 0 0 - 0 2 2 0 0 0 1 1 2
+p349
+aVEnes Kanter OKC 11/18/2016 OKC vs. BKN W 13 13 3 4 75.0 1 1 100.0 6 6 100.0 0 3 3 0 0 1 3 2 2
+p350
+aVJerami Grant OKC 11/18/2016 OKC vs. BKN W 12 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 3 0 0 1 4
+p351
+aVSemaj Christon OKC 11/18/2016 OKC vs. BKN W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -7
+p352
+aVJoffrey Lauvergne OKC 11/18/2016 OKC vs. BKN W 14 13 6 9 66.7 1 4 25.0 0 0 - 0 4 4 1 0 0 0 3 9
+p353
+aVAndre Roberson OKC 11/18/2016 OKC vs. BKN W 26 8 4 9 44.4 0 2 0.0 0 2 0.0 3 3 6 2 3 0 0 6 14
+p354
+aVEnes Kanter OKC 11/16/2016 OKC vs. HOU W 15 8 3 6 50.0 0 0 - 2 2 100.0 1 6 7 1 0 2 0 3 -4
+p355
+aVJerami Grant OKC 11/16/2016 OKC vs. HOU W 19 8 3 6 50.0 2 3 66.7 0 0 - 0 3 3 1 0 1 0 0 -8
+p356
+aVAlex Abrines OKC 11/16/2016 OKC vs. HOU W 14 7 2 4 50.0 2 3 66.7 1 1 100.0 0 0 0 1 1 0 0 0 0
+p357
+aVAnthony Morrow OKC 11/16/2016 OKC vs. HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p358
+aVDomantas Sabonis OKC 11/16/2016 OKC vs. HOU W 28 8 4 5 80.0 0 1 0.0 0 0 - 1 2 3 3 0 0 2 1 11
+p359
+aVJoffrey Lauvergne OKC 11/16/2016 OKC vs. HOU W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -4
+p360
+aVVictor Oladipo OKC 11/16/2016 OKC vs. HOU W 40 29 12 18 66.7 5 7 71.4 0 0 - 1 9 10 5 2 0 3 4 10
+p361
+aVSteven Adams OKC 11/16/2016 OKC vs. HOU W 33 6 3 7 42.9 0 0 - 0 0 - 0 6 6 1 0 3 2 1 6
+p362
+aVNick Collison OKC 11/16/2016 OKC vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p363
+aVRussell Westbrook OKC 11/16/2016 OKC vs. HOU W 36 30 9 20 45.0 2 4 50.0 10 11 90.9 1 6 7 9 2 0 6 0 12
+p364
+aVSemaj Christon OKC 11/16/2016 OKC vs. HOU W 14 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 1 -12
+p365
+aVAndre Roberson OKC 11/16/2016 OKC vs. HOU W 32 4 2 11 18.2 0 5 0.0 0 0 - 1 6 7 3 1 1 1 2 2
+p366
+aVNick Collison OKC 11/14/2016 OKC @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p367
+aVAndre Roberson OKC 11/14/2016 OKC @ DET L 29 4 2 3 66.7 0 1 0.0 0 1 0.0 0 4 4 0 0 0 1 1 -2
+p368
+aVEnes Kanter OKC 11/14/2016 OKC @ DET L 17 10 4 9 44.4 0 2 0.0 2 2 100.0 2 1 3 1 0 1 0 0 -11
+p369
+aVSteven Adams OKC 11/14/2016 OKC @ DET L 29 4 1 3 33.3 0 0 - 2 4 50.0 5 6 11 0 1 1 3 2 2
+p370
+aVJoffrey Lauvergne OKC 11/14/2016 OKC @ DET L 16 3 1 6 16.7 1 2 50.0 0 0 - 0 5 5 1 0 0 1 2 -15
+p371
+aVJerami Grant OKC 11/14/2016 OKC @ DET L 26 11 5 8 62.5 1 4 25.0 0 0 - 1 4 5 0 2 2 0 2 -14
+p372
+aVVictor Oladipo OKC 11/14/2016 OKC @ DET L 23 9 4 17 23.5 1 7 14.3 0 1 0.0 1 1 2 1 0 1 0 1 -5
+p373
+aVRussell Westbrook OKC 11/14/2016 OKC @ DET L 34 33 11 21 52.4 0 2 0.0 11 12 91.7 2 13 15 8 0 0 7 4 -7
+p374
+aVSemaj Christon OKC 11/14/2016 OKC @ DET L 15 0 0 4 0.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -11
+p375
+aVDomantas Sabonis OKC 11/14/2016 OKC @ DET L 23 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 2 5 -2
+p376
+aVAnthony Morrow OKC 11/14/2016 OKC @ DET L 9 6 3 5 60.0 0 1 0.0 0 0 - 2 0 2 1 0 1 0 0 -1
+p377
+aVAlex Abrines OKC 11/14/2016 OKC @ DET L 17 5 1 7 14.3 1 5 20.0 2 2 100.0 0 1 1 1 0 0 1 2 -9
+p378
+aVJoffrey Lauvergne OKC 11/13/2016 OKC vs. ORL L 15 9 3 4 75.0 3 3 100.0 0 0 - 0 1 1 0 0 0 1 2 -11
+p379
+aVAndre Roberson OKC 11/13/2016 OKC vs. ORL L 32 14 6 11 54.5 2 6 33.3 0 3 0.0 2 1 3 0 1 4 0 3 11
+p380
+aVVictor Oladipo OKC 11/13/2016 OKC vs. ORL L 31 12 6 9 66.7 0 1 0.0 0 0 - 0 1 1 2 1 0 1 0 4
+p381
+aVKyle Singler OKC 11/13/2016 OKC vs. ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p382
+aVAlex Abrines OKC 11/13/2016 OKC vs. ORL L 19 7 3 7 42.9 1 4 25.0 0 0 - 0 3 3 0 0 0 1 3 -2
+p383
+aVEnes Kanter OKC 11/13/2016 OKC vs. ORL L 24 16 7 13 53.8 0 2 0.0 2 2 100.0 4 4 8 0 1 1 1 2 4
+p384
+aVDomantas Sabonis OKC 11/13/2016 OKC vs. ORL L 18 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 1 0 0 2 3 -4
+p385
+aVJerami Grant OKC 11/13/2016 OKC vs. ORL L 14 2 1 3 33.3 0 0 - 0 2 0.0 0 2 2 0 0 0 1 2 -16
+p386
+aVRussell Westbrook OKC 11/13/2016 OKC vs. ORL L 38 41 14 21 66.7 0 3 0.0 13 18 72.2 2 10 12 16 0 0 2 2 9
+p387
+aVSteven Adams OKC 11/13/2016 OKC vs. ORL L 35 13 6 13 46.2 0 0 - 1 1 100.0 4 6 10 0 1 1 1 1 4
+p388
+aVNick Collison OKC 11/13/2016 OKC vs. ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p389
+aVSemaj Christon OKC 11/13/2016 OKC vs. ORL L 10 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 -11
+p390
+aVVictor Oladipo OKC 11/11/2016 OKC vs. LAC L 38 18 6 19 31.6 4 8 50.0 2 3 66.7 1 1 2 1 0 0 3 3 -6
+p391
+aVAndre Roberson OKC 11/11/2016 OKC vs. LAC L 34 13 5 10 50.0 3 6 50.0 0 0 - 3 6 9 2 1 1 2 4 -8
+p392
+aVNick Collison OKC 11/11/2016 OKC vs. LAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -2
+p393
+aVSteven Adams OKC 11/11/2016 OKC vs. LAC L 32 6 2 5 40.0 0 0 - 2 2 100.0 1 4 5 1 0 0 1 4 -4
+p394
+aVSemaj Christon OKC 11/11/2016 OKC vs. LAC L 20 9 3 7 42.9 1 1 100.0 2 2 100.0 0 0 0 4 0 0 1 1 4
+p395
+aVEnes Kanter OKC 11/11/2016 OKC vs. LAC L 21 13 6 11 54.5 0 1 0.0 1 1 100.0 3 8 11 0 1 0 0 3 5
+p396
+aVJerami Grant OKC 11/11/2016 OKC vs. LAC L 13 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 3
+p397
+aVAlex Abrines OKC 11/11/2016 OKC vs. LAC L 13 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 2 6
+p398
+aVDomantas Sabonis OKC 11/11/2016 OKC vs. LAC L 28 12 4 5 80.0 4 5 80.0 0 0 - 0 1 1 2 0 0 3 2 -3
+p399
+aVRussell Westbrook OKC 11/11/2016 OKC vs. LAC L 35 29 9 25 36.0 3 5 60.0 8 9 88.9 1 13 14 9 1 0 4 5 -5
+p400
+aVDomantas Sabonis OKC 11/09/2016 OKC vs. TOR L 28 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 4 1 0 0 2 -1
+p401
+aVKyle Singler OKC 11/09/2016 OKC vs. TOR L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -6
+p402
+aVAnthony Morrow OKC 11/09/2016 OKC vs. TOR L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 4
+p403
+aVSemaj Christon OKC 11/09/2016 OKC vs. TOR L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 3 0 0 1 2 -2
+p404
+aVJoffrey Lauvergne OKC 11/09/2016 OKC vs. TOR L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -1
+p405
+aVSteven Adams OKC 11/09/2016 OKC vs. TOR L 35 14 3 5 60.0 0 0 - 8 8 100.0 6 6 12 1 2 1 1 3 -7
+p406
+aVAlex Abrines OKC 11/09/2016 OKC vs. TOR L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p407
+aVRussell Westbrook OKC 11/09/2016 OKC vs. TOR L 39 36 9 26 34.6 3 12 25.0 15 18 83.3 2 5 7 7 1 2 8 2 -3
+p408
+aVVictor Oladipo OKC 11/09/2016 OKC vs. TOR L 36 18 6 16 37.5 5 9 55.6 1 1 100.0 3 5 8 2 2 0 1 2 -4
+p409
+aVEnes Kanter OKC 11/09/2016 OKC vs. TOR L 19 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 3 3 -11
+p410
+aVJerami Grant OKC 11/09/2016 OKC vs. TOR L 12 7 2 3 66.7 1 2 50.0 2 2 100.0 0 2 2 0 0 1 1 2 -6
+p411
+aVAndre Roberson OKC 11/09/2016 OKC vs. TOR L 23 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 0 0 1 1 2 -10
+p412
+aVVictor Oladipo OKC 11/07/2016 OKC vs. MIA W 33 17 6 9 66.7 1 2 50.0 4 4 100.0 0 2 2 2 0 0 1 1 15
+p413
+aVRussell Westbrook OKC 11/07/2016 OKC vs. MIA W 27 14 5 16 31.3 1 6 16.7 3 3 100.0 2 3 5 11 0 0 5 2 24
+p414
+aVJerami Grant OKC 11/07/2016 OKC vs. MIA W 15 4 1 4 25.0 1 2 50.0 1 2 50.0 0 1 1 1 0 1 0 2 -3
+p415
+aVAndre Roberson OKC 11/07/2016 OKC vs. MIA W 30 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 2 3 0 1 0 16
+p416
+aVJoffrey Lauvergne OKC 11/07/2016 OKC vs. MIA W 16 5 2 9 22.2 1 4 25.0 0 0 - 1 1 2 0 1 1 1 2 -4
+p417
+aVAlex Abrines OKC 11/07/2016 OKC vs. MIA W 17 5 2 9 22.2 1 7 14.3 0 0 - 1 1 2 0 1 0 2 2 -4
+p418
+aVEnes Kanter OKC 11/07/2016 OKC vs. MIA W 21 24 10 12 83.3 0 0 - 4 4 100.0 4 6 10 1 0 1 2 2 -4
+p419
+aVDomantas Sabonis OKC 11/07/2016 OKC vs. MIA W 30 15 5 13 38.5 4 7 57.1 1 2 50.0 0 10 10 1 0 0 1 4 14
+p420
+aVSteven Adams OKC 11/07/2016 OKC vs. MIA W 29 6 3 5 60.0 0 0 - 0 0 - 0 6 6 0 3 2 2 3 18
+p421
+aVSemaj Christon OKC 11/07/2016 OKC vs. MIA W 21 2 1 4 25.0 0 0 - 0 0 - 1 3 4 6 0 0 1 0 -12
+p422
+aVAlex Abrines OKC 11/05/2016 OKC vs. MIN W 17 1 0 1 0.0 0 0 - 1 1 100.0 0 2 2 2 1 0 0 1 -4
+p423
+aVDomantas Sabonis OKC 11/05/2016 OKC vs. MIN W 24 6 3 9 33.3 0 3 0.0 0 0 - 1 4 5 5 0 1 0 3 8
+p424
+aVEnes Kanter OKC 11/05/2016 OKC vs. MIN W 21 20 9 14 64.3 0 1 0.0 2 4 50.0 3 7 10 1 1 1 3 2 13
+p425
+aVKyle Singler OKC 11/05/2016 OKC vs. MIN W 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p426
+aVJerami Grant OKC 11/05/2016 OKC vs. MIN W 20 4 2 2 100.0 0 0 - 0 2 0.0 0 2 2 0 1 4 2 1 0
+p427
+aVJoffrey Lauvergne OKC 11/05/2016 OKC vs. MIN W 23 8 4 9 44.4 0 1 0.0 0 0 - 2 2 4 0 0 0 1 4 -5
+p428
+aVSemaj Christon OKC 11/05/2016 OKC vs. MIN W 20 10 4 8 50.0 0 1 0.0 2 2 100.0 0 0 0 5 0 0 0 3 -4
+p429
+aVVictor Oladipo OKC 11/05/2016 OKC vs. MIN W 31 12 5 9 55.6 1 2 50.0 1 3 33.3 0 3 3 1 1 0 1 0 24
+p430
+aVAndre Roberson OKC 11/05/2016 OKC vs. MIN W 25 9 3 6 50.0 2 3 66.7 1 2 50.0 0 1 1 0 0 1 0 2 22
+p431
+aVSteven Adams OKC 11/05/2016 OKC vs. MIN W 28 14 6 7 85.7 0 0 - 2 2 100.0 3 5 8 2 2 2 3 1 24
+p432
+aVRussell Westbrook OKC 11/05/2016 OKC vs. MIN W 28 28 9 18 50.0 4 5 80.0 6 8 75.0 2 4 6 8 3 0 2 3 24
+p433
+aVSteven Adams OKC 11/03/2016 OKC @ GSW L 24 11 5 7 71.4 0 0 - 1 2 50.0 3 1 4 1 2 2 1 3 7
+p434
+aVJoffrey Lauvergne OKC 11/03/2016 OKC @ GSW L 19 8 3 5 60.0 1 2 50.0 1 2 50.0 4 3 7 2 2 0 1 2 -13
+p435
+aVKyle Singler OKC 11/03/2016 OKC @ GSW L 17 6 2 5 40.0 1 2 50.0 1 2 50.0 0 2 2 0 0 1 1 1 3
+p436
+aVDomantas Sabonis OKC 11/03/2016 OKC @ GSW L 27 13 6 12 50.0 1 1 100.0 0 0 - 1 5 6 3 1 1 2 2 -6
+p437
+aVAlex Abrines OKC 11/03/2016 OKC @ GSW L 19 5 1 6 16.7 1 6 16.7 2 2 100.0 1 2 3 1 0 0 0 0 -13
+p438
+aVEnes Kanter OKC 11/03/2016 OKC @ GSW L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p439
+aVAnthony Morrow OKC 11/03/2016 OKC @ GSW L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -14
+p440
+aVAndre Roberson OKC 11/03/2016 OKC @ GSW L 18 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 0 0 0 2 3 -6
+p441
+aVSemaj Christon OKC 11/03/2016 OKC @ GSW L 19 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 3 2 0 1 2 -17
+p442
+aVVictor Oladipo OKC 11/03/2016 OKC @ GSW L 30 21 8 13 61.5 4 6 66.7 1 4 25.0 0 3 3 0 0 0 0 2 -25
+p443
+aVRussell Westbrook OKC 11/03/2016 OKC @ GSW L 29 20 4 15 26.7 2 4 50.0 10 14 71.4 1 5 6 10 1 2 6 3 -9
+p444
+aVJerami Grant OKC 11/03/2016 OKC @ GSW L 25 6 3 9 33.3 0 0 - 0 2 0.0 1 3 4 0 0 0 0 2 -26
+p445
+aVAlex Abrines OKC 11/02/2016 OKC @ LAC W 8 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 2 0 4
+p446
+aVJoffrey Lauvergne OKC 11/02/2016 OKC @ LAC W 17 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 3 0 0 0 0 -6
+p447
+aVDomantas Sabonis OKC 11/02/2016 OKC @ LAC W 17 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 1 1 0 0 5 6
+p448
+aVSemaj Christon OKC 11/02/2016 OKC @ LAC W 15 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 0 0 2 3 -10
+p449
+aVRussell Westbrook OKC 11/02/2016 OKC @ LAC W 33 35 14 30 46.7 0 7 0.0 7 9 77.8 1 5 6 5 3 0 10 4 12
+p450
+aVNick Collison OKC 11/02/2016 OKC @ LAC W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 3 0 0 0 0 8
+p451
+aVVictor Oladipo OKC 11/02/2016 OKC @ LAC W 33 9 3 11 27.3 1 5 20.0 2 3 66.7 0 5 5 1 0 0 0 2 6
+p452
+aVSteven Adams OKC 11/02/2016 OKC @ LAC W 31 2 1 3 33.3 0 0 - 0 0 - 2 9 11 1 1 0 3 5 10
+p453
+aVAnthony Morrow OKC 11/02/2016 OKC @ LAC W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 0
+p454
+aVAndre Roberson OKC 11/02/2016 OKC @ LAC W 24 2 1 5 20.0 0 1 0.0 0 2 0.0 2 2 4 0 1 1 1 2 -1
+p455
+aVEnes Kanter OKC 11/02/2016 OKC @ LAC W 24 6 3 11 27.3 0 1 0.0 0 0 - 3 9 12 0 1 0 2 1 -14
+p456
+aVKyle Singler OKC 11/02/2016 OKC @ LAC W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 0 -4
+p457
+aVJerami Grant OKC 11/02/2016 OKC @ LAC W 18 6 2 6 33.3 0 0 - 2 4 50.0 0 2 2 0 0 2 1 1 -1
+p458
+aVJoffrey Lauvergne OKC 10/30/2016 OKC vs. LAL W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 2 0 0 1 11
+p459
+aVAndre Roberson OKC 10/30/2016 OKC vs. LAL W 30 8 4 7 57.1 0 3 0.0 0 2 0.0 0 5 5 3 1 1 0 0 9
+p460
+aVKyle Singler OKC 10/30/2016 OKC vs. LAL W 18 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 0 1 0 2 3 4
+p461
+aVDomantas Sabonis OKC 10/30/2016 OKC vs. LAL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 4 -6
+p462
+aVVictor Oladipo OKC 10/30/2016 OKC vs. LAL W 38 20 7 20 35.0 3 7 42.9 3 3 100.0 0 1 1 4 1 0 3 3 25
+p463
+aVSteven Adams OKC 10/30/2016 OKC vs. LAL W 30 14 6 12 50.0 0 0 - 2 2 100.0 3 9 12 2 3 2 2 2 13
+p464
+aVAnthony Morrow OKC 10/30/2016 OKC vs. LAL W 6 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 2
+p465
+aVSemaj Christon OKC 10/30/2016 OKC vs. LAL W 20 5 2 6 33.3 1 1 100.0 0 1 0.0 0 0 0 2 2 0 1 1 10
+p466
+aVAlex Abrines OKC 10/30/2016 OKC vs. LAL W 2 5 1 1 100.0 0 0 - 3 3 100.0 0 0 0 0 1 0 0 0 0
+p467
+aVRussell Westbrook OKC 10/30/2016 OKC vs. LAL W 34 33 11 21 52.4 5 6 83.3 6 6 100.0 4 7 11 16 1 1 7 3 10
+p468
+aVEnes Kanter OKC 10/30/2016 OKC vs. LAL W 22 16 8 11 72.7 0 1 0.0 0 0 - 1 5 6 0 0 0 2 2 -1
+p469
+aVErsan Ilyasova OKC 10/30/2016 OKC vs. LAL W 26 0 0 6 0.0 0 5 0.0 0 0 - 1 5 6 0 1 1 2 2 8
+p470
+aVAndre Roberson OKC 10/28/2016 OKC vs. PHX W 40 9 3 4 75.0 1 1 100.0 2 2 100.0 0 11 11 0 5 1 1 5 1
+p471
+aVVictor Oladipo OKC 10/28/2016 OKC vs. PHX W 44 21 7 17 41.2 1 4 25.0 6 7 85.7 1 4 5 2 2 1 4 2 -12
+p472
+aVSemaj Christon OKC 10/28/2016 OKC vs. PHX W 11 2 1 4 25.0 0 0 - 0 2 0.0 1 1 2 0 0 1 1 0 3
+p473
+aVEnes Kanter OKC 10/28/2016 OKC vs. PHX W 12 4 1 4 25.0 0 0 - 2 4 50.0 1 1 2 0 0 0 2 3 -8
+p474
+aVSteven Adams OKC 10/28/2016 OKC vs. PHX W 40 9 3 8 37.5 0 0 - 3 3 100.0 6 4 10 0 1 0 6 2 -4
+p475
+aVKyle Singler OKC 10/28/2016 OKC vs. PHX W 33 4 2 6 33.3 0 4 0.0 0 0 - 0 3 3 0 0 0 0 2 21
+p476
+aVRussell Westbrook OKC 10/28/2016 OKC vs. PHX W 45 51 17 44 38.6 2 10 20.0 15 20 75.0 3 10 13 10 2 0 5 3 7
+p477
+aVDomantas Sabonis OKC 10/28/2016 OKC vs. PHX W 17 8 4 6 66.7 0 0 - 0 0 - 0 4 4 0 0 0 1 3 -6
+p478
+aVErsan Ilyasova OKC 10/28/2016 OKC vs. PHX W 16 5 2 3 66.7 1 2 50.0 0 0 - 0 5 5 0 1 0 2 2 8
+p479
+aVJoffrey Lauvergne OKC 10/28/2016 OKC vs. PHX W 6 0 0 0 - 0 0 - 0 0 - 2 0 2 1 0 0 0 2 5
+p480
+aVAndre Roberson OKC 10/26/2016 OKC @ PHI W 32 1 0 2 0.0 0 0 - 1 4 25.0 2 5 7 3 2 1 0 3 10
+p481
+aVErsan Ilyasova OKC 10/26/2016 OKC @ PHI W 20 10 4 7 57.1 2 5 40.0 0 0 - 1 4 5 1 1 0 0 1 -2
+p482
+aVVictor Oladipo OKC 10/26/2016 OKC @ PHI W 26 10 4 16 25.0 0 5 0.0 2 3 66.7 2 3 5 1 0 1 3 2 -7
+p483
+aVDomantas Sabonis OKC 10/26/2016 OKC @ PHI W 16 5 2 5 40.0 1 3 33.3 0 0 - 0 4 4 0 0 0 0 2 -10
+p484
+aVKyle Singler OKC 10/26/2016 OKC @ PHI W 22 5 1 6 16.7 1 5 20.0 2 2 100.0 0 1 1 0 0 0 1 2 8
+p485
+aVSteven Adams OKC 10/26/2016 OKC @ PHI W 36 16 7 16 43.8 0 0 - 2 2 100.0 2 3 5 1 3 0 2 4 11
+p486
+aVAlex Abrines OKC 10/26/2016 OKC @ PHI W 13 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 3 3
+p487
+aVEnes Kanter OKC 10/26/2016 OKC @ PHI W 24 17 7 14 50.0 0 0 - 3 4 75.0 5 7 12 0 1 1 0 3 9
+p488
+aVRussell Westbrook OKC 10/26/2016 OKC @ PHI W 36 32 11 21 52.4 1 2 50.0 9 11 81.8 1 11 12 9 0 0 2 2 8
+p489
+aVSemaj Christon OKC 10/26/2016 OKC @ PHI W 15 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 1 -10
+p490
+a.

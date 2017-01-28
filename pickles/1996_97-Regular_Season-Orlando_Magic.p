@@ -1,0 +1,1516 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDerek Strong ORL 04/19/1997 ORL vs. MIA L 37 27 9 17 52.9 0 0 - 9 9 100.0 6 3 9 1 0 0 4 3 -9
+p2
+aVDennis Scott ORL 04/19/1997 ORL vs. MIA L 21 2 1 7 14.3 0 2 0.0 0 0 - 1 0 1 2 2 0 0 2 -5
+p3
+aVBrian Evans ORL 04/19/1997 ORL vs. MIA L 15 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 1 0 0 1 0
+p4
+aVAnfernee Hardaway ORL 04/19/1997 ORL vs. MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -4
+p5
+aVNick Anderson ORL 04/19/1997 ORL vs. MIA L 24 7 2 4 50.0 1 2 50.0 2 2 100.0 0 4 4 2 0 2 2 1 -16
+p6
+aVDavid Vaughn ORL 04/19/1997 ORL vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 0
+p7
+aVBrian Shaw ORL 04/19/1997 ORL vs. MIA L 26 7 3 10 30.0 1 4 25.0 0 0 - 0 1 1 3 2 1 2 4 -10
+p8
+aVDarrell Armstrong ORL 04/19/1997 ORL vs. MIA L 33 19 8 15 53.3 0 4 0.0 3 3 100.0 1 3 4 5 2 1 6 3 -14
+p9
+aVDan Schayes ORL 04/19/1997 ORL vs. MIA L 45 7 3 10 30.0 0 0 - 1 1 100.0 6 7 13 4 1 4 2 2 -8
+p10
+aVGerald Wilkins ORL 04/19/1997 ORL vs. MIA L 33 17 6 15 40.0 1 3 33.3 4 6 66.7 1 2 3 2 1 0 1 1 -4
+p11
+aVHorace Grant ORL 04/18/1997 ORL @ WAS L 16 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 0 1 2 0 1 3
+p12
+aVBrian Shaw ORL 04/18/1997 ORL @ WAS L 11 6 2 4 50.0 1 2 50.0 1 2 50.0 0 3 3 1 0 0 3 3 -4
+p13
+aVRony Seikaly ORL 04/18/1997 ORL @ WAS L 37 19 4 10 40.0 0 1 0.0 11 13 84.6 6 4 10 3 0 0 6 5 -8
+p14
+aVDarrell Armstrong ORL 04/18/1997 ORL @ WAS L 12 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 1 2 0 0 2 -3
+p15
+aVDerek Strong ORL 04/18/1997 ORL @ WAS L 37 18 5 11 45.5 0 0 - 8 8 100.0 2 7 9 1 1 0 2 6 -10
+p16
+aVNick Anderson ORL 04/18/1997 ORL @ WAS L 36 3 1 7 14.3 1 5 20.0 0 0 - 0 6 6 2 2 0 1 6 -12
+p17
+aVAnfernee Hardaway ORL 04/18/1997 ORL @ WAS L 43 20 8 23 34.8 2 8 25.0 2 3 66.7 0 2 2 6 0 1 1 0 -9
+p18
+aVDennis Scott ORL 04/18/1997 ORL @ WAS L 38 17 6 14 42.9 5 6 83.3 0 0 - 0 5 5 3 0 0 1 3 -9
+p19
+aVDan Schayes ORL 04/18/1997 ORL @ WAS L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p20
+aVDan Schayes ORL 04/16/1997 ORL @ CLE L 20 8 3 7 42.9 0 0 - 2 3 66.7 1 7 8 0 2 1 2 3 5
+p21
+aVDavid Vaughn ORL 04/16/1997 ORL @ CLE L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p22
+aVNick Anderson ORL 04/16/1997 ORL @ CLE L 29 11 5 9 55.6 1 4 25.0 0 0 - 1 1 2 1 0 0 3 2 -15
+p23
+aVHorace Grant ORL 04/16/1997 ORL @ CLE L 34 14 7 13 53.8 0 0 - 0 1 0.0 1 3 4 0 1 0 2 3 -15
+p24
+aVDennis Scott ORL 04/16/1997 ORL @ CLE L 27 3 1 8 12.5 0 5 0.0 1 2 50.0 1 1 2 3 1 0 1 2 -8
+p25
+aVDerek Strong ORL 04/16/1997 ORL @ CLE L 38 9 2 7 28.6 0 0 - 5 6 83.3 4 10 14 1 0 0 1 2 -22
+p26
+aVGerald Wilkins ORL 04/16/1997 ORL @ CLE L 24 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 4 0 1 2 1 -3
+p27
+aVBrian Evans ORL 04/16/1997 ORL @ CLE L 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 2
+p28
+aVDarrell Armstrong ORL 04/16/1997 ORL @ CLE L 19 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 2 0 0 2 2 1
+p29
+aVAnfernee Hardaway ORL 04/16/1997 ORL @ CLE L 32 10 4 10 40.0 1 4 25.0 1 2 50.0 0 4 4 5 0 2 4 1 -22
+p30
+aVAnfernee Hardaway ORL 04/14/1997 ORL vs. DET W 44 21 7 17 41.2 1 8 12.5 6 6 100.0 1 5 6 5 3 2 5 2 16
+p31
+aVDerek Strong ORL 04/14/1997 ORL vs. DET W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -9
+p32
+aVHorace Grant ORL 04/14/1997 ORL vs. DET W 43 7 3 8 37.5 0 0 - 1 1 100.0 4 6 10 5 1 3 0 2 15
+p33
+aVGerald Wilkins ORL 04/14/1997 ORL vs. DET W 27 14 6 12 50.0 1 3 33.3 1 2 50.0 1 2 3 0 1 0 1 1 6
+p34
+aVDennis Scott ORL 04/14/1997 ORL vs. DET W 28 12 5 11 45.5 2 6 33.3 0 0 - 0 0 0 2 0 0 2 1 2
+p35
+aVDarrell Armstrong ORL 04/14/1997 ORL vs. DET W 21 15 2 8 25.0 2 7 28.6 9 9 100.0 1 2 3 4 3 0 1 3 6
+p36
+aVDan Schayes ORL 04/14/1997 ORL vs. DET W 16 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 1 1 0 0 2 14
+p37
+aVRony Seikaly ORL 04/14/1997 ORL vs. DET W 31 18 6 9 66.7 0 0 - 6 7 85.7 4 3 7 4 0 0 5 4 0
+p38
+aVNick Anderson ORL 04/14/1997 ORL vs. DET W 25 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 1 2 0 1 3 -5
+p39
+aVBrian Evans ORL 04/12/1997 ORL vs. BOS W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 1
+p40
+aVDarrell Armstrong ORL 04/12/1997 ORL vs. BOS W 22 7 2 7 28.6 1 4 25.0 2 2 100.0 1 1 2 6 6 1 4 0 23
+p41
+aVHorace Grant ORL 04/12/1997 ORL vs. BOS W 31 21 9 13 69.2 0 0 - 3 3 100.0 3 2 5 1 3 2 4 3 28
+p42
+aVGerald Wilkins ORL 04/12/1997 ORL vs. BOS W 30 22 9 15 60.0 3 4 75.0 1 2 50.0 0 1 1 4 0 0 1 1 18
+p43
+aVDennis Scott ORL 04/12/1997 ORL vs. BOS W 28 7 2 9 22.2 0 4 0.0 3 3 100.0 0 3 3 2 1 0 0 2 0
+p44
+aVDerek Strong ORL 04/12/1997 ORL vs. BOS W 17 6 2 6 33.3 0 0 - 2 2 100.0 2 6 8 3 1 0 0 4 -5
+p45
+aVNick Anderson ORL 04/12/1997 ORL vs. BOS W 29 12 5 12 41.7 2 6 33.3 0 0 - 0 3 3 4 2 0 3 2 21
+p46
+aVDan Schayes ORL 04/12/1997 ORL vs. BOS W 12 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 0 0 0 0 1 8
+p47
+aVAmal McCaskill ORL 04/12/1997 ORL vs. BOS W 2 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p48
+aVAnfernee Hardaway ORL 04/12/1997 ORL vs. BOS W 31 13 3 6 50.0 1 2 50.0 6 6 100.0 1 1 2 7 3 0 2 2 6
+p49
+aVRony Seikaly ORL 04/12/1997 ORL vs. BOS W 34 21 8 16 50.0 0 0 - 5 6 83.3 7 12 19 4 0 1 2 5 13
+p50
+aVNick Anderson ORL 04/10/1997 ORL @ TOR W 27 7 3 9 33.3 1 5 20.0 0 0 - 0 5 5 4 2 0 0 2 26
+p51
+aVDerek Strong ORL 04/10/1997 ORL @ TOR W 22 2 1 5 20.0 0 0 - 0 0 - 4 3 7 0 1 0 0 2 12
+p52
+aVDan Schayes ORL 04/10/1997 ORL @ TOR W 22 9 3 4 75.0 0 0 - 3 6 50.0 1 8 9 0 0 1 1 4 4
+p53
+aVAnfernee Hardaway ORL 04/10/1997 ORL @ TOR W 31 6 3 9 33.3 0 4 0.0 0 1 0.0 2 7 9 13 3 2 2 2 21
+p54
+aVRony Seikaly ORL 04/10/1997 ORL @ TOR W 24 16 6 12 50.0 0 0 - 4 4 100.0 2 6 8 0 0 1 1 2 31
+p55
+aVDarrell Armstrong ORL 04/10/1997 ORL @ TOR W 17 6 2 6 33.3 2 3 66.7 0 0 - 1 1 2 7 0 0 0 2 15
+p56
+aVHorace Grant ORL 04/10/1997 ORL @ TOR W 29 18 8 13 61.5 0 0 - 2 2 100.0 4 3 7 4 0 1 2 2 25
+p57
+aVAmal McCaskill ORL 04/10/1997 ORL @ TOR W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 2 0 1 3
+p58
+aVDennis Scott ORL 04/10/1997 ORL @ TOR W 33 20 6 11 54.5 5 9 55.6 3 3 100.0 0 3 3 2 1 1 2 1 23
+p59
+aVGerald Wilkins ORL 04/10/1997 ORL @ TOR W 27 19 5 8 62.5 1 1 100.0 8 8 100.0 0 1 1 1 2 0 3 4 20
+p60
+aVAmal McCaskill ORL 04/08/1997 ORL @ MIL W 1 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 0 0
+p61
+aVAnfernee Hardaway ORL 04/08/1997 ORL @ MIL W 45 30 11 18 61.1 2 4 50.0 6 7 85.7 0 1 1 10 3 1 0 2 20
+p62
+aVDerek Strong ORL 04/08/1997 ORL @ MIL W 39 13 5 11 45.5 0 0 - 3 4 75.0 3 13 16 0 1 0 3 5 15
+p63
+aVDan Schayes ORL 04/08/1997 ORL @ MIL W 18 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 1 1 0 0 3 11
+p64
+aVRony Seikaly ORL 04/08/1997 ORL @ MIL W 34 12 3 10 30.0 0 0 - 6 6 100.0 3 3 6 0 1 3 1 3 3
+p65
+aVDarrell Armstrong ORL 04/08/1997 ORL @ MIL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -3
+p66
+aVGerald Wilkins ORL 04/08/1997 ORL @ MIL W 25 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 1 0 8
+p67
+aVDennis Scott ORL 04/08/1997 ORL @ MIL W 34 17 6 15 40.0 1 6 16.7 4 4 100.0 1 4 5 7 1 0 0 2 19
+p68
+aVNick Anderson ORL 04/08/1997 ORL @ MIL W 38 11 5 13 38.5 1 3 33.3 0 0 - 1 3 4 4 2 1 1 1 2
+p69
+aVBrian Shaw ORL 04/06/1997 ORL vs. CHI L 14 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 1 0 0 3 2 -17
+p70
+aVGerald Wilkins ORL 04/06/1997 ORL vs. CHI L 33 13 6 11 54.5 0 1 0.0 1 2 50.0 1 1 2 2 3 0 3 2 1
+p71
+aVBrian Evans ORL 04/06/1997 ORL vs. CHI L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p72
+aVDan Schayes ORL 04/06/1997 ORL vs. CHI L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 1 1 0 0
+p73
+aVDennis Scott ORL 04/06/1997 ORL vs. CHI L 18 8 3 5 60.0 2 3 66.7 0 1 0.0 0 2 2 0 0 0 0 2 6
+p74
+aVDarrell Armstrong ORL 04/06/1997 ORL vs. CHI L 11 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 2 1 0 1 0 10
+p75
+aVHorace Grant ORL 04/06/1997 ORL vs. CHI L 27 1 0 4 0.0 0 0 - 1 2 50.0 1 6 7 1 0 0 2 2 -22
+p76
+aVNick Anderson ORL 04/06/1997 ORL vs. CHI L 31 5 2 7 28.6 1 5 20.0 0 2 0.0 1 1 2 2 2 1 2 2 -25
+p77
+aVAnfernee Hardaway ORL 04/06/1997 ORL vs. CHI L 36 23 7 14 50.0 3 4 75.0 6 7 85.7 0 1 1 0 1 0 1 4 -22
+p78
+aVDerek Strong ORL 04/06/1997 ORL vs. CHI L 17 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 0 0 3 4 7
+p79
+aVAmal McCaskill ORL 04/06/1997 ORL vs. CHI L 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 4
+p80
+aVRony Seikaly ORL 04/06/1997 ORL vs. CHI L 37 23 8 15 53.3 0 0 - 7 10 70.0 5 4 9 2 2 1 2 3 -26
+p81
+aVGerald Wilkins ORL 04/04/1997 ORL @ NYK W 41 14 4 11 36.4 3 3 100.0 3 4 75.0 0 2 2 2 1 0 2 2 15
+p82
+aVAmal McCaskill ORL 04/04/1997 ORL @ NYK W 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -6
+p83
+aVDarrell Armstrong ORL 04/04/1997 ORL @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p84
+aVNick Anderson ORL 04/04/1997 ORL @ NYK W 39 10 3 13 23.1 2 9 22.2 2 4 50.0 1 6 7 2 2 1 1 3 6
+p85
+aVBrian Shaw ORL 04/04/1997 ORL @ NYK W 19 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 1 1 1 2 0 0
+p86
+aVAnfernee Hardaway ORL 04/04/1997 ORL @ NYK W 44 23 10 21 47.6 1 4 25.0 2 2 100.0 1 4 5 7 2 1 0 2 8
+p87
+aVDan Schayes ORL 04/04/1997 ORL @ NYK W 40 21 6 13 46.2 0 0 - 9 11 81.8 2 9 11 2 6 0 4 4 12
+p88
+aVDerek Strong ORL 04/04/1997 ORL @ NYK W 44 21 7 14 50.0 0 0 - 7 8 87.5 5 7 12 2 2 0 2 2 12
+p89
+aVNick Anderson ORL 04/03/1997 ORL vs. LAC L 43 21 8 19 42.1 5 12 41.7 0 0 - 2 6 8 1 3 0 1 4 -19
+p90
+aVDarrell Armstrong ORL 04/03/1997 ORL vs. LAC L 13 6 2 7 28.6 0 4 0.0 2 2 100.0 1 0 1 1 0 0 0 3 -19
+p91
+aVGerald Wilkins ORL 04/03/1997 ORL vs. LAC L 20 6 3 9 33.3 0 3 0.0 0 0 - 1 1 2 0 0 0 1 3 -8
+p92
+aVDan Schayes ORL 04/03/1997 ORL vs. LAC L 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 0 1 2 -9
+p93
+aVDerek Strong ORL 04/03/1997 ORL vs. LAC L 48 7 3 9 33.3 0 0 - 1 1 100.0 3 3 6 2 0 0 1 4 -19
+p94
+aVBrian Shaw ORL 04/03/1997 ORL vs. LAC L 27 7 3 7 42.9 0 2 0.0 1 2 50.0 0 2 2 4 1 2 4 2 -1
+p95
+aVAnfernee Hardaway ORL 04/03/1997 ORL vs. LAC L 44 27 5 11 45.5 0 3 0.0 17 19 89.5 4 5 9 5 4 1 2 0 -18
+p96
+aVRony Seikaly ORL 04/03/1997 ORL vs. LAC L 33 18 7 14 50.0 0 0 - 4 10 40.0 3 3 6 1 0 1 0 4 -2
+p97
+aVDennis Scott ORL 04/01/1997 ORL vs. PHI L 20 0 0 6 0.0 0 4 0.0 0 0 - 0 0 0 2 0 0 1 1 -8
+p98
+aVBrian Shaw ORL 04/01/1997 ORL vs. PHI L 19 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 5 0 0 0 4 -23
+p99
+aVRony Seikaly ORL 04/01/1997 ORL vs. PHI L 46 26 10 25 40.0 0 0 - 6 12 50.0 8 11 19 0 0 3 3 5 -13
+p100
+aVDan Schayes ORL 04/01/1997 ORL vs. PHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -11
+p101
+aVNick Anderson ORL 04/01/1997 ORL vs. PHI L 39 18 7 14 50.0 4 9 44.4 0 2 0.0 2 8 10 2 3 2 3 3 4
+p102
+aVDerek Strong ORL 04/01/1997 ORL vs. PHI L 40 12 3 11 27.3 0 0 - 6 6 100.0 6 8 14 2 1 0 2 5 -1
+p103
+aVAnfernee Hardaway ORL 04/01/1997 ORL vs. PHI L 43 30 10 23 43.5 3 10 30.0 7 8 87.5 3 2 5 6 2 1 2 0 2
+p104
+aVGerald Wilkins ORL 04/01/1997 ORL vs. PHI L 9 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -15
+p105
+aVDarrell Armstrong ORL 04/01/1997 ORL vs. PHI L 15 5 1 6 16.7 1 5 20.0 2 2 100.0 2 1 3 2 1 0 1 4 5
+p106
+aVBrian Shaw ORL 03/30/1997 ORL vs. NYK L 21 14 4 6 66.7 2 2 100.0 4 4 100.0 0 1 1 2 2 1 2 2 -7
+p107
+aVDerek Strong ORL 03/30/1997 ORL vs. NYK L 26 6 3 7 42.9 0 0 - 0 0 - 0 6 6 0 0 1 0 1 -10
+p108
+aVGerald Wilkins ORL 03/30/1997 ORL vs. NYK L 18 2 1 4 25.0 0 0 - 0 1 0.0 0 1 1 2 0 0 1 1 -12
+p109
+aVRony Seikaly ORL 03/30/1997 ORL vs. NYK L 35 17 8 14 57.1 0 0 - 1 5 20.0 4 4 8 0 1 1 2 5 -6
+p110
+aVNick Anderson ORL 03/30/1997 ORL vs. NYK L 36 12 4 7 57.1 1 3 33.3 3 5 60.0 1 7 8 2 0 1 2 4 -8
+p111
+aVAnfernee Hardaway ORL 03/30/1997 ORL vs. NYK L 39 21 8 25 32.0 4 11 36.4 1 2 50.0 0 1 1 4 1 1 5 1 -11
+p112
+aVHorace Grant ORL 03/30/1997 ORL vs. NYK L 25 6 3 7 42.9 0 0 - 0 0 - 2 2 4 2 1 0 0 1 -11
+p113
+aVDan Schayes ORL 03/30/1997 ORL vs. NYK L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -6
+p114
+aVDennis Scott ORL 03/30/1997 ORL vs. NYK L 30 4 2 6 33.3 0 2 0.0 0 1 0.0 0 3 3 0 0 0 1 6 -4
+p115
+aVDarrell Armstrong ORL 03/30/1997 ORL vs. NYK L 5 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 0
+p116
+aVAnfernee Hardaway ORL 03/27/1997 ORL @ SAS L 40 19 7 19 36.8 2 6 33.3 3 4 75.0 2 0 2 6 1 0 4 2 -10
+p117
+aVBrian Shaw ORL 03/27/1997 ORL @ SAS L 14 0 0 5 0.0 0 1 0.0 0 1 0.0 0 0 0 3 1 0 1 2 -1
+p118
+aVDarrell Armstrong ORL 03/27/1997 ORL @ SAS L 5 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p119
+aVNick Anderson ORL 03/27/1997 ORL @ SAS L 36 15 5 12 41.7 4 9 44.4 1 2 50.0 1 2 3 5 2 0 1 4 4
+p120
+aVDennis Scott ORL 03/27/1997 ORL @ SAS L 28 12 3 9 33.3 2 6 33.3 4 5 80.0 0 2 2 3 0 0 0 2 -3
+p121
+aVHorace Grant ORL 03/27/1997 ORL @ SAS L 41 15 7 10 70.0 0 1 0.0 1 1 100.0 1 3 4 1 2 1 1 3 -7
+p122
+aVRony Seikaly ORL 03/27/1997 ORL @ SAS L 36 22 7 8 87.5 0 0 - 8 10 80.0 1 5 6 1 0 2 4 5 -1
+p123
+aVGerald Wilkins ORL 03/27/1997 ORL @ SAS L 19 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 1 0 1 3 1 -1
+p124
+aVDerek Strong ORL 03/27/1997 ORL @ SAS L 18 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 1 0 0 1 0
+p125
+aVAnfernee Hardaway ORL 03/25/1997 ORL vs. SAC W 39 30 10 19 52.6 1 5 20.0 9 12 75.0 2 0 2 7 0 0 2 4 16
+p126
+aVNick Anderson ORL 03/25/1997 ORL vs. SAC W 32 7 3 11 27.3 1 6 16.7 0 2 0.0 1 3 4 4 4 1 1 4 22
+p127
+aVHorace Grant ORL 03/25/1997 ORL vs. SAC W 37 13 4 7 57.1 0 0 - 5 5 100.0 0 4 4 4 4 0 0 1 13
+p128
+aVGerald Wilkins ORL 03/25/1997 ORL vs. SAC W 23 11 4 5 80.0 1 2 50.0 2 2 100.0 2 1 3 0 0 0 2 4 2
+p129
+aVDennis Scott ORL 03/25/1997 ORL vs. SAC W 29 13 5 9 55.6 3 6 50.0 0 1 0.0 1 3 4 1 1 0 1 4 8
+p130
+aVBrian Shaw ORL 03/25/1997 ORL vs. SAC W 16 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 2 0 0 2 1 -8
+p131
+aVBrian Evans ORL 03/25/1997 ORL vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p132
+aVDarrell Armstrong ORL 03/25/1997 ORL vs. SAC W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p133
+aVDerek Strong ORL 03/25/1997 ORL vs. SAC W 19 10 4 7 57.1 0 0 - 2 2 100.0 1 3 4 1 0 1 1 2 8
+p134
+aVAmal McCaskill ORL 03/25/1997 ORL vs. SAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p135
+aVRony Seikaly ORL 03/25/1997 ORL vs. SAC W 39 26 8 12 66.7 0 0 - 10 13 76.9 5 9 14 2 1 1 3 4 4
+p136
+aVDan Schayes ORL 03/23/1997 ORL vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p137
+aVDerek Strong ORL 03/23/1997 ORL vs. LAL W 15 7 2 3 66.7 0 0 - 3 4 75.0 0 4 4 0 0 1 1 1 -4
+p138
+aVHorace Grant ORL 03/23/1997 ORL vs. LAL W 36 16 8 11 72.7 0 0 - 0 0 - 4 12 16 1 0 0 0 3 33
+p139
+aVGerald Wilkins ORL 03/23/1997 ORL vs. LAL W 17 2 0 4 0.0 0 2 0.0 2 2 100.0 2 0 2 3 0 0 2 0 -2
+p140
+aVRony Seikaly ORL 03/23/1997 ORL vs. LAL W 40 11 5 12 41.7 0 0 - 1 2 50.0 3 7 10 0 2 4 3 3 18
+p141
+aVAnfernee Hardaway ORL 03/23/1997 ORL vs. LAL W 34 21 9 19 47.4 1 5 20.0 2 2 100.0 2 3 5 5 1 0 1 3 23
+p142
+aVDennis Scott ORL 03/23/1997 ORL vs. LAL W 29 16 6 10 60.0 3 7 42.9 1 2 50.0 0 2 2 5 0 0 2 1 27
+p143
+aVBrian Evans ORL 03/23/1997 ORL vs. LAL W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 1
+p144
+aVNick Anderson ORL 03/23/1997 ORL vs. LAL W 37 21 8 15 53.3 5 9 55.6 0 0 - 0 5 5 3 3 0 1 1 26
+p145
+aVBrian Shaw ORL 03/23/1997 ORL vs. LAL W 22 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 5 1 0 1 3 -1
+p146
+aVDavid Vaughn ORL 03/23/1997 ORL vs. LAL W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p147
+aVDarrell Armstrong ORL 03/23/1997 ORL vs. LAL W 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 4
+p148
+aVHorace Grant ORL 03/21/1997 ORL @ BOS W 37 13 5 9 55.6 0 0 - 3 4 75.0 4 7 11 1 1 2 4 2 -1
+p149
+aVDennis Scott ORL 03/21/1997 ORL @ BOS W 16 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 1 1 0 0 1 -6
+p150
+aVGerald Wilkins ORL 03/21/1997 ORL @ BOS W 20 6 3 7 42.9 0 0 - 0 0 - 1 0 1 4 0 0 0 1 6
+p151
+aVDan Schayes ORL 03/21/1997 ORL @ BOS W 8 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 -2
+p152
+aVNick Anderson ORL 03/21/1997 ORL @ BOS W 21 3 1 6 16.7 1 4 25.0 0 0 - 1 2 3 2 1 0 0 1 3
+p153
+aVDarrell Armstrong ORL 03/21/1997 ORL @ BOS W 24 17 6 10 60.0 2 5 40.0 3 3 100.0 1 0 1 6 3 1 1 2 6
+p154
+aVAnfernee Hardaway ORL 03/21/1997 ORL @ BOS W 40 27 9 15 60.0 3 5 60.0 6 7 85.7 1 0 1 5 2 1 1 0 7
+p155
+aVBrian Shaw ORL 03/21/1997 ORL @ BOS W 24 10 3 9 33.3 2 4 50.0 2 2 100.0 0 2 2 4 1 0 2 3 -1
+p156
+aVDerek Strong ORL 03/21/1997 ORL @ BOS W 17 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 1 2 0 0 2 6
+p157
+aVRony Seikaly ORL 03/21/1997 ORL @ BOS W 33 17 7 16 43.8 0 0 - 3 4 75.0 4 7 11 0 0 0 5 3 7
+p158
+aVDerek Strong ORL 03/20/1997 ORL vs. GSW W 14 1 0 5 0.0 0 0 - 1 2 50.0 1 3 4 2 0 0 0 3 8
+p159
+aVNick Anderson ORL 03/20/1997 ORL vs. GSW W 17 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 3 1 0 0 1 7
+p160
+aVDennis Scott ORL 03/20/1997 ORL vs. GSW W 32 21 6 12 50.0 6 10 60.0 3 3 100.0 0 1 1 3 1 1 0 3 6
+p161
+aVRony Seikaly ORL 03/20/1997 ORL vs. GSW W 43 28 11 18 61.1 0 0 - 6 7 85.7 4 3 7 1 1 3 2 4 5
+p162
+aVAnfernee Hardaway ORL 03/20/1997 ORL vs. GSW W 40 20 7 17 41.2 2 6 33.3 4 4 100.0 2 5 7 6 3 0 4 4 8
+p163
+aVGerald Wilkins ORL 03/20/1997 ORL vs. GSW W 26 10 3 9 33.3 3 6 50.0 1 2 50.0 0 2 2 2 1 0 2 3 -14
+p164
+aVHorace Grant ORL 03/20/1997 ORL vs. GSW W 39 11 5 11 45.5 0 0 - 1 1 100.0 6 3 9 3 1 4 2 2 -3
+p165
+aVBrian Shaw ORL 03/20/1997 ORL vs. GSW W 30 4 0 5 0.0 0 3 0.0 4 4 100.0 1 3 4 4 1 0 1 0 8
+p166
+aVBrian Shaw ORL 03/17/1997 ORL @ ATL L 28 14 5 8 62.5 1 4 25.0 3 4 75.0 0 1 1 4 1 0 2 1 -1
+p167
+aVRony Seikaly ORL 03/17/1997 ORL @ ATL L 33 10 5 10 50.0 0 0 - 0 1 0.0 1 8 9 3 0 2 4 6 4
+p168
+aVHorace Grant ORL 03/17/1997 ORL @ ATL L 45 13 5 6 83.3 0 0 - 3 3 100.0 1 8 9 1 1 1 2 5 -12
+p169
+aVDarrell Armstrong ORL 03/17/1997 ORL @ ATL L 8 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 0 -13
+p170
+aVAnfernee Hardaway ORL 03/17/1997 ORL @ ATL L 46 35 13 24 54.2 2 8 25.0 7 8 87.5 0 1 1 4 3 2 5 1 -8
+p171
+aVDerek Strong ORL 03/17/1997 ORL @ ATL L 28 10 3 5 60.0 0 1 0.0 4 4 100.0 3 3 6 2 0 0 2 4 7
+p172
+aVGerald Wilkins ORL 03/17/1997 ORL @ ATL L 38 10 4 7 57.1 2 3 66.7 0 0 - 0 1 1 3 1 0 4 3 -1
+p173
+aVDennis Scott ORL 03/17/1997 ORL @ ATL L 40 12 5 9 55.6 1 5 20.0 1 2 50.0 0 4 4 2 1 0 2 2 -1
+p174
+aVBrian Shaw ORL 03/16/1997 ORL vs. VAN W 22 9 2 6 33.3 0 2 0.0 5 6 83.3 0 3 3 1 0 1 2 5 5
+p175
+aVDennis Scott ORL 03/16/1997 ORL vs. VAN W 38 14 5 10 50.0 2 7 28.6 2 2 100.0 0 4 4 3 2 0 1 0 10
+p176
+aVDan Schayes ORL 03/16/1997 ORL vs. VAN W 7 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 0
+p177
+aVRony Seikaly ORL 03/16/1997 ORL vs. VAN W 38 16 7 14 50.0 0 0 - 2 4 50.0 3 5 8 2 3 0 1 2 9
+p178
+aVDarrell Armstrong ORL 03/16/1997 ORL vs. VAN W 12 6 2 5 40.0 0 2 0.0 2 3 66.7 0 1 1 0 0 0 0 2 4
+p179
+aVGerald Wilkins ORL 03/16/1997 ORL vs. VAN W 35 17 6 12 50.0 1 3 33.3 4 4 100.0 0 0 0 0 0 0 2 2 5
+p180
+aVHorace Grant ORL 03/16/1997 ORL vs. VAN W 38 16 7 11 63.6 0 0 - 2 3 66.7 5 2 7 1 2 1 0 2 12
+p181
+aVAnfernee Hardaway ORL 03/16/1997 ORL vs. VAN W 38 14 3 11 27.3 1 4 25.0 7 8 87.5 3 3 6 6 2 0 3 1 5
+p182
+aVDerek Strong ORL 03/16/1997 ORL vs. VAN W 12 4 2 6 33.3 0 0 - 0 0 - 2 2 4 2 0 1 1 3 5
+p183
+aVDerek Strong ORL 03/14/1997 ORL vs. CHH W 15 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 1 0 0 2 -3
+p184
+aVGerald Wilkins ORL 03/14/1997 ORL vs. CHH W 15 2 1 8 12.5 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -11
+p185
+aVBrian Shaw ORL 03/14/1997 ORL vs. CHH W 38 16 7 14 50.0 2 4 50.0 0 0 - 3 5 8 10 0 0 2 2 1
+p186
+aVDarrell Armstrong ORL 03/14/1997 ORL vs. CHH W 13 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 1 0 0 3 -1
+p187
+aVHorace Grant ORL 03/14/1997 ORL vs. CHH W 39 8 3 9 33.3 0 0 - 2 2 100.0 2 9 11 0 0 1 0 0 4
+p188
+aVDennis Scott ORL 03/14/1997 ORL vs. CHH W 37 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 3 1 0 0 3 11
+p189
+aVRony Seikaly ORL 03/14/1997 ORL vs. CHH W 41 21 9 14 64.3 0 0 - 3 4 75.0 2 10 12 0 1 3 4 3 9
+p190
+aVAnfernee Hardaway ORL 03/14/1997 ORL vs. CHH W 41 27 9 22 40.9 1 6 16.7 8 10 80.0 1 2 3 5 0 0 1 1 15
+p191
+aVDarrell Armstrong ORL 03/12/1997 ORL @ HOU W 9 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -6
+p192
+aVGerald Wilkins ORL 03/12/1997 ORL @ HOU W 35 19 7 16 43.8 3 5 60.0 2 3 66.7 1 3 4 4 1 0 2 1 4
+p193
+aVDerek Strong ORL 03/12/1997 ORL @ HOU W 30 8 1 5 20.0 0 0 - 6 7 85.7 5 8 13 2 0 0 2 3 12
+p194
+aVDennis Scott ORL 03/12/1997 ORL @ HOU W 37 14 4 10 40.0 2 3 66.7 4 4 100.0 0 6 6 1 2 0 1 3 6
+p195
+aVBrian Shaw ORL 03/12/1997 ORL @ HOU W 25 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 4 2 0 1 1 -6
+p196
+aVHorace Grant ORL 03/12/1997 ORL @ HOU W 44 16 8 12 66.7 0 0 - 0 2 0.0 2 5 7 3 2 1 1 3 -2
+p197
+aVDan Schayes ORL 03/12/1997 ORL @ HOU W 19 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 1 1 0 1 4 -4
+p198
+aVAnfernee Hardaway ORL 03/12/1997 ORL @ HOU W 40 31 11 20 55.0 2 6 33.3 7 7 100.0 1 3 4 4 2 1 0 2 1
+p199
+aVDan Schayes ORL 03/11/1997 ORL @ DEN W 19 6 3 5 60.0 0 0 - 0 2 0.0 0 4 4 0 0 0 1 2 6
+p200
+aVHorace Grant ORL 03/11/1997 ORL @ DEN W 43 10 5 11 45.5 0 0 - 0 0 - 2 10 12 4 4 2 0 0 0
+p201
+aVDerek Strong ORL 03/11/1997 ORL @ DEN W 34 20 9 14 64.3 0 0 - 2 3 66.7 2 5 7 0 0 0 2 3 2
+p202
+aVAnfernee Hardaway ORL 03/11/1997 ORL @ DEN W 40 27 10 21 47.6 1 2 50.0 6 6 100.0 1 4 5 8 2 1 3 1 8
+p203
+aVNick Anderson ORL 03/11/1997 ORL @ DEN W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p204
+aVDarrell Armstrong ORL 03/11/1997 ORL @ DEN W 8 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 1 1 0 0 1 3
+p205
+aVBrian Shaw ORL 03/11/1997 ORL @ DEN W 21 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 1 1 2 3 -1
+p206
+aVDennis Scott ORL 03/11/1997 ORL @ DEN W 35 9 3 6 50.0 2 5 40.0 1 2 50.0 0 3 3 1 0 3 2 2 5
+p207
+aVGerald Wilkins ORL 03/11/1997 ORL @ DEN W 29 18 7 14 50.0 2 4 50.0 2 2 100.0 0 1 1 2 0 0 1 2 2
+p208
+aVDennis Scott ORL 03/09/1997 ORL @ PHX L 33 8 3 8 37.5 2 3 66.7 0 0 - 0 1 1 0 1 0 3 3 -11
+p209
+aVBrian Evans ORL 03/09/1997 ORL @ PHX L 3 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p210
+aVDarrell Armstrong ORL 03/09/1997 ORL @ PHX L 14 2 1 7 14.3 0 4 0.0 0 0 - 1 1 2 1 1 0 1 2 -11
+p211
+aVBrian Shaw ORL 03/09/1997 ORL @ PHX L 25 9 4 10 40.0 1 2 50.0 0 0 - 0 3 3 5 1 0 2 2 -33
+p212
+aVAnfernee Hardaway ORL 03/09/1997 ORL @ PHX L 35 19 7 19 36.8 0 3 0.0 5 5 100.0 2 2 4 6 1 0 1 3 -16
+p213
+aVDavid Vaughn ORL 03/09/1997 ORL @ PHX L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 2 0 -7
+p214
+aVDerek Strong ORL 03/09/1997 ORL @ PHX L 14 8 3 6 50.0 0 0 - 2 2 100.0 3 5 8 1 0 0 3 2 -8
+p215
+aVHorace Grant ORL 03/09/1997 ORL @ PHX L 32 18 8 10 80.0 0 0 - 2 2 100.0 1 6 7 4 1 1 1 2 -11
+p216
+aVGerald Wilkins ORL 03/09/1997 ORL @ PHX L 22 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 0 2 -26
+p217
+aVRony Seikaly ORL 03/09/1997 ORL @ PHX L 23 11 4 8 50.0 0 0 - 3 4 75.0 2 2 4 1 0 1 3 1 -19
+p218
+aVNick Anderson ORL 03/09/1997 ORL @ PHX L 32 3 1 9 11.1 1 3 33.3 0 0 - 3 2 5 1 1 0 0 1 -28
+p219
+aVHorace Grant ORL 03/07/1997 ORL @ GSW L 39 23 9 18 50.0 0 0 - 5 6 83.3 5 6 11 5 3 1 3 2 4
+p220
+aVDerek Strong ORL 03/07/1997 ORL @ GSW L 23 8 3 8 37.5 0 0 - 2 2 100.0 3 3 6 3 0 0 0 2 0
+p221
+aVNick Anderson ORL 03/07/1997 ORL @ GSW L 36 11 4 8 50.0 3 7 42.9 0 0 - 1 2 3 1 4 0 1 2 4
+p222
+aVGerald Wilkins ORL 03/07/1997 ORL @ GSW L 16 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 2 0 1 0 -9
+p223
+aVRony Seikaly ORL 03/07/1997 ORL @ GSW L 33 6 1 5 20.0 0 0 - 4 6 66.7 5 7 12 4 0 0 4 3 -17
+p224
+aVDennis Scott ORL 03/07/1997 ORL @ GSW L 30 17 6 12 50.0 4 5 80.0 1 1 100.0 0 1 1 2 1 0 1 3 0
+p225
+aVBrian Shaw ORL 03/07/1997 ORL @ GSW L 22 15 5 11 45.5 1 6 16.7 4 4 100.0 0 0 0 3 3 0 2 3 -8
+p226
+aVAnfernee Hardaway ORL 03/07/1997 ORL @ GSW L 40 21 7 17 41.2 2 8 25.0 5 6 83.3 2 2 4 6 2 0 4 1 -9
+p227
+aVAnfernee Hardaway ORL 03/06/1997 ORL @ LAC W 36 21 10 18 55.6 0 1 0.0 1 2 50.0 0 4 4 8 1 0 4 2 5
+p228
+aVDerek Strong ORL 03/06/1997 ORL @ LAC W 22 7 3 6 50.0 0 0 - 1 2 50.0 2 7 9 1 0 1 0 1 -3
+p229
+aVNick Anderson ORL 03/06/1997 ORL @ LAC W 35 3 1 8 12.5 1 7 14.3 0 0 - 1 3 4 2 3 0 1 4 -3
+p230
+aVBrian Shaw ORL 03/06/1997 ORL @ LAC W 20 13 5 10 50.0 1 4 25.0 2 2 100.0 1 2 3 1 1 0 0 1 -5
+p231
+aVHorace Grant ORL 03/06/1997 ORL @ LAC W 37 10 3 7 42.9 0 0 - 4 6 66.7 2 9 11 3 1 0 0 3 6
+p232
+aVDennis Scott ORL 03/06/1997 ORL @ LAC W 32 19 7 17 41.2 5 11 45.5 0 0 - 3 2 5 0 1 0 0 3 6
+p233
+aVGerald Wilkins ORL 03/06/1997 ORL @ LAC W 20 9 2 6 33.3 2 4 50.0 3 4 75.0 0 1 1 0 1 0 0 2 0
+p234
+aVRony Seikaly ORL 03/06/1997 ORL @ LAC W 37 12 5 14 35.7 0 0 - 2 6 33.3 5 6 11 1 0 0 3 2 -1
+p235
+aVDerek Strong ORL 03/04/1997 ORL @ SEA W 19 4 1 4 25.0 0 0 - 2 2 100.0 4 1 5 0 0 1 1 1 -2
+p236
+aVGerald Wilkins ORL 03/04/1997 ORL @ SEA W 22 18 6 9 66.7 3 4 75.0 3 4 75.0 4 1 5 1 1 0 2 0 5
+p237
+aVNick Anderson ORL 03/04/1997 ORL @ SEA W 31 8 3 9 33.3 2 5 40.0 0 0 - 0 2 2 2 2 0 1 1 10
+p238
+aVAnfernee Hardaway ORL 03/04/1997 ORL @ SEA W 40 26 8 19 42.1 4 8 50.0 6 7 85.7 1 6 7 4 1 0 2 2 15
+p239
+aVRony Seikaly ORL 03/04/1997 ORL @ SEA W 39 18 7 13 53.8 0 0 - 4 4 100.0 5 3 8 1 0 1 4 4 8
+p240
+aVDennis Scott ORL 03/04/1997 ORL @ SEA W 32 9 3 7 42.9 3 5 60.0 0 0 - 0 2 2 1 3 0 3 2 5
+p241
+aVHorace Grant ORL 03/04/1997 ORL @ SEA W 39 7 1 6 16.7 0 0 - 5 8 62.5 2 12 14 4 3 0 1 0 18
+p242
+aVBrian Shaw ORL 03/04/1997 ORL @ SEA W 20 11 5 9 55.6 0 3 0.0 1 1 100.0 1 0 1 2 1 0 1 2 1
+p243
+aVDennis Scott ORL 03/02/1997 ORL vs. SEA L 36 17 6 16 37.5 5 11 45.5 0 0 - 2 2 4 4 0 0 1 1 -5
+p244
+aVBrian Shaw ORL 03/02/1997 ORL vs. SEA L 18 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 1 1 -10
+p245
+aVHorace Grant ORL 03/02/1997 ORL vs. SEA L 37 4 2 7 28.6 0 0 - 0 0 - 3 9 12 2 1 0 2 4 -4
+p246
+aVRony Seikaly ORL 03/02/1997 ORL vs. SEA L 34 17 6 14 42.9 0 0 - 5 6 83.3 6 8 14 0 0 1 4 4 -3
+p247
+aVGerald Wilkins ORL 03/02/1997 ORL vs. SEA L 19 9 1 3 33.3 0 0 - 7 9 77.8 0 1 1 2 0 0 1 0 -4
+p248
+aVAnfernee Hardaway ORL 03/02/1997 ORL vs. SEA L 40 17 5 13 38.5 1 6 16.7 6 6 100.0 2 1 3 6 0 0 2 3 -7
+p249
+aVDerek Strong ORL 03/02/1997 ORL vs. SEA L 18 14 6 8 75.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 5 -4
+p250
+aVNick Anderson ORL 03/02/1997 ORL vs. SEA L 37 20 6 13 46.2 6 12 50.0 2 4 50.0 1 3 4 3 2 0 1 4 -3
+p251
+aVRony Seikaly ORL 02/28/1997 ORL vs. SAS W 33 9 3 7 42.9 0 0 - 3 4 75.0 1 8 9 0 0 1 3 3 15
+p252
+aVDerek Strong ORL 02/28/1997 ORL vs. SAS W 33 9 4 10 40.0 0 0 - 1 2 50.0 6 5 11 2 2 1 2 3 13
+p253
+aVBrian Evans ORL 02/28/1997 ORL vs. SAS W 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p254
+aVBrian Shaw ORL 02/28/1997 ORL vs. SAS W 23 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 2 3 0 0 3 16
+p255
+aVGerald Wilkins ORL 02/28/1997 ORL vs. SAS W 29 16 8 14 57.1 0 2 0.0 0 0 - 2 1 3 2 2 0 2 1 14
+p256
+aVNick Anderson ORL 02/28/1997 ORL vs. SAS W 30 9 4 10 40.0 1 5 20.0 0 2 0.0 2 1 3 5 3 1 1 2 16
+p257
+aVDavid Vaughn ORL 02/28/1997 ORL vs. SAS W 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p258
+aVDarrell Armstrong ORL 02/28/1997 ORL vs. SAS W 8 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 -2
+p259
+aVAnfernee Hardaway ORL 02/28/1997 ORL vs. SAS W 35 20 7 12 58.3 1 5 20.0 5 8 62.5 1 4 5 8 5 0 4 0 11
+p260
+aVDennis Scott ORL 02/28/1997 ORL vs. SAS W 33 13 5 9 55.6 3 7 42.9 0 0 - 0 3 3 1 2 0 1 1 18
+p261
+aVDan Schayes ORL 02/28/1997 ORL vs. SAS W 10 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 0 0 1 0 2 8
+p262
+aVNick Anderson ORL 02/26/1997 ORL vs. MIA W 38 12 4 11 36.4 2 6 33.3 2 4 50.0 1 5 6 3 5 1 2 0 10
+p263
+aVGerald Wilkins ORL 02/26/1997 ORL vs. MIA W 18 3 1 9 11.1 0 2 0.0 1 2 50.0 0 1 1 0 2 0 2 0 -3
+p264
+aVHorace Grant ORL 02/26/1997 ORL vs. MIA W 42 5 2 7 28.6 0 0 - 1 2 50.0 4 6 10 2 0 0 0 1 17
+p265
+aVDan Schayes ORL 02/26/1997 ORL vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p266
+aVDerek Strong ORL 02/26/1997 ORL vs. MIA W 15 4 1 2 50.0 0 0 - 2 4 50.0 0 2 2 0 0 0 3 4 -6
+p267
+aVAnfernee Hardaway ORL 02/26/1997 ORL vs. MIA W 40 18 7 14 50.0 1 6 16.7 3 6 50.0 0 5 5 7 1 1 4 3 10
+p268
+aVDennis Scott ORL 02/26/1997 ORL vs. MIA W 32 26 9 12 75.0 6 7 85.7 2 2 100.0 0 3 3 1 3 0 0 2 10
+p269
+aVBrian Shaw ORL 02/26/1997 ORL vs. MIA W 19 4 1 2 50.0 0 1 0.0 2 4 50.0 3 3 6 6 2 0 3 2 7
+p270
+aVRony Seikaly ORL 02/26/1997 ORL vs. MIA W 34 26 9 17 52.9 0 0 - 8 9 88.9 6 3 9 1 2 1 1 5 15
+p271
+aVBrian Shaw ORL 02/24/1997 ORL vs. DET W 20 8 2 5 40.0 0 2 0.0 4 4 100.0 1 2 3 2 0 1 2 2 -2
+p272
+aVNick Anderson ORL 02/24/1997 ORL vs. DET W 36 9 3 8 37.5 1 6 16.7 2 2 100.0 0 4 4 2 5 0 2 3 6
+p273
+aVDerek Strong ORL 02/24/1997 ORL vs. DET W 26 6 3 11 27.3 0 0 - 0 0 - 0 3 3 1 0 1 0 2 -1
+p274
+aVGerald Wilkins ORL 02/24/1997 ORL vs. DET W 19 5 1 2 50.0 0 0 - 3 3 100.0 0 3 3 3 0 0 1 2 2
+p275
+aVRony Seikaly ORL 02/24/1997 ORL vs. DET W 37 19 6 11 54.5 0 1 0.0 7 9 77.8 4 4 8 2 1 5 4 3 8
+p276
+aVDennis Scott ORL 02/24/1997 ORL vs. DET W 34 9 4 11 36.4 1 5 20.0 0 0 - 0 2 2 4 5 1 1 1 10
+p277
+aVHorace Grant ORL 02/24/1997 ORL vs. DET W 31 8 4 6 66.7 0 0 - 0 0 - 2 4 6 4 1 0 0 3 12
+p278
+aVAnfernee Hardaway ORL 02/24/1997 ORL vs. DET W 38 29 11 16 68.8 4 6 66.7 3 5 60.0 1 4 5 2 3 0 4 5 10
+p279
+aVBrian Shaw ORL 02/23/1997 ORL @ IND W 18 14 3 6 50.0 1 2 50.0 7 8 87.5 0 2 2 2 0 0 5 3 -15
+p280
+aVRony Seikaly ORL 02/23/1997 ORL @ IND W 40 11 3 4 75.0 0 0 - 5 7 71.4 0 9 9 1 0 4 3 3 7
+p281
+aVDennis Scott ORL 02/23/1997 ORL @ IND W 33 17 6 12 50.0 4 10 40.0 1 1 100.0 0 4 4 0 1 1 1 3 19
+p282
+aVHorace Grant ORL 02/23/1997 ORL @ IND W 41 19 7 9 77.8 0 0 - 5 6 83.3 1 7 8 7 1 2 3 2 11
+p283
+aVDerek Strong ORL 02/23/1997 ORL @ IND W 15 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 0 1 0 1 4 1
+p284
+aVGerald Wilkins ORL 02/23/1997 ORL @ IND W 18 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 3 1 0 3 3 -4
+p285
+aVAnfernee Hardaway ORL 02/23/1997 ORL @ IND W 39 17 6 16 37.5 3 7 42.9 2 2 100.0 2 5 7 6 2 2 2 2 12
+p286
+aVNick Anderson ORL 02/23/1997 ORL @ IND W 36 17 7 13 53.8 3 6 50.0 0 0 - 2 4 6 5 2 0 2 3 14
+p287
+aVBrian Evans ORL 02/21/1997 ORL vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p288
+aVNick Anderson ORL 02/21/1997 ORL vs. DEN W 37 15 6 14 42.9 3 7 42.9 0 0 - 2 3 5 5 2 0 0 3 9
+p289
+aVHorace Grant ORL 02/21/1997 ORL vs. DEN W 38 12 6 15 40.0 0 0 - 0 0 - 2 6 8 3 2 1 0 2 18
+p290
+aVDennis Scott ORL 02/21/1997 ORL vs. DEN W 28 3 1 7 14.3 1 4 25.0 0 0 - 0 0 0 1 3 0 1 2 4
+p291
+aVDavid Vaughn ORL 02/21/1997 ORL vs. DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p292
+aVGerald Wilkins ORL 02/21/1997 ORL vs. DEN W 22 15 4 9 44.4 1 1 100.0 6 8 75.0 1 1 2 0 2 0 0 3 4
+p293
+aVAnfernee Hardaway ORL 02/21/1997 ORL vs. DEN W 38 22 7 12 58.3 1 4 25.0 7 13 53.8 2 3 5 2 2 0 2 3 12
+p294
+aVDerek Strong ORL 02/21/1997 ORL vs. DEN W 17 11 5 9 55.6 0 0 - 1 2 50.0 5 1 6 0 0 0 0 2 6
+p295
+aVBrian Shaw ORL 02/21/1997 ORL vs. DEN W 17 2 1 5 20.0 0 2 0.0 0 0 - 2 2 4 6 0 0 0 1 8
+p296
+aVRony Seikaly ORL 02/21/1997 ORL vs. DEN W 39 17 6 11 54.5 0 0 - 5 6 83.3 3 3 6 1 0 2 2 2 -2
+p297
+aVDarrell Armstrong ORL 02/21/1997 ORL vs. DEN W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p298
+aVNick Anderson ORL 02/19/1997 ORL vs. POR W 39 11 5 14 35.7 1 7 14.3 0 0 - 1 5 6 7 0 0 0 2 10
+p299
+aVAnfernee Hardaway ORL 02/19/1997 ORL vs. POR W 36 21 9 17 52.9 3 5 60.0 0 0 - 2 3 5 8 1 2 3 4 15
+p300
+aVBrian Shaw ORL 02/19/1997 ORL vs. POR W 15 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 5 3 1 3 1 -12
+p301
+aVRony Seikaly ORL 02/19/1997 ORL vs. POR W 26 4 1 7 14.3 0 0 - 2 2 100.0 4 2 6 0 0 0 4 5 -4
+p302
+aVDennis Scott ORL 02/19/1997 ORL vs. POR W 35 17 7 15 46.7 3 8 37.5 0 0 - 2 2 4 1 3 0 1 2 18
+p303
+aVHorace Grant ORL 02/19/1997 ORL vs. POR W 41 20 10 13 76.9 0 0 - 0 0 - 2 8 10 2 0 2 2 2 19
+p304
+aVGerald Wilkins ORL 02/19/1997 ORL vs. POR W 18 8 1 6 16.7 0 1 0.0 6 6 100.0 0 0 0 4 0 0 0 0 2
+p305
+aVDerek Strong ORL 02/19/1997 ORL vs. POR W 29 8 3 8 37.5 0 1 0.0 2 2 100.0 2 3 5 1 2 0 1 2 7
+p306
+aVBrian Shaw ORL 02/17/1997 ORL @ CHH L 24 3 1 9 11.1 0 3 0.0 1 2 50.0 3 0 3 9 1 0 1 2 2
+p307
+aVAnfernee Hardaway ORL 02/17/1997 ORL @ CHH L 28 12 4 9 44.4 1 3 33.3 3 4 75.0 1 4 5 3 0 0 0 2 -14
+p308
+aVRony Seikaly ORL 02/17/1997 ORL @ CHH L 26 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 1 0 0 5 3 -12
+p309
+aVNick Anderson ORL 02/17/1997 ORL @ CHH L 39 28 10 24 41.7 8 13 61.5 0 2 0.0 4 4 8 6 2 1 1 4 -14
+p310
+aVDarrell Armstrong ORL 02/17/1997 ORL @ CHH L 6 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 1 0 1 0 0
+p311
+aVHorace Grant ORL 02/17/1997 ORL @ CHH L 39 17 7 13 53.8 0 0 - 3 4 75.0 10 8 18 1 0 0 2 2 -12
+p312
+aVDennis Scott ORL 02/17/1997 ORL @ CHH L 33 18 7 15 46.7 3 6 50.0 1 1 100.0 0 0 0 4 2 0 0 2 -16
+p313
+aVGerald Wilkins ORL 02/17/1997 ORL @ CHH L 24 16 7 15 46.7 0 2 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -3
+p314
+aVDerek Strong ORL 02/17/1997 ORL @ CHH L 22 11 5 7 71.4 0 0 - 1 2 50.0 1 5 6 1 1 0 0 4 -1
+p315
+aVNick Anderson ORL 02/16/1997 ORL @ CHI L 38 7 3 12 25.0 0 4 0.0 1 2 50.0 1 0 1 1 1 1 1 4 -16
+p316
+aVDan Schayes ORL 02/16/1997 ORL @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p317
+aVDennis Scott ORL 02/16/1997 ORL @ CHI L 33 15 6 11 54.5 3 6 50.0 0 0 - 1 8 9 3 3 0 3 2 -5
+p318
+aVBrian Evans ORL 02/16/1997 ORL @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p319
+aVRony Seikaly ORL 02/16/1997 ORL @ CHI L 38 17 5 11 45.5 0 0 - 7 12 58.3 4 2 6 1 0 1 1 4 -24
+p320
+aVBrian Shaw ORL 02/16/1997 ORL @ CHI L 17 10 3 5 60.0 2 4 50.0 2 2 100.0 0 2 2 1 1 0 4 2 -18
+p321
+aVHorace Grant ORL 02/16/1997 ORL @ CHI L 34 6 3 9 33.3 0 0 - 0 0 - 2 4 6 2 2 3 2 0 -7
+p322
+aVDavid Vaughn ORL 02/16/1997 ORL @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p323
+aVGerald Wilkins ORL 02/16/1997 ORL @ CHI L 21 8 3 7 42.9 0 1 0.0 2 2 100.0 3 0 3 1 0 0 1 0 -16
+p324
+aVAnfernee Hardaway ORL 02/16/1997 ORL @ CHI L 36 20 6 13 46.2 2 3 66.7 6 7 85.7 0 2 2 3 2 0 3 2 -13
+p325
+aVDerek Strong ORL 02/16/1997 ORL @ CHI L 14 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 2 0 0 1 1 -12
+p326
+aVDarrell Armstrong ORL 02/16/1997 ORL @ CHI L 3 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 0 0 0
+p327
+aVBrian Shaw ORL 02/14/1997 ORL @ MIN L 20 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 4 1 1 1 2 -4
+p328
+aVDerek Strong ORL 02/14/1997 ORL @ MIN L 22 8 2 6 33.3 0 0 - 4 4 100.0 1 3 4 1 1 0 1 2 -2
+p329
+aVHorace Grant ORL 02/14/1997 ORL @ MIN L 39 14 7 9 77.8 0 0 - 0 0 - 1 3 4 1 3 2 2 4 0
+p330
+aVAnfernee Hardaway ORL 02/14/1997 ORL @ MIN L 39 19 6 17 35.3 1 7 14.3 6 9 66.7 1 3 4 9 1 0 2 1 1
+p331
+aVNick Anderson ORL 02/14/1997 ORL @ MIN L 38 19 7 17 41.2 4 9 44.4 1 2 50.0 3 4 7 2 0 0 3 4 0
+p332
+aVRony Seikaly ORL 02/14/1997 ORL @ MIN L 35 21 6 12 50.0 0 0 - 9 10 90.0 3 6 9 1 0 0 1 4 -4
+p333
+aVGerald Wilkins ORL 02/14/1997 ORL @ MIN L 19 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 3 1 0 0 1 -9
+p334
+aVDennis Scott ORL 02/14/1997 ORL @ MIN L 28 11 5 13 38.5 1 4 25.0 0 0 - 4 2 6 3 1 2 1 1 -2
+p335
+aVAnfernee Hardaway ORL 02/12/1997 ORL @ DET L 38 16 3 15 20.0 3 5 60.0 7 7 100.0 0 5 5 4 1 0 3 6 -4
+p336
+aVDarrell Armstrong ORL 02/12/1997 ORL @ DET L 6 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 0 2 0 1 0 -4
+p337
+aVDerek Strong ORL 02/12/1997 ORL @ DET L 13 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -7
+p338
+aVGerald Wilkins ORL 02/12/1997 ORL @ DET L 27 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 3 0 0 1 1 0
+p339
+aVBrian Shaw ORL 02/12/1997 ORL @ DET L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -7
+p340
+aVHorace Grant ORL 02/12/1997 ORL @ DET L 41 17 8 15 53.3 0 0 - 1 1 100.0 4 4 8 2 0 1 3 4 -3
+p341
+aVDennis Scott ORL 02/12/1997 ORL @ DET L 36 7 3 10 30.0 1 3 33.3 0 0 - 1 0 1 3 3 0 1 1 -4
+p342
+aVRony Seikaly ORL 02/12/1997 ORL @ DET L 29 12 3 5 60.0 0 0 - 6 6 100.0 2 2 4 5 1 1 6 4 -12
+p343
+aVNick Anderson ORL 02/12/1997 ORL @ DET L 42 20 7 13 53.8 3 7 42.9 3 4 75.0 1 4 5 2 0 1 0 3 -4
+p344
+aVGerald Wilkins ORL 02/11/1997 ORL vs. NJN L 19 9 4 7 57.1 0 2 0.0 1 1 100.0 0 1 1 6 1 0 2 0 -7
+p345
+aVNick Anderson ORL 02/11/1997 ORL vs. NJN L 37 18 7 14 50.0 4 9 44.4 0 0 - 0 4 4 1 1 0 3 4 2
+p346
+aVBrian Shaw ORL 02/11/1997 ORL vs. NJN L 25 10 3 8 37.5 2 3 66.7 2 3 66.7 0 2 2 4 0 1 2 6 -7
+p347
+aVAnfernee Hardaway ORL 02/11/1997 ORL vs. NJN L 39 16 6 10 60.0 1 3 33.3 3 4 75.0 1 6 7 6 0 0 4 3 -7
+p348
+aVDan Schayes ORL 02/11/1997 ORL vs. NJN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p349
+aVDennis Scott ORL 02/11/1997 ORL vs. NJN L 23 5 2 8 25.0 0 2 0.0 1 1 100.0 0 1 1 2 1 0 1 1 1
+p350
+aVHorace Grant ORL 02/11/1997 ORL vs. NJN L 38 15 6 11 54.5 0 0 - 3 3 100.0 4 10 14 2 1 1 3 2 -7
+p351
+aVRony Seikaly ORL 02/11/1997 ORL vs. NJN L 40 23 8 12 66.7 0 0 - 7 11 63.6 4 7 11 1 0 3 3 2 -2
+p352
+aVDerek Strong ORL 02/11/1997 ORL vs. NJN L 14 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 2 0 2 2 -4
+p353
+aVDennis Scott ORL 02/06/1997 ORL vs. BOS W 41 10 3 7 42.9 1 3 33.3 3 3 100.0 1 2 3 4 0 1 1 3 0
+p354
+aVBrian Shaw ORL 02/06/1997 ORL vs. BOS W 19 9 2 4 50.0 0 2 0.0 5 6 83.3 0 2 2 1 1 1 4 5 -7
+p355
+aVDerek Strong ORL 02/06/1997 ORL vs. BOS W 30 12 5 6 83.3 0 0 - 2 3 66.7 2 6 8 0 0 0 2 2 14
+p356
+aVRony Seikaly ORL 02/06/1997 ORL vs. BOS W 42 32 11 17 64.7 0 0 - 10 17 58.8 2 10 12 1 4 4 4 4 5
+p357
+aVDarrell Armstrong ORL 02/06/1997 ORL vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 0
+p358
+aVGerald Wilkins ORL 02/06/1997 ORL vs. BOS W 21 7 3 8 37.5 1 1 100.0 0 2 0.0 1 1 2 2 0 0 0 2 3
+p359
+aVDan Schayes ORL 02/06/1997 ORL vs. BOS W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p360
+aVNick Anderson ORL 02/06/1997 ORL vs. BOS W 38 22 9 18 50.0 2 5 40.0 2 6 33.3 2 5 7 5 1 0 2 1 13
+p361
+aVAnfernee Hardaway ORL 02/06/1997 ORL vs. BOS W 42 25 8 15 53.3 1 3 33.3 8 10 80.0 2 3 5 10 2 1 4 2 9
+p362
+aVGerald Wilkins ORL 02/04/1997 ORL vs. IND W 25 11 5 12 41.7 1 3 33.3 0 0 - 1 1 2 2 1 0 0 1 7
+p363
+aVNick Anderson ORL 02/04/1997 ORL vs. IND W 32 11 4 10 40.0 3 9 33.3 0 0 - 1 6 7 2 1 0 0 3 24
+p364
+aVDennis Scott ORL 02/04/1997 ORL vs. IND W 25 13 5 13 38.5 3 10 30.0 0 0 - 0 2 2 1 0 0 1 1 5
+p365
+aVDerek Strong ORL 02/04/1997 ORL vs. IND W 25 4 2 3 66.7 0 0 - 0 2 0.0 0 3 3 2 2 0 1 4 10
+p366
+aVDan Schayes ORL 02/04/1997 ORL vs. IND W 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p367
+aVAnfernee Hardaway ORL 02/04/1997 ORL vs. IND W 35 16 6 12 50.0 0 2 0.0 4 6 66.7 0 2 2 9 3 0 3 1 17
+p368
+aVHorace Grant ORL 02/04/1997 ORL vs. IND W 31 18 8 12 66.7 0 0 - 2 3 66.7 3 4 7 3 3 2 1 1 22
+p369
+aVBrian Evans ORL 02/04/1997 ORL vs. IND W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 3
+p370
+aVDavid Vaughn ORL 02/04/1997 ORL vs. IND W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -1
+p371
+aVRony Seikaly ORL 02/04/1997 ORL vs. IND W 33 22 8 10 80.0 0 0 - 6 9 66.7 5 6 11 2 1 0 4 5 17
+p372
+aVBrian Shaw ORL 02/04/1997 ORL vs. IND W 22 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 6 0 1 4 1 13
+p373
+aVDarrell Armstrong ORL 02/04/1997 ORL vs. IND W 3 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 1 0 3
+p374
+aVDavid Vaughn ORL 02/02/1997 ORL vs. HOU W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p375
+aVDerek Strong ORL 02/02/1997 ORL vs. HOU W 18 9 3 6 50.0 0 0 - 3 3 100.0 2 6 8 1 0 0 1 1 8
+p376
+aVNick Anderson ORL 02/02/1997 ORL vs. HOU W 34 11 4 8 50.0 3 6 50.0 0 0 - 0 2 2 4 6 2 1 1 15
+p377
+aVHorace Grant ORL 02/02/1997 ORL vs. HOU W 35 14 5 14 35.7 0 0 - 4 4 100.0 4 8 12 2 1 2 0 4 4
+p378
+aVRony Seikaly ORL 02/02/1997 ORL vs. HOU W 39 29 12 19 63.2 0 0 - 5 11 45.5 3 4 7 1 1 1 2 4 24
+p379
+aVDarrell Armstrong ORL 02/02/1997 ORL vs. HOU W 3 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p380
+aVGerald Wilkins ORL 02/02/1997 ORL vs. HOU W 21 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 1 6
+p381
+aVBrian Shaw ORL 02/02/1997 ORL vs. HOU W 16 5 1 5 20.0 0 2 0.0 3 3 100.0 1 2 3 10 0 0 3 3 9
+p382
+aVBrian Evans ORL 02/02/1997 ORL vs. HOU W 3 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -7
+p383
+aVAnfernee Hardaway ORL 02/02/1997 ORL vs. HOU W 37 16 6 16 37.5 0 3 0.0 4 4 100.0 0 3 3 4 2 0 0 0 13
+p384
+aVDan Schayes ORL 02/02/1997 ORL vs. HOU W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p385
+aVDennis Scott ORL 02/02/1997 ORL vs. HOU W 30 9 3 10 30.0 3 9 33.3 0 0 - 0 4 4 2 1 1 0 1 10
+p386
+aVRony Seikaly ORL 01/31/1997 ORL @ PHI W 34 13 5 11 45.5 0 0 - 3 4 75.0 1 6 7 0 0 1 3 3 0
+p387
+aVDavid Vaughn ORL 01/31/1997 ORL @ PHI W 3 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 1 1 0 -5
+p388
+aVDerek Strong ORL 01/31/1997 ORL @ PHI W 25 11 2 4 50.0 0 0 - 7 8 87.5 4 3 7 0 2 0 1 4 7
+p389
+aVDennis Scott ORL 01/31/1997 ORL @ PHI W 31 11 4 13 30.8 3 10 30.0 0 0 - 1 2 3 4 1 0 0 3 16
+p390
+aVBrian Shaw ORL 01/31/1997 ORL @ PHI W 15 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 5 0 0 4 4 -14
+p391
+aVHorace Grant ORL 01/31/1997 ORL @ PHI W 31 16 8 11 72.7 0 0 - 0 0 - 2 5 7 0 5 2 1 2 23
+p392
+aVDan Schayes ORL 01/31/1997 ORL @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -5
+p393
+aVNick Anderson ORL 01/31/1997 ORL @ PHI W 27 5 2 7 28.6 1 5 20.0 0 0 - 0 6 6 8 1 1 3 3 16
+p394
+aVDarrell Armstrong ORL 01/31/1997 ORL @ PHI W 14 9 3 6 50.0 2 2 100.0 1 1 100.0 1 0 1 6 0 0 1 3 10
+p395
+aVGerald Wilkins ORL 01/31/1997 ORL @ PHI W 22 8 3 10 30.0 0 2 0.0 2 2 100.0 1 1 2 1 0 0 1 2 -2
+p396
+aVAnfernee Hardaway ORL 01/31/1997 ORL @ PHI W 33 27 10 17 58.8 1 4 25.0 6 6 100.0 1 2 3 7 4 0 2 3 9
+p397
+aVBrian Evans ORL 01/31/1997 ORL @ PHI W 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p398
+aVNick Anderson ORL 01/29/1997 ORL vs. PHX W 39 13 4 15 26.7 2 11 18.2 3 4 75.0 0 5 5 3 2 0 0 2 -1
+p399
+aVAnfernee Hardaway ORL 01/29/1997 ORL vs. PHX W 38 32 11 18 61.1 3 5 60.0 7 8 87.5 0 3 3 8 1 2 3 2 10
+p400
+aVDarrell Armstrong ORL 01/29/1997 ORL vs. PHX W 0 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p401
+aVDennis Scott ORL 01/29/1997 ORL vs. PHX W 26 7 3 9 33.3 1 5 20.0 0 0 - 1 1 2 1 0 0 1 0 0
+p402
+aVRony Seikaly ORL 01/29/1997 ORL vs. PHX W 39 18 6 8 75.0 0 0 - 6 9 66.7 3 9 12 2 0 0 6 4 2
+p403
+aVDan Schayes ORL 01/29/1997 ORL vs. PHX W 15 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 1 0 0 2 4
+p404
+aVGerald Wilkins ORL 01/29/1997 ORL vs. PHX W 17 13 6 11 54.5 1 2 50.0 0 0 - 1 0 1 1 0 0 1 2 -3
+p405
+aVDerek Strong ORL 01/29/1997 ORL vs. PHX W 40 16 6 9 66.7 0 0 - 4 4 100.0 7 4 11 3 2 0 2 2 11
+p406
+aVBrian Shaw ORL 01/29/1997 ORL vs. PHX W 26 9 3 6 50.0 1 1 100.0 2 2 100.0 0 4 4 8 0 2 2 3 11
+p407
+aVDavid Vaughn ORL 01/28/1997 ORL @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 0 0 2
+p408
+aVBrian Shaw ORL 01/28/1997 ORL @ WAS L 23 5 1 6 16.7 1 3 33.3 2 3 66.7 0 3 3 5 1 0 1 0 -21
+p409
+aVAnfernee Hardaway ORL 01/28/1997 ORL @ WAS L 33 22 9 18 50.0 2 5 40.0 2 4 50.0 0 4 4 5 0 0 3 4 -8
+p410
+aVDan Schayes ORL 01/28/1997 ORL @ WAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p411
+aVRony Seikaly ORL 01/28/1997 ORL @ WAS L 35 21 9 16 56.3 0 0 - 3 4 75.0 1 4 5 1 0 0 2 2 -12
+p412
+aVBrian Evans ORL 01/28/1997 ORL @ WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p413
+aVDarrell Armstrong ORL 01/28/1997 ORL @ WAS L 7 3 0 3 0.0 0 2 0.0 3 3 100.0 1 0 1 2 0 0 1 2 0
+p414
+aVDerek Strong ORL 01/28/1997 ORL @ WAS L 23 6 3 4 75.0 0 0 - 0 0 - 5 3 8 0 0 1 2 3 -14
+p415
+aVNick Anderson ORL 01/28/1997 ORL @ WAS L 36 11 4 9 44.4 3 6 50.0 0 0 - 0 6 6 1 5 0 2 1 -12
+p416
+aVGerald Wilkins ORL 01/28/1997 ORL @ WAS L 20 6 3 8 37.5 0 1 0.0 0 2 0.0 1 3 4 1 1 0 1 0 -17
+p417
+aVHorace Grant ORL 01/28/1997 ORL @ WAS L 21 8 4 6 66.7 0 0 - 0 2 0.0 1 4 5 0 1 0 1 1 -8
+p418
+aVDennis Scott ORL 01/28/1997 ORL @ WAS L 31 0 0 10 0.0 0 7 0.0 0 0 - 0 0 0 1 2 0 3 2 -6
+p419
+aVDennis Scott ORL 01/24/1997 ORL @ BOS W 44 22 8 16 50.0 2 7 28.6 4 4 100.0 0 7 7 4 0 0 4 6 -10
+p420
+aVNick Anderson ORL 01/24/1997 ORL @ BOS W 40 24 9 17 52.9 6 8 75.0 0 2 0.0 2 6 8 2 4 2 3 4 8
+p421
+aVAnfernee Hardaway ORL 01/24/1997 ORL @ BOS W 43 28 9 17 52.9 3 5 60.0 7 8 87.5 3 3 6 1 0 1 3 2 8
+p422
+aVBrian Shaw ORL 01/24/1997 ORL @ BOS W 32 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 5 2 0 4 5 -13
+p423
+aVGerald Wilkins ORL 01/24/1997 ORL @ BOS W 26 7 2 11 18.2 0 2 0.0 3 4 75.0 0 2 2 1 1 0 0 1 4
+p424
+aVRony Seikaly ORL 01/24/1997 ORL @ BOS W 42 22 7 17 41.2 0 0 - 8 11 72.7 6 9 15 2 0 2 5 3 13
+p425
+aVDarrell Armstrong ORL 01/24/1997 ORL @ BOS W 11 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 5 0 0 1 1 22
+p426
+aVDerek Strong ORL 01/24/1997 ORL @ BOS W 26 9 3 4 75.0 0 0 - 3 4 75.0 4 5 9 1 1 1 1 4 -7
+p427
+aVBrian Shaw ORL 01/23/1997 ORL vs. MIL W 13 5 1 3 33.3 0 0 - 3 4 75.0 0 2 2 2 0 0 1 1 8
+p428
+aVDan Schayes ORL 01/23/1997 ORL vs. MIL W 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 0
+p429
+aVRony Seikaly ORL 01/23/1997 ORL vs. MIL W 42 23 10 12 83.3 0 0 - 3 6 50.0 2 5 7 0 0 1 5 5 0
+p430
+aVNick Anderson ORL 01/23/1997 ORL vs. MIL W 36 2 1 6 16.7 0 2 0.0 0 2 0.0 1 3 4 0 0 0 1 2 -5
+p431
+aVAnfernee Hardaway ORL 01/23/1997 ORL vs. MIL W 38 23 8 17 47.1 0 1 0.0 7 7 100.0 4 5 9 3 1 0 2 1 0
+p432
+aVDerek Strong ORL 01/23/1997 ORL vs. MIL W 38 14 4 10 40.0 0 0 - 6 6 100.0 2 9 11 3 3 0 2 5 8
+p433
+aVDennis Scott ORL 01/23/1997 ORL vs. MIL W 37 17 6 10 60.0 2 2 100.0 3 3 100.0 0 3 3 5 2 0 0 1 10
+p434
+aVGerald Wilkins ORL 01/23/1997 ORL vs. MIL W 20 12 5 7 71.4 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 3 -1
+p435
+aVAnfernee Hardaway ORL 01/21/1997 ORL vs. WAS W 38 19 8 19 42.1 3 5 60.0 0 0 - 5 1 6 4 0 3 4 1 10
+p436
+aVDan Schayes ORL 01/21/1997 ORL vs. WAS W 13 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 1 0 2 7
+p437
+aVRony Seikaly ORL 01/21/1997 ORL vs. WAS W 35 26 9 15 60.0 0 0 - 8 14 57.1 7 5 12 1 3 3 3 3 -2
+p438
+aVNick Anderson ORL 01/21/1997 ORL vs. WAS W 35 11 4 12 33.3 1 4 25.0 2 2 100.0 1 6 7 2 2 0 2 5 7
+p439
+aVGerald Wilkins ORL 01/21/1997 ORL vs. WAS W 19 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -11
+p440
+aVDerek Strong ORL 01/21/1997 ORL vs. WAS W 42 13 4 11 36.4 0 0 - 5 5 100.0 1 8 9 2 1 0 3 1 16
+p441
+aVDennis Scott ORL 01/21/1997 ORL vs. WAS W 39 11 4 13 30.8 1 4 25.0 2 2 100.0 0 8 8 1 2 0 0 1 9
+p442
+aVBrian Shaw ORL 01/21/1997 ORL vs. WAS W 19 9 2 5 40.0 0 0 - 5 5 100.0 1 0 1 2 2 0 2 1 -11
+p443
+aVAmal McCaskill ORL 01/19/1997 ORL @ MIA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p444
+aVDan Schayes ORL 01/19/1997 ORL @ MIA W 16 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 0 1 0 4 11
+p445
+aVDarrell Armstrong ORL 01/19/1997 ORL @ MIA W 2 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 0 0 0 0 0 -4
+p446
+aVNick Anderson ORL 01/19/1997 ORL @ MIA W 41 18 7 14 50.0 4 6 66.7 0 0 - 1 4 5 6 2 0 1 1 4
+p447
+aVBrian Shaw ORL 01/19/1997 ORL @ MIA W 21 6 1 2 50.0 1 1 100.0 3 4 75.0 0 3 3 4 0 1 1 3 12
+p448
+aVRony Seikaly ORL 01/19/1997 ORL @ MIA W 31 4 1 5 20.0 0 0 - 2 2 100.0 1 5 6 1 0 1 4 6 5
+p449
+aVGerald Wilkins ORL 01/19/1997 ORL @ MIA W 27 16 8 11 72.7 0 1 0.0 0 2 0.0 2 4 6 2 0 0 1 0 8
+p450
+aVDerek Strong ORL 01/19/1997 ORL @ MIA W 26 8 4 7 57.1 0 0 - 0 0 - 1 5 6 1 2 1 4 6 2
+p451
+aVAnfernee Hardaway ORL 01/19/1997 ORL @ MIA W 36 19 8 20 40.0 1 3 33.3 2 2 100.0 0 1 1 6 5 0 2 0 13
+p452
+aVDennis Scott ORL 01/19/1997 ORL @ MIA W 38 18 7 11 63.6 3 6 50.0 1 2 50.0 1 4 5 1 1 0 0 1 13
+p453
+aVBrian Shaw ORL 01/16/1997 ORL @ ATL L 17 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 4 0 0 1 3 2
+p454
+aVNick Anderson ORL 01/16/1997 ORL @ ATL L 38 2 1 7 14.3 0 6 0.0 0 0 - 4 10 14 5 2 1 0 3 -11
+p455
+aVDerek Strong ORL 01/16/1997 ORL @ ATL L 41 17 6 15 40.0 0 0 - 5 5 100.0 5 4 9 0 1 0 3 5 -8
+p456
+aVDan Schayes ORL 01/16/1997 ORL @ ATL L 24 5 2 5 40.0 0 1 0.0 1 2 50.0 2 0 2 0 0 0 4 4 -12
+p457
+aVDennis Scott ORL 01/16/1997 ORL @ ATL L 37 15 6 19 31.6 3 6 50.0 0 0 - 0 3 3 2 1 0 0 3 -5
+p458
+aVGerald Wilkins ORL 01/16/1997 ORL @ ATL L 30 4 2 10 20.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 3 -3
+p459
+aVDarrell Armstrong ORL 01/16/1997 ORL @ ATL L 12 7 2 4 50.0 1 2 50.0 2 3 66.7 3 1 4 0 0 0 2 3 -1
+p460
+aVAnfernee Hardaway ORL 01/16/1997 ORL @ ATL L 40 17 5 17 29.4 1 4 25.0 6 6 100.0 1 3 4 1 2 1 0 1 -17
+p461
+aVBrian Shaw ORL 01/15/1997 ORL @ DAL W 17 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 2 1 0 2 2 -3
+p462
+aVNick Anderson ORL 01/15/1997 ORL @ DAL W 37 3 1 6 16.7 1 4 25.0 0 4 0.0 1 4 5 4 3 1 2 3 11
+p463
+aVAnfernee Hardaway ORL 01/15/1997 ORL @ DAL W 36 26 10 15 66.7 0 2 0.0 6 6 100.0 0 6 6 7 4 0 4 3 11
+p464
+aVDerek Strong ORL 01/15/1997 ORL @ DAL W 27 8 3 9 33.3 0 0 - 2 2 100.0 2 6 8 2 1 1 3 3 4
+p465
+aVGerald Wilkins ORL 01/15/1997 ORL @ DAL W 24 11 5 8 62.5 1 1 100.0 0 0 - 0 0 0 2 0 0 2 1 12
+p466
+aVHorace Grant ORL 01/15/1997 ORL @ DAL W 38 14 6 12 50.0 0 0 - 2 5 40.0 3 6 9 1 2 2 1 4 8
+p467
+aVDennis Scott ORL 01/15/1997 ORL @ DAL W 35 5 2 10 20.0 1 4 25.0 0 0 - 1 4 5 1 1 2 2 2 12
+p468
+aVDan Schayes ORL 01/15/1997 ORL @ DAL W 26 4 2 6 33.3 0 0 - 0 2 0.0 4 5 9 0 0 1 2 5 5
+p469
+aVAnfernee Hardaway ORL 01/13/1997 ORL @ NJN W 35 10 3 9 33.3 0 3 0.0 4 5 80.0 2 5 7 8 0 1 3 4 2
+p470
+aVNick Anderson ORL 01/13/1997 ORL @ NJN W 36 6 2 5 40.0 1 2 50.0 1 2 50.0 1 6 7 8 0 2 1 3 2
+p471
+aVDerek Strong ORL 01/13/1997 ORL @ NJN W 16 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 1 1 0 0 1 3
+p472
+aVBrian Shaw ORL 01/13/1997 ORL @ NJN W 21 9 3 7 42.9 2 5 40.0 1 2 50.0 1 3 4 2 0 1 2 3 9
+p473
+aVHorace Grant ORL 01/13/1997 ORL @ NJN W 42 26 12 19 63.2 0 0 - 2 3 66.7 6 9 15 6 2 1 3 4 -5
+p474
+aVRony Seikaly ORL 01/13/1997 ORL @ NJN W 38 29 9 16 56.3 0 0 - 11 12 91.7 2 6 8 3 1 0 4 3 7
+p475
+aVDennis Scott ORL 01/13/1997 ORL @ NJN W 31 27 9 18 50.0 5 10 50.0 4 4 100.0 1 1 2 3 1 2 2 2 1
+p476
+aVGerald Wilkins ORL 01/13/1997 ORL @ NJN W 21 3 0 5 0.0 0 0 - 3 5 60.0 1 1 2 3 0 0 0 0 -4
+p477
+aVBrian Shaw ORL 01/12/1997 ORL @ TOR W 12 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 0 0 0 1 4 -10
+p478
+aVRony Seikaly ORL 01/12/1997 ORL @ TOR W 40 21 9 19 47.4 0 0 - 3 6 50.0 7 10 17 2 1 1 2 4 14
+p479
+aVDennis Scott ORL 01/12/1997 ORL @ TOR W 29 4 2 9 22.2 0 4 0.0 0 0 - 1 2 3 3 0 0 2 2 3
+p480
+aVHorace Grant ORL 01/12/1997 ORL @ TOR W 33 22 9 14 64.3 0 0 - 4 5 80.0 5 6 11 0 0 1 1 1 3
+p481
+aVDarrell Armstrong ORL 01/12/1997 ORL @ TOR W 13 5 2 5 40.0 0 2 0.0 1 1 100.0 0 1 1 2 1 1 0 2 10
+p482
+aVGerald Wilkins ORL 01/12/1997 ORL @ TOR W 25 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 4 -7
+p483
+aVDerek Strong ORL 01/12/1997 ORL @ TOR W 18 5 2 7 28.6 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 -6
+p484
+aVAnfernee Hardaway ORL 01/12/1997 ORL @ TOR W 40 16 4 14 28.6 0 0 - 8 8 100.0 4 4 8 2 1 1 1 2 8
+p485
+aVNick Anderson ORL 01/12/1997 ORL @ TOR W 30 8 2 8 25.0 2 7 28.6 2 4 50.0 1 2 3 7 2 0 1 1 0
+p486
+aVAnfernee Hardaway ORL 01/09/1997 ORL vs. ATL L 41 9 3 15 20.0 1 5 20.0 2 2 100.0 5 0 5 8 0 1 1 3 -12
+p487
+aVHorace Grant ORL 01/09/1997 ORL vs. ATL L 41 24 10 20 50.0 0 0 - 4 5 80.0 7 5 12 3 0 0 3 3 -11
+p488
+aVBrian Shaw ORL 01/09/1997 ORL vs. ATL L 16 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 5 0 0 2 0 8
+p489
+aVGerald Wilkins ORL 01/09/1997 ORL vs. ATL L 15 4 2 4 50.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 2 -15
+p490
+aVDerek Strong ORL 01/09/1997 ORL vs. ATL L 18 8 4 9 44.4 0 1 0.0 0 0 - 1 1 2 1 1 0 1 1 0
+p491
+aVNick Anderson ORL 01/09/1997 ORL vs. ATL L 46 8 3 10 30.0 2 7 28.6 0 0 - 0 4 4 1 2 0 3 5 5
+p492
+aVRony Seikaly ORL 01/09/1997 ORL vs. ATL L 47 22 8 15 53.3 0 0 - 6 10 60.0 4 5 9 2 2 0 3 3 3
+p493
+aVDarrell Armstrong ORL 01/09/1997 ORL vs. ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p494
+aVDennis Scott ORL 01/09/1997 ORL vs. ATL L 39 10 4 6 66.7 2 2 100.0 0 0 - 0 2 2 5 0 0 1 4 -1
+p495
+aVBrian Shaw ORL 01/07/1997 ORL vs. PHI W 11 2 1 4 25.0 0 2 0.0 0 1 0.0 1 3 4 2 1 1 0 4 -1
+p496
+aVDennis Scott ORL 01/07/1997 ORL vs. PHI W 34 13 5 12 41.7 2 7 28.6 1 2 50.0 0 0 0 5 1 0 1 2 9
+p497
+aVDavid Vaughn ORL 01/07/1997 ORL vs. PHI W 2 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 7
+p498
+aVGerald Wilkins ORL 01/07/1997 ORL vs. PHI W 26 11 5 13 38.5 1 5 20.0 0 0 - 1 4 5 3 1 0 2 4 11
+p499
+aVAnfernee Hardaway ORL 01/07/1997 ORL vs. PHI W 32 15 6 10 60.0 0 0 - 3 4 75.0 2 2 4 7 0 0 6 5 18
+p500
+aVDarrell Armstrong ORL 01/07/1997 ORL vs. PHI W 10 8 3 5 60.0 1 1 100.0 1 1 100.0 1 0 1 1 0 0 1 2 -5
+p501
+aVRony Seikaly ORL 01/07/1997 ORL vs. PHI W 36 23 6 12 50.0 0 0 - 11 11 100.0 4 11 15 2 0 3 3 4 9
+p502
+aVDerek Strong ORL 01/07/1997 ORL vs. PHI W 18 4 2 4 50.0 0 2 0.0 0 2 0.0 1 3 4 2 0 0 0 2 6
+p503
+aVDan Schayes ORL 01/07/1997 ORL vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p504
+aVNick Anderson ORL 01/07/1997 ORL vs. PHI W 28 12 4 10 40.0 4 8 50.0 0 0 - 1 7 8 5 1 0 0 3 26
+p505
+aVHorace Grant ORL 01/07/1997 ORL vs. PHI W 38 20 8 11 72.7 0 0 - 4 6 66.7 2 2 4 2 4 1 2 3 11
+p506
+aVAmal McCaskill ORL 01/07/1997 ORL vs. PHI W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 7
+p507
+aVBrian Shaw ORL 01/03/1997 ORL @ CHI L 32 5 2 10 20.0 1 3 33.3 0 0 - 0 0 0 5 2 0 2 4 -29
+p508
+aVRony Seikaly ORL 01/03/1997 ORL @ CHI L 34 20 8 14 57.1 0 0 - 4 6 66.7 4 6 10 1 0 0 2 0 -22
+p509
+aVDennis Scott ORL 01/03/1997 ORL @ CHI L 37 15 6 12 50.0 1 4 25.0 2 2 100.0 0 0 0 1 3 1 3 3 -24
+p510
+aVGerald Wilkins ORL 01/03/1997 ORL @ CHI L 36 14 6 14 42.9 1 4 25.0 1 1 100.0 0 2 2 3 2 0 2 3 -22
+p511
+aVDavid Vaughn ORL 01/03/1997 ORL @ CHI L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 7
+p512
+aVDan Schayes ORL 01/03/1997 ORL @ CHI L 19 5 2 8 25.0 0 0 - 1 1 100.0 2 2 4 1 0 0 0 4 -10
+p513
+aVDarrell Armstrong ORL 01/03/1997 ORL @ CHI L 29 5 2 4 50.0 1 2 50.0 0 0 - 2 0 2 5 0 0 1 2 3
+p514
+aVDerek Strong ORL 01/03/1997 ORL @ CHI L 37 15 7 18 38.9 0 3 0.0 1 4 25.0 3 5 8 2 0 0 0 2 -17
+p515
+aVAmal McCaskill ORL 01/03/1997 ORL @ CHI L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p516
+aVKenny Smith ORL 01/03/1997 ORL @ CHI L 6 8 3 4 75.0 2 2 100.0 0 0 - 1 0 1 1 0 0 0 0 7
+p517
+aVBrian Shaw ORL 01/02/1997 ORL vs. TOR W 45 3 1 4 25.0 0 1 0.0 1 2 50.0 1 3 4 7 1 4 2 4 -9
+p518
+aVDarrell Armstrong ORL 01/02/1997 ORL vs. TOR W 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 1 -6
+p519
+aVRony Seikaly ORL 01/02/1997 ORL vs. TOR W 42 31 12 20 60.0 0 0 - 7 9 77.8 8 5 13 2 1 2 3 3 7
+p520
+aVDerek Strong ORL 01/02/1997 ORL vs. TOR W 42 21 8 14 57.1 0 0 - 5 8 62.5 2 7 9 3 0 1 3 1 11
+p521
+aVDan Schayes ORL 01/02/1997 ORL vs. TOR W 18 10 3 6 50.0 0 0 - 4 4 100.0 3 3 6 0 0 1 1 3 -6
+p522
+aVDavid Vaughn ORL 01/02/1997 ORL vs. TOR W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -8
+p523
+aVKenny Smith ORL 01/02/1997 ORL vs. TOR W 9 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p524
+aVDennis Scott ORL 01/02/1997 ORL vs. TOR W 51 15 5 17 29.4 3 9 33.3 2 2 100.0 0 6 6 3 2 0 3 2 7
+p525
+aVGerald Wilkins ORL 01/02/1997 ORL vs. TOR W 46 9 4 8 50.0 0 2 0.0 1 2 50.0 2 5 7 7 0 1 2 3 15
+p526
+aVHorace Grant ORL 12/30/1996 ORL @ DET L 39 12 5 14 35.7 0 1 0.0 2 4 50.0 1 2 3 4 0 0 1 4 -9
+p527
+aVDarrell Armstrong ORL 12/30/1996 ORL @ DET L 14 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 1 3 0 2 5 2
+p528
+aVDennis Scott ORL 12/30/1996 ORL @ DET L 39 24 8 13 61.5 5 6 83.3 3 5 60.0 0 5 5 2 2 0 0 4 -9
+p529
+aVBrian Shaw ORL 12/30/1996 ORL @ DET L 44 8 4 12 33.3 0 3 0.0 0 0 - 1 1 2 8 2 0 3 1 -4
+p530
+aVDan Schayes ORL 12/30/1996 ORL @ DET L 14 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -5
+p531
+aVDerek Strong ORL 12/30/1996 ORL @ DET L 13 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -5
+p532
+aVRony Seikaly ORL 12/30/1996 ORL @ DET L 31 15 4 9 44.4 0 0 - 7 8 87.5 3 9 12 1 1 1 1 5 -5
+p533
+aVGerald Wilkins ORL 12/30/1996 ORL @ DET L 40 15 6 12 50.0 1 4 25.0 2 4 50.0 1 3 4 4 0 0 3 3 -21
+p534
+aVKenny Smith ORL 12/30/1996 ORL @ DET L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p535
+aVDarrell Armstrong ORL 12/28/1996 ORL @ NYK L 24 11 3 5 60.0 1 2 50.0 4 4 100.0 1 3 4 6 2 0 3 3 10
+p536
+aVGerald Wilkins ORL 12/28/1996 ORL @ NYK L 41 21 8 15 53.3 2 6 33.3 3 4 75.0 2 3 5 4 4 0 2 1 -10
+p537
+aVRony Seikaly ORL 12/28/1996 ORL @ NYK L 31 9 3 7 42.9 0 0 - 3 4 75.0 5 5 10 0 1 1 5 3 -20
+p538
+aVHorace Grant ORL 12/28/1996 ORL @ NYK L 42 9 4 12 33.3 0 0 - 1 2 50.0 2 5 7 1 0 0 1 4 -4
+p539
+aVDennis Scott ORL 12/28/1996 ORL @ NYK L 43 15 6 16 37.5 1 4 25.0 2 3 66.7 3 1 4 2 0 0 1 2 -15
+p540
+aVBrian Shaw ORL 12/28/1996 ORL @ NYK L 37 10 3 11 27.3 1 4 25.0 3 6 50.0 0 2 2 5 3 0 3 2 -18
+p541
+aVDerek Strong ORL 12/28/1996 ORL @ NYK L 24 10 4 5 80.0 0 1 0.0 2 5 40.0 0 1 1 0 0 0 1 4 2
+p542
+aVDerek Strong ORL 12/26/1996 ORL @ MIA L 22 10 5 10 50.0 0 0 - 0 0 - 5 1 6 0 0 0 0 2 -22
+p543
+aVDennis Scott ORL 12/26/1996 ORL @ MIA L 41 18 6 14 42.9 4 6 66.7 2 2 100.0 2 3 5 2 2 1 1 1 -7
+p544
+aVGerald Wilkins ORL 12/26/1996 ORL @ MIA L 41 12 4 13 30.8 1 3 33.3 3 5 60.0 0 2 2 4 0 1 3 1 -17
+p545
+aVDarrell Armstrong ORL 12/26/1996 ORL @ MIA L 17 3 1 6 16.7 1 4 25.0 0 0 - 0 0 0 1 0 0 2 4 -22
+p546
+aVDavid Vaughn ORL 12/26/1996 ORL @ MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p547
+aVRony Seikaly ORL 12/26/1996 ORL @ MIA L 39 11 5 16 31.3 0 0 - 1 4 25.0 3 6 9 0 0 1 1 3 -10
+p548
+aVHorace Grant ORL 12/26/1996 ORL @ MIA L 34 8 4 11 36.4 0 0 - 0 0 - 5 4 9 3 2 1 2 2 -8
+p549
+aVKenny Smith ORL 12/26/1996 ORL @ MIA L 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 1 1 -2
+p550
+aVBrian Shaw ORL 12/26/1996 ORL @ MIA L 37 12 4 9 44.4 2 4 50.0 2 2 100.0 1 3 4 6 0 0 3 3 -12
+p551
+aVHorace Grant ORL 12/23/1996 ORL vs. CLE W 35 20 8 12 66.7 0 0 - 4 4 100.0 4 8 12 3 1 0 0 3 6
+p552
+aVDavid Vaughn ORL 12/23/1996 ORL vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p553
+aVDennis Scott ORL 12/23/1996 ORL vs. CLE W 41 9 3 14 21.4 2 5 40.0 1 4 25.0 3 1 4 2 1 0 3 3 3
+p554
+aVBrian Shaw ORL 12/23/1996 ORL vs. CLE W 40 11 4 7 57.1 3 4 75.0 0 0 - 1 3 4 8 2 0 3 4 5
+p555
+aVDarrell Armstrong ORL 12/23/1996 ORL vs. CLE W 21 0 0 0 - 0 0 - 0 0 - 0 2 2 4 0 1 4 2 1
+p556
+aVDerek Strong ORL 12/23/1996 ORL vs. CLE W 18 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 1 -1
+p557
+aVRony Seikaly ORL 12/23/1996 ORL vs. CLE W 41 33 16 26 61.5 0 1 0.0 1 2 50.0 7 3 10 1 0 0 1 3 6
+p558
+aVGerald Wilkins ORL 12/23/1996 ORL vs. CLE W 43 12 5 13 38.5 1 3 33.3 1 1 100.0 2 2 4 8 2 0 3 3 8
+p559
+aVAmal McCaskill ORL 12/21/1996 ORL @ MIL L 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -3
+p560
+aVHorace Grant ORL 12/21/1996 ORL @ MIL L 35 16 7 12 58.3 0 0 - 2 2 100.0 2 5 7 5 1 0 1 1 -19
+p561
+aVDavid Vaughn ORL 12/21/1996 ORL @ MIL L 13 8 4 4 100.0 0 0 - 0 0 - 3 2 5 1 1 0 0 4 -3
+p562
+aVGerald Wilkins ORL 12/21/1996 ORL @ MIL L 40 17 7 15 46.7 0 4 0.0 3 4 75.0 1 2 3 1 2 1 2 3 -18
+p563
+aVRony Seikaly ORL 12/21/1996 ORL @ MIL L 32 13 4 10 40.0 0 0 - 5 7 71.4 1 6 7 0 1 2 1 3 -18
+p564
+aVBrian Shaw ORL 12/21/1996 ORL @ MIL L 32 2 0 5 0.0 0 1 0.0 2 2 100.0 0 1 1 3 2 0 1 1 -22
+p565
+aVDarrell Armstrong ORL 12/21/1996 ORL @ MIL L 26 5 1 6 16.7 1 4 25.0 2 2 100.0 1 0 1 6 3 0 4 2 6
+p566
+aVKenny Smith ORL 12/21/1996 ORL @ MIL L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -5
+p567
+aVDennis Scott ORL 12/21/1996 ORL @ MIL L 25 14 5 15 33.3 2 5 40.0 2 2 100.0 0 1 1 0 0 0 1 4 -7
+p568
+aVDerek Strong ORL 12/21/1996 ORL @ MIL L 20 7 2 7 28.6 0 0 - 3 4 75.0 3 4 7 1 0 1 2 2 -1
+p569
+aVGerald Wilkins ORL 12/20/1996 ORL vs. UTA L 38 15 6 11 54.5 1 3 33.3 2 4 50.0 0 1 1 2 1 0 3 1 -11
+p570
+aVBrian Shaw ORL 12/20/1996 ORL vs. UTA L 27 8 3 9 33.3 2 5 40.0 0 0 - 2 3 5 5 2 0 2 4 -7
+p571
+aVRony Seikaly ORL 12/20/1996 ORL vs. UTA L 43 30 10 15 66.7 0 0 - 10 11 90.9 5 5 10 1 2 1 5 4 -10
+p572
+aVHorace Grant ORL 12/20/1996 ORL vs. UTA L 43 5 2 5 40.0 0 0 - 1 2 50.0 2 7 9 5 3 1 1 3 -4
+p573
+aVDarrell Armstrong ORL 12/20/1996 ORL vs. UTA L 23 9 4 10 40.0 0 4 0.0 1 2 50.0 0 0 0 2 1 0 2 3 7
+p574
+aVDerek Strong ORL 12/20/1996 ORL vs. UTA L 19 5 2 4 50.0 0 0 - 1 1 100.0 0 4 4 0 0 0 2 1 -4
+p575
+aVDennis Scott ORL 12/20/1996 ORL vs. UTA L 42 21 8 17 47.1 2 4 50.0 3 4 75.0 1 4 5 3 0 0 1 2 8
+p576
+aVKenny Smith ORL 12/20/1996 ORL vs. UTA L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -4
+p577
+aVHorace Grant ORL 12/18/1996 ORL vs. IND L 49 6 1 5 20.0 0 0 - 4 6 66.7 5 6 11 2 1 1 0 6 -13
+p578
+aVGerald Wilkins ORL 12/18/1996 ORL vs. IND L 51 11 4 14 28.6 0 5 0.0 3 4 75.0 1 4 5 4 0 0 3 5 -6
+p579
+aVDan Schayes ORL 12/18/1996 ORL vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p580
+aVBrian Shaw ORL 12/18/1996 ORL vs. IND L 34 11 5 11 45.5 1 6 16.7 0 0 - 2 4 6 2 0 0 3 6 -15
+p581
+aVDennis Scott ORL 12/18/1996 ORL vs. IND L 53 27 10 27 37.0 4 10 40.0 3 4 75.0 4 2 6 1 0 0 5 4 -11
+p582
+aVDarrell Armstrong ORL 12/18/1996 ORL vs. IND L 27 11 3 6 50.0 1 3 33.3 4 4 100.0 0 3 3 7 1 0 4 1 10
+p583
+aVDerek Strong ORL 12/18/1996 ORL vs. IND L 20 6 3 6 50.0 0 1 0.0 0 1 0.0 1 8 9 0 0 1 0 1 10
+p584
+aVRony Seikaly ORL 12/18/1996 ORL vs. IND L 51 23 7 17 41.2 0 0 - 9 12 75.0 2 11 13 2 1 6 2 5 -12
+p585
+aVDennis Scott ORL 12/14/1996 ORL @ UTA L 38 11 4 15 26.7 0 3 0.0 3 4 75.0 1 4 5 0 1 0 1 2 -31
+p586
+aVHorace Grant ORL 12/14/1996 ORL @ UTA L 25 1 0 2 0.0 0 0 - 1 2 50.0 1 5 6 3 0 1 6 2 -20
+p587
+aVDarrell Armstrong ORL 12/14/1996 ORL @ UTA L 32 16 5 12 41.7 2 6 33.3 4 4 100.0 1 1 2 2 2 0 2 3 -5
+p588
+aVBrian Shaw ORL 12/14/1996 ORL @ UTA L 25 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 4 0 0 2 4 -32
+p589
+aVDan Schayes ORL 12/14/1996 ORL @ UTA L 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -11
+p590
+aVRony Seikaly ORL 12/14/1996 ORL @ UTA L 38 23 7 13 53.8 0 0 - 9 11 81.8 4 8 12 2 2 3 0 3 -22
+p591
+aVDavid Vaughn ORL 12/14/1996 ORL @ UTA L 10 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -8
+p592
+aVAmal McCaskill ORL 12/14/1996 ORL @ UTA L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 2 0 3
+p593
+aVGerald Wilkins ORL 12/14/1996 ORL @ UTA L 30 6 2 9 22.2 2 6 33.3 0 0 - 0 0 0 0 0 0 0 4 -21
+p594
+aVDerek Strong ORL 12/14/1996 ORL @ UTA L 26 4 1 9 11.1 0 0 - 2 2 100.0 1 2 3 0 0 0 1 1 -18
+p595
+aVRony Seikaly ORL 12/13/1996 ORL @ VAN L 37 25 10 15 66.7 0 0 - 5 5 100.0 8 4 12 0 0 3 7 5 -3
+p596
+aVDan Schayes ORL 12/13/1996 ORL @ VAN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p597
+aVDavid Vaughn ORL 12/13/1996 ORL @ VAN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p598
+aVGerald Wilkins ORL 12/13/1996 ORL @ VAN L 39 15 5 10 50.0 2 4 50.0 3 4 75.0 0 2 2 3 2 0 1 2 -5
+p599
+aVDarrell Armstrong ORL 12/13/1996 ORL @ VAN L 15 2 1 6 16.7 0 3 0.0 0 2 0.0 1 0 1 3 1 0 3 4 3
+p600
+aVDerek Strong ORL 12/13/1996 ORL @ VAN L 21 14 4 6 66.7 0 0 - 6 6 100.0 0 4 4 0 2 0 1 1 -4
+p601
+aVHorace Grant ORL 12/13/1996 ORL @ VAN L 42 12 4 9 44.4 0 0 - 4 8 50.0 4 9 13 2 3 2 0 2 5
+p602
+aVDennis Scott ORL 12/13/1996 ORL @ VAN L 37 12 4 14 28.6 2 6 33.3 2 2 100.0 0 7 7 3 1 2 7 1 -5
+p603
+aVBrian Shaw ORL 12/13/1996 ORL @ VAN L 42 13 5 12 41.7 3 7 42.9 0 0 - 1 6 7 11 0 0 4 2 1
+p604
+aVDan Schayes ORL 12/10/1996 ORL @ POR W 9 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 6
+p605
+aVDennis Scott ORL 12/10/1996 ORL @ POR W 34 18 6 13 46.2 4 8 50.0 2 3 66.7 1 1 2 0 1 0 0 2 4
+p606
+aVGerald Wilkins ORL 12/10/1996 ORL @ POR W 31 18 6 12 50.0 1 2 50.0 5 6 83.3 3 2 5 1 2 0 2 0 -3
+p607
+aVDerek Strong ORL 12/10/1996 ORL @ POR W 27 8 4 9 44.4 0 0 - 0 0 - 1 4 5 0 0 0 1 3 9
+p608
+aVRony Seikaly ORL 12/10/1996 ORL @ POR W 34 17 7 11 63.6 0 0 - 3 5 60.0 1 2 3 0 1 1 3 6 -3
+p609
+aVAnfernee Hardaway ORL 12/10/1996 ORL @ POR W 38 16 5 10 50.0 3 4 75.0 3 4 75.0 0 4 4 8 1 0 3 2 12
+p610
+aVHorace Grant ORL 12/10/1996 ORL @ POR W 40 7 3 4 75.0 0 0 - 1 2 50.0 2 6 8 5 2 2 1 2 1
+p611
+aVBrian Shaw ORL 12/10/1996 ORL @ POR W 16 13 4 7 57.1 1 1 100.0 4 6 66.7 1 1 2 6 0 0 1 4 8
+p612
+aVDarrell Armstrong ORL 12/10/1996 ORL @ POR W 10 0 0 2 0.0 0 2 0.0 0 1 0.0 0 1 1 1 1 0 1 2 -4
+p613
+aVDavid Vaughn ORL 12/08/1996 ORL @ SAC L 12 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 0 0 1 2 1 -2
+p614
+aVBrian Shaw ORL 12/08/1996 ORL @ SAC L 38 13 5 16 31.3 2 6 33.3 1 1 100.0 3 5 8 7 1 0 4 4 -5
+p615
+aVDerek Strong ORL 12/08/1996 ORL @ SAC L 39 15 6 16 37.5 0 0 - 3 4 75.0 2 5 7 1 0 0 3 2 -19
+p616
+aVDarrell Armstrong ORL 12/08/1996 ORL @ SAC L 31 17 6 11 54.5 5 9 55.6 0 0 - 1 0 1 10 1 1 4 1 -1
+p617
+aVDan Schayes ORL 12/08/1996 ORL @ SAC L 8 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 1 2 1
+p618
+aVAmal McCaskill ORL 12/08/1996 ORL @ SAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 1
+p619
+aVRony Seikaly ORL 12/08/1996 ORL @ SAC L 33 14 7 15 46.7 0 0 - 0 1 0.0 3 4 7 0 3 3 2 1 -3
+p620
+aVHorace Grant ORL 12/08/1996 ORL @ SAC L 41 9 4 10 40.0 1 2 50.0 0 1 0.0 2 7 9 4 2 1 2 3 -6
+p621
+aVGerald Wilkins ORL 12/08/1996 ORL @ SAC L 36 13 5 14 35.7 3 5 60.0 0 0 - 0 2 2 5 0 0 1 3 -1
+p622
+aVBrian Shaw ORL 12/06/1996 ORL @ LAL L 36 17 7 16 43.8 2 4 50.0 1 2 50.0 1 3 4 5 1 0 2 4 4
+p623
+aVDerek Strong ORL 12/06/1996 ORL @ LAL L 38 6 2 9 22.2 0 1 0.0 2 4 50.0 2 8 10 0 0 1 1 1 -9
+p624
+aVDarrell Armstrong ORL 12/06/1996 ORL @ LAL L 28 10 4 13 30.8 2 6 33.3 0 0 - 2 0 2 2 1 0 2 6 -7
+p625
+aVHorace Grant ORL 12/06/1996 ORL @ LAL L 41 9 4 13 30.8 0 0 - 1 1 100.0 0 6 6 5 1 1 1 3 -13
+p626
+aVRony Seikaly ORL 12/06/1996 ORL @ LAL L 34 16 6 15 40.0 0 0 - 4 5 80.0 5 5 10 4 1 0 4 5 10
+p627
+aVDell Demps ORL 12/06/1996 ORL @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p628
+aVDavid Vaughn ORL 12/06/1996 ORL @ LAL L 14 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 1 1 3 1
+p629
+aVDan Schayes ORL 12/06/1996 ORL @ LAL L 14 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 2 0 2 -21
+p630
+aVGerald Wilkins ORL 12/06/1996 ORL @ LAL L 36 21 8 18 44.4 2 7 28.6 3 8 37.5 1 2 3 1 0 0 0 4 -18
+p631
+aVDarrell Armstrong ORL 12/04/1996 ORL vs. CLE L 30 7 2 8 25.0 1 4 25.0 2 3 66.7 0 1 1 1 1 1 3 3 -8
+p632
+aVAmal McCaskill ORL 12/04/1996 ORL vs. CLE L 21 4 1 7 14.3 0 0 - 2 2 100.0 0 3 3 1 0 2 4 2 -23
+p633
+aVDell Demps ORL 12/04/1996 ORL vs. CLE L 9 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 0 -10
+p634
+aVBrian Shaw ORL 12/04/1996 ORL vs. CLE L 39 5 2 8 25.0 1 5 20.0 0 0 - 0 2 2 5 1 1 1 2 -29
+p635
+aVRony Seikaly ORL 12/04/1996 ORL vs. CLE L 32 9 3 8 37.5 0 0 - 3 4 75.0 3 4 7 2 0 3 2 2 -17
+p636
+aVDavid Vaughn ORL 12/04/1996 ORL vs. CLE L 14 4 1 4 25.0 0 0 - 2 4 50.0 0 6 6 0 0 0 4 3 -6
+p637
+aVDerek Strong ORL 12/04/1996 ORL vs. CLE L 17 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 1 0 0 0 1 -1
+p638
+aVHorace Grant ORL 12/04/1996 ORL vs. CLE L 39 8 4 6 66.7 0 0 - 0 0 - 4 2 6 1 1 1 3 3 -19
+p639
+aVGerald Wilkins ORL 12/04/1996 ORL vs. CLE L 39 10 5 12 41.7 0 2 0.0 0 0 - 1 1 2 2 1 0 5 3 -22
+p640
+aVBrian Shaw ORL 12/02/1996 ORL vs. DAL L 33 8 3 9 33.3 2 5 40.0 0 0 - 0 3 3 7 1 0 0 6 -4
+p641
+aVDan Schayes ORL 12/02/1996 ORL vs. DAL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p642
+aVNick Anderson ORL 12/02/1996 ORL vs. DAL L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 1 1 0 6
+p643
+aVAmal McCaskill ORL 12/02/1996 ORL vs. DAL L 10 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 1 0 3 0 -10
+p644
+aVRony Seikaly ORL 12/02/1996 ORL vs. DAL L 43 26 10 16 62.5 0 0 - 6 6 100.0 6 8 14 2 0 1 6 5 -4
+p645
+aVDerek Strong ORL 12/02/1996 ORL vs. DAL L 36 18 7 16 43.8 0 0 - 4 5 80.0 1 11 12 0 1 0 2 2 0
+p646
+aVDavid Vaughn ORL 12/02/1996 ORL vs. DAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p647
+aVGerald Wilkins ORL 12/02/1996 ORL vs. DAL L 45 25 9 24 37.5 3 8 37.5 4 5 80.0 1 4 5 4 2 3 2 1 -7
+p648
+aVDarrell Armstrong ORL 12/02/1996 ORL vs. DAL L 36 9 3 11 27.3 0 5 0.0 3 3 100.0 1 3 4 6 1 0 3 3 -1
+p649
+aVHorace Grant ORL 12/02/1996 ORL vs. DAL L 46 12 4 9 44.4 0 1 0.0 4 8 50.0 4 3 7 1 1 0 2 3 -9
+p650
+aVDerek Strong ORL 11/30/1996 ORL @ CLE W 27 15 4 6 66.7 0 0 - 7 8 87.5 1 7 8 1 2 1 2 1 13
+p651
+aVDavid Vaughn ORL 11/30/1996 ORL @ CLE W 20 2 1 3 33.3 0 0 - 0 0 - 3 5 8 1 0 1 1 4 4
+p652
+aVBrian Shaw ORL 11/30/1996 ORL @ CLE W 31 8 2 8 25.0 0 3 0.0 4 5 80.0 1 1 2 2 0 0 3 2 -4
+p653
+aVNick Anderson ORL 11/30/1996 ORL @ CLE W 38 12 5 11 45.5 2 7 28.6 0 0 - 0 2 2 4 2 0 5 1 0
+p654
+aVRony Seikaly ORL 11/30/1996 ORL @ CLE W 19 0 0 3 0.0 0 0 - 0 0 - 0 4 4 2 0 3 5 5 -3
+p655
+aVDarrell Armstrong ORL 11/30/1996 ORL @ CLE W 24 10 2 5 40.0 0 1 0.0 6 6 100.0 1 0 1 5 4 0 4 2 10
+p656
+aVHorace Grant ORL 11/30/1996 ORL @ CLE W 44 21 10 13 76.9 0 0 - 1 1 100.0 2 7 9 2 1 2 1 1 4
+p657
+aVAmal McCaskill ORL 11/30/1996 ORL @ CLE W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p658
+aVGerald Wilkins ORL 11/30/1996 ORL @ CLE W 35 18 6 11 54.5 3 5 60.0 3 4 75.0 0 3 3 4 0 1 4 4 -1
+p659
+aVDavid Vaughn ORL 11/29/1996 ORL @ PHI L 16 6 2 3 66.7 0 0 - 2 2 100.0 3 4 7 1 1 1 0 1 10
+p660
+aVNick Anderson ORL 11/29/1996 ORL @ PHI L 35 18 7 18 38.9 4 13 30.8 0 0 - 0 1 1 4 1 0 2 5 -12
+p661
+aVRony Seikaly ORL 11/29/1996 ORL @ PHI L 34 12 4 12 33.3 0 0 - 4 4 100.0 8 5 13 2 1 0 5 4 -21
+p662
+aVGerald Wilkins ORL 11/29/1996 ORL @ PHI L 29 18 8 17 47.1 0 3 0.0 2 2 100.0 1 1 2 1 0 1 0 3 3
+p663
+aVHorace Grant ORL 11/29/1996 ORL @ PHI L 41 10 5 12 41.7 0 0 - 0 0 - 4 8 12 3 4 0 1 0 -11
+p664
+aVDarrell Armstrong ORL 11/29/1996 ORL @ PHI L 27 12 4 14 28.6 3 10 30.0 1 1 100.0 0 1 1 4 2 0 3 1 0
+p665
+aVDerek Strong ORL 11/29/1996 ORL @ PHI L 19 6 3 8 37.5 0 0 - 0 0 - 1 4 5 0 0 0 2 2 -8
+p666
+aVAmal McCaskill ORL 11/29/1996 ORL @ PHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p667
+aVBrian Shaw ORL 11/29/1996 ORL @ PHI L 29 9 4 11 36.4 1 1 100.0 0 0 - 1 3 4 9 2 0 3 2 -7
+p668
+aVDerek Strong ORL 11/27/1996 ORL vs. ATL W 35 12 6 11 54.5 0 0 - 0 0 - 4 6 10 0 2 1 1 4 8
+p669
+aVAmal McCaskill ORL 11/27/1996 ORL vs. ATL W 20 9 4 7 57.1 0 0 - 1 2 50.0 3 2 5 2 1 0 0 0 -1
+p670
+aVDarrell Armstrong ORL 11/27/1996 ORL vs. ATL W 25 14 5 11 45.5 2 6 33.3 2 2 100.0 0 1 1 3 2 0 2 3 4
+p671
+aVNick Anderson ORL 11/27/1996 ORL vs. ATL W 38 14 5 14 35.7 3 8 37.5 1 2 50.0 1 3 4 1 0 1 1 2 1
+p672
+aVRony Seikaly ORL 11/27/1996 ORL vs. ATL W 42 16 5 15 33.3 0 0 - 6 8 75.0 5 14 19 3 0 1 1 4 5
+p673
+aVBrian Shaw ORL 11/27/1996 ORL vs. ATL W 33 7 2 7 28.6 1 2 50.0 2 2 100.0 0 2 2 3 1 0 3 1 3
+p674
+aVDavid Vaughn ORL 11/27/1996 ORL vs. ATL W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 2 1 -3
+p675
+aVHorace Grant ORL 11/27/1996 ORL vs. ATL W 37 7 2 8 25.0 0 0 - 3 6 50.0 3 3 6 1 1 0 1 4 3
+p676
+aVDarrell Armstrong ORL 11/25/1996 ORL vs. MIL L 31 13 5 13 38.5 2 7 28.6 1 1 100.0 2 1 3 3 0 0 3 4 -15
+p677
+aVDerek Strong ORL 11/25/1996 ORL vs. MIL L 19 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 2 3 -1
+p678
+aVRony Seikaly ORL 11/25/1996 ORL vs. MIL L 36 11 3 7 42.9 0 0 - 5 6 83.3 1 10 11 1 1 2 0 6 -8
+p679
+aVNick Anderson ORL 11/25/1996 ORL vs. MIL L 37 25 11 23 47.8 3 8 37.5 0 2 0.0 2 1 3 2 0 0 1 1 -6
+p680
+aVDavid Vaughn ORL 11/25/1996 ORL vs. MIL L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p681
+aVHorace Grant ORL 11/25/1996 ORL vs. MIL L 40 16 6 13 46.2 0 0 - 4 5 80.0 5 5 10 2 2 2 1 4 -10
+p682
+aVGerald Wilkins ORL 11/25/1996 ORL vs. MIL L 42 12 4 12 33.3 0 2 0.0 4 8 50.0 0 3 3 4 0 0 3 3 -12
+p683
+aVDan Schayes ORL 11/25/1996 ORL vs. MIL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p684
+aVBrian Shaw ORL 11/25/1996 ORL vs. MIL L 23 7 1 6 16.7 1 2 50.0 4 5 80.0 2 1 3 3 0 0 2 4 -2
+p685
+aVHorace Grant ORL 11/23/1996 ORL @ IND W 38 12 5 11 45.5 0 0 - 2 4 50.0 4 7 11 3 2 0 3 1 5
+p686
+aVRony Seikaly ORL 11/23/1996 ORL @ IND W 38 10 5 12 41.7 0 0 - 0 0 - 1 10 11 0 2 1 5 3 13
+p687
+aVNick Anderson ORL 11/23/1996 ORL @ IND W 33 11 4 8 50.0 2 6 33.3 1 2 50.0 2 2 4 2 0 0 4 5 2
+p688
+aVDerek Strong ORL 11/23/1996 ORL @ IND W 24 12 3 5 60.0 0 0 - 6 6 100.0 2 4 6 1 1 0 0 2 1
+p689
+aVDennis Scott ORL 11/23/1996 ORL @ IND W 13 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p690
+aVDarrell Armstrong ORL 11/23/1996 ORL @ IND W 23 12 4 6 66.7 2 3 66.7 2 2 100.0 0 0 0 4 1 0 5 3 -3
+p691
+aVDavid Vaughn ORL 11/23/1996 ORL @ IND W 14 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 1 1 1 1 -6
+p692
+aVGerald Wilkins ORL 11/23/1996 ORL @ IND W 27 11 4 6 66.7 2 3 66.7 1 1 100.0 0 1 1 1 0 0 3 5 0
+p693
+aVBrian Shaw ORL 11/23/1996 ORL @ IND W 30 8 2 6 33.3 1 1 100.0 3 4 75.0 0 2 2 3 1 0 6 4 4
+p694
+aVRony Seikaly ORL 11/21/1996 ORL vs. MIN W 30 8 2 7 28.6 0 0 - 4 6 66.7 1 2 3 1 0 1 1 5 -2
+p695
+aVDarrell Armstrong ORL 11/21/1996 ORL vs. MIN W 19 10 2 6 33.3 1 3 33.3 5 8 62.5 0 1 1 4 1 0 3 2 9
+p696
+aVDavid Vaughn ORL 11/21/1996 ORL vs. MIN W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 1 1 1 -8
+p697
+aVGerald Wilkins ORL 11/21/1996 ORL vs. MIN W 35 9 4 7 57.1 0 2 0.0 1 4 25.0 2 2 4 1 1 1 0 0 2
+p698
+aVNick Anderson ORL 11/21/1996 ORL vs. MIN W 39 22 8 22 36.4 2 9 22.2 4 7 57.1 1 6 7 2 1 2 1 1 0
+p699
+aVDennis Scott ORL 11/21/1996 ORL vs. MIN W 15 8 3 9 33.3 0 4 0.0 2 3 66.7 1 2 3 1 0 0 1 1 6
+p700
+aVBrian Shaw ORL 11/21/1996 ORL vs. MIN W 29 11 5 7 71.4 0 0 - 1 2 50.0 3 3 6 5 1 0 4 1 -5
+p701
+aVHorace Grant ORL 11/21/1996 ORL vs. MIN W 43 14 6 12 50.0 0 1 0.0 2 3 66.7 7 7 14 0 1 0 2 3 8
+p702
+aVDerek Strong ORL 11/21/1996 ORL vs. MIN W 25 6 3 8 37.5 0 0 - 0 0 - 3 5 8 1 0 0 1 0 10
+p703
+aVRony Seikaly ORL 11/19/1996 ORL vs. NYK L 29 8 2 8 25.0 0 0 - 4 8 50.0 1 4 5 0 0 1 1 4 3
+p704
+aVDarrell Armstrong ORL 11/19/1996 ORL vs. NYK L 25 19 4 8 50.0 3 5 60.0 8 8 100.0 1 1 2 8 0 0 3 0 26
+p705
+aVDavid Vaughn ORL 11/19/1996 ORL vs. NYK L 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 0 1 3 -15
+p706
+aVBrian Shaw ORL 11/19/1996 ORL vs. NYK L 26 0 0 7 0.0 0 1 0.0 0 0 - 0 4 4 1 0 1 4 4 -23
+p707
+aVGerald Wilkins ORL 11/19/1996 ORL vs. NYK L 41 24 6 14 42.9 1 4 25.0 11 11 100.0 1 4 5 1 2 0 3 4 -9
+p708
+aVHorace Grant ORL 11/19/1996 ORL vs. NYK L 40 15 6 13 46.2 0 0 - 3 3 100.0 3 5 8 1 0 0 2 3 -10
+p709
+aVDerek Strong ORL 11/19/1996 ORL vs. NYK L 25 6 2 6 33.3 0 2 0.0 2 2 100.0 0 2 2 2 1 1 0 1 16
+p710
+aVNick Anderson ORL 11/19/1996 ORL vs. NYK L 40 14 6 17 35.3 2 6 33.3 0 5 0.0 1 1 2 1 6 0 1 4 2
+p711
+aVBrian Shaw ORL 11/16/1996 ORL vs. TOR W 31 5 2 7 28.6 1 2 50.0 0 0 - 1 3 4 10 0 0 3 4 9
+p712
+aVDerek Strong ORL 11/16/1996 ORL vs. TOR W 23 2 1 6 16.7 0 0 - 0 0 - 3 4 7 2 0 0 3 1 -16
+p713
+aVHorace Grant ORL 11/16/1996 ORL vs. TOR W 42 6 3 6 50.0 0 0 - 0 0 - 1 4 5 5 1 0 2 2 15
+p714
+aVRony Seikaly ORL 11/16/1996 ORL vs. TOR W 28 17 5 12 41.7 0 0 - 7 8 87.5 6 3 9 1 2 0 0 4 -7
+p715
+aVDavid Vaughn ORL 11/16/1996 ORL vs. TOR W 17 12 4 6 66.7 0 0 - 4 6 66.7 3 3 6 0 0 1 4 0 10
+p716
+aVGerald Wilkins ORL 11/16/1996 ORL vs. TOR W 37 13 6 12 50.0 1 2 50.0 0 0 - 1 0 1 1 1 0 0 0 12
+p717
+aVDarrell Armstrong ORL 11/16/1996 ORL vs. TOR W 23 12 4 9 44.4 2 5 40.0 2 2 100.0 1 1 2 2 0 1 4 3 -5
+p718
+aVNick Anderson ORL 11/16/1996 ORL vs. TOR W 40 25 9 18 50.0 5 10 50.0 2 3 66.7 3 8 11 2 3 0 3 1 7
+p719
+aVBrian Shaw ORL 11/14/1996 ORL vs. CHH W 22 11 4 7 57.1 1 2 50.0 2 2 100.0 1 0 1 3 1 0 4 0 -4
+p720
+aVGerald Wilkins ORL 11/14/1996 ORL vs. CHH W 26 11 5 10 50.0 0 1 0.0 1 3 33.3 3 2 5 1 0 0 2 2 16
+p721
+aVRony Seikaly ORL 11/14/1996 ORL vs. CHH W 30 13 6 11 54.5 0 0 - 1 4 25.0 5 6 11 0 0 2 0 5 16
+p722
+aVDavid Vaughn ORL 11/14/1996 ORL vs. CHH W 13 6 3 6 50.0 0 0 - 0 0 - 2 0 2 0 1 2 1 2 -14
+p723
+aVNick Anderson ORL 11/14/1996 ORL vs. CHH W 36 17 7 16 43.8 2 7 28.6 1 2 50.0 1 5 6 1 0 2 0 1 -3
+p724
+aVHorace Grant ORL 11/14/1996 ORL vs. CHH W 36 3 1 7 14.3 0 0 - 1 2 50.0 2 9 11 3 2 0 3 2 -6
+p725
+aVDerek Strong ORL 11/14/1996 ORL vs. CHH W 17 10 5 8 62.5 0 0 - 0 0 - 3 4 7 0 1 0 0 2 15
+p726
+aVAnfernee Hardaway ORL 11/14/1996 ORL vs. CHH W 41 14 4 13 30.8 3 6 50.0 3 4 75.0 1 6 7 7 1 0 1 3 5
+p727
+aVDarrell Armstrong ORL 11/14/1996 ORL vs. CHH W 23 11 4 7 57.1 2 4 50.0 1 2 50.0 0 1 1 5 1 0 0 0 10
+p728
+aVGerald Wilkins ORL 11/08/1996 ORL vs. NJN W 22 5 2 9 22.2 1 4 25.0 0 0 - 2 0 2 1 0 0 4 1 -19
+p729
+aVNick Anderson ORL 11/08/1996 ORL vs. NJN W 38 15 7 13 53.8 1 6 16.7 0 2 0.0 2 4 6 1 4 1 1 4 16
+p730
+aVDarrell Armstrong ORL 11/08/1996 ORL vs. NJN W 13 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 3 0 1 2 3 -19
+p731
+aVDerek Strong ORL 11/08/1996 ORL vs. NJN W 15 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 0 -20
+p732
+aVHorace Grant ORL 11/08/1996 ORL vs. NJN W 35 18 6 17 35.3 0 0 - 6 6 100.0 6 7 13 2 3 2 1 0 23
+p733
+aVAnfernee Hardaway ORL 11/08/1996 ORL vs. NJN W 40 29 9 23 39.1 1 4 25.0 10 14 71.4 4 3 7 4 3 2 2 3 18
+p734
+aVRony Seikaly ORL 11/08/1996 ORL vs. NJN W 19 2 1 9 11.1 0 0 - 0 2 0.0 5 3 8 0 0 1 3 3 -22
+p735
+aVDavid Vaughn ORL 11/08/1996 ORL vs. NJN W 26 5 1 5 20.0 0 0 - 3 4 75.0 6 7 13 0 0 1 0 3 25
+p736
+aVBrian Shaw ORL 11/08/1996 ORL vs. NJN W 32 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 4 1 0 4 1 18
+p737
+aVNick Anderson ORL 11/07/1996 ORL @ NJN W 41 14 6 13 46.2 2 5 40.0 0 2 0.0 2 4 6 3 3 1 2 2 14
+p738
+aVDerek Strong ORL 11/07/1996 ORL @ NJN W 19 6 2 7 28.6 0 0 - 2 2 100.0 3 3 6 0 0 0 1 1 0
+p739
+aVGerald Wilkins ORL 11/07/1996 ORL @ NJN W 24 18 8 10 80.0 1 3 33.3 1 1 100.0 0 1 1 5 3 1 1 2 14
+p740
+aVDarrell Armstrong ORL 11/07/1996 ORL @ NJN W 19 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 6 4 0 2 1 5
+p741
+aVHorace Grant ORL 11/07/1996 ORL @ NJN W 27 12 6 11 54.5 0 0 - 0 0 - 3 7 10 2 2 1 2 3 14
+p742
+aVDan Schayes ORL 11/07/1996 ORL @ NJN W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p743
+aVBrian Shaw ORL 11/07/1996 ORL @ NJN W 25 2 0 5 0.0 0 1 0.0 2 2 100.0 0 0 0 6 2 2 3 4 3
+p744
+aVAnfernee Hardaway ORL 11/07/1996 ORL @ NJN W 35 23 10 22 45.5 0 2 0.0 3 6 50.0 2 6 8 4 1 0 3 1 3
+p745
+aVRony Seikaly ORL 11/07/1996 ORL @ NJN W 25 13 5 8 62.5 0 0 - 3 6 50.0 4 2 6 0 0 3 3 5 10
+p746
+aVDavid Vaughn ORL 11/07/1996 ORL @ NJN W 23 10 3 6 50.0 0 0 - 4 7 57.1 1 5 6 0 1 0 1 2 3
+p747
+aVDonald Royal ORL 11/01/1996 ORL vs. WAS L 29 12 4 10 40.0 0 0 - 4 4 100.0 1 0 1 1 0 0 3 3 2
+p748
+aVFelton Spencer ORL 11/01/1996 ORL vs. WAS L 19 4 2 2 100.0 0 0 - 0 0 - 5 1 6 1 0 0 1 2 4
+p749
+aVNick Anderson ORL 11/01/1996 ORL vs. WAS L 38 15 6 19 31.6 3 12 25.0 0 0 - 0 5 5 2 2 1 0 3 3
+p750
+aVBrian Shaw ORL 11/01/1996 ORL vs. WAS L 12 4 1 6 16.7 1 2 50.0 1 2 50.0 0 1 1 1 0 0 2 0 -7
+p751
+aVDarrell Armstrong ORL 11/01/1996 ORL vs. WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -1
+p752
+aVHorace Grant ORL 11/01/1996 ORL vs. WAS L 38 14 5 13 38.5 0 0 - 4 4 100.0 6 11 17 2 3 1 2 2 -2
+p753
+aVAnfernee Hardaway ORL 11/01/1996 ORL vs. WAS L 38 19 6 22 27.3 0 6 0.0 7 9 77.8 1 2 3 6 1 0 1 3 -4
+p754
+aVGerald Wilkins ORL 11/01/1996 ORL vs. WAS L 23 9 4 8 50.0 1 3 33.3 0 0 - 1 1 2 2 0 0 3 2 -6
+p755
+aVDerek Strong ORL 11/01/1996 ORL vs. WAS L 17 8 4 6 66.7 0 0 - 0 0 - 4 1 5 1 0 1 1 3 0
+p756
+aVDavid Vaughn ORL 11/01/1996 ORL vs. WAS L 21 7 3 4 75.0 0 0 - 1 1 100.0 4 3 7 0 0 0 3 2 -9
+p757
+a.

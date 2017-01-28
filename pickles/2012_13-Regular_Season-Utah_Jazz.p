@@ -1,0 +1,1752 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRandy Foye UTA 04/17/2013 UTA @ MEM L 35 7 1 9 11.1 1 5 20.0 4 6 66.7 1 2 3 2 0 1 0 2 -10
+p2
+aVJamaal Tinsley UTA 04/17/2013 UTA @ MEM L 15 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 2 3 -3
+p3
+aVJeremy Evans UTA 04/17/2013 UTA @ MEM L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p4
+aVGordon Hayward UTA 04/17/2013 UTA @ MEM L 31 9 4 8 50.0 1 1 100.0 0 1 0.0 3 0 3 2 1 0 3 1 -8
+p5
+aVDerrick Favors UTA 04/17/2013 UTA @ MEM L 27 4 2 9 22.2 0 0 - 0 0 - 4 7 11 3 3 2 2 0 -13
+p6
+aVAlec Burks UTA 04/17/2013 UTA @ MEM L 13 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -6
+p7
+aVPaul Millsap UTA 04/17/2013 UTA @ MEM L 28 6 2 7 28.6 0 0 - 2 4 50.0 5 3 8 0 1 2 0 4 -3
+p8
+aVAl Jefferson UTA 04/17/2013 UTA @ MEM L 40 22 8 19 42.1 0 0 - 6 6 100.0 2 14 16 2 0 1 1 5 -15
+p9
+aVMarvin Williams UTA 04/17/2013 UTA @ MEM L 17 6 2 7 28.6 1 2 50.0 1 2 50.0 2 2 4 1 0 0 0 2 -8
+p10
+aVMo Williams UTA 04/17/2013 UTA @ MEM L 33 8 3 13 23.1 0 3 0.0 2 5 40.0 0 1 1 3 1 0 3 1 -13
+p11
+aVAl Jefferson UTA 04/15/2013 UTA @ MIN W 32 22 8 15 53.3 0 0 - 6 6 100.0 0 8 8 0 1 2 3 0 15
+p12
+aVAlec Burks UTA 04/15/2013 UTA @ MIN W 21 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 2 1 0 2 3 11
+p13
+aVMo Williams UTA 04/15/2013 UTA @ MIN W 32 15 7 15 46.7 1 3 33.3 0 0 - 0 4 4 7 4 0 4 1 13
+p14
+aVDeMarre Carroll UTA 04/15/2013 UTA @ MIN W 8 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -8
+p15
+aVJamaal Tinsley UTA 04/15/2013 UTA @ MIN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -2
+p16
+aVGordon Hayward UTA 04/15/2013 UTA @ MIN W 25 8 2 5 40.0 0 1 0.0 4 4 100.0 0 6 6 3 1 0 1 1 8
+p17
+aVDerrick Favors UTA 04/15/2013 UTA @ MIN W 24 12 5 7 71.4 0 0 - 2 3 66.7 0 6 6 1 0 0 0 3 9
+p18
+aVMarvin Williams UTA 04/15/2013 UTA @ MIN W 19 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 14
+p19
+aVPaul Millsap UTA 04/15/2013 UTA @ MIN W 33 7 3 10 30.0 0 0 - 1 2 50.0 1 7 8 4 1 0 0 3 14
+p20
+aVRandy Foye UTA 04/15/2013 UTA @ MIN W 36 14 5 11 45.5 2 5 40.0 2 2 100.0 0 2 2 3 2 0 0 2 16
+p21
+aVKevin Murphy UTA 04/15/2013 UTA @ MIN W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p22
+aVJeremy Evans UTA 04/15/2013 UTA @ MIN W 3 2 0 0 - 0 0 - 2 2 100.0 2 0 2 0 0 0 0 3 -4
+p23
+aVJamaal Tinsley UTA 04/12/2013 UTA vs. MIN W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 1 5
+p24
+aVAl Jefferson UTA 04/12/2013 UTA vs. MIN W 41 40 19 27 70.4 0 0 - 2 2 100.0 3 10 13 6 0 0 5 1 6
+p25
+aVAlec Burks UTA 04/12/2013 UTA vs. MIN W 19 7 3 4 75.0 1 1 100.0 0 0 - 1 3 4 0 0 0 0 2 2
+p26
+aVDerrick Favors UTA 04/12/2013 UTA vs. MIN W 31 6 2 6 33.3 0 0 - 2 2 100.0 2 6 8 0 3 2 5 4 16
+p27
+aVPaul Millsap UTA 04/12/2013 UTA vs. MIN W 24 10 5 7 71.4 0 0 - 0 2 0.0 0 3 3 1 0 2 3 3 -14
+p28
+aVMo Williams UTA 04/12/2013 UTA vs. MIN W 31 16 5 12 41.7 0 2 0.0 6 6 100.0 0 1 1 5 1 0 2 5 5
+p29
+aVMarvin Williams UTA 04/12/2013 UTA vs. MIN W 17 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 2 0 0 1 1 0
+p30
+aVRandy Foye UTA 04/12/2013 UTA vs. MIN W 38 16 5 8 62.5 5 7 71.4 1 1 100.0 0 2 2 1 2 0 1 2 12
+p31
+aVGordon Hayward UTA 04/12/2013 UTA vs. MIN W 33 5 1 5 20.0 1 2 50.0 2 2 100.0 0 2 2 5 2 0 1 0 3
+p32
+aVDeMarre Carroll UTA 04/09/2013 UTA vs. OKC L 23 3 1 6 16.7 1 3 33.3 0 0 - 2 2 4 3 1 1 0 4 -4
+p33
+aVJamaal Tinsley UTA 04/09/2013 UTA vs. OKC L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 4 0 0 1 1 0
+p34
+aVPaul Millsap UTA 04/09/2013 UTA vs. OKC L 38 8 4 11 36.4 0 1 0.0 0 0 - 0 6 6 2 2 1 5 2 -17
+p35
+aVDerrick Favors UTA 04/09/2013 UTA vs. OKC L 29 8 3 7 42.9 0 0 - 2 4 50.0 1 7 8 1 0 5 2 4 4
+p36
+aVMo Williams UTA 04/09/2013 UTA vs. OKC L 37 19 7 17 41.2 2 7 28.6 3 3 100.0 1 1 2 6 1 0 5 1 -10
+p37
+aVAl Jefferson UTA 04/09/2013 UTA vs. OKC L 32 15 7 13 53.8 0 0 - 1 1 100.0 2 9 11 1 1 1 1 2 -5
+p38
+aVGordon Hayward UTA 04/09/2013 UTA vs. OKC L 35 17 6 16 37.5 2 7 28.6 3 4 75.0 0 5 5 3 1 0 1 3 -3
+p39
+aVRandy Foye UTA 04/09/2013 UTA vs. OKC L 36 10 3 8 37.5 2 6 33.3 2 2 100.0 0 4 4 2 0 0 2 2 -15
+p40
+aVDeMarre Carroll UTA 04/07/2013 UTA @ GSW W 17 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 3 1 0 0 1 0
+p41
+aVAl Jefferson UTA 04/07/2013 UTA @ GSW W 32 19 8 17 47.1 0 0 - 3 3 100.0 2 10 12 5 2 1 1 3 2
+p42
+aVGordon Hayward UTA 04/07/2013 UTA @ GSW W 36 13 5 11 45.5 3 6 50.0 0 0 - 2 1 3 6 1 0 4 2 5
+p43
+aVMarvin Williams UTA 04/07/2013 UTA @ GSW W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 -3
+p44
+aVDerrick Favors UTA 04/07/2013 UTA @ GSW W 29 12 5 9 55.6 0 0 - 2 2 100.0 6 7 13 1 0 3 1 1 -1
+p45
+aVRandy Foye UTA 04/07/2013 UTA @ GSW W 36 8 3 11 27.3 2 8 25.0 0 0 - 0 0 0 1 1 1 1 2 12
+p46
+aVPaul Millsap UTA 04/07/2013 UTA @ GSW W 35 11 5 13 38.5 0 0 - 1 2 50.0 0 6 6 4 1 1 3 1 13
+p47
+aVMo Williams UTA 04/07/2013 UTA @ GSW W 33 25 11 19 57.9 3 6 50.0 0 0 - 1 3 4 5 2 0 3 3 15
+p48
+aVJamaal Tinsley UTA 04/07/2013 UTA @ GSW W 15 6 2 5 40.0 2 3 66.7 0 0 - 1 0 1 2 2 0 0 0 -8
+p49
+aVPaul Millsap UTA 04/05/2013 UTA vs. NOH W 39 20 8 13 61.5 1 1 100.0 3 5 60.0 6 4 10 7 1 1 3 5 11
+p50
+aVRandy Foye UTA 04/05/2013 UTA vs. NOH W 26 8 3 9 33.3 2 7 28.6 0 0 - 0 1 1 4 0 0 1 1 -5
+p51
+aVDerrick Favors UTA 04/05/2013 UTA vs. NOH W 27 10 5 8 62.5 0 0 - 0 0 - 1 9 10 0 1 6 2 4 19
+p52
+aVAlec Burks UTA 04/05/2013 UTA vs. NOH W 13 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 2 15
+p53
+aVJamaal Tinsley UTA 04/05/2013 UTA vs. NOH W 19 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 7 1 1 3 3 17
+p54
+aVGordon Hayward UTA 04/05/2013 UTA vs. NOH W 31 23 9 18 50.0 5 10 50.0 0 2 0.0 0 2 2 1 1 0 0 2 -7
+p55
+aVAl Jefferson UTA 04/05/2013 UTA vs. NOH W 31 14 7 11 63.6 0 0 - 0 0 - 1 4 5 1 3 0 1 1 -6
+p56
+aVMo Williams UTA 04/05/2013 UTA vs. NOH W 29 8 3 8 37.5 0 2 0.0 2 2 100.0 0 2 2 4 0 0 3 4 -5
+p57
+aVDeMarre Carroll UTA 04/05/2013 UTA vs. NOH W 26 6 2 5 40.0 1 2 50.0 1 2 50.0 1 2 3 3 3 0 1 3 21
+p58
+aVJamaal Tinsley UTA 04/03/2013 UTA vs. DEN L 5 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 2 0 0
+p59
+aVGordon Hayward UTA 04/03/2013 UTA vs. DEN L 31 18 7 13 53.8 3 6 50.0 1 2 50.0 0 1 1 2 1 0 0 3 -15
+p60
+aVDeMarre Carroll UTA 04/03/2013 UTA vs. DEN L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p61
+aVPaul Millsap UTA 04/03/2013 UTA vs. DEN L 31 16 6 12 50.0 0 0 - 4 4 100.0 1 2 3 2 0 0 1 0 -14
+p62
+aVJeremy Evans UTA 04/03/2013 UTA vs. DEN L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 2 3
+p63
+aVRandy Foye UTA 04/03/2013 UTA vs. DEN L 27 7 2 9 22.2 2 8 25.0 1 2 50.0 0 2 2 1 1 0 1 3 -22
+p64
+aVMarvin Williams UTA 04/03/2013 UTA vs. DEN L 22 10 5 7 71.4 0 1 0.0 0 0 - 2 0 2 3 0 1 2 3 0
+p65
+aVMo Williams UTA 04/03/2013 UTA vs. DEN L 32 4 2 12 16.7 0 3 0.0 0 0 - 2 3 5 7 1 0 1 1 -18
+p66
+aVDerrick Favors UTA 04/03/2013 UTA vs. DEN L 28 8 3 8 37.5 0 0 - 2 2 100.0 1 5 6 1 0 1 1 3 -6
+p67
+aVEarl Watson UTA 04/03/2013 UTA vs. DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 3
+p68
+aVAlec Burks UTA 04/03/2013 UTA vs. DEN L 18 8 3 6 50.0 0 0 - 2 4 50.0 0 2 2 2 2 1 0 2 1
+p69
+aVAl Jefferson UTA 04/03/2013 UTA vs. DEN L 36 16 7 11 63.6 0 0 - 2 4 50.0 1 8 9 3 1 1 1 3 -20
+p70
+aVRandy Foye UTA 04/01/2013 UTA vs. POR W 25 11 3 7 42.9 3 6 50.0 2 2 100.0 0 1 1 3 2 0 0 4 17
+p71
+aVMarvin Williams UTA 04/01/2013 UTA vs. POR W 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -11
+p72
+aVKevin Murphy UTA 04/01/2013 UTA vs. POR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p73
+aVMo Williams UTA 04/01/2013 UTA vs. POR W 29 20 7 12 58.3 6 7 85.7 0 0 - 0 1 1 9 0 0 1 3 20
+p74
+aVDerrick Favors UTA 04/01/2013 UTA vs. POR W 28 18 6 7 85.7 0 0 - 6 8 75.0 2 5 7 2 1 0 1 4 3
+p75
+aVDeMarre Carroll UTA 04/01/2013 UTA vs. POR W 9 0 0 5 0.0 0 4 0.0 0 0 - 1 1 2 0 0 0 1 1 -9
+p76
+aVJamaal Tinsley UTA 04/01/2013 UTA vs. POR W 19 0 0 0 - 0 0 - 0 0 - 0 1 1 5 1 0 0 1 -10
+p77
+aVAlec Burks UTA 04/01/2013 UTA vs. POR W 21 7 3 8 37.5 0 4 0.0 1 2 50.0 0 2 2 0 0 1 0 0 -5
+p78
+aVAl Jefferson UTA 04/01/2013 UTA vs. POR W 31 24 12 21 57.1 0 0 - 0 2 0.0 3 7 10 2 2 2 1 0 15
+p79
+aVPaul Millsap UTA 04/01/2013 UTA vs. POR W 37 16 7 11 63.6 0 0 - 2 2 100.0 2 0 2 2 1 0 1 3 11
+p80
+aVJeremy Evans UTA 04/01/2013 UTA vs. POR W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p81
+aVGordon Hayward UTA 04/01/2013 UTA vs. POR W 28 12 5 8 62.5 0 1 0.0 2 2 100.0 1 4 5 3 0 0 1 1 24
+p82
+aVDerrick Favors UTA 03/30/2013 UTA vs. BKN W 23 13 6 10 60.0 0 0 - 1 2 50.0 3 6 9 1 3 0 1 3 -2
+p83
+aVRandy Foye UTA 03/30/2013 UTA vs. BKN W 31 26 9 11 81.8 8 9 88.9 0 0 - 0 1 1 2 1 0 2 4 18
+p84
+aVJamaal Tinsley UTA 03/30/2013 UTA vs. BKN W 18 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 2 2 1 0 2 3
+p85
+aVMo Williams UTA 03/30/2013 UTA vs. BKN W 30 20 6 10 60.0 2 3 66.7 6 6 100.0 0 3 3 4 0 0 3 2 6
+p86
+aVPaul Millsap UTA 03/30/2013 UTA vs. BKN W 40 9 2 10 20.0 0 0 - 5 8 62.5 2 4 6 9 2 0 1 2 5
+p87
+aVAlec Burks UTA 03/30/2013 UTA vs. BKN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p88
+aVGordon Hayward UTA 03/30/2013 UTA vs. BKN W 38 8 3 12 25.0 0 3 0.0 2 2 100.0 0 2 2 6 3 3 0 3 10
+p89
+aVAl Jefferson UTA 03/30/2013 UTA vs. BKN W 34 20 10 17 58.8 0 1 0.0 0 3 0.0 4 3 7 2 3 2 2 2 15
+p90
+aVMarvin Williams UTA 03/30/2013 UTA vs. BKN W 21 14 7 9 77.8 0 1 0.0 0 1 0.0 1 5 6 1 0 0 1 0 -4
+p91
+aVJeremy Evans UTA 03/29/2013 UTA @ POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p92
+aVDerrick Favors UTA 03/29/2013 UTA @ POR W 27 13 6 8 75.0 0 0 - 1 3 33.3 2 8 10 2 0 0 1 6 13
+p93
+aVJamaal Tinsley UTA 03/29/2013 UTA @ POR W 16 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 4 1 0 1 1 -6
+p94
+aVMo Williams UTA 03/29/2013 UTA @ POR W 29 28 10 19 52.6 2 5 40.0 6 6 100.0 2 3 5 5 1 0 2 3 17
+p95
+aVPaul Millsap UTA 03/29/2013 UTA @ POR W 32 25 10 14 71.4 0 0 - 5 6 83.3 5 5 10 2 0 0 3 5 6
+p96
+aVMarvin Williams UTA 03/29/2013 UTA @ POR W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 2 0 0 1 2
+p97
+aVRandy Foye UTA 03/29/2013 UTA @ POR W 29 5 1 5 20.0 0 3 0.0 3 3 100.0 0 1 1 1 1 1 0 3 16
+p98
+aVAlec Burks UTA 03/29/2013 UTA @ POR W 15 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 1 0 0 0 0 -3
+p99
+aVAl Jefferson UTA 03/29/2013 UTA @ POR W 37 22 11 21 52.4 0 0 - 0 0 - 2 6 8 2 4 2 1 3 2
+p100
+aVGordon Hayward UTA 03/29/2013 UTA @ POR W 40 10 4 8 50.0 2 6 33.3 0 0 - 1 2 3 8 3 1 2 1 8
+p101
+aVAl Jefferson UTA 03/27/2013 UTA vs. PHX W 42 25 12 23 52.2 0 0 - 1 1 100.0 3 6 9 1 2 2 2 3 14
+p102
+aVGordon Hayward UTA 03/27/2013 UTA vs. PHX W 42 25 9 15 60.0 3 6 50.0 4 5 80.0 1 4 5 6 0 0 2 0 20
+p103
+aVEnes Kanter UTA 03/27/2013 UTA vs. PHX W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p104
+aVMo Williams UTA 03/27/2013 UTA vs. PHX W 29 8 3 9 33.3 0 3 0.0 2 2 100.0 1 2 3 10 1 0 3 2 7
+p105
+aVJeremy Evans UTA 03/27/2013 UTA vs. PHX W 2 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -1
+p106
+aVPaul Millsap UTA 03/27/2013 UTA vs. PHX W 23 12 6 9 66.7 0 0 - 0 0 - 1 3 4 2 2 1 1 2 5
+p107
+aVDerrick Favors UTA 03/27/2013 UTA vs. PHX W 25 9 4 7 57.1 0 0 - 1 2 50.0 4 9 13 1 2 2 5 4 10
+p108
+aVJamaal Tinsley UTA 03/27/2013 UTA vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 2 2
+p109
+aVAlec Burks UTA 03/27/2013 UTA vs. PHX W 20 5 2 6 33.3 1 2 50.0 0 2 0.0 0 2 2 2 1 0 1 0 1
+p110
+aVRandy Foye UTA 03/27/2013 UTA vs. PHX W 26 12 5 6 83.3 2 2 100.0 0 0 - 0 3 3 3 2 0 1 4 11
+p111
+aVMarvin Williams UTA 03/27/2013 UTA vs. PHX W 22 5 2 6 33.3 0 2 0.0 1 1 100.0 0 4 4 3 0 1 0 0 4
+p112
+aVAl Jefferson UTA 03/25/2013 UTA vs. PHI W 18 12 5 9 55.6 0 0 - 2 2 100.0 2 7 9 1 0 0 0 3 11
+p113
+aVJamaal Tinsley UTA 03/25/2013 UTA vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p114
+aVJeremy Evans UTA 03/25/2013 UTA vs. PHI W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -6
+p115
+aVDerrick Favors UTA 03/25/2013 UTA vs. PHI W 26 13 4 11 36.4 0 0 - 5 7 71.4 3 7 10 2 0 3 3 3 11
+p116
+aVPaul Millsap UTA 03/25/2013 UTA vs. PHI W 22 11 5 8 62.5 0 0 - 1 2 50.0 1 3 4 3 3 2 2 2 17
+p117
+aVDeMarre Carroll UTA 03/25/2013 UTA vs. PHI W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p118
+aVAlec Burks UTA 03/25/2013 UTA vs. PHI W 22 12 4 9 44.4 0 2 0.0 4 4 100.0 2 2 4 0 1 0 1 3 -4
+p119
+aVRandy Foye UTA 03/25/2013 UTA vs. PHI W 29 17 6 10 60.0 3 6 50.0 2 2 100.0 0 3 3 1 0 2 1 3 20
+p120
+aVGordon Hayward UTA 03/25/2013 UTA vs. PHI W 31 15 6 9 66.7 3 3 100.0 0 0 - 0 0 0 4 0 0 0 4 13
+p121
+aVEarl Watson UTA 03/25/2013 UTA vs. PHI W 13 0 0 5 0.0 0 1 0.0 0 0 - 3 1 4 3 0 0 3 0 6
+p122
+aVMo Williams UTA 03/25/2013 UTA vs. PHI W 25 9 4 8 50.0 1 1 100.0 0 0 - 1 1 2 5 2 0 2 2 20
+p123
+aVEnes Kanter UTA 03/25/2013 UTA vs. PHI W 25 12 4 9 44.4 0 0 - 4 4 100.0 2 4 6 1 0 0 1 1 -1
+p124
+aVMarvin Williams UTA 03/25/2013 UTA vs. PHI W 17 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 2 0 1 1
+p125
+aVAl Jefferson UTA 03/24/2013 UTA @ DAL L 27 15 6 12 50.0 0 0 - 3 4 75.0 1 2 3 0 1 1 0 1 -9
+p126
+aVPaul Millsap UTA 03/24/2013 UTA @ DAL L 27 15 7 11 63.6 0 0 - 1 1 100.0 2 7 9 1 2 2 2 4 0
+p127
+aVDeMarre Carroll UTA 03/24/2013 UTA @ DAL L 4 2 0 0 - 0 0 - 2 2 100.0 2 0 2 0 0 0 1 5 13
+p128
+aVAlec Burks UTA 03/24/2013 UTA @ DAL L 8 11 4 9 44.4 2 3 66.7 1 1 100.0 1 1 2 3 1 0 0 1 9
+p129
+aVDerrick Favors UTA 03/24/2013 UTA @ DAL L 16 7 2 6 33.3 0 0 - 3 4 75.0 2 3 5 1 1 0 5 4 -18
+p130
+aVJamaal Tinsley UTA 03/24/2013 UTA @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p131
+aVGordon Hayward UTA 03/24/2013 UTA @ DAL L 41 13 5 9 55.6 0 2 0.0 3 3 100.0 1 1 2 5 0 0 3 3 3
+p132
+aVRandy Foye UTA 03/24/2013 UTA @ DAL L 27 12 4 8 50.0 3 6 50.0 1 2 50.0 0 4 4 3 1 0 0 2 -10
+p133
+aVMarvin Williams UTA 03/24/2013 UTA @ DAL L 23 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 1 1 0 0 0 -16
+p134
+aVEnes Kanter UTA 03/24/2013 UTA @ DAL L 21 17 7 9 77.8 0 0 - 3 4 75.0 1 3 4 1 1 0 3 1 4
+p135
+aVMo Williams UTA 03/24/2013 UTA @ DAL L 36 10 4 10 40.0 2 4 50.0 0 0 - 0 3 3 8 2 0 4 0 -4
+p136
+aVJeremy Evans UTA 03/24/2013 UTA @ DAL L 4 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 13
+p137
+aVMarvin Williams UTA 03/22/2013 UTA @ SAS L 35 9 4 9 44.4 1 4 25.0 0 0 - 3 6 9 1 1 0 1 2 -1
+p138
+aVEnes Kanter UTA 03/22/2013 UTA @ SAS L 11 3 0 4 0.0 0 0 - 3 4 75.0 2 1 3 0 1 0 1 1 8
+p139
+aVMo Williams UTA 03/22/2013 UTA @ SAS L 41 23 9 17 52.9 2 4 50.0 3 5 60.0 0 1 1 8 3 0 3 5 -7
+p140
+aVAlec Burks UTA 03/22/2013 UTA @ SAS L 22 14 6 9 66.7 2 3 66.7 0 0 - 1 0 1 0 0 0 1 2 14
+p141
+aVGordon Hayward UTA 03/22/2013 UTA @ SAS L 34 5 2 10 20.0 1 2 50.0 0 0 - 0 6 6 5 0 1 3 3 -16
+p142
+aVDerrick Favors UTA 03/22/2013 UTA @ SAS L 19 6 3 6 50.0 0 0 - 0 1 0.0 0 8 8 0 1 4 4 4 15
+p143
+aVAl Jefferson UTA 03/22/2013 UTA @ SAS L 42 18 9 23 39.1 0 0 - 0 0 - 3 10 13 2 3 2 2 4 -13
+p144
+aVRandy Foye UTA 03/22/2013 UTA @ SAS L 28 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 5 0 0 0 1 -11
+p145
+aVPaul Millsap UTA 03/22/2013 UTA @ SAS L 34 11 5 13 38.5 0 1 0.0 1 2 50.0 2 4 6 2 2 2 1 5 -24
+p146
+aVPaul Millsap UTA 03/20/2013 UTA @ HOU L 25 16 6 10 60.0 0 0 - 4 4 100.0 2 2 4 2 2 1 2 1 -8
+p147
+aVAl Jefferson UTA 03/20/2013 UTA @ HOU L 43 18 9 19 47.4 0 0 - 0 1 0.0 2 9 11 4 2 0 3 4 0
+p148
+aVEnes Kanter UTA 03/20/2013 UTA @ HOU L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p149
+aVDerrick Favors UTA 03/20/2013 UTA @ HOU L 23 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 2 1 3 2 1 1
+p150
+aVMo Williams UTA 03/20/2013 UTA @ HOU L 24 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 6 0 0 0 4 -17
+p151
+aVMarvin Williams UTA 03/20/2013 UTA @ HOU L 21 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 0 0 1 0 1 -4
+p152
+aVGordon Hayward UTA 03/20/2013 UTA @ HOU L 42 27 9 15 60.0 3 4 75.0 6 8 75.0 0 8 8 2 1 0 1 2 4
+p153
+aVRandy Foye UTA 03/20/2013 UTA @ HOU L 28 7 3 10 30.0 1 6 16.7 0 0 - 1 1 2 0 1 0 2 3 -3
+p154
+aVAlec Burks UTA 03/20/2013 UTA @ HOU L 24 11 3 8 37.5 0 2 0.0 5 5 100.0 0 4 4 2 1 0 1 5 6
+p155
+aVJamaal Tinsley UTA 03/20/2013 UTA @ HOU L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 3 1 -7
+p156
+aVGordon Hayward UTA 03/18/2013 UTA vs. NYK L 37 17 6 14 42.9 3 6 50.0 2 2 100.0 1 1 2 3 1 4 2 0 -3
+p157
+aVAlec Burks UTA 03/18/2013 UTA vs. NYK L 13 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 3 -2
+p158
+aVEnes Kanter UTA 03/18/2013 UTA vs. NYK L 15 5 1 3 33.3 0 0 - 3 4 75.0 2 0 2 0 0 0 3 1 -6
+p159
+aVEarl Watson UTA 03/18/2013 UTA vs. NYK L 17 2 1 1 100.0 0 0 - 0 0 - 0 1 1 4 3 0 1 1 -4
+p160
+aVDerrick Favors UTA 03/18/2013 UTA vs. NYK L 21 7 1 7 14.3 0 0 - 5 12 41.7 5 8 13 0 2 0 1 1 -1
+p161
+aVMo Williams UTA 03/18/2013 UTA vs. NYK L 31 9 4 14 28.6 1 2 50.0 0 0 - 2 4 6 5 2 0 2 3 -3
+p162
+aVRandy Foye UTA 03/18/2013 UTA vs. NYK L 18 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 1 0 0 1 4 -4
+p163
+aVAl Jefferson UTA 03/18/2013 UTA vs. NYK L 31 10 4 13 30.8 0 0 - 2 2 100.0 3 8 11 3 0 0 2 3 -4
+p164
+aVPaul Millsap UTA 03/18/2013 UTA vs. NYK L 29 12 4 9 44.4 0 1 0.0 4 4 100.0 4 1 5 0 2 1 4 4 -3
+p165
+aVMarvin Williams UTA 03/18/2013 UTA vs. NYK L 28 10 4 7 57.1 2 4 50.0 0 0 - 2 4 6 1 0 0 0 3 -5
+p166
+aVMo Williams UTA 03/16/2013 UTA vs. MEM W 36 13 5 13 38.5 0 3 0.0 3 5 60.0 0 4 4 6 1 1 1 4 5
+p167
+aVGordon Hayward UTA 03/16/2013 UTA vs. MEM W 38 17 5 10 50.0 3 6 50.0 4 6 66.7 0 8 8 3 1 0 1 2 13
+p168
+aVMarvin Williams UTA 03/16/2013 UTA vs. MEM W 23 5 1 4 25.0 0 1 0.0 3 4 75.0 2 1 3 1 1 0 0 1 -4
+p169
+aVRandy Foye UTA 03/16/2013 UTA vs. MEM W 21 5 1 5 20.0 1 3 33.3 2 2 100.0 1 1 2 0 0 1 0 2 5
+p170
+aVEarl Watson UTA 03/16/2013 UTA vs. MEM W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 1
+p171
+aVAlec Burks UTA 03/16/2013 UTA vs. MEM W 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 -6
+p172
+aVDerrick Favors UTA 03/16/2013 UTA vs. MEM W 27 10 4 5 80.0 0 0 - 2 2 100.0 2 4 6 0 0 2 0 4 2
+p173
+aVPaul Millsap UTA 03/16/2013 UTA vs. MEM W 26 13 4 8 50.0 0 0 - 5 6 83.3 2 6 8 2 3 0 2 4 8
+p174
+aVAl Jefferson UTA 03/16/2013 UTA vs. MEM W 37 14 7 16 43.8 0 1 0.0 0 2 0.0 0 5 5 3 0 0 1 1 8
+p175
+aVEnes Kanter UTA 03/16/2013 UTA vs. MEM W 10 8 2 6 33.3 0 0 - 4 4 100.0 0 1 1 0 1 0 0 1 -2
+p176
+aVAlec Burks UTA 03/13/2013 UTA @ OKC L 12 7 2 8 25.0 1 2 50.0 2 2 100.0 2 0 2 1 0 0 0 1 -16
+p177
+aVGordon Hayward UTA 03/13/2013 UTA @ OKC L 28 20 6 14 42.9 1 6 16.7 7 8 87.5 1 0 1 3 1 0 1 1 -8
+p178
+aVAl Jefferson UTA 03/13/2013 UTA @ OKC L 24 8 4 13 30.8 0 0 - 0 0 - 2 5 7 1 0 1 2 2 -24
+p179
+aVMarvin Williams UTA 03/13/2013 UTA @ OKC L 24 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 2 2 0 0 0 0
+p180
+aVPaul Millsap UTA 03/13/2013 UTA @ OKC L 20 7 1 5 20.0 0 0 - 5 8 62.5 3 4 7 1 3 0 2 3 -8
+p181
+aVMo Williams UTA 03/13/2013 UTA @ OKC L 21 5 2 7 28.6 1 1 100.0 0 0 - 0 2 2 3 2 0 4 3 -18
+p182
+aVDerrick Favors UTA 03/13/2013 UTA @ OKC L 25 6 3 6 50.0 0 0 - 0 0 - 2 1 3 2 0 5 1 4 -7
+p183
+aVRandy Foye UTA 03/13/2013 UTA @ OKC L 18 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 1 1 0 2 1 -13
+p184
+aVDeMarre Carroll UTA 03/13/2013 UTA @ OKC L 19 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 4 -16
+p185
+aVEarl Watson UTA 03/13/2013 UTA @ OKC L 19 9 2 4 50.0 0 1 0.0 5 6 83.3 1 1 2 6 1 0 2 1 4
+p186
+aVKevin Murphy UTA 03/13/2013 UTA @ OKC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p187
+aVEnes Kanter UTA 03/13/2013 UTA @ OKC L 23 12 3 6 50.0 0 0 - 6 6 100.0 2 3 5 0 1 0 2 4 -3
+p188
+aVJeremy Evans UTA 03/13/2013 UTA @ OKC L 4 3 1 1 100.0 0 0 - 1 3 33.3 0 0 0 0 1 0 0 1 -4
+p189
+aVDeMarre Carroll UTA 03/11/2013 UTA vs. DET W 18 5 2 6 33.3 0 2 0.0 1 1 100.0 1 1 2 1 0 1 1 3 -3
+p190
+aVMarvin Williams UTA 03/11/2013 UTA vs. DET W 30 14 5 8 62.5 2 3 66.7 2 2 100.0 2 4 6 4 2 0 0 0 16
+p191
+aVGordon Hayward UTA 03/11/2013 UTA vs. DET W 28 13 4 8 50.0 2 3 66.7 3 4 75.0 0 2 2 3 0 0 0 1 20
+p192
+aVEnes Kanter UTA 03/11/2013 UTA vs. DET W 20 14 7 9 77.8 0 0 - 0 0 - 0 8 8 0 0 1 2 1 23
+p193
+aVDerrick Favors UTA 03/11/2013 UTA vs. DET W 21 6 2 5 40.0 0 0 - 2 2 100.0 4 4 8 0 0 3 1 2 -9
+p194
+aVMo Williams UTA 03/11/2013 UTA vs. DET W 26 20 9 14 64.3 1 2 50.0 1 1 100.0 0 1 1 6 0 0 1 1 5
+p195
+aVAl Jefferson UTA 03/11/2013 UTA vs. DET W 31 16 7 15 46.7 0 0 - 2 2 100.0 2 8 10 3 1 1 2 0 -8
+p196
+aVRandy Foye UTA 03/11/2013 UTA vs. DET W 20 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 2 1 1 0 2 -7
+p197
+aVAlec Burks UTA 03/11/2013 UTA vs. DET W 22 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 2 1 0 4 2 8
+p198
+aVJeremy Evans UTA 03/11/2013 UTA vs. DET W 24 8 3 4 75.0 0 0 - 2 3 66.7 2 5 7 5 0 2 0 2 20
+p199
+aVDerrick Favors UTA 03/09/2013 UTA @ NYK L 23 4 2 5 40.0 0 0 - 0 0 - 3 2 5 3 0 1 0 4 -30
+p200
+aVKevin Murphy UTA 03/09/2013 UTA @ NYK L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p201
+aVMarvin Williams UTA 03/09/2013 UTA @ NYK L 20 7 3 6 50.0 0 2 0.0 1 1 100.0 2 5 7 0 0 0 2 4 3
+p202
+aVEarl Watson UTA 03/09/2013 UTA @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p203
+aVAlec Burks UTA 03/09/2013 UTA @ NYK L 27 14 5 12 41.7 0 2 0.0 4 5 80.0 0 1 1 1 0 0 2 1 -7
+p204
+aVDeMarre Carroll UTA 03/09/2013 UTA @ NYK L 16 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 0 0 1 1 1 -12
+p205
+aVJeremy Evans UTA 03/09/2013 UTA @ NYK L 6 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 0
+p206
+aVJamaal Tinsley UTA 03/09/2013 UTA @ NYK L 19 6 2 6 33.3 1 3 33.3 1 2 50.0 0 1 1 2 1 0 2 1 -6
+p207
+aVEnes Kanter UTA 03/09/2013 UTA @ NYK L 26 11 4 7 57.1 1 1 100.0 2 2 100.0 4 3 7 2 0 0 1 1 -1
+p208
+aVRandy Foye UTA 03/09/2013 UTA @ NYK L 18 6 2 10 20.0 2 7 28.6 0 0 - 0 1 1 1 1 0 0 2 -18
+p209
+aVMo Williams UTA 03/09/2013 UTA @ NYK L 24 8 3 8 37.5 1 2 50.0 1 1 100.0 0 3 3 4 0 0 5 3 -24
+p210
+aVGordon Hayward UTA 03/09/2013 UTA @ NYK L 28 13 3 8 37.5 2 6 33.3 5 6 83.3 0 5 5 0 2 0 5 0 -18
+p211
+aVAl Jefferson UTA 03/09/2013 UTA @ NYK L 25 7 3 9 33.3 0 0 - 1 2 50.0 0 4 4 0 0 0 0 3 -34
+p212
+aVMo Williams UTA 03/08/2013 UTA @ CHI L 27 2 1 7 14.3 0 1 0.0 0 0 - 1 3 4 3 0 0 4 0 5
+p213
+aVRandy Foye UTA 03/08/2013 UTA @ CHI L 21 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 2 -2
+p214
+aVEnes Kanter UTA 03/08/2013 UTA @ CHI L 18 10 5 8 62.5 0 0 - 0 0 - 2 1 3 0 0 0 0 2 2
+p215
+aVJamaal Tinsley UTA 03/08/2013 UTA @ CHI L 17 5 2 7 28.6 0 3 0.0 1 2 50.0 0 1 1 5 1 0 1 1 -1
+p216
+aVMarvin Williams UTA 03/08/2013 UTA @ CHI L 27 14 6 10 60.0 2 2 100.0 0 0 - 4 6 10 1 1 0 1 3 9
+p217
+aVPaul Millsap UTA 03/08/2013 UTA @ CHI L 21 10 4 9 44.4 0 0 - 2 4 50.0 2 4 6 0 0 2 0 3 -7
+p218
+aVGordon Hayward UTA 03/08/2013 UTA @ CHI L 29 5 2 6 33.3 0 1 0.0 1 1 100.0 0 1 1 1 1 0 1 1 -2
+p219
+aVDeMarre Carroll UTA 03/08/2013 UTA @ CHI L 10 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 2 1 0 1 3 -4
+p220
+aVAlec Burks UTA 03/08/2013 UTA @ CHI L 14 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 1 0 1 2 -8
+p221
+aVAl Jefferson UTA 03/08/2013 UTA @ CHI L 30 23 10 16 62.5 0 0 - 3 5 60.0 3 3 6 3 0 3 3 1 -2
+p222
+aVDerrick Favors UTA 03/08/2013 UTA @ CHI L 27 11 3 6 50.0 0 0 - 5 6 83.3 3 7 10 0 1 6 2 4 5
+p223
+aVAlec Burks UTA 03/06/2013 UTA @ CLE L 27 14 6 12 50.0 1 2 50.0 1 1 100.0 0 4 4 4 1 0 0 2 5
+p224
+aVRandy Foye UTA 03/06/2013 UTA @ CLE L 34 11 4 11 36.4 3 6 50.0 0 0 - 0 1 1 1 1 1 2 3 -7
+p225
+aVMarvin Williams UTA 03/06/2013 UTA @ CLE L 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 1 1 3 -2
+p226
+aVGordon Hayward UTA 03/06/2013 UTA @ CLE L 34 25 8 17 47.1 3 5 60.0 6 8 75.0 0 0 0 7 3 0 1 1 0
+p227
+aVDerrick Favors UTA 03/06/2013 UTA @ CLE L 31 6 2 6 33.3 0 0 - 2 2 100.0 2 10 12 1 1 4 2 5 -2
+p228
+aVPaul Millsap UTA 03/06/2013 UTA @ CLE L 30 16 5 10 50.0 0 0 - 6 6 100.0 2 6 8 4 0 1 3 4 -10
+p229
+aVMo Williams UTA 03/06/2013 UTA @ CLE L 27 8 3 12 25.0 2 4 50.0 0 0 - 0 3 3 6 0 1 4 2 -1
+p230
+aVDeMarre Carroll UTA 03/06/2013 UTA @ CLE L 14 4 2 6 33.3 0 2 0.0 0 0 - 1 0 1 0 0 1 0 2 -3
+p231
+aVEarl Watson UTA 03/06/2013 UTA @ CLE L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 1 1 0 -3
+p232
+aVEnes Kanter UTA 03/06/2013 UTA @ CLE L 21 17 8 11 72.7 0 0 - 1 2 50.0 3 4 7 1 0 1 1 1 8
+p233
+aVPaul Millsap UTA 03/04/2013 UTA @ MIL L 44 22 7 17 41.2 0 1 0.0 8 12 66.7 4 10 14 3 3 0 3 4 2
+p234
+aVEarl Watson UTA 03/04/2013 UTA @ MIL L 17 0 0 4 0.0 0 0 - 0 0 - 1 3 4 2 3 0 4 0 -6
+p235
+aVEnes Kanter UTA 03/04/2013 UTA @ MIL L 32 18 7 13 53.8 0 0 - 4 4 100.0 6 4 10 1 1 1 1 4 5
+p236
+aVAlec Burks UTA 03/04/2013 UTA @ MIL L 36 19 7 10 70.0 1 1 100.0 4 4 100.0 0 3 3 4 2 0 6 4 5
+p237
+aVDeMarre Carroll UTA 03/04/2013 UTA @ MIL L 33 13 5 8 62.5 2 5 40.0 1 2 50.0 1 2 3 1 3 0 1 3 8
+p238
+aVMarvin Williams UTA 03/04/2013 UTA @ MIL L 15 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 0 -6
+p239
+aVRandy Foye UTA 03/04/2013 UTA @ MIL L 20 0 0 6 0.0 0 2 0.0 0 0 - 1 0 1 1 1 0 0 0 -9
+p240
+aVDerrick Favors UTA 03/04/2013 UTA @ MIL L 30 23 11 20 55.0 0 0 - 1 3 33.3 7 8 15 1 1 1 2 0 -9
+p241
+aVGordon Hayward UTA 03/04/2013 UTA @ MIL L 38 13 3 16 18.8 1 2 50.0 6 6 100.0 3 4 7 5 0 0 3 2 5
+p242
+aVAlec Burks UTA 03/01/2013 UTA vs. CHA W 29 10 3 9 33.3 1 2 50.0 3 6 50.0 3 4 7 2 2 1 1 2 28
+p243
+aVDeMarre Carroll UTA 03/01/2013 UTA vs. CHA W 20 19 7 10 70.0 1 2 50.0 4 4 100.0 1 2 3 0 3 1 3 1 18
+p244
+aVJeremy Evans UTA 03/01/2013 UTA vs. CHA W 26 14 6 8 75.0 0 0 - 2 2 100.0 4 5 9 1 0 2 3 2 22
+p245
+aVRandy Foye UTA 03/01/2013 UTA vs. CHA W 26 9 4 10 40.0 1 5 20.0 0 0 - 1 0 1 3 2 0 2 1 8
+p246
+aVEnes Kanter UTA 03/01/2013 UTA vs. CHA W 44 23 10 12 83.3 0 0 - 3 4 75.0 5 17 22 1 0 1 5 1 26
+p247
+aVMarvin Williams UTA 03/01/2013 UTA vs. CHA W 17 1 0 4 0.0 0 2 0.0 1 2 50.0 2 2 4 3 0 2 1 1 4
+p248
+aVJamaal Tinsley UTA 03/01/2013 UTA vs. CHA W 14 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 5 1 0 4 2 14
+p249
+aVEarl Watson UTA 03/01/2013 UTA vs. CHA W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 3 0
+p250
+aVKevin Murphy UTA 03/01/2013 UTA vs. CHA W 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 0
+p251
+aVGordon Hayward UTA 03/01/2013 UTA vs. CHA W 25 14 5 12 41.7 2 4 50.0 2 2 100.0 0 4 4 4 0 0 0 1 22
+p252
+aVDerrick Favors UTA 03/01/2013 UTA vs. CHA W 21 8 3 10 30.0 0 0 - 2 3 66.7 3 4 7 1 0 1 2 6 8
+p253
+aVDeMarre Carroll UTA 02/27/2013 UTA vs. ATL L 21 8 3 5 60.0 1 1 100.0 1 1 100.0 1 2 3 1 1 0 0 2 6
+p254
+aVGordon Hayward UTA 02/27/2013 UTA vs. ATL L 37 11 4 9 44.4 1 3 33.3 2 2 100.0 0 3 3 4 1 1 1 2 1
+p255
+aVRandy Foye UTA 02/27/2013 UTA vs. ATL L 22 11 4 10 40.0 2 5 40.0 1 1 100.0 0 1 1 1 1 0 1 2 -11
+p256
+aVEarl Watson UTA 02/27/2013 UTA vs. ATL L 19 0 0 2 0.0 0 0 - 0 2 0.0 2 1 3 5 0 0 3 3 -15
+p257
+aVAl Jefferson UTA 02/27/2013 UTA vs. ATL L 40 26 12 22 54.5 0 1 0.0 2 7 28.6 1 10 11 1 0 1 2 4 -16
+p258
+aVDerrick Favors UTA 02/27/2013 UTA vs. ATL L 38 17 6 11 54.5 0 1 0.0 5 6 83.3 6 9 15 3 0 3 2 4 -4
+p259
+aVMarvin Williams UTA 02/27/2013 UTA vs. ATL L 19 8 4 10 40.0 0 2 0.0 0 0 - 2 2 4 0 0 0 0 2 -19
+p260
+aVEnes Kanter UTA 02/27/2013 UTA vs. ATL L 18 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 0 0 0 1 1 -2
+p261
+aVAlec Burks UTA 02/27/2013 UTA vs. ATL L 28 4 2 8 25.0 0 2 0.0 0 2 0.0 1 3 4 2 2 0 3 3 5
+p262
+aVAlec Burks UTA 02/25/2013 UTA vs. BOS L 33 8 4 10 40.0 0 1 0.0 0 0 - 1 4 5 3 1 0 3 1 8
+p263
+aVEarl Watson UTA 02/25/2013 UTA vs. BOS L 20 2 1 3 33.3 0 0 - 0 0 - 2 0 2 2 0 1 4 1 -11
+p264
+aVGordon Hayward UTA 02/25/2013 UTA vs. BOS L 36 26 7 16 43.8 4 7 57.1 8 9 88.9 0 2 2 3 1 1 0 1 0
+p265
+aVAl Jefferson UTA 02/25/2013 UTA vs. BOS L 39 15 6 11 54.5 0 0 - 3 4 75.0 2 9 11 3 1 1 1 0 -13
+p266
+aVDerrick Favors UTA 02/25/2013 UTA vs. BOS L 19 7 2 4 50.0 0 0 - 3 3 100.0 3 3 6 1 2 0 4 5 5
+p267
+aVEnes Kanter UTA 02/25/2013 UTA vs. BOS L 12 4 2 7 28.6 0 0 - 0 0 - 2 1 3 0 0 0 0 2 14
+p268
+aVDeMarre Carroll UTA 02/25/2013 UTA vs. BOS L 27 8 3 7 42.9 0 1 0.0 2 2 100.0 2 2 4 3 0 0 0 4 4
+p269
+aVPaul Millsap UTA 02/25/2013 UTA vs. BOS L 36 16 7 12 58.3 0 0 - 2 2 100.0 2 4 6 5 1 2 1 2 -10
+p270
+aVMarvin Williams UTA 02/25/2013 UTA vs. BOS L 26 15 5 10 50.0 2 2 100.0 3 4 75.0 1 1 2 3 0 1 0 2 -9
+p271
+aVRandy Foye UTA 02/25/2013 UTA vs. BOS L 17 6 2 8 25.0 2 6 33.3 0 0 - 0 3 3 0 0 0 0 1 -3
+p272
+aVDerrick Favors UTA 02/23/2013 UTA @ LAC L 22 7 3 6 50.0 0 0 - 1 2 50.0 3 5 8 0 1 3 3 5 4
+p273
+aVPaul Millsap UTA 02/23/2013 UTA @ LAC L 27 19 8 12 66.7 0 0 - 3 3 100.0 0 2 2 2 0 2 1 4 -12
+p274
+aVAl Jefferson UTA 02/23/2013 UTA @ LAC L 29 16 8 19 42.1 0 1 0.0 0 0 - 1 3 4 2 1 0 2 1 -15
+p275
+aVEnes Kanter UTA 02/23/2013 UTA @ LAC L 17 15 6 7 85.7 0 0 - 3 3 100.0 3 1 4 1 2 0 2 2 1
+p276
+aVDeMarre Carroll UTA 02/23/2013 UTA @ LAC L 4 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -1
+p277
+aVAlec Burks UTA 02/23/2013 UTA @ LAC L 32 12 4 8 50.0 1 2 50.0 3 6 50.0 2 4 6 3 1 0 3 2 8
+p278
+aVJamaal Tinsley UTA 02/23/2013 UTA @ LAC L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 -25
+p279
+aVEarl Watson UTA 02/23/2013 UTA @ LAC L 24 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 8 1 0 2 2 10
+p280
+aVMarvin Williams UTA 02/23/2013 UTA @ LAC L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 1 1 1 -25
+p281
+aVGordon Hayward UTA 02/23/2013 UTA @ LAC L 34 23 5 14 35.7 0 2 0.0 13 14 92.9 3 5 8 3 1 0 1 1 12
+p282
+aVRandy Foye UTA 02/23/2013 UTA @ LAC L 22 0 0 5 0.0 0 5 0.0 0 0 - 0 1 1 2 0 0 1 2 -22
+p283
+aVJeremy Evans UTA 02/19/2013 UTA vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p284
+aVGordon Hayward UTA 02/19/2013 UTA vs. GSW W 25 17 5 9 55.6 2 5 40.0 5 6 83.3 0 3 3 4 0 2 1 1 1
+p285
+aVMarvin Williams UTA 02/19/2013 UTA vs. GSW W 20 11 3 8 37.5 2 4 50.0 3 4 75.0 0 1 1 1 0 0 1 2 11
+p286
+aVAl Jefferson UTA 02/19/2013 UTA vs. GSW W 32 24 11 18 61.1 0 0 - 2 3 66.7 1 4 5 1 0 3 2 0 11
+p287
+aVAlec Burks UTA 02/19/2013 UTA vs. GSW W 25 13 5 8 62.5 2 3 66.7 1 2 50.0 0 5 5 2 1 1 1 3 3
+p288
+aVEarl Watson UTA 02/19/2013 UTA vs. GSW W 23 0 0 0 - 0 0 - 0 0 - 0 0 0 5 3 1 0 4 2
+p289
+aVDerrick Favors UTA 02/19/2013 UTA vs. GSW W 21 14 4 7 57.1 0 0 - 6 6 100.0 2 2 4 2 0 0 2 5 5
+p290
+aVKevin Murphy UTA 02/19/2013 UTA vs. GSW W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p291
+aVRandy Foye UTA 02/19/2013 UTA vs. GSW W 29 15 4 9 44.4 3 6 50.0 4 4 100.0 0 2 2 1 1 0 2 1 18
+p292
+aVJamaal Tinsley UTA 02/19/2013 UTA vs. GSW W 19 4 1 3 33.3 1 3 33.3 1 2 50.0 1 2 3 5 3 1 0 2 9
+p293
+aVPaul Millsap UTA 02/19/2013 UTA vs. GSW W 31 14 5 10 50.0 0 0 - 4 4 100.0 2 7 9 1 0 0 2 2 19
+p294
+aVDeMarre Carroll UTA 02/19/2013 UTA vs. GSW W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p295
+aVEnes Kanter UTA 02/19/2013 UTA vs. GSW W 11 1 0 4 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 2 -6
+p296
+aVMarvin Williams UTA 02/13/2013 UTA @ MIN W 16 0 0 1 0.0 0 0 - 0 0 - 0 7 7 0 0 1 0 1 -2
+p297
+aVAl Jefferson UTA 02/13/2013 UTA @ MIN W 34 20 9 18 50.0 0 0 - 2 3 66.7 1 10 11 1 3 1 1 1 -7
+p298
+aVDeMarre Carroll UTA 02/13/2013 UTA @ MIN W 25 11 5 9 55.6 0 2 0.0 1 1 100.0 2 3 5 0 0 1 0 2 0
+p299
+aVEarl Watson UTA 02/13/2013 UTA @ MIN W 24 6 2 7 28.6 0 1 0.0 2 2 100.0 1 4 5 5 0 0 4 1 0
+p300
+aVPaul Millsap UTA 02/13/2013 UTA @ MIN W 36 21 7 15 46.7 0 1 0.0 7 11 63.6 4 4 8 2 0 2 2 4 12
+p301
+aVJamaal Tinsley UTA 02/13/2013 UTA @ MIN W 16 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 2 0 0 1 0 -3
+p302
+aVAlec Burks UTA 02/13/2013 UTA @ MIN W 30 9 4 9 44.4 0 1 0.0 1 1 100.0 2 4 6 7 2 0 3 4 7
+p303
+aVDerrick Favors UTA 02/13/2013 UTA @ MIN W 20 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 1 0 2 0 5 -2
+p304
+aVEnes Kanter UTA 02/13/2013 UTA @ MIN W 14 10 5 9 55.6 0 0 - 0 0 - 1 2 3 0 1 1 2 2 11
+p305
+aVRandy Foye UTA 02/13/2013 UTA @ MIN W 27 10 2 11 18.2 1 5 20.0 5 5 100.0 0 0 0 2 1 1 1 2 4
+p306
+aVEarl Watson UTA 02/12/2013 UTA vs. OKC W 22 6 3 3 100.0 0 0 - 0 0 - 0 4 4 5 1 0 3 3 2
+p307
+aVPaul Millsap UTA 02/12/2013 UTA vs. OKC W 24 18 8 14 57.1 0 0 - 2 2 100.0 5 5 10 6 2 0 2 1 9
+p308
+aVAlec Burks UTA 02/12/2013 UTA vs. OKC W 25 13 6 11 54.5 1 3 33.3 0 2 0.0 1 4 5 2 0 0 6 4 4
+p309
+aVAl Jefferson UTA 02/12/2013 UTA vs. OKC W 33 23 11 22 50.0 0 1 0.0 1 2 50.0 4 3 7 2 2 1 1 1 14
+p310
+aVDerrick Favors UTA 02/12/2013 UTA vs. OKC W 22 15 5 11 45.5 0 0 - 5 5 100.0 1 2 3 0 0 1 0 2 7
+p311
+aVJamaal Tinsley UTA 02/12/2013 UTA vs. OKC W 24 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 6 4 0 1 2 14
+p312
+aVKevin Murphy UTA 02/12/2013 UTA vs. OKC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p313
+aVDeMarre Carroll UTA 02/12/2013 UTA vs. OKC W 26 13 3 6 50.0 2 3 66.7 5 6 83.3 2 1 3 1 3 0 2 1 15
+p314
+aVRandy Foye UTA 02/12/2013 UTA vs. OKC W 23 11 4 10 40.0 2 6 33.3 1 1 100.0 0 0 0 2 0 0 0 2 11
+p315
+aVMarvin Williams UTA 02/12/2013 UTA vs. OKC W 22 2 0 4 0.0 0 3 0.0 2 2 100.0 0 1 1 1 0 0 0 3 0
+p316
+aVJeremy Evans UTA 02/12/2013 UTA vs. OKC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -1
+p317
+aVEnes Kanter UTA 02/12/2013 UTA vs. OKC W 15 2 0 2 0.0 0 0 - 2 2 100.0 3 2 5 0 2 0 1 2 1
+p318
+aVAl Jefferson UTA 02/09/2013 UTA @ SAC L 20 16 6 11 54.5 0 0 - 4 4 100.0 1 2 3 1 0 1 3 4 -10
+p319
+aVAlec Burks UTA 02/09/2013 UTA @ SAC L 27 26 8 16 50.0 1 2 50.0 9 9 100.0 2 1 3 1 0 1 1 3 1
+p320
+aVEnes Kanter UTA 02/09/2013 UTA @ SAC L 25 13 5 9 55.6 0 0 - 3 3 100.0 2 2 4 1 0 1 4 2 -2
+p321
+aVMarvin Williams UTA 02/09/2013 UTA @ SAC L 17 8 3 5 60.0 2 3 66.7 0 0 - 0 3 3 0 0 1 2 0 -13
+p322
+aVRandy Foye UTA 02/09/2013 UTA @ SAC L 24 8 3 8 37.5 1 4 25.0 1 1 100.0 0 2 2 3 1 0 0 3 -7
+p323
+aVEarl Watson UTA 02/09/2013 UTA @ SAC L 23 4 2 3 66.7 0 0 - 0 0 - 0 0 0 5 1 0 1 5 -9
+p324
+aVJeremy Evans UTA 02/09/2013 UTA @ SAC L 4 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 0 4
+p325
+aVDerrick Favors UTA 02/09/2013 UTA @ SAC L 29 8 3 7 42.9 0 0 - 2 2 100.0 2 6 8 2 1 1 2 3 -14
+p326
+aVKevin Murphy UTA 02/09/2013 UTA @ SAC L 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 4
+p327
+aVPaul Millsap UTA 02/09/2013 UTA @ SAC L 19 6 3 4 75.0 0 0 - 0 0 - 0 8 8 1 0 1 3 5 0
+p328
+aVDeMarre Carroll UTA 02/09/2013 UTA @ SAC L 31 14 5 10 50.0 0 2 0.0 4 5 80.0 3 3 6 3 0 0 0 0 2
+p329
+aVJamaal Tinsley UTA 02/09/2013 UTA @ SAC L 19 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 5 4 1 2 0 -11
+p330
+aVJamaal Tinsley UTA 02/08/2013 UTA vs. CHI L 32 0 0 2 0.0 0 2 0.0 0 0 - 2 2 4 6 1 1 2 2 -4
+p331
+aVPaul Millsap UTA 02/08/2013 UTA vs. CHI L 27 21 8 14 57.1 0 2 0.0 5 5 100.0 1 2 3 3 0 1 3 5 2
+p332
+aVMarvin Williams UTA 02/08/2013 UTA vs. CHI L 30 3 1 6 16.7 1 1 100.0 0 2 0.0 0 6 6 0 0 1 1 2 6
+p333
+aVAl Jefferson UTA 02/08/2013 UTA vs. CHI L 41 32 15 22 68.2 0 1 0.0 2 5 40.0 4 9 13 1 2 2 0 1 6
+p334
+aVDerrick Favors UTA 02/08/2013 UTA vs. CHI L 24 6 3 8 37.5 0 0 - 0 0 - 1 1 2 0 0 2 1 6 -5
+p335
+aVEnes Kanter UTA 02/08/2013 UTA vs. CHI L 7 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 1 2 1 -8
+p336
+aVDeMarre Carroll UTA 02/08/2013 UTA vs. CHI L 15 4 2 5 40.0 0 1 0.0 0 0 - 2 1 3 1 0 1 0 0 -13
+p337
+aVRandy Foye UTA 02/08/2013 UTA vs. CHI L 39 14 4 11 36.4 2 6 33.3 4 5 80.0 1 1 2 6 1 1 3 2 5
+p338
+aVAlec Burks UTA 02/08/2013 UTA vs. CHI L 25 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 4 0 0 0 3 -9
+p339
+aVEnes Kanter UTA 02/06/2013 UTA vs. MIL W 17 17 7 9 77.8 0 0 - 3 3 100.0 5 4 9 2 0 4 1 1 8
+p340
+aVDeMarre Carroll UTA 02/06/2013 UTA vs. MIL W 33 11 4 12 33.3 0 1 0.0 3 6 50.0 2 2 4 2 0 1 0 2 18
+p341
+aVAl Jefferson UTA 02/06/2013 UTA vs. MIL W 31 19 8 12 66.7 0 0 - 3 4 75.0 6 5 11 3 1 0 0 2 6
+p342
+aVRandy Foye UTA 02/06/2013 UTA vs. MIL W 28 12 4 12 33.3 2 5 40.0 2 2 100.0 0 1 1 1 0 0 3 5 7
+p343
+aVPaul Millsap UTA 02/06/2013 UTA vs. MIL W 37 19 8 15 53.3 0 0 - 3 4 75.0 0 6 6 5 2 4 2 2 12
+p344
+aVAlec Burks UTA 02/06/2013 UTA vs. MIL W 29 8 3 6 50.0 2 2 100.0 0 0 - 0 3 3 3 1 0 4 4 14
+p345
+aVDerrick Favors UTA 02/06/2013 UTA vs. MIL W 22 9 3 8 37.5 0 0 - 3 7 42.9 3 8 11 2 3 3 4 3 9
+p346
+aVJeremy Evans UTA 02/06/2013 UTA vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p347
+aVKevin Murphy UTA 02/06/2013 UTA vs. MIL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p348
+aVMarvin Williams UTA 02/06/2013 UTA vs. MIL W 21 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 4 2 0
+p349
+aVJamaal Tinsley UTA 02/06/2013 UTA vs. MIL W 19 2 1 3 33.3 0 0 - 0 0 - 1 3 4 5 2 0 1 2 0
+p350
+aVEnes Kanter UTA 02/04/2013 UTA vs. SAC W 14 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 1 1 2 1 6
+p351
+aVDerrick Favors UTA 02/04/2013 UTA vs. SAC W 24 13 5 7 71.4 0 0 - 3 4 75.0 2 7 9 1 1 1 1 3 12
+p352
+aVAl Jefferson UTA 02/04/2013 UTA vs. SAC W 38 15 7 17 41.2 0 1 0.0 1 2 50.0 1 11 12 5 1 2 4 1 1
+p353
+aVRandy Foye UTA 02/04/2013 UTA vs. SAC W 36 20 6 12 50.0 3 5 60.0 5 6 83.3 0 0 0 6 0 0 3 4 1
+p354
+aVDeMarre Carroll UTA 02/04/2013 UTA vs. SAC W 22 10 5 8 62.5 0 0 - 0 0 - 1 1 2 0 0 0 1 2 13
+p355
+aVAlec Burks UTA 02/04/2013 UTA vs. SAC W 31 14 5 7 71.4 2 2 100.0 2 2 100.0 0 3 3 4 2 1 4 1 21
+p356
+aVPaul Millsap UTA 02/04/2013 UTA vs. SAC W 36 14 6 11 54.5 0 0 - 2 2 100.0 0 4 4 2 3 3 2 4 0
+p357
+aVMarvin Williams UTA 02/04/2013 UTA vs. SAC W 42 8 2 5 40.0 2 3 66.7 2 2 100.0 0 6 6 2 0 0 1 1 -5
+p358
+aVJamaal Tinsley UTA 02/04/2013 UTA vs. SAC W 22 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 5 0 0 2 2 -14
+p359
+aVAl Jefferson UTA 02/02/2013 UTA @ POR L 33 12 6 13 46.2 0 0 - 0 0 - 0 6 6 5 0 1 0 2 -8
+p360
+aVMarvin Williams UTA 02/02/2013 UTA @ POR L 32 15 7 13 53.8 1 3 33.3 0 0 - 2 4 6 2 2 0 0 4 -10
+p361
+aVAlec Burks UTA 02/02/2013 UTA @ POR L 19 5 1 6 16.7 1 1 100.0 2 2 100.0 0 2 2 1 1 0 0 1 0
+p362
+aVRandy Foye UTA 02/02/2013 UTA @ POR L 37 23 7 15 46.7 6 12 50.0 3 4 75.0 0 0 0 3 2 0 0 1 2
+p363
+aVEnes Kanter UTA 02/02/2013 UTA @ POR L 12 0 0 7 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -1
+p364
+aVDeMarre Carroll UTA 02/02/2013 UTA @ POR L 16 11 5 5 100.0 0 0 - 1 2 50.0 0 1 1 1 2 1 1 2 1
+p365
+aVPaul Millsap UTA 02/02/2013 UTA @ POR L 37 18 7 16 43.8 0 1 0.0 4 4 100.0 4 4 8 5 1 0 0 5 6
+p366
+aVJamaal Tinsley UTA 02/02/2013 UTA @ POR L 33 6 2 8 25.0 0 2 0.0 2 2 100.0 0 3 3 6 0 0 2 3 -12
+p367
+aVDerrick Favors UTA 02/02/2013 UTA @ POR L 21 9 4 7 57.1 0 0 - 1 2 50.0 3 4 7 1 1 0 1 3 -8
+p368
+aVDerrick Favors UTA 02/01/2013 UTA vs. POR W 23 7 3 9 33.3 0 1 0.0 1 3 33.3 2 10 12 1 1 1 1 3 3
+p369
+aVPaul Millsap UTA 02/01/2013 UTA vs. POR W 29 15 6 12 50.0 0 0 - 3 3 100.0 1 1 2 0 1 2 1 4 5
+p370
+aVEnes Kanter UTA 02/01/2013 UTA vs. POR W 6 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 2 1 4
+p371
+aVEarl Watson UTA 02/01/2013 UTA vs. POR W 22 3 1 1 100.0 1 1 100.0 0 0 - 0 4 4 7 1 0 2 2 3
+p372
+aVRandy Foye UTA 02/01/2013 UTA vs. POR W 36 14 4 17 23.5 3 11 27.3 3 4 75.0 0 7 7 3 1 0 2 3 9
+p373
+aVAlec Burks UTA 02/01/2013 UTA vs. POR W 21 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 1 0 0 1 1 5
+p374
+aVKevin Murphy UTA 02/01/2013 UTA vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p375
+aVJeremy Evans UTA 02/01/2013 UTA vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p376
+aVMarvin Williams UTA 02/01/2013 UTA vs. POR W 27 8 4 6 66.7 0 1 0.0 0 0 - 0 5 5 1 1 1 1 1 11
+p377
+aVJamaal Tinsley UTA 02/01/2013 UTA vs. POR W 16 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 2 3
+p378
+aVAl Jefferson UTA 02/01/2013 UTA vs. POR W 37 21 10 22 45.5 0 0 - 1 1 100.0 3 7 10 2 1 2 1 2 8
+p379
+aVDeMarre Carroll UTA 02/01/2013 UTA vs. POR W 21 13 5 8 62.5 0 0 - 3 4 75.0 2 0 2 2 1 0 2 2 -2
+p380
+aVEarl Watson UTA 01/30/2013 UTA vs. NOH W 27 1 0 2 0.0 0 0 - 1 2 50.0 1 5 6 5 0 0 0 4 11
+p381
+aVMarvin Williams UTA 01/30/2013 UTA vs. NOH W 36 11 2 10 20.0 1 4 25.0 6 6 100.0 0 7 7 1 2 1 3 2 -9
+p382
+aVJamaal Tinsley UTA 01/30/2013 UTA vs. NOH W 17 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 0 3 -4
+p383
+aVAl Jefferson UTA 01/30/2013 UTA vs. NOH W 34 22 10 18 55.6 0 0 - 2 4 50.0 3 2 5 2 0 1 0 1 -10
+p384
+aVDeMarre Carroll UTA 01/30/2013 UTA vs. NOH W 12 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 1 0 2 5 14
+p385
+aVRandy Foye UTA 01/30/2013 UTA vs. NOH W 35 14 4 10 40.0 2 6 33.3 4 7 57.1 0 0 0 8 1 0 4 1 -4
+p386
+aVDerrick Favors UTA 01/30/2013 UTA vs. NOH W 23 15 6 9 66.7 0 0 - 3 5 60.0 1 5 6 1 0 1 1 4 8
+p387
+aVPaul Millsap UTA 01/30/2013 UTA vs. NOH W 34 25 7 12 58.3 0 0 - 11 16 68.8 2 8 10 1 0 2 2 2 6
+p388
+aVAlec Burks UTA 01/30/2013 UTA vs. NOH W 16 8 1 2 50.0 1 2 50.0 5 6 83.3 0 0 0 2 1 0 0 1 7
+p389
+aVEnes Kanter UTA 01/30/2013 UTA vs. NOH W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 6
+p390
+aVRandy Foye UTA 01/28/2013 UTA vs. HOU L 30 12 5 13 38.5 1 4 25.0 1 1 100.0 0 0 0 2 0 1 1 2 -23
+p391
+aVDerrick Favors UTA 01/28/2013 UTA vs. HOU L 27 11 4 9 44.4 0 1 0.0 3 6 50.0 3 2 5 2 0 3 3 4 -21
+p392
+aVMarvin Williams UTA 01/28/2013 UTA vs. HOU L 26 7 3 6 50.0 1 4 25.0 0 2 0.0 1 4 5 2 0 0 0 1 -22
+p393
+aVAl Jefferson UTA 01/28/2013 UTA vs. HOU L 28 10 5 14 35.7 0 0 - 0 0 - 2 6 8 3 0 2 2 3 -25
+p394
+aVEnes Kanter UTA 01/28/2013 UTA vs. HOU L 20 9 4 8 50.0 0 0 - 1 2 50.0 2 6 8 2 0 0 2 1 -20
+p395
+aVDeMarre Carroll UTA 01/28/2013 UTA vs. HOU L 11 4 1 3 33.3 0 1 0.0 2 2 100.0 2 0 2 1 0 1 1 1 -13
+p396
+aVPaul Millsap UTA 01/28/2013 UTA vs. HOU L 21 4 2 9 22.2 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -24
+p397
+aVEarl Watson UTA 01/28/2013 UTA vs. HOU L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 3 -5
+p398
+aVKevin Murphy UTA 01/28/2013 UTA vs. HOU L 12 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -11
+p399
+aVJeremy Evans UTA 01/28/2013 UTA vs. HOU L 11 0 0 1 0.0 0 1 0.0 0 0 - 2 1 3 0 0 0 1 2 -10
+p400
+aVAlec Burks UTA 01/28/2013 UTA vs. HOU L 26 8 2 6 33.3 0 0 - 4 6 66.7 1 0 1 4 0 1 2 0 -32
+p401
+aVJamaal Tinsley UTA 01/28/2013 UTA vs. HOU L 18 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 1 2 0 2 1 -19
+p402
+aVDeMarre Carroll UTA 01/26/2013 UTA vs. IND W 22 9 4 5 80.0 0 0 - 1 2 50.0 1 1 2 1 2 0 0 4 -5
+p403
+aVEarl Watson UTA 01/26/2013 UTA vs. IND W 31 2 1 1 100.0 0 0 - 0 0 - 2 2 4 5 2 0 0 1 1
+p404
+aVGordon Hayward UTA 01/26/2013 UTA vs. IND W 30 15 5 12 41.7 0 2 0.0 5 5 100.0 1 2 3 6 3 1 6 3 -3
+p405
+aVEnes Kanter UTA 01/26/2013 UTA vs. IND W 11 6 3 6 50.0 0 0 - 0 0 - 3 0 3 0 0 0 1 1 -1
+p406
+aVRandy Foye UTA 01/26/2013 UTA vs. IND W 28 14 4 6 66.7 2 4 50.0 4 4 100.0 0 0 0 2 1 0 0 0 10
+p407
+aVJamaal Tinsley UTA 01/26/2013 UTA vs. IND W 22 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 9 1 0 0 2 5
+p408
+aVAl Jefferson UTA 01/26/2013 UTA vs. IND W 37 25 11 20 55.0 0 0 - 3 4 75.0 1 5 6 1 2 2 0 2 3
+p409
+aVMarvin Williams UTA 01/26/2013 UTA vs. IND W 26 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 2 1 1 2 0 4
+p410
+aVDerrick Favors UTA 01/26/2013 UTA vs. IND W 19 11 4 9 44.4 0 0 - 3 4 75.0 1 3 4 0 0 0 1 3 -1
+p411
+aVPaul Millsap UTA 01/26/2013 UTA vs. IND W 38 21 8 13 61.5 0 0 - 5 5 100.0 0 4 4 2 5 2 4 2 7
+p412
+aVAlec Burks UTA 01/25/2013 UTA @ LAL L 18 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 1 0 1 2 1 -3
+p413
+aVRandy Foye UTA 01/25/2013 UTA @ LAL L 27 10 4 10 40.0 2 5 40.0 0 0 - 0 0 0 3 1 0 1 1 -13
+p414
+aVDerrick Favors UTA 01/25/2013 UTA @ LAL L 24 14 5 5 100.0 0 0 - 4 4 100.0 4 1 5 0 2 1 0 3 -5
+p415
+aVGordon Hayward UTA 01/25/2013 UTA @ LAL L 23 13 5 10 50.0 0 2 0.0 3 5 60.0 1 1 2 2 0 0 1 0 -11
+p416
+aVJeremy Evans UTA 01/25/2013 UTA @ LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p417
+aVAl Jefferson UTA 01/25/2013 UTA @ LAL L 29 12 5 14 35.7 0 0 - 2 2 100.0 1 6 7 0 1 1 2 2 -17
+p418
+aVEarl Watson UTA 01/25/2013 UTA @ LAL L 21 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 2 0 1 2 -16
+p419
+aVEnes Kanter UTA 01/25/2013 UTA @ LAL L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 0 1
+p420
+aVJamaal Tinsley UTA 01/25/2013 UTA @ LAL L 23 6 3 12 25.0 0 2 0.0 0 0 - 1 2 3 6 1 0 1 0 2
+p421
+aVPaul Millsap UTA 01/25/2013 UTA @ LAL L 31 10 5 11 45.5 0 1 0.0 0 0 - 2 4 6 0 4 1 2 1 -15
+p422
+aVMarvin Williams UTA 01/25/2013 UTA @ LAL L 22 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 1 1 0 0 2 -5
+p423
+aVDeMarre Carroll UTA 01/25/2013 UTA @ LAL L 4 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 1 0 0 0 -2
+p424
+aVKevin Murphy UTA 01/25/2013 UTA @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p425
+aVDeMarre Carroll UTA 01/23/2013 UTA vs. WAS W 10 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 10
+p426
+aVMarvin Williams UTA 01/23/2013 UTA vs. WAS W 20 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 3
+p427
+aVEarl Watson UTA 01/23/2013 UTA vs. WAS W 13 4 2 2 100.0 0 0 - 0 0 - 0 2 2 3 0 1 1 2 1
+p428
+aVDerrick Favors UTA 01/23/2013 UTA vs. WAS W 21 8 4 8 50.0 0 0 - 0 0 - 0 7 7 1 1 0 2 1 5
+p429
+aVRandy Foye UTA 01/23/2013 UTA vs. WAS W 34 12 4 8 50.0 2 3 66.7 2 2 100.0 0 1 1 3 0 1 2 4 8
+p430
+aVGordon Hayward UTA 01/23/2013 UTA vs. WAS W 28 15 5 12 41.7 0 2 0.0 5 7 71.4 1 4 5 4 0 1 1 0 1
+p431
+aVPaul Millsap UTA 01/23/2013 UTA vs. WAS W 32 16 7 13 53.8 0 0 - 2 4 50.0 3 12 15 3 3 2 3 3 0
+p432
+aVAlec Burks UTA 01/23/2013 UTA vs. WAS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -14
+p433
+aVEnes Kanter UTA 01/23/2013 UTA vs. WAS W 11 10 4 4 100.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 1 3
+p434
+aVAl Jefferson UTA 01/23/2013 UTA vs. WAS W 32 11 5 17 29.4 0 1 0.0 1 2 50.0 1 9 10 2 2 2 0 2 0
+p435
+aVJamaal Tinsley UTA 01/23/2013 UTA vs. WAS W 35 11 5 11 45.5 1 4 25.0 0 0 - 2 3 5 6 2 0 5 3 3
+p436
+aVMarvin Williams UTA 01/19/2013 UTA vs. CLE W 21 5 1 5 20.0 1 3 33.3 2 2 100.0 0 1 1 0 0 1 0 1 11
+p437
+aVEarl Watson UTA 01/19/2013 UTA vs. CLE W 25 0 0 1 0.0 0 0 - 0 0 - 1 1 2 9 1 1 2 3 4
+p438
+aVEnes Kanter UTA 01/19/2013 UTA vs. CLE W 18 14 7 8 87.5 0 0 - 0 0 - 2 3 5 1 1 0 0 2 -4
+p439
+aVJeremy Evans UTA 01/19/2013 UTA vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p440
+aVDeMarre Carroll UTA 01/19/2013 UTA vs. CLE W 17 13 5 7 71.4 0 0 - 3 3 100.0 3 2 5 0 2 0 0 2 -4
+p441
+aVJamaal Tinsley UTA 01/19/2013 UTA vs. CLE W 22 11 5 7 71.4 1 2 50.0 0 0 - 0 2 2 4 0 0 0 2 9
+p442
+aVAlec Burks UTA 01/19/2013 UTA vs. CLE W 4 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 2 2
+p443
+aVRandy Foye UTA 01/19/2013 UTA vs. CLE W 29 20 8 15 53.3 4 8 50.0 0 0 - 1 1 2 3 2 0 1 2 13
+p444
+aVKevin Murphy UTA 01/19/2013 UTA vs. CLE W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p445
+aVDerrick Favors UTA 01/19/2013 UTA vs. CLE W 25 19 7 11 63.6 0 0 - 5 7 71.4 1 7 8 0 1 1 3 4 5
+p446
+aVGordon Hayward UTA 01/19/2013 UTA vs. CLE W 24 5 2 10 20.0 0 0 - 1 2 50.0 1 2 3 4 0 0 1 2 0
+p447
+aVPaul Millsap UTA 01/19/2013 UTA vs. CLE W 22 8 3 7 42.9 0 0 - 2 3 66.7 2 3 5 4 0 2 0 3 8
+p448
+aVAl Jefferson UTA 01/19/2013 UTA vs. CLE W 30 14 7 14 50.0 0 0 - 0 0 - 3 8 11 4 0 0 1 1 15
+p449
+aVAlec Burks UTA 01/14/2013 UTA vs. MIA W 8 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 0 -13
+p450
+aVDeMarre Carroll UTA 01/14/2013 UTA vs. MIA W 15 12 5 7 71.4 0 0 - 2 3 66.7 3 1 4 2 1 0 1 1 6
+p451
+aVDerrick Favors UTA 01/14/2013 UTA vs. MIA W 18 7 3 4 75.0 0 0 - 1 1 100.0 0 1 1 2 0 1 0 2 5
+p452
+aVEnes Kanter UTA 01/14/2013 UTA vs. MIA W 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 9
+p453
+aVMarvin Williams UTA 01/14/2013 UTA vs. MIA W 33 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 2 2 1 1 1 1
+p454
+aVRandy Foye UTA 01/14/2013 UTA vs. MIA W 21 9 3 6 50.0 3 4 75.0 0 0 - 1 1 2 2 1 0 0 3 4
+p455
+aVJamaal Tinsley UTA 01/14/2013 UTA vs. MIA W 31 3 1 7 14.3 1 5 20.0 0 0 - 0 5 5 7 1 0 5 3 10
+p456
+aVGordon Hayward UTA 01/14/2013 UTA vs. MIA W 27 22 8 13 61.5 3 4 75.0 3 4 75.0 0 2 2 4 0 0 2 2 3
+p457
+aVPaul Millsap UTA 01/14/2013 UTA vs. MIA W 33 17 4 14 28.6 0 0 - 9 10 90.0 5 4 9 0 2 0 1 3 -3
+p458
+aVEarl Watson UTA 01/14/2013 UTA vs. MIA W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 3 1 0 0 0 10
+p459
+aVAl Jefferson UTA 01/14/2013 UTA vs. MIA W 38 23 8 14 57.1 0 0 - 7 8 87.5 4 7 11 1 1 0 2 4 3
+p460
+aVAlec Burks UTA 01/12/2013 UTA @ DET W 25 12 5 7 71.4 2 2 100.0 0 0 - 0 3 3 2 1 0 3 4 6
+p461
+aVPaul Millsap UTA 01/12/2013 UTA @ DET W 33 17 6 13 46.2 0 0 - 5 6 83.3 2 5 7 1 0 0 2 1 5
+p462
+aVDeMarre Carroll UTA 01/12/2013 UTA @ DET W 24 5 2 5 40.0 0 1 0.0 1 1 100.0 1 1 2 2 2 0 0 4 0
+p463
+aVEarl Watson UTA 01/12/2013 UTA @ DET W 26 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 6 1 0 2 3 0
+p464
+aVJamaal Tinsley UTA 01/12/2013 UTA @ DET W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p465
+aVDerrick Favors UTA 01/12/2013 UTA @ DET W 19 7 3 5 60.0 0 0 - 1 4 25.0 0 3 3 2 1 0 1 3 2
+p466
+aVEnes Kanter UTA 01/12/2013 UTA @ DET W 8 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 1 2 0 -2
+p467
+aVAl Jefferson UTA 01/12/2013 UTA @ DET W 36 20 10 18 55.6 0 0 - 0 0 - 2 8 10 3 4 0 0 1 1
+p468
+aVGordon Hayward UTA 01/12/2013 UTA @ DET W 29 6 2 8 25.0 0 1 0.0 2 3 66.7 2 0 2 5 1 1 1 2 -5
+p469
+aVRandy Foye UTA 01/12/2013 UTA @ DET W 35 17 6 9 66.7 3 5 60.0 2 2 100.0 0 1 1 0 2 1 5 4 15
+p470
+aVEarl Watson UTA 01/11/2013 UTA @ ATL L 21 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 5 1 0 1 3 -10
+p471
+aVPaul Millsap UTA 01/11/2013 UTA @ ATL L 36 20 8 16 50.0 0 1 0.0 4 4 100.0 3 10 13 5 2 0 1 5 7
+p472
+aVGordon Hayward UTA 01/11/2013 UTA @ ATL L 29 12 4 9 44.4 0 4 0.0 4 4 100.0 0 1 1 2 0 1 2 1 -19
+p473
+aVAl Jefferson UTA 01/11/2013 UTA @ ATL L 38 23 10 19 52.6 0 0 - 3 5 60.0 1 9 10 3 1 0 2 0 0
+p474
+aVRandy Foye UTA 01/11/2013 UTA @ ATL L 41 25 8 12 66.7 6 7 85.7 3 4 75.0 0 0 0 2 2 0 2 3 0
+p475
+aVDeMarre Carroll UTA 01/11/2013 UTA @ ATL L 19 7 3 6 50.0 1 4 25.0 0 0 - 0 1 1 2 1 0 0 0 11
+p476
+aVEnes Kanter UTA 01/11/2013 UTA @ ATL L 7 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 1 0 0 1 -10
+p477
+aVAlec Burks UTA 01/11/2013 UTA @ ATL L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 4 -8
+p478
+aVJamaal Tinsley UTA 01/11/2013 UTA @ ATL L 27 4 1 3 33.3 1 2 50.0 1 2 50.0 0 2 2 9 0 1 4 2 2
+p479
+aVDerrick Favors UTA 01/11/2013 UTA @ ATL L 15 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 2 3 3 -13
+p480
+aVEarl Watson UTA 01/09/2013 UTA @ CHA W 7 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 2 1 1 -5
+p481
+aVRandy Foye UTA 01/09/2013 UTA @ CHA W 32 9 3 9 33.3 3 6 50.0 0 0 - 1 4 5 4 1 0 1 3 23
+p482
+aVJeremy Evans UTA 01/09/2013 UTA @ CHA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -5
+p483
+aVEnes Kanter UTA 01/09/2013 UTA @ CHA W 14 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 1 2 2 1 -15
+p484
+aVDerrick Favors UTA 01/09/2013 UTA @ CHA W 20 10 5 5 100.0 0 0 - 0 0 - 1 5 6 3 1 2 2 3 1
+p485
+aVDeMarre Carroll UTA 01/09/2013 UTA @ CHA W 28 10 4 6 66.7 2 2 100.0 0 2 0.0 2 4 6 1 0 1 1 2 -4
+p486
+aVAlec Burks UTA 01/09/2013 UTA @ CHA W 28 12 4 9 44.4 0 2 0.0 4 5 80.0 0 2 2 3 1 1 1 4 5
+p487
+aVPaul Millsap UTA 01/09/2013 UTA @ CHA W 27 19 8 12 66.7 0 0 - 3 5 60.0 2 3 5 5 0 3 1 3 15
+p488
+aVAl Jefferson UTA 01/09/2013 UTA @ CHA W 32 26 11 15 73.3 0 1 0.0 4 4 100.0 1 7 8 2 1 0 2 0 24
+p489
+aVKevin Murphy UTA 01/09/2013 UTA @ CHA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p490
+aVJamaal Tinsley UTA 01/09/2013 UTA @ CHA W 20 9 4 8 50.0 1 5 20.0 0 0 - 1 1 2 8 2 0 2 1 5
+p491
+aVGordon Hayward UTA 01/09/2013 UTA @ CHA W 26 14 4 10 40.0 4 5 80.0 2 3 66.7 1 3 4 3 0 0 2 4 11
+p492
+aVAlec Burks UTA 01/07/2013 UTA vs. DAL W 22 13 2 7 28.6 1 2 50.0 8 9 88.9 2 2 4 0 1 1 1 1 11
+p493
+aVPaul Millsap UTA 01/07/2013 UTA vs. DAL W 35 14 6 14 42.9 0 0 - 2 2 100.0 1 8 9 2 2 1 2 5 11
+p494
+aVRandy Foye UTA 01/07/2013 UTA vs. DAL W 32 10 2 7 28.6 2 5 40.0 4 5 80.0 0 0 0 2 1 1 0 0 6
+p495
+aVEnes Kanter UTA 01/07/2013 UTA vs. DAL W 15 6 3 6 50.0 0 0 - 0 0 - 5 2 7 0 1 0 0 3 -1
+p496
+aVDerrick Favors UTA 01/07/2013 UTA vs. DAL W 13 4 1 3 33.3 0 0 - 2 5 40.0 0 4 4 0 0 1 2 5 -5
+p497
+aVEarl Watson UTA 01/07/2013 UTA vs. DAL W 18 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 2 0
+p498
+aVAl Jefferson UTA 01/07/2013 UTA vs. DAL W 32 15 5 14 35.7 0 0 - 5 6 83.3 1 10 11 4 0 1 0 3 7
+p499
+aVMarvin Williams UTA 01/07/2013 UTA vs. DAL W 16 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 0 0 1 1 0 6
+p500
+aVGordon Hayward UTA 01/07/2013 UTA vs. DAL W 34 27 8 14 57.1 4 5 80.0 7 9 77.8 0 6 6 5 1 2 0 0 6
+p501
+aVJamaal Tinsley UTA 01/07/2013 UTA vs. DAL W 21 5 2 7 28.6 1 3 33.3 0 0 - 0 3 3 6 1 0 3 3 -11
+p502
+aVEarl Watson UTA 01/05/2013 UTA @ DEN L 17 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 2 2 0 2 1 -7
+p503
+aVPaul Millsap UTA 01/05/2013 UTA @ DEN L 33 15 4 12 33.3 0 1 0.0 7 9 77.8 3 4 7 3 4 3 4 4 -22
+p504
+aVMarvin Williams UTA 01/05/2013 UTA @ DEN L 32 13 4 10 40.0 3 6 50.0 2 2 100.0 0 4 4 2 1 0 0 2 -12
+p505
+aVGordon Hayward UTA 01/05/2013 UTA @ DEN L 19 14 5 12 41.7 2 4 50.0 2 3 66.7 1 1 2 0 2 1 2 2 -16
+p506
+aVAl Jefferson UTA 01/05/2013 UTA @ DEN L 32 12 4 13 30.8 0 1 0.0 4 5 80.0 3 5 8 2 0 0 2 2 -12
+p507
+aVJamaal Tinsley UTA 01/05/2013 UTA @ DEN L 21 5 2 5 40.0 1 3 33.3 0 2 0.0 0 4 4 5 2 1 1 1 -9
+p508
+aVDeMarre Carroll UTA 01/05/2013 UTA @ DEN L 11 4 0 1 0.0 0 1 0.0 4 4 100.0 1 1 2 1 2 0 2 6 2
+p509
+aVRandy Foye UTA 01/05/2013 UTA @ DEN L 26 8 2 9 22.2 1 5 20.0 3 4 75.0 1 2 3 2 0 0 3 3 -5
+p510
+aVAlec Burks UTA 01/05/2013 UTA @ DEN L 17 9 3 5 60.0 1 2 50.0 2 4 50.0 1 1 2 1 0 0 0 2 -10
+p511
+aVDerrick Favors UTA 01/05/2013 UTA @ DEN L 25 4 1 6 16.7 0 0 - 2 2 100.0 3 5 8 2 3 1 3 4 -8
+p512
+aVJeremy Evans UTA 01/05/2013 UTA @ DEN L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p513
+aVPaul Millsap UTA 01/04/2013 UTA @ PHX W 33 19 9 16 56.3 0 1 0.0 1 2 50.0 4 6 10 3 5 0 1 3 20
+p514
+aVAl Jefferson UTA 01/04/2013 UTA @ PHX W 30 21 8 17 47.1 0 0 - 5 5 100.0 0 8 8 3 1 1 0 2 3
+p515
+aVRandy Foye UTA 01/04/2013 UTA @ PHX W 27 13 6 10 60.0 1 2 50.0 0 0 - 0 1 1 2 1 0 2 1 -1
+p516
+aVDeMarre Carroll UTA 01/04/2013 UTA @ PHX W 11 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -3
+p517
+aVMarvin Williams UTA 01/04/2013 UTA @ PHX W 21 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 2 0 2 3 1
+p518
+aVDerrick Favors UTA 01/04/2013 UTA @ PHX W 32 10 5 11 45.5 0 1 0.0 0 0 - 3 6 9 2 1 1 1 4 0
+p519
+aVGordon Hayward UTA 01/04/2013 UTA @ PHX W 25 14 7 15 46.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 15
+p520
+aVEarl Watson UTA 01/04/2013 UTA @ PHX W 19 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 8 0 0 2 0 0
+p521
+aVJamaal Tinsley UTA 01/04/2013 UTA @ PHX W 20 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 5 1 1 1 1 5
+p522
+aVAlec Burks UTA 01/04/2013 UTA @ PHX W 21 4 2 7 28.6 0 1 0.0 0 2 0.0 0 2 2 3 0 0 1 2 4
+p523
+aVJeremy Evans UTA 01/04/2013 UTA @ PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p524
+aVDerrick Favors UTA 01/02/2013 UTA vs. MIN W 16 8 4 6 66.7 0 0 - 0 0 - 4 2 6 1 0 3 1 3 -2
+p525
+aVAlec Burks UTA 01/02/2013 UTA vs. MIN W 13 8 2 6 33.3 0 0 - 4 4 100.0 2 2 4 0 1 0 2 4 10
+p526
+aVJeremy Evans UTA 01/02/2013 UTA vs. MIN W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 1 0 0 0
+p527
+aVJamaal Tinsley UTA 01/02/2013 UTA vs. MIN W 24 12 6 8 75.0 0 2 0.0 0 0 - 0 6 6 3 0 0 1 3 11
+p528
+aVMarvin Williams UTA 01/02/2013 UTA vs. MIN W 27 11 4 10 40.0 1 4 25.0 2 2 100.0 1 4 5 3 1 2 0 3 7
+p529
+aVGordon Hayward UTA 01/02/2013 UTA vs. MIN W 23 17 6 12 50.0 3 4 75.0 2 2 100.0 1 2 3 0 0 0 1 0 8
+p530
+aVDeMarre Carroll UTA 01/02/2013 UTA vs. MIN W 13 2 1 6 16.7 0 0 - 0 0 - 3 4 7 0 0 1 1 0 5
+p531
+aVPaul Millsap UTA 01/02/2013 UTA vs. MIN W 27 14 7 8 87.5 0 0 - 0 0 - 0 0 0 3 3 1 2 2 24
+p532
+aVEarl Watson UTA 01/02/2013 UTA vs. MIN W 24 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 9 0 0 0 2 11
+p533
+aVEnes Kanter UTA 01/02/2013 UTA vs. MIN W 20 15 5 10 50.0 0 0 - 5 6 83.3 2 6 8 1 1 0 3 5 19
+p534
+aVAl Jefferson UTA 01/02/2013 UTA vs. MIN W 28 12 6 13 46.2 0 0 - 0 0 - 1 4 5 2 1 4 1 2 3
+p535
+aVRandy Foye UTA 01/02/2013 UTA vs. MIN W 21 4 1 4 25.0 0 1 0.0 2 3 66.7 0 1 1 2 0 0 0 2 14
+p536
+aVJamaal Tinsley UTA 12/30/2012 UTA @ LAC L 27 8 3 7 42.9 1 3 33.3 1 2 50.0 0 1 1 11 2 0 5 0 -6
+p537
+aVDerrick Favors UTA 12/30/2012 UTA @ LAC L 29 11 3 6 50.0 0 0 - 5 6 83.3 1 6 7 3 1 1 2 4 -9
+p538
+aVRandy Foye UTA 12/30/2012 UTA @ LAC L 28 10 3 8 37.5 2 2 100.0 2 3 66.7 0 1 1 1 1 0 0 5 -11
+p539
+aVAl Jefferson UTA 12/30/2012 UTA @ LAC L 34 30 13 22 59.1 0 0 - 4 5 80.0 0 8 8 2 1 4 2 2 -2
+p540
+aVEnes Kanter UTA 12/30/2012 UTA @ LAC L 13 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 0 0 2 3 -6
+p541
+aVGordon Hayward UTA 12/30/2012 UTA @ LAC L 28 16 5 15 33.3 1 4 25.0 5 5 100.0 2 3 5 2 2 0 2 1 -1
+p542
+aVAlec Burks UTA 12/30/2012 UTA @ LAC L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 2 3
+p543
+aVPaul Millsap UTA 12/30/2012 UTA @ LAC L 20 9 2 7 28.6 0 0 - 5 9 55.6 1 2 3 2 0 1 0 2 -5
+p544
+aVDeMarre Carroll UTA 12/30/2012 UTA @ LAC L 25 6 2 5 40.0 1 2 50.0 1 2 50.0 4 4 8 0 1 0 0 3 -13
+p545
+aVEarl Watson UTA 12/30/2012 UTA @ LAC L 21 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 5 1 0 1 2 -5
+p546
+aVEarl Watson UTA 12/28/2012 UTA vs. LAC L 19 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 2 3 5
+p547
+aVMarvin Williams UTA 12/28/2012 UTA vs. LAC L 20 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -9
+p548
+aVPaul Millsap UTA 12/28/2012 UTA vs. LAC L 29 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 3 0 0 2 2 -14
+p549
+aVEnes Kanter UTA 12/28/2012 UTA vs. LAC L 15 8 2 3 66.7 0 0 - 4 4 100.0 2 3 5 2 2 1 2 1 15
+p550
+aVAlec Burks UTA 12/28/2012 UTA vs. LAC L 19 11 3 8 37.5 1 2 50.0 4 4 100.0 1 1 2 0 1 0 0 5 17
+p551
+aVGordon Hayward UTA 12/28/2012 UTA vs. LAC L 28 17 3 6 50.0 2 2 100.0 9 11 81.8 0 3 3 4 0 2 0 5 7
+p552
+aVDerrick Favors UTA 12/28/2012 UTA vs. LAC L 19 5 2 7 28.6 0 0 - 1 1 100.0 2 2 4 2 1 0 4 5 12
+p553
+aVJamaal Tinsley UTA 12/28/2012 UTA vs. LAC L 29 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 5 1 1 4 5 -8
+p554
+aVRandy Foye UTA 12/28/2012 UTA vs. LAC L 29 28 8 13 61.5 5 9 55.6 7 8 87.5 1 4 5 1 0 1 1 1 -18
+p555
+aVAl Jefferson UTA 12/28/2012 UTA vs. LAC L 33 22 7 17 41.2 0 0 - 8 8 100.0 1 7 8 3 2 2 1 3 -17
+p556
+aVAlec Burks UTA 12/26/2012 UTA vs. GSW L 24 9 4 11 36.4 0 1 0.0 1 2 50.0 3 5 8 2 0 0 1 0 4
+p557
+aVDerrick Favors UTA 12/26/2012 UTA vs. GSW L 20 9 3 8 37.5 0 0 - 3 4 75.0 0 3 3 0 2 0 2 5 -14
+p558
+aVJeremy Evans UTA 12/26/2012 UTA vs. GSW L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 7
+p559
+aVDeMarre Carroll UTA 12/26/2012 UTA vs. GSW L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 7
+p560
+aVEnes Kanter UTA 12/26/2012 UTA vs. GSW L 18 10 4 4 100.0 0 0 - 2 4 50.0 1 2 3 0 0 0 1 1 1
+p561
+aVRandy Foye UTA 12/26/2012 UTA vs. GSW L 24 8 3 10 30.0 2 8 25.0 0 0 - 0 2 2 1 0 0 1 1 -15
+p562
+aVEarl Watson UTA 12/26/2012 UTA vs. GSW L 27 0 0 2 0.0 0 0 - 0 0 - 0 3 3 3 1 0 4 3 -2
+p563
+aVJamaal Tinsley UTA 12/26/2012 UTA vs. GSW L 21 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 3 3 -9
+p564
+aVPaul Millsap UTA 12/26/2012 UTA vs. GSW L 25 14 4 10 40.0 0 0 - 6 6 100.0 1 6 7 2 0 0 0 1 -4
+p565
+aVAl Jefferson UTA 12/26/2012 UTA vs. GSW L 30 18 8 15 53.3 0 0 - 2 2 100.0 3 7 10 1 0 1 0 1 -12
+p566
+aVGordon Hayward UTA 12/26/2012 UTA vs. GSW L 26 9 3 10 30.0 2 5 40.0 1 4 25.0 1 2 3 3 0 0 1 1 -5
+p567
+aVMarvin Williams UTA 12/26/2012 UTA vs. GSW L 19 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 1 0 1 1 0 -13
+p568
+aVJamaal Tinsley UTA 12/23/2012 UTA @ ORL W 27 11 3 9 33.3 3 8 37.5 2 2 100.0 1 2 3 4 2 0 2 1 4
+p569
+aVEnes Kanter UTA 12/23/2012 UTA @ ORL W 15 4 2 7 28.6 0 0 - 0 0 - 6 1 7 0 0 0 3 1 4
+p570
+aVRandy Foye UTA 12/23/2012 UTA @ ORL W 28 10 3 8 37.5 2 4 50.0 2 2 100.0 0 3 3 1 2 1 1 4 6
+p571
+aVDeMarre Carroll UTA 12/23/2012 UTA @ ORL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p572
+aVGordon Hayward UTA 12/23/2012 UTA @ ORL W 26 17 7 10 70.0 0 0 - 3 3 100.0 0 0 0 1 1 1 1 2 2
+p573
+aVAlec Burks UTA 12/23/2012 UTA @ ORL W 20 8 3 7 42.9 0 1 0.0 2 3 66.7 0 2 2 3 1 0 1 3 17
+p574
+aVMarvin Williams UTA 12/23/2012 UTA @ ORL W 17 3 1 6 16.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p575
+aVEarl Watson UTA 12/23/2012 UTA @ ORL W 21 2 0 2 0.0 0 1 0.0 2 4 50.0 0 1 1 8 0 0 1 1 0
+p576
+aVDerrick Favors UTA 12/23/2012 UTA @ ORL W 18 12 5 8 62.5 0 0 - 2 3 66.7 1 3 4 0 0 1 0 3 -2
+p577
+aVAl Jefferson UTA 12/23/2012 UTA @ ORL W 33 12 6 14 42.9 0 1 0.0 0 0 - 2 7 9 3 0 0 2 0 0
+p578
+aVPaul Millsap UTA 12/23/2012 UTA @ ORL W 30 18 6 12 50.0 1 2 50.0 5 8 62.5 3 4 7 1 0 0 0 2 8
+p579
+aVEnes Kanter UTA 12/22/2012 UTA @ MIA L 11 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 1 0 2 2 2
+p580
+aVEarl Watson UTA 12/22/2012 UTA @ MIA L 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 4 2 0 2 1 -10
+p581
+aVAlec Burks UTA 12/22/2012 UTA @ MIA L 3 5 2 3 66.7 0 0 - 1 3 33.3 0 0 0 0 0 0 0 0 1
+p582
+aVRandy Foye UTA 12/22/2012 UTA @ MIA L 23 2 1 9 11.1 0 4 0.0 0 0 - 0 2 2 1 1 0 0 3 -25
+p583
+aVMarvin Williams UTA 12/22/2012 UTA @ MIA L 27 16 7 12 58.3 2 5 40.0 0 0 - 3 1 4 1 0 0 1 1 -10
+p584
+aVMo Williams UTA 12/22/2012 UTA @ MIA L 16 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 4 1 0 3 0 -2
+p585
+aVDerrick Favors UTA 12/22/2012 UTA @ MIA L 24 10 2 8 25.0 0 0 - 6 6 100.0 2 2 4 0 2 0 1 2 8
+p586
+aVDeMarre Carroll UTA 12/22/2012 UTA @ MIA L 15 3 1 4 25.0 0 1 0.0 1 2 50.0 1 2 3 2 1 0 1 2 1
+p587
+aVPaul Millsap UTA 12/22/2012 UTA @ MIA L 29 11 3 9 33.3 0 0 - 5 6 83.3 2 3 5 1 1 0 3 3 -27
+p588
+aVGordon Hayward UTA 12/22/2012 UTA @ MIA L 27 15 5 8 62.5 2 2 100.0 3 3 100.0 0 1 1 0 0 0 3 2 -5
+p589
+aVJamaal Tinsley UTA 12/22/2012 UTA @ MIA L 14 8 2 3 66.7 2 3 66.7 2 2 100.0 0 0 0 3 1 0 2 0 -2
+p590
+aVAl Jefferson UTA 12/22/2012 UTA @ MIA L 32 6 2 8 25.0 0 0 - 2 2 100.0 1 10 11 2 0 2 1 2 -12
+p591
+aVJeremy Evans UTA 12/22/2012 UTA @ MIA L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p592
+aVEarl Watson UTA 12/19/2012 UTA @ IND L 23 2 1 6 16.7 0 1 0.0 0 1 0.0 1 2 3 4 0 0 2 2 10
+p593
+aVAl Jefferson UTA 12/19/2012 UTA @ IND L 22 4 1 8 12.5 0 0 - 2 2 100.0 2 4 6 2 0 1 0 4 -27
+p594
+aVJeremy Evans UTA 12/19/2012 UTA @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p595
+aVAlec Burks UTA 12/19/2012 UTA @ IND L 14 12 5 10 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 1 9
+p596
+aVDerrick Favors UTA 12/19/2012 UTA @ IND L 28 16 7 13 53.8 0 0 - 2 5 40.0 4 5 9 0 1 3 0 3 1
+p597
+aVEnes Kanter UTA 12/19/2012 UTA @ IND L 23 9 2 5 40.0 0 0 - 5 6 83.3 4 5 9 0 0 1 2 4 9
+p598
+aVMarvin Williams UTA 12/19/2012 UTA @ IND L 21 6 3 5 60.0 0 2 0.0 0 0 - 1 2 3 1 0 0 2 0 -23
+p599
+aVGordon Hayward UTA 12/19/2012 UTA @ IND L 13 8 2 6 33.3 0 1 0.0 4 5 80.0 0 2 2 1 1 0 5 2 -6
+p600
+aVDeMarre Carroll UTA 12/19/2012 UTA @ IND L 19 2 1 4 25.0 0 1 0.0 0 0 - 0 5 5 1 1 0 0 2 3
+p601
+aVPaul Millsap UTA 12/19/2012 UTA @ IND L 23 7 2 7 28.6 0 0 - 3 4 75.0 4 5 9 3 0 1 0 3 -23
+p602
+aVMo Williams UTA 12/19/2012 UTA @ IND L 25 11 5 11 45.5 1 3 33.3 0 0 - 0 0 0 3 0 0 4 1 -30
+p603
+aVRandy Foye UTA 12/19/2012 UTA @ IND L 22 7 3 10 30.0 1 6 16.7 0 0 - 0 1 1 2 1 0 0 1 -28
+p604
+aVDeMarre Carroll UTA 12/18/2012 UTA @ BKN W 18 2 1 2 50.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 1 -4
+p605
+aVGordon Hayward UTA 12/18/2012 UTA @ BKN W 21 7 2 3 66.7 0 1 0.0 3 3 100.0 0 4 4 5 0 2 4 2 1
+p606
+aVAl Jefferson UTA 12/18/2012 UTA @ BKN W 33 16 8 15 53.3 0 0 - 0 0 - 3 8 11 1 0 0 1 4 4
+p607
+aVMo Williams UTA 12/18/2012 UTA @ BKN W 36 19 6 17 35.3 3 7 42.9 4 4 100.0 1 1 2 6 0 0 5 2 7
+p608
+aVEnes Kanter UTA 12/18/2012 UTA @ BKN W 12 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 1 2 2 -13
+p609
+aVDerrick Favors UTA 12/18/2012 UTA @ BKN W 25 13 4 10 40.0 0 0 - 5 6 83.3 1 1 2 2 0 3 1 4 3
+p610
+aVMarvin Williams UTA 12/18/2012 UTA @ BKN W 30 11 5 11 45.5 0 3 0.0 1 2 50.0 5 5 10 2 1 0 0 2 6
+p611
+aVRandy Foye UTA 12/18/2012 UTA @ BKN W 27 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 3 0 0 1 4 1
+p612
+aVPaul Millsap UTA 12/18/2012 UTA @ BKN W 26 12 6 11 54.5 0 0 - 0 1 0.0 4 4 8 2 3 1 1 2 10
+p613
+aVJamaal Tinsley UTA 12/18/2012 UTA @ BKN W 12 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 2 1 1 0 1 -5
+p614
+aVDerrick Favors UTA 12/15/2012 UTA vs. MEM L 18 4 2 4 50.0 0 0 - 0 2 0.0 0 4 4 0 1 1 0 2 -8
+p615
+aVGordon Hayward UTA 12/15/2012 UTA vs. MEM L 29 11 3 8 37.5 1 3 33.3 4 5 80.0 1 1 2 5 0 0 3 2 -11
+p616
+aVAl Jefferson UTA 12/15/2012 UTA vs. MEM L 34 21 8 17 47.1 1 1 100.0 4 4 100.0 0 8 8 1 1 1 3 3 -19
+p617
+aVDeMarre Carroll UTA 12/15/2012 UTA vs. MEM L 21 8 2 5 40.0 1 1 100.0 3 4 75.0 0 5 5 0 2 0 0 0 3
+p618
+aVJamaal Tinsley UTA 12/15/2012 UTA vs. MEM L 17 3 1 8 12.5 1 3 33.3 0 0 - 1 0 1 3 0 1 1 1 4
+p619
+aVEnes Kanter UTA 12/15/2012 UTA vs. MEM L 14 10 4 4 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 2 0 6
+p620
+aVPaul Millsap UTA 12/15/2012 UTA vs. MEM L 30 12 4 8 50.0 0 1 0.0 4 5 80.0 3 1 4 2 0 0 0 3 -5
+p621
+aVRandy Foye UTA 12/15/2012 UTA vs. MEM L 23 4 2 5 40.0 0 2 0.0 0 0 - 2 3 5 1 2 0 2 2 -7
+p622
+aVMarvin Williams UTA 12/15/2012 UTA vs. MEM L 23 6 2 6 33.3 0 3 0.0 2 2 100.0 0 2 2 1 0 1 2 2 -11
+p623
+aVMo Williams UTA 12/15/2012 UTA vs. MEM L 31 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 7 0 0 2 5 -17
+p624
+aVAl Jefferson UTA 12/14/2012 UTA @ PHX L 34 14 6 16 37.5 0 0 - 2 2 100.0 1 10 11 1 0 3 0 2 -18
+p625
+aVMarvin Williams UTA 12/14/2012 UTA @ PHX L 27 11 5 8 62.5 1 1 100.0 0 0 - 1 4 5 0 0 1 1 1 -4
+p626
+aVRandy Foye UTA 12/14/2012 UTA @ PHX L 32 10 3 13 23.1 1 4 25.0 3 4 75.0 1 1 2 1 2 0 1 1 -4
+p627
+aVPaul Millsap UTA 12/14/2012 UTA @ PHX L 28 12 5 7 71.4 0 0 - 2 4 50.0 2 5 7 5 1 1 2 2 -5
+p628
+aVEnes Kanter UTA 12/14/2012 UTA @ PHX L 14 6 2 5 40.0 0 0 - 2 2 100.0 4 1 5 0 1 0 2 2 3
+p629
+aVDeMarre Carroll UTA 12/14/2012 UTA @ PHX L 21 8 4 9 44.4 0 1 0.0 0 0 - 2 0 2 2 2 0 1 2 -11
+p630
+aVGordon Hayward UTA 12/14/2012 UTA @ PHX L 16 3 0 5 0.0 0 2 0.0 3 4 75.0 0 0 0 1 2 0 1 2 -11
+p631
+aVJeremy Evans UTA 12/14/2012 UTA @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 4
+p632
+aVMo Williams UTA 12/14/2012 UTA @ PHX L 28 4 2 5 40.0 0 0 - 0 0 - 0 3 3 7 0 0 3 3 -5
+p633
+aVAlec Burks UTA 12/14/2012 UTA @ PHX L 3 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 1 0 0 4
+p634
+aVDerrick Favors UTA 12/14/2012 UTA @ PHX L 17 11 4 8 50.0 0 0 - 3 4 75.0 4 4 8 1 1 1 2 1 -14
+p635
+aVEarl Watson UTA 12/14/2012 UTA @ PHX L 17 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 2 0 2 1 -14
+p636
+aVEnes Kanter UTA 12/12/2012 UTA vs. SAS W 13 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 1 1 2 0 4
+p637
+aVDeMarre Carroll UTA 12/12/2012 UTA vs. SAS W 16 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 4
+p638
+aVMo Williams UTA 12/12/2012 UTA vs. SAS W 32 8 3 9 33.3 1 4 25.0 1 2 50.0 0 3 3 4 0 0 2 3 7
+p639
+aVRandy Foye UTA 12/12/2012 UTA vs. SAS W 32 13 5 10 50.0 3 6 50.0 0 1 0.0 0 2 2 2 1 0 2 1 -1
+p640
+aVEarl Watson UTA 12/12/2012 UTA vs. SAS W 16 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 5 1 0 1 3 -4
+p641
+aVMarvin Williams UTA 12/12/2012 UTA vs. SAS W 19 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 0 0 2 3 1 -10
+p642
+aVDerrick Favors UTA 12/12/2012 UTA vs. SAS W 12 6 2 4 50.0 0 0 - 2 4 50.0 0 2 2 1 1 0 1 1 -8
+p643
+aVPaul Millsap UTA 12/12/2012 UTA vs. SAS W 36 24 10 15 66.7 0 0 - 4 6 66.7 2 10 12 5 1 1 0 2 11
+p644
+aVAl Jefferson UTA 12/12/2012 UTA vs. SAS W 35 21 10 18 55.6 0 0 - 1 1 100.0 1 3 4 4 2 1 1 3 -1
+p645
+aVGordon Hayward UTA 12/12/2012 UTA vs. SAS W 29 19 7 14 50.0 4 6 66.7 1 1 100.0 1 6 7 6 0 1 1 0 13
+p646
+aVAl Jefferson UTA 12/09/2012 UTA @ LAL W 30 14 6 11 54.5 0 0 - 2 2 100.0 3 8 11 1 0 1 0 3 -1
+p647
+aVPaul Millsap UTA 12/09/2012 UTA @ LAL W 39 24 9 18 50.0 0 1 0.0 6 8 75.0 4 5 9 2 3 0 1 2 -3
+p648
+aVMo Williams UTA 12/09/2012 UTA @ LAL W 33 22 8 11 72.7 2 3 66.7 4 5 80.0 0 2 2 9 2 0 1 1 -4
+p649
+aVDeMarre Carroll UTA 12/09/2012 UTA @ LAL W 20 10 4 7 57.1 0 1 0.0 2 2 100.0 1 2 3 4 1 1 0 6 15
+p650
+aVEnes Kanter UTA 12/09/2012 UTA @ LAL W 18 14 6 8 75.0 0 0 - 2 4 50.0 4 2 6 0 0 1 2 4 8
+p651
+aVMarvin Williams UTA 12/09/2012 UTA @ LAL W 23 7 3 4 75.0 1 2 50.0 0 0 - 1 2 3 1 1 2 1 0 -4
+p652
+aVRandy Foye UTA 12/09/2012 UTA @ LAL W 23 7 3 10 30.0 1 6 16.7 0 0 - 0 0 0 4 1 1 2 2 -9
+p653
+aVJeremy Evans UTA 12/09/2012 UTA @ LAL W 9 0 0 0 - 0 0 - 0 0 - 3 0 3 0 0 1 0 0 10
+p654
+aVGordon Hayward UTA 12/09/2012 UTA @ LAL W 30 14 4 11 36.4 1 3 33.3 5 6 83.3 0 1 1 2 0 0 1 4 12
+p655
+aVJamaal Tinsley UTA 12/09/2012 UTA @ LAL W 15 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 3 1 0 1 0 11
+p656
+aVEarl Watson UTA 12/07/2012 UTA vs. TOR W 8 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 4 0 1 1 2 4
+p657
+aVDeMarre Carroll UTA 12/07/2012 UTA vs. TOR W 27 11 4 6 66.7 3 3 100.0 0 0 - 2 6 8 2 1 2 1 3 28
+p658
+aVEnes Kanter UTA 12/07/2012 UTA vs. TOR W 35 18 7 16 43.8 0 0 - 4 5 80.0 4 4 8 0 0 1 1 3 15
+p659
+aVJamaal Tinsley UTA 12/07/2012 UTA vs. TOR W 16 5 2 5 40.0 1 2 50.0 0 0 - 1 2 3 4 3 0 2 4 19
+p660
+aVJeremy Evans UTA 12/07/2012 UTA vs. TOR W 23 10 2 2 100.0 0 0 - 6 8 75.0 1 4 5 1 0 1 1 4 13
+p661
+aVPaul Millsap UTA 12/07/2012 UTA vs. TOR W 26 20 7 16 43.8 0 0 - 6 10 60.0 3 7 10 5 3 0 1 2 23
+p662
+aVMo Williams UTA 12/07/2012 UTA vs. TOR W 24 11 4 7 57.1 2 4 50.0 1 1 100.0 2 2 4 10 0 0 2 2 9
+p663
+aVAlec Burks UTA 12/07/2012 UTA vs. TOR W 8 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 1 4
+p664
+aVGordon Hayward UTA 12/07/2012 UTA vs. TOR W 23 17 4 10 40.0 1 2 50.0 8 8 100.0 0 3 3 3 1 0 1 1 32
+p665
+aVMarvin Williams UTA 12/07/2012 UTA vs. TOR W 28 14 5 10 50.0 3 5 60.0 1 1 100.0 1 3 4 0 1 0 0 2 10
+p666
+aVRandy Foye UTA 12/07/2012 UTA vs. TOR W 23 13 5 11 45.5 3 6 50.0 0 0 - 0 2 2 2 0 3 1 2 3
+p667
+aVJeremy Evans UTA 12/05/2012 UTA vs. ORL W 6 0 0 3 0.0 0 0 - 0 2 0.0 1 1 2 0 1 0 1 0 2
+p668
+aVGordon Hayward UTA 12/05/2012 UTA vs. ORL W 23 4 0 6 0.0 0 1 0.0 4 4 100.0 1 4 5 2 2 0 1 2 6
+p669
+aVMo Williams UTA 12/05/2012 UTA vs. ORL W 32 9 3 9 33.3 0 0 - 3 3 100.0 0 1 1 7 4 0 3 1 1
+p670
+aVEnes Kanter UTA 12/05/2012 UTA vs. ORL W 16 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 0
+p671
+aVPaul Millsap UTA 12/05/2012 UTA vs. ORL W 39 22 8 14 57.1 0 1 0.0 6 9 66.7 1 3 4 3 1 3 2 2 2
+p672
+aVAl Jefferson UTA 12/05/2012 UTA vs. ORL W 35 31 13 20 65.0 0 0 - 5 5 100.0 3 12 15 2 1 0 1 4 8
+p673
+aVRandy Foye UTA 12/05/2012 UTA vs. ORL W 30 3 1 7 14.3 1 6 16.7 0 0 - 0 2 2 0 0 0 1 1 4
+p674
+aVMarvin Williams UTA 12/05/2012 UTA vs. ORL W 23 8 3 7 42.9 0 1 0.0 2 2 100.0 0 4 4 0 0 0 1 0 2
+p675
+aVEarl Watson UTA 12/05/2012 UTA vs. ORL W 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 2 5
+p676
+aVDeMarre Carroll UTA 12/05/2012 UTA vs. ORL W 20 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 1 3 1 0 3 0
+p677
+aVGordon Hayward UTA 12/03/2012 UTA vs. LAC L 25 17 6 10 60.0 2 4 50.0 3 4 75.0 0 5 5 0 0 0 2 3 -6
+p678
+aVJeremy Evans UTA 12/03/2012 UTA vs. LAC L 11 6 3 3 100.0 0 0 - 0 0 - 1 1 2 1 0 2 0 2 -2
+p679
+aVAl Jefferson UTA 12/03/2012 UTA vs. LAC L 36 16 8 17 47.1 0 0 - 0 0 - 2 8 10 5 1 2 2 1 14
+p680
+aVPaul Millsap UTA 12/03/2012 UTA vs. LAC L 31 13 5 9 55.6 0 0 - 3 5 60.0 3 5 8 3 1 1 2 5 -1
+p681
+aVAlec Burks UTA 12/03/2012 UTA vs. LAC L 11 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -11
+p682
+aVMo Williams UTA 12/03/2012 UTA vs. LAC L 37 20 7 11 63.6 3 7 42.9 3 3 100.0 1 0 1 12 1 0 4 3 10
+p683
+aVRandy Foye UTA 12/03/2012 UTA vs. LAC L 37 19 7 11 63.6 3 7 42.9 2 3 66.7 0 2 2 2 2 0 1 5 10
+p684
+aVDeMarre Carroll UTA 12/03/2012 UTA vs. LAC L 23 5 2 3 66.7 1 2 50.0 0 0 - 1 5 6 0 0 0 0 2 1
+p685
+aVEarl Watson UTA 12/03/2012 UTA vs. LAC L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 2 -11
+p686
+aVEnes Kanter UTA 12/03/2012 UTA vs. LAC L 17 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 0 0 4 2 -9
+p687
+aVJeremy Evans UTA 12/01/2012 UTA @ HOU L 9 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -9
+p688
+aVPaul Millsap UTA 12/01/2012 UTA @ HOU L 36 12 3 11 27.3 1 2 50.0 5 6 83.3 2 9 11 4 1 0 1 5 2
+p689
+aVRandy Foye UTA 12/01/2012 UTA @ HOU L 32 20 8 11 72.7 4 6 66.7 0 0 - 0 2 2 6 3 1 2 2 -3
+p690
+aVMo Williams UTA 12/01/2012 UTA @ HOU L 36 16 7 13 53.8 2 3 66.7 0 0 - 1 1 2 7 1 0 4 4 7
+p691
+aVGordon Hayward UTA 12/01/2012 UTA @ HOU L 31 21 8 12 66.7 3 5 60.0 2 2 100.0 1 0 1 2 0 1 4 2 -14
+p692
+aVEnes Kanter UTA 12/01/2012 UTA @ HOU L 14 6 3 7 42.9 0 0 - 0 0 - 3 2 5 0 0 2 0 2 -14
+p693
+aVEarl Watson UTA 12/01/2012 UTA @ HOU L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 3 0 0 3 2 -15
+p694
+aVDeMarre Carroll UTA 12/01/2012 UTA @ HOU L 19 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 0 2
+p695
+aVAl Jefferson UTA 12/01/2012 UTA @ HOU L 37 20 10 19 52.6 0 1 0.0 0 0 - 0 8 8 1 1 1 0 3 5
+p696
+aVAlec Burks UTA 12/01/2012 UTA @ HOU L 14 11 4 7 57.1 1 2 50.0 2 3 66.7 2 0 2 1 1 1 0 0 -1
+p697
+aVPaul Millsap UTA 11/30/2012 UTA @ OKC L 31 13 5 11 45.5 0 0 - 3 4 75.0 3 3 6 2 2 1 3 2 -11
+p698
+aVMo Williams UTA 11/30/2012 UTA @ OKC L 32 13 4 10 40.0 1 4 25.0 4 4 100.0 0 0 0 6 1 0 3 2 -16
+p699
+aVJamaal Tinsley UTA 11/30/2012 UTA @ OKC L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -2
+p700
+aVRandy Foye UTA 11/30/2012 UTA @ OKC L 30 12 4 9 44.4 4 8 50.0 0 0 - 0 3 3 3 0 0 2 3 -15
+p701
+aVAl Jefferson UTA 11/30/2012 UTA @ OKC L 39 16 7 18 38.9 0 0 - 2 2 100.0 4 7 11 1 1 2 5 2 -5
+p702
+aVAlec Burks UTA 11/30/2012 UTA @ OKC L 14 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 0 1 1 1 3 3
+p703
+aVEarl Watson UTA 11/30/2012 UTA @ OKC L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 8 1 0 1 1 6
+p704
+aVDerrick Favors UTA 11/30/2012 UTA @ OKC L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 2 1 -10
+p705
+aVEnes Kanter UTA 11/30/2012 UTA @ OKC L 15 18 8 11 72.7 0 0 - 2 2 100.0 7 0 7 0 0 0 0 2 2
+p706
+aVDeMarre Carroll UTA 11/30/2012 UTA @ OKC L 21 4 2 5 40.0 0 1 0.0 0 0 - 3 1 4 0 2 3 0 3 -4
+p707
+aVGordon Hayward UTA 11/30/2012 UTA @ OKC L 28 13 6 18 33.3 1 6 16.7 0 0 - 3 1 4 3 1 0 0 1 -8
+p708
+aVDerrick Favors UTA 11/28/2012 UTA @ NOH W 17 9 4 8 50.0 0 0 - 1 2 50.0 1 7 8 1 0 1 2 3 10
+p709
+aVEarl Watson UTA 11/28/2012 UTA @ NOH W 17 0 0 0 - 0 0 - 0 0 - 0 0 0 8 2 0 0 3 9
+p710
+aVRandy Foye UTA 11/28/2012 UTA @ NOH W 25 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 1 1 0 1 1 2
+p711
+aVEnes Kanter UTA 11/28/2012 UTA @ NOH W 14 6 2 2 100.0 0 0 - 2 3 66.7 0 3 3 0 0 1 1 4 6
+p712
+aVDeMarre Carroll UTA 11/28/2012 UTA @ NOH W 22 8 2 6 33.3 1 2 50.0 3 4 75.0 2 3 5 0 1 0 0 1 9
+p713
+aVJamaal Tinsley UTA 11/28/2012 UTA @ NOH W 31 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 5 2 0 4 2 3
+p714
+aVPaul Millsap UTA 11/28/2012 UTA @ NOH W 31 16 3 7 42.9 0 0 - 10 12 83.3 2 6 8 4 1 0 2 1 2
+p715
+aVGordon Hayward UTA 11/28/2012 UTA @ NOH W 23 15 4 8 50.0 2 2 100.0 5 7 71.4 0 2 2 2 0 0 4 2 10
+p716
+aVMarvin Williams UTA 11/28/2012 UTA @ NOH W 26 16 4 7 57.1 2 3 66.7 6 8 75.0 0 3 3 0 1 0 1 3 3
+p717
+aVAl Jefferson UTA 11/28/2012 UTA @ NOH W 34 19 9 16 56.3 0 0 - 1 2 50.0 1 6 7 3 3 2 1 5 6
+p718
+aVEarl Watson UTA 11/26/2012 UTA vs. DEN W 13 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 1 5 -5
+p719
+aVPaul Millsap UTA 11/26/2012 UTA vs. DEN W 24 5 2 5 40.0 0 0 - 1 3 33.3 0 5 5 1 1 0 1 3 4
+p720
+aVMarvin Williams UTA 11/26/2012 UTA vs. DEN W 23 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 4 0 0 1 2 4
+p721
+aVEnes Kanter UTA 11/26/2012 UTA vs. DEN W 15 3 1 5 20.0 0 0 - 1 2 50.0 2 1 3 2 1 0 0 3 2
+p722
+aVJamaal Tinsley UTA 11/26/2012 UTA vs. DEN W 35 15 6 9 66.7 3 6 50.0 0 0 - 0 2 2 6 2 2 3 4 7
+p723
+aVRandy Foye UTA 11/26/2012 UTA vs. DEN W 22 11 3 9 33.3 2 6 33.3 3 3 100.0 0 0 0 1 2 0 1 2 11
+p724
+aVAl Jefferson UTA 11/26/2012 UTA vs. DEN W 33 28 10 15 66.7 0 0 - 8 10 80.0 2 3 5 0 0 0 1 2 0
+p725
+aVDerrick Favors UTA 11/26/2012 UTA vs. DEN W 24 19 6 8 75.0 0 0 - 7 9 77.8 5 2 7 2 0 2 2 4 -2
+p726
+aVDeMarre Carroll UTA 11/26/2012 UTA vs. DEN W 23 7 2 9 22.2 0 2 0.0 3 4 75.0 3 2 5 1 1 0 0 5 -3
+p727
+aVGordon Hayward UTA 11/26/2012 UTA vs. DEN W 28 4 1 8 12.5 0 3 0.0 2 3 66.7 1 2 3 1 2 2 2 0 -8
+p728
+aVDerrick Favors UTA 11/24/2012 UTA @ SAC L 16 2 0 6 0.0 0 1 0.0 2 2 100.0 3 1 4 1 0 0 2 5 -10
+p729
+aVRandy Foye UTA 11/24/2012 UTA @ SAC L 31 17 5 10 50.0 4 6 66.7 3 6 50.0 0 1 1 2 0 0 0 4 -5
+p730
+aVMarvin Williams UTA 11/24/2012 UTA @ SAC L 30 8 2 6 33.3 2 5 40.0 2 4 50.0 1 1 2 1 0 0 1 1 -4
+p731
+aVGordon Hayward UTA 11/24/2012 UTA @ SAC L 19 8 1 8 12.5 1 4 25.0 5 6 83.3 0 1 1 1 1 0 3 1 -9
+p732
+aVPaul Millsap UTA 11/24/2012 UTA @ SAC L 35 13 4 11 36.4 0 1 0.0 5 6 83.3 3 5 8 3 1 0 5 5 -9
+p733
+aVEarl Watson UTA 11/24/2012 UTA @ SAC L 17 6 3 4 75.0 0 1 0.0 0 0 - 2 1 3 5 4 0 1 3 2
+p734
+aVAl Jefferson UTA 11/24/2012 UTA @ SAC L 31 14 7 15 46.7 0 1 0.0 0 0 - 0 6 6 2 1 2 0 1 0
+p735
+aVEnes Kanter UTA 11/24/2012 UTA @ SAC L 14 9 3 7 42.9 0 0 - 3 4 75.0 4 3 7 1 0 0 0 1 -3
+p736
+aVJamaal Tinsley UTA 11/24/2012 UTA @ SAC L 31 14 5 8 62.5 4 6 66.7 0 0 - 1 1 2 7 1 0 3 3 -13
+p737
+aVDeMarre Carroll UTA 11/24/2012 UTA @ SAC L 16 6 2 4 50.0 0 0 - 2 2 100.0 3 1 4 0 3 2 2 2 -4
+p738
+aVEarl Watson UTA 11/23/2012 UTA vs. SAC W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 2 -6
+p739
+aVMo Williams UTA 11/23/2012 UTA vs. SAC W 8 1 0 1 0.0 0 0 - 1 1 100.0 0 0 0 3 0 0 0 0 -10
+p740
+aVGordon Hayward UTA 11/23/2012 UTA vs. SAC W 30 23 7 16 43.8 0 2 0.0 9 9 100.0 0 3 3 2 1 1 4 2 12
+p741
+aVDeMarre Carroll UTA 11/23/2012 UTA vs. SAC W 15 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 0 -4
+p742
+aVDerrick Favors UTA 11/23/2012 UTA vs. SAC W 28 16 7 15 46.7 0 0 - 2 3 66.7 9 5 14 0 2 2 0 2 14
+p743
+aVMarvin Williams UTA 11/23/2012 UTA vs. SAC W 34 20 6 12 50.0 1 5 20.0 7 7 100.0 1 3 4 2 0 0 0 1 6
+p744
+aVRandy Foye UTA 11/23/2012 UTA vs. SAC W 19 8 3 6 50.0 2 5 40.0 0 0 - 0 1 1 3 1 1 2 4 -13
+p745
+aVAl Jefferson UTA 11/23/2012 UTA vs. SAC W 34 19 8 14 57.1 0 0 - 3 4 75.0 3 5 8 2 1 1 0 4 4
+p746
+aVEnes Kanter UTA 11/23/2012 UTA vs. SAC W 14 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 2 1
+p747
+aVPaul Millsap UTA 11/23/2012 UTA vs. SAC W 20 10 4 9 44.4 0 0 - 2 3 66.7 1 0 1 1 0 0 2 3 -12
+p748
+aVJamaal Tinsley UTA 11/23/2012 UTA vs. SAC W 31 2 0 3 0.0 0 2 0.0 2 2 100.0 2 4 6 12 2 0 1 2 18
+p749
+aVGordon Hayward UTA 11/19/2012 UTA vs. HOU W 19 15 5 12 41.7 1 5 20.0 4 5 80.0 0 2 2 1 0 1 2 3 24
+p750
+aVAl Jefferson UTA 11/19/2012 UTA vs. HOU W 27 14 4 12 33.3 0 0 - 6 7 85.7 4 12 16 2 1 1 1 1 0
+p751
+aVRandy Foye UTA 11/19/2012 UTA vs. HOU W 24 14 4 11 36.4 4 7 57.1 2 2 100.0 0 1 1 1 0 1 1 0 -5
+p752
+aVDeMarre Carroll UTA 11/19/2012 UTA vs. HOU W 13 8 4 6 66.7 0 1 0.0 0 0 - 1 1 2 3 1 0 1 1 11
+p753
+aVDerrick Favors UTA 11/19/2012 UTA vs. HOU W 23 8 2 7 28.6 0 0 - 4 4 100.0 3 5 8 0 1 2 1 5 10
+p754
+aVJeremy Evans UTA 11/19/2012 UTA vs. HOU W 5 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 1 0 2 -8
+p755
+aVEnes Kanter UTA 11/19/2012 UTA vs. HOU W 21 6 3 5 60.0 0 0 - 0 0 - 2 6 8 3 0 3 4 2 11
+p756
+aVMarvin Williams UTA 11/19/2012 UTA vs. HOU W 25 12 4 9 44.4 3 3 100.0 1 2 50.0 0 4 4 1 0 0 0 0 18
+p757
+aVMo Williams UTA 11/19/2012 UTA vs. HOU W 27 8 4 11 36.4 0 1 0.0 0 0 - 0 1 1 7 0 0 1 3 -3
+p758
+aVKevin Murphy UTA 11/19/2012 UTA vs. HOU W 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p759
+aVPaul Millsap UTA 11/19/2012 UTA vs. HOU W 26 10 4 9 44.4 0 0 - 2 2 100.0 3 5 8 1 0 2 0 3 -1
+p760
+aVJamaal Tinsley UTA 11/19/2012 UTA vs. HOU W 21 3 1 4 25.0 1 3 33.3 0 0 - 1 4 5 11 1 0 3 2 14
+p761
+aVAlec Burks UTA 11/19/2012 UTA vs. HOU W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p762
+aVJamaal Tinsley UTA 11/17/2012 UTA @ WAS W 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 11
+p763
+aVGordon Hayward UTA 11/17/2012 UTA @ WAS W 25 15 4 10 40.0 1 2 50.0 6 6 100.0 1 2 3 5 1 0 3 1 15
+p764
+aVEnes Kanter UTA 11/17/2012 UTA @ WAS W 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p765
+aVDerrick Favors UTA 11/17/2012 UTA @ WAS W 29 9 3 10 30.0 0 0 - 3 4 75.0 5 5 10 0 2 3 0 3 9
+p766
+aVMarvin Williams UTA 11/17/2012 UTA @ WAS W 27 7 2 5 40.0 0 2 0.0 3 6 50.0 1 7 8 1 1 1 2 0 22
+p767
+aVRandy Foye UTA 11/17/2012 UTA @ WAS W 17 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 1 -12
+p768
+aVAl Jefferson UTA 11/17/2012 UTA @ WAS W 31 21 10 19 52.6 0 0 - 1 2 50.0 4 9 13 1 0 2 2 1 -2
+p769
+aVDeMarre Carroll UTA 11/17/2012 UTA @ WAS W 23 7 2 5 40.0 0 1 0.0 3 4 75.0 5 2 7 1 0 0 1 0 8
+p770
+aVMo Williams UTA 11/17/2012 UTA @ WAS W 36 12 5 11 45.5 1 2 50.0 1 1 100.0 4 1 5 6 2 0 3 1 -4
+p771
+aVPaul Millsap UTA 11/17/2012 UTA @ WAS W 29 6 2 13 15.4 0 1 0.0 2 4 50.0 5 5 10 2 1 0 2 5 -16
+p772
+aVEnes Kanter UTA 11/16/2012 UTA @ PHI L 13 4 2 5 40.0 0 0 - 0 0 - 2 1 3 1 1 0 1 0 11
+p773
+aVJamaal Tinsley UTA 11/16/2012 UTA @ PHI L 14 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 6 0 0 2 1 6
+p774
+aVMo Williams UTA 11/16/2012 UTA @ PHI L 34 12 5 14 35.7 2 7 28.6 0 0 - 1 2 3 5 1 2 0 3 -12
+p775
+aVGordon Hayward UTA 11/16/2012 UTA @ PHI L 23 8 3 6 50.0 1 4 25.0 1 2 50.0 0 0 0 2 2 0 0 2 -17
+p776
+aVPaul Millsap UTA 11/16/2012 UTA @ PHI L 28 22 9 15 60.0 2 4 50.0 2 2 100.0 0 7 7 3 0 0 4 1 -5
+p777
+aVAl Jefferson UTA 11/16/2012 UTA @ PHI L 33 15 5 14 35.7 0 0 - 5 7 71.4 0 9 9 3 0 2 0 3 -19
+p778
+aVMarvin Williams UTA 11/16/2012 UTA @ PHI L 22 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 1 1 0 -15
+p779
+aVDerrick Favors UTA 11/16/2012 UTA @ PHI L 22 8 3 8 37.5 0 0 - 2 3 66.7 3 4 7 1 2 1 2 0 1
+p780
+aVRandy Foye UTA 11/16/2012 UTA @ PHI L 28 5 2 7 28.6 1 3 33.3 0 0 - 1 3 4 1 0 0 1 2 9
+p781
+aVDeMarre Carroll UTA 11/16/2012 UTA @ PHI L 23 17 6 6 100.0 1 1 100.0 4 4 100.0 3 2 5 0 2 0 0 3 11
+p782
+aVMo Williams UTA 11/14/2012 UTA @ BOS L 38 14 6 19 31.6 2 6 33.3 0 1 0.0 0 1 1 5 0 1 4 1 5
+p783
+aVPaul Millsap UTA 11/14/2012 UTA @ BOS L 40 20 9 21 42.9 0 1 0.0 2 4 50.0 3 9 12 4 1 2 2 4 -1
+p784
+aVMarvin Williams UTA 11/14/2012 UTA @ BOS L 25 7 2 6 33.3 1 2 50.0 2 2 100.0 1 1 2 1 0 2 0 0 3
+p785
+aVGordon Hayward UTA 11/14/2012 UTA @ BOS L 31 14 5 9 55.6 2 2 100.0 2 2 100.0 4 2 6 3 0 1 0 3 2
+p786
+aVRandy Foye UTA 11/14/2012 UTA @ BOS L 22 9 2 6 33.3 2 3 66.7 3 3 100.0 0 1 1 1 1 0 0 2 -12
+p787
+aVEnes Kanter UTA 11/14/2012 UTA @ BOS L 12 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -8
+p788
+aVDerrick Favors UTA 11/14/2012 UTA @ BOS L 26 14 2 5 40.0 0 0 - 10 14 71.4 5 4 9 1 1 0 0 2 -5
+p789
+aVAl Jefferson UTA 11/14/2012 UTA @ BOS L 35 13 6 12 50.0 0 1 0.0 1 2 50.0 4 10 14 3 0 0 3 2 1
+p790
+aVJamaal Tinsley UTA 11/14/2012 UTA @ BOS L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -10
+p791
+aVAl Jefferson UTA 11/12/2012 UTA @ TOR W 49 24 9 20 45.0 1 2 50.0 5 6 83.3 2 15 17 3 2 1 2 2 11
+p792
+aVPaul Millsap UTA 11/12/2012 UTA @ TOR W 44 34 11 16 68.8 3 4 75.0 9 10 90.0 1 8 9 2 2 2 1 3 4
+p793
+aVMo Williams UTA 11/12/2012 UTA @ TOR W 50 17 6 16 37.5 3 7 42.9 2 2 100.0 1 2 3 14 4 2 7 4 7
+p794
+aVDerrick Favors UTA 11/12/2012 UTA @ TOR W 45 15 6 12 50.0 0 0 - 3 6 50.0 3 3 6 0 2 4 2 5 15
+p795
+aVEnes Kanter UTA 11/12/2012 UTA @ TOR W 12 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 0
+p796
+aVJamaal Tinsley UTA 11/12/2012 UTA @ TOR W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 0 0 2 0 0
+p797
+aVRandy Foye UTA 11/12/2012 UTA @ TOR W 37 20 4 7 57.1 4 6 66.7 8 9 88.9 0 0 0 4 0 0 2 6 10
+p798
+aVMarvin Williams UTA 11/12/2012 UTA @ TOR W 32 17 6 9 66.7 1 1 100.0 4 6 66.7 2 3 5 0 0 1 1 1 -6
+p799
+aVGordon Hayward UTA 11/12/2012 UTA @ TOR W 34 12 4 11 36.4 2 6 33.3 2 2 100.0 1 2 3 3 0 1 1 4 -6
+p800
+aVGordon Hayward UTA 11/10/2012 UTA vs. PHX W 43 18 6 17 35.3 1 4 25.0 5 7 71.4 1 4 5 2 0 0 4 1 20
+p801
+aVMarvin Williams UTA 11/10/2012 UTA vs. PHX W 38 13 5 10 50.0 1 2 50.0 2 2 100.0 0 7 7 2 0 1 1 2 25
+p802
+aVAlec Burks UTA 11/10/2012 UTA vs. PHX W 9 2 1 2 50.0 0 1 0.0 0 1 0.0 0 2 2 0 0 0 1 1 -14
+p803
+aVEnes Kanter UTA 11/10/2012 UTA vs. PHX W 11 6 3 3 100.0 0 0 - 0 1 0.0 0 2 2 0 0 0 2 1 -9
+p804
+aVAl Jefferson UTA 11/10/2012 UTA vs. PHX W 37 27 12 20 60.0 0 0 - 3 4 75.0 4 10 14 2 1 2 0 4 22
+p805
+aVDerrick Favors UTA 11/10/2012 UTA vs. PHX W 16 10 4 5 80.0 0 0 - 2 2 100.0 3 3 6 0 0 3 3 4 -8
+p806
+aVRandy Foye UTA 11/10/2012 UTA vs. PHX W 15 0 0 7 0.0 0 4 0.0 0 0 - 0 1 1 1 1 0 2 3 -12
+p807
+aVPaul Millsap UTA 11/10/2012 UTA vs. PHX W 30 18 7 11 63.6 0 1 0.0 4 7 57.1 2 11 13 1 1 1 3 2 24
+p808
+aVJamaal Tinsley UTA 11/10/2012 UTA vs. PHX W 41 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 14 0 0 2 0 17
+p809
+aVGordon Hayward UTA 11/09/2012 UTA @ DEN L 22 15 6 7 85.7 1 1 100.0 2 2 100.0 0 1 1 1 0 1 2 3 -4
+p810
+aVMo Williams UTA 11/09/2012 UTA @ DEN L 26 2 1 6 16.7 0 4 0.0 0 0 - 0 2 2 4 0 0 4 3 -19
+p811
+aVAlec Burks UTA 11/09/2012 UTA @ DEN L 14 3 1 9 11.1 0 3 0.0 1 2 50.0 0 1 1 0 0 0 0 2 -7
+p812
+aVJeremy Evans UTA 11/09/2012 UTA @ DEN L 3 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -3
+p813
+aVRandy Foye UTA 11/09/2012 UTA @ DEN L 29 13 4 13 30.8 3 9 33.3 2 2 100.0 0 0 0 2 1 1 0 4 -15
+p814
+aVDerrick Favors UTA 11/09/2012 UTA @ DEN L 25 10 3 8 37.5 0 0 - 4 4 100.0 3 8 11 1 0 5 2 1 0
+p815
+aVPaul Millsap UTA 11/09/2012 UTA @ DEN L 25 11 5 11 45.5 0 0 - 1 2 50.0 0 5 5 1 0 1 2 3 -16
+p816
+aVEnes Kanter UTA 11/09/2012 UTA @ DEN L 20 13 6 8 75.0 0 0 - 1 2 50.0 4 2 6 1 0 3 1 0 -1
+p817
+aVMarvin Williams UTA 11/09/2012 UTA @ DEN L 25 5 2 7 28.6 0 4 0.0 1 2 50.0 1 2 3 2 2 1 1 2 -8
+p818
+aVAl Jefferson UTA 11/09/2012 UTA @ DEN L 22 4 1 9 11.1 0 0 - 2 2 100.0 4 7 11 0 0 0 2 1 -20
+p819
+aVDeMarre Carroll UTA 11/09/2012 UTA @ DEN L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p820
+aVJamaal Tinsley UTA 11/09/2012 UTA @ DEN L 22 5 2 6 33.3 0 2 0.0 1 2 50.0 0 3 3 7 1 0 3 1 -1
+p821
+aVKevin Murphy UTA 11/09/2012 UTA @ DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p822
+aVPaul Millsap UTA 11/07/2012 UTA vs. LAL W 30 7 2 7 28.6 0 1 0.0 3 4 75.0 3 6 9 5 1 1 1 2 -3
+p823
+aVGordon Hayward UTA 11/07/2012 UTA vs. LAL W 33 7 2 11 18.2 0 4 0.0 3 4 75.0 0 3 3 1 2 3 3 6 1
+p824
+aVMarvin Williams UTA 11/07/2012 UTA vs. LAL W 24 11 4 7 57.1 0 2 0.0 3 3 100.0 1 3 4 0 2 0 1 2 6
+p825
+aVDerrick Favors UTA 11/07/2012 UTA vs. LAL W 18 8 3 8 37.5 0 0 - 2 2 100.0 3 3 6 0 1 2 0 3 12
+p826
+aVEnes Kanter UTA 11/07/2012 UTA vs. LAL W 13 9 4 5 80.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 1 11
+p827
+aVMo Williams UTA 11/07/2012 UTA vs. LAL W 34 16 8 13 61.5 0 0 - 0 0 - 0 2 2 7 0 0 2 3 0
+p828
+aVRandy Foye UTA 11/07/2012 UTA vs. LAL W 29 17 5 11 45.5 5 9 55.6 2 2 100.0 0 1 1 0 0 1 0 5 0
+p829
+aVJamaal Tinsley UTA 11/07/2012 UTA vs. LAL W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 4 2 0 1 2 9
+p830
+aVAlec Burks UTA 11/07/2012 UTA vs. LAL W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 11
+p831
+aVAl Jefferson UTA 11/07/2012 UTA vs. LAL W 35 18 8 18 44.4 0 0 - 2 2 100.0 2 8 10 2 4 0 3 4 -2
+p832
+aVGordon Hayward UTA 11/05/2012 UTA @ MEM L 37 19 9 17 52.9 0 1 0.0 1 1 100.0 1 4 5 2 1 0 1 1 -3
+p833
+aVPaul Millsap UTA 11/05/2012 UTA @ MEM L 33 14 5 13 38.5 2 3 66.7 2 2 100.0 3 5 8 4 0 3 2 6 -1
+p834
+aVDerrick Favors UTA 11/05/2012 UTA @ MEM L 26 14 6 12 50.0 0 0 - 2 4 50.0 3 5 8 1 3 1 2 0 -14
+p835
+aVRandy Foye UTA 11/05/2012 UTA @ MEM L 23 11 4 9 44.4 2 5 40.0 1 2 50.0 0 0 0 3 1 0 1 1 -9
+p836
+aVAlec Burks UTA 11/05/2012 UTA @ MEM L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p837
+aVMo Williams UTA 11/05/2012 UTA @ MEM L 39 17 8 19 42.1 1 5 20.0 0 0 - 2 2 4 8 0 0 2 1 -4
+p838
+aVEnes Kanter UTA 11/05/2012 UTA @ MEM L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -9
+p839
+aVMarvin Williams UTA 11/05/2012 UTA @ MEM L 30 6 2 5 40.0 0 1 0.0 2 2 100.0 0 5 5 0 2 2 3 4 1
+p840
+aVAl Jefferson UTA 11/05/2012 UTA @ MEM L 29 11 5 10 50.0 0 0 - 1 2 50.0 2 8 10 2 1 2 3 4 3
+p841
+aVJeremy Evans UTA 11/05/2012 UTA @ MEM L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p842
+aVMarvin Williams UTA 11/03/2012 UTA @ SAS L 25 8 4 9 44.4 0 1 0.0 0 0 - 2 2 4 1 0 0 1 0 3
+p843
+aVDeMarre Carroll UTA 11/03/2012 UTA @ SAS L 6 0 0 0 - 0 0 - 0 2 0.0 0 1 1 1 2 0 0 1 -7
+p844
+aVPaul Millsap UTA 11/03/2012 UTA @ SAS L 31 17 5 10 50.0 2 2 100.0 5 6 83.3 5 5 10 0 3 3 4 4 1
+p845
+aVGordon Hayward UTA 11/03/2012 UTA @ SAS L 36 15 5 11 45.5 1 5 20.0 4 4 100.0 1 2 3 2 3 1 2 1 -10
+p846
+aVRandy Foye UTA 11/03/2012 UTA @ SAS L 25 7 3 8 37.5 0 3 0.0 1 1 100.0 0 0 0 1 0 0 2 1 -7
+p847
+aVEnes Kanter UTA 11/03/2012 UTA @ SAS L 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -6
+p848
+aVDerrick Favors UTA 11/03/2012 UTA @ SAS L 23 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 1 1 4 -14
+p849
+aVMo Williams UTA 11/03/2012 UTA @ SAS L 39 29 9 13 69.2 2 2 100.0 9 9 100.0 0 0 0 9 2 0 2 1 -1
+p850
+aVAl Jefferson UTA 11/03/2012 UTA @ SAS L 35 16 8 16 50.0 0 0 - 0 0 - 1 7 8 2 1 2 1 5 0
+p851
+aVJamaal Tinsley UTA 11/03/2012 UTA @ SAS L 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -9
+p852
+aVMo Williams UTA 11/02/2012 UTA @ NOH L 31 16 6 16 37.5 2 8 25.0 2 2 100.0 0 4 4 4 1 0 2 3 -6
+p853
+aVJamaal Tinsley UTA 11/02/2012 UTA @ NOH L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 6 1 0 1 1 4
+p854
+aVDerrick Favors UTA 11/02/2012 UTA @ NOH L 23 4 2 5 40.0 0 0 - 0 2 0.0 5 4 9 0 1 2 2 1 5
+p855
+aVDeMarre Carroll UTA 11/02/2012 UTA @ NOH L 14 4 2 6 33.3 0 2 0.0 0 0 - 1 0 1 0 0 1 0 1 6
+p856
+aVMarvin Williams UTA 11/02/2012 UTA @ NOH L 29 5 2 8 25.0 1 6 16.7 0 0 - 0 3 3 1 0 0 1 1 -7
+p857
+aVEnes Kanter UTA 11/02/2012 UTA @ NOH L 20 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 2 0 3 4 6
+p858
+aVRandy Foye UTA 11/02/2012 UTA @ NOH L 27 20 8 16 50.0 4 7 57.1 0 1 0.0 2 2 4 1 0 2 0 2 5
+p859
+aVPaul Millsap UTA 11/02/2012 UTA @ NOH L 25 11 5 9 55.6 1 1 100.0 0 2 0.0 3 3 6 3 1 1 3 4 -7
+p860
+aVGordon Hayward UTA 11/02/2012 UTA @ NOH L 26 14 4 8 50.0 2 3 66.7 4 5 80.0 2 2 4 3 1 0 1 1 -8
+p861
+aVAl Jefferson UTA 11/02/2012 UTA @ NOH L 28 10 5 13 38.5 0 0 - 0 0 - 2 6 8 1 0 0 1 3 -8
+p862
+aVAl Jefferson UTA 10/31/2012 UTA vs. DAL W 29 12 4 11 36.4 0 0 - 4 4 100.0 5 9 14 2 3 0 1 2 8
+p863
+aVEnes Kanter UTA 10/31/2012 UTA vs. DAL W 14 6 3 5 60.0 0 0 - 0 2 0.0 1 6 7 0 1 1 4 3 2
+p864
+aVRandy Foye UTA 10/31/2012 UTA vs. DAL W 22 13 4 9 44.4 2 4 50.0 3 3 100.0 0 3 3 3 0 0 1 2 21
+p865
+aVMarvin Williams UTA 10/31/2012 UTA vs. DAL W 30 21 7 13 53.8 2 3 66.7 5 5 100.0 0 3 3 1 1 1 1 2 9
+p866
+aVDeMarre Carroll UTA 10/31/2012 UTA vs. DAL W 16 5 1 5 20.0 0 1 0.0 3 4 75.0 1 1 2 2 0 1 0 1 11
+p867
+aVJeremy Evans UTA 10/31/2012 UTA vs. DAL W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 -1
+p868
+aVGordon Hayward UTA 10/31/2012 UTA vs. DAL W 24 11 4 10 40.0 0 1 0.0 3 5 60.0 3 0 3 2 0 0 0 3 -1
+p869
+aVPaul Millsap UTA 10/31/2012 UTA vs. DAL W 33 13 5 12 41.7 0 0 - 3 4 75.0 8 7 15 3 1 0 0 3 18
+p870
+aVJamaal Tinsley UTA 10/31/2012 UTA vs. DAL W 18 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 4 1 1 1 3 2
+p871
+aVMo Williams UTA 10/31/2012 UTA vs. DAL W 30 21 7 16 43.8 2 4 50.0 5 5 100.0 0 2 2 6 2 2 2 2 17
+p872
+aVAlec Burks UTA 10/31/2012 UTA vs. DAL W 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 0 0 -1
+p873
+aVKevin Murphy UTA 10/31/2012 UTA vs. DAL W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p874
+aVDerrick Favors UTA 10/31/2012 UTA vs. DAL W 18 6 1 2 50.0 0 0 - 4 6 66.7 2 8 10 0 0 2 3 3 11
+p875
+a.

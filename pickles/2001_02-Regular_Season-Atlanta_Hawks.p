@@ -1,0 +1,1624 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVToni Kukoc ATL 04/17/2002 ATL @ BOS L 18 5 2 6 33.3 0 1 0.0 1 2 50.0 1 1 2 2 1 0 2 1 4
+p2
+aVShareef Abdur-Rahim ATL 04/17/2002 ATL @ BOS L 38 16 6 20 30.0 0 0 - 4 6 66.7 4 3 7 1 2 3 3 2 -10
+p3
+aVJacque Vaughn ATL 04/17/2002 ATL @ BOS L 48 15 5 13 38.5 0 0 - 5 5 100.0 2 6 8 13 1 0 0 1 -8
+p4
+aVNazr Mohammed ATL 04/17/2002 ATL @ BOS L 21 3 1 7 14.3 0 0 - 1 2 50.0 4 7 11 0 1 2 0 1 -7
+p5
+aVMark Strickland ATL 04/17/2002 ATL @ BOS L 16 10 5 7 71.4 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -4
+p6
+aVHanno Mottola ATL 04/17/2002 ATL @ BOS L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 2
+p7
+aVDerMarr Johnson ATL 04/17/2002 ATL @ BOS L 28 11 2 13 15.4 2 8 25.0 5 6 83.3 1 3 4 1 1 1 4 0 -14
+p8
+aVLeon Smith ATL 04/17/2002 ATL @ BOS L 19 6 2 5 40.0 0 0 - 2 3 66.7 0 5 5 0 0 0 1 2 2
+p9
+aVCal Bowdler ATL 04/17/2002 ATL @ BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p10
+aVIra Newble ATL 04/17/2002 ATL @ BOS L 41 13 5 10 50.0 0 0 - 3 3 100.0 3 3 6 3 3 1 2 3 -5
+p11
+aVJason Terry ATL 04/16/2002 ATL vs. ORL L 32 12 5 13 38.5 1 3 33.3 1 2 50.0 1 5 6 7 2 1 6 4 -3
+p12
+aVHanno Mottola ATL 04/16/2002 ATL vs. ORL L 18 10 5 7 71.4 0 0 - 0 0 - 0 1 1 0 0 0 5 1 0
+p13
+aVCal Bowdler ATL 04/16/2002 ATL vs. ORL L 6 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 4
+p14
+aVNazr Mohammed ATL 04/16/2002 ATL vs. ORL L 27 9 2 7 28.6 0 0 - 5 10 50.0 4 7 11 0 1 0 0 4 -8
+p15
+aVToni Kukoc ATL 04/16/2002 ATL vs. ORL L 32 11 5 14 35.7 1 5 20.0 0 0 - 1 2 3 7 3 1 4 2 -1
+p16
+aVJacque Vaughn ATL 04/16/2002 ATL vs. ORL L 17 14 7 8 87.5 0 1 0.0 0 0 - 1 0 1 3 2 0 1 5 -4
+p17
+aVMark Strickland ATL 04/16/2002 ATL vs. ORL L 12 4 2 6 33.3 0 0 - 0 2 0.0 3 6 9 0 0 1 2 1 4
+p18
+aVIra Newble ATL 04/16/2002 ATL vs. ORL L 36 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 0 0 0 1 5 -12
+p19
+aVShareef Abdur-Rahim ATL 04/16/2002 ATL vs. ORL L 44 23 9 20 45.0 0 2 0.0 5 5 100.0 2 9 11 4 1 1 2 4 -10
+p20
+aVDerMarr Johnson ATL 04/16/2002 ATL vs. ORL L 16 7 2 8 25.0 1 5 20.0 2 4 50.0 0 2 2 0 0 0 1 2 -5
+p21
+aVNazr Mohammed ATL 04/13/2002 ATL vs. CLE W 21 7 2 8 25.0 0 0 - 3 4 75.0 1 5 6 0 1 1 2 2 2
+p22
+aVShareef Abdur-Rahim ATL 04/13/2002 ATL vs. CLE W 53 36 12 24 50.0 2 3 66.7 10 10 100.0 1 11 12 3 3 0 4 3 9
+p23
+aVIra Newble ATL 04/13/2002 ATL vs. CLE W 50 17 4 9 44.4 0 0 - 9 10 90.0 9 3 12 3 2 2 0 2 12
+p24
+aVDerMarr Johnson ATL 04/13/2002 ATL vs. CLE W 47 9 3 15 20.0 2 7 28.6 1 1 100.0 1 7 8 5 1 4 3 3 15
+p25
+aVToni Kukoc ATL 04/13/2002 ATL vs. CLE W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 1 1 -17
+p26
+aVJason Terry ATL 04/13/2002 ATL vs. CLE W 54 43 16 34 47.1 5 12 41.7 6 10 60.0 3 2 5 10 0 2 4 4 8
+p27
+aVHanno Mottola ATL 04/13/2002 ATL vs. CLE W 39 12 6 11 54.5 0 0 - 0 0 - 3 9 12 0 0 0 0 4 3
+p28
+aVJacque Vaughn ATL 04/13/2002 ATL vs. CLE W 10 4 2 7 28.6 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p29
+aVJason Terry ATL 04/12/2002 ATL @ TOR L 29 20 7 13 53.8 2 5 40.0 4 4 100.0 0 1 1 4 2 0 2 1 -29
+p30
+aVHanno Mottola ATL 04/12/2002 ATL @ TOR L 19 10 5 8 62.5 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -7
+p31
+aVJacque Vaughn ATL 04/12/2002 ATL @ TOR L 23 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -19
+p32
+aVMark Strickland ATL 04/12/2002 ATL @ TOR L 18 4 2 4 50.0 0 0 - 0 2 0.0 1 0 1 0 0 1 2 1 -11
+p33
+aVCal Bowdler ATL 04/12/2002 ATL @ TOR L 22 4 0 3 0.0 0 0 - 4 4 100.0 2 2 4 1 1 1 1 4 -16
+p34
+aVToni Kukoc ATL 04/12/2002 ATL @ TOR L 10 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 0 -13
+p35
+aVIra Newble ATL 04/12/2002 ATL @ TOR L 27 4 2 8 25.0 0 1 0.0 0 0 - 3 0 3 1 0 0 1 3 -22
+p36
+aVNazr Mohammed ATL 04/12/2002 ATL @ TOR L 18 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -12
+p37
+aVShareef Abdur-Rahim ATL 04/12/2002 ATL @ TOR L 28 13 5 14 35.7 0 0 - 3 4 75.0 2 4 6 1 1 0 7 2 -31
+p38
+aVDerMarr Johnson ATL 04/12/2002 ATL @ TOR L 36 8 3 11 27.3 0 4 0.0 2 2 100.0 0 2 2 3 3 1 2 3 -23
+p39
+aVLeon Smith ATL 04/12/2002 ATL @ TOR L 10 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 1 0 1 1 -12
+p40
+aVShareef Abdur-Rahim ATL 04/10/2002 ATL @ CHH W 43 33 11 18 61.1 0 1 0.0 11 12 91.7 1 4 5 4 3 1 4 1 12
+p41
+aVToni Kukoc ATL 04/10/2002 ATL @ CHH W 21 7 2 7 28.6 1 3 33.3 2 2 100.0 0 5 5 1 1 2 1 0 6
+p42
+aVJacque Vaughn ATL 04/10/2002 ATL @ CHH W 18 7 2 7 28.6 0 1 0.0 3 4 75.0 0 0 0 5 1 0 2 0 -5
+p43
+aVLeon Smith ATL 04/10/2002 ATL @ CHH W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -4
+p44
+aVNazr Mohammed ATL 04/10/2002 ATL @ CHH W 34 10 4 5 80.0 0 0 - 2 2 100.0 3 7 10 0 1 0 2 3 2
+p45
+aVIra Newble ATL 04/10/2002 ATL @ CHH W 22 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 4 6
+p46
+aVDerMarr Johnson ATL 04/10/2002 ATL @ CHH W 43 21 8 16 50.0 3 6 50.0 2 2 100.0 1 3 4 2 1 1 2 3 5
+p47
+aVHanno Mottola ATL 04/10/2002 ATL @ CHH W 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 2 2
+p48
+aVJason Terry ATL 04/10/2002 ATL @ CHH W 39 21 6 11 54.5 3 4 75.0 6 6 100.0 0 2 2 10 3 0 2 3 6
+p49
+aVToni Kukoc ATL 04/08/2002 ATL @ DET L 26 7 3 8 37.5 0 2 0.0 1 2 50.0 1 4 5 2 1 0 5 1 -9
+p50
+aVDerMarr Johnson ATL 04/08/2002 ATL @ DET L 26 9 4 5 80.0 1 1 100.0 0 0 - 1 7 8 1 0 2 3 3 0
+p51
+aVJason Terry ATL 04/08/2002 ATL @ DET L 41 24 8 26 30.8 4 5 80.0 4 7 57.1 1 3 4 12 4 0 3 1 -3
+p52
+aVIra Newble ATL 04/08/2002 ATL @ DET L 39 12 5 10 50.0 0 0 - 2 4 50.0 5 4 9 3 0 0 0 6 6
+p53
+aVNazr Mohammed ATL 04/08/2002 ATL @ DET L 37 17 7 15 46.7 0 0 - 3 6 50.0 8 4 12 1 1 0 1 1 3
+p54
+aVHanno Mottola ATL 04/08/2002 ATL @ DET L 15 4 1 5 20.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 1 -12
+p55
+aVShareef Abdur-Rahim ATL 04/08/2002 ATL @ DET L 43 23 10 19 52.6 0 0 - 3 4 75.0 1 3 4 3 1 1 1 2 -3
+p56
+aVJacque Vaughn ATL 04/08/2002 ATL @ DET L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 2 0 0 1 2 -12
+p57
+aVDerMarr Johnson ATL 04/06/2002 ATL vs. CHH L 17 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 0 0 0 1 2 -20
+p58
+aVJason Terry ATL 04/06/2002 ATL vs. CHH L 41 19 6 18 33.3 3 11 27.3 4 5 80.0 0 1 1 5 1 0 2 2 -1
+p59
+aVJacque Vaughn ATL 04/06/2002 ATL vs. CHH L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -8
+p60
+aVToni Kukoc ATL 04/06/2002 ATL vs. CHH L 36 14 7 14 50.0 0 2 0.0 0 1 0.0 2 2 4 5 0 2 1 1 13
+p61
+aVAlan Henderson ATL 04/06/2002 ATL vs. CHH L 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p62
+aVNazr Mohammed ATL 04/06/2002 ATL vs. CHH L 21 2 1 8 12.5 0 0 - 0 0 - 3 5 8 1 0 0 0 1 -16
+p63
+aVShareef Abdur-Rahim ATL 04/06/2002 ATL vs. CHH L 42 21 6 17 35.3 0 3 0.0 9 10 90.0 5 7 12 1 1 1 3 4 -9
+p64
+aVIra Newble ATL 04/06/2002 ATL vs. CHH L 43 16 5 14 35.7 0 1 0.0 6 6 100.0 7 5 12 2 1 1 3 4 -5
+p65
+aVHanno Mottola ATL 04/06/2002 ATL vs. CHH L 30 10 5 9 55.6 0 0 - 0 0 - 1 5 6 0 0 0 0 3 11
+p66
+aVNazr Mohammed ATL 04/04/2002 ATL vs. IND W 39 18 8 11 72.7 0 0 - 2 3 66.7 2 6 8 0 1 1 2 5 8
+p67
+aVToni Kukoc ATL 04/04/2002 ATL vs. IND W 26 15 5 12 41.7 2 5 40.0 3 3 100.0 0 2 2 3 0 0 2 4 -11
+p68
+aVHanno Mottola ATL 04/04/2002 ATL vs. IND W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p69
+aVShareef Abdur-Rahim ATL 04/04/2002 ATL vs. IND W 40 16 6 14 42.9 0 1 0.0 4 9 44.4 3 0 3 4 3 0 3 4 -1
+p70
+aVJason Terry ATL 04/04/2002 ATL vs. IND W 34 17 6 13 46.2 3 5 60.0 2 2 100.0 0 5 5 8 0 0 3 3 0
+p71
+aVDerMarr Johnson ATL 04/04/2002 ATL vs. IND W 35 14 5 11 45.5 2 5 40.0 2 3 66.7 0 4 4 0 0 0 3 3 5
+p72
+aVIra Newble ATL 04/04/2002 ATL vs. IND W 33 7 2 3 66.7 0 0 - 3 4 75.0 0 9 9 2 1 0 1 3 8
+p73
+aVJacque Vaughn ATL 04/04/2002 ATL vs. IND W 16 6 2 5 40.0 1 1 100.0 1 2 50.0 0 3 3 2 0 0 1 1 1
+p74
+aVAlan Henderson ATL 04/04/2002 ATL vs. IND W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -7
+p75
+aVShareef Abdur-Rahim ATL 04/02/2002 ATL vs. MIL W 43 10 4 15 26.7 1 2 50.0 1 4 25.0 0 9 9 8 0 0 2 5 8
+p76
+aVJason Terry ATL 04/02/2002 ATL vs. MIL W 38 19 6 17 35.3 2 5 40.0 5 5 100.0 1 5 6 6 1 0 2 3 9
+p77
+aVDerMarr Johnson ATL 04/02/2002 ATL vs. MIL W 42 28 9 15 60.0 5 8 62.5 5 7 71.4 3 6 9 0 1 2 4 4 12
+p78
+aVJacque Vaughn ATL 04/02/2002 ATL vs. MIL W 13 5 2 7 28.6 1 2 50.0 0 0 - 1 0 1 2 0 0 1 0 -5
+p79
+aVToni Kukoc ATL 04/02/2002 ATL vs. MIL W 26 17 6 11 54.5 3 5 60.0 2 2 100.0 0 2 2 5 1 0 1 0 6
+p80
+aVIra Newble ATL 04/02/2002 ATL vs. MIL W 24 8 4 7 57.1 0 0 - 0 0 - 1 1 2 0 1 0 0 3 2
+p81
+aVHanno Mottola ATL 04/02/2002 ATL vs. MIL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p82
+aVAlan Henderson ATL 04/02/2002 ATL vs. MIL W 13 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 0 0 0 -4
+p83
+aVNazr Mohammed ATL 04/02/2002 ATL vs. MIL W 35 9 4 6 66.7 0 0 - 1 2 50.0 2 8 10 0 1 1 2 2 12
+p84
+aVDerMarr Johnson ATL 03/31/2002 ATL vs. SAC L 28 6 3 7 42.9 0 3 0.0 0 0 - 0 3 3 1 1 0 1 2 5
+p85
+aVIra Newble ATL 03/31/2002 ATL vs. SAC L 43 16 6 11 54.5 0 1 0.0 4 4 100.0 1 8 9 2 3 2 3 1 3
+p86
+aVShareef Abdur-Rahim ATL 03/31/2002 ATL vs. SAC L 44 17 7 18 38.9 1 2 50.0 2 2 100.0 1 5 6 4 1 0 4 2 7
+p87
+aVNazr Mohammed ATL 03/31/2002 ATL vs. SAC L 30 9 4 16 25.0 0 0 - 1 2 50.0 5 12 17 0 1 0 2 5 1
+p88
+aVJason Terry ATL 03/31/2002 ATL vs. SAC L 34 20 7 17 41.2 3 6 50.0 3 3 100.0 0 2 2 9 2 0 2 3 -5
+p89
+aVJacque Vaughn ATL 03/31/2002 ATL vs. SAC L 24 20 9 12 75.0 2 3 66.7 0 0 - 2 0 2 3 0 0 2 2 -3
+p90
+aVToni Kukoc ATL 03/31/2002 ATL vs. SAC L 14 2 1 5 20.0 0 3 0.0 0 0 - 1 0 1 1 0 0 2 1 -7
+p91
+aVHanno Mottola ATL 03/31/2002 ATL vs. SAC L 8 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 0 -7
+p92
+aVAlan Henderson ATL 03/31/2002 ATL vs. SAC L 14 0 0 1 0.0 0 0 - 0 0 - 0 6 6 2 1 2 1 2 1
+p93
+aVAlan Henderson ATL 03/29/2002 ATL @ MIA L 13 9 3 5 60.0 0 0 - 3 4 75.0 2 5 7 0 1 1 1 2 -9
+p94
+aVMark Strickland ATL 03/29/2002 ATL @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p95
+aVLeon Smith ATL 03/29/2002 ATL @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p96
+aVHanno Mottola ATL 03/29/2002 ATL @ MIA L 12 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 0 0 0 2 1
+p97
+aVJacque Vaughn ATL 03/29/2002 ATL @ MIA L 25 7 2 6 33.3 1 2 50.0 2 2 100.0 1 2 3 1 0 0 3 2 -13
+p98
+aVNazr Mohammed ATL 03/29/2002 ATL @ MIA L 22 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 3 -11
+p99
+aVIra Newble ATL 03/29/2002 ATL @ MIA L 29 6 2 6 33.3 0 0 - 2 4 50.0 1 2 3 0 0 1 0 6 -8
+p100
+aVJason Terry ATL 03/29/2002 ATL @ MIA L 40 23 8 15 53.3 3 5 60.0 4 4 100.0 0 1 1 6 0 0 4 1 0
+p101
+aVDerMarr Johnson ATL 03/29/2002 ATL @ MIA L 32 8 3 9 33.3 1 3 33.3 1 2 50.0 0 5 5 1 2 0 1 2 -7
+p102
+aVToni Kukoc ATL 03/29/2002 ATL @ MIA L 20 2 1 8 12.5 0 3 0.0 0 0 - 2 2 4 3 0 0 2 0 -9
+p103
+aVCal Bowdler ATL 03/29/2002 ATL @ MIA L 7 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 1 8
+p104
+aVShareef Abdur-Rahim ATL 03/29/2002 ATL @ MIA L 36 19 6 12 50.0 0 1 0.0 7 11 63.6 2 5 7 1 0 1 4 3 -13
+p105
+aVJacque Vaughn ATL 03/28/2002 ATL vs. TOR L 21 9 4 8 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 2 -3
+p106
+aVIra Newble ATL 03/28/2002 ATL vs. TOR L 36 5 1 4 25.0 0 0 - 3 3 100.0 4 7 11 0 0 0 3 3 -2
+p107
+aVNazr Mohammed ATL 03/28/2002 ATL vs. TOR L 27 11 4 7 57.1 0 0 - 3 6 50.0 3 0 3 0 1 0 0 4 -1
+p108
+aVHanno Mottola ATL 03/28/2002 ATL vs. TOR L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 2 0 1
+p109
+aVJason Terry ATL 03/28/2002 ATL vs. TOR L 40 16 5 18 27.8 1 7 14.3 5 5 100.0 0 3 3 7 2 0 3 2 -2
+p110
+aVToni Kukoc ATL 03/28/2002 ATL vs. TOR L 30 11 3 10 30.0 2 5 40.0 3 5 60.0 0 4 4 2 1 1 1 3 9
+p111
+aVDerMarr Johnson ATL 03/28/2002 ATL vs. TOR L 17 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 0 2 0 0 2 -8
+p112
+aVAlan Henderson ATL 03/28/2002 ATL vs. TOR L 21 6 2 3 66.7 0 0 - 2 4 50.0 0 3 3 1 0 1 1 1 -1
+p113
+aVShareef Abdur-Rahim ATL 03/28/2002 ATL vs. TOR L 39 23 10 26 38.5 1 3 33.3 2 4 50.0 3 7 10 5 2 1 2 4 -3
+p114
+aVJason Terry ATL 03/26/2002 ATL vs. NJN W 34 13 5 15 33.3 0 5 0.0 3 3 100.0 0 3 3 1 2 0 3 1 24
+p115
+aVDerMarr Johnson ATL 03/26/2002 ATL vs. NJN W 23 11 4 10 40.0 2 3 66.7 1 2 50.0 2 8 10 0 2 2 2 2 0
+p116
+aVIra Newble ATL 03/26/2002 ATL vs. NJN W 25 9 3 6 50.0 0 0 - 3 3 100.0 0 2 2 0 2 0 2 4 7
+p117
+aVJacque Vaughn ATL 03/26/2002 ATL vs. NJN W 38 18 7 8 87.5 0 0 - 4 4 100.0 2 2 4 9 3 0 3 2 30
+p118
+aVAlan Henderson ATL 03/26/2002 ATL vs. NJN W 22 12 6 9 66.7 0 0 - 0 0 - 2 2 4 2 0 1 3 1 22
+p119
+aVToni Kukoc ATL 03/26/2002 ATL vs. NJN W 20 13 5 10 50.0 3 5 60.0 0 0 - 0 5 5 4 1 0 2 2 14
+p120
+aVHanno Mottola ATL 03/26/2002 ATL vs. NJN W 17 0 0 0 - 0 0 - 0 0 - 0 3 3 3 1 0 0 3 19
+p121
+aVCal Bowdler ATL 03/26/2002 ATL vs. NJN W 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 1
+p122
+aVLeon Smith ATL 03/26/2002 ATL vs. NJN W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p123
+aVShareef Abdur-Rahim ATL 03/26/2002 ATL vs. NJN W 30 18 7 12 58.3 1 1 100.0 3 3 100.0 1 2 3 3 1 1 2 4 5
+p124
+aVNazr Mohammed ATL 03/26/2002 ATL vs. NJN W 21 7 2 3 66.7 0 0 - 3 4 75.0 0 3 3 0 1 1 0 1 5
+p125
+aVMark Strickland ATL 03/26/2002 ATL vs. NJN W 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p126
+aVHanno Mottola ATL 03/24/2002 ATL @ NJN L 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p127
+aVJacque Vaughn ATL 03/24/2002 ATL @ NJN L 21 13 6 10 60.0 1 1 100.0 0 0 - 1 1 2 1 0 0 2 2 -3
+p128
+aVIra Newble ATL 03/24/2002 ATL @ NJN L 30 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 2 0 0 1 1 -10
+p129
+aVAlan Henderson ATL 03/24/2002 ATL @ NJN L 18 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -9
+p130
+aVNazr Mohammed ATL 03/24/2002 ATL @ NJN L 25 12 5 11 45.5 0 0 - 2 4 50.0 7 3 10 0 1 1 4 3 -9
+p131
+aVToni Kukoc ATL 03/24/2002 ATL @ NJN L 24 13 4 9 44.4 3 5 60.0 2 2 100.0 0 4 4 3 1 0 0 4 -16
+p132
+aVDerMarr Johnson ATL 03/24/2002 ATL @ NJN L 28 3 1 4 25.0 1 3 33.3 0 0 - 0 4 4 3 0 4 1 2 -3
+p133
+aVShareef Abdur-Rahim ATL 03/24/2002 ATL @ NJN L 42 30 12 21 57.1 0 1 0.0 6 7 85.7 2 5 7 8 2 0 6 3 -11
+p134
+aVJason Terry ATL 03/24/2002 ATL @ NJN L 42 17 4 16 25.0 3 9 33.3 6 7 85.7 1 3 4 9 4 0 2 1 -10
+p135
+aVHanno Mottola ATL 03/23/2002 ATL vs. CHI W 19 12 5 8 62.5 0 1 0.0 2 2 100.0 1 4 5 0 0 0 1 2 -4
+p136
+aVToni Kukoc ATL 03/23/2002 ATL vs. CHI W 14 6 3 7 42.9 0 1 0.0 0 0 - 2 1 3 2 1 1 2 0 -9
+p137
+aVAlan Henderson ATL 03/23/2002 ATL vs. CHI W 39 16 7 12 58.3 0 0 - 2 4 50.0 4 7 11 1 3 2 1 4 24
+p138
+aVNazr Mohammed ATL 03/23/2002 ATL vs. CHI W 28 10 3 8 37.5 0 0 - 4 5 80.0 1 8 9 0 1 0 4 4 16
+p139
+aVMark Strickland ATL 03/23/2002 ATL vs. CHI W 6 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 2 -2
+p140
+aVJason Terry ATL 03/23/2002 ATL vs. CHI W 42 23 7 18 38.9 2 3 66.7 7 8 87.5 0 1 1 13 1 0 1 2 23
+p141
+aVJacque Vaughn ATL 03/23/2002 ATL vs. CHI W 18 10 3 5 60.0 1 1 100.0 3 4 75.0 0 0 0 4 0 0 2 2 0
+p142
+aVLeon Smith ATL 03/23/2002 ATL vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p143
+aVCal Bowdler ATL 03/23/2002 ATL vs. CHI W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p144
+aVDerMarr Johnson ATL 03/23/2002 ATL vs. CHI W 32 17 6 12 50.0 3 5 60.0 2 2 100.0 1 5 6 3 0 2 4 2 18
+p145
+aVIra Newble ATL 03/23/2002 ATL vs. CHI W 37 14 6 8 75.0 0 0 - 2 2 100.0 0 5 5 0 0 0 1 4 19
+p146
+aVCal Bowdler ATL 03/21/2002 ATL vs. NYK W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p147
+aVNazr Mohammed ATL 03/21/2002 ATL vs. NYK W 27 24 12 18 66.7 0 0 - 0 0 - 4 7 11 0 0 0 0 3 26
+p148
+aVLeon Smith ATL 03/21/2002 ATL vs. NYK W 4 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 0
+p149
+aVDerMarr Johnson ATL 03/21/2002 ATL vs. NYK W 30 13 4 8 50.0 3 4 75.0 2 2 100.0 1 4 5 2 1 0 0 3 28
+p150
+aVToni Kukoc ATL 03/21/2002 ATL vs. NYK W 20 11 5 10 50.0 1 2 50.0 0 0 - 1 6 7 4 1 0 0 2 7
+p151
+aVShareef Abdur-Rahim ATL 03/21/2002 ATL vs. NYK W 30 20 7 13 53.8 1 2 50.0 5 6 83.3 1 8 9 5 1 0 7 1 21
+p152
+aVHanno Mottola ATL 03/21/2002 ATL vs. NYK W 18 8 4 8 50.0 0 0 - 0 0 - 3 4 7 2 0 0 0 1 8
+p153
+aVJason Terry ATL 03/21/2002 ATL vs. NYK W 33 15 5 11 45.5 2 4 50.0 3 4 75.0 0 1 1 11 1 0 0 0 29
+p154
+aVIra Newble ATL 03/21/2002 ATL vs. NYK W 32 10 5 7 71.4 0 0 - 0 0 - 2 3 5 2 0 0 1 2 20
+p155
+aVJacque Vaughn ATL 03/21/2002 ATL vs. NYK W 15 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 6 1 0 1 2 0
+p156
+aVAlan Henderson ATL 03/21/2002 ATL vs. NYK W 17 8 4 6 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 1 3
+p157
+aVMark Strickland ATL 03/21/2002 ATL vs. NYK W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p158
+aVJacque Vaughn ATL 03/19/2002 ATL @ CHI W 16 10 3 4 75.0 1 1 100.0 3 4 75.0 0 2 2 3 1 0 1 1 1
+p159
+aVAlan Henderson ATL 03/19/2002 ATL @ CHI W 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p160
+aVNazr Mohammed ATL 03/19/2002 ATL @ CHI W 36 15 5 12 41.7 0 0 - 5 6 83.3 1 5 6 1 1 0 2 4 4
+p161
+aVHanno Mottola ATL 03/19/2002 ATL @ CHI W 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -9
+p162
+aVJason Terry ATL 03/19/2002 ATL @ CHI W 39 22 6 17 35.3 2 6 33.3 8 10 80.0 1 2 3 8 2 0 2 1 1
+p163
+aVIra Newble ATL 03/19/2002 ATL @ CHI W 39 10 5 7 71.4 0 0 - 0 0 - 2 4 6 2 2 1 0 4 20
+p164
+aVDerMarr Johnson ATL 03/19/2002 ATL @ CHI W 20 6 1 4 25.0 0 2 0.0 4 4 100.0 2 0 2 0 0 1 0 2 -3
+p165
+aVToni Kukoc ATL 03/19/2002 ATL @ CHI W 30 6 2 8 25.0 0 3 0.0 2 2 100.0 1 6 7 8 2 1 5 0 2
+p166
+aVShareef Abdur-Rahim ATL 03/19/2002 ATL @ CHI W 38 25 10 16 62.5 0 0 - 5 6 83.3 2 8 10 4 3 1 6 5 12
+p167
+aVNazr Mohammed ATL 03/17/2002 ATL @ IND L 27 15 7 10 70.0 0 0 - 1 3 33.3 4 5 9 0 2 1 0 2 -13
+p168
+aVCal Bowdler ATL 03/17/2002 ATL @ IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p169
+aVIra Newble ATL 03/17/2002 ATL @ IND L 30 5 1 2 50.0 0 0 - 3 4 75.0 1 6 7 0 2 0 0 2 -15
+p170
+aVToni Kukoc ATL 03/17/2002 ATL @ IND L 21 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 2 2 0 1 1 -10
+p171
+aVJason Terry ATL 03/17/2002 ATL @ IND L 37 9 3 16 18.8 1 5 20.0 2 2 100.0 1 2 3 6 2 0 4 1 -13
+p172
+aVDerMarr Johnson ATL 03/17/2002 ATL @ IND L 24 8 3 9 33.3 0 3 0.0 2 2 100.0 0 1 1 0 1 0 3 2 -5
+p173
+aVAlan Henderson ATL 03/17/2002 ATL @ IND L 19 4 2 4 50.0 0 0 - 0 2 0.0 2 4 6 0 0 1 2 4 -6
+p174
+aVHanno Mottola ATL 03/17/2002 ATL @ IND L 17 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 0 0 1 2 2
+p175
+aVShareef Abdur-Rahim ATL 03/17/2002 ATL @ IND L 31 9 4 12 33.3 0 1 0.0 1 2 50.0 1 5 6 2 0 0 4 3 -19
+p176
+aVJacque Vaughn ATL 03/17/2002 ATL @ IND L 23 4 1 7 14.3 0 1 0.0 2 2 100.0 0 2 2 3 0 0 2 0 -7
+p177
+aVMark Strickland ATL 03/17/2002 ATL @ IND L 9 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 2 0 1 1 -1
+p178
+aVJacque Vaughn ATL 03/15/2002 ATL vs. PHX W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 1
+p179
+aVHanno Mottola ATL 03/15/2002 ATL vs. PHX W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p180
+aVShareef Abdur-Rahim ATL 03/15/2002 ATL vs. PHX W 43 33 11 21 52.4 2 3 66.7 9 10 90.0 2 10 12 2 1 1 3 3 7
+p181
+aVIra Newble ATL 03/15/2002 ATL vs. PHX W 25 4 0 3 0.0 0 0 - 4 4 100.0 1 3 4 0 0 1 1 1 0
+p182
+aVNazr Mohammed ATL 03/15/2002 ATL vs. PHX W 23 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 0 1 0 3 5 -3
+p183
+aVAlan Henderson ATL 03/15/2002 ATL vs. PHX W 25 12 4 8 50.0 0 0 - 4 6 66.7 4 3 7 0 0 2 1 2 18
+p184
+aVJason Terry ATL 03/15/2002 ATL vs. PHX W 40 11 4 8 50.0 3 6 50.0 0 0 - 0 4 4 8 4 0 2 4 14
+p185
+aVDerMarr Johnson ATL 03/15/2002 ATL vs. PHX W 37 14 5 12 41.7 2 5 40.0 2 2 100.0 2 4 6 1 1 2 5 1 8
+p186
+aVToni Kukoc ATL 03/15/2002 ATL vs. PHX W 33 23 8 13 61.5 1 1 100.0 6 7 85.7 1 5 6 6 0 1 3 1 22
+p187
+aVJacque Vaughn ATL 03/13/2002 ATL vs. DEN W 25 11 5 7 71.4 1 2 50.0 0 0 - 0 3 3 7 0 0 4 4 3
+p188
+aVToni Kukoc ATL 03/13/2002 ATL vs. DEN W 18 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 2 1
+p189
+aVDerMarr Johnson ATL 03/13/2002 ATL vs. DEN W 25 15 6 14 42.9 1 4 25.0 2 2 100.0 3 6 9 1 1 3 3 1 -2
+p190
+aVShareef Abdur-Rahim ATL 03/13/2002 ATL vs. DEN W 43 25 10 16 62.5 1 1 100.0 4 5 80.0 1 7 8 3 2 1 4 4 9
+p191
+aVAlan Henderson ATL 03/13/2002 ATL vs. DEN W 15 5 1 2 50.0 0 0 - 3 5 60.0 0 1 1 0 0 0 0 1 -2
+p192
+aVJason Terry ATL 03/13/2002 ATL vs. DEN W 43 31 11 14 78.6 5 7 71.4 4 5 80.0 0 3 3 8 3 0 0 2 3
+p193
+aVIra Newble ATL 03/13/2002 ATL vs. DEN W 33 10 3 6 50.0 0 0 - 4 4 100.0 2 2 4 2 2 0 3 0 4
+p194
+aVNazr Mohammed ATL 03/13/2002 ATL vs. DEN W 29 8 3 12 25.0 0 0 - 2 4 50.0 3 3 6 0 1 0 0 4 2
+p195
+aVHanno Mottola ATL 03/13/2002 ATL vs. DEN W 8 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -3
+p196
+aVHanno Mottola ATL 03/11/2002 ATL vs. GSW W 10 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 2 0 0 0 2 8
+p197
+aVMark Strickland ATL 03/11/2002 ATL vs. GSW W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p198
+aVNazr Mohammed ATL 03/11/2002 ATL vs. GSW W 23 16 8 11 72.7 0 0 - 0 1 0.0 3 3 6 0 1 1 1 3 17
+p199
+aVAlan Henderson ATL 03/11/2002 ATL vs. GSW W 21 9 4 9 44.4 1 1 100.0 0 0 - 2 2 4 1 3 2 2 2 5
+p200
+aVIra Newble ATL 03/11/2002 ATL vs. GSW W 23 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 2 0 1 1 4 14
+p201
+aVJacque Vaughn ATL 03/11/2002 ATL vs. GSW W 29 16 7 9 77.8 1 1 100.0 1 2 50.0 1 4 5 5 1 0 0 4 25
+p202
+aVCal Bowdler ATL 03/11/2002 ATL vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p203
+aVShareef Abdur-Rahim ATL 03/11/2002 ATL vs. GSW W 37 19 7 14 50.0 0 1 0.0 5 5 100.0 6 7 13 3 0 0 2 3 17
+p204
+aVLeon Smith ATL 03/11/2002 ATL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p205
+aVDerMarr Johnson ATL 03/11/2002 ATL vs. GSW W 26 10 4 12 33.3 2 6 33.3 0 0 - 0 1 1 2 0 0 0 4 0
+p206
+aVJason Terry ATL 03/11/2002 ATL vs. GSW W 42 32 13 25 52.0 4 7 57.1 2 2 100.0 1 6 7 9 0 0 2 2 25
+p207
+aVToni Kukoc ATL 03/11/2002 ATL vs. GSW W 21 6 1 4 25.0 0 2 0.0 4 4 100.0 0 3 3 2 0 0 1 4 8
+p208
+aVMark Strickland ATL 03/09/2002 ATL vs. PHI L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p209
+aVAlan Henderson ATL 03/09/2002 ATL vs. PHI L 9 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -7
+p210
+aVToni Kukoc ATL 03/09/2002 ATL vs. PHI L 24 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 3 1 0 2 1 1
+p211
+aVJason Terry ATL 03/09/2002 ATL vs. PHI L 43 25 10 18 55.6 3 7 42.9 2 4 50.0 0 1 1 1 3 1 6 4 -23
+p212
+aVIra Newble ATL 03/09/2002 ATL vs. PHI L 19 0 0 3 0.0 0 1 0.0 0 0 - 2 2 4 0 1 1 0 0 -18
+p213
+aVDerMarr Johnson ATL 03/09/2002 ATL vs. PHI L 31 8 3 9 33.3 2 6 33.3 0 0 - 0 5 5 1 0 0 2 4 -1
+p214
+aVCal Bowdler ATL 03/09/2002 ATL vs. PHI L 10 7 2 6 33.3 0 0 - 3 3 100.0 1 0 1 0 0 0 0 1 -1
+p215
+aVJacque Vaughn ATL 03/09/2002 ATL vs. PHI L 27 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 7 2 1 0 3 -22
+p216
+aVShareef Abdur-Rahim ATL 03/09/2002 ATL vs. PHI L 40 26 11 18 61.1 1 1 100.0 3 4 75.0 5 2 7 2 2 0 3 3 -25
+p217
+aVNazr Mohammed ATL 03/09/2002 ATL vs. PHI L 12 5 1 6 16.7 0 0 - 3 4 75.0 2 0 2 0 0 0 1 2 -14
+p218
+aVHanno Mottola ATL 03/09/2002 ATL vs. PHI L 21 10 5 8 62.5 0 0 - 0 0 - 2 3 5 1 0 1 2 2 0
+p219
+aVJason Terry ATL 03/05/2002 ATL @ CLE L 39 29 12 21 57.1 3 6 50.0 2 3 66.7 2 3 5 4 1 1 3 2 -2
+p220
+aVMark Strickland ATL 03/05/2002 ATL @ CLE L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p221
+aVDerMarr Johnson ATL 03/05/2002 ATL @ CLE L 28 7 3 6 50.0 1 2 50.0 0 0 - 1 2 3 3 0 1 1 1 -1
+p222
+aVIra Newble ATL 03/05/2002 ATL @ CLE L 35 8 3 7 42.9 0 0 - 2 2 100.0 3 3 6 3 0 1 0 4 -7
+p223
+aVHanno Mottola ATL 03/05/2002 ATL @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p224
+aVNazr Mohammed ATL 03/05/2002 ATL @ CLE L 13 6 3 8 37.5 0 0 - 0 0 - 1 4 5 0 0 0 1 4 -8
+p225
+aVShareef Abdur-Rahim ATL 03/05/2002 ATL @ CLE L 39 19 9 19 47.4 0 0 - 1 2 50.0 0 7 7 9 1 4 3 2 -10
+p226
+aVAlan Henderson ATL 03/05/2002 ATL @ CLE L 11 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 0 0 2 1
+p227
+aVToni Kukoc ATL 03/05/2002 ATL @ CLE L 29 11 4 11 36.4 1 5 20.0 2 4 50.0 2 5 7 6 0 0 2 0 -5
+p228
+aVCal Bowdler ATL 03/05/2002 ATL @ CLE L 17 7 2 3 66.7 0 0 - 3 4 75.0 1 2 3 1 1 1 0 3 4
+p229
+aVJacque Vaughn ATL 03/05/2002 ATL @ CLE L 19 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 0 0 2 1 -9
+p230
+aVCal Bowdler ATL 03/04/2002 ATL vs. MEM W 5 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 0 1 0 -1
+p231
+aVShareef Abdur-Rahim ATL 03/04/2002 ATL vs. MEM W 33 23 10 16 62.5 0 1 0.0 3 6 50.0 2 5 7 5 1 1 2 3 18
+p232
+aVJacque Vaughn ATL 03/04/2002 ATL vs. MEM W 21 2 1 1 100.0 0 0 - 0 0 - 0 3 3 5 1 0 1 1 6
+p233
+aVToni Kukoc ATL 03/04/2002 ATL vs. MEM W 26 24 7 8 87.5 4 4 100.0 6 6 100.0 0 4 4 4 1 0 1 3 8
+p234
+aVDerMarr Johnson ATL 03/04/2002 ATL vs. MEM W 32 7 3 10 30.0 1 3 33.3 0 0 - 1 1 2 1 1 1 2 3 15
+p235
+aVNazr Mohammed ATL 03/04/2002 ATL vs. MEM W 27 4 2 4 50.0 0 0 - 0 0 - 1 7 8 1 0 2 2 5 3
+p236
+aVAlan Henderson ATL 03/04/2002 ATL vs. MEM W 15 7 3 6 50.0 0 0 - 1 1 100.0 0 2 2 0 0 0 1 1 18
+p237
+aVIra Newble ATL 03/04/2002 ATL vs. MEM W 35 10 5 7 71.4 0 0 - 0 0 - 0 1 1 3 1 0 2 3 14
+p238
+aVMark Strickland ATL 03/04/2002 ATL vs. MEM W 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 1
+p239
+aVJason Terry ATL 03/04/2002 ATL vs. MEM W 27 11 5 9 55.6 1 4 25.0 0 0 - 0 0 0 5 3 0 1 4 13
+p240
+aVHanno Mottola ATL 03/04/2002 ATL vs. MEM W 16 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 0 3 4 0
+p241
+aVAlan Henderson ATL 03/02/2002 ATL vs. CLE W 18 11 5 11 45.5 0 0 - 1 2 50.0 3 3 6 0 1 0 1 3 4
+p242
+aVIra Newble ATL 03/02/2002 ATL vs. CLE W 40 16 7 9 77.8 0 0 - 2 2 100.0 1 2 3 1 2 1 1 5 9
+p243
+aVDerMarr Johnson ATL 03/02/2002 ATL vs. CLE W 23 10 4 9 44.4 2 7 28.6 0 0 - 0 0 0 1 0 0 1 1 -17
+p244
+aVToni Kukoc ATL 03/02/2002 ATL vs. CLE W 33 23 9 11 81.8 4 6 66.7 1 2 50.0 0 5 5 4 1 1 5 0 14
+p245
+aVNazr Mohammed ATL 03/02/2002 ATL vs. CLE W 16 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -7
+p246
+aVJacque Vaughn ATL 03/02/2002 ATL vs. CLE W 17 5 1 5 20.0 0 2 0.0 3 3 100.0 1 0 1 3 1 0 1 2 5
+p247
+aVShareef Abdur-Rahim ATL 03/02/2002 ATL vs. CLE W 41 14 7 19 36.8 0 0 - 0 2 0.0 4 4 8 6 2 2 1 1 -4
+p248
+aVHanno Mottola ATL 03/02/2002 ATL vs. CLE W 21 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 2 1 1 2 13
+p249
+aVJason Terry ATL 03/02/2002 ATL vs. CLE W 31 3 1 14 7.1 0 6 0.0 1 3 33.3 1 5 6 6 2 0 4 1 -2
+p250
+aVIra Newble ATL 02/27/2002 ATL vs. SEA L 31 12 6 10 60.0 0 0 - 0 0 - 2 2 4 1 0 0 3 1 -9
+p251
+aVDerMarr Johnson ATL 02/27/2002 ATL vs. SEA L 21 6 2 5 40.0 1 3 33.3 1 2 50.0 0 3 3 0 0 0 1 2 -13
+p252
+aVJacque Vaughn ATL 02/27/2002 ATL vs. SEA L 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -3
+p253
+aVDion Glover ATL 02/27/2002 ATL vs. SEA L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -9
+p254
+aVCal Bowdler ATL 02/27/2002 ATL vs. SEA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p255
+aVToni Kukoc ATL 02/27/2002 ATL vs. SEA L 39 11 5 16 31.3 0 5 0.0 1 1 100.0 1 4 5 9 3 0 3 2 -6
+p256
+aVJason Terry ATL 02/27/2002 ATL vs. SEA L 44 18 7 19 36.8 2 6 33.3 2 2 100.0 2 2 4 5 1 2 2 1 -8
+p257
+aVShareef Abdur-Rahim ATL 02/27/2002 ATL vs. SEA L 42 24 9 13 69.2 0 0 - 6 8 75.0 5 11 16 4 0 1 8 5 -5
+p258
+aVHanno Mottola ATL 02/27/2002 ATL vs. SEA L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -16
+p259
+aVNazr Mohammed ATL 02/27/2002 ATL vs. SEA L 14 4 2 7 28.6 0 0 - 0 2 0.0 1 2 3 0 1 0 0 3 -6
+p260
+aVAlan Henderson ATL 02/27/2002 ATL vs. SEA L 22 6 3 4 75.0 0 0 - 0 0 - 0 5 5 1 0 1 1 1 -5
+p261
+aVJacque Vaughn ATL 02/24/2002 ATL @ DEN W 13 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 0 2 2 -9
+p262
+aVDerMarr Johnson ATL 02/24/2002 ATL @ DEN W 34 8 3 8 37.5 2 6 33.3 0 0 - 1 5 6 1 1 1 1 4 16
+p263
+aVShareef Abdur-Rahim ATL 02/24/2002 ATL @ DEN W 42 23 8 15 53.3 0 0 - 7 8 87.5 3 5 8 3 2 2 2 0 8
+p264
+aVHanno Mottola ATL 02/24/2002 ATL @ DEN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p265
+aVJason Terry ATL 02/24/2002 ATL @ DEN W 41 25 9 19 47.4 4 7 57.1 3 4 75.0 1 2 3 10 2 0 3 3 13
+p266
+aVToni Kukoc ATL 02/24/2002 ATL @ DEN W 23 10 4 6 66.7 0 1 0.0 2 4 50.0 2 2 4 2 0 0 0 3 0
+p267
+aVDion Glover ATL 02/24/2002 ATL @ DEN W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 1 -11
+p268
+aVNazr Mohammed ATL 02/24/2002 ATL @ DEN W 20 10 5 8 62.5 0 0 - 0 0 - 3 3 6 0 1 0 2 4 3
+p269
+aVAlan Henderson ATL 02/24/2002 ATL @ DEN W 19 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 2 -9
+p270
+aVIra Newble ATL 02/24/2002 ATL @ DEN W 34 4 1 6 16.7 0 0 - 2 2 100.0 1 6 7 1 1 0 4 1 17
+p271
+aVDion Glover ATL 02/22/2002 ATL @ SEA L 11 2 1 2 50.0 0 0 - 0 1 0.0 1 2 3 1 0 0 1 2 -2
+p272
+aVIra Newble ATL 02/22/2002 ATL @ SEA L 31 6 3 4 75.0 0 0 - 0 0 - 0 6 6 0 1 1 0 3 0
+p273
+aVDerMarr Johnson ATL 02/22/2002 ATL @ SEA L 29 13 4 9 44.4 1 5 20.0 4 4 100.0 0 4 4 0 2 1 0 5 -4
+p274
+aVShareef Abdur-Rahim ATL 02/22/2002 ATL @ SEA L 44 25 8 17 47.1 1 2 50.0 8 9 88.9 5 11 16 4 2 0 7 2 -3
+p275
+aVNazr Mohammed ATL 02/22/2002 ATL @ SEA L 17 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 2 0 1 -4
+p276
+aVAlan Henderson ATL 02/22/2002 ATL @ SEA L 27 6 2 4 50.0 0 0 - 2 4 50.0 2 2 4 0 1 0 2 4 13
+p277
+aVJason Terry ATL 02/22/2002 ATL @ SEA L 46 32 12 25 48.0 2 10 20.0 6 6 100.0 3 1 4 8 1 0 3 0 0
+p278
+aVJacque Vaughn ATL 02/22/2002 ATL @ SEA L 27 7 2 8 25.0 0 1 0.0 3 4 75.0 0 5 5 5 0 0 2 5 -5
+p279
+aVHanno Mottola ATL 02/22/2002 ATL @ SEA L 8 3 1 4 25.0 0 0 - 1 1 100.0 1 0 1 0 0 1 0 0 -10
+p280
+aVCal Bowdler ATL 02/21/2002 ATL @ POR L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 6
+p281
+aVNazr Mohammed ATL 02/21/2002 ATL @ POR L 21 4 2 9 22.2 0 1 0.0 0 1 0.0 2 3 5 0 1 0 1 0 -13
+p282
+aVIra Newble ATL 02/21/2002 ATL @ POR L 19 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 1 0 0 4 -14
+p283
+aVJacque Vaughn ATL 02/21/2002 ATL @ POR L 28 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 8 1 0 2 2 -5
+p284
+aVJason Terry ATL 02/21/2002 ATL @ POR L 38 21 7 17 41.2 1 4 25.0 6 7 85.7 1 2 3 6 1 0 1 3 -17
+p285
+aVAlan Henderson ATL 02/21/2002 ATL @ POR L 20 8 3 5 60.0 0 0 - 2 6 33.3 1 3 4 1 0 1 0 2 -10
+p286
+aVDion Glover ATL 02/21/2002 ATL @ POR L 22 9 3 10 30.0 3 5 60.0 0 0 - 1 7 8 2 0 0 0 2 -3
+p287
+aVDerMarr Johnson ATL 02/21/2002 ATL @ POR L 22 6 3 8 37.5 0 3 0.0 0 0 - 0 1 1 3 0 1 0 2 -7
+p288
+aVHanno Mottola ATL 02/21/2002 ATL @ POR L 12 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 5
+p289
+aVToni Kukoc ATL 02/21/2002 ATL @ POR L 14 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 2 0 0 3 1 1
+p290
+aVShareef Abdur-Rahim ATL 02/21/2002 ATL @ POR L 36 19 5 11 45.5 0 0 - 9 9 100.0 3 5 8 0 0 0 4 3 -24
+p291
+aVMark Strickland ATL 02/21/2002 ATL @ POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 6
+p292
+aVToni Kukoc ATL 02/19/2002 ATL @ SAC L 20 4 2 6 33.3 0 1 0.0 0 2 0.0 1 3 4 6 1 0 2 1 -4
+p293
+aVDerMarr Johnson ATL 02/19/2002 ATL @ SAC L 37 13 5 15 33.3 3 7 42.9 0 0 - 2 2 4 0 2 0 2 3 -17
+p294
+aVJason Terry ATL 02/19/2002 ATL @ SAC L 38 17 5 14 35.7 3 9 33.3 4 4 100.0 0 3 3 2 2 0 4 1 -16
+p295
+aVNazr Mohammed ATL 02/19/2002 ATL @ SAC L 19 9 3 6 50.0 0 0 - 3 4 75.0 2 4 6 1 0 0 1 4 -12
+p296
+aVDion Glover ATL 02/19/2002 ATL @ SAC L 6 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 1 1 1 -7
+p297
+aVAlan Henderson ATL 02/19/2002 ATL @ SAC L 6 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 2 2
+p298
+aVIra Newble ATL 02/19/2002 ATL @ SAC L 40 8 4 8 50.0 0 0 - 0 0 - 4 5 9 3 0 0 1 3 -14
+p299
+aVShareef Abdur-Rahim ATL 02/19/2002 ATL @ SAC L 42 12 6 18 33.3 0 1 0.0 0 0 - 4 5 9 5 1 2 4 3 -13
+p300
+aVMark Strickland ATL 02/19/2002 ATL @ SAC L 2 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -2
+p301
+aVHanno Mottola ATL 02/19/2002 ATL @ SAC L 17 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -11
+p302
+aVJacque Vaughn ATL 02/19/2002 ATL @ SAC L 12 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 0 0 -6
+p303
+aVJacque Vaughn ATL 02/17/2002 ATL @ GSW W 14 4 0 5 0.0 0 0 - 4 4 100.0 0 5 5 2 0 0 3 3 -12
+p304
+aVShareef Abdur-Rahim ATL 02/17/2002 ATL @ GSW W 44 26 9 17 52.9 1 2 50.0 7 10 70.0 1 8 9 6 2 5 3 4 9
+p305
+aVIra Newble ATL 02/17/2002 ATL @ GSW W 41 8 4 8 50.0 0 0 - 0 0 - 2 7 9 1 2 0 1 5 6
+p306
+aVToni Kukoc ATL 02/17/2002 ATL @ GSW W 14 7 3 6 50.0 0 1 0.0 1 3 33.3 1 1 2 4 0 0 2 2 -9
+p307
+aVDion Glover ATL 02/17/2002 ATL @ GSW W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p308
+aVDerMarr Johnson ATL 02/17/2002 ATL @ GSW W 27 14 5 8 62.5 2 3 66.7 2 4 50.0 1 5 6 1 0 0 4 4 10
+p309
+aVAlan Henderson ATL 02/17/2002 ATL @ GSW W 7 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p310
+aVNazr Mohammed ATL 02/17/2002 ATL @ GSW W 32 15 6 12 50.0 0 0 - 3 4 75.0 5 6 11 0 2 1 1 4 11
+p311
+aVHanno Mottola ATL 02/17/2002 ATL @ GSW W 11 6 3 7 42.9 0 0 - 0 0 - 1 2 3 1 0 0 1 4 1
+p312
+aVJason Terry ATL 02/17/2002 ATL @ GSW W 45 18 8 22 36.4 2 7 28.6 0 0 - 0 5 5 5 4 1 1 2 14
+p313
+aVDion Glover ATL 02/15/2002 ATL @ LAL W 15 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 1 0 1 0 3 -9
+p314
+aVJason Terry ATL 02/15/2002 ATL @ LAL W 40 11 4 12 33.3 0 6 0.0 3 3 100.0 0 3 3 5 3 0 4 5 -1
+p315
+aVShareef Abdur-Rahim ATL 02/15/2002 ATL @ LAL W 43 32 11 22 50.0 0 2 0.0 10 10 100.0 0 7 7 6 2 1 1 3 12
+p316
+aVDerMarr Johnson ATL 02/15/2002 ATL @ LAL W 32 10 3 8 37.5 2 5 40.0 2 2 100.0 0 6 6 1 2 1 1 5 14
+p317
+aVAlan Henderson ATL 02/15/2002 ATL @ LAL W 8 7 2 3 66.7 0 0 - 3 3 100.0 0 1 1 0 0 0 0 0 -9
+p318
+aVJacque Vaughn ATL 02/15/2002 ATL @ LAL W 21 9 4 6 66.7 0 1 0.0 1 1 100.0 1 1 2 5 0 0 1 4 -3
+p319
+aVMark Strickland ATL 02/15/2002 ATL @ LAL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p320
+aVHanno Mottola ATL 02/15/2002 ATL @ LAL W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p321
+aVIra Newble ATL 02/15/2002 ATL @ LAL W 33 10 4 10 40.0 0 0 - 2 2 100.0 2 4 6 1 0 1 0 4 7
+p322
+aVNazr Mohammed ATL 02/15/2002 ATL @ LAL W 38 7 3 9 33.3 0 0 - 1 2 50.0 3 7 10 0 0 5 2 4 11
+p323
+aVHanno Mottola ATL 02/12/2002 ATL vs. NJN W 15 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -10
+p324
+aVDion Glover ATL 02/12/2002 ATL vs. NJN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p325
+aVIra Newble ATL 02/12/2002 ATL vs. NJN W 23 4 1 6 16.7 0 0 - 2 4 50.0 1 3 4 1 2 1 2 3 7
+p326
+aVJacque Vaughn ATL 02/12/2002 ATL vs. NJN W 19 8 4 9 44.4 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -5
+p327
+aVMark Strickland ATL 02/12/2002 ATL vs. NJN W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 1 0 -7
+p328
+aVShareef Abdur-Rahim ATL 02/12/2002 ATL vs. NJN W 46 34 9 18 50.0 0 0 - 16 16 100.0 1 7 8 6 2 0 1 5 3
+p329
+aVDerMarr Johnson ATL 02/12/2002 ATL vs. NJN W 45 21 7 15 46.7 4 9 44.4 3 4 75.0 4 6 10 0 0 2 1 3 8
+p330
+aVCal Bowdler ATL 02/12/2002 ATL vs. NJN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p331
+aVNazr Mohammed ATL 02/12/2002 ATL vs. NJN W 32 8 4 8 50.0 0 0 - 0 2 0.0 2 6 8 0 0 1 0 4 9
+p332
+aVJason Terry ATL 02/12/2002 ATL vs. NJN W 48 28 10 18 55.6 3 7 42.9 5 7 71.4 1 4 5 7 1 0 2 1 2
+p333
+aVDion Glover ATL 02/07/2002 ATL @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p334
+aVDerMarr Johnson ATL 02/07/2002 ATL @ NYK L 17 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 3 -6
+p335
+aVIra Newble ATL 02/07/2002 ATL @ NYK L 41 9 3 8 37.5 0 0 - 3 3 100.0 1 6 7 1 4 1 2 3 -8
+p336
+aVHanno Mottola ATL 02/07/2002 ATL @ NYK L 22 5 2 6 33.3 0 1 0.0 1 2 50.0 1 5 6 2 0 0 1 2 14
+p337
+aVNazr Mohammed ATL 02/07/2002 ATL @ NYK L 31 10 5 9 55.6 0 0 - 0 0 - 0 6 6 1 0 1 2 4 -19
+p338
+aVMark Strickland ATL 02/07/2002 ATL @ NYK L 6 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 2
+p339
+aVJacque Vaughn ATL 02/07/2002 ATL @ NYK L 31 5 2 8 25.0 1 4 25.0 0 0 - 1 4 5 8 0 0 3 1 16
+p340
+aVShareef Abdur-Rahim ATL 02/07/2002 ATL @ NYK L 43 29 10 18 55.6 0 0 - 9 13 69.2 1 5 6 3 7 2 4 3 -1
+p341
+aVJason Terry ATL 02/07/2002 ATL @ NYK L 46 25 10 18 55.6 4 6 66.7 1 1 100.0 1 3 4 3 2 0 2 0 0
+p342
+aVJacque Vaughn ATL 02/05/2002 ATL @ MIA W 28 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 5 1 0 1 3 4
+p343
+aVJason Terry ATL 02/05/2002 ATL @ MIA W 45 16 3 14 21.4 2 6 33.3 8 9 88.9 0 6 6 6 2 0 3 0 7
+p344
+aVCal Bowdler ATL 02/05/2002 ATL @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p345
+aVMark Strickland ATL 02/05/2002 ATL @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p346
+aVDion Glover ATL 02/05/2002 ATL @ MIA W 10 0 0 3 0.0 0 1 0.0 0 2 0.0 0 2 2 1 0 1 0 0 -4
+p347
+aVDerMarr Johnson ATL 02/05/2002 ATL @ MIA W 22 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 3 6
+p348
+aVIra Newble ATL 02/05/2002 ATL @ MIA W 34 2 1 4 25.0 0 0 - 0 0 - 3 6 9 1 0 1 0 3 -4
+p349
+aVShareef Abdur-Rahim ATL 02/05/2002 ATL @ MIA W 37 34 12 24 50.0 0 0 - 10 11 90.9 1 10 11 1 3 0 6 5 6
+p350
+aVNazr Mohammed ATL 02/05/2002 ATL @ MIA W 30 9 4 9 44.4 0 0 - 1 3 33.3 2 3 5 0 1 0 1 4 -1
+p351
+aVHanno Mottola ATL 02/05/2002 ATL @ MIA W 28 10 4 5 80.0 0 0 - 2 2 100.0 1 5 6 0 0 0 0 2 5
+p352
+aVIra Newble ATL 02/02/2002 ATL vs. LAC W 20 10 4 4 100.0 0 0 - 2 2 100.0 0 4 4 0 0 0 1 0 4
+p353
+aVHanno Mottola ATL 02/02/2002 ATL vs. LAC W 27 8 4 6 66.7 0 1 0.0 0 2 0.0 3 2 5 0 0 0 0 3 14
+p354
+aVJacque Vaughn ATL 02/02/2002 ATL vs. LAC W 29 9 2 5 40.0 1 1 100.0 4 6 66.7 0 5 5 8 0 0 2 5 10
+p355
+aVDerMarr Johnson ATL 02/02/2002 ATL vs. LAC W 28 11 4 10 40.0 3 5 60.0 0 0 - 2 4 6 1 0 0 1 4 7
+p356
+aVNazr Mohammed ATL 02/02/2002 ATL vs. LAC W 26 4 2 7 28.6 0 0 - 0 2 0.0 1 5 6 2 0 0 3 3 -2
+p357
+aVShareef Abdur-Rahim ATL 02/02/2002 ATL vs. LAC W 42 27 9 17 52.9 1 1 100.0 8 8 100.0 1 3 4 2 3 1 2 5 4
+p358
+aVDion Glover ATL 02/02/2002 ATL vs. LAC W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -12
+p359
+aVMark Strickland ATL 02/02/2002 ATL vs. LAC W 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 3 0 -4
+p360
+aVJason Terry ATL 02/02/2002 ATL vs. LAC W 45 30 11 20 55.0 4 6 66.7 4 6 66.7 1 4 5 6 1 0 2 0 14
+p361
+aVMark Strickland ATL 02/01/2002 ATL @ WAS L 18 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 1 1 2 1
+p362
+aVDerMarr Johnson ATL 02/01/2002 ATL @ WAS L 30 11 4 10 40.0 2 6 33.3 1 2 50.0 2 5 7 0 1 4 1 3 -8
+p363
+aVJacque Vaughn ATL 02/01/2002 ATL @ WAS L 27 12 4 5 80.0 2 3 66.7 2 2 100.0 0 5 5 5 0 0 5 5 -2
+p364
+aVHanno Mottola ATL 02/01/2002 ATL @ WAS L 14 3 0 2 0.0 0 0 - 3 4 75.0 1 1 2 0 0 0 2 1 -9
+p365
+aVJason Terry ATL 02/01/2002 ATL @ WAS L 37 17 7 15 46.7 3 8 37.5 0 0 - 0 2 2 1 1 1 3 0 -4
+p366
+aVShareef Abdur-Rahim ATL 02/01/2002 ATL @ WAS L 45 25 11 21 52.4 0 0 - 3 5 60.0 3 5 8 4 0 0 4 2 0
+p367
+aVNazr Mohammed ATL 02/01/2002 ATL @ WAS L 37 15 7 9 77.8 0 0 - 1 2 50.0 4 9 13 2 0 0 1 4 -5
+p368
+aVIra Newble ATL 02/01/2002 ATL @ WAS L 21 5 2 7 28.6 0 1 0.0 1 2 50.0 2 1 3 0 0 0 1 1 -16
+p369
+aVDion Glover ATL 02/01/2002 ATL @ WAS L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 0 0 8
+p370
+aVDerMarr Johnson ATL 01/30/2002 ATL @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -9
+p371
+aVCal Bowdler ATL 01/30/2002 ATL @ DET L 6 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -4
+p372
+aVJason Terry ATL 01/30/2002 ATL @ DET L 33 19 6 17 35.3 2 6 33.3 5 6 83.3 0 3 3 4 0 0 2 2 -14
+p373
+aVShareef Abdur-Rahim ATL 01/30/2002 ATL @ DET L 40 10 4 14 28.6 0 1 0.0 2 4 50.0 3 4 7 2 0 1 3 2 -15
+p374
+aVJacque Vaughn ATL 01/30/2002 ATL @ DET L 22 4 2 3 66.7 0 0 - 0 0 - 0 0 0 6 2 0 4 3 -10
+p375
+aVHanno Mottola ATL 01/30/2002 ATL @ DET L 24 4 2 7 28.6 0 0 - 0 0 - 2 2 4 2 0 0 3 4 0
+p376
+aVMark Strickland ATL 01/30/2002 ATL @ DET L 25 2 1 7 14.3 0 0 - 0 0 - 1 4 5 0 0 1 0 2 -20
+p377
+aVNazr Mohammed ATL 01/30/2002 ATL @ DET L 22 7 3 7 42.9 0 0 - 1 2 50.0 1 8 9 0 0 0 2 5 -17
+p378
+aVDion Glover ATL 01/30/2002 ATL @ DET L 31 12 5 8 62.5 0 0 - 2 2 100.0 2 3 5 4 4 1 4 3 0
+p379
+aVIra Newble ATL 01/30/2002 ATL @ DET L 30 8 3 4 75.0 1 2 50.0 1 2 50.0 4 2 6 0 3 1 1 5 4
+p380
+aVIra Newble ATL 01/29/2002 ATL vs. LAL L 16 7 3 6 50.0 0 0 - 1 1 100.0 3 1 4 0 1 1 2 0 -3
+p381
+aVDion Glover ATL 01/29/2002 ATL vs. LAL L 25 8 3 14 21.4 1 2 50.0 1 2 50.0 1 2 3 2 1 0 1 1 -17
+p382
+aVHanno Mottola ATL 01/29/2002 ATL vs. LAL L 17 6 3 3 100.0 0 0 - 0 0 - 1 2 3 2 0 0 2 1 -8
+p383
+aVMark Strickland ATL 01/29/2002 ATL vs. LAL L 20 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 2 1 0 0 1 -18
+p384
+aVJason Terry ATL 01/29/2002 ATL vs. LAL L 31 11 5 11 45.5 1 3 33.3 0 0 - 1 0 1 8 1 0 4 3 -29
+p385
+aVJacque Vaughn ATL 01/29/2002 ATL vs. LAL L 33 13 6 12 50.0 1 1 100.0 0 0 - 0 0 0 7 5 0 1 3 -25
+p386
+aVLeon Smith ATL 01/29/2002 ATL vs. LAL L 9 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p387
+aVCal Bowdler ATL 01/29/2002 ATL vs. LAL L 8 0 0 5 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -11
+p388
+aVDerMarr Johnson ATL 01/29/2002 ATL vs. LAL L 19 7 2 3 66.7 1 1 100.0 2 2 100.0 2 3 5 1 2 0 2 3 -10
+p389
+aVShareef Abdur-Rahim ATL 01/29/2002 ATL vs. LAL L 33 21 10 20 50.0 0 0 - 1 3 33.3 4 4 8 1 0 1 2 3 -24
+p390
+aVNazr Mohammed ATL 01/29/2002 ATL vs. LAL L 29 15 7 16 43.8 0 0 - 1 2 50.0 5 2 7 1 1 1 1 3 -28
+p391
+aVDerMarr Johnson ATL 01/26/2002 ATL @ MIN L 19 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 2 1 1 3 0 -11
+p392
+aVIra Newble ATL 01/26/2002 ATL @ MIN L 13 8 3 5 60.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 3 -7
+p393
+aVDion Glover ATL 01/26/2002 ATL @ MIN L 18 3 0 3 0.0 0 0 - 3 4 75.0 0 4 4 0 1 0 6 2 -5
+p394
+aVHanno Mottola ATL 01/26/2002 ATL @ MIN L 27 9 3 9 33.3 0 0 - 3 4 75.0 0 3 3 2 1 0 2 3 -9
+p395
+aVNazr Mohammed ATL 01/26/2002 ATL @ MIN L 32 11 3 9 33.3 0 0 - 5 6 83.3 4 7 11 0 1 0 1 2 -20
+p396
+aVLeon Smith ATL 01/26/2002 ATL @ MIN L 12 3 0 0 - 0 0 - 3 6 50.0 3 1 4 0 1 1 0 3 0
+p397
+aVJason Terry ATL 01/26/2002 ATL @ MIN L 36 16 5 13 38.5 2 5 40.0 4 5 80.0 1 1 2 5 4 0 6 1 -22
+p398
+aVMark Strickland ATL 01/26/2002 ATL @ MIN L 32 12 5 12 41.7 0 0 - 2 2 100.0 2 3 5 1 0 0 2 1 -19
+p399
+aVCal Bowdler ATL 01/26/2002 ATL @ MIN L 17 10 4 9 44.4 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 3 -1
+p400
+aVJacque Vaughn ATL 01/26/2002 ATL @ MIN L 35 4 1 6 16.7 0 0 - 2 2 100.0 0 1 1 6 0 0 3 3 -21
+p401
+aVCal Bowdler ATL 01/25/2002 ATL vs. DET L 13 6 3 7 42.9 0 0 - 0 0 - 2 0 2 0 0 1 1 6 -8
+p402
+aVNazr Mohammed ATL 01/25/2002 ATL vs. DET L 34 16 7 17 41.2 0 0 - 2 2 100.0 6 8 14 0 1 1 5 5 -20
+p403
+aVIra Newble ATL 01/25/2002 ATL vs. DET L 11 7 3 5 60.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 1 -2
+p404
+aVJason Terry ATL 01/25/2002 ATL vs. DET L 38 15 5 15 33.3 0 2 0.0 5 7 71.4 0 3 3 5 1 0 2 0 -25
+p405
+aVDion Glover ATL 01/25/2002 ATL vs. DET L 21 13 5 11 45.5 0 3 0.0 3 5 60.0 0 1 1 2 4 2 2 3 -4
+p406
+aVMark Strickland ATL 01/25/2002 ATL vs. DET L 22 8 2 6 33.3 0 0 - 4 6 66.7 4 3 7 2 2 0 0 3 -13
+p407
+aVHanno Mottola ATL 01/25/2002 ATL vs. DET L 30 8 4 8 50.0 0 0 - 0 0 - 1 2 3 1 0 1 2 4 -10
+p408
+aVJacque Vaughn ATL 01/25/2002 ATL vs. DET L 33 4 1 4 25.0 0 1 0.0 2 2 100.0 0 5 5 11 2 0 0 1 -6
+p409
+aVDerMarr Johnson ATL 01/25/2002 ATL vs. DET L 24 8 3 8 37.5 2 4 50.0 0 0 - 0 3 3 2 1 0 4 4 0
+p410
+aVLeon Smith ATL 01/25/2002 ATL vs. DET L 14 5 1 3 33.3 0 0 - 3 4 75.0 2 3 5 1 2 0 1 1 3
+p411
+aVMark Strickland ATL 01/22/2002 ATL @ ORL L 37 11 4 14 28.6 0 0 - 3 4 75.0 0 5 5 2 1 0 3 3 -16
+p412
+aVCal Bowdler ATL 01/22/2002 ATL @ ORL L 15 4 2 7 28.6 0 0 - 0 0 - 2 2 4 0 1 0 0 3 -4
+p413
+aVNazr Mohammed ATL 01/22/2002 ATL @ ORL L 33 10 5 8 62.5 0 0 - 0 0 - 3 3 6 1 1 1 1 1 -20
+p414
+aVHanno Mottola ATL 01/22/2002 ATL @ ORL L 36 14 7 9 77.8 0 0 - 0 0 - 0 3 3 0 2 0 2 4 -16
+p415
+aVDion Glover ATL 01/22/2002 ATL @ ORL L 23 13 4 8 50.0 0 1 0.0 5 6 83.3 0 4 4 4 1 1 2 0 3
+p416
+aVIra Newble ATL 01/22/2002 ATL @ ORL L 9 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 1 0 -5
+p417
+aVJacque Vaughn ATL 01/22/2002 ATL @ ORL L 44 14 7 15 46.7 0 0 - 0 0 - 0 4 4 8 0 0 3 3 -18
+p418
+aVDerMarr Johnson ATL 01/22/2002 ATL @ ORL L 32 13 5 11 45.5 1 2 50.0 2 3 66.7 1 3 4 4 4 1 2 2 -3
+p419
+aVLeon Smith ATL 01/22/2002 ATL @ ORL L 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 9
+p420
+aVJacque Vaughn ATL 01/21/2002 ATL vs. HOU W 28 2 1 4 25.0 0 0 - 0 0 - 0 1 1 5 0 0 2 5 -3
+p421
+aVHanno Mottola ATL 01/21/2002 ATL vs. HOU W 19 4 2 7 28.6 0 0 - 0 0 - 1 3 4 1 0 0 0 2 7
+p422
+aVShareef Abdur-Rahim ATL 01/21/2002 ATL vs. HOU W 31 16 6 15 40.0 0 0 - 4 5 80.0 3 6 9 3 1 0 2 2 0
+p423
+aVDion Glover ATL 01/21/2002 ATL vs. HOU W 27 15 4 10 40.0 1 4 25.0 6 6 100.0 1 3 4 1 1 0 2 2 -1
+p424
+aVDerMarr Johnson ATL 01/21/2002 ATL vs. HOU W 22 10 4 10 40.0 1 3 33.3 1 1 100.0 1 0 1 1 1 0 1 3 8
+p425
+aVJason Terry ATL 01/21/2002 ATL vs. HOU W 39 19 7 17 41.2 2 5 40.0 3 4 75.0 0 4 4 7 4 0 4 3 8
+p426
+aVNazr Mohammed ATL 01/21/2002 ATL vs. HOU W 42 18 8 10 80.0 0 0 - 2 4 50.0 5 12 17 2 2 1 1 2 4
+p427
+aVMark Strickland ATL 01/21/2002 ATL vs. HOU W 32 11 4 8 50.0 0 0 - 3 4 75.0 0 0 0 1 1 3 1 4 -3
+p428
+aVShareef Abdur-Rahim ATL 01/19/2002 ATL vs. MIL L 43 19 7 20 35.0 0 1 0.0 5 6 83.3 3 4 7 1 1 2 4 2 -5
+p429
+aVMark Strickland ATL 01/19/2002 ATL vs. MIL L 32 11 4 7 57.1 0 0 - 3 6 50.0 2 6 8 2 0 0 1 2 3
+p430
+aVJacque Vaughn ATL 01/19/2002 ATL vs. MIL L 20 8 4 4 100.0 0 0 - 0 0 - 0 2 2 1 1 0 2 2 -15
+p431
+aVDerMarr Johnson ATL 01/19/2002 ATL vs. MIL L 34 14 5 12 41.7 4 7 57.1 0 0 - 0 1 1 2 3 1 0 6 -6
+p432
+aVDion Glover ATL 01/19/2002 ATL vs. MIL L 14 7 2 5 40.0 1 4 25.0 2 2 100.0 1 2 3 1 0 0 0 1 -8
+p433
+aVNazr Mohammed ATL 01/19/2002 ATL vs. MIL L 43 22 10 20 50.0 0 0 - 2 2 100.0 10 9 19 3 1 2 1 5 -9
+p434
+aVHanno Mottola ATL 01/19/2002 ATL vs. MIL L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p435
+aVLeon Smith ATL 01/19/2002 ATL vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p436
+aVJason Terry ATL 01/19/2002 ATL vs. MIL L 43 24 7 18 38.9 1 5 20.0 9 10 90.0 1 2 3 7 1 1 3 2 -3
+p437
+aVHanno Mottola ATL 01/17/2002 ATL vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p438
+aVJason Terry ATL 01/17/2002 ATL vs. CHI L 41 25 9 18 50.0 5 12 41.7 2 2 100.0 0 2 2 10 0 1 2 1 4
+p439
+aVShareef Abdur-Rahim ATL 01/17/2002 ATL vs. CHI L 45 22 10 22 45.5 0 1 0.0 2 2 100.0 6 5 11 4 1 2 2 3 -1
+p440
+aVMark Strickland ATL 01/17/2002 ATL vs. CHI L 27 4 2 7 28.6 0 0 - 0 1 0.0 4 3 7 0 1 0 1 0 0
+p441
+aVJacque Vaughn ATL 01/17/2002 ATL vs. CHI L 25 11 4 5 80.0 1 1 100.0 2 2 100.0 0 1 1 7 1 0 0 3 -7
+p442
+aVDerMarr Johnson ATL 01/17/2002 ATL vs. CHI L 31 3 1 8 12.5 1 4 25.0 0 0 - 0 2 2 1 1 0 2 2 -6
+p443
+aVLeon Smith ATL 01/17/2002 ATL vs. CHI L 9 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 2 2
+p444
+aVDion Glover ATL 01/17/2002 ATL vs. CHI L 20 10 3 8 37.5 0 3 0.0 4 4 100.0 0 2 2 2 1 0 3 1 0
+p445
+aVCal Bowdler ATL 01/17/2002 ATL vs. CHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p446
+aVNazr Mohammed ATL 01/17/2002 ATL vs. CHI L 34 14 6 12 50.0 0 0 - 2 5 40.0 5 9 14 1 0 1 4 6 0
+p447
+aVDerMarr Johnson ATL 01/15/2002 ATL vs. DAL L 14 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -12
+p448
+aVMark Strickland ATL 01/15/2002 ATL vs. DAL L 34 10 5 8 62.5 0 0 - 0 2 0.0 2 9 11 0 0 1 0 1 3
+p449
+aVShareef Abdur-Rahim ATL 01/15/2002 ATL vs. DAL L 36 19 7 17 41.2 0 1 0.0 5 6 83.3 3 5 8 4 0 0 5 4 -12
+p450
+aVHanno Mottola ATL 01/15/2002 ATL vs. DAL L 10 0 0 5 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -5
+p451
+aVJason Terry ATL 01/15/2002 ATL vs. DAL L 45 46 15 23 65.2 3 5 60.0 13 17 76.5 0 3 3 5 3 0 5 4 -3
+p452
+aVCal Bowdler ATL 01/15/2002 ATL vs. DAL L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 4
+p453
+aVDion Glover ATL 01/15/2002 ATL vs. DAL L 19 4 2 10 20.0 0 1 0.0 0 0 - 3 0 3 0 0 0 0 2 -22
+p454
+aVNazr Mohammed ATL 01/15/2002 ATL vs. DAL L 40 21 9 14 64.3 0 0 - 3 4 75.0 8 10 18 0 2 5 4 3 -5
+p455
+aVJacque Vaughn ATL 01/15/2002 ATL vs. DAL L 31 7 1 5 20.0 0 1 0.0 5 6 83.3 0 3 3 6 2 0 2 3 7
+p456
+aVHanno Mottola ATL 01/12/2002 ATL vs. BOS L 20 8 4 8 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 5 -11
+p457
+aVCal Bowdler ATL 01/12/2002 ATL vs. BOS L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p458
+aVShareef Abdur-Rahim ATL 01/12/2002 ATL vs. BOS L 40 17 5 13 38.5 0 1 0.0 7 7 100.0 6 8 14 1 1 0 2 2 -14
+p459
+aVNazr Mohammed ATL 01/12/2002 ATL vs. BOS L 23 9 2 6 33.3 0 0 - 5 6 83.3 4 3 7 0 1 1 2 2 -9
+p460
+aVMark Strickland ATL 01/12/2002 ATL vs. BOS L 17 10 5 7 71.4 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -4
+p461
+aVEmanual Davis ATL 01/12/2002 ATL vs. BOS L 12 2 1 5 20.0 0 3 0.0 0 0 - 1 3 4 1 0 0 3 2 -4
+p462
+aVDerMarr Johnson ATL 01/12/2002 ATL vs. BOS L 33 9 3 10 30.0 0 3 0.0 3 6 50.0 3 3 6 1 0 0 2 1 -23
+p463
+aVJacque Vaughn ATL 01/12/2002 ATL vs. BOS L 16 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 1 0 0 2 -2
+p464
+aVDion Glover ATL 01/12/2002 ATL vs. BOS L 39 19 8 19 42.1 0 3 0.0 3 4 75.0 1 10 11 2 2 2 1 3 -24
+p465
+aVJason Terry ATL 01/12/2002 ATL vs. BOS L 32 17 6 14 42.9 2 8 25.0 3 4 75.0 1 3 4 5 0 0 1 2 -22
+p466
+aVNazr Mohammed ATL 01/11/2002 ATL @ TOR L 24 12 5 6 83.3 0 0 - 2 5 40.0 3 2 5 0 1 1 1 3 13
+p467
+aVJason Terry ATL 01/11/2002 ATL @ TOR L 41 20 7 16 43.8 4 8 50.0 2 2 100.0 0 6 6 6 4 0 5 0 -8
+p468
+aVMark Strickland ATL 01/11/2002 ATL @ TOR L 23 5 2 5 40.0 0 0 - 1 2 50.0 0 4 4 1 0 0 0 3 15
+p469
+aVShareef Abdur-Rahim ATL 01/11/2002 ATL @ TOR L 49 26 8 20 40.0 0 1 0.0 10 11 90.9 2 14 16 4 3 2 6 2 -5
+p470
+aVTheo Ratliff ATL 01/11/2002 ATL @ TOR L 15 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 1 2 1 -6
+p471
+aVHanno Mottola ATL 01/11/2002 ATL @ TOR L 17 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 1 -8
+p472
+aVJacque Vaughn ATL 01/11/2002 ATL @ TOR L 18 7 2 3 66.7 0 0 - 3 4 75.0 0 3 3 6 1 0 2 1 4
+p473
+aVEmanual Davis ATL 01/11/2002 ATL @ TOR L 40 7 3 11 27.3 1 5 20.0 0 0 - 2 1 3 4 2 0 0 3 6
+p474
+aVDerMarr Johnson ATL 01/11/2002 ATL @ TOR L 25 7 2 6 33.3 1 3 33.3 2 2 100.0 0 1 1 0 1 0 0 2 -17
+p475
+aVDion Glover ATL 01/11/2002 ATL @ TOR L 13 3 1 4 25.0 0 2 0.0 1 1 100.0 0 0 0 0 0 0 1 2 -9
+p476
+aVMark Strickland ATL 01/09/2002 ATL @ CHH L 5 6 2 3 66.7 0 0 - 2 2 100.0 2 0 2 0 1 1 0 1 -4
+p477
+aVShareef Abdur-Rahim ATL 01/09/2002 ATL @ CHH L 33 20 7 21 33.3 0 0 - 6 9 66.7 7 2 9 3 3 0 0 1 -14
+p478
+aVEmanual Davis ATL 01/09/2002 ATL @ CHH L 28 11 4 10 40.0 3 5 60.0 0 0 - 0 1 1 2 1 1 1 1 -18
+p479
+aVHanno Mottola ATL 01/09/2002 ATL @ CHH L 31 9 4 10 40.0 0 0 - 1 1 100.0 2 7 9 3 0 1 2 1 -15
+p480
+aVJacque Vaughn ATL 01/09/2002 ATL @ CHH L 23 5 2 9 22.2 1 2 50.0 0 0 - 0 1 1 3 2 0 3 1 -14
+p481
+aVDerMarr Johnson ATL 01/09/2002 ATL @ CHH L 22 7 2 5 40.0 1 3 33.3 2 2 100.0 1 0 1 2 0 1 1 5 -13
+p482
+aVJason Terry ATL 01/09/2002 ATL @ CHH L 25 13 5 11 45.5 2 3 66.7 1 1 100.0 0 0 0 6 2 0 3 0 -10
+p483
+aVCal Bowdler ATL 01/09/2002 ATL @ CHH L 17 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 2 0 1 2 -13
+p484
+aVDion Glover ATL 01/09/2002 ATL @ CHH L 20 4 2 8 25.0 0 1 0.0 0 0 - 1 5 6 0 1 0 1 1 -6
+p485
+aVToni Kukoc ATL 01/09/2002 ATL @ CHH L 25 11 5 12 41.7 0 3 0.0 1 2 50.0 2 5 7 2 0 0 2 2 -13
+p486
+aVNazr Mohammed ATL 01/09/2002 ATL @ CHH L 11 1 0 4 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 3 0
+p487
+aVEmanual Davis ATL 01/08/2002 ATL vs. POR W 19 6 2 4 50.0 1 2 50.0 1 1 100.0 0 2 2 5 1 0 1 3 0
+p488
+aVHanno Mottola ATL 01/08/2002 ATL vs. POR W 26 8 3 6 50.0 0 0 - 2 2 100.0 0 4 4 0 2 0 2 1 16
+p489
+aVJacque Vaughn ATL 01/08/2002 ATL vs. POR W 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 0 0 -10
+p490
+aVDion Glover ATL 01/08/2002 ATL vs. POR W 23 11 5 9 55.6 1 2 50.0 0 0 - 0 4 4 3 1 0 2 2 12
+p491
+aVShareef Abdur-Rahim ATL 01/08/2002 ATL vs. POR W 43 30 13 19 68.4 1 1 100.0 3 3 100.0 1 9 10 2 1 0 4 2 8
+p492
+aVDerMarr Johnson ATL 01/08/2002 ATL vs. POR W 33 12 4 9 44.4 0 3 0.0 4 4 100.0 0 3 3 6 3 2 2 2 9
+p493
+aVCal Bowdler ATL 01/08/2002 ATL vs. POR W 14 3 0 1 0.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 2 8
+p494
+aVJason Terry ATL 01/08/2002 ATL vs. POR W 39 24 9 19 47.4 2 5 40.0 4 4 100.0 0 5 5 6 4 0 3 1 19
+p495
+aVNazr Mohammed ATL 01/08/2002 ATL vs. POR W 13 2 0 2 0.0 0 0 - 2 4 50.0 0 0 0 0 0 1 2 2 -14
+p496
+aVToni Kukoc ATL 01/08/2002 ATL vs. POR W 22 3 1 5 20.0 1 3 33.3 0 0 - 1 3 4 2 0 0 1 0 -3
+p497
+aVDerMarr Johnson ATL 01/05/2002 ATL vs. MIN L 20 6 2 7 28.6 2 6 33.3 0 0 - 0 0 0 0 0 0 0 4 -12
+p498
+aVEmanual Davis ATL 01/05/2002 ATL vs. MIN L 28 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 3 -2
+p499
+aVJason Terry ATL 01/05/2002 ATL vs. MIN L 39 16 6 15 40.0 1 5 20.0 3 4 75.0 0 6 6 6 2 0 1 2 -10
+p500
+aVShareef Abdur-Rahim ATL 01/05/2002 ATL vs. MIN L 43 20 8 21 38.1 0 0 - 4 4 100.0 1 6 7 6 3 3 1 2 -11
+p501
+aVCal Bowdler ATL 01/05/2002 ATL vs. MIN L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -1
+p502
+aVJacque Vaughn ATL 01/05/2002 ATL vs. MIN L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 2 2 0 0 1 -6
+p503
+aVToni Kukoc ATL 01/05/2002 ATL vs. MIN L 28 18 6 12 50.0 4 7 57.1 2 3 66.7 0 4 4 4 0 0 2 3 -4
+p504
+aVHanno Mottola ATL 01/05/2002 ATL vs. MIN L 23 10 5 5 100.0 0 0 - 0 0 - 1 4 5 0 0 0 1 6 -11
+p505
+aVNazr Mohammed ATL 01/05/2002 ATL vs. MIN L 19 9 2 6 33.3 0 0 - 5 6 83.3 3 2 5 1 2 1 2 2 -6
+p506
+aVDion Glover ATL 01/05/2002 ATL vs. MIN L 20 10 4 7 57.1 2 4 50.0 0 0 - 0 3 3 0 0 0 2 2 -14
+p507
+aVMark Strickland ATL 01/05/2002 ATL vs. MIN L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p508
+aVDion Glover ATL 01/04/2002 ATL @ MEM W 28 8 4 9 44.4 0 0 - 0 0 - 0 3 3 4 1 1 2 3 3
+p509
+aVShareef Abdur-Rahim ATL 01/04/2002 ATL @ MEM W 42 22 5 17 29.4 0 2 0.0 12 14 85.7 4 9 13 2 1 1 6 3 13
+p510
+aVEmanual Davis ATL 01/04/2002 ATL @ MEM W 20 10 3 4 75.0 2 2 100.0 2 2 100.0 0 1 1 3 1 0 0 3 1
+p511
+aVJacque Vaughn ATL 01/04/2002 ATL @ MEM W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 -9
+p512
+aVNazr Mohammed ATL 01/04/2002 ATL @ MEM W 19 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 1 0 1 5 -8
+p513
+aVDerMarr Johnson ATL 01/04/2002 ATL @ MEM W 29 18 7 11 63.6 3 4 75.0 1 2 50.0 0 5 5 3 1 3 0 5 7
+p514
+aVHanno Mottola ATL 01/04/2002 ATL @ MEM W 34 9 3 9 33.3 0 0 - 3 4 75.0 3 5 8 1 0 0 0 6 1
+p515
+aVToni Kukoc ATL 01/04/2002 ATL @ MEM W 20 17 6 9 66.7 2 3 66.7 3 6 50.0 1 2 3 1 1 0 1 1 -1
+p516
+aVJason Terry ATL 01/04/2002 ATL @ MEM W 39 20 8 17 47.1 1 4 25.0 3 5 60.0 1 2 3 11 5 0 2 1 13
+p517
+aVJason Terry ATL 12/29/2001 ATL @ DAL L 35 18 8 17 47.1 1 4 25.0 1 2 50.0 1 4 5 5 2 0 3 4 -16
+p518
+aVReggie Slater ATL 12/29/2001 ATL @ DAL L 2 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 0
+p519
+aVJacque Vaughn ATL 12/29/2001 ATL @ DAL L 25 11 5 8 62.5 0 0 - 1 1 100.0 1 1 2 5 2 0 0 3 -14
+p520
+aVDion Glover ATL 12/29/2001 ATL @ DAL L 44 16 6 20 30.0 0 3 0.0 4 6 66.7 2 3 5 5 1 0 1 1 -6
+p521
+aVNazr Mohammed ATL 12/29/2001 ATL @ DAL L 12 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 1 1 0 -13
+p522
+aVHanno Mottola ATL 12/29/2001 ATL @ DAL L 25 4 2 8 25.0 0 1 0.0 0 0 - 3 2 5 0 0 1 1 2 -7
+p523
+aVShareef Abdur-Rahim ATL 12/29/2001 ATL @ DAL L 37 21 5 12 41.7 0 0 - 11 14 78.6 3 8 11 0 2 3 4 5 -5
+p524
+aVToni Kukoc ATL 12/29/2001 ATL @ DAL L 7 3 1 1 100.0 1 1 100.0 0 1 0.0 0 1 1 0 0 0 2 0 -3
+p525
+aVCal Bowdler ATL 12/29/2001 ATL @ DAL L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -9
+p526
+aVDerMarr Johnson ATL 12/29/2001 ATL @ DAL L 33 16 5 11 45.5 3 5 60.0 3 4 75.0 1 7 8 1 2 0 1 3 -9
+p527
+aVMark Strickland ATL 12/29/2001 ATL @ DAL L 12 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 2
+p528
+aVJason Terry ATL 12/27/2001 ATL vs. MIA W 46 32 9 20 45.0 4 10 40.0 10 10 100.0 0 5 5 5 3 0 3 1 -1
+p529
+aVDerMarr Johnson ATL 12/27/2001 ATL vs. MIA W 22 8 3 6 50.0 2 4 50.0 0 0 - 1 0 1 2 1 1 1 0 26
+p530
+aVJacque Vaughn ATL 12/27/2001 ATL vs. MIA W 20 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 -12
+p531
+aVMark Strickland ATL 12/27/2001 ATL vs. MIA W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 1
+p532
+aVReggie Slater ATL 12/27/2001 ATL vs. MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 3
+p533
+aVCal Bowdler ATL 12/27/2001 ATL vs. MIA W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 2 1 3 0
+p534
+aVHanno Mottola ATL 12/27/2001 ATL vs. MIA W 20 6 1 3 33.3 0 0 - 4 4 100.0 0 2 2 3 1 0 1 2 -7
+p535
+aVDion Glover ATL 12/27/2001 ATL vs. MIA W 40 16 6 13 46.2 1 3 33.3 3 4 75.0 0 4 4 4 0 1 1 3 15
+p536
+aVNazr Mohammed ATL 12/27/2001 ATL vs. MIA W 39 6 2 5 40.0 0 0 - 2 2 100.0 1 9 10 1 1 1 2 5 2
+p537
+aVShareef Abdur-Rahim ATL 12/27/2001 ATL vs. MIA W 33 22 6 19 31.6 1 2 50.0 9 12 75.0 4 6 10 1 0 0 2 5 -7
+p538
+aVShareef Abdur-Rahim ATL 12/26/2001 ATL @ MIL L 40 28 12 23 52.2 1 3 33.3 3 3 100.0 2 9 11 6 0 0 6 2 -5
+p539
+aVDerMarr Johnson ATL 12/26/2001 ATL @ MIL L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p540
+aVNazr Mohammed ATL 12/26/2001 ATL @ MIL L 19 7 2 7 28.6 0 0 - 3 4 75.0 1 2 3 0 0 1 2 2 0
+p541
+aVHanno Mottola ATL 12/26/2001 ATL @ MIL L 36 10 4 11 36.4 0 1 0.0 2 4 50.0 3 6 9 1 0 1 2 6 -8
+p542
+aVJason Terry ATL 12/26/2001 ATL @ MIL L 40 24 7 15 46.7 3 8 37.5 7 8 87.5 2 2 4 6 2 0 2 4 -11
+p543
+aVMark Strickland ATL 12/26/2001 ATL @ MIL L 15 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p544
+aVCal Bowdler ATL 12/26/2001 ATL @ MIL L 20 8 3 7 42.9 0 0 - 2 2 100.0 4 3 7 3 0 0 0 0 -8
+p545
+aVDion Glover ATL 12/26/2001 ATL @ MIL L 24 10 3 10 30.0 0 2 0.0 4 4 100.0 2 3 5 2 1 0 0 2 -4
+p546
+aVJacque Vaughn ATL 12/26/2001 ATL @ MIL L 38 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 8 0 0 1 3 -5
+p547
+aVCal Bowdler ATL 12/22/2001 ATL vs. CHH W 23 3 1 4 25.0 0 0 - 1 1 100.0 0 4 4 0 1 0 0 1 18
+p548
+aVShareef Abdur-Rahim ATL 12/22/2001 ATL vs. CHH W 38 16 6 15 40.0 0 1 0.0 4 4 100.0 5 8 13 2 0 1 2 1 2
+p549
+aVDion Glover ATL 12/22/2001 ATL vs. CHH W 23 19 8 13 61.5 3 4 75.0 0 2 0.0 1 4 5 2 1 0 1 1 19
+p550
+aVJacque Vaughn ATL 12/22/2001 ATL vs. CHH W 31 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 5 1 0 2 3 -2
+p551
+aVJason Terry ATL 12/22/2001 ATL vs. CHH W 48 22 7 21 33.3 2 7 28.6 6 7 85.7 1 3 4 9 2 0 0 1 13
+p552
+aVNazr Mohammed ATL 12/22/2001 ATL vs. CHH W 25 12 4 7 57.1 0 0 - 4 8 50.0 4 9 13 0 0 2 1 1 -5
+p553
+aVHanno Mottola ATL 12/22/2001 ATL vs. CHH W 10 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -12
+p554
+aVMark Strickland ATL 12/22/2001 ATL vs. CHH W 18 6 3 6 50.0 0 0 - 0 0 - 0 3 3 2 0 1 0 1 17
+p555
+aVDerMarr Johnson ATL 12/22/2001 ATL vs. CHH W 24 11 4 11 36.4 1 5 20.0 2 2 100.0 1 4 5 3 2 3 2 1 15
+p556
+aVDerMarr Johnson ATL 12/21/2001 ATL @ PHI L 26 12 4 10 40.0 2 5 40.0 2 2 100.0 2 0 2 1 2 3 1 4 3
+p557
+aVJacque Vaughn ATL 12/21/2001 ATL @ PHI L 32 10 4 5 80.0 0 1 0.0 2 2 100.0 0 3 3 6 2 0 1 4 -5
+p558
+aVCal Bowdler ATL 12/21/2001 ATL @ PHI L 17 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 16
+p559
+aVNazr Mohammed ATL 12/21/2001 ATL @ PHI L 17 4 1 6 16.7 0 0 - 2 3 66.7 2 5 7 0 1 1 2 3 1
+p560
+aVJason Terry ATL 12/21/2001 ATL @ PHI L 39 22 7 14 50.0 3 6 50.0 5 6 83.3 0 3 3 5 0 0 4 3 -20
+p561
+aVToni Kukoc ATL 12/21/2001 ATL @ PHI L 19 0 0 7 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 0 -13
+p562
+aVMark Strickland ATL 12/21/2001 ATL @ PHI L 29 17 8 11 72.7 0 0 - 1 1 100.0 3 7 10 2 0 1 3 0 2
+p563
+aVReggie Slater ATL 12/21/2001 ATL @ PHI L 7 6 1 2 50.0 0 0 - 4 6 66.7 0 0 0 0 1 0 0 0 1
+p564
+aVShareef Abdur-Rahim ATL 12/21/2001 ATL @ PHI L 31 6 2 9 22.2 0 1 0.0 2 2 100.0 0 3 3 3 2 0 2 4 -27
+p565
+aVHanno Mottola ATL 12/21/2001 ATL @ PHI L 23 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 1 0 0 0 6 -13
+p566
+aVToni Kukoc ATL 12/19/2001 ATL @ WAS L 34 19 8 16 50.0 2 4 50.0 1 2 50.0 4 4 8 5 2 1 4 3 -15
+p567
+aVShareef Abdur-Rahim ATL 12/19/2001 ATL @ WAS L 33 20 7 18 38.9 0 1 0.0 6 8 75.0 5 5 10 3 3 0 2 0 -18
+p568
+aVJason Terry ATL 12/19/2001 ATL @ WAS L 27 2 1 8 12.5 0 1 0.0 0 0 - 0 0 0 3 1 0 1 1 -30
+p569
+aVDerMarr Johnson ATL 12/19/2001 ATL @ WAS L 18 8 2 6 33.3 0 3 0.0 4 4 100.0 0 1 1 1 1 1 2 1 -17
+p570
+aVCal Bowdler ATL 12/19/2001 ATL @ WAS L 8 3 1 8 12.5 0 1 0.0 1 2 50.0 4 1 5 1 2 0 0 1 2
+p571
+aVNazr Mohammed ATL 12/19/2001 ATL @ WAS L 24 4 2 4 50.0 0 0 - 0 1 0.0 0 5 5 0 0 0 1 2 -5
+p572
+aVReggie Slater ATL 12/19/2001 ATL @ WAS L 24 8 3 9 33.3 0 0 - 2 2 100.0 5 1 6 0 0 0 0 2 -20
+p573
+aVJacque Vaughn ATL 12/19/2001 ATL @ WAS L 45 10 5 12 41.7 0 1 0.0 0 0 - 0 4 4 7 1 0 1 3 -19
+p574
+aVHanno Mottola ATL 12/19/2001 ATL @ WAS L 15 2 1 6 16.7 0 0 - 0 0 - 3 2 5 0 0 1 1 2 -9
+p575
+aVMark Strickland ATL 12/19/2001 ATL @ WAS L 12 0 0 3 0.0 0 0 - 0 0 - 2 1 3 2 0 2 1 1 -4
+p576
+aVHanno Mottola ATL 12/18/2001 ATL vs. IND L 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 4
+p577
+aVNazr Mohammed ATL 12/18/2001 ATL vs. IND L 38 15 5 14 35.7 0 0 - 5 7 71.4 6 7 13 0 1 3 1 3 -3
+p578
+aVShareef Abdur-Rahim ATL 12/18/2001 ATL vs. IND L 45 28 13 27 48.1 0 0 - 2 4 50.0 5 5 10 3 1 0 5 3 -7
+p579
+aVToni Kukoc ATL 12/18/2001 ATL vs. IND L 30 4 1 5 20.0 0 3 0.0 2 2 100.0 0 2 2 2 2 0 2 4 4
+p580
+aVDerMarr Johnson ATL 12/18/2001 ATL vs. IND L 21 8 3 5 60.0 2 2 100.0 0 0 - 2 3 5 2 1 0 0 3 -3
+p581
+aVJacque Vaughn ATL 12/18/2001 ATL vs. IND L 27 3 1 5 20.0 0 0 - 1 2 50.0 0 0 0 5 1 0 2 2 1
+p582
+aVJason Terry ATL 12/18/2001 ATL vs. IND L 44 27 9 14 64.3 4 6 66.7 5 5 100.0 1 3 4 6 2 1 5 2 -5
+p583
+aVDion Glover ATL 12/18/2001 ATL vs. IND L 23 11 5 11 45.5 0 2 0.0 1 2 50.0 1 2 3 0 2 0 1 6 -6
+p584
+aVShareef Abdur-Rahim ATL 12/15/2001 ATL @ CHI W 42 20 8 16 50.0 0 0 - 4 9 44.4 2 6 8 3 1 3 5 2 0
+p585
+aVMark Strickland ATL 12/15/2001 ATL @ CHI W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p586
+aVJason Terry ATL 12/15/2001 ATL @ CHI W 42 16 5 14 35.7 0 2 0.0 6 8 75.0 0 7 7 4 1 0 0 2 8
+p587
+aVCal Bowdler ATL 12/15/2001 ATL @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p588
+aVDerMarr Johnson ATL 12/15/2001 ATL @ CHI W 17 0 0 2 0.0 0 0 - 0 0 - 3 3 6 1 0 0 1 1 2
+p589
+aVDion Glover ATL 12/15/2001 ATL @ CHI W 17 0 0 5 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 5
+p590
+aVHanno Mottola ATL 12/15/2001 ATL @ CHI W 23 10 3 5 60.0 0 0 - 4 4 100.0 2 5 7 0 2 0 1 2 7
+p591
+aVNazr Mohammed ATL 12/15/2001 ATL @ CHI W 25 16 7 11 63.6 0 0 - 2 2 100.0 3 2 5 0 0 1 2 6 -3
+p592
+aVToni Kukoc ATL 12/15/2001 ATL @ CHI W 41 12 5 15 33.3 2 7 28.6 0 0 - 0 3 3 5 0 0 1 1 1
+p593
+aVJacque Vaughn ATL 12/15/2001 ATL @ CHI W 24 4 0 4 0.0 0 0 - 4 4 100.0 0 3 3 6 0 0 0 1 -7
+p594
+aVEmanual Davis ATL 12/11/2001 ATL vs. PHI W 17 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 1 -7
+p595
+aVHanno Mottola ATL 12/11/2001 ATL vs. PHI W 29 11 5 9 55.6 0 1 0.0 1 2 50.0 1 2 3 3 0 1 2 1 5
+p596
+aVNazr Mohammed ATL 12/11/2001 ATL vs. PHI W 22 10 5 14 35.7 0 0 - 0 0 - 2 2 4 1 1 1 2 2 -7
+p597
+aVShareef Abdur-Rahim ATL 12/11/2001 ATL vs. PHI W 41 19 8 12 66.7 1 1 100.0 2 2 100.0 3 8 11 3 2 2 0 4 1
+p598
+aVMark Strickland ATL 12/11/2001 ATL vs. PHI W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 5
+p599
+aVJacque Vaughn ATL 12/11/2001 ATL vs. PHI W 31 11 4 7 57.1 1 1 100.0 2 2 100.0 0 2 2 3 1 0 1 3 9
+p600
+aVDion Glover ATL 12/11/2001 ATL vs. PHI W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 1
+p601
+aVToni Kukoc ATL 12/11/2001 ATL vs. PHI W 40 13 6 15 40.0 1 5 20.0 0 0 - 2 10 12 5 0 0 3 0 1
+p602
+aVJason Terry ATL 12/11/2001 ATL vs. PHI W 46 23 9 22 40.9 2 7 28.6 3 5 60.0 2 2 4 4 5 0 3 2 2
+p603
+aVDion Glover ATL 12/08/2001 ATL vs. ORL W 18 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 2 0 0 2 2 2
+p604
+aVJacque Vaughn ATL 12/08/2001 ATL vs. ORL W 14 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 1 0 0 0 -12
+p605
+aVHanno Mottola ATL 12/08/2001 ATL vs. ORL W 32 12 5 9 55.6 0 0 - 2 3 66.7 2 7 9 3 0 0 3 6 11
+p606
+aVNazr Mohammed ATL 12/08/2001 ATL vs. ORL W 33 21 10 19 52.6 0 0 - 1 4 25.0 4 9 13 0 0 1 2 4 -4
+p607
+aVToni Kukoc ATL 12/08/2001 ATL vs. ORL W 37 18 7 14 50.0 0 3 0.0 4 7 57.1 0 2 2 10 1 0 2 4 9
+p608
+aVJason Terry ATL 12/08/2001 ATL vs. ORL W 41 28 7 12 58.3 3 5 60.0 11 12 91.7 1 2 3 3 5 0 2 2 -5
+p609
+aVEmanual Davis ATL 12/08/2001 ATL vs. ORL W 34 7 3 10 30.0 0 4 0.0 1 2 50.0 0 4 4 3 0 0 0 4 15
+p610
+aVMark Strickland ATL 12/08/2001 ATL vs. ORL W 24 10 5 9 55.6 0 0 - 0 0 - 1 4 5 0 1 1 0 1 7
+p611
+aVShareef Abdur-Rahim ATL 12/08/2001 ATL vs. ORL W 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -8
+p612
+aVDerMarr Johnson ATL 12/07/2001 ATL @ ORL L 18 8 2 6 33.3 1 3 33.3 3 3 100.0 0 0 0 0 1 0 3 1 -11
+p613
+aVDion Glover ATL 12/07/2001 ATL @ ORL L 19 10 2 9 22.2 0 2 0.0 6 7 85.7 1 1 2 0 0 0 2 2 -20
+p614
+aVEmanual Davis ATL 12/07/2001 ATL @ ORL L 18 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 3 0 -12
+p615
+aVToni Kukoc ATL 12/07/2001 ATL @ ORL L 30 13 4 7 57.1 3 4 75.0 2 3 66.7 0 2 2 5 2 0 1 3 -18
+p616
+aVHanno Mottola ATL 12/07/2001 ATL @ ORL L 22 6 3 7 42.9 0 0 - 0 0 - 3 2 5 1 1 1 0 5 -21
+p617
+aVJason Terry ATL 12/07/2001 ATL @ ORL L 33 21 8 17 47.1 3 6 50.0 2 2 100.0 0 0 0 4 0 0 0 4 -26
+p618
+aVNazr Mohammed ATL 12/07/2001 ATL @ ORL L 26 7 3 8 37.5 0 0 - 1 2 50.0 2 5 7 0 0 0 3 5 -8
+p619
+aVShareef Abdur-Rahim ATL 12/07/2001 ATL @ ORL L 10 6 2 3 66.7 0 0 - 2 3 66.7 0 3 3 0 0 0 0 0 -4
+p620
+aVMark Strickland ATL 12/07/2001 ATL @ ORL L 33 16 8 18 44.4 0 0 - 0 0 - 3 3 6 1 1 0 2 4 -34
+p621
+aVCal Bowdler ATL 12/07/2001 ATL @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p622
+aVJacque Vaughn ATL 12/07/2001 ATL @ ORL L 30 7 2 4 50.0 1 1 100.0 2 2 100.0 2 4 6 8 0 0 3 3 -23
+p623
+aVDion Glover ATL 12/05/2001 ATL vs. SAS L 21 5 2 8 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -12
+p624
+aVCal Bowdler ATL 12/05/2001 ATL vs. SAS L 13 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 -13
+p625
+aVHanno Mottola ATL 12/05/2001 ATL vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p626
+aVJason Terry ATL 12/05/2001 ATL vs. SAS L 39 22 9 21 42.9 2 7 28.6 2 3 66.7 0 2 2 3 3 0 1 2 -11
+p627
+aVJacque Vaughn ATL 12/05/2001 ATL vs. SAS L 21 13 5 6 83.3 0 0 - 3 4 75.0 0 2 2 5 2 0 0 2 7
+p628
+aVNazr Mohammed ATL 12/05/2001 ATL vs. SAS L 16 10 5 7 71.4 0 0 - 0 0 - 1 3 4 0 1 0 0 3 -1
+p629
+aVToni Kukoc ATL 12/05/2001 ATL vs. SAS L 34 22 7 15 46.7 0 0 - 8 9 88.9 0 2 2 3 3 0 3 4 7
+p630
+aVEmanual Davis ATL 12/05/2001 ATL vs. SAS L 27 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 3 2 0 3 4 -15
+p631
+aVDerMarr Johnson ATL 12/05/2001 ATL vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p632
+aVShareef Abdur-Rahim ATL 12/05/2001 ATL vs. SAS L 44 18 7 16 43.8 0 2 0.0 4 4 100.0 4 8 12 2 3 1 5 5 -6
+p633
+aVMark Strickland ATL 12/05/2001 ATL vs. SAS L 18 9 3 7 42.9 0 1 0.0 3 4 75.0 3 7 10 0 1 0 0 4 11
+p634
+aVJacque Vaughn ATL 12/01/2001 ATL vs. TOR L 13 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 2 0 0 3 2 -8
+p635
+aVHanno Mottola ATL 12/01/2001 ATL vs. TOR L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 9
+p636
+aVJason Terry ATL 12/01/2001 ATL vs. TOR L 25 4 2 8 25.0 0 2 0.0 0 0 - 1 3 4 4 0 0 0 0 -5
+p637
+aVCal Bowdler ATL 12/01/2001 ATL vs. TOR L 16 8 3 6 50.0 0 0 - 2 3 66.7 1 3 4 0 0 0 0 2 1
+p638
+aVShareef Abdur-Rahim ATL 12/01/2001 ATL vs. TOR L 39 22 6 14 42.9 1 1 100.0 9 11 81.8 1 5 6 3 2 0 3 3 -10
+p639
+aVNazr Mohammed ATL 12/01/2001 ATL vs. TOR L 32 12 5 12 41.7 0 0 - 2 2 100.0 7 5 12 1 2 1 2 3 -2
+p640
+aVEmanual Davis ATL 12/01/2001 ATL vs. TOR L 35 9 3 9 33.3 2 4 50.0 1 1 100.0 1 1 2 3 1 1 3 1 7
+p641
+aVDion Glover ATL 12/01/2001 ATL vs. TOR L 38 25 10 16 62.5 2 3 66.7 3 3 100.0 0 2 2 3 1 0 4 3 7
+p642
+aVToni Kukoc ATL 12/01/2001 ATL vs. TOR L 33 16 6 12 50.0 1 3 33.3 3 7 42.9 2 5 7 5 0 0 2 1 -4
+p643
+aVShareef Abdur-Rahim ATL 11/29/2001 ATL @ CLE W 41 19 7 12 58.3 0 1 0.0 5 6 83.3 1 11 12 3 0 3 2 2 12
+p644
+aVCal Bowdler ATL 11/29/2001 ATL @ CLE W 14 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -1
+p645
+aVNazr Mohammed ATL 11/29/2001 ATL @ CLE W 34 16 7 12 58.3 0 0 - 2 3 66.7 5 9 14 1 0 1 2 4 8
+p646
+aVHanno Mottola ATL 11/29/2001 ATL @ CLE W 7 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -3
+p647
+aVJacque Vaughn ATL 11/29/2001 ATL @ CLE W 22 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 7 2 1 2 3 13
+p648
+aVDerMarr Johnson ATL 11/29/2001 ATL @ CLE W 8 5 2 4 50.0 0 2 0.0 1 1 100.0 1 1 2 0 0 0 0 2 11
+p649
+aVEmanual Davis ATL 11/29/2001 ATL @ CLE W 34 15 6 15 40.0 3 5 60.0 0 0 - 2 2 4 3 2 1 0 1 -4
+p650
+aVDion Glover ATL 11/29/2001 ATL @ CLE W 15 3 1 6 16.7 0 2 0.0 1 2 50.0 1 4 5 1 0 0 5 2 -7
+p651
+aVJason Terry ATL 11/29/2001 ATL @ CLE W 32 9 3 8 37.5 1 3 33.3 2 2 100.0 0 3 3 4 0 0 0 3 0
+p652
+aVToni Kukoc ATL 11/29/2001 ATL @ CLE W 33 24 8 11 72.7 1 2 50.0 7 8 87.5 1 1 2 6 4 0 2 2 16
+p653
+aVDion Glover ATL 11/28/2001 ATL vs. NYK L 33 22 10 16 62.5 1 3 33.3 1 1 100.0 1 2 3 2 0 0 2 3 4
+p654
+aVCal Bowdler ATL 11/28/2001 ATL vs. NYK L 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -4
+p655
+aVNazr Mohammed ATL 11/28/2001 ATL vs. NYK L 36 12 4 9 44.4 0 0 - 4 5 80.0 6 6 12 0 3 0 2 5 -2
+p656
+aVEmanual Davis ATL 11/28/2001 ATL vs. NYK L 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 1 0 2 4 -5
+p657
+aVHanno Mottola ATL 11/28/2001 ATL vs. NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 10
+p658
+aVJason Terry ATL 11/28/2001 ATL vs. NYK L 30 15 5 13 38.5 3 7 42.9 2 2 100.0 0 0 0 5 4 0 0 2 -5
+p659
+aVToni Kukoc ATL 11/28/2001 ATL vs. NYK L 30 15 3 7 42.9 0 1 0.0 9 11 81.8 2 2 4 3 0 1 2 1 -4
+p660
+aVJacque Vaughn ATL 11/28/2001 ATL vs. NYK L 33 16 7 8 87.5 0 0 - 2 2 100.0 0 1 1 3 2 0 0 3 -1
+p661
+aVDerMarr Johnson ATL 11/28/2001 ATL vs. NYK L 5 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -4
+p662
+aVShareef Abdur-Rahim ATL 11/28/2001 ATL vs. NYK L 42 20 5 15 33.3 0 0 - 10 13 76.9 0 8 8 3 1 3 3 4 -14
+p663
+aVDion Glover ATL 11/26/2001 ATL @ NYK L 21 13 5 8 62.5 2 3 66.7 1 1 100.0 1 4 5 1 2 0 1 4 -13
+p664
+aVShareef Abdur-Rahim ATL 11/26/2001 ATL @ NYK L 42 26 10 18 55.6 1 4 25.0 5 6 83.3 3 7 10 4 0 0 5 2 -7
+p665
+aVJason Terry ATL 11/26/2001 ATL @ NYK L 35 10 4 12 33.3 1 7 14.3 1 1 100.0 0 2 2 3 1 0 1 3 -11
+p666
+aVHanno Mottola ATL 11/26/2001 ATL @ NYK L 11 5 1 3 33.3 0 0 - 3 3 100.0 1 0 1 2 0 0 1 2 -3
+p667
+aVCal Bowdler ATL 11/26/2001 ATL @ NYK L 26 10 2 7 28.6 0 0 - 6 6 100.0 2 2 4 0 1 0 1 0 6
+p668
+aVToni Kukoc ATL 11/26/2001 ATL @ NYK L 27 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 1 1 0 1 0 8
+p669
+aVNazr Mohammed ATL 11/26/2001 ATL @ NYK L 18 4 2 7 28.6 0 0 - 0 0 - 2 1 3 0 1 0 1 1 -6
+p670
+aVEmanual Davis ATL 11/26/2001 ATL @ NYK L 34 10 4 9 44.4 2 3 66.7 0 0 - 1 3 4 3 1 0 0 2 -2
+p671
+aVJacque Vaughn ATL 11/26/2001 ATL @ NYK L 28 4 2 4 50.0 0 0 - 0 0 - 0 3 3 3 0 0 1 5 3
+p672
+aVShareef Abdur-Rahim ATL 11/24/2001 ATL @ MIL L 40 23 8 18 44.4 0 0 - 7 9 77.8 3 11 14 0 0 2 2 2 -6
+p673
+aVNazr Mohammed ATL 11/24/2001 ATL @ MIL L 16 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 0 2 3 2 -11
+p674
+aVToni Kukoc ATL 11/24/2001 ATL @ MIL L 25 18 7 12 58.3 1 4 25.0 3 3 100.0 1 4 5 5 1 1 5 2 3
+p675
+aVDerMarr Johnson ATL 11/24/2001 ATL @ MIL L 8 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 1 0 1 0 0 0
+p676
+aVJason Terry ATL 11/24/2001 ATL @ MIL L 36 8 3 15 20.0 1 9 11.1 1 1 100.0 0 4 4 5 3 0 1 4 -9
+p677
+aVJacque Vaughn ATL 11/24/2001 ATL @ MIL L 25 12 5 6 83.3 0 0 - 2 2 100.0 0 1 1 4 3 0 2 5 6
+p678
+aVEmanual Davis ATL 11/24/2001 ATL @ MIL L 23 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 4 1 -13
+p679
+aVDion Glover ATL 11/24/2001 ATL @ MIL L 28 9 4 12 33.3 0 2 0.0 1 2 50.0 1 3 4 2 2 0 2 0 -8
+p680
+aVCal Bowdler ATL 11/24/2001 ATL @ MIL L 28 11 5 8 62.5 0 0 - 1 2 50.0 3 3 6 0 2 1 1 0 3
+p681
+aVHanno Mottola ATL 11/24/2001 ATL @ MIL L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 2 0
+p682
+aVCal Bowdler ATL 11/23/2001 ATL vs. DET W 17 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 18
+p683
+aVDion Glover ATL 11/23/2001 ATL vs. DET W 28 14 6 14 42.9 2 4 50.0 0 0 - 1 3 4 1 2 0 1 0 -15
+p684
+aVEmanual Davis ATL 11/23/2001 ATL vs. DET W 23 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 2 0 2 3 -10
+p685
+aVJason Terry ATL 11/23/2001 ATL vs. DET W 43 15 4 9 44.4 3 3 100.0 4 4 100.0 1 4 5 8 1 0 4 3 15
+p686
+aVJacque Vaughn ATL 11/23/2001 ATL vs. DET W 22 12 6 8 75.0 0 0 - 0 0 - 0 1 1 3 1 0 0 2 19
+p687
+aVHanno Mottola ATL 11/23/2001 ATL vs. DET W 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -15
+p688
+aVNazr Mohammed ATL 11/23/2001 ATL vs. DET W 20 4 2 7 28.6 0 0 - 0 0 - 1 3 4 1 1 0 0 3 -1
+p689
+aVToni Kukoc ATL 11/23/2001 ATL vs. DET W 27 7 2 4 50.0 1 3 33.3 2 3 66.7 0 3 3 3 0 1 4 3 12
+p690
+aVShareef Abdur-Rahim ATL 11/23/2001 ATL vs. DET W 45 50 21 30 70.0 0 0 - 8 8 100.0 3 9 12 5 2 1 2 1 12
+p691
+aVCal Bowdler ATL 11/21/2001 ATL @ BOS W 19 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 0 2 0 1 16
+p692
+aVJason Terry ATL 11/21/2001 ATL @ BOS W 43 22 7 12 58.3 4 8 50.0 4 5 80.0 1 7 8 5 1 0 1 3 9
+p693
+aVHanno Mottola ATL 11/21/2001 ATL @ BOS W 14 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 2 0 2 -8
+p694
+aVNazr Mohammed ATL 11/21/2001 ATL @ BOS W 19 2 1 5 20.0 0 0 - 0 0 - 2 4 6 1 0 1 1 3 -7
+p695
+aVToni Kukoc ATL 11/21/2001 ATL @ BOS W 31 17 6 13 46.2 1 5 20.0 4 5 80.0 2 3 5 3 0 1 0 0 6
+p696
+aVJacque Vaughn ATL 11/21/2001 ATL @ BOS W 15 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 1 2 4
+p697
+aVShareef Abdur-Rahim ATL 11/21/2001 ATL @ BOS W 44 28 10 16 62.5 1 1 100.0 7 10 70.0 1 8 9 3 2 5 3 2 13
+p698
+aVDion Glover ATL 11/21/2001 ATL @ BOS W 22 11 3 9 33.3 2 3 66.7 3 4 75.0 0 3 3 1 1 0 1 3 -2
+p699
+aVEmanual Davis ATL 11/21/2001 ATL @ BOS W 34 8 3 13 23.1 2 5 40.0 0 0 - 1 4 5 3 0 0 3 2 4
+p700
+aVDion Glover ATL 11/20/2001 ATL @ IND L 32 7 3 11 27.3 1 3 33.3 0 0 - 0 1 1 1 0 0 1 2 2
+p701
+aVJason Terry ATL 11/20/2001 ATL @ IND L 43 35 12 22 54.5 6 12 50.0 5 5 100.0 0 4 4 6 1 0 1 0 1
+p702
+aVHanno Mottola ATL 11/20/2001 ATL @ IND L 12 5 2 2 100.0 0 0 - 1 2 50.0 2 2 4 1 0 2 1 4 2
+p703
+aVShareef Abdur-Rahim ATL 11/20/2001 ATL @ IND L 38 20 8 19 42.1 0 0 - 4 5 80.0 4 10 14 3 0 1 3 1 -8
+p704
+aVToni Kukoc ATL 11/20/2001 ATL @ IND L 21 9 3 7 42.9 2 6 33.3 1 1 100.0 0 2 2 1 0 0 2 2 -6
+p705
+aVEmanual Davis ATL 11/20/2001 ATL @ IND L 31 16 7 12 58.3 1 3 33.3 1 2 50.0 1 2 3 4 2 0 1 5 -10
+p706
+aVJacque Vaughn ATL 11/20/2001 ATL @ IND L 17 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 2 0 0 4 1
+p707
+aVNazr Mohammed ATL 11/20/2001 ATL @ IND L 36 8 4 11 36.4 0 0 - 0 0 - 5 6 11 1 1 0 2 5 -10
+p708
+aVCal Bowdler ATL 11/20/2001 ATL @ IND L 11 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 1 1 0 8
+p709
+aVEmanual Davis ATL 11/17/2001 ATL vs. BOS W 35 6 3 7 42.9 0 3 0.0 0 0 - 2 2 4 2 0 0 3 3 5
+p710
+aVHanno Mottola ATL 11/17/2001 ATL vs. BOS W 19 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 1 0 1 1 2 4
+p711
+aVNazr Mohammed ATL 11/17/2001 ATL vs. BOS W 33 14 6 6 100.0 0 0 - 2 3 66.7 1 8 9 1 0 1 1 1 5
+p712
+aVShareef Abdur-Rahim ATL 11/17/2001 ATL vs. BOS W 41 29 11 17 64.7 0 0 - 7 11 63.6 2 10 12 2 0 2 6 1 10
+p713
+aVDion Glover ATL 11/17/2001 ATL vs. BOS W 31 24 10 16 62.5 4 5 80.0 0 0 - 0 6 6 7 3 1 2 1 5
+p714
+aVToni Kukoc ATL 11/17/2001 ATL vs. BOS W 27 10 2 6 33.3 1 2 50.0 5 5 100.0 1 5 6 7 1 0 1 2 8
+p715
+aVJason Terry ATL 11/17/2001 ATL vs. BOS W 38 22 8 15 53.3 2 2 100.0 4 4 100.0 0 4 4 3 1 0 3 2 5
+p716
+aVJacque Vaughn ATL 11/17/2001 ATL vs. BOS W 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 4
+p717
+aVCal Bowdler ATL 11/17/2001 ATL vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p718
+aVHanno Mottola ATL 11/16/2001 ATL @ PHI L 12 4 1 2 50.0 0 0 - 2 2 100.0 3 3 6 0 0 0 0 3 -16
+p719
+aVCal Bowdler ATL 11/16/2001 ATL @ PHI L 26 14 7 12 58.3 0 2 0.0 0 0 - 1 2 3 0 0 0 0 3 -3
+p720
+aVNazr Mohammed ATL 11/16/2001 ATL @ PHI L 22 7 3 8 37.5 0 0 - 1 2 50.0 2 5 7 0 0 1 1 5 -17
+p721
+aVDerMarr Johnson ATL 11/16/2001 ATL @ PHI L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 2 0 4
+p722
+aVEmanual Davis ATL 11/16/2001 ATL @ PHI L 31 6 2 9 22.2 2 4 50.0 0 0 - 0 3 3 2 1 1 3 3 -25
+p723
+aVJacque Vaughn ATL 11/16/2001 ATL @ PHI L 17 9 4 5 80.0 0 1 0.0 1 2 50.0 0 3 3 1 1 0 3 3 5
+p724
+aVShareef Abdur-Rahim ATL 11/16/2001 ATL @ PHI L 32 12 3 10 30.0 0 0 - 6 7 85.7 3 7 10 4 0 1 1 1 -8
+p725
+aVToni Kukoc ATL 11/16/2001 ATL @ PHI L 18 1 0 6 0.0 0 2 0.0 1 2 50.0 1 3 4 3 1 0 1 1 -4
+p726
+aVDion Glover ATL 11/16/2001 ATL @ PHI L 33 10 4 9 44.4 0 0 - 2 2 100.0 1 1 2 3 0 0 1 1 -23
+p727
+aVMark Strickland ATL 11/16/2001 ATL @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p728
+aVJason Terry ATL 11/16/2001 ATL @ PHI L 39 15 5 12 41.7 1 5 20.0 4 5 80.0 0 2 2 2 1 0 2 2 -17
+p729
+aVShareef Abdur-Rahim ATL 11/14/2001 ATL vs. UTA W 28 19 6 8 75.0 0 0 - 7 8 87.5 0 5 5 2 1 0 1 2 24
+p730
+aVCal Bowdler ATL 11/14/2001 ATL vs. UTA W 20 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 1 1 1 0 0 15
+p731
+aVDion Glover ATL 11/14/2001 ATL vs. UTA W 30 19 8 13 61.5 1 2 50.0 2 2 100.0 2 3 5 5 1 0 2 0 26
+p732
+aVJason Terry ATL 11/14/2001 ATL vs. UTA W 29 12 5 12 41.7 2 4 50.0 0 0 - 0 4 4 4 1 0 2 3 19
+p733
+aVJacque Vaughn ATL 11/14/2001 ATL vs. UTA W 26 4 1 4 25.0 0 1 0.0 2 2 100.0 0 7 7 4 1 0 4 2 19
+p734
+aVEmanual Davis ATL 11/14/2001 ATL vs. UTA W 22 7 3 7 42.9 1 2 50.0 0 0 - 2 2 4 3 3 0 5 3 13
+p735
+aVHanno Mottola ATL 11/14/2001 ATL vs. UTA W 22 10 4 6 66.7 0 0 - 2 2 100.0 2 7 9 0 0 1 1 2 12
+p736
+aVToni Kukoc ATL 11/14/2001 ATL vs. UTA W 20 13 6 8 75.0 1 2 50.0 0 0 - 1 0 1 4 0 0 3 2 12
+p737
+aVDickey Simpkins ATL 11/14/2001 ATL vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p738
+aVNazr Mohammed ATL 11/14/2001 ATL vs. UTA W 28 11 4 6 66.7 0 0 - 3 4 75.0 4 3 7 1 2 1 3 2 17
+p739
+aVDerMarr Johnson ATL 11/14/2001 ATL vs. UTA W 9 8 3 4 75.0 2 2 100.0 0 0 - 0 3 3 1 0 0 2 2 3
+p740
+aVMark Strickland ATL 11/14/2001 ATL vs. UTA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p741
+aVDion Glover ATL 11/10/2001 ATL @ SAS L 24 12 5 9 55.6 0 0 - 2 2 100.0 0 0 0 1 1 0 1 1 -21
+p742
+aVJason Terry ATL 11/10/2001 ATL @ SAS L 25 13 4 11 36.4 2 5 40.0 3 3 100.0 1 2 3 0 0 0 1 3 -2
+p743
+aVCal Bowdler ATL 11/10/2001 ATL @ SAS L 23 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 1 1 1 0 3 -8
+p744
+aVEmanual Davis ATL 11/10/2001 ATL @ SAS L 27 5 1 2 50.0 0 1 0.0 3 3 100.0 1 2 3 1 1 0 2 2 -17
+p745
+aVNazr Mohammed ATL 11/10/2001 ATL @ SAS L 32 10 5 12 41.7 0 0 - 0 0 - 5 4 9 1 2 0 4 5 -26
+p746
+aVDerMarr Johnson ATL 11/10/2001 ATL @ SAS L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 2 -1
+p747
+aVToni Kukoc ATL 11/10/2001 ATL @ SAS L 33 13 3 10 30.0 0 2 0.0 7 8 87.5 0 3 3 5 0 0 5 3 -16
+p748
+aVHanno Mottola ATL 11/10/2001 ATL @ SAS L 39 14 5 16 31.3 1 3 33.3 3 4 75.0 1 5 6 1 0 0 3 3 -8
+p749
+aVJacque Vaughn ATL 11/10/2001 ATL @ SAS L 21 6 3 6 50.0 0 0 - 0 0 - 0 2 2 4 1 0 0 1 -5
+p750
+aVChris Crawford ATL 11/10/2001 ATL @ SAS L 10 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 2 -6
+p751
+aVCal Bowdler ATL 11/08/2001 ATL @ PHX L 18 7 3 10 30.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -6
+p752
+aVChris Crawford ATL 11/08/2001 ATL @ PHX L 22 10 4 8 50.0 0 0 - 2 3 66.7 1 3 4 2 0 2 2 1 -14
+p753
+aVEmanual Davis ATL 11/08/2001 ATL @ PHX L 28 6 1 6 16.7 1 3 33.3 3 3 100.0 0 4 4 4 1 0 5 1 -17
+p754
+aVDion Glover ATL 11/08/2001 ATL @ PHX L 35 22 9 17 52.9 0 1 0.0 4 5 80.0 3 3 6 1 2 0 4 1 -18
+p755
+aVDerMarr Johnson ATL 11/08/2001 ATL @ PHX L 21 10 4 7 57.1 0 1 0.0 2 2 100.0 1 1 2 0 1 0 2 2 -1
+p756
+aVHanno Mottola ATL 11/08/2001 ATL @ PHX L 25 4 1 6 16.7 0 1 0.0 2 2 100.0 2 4 6 1 2 0 1 2 -25
+p757
+aVShareef Abdur-Rahim ATL 11/08/2001 ATL @ PHX L 28 5 2 12 16.7 0 0 - 1 1 100.0 4 6 10 1 0 0 2 2 -13
+p758
+aVJacque Vaughn ATL 11/08/2001 ATL @ PHX L 33 8 3 5 60.0 1 2 50.0 1 2 50.0 0 3 3 6 0 0 3 5 -21
+p759
+aVNazr Mohammed ATL 11/08/2001 ATL @ PHX L 30 8 3 10 30.0 0 0 - 2 4 50.0 2 7 9 1 1 1 1 2 -25
+p760
+aVChris Crawford ATL 11/07/2001 ATL @ UTA L 33 13 4 12 33.3 0 1 0.0 5 6 83.3 1 5 6 1 1 2 4 3 -5
+p761
+aVDion Glover ATL 11/07/2001 ATL @ UTA L 18 6 2 4 50.0 0 1 0.0 2 3 66.7 1 1 2 2 1 1 2 0 -4
+p762
+aVCal Bowdler ATL 11/07/2001 ATL @ UTA L 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 1
+p763
+aVDerMarr Johnson ATL 11/07/2001 ATL @ UTA L 7 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 -3
+p764
+aVEmanual Davis ATL 11/07/2001 ATL @ UTA L 36 9 3 6 50.0 3 5 60.0 0 0 - 0 3 3 1 0 0 1 2 -21
+p765
+aVShareef Abdur-Rahim ATL 11/07/2001 ATL @ UTA L 41 25 9 20 45.0 0 0 - 7 8 87.5 3 4 7 3 2 3 3 6 -4
+p766
+aVNazr Mohammed ATL 11/07/2001 ATL @ UTA L 39 20 7 14 50.0 0 0 - 6 9 66.7 6 7 13 0 1 1 1 3 -2
+p767
+aVJacque Vaughn ATL 11/07/2001 ATL @ UTA L 36 7 1 5 20.0 0 0 - 5 6 83.3 0 3 3 8 1 0 2 4 8
+p768
+aVHanno Mottola ATL 11/07/2001 ATL @ UTA L 21 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 0 1 1 3 3 -5
+p769
+aVJason Terry ATL 11/05/2001 ATL @ LAC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -2
+p770
+aVJacque Vaughn ATL 11/05/2001 ATL @ LAC L 16 3 0 7 0.0 0 1 0.0 3 4 75.0 1 1 2 3 1 0 1 1 -8
+p771
+aVHanno Mottola ATL 11/05/2001 ATL @ LAC L 10 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -4
+p772
+aVDerMarr Johnson ATL 11/05/2001 ATL @ LAC L 26 10 3 10 30.0 1 2 50.0 3 4 75.0 4 2 6 3 2 0 0 2 -8
+p773
+aVNazr Mohammed ATL 11/05/2001 ATL @ LAC L 33 30 14 21 66.7 0 0 - 2 3 66.7 5 6 11 1 1 0 1 1 -12
+p774
+aVToni Kukoc ATL 11/05/2001 ATL @ LAC L 13 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 2 0 2 0 0 -10
+p775
+aVEmanual Davis ATL 11/05/2001 ATL @ LAC L 35 4 2 9 22.2 0 2 0.0 0 0 - 0 3 3 4 1 0 2 2 -15
+p776
+aVCal Bowdler ATL 11/05/2001 ATL @ LAC L 15 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 1 2 2 1 3 -11
+p777
+aVShareef Abdur-Rahim ATL 11/05/2001 ATL @ LAC L 34 7 2 14 14.3 0 1 0.0 3 6 50.0 3 3 6 5 0 1 1 4 -20
+p778
+aVDion Glover ATL 11/05/2001 ATL @ LAC L 28 11 5 12 41.7 0 0 - 1 2 50.0 2 4 6 2 0 0 1 3 -12
+p779
+aVChris Crawford ATL 11/05/2001 ATL @ LAC L 23 14 6 10 60.0 0 0 - 2 4 50.0 1 0 1 1 0 1 1 6 -13
+p780
+aVNazr Mohammed ATL 11/03/2001 ATL vs. MIA W 38 13 5 8 62.5 0 0 - 3 6 50.0 2 12 14 0 1 1 1 4 9
+p781
+aVEmanual Davis ATL 11/03/2001 ATL vs. MIA W 32 11 3 9 33.3 1 3 33.3 4 4 100.0 2 3 5 2 0 1 0 2 16
+p782
+aVToni Kukoc ATL 11/03/2001 ATL vs. MIA W 32 4 2 7 28.6 0 0 - 0 0 - 1 3 4 4 1 0 4 2 14
+p783
+aVDion Glover ATL 11/03/2001 ATL vs. MIA W 18 13 5 7 71.4 0 0 - 3 4 75.0 2 1 3 1 1 0 1 2 0
+p784
+aVChris Crawford ATL 11/03/2001 ATL vs. MIA W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p785
+aVJacque Vaughn ATL 11/03/2001 ATL vs. MIA W 16 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 5 0 0 2 0 -9
+p786
+aVShareef Abdur-Rahim ATL 11/03/2001 ATL vs. MIA W 32 17 3 14 21.4 0 0 - 11 14 78.6 3 5 8 2 0 0 5 6 4
+p787
+aVCal Bowdler ATL 11/03/2001 ATL vs. MIA W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p788
+aVHanno Mottola ATL 11/03/2001 ATL vs. MIA W 15 10 5 6 83.3 0 0 - 0 0 - 3 2 5 0 0 1 1 1 0
+p789
+aVJason Terry ATL 11/03/2001 ATL vs. MIA W 38 20 5 15 33.3 1 3 33.3 9 12 75.0 0 7 7 4 4 1 1 1 5
+p790
+aVTheo Ratliff ATL 11/01/2001 ATL vs. WAS L 28 12 5 8 62.5 0 0 - 2 6 33.3 3 2 5 1 0 1 1 4 -15
+p791
+aVChris Crawford ATL 11/01/2001 ATL vs. WAS L 24 0 0 4 0.0 0 0 - 0 0 - 4 2 6 1 1 0 2 4 2
+p792
+aVDion Glover ATL 11/01/2001 ATL vs. WAS L 21 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 0 0 0 2 2 -14
+p793
+aVShareef Abdur-Rahim ATL 11/01/2001 ATL vs. WAS L 39 17 6 18 33.3 0 2 0.0 5 6 83.3 2 10 12 0 1 2 3 1 -15
+p794
+aVNazr Mohammed ATL 11/01/2001 ATL vs. WAS L 20 12 4 8 50.0 0 0 - 4 4 100.0 5 4 9 0 0 0 0 1 5
+p795
+aVHanno Mottola ATL 11/01/2001 ATL vs. WAS L 9 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 5
+p796
+aVToni Kukoc ATL 11/01/2001 ATL vs. WAS L 27 8 3 6 50.0 2 3 66.7 0 2 0.0 0 2 2 1 2 0 0 2 4
+p797
+aVJacque Vaughn ATL 11/01/2001 ATL vs. WAS L 15 0 0 5 0.0 0 0 - 0 0 - 0 1 1 3 1 0 1 1 3
+p798
+aVEmanual Davis ATL 11/01/2001 ATL vs. WAS L 18 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 0 0 0 2 2 -7
+p799
+aVJason Terry ATL 11/01/2001 ATL vs. WAS L 39 23 10 17 58.8 1 3 33.3 2 2 100.0 0 8 8 2 2 0 0 4 -18
+p800
+aVTheo Ratliff ATL 10/30/2001 ATL @ HOU L 39 12 5 10 50.0 0 0 - 2 3 66.7 1 7 8 0 1 6 4 3 -2
+p801
+aVToni Kukoc ATL 10/30/2001 ATL @ HOU L 34 5 1 6 16.7 0 2 0.0 3 5 60.0 0 8 8 4 1 0 0 0 0
+p802
+aVChris Crawford ATL 10/30/2001 ATL @ HOU L 9 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 5
+p803
+aVDerMarr Johnson ATL 10/30/2001 ATL @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p804
+aVShareef Abdur-Rahim ATL 10/30/2001 ATL @ HOU L 48 28 10 25 40.0 0 2 0.0 8 9 88.9 5 13 18 1 0 1 6 4 -3
+p805
+aVHanno Mottola ATL 10/30/2001 ATL @ HOU L 5 4 1 1 100.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 5 -2
+p806
+aVJacque Vaughn ATL 10/30/2001 ATL @ HOU L 16 3 0 8 0.0 0 0 - 3 4 75.0 0 1 1 4 0 0 0 1 -1
+p807
+aVEmanual Davis ATL 10/30/2001 ATL @ HOU L 38 15 6 13 46.2 3 8 37.5 0 0 - 1 2 3 3 1 0 2 5 -4
+p808
+aVNazr Mohammed ATL 10/30/2001 ATL @ HOU L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 3 0 0 2 -3
+p809
+aVDion Glover ATL 10/30/2001 ATL @ HOU L 19 5 2 4 50.0 0 1 0.0 1 2 50.0 0 0 0 0 3 1 1 0 -5
+p810
+aVJason Terry ATL 10/30/2001 ATL @ HOU L 42 6 2 9 22.2 0 1 0.0 2 2 100.0 0 2 2 3 1 0 2 4 -10
+p811
+a.

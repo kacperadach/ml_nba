@@ -1,0 +1,1714 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVIman Shumpert NYK 04/17/2013 NYK vs. ATL W 38 18 7 11 63.6 1 2 50.0 3 3 100.0 1 6 7 8 2 0 3 3 16
+p2
+aVChris Copeland NYK 04/17/2013 NYK vs. ATL W 40 33 14 29 48.3 1 4 25.0 4 8 50.0 3 0 3 1 1 2 3 3 12
+p3
+aVJames White NYK 04/17/2013 NYK vs. ATL W 44 20 8 15 53.3 3 6 50.0 1 1 100.0 0 6 6 3 3 0 2 4 5
+p4
+aVQuentin Richardson NYK 04/17/2013 NYK vs. ATL W 29 5 1 11 9.1 1 4 25.0 2 2 100.0 5 5 10 1 0 0 2 1 -9
+p5
+aVPablo Prigioni NYK 04/17/2013 NYK vs. ATL W 11 8 3 3 100.0 2 2 100.0 0 0 - 1 4 5 3 1 0 1 1 7
+p6
+aVSteve Novak NYK 04/17/2013 NYK vs. ATL W 41 3 1 8 12.5 1 6 16.7 0 0 - 0 1 1 3 1 0 0 3 -3
+p7
+aVEarl Barron NYK 04/17/2013 NYK vs. ATL W 37 11 5 14 35.7 0 0 - 1 2 50.0 6 12 18 2 0 1 1 1 2
+p8
+aVJames White NYK 04/15/2013 NYK @ CHA L 43 15 5 9 55.6 1 3 33.3 4 4 100.0 0 7 7 6 1 1 1 3 -4
+p9
+aVIman Shumpert NYK 04/15/2013 NYK @ CHA L 42 14 5 16 31.3 1 6 16.7 3 3 100.0 1 1 2 5 1 0 3 3 -10
+p10
+aVChris Copeland NYK 04/15/2013 NYK @ CHA L 47 32 12 25 48.0 4 8 50.0 4 4 100.0 2 5 7 2 1 0 1 2 -9
+p11
+aVSteve Novak NYK 04/15/2013 NYK @ CHA L 41 17 6 9 66.7 5 7 71.4 0 0 - 0 7 7 0 0 0 1 4 -6
+p12
+aVRasheed Wallace NYK 04/15/2013 NYK @ CHA L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p13
+aVPablo Prigioni NYK 04/15/2013 NYK @ CHA L 42 9 3 9 33.3 1 5 20.0 2 2 100.0 0 0 0 8 1 0 1 3 -8
+p14
+aVJason Kidd NYK 04/15/2013 NYK @ CHA L 21 6 2 8 25.0 2 7 28.6 0 0 - 0 2 2 6 1 0 1 0 -14
+p15
+aVJason Kidd NYK 04/14/2013 NYK vs. IND W 30 0 0 4 0.0 0 4 0.0 0 0 - 1 3 4 5 4 0 0 3 17
+p16
+aVPablo Prigioni NYK 04/14/2013 NYK vs. IND W 24 3 1 1 100.0 1 1 100.0 0 0 - 1 2 3 2 1 0 1 2 -12
+p17
+aVJR Smith NYK 04/14/2013 NYK vs. IND W 30 15 7 16 43.8 1 3 33.3 0 1 0.0 2 6 8 2 2 1 2 4 7
+p18
+aVCarmelo Anthony NYK 04/14/2013 NYK vs. IND W 30 25 9 23 39.1 2 7 28.6 5 6 83.3 1 4 5 1 1 0 1 3 0
+p19
+aVSteve Novak NYK 04/14/2013 NYK vs. IND W 18 6 2 7 28.6 2 6 33.3 0 0 - 0 0 0 0 0 0 1 2 10
+p20
+aVRaymond Felton NYK 04/14/2013 NYK vs. IND W 33 11 5 9 55.6 1 1 100.0 0 0 - 1 1 2 3 2 0 3 2 9
+p21
+aVChris Copeland NYK 04/14/2013 NYK vs. IND W 34 20 8 12 66.7 2 4 50.0 2 2 100.0 0 3 3 0 1 0 2 2 8
+p22
+aVJames White NYK 04/14/2013 NYK vs. IND W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p23
+aVSolomon Jones NYK 04/14/2013 NYK vs. IND W 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 2
+p24
+aVIman Shumpert NYK 04/14/2013 NYK vs. IND W 25 10 3 8 37.5 2 4 50.0 2 2 100.0 1 4 5 2 0 0 0 4 13
+p25
+aVJR Smith NYK 04/12/2013 NYK @ CLE W 29 31 13 16 81.3 2 3 66.7 3 5 60.0 0 5 5 1 2 1 0 2 21
+p26
+aVCarmelo Anthony NYK 04/12/2013 NYK @ CLE W 30 31 12 24 50.0 2 5 40.0 5 8 62.5 7 7 14 2 2 0 3 1 0
+p27
+aVRaymond Felton NYK 04/12/2013 NYK @ CLE W 24 7 3 7 42.9 1 2 50.0 0 0 - 0 4 4 3 0 1 1 3 0
+p28
+aVSteve Novak NYK 04/12/2013 NYK @ CLE W 25 3 1 7 14.3 1 6 16.7 0 0 - 0 1 1 0 1 1 0 3 7
+p29
+aVJames White NYK 04/12/2013 NYK @ CLE W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -9
+p30
+aVSolomon Jones NYK 04/12/2013 NYK @ CLE W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -1
+p31
+aVIman Shumpert NYK 04/12/2013 NYK @ CLE W 36 8 3 11 27.3 0 4 0.0 2 2 100.0 3 8 11 3 1 1 1 2 5
+p32
+aVChris Copeland NYK 04/12/2013 NYK @ CLE W 27 12 5 9 55.6 1 3 33.3 1 2 50.0 0 1 1 1 2 0 0 4 17
+p33
+aVPablo Prigioni NYK 04/12/2013 NYK @ CLE W 35 3 1 2 50.0 1 2 50.0 0 0 - 1 2 3 4 3 1 3 1 -5
+p34
+aVJason Kidd NYK 04/12/2013 NYK @ CLE W 17 6 2 3 66.7 2 3 66.7 0 0 - 0 4 4 1 0 0 3 2 15
+p35
+aVPablo Prigioni NYK 04/11/2013 NYK @ CHI L 24 7 3 4 75.0 1 2 50.0 0 1 0.0 1 1 2 2 0 0 1 2 11
+p36
+aVRaymond Felton NYK 04/11/2013 NYK @ CHI L 49 19 8 17 47.1 3 6 50.0 0 0 - 0 5 5 6 0 1 2 5 -8
+p37
+aVCarmelo Anthony NYK 04/11/2013 NYK @ CHI L 45 36 13 34 38.2 0 4 0.0 10 10 100.0 6 13 19 2 0 1 2 3 1
+p38
+aVSteve Novak NYK 04/11/2013 NYK @ CHI L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p39
+aVJason Kidd NYK 04/11/2013 NYK @ CHI L 37 0 0 4 0.0 0 4 0.0 0 0 - 0 6 6 2 0 1 0 5 -21
+p40
+aVChris Copeland NYK 04/11/2013 NYK @ CHI L 29 14 4 14 28.6 3 8 37.5 3 4 75.0 1 4 5 2 1 2 2 4 4
+p41
+aVIman Shumpert NYK 04/11/2013 NYK @ CHI L 26 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 6 19
+p42
+aVJR Smith NYK 04/11/2013 NYK @ CHI L 42 28 11 27 40.7 2 4 50.0 4 7 57.1 4 10 14 4 0 0 0 3 -32
+p43
+aVIman Shumpert NYK 04/09/2013 NYK vs. WAS W 24 18 7 10 70.0 4 6 66.7 0 0 - 0 4 4 2 1 1 0 4 3
+p44
+aVRaymond Felton NYK 04/09/2013 NYK vs. WAS W 31 10 4 9 44.4 2 6 33.3 0 0 - 0 3 3 8 2 0 1 1 23
+p45
+aVJason Kidd NYK 04/09/2013 NYK vs. WAS W 22 3 1 1 100.0 1 1 100.0 0 0 - 1 5 6 1 2 0 0 2 17
+p46
+aVJR Smith NYK 04/09/2013 NYK vs. WAS W 32 17 7 14 50.0 1 3 33.3 2 3 66.7 0 2 2 3 0 0 4 1 10
+p47
+aVSteve Novak NYK 04/09/2013 NYK vs. WAS W 22 12 4 8 50.0 4 8 50.0 0 0 - 0 1 1 0 0 0 0 2 3
+p48
+aVPablo Prigioni NYK 04/09/2013 NYK vs. WAS W 23 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 5 1 0 1 3 11
+p49
+aVKenyon Martin NYK 04/09/2013 NYK vs. WAS W 18 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 2 3 4 14
+p50
+aVChris Copeland NYK 04/09/2013 NYK vs. WAS W 30 17 6 11 54.5 4 6 66.7 1 2 50.0 2 7 9 1 0 0 3 5 3
+p51
+aVCarmelo Anthony NYK 04/09/2013 NYK vs. WAS W 31 36 13 21 61.9 3 4 75.0 7 9 77.8 1 7 8 6 0 0 0 2 23
+p52
+aVJames White NYK 04/09/2013 NYK vs. WAS W 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p53
+aVSteve Novak NYK 04/07/2013 NYK @ OKC W 12 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 0 0 0 0 0 9
+p54
+aVJason Kidd NYK 04/07/2013 NYK @ OKC W 31 14 5 8 62.5 4 6 66.7 0 0 - 1 5 6 2 2 0 0 0 7
+p55
+aVRaymond Felton NYK 04/07/2013 NYK @ OKC W 39 16 5 12 41.7 1 3 33.3 5 6 83.3 3 1 4 8 1 0 0 1 1
+p56
+aVIman Shumpert NYK 04/07/2013 NYK @ OKC W 11 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 2 1
+p57
+aVChris Copeland NYK 04/07/2013 NYK @ OKC W 19 13 5 9 55.6 2 3 66.7 1 2 50.0 2 1 3 3 0 1 0 4 0
+p58
+aVTyson Chandler NYK 04/07/2013 NYK @ OKC W 39 15 6 9 66.7 0 0 - 3 4 75.0 3 2 5 1 0 2 1 2 1
+p59
+aVJR Smith NYK 04/07/2013 NYK @ OKC W 35 22 7 18 38.9 2 9 22.2 6 8 75.0 1 6 7 4 0 0 3 3 6
+p60
+aVCarmelo Anthony NYK 04/07/2013 NYK @ OKC W 37 36 15 29 51.7 3 6 50.0 3 4 75.0 9 3 12 0 0 1 0 4 2
+p61
+aVPablo Prigioni NYK 04/07/2013 NYK @ OKC W 19 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 3 1 0 2 3 -2
+p62
+aVChris Copeland NYK 04/05/2013 NYK vs. MIL W 21 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 0 0 0 0 4 -5
+p63
+aVJR Smith NYK 04/05/2013 NYK vs. MIL W 34 30 11 22 50.0 5 11 45.5 3 4 75.0 1 9 10 3 2 0 0 0 14
+p64
+aVJames White NYK 04/05/2013 NYK vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p65
+aVRaymond Felton NYK 04/05/2013 NYK vs. MIL W 36 9 4 9 44.4 1 3 33.3 0 0 - 1 2 3 4 2 0 4 3 22
+p66
+aVPablo Prigioni NYK 04/05/2013 NYK vs. MIL W 17 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 4 0 0 0 3 23
+p67
+aVCarmelo Anthony NYK 04/05/2013 NYK vs. MIL W 37 41 17 28 60.7 3 7 42.9 4 4 100.0 5 9 14 1 0 1 5 2 22
+p68
+aVSteve Novak NYK 04/05/2013 NYK vs. MIL W 15 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p69
+aVJason Kidd NYK 04/05/2013 NYK vs. MIL W 24 5 2 4 50.0 1 2 50.0 0 0 - 1 6 7 2 1 0 0 2 -5
+p70
+aVTyson Chandler NYK 04/05/2013 NYK vs. MIL W 37 6 3 7 42.9 0 0 - 0 0 - 4 6 10 3 1 0 0 2 16
+p71
+aVIman Shumpert NYK 04/05/2013 NYK vs. MIL W 19 0 0 7 0.0 0 3 0.0 0 0 - 0 3 3 0 0 1 0 2 8
+p72
+aVJR Smith NYK 04/03/2013 NYK @ ATL W 31 19 8 15 53.3 1 4 25.0 2 4 50.0 0 1 1 1 1 0 5 3 16
+p73
+aVTyson Chandler NYK 04/03/2013 NYK @ ATL W 24 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 0 1 4 4
+p74
+aVRaymond Felton NYK 04/03/2013 NYK @ ATL W 36 14 7 16 43.8 0 3 0.0 0 0 - 1 4 5 3 3 0 2 3 11
+p75
+aVKenyon Martin NYK 04/03/2013 NYK @ ATL W 24 1 0 0 - 0 0 - 1 2 50.0 4 5 9 0 1 0 2 2 9
+p76
+aVCarmelo Anthony NYK 04/03/2013 NYK @ ATL W 41 40 17 27 63.0 1 2 50.0 5 6 83.3 1 4 5 3 0 0 1 3 11
+p77
+aVPablo Prigioni NYK 04/03/2013 NYK @ ATL W 13 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 0 0 0 0 0 -11
+p78
+aVSteve Novak NYK 04/03/2013 NYK @ ATL W 15 9 3 3 100.0 3 3 100.0 0 0 - 0 2 2 1 0 0 0 1 6
+p79
+aVIman Shumpert NYK 04/03/2013 NYK @ ATL W 23 4 2 6 33.3 0 2 0.0 0 0 - 0 6 6 1 0 0 0 3 8
+p80
+aVChris Copeland NYK 04/03/2013 NYK @ ATL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p81
+aVJason Kidd NYK 04/03/2013 NYK @ ATL W 30 0 0 3 0.0 0 3 0.0 0 0 - 1 4 5 7 1 0 0 1 12
+p82
+aVPablo Prigioni NYK 04/02/2013 NYK @ MIA W 13 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 1 -4
+p83
+aVCarmelo Anthony NYK 04/02/2013 NYK @ MIA W 40 50 18 26 69.2 7 10 70.0 7 8 87.5 0 2 2 2 1 1 0 3 15
+p84
+aVJR Smith NYK 04/02/2013 NYK @ MIA W 30 14 5 15 33.3 2 3 66.7 2 4 50.0 2 4 6 1 1 0 2 4 11
+p85
+aVJames White NYK 04/02/2013 NYK @ MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p86
+aVTyson Chandler NYK 04/02/2013 NYK @ MIA W 24 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 1 1 2 3 4 13
+p87
+aVJason Kidd NYK 04/02/2013 NYK @ MIA W 27 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 1 2 0 0 3 10
+p88
+aVIman Shumpert NYK 04/02/2013 NYK @ MIA W 23 9 3 5 60.0 3 5 60.0 0 0 - 0 3 3 2 0 0 1 2 6
+p89
+aVRaymond Felton NYK 04/02/2013 NYK @ MIA W 38 10 4 9 44.4 0 3 0.0 2 2 100.0 0 0 0 9 1 0 4 2 15
+p90
+aVKenyon Martin NYK 04/02/2013 NYK @ MIA W 24 9 4 7 57.1 0 0 - 1 2 50.0 2 4 6 0 1 0 1 3 -1
+p91
+aVChris Copeland NYK 04/02/2013 NYK @ MIA W 8 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 1 2 -3
+p92
+aVSteve Novak NYK 04/02/2013 NYK @ MIA W 13 3 1 2 50.0 1 2 50.0 0 1 0.0 0 0 0 0 0 0 0 1 -2
+p93
+aVSteve Novak NYK 03/31/2013 NYK vs. BOS W 20 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 0 0 0 0 0 14
+p94
+aVJason Kidd NYK 03/31/2013 NYK vs. BOS W 21 3 1 4 25.0 1 4 25.0 0 0 - 1 4 5 2 1 0 3 3 25
+p95
+aVPablo Prigioni NYK 03/31/2013 NYK vs. BOS W 33 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 5 0 0 0 2 13
+p96
+aVKenyon Martin NYK 03/31/2013 NYK vs. BOS W 23 3 1 2 50.0 0 0 - 1 3 33.3 0 4 4 2 0 1 2 4 2
+p97
+aVJR Smith NYK 03/31/2013 NYK vs. BOS W 33 15 4 12 33.3 0 1 0.0 7 10 70.0 2 10 12 4 2 0 1 1 20
+p98
+aVChris Copeland NYK 03/31/2013 NYK vs. BOS W 20 22 6 10 60.0 3 3 100.0 7 9 77.8 3 2 5 0 1 0 1 0 13
+p99
+aVRaymond Felton NYK 03/31/2013 NYK vs. BOS W 31 18 6 10 60.0 3 6 50.0 3 3 100.0 0 0 0 4 0 0 1 2 7
+p100
+aVJames White NYK 03/31/2013 NYK vs. BOS W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p101
+aVIman Shumpert NYK 03/31/2013 NYK vs. BOS W 27 10 3 3 100.0 2 2 100.0 2 2 100.0 1 3 4 2 1 0 1 5 -6
+p102
+aVCarmelo Anthony NYK 03/31/2013 NYK vs. BOS W 27 24 9 19 47.4 2 4 50.0 4 4 100.0 3 7 10 3 2 0 2 4 9
+p103
+aVJR Smith NYK 03/29/2013 NYK vs. CHA W 37 37 12 18 66.7 2 2 100.0 11 12 91.7 0 2 2 1 1 1 4 5 13
+p104
+aVCarmelo Anthony NYK 03/29/2013 NYK vs. CHA W 36 32 11 28 39.3 1 3 33.3 9 10 90.0 7 4 11 2 1 0 5 4 1
+p105
+aVChris Copeland NYK 03/29/2013 NYK vs. CHA W 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 2
+p106
+aVKenyon Martin NYK 03/29/2013 NYK vs. CHA W 36 6 2 5 40.0 0 0 - 2 4 50.0 1 5 6 0 0 3 0 4 3
+p107
+aVPablo Prigioni NYK 03/29/2013 NYK vs. CHA W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -1
+p108
+aVJason Kidd NYK 03/29/2013 NYK vs. CHA W 23 3 1 4 25.0 1 4 25.0 0 0 - 2 5 7 3 1 0 1 2 -3
+p109
+aVJames White NYK 03/29/2013 NYK vs. CHA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p110
+aVMarcus Camby NYK 03/29/2013 NYK vs. CHA W 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p111
+aVRaymond Felton NYK 03/29/2013 NYK vs. CHA W 36 18 7 11 63.6 2 4 50.0 2 2 100.0 0 3 3 2 3 0 1 2 8
+p112
+aVIman Shumpert NYK 03/29/2013 NYK vs. CHA W 27 8 2 4 50.0 2 4 50.0 2 2 100.0 0 2 2 5 2 0 1 3 4
+p113
+aVSteve Novak NYK 03/29/2013 NYK vs. CHA W 19 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 1 14
+p114
+aVJames White NYK 03/27/2013 NYK vs. MEM W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p115
+aVChris Copeland NYK 03/27/2013 NYK vs. MEM W 6 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -5
+p116
+aVCarmelo Anthony NYK 03/27/2013 NYK vs. MEM W 40 22 8 20 40.0 0 2 0.0 6 6 100.0 1 6 7 3 1 0 2 4 -2
+p117
+aVRaymond Felton NYK 03/27/2013 NYK vs. MEM W 32 13 5 6 83.3 2 3 66.7 1 2 50.0 1 2 3 4 1 0 2 3 -4
+p118
+aVPablo Prigioni NYK 03/27/2013 NYK vs. MEM W 18 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 3 0 0 0 2 6
+p119
+aVIman Shumpert NYK 03/27/2013 NYK vs. MEM W 21 16 6 10 60.0 4 6 66.7 0 0 - 0 3 3 1 2 0 1 4 9
+p120
+aVKenyon Martin NYK 03/27/2013 NYK vs. MEM W 26 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 1 0 1 4 10
+p121
+aVSteve Novak NYK 03/27/2013 NYK vs. MEM W 16 9 3 8 37.5 3 8 37.5 0 0 - 0 3 3 1 0 0 0 0 6
+p122
+aVJason Kidd NYK 03/27/2013 NYK vs. MEM W 29 3 1 2 50.0 1 2 50.0 0 1 0.0 0 1 1 3 4 1 0 2 4
+p123
+aVMarcus Camby NYK 03/27/2013 NYK vs. MEM W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 5
+p124
+aVJR Smith NYK 03/27/2013 NYK vs. MEM W 42 35 10 18 55.6 3 7 42.9 12 13 92.3 4 3 7 2 0 1 4 2 8
+p125
+aVPablo Prigioni NYK 03/26/2013 NYK @ BOS W 30 7 3 6 50.0 1 3 33.3 0 0 - 0 3 3 5 2 0 2 4 7
+p126
+aVSteve Novak NYK 03/26/2013 NYK @ BOS W 18 9 3 6 50.0 3 6 50.0 0 0 - 0 1 1 0 0 1 0 1 5
+p127
+aVChris Copeland NYK 03/26/2013 NYK @ BOS W 13 1 0 4 0.0 0 2 0.0 1 2 50.0 0 5 5 0 0 0 2 3 2
+p128
+aVJason Kidd NYK 03/26/2013 NYK @ BOS W 23 5 2 4 50.0 1 3 33.3 0 0 - 0 6 6 0 1 0 0 2 16
+p129
+aVRaymond Felton NYK 03/26/2013 NYK @ BOS W 32 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 3 2 0 1 1 6
+p130
+aVKenyon Martin NYK 03/26/2013 NYK @ BOS W 25 9 4 7 57.1 0 0 - 1 2 50.0 4 1 5 0 0 1 0 4 3
+p131
+aVJames White NYK 03/26/2013 NYK @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p132
+aVCarmelo Anthony NYK 03/26/2013 NYK @ BOS W 36 29 10 30 33.3 2 8 25.0 7 9 77.8 6 2 8 1 3 0 3 4 16
+p133
+aVIman Shumpert NYK 03/26/2013 NYK @ BOS W 26 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 1 1 0 0 2 3
+p134
+aVJR Smith NYK 03/26/2013 NYK @ BOS W 34 32 13 24 54.2 1 3 33.3 5 5 100.0 4 3 7 1 3 0 0 3 17
+p135
+aVRaymond Felton NYK 03/23/2013 NYK vs. TOR W 29 9 4 9 44.4 1 4 25.0 0 0 - 1 1 2 5 3 0 2 3 15
+p136
+aVJason Kidd NYK 03/23/2013 NYK vs. TOR W 23 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 2 1 0 1 2 13
+p137
+aVJR Smith NYK 03/23/2013 NYK vs. TOR W 31 25 9 16 56.3 0 3 0.0 7 8 87.5 0 5 5 3 2 0 3 1 12
+p138
+aVSteve Novak NYK 03/23/2013 NYK vs. TOR W 25 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 0 1 0 0 1 5
+p139
+aVPablo Prigioni NYK 03/23/2013 NYK vs. TOR W 28 2 1 2 50.0 0 0 - 0 0 - 1 5 6 6 1 0 0 1 25
+p140
+aVJames White NYK 03/23/2013 NYK vs. TOR W 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p141
+aVChris Copeland NYK 03/23/2013 NYK vs. TOR W 21 12 5 7 71.4 2 2 100.0 0 0 - 1 4 5 0 0 0 1 5 7
+p142
+aVCarmelo Anthony NYK 03/23/2013 NYK vs. TOR W 30 28 9 19 47.4 0 3 0.0 10 10 100.0 3 5 8 2 1 0 2 3 16
+p143
+aVKenyon Martin NYK 03/23/2013 NYK vs. TOR W 27 18 7 11 63.6 0 0 - 4 5 80.0 4 3 7 0 1 2 1 2 19
+p144
+aVIman Shumpert NYK 03/23/2013 NYK vs. TOR W 21 8 3 6 50.0 2 4 50.0 0 0 - 1 2 3 2 4 1 1 2 16
+p145
+aVJR Smith NYK 03/22/2013 NYK @ TOR W 38 14 5 10 50.0 1 3 33.3 3 7 42.9 1 4 5 3 1 0 1 3 8
+p146
+aVJason Kidd NYK 03/22/2013 NYK @ TOR W 31 7 2 5 40.0 2 4 50.0 1 2 50.0 0 5 5 3 0 1 2 3 1
+p147
+aVPablo Prigioni NYK 03/22/2013 NYK @ TOR W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 2 0 0 3 -3
+p148
+aVCarmelo Anthony NYK 03/22/2013 NYK @ TOR W 43 37 14 31 45.2 2 8 25.0 7 11 63.6 2 4 6 1 1 2 7 4 0
+p149
+aVIman Shumpert NYK 03/22/2013 NYK @ TOR W 17 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 3 0 0 0 0 2
+p150
+aVChris Copeland NYK 03/22/2013 NYK @ TOR W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 2 5
+p151
+aVKenyon Martin NYK 03/22/2013 NYK @ TOR W 36 19 9 10 90.0 0 0 - 1 2 50.0 5 6 11 0 2 1 1 3 -6
+p152
+aVMarcus Camby NYK 03/22/2013 NYK @ TOR W 12 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 0 1 1 4 8
+p153
+aVRaymond Felton NYK 03/22/2013 NYK @ TOR W 42 7 2 6 33.3 2 3 66.7 1 2 50.0 0 3 3 3 2 0 0 2 -3
+p154
+aVSteve Novak NYK 03/22/2013 NYK @ TOR W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 13
+p155
+aVCarmelo Anthony NYK 03/20/2013 NYK vs. ORL W 33 21 7 14 50.0 3 5 60.0 4 6 66.7 1 7 8 0 1 1 3 3 21
+p156
+aVRaymond Felton NYK 03/20/2013 NYK vs. ORL W 25 7 3 8 37.5 1 4 25.0 0 0 - 1 1 2 4 1 0 0 1 21
+p157
+aVIman Shumpert NYK 03/20/2013 NYK vs. ORL W 14 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 3 0 0 0 0 2
+p158
+aVPablo Prigioni NYK 03/20/2013 NYK vs. ORL W 20 6 2 2 100.0 2 2 100.0 0 0 - 1 3 4 5 0 0 1 1 13
+p159
+aVJames White NYK 03/20/2013 NYK vs. ORL W 6 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 1 -5
+p160
+aVJR Smith NYK 03/20/2013 NYK vs. ORL W 38 22 8 16 50.0 2 6 33.3 4 5 80.0 1 6 7 2 0 1 0 0 12
+p161
+aVKenyon Martin NYK 03/20/2013 NYK vs. ORL W 28 11 5 6 83.3 0 0 - 1 3 33.3 2 1 3 0 1 0 0 4 20
+p162
+aVSteve Novak NYK 03/20/2013 NYK vs. ORL W 26 11 4 8 50.0 3 7 42.9 0 0 - 0 3 3 0 1 0 1 1 -3
+p163
+aVMarcus Camby NYK 03/20/2013 NYK vs. ORL W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -7
+p164
+aVChris Copeland NYK 03/20/2013 NYK vs. ORL W 20 9 4 10 40.0 1 4 25.0 0 0 - 2 1 3 0 0 0 2 6 -5
+p165
+aVJason Kidd NYK 03/20/2013 NYK vs. ORL W 23 5 2 3 66.7 1 2 50.0 0 0 - 2 0 2 5 3 0 2 1 -9
+p166
+aVJR Smith NYK 03/18/2013 NYK @ UTA W 31 20 5 13 38.5 1 4 25.0 9 10 90.0 2 3 5 1 1 0 4 3 10
+p167
+aVChris Copeland NYK 03/18/2013 NYK @ UTA W 31 14 6 15 40.0 1 4 25.0 1 2 50.0 0 6 6 2 0 0 2 4 3
+p168
+aVRaymond Felton NYK 03/18/2013 NYK @ UTA W 42 19 8 12 66.7 2 3 66.7 1 2 50.0 0 1 1 4 3 0 1 1 8
+p169
+aVKenyon Martin NYK 03/18/2013 NYK @ UTA W 21 9 4 6 66.7 0 0 - 1 4 25.0 4 5 9 0 1 1 0 3 3
+p170
+aVKurt Thomas NYK 03/18/2013 NYK @ UTA W 27 6 3 5 60.0 0 0 - 0 0 - 0 3 3 2 0 3 2 2 3
+p171
+aVPablo Prigioni NYK 03/18/2013 NYK @ UTA W 20 3 1 3 33.3 1 2 50.0 0 0 - 2 0 2 3 0 0 0 4 -1
+p172
+aVSteve Novak NYK 03/18/2013 NYK @ UTA W 17 4 0 3 0.0 0 3 0.0 4 5 80.0 0 0 0 0 1 0 1 2 2
+p173
+aVIman Shumpert NYK 03/18/2013 NYK @ UTA W 17 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 1 0 0 0 0 -3
+p174
+aVJason Kidd NYK 03/18/2013 NYK @ UTA W 28 7 2 5 40.0 1 4 25.0 2 2 100.0 0 3 3 5 1 0 1 1 8
+p175
+aVMarcus Camby NYK 03/18/2013 NYK @ UTA W 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 2 1 1 1 2
+p176
+aVPablo Prigioni NYK 03/17/2013 NYK @ LAC L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -1
+p177
+aVChris Copeland NYK 03/17/2013 NYK @ LAC L 26 13 5 11 45.5 3 4 75.0 0 0 - 0 4 4 2 0 0 2 3 -11
+p178
+aVMarcus Camby NYK 03/17/2013 NYK @ LAC L 22 1 0 6 0.0 0 0 - 1 2 50.0 3 1 4 1 1 0 0 2 -16
+p179
+aVJason Kidd NYK 03/17/2013 NYK @ LAC L 25 11 4 7 57.1 3 5 60.0 0 0 - 0 4 4 1 2 0 0 1 -9
+p180
+aVKurt Thomas NYK 03/17/2013 NYK @ LAC L 17 2 1 5 20.0 0 0 - 0 0 - 0 5 5 2 1 0 0 4 -8
+p181
+aVIman Shumpert NYK 03/17/2013 NYK @ LAC L 17 5 2 6 33.3 0 3 0.0 1 2 50.0 0 1 1 1 1 0 2 3 -6
+p182
+aVKenyon Martin NYK 03/17/2013 NYK @ LAC L 28 4 2 6 33.3 0 0 - 0 1 0.0 3 6 9 3 0 1 0 5 0
+p183
+aVSteve Novak NYK 03/17/2013 NYK @ LAC L 16 9 3 3 100.0 3 3 100.0 0 0 - 1 1 2 0 1 0 0 2 9
+p184
+aVRaymond Felton NYK 03/17/2013 NYK @ LAC L 41 16 7 15 46.7 2 4 50.0 0 0 - 0 3 3 9 0 0 2 2 -4
+p185
+aVJR Smith NYK 03/17/2013 NYK @ LAC L 36 17 4 20 20.0 1 7 14.3 8 9 88.9 0 6 6 1 1 0 3 2 -19
+p186
+aVKurt Thomas NYK 03/14/2013 NYK @ POR L 24 6 3 3 100.0 0 0 - 0 0 - 1 6 7 3 0 1 0 4 -10
+p187
+aVKenyon Martin NYK 03/14/2013 NYK @ POR L 31 12 6 10 60.0 0 0 - 0 0 - 1 3 4 1 1 1 0 4 -21
+p188
+aVJR Smith NYK 03/14/2013 NYK @ POR L 35 33 11 21 52.4 4 8 50.0 7 10 70.0 0 3 3 2 0 0 4 3 -12
+p189
+aVRaymond Felton NYK 03/14/2013 NYK @ POR L 29 11 4 12 33.3 0 2 0.0 3 3 100.0 2 1 3 3 3 0 2 0 -20
+p190
+aVJason Kidd NYK 03/14/2013 NYK @ POR L 34 3 1 8 12.5 1 7 14.3 0 0 - 0 2 2 2 1 0 2 0 -13
+p191
+aVChris Copeland NYK 03/14/2013 NYK @ POR L 21 9 3 8 37.5 2 4 50.0 1 2 50.0 0 1 1 0 1 0 2 3 6
+p192
+aVPablo Prigioni NYK 03/14/2013 NYK @ POR L 15 2 1 3 33.3 0 1 0.0 0 0 - 3 2 5 5 4 0 1 3 6
+p193
+aVMarcus Camby NYK 03/14/2013 NYK @ POR L 19 8 4 6 66.7 0 0 - 0 2 0.0 3 7 10 3 0 0 0 1 0
+p194
+aVSteve Novak NYK 03/14/2013 NYK @ POR L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 2
+p195
+aVIman Shumpert NYK 03/14/2013 NYK @ POR L 23 6 3 9 33.3 0 1 0.0 0 0 - 1 3 4 1 0 0 1 2 -13
+p196
+aVKurt Thomas NYK 03/13/2013 NYK @ DEN L 9 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 1 4 0
+p197
+aVCarmelo Anthony NYK 03/13/2013 NYK @ DEN L 22 9 3 12 25.0 0 5 0.0 3 4 75.0 2 3 5 3 0 1 3 2 -18
+p198
+aVJR Smith NYK 03/13/2013 NYK @ DEN L 32 15 5 12 41.7 3 5 60.0 2 3 66.7 0 5 5 8 1 0 1 3 -21
+p199
+aVTyson Chandler NYK 03/13/2013 NYK @ DEN L 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -22
+p200
+aVJason Kidd NYK 03/13/2013 NYK @ DEN L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 0 -7
+p201
+aVRaymond Felton NYK 03/13/2013 NYK @ DEN L 29 8 3 7 42.9 2 2 100.0 0 0 - 0 1 1 4 3 2 4 2 -19
+p202
+aVPablo Prigioni NYK 03/13/2013 NYK @ DEN L 14 5 1 3 33.3 1 2 50.0 2 2 100.0 1 1 2 3 0 0 3 2 4
+p203
+aVSteve Novak NYK 03/13/2013 NYK @ DEN L 19 4 2 7 28.6 0 5 0.0 0 0 - 1 1 2 0 0 0 1 1 -9
+p204
+aVChris Copeland NYK 03/13/2013 NYK @ DEN L 20 7 1 5 20.0 0 1 0.0 5 5 100.0 2 4 6 1 0 1 0 2 -5
+p205
+aVJames White NYK 03/13/2013 NYK @ DEN L 15 10 4 10 40.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 1 2
+p206
+aVIman Shumpert NYK 03/13/2013 NYK @ DEN L 33 20 8 10 80.0 4 5 80.0 0 0 - 0 1 1 1 1 0 2 2 -15
+p207
+aVKenyon Martin NYK 03/13/2013 NYK @ DEN L 21 5 2 5 40.0 0 0 - 1 6 16.7 0 5 5 1 2 4 2 4 -5
+p208
+aVKurt Thomas NYK 03/11/2013 NYK @ GSW L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -6
+p209
+aVRaymond Felton NYK 03/11/2013 NYK @ GSW L 28 10 3 6 50.0 0 1 0.0 4 5 80.0 2 3 5 4 2 0 2 0 -25
+p210
+aVKenyon Martin NYK 03/11/2013 NYK @ GSW L 18 3 1 4 25.0 0 0 - 1 4 25.0 1 3 4 0 1 0 1 5 6
+p211
+aVChris Copeland NYK 03/11/2013 NYK @ GSW L 19 15 5 11 45.5 3 5 60.0 2 2 100.0 1 5 6 1 0 0 4 5 -4
+p212
+aVTyson Chandler NYK 03/11/2013 NYK @ GSW L 31 4 1 2 50.0 0 0 - 2 2 100.0 1 7 8 0 0 1 1 4 -23
+p213
+aVPablo Prigioni NYK 03/11/2013 NYK @ GSW L 17 0 0 4 0.0 0 4 0.0 0 0 - 1 1 2 1 2 0 2 0 -8
+p214
+aVCarmelo Anthony NYK 03/11/2013 NYK @ GSW L 34 14 4 15 26.7 0 2 0.0 6 9 66.7 5 5 10 0 0 0 1 5 -29
+p215
+aVJames White NYK 03/11/2013 NYK @ GSW L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -6
+p216
+aVSteve Novak NYK 03/11/2013 NYK @ GSW L 17 0 0 6 0.0 0 4 0.0 0 0 - 0 3 3 1 0 0 0 2 -4
+p217
+aVJason Kidd NYK 03/11/2013 NYK @ GSW L 19 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 2 1 1 0 1 -2
+p218
+aVIman Shumpert NYK 03/11/2013 NYK @ GSW L 23 8 3 9 33.3 2 4 50.0 0 2 0.0 0 0 0 0 0 0 0 2 -29
+p219
+aVJR Smith NYK 03/11/2013 NYK @ GSW L 21 9 3 11 27.3 0 3 0.0 3 4 75.0 0 0 0 1 0 0 2 2 -15
+p220
+aVSteve Novak NYK 03/09/2013 NYK vs. UTA W 26 20 7 12 58.3 5 10 50.0 1 1 100.0 0 0 0 2 1 0 0 0 11
+p221
+aVJR Smith NYK 03/09/2013 NYK vs. UTA W 28 24 10 18 55.6 4 8 50.0 0 2 0.0 2 4 6 3 0 0 3 2 21
+p222
+aVRaymond Felton NYK 03/09/2013 NYK vs. UTA W 24 15 6 10 60.0 1 3 33.3 2 2 100.0 0 1 1 4 0 0 3 2 34
+p223
+aVTyson Chandler NYK 03/09/2013 NYK vs. UTA W 25 6 2 4 50.0 0 0 - 2 2 100.0 0 9 9 0 0 2 1 4 17
+p224
+aVIman Shumpert NYK 03/09/2013 NYK vs. UTA W 27 10 1 3 33.3 0 0 - 8 10 80.0 0 5 5 1 4 0 1 0 18
+p225
+aVChris Copeland NYK 03/09/2013 NYK vs. UTA W 7 12 4 6 66.7 1 2 50.0 3 3 100.0 0 0 0 0 1 0 1 3 8
+p226
+aVJason Kidd NYK 03/09/2013 NYK vs. UTA W 16 2 0 5 0.0 0 5 0.0 2 2 100.0 1 4 5 1 1 0 1 2 -13
+p227
+aVKurt Thomas NYK 03/09/2013 NYK vs. UTA W 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p228
+aVMarcus Camby NYK 03/09/2013 NYK vs. UTA W 14 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 1 2 1 0 1 7
+p229
+aVKenyon Martin NYK 03/09/2013 NYK vs. UTA W 22 10 4 6 66.7 0 0 - 2 2 100.0 2 4 6 1 2 0 1 3 14
+p230
+aVPablo Prigioni NYK 03/09/2013 NYK vs. UTA W 24 7 1 2 50.0 1 2 50.0 4 4 100.0 3 2 5 5 0 0 1 1 17
+p231
+aVJames White NYK 03/09/2013 NYK vs. UTA W 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 7
+p232
+aVRaymond Felton NYK 03/07/2013 NYK vs. OKC L 38 16 6 16 37.5 1 8 12.5 3 3 100.0 0 1 1 3 1 0 4 2 2
+p233
+aVJR Smith NYK 03/07/2013 NYK vs. OKC L 36 36 14 29 48.3 6 13 46.2 2 2 100.0 0 3 3 3 3 0 2 3 7
+p234
+aVAmar'e Stoudemire NYK 03/07/2013 NYK vs. OKC L 29 16 5 16 31.3 0 0 - 6 6 100.0 6 2 8 0 0 2 0 2 6
+p235
+aVJames White NYK 03/07/2013 NYK vs. OKC L 12 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 0 0 0 0 1 -5
+p236
+aVTyson Chandler NYK 03/07/2013 NYK vs. OKC L 35 9 3 4 75.0 0 0 - 3 3 100.0 3 7 10 1 1 0 4 3 -6
+p237
+aVSteve Novak NYK 03/07/2013 NYK vs. OKC L 13 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 0 1 0 1 1 -1
+p238
+aVKenyon Martin NYK 03/07/2013 NYK vs. OKC L 17 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 1 0 1 6 -1
+p239
+aVIman Shumpert NYK 03/07/2013 NYK vs. OKC L 27 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 0 1 0 0 3 -11
+p240
+aVKurt Thomas NYK 03/07/2013 NYK vs. OKC L 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p241
+aVJason Kidd NYK 03/07/2013 NYK vs. OKC L 27 0 0 2 0.0 0 1 0.0 0 0 - 1 9 10 3 2 1 1 0 2
+p242
+aVMarcus Camby NYK 03/06/2013 NYK @ DET W 6 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 2
+p243
+aVKurt Thomas NYK 03/06/2013 NYK @ DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 0
+p244
+aVSteve Novak NYK 03/06/2013 NYK @ DET W 16 0 0 5 0.0 0 5 0.0 0 0 - 1 1 2 0 1 0 1 0 -2
+p245
+aVTyson Chandler NYK 03/06/2013 NYK @ DET W 30 2 1 3 33.3 0 0 - 0 2 0.0 2 9 11 0 0 2 1 3 -9
+p246
+aVJason Kidd NYK 03/06/2013 NYK @ DET W 32 6 2 7 28.6 2 7 28.6 0 0 - 0 5 5 6 3 1 0 1 24
+p247
+aVIman Shumpert NYK 03/06/2013 NYK @ DET W 19 9 3 6 50.0 3 4 75.0 0 0 - 1 5 6 2 1 0 2 3 -10
+p248
+aVAmar'e Stoudemire NYK 03/06/2013 NYK @ DET W 31 22 8 12 66.7 0 0 - 6 7 85.7 6 3 9 0 0 1 3 2 12
+p249
+aVJames White NYK 03/06/2013 NYK @ DET W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -4
+p250
+aVRaymond Felton NYK 03/06/2013 NYK @ DET W 37 26 10 15 66.7 4 5 80.0 2 2 100.0 1 5 6 4 1 1 7 1 8
+p251
+aVJR Smith NYK 03/06/2013 NYK @ DET W 40 20 7 22 31.8 4 11 36.4 2 2 100.0 1 3 4 5 4 0 3 2 14
+p252
+aVPablo Prigioni NYK 03/06/2013 NYK @ DET W 17 0 0 3 0.0 0 3 0.0 0 0 - 1 1 2 3 1 0 1 1 15
+p253
+aVRaymond Felton NYK 03/04/2013 NYK @ CLE W 33 8 3 9 33.3 1 4 25.0 1 2 50.0 1 2 3 10 1 2 3 2 16
+p254
+aVPablo Prigioni NYK 03/04/2013 NYK @ CLE W 8 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 1 0 0 2 0 1
+p255
+aVJames White NYK 03/04/2013 NYK @ CLE W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p256
+aVMarcus Camby NYK 03/04/2013 NYK @ CLE W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -6
+p257
+aVIman Shumpert NYK 03/04/2013 NYK @ CLE W 19 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 0 1 0 0 1 -1
+p258
+aVJR Smith NYK 03/04/2013 NYK @ CLE W 38 18 6 17 35.3 1 7 14.3 5 6 83.3 1 6 7 7 1 0 1 2 3
+p259
+aVTyson Chandler NYK 03/04/2013 NYK @ CLE W 35 8 4 8 50.0 0 0 - 0 0 - 3 6 9 2 1 1 1 2 12
+p260
+aVAmar'e Stoudemire NYK 03/04/2013 NYK @ CLE W 32 22 10 15 66.7 0 0 - 2 2 100.0 2 4 6 2 0 1 4 4 13
+p261
+aVCarmelo Anthony NYK 03/04/2013 NYK @ CLE W 14 6 1 5 20.0 0 1 0.0 4 4 100.0 0 1 1 0 0 1 3 0 -15
+p262
+aVSteve Novak NYK 03/04/2013 NYK @ CLE W 20 15 4 7 57.1 4 7 57.1 3 3 100.0 1 2 3 0 1 0 0 3 -3
+p263
+aVJason Kidd NYK 03/04/2013 NYK @ CLE W 30 12 3 7 42.9 3 5 60.0 3 4 75.0 3 5 8 1 3 0 1 4 5
+p264
+aVAmar'e Stoudemire NYK 03/03/2013 NYK vs. MIA L 21 12 5 7 71.4 0 0 - 2 4 50.0 0 2 2 1 0 1 2 1 -2
+p265
+aVCarmelo Anthony NYK 03/03/2013 NYK vs. MIA L 42 32 9 19 47.4 1 3 33.3 13 14 92.9 0 2 2 3 0 0 1 3 -7
+p266
+aVJR Smith NYK 03/03/2013 NYK vs. MIA L 36 13 5 18 27.8 3 14 21.4 0 0 - 1 11 12 2 3 0 3 4 -2
+p267
+aVTyson Chandler NYK 03/03/2013 NYK vs. MIA L 34 10 4 7 57.1 0 0 - 2 2 100.0 3 5 8 0 2 2 1 0 2
+p268
+aVJames White NYK 03/03/2013 NYK vs. MIA L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 2 3 -6
+p269
+aVJason Kidd NYK 03/03/2013 NYK vs. MIA L 34 14 5 7 71.4 4 5 80.0 0 0 - 1 7 8 6 3 0 2 3 2
+p270
+aVRaymond Felton NYK 03/03/2013 NYK vs. MIA L 31 9 3 8 37.5 0 1 0.0 3 4 75.0 1 0 1 2 1 1 4 2 -6
+p271
+aVSteve Novak NYK 03/03/2013 NYK vs. MIA L 12 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 1 0 0 0 1 6
+p272
+aVIman Shumpert NYK 03/03/2013 NYK vs. MIA L 21 3 1 4 25.0 0 3 0.0 1 2 50.0 2 1 3 2 0 0 2 2 -17
+p273
+aVSteve Novak NYK 03/01/2013 NYK @ WAS W 11 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 2 -6
+p274
+aVTyson Chandler NYK 03/01/2013 NYK @ WAS W 34 6 1 3 33.3 0 0 - 4 6 66.7 3 7 10 2 0 1 2 2 3
+p275
+aVRaymond Felton NYK 03/01/2013 NYK @ WAS W 32 23 9 18 50.0 1 4 25.0 4 4 100.0 2 4 6 4 2 0 1 1 16
+p276
+aVJames White NYK 03/01/2013 NYK @ WAS W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 1 2 0 3
+p277
+aVAmar'e Stoudemire NYK 03/01/2013 NYK @ WAS W 24 12 5 8 62.5 0 0 - 2 2 100.0 0 2 2 0 0 0 3 2 7
+p278
+aVCarmelo Anthony NYK 03/01/2013 NYK @ WAS W 43 30 10 24 41.7 2 7 28.6 8 9 88.9 1 5 6 3 2 0 3 2 10
+p279
+aVJason Kidd NYK 03/01/2013 NYK @ WAS W 28 4 2 6 33.3 0 4 0.0 0 0 - 1 2 3 5 1 0 0 5 11
+p280
+aVJR Smith NYK 03/01/2013 NYK @ WAS W 33 13 5 13 38.5 3 8 37.5 0 0 - 1 11 12 2 3 0 1 6 5
+p281
+aVIman Shumpert NYK 03/01/2013 NYK @ WAS W 24 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 1 0 1 0 3 -9
+p282
+aVRaymond Felton NYK 02/27/2013 NYK vs. GSW W 39 10 3 10 30.0 2 5 40.0 2 6 33.3 2 2 4 4 4 1 2 3 11
+p283
+aVKenyon Martin NYK 02/27/2013 NYK vs. GSW W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p284
+aVCarmelo Anthony NYK 02/27/2013 NYK vs. GSW W 40 35 10 26 38.5 2 7 28.6 13 15 86.7 1 0 1 8 0 0 2 3 11
+p285
+aVJason Kidd NYK 02/27/2013 NYK vs. GSW W 19 0 0 4 0.0 0 4 0.0 0 0 - 1 1 2 1 0 1 0 1 2
+p286
+aVJames White NYK 02/27/2013 NYK vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p287
+aVSteve Novak NYK 02/27/2013 NYK vs. GSW W 9 3 0 4 0.0 0 2 0.0 3 3 100.0 0 1 1 1 0 0 0 1 -7
+p288
+aVPablo Prigioni NYK 02/27/2013 NYK vs. GSW W 9 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 0 2 -7
+p289
+aVIman Shumpert NYK 02/27/2013 NYK vs. GSW W 22 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 2 6 0 3 4 12
+p290
+aVAmar'e Stoudemire NYK 02/27/2013 NYK vs. GSW W 20 14 6 7 85.7 0 0 - 2 2 100.0 1 3 4 0 0 0 2 3 -5
+p291
+aVTyson Chandler NYK 02/27/2013 NYK vs. GSW W 42 16 5 9 55.6 0 0 - 6 7 85.7 10 18 28 1 2 1 0 1 9
+p292
+aVJR Smith NYK 02/27/2013 NYK vs. GSW W 35 26 10 19 52.6 6 11 54.5 0 0 - 0 5 5 1 0 0 1 5 4
+p293
+aVAmar'e Stoudemire NYK 02/24/2013 NYK vs. PHI W 22 22 9 10 90.0 0 0 - 4 6 66.7 2 3 5 0 2 0 1 5 10
+p294
+aVCarmelo Anthony NYK 02/24/2013 NYK vs. PHI W 40 29 6 18 33.3 1 6 16.7 16 18 88.9 1 6 7 2 0 0 5 2 -14
+p295
+aVSteve Novak NYK 02/24/2013 NYK vs. PHI W 19 4 1 2 50.0 1 2 50.0 1 1 100.0 0 6 6 0 1 0 0 1 20
+p296
+aVIman Shumpert NYK 02/24/2013 NYK vs. PHI W 13 4 1 5 20.0 1 2 50.0 1 1 100.0 0 2 2 1 1 0 1 3 0
+p297
+aVPablo Prigioni NYK 02/24/2013 NYK vs. PHI W 13 4 1 4 25.0 0 3 0.0 2 2 100.0 0 1 1 5 0 0 0 1 11
+p298
+aVRaymond Felton NYK 02/24/2013 NYK vs. PHI W 36 14 6 15 40.0 2 8 25.0 0 0 - 0 0 0 4 1 0 0 1 -7
+p299
+aVJR Smith NYK 02/24/2013 NYK vs. PHI W 36 14 5 12 41.7 3 6 50.0 1 2 50.0 1 5 6 2 1 0 1 2 5
+p300
+aVJason Kidd NYK 02/24/2013 NYK vs. PHI W 26 3 1 7 14.3 0 6 0.0 1 2 50.0 3 6 9 2 1 0 2 1 -9
+p301
+aVTyson Chandler NYK 02/24/2013 NYK vs. PHI W 35 5 2 2 100.0 0 0 - 1 3 33.3 4 8 12 1 0 3 2 2 14
+p302
+aVSteve Novak NYK 02/22/2013 NYK @ TOR L 12 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 1 0 0 0 1 9
+p303
+aVCarmelo Anthony NYK 02/22/2013 NYK @ TOR L 42 32 11 24 45.8 1 8 12.5 9 11 81.8 3 3 6 4 1 1 3 3 -2
+p304
+aVAmar'e Stoudemire NYK 02/22/2013 NYK @ TOR L 27 14 6 10 60.0 0 0 - 2 4 50.0 1 5 6 0 0 1 3 4 2
+p305
+aVJR Smith NYK 02/22/2013 NYK @ TOR L 33 19 7 12 58.3 3 6 50.0 2 2 100.0 0 4 4 4 1 0 2 3 3
+p306
+aVRaymond Felton NYK 02/22/2013 NYK @ TOR L 33 10 4 10 40.0 1 3 33.3 1 1 100.0 0 6 6 3 0 0 2 4 4
+p307
+aVIman Shumpert NYK 02/22/2013 NYK @ TOR L 15 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 -5
+p308
+aVJason Kidd NYK 02/22/2013 NYK @ TOR L 32 6 2 4 50.0 2 4 50.0 0 0 - 1 6 7 4 2 1 2 3 -7
+p309
+aVTyson Chandler NYK 02/22/2013 NYK @ TOR L 35 8 2 7 28.6 0 0 - 4 5 80.0 3 4 7 2 1 5 3 6 -11
+p310
+aVPablo Prigioni NYK 02/22/2013 NYK @ TOR L 12 3 1 2 50.0 1 2 50.0 0 0 - 1 2 3 1 0 0 0 2 -3
+p311
+aVTyson Chandler NYK 02/20/2013 NYK @ IND L 34 19 4 9 44.4 0 0 - 11 11 100.0 4 7 11 0 1 1 1 2 -31
+p312
+aVKurt Thomas NYK 02/20/2013 NYK @ IND L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 6 -17
+p313
+aVJason Kidd NYK 02/20/2013 NYK @ IND L 17 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 2 3 0 1 2 -17
+p314
+aVAmar'e Stoudemire NYK 02/20/2013 NYK @ IND L 22 7 1 5 20.0 0 0 - 5 6 83.3 2 5 7 1 0 0 2 4 -14
+p315
+aVChris Copeland NYK 02/20/2013 NYK @ IND L 10 13 6 9 66.7 0 2 0.0 1 3 33.3 0 1 1 0 1 0 1 2 2
+p316
+aVJames White NYK 02/20/2013 NYK @ IND L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p317
+aVPablo Prigioni NYK 02/20/2013 NYK @ IND L 20 5 1 2 50.0 1 2 50.0 2 2 100.0 2 0 2 8 2 0 2 1 -5
+p318
+aVRaymond Felton NYK 02/20/2013 NYK @ IND L 28 12 5 13 38.5 0 2 0.0 2 2 100.0 1 0 1 3 1 0 2 3 -29
+p319
+aVSteve Novak NYK 02/20/2013 NYK @ IND L 23 11 3 7 42.9 3 7 42.9 2 2 100.0 0 6 6 0 2 1 0 2 -6
+p320
+aVRonnie Brewer NYK 02/20/2013 NYK @ IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p321
+aVIman Shumpert NYK 02/20/2013 NYK @ IND L 25 4 1 7 14.3 0 4 0.0 2 2 100.0 1 1 2 1 1 1 1 1 -10
+p322
+aVCarmelo Anthony NYK 02/20/2013 NYK @ IND L 28 15 7 21 33.3 1 6 16.7 0 2 0.0 2 4 6 1 0 0 2 5 -16
+p323
+aVJR Smith NYK 02/20/2013 NYK @ IND L 19 5 1 7 14.3 0 1 0.0 3 6 50.0 0 1 1 1 1 0 3 1 -27
+p324
+aVPablo Prigioni NYK 02/13/2013 NYK vs. TOR L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -7
+p325
+aVTyson Chandler NYK 02/13/2013 NYK vs. TOR L 34 10 4 6 66.7 0 0 - 2 2 100.0 4 5 9 0 0 2 1 5 6
+p326
+aVAmar'e Stoudemire NYK 02/13/2013 NYK vs. TOR L 18 10 4 13 30.8 0 0 - 2 2 100.0 5 2 7 0 0 0 1 3 -13
+p327
+aVIman Shumpert NYK 02/13/2013 NYK vs. TOR L 21 5 1 3 33.3 0 0 - 3 4 75.0 2 5 7 1 1 0 0 1 -10
+p328
+aVCarmelo Anthony NYK 02/13/2013 NYK vs. TOR L 41 12 5 24 20.8 1 6 16.7 1 4 25.0 2 10 12 2 1 0 4 4 5
+p329
+aVRaymond Felton NYK 02/13/2013 NYK vs. TOR L 41 16 3 9 33.3 0 2 0.0 10 12 83.3 2 2 4 5 4 0 4 2 3
+p330
+aVSteve Novak NYK 02/13/2013 NYK vs. TOR L 12 9 3 4 75.0 3 4 75.0 0 0 - 1 3 4 0 0 0 0 1 2
+p331
+aVJR Smith NYK 02/13/2013 NYK vs. TOR L 34 26 8 17 47.1 5 10 50.0 5 8 62.5 1 3 4 1 0 0 1 4 -12
+p332
+aVJason Kidd NYK 02/13/2013 NYK vs. TOR L 32 0 0 3 0.0 0 3 0.0 0 0 - 2 2 4 2 1 0 0 1 6
+p333
+aVRaymond Felton NYK 02/10/2013 NYK vs. LAC L 40 20 9 18 50.0 0 2 0.0 2 4 50.0 0 2 2 5 2 0 4 2 -7
+p334
+aVIman Shumpert NYK 02/10/2013 NYK vs. LAC L 21 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 1 -8
+p335
+aVCarmelo Anthony NYK 02/10/2013 NYK vs. LAC L 43 42 14 26 53.8 5 11 45.5 9 9 100.0 2 6 8 1 1 1 4 3 -2
+p336
+aVAmar'e Stoudemire NYK 02/10/2013 NYK vs. LAC L 25 9 4 9 44.4 0 0 - 1 1 100.0 2 4 6 1 1 1 3 4 -19
+p337
+aVJason Kidd NYK 02/10/2013 NYK vs. LAC L 34 3 1 4 25.0 1 4 25.0 0 0 - 0 4 4 1 3 0 0 1 -3
+p338
+aVJR Smith NYK 02/10/2013 NYK vs. LAC L 34 6 1 9 11.1 1 5 20.0 3 4 75.0 1 2 3 3 1 0 2 4 -18
+p339
+aVSteve Novak NYK 02/10/2013 NYK vs. LAC L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p340
+aVPablo Prigioni NYK 02/10/2013 NYK vs. LAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -8
+p341
+aVTyson Chandler NYK 02/10/2013 NYK vs. LAC L 31 6 3 3 100.0 0 0 - 0 0 - 5 6 11 0 0 1 1 2 9
+p342
+aVKurt Thomas NYK 02/10/2013 NYK vs. LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p343
+aVSteve Novak NYK 02/08/2013 NYK @ MIN W 14 11 4 9 44.4 2 6 33.3 1 1 100.0 0 1 1 0 0 0 0 0 -4
+p344
+aVTyson Chandler NYK 02/08/2013 NYK @ MIN W 33 5 2 3 66.7 0 0 - 1 4 25.0 4 3 7 1 1 1 0 3 7
+p345
+aVIman Shumpert NYK 02/08/2013 NYK @ MIN W 12 0 0 2 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -5
+p346
+aVPablo Prigioni NYK 02/08/2013 NYK @ MIN W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 1 0 1 2 -5
+p347
+aVAmar'e Stoudemire NYK 02/08/2013 NYK @ MIN W 21 11 5 7 71.4 0 0 - 1 1 100.0 4 1 5 1 0 0 2 3 0
+p348
+aVKurt Thomas NYK 02/08/2013 NYK @ MIN W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p349
+aVJR Smith NYK 02/08/2013 NYK @ MIN W 35 15 6 14 42.9 2 5 40.0 1 1 100.0 1 7 8 4 1 1 0 3 14
+p350
+aVRaymond Felton NYK 02/08/2013 NYK @ MIN W 38 11 4 11 36.4 1 4 25.0 2 2 100.0 1 3 4 1 1 1 3 2 11
+p351
+aVCarmelo Anthony NYK 02/08/2013 NYK @ MIN W 40 36 13 26 50.0 2 9 22.2 8 9 88.9 0 9 9 2 0 1 1 3 1
+p352
+aVJason Kidd NYK 02/08/2013 NYK @ MIN W 30 7 2 5 40.0 1 2 50.0 2 2 100.0 0 4 4 4 1 2 0 0 11
+p353
+aVTyson Chandler NYK 02/06/2013 NYK @ WAS L 36 8 3 6 50.0 0 0 - 2 2 100.0 5 8 13 0 1 0 0 2 -5
+p354
+aVIman Shumpert NYK 02/06/2013 NYK @ WAS L 22 5 2 8 25.0 1 3 33.3 0 0 - 1 1 2 2 0 0 1 2 -6
+p355
+aVAmar'e Stoudemire NYK 02/06/2013 NYK @ WAS L 28 19 6 11 54.5 0 0 - 7 9 77.8 2 4 6 0 1 3 1 2 -3
+p356
+aVJason Kidd NYK 02/06/2013 NYK @ WAS L 18 0 0 4 0.0 0 4 0.0 0 0 - 0 2 2 2 1 0 0 0 -11
+p357
+aVJR Smith NYK 02/06/2013 NYK @ WAS L 35 13 6 14 42.9 0 4 0.0 1 2 50.0 1 1 2 2 0 0 0 3 -2
+p358
+aVSteve Novak NYK 02/06/2013 NYK @ WAS L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p359
+aVCarmelo Anthony NYK 02/06/2013 NYK @ WAS L 44 31 10 23 43.5 4 8 50.0 7 8 87.5 1 8 9 3 0 0 5 2 -9
+p360
+aVPablo Prigioni NYK 02/06/2013 NYK @ WAS L 8 3 1 3 33.3 1 3 33.3 0 0 - 1 2 3 1 0 0 1 0 -11
+p361
+aVRaymond Felton NYK 02/06/2013 NYK @ WAS L 40 17 6 13 46.2 3 5 60.0 2 2 100.0 1 2 3 4 2 0 1 1 1
+p362
+aVRonnie Brewer NYK 02/04/2013 NYK vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p363
+aVAmar'e Stoudemire NYK 02/04/2013 NYK vs. DET W 28 20 8 14 57.1 0 0 - 4 4 100.0 2 1 3 0 2 1 2 4 -2
+p364
+aVChris Copeland NYK 02/04/2013 NYK vs. DET W 2 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -2
+p365
+aVTyson Chandler NYK 02/04/2013 NYK vs. DET W 36 8 4 9 44.4 0 0 - 0 2 0.0 5 15 20 2 1 1 3 2 15
+p366
+aVIman Shumpert NYK 02/04/2013 NYK vs. DET W 17 8 2 3 66.7 2 2 100.0 2 2 100.0 1 1 2 2 0 0 0 1 9
+p367
+aVJames White NYK 02/04/2013 NYK vs. DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p368
+aVJason Kidd NYK 02/04/2013 NYK vs. DET W 20 3 1 7 14.3 1 7 14.3 0 0 - 0 2 2 3 0 0 0 0 10
+p369
+aVCarmelo Anthony NYK 02/04/2013 NYK vs. DET W 37 27 10 17 58.8 3 5 60.0 4 4 100.0 2 5 7 3 0 0 4 4 16
+p370
+aVRaymond Felton NYK 02/04/2013 NYK vs. DET W 34 4 2 5 40.0 0 1 0.0 0 0 - 2 3 5 9 2 0 3 3 11
+p371
+aVJR Smith NYK 02/04/2013 NYK vs. DET W 30 16 5 15 33.3 5 13 38.5 1 2 50.0 0 4 4 2 1 0 1 1 10
+p372
+aVPablo Prigioni NYK 02/04/2013 NYK vs. DET W 14 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 1 3
+p373
+aVSteve Novak NYK 02/04/2013 NYK vs. DET W 20 6 2 5 40.0 2 5 40.0 0 0 - 1 1 2 0 0 0 0 0 4
+p374
+aVAmar'e Stoudemire NYK 02/02/2013 NYK vs. SAC W 21 21 10 10 100.0 0 0 - 1 1 100.0 2 4 6 0 0 0 1 1 31
+p375
+aVTyson Chandler NYK 02/02/2013 NYK vs. SAC W 29 11 4 8 50.0 0 0 - 3 4 75.0 8 12 20 2 1 0 3 4 26
+p376
+aVPablo Prigioni NYK 02/02/2013 NYK vs. SAC W 22 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 7 2 0 3 2 20
+p377
+aVCarmelo Anthony NYK 02/02/2013 NYK vs. SAC W 27 9 4 12 33.3 1 6 16.7 0 0 - 0 3 3 5 1 0 1 2 25
+p378
+aVJames White NYK 02/02/2013 NYK vs. SAC W 12 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 1 1 0 2 0 -6
+p379
+aVJason Kidd NYK 02/02/2013 NYK vs. SAC W 16 5 2 5 40.0 1 3 33.3 0 0 - 2 4 6 2 0 0 1 1 7
+p380
+aVIman Shumpert NYK 02/02/2013 NYK vs. SAC W 18 6 2 6 33.3 1 3 33.3 1 2 50.0 1 1 2 3 0 0 0 1 25
+p381
+aVKurt Thomas NYK 02/02/2013 NYK vs. SAC W 12 11 5 6 83.3 1 1 100.0 0 0 - 0 2 2 0 0 0 1 2 -4
+p382
+aVJR Smith NYK 02/02/2013 NYK vs. SAC W 22 25 9 16 56.3 7 14 50.0 0 0 - 0 6 6 4 2 0 0 2 36
+p383
+aVSteve Novak NYK 02/02/2013 NYK vs. SAC W 17 15 5 7 71.4 5 7 71.4 0 0 - 0 0 0 0 0 0 0 1 31
+p384
+aVRaymond Felton NYK 02/02/2013 NYK vs. SAC W 26 7 3 8 37.5 1 4 25.0 0 0 - 1 1 2 8 0 1 4 1 19
+p385
+aVRonnie Brewer NYK 02/02/2013 NYK vs. SAC W 8 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 0 1 0 0 0 -10
+p386
+aVChris Copeland NYK 02/02/2013 NYK vs. SAC W 10 5 1 5 20.0 1 3 33.3 2 2 100.0 1 1 2 2 0 0 1 2 -5
+p387
+aVRaymond Felton NYK 02/01/2013 NYK vs. MIL W 37 14 5 8 62.5 2 3 66.7 2 2 100.0 1 1 2 8 0 0 2 1 15
+p388
+aVJames White NYK 02/01/2013 NYK vs. MIL W 1 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -4
+p389
+aVPablo Prigioni NYK 02/01/2013 NYK vs. MIL W 11 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -5
+p390
+aVJason Kidd NYK 02/01/2013 NYK vs. MIL W 24 3 1 5 20.0 1 5 20.0 0 0 - 0 3 3 1 1 1 0 0 -2
+p391
+aVCarmelo Anthony NYK 02/01/2013 NYK vs. MIL W 44 25 7 22 31.8 3 8 37.5 8 12 66.7 1 7 8 6 1 0 7 3 19
+p392
+aVTyson Chandler NYK 02/01/2013 NYK vs. MIL W 36 9 4 6 66.7 0 0 - 1 2 50.0 8 12 20 0 0 2 3 4 15
+p393
+aVIman Shumpert NYK 02/01/2013 NYK vs. MIL W 18 7 3 7 42.9 1 3 33.3 0 0 - 1 3 4 1 0 0 0 0 5
+p394
+aVRonnie Brewer NYK 02/01/2013 NYK vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p395
+aVAmar'e Stoudemire NYK 02/01/2013 NYK vs. MIL W 24 17 5 10 50.0 0 0 - 7 8 87.5 2 5 7 0 1 1 2 3 5
+p396
+aVChris Copeland NYK 02/01/2013 NYK vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p397
+aVSteve Novak NYK 02/01/2013 NYK vs. MIL W 8 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 -10
+p398
+aVJR Smith NYK 02/01/2013 NYK vs. MIL W 36 17 6 14 42.9 5 13 38.5 0 0 - 0 5 5 0 1 0 0 3 21
+p399
+aVIman Shumpert NYK 01/30/2013 NYK vs. ORL W 22 7 3 7 42.9 1 4 25.0 0 0 - 1 3 4 2 2 0 2 5 -1
+p400
+aVCarmelo Anthony NYK 01/30/2013 NYK vs. ORL W 39 20 8 17 47.1 2 7 28.6 2 2 100.0 1 6 7 5 0 1 1 1 20
+p401
+aVAmar'e Stoudemire NYK 01/30/2013 NYK vs. ORL W 21 14 7 7 100.0 0 0 - 0 0 - 1 3 4 1 0 2 3 2 3
+p402
+aVJR Smith NYK 01/30/2013 NYK vs. ORL W 35 11 4 8 50.0 2 2 100.0 1 2 50.0 1 4 5 4 0 1 1 3 21
+p403
+aVSteve Novak NYK 01/30/2013 NYK vs. ORL W 23 8 3 7 42.9 2 6 33.3 0 0 - 0 1 1 1 0 0 0 1 13
+p404
+aVRaymond Felton NYK 01/30/2013 NYK vs. ORL W 31 15 6 13 46.2 3 6 50.0 0 0 - 1 1 2 9 1 0 0 3 13
+p405
+aVJames White NYK 01/30/2013 NYK vs. ORL W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p406
+aVTyson Chandler NYK 01/30/2013 NYK vs. ORL W 32 21 10 11 90.9 0 0 - 1 1 100.0 5 2 7 5 0 0 0 0 14
+p407
+aVRonnie Brewer NYK 01/30/2013 NYK vs. ORL W 4 1 0 0 - 0 0 - 1 3 33.3 0 3 3 0 0 0 0 0 -2
+p408
+aVPablo Prigioni NYK 01/30/2013 NYK vs. ORL W 16 11 4 7 57.1 3 6 50.0 0 0 - 0 2 2 2 1 0 1 1 2
+p409
+aVChris Copeland NYK 01/30/2013 NYK vs. ORL W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 2 -2
+p410
+aVKurt Thomas NYK 01/27/2013 NYK vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 8
+p411
+aVJames White NYK 01/27/2013 NYK vs. ATL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p412
+aVIman Shumpert NYK 01/27/2013 NYK vs. ATL W 19 8 3 5 60.0 2 2 100.0 0 0 - 0 1 1 1 2 0 1 0 -4
+p413
+aVCarmelo Anthony NYK 01/27/2013 NYK vs. ATL W 44 42 15 28 53.6 9 12 75.0 3 3 100.0 0 5 5 1 0 0 4 4 -2
+p414
+aVJR Smith NYK 01/27/2013 NYK vs. ATL W 37 18 7 15 46.7 1 5 20.0 3 4 75.0 0 3 3 2 2 0 1 1 2
+p415
+aVAmar'e Stoudemire NYK 01/27/2013 NYK vs. ATL W 29 18 6 9 66.7 0 0 - 6 8 75.0 4 4 8 1 0 1 3 4 2
+p416
+aVSteve Novak NYK 01/27/2013 NYK vs. ATL W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p417
+aVRaymond Felton NYK 01/27/2013 NYK vs. ATL W 38 12 5 9 55.6 2 4 50.0 0 0 - 1 3 4 10 0 0 3 3 1
+p418
+aVPablo Prigioni NYK 01/27/2013 NYK vs. ATL W 10 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 4 0 0 2 3 3
+p419
+aVRonnie Brewer NYK 01/27/2013 NYK vs. ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p420
+aVJason Kidd NYK 01/27/2013 NYK vs. ATL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 0 3
+p421
+aVTyson Chandler NYK 01/27/2013 NYK vs. ATL W 36 2 1 1 100.0 0 0 - 0 2 0.0 1 2 3 1 0 2 0 1 7
+p422
+aVJames White NYK 01/26/2013 NYK @ PHI L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 7
+p423
+aVRonnie Brewer NYK 01/26/2013 NYK @ PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p424
+aVIman Shumpert NYK 01/26/2013 NYK @ PHI L 18 1 0 6 0.0 0 1 0.0 1 2 50.0 4 3 7 2 1 0 2 1 -18
+p425
+aVAmar'e Stoudemire NYK 01/26/2013 NYK @ PHI L 27 20 8 13 61.5 0 0 - 4 4 100.0 2 2 4 1 1 1 1 3 -2
+p426
+aVCarmelo Anthony NYK 01/26/2013 NYK @ PHI L 39 25 9 28 32.1 0 6 0.0 7 8 87.5 5 4 9 4 0 0 2 2 -21
+p427
+aVKurt Thomas NYK 01/26/2013 NYK @ PHI L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p428
+aVRaymond Felton NYK 01/26/2013 NYK @ PHI L 29 8 2 8 25.0 1 4 25.0 3 4 75.0 0 0 0 3 2 0 2 2 -20
+p429
+aVSteve Novak NYK 01/26/2013 NYK @ PHI L 15 4 1 3 33.3 1 3 33.3 1 1 100.0 0 1 1 1 0 0 0 1 0
+p430
+aVJason Kidd NYK 01/26/2013 NYK @ PHI L 15 0 0 3 0.0 0 3 0.0 0 0 - 1 1 2 0 0 0 0 0 -10
+p431
+aVPablo Prigioni NYK 01/26/2013 NYK @ PHI L 19 6 2 3 66.7 2 3 66.7 0 0 - 0 4 4 2 2 0 2 2 3
+p432
+aVJR Smith NYK 01/26/2013 NYK @ PHI L 27 0 0 8 0.0 0 4 0.0 0 0 - 1 5 6 3 0 1 4 4 -16
+p433
+aVChris Copeland NYK 01/26/2013 NYK @ PHI L 17 6 2 4 50.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 0 0 5
+p434
+aVTyson Chandler NYK 01/26/2013 NYK @ PHI L 25 6 2 2 100.0 0 0 - 2 2 100.0 2 8 10 1 0 1 3 2 -21
+p435
+aVIman Shumpert NYK 01/24/2013 NYK @ BOS W 27 10 4 10 40.0 2 4 50.0 0 0 - 1 4 5 1 0 0 0 4 -6
+p436
+aVCarmelo Anthony NYK 01/24/2013 NYK @ BOS W 41 28 11 28 39.3 1 6 16.7 5 6 83.3 2 7 9 3 2 0 2 4 3
+p437
+aVPablo Prigioni NYK 01/24/2013 NYK @ BOS W 16 6 2 3 66.7 2 3 66.7 0 0 - 1 1 2 4 0 0 1 0 8
+p438
+aVTyson Chandler NYK 01/24/2013 NYK @ BOS W 40 5 1 2 50.0 0 0 - 3 3 100.0 2 6 8 0 1 2 2 5 0
+p439
+aVJason Kidd NYK 01/24/2013 NYK @ BOS W 32 12 5 10 50.0 2 7 28.6 0 0 - 1 2 3 2 3 0 1 1 -5
+p440
+aVJames White NYK 01/24/2013 NYK @ BOS W 13 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 2 0 0 1 0 -7
+p441
+aVAmar'e Stoudemire NYK 01/24/2013 NYK @ BOS W 20 15 4 7 57.1 0 0 - 7 8 87.5 4 5 9 0 0 2 1 5 11
+p442
+aVSteve Novak NYK 01/24/2013 NYK @ BOS W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 10
+p443
+aVKurt Thomas NYK 01/24/2013 NYK @ BOS W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p444
+aVRonnie Brewer NYK 01/24/2013 NYK @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p445
+aVJR Smith NYK 01/24/2013 NYK @ BOS W 35 9 3 16 18.8 1 6 16.7 2 3 66.7 0 6 6 0 1 1 2 2 9
+p446
+aVAmar'e Stoudemire NYK 01/21/2013 NYK vs. BKN L 27 15 6 10 60.0 0 0 - 3 6 50.0 1 5 6 0 0 0 2 3 4
+p447
+aVJR Smith NYK 01/21/2013 NYK vs. BKN L 38 16 7 19 36.8 2 7 28.6 0 0 - 0 4 4 1 3 0 0 1 -4
+p448
+aVPablo Prigioni NYK 01/21/2013 NYK vs. BKN L 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 2 1
+p449
+aVJason Kidd NYK 01/21/2013 NYK vs. BKN L 35 11 4 5 80.0 2 3 66.7 1 2 50.0 0 3 3 1 6 1 0 5 -1
+p450
+aVRonnie Brewer NYK 01/21/2013 NYK vs. BKN L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p451
+aVCarmelo Anthony NYK 01/21/2013 NYK vs. BKN L 45 29 11 29 37.9 1 2 50.0 6 6 100.0 0 3 3 7 0 1 2 4 -1
+p452
+aVTyson Chandler NYK 01/21/2013 NYK vs. BKN L 35 7 3 4 75.0 0 0 - 1 3 33.3 4 7 11 1 0 0 0 2 7
+p453
+aVChris Copeland NYK 01/21/2013 NYK vs. BKN L 15 5 2 6 33.3 1 4 25.0 0 0 - 0 3 3 0 0 0 0 2 -2
+p454
+aVIman Shumpert NYK 01/21/2013 NYK vs. BKN L 20 2 1 6 16.7 0 3 0.0 0 0 - 1 3 4 2 1 0 0 1 -8
+p455
+aVSteve Novak NYK 01/21/2013 NYK vs. BKN L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -9
+p456
+aVRonnie Brewer NYK 01/17/2013 NYK @ DET W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p457
+aVPablo Prigioni NYK 01/17/2013 NYK @ DET W 21 0 0 0 - 0 0 - 0 0 - 1 3 4 2 1 0 0 1 9
+p458
+aVSteve Novak NYK 01/17/2013 NYK @ DET W 24 13 5 9 55.6 3 6 50.0 0 0 - 1 2 3 1 0 0 0 2 16
+p459
+aVJR Smith NYK 01/17/2013 NYK @ DET W 38 16 6 15 40.0 1 6 16.7 3 4 75.0 1 5 6 4 3 0 4 1 0
+p460
+aVTyson Chandler NYK 01/17/2013 NYK @ DET W 30 10 3 4 75.0 0 0 - 4 4 100.0 3 11 14 0 0 2 1 4 11
+p461
+aVAmar'e Stoudemire NYK 01/17/2013 NYK @ DET W 20 17 3 5 60.0 0 0 - 11 12 91.7 1 3 4 1 1 0 2 5 3
+p462
+aVIman Shumpert NYK 01/17/2013 NYK @ DET W 15 8 3 7 42.9 2 3 66.7 0 2 0.0 1 1 2 1 1 1 0 2 11
+p463
+aVJames White NYK 01/17/2013 NYK @ DET W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p464
+aVJason Kidd NYK 01/17/2013 NYK @ DET W 27 5 2 5 40.0 1 4 25.0 0 0 - 1 5 6 4 3 0 3 2 6
+p465
+aVCarmelo Anthony NYK 01/17/2013 NYK @ DET W 40 26 8 19 42.1 3 8 37.5 7 9 77.8 0 3 3 4 0 2 5 4 14
+p466
+aVChris Copeland NYK 01/17/2013 NYK @ DET W 18 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 1 4
+p467
+aVTyson Chandler NYK 01/13/2013 NYK vs. NOH W 27 5 1 3 33.3 0 0 - 3 6 50.0 2 12 14 2 0 3 1 1 9
+p468
+aVSteve Novak NYK 01/13/2013 NYK vs. NOH W 17 9 3 8 37.5 3 7 42.9 0 0 - 0 1 1 0 0 0 0 2 13
+p469
+aVPablo Prigioni NYK 01/13/2013 NYK vs. NOH W 29 8 3 4 75.0 1 1 100.0 1 2 50.0 2 2 4 5 1 0 2 4 18
+p470
+aVCarmelo Anthony NYK 01/13/2013 NYK vs. NOH W 40 27 9 25 36.0 2 8 25.0 7 8 87.5 2 5 7 3 1 1 2 2 2
+p471
+aVJR Smith NYK 01/13/2013 NYK vs. NOH W 27 8 3 11 27.3 0 3 0.0 2 3 66.7 0 4 4 6 2 0 2 3 9
+p472
+aVChris Copeland NYK 01/13/2013 NYK vs. NOH W 30 22 9 15 60.0 4 8 50.0 0 0 - 0 4 4 0 0 0 0 2 9
+p473
+aVRonnie Brewer NYK 01/13/2013 NYK vs. NOH W 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 1 0 0 2
+p474
+aVJames White NYK 01/13/2013 NYK vs. NOH W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p475
+aVAmar'e Stoudemire NYK 01/13/2013 NYK vs. NOH W 23 12 3 6 50.0 0 0 - 6 6 100.0 2 1 3 0 0 0 0 5 4
+p476
+aVJason Kidd NYK 01/13/2013 NYK vs. NOH W 23 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 8 1 0 2 2 3
+p477
+aVChris Copeland NYK 01/11/2013 NYK vs. CHI L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p478
+aVPablo Prigioni NYK 01/11/2013 NYK vs. CHI L 30 12 5 7 71.4 2 3 66.7 0 0 - 0 1 1 8 3 0 5 6 5
+p479
+aVJason Kidd NYK 01/11/2013 NYK vs. CHI L 20 0 0 6 0.0 0 1 0.0 0 0 - 3 1 4 0 0 0 1 1 -21
+p480
+aVAmar'e Stoudemire NYK 01/11/2013 NYK vs. CHI L 19 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 5 -11
+p481
+aVCarmelo Anthony NYK 01/11/2013 NYK vs. CHI L 45 39 14 32 43.8 4 9 44.4 7 9 77.8 2 6 8 5 1 1 3 3 -2
+p482
+aVKurt Thomas NYK 01/11/2013 NYK vs. CHI L 9 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 2 0 0 0 -10
+p483
+aVJames White NYK 01/11/2013 NYK vs. CHI L 17 11 4 7 57.1 2 2 100.0 1 2 50.0 1 1 2 1 3 0 0 2 -4
+p484
+aVTyson Chandler NYK 01/11/2013 NYK vs. CHI L 38 9 3 8 37.5 0 0 - 3 6 50.0 8 10 18 2 1 1 2 3 -5
+p485
+aVSteve Novak NYK 01/11/2013 NYK vs. CHI L 17 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 0 1 0 0 2 19
+p486
+aVJR Smith NYK 01/11/2013 NYK vs. CHI L 39 13 4 17 23.5 1 3 33.3 4 4 100.0 3 0 3 1 0 1 1 6 -7
+p487
+aVChris Copeland NYK 01/10/2013 NYK @ IND L 22 8 3 9 33.3 0 3 0.0 2 2 100.0 3 3 6 0 0 0 3 2 -8
+p488
+aVKurt Thomas NYK 01/10/2013 NYK @ IND L 16 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 2 0 1 2
+p489
+aVTyson Chandler NYK 01/10/2013 NYK @ IND L 38 12 5 10 50.0 0 0 - 2 3 66.7 8 7 15 0 0 3 2 3 -4
+p490
+aVAmar'e Stoudemire NYK 01/10/2013 NYK @ IND L 22 9 4 11 36.4 0 0 - 1 2 50.0 3 5 8 0 0 1 0 3 0
+p491
+aVJason Kidd NYK 01/10/2013 NYK @ IND L 31 8 3 10 30.0 2 9 22.2 0 0 - 1 3 4 3 1 0 5 3 -5
+p492
+aVPablo Prigioni NYK 01/10/2013 NYK @ IND L 20 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 0 2 5
+p493
+aVSteve Novak NYK 01/10/2013 NYK @ IND L 24 3 1 4 25.0 1 3 33.3 0 0 - 0 5 5 0 0 0 0 1 -6
+p494
+aVRonnie Brewer NYK 01/10/2013 NYK @ IND L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p495
+aVJR Smith NYK 01/10/2013 NYK @ IND L 40 25 10 29 34.5 1 4 25.0 4 5 80.0 1 2 3 6 1 0 2 2 -4
+p496
+aVMarcus Camby NYK 01/10/2013 NYK @ IND L 20 7 3 9 33.3 0 0 - 1 1 100.0 2 3 5 0 0 1 0 1 -4
+p497
+aVTyson Chandler NYK 01/07/2013 NYK vs. BOS L 41 13 4 6 66.7 0 0 - 5 6 83.3 8 9 17 1 0 0 1 3 9
+p498
+aVAmar'e Stoudemire NYK 01/07/2013 NYK vs. BOS L 28 13 4 6 66.7 0 0 - 5 6 83.3 0 2 2 2 0 1 0 1 -15
+p499
+aVJames White NYK 01/07/2013 NYK vs. BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p500
+aVRonnie Brewer NYK 01/07/2013 NYK vs. BOS L 18 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 2 -1
+p501
+aVSteve Novak NYK 01/07/2013 NYK vs. BOS L 16 9 3 4 75.0 3 3 100.0 0 0 - 0 2 2 0 0 0 0 4 -5
+p502
+aVPablo Prigioni NYK 01/07/2013 NYK vs. BOS L 15 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 0 0 0 4 1 -19
+p503
+aVMarcus Camby NYK 01/07/2013 NYK vs. BOS L 10 4 2 4 50.0 0 0 - 0 0 - 3 4 7 0 1 1 1 0 0
+p504
+aVCarmelo Anthony NYK 01/07/2013 NYK vs. BOS L 37 20 6 26 23.1 4 12 33.3 4 7 57.1 0 3 3 5 1 0 2 5 0
+p505
+aVJR Smith NYK 01/07/2013 NYK vs. BOS L 39 24 7 18 38.9 4 9 44.4 6 7 85.7 0 3 3 4 2 1 1 3 -4
+p506
+aVChris Copeland NYK 01/07/2013 NYK vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -4
+p507
+aVJason Kidd NYK 01/07/2013 NYK vs. BOS L 33 8 3 5 60.0 2 3 66.7 0 0 - 2 1 3 6 1 0 3 2 11
+p508
+aVMarcus Camby NYK 01/05/2013 NYK @ ORL W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 4 0 0 2 1 -15
+p509
+aVRonnie Brewer NYK 01/05/2013 NYK @ ORL W 17 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 -15
+p510
+aVJason Kidd NYK 01/05/2013 NYK @ ORL W 35 15 5 10 50.0 5 8 62.5 0 0 - 0 8 8 7 2 0 1 5 12
+p511
+aVJR Smith NYK 01/05/2013 NYK @ ORL W 31 18 8 18 44.4 0 4 0.0 2 3 66.7 0 6 6 2 2 0 0 5 20
+p512
+aVSteve Novak NYK 01/05/2013 NYK @ ORL W 28 7 2 6 33.3 2 6 33.3 1 1 100.0 0 2 2 0 0 0 0 0 26
+p513
+aVChris Copeland NYK 01/05/2013 NYK @ ORL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p514
+aVCarmelo Anthony NYK 01/05/2013 NYK @ ORL W 45 40 14 29 48.3 4 9 44.4 8 9 88.9 2 4 6 6 1 0 1 3 7
+p515
+aVPablo Prigioni NYK 01/05/2013 NYK @ ORL W 14 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 2 1 0 0 1 -6
+p516
+aVAmar'e Stoudemire NYK 01/05/2013 NYK @ ORL W 17 11 3 7 42.9 0 0 - 5 5 100.0 2 2 4 1 0 0 2 2 0
+p517
+aVTyson Chandler NYK 01/05/2013 NYK @ ORL W 36 14 6 6 100.0 0 0 - 2 4 50.0 5 7 12 2 0 1 1 1 14
+p518
+aVCarmelo Anthony NYK 01/03/2013 NYK vs. SAS W 36 23 9 20 45.0 2 5 40.0 3 4 75.0 2 6 8 3 0 0 2 1 16
+p519
+aVJR Smith NYK 01/03/2013 NYK vs. SAS W 27 20 9 17 52.9 1 6 16.7 1 3 33.3 2 3 5 3 1 1 0 3 27
+p520
+aVJames White NYK 01/03/2013 NYK vs. SAS W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -6
+p521
+aVAmar'e Stoudemire NYK 01/03/2013 NYK vs. SAS W 21 10 4 10 40.0 0 0 - 2 4 50.0 1 1 2 0 1 0 2 2 9
+p522
+aVRonnie Brewer NYK 01/03/2013 NYK vs. SAS W 16 6 2 4 50.0 2 2 100.0 0 0 - 0 2 2 1 0 0 0 0 -2
+p523
+aVChris Copeland NYK 01/03/2013 NYK vs. SAS W 18 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 2 1 1 2 3 -2
+p524
+aVMarcus Camby NYK 01/03/2013 NYK vs. SAS W 16 2 1 1 100.0 0 0 - 0 0 - 0 6 6 1 0 1 1 2 0
+p525
+aVJason Kidd NYK 01/03/2013 NYK vs. SAS W 21 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 3 2 0 1 1 1
+p526
+aVSteve Novak NYK 01/03/2013 NYK vs. SAS W 22 15 5 7 71.4 5 7 71.4 0 0 - 0 2 2 0 2 0 0 1 10
+p527
+aVTyson Chandler NYK 01/03/2013 NYK vs. SAS W 31 10 3 4 75.0 0 0 - 4 5 80.0 3 11 14 4 0 1 3 3 16
+p528
+aVPablo Prigioni NYK 01/03/2013 NYK vs. SAS W 27 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 9 3 1 1 2 16
+p529
+aVJason Kidd NYK 01/01/2013 NYK vs. POR L 33 0 0 5 0.0 0 4 0.0 0 0 - 0 3 3 3 3 0 1 2 10
+p530
+aVTyson Chandler NYK 01/01/2013 NYK vs. POR L 34 10 4 7 57.1 0 0 - 2 2 100.0 6 1 7 1 1 1 2 3 -1
+p531
+aVCarmelo Anthony NYK 01/01/2013 NYK vs. POR L 41 45 14 24 58.3 5 11 45.5 12 14 85.7 2 5 7 4 1 0 2 3 1
+p532
+aVAmar'e Stoudemire NYK 01/01/2013 NYK vs. POR L 17 6 3 8 37.5 0 0 - 0 2 0.0 0 1 1 0 0 1 2 2 -9
+p533
+aVJR Smith NYK 01/01/2013 NYK vs. POR L 40 28 10 22 45.5 4 12 33.3 4 6 66.7 3 8 11 5 3 0 2 2 -2
+p534
+aVKurt Thomas NYK 01/01/2013 NYK vs. POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p535
+aVChris Copeland NYK 01/01/2013 NYK vs. POR L 7 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p536
+aVSteve Novak NYK 01/01/2013 NYK vs. POR L 20 0 0 5 0.0 0 4 0.0 0 0 - 0 1 1 0 0 0 0 0 -12
+p537
+aVRonnie Brewer NYK 01/01/2013 NYK vs. POR L 12 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 -1
+p538
+aVPablo Prigioni NYK 01/01/2013 NYK vs. POR L 22 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 3 1 0 0 3 -10
+p539
+aVMarcus Camby NYK 01/01/2013 NYK vs. POR L 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 7
+p540
+aVMarcus Camby NYK 12/28/2012 NYK @ SAC L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 4 1 1 -1
+p541
+aVTyson Chandler NYK 12/28/2012 NYK @ SAC L 37 21 9 13 69.2 0 0 - 3 9 33.3 6 12 18 1 1 1 2 1 0
+p542
+aVJason Kidd NYK 12/28/2012 NYK @ SAC L 31 16 6 13 46.2 4 11 36.4 0 0 - 2 4 6 7 0 1 5 2 -12
+p543
+aVChris Copeland NYK 12/28/2012 NYK @ SAC L 41 23 8 16 50.0 3 8 37.5 4 4 100.0 0 1 1 1 0 1 1 2 0
+p544
+aVPablo Prigioni NYK 12/28/2012 NYK @ SAC L 18 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 9 1 0 2 2 17
+p545
+aVRonnie Brewer NYK 12/28/2012 NYK @ SAC L 11 0 0 1 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 0 -11
+p546
+aVKurt Thomas NYK 12/28/2012 NYK @ SAC L 13 0 0 0 - 0 0 - 0 0 - 3 1 4 1 0 1 1 1 -1
+p547
+aVJR Smith NYK 12/28/2012 NYK @ SAC L 43 28 11 25 44.0 1 3 33.3 5 5 100.0 3 4 7 5 0 0 4 2 1
+p548
+aVSteve Novak NYK 12/28/2012 NYK @ SAC L 26 11 4 7 57.1 3 5 60.0 0 0 - 1 1 2 1 1 0 0 2 15
+p549
+aVJames White NYK 12/28/2012 NYK @ SAC L 9 4 2 3 66.7 0 1 0.0 0 2 0.0 0 0 0 1 1 0 1 3 -13
+p550
+aVJames White NYK 12/26/2012 NYK @ PHX W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 0
+p551
+aVPablo Prigioni NYK 12/26/2012 NYK @ PHX W 17 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 3 2 0 4 2 -11
+p552
+aVTyson Chandler NYK 12/26/2012 NYK @ PHX W 37 14 6 9 66.7 0 0 - 2 2 100.0 3 9 12 1 0 2 0 2 -4
+p553
+aVChris Copeland NYK 12/26/2012 NYK @ PHX W 30 14 6 12 50.0 2 5 40.0 0 0 - 0 2 2 0 0 2 1 4 0
+p554
+aVKurt Thomas NYK 12/26/2012 NYK @ PHX W 16 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 1 0
+p555
+aVJR Smith NYK 12/26/2012 NYK @ PHX W 37 27 11 27 40.7 0 4 0.0 5 6 83.3 1 5 6 5 5 1 4 3 -2
+p556
+aVMarcus Camby NYK 12/26/2012 NYK @ PHX W 13 4 2 7 28.6 0 0 - 0 2 0.0 4 5 9 0 0 1 0 0 6
+p557
+aVRonnie Brewer NYK 12/26/2012 NYK @ PHX W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 1
+p558
+aVSteve Novak NYK 12/26/2012 NYK @ PHX W 28 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 7
+p559
+aVJason Kidd NYK 12/26/2012 NYK @ PHX W 31 23 8 16 50.0 5 8 62.5 2 2 100.0 0 6 6 8 1 0 1 1 13
+p560
+aVKurt Thomas NYK 12/25/2012 NYK @ LAL L 13 6 3 3 100.0 0 0 - 0 0 - 0 3 3 1 1 1 0 1 11
+p561
+aVJason Kidd NYK 12/25/2012 NYK @ LAL L 34 6 2 5 40.0 2 4 50.0 0 0 - 1 5 6 7 2 0 3 2 -2
+p562
+aVCarmelo Anthony NYK 12/25/2012 NYK @ LAL L 43 34 13 23 56.5 3 8 37.5 5 6 83.3 1 6 7 3 0 0 3 4 -7
+p563
+aVRaymond Felton NYK 12/25/2012 NYK @ LAL L 36 10 5 19 26.3 0 1 0.0 0 0 - 1 1 2 6 2 0 0 2 -5
+p564
+aVMarcus Camby NYK 12/25/2012 NYK @ LAL L 8 4 1 3 33.3 0 0 - 2 4 50.0 1 3 4 0 0 1 1 2 3
+p565
+aVRonnie Brewer NYK 12/25/2012 NYK @ LAL L 8 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 2 -2
+p566
+aVJR Smith NYK 12/25/2012 NYK @ LAL L 37 25 10 23 43.5 3 8 37.5 2 4 50.0 1 4 5 0 2 0 1 4 -18
+p567
+aVTyson Chandler NYK 12/25/2012 NYK @ LAL L 40 6 3 7 42.9 0 0 - 0 2 0.0 4 5 9 1 1 1 1 6 -9
+p568
+aVSteve Novak NYK 12/25/2012 NYK @ LAL L 15 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 1 -6
+p569
+aVPablo Prigioni NYK 12/25/2012 NYK @ LAL L 5 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 5
+p570
+aVJason Kidd NYK 12/23/2012 NYK vs. MIN W 34 0 0 3 0.0 0 3 0.0 0 0 - 0 6 6 1 2 0 0 0 2
+p571
+aVSteve Novak NYK 12/23/2012 NYK vs. MIN W 19 4 1 3 33.3 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 1 2
+p572
+aVJR Smith NYK 12/23/2012 NYK vs. MIN W 39 19 7 15 46.7 2 6 33.3 3 4 75.0 1 4 5 7 3 0 3 3 8
+p573
+aVTyson Chandler NYK 12/23/2012 NYK vs. MIN W 38 16 4 7 57.1 0 0 - 8 10 80.0 3 6 9 3 3 1 2 4 6
+p574
+aVRonnie Brewer NYK 12/23/2012 NYK vs. MIN W 13 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -7
+p575
+aVKurt Thomas NYK 12/23/2012 NYK vs. MIN W 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -3
+p576
+aVRaymond Felton NYK 12/23/2012 NYK vs. MIN W 39 15 7 15 46.7 0 3 0.0 1 1 100.0 0 2 2 2 1 0 4 4 4
+p577
+aVCarmelo Anthony NYK 12/23/2012 NYK vs. MIN W 44 33 10 25 40.0 3 10 30.0 10 11 90.9 0 7 7 2 1 1 4 5 -1
+p578
+aVPablo Prigioni NYK 12/23/2012 NYK vs. MIN W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 4
+p579
+aVKurt Thomas NYK 12/21/2012 NYK vs. CHI L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p580
+aVSteve Novak NYK 12/21/2012 NYK vs. CHI L 31 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 7
+p581
+aVJR Smith NYK 12/21/2012 NYK vs. CHI L 32 26 9 20 45.0 4 6 66.7 4 4 100.0 1 9 10 2 1 0 0 6 0
+p582
+aVJason Kidd NYK 12/21/2012 NYK vs. CHI L 33 8 3 5 60.0 2 4 50.0 0 0 - 1 5 6 3 3 0 1 3 0
+p583
+aVChris Copeland NYK 12/21/2012 NYK vs. CHI L 10 10 3 7 42.9 1 3 33.3 3 4 75.0 0 1 1 0 0 0 0 2 17
+p584
+aVJames White NYK 12/21/2012 NYK vs. CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p585
+aVRonnie Brewer NYK 12/21/2012 NYK vs. CHI L 10 0 0 4 0.0 0 2 0.0 0 1 0.0 0 1 1 0 0 0 0 0 -13
+p586
+aVPablo Prigioni NYK 12/21/2012 NYK vs. CHI L 14 5 2 4 50.0 0 1 0.0 1 1 100.0 0 2 2 3 2 0 1 4 15
+p587
+aVRaymond Felton NYK 12/21/2012 NYK vs. CHI L 32 21 9 21 42.9 0 4 0.0 3 3 100.0 3 3 6 3 2 0 4 1 -13
+p588
+aVCarmelo Anthony NYK 12/21/2012 NYK vs. CHI L 37 29 10 25 40.0 1 5 20.0 8 8 100.0 1 2 3 1 3 1 1 4 -14
+p589
+aVTyson Chandler NYK 12/21/2012 NYK vs. CHI L 34 5 1 1 100.0 0 0 - 3 4 75.0 4 4 8 0 0 2 3 3 -16
+p590
+aVKurt Thomas NYK 12/19/2012 NYK vs. BKN W 8 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -3
+p591
+aVJason Kidd NYK 12/19/2012 NYK vs. BKN W 35 7 2 9 22.2 2 9 22.2 1 2 50.0 0 8 8 5 3 0 2 1 6
+p592
+aVJames White NYK 12/19/2012 NYK vs. BKN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p593
+aVJR Smith NYK 12/19/2012 NYK vs. BKN W 37 19 7 11 63.6 1 1 100.0 4 4 100.0 1 4 5 3 0 1 1 2 24
+p594
+aVCarmelo Anthony NYK 12/19/2012 NYK vs. BKN W 36 31 12 22 54.5 4 8 50.0 3 3 100.0 0 3 3 1 2 1 1 2 18
+p595
+aVRaymond Felton NYK 12/19/2012 NYK vs. BKN W 32 8 4 15 26.7 0 3 0.0 0 0 - 1 4 5 4 1 0 0 1 15
+p596
+aVRonnie Brewer NYK 12/19/2012 NYK vs. BKN W 15 4 1 5 20.0 0 1 0.0 2 4 50.0 4 0 4 2 0 0 0 0 -13
+p597
+aVTyson Chandler NYK 12/19/2012 NYK vs. BKN W 37 16 7 11 63.6 0 0 - 2 2 100.0 5 7 12 2 1 3 1 2 21
+p598
+aVChris Copeland NYK 12/19/2012 NYK vs. BKN W 23 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 0 0 0 1 2 10
+p599
+aVPablo Prigioni NYK 12/19/2012 NYK vs. BKN W 14 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 2 0 0 1 1 -4
+p600
+aVJames White NYK 12/17/2012 NYK vs. HOU L 23 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -2
+p601
+aVPablo Prigioni NYK 12/17/2012 NYK vs. HOU L 17 14 5 10 50.0 2 6 33.3 2 2 100.0 1 2 3 5 2 0 1 1 0
+p602
+aVSteve Novak NYK 12/17/2012 NYK vs. HOU L 33 3 1 5 20.0 1 5 20.0 0 0 - 1 0 1 1 1 0 0 2 -9
+p603
+aVRonnie Brewer NYK 12/17/2012 NYK vs. HOU L 20 2 1 3 33.3 0 1 0.0 0 2 0.0 1 3 4 1 1 0 2 1 5
+p604
+aVKurt Thomas NYK 12/17/2012 NYK vs. HOU L 5 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -9
+p605
+aVJason Kidd NYK 12/17/2012 NYK vs. HOU L 29 5 2 9 22.2 1 5 20.0 0 0 - 0 4 4 3 2 0 3 3 -20
+p606
+aVJR Smith NYK 12/17/2012 NYK vs. HOU L 20 17 7 13 53.8 2 5 40.0 1 2 50.0 0 3 3 0 0 0 2 3 1
+p607
+aVRaymond Felton NYK 12/17/2012 NYK vs. HOU L 30 14 7 18 38.9 0 4 0.0 0 0 - 1 2 3 4 0 0 3 0 -11
+p608
+aVChris Copeland NYK 12/17/2012 NYK vs. HOU L 28 29 11 19 57.9 3 5 60.0 4 4 100.0 2 3 5 0 2 1 2 2 -6
+p609
+aVTyson Chandler NYK 12/17/2012 NYK vs. HOU L 35 8 3 7 42.9 0 0 - 2 4 50.0 7 11 18 1 0 1 2 4 -14
+p610
+aVChris Copeland NYK 12/15/2012 NYK vs. CLE W 19 11 4 5 80.0 2 3 66.7 1 2 50.0 1 0 1 0 0 0 1 1 -1
+p611
+aVPablo Prigioni NYK 12/15/2012 NYK vs. CLE W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 2 2
+p612
+aVTyson Chandler NYK 12/15/2012 NYK vs. CLE W 34 23 9 10 90.0 0 0 - 5 7 71.4 5 5 10 0 2 0 2 3 -8
+p613
+aVJR Smith NYK 12/15/2012 NYK vs. CLE W 35 16 6 20 30.0 1 5 20.0 3 4 75.0 0 3 3 4 2 0 2 4 -1
+p614
+aVSteve Novak NYK 12/15/2012 NYK vs. CLE W 33 13 4 9 44.4 4 7 57.1 1 2 50.0 1 4 5 2 0 1 1 2 5
+p615
+aVRonnie Brewer NYK 12/15/2012 NYK vs. CLE W 18 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 2 0 0 1 0 -4
+p616
+aVRaymond Felton NYK 12/15/2012 NYK vs. CLE W 38 25 9 20 45.0 3 4 75.0 4 4 100.0 0 5 5 7 0 2 1 2 -2
+p617
+aVKurt Thomas NYK 12/15/2012 NYK vs. CLE W 14 4 1 2 50.0 0 0 - 2 4 50.0 4 1 5 2 0 1 0 1 9
+p618
+aVJason Kidd NYK 12/15/2012 NYK vs. CLE W 37 9 3 14 21.4 3 13 23.1 0 0 - 0 6 6 8 0 2 1 3 5
+p619
+aVTyson Chandler NYK 12/13/2012 NYK vs. LAL W 36 18 5 5 100.0 0 0 - 8 14 57.1 3 1 4 2 2 1 1 4 11
+p620
+aVPablo Prigioni NYK 12/13/2012 NYK vs. LAL W 12 0 0 0 - 0 0 - 0 0 - 1 2 3 1 2 0 1 0 0
+p621
+aVRonnie Brewer NYK 12/13/2012 NYK vs. LAL W 26 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 2 1 1 0 2 -2
+p622
+aVRaymond Felton NYK 12/13/2012 NYK vs. LAL W 36 19 9 26 34.6 0 3 0.0 1 2 50.0 0 3 3 8 1 0 1 1 9
+p623
+aVJames White NYK 12/13/2012 NYK vs. LAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -8
+p624
+aVJR Smith NYK 12/13/2012 NYK vs. LAL W 27 18 7 14 50.0 2 4 50.0 2 2 100.0 0 3 3 2 0 0 1 4 8
+p625
+aVCarmelo Anthony NYK 12/13/2012 NYK vs. LAL W 23 30 10 15 66.7 3 5 60.0 7 8 87.5 0 3 3 0 1 0 0 1 11
+p626
+aVRasheed Wallace NYK 12/13/2012 NYK vs. LAL W 12 8 3 5 60.0 2 4 50.0 0 2 0.0 0 3 3 0 1 0 0 4 -2
+p627
+aVJason Kidd NYK 12/13/2012 NYK vs. LAL W 39 5 1 2 50.0 1 2 50.0 2 2 100.0 0 9 9 5 2 0 1 1 10
+p628
+aVSteve Novak NYK 12/13/2012 NYK vs. LAL W 26 12 4 5 80.0 4 5 80.0 0 0 - 0 3 3 4 0 0 0 2 8
+p629
+aVRaymond Felton NYK 12/11/2012 NYK @ BKN W 32 8 3 12 25.0 1 3 33.3 1 2 50.0 0 1 1 7 1 0 7 5 -1
+p630
+aVJames White NYK 12/11/2012 NYK @ BKN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p631
+aVPablo Prigioni NYK 12/11/2012 NYK @ BKN W 10 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 0
+p632
+aVTyson Chandler NYK 12/11/2012 NYK @ BKN W 31 5 2 5 40.0 0 0 - 1 2 50.0 3 4 7 0 1 0 0 4 -6
+p633
+aVRonnie Brewer NYK 12/11/2012 NYK @ BKN W 12 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 0 -14
+p634
+aVSteve Novak NYK 12/11/2012 NYK @ BKN W 22 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 12
+p635
+aVJason Kidd NYK 12/11/2012 NYK @ BKN W 37 18 6 9 66.7 6 8 75.0 0 1 0.0 2 4 6 6 1 0 0 0 3
+p636
+aVJR Smith NYK 12/11/2012 NYK @ BKN W 32 16 7 15 46.7 0 4 0.0 2 2 100.0 0 4 4 1 0 0 1 3 11
+p637
+aVRasheed Wallace NYK 12/11/2012 NYK @ BKN W 14 8 3 7 42.9 2 2 100.0 0 0 - 1 4 5 1 1 2 0 3 7
+p638
+aVCarmelo Anthony NYK 12/11/2012 NYK @ BKN W 44 45 15 24 62.5 5 7 71.4 10 11 90.9 3 2 5 3 0 0 2 3 5
+p639
+aVPablo Prigioni NYK 12/09/2012 NYK vs. DEN W 12 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 5 0 0 0 2 -3
+p640
+aVKurt Thomas NYK 12/09/2012 NYK vs. DEN W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -4
+p641
+aVJR Smith NYK 12/09/2012 NYK vs. DEN W 34 15 5 19 26.3 2 7 28.6 3 6 50.0 1 8 9 0 2 0 2 4 12
+p642
+aVRonnie Brewer NYK 12/09/2012 NYK vs. DEN W 27 9 3 6 50.0 1 4 25.0 2 2 100.0 1 1 2 0 4 0 1 0 6
+p643
+aVRaymond Felton NYK 12/09/2012 NYK vs. DEN W 27 10 4 15 26.7 0 2 0.0 2 2 100.0 1 2 3 6 0 0 3 3 2
+p644
+aVTyson Chandler NYK 12/09/2012 NYK vs. DEN W 37 15 7 8 87.5 0 0 - 1 4 25.0 6 6 12 1 0 2 1 3 12
+p645
+aVJason Kidd NYK 12/09/2012 NYK vs. DEN W 34 17 4 7 57.1 3 4 75.0 6 6 100.0 1 3 4 7 1 0 1 4 9
+p646
+aVJames White NYK 12/09/2012 NYK vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p647
+aVSteve Novak NYK 12/09/2012 NYK vs. DEN W 20 7 2 5 40.0 2 4 50.0 1 1 100.0 1 0 1 0 0 0 0 0 8
+p648
+aVCarmelo Anthony NYK 12/09/2012 NYK vs. DEN W 39 34 10 24 41.7 3 8 37.5 11 16 68.8 1 5 6 1 2 0 1 4 -10
+p649
+aVPablo Prigioni NYK 12/08/2012 NYK @ CHI L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 4
+p650
+aVJason Kidd NYK 12/08/2012 NYK @ CHI L 29 6 2 7 28.6 2 4 50.0 0 0 - 1 3 4 2 1 1 3 0 -15
+p651
+aVJR Smith NYK 12/08/2012 NYK @ CHI L 35 15 4 14 28.6 2 8 25.0 5 6 83.3 1 1 2 1 0 2 5 5 -14
+p652
+aVRonnie Brewer NYK 12/08/2012 NYK @ CHI L 16 0 0 5 0.0 0 1 0.0 0 0 - 1 1 2 0 2 0 0 0 0
+p653
+aVRaymond Felton NYK 12/08/2012 NYK @ CHI L 38 27 9 30 30.0 1 3 33.3 8 9 88.9 2 3 5 5 2 0 2 1 -12
+p654
+aVKurt Thomas NYK 12/08/2012 NYK @ CHI L 16 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 1 1 0 2 3
+p655
+aVJames White NYK 12/08/2012 NYK @ CHI L 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 2 10
+p656
+aVSteve Novak NYK 12/08/2012 NYK @ CHI L 31 7 1 4 25.0 1 3 33.3 4 4 100.0 0 3 3 1 1 0 0 1 -4
+p657
+aVRasheed Wallace NYK 12/08/2012 NYK @ CHI L 16 6 2 6 33.3 2 4 50.0 0 0 - 0 3 3 0 2 1 2 0 -5
+p658
+aVTyson Chandler NYK 12/08/2012 NYK @ CHI L 37 14 4 8 50.0 0 0 - 6 9 66.7 9 9 18 1 1 1 2 5 -7
+p659
+aVJason Kidd NYK 12/06/2012 NYK @ MIA W 32 11 4 12 33.3 3 8 37.5 0 0 - 1 1 2 4 2 0 1 4 31
+p660
+aVRonnie Brewer NYK 12/06/2012 NYK @ MIA W 27 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 2 0 1 0
+p661
+aVRaymond Felton NYK 12/06/2012 NYK @ MIA W 35 27 10 20 50.0 6 10 60.0 1 1 100.0 1 3 4 7 2 0 3 0 19
+p662
+aVJR Smith NYK 12/06/2012 NYK @ MIA W 23 13 4 15 26.7 3 8 37.5 2 4 50.0 0 6 6 4 1 0 1 4 7
+p663
+aVKurt Thomas NYK 12/06/2012 NYK @ MIA W 11 4 2 2 100.0 0 0 - 0 0 - 3 4 7 1 0 0 0 1 8
+p664
+aVChris Copeland NYK 12/06/2012 NYK @ MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p665
+aVTyson Chandler NYK 12/06/2012 NYK @ MIA W 31 13 4 7 57.1 0 0 - 5 8 62.5 1 8 9 0 1 1 2 2 23
+p666
+aVSteve Novak NYK 12/06/2012 NYK @ MIA W 34 18 7 13 53.8 4 9 44.4 0 0 - 1 2 3 1 0 0 0 0 13
+p667
+aVJames White NYK 12/06/2012 NYK @ MIA W 17 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 4 1
+p668
+aVPablo Prigioni NYK 12/06/2012 NYK @ MIA W 13 7 3 3 100.0 1 1 100.0 0 0 - 1 5 6 1 2 0 0 2 1
+p669
+aVRasheed Wallace NYK 12/06/2012 NYK @ MIA W 14 12 4 13 30.8 0 6 0.0 4 6 66.7 3 4 7 0 0 1 0 1 -1
+p670
+aVPablo Prigioni NYK 12/05/2012 NYK @ CHA W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -6
+p671
+aVJR Smith NYK 12/05/2012 NYK @ CHA W 32 13 6 16 37.5 1 9 11.1 0 0 - 0 1 1 4 1 2 3 4 -4
+p672
+aVRaymond Felton NYK 12/05/2012 NYK @ CHA W 36 17 7 19 36.8 2 8 25.0 1 1 100.0 1 1 2 9 0 0 0 2 8
+p673
+aVJames White NYK 12/05/2012 NYK @ CHA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p674
+aVRasheed Wallace NYK 12/05/2012 NYK @ CHA W 13 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 1 0 0 1 1 -8
+p675
+aVTyson Chandler NYK 12/05/2012 NYK @ CHA W 35 18 8 10 80.0 0 0 - 2 4 50.0 8 9 17 2 1 1 2 2 10
+p676
+aVKurt Thomas NYK 12/05/2012 NYK @ CHA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 3
+p677
+aVRonnie Brewer NYK 12/05/2012 NYK @ CHA W 18 9 3 8 37.5 2 5 40.0 1 2 50.0 0 5 5 0 1 0 1 2 6
+p678
+aVCarmelo Anthony NYK 12/05/2012 NYK @ CHA W 38 23 8 22 36.4 3 7 42.9 4 4 100.0 0 3 3 2 3 1 1 3 4
+p679
+aVSteve Novak NYK 12/05/2012 NYK @ CHA W 26 9 3 8 37.5 3 8 37.5 0 0 - 0 2 2 1 0 0 0 1 -2
+p680
+aVJason Kidd NYK 12/05/2012 NYK @ CHA W 25 7 2 3 66.7 2 3 66.7 1 2 50.0 0 2 2 1 2 3 0 2 -1
+p681
+aVChris Copeland NYK 12/02/2012 NYK vs. PHX W 10 8 4 5 80.0 0 0 - 0 0 - 2 1 3 2 1 1 0 0 6
+p682
+aVRasheed Wallace NYK 12/02/2012 NYK vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p683
+aVPablo Prigioni NYK 12/02/2012 NYK vs. PHX W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 3 0 3
+p684
+aVKurt Thomas NYK 12/02/2012 NYK vs. PHX W 19 2 1 3 33.3 0 0 - 0 0 - 3 3 6 2 0 0 0 3 15
+p685
+aVRonnie Brewer NYK 12/02/2012 NYK vs. PHX W 25 8 3 8 37.5 1 2 50.0 1 3 33.3 2 2 4 2 2 0 0 0 7
+p686
+aVSteve Novak NYK 12/02/2012 NYK vs. PHX W 32 12 4 10 40.0 4 9 44.4 0 0 - 0 2 2 1 2 0 0 0 -2
+p687
+aVJR Smith NYK 12/02/2012 NYK vs. PHX W 37 4 1 11 9.1 0 2 0.0 2 2 100.0 0 5 5 4 0 0 0 1 -5
+p688
+aVCarmelo Anthony NYK 12/02/2012 NYK vs. PHX W 38 34 11 27 40.7 4 10 40.0 8 8 100.0 3 3 6 2 1 2 4 2 16
+p689
+aVTyson Chandler NYK 12/02/2012 NYK vs. PHX W 31 15 6 8 75.0 0 0 - 3 4 75.0 6 7 13 1 0 2 0 5 -1
+p690
+aVRaymond Felton NYK 12/02/2012 NYK vs. PHX W 39 23 10 17 58.8 3 6 50.0 0 0 - 0 3 3 7 0 0 0 1 6
+p691
+aVJR Smith NYK 11/30/2012 NYK vs. WAS W 38 20 9 14 64.3 2 3 66.7 0 0 - 0 2 2 6 0 0 1 1 26
+p692
+aVTyson Chandler NYK 11/30/2012 NYK vs. WAS W 25 12 5 8 62.5 0 0 - 2 3 66.7 2 8 10 2 0 0 0 2 11
+p693
+aVSteve Novak NYK 11/30/2012 NYK vs. WAS W 30 9 3 6 50.0 3 6 50.0 0 0 - 0 5 5 0 1 0 0 3 10
+p694
+aVCarmelo Anthony NYK 11/30/2012 NYK vs. WAS W 28 20 6 13 46.2 1 4 25.0 7 10 70.0 0 5 5 5 0 1 2 3 15
+p695
+aVPablo Prigioni NYK 11/30/2012 NYK vs. WAS W 25 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 5 1 0 0 1 13
+p696
+aVRasheed Wallace NYK 11/30/2012 NYK vs. WAS W 17 7 3 5 60.0 1 3 33.3 0 0 - 0 4 4 0 1 0 1 3 8
+p697
+aVJames White NYK 11/30/2012 NYK vs. WAS W 9 3 1 4 25.0 0 2 0.0 1 2 50.0 0 2 2 1 0 0 0 2 1
+p698
+aVKurt Thomas NYK 11/30/2012 NYK vs. WAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p699
+aVRaymond Felton NYK 11/30/2012 NYK vs. WAS W 27 11 5 13 38.5 1 4 25.0 0 0 - 0 1 1 2 1 0 2 0 14
+p700
+aVRonnie Brewer NYK 11/30/2012 NYK vs. WAS W 20 12 5 8 62.5 2 4 50.0 0 0 - 1 0 1 3 3 0 0 0 8
+p701
+aVChris Copeland NYK 11/30/2012 NYK vs. WAS W 13 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 1
+p702
+aVPablo Prigioni NYK 11/28/2012 NYK @ MIL W 28 11 4 5 80.0 2 2 100.0 1 2 50.0 1 2 3 7 1 0 4 3 11
+p703
+aVRaymond Felton NYK 11/28/2012 NYK @ MIL W 32 12 5 10 50.0 0 2 0.0 2 2 100.0 2 1 3 7 4 0 4 1 12
+p704
+aVChris Copeland NYK 11/28/2012 NYK @ MIL W 11 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 3
+p705
+aVSteve Novak NYK 11/28/2012 NYK @ MIL W 40 19 7 10 70.0 5 7 71.4 0 0 - 1 3 4 1 2 0 0 3 13
+p706
+aVRonnie Brewer NYK 11/28/2012 NYK @ MIL W 31 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 3 1 0 2 3 4
+p707
+aVTyson Chandler NYK 11/28/2012 NYK @ MIL W 27 17 4 4 100.0 0 0 - 9 10 90.0 2 6 8 0 1 0 1 1 16
+p708
+aVCarmelo Anthony NYK 11/28/2012 NYK @ MIL W 30 29 9 18 50.0 3 4 75.0 8 9 88.9 2 6 8 0 1 1 1 2 13
+p709
+aVJR Smith NYK 11/28/2012 NYK @ MIL W 18 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 1 0 1 5 2
+p710
+aVRasheed Wallace NYK 11/28/2012 NYK @ MIL W 15 5 2 10 20.0 1 5 20.0 0 0 - 0 5 5 0 0 0 1 2 0
+p711
+aVKurt Thomas NYK 11/28/2012 NYK @ MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p712
+aVJames White NYK 11/28/2012 NYK @ MIL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p713
+aVMarcus Camby NYK 11/26/2012 NYK @ BKN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 1
+p714
+aVRasheed Wallace NYK 11/26/2012 NYK @ BKN L 23 6 2 11 18.2 2 6 33.3 0 0 - 2 6 8 1 1 0 0 0 -8
+p715
+aVJames White NYK 11/26/2012 NYK @ BKN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p716
+aVRaymond Felton NYK 11/26/2012 NYK @ BKN L 42 8 3 19 15.8 0 2 0.0 2 2 100.0 0 3 3 5 3 0 5 5 -8
+p717
+aVJR Smith NYK 11/26/2012 NYK @ BKN L 41 5 2 7 28.6 0 3 0.0 1 2 50.0 1 6 7 2 0 0 1 3 -8
+p718
+aVCarmelo Anthony NYK 11/26/2012 NYK @ BKN L 50 35 11 25 44.0 3 5 60.0 10 16 62.5 6 7 13 1 1 1 3 4 -6
+p719
+aVRonnie Brewer NYK 11/26/2012 NYK @ BKN L 19 3 1 6 16.7 1 3 33.3 0 0 - 1 4 5 2 1 0 0 1 3
+p720
+aVTyson Chandler NYK 11/26/2012 NYK @ BKN L 45 28 12 13 92.3 0 0 - 4 4 100.0 7 3 10 1 2 0 3 5 -8
+p721
+aVPablo Prigioni NYK 11/26/2012 NYK @ BKN L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 1
+p722
+aVSteve Novak NYK 11/26/2012 NYK @ BKN L 18 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p723
+aVKurt Thomas NYK 11/26/2012 NYK @ BKN L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 3
+p724
+aVJR Smith NYK 11/25/2012 NYK vs. DET W 31 15 3 8 37.5 1 4 25.0 8 8 100.0 2 8 10 5 1 0 1 3 18
+p725
+aVChris Copeland NYK 11/25/2012 NYK vs. DET W 5 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 2
+p726
+aVTyson Chandler NYK 11/25/2012 NYK vs. DET W 32 13 3 4 75.0 0 0 - 7 8 87.5 3 4 7 0 0 0 1 2 12
+p727
+aVJason Kidd NYK 11/25/2012 NYK vs. DET W 25 6 2 5 40.0 2 5 40.0 0 0 - 1 4 5 3 3 0 1 1 10
+p728
+aVMarcus Camby NYK 11/25/2012 NYK vs. DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 5
+p729
+aVCarmelo Anthony NYK 11/25/2012 NYK vs. DET W 32 29 10 18 55.6 4 5 80.0 5 5 100.0 2 0 2 3 1 0 6 2 20
+p730
+aVJames White NYK 11/25/2012 NYK vs. DET W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 1
+p731
+aVSteve Novak NYK 11/25/2012 NYK vs. DET W 27 18 5 11 45.5 5 7 71.4 3 3 100.0 0 2 2 0 1 2 0 2 15
+p732
+aVPablo Prigioni NYK 11/25/2012 NYK vs. DET W 10 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 2 1 0 2 1 -1
+p733
+aVRaymond Felton NYK 11/25/2012 NYK vs. DET W 32 14 6 14 42.9 1 3 33.3 1 2 50.0 1 3 4 10 2 0 0 1 20
+p734
+aVRasheed Wallace NYK 11/25/2012 NYK vs. DET W 22 15 5 10 50.0 3 5 60.0 2 2 100.0 0 1 1 0 1 1 0 6 16
+p735
+aVRonnie Brewer NYK 11/25/2012 NYK vs. DET W 14 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 3 1 0 1 -13
+p736
+aVPablo Prigioni NYK 11/23/2012 NYK @ HOU L 18 5 2 7 28.6 1 6 16.7 0 0 - 1 3 4 4 2 0 2 1 -15
+p737
+aVJR Smith NYK 11/23/2012 NYK @ HOU L 35 12 2 13 15.4 1 2 50.0 7 8 87.5 0 5 5 2 2 1 1 5 -18
+p738
+aVKurt Thomas NYK 11/23/2012 NYK @ HOU L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -4
+p739
+aVSteve Novak NYK 11/23/2012 NYK @ HOU L 25 9 3 8 37.5 3 7 42.9 0 0 - 0 2 2 0 0 1 0 2 -10
+p740
+aVRonnie Brewer NYK 11/23/2012 NYK @ HOU L 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -15
+p741
+aVJason Kidd NYK 11/23/2012 NYK @ HOU L 28 7 2 5 40.0 1 3 33.3 2 2 100.0 0 5 5 5 1 2 1 2 -27
+p742
+aVRaymond Felton NYK 11/23/2012 NYK @ HOU L 30 17 6 11 54.5 4 6 66.7 1 2 50.0 0 0 0 8 1 1 4 1 -11
+p743
+aVChris Copeland NYK 11/23/2012 NYK @ HOU L 8 6 3 6 50.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 -2
+p744
+aVTyson Chandler NYK 11/23/2012 NYK @ HOU L 28 6 3 4 75.0 0 0 - 0 0 - 3 4 7 1 0 3 0 4 -9
+p745
+aVCarmelo Anthony NYK 11/23/2012 NYK @ HOU L 35 37 14 24 58.3 7 12 58.3 2 2 100.0 1 3 4 2 0 0 7 4 -10
+p746
+aVJames White NYK 11/23/2012 NYK @ HOU L 9 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p747
+aVTyson Chandler NYK 11/21/2012 NYK @ DAL L 39 21 8 9 88.9 0 0 - 5 7 71.4 5 8 13 1 1 1 2 1 2
+p748
+aVSteve Novak NYK 11/21/2012 NYK @ DAL L 13 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p749
+aVJR Smith NYK 11/21/2012 NYK @ DAL L 32 14 5 13 38.5 1 4 25.0 3 3 100.0 0 3 3 2 1 0 1 2 -19
+p750
+aVRaymond Felton NYK 11/21/2012 NYK @ DAL L 39 18 8 17 47.1 2 6 33.3 0 0 - 0 2 2 11 0 0 4 3 0
+p751
+aVJason Kidd NYK 11/21/2012 NYK @ DAL L 36 17 5 8 62.5 5 8 62.5 2 2 100.0 0 6 6 5 5 0 0 2 12
+p752
+aVCarmelo Anthony NYK 11/21/2012 NYK @ DAL L 41 23 7 16 43.8 2 4 50.0 7 8 87.5 0 6 6 4 1 0 7 6 3
+p753
+aVRasheed Wallace NYK 11/21/2012 NYK @ DAL L 18 11 4 9 44.4 3 7 42.9 0 0 - 0 7 7 1 2 1 0 0 -2
+p754
+aVRonnie Brewer NYK 11/21/2012 NYK @ DAL L 22 4 1 3 33.3 1 1 100.0 1 2 50.0 0 0 0 1 0 0 0 2 -2
+p755
+aVRasheed Wallace NYK 11/20/2012 NYK @ NOH W 18 6 2 8 25.0 0 1 0.0 2 2 100.0 2 5 7 0 0 1 1 5 13
+p756
+aVJR Smith NYK 11/20/2012 NYK @ NOH W 30 15 6 14 42.9 1 3 33.3 2 2 100.0 2 3 5 1 2 0 1 1 1
+p757
+aVPablo Prigioni NYK 11/20/2012 NYK @ NOH W 13 0 0 0 - 0 0 - 0 0 - 0 2 2 2 1 0 3 1 -9
+p758
+aVRaymond Felton NYK 11/20/2012 NYK @ NOH W 30 15 5 8 62.5 5 6 83.3 0 0 - 0 2 2 6 0 0 1 2 30
+p759
+aVTyson Chandler NYK 11/20/2012 NYK @ NOH W 19 7 2 2 100.0 0 0 - 3 5 60.0 4 8 12 0 0 0 0 2 20
+p760
+aVRonnie Brewer NYK 11/20/2012 NYK @ NOH W 23 10 2 5 40.0 2 5 40.0 4 7 57.1 0 1 1 0 0 0 0 2 17
+p761
+aVChris Copeland NYK 11/20/2012 NYK @ NOH W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 1
+p762
+aVJames White NYK 11/20/2012 NYK @ NOH W 15 7 3 4 75.0 1 2 50.0 0 0 - 0 4 4 0 1 0 0 1 4
+p763
+aVJason Kidd NYK 11/20/2012 NYK @ NOH W 25 3 1 3 33.3 1 3 33.3 0 0 - 1 4 5 4 2 1 1 0 16
+p764
+aVMarcus Camby NYK 11/20/2012 NYK @ NOH W 10 0 0 3 0.0 0 0 - 0 0 - 2 2 4 1 0 1 1 3 -9
+p765
+aVCarmelo Anthony NYK 11/20/2012 NYK @ NOH W 28 29 12 22 54.5 2 6 33.3 3 3 100.0 2 4 6 4 0 0 1 1 24
+p766
+aVSteve Novak NYK 11/20/2012 NYK @ NOH W 25 8 3 12 25.0 2 10 20.0 0 0 - 0 0 0 0 0 0 0 1 2
+p767
+aVTyson Chandler NYK 11/18/2012 NYK vs. IND W 28 7 3 7 42.9 0 0 - 1 2 50.0 5 4 9 1 2 1 1 1 8
+p768
+aVCarmelo Anthony NYK 11/18/2012 NYK vs. IND W 31 26 9 22 40.9 1 4 25.0 7 8 87.5 4 5 9 0 2 0 0 4 18
+p769
+aVChris Copeland NYK 11/18/2012 NYK vs. IND W 4 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p770
+aVRasheed Wallace NYK 11/18/2012 NYK vs. IND W 17 9 3 7 42.9 1 2 50.0 2 2 100.0 0 7 7 0 0 1 1 1 7
+p771
+aVSteve Novak NYK 11/18/2012 NYK vs. IND W 24 9 3 10 30.0 3 8 37.5 0 0 - 0 2 2 0 1 0 0 2 -2
+p772
+aVPablo Prigioni NYK 11/18/2012 NYK vs. IND W 16 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 4 1 0 1 0 1
+p773
+aVRonnie Brewer NYK 11/18/2012 NYK vs. IND W 23 8 4 7 57.1 0 1 0.0 0 0 - 3 3 6 2 0 0 1 2 17
+p774
+aVRaymond Felton NYK 11/18/2012 NYK vs. IND W 29 11 5 15 33.3 1 3 33.3 0 0 - 0 1 1 8 1 0 0 0 11
+p775
+aVJR Smith NYK 11/18/2012 NYK vs. IND W 30 13 5 10 50.0 1 3 33.3 2 2 100.0 0 7 7 2 1 1 2 3 5
+p776
+aVMarcus Camby NYK 11/18/2012 NYK vs. IND W 13 0 0 0 - 0 0 - 0 2 0.0 2 2 4 0 0 1 1 1 -3
+p777
+aVJames White NYK 11/18/2012 NYK vs. IND W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p778
+aVJason Kidd NYK 11/18/2012 NYK vs. IND W 23 3 0 3 0.0 0 2 0.0 3 3 100.0 1 1 2 2 1 0 1 0 12
+p779
+aVKurt Thomas NYK 11/16/2012 NYK @ MEM L 9 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 0 0 1 0 1 -3
+p780
+aVJason Kidd NYK 11/16/2012 NYK @ MEM L 29 8 2 3 66.7 2 3 66.7 2 2 100.0 0 2 2 4 0 0 0 3 -8
+p781
+aVSteve Novak NYK 11/16/2012 NYK @ MEM L 18 5 1 3 33.3 1 3 33.3 2 2 100.0 1 2 3 1 0 1 0 1 6
+p782
+aVRaymond Felton NYK 11/16/2012 NYK @ MEM L 36 18 8 16 50.0 0 3 0.0 2 2 100.0 1 2 3 5 2 0 3 1 -21
+p783
+aVJR Smith NYK 11/16/2012 NYK @ MEM L 34 9 4 10 40.0 0 3 0.0 1 2 50.0 0 7 7 3 0 1 3 3 -8
+p784
+aVCarmelo Anthony NYK 11/16/2012 NYK @ MEM L 30 20 7 14 50.0 1 2 50.0 5 5 100.0 1 2 3 1 1 0 5 5 2
+p785
+aVRasheed Wallace NYK 11/16/2012 NYK @ MEM L 24 13 6 10 60.0 0 3 0.0 1 2 50.0 1 3 4 1 1 3 1 5 -15
+p786
+aVTyson Chandler NYK 11/16/2012 NYK @ MEM L 28 7 3 4 75.0 0 0 - 1 2 50.0 3 4 7 0 1 0 1 5 -9
+p787
+aVChris Copeland NYK 11/16/2012 NYK @ MEM L 1 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 4
+p788
+aVRonnie Brewer NYK 11/16/2012 NYK @ MEM L 21 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -9
+p789
+aVPablo Prigioni NYK 11/16/2012 NYK @ MEM L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 7
+p790
+aVJames White NYK 11/16/2012 NYK @ MEM L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p791
+aVJR Smith NYK 11/15/2012 NYK @ SAS W 37 17 6 13 46.2 1 1 100.0 4 5 80.0 0 5 5 2 1 1 0 3 6
+p792
+aVSteve Novak NYK 11/15/2012 NYK @ SAS W 21 5 2 6 33.3 1 5 20.0 0 0 - 0 1 1 0 0 0 0 2 -1
+p793
+aVJason Kidd NYK 11/15/2012 NYK @ SAS W 34 14 5 9 55.6 4 7 57.1 0 0 - 0 1 1 2 2 3 2 2 2
+p794
+aVTyson Chandler NYK 11/15/2012 NYK @ SAS W 33 13 4 8 50.0 0 0 - 5 7 71.4 3 9 12 0 0 1 1 4 8
+p795
+aVRasheed Wallace NYK 11/15/2012 NYK @ SAS W 15 10 4 8 50.0 2 3 66.7 0 0 - 0 3 3 0 1 1 0 2 -4
+p796
+aVPablo Prigioni NYK 11/15/2012 NYK @ SAS W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 1 4
+p797
+aVRonnie Brewer NYK 11/15/2012 NYK @ SAS W 18 9 4 8 50.0 1 3 33.3 0 2 0.0 1 2 3 1 1 0 0 0 6
+p798
+aVCarmelo Anthony NYK 11/15/2012 NYK @ SAS W 41 9 3 12 25.0 0 2 0.0 3 4 75.0 5 7 12 3 0 0 2 3 -2
+p799
+aVRaymond Felton NYK 11/15/2012 NYK @ SAS W 35 25 10 20 50.0 2 4 50.0 3 5 60.0 1 2 3 7 0 0 2 2 1
+p800
+aVJason Kidd NYK 11/13/2012 NYK @ ORL W 32 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 2 2 0 1 1 6
+p801
+aVRasheed Wallace NYK 11/13/2012 NYK @ ORL W 14 4 2 7 28.6 0 5 0.0 0 0 - 1 3 4 0 1 1 0 1 0
+p802
+aVTyson Chandler NYK 11/13/2012 NYK @ ORL W 33 12 4 6 66.7 0 0 - 4 4 100.0 1 5 6 1 2 0 1 3 19
+p803
+aVRonnie Brewer NYK 11/13/2012 NYK @ ORL W 17 3 1 3 33.3 0 1 0.0 1 2 50.0 1 2 3 1 0 0 1 1 0
+p804
+aVSteve Novak NYK 11/13/2012 NYK @ ORL W 20 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 1 0 0 1 4
+p805
+aVMarcus Camby NYK 11/13/2012 NYK @ ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p806
+aVRaymond Felton NYK 11/13/2012 NYK @ ORL W 37 21 9 23 39.1 3 7 42.9 0 0 - 1 2 3 5 1 0 2 2 4
+p807
+aVCarmelo Anthony NYK 11/13/2012 NYK @ ORL W 43 25 11 22 50.0 1 4 25.0 2 3 66.7 1 7 8 2 1 0 3 2 7
+p808
+aVJR Smith NYK 11/13/2012 NYK @ ORL W 32 21 9 14 64.3 2 2 100.0 1 2 50.0 1 3 4 3 2 0 1 2 9
+p809
+aVPablo Prigioni NYK 11/13/2012 NYK @ ORL W 7 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 1 0 0 1 1
+p810
+aVJason Kidd NYK 11/09/2012 NYK vs. DAL W 15 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 3 3 0 0 1 7
+p811
+aVRaymond Felton NYK 11/09/2012 NYK vs. DAL W 38 8 3 11 27.3 0 0 - 2 5 40.0 1 3 4 9 2 0 2 3 17
+p812
+aVRasheed Wallace NYK 11/09/2012 NYK vs. DAL W 18 6 2 6 33.3 0 4 0.0 2 2 100.0 0 6 6 0 0 0 1 2 -4
+p813
+aVJR Smith NYK 11/09/2012 NYK vs. DAL W 33 22 8 16 50.0 3 3 100.0 3 3 100.0 0 1 1 0 4 1 0 3 3
+p814
+aVTyson Chandler NYK 11/09/2012 NYK vs. DAL W 30 11 4 8 50.0 0 0 - 3 5 60.0 5 4 9 0 1 0 2 3 14
+p815
+aVCarmelo Anthony NYK 11/09/2012 NYK vs. DAL W 34 31 10 22 45.5 2 5 40.0 9 14 64.3 0 7 7 1 0 2 3 5 10
+p816
+aVMarcus Camby NYK 11/09/2012 NYK vs. DAL W 8 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 0 0 0 0 -8
+p817
+aVPablo Prigioni NYK 11/09/2012 NYK vs. DAL W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -7
+p818
+aVSteve Novak NYK 11/09/2012 NYK vs. DAL W 16 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 1 0 0 1 1 -1
+p819
+aVRonnie Brewer NYK 11/09/2012 NYK vs. DAL W 37 13 4 10 40.0 2 4 50.0 3 5 60.0 4 4 8 2 2 1 0 2 19
+p820
+aVRaymond Felton NYK 11/05/2012 NYK @ PHI W 23 16 6 13 46.2 2 5 40.0 2 2 100.0 2 1 3 8 1 0 2 1 12
+p821
+aVRasheed Wallace NYK 11/05/2012 NYK @ PHI W 14 10 4 9 44.4 2 6 33.3 0 0 - 0 3 3 0 0 2 1 3 3
+p822
+aVJames White NYK 11/05/2012 NYK @ PHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p823
+aVJR Smith NYK 11/05/2012 NYK @ PHI W 34 17 7 15 46.7 2 4 50.0 1 1 100.0 0 7 7 5 2 1 0 2 15
+p824
+aVCarmelo Anthony NYK 11/05/2012 NYK @ PHI W 30 21 7 16 43.8 1 6 16.7 6 6 100.0 2 5 7 2 0 1 2 2 20
+p825
+aVRonnie Brewer NYK 11/05/2012 NYK @ PHI W 33 13 5 8 62.5 3 4 75.0 0 0 - 0 10 10 0 1 0 0 0 16
+p826
+aVChris Copeland NYK 11/05/2012 NYK @ PHI W 3 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 0 0
+p827
+aVTyson Chandler NYK 11/05/2012 NYK @ PHI W 28 14 5 9 55.6 0 0 - 4 4 100.0 4 2 6 0 0 1 0 3 15
+p828
+aVPablo Prigioni NYK 11/05/2012 NYK @ PHI W 25 11 3 5 60.0 1 3 33.3 4 4 100.0 1 0 1 6 2 0 2 4 10
+p829
+aVSteve Novak NYK 11/05/2012 NYK @ PHI W 22 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 3
+p830
+aVJason Kidd NYK 11/05/2012 NYK @ PHI W 18 3 1 1 100.0 1 1 100.0 0 0 - 0 4 4 2 1 0 0 0 12
+p831
+aVKurt Thomas NYK 11/05/2012 NYK @ PHI W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p832
+aVJR Smith NYK 11/04/2012 NYK vs. PHI W 35 20 8 15 53.3 4 5 80.0 0 0 - 1 8 9 2 2 0 3 0 10
+p833
+aVRonnie Brewer NYK 11/04/2012 NYK vs. PHI W 26 9 4 9 44.4 1 3 33.3 0 2 0.0 2 3 5 1 1 0 1 1 12
+p834
+aVChris Copeland NYK 11/04/2012 NYK vs. PHI W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p835
+aVRaymond Felton NYK 11/04/2012 NYK vs. PHI W 30 11 5 10 50.0 1 4 25.0 0 0 - 0 2 2 1 1 0 4 2 9
+p836
+aVTyson Chandler NYK 11/04/2012 NYK vs. PHI W 21 2 1 2 50.0 0 0 - 0 0 - 2 5 7 0 0 2 0 1 7
+p837
+aVKurt Thomas NYK 11/04/2012 NYK vs. PHI W 18 5 2 4 50.0 0 0 - 1 1 100.0 1 4 5 2 0 1 0 1 5
+p838
+aVRasheed Wallace NYK 11/04/2012 NYK vs. PHI W 4 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 1 0 0 0 5
+p839
+aVCarmelo Anthony NYK 11/04/2012 NYK vs. PHI W 39 27 10 18 55.6 1 4 25.0 6 9 66.7 1 4 5 1 1 2 2 2 5
+p840
+aVPablo Prigioni NYK 11/04/2012 NYK vs. PHI W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 4 2 0 2 1 9
+p841
+aVJames White NYK 11/04/2012 NYK vs. PHI W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 4
+p842
+aVJason Kidd NYK 11/04/2012 NYK vs. PHI W 25 12 4 8 50.0 2 5 40.0 2 2 100.0 1 2 3 6 3 0 0 1 14
+p843
+aVSteve Novak NYK 11/04/2012 NYK vs. PHI W 24 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 0 1 0 2 1 -4
+p844
+aVJason Kidd NYK 11/02/2012 NYK vs. MIA W 23 12 3 5 60.0 3 5 60.0 3 3 100.0 1 3 4 3 2 0 1 1 20
+p845
+aVRonnie Brewer NYK 11/02/2012 NYK vs. MIA W 20 7 3 7 42.9 1 2 50.0 0 0 - 1 4 5 3 1 0 0 1 8
+p846
+aVChris Copeland NYK 11/02/2012 NYK vs. MIA W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p847
+aVTyson Chandler NYK 11/02/2012 NYK vs. MIA W 25 10 5 5 100.0 0 0 - 0 0 - 6 2 8 0 0 0 2 5 14
+p848
+aVRasheed Wallace NYK 11/02/2012 NYK vs. MIA W 3 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p849
+aVKurt Thomas NYK 11/02/2012 NYK vs. MIA W 16 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 1 0 1 2 -1
+p850
+aVCarmelo Anthony NYK 11/02/2012 NYK vs. MIA W 39 30 10 28 35.7 4 8 50.0 6 7 85.7 4 6 10 2 2 0 1 3 24
+p851
+aVSteve Novak NYK 11/02/2012 NYK vs. MIA W 26 17 6 10 60.0 5 8 62.5 0 0 - 0 2 2 1 0 0 0 1 9
+p852
+aVJames White NYK 11/02/2012 NYK vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p853
+aVJR Smith NYK 11/02/2012 NYK vs. MIA W 34 11 3 11 27.3 2 4 50.0 3 3 100.0 0 3 3 6 1 0 1 4 13
+p854
+aVRaymond Felton NYK 11/02/2012 NYK vs. MIA W 33 14 5 13 38.5 3 7 42.9 1 2 50.0 0 4 4 9 3 0 3 3 19
+p855
+aVPablo Prigioni NYK 11/02/2012 NYK vs. MIA W 16 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 3 1 -3
+p856
+a.

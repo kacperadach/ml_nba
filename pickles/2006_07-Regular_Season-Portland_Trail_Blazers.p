@@ -1,0 +1,1732 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDan Dickau POR 04/18/2007 POR vs. GSW L 32 9 4 13 30.8 0 3 0.0 1 2 50.0 1 1 2 8 1 0 1 2 6
+p2
+aVJamaal Magloire POR 04/18/2007 POR vs. GSW L 35 13 5 8 62.5 0 0 - 3 4 75.0 4 7 11 0 0 1 1 4 -14
+p3
+aVTravis Outlaw POR 04/18/2007 POR vs. GSW L 40 36 10 18 55.6 0 1 0.0 16 16 100.0 1 9 10 1 2 0 3 1 -8
+p4
+aVJarrett Jack POR 04/18/2007 POR vs. GSW L 28 5 2 7 28.6 0 2 0.0 1 2 50.0 0 5 5 3 0 0 5 4 -25
+p5
+aVLuke Schenscher POR 04/18/2007 POR vs. GSW L 6 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 0 1 0 0 0 -2
+p6
+aVMartell Webster POR 04/18/2007 POR vs. GSW L 31 14 5 9 55.6 0 2 0.0 4 4 100.0 1 4 5 0 0 1 3 0 -25
+p7
+aVSergio Rodriguez POR 04/18/2007 POR vs. GSW L 24 7 3 7 42.9 0 3 0.0 1 2 50.0 0 0 0 7 1 0 4 1 -3
+p8
+aVFred Jones POR 04/18/2007 POR vs. GSW L 29 10 3 10 30.0 2 3 66.7 2 2 100.0 0 2 2 2 2 0 1 4 -19
+p9
+aVRaef LaFrentz POR 04/18/2007 POR vs. GSW L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 1 3 -20
+p10
+aVSergio Rodriguez POR 04/16/2007 POR @ UTA L 22 6 2 6 33.3 1 3 33.3 1 2 50.0 0 0 0 1 0 0 3 1 -30
+p11
+aVTravis Outlaw POR 04/16/2007 POR @ UTA L 36 26 4 12 33.3 0 1 0.0 18 20 90.0 1 2 3 0 2 0 1 4 -29
+p12
+aVFred Jones POR 04/16/2007 POR @ UTA L 25 7 3 7 42.9 1 1 100.0 0 0 - 0 1 1 3 1 0 2 5 -9
+p13
+aVJamaal Magloire POR 04/16/2007 POR @ UTA L 13 7 2 4 50.0 0 0 - 3 4 75.0 2 3 5 0 0 2 2 3 0
+p14
+aVDan Dickau POR 04/16/2007 POR @ UTA L 23 13 6 9 66.7 1 2 50.0 0 1 0.0 0 3 3 0 1 0 1 2 -25
+p15
+aVLuke Schenscher POR 04/16/2007 POR @ UTA L 17 3 0 3 0.0 0 0 - 3 4 75.0 2 2 4 0 0 2 1 6 -14
+p16
+aVRaef LaFrentz POR 04/16/2007 POR @ UTA L 28 8 4 7 57.1 0 0 - 0 0 - 0 6 6 0 1 0 1 6 -30
+p17
+aVMartell Webster POR 04/16/2007 POR @ UTA L 45 14 5 13 38.5 2 7 28.6 2 7 28.6 2 3 5 1 1 1 0 1 -33
+p18
+aVJarrett Jack POR 04/16/2007 POR @ UTA L 30 9 4 8 50.0 0 1 0.0 1 1 100.0 0 2 2 5 0 1 6 0 -15
+p19
+aVFred Jones POR 04/14/2007 POR vs. SEA W 45 9 3 12 25.0 1 4 25.0 2 4 50.0 0 1 1 4 0 0 2 5 4
+p20
+aVRaef LaFrentz POR 04/14/2007 POR vs. SEA W 21 8 3 8 37.5 0 0 - 2 2 100.0 1 5 6 1 0 1 1 4 -13
+p21
+aVJamaal Magloire POR 04/14/2007 POR vs. SEA W 32 9 4 6 66.7 0 0 - 1 5 20.0 7 8 15 1 0 2 2 1 -4
+p22
+aVDan Dickau POR 04/14/2007 POR vs. SEA W 15 5 2 5 40.0 0 1 0.0 1 1 100.0 1 0 1 3 0 0 1 1 18
+p23
+aVJarrett Jack POR 04/14/2007 POR vs. SEA W 31 25 8 13 61.5 0 2 0.0 9 10 90.0 0 3 3 5 0 0 0 3 -9
+p24
+aVTravis Outlaw POR 04/14/2007 POR vs. SEA W 28 22 7 15 46.7 2 3 66.7 6 6 100.0 1 3 4 1 1 1 1 4 18
+p25
+aVSergio Rodriguez POR 04/14/2007 POR vs. SEA W 19 9 3 6 50.0 1 2 50.0 2 2 100.0 1 3 4 4 0 0 0 0 14
+p26
+aVLuke Schenscher POR 04/14/2007 POR vs. SEA W 16 4 2 2 100.0 0 0 - 0 0 - 1 5 6 1 0 0 2 4 11
+p27
+aVMartell Webster POR 04/14/2007 POR vs. SEA W 35 17 7 12 58.3 3 5 60.0 0 0 - 0 6 6 1 1 0 0 2 -9
+p28
+aVDan Dickau POR 04/13/2007 POR @ LAC L 7 9 2 4 50.0 0 1 0.0 5 7 71.4 0 0 0 2 0 0 1 0 6
+p29
+aVBrandon Roy POR 04/13/2007 POR @ LAC L 31 18 8 12 66.7 2 3 66.7 0 0 - 1 5 6 3 0 0 4 2 -19
+p30
+aVRaef LaFrentz POR 04/13/2007 POR @ LAC L 28 7 3 9 33.3 0 1 0.0 1 1 100.0 1 3 4 0 2 2 0 4 -1
+p31
+aVJarrett Jack POR 04/13/2007 POR @ LAC L 24 8 3 9 33.3 0 1 0.0 2 2 100.0 0 2 2 3 0 0 1 1 -8
+p32
+aVFred Jones POR 04/13/2007 POR @ LAC L 29 7 3 6 50.0 0 2 0.0 1 1 100.0 0 1 1 7 1 0 2 6 -14
+p33
+aVTravis Outlaw POR 04/13/2007 POR @ LAC L 24 14 7 13 53.8 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -15
+p34
+aVSergio Rodriguez POR 04/13/2007 POR @ LAC L 20 8 3 5 60.0 1 1 100.0 1 2 50.0 1 0 1 1 2 0 0 2 -13
+p35
+aVMartell Webster POR 04/13/2007 POR @ LAC L 31 10 3 9 33.3 0 2 0.0 4 4 100.0 1 4 5 2 0 0 1 3 -6
+p36
+aVJamaal Magloire POR 04/13/2007 POR @ LAC L 22 8 3 6 50.0 0 0 - 2 6 33.3 2 4 6 0 0 1 2 4 -15
+p37
+aVLuke Schenscher POR 04/13/2007 POR @ LAC L 24 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -5
+p38
+aVFred Jones POR 04/11/2007 POR vs. HOU L 28 18 8 13 61.5 2 3 66.7 0 1 0.0 1 1 2 4 0 1 0 1 11
+p39
+aVMartell Webster POR 04/11/2007 POR vs. HOU L 30 4 2 6 33.3 0 1 0.0 0 0 - 1 4 5 0 1 1 2 1 -21
+p40
+aVBrandon Roy POR 04/11/2007 POR vs. HOU L 39 20 9 18 50.0 1 3 33.3 1 1 100.0 0 5 5 6 1 0 2 5 -1
+p41
+aVJamaal Magloire POR 04/11/2007 POR vs. HOU L 33 13 3 6 50.0 0 0 - 7 8 87.5 1 9 10 0 0 0 1 4 -12
+p42
+aVLuke Schenscher POR 04/11/2007 POR vs. HOU L 15 6 3 4 75.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 6 8
+p43
+aVTravis Outlaw POR 04/11/2007 POR vs. HOU L 30 16 7 14 50.0 1 1 100.0 1 2 50.0 1 6 7 1 1 0 3 2 9
+p44
+aVJarrett Jack POR 04/11/2007 POR vs. HOU L 23 5 1 8 12.5 1 2 50.0 2 2 100.0 0 3 3 4 1 0 0 2 -15
+p45
+aVDan Dickau POR 04/11/2007 POR vs. HOU L 16 5 1 6 16.7 0 3 0.0 3 4 75.0 0 3 3 2 1 0 0 1 19
+p46
+aVSergio Rodriguez POR 04/11/2007 POR vs. HOU L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -5
+p47
+aVRaef LaFrentz POR 04/11/2007 POR vs. HOU L 18 8 3 8 37.5 0 0 - 2 3 66.7 3 2 5 1 0 0 1 5 -13
+p48
+aVRaef LaFrentz POR 04/09/2007 POR @ SAS L 24 10 4 8 50.0 0 2 0.0 2 2 100.0 1 2 3 0 0 1 1 4 -16
+p49
+aVSergio Rodriguez POR 04/09/2007 POR @ SAS L 13 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 1 3 -11
+p50
+aVMartell Webster POR 04/09/2007 POR @ SAS L 19 5 1 1 100.0 1 1 100.0 2 2 100.0 0 5 5 0 0 0 2 3 2
+p51
+aVJarrett Jack POR 04/09/2007 POR @ SAS L 35 19 8 11 72.7 1 3 33.3 2 3 66.7 0 1 1 8 0 0 1 3 -12
+p52
+aVIme Udoka POR 04/09/2007 POR @ SAS L 31 9 3 7 42.9 1 3 33.3 2 2 100.0 0 5 5 1 2 0 0 3 -9
+p53
+aVLuke Schenscher POR 04/09/2007 POR @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p54
+aVBrandon Roy POR 04/09/2007 POR @ SAS L 38 15 6 13 46.2 1 3 33.3 2 2 100.0 2 3 5 4 0 0 2 2 -14
+p55
+aVJamaal Magloire POR 04/09/2007 POR @ SAS L 32 19 7 12 58.3 0 0 - 5 8 62.5 3 2 5 0 1 0 2 3 -15
+p56
+aVFred Jones POR 04/09/2007 POR @ SAS L 11 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 2
+p57
+aVTravis Outlaw POR 04/09/2007 POR @ SAS L 31 6 3 11 27.3 0 1 0.0 0 0 - 0 2 2 1 0 2 1 4 -8
+p58
+aVDan Dickau POR 04/09/2007 POR @ SAS L 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p59
+aVDan Dickau POR 04/07/2007 POR @ DAL L 19 1 0 5 0.0 0 2 0.0 1 3 33.3 0 1 1 3 0 0 1 2 7
+p60
+aVMartell Webster POR 04/07/2007 POR @ DAL L 26 7 2 5 40.0 1 2 50.0 2 2 100.0 0 3 3 1 0 0 1 4 2
+p61
+aVFred Jones POR 04/07/2007 POR @ DAL L 22 7 1 4 25.0 0 1 0.0 5 5 100.0 0 0 0 1 0 1 2 1 -4
+p62
+aVTravis Outlaw POR 04/07/2007 POR @ DAL L 27 16 8 15 53.3 0 0 - 0 0 - 1 3 4 0 2 1 2 2 -5
+p63
+aVRaef LaFrentz POR 04/07/2007 POR @ DAL L 21 8 4 7 57.1 0 2 0.0 0 1 0.0 1 3 4 1 0 0 3 6 -7
+p64
+aVIme Udoka POR 04/07/2007 POR @ DAL L 22 0 0 9 0.0 0 2 0.0 0 0 - 0 2 2 0 3 1 0 1 -14
+p65
+aVLuke Schenscher POR 04/07/2007 POR @ DAL L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 0 1 1
+p66
+aVSergio Rodriguez POR 04/07/2007 POR @ DAL L 26 7 3 6 50.0 1 3 33.3 0 0 - 2 1 3 4 2 0 3 2 -9
+p67
+aVJarrett Jack POR 04/07/2007 POR @ DAL L 30 18 6 12 50.0 1 3 33.3 5 6 83.3 0 4 4 4 0 0 2 3 -18
+p68
+aVJamaal Magloire POR 04/07/2007 POR @ DAL L 33 8 4 11 36.4 0 0 - 0 2 0.0 4 5 9 0 1 0 1 4 -13
+p69
+aVFred Jones POR 04/06/2007 POR @ HOU W 17 3 1 5 20.0 0 2 0.0 1 2 50.0 0 2 2 1 1 0 0 1 -1
+p70
+aVMartell Webster POR 04/06/2007 POR @ HOU W 10 1 0 1 0.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 0
+p71
+aVBrandon Roy POR 04/06/2007 POR @ HOU W 37 24 10 20 50.0 2 3 66.7 2 2 100.0 0 2 2 3 0 0 2 2 12
+p72
+aVTravis Outlaw POR 04/06/2007 POR @ HOU W 30 9 3 8 37.5 0 0 - 3 4 75.0 0 2 2 1 1 2 2 2 -2
+p73
+aVDan Dickau POR 04/06/2007 POR @ HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p74
+aVLuke Schenscher POR 04/06/2007 POR @ HOU W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p75
+aVRaef LaFrentz POR 04/06/2007 POR @ HOU W 26 5 2 3 66.7 0 1 0.0 1 2 50.0 1 6 7 1 1 3 0 4 9
+p76
+aVSergio Rodriguez POR 04/06/2007 POR @ HOU W 16 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 2 0 0 2 0 -6
+p77
+aVJamaal Magloire POR 04/06/2007 POR @ HOU W 36 12 5 12 41.7 0 0 - 2 5 40.0 4 10 14 0 0 0 2 2 2
+p78
+aVIme Udoka POR 04/06/2007 POR @ HOU W 30 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 2 2 0 0 2 12
+p79
+aVJarrett Jack POR 04/06/2007 POR @ HOU W 35 23 7 9 77.8 3 4 75.0 6 8 75.0 0 3 3 3 0 0 2 2 7
+p80
+aVJarrett Jack POR 04/04/2007 POR vs. UTA W 30 14 4 6 66.7 2 3 66.7 4 4 100.0 0 4 4 3 4 0 2 3 6
+p81
+aVFred Jones POR 04/04/2007 POR vs. UTA W 23 11 3 6 50.0 1 2 50.0 4 4 100.0 0 2 2 2 0 0 1 0 -9
+p82
+aVDan Dickau POR 04/04/2007 POR vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p83
+aVMartell Webster POR 04/04/2007 POR vs. UTA W 13 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 2 -4
+p84
+aVBrandon Roy POR 04/04/2007 POR vs. UTA W 34 29 8 15 53.3 2 2 100.0 11 13 84.6 0 4 4 5 2 1 3 3 8
+p85
+aVRaef LaFrentz POR 04/04/2007 POR vs. UTA W 13 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 2 3 -3
+p86
+aVJamaal Magloire POR 04/04/2007 POR vs. UTA W 36 7 3 5 60.0 0 0 - 1 2 50.0 0 12 12 1 1 4 2 3 4
+p87
+aVLuke Schenscher POR 04/04/2007 POR vs. UTA W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 0 2 -1
+p88
+aVSergio Rodriguez POR 04/04/2007 POR vs. UTA W 18 5 2 4 50.0 0 2 0.0 1 1 100.0 0 3 3 4 0 0 5 1 -1
+p89
+aVIme Udoka POR 04/04/2007 POR vs. UTA W 26 3 1 9 11.1 1 4 25.0 0 0 - 1 2 3 1 1 0 0 2 15
+p90
+aVTravis Outlaw POR 04/04/2007 POR vs. UTA W 36 22 9 18 50.0 2 3 66.7 2 2 100.0 3 0 3 0 2 1 0 2 8
+p91
+aVLaMarcus Aldridge POR 03/31/2007 POR vs. LAC L 7 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -4
+p92
+aVMartell Webster POR 03/31/2007 POR vs. LAC L 31 10 4 8 50.0 2 4 50.0 0 0 - 0 4 4 1 0 1 2 2 10
+p93
+aVSergio Rodriguez POR 03/31/2007 POR vs. LAC L 20 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 5 0 0 2 3 -10
+p94
+aVRaef LaFrentz POR 03/31/2007 POR vs. LAC L 18 15 5 9 55.6 1 4 25.0 4 4 100.0 1 4 5 0 1 0 0 5 0
+p95
+aVBrandon Roy POR 03/31/2007 POR vs. LAC L 37 23 9 14 64.3 0 1 0.0 5 5 100.0 1 4 5 4 1 0 1 3 -18
+p96
+aVLuke Schenscher POR 03/31/2007 POR vs. LAC L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p97
+aVDan Dickau POR 03/31/2007 POR vs. LAC L 15 6 1 1 100.0 1 1 100.0 3 3 100.0 0 1 1 3 1 0 1 1 5
+p98
+aVJamaal Magloire POR 03/31/2007 POR vs. LAC L 40 13 5 13 38.5 0 0 - 3 5 60.0 3 3 6 1 1 2 3 3 -15
+p99
+aVTravis Outlaw POR 03/31/2007 POR vs. LAC L 34 13 2 10 20.0 0 1 0.0 9 10 90.0 0 2 2 0 3 0 0 1 -14
+p100
+aVJarrett Jack POR 03/31/2007 POR vs. LAC L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -15
+p101
+aVFred Jones POR 03/31/2007 POR vs. LAC L 26 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 3 0 0 1 -9
+p102
+aVJamaal Magloire POR 03/29/2007 POR vs. MEM L 28 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 2 1 4 10
+p103
+aVMartell Webster POR 03/29/2007 POR vs. MEM L 14 1 0 6 0.0 0 3 0.0 1 2 50.0 1 0 1 0 0 0 1 1 -16
+p104
+aVTravis Outlaw POR 03/29/2007 POR vs. MEM L 25 13 6 10 60.0 0 1 0.0 1 2 50.0 0 3 3 1 1 0 0 4 7
+p105
+aVZach Randolph POR 03/29/2007 POR vs. MEM L 40 43 16 26 61.5 0 0 - 11 16 68.8 7 10 17 5 0 2 2 2 2
+p106
+aVLaMarcus Aldridge POR 03/29/2007 POR vs. MEM L 28 6 3 10 30.0 0 0 - 0 0 - 1 5 6 0 1 2 0 4 -20
+p107
+aVSergio Rodriguez POR 03/29/2007 POR vs. MEM L 21 2 1 2 50.0 0 0 - 0 0 - 0 1 1 8 0 0 1 2 9
+p108
+aVBrandon Roy POR 03/29/2007 POR vs. MEM L 39 13 5 12 41.7 0 4 0.0 3 4 75.0 1 3 4 5 1 0 4 3 -4
+p109
+aVJarrett Jack POR 03/29/2007 POR vs. MEM L 22 5 1 6 16.7 0 1 0.0 3 4 75.0 0 1 1 3 1 0 1 2 -8
+p110
+aVFred Jones POR 03/29/2007 POR vs. MEM L 14 3 1 4 25.0 0 1 0.0 1 1 100.0 1 1 2 3 1 0 0 1 4
+p111
+aVDan Dickau POR 03/29/2007 POR vs. MEM L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -4
+p112
+aVSergio Rodriguez POR 03/26/2007 POR @ CHI L 11 9 2 2 100.0 0 0 - 5 6 83.3 0 2 2 1 1 0 3 4 2
+p113
+aVFred Jones POR 03/26/2007 POR @ CHI L 20 4 1 2 50.0 0 1 0.0 2 2 100.0 1 2 3 1 1 1 0 1 -5
+p114
+aVJamaal Magloire POR 03/26/2007 POR @ CHI L 19 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 1 0 1 3 -6
+p115
+aVJarrett Jack POR 03/26/2007 POR @ CHI L 37 10 3 6 50.0 2 3 66.7 2 2 100.0 0 2 2 9 1 0 5 5 -13
+p116
+aVMartell Webster POR 03/26/2007 POR @ CHI L 39 14 5 9 55.6 2 4 50.0 2 2 100.0 1 3 4 1 0 0 3 4 -14
+p117
+aVZach Randolph POR 03/26/2007 POR @ CHI L 35 17 4 10 40.0 0 0 - 9 11 81.8 0 8 8 5 1 0 7 4 -11
+p118
+aVDan Dickau POR 03/26/2007 POR @ CHI L 9 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 0 -6
+p119
+aVLaMarcus Aldridge POR 03/26/2007 POR @ CHI L 34 20 10 15 66.7 0 0 - 0 0 - 3 5 8 0 1 0 2 3 -4
+p120
+aVIme Udoka POR 03/26/2007 POR @ CHI L 12 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 1 1 6
+p121
+aVTravis Outlaw POR 03/26/2007 POR @ CHI L 24 4 2 8 25.0 0 1 0.0 0 0 - 0 4 4 1 0 1 0 0 -4
+p122
+aVIme Udoka POR 03/25/2007 POR @ MIN L 21 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 1 1 0 0 1 0
+p123
+aVBrandon Roy POR 03/25/2007 POR @ MIN L 36 22 9 14 64.3 1 2 50.0 3 4 75.0 2 3 5 2 2 0 3 3 0
+p124
+aVZach Randolph POR 03/25/2007 POR @ MIN L 34 19 7 13 53.8 0 1 0.0 5 6 83.3 3 6 9 6 0 0 3 3 -5
+p125
+aVLaMarcus Aldridge POR 03/25/2007 POR @ MIN L 29 13 5 12 41.7 0 0 - 3 3 100.0 5 1 6 0 0 1 2 3 7
+p126
+aVDan Dickau POR 03/25/2007 POR @ MIN L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 1 5
+p127
+aVSergio Rodriguez POR 03/25/2007 POR @ MIN L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -5
+p128
+aVMartell Webster POR 03/25/2007 POR @ MIN L 24 13 5 9 55.6 3 6 50.0 0 0 - 0 1 1 1 0 0 1 1 -1
+p129
+aVTravis Outlaw POR 03/25/2007 POR @ MIN L 12 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 2 1 -6
+p130
+aVJamaal Magloire POR 03/25/2007 POR @ MIN L 24 10 4 6 66.7 0 0 - 2 4 50.0 5 4 9 0 0 0 2 3 2
+p131
+aVJarrett Jack POR 03/25/2007 POR @ MIN L 34 7 3 9 33.3 0 1 0.0 1 1 100.0 0 2 2 5 3 0 2 2 2
+p132
+aVFred Jones POR 03/25/2007 POR @ MIN L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -4
+p133
+aVRaef LaFrentz POR 03/25/2007 POR @ MIN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p134
+aVDan Dickau POR 03/23/2007 POR @ ATL W 5 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 4 6
+p135
+aVMartell Webster POR 03/23/2007 POR @ ATL W 29 8 4 13 30.8 0 2 0.0 0 0 - 1 3 4 2 2 0 1 1 2
+p136
+aVLaMarcus Aldridge POR 03/23/2007 POR @ ATL W 48 27 12 21 57.1 0 0 - 3 6 50.0 9 5 14 0 2 3 0 3 11
+p137
+aVIme Udoka POR 03/23/2007 POR @ ATL W 26 2 1 4 25.0 0 2 0.0 0 0 - 3 1 4 2 0 0 0 2 2
+p138
+aVFred Jones POR 03/23/2007 POR @ ATL W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p139
+aVJamaal Magloire POR 03/23/2007 POR @ ATL W 39 9 3 7 42.9 0 0 - 3 7 42.9 4 12 16 1 1 3 5 3 1
+p140
+aVBrandon Roy POR 03/23/2007 POR @ ATL W 40 23 7 20 35.0 2 3 66.7 7 8 87.5 3 6 9 5 2 0 3 3 -2
+p141
+aVSergio Rodriguez POR 03/23/2007 POR @ ATL W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -3
+p142
+aVJarrett Jack POR 03/23/2007 POR @ ATL W 39 18 4 13 30.8 1 5 20.0 9 9 100.0 0 4 4 7 0 0 4 2 7
+p143
+aVTravis Outlaw POR 03/23/2007 POR @ ATL W 18 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 0 0 0 3 4 -6
+p144
+aVLaMarcus Aldridge POR 03/22/2007 POR @ NYK W 35 12 4 9 44.4 0 0 - 4 5 80.0 2 3 5 2 1 2 0 3 8
+p145
+aVJamaal Magloire POR 03/22/2007 POR @ NYK W 36 14 5 9 55.6 0 0 - 4 10 40.0 3 13 16 0 0 1 3 3 15
+p146
+aVJarrett Jack POR 03/22/2007 POR @ NYK W 32 15 5 7 71.4 2 3 66.7 3 3 100.0 0 0 0 4 1 0 1 3 9
+p147
+aVBrandon Roy POR 03/22/2007 POR @ NYK W 37 24 8 18 44.4 1 4 25.0 7 9 77.8 1 2 3 3 1 1 1 1 17
+p148
+aVLuke Schenscher POR 03/22/2007 POR @ NYK W 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -5
+p149
+aVSergio Rodriguez POR 03/22/2007 POR @ NYK W 15 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 4 2 0 1 0 -3
+p150
+aVIme Udoka POR 03/22/2007 POR @ NYK W 28 7 3 5 60.0 1 3 33.3 0 0 - 2 3 5 3 1 1 0 0 16
+p151
+aVMartell Webster POR 03/22/2007 POR @ NYK W 16 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 -12
+p152
+aVTravis Outlaw POR 03/22/2007 POR @ NYK W 21 9 4 9 44.4 0 0 - 1 2 50.0 0 2 2 0 0 3 0 3 -6
+p153
+aVFred Jones POR 03/22/2007 POR @ NYK W 16 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -9
+p154
+aVJamaal Magloire POR 03/20/2007 POR vs. WAS W 28 8 4 7 57.1 0 0 - 0 2 0.0 1 6 7 0 1 1 2 3 -6
+p155
+aVLaMarcus Aldridge POR 03/20/2007 POR vs. WAS W 39 25 9 15 60.0 0 0 - 7 8 87.5 3 5 8 2 3 2 1 3 0
+p156
+aVIme Udoka POR 03/20/2007 POR vs. WAS W 28 8 3 9 33.3 0 4 0.0 2 2 100.0 1 4 5 1 1 0 0 4 -9
+p157
+aVSergio Rodriguez POR 03/20/2007 POR vs. WAS W 22 9 4 9 44.4 1 3 33.3 0 0 - 1 1 2 9 0 0 3 1 7
+p158
+aVBrandon Roy POR 03/20/2007 POR vs. WAS W 36 19 7 17 41.2 1 2 50.0 4 4 100.0 2 10 12 3 1 0 5 3 -3
+p159
+aVTravis Outlaw POR 03/20/2007 POR vs. WAS W 29 7 3 12 25.0 0 1 0.0 1 2 50.0 0 3 3 1 0 0 0 3 9
+p160
+aVDan Dickau POR 03/20/2007 POR vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p161
+aVMartell Webster POR 03/20/2007 POR vs. WAS W 20 11 3 5 60.0 2 4 50.0 3 3 100.0 0 4 4 1 1 0 0 0 11
+p162
+aVFred Jones POR 03/20/2007 POR vs. WAS W 12 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 4 5
+p163
+aVJarrett Jack POR 03/20/2007 POR vs. WAS W 26 7 2 8 25.0 0 2 0.0 3 4 75.0 0 4 4 5 1 0 2 1 -5
+p164
+aVSergio Rodriguez POR 03/18/2007 POR vs. SEA L 9 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 0 1 2
+p165
+aVBrandon Roy POR 03/18/2007 POR vs. SEA L 40 14 6 13 46.2 0 1 0.0 2 2 100.0 0 3 3 5 0 0 0 2 -12
+p166
+aVJarrett Jack POR 03/18/2007 POR vs. SEA L 26 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 5 0 0 3 1 -11
+p167
+aVFred Jones POR 03/18/2007 POR vs. SEA L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -2
+p168
+aVLaMarcus Aldridge POR 03/18/2007 POR vs. SEA L 24 8 4 9 44.4 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -23
+p169
+aVZach Randolph POR 03/18/2007 POR vs. SEA L 31 16 7 17 41.2 0 2 0.0 2 2 100.0 1 7 8 4 0 1 5 2 -13
+p170
+aVJamaal Magloire POR 03/18/2007 POR vs. SEA L 24 11 4 7 57.1 0 0 - 3 4 75.0 5 7 12 2 0 1 2 5 5
+p171
+aVIme Udoka POR 03/18/2007 POR vs. SEA L 18 8 3 5 60.0 2 4 50.0 0 0 - 1 5 6 1 1 0 2 4 -12
+p172
+aVTravis Outlaw POR 03/18/2007 POR vs. SEA L 18 5 2 8 25.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 3 -5
+p173
+aVDan Dickau POR 03/18/2007 POR vs. SEA L 15 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 2 -13
+p174
+aVMartell Webster POR 03/18/2007 POR vs. SEA L 29 6 3 9 33.3 0 3 0.0 0 0 - 1 3 4 0 0 0 1 1 -6
+p175
+aVZach Randolph POR 03/16/2007 POR @ LAL L 38 31 11 20 55.0 1 2 50.0 8 8 100.0 2 5 7 6 1 0 3 5 -1
+p176
+aVTravis Outlaw POR 03/16/2007 POR @ LAL L 15 11 4 9 44.4 0 0 - 3 4 75.0 3 0 3 0 0 0 0 1 -3
+p177
+aVJarrett Jack POR 03/16/2007 POR @ LAL L 39 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 5 2 0 6 1 -7
+p178
+aVFred Jones POR 03/16/2007 POR @ LAL L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p179
+aVMartell Webster POR 03/16/2007 POR @ LAL L 16 9 3 5 60.0 3 4 75.0 0 0 - 0 2 2 1 0 0 0 1 -1
+p180
+aVDan Dickau POR 03/16/2007 POR @ LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 0
+p181
+aVBrandon Roy POR 03/16/2007 POR @ LAL L 44 14 6 21 28.6 0 3 0.0 2 2 100.0 4 3 7 5 2 1 2 3 3
+p182
+aVIme Udoka POR 03/16/2007 POR @ LAL L 40 19 7 12 58.3 5 7 71.4 0 0 - 1 3 4 4 2 0 0 6 0
+p183
+aVLaMarcus Aldridge POR 03/16/2007 POR @ LAL L 32 16 8 11 72.7 0 0 - 0 1 0.0 4 6 10 0 0 3 0 5 -3
+p184
+aVSergio Rodriguez POR 03/16/2007 POR @ LAL L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p185
+aVJamaal Magloire POR 03/16/2007 POR @ LAL L 23 6 3 7 42.9 0 0 - 0 0 - 2 6 8 2 0 3 2 3 -4
+p186
+aVTravis Outlaw POR 03/14/2007 POR vs. DET L 16 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -16
+p187
+aVJarrett Jack POR 03/14/2007 POR vs. DET L 36 5 2 6 33.3 1 2 50.0 0 1 0.0 0 0 0 5 2 0 3 1 -10
+p188
+aVBrandon Roy POR 03/14/2007 POR vs. DET L 40 15 4 8 50.0 2 3 66.7 5 7 71.4 0 4 4 2 0 0 4 2 -3
+p189
+aVLaMarcus Aldridge POR 03/14/2007 POR vs. DET L 35 14 7 15 46.7 0 0 - 0 0 - 7 3 10 1 2 3 1 2 4
+p190
+aVMartell Webster POR 03/14/2007 POR vs. DET L 18 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -7
+p191
+aVSergio Rodriguez POR 03/14/2007 POR vs. DET L 8 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 2 2 0 1 0 -8
+p192
+aVJamaal Magloire POR 03/14/2007 POR vs. DET L 11 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -12
+p193
+aVDan Dickau POR 03/14/2007 POR vs. DET L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p194
+aVIme Udoka POR 03/14/2007 POR vs. DET L 26 6 2 4 50.0 2 4 50.0 0 0 - 0 3 3 0 0 0 1 1 -1
+p195
+aVZach Randolph POR 03/14/2007 POR vs. DET L 36 21 6 15 40.0 0 2 0.0 9 9 100.0 2 9 11 2 0 1 2 0 1
+p196
+aVFred Jones POR 03/14/2007 POR vs. DET L 13 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 5 1 0 1 2 -10
+p197
+aVIme Udoka POR 03/13/2007 POR @ DEN L 31 8 3 7 42.9 2 2 100.0 0 0 - 0 3 3 1 2 1 3 3 0
+p198
+aVSergio Rodriguez POR 03/13/2007 POR @ DEN L 6 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 0 -11
+p199
+aVZach Randolph POR 03/13/2007 POR @ DEN L 39 26 10 27 37.0 0 0 - 6 8 75.0 3 5 8 2 2 0 5 2 6
+p200
+aVJarrett Jack POR 03/13/2007 POR @ DEN L 40 13 5 11 45.5 1 2 50.0 2 2 100.0 0 6 6 9 1 0 4 5 -8
+p201
+aVLaMarcus Aldridge POR 03/13/2007 POR @ DEN L 33 24 11 17 64.7 0 0 - 2 5 40.0 10 7 17 2 0 4 1 3 -1
+p202
+aVBrandon Roy POR 03/13/2007 POR @ DEN L 44 16 6 13 46.2 1 2 50.0 3 4 75.0 1 5 6 6 4 0 1 6 -6
+p203
+aVJamaal Magloire POR 03/13/2007 POR @ DEN L 11 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 1 1 1 -10
+p204
+aVMartell Webster POR 03/13/2007 POR @ DEN L 13 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 1 2 -11
+p205
+aVTravis Outlaw POR 03/13/2007 POR @ DEN L 25 8 4 12 33.3 0 1 0.0 0 0 - 1 3 4 3 3 2 0 2 1
+p206
+aVDan Dickau POR 03/11/2007 POR vs. GSW W 2 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p207
+aVFred Jones POR 03/11/2007 POR vs. GSW W 19 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 3 1 0 1 3 9
+p208
+aVJarrett Jack POR 03/11/2007 POR vs. GSW W 31 8 3 7 42.9 1 2 50.0 1 3 33.3 0 4 4 8 1 0 3 3 8
+p209
+aVIme Udoka POR 03/11/2007 POR vs. GSW W 29 15 6 9 66.7 3 4 75.0 0 1 0.0 2 3 5 3 1 0 2 0 9
+p210
+aVTravis Outlaw POR 03/11/2007 POR vs. GSW W 24 9 3 6 50.0 0 1 0.0 3 4 75.0 0 2 2 0 2 3 1 3 9
+p211
+aVJeremy Richardson POR 03/11/2007 POR vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p212
+aVSergio Rodriguez POR 03/11/2007 POR vs. GSW W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 5 1 0 0 1 13
+p213
+aVJamaal Magloire POR 03/11/2007 POR vs. GSW W 11 2 1 2 50.0 0 0 - 0 0 - 1 6 7 0 0 1 2 2 5
+p214
+aVLaMarcus Aldridge POR 03/11/2007 POR vs. GSW W 28 7 3 7 42.9 0 0 - 1 1 100.0 3 6 9 0 1 1 2 2 10
+p215
+aVMartell Webster POR 03/11/2007 POR vs. GSW W 15 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 1 1 0 1 1 0
+p216
+aVBrandon Roy POR 03/11/2007 POR vs. GSW W 35 26 9 18 50.0 3 7 42.9 5 5 100.0 0 2 2 2 0 0 3 2 13
+p217
+aVZach Randolph POR 03/11/2007 POR vs. GSW W 33 25 11 21 52.4 1 3 33.3 2 3 66.7 6 7 13 0 1 1 3 1 14
+p218
+aVJamaal Magloire POR 03/06/2007 POR vs. SAS L 19 6 1 3 33.3 0 0 - 4 8 50.0 4 2 6 1 0 0 2 5 -7
+p219
+aVTravis Outlaw POR 03/06/2007 POR vs. SAS L 16 10 4 8 50.0 0 0 - 2 2 100.0 1 4 5 0 0 2 0 0 0
+p220
+aVFred Jones POR 03/06/2007 POR vs. SAS L 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 2 1 1 1 -2
+p221
+aVMartell Webster POR 03/06/2007 POR vs. SAS L 17 3 1 5 20.0 0 2 0.0 1 4 25.0 0 0 0 0 0 0 0 1 0
+p222
+aVSergio Rodriguez POR 03/06/2007 POR vs. SAS L 14 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 6 0 0 0 2 -2
+p223
+aVBrandon Roy POR 03/06/2007 POR vs. SAS L 37 19 8 18 44.4 1 1 100.0 2 3 66.7 1 4 5 9 2 0 1 2 -3
+p224
+aVZach Randolph POR 03/06/2007 POR vs. SAS L 32 14 6 14 42.9 1 2 50.0 1 2 50.0 4 8 12 2 1 0 1 2 -2
+p225
+aVJarrett Jack POR 03/06/2007 POR vs. SAS L 31 6 3 6 50.0 0 2 0.0 0 1 0.0 0 2 2 3 2 0 2 0 -3
+p226
+aVIme Udoka POR 03/06/2007 POR vs. SAS L 31 13 6 8 75.0 1 2 50.0 0 0 - 0 4 4 2 0 0 0 2 -3
+p227
+aVLaMarcus Aldridge POR 03/06/2007 POR vs. SAS L 28 14 7 11 63.6 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -3
+p228
+aVBrandon Roy POR 03/03/2007 POR vs. SAC L 40 15 5 10 50.0 2 5 40.0 3 3 100.0 2 1 3 7 1 0 4 2 -3
+p229
+aVSergio Rodriguez POR 03/03/2007 POR vs. SAC L 9 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 1 0 1 0 -3
+p230
+aVIme Udoka POR 03/03/2007 POR vs. SAC L 27 10 4 7 57.1 2 3 66.7 0 0 - 1 3 4 1 0 0 1 3 -2
+p231
+aVZach Randolph POR 03/03/2007 POR vs. SAC L 37 24 10 20 50.0 1 1 100.0 3 6 50.0 3 9 12 3 0 0 6 4 -3
+p232
+aVFred Jones POR 03/03/2007 POR vs. SAC L 11 2 0 2 0.0 0 2 0.0 2 2 100.0 1 1 2 0 1 0 1 0 -8
+p233
+aVJarrett Jack POR 03/03/2007 POR vs. SAC L 33 13 5 7 71.4 1 1 100.0 2 2 100.0 1 2 3 5 0 0 1 4 -3
+p234
+aVMartell Webster POR 03/03/2007 POR vs. SAC L 24 14 4 7 57.1 1 3 33.3 5 6 83.3 1 7 8 0 1 0 1 4 -5
+p235
+aVLaMarcus Aldridge POR 03/03/2007 POR vs. SAC L 28 3 1 12 8.3 0 0 - 1 2 50.0 5 5 10 0 1 1 0 4 1
+p236
+aVTravis Outlaw POR 03/03/2007 POR vs. SAC L 12 2 1 7 14.3 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -9
+p237
+aVJamaal Magloire POR 03/03/2007 POR vs. SAC L 19 9 3 6 50.0 0 0 - 3 4 75.0 2 1 3 0 0 0 3 2 -5
+p238
+aVTravis Outlaw POR 03/01/2007 POR vs. CHA W 21 14 5 9 55.6 1 2 50.0 3 4 75.0 2 2 4 2 1 2 0 4 18
+p239
+aVDan Dickau POR 03/01/2007 POR vs. CHA W 6 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 2 -7
+p240
+aVZach Randolph POR 03/01/2007 POR vs. CHA W 29 20 7 14 50.0 1 3 33.3 5 5 100.0 0 6 6 6 1 0 2 1 30
+p241
+aVJamaal Magloire POR 03/01/2007 POR vs. CHA W 16 6 3 6 50.0 0 0 - 0 2 0.0 0 5 5 0 0 0 4 4 13
+p242
+aVSergio Rodriguez POR 03/01/2007 POR vs. CHA W 15 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 6 1 0 0 0 8
+p243
+aVFred Jones POR 03/01/2007 POR vs. CHA W 23 4 2 6 33.3 0 0 - 0 0 - 0 0 0 4 1 0 0 3 21
+p244
+aVIme Udoka POR 03/01/2007 POR vs. CHA W 19 11 4 4 100.0 2 2 100.0 1 1 100.0 2 2 4 3 2 0 0 2 21
+p245
+aVMartell Webster POR 03/01/2007 POR vs. CHA W 29 20 7 10 70.0 4 6 66.7 2 4 50.0 0 3 3 0 1 0 0 1 16
+p246
+aVLaMarcus Aldridge POR 03/01/2007 POR vs. CHA W 26 30 12 19 63.2 0 0 - 6 6 100.0 4 2 6 0 0 2 1 2 16
+p247
+aVJarrett Jack POR 03/01/2007 POR vs. CHA W 25 4 1 4 25.0 1 3 33.3 1 1 100.0 1 5 6 3 0 1 1 1 16
+p248
+aVBrandon Roy POR 03/01/2007 POR vs. CHA W 30 14 6 8 75.0 2 2 100.0 0 0 - 1 7 8 9 0 0 3 2 33
+p249
+aVDan Dickau POR 02/26/2007 POR @ SEA L 9 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 2 0 0 1 1 -2
+p250
+aVZach Randolph POR 02/26/2007 POR @ SEA L 28 11 5 13 38.5 0 1 0.0 1 2 50.0 0 8 8 3 0 0 3 2 -18
+p251
+aVJarrett Jack POR 02/26/2007 POR @ SEA L 24 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 3 1 0 1 1 -21
+p252
+aVTravis Outlaw POR 02/26/2007 POR @ SEA L 29 14 7 14 50.0 0 0 - 0 0 - 1 3 4 1 0 1 0 3 -13
+p253
+aVIme Udoka POR 02/26/2007 POR @ SEA L 24 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 0 0 1 0 1 -16
+p254
+aVMartell Webster POR 02/26/2007 POR @ SEA L 15 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 1 1 0 1 1 0
+p255
+aVSergio Rodriguez POR 02/26/2007 POR @ SEA L 13 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 4 0 0 2 2 -5
+p256
+aVBrandon Roy POR 02/26/2007 POR @ SEA L 37 6 3 13 23.1 0 3 0.0 0 0 - 0 3 3 5 1 0 3 2 -21
+p257
+aVJamaal Magloire POR 02/26/2007 POR @ SEA L 20 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 1 2 0 -13
+p258
+aVLaMarcus Aldridge POR 02/26/2007 POR @ SEA L 26 12 5 10 50.0 0 0 - 2 2 100.0 3 5 8 1 0 3 0 3 -6
+p259
+aVFred Jones POR 02/26/2007 POR @ SEA L 16 4 2 3 66.7 0 0 - 0 0 - 1 2 3 4 2 0 2 1 -5
+p260
+aVDan Dickau POR 02/23/2007 POR vs. MEM L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 6 1 0 1 3 -6
+p261
+aVIme Udoka POR 02/23/2007 POR vs. MEM L 36 8 3 6 50.0 1 2 50.0 1 2 50.0 2 6 8 2 2 1 3 2 9
+p262
+aVZach Randolph POR 02/23/2007 POR vs. MEM L 39 25 10 23 43.5 1 1 100.0 4 6 66.7 3 4 7 1 2 0 2 4 8
+p263
+aVBrandon Roy POR 02/23/2007 POR vs. MEM L 37 19 7 15 46.7 3 3 100.0 2 2 100.0 1 4 5 6 0 0 2 3 -5
+p264
+aVLaMarcus Aldridge POR 02/23/2007 POR vs. MEM L 10 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 0 1 4 -9
+p265
+aVJarrett Jack POR 02/23/2007 POR vs. MEM L 37 18 7 10 70.0 2 5 40.0 2 2 100.0 0 2 2 3 1 0 3 2 11
+p266
+aVJamaal Magloire POR 02/23/2007 POR vs. MEM L 32 14 6 9 66.7 0 0 - 2 2 100.0 4 6 10 2 2 2 1 3 14
+p267
+aVMartell Webster POR 02/23/2007 POR vs. MEM L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -10
+p268
+aVTravis Outlaw POR 02/23/2007 POR vs. MEM L 16 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 0 2 1 2 -15
+p269
+aVSergio Rodriguez POR 02/23/2007 POR vs. MEM L 12 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 -2
+p270
+aVTravis Outlaw POR 02/21/2007 POR @ LAL W 6 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 1 1 0 1 1 6
+p271
+aVZach Randolph POR 02/21/2007 POR @ LAL W 42 22 9 16 56.3 0 1 0.0 4 4 100.0 2 7 9 1 1 1 3 1 -2
+p272
+aVLaMarcus Aldridge POR 02/21/2007 POR @ LAL W 25 18 9 12 75.0 0 0 - 0 0 - 0 2 2 0 0 2 2 3 10
+p273
+aVDan Dickau POR 02/21/2007 POR @ LAL W 21 6 1 5 20.0 0 3 0.0 4 4 100.0 0 4 4 5 1 0 2 2 9
+p274
+aVJoel Przybilla POR 02/21/2007 POR @ LAL W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -2
+p275
+aVBrandon Roy POR 02/21/2007 POR @ LAL W 37 16 6 11 54.5 1 2 50.0 3 6 50.0 0 0 0 7 3 0 1 4 -4
+p276
+aVIme Udoka POR 02/21/2007 POR @ LAL W 37 9 4 5 80.0 1 2 50.0 0 0 - 0 4 4 3 0 0 0 4 -6
+p277
+aVJamaal Magloire POR 02/21/2007 POR @ LAL W 19 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 1 0 0 2 2
+p278
+aVJarrett Jack POR 02/21/2007 POR @ LAL W 30 30 9 12 75.0 2 3 66.7 10 11 90.9 0 2 2 7 0 0 2 4 -3
+p279
+aVMartell Webster POR 02/21/2007 POR @ LAL W 13 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 10
+p280
+aVLaMarcus Aldridge POR 02/20/2007 POR vs. UTA W 27 9 3 5 60.0 0 0 - 3 4 75.0 1 4 5 0 0 2 0 6 1
+p281
+aVTravis Outlaw POR 02/20/2007 POR vs. UTA W 17 8 4 8 50.0 0 0 - 0 0 - 1 1 2 2 1 0 1 3 -3
+p282
+aVJarrett Jack POR 02/20/2007 POR vs. UTA W 28 10 4 10 40.0 2 5 40.0 0 0 - 0 2 2 6 1 0 4 3 3
+p283
+aVDan Dickau POR 02/20/2007 POR vs. UTA W 18 11 1 5 20.0 1 2 50.0 8 9 88.9 0 1 1 5 0 0 1 3 12
+p284
+aVJoel Przybilla POR 02/20/2007 POR vs. UTA W 19 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 1 1 0 4 3
+p285
+aVBrandon Roy POR 02/20/2007 POR vs. UTA W 38 27 11 15 73.3 2 3 66.7 3 6 50.0 1 1 2 7 1 1 2 1 -1
+p286
+aVJuan Dixon POR 02/20/2007 POR vs. UTA W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p287
+aVIme Udoka POR 02/20/2007 POR vs. UTA W 29 15 6 9 66.7 2 4 50.0 1 3 33.3 1 1 2 0 0 0 0 3 4
+p288
+aVMartell Webster POR 02/20/2007 POR vs. UTA W 19 0 0 5 0.0 0 2 0.0 0 0 - 1 4 5 0 0 2 1 0 -1
+p289
+aVZach Randolph POR 02/20/2007 POR vs. UTA W 36 22 9 18 50.0 0 1 0.0 4 6 66.7 4 8 12 1 3 0 2 4 4
+p290
+aVJoel Przybilla POR 02/14/2007 POR @ ORL L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -10
+p291
+aVDan Dickau POR 02/14/2007 POR @ ORL L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 6
+p292
+aVZach Randolph POR 02/14/2007 POR @ ORL L 38 28 12 27 44.4 0 1 0.0 4 4 100.0 5 5 10 2 1 0 1 2 -18
+p293
+aVJarrett Jack POR 02/14/2007 POR @ ORL L 38 12 2 7 28.6 1 2 50.0 7 7 100.0 1 1 2 5 0 0 1 1 -14
+p294
+aVBrandon Roy POR 02/14/2007 POR @ ORL L 41 19 8 16 50.0 1 1 100.0 2 2 100.0 1 5 6 2 2 0 3 2 -20
+p295
+aVMartell Webster POR 02/14/2007 POR @ ORL L 15 4 2 5 40.0 0 3 0.0 0 0 - 1 2 3 0 0 1 1 0 5
+p296
+aVJamaal Magloire POR 02/14/2007 POR @ ORL L 22 7 2 7 28.6 0 0 - 3 5 60.0 3 4 7 0 0 0 1 4 -15
+p297
+aVIme Udoka POR 02/14/2007 POR @ ORL L 20 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 0 1 0 0 0 -13
+p298
+aVTravis Outlaw POR 02/14/2007 POR @ ORL L 19 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 10
+p299
+aVJuan Dixon POR 02/14/2007 POR @ ORL L 18 5 2 4 50.0 1 2 50.0 0 0 - 1 3 4 1 1 0 0 2 -5
+p300
+aVLaMarcus Aldridge POR 02/14/2007 POR @ ORL L 16 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 5 14
+p301
+aVJuan Dixon POR 02/13/2007 POR @ MIA L 15 12 4 8 50.0 2 3 66.7 2 2 100.0 0 0 0 0 0 1 2 1 -7
+p302
+aVIme Udoka POR 02/13/2007 POR @ MIA L 35 14 5 9 55.6 2 4 50.0 2 2 100.0 3 4 7 1 0 0 2 0 -11
+p303
+aVDan Dickau POR 02/13/2007 POR @ MIA L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p304
+aVZach Randolph POR 02/13/2007 POR @ MIA L 36 17 6 16 37.5 0 0 - 5 6 83.3 4 2 6 2 0 0 3 4 -10
+p305
+aVJamaal Magloire POR 02/13/2007 POR @ MIA L 27 4 2 4 50.0 0 0 - 0 1 0.0 2 3 5 1 0 1 0 0 -18
+p306
+aVMartell Webster POR 02/13/2007 POR @ MIA L 13 3 1 4 25.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 2 -8
+p307
+aVJarrett Jack POR 02/13/2007 POR @ MIA L 42 16 6 13 46.2 2 3 66.7 2 4 50.0 1 3 4 5 1 0 2 2 -12
+p308
+aVBrandon Roy POR 02/13/2007 POR @ MIA L 37 15 7 16 43.8 1 4 25.0 0 0 - 2 1 3 4 0 0 3 1 -17
+p309
+aVTravis Outlaw POR 02/13/2007 POR @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p310
+aVLaMarcus Aldridge POR 02/13/2007 POR @ MIA L 16 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 1 0 0 -8
+p311
+aVJoel Przybilla POR 02/13/2007 POR @ MIA L 14 2 1 5 20.0 0 0 - 0 0 - 4 2 6 0 0 2 2 4 3
+p312
+aVMartell Webster POR 02/11/2007 POR @ WAS W 26 8 2 4 50.0 1 2 50.0 3 3 100.0 0 3 3 2 1 0 0 0 18
+p313
+aVJoel Przybilla POR 02/11/2007 POR @ WAS W 15 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 2 1 3 0
+p314
+aVBrandon Roy POR 02/11/2007 POR @ WAS W 28 7 2 8 25.0 0 2 0.0 3 5 60.0 0 3 3 1 1 0 3 1 2
+p315
+aVIme Udoka POR 02/11/2007 POR @ WAS W 22 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 2 1 0 1 3
+p316
+aVJuan Dixon POR 02/11/2007 POR @ WAS W 27 14 7 11 63.6 0 0 - 0 1 0.0 1 2 3 3 4 0 2 3 22
+p317
+aVLaMarcus Aldridge POR 02/11/2007 POR @ WAS W 30 18 9 13 69.2 0 0 - 0 2 0.0 7 3 10 0 1 1 1 4 18
+p318
+aVJarrett Jack POR 02/11/2007 POR @ WAS W 38 18 5 8 62.5 2 2 100.0 6 6 100.0 0 3 3 5 0 0 3 3 17
+p319
+aVZach Randolph POR 02/11/2007 POR @ WAS W 29 10 4 14 28.6 0 0 - 2 2 100.0 1 7 8 4 0 0 7 2 5
+p320
+aVJamaal Magloire POR 02/11/2007 POR @ WAS W 15 6 2 4 50.0 0 0 - 2 3 66.7 2 3 5 0 0 0 3 3 22
+p321
+aVTravis Outlaw POR 02/11/2007 POR @ WAS W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p322
+aVDan Dickau POR 02/11/2007 POR @ WAS W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 1
+p323
+aVBrandon Roy POR 02/09/2007 POR @ CHA W 44 15 5 13 38.5 1 3 33.3 4 5 80.0 2 6 8 3 0 0 5 4 4
+p324
+aVZach Randolph POR 02/09/2007 POR @ CHA W 46 40 13 27 48.1 1 2 50.0 13 15 86.7 1 8 9 3 0 1 3 4 10
+p325
+aVTravis Outlaw POR 02/09/2007 POR @ CHA W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -5
+p326
+aVJamaal Magloire POR 02/09/2007 POR @ CHA W 27 7 2 6 33.3 0 0 - 3 5 60.0 3 5 8 0 0 3 2 2 10
+p327
+aVJuan Dixon POR 02/09/2007 POR @ CHA W 6 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p328
+aVIme Udoka POR 02/09/2007 POR @ CHA W 41 14 6 10 60.0 2 3 66.7 0 0 - 4 4 8 0 0 0 1 3 8
+p329
+aVJarrett Jack POR 02/09/2007 POR @ CHA W 43 20 3 10 30.0 1 2 50.0 13 16 81.3 0 6 6 9 2 2 4 4 15
+p330
+aVDan Dickau POR 02/09/2007 POR @ CHA W 8 5 2 3 66.7 1 1 100.0 0 0 - 1 0 1 1 0 0 2 1 -5
+p331
+aVLaMarcus Aldridge POR 02/09/2007 POR @ CHA W 11 0 0 4 0.0 0 0 - 0 2 0.0 1 4 5 1 0 2 1 5 2
+p332
+aVJoel Przybilla POR 02/09/2007 POR @ CHA W 14 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 3 0 2 0
+p333
+aVMartell Webster POR 02/09/2007 POR @ CHA W 18 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 0 1
+p334
+aVJuan Dixon POR 02/06/2007 POR vs. PHX L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -1
+p335
+aVJarrett Jack POR 02/06/2007 POR vs. PHX L 34 9 2 8 25.0 0 3 0.0 5 5 100.0 0 3 3 7 4 0 4 2 -6
+p336
+aVLaMarcus Aldridge POR 02/06/2007 POR vs. PHX L 16 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 1 0 5 -10
+p337
+aVJoel Przybilla POR 02/06/2007 POR vs. PHX L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p338
+aVMartell Webster POR 02/06/2007 POR vs. PHX L 36 7 3 9 33.3 1 4 25.0 0 0 - 1 2 3 0 0 0 1 4 5
+p339
+aVJamaal Magloire POR 02/06/2007 POR vs. PHX L 12 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 0 1 1 3 0
+p340
+aVTravis Outlaw POR 02/06/2007 POR vs. PHX L 29 10 4 10 40.0 0 0 - 2 2 100.0 4 2 6 0 3 0 0 4 11
+p341
+aVBrandon Roy POR 02/06/2007 POR vs. PHX L 49 27 8 21 38.1 0 1 0.0 11 14 78.6 0 3 3 5 2 1 0 5 -11
+p342
+aVZach Randolph POR 02/06/2007 POR vs. PHX L 42 33 12 15 80.0 0 0 - 9 9 100.0 4 6 10 1 1 0 7 4 -10
+p343
+aVIme Udoka POR 02/06/2007 POR vs. PHX L 29 10 4 8 50.0 2 2 100.0 0 0 - 1 3 4 1 0 0 0 1 -8
+p344
+aVJuan Dixon POR 02/03/2007 POR vs. CHI L 29 11 4 12 33.3 1 4 25.0 2 2 100.0 0 3 3 0 4 0 2 3 -9
+p345
+aVTravis Outlaw POR 02/03/2007 POR vs. CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -9
+p346
+aVIme Udoka POR 02/03/2007 POR vs. CHI L 27 5 2 7 28.6 1 4 25.0 0 0 - 2 4 6 4 1 0 3 5 13
+p347
+aVZach Randolph POR 02/03/2007 POR vs. CHI L 42 27 11 23 47.8 1 1 100.0 4 8 50.0 1 6 7 1 0 0 3 2 8
+p348
+aVMartell Webster POR 02/03/2007 POR vs. CHI L 15 1 0 4 0.0 0 1 0.0 1 2 50.0 0 3 3 0 0 0 0 0 -4
+p349
+aVJoel Przybilla POR 02/03/2007 POR vs. CHI L 18 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 3 0 5 18
+p350
+aVLaMarcus Aldridge POR 02/03/2007 POR vs. CHI L 23 8 3 9 33.3 0 0 - 2 2 100.0 5 0 5 0 0 0 2 4 -16
+p351
+aVBrandon Roy POR 02/03/2007 POR vs. CHI L 34 16 6 11 54.5 0 2 0.0 4 4 100.0 0 2 2 3 2 0 1 1 -4
+p352
+aVJamaal Magloire POR 02/03/2007 POR vs. CHI L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -12
+p353
+aVJarrett Jack POR 02/03/2007 POR vs. CHI L 40 16 6 9 66.7 1 1 100.0 3 3 100.0 0 5 5 4 2 0 1 4 5
+p354
+aVJarrett Jack POR 02/02/2007 POR @ DEN L 39 12 5 14 35.7 1 6 16.7 1 1 100.0 0 2 2 9 1 0 4 4 -3
+p355
+aVMartell Webster POR 02/02/2007 POR @ DEN L 18 5 1 5 20.0 1 5 20.0 2 4 50.0 1 1 2 0 2 0 1 1 -1
+p356
+aVJoel Przybilla POR 02/02/2007 POR @ DEN L 10 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 1 0 4 -4
+p357
+aVLaMarcus Aldridge POR 02/02/2007 POR @ DEN L 36 7 2 5 40.0 0 0 - 3 4 75.0 2 3 5 1 0 3 0 3 -11
+p358
+aVIme Udoka POR 02/02/2007 POR @ DEN L 37 9 3 9 33.3 1 6 16.7 2 2 100.0 2 6 8 2 1 0 3 5 0
+p359
+aVJuan Dixon POR 02/02/2007 POR @ DEN L 28 21 7 13 53.8 5 6 83.3 2 3 66.7 2 2 4 2 2 0 0 3 1
+p360
+aVZach Randolph POR 02/02/2007 POR @ DEN L 40 25 9 21 42.9 0 0 - 7 7 100.0 2 7 9 0 1 0 4 3 -6
+p361
+aVBrandon Roy POR 02/02/2007 POR @ DEN L 38 22 5 11 45.5 2 4 50.0 10 11 90.9 1 1 2 11 0 0 3 5 -14
+p362
+aVJamaal Magloire POR 02/02/2007 POR @ DEN L 19 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 2 2 3
+p363
+aVIme Udoka POR 01/31/2007 POR vs. DEN W 39 11 4 7 57.1 1 3 33.3 2 2 100.0 1 1 2 0 1 0 1 4 9
+p364
+aVSergio Rodriguez POR 01/31/2007 POR vs. DEN W 10 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 1 1 -4
+p365
+aVBrandon Roy POR 01/31/2007 POR vs. DEN W 37 25 9 17 52.9 1 3 33.3 6 6 100.0 0 4 4 8 0 0 1 3 12
+p366
+aVZach Randolph POR 01/31/2007 POR vs. DEN W 38 26 11 23 47.8 0 0 - 4 4 100.0 4 13 17 1 3 0 4 3 12
+p367
+aVLaMarcus Aldridge POR 01/31/2007 POR vs. DEN W 26 11 5 8 62.5 0 0 - 1 2 50.0 3 3 6 0 0 0 0 3 11
+p368
+aVJarrett Jack POR 01/31/2007 POR vs. DEN W 36 14 5 11 45.5 1 2 50.0 3 4 75.0 2 0 2 8 1 0 2 3 13
+p369
+aVMartell Webster POR 01/31/2007 POR vs. DEN W 11 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 0 0 0 1 2 -2
+p370
+aVJoel Przybilla POR 01/31/2007 POR vs. DEN W 15 2 1 3 33.3 0 0 - 0 1 0.0 1 0 1 1 1 5 3 3 1
+p371
+aVJamaal Magloire POR 01/31/2007 POR vs. DEN W 15 3 0 1 0.0 0 0 - 3 4 75.0 1 2 3 0 0 1 3 5 -6
+p372
+aVJuan Dixon POR 01/31/2007 POR vs. DEN W 8 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 1 0 2 0 -1
+p373
+aVZach Randolph POR 01/29/2007 POR @ NOK L 39 20 10 22 45.5 0 1 0.0 0 3 0.0 6 7 13 4 2 1 0 2 -10
+p374
+aVJoel Przybilla POR 01/29/2007 POR @ NOK L 17 3 1 1 100.0 0 0 - 1 3 33.3 1 3 4 0 0 2 1 4 -4
+p375
+aVBrandon Roy POR 01/29/2007 POR @ NOK L 36 19 6 16 37.5 2 6 33.3 5 5 100.0 2 2 4 4 1 0 0 2 -5
+p376
+aVJuan Dixon POR 01/29/2007 POR @ NOK L 22 15 5 14 35.7 3 5 60.0 2 2 100.0 1 0 1 1 1 0 1 2 -14
+p377
+aVMartell Webster POR 01/29/2007 POR @ NOK L 13 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 -8
+p378
+aVJarrett Jack POR 01/29/2007 POR @ NOK L 24 5 2 5 40.0 1 2 50.0 0 0 - 2 2 4 4 1 0 4 1 -2
+p379
+aVIme Udoka POR 01/29/2007 POR @ NOK L 34 14 5 8 62.5 2 3 66.7 2 2 100.0 2 2 4 2 0 0 0 5 -4
+p380
+aVJamaal Magloire POR 01/29/2007 POR @ NOK L 22 7 2 3 66.7 0 0 - 3 6 50.0 2 4 6 0 0 3 1 5 -2
+p381
+aVRaef LaFrentz POR 01/29/2007 POR @ NOK L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p382
+aVSergio Rodriguez POR 01/29/2007 POR @ NOK L 20 8 3 7 42.9 2 4 50.0 0 0 - 1 2 3 2 0 0 1 0 -7
+p383
+aVJuan Dixon POR 01/27/2007 POR @ MEM W 14 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 2 1 0 2 2 -3
+p384
+aVIme Udoka POR 01/27/2007 POR @ MEM W 40 21 8 10 80.0 2 2 100.0 3 5 60.0 2 5 7 4 3 0 0 2 0
+p385
+aVJamaal Magloire POR 01/27/2007 POR @ MEM W 21 10 5 6 83.3 0 0 - 0 0 - 2 2 4 0 0 0 2 5 -6
+p386
+aVZach Randolph POR 01/27/2007 POR @ MEM W 46 42 16 40 40.0 1 2 50.0 9 11 81.8 4 8 12 2 2 0 4 4 -1
+p387
+aVJarrett Jack POR 01/27/2007 POR @ MEM W 42 13 3 11 27.3 1 2 50.0 6 7 85.7 0 3 3 5 2 0 0 3 5
+p388
+aVMartell Webster POR 01/27/2007 POR @ MEM W 18 12 4 7 57.1 2 5 40.0 2 4 50.0 1 1 2 0 0 0 1 1 -1
+p389
+aVLaMarcus Aldridge POR 01/27/2007 POR @ MEM W 8 3 0 0 - 0 0 - 3 4 75.0 0 2 2 1 0 0 0 3 -2
+p390
+aVSergio Rodriguez POR 01/27/2007 POR @ MEM W 17 7 3 5 60.0 0 1 0.0 1 1 100.0 0 1 1 7 3 0 0 4 0
+p391
+aVRaef LaFrentz POR 01/27/2007 POR @ MEM W 4 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 6
+p392
+aVBrandon Roy POR 01/27/2007 POR @ MEM W 41 16 7 13 53.8 1 2 50.0 1 1 100.0 1 3 4 6 3 0 4 5 4
+p393
+aVJoel Przybilla POR 01/27/2007 POR @ MEM W 34 4 2 5 40.0 0 0 - 0 0 - 4 7 11 0 0 1 1 5 13
+p394
+aVDan Dickau POR 01/26/2007 POR @ HOU L 6 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p395
+aVJamaal Magloire POR 01/26/2007 POR @ HOU L 19 9 4 5 80.0 0 0 - 1 3 33.3 3 1 4 0 0 1 2 2 -5
+p396
+aVJoel Przybilla POR 01/26/2007 POR @ HOU L 12 5 1 4 25.0 0 0 - 3 3 100.0 1 0 1 0 1 0 0 3 -1
+p397
+aVRaef LaFrentz POR 01/26/2007 POR @ HOU L 10 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 0 0 0 0 3 -7
+p398
+aVSergio Rodriguez POR 01/26/2007 POR @ HOU L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 5 0 0 1 1 -5
+p399
+aVJarrett Jack POR 01/26/2007 POR @ HOU L 22 8 3 4 75.0 1 1 100.0 1 1 100.0 0 1 1 3 1 0 4 1 -9
+p400
+aVJuan Dixon POR 01/26/2007 POR @ HOU L 25 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 4 0 0 1 3 -19
+p401
+aVBrandon Roy POR 01/26/2007 POR @ HOU L 27 6 3 10 30.0 0 2 0.0 0 0 - 0 2 2 1 2 0 2 1 -24
+p402
+aVIme Udoka POR 01/26/2007 POR @ HOU L 21 3 1 5 20.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 3 -9
+p403
+aVLaMarcus Aldridge POR 01/26/2007 POR @ HOU L 20 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 5 6 -23
+p404
+aVMartell Webster POR 01/26/2007 POR @ HOU L 26 8 2 9 22.2 0 4 0.0 4 7 57.1 2 6 8 0 2 2 1 2 -21
+p405
+aVZach Randolph POR 01/26/2007 POR @ HOU L 29 13 5 15 33.3 0 0 - 3 3 100.0 0 6 6 1 1 0 1 1 -24
+p406
+aVLaMarcus Aldridge POR 01/24/2007 POR vs. MIN W 25 4 1 7 14.3 0 0 - 2 2 100.0 3 1 4 0 0 2 0 1 -1
+p407
+aVBrandon Roy POR 01/24/2007 POR vs. MIN W 36 13 4 12 33.3 1 2 50.0 4 5 80.0 1 6 7 3 1 0 3 1 -2
+p408
+aVSergio Rodriguez POR 01/24/2007 POR vs. MIN W 21 18 8 13 61.5 2 4 50.0 0 0 - 0 2 2 1 1 0 2 0 2
+p409
+aVMartell Webster POR 01/24/2007 POR vs. MIN W 29 13 5 11 45.5 1 4 25.0 2 4 50.0 3 5 8 2 0 0 0 1 8
+p410
+aVZach Randolph POR 01/24/2007 POR vs. MIN W 43 22 9 23 39.1 0 1 0.0 4 4 100.0 7 8 15 1 0 0 6 4 -1
+p411
+aVJuan Dixon POR 01/24/2007 POR vs. MIN W 15 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 7
+p412
+aVJoel Przybilla POR 01/24/2007 POR vs. MIN W 14 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 5 3
+p413
+aVJarrett Jack POR 01/24/2007 POR vs. MIN W 34 12 6 11 54.5 0 3 0.0 0 1 0.0 0 1 1 5 0 0 2 2 -2
+p414
+aVJamaal Magloire POR 01/24/2007 POR vs. MIN W 22 6 2 4 50.0 0 0 - 2 4 50.0 0 7 7 0 1 0 1 4 7
+p415
+aVIme Udoka POR 01/24/2007 POR vs. MIN W 22 5 2 6 33.3 1 4 25.0 0 0 - 3 1 4 3 0 1 0 1 -6
+p416
+aVJamaal Magloire POR 01/21/2007 POR vs. MIL W 17 6 3 6 50.0 0 0 - 0 0 - 4 3 7 1 0 0 0 4 7
+p417
+aVIme Udoka POR 01/21/2007 POR vs. MIL W 19 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 -2
+p418
+aVJuan Dixon POR 01/21/2007 POR vs. MIL W 9 5 2 5 40.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 0 5
+p419
+aVBrandon Roy POR 01/21/2007 POR vs. MIL W 38 28 10 15 66.7 2 3 66.7 6 8 75.0 0 9 9 2 2 0 3 2 4
+p420
+aVRaef LaFrentz POR 01/21/2007 POR vs. MIL W 16 4 1 4 25.0 0 1 0.0 2 2 100.0 4 1 5 1 0 1 1 3 -3
+p421
+aVSergio Rodriguez POR 01/21/2007 POR vs. MIL W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 6 0 1 0 3 4
+p422
+aVZach Randolph POR 01/21/2007 POR vs. MIL W 37 19 7 19 36.8 0 1 0.0 5 6 83.3 3 9 12 2 0 0 4 2 4
+p423
+aVLaMarcus Aldridge POR 01/21/2007 POR vs. MIL W 13 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 0 1 0 2 0
+p424
+aVJoel Przybilla POR 01/21/2007 POR vs. MIL W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 2 3 0
+p425
+aVMartell Webster POR 01/21/2007 POR vs. MIL W 25 15 5 8 62.5 3 5 60.0 2 3 66.7 0 2 2 0 0 0 0 2 4
+p426
+aVJarrett Jack POR 01/21/2007 POR vs. MIL W 38 14 3 5 60.0 0 2 0.0 8 9 88.9 0 4 4 3 2 0 2 4 -3
+p427
+aVLaMarcus Aldridge POR 01/19/2007 POR @ PHX L 24 10 4 5 80.0 0 0 - 2 2 100.0 1 3 4 0 0 1 0 3 3
+p428
+aVRaef LaFrentz POR 01/19/2007 POR @ PHX L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p429
+aVSergio Rodriguez POR 01/19/2007 POR @ PHX L 17 9 4 11 36.4 1 4 25.0 0 0 - 1 3 4 3 1 0 2 2 1
+p430
+aVJoel Przybilla POR 01/19/2007 POR @ PHX L 13 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 1 1 2 -3
+p431
+aVJamaal Magloire POR 01/19/2007 POR @ PHX L 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -5
+p432
+aVJuan Dixon POR 01/19/2007 POR @ PHX L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -7
+p433
+aVBrandon Roy POR 01/19/2007 POR @ PHX L 41 22 8 16 50.0 3 4 75.0 3 4 75.0 1 4 5 4 1 1 0 0 -3
+p434
+aVZach Randolph POR 01/19/2007 POR @ PHX L 41 36 17 28 60.7 1 1 100.0 1 1 100.0 6 9 15 1 2 0 5 4 3
+p435
+aVIme Udoka POR 01/19/2007 POR @ PHX L 40 10 4 11 36.4 2 5 40.0 0 0 - 3 0 3 4 0 0 1 4 -6
+p436
+aVJarrett Jack POR 01/19/2007 POR @ PHX L 34 10 4 11 36.4 2 5 40.0 0 0 - 0 1 1 5 1 2 1 4 -4
+p437
+aVMartell Webster POR 01/19/2007 POR @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 -4
+p438
+aVMartell Webster POR 01/17/2007 POR vs. CLE W 14 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 3 -11
+p439
+aVJoel Przybilla POR 01/17/2007 POR vs. CLE W 15 2 1 1 100.0 0 0 - 0 0 - 3 2 5 0 0 2 1 4 14
+p440
+aVDan Dickau POR 01/17/2007 POR vs. CLE W 16 9 2 6 33.3 1 2 50.0 4 4 100.0 0 0 0 3 2 0 1 0 15
+p441
+aVJamaal Magloire POR 01/17/2007 POR vs. CLE W 19 0 0 3 0.0 0 0 - 0 0 - 0 5 5 0 0 0 1 4 -3
+p442
+aVZach Randolph POR 01/17/2007 POR vs. CLE W 39 26 10 25 40.0 0 0 - 6 10 60.0 5 7 12 4 2 0 6 4 27
+p443
+aVSergio Rodriguez POR 01/17/2007 POR vs. CLE W 23 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 9 0 0 0 3 -2
+p444
+aVIme Udoka POR 01/17/2007 POR vs. CLE W 35 12 5 8 62.5 1 3 33.3 1 2 50.0 0 1 1 1 0 0 0 3 27
+p445
+aVBrandon Roy POR 01/17/2007 POR vs. CLE W 32 19 8 16 50.0 2 3 66.7 1 2 50.0 5 5 10 4 6 0 2 4 29
+p446
+aVLaMarcus Aldridge POR 01/17/2007 POR vs. CLE W 23 14 6 9 66.7 0 0 - 2 3 66.7 1 3 4 0 0 3 0 4 -2
+p447
+aVJuan Dixon POR 01/17/2007 POR vs. CLE W 24 9 4 5 80.0 1 2 50.0 0 0 - 0 3 3 0 1 0 3 4 -4
+p448
+aVDan Dickau POR 01/14/2007 POR vs. DEN L 12 0 0 3 0.0 0 2 0.0 0 0 - 2 1 3 1 0 0 3 1 -20
+p449
+aVJuan Dixon POR 01/14/2007 POR vs. DEN L 31 15 5 11 45.5 3 6 50.0 2 2 100.0 0 0 0 3 1 2 2 2 11
+p450
+aVBrandon Roy POR 01/14/2007 POR vs. DEN L 25 9 4 10 40.0 1 2 50.0 0 0 - 1 1 2 2 1 0 0 2 -31
+p451
+aVRaef LaFrentz POR 01/14/2007 POR vs. DEN L 22 7 2 6 33.3 0 1 0.0 3 5 60.0 3 4 7 1 0 0 1 2 7
+p452
+aVMartell Webster POR 01/14/2007 POR vs. DEN L 32 12 4 8 50.0 3 7 42.9 1 2 50.0 0 4 4 2 3 0 1 0 14
+p453
+aVJoel Przybilla POR 01/14/2007 POR vs. DEN L 11 0 0 0 - 0 0 - 0 0 - 3 1 4 1 0 0 1 2 -20
+p454
+aVZach Randolph POR 01/14/2007 POR vs. DEN L 23 4 1 12 8.3 0 0 - 2 2 100.0 1 4 5 1 0 0 2 3 -25
+p455
+aVJamaal Magloire POR 01/14/2007 POR vs. DEN L 26 11 3 4 75.0 0 0 - 5 8 62.5 2 3 5 0 0 4 2 2 7
+p456
+aVIme Udoka POR 01/14/2007 POR vs. DEN L 14 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 2 -29
+p457
+aVLaMarcus Aldridge POR 01/14/2007 POR vs. DEN L 14 5 2 8 25.0 0 0 - 1 2 50.0 1 0 1 1 0 1 1 4 -1
+p458
+aVSergio Rodriguez POR 01/14/2007 POR vs. DEN L 30 23 11 14 78.6 1 3 33.3 0 0 - 0 4 4 10 3 0 4 3 7
+p459
+aVMartell Webster POR 01/12/2007 POR vs. SAC W 12 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 2
+p460
+aVBrandon Roy POR 01/12/2007 POR vs. SAC W 30 11 4 8 50.0 1 1 100.0 2 2 100.0 1 1 2 5 2 0 2 3 2
+p461
+aVZach Randolph POR 01/12/2007 POR vs. SAC W 43 23 9 21 42.9 0 2 0.0 5 8 62.5 2 10 12 3 3 0 3 2 6
+p462
+aVJuan Dixon POR 01/12/2007 POR vs. SAC W 26 21 8 13 61.5 3 5 60.0 2 3 66.7 0 0 0 2 1 0 2 2 3
+p463
+aVSergio Rodriguez POR 01/12/2007 POR vs. SAC W 17 6 3 5 60.0 0 0 - 0 0 - 0 2 2 6 0 0 2 2 6
+p464
+aVDan Dickau POR 01/12/2007 POR vs. SAC W 22 11 4 8 50.0 2 5 40.0 1 1 100.0 0 1 1 2 0 0 1 3 4
+p465
+aVLaMarcus Aldridge POR 01/12/2007 POR vs. SAC W 23 6 2 6 33.3 0 0 - 2 4 50.0 4 0 4 2 0 2 2 6 10
+p466
+aVJamaal Magloire POR 01/12/2007 POR vs. SAC W 14 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 2 5 4
+p467
+aVIme Udoka POR 01/12/2007 POR vs. SAC W 37 10 5 9 55.6 0 2 0.0 0 1 0.0 3 6 9 3 3 2 1 4 5
+p468
+aVJoel Przybilla POR 01/12/2007 POR vs. SAC W 16 3 1 1 100.0 0 0 - 1 4 25.0 0 4 4 0 1 2 3 3 -2
+p469
+aVBrandon Roy POR 01/10/2007 POR @ DAL L 30 15 4 13 30.8 0 2 0.0 7 7 100.0 1 5 6 1 3 0 1 1 -11
+p470
+aVJamaal Magloire POR 01/10/2007 POR @ DAL L 16 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 0 0 0 0 1 -16
+p471
+aVJuan Dixon POR 01/10/2007 POR @ DAL L 24 8 2 5 40.0 0 1 0.0 4 4 100.0 0 1 1 2 1 1 2 3 -11
+p472
+aVRaef LaFrentz POR 01/10/2007 POR @ DAL L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p473
+aVJarrett Jack POR 01/10/2007 POR @ DAL L 27 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 -21
+p474
+aVSergio Rodriguez POR 01/10/2007 POR @ DAL L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -5
+p475
+aVIme Udoka POR 01/10/2007 POR @ DAL L 20 2 1 5 20.0 0 3 0.0 0 0 - 2 0 2 3 0 0 2 4 -17
+p476
+aVMartell Webster POR 01/10/2007 POR @ DAL L 25 6 3 5 60.0 0 1 0.0 0 2 0.0 3 3 6 0 0 0 1 2 -9
+p477
+aVLaMarcus Aldridge POR 01/10/2007 POR @ DAL L 34 14 7 14 50.0 0 0 - 0 0 - 2 4 6 1 0 2 2 3 -10
+p478
+aVZach Randolph POR 01/10/2007 POR @ DAL L 30 21 8 12 66.7 0 0 - 5 7 71.4 1 4 5 1 0 0 2 2 -13
+p479
+aVDan Dickau POR 01/10/2007 POR @ DAL L 12 3 1 5 20.0 0 3 0.0 1 2 50.0 0 0 0 1 0 0 0 0 -1
+p480
+aVJoel Przybilla POR 01/10/2007 POR @ DAL L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -7
+p481
+aVSergio Rodriguez POR 01/09/2007 POR @ SAS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p482
+aVBrandon Roy POR 01/09/2007 POR @ SAS L 34 10 3 12 25.0 1 4 25.0 3 3 100.0 2 3 5 3 3 0 2 1 -7
+p483
+aVJuan Dixon POR 01/09/2007 POR @ SAS L 24 5 2 4 50.0 1 3 33.3 0 0 - 1 1 2 0 1 0 2 3 0
+p484
+aVMartell Webster POR 01/09/2007 POR @ SAS L 22 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 3 4
+p485
+aVJamaal Magloire POR 01/09/2007 POR @ SAS L 19 8 3 5 60.0 0 0 - 2 3 66.7 0 3 3 1 0 0 0 2 -16
+p486
+aVRaef LaFrentz POR 01/09/2007 POR @ SAS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p487
+aVDan Dickau POR 01/09/2007 POR @ SAS L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 2
+p488
+aVJarrett Jack POR 01/09/2007 POR @ SAS L 38 13 6 9 66.7 1 1 100.0 0 0 - 0 2 2 5 0 0 3 2 -31
+p489
+aVJoel Przybilla POR 01/09/2007 POR @ SAS L 13 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 1 1 2 3 -10
+p490
+aVZach Randolph POR 01/09/2007 POR @ SAS L 38 25 9 21 42.9 0 0 - 7 8 87.5 4 5 9 3 0 0 3 1 -11
+p491
+aVLaMarcus Aldridge POR 01/09/2007 POR @ SAS L 23 17 6 8 75.0 0 0 - 5 8 62.5 5 1 6 0 0 0 1 3 10
+p492
+aVIme Udoka POR 01/09/2007 POR @ SAS L 20 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 1 0 4 2 -15
+p493
+aVZach Randolph POR 01/07/2007 POR vs. MIA L 27 15 7 15 46.7 0 0 - 1 2 50.0 0 3 3 2 2 0 2 4 -3
+p494
+aVJamaal Magloire POR 01/07/2007 POR vs. MIA L 24 8 3 9 33.3 0 0 - 2 2 100.0 5 2 7 0 0 1 1 2 -4
+p495
+aVJarrett Jack POR 01/07/2007 POR vs. MIA L 37 7 2 8 25.0 1 4 25.0 2 3 66.7 0 1 1 11 0 0 1 3 -9
+p496
+aVJuan Dixon POR 01/07/2007 POR vs. MIA L 14 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 2 2 0 0 1 4
+p497
+aVLaMarcus Aldridge POR 01/07/2007 POR vs. MIA L 32 14 7 15 46.7 0 0 - 0 0 - 4 2 6 0 0 2 1 4 -5
+p498
+aVJoel Przybilla POR 01/07/2007 POR vs. MIA L 13 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 6
+p499
+aVMartell Webster POR 01/07/2007 POR vs. MIA L 20 12 5 9 55.6 2 5 40.0 0 0 - 1 6 7 1 0 1 1 2 -1
+p500
+aVBrandon Roy POR 01/07/2007 POR vs. MIA L 32 18 8 18 44.4 2 4 50.0 0 0 - 2 2 4 4 0 0 1 5 2
+p501
+aVIme Udoka POR 01/07/2007 POR vs. MIA L 31 9 4 8 50.0 1 3 33.3 0 0 - 3 3 6 1 2 0 2 4 -5
+p502
+aVSergio Rodriguez POR 01/07/2007 POR vs. MIA L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 2 0 0
+p503
+aVIme Udoka POR 01/06/2007 POR @ SAC W 31 11 4 10 40.0 1 5 20.0 2 2 100.0 2 1 3 0 1 1 1 4 -5
+p504
+aVSergio Rodriguez POR 01/06/2007 POR @ SAC W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 2
+p505
+aVJamaal Magloire POR 01/06/2007 POR @ SAC W 23 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 2 1 1 2 4 0
+p506
+aVJuan Dixon POR 01/06/2007 POR @ SAC W 14 8 3 5 60.0 2 4 50.0 0 0 - 1 1 2 0 0 0 3 2 -7
+p507
+aVBrandon Roy POR 01/06/2007 POR @ SAC W 42 23 8 15 53.3 1 6 16.7 6 6 100.0 0 5 5 0 0 0 1 3 12
+p508
+aVMartell Webster POR 01/06/2007 POR @ SAC W 21 12 4 9 44.4 2 6 33.3 2 2 100.0 1 3 4 0 0 0 1 1 10
+p509
+aVLaMarcus Aldridge POR 01/06/2007 POR @ SAC W 22 2 1 5 20.0 0 0 - 0 0 - 1 6 7 0 2 2 1 1 8
+p510
+aVJarrett Jack POR 01/06/2007 POR @ SAC W 45 17 5 14 35.7 1 4 25.0 6 7 85.7 0 2 2 8 2 0 2 3 4
+p511
+aVZach Randolph POR 01/06/2007 POR @ SAC W 46 32 10 23 43.5 0 1 0.0 12 15 80.0 4 11 15 3 1 0 4 3 16
+p512
+aVJoel Przybilla POR 01/06/2007 POR @ SAC W 16 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 2 2 4 -15
+p513
+aVZach Randolph POR 01/03/2007 POR vs. NYK L 27 15 7 10 70.0 0 0 - 1 1 100.0 0 9 9 2 0 0 4 2 -6
+p514
+aVTravis Outlaw POR 01/03/2007 POR vs. NYK L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 2 0 0 -12
+p515
+aVJarrett Jack POR 01/03/2007 POR vs. NYK L 30 11 4 10 40.0 1 2 50.0 2 2 100.0 0 2 2 7 0 0 1 1 -15
+p516
+aVBrandon Roy POR 01/03/2007 POR vs. NYK L 33 14 4 11 36.4 0 1 0.0 6 6 100.0 0 3 3 3 1 0 2 1 -19
+p517
+aVIme Udoka POR 01/03/2007 POR vs. NYK L 30 4 1 5 20.0 0 2 0.0 2 2 100.0 2 1 3 3 1 0 0 2 -8
+p518
+aVJamaal Magloire POR 01/03/2007 POR vs. NYK L 21 10 5 5 100.0 0 0 - 0 2 0.0 1 5 6 0 0 0 1 5 -13
+p519
+aVMartell Webster POR 01/03/2007 POR vs. NYK L 22 9 2 10 20.0 1 4 25.0 4 6 66.7 2 1 3 0 0 0 1 1 -8
+p520
+aVSergio Rodriguez POR 01/03/2007 POR vs. NYK L 14 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 3 -2
+p521
+aVJuan Dixon POR 01/03/2007 POR vs. NYK L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 -2
+p522
+aVRaef LaFrentz POR 01/03/2007 POR vs. NYK L 13 2 0 1 0.0 0 1 0.0 2 2 100.0 1 2 3 0 0 1 0 0 0
+p523
+aVJoel Przybilla POR 01/03/2007 POR vs. NYK L 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 3 0 4 0
+p524
+aVLaMarcus Aldridge POR 01/03/2007 POR vs. NYK L 9 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -5
+p525
+aVJarrett Jack POR 01/01/2007 POR vs. BOS L 28 5 1 7 14.3 1 3 33.3 2 2 100.0 0 0 0 2 2 0 2 2 3
+p526
+aVIme Udoka POR 01/01/2007 POR vs. BOS L 33 11 2 7 28.6 1 4 25.0 6 7 85.7 1 2 3 4 1 0 1 4 -6
+p527
+aVMartell Webster POR 01/01/2007 POR vs. BOS L 20 11 3 5 60.0 3 4 75.0 2 2 100.0 0 2 2 0 0 0 0 2 -1
+p528
+aVSergio Rodriguez POR 01/01/2007 POR vs. BOS L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 0 0
+p529
+aVJamaal Magloire POR 01/01/2007 POR vs. BOS L 29 9 3 7 42.9 0 0 - 3 4 75.0 5 8 13 1 0 0 3 2 -7
+p530
+aVZach Randolph POR 01/01/2007 POR vs. BOS L 31 9 4 11 36.4 0 0 - 1 3 33.3 2 8 10 0 0 0 2 2 -6
+p531
+aVBrandon Roy POR 01/01/2007 POR vs. BOS L 34 18 7 16 43.8 0 2 0.0 4 4 100.0 0 4 4 5 1 0 2 4 -12
+p532
+aVJuan Dixon POR 01/01/2007 POR vs. BOS L 26 6 3 8 37.5 0 2 0.0 0 1 0.0 0 1 1 1 0 0 2 1 -7
+p533
+aVJoel Przybilla POR 01/01/2007 POR vs. BOS L 15 8 4 5 80.0 0 0 - 0 0 - 1 3 4 0 1 1 1 4 -2
+p534
+aVTravis Outlaw POR 01/01/2007 POR vs. BOS L 17 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 0 3 0 3 2 -2
+p535
+aVSergio Rodriguez POR 12/30/2006 POR @ UTA L 9 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 1 0 0 1 1 0
+p536
+aVIme Udoka POR 12/30/2006 POR @ UTA L 21 6 1 5 20.0 0 2 0.0 4 4 100.0 1 3 4 1 0 0 0 3 -6
+p537
+aVJarrett Jack POR 12/30/2006 POR @ UTA L 25 5 2 7 28.6 1 2 50.0 0 0 - 0 0 0 4 3 0 2 3 -11
+p538
+aVJuan Dixon POR 12/30/2006 POR @ UTA L 27 9 4 8 50.0 1 3 33.3 0 0 - 1 2 3 1 1 0 1 3 -5
+p539
+aVLaMarcus Aldridge POR 12/30/2006 POR @ UTA L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p540
+aVBrandon Roy POR 12/30/2006 POR @ UTA L 35 17 6 11 54.5 1 3 33.3 4 8 50.0 0 2 2 1 2 0 2 2 -4
+p541
+aVJamaal Magloire POR 12/30/2006 POR @ UTA L 16 4 1 2 50.0 0 0 - 2 6 33.3 2 1 3 1 0 1 1 5 3
+p542
+aVJoel Przybilla POR 12/30/2006 POR @ UTA L 22 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 2 0 3 -6
+p543
+aVZach Randolph POR 12/30/2006 POR @ UTA L 43 34 16 25 64.0 0 0 - 2 3 66.7 1 12 13 4 1 0 2 1 -4
+p544
+aVMartell Webster POR 12/30/2006 POR @ UTA L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 -6
+p545
+aVTravis Outlaw POR 12/30/2006 POR @ UTA L 26 4 2 7 28.6 0 0 - 0 2 0.0 3 5 8 2 1 3 1 3 -2
+p546
+aVBrandon Roy POR 12/29/2006 POR vs. PHI L 33 15 6 12 50.0 0 2 0.0 3 5 60.0 0 5 5 2 2 0 2 4 1
+p547
+aVMartell Webster POR 12/29/2006 POR vs. PHI L 15 10 4 7 57.1 2 3 66.7 0 0 - 0 2 2 0 0 0 0 2 7
+p548
+aVZach Randolph POR 12/29/2006 POR vs. PHI L 31 13 4 10 40.0 0 0 - 5 6 83.3 3 9 12 3 0 0 2 3 -3
+p549
+aVJamaal Magloire POR 12/29/2006 POR vs. PHI L 20 10 4 5 80.0 0 0 - 2 3 66.7 2 3 5 0 0 2 1 2 -7
+p550
+aVTravis Outlaw POR 12/29/2006 POR vs. PHI L 23 6 2 9 22.2 0 2 0.0 2 2 100.0 0 1 1 2 0 1 3 1 0
+p551
+aVLaMarcus Aldridge POR 12/29/2006 POR vs. PHI L 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -1
+p552
+aVSergio Rodriguez POR 12/29/2006 POR vs. PHI L 17 5 2 4 50.0 1 2 50.0 0 0 - 2 1 3 1 2 1 0 3 0
+p553
+aVJoel Przybilla POR 12/29/2006 POR vs. PHI L 22 2 1 1 100.0 0 0 - 0 1 0.0 0 3 3 1 0 0 1 0 -1
+p554
+aVIme Udoka POR 12/29/2006 POR vs. PHI L 28 12 5 8 62.5 2 3 66.7 0 0 - 1 2 3 2 0 0 1 4 -4
+p555
+aVJuan Dixon POR 12/29/2006 POR vs. PHI L 21 11 4 6 66.7 3 4 75.0 0 0 - 0 0 0 3 1 0 1 5 1
+p556
+aVJarrett Jack POR 12/29/2006 POR vs. PHI L 26 11 4 9 44.4 2 3 66.7 1 2 50.0 0 3 3 1 0 0 4 2 -8
+p557
+aVJuan Dixon POR 12/27/2006 POR vs. NOK W 18 8 3 6 50.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 1 2 -1
+p558
+aVJarrett Jack POR 12/27/2006 POR vs. NOK W 35 15 5 10 50.0 1 2 50.0 4 4 100.0 3 3 6 3 2 1 2 2 23
+p559
+aVJoel Przybilla POR 12/27/2006 POR vs. NOK W 27 3 1 3 33.3 0 0 - 1 3 33.3 1 5 6 0 1 5 1 4 12
+p560
+aVIme Udoka POR 12/27/2006 POR vs. NOK W 29 11 4 8 50.0 1 4 25.0 2 2 100.0 5 5 10 2 1 0 1 1 21
+p561
+aVBrandon Roy POR 12/27/2006 POR vs. NOK W 32 15 4 11 36.4 1 3 33.3 6 6 100.0 1 1 2 2 0 0 2 0 15
+p562
+aVMartell Webster POR 12/27/2006 POR vs. NOK W 17 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 1 1 0 0 1 -1
+p563
+aVSergio Rodriguez POR 12/27/2006 POR vs. NOK W 13 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 5 0 0 0 1 -8
+p564
+aVZach Randolph POR 12/27/2006 POR vs. NOK W 34 26 11 24 45.8 0 0 - 4 4 100.0 3 8 11 4 1 0 3 1 19
+p565
+aVTravis Outlaw POR 12/27/2006 POR vs. NOK W 21 10 3 9 33.3 0 0 - 4 7 57.1 1 2 3 1 0 2 1 2 1
+p566
+aVJamaal Magloire POR 12/27/2006 POR vs. NOK W 14 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 1 3 -6
+p567
+aVTravis Outlaw POR 12/26/2006 POR @ PHX L 26 6 3 9 33.3 0 0 - 0 1 0.0 1 0 1 0 2 1 1 2 -23
+p568
+aVJamaal Magloire POR 12/26/2006 POR @ PHX L 18 1 0 1 0.0 0 0 - 1 2 50.0 0 7 7 0 1 0 1 2 -14
+p569
+aVSergio Rodriguez POR 12/26/2006 POR @ PHX L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 3 3 0 1 0 5
+p570
+aVLaMarcus Aldridge POR 12/26/2006 POR @ PHX L 7 7 2 3 66.7 0 0 - 3 4 75.0 1 1 2 0 0 0 0 0 2
+p571
+aVZach Randolph POR 12/26/2006 POR @ PHX L 31 18 7 17 41.2 0 1 0.0 4 4 100.0 8 6 14 0 0 0 5 2 -17
+p572
+aVJoel Przybilla POR 12/26/2006 POR @ PHX L 16 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 0 2 2 3 -7
+p573
+aVJarrett Jack POR 12/26/2006 POR @ PHX L 32 18 8 12 66.7 0 1 0.0 2 2 100.0 0 1 1 4 1 0 3 5 -22
+p574
+aVBrandon Roy POR 12/26/2006 POR @ PHX L 28 7 3 12 25.0 0 0 - 1 2 50.0 0 3 3 1 3 1 0 2 -13
+p575
+aVIme Udoka POR 12/26/2006 POR @ PHX L 10 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 0 1 0 0 2 -6
+p576
+aVJuan Dixon POR 12/26/2006 POR @ PHX L 23 13 5 10 50.0 0 2 0.0 3 4 75.0 0 3 3 0 0 0 2 2 -14
+p577
+aVMartell Webster POR 12/26/2006 POR @ PHX L 25 9 3 9 33.3 1 5 20.0 2 3 66.7 3 2 5 0 1 0 2 0 -3
+p578
+aVRaef LaFrentz POR 12/26/2006 POR @ PHX L 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -3
+p579
+aVRaef LaFrentz POR 12/22/2006 POR vs. TOR L 11 8 4 7 57.1 0 2 0.0 0 0 - 1 0 1 0 0 1 0 1 -5
+p580
+aVTravis Outlaw POR 12/22/2006 POR vs. TOR L 37 18 5 10 50.0 0 1 0.0 8 10 80.0 2 3 5 3 2 1 3 2 -4
+p581
+aVZach Randolph POR 12/22/2006 POR vs. TOR L 28 20 8 14 57.1 0 0 - 4 4 100.0 1 6 7 4 0 0 5 5 3
+p582
+aVJamaal Magloire POR 12/22/2006 POR vs. TOR L 30 6 2 6 33.3 0 0 - 2 4 50.0 3 12 15 0 0 2 2 4 -1
+p583
+aVBrandon Roy POR 12/22/2006 POR vs. TOR L 41 16 5 10 50.0 0 1 0.0 6 6 100.0 4 6 10 8 0 1 3 4 0
+p584
+aVJarrett Jack POR 12/22/2006 POR vs. TOR L 34 12 4 8 50.0 2 3 66.7 2 2 100.0 0 1 1 3 0 0 3 1 -12
+p585
+aVIme Udoka POR 12/22/2006 POR vs. TOR L 22 4 1 8 12.5 0 3 0.0 2 2 100.0 0 1 1 1 0 0 3 1 3
+p586
+aVJoel Przybilla POR 12/22/2006 POR vs. TOR L 13 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 3 0 3 -1
+p587
+aVMartell Webster POR 12/22/2006 POR vs. TOR L 22 4 2 6 33.3 0 4 0.0 0 0 - 1 3 4 1 0 0 2 0 3
+p588
+aVSergio Rodriguez POR 12/22/2006 POR vs. TOR L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p589
+aVJuan Dixon POR 12/22/2006 POR vs. TOR L 26 10 4 10 40.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 0 2 9
+p590
+aVJoel Przybilla POR 12/20/2006 POR vs. HOU W 24 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 2 4 2 4 1
+p591
+aVJuan Dixon POR 12/20/2006 POR vs. HOU W 23 4 2 8 25.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 5
+p592
+aVIme Udoka POR 12/20/2006 POR vs. HOU W 24 7 3 6 50.0 1 2 50.0 0 0 - 2 5 7 2 4 0 2 3 0
+p593
+aVJamaal Magloire POR 12/20/2006 POR vs. HOU W 20 9 3 7 42.9 0 0 - 3 4 75.0 2 4 6 0 0 0 1 2 4
+p594
+aVZach Randolph POR 12/20/2006 POR vs. HOU W 36 24 8 20 40.0 0 2 0.0 8 9 88.9 3 10 13 1 0 0 3 0 1
+p595
+aVLaMarcus Aldridge POR 12/20/2006 POR vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p596
+aVMartell Webster POR 12/20/2006 POR vs. HOU W 22 7 2 6 33.3 1 3 33.3 2 3 66.7 0 1 1 0 0 0 0 1 -3
+p597
+aVBrandon Roy POR 12/20/2006 POR vs. HOU W 24 9 4 6 66.7 0 0 - 1 1 100.0 1 2 3 2 0 0 2 1 -2
+p598
+aVSergio Rodriguez POR 12/20/2006 POR vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p599
+aVTravis Outlaw POR 12/20/2006 POR vs. HOU W 24 12 5 9 55.6 0 0 - 2 2 100.0 3 1 4 0 0 4 2 1 -2
+p600
+aVJarrett Jack POR 12/20/2006 POR vs. HOU W 39 13 5 12 41.7 1 1 100.0 2 2 100.0 0 2 2 6 2 0 1 3 3
+p601
+aVMartell Webster POR 12/15/2006 POR vs. LAC W 30 11 3 6 50.0 1 2 50.0 4 5 80.0 1 0 1 4 0 0 0 2 14
+p602
+aVJamaal Magloire POR 12/15/2006 POR vs. LAC W 22 6 2 6 33.3 0 0 - 2 2 100.0 3 6 9 0 0 0 1 2 5
+p603
+aVJoel Przybilla POR 12/15/2006 POR vs. LAC W 22 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 0 0 0 2 3
+p604
+aVZach Randolph POR 12/15/2006 POR vs. LAC W 35 26 9 21 42.9 1 1 100.0 7 8 87.5 2 5 7 5 0 0 0 1 11
+p605
+aVSergio Rodriguez POR 12/15/2006 POR vs. LAC W 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 7 1 0 1 0 -3
+p606
+aVIme Udoka POR 12/15/2006 POR vs. LAC W 35 13 5 6 83.3 3 3 100.0 0 0 - 0 3 3 1 1 1 1 5 8
+p607
+aVJarrett Jack POR 12/15/2006 POR vs. LAC W 35 14 5 9 55.6 2 4 50.0 2 4 50.0 0 5 5 5 1 0 0 2 13
+p608
+aVJuan Dixon POR 12/15/2006 POR vs. LAC W 26 12 4 10 40.0 2 5 40.0 2 2 100.0 0 0 0 3 1 0 0 2 1
+p609
+aVTravis Outlaw POR 12/15/2006 POR vs. LAC W 18 15 6 10 60.0 0 0 - 3 4 75.0 0 1 1 0 1 1 0 3 1
+p610
+aVLaMarcus Aldridge POR 12/15/2006 POR vs. LAC W 4 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -3
+p611
+aVZach Randolph POR 12/13/2006 POR @ MEM W 34 21 6 16 37.5 0 1 0.0 9 10 90.0 1 10 11 3 0 1 4 5 17
+p612
+aVSergio Rodriguez POR 12/13/2006 POR @ MEM W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 0 -2
+p613
+aVTravis Outlaw POR 12/13/2006 POR @ MEM W 15 8 3 6 50.0 0 0 - 2 2 100.0 2 1 3 0 2 4 3 2 -2
+p614
+aVJarrett Jack POR 12/13/2006 POR @ MEM W 40 11 4 9 44.4 0 2 0.0 3 4 75.0 0 3 3 6 0 0 3 2 11
+p615
+aVJuan Dixon POR 12/13/2006 POR @ MEM W 32 11 5 12 41.7 1 4 25.0 0 0 - 1 2 3 3 0 0 2 0 5
+p616
+aVIme Udoka POR 12/13/2006 POR @ MEM W 39 15 6 9 66.7 2 4 50.0 1 2 50.0 1 1 2 1 2 0 1 4 4
+p617
+aVDan Dickau POR 12/13/2006 POR @ MEM W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p618
+aVJoel Przybilla POR 12/13/2006 POR @ MEM W 23 4 2 2 100.0 0 0 - 0 0 - 1 5 6 1 0 2 1 2 0
+p619
+aVMartell Webster POR 12/13/2006 POR @ MEM W 16 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 2 1 0 1 1 1
+p620
+aVLaMarcus Aldridge POR 12/13/2006 POR @ MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -2
+p621
+aVJamaal Magloire POR 12/13/2006 POR @ MEM W 25 9 3 5 60.0 0 0 - 3 5 60.0 3 4 7 1 1 1 2 4 -1
+p622
+aVRaef LaFrentz POR 12/13/2006 POR @ MEM W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p623
+aVJuan Dixon POR 12/11/2006 POR @ PHI W 32 17 6 13 46.2 1 6 16.7 4 4 100.0 0 3 3 2 4 0 2 3 -1
+p624
+aVMartell Webster POR 12/11/2006 POR @ PHI W 17 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 4 2 7
+p625
+aVJarrett Jack POR 12/11/2006 POR @ PHI W 31 7 3 6 50.0 0 1 0.0 1 1 100.0 0 4 4 4 1 0 1 4 -9
+p626
+aVJamaal Magloire POR 12/11/2006 POR @ PHI W 29 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 3 2 1 1 5 5
+p627
+aVDan Dickau POR 12/11/2006 POR @ PHI W 17 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 4 0 0 1 1 11
+p628
+aVZach Randolph POR 12/11/2006 POR @ PHI W 28 18 6 13 46.2 0 0 - 6 7 85.7 4 6 10 0 0 0 2 4 4
+p629
+aVRaef LaFrentz POR 12/11/2006 POR @ PHI W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -8
+p630
+aVSergio Rodriguez POR 12/11/2006 POR @ PHI W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p631
+aVJoel Przybilla POR 12/11/2006 POR @ PHI W 13 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 1
+p632
+aVIme Udoka POR 12/11/2006 POR @ PHI W 28 12 3 7 42.9 2 4 50.0 4 4 100.0 2 3 5 0 1 0 4 5 -1
+p633
+aVLaMarcus Aldridge POR 12/11/2006 POR @ PHI W 13 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 0 0 0 3 1 3
+p634
+aVTravis Outlaw POR 12/11/2006 POR @ PHI W 23 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 2 0 1 2 2 -2
+p635
+aVLaMarcus Aldridge POR 12/10/2006 POR @ TOR W 19 3 1 6 16.7 0 0 - 1 2 50.0 0 3 3 0 0 0 2 5 1
+p636
+aVMartell Webster POR 12/10/2006 POR @ TOR W 30 22 6 12 50.0 3 4 75.0 7 7 100.0 2 6 8 1 0 1 1 1 9
+p637
+aVSergio Rodriguez POR 12/10/2006 POR @ TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p638
+aVJamaal Magloire POR 12/10/2006 POR @ TOR W 20 6 1 2 50.0 0 0 - 4 8 50.0 4 6 10 1 1 0 4 2 2
+p639
+aVTravis Outlaw POR 12/10/2006 POR @ TOR W 30 10 3 12 25.0 0 2 0.0 4 4 100.0 2 5 7 1 0 2 1 4 8
+p640
+aVStephen Graham POR 12/10/2006 POR @ TOR W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 1 0 3
+p641
+aVJarrett Jack POR 12/10/2006 POR @ TOR W 40 22 9 15 60.0 0 2 0.0 4 4 100.0 1 8 9 8 1 0 4 4 16
+p642
+aVJuan Dixon POR 12/10/2006 POR @ TOR W 26 16 6 15 40.0 2 3 66.7 2 2 100.0 0 3 3 0 0 0 4 2 -1
+p643
+aVIme Udoka POR 12/10/2006 POR @ TOR W 39 13 5 9 55.6 2 4 50.0 1 2 50.0 2 2 4 0 0 0 0 3 9
+p644
+aVJoel Przybilla POR 12/10/2006 POR @ TOR W 25 1 0 0 - 0 0 - 1 2 50.0 1 8 9 0 0 2 0 3 9
+p645
+aVDan Dickau POR 12/10/2006 POR @ TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p646
+aVIme Udoka POR 12/08/2006 POR @ IND L 38 6 1 5 20.0 1 3 33.3 3 4 75.0 0 5 5 1 2 1 0 4 -19
+p647
+aVMartell Webster POR 12/08/2006 POR @ IND L 10 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 2 3 -18
+p648
+aVZach Randolph POR 12/08/2006 POR @ IND L 30 29 11 20 55.0 0 0 - 7 8 87.5 1 3 4 1 1 0 0 6 -27
+p649
+aVTravis Outlaw POR 12/08/2006 POR @ IND L 35 13 5 8 62.5 0 0 - 3 6 50.0 1 4 5 3 2 2 1 1 12
+p650
+aVLaMarcus Aldridge POR 12/08/2006 POR @ IND L 13 4 2 6 33.3 0 0 - 0 0 - 2 1 3 1 1 1 0 4 3
+p651
+aVJamaal Magloire POR 12/08/2006 POR @ IND L 21 14 5 7 71.4 0 0 - 4 7 57.1 3 4 7 0 1 2 2 4 12
+p652
+aVJuan Dixon POR 12/08/2006 POR @ IND L 33 17 6 14 42.9 2 3 66.7 3 4 75.0 2 2 4 3 2 0 2 1 0
+p653
+aVSergio Rodriguez POR 12/08/2006 POR @ IND L 15 6 1 2 50.0 0 0 - 4 4 100.0 1 1 2 2 1 0 4 1 4
+p654
+aVJarrett Jack POR 12/08/2006 POR @ IND L 33 6 3 9 33.3 0 0 - 0 0 - 0 2 2 4 1 1 5 4 -17
+p655
+aVJoel Przybilla POR 12/08/2006 POR @ IND L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -15
+p656
+aVTravis Outlaw POR 12/06/2006 POR @ MIL L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 5 -2
+p657
+aVJuan Dixon POR 12/06/2006 POR @ MIL L 15 0 0 8 0.0 0 2 0.0 0 0 - 0 3 3 3 1 0 1 0 -6
+p658
+aVLaMarcus Aldridge POR 12/06/2006 POR @ MIL L 25 10 4 8 50.0 0 1 0.0 2 2 100.0 3 1 4 1 0 1 0 5 -20
+p659
+aVJarrett Jack POR 12/06/2006 POR @ MIL L 47 30 12 22 54.5 1 3 33.3 5 5 100.0 0 1 1 10 1 0 2 3 0
+p660
+aVSergio Rodriguez POR 12/06/2006 POR @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p661
+aVZach Randolph POR 12/06/2006 POR @ MIL L 42 20 7 19 36.8 0 0 - 6 7 85.7 4 10 14 0 2 0 3 4 1
+p662
+aVDan Dickau POR 12/06/2006 POR @ MIL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 2 0 0 1 -8
+p663
+aVIme Udoka POR 12/06/2006 POR @ MIL L 43 9 3 7 42.9 3 5 60.0 0 0 - 0 1 1 2 0 0 3 5 -12
+p664
+aVMartell Webster POR 12/06/2006 POR @ MIL L 40 19 7 12 58.3 5 8 62.5 0 0 - 0 2 2 3 0 1 1 1 2
+p665
+aVJoel Przybilla POR 12/06/2006 POR @ MIL L 25 2 1 1 100.0 0 0 - 0 0 - 4 5 9 3 0 2 4 4 12
+p666
+aVRaef LaFrentz POR 12/06/2006 POR @ MIL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p667
+aVJamaal Magloire POR 12/06/2006 POR @ MIL L 7 4 1 2 50.0 0 0 - 2 4 50.0 0 2 2 0 0 0 0 0 -5
+p668
+aVMartell Webster POR 12/05/2006 POR @ DET W 16 4 1 6 16.7 0 1 0.0 2 2 100.0 0 1 1 1 1 1 1 0 3
+p669
+aVZach Randolph POR 12/05/2006 POR @ DET W 40 31 12 25 48.0 0 0 - 7 8 87.5 3 10 13 3 0 0 1 1 6
+p670
+aVJarrett Jack POR 12/05/2006 POR @ DET W 40 18 4 10 40.0 1 3 33.3 9 11 81.8 0 4 4 5 1 0 1 3 0
+p671
+aVSergio Rodriguez POR 12/05/2006 POR @ DET W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 2
+p672
+aVDan Dickau POR 12/05/2006 POR @ DET W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 1
+p673
+aVTravis Outlaw POR 12/05/2006 POR @ DET W 29 5 2 6 33.3 0 1 0.0 1 2 50.0 1 2 3 1 1 2 1 1 4
+p674
+aVJamaal Magloire POR 12/05/2006 POR @ DET W 3 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 -4
+p675
+aVLaMarcus Aldridge POR 12/05/2006 POR @ DET W 24 11 5 9 55.6 0 0 - 1 2 50.0 5 6 11 0 0 1 0 2 1
+p676
+aVRaef LaFrentz POR 12/05/2006 POR @ DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p677
+aVJuan Dixon POR 12/05/2006 POR @ DET W 31 6 3 10 30.0 0 1 0.0 0 0 - 1 1 2 2 1 0 2 2 0
+p678
+aVIme Udoka POR 12/05/2006 POR @ DET W 27 9 4 7 57.1 1 1 100.0 0 0 - 2 6 8 1 0 0 0 3 -1
+p679
+aVJoel Przybilla POR 12/05/2006 POR @ DET W 21 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 2 0 3 1
+p680
+aVJarrett Jack POR 12/03/2006 POR vs. ATL L 28 9 4 12 33.3 0 2 0.0 1 1 100.0 0 0 0 8 1 0 3 3 -17
+p681
+aVTravis Outlaw POR 12/03/2006 POR vs. ATL L 23 8 4 11 36.4 0 0 - 0 0 - 2 4 6 2 1 1 1 4 -10
+p682
+aVMartell Webster POR 12/03/2006 POR vs. ATL L 34 18 5 10 50.0 4 6 66.7 4 4 100.0 1 4 5 0 0 0 3 2 -9
+p683
+aVJuan Dixon POR 12/03/2006 POR vs. ATL L 19 1 0 2 0.0 0 1 0.0 1 1 100.0 0 1 1 2 1 0 0 1 5
+p684
+aVJoel Przybilla POR 12/03/2006 POR vs. ATL L 9 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 1 1 1 -6
+p685
+aVLaMarcus Aldridge POR 12/03/2006 POR vs. ATL L 28 6 2 4 50.0 0 0 - 2 2 100.0 3 5 8 0 0 3 1 2 7
+p686
+aVJamaal Magloire POR 12/03/2006 POR vs. ATL L 15 8 3 4 75.0 0 0 - 2 3 66.7 0 2 2 1 0 1 4 2 -8
+p687
+aVSergio Rodriguez POR 12/03/2006 POR vs. ATL L 26 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 11 2 0 2 1 1
+p688
+aVIme Udoka POR 12/03/2006 POR vs. ATL L 25 8 3 4 75.0 1 1 100.0 1 2 50.0 0 0 0 0 1 1 1 1 -15
+p689
+aVZach Randolph POR 12/03/2006 POR vs. ATL L 33 30 11 18 61.1 1 1 100.0 7 9 77.8 2 4 6 0 0 0 5 5 -3
+p690
+aVZach Randolph POR 12/01/2006 POR vs. ORL L 36 28 10 25 40.0 0 3 0.0 8 11 72.7 7 6 13 3 1 0 2 0 5
+p691
+aVTravis Outlaw POR 12/01/2006 POR vs. ORL L 28 13 4 6 66.7 1 2 50.0 4 4 100.0 2 6 8 0 1 2 1 2 -5
+p692
+aVSergio Rodriguez POR 12/01/2006 POR vs. ORL L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 4 0 0 1 0 6
+p693
+aVJuan Dixon POR 12/01/2006 POR vs. ORL L 20 2 1 8 12.5 0 2 0.0 0 0 - 0 1 1 4 0 0 2 3 -7
+p694
+aVJamaal Magloire POR 12/01/2006 POR vs. ORL L 16 6 3 6 50.0 0 0 - 0 2 0.0 2 3 5 0 2 0 1 4 -9
+p695
+aVJarrett Jack POR 12/01/2006 POR vs. ORL L 37 14 4 9 44.4 1 3 33.3 5 5 100.0 0 0 0 5 2 0 3 3 -2
+p696
+aVLaMarcus Aldridge POR 12/01/2006 POR vs. ORL L 26 10 4 8 50.0 0 0 - 2 2 100.0 2 3 5 0 0 1 0 1 -1
+p697
+aVJoel Przybilla POR 12/01/2006 POR vs. ORL L 16 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 1 0 1 0 3 1
+p698
+aVMartell Webster POR 12/01/2006 POR vs. ORL L 18 3 1 3 33.3 0 2 0.0 1 2 50.0 0 1 1 0 0 1 0 2 3
+p699
+aVIme Udoka POR 12/01/2006 POR vs. ORL L 24 6 2 7 28.6 0 3 0.0 2 2 100.0 1 3 4 0 2 0 0 3 -1
+p700
+aVJamaal Magloire POR 11/28/2006 POR vs. IND L 4 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 0 4
+p701
+aVJoel Przybilla POR 11/28/2006 POR vs. IND L 17 2 1 4 25.0 0 0 - 0 0 - 6 4 10 0 0 1 1 4 -3
+p702
+aVJarrett Jack POR 11/28/2006 POR vs. IND L 29 21 7 12 58.3 1 3 33.3 6 7 85.7 0 5 5 6 2 0 0 1 3
+p703
+aVTravis Outlaw POR 11/28/2006 POR vs. IND L 27 12 4 11 36.4 0 1 0.0 4 5 80.0 3 2 5 1 0 2 0 3 -11
+p704
+aVJuan Dixon POR 11/28/2006 POR vs. IND L 23 12 6 12 50.0 0 3 0.0 0 0 - 0 1 1 1 2 0 2 5 -8
+p705
+aVIme Udoka POR 11/28/2006 POR vs. IND L 26 9 3 9 33.3 2 5 40.0 1 2 50.0 4 1 5 1 2 0 2 1 -3
+p706
+aVSergio Rodriguez POR 11/28/2006 POR vs. IND L 8 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 2 0 0 0 1 -14
+p707
+aVZach Randolph POR 11/28/2006 POR vs. IND L 28 30 11 27 40.7 0 0 - 8 8 100.0 7 4 11 1 1 0 5 4 -3
+p708
+aVMartell Webster POR 11/28/2006 POR vs. IND L 11 2 0 4 0.0 0 2 0.0 2 2 100.0 0 4 4 0 0 1 0 3 3
+p709
+aVLaMarcus Aldridge POR 11/28/2006 POR vs. IND L 10 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 2 -8
+p710
+aVJamaal Magloire POR 11/26/2006 POR vs. PHX L 21 4 2 6 33.3 0 0 - 0 2 0.0 1 6 7 0 0 3 2 1 7
+p711
+aVMartell Webster POR 11/26/2006 POR vs. PHX L 27 11 4 5 80.0 3 3 100.0 0 0 - 0 3 3 0 0 0 1 1 -9
+p712
+aVZach Randolph POR 11/26/2006 POR vs. PHX L 27 18 8 16 50.0 0 0 - 2 5 40.0 4 5 9 2 1 0 3 2 -25
+p713
+aVJuan Dixon POR 11/26/2006 POR vs. PHX L 26 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 1 0 0 0 2 -8
+p714
+aVStephen Graham POR 11/26/2006 POR vs. PHX L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 2
+p715
+aVIme Udoka POR 11/26/2006 POR vs. PHX L 28 12 4 8 50.0 1 2 50.0 3 3 100.0 2 3 5 1 2 0 0 2 -23
+p716
+aVLaMarcus Aldridge POR 11/26/2006 POR vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -9
+p717
+aVTravis Outlaw POR 11/26/2006 POR vs. PHX L 45 22 8 17 47.1 1 1 100.0 5 6 83.3 0 3 3 3 2 1 2 3 -9
+p718
+aVJarrett Jack POR 11/26/2006 POR vs. PHX L 33 13 5 11 45.5 0 0 - 3 3 100.0 0 2 2 5 1 0 4 2 -11
+p719
+aVSergio Rodriguez POR 11/26/2006 POR vs. PHX L 22 9 4 5 80.0 1 1 100.0 0 0 - 1 3 4 10 0 0 2 4 -5
+p720
+aVLaMarcus Aldridge POR 11/25/2006 POR @ SAC L 31 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 2 1 3 -6
+p721
+aVIme Udoka POR 11/25/2006 POR @ SAC L 30 13 6 10 60.0 1 4 25.0 0 0 - 2 1 3 1 0 1 0 2 -12
+p722
+aVStephen Graham POR 11/25/2006 POR @ SAC L 16 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 -3
+p723
+aVMartell Webster POR 11/25/2006 POR @ SAC L 44 6 2 6 33.3 2 5 40.0 0 0 - 1 3 4 2 1 0 2 1 -6
+p724
+aVJamaal Magloire POR 11/25/2006 POR @ SAC L 28 5 0 1 0.0 0 0 - 5 8 62.5 0 3 3 0 0 0 0 2 -12
+p725
+aVJarrett Jack POR 11/25/2006 POR @ SAC L 28 11 5 10 50.0 0 2 0.0 1 2 50.0 1 1 2 4 0 0 2 4 -14
+p726
+aVZach Randolph POR 11/25/2006 POR @ SAC L 33 24 10 16 62.5 0 0 - 4 5 80.0 0 8 8 2 0 0 2 3 -6
+p727
+aVJuan Dixon POR 11/25/2006 POR @ SAC L 38 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -13
+p728
+aVTravis Outlaw POR 11/25/2006 POR @ SAC L 44 8 3 8 37.5 0 1 0.0 2 2 100.0 1 3 4 0 1 0 1 3 -22
+p729
+aVDan Dickau POR 11/25/2006 POR @ SAC L 18 5 1 7 14.3 1 5 20.0 2 3 66.7 0 1 1 3 0 1 0 1 -1
+p730
+aVSergio Rodriguez POR 11/25/2006 POR @ SAC L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 2 2 -5
+p731
+aVZach Randolph POR 11/22/2006 POR vs. NJN W 31 25 8 19 42.1 0 1 0.0 9 9 100.0 4 4 8 1 0 0 0 2 1
+p732
+aVStephen Graham POR 11/22/2006 POR vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p733
+aVLaMarcus Aldridge POR 11/22/2006 POR vs. NJN W 27 10 4 12 33.3 0 0 - 2 2 100.0 4 4 8 0 0 0 1 2 -16
+p734
+aVDan Dickau POR 11/22/2006 POR vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p735
+aVJamaal Magloire POR 11/22/2006 POR vs. NJN W 16 9 4 5 80.0 0 0 - 1 3 33.3 1 6 7 0 0 1 1 2 5
+p736
+aVJarrett Jack POR 11/22/2006 POR vs. NJN W 37 17 5 10 50.0 2 2 100.0 5 5 100.0 1 2 3 5 0 0 0 1 -6
+p737
+aVSergio Rodriguez POR 11/22/2006 POR vs. NJN W 14 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 5 0 0 0 0 11
+p738
+aVIme Udoka POR 11/22/2006 POR vs. NJN W 30 8 3 4 75.0 2 2 100.0 0 0 - 1 0 1 0 0 0 1 6 -2
+p739
+aVJuan Dixon POR 11/22/2006 POR vs. NJN W 21 7 3 6 50.0 1 3 33.3 0 2 0.0 0 0 0 3 1 0 1 2 10
+p740
+aVTravis Outlaw POR 11/22/2006 POR vs. NJN W 27 13 6 11 54.5 0 1 0.0 1 4 25.0 1 0 1 3 1 1 0 2 6
+p741
+aVMartell Webster POR 11/22/2006 POR vs. NJN W 35 9 3 7 42.9 0 3 0.0 3 3 100.0 1 1 2 1 0 1 1 3 7
+p742
+aVJamaal Magloire POR 11/20/2006 POR vs. SAS L 21 9 3 4 75.0 0 0 - 3 5 60.0 2 4 6 1 0 1 2 3 -11
+p743
+aVStephen Graham POR 11/20/2006 POR vs. SAS L 18 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 1 0 0 2 -11
+p744
+aVIme Udoka POR 11/20/2006 POR vs. SAS L 23 6 3 7 42.9 0 3 0.0 0 0 - 1 1 2 5 2 1 3 4 8
+p745
+aVTravis Outlaw POR 11/20/2006 POR vs. SAS L 20 5 2 6 33.3 1 1 100.0 0 0 - 1 1 2 0 1 1 0 0 -13
+p746
+aVJarrett Jack POR 11/20/2006 POR vs. SAS L 33 12 4 7 57.1 0 1 0.0 4 4 100.0 0 1 1 5 0 1 3 4 -12
+p747
+aVDan Dickau POR 11/20/2006 POR vs. SAS L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 3
+p748
+aVJuan Dixon POR 11/20/2006 POR vs. SAS L 29 17 5 13 38.5 1 4 25.0 6 6 100.0 0 2 2 2 1 0 3 2 -6
+p749
+aVLaMarcus Aldridge POR 11/20/2006 POR vs. SAS L 23 8 4 8 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 1 0
+p750
+aVZach Randolph POR 11/20/2006 POR vs. SAS L 36 23 10 17 58.8 0 0 - 3 3 100.0 4 4 8 2 1 0 1 2 -5
+p751
+aVSergio Rodriguez POR 11/20/2006 POR vs. SAS L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 0
+p752
+aVMartell Webster POR 11/20/2006 POR vs. SAS L 22 8 3 6 50.0 2 4 50.0 0 0 - 1 2 3 1 0 0 3 1 2
+p753
+aVJarrett Jack POR 11/18/2006 POR @ NJN W 39 12 4 5 80.0 0 0 - 4 5 80.0 0 3 3 8 1 0 0 4 17
+p754
+aVLaMarcus Aldridge POR 11/18/2006 POR @ NJN W 33 12 5 9 55.6 0 0 - 2 2 100.0 1 2 3 2 1 2 1 4 20
+p755
+aVMartell Webster POR 11/18/2006 POR @ NJN W 27 7 2 9 22.2 1 5 20.0 2 2 100.0 0 4 4 1 4 0 0 4 11
+p756
+aVDan Dickau POR 11/18/2006 POR @ NJN W 7 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 3 0 0 0 0 7
+p757
+aVJamaal Magloire POR 11/18/2006 POR @ NJN W 15 9 4 5 80.0 0 0 - 1 2 50.0 0 5 5 0 0 0 2 3 -3
+p758
+aVSergio Rodriguez POR 11/18/2006 POR @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p759
+aVIme Udoka POR 11/18/2006 POR @ NJN W 36 10 3 7 42.9 2 4 50.0 2 2 100.0 2 4 6 1 3 0 2 5 21
+p760
+aVStephen Graham POR 11/18/2006 POR @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p761
+aVJuan Dixon POR 11/18/2006 POR @ NJN W 30 8 2 4 50.0 1 2 50.0 3 3 100.0 0 1 1 3 0 0 1 2 6
+p762
+aVZach Randolph POR 11/18/2006 POR @ NJN W 32 20 7 17 41.2 0 0 - 6 7 85.7 1 15 16 2 1 1 3 2 21
+p763
+aVTravis Outlaw POR 11/18/2006 POR @ NJN W 17 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 1 0 1 0 2 -1
+p764
+aVLaMarcus Aldridge POR 11/17/2006 POR @ BOS L 18 12 5 5 100.0 0 0 - 2 2 100.0 3 2 5 1 1 0 0 3 -3
+p765
+aVMartell Webster POR 11/17/2006 POR @ BOS L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 4 -16
+p766
+aVJarrett Jack POR 11/17/2006 POR @ BOS L 16 8 3 10 30.0 0 1 0.0 2 2 100.0 1 4 5 8 0 0 5 2 -13
+p767
+aVJuan Dixon POR 11/17/2006 POR @ BOS L 15 11 5 9 55.6 1 2 50.0 0 0 - 0 2 2 3 0 0 1 4 -20
+p768
+aVIme Udoka POR 11/17/2006 POR @ BOS L 12 14 6 13 46.2 2 4 50.0 0 0 - 2 4 6 4 0 0 1 3 -15
+p769
+aVTravis Outlaw POR 11/17/2006 POR @ BOS L 15 10 4 9 44.4 0 0 - 2 2 100.0 0 4 4 0 0 2 0 5 -10
+p770
+aVDan Dickau POR 11/17/2006 POR @ BOS L 3 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 3
+p771
+aVStephen Graham POR 11/17/2006 POR @ BOS L 7 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 3 -17
+p772
+aVZach Randolph POR 11/17/2006 POR @ BOS L 14 23 6 14 42.9 0 1 0.0 11 13 84.6 2 10 12 2 1 1 6 3 -16
+p773
+aVJamaal Magloire POR 11/17/2006 POR @ BOS L 4 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -17
+p774
+aVSergio Rodriguez POR 11/17/2006 POR @ BOS L 11 0 0 6 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 3 0 -16
+p775
+aVStephen Graham POR 11/15/2006 POR @ CLE L 14 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 2 0 4 2 -14
+p776
+aVTravis Outlaw POR 11/15/2006 POR @ CLE L 29 16 7 14 50.0 0 1 0.0 2 4 50.0 2 0 2 0 0 2 3 3 8
+p777
+aVIme Udoka POR 11/15/2006 POR @ CLE L 27 5 2 10 20.0 1 3 33.3 0 0 - 2 2 4 2 3 0 1 5 -9
+p778
+aVJarrett Jack POR 11/15/2006 POR @ CLE L 22 5 2 6 33.3 0 2 0.0 1 1 100.0 0 2 2 2 0 0 1 1 -19
+p779
+aVMartell Webster POR 11/15/2006 POR @ CLE L 17 2 0 4 0.0 0 3 0.0 2 2 100.0 1 2 3 0 1 0 1 2 -8
+p780
+aVZach Randolph POR 11/15/2006 POR @ CLE L 36 26 7 15 46.7 0 1 0.0 12 20 60.0 2 9 11 1 0 0 7 5 -20
+p781
+aVLaMarcus Aldridge POR 11/15/2006 POR @ CLE L 22 13 5 5 100.0 0 0 - 3 4 75.0 3 5 8 1 3 0 0 5 10
+p782
+aVSergio Rodriguez POR 11/15/2006 POR @ CLE L 26 2 1 5 20.0 0 0 - 0 0 - 0 1 1 8 2 0 1 2 6
+p783
+aVJamaal Magloire POR 11/15/2006 POR @ CLE L 17 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -18
+p784
+aVJuan Dixon POR 11/15/2006 POR @ CLE L 30 14 4 8 50.0 3 6 50.0 3 4 75.0 1 0 1 1 0 1 1 3 -1
+p785
+aVLaMarcus Aldridge POR 11/14/2006 POR @ MIN L 25 7 3 5 60.0 0 0 - 1 4 25.0 0 4 4 1 0 3 0 5 -10
+p786
+aVMartell Webster POR 11/14/2006 POR @ MIN L 22 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 3 1 0 1 2 -6
+p787
+aVJamaal Magloire POR 11/14/2006 POR @ MIN L 12 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -12
+p788
+aVJarrett Jack POR 11/14/2006 POR @ MIN L 31 8 1 7 14.3 0 1 0.0 6 7 85.7 0 2 2 6 1 0 2 3 -11
+p789
+aVSergio Rodriguez POR 11/14/2006 POR @ MIN L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 8 1 0 1 2 6
+p790
+aVDan Dickau POR 11/14/2006 POR @ MIN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -7
+p791
+aVTravis Outlaw POR 11/14/2006 POR @ MIN L 27 8 3 9 33.3 0 0 - 2 2 100.0 0 4 4 0 3 1 4 6 12
+p792
+aVStephen Graham POR 11/14/2006 POR @ MIN L 30 9 4 10 40.0 0 2 0.0 1 1 100.0 1 7 8 1 0 0 2 3 5
+p793
+aVZach Randolph POR 11/14/2006 POR @ MIN L 35 26 8 16 50.0 0 0 - 10 13 76.9 3 6 9 1 0 0 2 0 -18
+p794
+aVJuan Dixon POR 11/14/2006 POR @ MIN L 21 15 6 12 50.0 2 3 66.7 1 2 50.0 0 0 0 0 0 0 1 1 1
+p795
+aVIme Udoka POR 11/14/2006 POR @ MIN L 20 7 2 5 40.0 2 3 66.7 1 2 50.0 0 1 1 0 1 0 1 1 -20
+p796
+aVIme Udoka POR 11/12/2006 POR vs. DAL L 24 8 3 6 50.0 0 2 0.0 2 2 100.0 0 2 2 2 0 0 0 2 -25
+p797
+aVJuan Dixon POR 11/12/2006 POR vs. DAL L 33 13 5 10 50.0 2 5 40.0 1 1 100.0 1 2 3 1 1 0 3 3 10
+p798
+aVTravis Outlaw POR 11/12/2006 POR vs. DAL L 26 9 3 6 50.0 0 0 - 3 3 100.0 0 1 1 0 1 0 0 1 17
+p799
+aVMartell Webster POR 11/12/2006 POR vs. DAL L 18 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 0 0 0 2 3 -11
+p800
+aVJarrett Jack POR 11/12/2006 POR vs. DAL L 37 20 4 10 40.0 0 2 0.0 12 12 100.0 1 2 3 10 4 0 3 5 -4
+p801
+aVStephen Graham POR 11/12/2006 POR vs. DAL L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p802
+aVLaMarcus Aldridge POR 11/12/2006 POR vs. DAL L 19 10 5 9 55.6 0 0 - 0 0 - 6 2 8 0 0 0 0 2 3
+p803
+aVJamaal Magloire POR 11/12/2006 POR vs. DAL L 20 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -22
+p804
+aVDan Dickau POR 11/12/2006 POR vs. DAL L 11 4 2 2 100.0 0 0 - 0 0 - 1 0 1 2 0 0 2 2 -3
+p805
+aVZach Randolph POR 11/12/2006 POR vs. DAL L 38 20 8 22 36.4 1 1 100.0 3 4 75.0 3 6 9 1 1 0 5 3 -2
+p806
+aVZach Randolph POR 11/10/2006 POR vs. NOK W 41 31 8 17 47.1 0 0 - 15 16 93.8 3 9 12 0 1 0 2 2 -4
+p807
+aVJarrett Jack POR 11/10/2006 POR vs. NOK W 43 13 3 10 30.0 1 2 50.0 6 6 100.0 0 1 1 5 1 0 3 1 7
+p808
+aVTravis Outlaw POR 11/10/2006 POR vs. NOK W 32 16 6 9 66.7 0 0 - 4 5 80.0 2 4 6 0 2 6 0 3 -3
+p809
+aVIme Udoka POR 11/10/2006 POR vs. NOK W 35 9 3 4 75.0 2 3 66.7 1 4 25.0 0 2 2 2 0 0 1 4 4
+p810
+aVBrandon Roy POR 11/10/2006 POR vs. NOK W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -8
+p811
+aVJamaal Magloire POR 11/10/2006 POR vs. NOK W 17 7 3 6 50.0 0 0 - 1 4 25.0 2 4 6 0 0 0 3 3 2
+p812
+aVStephen Graham POR 11/10/2006 POR vs. NOK W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 5
+p813
+aVMartell Webster POR 11/10/2006 POR vs. NOK W 19 7 2 7 28.6 1 4 25.0 2 2 100.0 1 2 3 0 1 2 1 1 7
+p814
+aVJuan Dixon POR 11/10/2006 POR vs. NOK W 28 6 2 9 22.2 0 4 0.0 2 2 100.0 0 3 3 3 1 2 2 2 -9
+p815
+aVDan Dickau POR 11/10/2006 POR vs. NOK W 9 3 1 3 33.3 0 2 0.0 1 1 100.0 0 2 2 0 0 0 0 2 4
+p816
+aVTravis Outlaw POR 11/08/2006 POR vs. LAL W 13 6 2 2 100.0 0 0 - 2 3 66.7 0 2 2 0 0 0 1 0 2
+p817
+aVStephen Graham POR 11/08/2006 POR vs. LAL W 21 11 3 6 50.0 1 2 50.0 4 4 100.0 3 0 3 0 1 0 1 4 -11
+p818
+aVZach Randolph POR 11/08/2006 POR vs. LAL W 38 36 12 23 52.2 1 2 50.0 11 12 91.7 3 7 10 3 3 0 2 4 9
+p819
+aVJarrett Jack POR 11/08/2006 POR vs. LAL W 36 12 4 7 57.1 0 1 0.0 4 4 100.0 0 2 2 6 4 0 6 2 11
+p820
+aVJuan Dixon POR 11/08/2006 POR vs. LAL W 28 10 5 7 71.4 0 0 - 0 0 - 0 2 2 3 1 0 0 3 13
+p821
+aVMartell Webster POR 11/08/2006 POR vs. LAL W 31 8 3 9 33.3 1 6 16.7 1 2 50.0 0 2 2 1 2 0 3 2 5
+p822
+aVIme Udoka POR 11/08/2006 POR vs. LAL W 32 9 3 7 42.9 1 2 50.0 2 2 100.0 1 3 4 0 1 0 1 3 12
+p823
+aVDan Dickau POR 11/08/2006 POR vs. LAL W 12 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 1 0
+p824
+aVJamaal Magloire POR 11/08/2006 POR vs. LAL W 29 8 3 5 60.0 0 0 - 2 4 50.0 3 8 11 0 0 0 2 5 14
+p825
+aVMartell Webster POR 11/06/2006 POR @ LAC L 15 1 0 3 0.0 0 1 0.0 1 5 20.0 0 1 1 0 0 0 1 2 -9
+p826
+aVStephen Graham POR 11/06/2006 POR @ LAC L 10 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p827
+aVJamaal Magloire POR 11/06/2006 POR @ LAC L 23 4 2 4 50.0 0 0 - 0 2 0.0 0 3 3 0 0 1 4 4 0
+p828
+aVJarrett Jack POR 11/06/2006 POR @ LAC L 38 17 8 14 57.1 0 4 0.0 1 1 100.0 0 3 3 5 3 0 1 5 -9
+p829
+aVJuan Dixon POR 11/06/2006 POR @ LAC L 38 9 3 12 25.0 1 5 20.0 2 2 100.0 1 2 3 2 1 0 2 3 -4
+p830
+aVBrandon Roy POR 11/06/2006 POR @ LAC L 14 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 2 0 0 1 1 -8
+p831
+aVTravis Outlaw POR 11/06/2006 POR @ LAC L 28 9 3 7 42.9 0 0 - 3 4 75.0 0 3 3 0 0 0 1 4 -12
+p832
+aVIme Udoka POR 11/06/2006 POR @ LAC L 34 11 4 8 50.0 1 3 33.3 2 4 50.0 4 6 10 2 0 0 1 4 1
+p833
+aVDan Dickau POR 11/06/2006 POR @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p834
+aVZach Randolph POR 11/06/2006 POR @ LAC L 38 35 11 17 64.7 0 0 - 13 15 86.7 6 7 13 1 2 3 4 3 -16
+p835
+aVMartell Webster POR 11/04/2006 POR vs. MIN W 30 16 6 8 75.0 4 5 80.0 0 0 - 0 2 2 0 1 0 1 1 8
+p836
+aVIme Udoka POR 11/04/2006 POR vs. MIN W 30 3 1 4 25.0 1 2 50.0 0 0 - 1 3 4 2 1 2 1 2 1
+p837
+aVZach Randolph POR 11/04/2006 POR vs. MIN W 38 17 8 17 47.1 0 0 - 1 1 100.0 2 5 7 4 0 1 3 3 1
+p838
+aVBrandon Roy POR 11/04/2006 POR vs. MIN W 42 16 4 17 23.5 0 4 0.0 8 9 88.9 1 3 4 8 0 1 1 0 -8
+p839
+aVJamaal Magloire POR 11/04/2006 POR vs. MIN W 18 2 1 4 25.0 0 0 - 0 2 0.0 1 6 7 0 0 0 1 4 -8
+p840
+aVJuan Dixon POR 11/04/2006 POR vs. MIN W 25 10 4 11 36.4 1 2 50.0 1 2 50.0 0 1 1 1 2 0 1 3 12
+p841
+aVTravis Outlaw POR 11/04/2006 POR vs. MIN W 32 18 9 17 52.9 0 1 0.0 0 1 0.0 6 9 15 2 2 1 1 3 6
+p842
+aVJarrett Jack POR 11/04/2006 POR vs. MIN W 25 6 2 4 50.0 0 0 - 2 3 66.7 1 1 2 4 0 0 1 2 -2
+p843
+aVJamaal Magloire POR 11/03/2006 POR @ GSW L 28 2 0 1 0.0 0 0 - 2 4 50.0 5 5 10 1 0 0 3 3 -8
+p844
+aVJuan Dixon POR 11/03/2006 POR @ GSW L 16 6 2 8 25.0 1 5 20.0 1 1 100.0 0 0 0 2 0 0 3 1 -17
+p845
+aVSergio Rodriguez POR 11/03/2006 POR @ GSW L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p846
+aVTravis Outlaw POR 11/03/2006 POR @ GSW L 10 0 0 3 0.0 0 0 - 0 0 - 0 5 5 1 0 1 3 5 -3
+p847
+aVZach Randolph POR 11/03/2006 POR @ GSW L 38 22 9 18 50.0 0 0 - 4 4 100.0 3 8 11 0 1 0 3 5 -11
+p848
+aVIme Udoka POR 11/03/2006 POR @ GSW L 21 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 2 0 0 2 3 -8
+p849
+aVBrandon Roy POR 11/03/2006 POR @ GSW L 38 19 5 16 31.3 0 3 0.0 9 10 90.0 2 4 6 5 0 1 0 4 -15
+p850
+aVJarrett Jack POR 11/03/2006 POR @ GSW L 38 12 5 10 50.0 2 7 28.6 0 0 - 0 1 1 10 3 0 4 3 -5
+p851
+aVJoel Przybilla POR 11/03/2006 POR @ GSW L 11 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 3 2 2 -6
+p852
+aVMartell Webster POR 11/03/2006 POR @ GSW L 16 12 4 6 66.7 4 5 80.0 0 0 - 0 0 0 1 0 1 1 1 0
+p853
+aVStephen Graham POR 11/03/2006 POR @ GSW L 19 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 0 0 0 2 4 -2
+p854
+aVDan Dickau POR 11/03/2006 POR @ GSW L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 5
+p855
+aVTravis Outlaw POR 11/01/2006 POR @ SEA W 24 9 4 6 66.7 0 0 - 1 2 50.0 1 1 2 0 1 1 0 2 29
+p856
+aVRaef LaFrentz POR 11/01/2006 POR @ SEA W 8 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 1 -4
+p857
+aVJuan Dixon POR 11/01/2006 POR @ SEA W 22 18 8 10 80.0 0 0 - 2 2 100.0 0 1 1 1 2 0 2 2 10
+p858
+aVJamaal Magloire POR 11/01/2006 POR @ SEA W 20 6 3 4 75.0 0 0 - 0 0 - 0 5 5 0 0 3 2 2 -4
+p859
+aVJarrett Jack POR 11/01/2006 POR @ SEA W 44 13 3 8 37.5 0 3 0.0 7 8 87.5 0 6 6 6 3 0 3 3 5
+p860
+aVZach Randolph POR 11/01/2006 POR @ SEA W 33 30 8 18 44.4 0 0 - 14 15 93.3 2 8 10 2 0 0 1 2 -8
+p861
+aVBrandon Roy POR 11/01/2006 POR @ SEA W 35 20 10 16 62.5 0 1 0.0 0 0 - 2 1 3 2 0 0 3 3 -8
+p862
+aVIme Udoka POR 11/01/2006 POR @ SEA W 26 10 3 4 75.0 1 2 50.0 3 4 75.0 2 0 2 1 0 0 3 2 1
+p863
+aVMartell Webster POR 11/01/2006 POR @ SEA W 15 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 1 0 0 0 1 2
+p864
+aVJoel Przybilla POR 11/01/2006 POR @ SEA W 13 1 0 1 0.0 0 0 - 1 4 25.0 1 3 4 0 0 2 0 3 -3
+p865
+a.

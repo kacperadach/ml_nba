@@ -1,0 +1,108 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTerry Porter MIA 05/16/1999 MIA vs. NYK L 29 7 2 9 22.2 1 5 20.0 2 2 100.0 2 2 4 1 0 0 3 1 -14
+p2
+aVClar. Weatherspoon MIA 05/16/1999 MIA vs. NYK L 14 2 0 3 0.0 0 0 - 2 6 33.3 1 4 5 1 1 0 2 0 5
+p3
+aVJamal Mashburn MIA 05/16/1999 MIA vs. NYK L 24 16 5 9 55.6 2 2 100.0 4 6 66.7 2 1 3 2 0 0 2 4 15
+p4
+aVAlonzo Mourning MIA 05/16/1999 MIA vs. NYK L 40 21 6 14 42.9 0 0 - 9 10 90.0 2 3 5 0 1 3 0 5 -2
+p5
+aVP.J. Brown MIA 05/16/1999 MIA vs. NYK L 36 16 6 9 66.7 0 0 - 4 4 100.0 3 9 12 1 1 1 0 4 -6
+p6
+aVDuane Causwell MIA 05/16/1999 MIA vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p7
+aVVoshon Lenard MIA 05/16/1999 MIA vs. NYK L 13 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -13
+p8
+aVKeith Askins MIA 05/16/1999 MIA vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p9
+aVTim Hardaway MIA 05/16/1999 MIA vs. NYK L 41 9 4 10 40.0 0 3 0.0 1 3 33.3 0 2 2 8 0 0 4 2 -3
+p10
+aVDan Majerle MIA 05/16/1999 MIA vs. NYK L 36 3 1 6 16.7 1 6 16.7 0 0 - 0 5 5 3 2 1 2 2 9
+p11
+aVJamal Mashburn MIA 05/14/1999 MIA @ NYK W 26 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 1 5
+p12
+aVClar. Weatherspoon MIA 05/14/1999 MIA @ NYK W 29 14 5 10 50.0 0 0 - 4 4 100.0 0 6 6 0 2 0 0 4 19
+p13
+aVP.J. Brown MIA 05/14/1999 MIA @ NYK W 14 6 3 9 33.3 0 0 - 0 0 - 3 1 4 1 0 1 0 4 -4
+p14
+aVRex Walters MIA 05/14/1999 MIA @ NYK W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p15
+aVDan Majerle MIA 05/14/1999 MIA @ NYK W 29 9 2 5 40.0 2 4 50.0 3 3 100.0 1 3 4 2 2 0 0 5 -2
+p16
+aVVoshon Lenard MIA 05/14/1999 MIA @ NYK W 20 10 4 7 57.1 2 4 50.0 0 0 - 0 0 0 2 0 1 0 0 19
+p17
+aVTim Hardaway MIA 05/14/1999 MIA @ NYK W 35 14 5 14 35.7 4 8 50.0 0 0 - 0 2 2 5 1 0 2 2 13
+p18
+aVKeith Askins MIA 05/14/1999 MIA @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p19
+aVAlonzo Mourning MIA 05/14/1999 MIA @ NYK W 39 16 5 13 38.5 0 0 - 6 13 46.2 1 12 13 1 1 1 2 3 13
+p20
+aVTerry Porter MIA 05/14/1999 MIA @ NYK W 32 16 5 6 83.3 1 1 100.0 5 6 83.3 0 5 5 7 2 0 1 2 18
+p21
+aVDuane Causwell MIA 05/14/1999 MIA @ NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -1
+p22
+aVDan Majerle MIA 05/12/1999 MIA @ NYK L 17 0 0 5 0.0 0 5 0.0 0 0 - 1 1 2 0 0 1 0 2 -19
+p23
+aVVoshon Lenard MIA 05/12/1999 MIA @ NYK L 8 13 4 5 80.0 3 3 100.0 2 2 100.0 0 0 0 0 0 0 0 2 6
+p24
+aVAlonzo Mourning MIA 05/12/1999 MIA @ NYK L 31 18 7 14 50.0 0 0 - 4 8 50.0 0 7 7 0 0 1 4 4 -17
+p25
+aVRex Walters MIA 05/12/1999 MIA @ NYK L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 2
+p26
+aVJamal Mashburn MIA 05/12/1999 MIA @ NYK L 37 14 6 14 42.9 1 4 25.0 1 1 100.0 0 4 4 1 0 0 2 2 -25
+p27
+aVTim Hardaway MIA 05/12/1999 MIA @ NYK L 32 5 1 8 12.5 0 5 0.0 3 4 75.0 2 1 3 5 0 0 4 5 -34
+p28
+aVDuane Causwell MIA 05/12/1999 MIA @ NYK L 6 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 0 2 5
+p29
+aVKeith Askins MIA 05/12/1999 MIA @ NYK L 7 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 0 2 0 0 3 2
+p30
+aVP.J. Brown MIA 05/12/1999 MIA @ NYK L 29 9 2 9 22.2 0 1 0.0 5 5 100.0 6 2 8 0 1 0 2 5 -20
+p31
+aVMark Strickland MIA 05/12/1999 MIA @ NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 2
+p32
+aVTerry Porter MIA 05/12/1999 MIA @ NYK L 26 8 3 5 60.0 0 2 0.0 2 3 66.7 0 3 3 3 1 0 2 1 -9
+p33
+aVClar. Weatherspoon MIA 05/12/1999 MIA @ NYK L 30 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -13
+p34
+aVDan Majerle MIA 05/10/1999 MIA vs. NYK W 39 7 2 4 50.0 2 3 66.7 1 2 50.0 0 8 8 0 1 0 1 3 7
+p35
+aVClar. Weatherspoon MIA 05/10/1999 MIA vs. NYK W 17 9 2 4 50.0 0 0 - 5 5 100.0 1 1 2 1 0 0 0 2 5
+p36
+aVTim Hardaway MIA 05/10/1999 MIA vs. NYK W 34 7 1 5 20.0 0 2 0.0 5 8 62.5 1 3 4 11 0 1 4 2 9
+p37
+aVP.J. Brown MIA 05/10/1999 MIA vs. NYK W 31 12 6 10 60.0 0 0 - 0 0 - 1 4 5 2 0 0 1 4 4
+p38
+aVJamal Mashburn MIA 05/10/1999 MIA vs. NYK W 30 11 4 10 40.0 2 2 100.0 1 2 50.0 0 2 2 4 2 0 3 3 2
+p39
+aVTerry Porter MIA 05/10/1999 MIA vs. NYK W 27 11 5 8 62.5 1 1 100.0 0 0 - 1 5 6 2 0 0 2 4 3
+p40
+aVAlonzo Mourning MIA 05/10/1999 MIA vs. NYK W 45 26 10 16 62.5 0 0 - 6 10 60.0 1 7 8 2 3 4 5 2 8
+p41
+aVKeith Askins MIA 05/10/1999 MIA vs. NYK W 13 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 1 0 0 12
+p42
+aVJamal Mashburn MIA 05/08/1999 MIA vs. NYK L 34 7 3 12 25.0 1 5 20.0 0 0 - 1 1 2 2 0 0 2 1 -12
+p43
+aVDan Majerle MIA 05/08/1999 MIA vs. NYK L 27 1 0 6 0.0 0 4 0.0 1 2 50.0 1 9 10 1 0 0 0 3 -12
+p44
+aVDuane Causwell MIA 05/08/1999 MIA vs. NYK L 5 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 10
+p45
+aVAlonzo Mourning MIA 05/08/1999 MIA vs. NYK L 37 27 10 16 62.5 0 0 - 7 8 87.5 3 5 8 1 3 5 1 5 -20
+p46
+aVVoshon Lenard MIA 05/08/1999 MIA vs. NYK L 14 11 3 7 42.9 3 5 60.0 2 2 100.0 0 0 0 1 0 0 1 1 -2
+p47
+aVP.J. Brown MIA 05/08/1999 MIA vs. NYK L 31 8 4 8 50.0 0 0 - 0 1 0.0 1 1 2 1 0 0 0 0 -22
+p48
+aVClar. Weatherspoon MIA 05/08/1999 MIA vs. NYK L 18 2 1 4 25.0 0 0 - 0 2 0.0 2 4 6 0 3 1 0 0 -8
+p49
+aVTim Hardaway MIA 05/08/1999 MIA vs. NYK L 36 10 4 19 21.1 1 7 14.3 1 1 100.0 0 3 3 3 4 0 4 3 -28
+p50
+aVRex Walters MIA 05/08/1999 MIA vs. NYK L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 9
+p51
+aVMark Strickland MIA 05/08/1999 MIA vs. NYK L 2 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 0 4
+p52
+aVTerry Porter MIA 05/08/1999 MIA vs. NYK L 24 3 0 4 0.0 0 3 0.0 3 4 75.0 0 1 1 2 0 0 0 0 -19
+p53
+a.

@@ -1,0 +1,1574 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDonyell Marshall TOR 04/14/2004 TOR @ MIL W 40 22 8 11 72.7 6 8 75.0 0 0 - 2 11 13 1 0 1 2 2 12
+p2
+aVVince Carter TOR 04/14/2004 TOR @ MIL W 40 23 8 23 34.8 3 6 50.0 4 4 100.0 1 4 5 3 1 0 4 4 1
+p3
+aVMorris Peterson TOR 04/14/2004 TOR @ MIL W 18 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 3 -5
+p4
+aVRoger Mason Jr. TOR 04/14/2004 TOR @ MIL W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 1 4 0 -8
+p5
+aVChris Bosh TOR 04/14/2004 TOR @ MIL W 35 18 8 14 57.1 0 0 - 2 2 100.0 3 5 8 3 0 2 0 3 12
+p6
+aVJalen Rose TOR 04/14/2004 TOR @ MIL W 39 10 4 12 33.3 1 2 50.0 1 1 100.0 1 4 5 6 1 0 4 3 11
+p7
+aVMichael Curry TOR 04/14/2004 TOR @ MIL W 26 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 3 5
+p8
+aVCorie Blount TOR 04/14/2004 TOR @ MIL W 16 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -14
+p9
+aVDion Glover TOR 04/14/2004 TOR @ MIL W 14 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 1 0 1 0 1 -4
+p10
+aVDonyell Marshall TOR 04/13/2004 TOR vs. DET W 40 27 10 17 58.8 5 6 83.3 2 2 100.0 3 13 16 1 0 0 1 2 7
+p11
+aVChris Bosh TOR 04/13/2004 TOR vs. DET W 42 12 5 11 45.5 0 0 - 2 2 100.0 2 11 13 2 2 1 5 1 12
+p12
+aVVince Carter TOR 04/13/2004 TOR vs. DET W 37 19 8 15 53.3 1 2 50.0 2 2 100.0 0 0 0 2 3 0 3 2 7
+p13
+aVCorie Blount TOR 04/13/2004 TOR vs. DET W 14 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 -1
+p14
+aVJalen Rose TOR 04/13/2004 TOR vs. DET W 41 10 3 11 27.3 0 5 0.0 4 5 80.0 0 4 4 5 1 1 4 5 12
+p15
+aVMorris Peterson TOR 04/13/2004 TOR vs. DET W 37 7 1 8 12.5 0 4 0.0 5 6 83.3 0 2 2 5 3 0 2 2 10
+p16
+aVRoger Mason Jr. TOR 04/13/2004 TOR vs. DET W 13 7 2 5 40.0 1 2 50.0 2 2 100.0 0 2 2 1 1 0 1 0 1
+p17
+aVMichael Curry TOR 04/13/2004 TOR vs. DET W 16 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 6 -3
+p18
+aVJalen Rose TOR 04/11/2004 TOR vs. CHI L 48 32 12 24 50.0 0 2 0.0 8 9 88.9 0 7 7 6 0 0 4 3 -15
+p19
+aVDonyell Marshall TOR 04/11/2004 TOR vs. CHI L 47 8 3 8 37.5 1 5 20.0 1 2 50.0 0 16 16 3 3 1 0 4 -4
+p20
+aVChris Bosh TOR 04/11/2004 TOR vs. CHI L 31 6 2 10 20.0 0 1 0.0 2 2 100.0 2 4 6 0 1 1 0 3 -7
+p21
+aVRoger Mason Jr. TOR 04/11/2004 TOR vs. CHI L 9 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 1 6 4
+p22
+aVMorris Peterson TOR 04/11/2004 TOR vs. CHI L 43 22 9 16 56.3 0 4 0.0 4 5 80.0 1 3 4 0 4 0 3 4 -10
+p23
+aVCorie Blount TOR 04/11/2004 TOR vs. CHI L 20 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 1 0 1 2 2
+p24
+aVVince Carter TOR 04/11/2004 TOR vs. CHI L 41 30 11 27 40.7 0 4 0.0 8 9 88.9 1 2 3 4 0 3 5 6 9
+p25
+aVMichael Curry TOR 04/11/2004 TOR vs. CHI L 26 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 3 0 0 0 1 -9
+p26
+aVMilt Palacio TOR 04/09/2004 TOR @ DET L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 2 2 1
+p27
+aVMorris Peterson TOR 04/09/2004 TOR @ DET L 27 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 0 3 0 1 5 -10
+p28
+aVDonyell Marshall TOR 04/09/2004 TOR @ DET L 39 5 2 11 18.2 1 5 20.0 0 0 - 3 8 11 2 2 1 0 5 -11
+p29
+aVJalen Rose TOR 04/09/2004 TOR @ DET L 41 14 6 13 46.2 0 2 0.0 2 2 100.0 0 5 5 3 1 0 6 0 -9
+p30
+aVRobert Archibald TOR 04/09/2004 TOR @ DET L 3 0 0 1 0.0 0 0 - 0 2 0.0 2 2 4 0 0 0 0 0 -4
+p31
+aVMichael Curry TOR 04/09/2004 TOR @ DET L 26 4 2 5 40.0 0 0 - 0 0 - 0 1 1 3 1 0 1 3 3
+p32
+aVVince Carter TOR 04/09/2004 TOR @ DET L 45 18 6 21 28.6 1 6 16.7 5 7 71.4 1 3 4 5 1 0 4 2 -9
+p33
+aVChris Bosh TOR 04/09/2004 TOR @ DET L 37 18 5 10 50.0 0 1 0.0 8 8 100.0 0 9 9 0 3 1 3 5 -8
+p34
+aVCorie Blount TOR 04/09/2004 TOR @ DET L 15 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 4 7
+p35
+aVCorie Blount TOR 04/07/2004 TOR vs. IND L 15 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 -8
+p36
+aVRoger Mason Jr. TOR 04/07/2004 TOR vs. IND L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p37
+aVMorris Peterson TOR 04/07/2004 TOR vs. IND L 32 11 4 9 44.4 1 4 25.0 2 2 100.0 0 3 3 2 2 0 0 3 -4
+p38
+aVJalen Rose TOR 04/07/2004 TOR vs. IND L 37 17 7 17 41.2 1 3 33.3 2 4 50.0 0 2 2 8 1 0 5 3 -1
+p39
+aVMilt Palacio TOR 04/07/2004 TOR vs. IND L 16 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -7
+p40
+aVChris Bosh TOR 04/07/2004 TOR vs. IND L 38 12 6 13 46.2 0 0 - 0 0 - 4 2 6 2 1 2 0 4 -5
+p41
+aVRobert Archibald TOR 04/07/2004 TOR vs. IND L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -5
+p42
+aVDonyell Marshall TOR 04/07/2004 TOR vs. IND L 41 26 9 19 47.4 6 9 66.7 2 2 100.0 4 6 10 1 1 0 1 3 11
+p43
+aVVince Carter TOR 04/07/2004 TOR vs. IND L 33 15 6 19 31.6 0 1 0.0 3 3 100.0 0 6 6 3 1 0 0 4 -5
+p44
+aVMichael Curry TOR 04/07/2004 TOR vs. IND L 21 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 1 1 1 3 4
+p45
+aVRobert Archibald TOR 04/06/2004 TOR @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p46
+aVMilt Palacio TOR 04/06/2004 TOR @ CLE W 16 3 1 6 16.7 0 1 0.0 1 1 100.0 1 2 3 3 1 3 1 2 -6
+p47
+aVJalen Rose TOR 04/06/2004 TOR @ CLE W 38 15 7 18 38.9 1 1 100.0 0 0 - 1 2 3 6 0 1 4 4 3
+p48
+aVChris Bosh TOR 04/06/2004 TOR @ CLE W 37 11 4 11 36.4 0 1 0.0 3 4 75.0 1 9 10 1 0 5 3 4 -9
+p49
+aVVince Carter TOR 04/06/2004 TOR @ CLE W 39 32 13 28 46.4 4 10 40.0 2 3 66.7 1 7 8 5 2 0 4 0 -2
+p50
+aVDonyell Marshall TOR 04/06/2004 TOR @ CLE W 40 13 4 7 57.1 1 3 33.3 4 4 100.0 3 8 11 1 1 2 1 0 5
+p51
+aVMichael Curry TOR 04/06/2004 TOR @ CLE W 19 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 1 4 8
+p52
+aVMorris Peterson TOR 04/06/2004 TOR @ CLE W 32 7 3 9 33.3 0 4 0.0 1 3 33.3 0 6 6 2 1 0 2 2 0
+p53
+aVCorie Blount TOR 04/06/2004 TOR @ CLE W 17 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 2 2 0 3 6
+p54
+aVRod Strickland TOR 04/04/2004 TOR vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p55
+aVMilt Palacio TOR 04/04/2004 TOR vs. MIL L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -3
+p56
+aVDonyell Marshall TOR 04/04/2004 TOR vs. MIL L 39 10 3 11 27.3 1 5 20.0 3 4 75.0 6 10 16 2 0 1 3 3 -16
+p57
+aVVince Carter TOR 04/04/2004 TOR vs. MIL L 37 18 7 21 33.3 1 6 16.7 3 4 75.0 1 4 5 6 1 1 2 3 -13
+p58
+aVDion Glover TOR 04/04/2004 TOR vs. MIL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p59
+aVCorie Blount TOR 04/04/2004 TOR vs. MIL L 19 0 0 0 - 0 0 - 0 0 - 0 4 4 0 1 0 0 2 5
+p60
+aVJalen Rose TOR 04/04/2004 TOR vs. MIL L 42 21 10 21 47.6 0 1 0.0 1 1 100.0 0 2 2 7 0 0 0 3 2
+p61
+aVMichael Curry TOR 04/04/2004 TOR vs. MIL L 23 10 4 6 66.7 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 6
+p62
+aVMorris Peterson TOR 04/04/2004 TOR vs. MIL L 29 9 3 7 42.9 3 5 60.0 0 0 - 0 2 2 0 0 0 1 3 -12
+p63
+aVChris Bosh TOR 04/04/2004 TOR vs. MIL L 37 15 6 12 50.0 0 1 0.0 3 4 75.0 4 3 7 0 2 1 3 1 -3
+p64
+aVMilt Palacio TOR 04/02/2004 TOR @ IND L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -3
+p65
+aVVince Carter TOR 04/02/2004 TOR @ IND L 38 21 8 19 42.1 1 3 33.3 4 5 80.0 2 4 6 2 1 0 3 3 -16
+p66
+aVMorris Peterson TOR 04/02/2004 TOR @ IND L 30 2 0 8 0.0 0 3 0.0 2 2 100.0 0 4 4 2 0 0 0 1 -16
+p67
+aVRod Strickland TOR 04/02/2004 TOR @ IND L 19 0 0 2 0.0 0 0 - 0 0 - 1 5 6 4 0 0 1 2 1
+p68
+aVRobert Archibald TOR 04/02/2004 TOR @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p69
+aVChris Bosh TOR 04/02/2004 TOR @ IND L 35 11 4 7 57.1 0 0 - 3 4 75.0 2 5 7 2 1 2 3 2 -13
+p70
+aVLamond Murray TOR 04/02/2004 TOR @ IND L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p71
+aVDonyell Marshall TOR 04/02/2004 TOR @ IND L 25 2 1 7 14.3 0 2 0.0 0 0 - 0 0 0 0 0 2 3 4 -18
+p72
+aVJalen Rose TOR 04/02/2004 TOR @ IND L 38 22 10 22 45.5 0 1 0.0 2 2 100.0 0 4 4 2 1 0 0 0 -19
+p73
+aVCorie Blount TOR 04/02/2004 TOR @ IND L 25 6 3 6 50.0 0 0 - 0 0 - 2 4 6 1 2 1 2 4 3
+p74
+aVDion Glover TOR 04/02/2004 TOR @ IND L 3 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -4
+p75
+aVMichael Curry TOR 04/02/2004 TOR @ IND L 14 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -11
+p76
+aVDonyell Marshall TOR 03/31/2004 TOR vs. GSW L 39 4 2 11 18.2 0 5 0.0 0 0 - 5 11 16 1 4 1 1 4 0
+p77
+aVMilt Palacio TOR 03/31/2004 TOR vs. GSW L 13 6 3 6 50.0 0 0 - 0 1 0.0 0 2 2 1 0 0 1 0 0
+p78
+aVMorris Peterson TOR 03/31/2004 TOR vs. GSW L 37 13 5 11 45.5 3 5 60.0 0 0 - 1 4 5 3 0 1 0 5 -5
+p79
+aVRobert Archibald TOR 03/31/2004 TOR vs. GSW L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -7
+p80
+aVRod Strickland TOR 03/31/2004 TOR vs. GSW L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p81
+aVChris Bosh TOR 03/31/2004 TOR vs. GSW L 36 13 5 12 41.7 0 0 - 3 4 75.0 4 6 10 2 1 1 1 4 4
+p82
+aVMichael Curry TOR 03/31/2004 TOR vs. GSW L 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -10
+p83
+aVJalen Rose TOR 03/31/2004 TOR vs. GSW L 42 14 6 16 37.5 0 1 0.0 2 2 100.0 0 5 5 4 0 0 3 0 -8
+p84
+aVVince Carter TOR 03/31/2004 TOR vs. GSW L 40 22 9 19 47.4 0 0 - 4 5 80.0 1 1 2 1 2 0 4 2 -4
+p85
+aVVince Carter TOR 03/28/2004 TOR vs. MEM L 43 16 6 22 27.3 0 1 0.0 4 6 66.7 2 2 4 9 1 2 3 3 3
+p86
+aVDonyell Marshall TOR 03/28/2004 TOR vs. MEM L 41 16 7 16 43.8 1 7 14.3 1 2 50.0 5 9 14 0 5 1 2 2 1
+p87
+aVMorris Peterson TOR 03/28/2004 TOR vs. MEM L 35 11 5 8 62.5 1 4 25.0 0 0 - 0 4 4 1 3 0 1 2 8
+p88
+aVChris Bosh TOR 03/28/2004 TOR vs. MEM L 30 17 7 10 70.0 0 0 - 3 4 75.0 2 6 8 0 1 2 0 5 3
+p89
+aVMichael Curry TOR 03/28/2004 TOR vs. MEM L 16 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 0 1 0 0 1 -11
+p90
+aVCorie Blount TOR 03/28/2004 TOR vs. MEM L 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 5 -11
+p91
+aVDion Glover TOR 03/28/2004 TOR vs. MEM L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -4
+p92
+aVMilt Palacio TOR 03/28/2004 TOR vs. MEM L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 0
+p93
+aVJalen Rose TOR 03/28/2004 TOR vs. MEM L 32 18 9 13 69.2 0 0 - 0 0 - 1 1 2 3 1 0 3 3 -6
+p94
+aVRod Strickland TOR 03/28/2004 TOR vs. MEM L 18 4 2 6 33.3 0 0 - 0 0 - 0 4 4 4 0 0 0 1 -13
+p95
+aVRod Strickland TOR 03/26/2004 TOR @ NYK L 16 2 1 7 14.3 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -8
+p96
+aVCorie Blount TOR 03/26/2004 TOR @ NYK L 15 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 1 0 1 3 -5
+p97
+aVChris Bosh TOR 03/26/2004 TOR @ NYK L 37 11 3 6 50.0 1 1 100.0 4 8 50.0 2 7 9 1 0 0 1 3 -8
+p98
+aVDonyell Marshall TOR 03/26/2004 TOR @ NYK L 44 9 3 7 42.9 3 6 50.0 0 0 - 0 7 7 0 1 0 0 5 -1
+p99
+aVMorris Peterson TOR 03/26/2004 TOR @ NYK L 42 18 5 14 35.7 3 9 33.3 5 6 83.3 2 4 6 3 2 0 0 1 -6
+p100
+aVVince Carter TOR 03/26/2004 TOR @ NYK L 44 40 13 28 46.4 5 9 55.6 9 13 69.2 4 4 8 5 1 2 4 3 -6
+p101
+aVJalen Rose TOR 03/26/2004 TOR @ NYK L 42 21 9 18 50.0 1 3 33.3 2 4 50.0 1 3 4 9 1 0 1 5 -1
+p102
+aVJalen Rose TOR 03/24/2004 TOR @ HOU L 49 20 8 20 40.0 2 3 66.7 2 3 66.7 1 3 4 7 1 0 5 4 2
+p103
+aVCorie Blount TOR 03/24/2004 TOR @ HOU L 18 6 3 5 60.0 0 0 - 0 0 - 6 3 9 1 1 0 0 3 3
+p104
+aVRod Strickland TOR 03/24/2004 TOR @ HOU L 28 6 2 3 66.7 0 0 - 2 6 33.3 1 2 3 5 0 0 1 0 -3
+p105
+aVVince Carter TOR 03/24/2004 TOR @ HOU L 50 26 10 20 50.0 1 2 50.0 5 6 83.3 0 13 13 5 3 2 3 2 1
+p106
+aVMichael Curry TOR 03/24/2004 TOR @ HOU L 16 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -4
+p107
+aVMorris Peterson TOR 03/24/2004 TOR @ HOU L 32 9 3 10 30.0 3 8 37.5 0 0 - 0 2 2 1 1 0 0 2 -3
+p108
+aVChris Bosh TOR 03/24/2004 TOR @ HOU L 41 13 5 12 41.7 1 1 100.0 2 2 100.0 0 3 3 0 1 2 2 4 -3
+p109
+aVDonyell Marshall TOR 03/24/2004 TOR @ HOU L 31 7 3 11 27.3 1 5 20.0 0 0 - 1 5 6 3 1 1 1 5 2
+p110
+aVVince Carter TOR 03/23/2004 TOR @ MEM L 43 30 9 28 32.1 3 8 37.5 9 10 90.0 2 2 4 3 1 0 2 3 -6
+p111
+aVMorris Peterson TOR 03/23/2004 TOR @ MEM L 32 12 4 10 40.0 4 9 44.4 0 0 - 0 3 3 1 1 0 2 5 5
+p112
+aVCorie Blount TOR 03/23/2004 TOR @ MEM L 25 5 2 5 40.0 0 0 - 1 1 100.0 4 3 7 2 2 1 0 3 5
+p113
+aVDion Glover TOR 03/23/2004 TOR @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 1 1
+p114
+aVRod Strickland TOR 03/23/2004 TOR @ MEM L 22 6 1 5 20.0 0 0 - 4 6 66.7 1 1 2 3 2 0 1 0 -5
+p115
+aVJalen Rose TOR 03/23/2004 TOR @ MEM L 28 10 2 9 22.2 0 1 0.0 6 8 75.0 2 4 6 5 2 0 3 1 -10
+p116
+aVMichael Curry TOR 03/23/2004 TOR @ MEM L 16 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -12
+p117
+aVDonyell Marshall TOR 03/23/2004 TOR @ MEM L 39 13 6 14 42.9 0 4 0.0 1 3 33.3 6 11 17 0 0 1 3 5 -8
+p118
+aVChris Bosh TOR 03/23/2004 TOR @ MEM L 32 10 4 11 36.4 0 0 - 2 2 100.0 3 2 5 2 0 0 0 5 -15
+p119
+aVVince Carter TOR 03/21/2004 TOR @ NOH W 46 42 13 20 65.0 4 5 80.0 12 13 92.3 0 6 6 12 2 1 4 4 4
+p120
+aVJerome Moiso TOR 03/21/2004 TOR @ NOH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -3
+p121
+aVDonyell Marshall TOR 03/21/2004 TOR @ NOH W 44 10 4 12 33.3 2 7 28.6 0 0 - 1 6 7 1 3 2 2 5 8
+p122
+aVMorris Peterson TOR 03/21/2004 TOR @ NOH W 39 10 4 6 66.7 2 3 66.7 0 0 - 1 3 4 3 3 0 1 3 8
+p123
+aVCorie Blount TOR 03/21/2004 TOR @ NOH W 24 6 3 3 100.0 0 0 - 0 0 - 1 4 5 1 0 0 1 4 -5
+p124
+aVJalen Rose TOR 03/21/2004 TOR @ NOH W 42 26 8 18 44.4 3 7 42.9 7 8 87.5 0 1 1 9 1 0 4 5 10
+p125
+aVChris Bosh TOR 03/21/2004 TOR @ NOH W 28 14 4 9 44.4 0 0 - 6 6 100.0 1 3 4 2 0 1 1 4 5
+p126
+aVMichael Curry TOR 03/21/2004 TOR @ NOH W 21 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 1 0 1 3 -16
+p127
+aVRod Strickland TOR 03/21/2004 TOR @ NOH W 13 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 3 1 0 0 1 -9
+p128
+aVDion Glover TOR 03/21/2004 TOR @ NOH W 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 2 2 3
+p129
+aVVince Carter TOR 03/19/2004 TOR vs. CHI L 41 30 11 24 45.8 2 6 33.3 6 6 100.0 1 1 2 3 1 1 3 1 9
+p130
+aVDonyell Marshall TOR 03/19/2004 TOR vs. CHI L 33 4 1 5 20.0 0 2 0.0 2 2 100.0 4 5 9 2 0 1 2 4 1
+p131
+aVAlvin Williams TOR 03/19/2004 TOR vs. CHI L 25 6 3 8 37.5 0 0 - 0 0 - 0 1 1 3 1 1 1 1 -6
+p132
+aVMorris Peterson TOR 03/19/2004 TOR vs. CHI L 23 12 4 7 57.1 2 5 40.0 2 2 100.0 2 2 4 2 3 0 1 4 1
+p133
+aVJalen Rose TOR 03/19/2004 TOR vs. CHI L 45 24 11 21 52.4 1 5 20.0 1 5 20.0 2 4 6 6 2 2 7 3 -13
+p134
+aVChris Bosh TOR 03/19/2004 TOR vs. CHI L 44 9 4 8 50.0 0 0 - 1 2 50.0 2 12 14 0 3 0 1 4 -11
+p135
+aVCorie Blount TOR 03/19/2004 TOR vs. CHI L 18 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 1 0 1 4 0
+p136
+aVMichael Curry TOR 03/19/2004 TOR vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p137
+aVRod Strickland TOR 03/19/2004 TOR vs. CHI L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -6
+p138
+aVVince Carter TOR 03/17/2004 TOR vs. UTA W 33 24 9 20 45.0 1 4 25.0 5 7 71.4 3 6 9 1 2 2 3 4 10
+p139
+aVMorris Peterson TOR 03/17/2004 TOR vs. UTA W 31 11 5 8 62.5 0 2 0.0 1 2 50.0 1 2 3 2 2 0 2 2 14
+p140
+aVDonyell Marshall TOR 03/17/2004 TOR vs. UTA W 36 17 7 13 53.8 3 6 50.0 0 0 - 0 6 6 1 0 3 1 5 2
+p141
+aVMichael Curry TOR 03/17/2004 TOR vs. UTA W 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 9
+p142
+aVAlvin Williams TOR 03/17/2004 TOR vs. UTA W 27 6 3 8 37.5 0 2 0.0 0 0 - 0 1 1 2 2 0 3 3 -16
+p143
+aVJalen Rose TOR 03/17/2004 TOR vs. UTA W 41 17 6 12 50.0 1 2 50.0 4 4 100.0 1 4 5 6 0 0 1 1 0
+p144
+aVChris Bosh TOR 03/17/2004 TOR vs. UTA W 26 6 2 6 33.3 0 0 - 2 2 100.0 3 5 8 1 3 1 2 4 -4
+p145
+aVRod Strickland TOR 03/17/2004 TOR vs. UTA W 11 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 0 4
+p146
+aVCorie Blount TOR 03/17/2004 TOR vs. UTA W 23 0 0 4 0.0 0 0 - 0 0 - 1 4 5 1 0 0 0 4 -1
+p147
+aVJerome Moiso TOR 03/17/2004 TOR vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 2
+p148
+aVVince Carter TOR 03/14/2004 TOR vs. ATL W 42 32 13 19 68.4 3 4 75.0 3 5 60.0 2 3 5 7 2 1 2 2 24
+p149
+aVChris Bosh TOR 03/14/2004 TOR vs. ATL W 40 14 5 13 38.5 0 0 - 4 4 100.0 6 10 16 0 2 3 0 2 27
+p150
+aVDion Glover TOR 03/14/2004 TOR vs. ATL W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p151
+aVRoger Mason Jr. TOR 03/14/2004 TOR vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p152
+aVMorris Peterson TOR 03/14/2004 TOR vs. ATL W 31 11 4 10 40.0 3 7 42.9 0 0 - 0 5 5 1 1 0 0 5 10
+p153
+aVCorie Blount TOR 03/14/2004 TOR vs. ATL W 18 0 0 5 0.0 0 0 - 0 0 - 3 2 5 0 0 1 0 3 8
+p154
+aVMichael Curry TOR 03/14/2004 TOR vs. ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p155
+aVJerome Moiso TOR 03/14/2004 TOR vs. ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p156
+aVJalen Rose TOR 03/14/2004 TOR vs. ATL W 41 23 10 20 50.0 3 4 75.0 0 0 - 0 7 7 7 1 0 3 4 29
+p157
+aVDonyell Marshall TOR 03/14/2004 TOR vs. ATL W 35 11 5 14 35.7 1 3 33.3 0 0 - 3 2 5 3 3 1 2 3 9
+p158
+aVRod Strickland TOR 03/14/2004 TOR vs. ATL W 25 8 4 8 50.0 0 1 0.0 0 0 - 0 0 0 3 2 1 4 2 -6
+p159
+aVMorris Peterson TOR 03/10/2004 TOR vs. CLE L 24 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 0 1 0 0 5 -15
+p160
+aVDonyell Marshall TOR 03/10/2004 TOR vs. CLE L 34 18 8 15 53.3 1 4 25.0 1 1 100.0 3 9 12 2 0 2 1 0 -18
+p161
+aVMilt Palacio TOR 03/10/2004 TOR vs. CLE L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -12
+p162
+aVVince Carter TOR 03/10/2004 TOR vs. CLE L 33 19 6 16 37.5 2 5 40.0 5 6 83.3 1 1 2 3 0 0 1 1 -13
+p163
+aVRod Strickland TOR 03/10/2004 TOR vs. CLE L 29 8 3 10 30.0 0 0 - 2 2 100.0 0 3 3 6 0 2 2 0 -7
+p164
+aVRoger Mason Jr. TOR 03/10/2004 TOR vs. CLE L 12 6 1 4 25.0 0 1 0.0 4 5 80.0 0 2 2 1 0 0 0 0 2
+p165
+aVDion Glover TOR 03/10/2004 TOR vs. CLE L 14 7 3 7 42.9 0 1 0.0 1 2 50.0 0 1 1 1 1 0 0 0 2
+p166
+aVJerome Moiso TOR 03/10/2004 TOR vs. CLE L 15 8 4 4 100.0 0 0 - 0 0 - 3 1 4 1 1 1 1 2 0
+p167
+aVRobert Archibald TOR 03/10/2004 TOR vs. CLE L 11 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 4 1 0 0 2 -2
+p168
+aVMichael Curry TOR 03/10/2004 TOR vs. CLE L 21 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 1 1 0 3 -4
+p169
+aVLamond Murray TOR 03/10/2004 TOR vs. CLE L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p170
+aVChris Bosh TOR 03/10/2004 TOR vs. CLE L 36 10 5 15 33.3 0 0 - 0 0 - 2 6 8 1 0 0 0 0 -8
+p171
+aVDonyell Marshall TOR 03/09/2004 TOR @ IND L 47 13 5 11 45.5 2 5 40.0 1 2 50.0 1 12 13 1 0 1 3 2 -6
+p172
+aVMilt Palacio TOR 03/09/2004 TOR @ IND L 19 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -21
+p173
+aVMichael Curry TOR 03/09/2004 TOR @ IND L 20 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p174
+aVMorris Peterson TOR 03/09/2004 TOR @ IND L 33 6 2 7 28.6 1 4 25.0 1 1 100.0 0 1 1 1 0 0 0 4 -5
+p175
+aVDion Glover TOR 03/09/2004 TOR @ IND L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 7
+p176
+aVVince Carter TOR 03/09/2004 TOR @ IND L 43 28 12 24 50.0 3 5 60.0 1 2 50.0 0 5 5 2 2 0 6 2 -17
+p177
+aVJerome Moiso TOR 03/09/2004 TOR @ IND L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 1 1 2 -1
+p178
+aVChris Bosh TOR 03/09/2004 TOR @ IND L 42 19 8 15 53.3 0 0 - 3 4 75.0 3 5 8 1 0 3 3 4 -19
+p179
+aVRobert Archibald TOR 03/09/2004 TOR @ IND L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 4 6
+p180
+aVRod Strickland TOR 03/09/2004 TOR @ IND L 34 14 5 12 41.7 0 0 - 4 4 100.0 3 4 7 16 1 0 2 1 11
+p181
+aVChris Bosh TOR 03/07/2004 TOR vs. NOH W 41 16 6 13 46.2 0 0 - 4 8 50.0 5 7 12 0 1 2 2 2 7
+p182
+aVJerome Moiso TOR 03/07/2004 TOR vs. NOH W 12 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 2 -14
+p183
+aVMichael Curry TOR 03/07/2004 TOR vs. NOH W 12 2 1 6 16.7 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -3
+p184
+aVRod Strickland TOR 03/07/2004 TOR vs. NOH W 24 6 3 6 50.0 0 0 - 0 0 - 3 2 5 5 1 0 1 2 12
+p185
+aVMorris Peterson TOR 03/07/2004 TOR vs. NOH W 32 17 5 10 50.0 4 8 50.0 3 5 60.0 0 2 2 0 0 0 1 4 17
+p186
+aVDion Glover TOR 03/07/2004 TOR vs. NOH W 10 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -8
+p187
+aVVince Carter TOR 03/07/2004 TOR vs. NOH W 42 26 10 24 41.7 3 5 60.0 3 3 100.0 2 6 8 8 3 1 4 5 12
+p188
+aVMilt Palacio TOR 03/07/2004 TOR vs. NOH W 24 0 0 5 0.0 0 0 - 0 0 - 0 1 1 4 0 3 0 1 -4
+p189
+aVDonyell Marshall TOR 03/07/2004 TOR vs. NOH W 43 14 6 15 40.0 2 8 25.0 0 0 - 3 11 14 1 2 0 0 2 21
+p190
+aVChris Bosh TOR 03/05/2004 TOR vs. NYK L 39 17 7 10 70.0 0 0 - 3 4 75.0 0 7 7 1 0 2 0 4 -3
+p191
+aVMorris Peterson TOR 03/05/2004 TOR vs. NYK L 29 12 4 7 57.1 2 5 40.0 2 2 100.0 1 1 2 0 0 0 0 2 -14
+p192
+aVJerome Moiso TOR 03/05/2004 TOR vs. NYK L 17 7 3 7 42.9 0 0 - 1 2 50.0 5 1 6 0 0 1 0 0 -4
+p193
+aVVince Carter TOR 03/05/2004 TOR vs. NYK L 43 32 12 25 48.0 1 4 25.0 7 10 70.0 1 1 2 9 1 2 0 1 0
+p194
+aVMilt Palacio TOR 03/05/2004 TOR vs. NYK L 23 4 2 3 66.7 0 0 - 0 0 - 0 0 0 4 0 0 1 1 1
+p195
+aVDonyell Marshall TOR 03/05/2004 TOR vs. NYK L 40 19 7 12 58.3 5 9 55.6 0 0 - 0 11 11 1 1 0 1 2 -5
+p196
+aVRod Strickland TOR 03/05/2004 TOR vs. NYK L 25 4 2 10 20.0 0 2 0.0 0 0 - 1 1 2 6 0 1 2 4 -7
+p197
+aVDion Glover TOR 03/05/2004 TOR vs. NYK L 24 8 3 5 60.0 1 3 33.3 1 2 50.0 0 7 7 4 1 0 5 1 2
+p198
+aVChris Bosh TOR 03/03/2004 TOR @ WAS L 35 6 2 7 28.6 0 0 - 2 4 50.0 3 4 7 1 1 0 1 4 -21
+p199
+aVMorris Peterson TOR 03/03/2004 TOR @ WAS L 15 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 1 0 0 1 -5
+p200
+aVRoger Mason Jr. TOR 03/03/2004 TOR @ WAS L 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -4
+p201
+aVJannero Pargo TOR 03/03/2004 TOR @ WAS L 9 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 1
+p202
+aVDonyell Marshall TOR 03/03/2004 TOR @ WAS L 34 22 8 18 44.4 4 6 66.7 2 4 50.0 5 5 10 0 1 1 1 4 -12
+p203
+aVMichael Curry TOR 03/03/2004 TOR @ WAS L 14 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 4 -8
+p204
+aVDion Glover TOR 03/03/2004 TOR @ WAS L 28 6 2 10 20.0 0 2 0.0 2 2 100.0 1 1 2 1 4 0 2 1 -6
+p205
+aVRobert Archibald TOR 03/03/2004 TOR @ WAS L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p206
+aVVince Carter TOR 03/03/2004 TOR @ WAS L 34 16 7 18 38.9 1 4 25.0 1 1 100.0 0 4 4 5 1 0 1 2 -14
+p207
+aVJerome Moiso TOR 03/03/2004 TOR @ WAS L 23 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 2 0 0 1 3
+p208
+aVLamond Murray TOR 03/03/2004 TOR @ WAS L 4 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p209
+aVMilt Palacio TOR 03/03/2004 TOR @ WAS L 30 0 0 6 0.0 0 0 - 0 0 - 0 3 3 8 2 1 1 2 -8
+p210
+aVJerome Moiso TOR 03/02/2004 TOR @ MIA W 18 7 3 3 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 2
+p211
+aVDonyell Marshall TOR 03/02/2004 TOR @ MIA W 38 24 9 16 56.3 6 9 66.7 0 0 - 1 4 5 0 2 0 0 2 -3
+p212
+aVDion Glover TOR 03/02/2004 TOR @ MIA W 20 13 5 10 50.0 1 2 50.0 2 2 100.0 0 3 3 0 0 1 2 1 -9
+p213
+aVVince Carter TOR 03/02/2004 TOR @ MIA W 41 27 10 24 41.7 1 4 25.0 6 6 100.0 2 3 5 8 2 1 4 3 8
+p214
+aVChris Bosh TOR 03/02/2004 TOR @ MIA W 38 5 2 5 40.0 0 0 - 1 2 50.0 1 8 9 1 0 2 0 4 6
+p215
+aVRoger Mason Jr. TOR 03/02/2004 TOR @ MIA W 24 10 4 7 57.1 2 4 50.0 0 0 - 0 3 3 1 1 0 3 0 12
+p216
+aVMichael Curry TOR 03/02/2004 TOR @ MIA W 22 0 0 1 0.0 0 0 - 0 0 - 0 2 2 3 2 0 0 3 18
+p217
+aVMorris Peterson TOR 03/02/2004 TOR @ MIA W 13 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p218
+aVMilt Palacio TOR 03/02/2004 TOR @ MIA W 26 0 0 3 0.0 0 0 - 0 0 - 1 2 3 5 0 0 3 2 -15
+p219
+aVRoger Mason Jr. TOR 02/29/2004 TOR vs. BOS L 10 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 1 0
+p220
+aVDonyell Marshall TOR 02/29/2004 TOR vs. BOS L 40 18 7 16 43.8 1 1 100.0 3 3 100.0 5 5 10 0 1 3 3 1 -13
+p221
+aVRobert Archibald TOR 02/29/2004 TOR vs. BOS L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 3
+p222
+aVDion Glover TOR 02/29/2004 TOR vs. BOS L 36 13 5 16 31.3 1 3 33.3 2 4 50.0 2 7 9 4 2 0 5 5 -9
+p223
+aVMichael Curry TOR 02/29/2004 TOR vs. BOS L 16 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 2 2 -8
+p224
+aVJerome Moiso TOR 02/29/2004 TOR vs. BOS L 18 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 0 0 0 2 4 -8
+p225
+aVMorris Peterson TOR 02/29/2004 TOR vs. BOS L 31 7 3 9 33.3 1 5 20.0 0 0 - 1 2 3 1 3 1 1 3 -2
+p226
+aVJannero Pargo TOR 02/29/2004 TOR vs. BOS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p227
+aVLamond Murray TOR 02/29/2004 TOR vs. BOS L 5 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 1 -4
+p228
+aVMilt Palacio TOR 02/29/2004 TOR vs. BOS L 42 19 7 12 58.3 0 0 - 5 6 83.3 0 4 4 8 4 1 1 2 1
+p229
+aVChris Bosh TOR 02/29/2004 TOR vs. BOS L 33 15 5 12 41.7 0 0 - 5 7 71.4 3 1 4 2 0 0 0 2 2
+p230
+aVMichael Curry TOR 02/27/2004 TOR @ BOS L 24 10 2 6 33.3 1 3 33.3 5 5 100.0 0 0 0 1 1 0 1 3 -13
+p231
+aVMilt Palacio TOR 02/27/2004 TOR @ BOS L 27 3 1 8 12.5 0 0 - 1 2 50.0 1 1 2 4 0 0 2 3 -3
+p232
+aVRoger Mason Jr. TOR 02/27/2004 TOR @ BOS L 38 8 2 10 20.0 0 4 0.0 4 4 100.0 0 4 4 4 1 1 1 4 -10
+p233
+aVLamond Murray TOR 02/27/2004 TOR @ BOS L 20 10 4 8 50.0 1 4 25.0 1 1 100.0 0 2 2 2 1 0 1 3 13
+p234
+aVJerome Moiso TOR 02/27/2004 TOR @ BOS L 19 5 1 4 25.0 0 1 0.0 3 4 75.0 1 3 4 0 0 0 2 1 -7
+p235
+aVRobert Archibald TOR 02/27/2004 TOR @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p236
+aVDonyell Marshall TOR 02/27/2004 TOR @ BOS L 44 19 6 15 40.0 1 2 50.0 6 7 85.7 4 9 13 3 2 0 0 3 -8
+p237
+aVMichael Bradley TOR 02/27/2004 TOR @ BOS L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -5
+p238
+aVMorris Peterson TOR 02/27/2004 TOR @ BOS L 16 4 1 7 14.3 0 4 0.0 2 2 100.0 0 0 0 0 2 0 3 3 -15
+p239
+aVJannero Pargo TOR 02/27/2004 TOR @ BOS L 18 8 4 6 66.7 0 1 0.0 0 0 - 0 0 0 1 1 0 2 3 -11
+p240
+aVChris Bosh TOR 02/27/2004 TOR @ BOS L 22 8 4 10 40.0 0 0 - 0 0 - 3 2 5 1 3 0 0 3 1
+p241
+aVMorris Peterson TOR 02/25/2004 TOR vs. WAS L 43 13 4 14 28.6 4 9 44.4 1 2 50.0 1 2 3 1 1 0 0 3 -4
+p242
+aVMilt Palacio TOR 02/25/2004 TOR vs. WAS L 25 4 2 7 28.6 0 0 - 0 2 0.0 0 1 1 5 0 0 1 0 -8
+p243
+aVDonyell Marshall TOR 02/25/2004 TOR vs. WAS L 40 20 8 15 53.3 1 3 33.3 3 4 75.0 1 5 6 2 1 0 1 3 -8
+p244
+aVRoger Mason Jr. TOR 02/25/2004 TOR vs. WAS L 33 10 4 9 44.4 2 4 50.0 0 0 - 0 3 3 6 3 0 1 2 -3
+p245
+aVJannero Pargo TOR 02/25/2004 TOR vs. WAS L 23 4 2 10 20.0 0 2 0.0 0 0 - 0 2 2 5 2 0 2 2 6
+p246
+aVChris Bosh TOR 02/25/2004 TOR vs. WAS L 38 15 6 11 54.5 0 0 - 3 6 50.0 1 8 9 1 2 2 5 2 -3
+p247
+aVJerome Moiso TOR 02/25/2004 TOR vs. WAS L 15 6 1 1 100.0 0 0 - 4 4 100.0 1 2 3 0 3 1 2 3 7
+p248
+aVMichael Curry TOR 02/25/2004 TOR vs. WAS L 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 1 0 3 3
+p249
+aVMichael Bradley TOR 02/25/2004 TOR vs. WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p250
+aVMorris Peterson TOR 02/24/2004 TOR @ NJN L 35 2 1 4 25.0 0 2 0.0 0 0 - 0 6 6 1 0 2 0 3 -15
+p251
+aVMichael Curry TOR 02/24/2004 TOR @ NJN L 17 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p252
+aVJerome Moiso TOR 02/24/2004 TOR @ NJN L 20 11 3 4 75.0 0 0 - 5 7 71.4 2 4 6 0 0 2 3 2 4
+p253
+aVDonyell Marshall TOR 02/24/2004 TOR @ NJN L 33 13 3 11 27.3 1 4 25.0 6 7 85.7 1 2 3 1 1 2 4 3 -14
+p254
+aVMilt Palacio TOR 02/24/2004 TOR @ NJN L 31 13 5 11 45.5 0 0 - 3 3 100.0 1 1 2 5 2 0 3 2 -11
+p255
+aVJannero Pargo TOR 02/24/2004 TOR @ NJN L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 3 0 1 1 1 -1
+p256
+aVRoger Mason Jr. TOR 02/24/2004 TOR @ NJN L 44 18 5 13 38.5 2 7 28.6 6 7 85.7 0 4 4 2 1 2 1 4 -7
+p257
+aVChris Bosh TOR 02/24/2004 TOR @ NJN L 33 10 5 12 41.7 0 0 - 0 2 0.0 0 5 5 1 1 0 2 2 -20
+p258
+aVMichael Bradley TOR 02/24/2004 TOR @ NJN L 10 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 6
+p259
+aVJerome Moiso TOR 02/22/2004 TOR vs. SAC L 17 10 5 8 62.5 0 0 - 0 0 - 3 3 6 0 2 0 0 1 6
+p260
+aVLonny Baxter TOR 02/22/2004 TOR vs. SAC L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p261
+aVRoger Mason Jr. TOR 02/22/2004 TOR vs. SAC L 18 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 1 1 0 1 1 7
+p262
+aVMorris Peterson TOR 02/22/2004 TOR vs. SAC L 40 11 4 10 40.0 0 5 0.0 3 4 75.0 1 4 5 1 2 0 2 3 -9
+p263
+aVRobert Archibald TOR 02/22/2004 TOR vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p264
+aVDonyell Marshall TOR 02/22/2004 TOR vs. SAC L 32 18 8 16 50.0 2 4 50.0 0 0 - 3 10 13 1 0 0 3 2 -14
+p265
+aVMichael Curry TOR 02/22/2004 TOR vs. SAC L 19 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 4 -15
+p266
+aVChris Bosh TOR 02/22/2004 TOR vs. SAC L 36 20 8 16 50.0 0 0 - 4 4 100.0 2 3 5 3 0 0 2 4 -28
+p267
+aVAlvin Williams TOR 02/22/2004 TOR vs. SAC L 33 9 4 10 40.0 0 0 - 1 1 100.0 0 3 3 9 1 0 3 5 -14
+p268
+aVMichael Bradley TOR 02/22/2004 TOR vs. SAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p269
+aVMilt Palacio TOR 02/22/2004 TOR vs. SAC L 34 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 4 0 0 2 5 -14
+p270
+aVDonyell Marshall TOR 02/20/2004 TOR vs. NJN L 37 17 6 16 37.5 0 3 0.0 5 6 83.3 5 8 13 0 1 0 2 2 -23
+p271
+aVMilt Palacio TOR 02/20/2004 TOR vs. NJN L 35 12 6 9 66.7 0 0 - 0 0 - 0 3 3 4 1 1 2 2 -10
+p272
+aVJerome Moiso TOR 02/20/2004 TOR vs. NJN L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p273
+aVRoger Mason Jr. TOR 02/20/2004 TOR vs. NJN L 5 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -1
+p274
+aVMichael Curry TOR 02/20/2004 TOR vs. NJN L 20 9 4 6 66.7 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 -10
+p275
+aVLonny Baxter TOR 02/20/2004 TOR vs. NJN L 4 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 0 3
+p276
+aVAlvin Williams TOR 02/20/2004 TOR vs. NJN L 36 6 2 15 13.3 0 2 0.0 2 2 100.0 0 0 0 6 3 0 3 3 -17
+p277
+aVLamond Murray TOR 02/20/2004 TOR vs. NJN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p278
+aVRobert Archibald TOR 02/20/2004 TOR vs. NJN L 7 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 1 0 0 2 -1
+p279
+aVMorris Peterson TOR 02/20/2004 TOR vs. NJN L 42 11 4 14 28.6 3 9 33.3 0 0 - 0 9 9 3 1 0 2 2 -10
+p280
+aVMichael Bradley TOR 02/20/2004 TOR vs. NJN L 10 0 0 0 - 0 0 - 0 0 - 0 5 5 1 1 0 1 1 2
+p281
+aVChris Bosh TOR 02/20/2004 TOR vs. NJN L 34 10 4 9 44.4 0 0 - 2 2 100.0 1 1 2 1 0 1 3 2 -22
+p282
+aVMilt Palacio TOR 02/18/2004 TOR vs. SAS L 22 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 0 1 4 -12
+p283
+aVMorris Peterson TOR 02/18/2004 TOR vs. SAS L 45 6 1 9 11.1 1 7 14.3 3 3 100.0 0 7 7 3 3 1 1 4 -2
+p284
+aVDonyell Marshall TOR 02/18/2004 TOR vs. SAS L 39 18 8 17 47.1 1 1 100.0 1 1 100.0 5 6 11 0 2 1 3 5 -5
+p285
+aVVince Carter TOR 02/18/2004 TOR vs. SAS L 30 22 8 20 40.0 2 5 40.0 4 6 66.7 1 2 3 6 1 1 3 4 6
+p286
+aVMichael Curry TOR 02/18/2004 TOR vs. SAS L 22 6 0 4 0.0 0 0 - 6 6 100.0 0 2 2 0 1 0 0 4 -13
+p287
+aVLamond Murray TOR 02/18/2004 TOR vs. SAS L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -10
+p288
+aVChris Bosh TOR 02/18/2004 TOR vs. SAS L 11 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 8
+p289
+aVLonny Baxter TOR 02/18/2004 TOR vs. SAS L 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p290
+aVAlvin Williams TOR 02/18/2004 TOR vs. SAS L 42 19 8 16 50.0 2 3 66.7 1 2 50.0 0 5 5 5 2 1 3 2 4
+p291
+aVRobert Archibald TOR 02/18/2004 TOR vs. SAS L 15 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 3 1 0 2 1
+p292
+aVLonny Baxter TOR 02/17/2004 TOR @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -5
+p293
+aVVince Carter TOR 02/17/2004 TOR @ CHI L 42 21 7 20 35.0 0 2 0.0 7 8 87.5 0 4 4 2 0 0 4 1 4
+p294
+aVAlvin Williams TOR 02/17/2004 TOR @ CHI L 36 6 2 12 16.7 0 1 0.0 2 2 100.0 1 3 4 6 1 0 3 1 3
+p295
+aVChris Bosh TOR 02/17/2004 TOR @ CHI L 38 9 2 8 25.0 0 0 - 5 6 83.3 3 4 7 1 0 6 2 0 2
+p296
+aVJerome Moiso TOR 02/17/2004 TOR @ CHI L 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p297
+aVRobert Archibald TOR 02/17/2004 TOR @ CHI L 11 2 0 2 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 2 -8
+p298
+aVMichael Curry TOR 02/17/2004 TOR @ CHI L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -10
+p299
+aVMilt Palacio TOR 02/17/2004 TOR @ CHI L 15 5 2 6 33.3 1 1 100.0 0 0 - 0 0 0 2 1 0 1 3 -11
+p300
+aVMorris Peterson TOR 02/17/2004 TOR @ CHI L 38 19 6 11 54.5 4 4 100.0 3 3 100.0 0 4 4 0 2 0 4 4 13
+p301
+aVRoger Mason Jr. TOR 02/17/2004 TOR @ CHI L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -2
+p302
+aVDonyell Marshall TOR 02/17/2004 TOR @ CHI L 41 10 4 13 30.8 1 4 25.0 1 2 50.0 7 17 24 2 2 4 2 2 4
+p303
+aVMilt Palacio TOR 02/12/2004 TOR @ SEA L 22 5 1 3 33.3 1 1 100.0 2 4 50.0 0 4 4 4 1 0 1 3 -8
+p304
+aVAlvin Williams TOR 02/12/2004 TOR @ SEA L 39 20 7 12 58.3 1 2 50.0 5 6 83.3 0 2 2 2 1 0 1 3 -20
+p305
+aVLamond Murray TOR 02/12/2004 TOR @ SEA L 11 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 0 -3
+p306
+aVMorris Peterson TOR 02/12/2004 TOR @ SEA L 40 6 3 8 37.5 0 5 0.0 0 0 - 0 10 10 1 2 1 1 1 -14
+p307
+aVDonyell Marshall TOR 02/12/2004 TOR @ SEA L 42 16 6 14 42.9 1 2 50.0 3 7 42.9 6 11 17 4 1 2 1 1 -15
+p308
+aVVince Carter TOR 02/12/2004 TOR @ SEA L 35 19 8 21 38.1 1 3 33.3 2 2 100.0 2 1 3 7 0 1 3 4 -17
+p309
+aVRoger Mason Jr. TOR 02/12/2004 TOR @ SEA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -2
+p310
+aVChris Bosh TOR 02/12/2004 TOR @ SEA L 14 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 1 2 2 1 -7
+p311
+aVLonny Baxter TOR 02/12/2004 TOR @ SEA L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p312
+aVMichael Curry TOR 02/12/2004 TOR @ SEA L 20 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 1 2 4 -13
+p313
+aVRobert Archibald TOR 02/10/2004 TOR @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p314
+aVAlvin Williams TOR 02/10/2004 TOR @ PHX W 30 7 2 6 33.3 0 1 0.0 3 3 100.0 0 2 2 4 0 0 3 2 -6
+p315
+aVLonny Baxter TOR 02/10/2004 TOR @ PHX W 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -2
+p316
+aVMichael Curry TOR 02/10/2004 TOR @ PHX W 20 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -3
+p317
+aVLamond Murray TOR 02/10/2004 TOR @ PHX W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 -10
+p318
+aVMilt Palacio TOR 02/10/2004 TOR @ PHX W 24 3 1 4 25.0 0 0 - 1 1 100.0 1 4 5 4 1 0 0 3 3
+p319
+aVDonyell Marshall TOR 02/10/2004 TOR @ PHX W 39 25 8 15 53.3 0 4 0.0 9 11 81.8 4 7 11 2 0 3 2 4 13
+p320
+aVChris Bosh TOR 02/10/2004 TOR @ PHX W 28 6 2 3 66.7 0 0 - 2 2 100.0 2 6 8 1 0 0 1 4 7
+p321
+aVVince Carter TOR 02/10/2004 TOR @ PHX W 42 29 12 25 48.0 0 1 0.0 5 6 83.3 1 7 8 6 1 1 6 3 17
+p322
+aVMorris Peterson TOR 02/10/2004 TOR @ PHX W 42 27 10 15 66.7 7 11 63.6 0 0 - 3 5 8 2 1 1 1 1 17
+p323
+aVDonyell Marshall TOR 02/08/2004 TOR @ GSW W 46 12 5 14 35.7 2 4 50.0 0 1 0.0 2 11 13 0 1 1 2 4 5
+p324
+aVMorris Peterson TOR 02/08/2004 TOR @ GSW W 28 5 2 4 50.0 1 3 33.3 0 0 - 0 5 5 1 2 0 0 3 9
+p325
+aVRobert Archibald TOR 02/08/2004 TOR @ GSW W 15 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 1 0 1 1 -4
+p326
+aVVince Carter TOR 02/08/2004 TOR @ GSW W 40 22 7 22 31.8 0 0 - 8 9 88.9 0 4 4 4 5 0 0 4 2
+p327
+aVLonny Baxter TOR 02/08/2004 TOR @ GSW W 14 9 3 5 60.0 0 0 - 3 6 50.0 2 1 3 0 0 0 1 4 0
+p328
+aVLamond Murray TOR 02/08/2004 TOR @ GSW W 21 2 1 3 33.3 0 0 - 0 0 - 0 7 7 0 1 0 0 1 14
+p329
+aVMilt Palacio TOR 02/08/2004 TOR @ GSW W 17 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 3 2 -2
+p330
+aVAlvin Williams TOR 02/08/2004 TOR @ GSW W 33 8 4 10 40.0 0 2 0.0 0 0 - 0 0 0 3 1 1 0 1 -15
+p331
+aVJerome Moiso TOR 02/08/2004 TOR @ GSW W 16 2 0 2 0.0 0 0 - 2 2 100.0 1 4 5 0 0 0 3 3 1
+p332
+aVJalen Rose TOR 02/08/2004 TOR @ GSW W 35 19 8 16 50.0 1 2 50.0 2 2 100.0 0 3 3 2 1 0 1 2 5
+p333
+aVJalen Rose TOR 02/06/2004 TOR vs. IND L 41 11 4 15 26.7 1 3 33.3 2 2 100.0 2 4 6 4 2 1 3 1 -1
+p334
+aVDonyell Marshall TOR 02/06/2004 TOR vs. IND L 42 24 10 16 62.5 2 4 50.0 2 3 66.7 2 8 10 2 1 2 0 2 3
+p335
+aVAlvin Williams TOR 02/06/2004 TOR vs. IND L 25 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 3 0 1 0 1 -12
+p336
+aVLonny Baxter TOR 02/06/2004 TOR vs. IND L 19 8 3 5 60.0 0 0 - 2 2 100.0 1 3 4 0 1 0 1 2 4
+p337
+aVMilt Palacio TOR 02/06/2004 TOR vs. IND L 23 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 2 0 2 1 -6
+p338
+aVRobert Archibald TOR 02/06/2004 TOR vs. IND L 13 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -15
+p339
+aVJerome Moiso TOR 02/06/2004 TOR vs. IND L 15 0 0 7 0.0 0 0 - 0 0 - 3 8 11 1 1 0 1 4 -8
+p340
+aVMorris Peterson TOR 02/06/2004 TOR vs. IND L 26 8 2 5 40.0 2 2 100.0 2 2 100.0 1 4 5 1 0 0 1 4 3
+p341
+aVVince Carter TOR 02/06/2004 TOR vs. IND L 36 18 7 17 41.2 1 4 25.0 3 4 75.0 2 1 3 6 1 0 5 5 2
+p342
+aVRobert Archibald TOR 02/04/2004 TOR vs. ORL W 17 6 2 3 66.7 0 0 - 2 4 50.0 1 2 3 1 1 1 0 2 4
+p343
+aVVince Carter TOR 02/04/2004 TOR vs. ORL W 28 11 5 12 41.7 1 1 100.0 0 2 0.0 1 3 4 9 1 0 1 2 9
+p344
+aVRoger Mason Jr. TOR 02/04/2004 TOR vs. ORL W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -6
+p345
+aVJerome Moiso TOR 02/04/2004 TOR vs. ORL W 31 10 4 6 66.7 0 0 - 2 6 33.3 2 10 12 3 0 0 1 1 27
+p346
+aVLonny Baxter TOR 02/04/2004 TOR vs. ORL W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 4 -4
+p347
+aVMilt Palacio TOR 02/04/2004 TOR vs. ORL W 26 2 1 6 16.7 0 0 - 0 0 - 0 3 3 6 1 0 0 0 4
+p348
+aVDonyell Marshall TOR 02/04/2004 TOR vs. ORL W 30 32 12 18 66.7 3 3 100.0 5 5 100.0 3 6 9 3 1 4 1 3 21
+p349
+aVMorris Peterson TOR 02/04/2004 TOR vs. ORL W 23 9 3 6 50.0 3 4 75.0 0 0 - 0 1 1 1 1 0 0 2 7
+p350
+aVAlvin Williams TOR 02/04/2004 TOR vs. ORL W 25 13 5 8 62.5 1 1 100.0 2 2 100.0 0 1 1 2 1 0 1 2 16
+p351
+aVJalen Rose TOR 02/04/2004 TOR vs. ORL W 35 21 8 15 53.3 3 5 60.0 2 2 100.0 1 5 6 2 0 0 3 2 30
+p352
+aVLamond Murray TOR 02/04/2004 TOR vs. ORL W 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p353
+aVChris Bosh TOR 02/03/2004 TOR @ PHI W 14 10 3 6 50.0 0 0 - 4 5 80.0 2 2 4 2 0 1 2 2 6
+p354
+aVMorris Peterson TOR 02/03/2004 TOR @ PHI W 31 3 1 7 14.3 1 6 16.7 0 0 - 1 4 5 2 1 0 1 3 -3
+p355
+aVJerome Moiso TOR 02/03/2004 TOR @ PHI W 28 10 4 9 44.4 0 0 - 2 5 40.0 5 6 11 0 2 1 1 3 17
+p356
+aVRoger Mason Jr. TOR 02/03/2004 TOR @ PHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 3
+p357
+aVMilt Palacio TOR 02/03/2004 TOR @ PHI W 28 7 3 5 60.0 0 0 - 1 3 33.3 0 5 5 4 2 0 2 3 21
+p358
+aVRobert Archibald TOR 02/03/2004 TOR @ PHI W 11 2 1 1 100.0 0 0 - 0 2 0.0 1 2 3 2 0 0 0 1 2
+p359
+aVJalen Rose TOR 02/03/2004 TOR @ PHI W 37 13 4 12 33.3 2 4 50.0 3 3 100.0 0 2 2 5 1 0 1 6 13
+p360
+aVDonyell Marshall TOR 02/03/2004 TOR @ PHI W 43 15 6 12 50.0 1 2 50.0 2 2 100.0 7 7 14 3 0 2 0 3 1
+p361
+aVVince Carter TOR 02/03/2004 TOR @ PHI W 43 33 14 31 45.2 2 3 66.7 3 5 60.0 2 4 6 2 1 2 3 2 5
+p362
+aVMilt Palacio TOR 02/01/2004 TOR vs. LAL L 16 1 0 3 0.0 0 0 - 1 2 50.0 1 0 1 3 0 0 2 0 -12
+p363
+aVAlvin Williams TOR 02/01/2004 TOR vs. LAL L 25 2 1 10 10.0 0 1 0.0 0 2 0.0 1 2 3 0 0 0 0 3 -6
+p364
+aVChris Bosh TOR 02/01/2004 TOR vs. LAL L 39 17 7 15 46.7 0 0 - 3 3 100.0 5 9 14 0 1 1 2 4 9
+p365
+aVJalen Rose TOR 02/01/2004 TOR vs. LAL L 33 11 3 9 33.3 0 1 0.0 5 5 100.0 0 3 3 3 1 0 3 5 5
+p366
+aVRobert Archibald TOR 02/01/2004 TOR vs. LAL L 10 1 0 1 0.0 0 0 - 1 4 25.0 0 0 0 0 0 0 0 3 2
+p367
+aVMorris Peterson TOR 02/01/2004 TOR vs. LAL L 29 6 2 8 25.0 2 7 28.6 0 1 0.0 1 1 2 4 1 0 1 4 1
+p368
+aVDonyell Marshall TOR 02/01/2004 TOR vs. LAL L 39 18 6 14 42.9 2 4 50.0 4 4 100.0 3 10 13 0 3 1 2 4 -3
+p369
+aVVince Carter TOR 02/01/2004 TOR vs. LAL L 43 27 8 20 40.0 1 3 33.3 10 14 71.4 5 5 10 3 1 0 5 2 7
+p370
+aVJerome Moiso TOR 02/01/2004 TOR vs. LAL L 5 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -8
+p371
+aVJalen Rose TOR 01/30/2004 TOR vs. DET L 35 6 2 12 16.7 0 1 0.0 2 2 100.0 1 3 4 3 1 0 6 3 -4
+p372
+aVRobert Archibald TOR 01/30/2004 TOR vs. DET L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p373
+aVMilt Palacio TOR 01/30/2004 TOR vs. DET L 17 8 4 7 57.1 0 0 - 0 2 0.0 0 0 0 0 2 0 2 3 -4
+p374
+aVLonny Baxter TOR 01/30/2004 TOR vs. DET L 4 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 1 3
+p375
+aVJerome Moiso TOR 01/30/2004 TOR vs. DET L 12 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -5
+p376
+aVVince Carter TOR 01/30/2004 TOR vs. DET L 44 31 13 26 50.0 3 4 75.0 2 6 33.3 3 3 6 1 1 4 2 4 0
+p377
+aVChris Bosh TOR 01/30/2004 TOR vs. DET L 40 13 4 11 36.4 0 0 - 5 6 83.3 5 8 13 2 0 1 0 2 -1
+p378
+aVDonyell Marshall TOR 01/30/2004 TOR vs. DET L 45 12 5 12 41.7 2 6 33.3 0 0 - 4 5 9 3 1 0 1 2 -2
+p379
+aVMorris Peterson TOR 01/30/2004 TOR vs. DET L 30 9 3 6 50.0 0 2 0.0 3 3 100.0 1 4 5 1 0 1 0 4 -5
+p380
+aVAlvin Williams TOR 01/30/2004 TOR vs. DET L 34 10 5 11 45.5 0 1 0.0 0 0 - 0 1 1 4 1 0 1 1 10
+p381
+aVMilt Palacio TOR 01/28/2004 TOR vs. PHI W 17 2 0 1 0.0 0 0 - 2 4 50.0 0 1 1 1 0 0 0 0 6
+p382
+aVJalen Rose TOR 01/28/2004 TOR vs. PHI W 36 9 4 13 30.8 1 4 25.0 0 0 - 0 1 1 13 0 1 2 4 4
+p383
+aVDonyell Marshall TOR 01/28/2004 TOR vs. PHI W 36 19 7 11 63.6 1 3 33.3 4 5 80.0 2 8 10 1 1 4 1 4 15
+p384
+aVMorris Peterson TOR 01/28/2004 TOR vs. PHI W 27 18 7 13 53.8 4 8 50.0 0 0 - 0 1 1 0 0 0 3 4 8
+p385
+aVVince Carter TOR 01/28/2004 TOR vs. PHI W 39 17 6 16 37.5 1 3 33.3 4 6 66.7 4 2 6 5 0 0 2 2 9
+p386
+aVAlvin Williams TOR 01/28/2004 TOR vs. PHI W 28 15 6 10 60.0 0 3 0.0 3 3 100.0 1 1 2 3 2 0 0 1 0
+p387
+aVJerome Moiso TOR 01/28/2004 TOR vs. PHI W 14 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -3
+p388
+aVLonny Baxter TOR 01/28/2004 TOR vs. PHI W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p389
+aVChris Bosh TOR 01/28/2004 TOR vs. PHI W 26 12 5 7 71.4 0 0 - 2 2 100.0 3 3 6 2 1 2 0 5 9
+p390
+aVRobert Archibald TOR 01/28/2004 TOR vs. PHI W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 4 5
+p391
+aVChris Bosh TOR 01/25/2004 TOR @ CHI L 43 23 7 12 58.3 0 0 - 9 12 75.0 4 6 10 1 3 0 3 2 -4
+p392
+aVJalen Rose TOR 01/25/2004 TOR @ CHI L 40 22 5 12 41.7 1 2 50.0 11 12 91.7 1 1 2 2 2 0 3 2 -6
+p393
+aVLamond Murray TOR 01/25/2004 TOR @ CHI L 5 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -1
+p394
+aVVince Carter TOR 01/25/2004 TOR @ CHI L 42 14 6 23 26.1 0 5 0.0 2 2 100.0 3 4 7 8 4 0 6 5 -8
+p395
+aVMorris Peterson TOR 01/25/2004 TOR @ CHI L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 4
+p396
+aVDonyell Marshall TOR 01/25/2004 TOR @ CHI L 43 13 4 9 44.4 2 4 50.0 3 3 100.0 3 4 7 3 1 2 0 1 -6
+p397
+aVLonny Baxter TOR 01/25/2004 TOR @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -1
+p398
+aVMilt Palacio TOR 01/25/2004 TOR @ CHI L 12 0 0 5 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 2 -5
+p399
+aVAlvin Williams TOR 01/25/2004 TOR @ CHI L 35 15 5 12 41.7 1 4 25.0 4 8 50.0 0 4 4 2 0 0 0 3 -9
+p400
+aVRobert Archibald TOR 01/25/2004 TOR @ CHI L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p401
+aVLonny Baxter TOR 01/23/2004 TOR @ MIL L 12 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 2 -7
+p402
+aVMilt Palacio TOR 01/23/2004 TOR @ MIL L 16 10 3 5 60.0 0 0 - 4 5 80.0 1 0 1 4 0 0 1 2 -2
+p403
+aVRobert Archibald TOR 01/23/2004 TOR @ MIL L 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 2
+p404
+aVJalen Rose TOR 01/23/2004 TOR @ MIL L 36 15 6 16 37.5 1 4 25.0 2 2 100.0 0 1 1 6 1 0 1 5 -4
+p405
+aVLamond Murray TOR 01/23/2004 TOR @ MIL L 20 9 4 8 50.0 1 2 50.0 0 1 0.0 1 4 5 2 1 0 1 3 -8
+p406
+aVDonyell Marshall TOR 01/23/2004 TOR @ MIL L 36 17 8 14 57.1 1 4 25.0 0 0 - 1 4 5 1 0 4 0 3 -8
+p407
+aVChris Bosh TOR 01/23/2004 TOR @ MIL L 33 14 5 8 62.5 0 0 - 4 6 66.7 4 2 6 1 0 0 2 3 -7
+p408
+aVMorris Peterson TOR 01/23/2004 TOR @ MIL L 9 5 1 5 20.0 1 2 50.0 2 2 100.0 0 1 1 0 2 0 0 1 -13
+p409
+aVRoger Mason Jr. TOR 01/23/2004 TOR @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p410
+aVVince Carter TOR 01/23/2004 TOR @ MIL L 39 8 4 12 33.3 0 2 0.0 0 2 0.0 0 2 2 8 2 1 2 2 -3
+p411
+aVAlvin Williams TOR 01/23/2004 TOR @ MIL L 32 8 4 10 40.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 2 -10
+p412
+aVMilt Palacio TOR 01/21/2004 TOR vs. MIN L 37 18 7 14 50.0 0 2 0.0 4 5 80.0 1 0 1 4 0 0 1 3 1
+p413
+aVDonyell Marshall TOR 01/21/2004 TOR vs. MIN L 42 22 10 17 58.8 2 4 50.0 0 0 - 4 1 5 1 4 0 1 2 -22
+p414
+aVJalen Rose TOR 01/21/2004 TOR vs. MIN L 41 17 4 13 30.8 0 1 0.0 9 11 81.8 0 5 5 3 0 0 7 4 -24
+p415
+aVMorris Peterson TOR 01/21/2004 TOR vs. MIN L 29 10 4 8 50.0 2 4 50.0 0 0 - 1 3 4 3 0 0 2 2 -5
+p416
+aVLonny Baxter TOR 01/21/2004 TOR vs. MIN L 18 6 2 3 66.7 0 0 - 2 3 66.7 1 1 2 1 0 2 1 4 13
+p417
+aVAlvin Williams TOR 01/21/2004 TOR vs. MIN L 31 9 4 13 30.8 0 2 0.0 1 1 100.0 1 0 1 4 2 0 0 3 -15
+p418
+aVChris Bosh TOR 01/21/2004 TOR vs. MIN L 36 15 6 14 42.9 0 0 - 3 3 100.0 1 4 5 1 1 2 1 2 -13
+p419
+aVLamond Murray TOR 01/21/2004 TOR vs. MIN L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 10
+p420
+aVChris Bosh TOR 01/19/2004 TOR @ NYK L 39 18 7 12 58.3 0 0 - 4 6 66.7 1 7 8 3 0 4 2 3 -4
+p421
+aVLonny Baxter TOR 01/19/2004 TOR @ NYK L 14 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -15
+p422
+aVJalen Rose TOR 01/19/2004 TOR @ NYK L 40 22 8 16 50.0 1 1 100.0 5 7 71.4 0 3 3 5 1 0 6 3 -7
+p423
+aVDonyell Marshall TOR 01/19/2004 TOR @ NYK L 43 21 9 19 47.4 0 2 0.0 3 4 75.0 6 9 15 2 0 1 1 1 -3
+p424
+aVMorris Peterson TOR 01/19/2004 TOR @ NYK L 25 6 2 5 40.0 1 2 50.0 1 1 100.0 1 3 4 3 1 0 1 5 3
+p425
+aVMichael Curry TOR 01/19/2004 TOR @ NYK L 16 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -8
+p426
+aVAlvin Williams TOR 01/19/2004 TOR @ NYK L 45 6 2 9 22.2 1 2 50.0 1 2 50.0 0 5 5 3 1 0 2 2 -7
+p427
+aVRoger Mason Jr. TOR 01/19/2004 TOR @ NYK L 18 4 2 9 22.2 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -14
+p428
+aVDonyell Marshall TOR 01/17/2004 TOR @ ATL L 41 16 7 14 50.0 1 2 50.0 1 1 100.0 3 9 12 1 0 4 1 3 2
+p429
+aVLonny Baxter TOR 01/17/2004 TOR @ ATL L 7 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 2 7
+p430
+aVAlvin Williams TOR 01/17/2004 TOR @ ATL L 40 15 6 14 42.9 1 3 33.3 2 3 66.7 1 0 1 5 1 0 0 3 -12
+p431
+aVRoger Mason Jr. TOR 01/17/2004 TOR @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p432
+aVLamond Murray TOR 01/17/2004 TOR @ ATL L 20 8 2 8 25.0 1 2 50.0 3 4 75.0 0 4 4 1 0 0 2 2 -4
+p433
+aVChris Bosh TOR 01/17/2004 TOR @ ATL L 30 6 2 7 28.6 0 0 - 2 9 22.2 4 6 10 0 1 1 1 4 -2
+p434
+aVRobert Archibald TOR 01/17/2004 TOR @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p435
+aVJalen Rose TOR 01/17/2004 TOR @ ATL L 40 13 5 19 26.3 0 3 0.0 3 3 100.0 1 6 7 5 1 1 3 1 4
+p436
+aVMorris Peterson TOR 01/17/2004 TOR @ ATL L 39 6 2 9 22.2 2 6 33.3 0 0 - 1 4 5 2 0 0 2 2 -5
+p437
+aVMichael Curry TOR 01/17/2004 TOR @ ATL L 20 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -13
+p438
+aVVince Carter TOR 01/15/2004 TOR @ NOH W 7 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 1 1 0 0 0 6
+p439
+aVMichael Curry TOR 01/15/2004 TOR @ NOH W 32 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 0 1 4 -3
+p440
+aVDonyell Marshall TOR 01/15/2004 TOR @ NOH W 43 16 7 13 53.8 0 2 0.0 2 2 100.0 2 10 12 1 3 3 1 0 5
+p441
+aVMorris Peterson TOR 01/15/2004 TOR @ NOH W 39 13 5 11 45.5 3 6 50.0 0 0 - 1 2 3 1 1 0 1 5 -2
+p442
+aVJalen Rose TOR 01/15/2004 TOR @ NOH W 42 20 7 19 36.8 2 3 66.7 4 5 80.0 2 7 9 6 0 0 5 6 -3
+p443
+aVLonny Baxter TOR 01/15/2004 TOR @ NOH W 18 2 1 3 33.3 0 0 - 0 0 - 3 5 8 0 0 0 1 2 6
+p444
+aVRoger Mason Jr. TOR 01/15/2004 TOR @ NOH W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 1 3
+p445
+aVRobert Archibald TOR 01/15/2004 TOR @ NOH W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 3 -2
+p446
+aVAlvin Williams TOR 01/15/2004 TOR @ NOH W 46 16 6 14 42.9 1 2 50.0 3 4 75.0 0 4 4 5 2 0 1 1 -1
+p447
+aVLamond Murray TOR 01/15/2004 TOR @ NOH W 20 4 1 8 12.5 1 2 50.0 1 2 50.0 1 2 3 2 0 0 1 1 11
+p448
+aVMichael Curry TOR 01/14/2004 TOR @ DET L 29 8 4 7 57.1 0 0 - 0 0 - 0 4 4 2 1 0 1 5 2
+p449
+aVAlvin Williams TOR 01/14/2004 TOR @ DET L 38 4 2 11 18.2 0 2 0.0 0 0 - 0 1 1 3 2 0 0 3 -11
+p450
+aVDonyell Marshall TOR 01/14/2004 TOR @ DET L 40 20 8 14 57.1 4 6 66.7 0 1 0.0 5 11 16 0 0 3 0 5 -3
+p451
+aVRobert Archibald TOR 01/14/2004 TOR @ DET L 11 0 0 4 0.0 0 0 - 0 0 - 3 2 5 1 1 0 0 5 -8
+p452
+aVMorris Peterson TOR 01/14/2004 TOR @ DET L 23 11 4 5 80.0 2 2 100.0 1 1 100.0 0 5 5 0 0 0 0 3 11
+p453
+aVJalen Rose TOR 01/14/2004 TOR @ DET L 41 17 7 15 46.7 0 4 0.0 3 3 100.0 0 2 2 8 0 1 3 4 -6
+p454
+aVLonny Baxter TOR 01/14/2004 TOR @ DET L 16 4 2 7 28.6 0 0 - 0 0 - 2 0 2 1 0 1 0 5 1
+p455
+aVVince Carter TOR 01/14/2004 TOR @ DET L 42 27 7 20 35.0 0 0 - 13 16 81.3 0 4 4 3 0 1 3 2 -6
+p456
+aVDonyell Marshall TOR 01/11/2004 TOR vs. POR W 40 16 7 15 46.7 2 5 40.0 0 0 - 4 7 11 1 0 1 4 4 7
+p457
+aVMorris Peterson TOR 01/11/2004 TOR vs. POR W 20 9 3 6 50.0 3 4 75.0 0 0 - 0 3 3 2 1 0 0 0 14
+p458
+aVAlvin Williams TOR 01/11/2004 TOR vs. POR W 35 10 5 6 83.3 0 1 0.0 0 0 - 0 1 1 3 0 0 1 4 2
+p459
+aVJalen Rose TOR 01/11/2004 TOR vs. POR W 40 17 8 18 44.4 0 5 0.0 1 1 100.0 1 6 7 5 0 0 2 2 6
+p460
+aVRobert Archibald TOR 01/11/2004 TOR vs. POR W 25 1 0 3 0.0 0 0 - 1 1 100.0 4 2 6 1 2 1 0 5 13
+p461
+aVLonny Baxter TOR 01/11/2004 TOR vs. POR W 28 10 5 9 55.6 0 0 - 0 0 - 2 4 6 0 0 2 0 1 -1
+p462
+aVMichael Curry TOR 01/11/2004 TOR vs. POR W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 5
+p463
+aVVince Carter TOR 01/11/2004 TOR vs. POR W 40 20 8 18 44.4 1 2 50.0 3 5 60.0 3 3 6 7 3 4 6 4 9
+p464
+aVJalen Rose TOR 01/09/2004 TOR vs. LAC L 37 26 11 19 57.9 2 2 100.0 2 2 100.0 2 1 3 2 2 0 5 3 -12
+p465
+aVVince Carter TOR 01/09/2004 TOR vs. LAC L 41 12 5 18 27.8 0 3 0.0 2 2 100.0 3 7 10 3 1 0 2 4 -15
+p466
+aVDonyell Marshall TOR 01/09/2004 TOR vs. LAC L 30 2 0 5 0.0 0 3 0.0 2 2 100.0 1 5 6 1 1 1 2 2 -8
+p467
+aVMichael Curry TOR 01/09/2004 TOR vs. LAC L 23 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 1 0 0 3 0
+p468
+aVRobert Archibald TOR 01/09/2004 TOR vs. LAC L 7 0 0 0 - 0 0 - 0 2 0.0 0 1 1 1 0 0 0 1 -3
+p469
+aVRoger Mason Jr. TOR 01/09/2004 TOR vs. LAC L 8 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 7
+p470
+aVMorris Peterson TOR 01/09/2004 TOR vs. LAC L 30 3 1 5 20.0 1 5 20.0 0 0 - 1 4 5 2 1 0 1 3 -3
+p471
+aVAlvin Williams TOR 01/09/2004 TOR vs. LAC L 36 10 5 10 50.0 0 3 0.0 0 0 - 1 2 3 7 1 0 3 2 -5
+p472
+aVLonny Baxter TOR 01/09/2004 TOR vs. LAC L 28 8 4 8 50.0 0 0 - 0 3 0.0 1 0 1 0 0 1 1 1 -11
+p473
+aVVince Carter TOR 01/07/2004 TOR vs. CLE W 34 14 6 19 31.6 1 3 33.3 1 2 50.0 1 3 4 5 1 1 4 4 3
+p474
+aVChris Bosh TOR 01/07/2004 TOR vs. CLE W 24 8 3 5 60.0 0 1 0.0 2 4 50.0 2 4 6 1 0 1 1 0 -7
+p475
+aVDonyell Marshall TOR 01/07/2004 TOR vs. CLE W 42 14 5 17 29.4 3 6 50.0 1 3 33.3 5 8 13 2 2 2 2 3 4
+p476
+aVJalen Rose TOR 01/07/2004 TOR vs. CLE W 38 12 5 14 35.7 0 5 0.0 2 2 100.0 1 3 4 4 1 0 2 2 -1
+p477
+aVRobert Archibald TOR 01/07/2004 TOR vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p478
+aVMorris Peterson TOR 01/07/2004 TOR vs. CLE W 24 9 4 6 66.7 1 2 50.0 0 1 0.0 0 1 1 2 0 0 0 4 11
+p479
+aVLonny Baxter TOR 01/07/2004 TOR vs. CLE W 23 13 6 11 54.5 0 0 - 1 2 50.0 5 4 9 1 3 1 1 0 6
+p480
+aVMichael Curry TOR 01/07/2004 TOR vs. CLE W 19 0 0 4 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 0 10
+p481
+aVAlvin Williams TOR 01/07/2004 TOR vs. CLE W 35 5 1 5 20.0 1 3 33.3 2 2 100.0 1 5 6 3 1 0 2 1 4
+p482
+aVChris Bosh TOR 01/04/2004 TOR vs. PHX W 32 6 1 9 11.1 0 0 - 4 6 66.7 3 7 10 1 2 1 5 2 11
+p483
+aVAlvin Williams TOR 01/04/2004 TOR vs. PHX W 37 13 4 7 57.1 3 4 75.0 2 2 100.0 0 5 5 7 2 0 2 3 6
+p484
+aVDonyell Marshall TOR 01/04/2004 TOR vs. PHX W 37 15 6 13 46.2 1 3 33.3 2 3 66.7 3 12 15 2 1 3 2 3 3
+p485
+aVMichael Curry TOR 01/04/2004 TOR vs. PHX W 28 2 0 2 0.0 0 0 - 2 4 50.0 2 2 4 1 0 0 2 3 6
+p486
+aVMilt Palacio TOR 01/04/2004 TOR vs. PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p487
+aVMorris Peterson TOR 01/04/2004 TOR vs. PHX W 23 8 3 8 37.5 2 7 28.6 0 0 - 1 2 3 2 1 0 2 1 7
+p488
+aVVince Carter TOR 01/04/2004 TOR vs. PHX W 40 23 8 17 47.1 1 2 50.0 6 7 85.7 2 3 5 1 0 2 0 0 5
+p489
+aVJalen Rose TOR 01/04/2004 TOR vs. PHX W 40 16 6 17 35.3 1 3 33.3 3 4 75.0 0 4 4 5 2 1 1 3 13
+p490
+aVChris Bosh TOR 01/02/2004 TOR vs. NOH L 23 3 1 5 20.0 0 0 - 1 1 100.0 1 2 3 1 1 2 3 1 -16
+p491
+aVJalen Rose TOR 01/02/2004 TOR vs. NOH L 33 2 1 8 12.5 0 3 0.0 0 0 - 0 1 1 3 0 1 2 3 -15
+p492
+aVVince Carter TOR 01/02/2004 TOR vs. NOH L 34 22 7 15 46.7 2 2 100.0 6 6 100.0 0 4 4 4 1 1 3 4 0
+p493
+aVLonny Baxter TOR 01/02/2004 TOR vs. NOH L 16 9 3 4 75.0 0 0 - 3 4 75.0 1 4 5 1 0 0 0 1 -4
+p494
+aVDonyell Marshall TOR 01/02/2004 TOR vs. NOH L 42 9 2 6 33.3 0 2 0.0 5 7 71.4 1 7 8 2 0 5 0 4 -8
+p495
+aVAlvin Williams TOR 01/02/2004 TOR vs. NOH L 42 14 7 18 38.9 0 4 0.0 0 0 - 1 5 6 3 4 0 4 1 -13
+p496
+aVMichael Curry TOR 01/02/2004 TOR vs. NOH L 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 4
+p497
+aVMilt Palacio TOR 01/02/2004 TOR vs. NOH L 11 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 1 1 0 1 1 -4
+p498
+aVMorris Peterson TOR 01/02/2004 TOR vs. NOH L 24 9 4 9 44.4 1 6 16.7 0 0 - 0 2 2 1 0 0 1 3 -4
+p499
+aVMorris Peterson TOR 12/30/2003 TOR @ DEN W 18 6 3 6 50.0 0 2 0.0 0 0 - 1 3 4 1 0 0 0 0 8
+p500
+aVVince Carter TOR 12/30/2003 TOR @ DEN W 40 15 5 16 31.3 2 3 66.7 3 3 100.0 0 4 4 5 3 2 5 2 6
+p501
+aVJalen Rose TOR 12/30/2003 TOR @ DEN W 34 17 7 13 53.8 2 3 66.7 1 2 50.0 0 2 2 4 1 0 7 2 -6
+p502
+aVLonny Baxter TOR 12/30/2003 TOR @ DEN W 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -9
+p503
+aVChris Bosh TOR 12/30/2003 TOR @ DEN W 28 11 5 10 50.0 0 0 - 1 1 100.0 3 9 12 1 0 0 1 2 -3
+p504
+aVDonyell Marshall TOR 12/30/2003 TOR @ DEN W 33 10 5 10 50.0 0 2 0.0 0 0 - 2 11 13 3 3 0 3 5 16
+p505
+aVAlvin Williams TOR 12/30/2003 TOR @ DEN W 37 17 6 11 54.5 1 3 33.3 4 4 100.0 1 5 6 6 0 0 2 3 0
+p506
+aVMichael Curry TOR 12/30/2003 TOR @ DEN W 27 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 3 1 0 1 3 10
+p507
+aVMilt Palacio TOR 12/30/2003 TOR @ DEN W 13 1 0 0 - 0 0 - 1 2 50.0 0 0 0 2 1 0 2 2 13
+p508
+aVVince Carter TOR 12/28/2003 TOR @ LAC W 41 22 7 16 43.8 0 1 0.0 8 10 80.0 1 3 4 5 0 2 3 5 11
+p509
+aVAlvin Williams TOR 12/28/2003 TOR @ LAC W 33 14 5 9 55.6 0 0 - 4 5 80.0 1 7 8 2 1 1 2 2 7
+p510
+aVMorris Peterson TOR 12/28/2003 TOR @ LAC W 17 5 2 5 40.0 0 2 0.0 1 1 100.0 0 0 0 2 0 1 1 1 -4
+p511
+aVDonyell Marshall TOR 12/28/2003 TOR @ LAC W 35 19 8 16 50.0 2 6 33.3 1 2 50.0 1 8 9 2 0 3 1 4 11
+p512
+aVLonny Baxter TOR 12/28/2003 TOR @ LAC W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 2 0 0 1 -3
+p513
+aVChris Bosh TOR 12/28/2003 TOR @ LAC W 33 7 2 8 25.0 0 0 - 3 6 50.0 4 2 6 0 2 0 1 3 -6
+p514
+aVMichael Curry TOR 12/28/2003 TOR @ LAC W 25 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 0 5 6
+p515
+aVJalen Rose TOR 12/28/2003 TOR @ LAC W 42 23 10 17 58.8 3 3 100.0 0 1 0.0 0 3 3 3 0 0 2 1 12
+p516
+aVMilt Palacio TOR 12/28/2003 TOR @ LAC W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p517
+aVDonyell Marshall TOR 12/26/2003 TOR @ UTA L 37 11 5 13 38.5 1 6 16.7 0 0 - 0 1 1 2 0 1 2 5 -11
+p518
+aVMichael Curry TOR 12/26/2003 TOR @ UTA L 22 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 1 0 2 4 -5
+p519
+aVAlvin Williams TOR 12/26/2003 TOR @ UTA L 43 14 4 10 40.0 1 3 33.3 5 7 71.4 1 3 4 2 1 0 0 3 -4
+p520
+aVMilt Palacio TOR 12/26/2003 TOR @ UTA L 11 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 3 2 0 1 3 8
+p521
+aVJalen Rose TOR 12/26/2003 TOR @ UTA L 48 18 7 15 46.7 2 6 33.3 2 3 66.7 0 6 6 8 0 0 5 2 -8
+p522
+aVChris Bosh TOR 12/26/2003 TOR @ UTA L 39 6 3 6 50.0 0 0 - 0 2 0.0 1 6 7 1 1 2 1 6 -2
+p523
+aVVince Carter TOR 12/26/2003 TOR @ UTA L 47 30 11 25 44.0 3 4 75.0 5 6 83.3 1 6 7 5 2 3 5 3 0
+p524
+aVLonny Baxter TOR 12/26/2003 TOR @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p525
+aVMorris Peterson TOR 12/26/2003 TOR @ UTA L 15 6 2 4 50.0 2 3 66.7 0 0 - 0 3 3 1 1 0 1 2 8
+p526
+aVVince Carter TOR 12/21/2003 TOR vs. ORL L 36 17 7 12 58.3 2 4 50.0 1 2 50.0 0 1 1 3 0 2 5 5 -7
+p527
+aVChris Bosh TOR 12/21/2003 TOR vs. ORL L 37 16 7 10 70.0 0 1 0.0 2 5 40.0 7 3 10 1 1 1 3 4 -3
+p528
+aVDonyell Marshall TOR 12/21/2003 TOR vs. ORL L 38 19 8 19 42.1 0 4 0.0 3 4 75.0 4 15 19 1 2 3 2 3 -12
+p529
+aVAlvin Williams TOR 12/21/2003 TOR vs. ORL L 39 18 8 13 61.5 2 3 66.7 0 0 - 0 4 4 8 1 0 2 2 -10
+p530
+aVMichael Curry TOR 12/21/2003 TOR vs. ORL L 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -2
+p531
+aVMilt Palacio TOR 12/21/2003 TOR vs. ORL L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 0 5
+p532
+aVLonny Baxter TOR 12/21/2003 TOR vs. ORL L 20 3 1 5 20.0 0 0 - 1 3 33.3 1 3 4 1 0 1 0 0 -4
+p533
+aVJalen Rose TOR 12/21/2003 TOR vs. ORL L 39 14 5 15 33.3 2 6 33.3 2 2 100.0 0 5 5 6 1 1 1 2 -21
+p534
+aVMorris Peterson TOR 12/21/2003 TOR vs. ORL L 17 0 0 5 0.0 0 4 0.0 0 0 - 0 1 1 3 1 0 1 1 -1
+p535
+aVVince Carter TOR 12/19/2003 TOR vs. NYK W 33 18 5 13 38.5 0 1 0.0 8 8 100.0 0 6 6 8 1 0 3 3 15
+p536
+aVJalen Rose TOR 12/19/2003 TOR vs. NYK W 45 21 7 15 46.7 3 5 60.0 4 6 66.7 0 4 4 4 0 1 4 1 9
+p537
+aVLonny Baxter TOR 12/19/2003 TOR vs. NYK W 17 6 2 3 66.7 0 0 - 2 3 66.7 0 1 1 0 0 0 0 4 -12
+p538
+aVMorris Peterson TOR 12/19/2003 TOR vs. NYK W 28 16 5 8 62.5 4 6 66.7 2 2 100.0 0 6 6 1 0 1 2 4 4
+p539
+aVAlvin Williams TOR 12/19/2003 TOR vs. NYK W 36 12 6 12 50.0 0 2 0.0 0 2 0.0 1 4 5 4 1 0 1 4 3
+p540
+aVChris Bosh TOR 12/19/2003 TOR vs. NYK W 39 12 6 11 54.5 0 1 0.0 0 2 0.0 2 3 5 3 0 3 1 4 12
+p541
+aVDonyell Marshall TOR 12/19/2003 TOR vs. NYK W 49 15 7 16 43.8 1 6 16.7 0 0 - 3 16 19 4 2 2 3 1 9
+p542
+aVMichael Curry TOR 12/19/2003 TOR vs. NYK W 14 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 2 -14
+p543
+aVMilt Palacio TOR 12/19/2003 TOR vs. NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 4
+p544
+aVLonny Baxter TOR 12/17/2003 TOR @ SAS L 18 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 0 0 0 1 3 -10
+p545
+aVAlvin Williams TOR 12/17/2003 TOR @ SAS L 32 10 5 8 62.5 0 1 0.0 0 0 - 0 4 4 7 2 0 1 6 9
+p546
+aVDonyell Marshall TOR 12/17/2003 TOR @ SAS L 42 19 8 13 61.5 3 6 50.0 0 0 - 1 13 14 1 1 1 0 4 3
+p547
+aVVince Carter TOR 12/17/2003 TOR @ SAS L 39 16 7 20 35.0 0 0 - 2 4 50.0 3 1 4 5 1 0 2 4 5
+p548
+aVMorris Peterson TOR 12/17/2003 TOR @ SAS L 16 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -10
+p549
+aVChris Bosh TOR 12/17/2003 TOR @ SAS L 36 6 3 12 25.0 0 0 - 0 2 0.0 5 7 12 1 0 0 2 0 1
+p550
+aVMilt Palacio TOR 12/17/2003 TOR @ SAS L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 2 0 1 0 -8
+p551
+aVJalen Rose TOR 12/17/2003 TOR @ SAS L 39 14 3 9 33.3 0 2 0.0 8 8 100.0 0 4 4 2 0 0 7 3 1
+p552
+aVMichael Curry TOR 12/17/2003 TOR @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p553
+aVVince Carter TOR 12/15/2003 TOR @ DAL L 34 21 8 19 42.1 2 4 50.0 3 4 75.0 1 1 2 5 1 1 3 2 -29
+p554
+aVAlvin Williams TOR 12/15/2003 TOR @ DAL L 29 9 4 10 40.0 1 2 50.0 0 0 - 1 1 2 3 1 1 0 1 0
+p555
+aVMorris Peterson TOR 12/15/2003 TOR @ DAL L 25 11 4 9 44.4 3 7 42.9 0 0 - 1 4 5 3 0 0 1 1 -7
+p556
+aVMichael Curry TOR 12/15/2003 TOR @ DAL L 16 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 3 2 9
+p557
+aVDonyell Marshall TOR 12/15/2003 TOR @ DAL L 40 18 7 13 53.8 2 3 66.7 2 4 50.0 2 6 8 2 2 0 3 2 -15
+p558
+aVJalen Rose TOR 12/15/2003 TOR @ DAL L 39 11 5 13 38.5 0 4 0.0 1 2 50.0 0 3 3 4 1 0 3 2 -24
+p559
+aVChris Bosh TOR 12/15/2003 TOR @ DAL L 43 14 4 9 44.4 0 1 0.0 6 6 100.0 2 6 8 3 0 2 2 1 -13
+p560
+aVLonny Baxter TOR 12/15/2003 TOR @ DAL L 14 6 2 2 100.0 0 0 - 2 2 100.0 3 7 10 1 0 1 2 6 -6
+p561
+aVMichael Curry TOR 12/14/2003 TOR vs. MIA L 21 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 0 0 0 0 2 9
+p562
+aVJalen Rose TOR 12/14/2003 TOR vs. MIA L 35 11 4 9 44.4 1 2 50.0 2 2 100.0 0 3 3 4 1 0 5 2 -7
+p563
+aVDonyell Marshall TOR 12/14/2003 TOR vs. MIA L 40 25 10 15 66.7 1 3 33.3 4 5 80.0 0 9 9 0 1 2 3 2 1
+p564
+aVMorris Peterson TOR 12/14/2003 TOR vs. MIA L 25 11 3 4 75.0 2 2 100.0 3 4 75.0 1 3 4 1 0 0 1 3 -8
+p565
+aVVince Carter TOR 12/14/2003 TOR vs. MIA L 23 12 3 12 25.0 0 2 0.0 6 6 100.0 0 3 3 2 0 0 1 4 3
+p566
+aVAlvin Williams TOR 12/14/2003 TOR vs. MIA L 41 11 4 11 36.4 1 3 33.3 2 2 100.0 1 1 2 9 2 0 0 1 -2
+p567
+aVChris Bosh TOR 12/14/2003 TOR vs. MIA L 32 4 1 8 12.5 0 1 0.0 2 6 33.3 2 8 10 1 0 1 0 4 -6
+p568
+aVLonny Baxter TOR 12/14/2003 TOR vs. MIA L 23 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 2 5
+p569
+aVDonyell Marshall TOR 12/12/2003 TOR @ BOS L 41 31 9 17 52.9 7 9 77.8 6 8 75.0 2 7 9 1 0 0 0 4 -2
+p570
+aVMichael Curry TOR 12/12/2003 TOR @ BOS L 10 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -3
+p571
+aVJalen Rose TOR 12/12/2003 TOR @ BOS L 39 3 1 13 7.7 0 2 0.0 1 1 100.0 2 4 6 14 0 2 3 1 -3
+p572
+aVVince Carter TOR 12/12/2003 TOR @ BOS L 40 35 13 25 52.0 5 7 71.4 4 4 100.0 1 3 4 4 0 2 2 4 -2
+p573
+aVJerome Moiso TOR 12/12/2003 TOR @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p574
+aVLonny Baxter TOR 12/12/2003 TOR @ BOS L 20 13 4 6 66.7 0 0 - 5 7 71.4 2 4 6 0 0 2 0 2 -4
+p575
+aVMorris Peterson TOR 12/12/2003 TOR @ BOS L 24 8 3 6 50.0 1 2 50.0 1 1 100.0 1 2 3 1 1 0 0 2 6
+p576
+aVAlvin Williams TOR 12/12/2003 TOR @ BOS L 32 2 1 6 16.7 0 1 0.0 0 1 0.0 1 7 8 4 1 0 2 1 -4
+p577
+aVChris Bosh TOR 12/12/2003 TOR @ BOS L 33 15 7 12 58.3 0 0 - 1 3 33.3 2 3 5 3 0 2 1 3 0
+p578
+aVJerome Moiso TOR 12/09/2003 TOR @ CLE W 7 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 1
+p579
+aVMorris Peterson TOR 12/09/2003 TOR @ CLE W 18 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 1 0 0 1 1 3
+p580
+aVJalen Rose TOR 12/09/2003 TOR @ CLE W 40 20 7 17 41.2 1 3 33.3 5 5 100.0 0 3 3 6 1 2 3 2 3
+p581
+aVVince Carter TOR 12/09/2003 TOR @ CLE W 37 22 9 20 45.0 1 2 50.0 3 5 60.0 1 7 8 7 0 0 3 1 0
+p582
+aVChris Bosh TOR 12/09/2003 TOR @ CLE W 36 14 5 10 50.0 0 0 - 4 4 100.0 2 5 7 0 0 1 0 4 11
+p583
+aVMichael Curry TOR 12/09/2003 TOR @ CLE W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 6
+p584
+aVAlvin Williams TOR 12/09/2003 TOR @ CLE W 38 8 4 7 57.1 0 0 - 0 0 - 0 4 4 6 0 0 1 1 8
+p585
+aVLonny Baxter TOR 12/09/2003 TOR @ CLE W 18 6 3 6 50.0 0 0 - 0 0 - 0 3 3 0 1 0 2 4 8
+p586
+aVDonyell Marshall TOR 12/09/2003 TOR @ CLE W 34 20 7 11 63.6 2 3 66.7 4 6 66.7 1 6 7 1 2 0 1 4 -5
+p587
+aVJalen Rose TOR 12/07/2003 TOR vs. SEA W 44 18 5 15 33.3 0 4 0.0 8 8 100.0 0 4 4 10 2 1 3 5 7
+p588
+aVMorris Peterson TOR 12/07/2003 TOR vs. SEA W 20 12 4 7 57.1 4 7 57.1 0 0 - 0 4 4 2 1 0 2 1 11
+p589
+aVMichael Curry TOR 12/07/2003 TOR vs. SEA W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 7
+p590
+aVDonyell Marshall TOR 12/07/2003 TOR vs. SEA W 37 9 4 14 28.6 1 6 16.7 0 0 - 2 6 8 3 2 2 1 4 -2
+p591
+aVAlvin Williams TOR 12/07/2003 TOR vs. SEA W 28 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 5 2 0 1 1 -8
+p592
+aVLonny Baxter TOR 12/07/2003 TOR vs. SEA W 14 9 3 4 75.0 0 0 - 3 6 50.0 4 2 6 0 1 1 1 5 15
+p593
+aVChris Bosh TOR 12/07/2003 TOR vs. SEA W 45 22 8 13 61.5 0 0 - 6 10 60.0 7 9 16 2 0 2 1 2 7
+p594
+aVVince Carter TOR 12/07/2003 TOR vs. SEA W 45 30 13 28 46.4 3 5 60.0 1 1 100.0 3 1 4 6 1 0 2 5 13
+p595
+aVMorris Peterson TOR 12/05/2003 TOR vs. ATL W 19 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 2 1 0 1 4 -4
+p596
+aVChris Bosh TOR 12/05/2003 TOR vs. ATL W 42 11 5 9 55.6 0 0 - 1 1 100.0 2 5 7 4 3 1 0 5 5
+p597
+aVMilt Palacio TOR 12/05/2003 TOR vs. ATL W 9 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 0 2
+p598
+aVJalen Rose TOR 12/05/2003 TOR vs. ATL W 41 22 7 19 36.8 0 4 0.0 8 10 80.0 1 7 8 10 2 1 5 2 11
+p599
+aVMichael Curry TOR 12/05/2003 TOR vs. ATL W 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -4
+p600
+aVLonny Baxter TOR 12/05/2003 TOR vs. ATL W 15 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 2 1 2 -3
+p601
+aVVince Carter TOR 12/05/2003 TOR vs. ATL W 26 22 8 10 80.0 0 2 0.0 6 7 85.7 0 2 2 3 1 1 2 5 8
+p602
+aVDonyell Marshall TOR 12/05/2003 TOR vs. ATL W 37 21 9 17 52.9 1 7 14.3 2 3 66.7 2 5 7 0 2 4 1 2 7
+p603
+aVAlvin Williams TOR 12/05/2003 TOR vs. ATL W 40 8 3 8 37.5 1 1 100.0 1 2 50.0 0 3 3 2 2 0 1 1 3
+p604
+aVMichael Curry TOR 12/03/2003 TOR vs. BOS W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 5
+p605
+aVLamond Murray TOR 12/03/2003 TOR vs. BOS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p606
+aVVince Carter TOR 12/03/2003 TOR vs. BOS W 39 21 8 18 44.4 3 6 50.0 2 2 100.0 1 4 5 10 2 1 1 3 12
+p607
+aVMorris Peterson TOR 12/03/2003 TOR vs. BOS W 20 15 4 7 57.1 4 6 66.7 3 3 100.0 0 2 2 2 2 0 1 1 6
+p608
+aVJerome Moiso TOR 12/03/2003 TOR vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p609
+aVDonyell Marshall TOR 12/03/2003 TOR vs. BOS W 37 21 7 14 50.0 5 6 83.3 2 2 100.0 0 8 8 3 2 1 0 3 15
+p610
+aVJalen Rose TOR 12/03/2003 TOR vs. BOS W 36 9 3 9 33.3 2 2 100.0 1 4 25.0 2 3 5 5 0 0 2 1 6
+p611
+aVMengke Bateer TOR 12/03/2003 TOR vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p612
+aVChris Bosh TOR 12/03/2003 TOR vs. BOS W 38 16 7 14 50.0 0 0 - 2 2 100.0 5 3 8 1 0 1 0 1 7
+p613
+aVMilt Palacio TOR 12/03/2003 TOR vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p614
+aVLonny Baxter TOR 12/03/2003 TOR vs. BOS W 18 5 2 8 25.0 0 0 - 1 4 25.0 4 5 9 0 2 0 2 1 8
+p615
+aVAlvin Williams TOR 12/03/2003 TOR vs. BOS W 37 18 5 12 41.7 3 4 75.0 5 6 83.3 1 0 1 3 0 0 3 2 11
+p616
+aVChris Bosh TOR 12/02/2003 TOR @ PHI W 26 10 4 10 40.0 0 0 - 2 6 33.3 4 7 11 0 1 2 1 5 7
+p617
+aVLonny Baxter TOR 12/02/2003 TOR @ PHI W 13 3 1 4 25.0 0 0 - 1 2 50.0 0 7 7 1 1 1 2 5 5
+p618
+aVJalen Rose TOR 12/02/2003 TOR @ PHI W 44 6 3 10 30.0 0 3 0.0 0 0 - 0 1 1 8 0 0 5 5 7
+p619
+aVVince Carter TOR 12/02/2003 TOR @ PHI W 37 21 6 19 31.6 0 3 0.0 9 9 100.0 0 5 5 12 1 2 2 1 4
+p620
+aVDonyell Marshall TOR 12/02/2003 TOR @ PHI W 43 27 10 14 71.4 4 5 80.0 3 6 50.0 1 8 9 0 0 4 2 5 4
+p621
+aVJerome Moiso TOR 12/02/2003 TOR @ PHI W 14 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -3
+p622
+aVAlvin Williams TOR 12/02/2003 TOR @ PHI W 35 15 6 6 100.0 1 1 100.0 2 2 100.0 0 5 5 1 1 0 2 3 5
+p623
+aVMichael Curry TOR 12/02/2003 TOR @ PHI W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 5
+p624
+aVMorris Peterson TOR 12/02/2003 TOR @ PHI W 16 9 3 4 75.0 2 3 66.7 1 2 50.0 1 1 2 0 1 0 0 2 1
+p625
+aVLamond Murray TOR 11/29/2003 TOR @ MIA L 31 14 6 10 60.0 2 5 40.0 0 1 0.0 0 4 4 2 0 0 0 2 -8
+p626
+aVChris Bosh TOR 11/29/2003 TOR @ MIA L 46 11 4 17 23.5 0 0 - 3 4 75.0 2 8 10 2 0 1 4 3 -8
+p627
+aVVince Carter TOR 11/29/2003 TOR @ MIA L 26 8 4 12 33.3 0 1 0.0 0 0 - 2 3 5 0 0 0 4 4 -5
+p628
+aVJerome Moiso TOR 11/29/2003 TOR @ MIA L 37 6 3 7 42.9 0 0 - 0 0 - 2 6 8 0 1 2 4 0 -13
+p629
+aVMorris Peterson TOR 11/29/2003 TOR @ MIA L 30 8 2 9 22.2 2 7 28.6 2 3 66.7 0 3 3 0 0 1 0 3 -10
+p630
+aVAlvin Williams TOR 11/29/2003 TOR @ MIA L 29 13 6 10 60.0 1 3 33.3 0 0 - 0 2 2 3 2 0 3 4 -6
+p631
+aVMengke Bateer TOR 11/29/2003 TOR @ MIA L 8 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 1 0 1 1 -2
+p632
+aVMilt Palacio TOR 11/29/2003 TOR @ MIA L 19 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 0 0 1 1 -6
+p633
+aVMichael Curry TOR 11/29/2003 TOR @ MIA L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -2
+p634
+aVAlvin Williams TOR 11/28/2003 TOR @ ORL W 37 15 6 11 54.5 0 0 - 3 3 100.0 1 4 5 6 1 0 3 2 9
+p635
+aVVince Carter TOR 11/28/2003 TOR @ ORL W 44 20 5 18 27.8 0 2 0.0 10 11 90.9 1 5 6 8 0 0 5 4 1
+p636
+aVLamond Murray TOR 11/28/2003 TOR @ ORL W 19 5 2 7 28.6 1 1 100.0 0 0 - 0 2 2 0 0 0 0 2 -5
+p637
+aVMorris Peterson TOR 11/28/2003 TOR @ ORL W 26 6 2 6 33.3 2 4 50.0 0 0 - 1 3 4 4 1 0 0 2 4
+p638
+aVMichael Curry TOR 11/28/2003 TOR @ ORL W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 2
+p639
+aVAntonio Davis TOR 11/28/2003 TOR @ ORL W 38 15 4 8 50.0 0 0 - 7 8 87.5 3 5 8 0 0 1 1 4 -3
+p640
+aVMilt Palacio TOR 11/28/2003 TOR @ ORL W 11 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 0 0 2 2 -8
+p641
+aVJerome Williams TOR 11/28/2003 TOR @ ORL W 18 6 3 3 100.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 5
+p642
+aVChris Bosh TOR 11/28/2003 TOR @ ORL W 41 16 7 15 46.7 0 0 - 2 3 66.7 2 6 8 0 3 1 2 3 0
+p643
+aVChris Bosh TOR 11/26/2003 TOR @ ATL W 43 17 5 12 41.7 1 1 100.0 6 8 75.0 5 2 7 1 1 3 2 5 7
+p644
+aVJerome Williams TOR 11/26/2003 TOR @ ATL W 18 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -3
+p645
+aVMorris Peterson TOR 11/26/2003 TOR @ ATL W 23 5 2 6 33.3 1 5 20.0 0 0 - 0 4 4 2 2 0 0 1 6
+p646
+aVMichael Curry TOR 11/26/2003 TOR @ ATL W 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p647
+aVVince Carter TOR 11/26/2003 TOR @ ATL W 46 43 18 28 64.3 2 2 100.0 5 6 83.3 0 7 7 3 2 2 6 2 4
+p648
+aVLamond Murray TOR 11/26/2003 TOR @ ATL W 20 10 4 8 50.0 1 2 50.0 1 2 50.0 2 2 4 0 0 0 2 2 -5
+p649
+aVAntonio Davis TOR 11/26/2003 TOR @ ATL W 46 10 3 7 42.9 0 0 - 4 5 80.0 1 10 11 1 3 1 1 3 0
+p650
+aVMilt Palacio TOR 11/26/2003 TOR @ ATL W 18 4 2 6 33.3 0 0 - 0 0 - 0 0 0 4 0 0 4 2 -4
+p651
+aVAlvin Williams TOR 11/26/2003 TOR @ ATL W 35 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 6 2 1 1 1 6
+p652
+aVChris Bosh TOR 11/23/2003 TOR vs. MIL L 30 13 5 9 55.6 0 0 - 3 4 75.0 3 3 6 0 0 2 1 3 -23
+p653
+aVVince Carter TOR 11/23/2003 TOR vs. MIL L 35 15 7 16 43.8 0 1 0.0 1 2 50.0 0 2 2 0 2 0 7 4 -10
+p654
+aVMorris Peterson TOR 11/23/2003 TOR vs. MIL L 26 0 0 7 0.0 0 5 0.0 0 0 - 0 0 0 0 3 0 1 2 -16
+p655
+aVAntonio Davis TOR 11/23/2003 TOR vs. MIL L 34 13 5 10 50.0 0 0 - 3 4 75.0 3 6 9 1 0 0 4 4 -11
+p656
+aVRick Brunson TOR 11/23/2003 TOR vs. MIL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p657
+aVJerome Moiso TOR 11/23/2003 TOR vs. MIL L 7 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 0 6
+p658
+aVLamond Murray TOR 11/23/2003 TOR vs. MIL L 14 5 2 6 33.3 1 1 100.0 0 0 - 3 2 5 0 1 1 4 3 -17
+p659
+aVMichael Curry TOR 11/23/2003 TOR vs. MIL L 19 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -1
+p660
+aVMengke Bateer TOR 11/23/2003 TOR vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p661
+aVJerome Williams TOR 11/23/2003 TOR vs. MIL L 21 1 0 3 0.0 0 0 - 1 2 50.0 5 4 9 0 0 0 0 1 -9
+p662
+aVMilt Palacio TOR 11/23/2003 TOR vs. MIL L 18 6 2 8 25.0 0 1 0.0 2 2 100.0 0 2 2 4 0 0 1 0 -19
+p663
+aVAlvin Williams TOR 11/23/2003 TOR vs. MIL L 30 7 3 8 37.5 1 2 50.0 0 0 - 0 0 0 6 0 0 0 2 -4
+p664
+aVAlvin Williams TOR 11/22/2003 TOR @ NJN W 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 3 0 0 1 4 0
+p665
+aVLamond Murray TOR 11/22/2003 TOR @ NJN W 17 12 5 12 41.7 2 3 66.7 0 0 - 2 2 4 0 0 1 2 2 0
+p666
+aVVince Carter TOR 11/22/2003 TOR @ NJN W 42 21 7 20 35.0 1 3 33.3 6 8 75.0 3 3 6 9 1 0 2 1 7
+p667
+aVMilt Palacio TOR 11/22/2003 TOR @ NJN W 34 4 1 9 11.1 0 2 0.0 2 2 100.0 1 2 3 7 1 0 2 2 1
+p668
+aVMichael Curry TOR 11/22/2003 TOR @ NJN W 18 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 3 -3
+p669
+aVJerome Moiso TOR 11/22/2003 TOR @ NJN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p670
+aVMorris Peterson TOR 11/22/2003 TOR @ NJN W 20 13 5 7 71.4 2 3 66.7 1 2 50.0 0 2 2 1 0 0 1 1 -2
+p671
+aVAntonio Davis TOR 11/22/2003 TOR @ NJN W 38 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 0 0 0 3 5 -6
+p672
+aVJerome Williams TOR 11/22/2003 TOR @ NJN W 26 6 3 5 60.0 0 0 - 0 0 - 2 4 6 2 3 0 1 2 13
+p673
+aVChris Bosh TOR 11/22/2003 TOR @ NJN W 32 11 4 6 66.7 1 1 100.0 2 4 50.0 3 3 6 1 0 3 1 1 -5
+p674
+aVMilt Palacio TOR 11/19/2003 TOR vs. PHI L 29 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 5 0 1 2 3 2
+p675
+aVMorris Peterson TOR 11/19/2003 TOR vs. PHI L 11 8 2 4 50.0 2 3 66.7 2 2 100.0 0 2 2 1 0 0 0 4 1
+p676
+aVLamond Murray TOR 11/19/2003 TOR vs. PHI L 27 13 6 12 50.0 1 4 25.0 0 0 - 1 4 5 2 1 0 1 1 2
+p677
+aVJerome Williams TOR 11/19/2003 TOR vs. PHI L 23 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 2 0 -8
+p678
+aVAlvin Williams TOR 11/19/2003 TOR vs. PHI L 19 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -8
+p679
+aVVince Carter TOR 11/19/2003 TOR vs. PHI L 38 20 8 20 40.0 1 8 12.5 3 3 100.0 0 5 5 7 1 0 1 2 -8
+p680
+aVMichael Curry TOR 11/19/2003 TOR vs. PHI L 20 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -8
+p681
+aVAntonio Davis TOR 11/19/2003 TOR vs. PHI L 38 12 4 10 40.0 0 0 - 4 6 66.7 4 5 9 1 0 1 2 3 -7
+p682
+aVChris Bosh TOR 11/19/2003 TOR vs. PHI L 35 16 5 11 45.5 0 0 - 6 8 75.0 2 4 6 0 0 6 1 2 4
+p683
+aVAlvin Williams TOR 11/16/2003 TOR vs. HOU W 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 5 1 0 0 2 -3
+p684
+aVAntonio Davis TOR 11/16/2003 TOR vs. HOU W 44 13 5 10 50.0 0 0 - 3 4 75.0 2 3 5 2 2 0 1 5 0
+p685
+aVChris Bosh TOR 11/16/2003 TOR vs. HOU W 39 25 7 11 63.6 1 1 100.0 10 10 100.0 6 3 9 1 0 0 1 3 2
+p686
+aVLamond Murray TOR 11/16/2003 TOR vs. HOU W 32 13 5 15 33.3 1 3 33.3 2 2 100.0 1 5 6 1 0 0 2 4 2
+p687
+aVJerome Williams TOR 11/16/2003 TOR vs. HOU W 32 8 3 3 100.0 0 0 - 2 2 100.0 1 10 11 1 5 0 2 2 3
+p688
+aVMichael Curry TOR 11/16/2003 TOR vs. HOU W 23 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 0
+p689
+aVMilt Palacio TOR 11/16/2003 TOR vs. HOU W 40 12 4 8 50.0 0 2 0.0 4 5 80.0 1 0 1 3 1 0 2 2 7
+p690
+aVMorris Peterson TOR 11/16/2003 TOR vs. HOU W 12 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 4 -1
+p691
+aVVince Carter TOR 11/16/2003 TOR vs. HOU W 50 18 4 20 20.0 0 3 0.0 10 13 76.9 0 5 5 9 0 1 9 5 10
+p692
+aVLamond Murray TOR 11/14/2003 TOR @ SAC L 18 13 6 10 60.0 1 2 50.0 0 1 0.0 0 1 1 1 1 0 2 0 -18
+p693
+aVChris Bosh TOR 11/14/2003 TOR @ SAC L 31 6 2 8 25.0 0 0 - 2 2 100.0 2 4 6 1 0 3 3 2 -25
+p694
+aVMilt Palacio TOR 11/14/2003 TOR @ SAC L 30 10 5 9 55.6 0 0 - 0 0 - 0 1 1 2 3 0 3 1 -17
+p695
+aVAlvin Williams TOR 11/14/2003 TOR @ SAC L 18 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 2 0 0 3 -13
+p696
+aVAntonio Davis TOR 11/14/2003 TOR @ SAC L 30 7 3 12 25.0 0 0 - 1 2 50.0 2 8 10 0 1 0 1 5 -23
+p697
+aVRick Brunson TOR 11/14/2003 TOR @ SAC L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p698
+aVMorris Peterson TOR 11/14/2003 TOR @ SAC L 30 3 1 6 16.7 1 4 25.0 0 0 - 2 3 5 2 1 1 1 0 -9
+p699
+aVMichael Curry TOR 11/14/2003 TOR @ SAC L 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -15
+p700
+aVMengke Bateer TOR 11/14/2003 TOR @ SAC L 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -3
+p701
+aVVince Carter TOR 11/14/2003 TOR @ SAC L 30 13 5 21 23.8 1 4 25.0 2 2 100.0 0 3 3 1 0 2 3 1 -22
+p702
+aVJerome Williams TOR 11/14/2003 TOR @ SAC L 20 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 0 3 -9
+p703
+aVChris Bosh TOR 11/12/2003 TOR @ LAL L 28 10 4 6 66.7 0 0 - 2 2 100.0 0 8 8 0 1 0 3 6 -8
+p704
+aVMengke Bateer TOR 11/12/2003 TOR @ LAL L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 5 -4
+p705
+aVAntonio Davis TOR 11/12/2003 TOR @ LAL L 36 2 1 4 25.0 0 0 - 0 0 - 3 5 8 1 0 0 0 3 -7
+p706
+aVMorris Peterson TOR 11/12/2003 TOR @ LAL L 21 16 4 9 44.4 3 5 60.0 5 6 83.3 0 3 3 0 1 0 0 4 -4
+p707
+aVVince Carter TOR 11/12/2003 TOR @ LAL L 37 23 7 22 31.8 1 6 16.7 8 9 88.9 0 2 2 4 3 2 3 1 -16
+p708
+aVMichael Curry TOR 11/12/2003 TOR @ LAL L 18 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 1 0 0 3 1 -4
+p709
+aVAlvin Williams TOR 11/12/2003 TOR @ LAL L 11 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 3 0 0 0 1 -2
+p710
+aVJerome Moiso TOR 11/12/2003 TOR @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p711
+aVMilt Palacio TOR 11/12/2003 TOR @ LAL L 37 2 1 9 11.1 0 3 0.0 0 0 - 0 2 2 4 0 0 5 4 -13
+p712
+aVLamond Murray TOR 11/12/2003 TOR @ LAL L 20 15 4 9 44.4 2 3 66.7 5 5 100.0 2 5 7 0 1 0 2 3 -6
+p713
+aVJerome Williams TOR 11/12/2003 TOR @ LAL L 20 4 2 3 66.7 0 0 - 0 0 - 0 8 8 1 1 0 2 3 -7
+p714
+aVMilt Palacio TOR 11/11/2003 TOR @ POR L 35 6 3 9 33.3 0 2 0.0 0 0 - 0 3 3 10 1 1 3 2 -3
+p715
+aVVince Carter TOR 11/11/2003 TOR @ POR L 39 33 11 23 47.8 4 6 66.7 7 7 100.0 1 1 2 3 2 1 0 2 2
+p716
+aVAlvin Williams TOR 11/11/2003 TOR @ POR L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 5 0 1 1 0 0
+p717
+aVChris Bosh TOR 11/11/2003 TOR @ POR L 30 12 4 6 66.7 0 0 - 4 6 66.7 1 1 2 0 1 1 0 0 -1
+p718
+aVJerome Williams TOR 11/11/2003 TOR @ POR L 29 0 0 3 0.0 0 1 0.0 0 0 - 2 6 8 0 2 1 2 1 -5
+p719
+aVMorris Peterson TOR 11/11/2003 TOR @ POR L 21 9 4 8 50.0 1 3 33.3 0 0 - 0 1 1 3 1 0 1 2 -2
+p720
+aVAntonio Davis TOR 11/11/2003 TOR @ POR L 38 9 3 7 42.9 0 0 - 3 6 50.0 5 6 11 1 0 1 0 1 0
+p721
+aVLamond Murray TOR 11/11/2003 TOR @ POR L 14 1 0 6 0.0 0 1 0.0 1 4 25.0 0 1 1 0 0 0 0 1 -5
+p722
+aVMichael Curry TOR 11/11/2003 TOR @ POR L 22 10 4 5 80.0 0 1 0.0 2 3 66.7 0 0 0 2 1 0 0 3 -1
+p723
+aVLamond Murray TOR 11/09/2003 TOR vs. DEN W 18 6 3 12 25.0 0 3 0.0 0 0 - 0 0 0 2 1 0 0 0 -4
+p724
+aVAntonio Davis TOR 11/09/2003 TOR vs. DEN W 29 7 2 9 22.2 0 0 - 3 4 75.0 2 9 11 2 0 1 1 3 15
+p725
+aVJerome Williams TOR 11/09/2003 TOR vs. DEN W 38 8 3 5 60.0 0 0 - 2 2 100.0 3 10 13 2 1 0 2 2 15
+p726
+aVChris Bosh TOR 11/09/2003 TOR vs. DEN W 27 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 1 1 1 5 1
+p727
+aVRick Brunson TOR 11/09/2003 TOR vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p728
+aVMilt Palacio TOR 11/09/2003 TOR vs. DEN W 33 14 6 10 60.0 1 4 25.0 1 2 50.0 0 1 1 6 1 0 2 0 16
+p729
+aVJerome Moiso TOR 11/09/2003 TOR vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p730
+aVMichael Curry TOR 11/09/2003 TOR vs. DEN W 24 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 3 10
+p731
+aVAlvin Williams TOR 11/09/2003 TOR vs. DEN W 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 0 0 3 3 -3
+p732
+aVMengke Bateer TOR 11/09/2003 TOR vs. DEN W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p733
+aVVince Carter TOR 11/09/2003 TOR vs. DEN W 39 34 14 22 63.6 2 3 66.7 4 5 80.0 4 6 10 6 0 1 2 3 22
+p734
+aVMorris Peterson TOR 11/09/2003 TOR vs. DEN W 15 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 1 0 0 1 1 -4
+p735
+aVMorris Peterson TOR 11/07/2003 TOR @ WAS L 19 11 4 7 57.1 0 2 0.0 3 4 75.0 0 1 1 0 3 1 1 1 -8
+p736
+aVAntonio Davis TOR 11/07/2003 TOR @ WAS L 29 0 0 4 0.0 0 0 - 0 0 - 2 5 7 0 0 0 1 1 -26
+p737
+aVChris Bosh TOR 11/07/2003 TOR @ WAS L 25 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 2 1 3 -8
+p738
+aVVince Carter TOR 11/07/2003 TOR @ WAS L 37 18 8 21 38.1 0 2 0.0 2 3 66.7 1 1 2 1 2 0 3 5 -27
+p739
+aVChris Jefferies TOR 11/07/2003 TOR @ WAS L 6 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 1 0 8
+p740
+aVMilt Palacio TOR 11/07/2003 TOR @ WAS L 25 2 1 6 16.7 0 0 - 0 0 - 1 0 1 3 0 0 2 1 -18
+p741
+aVLamond Murray TOR 11/07/2003 TOR @ WAS L 17 9 4 8 50.0 1 3 33.3 0 0 - 0 5 5 0 0 1 5 5 -24
+p742
+aVJerome Moiso TOR 11/07/2003 TOR @ WAS L 10 0 0 1 0.0 0 0 - 0 1 0.0 2 1 3 0 1 1 1 2 -2
+p743
+aVAlvin Williams TOR 11/07/2003 TOR @ WAS L 23 4 2 7 28.6 0 0 - 0 0 - 0 1 1 6 0 1 2 0 -8
+p744
+aVMichael Curry TOR 11/07/2003 TOR @ WAS L 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -1
+p745
+aVJerome Williams TOR 11/07/2003 TOR @ WAS L 33 5 1 2 50.0 0 0 - 3 6 50.0 1 12 13 2 2 0 3 2 -16
+p746
+aVMilt Palacio TOR 11/06/2003 TOR vs. DAL W 31 11 5 12 41.7 1 1 100.0 0 0 - 0 2 2 7 3 0 4 1 13
+p747
+aVVince Carter TOR 11/06/2003 TOR vs. DAL W 31 19 7 16 43.8 0 1 0.0 5 8 62.5 1 4 5 6 2 1 2 3 -4
+p748
+aVChris Bosh TOR 11/06/2003 TOR vs. DAL W 31 6 2 7 28.6 0 0 - 2 2 100.0 2 7 9 0 2 2 0 1 14
+p749
+aVJerome Moiso TOR 11/06/2003 TOR vs. DAL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 2
+p750
+aVLamond Murray TOR 11/06/2003 TOR vs. DAL W 25 4 1 8 12.5 1 4 25.0 1 2 50.0 0 3 3 5 2 1 3 3 11
+p751
+aVMichael Curry TOR 11/06/2003 TOR vs. DAL W 18 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -5
+p752
+aVAlvin Williams TOR 11/06/2003 TOR vs. DAL W 17 4 2 9 22.2 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -9
+p753
+aVJerome Williams TOR 11/06/2003 TOR vs. DAL W 24 4 2 2 100.0 0 0 - 0 0 - 3 3 6 0 0 0 1 3 -2
+p754
+aVAntonio Davis TOR 11/06/2003 TOR vs. DAL W 34 13 4 10 40.0 0 0 - 5 6 83.3 5 7 12 2 2 2 3 2 -5
+p755
+aVMorris Peterson TOR 11/06/2003 TOR vs. DAL W 22 12 4 6 66.7 2 3 66.7 2 2 100.0 1 2 3 0 2 0 1 4 15
+p756
+aVAlvin Williams TOR 11/01/2003 TOR @ MIN L 21 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 3 0 0 2 1 -10
+p757
+aVAntonio Davis TOR 11/01/2003 TOR @ MIN L 32 4 1 6 16.7 0 0 - 2 2 100.0 3 6 9 0 0 0 0 1 -8
+p758
+aVLamond Murray TOR 11/01/2003 TOR @ MIN L 29 8 2 12 16.7 2 3 66.7 2 2 100.0 0 5 5 0 0 0 0 0 -11
+p759
+aVJerome Moiso TOR 11/01/2003 TOR @ MIN L 11 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 1 1 2 -5
+p760
+aVMorris Peterson TOR 11/01/2003 TOR @ MIN L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 1 -1
+p761
+aVChris Jefferies TOR 11/01/2003 TOR @ MIN L 2 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 3
+p762
+aVMengke Bateer TOR 11/01/2003 TOR @ MIN L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p763
+aVMilt Palacio TOR 11/01/2003 TOR @ MIN L 27 6 2 7 28.6 0 0 - 2 2 100.0 0 4 4 1 1 0 2 1 -7
+p764
+aVMichael Curry TOR 11/01/2003 TOR @ MIN L 17 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -9
+p765
+aVVince Carter TOR 11/01/2003 TOR @ MIN L 35 15 5 15 33.3 0 0 - 5 5 100.0 1 1 2 3 1 0 2 2 -16
+p766
+aVChris Bosh TOR 11/01/2003 TOR @ MIN L 19 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 1 0 2 3 -14
+p767
+aVJerome Williams TOR 11/01/2003 TOR @ MIN L 32 7 2 8 25.0 0 0 - 3 4 75.0 9 7 16 0 0 1 5 3 -10
+p768
+aVJerome Williams TOR 10/31/2003 TOR vs. WAS W 39 17 6 10 60.0 0 0 - 5 7 71.4 4 9 13 0 3 1 2 1 2
+p769
+aVLamond Murray TOR 10/31/2003 TOR vs. WAS W 29 15 6 12 50.0 1 5 20.0 2 2 100.0 0 3 3 3 1 1 3 1 7
+p770
+aVVince Carter TOR 10/31/2003 TOR vs. WAS W 34 26 9 22 40.9 2 2 100.0 6 6 100.0 4 3 7 5 0 1 4 4 -6
+p771
+aVAlvin Williams TOR 10/31/2003 TOR vs. WAS W 22 4 2 10 20.0 0 0 - 0 0 - 0 2 2 6 0 0 2 0 -6
+p772
+aVMichael Curry TOR 10/31/2003 TOR vs. WAS W 19 0 0 4 0.0 0 1 0.0 0 0 - 2 0 2 0 0 0 1 1 -6
+p773
+aVAntonio Davis TOR 10/31/2003 TOR vs. WAS W 35 6 3 8 37.5 0 0 - 0 0 - 7 8 15 2 0 1 0 2 -10
+p774
+aVMilt Palacio TOR 10/31/2003 TOR vs. WAS W 26 2 1 7 14.3 0 0 - 0 0 - 0 3 3 6 2 0 2 3 9
+p775
+aVChris Bosh TOR 10/31/2003 TOR vs. WAS W 22 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 14
+p776
+aVMorris Peterson TOR 10/31/2003 TOR vs. WAS W 14 7 3 5 60.0 0 1 0.0 1 1 100.0 0 2 2 2 3 1 0 0 11
+p777
+aVMorris Peterson TOR 10/29/2003 TOR vs. NJN W 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -1
+p778
+aVAntonio Davis TOR 10/29/2003 TOR vs. NJN W 41 12 6 10 60.0 0 0 - 0 0 - 5 9 14 1 0 0 3 3 3
+p779
+aVLamond Murray TOR 10/29/2003 TOR vs. NJN W 27 4 1 8 12.5 0 4 0.0 2 2 100.0 0 3 3 4 1 1 1 5 15
+p780
+aVChris Bosh TOR 10/29/2003 TOR vs. NJN W 24 11 5 8 62.5 0 0 - 1 1 100.0 2 2 4 0 0 2 1 3 9
+p781
+aVVince Carter TOR 10/29/2003 TOR vs. NJN W 39 39 15 30 50.0 0 3 0.0 9 10 90.0 4 1 5 1 0 0 2 2 4
+p782
+aVJerome Williams TOR 10/29/2003 TOR vs. NJN W 31 3 0 1 0.0 0 0 - 3 4 75.0 1 13 14 1 0 0 1 3 -7
+p783
+aVMilt Palacio TOR 10/29/2003 TOR vs. NJN W 29 9 4 9 44.4 0 1 0.0 1 4 25.0 0 2 2 4 1 0 1 0 13
+p784
+aVMichael Curry TOR 10/29/2003 TOR vs. NJN W 19 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 2 0 0 1 4 -12
+p785
+aVAlvin Williams TOR 10/29/2003 TOR vs. NJN W 19 7 1 5 20.0 1 2 50.0 4 4 100.0 0 2 2 3 0 1 1 1 -9
+p786
+a.

@@ -1,0 +1,1656 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEd Pinckney BOS 04/24/1994 BOS @ CLE L 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 4 -
+p2
+aVRobert Parish BOS 04/24/1994 BOS @ CLE L 38 15 7 14 50.0 0 0 - 1 3 33.3 0 9 9 3 0 0 1 2 -
+p3
+aVKevin Gamble BOS 04/24/1994 BOS @ CLE L 30 16 8 16 50.0 0 1 0.0 0 0 - 3 2 5 5 1 2 1 3 -
+p4
+aVDee Brown BOS 04/24/1994 BOS @ CLE L 41 16 7 12 58.3 1 1 100.0 1 1 100.0 0 2 2 3 2 1 3 1 -
+p5
+aVMatt Wenstrom BOS 04/24/1994 BOS @ CLE L 6 4 1 1 100.0 0 0 - 2 4 50.0 2 1 3 0 0 1 0 1 -
+p6
+aVChris Corchiani BOS 04/24/1994 BOS @ CLE L 8 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 4 1 0 0 0 -
+p7
+aVRick Fox BOS 04/24/1994 BOS @ CLE L 31 10 4 11 36.4 0 0 - 2 2 100.0 2 4 6 4 1 0 1 1 -
+p8
+aVSherman Douglas BOS 04/24/1994 BOS @ CLE L 17 8 3 6 50.0 2 3 66.7 0 2 0.0 2 1 3 4 1 0 7 1 -
+p9
+aVXavier McDaniel BOS 04/24/1994 BOS @ CLE L 27 16 7 13 53.8 0 1 0.0 2 4 50.0 3 6 9 4 2 1 1 2 -
+p10
+aVAcie Earl BOS 04/24/1994 BOS @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p11
+aVJimmy Oliver BOS 04/24/1994 BOS @ CLE L 20 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p12
+aVJimmy Oliver BOS 04/22/1994 BOS @ CHI W 27 10 4 10 40.0 0 2 0.0 2 2 100.0 0 2 2 1 0 0 0 2 -
+p13
+aVXavier McDaniel BOS 04/22/1994 BOS @ CHI W 30 6 3 13 23.1 0 0 - 0 0 - 4 4 8 4 3 1 1 5 -
+p14
+aVMatt Wenstrom BOS 04/22/1994 BOS @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p15
+aVRick Fox BOS 04/22/1994 BOS @ CHI W 36 11 4 6 66.7 0 1 0.0 3 3 100.0 0 1 1 3 0 0 4 6 -
+p16
+aVRobert Parish BOS 04/22/1994 BOS @ CHI W 51 14 4 19 21.1 0 0 - 6 8 75.0 2 5 7 2 2 1 2 3 -
+p17
+aVChris Corchiani BOS 04/22/1994 BOS @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p18
+aVDee Brown BOS 04/22/1994 BOS @ CHI W 54 40 12 22 54.5 2 3 66.7 14 15 93.3 1 6 7 5 4 0 2 2 -
+p19
+aVAcie Earl BOS 04/22/1994 BOS @ CHI W 4 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -
+p20
+aVEd Pinckney BOS 04/22/1994 BOS @ CHI W 50 11 5 6 83.3 0 0 - 1 1 100.0 4 13 17 2 0 0 1 4 -
+p21
+aVKevin Gamble BOS 04/22/1994 BOS @ CHI W 30 11 5 13 38.5 0 0 - 1 2 50.0 2 2 4 0 2 1 1 3 -
+p22
+aVRick Fox BOS 04/21/1994 BOS vs. CHH L 38 14 3 10 30.0 1 3 33.3 7 8 87.5 2 6 8 6 0 2 3 4 -
+p23
+aVDino Radja BOS 04/21/1994 BOS vs. CHH L 36 13 3 11 27.3 0 0 - 7 10 70.0 1 7 8 2 4 1 3 3 -
+p24
+aVKevin Gamble BOS 04/21/1994 BOS vs. CHH L 27 17 6 15 40.0 1 3 33.3 4 4 100.0 2 3 5 1 0 0 0 3 -
+p25
+aVJimmy Oliver BOS 04/21/1994 BOS vs. CHH L 18 10 5 12 41.7 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -
+p26
+aVEd Pinckney BOS 04/21/1994 BOS vs. CHH L 29 6 1 2 50.0 0 0 - 4 5 80.0 4 5 9 2 4 0 1 3 -
+p27
+aVXavier McDaniel BOS 04/21/1994 BOS vs. CHH L 15 5 2 9 22.2 0 0 - 1 1 100.0 2 1 3 1 0 0 2 0 -
+p28
+aVRobert Parish BOS 04/21/1994 BOS vs. CHH L 29 10 4 12 33.3 0 0 - 2 2 100.0 4 7 11 1 1 2 2 5 -
+p29
+aVDee Brown BOS 04/21/1994 BOS vs. CHH L 48 14 6 11 54.5 0 0 - 2 3 66.7 0 2 2 7 0 4 3 3 -
+p30
+aVKevin Gamble BOS 04/19/1994 BOS vs. MIL W 18 4 1 8 12.5 0 0 - 2 2 100.0 0 1 1 2 0 0 0 2 -
+p31
+aVJimmy Oliver BOS 04/19/1994 BOS vs. MIL W 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p32
+aVRobert Parish BOS 04/19/1994 BOS vs. MIL W 34 25 9 15 60.0 0 0 - 7 8 87.5 7 8 15 3 0 1 3 2 -
+p33
+aVDee Brown BOS 04/19/1994 BOS vs. MIL W 26 8 4 10 40.0 0 1 0.0 0 0 - 2 2 4 4 0 0 0 1 -
+p34
+aVChris Corchiani BOS 04/19/1994 BOS vs. MIL W 2 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 -
+p35
+aVRick Fox BOS 04/19/1994 BOS vs. MIL W 47 31 11 23 47.8 4 8 50.0 5 6 83.3 4 4 8 4 3 0 6 2 -
+p36
+aVXavier McDaniel BOS 04/19/1994 BOS vs. MIL W 28 20 7 10 70.0 0 0 - 6 6 100.0 6 4 10 1 0 0 2 1 -
+p37
+aVDino Radja BOS 04/19/1994 BOS vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p38
+aVEd Pinckney BOS 04/19/1994 BOS vs. MIL W 42 21 6 10 60.0 0 0 - 9 12 75.0 9 13 22 2 4 1 2 2 -
+p39
+aVSherman Douglas BOS 04/19/1994 BOS vs. MIL W 37 8 3 14 21.4 0 0 - 2 2 100.0 0 4 4 11 1 0 5 6 -
+p40
+aVRick Fox BOS 04/17/1994 BOS @ WAS L 29 6 3 5 60.0 0 0 - 0 0 - 3 4 7 2 2 0 1 2 -
+p41
+aVAcie Earl BOS 04/17/1994 BOS @ WAS L 6 2 0 5 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 1 -
+p42
+aVJimmy Oliver BOS 04/17/1994 BOS @ WAS L 14 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p43
+aVXavier McDaniel BOS 04/17/1994 BOS @ WAS L 17 4 2 8 25.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -
+p44
+aVKevin Gamble BOS 04/17/1994 BOS @ WAS L 16 14 5 12 41.7 0 0 - 4 4 100.0 1 1 2 1 0 0 0 1 -
+p45
+aVDee Brown BOS 04/17/1994 BOS @ WAS L 40 21 10 18 55.6 0 0 - 1 3 33.3 0 2 2 1 0 0 1 2 -
+p46
+aVEd Pinckney BOS 04/17/1994 BOS @ WAS L 28 6 3 6 50.0 0 0 - 0 0 - 3 2 5 0 1 1 1 3 -
+p47
+aVDino Radja BOS 04/17/1994 BOS @ WAS L 31 19 6 9 66.7 0 0 - 7 7 100.0 2 4 6 2 2 1 0 5 -
+p48
+aVTodd Lichti BOS 04/17/1994 BOS @ WAS L 9 3 1 2 50.0 0 0 - 1 6 16.7 1 1 2 0 3 0 1 0 -
+p49
+aVRobert Parish BOS 04/17/1994 BOS @ WAS L 17 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 4 -
+p50
+aVChris Corchiani BOS 04/17/1994 BOS @ WAS L 5 0 0 2 0.0 0 1 0.0 0 2 0.0 1 0 1 0 0 0 1 1 -
+p51
+aVSherman Douglas BOS 04/17/1994 BOS @ WAS L 28 18 8 16 50.0 0 0 - 2 2 100.0 1 1 2 8 1 0 3 1 -
+p52
+aVDino Radja BOS 04/15/1994 BOS vs. ORL W 42 29 13 24 54.2 0 0 - 3 3 100.0 2 8 10 0 0 0 3 5 -
+p53
+aVXavier McDaniel BOS 04/15/1994 BOS vs. ORL W 24 0 0 7 0.0 0 1 0.0 0 0 - 1 4 5 2 1 0 0 2 -
+p54
+aVKevin Gamble BOS 04/15/1994 BOS vs. ORL W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p55
+aVRobert Parish BOS 04/15/1994 BOS vs. ORL W 44 12 6 15 40.0 0 0 - 0 0 - 3 13 16 2 0 1 4 5 -
+p56
+aVDee Brown BOS 04/15/1994 BOS vs. ORL W 53 25 9 18 50.0 1 2 50.0 6 6 100.0 0 7 7 8 4 1 0 1 -
+p57
+aVEd Pinckney BOS 04/15/1994 BOS vs. ORL W 31 12 5 8 62.5 0 0 - 2 2 100.0 5 10 15 1 0 1 3 2 -
+p58
+aVRick Fox BOS 04/15/1994 BOS vs. ORL W 36 15 6 11 54.5 1 3 33.3 2 2 100.0 2 5 7 10 0 1 0 5 -
+p59
+aVSherman Douglas BOS 04/15/1994 BOS vs. ORL W 47 16 7 17 41.2 0 0 - 2 5 40.0 1 2 3 10 1 1 3 5 -
+p60
+aVAcie Earl BOS 04/15/1994 BOS vs. ORL W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p61
+aVEd Pinckney BOS 04/13/1994 BOS vs. DET W 20 9 3 4 75.0 0 0 - 3 3 100.0 1 3 4 2 1 0 0 1 -
+p62
+aVSherman Douglas BOS 04/13/1994 BOS vs. DET W 32 17 7 11 63.6 0 2 0.0 3 4 75.0 0 3 3 11 0 0 1 1 -
+p63
+aVRobert Parish BOS 04/13/1994 BOS vs. DET W 27 13 6 9 66.7 0 0 - 1 2 50.0 4 7 11 0 1 2 2 2 -
+p64
+aVDee Brown BOS 04/13/1994 BOS vs. DET W 38 21 8 13 61.5 0 2 0.0 5 5 100.0 0 3 3 4 1 0 2 3 -
+p65
+aVKevin Gamble BOS 04/13/1994 BOS vs. DET W 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -
+p66
+aVXavier McDaniel BOS 04/13/1994 BOS vs. DET W 24 6 3 8 37.5 0 0 - 0 2 0.0 0 2 2 1 0 0 3 5 -
+p67
+aVDino Radja BOS 04/13/1994 BOS vs. DET W 36 20 8 16 50.0 0 0 - 4 8 50.0 6 8 14 3 0 1 0 5 -
+p68
+aVRick Fox BOS 04/13/1994 BOS vs. DET W 31 11 4 10 40.0 0 0 - 3 6 50.0 2 5 7 3 3 0 2 0 -
+p69
+aVChris Corchiani BOS 04/13/1994 BOS vs. DET W 5 3 1 1 100.0 1 1 100.0 0 0 - 2 0 2 0 0 0 1 0 -
+p70
+aVAcie Earl BOS 04/13/1994 BOS vs. DET W 8 2 0 6 0.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 1 -
+p71
+aVTodd Lichti BOS 04/13/1994 BOS vs. DET W 11 5 1 4 25.0 0 0 - 3 4 75.0 0 1 1 1 1 0 1 3 -
+p72
+aVDee Brown BOS 04/11/1994 BOS @ IND L 39 23 11 20 55.0 1 4 25.0 0 0 - 0 4 4 1 2 0 4 5 -
+p73
+aVKevin Gamble BOS 04/11/1994 BOS @ IND L 16 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 1 0 0 3 2 -
+p74
+aVEd Pinckney BOS 04/11/1994 BOS @ IND L 19 6 3 6 50.0 0 0 - 0 0 - 4 1 5 0 0 0 0 0 -
+p75
+aVXavier McDaniel BOS 04/11/1994 BOS @ IND L 31 13 6 11 54.5 1 2 50.0 0 0 - 1 5 6 1 1 0 2 3 -
+p76
+aVRick Fox BOS 04/11/1994 BOS @ IND L 20 8 3 4 75.0 0 1 0.0 2 2 100.0 0 4 4 0 0 1 1 4 -
+p77
+aVRobert Parish BOS 04/11/1994 BOS @ IND L 27 13 5 10 50.0 0 0 - 3 3 100.0 2 2 4 1 0 1 0 6 -
+p78
+aVDino Radja BOS 04/11/1994 BOS @ IND L 39 19 9 16 56.3 0 0 - 1 2 50.0 2 1 3 2 1 0 1 2 -
+p79
+aVAcie Earl BOS 04/11/1994 BOS @ IND L 11 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 6 -
+p80
+aVSherman Douglas BOS 04/11/1994 BOS @ IND L 38 19 5 11 45.5 0 0 - 9 12 75.0 1 2 3 13 1 0 6 6 -
+p81
+aVSherman Douglas BOS 04/10/1994 BOS @ DET W 36 13 5 8 62.5 1 2 50.0 2 2 100.0 1 0 1 7 1 0 4 2 -
+p82
+aVJimmy Oliver BOS 04/10/1994 BOS @ DET W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p83
+aVRick Fox BOS 04/10/1994 BOS @ DET W 33 13 6 15 40.0 1 3 33.3 0 0 - 3 2 5 5 0 0 2 1 -
+p84
+aVDino Radja BOS 04/10/1994 BOS @ DET W 37 25 11 20 55.0 0 0 - 3 4 75.0 4 6 10 3 0 1 1 4 -
+p85
+aVRobert Parish BOS 04/10/1994 BOS @ DET W 26 15 7 9 77.8 0 0 - 1 2 50.0 3 1 4 3 1 2 0 2 -
+p86
+aVKevin Gamble BOS 04/10/1994 BOS @ DET W 19 8 4 10 40.0 0 0 - 0 0 - 0 2 2 1 0 2 0 2 -
+p87
+aVDee Brown BOS 04/10/1994 BOS @ DET W 37 13 5 11 45.5 0 2 0.0 3 4 75.0 1 4 5 7 2 0 2 1 -
+p88
+aVAcie Earl BOS 04/10/1994 BOS @ DET W 16 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 0 0 1 0 0 -
+p89
+aVXavier McDaniel BOS 04/10/1994 BOS @ DET W 22 17 8 15 53.3 0 0 - 1 2 50.0 4 3 7 1 0 0 1 5 -
+p90
+aVEd Pinckney BOS 04/10/1994 BOS @ DET W 7 2 1 1 100.0 0 0 - 0 0 - 3 0 3 0 0 0 0 0 -
+p91
+aVDino Radja BOS 04/08/1994 BOS vs. MIN W 36 14 6 10 60.0 0 0 - 2 2 100.0 1 3 4 1 0 2 7 4 -
+p92
+aVEd Pinckney BOS 04/08/1994 BOS vs. MIN W 23 7 2 2 100.0 0 0 - 3 3 100.0 0 4 4 2 1 0 2 2 -
+p93
+aVXavier McDaniel BOS 04/08/1994 BOS vs. MIN W 24 17 6 8 75.0 1 1 100.0 4 5 80.0 1 1 2 4 1 2 4 3 -
+p94
+aVDee Brown BOS 04/08/1994 BOS vs. MIN W 48 26 8 17 47.1 2 3 66.7 8 8 100.0 1 1 2 9 3 0 2 2 -
+p95
+aVRick Fox BOS 04/08/1994 BOS vs. MIN W 31 14 7 10 70.0 0 1 0.0 0 0 - 2 3 5 4 2 0 1 4 -
+p96
+aVJimmy Oliver BOS 04/08/1994 BOS vs. MIN W 24 5 2 8 25.0 1 1 100.0 0 0 - 0 0 0 3 1 1 0 1 -
+p97
+aVKevin Gamble BOS 04/08/1994 BOS vs. MIN W 22 10 3 8 37.5 0 0 - 4 4 100.0 0 0 0 2 3 0 1 3 -
+p98
+aVRobert Parish BOS 04/08/1994 BOS vs. MIN W 32 19 6 10 60.0 0 0 - 7 8 87.5 2 10 12 2 3 1 3 2 -
+p99
+aVRobert Parish BOS 04/06/1994 BOS @ ATL L 35 18 9 15 60.0 0 0 - 0 0 - 1 5 6 1 0 1 4 0 -
+p100
+aVDino Radja BOS 04/06/1994 BOS @ ATL L 41 21 9 14 64.3 0 0 - 3 3 100.0 4 8 12 2 0 0 3 3 -
+p101
+aVDee Brown BOS 04/06/1994 BOS @ ATL L 38 22 8 15 53.3 2 4 50.0 4 5 80.0 2 3 5 9 1 3 2 3 -
+p102
+aVKevin Gamble BOS 04/06/1994 BOS @ ATL L 20 6 2 8 25.0 0 3 0.0 2 2 100.0 0 2 2 1 1 0 1 1 -
+p103
+aVSherman Douglas BOS 04/06/1994 BOS @ ATL L 38 15 6 18 33.3 1 2 50.0 2 2 100.0 2 4 6 6 1 0 3 2 -
+p104
+aVRick Fox BOS 04/06/1994 BOS @ ATL L 31 15 6 10 60.0 1 4 25.0 2 2 100.0 0 2 2 1 0 0 2 3 -
+p105
+aVXavier McDaniel BOS 04/06/1994 BOS @ ATL L 18 4 2 8 25.0 0 0 - 0 0 - 3 1 4 0 0 0 1 1 -
+p106
+aVEd Pinckney BOS 04/06/1994 BOS @ ATL L 19 6 1 3 33.3 0 0 - 4 4 100.0 3 6 9 1 0 1 0 3 -
+p107
+aVAcie Earl BOS 04/05/1994 BOS @ NJN L 26 10 3 8 37.5 0 0 - 4 4 100.0 2 5 7 0 0 3 1 1 -
+p108
+aVEd Pinckney BOS 04/05/1994 BOS @ NJN L 32 14 6 8 75.0 0 0 - 2 2 100.0 2 6 8 3 0 5 2 1 -
+p109
+aVRick Fox BOS 04/05/1994 BOS @ NJN L 29 12 6 11 54.5 0 0 - 0 0 - 0 2 2 4 2 3 3 4 -
+p110
+aVDee Brown BOS 04/05/1994 BOS @ NJN L 36 9 3 11 27.3 1 1 100.0 2 3 66.7 0 0 0 5 2 0 4 2 -
+p111
+aVSherman Douglas BOS 04/05/1994 BOS @ NJN L 23 12 5 7 71.4 0 0 - 2 2 100.0 0 2 2 5 0 0 3 2 -
+p112
+aVKevin Gamble BOS 04/05/1994 BOS @ NJN L 21 17 7 10 70.0 0 1 0.0 3 4 75.0 0 1 1 0 1 0 0 0 -
+p113
+aVTodd Lichti BOS 04/05/1994 BOS @ NJN L 13 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 2 0 1 1 0 -
+p114
+aVXavier McDaniel BOS 04/05/1994 BOS @ NJN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -
+p115
+aVJimmy Oliver BOS 04/05/1994 BOS @ NJN L 11 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 -
+p116
+aVRobert Parish BOS 04/05/1994 BOS @ NJN L 16 4 2 3 66.7 0 0 - 0 0 - 0 3 3 2 1 1 1 3 -
+p117
+aVChris Corchiani BOS 04/05/1994 BOS @ NJN L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -
+p118
+aVDino Radja BOS 04/05/1994 BOS @ NJN L 22 9 4 11 36.4 0 0 - 1 2 50.0 1 1 2 0 0 1 1 3 -
+p119
+aVEd Pinckney BOS 04/03/1994 BOS @ PHL W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p120
+aVDee Brown BOS 04/03/1994 BOS @ PHL W 35 16 8 12 66.7 0 1 0.0 0 1 0.0 2 2 4 7 4 0 2 3 -
+p121
+aVTodd Lichti BOS 04/03/1994 BOS @ PHL W 15 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 3 1 0 0 1 -
+p122
+aVRick Fox BOS 04/03/1994 BOS @ PHL W 16 7 3 8 37.5 0 0 - 1 2 50.0 0 2 2 2 1 0 2 4 -
+p123
+aVDino Radja BOS 04/03/1994 BOS @ PHL W 29 25 12 18 66.7 0 0 - 1 3 33.3 3 6 9 3 2 1 0 4 -
+p124
+aVSherman Douglas BOS 04/03/1994 BOS @ PHL W 46 27 13 18 72.2 0 0 - 1 2 50.0 5 3 8 22 3 0 4 4 -
+p125
+aVKevin Gamble BOS 04/03/1994 BOS @ PHL W 20 19 8 14 57.1 3 5 60.0 0 0 - 0 1 1 2 2 0 1 0 -
+p126
+aVAcie Earl BOS 04/03/1994 BOS @ PHL W 20 4 2 6 33.3 0 0 - 0 0 - 2 5 7 0 2 2 1 2 -
+p127
+aVRobert Parish BOS 04/03/1994 BOS @ PHL W 23 12 6 11 54.5 0 0 - 0 0 - 3 8 11 0 0 1 1 0 -
+p128
+aVXavier McDaniel BOS 04/03/1994 BOS @ PHL W 29 15 6 13 46.2 0 1 0.0 3 3 100.0 2 4 6 1 0 1 2 2 -
+p129
+aVSherman Douglas BOS 04/01/1994 BOS vs. WAS L 31 9 4 12 33.3 0 1 0.0 1 3 33.3 2 3 5 10 0 2 1 1 -
+p130
+aVKevin Gamble BOS 04/01/1994 BOS vs. WAS L 15 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -
+p131
+aVEd Pinckney BOS 04/01/1994 BOS vs. WAS L 14 5 2 2 100.0 0 0 - 1 2 50.0 2 0 2 0 1 1 0 0 -
+p132
+aVDee Brown BOS 04/01/1994 BOS vs. WAS L 40 17 8 17 47.1 0 0 - 1 2 50.0 1 0 1 7 2 1 1 3 -
+p133
+aVRobert Parish BOS 04/01/1994 BOS vs. WAS L 26 8 4 10 40.0 0 0 - 0 0 - 3 7 10 1 1 1 0 1 -
+p134
+aVXavier McDaniel BOS 04/01/1994 BOS vs. WAS L 19 6 3 8 37.5 0 0 - 0 0 - 4 6 10 0 0 1 2 4 -
+p135
+aVDino Radja BOS 04/01/1994 BOS vs. WAS L 32 15 6 10 60.0 0 0 - 3 4 75.0 2 3 5 1 0 0 3 3 -
+p136
+aVJimmy Oliver BOS 04/01/1994 BOS vs. WAS L 18 4 2 6 33.3 0 1 0.0 0 2 0.0 1 5 6 2 0 0 1 2 -
+p137
+aVRick Fox BOS 04/01/1994 BOS vs. WAS L 37 23 8 17 47.1 0 0 - 7 12 58.3 3 6 9 2 0 2 1 2 -
+p138
+aVAcie Earl BOS 04/01/1994 BOS vs. WAS L 8 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 0 -
+p139
+aVDino Radja BOS 03/30/1994 BOS vs. IND L 36 23 7 15 46.7 0 0 - 9 13 69.2 3 6 9 1 0 1 3 4 -
+p140
+aVRobert Parish BOS 03/30/1994 BOS vs. IND L 32 10 3 7 42.9 0 0 - 4 7 57.1 3 11 14 2 1 3 1 5 -
+p141
+aVAcie Earl BOS 03/30/1994 BOS vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 1 3 -
+p142
+aVChris Corchiani BOS 03/30/1994 BOS vs. IND L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p143
+aVSherman Douglas BOS 03/30/1994 BOS vs. IND L 42 5 2 9 22.2 0 0 - 1 2 50.0 0 1 1 7 0 0 1 2 -
+p144
+aVJimmy Oliver BOS 03/30/1994 BOS vs. IND L 24 16 5 9 55.6 2 4 50.0 4 4 100.0 0 0 0 5 0 0 0 3 -
+p145
+aVKevin Gamble BOS 03/30/1994 BOS vs. IND L 23 15 6 13 46.2 0 0 - 3 6 50.0 1 1 2 1 1 0 0 0 -
+p146
+aVRick Fox BOS 03/30/1994 BOS vs. IND L 37 28 9 15 60.0 3 3 100.0 7 10 70.0 4 7 11 0 1 2 3 6 -
+p147
+aVEd Pinckney BOS 03/30/1994 BOS vs. IND L 24 2 1 2 50.0 0 0 - 0 2 0.0 2 4 6 0 1 1 0 2 -
+p148
+aVXavier McDaniel BOS 03/30/1994 BOS vs. IND L 11 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -
+p149
+aVEd Pinckney BOS 03/29/1994 BOS @ MIL W 19 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 1 0 1 -
+p150
+aVJimmy Oliver BOS 03/29/1994 BOS @ MIL W 14 6 3 8 37.5 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 -
+p151
+aVSherman Douglas BOS 03/29/1994 BOS @ MIL W 41 17 7 18 38.9 0 0 - 3 4 75.0 1 3 4 8 2 0 3 3 -
+p152
+aVXavier McDaniel BOS 03/29/1994 BOS @ MIL W 32 15 5 10 50.0 0 1 0.0 5 6 83.3 1 5 6 4 0 0 1 2 -
+p153
+aVKevin Gamble BOS 03/29/1994 BOS @ MIL W 40 23 11 16 68.8 0 0 - 1 1 100.0 1 6 7 2 1 0 3 4 -
+p154
+aVChris Corchiani BOS 03/29/1994 BOS @ MIL W 12 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 4 0 0 2 2 -
+p155
+aVAcie Earl BOS 03/29/1994 BOS @ MIL W 19 7 2 4 50.0 0 0 - 3 3 100.0 1 1 2 1 2 0 0 2 -
+p156
+aVDino Radja BOS 03/29/1994 BOS @ MIL W 24 4 2 9 22.2 0 0 - 0 0 - 1 6 7 0 1 0 1 3 -
+p157
+aVRobert Parish BOS 03/29/1994 BOS @ MIL W 20 8 3 6 50.0 0 0 - 2 2 100.0 3 5 8 2 0 0 1 1 -
+p158
+aVRick Fox BOS 03/29/1994 BOS @ MIL W 44 33 8 16 50.0 0 1 0.0 17 18 94.4 5 6 11 5 4 0 4 4 -
+p159
+aVAcie Earl BOS 03/27/1994 BOS vs. PHL W 20 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 1 0 3 -
+p160
+aVJimmy Oliver BOS 03/27/1994 BOS vs. PHL W 29 16 7 14 50.0 2 2 100.0 0 0 - 1 1 2 1 1 0 0 1 -
+p161
+aVRick Fox BOS 03/27/1994 BOS vs. PHL W 23 17 8 14 57.1 0 0 - 1 2 50.0 0 0 0 1 2 0 3 5 -
+p162
+aVKevin Gamble BOS 03/27/1994 BOS vs. PHL W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p163
+aVSherman Douglas BOS 03/27/1994 BOS vs. PHL W 37 15 7 17 41.2 0 0 - 1 1 100.0 1 1 2 11 0 0 1 2 -
+p164
+aVEd Pinckney BOS 03/27/1994 BOS vs. PHL W 15 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 1 0 0 0 3 -
+p165
+aVDee Brown BOS 03/27/1994 BOS vs. PHL W 47 14 5 12 41.7 0 2 0.0 4 6 66.7 0 4 4 8 2 1 0 4 -
+p166
+aVRobert Parish BOS 03/27/1994 BOS vs. PHL W 21 8 4 9 44.4 0 0 - 0 0 - 1 5 6 0 0 1 1 3 -
+p167
+aVXavier McDaniel BOS 03/27/1994 BOS vs. PHL W 28 8 4 9 44.4 0 0 - 0 1 0.0 1 6 7 5 1 0 1 3 -
+p168
+aVDino Radja BOS 03/27/1994 BOS vs. PHL W 37 36 12 15 80.0 0 0 - 12 12 100.0 1 10 11 5 1 1 2 5 -
+p169
+aVKevin Gamble BOS 03/24/1994 BOS @ WAS W 25 15 7 14 50.0 0 1 0.0 1 1 100.0 0 0 0 0 2 0 0 3 -
+p170
+aVXavier McDaniel BOS 03/24/1994 BOS @ WAS W 16 8 4 7 57.1 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -
+p171
+aVAcie Earl BOS 03/24/1994 BOS @ WAS W 19 8 2 6 33.3 0 0 - 4 4 100.0 1 1 2 0 0 1 1 3 -
+p172
+aVRick Fox BOS 03/24/1994 BOS @ WAS W 31 13 4 8 50.0 0 0 - 5 7 71.4 0 3 3 4 2 1 2 5 -
+p173
+aVEd Pinckney BOS 03/24/1994 BOS @ WAS W 30 0 0 1 0.0 0 0 - 0 0 - 4 6 10 2 2 0 1 0 -
+p174
+aVRobert Parish BOS 03/24/1994 BOS @ WAS W 26 9 3 5 60.0 0 0 - 3 3 100.0 0 2 2 0 1 1 2 1 -
+p175
+aVDee Brown BOS 03/24/1994 BOS @ WAS W 52 38 15 26 57.7 3 3 100.0 5 6 83.3 1 6 7 7 1 0 3 5 -
+p176
+aVDino Radja BOS 03/24/1994 BOS @ WAS W 36 20 8 9 88.9 0 0 - 4 5 80.0 3 3 6 3 1 1 2 4 -
+p177
+aVSherman Douglas BOS 03/24/1994 BOS @ WAS W 30 12 5 11 45.5 0 0 - 2 4 50.0 0 1 1 8 1 0 3 0 -
+p178
+aVRick Fox BOS 03/20/1994 BOS vs. ATL L 19 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -
+p179
+aVRobert Parish BOS 03/20/1994 BOS vs. ATL L 17 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -
+p180
+aVXavier McDaniel BOS 03/20/1994 BOS vs. ATL L 31 18 6 21 28.6 0 0 - 6 12 50.0 3 3 6 2 1 1 0 0 -
+p181
+aVTony Harris BOS 03/20/1994 BOS vs. ATL L 12 1 0 6 0.0 0 0 - 1 1 100.0 1 1 2 1 2 0 0 0 -
+p182
+aVKevin Gamble BOS 03/20/1994 BOS vs. ATL L 22 8 3 10 30.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 1 -
+p183
+aVDino Radja BOS 03/20/1994 BOS vs. ATL L 24 6 2 8 25.0 0 0 - 2 4 50.0 1 4 5 2 0 1 1 2 -
+p184
+aVEd Pinckney BOS 03/20/1994 BOS vs. ATL L 30 12 4 7 57.1 0 0 - 4 5 80.0 6 12 18 1 0 0 2 3 -
+p185
+aVChris Corchiani BOS 03/20/1994 BOS vs. ATL L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -
+p186
+aVAcie Earl BOS 03/20/1994 BOS vs. ATL L 25 12 5 10 50.0 0 0 - 2 4 50.0 6 1 7 1 0 2 4 1 -
+p187
+aVSherman Douglas BOS 03/20/1994 BOS vs. ATL L 30 13 6 12 50.0 1 1 100.0 0 0 - 1 0 1 5 0 0 2 1 -
+p188
+aVDee Brown BOS 03/20/1994 BOS vs. ATL L 28 6 3 9 33.3 0 0 - 0 0 - 0 3 3 6 2 0 1 5 -
+p189
+aVRobert Parish BOS 03/19/1994 BOS @ NYK L 20 12 6 10 60.0 0 0 - 0 0 - 2 5 7 0 0 1 0 5 -
+p190
+aVXavier McDaniel BOS 03/19/1994 BOS @ NYK L 20 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 1 1 0 2 3 -
+p191
+aVEd Pinckney BOS 03/19/1994 BOS @ NYK L 16 5 1 3 33.3 0 0 - 3 4 75.0 1 2 3 1 0 0 1 0 -
+p192
+aVAcie Earl BOS 03/19/1994 BOS @ NYK L 22 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 6 -
+p193
+aVTony Harris BOS 03/19/1994 BOS @ NYK L 3 4 1 1 100.0 1 1 100.0 1 1 100.0 0 0 0 0 0 0 0 0 -
+p194
+aVDee Brown BOS 03/19/1994 BOS @ NYK L 32 9 3 14 21.4 0 1 0.0 3 4 75.0 1 0 1 2 1 1 2 3 -
+p195
+aVDino Radja BOS 03/19/1994 BOS @ NYK L 37 12 5 13 38.5 0 0 - 2 2 100.0 1 7 8 1 1 0 0 4 -
+p196
+aVJimmy Oliver BOS 03/19/1994 BOS @ NYK L 18 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 2 -
+p197
+aVSherman Douglas BOS 03/19/1994 BOS @ NYK L 41 20 8 12 66.7 0 0 - 4 6 66.7 0 4 4 10 2 0 4 2 -
+p198
+aVRick Fox BOS 03/19/1994 BOS @ NYK L 29 12 5 7 71.4 0 0 - 2 3 66.7 0 2 2 2 2 0 4 5 -
+p199
+aVChris Corchiani BOS 03/19/1994 BOS @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p200
+aVRobert Parish BOS 03/16/1994 BOS vs. CHI L 21 0 0 4 0.0 0 0 - 0 0 - 1 5 6 0 1 3 0 3 -
+p201
+aVDino Radja BOS 03/16/1994 BOS vs. CHI L 33 17 8 14 57.1 0 0 - 1 2 50.0 4 1 5 1 1 0 4 3 -
+p202
+aVEd Pinckney BOS 03/16/1994 BOS vs. CHI L 14 3 1 2 50.0 0 0 - 1 2 50.0 3 1 4 0 1 1 2 2 -
+p203
+aVRick Fox BOS 03/16/1994 BOS vs. CHI L 18 10 3 5 60.0 0 1 0.0 4 8 50.0 1 2 3 1 1 2 0 2 -
+p204
+aVAcie Earl BOS 03/16/1994 BOS vs. CHI L 26 10 3 7 42.9 0 0 - 4 9 44.4 4 4 8 0 1 1 0 1 -
+p205
+aVTony Harris BOS 03/16/1994 BOS vs. CHI L 13 3 0 3 0.0 0 1 0.0 3 4 75.0 0 1 1 0 0 0 1 2 -
+p206
+aVKevin Gamble BOS 03/16/1994 BOS vs. CHI L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p207
+aVXavier McDaniel BOS 03/16/1994 BOS vs. CHI L 28 18 6 13 46.2 0 1 0.0 6 7 85.7 3 2 5 0 1 1 1 2 -
+p208
+aVSherman Douglas BOS 03/16/1994 BOS vs. CHI L 40 10 5 15 33.3 0 2 0.0 0 0 - 0 3 3 9 0 0 3 3 -
+p209
+aVDee Brown BOS 03/16/1994 BOS vs. CHI L 41 27 11 20 55.0 0 0 - 5 5 100.0 2 6 8 3 5 2 1 3 -
+p210
+aVTony Harris BOS 03/14/1994 BOS @ CHH L 29 14 4 10 40.0 1 1 100.0 5 6 83.3 0 2 2 3 0 0 3 4 -
+p211
+aVAcie Earl BOS 03/14/1994 BOS @ CHH L 31 8 4 10 40.0 0 0 - 0 0 - 2 5 7 0 1 1 2 3 -
+p212
+aVRobert Parish BOS 03/14/1994 BOS @ CHH L 14 8 3 6 50.0 0 0 - 2 2 100.0 3 2 5 0 0 0 1 3 -
+p213
+aVRick Fox BOS 03/14/1994 BOS @ CHH L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -
+p214
+aVXavier McDaniel BOS 03/14/1994 BOS @ CHH L 15 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 0 0 2 1 -
+p215
+aVSherman Douglas BOS 03/14/1994 BOS @ CHH L 27 4 1 7 14.3 0 0 - 2 4 50.0 1 1 2 5 1 0 1 4 -
+p216
+aVDee Brown BOS 03/14/1994 BOS @ CHH L 50 18 6 13 46.2 2 3 66.7 4 6 66.7 2 6 8 6 3 0 2 2 -
+p217
+aVEd Pinckney BOS 03/14/1994 BOS @ CHH L 26 9 4 8 50.0 0 0 - 1 2 50.0 4 9 13 1 0 3 2 1 -
+p218
+aVDino Radja BOS 03/14/1994 BOS @ CHH L 27 20 10 15 66.7 0 0 - 0 0 - 0 3 3 3 0 0 3 2 -
+p219
+aVKevin Gamble BOS 03/14/1994 BOS @ CHH L 33 16 6 12 50.0 1 4 25.0 3 4 75.0 2 2 4 3 1 2 3 1 -
+p220
+aVAcie Earl BOS 03/13/1994 BOS vs. MIA L 31 12 3 11 27.3 0 0 - 6 7 85.7 2 6 8 0 1 3 3 3 -
+p221
+aVKevin Gamble BOS 03/13/1994 BOS vs. MIA L 31 12 5 14 35.7 0 2 0.0 2 2 100.0 2 0 2 2 0 0 2 3 -
+p222
+aVDee Brown BOS 03/13/1994 BOS vs. MIA L 34 7 3 12 25.0 0 1 0.0 1 2 50.0 1 4 5 4 5 0 2 3 -
+p223
+aVRick Fox BOS 03/13/1994 BOS vs. MIA L 17 0 0 9 0.0 0 0 - 0 0 - 0 2 2 1 1 4 2 2 -
+p224
+aVXavier McDaniel BOS 03/13/1994 BOS vs. MIA L 18 9 4 5 80.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 5 -
+p225
+aVChris Corchiani BOS 03/13/1994 BOS vs. MIA L 5 4 2 3 66.7 0 1 0.0 0 0 - 2 2 4 1 0 0 1 0 -
+p226
+aVTony Harris BOS 03/13/1994 BOS vs. MIA L 31 22 4 11 36.4 1 6 16.7 13 13 100.0 2 3 5 4 2 0 2 2 -
+p227
+aVSherman Douglas BOS 03/13/1994 BOS vs. MIA L 26 4 2 6 33.3 0 0 - 0 0 - 0 1 1 5 0 0 0 2 -
+p228
+aVRobert Parish BOS 03/13/1994 BOS vs. MIA L 13 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -
+p229
+aVDino Radja BOS 03/13/1994 BOS vs. MIA L 34 11 5 9 55.6 0 0 - 1 2 50.0 3 2 5 1 2 2 2 3 -
+p230
+aVDee Brown BOS 03/11/1994 BOS vs. NYK L 37 16 6 12 50.0 1 2 50.0 3 3 100.0 1 2 3 5 4 1 3 3 -
+p231
+aVAcie Earl BOS 03/11/1994 BOS vs. NYK L 16 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 1 1 3 -
+p232
+aVRobert Parish BOS 03/11/1994 BOS vs. NYK L 25 6 2 8 25.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 3 -
+p233
+aVDino Radja BOS 03/11/1994 BOS vs. NYK L 36 26 10 20 50.0 0 0 - 6 7 85.7 6 9 15 1 1 1 4 5 -
+p234
+aVXavier McDaniel BOS 03/11/1994 BOS vs. NYK L 25 4 2 9 22.2 0 1 0.0 0 0 - 1 2 3 0 0 1 2 5 -
+p235
+aVKevin Gamble BOS 03/11/1994 BOS vs. NYK L 23 16 5 10 50.0 0 0 - 6 6 100.0 1 3 4 2 0 0 0 1 -
+p236
+aVSherman Douglas BOS 03/11/1994 BOS vs. NYK L 36 11 3 6 50.0 0 0 - 5 10 50.0 0 1 1 6 2 0 2 0 -
+p237
+aVRick Fox BOS 03/11/1994 BOS vs. NYK L 23 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 1 0 1 3 -
+p238
+aVEd Pinckney BOS 03/11/1994 BOS vs. NYK L 19 0 0 1 0.0 0 0 - 0 0 - 2 5 7 1 0 0 1 2 -
+p239
+aVXavier McDaniel BOS 03/07/1994 BOS @ MIA W 23 14 5 6 83.3 0 0 - 4 6 66.7 0 1 1 1 0 2 1 3 -
+p240
+aVDino Radja BOS 03/07/1994 BOS @ MIA W 38 14 5 6 83.3 0 0 - 4 4 100.0 1 5 6 3 1 0 3 5 -
+p241
+aVRick Fox BOS 03/07/1994 BOS @ MIA W 30 16 5 11 45.5 0 1 0.0 6 6 100.0 1 4 5 2 1 1 0 3 -
+p242
+aVJimmy Oliver BOS 03/07/1994 BOS @ MIA W 12 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 1 -
+p243
+aVKevin Gamble BOS 03/07/1994 BOS @ MIA W 21 11 5 9 55.6 1 1 100.0 0 0 - 0 0 0 1 1 1 2 5 -
+p244
+aVEd Pinckney BOS 03/07/1994 BOS @ MIA W 20 4 2 2 100.0 0 0 - 0 0 - 0 6 6 1 2 0 0 4 -
+p245
+aVDee Brown BOS 03/07/1994 BOS @ MIA W 36 21 9 15 60.0 0 1 0.0 3 5 60.0 3 1 4 4 3 0 3 2 -
+p246
+aVAcie Earl BOS 03/07/1994 BOS @ MIA W 17 9 4 6 66.7 0 0 - 1 2 50.0 0 4 4 0 0 2 0 4 -
+p247
+aVSherman Douglas BOS 03/07/1994 BOS @ MIA W 43 20 9 17 52.9 0 0 - 2 4 50.0 2 0 2 11 1 0 4 0 -
+p248
+aVDino Radja BOS 03/04/1994 BOS vs. LAL W 44 36 15 22 68.2 0 0 - 6 8 75.0 4 11 15 2 2 1 2 2 -
+p249
+aVRick Fox BOS 03/04/1994 BOS vs. LAL W 32 8 4 11 36.4 0 2 0.0 0 2 0.0 1 6 7 1 0 0 1 2 -
+p250
+aVDee Brown BOS 03/04/1994 BOS vs. LAL W 45 22 9 13 69.2 2 2 100.0 2 2 100.0 0 6 6 6 2 2 3 4 -
+p251
+aVAcie Earl BOS 03/04/1994 BOS vs. LAL W 24 10 4 10 40.0 0 0 - 2 2 100.0 4 5 9 0 1 1 1 2 -
+p252
+aVEd Pinckney BOS 03/04/1994 BOS vs. LAL W 24 11 2 5 40.0 0 0 - 7 8 87.5 3 5 8 2 1 1 1 4 -
+p253
+aVSherman Douglas BOS 03/04/1994 BOS vs. LAL W 40 9 4 11 36.4 0 1 0.0 1 2 50.0 2 1 3 8 0 2 1 0 -
+p254
+aVJimmy Oliver BOS 03/04/1994 BOS vs. LAL W 11 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -
+p255
+aVXavier McDaniel BOS 03/04/1994 BOS vs. LAL W 20 9 4 10 40.0 0 0 - 1 4 25.0 2 2 4 3 0 0 0 2 -
+p256
+aVRobert Parish BOS 03/02/1994 BOS vs. CLE L 16 8 3 7 42.9 0 0 - 2 2 100.0 1 4 5 1 1 0 1 2 -
+p257
+aVXavier McDaniel BOS 03/02/1994 BOS vs. CLE L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 0 0 0 1 -
+p258
+aVJimmy Oliver BOS 03/02/1994 BOS vs. CLE L 25 17 8 16 50.0 0 2 0.0 1 2 50.0 2 2 4 3 2 0 0 1 -
+p259
+aVKevin Gamble BOS 03/02/1994 BOS vs. CLE L 13 5 2 7 28.6 0 2 0.0 1 1 100.0 1 1 2 0 0 0 1 0 -
+p260
+aVRick Fox BOS 03/02/1994 BOS vs. CLE L 20 2 1 3 33.3 0 0 - 0 0 - 0 6 6 0 0 1 3 0 -
+p261
+aVSherman Douglas BOS 03/02/1994 BOS vs. CLE L 43 25 11 21 52.4 0 1 0.0 3 3 100.0 0 2 2 7 0 0 1 4 -
+p262
+aVAlaa Abdelnaby BOS 03/02/1994 BOS vs. CLE L 16 8 3 5 60.0 0 0 - 2 4 50.0 0 2 2 0 0 0 2 3 -
+p263
+aVAcie Earl BOS 03/02/1994 BOS vs. CLE L 31 11 4 7 57.1 0 0 - 3 4 75.0 1 2 3 0 0 0 2 4 -
+p264
+aVDino Radja BOS 03/02/1994 BOS vs. CLE L 19 6 3 5 60.0 0 0 - 0 0 - 0 4 4 1 0 3 2 4 -
+p265
+aVDee Brown BOS 03/02/1994 BOS vs. CLE L 33 11 5 10 50.0 0 0 - 1 1 100.0 0 3 3 7 0 0 0 3 -
+p266
+aVEd Pinckney BOS 03/02/1994 BOS vs. CLE L 13 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 1 0 1 1 -
+p267
+aVEd Pinckney BOS 02/27/1994 BOS @ LAL L 13 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 1 0 1 0 0 -
+p268
+aVAcie Earl BOS 02/27/1994 BOS @ LAL L 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 4 4 -
+p269
+aVJimmy Oliver BOS 02/27/1994 BOS @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p270
+aVDee Brown BOS 02/27/1994 BOS @ LAL L 42 11 5 11 45.5 1 2 50.0 0 0 - 0 5 5 5 2 0 2 3 -
+p271
+aVXavier McDaniel BOS 02/27/1994 BOS @ LAL L 25 14 6 8 75.0 0 0 - 2 2 100.0 1 5 6 3 0 0 3 3 -
+p272
+aVRobert Parish BOS 02/27/1994 BOS @ LAL L 32 13 5 11 45.5 0 0 - 3 4 75.0 3 7 10 0 0 1 3 4 -
+p273
+aVRick Fox BOS 02/27/1994 BOS @ LAL L 34 19 8 11 72.7 2 3 66.7 1 2 50.0 2 4 6 4 2 1 4 3 -
+p274
+aVDino Radja BOS 02/27/1994 BOS @ LAL L 21 8 4 9 44.4 0 0 - 0 1 0.0 0 7 7 0 1 0 3 3 -
+p275
+aVSherman Douglas BOS 02/27/1994 BOS @ LAL L 29 18 7 9 77.8 0 0 - 4 4 100.0 1 2 3 8 2 0 4 1 -
+p276
+aVKevin Gamble BOS 02/27/1994 BOS @ LAL L 28 8 3 8 37.5 0 2 0.0 2 2 100.0 0 0 0 4 0 0 1 1 -
+p277
+aVDee Brown BOS 02/25/1994 BOS @ SEA L 34 12 4 11 36.4 2 4 50.0 2 2 100.0 2 4 6 1 1 0 1 2 -
+p278
+aVRick Fox BOS 02/25/1994 BOS @ SEA L 31 17 7 19 36.8 2 5 40.0 1 2 50.0 4 5 9 4 2 1 3 3 -
+p279
+aVJimmy Oliver BOS 02/25/1994 BOS @ SEA L 12 3 1 4 25.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 2 -
+p280
+aVXavier McDaniel BOS 02/25/1994 BOS @ SEA L 26 21 7 12 58.3 0 0 - 7 10 70.0 5 4 9 3 1 1 0 1 -
+p281
+aVAlaa Abdelnaby BOS 02/25/1994 BOS @ SEA L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 4 -
+p282
+aVRobert Parish BOS 02/25/1994 BOS @ SEA L 12 6 3 4 75.0 0 0 - 0 1 0.0 1 1 2 1 0 0 0 0 -
+p283
+aVEd Pinckney BOS 02/25/1994 BOS @ SEA L 18 2 1 3 33.3 0 0 - 0 0 - 2 6 8 1 0 0 0 3 -
+p284
+aVSherman Douglas BOS 02/25/1994 BOS @ SEA L 30 8 2 9 22.2 0 1 0.0 4 4 100.0 1 0 1 8 1 0 2 2 -
+p285
+aVAcie Earl BOS 02/25/1994 BOS @ SEA L 36 13 4 15 26.7 0 0 - 5 10 50.0 3 3 6 0 0 1 0 2 -
+p286
+aVDino Radja BOS 02/25/1994 BOS @ SEA L 23 14 6 10 60.0 0 0 - 2 3 66.7 2 1 3 2 0 1 4 5 -
+p287
+aVKevin Gamble BOS 02/25/1994 BOS @ SEA L 14 6 3 7 42.9 0 2 0.0 0 0 - 3 0 3 0 0 0 0 2 -
+p288
+aVXavier McDaniel BOS 02/23/1994 BOS @ DEN L 27 4 2 10 20.0 0 1 0.0 0 0 - 1 4 5 1 0 0 0 1 -
+p289
+aVAcie Earl BOS 02/23/1994 BOS @ DEN L 28 15 4 8 50.0 0 0 - 7 9 77.8 3 3 6 0 1 2 2 5 -
+p290
+aVRobert Parish BOS 02/23/1994 BOS @ DEN L 18 5 2 8 25.0 0 0 - 1 2 50.0 2 5 7 1 0 1 1 3 -
+p291
+aVRick Fox BOS 02/23/1994 BOS @ DEN L 32 20 7 12 58.3 0 0 - 6 8 75.0 0 6 6 2 0 1 4 3 -
+p292
+aVSherman Douglas BOS 02/23/1994 BOS @ DEN L 30 17 8 14 57.1 0 1 0.0 1 4 25.0 2 1 3 4 0 0 1 1 -
+p293
+aVDino Radja BOS 02/23/1994 BOS @ DEN L 30 16 7 12 58.3 0 0 - 2 2 100.0 5 3 8 1 0 0 0 3 -
+p294
+aVDee Brown BOS 02/23/1994 BOS @ DEN L 41 12 4 11 36.4 0 0 - 4 4 100.0 0 4 4 1 1 1 1 3 -
+p295
+aVKevin Gamble BOS 02/23/1994 BOS @ DEN L 16 3 1 6 16.7 0 0 - 1 2 50.0 1 2 3 2 0 0 0 0 -
+p296
+aVAlaa Abdelnaby BOS 02/23/1994 BOS @ DEN L 18 2 1 6 16.7 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -
+p297
+aVAlaa Abdelnaby BOS 02/22/1994 BOS @ SAC L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 1 -
+p298
+aVAcie Earl BOS 02/22/1994 BOS @ SAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p299
+aVRick Fox BOS 02/22/1994 BOS @ SAC L 40 17 6 9 66.7 0 0 - 5 5 100.0 4 11 15 4 0 0 2 4 -
+p300
+aVDee Brown BOS 02/22/1994 BOS @ SAC L 36 7 3 7 42.9 0 0 - 1 2 50.0 0 1 1 8 0 1 1 6 -
+p301
+aVRobert Parish BOS 02/22/1994 BOS @ SAC L 32 7 3 12 25.0 0 0 - 1 4 25.0 1 4 5 0 1 3 2 4 -
+p302
+aVDino Radja BOS 02/22/1994 BOS @ SAC L 31 8 4 10 40.0 0 1 0.0 0 0 - 2 3 5 2 3 1 1 3 -
+p303
+aVXavier McDaniel BOS 02/22/1994 BOS @ SAC L 28 22 10 19 52.6 0 0 - 2 4 50.0 4 6 10 2 0 0 2 2 -
+p304
+aVSherman Douglas BOS 02/22/1994 BOS @ SAC L 34 21 9 16 56.3 0 1 0.0 3 7 42.9 1 2 3 3 1 1 2 2 -
+p305
+aVEd Pinckney BOS 02/22/1994 BOS @ SAC L 5 2 1 4 25.0 0 0 - 0 0 - 3 2 5 0 0 1 0 0 -
+p306
+aVKevin Gamble BOS 02/22/1994 BOS @ SAC L 23 8 3 9 33.3 0 2 0.0 2 2 100.0 1 1 2 1 1 1 3 3 -
+p307
+aVKevin Gamble BOS 02/20/1994 BOS @ POR L 22 12 5 8 62.5 0 0 - 2 4 50.0 0 1 1 3 0 0 2 1 -
+p308
+aVXavier McDaniel BOS 02/20/1994 BOS @ POR L 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -
+p309
+aVSherman Douglas BOS 02/20/1994 BOS @ POR L 29 6 3 6 50.0 0 0 - 0 0 - 2 2 4 5 0 0 4 2 -
+p310
+aVEd Pinckney BOS 02/20/1994 BOS @ POR L 21 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 0 1 0 3 2 -
+p311
+aVAlaa Abdelnaby BOS 02/20/1994 BOS @ POR L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -
+p312
+aVChris Corchiani BOS 02/20/1994 BOS @ POR L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 2 0 0 0 0 -
+p313
+aVAcie Earl BOS 02/20/1994 BOS @ POR L 19 7 3 7 42.9 0 0 - 1 3 33.3 2 5 7 1 0 1 3 6 -
+p314
+aVJimmy Oliver BOS 02/20/1994 BOS @ POR L 22 11 5 9 55.6 1 2 50.0 0 0 - 0 0 0 3 1 0 1 0 -
+p315
+aVRick Fox BOS 02/20/1994 BOS @ POR L 14 0 0 3 0.0 0 3 0.0 0 0 - 1 3 4 0 0 1 0 1 -
+p316
+aVRobert Parish BOS 02/20/1994 BOS @ POR L 13 5 2 8 25.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 3 -
+p317
+aVDee Brown BOS 02/20/1994 BOS @ POR L 42 20 9 16 56.3 1 3 33.3 1 1 100.0 1 4 5 4 1 0 2 3 -
+p318
+aVDino Radja BOS 02/20/1994 BOS @ POR L 39 24 11 21 52.4 0 0 - 2 2 100.0 4 10 14 4 0 1 1 3 -
+p319
+aVAcie Earl BOS 02/19/1994 BOS @ GOS L 17 9 4 8 50.0 0 0 - 1 2 50.0 2 0 2 0 0 1 0 1 -
+p320
+aVKevin Gamble BOS 02/19/1994 BOS @ GOS L 20 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p321
+aVEd Pinckney BOS 02/19/1994 BOS @ GOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p322
+aVDee Brown BOS 02/19/1994 BOS @ GOS L 42 19 8 14 57.1 1 1 100.0 2 3 66.7 2 5 7 5 3 0 3 1 -
+p323
+aVXavier McDaniel BOS 02/19/1994 BOS @ GOS L 18 6 1 6 16.7 0 0 - 4 4 100.0 1 2 3 4 0 0 0 3 -
+p324
+aVAlaa Abdelnaby BOS 02/19/1994 BOS @ GOS L 9 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -
+p325
+aVSherman Douglas BOS 02/19/1994 BOS @ GOS L 33 16 7 13 53.8 0 2 0.0 2 2 100.0 1 5 6 6 1 0 5 1 -
+p326
+aVRick Fox BOS 02/19/1994 BOS @ GOS L 31 7 3 12 25.0 1 4 25.0 0 0 - 1 3 4 1 2 0 4 4 -
+p327
+aVDino Radja BOS 02/19/1994 BOS @ GOS L 37 15 7 15 46.7 0 0 - 1 3 33.3 5 6 11 3 2 1 3 5 -
+p328
+aVRobert Parish BOS 02/19/1994 BOS @ GOS L 31 10 5 10 50.0 0 0 - 0 0 - 0 4 4 0 1 0 2 1 -
+p329
+aVRick Fox BOS 02/17/1994 BOS vs. NJN L 29 11 4 14 28.6 0 1 0.0 3 4 75.0 1 6 7 3 0 0 0 2 -
+p330
+aVXavier McDaniel BOS 02/17/1994 BOS vs. NJN L 12 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 1 -
+p331
+aVRobert Parish BOS 02/17/1994 BOS vs. NJN L 26 10 5 9 55.6 0 0 - 0 1 0.0 3 6 9 1 0 2 1 2 -
+p332
+aVChris Corchiani BOS 02/17/1994 BOS vs. NJN L 17 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 5 0 0 1 2 -
+p333
+aVSherman Douglas BOS 02/17/1994 BOS vs. NJN L 31 14 6 13 46.2 0 1 0.0 2 3 66.7 0 1 1 7 1 0 3 3 -
+p334
+aVKevin Gamble BOS 02/17/1994 BOS vs. NJN L 19 6 3 9 33.3 0 2 0.0 0 0 - 1 2 3 1 0 0 0 0 -
+p335
+aVEd Pinckney BOS 02/17/1994 BOS vs. NJN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p336
+aVAlaa Abdelnaby BOS 02/17/1994 BOS vs. NJN L 29 9 3 8 37.5 0 0 - 3 4 75.0 0 7 7 0 0 0 2 2 -
+p337
+aVJimmy Oliver BOS 02/17/1994 BOS vs. NJN L 38 16 6 11 54.5 2 2 100.0 2 2 100.0 0 2 2 1 1 0 0 1 -
+p338
+aVAcie Earl BOS 02/17/1994 BOS vs. NJN L 22 12 4 8 50.0 0 0 - 4 4 100.0 1 3 4 1 0 1 1 3 -
+p339
+aVDino Radja BOS 02/17/1994 BOS vs. NJN L 16 10 4 12 33.3 0 0 - 2 2 100.0 4 0 4 0 0 0 1 4 -
+p340
+aVRobert Parish BOS 02/15/1994 BOS @ ORL L 25 12 6 12 50.0 0 0 - 0 0 - 0 4 4 0 1 4 2 6 -
+p341
+aVRick Fox BOS 02/15/1994 BOS @ ORL L 30 9 4 10 40.0 0 1 0.0 1 2 50.0 0 2 2 2 1 2 3 2 -
+p342
+aVSherman Douglas BOS 02/15/1994 BOS @ ORL L 41 12 3 10 30.0 0 0 - 6 10 60.0 0 2 2 10 1 0 4 2 -
+p343
+aVAcie Earl BOS 02/15/1994 BOS @ ORL L 10 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 1 0 0 0 3 -
+p344
+aVDino Radja BOS 02/15/1994 BOS @ ORL L 24 14 7 13 53.8 0 0 - 0 0 - 1 2 3 1 1 2 1 5 -
+p345
+aVXavier McDaniel BOS 02/15/1994 BOS @ ORL L 22 11 5 8 62.5 0 0 - 1 2 50.0 0 6 6 3 1 1 3 2 -
+p346
+aVKevin Gamble BOS 02/15/1994 BOS @ ORL L 27 14 5 9 55.6 2 2 100.0 2 2 100.0 1 3 4 5 1 0 3 2 -
+p347
+aVEd Pinckney BOS 02/15/1994 BOS @ ORL L 24 2 1 1 100.0 0 0 - 0 0 - 1 6 7 0 2 3 1 2 -
+p348
+aVDee Brown BOS 02/15/1994 BOS @ ORL L 36 14 5 9 55.6 0 0 - 4 6 66.7 0 2 2 3 1 0 0 5 -
+p349
+aVJimmy Oliver BOS 02/15/1994 BOS @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p350
+aVKevin Gamble BOS 02/09/1994 BOS vs. DET L 29 6 3 13 23.1 0 2 0.0 0 0 - 0 3 3 1 0 2 0 3 -
+p351
+aVDino Radja BOS 02/09/1994 BOS vs. DET L 23 15 7 15 46.7 0 0 - 1 3 33.3 4 4 8 2 1 2 2 4 -
+p352
+aVSherman Douglas BOS 02/09/1994 BOS vs. DET L 34 14 4 8 50.0 0 1 0.0 6 6 100.0 2 2 4 6 2 0 3 4 -
+p353
+aVRobert Parish BOS 02/09/1994 BOS vs. DET L 37 17 7 10 70.0 0 0 - 3 4 75.0 3 9 12 1 1 0 3 1 -
+p354
+aVDee Brown BOS 02/09/1994 BOS vs. DET L 44 8 4 12 33.3 0 3 0.0 0 0 - 1 1 2 9 1 1 2 1 -
+p355
+aVEd Pinckney BOS 02/09/1994 BOS vs. DET L 5 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -
+p356
+aVRick Fox BOS 02/09/1994 BOS vs. DET L 34 12 3 10 30.0 2 3 66.7 4 4 100.0 0 5 5 8 0 0 3 4 -
+p357
+aVXavier McDaniel BOS 02/09/1994 BOS vs. DET L 27 16 7 17 41.2 0 0 - 2 2 100.0 3 7 10 1 1 0 2 2 -
+p358
+aVJimmy Oliver BOS 02/09/1994 BOS vs. DET L 7 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 -
+p359
+aVDino Radja BOS 02/04/1994 BOS vs. SAN L 32 14 5 8 62.5 0 0 - 4 6 66.7 1 2 3 0 0 4 0 4 -
+p360
+aVAcie Earl BOS 02/04/1994 BOS vs. SAN L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p361
+aVDee Brown BOS 02/04/1994 BOS vs. SAN L 42 24 10 17 58.8 2 3 66.7 2 3 66.7 1 3 4 6 1 0 1 3 -
+p362
+aVJimmy Oliver BOS 02/04/1994 BOS vs. SAN L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p363
+aVXavier McDaniel BOS 02/04/1994 BOS vs. SAN L 31 15 4 9 44.4 0 0 - 7 9 77.8 0 2 2 1 3 1 2 2 -
+p364
+aVKevin Gamble BOS 02/04/1994 BOS vs. SAN L 30 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 3 2 0 1 1 -
+p365
+aVSherman Douglas BOS 02/04/1994 BOS vs. SAN L 24 8 4 10 40.0 0 0 - 0 0 - 0 1 1 2 0 0 4 3 -
+p366
+aVRobert Parish BOS 02/04/1994 BOS vs. SAN L 34 13 4 12 33.3 0 0 - 5 7 71.4 3 6 9 2 1 1 3 0 -
+p367
+aVEd Pinckney BOS 02/04/1994 BOS vs. SAN L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -
+p368
+aVRick Fox BOS 02/04/1994 BOS vs. SAN L 32 10 3 4 75.0 0 1 0.0 4 4 100.0 1 3 4 6 2 0 2 6 -
+p369
+aVKevin Gamble BOS 02/02/1994 BOS vs. SEA L 23 4 2 7 28.6 0 0 - 0 0 - 0 2 2 1 1 0 2 1 -
+p370
+aVEd Pinckney BOS 02/02/1994 BOS vs. SEA L 15 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p371
+aVAcie Earl BOS 02/02/1994 BOS vs. SEA L 4 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -
+p372
+aVRobert Parish BOS 02/02/1994 BOS vs. SEA L 25 9 4 7 57.1 0 0 - 1 3 33.3 1 5 6 0 0 0 2 0 -
+p373
+aVDino Radja BOS 02/02/1994 BOS vs. SEA L 34 7 2 9 22.2 0 0 - 3 4 75.0 3 4 7 3 2 1 3 4 -
+p374
+aVAlaa Abdelnaby BOS 02/02/1994 BOS vs. SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p375
+aVXavier McDaniel BOS 02/02/1994 BOS vs. SEA L 16 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 0 0 5 3 -
+p376
+aVChris Corchiani BOS 02/02/1994 BOS vs. SEA L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -
+p377
+aVRick Fox BOS 02/02/1994 BOS vs. SEA L 43 17 7 10 70.0 0 2 0.0 3 4 75.0 1 8 9 5 2 0 6 5 -
+p378
+aVSherman Douglas BOS 02/02/1994 BOS vs. SEA L 29 7 3 8 37.5 0 0 - 1 3 33.3 0 1 1 6 0 0 2 2 -
+p379
+aVDee Brown BOS 02/02/1994 BOS vs. SEA L 44 26 11 18 61.1 0 0 - 4 4 100.0 1 3 4 3 6 0 4 4 -
+p380
+aVJimmy Oliver BOS 02/02/1994 BOS vs. SEA L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p381
+aVSherman Douglas BOS 02/01/1994 BOS @ NYK L 25 9 4 10 40.0 0 0 - 1 2 50.0 0 1 1 2 1 0 4 1 -
+p382
+aVAcie Earl BOS 02/01/1994 BOS @ NYK L 9 6 1 3 33.3 0 0 - 4 6 66.7 0 2 2 0 0 0 0 2 -
+p383
+aVRobert Parish BOS 02/01/1994 BOS @ NYK L 24 5 1 5 20.0 0 0 - 3 4 75.0 0 4 4 1 0 0 1 4 -
+p384
+aVAlaa Abdelnaby BOS 02/01/1994 BOS @ NYK L 18 8 3 6 50.0 0 0 - 2 2 100.0 2 5 7 0 2 0 1 2 -
+p385
+aVDee Brown BOS 02/01/1994 BOS @ NYK L 37 9 4 12 33.3 0 2 0.0 1 2 50.0 0 2 2 3 0 0 0 4 -
+p386
+aVRick Fox BOS 02/01/1994 BOS @ NYK L 20 2 1 5 20.0 0 1 0.0 0 0 - 1 4 5 3 0 0 2 4 -
+p387
+aVJimmy Oliver BOS 02/01/1994 BOS @ NYK L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p388
+aVEd Pinckney BOS 02/01/1994 BOS @ NYK L 15 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 -
+p389
+aVDino Radja BOS 02/01/1994 BOS @ NYK L 28 14 6 14 42.9 0 0 - 2 6 33.3 4 0 4 1 0 0 2 5 -
+p390
+aVChris Corchiani BOS 02/01/1994 BOS @ NYK L 8 5 0 0 - 0 0 - 5 6 83.3 0 1 1 0 0 0 1 3 -
+p391
+aVKevin Gamble BOS 02/01/1994 BOS @ NYK L 28 13 4 10 40.0 0 2 0.0 5 5 100.0 1 2 3 2 0 0 1 4 -
+p392
+aVXavier McDaniel BOS 02/01/1994 BOS @ NYK L 23 4 0 6 0.0 0 0 - 4 6 66.7 1 2 3 2 0 0 1 0 -
+p393
+aVAlaa Abdelnaby BOS 01/30/1994 BOS vs. PHX W 13 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -
+p394
+aVDino Radja BOS 01/30/1994 BOS vs. PHX W 28 21 9 13 69.2 0 0 - 3 3 100.0 1 6 7 0 1 1 3 1 -
+p395
+aVAcie Earl BOS 01/30/1994 BOS vs. PHX W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 2 1 2 -
+p396
+aVRobert Parish BOS 01/30/1994 BOS vs. PHX W 36 14 6 15 40.0 0 0 - 2 2 100.0 5 12 17 2 5 3 2 3 -
+p397
+aVSherman Douglas BOS 01/30/1994 BOS vs. PHX W 41 14 7 15 46.7 0 0 - 0 0 - 2 0 2 9 1 0 3 1 -
+p398
+aVRick Fox BOS 01/30/1994 BOS vs. PHX W 29 14 6 9 66.7 0 0 - 2 2 100.0 1 1 2 7 4 1 2 3 -
+p399
+aVKevin Gamble BOS 01/30/1994 BOS vs. PHX W 21 12 5 8 62.5 0 0 - 2 2 100.0 0 0 0 2 1 0 1 3 -
+p400
+aVXavier McDaniel BOS 01/30/1994 BOS vs. PHX W 24 11 4 10 40.0 0 1 0.0 3 4 75.0 2 4 6 3 0 0 2 2 -
+p401
+aVEd Pinckney BOS 01/30/1994 BOS vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p402
+aVDee Brown BOS 01/30/1994 BOS vs. PHX W 41 15 7 15 46.7 0 1 0.0 1 1 100.0 1 2 3 6 4 2 1 3 -
+p403
+aVSherman Douglas BOS 01/26/1994 BOS vs. MIA W 37 9 4 10 40.0 0 0 - 1 2 50.0 0 1 1 9 3 0 3 4 -
+p404
+aVRick Fox BOS 01/26/1994 BOS vs. MIA W 31 12 5 8 62.5 0 0 - 2 2 100.0 1 2 3 1 1 2 2 4 -
+p405
+aVKevin Gamble BOS 01/26/1994 BOS vs. MIA W 21 8 3 6 50.0 0 2 0.0 2 2 100.0 0 0 0 2 1 1 0 1 -
+p406
+aVAcie Earl BOS 01/26/1994 BOS vs. MIA W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -
+p407
+aVDino Radja BOS 01/26/1994 BOS vs. MIA W 32 23 8 15 53.3 0 0 - 7 7 100.0 3 2 5 3 3 0 0 3 -
+p408
+aVAlaa Abdelnaby BOS 01/26/1994 BOS vs. MIA W 16 11 3 7 42.9 0 0 - 5 8 62.5 5 3 8 0 0 1 2 2 -
+p409
+aVXavier McDaniel BOS 01/26/1994 BOS vs. MIA W 24 13 5 8 62.5 1 2 50.0 2 2 100.0 1 2 3 1 0 0 0 1 -
+p410
+aVRobert Parish BOS 01/26/1994 BOS vs. MIA W 36 11 3 8 37.5 0 0 - 5 6 83.3 1 13 14 1 1 2 1 2 -
+p411
+aVDee Brown BOS 01/26/1994 BOS vs. MIA W 38 14 6 15 40.0 0 2 0.0 2 3 66.7 0 2 2 7 3 0 3 2 -
+p412
+aVAlaa Abdelnaby BOS 01/24/1994 BOS vs. DAL W 20 12 5 7 71.4 0 0 - 2 3 66.7 2 7 9 2 0 2 0 1 -
+p413
+aVDino Radja BOS 01/24/1994 BOS vs. DAL W 28 15 6 11 54.5 0 0 - 3 4 75.0 1 3 4 1 1 1 2 4 -
+p414
+aVXavier McDaniel BOS 01/24/1994 BOS vs. DAL W 25 11 4 12 33.3 0 0 - 3 5 60.0 9 2 11 2 1 1 0 2 -
+p415
+aVRick Fox BOS 01/24/1994 BOS vs. DAL W 47 22 10 18 55.6 1 4 25.0 1 5 20.0 1 6 7 7 0 3 3 4 -
+p416
+aVRobert Parish BOS 01/24/1994 BOS vs. DAL W 23 15 5 7 71.4 0 0 - 5 6 83.3 4 6 10 0 1 1 0 3 -
+p417
+aVSherman Douglas BOS 01/24/1994 BOS vs. DAL W 29 7 0 6 0.0 0 1 0.0 7 10 70.0 0 1 1 5 1 0 2 2 -
+p418
+aVDee Brown BOS 01/24/1994 BOS vs. DAL W 37 10 4 10 40.0 0 1 0.0 2 2 100.0 0 1 1 6 3 3 3 3 -
+p419
+aVKevin Gamble BOS 01/24/1994 BOS vs. DAL W 30 18 8 14 57.1 0 2 0.0 2 2 100.0 0 1 1 4 1 0 1 4 -
+p420
+aVChris Corchiani BOS 01/24/1994 BOS vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p421
+aVAlaa Abdelnaby BOS 01/21/1994 BOS vs. GOS W 4 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p422
+aVRobert Parish BOS 01/21/1994 BOS vs. GOS W 34 18 8 10 80.0 0 0 - 2 2 100.0 0 14 14 1 0 1 2 3 -
+p423
+aVSherman Douglas BOS 01/21/1994 BOS vs. GOS W 41 18 4 13 30.8 0 0 - 10 13 76.9 1 2 3 12 1 0 4 3 -
+p424
+aVKevin Gamble BOS 01/21/1994 BOS vs. GOS W 26 12 5 9 55.6 1 2 50.0 1 1 100.0 0 4 4 2 1 1 0 1 -
+p425
+aVDee Brown BOS 01/21/1994 BOS vs. GOS W 43 22 9 15 60.0 0 1 0.0 4 4 100.0 0 6 6 8 3 1 0 3 -
+p426
+aVDino Radja BOS 01/21/1994 BOS vs. GOS W 27 21 7 13 53.8 0 0 - 7 8 87.5 3 6 9 2 2 1 1 6 -
+p427
+aVXavier McDaniel BOS 01/21/1994 BOS vs. GOS W 24 9 4 8 50.0 0 0 - 1 2 50.0 3 1 4 2 1 0 4 2 -
+p428
+aVAcie Earl BOS 01/21/1994 BOS vs. GOS W 11 5 1 3 33.3 0 0 - 3 4 75.0 1 1 2 0 1 0 2 1 -
+p429
+aVRick Fox BOS 01/21/1994 BOS vs. GOS W 30 17 6 8 75.0 0 0 - 5 8 62.5 3 3 6 3 2 0 2 3 -
+p430
+aVJimmy Oliver BOS 01/19/1994 BOS @ DAL W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -
+p431
+aVSherman Douglas BOS 01/19/1994 BOS @ DAL W 43 7 3 9 33.3 0 0 - 1 4 25.0 0 2 2 12 2 0 1 3 -
+p432
+aVDee Brown BOS 01/19/1994 BOS @ DAL W 48 16 5 10 50.0 0 3 0.0 6 7 85.7 3 4 7 3 2 1 3 5 -
+p433
+aVRobert Parish BOS 01/19/1994 BOS @ DAL W 35 17 6 11 54.5 0 0 - 5 12 41.7 0 10 10 0 0 3 1 5 -
+p434
+aVKevin Gamble BOS 01/19/1994 BOS @ DAL W 30 15 6 10 60.0 0 1 0.0 3 4 75.0 0 1 1 1 3 0 1 2 -
+p435
+aVAcie Earl BOS 01/19/1994 BOS @ DAL W 8 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -
+p436
+aVRick Fox BOS 01/19/1994 BOS @ DAL W 18 4 2 8 25.0 0 0 - 0 0 - 0 1 1 1 2 0 2 0 -
+p437
+aVXavier McDaniel BOS 01/19/1994 BOS @ DAL W 27 14 6 11 54.5 0 0 - 2 4 50.0 3 6 9 1 0 0 1 3 -
+p438
+aVDino Radja BOS 01/19/1994 BOS @ DAL W 26 13 6 12 50.0 0 0 - 1 2 50.0 1 6 7 1 0 0 2 4 -
+p439
+aVMatt Wenstrom BOS 01/18/1994 BOS @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p440
+aVDino Radja BOS 01/18/1994 BOS @ HOU W 25 6 3 9 33.3 0 0 - 0 0 - 2 4 6 2 1 0 0 4 -
+p441
+aVRobert Parish BOS 01/18/1994 BOS @ HOU W 38 19 8 12 66.7 0 0 - 3 3 100.0 6 11 17 2 2 2 3 3 -
+p442
+aVEd Pinckney BOS 01/18/1994 BOS @ HOU W 9 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -
+p443
+aVKevin Gamble BOS 01/18/1994 BOS @ HOU W 28 10 4 13 30.8 2 5 40.0 0 0 - 0 4 4 4 1 1 2 0 -
+p444
+aVDee Brown BOS 01/18/1994 BOS @ HOU W 44 23 8 16 50.0 0 0 - 7 7 100.0 1 3 4 7 4 0 4 2 -
+p445
+aVRick Fox BOS 01/18/1994 BOS @ HOU W 22 10 4 10 40.0 0 1 0.0 2 3 66.7 0 5 5 1 1 0 1 2 -
+p446
+aVSherman Douglas BOS 01/18/1994 BOS @ HOU W 37 17 7 12 58.3 0 1 0.0 3 4 75.0 0 1 1 6 2 0 1 1 -
+p447
+aVJimmy Oliver BOS 01/18/1994 BOS @ HOU W 13 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -
+p448
+aVXavier McDaniel BOS 01/18/1994 BOS @ HOU W 23 8 3 11 27.3 0 0 - 2 2 100.0 1 5 6 2 1 2 2 1 -
+p449
+aVDee Brown BOS 01/16/1994 BOS vs. DEN W 47 21 9 15 60.0 0 0 - 3 6 50.0 0 5 5 11 0 1 1 2 -
+p450
+aVDino Radja BOS 01/16/1994 BOS vs. DEN W 40 29 11 14 78.6 0 0 - 7 9 77.8 3 8 11 2 3 1 1 5 -
+p451
+aVKevin Gamble BOS 01/16/1994 BOS vs. DEN W 27 6 3 11 27.3 0 1 0.0 0 0 - 0 0 0 4 1 0 1 3 -
+p452
+aVEd Pinckney BOS 01/16/1994 BOS vs. DEN W 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 2 0 0 -
+p453
+aVJimmy Oliver BOS 01/16/1994 BOS vs. DEN W 13 5 2 6 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 2 0 -
+p454
+aVChris Corchiani BOS 01/16/1994 BOS vs. DEN W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p455
+aVRobert Parish BOS 01/16/1994 BOS vs. DEN W 36 26 11 22 50.0 0 0 - 4 5 80.0 2 7 9 2 0 0 2 3 -
+p456
+aVRick Fox BOS 01/16/1994 BOS vs. DEN W 32 6 2 7 28.6 0 0 - 2 2 100.0 2 4 6 5 0 1 2 5 -
+p457
+aVXavier McDaniel BOS 01/16/1994 BOS vs. DEN W 26 12 5 11 45.5 0 1 0.0 2 2 100.0 2 3 5 1 2 1 2 2 -
+p458
+aVKevin Gamble BOS 01/14/1994 BOS vs. LAC L 31 12 5 11 45.5 0 2 0.0 2 2 100.0 0 2 2 1 1 0 1 1 -
+p459
+aVDee Brown BOS 01/14/1994 BOS vs. LAC L 45 6 2 9 22.2 0 0 - 2 4 50.0 4 1 5 7 3 2 2 6 -
+p460
+aVEd Pinckney BOS 01/14/1994 BOS vs. LAC L 10 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 3 1 -
+p461
+aVDino Radja BOS 01/14/1994 BOS vs. LAC L 29 16 6 12 50.0 0 0 - 4 4 100.0 6 8 14 1 1 0 5 6 -
+p462
+aVAcie Earl BOS 01/14/1994 BOS vs. LAC L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p463
+aVSherman Douglas BOS 01/14/1994 BOS vs. LAC L 40 20 8 15 53.3 0 0 - 4 8 50.0 0 3 3 7 3 1 5 3 -
+p464
+aVChris Corchiani BOS 01/14/1994 BOS vs. LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p465
+aVXavier McDaniel BOS 01/14/1994 BOS vs. LAC L 29 17 6 16 37.5 0 0 - 5 6 83.3 4 4 8 0 0 1 3 4 -
+p466
+aVRick Fox BOS 01/14/1994 BOS vs. LAC L 14 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 4 2 0 4 3 -
+p467
+aVJimmy Oliver BOS 01/14/1994 BOS vs. LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p468
+aVRobert Parish BOS 01/14/1994 BOS vs. LAC L 36 21 10 13 76.9 0 0 - 1 2 50.0 0 13 13 2 1 2 2 4 -
+p469
+aVSherman Douglas BOS 01/12/1994 BOS vs. HOU L 41 15 5 14 35.7 0 0 - 5 6 83.3 1 1 2 12 3 0 4 3 -
+p470
+aVDino Radja BOS 01/12/1994 BOS vs. HOU L 23 14 6 13 46.2 0 0 - 2 2 100.0 3 2 5 1 0 0 2 5 -
+p471
+aVRick Fox BOS 01/12/1994 BOS vs. HOU L 34 15 7 16 43.8 0 2 0.0 1 1 100.0 3 8 11 3 2 1 4 4 -
+p472
+aVDee Brown BOS 01/12/1994 BOS vs. HOU L 40 16 8 17 47.1 0 1 0.0 0 0 - 1 8 9 3 0 1 1 1 -
+p473
+aVKevin Gamble BOS 01/12/1994 BOS vs. HOU L 24 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 5 1 0 2 0 -
+p474
+aVXavier McDaniel BOS 01/12/1994 BOS vs. HOU L 25 14 7 13 53.8 0 0 - 0 0 - 6 3 9 0 1 0 0 4 -
+p475
+aVAcie Earl BOS 01/12/1994 BOS vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p476
+aVChris Corchiani BOS 01/12/1994 BOS vs. HOU L 2 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p477
+aVEd Pinckney BOS 01/12/1994 BOS vs. HOU L 20 0 0 4 0.0 0 0 - 0 0 - 0 4 4 1 1 0 0 3 -
+p478
+aVRobert Parish BOS 01/12/1994 BOS vs. HOU L 27 0 0 6 0.0 0 0 - 0 0 - 3 6 9 2 0 0 2 1 -
+p479
+aVRick Fox BOS 01/10/1994 BOS @ PHL L 15 0 0 7 0.0 0 1 0.0 0 0 - 1 3 4 2 0 0 0 2 -
+p480
+aVXavier McDaniel BOS 01/10/1994 BOS @ PHL L 28 4 2 8 25.0 0 0 - 0 2 0.0 1 4 5 2 0 0 1 4 -
+p481
+aVRobert Parish BOS 01/10/1994 BOS @ PHL L 24 13 5 10 50.0 0 0 - 3 4 75.0 3 8 11 1 1 1 2 3 -
+p482
+aVChris Corchiani BOS 01/10/1994 BOS @ PHL L 18 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 2 0 0 1 3 -
+p483
+aVDee Brown BOS 01/10/1994 BOS @ PHL L 41 10 5 12 41.7 0 0 - 0 0 - 2 2 4 3 0 0 2 3 -
+p484
+aVEd Pinckney BOS 01/10/1994 BOS @ PHL L 25 6 3 6 50.0 0 0 - 0 1 0.0 5 6 11 2 1 1 0 2 -
+p485
+aVKevin Gamble BOS 01/10/1994 BOS @ PHL L 34 26 12 19 63.2 2 6 33.3 0 0 - 0 4 4 8 1 1 2 3 -
+p486
+aVAcie Earl BOS 01/10/1994 BOS @ PHL L 9 7 3 9 33.3 0 0 - 1 1 100.0 3 1 4 0 0 2 0 1 -
+p487
+aVDino Radja BOS 01/10/1994 BOS @ PHL L 16 10 5 9 55.6 0 0 - 0 0 - 1 4 5 0 0 0 2 4 -
+p488
+aVSherman Douglas BOS 01/10/1994 BOS @ PHL L 30 13 6 15 40.0 1 2 50.0 0 0 - 2 2 4 8 2 1 3 0 -
+p489
+aVChris Corchiani BOS 01/08/1994 BOS @ MIN L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -
+p490
+aVRobert Parish BOS 01/08/1994 BOS @ MIN L 30 14 5 10 50.0 0 0 - 4 5 80.0 0 3 3 0 1 2 2 0 -
+p491
+aVKevin Gamble BOS 01/08/1994 BOS @ MIN L 26 3 1 6 16.7 0 1 0.0 1 1 100.0 0 2 2 2 0 0 1 2 -
+p492
+aVDino Radja BOS 01/08/1994 BOS @ MIN L 27 8 3 10 30.0 0 0 - 2 3 66.7 4 5 9 3 1 0 0 0 -
+p493
+aVEd Pinckney BOS 01/08/1994 BOS @ MIN L 20 2 1 5 20.0 0 0 - 0 1 0.0 6 3 9 1 1 0 1 0 -
+p494
+aVXavier McDaniel BOS 01/08/1994 BOS @ MIN L 16 6 3 7 42.9 0 0 - 0 2 0.0 1 2 3 1 0 0 1 2 -
+p495
+aVDee Brown BOS 01/08/1994 BOS @ MIN L 37 15 6 15 40.0 1 1 100.0 2 2 100.0 1 3 4 4 4 1 4 3 -
+p496
+aVRick Fox BOS 01/08/1994 BOS @ MIN L 24 17 7 12 58.3 0 0 - 3 4 75.0 1 1 2 1 2 0 1 5 -
+p497
+aVAcie Earl BOS 01/08/1994 BOS @ MIN L 12 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -
+p498
+aVSherman Douglas BOS 01/08/1994 BOS @ MIN L 41 24 9 16 56.3 0 2 0.0 6 6 100.0 0 4 4 9 2 0 4 2 -
+p499
+aVMatt Wenstrom BOS 01/07/1994 BOS vs. CLE L 2 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p500
+aVKevin Gamble BOS 01/07/1994 BOS vs. CLE L 31 17 8 13 61.5 0 0 - 1 1 100.0 0 1 1 1 1 1 0 1 -
+p501
+aVRobert Parish BOS 01/07/1994 BOS vs. CLE L 24 9 3 9 33.3 0 0 - 3 3 100.0 1 3 4 1 1 3 0 1 -
+p502
+aVDee Brown BOS 01/07/1994 BOS vs. CLE L 21 4 2 9 22.2 0 0 - 0 0 - 1 2 3 0 1 0 3 2 -
+p503
+aVAcie Earl BOS 01/07/1994 BOS vs. CLE L 17 6 3 6 50.0 0 0 - 0 2 0.0 0 4 4 0 0 2 1 3 -
+p504
+aVChris Corchiani BOS 01/07/1994 BOS vs. CLE L 17 0 0 6 0.0 0 3 0.0 0 0 - 1 0 1 2 1 0 0 0 -
+p505
+aVEd Pinckney BOS 01/07/1994 BOS vs. CLE L 28 2 1 2 50.0 0 0 - 0 0 - 2 5 7 2 0 0 1 4 -
+p506
+aVJimmy Oliver BOS 01/07/1994 BOS vs. CLE L 4 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p507
+aVXavier McDaniel BOS 01/07/1994 BOS vs. CLE L 17 5 2 6 33.3 0 0 - 1 2 50.0 3 4 7 0 0 0 1 0 -
+p508
+aVDino Radja BOS 01/07/1994 BOS vs. CLE L 25 9 4 11 36.4 0 0 - 1 2 50.0 2 3 5 0 0 0 0 2 -
+p509
+aVSherman Douglas BOS 01/07/1994 BOS vs. CLE L 31 16 7 11 63.6 0 0 - 2 3 66.7 0 2 2 12 0 1 0 1 -
+p510
+aVRick Fox BOS 01/07/1994 BOS vs. CLE L 23 12 4 12 33.3 0 3 0.0 4 5 80.0 4 5 9 2 0 0 1 2 -
+p511
+aVSherman Douglas BOS 01/05/1994 BOS @ CLE W 37 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 11 3 0 3 4 -
+p512
+aVXavier McDaniel BOS 01/05/1994 BOS @ CLE W 24 10 5 8 62.5 0 1 0.0 0 0 - 0 3 3 3 0 1 0 5 -
+p513
+aVRick Fox BOS 01/05/1994 BOS @ CLE W 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -
+p514
+aVDino Radja BOS 01/05/1994 BOS @ CLE W 26 13 2 6 33.3 0 0 - 9 12 75.0 2 7 9 1 0 2 2 4 -
+p515
+aVRobert Parish BOS 01/05/1994 BOS @ CLE W 29 16 7 13 53.8 0 0 - 2 2 100.0 0 3 3 0 1 2 2 3 -
+p516
+aVEd Pinckney BOS 01/05/1994 BOS @ CLE W 32 12 5 9 55.6 0 0 - 2 2 100.0 5 9 14 1 1 1 2 3 -
+p517
+aVChris Corchiani BOS 01/05/1994 BOS @ CLE W 11 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 -
+p518
+aVAcie Earl BOS 01/05/1994 BOS @ CLE W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 3 3 -
+p519
+aVKevin Gamble BOS 01/05/1994 BOS @ CLE W 30 14 7 10 70.0 0 1 0.0 0 0 - 0 2 2 2 1 0 1 1 -
+p520
+aVDee Brown BOS 01/05/1994 BOS @ CLE W 35 25 11 19 57.9 0 0 - 3 3 100.0 4 3 7 7 1 0 1 0 -
+p521
+aVAcie Earl BOS 01/02/1994 BOS vs. NJN L 16 8 4 8 50.0 0 0 - 0 0 - 0 3 3 0 0 1 2 3 -
+p522
+aVRick Fox BOS 01/02/1994 BOS vs. NJN L 14 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 0 1 1 1 2 -
+p523
+aVXavier McDaniel BOS 01/02/1994 BOS vs. NJN L 36 26 10 14 71.4 0 0 - 6 7 85.7 1 3 4 0 0 1 4 2 -
+p524
+aVEd Pinckney BOS 01/02/1994 BOS vs. NJN L 25 8 4 7 57.1 0 0 - 0 2 0.0 2 7 9 1 2 1 1 3 -
+p525
+aVSherman Douglas BOS 01/02/1994 BOS vs. NJN L 42 8 2 9 22.2 0 0 - 4 4 100.0 0 1 1 12 0 0 2 2 -
+p526
+aVRobert Parish BOS 01/02/1994 BOS vs. NJN L 28 10 2 7 28.6 0 0 - 6 8 75.0 4 5 9 4 1 2 1 2 -
+p527
+aVDino Radja BOS 01/02/1994 BOS vs. NJN L 16 5 1 1 100.0 0 0 - 3 4 75.0 0 4 4 1 0 1 1 3 -
+p528
+aVDee Brown BOS 01/02/1994 BOS vs. NJN L 34 15 7 14 50.0 1 2 50.0 0 0 - 1 3 4 6 5 1 0 4 -
+p529
+aVChris Corchiani BOS 01/02/1994 BOS vs. NJN L 6 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 0 1 0 -
+p530
+aVKevin Gamble BOS 01/02/1994 BOS vs. NJN L 23 8 4 11 36.4 0 2 0.0 0 0 - 0 3 3 3 0 0 1 4 -
+p531
+aVDee Brown BOS 12/30/1993 BOS @ LAC W 30 21 6 13 46.2 0 0 - 9 9 100.0 0 4 4 3 2 1 1 4 -
+p532
+aVChris Corchiani BOS 12/30/1993 BOS @ LAC W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -
+p533
+aVKevin Gamble BOS 12/30/1993 BOS @ LAC W 32 18 7 11 63.6 3 4 75.0 1 2 50.0 0 1 1 3 0 0 1 3 -
+p534
+aVEd Pinckney BOS 12/30/1993 BOS @ LAC W 22 7 3 5 60.0 0 0 - 1 2 50.0 2 5 7 3 3 0 0 1 -
+p535
+aVAcie Earl BOS 12/30/1993 BOS @ LAC W 20 8 3 4 75.0 0 0 - 2 4 50.0 1 2 3 2 2 0 1 3 -
+p536
+aVXavier McDaniel BOS 12/30/1993 BOS @ LAC W 17 5 2 8 25.0 0 2 0.0 1 2 50.0 1 5 6 1 1 0 3 2 -
+p537
+aVDino Radja BOS 12/30/1993 BOS @ LAC W 24 12 6 9 66.7 0 0 - 0 0 - 1 3 4 3 0 1 2 4 -
+p538
+aVRobert Parish BOS 12/30/1993 BOS @ LAC W 26 18 8 14 57.1 0 0 - 2 2 100.0 3 5 8 2 1 1 1 3 -
+p539
+aVRick Fox BOS 12/30/1993 BOS @ LAC W 21 13 4 7 57.1 1 2 50.0 4 4 100.0 0 1 1 3 0 0 1 1 -
+p540
+aVSherman Douglas BOS 12/30/1993 BOS @ LAC W 39 15 5 11 45.5 1 2 50.0 4 6 66.7 1 4 5 8 1 0 4 1 -
+p541
+aVChris Corchiani BOS 12/29/1993 BOS @ UTH L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 2 3 -
+p542
+aVKevin Gamble BOS 12/29/1993 BOS @ UTH L 21 11 5 11 45.5 1 5 20.0 0 0 - 0 0 0 1 1 0 1 1 -
+p543
+aVJimmy Oliver BOS 12/29/1993 BOS @ UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p544
+aVRick Fox BOS 12/29/1993 BOS @ UTH L 34 28 9 12 75.0 1 2 50.0 9 11 81.8 0 5 5 2 0 1 7 6 -
+p545
+aVXavier McDaniel BOS 12/29/1993 BOS @ UTH L 36 22 10 18 55.6 0 0 - 2 8 25.0 1 6 7 4 1 1 2 2 -
+p546
+aVDee Brown BOS 12/29/1993 BOS @ UTH L 28 4 2 7 28.6 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -
+p547
+aVAcie Earl BOS 12/29/1993 BOS @ UTH L 5 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 1 -
+p548
+aVEd Pinckney BOS 12/29/1993 BOS @ UTH L 35 6 2 5 40.0 0 0 - 2 2 100.0 5 9 14 1 1 3 1 5 -
+p549
+aVSherman Douglas BOS 12/29/1993 BOS @ UTH L 44 16 6 14 42.9 0 2 0.0 4 8 50.0 1 2 3 7 2 1 4 5 -
+p550
+aVRobert Parish BOS 12/29/1993 BOS @ UTH L 28 12 5 10 50.0 0 0 - 2 2 100.0 2 2 4 0 0 3 2 1 -
+p551
+aVDino Radja BOS 12/29/1993 BOS @ UTH L 24 8 2 5 40.0 0 0 - 4 6 66.7 1 5 6 0 1 2 2 3 -
+p552
+aVDino Radja BOS 12/27/1993 BOS @ PHX L 20 7 3 6 50.0 0 0 - 1 3 33.3 5 4 9 0 1 0 2 2 -
+p553
+aVXavier McDaniel BOS 12/27/1993 BOS @ PHX L 32 16 6 12 50.0 0 0 - 4 4 100.0 4 4 8 2 1 1 4 3 -
+p554
+aVEd Pinckney BOS 12/27/1993 BOS @ PHX L 16 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -
+p555
+aVRick Fox BOS 12/27/1993 BOS @ PHX L 19 13 5 12 41.7 1 2 50.0 2 2 100.0 2 0 2 0 0 0 1 3 -
+p556
+aVAcie Earl BOS 12/27/1993 BOS @ PHX L 16 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 3 -
+p557
+aVChris Corchiani BOS 12/27/1993 BOS @ PHX L 16 8 3 4 75.0 2 2 100.0 0 2 0.0 0 1 1 4 0 0 4 2 -
+p558
+aVRobert Parish BOS 12/27/1993 BOS @ PHX L 23 8 4 9 44.4 0 0 - 0 1 0.0 1 7 8 3 0 1 2 2 -
+p559
+aVSherman Douglas BOS 12/27/1993 BOS @ PHX L 32 10 4 11 36.4 0 0 - 2 2 100.0 0 0 0 9 0 0 3 3 -
+p560
+aVKevin Gamble BOS 12/27/1993 BOS @ PHX L 23 10 4 9 44.4 1 3 33.3 1 2 50.0 0 2 2 0 2 0 0 3 -
+p561
+aVJimmy Oliver BOS 12/27/1993 BOS @ PHX L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p562
+aVDee Brown BOS 12/27/1993 BOS @ PHX L 37 21 9 13 69.2 1 2 50.0 2 4 50.0 0 2 2 2 4 0 2 2 -
+p563
+aVDino Radja BOS 12/26/1993 BOS @ SAN L 18 0 0 14 0.0 0 0 - 0 2 0.0 4 6 10 0 0 0 1 5 -
+p564
+aVSherman Douglas BOS 12/26/1993 BOS @ SAN L 37 14 7 12 58.3 0 0 - 0 0 - 2 3 5 4 2 0 3 1 -
+p565
+aVAcie Earl BOS 12/26/1993 BOS @ SAN L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p566
+aVChris Corchiani BOS 12/26/1993 BOS @ SAN L 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p567
+aVDee Brown BOS 12/26/1993 BOS @ SAN L 30 12 6 16 37.5 0 3 0.0 0 0 - 1 2 3 4 2 2 0 1 -
+p568
+aVEd Pinckney BOS 12/26/1993 BOS @ SAN L 20 10 5 8 62.5 0 0 - 0 0 - 2 5 7 0 0 0 0 2 -
+p569
+aVXavier McDaniel BOS 12/26/1993 BOS @ SAN L 29 18 8 15 53.3 0 0 - 2 5 40.0 1 6 7 0 0 0 0 2 -
+p570
+aVRick Fox BOS 12/26/1993 BOS @ SAN L 25 4 2 7 28.6 0 0 - 0 0 - 2 0 2 4 3 0 0 4 -
+p571
+aVKevin Gamble BOS 12/26/1993 BOS @ SAN L 38 17 6 13 46.2 2 3 66.7 3 3 100.0 1 0 1 4 0 0 2 2 -
+p572
+aVRobert Parish BOS 12/26/1993 BOS @ SAN L 25 8 4 9 44.4 0 0 - 0 0 - 2 6 8 1 0 1 0 6 -
+p573
+aVRick Fox BOS 12/23/1993 BOS @ CHH L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 0 0 2 -
+p574
+aVXavier McDaniel BOS 12/23/1993 BOS @ CHH L 25 14 7 12 58.3 0 1 0.0 0 0 - 1 2 3 1 0 1 1 2 -
+p575
+aVSherman Douglas BOS 12/23/1993 BOS @ CHH L 41 9 4 9 44.4 1 1 100.0 0 2 0.0 1 2 3 15 1 0 5 2 -
+p576
+aVRobert Parish BOS 12/23/1993 BOS @ CHH L 29 13 6 11 54.5 0 0 - 1 2 50.0 2 2 4 1 1 1 1 0 -
+p577
+aVDee Brown BOS 12/23/1993 BOS @ CHH L 33 11 5 13 38.5 0 3 0.0 1 2 50.0 1 4 5 2 2 0 2 3 -
+p578
+aVAcie Earl BOS 12/23/1993 BOS @ CHH L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p579
+aVDino Radja BOS 12/23/1993 BOS @ CHH L 19 13 4 9 44.4 0 0 - 5 6 83.3 1 4 5 0 0 2 3 4 -
+p580
+aVEd Pinckney BOS 12/23/1993 BOS @ CHH L 34 14 6 10 60.0 0 0 - 2 2 100.0 1 3 4 2 1 2 0 1 -
+p581
+aVKevin Gamble BOS 12/23/1993 BOS @ CHH L 39 22 8 18 44.4 3 6 50.0 3 3 100.0 0 0 0 1 0 1 2 4 -
+p582
+aVChris Corchiani BOS 12/23/1993 BOS @ CHH L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p583
+aVChris Corchiani BOS 12/22/1993 BOS vs. ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p584
+aVDee Brown BOS 12/22/1993 BOS vs. ATL L 24 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 5 1 0 0 4 -
+p585
+aVEd Pinckney BOS 12/22/1993 BOS vs. ATL L 35 10 4 8 50.0 0 0 - 2 4 50.0 8 9 17 2 1 0 1 2 -
+p586
+aVXavier McDaniel BOS 12/22/1993 BOS vs. ATL L 28 26 12 18 66.7 0 0 - 2 2 100.0 1 1 2 3 0 1 1 3 -
+p587
+aVAcie Earl BOS 12/22/1993 BOS vs. ATL L 13 2 1 6 16.7 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -
+p588
+aVSherman Douglas BOS 12/22/1993 BOS vs. ATL L 44 18 8 17 47.1 0 0 - 2 2 100.0 3 0 3 13 0 0 2 1 -
+p589
+aVDino Radja BOS 12/22/1993 BOS vs. ATL L 19 6 3 8 37.5 0 0 - 0 0 - 1 4 5 2 1 0 3 2 -
+p590
+aVRobert Parish BOS 12/22/1993 BOS vs. ATL L 22 7 3 7 42.9 0 0 - 1 1 100.0 0 1 1 0 0 1 1 2 -
+p591
+aVKevin Gamble BOS 12/22/1993 BOS vs. ATL L 27 11 4 11 36.4 1 1 100.0 2 2 100.0 1 2 3 0 0 1 0 4 -
+p592
+aVRick Fox BOS 12/22/1993 BOS vs. ATL L 24 19 9 16 56.3 0 0 - 1 1 100.0 1 1 2 5 1 0 2 3 -
+p593
+aVEd Pinckney BOS 12/17/1993 BOS vs. UTH L 22 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 1 1 1 3 -
+p594
+aVAcie Earl BOS 12/17/1993 BOS vs. UTH L 27 15 6 9 66.7 0 0 - 3 3 100.0 1 7 8 0 0 0 0 2 -
+p595
+aVJimmy Oliver BOS 12/17/1993 BOS vs. UTH L 18 6 2 9 22.2 0 0 - 2 2 100.0 1 1 2 0 1 0 0 1 -
+p596
+aVDino Radja BOS 12/17/1993 BOS vs. UTH L 31 19 7 16 43.8 0 0 - 5 5 100.0 5 6 11 0 1 2 1 5 -
+p597
+aVSherman Douglas BOS 12/17/1993 BOS vs. UTH L 38 15 7 13 53.8 0 0 - 1 3 33.3 1 2 3 12 2 0 3 1 -
+p598
+aVChris Corchiani BOS 12/17/1993 BOS vs. UTH L 10 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 2 1 1 1 2 -
+p599
+aVRick Fox BOS 12/17/1993 BOS vs. UTH L 27 8 4 11 36.4 0 0 - 0 0 - 2 1 3 3 0 1 2 4 -
+p600
+aVXavier McDaniel BOS 12/17/1993 BOS vs. UTH L 27 14 7 14 50.0 0 0 - 0 1 0.0 1 4 5 1 1 0 1 2 -
+p601
+aVDee Brown BOS 12/17/1993 BOS vs. UTH L 40 17 8 15 53.3 0 1 0.0 1 1 100.0 0 5 5 4 2 1 0 4 -
+p602
+aVSherman Douglas BOS 12/15/1993 BOS vs. CHI L 36 15 6 12 50.0 0 1 0.0 3 3 100.0 1 0 1 9 0 0 4 4 -
+p603
+aVChris Corchiani BOS 12/15/1993 BOS vs. CHI L 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 4 1 0 0 1 -
+p604
+aVEd Pinckney BOS 12/15/1993 BOS vs. CHI L 28 10 2 2 100.0 0 0 - 6 8 75.0 3 3 6 1 0 0 1 2 -
+p605
+aVAcie Earl BOS 12/15/1993 BOS vs. CHI L 16 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 2 1 3 -
+p606
+aVXavier McDaniel BOS 12/15/1993 BOS vs. CHI L 27 10 5 14 35.7 0 0 - 0 0 - 0 6 6 2 1 2 2 2 -
+p607
+aVDino Radja BOS 12/15/1993 BOS vs. CHI L 35 26 12 18 66.7 0 0 - 2 3 66.7 2 7 9 0 2 2 3 3 -
+p608
+aVDee Brown BOS 12/15/1993 BOS vs. CHI L 38 13 6 12 50.0 0 1 0.0 1 1 100.0 1 2 3 7 3 0 1 2 -
+p609
+aVRick Fox BOS 12/15/1993 BOS vs. CHI L 18 14 6 11 54.5 0 0 - 2 2 100.0 1 2 3 0 0 2 1 2 -
+p610
+aVKevin Gamble BOS 12/15/1993 BOS vs. CHI L 30 10 5 11 45.5 0 1 0.0 0 0 - 0 3 3 2 1 1 2 2 -
+p611
+aVChris Corchiani BOS 12/13/1993 BOS vs. PHL W 12 0 0 0 - 0 0 - 0 0 - 1 0 1 3 1 0 2 1 -
+p612
+aVAcie Earl BOS 12/13/1993 BOS vs. PHL W 29 8 4 11 36.4 0 0 - 0 0 - 1 7 8 1 1 2 0 3 -
+p613
+aVSherman Douglas BOS 12/13/1993 BOS vs. PHL W 36 13 5 13 38.5 0 1 0.0 3 4 75.0 3 1 4 14 0 0 5 2 -
+p614
+aVEd Pinckney BOS 12/13/1993 BOS vs. PHL W 23 10 5 12 41.7 0 0 - 0 0 - 2 4 6 1 0 1 0 3 -
+p615
+aVDino Radja BOS 12/13/1993 BOS vs. PHL W 24 13 5 11 45.5 0 0 - 3 3 100.0 4 1 5 2 2 2 3 5 -
+p616
+aVKevin Gamble BOS 12/13/1993 BOS vs. PHL W 28 5 2 8 25.0 0 0 - 1 2 50.0 0 3 3 4 3 0 3 1 -
+p617
+aVRick Fox BOS 12/13/1993 BOS vs. PHL W 18 4 2 4 50.0 0 1 0.0 0 0 - 1 4 5 6 2 1 1 4 -
+p618
+aVXavier McDaniel BOS 12/13/1993 BOS vs. PHL W 28 24 11 13 84.6 0 1 0.0 2 3 66.7 2 4 6 0 1 1 2 2 -
+p619
+aVDee Brown BOS 12/13/1993 BOS vs. PHL W 42 35 14 19 73.7 1 1 100.0 6 6 100.0 2 3 5 1 2 0 2 4 -
+p620
+aVRick Fox BOS 12/11/1993 BOS @ MIA L 26 5 2 8 25.0 0 2 0.0 1 1 100.0 1 1 2 2 0 1 2 3 -
+p621
+aVXavier McDaniel BOS 12/11/1993 BOS @ MIA L 27 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 4 -
+p622
+aVKevin Gamble BOS 12/11/1993 BOS @ MIA L 37 19 8 21 38.1 0 2 0.0 3 4 75.0 2 1 3 1 0 1 2 2 -
+p623
+aVMatt Wenstrom BOS 12/11/1993 BOS @ MIA L 7 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -
+p624
+aVChris Corchiani BOS 12/11/1993 BOS @ MIA L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 2 0 -
+p625
+aVEd Pinckney BOS 12/11/1993 BOS @ MIA L 17 0 0 0 - 0 0 - 0 0 - 1 9 10 0 1 0 0 2 -
+p626
+aVJimmy Oliver BOS 12/11/1993 BOS @ MIA L 6 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p627
+aVDino Radja BOS 12/11/1993 BOS @ MIA L 29 10 3 8 37.5 0 0 - 4 5 80.0 2 10 12 0 3 0 5 2 -
+p628
+aVSherman Douglas BOS 12/11/1993 BOS @ MIA L 31 12 4 11 36.4 0 1 0.0 4 8 50.0 1 1 2 4 1 0 5 3 -
+p629
+aVDee Brown BOS 12/11/1993 BOS @ MIA L 22 2 1 8 12.5 0 0 - 0 0 - 0 1 1 2 0 0 1 3 -
+p630
+aVAcie Earl BOS 12/11/1993 BOS @ MIA L 21 14 5 12 41.7 0 0 - 4 5 80.0 2 2 4 0 2 2 2 6 -
+p631
+aVKevin Gamble BOS 12/10/1993 BOS @ ORL L 32 8 4 12 33.3 0 1 0.0 0 0 - 0 4 4 2 0 0 2 1 -
+p632
+aVRick Fox BOS 12/10/1993 BOS @ ORL L 24 12 6 9 66.7 0 0 - 0 0 - 4 2 6 2 1 0 0 2 -
+p633
+aVDee Brown BOS 12/10/1993 BOS @ ORL L 31 6 2 10 20.0 0 1 0.0 2 2 100.0 0 2 2 3 5 0 1 0 -
+p634
+aVSherman Douglas BOS 12/10/1993 BOS @ ORL L 39 19 7 14 50.0 1 3 33.3 4 7 57.1 3 1 4 13 2 0 1 2 -
+p635
+aVAcie Earl BOS 12/10/1993 BOS @ ORL L 12 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 2 -
+p636
+aVJimmy Oliver BOS 12/10/1993 BOS @ ORL L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 3 0 -
+p637
+aVDino Radja BOS 12/10/1993 BOS @ ORL L 30 22 9 15 60.0 0 0 - 4 4 100.0 3 4 7 1 2 0 2 3 -
+p638
+aVEd Pinckney BOS 12/10/1993 BOS @ ORL L 27 8 2 7 28.6 0 0 - 4 6 66.7 2 6 8 0 1 1 0 2 -
+p639
+aVXavier McDaniel BOS 12/10/1993 BOS @ ORL L 26 17 7 16 43.8 0 2 0.0 3 4 75.0 0 1 1 0 1 0 3 2 -
+p640
+aVChris Corchiani BOS 12/10/1993 BOS @ ORL L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p641
+aVRick Fox BOS 12/08/1993 BOS vs. SAC W 32 17 7 14 50.0 0 3 0.0 3 4 75.0 0 4 4 6 0 1 2 4 -
+p642
+aVRobert Parish BOS 12/08/1993 BOS vs. SAC W 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p643
+aVMatt Wenstrom BOS 12/08/1993 BOS vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p644
+aVSherman Douglas BOS 12/08/1993 BOS vs. SAC W 45 18 8 17 47.1 0 0 - 2 2 100.0 2 2 4 21 0 0 3 2 -
+p645
+aVJimmy Oliver BOS 12/08/1993 BOS vs. SAC W 22 21 7 8 87.5 2 2 100.0 5 6 83.3 0 4 4 2 1 0 0 5 -
+p646
+aVXavier McDaniel BOS 12/08/1993 BOS vs. SAC W 24 16 6 13 46.2 0 2 0.0 4 7 57.1 4 4 8 1 0 0 1 4 -
+p647
+aVDino Radja BOS 12/08/1993 BOS vs. SAC W 25 21 7 11 63.6 0 0 - 7 9 77.8 3 7 10 0 1 1 0 3 -
+p648
+aVAcie Earl BOS 12/08/1993 BOS vs. SAC W 17 5 2 4 50.0 0 1 0.0 1 2 50.0 1 1 2 0 1 0 1 0 -
+p649
+aVKevin Gamble BOS 12/08/1993 BOS vs. SAC W 38 23 11 20 55.0 0 0 - 1 2 50.0 2 4 6 4 2 0 1 2 -
+p650
+aVEd Pinckney BOS 12/08/1993 BOS vs. SAC W 29 4 2 2 100.0 0 0 - 0 0 - 3 10 13 3 0 1 1 2 -
+p651
+aVRick Fox BOS 12/07/1993 BOS @ NJN L 32 10 5 13 38.5 0 3 0.0 0 1 0.0 3 3 6 5 0 0 2 3 -
+p652
+aVEd Pinckney BOS 12/07/1993 BOS @ NJN L 21 7 3 6 50.0 0 0 - 1 2 50.0 2 7 9 1 1 1 2 2 -
+p653
+aVAcie Earl BOS 12/07/1993 BOS @ NJN L 22 10 4 8 50.0 0 0 - 2 4 50.0 2 3 5 0 0 3 1 0 -
+p654
+aVSherman Douglas BOS 12/07/1993 BOS @ NJN L 39 13 6 12 50.0 0 0 - 1 2 50.0 3 2 5 13 2 0 4 2 -
+p655
+aVXavier McDaniel BOS 12/07/1993 BOS @ NJN L 20 10 5 8 62.5 0 0 - 0 0 - 2 2 4 0 0 0 1 3 -
+p656
+aVDino Radja BOS 12/07/1993 BOS @ NJN L 33 10 5 17 29.4 0 0 - 0 0 - 4 5 9 1 1 0 1 5 -
+p657
+aVMatt Wenstrom BOS 12/07/1993 BOS @ NJN L 5 2 0 4 0.0 0 0 - 2 2 100.0 3 1 4 0 0 0 2 2 -
+p658
+aVKevin Gamble BOS 12/07/1993 BOS @ NJN L 27 12 5 11 45.5 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -
+p659
+aVDee Brown BOS 12/07/1993 BOS @ NJN L 22 10 4 11 36.4 0 0 - 2 2 100.0 0 1 1 0 1 1 0 2 -
+p660
+aVJimmy Oliver BOS 12/07/1993 BOS @ NJN L 19 6 2 4 50.0 1 2 50.0 1 2 50.0 0 2 2 0 3 0 1 1 -
+p661
+aVJimmy Oliver BOS 12/03/1993 BOS vs. POR W 16 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 1 -
+p662
+aVEd Pinckney BOS 12/03/1993 BOS vs. POR W 24 6 3 5 60.0 0 0 - 0 1 0.0 1 9 10 0 2 1 2 2 -
+p663
+aVRick Fox BOS 12/03/1993 BOS vs. POR W 35 22 6 13 46.2 3 5 60.0 7 9 77.8 3 3 6 8 1 1 2 5 -
+p664
+aVDino Radja BOS 12/03/1993 BOS vs. POR W 29 13 5 8 62.5 0 0 - 3 4 75.0 2 6 8 2 0 0 3 3 -
+p665
+aVChris Corchiani BOS 12/03/1993 BOS vs. POR W 17 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 4 2 0 3 1 -
+p666
+aVRobert Parish BOS 12/03/1993 BOS vs. POR W 33 19 8 11 72.7 0 0 - 3 4 75.0 0 8 8 1 1 1 4 2 -
+p667
+aVAcie Earl BOS 12/03/1993 BOS vs. POR W 15 8 3 8 37.5 0 0 - 2 2 100.0 0 4 4 0 0 0 1 1 -
+p668
+aVSherman Douglas BOS 12/03/1993 BOS vs. POR W 36 16 7 13 53.8 0 1 0.0 2 2 100.0 0 0 0 6 1 0 2 3 -
+p669
+aVXavier McDaniel BOS 12/03/1993 BOS vs. POR W 35 19 9 20 45.0 1 3 33.3 0 0 - 1 3 4 3 1 2 1 5 -
+p670
+aVEd Pinckney BOS 12/01/1993 BOS vs. WAS W 17 11 5 6 83.3 0 0 - 1 1 100.0 4 5 9 0 1 0 0 0 -
+p671
+aVSherman Douglas BOS 12/01/1993 BOS vs. WAS W 26 5 2 8 25.0 0 0 - 1 2 50.0 2 2 4 9 1 0 4 1 -
+p672
+aVChris Corchiani BOS 12/01/1993 BOS vs. WAS W 22 6 2 3 66.7 0 0 - 2 4 50.0 0 1 1 6 1 0 1 1 -
+p673
+aVDino Radja BOS 12/01/1993 BOS vs. WAS W 31 22 8 13 61.5 0 0 - 6 7 85.7 3 7 10 3 1 1 3 4 -
+p674
+aVRick Fox BOS 12/01/1993 BOS vs. WAS W 38 25 10 15 66.7 3 4 75.0 2 5 40.0 1 3 4 4 3 2 2 5 -
+p675
+aVXavier McDaniel BOS 12/01/1993 BOS vs. WAS W 32 6 3 11 27.3 0 1 0.0 0 0 - 4 3 7 5 3 0 2 1 -
+p676
+aVRobert Parish BOS 12/01/1993 BOS vs. WAS W 26 15 7 13 53.8 0 0 - 1 1 100.0 4 3 7 1 0 1 2 4 -
+p677
+aVDee Brown BOS 12/01/1993 BOS vs. WAS W 4 5 2 5 40.0 0 0 - 1 1 100.0 1 0 1 0 1 0 0 0 -
+p678
+aVAcie Earl BOS 12/01/1993 BOS vs. WAS W 22 11 5 9 55.6 0 0 - 1 3 33.3 3 2 5 0 0 0 2 3 -
+p679
+aVJimmy Oliver BOS 12/01/1993 BOS vs. WAS W 22 14 6 12 50.0 0 1 0.0 2 2 100.0 0 3 3 2 0 0 1 2 -
+p680
+aVEd Pinckney BOS 11/30/1993 BOS @ ATL L 17 5 1 2 50.0 0 0 - 3 4 75.0 2 3 5 0 0 0 2 2 -
+p681
+aVSherman Douglas BOS 11/30/1993 BOS @ ATL L 25 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 11 0 0 3 3 -
+p682
+aVRobert Parish BOS 11/30/1993 BOS @ ATL L 21 10 4 10 40.0 0 0 - 2 2 100.0 2 4 6 1 0 0 1 1 -
+p683
+aVMatt Wenstrom BOS 11/30/1993 BOS @ ATL L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -
+p684
+aVRick Fox BOS 11/30/1993 BOS @ ATL L 24 18 6 11 54.5 1 2 50.0 5 6 83.3 2 3 5 0 2 0 3 2 -
+p685
+aVXavier McDaniel BOS 11/30/1993 BOS @ ATL L 37 16 8 15 53.3 0 0 - 0 1 0.0 0 4 4 0 0 1 1 1 -
+p686
+aVDino Radja BOS 11/30/1993 BOS @ ATL L 21 11 4 11 36.4 0 0 - 3 4 75.0 1 4 5 2 0 0 2 2 -
+p687
+aVDee Brown BOS 11/30/1993 BOS @ ATL L 46 32 15 23 65.2 0 1 0.0 2 2 100.0 2 4 6 7 3 0 2 4 -
+p688
+aVChris Corchiani BOS 11/30/1993 BOS @ ATL L 23 14 5 6 83.3 1 2 50.0 3 3 100.0 0 4 4 4 1 0 2 0 -
+p689
+aVJimmy Oliver BOS 11/30/1993 BOS @ ATL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -
+p690
+aVAcie Earl BOS 11/30/1993 BOS @ ATL L 19 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 2 0 3 2 -
+p691
+aVEd Pinckney BOS 11/27/1993 BOS @ MIL L 18 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 1 1 3 -
+p692
+aVXavier McDaniel BOS 11/27/1993 BOS @ MIL L 37 11 5 11 45.5 1 1 100.0 0 0 - 1 6 7 1 3 0 1 4 -
+p693
+aVDino Radja BOS 11/27/1993 BOS @ MIL L 32 2 1 5 20.0 0 0 - 0 0 - 3 10 13 0 0 0 2 1 -
+p694
+aVJimmy Oliver BOS 11/27/1993 BOS @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p695
+aVAcie Earl BOS 11/27/1993 BOS @ MIL L 18 5 1 3 33.3 0 0 - 3 4 75.0 2 2 4 0 0 1 2 1 -
+p696
+aVChris Corchiani BOS 11/27/1993 BOS @ MIL L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -
+p697
+aVRick Fox BOS 11/27/1993 BOS @ MIL L 19 0 0 3 0.0 0 1 0.0 0 0 - 2 3 5 0 0 0 2 2 -
+p698
+aVSherman Douglas BOS 11/27/1993 BOS @ MIL L 37 24 12 21 57.1 0 1 0.0 0 0 - 0 2 2 9 0 0 1 4 -
+p699
+aVRobert Parish BOS 11/27/1993 BOS @ MIL L 24 14 6 11 54.5 0 0 - 2 2 100.0 2 2 4 1 1 0 1 4 -
+p700
+aVDee Brown BOS 11/27/1993 BOS @ MIL L 43 23 9 23 39.1 0 3 0.0 5 5 100.0 1 1 2 2 3 1 7 2 -
+p701
+aVRick Fox BOS 11/26/1993 BOS vs. MIA L 22 5 1 3 33.3 1 2 50.0 2 2 100.0 0 5 5 4 1 2 2 0 -
+p702
+aVAcie Earl BOS 11/26/1993 BOS vs. MIA L 12 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 1 0 3 5 -
+p703
+aVRobert Parish BOS 11/26/1993 BOS vs. MIA L 27 7 2 11 18.2 0 0 - 3 4 75.0 1 7 8 1 0 2 1 5 -
+p704
+aVSherman Douglas BOS 11/26/1993 BOS vs. MIA L 36 13 5 14 35.7 0 2 0.0 3 4 75.0 1 2 3 4 0 0 2 3 -
+p705
+aVChris Corchiani BOS 11/26/1993 BOS vs. MIA L 12 2 0 1 0.0 0 1 0.0 2 4 50.0 0 1 1 1 2 0 0 2 -
+p706
+aVEd Pinckney BOS 11/26/1993 BOS vs. MIA L 15 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 1 0 1 -
+p707
+aVKevin Gamble BOS 11/26/1993 BOS vs. MIA L 29 12 6 13 46.2 0 0 - 0 0 - 1 0 1 1 2 1 0 3 -
+p708
+aVXavier McDaniel BOS 11/26/1993 BOS vs. MIA L 26 13 3 12 25.0 1 2 50.0 6 7 85.7 2 5 7 2 0 0 1 3 -
+p709
+aVDee Brown BOS 11/26/1993 BOS vs. MIA L 30 9 3 10 30.0 0 1 0.0 3 3 100.0 0 2 2 2 2 0 0 3 -
+p710
+aVDino Radja BOS 11/26/1993 BOS vs. MIA L 31 24 7 9 77.8 0 0 - 10 12 83.3 1 3 4 2 1 2 4 4 -
+p711
+aVEd Pinckney BOS 11/24/1993 BOS @ DET W 22 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 2 -
+p712
+aVXavier McDaniel BOS 11/24/1993 BOS @ DET W 21 15 7 14 50.0 1 1 100.0 0 0 - 0 2 2 4 1 1 0 0 -
+p713
+aVDee Brown BOS 11/24/1993 BOS @ DET W 26 9 4 6 66.7 0 0 - 1 2 50.0 0 4 4 3 0 0 0 2 -
+p714
+aVRick Fox BOS 11/24/1993 BOS @ DET W 22 11 4 6 66.7 2 3 66.7 1 1 100.0 0 3 3 2 0 1 1 2 -
+p715
+aVDino Radja BOS 11/24/1993 BOS @ DET W 23 18 9 18 50.0 0 0 - 0 1 0.0 3 5 8 0 0 0 1 3 -
+p716
+aVAcie Earl BOS 11/24/1993 BOS @ DET W 18 4 2 4 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 1 0 -
+p717
+aVSherman Douglas BOS 11/24/1993 BOS @ DET W 35 14 7 8 87.5 0 0 - 0 4 0.0 0 1 1 11 2 0 2 2 -
+p718
+aVRobert Parish BOS 11/24/1993 BOS @ DET W 33 20 9 11 81.8 0 0 - 2 2 100.0 2 6 8 3 0 0 2 4 -
+p719
+aVChris Corchiani BOS 11/24/1993 BOS @ DET W 13 5 2 2 100.0 1 1 100.0 0 0 - 1 5 6 3 2 0 0 1 -
+p720
+aVKevin Gamble BOS 11/24/1993 BOS @ DET W 27 16 8 12 66.7 0 1 0.0 0 0 - 0 1 1 3 0 0 3 3 -
+p721
+aVRobert Parish BOS 11/22/1993 BOS vs. IND L 23 5 2 8 25.0 0 0 - 1 2 50.0 4 4 8 0 0 3 1 0 -
+p722
+aVDee Brown BOS 11/22/1993 BOS vs. IND L 28 10 3 9 33.3 0 0 - 4 4 100.0 0 3 3 4 0 0 1 3 -
+p723
+aVMatt Wenstrom BOS 11/22/1993 BOS vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -
+p724
+aVKevin Gamble BOS 11/22/1993 BOS vs. IND L 24 13 6 15 40.0 1 3 33.3 0 0 - 2 1 3 1 1 0 2 2 -
+p725
+aVXavier McDaniel BOS 11/22/1993 BOS vs. IND L 24 13 6 10 60.0 0 0 - 1 3 33.3 0 2 2 0 0 2 3 4 -
+p726
+aVJimmy Oliver BOS 11/22/1993 BOS vs. IND L 12 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 1 0 0 3 0 -
+p727
+aVRick Fox BOS 11/22/1993 BOS vs. IND L 16 2 1 4 25.0 0 0 - 0 2 0.0 1 1 2 2 1 0 0 4 -
+p728
+aVDino Radja BOS 11/22/1993 BOS vs. IND L 26 8 4 8 50.0 0 0 - 0 0 - 1 5 6 1 1 0 0 1 -
+p729
+aVChris Corchiani BOS 11/22/1993 BOS vs. IND L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 3 2 0 0 1 -
+p730
+aVAcie Earl BOS 11/22/1993 BOS vs. IND L 19 8 4 5 80.0 0 0 - 0 6 0.0 0 2 2 0 0 1 4 5 -
+p731
+aVSherman Douglas BOS 11/22/1993 BOS vs. IND L 30 2 0 3 0.0 0 1 0.0 2 4 50.0 0 0 0 5 1 0 2 1 -
+p732
+aVEd Pinckney BOS 11/22/1993 BOS vs. IND L 15 4 2 8 25.0 0 0 - 0 0 - 1 4 5 0 2 1 1 2 -
+p733
+aVDee Brown BOS 11/20/1993 BOS @ IND L 40 18 9 18 50.0 0 3 0.0 0 0 - 1 5 6 4 1 0 1 2 -
+p734
+aVRobert Parish BOS 11/20/1993 BOS @ IND L 29 17 4 12 33.3 0 0 - 9 10 90.0 0 6 6 2 1 2 1 5 -
+p735
+aVAcie Earl BOS 11/20/1993 BOS @ IND L 14 2 0 3 0.0 0 0 - 2 4 50.0 1 4 5 1 0 0 0 3 -
+p736
+aVDino Radja BOS 11/20/1993 BOS @ IND L 29 7 3 10 30.0 0 0 - 1 2 50.0 2 4 6 2 1 2 1 5 -
+p737
+aVKevin Gamble BOS 11/20/1993 BOS @ IND L 28 11 5 14 35.7 0 0 - 1 2 50.0 1 1 2 2 0 1 1 1 -
+p738
+aVXavier McDaniel BOS 11/20/1993 BOS @ IND L 24 15 5 12 41.7 1 3 33.3 4 7 57.1 2 1 3 2 0 1 0 4 -
+p739
+aVEd Pinckney BOS 11/20/1993 BOS @ IND L 20 6 1 1 100.0 0 0 - 4 6 66.7 2 3 5 1 0 0 1 0 -
+p740
+aVSherman Douglas BOS 11/20/1993 BOS @ IND L 41 13 4 7 57.1 0 1 0.0 5 9 55.6 0 0 0 10 3 0 3 3 -
+p741
+aVRick Fox BOS 11/20/1993 BOS @ IND L 8 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 3 3 -
+p742
+aVChris Corchiani BOS 11/20/1993 BOS @ IND L 7 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 -
+p743
+aVAcie Earl BOS 11/19/1993 BOS vs. ORL W 21 5 1 5 20.0 0 0 - 3 4 75.0 3 2 5 0 0 3 0 3 -
+p744
+aVXavier McDaniel BOS 11/19/1993 BOS vs. ORL W 26 12 4 11 36.4 0 1 0.0 4 4 100.0 2 4 6 1 1 0 1 2 -
+p745
+aVRick Fox BOS 11/19/1993 BOS vs. ORL W 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -
+p746
+aVDino Radja BOS 11/19/1993 BOS vs. ORL W 31 19 8 11 72.7 0 0 - 3 4 75.0 1 3 4 0 0 1 4 1 -
+p747
+aVRobert Parish BOS 11/19/1993 BOS vs. ORL W 21 16 7 12 58.3 0 0 - 2 2 100.0 3 4 7 1 1 2 3 4 -
+p748
+aVDee Brown BOS 11/19/1993 BOS vs. ORL W 38 18 7 15 46.7 1 1 100.0 3 3 100.0 0 6 6 6 1 0 0 2 -
+p749
+aVEd Pinckney BOS 11/19/1993 BOS vs. ORL W 18 10 5 7 71.4 0 0 - 0 0 - 5 4 9 0 2 1 0 2 -
+p750
+aVKevin Gamble BOS 11/19/1993 BOS vs. ORL W 30 18 9 12 75.0 0 1 0.0 0 0 - 0 3 3 2 1 0 0 2 -
+p751
+aVSherman Douglas BOS 11/19/1993 BOS vs. ORL W 43 13 6 12 50.0 0 2 0.0 1 2 50.0 0 1 1 13 2 1 3 1 -
+p752
+aVChris Corchiani BOS 11/19/1993 BOS vs. ORL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p753
+aVRick Fox BOS 11/17/1993 BOS vs. NJN W 17 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 2 0 1 2 -
+p754
+aVKevin Gamble BOS 11/17/1993 BOS vs. NJN W 25 14 7 17 41.2 0 2 0.0 0 0 - 1 3 4 3 1 0 0 0 -
+p755
+aVXavier McDaniel BOS 11/17/1993 BOS vs. NJN W 23 18 8 12 66.7 0 1 0.0 2 2 100.0 1 1 2 2 3 0 1 4 -
+p756
+aVEd Pinckney BOS 11/17/1993 BOS vs. NJN W 16 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 2 -
+p757
+aVAcie Earl BOS 11/17/1993 BOS vs. NJN W 13 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -
+p758
+aVChris Corchiani BOS 11/17/1993 BOS vs. NJN W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p759
+aVDee Brown BOS 11/17/1993 BOS vs. NJN W 31 4 2 9 22.2 0 2 0.0 0 0 - 0 5 5 4 2 1 2 3 -
+p760
+aVDino Radja BOS 11/17/1993 BOS vs. NJN W 32 24 10 17 58.8 0 0 - 4 5 80.0 3 4 7 0 3 2 2 1 -
+p761
+aVSherman Douglas BOS 11/17/1993 BOS vs. NJN W 42 9 3 8 37.5 1 3 33.3 2 4 50.0 0 1 1 14 1 0 3 2 -
+p762
+aVRobert Parish BOS 11/17/1993 BOS vs. NJN W 35 26 12 14 85.7 0 0 - 2 5 40.0 4 8 12 2 0 4 2 3 -
+p763
+aVRobert Parish BOS 11/13/1993 BOS @ CHI W 24 4 2 5 40.0 0 0 - 0 0 - 0 6 6 1 0 3 0 1 -
+p764
+aVKevin Gamble BOS 11/13/1993 BOS @ CHI W 27 14 7 13 53.8 0 0 - 0 0 - 2 3 5 2 1 0 1 3 -
+p765
+aVAcie Earl BOS 11/13/1993 BOS @ CHI W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -
+p766
+aVRick Fox BOS 11/13/1993 BOS @ CHI W 15 7 3 7 42.9 0 0 - 1 2 50.0 0 0 0 0 0 1 1 3 -
+p767
+aVEd Pinckney BOS 11/13/1993 BOS @ CHI W 28 10 3 7 42.9 0 0 - 4 4 100.0 1 3 4 1 2 0 0 0 -
+p768
+aVXavier McDaniel BOS 11/13/1993 BOS @ CHI W 26 10 5 8 62.5 0 0 - 0 1 0.0 1 5 6 3 1 0 2 1 -
+p769
+aVChris Corchiani BOS 11/13/1993 BOS @ CHI W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 1 1 0 -
+p770
+aVDino Radja BOS 11/13/1993 BOS @ CHI W 31 18 7 11 63.6 0 0 - 4 6 66.7 2 4 6 2 3 2 0 4 -
+p771
+aVSherman Douglas BOS 11/13/1993 BOS @ CHI W 36 19 8 13 61.5 0 0 - 3 3 100.0 0 0 0 6 2 0 4 2 -
+p772
+aVDee Brown BOS 11/13/1993 BOS @ CHI W 33 12 4 8 50.0 0 0 - 4 4 100.0 1 5 6 2 1 0 2 1 -
+p773
+aVRobert Parish BOS 11/12/1993 BOS vs. CHH L 27 11 5 12 41.7 0 0 - 1 2 50.0 3 2 5 3 0 2 0 4 -
+p774
+aVKevin Gamble BOS 11/12/1993 BOS vs. CHH L 28 17 6 12 50.0 0 1 0.0 5 7 71.4 0 2 2 2 2 0 2 2 -
+p775
+aVDee Brown BOS 11/12/1993 BOS vs. CHH L 38 12 6 13 46.2 0 1 0.0 0 1 0.0 0 2 2 4 2 2 2 6 -
+p776
+aVRick Fox BOS 11/12/1993 BOS vs. CHH L 13 6 3 8 37.5 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -
+p777
+aVDino Radja BOS 11/12/1993 BOS vs. CHH L 30 21 10 19 52.6 0 0 - 1 3 33.3 3 8 11 1 1 1 1 2 -
+p778
+aVSherman Douglas BOS 11/12/1993 BOS vs. CHH L 40 16 8 13 61.5 0 0 - 0 0 - 2 3 5 14 1 0 1 4 -
+p779
+aVEd Pinckney BOS 11/12/1993 BOS vs. CHH L 11 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -
+p780
+aVXavier McDaniel BOS 11/12/1993 BOS vs. CHH L 24 5 2 11 18.2 0 1 0.0 1 2 50.0 2 1 3 1 1 1 1 3 -
+p781
+aVAcie Earl BOS 11/12/1993 BOS vs. CHH L 21 12 4 7 57.1 0 0 - 4 4 100.0 2 3 5 0 0 1 0 4 -
+p782
+aVJimmy Oliver BOS 11/12/1993 BOS vs. CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p783
+aVChris Corchiani BOS 11/12/1993 BOS vs. CHH L 7 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -
+p784
+aVEd Pinckney BOS 11/10/1993 BOS @ PHL W 19 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 1 2 1 3 2 -
+p785
+aVDee Brown BOS 11/10/1993 BOS @ PHL W 36 8 4 9 44.4 0 0 - 0 0 - 2 3 5 3 3 1 1 2 -
+p786
+aVSherman Douglas BOS 11/10/1993 BOS @ PHL W 41 16 6 13 46.2 1 1 100.0 3 6 50.0 2 2 4 9 1 0 6 1 -
+p787
+aVXavier McDaniel BOS 11/10/1993 BOS @ PHL W 22 17 8 10 80.0 1 1 100.0 0 0 - 3 2 5 1 2 1 1 4 -
+p788
+aVRobert Parish BOS 11/10/1993 BOS @ PHL W 33 11 5 11 45.5 0 0 - 1 2 50.0 2 5 7 2 1 2 2 1 -
+p789
+aVKevin Gamble BOS 11/10/1993 BOS @ PHL W 29 17 8 16 50.0 0 1 0.0 1 2 50.0 2 1 3 3 1 0 1 1 -
+p790
+aVRick Fox BOS 11/10/1993 BOS @ PHL W 12 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 2 0 1 3 -
+p791
+aVDino Radja BOS 11/10/1993 BOS @ PHL W 26 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 2 1 2 1 2 -
+p792
+aVChris Corchiani BOS 11/10/1993 BOS @ PHL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p793
+aVAcie Earl BOS 11/10/1993 BOS @ PHL W 15 6 3 12 25.0 0 0 - 0 0 - 2 2 4 1 0 0 0 4 -
+p794
+aVXavier McDaniel BOS 11/08/1993 BOS vs. MIL W 20 4 1 4 25.0 0 0 - 2 2 100.0 1 7 8 2 0 0 1 0 -
+p795
+aVMatt Wenstrom BOS 11/08/1993 BOS vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p796
+aVRobert Parish BOS 11/08/1993 BOS vs. MIL W 25 18 7 10 70.0 0 0 - 4 5 80.0 2 1 3 3 0 2 3 3 -
+p797
+aVEd Pinckney BOS 11/08/1993 BOS vs. MIL W 18 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 4 0 2 3 -
+p798
+aVDee Brown BOS 11/08/1993 BOS vs. MIL W 31 11 5 11 45.5 0 0 - 1 1 100.0 0 5 5 6 3 0 2 2 -
+p799
+aVKevin Gamble BOS 11/08/1993 BOS vs. MIL W 28 10 4 10 40.0 0 2 0.0 2 2 100.0 0 1 1 5 0 0 0 1 -
+p800
+aVAcie Earl BOS 11/08/1993 BOS vs. MIL W 22 10 3 6 50.0 0 0 - 4 4 100.0 1 3 4 0 0 1 1 5 -
+p801
+aVRick Fox BOS 11/08/1993 BOS vs. MIL W 17 12 4 7 57.1 0 0 - 4 4 100.0 2 3 5 1 0 2 1 3 -
+p802
+aVChris Corchiani BOS 11/08/1993 BOS vs. MIL W 11 7 1 1 100.0 1 1 100.0 4 4 100.0 0 0 0 1 1 0 1 0 -
+p803
+aVDino Radja BOS 11/08/1993 BOS vs. MIL W 30 15 6 10 60.0 0 0 - 3 5 60.0 1 4 5 4 0 0 1 3 -
+p804
+aVSherman Douglas BOS 11/08/1993 BOS vs. MIL W 37 19 8 14 57.1 1 1 100.0 2 4 50.0 0 1 1 3 2 0 4 1 -
+p805
+aVDino Radja BOS 11/06/1993 BOS @ WAS W 32 14 7 12 58.3 0 0 - 0 0 - 3 9 12 1 0 2 1 2 -
+p806
+aVKevin Gamble BOS 11/06/1993 BOS @ WAS W 29 18 8 17 47.1 0 1 0.0 2 2 100.0 0 4 4 4 1 0 0 1 -
+p807
+aVJimmy Oliver BOS 11/06/1993 BOS @ WAS W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p808
+aVEd Pinckney BOS 11/06/1993 BOS @ WAS W 16 1 0 1 0.0 0 0 - 1 2 50.0 1 5 6 2 0 0 0 3 -
+p809
+aVChris Corchiani BOS 11/06/1993 BOS @ WAS W 12 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 4 1 0 0 3 -
+p810
+aVSherman Douglas BOS 11/06/1993 BOS @ WAS W 36 14 7 13 53.8 0 0 - 0 0 - 0 1 1 11 4 0 5 1 -
+p811
+aVMatt Wenstrom BOS 11/06/1993 BOS @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p812
+aVRick Fox BOS 11/06/1993 BOS @ WAS W 14 6 3 6 50.0 0 0 - 0 0 - 1 1 2 3 1 0 2 3 -
+p813
+aVRobert Parish BOS 11/06/1993 BOS @ WAS W 22 10 4 8 50.0 0 0 - 2 2 100.0 2 3 5 1 0 2 0 2 -
+p814
+aVAcie Earl BOS 11/06/1993 BOS @ WAS W 25 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 2 2 1 -
+p815
+aVDee Brown BOS 11/06/1993 BOS @ WAS W 34 17 8 15 53.3 0 0 - 1 2 50.0 0 4 4 2 3 2 1 1 -
+p816
+aVXavier McDaniel BOS 11/06/1993 BOS @ WAS W 18 12 6 10 60.0 0 1 0.0 0 0 - 1 3 4 1 0 0 1 2 -
+p817
+aVXavier McDaniel BOS 11/05/1993 BOS vs. NYK L 23 15 6 12 50.0 1 2 50.0 2 2 100.0 2 1 3 2 1 0 1 3 -
+p818
+aVAcie Earl BOS 11/05/1993 BOS vs. NYK L 19 15 6 10 60.0 0 0 - 3 3 100.0 0 4 4 0 1 0 2 6 -
+p819
+aVSherman Douglas BOS 11/05/1993 BOS vs. NYK L 39 7 3 8 37.5 1 1 100.0 0 0 - 1 0 1 8 3 0 3 3 -
+p820
+aVKevin Gamble BOS 11/05/1993 BOS vs. NYK L 26 16 6 10 60.0 0 1 0.0 4 6 66.7 0 3 3 2 0 0 1 3 -
+p821
+aVRobert Parish BOS 11/05/1993 BOS vs. NYK L 29 20 8 15 53.3 0 0 - 4 5 80.0 2 5 7 0 1 2 1 2 -
+p822
+aVDino Radja BOS 11/05/1993 BOS vs. NYK L 25 15 7 11 63.6 0 0 - 1 1 100.0 3 5 8 3 0 1 2 5 -
+p823
+aVRick Fox BOS 11/05/1993 BOS vs. NYK L 15 4 1 1 100.0 0 0 - 2 3 66.7 0 3 3 1 2 1 2 2 -
+p824
+aVDee Brown BOS 11/05/1993 BOS vs. NYK L 33 14 6 11 54.5 0 2 0.0 2 2 100.0 2 2 4 2 1 2 2 1 -
+p825
+aVEd Pinckney BOS 11/05/1993 BOS vs. NYK L 22 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -
+p826
+aVChris Corchiani BOS 11/05/1993 BOS vs. NYK L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -
+p827
+a.

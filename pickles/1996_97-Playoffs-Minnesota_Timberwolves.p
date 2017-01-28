@@ -1,0 +1,60 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJames Robinson MIN 04/29/1997 MIN vs. HOU L 11 11 4 7 57.1 3 6 50.0 0 0 - 1 1 2 2 1 0 0 2 8
+p2
+aVKevin Garnett MIN 04/29/1997 MIN vs. HOU L 39 17 7 16 43.8 0 0 - 3 3 100.0 4 3 7 6 0 1 1 2 -8
+p3
+aVDean Garrett MIN 04/29/1997 MIN vs. HOU L 44 26 11 17 64.7 0 0 - 4 5 80.0 12 3 15 0 0 0 0 2 -2
+p4
+aVSam Mitchell MIN 04/29/1997 MIN vs. HOU L 19 9 4 6 66.7 0 0 - 1 1 100.0 0 1 1 0 1 0 0 1 -4
+p5
+aVStephon Marbury MIN 04/29/1997 MIN vs. HOU L 37 14 6 21 28.6 0 4 0.0 2 2 100.0 1 2 3 13 0 0 2 5 -8
+p6
+aVDoug West MIN 04/29/1997 MIN vs. HOU L 29 16 5 8 62.5 0 0 - 6 6 100.0 0 2 2 2 1 0 0 3 -1
+p7
+aVTom Gugliotta MIN 04/29/1997 MIN vs. HOU L 40 27 10 19 52.6 3 4 75.0 4 6 66.7 0 10 10 4 3 0 4 5 -3
+p8
+aVTerry Porter MIN 04/29/1997 MIN vs. HOU L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 1 1 0 -7
+p9
+aVTerry Porter MIN 04/26/1997 MIN @ HOU L 18 13 4 8 50.0 2 6 33.3 3 4 75.0 1 1 2 3 2 1 0 1 5
+p10
+aVDoug West MIN 04/26/1997 MIN @ HOU L 35 13 6 10 60.0 0 2 0.0 1 1 100.0 0 1 1 3 0 0 1 4 -18
+p11
+aVTom Gugliotta MIN 04/26/1997 MIN @ HOU L 42 17 8 21 38.1 0 0 - 1 2 50.0 2 1 3 5 3 2 1 4 -19
+p12
+aVDean Garrett MIN 04/26/1997 MIN @ HOU L 41 4 1 5 20.0 0 0 - 2 2 100.0 6 8 14 3 2 2 1 4 -9
+p13
+aVKevin Garnett MIN 04/26/1997 MIN @ HOU L 45 14 7 14 50.0 0 0 - 0 0 - 4 8 12 1 3 1 3 2 -14
+p14
+aVSam Mitchell MIN 04/26/1997 MIN @ HOU L 11 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 5 7
+p15
+aVShane Heal MIN 04/26/1997 MIN @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p16
+aVStephon Marbury MIN 04/26/1997 MIN @ HOU L 45 22 10 25 40.0 2 7 28.6 0 2 0.0 1 4 5 6 1 0 7 2 -12
+p17
+aVStojko Vrankovic MIN 04/24/1997 MIN @ HOU L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p18
+aVShane Heal MIN 04/24/1997 MIN @ HOU L 1 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 0 2
+p19
+aVChris Carr MIN 04/24/1997 MIN @ HOU L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 0 -3
+p20
+aVStephon Marbury MIN 04/24/1997 MIN @ HOU L 34 28 10 19 52.6 4 9 44.4 4 6 66.7 0 4 4 4 1 0 0 2 -21
+p21
+aVDoug West MIN 04/24/1997 MIN @ HOU L 23 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 1 1 0 4 -15
+p22
+aVKevin Garnett MIN 04/24/1997 MIN @ HOU L 39 21 10 21 47.6 1 1 100.0 0 0 - 6 3 9 4 1 1 0 2 -14
+p23
+aVTerry Porter MIN 04/24/1997 MIN @ HOU L 10 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 3 0 0 1 1 4
+p24
+aVTom Gugliotta MIN 04/24/1997 MIN @ HOU L 38 11 5 12 41.7 0 0 - 1 2 50.0 0 3 3 4 1 0 1 4 -18
+p25
+aVCherokee Parks MIN 04/24/1997 MIN @ HOU L 11 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 1 0 0 5 -3
+p26
+aVSam Mitchell MIN 04/24/1997 MIN @ HOU L 16 7 2 5 40.0 0 0 - 3 5 60.0 1 3 4 0 0 1 1 3 -2
+p27
+aVDean Garrett MIN 04/24/1997 MIN @ HOU L 30 8 3 7 42.9 0 0 - 2 3 66.7 1 5 6 1 0 1 0 5 -8
+p28
+aVJames Robinson MIN 04/24/1997 MIN @ HOU L 19 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 1 0 1 2 -1
+p29
+a.

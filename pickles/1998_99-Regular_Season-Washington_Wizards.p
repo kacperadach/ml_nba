@@ -1,0 +1,1034 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJeff McInnis WAS 05/05/1999 WAS @ ATL L 5 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 3 1 0 0 0 3
+p2
+aVOtis Thorpe WAS 05/05/1999 WAS @ ATL L 28 17 6 9 66.7 0 0 - 5 5 100.0 1 4 5 0 1 0 2 4 -16
+p3
+aVJahidi White WAS 05/05/1999 WAS @ ATL L 26 8 3 6 50.0 0 0 - 2 7 28.6 6 4 10 0 0 2 3 1 8
+p4
+aVTim Legler WAS 05/05/1999 WAS @ ATL L 26 13 5 8 62.5 3 4 75.0 0 0 - 0 2 2 0 0 0 0 2 4
+p5
+aVJohn Coker WAS 05/05/1999 WAS @ ATL L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 5
+p6
+aVRandell Jackson WAS 05/05/1999 WAS @ ATL L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 3
+p7
+aVChris Whitney WAS 05/05/1999 WAS @ ATL L 15 10 4 7 57.1 2 5 40.0 0 0 - 0 1 1 3 0 0 0 1 3
+p8
+aVMitch Richmond WAS 05/05/1999 WAS @ ATL L 32 10 1 11 9.1 0 3 0.0 8 10 80.0 2 2 4 1 1 1 2 0 -17
+p9
+aVBen Wallace WAS 05/05/1999 WAS @ ATL L 35 3 1 3 33.3 0 0 - 1 1 100.0 2 7 9 0 2 1 1 2 -13
+p10
+aVRod Strickland WAS 05/05/1999 WAS @ ATL L 29 15 7 13 53.8 1 3 33.3 0 0 - 0 0 0 6 0 0 5 2 -18
+p11
+aVCalbert Cheaney WAS 05/05/1999 WAS @ ATL L 32 9 4 13 30.8 0 1 0.0 1 2 50.0 1 2 3 0 0 0 0 3 -2
+p12
+aVOtis Thorpe WAS 05/03/1999 WAS vs. NJN W 40 22 10 14 71.4 0 0 - 2 2 100.0 4 7 11 3 1 2 2 2 2
+p13
+aVTim Legler WAS 05/03/1999 WAS vs. NJN W 23 7 3 7 42.9 0 2 0.0 1 1 100.0 0 2 2 1 0 1 1 2 21
+p14
+aVRod Strickland WAS 05/03/1999 WAS vs. NJN W 37 24 8 15 53.3 1 1 100.0 7 10 70.0 2 3 5 13 1 0 5 2 4
+p15
+aVCalbert Cheaney WAS 05/03/1999 WAS vs. NJN W 34 9 4 7 57.1 0 0 - 1 2 50.0 0 3 3 2 1 2 1 3 -3
+p16
+aVChris Whitney WAS 05/03/1999 WAS vs. NJN W 13 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 2 0 0 4 2 9
+p17
+aVJahidi White WAS 05/03/1999 WAS vs. NJN W 19 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 0 1 2 4 16
+p18
+aVBen Wallace WAS 05/03/1999 WAS vs. NJN W 37 17 8 11 72.7 0 0 - 1 3 33.3 2 7 9 0 1 3 0 0 4
+p19
+aVMitch Richmond WAS 05/03/1999 WAS vs. NJN W 37 24 8 19 42.1 2 6 33.3 6 8 75.0 2 5 7 4 4 2 3 1 2
+p20
+aVOtis Thorpe WAS 05/01/1999 WAS @ NJN L 33 8 4 9 44.4 0 0 - 0 0 - 2 4 6 3 0 0 3 5 -20
+p21
+aVJahidi White WAS 05/01/1999 WAS @ NJN L 19 3 1 3 33.3 0 0 - 1 1 100.0 3 3 6 0 0 1 2 2 9
+p22
+aVBen Wallace WAS 05/01/1999 WAS @ NJN L 42 3 1 9 11.1 0 0 - 1 2 50.0 4 5 9 2 1 6 0 2 -8
+p23
+aVCalbert Cheaney WAS 05/01/1999 WAS @ NJN L 32 8 4 8 50.0 0 0 - 0 5 0.0 1 3 4 3 1 0 2 3 -16
+p24
+aVRod Strickland WAS 05/01/1999 WAS @ NJN L 34 27 11 20 55.0 1 2 50.0 4 5 80.0 1 3 4 3 0 0 1 4 7
+p25
+aVChris Whitney WAS 05/01/1999 WAS @ NJN L 15 5 2 5 40.0 1 4 25.0 0 0 - 0 3 3 2 0 0 1 4 -21
+p26
+aVMitch Richmond WAS 05/01/1999 WAS @ NJN L 44 34 11 25 44.0 1 4 25.0 11 11 100.0 1 6 7 4 1 0 0 0 3
+p27
+aVTim Legler WAS 05/01/1999 WAS @ NJN L 20 3 1 3 33.3 1 2 50.0 0 2 0.0 1 3 4 1 0 0 1 4 -9
+p28
+aVChris Whitney WAS 04/29/1999 WAS vs. CLE W 18 13 4 9 44.4 2 6 33.3 3 3 100.0 0 3 3 3 1 0 1 1 25
+p29
+aVBen Wallace WAS 04/29/1999 WAS vs. CLE W 42 20 9 9 100.0 0 0 - 2 3 66.7 4 6 10 1 1 0 3 3 10
+p30
+aVMitch Richmond WAS 04/29/1999 WAS vs. CLE W 35 13 6 15 40.0 1 3 33.3 0 0 - 1 3 4 2 0 0 3 3 1
+p31
+aVTim Legler WAS 04/29/1999 WAS vs. CLE W 24 10 4 5 80.0 2 2 100.0 0 0 - 0 1 1 4 1 0 1 1 21
+p32
+aVRod Strickland WAS 04/29/1999 WAS vs. CLE W 30 6 2 11 18.2 0 0 - 2 4 50.0 0 2 2 11 1 0 2 5 -14
+p33
+aVRandell Jackson WAS 04/29/1999 WAS vs. CLE W 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 6
+p34
+aVOtis Thorpe WAS 04/29/1999 WAS vs. CLE W 34 20 9 10 90.0 0 0 - 2 4 50.0 2 3 5 2 0 0 1 4 1
+p35
+aVJahidi White WAS 04/29/1999 WAS vs. CLE W 16 8 3 6 50.0 0 0 - 2 6 33.3 2 2 4 0 0 1 0 1 4
+p36
+aVCalbert Cheaney WAS 04/29/1999 WAS vs. CLE W 37 6 2 8 25.0 0 1 0.0 2 2 100.0 1 5 6 4 1 0 3 4 1
+p37
+aVBen Wallace WAS 04/28/1999 WAS @ ORL L 37 9 3 6 50.0 0 0 - 3 8 37.5 4 9 13 5 2 1 1 5 -2
+p38
+aVOtis Thorpe WAS 04/28/1999 WAS @ ORL L 42 16 8 14 57.1 0 0 - 0 0 - 0 3 3 5 2 0 5 3 -10
+p39
+aVCalbert Cheaney WAS 04/28/1999 WAS @ ORL L 40 19 8 18 44.4 1 2 50.0 2 2 100.0 1 3 4 3 2 0 1 4 -7
+p40
+aVChris Whitney WAS 04/28/1999 WAS @ ORL L 11 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 2 2 0 2 1 -4
+p41
+aVMitch Richmond WAS 04/28/1999 WAS @ ORL L 42 16 5 15 33.3 1 4 25.0 5 6 83.3 1 2 3 2 3 0 3 3 -9
+p42
+aVRod Strickland WAS 04/28/1999 WAS @ ORL L 37 15 6 17 35.3 0 0 - 3 7 42.9 5 5 10 11 2 0 0 3 -1
+p43
+aVJohn Coker WAS 04/28/1999 WAS @ ORL L 14 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 4 -4
+p44
+aVJahidi White WAS 04/28/1999 WAS @ ORL L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p45
+aVTim Legler WAS 04/28/1999 WAS @ ORL L 14 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 3 2
+p46
+aVBen Wallace WAS 04/26/1999 WAS @ MIL L 40 14 6 8 75.0 0 0 - 2 8 25.0 8 6 14 2 1 3 2 2 -6
+p47
+aVChris Whitney WAS 04/26/1999 WAS @ MIL L 11 10 4 7 57.1 2 4 50.0 0 0 - 0 3 3 1 3 1 1 3 -1
+p48
+aVTim Legler WAS 04/26/1999 WAS @ MIL L 29 12 5 10 50.0 2 7 28.6 0 0 - 0 4 4 3 0 1 1 3 -8
+p49
+aVCalbert Cheaney WAS 04/26/1999 WAS @ MIL L 31 11 5 11 45.5 1 3 33.3 0 0 - 0 4 4 2 0 1 2 3 1
+p50
+aVMitch Richmond WAS 04/26/1999 WAS @ MIL L 39 10 4 16 25.0 0 6 0.0 2 2 100.0 0 2 2 2 1 0 1 2 -8
+p51
+aVOtis Thorpe WAS 04/26/1999 WAS @ MIL L 39 18 7 11 63.6 0 0 - 4 6 66.7 4 2 6 5 0 0 1 5 -7
+p52
+aVRod Strickland WAS 04/26/1999 WAS @ MIL L 39 14 5 15 33.3 0 0 - 4 6 66.7 0 6 6 8 2 0 3 2 -8
+p53
+aVJahidi White WAS 04/26/1999 WAS @ MIL L 12 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -3
+p54
+aVTim Legler WAS 04/25/1999 WAS @ BOS L 20 7 3 7 42.9 1 2 50.0 0 0 - 1 3 4 2 0 0 1 1 -13
+p55
+aVBen Wallace WAS 04/25/1999 WAS @ BOS L 34 7 3 10 30.0 0 0 - 1 5 20.0 6 6 12 0 2 2 1 1 -15
+p56
+aVJeff McInnis WAS 04/25/1999 WAS @ BOS L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 4 0 -8
+p57
+aVChris Whitney WAS 04/25/1999 WAS @ BOS L 21 9 4 9 44.4 1 5 20.0 0 0 - 0 1 1 4 1 0 1 1 -1
+p58
+aVJohn Coker WAS 04/25/1999 WAS @ BOS L 11 3 1 4 25.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 0 -13
+p59
+aVRod Strickland WAS 04/25/1999 WAS @ BOS L 35 14 5 9 55.6 0 1 0.0 4 5 80.0 1 7 8 8 1 0 6 2 -18
+p60
+aVJahidi White WAS 04/25/1999 WAS @ BOS L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 3 -4
+p61
+aVRandell Jackson WAS 04/25/1999 WAS @ BOS L 17 5 2 7 28.6 0 0 - 1 2 50.0 2 1 3 0 0 0 3 1 -14
+p62
+aVCalbert Cheaney WAS 04/25/1999 WAS @ BOS L 17 6 3 9 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -12
+p63
+aVOtis Thorpe WAS 04/25/1999 WAS @ BOS L 33 15 6 11 54.5 0 0 - 3 4 75.0 1 5 6 1 1 0 6 4 -20
+p64
+aVMitch Richmond WAS 04/25/1999 WAS @ BOS L 35 18 7 18 38.9 2 5 40.0 2 2 100.0 1 3 4 3 3 0 0 1 -27
+p65
+aVMitch Richmond WAS 04/23/1999 WAS vs. ATL L 40 19 7 16 43.8 0 1 0.0 5 5 100.0 0 5 5 3 1 0 3 3 -5
+p66
+aVRod Strickland WAS 04/23/1999 WAS vs. ATL L 38 10 5 14 35.7 0 1 0.0 0 0 - 3 4 7 11 2 0 2 1 -2
+p67
+aVJeff McInnis WAS 04/23/1999 WAS vs. ATL L 10 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -9
+p68
+aVBen Wallace WAS 04/23/1999 WAS vs. ATL L 38 12 5 7 71.4 0 0 - 2 5 40.0 4 8 12 1 0 1 6 2 3
+p69
+aVTracy Murray WAS 04/23/1999 WAS vs. ATL L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -13
+p70
+aVTim Legler WAS 04/23/1999 WAS vs. ATL L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -10
+p71
+aVJohn Coker WAS 04/23/1999 WAS vs. ATL L 17 8 4 9 44.4 0 0 - 0 1 0.0 2 2 4 0 0 0 0 2 -19
+p72
+aVCalbert Cheaney WAS 04/23/1999 WAS vs. ATL L 37 10 5 11 45.5 0 0 - 0 0 - 1 3 4 4 2 0 2 5 8
+p73
+aVJahidi White WAS 04/23/1999 WAS vs. ATL L 14 9 3 4 75.0 0 0 - 3 4 75.0 0 2 2 0 0 2 0 6 5
+p74
+aVOtis Thorpe WAS 04/23/1999 WAS vs. ATL L 27 6 3 10 30.0 0 0 - 0 0 - 1 6 7 2 0 0 1 3 -11
+p75
+aVRandell Jackson WAS 04/23/1999 WAS vs. ATL L 3 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p76
+aVBen Wallace WAS 04/21/1999 WAS vs. TOR L 39 16 8 10 80.0 0 0 - 0 2 0.0 8 4 12 0 1 2 3 2 -3
+p77
+aVJeff McInnis WAS 04/21/1999 WAS vs. TOR L 10 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -13
+p78
+aVRandell Jackson WAS 04/21/1999 WAS vs. TOR L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p79
+aVMitch Richmond WAS 04/21/1999 WAS vs. TOR L 39 15 5 15 33.3 1 4 25.0 4 4 100.0 1 4 5 5 2 0 2 4 -3
+p80
+aVOtis Thorpe WAS 04/21/1999 WAS vs. TOR L 29 13 6 13 46.2 0 0 - 1 2 50.0 1 2 3 1 0 0 2 3 -16
+p81
+aVJahidi White WAS 04/21/1999 WAS vs. TOR L 19 3 1 2 50.0 0 0 - 1 5 20.0 0 3 3 0 0 1 1 3 -12
+p82
+aVRod Strickland WAS 04/21/1999 WAS vs. TOR L 39 21 8 16 50.0 1 1 100.0 4 4 100.0 2 6 8 9 1 0 3 4 -5
+p83
+aVCalbert Cheaney WAS 04/21/1999 WAS vs. TOR L 29 8 4 12 33.3 0 0 - 0 0 - 1 4 5 2 1 0 2 4 -11
+p84
+aVTracy Murray WAS 04/21/1999 WAS vs. TOR L 27 9 3 9 33.3 1 2 50.0 2 2 100.0 2 3 5 1 1 0 2 3 -6
+p85
+aVTim Legler WAS 04/21/1999 WAS vs. TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p86
+aVJahidi White WAS 04/20/1999 WAS @ CHI L 6 3 0 0 - 0 0 - 3 4 75.0 2 3 5 1 0 0 0 2 0
+p87
+aVTim Legler WAS 04/20/1999 WAS @ CHI L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 0
+p88
+aVMitch Richmond WAS 04/20/1999 WAS @ CHI L 40 12 4 12 33.3 0 3 0.0 4 5 80.0 0 4 4 1 1 0 6 5 -4
+p89
+aVOtis Thorpe WAS 04/20/1999 WAS @ CHI L 37 6 2 11 18.2 0 0 - 2 2 100.0 4 5 9 2 2 0 2 4 -9
+p90
+aVChris Whitney WAS 04/20/1999 WAS @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p91
+aVBen Wallace WAS 04/20/1999 WAS @ CHI L 39 11 4 5 80.0 0 0 - 3 6 50.0 6 3 9 1 1 5 0 3 -2
+p92
+aVRandell Jackson WAS 04/20/1999 WAS @ CHI L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 3 2 -2
+p93
+aVRod Strickland WAS 04/20/1999 WAS @ CHI L 41 16 6 19 31.6 0 1 0.0 4 6 66.7 2 5 7 8 3 0 4 3 -6
+p94
+aVTracy Murray WAS 04/20/1999 WAS @ CHI L 25 13 4 10 40.0 3 7 42.9 2 2 100.0 0 5 5 0 0 0 0 2 -1
+p95
+aVCalbert Cheaney WAS 04/20/1999 WAS @ CHI L 27 10 5 12 41.7 0 1 0.0 0 0 - 0 3 3 3 1 0 0 3 -6
+p96
+aVJeff McInnis WAS 04/20/1999 WAS @ CHI L 7 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 0
+p97
+aVCalbert Cheaney WAS 04/18/1999 WAS vs. BOS L 34 6 2 7 28.6 0 0 - 2 2 100.0 1 0 1 3 2 0 2 4 -6
+p98
+aVJeff McInnis WAS 04/18/1999 WAS vs. BOS L 11 2 1 6 16.7 0 0 - 0 0 - 2 0 2 2 0 0 0 1 11
+p99
+aVTim Legler WAS 04/18/1999 WAS vs. BOS L 14 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 2 17
+p100
+aVMitch Richmond WAS 04/18/1999 WAS vs. BOS L 33 17 5 12 41.7 1 2 50.0 6 7 85.7 0 1 1 1 0 1 1 4 -18
+p101
+aVOtis Thorpe WAS 04/18/1999 WAS vs. BOS L 38 10 5 14 35.7 0 0 - 0 2 0.0 2 6 8 4 2 1 6 5 -8
+p102
+aVJohn Coker WAS 04/18/1999 WAS vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p103
+aVTracy Murray WAS 04/18/1999 WAS vs. BOS L 25 8 2 7 28.6 0 0 - 4 4 100.0 1 3 4 1 1 0 2 4 1
+p104
+aVChris Whitney WAS 04/18/1999 WAS vs. BOS L 11 11 3 6 50.0 3 4 75.0 2 2 100.0 0 1 1 0 1 0 1 2 7
+p105
+aVRod Strickland WAS 04/18/1999 WAS vs. BOS L 41 31 9 15 60.0 0 1 0.0 13 15 86.7 1 5 6 12 3 0 4 1 -11
+p106
+aVBen Wallace WAS 04/18/1999 WAS vs. BOS L 30 6 3 3 100.0 0 0 - 0 6 0.0 4 10 14 0 0 2 0 3 -7
+p107
+aVJeff McInnis WAS 04/16/1999 WAS vs. CHI W 17 8 3 7 42.9 0 2 0.0 2 2 100.0 0 0 0 3 0 0 2 1 -12
+p108
+aVJohn Coker WAS 04/16/1999 WAS vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p109
+aVBen Wallace WAS 04/16/1999 WAS vs. CHI W 38 4 2 5 40.0 0 0 - 0 0 - 3 12 15 0 2 0 0 2 15
+p110
+aVTim Legler WAS 04/16/1999 WAS vs. CHI W 20 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 1 0 0 0 1
+p111
+aVMitch Richmond WAS 04/16/1999 WAS vs. CHI W 28 12 4 11 36.4 1 5 20.0 3 4 75.0 0 3 3 1 0 0 2 1 16
+p112
+aVTracy Murray WAS 04/16/1999 WAS vs. CHI W 21 10 4 10 40.0 1 3 33.3 1 1 100.0 0 3 3 0 0 0 1 1 7
+p113
+aVRod Strickland WAS 04/16/1999 WAS vs. CHI W 31 13 4 9 44.4 0 0 - 5 5 100.0 0 5 5 13 4 0 5 2 29
+p114
+aVRandell Jackson WAS 04/16/1999 WAS vs. CHI W 18 12 6 8 75.0 0 0 - 0 3 0.0 1 5 6 0 0 2 3 0 -4
+p115
+aVCalbert Cheaney WAS 04/16/1999 WAS vs. CHI W 27 6 3 10 30.0 0 0 - 0 0 - 1 4 5 1 1 0 1 5 10
+p116
+aVOtis Thorpe WAS 04/16/1999 WAS vs. CHI W 36 16 8 16 50.0 0 0 - 0 0 - 1 11 12 3 1 2 0 4 30
+p117
+aVBen Wallace WAS 04/14/1999 WAS vs. NYK W 45 9 3 5 60.0 0 0 - 3 10 30.0 7 7 14 2 0 4 1 2 18
+p118
+aVJohn Coker WAS 04/14/1999 WAS vs. NYK W 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 0
+p119
+aVOtis Thorpe WAS 04/14/1999 WAS vs. NYK W 45 18 8 13 61.5 0 0 - 2 2 100.0 1 8 9 4 1 0 1 4 8
+p120
+aVRandell Jackson WAS 04/14/1999 WAS vs. NYK W 14 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -9
+p121
+aVCalbert Cheaney WAS 04/14/1999 WAS vs. NYK W 38 13 6 14 42.9 0 0 - 1 2 50.0 2 3 5 1 1 0 3 4 -5
+p122
+aVTracy Murray WAS 04/14/1999 WAS vs. NYK W 28 13 6 11 54.5 1 4 25.0 0 0 - 2 3 5 0 2 1 1 2 12
+p123
+aVMitch Richmond WAS 04/14/1999 WAS vs. NYK W 35 17 5 15 33.3 2 6 33.3 5 7 71.4 1 2 3 1 0 0 3 1 0
+p124
+aVJeff McInnis WAS 04/14/1999 WAS vs. NYK W 8 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 1 0 0 1 -9
+p125
+aVRod Strickland WAS 04/14/1999 WAS vs. NYK W 45 18 7 17 41.2 0 2 0.0 4 7 57.1 0 1 1 12 2 0 1 1 15
+p126
+aVRandell Jackson WAS 04/13/1999 WAS @ CLE L 23 8 3 11 27.3 0 1 0.0 2 2 100.0 4 2 6 0 0 1 1 3 -23
+p127
+aVOtis Thorpe WAS 04/13/1999 WAS @ CLE L 33 13 6 8 75.0 0 0 - 1 1 100.0 3 4 7 2 2 0 4 6 -7
+p128
+aVTracy Murray WAS 04/13/1999 WAS @ CLE L 13 2 1 4 25.0 0 3 0.0 0 0 - 1 2 3 0 1 0 0 0 1
+p129
+aVChris Whitney WAS 04/13/1999 WAS @ CLE L 6 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 0 0 -2
+p130
+aVTerry Davis WAS 04/13/1999 WAS @ CLE L 10 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 0 0 1 1 -4
+p131
+aVBen Wallace WAS 04/13/1999 WAS @ CLE L 38 10 5 9 55.6 0 0 - 0 1 0.0 3 9 12 0 2 6 0 4 -3
+p132
+aVRod Strickland WAS 04/13/1999 WAS @ CLE L 42 19 6 13 46.2 0 2 0.0 7 10 70.0 1 2 3 7 0 0 6 0 -7
+p133
+aVCalbert Cheaney WAS 04/13/1999 WAS @ CLE L 23 4 2 6 33.3 0 2 0.0 0 1 0.0 1 2 3 2 1 0 0 2 7
+p134
+aVJohn Coker WAS 04/13/1999 WAS @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p135
+aVTim Legler WAS 04/13/1999 WAS @ CLE L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p136
+aVMitch Richmond WAS 04/13/1999 WAS @ CLE L 40 17 5 16 31.3 2 5 40.0 5 6 83.3 0 3 3 1 1 0 3 3 -13
+p137
+aVCalbert Cheaney WAS 04/11/1999 WAS vs. PHI W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p138
+aVOtis Thorpe WAS 04/11/1999 WAS vs. PHI W 42 18 7 12 58.3 0 0 - 4 6 66.7 5 7 12 3 1 0 0 5 12
+p139
+aVRandell Jackson WAS 04/11/1999 WAS vs. PHI W 17 11 5 9 55.6 0 0 - 1 2 50.0 4 1 5 0 0 0 2 1 13
+p140
+aVChris Whitney WAS 04/11/1999 WAS vs. PHI W 9 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 2 1 -1
+p141
+aVJeff McInnis WAS 04/11/1999 WAS vs. PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p142
+aVJohn Coker WAS 04/11/1999 WAS vs. PHI W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p143
+aVTim Legler WAS 04/11/1999 WAS vs. PHI W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p144
+aVRod Strickland WAS 04/11/1999 WAS vs. PHI W 36 19 7 15 46.7 1 2 50.0 4 4 100.0 0 3 3 7 2 0 5 5 11
+p145
+aVBen Wallace WAS 04/11/1999 WAS vs. PHI W 27 10 4 5 80.0 0 0 - 2 4 50.0 3 5 8 0 1 4 0 3 8
+p146
+aVMitch Richmond WAS 04/11/1999 WAS vs. PHI W 41 24 7 15 46.7 3 5 60.0 7 7 100.0 0 3 3 4 0 0 1 1 13
+p147
+aVTerry Davis WAS 04/11/1999 WAS vs. PHI W 19 2 1 2 50.0 0 0 - 0 2 0.0 2 7 9 2 1 0 3 0 10
+p148
+aVJuwan Howard WAS 04/11/1999 WAS vs. PHI W 32 12 4 9 44.4 0 0 - 4 5 80.0 0 2 2 1 0 0 3 3 -5
+p149
+aVRod Strickland WAS 04/09/1999 WAS @ CHH L 43 25 11 20 55.0 0 1 0.0 3 3 100.0 0 6 6 12 2 0 3 1 0
+p150
+aVJeff McInnis WAS 04/09/1999 WAS @ CHH L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -2
+p151
+aVMitch Richmond WAS 04/09/1999 WAS @ CHH L 39 5 2 14 14.3 0 2 0.0 1 2 50.0 0 6 6 3 0 0 3 2 0
+p152
+aVJuwan Howard WAS 04/09/1999 WAS @ CHH L 40 18 7 16 43.8 0 0 - 4 4 100.0 4 8 12 5 1 0 3 1 -6
+p153
+aVJohn Coker WAS 04/09/1999 WAS @ CHH L 15 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 2 0 5 3
+p154
+aVOtis Thorpe WAS 04/09/1999 WAS @ CHH L 39 20 10 13 76.9 0 0 - 0 0 - 3 5 8 1 0 0 0 3 3
+p155
+aVTerry Davis WAS 04/09/1999 WAS @ CHH L 22 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 1 0 0 5 -9
+p156
+aVTim Legler WAS 04/09/1999 WAS @ CHH L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 1
+p157
+aVRandell Jackson WAS 04/09/1999 WAS @ CHH L 12 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 8
+p158
+aVCalbert Cheaney WAS 04/09/1999 WAS @ CHH L 13 8 4 5 80.0 0 0 - 0 2 0.0 1 1 2 1 0 2 1 4 -8
+p159
+aVOtis Thorpe WAS 04/07/1999 WAS @ BOS L 35 17 7 11 63.6 0 0 - 3 4 75.0 3 8 11 3 0 0 4 3 -12
+p160
+aVRandell Jackson WAS 04/07/1999 WAS @ BOS L 6 5 1 1 100.0 0 0 - 3 3 100.0 2 0 2 1 0 1 0 1 2
+p161
+aVMitch Richmond WAS 04/07/1999 WAS @ BOS L 32 19 7 14 50.0 2 6 33.3 3 6 50.0 0 3 3 3 1 0 3 0 -16
+p162
+aVJohn Coker WAS 04/07/1999 WAS @ BOS L 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 0 0
+p163
+aVRod Strickland WAS 04/07/1999 WAS @ BOS L 30 8 2 7 28.6 0 1 0.0 4 6 66.7 1 0 1 6 3 0 2 0 -11
+p164
+aVJuwan Howard WAS 04/07/1999 WAS @ BOS L 36 17 6 16 37.5 0 0 - 5 8 62.5 0 4 4 1 1 0 4 2 -21
+p165
+aVTim Legler WAS 04/07/1999 WAS @ BOS L 19 8 4 8 50.0 0 1 0.0 0 0 - 2 1 3 1 1 0 1 1 -10
+p166
+aVJeff McInnis WAS 04/07/1999 WAS @ BOS L 18 3 1 6 16.7 1 2 50.0 0 0 - 0 3 3 3 1 0 3 1 -10
+p167
+aVTerry Davis WAS 04/07/1999 WAS @ BOS L 22 6 3 4 75.0 0 0 - 0 0 - 3 3 6 2 0 0 1 2 -11
+p168
+aVCalbert Cheaney WAS 04/07/1999 WAS @ BOS L 23 2 1 6 16.7 0 2 0.0 0 0 - 1 4 5 0 1 0 2 4 -11
+p169
+aVChris Whitney WAS 04/07/1999 WAS @ BOS L 14 2 0 6 0.0 0 5 0.0 2 2 100.0 1 3 4 0 2 0 1 0 -5
+p170
+aVTim Legler WAS 04/06/1999 WAS vs. NJN L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 0 1
+p171
+aVJuwan Howard WAS 04/06/1999 WAS vs. NJN L 42 27 13 19 68.4 0 0 - 1 1 100.0 2 5 7 6 2 1 3 4 -6
+p172
+aVRod Strickland WAS 04/06/1999 WAS vs. NJN L 40 14 7 17 41.2 0 3 0.0 0 0 - 2 2 4 14 4 0 3 5 -2
+p173
+aVOtis Thorpe WAS 04/06/1999 WAS vs. NJN L 32 6 3 8 37.5 0 0 - 0 0 - 2 5 7 4 0 2 0 4 -7
+p174
+aVJeff McInnis WAS 04/06/1999 WAS vs. NJN L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 2 0 1 3 -4
+p175
+aVMitch Richmond WAS 04/06/1999 WAS vs. NJN L 40 14 5 17 29.4 3 9 33.3 1 2 50.0 0 6 6 1 1 0 6 4 -10
+p176
+aVCalbert Cheaney WAS 04/06/1999 WAS vs. NJN L 28 16 8 12 66.7 0 0 - 0 0 - 0 2 2 1 0 0 1 2 9
+p177
+aVBen Wallace WAS 04/06/1999 WAS vs. NJN L 27 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 1 5 0 1 1
+p178
+aVTerry Davis WAS 04/06/1999 WAS vs. NJN L 11 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 0 -2
+p179
+aVChris Whitney WAS 04/04/1999 WAS vs. MIA L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 6
+p180
+aVRod Strickland WAS 04/04/1999 WAS vs. MIA L 39 18 6 13 46.2 2 3 66.7 4 8 50.0 3 4 7 8 1 0 4 3 -15
+p181
+aVTerry Davis WAS 04/04/1999 WAS vs. MIA L 13 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 5 -2
+p182
+aVCalbert Cheaney WAS 04/04/1999 WAS vs. MIA L 30 2 1 7 14.3 0 1 0.0 0 0 - 0 4 4 1 1 0 0 1 -16
+p183
+aVBen Wallace WAS 04/04/1999 WAS vs. MIA L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -10
+p184
+aVJeff McInnis WAS 04/04/1999 WAS vs. MIA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -1
+p185
+aVTim Legler WAS 04/04/1999 WAS vs. MIA L 16 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 13
+p186
+aVJuwan Howard WAS 04/04/1999 WAS vs. MIA L 41 20 8 11 72.7 0 0 - 4 4 100.0 2 3 5 1 1 2 4 3 -13
+p187
+aVMitch Richmond WAS 04/04/1999 WAS vs. MIA L 42 16 3 15 20.0 1 1 100.0 9 11 81.8 1 3 4 1 1 0 2 3 -15
+p188
+aVRandell Jackson WAS 04/04/1999 WAS vs. MIA L 1 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 0 1
+p189
+aVOtis Thorpe WAS 04/04/1999 WAS vs. MIA L 35 12 6 9 66.7 0 0 - 0 5 0.0 0 5 5 1 2 0 3 5 -4
+p190
+aVJohn Coker WAS 04/04/1999 WAS vs. MIA L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p191
+aVCalbert Cheaney WAS 04/03/1999 WAS @ TOR L 27 10 5 10 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 2 15
+p192
+aVBen Wallace WAS 04/03/1999 WAS @ TOR L 28 2 0 4 0.0 0 0 - 2 4 50.0 2 7 9 1 1 3 3 3 -5
+p193
+aVOtis Thorpe WAS 04/03/1999 WAS @ TOR L 35 4 2 5 40.0 0 0 - 0 0 - 3 8 11 4 2 2 2 3 -4
+p194
+aVMitch Richmond WAS 04/03/1999 WAS @ TOR L 41 28 8 21 38.1 2 10 20.0 10 11 90.9 1 3 4 3 2 2 4 3 -8
+p195
+aVTim Legler WAS 04/03/1999 WAS @ TOR L 9 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p196
+aVChris Whitney WAS 04/03/1999 WAS @ TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p197
+aVRod Strickland WAS 04/03/1999 WAS @ TOR L 41 16 5 12 41.7 0 1 0.0 6 10 60.0 2 3 5 5 1 2 3 2 0
+p198
+aVJuwan Howard WAS 04/03/1999 WAS @ TOR L 40 12 5 16 31.3 0 0 - 2 2 100.0 3 7 10 5 2 0 2 5 -9
+p199
+aVTerry Davis WAS 04/03/1999 WAS @ TOR L 12 10 4 6 66.7 0 0 - 2 3 66.7 0 0 0 0 0 0 0 5 1
+p200
+aVJeff McInnis WAS 04/03/1999 WAS @ TOR L 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -2
+p201
+aVTracy Murray WAS 03/31/1999 WAS vs. ORL W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p202
+aVCalbert Cheaney WAS 03/31/1999 WAS vs. ORL W 31 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 1 1 1 3 4 -1
+p203
+aVTerry Davis WAS 03/31/1999 WAS vs. ORL W 20 12 6 6 100.0 0 0 - 0 1 0.0 0 4 4 0 0 0 1 2 13
+p204
+aVJuwan Howard WAS 03/31/1999 WAS vs. ORL W 44 20 8 18 44.4 0 0 - 4 4 100.0 0 6 6 7 0 1 3 4 16
+p205
+aVJeff McInnis WAS 03/31/1999 WAS vs. ORL W 9 6 1 1 100.0 0 0 - 4 4 100.0 0 0 0 1 2 0 0 1 2
+p206
+aVOtis Thorpe WAS 03/31/1999 WAS vs. ORL W 26 2 1 8 12.5 0 0 - 0 0 - 1 8 9 3 0 1 2 2 7
+p207
+aVTim Legler WAS 03/31/1999 WAS vs. ORL W 6 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 1
+p208
+aVMitch Richmond WAS 03/31/1999 WAS vs. ORL W 32 16 5 12 41.7 2 4 50.0 4 4 100.0 0 2 2 3 3 0 1 5 10
+p209
+aVBen Wallace WAS 03/31/1999 WAS vs. ORL W 21 2 1 4 25.0 0 0 - 0 0 - 4 0 4 0 2 2 1 1 2
+p210
+aVRod Strickland WAS 03/31/1999 WAS vs. ORL W 39 11 4 7 57.1 0 0 - 3 4 75.0 1 0 1 9 0 0 3 2 9
+p211
+aVJuwan Howard WAS 03/30/1999 WAS @ MIL L 35 12 6 16 37.5 0 0 - 0 0 - 3 2 5 3 0 0 1 5 -13
+p212
+aVTerry Davis WAS 03/30/1999 WAS @ MIL L 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 2
+p213
+aVCalbert Cheaney WAS 03/30/1999 WAS @ MIL L 22 10 4 10 40.0 0 1 0.0 2 2 100.0 1 0 1 3 2 0 0 1 14
+p214
+aVOtis Thorpe WAS 03/30/1999 WAS @ MIL L 28 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 1 0 2 2 -18
+p215
+aVTracy Murray WAS 03/30/1999 WAS @ MIL L 26 20 7 9 77.8 4 4 100.0 2 2 100.0 1 2 3 1 0 0 1 4 5
+p216
+aVTim Legler WAS 03/30/1999 WAS @ MIL L 10 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 9
+p217
+aVBen Wallace WAS 03/30/1999 WAS @ MIL L 19 4 2 2 100.0 0 0 - 0 1 0.0 2 2 4 0 2 2 1 0 3
+p218
+aVJeff McInnis WAS 03/30/1999 WAS @ MIL L 12 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 6
+p219
+aVRod Strickland WAS 03/30/1999 WAS @ MIL L 36 17 8 16 50.0 1 3 33.3 0 1 0.0 0 7 7 12 0 0 3 4 -8
+p220
+aVMitch Richmond WAS 03/30/1999 WAS @ MIL L 38 23 8 18 44.4 4 10 40.0 3 3 100.0 1 6 7 1 3 1 2 3 -10
+p221
+aVTracy Murray WAS 03/27/1999 WAS @ DEN W 25 16 6 11 54.5 3 5 60.0 1 2 50.0 0 6 6 1 2 0 0 1 2
+p222
+aVRod Strickland WAS 03/27/1999 WAS @ DEN W 32 14 5 13 38.5 1 1 100.0 3 4 75.0 2 1 3 11 0 0 2 1 1
+p223
+aVTim Legler WAS 03/27/1999 WAS @ DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p224
+aVBen Wallace WAS 03/27/1999 WAS @ DEN W 29 6 3 4 75.0 0 0 - 0 0 - 3 7 10 0 3 1 1 5 13
+p225
+aVChris Whitney WAS 03/27/1999 WAS @ DEN W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 7
+p226
+aVJeff McInnis WAS 03/27/1999 WAS @ DEN W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 5 0 0 0 0 4
+p227
+aVOtis Thorpe WAS 03/27/1999 WAS @ DEN W 35 18 8 12 66.7 0 0 - 2 2 100.0 1 3 4 3 1 0 0 6 10
+p228
+aVJuwan Howard WAS 03/27/1999 WAS @ DEN W 31 27 10 15 66.7 0 0 - 7 10 70.0 0 7 7 2 1 0 2 5 15
+p229
+aVMitch Richmond WAS 03/27/1999 WAS @ DEN W 38 29 9 15 60.0 0 2 0.0 11 11 100.0 0 0 0 3 0 0 1 3 16
+p230
+aVCalbert Cheaney WAS 03/27/1999 WAS @ DEN W 20 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 4
+p231
+aVTerry Davis WAS 03/27/1999 WAS @ DEN W 10 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -4
+p232
+aVMitch Richmond WAS 03/26/1999 WAS @ GSW L 44 24 6 19 31.6 3 8 37.5 9 10 90.0 0 1 1 1 4 0 2 4 -5
+p233
+aVTim Legler WAS 03/26/1999 WAS @ GSW L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p234
+aVJeff McInnis WAS 03/26/1999 WAS @ GSW L 4 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 1
+p235
+aVBen Wallace WAS 03/26/1999 WAS @ GSW L 20 9 3 5 60.0 0 0 - 3 8 37.5 2 5 7 0 0 2 0 5 4
+p236
+aVOtis Thorpe WAS 03/26/1999 WAS @ GSW L 42 19 8 12 66.7 0 0 - 3 5 60.0 3 4 7 1 1 0 2 6 -2
+p237
+aVTracy Murray WAS 03/26/1999 WAS @ GSW L 17 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 1 0 0 1 2 -2
+p238
+aVCalbert Cheaney WAS 03/26/1999 WAS @ GSW L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 3
+p239
+aVRod Strickland WAS 03/26/1999 WAS @ GSW L 44 16 7 14 50.0 0 0 - 2 6 33.3 3 2 5 12 2 0 4 1 -5
+p240
+aVJuwan Howard WAS 03/26/1999 WAS @ GSW L 42 23 10 17 58.8 0 0 - 3 4 75.0 1 7 8 4 3 0 4 4 -6
+p241
+aVTerry Davis WAS 03/26/1999 WAS @ GSW L 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -9
+p242
+aVTerry Davis WAS 03/24/1999 WAS @ SEA W 10 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -8
+p243
+aVBen Wallace WAS 03/24/1999 WAS @ SEA W 22 6 3 5 60.0 0 0 - 0 0 - 4 5 9 0 3 3 1 2 1
+p244
+aVOtis Thorpe WAS 03/24/1999 WAS @ SEA W 34 18 7 9 77.8 0 0 - 4 5 80.0 1 3 4 2 1 0 2 5 8
+p245
+aVRod Strickland WAS 03/24/1999 WAS @ SEA W 41 10 3 15 20.0 1 2 50.0 3 6 50.0 1 3 4 14 1 0 5 3 14
+p246
+aVMitch Richmond WAS 03/24/1999 WAS @ SEA W 45 30 11 22 50.0 4 9 44.4 4 5 80.0 1 4 5 2 2 0 1 2 -1
+p247
+aVJeff McInnis WAS 03/24/1999 WAS @ SEA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -10
+p248
+aVTracy Murray WAS 03/24/1999 WAS @ SEA W 13 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 0 0 1 1 10
+p249
+aVCalbert Cheaney WAS 03/24/1999 WAS @ SEA W 26 11 5 7 71.4 0 0 - 1 5 20.0 2 1 3 1 1 0 0 3 3
+p250
+aVJuwan Howard WAS 03/24/1999 WAS @ SEA W 42 13 6 13 46.2 0 0 - 1 3 33.3 2 4 6 3 1 1 2 4 3
+p251
+aVTim Legler WAS 03/22/1999 WAS @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p252
+aVCalbert Cheaney WAS 03/22/1999 WAS @ IND L 22 0 0 3 0.0 0 0 - 0 2 0.0 0 2 2 2 0 1 3 4 -3
+p253
+aVRod Strickland WAS 03/22/1999 WAS @ IND L 41 14 6 15 40.0 0 0 - 2 2 100.0 0 4 4 7 1 1 2 3 -8
+p254
+aVBen Wallace WAS 03/22/1999 WAS @ IND L 29 8 3 4 75.0 0 0 - 2 9 22.2 5 9 14 1 1 3 1 2 0
+p255
+aVOtis Thorpe WAS 03/22/1999 WAS @ IND L 38 14 5 10 50.0 0 0 - 4 4 100.0 3 6 9 2 0 0 3 6 -6
+p256
+aVTracy Murray WAS 03/22/1999 WAS @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p257
+aVJuwan Howard WAS 03/22/1999 WAS @ IND L 41 13 6 20 30.0 0 0 - 1 2 50.0 4 7 11 3 0 0 3 1 -9
+p258
+aVTerry Davis WAS 03/22/1999 WAS @ IND L 16 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 2
+p259
+aVMitch Richmond WAS 03/22/1999 WAS @ IND L 43 35 14 22 63.6 1 6 16.7 6 6 100.0 0 5 5 2 0 0 3 3 2
+p260
+aVJeff McInnis WAS 03/22/1999 WAS @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 4
+p261
+aVOtis Thorpe WAS 03/20/1999 WAS vs. CLE W 35 17 7 12 58.3 0 0 - 3 4 75.0 1 4 5 2 1 0 0 4 33
+p262
+aVCalbert Cheaney WAS 03/20/1999 WAS vs. CLE W 17 10 4 5 80.0 0 0 - 2 2 100.0 1 2 3 1 1 0 0 3 0
+p263
+aVJuwan Howard WAS 03/20/1999 WAS vs. CLE W 41 28 12 17 70.6 0 1 0.0 4 6 66.7 4 11 15 4 1 0 1 4 32
+p264
+aVJohn Coker WAS 03/20/1999 WAS vs. CLE W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p265
+aVTim Legler WAS 03/20/1999 WAS vs. CLE W 15 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 3 0 0 2 2 -1
+p266
+aVJeff McInnis WAS 03/20/1999 WAS vs. CLE W 8 5 2 5 40.0 1 1 100.0 0 0 - 2 0 2 0 1 0 1 0 2
+p267
+aVMitch Richmond WAS 03/20/1999 WAS vs. CLE W 36 29 10 17 58.8 5 7 71.4 4 4 100.0 1 4 5 4 0 0 3 2 25
+p268
+aVBen Wallace WAS 03/20/1999 WAS vs. CLE W 22 2 0 1 0.0 0 0 - 2 2 100.0 2 6 8 0 0 2 0 3 9
+p269
+aVChris Whitney WAS 03/20/1999 WAS vs. CLE W 4 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 -6
+p270
+aVRod Strickland WAS 03/20/1999 WAS vs. CLE W 38 8 3 11 27.3 0 0 - 2 4 50.0 0 3 3 16 6 0 1 2 35
+p271
+aVTerry Davis WAS 03/20/1999 WAS vs. CLE W 21 7 3 7 42.9 0 0 - 1 3 33.3 2 1 3 0 1 0 0 3 20
+p272
+aVTracy Murray WAS 03/18/1999 WAS vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p273
+aVBen Wallace WAS 03/18/1999 WAS vs. UTA L 21 1 0 0 - 0 0 - 1 6 16.7 3 6 9 0 0 3 0 2 5
+p274
+aVRod Strickland WAS 03/18/1999 WAS vs. UTA L 37 21 8 15 53.3 2 2 100.0 3 4 75.0 3 3 6 11 0 0 2 2 4
+p275
+aVOtis Thorpe WAS 03/18/1999 WAS vs. UTA L 37 11 4 11 36.4 0 1 0.0 3 4 75.0 5 7 12 0 2 1 2 5 -21
+p276
+aVCalbert Cheaney WAS 03/18/1999 WAS vs. UTA L 33 12 6 15 40.0 0 4 0.0 0 0 - 2 1 3 3 2 1 0 4 6
+p277
+aVJuwan Howard WAS 03/18/1999 WAS vs. UTA L 44 20 9 22 40.9 0 0 - 2 2 100.0 1 4 5 5 1 0 0 4 -2
+p278
+aVJohn Coker WAS 03/18/1999 WAS vs. UTA L 5 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p279
+aVChris Whitney WAS 03/18/1999 WAS vs. UTA L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -4
+p280
+aVMitch Richmond WAS 03/18/1999 WAS vs. UTA L 39 13 4 17 23.5 2 5 40.0 3 5 60.0 2 0 2 4 0 0 4 3 -7
+p281
+aVJeff McInnis WAS 03/18/1999 WAS vs. UTA L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p282
+aVTerry Davis WAS 03/18/1999 WAS vs. UTA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p283
+aVTim Legler WAS 03/18/1999 WAS vs. UTA L 7 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 4 5
+p284
+aVBen Wallace WAS 03/16/1999 WAS @ MIA L 21 3 1 3 33.3 0 0 - 1 3 33.3 2 5 7 0 0 0 0 4 6
+p285
+aVTracy Murray WAS 03/16/1999 WAS @ MIA L 18 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -2
+p286
+aVTerry Davis WAS 03/16/1999 WAS @ MIA L 12 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -14
+p287
+aVCalbert Cheaney WAS 03/16/1999 WAS @ MIA L 25 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 5 -2
+p288
+aVChris Whitney WAS 03/16/1999 WAS @ MIA L 25 12 4 7 57.1 2 4 50.0 2 2 100.0 0 2 2 6 0 0 1 2 -1
+p289
+aVJuwan Howard WAS 03/16/1999 WAS @ MIA L 42 18 9 16 56.3 0 0 - 0 0 - 6 9 15 1 2 1 4 5 -14
+p290
+aVMitch Richmond WAS 03/16/1999 WAS @ MIA L 42 22 6 18 33.3 2 5 40.0 8 13 61.5 1 1 2 2 3 1 3 3 -6
+p291
+aVOtis Thorpe WAS 03/16/1999 WAS @ MIA L 34 14 6 11 54.5 0 0 - 2 2 100.0 4 2 6 2 0 1 3 6 -4
+p292
+aVJeff McInnis WAS 03/16/1999 WAS @ MIA L 23 6 3 10 30.0 0 4 0.0 0 0 - 0 1 1 3 0 1 1 1 -8
+p293
+aVOtis Thorpe WAS 03/14/1999 WAS vs. MIL W 25 10 5 11 45.5 0 0 - 0 0 - 3 4 7 1 0 0 2 2 -6
+p294
+aVCalbert Cheaney WAS 03/14/1999 WAS vs. MIL W 22 7 3 12 25.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 4 -1
+p295
+aVChris Whitney WAS 03/14/1999 WAS vs. MIL W 27 9 3 7 42.9 3 4 75.0 0 0 - 1 1 2 5 0 0 1 4 22
+p296
+aVTerry Davis WAS 03/14/1999 WAS vs. MIL W 12 3 1 2 50.0 0 0 - 1 1 100.0 2 1 3 0 0 0 0 0 -4
+p297
+aVMitch Richmond WAS 03/14/1999 WAS vs. MIL W 36 23 8 18 44.4 3 6 50.0 4 4 100.0 1 4 5 5 2 0 2 0 10
+p298
+aVBen Wallace WAS 03/14/1999 WAS vs. MIL W 33 9 3 6 50.0 0 0 - 3 6 50.0 5 8 13 0 3 2 1 1 21
+p299
+aVTracy Murray WAS 03/14/1999 WAS vs. MIL W 20 10 3 10 30.0 1 6 16.7 3 4 75.0 0 3 3 3 1 1 0 2 19
+p300
+aVJuwan Howard WAS 03/14/1999 WAS vs. MIL W 45 20 8 18 44.4 0 0 - 4 4 100.0 5 6 11 7 3 0 2 4 9
+p301
+aVJeff McInnis WAS 03/14/1999 WAS vs. MIL W 21 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 3 0 0 0 1 -10
+p302
+aVTerry Davis WAS 03/12/1999 WAS vs. CHH L 16 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 0 0 0 0 1 2
+p303
+aVOtis Thorpe WAS 03/12/1999 WAS vs. CHH L 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 2 4 -5
+p304
+aVJeff McInnis WAS 03/12/1999 WAS vs. CHH L 38 9 3 8 37.5 0 1 0.0 3 4 75.0 0 0 0 6 2 0 4 5 -1
+p305
+aVJuwan Howard WAS 03/12/1999 WAS vs. CHH L 43 12 5 13 38.5 0 0 - 2 3 66.7 4 9 13 3 2 1 4 4 -9
+p306
+aVChris Whitney WAS 03/12/1999 WAS vs. CHH L 10 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 2 0 0 2 2 -8
+p307
+aVBen Wallace WAS 03/12/1999 WAS vs. CHH L 21 10 4 4 100.0 0 0 - 2 4 50.0 4 8 12 1 0 1 1 2 1
+p308
+aVCalbert Cheaney WAS 03/12/1999 WAS vs. CHH L 37 22 9 14 64.3 0 1 0.0 4 7 57.1 2 2 4 3 0 1 0 4 -5
+p309
+aVMitch Richmond WAS 03/12/1999 WAS vs. CHH L 39 19 6 17 35.3 2 5 40.0 5 5 100.0 0 4 4 1 2 0 7 1 -8
+p310
+aVTracy Murray WAS 03/12/1999 WAS vs. CHH L 20 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 2 2 0 0 3 -12
+p311
+aVJuwan Howard WAS 03/11/1999 WAS @ NYK L 35 18 7 16 43.8 0 1 0.0 4 6 66.7 2 3 5 1 0 0 3 4 -19
+p312
+aVChris Whitney WAS 03/11/1999 WAS @ NYK L 20 12 3 6 50.0 2 5 40.0 4 4 100.0 0 2 2 2 1 0 0 1 -4
+p313
+aVOtis Thorpe WAS 03/11/1999 WAS @ NYK L 26 8 4 6 66.7 0 0 - 0 0 - 2 3 5 1 0 0 0 1 -5
+p314
+aVBen Wallace WAS 03/11/1999 WAS @ NYK L 23 4 2 4 50.0 0 0 - 0 2 0.0 2 5 7 0 0 0 2 3 -2
+p315
+aVMitch Richmond WAS 03/11/1999 WAS @ NYK L 34 26 5 13 38.5 2 3 66.7 14 14 100.0 0 0 0 1 0 0 3 2 -10
+p316
+aVTracy Murray WAS 03/11/1999 WAS @ NYK L 22 5 2 6 33.3 1 4 25.0 0 0 - 1 1 2 0 1 0 0 2 -8
+p317
+aVRandell Jackson WAS 03/11/1999 WAS @ NYK L 13 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 1 2 4 1
+p318
+aVCalbert Cheaney WAS 03/11/1999 WAS @ NYK L 19 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 2 0 1 1 1 -6
+p319
+aVTerry Davis WAS 03/11/1999 WAS @ NYK L 10 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 2 0 0 1 0
+p320
+aVJeff McInnis WAS 03/11/1999 WAS @ NYK L 34 5 2 7 28.6 1 4 25.0 0 0 - 1 2 3 10 1 0 3 2 -6
+p321
+aVJahidi White WAS 03/11/1999 WAS @ NYK L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 0 -1
+p322
+aVMitch Richmond WAS 03/10/1999 WAS vs. DET W 38 18 6 13 46.2 2 3 66.7 4 4 100.0 0 5 5 3 1 0 2 0 11
+p323
+aVTracy Murray WAS 03/10/1999 WAS vs. DET W 15 4 2 4 50.0 0 0 - 0 1 0.0 0 1 1 4 2 0 1 3 15
+p324
+aVJuwan Howard WAS 03/10/1999 WAS vs. DET W 42 22 9 19 47.4 0 0 - 4 4 100.0 2 9 11 6 1 0 2 4 11
+p325
+aVCalbert Cheaney WAS 03/10/1999 WAS vs. DET W 22 12 6 9 66.7 0 0 - 0 2 0.0 0 1 1 2 0 1 2 4 1
+p326
+aVChris Whitney WAS 03/10/1999 WAS vs. DET W 12 7 3 8 37.5 1 5 20.0 0 0 - 0 1 1 1 0 0 4 1 -1
+p327
+aVOtis Thorpe WAS 03/10/1999 WAS vs. DET W 31 6 3 6 50.0 0 0 - 0 0 - 0 7 7 2 1 0 2 6 17
+p328
+aVRandell Jackson WAS 03/10/1999 WAS vs. DET W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p329
+aVBen Wallace WAS 03/10/1999 WAS vs. DET W 22 3 1 3 33.3 0 0 - 1 2 50.0 3 6 9 0 0 2 0 2 14
+p330
+aVJeff McInnis WAS 03/10/1999 WAS vs. DET W 37 19 8 10 80.0 3 3 100.0 0 0 - 0 0 0 5 2 0 1 1 6
+p331
+aVJahidi White WAS 03/10/1999 WAS vs. DET W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p332
+aVTerry Davis WAS 03/10/1999 WAS vs. DET W 19 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 2 3 -14
+p333
+aVTerry Davis WAS 03/08/1999 WAS @ DET L 19 4 2 6 33.3 0 0 - 0 0 - 4 1 5 0 0 0 0 2 2
+p334
+aVChris Whitney WAS 03/08/1999 WAS @ DET L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p335
+aVMitch Richmond WAS 03/08/1999 WAS @ DET L 38 22 8 14 57.1 0 3 0.0 6 6 100.0 0 1 1 2 1 0 3 2 -6
+p336
+aVJeff McInnis WAS 03/08/1999 WAS @ DET L 39 10 4 12 33.3 0 2 0.0 2 4 50.0 0 0 0 8 2 0 6 3 -6
+p337
+aVOtis Thorpe WAS 03/08/1999 WAS @ DET L 40 9 4 8 50.0 0 0 - 1 4 25.0 6 11 17 3 1 0 2 4 -4
+p338
+aVTracy Murray WAS 03/08/1999 WAS @ DET L 13 3 1 6 16.7 1 3 33.3 0 0 - 1 1 2 2 0 0 2 2 2
+p339
+aVCalbert Cheaney WAS 03/08/1999 WAS @ DET L 22 6 3 9 33.3 0 1 0.0 0 0 - 2 5 7 2 2 1 0 4 -4
+p340
+aVBen Wallace WAS 03/08/1999 WAS @ DET L 17 3 1 3 33.3 0 0 - 1 2 50.0 3 4 7 0 3 1 0 3 -3
+p341
+aVJuwan Howard WAS 03/08/1999 WAS @ DET L 44 14 7 17 41.2 0 0 - 0 0 - 2 3 5 4 1 0 2 4 -3
+p342
+aVTerry Davis WAS 03/07/1999 WAS @ PHI W 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 3
+p343
+aVJeff McInnis WAS 03/07/1999 WAS @ PHI W 24 12 4 8 50.0 1 3 33.3 3 4 75.0 0 2 2 4 2 0 1 4 16
+p344
+aVOtis Thorpe WAS 03/07/1999 WAS @ PHI W 40 14 5 7 71.4 0 0 - 4 4 100.0 2 9 11 1 3 0 2 6 0
+p345
+aVMitch Richmond WAS 03/07/1999 WAS @ PHI W 39 22 8 15 53.3 1 4 25.0 5 5 100.0 0 5 5 2 2 1 9 6 12
+p346
+aVTracy Murray WAS 03/07/1999 WAS @ PHI W 19 9 3 8 37.5 1 4 25.0 2 2 100.0 1 2 3 2 0 0 1 3 -5
+p347
+aVBen Wallace WAS 03/07/1999 WAS @ PHI W 21 4 2 2 100.0 0 0 - 0 0 - 2 6 8 0 1 2 0 2 2
+p348
+aVJuwan Howard WAS 03/07/1999 WAS @ PHI W 48 28 8 20 40.0 0 0 - 12 14 85.7 4 4 8 4 2 0 2 4 10
+p349
+aVRod Strickland WAS 03/07/1999 WAS @ PHI W 31 7 2 12 16.7 0 1 0.0 3 3 100.0 2 3 5 7 1 0 5 3 -4
+p350
+aVChris Whitney WAS 03/07/1999 WAS @ PHI W 4 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 8
+p351
+aVCalbert Cheaney WAS 03/07/1999 WAS @ PHI W 23 5 2 7 28.6 0 0 - 1 2 50.0 1 2 3 2 1 0 0 3 -2
+p352
+aVChris Whitney WAS 03/05/1999 WAS vs. CHH W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p353
+aVJuwan Howard WAS 03/05/1999 WAS vs. CHH W 47 26 12 24 50.0 0 0 - 2 3 66.7 4 7 11 1 3 0 2 4 1
+p354
+aVMitch Richmond WAS 03/05/1999 WAS vs. CHH W 43 15 6 16 37.5 1 4 25.0 2 4 50.0 1 3 4 0 2 0 3 1 9
+p355
+aVCalbert Cheaney WAS 03/05/1999 WAS vs. CHH W 35 13 5 11 45.5 0 0 - 3 6 50.0 0 2 2 0 0 1 0 5 -6
+p356
+aVBen Wallace WAS 03/05/1999 WAS vs. CHH W 22 1 0 1 0.0 0 0 - 1 2 50.0 3 4 7 0 1 1 0 4 -2
+p357
+aVRandell Jackson WAS 03/05/1999 WAS vs. CHH W 3 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 0 -2
+p358
+aVRod Strickland WAS 03/05/1999 WAS vs. CHH W 43 25 5 13 38.5 0 0 - 15 16 93.8 0 3 3 15 5 1 3 1 1
+p359
+aVTerry Davis WAS 03/05/1999 WAS vs. CHH W 26 0 0 3 0.0 0 0 - 0 0 - 4 8 12 1 0 0 2 4 3
+p360
+aVTracy Murray WAS 03/05/1999 WAS vs. CHH W 17 4 2 10 20.0 0 5 0.0 0 0 - 0 0 0 1 1 0 1 1 1
+p361
+aVBen Wallace WAS 03/03/1999 WAS vs. IND L 10 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 1 1 0 0 -3
+p362
+aVTerry Davis WAS 03/03/1999 WAS vs. IND L 31 12 4 7 57.1 0 0 - 4 4 100.0 5 2 7 0 1 0 0 2 -1
+p363
+aVJuwan Howard WAS 03/03/1999 WAS vs. IND L 41 26 13 24 54.2 0 0 - 0 0 - 2 4 6 1 1 1 2 4 -17
+p364
+aVRod Strickland WAS 03/03/1999 WAS vs. IND L 38 18 8 14 57.1 0 0 - 2 2 100.0 3 4 7 12 2 0 2 0 1
+p365
+aVCalbert Cheaney WAS 03/03/1999 WAS vs. IND L 14 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 1
+p366
+aVMitch Richmond WAS 03/03/1999 WAS vs. IND L 35 15 6 17 35.3 0 2 0.0 3 6 50.0 0 1 1 4 0 0 4 2 -13
+p367
+aVOtis Thorpe WAS 03/03/1999 WAS vs. IND L 45 2 1 7 14.3 0 0 - 0 0 - 2 7 9 8 1 1 2 4 -6
+p368
+aVChris Whitney WAS 03/03/1999 WAS vs. IND L 10 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 2 0 0 0 2 -12
+p369
+aVTracy Murray WAS 03/03/1999 WAS vs. IND L 16 14 6 10 60.0 2 6 33.3 0 0 - 0 0 0 0 0 0 1 3 -5
+p370
+aVJeff McInnis WAS 03/02/1999 WAS @ ATL W 2 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p371
+aVOtis Thorpe WAS 03/02/1999 WAS @ ATL W 33 9 4 6 66.7 0 0 - 1 3 33.3 0 8 8 1 1 1 2 5 22
+p372
+aVTerry Davis WAS 03/02/1999 WAS @ ATL W 24 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 5 17
+p373
+aVCalbert Cheaney WAS 03/02/1999 WAS @ ATL W 20 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 1 0 0 2 7
+p374
+aVTracy Murray WAS 03/02/1999 WAS @ ATL W 18 8 3 3 100.0 1 1 100.0 1 2 50.0 0 1 1 1 1 0 0 1 -2
+p375
+aVRod Strickland WAS 03/02/1999 WAS @ ATL W 33 18 8 12 66.7 0 0 - 2 3 66.7 1 3 4 11 0 0 6 1 15
+p376
+aVChris Whitney WAS 03/02/1999 WAS @ ATL W 15 6 1 3 33.3 0 2 0.0 4 4 100.0 0 2 2 1 1 0 0 0 5
+p377
+aVJuwan Howard WAS 03/02/1999 WAS @ ATL W 39 20 10 16 62.5 0 0 - 0 0 - 2 6 8 2 1 0 3 3 28
+p378
+aVMitch Richmond WAS 03/02/1999 WAS @ ATL W 36 28 12 19 63.2 2 4 50.0 2 2 100.0 0 3 3 3 0 0 3 1 24
+p379
+aVRandell Jackson WAS 03/02/1999 WAS @ ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p380
+aVBen Wallace WAS 03/02/1999 WAS @ ATL W 17 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 0 0 0 2 3 -10
+p381
+aVJeff McInnis WAS 03/01/1999 WAS vs. PHI L 5 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 0 4
+p382
+aVChris Whitney WAS 03/01/1999 WAS vs. PHI L 15 8 4 6 66.7 0 1 0.0 0 0 - 0 0 0 3 1 0 1 2 -18
+p383
+aVRandell Jackson WAS 03/01/1999 WAS vs. PHI L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p384
+aVJuwan Howard WAS 03/01/1999 WAS vs. PHI L 38 21 7 12 58.3 0 0 - 7 8 87.5 2 6 8 1 0 0 1 3 -7
+p385
+aVMitch Richmond WAS 03/01/1999 WAS vs. PHI L 36 17 4 15 26.7 0 3 0.0 9 9 100.0 0 3 3 3 1 0 5 3 -10
+p386
+aVCalbert Cheaney WAS 03/01/1999 WAS vs. PHI L 22 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 0 0 1 2 4 -5
+p387
+aVTracy Murray WAS 03/01/1999 WAS vs. PHI L 17 2 1 7 14.3 0 2 0.0 0 0 - 0 3 3 1 3 1 2 1 -4
+p388
+aVOtis Thorpe WAS 03/01/1999 WAS vs. PHI L 41 19 7 8 87.5 0 0 - 5 7 71.4 1 7 8 4 3 0 4 2 -11
+p389
+aVJahidi White WAS 03/01/1999 WAS vs. PHI L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -6
+p390
+aVTerry Davis WAS 03/01/1999 WAS vs. PHI L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p391
+aVBen Wallace WAS 03/01/1999 WAS vs. PHI L 25 2 1 3 33.3 0 0 - 0 2 0.0 2 6 8 0 0 1 0 2 -10
+p392
+aVRod Strickland WAS 03/01/1999 WAS vs. PHI L 28 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 8 0 0 2 3 1
+p393
+aVCalbert Cheaney WAS 02/27/1999 WAS vs. POR L 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p394
+aVRod Strickland WAS 02/27/1999 WAS vs. POR L 41 10 5 16 31.3 0 0 - 0 0 - 2 4 6 7 3 0 5 2 1
+p395
+aVTracy Murray WAS 02/27/1999 WAS vs. POR L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p396
+aVOtis Thorpe WAS 02/27/1999 WAS vs. POR L 36 14 6 12 50.0 0 0 - 2 3 66.7 3 5 8 0 1 0 1 6 8
+p397
+aVJuwan Howard WAS 02/27/1999 WAS vs. POR L 46 25 10 19 52.6 0 0 - 5 7 71.4 2 3 5 2 0 1 3 4 1
+p398
+aVBen Wallace WAS 02/27/1999 WAS vs. POR L 16 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -12
+p399
+aVChris Whitney WAS 02/27/1999 WAS vs. POR L 7 7 2 2 100.0 1 1 100.0 2 2 100.0 0 1 1 0 1 0 1 1 -2
+p400
+aVMitch Richmond WAS 02/27/1999 WAS vs. POR L 38 13 4 10 40.0 0 1 0.0 5 5 100.0 0 3 3 4 3 0 3 4 -1
+p401
+aVRandell Jackson WAS 02/27/1999 WAS vs. POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p402
+aVTerry Davis WAS 02/27/1999 WAS vs. POR L 33 6 2 4 50.0 0 0 - 2 2 100.0 0 5 5 1 0 1 1 3 7
+p403
+aVTracy Murray WAS 02/25/1999 WAS vs. SAC L 20 2 1 7 14.3 0 2 0.0 0 0 - 1 2 3 0 0 0 2 0 -7
+p404
+aVRod Strickland WAS 02/25/1999 WAS vs. SAC L 37 14 5 13 38.5 0 0 - 4 8 50.0 1 4 5 14 0 0 3 1 -15
+p405
+aVJuwan Howard WAS 02/25/1999 WAS vs. SAC L 35 17 8 18 44.4 0 0 - 1 2 50.0 5 3 8 4 2 1 1 2 -11
+p406
+aVChris Whitney WAS 02/25/1999 WAS vs. SAC L 10 6 2 4 50.0 2 3 66.7 0 0 - 1 1 2 4 0 0 0 0 5
+p407
+aVMitch Richmond WAS 02/25/1999 WAS vs. SAC L 35 16 5 14 35.7 0 3 0.0 6 7 85.7 1 2 3 2 0 0 4 4 -11
+p408
+aVJeff McInnis WAS 02/25/1999 WAS vs. SAC L 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 2
+p409
+aVCalbert Cheaney WAS 02/25/1999 WAS vs. SAC L 21 7 3 5 60.0 1 1 100.0 0 0 - 0 4 4 1 4 0 1 2 2
+p410
+aVBen Wallace WAS 02/25/1999 WAS vs. SAC L 24 8 3 5 60.0 0 0 - 2 4 50.0 1 1 2 0 2 2 1 3 -8
+p411
+aVOtis Thorpe WAS 02/25/1999 WAS vs. SAC L 21 16 7 11 63.6 0 0 - 2 2 100.0 2 5 7 1 1 1 0 1 -9
+p412
+aVTerry Davis WAS 02/25/1999 WAS vs. SAC L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p413
+aVRandell Jackson WAS 02/25/1999 WAS vs. SAC L 25 17 7 8 87.5 0 0 - 3 4 75.0 1 2 3 1 0 0 1 3 1
+p414
+aVJahidi White WAS 02/25/1999 WAS vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 2
+p415
+aVRandell Jackson WAS 02/23/1999 WAS vs. MIA L 17 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 1 0 1 3 1 -11
+p416
+aVRod Strickland WAS 02/23/1999 WAS vs. MIA L 34 10 3 13 23.1 0 2 0.0 4 4 100.0 0 0 0 8 2 0 0 2 -14
+p417
+aVChris Whitney WAS 02/23/1999 WAS vs. MIA L 15 7 2 4 50.0 2 3 66.7 1 2 50.0 0 1 1 4 0 1 0 3 1
+p418
+aVTracy Murray WAS 02/23/1999 WAS vs. MIA L 16 0 0 5 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -16
+p419
+aVJuwan Howard WAS 02/23/1999 WAS vs. MIA L 35 8 4 12 33.3 0 1 0.0 0 1 0.0 3 7 10 3 1 2 4 2 -13
+p420
+aVJahidi White WAS 02/23/1999 WAS vs. MIA L 7 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 0
+p421
+aVOtis Thorpe WAS 02/23/1999 WAS vs. MIA L 13 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 0 0 0 2 -7
+p422
+aVCalbert Cheaney WAS 02/23/1999 WAS vs. MIA L 28 10 4 10 40.0 2 3 66.7 0 0 - 1 1 2 2 0 0 0 1 6
+p423
+aVTerry Davis WAS 02/23/1999 WAS vs. MIA L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -12
+p424
+aVMitch Richmond WAS 02/23/1999 WAS vs. MIA L 38 25 10 16 62.5 1 3 33.3 4 4 100.0 1 0 1 0 0 0 6 2 -11
+p425
+aVJeff McInnis WAS 02/23/1999 WAS vs. MIA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 0
+p426
+aVBen Wallace WAS 02/23/1999 WAS vs. MIA L 20 2 1 3 33.3 0 0 - 0 0 - 3 10 13 0 1 1 0 4 -3
+p427
+aVTracy Murray WAS 02/21/1999 WAS vs. BOS W 20 0 0 6 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 1 0
+p428
+aVCalbert Cheaney WAS 02/21/1999 WAS vs. BOS W 35 9 3 11 27.3 0 1 0.0 3 6 50.0 1 4 5 1 2 1 1 2 8
+p429
+aVMitch Richmond WAS 02/21/1999 WAS vs. BOS W 36 25 10 17 58.8 0 4 0.0 5 5 100.0 1 2 3 0 0 0 0 4 13
+p430
+aVRod Strickland WAS 02/21/1999 WAS vs. BOS W 38 20 7 14 50.0 0 0 - 6 6 100.0 2 7 9 9 3 0 3 2 26
+p431
+aVJuwan Howard WAS 02/21/1999 WAS vs. BOS W 38 16 4 15 26.7 0 0 - 8 10 80.0 2 6 8 4 1 1 3 5 14
+p432
+aVRandell Jackson WAS 02/21/1999 WAS vs. BOS W 7 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -2
+p433
+aVTerry Davis WAS 02/21/1999 WAS vs. BOS W 13 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 4 7
+p434
+aVChris Whitney WAS 02/21/1999 WAS vs. BOS W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 3 2 -6
+p435
+aVJahidi White WAS 02/21/1999 WAS vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 2 0 -2
+p436
+aVJeff McInnis WAS 02/21/1999 WAS vs. BOS W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p437
+aVOtis Thorpe WAS 02/21/1999 WAS vs. BOS W 16 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 1 2 0 2 3 -1
+p438
+aVBen Wallace WAS 02/21/1999 WAS vs. BOS W 24 1 0 2 0.0 0 0 - 1 4 25.0 1 5 6 0 2 3 1 3 5
+p439
+aVRandell Jackson WAS 02/19/1999 WAS vs. CHI W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -8
+p440
+aVMitch Richmond WAS 02/19/1999 WAS vs. CHI W 34 9 4 10 40.0 0 3 0.0 1 2 50.0 1 0 1 5 0 0 1 3 -11
+p441
+aVTerry Davis WAS 02/19/1999 WAS vs. CHI W 7 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 1 0 0 0 -6
+p442
+aVJahidi White WAS 02/19/1999 WAS vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -3
+p443
+aVJuwan Howard WAS 02/19/1999 WAS vs. CHI W 36 16 7 17 41.2 0 0 - 2 4 50.0 2 5 7 2 1 0 5 5 -13
+p444
+aVOtis Thorpe WAS 02/19/1999 WAS vs. CHI W 14 7 3 4 75.0 0 0 - 1 1 100.0 1 3 4 3 0 0 0 3 13
+p445
+aVChris Whitney WAS 02/19/1999 WAS vs. CHI W 14 6 3 4 75.0 0 1 0.0 0 0 - 1 0 1 3 0 0 1 0 -3
+p446
+aVRod Strickland WAS 02/19/1999 WAS vs. CHI W 37 12 5 16 31.3 0 0 - 2 2 100.0 1 5 6 11 0 1 2 1 10
+p447
+aVTracy Murray WAS 02/19/1999 WAS vs. CHI W 25 13 4 10 40.0 4 7 57.1 1 1 100.0 0 2 2 2 0 0 0 3 7
+p448
+aVBen Wallace WAS 02/19/1999 WAS vs. CHI W 34 13 6 8 75.0 0 0 - 1 1 100.0 1 3 4 0 3 2 0 2 11
+p449
+aVCalbert Cheaney WAS 02/19/1999 WAS vs. CHI W 30 17 8 12 66.7 1 2 50.0 0 0 - 0 4 4 1 1 1 1 4 13
+p450
+aVCalbert Cheaney WAS 02/18/1999 WAS @ TOR W 13 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -1
+p451
+aVTracy Murray WAS 02/18/1999 WAS @ TOR W 24 6 2 7 28.6 0 2 0.0 2 4 50.0 1 4 5 1 0 1 1 4 7
+p452
+aVChris Whitney WAS 02/18/1999 WAS @ TOR W 10 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 5 1
+p453
+aVRandell Jackson WAS 02/18/1999 WAS @ TOR W 15 2 1 6 16.7 0 0 - 0 0 - 2 0 2 1 0 0 1 0 -3
+p454
+aVJahidi White WAS 02/18/1999 WAS @ TOR W 7 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 1 0 4 -3
+p455
+aVJuwan Howard WAS 02/18/1999 WAS @ TOR W 40 14 5 17 29.4 0 0 - 4 6 66.7 2 7 9 2 1 0 2 4 8
+p456
+aVMitch Richmond WAS 02/18/1999 WAS @ TOR W 43 31 11 18 61.1 1 2 50.0 8 13 61.5 1 3 4 2 5 1 2 4 8
+p457
+aVRod Strickland WAS 02/18/1999 WAS @ TOR W 39 23 4 12 33.3 0 0 - 15 16 93.8 0 6 6 14 5 0 1 0 10
+p458
+aVTerry Davis WAS 02/18/1999 WAS @ TOR W 15 4 1 2 50.0 0 0 - 2 3 66.7 0 3 3 0 3 0 0 1 5
+p459
+aVOtis Thorpe WAS 02/18/1999 WAS @ TOR W 16 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 0 1 0 1 5 3
+p460
+aVBen Wallace WAS 02/18/1999 WAS @ TOR W 18 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 2 0 2 0
+p461
+aVMitch Richmond WAS 02/17/1999 WAS @ ORL L 40 13 5 17 29.4 1 5 20.0 2 2 100.0 0 3 3 1 0 0 0 1 -9
+p462
+aVBen Wallace WAS 02/17/1999 WAS @ ORL L 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 1 1 3 1
+p463
+aVTerry Davis WAS 02/17/1999 WAS @ ORL L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p464
+aVCalbert Cheaney WAS 02/17/1999 WAS @ ORL L 15 4 2 7 28.6 0 0 - 0 2 0.0 2 1 3 0 0 0 0 0 -9
+p465
+aVRandell Jackson WAS 02/17/1999 WAS @ ORL L 25 12 5 11 45.5 1 1 100.0 1 1 100.0 3 2 5 1 0 3 0 3 1
+p466
+aVOtis Thorpe WAS 02/17/1999 WAS @ ORL L 22 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 0 1 1 5 -3
+p467
+aVTracy Murray WAS 02/17/1999 WAS @ ORL L 25 14 6 15 40.0 2 6 33.3 0 0 - 2 1 3 0 2 1 3 3 -1
+p468
+aVJuwan Howard WAS 02/17/1999 WAS @ ORL L 39 15 7 13 53.8 0 0 - 1 2 50.0 2 8 10 1 1 0 5 1 -11
+p469
+aVJahidi White WAS 02/17/1999 WAS @ ORL L 7 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 1 0 3 2 -14
+p470
+aVRod Strickland WAS 02/17/1999 WAS @ ORL L 36 14 5 12 41.7 0 0 - 4 4 100.0 2 4 6 10 3 0 8 3 -8
+p471
+aVChris Whitney WAS 02/17/1999 WAS @ ORL L 12 4 2 3 66.7 0 1 0.0 0 0 - 2 2 4 6 1 0 1 1 -1
+p472
+aVBen Wallace WAS 02/10/1999 WAS @ NYK L 18 2 0 3 0.0 0 0 - 2 2 100.0 3 1 4 0 1 0 0 2 -17
+p473
+aVTracy Murray WAS 02/10/1999 WAS @ NYK L 24 9 1 4 25.0 1 3 33.3 6 7 85.7 1 0 1 0 0 0 1 1 -14
+p474
+aVRod Strickland WAS 02/10/1999 WAS @ NYK L 38 5 2 11 18.2 0 1 0.0 1 2 50.0 1 4 5 8 1 0 4 2 -22
+p475
+aVEtdrick Bohannon WAS 02/10/1999 WAS @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p476
+aVOtis Thorpe WAS 02/10/1999 WAS @ NYK L 19 0 0 6 0.0 0 0 - 0 0 - 0 7 7 0 1 2 1 3 1
+p477
+aVCalbert Cheaney WAS 02/10/1999 WAS @ NYK L 23 7 3 10 30.0 1 3 33.3 0 1 0.0 1 3 4 0 0 0 0 5 -5
+p478
+aVMitch Richmond WAS 02/10/1999 WAS @ NYK L 42 25 8 19 42.1 0 4 0.0 9 10 90.0 3 2 5 1 1 0 2 2 -7
+p479
+aVTerry Davis WAS 02/10/1999 WAS @ NYK L 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 -1
+p480
+aVTim Legler WAS 02/10/1999 WAS @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p481
+aVChris Whitney WAS 02/10/1999 WAS @ NYK L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 9
+p482
+aVJuwan Howard WAS 02/10/1999 WAS @ NYK L 42 29 12 22 54.5 0 0 - 5 8 62.5 7 6 13 4 3 1 1 3 -2
+p483
+aVRandell Jackson WAS 02/10/1999 WAS @ NYK L 15 9 3 4 75.0 0 0 - 3 4 75.0 1 1 2 0 0 1 2 1 2
+p484
+aVChris Whitney WAS 02/08/1999 WAS @ DET L 10 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 4 1 0 2 1 -4
+p485
+aVOtis Thorpe WAS 02/08/1999 WAS @ DET L 18 2 0 2 0.0 0 1 0.0 2 2 100.0 3 4 7 1 0 0 1 3 0
+p486
+aVMitch Richmond WAS 02/08/1999 WAS @ DET L 44 26 10 24 41.7 4 6 66.7 2 2 100.0 2 2 4 11 3 0 4 1 7
+p487
+aVJuwan Howard WAS 02/08/1999 WAS @ DET L 38 23 9 15 60.0 0 0 - 5 7 71.4 2 5 7 0 1 0 4 6 -13
+p488
+aVTerry Davis WAS 02/08/1999 WAS @ DET L 17 4 1 1 100.0 0 0 - 2 4 50.0 3 4 7 0 0 0 1 3 5
+p489
+aVTim Legler WAS 02/08/1999 WAS @ DET L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -5
+p490
+aVTracy Murray WAS 02/08/1999 WAS @ DET L 22 10 3 9 33.3 1 2 50.0 3 4 75.0 1 1 2 0 0 0 1 5 0
+p491
+aVCalbert Cheaney WAS 02/08/1999 WAS @ DET L 25 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 0 0 4 -5
+p492
+aVRod Strickland WAS 02/08/1999 WAS @ DET L 38 24 8 18 44.4 0 1 0.0 8 8 100.0 3 5 8 7 2 0 3 2 1
+p493
+aVBen Wallace WAS 02/08/1999 WAS @ DET L 22 6 3 3 100.0 0 0 - 0 0 - 1 7 8 0 1 0 1 4 -1
+p494
+aVTracy Murray WAS 02/06/1999 WAS vs. TOR W 14 5 2 7 28.6 1 2 50.0 0 0 - 1 4 5 1 0 0 1 2 -10
+p495
+aVTim Legler WAS 02/06/1999 WAS vs. TOR W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p496
+aVMitch Richmond WAS 02/06/1999 WAS vs. TOR W 44 26 9 20 45.0 2 6 33.3 6 7 85.7 0 1 1 3 3 0 1 3 4
+p497
+aVChris Whitney WAS 02/06/1999 WAS vs. TOR W 9 4 1 2 50.0 1 2 50.0 1 2 50.0 1 1 2 1 1 0 0 0 4
+p498
+aVTerry Davis WAS 02/06/1999 WAS vs. TOR W 34 2 0 2 0.0 0 0 - 2 2 100.0 6 5 11 0 1 0 1 4 -8
+p499
+aVCalbert Cheaney WAS 02/06/1999 WAS vs. TOR W 36 15 7 11 63.6 1 2 50.0 0 0 - 1 4 5 3 1 0 3 2 18
+p500
+aVRod Strickland WAS 02/06/1999 WAS vs. TOR W 39 16 4 13 30.8 0 2 0.0 8 14 57.1 2 4 6 11 2 0 2 1 -3
+p501
+aVOtis Thorpe WAS 02/06/1999 WAS vs. TOR W 23 14 7 11 63.6 0 0 - 0 1 0.0 2 2 4 2 1 0 2 6 -4
+p502
+aVJuwan Howard WAS 02/06/1999 WAS vs. TOR W 34 16 7 16 43.8 0 0 - 2 2 100.0 2 4 6 3 1 0 5 3 10
+p503
+aVJahidi White WAS 02/05/1999 WAS @ IND L 12 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 5 -3
+p504
+aVMitch Richmond WAS 02/05/1999 WAS @ IND L 32 8 4 9 44.4 0 1 0.0 0 0 - 0 3 3 1 0 0 1 3 -8
+p505
+aVRod Strickland WAS 02/05/1999 WAS @ IND L 27 12 6 12 50.0 0 1 0.0 0 0 - 0 4 4 6 2 0 4 1 -8
+p506
+aVCalbert Cheaney WAS 02/05/1999 WAS @ IND L 21 10 4 9 44.4 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 3 -13
+p507
+aVOtis Thorpe WAS 02/05/1999 WAS @ IND L 22 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 4 -10
+p508
+aVRandell Jackson WAS 02/05/1999 WAS @ IND L 6 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 2 4
+p509
+aVChris Whitney WAS 02/05/1999 WAS @ IND L 17 2 1 6 16.7 0 4 0.0 0 0 - 1 0 1 1 0 0 2 2 -8
+p510
+aVTracy Murray WAS 02/05/1999 WAS @ IND L 20 12 4 10 40.0 2 5 40.0 2 2 100.0 0 0 0 0 1 1 2 3 -6
+p511
+aVTerry Davis WAS 02/05/1999 WAS @ IND L 22 0 0 1 0.0 0 0 - 0 0 - 3 5 8 1 0 1 0 2 0
+p512
+aVJeff McInnis WAS 02/05/1999 WAS @ IND L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p513
+aVEtdrick Bohannon WAS 02/05/1999 WAS @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p514
+aVTim Legler WAS 02/05/1999 WAS @ IND L 16 9 4 6 66.7 0 0 - 1 1 100.0 0 2 2 0 0 0 0 3 -7
+p515
+aVJuwan Howard WAS 02/05/1999 WAS @ IND L 36 16 8 20 40.0 0 0 - 0 0 - 0 6 6 1 0 0 0 3 -19
+p516
+a.

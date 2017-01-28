@@ -1,0 +1,1452 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBismack Biyombo CHA 04/26/2012 CHA vs. NYK L 25 5 2 3 66.7 0 0 - 1 4 25.0 2 1 3 0 0 5 2 3 -11
+p2
+aVCory Higgins CHA 04/26/2012 CHA vs. NYK L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 0
+p3
+aVDJ White CHA 04/26/2012 CHA vs. NYK L 28 11 5 9 55.6 0 0 - 1 2 50.0 1 6 7 2 1 1 1 2 -10
+p4
+aVGerald Henderson CHA 04/26/2012 CHA vs. NYK L 37 21 7 12 58.3 0 1 0.0 7 10 70.0 1 6 7 4 0 0 2 1 -20
+p5
+aVD.J. Augustin CHA 04/26/2012 CHA vs. NYK L 32 12 5 15 33.3 2 6 33.3 0 0 - 0 1 1 7 0 0 4 0 -8
+p6
+aVTyrus Thomas CHA 04/26/2012 CHA vs. NYK L 21 9 4 8 50.0 1 1 100.0 0 0 - 1 0 1 0 0 1 0 3 -10
+p7
+aVByron Mullens CHA 04/26/2012 CHA vs. NYK L 19 5 2 6 33.3 1 3 33.3 0 0 - 1 5 6 1 0 0 1 3 -12
+p8
+aVMatt Carroll CHA 04/26/2012 CHA vs. NYK L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 0
+p9
+aVJamario Moon CHA 04/26/2012 CHA vs. NYK L 23 4 2 5 40.0 0 1 0.0 0 0 - 0 8 8 2 0 1 2 0 -12
+p10
+aVKemba Walker CHA 04/26/2012 CHA vs. NYK L 25 13 4 12 33.3 2 4 50.0 3 6 50.0 0 2 2 4 2 0 1 3 -16
+p11
+aVDeSagana Diop CHA 04/26/2012 CHA vs. NYK L 20 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 -1
+p12
+aVByron Mullens CHA 04/25/2012 CHA @ ORL L 25 11 4 11 36.4 1 5 20.0 2 4 50.0 0 1 1 1 0 0 4 2 -11
+p13
+aVDerrick Brown CHA 04/25/2012 CHA @ ORL L 28 16 6 11 54.5 0 1 0.0 4 4 100.0 1 4 5 1 2 0 1 3 -6
+p14
+aVTyrus Thomas CHA 04/25/2012 CHA @ ORL L 23 13 2 4 50.0 0 0 - 9 10 90.0 1 4 5 1 1 1 0 3 4
+p15
+aVDJ White CHA 04/25/2012 CHA @ ORL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p16
+aVDeSagana Diop CHA 04/25/2012 CHA @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p17
+aVBismack Biyombo CHA 04/25/2012 CHA @ ORL L 30 5 2 3 66.7 0 0 - 1 2 50.0 2 6 8 0 0 3 1 4 -1
+p18
+aVMatt Carroll CHA 04/25/2012 CHA @ ORL L 6 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 3 -7
+p19
+aVD.J. Augustin CHA 04/25/2012 CHA @ ORL L 37 23 8 17 47.1 2 4 50.0 5 5 100.0 0 2 2 6 0 0 4 2 -6
+p20
+aVGerald Henderson CHA 04/25/2012 CHA @ ORL L 40 17 5 9 55.6 0 0 - 7 7 100.0 0 5 5 3 0 1 0 5 7
+p21
+aVJamario Moon CHA 04/25/2012 CHA @ ORL L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 -8
+p22
+aVKemba Walker CHA 04/25/2012 CHA @ ORL L 30 4 2 11 18.2 0 3 0.0 0 0 - 2 7 9 5 0 0 1 1 0
+p23
+aVTyrus Thomas CHA 04/23/2012 CHA @ WAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 3 2 -10
+p24
+aVMatt Carroll CHA 04/23/2012 CHA @ WAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p25
+aVJamario Moon CHA 04/23/2012 CHA @ WAS L 22 4 1 6 16.7 0 4 0.0 2 2 100.0 0 1 1 1 0 1 2 1 -23
+p26
+aVDeSagana Diop CHA 04/23/2012 CHA @ WAS L 14 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -20
+p27
+aVCory Higgins CHA 04/23/2012 CHA @ WAS L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p28
+aVDerrick Brown CHA 04/23/2012 CHA @ WAS L 26 8 4 7 57.1 0 0 - 0 0 - 3 4 7 0 1 0 3 2 -5
+p29
+aVKemba Walker CHA 04/23/2012 CHA @ WAS L 14 4 2 9 22.2 0 4 0.0 0 0 - 0 2 2 1 1 0 0 0 -11
+p30
+aVReggie Williams CHA 04/23/2012 CHA @ WAS L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -12
+p31
+aVD.J. Augustin CHA 04/23/2012 CHA @ WAS L 30 15 4 13 30.8 3 5 60.0 4 5 80.0 0 2 2 6 1 0 3 2 -9
+p32
+aVDJ White CHA 04/23/2012 CHA @ WAS L 20 8 4 8 50.0 0 0 - 0 0 - 0 3 3 0 1 0 3 1 -19
+p33
+aVGerald Henderson CHA 04/23/2012 CHA @ WAS L 32 19 5 12 41.7 0 0 - 9 11 81.8 3 2 5 1 1 0 4 1 -12
+p34
+aVByron Mullens CHA 04/23/2012 CHA @ WAS L 28 9 3 7 42.9 0 1 0.0 3 3 100.0 3 5 8 1 0 1 2 2 4
+p35
+aVBismack Biyombo CHA 04/23/2012 CHA @ WAS L 30 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 0 2 0 1 -11
+p36
+aVGerald Henderson CHA 04/22/2012 CHA vs. SAC L 27 9 3 11 27.3 0 1 0.0 3 4 75.0 1 2 3 1 1 1 3 1 -19
+p37
+aVJamario Moon CHA 04/22/2012 CHA vs. SAC L 14 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 2 1 0 2 1 -3
+p38
+aVBismack Biyombo CHA 04/22/2012 CHA vs. SAC L 35 8 4 11 36.4 0 0 - 0 0 - 2 4 6 1 0 2 1 1 -28
+p39
+aVByron Mullens CHA 04/22/2012 CHA vs. SAC L 30 13 6 11 54.5 0 2 0.0 1 2 50.0 2 6 8 1 0 1 3 3 -17
+p40
+aVDJ White CHA 04/22/2012 CHA vs. SAC L 17 8 4 6 66.7 0 0 - 0 0 - 2 3 5 2 0 2 0 1 -7
+p41
+aVCory Higgins CHA 04/22/2012 CHA vs. SAC L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 3 1 -8
+p42
+aVDeSagana Diop CHA 04/22/2012 CHA vs. SAC L 11 2 1 2 50.0 0 0 - 0 0 - 3 1 4 3 0 0 0 1 -7
+p43
+aVTyrus Thomas CHA 04/22/2012 CHA vs. SAC L 12 10 5 6 83.3 0 0 - 0 0 - 2 0 2 1 0 0 3 1 4
+p44
+aVDerrick Brown CHA 04/22/2012 CHA vs. SAC L 25 13 5 8 62.5 0 1 0.0 3 4 75.0 4 3 7 3 1 0 2 1 -20
+p45
+aVMatt Carroll CHA 04/22/2012 CHA vs. SAC L 21 3 1 10 10.0 1 4 25.0 0 0 - 0 1 1 2 0 0 0 2 -7
+p46
+aVKemba Walker CHA 04/22/2012 CHA vs. SAC L 33 13 6 16 37.5 0 5 0.0 1 4 25.0 0 5 5 11 0 2 2 2 -18
+p47
+aVMatt Carroll CHA 04/20/2012 CHA vs. MEM L 8 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 2 0 1 0 1 -5
+p48
+aVCory Higgins CHA 04/20/2012 CHA vs. MEM L 12 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 3 1 -6
+p49
+aVGerald Henderson CHA 04/20/2012 CHA vs. MEM L 40 32 12 24 50.0 2 3 66.7 6 6 100.0 1 2 3 4 2 0 2 1 0
+p50
+aVByron Mullens CHA 04/20/2012 CHA vs. MEM L 40 11 4 13 30.8 0 0 - 3 4 75.0 6 5 11 2 0 0 4 3 -2
+p51
+aVDJ White CHA 04/20/2012 CHA vs. MEM L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 -8
+p52
+aVKemba Walker CHA 04/20/2012 CHA vs. MEM L 36 11 5 15 33.3 1 4 25.0 0 0 - 0 6 6 5 2 1 7 1 1
+p53
+aVDerrick Brown CHA 04/20/2012 CHA vs. MEM L 39 11 5 15 33.3 0 2 0.0 1 1 100.0 1 2 3 3 0 0 0 5 2
+p54
+aVJamario Moon CHA 04/20/2012 CHA vs. MEM L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -7
+p55
+aVBismack Biyombo CHA 04/20/2012 CHA vs. MEM L 41 7 3 4 75.0 0 0 - 1 4 25.0 2 8 10 0 0 2 3 4 0
+p56
+aVCory Higgins CHA 04/18/2012 CHA vs. CHI L 19 2 0 7 0.0 0 1 0.0 2 2 100.0 0 1 1 3 1 0 0 2 -8
+p57
+aVDJ White CHA 04/18/2012 CHA vs. CHI L 26 5 2 7 28.6 0 0 - 1 1 100.0 1 4 5 1 2 0 1 0 -9
+p58
+aVJamario Moon CHA 04/18/2012 CHA vs. CHI L 18 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 2 0 1 -23
+p59
+aVMatt Carroll CHA 04/18/2012 CHA vs. CHI L 17 2 1 8 12.5 0 3 0.0 0 0 - 1 0 1 0 0 1 0 0 -7
+p60
+aVByron Mullens CHA 04/18/2012 CHA vs. CHI L 34 9 3 11 27.3 0 1 0.0 3 4 75.0 1 2 3 1 0 0 2 3 -38
+p61
+aVGerald Henderson CHA 04/18/2012 CHA vs. CHI L 31 13 6 12 50.0 0 0 - 1 1 100.0 0 1 1 2 0 0 1 4 -25
+p62
+aVTyrus Thomas CHA 04/18/2012 CHA vs. CHI L 3 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p63
+aVBismack Biyombo CHA 04/18/2012 CHA vs. CHI L 33 7 2 10 20.0 0 0 - 3 5 60.0 6 7 13 3 1 2 0 3 -12
+p64
+aVDerrick Brown CHA 04/18/2012 CHA vs. CHI L 30 14 7 13 53.8 0 0 - 0 2 0.0 3 3 6 0 1 1 1 2 -9
+p65
+aVKemba Walker CHA 04/18/2012 CHA vs. CHI L 29 16 4 12 33.3 1 3 33.3 7 8 87.5 0 3 3 5 0 0 1 0 -24
+p66
+aVByron Mullens CHA 04/16/2012 CHA vs. NOH L 24 4 2 7 28.6 0 2 0.0 0 0 - 2 8 10 1 1 4 2 3 -9
+p67
+aVJamario Moon CHA 04/16/2012 CHA vs. NOH L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -5
+p68
+aVDJ White CHA 04/16/2012 CHA vs. NOH L 15 0 0 4 0.0 0 0 - 0 0 - 0 4 4 1 0 0 0 4 -16
+p69
+aVBismack Biyombo CHA 04/16/2012 CHA vs. NOH L 36 5 0 1 0.0 0 0 - 5 10 50.0 2 7 9 0 0 2 0 4 11
+p70
+aVGerald Henderson CHA 04/16/2012 CHA vs. NOH L 35 27 9 19 47.4 0 2 0.0 9 11 81.8 1 3 4 2 0 3 3 1 2
+p71
+aVDerrick Brown CHA 04/16/2012 CHA vs. NOH L 34 7 3 10 30.0 0 3 0.0 1 1 100.0 3 3 6 3 3 0 1 0 -3
+p72
+aVMatt Carroll CHA 04/16/2012 CHA vs. NOH L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -10
+p73
+aVCory Higgins CHA 04/16/2012 CHA vs. NOH L 7 3 0 3 0.0 0 0 - 3 4 75.0 0 0 0 1 0 0 2 1 -12
+p74
+aVKemba Walker CHA 04/16/2012 CHA vs. NOH L 41 14 6 16 37.5 1 6 16.7 1 2 50.0 0 5 5 3 0 0 2 3 4
+p75
+aVTyrus Thomas CHA 04/16/2012 CHA vs. NOH L 21 7 3 10 30.0 0 0 - 1 2 50.0 3 3 6 1 0 0 1 3 -2
+p76
+aVGerald Henderson CHA 04/15/2012 CHA vs. BOS L 35 22 10 19 52.6 0 1 0.0 2 2 100.0 2 1 3 5 0 0 2 1 -12
+p77
+aVKemba Walker CHA 04/15/2012 CHA vs. BOS L 24 8 2 9 22.2 1 4 25.0 3 5 60.0 0 3 3 3 1 1 1 1 2
+p78
+aVDJ White CHA 04/15/2012 CHA vs. BOS L 28 13 5 9 55.6 0 0 - 3 5 60.0 1 2 3 0 0 1 2 2 -15
+p79
+aVByron Mullens CHA 04/15/2012 CHA vs. BOS L 22 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 1 1 0 2 0 -16
+p80
+aVDerrick Brown CHA 04/15/2012 CHA vs. BOS L 35 15 6 10 60.0 1 1 100.0 2 2 100.0 0 7 7 0 3 1 1 3 -5
+p81
+aVBismack Biyombo CHA 04/15/2012 CHA vs. BOS L 29 9 2 10 20.0 0 0 - 5 6 83.3 2 5 7 0 0 2 2 1 6
+p82
+aVJamario Moon CHA 04/15/2012 CHA vs. BOS L 13 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 -7
+p83
+aVTyrus Thomas CHA 04/15/2012 CHA vs. BOS L 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 0
+p84
+aVReggie Williams CHA 04/15/2012 CHA vs. BOS L 15 3 1 4 25.0 1 4 25.0 0 0 - 1 2 3 1 1 0 0 0 1
+p85
+aVD.J. Augustin CHA 04/15/2012 CHA vs. BOS L 27 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 10 0 0 0 2 -14
+p86
+aVReggie Williams CHA 04/13/2012 CHA @ MIA L 22 8 3 6 50.0 2 4 50.0 0 1 0.0 1 3 4 0 0 1 0 1 -7
+p87
+aVMatt Carroll CHA 04/13/2012 CHA @ MIA L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 0 0 0 1 1 -7
+p88
+aVByron Mullens CHA 04/13/2012 CHA @ MIA L 35 5 2 9 22.2 1 4 25.0 0 0 - 0 2 2 5 0 0 4 3 -19
+p89
+aVD.J. Augustin CHA 04/13/2012 CHA @ MIA L 25 4 1 7 14.3 0 2 0.0 2 2 100.0 1 0 1 6 0 0 4 0 -15
+p90
+aVKemba Walker CHA 04/13/2012 CHA @ MIA L 26 11 4 8 50.0 1 3 33.3 2 2 100.0 1 3 4 3 0 0 1 1 -13
+p91
+aVGerald Henderson CHA 04/13/2012 CHA @ MIA L 31 14 6 11 54.5 0 1 0.0 2 4 50.0 1 3 4 2 2 0 2 4 -20
+p92
+aVBismack Biyombo CHA 04/13/2012 CHA @ MIA L 33 10 5 6 83.3 0 0 - 0 0 - 3 5 8 1 0 2 1 4 -14
+p93
+aVDerrick Brown CHA 04/13/2012 CHA @ MIA L 35 21 8 15 53.3 0 0 - 5 10 50.0 3 6 9 2 1 0 2 0 -12
+p94
+aVDJ White CHA 04/13/2012 CHA @ MIA L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p95
+aVCory Higgins CHA 04/13/2012 CHA @ MIA L 12 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 1 -1
+p96
+aVDJ White CHA 04/12/2012 CHA vs. DET L 30 12 5 9 55.6 0 0 - 2 2 100.0 1 3 4 2 0 0 2 2 -16
+p97
+aVD.J. Augustin CHA 04/12/2012 CHA vs. DET L 27 13 4 10 40.0 1 3 33.3 4 5 80.0 0 1 1 5 1 0 1 2 -27
+p98
+aVMatt Carroll CHA 04/12/2012 CHA vs. DET L 16 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 0 0 0 2 0
+p99
+aVGerald Henderson CHA 04/12/2012 CHA vs. DET L 29 8 4 9 44.4 0 0 - 0 2 0.0 0 3 3 3 2 1 2 1 -23
+p100
+aVBismack Biyombo CHA 04/12/2012 CHA vs. DET L 29 9 3 8 37.5 0 0 - 3 4 75.0 1 3 4 1 0 1 0 1 -14
+p101
+aVReggie Williams CHA 04/12/2012 CHA vs. DET L 17 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p102
+aVByron Mullens CHA 04/12/2012 CHA vs. DET L 21 6 2 5 40.0 1 2 50.0 1 2 50.0 2 4 6 1 0 0 2 1 -18
+p103
+aVKemba Walker CHA 04/12/2012 CHA vs. DET L 18 9 3 8 37.5 1 3 33.3 2 2 100.0 0 4 4 4 1 0 1 1 -12
+p104
+aVCory Higgins CHA 04/12/2012 CHA vs. DET L 7 5 0 1 0.0 0 0 - 5 6 83.3 0 0 0 2 0 0 0 0 8
+p105
+aVDeSagana Diop CHA 04/12/2012 CHA vs. DET L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 3 -8
+p106
+aVDerrick Brown CHA 04/12/2012 CHA vs. DET L 36 13 6 11 54.5 1 1 100.0 0 0 - 2 3 5 3 0 0 2 1 -9
+p107
+aVGerald Henderson CHA 04/10/2012 CHA @ CLE L 36 21 9 14 64.3 0 1 0.0 3 3 100.0 0 5 5 1 2 0 1 1 -1
+p108
+aVTyrus Thomas CHA 04/10/2012 CHA @ CLE L 12 6 3 8 37.5 0 0 - 0 0 - 2 3 5 0 0 1 0 3 -5
+p109
+aVDJ White CHA 04/10/2012 CHA @ CLE L 21 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -13
+p110
+aVKemba Walker CHA 04/10/2012 CHA @ CLE L 24 20 9 13 69.2 2 5 40.0 0 0 - 1 0 1 2 1 0 1 1 -8
+p111
+aVD.J. Augustin CHA 04/10/2012 CHA @ CLE L 40 16 6 14 42.9 1 3 33.3 3 3 100.0 0 2 2 11 0 0 3 2 -6
+p112
+aVMatt Carroll CHA 04/10/2012 CHA @ CLE L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p113
+aVBismack Biyombo CHA 04/10/2012 CHA @ CLE L 37 12 4 6 66.7 0 0 - 4 6 66.7 4 4 8 1 1 3 2 1 -4
+p114
+aVByron Mullens CHA 04/10/2012 CHA @ CLE L 27 0 0 3 0.0 0 1 0.0 0 0 - 0 5 5 3 0 1 0 3 -4
+p115
+aVDerrick Brown CHA 04/10/2012 CHA @ CLE L 22 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 1
+p116
+aVCorey Maggette CHA 04/10/2012 CHA @ CLE L 16 4 1 7 14.3 0 0 - 2 2 100.0 0 1 1 0 2 0 3 1 -18
+p117
+aVBismack Biyombo CHA 04/09/2012 CHA vs. WAS L 26 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 2 3 -23
+p118
+aVMatt Carroll CHA 04/09/2012 CHA vs. WAS L 17 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 1 -6
+p119
+aVByron Mullens CHA 04/09/2012 CHA vs. WAS L 26 9 4 11 36.4 0 0 - 1 1 100.0 1 4 5 1 0 1 0 0 -22
+p120
+aVKemba Walker CHA 04/09/2012 CHA vs. WAS L 36 16 5 14 35.7 2 4 50.0 4 4 100.0 0 7 7 7 1 0 3 3 -22
+p121
+aVTyrus Thomas CHA 04/09/2012 CHA vs. WAS L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 0 1 6 -2
+p122
+aVDJ White CHA 04/09/2012 CHA vs. WAS L 18 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -4
+p123
+aVCory Higgins CHA 04/09/2012 CHA vs. WAS L 26 6 3 9 33.3 0 2 0.0 0 2 0.0 1 2 3 2 0 2 2 2 -7
+p124
+aVCorey Maggette CHA 04/09/2012 CHA vs. WAS L 19 23 7 12 58.3 1 2 50.0 8 8 100.0 0 3 3 0 0 0 2 3 -11
+p125
+aVGerald Henderson CHA 04/09/2012 CHA vs. WAS L 27 12 4 12 33.3 0 0 - 4 4 100.0 1 1 2 1 2 1 1 3 -18
+p126
+aVDerrick Brown CHA 04/09/2012 CHA vs. WAS L 30 5 2 6 33.3 0 0 - 1 3 33.3 5 3 8 1 1 0 2 1 -25
+p127
+aVDerrick Brown CHA 04/07/2012 CHA vs. ATL L 22 8 4 5 80.0 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -9
+p128
+aVGerald Henderson CHA 04/07/2012 CHA vs. ATL L 24 8 3 9 33.3 0 0 - 2 3 66.7 2 2 4 2 0 1 3 0 -6
+p129
+aVTyrus Thomas CHA 04/07/2012 CHA vs. ATL L 20 8 3 7 42.9 0 0 - 2 2 100.0 2 2 4 1 2 0 1 1 -10
+p130
+aVBismack Biyombo CHA 04/07/2012 CHA vs. ATL L 24 4 2 5 40.0 0 0 - 0 2 0.0 2 3 5 0 0 3 0 2 -12
+p131
+aVByron Mullens CHA 04/07/2012 CHA vs. ATL L 32 17 7 19 36.8 1 3 33.3 2 2 100.0 0 3 3 0 0 1 0 0 -9
+p132
+aVMatt Carroll CHA 04/07/2012 CHA vs. ATL L 24 9 3 3 100.0 0 0 - 3 3 100.0 0 0 0 0 4 0 1 5 -14
+p133
+aVKemba Walker CHA 04/07/2012 CHA vs. ATL L 24 10 3 8 37.5 2 4 50.0 2 3 66.7 0 2 2 6 0 0 1 0 -9
+p134
+aVCorey Maggette CHA 04/07/2012 CHA vs. ATL L 26 6 2 7 28.6 0 0 - 2 4 50.0 0 2 2 2 4 0 2 3 -11
+p135
+aVDJ White CHA 04/07/2012 CHA vs. ATL L 20 4 2 3 66.7 0 0 - 0 0 - 2 3 5 3 0 0 1 3 -9
+p136
+aVCory Higgins CHA 04/07/2012 CHA vs. ATL L 24 22 9 15 60.0 0 0 - 4 5 80.0 1 2 3 3 0 0 4 5 -11
+p137
+aVDerrick Brown CHA 04/06/2012 CHA @ MIL L 34 11 5 8 62.5 0 0 - 1 5 20.0 2 7 9 1 1 0 3 2 -5
+p138
+aVGerald Henderson CHA 04/06/2012 CHA @ MIL L 41 14 4 13 30.8 0 1 0.0 6 6 100.0 2 6 8 4 2 0 3 5 7
+p139
+aVEduardo Najera CHA 04/06/2012 CHA @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p140
+aVByron Mullens CHA 04/06/2012 CHA @ MIL L 43 31 14 23 60.9 1 4 25.0 2 2 100.0 9 5 14 2 0 2 4 3 6
+p141
+aVTyrus Thomas CHA 04/06/2012 CHA @ MIL L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 -7
+p142
+aVCory Higgins CHA 04/06/2012 CHA @ MIL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -12
+p143
+aVDJ White CHA 04/06/2012 CHA @ MIL L 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 1 0 1 -13
+p144
+aVMatt Carroll CHA 04/06/2012 CHA @ MIL L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 3 1 -9
+p145
+aVBismack Biyombo CHA 04/06/2012 CHA @ MIL L 35 14 6 9 66.7 0 0 - 2 5 40.0 4 10 14 0 0 1 1 3 3
+p146
+aVKemba Walker CHA 04/06/2012 CHA @ MIL L 41 18 6 26 23.1 1 6 16.7 5 6 83.3 0 7 7 8 2 1 4 2 7
+p147
+aVDJ White CHA 04/04/2012 CHA @ ATL L 9 4 0 1 0.0 0 0 - 4 4 100.0 0 2 2 0 0 0 0 1 -5
+p148
+aVByron Mullens CHA 04/04/2012 CHA @ ATL L 22 8 3 9 33.3 0 1 0.0 2 2 100.0 2 5 7 3 0 0 3 4 -7
+p149
+aVBismack Biyombo CHA 04/04/2012 CHA @ ATL L 28 8 4 4 100.0 0 0 - 0 0 - 1 3 4 1 0 1 2 1 -10
+p150
+aVKemba Walker CHA 04/04/2012 CHA @ ATL L 33 21 8 15 53.3 3 4 75.0 2 3 66.7 0 4 4 5 0 0 5 1 -13
+p151
+aVGerald Henderson CHA 04/04/2012 CHA @ ATL L 29 15 7 14 50.0 0 1 0.0 1 1 100.0 3 4 7 2 1 0 0 2 -20
+p152
+aVReggie Williams CHA 04/04/2012 CHA @ ATL L 34 10 4 12 33.3 1 4 25.0 1 2 50.0 0 1 1 4 1 0 0 1 -30
+p153
+aVEduardo Najera CHA 04/04/2012 CHA @ ATL L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 0 0 0 2 2 -17
+p154
+aVMatt Carroll CHA 04/04/2012 CHA @ ATL L 21 12 4 7 57.1 0 0 - 4 6 66.7 0 4 4 2 0 0 0 1 -6
+p155
+aVD.J. Augustin CHA 04/04/2012 CHA @ ATL L 11 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 0 -5
+p156
+aVTyrus Thomas CHA 04/04/2012 CHA @ ATL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -5
+p157
+aVDerrick Brown CHA 04/04/2012 CHA @ ATL L 28 11 4 9 44.4 1 2 50.0 2 2 100.0 2 2 4 2 0 0 0 1 -17
+p158
+aVByron Mullens CHA 04/03/2012 CHA @ TOR L 32 20 9 21 42.9 1 2 50.0 1 3 33.3 5 9 14 0 0 2 1 2 -3
+p159
+aVD.J. Augustin CHA 04/03/2012 CHA @ TOR L 25 18 6 11 54.5 2 3 66.7 4 5 80.0 0 1 1 7 0 0 1 2 -2
+p160
+aVReggie Williams CHA 04/03/2012 CHA @ TOR L 30 4 2 10 20.0 0 3 0.0 0 0 - 1 4 5 2 1 0 3 2 -1
+p161
+aVKemba Walker CHA 04/03/2012 CHA @ TOR L 23 10 2 6 33.3 1 2 50.0 5 6 83.3 1 3 4 7 1 0 2 1 -3
+p162
+aVDJ White CHA 04/03/2012 CHA @ TOR L 16 4 1 3 33.3 0 0 - 2 4 50.0 1 2 3 0 0 0 0 1 -4
+p163
+aVTyrus Thomas CHA 04/03/2012 CHA @ TOR L 6 6 2 3 66.7 0 0 - 2 4 50.0 1 1 2 0 0 0 0 3 -2
+p164
+aVDerrick Brown CHA 04/03/2012 CHA @ TOR L 31 12 5 7 71.4 0 0 - 2 2 100.0 2 4 6 2 1 0 1 1 -2
+p165
+aVGerald Henderson CHA 04/03/2012 CHA @ TOR L 35 8 2 7 28.6 0 0 - 4 4 100.0 2 1 3 2 0 0 1 2 -5
+p166
+aVBismack Biyombo CHA 04/03/2012 CHA @ TOR L 26 5 2 4 50.0 0 0 - 1 2 50.0 3 2 5 0 0 1 4 3 3
+p167
+aVEduardo Najera CHA 04/03/2012 CHA @ TOR L 17 0 0 5 0.0 0 2 0.0 0 0 - 1 2 3 1 3 0 1 2 -6
+p168
+aVEduardo Najera CHA 03/31/2012 CHA @ DET L 13 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 1 0 0 0 2 5
+p169
+aVKemba Walker CHA 03/31/2012 CHA @ DET L 17 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 7 1 0 1 0 2
+p170
+aVBismack Biyombo CHA 03/31/2012 CHA @ DET L 34 10 5 9 55.6 0 0 - 0 1 0.0 1 1 2 1 0 1 0 3 -7
+p171
+aVGerald Henderson CHA 03/31/2012 CHA @ DET L 42 13 4 13 30.8 0 1 0.0 5 6 83.3 0 3 3 5 1 0 3 3 -4
+p172
+aVD.J. Augustin CHA 03/31/2012 CHA @ DET L 37 16 5 15 33.3 2 8 25.0 4 4 100.0 0 1 1 10 1 0 3 1 -7
+p173
+aVDJ White CHA 03/31/2012 CHA @ DET L 2 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 3
+p174
+aVTyrus Thomas CHA 03/31/2012 CHA @ DET L 17 10 5 9 55.6 0 0 - 0 0 - 0 4 4 0 1 0 2 4 -3
+p175
+aVDerrick Brown CHA 03/31/2012 CHA @ DET L 17 7 3 5 60.0 0 0 - 1 1 100.0 1 0 1 1 1 0 0 1 1
+p176
+aVMatt Carroll CHA 03/31/2012 CHA @ DET L 11 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 0 1 1
+p177
+aVByron Mullens CHA 03/31/2012 CHA @ DET L 40 20 8 14 57.1 1 3 33.3 3 3 100.0 3 6 9 0 2 2 0 2 -4
+p178
+aVReggie Williams CHA 03/31/2012 CHA @ DET L 34 17 5 10 50.0 4 6 66.7 3 3 100.0 1 5 6 3 3 0 2 3 -2
+p179
+aVKemba Walker CHA 03/30/2012 CHA vs. DEN L 25 11 4 10 40.0 2 4 50.0 1 2 50.0 1 1 2 4 2 0 2 3 -11
+p180
+aVGerald Henderson CHA 03/30/2012 CHA vs. DEN L 35 21 9 20 45.0 1 3 33.3 2 2 100.0 0 1 1 2 2 0 3 2 -2
+p181
+aVTyrus Thomas CHA 03/30/2012 CHA vs. DEN L 8 0 0 4 0.0 0 0 - 0 0 - 0 3 3 1 0 1 1 4 5
+p182
+aVCorey Maggette CHA 03/30/2012 CHA vs. DEN L 32 19 6 18 33.3 3 9 33.3 4 4 100.0 1 5 6 4 1 0 1 0 -2
+p183
+aVBismack Biyombo CHA 03/30/2012 CHA vs. DEN L 29 2 1 5 20.0 0 0 - 0 0 - 4 4 8 1 0 1 0 2 -8
+p184
+aVByron Mullens CHA 03/30/2012 CHA vs. DEN L 20 4 2 10 20.0 0 0 - 0 0 - 2 8 10 0 1 1 1 4 -12
+p185
+aVDJ White CHA 03/30/2012 CHA vs. DEN L 17 6 3 9 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -1
+p186
+aVD.J. Augustin CHA 03/30/2012 CHA vs. DEN L 23 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 8 2 0 2 2 0
+p187
+aVDerrick Brown CHA 03/30/2012 CHA vs. DEN L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -9
+p188
+aVEduardo Najera CHA 03/30/2012 CHA vs. DEN L 21 6 3 5 60.0 0 2 0.0 0 0 - 1 1 2 1 3 1 0 3 -6
+p189
+aVReggie Williams CHA 03/30/2012 CHA vs. DEN L 21 15 6 12 50.0 0 3 0.0 3 3 100.0 1 0 1 2 0 0 1 0 -9
+p190
+aVEduardo Najera CHA 03/28/2012 CHA vs. MIN L 19 2 1 3 33.3 0 0 - 0 0 - 0 8 8 0 0 0 1 3 7
+p191
+aVDerrick Brown CHA 03/28/2012 CHA vs. MIN L 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 1 0 3 -2
+p192
+aVBismack Biyombo CHA 03/28/2012 CHA vs. MIN L 21 6 3 4 75.0 0 0 - 0 2 0.0 1 3 4 0 0 0 2 3 -11
+p193
+aVCorey Maggette CHA 03/28/2012 CHA vs. MIN L 34 22 7 15 46.7 1 2 50.0 7 7 100.0 0 4 4 3 2 0 1 3 -9
+p194
+aVKemba Walker CHA 03/28/2012 CHA vs. MIN L 24 20 6 13 46.2 2 6 33.3 6 7 85.7 0 3 3 4 1 0 1 2 3
+p195
+aVByron Mullens CHA 03/28/2012 CHA vs. MIN L 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 1 0 0 0 -2
+p196
+aVDJ White CHA 03/28/2012 CHA vs. MIN L 32 14 7 12 58.3 0 0 - 0 0 - 1 4 5 2 0 1 0 3 -5
+p197
+aVGerald Henderson CHA 03/28/2012 CHA vs. MIN L 41 15 5 14 35.7 0 1 0.0 5 6 83.3 2 4 6 2 0 0 3 2 3
+p198
+aVD.J. Augustin CHA 03/28/2012 CHA vs. MIN L 24 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 8 0 0 1 1 -8
+p199
+aVReggie Williams CHA 03/28/2012 CHA vs. MIN L 16 2 1 7 14.3 0 2 0.0 0 0 - 1 1 2 1 0 0 0 1 -1
+p200
+aVD.J. Augustin CHA 03/26/2012 CHA vs. BOS L 21 2 0 5 0.0 0 0 - 2 3 66.7 1 1 2 1 1 0 3 3 -23
+p201
+aVBismack Biyombo CHA 03/26/2012 CHA vs. BOS L 15 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 2 1 3 -18
+p202
+aVGerald Henderson CHA 03/26/2012 CHA vs. BOS L 33 21 9 14 64.3 0 0 - 3 5 60.0 1 2 3 3 1 0 0 2 -16
+p203
+aVDJ White CHA 03/26/2012 CHA vs. BOS L 27 9 4 7 57.1 0 0 - 1 4 25.0 1 3 4 1 0 0 0 5 20
+p204
+aVByron Mullens CHA 03/26/2012 CHA vs. BOS L 33 18 8 18 44.4 1 3 33.3 1 2 50.0 3 4 7 0 0 2 1 2 11
+p205
+aVDerrick Brown CHA 03/26/2012 CHA vs. BOS L 31 16 4 6 66.7 0 0 - 8 8 100.0 0 0 0 7 0 0 1 3 5
+p206
+aVTyrus Thomas CHA 03/26/2012 CHA vs. BOS L 21 4 1 4 25.0 0 0 - 2 2 100.0 0 6 6 1 0 4 0 4 -27
+p207
+aVKemba Walker CHA 03/26/2012 CHA vs. BOS L 24 7 1 8 12.5 0 4 0.0 5 7 71.4 0 1 1 7 0 0 3 4 10
+p208
+aVCorey Maggette CHA 03/26/2012 CHA vs. BOS L 17 5 1 7 14.3 0 0 - 3 4 75.0 0 1 1 1 0 0 1 5 -12
+p209
+aVReggie Williams CHA 03/26/2012 CHA vs. BOS L 19 9 3 6 50.0 3 5 60.0 0 0 - 0 4 4 4 0 0 1 0 15
+p210
+aVD.J. Augustin CHA 03/24/2012 CHA @ NJN L 26 8 3 7 42.9 1 4 25.0 1 1 100.0 0 1 1 8 0 0 1 0 -20
+p211
+aVCorey Maggette CHA 03/24/2012 CHA @ NJN L 28 13 4 8 50.0 2 3 66.7 3 6 50.0 0 0 0 0 0 0 4 3 -26
+p212
+aVDJ White CHA 03/24/2012 CHA @ NJN L 17 4 2 7 28.6 0 0 - 0 0 - 1 6 7 0 0 0 1 1 1
+p213
+aVGerald Henderson CHA 03/24/2012 CHA @ NJN L 30 7 3 11 27.3 0 0 - 1 3 33.3 2 3 5 2 0 0 3 3 -23
+p214
+aVReggie Williams CHA 03/24/2012 CHA @ NJN L 20 10 4 8 50.0 0 3 0.0 2 2 100.0 1 1 2 3 2 0 1 0 9
+p215
+aVMatt Carroll CHA 03/24/2012 CHA @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p216
+aVKemba Walker CHA 03/24/2012 CHA @ NJN L 23 10 4 13 30.8 0 4 0.0 2 2 100.0 0 5 5 5 0 0 1 1 10
+p217
+aVByron Mullens CHA 03/24/2012 CHA @ NJN L 21 17 6 9 66.7 0 0 - 5 6 83.3 2 8 10 0 0 1 1 2 11
+p218
+aVTyrus Thomas CHA 03/24/2012 CHA @ NJN L 19 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 3 1 3 2 -12
+p219
+aVDerrick Brown CHA 03/24/2012 CHA @ NJN L 21 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -1
+p220
+aVCory Higgins CHA 03/24/2012 CHA @ NJN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p221
+aVBismack Biyombo CHA 03/24/2012 CHA @ NJN L 28 8 3 4 75.0 0 0 - 2 2 100.0 1 5 6 1 2 1 1 1 -23
+p222
+aVCorey Maggette CHA 03/23/2012 CHA vs. MIL L 26 10 2 9 22.2 0 2 0.0 6 6 100.0 0 4 4 1 0 0 0 3 -5
+p223
+aVBismack Biyombo CHA 03/23/2012 CHA vs. MIL L 32 5 1 6 16.7 0 0 - 3 4 75.0 2 4 6 0 0 3 2 3 -9
+p224
+aVTyrus Thomas CHA 03/23/2012 CHA vs. MIL L 26 10 5 11 45.5 0 0 - 0 0 - 2 5 7 3 1 1 0 3 -8
+p225
+aVGerald Henderson CHA 03/23/2012 CHA vs. MIL L 33 29 13 19 68.4 0 1 0.0 3 3 100.0 2 4 6 3 1 0 3 1 -12
+p226
+aVByron Mullens CHA 03/23/2012 CHA vs. MIL L 16 5 2 8 25.0 0 0 - 1 1 100.0 2 2 4 1 0 0 1 3 -11
+p227
+aVKemba Walker CHA 03/23/2012 CHA vs. MIL L 25 13 4 12 33.3 1 3 33.3 4 4 100.0 0 2 2 7 0 1 0 0 -19
+p228
+aVMatt Carroll CHA 03/23/2012 CHA vs. MIL L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 3
+p229
+aVDerrick Brown CHA 03/23/2012 CHA vs. MIL L 29 13 5 9 55.6 0 0 - 3 4 75.0 3 2 5 0 1 1 3 2 -14
+p230
+aVReggie Williams CHA 03/23/2012 CHA vs. MIL L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -11
+p231
+aVCory Higgins CHA 03/23/2012 CHA vs. MIL L 4 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 3
+p232
+aVD.J. Augustin CHA 03/23/2012 CHA vs. MIL L 21 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 1 -8
+p233
+aVDJ White CHA 03/23/2012 CHA vs. MIL L 8 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -9
+p234
+aVKemba Walker CHA 03/19/2012 CHA vs. PHI L 23 13 5 11 45.5 1 1 100.0 2 2 100.0 2 2 4 5 0 0 0 1 -7
+p235
+aVDJ White CHA 03/19/2012 CHA vs. PHI L 25 12 5 10 50.0 0 0 - 2 2 100.0 1 3 4 2 0 1 1 1 -6
+p236
+aVGerald Henderson CHA 03/19/2012 CHA vs. PHI L 28 14 5 10 50.0 0 0 - 4 4 100.0 0 1 1 4 1 1 0 2 -8
+p237
+aVCory Higgins CHA 03/19/2012 CHA vs. PHI L 5 4 1 1 100.0 0 0 - 2 5 40.0 0 1 1 0 0 0 2 0 -5
+p238
+aVReggie Williams CHA 03/19/2012 CHA vs. PHI L 29 13 4 7 57.1 1 2 50.0 4 5 80.0 3 3 6 2 0 0 0 0 -22
+p239
+aVTyrus Thomas CHA 03/19/2012 CHA vs. PHI L 15 6 3 10 30.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -17
+p240
+aVByron Mullens CHA 03/19/2012 CHA vs. PHI L 23 4 2 8 25.0 0 0 - 0 0 - 0 1 1 2 3 1 1 1 -1
+p241
+aVD.J. Augustin CHA 03/19/2012 CHA vs. PHI L 26 7 2 8 25.0 0 2 0.0 3 3 100.0 1 1 2 5 1 0 1 1 -21
+p242
+aVEduardo Najera CHA 03/19/2012 CHA vs. PHI L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 -5
+p243
+aVDerrick Brown CHA 03/19/2012 CHA vs. PHI L 29 5 2 5 40.0 0 1 0.0 1 3 33.3 1 1 2 1 0 2 1 2 -9
+p244
+aVMatt Carroll CHA 03/19/2012 CHA vs. PHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p245
+aVBismack Biyombo CHA 03/19/2012 CHA vs. PHI L 28 2 0 3 0.0 0 0 - 2 4 50.0 1 8 9 1 1 1 2 0 -19
+p246
+aVEduardo Najera CHA 03/17/2012 CHA vs. TOR W 10 5 2 3 66.7 1 1 100.0 0 0 - 2 0 2 2 1 0 1 1 8
+p247
+aVD.J. Augustin CHA 03/17/2012 CHA vs. TOR W 36 23 6 11 54.5 2 5 40.0 9 9 100.0 1 1 2 11 3 0 5 2 20
+p248
+aVDerrick Brown CHA 03/17/2012 CHA vs. TOR W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -10
+p249
+aVKemba Walker CHA 03/17/2012 CHA vs. TOR W 12 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -16
+p250
+aVDJ White CHA 03/17/2012 CHA vs. TOR W 18 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -16
+p251
+aVByron Mullens CHA 03/17/2012 CHA vs. TOR W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -11
+p252
+aVGerald Henderson CHA 03/17/2012 CHA vs. TOR W 40 24 11 14 78.6 0 1 0.0 2 2 100.0 0 3 3 2 1 0 2 2 21
+p253
+aVCorey Maggette CHA 03/17/2012 CHA vs. TOR W 35 21 3 11 27.3 1 1 100.0 14 14 100.0 1 3 4 3 0 0 1 1 14
+p254
+aVReggie Williams CHA 03/17/2012 CHA vs. TOR W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -17
+p255
+aVTyrus Thomas CHA 03/17/2012 CHA vs. TOR W 30 11 3 6 50.0 0 0 - 5 7 71.4 1 3 4 1 2 0 3 6 22
+p256
+aVBismack Biyombo CHA 03/17/2012 CHA vs. TOR W 31 9 4 8 50.0 0 0 - 1 2 50.0 1 8 9 1 0 0 1 4 5
+p257
+aVEduardo Najera CHA 03/15/2012 CHA @ DAL L 16 4 2 4 50.0 0 2 0.0 0 0 - 1 2 3 0 2 0 0 3 -4
+p258
+aVByron Mullens CHA 03/15/2012 CHA @ DAL L 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 1 0 0 1 -6
+p259
+aVDJ White CHA 03/15/2012 CHA @ DAL L 13 2 1 4 25.0 0 0 - 0 0 - 2 1 3 2 1 0 2 1 5
+p260
+aVTyrus Thomas CHA 03/15/2012 CHA @ DAL L 28 14 5 7 71.4 0 0 - 4 4 100.0 1 7 8 1 0 0 1 4 -1
+p261
+aVBismack Biyombo CHA 03/15/2012 CHA @ DAL L 24 2 1 7 14.3 0 0 - 0 0 - 1 10 11 0 1 2 1 3 1
+p262
+aVD.J. Augustin CHA 03/15/2012 CHA @ DAL L 35 12 4 12 33.3 2 6 33.3 2 2 100.0 0 2 2 4 0 0 0 1 -6
+p263
+aVKemba Walker CHA 03/15/2012 CHA @ DAL L 16 12 4 8 50.0 2 3 66.7 2 3 66.7 1 4 5 4 1 0 2 0 -4
+p264
+aVGerald Henderson CHA 03/15/2012 CHA @ DAL L 28 12 5 12 41.7 1 2 50.0 1 1 100.0 0 1 1 2 1 0 3 5 -1
+p265
+aVReggie Williams CHA 03/15/2012 CHA @ DAL L 20 7 3 7 42.9 1 4 25.0 0 0 - 1 0 1 3 0 0 0 1 -4
+p266
+aVCorey Maggette CHA 03/15/2012 CHA @ DAL L 31 21 5 15 33.3 2 4 50.0 9 10 90.0 0 2 2 2 1 0 3 3 -4
+p267
+aVDerrick Brown CHA 03/15/2012 CHA @ DAL L 17 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -1
+p268
+aVKemba Walker CHA 03/14/2012 CHA @ HOU L 28 6 3 13 23.1 0 4 0.0 0 0 - 0 4 4 8 1 1 2 0 -5
+p269
+aVByron Mullens CHA 03/14/2012 CHA @ HOU L 18 10 3 6 50.0 0 0 - 4 4 100.0 1 1 2 0 0 1 1 2 12
+p270
+aVCorey Maggette CHA 03/14/2012 CHA @ HOU L 22 10 3 9 33.3 2 2 100.0 2 2 100.0 0 2 2 0 0 0 0 2 -12
+p271
+aVDJ White CHA 03/14/2012 CHA @ HOU L 16 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 1 1 0 2 1 -5
+p272
+aVDerrick Brown CHA 03/14/2012 CHA @ HOU L 26 15 6 10 60.0 0 0 - 3 4 75.0 1 0 1 0 4 0 1 1 -8
+p273
+aVBismack Biyombo CHA 03/14/2012 CHA @ HOU L 30 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 1 0 4 1 3 -32
+p274
+aVMatt Carroll CHA 03/14/2012 CHA @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p275
+aVD.J. Augustin CHA 03/14/2012 CHA @ HOU L 20 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 3 1 0 4 3 -15
+p276
+aVTyrus Thomas CHA 03/14/2012 CHA @ HOU L 19 7 3 8 37.5 0 0 - 1 2 50.0 0 3 3 2 1 1 0 2 -12
+p277
+aVReggie Williams CHA 03/14/2012 CHA @ HOU L 17 10 4 7 57.1 1 3 33.3 1 1 100.0 0 4 4 4 3 0 0 0 5
+p278
+aVBoris Diaw CHA 03/14/2012 CHA @ HOU L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 1 0 2 1 -3
+p279
+aVGerald Henderson CHA 03/14/2012 CHA @ HOU L 26 10 4 11 36.4 0 1 0.0 2 2 100.0 1 3 4 3 0 0 0 1 -31
+p280
+aVKemba Walker CHA 03/12/2012 CHA @ NOH W 23 14 6 10 60.0 0 3 0.0 2 2 100.0 1 3 4 3 0 0 3 1 8
+p281
+aVDerrick Brown CHA 03/12/2012 CHA @ NOH W 19 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 10
+p282
+aVDJ White CHA 03/12/2012 CHA @ NOH W 17 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 2 0 1 0 5
+p283
+aVCorey Maggette CHA 03/12/2012 CHA @ NOH W 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -6
+p284
+aVBismack Biyombo CHA 03/12/2012 CHA @ NOH W 33 12 6 7 85.7 0 0 - 0 0 - 0 7 7 0 1 4 0 0 -6
+p285
+aVD.J. Augustin CHA 03/12/2012 CHA @ NOH W 25 4 2 6 33.3 0 1 0.0 0 0 - 0 5 5 5 2 0 5 0 -6
+p286
+aVReggie Williams CHA 03/12/2012 CHA @ NOH W 32 6 3 12 25.0 0 7 0.0 0 0 - 3 1 4 4 2 0 2 1 2
+p287
+aVGerald Henderson CHA 03/12/2012 CHA @ NOH W 36 15 6 12 50.0 0 0 - 3 5 60.0 2 4 6 3 1 1 2 3 -2
+p288
+aVByron Mullens CHA 03/12/2012 CHA @ NOH W 15 6 3 7 42.9 0 0 - 0 0 - 0 4 4 0 0 0 0 1 8
+p289
+aVBoris Diaw CHA 03/12/2012 CHA @ NOH W 11 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p290
+aVTyrus Thomas CHA 03/12/2012 CHA @ NOH W 20 4 2 8 25.0 0 0 - 0 0 - 1 6 7 0 1 2 2 2 0
+p291
+aVDJ White CHA 03/10/2012 CHA @ OKC L 22 10 4 7 57.1 0 0 - 2 2 100.0 0 5 5 0 2 0 2 2 -12
+p292
+aVTyrus Thomas CHA 03/10/2012 CHA @ OKC L 21 6 2 7 28.6 0 0 - 2 2 100.0 3 3 6 0 1 1 2 4 -5
+p293
+aVDerrick Brown CHA 03/10/2012 CHA @ OKC L 12 0 0 5 0.0 0 0 - 0 0 - 2 1 3 2 1 0 0 1 -11
+p294
+aVEduardo Najera CHA 03/10/2012 CHA @ OKC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p295
+aVReggie Williams CHA 03/10/2012 CHA @ OKC L 17 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 2 1 0 1 0 -15
+p296
+aVBismack Biyombo CHA 03/10/2012 CHA @ OKC L 29 6 3 10 30.0 0 0 - 0 1 0.0 4 4 8 0 1 1 0 1 -10
+p297
+aVD.J. Augustin CHA 03/10/2012 CHA @ OKC L 29 22 7 16 43.8 4 7 57.1 4 4 100.0 2 2 4 7 0 0 1 1 -11
+p298
+aVMatt Carroll CHA 03/10/2012 CHA @ OKC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p299
+aVGerald Henderson CHA 03/10/2012 CHA @ OKC L 29 7 3 10 30.0 0 0 - 1 2 50.0 2 2 4 4 2 0 2 3 -16
+p300
+aVByron Mullens CHA 03/10/2012 CHA @ OKC L 19 12 6 8 75.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -17
+p301
+aVCorey Maggette CHA 03/10/2012 CHA @ OKC L 31 21 6 12 50.0 2 4 50.0 7 8 87.5 1 1 2 3 0 0 0 2 -12
+p302
+aVKemba Walker CHA 03/10/2012 CHA @ OKC L 22 4 2 7 28.6 0 0 - 0 0 - 0 1 1 6 0 0 2 0 -16
+p303
+aVByron Mullens CHA 03/09/2012 CHA vs. NJN L 18 0 0 8 0.0 0 0 - 0 0 - 1 5 6 1 0 3 1 1 -8
+p304
+aVGerald Henderson CHA 03/09/2012 CHA vs. NJN L 33 7 2 13 15.4 1 1 100.0 2 2 100.0 1 2 3 1 0 0 0 2 -6
+p305
+aVEduardo Najera CHA 03/09/2012 CHA vs. NJN L 23 9 4 8 50.0 1 3 33.3 0 2 0.0 3 2 5 2 3 0 0 2 6
+p306
+aVTyrus Thomas CHA 03/09/2012 CHA vs. NJN L 17 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 1 0 1 4 -10
+p307
+aVCorey Maggette CHA 03/09/2012 CHA vs. NJN L 35 19 8 16 50.0 0 1 0.0 3 4 75.0 2 5 7 2 2 0 3 1 -6
+p308
+aVBismack Biyombo CHA 03/09/2012 CHA vs. NJN L 31 11 4 10 40.0 0 0 - 3 4 75.0 3 8 11 1 1 2 1 4 -6
+p309
+aVD.J. Augustin CHA 03/09/2012 CHA vs. NJN L 32 6 2 7 28.6 0 2 0.0 2 3 66.7 0 0 0 8 1 0 2 1 -8
+p310
+aVDerrick Brown CHA 03/09/2012 CHA vs. NJN L 14 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 1 0 0 -3
+p311
+aVKemba Walker CHA 03/09/2012 CHA vs. NJN L 16 3 1 6 16.7 0 2 0.0 1 2 50.0 0 2 2 1 0 1 0 1 -1
+p312
+aVDJ White CHA 03/09/2012 CHA vs. NJN L 6 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p313
+aVReggie Williams CHA 03/09/2012 CHA vs. NJN L 15 5 2 5 40.0 0 2 0.0 1 4 25.0 0 0 0 1 0 0 0 0 -3
+p314
+aVEduardo Najera CHA 03/07/2012 CHA vs. UTA L 24 0 0 4 0.0 0 0 - 0 0 - 0 4 4 1 1 1 0 2 6
+p315
+aVCorey Maggette CHA 03/07/2012 CHA vs. UTA L 37 25 6 12 50.0 0 1 0.0 13 14 92.9 3 4 7 1 0 0 0 3 -5
+p316
+aVDJ White CHA 03/07/2012 CHA vs. UTA L 17 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 1 0 2 1 -11
+p317
+aVD.J. Augustin CHA 03/07/2012 CHA vs. UTA L 25 8 3 7 42.9 1 3 33.3 1 1 100.0 0 0 0 8 0 0 0 1 -13
+p318
+aVReggie Williams CHA 03/07/2012 CHA vs. UTA L 13 4 1 1 100.0 1 1 100.0 1 2 50.0 0 3 3 1 0 1 2 1 3
+p319
+aVBismack Biyombo CHA 03/07/2012 CHA vs. UTA L 30 2 1 4 25.0 0 0 - 0 4 0.0 3 6 9 2 0 0 5 6 -12
+p320
+aVKemba Walker CHA 03/07/2012 CHA vs. UTA L 28 19 7 12 58.3 1 2 50.0 4 5 80.0 0 2 2 5 3 1 5 0 8
+p321
+aVGerald Henderson CHA 03/07/2012 CHA vs. UTA L 30 8 3 6 50.0 0 0 - 2 4 50.0 0 2 2 4 0 1 1 1 -10
+p322
+aVDerrick Brown CHA 03/07/2012 CHA vs. UTA L 11 9 2 2 100.0 0 0 - 5 7 71.4 0 0 0 0 0 0 0 2 -1
+p323
+aVByron Mullens CHA 03/07/2012 CHA vs. UTA L 25 16 8 15 53.3 0 0 - 0 0 - 2 3 5 2 1 5 1 4 5
+p324
+aVDerrick Brown CHA 03/06/2012 CHA vs. ORL W 18 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -3
+p325
+aVEduardo Najera CHA 03/06/2012 CHA vs. ORL W 12 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 2 1 0 1 0 8
+p326
+aVTyrus Thomas CHA 03/06/2012 CHA vs. ORL W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -6
+p327
+aVDJ White CHA 03/06/2012 CHA vs. ORL W 22 8 4 8 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -4
+p328
+aVBismack Biyombo CHA 03/06/2012 CHA vs. ORL W 32 10 2 4 50.0 0 0 - 6 10 60.0 6 9 15 0 1 7 2 3 11
+p329
+aVKemba Walker CHA 03/06/2012 CHA vs. ORL W 29 10 5 12 41.7 0 2 0.0 0 0 - 0 0 0 8 1 0 2 1 19
+p330
+aVMatt Carroll CHA 03/06/2012 CHA vs. ORL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p331
+aVGerald Henderson CHA 03/06/2012 CHA vs. ORL W 37 16 7 16 43.8 0 1 0.0 2 4 50.0 1 3 4 2 3 1 1 3 23
+p332
+aVByron Mullens CHA 03/06/2012 CHA vs. ORL W 25 8 3 5 60.0 0 0 - 2 2 100.0 4 9 13 2 0 0 1 1 23
+p333
+aVCorey Maggette CHA 03/06/2012 CHA vs. ORL W 30 29 9 17 52.9 1 1 100.0 10 11 90.9 1 6 7 0 1 0 2 4 19
+p334
+aVD.J. Augustin CHA 03/06/2012 CHA vs. ORL W 24 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 8 1 0 1 1 -4
+p335
+aVEduardo Najera CHA 03/04/2012 CHA vs. NJN L 13 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 2 1 0 4 -2
+p336
+aVDerrick Brown CHA 03/04/2012 CHA vs. NJN L 16 7 2 3 66.7 0 0 - 3 3 100.0 1 2 3 1 1 0 0 3 10
+p337
+aVD.J. Augustin CHA 03/04/2012 CHA vs. NJN L 27 12 4 12 33.3 1 3 33.3 3 3 100.0 0 4 4 3 0 0 1 4 -2
+p338
+aVKemba Walker CHA 03/04/2012 CHA vs. NJN L 21 14 3 8 37.5 0 3 0.0 8 8 100.0 0 1 1 2 0 1 0 1 -1
+p339
+aVMatt Carroll CHA 03/04/2012 CHA vs. NJN L 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 6
+p340
+aVByron Mullens CHA 03/04/2012 CHA vs. NJN L 25 12 5 11 45.5 0 1 0.0 2 2 100.0 2 3 5 1 0 1 1 4 0
+p341
+aVDeSagana Diop CHA 03/04/2012 CHA vs. NJN L 10 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 0
+p342
+aVBoris Diaw CHA 03/04/2012 CHA vs. NJN L 40 2 1 4 25.0 0 1 0.0 0 0 - 3 3 6 8 2 0 2 2 -6
+p343
+aVTyrus Thomas CHA 03/04/2012 CHA vs. NJN L 7 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 1 1 1 0 1 -2
+p344
+aVCorey Maggette CHA 03/04/2012 CHA vs. NJN L 33 24 4 12 33.3 1 4 25.0 15 16 93.8 2 5 7 1 1 0 3 1 -9
+p345
+aVGerald Henderson CHA 03/04/2012 CHA vs. NJN L 36 15 6 14 42.9 0 2 0.0 3 4 75.0 4 1 5 3 1 0 1 6 -9
+p346
+aVEduardo Najera CHA 03/02/2012 CHA @ SAS L 21 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 1 1 1 2 -12
+p347
+aVBoris Diaw CHA 03/02/2012 CHA @ SAS L 26 14 6 10 60.0 2 3 66.7 0 0 - 3 3 6 3 0 0 1 1 -12
+p348
+aVMatt Carroll CHA 03/02/2012 CHA @ SAS L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p349
+aVReggie Williams CHA 03/02/2012 CHA @ SAS L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -8
+p350
+aVCorey Maggette CHA 03/02/2012 CHA @ SAS L 28 14 4 12 33.3 1 2 50.0 5 6 83.3 0 2 2 0 1 0 1 3 -18
+p351
+aVDerrick Brown CHA 03/02/2012 CHA @ SAS L 20 6 2 5 40.0 0 0 - 2 3 66.7 1 2 3 2 2 0 2 4 -12
+p352
+aVDeSagana Diop CHA 03/02/2012 CHA @ SAS L 15 4 2 2 100.0 0 0 - 0 0 - 3 4 7 1 0 0 3 2 -6
+p353
+aVKemba Walker CHA 03/02/2012 CHA @ SAS L 24 8 4 11 36.4 0 2 0.0 0 1 0.0 2 1 3 5 2 0 3 2 -16
+p354
+aVD.J. Augustin CHA 03/02/2012 CHA @ SAS L 24 2 1 9 11.1 0 4 0.0 0 0 - 0 1 1 5 2 0 1 0 -14
+p355
+aVTyrus Thomas CHA 03/02/2012 CHA @ SAS L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p356
+aVDJ White CHA 03/02/2012 CHA @ SAS L 17 8 4 6 66.7 0 0 - 0 0 - 0 4 4 1 0 2 1 1 -18
+p357
+aVByron Mullens CHA 03/02/2012 CHA @ SAS L 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 3 2 3 -12
+p358
+aVGerald Henderson CHA 03/02/2012 CHA @ SAS L 28 8 4 12 33.3 0 0 - 0 0 - 0 6 6 3 0 0 1 1 -16
+p359
+aVTyrus Thomas CHA 02/29/2012 CHA @ DET L 14 2 1 6 16.7 0 0 - 0 0 - 2 2 4 0 1 1 1 3 -7
+p360
+aVByron Mullens CHA 02/29/2012 CHA @ DET L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -18
+p361
+aVMatt Carroll CHA 02/29/2012 CHA @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p362
+aVKemba Walker CHA 02/29/2012 CHA @ DET L 19 6 2 8 25.0 0 0 - 2 2 100.0 1 2 3 5 2 0 1 1 -11
+p363
+aVReggie Williams CHA 02/29/2012 CHA @ DET L 18 14 6 7 85.7 1 1 100.0 1 1 100.0 1 1 2 0 1 0 2 1 -4
+p364
+aVDeSagana Diop CHA 02/29/2012 CHA @ DET L 18 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 2
+p365
+aVDJ White CHA 02/29/2012 CHA @ DET L 16 15 6 9 66.7 0 0 - 3 5 60.0 1 3 4 1 0 0 0 2 4
+p366
+aVBoris Diaw CHA 02/29/2012 CHA @ DET L 24 5 2 10 20.0 0 1 0.0 1 2 50.0 3 3 6 3 0 1 1 0 -12
+p367
+aVD.J. Augustin CHA 02/29/2012 CHA @ DET L 29 8 3 8 37.5 1 3 33.3 1 1 100.0 0 1 1 10 3 0 2 2 -4
+p368
+aVDerrick Brown CHA 02/29/2012 CHA @ DET L 19 8 2 5 40.0 0 0 - 4 4 100.0 0 3 3 0 0 0 1 1 -2
+p369
+aVGerald Henderson CHA 02/29/2012 CHA @ DET L 28 13 6 12 50.0 0 1 0.0 1 4 25.0 2 1 3 1 0 0 0 4 -11
+p370
+aVCorey Maggette CHA 02/29/2012 CHA @ DET L 29 17 5 11 45.5 1 3 33.3 6 10 60.0 0 5 5 2 0 0 1 3 -13
+p371
+aVBismack Biyombo CHA 02/29/2012 CHA @ DET L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 2 1 2 1
+p372
+aVKemba Walker CHA 02/22/2012 CHA vs. IND L 29 14 4 11 36.4 2 5 40.0 4 5 80.0 0 2 2 5 2 0 1 2 -23
+p373
+aVDeSagana Diop CHA 02/22/2012 CHA vs. IND L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 1 0 0 -2
+p374
+aVBismack Biyombo CHA 02/22/2012 CHA vs. IND L 33 9 4 8 50.0 0 0 - 1 3 33.3 5 5 10 1 0 6 1 3 3
+p375
+aVCorey Maggette CHA 02/22/2012 CHA vs. IND L 31 20 6 15 40.0 1 2 50.0 7 8 87.5 1 0 1 1 0 0 1 4 -12
+p376
+aVMatt Carroll CHA 02/22/2012 CHA vs. IND L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -8
+p377
+aVBoris Diaw CHA 02/22/2012 CHA vs. IND L 29 4 1 6 16.7 0 1 0.0 2 2 100.0 3 8 11 8 0 0 3 4 -5
+p378
+aVDerrick Brown CHA 02/22/2012 CHA vs. IND L 17 6 3 9 33.3 0 0 - 0 0 - 3 0 3 0 1 0 0 1 -2
+p379
+aVTyrus Thomas CHA 02/22/2012 CHA vs. IND L 15 4 2 8 25.0 0 0 - 0 1 0.0 3 2 5 0 0 3 1 5 -9
+p380
+aVD.J. Augustin CHA 02/22/2012 CHA vs. IND L 31 15 4 12 33.3 3 6 50.0 4 4 100.0 1 3 4 3 0 0 2 2 -9
+p381
+aVReggie Williams CHA 02/22/2012 CHA vs. IND L 23 6 2 7 28.6 2 4 50.0 0 0 - 2 3 5 2 0 1 1 1 6
+p382
+aVDJ White CHA 02/22/2012 CHA vs. IND L 15 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 0 2 0 2 -15
+p383
+aVCory Higgins CHA 02/22/2012 CHA vs. IND L 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 6
+p384
+aVD.J. Augustin CHA 02/19/2012 CHA @ IND L 32 9 3 12 25.0 2 7 28.6 1 1 100.0 0 3 3 4 0 0 3 2 -44
+p385
+aVDeSagana Diop CHA 02/19/2012 CHA @ IND L 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 4 1 -22
+p386
+aVBismack Biyombo CHA 02/19/2012 CHA @ IND L 24 0 0 2 0.0 0 0 - 0 4 0.0 2 6 8 2 2 2 2 2 -15
+p387
+aVDJ White CHA 02/19/2012 CHA @ IND L 25 10 4 7 57.1 0 0 - 2 2 100.0 1 4 5 0 0 1 1 4 5
+p388
+aVByron Mullens CHA 02/19/2012 CHA @ IND L 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 1 4 2
+p389
+aVMatt Carroll CHA 02/19/2012 CHA @ IND L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 1 0 1 2
+p390
+aVCory Higgins CHA 02/19/2012 CHA @ IND L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 9
+p391
+aVCorey Maggette CHA 02/19/2012 CHA @ IND L 20 10 4 14 28.6 0 1 0.0 2 4 50.0 0 2 2 0 0 0 1 4 -39
+p392
+aVKemba Walker CHA 02/19/2012 CHA @ IND L 26 15 6 13 46.2 1 6 16.7 2 2 100.0 0 1 1 5 2 0 1 0 -5
+p393
+aVDerrick Brown CHA 02/19/2012 CHA @ IND L 28 16 6 9 66.7 0 0 - 4 5 80.0 0 1 1 0 0 1 0 1 4
+p394
+aVBoris Diaw CHA 02/19/2012 CHA @ IND L 17 0 0 3 0.0 0 0 - 0 0 - 1 1 2 4 0 0 4 2 -32
+p395
+aVReggie Williams CHA 02/19/2012 CHA @ IND L 24 6 3 7 42.9 0 2 0.0 0 2 0.0 1 4 5 1 1 0 1 2 -32
+p396
+aVTyrus Thomas CHA 02/19/2012 CHA @ IND L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p397
+aVKemba Walker CHA 02/17/2012 CHA @ TOR W 30 14 5 15 33.3 1 4 25.0 3 3 100.0 0 3 3 8 2 0 1 3 14
+p398
+aVBoris Diaw CHA 02/17/2012 CHA @ TOR W 29 6 3 8 37.5 0 1 0.0 0 0 - 0 6 6 3 0 1 4 3 5
+p399
+aVDJ White CHA 02/17/2012 CHA @ TOR W 18 10 5 8 62.5 0 0 - 0 0 - 0 5 5 1 0 0 0 1 2
+p400
+aVMatt Carroll CHA 02/17/2012 CHA @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p401
+aVTyrus Thomas CHA 02/17/2012 CHA @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p402
+aVD.J. Augustin CHA 02/17/2012 CHA @ TOR W 32 11 3 7 42.9 1 3 33.3 4 4 100.0 0 3 3 10 1 0 3 0 5
+p403
+aVBismack Biyombo CHA 02/17/2012 CHA @ TOR W 32 8 3 4 75.0 0 0 - 2 4 50.0 5 8 13 0 0 7 2 1 -4
+p404
+aVByron Mullens CHA 02/17/2012 CHA @ TOR W 14 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 1 0 0 0 2 7
+p405
+aVCorey Maggette CHA 02/17/2012 CHA @ TOR W 26 16 5 12 41.7 0 1 0.0 6 8 75.0 0 4 4 2 0 0 3 3 8
+p406
+aVReggie Williams CHA 02/17/2012 CHA @ TOR W 31 22 9 13 69.2 4 6 66.7 0 0 - 0 1 1 0 0 0 1 2 -6
+p407
+aVDerrick Brown CHA 02/17/2012 CHA @ TOR W 22 7 3 4 75.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 -1
+p408
+aVMatt Carroll CHA 02/15/2012 CHA @ MIN L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -5
+p409
+aVTyrus Thomas CHA 02/15/2012 CHA @ MIN L 13 4 2 4 50.0 0 0 - 0 2 0.0 0 0 0 0 1 1 0 3 -2
+p410
+aVDerrick Brown CHA 02/15/2012 CHA @ MIN L 16 6 3 4 75.0 0 0 - 0 0 - 2 1 3 2 0 0 0 1 -5
+p411
+aVBoris Diaw CHA 02/15/2012 CHA @ MIN L 38 14 7 12 58.3 0 1 0.0 0 0 - 5 4 9 7 3 0 5 1 -7
+p412
+aVD.J. Augustin CHA 02/15/2012 CHA @ MIN L 24 9 4 10 40.0 1 2 50.0 0 0 - 0 2 2 2 1 0 4 3 2
+p413
+aVDeSagana Diop CHA 02/15/2012 CHA @ MIN L 6 0 0 0 - 0 0 - 0 0 - 3 0 3 0 0 0 0 0 -11
+p414
+aVCorey Maggette CHA 02/15/2012 CHA @ MIN L 32 18 6 17 35.3 1 2 50.0 5 6 83.3 0 3 3 0 1 0 3 4 -7
+p415
+aVBismack Biyombo CHA 02/15/2012 CHA @ MIN L 20 4 1 4 25.0 0 0 - 2 6 33.3 1 3 4 0 1 1 0 3 4
+p416
+aVCory Higgins CHA 02/15/2012 CHA @ MIN L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 4
+p417
+aVReggie Williams CHA 02/15/2012 CHA @ MIN L 30 10 4 8 50.0 2 4 50.0 0 0 - 2 5 7 2 0 0 2 2 -5
+p418
+aVDJ White CHA 02/15/2012 CHA @ MIN L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p419
+aVKemba Walker CHA 02/15/2012 CHA @ MIN L 32 21 9 17 52.9 3 7 42.9 0 1 0.0 0 6 6 2 1 0 1 1 -20
+p420
+aVByron Mullens CHA 02/15/2012 CHA @ MIN L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 1 -3
+p421
+aVKemba Walker CHA 02/13/2012 CHA vs. PHI L 39 21 6 15 40.0 3 8 37.5 6 9 66.7 0 3 3 5 0 0 1 1 -4
+p422
+aVByron Mullens CHA 02/13/2012 CHA vs. PHI L 24 13 4 13 30.8 0 0 - 5 5 100.0 0 9 9 0 0 2 2 2 -9
+p423
+aVCorey Maggette CHA 02/13/2012 CHA vs. PHI L 32 22 8 16 50.0 0 2 0.0 6 8 75.0 0 2 2 0 3 0 1 3 -7
+p424
+aVReggie Williams CHA 02/13/2012 CHA vs. PHI L 39 14 5 13 38.5 2 5 40.0 2 2 100.0 0 5 5 1 1 0 2 2 -1
+p425
+aVMatt Carroll CHA 02/13/2012 CHA vs. PHI L 10 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 0 0 0 1 1 -7
+p426
+aVCory Higgins CHA 02/13/2012 CHA vs. PHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 4 -8
+p427
+aVBoris Diaw CHA 02/13/2012 CHA vs. PHI L 39 2 1 3 33.3 0 0 - 0 0 - 0 5 5 10 1 2 2 2 -3
+p428
+aVBismack Biyombo CHA 02/13/2012 CHA vs. PHI L 24 7 3 4 75.0 0 0 - 1 2 50.0 3 4 7 1 0 1 3 0 0
+p429
+aVTyrus Thomas CHA 02/13/2012 CHA vs. PHI L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p430
+aVDerrick Brown CHA 02/13/2012 CHA vs. PHI L 18 4 1 2 50.0 0 0 - 2 4 50.0 1 4 5 1 0 0 0 0 0
+p431
+aVCorey Maggette CHA 02/11/2012 CHA vs. LAC L 25 12 3 8 37.5 0 2 0.0 6 7 85.7 0 6 6 2 0 0 3 1 -19
+p432
+aVReggie Williams CHA 02/11/2012 CHA vs. LAC L 28 2 1 12 8.3 0 4 0.0 0 0 - 0 1 1 2 1 0 0 0 -17
+p433
+aVMatt Carroll CHA 02/11/2012 CHA vs. LAC L 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 2 0 0 -5
+p434
+aVDeSagana Diop CHA 02/11/2012 CHA vs. LAC L 9 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -3
+p435
+aVBismack Biyombo CHA 02/11/2012 CHA vs. LAC L 19 3 1 2 50.0 0 0 - 1 2 50.0 2 4 6 0 0 1 0 4 -22
+p436
+aVKemba Walker CHA 02/11/2012 CHA vs. LAC L 34 19 4 13 30.8 0 2 0.0 11 12 91.7 0 1 1 4 1 0 0 1 -25
+p437
+aVDJ White CHA 02/11/2012 CHA vs. LAC L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p438
+aVByron Mullens CHA 02/11/2012 CHA vs. LAC L 20 10 4 7 57.1 0 0 - 2 4 50.0 2 2 4 2 0 1 0 3 0
+p439
+aVCory Higgins CHA 02/11/2012 CHA vs. LAC L 19 8 2 8 25.0 0 0 - 4 6 66.7 1 1 2 2 0 0 1 2 -3
+p440
+aVDerrick Brown CHA 02/11/2012 CHA vs. LAC L 23 10 1 3 33.3 0 0 - 8 10 80.0 1 2 3 0 0 0 0 1 -6
+p441
+aVBoris Diaw CHA 02/11/2012 CHA vs. LAC L 24 7 3 10 30.0 1 6 16.7 0 0 - 0 1 1 2 0 2 0 2 -22
+p442
+aVTyrus Thomas CHA 02/11/2012 CHA vs. LAC L 18 11 5 6 83.3 0 0 - 1 2 50.0 1 4 5 2 0 0 0 3 0
+p443
+aVDJ White CHA 02/10/2012 CHA vs. CHI L 18 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 2 0 0 2 0 -11
+p444
+aVTyrus Thomas CHA 02/10/2012 CHA vs. CHI L 23 2 1 5 20.0 0 0 - 0 0 - 0 5 5 1 1 3 0 4 -6
+p445
+aVMatt Carroll CHA 02/10/2012 CHA vs. CHI L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 0 -7
+p446
+aVCorey Maggette CHA 02/10/2012 CHA vs. CHI L 13 4 2 7 28.6 0 0 - 0 0 - 1 3 4 0 0 0 3 0 -16
+p447
+aVByron Mullens CHA 02/10/2012 CHA vs. CHI L 12 0 0 5 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -9
+p448
+aVKemba Walker CHA 02/10/2012 CHA vs. CHI L 31 9 2 11 18.2 1 3 33.3 4 4 100.0 0 4 4 5 0 0 0 2 -21
+p449
+aVBismack Biyombo CHA 02/10/2012 CHA vs. CHI L 30 8 3 5 60.0 0 0 - 2 3 66.7 4 6 10 1 1 1 2 3 -21
+p450
+aVReggie Williams CHA 02/10/2012 CHA vs. CHI L 27 6 3 10 30.0 0 1 0.0 0 0 - 1 0 1 2 1 0 1 3 -22
+p451
+aVBoris Diaw CHA 02/10/2012 CHA vs. CHI L 27 8 4 9 44.4 0 2 0.0 0 0 - 1 3 4 6 0 0 1 0 -19
+p452
+aVDerrick Brown CHA 02/10/2012 CHA vs. CHI L 20 10 4 8 50.0 0 0 - 2 3 66.7 0 2 2 0 2 0 3 3 -10
+p453
+aVCory Higgins CHA 02/10/2012 CHA vs. CHI L 17 8 2 7 28.6 0 0 - 4 5 80.0 0 0 0 0 0 0 3 1 -10
+p454
+aVDeSagana Diop CHA 02/10/2012 CHA vs. CHI L 12 2 1 2 50.0 0 0 - 0 2 0.0 0 6 6 0 0 1 0 2 -3
+p455
+aVReggie Williams CHA 02/07/2012 CHA @ BOS L 37 21 6 15 40.0 2 8 25.0 7 8 87.5 0 3 3 5 0 0 3 2 -18
+p456
+aVEduardo Najera CHA 02/07/2012 CHA @ BOS L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p457
+aVCory Higgins CHA 02/07/2012 CHA @ BOS L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 1
+p458
+aVTyrus Thomas CHA 02/07/2012 CHA @ BOS L 20 2 1 6 16.7 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -12
+p459
+aVByron Mullens CHA 02/07/2012 CHA @ BOS L 26 11 5 11 45.5 0 0 - 1 2 50.0 0 6 6 1 2 0 0 1 2
+p460
+aVKemba Walker CHA 02/07/2012 CHA @ BOS L 39 16 5 13 38.5 1 4 25.0 5 5 100.0 2 5 7 2 0 0 4 2 -14
+p461
+aVBoris Diaw CHA 02/07/2012 CHA @ BOS L 29 4 2 6 33.3 0 3 0.0 0 0 - 0 6 6 3 0 0 1 2 -17
+p462
+aVDerrick Brown CHA 02/07/2012 CHA @ BOS L 28 20 10 10 100.0 0 0 - 0 1 0.0 1 3 4 2 0 0 1 1 2
+p463
+aVMatt Carroll CHA 02/07/2012 CHA @ BOS L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 0 0 8
+p464
+aVBismack Biyombo CHA 02/07/2012 CHA @ BOS L 22 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -9
+p465
+aVDJ White CHA 02/07/2012 CHA @ BOS L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 3
+p466
+aVCory Higgins CHA 02/04/2012 CHA @ PHX L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 1 2 -9
+p467
+aVBoris Diaw CHA 02/04/2012 CHA @ PHX L 38 13 5 10 50.0 3 5 60.0 0 0 - 1 2 3 3 1 1 5 1 1
+p468
+aVByron Mullens CHA 02/04/2012 CHA @ PHX L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 1 1 1 -7
+p469
+aVBismack Biyombo CHA 02/04/2012 CHA @ PHX L 36 11 5 6 83.3 0 0 - 1 2 50.0 3 9 12 1 1 2 2 4 1
+p470
+aVDJ White CHA 02/04/2012 CHA @ PHX L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -7
+p471
+aVDerrick Brown CHA 02/04/2012 CHA @ PHX L 22 9 3 6 50.0 0 0 - 3 5 60.0 1 0 1 0 0 0 0 3 -7
+p472
+aVMatt Carroll CHA 02/04/2012 CHA @ PHX L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 1
+p473
+aVTyrus Thomas CHA 02/04/2012 CHA @ PHX L 26 8 3 14 21.4 0 0 - 2 2 100.0 2 11 13 0 0 1 2 2 1
+p474
+aVKemba Walker CHA 02/04/2012 CHA @ PHX L 41 22 7 16 43.8 4 5 80.0 4 4 100.0 1 2 3 4 1 0 1 1 3
+p475
+aVReggie Williams CHA 02/04/2012 CHA @ PHX L 39 21 8 15 53.3 2 8 25.0 3 4 75.0 2 5 7 6 1 0 0 3 -7
+p476
+aVByron Mullens CHA 02/01/2012 CHA @ POR L 20 10 5 9 55.6 0 0 - 0 0 - 1 1 2 2 1 2 1 2 -12
+p477
+aVReggie Williams CHA 02/01/2012 CHA @ POR L 16 2 1 8 12.5 0 2 0.0 0 0 - 2 3 5 1 0 0 2 1 -26
+p478
+aVDJ White CHA 02/01/2012 CHA @ POR L 14 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 2 2 1 -6
+p479
+aVBismack Biyombo CHA 02/01/2012 CHA @ POR L 14 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 1 1 3 5 -15
+p480
+aVBoris Diaw CHA 02/01/2012 CHA @ POR L 29 3 1 7 14.3 0 3 0.0 1 2 50.0 1 5 6 3 0 1 1 1 -26
+p481
+aVTyrus Thomas CHA 02/01/2012 CHA @ POR L 21 7 2 5 40.0 0 0 - 3 3 100.0 1 4 5 1 2 2 0 1 -16
+p482
+aVEduardo Najera CHA 02/01/2012 CHA @ POR L 5 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 -13
+p483
+aVKemba Walker CHA 02/01/2012 CHA @ POR L 29 4 1 11 9.1 0 2 0.0 2 2 100.0 1 1 2 3 1 0 0 3 -36
+p484
+aVCory Higgins CHA 02/01/2012 CHA @ POR L 19 3 0 4 0.0 0 0 - 3 4 75.0 0 1 1 3 0 0 4 1 -8
+p485
+aVMatt Carroll CHA 02/01/2012 CHA @ POR L 11 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 1 0 0 0 0
+p486
+aVDeSagana Diop CHA 02/01/2012 CHA @ POR L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -16
+p487
+aVGerald Henderson CHA 02/01/2012 CHA @ POR L 21 16 7 13 53.8 0 0 - 2 2 100.0 2 1 3 1 0 0 5 1 -18
+p488
+aVDerrick Brown CHA 02/01/2012 CHA @ POR L 27 12 6 13 46.2 0 0 - 0 0 - 3 1 4 0 0 0 1 1 -28
+p489
+aVDJ White CHA 01/31/2012 CHA @ LAL L 20 7 3 8 37.5 0 0 - 1 2 50.0 1 1 2 2 1 0 0 2 -19
+p490
+aVBismack Biyombo CHA 01/31/2012 CHA @ LAL L 14 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -20
+p491
+aVCory Higgins CHA 01/31/2012 CHA @ LAL L 14 0 0 6 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -16
+p492
+aVBoris Diaw CHA 01/31/2012 CHA @ LAL L 28 11 5 14 35.7 1 3 33.3 0 0 - 0 4 4 4 2 0 1 2 -14
+p493
+aVDerrick Brown CHA 01/31/2012 CHA @ LAL L 20 12 5 8 62.5 0 1 0.0 2 2 100.0 3 0 3 0 1 0 1 0 -14
+p494
+aVMatt Carroll CHA 01/31/2012 CHA @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p495
+aVByron Mullens CHA 01/31/2012 CHA @ LAL L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 0 1 0 2 1 -20
+p496
+aVGerald Henderson CHA 01/31/2012 CHA @ LAL L 30 14 7 16 43.8 0 0 - 0 1 0.0 1 2 3 2 0 0 0 2 -6
+p497
+aVKemba Walker CHA 01/31/2012 CHA @ LAL L 34 12 4 11 36.4 1 2 50.0 3 4 75.0 0 6 6 6 1 0 1 0 -17
+p498
+aVTyrus Thomas CHA 01/31/2012 CHA @ LAL L 28 6 2 9 22.2 0 0 - 2 2 100.0 1 1 2 0 1 1 1 2 -19
+p499
+aVReggie Williams CHA 01/31/2012 CHA @ LAL L 13 6 3 7 42.9 0 2 0.0 0 0 - 2 0 2 0 0 0 1 0 -22
+p500
+aVDeSagana Diop CHA 01/31/2012 CHA @ LAL L 17 0 0 2 0.0 0 0 - 0 0 - 3 5 8 2 0 1 1 2 7
+p501
+aVBoris Diaw CHA 01/28/2012 CHA vs. WAS L 41 21 7 11 63.6 1 2 50.0 6 10 60.0 2 1 3 10 1 0 3 0 4
+p502
+aVByron Mullens CHA 01/28/2012 CHA vs. WAS L 31 23 10 17 58.8 0 1 0.0 3 4 75.0 1 2 3 0 0 0 1 2 5
+p503
+aVDeSagana Diop CHA 01/28/2012 CHA vs. WAS L 17 1 0 4 0.0 0 0 - 1 4 25.0 4 4 8 4 2 0 0 3 -8
+p504
+aVDerrick Brown CHA 01/28/2012 CHA vs. WAS L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 -5
+p505
+aVBismack Biyombo CHA 01/28/2012 CHA vs. WAS L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p506
+aVCory Higgins CHA 01/28/2012 CHA vs. WAS L 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p507
+aVKemba Walker CHA 01/28/2012 CHA vs. WAS L 43 20 8 18 44.4 2 4 50.0 2 4 50.0 3 7 10 11 1 2 4 0 3
+p508
+aVMatt Carroll CHA 01/28/2012 CHA vs. WAS L 40 13 4 13 30.8 1 3 33.3 4 5 80.0 0 4 4 1 3 1 2 4 3
+p509
+aVTyrus Thomas CHA 01/28/2012 CHA vs. WAS L 35 13 6 12 50.0 0 0 - 1 2 50.0 4 6 10 2 0 0 4 3 -6
+p510
+aVBismack Biyombo CHA 01/27/2012 CHA @ PHI L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -5
+p511
+aVKemba Walker CHA 01/27/2012 CHA @ PHI L 32 14 5 14 35.7 2 5 40.0 2 3 66.7 1 7 8 2 2 1 3 0 -16
+p512
+aVTyrus Thomas CHA 01/27/2012 CHA @ PHI L 32 9 3 8 37.5 0 0 - 3 4 75.0 2 5 7 0 1 2 0 3 -2
+p513
+aVDeSagana Diop CHA 01/27/2012 CHA @ PHI L 14 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -6
+p514
+aVMatt Carroll CHA 01/27/2012 CHA @ PHI L 28 11 4 7 57.1 1 2 50.0 2 2 100.0 1 2 3 4 0 0 1 2 -3
+p515
+aVBoris Diaw CHA 01/27/2012 CHA @ PHI L 24 10 5 10 50.0 0 2 0.0 0 0 - 0 2 2 3 0 0 5 1 -13
+p516
+aVByron Mullens CHA 01/27/2012 CHA @ PHI L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 2
+p517
+aVCory Higgins CHA 01/27/2012 CHA @ PHI L 16 0 0 4 0.0 0 3 0.0 0 2 0.0 0 1 1 1 0 0 1 0 -1
+p518
+aVEduardo Najera CHA 01/27/2012 CHA @ PHI L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p519
+aVDerrick Brown CHA 01/27/2012 CHA @ PHI L 30 11 3 6 50.0 1 1 100.0 4 6 66.7 1 4 5 2 0 1 0 2 -5
+p520
+aVGerald Henderson CHA 01/27/2012 CHA @ PHI L 31 7 2 10 20.0 0 0 - 3 4 75.0 1 2 3 2 1 0 3 3 -30
+p521
+aVDJ White CHA 01/25/2012 CHA @ WAS L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p522
+aVDerrick Brown CHA 01/25/2012 CHA @ WAS L 29 10 3 7 42.9 0 0 - 4 6 66.7 3 3 6 0 1 0 3 0 -15
+p523
+aVEduardo Najera CHA 01/25/2012 CHA @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p524
+aVTyrus Thomas CHA 01/25/2012 CHA @ WAS L 33 13 5 9 55.6 0 0 - 3 4 75.0 2 7 9 1 4 9 2 2 -9
+p525
+aVCory Higgins CHA 01/25/2012 CHA @ WAS L 21 13 4 10 40.0 1 2 50.0 4 6 66.7 0 0 0 3 0 0 4 1 0
+p526
+aVByron Mullens CHA 01/25/2012 CHA @ WAS L 18 5 1 6 16.7 0 0 - 3 4 75.0 0 0 0 1 1 0 1 3 -15
+p527
+aVBoris Diaw CHA 01/25/2012 CHA @ WAS L 21 4 2 8 25.0 0 2 0.0 0 0 - 3 2 5 2 1 0 1 0 -12
+p528
+aVKemba Walker CHA 01/25/2012 CHA @ WAS L 38 8 4 19 21.1 0 4 0.0 0 0 - 0 6 6 4 1 0 3 0 -17
+p529
+aVMatt Carroll CHA 01/25/2012 CHA @ WAS L 35 17 7 10 70.0 0 1 0.0 3 3 100.0 0 3 3 1 1 0 3 2 -17
+p530
+aVBismack Biyombo CHA 01/25/2012 CHA @ WAS L 24 1 0 2 0.0 0 0 - 1 2 50.0 4 3 7 0 0 4 1 1 0
+p531
+aVDeSagana Diop CHA 01/25/2012 CHA @ WAS L 11 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 3 0 0 0 8
+p532
+aVKemba Walker CHA 01/24/2012 CHA vs. NYK L 36 22 7 17 41.2 2 4 50.0 6 6 100.0 0 5 5 2 0 2 4 1 -23
+p533
+aVBoris Diaw CHA 01/24/2012 CHA vs. NYK L 24 4 1 6 16.7 0 3 0.0 2 2 100.0 2 4 6 1 0 0 2 2 -15
+p534
+aVTyrus Thomas CHA 01/24/2012 CHA vs. NYK L 31 4 1 9 11.1 0 0 - 2 2 100.0 2 2 4 1 2 2 3 4 -16
+p535
+aVDeSagana Diop CHA 01/24/2012 CHA vs. NYK L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 1
+p536
+aVBismack Biyombo CHA 01/24/2012 CHA vs. NYK L 11 0 0 5 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -17
+p537
+aVByron Mullens CHA 01/24/2012 CHA vs. NYK L 28 6 3 8 37.5 0 0 - 0 0 - 1 4 5 1 1 3 1 0 -17
+p538
+aVMatt Carroll CHA 01/24/2012 CHA vs. NYK L 19 3 1 5 20.0 0 2 0.0 1 1 100.0 0 0 0 1 0 0 1 3 -14
+p539
+aVCory Higgins CHA 01/24/2012 CHA vs. NYK L 15 6 1 2 50.0 0 0 - 4 4 100.0 0 1 1 2 0 0 1 3 -17
+p540
+aVGerald Henderson CHA 01/24/2012 CHA vs. NYK L 27 15 6 14 42.9 0 0 - 3 4 75.0 0 3 3 0 0 0 0 4 -12
+p541
+aVDerrick Brown CHA 01/24/2012 CHA vs. NYK L 33 15 6 13 46.2 0 1 0.0 3 3 100.0 2 2 4 0 2 1 0 0 -25
+p542
+aVEduardo Najera CHA 01/24/2012 CHA vs. NYK L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 3 -10
+p543
+aVByron Mullens CHA 01/22/2012 CHA @ NJN L 21 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 1 1 1 0
+p544
+aVGerald Henderson CHA 01/22/2012 CHA @ NJN L 35 15 6 12 50.0 1 1 100.0 2 2 100.0 0 1 1 2 0 0 2 1 -11
+p545
+aVBismack Biyombo CHA 01/22/2012 CHA @ NJN L 18 11 5 6 83.3 0 0 - 1 4 25.0 3 4 7 1 2 4 1 5 0
+p546
+aVCory Higgins CHA 01/22/2012 CHA @ NJN L 20 10 5 10 50.0 0 2 0.0 0 0 - 0 0 0 1 2 0 1 2 -3
+p547
+aVKemba Walker CHA 01/22/2012 CHA @ NJN L 32 16 5 13 38.5 1 3 33.3 5 7 71.4 0 6 6 3 1 0 3 3 -8
+p548
+aVEduardo Najera CHA 01/22/2012 CHA @ NJN L 18 6 2 3 66.7 2 2 100.0 0 0 - 1 3 4 1 0 0 0 2 -3
+p549
+aVMatt Carroll CHA 01/22/2012 CHA @ NJN L 18 6 3 11 27.3 0 3 0.0 0 0 - 0 1 1 2 1 0 0 2 -3
+p550
+aVDerrick Brown CHA 01/22/2012 CHA @ NJN L 30 11 5 11 45.5 1 3 33.3 0 2 0.0 1 2 3 1 2 0 0 0 1
+p551
+aVBoris Diaw CHA 01/22/2012 CHA @ NJN L 19 4 2 3 66.7 0 0 - 0 0 - 0 2 2 4 0 0 2 1 -19
+p552
+aVTyrus Thomas CHA 01/22/2012 CHA @ NJN L 20 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 1 1 2 3 2
+p553
+aVD.J. Augustin CHA 01/22/2012 CHA @ NJN L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -6
+p554
+aVDerrick Brown CHA 01/21/2012 CHA @ CHI L 24 7 2 4 50.0 0 0 - 3 4 75.0 1 6 7 1 0 0 2 2 2
+p555
+aVD.J. Augustin CHA 01/21/2012 CHA @ CHI L 26 3 1 6 16.7 0 2 0.0 1 2 50.0 0 0 0 3 0 0 4 1 -15
+p556
+aVBismack Biyombo CHA 01/21/2012 CHA @ CHI L 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p557
+aVEduardo Najera CHA 01/21/2012 CHA @ CHI L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 9
+p558
+aVBoris Diaw CHA 01/21/2012 CHA @ CHI L 16 7 3 6 50.0 0 3 0.0 1 3 33.3 0 3 3 1 0 0 0 1 0
+p559
+aVDJ White CHA 01/21/2012 CHA @ CHI L 8 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 1 0 0 0 0 5
+p560
+aVGerald Henderson CHA 01/21/2012 CHA @ CHI L 33 22 9 17 52.9 0 2 0.0 4 6 66.7 2 7 9 1 0 1 3 3 -13
+p561
+aVCory Higgins CHA 01/21/2012 CHA @ CHI L 16 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 3 0 0 0 1 13
+p562
+aVTyrus Thomas CHA 01/21/2012 CHA @ CHI L 29 6 3 4 75.0 0 0 - 0 0 - 1 6 7 2 1 3 3 4 -12
+p563
+aVMatt Carroll CHA 01/21/2012 CHA @ CHI L 19 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 3 1 0 0 0 12
+p564
+aVKemba Walker CHA 01/21/2012 CHA @ CHI L 25 4 1 5 20.0 0 1 0.0 2 2 100.0 0 5 5 2 1 1 4 1 -17
+p565
+aVByron Mullens CHA 01/21/2012 CHA @ CHI L 27 17 7 14 50.0 1 2 50.0 2 2 100.0 1 4 5 0 0 0 0 2 -15
+p566
+aVCory Higgins CHA 01/17/2012 CHA @ ORL L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p567
+aVGerald Henderson CHA 01/17/2012 CHA @ ORL L 39 22 7 10 70.0 0 0 - 8 10 80.0 1 3 4 3 0 0 1 1 3
+p568
+aVBismack Biyombo CHA 01/17/2012 CHA @ ORL L 21 11 5 5 100.0 0 0 - 1 2 50.0 1 9 10 1 0 4 1 4 1
+p569
+aVByron Mullens CHA 01/17/2012 CHA @ ORL L 23 8 4 10 40.0 0 1 0.0 0 0 - 0 4 4 2 1 1 1 5 -6
+p570
+aVMatt Carroll CHA 01/17/2012 CHA @ ORL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p571
+aVD.J. Augustin CHA 01/17/2012 CHA @ ORL L 41 13 6 12 50.0 1 4 25.0 0 1 0.0 1 3 4 5 4 0 8 3 -13
+p572
+aVBoris Diaw CHA 01/17/2012 CHA @ ORL L 24 9 4 8 50.0 1 4 25.0 0 0 - 1 5 6 3 1 0 0 1 6
+p573
+aVKemba Walker CHA 01/17/2012 CHA @ ORL L 38 15 6 13 46.2 3 7 42.9 0 0 - 0 4 4 6 2 0 4 3 2
+p574
+aVTyrus Thomas CHA 01/17/2012 CHA @ ORL L 28 7 2 10 20.0 0 0 - 3 4 75.0 0 2 2 1 2 1 0 3 -15
+p575
+aVDerrick Brown CHA 01/17/2012 CHA @ ORL L 14 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 1 1 0 2 0 -13
+p576
+aVTyrus Thomas CHA 01/16/2012 CHA vs. CLE L 16 1 0 3 0.0 0 0 - 1 2 50.0 1 0 1 1 1 3 0 3 -3
+p577
+aVCory Higgins CHA 01/16/2012 CHA vs. CLE L 12 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 0 0 1 0 2 3
+p578
+aVKemba Walker CHA 01/16/2012 CHA vs. CLE L 38 14 6 21 28.6 1 4 25.0 1 2 50.0 0 5 5 4 4 2 2 2 -21
+p579
+aVByron Mullens CHA 01/16/2012 CHA vs. CLE L 36 9 3 11 27.3 1 3 33.3 2 4 50.0 3 9 12 1 1 0 2 4 -3
+p580
+aVD.J. Augustin CHA 01/16/2012 CHA vs. CLE L 40 24 9 17 52.9 2 7 28.6 4 5 80.0 1 3 4 8 2 0 2 2 -10
+p581
+aVBoris Diaw CHA 01/16/2012 CHA vs. CLE L 12 4 2 4 50.0 0 1 0.0 0 0 - 2 2 4 2 1 0 2 1 -5
+p582
+aVDJ White CHA 01/16/2012 CHA vs. CLE L 32 15 7 9 77.8 0 0 - 1 2 50.0 2 3 5 2 0 0 0 3 -5
+p583
+aVDerrick Brown CHA 01/16/2012 CHA vs. CLE L 20 8 4 4 100.0 0 0 - 0 2 0.0 3 2 5 1 1 2 0 3 10
+p584
+aVGerald Henderson CHA 01/16/2012 CHA vs. CLE L 35 17 6 11 54.5 0 0 - 5 9 55.6 0 3 3 1 1 0 2 3 -6
+p585
+aVTyrus Thomas CHA 01/14/2012 CHA vs. GSW W 26 5 2 6 33.3 0 0 - 1 2 50.0 0 4 4 1 0 0 0 3 8
+p586
+aVD.J. Augustin CHA 01/14/2012 CHA vs. GSW W 44 16 4 8 50.0 3 4 75.0 5 7 71.4 0 2 2 7 1 0 2 3 7
+p587
+aVCory Higgins CHA 01/14/2012 CHA vs. GSW W 16 2 1 3 33.3 0 2 0.0 0 0 - 0 4 4 0 0 0 2 1 8
+p588
+aVKemba Walker CHA 01/14/2012 CHA vs. GSW W 39 23 8 15 53.3 2 4 50.0 5 6 83.3 1 3 4 5 2 1 0 3 10
+p589
+aVBoris Diaw CHA 01/14/2012 CHA vs. GSW W 23 9 3 4 75.0 1 1 100.0 2 2 100.0 0 4 4 3 0 0 4 5 6
+p590
+aVBismack Biyombo CHA 01/14/2012 CHA vs. GSW W 10 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 0 0 0 2 2 2
+p591
+aVByron Mullens CHA 01/14/2012 CHA vs. GSW W 32 20 7 15 46.7 1 1 100.0 5 5 100.0 1 6 7 2 0 0 1 5 8
+p592
+aVDerrick Brown CHA 01/14/2012 CHA vs. GSW W 9 6 3 7 42.9 0 0 - 0 0 - 3 1 4 0 0 0 1 1 0
+p593
+aVGerald Henderson CHA 01/14/2012 CHA vs. GSW W 42 26 9 17 52.9 0 1 0.0 8 12 66.7 3 3 6 3 0 1 2 2 11
+p594
+aVTyrus Thomas CHA 01/13/2012 CHA vs. DET L 30 10 4 9 44.4 0 0 - 2 2 100.0 0 7 7 0 0 3 2 2 -16
+p595
+aVBismack Biyombo CHA 01/13/2012 CHA vs. DET L 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 5 1 1 -4
+p596
+aVBoris Diaw CHA 01/13/2012 CHA vs. DET L 25 3 1 2 50.0 0 1 0.0 1 2 50.0 1 6 7 5 0 1 1 2 -10
+p597
+aVMatt Carroll CHA 01/13/2012 CHA vs. DET L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p598
+aVDJ White CHA 01/13/2012 CHA vs. DET L 30 10 4 9 44.4 0 0 - 2 2 100.0 1 5 6 0 0 0 0 1 -6
+p599
+aVDerrick Brown CHA 01/13/2012 CHA vs. DET L 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 2 0 0 1 0
+p600
+aVByron Mullens CHA 01/13/2012 CHA vs. DET L 29 18 9 19 47.4 0 0 - 0 0 - 3 4 7 0 1 0 2 3 -14
+p601
+aVKemba Walker CHA 01/13/2012 CHA vs. DET L 23 16 6 8 75.0 1 2 50.0 3 4 75.0 1 1 2 2 2 0 2 0 -11
+p602
+aVD.J. Augustin CHA 01/13/2012 CHA vs. DET L 31 7 3 7 42.9 0 4 0.0 1 1 100.0 0 1 1 13 0 0 2 0 -13
+p603
+aVCory Higgins CHA 01/13/2012 CHA vs. DET L 10 7 2 3 66.7 0 0 - 3 3 100.0 0 0 0 0 0 0 0 1 -4
+p604
+aVGerald Henderson CHA 01/13/2012 CHA vs. DET L 29 6 2 8 25.0 0 0 - 2 2 100.0 1 1 2 2 0 0 1 4 -3
+p605
+aVD.J. Augustin CHA 01/12/2012 CHA @ ATL L 26 8 4 9 44.4 0 2 0.0 0 0 - 0 1 1 8 2 0 2 0 -12
+p606
+aVDerrick Brown CHA 01/12/2012 CHA @ ATL L 19 6 3 4 75.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -11
+p607
+aVDJ White CHA 01/12/2012 CHA @ ATL L 22 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 0 0 2 4 -23
+p608
+aVBismack Biyombo CHA 01/12/2012 CHA @ ATL L 12 2 1 5 20.0 0 0 - 0 0 - 2 3 5 0 0 1 1 4 -8
+p609
+aVTyrus Thomas CHA 01/12/2012 CHA @ ATL L 26 9 3 6 50.0 0 0 - 3 3 100.0 0 0 0 0 0 3 1 4 -12
+p610
+aVBoris Diaw CHA 01/12/2012 CHA @ ATL L 26 0 0 3 0.0 0 2 0.0 0 0 - 0 6 6 4 0 1 2 2 -7
+p611
+aVGerald Henderson CHA 01/12/2012 CHA @ ATL L 33 16 7 13 53.8 0 1 0.0 2 2 100.0 1 3 4 2 1 1 2 1 -24
+p612
+aVMatt Carroll CHA 01/12/2012 CHA @ ATL L 5 3 0 1 0.0 0 0 - 3 3 100.0 0 0 0 0 0 0 1 0 -9
+p613
+aVByron Mullens CHA 01/12/2012 CHA @ ATL L 33 21 8 16 50.0 0 0 - 5 6 83.3 0 4 4 0 0 0 0 2 -26
+p614
+aVKemba Walker CHA 01/12/2012 CHA @ ATL L 22 6 2 9 22.2 1 3 33.3 1 2 50.0 0 3 3 2 0 0 1 1 -18
+p615
+aVDeSagana Diop CHA 01/12/2012 CHA @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p616
+aVCory Higgins CHA 01/12/2012 CHA @ ATL L 12 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -4
+p617
+aVDeSagana Diop CHA 01/10/2012 CHA vs. HOU L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 3 3 -12
+p618
+aVByron Mullens CHA 01/10/2012 CHA vs. HOU L 26 15 5 11 45.5 0 0 - 5 6 83.3 2 8 10 1 1 1 0 3 -7
+p619
+aVBoris Diaw CHA 01/10/2012 CHA vs. HOU L 38 4 2 14 14.3 0 4 0.0 0 0 - 1 7 8 3 1 2 3 4 -5
+p620
+aVBismack Biyombo CHA 01/10/2012 CHA vs. HOU L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -7
+p621
+aVMatt Carroll CHA 01/10/2012 CHA vs. HOU L 17 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 1 1 1 0 2 1
+p622
+aVD.J. Augustin CHA 01/10/2012 CHA vs. HOU L 29 11 4 13 30.8 1 4 25.0 2 2 100.0 1 0 1 3 0 0 1 1 -11
+p623
+aVGerald Henderson CHA 01/10/2012 CHA vs. HOU L 32 12 6 14 42.9 0 0 - 0 0 - 0 3 3 2 1 0 1 3 -13
+p624
+aVKemba Walker CHA 01/10/2012 CHA vs. HOU L 31 9 4 13 30.8 0 3 0.0 1 1 100.0 2 6 8 3 1 0 3 2 1
+p625
+aVDJ White CHA 01/10/2012 CHA vs. HOU L 26 9 4 10 40.0 0 0 - 1 2 50.0 2 4 6 2 0 1 2 0 5
+p626
+aVDerrick Brown CHA 01/10/2012 CHA vs. HOU L 18 6 3 6 50.0 0 1 0.0 0 0 - 2 0 2 0 1 0 0 0 -12
+p627
+aVKemba Walker CHA 01/09/2012 CHA @ NYK L 16 10 2 9 22.2 1 2 50.0 5 7 71.4 0 0 0 3 1 0 4 2 -2
+p628
+aVBoris Diaw CHA 01/09/2012 CHA @ NYK L 37 19 8 12 66.7 3 5 60.0 0 0 - 1 9 10 7 1 0 3 2 -7
+p629
+aVMatt Carroll CHA 01/09/2012 CHA @ NYK L 5 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -2
+p630
+aVBismack Biyombo CHA 01/09/2012 CHA @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p631
+aVDerrick Brown CHA 01/09/2012 CHA @ NYK L 19 4 2 6 33.3 0 0 - 0 0 - 2 6 8 0 1 0 1 3 -4
+p632
+aVTyrus Thomas CHA 01/09/2012 CHA @ NYK L 22 6 2 7 28.6 0 0 - 2 2 100.0 2 2 4 0 0 2 2 5 -3
+p633
+aVDeSagana Diop CHA 01/09/2012 CHA @ NYK L 20 2 1 2 50.0 0 0 - 0 0 - 1 4 5 2 0 1 1 1 0
+p634
+aVGerald Henderson CHA 01/09/2012 CHA @ NYK L 38 14 7 16 43.8 0 3 0.0 0 0 - 0 4 4 3 1 0 1 2 -3
+p635
+aVD.J. Augustin CHA 01/09/2012 CHA @ NYK L 37 12 4 13 30.8 3 9 33.3 1 1 100.0 1 7 8 4 0 0 3 1 -2
+p636
+aVByron Mullens CHA 01/09/2012 CHA @ NYK L 17 4 1 6 16.7 0 0 - 2 2 100.0 1 2 3 1 0 0 0 2 6
+p637
+aVDJ White CHA 01/09/2012 CHA @ NYK L 25 15 7 11 63.6 0 0 - 1 2 50.0 2 5 7 1 0 0 2 5 0
+p638
+aVD.J. Augustin CHA 01/07/2012 CHA @ IND L 39 20 7 19 36.8 3 5 60.0 3 4 75.0 4 3 7 4 1 0 2 2 -5
+p639
+aVBoris Diaw CHA 01/07/2012 CHA @ IND L 27 2 1 8 12.5 0 3 0.0 0 0 - 1 1 2 2 0 2 3 6 -17
+p640
+aVBismack Biyombo CHA 01/07/2012 CHA @ IND L 12 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 -14
+p641
+aVTyrus Thomas CHA 01/07/2012 CHA @ IND L 32 10 3 6 50.0 0 0 - 4 6 66.7 1 6 7 0 0 0 2 2 -1
+p642
+aVDeSagana Diop CHA 01/07/2012 CHA @ IND L 17 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 1 0 2 -3
+p643
+aVCory Higgins CHA 01/07/2012 CHA @ IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -8
+p644
+aVKemba Walker CHA 01/07/2012 CHA @ IND L 18 6 3 10 30.0 0 3 0.0 0 0 - 1 1 2 3 0 1 0 0 -13
+p645
+aVDJ White CHA 01/07/2012 CHA @ IND L 19 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -1
+p646
+aVDerrick Brown CHA 01/07/2012 CHA @ IND L 16 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 0 1 0 1 2 -21
+p647
+aVByron Mullens CHA 01/07/2012 CHA @ IND L 21 10 3 11 27.3 0 1 0.0 4 4 100.0 7 4 11 0 0 1 0 4 -9
+p648
+aVGerald Henderson CHA 01/07/2012 CHA @ IND L 36 14 5 16 31.3 2 4 50.0 2 5 40.0 4 6 10 1 1 0 4 1 -18
+p649
+aVGerald Henderson CHA 01/06/2012 CHA vs. ATL L 33 4 2 9 22.2 0 2 0.0 0 0 - 0 4 4 2 1 2 2 3 -10
+p650
+aVBismack Biyombo CHA 01/06/2012 CHA vs. ATL L 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 3 1 1 -6
+p651
+aVTyrus Thomas CHA 01/06/2012 CHA vs. ATL L 34 7 3 9 33.3 0 1 0.0 1 2 50.0 0 5 5 2 1 1 0 2 -8
+p652
+aVDerrick Brown CHA 01/06/2012 CHA vs. ATL L 17 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 4
+p653
+aVByron Mullens CHA 01/06/2012 CHA vs. ATL L 24 17 8 13 61.5 0 0 - 1 1 100.0 3 2 5 0 0 1 2 2 3
+p654
+aVKemba Walker CHA 01/06/2012 CHA vs. ATL L 28 19 6 10 60.0 3 5 60.0 4 6 66.7 1 2 3 2 1 0 2 2 -11
+p655
+aVBoris Diaw CHA 01/06/2012 CHA vs. ATL L 41 10 4 10 40.0 2 5 40.0 0 0 - 3 6 9 4 1 1 3 3 -8
+p656
+aVD.J. Augustin CHA 01/06/2012 CHA vs. ATL L 42 21 8 16 50.0 2 5 40.0 3 4 75.0 1 1 2 12 1 0 1 1 10
+p657
+aVMatt Carroll CHA 01/06/2012 CHA vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p658
+aVDJ White CHA 01/06/2012 CHA vs. ATL L 28 14 7 15 46.7 0 0 - 0 0 - 4 5 9 0 0 1 2 3 -1
+p659
+aVMatt Carroll CHA 01/04/2012 CHA @ NYK W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 12
+p660
+aVCorey Maggette CHA 01/04/2012 CHA @ NYK W 22 12 4 12 33.3 1 2 50.0 3 4 75.0 1 2 3 4 1 0 1 2 5
+p661
+aVBoris Diaw CHA 01/04/2012 CHA @ NYK W 39 27 12 15 80.0 3 3 100.0 0 0 - 1 2 3 6 1 0 5 1 10
+p662
+aVBismack Biyombo CHA 01/04/2012 CHA @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p663
+aVByron Mullens CHA 01/04/2012 CHA @ NYK W 20 16 6 8 75.0 0 0 - 4 4 100.0 1 4 5 0 0 0 0 1 5
+p664
+aVGerald Henderson CHA 01/04/2012 CHA @ NYK W 38 24 10 13 76.9 1 2 50.0 3 4 75.0 0 4 4 0 4 0 2 2 -4
+p665
+aVDerrick Brown CHA 01/04/2012 CHA @ NYK W 26 4 1 3 33.3 0 0 - 2 3 66.7 1 4 5 2 1 0 2 4 3
+p666
+aVKemba Walker CHA 01/04/2012 CHA @ NYK W 16 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 5 1 0 2 0 3
+p667
+aVD.J. Augustin CHA 01/04/2012 CHA @ NYK W 32 14 4 14 28.6 1 2 50.0 5 6 83.3 0 6 6 10 0 0 0 1 5
+p668
+aVDJ White CHA 01/04/2012 CHA @ NYK W 33 10 5 8 62.5 0 0 - 0 0 - 3 6 9 0 1 0 0 3 3
+p669
+aVCory Higgins CHA 01/03/2012 CHA @ CLE L 2 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p670
+aVBoris Diaw CHA 01/03/2012 CHA @ CLE L 18 0 0 5 0.0 0 3 0.0 0 0 - 0 5 5 2 0 1 0 5 -9
+p671
+aVDeSagana Diop CHA 01/03/2012 CHA @ CLE L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p672
+aVKemba Walker CHA 01/03/2012 CHA @ CLE L 13 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p673
+aVD.J. Augustin CHA 01/03/2012 CHA @ CLE L 38 26 10 18 55.6 4 7 57.1 2 2 100.0 0 4 4 9 1 1 4 1 -11
+p674
+aVDJ White CHA 01/03/2012 CHA @ CLE L 31 10 5 6 83.3 0 0 - 0 0 - 1 6 7 2 0 0 0 5 -4
+p675
+aVByron Mullens CHA 01/03/2012 CHA @ CLE L 18 14 7 13 53.8 0 0 - 0 0 - 2 2 4 2 0 2 2 1 -4
+p676
+aVCorey Maggette CHA 01/03/2012 CHA @ CLE L 37 21 4 12 33.3 0 2 0.0 13 14 92.9 1 7 8 2 0 0 3 2 -5
+p677
+aVGerald Henderson CHA 01/03/2012 CHA @ CLE L 35 16 8 15 53.3 0 0 - 0 0 - 2 5 7 2 1 0 1 3 -11
+p678
+aVMatt Carroll CHA 01/03/2012 CHA @ CLE L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p679
+aVBismack Biyombo CHA 01/03/2012 CHA @ CLE L 21 8 3 6 50.0 0 0 - 2 3 66.7 3 2 5 0 0 2 0 4 -14
+p680
+aVDerrick Brown CHA 01/03/2012 CHA @ CLE L 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 3 1 -9
+p681
+aVMatt Carroll CHA 01/01/2012 CHA @ MIA L 13 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 1 0 0 1 0 -5
+p682
+aVDeSagana Diop CHA 01/01/2012 CHA @ MIA L 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -7
+p683
+aVCorey Maggette CHA 01/01/2012 CHA @ MIA L 19 2 0 6 0.0 0 2 0.0 2 2 100.0 1 3 4 0 0 0 1 4 -22
+p684
+aVD.J. Augustin CHA 01/01/2012 CHA @ MIA L 24 4 1 11 9.1 0 3 0.0 2 2 100.0 1 3 4 7 0 0 3 1 -21
+p685
+aVBismack Biyombo CHA 01/01/2012 CHA @ MIA L 20 6 2 5 40.0 0 0 - 2 6 33.3 3 3 6 0 1 2 1 3 -20
+p686
+aVBoris Diaw CHA 01/01/2012 CHA @ MIA L 23 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 3 0 0 2 3 -17
+p687
+aVKemba Walker CHA 01/01/2012 CHA @ MIA L 24 17 6 13 46.2 2 4 50.0 3 5 60.0 0 3 3 4 1 0 1 1 -18
+p688
+aVByron Mullens CHA 01/01/2012 CHA @ MIA L 22 6 1 6 16.7 0 0 - 4 4 100.0 0 3 3 0 0 0 2 1 -15
+p689
+aVDerrick Brown CHA 01/01/2012 CHA @ MIA L 25 14 6 11 54.5 1 2 50.0 1 2 50.0 2 5 7 2 2 0 2 0 -21
+p690
+aVGerald Henderson CHA 01/01/2012 CHA @ MIA L 30 8 4 13 30.8 0 1 0.0 0 0 - 0 1 1 2 3 0 1 2 -27
+p691
+aVCory Higgins CHA 01/01/2012 CHA @ MIA L 9 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 1 -3
+p692
+aVDJ White CHA 01/01/2012 CHA @ MIA L 27 21 10 12 83.3 1 1 100.0 0 0 - 1 2 3 1 2 1 1 3 -19
+p693
+aVBoris Diaw CHA 12/30/2011 CHA vs. ORL L 31 10 4 10 40.0 1 3 33.3 1 2 50.0 1 5 6 6 1 0 2 2 -13
+p694
+aVDJ White CHA 12/30/2011 CHA vs. ORL L 18 8 4 9 44.4 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -11
+p695
+aVByron Mullens CHA 12/30/2011 CHA vs. ORL L 16 12 6 12 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -8
+p696
+aVDerrick Brown CHA 12/30/2011 CHA vs. ORL L 13 3 1 2 50.0 0 1 0.0 1 2 50.0 4 0 4 0 1 0 1 1 -9
+p697
+aVDeSagana Diop CHA 12/30/2011 CHA vs. ORL L 20 0 0 1 0.0 0 0 - 0 0 - 2 5 7 1 0 2 1 4 -7
+p698
+aVMatt Carroll CHA 12/30/2011 CHA vs. ORL L 11 0 0 0 - 0 0 - 0 1 0.0 0 3 3 0 0 0 1 3 -2
+p699
+aVGerald Henderson CHA 12/30/2011 CHA vs. ORL L 33 8 4 13 30.8 0 0 - 0 0 - 1 4 5 3 2 0 1 3 -14
+p700
+aVCorey Maggette CHA 12/30/2011 CHA vs. ORL L 35 20 6 15 40.0 3 4 75.0 5 6 83.3 1 6 7 1 1 0 2 3 -12
+p701
+aVD.J. Augustin CHA 12/30/2011 CHA vs. ORL L 35 14 3 11 27.3 1 4 25.0 7 7 100.0 1 0 1 4 0 0 1 0 -16
+p702
+aVBismack Biyombo CHA 12/30/2011 CHA vs. ORL L 12 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 1 1 5 -3
+p703
+aVKemba Walker CHA 12/30/2011 CHA vs. ORL L 17 2 1 9 11.1 0 3 0.0 0 0 - 0 1 1 4 0 0 1 1 -10
+p704
+aVGerald Henderson CHA 12/28/2011 CHA vs. MIA L 42 21 10 19 52.6 1 1 100.0 0 0 - 1 3 4 4 2 2 4 2 1
+p705
+aVByron Mullens CHA 12/28/2011 CHA vs. MIA L 9 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -1
+p706
+aVDerrick Brown CHA 12/28/2011 CHA vs. MIA L 13 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 10
+p707
+aVMatt Carroll CHA 12/28/2011 CHA vs. MIA L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p708
+aVD.J. Augustin CHA 12/28/2011 CHA vs. MIA L 33 20 7 11 63.6 3 6 50.0 3 4 75.0 1 4 5 6 0 0 5 2 -3
+p709
+aVDJ White CHA 12/28/2011 CHA vs. MIA L 35 8 3 8 37.5 0 0 - 2 4 50.0 4 7 11 1 0 3 0 4 -7
+p710
+aVKemba Walker CHA 12/28/2011 CHA vs. MIA L 20 14 6 9 66.7 1 2 50.0 1 2 50.0 0 1 1 3 1 0 3 1 -6
+p711
+aVCorey Maggette CHA 12/28/2011 CHA vs. MIA L 30 6 1 10 10.0 0 3 0.0 4 4 100.0 3 5 8 0 0 1 2 5 -3
+p712
+aVBoris Diaw CHA 12/28/2011 CHA vs. MIA L 39 16 7 14 50.0 2 5 40.0 0 0 - 4 12 16 8 1 1 6 2 0
+p713
+aVBismack Biyombo CHA 12/28/2011 CHA vs. MIA L 13 2 1 1 100.0 0 0 - 0 2 0.0 0 4 4 0 0 2 1 2 6
+p714
+aVD.J. Augustin CHA 12/26/2011 CHA vs. MIL W 31 19 7 16 43.8 2 8 25.0 3 4 75.0 1 1 2 8 0 0 2 2 0
+p715
+aVMatt Carroll CHA 12/26/2011 CHA vs. MIL W 9 5 2 5 40.0 0 3 0.0 1 2 50.0 0 0 0 1 0 0 1 3 0
+p716
+aVGerald Henderson CHA 12/26/2011 CHA vs. MIL W 39 18 7 14 50.0 1 2 50.0 3 3 100.0 4 5 9 0 0 1 4 3 1
+p717
+aVBismack Biyombo CHA 12/26/2011 CHA vs. MIL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p718
+aVDJ White CHA 12/26/2011 CHA vs. MIL W 22 8 3 6 50.0 0 0 - 2 2 100.0 0 5 5 1 0 1 0 0 5
+p719
+aVDerrick Brown CHA 12/26/2011 CHA vs. MIL W 8 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 2 0 0 0 1 -8
+p720
+aVDeSagana Diop CHA 12/26/2011 CHA vs. MIL W 16 0 0 3 0.0 0 0 - 0 0 - 2 6 8 1 1 1 0 1 1
+p721
+aVKemba Walker CHA 12/26/2011 CHA vs. MIL W 21 13 3 10 30.0 0 2 0.0 7 7 100.0 2 5 7 3 1 0 0 1 5
+p722
+aVByron Mullens CHA 12/26/2011 CHA vs. MIL W 20 10 5 7 71.4 0 0 - 0 0 - 2 0 2 0 0 1 1 2 6
+p723
+aVBoris Diaw CHA 12/26/2011 CHA vs. MIL W 30 9 4 9 44.4 1 2 50.0 0 0 - 3 8 11 9 0 2 1 3 1
+p724
+aVCorey Maggette CHA 12/26/2011 CHA vs. MIL W 39 12 6 15 40.0 0 2 0.0 0 1 0.0 1 6 7 2 1 0 6 4 1
+p725
+a.

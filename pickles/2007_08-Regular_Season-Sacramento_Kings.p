@@ -1,0 +1,1622 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVFrancisco Garcia SAC 04/15/2008 SAC @ LAL L 35 15 4 7 57.1 3 3 100.0 4 4 100.0 0 1 1 4 2 0 3 5 -7
+p2
+aVShelden Williams SAC 04/15/2008 SAC @ LAL L 36 12 6 13 46.2 0 0 - 0 0 - 5 6 11 1 3 0 4 4 -19
+p3
+aVMikki Moore SAC 04/15/2008 SAC @ LAL L 31 4 2 4 50.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 -24
+p4
+aVQuincy Douby SAC 04/15/2008 SAC @ LAL L 34 32 11 22 50.0 3 6 50.0 7 7 100.0 0 2 2 3 1 0 2 4 -16
+p5
+aVAnthony Johnson SAC 04/15/2008 SAC @ LAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -11
+p6
+aVSpencer Hawes SAC 04/15/2008 SAC @ LAL L 27 5 2 11 18.2 1 1 100.0 0 0 - 2 7 9 2 0 4 2 5 -6
+p7
+aVJohn Salmons SAC 04/15/2008 SAC @ LAL L 37 11 3 15 20.0 0 1 0.0 5 8 62.5 3 6 9 4 3 0 4 3 -25
+p8
+aVBeno Udrih SAC 04/15/2008 SAC @ LAL L 35 22 10 14 71.4 1 2 50.0 1 1 100.0 0 4 4 6 0 0 3 2 -7
+p9
+aVSpencer Hawes SAC 04/14/2008 SAC vs. SAS L 33 17 8 14 57.1 0 1 0.0 1 2 50.0 0 3 3 3 0 2 0 1 -2
+p10
+aVLorenzen Wright SAC 04/14/2008 SAC vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p11
+aVAnthony Johnson SAC 04/14/2008 SAC vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p12
+aVShelden Williams SAC 04/14/2008 SAC vs. SAS L 26 8 3 4 75.0 0 0 - 2 5 40.0 2 3 5 3 1 0 4 4 10
+p13
+aVBeno Udrih SAC 04/14/2008 SAC vs. SAS L 31 16 4 10 40.0 0 2 0.0 8 8 100.0 1 1 2 3 0 0 2 2 -6
+p14
+aVJohn Salmons SAC 04/14/2008 SAC vs. SAS L 44 29 11 19 57.9 0 2 0.0 7 8 87.5 4 6 10 3 2 0 1 4 -5
+p15
+aVQuincy Douby SAC 04/14/2008 SAC vs. SAS L 18 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 3 0 0 1 1 3
+p16
+aVMikki Moore SAC 04/14/2008 SAC vs. SAS L 34 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 4 -6
+p17
+aVFrancisco Garcia SAC 04/14/2008 SAC vs. SAS L 45 15 6 16 37.5 1 3 33.3 2 2 100.0 1 5 6 3 5 2 2 2 -3
+p18
+aVFrancisco Garcia SAC 04/12/2008 SAC vs. NOH W 29 16 5 14 35.7 2 6 33.3 4 4 100.0 0 5 5 2 3 3 2 5 12
+p19
+aVJohn Salmons SAC 04/12/2008 SAC vs. NOH W 46 18 8 13 61.5 0 2 0.0 2 4 50.0 0 11 11 3 0 0 4 1 3
+p20
+aVShelden Williams SAC 04/12/2008 SAC vs. NOH W 24 9 4 6 66.7 0 0 - 1 4 25.0 1 3 4 0 0 0 0 4 12
+p21
+aVQuincy Douby SAC 04/12/2008 SAC vs. NOH W 21 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 2 1 0 2 2 6
+p22
+aVBeno Udrih SAC 04/12/2008 SAC vs. NOH W 26 9 3 9 33.3 0 1 0.0 3 4 75.0 0 3 3 1 0 0 0 4 -2
+p23
+aVMikki Moore SAC 04/12/2008 SAC vs. NOH W 27 4 2 2 100.0 0 0 - 0 0 - 1 5 6 1 0 0 2 4 -6
+p24
+aVSpencer Hawes SAC 04/12/2008 SAC vs. NOH W 24 11 5 8 62.5 0 0 - 1 4 25.0 2 3 5 3 0 1 3 3 -9
+p25
+aVMetta World Peace SAC 04/12/2008 SAC vs. NOH W 44 22 9 19 47.4 4 9 44.4 0 0 - 1 7 8 4 3 1 3 1 -1
+p26
+aVFrancisco Garcia SAC 04/11/2008 SAC vs. POR W 30 16 6 10 60.0 2 3 66.7 2 2 100.0 0 2 2 2 1 0 1 2 7
+p27
+aVSpencer Hawes SAC 04/11/2008 SAC vs. POR W 37 15 7 11 63.6 0 0 - 1 3 33.3 2 5 7 3 1 0 0 5 5
+p28
+aVShelden Williams SAC 04/11/2008 SAC vs. POR W 22 4 2 3 66.7 0 0 - 0 0 - 2 5 7 1 0 1 2 2 3
+p29
+aVMikki Moore SAC 04/11/2008 SAC vs. POR W 37 10 5 10 50.0 0 0 - 0 0 - 0 5 5 3 0 1 2 3 26
+p30
+aVQuincy Douby SAC 04/11/2008 SAC vs. POR W 19 13 5 9 55.6 3 4 75.0 0 0 - 0 2 2 0 2 0 3 0 7
+p31
+aVBeno Udrih SAC 04/11/2008 SAC vs. POR W 24 11 5 8 62.5 0 0 - 1 2 50.0 0 3 3 3 0 0 3 2 5
+p32
+aVKevin Martin SAC 04/11/2008 SAC vs. POR W 31 16 5 12 41.7 0 3 0.0 6 6 100.0 1 6 7 2 1 1 4 1 7
+p33
+aVJohn Salmons SAC 04/11/2008 SAC vs. POR W 39 18 8 14 57.1 0 2 0.0 2 2 100.0 1 5 6 4 2 0 1 2 25
+p34
+aVKevin Martin SAC 04/08/2008 SAC @ GSW L 37 29 7 12 58.3 1 3 33.3 14 17 82.4 0 7 7 4 1 0 1 3 -12
+p35
+aVJohn Salmons SAC 04/08/2008 SAC @ GSW L 33 22 8 15 53.3 2 3 66.7 4 4 100.0 2 4 6 3 0 0 0 2 -3
+p36
+aVBeno Udrih SAC 04/08/2008 SAC @ GSW L 23 10 5 9 55.6 0 0 - 0 0 - 1 2 3 3 1 0 3 3 -6
+p37
+aVMikki Moore SAC 04/08/2008 SAC @ GSW L 23 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 3 6 -4
+p38
+aVAnthony Johnson SAC 04/08/2008 SAC @ GSW L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 1 0 2 1 -7
+p39
+aVSpencer Hawes SAC 04/08/2008 SAC @ GSW L 35 13 5 13 38.5 0 0 - 3 4 75.0 2 3 5 3 0 1 4 5 1
+p40
+aVShelden Williams SAC 04/08/2008 SAC @ GSW L 24 8 3 9 33.3 0 0 - 2 2 100.0 3 4 7 0 0 0 2 3 -16
+p41
+aVQuincy Douby SAC 04/08/2008 SAC @ GSW L 17 15 5 6 83.3 1 1 100.0 4 4 100.0 0 1 1 2 0 0 0 3 8
+p42
+aVFrancisco Garcia SAC 04/08/2008 SAC @ GSW L 35 31 11 18 61.1 2 4 50.0 7 9 77.8 0 0 0 2 4 1 0 3 -1
+p43
+aVFrancisco Garcia SAC 04/06/2008 SAC vs. LAL L 18 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 2 1 0 4 2 -8
+p44
+aVAnthony Johnson SAC 04/06/2008 SAC vs. LAL L 28 3 0 1 0.0 0 1 0.0 3 4 75.0 0 2 2 2 0 0 1 2 -18
+p45
+aVJohn Salmons SAC 04/06/2008 SAC vs. LAL L 25 7 2 4 50.0 0 0 - 3 3 100.0 0 2 2 1 3 0 3 1 -17
+p46
+aVKevin Martin SAC 04/06/2008 SAC vs. LAL L 31 22 5 11 45.5 1 2 50.0 11 13 84.6 0 1 1 1 1 0 2 1 -11
+p47
+aVMetta World Peace SAC 04/06/2008 SAC vs. LAL L 27 19 7 20 35.0 3 5 60.0 2 2 100.0 2 2 4 0 2 0 1 3 -8
+p48
+aVShelden Williams SAC 04/06/2008 SAC vs. LAL L 22 12 5 10 50.0 0 0 - 2 3 66.7 3 1 4 1 0 0 0 5 -15
+p49
+aVMikki Moore SAC 04/06/2008 SAC vs. LAL L 32 10 5 7 71.4 0 0 - 0 0 - 2 4 6 1 1 0 2 3 -13
+p50
+aVQuincy Douby SAC 04/06/2008 SAC vs. LAL L 20 5 2 8 25.0 1 5 20.0 0 0 - 0 2 2 3 1 0 1 1 -8
+p51
+aVSpencer Hawes SAC 04/06/2008 SAC vs. LAL L 38 10 5 11 45.5 0 2 0.0 0 0 - 1 10 11 0 1 2 2 4 -12
+p52
+aVAnthony Johnson SAC 04/05/2008 SAC @ DEN W 19 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 8 0 0 4 3 3
+p53
+aVMikki Moore SAC 04/05/2008 SAC @ DEN W 41 23 9 12 75.0 0 0 - 5 5 100.0 2 8 10 1 0 1 2 5 3
+p54
+aVKevin Martin SAC 04/05/2008 SAC @ DEN W 40 36 10 21 47.6 3 7 42.9 13 13 100.0 1 3 4 2 3 0 6 1 4
+p55
+aVFrancisco Garcia SAC 04/05/2008 SAC @ DEN W 34 29 9 17 52.9 1 4 25.0 10 12 83.3 1 5 6 6 1 0 5 3 5
+p56
+aVJohn Salmons SAC 04/05/2008 SAC @ DEN W 40 9 3 12 25.0 1 2 50.0 2 4 50.0 2 4 6 6 5 0 2 1 -4
+p57
+aVLorenzen Wright SAC 04/05/2008 SAC @ DEN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p58
+aVQuincy Douby SAC 04/05/2008 SAC @ DEN W 12 0 0 2 0.0 0 1 0.0 0 0 - 3 1 4 2 0 0 1 1 1
+p59
+aVSpencer Hawes SAC 04/05/2008 SAC @ DEN W 33 8 4 11 36.4 0 0 - 0 0 - 5 4 9 2 2 0 0 6 11
+p60
+aVShelden Williams SAC 04/05/2008 SAC @ DEN W 19 8 4 7 57.1 0 0 - 0 2 0.0 0 5 5 0 0 0 0 3 -9
+p61
+aVFrancisco Garcia SAC 04/03/2008 SAC vs. LAC W 36 17 7 9 77.8 0 1 0.0 3 3 100.0 2 1 3 3 2 1 3 2 -2
+p62
+aVAnthony Johnson SAC 04/03/2008 SAC vs. LAC W 12 7 3 4 75.0 0 0 - 1 1 100.0 0 1 1 2 1 0 0 0 14
+p63
+aVShelden Williams SAC 04/03/2008 SAC vs. LAC W 11 5 1 4 25.0 0 0 - 3 4 75.0 2 4 6 0 0 0 1 2 -4
+p64
+aVJohn Salmons SAC 04/03/2008 SAC vs. LAC W 20 7 2 9 22.2 0 2 0.0 3 4 75.0 0 4 4 1 1 0 2 1 -4
+p65
+aVMetta World Peace SAC 04/03/2008 SAC vs. LAC W 30 10 3 10 30.0 0 1 0.0 4 4 100.0 1 3 4 4 1 0 2 2 18
+p66
+aVQuincy Douby SAC 04/03/2008 SAC vs. LAC W 19 5 1 6 16.7 1 1 100.0 2 2 100.0 1 3 4 2 0 0 0 3 -10
+p67
+aVKevin Martin SAC 04/03/2008 SAC vs. LAC W 29 26 8 14 57.1 4 5 80.0 6 8 75.0 0 3 3 3 1 0 3 1 22
+p68
+aVMikki Moore SAC 04/03/2008 SAC vs. LAC W 29 16 7 8 87.5 0 0 - 2 4 50.0 1 4 5 1 2 1 2 4 10
+p69
+aVBrad Miller SAC 04/03/2008 SAC vs. LAC W 28 6 2 7 28.6 0 1 0.0 2 2 100.0 3 7 10 4 4 3 1 2 17
+p70
+aVSpencer Hawes SAC 04/03/2008 SAC vs. LAC W 26 11 4 10 40.0 0 0 - 3 3 100.0 1 3 4 1 1 0 1 3 -1
+p71
+aVBrad Miller SAC 04/01/2008 SAC vs. HOU W 22 10 5 8 62.5 0 0 - 0 0 - 1 6 7 3 0 1 1 3 0
+p72
+aVAnthony Johnson SAC 04/01/2008 SAC vs. HOU W 12 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 3 1 0 1 1 -6
+p73
+aVShelden Williams SAC 04/01/2008 SAC vs. HOU W 24 8 2 2 100.0 0 0 - 4 4 100.0 0 6 6 0 2 0 2 4 14
+p74
+aVMetta World Peace SAC 04/01/2008 SAC vs. HOU W 42 30 12 26 46.2 4 7 57.1 2 6 33.3 2 2 4 3 5 0 4 3 -1
+p75
+aVLorenzen Wright SAC 04/01/2008 SAC vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p76
+aVKevin Martin SAC 04/01/2008 SAC vs. HOU W 43 27 8 14 57.1 1 2 50.0 10 11 90.9 0 0 0 3 0 0 3 4 -1
+p77
+aVJohn Salmons SAC 04/01/2008 SAC vs. HOU W 24 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 0 0 1 2 1 -3
+p78
+aVMikki Moore SAC 04/01/2008 SAC vs. HOU W 34 11 4 6 66.7 0 0 - 3 5 60.0 1 2 3 2 0 1 2 5 -3
+p79
+aVFrancisco Garcia SAC 04/01/2008 SAC vs. HOU W 32 8 3 6 50.0 0 3 0.0 2 3 66.7 0 4 4 1 1 0 1 3 6
+p80
+aVQuincy Douby SAC 04/01/2008 SAC vs. HOU W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -2
+p81
+aVLorenzen Wright SAC 03/30/2008 SAC @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p82
+aVAnthony Johnson SAC 03/30/2008 SAC @ SEA W 22 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 3 2 0 4 1 -6
+p83
+aVFrancisco Garcia SAC 03/30/2008 SAC @ SEA W 29 21 8 14 57.1 2 5 40.0 3 4 75.0 1 4 5 3 2 1 1 3 17
+p84
+aVBrad Miller SAC 03/30/2008 SAC @ SEA W 30 10 3 4 75.0 0 0 - 4 5 80.0 0 7 7 5 1 1 1 3 19
+p85
+aVShelden Williams SAC 03/30/2008 SAC @ SEA W 7 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 0 1 0 1 1 -4
+p86
+aVMikki Moore SAC 03/30/2008 SAC @ SEA W 29 14 4 5 80.0 0 0 - 6 8 75.0 1 4 5 2 0 0 2 3 -1
+p87
+aVMetta World Peace SAC 03/30/2008 SAC @ SEA W 42 29 12 23 52.2 2 3 66.7 3 3 100.0 4 8 12 3 4 2 1 1 15
+p88
+aVJohn Salmons SAC 03/30/2008 SAC @ SEA W 34 8 3 7 42.9 0 1 0.0 2 2 100.0 1 6 7 6 1 0 2 2 12
+p89
+aVKevin Martin SAC 03/30/2008 SAC @ SEA W 41 31 11 19 57.9 1 5 20.0 8 8 100.0 1 1 2 2 0 0 1 3 22
+p90
+aVQuincy Douby SAC 03/30/2008 SAC @ SEA W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p91
+aVJohn Salmons SAC 03/28/2008 SAC vs. WAS L 35 10 3 11 27.3 0 1 0.0 4 4 100.0 2 5 7 6 4 1 2 3 -7
+p92
+aVQuincy Douby SAC 03/28/2008 SAC vs. WAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p93
+aVKevin Martin SAC 03/28/2008 SAC vs. WAS L 37 25 6 11 54.5 1 4 25.0 12 14 85.7 0 2 2 4 0 0 1 1 4
+p94
+aVShelden Williams SAC 03/28/2008 SAC vs. WAS L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p95
+aVBrad Miller SAC 03/28/2008 SAC vs. WAS L 39 10 4 8 50.0 0 0 - 2 2 100.0 1 7 8 2 0 2 2 4 -7
+p96
+aVMetta World Peace SAC 03/28/2008 SAC vs. WAS L 43 28 10 22 45.5 1 5 20.0 7 7 100.0 1 1 2 1 3 0 3 3 -11
+p97
+aVFrancisco Garcia SAC 03/28/2008 SAC vs. WAS L 28 16 5 8 62.5 3 5 60.0 3 4 75.0 0 7 7 1 2 1 4 2 5
+p98
+aVMikki Moore SAC 03/28/2008 SAC vs. WAS L 13 2 1 2 50.0 0 0 - 0 2 0.0 2 2 4 1 0 0 2 5 -1
+p99
+aVSpencer Hawes SAC 03/28/2008 SAC vs. WAS L 5 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 1 0 1 7
+p100
+aVAnthony Johnson SAC 03/28/2008 SAC vs. WAS L 29 13 5 8 62.5 3 4 75.0 0 0 - 0 3 3 1 1 0 5 0 -11
+p101
+aVKevin Martin SAC 03/26/2008 SAC vs. MEM W 44 36 9 20 45.0 2 6 33.3 16 16 100.0 2 5 7 4 1 0 3 2 9
+p102
+aVMetta World Peace SAC 03/26/2008 SAC vs. MEM W 45 24 9 23 39.1 2 7 28.6 4 4 100.0 3 2 5 3 6 0 3 3 9
+p103
+aVQuincy Douby SAC 03/26/2008 SAC vs. MEM W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -7
+p104
+aVSpencer Hawes SAC 03/26/2008 SAC vs. MEM W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p105
+aVJohn Salmons SAC 03/26/2008 SAC vs. MEM W 17 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 2 0 -8
+p106
+aVAnthony Johnson SAC 03/26/2008 SAC vs. MEM W 35 6 2 8 25.0 2 5 40.0 0 0 - 1 5 6 7 1 0 1 3 8
+p107
+aVFrancisco Garcia SAC 03/26/2008 SAC vs. MEM W 27 7 2 13 15.4 1 10 10.0 2 2 100.0 0 0 0 0 2 0 2 2 -24
+p108
+aVBrad Miller SAC 03/26/2008 SAC vs. MEM W 40 15 6 11 54.5 0 1 0.0 3 3 100.0 3 14 17 8 2 2 3 3 10
+p109
+aVMikki Moore SAC 03/26/2008 SAC vs. MEM W 38 15 6 7 85.7 0 0 - 3 4 75.0 2 5 7 1 0 0 2 5 11
+p110
+aVAnthony Johnson SAC 03/24/2008 SAC @ HOU L 21 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 2 -12
+p111
+aVJohn Salmons SAC 03/24/2008 SAC @ HOU L 25 15 4 7 57.1 0 1 0.0 7 8 87.5 2 3 5 2 0 1 1 3 -1
+p112
+aVQuincy Douby SAC 03/24/2008 SAC @ HOU L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p113
+aVBeno Udrih SAC 03/24/2008 SAC @ HOU L 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p114
+aVFrancisco Garcia SAC 03/24/2008 SAC @ HOU L 28 17 7 13 53.8 3 5 60.0 0 0 - 0 5 5 2 1 0 2 3 8
+p115
+aVMikki Moore SAC 03/24/2008 SAC @ HOU L 27 7 3 8 37.5 0 0 - 1 2 50.0 2 2 4 6 0 0 1 4 -9
+p116
+aVMetta World Peace SAC 03/24/2008 SAC @ HOU L 40 17 7 17 41.2 3 4 75.0 0 0 - 1 2 3 6 1 0 4 4 -6
+p117
+aVKevin Martin SAC 03/24/2008 SAC @ HOU L 31 18 7 11 63.6 1 3 33.3 3 4 75.0 1 1 2 3 0 0 1 6 -10
+p118
+aVSpencer Hawes SAC 03/24/2008 SAC @ HOU L 18 6 3 4 75.0 0 0 - 0 2 0.0 0 2 2 0 1 0 0 3 6
+p119
+aVBrad Miller SAC 03/24/2008 SAC @ HOU L 30 7 3 6 50.0 1 2 50.0 0 0 - 2 5 7 4 1 2 2 1 -14
+p120
+aVSpencer Hawes SAC 03/22/2008 SAC @ MEM L 38 19 9 13 69.2 0 0 - 1 3 33.3 3 9 12 2 0 3 1 3 0
+p121
+aVShelden Williams SAC 03/22/2008 SAC @ MEM L 16 7 2 2 100.0 0 0 - 3 4 75.0 1 3 4 1 0 1 1 4 -1
+p122
+aVJohn Salmons SAC 03/22/2008 SAC @ MEM L 27 12 5 14 35.7 1 3 33.3 1 2 50.0 2 4 6 2 0 0 1 1 -8
+p123
+aVMikki Moore SAC 03/22/2008 SAC @ MEM L 36 9 4 8 50.0 0 0 - 1 1 100.0 2 6 8 5 0 1 2 4 -6
+p124
+aVAnthony Johnson SAC 03/22/2008 SAC @ MEM L 26 7 3 8 37.5 1 2 50.0 0 0 - 0 4 4 2 0 0 0 1 -3
+p125
+aVQuincy Douby SAC 03/22/2008 SAC @ MEM L 17 11 4 5 80.0 1 2 50.0 2 2 100.0 1 0 1 0 0 0 1 2 -2
+p126
+aVFrancisco Garcia SAC 03/22/2008 SAC @ MEM L 31 15 7 13 53.8 1 4 25.0 0 0 - 2 2 4 4 3 2 2 4 -2
+p127
+aVKevin Martin SAC 03/22/2008 SAC @ MEM L 44 29 8 24 33.3 4 9 44.4 9 10 90.0 1 5 6 3 1 0 1 2 -8
+p128
+aVLorenzen Wright SAC 03/22/2008 SAC @ MEM L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 0
+p129
+aVJohn Salmons SAC 03/21/2008 SAC @ SAS L 23 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -13
+p130
+aVAnthony Johnson SAC 03/21/2008 SAC @ SAS L 29 12 5 9 55.6 2 3 66.7 0 0 - 1 2 3 2 0 0 3 3 -11
+p131
+aVQuincy Douby SAC 03/21/2008 SAC @ SAS L 12 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -3
+p132
+aVMikki Moore SAC 03/21/2008 SAC @ SAS L 31 7 2 6 33.3 0 0 - 3 4 75.0 1 8 9 0 0 1 1 3 -3
+p133
+aVMetta World Peace SAC 03/21/2008 SAC @ SAS L 38 23 10 21 47.6 1 2 50.0 2 4 50.0 4 3 7 2 0 0 1 3 -10
+p134
+aVShelden Williams SAC 03/21/2008 SAC @ SAS L 5 6 2 3 66.7 0 0 - 2 3 66.7 1 2 3 0 0 0 0 0 0
+p135
+aVBrad Miller SAC 03/21/2008 SAC @ SAS L 22 2 1 8 12.5 0 0 - 0 0 - 3 3 6 3 0 1 1 4 -8
+p136
+aVSpencer Hawes SAC 03/21/2008 SAC @ SAS L 20 4 1 4 25.0 0 1 0.0 2 2 100.0 1 3 4 2 0 0 0 1 -5
+p137
+aVFrancisco Garcia SAC 03/21/2008 SAC @ SAS L 23 9 3 5 60.0 1 2 50.0 2 2 100.0 0 4 4 1 2 1 2 3 -7
+p138
+aVKevin Martin SAC 03/21/2008 SAC @ SAS L 37 20 2 12 16.7 1 4 25.0 15 17 88.2 0 2 2 1 1 0 2 2 -5
+p139
+aVFrancisco Garcia SAC 03/18/2008 SAC vs. GSW W 20 8 4 7 57.1 0 3 0.0 0 0 - 1 3 4 1 0 2 2 1 -6
+p140
+aVAnthony Johnson SAC 03/18/2008 SAC vs. GSW W 38 13 4 11 36.4 2 4 50.0 3 4 75.0 3 3 6 13 0 1 3 3 19
+p141
+aVMikki Moore SAC 03/18/2008 SAC vs. GSW W 37 19 8 10 80.0 0 0 - 3 3 100.0 3 7 10 1 0 3 1 4 15
+p142
+aVShelden Williams SAC 03/18/2008 SAC vs. GSW W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -2
+p143
+aVBrad Miller SAC 03/18/2008 SAC vs. GSW W 34 14 4 4 100.0 0 0 - 6 8 75.0 0 13 13 3 1 1 1 6 21
+p144
+aVJohn Salmons SAC 03/18/2008 SAC vs. GSW W 14 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -3
+p145
+aVMetta World Peace SAC 03/18/2008 SAC vs. GSW W 42 26 10 20 50.0 1 4 25.0 5 7 71.4 2 3 5 3 1 1 1 4 23
+p146
+aVQuincy Douby SAC 03/18/2008 SAC vs. GSW W 9 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -6
+p147
+aVKevin Martin SAC 03/18/2008 SAC vs. GSW W 40 34 13 22 59.1 2 4 50.0 6 8 75.0 1 6 7 2 2 0 2 5 24
+p148
+aVSpencer Hawes SAC 03/16/2008 SAC vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p149
+aVKevin Martin SAC 03/16/2008 SAC vs. TOR W 43 32 9 21 42.9 2 3 66.7 12 15 80.0 1 7 8 4 1 0 5 2 9
+p150
+aVBrad Miller SAC 03/16/2008 SAC vs. TOR W 42 14 6 12 50.0 0 1 0.0 2 2 100.0 1 10 11 1 0 1 3 5 7
+p151
+aVShelden Williams SAC 03/16/2008 SAC vs. TOR W 6 0 0 1 0.0 0 0 - 0 0 - 2 4 6 0 0 0 0 1 -1
+p152
+aVFrancisco Garcia SAC 03/16/2008 SAC vs. TOR W 25 5 2 6 33.3 0 2 0.0 1 1 100.0 1 2 3 0 0 2 2 1 -6
+p153
+aVBeno Udrih SAC 03/16/2008 SAC vs. TOR W 38 15 6 15 40.0 1 3 33.3 2 3 66.7 1 0 1 7 0 1 6 3 7
+p154
+aVQuincy Douby SAC 03/16/2008 SAC vs. TOR W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -3
+p155
+aVAnthony Johnson SAC 03/16/2008 SAC vs. TOR W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 1
+p156
+aVMikki Moore SAC 03/16/2008 SAC vs. TOR W 33 17 7 8 87.5 0 0 - 3 3 100.0 2 5 7 0 0 0 2 3 19
+p157
+aVMetta World Peace SAC 03/16/2008 SAC vs. TOR W 36 19 8 15 53.3 1 4 25.0 2 2 100.0 2 8 10 5 4 0 2 2 -1
+p158
+aVJohn Salmons SAC 03/15/2008 SAC @ PHX L 23 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 1
+p159
+aVAnthony Johnson SAC 03/15/2008 SAC @ PHX L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 -4
+p160
+aVMikki Moore SAC 03/15/2008 SAC @ PHX L 19 11 5 9 55.6 0 0 - 1 2 50.0 3 2 5 1 0 0 0 5 -6
+p161
+aVQuincy Douby SAC 03/15/2008 SAC @ PHX L 18 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 0 1 1 2 -7
+p162
+aVShelden Williams SAC 03/15/2008 SAC @ PHX L 14 11 4 10 40.0 0 0 - 3 4 75.0 3 4 7 0 1 0 0 1 -10
+p163
+aVBeno Udrih SAC 03/15/2008 SAC @ PHX L 26 9 3 10 30.0 0 0 - 3 4 75.0 1 1 2 2 0 0 2 1 -27
+p164
+aVBrad Miller SAC 03/15/2008 SAC @ PHX L 19 10 5 6 83.3 0 0 - 0 0 - 0 5 5 2 0 0 1 3 -16
+p165
+aVKevin Martin SAC 03/15/2008 SAC @ PHX L 30 16 4 6 66.7 1 1 100.0 7 8 87.5 1 3 4 1 0 0 1 2 -21
+p166
+aVFrancisco Garcia SAC 03/15/2008 SAC @ PHX L 24 8 3 7 42.9 1 4 25.0 1 1 100.0 0 2 2 1 0 0 0 1 -24
+p167
+aVMetta World Peace SAC 03/15/2008 SAC @ PHX L 33 26 10 22 45.5 4 5 80.0 2 5 40.0 4 5 9 2 5 0 4 4 -19
+p168
+aVSpencer Hawes SAC 03/15/2008 SAC @ PHX L 25 4 2 9 22.2 0 0 - 0 0 - 1 7 8 1 1 0 5 5 -7
+p169
+aVBrad Miller SAC 03/13/2008 SAC vs. POR W 31 14 3 11 27.3 1 4 25.0 7 8 87.5 2 5 7 4 2 0 2 4 8
+p170
+aVQuincy Douby SAC 03/13/2008 SAC vs. POR W 8 6 2 2 100.0 0 0 - 2 3 66.7 0 3 3 0 0 1 0 0 6
+p171
+aVKevin Martin SAC 03/13/2008 SAC vs. POR W 25 6 2 11 18.2 0 4 0.0 2 2 100.0 1 1 2 1 1 0 4 2 -3
+p172
+aVMikki Moore SAC 03/13/2008 SAC vs. POR W 32 10 4 6 66.7 0 0 - 2 3 66.7 0 5 5 0 0 0 0 3 9
+p173
+aVAnthony Johnson SAC 03/13/2008 SAC vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p174
+aVSpencer Hawes SAC 03/13/2008 SAC vs. POR W 17 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 0 0 0 0 4 6
+p175
+aVBeno Udrih SAC 03/13/2008 SAC vs. POR W 40 14 6 11 54.5 0 0 - 2 2 100.0 1 7 8 7 0 0 6 1 3
+p176
+aVShelden Williams SAC 03/13/2008 SAC vs. POR W 5 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 5
+p177
+aVFrancisco Garcia SAC 03/13/2008 SAC vs. POR W 23 5 2 5 40.0 0 3 0.0 1 2 50.0 1 4 5 2 2 0 1 2 14
+p178
+aVMetta World Peace SAC 03/13/2008 SAC vs. POR W 37 22 8 12 66.7 2 4 50.0 4 4 100.0 0 4 4 3 6 0 0 1 6
+p179
+aVJohn Salmons SAC 03/13/2008 SAC vs. POR W 21 11 4 7 57.1 1 3 33.3 2 2 100.0 0 2 2 1 0 2 1 1 4
+p180
+aVMikki Moore SAC 03/09/2008 SAC @ LAL W 32 14 5 7 71.4 0 0 - 4 4 100.0 2 7 9 1 1 0 3 4 -8
+p181
+aVMetta World Peace SAC 03/09/2008 SAC @ LAL W 27 17 6 14 42.9 0 2 0.0 5 6 83.3 1 3 4 2 4 1 3 4 -5
+p182
+aVShelden Williams SAC 03/09/2008 SAC @ LAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 1 1 10
+p183
+aVFrancisco Garcia SAC 03/09/2008 SAC @ LAL W 25 15 6 8 75.0 3 4 75.0 0 0 - 0 0 0 1 1 1 3 6 7
+p184
+aVQuincy Douby SAC 03/09/2008 SAC @ LAL W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p185
+aVKevin Martin SAC 03/09/2008 SAC @ LAL W 38 21 7 12 58.3 0 0 - 7 8 87.5 1 3 4 1 0 0 3 3 3
+p186
+aVJohn Salmons SAC 03/09/2008 SAC @ LAL W 21 4 2 8 25.0 0 2 0.0 0 0 - 0 4 4 0 2 0 0 1 2
+p187
+aVBeno Udrih SAC 03/09/2008 SAC @ LAL W 44 25 9 16 56.3 1 3 33.3 6 6 100.0 0 2 2 10 1 0 2 0 4
+p188
+aVSpencer Hawes SAC 03/09/2008 SAC @ LAL W 23 14 7 11 63.6 0 1 0.0 0 0 - 4 4 8 3 1 4 3 3 0
+p189
+aVBrad Miller SAC 03/09/2008 SAC @ LAL W 22 2 1 2 50.0 0 0 - 0 0 - 0 6 6 2 2 1 2 4 -5
+p190
+aVQuincy Douby SAC 03/07/2008 SAC vs. MIN L 10 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 1 2 -6
+p191
+aVSpencer Hawes SAC 03/07/2008 SAC vs. MIN L 26 5 2 7 28.6 0 0 - 1 2 50.0 0 3 3 2 0 4 1 2 -4
+p192
+aVJohn Salmons SAC 03/07/2008 SAC vs. MIN L 27 15 6 11 54.5 1 1 100.0 2 2 100.0 3 4 7 1 3 0 3 0 -1
+p193
+aVAnthony Johnson SAC 03/07/2008 SAC vs. MIN L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p194
+aVBeno Udrih SAC 03/07/2008 SAC vs. MIN L 40 13 4 8 50.0 0 0 - 5 6 83.3 1 3 4 7 0 0 4 3 -4
+p195
+aVBrad Miller SAC 03/07/2008 SAC vs. MIN L 25 0 0 3 0.0 0 1 0.0 0 0 - 1 7 8 2 2 0 1 4 -5
+p196
+aVMikki Moore SAC 03/07/2008 SAC vs. MIN L 29 6 3 6 50.0 0 0 - 0 0 - 0 2 2 2 0 1 2 1 -1
+p197
+aVFrancisco Garcia SAC 03/07/2008 SAC vs. MIN L 21 6 2 5 40.0 1 3 33.3 1 2 50.0 0 1 1 2 1 0 1 1 -7
+p198
+aVShelden Williams SAC 03/07/2008 SAC vs. MIN L 16 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 0 0 2 0 1 -6
+p199
+aVKevin Martin SAC 03/07/2008 SAC vs. MIN L 42 48 12 23 52.2 2 5 40.0 22 24 91.7 2 4 6 1 0 0 1 3 -2
+p200
+aVBeno Udrih SAC 03/05/2008 SAC @ LAC L 47 25 11 19 57.9 0 0 - 3 4 75.0 1 3 4 4 0 0 4 4 -8
+p201
+aVQuincy Douby SAC 03/05/2008 SAC @ LAC L 24 14 4 12 33.3 3 6 50.0 3 3 100.0 0 1 1 0 1 1 1 2 2
+p202
+aVShelden Williams SAC 03/05/2008 SAC @ LAC L 22 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 1 0
+p203
+aVFrancisco Garcia SAC 03/05/2008 SAC @ LAC L 42 12 6 13 46.2 0 2 0.0 0 3 0.0 0 5 5 5 0 1 0 5 -13
+p204
+aVJohn Salmons SAC 03/05/2008 SAC @ LAC L 53 13 4 14 28.6 0 2 0.0 5 5 100.0 0 6 6 3 2 0 2 3 -6
+p205
+aVSpencer Hawes SAC 03/05/2008 SAC @ LAC L 20 10 5 8 62.5 0 0 - 0 0 - 3 5 8 1 0 2 2 5 -5
+p206
+aVAnthony Johnson SAC 03/05/2008 SAC @ LAC L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 3
+p207
+aVMikki Moore SAC 03/05/2008 SAC @ LAC L 40 20 7 9 77.8 0 0 - 6 8 75.0 1 4 5 4 0 0 0 6 0
+p208
+aVBrad Miller SAC 03/05/2008 SAC @ LAC L 34 7 3 8 37.5 0 2 0.0 1 2 50.0 1 5 6 5 0 1 3 3 -8
+p209
+aVSpencer Hawes SAC 03/04/2008 SAC vs. LAL L 13 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 2 0 1 2
+p210
+aVAnthony Johnson SAC 03/04/2008 SAC vs. LAL L 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p211
+aVKevin Martin SAC 03/04/2008 SAC vs. LAL L 36 23 8 17 47.1 1 3 33.3 6 6 100.0 1 2 3 0 0 0 3 3 -20
+p212
+aVJohn Salmons SAC 03/04/2008 SAC vs. LAL L 28 17 7 10 70.0 0 0 - 3 3 100.0 2 2 4 1 3 0 3 4 -6
+p213
+aVShelden Williams SAC 03/04/2008 SAC vs. LAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p214
+aVBeno Udrih SAC 03/04/2008 SAC vs. LAL L 36 15 7 19 36.8 1 3 33.3 0 0 - 1 1 2 3 2 0 2 5 -14
+p215
+aVFrancisco Garcia SAC 03/04/2008 SAC vs. LAL L 10 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 0
+p216
+aVMetta World Peace SAC 03/04/2008 SAC vs. LAL L 40 23 10 23 43.5 0 4 0.0 3 3 100.0 1 4 5 2 1 2 1 5 -14
+p217
+aVMikki Moore SAC 03/04/2008 SAC vs. LAL L 26 6 3 4 75.0 0 0 - 0 0 - 3 10 13 3 1 1 1 4 2
+p218
+aVBrad Miller SAC 03/04/2008 SAC vs. LAL L 34 14 5 11 45.5 0 0 - 4 5 80.0 4 8 12 4 0 1 2 5 -13
+p219
+aVBeno Udrih SAC 03/02/2008 SAC vs. MIA W 39 23 9 12 75.0 2 2 100.0 3 3 100.0 0 4 4 9 3 0 0 2 21
+p220
+aVFrancisco Garcia SAC 03/02/2008 SAC vs. MIA W 12 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 2 2
+p221
+aVMetta World Peace SAC 03/02/2008 SAC vs. MIA W 39 32 12 22 54.5 4 6 66.7 4 4 100.0 1 2 3 2 1 0 2 1 12
+p222
+aVShelden Williams SAC 03/02/2008 SAC vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p223
+aVSpencer Hawes SAC 03/02/2008 SAC vs. MIA W 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -4
+p224
+aVKevin Martin SAC 03/02/2008 SAC vs. MIA W 38 29 6 12 50.0 3 4 75.0 14 17 82.4 1 3 4 0 1 0 4 4 8
+p225
+aVMikki Moore SAC 03/02/2008 SAC vs. MIA W 33 4 2 5 40.0 0 0 - 0 0 - 1 7 8 0 1 1 3 3 14
+p226
+aVQuincy Douby SAC 03/02/2008 SAC vs. MIA W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p227
+aVAnthony Johnson SAC 03/02/2008 SAC vs. MIA W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -10
+p228
+aVBrad Miller SAC 03/02/2008 SAC vs. MIA W 40 14 5 12 41.7 1 2 50.0 3 4 75.0 4 5 9 7 0 0 1 3 15
+p229
+aVJohn Salmons SAC 03/02/2008 SAC vs. MIA W 19 8 3 4 75.0 2 2 100.0 0 0 - 0 2 2 2 0 0 0 2 1
+p230
+aVMikki Moore SAC 02/29/2008 SAC @ DAL L 27 9 4 8 50.0 0 0 - 1 3 33.3 7 5 12 1 1 2 1 3 9
+p231
+aVKevin Martin SAC 02/29/2008 SAC @ DAL L 39 25 5 11 45.5 2 4 50.0 13 13 100.0 1 4 5 5 1 0 1 3 14
+p232
+aVFrancisco Garcia SAC 02/29/2008 SAC @ DAL L 17 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 0 0 1 0 3 -19
+p233
+aVSpencer Hawes SAC 02/29/2008 SAC @ DAL L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -22
+p234
+aVBrad Miller SAC 02/29/2008 SAC @ DAL L 38 10 4 8 50.0 1 1 100.0 1 1 100.0 1 8 9 4 1 1 4 5 -1
+p235
+aVJohn Salmons SAC 02/29/2008 SAC @ DAL L 21 6 2 6 33.3 1 1 100.0 1 2 50.0 1 0 1 1 0 0 0 0 -25
+p236
+aVAnthony Johnson SAC 02/29/2008 SAC @ DAL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -10
+p237
+aVMetta World Peace SAC 02/29/2008 SAC @ DAL L 41 22 10 23 43.5 0 2 0.0 2 2 100.0 2 5 7 2 2 2 3 4 8
+p238
+aVBeno Udrih SAC 02/29/2008 SAC @ DAL L 40 25 10 16 62.5 0 1 0.0 5 6 83.3 0 5 5 5 0 1 1 3 1
+p239
+aVFrancisco Garcia SAC 02/27/2008 SAC @ ATL L 27 14 5 13 38.5 2 7 28.6 2 4 50.0 3 1 4 0 2 1 2 6 13
+p240
+aVJohn Salmons SAC 02/27/2008 SAC @ ATL L 21 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 3 3
+p241
+aVShelden Williams SAC 02/27/2008 SAC @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p242
+aVMetta World Peace SAC 02/27/2008 SAC @ ATL L 37 23 8 14 57.1 1 2 50.0 6 11 54.5 3 4 7 4 1 0 2 1 0
+p243
+aVSpencer Hawes SAC 02/27/2008 SAC @ ATL L 9 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 2 1 2
+p244
+aVAnthony Johnson SAC 02/27/2008 SAC @ ATL L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 1 3
+p245
+aVKevin Martin SAC 02/27/2008 SAC @ ATL L 22 6 2 9 22.2 0 3 0.0 2 2 100.0 0 1 1 2 2 1 2 2 -19
+p246
+aVQuincy Douby SAC 02/27/2008 SAC @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p247
+aVMikki Moore SAC 02/27/2008 SAC @ ATL L 33 10 3 5 60.0 0 0 - 4 6 66.7 3 4 7 0 1 0 1 5 -14
+p248
+aVBeno Udrih SAC 02/27/2008 SAC @ ATL L 38 25 11 19 57.9 0 3 0.0 3 4 75.0 2 2 4 8 1 0 1 3 -9
+p249
+aVBrad Miller SAC 02/27/2008 SAC @ ATL L 40 25 9 16 56.3 3 5 60.0 4 6 66.7 4 9 13 6 2 1 2 3 -8
+p250
+aVShelden Williams SAC 02/26/2008 SAC @ MIA L 9 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 2
+p251
+aVFrancisco Garcia SAC 02/26/2008 SAC @ MIA L 16 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 0 2 0 0 4 -4
+p252
+aVQuincy Douby SAC 02/26/2008 SAC @ MIA L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -8
+p253
+aVSpencer Hawes SAC 02/26/2008 SAC @ MIA L 26 16 7 10 70.0 0 0 - 2 4 50.0 2 0 2 2 1 0 1 4 -12
+p254
+aVAnthony Johnson SAC 02/26/2008 SAC @ MIA L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 3 2 -10
+p255
+aVBeno Udrih SAC 02/26/2008 SAC @ MIA L 29 4 2 7 28.6 0 0 - 0 0 - 0 2 2 3 1 0 0 1 -10
+p256
+aVJohn Salmons SAC 02/26/2008 SAC @ MIA L 26 8 3 10 30.0 0 2 0.0 2 2 100.0 0 4 4 1 0 0 4 4 -7
+p257
+aVMetta World Peace SAC 02/26/2008 SAC @ MIA L 33 14 3 14 21.4 0 5 0.0 8 8 100.0 1 2 3 2 0 0 3 3 -9
+p258
+aVMikki Moore SAC 02/26/2008 SAC @ MIA L 26 8 3 4 75.0 0 0 - 2 2 100.0 3 6 9 2 3 0 2 1 -20
+p259
+aVKevin Martin SAC 02/26/2008 SAC @ MIA L 31 14 5 11 45.5 1 5 20.0 3 4 75.0 0 4 4 2 0 0 0 1 -13
+p260
+aVBrad Miller SAC 02/26/2008 SAC @ MIA L 22 8 3 8 37.5 0 1 0.0 2 2 100.0 1 2 3 2 0 1 2 4 -14
+p261
+aVJohn Salmons SAC 02/24/2008 SAC @ ORL L 25 4 1 3 33.3 0 0 - 2 4 50.0 0 1 1 3 1 0 0 2 -6
+p262
+aVFrancisco Garcia SAC 02/24/2008 SAC @ ORL L 20 4 1 3 33.3 1 2 50.0 1 2 50.0 1 1 2 1 0 1 0 6 -10
+p263
+aVBeno Udrih SAC 02/24/2008 SAC @ ORL L 36 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 6 0 0 4 1 -8
+p264
+aVQuincy Douby SAC 02/24/2008 SAC @ ORL L 14 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 0 0 1 1 1 -10
+p265
+aVKevin Martin SAC 02/24/2008 SAC @ ORL L 31 21 8 13 61.5 2 3 66.7 3 5 60.0 1 9 10 5 0 0 3 2 -12
+p266
+aVMetta World Peace SAC 02/24/2008 SAC @ ORL L 31 23 8 15 53.3 2 4 50.0 5 6 83.3 2 4 6 0 1 0 3 3 -16
+p267
+aVMikki Moore SAC 02/24/2008 SAC @ ORL L 25 2 1 5 20.0 0 0 - 0 1 0.0 2 2 4 1 0 1 1 1 -5
+p268
+aVShelden Williams SAC 02/24/2008 SAC @ ORL L 8 4 1 4 25.0 0 1 0.0 2 4 50.0 1 0 1 0 0 1 0 1 1
+p269
+aVBrad Miller SAC 02/24/2008 SAC @ ORL L 31 17 7 14 50.0 0 1 0.0 3 3 100.0 0 6 6 3 0 0 1 4 -21
+p270
+aVSpencer Hawes SAC 02/24/2008 SAC @ ORL L 19 9 4 11 36.4 0 0 - 1 1 100.0 2 5 7 0 0 3 2 3 -8
+p271
+aVShelden Williams SAC 02/22/2008 SAC @ CHA W 5 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p272
+aVBeno Udrih SAC 02/22/2008 SAC @ CHA W 40 17 7 11 63.6 2 3 66.7 1 2 50.0 2 6 8 6 0 1 4 6 7
+p273
+aVAnthony Johnson SAC 02/22/2008 SAC @ CHA W 14 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -10
+p274
+aVJohn Salmons SAC 02/22/2008 SAC @ CHA W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 1 0 0 0 2 11
+p275
+aVFrancisco Garcia SAC 02/22/2008 SAC @ CHA W 29 23 8 12 66.7 6 8 75.0 1 1 100.0 0 1 1 1 1 3 1 4 -12
+p276
+aVMikki Moore SAC 02/22/2008 SAC @ CHA W 18 5 2 5 40.0 0 0 - 1 1 100.0 2 7 9 0 0 0 0 4 -1
+p277
+aVBrad Miller SAC 02/22/2008 SAC @ CHA W 40 22 7 17 41.2 0 1 0.0 8 10 80.0 5 9 14 5 1 3 6 2 12
+p278
+aVKevin Martin SAC 02/22/2008 SAC @ CHA W 41 15 1 8 12.5 0 2 0.0 13 18 72.2 0 2 2 2 3 1 1 4 -1
+p279
+aVMetta World Peace SAC 02/22/2008 SAC @ CHA W 47 20 8 21 38.1 1 2 50.0 3 4 75.0 5 4 9 4 3 2 3 3 -3
+p280
+aVSpencer Hawes SAC 02/22/2008 SAC @ CHA W 12 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 1 3 3 1
+p281
+aVShelden Williams SAC 02/20/2008 SAC vs. ATL W 9 8 3 5 60.0 0 0 - 2 3 66.7 1 1 2 0 0 1 0 2 -1
+p282
+aVQuincy Douby SAC 02/20/2008 SAC vs. ATL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p283
+aVSpencer Hawes SAC 02/20/2008 SAC vs. ATL W 13 2 1 5 20.0 0 0 - 0 0 - 3 5 8 0 0 1 2 1 -3
+p284
+aVMetta World Peace SAC 02/20/2008 SAC vs. ATL W 39 29 9 12 75.0 1 1 100.0 10 14 71.4 3 4 7 3 3 1 3 2 20
+p285
+aVBrad Miller SAC 02/20/2008 SAC vs. ATL W 34 12 4 12 33.3 0 0 - 4 4 100.0 6 7 13 4 0 1 4 4 10
+p286
+aVFrancisco Garcia SAC 02/20/2008 SAC vs. ATL W 24 14 5 8 62.5 4 6 66.7 0 0 - 0 1 1 1 2 1 0 3 6
+p287
+aVJohn Salmons SAC 02/20/2008 SAC vs. ATL W 15 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 -5
+p288
+aVMikki Moore SAC 02/20/2008 SAC vs. ATL W 22 7 2 2 100.0 0 0 - 3 3 100.0 1 0 1 0 0 0 1 3 7
+p289
+aVAnthony Johnson SAC 02/20/2008 SAC vs. ATL W 13 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 0 -6
+p290
+aVBeno Udrih SAC 02/20/2008 SAC vs. ATL W 36 18 7 15 46.7 1 2 50.0 3 3 100.0 0 3 3 10 1 0 0 3 17
+p291
+aVKevin Martin SAC 02/20/2008 SAC vs. ATL W 34 26 8 18 44.4 3 7 42.9 7 9 77.8 1 2 3 2 2 0 1 1 16
+p292
+aVMikki Moore SAC 02/19/2008 SAC @ POR W 23 3 1 3 33.3 0 0 - 1 1 100.0 2 7 9 2 0 0 0 0 5
+p293
+aVAnthony Johnson SAC 02/19/2008 SAC @ POR W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -4
+p294
+aVBrad Miller SAC 02/19/2008 SAC @ POR W 39 15 6 11 54.5 1 2 50.0 2 2 100.0 2 6 8 3 1 1 2 3 19
+p295
+aVBeno Udrih SAC 02/19/2008 SAC @ POR W 39 9 4 11 36.4 1 2 50.0 0 0 - 0 0 0 6 1 0 3 2 15
+p296
+aVMetta World Peace SAC 02/19/2008 SAC @ POR W 34 24 10 19 52.6 1 2 50.0 3 5 60.0 4 1 5 5 3 0 2 2 12
+p297
+aVJohn Salmons SAC 02/19/2008 SAC @ POR W 18 0 0 3 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -7
+p298
+aVFrancisco Garcia SAC 02/19/2008 SAC @ POR W 21 23 8 12 66.7 5 7 71.4 2 2 100.0 0 6 6 0 0 0 0 1 4
+p299
+aVSpencer Hawes SAC 02/19/2008 SAC @ POR W 13 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 2 0 0 0 3 -5
+p300
+aVShelden Williams SAC 02/19/2008 SAC @ POR W 5 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 0 1 2 1 -4
+p301
+aVKevin Martin SAC 02/19/2008 SAC @ POR W 37 21 6 15 40.0 1 5 20.0 8 9 88.9 1 6 7 3 1 0 2 3 20
+p302
+aVBeno Udrih SAC 02/13/2008 SAC @ HOU L 23 6 3 6 50.0 0 1 0.0 0 0 - 0 6 6 1 0 0 2 0 2
+p303
+aVJustin Williams SAC 02/13/2008 SAC @ HOU L 23 4 1 5 20.0 0 0 - 2 4 50.0 4 8 12 0 5 1 0 2 11
+p304
+aVBrad Miller SAC 02/13/2008 SAC @ HOU L 37 13 5 12 41.7 1 2 50.0 2 2 100.0 1 5 6 3 1 0 4 2 -2
+p305
+aVQuincy Douby SAC 02/13/2008 SAC @ HOU L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -8
+p306
+aVKevin Martin SAC 02/13/2008 SAC @ HOU L 31 12 3 9 33.3 0 1 0.0 6 6 100.0 1 2 3 2 0 0 3 2 -10
+p307
+aVMetta World Peace SAC 02/13/2008 SAC @ HOU L 42 30 11 18 61.1 2 2 100.0 6 10 60.0 0 4 4 4 3 0 3 3 -3
+p308
+aVMike Bibby SAC 02/13/2008 SAC @ HOU L 25 14 5 10 50.0 1 2 50.0 3 4 75.0 0 1 1 4 1 0 1 0 -4
+p309
+aVDahntay Jones SAC 02/13/2008 SAC @ HOU L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p310
+aVMikki Moore SAC 02/13/2008 SAC @ HOU L 32 8 3 3 100.0 0 0 - 2 2 100.0 1 4 5 2 0 0 2 5 -4
+p311
+aVJohn Salmons SAC 02/13/2008 SAC @ HOU L 21 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 0 9
+p312
+aVDahntay Jones SAC 02/12/2008 SAC @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p313
+aVQuincy Douby SAC 02/12/2008 SAC @ MEM L 11 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -22
+p314
+aVKevin Martin SAC 02/12/2008 SAC @ MEM L 38 33 9 23 39.1 2 7 28.6 13 15 86.7 2 5 7 2 1 0 1 1 7
+p315
+aVMike Bibby SAC 02/12/2008 SAC @ MEM L 39 18 7 16 43.8 4 8 50.0 0 0 - 2 2 4 4 1 0 0 4 -15
+p316
+aVMikki Moore SAC 02/12/2008 SAC @ MEM L 24 6 3 7 42.9 0 0 - 0 0 - 2 5 7 0 0 1 1 5 11
+p317
+aVBrad Miller SAC 02/12/2008 SAC @ MEM L 38 10 5 10 50.0 0 0 - 0 0 - 4 9 13 6 0 0 0 3 1
+p318
+aVSpencer Hawes SAC 02/12/2008 SAC @ MEM L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -10
+p319
+aVMetta World Peace SAC 02/12/2008 SAC @ MEM L 40 18 6 16 37.5 1 3 33.3 5 5 100.0 1 4 5 7 3 0 4 5 3
+p320
+aVBeno Udrih SAC 02/12/2008 SAC @ MEM L 18 5 2 9 22.2 1 2 50.0 0 0 - 0 1 1 2 1 0 1 2 -10
+p321
+aVJohn Salmons SAC 02/12/2008 SAC @ MEM L 22 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 1 0 3 3 -28
+p322
+aVJustin Williams SAC 02/12/2008 SAC @ MEM L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p323
+aVMikki Moore SAC 02/09/2008 SAC @ GSW L 21 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 3 0 0 1 4 0
+p324
+aVSpencer Hawes SAC 02/09/2008 SAC @ GSW L 3 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 1 0 0 0 -4
+p325
+aVQuincy Douby SAC 02/09/2008 SAC @ GSW L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p326
+aVMetta World Peace SAC 02/09/2008 SAC @ GSW L 41 23 10 21 47.6 0 2 0.0 3 6 50.0 2 11 13 2 3 2 3 2 -2
+p327
+aVDahntay Jones SAC 02/09/2008 SAC @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 2
+p328
+aVMike Bibby SAC 02/09/2008 SAC @ GSW L 33 24 10 21 47.6 2 6 33.3 2 3 66.7 1 1 2 7 1 0 4 5 -5
+p329
+aVBrad Miller SAC 02/09/2008 SAC @ GSW L 39 10 3 6 50.0 0 1 0.0 4 4 100.0 3 10 13 3 2 0 1 2 6
+p330
+aVBeno Udrih SAC 02/09/2008 SAC @ GSW L 18 6 3 7 42.9 0 1 0.0 0 0 - 0 4 4 1 0 0 1 3 -1
+p331
+aVJohn Salmons SAC 02/09/2008 SAC @ GSW L 34 19 9 15 60.0 0 1 0.0 1 1 100.0 3 5 8 1 1 1 4 2 -4
+p332
+aVKevin Martin SAC 02/09/2008 SAC @ GSW L 40 9 3 16 18.8 1 5 20.0 2 4 50.0 3 3 6 1 1 0 3 3 -6
+p333
+aVQuincy Douby SAC 02/08/2008 SAC vs. UTA W 14 15 4 6 66.7 3 4 75.0 4 4 100.0 0 1 1 1 2 1 1 0 17
+p334
+aVFrancisco Garcia SAC 02/08/2008 SAC vs. UTA W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 3 2 -5
+p335
+aVBrad Miller SAC 02/08/2008 SAC vs. UTA W 33 15 2 5 40.0 0 0 - 11 12 91.7 2 6 8 1 2 0 1 3 19
+p336
+aVJustin Williams SAC 02/08/2008 SAC vs. UTA W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p337
+aVMetta World Peace SAC 02/08/2008 SAC vs. UTA W 33 22 6 14 42.9 1 3 33.3 9 12 75.0 3 5 8 2 1 0 3 4 15
+p338
+aVKevin Martin SAC 02/08/2008 SAC vs. UTA W 28 27 9 15 60.0 4 6 66.7 5 7 71.4 1 4 5 1 2 0 4 2 1
+p339
+aVMike Bibby SAC 02/08/2008 SAC vs. UTA W 23 7 3 6 50.0 1 2 50.0 0 0 - 1 3 4 6 1 0 3 1 -8
+p340
+aVDahntay Jones SAC 02/08/2008 SAC vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p341
+aVBeno Udrih SAC 02/08/2008 SAC vs. UTA W 25 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 1 21
+p342
+aVMikki Moore SAC 02/08/2008 SAC vs. UTA W 30 7 2 4 50.0 0 0 - 3 6 50.0 2 5 7 1 0 0 1 4 9
+p343
+aVJohn Salmons SAC 02/08/2008 SAC vs. UTA W 31 13 4 8 50.0 0 1 0.0 5 5 100.0 2 4 6 3 1 2 2 3 10
+p344
+aVSpencer Hawes SAC 02/08/2008 SAC vs. UTA W 13 5 1 2 50.0 0 0 - 3 4 75.0 1 3 4 1 0 0 3 1 -7
+p345
+aVQuincy Douby SAC 02/06/2008 SAC vs. SEA L 17 8 3 9 33.3 2 2 100.0 0 0 - 0 3 3 1 0 0 2 0 5
+p346
+aVDahntay Jones SAC 02/06/2008 SAC vs. SEA L 2 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 1 0 0 0 2
+p347
+aVMike Bibby SAC 02/06/2008 SAC vs. SEA L 29 10 4 15 26.7 0 5 0.0 2 2 100.0 2 3 5 3 2 0 2 2 -11
+p348
+aVFrancisco Garcia SAC 02/06/2008 SAC vs. SEA L 23 11 4 9 44.4 3 6 50.0 0 0 - 1 2 3 0 1 2 0 2 -2
+p349
+aVMikki Moore SAC 02/06/2008 SAC vs. SEA L 34 10 4 9 44.4 0 0 - 2 3 66.7 5 4 9 2 1 0 1 4 -15
+p350
+aVSpencer Hawes SAC 02/06/2008 SAC vs. SEA L 17 10 4 8 50.0 0 1 0.0 2 2 100.0 0 6 6 0 0 0 1 4 7
+p351
+aVJustin Williams SAC 02/06/2008 SAC vs. SEA L 9 6 2 2 100.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 0 1
+p352
+aVJohn Salmons SAC 02/06/2008 SAC vs. SEA L 38 11 5 14 35.7 0 2 0.0 1 1 100.0 2 2 4 3 2 0 1 2 -18
+p353
+aVMetta World Peace SAC 02/06/2008 SAC vs. SEA L 40 20 9 22 40.9 1 3 33.3 1 4 25.0 1 2 3 4 3 0 4 2 -15
+p354
+aVKevin Martin SAC 02/06/2008 SAC vs. SEA L 30 5 1 10 10.0 1 3 33.3 2 2 100.0 1 5 6 1 0 0 0 0 -19
+p355
+aVSpencer Hawes SAC 02/02/2008 SAC vs. CHI W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -2
+p356
+aVBrad Miller SAC 02/02/2008 SAC vs. CHI W 39 22 5 16 31.3 0 1 0.0 12 15 80.0 4 16 20 4 4 2 2 4 8
+p357
+aVMike Bibby SAC 02/02/2008 SAC vs. CHI W 30 4 1 9 11.1 0 1 0.0 2 3 66.7 1 0 1 7 4 0 4 4 18
+p358
+aVKevin Martin SAC 02/02/2008 SAC vs. CHI W 35 26 8 12 66.7 2 3 66.7 8 8 100.0 1 3 4 1 0 0 1 2 13
+p359
+aVMetta World Peace SAC 02/02/2008 SAC vs. CHI W 38 28 10 20 50.0 3 5 60.0 5 6 83.3 3 3 6 2 0 1 2 2 10
+p360
+aVFrancisco Garcia SAC 02/02/2008 SAC vs. CHI W 13 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 3 -9
+p361
+aVBeno Udrih SAC 02/02/2008 SAC vs. CHI W 20 9 3 8 37.5 1 3 33.3 2 2 100.0 0 4 4 0 1 0 0 2 -11
+p362
+aVJohn Salmons SAC 02/02/2008 SAC vs. CHI W 32 9 2 10 20.0 0 4 0.0 5 5 100.0 0 4 4 0 0 1 5 2 -5
+p363
+aVMikki Moore SAC 02/02/2008 SAC vs. CHI W 25 5 2 2 100.0 0 0 - 1 1 100.0 2 0 2 0 0 1 1 6 -2
+p364
+aVBeno Udrih SAC 02/01/2008 SAC vs. NOH W 19 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 5 2 0 1 2 6
+p365
+aVBrad Miller SAC 02/01/2008 SAC vs. NOH W 39 22 7 13 53.8 1 3 33.3 7 11 63.6 4 10 14 4 1 1 1 4 -2
+p366
+aVMikki Moore SAC 02/01/2008 SAC vs. NOH W 27 10 4 5 80.0 0 0 - 2 2 100.0 3 4 7 1 0 3 1 4 7
+p367
+aVJohn Salmons SAC 02/01/2008 SAC vs. NOH W 28 11 4 7 57.1 2 2 100.0 1 2 50.0 0 2 2 2 0 2 1 0 2
+p368
+aVKevin Martin SAC 02/01/2008 SAC vs. NOH W 39 22 7 15 46.7 4 8 50.0 4 6 66.7 0 1 1 3 0 0 3 2 6
+p369
+aVMetta World Peace SAC 02/01/2008 SAC vs. NOH W 40 24 11 22 50.0 2 4 50.0 0 0 - 2 3 5 3 2 1 2 0 13
+p370
+aVFrancisco Garcia SAC 02/01/2008 SAC vs. NOH W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 4
+p371
+aVMike Bibby SAC 02/01/2008 SAC vs. NOH W 39 15 7 18 38.9 1 5 20.0 0 1 0.0 2 4 6 7 2 0 1 5 5
+p372
+aVSpencer Hawes SAC 02/01/2008 SAC vs. NOH W 4 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 4
+p373
+aVBeno Udrih SAC 01/30/2008 SAC vs. CHA W 15 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 1 1 0 2 1 4
+p374
+aVMikki Moore SAC 01/30/2008 SAC vs. CHA W 32 11 4 9 44.4 0 0 - 3 4 75.0 3 5 8 1 1 4 2 4 4
+p375
+aVBrad Miller SAC 01/30/2008 SAC vs. CHA W 39 22 8 12 66.7 1 1 100.0 5 7 71.4 3 18 21 5 0 3 3 4 15
+p376
+aVMetta World Peace SAC 01/30/2008 SAC vs. CHA W 38 21 8 16 50.0 0 1 0.0 5 8 62.5 1 4 5 3 3 0 0 2 14
+p377
+aVSpencer Hawes SAC 01/30/2008 SAC vs. CHA W 9 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -1
+p378
+aVKevin Martin SAC 01/30/2008 SAC vs. CHA W 41 22 8 19 42.1 3 6 50.0 3 3 100.0 3 2 5 4 1 0 1 2 18
+p379
+aVFrancisco Garcia SAC 01/30/2008 SAC vs. CHA W 12 1 0 4 0.0 0 2 0.0 1 3 33.3 0 7 7 1 0 2 1 3 4
+p380
+aVMike Bibby SAC 01/30/2008 SAC vs. CHA W 34 10 5 13 38.5 0 2 0.0 0 0 - 0 3 3 7 1 0 3 0 6
+p381
+aVQuincy Douby SAC 01/30/2008 SAC vs. CHA W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p382
+aVJohn Salmons SAC 01/30/2008 SAC vs. CHA W 16 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 2 6
+p383
+aVJustin Williams SAC 01/30/2008 SAC vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p384
+aVBeno Udrih SAC 01/27/2008 SAC @ SEA W 19 10 3 8 37.5 1 2 50.0 3 4 75.0 0 1 1 1 0 2 1 2 0
+p385
+aVKevin Martin SAC 01/27/2008 SAC @ SEA W 36 26 8 17 47.1 2 6 33.3 8 9 88.9 1 3 4 4 0 0 2 4 0
+p386
+aVFrancisco Garcia SAC 01/27/2008 SAC @ SEA W 19 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 0 1 1 1 4 4
+p387
+aVMetta World Peace SAC 01/27/2008 SAC @ SEA W 31 10 3 10 30.0 0 2 0.0 4 4 100.0 1 5 6 6 2 1 1 4 9
+p388
+aVDahntay Jones SAC 01/27/2008 SAC @ SEA W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p389
+aVQuincy Douby SAC 01/27/2008 SAC @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p390
+aVJohn Salmons SAC 01/27/2008 SAC @ SEA W 25 11 5 7 71.4 0 0 - 1 1 100.0 0 2 2 2 1 2 2 2 -11
+p391
+aVMike Bibby SAC 01/27/2008 SAC @ SEA W 29 13 5 11 45.5 2 3 66.7 1 2 50.0 0 3 3 6 2 0 4 1 2
+p392
+aVBrad Miller SAC 01/27/2008 SAC @ SEA W 37 13 4 10 40.0 1 1 100.0 4 4 100.0 3 9 12 5 1 1 3 5 5
+p393
+aVMikki Moore SAC 01/27/2008 SAC @ SEA W 38 10 4 7 57.1 0 0 - 2 2 100.0 1 5 6 1 0 1 0 4 0
+p394
+aVSpencer Hawes SAC 01/27/2008 SAC @ SEA W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p395
+aVBrad Miller SAC 01/25/2008 SAC @ UTA L 34 16 5 7 71.4 2 2 100.0 4 4 100.0 0 6 6 2 1 1 4 2 2
+p396
+aVMike Bibby SAC 01/25/2008 SAC @ UTA L 37 11 4 11 36.4 1 3 33.3 2 2 100.0 0 6 6 4 1 0 2 4 -12
+p397
+aVMetta World Peace SAC 01/25/2008 SAC @ UTA L 33 15 5 12 41.7 0 2 0.0 5 6 83.3 6 2 8 3 1 0 1 2 -11
+p398
+aVQuincy Douby SAC 01/25/2008 SAC @ UTA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p399
+aVSpencer Hawes SAC 01/25/2008 SAC @ UTA L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p400
+aVKevin Martin SAC 01/25/2008 SAC @ UTA L 38 32 7 17 41.2 3 7 42.9 15 15 100.0 1 6 7 4 0 0 1 1 -14
+p401
+aVFrancisco Garcia SAC 01/25/2008 SAC @ UTA L 26 13 4 7 57.1 2 4 50.0 3 5 60.0 1 2 3 2 0 0 1 5 -10
+p402
+aVJohn Salmons SAC 01/25/2008 SAC @ UTA L 38 13 6 9 66.7 0 1 0.0 1 2 50.0 1 0 1 3 1 0 2 3 -3
+p403
+aVDahntay Jones SAC 01/25/2008 SAC @ UTA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p404
+aVJustin Williams SAC 01/25/2008 SAC @ UTA L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 0
+p405
+aVMikki Moore SAC 01/25/2008 SAC @ UTA L 10 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -15
+p406
+aVBeno Udrih SAC 01/25/2008 SAC @ UTA L 17 7 1 3 33.3 1 2 50.0 4 6 66.7 0 0 0 1 0 0 1 1 -1
+p407
+aVBeno Udrih SAC 01/23/2008 SAC @ LAC L 16 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 1 1 -18
+p408
+aVQuincy Douby SAC 01/23/2008 SAC @ LAC L 5 5 1 2 50.0 0 1 0.0 3 4 75.0 0 0 0 0 0 0 1 1 0
+p409
+aVBrad Miller SAC 01/23/2008 SAC @ LAC L 34 15 5 8 62.5 0 0 - 5 8 62.5 2 10 12 5 3 0 5 2 -14
+p410
+aVDahntay Jones SAC 01/23/2008 SAC @ LAC L 7 1 0 0 - 0 0 - 1 4 25.0 0 2 2 1 0 0 0 1 -2
+p411
+aVKevin Martin SAC 01/23/2008 SAC @ LAC L 31 11 3 11 27.3 1 2 50.0 4 5 80.0 1 2 3 0 1 0 3 4 -17
+p412
+aVMike Bibby SAC 01/23/2008 SAC @ LAC L 35 16 6 14 42.9 1 4 25.0 3 4 75.0 0 3 3 5 0 1 4 0 -17
+p413
+aVSpencer Hawes SAC 01/23/2008 SAC @ LAC L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -6
+p414
+aVMikki Moore SAC 01/23/2008 SAC @ LAC L 24 6 3 3 100.0 0 0 - 0 3 0.0 3 2 5 0 1 1 1 3 -15
+p415
+aVJohn Salmons SAC 01/23/2008 SAC @ LAC L 22 8 3 8 37.5 1 3 33.3 1 3 33.3 1 1 2 1 2 0 3 0 -16
+p416
+aVFrancisco Garcia SAC 01/23/2008 SAC @ LAC L 23 11 4 8 50.0 3 5 60.0 0 0 - 1 1 2 3 0 1 1 3 -3
+p417
+aVJustin Williams SAC 01/23/2008 SAC @ LAC L 5 2 1 2 50.0 0 0 - 0 2 0.0 2 0 2 0 0 0 0 0 0
+p418
+aVMetta World Peace SAC 01/23/2008 SAC @ LAC L 32 8 4 12 33.3 0 3 0.0 0 0 - 2 2 4 3 1 0 2 2 -22
+p419
+aVKevin Martin SAC 01/22/2008 SAC vs. NJN W 31 19 5 13 38.5 3 7 42.9 6 6 100.0 2 5 7 3 2 0 2 1 17
+p420
+aVSpencer Hawes SAC 01/22/2008 SAC vs. NJN W 17 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 1 0 2 12
+p421
+aVMetta World Peace SAC 01/22/2008 SAC vs. NJN W 34 27 9 14 64.3 2 2 100.0 7 10 70.0 3 3 6 4 5 1 3 1 22
+p422
+aVMike Bibby SAC 01/22/2008 SAC vs. NJN W 29 15 5 11 45.5 3 5 60.0 2 2 100.0 0 3 3 7 1 1 1 2 18
+p423
+aVFrancisco Garcia SAC 01/22/2008 SAC vs. NJN W 29 13 5 7 71.4 3 5 60.0 0 0 - 0 4 4 2 0 1 1 2 26
+p424
+aVBeno Udrih SAC 01/22/2008 SAC vs. NJN W 18 14 5 5 100.0 2 2 100.0 2 2 100.0 0 2 2 3 0 1 1 1 13
+p425
+aVBrad Miller SAC 01/22/2008 SAC vs. NJN W 34 14 6 10 60.0 0 1 0.0 2 2 100.0 2 5 7 8 1 1 1 2 27
+p426
+aVJohn Salmons SAC 01/22/2008 SAC vs. NJN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p427
+aVJustin Williams SAC 01/22/2008 SAC vs. NJN W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p428
+aVMikki Moore SAC 01/22/2008 SAC vs. NJN W 24 10 5 7 71.4 0 0 - 0 0 - 1 2 3 0 0 0 1 3 16
+p429
+aVDahntay Jones SAC 01/22/2008 SAC vs. NJN W 11 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 2 1 1 1 2 7
+p430
+aVQuincy Douby SAC 01/22/2008 SAC vs. NJN W 7 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 1 0 0 0 1 10
+p431
+aVBeno Udrih SAC 01/19/2008 SAC @ IND W 23 20 7 9 77.8 3 4 75.0 3 3 100.0 0 2 2 3 1 1 2 1 10
+p432
+aVKevin Martin SAC 01/19/2008 SAC @ IND W 41 20 6 14 42.9 1 4 25.0 7 8 87.5 1 1 2 1 1 0 4 5 5
+p433
+aVMetta World Peace SAC 01/19/2008 SAC @ IND W 35 15 5 14 35.7 3 7 42.9 2 2 100.0 0 3 3 3 2 0 6 1 0
+p434
+aVFrancisco Garcia SAC 01/19/2008 SAC @ IND W 12 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 2 1 0 0 2 1
+p435
+aVDahntay Jones SAC 01/19/2008 SAC @ IND W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p436
+aVQuincy Douby SAC 01/19/2008 SAC @ IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p437
+aVJohn Salmons SAC 01/19/2008 SAC @ IND W 24 4 2 4 50.0 0 0 - 0 0 - 0 5 5 4 0 2 3 4 2
+p438
+aVBrad Miller SAC 01/19/2008 SAC @ IND W 40 11 2 7 28.6 0 0 - 7 7 100.0 2 14 16 2 3 1 4 3 7
+p439
+aVMike Bibby SAC 01/19/2008 SAC @ IND W 30 11 3 12 25.0 2 3 66.7 3 4 75.0 0 4 4 4 2 0 1 2 -3
+p440
+aVMikki Moore SAC 01/19/2008 SAC @ IND W 32 22 9 12 75.0 0 0 - 4 4 100.0 3 8 11 1 0 0 2 5 7
+p441
+aVMetta World Peace SAC 01/18/2008 SAC @ DET W 29 18 5 13 38.5 3 8 37.5 5 8 62.5 0 2 2 3 2 0 1 3 19
+p442
+aVMikki Moore SAC 01/18/2008 SAC @ DET W 33 6 3 5 60.0 0 0 - 0 0 - 0 5 5 1 1 0 1 3 -5
+p443
+aVSpencer Hawes SAC 01/18/2008 SAC @ DET W 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p444
+aVKevin Martin SAC 01/18/2008 SAC @ DET W 31 24 8 14 57.1 2 4 50.0 6 6 100.0 1 6 7 0 1 0 0 5 18
+p445
+aVBrad Miller SAC 01/18/2008 SAC @ DET W 39 17 6 8 75.0 0 1 0.0 5 6 83.3 2 7 9 5 1 0 1 2 7
+p446
+aVBeno Udrih SAC 01/18/2008 SAC @ DET W 25 12 5 7 71.4 0 1 0.0 2 2 100.0 1 5 6 3 1 0 2 2 -11
+p447
+aVFrancisco Garcia SAC 01/18/2008 SAC @ DET W 28 5 2 7 28.6 0 3 0.0 1 2 50.0 1 0 1 7 2 1 1 2 -10
+p448
+aVMike Bibby SAC 01/18/2008 SAC @ DET W 30 16 6 13 46.2 2 5 40.0 2 2 100.0 0 5 5 4 0 0 4 3 16
+p449
+aVJohn Salmons SAC 01/18/2008 SAC @ DET W 20 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 2 1 1
+p450
+aVMikki Moore SAC 01/16/2008 SAC @ TOR L 30 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 2 0 0 3 -28
+p451
+aVKevin Martin SAC 01/16/2008 SAC @ TOR L 29 22 8 15 53.3 2 5 40.0 4 5 80.0 0 4 4 1 2 0 3 1 -20
+p452
+aVFrancisco Garcia SAC 01/16/2008 SAC @ TOR L 30 10 4 9 44.4 2 5 40.0 0 0 - 1 2 3 1 1 0 3 1 -15
+p453
+aVMike Bibby SAC 01/16/2008 SAC @ TOR L 29 19 7 12 58.3 4 7 57.1 1 2 50.0 2 4 6 0 0 0 4 1 -17
+p454
+aVQuincy Douby SAC 01/16/2008 SAC @ TOR L 6 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 7
+p455
+aVMetta World Peace SAC 01/16/2008 SAC @ TOR L 29 4 2 10 20.0 0 3 0.0 0 0 - 0 2 2 4 1 1 1 4 -13
+p456
+aVJohn Salmons SAC 01/16/2008 SAC @ TOR L 30 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 2 2 1 3 1 -33
+p457
+aVBrad Miller SAC 01/16/2008 SAC @ TOR L 35 16 5 7 71.4 1 1 100.0 5 6 83.3 2 5 7 4 0 2 3 4 0
+p458
+aVSpencer Hawes SAC 01/16/2008 SAC @ TOR L 3 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -3
+p459
+aVJustin Williams SAC 01/16/2008 SAC @ TOR L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p460
+aVBeno Udrih SAC 01/16/2008 SAC @ TOR L 18 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 7 2 0 3 2 -6
+p461
+aVSpencer Hawes SAC 01/14/2008 SAC vs. DAL W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -1
+p462
+aVBrad Miller SAC 01/14/2008 SAC vs. DAL W 39 11 3 8 37.5 0 0 - 5 7 71.4 5 4 9 6 0 2 2 3 8
+p463
+aVJustin Williams SAC 01/14/2008 SAC vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p464
+aVDahntay Jones SAC 01/14/2008 SAC vs. DAL W 9 0 0 2 0.0 0 0 - 0 1 0.0 2 2 4 1 0 1 0 2 -5
+p465
+aVKevin Martin SAC 01/14/2008 SAC vs. DAL W 28 39 14 16 87.5 2 2 100.0 9 11 81.8 1 2 3 1 1 0 2 4 2
+p466
+aVFrancisco Garcia SAC 01/14/2008 SAC vs. DAL W 35 22 7 15 46.7 4 7 57.1 4 6 66.7 1 4 5 1 2 1 1 4 4
+p467
+aVJohn Salmons SAC 01/14/2008 SAC vs. DAL W 42 22 9 16 56.3 0 1 0.0 4 4 100.0 0 4 4 3 0 0 2 2 3
+p468
+aVMikki Moore SAC 01/14/2008 SAC vs. DAL W 28 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 0 0 1 0 4 -10
+p469
+aVQuincy Douby SAC 01/14/2008 SAC vs. DAL W 18 8 3 8 37.5 2 3 66.7 0 0 - 0 1 1 3 1 0 1 1 -5
+p470
+aVBeno Udrih SAC 01/14/2008 SAC vs. DAL W 36 12 5 16 31.3 0 3 0.0 2 2 100.0 1 4 5 5 3 0 1 1 17
+p471
+aVDahntay Jones SAC 01/12/2008 SAC vs. IND L 11 6 3 4 75.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 5
+p472
+aVBeno Udrih SAC 01/12/2008 SAC vs. IND L 34 14 6 8 75.0 2 2 100.0 0 0 - 0 2 2 3 1 0 4 2 2
+p473
+aVMikki Moore SAC 01/12/2008 SAC vs. IND L 27 4 1 4 25.0 0 0 - 2 2 100.0 1 6 7 0 2 0 2 3 -10
+p474
+aVFrancisco Garcia SAC 01/12/2008 SAC vs. IND L 45 22 9 18 50.0 3 6 50.0 1 1 100.0 3 9 12 3 2 0 2 4 -9
+p475
+aVQuincy Douby SAC 01/12/2008 SAC vs. IND L 14 5 2 6 33.3 0 2 0.0 1 1 100.0 0 0 0 1 0 0 2 1 -8
+p476
+aVBrad Miller SAC 01/12/2008 SAC vs. IND L 38 14 5 15 33.3 0 1 0.0 4 4 100.0 4 11 15 5 0 1 6 4 -8
+p477
+aVJohn Salmons SAC 01/12/2008 SAC vs. IND L 42 15 4 10 40.0 1 2 50.0 6 6 100.0 0 1 1 4 0 1 4 3 -3
+p478
+aVKevin Martin SAC 01/12/2008 SAC vs. IND L 29 25 7 9 77.8 1 1 100.0 10 10 100.0 0 2 2 1 2 0 3 5 1
+p479
+aVJohn Salmons SAC 01/10/2008 SAC vs. MEM W 44 28 12 21 57.1 0 4 0.0 4 5 80.0 4 7 11 7 0 0 2 0 1
+p480
+aVFrancisco Garcia SAC 01/10/2008 SAC vs. MEM W 42 22 7 16 43.8 3 7 42.9 5 6 83.3 0 4 4 1 4 1 1 4 3
+p481
+aVBeno Udrih SAC 01/10/2008 SAC vs. MEM W 42 25 10 17 58.8 2 3 66.7 3 3 100.0 1 3 4 3 2 0 3 3 1
+p482
+aVBrad Miller SAC 01/10/2008 SAC vs. MEM W 40 22 5 16 31.3 0 2 0.0 12 12 100.0 5 5 10 5 2 1 1 3 3
+p483
+aVJustin Williams SAC 01/10/2008 SAC vs. MEM W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p484
+aVDahntay Jones SAC 01/10/2008 SAC vs. MEM W 9 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 2 6 3
+p485
+aVSpencer Hawes SAC 01/10/2008 SAC vs. MEM W 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 3 3
+p486
+aVQuincy Douby SAC 01/10/2008 SAC vs. MEM W 15 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 0 1 0 1 1 5
+p487
+aVMikki Moore SAC 01/10/2008 SAC vs. MEM W 37 7 3 8 37.5 0 0 - 1 2 50.0 3 4 7 1 0 2 1 6 -2
+p488
+aVJohn Salmons SAC 01/08/2008 SAC vs. ORL W 43 21 8 14 57.1 0 1 0.0 5 5 100.0 1 2 3 3 2 0 4 2 -4
+p489
+aVMikki Moore SAC 01/08/2008 SAC vs. ORL W 38 8 4 7 57.1 0 0 - 0 0 - 5 7 12 2 1 0 3 5 1
+p490
+aVSpencer Hawes SAC 01/08/2008 SAC vs. ORL W 6 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 0 1 0 1 15
+p491
+aVBeno Udrih SAC 01/08/2008 SAC vs. ORL W 41 17 8 14 57.1 0 2 0.0 1 2 50.0 0 4 4 5 1 0 5 3 6
+p492
+aVBrad Miller SAC 01/08/2008 SAC vs. ORL W 40 20 6 16 37.5 1 2 50.0 7 9 77.8 3 1 4 6 3 1 0 2 0
+p493
+aVFrancisco Garcia SAC 01/08/2008 SAC vs. ORL W 32 11 2 6 33.3 2 4 50.0 5 6 83.3 0 5 5 0 1 0 2 4 -5
+p494
+aVDahntay Jones SAC 01/08/2008 SAC vs. ORL W 10 8 2 2 100.0 1 1 100.0 3 4 75.0 1 0 1 0 0 0 1 2 -1
+p495
+aVJustin Williams SAC 01/08/2008 SAC vs. ORL W 9 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -1
+p496
+aVQuincy Douby SAC 01/08/2008 SAC vs. ORL W 21 14 4 9 44.4 2 4 50.0 4 4 100.0 0 1 1 0 2 0 1 2 9
+p497
+aVMikki Moore SAC 01/05/2008 SAC @ CHI L 35 6 1 4 25.0 0 0 - 4 4 100.0 1 2 3 0 0 1 1 6 -2
+p498
+aVSpencer Hawes SAC 01/05/2008 SAC @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 7
+p499
+aVQuincy Douby SAC 01/05/2008 SAC @ CHI L 21 14 6 10 60.0 2 3 66.7 0 0 - 0 2 2 0 0 0 1 2 1
+p500
+aVBeno Udrih SAC 01/05/2008 SAC @ CHI L 37 12 5 18 27.8 1 2 50.0 1 1 100.0 0 4 4 6 2 0 3 1 -4
+p501
+aVJohn Salmons SAC 01/05/2008 SAC @ CHI L 28 13 6 10 60.0 0 0 - 1 1 100.0 1 4 5 3 1 0 7 4 -10
+p502
+aVDahntay Jones SAC 01/05/2008 SAC @ CHI L 29 16 4 5 80.0 0 0 - 8 11 72.7 1 7 8 1 1 0 0 5 10
+p503
+aVFrancisco Garcia SAC 01/05/2008 SAC @ CHI L 38 8 3 8 37.5 0 0 - 2 2 100.0 1 6 7 0 0 0 3 5 -2
+p504
+aVBrad Miller SAC 01/05/2008 SAC @ CHI L 39 22 8 17 47.1 1 1 100.0 5 5 100.0 4 9 13 6 0 1 3 3 -5
+p505
+aVJustin Williams SAC 01/05/2008 SAC @ CHI L 8 2 0 1 0.0 0 0 - 2 4 50.0 0 3 3 0 0 1 0 1 0
+p506
+aVJustin Williams SAC 01/04/2008 SAC @ CLE L 12 8 4 5 80.0 0 0 - 0 4 0.0 4 4 8 0 0 0 0 2 -3
+p507
+aVDahntay Jones SAC 01/04/2008 SAC @ CLE L 18 7 3 6 50.0 0 1 0.0 1 2 50.0 0 3 3 0 0 1 1 1 -6
+p508
+aVFrancisco Garcia SAC 01/04/2008 SAC @ CLE L 32 15 7 13 53.8 1 4 25.0 0 0 - 0 4 4 4 0 0 6 4 -1
+p509
+aVBeno Udrih SAC 01/04/2008 SAC @ CLE L 43 11 5 12 41.7 1 3 33.3 0 0 - 1 2 3 9 0 0 4 3 4
+p510
+aVSpencer Hawes SAC 01/04/2008 SAC @ CLE L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p511
+aVQuincy Douby SAC 01/04/2008 SAC @ CLE L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -11
+p512
+aVJohn Salmons SAC 01/04/2008 SAC @ CLE L 43 22 10 14 71.4 1 4 25.0 1 2 50.0 1 6 7 5 1 0 2 3 2
+p513
+aVBrad Miller SAC 01/04/2008 SAC @ CLE L 43 17 7 15 46.7 0 2 0.0 3 3 100.0 0 5 5 7 0 1 3 3 6
+p514
+aVMikki Moore SAC 01/04/2008 SAC @ CLE L 39 11 5 8 62.5 0 0 - 1 1 100.0 3 8 11 1 0 0 4 4 -8
+p515
+aVQuincy Douby SAC 01/02/2008 SAC @ NYK W 16 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 1 3 1 1 3 -10
+p516
+aVSpencer Hawes SAC 01/02/2008 SAC @ NYK W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p517
+aVBeno Udrih SAC 01/02/2008 SAC @ NYK W 42 12 3 12 25.0 0 3 0.0 6 8 75.0 2 3 5 6 3 1 4 2 18
+p518
+aVJohn Salmons SAC 01/02/2008 SAC @ NYK W 44 32 13 18 72.2 1 2 50.0 5 5 100.0 2 9 11 6 6 1 3 4 12
+p519
+aVBrad Miller SAC 01/02/2008 SAC @ NYK W 36 26 9 16 56.3 1 2 50.0 7 7 100.0 3 13 16 2 0 1 2 3 12
+p520
+aVJustin Williams SAC 01/02/2008 SAC @ NYK W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -4
+p521
+aVMikki Moore SAC 01/02/2008 SAC @ NYK W 32 6 2 6 33.3 0 0 - 2 4 50.0 0 7 7 0 0 0 3 6 15
+p522
+aVKenny Thomas SAC 01/02/2008 SAC @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p523
+aVDahntay Jones SAC 01/02/2008 SAC @ NYK W 10 3 0 4 0.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 2
+p524
+aVFrancisco Garcia SAC 01/02/2008 SAC @ NYK W 43 22 5 15 33.3 2 7 28.6 10 13 76.9 3 4 7 2 3 2 3 4 11
+p525
+aVBeno Udrih SAC 12/30/2007 SAC vs. PHX L 33 6 3 10 30.0 0 3 0.0 0 0 - 0 4 4 4 1 0 1 3 -19
+p526
+aVQuincy Douby SAC 12/30/2007 SAC vs. PHX L 24 4 2 10 20.0 0 4 0.0 0 0 - 1 1 2 2 0 2 1 3 -7
+p527
+aVDahntay Jones SAC 12/30/2007 SAC vs. PHX L 11 10 2 5 40.0 0 1 0.0 6 6 100.0 0 2 2 1 0 0 0 0 -5
+p528
+aVBrad Miller SAC 12/30/2007 SAC vs. PHX L 35 9 4 16 25.0 1 7 14.3 0 0 - 2 5 7 7 2 1 3 4 -4
+p529
+aVFrancisco Garcia SAC 12/30/2007 SAC vs. PHX L 40 30 10 17 58.8 3 5 60.0 7 8 87.5 1 5 6 0 1 1 0 5 -14
+p530
+aVKenny Thomas SAC 12/30/2007 SAC vs. PHX L 7 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -10
+p531
+aVJohn Salmons SAC 12/30/2007 SAC vs. PHX L 43 23 9 18 50.0 1 3 33.3 4 4 100.0 2 5 7 3 2 0 5 3 -10
+p532
+aVJustin Williams SAC 12/30/2007 SAC vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 3
+p533
+aVSpencer Hawes SAC 12/30/2007 SAC vs. PHX L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p534
+aVMikki Moore SAC 12/30/2007 SAC vs. PHX L 36 20 8 11 72.7 0 0 - 4 5 80.0 7 5 12 1 0 1 2 3 -12
+p535
+aVKenny Thomas SAC 12/28/2007 SAC vs. PHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p536
+aVSpencer Hawes SAC 12/28/2007 SAC vs. PHI L 10 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -11
+p537
+aVBrad Miller SAC 12/28/2007 SAC vs. PHI L 39 10 3 6 50.0 1 2 50.0 3 3 100.0 4 8 12 1 2 1 4 3 -2
+p538
+aVMikki Moore SAC 12/28/2007 SAC vs. PHI L 35 6 3 7 42.9 0 0 - 0 1 0.0 5 1 6 1 0 0 1 4 -1
+p539
+aVFrancisco Garcia SAC 12/28/2007 SAC vs. PHI L 41 8 3 15 20.0 2 8 25.0 0 0 - 0 1 1 2 2 2 4 4 -3
+p540
+aVDahntay Jones SAC 12/28/2007 SAC vs. PHI L 10 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 1 0 0 1 1 -4
+p541
+aVQuincy Douby SAC 12/28/2007 SAC vs. PHI L 15 10 5 11 45.5 0 4 0.0 0 0 - 1 2 3 0 1 0 3 2 -5
+p542
+aVBeno Udrih SAC 12/28/2007 SAC vs. PHI L 38 19 8 11 72.7 3 4 75.0 0 0 - 0 5 5 6 1 0 4 4 -9
+p543
+aVJohn Salmons SAC 12/28/2007 SAC vs. PHI L 43 22 8 19 42.1 1 4 25.0 5 5 100.0 1 0 1 2 0 0 5 4 -15
+p544
+aVSpencer Hawes SAC 12/26/2007 SAC vs. BOS L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p545
+aVMikki Moore SAC 12/26/2007 SAC vs. BOS L 22 8 4 5 80.0 0 0 - 0 0 - 2 3 5 0 0 0 2 4 -11
+p546
+aVMetta World Peace SAC 12/26/2007 SAC vs. BOS L 41 15 4 15 26.7 0 5 0.0 7 9 77.8 2 4 6 1 2 0 2 2 -14
+p547
+aVDahntay Jones SAC 12/26/2007 SAC vs. BOS L 9 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 1 1 2 -5
+p548
+aVQuincy Douby SAC 12/26/2007 SAC vs. BOS L 13 5 2 6 33.3 0 3 0.0 1 1 100.0 0 1 1 1 2 0 1 1 -7
+p549
+aVKenny Thomas SAC 12/26/2007 SAC vs. BOS L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p550
+aVBrad Miller SAC 12/26/2007 SAC vs. BOS L 34 7 2 11 18.2 0 2 0.0 3 3 100.0 2 9 11 0 2 0 5 2 -12
+p551
+aVFrancisco Garcia SAC 12/26/2007 SAC vs. BOS L 25 12 4 6 66.7 1 3 33.3 3 4 75.0 1 1 2 1 1 1 1 2 -12
+p552
+aVJohn Salmons SAC 12/26/2007 SAC vs. BOS L 41 13 6 11 54.5 1 1 100.0 0 2 0.0 0 4 4 3 2 2 4 3 -16
+p553
+aVBeno Udrih SAC 12/26/2007 SAC vs. BOS L 38 6 3 10 30.0 0 1 0.0 0 0 - 1 4 5 5 1 0 3 3 -18
+p554
+aVMetta World Peace SAC 12/23/2007 SAC vs. DEN L 44 24 10 16 62.5 2 7 28.6 2 5 40.0 1 8 9 8 4 1 4 4 6
+p555
+aVMikki Moore SAC 12/23/2007 SAC vs. DEN L 28 11 3 8 37.5 0 0 - 5 6 83.3 2 3 5 2 1 3 1 3 1
+p556
+aVDahntay Jones SAC 12/23/2007 SAC vs. DEN L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p557
+aVBrad Miller SAC 12/23/2007 SAC vs. DEN L 38 22 8 14 57.1 1 2 50.0 5 9 55.6 2 6 8 4 3 1 4 4 -4
+p558
+aVFrancisco Garcia SAC 12/23/2007 SAC vs. DEN L 28 12 4 14 28.6 3 6 50.0 1 2 50.0 1 6 7 1 2 0 0 2 -3
+p559
+aVSpencer Hawes SAC 12/23/2007 SAC vs. DEN L 10 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 1 1 0 0 1 3
+p560
+aVJohn Salmons SAC 12/23/2007 SAC vs. DEN L 39 14 5 17 29.4 1 3 33.3 3 3 100.0 0 6 6 3 1 1 0 3 -14
+p561
+aVBeno Udrih SAC 12/23/2007 SAC vs. DEN L 38 12 6 12 50.0 0 1 0.0 0 2 0.0 1 4 5 2 0 0 3 4 5
+p562
+aVQuincy Douby SAC 12/23/2007 SAC vs. DEN L 10 6 2 4 50.0 1 2 50.0 1 2 50.0 2 1 3 2 0 0 1 3 2
+p563
+aVMikki Moore SAC 12/19/2007 SAC @ MIL W 34 12 5 10 50.0 0 0 - 2 4 50.0 1 3 4 1 1 0 0 2 7
+p564
+aVDahntay Jones SAC 12/19/2007 SAC @ MIL W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -5
+p565
+aVBeno Udrih SAC 12/19/2007 SAC @ MIL W 37 24 9 13 69.2 6 7 85.7 0 0 - 0 2 2 3 2 0 2 1 16
+p566
+aVBrad Miller SAC 12/19/2007 SAC @ MIL W 36 11 4 10 40.0 0 0 - 3 4 75.0 3 6 9 6 1 0 5 4 11
+p567
+aVKenny Thomas SAC 12/19/2007 SAC @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p568
+aVMetta World Peace SAC 12/19/2007 SAC @ MIL W 42 26 8 12 66.7 2 4 50.0 8 8 100.0 1 3 4 8 3 2 2 2 13
+p569
+aVSpencer Hawes SAC 12/19/2007 SAC @ MIL W 5 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 1 0 0 1 2
+p570
+aVQuincy Douby SAC 12/19/2007 SAC @ MIL W 10 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -7
+p571
+aVJohn Salmons SAC 12/19/2007 SAC @ MIL W 39 17 6 14 42.9 1 2 50.0 4 5 80.0 2 3 5 4 2 0 0 2 18
+p572
+aVFrancisco Garcia SAC 12/19/2007 SAC @ MIL W 26 7 3 13 23.1 0 5 0.0 1 2 50.0 1 3 4 1 1 0 1 3 14
+p573
+aVDahntay Jones SAC 12/18/2007 SAC @ NJN W 15 4 1 4 25.0 0 0 - 2 4 50.0 1 5 6 1 1 1 0 3 2
+p574
+aVMetta World Peace SAC 12/18/2007 SAC @ NJN W 39 20 6 15 40.0 4 5 80.0 4 4 100.0 1 3 4 3 1 2 3 0 -2
+p575
+aVBrad Miller SAC 12/18/2007 SAC @ NJN W 39 23 7 13 53.8 2 3 66.7 7 8 87.5 0 10 10 2 1 0 2 3 3
+p576
+aVMikki Moore SAC 12/18/2007 SAC @ NJN W 32 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 2 1 2 4 12
+p577
+aVQuincy Douby SAC 12/18/2007 SAC @ NJN W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 1 1 0 -2
+p578
+aVJohn Salmons SAC 12/18/2007 SAC @ NJN W 43 31 13 18 72.2 2 3 66.7 3 5 60.0 2 2 4 7 3 0 2 5 12
+p579
+aVKenny Thomas SAC 12/18/2007 SAC @ NJN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p580
+aVBeno Udrih SAC 12/18/2007 SAC @ NJN W 29 0 0 8 0.0 0 2 0.0 0 0 - 1 0 1 8 0 0 1 2 -3
+p581
+aVSpencer Hawes SAC 12/18/2007 SAC @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p582
+aVFrancisco Garcia SAC 12/18/2007 SAC @ NJN W 26 24 6 12 50.0 5 8 62.5 7 7 100.0 0 0 0 0 0 0 3 3 8
+p583
+aVQuincy Douby SAC 12/15/2007 SAC @ WAS L 8 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p584
+aVMetta World Peace SAC 12/15/2007 SAC @ WAS L 32 10 4 10 40.0 1 2 50.0 1 2 50.0 0 3 3 1 0 0 4 3 -14
+p585
+aVBrad Miller SAC 12/15/2007 SAC @ WAS L 36 21 9 14 64.3 1 3 33.3 2 4 50.0 1 8 9 3 0 3 3 3 -10
+p586
+aVJohn Salmons SAC 12/15/2007 SAC @ WAS L 32 10 3 6 50.0 0 1 0.0 4 6 66.7 0 7 7 1 1 0 3 2 -17
+p587
+aVKenny Thomas SAC 12/15/2007 SAC @ WAS L 13 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -5
+p588
+aVJustin Williams SAC 12/15/2007 SAC @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p589
+aVMikki Moore SAC 12/15/2007 SAC @ WAS L 35 6 2 6 33.3 0 0 - 2 4 50.0 4 6 10 3 1 2 1 3 -12
+p590
+aVDahntay Jones SAC 12/15/2007 SAC @ WAS L 17 9 3 6 50.0 0 1 0.0 3 5 60.0 0 1 1 1 0 0 0 1 0
+p591
+aVBeno Udrih SAC 12/15/2007 SAC @ WAS L 34 12 4 12 33.3 2 5 40.0 2 2 100.0 0 4 4 10 1 0 2 2 -14
+p592
+aVSpencer Hawes SAC 12/15/2007 SAC @ WAS L 8 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 3 2 4
+p593
+aVFrancisco Garcia SAC 12/15/2007 SAC @ WAS L 23 11 4 9 44.4 3 6 50.0 0 0 - 1 2 3 1 0 0 3 2 -1
+p594
+aVSpencer Hawes SAC 12/14/2007 SAC @ PHI W 10 4 2 7 28.6 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -5
+p595
+aVQuincy Douby SAC 12/14/2007 SAC @ PHI W 6 3 1 2 50.0 1 1 100.0 0 0 - 2 0 2 1 0 1 1 2 -3
+p596
+aVFrancisco Garcia SAC 12/14/2007 SAC @ PHI W 18 8 4 8 50.0 0 1 0.0 0 0 - 1 1 2 2 2 0 0 2 -8
+p597
+aVMikki Moore SAC 12/14/2007 SAC @ PHI W 38 24 10 11 90.9 0 0 - 4 4 100.0 3 2 5 1 0 0 1 3 14
+p598
+aVDahntay Jones SAC 12/14/2007 SAC @ PHI W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 1 1 -4
+p599
+aVKenny Thomas SAC 12/14/2007 SAC @ PHI W 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -1
+p600
+aVMetta World Peace SAC 12/14/2007 SAC @ PHI W 40 9 3 7 42.9 1 3 33.3 2 4 50.0 1 7 8 4 3 0 4 5 20
+p601
+aVBrad Miller SAC 12/14/2007 SAC @ PHI W 38 25 9 12 75.0 1 2 50.0 6 6 100.0 2 8 10 6 1 0 2 2 9
+p602
+aVBeno Udrih SAC 12/14/2007 SAC @ PHI W 36 15 5 15 33.3 1 4 25.0 4 4 100.0 1 3 4 6 0 0 4 1 17
+p603
+aVJohn Salmons SAC 12/14/2007 SAC @ PHI W 40 19 8 16 50.0 1 1 100.0 2 3 66.7 1 2 3 5 1 0 5 1 11
+p604
+aVJohn Salmons SAC 12/12/2007 SAC @ BOS L 38 10 3 8 37.5 1 2 50.0 3 3 100.0 1 2 3 1 2 2 2 2 -22
+p605
+aVBeno Udrih SAC 12/12/2007 SAC @ BOS L 37 16 6 12 50.0 2 4 50.0 2 2 100.0 0 4 4 3 0 0 3 1 -7
+p606
+aVBrad Miller SAC 12/12/2007 SAC @ BOS L 36 14 7 12 58.3 0 2 0.0 0 0 - 3 4 7 3 0 0 3 5 -5
+p607
+aVMikki Moore SAC 12/12/2007 SAC @ BOS L 21 6 3 4 75.0 0 0 - 0 0 - 2 6 8 0 0 0 1 4 -2
+p608
+aVKenny Thomas SAC 12/12/2007 SAC @ BOS L 25 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 2 0 3 4 -4
+p609
+aVFrancisco Garcia SAC 12/12/2007 SAC @ BOS L 21 10 3 10 30.0 2 3 66.7 2 3 66.7 3 1 4 2 0 0 3 3 3
+p610
+aVQuincy Douby SAC 12/12/2007 SAC @ BOS L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -8
+p611
+aVSpencer Hawes SAC 12/12/2007 SAC @ BOS L 10 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 1 0 -7
+p612
+aVMetta World Peace SAC 12/12/2007 SAC @ BOS L 41 16 7 19 36.8 0 5 0.0 2 2 100.0 0 3 3 4 1 2 4 5 -8
+p613
+aVFrancisco Garcia SAC 12/10/2007 SAC vs. MIL W 32 15 5 7 71.4 2 3 66.7 3 3 100.0 0 4 4 3 3 1 3 3 6
+p614
+aVKenny Thomas SAC 12/10/2007 SAC vs. MIL W 11 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 6
+p615
+aVMetta World Peace SAC 12/10/2007 SAC vs. MIL W 39 11 5 16 31.3 0 3 0.0 1 2 50.0 3 4 7 5 1 4 3 2 -5
+p616
+aVMikki Moore SAC 12/10/2007 SAC vs. MIL W 25 5 1 4 25.0 0 1 0.0 3 6 50.0 2 3 5 1 3 1 1 3 -6
+p617
+aVBrad Miller SAC 12/10/2007 SAC vs. MIL W 36 17 7 10 70.0 0 1 0.0 3 4 75.0 1 9 10 1 1 0 1 2 0
+p618
+aVJohn Salmons SAC 12/10/2007 SAC vs. MIL W 38 22 9 14 64.3 3 3 100.0 1 2 50.0 1 2 3 5 1 2 2 1 8
+p619
+aVSpencer Hawes SAC 12/10/2007 SAC vs. MIL W 15 7 2 5 40.0 0 1 0.0 3 6 50.0 3 2 5 1 0 0 0 2 4
+p620
+aVQuincy Douby SAC 12/10/2007 SAC vs. MIL W 13 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 1 1 0 0 1 6
+p621
+aVBeno Udrih SAC 12/10/2007 SAC vs. MIL W 31 14 5 12 41.7 2 2 100.0 2 2 100.0 1 5 6 3 0 0 3 2 -4
+p622
+aVFrancisco Garcia SAC 12/08/2007 SAC @ DEN L 32 21 7 16 43.8 1 5 20.0 6 6 100.0 0 3 3 1 5 1 3 4 -7
+p623
+aVBeno Udrih SAC 12/08/2007 SAC @ DEN L 41 24 11 23 47.8 2 4 50.0 0 0 - 0 4 4 7 3 0 4 4 8
+p624
+aVSpencer Hawes SAC 12/08/2007 SAC @ DEN L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p625
+aVBrad Miller SAC 12/08/2007 SAC @ DEN L 27 7 3 7 42.9 0 0 - 1 2 50.0 1 2 3 2 2 1 3 6 -7
+p626
+aVMetta World Peace SAC 12/08/2007 SAC @ DEN L 42 10 5 18 27.8 0 5 0.0 0 0 - 1 1 2 11 5 0 3 2 4
+p627
+aVKenny Thomas SAC 12/08/2007 SAC @ DEN L 14 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -5
+p628
+aVJohn Salmons SAC 12/08/2007 SAC @ DEN L 36 25 9 14 64.3 2 3 66.7 5 5 100.0 1 5 6 3 4 0 7 2 3
+p629
+aVQuincy Douby SAC 12/08/2007 SAC @ DEN L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -12
+p630
+aVMikki Moore SAC 12/08/2007 SAC @ DEN L 34 10 5 9 55.6 0 0 - 0 0 - 4 9 13 1 0 0 1 3 2
+p631
+aVQuincy Douby SAC 12/07/2007 SAC vs. LAC L 14 7 2 4 50.0 1 1 100.0 2 2 100.0 1 0 1 0 0 0 2 2 2
+p632
+aVSpencer Hawes SAC 12/07/2007 SAC vs. LAC L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 1
+p633
+aVMikki Moore SAC 12/07/2007 SAC vs. LAC L 25 13 5 10 50.0 0 0 - 3 6 50.0 7 1 8 1 0 1 1 5 -3
+p634
+aVJohn Salmons SAC 12/07/2007 SAC vs. LAC L 41 10 4 13 30.8 1 2 50.0 1 1 100.0 1 9 10 5 1 0 3 4 -11
+p635
+aVBrad Miller SAC 12/07/2007 SAC vs. LAC L 36 11 4 10 40.0 1 3 33.3 2 2 100.0 0 7 7 5 1 0 1 6 -10
+p636
+aVJustin Williams SAC 12/07/2007 SAC vs. LAC L 1 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 0
+p637
+aVMetta World Peace SAC 12/07/2007 SAC vs. LAC L 41 21 8 22 36.4 1 5 20.0 4 6 66.7 1 2 3 2 0 2 2 5 -10
+p638
+aVDarryl Watkins SAC 12/07/2007 SAC vs. LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p639
+aVFrancisco Garcia SAC 12/07/2007 SAC vs. LAC L 30 9 1 4 25.0 1 1 100.0 6 7 85.7 2 2 4 1 2 1 1 1 -4
+p640
+aVKenny Thomas SAC 12/07/2007 SAC vs. LAC L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 3 3 1
+p641
+aVBeno Udrih SAC 12/07/2007 SAC vs. LAC L 35 13 5 13 38.5 1 2 50.0 2 3 66.7 1 2 3 3 2 0 2 1 -15
+p642
+aVKenny Thomas SAC 12/04/2007 SAC vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 1
+p643
+aVMikki Moore SAC 12/04/2007 SAC vs. UTA W 28 11 4 8 50.0 0 0 - 3 4 75.0 1 6 7 0 1 0 1 3 -1
+p644
+aVJohn Salmons SAC 12/04/2007 SAC vs. UTA W 27 21 6 9 66.7 0 0 - 9 11 81.8 1 5 6 2 1 0 0 1 12
+p645
+aVKevin Martin SAC 12/04/2007 SAC vs. UTA W 31 25 8 14 57.1 0 0 - 9 13 69.2 0 3 3 1 1 0 1 3 -8
+p646
+aVQuincy Douby SAC 12/04/2007 SAC vs. UTA W 8 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 1 0 1 11
+p647
+aVSpencer Hawes SAC 12/04/2007 SAC vs. UTA W 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p648
+aVBeno Udrih SAC 12/04/2007 SAC vs. UTA W 33 10 4 10 40.0 1 1 100.0 1 2 50.0 1 1 2 3 4 0 2 5 3
+p649
+aVMetta World Peace SAC 12/04/2007 SAC vs. UTA W 45 23 8 17 47.1 1 3 33.3 6 8 75.0 1 7 8 5 1 1 4 6 9
+p650
+aVFrancisco Garcia SAC 12/04/2007 SAC vs. UTA W 19 10 4 6 66.7 2 3 66.7 0 0 - 0 1 1 0 0 1 2 3 19
+p651
+aVBrad Miller SAC 12/04/2007 SAC vs. UTA W 38 13 4 9 44.4 1 2 50.0 4 5 80.0 5 6 11 4 0 2 2 3 7
+p652
+aVMetta World Peace SAC 12/01/2007 SAC vs. HOU W 43 26 9 20 45.0 1 6 16.7 7 9 77.8 1 5 6 3 4 1 1 2 13
+p653
+aVMikki Moore SAC 12/01/2007 SAC vs. HOU W 25 4 2 7 28.6 0 0 - 0 0 - 2 0 2 0 0 0 0 4 -1
+p654
+aVQuincy Douby SAC 12/01/2007 SAC vs. HOU W 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p655
+aVBeno Udrih SAC 12/01/2007 SAC vs. HOU W 34 15 6 7 85.7 0 0 - 3 4 75.0 0 5 5 5 1 0 2 2 12
+p656
+aVSpencer Hawes SAC 12/01/2007 SAC vs. HOU W 14 2 1 6 16.7 0 0 - 0 0 - 5 5 10 0 0 2 0 1 4
+p657
+aVBrad Miller SAC 12/01/2007 SAC vs. HOU W 34 12 4 9 44.4 0 0 - 4 6 66.7 2 5 7 2 1 0 0 4 4
+p658
+aVFrancisco Garcia SAC 12/01/2007 SAC vs. HOU W 17 7 3 8 37.5 0 2 0.0 1 1 100.0 0 2 2 0 0 1 1 0 -7
+p659
+aVKevin Martin SAC 12/01/2007 SAC vs. HOU W 38 26 8 20 40.0 3 6 50.0 7 8 87.5 1 3 4 2 2 0 1 1 18
+p660
+aVJohn Salmons SAC 12/01/2007 SAC vs. HOU W 29 13 5 7 71.4 0 0 - 3 3 100.0 0 4 4 4 1 0 0 3 4
+p661
+aVJohn Salmons SAC 11/28/2007 SAC vs. GSW L 25 4 0 3 0.0 0 1 0.0 4 4 100.0 2 1 3 1 2 1 2 2 3
+p662
+aVMetta World Peace SAC 11/28/2007 SAC vs. GSW L 33 21 7 24 29.2 2 5 40.0 5 9 55.6 5 4 9 2 3 0 5 4 -8
+p663
+aVMikki Moore SAC 11/28/2007 SAC vs. GSW L 37 10 4 5 80.0 0 0 - 2 3 66.7 3 5 8 2 0 1 3 6 -7
+p664
+aVFrancisco Garcia SAC 11/28/2007 SAC vs. GSW L 18 7 3 8 37.5 1 2 50.0 0 0 - 0 4 4 0 2 0 1 3 -1
+p665
+aVKevin Martin SAC 11/28/2007 SAC vs. GSW L 42 28 8 18 44.4 2 6 33.3 10 10 100.0 0 7 7 2 0 0 3 2 0
+p666
+aVBeno Udrih SAC 11/28/2007 SAC vs. GSW L 41 16 7 19 36.8 0 2 0.0 2 2 100.0 3 2 5 1 0 0 3 4 -9
+p667
+aVQuincy Douby SAC 11/28/2007 SAC vs. GSW L 1 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -2
+p668
+aVBrad Miller SAC 11/28/2007 SAC vs. GSW L 40 10 1 9 11.1 0 1 0.0 8 8 100.0 5 13 18 2 1 3 2 1 -10
+p669
+aVSpencer Hawes SAC 11/28/2007 SAC vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p670
+aVDarryl Watkins SAC 11/26/2007 SAC vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p671
+aVMikki Moore SAC 11/26/2007 SAC vs. SAS W 30 17 8 9 88.9 0 0 - 1 1 100.0 1 3 4 0 0 2 2 4 15
+p672
+aVSpencer Hawes SAC 11/26/2007 SAC vs. SAS W 11 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 0 0 1 2 1 -4
+p673
+aVMetta World Peace SAC 11/26/2007 SAC vs. SAS W 38 20 8 14 57.1 1 2 50.0 3 4 75.0 1 5 6 4 2 1 1 3 17
+p674
+aVJustin Williams SAC 11/26/2007 SAC vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p675
+aVJohn Salmons SAC 11/26/2007 SAC vs. SAS W 27 12 4 9 44.4 1 1 100.0 3 3 100.0 1 5 6 0 2 1 0 4 8
+p676
+aVKevin Martin SAC 11/26/2007 SAC vs. SAS W 33 10 4 12 33.3 0 2 0.0 2 3 66.7 0 7 7 1 2 0 2 3 13
+p677
+aVBrad Miller SAC 11/26/2007 SAC vs. SAS W 34 17 7 12 58.3 0 1 0.0 3 3 100.0 2 8 10 7 2 2 0 2 14
+p678
+aVBeno Udrih SAC 11/26/2007 SAC vs. SAS W 45 27 8 12 66.7 2 2 100.0 9 9 100.0 1 3 4 5 1 1 3 1 10
+p679
+aVFrancisco Garcia SAC 11/26/2007 SAC vs. SAS W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -2
+p680
+aVQuincy Douby SAC 11/26/2007 SAC vs. SAS W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p681
+aVSpencer Hawes SAC 11/23/2007 SAC @ POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p682
+aVMetta World Peace SAC 11/23/2007 SAC @ POR L 37 17 6 13 46.2 2 4 50.0 3 5 60.0 1 10 11 5 2 0 1 3 -2
+p683
+aVJohn Salmons SAC 11/23/2007 SAC @ POR L 21 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 1 1 1 -12
+p684
+aVBeno Udrih SAC 11/23/2007 SAC @ POR L 34 11 5 13 38.5 1 5 20.0 0 0 - 0 4 4 6 0 0 4 1 -4
+p685
+aVKevin Martin SAC 11/23/2007 SAC @ POR L 38 21 7 14 50.0 3 5 60.0 4 5 80.0 0 7 7 2 1 0 4 5 -2
+p686
+aVKenny Thomas SAC 11/23/2007 SAC @ POR L 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 2 1 2
+p687
+aVBrad Miller SAC 11/23/2007 SAC @ POR L 41 6 3 8 37.5 0 2 0.0 0 0 - 2 3 5 3 1 1 4 4 -3
+p688
+aVFrancisco Garcia SAC 11/23/2007 SAC @ POR L 22 17 6 11 54.5 1 3 33.3 4 6 66.7 1 1 2 0 1 0 2 4 7
+p689
+aVQuincy Douby SAC 11/23/2007 SAC @ POR L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p690
+aVMikki Moore SAC 11/23/2007 SAC @ POR L 23 8 3 7 42.9 0 0 - 2 2 100.0 0 0 0 0 1 0 0 4 2
+p691
+aVKenny Thomas SAC 11/21/2007 SAC @ PHX L 16 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -13
+p692
+aVDarryl Watkins SAC 11/21/2007 SAC @ PHX L 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 1 0 2 12
+p693
+aVMikki Moore SAC 11/21/2007 SAC @ PHX L 24 6 3 6 50.0 0 0 - 0 0 - 1 7 8 1 0 0 1 3 -12
+p694
+aVKevin Martin SAC 11/21/2007 SAC @ PHX L 31 19 5 16 31.3 2 5 40.0 7 7 100.0 0 4 4 3 0 0 0 2 -28
+p695
+aVSpencer Hawes SAC 11/21/2007 SAC @ PHX L 20 12 5 10 50.0 0 2 0.0 2 2 100.0 3 3 6 0 0 0 4 1 -3
+p696
+aVFrancisco Garcia SAC 11/21/2007 SAC @ PHX L 35 31 13 25 52.0 1 4 25.0 4 6 66.7 2 4 6 5 1 1 1 1 -25
+p697
+aVJohn Salmons SAC 11/21/2007 SAC @ PHX L 41 21 7 17 41.2 0 2 0.0 7 15 46.7 3 7 10 1 0 0 3 5 -3
+p698
+aVQuincy Douby SAC 11/21/2007 SAC @ PHX L 27 6 2 8 25.0 0 4 0.0 2 2 100.0 0 1 1 1 1 0 2 2 -2
+p699
+aVJustin Williams SAC 11/21/2007 SAC @ PHX L 15 6 3 4 75.0 0 0 - 0 2 0.0 4 6 10 0 0 1 0 0 -1
+p700
+aVBrad Miller SAC 11/21/2007 SAC @ PHX L 20 8 4 4 100.0 0 0 - 0 0 - 4 1 5 0 0 1 2 3 -5
+p701
+aVMikki Moore SAC 11/20/2007 SAC vs. PHX L 24 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 1 0 0 2 6 -6
+p702
+aVSpencer Hawes SAC 11/20/2007 SAC vs. PHX L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -2
+p703
+aVMetta World Peace SAC 11/20/2007 SAC vs. PHX L 41 33 12 23 52.2 3 5 60.0 6 9 66.7 3 9 12 2 2 0 6 1 -2
+p704
+aVFrancisco Garcia SAC 11/20/2007 SAC vs. PHX L 29 14 4 7 57.1 2 3 66.7 4 7 57.1 0 3 3 2 1 0 3 3 7
+p705
+aVKevin Martin SAC 11/20/2007 SAC vs. PHX L 42 15 5 15 33.3 1 6 16.7 4 4 100.0 1 5 6 1 2 0 1 3 -2
+p706
+aVKenny Thomas SAC 11/20/2007 SAC vs. PHX L 9 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 1 0 12
+p707
+aVQuincy Douby SAC 11/20/2007 SAC vs. PHX L 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p708
+aVBrad Miller SAC 11/20/2007 SAC vs. PHX L 27 6 3 6 50.0 0 0 - 0 0 - 0 3 3 4 0 0 0 6 -9
+p709
+aVJohn Salmons SAC 11/20/2007 SAC vs. PHX L 33 9 3 7 42.9 0 3 0.0 3 4 75.0 1 7 8 2 1 0 3 2 6
+p710
+aVBeno Udrih SAC 11/20/2007 SAC vs. PHX L 23 8 2 10 20.0 0 1 0.0 4 4 100.0 0 1 1 4 1 0 0 1 -14
+p711
+aVBrad Miller SAC 11/18/2007 SAC vs. DET W 38 15 3 11 27.3 0 0 - 9 11 81.8 2 7 9 4 0 0 2 5 21
+p712
+aVMikki Moore SAC 11/18/2007 SAC vs. DET W 28 10 5 8 62.5 0 0 - 0 0 - 3 6 9 1 1 1 1 4 5
+p713
+aVJustin Williams SAC 11/18/2007 SAC vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p714
+aVKevin Martin SAC 11/18/2007 SAC vs. DET W 43 19 6 17 35.3 1 6 16.7 6 8 75.0 0 8 8 4 1 0 0 1 8
+p715
+aVFrancisco Garcia SAC 11/18/2007 SAC vs. DET W 21 10 4 9 44.4 2 4 50.0 0 1 0.0 0 4 4 1 0 0 1 3 7
+p716
+aVMetta World Peace SAC 11/18/2007 SAC vs. DET W 37 16 5 11 45.5 2 5 40.0 4 6 66.7 1 2 3 5 2 1 1 5 12
+p717
+aVBeno Udrih SAC 11/18/2007 SAC vs. DET W 39 23 9 13 69.2 0 1 0.0 5 5 100.0 1 3 4 6 0 1 1 2 13
+p718
+aVJohn Salmons SAC 11/18/2007 SAC vs. DET W 19 6 2 4 50.0 0 0 - 2 3 66.7 0 0 0 1 0 0 2 1 -5
+p719
+aVSpencer Hawes SAC 11/18/2007 SAC vs. DET W 14 6 1 1 100.0 0 0 - 4 4 100.0 0 2 2 0 1 0 0 1 -9
+p720
+aVMikki Moore SAC 11/16/2007 SAC vs. NYK W 22 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 1 0 6 3
+p721
+aVKevin Martin SAC 11/16/2007 SAC vs. NYK W 49 43 11 21 52.4 5 7 71.4 16 19 84.2 2 8 10 2 0 0 3 4 12
+p722
+aVJustin Williams SAC 11/16/2007 SAC vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p723
+aVBrad Miller SAC 11/16/2007 SAC vs. NYK W 39 12 4 9 44.4 0 1 0.0 4 4 100.0 3 8 11 3 1 2 4 6 10
+p724
+aVBeno Udrih SAC 11/16/2007 SAC vs. NYK W 44 10 5 12 41.7 0 2 0.0 0 0 - 0 1 1 5 1 0 2 3 10
+p725
+aVQuincy Douby SAC 11/16/2007 SAC vs. NYK W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 4
+p726
+aVFrancisco Garcia SAC 11/16/2007 SAC vs. NYK W 21 4 1 6 16.7 0 2 0.0 2 2 100.0 2 1 3 1 1 0 2 4 -15
+p727
+aVJohn Salmons SAC 11/16/2007 SAC vs. NYK W 40 16 5 11 45.5 0 1 0.0 6 8 75.0 1 6 7 4 0 1 4 5 -2
+p728
+aVMetta World Peace SAC 11/16/2007 SAC vs. NYK W 53 28 11 16 68.8 2 3 66.7 4 11 36.4 2 6 8 2 2 1 3 3 3
+p729
+aVSpencer Hawes SAC 11/16/2007 SAC vs. NYK W 15 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 1 1 1 0 0 0
+p730
+aVFrancisco Garcia SAC 11/14/2007 SAC @ MIN L 15 8 4 9 44.4 0 2 0.0 0 0 - 0 1 1 2 0 0 0 2 -10
+p731
+aVMetta World Peace SAC 11/14/2007 SAC @ MIN L 37 17 7 13 53.8 3 4 75.0 0 0 - 0 3 3 6 3 1 5 3 -5
+p732
+aVSpencer Hawes SAC 11/14/2007 SAC @ MIN L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 0 0 0 2 0 -1
+p733
+aVMikki Moore SAC 11/14/2007 SAC @ MIN L 28 9 4 5 80.0 0 0 - 1 1 100.0 1 2 3 0 1 0 0 4 -4
+p734
+aVBeno Udrih SAC 11/14/2007 SAC @ MIN L 39 17 6 11 54.5 3 5 60.0 2 2 100.0 1 3 4 5 3 0 1 1 0
+p735
+aVBrad Miller SAC 11/14/2007 SAC @ MIN L 39 17 5 11 45.5 1 3 33.3 6 6 100.0 1 7 8 3 1 1 4 3 -4
+p736
+aVKevin Martin SAC 11/14/2007 SAC @ MIN L 36 22 7 17 41.2 3 8 37.5 5 5 100.0 0 2 2 6 0 0 3 3 1
+p737
+aVQuincy Douby SAC 11/14/2007 SAC @ MIN L 7 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 1
+p738
+aVJohn Salmons SAC 11/14/2007 SAC @ MIN L 27 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 4 0 0 1 1 -3
+p739
+aVFrancisco Garcia SAC 11/12/2007 SAC @ UTA L 37 19 7 14 50.0 0 4 0.0 5 5 100.0 2 3 5 2 1 0 1 3 -4
+p740
+aVQuincy Douby SAC 11/12/2007 SAC @ UTA L 14 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 1 0 3 3 -16
+p741
+aVKenny Thomas SAC 11/12/2007 SAC @ UTA L 25 0 0 2 0.0 0 0 - 0 2 0.0 1 4 5 4 0 0 1 3 -6
+p742
+aVSpencer Hawes SAC 11/12/2007 SAC @ UTA L 12 8 4 7 57.1 0 1 0.0 0 0 - 1 2 3 0 0 0 0 3 -9
+p743
+aVBeno Udrih SAC 11/12/2007 SAC @ UTA L 29 11 4 12 33.3 1 4 25.0 2 3 66.7 0 1 1 2 1 0 5 0 -23
+p744
+aVOrien Greene SAC 11/12/2007 SAC @ UTA L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p745
+aVDarryl Watkins SAC 11/12/2007 SAC @ UTA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p746
+aVKevin Martin SAC 11/12/2007 SAC @ UTA L 38 21 7 12 58.3 4 6 66.7 3 4 75.0 0 2 2 0 1 1 4 3 -14
+p747
+aVJohn Salmons SAC 11/12/2007 SAC @ UTA L 35 22 8 16 50.0 3 3 100.0 3 4 75.0 2 0 2 4 1 0 1 5 -15
+p748
+aVShareef Abdur-Rahim SAC 11/12/2007 SAC @ UTA L 7 0 0 3 0.0 0 0 - 0 0 - 2 0 2 2 0 0 0 1 -1
+p749
+aVMikki Moore SAC 11/12/2007 SAC @ UTA L 35 5 2 6 33.3 0 0 - 1 1 100.0 2 7 9 1 0 0 2 5 -28
+p750
+aVBrad Miller SAC 11/10/2007 SAC vs. MIN W 39 12 3 12 25.0 0 0 - 6 6 100.0 7 9 16 3 0 3 3 5 5
+p751
+aVMikki Moore SAC 11/10/2007 SAC vs. MIN W 19 5 1 4 25.0 0 0 - 3 3 100.0 1 2 3 0 0 0 2 2 1
+p752
+aVSpencer Hawes SAC 11/10/2007 SAC vs. MIN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 6
+p753
+aVQuincy Douby SAC 11/10/2007 SAC vs. MIN W 15 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 0 0 0 1 1 -1
+p754
+aVJohn Salmons SAC 11/10/2007 SAC vs. MIN W 32 19 6 13 46.2 1 2 50.0 6 6 100.0 0 2 2 2 3 0 2 2 4
+p755
+aVShareef Abdur-Rahim SAC 11/10/2007 SAC vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p756
+aVBeno Udrih SAC 11/10/2007 SAC vs. MIN W 26 9 3 9 33.3 0 3 0.0 3 4 75.0 1 4 5 2 1 0 1 3 4
+p757
+aVKevin Martin SAC 11/10/2007 SAC vs. MIN W 40 29 7 17 41.2 3 6 50.0 12 17 70.6 1 0 1 3 2 0 2 1 5
+p758
+aVOrien Greene SAC 11/10/2007 SAC vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p759
+aVKenny Thomas SAC 11/10/2007 SAC vs. MIN W 30 6 3 4 75.0 0 0 - 0 0 - 3 4 7 1 2 0 0 4 4
+p760
+aVFrancisco Garcia SAC 11/10/2007 SAC vs. MIN W 28 10 3 9 33.3 0 1 0.0 4 4 100.0 1 2 3 1 1 0 4 3 9
+p761
+aVKenny Thomas SAC 11/09/2007 SAC vs. CLE L 17 2 1 3 33.3 0 0 - 0 0 - 2 5 7 1 1 0 1 2 -7
+p762
+aVJohn Salmons SAC 11/09/2007 SAC vs. CLE L 41 18 5 13 38.5 1 2 50.0 7 7 100.0 0 2 2 1 2 0 1 3 -1
+p763
+aVMikki Moore SAC 11/09/2007 SAC vs. CLE L 23 3 1 2 50.0 0 0 - 1 1 100.0 0 4 4 1 0 1 1 3 -1
+p764
+aVDarryl Watkins SAC 11/09/2007 SAC vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p765
+aVOrien Greene SAC 11/09/2007 SAC vs. CLE L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p766
+aVKevin Martin SAC 11/09/2007 SAC vs. CLE L 46 32 7 17 41.2 1 5 20.0 17 18 94.4 1 5 6 1 1 0 3 3 1
+p767
+aVBrad Miller SAC 11/09/2007 SAC vs. CLE L 40 6 2 9 22.2 0 2 0.0 2 2 100.0 2 8 10 3 0 3 4 2 4
+p768
+aVFrancisco Garcia SAC 11/09/2007 SAC vs. CLE L 35 18 7 14 50.0 0 3 0.0 4 5 80.0 2 4 6 0 2 0 3 5 -6
+p769
+aVQuincy Douby SAC 11/09/2007 SAC vs. CLE L 28 10 4 10 40.0 0 0 - 2 2 100.0 0 6 6 0 1 0 2 1 2
+p770
+aVDarryl Watkins SAC 11/06/2007 SAC vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p771
+aVBrad Miller SAC 11/06/2007 SAC vs. SEA W 37 16 5 11 45.5 0 0 - 6 6 100.0 4 7 11 2 1 1 0 3 32
+p772
+aVJohn Salmons SAC 11/06/2007 SAC vs. SEA W 43 23 7 15 46.7 1 3 33.3 8 9 88.9 2 3 5 2 2 0 3 1 18
+p773
+aVShareef Abdur-Rahim SAC 11/06/2007 SAC vs. SEA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p774
+aVFrancisco Garcia SAC 11/06/2007 SAC vs. SEA W 32 9 2 9 22.2 1 2 50.0 4 6 66.7 1 3 4 4 1 2 3 3 4
+p775
+aVKevin Martin SAC 11/06/2007 SAC vs. SEA W 42 31 11 21 52.4 1 6 16.7 8 11 72.7 2 5 7 5 5 0 3 3 6
+p776
+aVMikki Moore SAC 11/06/2007 SAC vs. SEA W 30 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 1 1 4 3 -5
+p777
+aVOrien Greene SAC 11/06/2007 SAC vs. SEA W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 1 -7
+p778
+aVKenny Thomas SAC 11/06/2007 SAC vs. SEA W 18 8 4 6 66.7 0 0 - 0 1 0.0 3 2 5 0 0 0 2 4 -10
+p779
+aVQuincy Douby SAC 11/06/2007 SAC vs. SEA W 27 13 4 10 40.0 2 5 40.0 3 4 75.0 0 3 3 2 3 0 1 0 9
+p780
+aVQuincy Douby SAC 11/03/2007 SAC @ DAL L 13 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -4
+p781
+aVFrancisco Garcia SAC 11/03/2007 SAC @ DAL L 41 23 8 10 80.0 2 3 66.7 5 5 100.0 0 1 1 6 3 0 1 3 -12
+p782
+aVJohn Salmons SAC 11/03/2007 SAC @ DAL L 40 27 10 18 55.6 0 1 0.0 7 7 100.0 3 2 5 4 1 0 4 1 -17
+p783
+aVKenny Thomas SAC 11/03/2007 SAC @ DAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p784
+aVOrien Greene SAC 11/03/2007 SAC @ DAL L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -8
+p785
+aVDarryl Watkins SAC 11/03/2007 SAC @ DAL L 25 6 2 6 33.3 0 0 - 2 5 40.0 3 2 5 0 1 0 4 3 -6
+p786
+aVShareef Abdur-Rahim SAC 11/03/2007 SAC @ DAL L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 1 4
+p787
+aVMikki Moore SAC 11/03/2007 SAC @ DAL L 28 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 0 0 2 4 -15
+p788
+aVBrad Miller SAC 11/03/2007 SAC @ DAL L 28 6 3 7 42.9 0 0 - 0 0 - 3 1 4 1 0 0 1 5 -24
+p789
+aVKevin Martin SAC 11/03/2007 SAC @ DAL L 41 28 6 14 42.9 1 2 50.0 15 15 100.0 0 6 6 0 2 0 1 1 -22
+p790
+aVKevin Martin SAC 11/02/2007 SAC @ SAS L 39 22 7 17 41.2 1 3 33.3 7 8 87.5 0 1 1 1 3 0 1 0 -19
+p791
+aVMikki Moore SAC 11/02/2007 SAC @ SAS L 24 7 1 3 33.3 0 0 - 5 6 83.3 0 3 3 1 1 0 1 2 4
+p792
+aVOrien Greene SAC 11/02/2007 SAC @ SAS L 16 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 3 -9
+p793
+aVJohn Salmons SAC 11/02/2007 SAC @ SAS L 29 14 5 10 50.0 0 0 - 4 4 100.0 2 7 9 6 0 2 4 4 -6
+p794
+aVQuincy Douby SAC 11/02/2007 SAC @ SAS L 35 8 4 13 30.8 0 5 0.0 0 0 - 0 3 3 2 1 0 3 0 2
+p795
+aVFrancisco Garcia SAC 11/02/2007 SAC @ SAS L 27 10 4 10 40.0 1 3 33.3 1 3 33.3 1 5 6 2 2 1 0 3 -17
+p796
+aVShareef Abdur-Rahim SAC 11/02/2007 SAC @ SAS L 13 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 0 0 0 0 1 1
+p797
+aVBrad Miller SAC 11/02/2007 SAC @ SAS L 30 13 6 12 50.0 0 1 0.0 1 3 33.3 0 4 4 1 0 1 1 2 -15
+p798
+aVKenny Thomas SAC 11/02/2007 SAC @ SAS L 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 2 0 -11
+p799
+aVDarryl Watkins SAC 11/02/2007 SAC @ SAS L 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -10
+p800
+aVKevin Martin SAC 10/31/2007 SAC @ NOH L 40 26 7 17 41.2 2 4 50.0 10 12 83.3 0 3 3 2 0 1 2 1 -23
+p801
+aVKenny Thomas SAC 10/31/2007 SAC @ NOH L 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -12
+p802
+aVShareef Abdur-Rahim SAC 10/31/2007 SAC @ NOH L 19 2 0 4 0.0 0 0 - 2 2 100.0 2 2 4 2 1 0 0 5 7
+p803
+aVBrad Miller SAC 10/31/2007 SAC @ NOH L 32 12 6 13 46.2 0 1 0.0 0 0 - 1 4 5 2 0 2 1 4 -25
+p804
+aVQuincy Douby SAC 10/31/2007 SAC @ NOH L 10 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -10
+p805
+aVOrien Greene SAC 10/31/2007 SAC @ NOH L 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 4 7
+p806
+aVJohn Salmons SAC 10/31/2007 SAC @ NOH L 45 22 10 19 52.6 0 0 - 2 3 66.7 1 1 2 9 3 0 3 2 -15
+p807
+aVMikki Moore SAC 10/31/2007 SAC @ NOH L 21 3 1 4 25.0 0 1 0.0 1 1 100.0 2 2 4 1 0 0 0 4 1
+p808
+aVDarryl Watkins SAC 10/31/2007 SAC @ NOH L 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 1 1
+p809
+aVFrancisco Garcia SAC 10/31/2007 SAC @ NOH L 33 17 8 15 53.3 1 3 33.3 0 0 - 1 5 6 3 0 0 3 2 -1
+p810
+a.

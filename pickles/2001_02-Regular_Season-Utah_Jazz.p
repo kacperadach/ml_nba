@@ -1,0 +1,1772 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKarl Malone UTA 04/17/2002 UTA vs. SAS L 41 15 3 13 23.1 0 0 - 9 10 90.0 0 8 8 4 3 2 1 3 -3
+p2
+aVQuincy Lewis UTA 04/17/2002 UTA vs. SAS L 11 10 5 6 83.3 0 0 - 0 0 - 0 3 3 1 0 0 0 1 7
+p3
+aVGreg Ostertag UTA 04/17/2002 UTA vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p4
+aVDonyell Marshall UTA 04/17/2002 UTA vs. SAS L 19 6 3 7 42.9 0 0 - 0 0 - 1 4 5 0 0 3 0 4 2
+p5
+aVDeShawn Stevenson UTA 04/17/2002 UTA vs. SAS L 7 0 0 5 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -3
+p6
+aVBryon Russell UTA 04/17/2002 UTA vs. SAS L 33 9 4 15 26.7 1 5 20.0 0 0 - 3 6 9 1 2 1 2 4 -8
+p7
+aVJohn Amaechi UTA 04/17/2002 UTA vs. SAS L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p8
+aVAndrei Kirilenko UTA 04/17/2002 UTA vs. SAS L 30 7 2 8 25.0 0 1 0.0 3 6 50.0 6 3 9 0 1 5 1 0 2
+p9
+aVJohn Starks UTA 04/17/2002 UTA vs. SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p10
+aVJarron Collins UTA 04/17/2002 UTA vs. SAS L 21 6 3 5 60.0 0 0 - 0 1 0.0 0 1 1 0 0 1 1 3 2
+p11
+aVScott Padgett UTA 04/17/2002 UTA vs. SAS L 26 8 4 6 66.7 0 1 0.0 0 0 - 1 7 8 2 0 0 2 0 2
+p12
+aVJohn Stockton UTA 04/17/2002 UTA vs. SAS L 41 23 6 15 40.0 1 1 100.0 10 11 90.9 0 2 2 10 2 0 2 3 1
+p13
+aVDonyell Marshall UTA 04/16/2002 UTA @ DAL L 22 6 3 8 37.5 0 0 - 0 0 - 3 7 10 1 0 1 1 3 -11
+p14
+aVKarl Malone UTA 04/16/2002 UTA @ DAL L 39 24 10 19 52.6 0 0 - 4 4 100.0 2 5 7 3 1 0 7 4 -7
+p15
+aVBryon Russell UTA 04/16/2002 UTA @ DAL L 24 7 3 11 27.3 1 4 25.0 0 0 - 0 4 4 2 1 1 1 5 -2
+p16
+aVAndrei Kirilenko UTA 04/16/2002 UTA @ DAL L 38 18 6 11 54.5 0 2 0.0 6 6 100.0 2 2 4 2 2 6 3 2 -2
+p17
+aVQuincy Lewis UTA 04/16/2002 UTA @ DAL L 14 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 2 1 2 2 -2
+p18
+aVJarron Collins UTA 04/16/2002 UTA @ DAL L 18 1 0 3 0.0 0 0 - 1 2 50.0 3 3 6 1 0 0 1 2 -3
+p19
+aVJohn Stockton UTA 04/16/2002 UTA @ DAL L 38 7 3 10 30.0 0 0 - 1 1 100.0 0 2 2 9 3 1 4 4 2
+p20
+aVDeShawn Stevenson UTA 04/16/2002 UTA @ DAL L 10 3 1 6 16.7 0 0 - 1 2 50.0 1 1 2 0 0 0 2 3 -11
+p21
+aVGreg Ostertag UTA 04/16/2002 UTA @ DAL L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p22
+aVScott Padgett UTA 04/16/2002 UTA @ DAL L 24 15 6 8 75.0 1 2 50.0 2 2 100.0 1 4 5 1 0 1 0 4 -3
+p23
+aVJohn Starks UTA 04/16/2002 UTA @ DAL L 4 2 0 2 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 1 0 -5
+p24
+aVJohn Starks UTA 04/13/2002 UTA @ GSW W 18 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 2 0 0 3 1 2
+p25
+aVJohn Amaechi UTA 04/13/2002 UTA @ GSW W 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -7
+p26
+aVDeShawn Stevenson UTA 04/13/2002 UTA @ GSW W 16 6 2 6 33.3 0 0 - 2 4 50.0 0 2 2 2 0 1 1 2 -5
+p27
+aVDonyell Marshall UTA 04/13/2002 UTA @ GSW W 27 18 5 14 35.7 0 0 - 8 9 88.9 4 4 8 3 4 4 2 4 6
+p28
+aVKarl Malone UTA 04/13/2002 UTA @ GSW W 33 12 4 14 28.6 0 0 - 4 7 57.1 1 7 8 2 1 0 2 1 5
+p29
+aVScott Padgett UTA 04/13/2002 UTA @ GSW W 28 15 4 5 80.0 1 1 100.0 6 7 85.7 5 6 11 1 0 0 1 1 6
+p30
+aVJohn Stockton UTA 04/13/2002 UTA @ GSW W 32 26 7 11 63.6 0 0 - 12 12 100.0 1 1 2 9 4 0 0 1 13
+p31
+aVJarron Collins UTA 04/13/2002 UTA @ GSW W 19 10 4 13 30.8 0 0 - 2 3 66.7 2 4 6 0 1 1 0 2 5
+p32
+aVBryon Russell UTA 04/13/2002 UTA @ GSW W 30 10 4 10 40.0 2 2 100.0 0 0 - 1 1 2 2 1 0 1 1 6
+p33
+aVAndrei Kirilenko UTA 04/13/2002 UTA @ GSW W 20 6 2 5 40.0 0 1 0.0 2 2 100.0 4 2 6 0 0 1 0 1 2
+p34
+aVGreg Ostertag UTA 04/13/2002 UTA @ GSW W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p35
+aVKarl Malone UTA 04/11/2002 UTA @ PHX W 35 26 12 27 44.4 0 1 0.0 2 2 100.0 2 5 7 5 1 0 1 4 -3
+p36
+aVDonyell Marshall UTA 04/11/2002 UTA @ PHX W 27 20 8 12 66.7 0 0 - 4 4 100.0 2 7 9 2 1 0 1 2 4
+p37
+aVAndrei Kirilenko UTA 04/11/2002 UTA @ PHX W 20 7 3 9 33.3 0 1 0.0 1 2 50.0 1 0 1 0 3 0 0 0 -1
+p38
+aVJohn Stockton UTA 04/11/2002 UTA @ PHX W 37 18 8 8 100.0 0 0 - 2 3 66.7 2 1 3 11 3 0 1 2 11
+p39
+aVBryon Russell UTA 04/11/2002 UTA @ PHX W 18 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 2 1 1 3 3 -3
+p40
+aVJarron Collins UTA 04/11/2002 UTA @ PHX W 16 4 2 4 50.0 0 0 - 0 0 - 1 4 5 2 0 0 0 2 -2
+p41
+aVScott Padgett UTA 04/11/2002 UTA @ PHX W 28 4 2 8 25.0 0 1 0.0 0 0 - 4 3 7 3 1 0 1 3 2
+p42
+aVJohn Amaechi UTA 04/11/2002 UTA @ PHX W 18 9 4 8 50.0 0 0 - 1 3 33.3 2 1 3 0 0 0 0 3 3
+p43
+aVJohn Starks UTA 04/11/2002 UTA @ PHX W 17 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p44
+aVDeShawn Stevenson UTA 04/11/2002 UTA @ PHX W 12 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 3
+p45
+aVJohn Crotty UTA 04/11/2002 UTA @ PHX W 11 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 3 1 0 1 1 -10
+p46
+aVJohn Starks UTA 04/09/2002 UTA @ LAL L 8 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p47
+aVDeShawn Stevenson UTA 04/09/2002 UTA @ LAL L 19 6 3 13 23.1 0 1 0.0 0 0 - 3 1 4 0 1 0 0 1 -27
+p48
+aVJohn Amaechi UTA 04/09/2002 UTA @ LAL L 14 1 0 3 0.0 0 0 - 1 4 25.0 0 0 0 1 0 0 1 0 -5
+p49
+aVRusty LaRue UTA 04/09/2002 UTA @ LAL L 14 3 1 4 25.0 0 1 0.0 1 1 100.0 1 2 3 1 0 0 3 1 -27
+p50
+aVKarl Malone UTA 04/09/2002 UTA @ LAL L 31 12 3 13 23.1 0 0 - 6 6 100.0 0 6 6 2 1 0 2 4 -21
+p51
+aVJohn Stockton UTA 04/09/2002 UTA @ LAL L 26 14 5 9 55.6 0 0 - 4 5 80.0 0 0 0 6 4 0 3 3 -1
+p52
+aVAndrei Kirilenko UTA 04/09/2002 UTA @ LAL L 32 16 2 7 28.6 0 0 - 12 14 85.7 3 2 5 1 2 2 0 1 -11
+p53
+aVScott Padgett UTA 04/09/2002 UTA @ LAL L 15 5 2 6 33.3 0 1 0.0 1 2 50.0 2 2 4 1 1 0 1 1 -17
+p54
+aVBryon Russell UTA 04/09/2002 UTA @ LAL L 28 9 3 8 37.5 3 5 60.0 0 0 - 1 1 2 0 1 0 2 3 -4
+p55
+aVJarron Collins UTA 04/09/2002 UTA @ LAL L 15 6 3 4 75.0 0 0 - 0 0 - 2 3 5 1 0 0 0 4 11
+p56
+aVDonyell Marshall UTA 04/09/2002 UTA @ LAL L 25 8 3 10 30.0 0 0 - 2 4 50.0 2 5 7 2 0 0 1 2 -33
+p57
+aVGreg Ostertag UTA 04/09/2002 UTA @ LAL L 13 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 0 3 -13
+p58
+aVDeShawn Stevenson UTA 04/08/2002 UTA vs. DAL L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 0 2 2 2 -4
+p59
+aVJarron Collins UTA 04/08/2002 UTA vs. DAL L 15 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 0 0 2 2 -3
+p60
+aVKarl Malone UTA 04/08/2002 UTA vs. DAL L 37 22 7 17 41.2 0 0 - 8 9 88.9 4 4 8 3 3 1 5 2 0
+p61
+aVJohn Stockton UTA 04/08/2002 UTA vs. DAL L 31 17 7 11 63.6 1 2 50.0 2 2 100.0 0 5 5 8 0 1 1 1 -2
+p62
+aVGreg Ostertag UTA 04/08/2002 UTA vs. DAL L 3 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 0 -1
+p63
+aVBryon Russell UTA 04/08/2002 UTA vs. DAL L 40 14 5 13 38.5 2 5 40.0 2 2 100.0 1 5 6 1 1 1 0 4 -6
+p64
+aVDonyell Marshall UTA 04/08/2002 UTA vs. DAL L 28 11 3 7 42.9 1 2 50.0 4 4 100.0 3 7 10 1 1 0 3 2 -7
+p65
+aVJohn Amaechi UTA 04/08/2002 UTA vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -2
+p66
+aVRusty LaRue UTA 04/08/2002 UTA vs. DAL L 14 4 1 5 20.0 1 3 33.3 1 1 100.0 0 0 0 0 0 0 2 1 0
+p67
+aVAndrei Kirilenko UTA 04/08/2002 UTA vs. DAL L 38 14 4 12 33.3 0 1 0.0 6 9 66.7 2 3 5 2 1 2 1 2 -9
+p68
+aVScott Padgett UTA 04/08/2002 UTA vs. DAL L 11 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 1 0 1 0 0 -11
+p69
+aVRusty LaRue UTA 04/05/2002 UTA vs. SAC L 25 11 5 10 50.0 1 4 25.0 0 0 - 2 2 4 1 0 1 2 0 2
+p70
+aVJohn Stockton UTA 04/05/2002 UTA vs. SAC L 36 20 7 13 53.8 0 0 - 6 7 85.7 2 0 2 10 1 0 5 1 0
+p71
+aVDonyell Marshall UTA 04/05/2002 UTA vs. SAC L 38 32 13 22 59.1 0 1 0.0 6 8 75.0 5 8 13 1 0 2 4 3 -9
+p72
+aVJohn Starks UTA 04/05/2002 UTA vs. SAC L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p73
+aVScott Padgett UTA 04/05/2002 UTA vs. SAC L 11 5 2 5 40.0 0 1 0.0 1 2 50.0 2 0 2 3 0 0 0 4 6
+p74
+aVDeShawn Stevenson UTA 04/05/2002 UTA vs. SAC L 19 8 3 8 37.5 0 0 - 2 4 50.0 1 2 3 0 0 1 1 3 -4
+p75
+aVAndrei Kirilenko UTA 04/05/2002 UTA vs. SAC L 37 13 4 11 36.4 1 3 33.3 4 4 100.0 3 5 8 3 0 2 2 3 -4
+p76
+aVGreg Ostertag UTA 04/05/2002 UTA vs. SAC L 17 0 0 2 0.0 0 0 - 0 2 0.0 3 5 8 1 1 3 1 2 -6
+p77
+aVBryon Russell UTA 04/05/2002 UTA vs. SAC L 39 20 8 13 61.5 4 8 50.0 0 0 - 1 3 4 4 1 0 2 3 -4
+p78
+aVJarron Collins UTA 04/05/2002 UTA vs. SAC L 14 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 -13
+p79
+aVKarl Malone UTA 04/03/2002 UTA vs. LAC W 41 24 7 11 63.6 0 0 - 10 13 76.9 0 8 8 7 1 1 8 5 17
+p80
+aVBryon Russell UTA 04/03/2002 UTA vs. LAC W 35 13 4 7 57.1 4 4 100.0 1 4 25.0 1 4 5 2 1 0 2 3 18
+p81
+aVJohn Amaechi UTA 04/03/2002 UTA vs. LAC W 7 7 2 4 50.0 0 0 - 3 3 100.0 0 0 0 0 0 0 1 0 -6
+p82
+aVJarron Collins UTA 04/03/2002 UTA vs. LAC W 19 9 4 6 66.7 0 0 - 1 1 100.0 1 4 5 0 0 0 1 5 7
+p83
+aVDonyell Marshall UTA 04/03/2002 UTA vs. LAC W 21 7 3 8 37.5 0 0 - 1 1 100.0 0 6 6 3 1 0 1 1 -10
+p84
+aVJohn Stockton UTA 04/03/2002 UTA vs. LAC W 32 11 5 7 71.4 0 0 - 1 3 33.3 1 5 6 9 2 1 3 4 13
+p85
+aVGreg Ostertag UTA 04/03/2002 UTA vs. LAC W 17 1 0 0 - 0 0 - 1 2 50.0 1 5 6 0 0 3 0 4 17
+p86
+aVRusty LaRue UTA 04/03/2002 UTA vs. LAC W 11 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 1 -11
+p87
+aVScott Padgett UTA 04/03/2002 UTA vs. LAC W 10 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 3 2 -13
+p88
+aVAndrei Kirilenko UTA 04/03/2002 UTA vs. LAC W 29 17 6 11 54.5 0 1 0.0 5 5 100.0 0 5 5 4 1 2 1 3 24
+p89
+aVDeShawn Stevenson UTA 04/03/2002 UTA vs. LAC W 18 6 3 5 60.0 0 0 - 0 0 - 0 2 2 2 0 0 2 2 4
+p90
+aVRusty LaRue UTA 04/02/2002 UTA @ DEN L 14 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 2 0 0 1 3 -2
+p91
+aVGreg Ostertag UTA 04/02/2002 UTA @ DEN L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 2 1 4 4
+p92
+aVKarl Malone UTA 04/02/2002 UTA @ DEN L 37 15 4 8 50.0 0 0 - 7 8 87.5 2 9 11 6 1 0 4 2 -10
+p93
+aVJohn Stockton UTA 04/02/2002 UTA @ DEN L 34 19 6 6 100.0 1 1 100.0 6 6 100.0 0 2 2 11 1 0 8 3 -6
+p94
+aVBryon Russell UTA 04/02/2002 UTA @ DEN L 22 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 0 2 0 5 5 -8
+p95
+aVJarron Collins UTA 04/02/2002 UTA @ DEN L 12 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 3 -6
+p96
+aVDeShawn Stevenson UTA 04/02/2002 UTA @ DEN L 24 9 4 7 57.1 0 1 0.0 1 2 50.0 1 2 3 4 0 0 2 1 -1
+p97
+aVDonyell Marshall UTA 04/02/2002 UTA @ DEN L 21 10 5 12 41.7 0 2 0.0 0 2 0.0 2 2 4 2 1 1 1 2 -8
+p98
+aVAndrei Kirilenko UTA 04/02/2002 UTA @ DEN L 37 13 6 13 46.2 0 0 - 1 1 100.0 1 4 5 1 1 3 2 2 -1
+p99
+aVScott Padgett UTA 04/02/2002 UTA @ DEN L 21 10 5 7 71.4 0 0 - 0 0 - 1 2 3 1 0 0 3 2 3
+p100
+aVJohn Amaechi UTA 04/02/2002 UTA @ DEN L 9 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -6
+p101
+aVJohn Starks UTA 04/02/2002 UTA @ DEN L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 1
+p102
+aVGreg Ostertag UTA 03/30/2002 UTA @ LAC W 28 10 4 4 100.0 0 0 - 2 3 66.7 1 8 9 0 0 3 2 3 15
+p103
+aVScott Padgett UTA 03/30/2002 UTA @ LAC W 24 13 5 9 55.6 1 2 50.0 2 2 100.0 1 1 2 0 0 0 2 0 10
+p104
+aVDeShawn Stevenson UTA 03/30/2002 UTA @ LAC W 13 8 4 7 57.1 0 0 - 0 0 - 2 2 4 3 1 0 1 0 -4
+p105
+aVJohn Stockton UTA 03/30/2002 UTA @ LAC W 37 16 7 10 70.0 0 0 - 2 2 100.0 2 2 4 14 3 1 4 5 17
+p106
+aVRusty LaRue UTA 03/30/2002 UTA @ LAC W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p107
+aVAndrei Kirilenko UTA 03/30/2002 UTA @ LAC W 28 13 3 7 42.9 0 0 - 7 7 100.0 3 0 3 2 4 0 0 4 10
+p108
+aVBryon Russell UTA 03/30/2002 UTA @ LAC W 44 19 7 15 46.7 2 4 50.0 3 3 100.0 1 1 2 1 1 1 0 3 13
+p109
+aVJarron Collins UTA 03/30/2002 UTA @ LAC W 21 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 3 -4
+p110
+aVKarl Malone UTA 03/30/2002 UTA @ LAC W 39 16 7 16 43.8 0 0 - 2 2 100.0 0 6 6 6 2 0 3 3 11
+p111
+aVAndrei Kirilenko UTA 03/28/2002 UTA vs. CLE W 30 17 7 14 50.0 1 1 100.0 2 2 100.0 2 4 6 0 4 3 0 2 23
+p112
+aVRusty LaRue UTA 03/28/2002 UTA vs. CLE W 17 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 1 0 1 2 -8
+p113
+aVDeShawn Stevenson UTA 03/28/2002 UTA vs. CLE W 29 12 6 14 42.9 0 0 - 0 0 - 1 2 3 8 2 0 1 5 1
+p114
+aVJohn Stockton UTA 03/28/2002 UTA vs. CLE W 23 13 5 10 50.0 0 0 - 3 3 100.0 1 4 5 12 2 0 0 1 18
+p115
+aVJarron Collins UTA 03/28/2002 UTA vs. CLE W 13 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 1 0 1 4 16
+p116
+aVScott Padgett UTA 03/28/2002 UTA vs. CLE W 28 17 6 12 50.0 0 1 0.0 5 6 83.3 4 2 6 1 1 0 0 4 -2
+p117
+aVJohn Starks UTA 03/28/2002 UTA vs. CLE W 12 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 1 0 0 0 1 -1
+p118
+aVJohn Amaechi UTA 03/28/2002 UTA vs. CLE W 8 3 0 1 0.0 0 0 - 3 4 75.0 1 0 1 0 0 0 1 2 -2
+p119
+aVKarl Malone UTA 03/28/2002 UTA vs. CLE W 26 16 7 9 77.8 0 0 - 2 3 66.7 0 5 5 5 2 0 2 2 27
+p120
+aVGreg Ostertag UTA 03/28/2002 UTA vs. CLE W 19 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 2 0 3 2 1 6
+p121
+aVBryon Russell UTA 03/28/2002 UTA vs. CLE W 35 12 4 9 44.4 2 3 66.7 2 3 66.7 0 3 3 4 2 1 2 3 27
+p122
+aVBryon Russell UTA 03/26/2002 UTA vs. HOU W 36 11 4 12 33.3 1 4 25.0 2 2 100.0 5 3 8 1 0 0 2 3 -12
+p123
+aVGreg Ostertag UTA 03/26/2002 UTA vs. HOU W 17 12 4 4 100.0 0 0 - 4 6 66.7 2 2 4 0 0 0 0 3 12
+p124
+aVScott Padgett UTA 03/26/2002 UTA vs. HOU W 28 9 4 7 57.1 0 0 - 1 1 100.0 3 8 11 3 1 0 0 2 16
+p125
+aVDeShawn Stevenson UTA 03/26/2002 UTA vs. HOU W 28 14 6 13 46.2 0 0 - 2 2 100.0 3 1 4 4 1 0 2 2 22
+p126
+aVAndrei Kirilenko UTA 03/26/2002 UTA vs. HOU W 28 12 5 9 55.6 0 1 0.0 2 6 33.3 5 1 6 1 1 0 0 0 -5
+p127
+aVJohn Amaechi UTA 03/26/2002 UTA vs. HOU W 10 2 1 3 33.3 0 0 - 0 3 0.0 0 1 1 2 0 0 1 2 1
+p128
+aVJarron Collins UTA 03/26/2002 UTA vs. HOU W 8 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 2 -11
+p129
+aVJohn Stockton UTA 03/26/2002 UTA vs. HOU W 28 20 7 11 63.6 0 0 - 6 7 85.7 1 3 4 6 0 0 2 5 -12
+p130
+aVRusty LaRue UTA 03/26/2002 UTA vs. HOU W 14 4 1 4 25.0 0 1 0.0 2 2 100.0 1 2 3 3 0 0 1 0 19
+p131
+aVKarl Malone UTA 03/26/2002 UTA vs. HOU W 36 23 9 18 50.0 0 2 0.0 5 6 83.3 3 4 7 4 1 1 4 4 -11
+p132
+aVJohn Starks UTA 03/26/2002 UTA vs. HOU W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 1
+p133
+aVRusty LaRue UTA 03/25/2002 UTA @ SEA L 21 8 3 9 33.3 2 4 50.0 0 0 - 1 0 1 1 1 0 1 3 -19
+p134
+aVDonyell Marshall UTA 03/25/2002 UTA @ SEA L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 3
+p135
+aVBryon Russell UTA 03/25/2002 UTA @ SEA L 40 16 5 11 45.5 2 3 66.7 4 4 100.0 2 4 6 1 0 1 0 1 -8
+p136
+aVDeShawn Stevenson UTA 03/25/2002 UTA @ SEA L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p137
+aVGreg Ostertag UTA 03/25/2002 UTA @ SEA L 4 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -7
+p138
+aVJohn Starks UTA 03/25/2002 UTA @ SEA L 12 1 0 4 0.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 3 3 -8
+p139
+aVKarl Malone UTA 03/25/2002 UTA @ SEA L 38 24 10 21 47.6 0 0 - 4 6 66.7 3 2 5 1 6 0 5 3 -8
+p140
+aVJohn Amaechi UTA 03/25/2002 UTA @ SEA L 4 4 1 1 100.0 0 0 - 2 4 50.0 3 0 3 1 0 0 0 0 1
+p141
+aVScott Padgett UTA 03/25/2002 UTA @ SEA L 15 0 0 1 0.0 0 0 - 0 0 - 3 3 6 1 0 0 1 4 -14
+p142
+aVAndrei Kirilenko UTA 03/25/2002 UTA @ SEA L 31 10 3 10 30.0 0 2 0.0 4 4 100.0 2 5 7 0 0 1 1 1 -9
+p143
+aVJohn Stockton UTA 03/25/2002 UTA @ SEA L 31 17 7 12 58.3 0 2 0.0 3 4 75.0 1 3 4 9 1 0 4 5 -1
+p144
+aVJarron Collins UTA 03/25/2002 UTA @ SEA L 29 9 2 5 40.0 0 0 - 5 6 83.3 4 6 10 2 2 1 2 4 3
+p145
+aVKarl Malone UTA 03/23/2002 UTA vs. GSW W 40 24 8 18 44.4 0 1 0.0 8 10 80.0 2 10 12 5 6 1 3 2 5
+p146
+aVDonyell Marshall UTA 03/23/2002 UTA vs. GSW W 37 25 12 18 66.7 1 1 100.0 0 0 - 3 6 9 1 0 1 1 5 2
+p147
+aVJarron Collins UTA 03/23/2002 UTA vs. GSW W 21 7 3 9 33.3 0 0 - 1 2 50.0 2 1 3 1 0 0 2 5 -5
+p148
+aVDeShawn Stevenson UTA 03/23/2002 UTA vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p149
+aVJohn Starks UTA 03/23/2002 UTA vs. GSW W 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 0 -1
+p150
+aVAndrei Kirilenko UTA 03/23/2002 UTA vs. GSW W 20 21 8 10 80.0 1 1 100.0 4 4 100.0 1 3 4 3 0 1 1 2 16
+p151
+aVBryon Russell UTA 03/23/2002 UTA vs. GSW W 32 5 2 3 66.7 1 1 100.0 0 0 - 0 5 5 2 0 0 1 2 11
+p152
+aVRusty LaRue UTA 03/23/2002 UTA vs. GSW W 14 3 1 6 16.7 0 1 0.0 1 1 100.0 0 0 0 3 1 0 0 2 0
+p153
+aVGreg Ostertag UTA 03/23/2002 UTA vs. GSW W 12 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 1 2 1 4
+p154
+aVScott Padgett UTA 03/23/2002 UTA vs. GSW W 17 12 5 7 71.4 1 1 100.0 1 3 33.3 1 3 4 3 1 1 1 2 5
+p155
+aVJohn Stockton UTA 03/23/2002 UTA vs. GSW W 34 13 4 8 50.0 0 1 0.0 5 7 71.4 0 2 2 15 2 2 3 5 9
+p156
+aVGreg Ostertag UTA 03/21/2002 UTA vs. WAS W 21 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 0 0 6 1 2 13
+p157
+aVDonyell Marshall UTA 03/21/2002 UTA vs. WAS W 23 1 0 3 0.0 0 0 - 1 2 50.0 2 7 9 2 1 0 2 3 4
+p158
+aVScott Padgett UTA 03/21/2002 UTA vs. WAS W 18 6 2 7 28.6 0 2 0.0 2 2 100.0 2 3 5 1 1 0 0 1 -1
+p159
+aVJohn Stockton UTA 03/21/2002 UTA vs. WAS W 31 19 6 14 42.9 0 1 0.0 7 11 63.6 1 4 5 7 1 1 1 1 5
+p160
+aVJohn Starks UTA 03/21/2002 UTA vs. WAS W 17 8 4 8 50.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 3 8
+p161
+aVAndrei Kirilenko UTA 03/21/2002 UTA vs. WAS W 26 9 4 6 66.7 0 0 - 1 2 50.0 1 2 3 0 1 3 0 0 9
+p162
+aVRusty LaRue UTA 03/21/2002 UTA vs. WAS W 9 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 3 1 1 2 0 -1
+p163
+aVJarron Collins UTA 03/21/2002 UTA vs. WAS W 19 6 3 6 50.0 0 0 - 0 0 - 6 2 8 2 4 0 0 4 -2
+p164
+aVKarl Malone UTA 03/21/2002 UTA vs. WAS W 35 23 7 14 50.0 2 2 100.0 7 10 70.0 0 8 8 4 0 1 0 2 13
+p165
+aVBryon Russell UTA 03/21/2002 UTA vs. WAS W 30 11 4 9 44.4 3 5 60.0 0 0 - 0 4 4 2 1 1 4 4 18
+p166
+aVDeShawn Stevenson UTA 03/21/2002 UTA vs. WAS W 12 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 2 2 0 2 4 9
+p167
+aVAndrei Kirilenko UTA 03/19/2002 UTA vs. DET L 31 12 3 8 37.5 0 2 0.0 6 6 100.0 1 4 5 2 5 0 1 4 -10
+p168
+aVKarl Malone UTA 03/19/2002 UTA vs. DET L 41 22 10 16 62.5 0 0 - 2 6 33.3 4 7 11 2 0 0 3 3 -14
+p169
+aVRusty LaRue UTA 03/19/2002 UTA vs. DET L 15 4 1 6 16.7 0 1 0.0 2 2 100.0 0 1 1 4 0 0 1 1 -11
+p170
+aVScott Padgett UTA 03/19/2002 UTA vs. DET L 8 3 1 6 16.7 0 1 0.0 1 2 50.0 2 2 4 0 0 0 0 4 6
+p171
+aVJohn Starks UTA 03/19/2002 UTA vs. DET L 22 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 2 2 -2
+p172
+aVDonyell Marshall UTA 03/19/2002 UTA vs. DET L 37 13 5 11 45.5 0 1 0.0 3 5 60.0 0 7 7 4 0 2 2 4 -3
+p173
+aVJohn Stockton UTA 03/19/2002 UTA vs. DET L 33 20 6 11 54.5 0 1 0.0 8 11 72.7 4 3 7 5 5 1 3 1 4
+p174
+aVBryon Russell UTA 03/19/2002 UTA vs. DET L 19 9 3 7 42.9 1 3 33.3 2 2 100.0 1 1 2 1 0 0 4 2 3
+p175
+aVJarron Collins UTA 03/19/2002 UTA vs. DET L 35 2 0 3 0.0 0 0 - 2 4 50.0 2 6 8 1 0 1 2 5 -8
+p176
+aVGreg Ostertag UTA 03/17/2002 UTA @ MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p177
+aVKarl Malone UTA 03/17/2002 UTA @ MIN W 42 27 9 15 60.0 0 0 - 9 11 81.8 1 11 12 3 1 3 4 3 11
+p178
+aVAndrei Kirilenko UTA 03/17/2002 UTA @ MIN W 26 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 4 2 2 5 1 1
+p179
+aVBryon Russell UTA 03/17/2002 UTA @ MIN W 31 5 2 7 28.6 1 2 50.0 0 0 - 2 4 6 3 0 0 2 5 7
+p180
+aVJohn Stockton UTA 03/17/2002 UTA @ MIN W 36 22 7 13 53.8 0 1 0.0 8 9 88.9 0 2 2 8 2 0 3 5 11
+p181
+aVJohn Starks UTA 03/17/2002 UTA @ MIN W 19 5 1 6 16.7 1 3 33.3 2 2 100.0 0 1 1 1 1 0 0 2 3
+p182
+aVDonyell Marshall UTA 03/17/2002 UTA @ MIN W 39 11 5 12 41.7 0 2 0.0 1 2 50.0 3 5 8 1 0 2 1 2 6
+p183
+aVRusty LaRue UTA 03/17/2002 UTA @ MIN W 12 8 3 6 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -4
+p184
+aVScott Padgett UTA 03/17/2002 UTA @ MIN W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p185
+aVJarron Collins UTA 03/17/2002 UTA @ MIN W 26 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 4 7
+p186
+aVAndrei Kirilenko UTA 03/15/2002 UTA @ DET W 44 27 11 15 73.3 0 1 0.0 5 7 71.4 4 5 9 1 1 2 1 2 6
+p187
+aVBryon Russell UTA 03/15/2002 UTA @ DET W 26 2 0 5 0.0 0 3 0.0 2 2 100.0 1 0 1 2 1 0 2 5 1
+p188
+aVJarron Collins UTA 03/15/2002 UTA @ DET W 43 16 8 16 50.0 0 0 - 0 0 - 6 3 9 4 1 0 2 1 6
+p189
+aVDonyell Marshall UTA 03/15/2002 UTA @ DET W 37 16 6 17 35.3 0 0 - 4 7 57.1 4 6 10 1 2 4 3 4 -2
+p190
+aVRusty LaRue UTA 03/15/2002 UTA @ DET W 14 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 3 0 0 3 3 -3
+p191
+aVJohn Starks UTA 03/15/2002 UTA @ DET W 26 15 6 8 75.0 3 4 75.0 0 0 - 0 0 0 2 0 0 1 5 8
+p192
+aVScott Padgett UTA 03/15/2002 UTA @ DET W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -6
+p193
+aVDeShawn Stevenson UTA 03/15/2002 UTA @ DET W 7 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p194
+aVJohn Stockton UTA 03/15/2002 UTA @ DET W 34 14 5 9 55.6 1 1 100.0 3 4 75.0 0 6 6 10 4 1 1 5 6
+p195
+aVDonyell Marshall UTA 03/14/2002 UTA @ CHH L 26 15 5 13 38.5 1 1 100.0 4 6 66.7 6 0 6 1 1 0 4 1 -13
+p196
+aVScott Padgett UTA 03/14/2002 UTA @ CHH L 23 3 1 6 16.7 1 2 50.0 0 0 - 2 5 7 0 0 0 5 3 3
+p197
+aVDeShawn Stevenson UTA 03/14/2002 UTA @ CHH L 26 9 3 9 33.3 0 0 - 3 4 75.0 1 4 5 5 1 0 3 1 4
+p198
+aVBryon Russell UTA 03/14/2002 UTA @ CHH L 24 6 2 11 18.2 1 2 50.0 1 2 50.0 1 4 5 1 0 0 3 0 -18
+p199
+aVJarron Collins UTA 03/14/2002 UTA @ CHH L 22 6 2 6 33.3 0 0 - 2 2 100.0 4 1 5 2 1 0 0 4 -8
+p200
+aVJohn Stockton UTA 03/14/2002 UTA @ CHH L 22 9 4 6 66.7 0 0 - 1 1 100.0 1 1 2 2 0 0 1 3 -13
+p201
+aVKarl Malone UTA 03/14/2002 UTA @ CHH L 25 3 1 11 9.1 0 0 - 1 1 100.0 3 4 7 0 0 1 1 1 -21
+p202
+aVAndrei Kirilenko UTA 03/14/2002 UTA @ CHH L 20 10 4 5 80.0 0 0 - 2 2 100.0 2 3 5 2 1 3 2 0 -9
+p203
+aVRusty LaRue UTA 03/14/2002 UTA @ CHH L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -9
+p204
+aVGreg Ostertag UTA 03/14/2002 UTA @ CHH L 18 5 1 3 33.3 0 0 - 3 4 75.0 2 2 4 1 0 1 0 2 -7
+p205
+aVJohn Amaechi UTA 03/14/2002 UTA @ CHH L 20 7 3 8 37.5 0 0 - 1 2 50.0 2 5 7 0 0 0 2 1 -1
+p206
+aVJohn Starks UTA 03/14/2002 UTA @ CHH L 11 9 3 4 75.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 0 2
+p207
+aVJarron Collins UTA 03/11/2002 UTA @ MEM L 26 7 1 4 25.0 0 0 - 5 6 83.3 1 3 4 3 0 0 2 3 -10
+p208
+aVGreg Ostertag UTA 03/11/2002 UTA @ MEM L 22 5 2 3 66.7 0 0 - 1 2 50.0 3 3 6 2 0 5 1 0 11
+p209
+aVBryon Russell UTA 03/11/2002 UTA @ MEM L 29 3 1 8 12.5 1 2 50.0 0 0 - 3 4 7 0 1 0 2 3 -9
+p210
+aVDeShawn Stevenson UTA 03/11/2002 UTA @ MEM L 9 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 1 0 9
+p211
+aVKarl Malone UTA 03/11/2002 UTA @ MEM L 40 14 4 15 26.7 0 0 - 6 6 100.0 1 5 6 4 3 0 2 4 -9
+p212
+aVAndrei Kirilenko UTA 03/11/2002 UTA @ MEM L 24 13 4 6 66.7 0 0 - 5 7 71.4 2 2 4 2 2 1 1 3 6
+p213
+aVRusty LaRue UTA 03/11/2002 UTA @ MEM L 18 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 2 1 0 2 0 -5
+p214
+aVScott Padgett UTA 03/11/2002 UTA @ MEM L 13 5 2 4 50.0 1 2 50.0 0 0 - 2 1 3 2 2 0 0 0 9
+p215
+aVJohn Stockton UTA 03/11/2002 UTA @ MEM L 30 9 4 12 33.3 0 1 0.0 1 1 100.0 1 4 5 6 0 0 3 1 4
+p216
+aVDonyell Marshall UTA 03/11/2002 UTA @ MEM L 29 16 7 13 53.8 1 2 50.0 1 4 25.0 4 5 9 1 1 2 3 4 -11
+p217
+aVJohn Stockton UTA 03/10/2002 UTA @ HOU L 33 12 5 12 41.7 0 0 - 2 2 100.0 1 1 2 13 1 1 1 1 9
+p218
+aVScott Padgett UTA 03/10/2002 UTA @ HOU L 15 6 3 8 37.5 0 1 0.0 0 0 - 2 3 5 0 0 0 0 3 -3
+p219
+aVBryon Russell UTA 03/10/2002 UTA @ HOU L 39 9 4 11 36.4 1 4 25.0 0 0 - 2 5 7 2 0 0 1 2 -2
+p220
+aVAndrei Kirilenko UTA 03/10/2002 UTA @ HOU L 28 6 2 5 40.0 0 0 - 2 2 100.0 2 5 7 4 2 0 2 1 -5
+p221
+aVKarl Malone UTA 03/10/2002 UTA @ HOU L 41 21 8 22 36.4 0 0 - 5 6 83.3 3 7 10 4 1 0 0 3 -4
+p222
+aVRusty LaRue UTA 03/10/2002 UTA @ HOU L 32 14 6 12 50.0 2 2 100.0 0 0 - 0 2 2 0 1 0 1 2 -1
+p223
+aVDonyell Marshall UTA 03/10/2002 UTA @ HOU L 33 18 8 19 42.1 1 2 50.0 1 2 50.0 4 11 15 2 1 1 1 1 8
+p224
+aVJarron Collins UTA 03/10/2002 UTA @ HOU L 20 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 1 0 0 0 4 -17
+p225
+aVRusty LaRue UTA 03/08/2002 UTA vs. NYK L 14 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 1 0 0 3 2 -15
+p226
+aVJohn Starks UTA 03/08/2002 UTA vs. NYK L 12 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -10
+p227
+aVKarl Malone UTA 03/08/2002 UTA vs. NYK L 42 25 11 29 37.9 0 1 0.0 3 4 75.0 5 6 11 5 1 0 3 2 -12
+p228
+aVDonyell Marshall UTA 03/08/2002 UTA vs. NYK L 28 6 3 11 27.3 0 0 - 0 0 - 4 6 10 0 1 1 3 3 -6
+p229
+aVAndrei Kirilenko UTA 03/08/2002 UTA vs. NYK L 26 8 4 8 50.0 0 0 - 0 2 0.0 1 0 1 1 0 1 1 6 -1
+p230
+aVJarron Collins UTA 03/08/2002 UTA vs. NYK L 28 7 2 3 66.7 0 0 - 3 4 75.0 4 1 5 0 0 1 2 1 11
+p231
+aVGreg Ostertag UTA 03/08/2002 UTA vs. NYK L 7 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -4
+p232
+aVScott Padgett UTA 03/08/2002 UTA vs. NYK L 14 5 1 6 16.7 1 4 25.0 2 2 100.0 0 4 4 0 0 0 2 1 -2
+p233
+aVBryon Russell UTA 03/08/2002 UTA vs. NYK L 35 21 8 12 66.7 3 5 60.0 2 2 100.0 2 7 9 0 3 0 6 5 2
+p234
+aVJohn Stockton UTA 03/08/2002 UTA vs. NYK L 34 4 1 7 14.3 0 1 0.0 2 4 50.0 0 3 3 15 2 0 1 2 7
+p235
+aVKarl Malone UTA 03/06/2002 UTA vs. LAL W 41 23 5 13 38.5 1 1 100.0 12 13 92.3 1 7 8 5 1 2 6 4 8
+p236
+aVRusty LaRue UTA 03/06/2002 UTA vs. LAL W 11 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 2 2 1 0 1 8
+p237
+aVJarron Collins UTA 03/06/2002 UTA vs. LAL W 25 10 5 7 71.4 0 0 - 0 0 - 1 2 3 0 0 0 1 3 9
+p238
+aVDonyell Marshall UTA 03/06/2002 UTA vs. LAL W 25 10 3 7 42.9 0 0 - 4 5 80.0 0 4 4 0 1 1 3 6 -3
+p239
+aVJohn Amaechi UTA 03/06/2002 UTA vs. LAL W 14 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 0 -5
+p240
+aVBryon Russell UTA 03/06/2002 UTA vs. LAL W 30 4 2 11 18.2 0 2 0.0 0 0 - 2 1 3 1 3 0 2 3 6
+p241
+aVJohn Stockton UTA 03/06/2002 UTA vs. LAL W 37 19 7 12 58.3 0 1 0.0 5 6 83.3 1 4 5 6 2 0 2 3 0
+p242
+aVAndrei Kirilenko UTA 03/06/2002 UTA vs. LAL W 36 11 2 6 33.3 0 1 0.0 7 8 87.5 3 2 5 1 1 4 1 1 13
+p243
+aVJohn Starks UTA 03/06/2002 UTA vs. LAL W 8 8 4 6 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 2 0
+p244
+aVGreg Ostertag UTA 03/06/2002 UTA vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p245
+aVScott Padgett UTA 03/06/2002 UTA vs. LAL W 10 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 2 1 0 0 1 8
+p246
+aVDeShawn Stevenson UTA 03/06/2002 UTA vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p247
+aVGreg Ostertag UTA 03/04/2002 UTA vs. DEN W 11 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 1 2 2 0 3
+p248
+aVJarron Collins UTA 03/04/2002 UTA vs. DEN W 18 9 3 6 50.0 0 0 - 3 4 75.0 1 2 3 1 0 0 1 4 4
+p249
+aVScott Padgett UTA 03/04/2002 UTA vs. DEN W 24 6 2 5 40.0 1 3 33.3 1 1 100.0 1 3 4 2 0 0 0 2 7
+p250
+aVRusty LaRue UTA 03/04/2002 UTA vs. DEN W 21 8 2 4 50.0 0 1 0.0 4 4 100.0 0 3 3 1 0 0 2 2 1
+p251
+aVBryon Russell UTA 03/04/2002 UTA vs. DEN W 25 4 2 6 33.3 0 2 0.0 0 2 0.0 0 2 2 3 2 1 1 1 9
+p252
+aVDonyell Marshall UTA 03/04/2002 UTA vs. DEN W 26 17 7 10 70.0 0 1 0.0 3 4 75.0 0 5 5 2 1 4 3 4 12
+p253
+aVKarl Malone UTA 03/04/2002 UTA vs. DEN W 40 21 6 10 60.0 0 0 - 9 10 90.0 1 4 5 7 5 2 2 3 23
+p254
+aVJohn Starks UTA 03/04/2002 UTA vs. DEN W 18 8 2 6 33.3 0 1 0.0 4 4 100.0 0 2 2 2 1 0 2 3 8
+p255
+aVJohn Stockton UTA 03/04/2002 UTA vs. DEN W 27 14 5 5 100.0 0 0 - 4 5 80.0 0 0 0 6 1 0 4 2 17
+p256
+aVDeShawn Stevenson UTA 03/04/2002 UTA vs. DEN W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 1
+p257
+aVJohn Amaechi UTA 03/04/2002 UTA vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -1
+p258
+aVAndrei Kirilenko UTA 03/04/2002 UTA vs. DEN W 22 13 3 6 50.0 0 1 0.0 7 10 70.0 0 1 1 0 2 2 1 2 6
+p259
+aVJarron Collins UTA 03/02/2002 UTA vs. MIN L 14 2 0 4 0.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 6 -7
+p260
+aVAndrei Kirilenko UTA 03/02/2002 UTA vs. MIN L 37 13 3 7 42.9 1 3 33.3 6 10 60.0 1 3 4 4 0 1 0 4 6
+p261
+aVRusty LaRue UTA 03/02/2002 UTA vs. MIN L 14 8 3 5 60.0 2 4 50.0 0 0 - 1 1 2 1 0 1 0 3 -11
+p262
+aVScott Padgett UTA 03/02/2002 UTA vs. MIN L 20 4 2 6 33.3 0 3 0.0 0 0 - 1 1 2 0 0 0 1 4 3
+p263
+aVJohn Starks UTA 03/02/2002 UTA vs. MIN L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -20
+p264
+aVBryon Russell UTA 03/02/2002 UTA vs. MIN L 44 25 7 17 41.2 2 7 28.6 9 10 90.0 0 3 3 3 1 1 2 3 -2
+p265
+aVJohn Stockton UTA 03/02/2002 UTA vs. MIN L 34 21 8 16 50.0 0 2 0.0 5 6 83.3 0 5 5 9 3 0 4 5 0
+p266
+aVKarl Malone UTA 03/02/2002 UTA vs. MIN L 42 25 8 16 50.0 0 0 - 9 12 75.0 3 9 12 6 1 0 3 5 -12
+p267
+aVDonyell Marshall UTA 03/02/2002 UTA vs. MIN L 17 7 2 5 40.0 1 1 100.0 2 4 50.0 4 0 4 2 1 0 0 1 -11
+p268
+aVGreg Ostertag UTA 03/02/2002 UTA vs. MIN L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 2 0 2 -1
+p269
+aVDonyell Marshall UTA 02/28/2002 UTA vs. MEM W 22 20 8 16 50.0 0 1 0.0 4 6 66.7 1 5 6 1 1 2 1 3 10
+p270
+aVJohn Starks UTA 02/28/2002 UTA vs. MEM W 14 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 0 11
+p271
+aVJohn Stockton UTA 02/28/2002 UTA vs. MEM W 18 5 1 4 25.0 1 1 100.0 2 3 66.7 0 1 1 2 3 1 1 2 14
+p272
+aVDeShawn Stevenson UTA 02/28/2002 UTA vs. MEM W 9 6 3 3 100.0 0 0 - 0 0 - 0 1 1 3 1 0 0 2 18
+p273
+aVGreg Ostertag UTA 02/28/2002 UTA vs. MEM W 18 4 1 2 50.0 0 0 - 2 4 50.0 4 6 10 2 1 0 2 4 25
+p274
+aVRusty LaRue UTA 02/28/2002 UTA vs. MEM W 30 12 5 8 62.5 1 4 25.0 1 1 100.0 0 1 1 12 1 1 0 4 30
+p275
+aVBryon Russell UTA 02/28/2002 UTA vs. MEM W 25 13 6 8 75.0 1 1 100.0 0 0 - 2 2 4 3 1 0 1 2 15
+p276
+aVScott Padgett UTA 02/28/2002 UTA vs. MEM W 23 13 6 9 66.7 1 1 100.0 0 0 - 1 4 5 3 2 0 2 3 22
+p277
+aVKarl Malone UTA 02/28/2002 UTA vs. MEM W 27 10 4 6 66.7 0 1 0.0 2 2 100.0 1 5 6 9 3 1 2 2 23
+p278
+aVJohn Amaechi UTA 02/28/2002 UTA vs. MEM W 8 10 4 5 80.0 0 0 - 2 3 66.7 0 1 1 1 0 0 0 0 17
+p279
+aVJarron Collins UTA 02/28/2002 UTA vs. MEM W 26 8 3 6 50.0 0 0 - 2 2 100.0 6 3 9 0 0 0 1 4 20
+p280
+aVAndrei Kirilenko UTA 02/28/2002 UTA vs. MEM W 19 7 2 6 33.3 0 0 - 3 4 75.0 0 1 1 1 1 6 0 3 15
+p281
+aVDonyell Marshall UTA 02/26/2002 UTA @ SAC L 18 7 3 5 60.0 0 1 0.0 1 2 50.0 0 1 1 1 0 1 3 2 -20
+p282
+aVJohn Stockton UTA 02/26/2002 UTA @ SAC L 24 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 6 3 0 4 3 0
+p283
+aVDeShawn Stevenson UTA 02/26/2002 UTA @ SAC L 14 2 0 5 0.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 1 2 -6
+p284
+aVJohn Amaechi UTA 02/26/2002 UTA @ SAC L 21 9 2 5 40.0 0 0 - 5 6 83.3 0 6 6 1 0 0 4 4 4
+p285
+aVJarron Collins UTA 02/26/2002 UTA @ SAC L 22 11 4 9 44.4 0 0 - 3 4 75.0 3 5 8 1 1 0 2 3 -14
+p286
+aVJohn Starks UTA 02/26/2002 UTA @ SAC L 18 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 2 1 0 1 5 -11
+p287
+aVBryon Russell UTA 02/26/2002 UTA @ SAC L 22 3 1 4 25.0 0 2 0.0 1 2 50.0 0 1 1 1 0 0 1 2 -11
+p288
+aVAndrei Kirilenko UTA 02/26/2002 UTA @ SAC L 18 6 2 2 100.0 0 0 - 2 2 100.0 0 4 4 0 1 2 2 3 -8
+p289
+aVKarl Malone UTA 02/26/2002 UTA @ SAC L 31 11 5 14 35.7 0 0 - 1 2 50.0 1 6 7 5 3 0 6 4 -26
+p290
+aVRusty LaRue UTA 02/26/2002 UTA @ SAC L 24 11 3 5 60.0 1 1 100.0 4 6 66.7 0 2 2 1 1 1 0 1 -26
+p291
+aVGreg Ostertag UTA 02/26/2002 UTA @ SAC L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -8
+p292
+aVScott Padgett UTA 02/26/2002 UTA @ SAC L 20 5 2 7 28.6 1 3 33.3 0 0 - 2 6 8 3 2 1 2 3 -4
+p293
+aVAndrei Kirilenko UTA 02/20/2002 UTA @ DEN W 32 21 7 14 50.0 1 2 50.0 6 8 75.0 2 2 4 3 0 6 1 1 15
+p294
+aVScott Padgett UTA 02/20/2002 UTA @ DEN W 27 21 9 12 75.0 2 2 100.0 1 2 50.0 3 5 8 2 0 1 2 2 0
+p295
+aVJohn Amaechi UTA 02/20/2002 UTA @ DEN W 8 1 0 2 0.0 0 0 - 1 4 25.0 0 0 0 2 0 0 0 0 1
+p296
+aVDeShawn Stevenson UTA 02/20/2002 UTA @ DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p297
+aVGreg Ostertag UTA 02/20/2002 UTA @ DEN W 16 5 2 3 66.7 0 0 - 1 3 33.3 1 4 5 2 1 0 2 4 16
+p298
+aVJarron Collins UTA 02/20/2002 UTA @ DEN W 12 4 2 3 66.7 0 0 - 0 2 0.0 0 2 2 2 0 0 0 4 4
+p299
+aVBryon Russell UTA 02/20/2002 UTA @ DEN W 36 13 3 9 33.3 1 1 100.0 6 6 100.0 3 5 8 4 0 2 1 3 4
+p300
+aVKarl Malone UTA 02/20/2002 UTA @ DEN W 36 19 7 12 58.3 0 0 - 5 6 83.3 0 2 2 3 2 1 2 3 0
+p301
+aVJohn Starks UTA 02/20/2002 UTA @ DEN W 25 10 4 5 80.0 2 3 66.7 0 0 - 0 3 3 2 3 0 1 5 4
+p302
+aVJohn Stockton UTA 02/20/2002 UTA @ DEN W 29 12 3 5 60.0 0 0 - 6 6 100.0 0 6 6 9 2 0 2 2 -3
+p303
+aVRusty LaRue UTA 02/20/2002 UTA @ DEN W 19 4 1 7 14.3 0 1 0.0 2 2 100.0 0 0 0 4 1 0 1 2 16
+p304
+aVJarron Collins UTA 02/18/2002 UTA @ CLE W 28 9 1 2 50.0 0 0 - 7 9 77.8 1 3 4 0 0 1 2 4 -9
+p305
+aVRusty LaRue UTA 02/18/2002 UTA @ CLE W 18 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 7 2 0 1 4 12
+p306
+aVJohn Stockton UTA 02/18/2002 UTA @ CLE W 30 12 5 10 50.0 0 1 0.0 2 2 100.0 0 3 3 6 0 0 1 2 -1
+p307
+aVBryon Russell UTA 02/18/2002 UTA @ CLE W 42 11 4 6 66.7 0 1 0.0 3 4 75.0 1 2 3 4 1 0 1 4 6
+p308
+aVJohn Starks UTA 02/18/2002 UTA @ CLE W 16 10 3 5 60.0 2 2 100.0 2 2 100.0 0 0 0 1 0 0 1 3 8
+p309
+aVKarl Malone UTA 02/18/2002 UTA @ CLE W 40 35 11 24 45.8 0 0 - 13 16 81.3 1 7 8 7 3 1 4 3 4
+p310
+aVAndrei Kirilenko UTA 02/18/2002 UTA @ CLE W 30 15 6 8 75.0 0 1 0.0 3 4 75.0 2 3 5 1 1 1 2 2 17
+p311
+aVScott Padgett UTA 02/18/2002 UTA @ CLE W 15 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 0 1 4 0
+p312
+aVGreg Ostertag UTA 02/18/2002 UTA @ CLE W 21 4 2 4 50.0 0 0 - 0 1 0.0 2 6 8 1 0 2 1 5 18
+p313
+aVGreg Ostertag UTA 02/17/2002 UTA @ NYK W 10 1 0 1 0.0 0 0 - 1 4 25.0 2 0 2 0 0 0 2 1 -6
+p314
+aVKarl Malone UTA 02/17/2002 UTA @ NYK W 42 27 10 23 43.5 1 1 100.0 6 12 50.0 3 13 16 6 1 2 6 3 9
+p315
+aVRusty LaRue UTA 02/17/2002 UTA @ NYK W 16 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 1 1 1 3 4 7
+p316
+aVJarron Collins UTA 02/17/2002 UTA @ NYK W 35 19 7 14 50.0 0 1 0.0 5 6 83.3 6 3 9 0 3 1 0 1 9
+p317
+aVQuincy Lewis UTA 02/17/2002 UTA @ NYK W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -2
+p318
+aVAndrei Kirilenko UTA 02/17/2002 UTA @ NYK W 21 1 0 4 0.0 0 1 0.0 1 2 50.0 1 2 3 1 1 0 0 3 -1
+p319
+aVJohn Starks UTA 02/17/2002 UTA @ NYK W 34 7 3 7 42.9 0 2 0.0 1 2 50.0 0 2 2 2 1 0 0 4 11
+p320
+aVScott Padgett UTA 02/17/2002 UTA @ NYK W 24 8 4 10 40.0 0 2 0.0 0 0 - 1 3 4 2 1 0 1 2 5
+p321
+aVJohn Stockton UTA 02/17/2002 UTA @ NYK W 32 15 6 14 42.9 0 0 - 3 3 100.0 2 4 6 3 0 0 1 2 -4
+p322
+aVBryon Russell UTA 02/17/2002 UTA @ NYK W 22 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 4 0 0 0 5 -13
+p323
+aVRusty LaRue UTA 02/15/2002 UTA @ TOR W 16 7 3 3 100.0 1 1 100.0 0 0 - 1 0 1 2 0 0 3 0 -6
+p324
+aVJohn Starks UTA 02/15/2002 UTA @ TOR W 25 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 3 1 0 1 5 4
+p325
+aVJarron Collins UTA 02/15/2002 UTA @ TOR W 23 7 3 8 37.5 0 0 - 1 2 50.0 2 0 2 0 0 1 1 4 6
+p326
+aVJohn Stockton UTA 02/15/2002 UTA @ TOR W 32 23 8 9 88.9 1 1 100.0 6 6 100.0 1 2 3 6 1 0 1 0 15
+p327
+aVBryon Russell UTA 02/15/2002 UTA @ TOR W 40 16 6 10 60.0 2 4 50.0 2 2 100.0 3 6 9 2 2 1 2 4 9
+p328
+aVGreg Ostertag UTA 02/15/2002 UTA @ TOR W 14 6 3 4 75.0 0 0 - 0 2 0.0 2 4 6 0 0 1 1 3 -5
+p329
+aVKarl Malone UTA 02/15/2002 UTA @ TOR W 38 23 7 16 43.8 0 0 - 9 14 64.3 1 5 6 6 2 1 3 3 10
+p330
+aVAndrei Kirilenko UTA 02/15/2002 UTA @ TOR W 24 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 2 4 1 2 1 2
+p331
+aVScott Padgett UTA 02/15/2002 UTA @ TOR W 28 5 1 4 25.0 0 1 0.0 3 4 75.0 0 3 3 1 1 0 1 2 10
+p332
+aVGreg Ostertag UTA 02/14/2002 UTA @ PHI W 22 8 3 5 60.0 0 0 - 2 4 50.0 5 3 8 1 0 1 0 5 -3
+p333
+aVJohn Stockton UTA 02/14/2002 UTA @ PHI W 25 11 4 11 36.4 0 0 - 3 3 100.0 0 5 5 4 2 0 3 5 6
+p334
+aVJohn Starks UTA 02/14/2002 UTA @ PHI W 28 9 4 6 66.7 1 2 50.0 0 0 - 2 2 4 2 1 0 1 4 -9
+p335
+aVJarron Collins UTA 02/14/2002 UTA @ PHI W 24 11 3 6 50.0 0 0 - 5 6 83.3 5 3 8 0 1 1 0 3 10
+p336
+aVAndrei Kirilenko UTA 02/14/2002 UTA @ PHI W 24 5 2 6 33.3 0 2 0.0 1 2 50.0 2 3 5 2 0 0 1 1 8
+p337
+aVKarl Malone UTA 02/14/2002 UTA @ PHI W 41 26 10 21 47.6 0 0 - 6 8 75.0 4 9 13 7 0 2 2 2 7
+p338
+aVScott Padgett UTA 02/14/2002 UTA @ PHI W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -1
+p339
+aVRusty LaRue UTA 02/14/2002 UTA @ PHI W 19 8 3 6 50.0 0 1 0.0 2 2 100.0 1 0 1 5 0 0 2 5 6
+p340
+aVDeShawn Stevenson UTA 02/14/2002 UTA @ PHI W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 3 0 -5
+p341
+aVBryon Russell UTA 02/14/2002 UTA @ PHI W 43 14 6 15 40.0 2 4 50.0 0 0 - 2 3 5 1 1 0 3 3 16
+p342
+aVKarl Malone UTA 02/12/2002 UTA @ IND W 41 34 11 23 47.8 0 0 - 12 16 75.0 2 12 14 6 5 2 5 2 18
+p343
+aVJohn Stockton UTA 02/12/2002 UTA @ IND W 31 9 3 5 60.0 0 0 - 3 3 100.0 0 2 2 12 6 1 4 1 10
+p344
+aVJohn Amaechi UTA 02/12/2002 UTA @ IND W 7 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 -2
+p345
+aVScott Padgett UTA 02/12/2002 UTA @ IND W 29 17 6 7 85.7 3 4 75.0 2 3 66.7 3 4 7 1 1 0 1 2 10
+p346
+aVBryon Russell UTA 02/12/2002 UTA @ IND W 39 11 5 13 38.5 1 4 25.0 0 0 - 2 4 6 3 1 1 1 4 12
+p347
+aVQuincy Lewis UTA 02/12/2002 UTA @ IND W 10 0 0 3 0.0 0 0 - 0 0 - 2 1 3 2 0 0 0 4 -3
+p348
+aVJarron Collins UTA 02/12/2002 UTA @ IND W 19 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 1 0 2 4 6
+p349
+aVJohn Starks UTA 02/12/2002 UTA @ IND W 22 5 2 6 33.3 1 3 33.3 0 0 - 1 0 1 1 1 0 1 2 12
+p350
+aVAndrei Kirilenko UTA 02/12/2002 UTA @ IND W 26 10 2 8 25.0 0 0 - 6 6 100.0 3 6 9 0 1 1 2 1 11
+p351
+aVRusty LaRue UTA 02/12/2002 UTA @ IND W 17 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 4 0 0 2 0 6
+p352
+aVGreg Ostertag UTA 02/05/2002 UTA @ MEM L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 2
+p353
+aVJohn Amaechi UTA 02/05/2002 UTA @ MEM L 14 1 0 3 0.0 0 0 - 1 6 16.7 2 0 2 0 0 0 1 3 -4
+p354
+aVAndrei Kirilenko UTA 02/05/2002 UTA @ MEM L 27 15 4 5 80.0 1 1 100.0 6 6 100.0 0 3 3 0 0 1 1 1 5
+p355
+aVJohn Starks UTA 02/05/2002 UTA @ MEM L 13 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 0 1 0 0 4 -5
+p356
+aVScott Padgett UTA 02/05/2002 UTA @ MEM L 29 14 5 13 38.5 2 3 66.7 2 4 50.0 10 5 15 0 1 0 2 1 -21
+p357
+aVBryon Russell UTA 02/05/2002 UTA @ MEM L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 1 1 2 2 -4
+p358
+aVJohn Stockton UTA 02/05/2002 UTA @ MEM L 25 7 2 5 40.0 0 1 0.0 3 4 75.0 2 3 5 4 0 0 3 3 -9
+p359
+aVKarl Malone UTA 02/05/2002 UTA @ MEM L 30 10 2 13 15.4 0 0 - 6 6 100.0 2 6 8 4 1 0 2 1 -16
+p360
+aVJarron Collins UTA 02/05/2002 UTA @ MEM L 17 7 0 2 0.0 0 0 - 7 12 58.3 2 2 4 0 0 0 1 5 11
+p361
+aVQuincy Lewis UTA 02/05/2002 UTA @ MEM L 15 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 2 3 0 1 6 6
+p362
+aVRusty LaRue UTA 02/05/2002 UTA @ MEM L 23 7 3 12 25.0 1 4 25.0 0 1 0.0 0 1 1 3 1 0 1 1 2
+p363
+aVDeShawn Stevenson UTA 02/05/2002 UTA @ MEM L 29 4 2 14 14.3 0 0 - 0 0 - 4 2 6 1 1 2 0 5 -2
+p364
+aVJarron Collins UTA 02/04/2002 UTA @ HOU L 17 5 2 4 50.0 0 0 - 1 2 50.0 2 0 2 2 0 0 1 4 -9
+p365
+aVJohn Stockton UTA 02/04/2002 UTA @ HOU L 32 14 6 14 42.9 0 1 0.0 2 3 66.7 2 3 5 12 2 0 1 4 -8
+p366
+aVQuincy Lewis UTA 02/04/2002 UTA @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p367
+aVScott Padgett UTA 02/04/2002 UTA @ HOU L 27 7 3 9 33.3 0 2 0.0 1 3 33.3 1 0 1 0 0 1 1 2 -1
+p368
+aVGreg Ostertag UTA 02/04/2002 UTA @ HOU L 11 8 4 5 80.0 0 0 - 0 1 0.0 2 1 3 1 0 0 0 2 3
+p369
+aVKarl Malone UTA 02/04/2002 UTA @ HOU L 41 31 13 26 50.0 0 0 - 5 5 100.0 4 9 13 6 3 0 2 5 -7
+p370
+aVBryon Russell UTA 02/04/2002 UTA @ HOU L 30 10 5 13 38.5 0 3 0.0 0 0 - 6 1 7 5 2 0 1 5 -6
+p371
+aVAndrei Kirilenko UTA 02/04/2002 UTA @ HOU L 39 7 3 9 33.3 0 2 0.0 1 2 50.0 2 1 3 1 3 4 0 2 -7
+p372
+aVRusty LaRue UTA 02/04/2002 UTA @ HOU L 16 9 4 8 50.0 1 2 50.0 0 0 - 1 3 4 3 0 0 0 2 1
+p373
+aVDeShawn Stevenson UTA 02/04/2002 UTA @ HOU L 23 6 3 9 33.3 0 1 0.0 0 0 - 3 1 4 0 1 0 0 2 -1
+p374
+aVJohn Amaechi UTA 02/02/2002 UTA vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p375
+aVRusty LaRue UTA 02/02/2002 UTA vs. POR W 15 4 1 4 25.0 1 1 100.0 1 2 50.0 0 0 0 0 1 0 2 0 -10
+p376
+aVAndrei Kirilenko UTA 02/02/2002 UTA vs. POR W 28 12 4 10 40.0 0 1 0.0 4 7 57.1 2 2 4 3 0 4 1 0 5
+p377
+aVGreg Ostertag UTA 02/02/2002 UTA vs. POR W 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 2 1 1 0
+p378
+aVBryon Russell UTA 02/02/2002 UTA vs. POR W 39 8 2 8 25.0 0 5 0.0 4 4 100.0 2 6 8 4 1 0 4 5 3
+p379
+aVScott Padgett UTA 02/02/2002 UTA vs. POR W 19 11 5 8 62.5 1 2 50.0 0 0 - 0 0 0 1 2 0 0 1 0
+p380
+aVJohn Starks UTA 02/02/2002 UTA vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p381
+aVJohn Stockton UTA 02/02/2002 UTA vs. POR W 33 17 7 12 58.3 1 3 33.3 2 2 100.0 0 1 1 9 3 0 2 4 11
+p382
+aVJarron Collins UTA 02/02/2002 UTA vs. POR W 31 9 4 7 57.1 0 0 - 1 2 50.0 4 3 7 3 3 0 0 4 6
+p383
+aVKarl Malone UTA 02/02/2002 UTA vs. POR W 42 24 9 16 56.3 0 0 - 6 9 66.7 4 9 13 2 2 0 6 0 -3
+p384
+aVDeShawn Stevenson UTA 02/02/2002 UTA vs. POR W 21 10 5 6 83.3 0 0 - 0 0 - 0 2 2 3 1 0 1 1 -4
+p385
+aVRusty LaRue UTA 01/30/2002 UTA vs. CHI W 17 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 0 1 0 1 3 -7
+p386
+aVAndrei Kirilenko UTA 01/30/2002 UTA vs. CHI W 28 15 6 11 54.5 0 0 - 3 4 75.0 2 2 4 0 4 3 2 2 19
+p387
+aVKarl Malone UTA 01/30/2002 UTA vs. CHI W 42 18 5 14 35.7 0 0 - 8 11 72.7 1 5 6 6 2 1 7 4 17
+p388
+aVBryon Russell UTA 01/30/2002 UTA vs. CHI W 35 14 4 8 50.0 2 3 66.7 4 6 66.7 0 4 4 2 1 0 1 2 12
+p389
+aVDeShawn Stevenson UTA 01/30/2002 UTA vs. CHI W 17 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 1 0 0 -7
+p390
+aVQuincy Lewis UTA 01/30/2002 UTA vs. CHI W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 0
+p391
+aVJohn Amaechi UTA 01/30/2002 UTA vs. CHI W 12 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 0
+p392
+aVJohn Stockton UTA 01/30/2002 UTA vs. CHI W 31 16 6 12 50.0 0 2 0.0 4 5 80.0 0 4 4 10 5 1 3 2 19
+p393
+aVScott Padgett UTA 01/30/2002 UTA vs. CHI W 20 10 4 5 80.0 1 2 50.0 1 2 50.0 1 2 3 0 0 0 1 1 -5
+p394
+aVGreg Ostertag UTA 01/30/2002 UTA vs. CHI W 7 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 2 1 -7
+p395
+aVJarron Collins UTA 01/30/2002 UTA vs. CHI W 29 8 3 3 100.0 0 0 - 2 4 50.0 1 3 4 0 2 0 2 3 19
+p396
+aVKarl Malone UTA 01/28/2002 UTA vs. MIA W 33 19 8 15 53.3 0 0 - 3 4 75.0 0 2 2 1 0 0 5 5 7
+p397
+aVJarron Collins UTA 01/28/2002 UTA vs. MIA W 34 18 3 6 50.0 0 0 - 12 13 92.3 1 2 3 0 0 0 2 5 10
+p398
+aVBryon Russell UTA 01/28/2002 UTA vs. MIA W 37 20 5 9 55.6 3 4 75.0 7 9 77.8 0 3 3 3 3 0 1 3 14
+p399
+aVQuincy Lewis UTA 01/28/2002 UTA vs. MIA W 21 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 1 2 1 2
+p400
+aVAndrei Kirilenko UTA 01/28/2002 UTA vs. MIA W 38 13 2 5 40.0 0 0 - 9 11 81.8 0 4 4 1 3 3 1 1 6
+p401
+aVDeShawn Stevenson UTA 01/28/2002 UTA vs. MIA W 17 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 3 1 1 2 1 -2
+p402
+aVScott Padgett UTA 01/28/2002 UTA vs. MIA W 29 10 3 5 60.0 2 3 66.7 2 3 66.7 1 1 2 1 1 0 1 2 5
+p403
+aVJohn Stockton UTA 01/28/2002 UTA vs. MIA W 31 14 6 8 75.0 0 0 - 2 2 100.0 1 4 5 9 0 0 0 2 13
+p404
+aVBryon Russell UTA 01/26/2002 UTA vs. SAC L 36 11 2 9 22.2 1 5 20.0 6 6 100.0 1 6 7 4 2 0 1 2 -20
+p405
+aVJohn Starks UTA 01/26/2002 UTA vs. SAC L 11 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 0 -6
+p406
+aVScott Padgett UTA 01/26/2002 UTA vs. SAC L 19 10 4 6 66.7 0 1 0.0 2 2 100.0 0 4 4 1 1 0 2 3 -18
+p407
+aVGreg Ostertag UTA 01/26/2002 UTA vs. SAC L 13 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 2 1 2 -12
+p408
+aVDeShawn Stevenson UTA 01/26/2002 UTA vs. SAC L 17 6 3 11 27.3 0 0 - 0 0 - 2 1 3 3 0 0 2 2 -8
+p409
+aVJarron Collins UTA 01/26/2002 UTA vs. SAC L 27 8 3 6 50.0 0 0 - 2 3 66.7 2 2 4 2 0 2 2 4 -4
+p410
+aVAndrei Kirilenko UTA 01/26/2002 UTA vs. SAC L 34 16 7 11 63.6 0 0 - 2 2 100.0 3 2 5 2 1 4 2 1 -9
+p411
+aVKarl Malone UTA 01/26/2002 UTA vs. SAC L 33 17 7 18 38.9 0 0 - 3 3 100.0 3 7 10 3 2 0 2 3 -15
+p412
+aVQuincy Lewis UTA 01/26/2002 UTA vs. SAC L 13 9 4 7 57.1 1 3 33.3 0 0 - 0 0 0 0 0 0 2 4 -10
+p413
+aVJohn Stockton UTA 01/26/2002 UTA vs. SAC L 31 6 2 7 28.6 0 0 - 2 2 100.0 1 2 3 9 3 0 2 2 -16
+p414
+aVJohn Amaechi UTA 01/26/2002 UTA vs. SAC L 5 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 2 -2
+p415
+aVJarron Collins UTA 01/24/2002 UTA @ SAC L 13 4 2 9 22.2 0 0 - 0 0 - 2 2 4 1 0 0 2 4 -7
+p416
+aVAndrei Kirilenko UTA 01/24/2002 UTA @ SAC L 29 10 3 11 27.3 0 4 0.0 4 6 66.7 0 3 3 2 0 1 0 3 -20
+p417
+aVJohn Stockton UTA 01/24/2002 UTA @ SAC L 26 12 5 9 55.6 1 1 100.0 1 2 50.0 0 4 4 3 1 0 1 1 -15
+p418
+aVKarl Malone UTA 01/24/2002 UTA @ SAC L 28 14 5 11 45.5 0 0 - 4 4 100.0 0 6 6 4 2 0 3 2 -18
+p419
+aVDeShawn Stevenson UTA 01/24/2002 UTA @ SAC L 22 12 6 11 54.5 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -18
+p420
+aVScott Padgett UTA 01/24/2002 UTA @ SAC L 24 4 2 7 28.6 0 1 0.0 0 0 - 2 6 8 1 0 1 0 4 -20
+p421
+aVBryon Russell UTA 01/24/2002 UTA @ SAC L 27 6 2 7 28.6 0 1 0.0 2 2 100.0 3 5 8 3 2 0 2 1 -20
+p422
+aVGreg Ostertag UTA 01/24/2002 UTA @ SAC L 14 3 1 4 25.0 0 0 - 1 4 25.0 1 2 3 0 1 0 0 0 -4
+p423
+aVJohn Amaechi UTA 01/24/2002 UTA @ SAC L 18 5 1 3 33.3 0 0 - 3 4 75.0 1 2 3 2 0 0 3 3 -23
+p424
+aVJohn Starks UTA 01/24/2002 UTA @ SAC L 12 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 0 4 -2
+p425
+aVQuincy Lewis UTA 01/24/2002 UTA @ SAC L 27 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 0 0 0 4 6 -18
+p426
+aVJohn Crotty UTA 01/23/2002 UTA vs. SAS L 26 9 4 6 66.7 1 2 50.0 0 0 - 1 1 2 4 0 0 1 1 3
+p427
+aVBryon Russell UTA 01/23/2002 UTA vs. SAS L 23 2 1 8 12.5 0 4 0.0 0 2 0.0 2 3 5 1 0 0 2 4 -13
+p428
+aVJohn Amaechi UTA 01/23/2002 UTA vs. SAS L 22 18 9 12 75.0 0 0 - 0 0 - 2 1 3 1 1 0 1 2 -6
+p429
+aVDeShawn Stevenson UTA 01/23/2002 UTA vs. SAS L 14 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -1
+p430
+aVJohn Starks UTA 01/23/2002 UTA vs. SAS L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p431
+aVGreg Ostertag UTA 01/23/2002 UTA vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p432
+aVKarl Malone UTA 01/23/2002 UTA vs. SAS L 43 23 7 16 43.8 0 0 - 9 10 90.0 1 9 10 4 4 0 1 3 -2
+p433
+aVAndrei Kirilenko UTA 01/23/2002 UTA vs. SAS L 31 16 6 10 60.0 2 3 66.7 2 2 100.0 1 4 5 1 2 2 1 3 -4
+p434
+aVQuincy Lewis UTA 01/23/2002 UTA vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p435
+aVScott Padgett UTA 01/23/2002 UTA vs. SAS L 20 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 1 0 0 4 -2
+p436
+aVJohn Stockton UTA 01/23/2002 UTA vs. SAS L 34 10 4 13 30.8 1 3 33.3 1 1 100.0 1 3 4 11 2 0 4 3 -1
+p437
+aVJarron Collins UTA 01/23/2002 UTA vs. SAS L 21 8 2 4 50.0 0 0 - 4 4 100.0 2 2 4 1 0 0 0 3 5
+p438
+aVDonyell Marshall UTA 01/21/2002 UTA @ GSW W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p439
+aVJohn Stockton UTA 01/21/2002 UTA @ GSW W 29 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 5 4 0 4 1 8
+p440
+aVScott Padgett UTA 01/21/2002 UTA @ GSW W 22 13 5 5 100.0 2 2 100.0 1 3 33.3 3 1 4 1 2 0 0 2 4
+p441
+aVBryon Russell UTA 01/21/2002 UTA @ GSW W 28 10 1 7 14.3 0 2 0.0 8 10 80.0 4 3 7 5 0 0 1 4 -2
+p442
+aVGreg Ostertag UTA 01/21/2002 UTA @ GSW W 11 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 3 0 -3
+p443
+aVJohn Starks UTA 01/21/2002 UTA @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p444
+aVDeShawn Stevenson UTA 01/21/2002 UTA @ GSW W 22 6 3 9 33.3 0 2 0.0 0 0 - 1 0 1 4 0 0 1 2 3
+p445
+aVKarl Malone UTA 01/21/2002 UTA @ GSW W 43 37 10 23 43.5 1 2 50.0 16 19 84.2 3 8 11 0 3 1 3 5 1
+p446
+aVJohn Amaechi UTA 01/21/2002 UTA @ GSW W 8 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 1 3
+p447
+aVAndrei Kirilenko UTA 01/21/2002 UTA @ GSW W 19 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 1 2 0 3 6
+p448
+aVJohn Crotty UTA 01/21/2002 UTA @ GSW W 19 12 4 8 50.0 2 4 50.0 2 2 100.0 0 2 2 3 2 0 1 0 -6
+p449
+aVJarron Collins UTA 01/21/2002 UTA @ GSW W 29 9 4 9 44.4 0 0 - 1 2 50.0 4 3 7 3 1 1 1 5 2
+p450
+aVBryon Russell UTA 01/19/2002 UTA @ DAL L 34 3 1 8 12.5 0 3 0.0 1 2 50.0 0 5 5 2 1 0 0 4 12
+p451
+aVAndrei Kirilenko UTA 01/19/2002 UTA @ DAL L 37 12 4 10 40.0 0 1 0.0 4 6 66.7 4 3 7 0 2 2 2 2 -6
+p452
+aVKarl Malone UTA 01/19/2002 UTA @ DAL L 41 28 10 19 52.6 0 0 - 8 9 88.9 2 5 7 5 2 1 2 5 -4
+p453
+aVJarron Collins UTA 01/19/2002 UTA @ DAL L 16 5 1 3 33.3 0 0 - 3 4 75.0 2 0 2 0 0 0 0 4 -13
+p454
+aVJohn Stockton UTA 01/19/2002 UTA @ DAL L 36 24 9 19 47.4 2 4 50.0 4 5 80.0 2 3 5 9 3 1 3 4 2
+p455
+aVJohn Starks UTA 01/19/2002 UTA @ DAL L 20 3 1 6 16.7 0 3 0.0 1 2 50.0 1 2 3 3 0 0 1 4 -8
+p456
+aVScott Padgett UTA 01/19/2002 UTA @ DAL L 33 17 7 13 53.8 3 6 50.0 0 0 - 4 5 9 5 0 0 0 2 18
+p457
+aVDeShawn Stevenson UTA 01/19/2002 UTA @ DAL L 24 11 5 9 55.6 1 2 50.0 0 0 - 0 0 0 1 0 3 0 1 -16
+p458
+aVJohn Stockton UTA 01/17/2002 UTA @ SAS L 30 13 6 10 60.0 0 1 0.0 1 1 100.0 2 2 4 4 0 0 2 4 -4
+p459
+aVGreg Ostertag UTA 01/17/2002 UTA @ SAS L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -9
+p460
+aVJohn Starks UTA 01/17/2002 UTA @ SAS L 16 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 2 3 -10
+p461
+aVScott Padgett UTA 01/17/2002 UTA @ SAS L 8 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 2 0
+p462
+aVDeShawn Stevenson UTA 01/17/2002 UTA @ SAS L 32 8 4 10 40.0 0 0 - 0 0 - 0 1 1 2 0 1 0 2 1
+p463
+aVJarron Collins UTA 01/17/2002 UTA @ SAS L 29 11 4 10 40.0 0 0 - 3 3 100.0 4 5 9 1 0 1 1 6 4
+p464
+aVAndrei Kirilenko UTA 01/17/2002 UTA @ SAS L 39 24 8 13 61.5 1 2 50.0 7 9 77.8 4 4 8 3 6 1 2 0 4
+p465
+aVBryon Russell UTA 01/17/2002 UTA @ SAS L 27 2 0 6 0.0 0 2 0.0 2 2 100.0 1 2 3 1 0 1 3 3 -3
+p466
+aVJohn Amaechi UTA 01/17/2002 UTA @ SAS L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 1 0 0 -2
+p467
+aVKarl Malone UTA 01/17/2002 UTA @ SAS L 45 30 11 17 64.7 1 1 100.0 7 10 70.0 3 11 14 6 1 0 3 3 -1
+p468
+aVJohn Starks UTA 01/16/2002 UTA vs. SEA W 27 6 3 9 33.3 0 4 0.0 0 0 - 1 2 3 3 2 0 0 0 3
+p469
+aVJohn Amaechi UTA 01/16/2002 UTA vs. SEA W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -4
+p470
+aVAndrei Kirilenko UTA 01/16/2002 UTA vs. SEA W 16 13 5 9 55.6 1 1 100.0 2 2 100.0 2 2 4 1 0 3 0 3 7
+p471
+aVKarl Malone UTA 01/16/2002 UTA vs. SEA W 34 17 7 12 58.3 0 0 - 3 4 75.0 4 5 9 6 2 1 6 2 27
+p472
+aVDeShawn Stevenson UTA 01/16/2002 UTA vs. SEA W 25 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 2 1 0 0 3 10
+p473
+aVJarron Collins UTA 01/16/2002 UTA vs. SEA W 31 22 9 9 100.0 0 0 - 4 6 66.7 6 4 10 2 1 0 1 5 13
+p474
+aVScott Padgett UTA 01/16/2002 UTA vs. SEA W 19 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 1 3 0 1 3 -6
+p475
+aVJohn Stockton UTA 01/16/2002 UTA vs. SEA W 33 15 6 11 54.5 0 0 - 3 3 100.0 1 2 3 5 1 1 3 1 16
+p476
+aVGreg Ostertag UTA 01/16/2002 UTA vs. SEA W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -2
+p477
+aVJohn Crotty UTA 01/16/2002 UTA vs. SEA W 11 6 1 4 25.0 0 2 0.0 4 4 100.0 0 1 1 1 0 0 2 1 -1
+p478
+aVBryon Russell UTA 01/16/2002 UTA vs. SEA W 29 14 5 12 41.7 1 6 16.7 3 3 100.0 1 3 4 2 2 0 1 1 12
+p479
+aVDeShawn Stevenson UTA 01/14/2002 UTA vs. DEN W 21 5 2 8 25.0 0 0 - 1 2 50.0 1 2 3 2 1 0 0 2 -1
+p480
+aVJohn Starks UTA 01/14/2002 UTA vs. DEN W 18 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 3 0 0 1 2 -2
+p481
+aVJarron Collins UTA 01/14/2002 UTA vs. DEN W 26 10 4 7 57.1 0 0 - 2 2 100.0 2 5 7 2 0 2 1 2 11
+p482
+aVJohn Crotty UTA 01/14/2002 UTA vs. DEN W 27 12 5 6 83.3 2 2 100.0 0 0 - 0 6 6 5 0 0 3 4 17
+p483
+aVBryon Russell UTA 01/14/2002 UTA vs. DEN W 32 17 7 12 58.3 3 8 37.5 0 0 - 2 3 5 2 0 1 1 4 12
+p484
+aVScott Padgett UTA 01/14/2002 UTA vs. DEN W 16 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 0 0 2 3 0
+p485
+aVAndrei Kirilenko UTA 01/14/2002 UTA vs. DEN W 18 8 4 9 44.4 0 2 0.0 0 0 - 0 1 1 0 1 3 3 0 -1
+p486
+aVJohn Stockton UTA 01/14/2002 UTA vs. DEN W 27 14 4 7 57.1 1 1 100.0 5 5 100.0 1 5 6 7 0 1 0 4 2
+p487
+aVGreg Ostertag UTA 01/14/2002 UTA vs. DEN W 13 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -3
+p488
+aVKarl Malone UTA 01/14/2002 UTA vs. DEN W 40 26 10 18 55.6 0 0 - 6 8 75.0 2 4 6 8 2 1 1 3 10
+p489
+aVAndrei Kirilenko UTA 01/12/2002 UTA vs. MEM L 28 6 2 9 22.2 0 2 0.0 2 4 50.0 1 5 6 0 1 3 2 0 -12
+p490
+aVKarl Malone UTA 01/12/2002 UTA vs. MEM L 53 23 9 24 37.5 0 1 0.0 5 6 83.3 2 13 15 7 1 0 4 3 4
+p491
+aVScott Padgett UTA 01/12/2002 UTA vs. MEM L 37 8 4 9 44.4 0 1 0.0 0 0 - 6 4 10 3 4 0 2 5 -1
+p492
+aVJohn Stockton UTA 01/12/2002 UTA vs. MEM L 39 21 8 16 50.0 2 2 100.0 3 3 100.0 0 5 5 9 2 0 3 3 2
+p493
+aVJohn Amaechi UTA 01/12/2002 UTA vs. MEM L 16 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -1
+p494
+aVJarron Collins UTA 01/12/2002 UTA vs. MEM L 19 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 1 1 1 5
+p495
+aVJohn Starks UTA 01/12/2002 UTA vs. MEM L 16 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 1
+p496
+aVGreg Ostertag UTA 01/12/2002 UTA vs. MEM L 10 0 0 3 0.0 0 0 - 0 2 0.0 5 0 5 0 0 0 1 2 -5
+p497
+aVBryon Russell UTA 01/12/2002 UTA vs. MEM L 36 11 4 11 36.4 1 4 25.0 2 2 100.0 1 2 3 2 1 0 0 5 -7
+p498
+aVJohn Crotty UTA 01/12/2002 UTA vs. MEM L 19 11 4 7 57.1 1 2 50.0 2 2 100.0 1 2 3 3 0 0 0 0 -4
+p499
+aVDeShawn Stevenson UTA 01/12/2002 UTA vs. MEM L 17 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 0 1 2 0 8
+p500
+aVDeShawn Stevenson UTA 01/10/2002 UTA vs. HOU W 22 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 2 2 1 3 3 2
+p501
+aVBryon Russell UTA 01/10/2002 UTA vs. HOU W 26 2 1 8 12.5 0 5 0.0 0 0 - 2 3 5 0 0 1 1 1 2
+p502
+aVAndrei Kirilenko UTA 01/10/2002 UTA vs. HOU W 28 3 0 5 0.0 0 2 0.0 3 4 75.0 2 5 7 1 2 0 4 1 1
+p503
+aVKarl Malone UTA 01/10/2002 UTA vs. HOU W 38 30 11 23 47.8 0 1 0.0 8 10 80.0 3 7 10 6 2 0 1 2 5
+p504
+aVScott Padgett UTA 01/10/2002 UTA vs. HOU W 23 11 4 6 66.7 3 4 75.0 0 0 - 1 2 3 1 1 1 2 4 -9
+p505
+aVJarron Collins UTA 01/10/2002 UTA vs. HOU W 21 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 2 0 2 17
+p506
+aVDonyell Marshall UTA 01/10/2002 UTA vs. HOU W 21 8 4 6 66.7 0 0 - 0 0 - 3 4 7 0 0 0 2 2 7
+p507
+aVJohn Stockton UTA 01/10/2002 UTA vs. HOU W 31 19 9 16 56.3 0 2 0.0 1 1 100.0 1 3 4 6 1 0 3 1 5
+p508
+aVGreg Ostertag UTA 01/10/2002 UTA vs. HOU W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 1 0 -1
+p509
+aVJohn Crotty UTA 01/10/2002 UTA vs. HOU W 21 5 2 5 40.0 0 1 0.0 1 1 100.0 1 1 2 3 0 0 0 1 -9
+p510
+aVJohn Crotty UTA 01/08/2002 UTA vs. PHX W 25 10 4 7 57.1 2 2 100.0 0 0 - 0 4 4 4 2 0 2 3 3
+p511
+aVJohn Starks UTA 01/08/2002 UTA vs. PHX W 2 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p512
+aVAndrei Kirilenko UTA 01/08/2002 UTA vs. PHX W 19 6 2 4 50.0 0 0 - 2 4 50.0 2 4 6 2 1 2 2 1 20
+p513
+aVJohn Amaechi UTA 01/08/2002 UTA vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p514
+aVBryon Russell UTA 01/08/2002 UTA vs. PHX W 26 11 3 6 50.0 1 1 100.0 4 4 100.0 0 6 6 1 0 0 1 2 26
+p515
+aVDonyell Marshall UTA 01/08/2002 UTA vs. PHX W 24 10 4 7 57.1 0 1 0.0 2 2 100.0 2 2 4 3 0 0 2 1 -11
+p516
+aVScott Padgett UTA 01/08/2002 UTA vs. PHX W 22 17 6 10 60.0 3 5 60.0 2 2 100.0 3 3 6 2 1 1 0 2 25
+p517
+aVJarron Collins UTA 01/08/2002 UTA vs. PHX W 21 13 4 6 66.7 0 0 - 5 6 83.3 1 2 3 0 0 0 1 3 -10
+p518
+aVJohn Stockton UTA 01/08/2002 UTA vs. PHX W 23 5 2 5 40.0 0 0 - 1 1 100.0 2 0 2 8 4 0 2 3 11
+p519
+aVKarl Malone UTA 01/08/2002 UTA vs. PHX W 33 17 6 18 33.3 0 0 - 5 7 71.4 3 4 7 3 1 4 6 1 -5
+p520
+aVGreg Ostertag UTA 01/08/2002 UTA vs. PHX W 22 5 1 4 25.0 0 0 - 3 6 50.0 2 5 7 2 0 5 2 2 28
+p521
+aVDeShawn Stevenson UTA 01/08/2002 UTA vs. PHX W 20 4 2 8 25.0 0 0 - 0 2 0.0 3 2 5 1 2 0 2 1 -7
+p522
+aVGreg Ostertag UTA 01/05/2002 UTA @ CHI W 20 5 0 2 0.0 0 0 - 5 10 50.0 2 2 4 0 0 1 0 3 -9
+p523
+aVJohn Stockton UTA 01/05/2002 UTA @ CHI W 32 9 3 9 33.3 0 1 0.0 3 3 100.0 2 1 3 7 2 0 4 4 6
+p524
+aVDeShawn Stevenson UTA 01/05/2002 UTA @ CHI W 18 4 2 3 66.7 0 0 - 0 0 - 0 0 0 5 0 1 1 2 1
+p525
+aVAndrei Kirilenko UTA 01/05/2002 UTA @ CHI W 14 7 1 3 33.3 0 0 - 5 6 83.3 1 1 2 0 0 0 4 1 -8
+p526
+aVDonyell Marshall UTA 01/05/2002 UTA @ CHI W 46 25 8 13 61.5 0 0 - 9 13 69.2 2 7 9 2 1 1 3 4 4
+p527
+aVScott Padgett UTA 01/05/2002 UTA @ CHI W 22 16 6 7 85.7 1 1 100.0 3 3 100.0 1 3 4 0 0 0 1 4 5
+p528
+aVBryon Russell UTA 01/05/2002 UTA @ CHI W 35 8 3 9 33.3 1 5 20.0 1 4 25.0 0 5 5 3 1 0 1 1 1
+p529
+aVJohn Crotty UTA 01/05/2002 UTA @ CHI W 21 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 6 1 0 0 2 -4
+p530
+aVKarl Malone UTA 01/05/2002 UTA @ CHI W 46 32 10 23 43.5 1 2 50.0 11 14 78.6 2 4 6 6 3 1 4 2 11
+p531
+aVJarron Collins UTA 01/05/2002 UTA @ CHI W 11 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 1 0 0 4 3
+p532
+aVKarl Malone UTA 01/04/2002 UTA @ MIN L 42 15 6 18 33.3 0 0 - 3 4 75.0 1 6 7 5 2 1 2 2 -6
+p533
+aVDonyell Marshall UTA 01/04/2002 UTA @ MIN L 32 12 5 14 35.7 1 2 50.0 1 2 50.0 5 4 9 1 1 0 2 2 -12
+p534
+aVBryon Russell UTA 01/04/2002 UTA @ MIN L 33 12 4 9 44.4 2 4 50.0 2 2 100.0 0 3 3 2 1 0 2 4 5
+p535
+aVJohn Crotty UTA 01/04/2002 UTA @ MIN L 23 10 4 7 57.1 1 2 50.0 1 2 50.0 2 1 3 4 1 0 1 4 0
+p536
+aVDeShawn Stevenson UTA 01/04/2002 UTA @ MIN L 15 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -12
+p537
+aVJohn Stockton UTA 01/04/2002 UTA @ MIN L 32 13 6 10 60.0 1 1 100.0 0 2 0.0 0 2 2 11 1 0 0 0 -9
+p538
+aVGreg Ostertag UTA 01/04/2002 UTA @ MIN L 13 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 0
+p539
+aVAndrei Kirilenko UTA 01/04/2002 UTA @ MIN L 22 10 5 8 62.5 0 1 0.0 0 0 - 0 3 3 1 3 0 1 1 11
+p540
+aVScott Padgett UTA 01/04/2002 UTA @ MIN L 14 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 2 0 0 2 0 -2
+p541
+aVJarron Collins UTA 01/04/2002 UTA @ MIN L 13 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 0 0 2 2 -10
+p542
+aVJarron Collins UTA 12/29/2001 UTA vs. PHI W 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -2
+p543
+aVKarl Malone UTA 12/29/2001 UTA vs. PHI W 38 20 7 23 30.4 0 1 0.0 6 10 60.0 5 12 17 4 1 2 1 3 -2
+p544
+aVJohn Crotty UTA 12/29/2001 UTA vs. PHI W 30 17 6 9 66.7 1 2 50.0 4 4 100.0 1 3 4 4 0 0 1 4 9
+p545
+aVScott Padgett UTA 12/29/2001 UTA vs. PHI W 18 8 2 9 22.2 0 1 0.0 4 4 100.0 5 1 6 1 0 1 2 1 6
+p546
+aVBryon Russell UTA 12/29/2001 UTA vs. PHI W 26 8 2 10 20.0 0 5 0.0 4 5 80.0 0 2 2 1 1 0 1 4 15
+p547
+aVAndrei Kirilenko UTA 12/29/2001 UTA vs. PHI W 28 10 5 11 45.5 0 2 0.0 0 0 - 0 2 2 1 2 4 0 2 20
+p548
+aVDonyell Marshall UTA 12/29/2001 UTA vs. PHI W 15 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 0 1 3 3 -10
+p549
+aVGreg Ostertag UTA 12/29/2001 UTA vs. PHI W 29 8 4 10 40.0 0 0 - 0 0 - 3 6 9 2 1 2 0 3 12
+p550
+aVDeShawn Stevenson UTA 12/29/2001 UTA vs. PHI W 19 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 1 1 1 2 -7
+p551
+aVJohn Stockton UTA 12/29/2001 UTA vs. PHI W 34 10 4 7 57.1 0 0 - 2 2 100.0 1 3 4 6 2 1 2 2 -1
+p552
+aVJohn Amaechi UTA 12/29/2001 UTA vs. PHI W 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p553
+aVJohn Crotty UTA 12/27/2001 UTA @ POR W 23 10 2 6 33.3 1 2 50.0 5 6 83.3 0 0 0 7 0 0 2 2 18
+p554
+aVJohn Stockton UTA 12/27/2001 UTA @ POR W 29 20 8 12 66.7 1 1 100.0 3 3 100.0 1 1 2 11 1 0 3 4 -6
+p555
+aVDonyell Marshall UTA 12/27/2001 UTA @ POR W 19 2 1 4 25.0 0 0 - 0 4 0.0 2 2 4 1 0 1 1 1 -22
+p556
+aVAndrei Kirilenko UTA 12/27/2001 UTA @ POR W 31 14 5 10 50.0 0 1 0.0 4 6 66.7 2 3 5 1 3 1 0 2 34
+p557
+aVBryon Russell UTA 12/27/2001 UTA @ POR W 27 18 8 15 53.3 1 5 20.0 1 1 100.0 0 3 3 0 4 0 1 5 30
+p558
+aVJarron Collins UTA 12/27/2001 UTA @ POR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -13
+p559
+aVJohn Amaechi UTA 12/27/2001 UTA @ POR W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 7
+p560
+aVScott Padgett UTA 12/27/2001 UTA @ POR W 25 8 3 6 50.0 2 2 100.0 0 2 0.0 2 3 5 2 0 0 0 4 23
+p561
+aVGreg Ostertag UTA 12/27/2001 UTA @ POR W 30 6 2 6 33.3 0 0 - 2 3 66.7 5 9 14 4 2 0 0 6 17
+p562
+aVKarl Malone UTA 12/27/2001 UTA @ POR W 28 19 7 13 53.8 0 0 - 5 5 100.0 1 3 4 3 2 0 4 5 -10
+p563
+aVDeShawn Stevenson UTA 12/27/2001 UTA @ POR W 17 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 0 0 2 0 -18
+p564
+aVAndrei Kirilenko UTA 12/26/2001 UTA vs. BOS W 20 5 0 3 0.0 0 2 0.0 5 6 83.3 2 3 5 1 2 2 3 3 15
+p565
+aVDonyell Marshall UTA 12/26/2001 UTA vs. BOS W 39 17 7 12 58.3 0 1 0.0 3 4 75.0 2 8 10 9 2 1 2 1 4
+p566
+aVJarron Collins UTA 12/26/2001 UTA vs. BOS W 18 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 0 6 1 -2
+p567
+aVDeShawn Stevenson UTA 12/26/2001 UTA vs. BOS W 15 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 2 1 2 -5
+p568
+aVJohn Starks UTA 12/26/2001 UTA vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -1
+p569
+aVKarl Malone UTA 12/26/2001 UTA vs. BOS W 40 17 8 18 44.4 0 0 - 1 2 50.0 1 5 6 3 2 0 1 3 12
+p570
+aVBryon Russell UTA 12/26/2001 UTA vs. BOS W 27 19 5 11 45.5 2 6 33.3 7 7 100.0 1 5 6 3 1 0 2 3 19
+p571
+aVJohn Crotty UTA 12/26/2001 UTA vs. BOS W 23 11 4 6 66.7 3 4 75.0 0 0 - 0 2 2 3 1 0 0 3 8
+p572
+aVJohn Stockton UTA 12/26/2001 UTA vs. BOS W 27 12 4 6 66.7 0 0 - 4 6 66.7 0 4 4 6 2 0 1 0 5
+p573
+aVGreg Ostertag UTA 12/26/2001 UTA vs. BOS W 28 8 4 9 44.4 0 0 - 0 2 0.0 4 4 8 2 0 6 0 2 10
+p574
+aVKarl Malone UTA 12/22/2001 UTA @ NJN W 41 31 9 23 39.1 0 0 - 13 16 81.3 3 5 8 4 3 0 3 0 4
+p575
+aVBryon Russell UTA 12/22/2001 UTA @ NJN W 24 5 2 7 28.6 1 3 33.3 0 0 - 2 1 3 2 0 0 1 3 20
+p576
+aVGreg Ostertag UTA 12/22/2001 UTA @ NJN W 31 7 2 2 100.0 0 0 - 3 4 75.0 4 5 9 0 1 2 1 5 16
+p577
+aVDeShawn Stevenson UTA 12/22/2001 UTA @ NJN W 24 12 5 7 71.4 0 0 - 2 2 100.0 0 3 3 0 0 0 3 0 -6
+p578
+aVJohn Stockton UTA 12/22/2001 UTA @ NJN W 31 15 6 9 66.7 2 2 100.0 1 1 100.0 0 2 2 10 2 0 3 3 8
+p579
+aVAndrei Kirilenko UTA 12/22/2001 UTA @ NJN W 25 14 4 7 57.1 1 1 100.0 5 5 100.0 0 3 3 1 4 1 3 2 24
+p580
+aVDonyell Marshall UTA 12/22/2001 UTA @ NJN W 34 10 4 9 44.4 0 0 - 2 2 100.0 1 4 5 4 4 3 3 5 8
+p581
+aVJarron Collins UTA 12/22/2001 UTA @ NJN W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -10
+p582
+aVJohn Crotty UTA 12/22/2001 UTA @ NJN W 17 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 1 0 0 2 1 6
+p583
+aVJohn Crotty UTA 12/21/2001 UTA @ BOS L 28 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 7 2 0 0 2 7
+p584
+aVAndrei Kirilenko UTA 12/21/2001 UTA @ BOS L 19 8 3 7 42.9 0 1 0.0 2 2 100.0 3 4 7 2 0 3 0 4 10
+p585
+aVGreg Ostertag UTA 12/21/2001 UTA @ BOS L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 4
+p586
+aVDonyell Marshall UTA 12/21/2001 UTA @ BOS L 37 16 6 16 37.5 0 1 0.0 4 6 66.7 2 5 7 1 0 3 5 4 -16
+p587
+aVJohn Starks UTA 12/21/2001 UTA @ BOS L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 3 -1
+p588
+aVDeShawn Stevenson UTA 12/21/2001 UTA @ BOS L 23 2 1 5 20.0 0 0 - 0 0 - 1 0 1 2 0 0 3 1 -11
+p589
+aVKarl Malone UTA 12/21/2001 UTA @ BOS L 42 22 8 15 53.3 0 0 - 6 8 75.0 2 11 13 4 3 0 2 0 -10
+p590
+aVBryon Russell UTA 12/21/2001 UTA @ BOS L 20 10 4 8 50.0 2 5 40.0 0 0 - 0 0 0 2 0 0 2 3 11
+p591
+aVJohn Stockton UTA 12/21/2001 UTA @ BOS L 28 12 5 7 71.4 0 2 0.0 2 3 66.7 1 3 4 7 3 0 2 2 -14
+p592
+aVJarron Collins UTA 12/21/2001 UTA @ BOS L 30 10 4 8 50.0 0 0 - 2 2 100.0 2 2 4 3 0 0 1 3 -10
+p593
+aVJohn Stockton UTA 12/19/2001 UTA @ ORL L 33 10 3 7 42.9 0 0 - 4 5 80.0 1 1 2 7 4 0 2 2 -8
+p594
+aVGreg Ostertag UTA 12/19/2001 UTA @ ORL L 13 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 1 0 3 -7
+p595
+aVJohn Amaechi UTA 12/19/2001 UTA @ ORL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p596
+aVJarron Collins UTA 12/19/2001 UTA @ ORL L 18 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 0 3 -4
+p597
+aVScott Padgett UTA 12/19/2001 UTA @ ORL L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 2
+p598
+aVJohn Starks UTA 12/19/2001 UTA @ ORL L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -3
+p599
+aVKarl Malone UTA 12/19/2001 UTA @ ORL L 40 28 11 25 44.0 0 1 0.0 6 7 85.7 2 7 9 3 3 0 4 3 -1
+p600
+aVAndrei Kirilenko UTA 12/19/2001 UTA @ ORL L 28 9 1 8 12.5 0 2 0.0 7 9 77.8 2 2 4 0 0 1 0 0 -4
+p601
+aVDeShawn Stevenson UTA 12/19/2001 UTA @ ORL L 26 4 2 4 50.0 0 0 - 0 0 - 1 1 2 3 0 0 3 3 3
+p602
+aVDonyell Marshall UTA 12/19/2001 UTA @ ORL L 42 24 10 19 52.6 1 3 33.3 3 3 100.0 6 14 20 1 2 1 2 1 -10
+p603
+aVJohn Crotty UTA 12/19/2001 UTA @ ORL L 25 10 2 4 50.0 0 1 0.0 6 6 100.0 1 1 2 4 0 0 3 6 -9
+p604
+aVJohn Stockton UTA 12/18/2001 UTA @ MIA W 22 3 1 1 100.0 0 0 - 1 1 100.0 1 1 2 2 1 0 0 0 10
+p605
+aVAndrei Kirilenko UTA 12/18/2001 UTA @ MIA W 24 8 2 6 33.3 2 2 100.0 2 2 100.0 1 4 5 2 0 2 3 3 31
+p606
+aVScott Padgett UTA 12/18/2001 UTA @ MIA W 7 4 2 4 50.0 0 1 0.0 0 0 - 2 2 4 1 0 0 0 0 9
+p607
+aVJohn Starks UTA 12/18/2001 UTA @ MIA W 13 5 2 8 25.0 1 2 50.0 0 0 - 0 2 2 1 1 0 0 1 20
+p608
+aVJarron Collins UTA 12/18/2001 UTA @ MIA W 10 3 0 3 0.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 4 12
+p609
+aVDonyell Marshall UTA 12/18/2001 UTA @ MIA W 34 21 7 10 70.0 0 1 0.0 7 8 87.5 3 10 13 4 1 4 3 2 21
+p610
+aVGreg Ostertag UTA 12/18/2001 UTA @ MIA W 33 5 2 4 50.0 0 0 - 1 2 50.0 4 3 7 4 0 4 0 1 20
+p611
+aVJohn Crotty UTA 12/18/2001 UTA @ MIA W 26 15 6 6 100.0 2 2 100.0 1 1 100.0 1 6 7 2 1 0 3 2 29
+p612
+aVKarl Malone UTA 12/18/2001 UTA @ MIA W 31 21 7 21 33.3 0 0 - 7 10 70.0 1 7 8 5 1 0 2 1 17
+p613
+aVDeShawn Stevenson UTA 12/18/2001 UTA @ MIA W 32 10 5 10 50.0 0 0 - 0 0 - 2 6 8 4 0 0 1 1 15
+p614
+aVQuincy Lewis UTA 12/18/2001 UTA @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 4
+p615
+aVJohn Amaechi UTA 12/18/2001 UTA @ MIA W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 7
+p616
+aVQuincy Lewis UTA 12/15/2001 UTA @ SAS L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 1 -5
+p617
+aVJohn Crotty UTA 12/15/2001 UTA @ SAS L 22 0 0 5 0.0 0 4 0.0 0 0 - 0 1 1 3 0 0 4 0 -12
+p618
+aVScott Padgett UTA 12/15/2001 UTA @ SAS L 19 5 1 3 33.3 0 1 0.0 3 4 75.0 2 1 3 2 1 0 1 3 -1
+p619
+aVJohn Starks UTA 12/15/2001 UTA @ SAS L 5 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p620
+aVGreg Ostertag UTA 12/15/2001 UTA @ SAS L 9 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 -11
+p621
+aVJarron Collins UTA 12/15/2001 UTA @ SAS L 25 4 1 6 16.7 0 0 - 2 2 100.0 2 1 3 1 1 1 1 6 -5
+p622
+aVJohn Amaechi UTA 12/15/2001 UTA @ SAS L 8 1 0 0 - 0 0 - 1 2 50.0 2 2 4 0 0 0 1 0 -7
+p623
+aVDonyell Marshall UTA 12/15/2001 UTA @ SAS L 18 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 0 3 3 -10
+p624
+aVJohn Stockton UTA 12/15/2001 UTA @ SAS L 26 5 1 5 20.0 0 1 0.0 3 4 75.0 0 2 2 8 1 0 1 1 -8
+p625
+aVAndrei Kirilenko UTA 12/15/2001 UTA @ SAS L 23 15 5 9 55.6 0 0 - 5 6 83.3 4 6 10 0 0 0 1 2 -7
+p626
+aVKarl Malone UTA 12/15/2001 UTA @ SAS L 33 31 12 24 50.0 0 0 - 7 7 100.0 1 7 8 1 2 0 3 2 -18
+p627
+aVDeShawn Stevenson UTA 12/15/2001 UTA @ SAS L 40 14 7 12 58.3 0 1 0.0 0 0 - 1 1 2 1 0 1 1 0 -10
+p628
+aVDonyell Marshall UTA 12/14/2001 UTA vs. POR W 41 25 9 17 52.9 0 2 0.0 7 8 87.5 2 6 8 2 0 1 1 1 1
+p629
+aVKarl Malone UTA 12/14/2001 UTA vs. POR W 39 24 9 18 50.0 0 0 - 6 9 66.7 4 9 13 6 2 1 2 3 20
+p630
+aVDeShawn Stevenson UTA 12/14/2001 UTA vs. POR W 21 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 0 1 2 3 5
+p631
+aVJohn Crotty UTA 12/14/2001 UTA vs. POR W 24 2 1 4 25.0 0 1 0.0 0 1 0.0 1 1 2 4 1 0 1 1 -4
+p632
+aVAndrei Kirilenko UTA 12/14/2001 UTA vs. POR W 13 5 1 7 14.3 0 0 - 3 3 100.0 5 1 6 0 0 0 2 3 10
+p633
+aVQuincy Lewis UTA 12/14/2001 UTA vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p634
+aVScott Padgett UTA 12/14/2001 UTA vs. POR W 4 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 0 0 0 0 0 -9
+p635
+aVJohn Starks UTA 12/14/2001 UTA vs. POR W 23 9 3 7 42.9 3 5 60.0 0 0 - 1 1 2 6 0 0 2 4 5
+p636
+aVGreg Ostertag UTA 12/14/2001 UTA vs. POR W 21 4 2 5 40.0 0 0 - 0 0 - 3 4 7 1 2 2 0 3 -1
+p637
+aVJohn Stockton UTA 12/14/2001 UTA vs. POR W 29 13 4 6 66.7 1 1 100.0 4 5 80.0 0 1 1 6 2 0 2 3 10
+p638
+aVJohn Amaechi UTA 12/14/2001 UTA vs. POR W 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -15
+p639
+aVJarron Collins UTA 12/14/2001 UTA vs. POR W 17 3 0 3 0.0 0 0 - 3 4 75.0 1 3 4 1 0 1 0 3 15
+p640
+aVDeShawn Stevenson UTA 12/12/2001 UTA vs. MIN L 25 16 5 8 62.5 0 0 - 6 7 85.7 1 2 3 0 0 1 2 1 -10
+p641
+aVJohn Starks UTA 12/12/2001 UTA vs. MIN L 18 7 2 3 66.7 1 1 100.0 2 2 100.0 0 2 2 2 1 0 2 1 12
+p642
+aVJohn Crotty UTA 12/12/2001 UTA vs. MIN L 13 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 1 -10
+p643
+aVGreg Ostertag UTA 12/12/2001 UTA vs. MIN L 18 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -8
+p644
+aVKarl Malone UTA 12/12/2001 UTA vs. MIN L 36 20 6 13 46.2 0 0 - 8 9 88.9 0 2 2 4 3 0 3 2 -11
+p645
+aVScott Padgett UTA 12/12/2001 UTA vs. MIN L 12 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 0 1 0 1 1 -7
+p646
+aVJohn Stockton UTA 12/12/2001 UTA vs. MIN L 31 10 5 12 41.7 0 2 0.0 0 0 - 0 3 3 7 1 0 3 1 -7
+p647
+aVQuincy Lewis UTA 12/12/2001 UTA vs. MIN L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -7
+p648
+aVDonyell Marshall UTA 12/12/2001 UTA vs. MIN L 36 10 5 11 45.5 0 0 - 0 0 - 3 3 6 1 0 1 2 2 -7
+p649
+aVJohn Amaechi UTA 12/12/2001 UTA vs. MIN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 6
+p650
+aVAndrei Kirilenko UTA 12/12/2001 UTA vs. MIN L 30 11 3 8 37.5 0 1 0.0 5 8 62.5 3 7 10 1 1 0 3 2 2
+p651
+aVJarron Collins UTA 12/12/2001 UTA vs. MIN L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p652
+aVJarron Collins UTA 12/10/2001 UTA vs. DAL W 21 0 0 3 0.0 0 0 - 0 0 - 3 3 6 1 1 0 0 4 -15
+p653
+aVAndrei Kirilenko UTA 12/10/2001 UTA vs. DAL W 30 16 3 8 37.5 1 3 33.3 9 11 81.8 3 2 5 0 6 3 0 2 22
+p654
+aVDeShawn Stevenson UTA 12/10/2001 UTA vs. DAL W 20 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 0 0 0 2 0 -6
+p655
+aVKarl Malone UTA 12/10/2001 UTA vs. DAL W 42 30 9 17 52.9 0 0 - 12 16 75.0 1 11 12 5 0 0 1 3 16
+p656
+aVDonyell Marshall UTA 12/10/2001 UTA vs. DAL W 35 17 6 12 50.0 0 0 - 5 5 100.0 2 5 7 1 1 0 1 5 8
+p657
+aVJohn Starks UTA 12/10/2001 UTA vs. DAL W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p658
+aVJohn Stockton UTA 12/10/2001 UTA vs. DAL W 33 21 8 15 53.3 1 3 33.3 4 4 100.0 1 0 1 12 0 0 1 3 8
+p659
+aVJohn Amaechi UTA 12/10/2001 UTA vs. DAL W 5 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 1 1 0 -1
+p660
+aVQuincy Lewis UTA 12/10/2001 UTA vs. DAL W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p661
+aVJohn Crotty UTA 12/10/2001 UTA vs. DAL W 31 6 1 5 20.0 0 3 0.0 4 4 100.0 0 2 2 6 0 1 1 2 20
+p662
+aVScott Padgett UTA 12/10/2001 UTA vs. DAL W 10 9 3 5 60.0 2 3 66.7 1 2 50.0 1 1 2 0 0 0 0 2 -3
+p663
+aVDeShawn Stevenson UTA 12/08/2001 UTA vs. GSW W 19 6 3 6 50.0 0 0 - 0 0 - 1 2 3 2 0 0 1 1 3
+p664
+aVGreg Ostertag UTA 12/08/2001 UTA vs. GSW W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 1 4 -4
+p665
+aVKarl Malone UTA 12/08/2001 UTA vs. GSW W 40 39 14 27 51.9 0 0 - 11 12 91.7 3 4 7 5 1 4 1 5 16
+p666
+aVDonyell Marshall UTA 12/08/2001 UTA vs. GSW W 37 21 8 14 57.1 0 0 - 5 6 83.3 3 6 9 2 0 3 1 2 9
+p667
+aVJohn Amaechi UTA 12/08/2001 UTA vs. GSW W 8 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 4 2 -6
+p668
+aVJohn Starks UTA 12/08/2001 UTA vs. GSW W 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 2 2 5
+p669
+aVQuincy Lewis UTA 12/08/2001 UTA vs. GSW W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 3
+p670
+aVJarron Collins UTA 12/08/2001 UTA vs. GSW W 17 8 4 5 80.0 0 0 - 0 0 - 2 1 3 1 0 0 0 5 10
+p671
+aVScott Padgett UTA 12/08/2001 UTA vs. GSW W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 0
+p672
+aVJohn Stockton UTA 12/08/2001 UTA vs. GSW W 34 15 5 11 45.5 0 1 0.0 5 5 100.0 0 3 3 13 4 0 2 3 11
+p673
+aVAndrei Kirilenko UTA 12/08/2001 UTA vs. GSW W 26 8 3 6 50.0 2 2 100.0 0 0 - 2 4 6 1 2 3 3 0 5
+p674
+aVJohn Crotty UTA 12/08/2001 UTA vs. GSW W 19 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 0 0 -2
+p675
+aVQuincy Lewis UTA 12/07/2001 UTA @ LAC W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -2
+p676
+aVKarl Malone UTA 12/07/2001 UTA @ LAC W 37 29 10 16 62.5 0 0 - 9 10 90.0 2 6 8 7 0 0 1 4 18
+p677
+aVJohn Crotty UTA 12/07/2001 UTA @ LAC W 20 5 1 6 16.7 1 3 33.3 2 2 100.0 1 1 2 2 0 0 0 1 9
+p678
+aVDeShawn Stevenson UTA 12/07/2001 UTA @ LAC W 30 3 1 7 14.3 0 1 0.0 1 2 50.0 3 2 5 9 1 0 1 2 19
+p679
+aVGreg Ostertag UTA 12/07/2001 UTA @ LAC W 4 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 -4
+p680
+aVDonyell Marshall UTA 12/07/2001 UTA @ LAC W 34 29 13 20 65.0 0 1 0.0 3 5 60.0 2 4 6 1 2 0 2 4 6
+p681
+aVJarron Collins UTA 12/07/2001 UTA @ LAC W 22 0 0 4 0.0 0 0 - 0 2 0.0 4 2 6 1 0 0 0 2 -15
+p682
+aVScott Padgett UTA 12/07/2001 UTA @ LAC W 19 10 3 7 42.9 0 1 0.0 4 4 100.0 1 3 4 2 1 0 1 3 25
+p683
+aVAndrei Kirilenko UTA 12/07/2001 UTA @ LAC W 27 11 3 9 33.3 1 5 20.0 4 6 66.7 2 4 6 0 1 4 2 5 18
+p684
+aVJohn Starks UTA 12/07/2001 UTA @ LAC W 8 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 2 -4
+p685
+aVJohn Stockton UTA 12/07/2001 UTA @ LAC W 33 13 3 7 42.9 1 3 33.3 6 7 85.7 2 4 6 7 0 0 1 2 10
+p686
+aVGreg Ostertag UTA 12/04/2001 UTA vs. CHH W 14 4 2 3 66.7 0 0 - 0 2 0.0 2 1 3 0 0 4 0 4 -7
+p687
+aVJarron Collins UTA 12/04/2001 UTA vs. CHH W 20 6 1 3 33.3 0 0 - 4 6 66.7 1 3 4 0 0 0 1 3 -5
+p688
+aVAndrei Kirilenko UTA 12/04/2001 UTA vs. CHH W 37 19 6 9 66.7 1 2 50.0 6 8 75.0 2 5 7 0 0 5 2 0 9
+p689
+aVScott Padgett UTA 12/04/2001 UTA vs. CHH W 21 8 3 5 60.0 2 2 100.0 0 0 - 1 2 3 1 1 1 1 0 12
+p690
+aVKarl Malone UTA 12/04/2001 UTA vs. CHH W 43 22 10 24 41.7 0 0 - 2 3 66.7 2 6 8 4 1 1 0 3 6
+p691
+aVJohn Starks UTA 12/04/2001 UTA vs. CHH W 17 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 2 0 0 1 2 -15
+p692
+aVJohn Crotty UTA 12/04/2001 UTA vs. CHH W 22 7 3 6 50.0 1 2 50.0 0 0 - 1 3 4 4 0 0 1 2 5
+p693
+aVJohn Stockton UTA 12/04/2001 UTA vs. CHH W 36 19 6 10 60.0 1 1 100.0 6 6 100.0 0 0 0 7 4 0 1 2 11
+p694
+aVQuincy Lewis UTA 12/04/2001 UTA vs. CHH W 13 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 0 1 1 3 3
+p695
+aVDeShawn Stevenson UTA 12/04/2001 UTA vs. CHH W 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 4
+p696
+aVJohn Amaechi UTA 12/04/2001 UTA vs. CHH W 9 6 1 4 25.0 0 0 - 4 4 100.0 2 1 3 1 0 0 2 1 -3
+p697
+aVGreg Ostertag UTA 12/01/2001 UTA vs. IND L 32 12 5 11 45.5 0 0 - 2 2 100.0 10 3 13 1 0 1 1 2 3
+p698
+aVKarl Malone UTA 12/01/2001 UTA vs. IND L 34 18 5 13 38.5 0 0 - 8 9 88.9 1 8 9 2 1 0 5 3 -3
+p699
+aVAndrei Kirilenko UTA 12/01/2001 UTA vs. IND L 33 13 4 8 50.0 1 2 50.0 4 7 57.1 4 6 10 0 1 2 0 6 0
+p700
+aVQuincy Lewis UTA 12/01/2001 UTA vs. IND L 15 7 3 10 30.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 1 4 -1
+p701
+aVScott Padgett UTA 12/01/2001 UTA vs. IND L 10 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 1 0 0 1 3 -4
+p702
+aVJohn Crotty UTA 12/01/2001 UTA vs. IND L 16 5 2 4 50.0 0 1 0.0 1 1 100.0 0 0 0 2 0 0 1 2 7
+p703
+aVJohn Stockton UTA 12/01/2001 UTA vs. IND L 32 13 5 12 41.7 0 4 0.0 3 3 100.0 1 5 6 11 2 0 5 4 -10
+p704
+aVDeShawn Stevenson UTA 12/01/2001 UTA vs. IND L 9 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 1 -3
+p705
+aVJohn Amaechi UTA 12/01/2001 UTA vs. IND L 10 3 1 7 14.3 0 0 - 1 2 50.0 2 2 4 0 0 0 1 1 -4
+p706
+aVJarron Collins UTA 12/01/2001 UTA vs. IND L 19 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 4 -2
+p707
+aVJohn Starks UTA 12/01/2001 UTA vs. IND L 31 13 5 10 50.0 2 5 40.0 1 2 50.0 0 1 1 0 2 0 1 2 2
+p708
+aVGreg Ostertag UTA 11/30/2001 UTA @ PHX L 11 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 2 0 2 -3
+p709
+aVJarron Collins UTA 11/30/2001 UTA @ PHX L 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 6 6
+p710
+aVScott Padgett UTA 11/30/2001 UTA @ PHX L 21 7 2 7 28.6 1 5 20.0 2 2 100.0 2 3 5 0 1 0 0 0 -10
+p711
+aVJohn Amaechi UTA 11/30/2001 UTA @ PHX L 14 3 1 6 16.7 0 0 - 1 2 50.0 3 1 4 1 0 0 3 1 -14
+p712
+aVJohn Starks UTA 11/30/2001 UTA @ PHX L 23 9 4 10 40.0 1 3 33.3 0 0 - 2 1 3 1 2 0 4 0 -23
+p713
+aVJohn Crotty UTA 11/30/2001 UTA @ PHX L 22 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 0 1 0 3 3 -5
+p714
+aVAndrei Kirilenko UTA 11/30/2001 UTA @ PHX L 22 8 4 6 66.7 0 1 0.0 0 0 - 1 2 3 0 0 2 1 0 -12
+p715
+aVDeShawn Stevenson UTA 11/30/2001 UTA @ PHX L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 2
+p716
+aVKarl Malone UTA 11/30/2001 UTA @ PHX L 29 15 6 17 35.3 0 0 - 3 4 75.0 0 8 8 4 3 4 3 1 -12
+p717
+aVDonyell Marshall UTA 11/30/2001 UTA @ PHX L 30 9 3 8 37.5 0 0 - 3 6 50.0 3 8 11 2 0 0 1 3 -21
+p718
+aVQuincy Lewis UTA 11/30/2001 UTA @ PHX L 16 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 2 1 0 2 4 -1
+p719
+aVJohn Stockton UTA 11/30/2001 UTA @ PHX L 26 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 7 1 0 4 2 -17
+p720
+aVJohn Stockton UTA 11/28/2001 UTA vs. SEA W 26 18 5 9 55.6 0 0 - 8 9 88.9 0 0 0 5 3 0 1 3 6
+p721
+aVDeShawn Stevenson UTA 11/28/2001 UTA vs. SEA W 4 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 1 0 0 -3
+p722
+aVJohn Starks UTA 11/28/2001 UTA vs. SEA W 26 11 5 11 45.5 1 5 20.0 0 0 - 0 1 1 1 1 0 1 3 14
+p723
+aVAndrei Kirilenko UTA 11/28/2001 UTA vs. SEA W 24 15 6 14 42.9 2 5 40.0 1 3 33.3 0 4 4 3 4 3 3 2 22
+p724
+aVGreg Ostertag UTA 11/28/2001 UTA vs. SEA W 19 8 4 4 100.0 0 0 - 0 0 - 3 5 8 2 0 6 0 4 20
+p725
+aVJohn Amaechi UTA 11/28/2001 UTA vs. SEA W 4 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -1
+p726
+aVQuincy Lewis UTA 11/28/2001 UTA vs. SEA W 22 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 3 1 0 0 2 10
+p727
+aVDonyell Marshall UTA 11/28/2001 UTA vs. SEA W 36 20 8 12 66.7 1 1 100.0 3 3 100.0 4 6 10 2 0 1 2 2 22
+p728
+aVKarl Malone UTA 11/28/2001 UTA vs. SEA W 32 19 8 12 66.7 0 0 - 3 3 100.0 0 6 6 3 1 1 5 2 6
+p729
+aVJohn Crotty UTA 11/28/2001 UTA vs. SEA W 19 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 7 1 0 0 2 19
+p730
+aVJarron Collins UTA 11/28/2001 UTA vs. SEA W 24 6 2 3 66.7 0 0 - 2 4 50.0 3 3 6 1 1 0 0 1 6
+p731
+aVScott Padgett UTA 11/28/2001 UTA vs. SEA W 4 4 1 1 100.0 0 0 - 2 3 66.7 1 0 1 0 0 0 0 0 -1
+p732
+aVJohn Stockton UTA 11/26/2001 UTA vs. PHX L 42 18 6 13 46.2 0 1 0.0 6 6 100.0 1 3 4 7 1 1 4 6 5
+p733
+aVJohn Crotty UTA 11/26/2001 UTA vs. PHX L 11 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 4 0 0 1 3 -12
+p734
+aVGreg Ostertag UTA 11/26/2001 UTA vs. PHX L 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 2
+p735
+aVJohn Amaechi UTA 11/26/2001 UTA vs. PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p736
+aVScott Padgett UTA 11/26/2001 UTA vs. PHX L 13 4 2 3 66.7 0 0 - 0 0 - 0 3 3 2 0 0 3 1 -1
+p737
+aVJarron Collins UTA 11/26/2001 UTA vs. PHX L 34 10 3 5 60.0 0 0 - 4 4 100.0 3 5 8 1 1 0 0 5 9
+p738
+aVKarl Malone UTA 11/26/2001 UTA vs. PHX L 48 27 10 28 35.7 0 0 - 7 12 58.3 2 8 10 6 2 1 3 3 0
+p739
+aVJohn Starks UTA 11/26/2001 UTA vs. PHX L 22 10 4 9 44.4 0 1 0.0 2 3 66.7 1 2 3 1 0 0 1 6 4
+p740
+aVQuincy Lewis UTA 11/26/2001 UTA vs. PHX L 20 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 1 1 0 1 5 6
+p741
+aVDonyell Marshall UTA 11/26/2001 UTA vs. PHX L 44 23 8 17 47.1 1 2 50.0 6 9 66.7 6 9 15 3 0 0 3 2 -9
+p742
+aVAndrei Kirilenko UTA 11/26/2001 UTA vs. PHX L 8 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 0 0 1 3 0 -11
+p743
+aVDeShawn Stevenson UTA 11/26/2001 UTA vs. PHX L 11 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -17
+p744
+aVJohn Stockton UTA 11/23/2001 UTA vs. LAC W 33 21 7 9 77.8 2 2 100.0 5 5 100.0 0 0 0 6 0 0 1 3 -3
+p745
+aVQuincy Lewis UTA 11/23/2001 UTA vs. LAC W 20 5 2 4 50.0 0 1 0.0 1 2 50.0 1 1 2 2 0 1 0 4 -12
+p746
+aVScott Padgett UTA 11/23/2001 UTA vs. LAC W 13 6 1 3 33.3 1 1 100.0 3 4 75.0 1 2 3 0 0 2 2 1 11
+p747
+aVJohn Crotty UTA 11/23/2001 UTA vs. LAC W 15 10 3 7 42.9 2 3 66.7 2 3 66.7 0 2 2 3 2 0 2 2 8
+p748
+aVJohn Starks UTA 11/23/2001 UTA vs. LAC W 11 1 0 4 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 2 6
+p749
+aVGreg Ostertag UTA 11/23/2001 UTA vs. LAC W 12 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 2 1 1 -7
+p750
+aVAndrei Kirilenko UTA 11/23/2001 UTA vs. LAC W 18 4 1 4 25.0 0 2 0.0 2 3 66.7 1 3 4 0 2 0 3 0 9
+p751
+aVJohn Amaechi UTA 11/23/2001 UTA vs. LAC W 15 8 0 2 0.0 0 0 - 8 8 100.0 0 1 1 0 0 1 0 0 -2
+p752
+aVKarl Malone UTA 11/23/2001 UTA vs. LAC W 38 24 7 15 46.7 0 1 0.0 10 10 100.0 1 5 6 6 3 2 6 2 -2
+p753
+aVDeShawn Stevenson UTA 11/23/2001 UTA vs. LAC W 18 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 1 11
+p754
+aVDonyell Marshall UTA 11/23/2001 UTA vs. LAC W 37 20 8 11 72.7 0 1 0.0 4 4 100.0 2 7 9 3 1 2 2 2 -3
+p755
+aVJarron Collins UTA 11/23/2001 UTA vs. LAC W 11 5 1 1 100.0 0 0 - 3 6 50.0 1 2 3 1 0 0 0 2 9
+p756
+aVKarl Malone UTA 11/21/2001 UTA vs. NJN L 45 34 13 25 52.0 0 2 0.0 8 12 66.7 2 10 12 4 3 0 5 4 4
+p757
+aVJohn Crotty UTA 11/21/2001 UTA vs. NJN L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 4 0 0 1 3 5
+p758
+aVScott Padgett UTA 11/21/2001 UTA vs. NJN L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p759
+aVJohn Starks UTA 11/21/2001 UTA vs. NJN L 21 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 1 0 3 1 -1
+p760
+aVAndrei Kirilenko UTA 11/21/2001 UTA vs. NJN L 15 2 0 2 0.0 0 0 - 2 4 50.0 2 4 6 1 2 2 1 2 -3
+p761
+aVDeShawn Stevenson UTA 11/21/2001 UTA vs. NJN L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 6
+p762
+aVJohn Amaechi UTA 11/21/2001 UTA vs. NJN L 15 5 2 8 25.0 0 0 - 1 1 100.0 3 2 5 0 2 0 0 1 -3
+p763
+aVDonyell Marshall UTA 11/21/2001 UTA vs. NJN L 44 27 12 22 54.5 1 2 50.0 2 3 66.7 5 6 11 2 3 2 3 2 -1
+p764
+aVJohn Stockton UTA 11/21/2001 UTA vs. NJN L 35 10 3 12 25.0 0 0 - 4 5 80.0 1 3 4 11 0 0 2 4 -6
+p765
+aVGreg Ostertag UTA 11/21/2001 UTA vs. NJN L 35 1 0 5 0.0 0 0 - 1 6 16.7 4 2 6 1 0 3 1 2 -3
+p766
+aVQuincy Lewis UTA 11/21/2001 UTA vs. NJN L 25 4 2 8 25.0 0 0 - 0 0 - 2 2 4 2 4 0 2 6 -6
+p767
+aVQuincy Lewis UTA 11/17/2001 UTA @ MIL L 30 4 2 7 28.6 0 3 0.0 0 1 0.0 0 1 1 1 0 0 0 6 10
+p768
+aVJohn Crotty UTA 11/17/2001 UTA @ MIL L 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -8
+p769
+aVDonyell Marshall UTA 11/17/2001 UTA @ MIL L 41 22 8 19 42.1 0 0 - 6 6 100.0 6 4 10 2 1 0 2 2 -13
+p770
+aVKarl Malone UTA 11/17/2001 UTA @ MIL L 43 30 13 25 52.0 1 2 50.0 3 4 75.0 2 8 10 2 2 0 3 2 0
+p771
+aVDeShawn Stevenson UTA 11/17/2001 UTA @ MIL L 17 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 3 0 0 1 2 -21
+p772
+aVGreg Ostertag UTA 11/17/2001 UTA @ MIL L 26 12 4 8 50.0 0 0 - 4 6 66.7 5 3 8 1 1 1 2 1 3
+p773
+aVAndrei Kirilenko UTA 11/17/2001 UTA @ MIL L 30 10 1 5 20.0 0 2 0.0 8 8 100.0 2 5 7 2 1 0 2 5 -13
+p774
+aVJohn Stockton UTA 11/17/2001 UTA @ MIL L 35 14 4 9 44.4 0 1 0.0 6 6 100.0 0 3 3 8 3 0 5 2 -3
+p775
+aVScott Padgett UTA 11/17/2001 UTA @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p776
+aVAndrei Kirilenko UTA 11/16/2001 UTA @ WAS W 16 6 3 4 75.0 0 0 - 0 0 - 2 3 5 2 1 4 0 4 10
+p777
+aVJohn Amaechi UTA 11/16/2001 UTA @ WAS W 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -10
+p778
+aVScott Padgett UTA 11/16/2001 UTA @ WAS W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 2 0 0 1 1 -2
+p779
+aVKarl Malone UTA 11/16/2001 UTA @ WAS W 42 30 10 21 47.6 0 0 - 10 11 90.9 2 10 12 4 3 1 2 4 10
+p780
+aVDeShawn Stevenson UTA 11/16/2001 UTA @ WAS W 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 1 0 0 -3
+p781
+aVJohn Stockton UTA 11/16/2001 UTA @ WAS W 35 8 3 8 37.5 1 2 50.0 1 2 50.0 1 3 4 17 0 1 2 1 17
+p782
+aVBryon Russell UTA 11/16/2001 UTA @ WAS W 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -11
+p783
+aVDonyell Marshall UTA 11/16/2001 UTA @ WAS W 39 28 12 16 75.0 0 1 0.0 4 6 66.7 2 4 6 0 0 0 6 4 18
+p784
+aVGreg Ostertag UTA 11/16/2001 UTA @ WAS W 17 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 3 1 1 9
+p785
+aVQuincy Lewis UTA 11/16/2001 UTA @ WAS W 32 18 7 12 58.3 0 1 0.0 4 4 100.0 1 2 3 1 0 1 1 4 15
+p786
+aVJohn Crotty UTA 11/16/2001 UTA @ WAS W 13 6 3 6 50.0 0 0 - 0 0 - 1 1 2 4 0 0 0 1 -8
+p787
+aVAndrei Kirilenko UTA 11/14/2001 UTA @ ATL L 24 9 3 15 20.0 1 4 25.0 2 2 100.0 2 2 4 0 2 2 1 2 -18
+p788
+aVQuincy Lewis UTA 11/14/2001 UTA @ ATL L 13 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 2 2 0 0 2 -5
+p789
+aVKarl Malone UTA 11/14/2001 UTA @ ATL L 28 7 2 5 40.0 0 0 - 3 4 75.0 1 5 6 3 0 0 5 3 -17
+p790
+aVJohn Starks UTA 11/14/2001 UTA @ ATL L 6 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 1 1 0 0 0 -11
+p791
+aVJohn Amaechi UTA 11/14/2001 UTA @ ATL L 20 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -15
+p792
+aVDonyell Marshall UTA 11/14/2001 UTA @ ATL L 27 14 6 11 54.5 0 0 - 2 2 100.0 2 2 4 1 1 1 4 2 -20
+p793
+aVJohn Crotty UTA 11/14/2001 UTA @ ATL L 25 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 3 0 0 3 2 -14
+p794
+aVBryon Russell UTA 11/14/2001 UTA @ ATL L 22 6 2 4 50.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 2 3 -22
+p795
+aVScott Padgett UTA 11/14/2001 UTA @ ATL L 15 7 3 4 75.0 1 2 50.0 0 0 - 1 1 2 0 1 0 0 2 -3
+p796
+aVDeShawn Stevenson UTA 11/14/2001 UTA @ ATL L 15 8 2 6 33.3 0 1 0.0 4 4 100.0 0 1 1 2 3 0 1 0 -2
+p797
+aVGreg Ostertag UTA 11/14/2001 UTA @ ATL L 21 9 4 6 66.7 0 0 - 1 2 50.0 2 1 3 0 0 1 2 0 -15
+p798
+aVJohn Stockton UTA 11/14/2001 UTA @ ATL L 23 5 1 5 20.0 0 1 0.0 3 4 75.0 0 0 0 5 4 0 3 3 -18
+p799
+aVBryon Russell UTA 11/12/2001 UTA vs. ORL W 35 9 3 5 60.0 1 2 50.0 2 2 100.0 0 6 6 1 1 0 2 1 9
+p800
+aVQuincy Lewis UTA 11/12/2001 UTA vs. ORL W 17 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -2
+p801
+aVJohn Stockton UTA 11/12/2001 UTA vs. ORL W 29 9 3 6 50.0 0 0 - 3 3 100.0 1 3 4 8 0 2 6 2 -6
+p802
+aVJohn Amaechi UTA 11/12/2001 UTA vs. ORL W 13 4 2 5 40.0 0 0 - 0 0 - 1 3 4 2 0 1 2 1 8
+p803
+aVJohn Crotty UTA 11/12/2001 UTA vs. ORL W 19 11 4 7 57.1 0 1 0.0 3 4 75.0 0 2 2 4 1 0 1 2 13
+p804
+aVDonyell Marshall UTA 11/12/2001 UTA vs. ORL W 24 10 5 13 38.5 0 0 - 0 0 - 5 4 9 3 1 1 1 2 -11
+p805
+aVGreg Ostertag UTA 11/12/2001 UTA vs. ORL W 35 14 4 9 44.4 0 0 - 6 10 60.0 3 9 12 3 0 8 0 2 12
+p806
+aVJohn Starks UTA 11/12/2001 UTA vs. ORL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p807
+aVAndrei Kirilenko UTA 11/12/2001 UTA vs. ORL W 25 13 3 6 50.0 0 1 0.0 7 8 87.5 2 6 8 2 2 4 1 2 11
+p808
+aVKarl Malone UTA 11/12/2001 UTA vs. ORL W 38 29 10 23 43.5 0 0 - 9 12 75.0 3 6 9 4 2 1 3 2 7
+p809
+aVJohn Crotty UTA 11/10/2001 UTA vs. TOR L 16 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 4 1 -17
+p810
+aVDonyell Marshall UTA 11/10/2001 UTA vs. TOR L 35 26 10 11 90.9 0 0 - 6 8 75.0 6 3 9 1 1 2 4 4 -3
+p811
+aVScott Padgett UTA 11/10/2001 UTA vs. TOR L 17 5 2 4 50.0 0 1 0.0 1 1 100.0 1 5 6 3 1 0 1 4 1
+p812
+aVAndrei Kirilenko UTA 11/10/2001 UTA vs. TOR L 19 11 3 4 75.0 0 0 - 5 6 83.3 1 2 3 0 0 1 3 2 -23
+p813
+aVJohn Stockton UTA 11/10/2001 UTA vs. TOR L 32 12 3 7 42.9 0 0 - 6 6 100.0 0 3 3 6 2 0 5 3 -4
+p814
+aVQuincy Lewis UTA 11/10/2001 UTA vs. TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 2 0 0 2 -1
+p815
+aVKarl Malone UTA 11/10/2001 UTA vs. TOR L 36 23 9 13 69.2 0 0 - 5 6 83.3 0 9 9 5 1 1 4 3 -21
+p816
+aVJohn Amaechi UTA 11/10/2001 UTA vs. TOR L 15 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 0 0 1 1 3 -8
+p817
+aVBryon Russell UTA 11/10/2001 UTA vs. TOR L 29 2 0 7 0.0 0 1 0.0 2 2 100.0 0 4 4 4 0 0 1 2 -16
+p818
+aVGreg Ostertag UTA 11/10/2001 UTA vs. TOR L 18 1 0 4 0.0 0 0 - 1 2 50.0 3 4 7 2 0 0 1 3 -15
+p819
+aVJohn Starks UTA 11/10/2001 UTA vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 0
+p820
+aVDeShawn Stevenson UTA 11/10/2001 UTA vs. TOR L 14 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 2
+p821
+aVJohn Amaechi UTA 11/07/2001 UTA vs. ATL W 19 8 2 7 28.6 0 0 - 4 6 66.7 3 4 7 0 0 2 2 3 -2
+p822
+aVKarl Malone UTA 11/07/2001 UTA vs. ATL W 39 27 10 23 43.5 1 1 100.0 6 7 85.7 3 6 9 3 2 2 6 3 7
+p823
+aVDonyell Marshall UTA 11/07/2001 UTA vs. ATL W 39 24 11 13 84.6 0 0 - 2 3 66.7 4 4 8 2 1 2 1 3 -3
+p824
+aVJohn Crotty UTA 11/07/2001 UTA vs. ATL W 16 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 5 0 0 0 3 -6
+p825
+aVAndrei Kirilenko UTA 11/07/2001 UTA vs. ATL W 16 2 1 5 20.0 0 0 - 0 0 - 0 4 4 1 1 0 1 1 9
+p826
+aVJohn Starks UTA 11/07/2001 UTA vs. ATL W 19 6 3 9 33.3 0 0 - 0 0 - 0 1 1 2 2 0 0 3 4
+p827
+aVJohn Stockton UTA 11/07/2001 UTA vs. ATL W 32 9 2 7 28.6 0 0 - 5 6 83.3 0 3 3 11 1 1 2 2 13
+p828
+aVQuincy Lewis UTA 11/07/2001 UTA vs. ATL W 17 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 0 0 1 2 0
+p829
+aVGreg Ostertag UTA 11/07/2001 UTA vs. ATL W 16 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 3 0 2 2
+p830
+aVBryon Russell UTA 11/07/2001 UTA vs. ATL W 27 8 2 8 25.0 1 5 20.0 3 3 100.0 1 3 4 3 2 1 2 3 11
+p831
+aVJohn Crotty UTA 11/06/2001 UTA @ POR L 17 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 4 0 0 1 0 -5
+p832
+aVScott Padgett UTA 11/06/2001 UTA @ POR L 8 3 0 1 0.0 0 1 0.0 3 4 75.0 0 1 1 1 2 0 0 0 1
+p833
+aVDeShawn Stevenson UTA 11/06/2001 UTA @ POR L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p834
+aVQuincy Lewis UTA 11/06/2001 UTA @ POR L 19 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 0 0 1 1 3 -16
+p835
+aVKarl Malone UTA 11/06/2001 UTA @ POR L 33 14 5 12 41.7 0 0 - 4 4 100.0 0 5 5 0 1 0 8 2 -21
+p836
+aVJohn Starks UTA 11/06/2001 UTA @ POR L 10 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 3
+p837
+aVGreg Ostertag UTA 11/06/2001 UTA @ POR L 15 3 1 2 50.0 0 0 - 1 2 50.0 3 0 3 1 0 0 0 3 -12
+p838
+aVJohn Stockton UTA 11/06/2001 UTA @ POR L 31 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 6 0 0 2 2 -13
+p839
+aVAndrei Kirilenko UTA 11/06/2001 UTA @ POR L 23 5 1 2 50.0 0 0 - 3 4 75.0 0 3 3 3 0 2 1 2 5
+p840
+aVBryon Russell UTA 11/06/2001 UTA @ POR L 29 14 6 10 60.0 2 4 50.0 0 0 - 2 4 6 1 2 0 2 6 -3
+p841
+aVDonyell Marshall UTA 11/06/2001 UTA @ POR L 32 15 4 8 50.0 1 1 100.0 6 8 75.0 0 1 1 1 1 0 2 1 -21
+p842
+aVJohn Amaechi UTA 11/06/2001 UTA @ POR L 17 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 0 0 2 0 -1
+p843
+aVAndrei Kirilenko UTA 11/04/2001 UTA @ LAL L 25 11 2 8 25.0 1 3 33.3 6 8 75.0 2 5 7 0 0 2 0 5 -8
+p844
+aVDonyell Marshall UTA 11/04/2001 UTA @ LAL L 37 14 6 7 85.7 0 0 - 2 5 40.0 1 6 7 4 3 0 1 4 -6
+p845
+aVGreg Ostertag UTA 11/04/2001 UTA @ LAL L 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 3 1 4 7
+p846
+aVJohn Crotty UTA 11/04/2001 UTA @ LAL L 13 8 2 4 50.0 1 1 100.0 3 4 75.0 0 0 0 3 0 0 1 1 -5
+p847
+aVScott Padgett UTA 11/04/2001 UTA @ LAL L 1 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -2
+p848
+aVJohn Stockton UTA 11/04/2001 UTA @ LAL L 35 10 4 12 33.3 0 2 0.0 2 2 100.0 2 4 6 6 1 1 6 4 0
+p849
+aVKarl Malone UTA 11/04/2001 UTA @ LAL L 30 26 11 16 68.8 0 0 - 4 6 66.7 1 2 3 1 1 0 3 6 -1
+p850
+aVBryon Russell UTA 11/04/2001 UTA @ LAL L 29 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 6 0 0 5 5 -11
+p851
+aVQuincy Lewis UTA 11/04/2001 UTA @ LAL L 17 10 5 6 83.3 0 0 - 0 2 0.0 1 2 3 3 3 0 1 2 11
+p852
+aVJohn Amaechi UTA 11/04/2001 UTA @ LAL L 30 10 3 9 33.3 0 0 - 4 8 50.0 3 3 6 0 0 0 1 3 -10
+p853
+aVJohn Starks UTA 11/04/2001 UTA @ LAL L 9 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 5
+p854
+aVJohn Starks UTA 11/03/2001 UTA @ SEA W 7 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 2 3
+p855
+aVJohn Stockton UTA 11/03/2001 UTA @ SEA W 35 4 2 2 100.0 0 0 - 0 0 - 0 0 0 14 1 0 4 3 4
+p856
+aVQuincy Lewis UTA 11/03/2001 UTA @ SEA W 18 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 2 1 1 2 -3
+p857
+aVJohn Crotty UTA 11/03/2001 UTA @ SEA W 13 5 1 1 100.0 0 0 - 3 3 100.0 1 0 1 2 1 0 0 2 13
+p858
+aVAndrei Kirilenko UTA 11/03/2001 UTA @ SEA W 30 8 4 7 57.1 0 0 - 0 2 0.0 5 5 10 1 1 1 0 3 19
+p859
+aVGreg Ostertag UTA 11/03/2001 UTA @ SEA W 12 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 -6
+p860
+aVKarl Malone UTA 11/03/2001 UTA @ SEA W 40 28 9 21 42.9 0 0 - 10 13 76.9 1 10 11 5 4 0 7 3 15
+p861
+aVScott Padgett UTA 11/03/2001 UTA @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p862
+aVDonyell Marshall UTA 11/03/2001 UTA @ SEA W 39 23 9 19 47.4 1 3 33.3 4 7 57.1 6 7 13 2 1 2 4 1 15
+p863
+aVJohn Amaechi UTA 11/03/2001 UTA @ SEA W 17 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 0 0 2 1 7
+p864
+aVBryon Russell UTA 11/03/2001 UTA @ SEA W 28 11 4 9 44.4 1 3 33.3 2 4 50.0 1 3 4 1 1 0 1 2 18
+p865
+aVAndrei Kirilenko UTA 11/01/2001 UTA vs. LAL L 21 15 5 10 50.0 1 2 50.0 4 7 57.1 1 3 4 0 1 2 1 0 12
+p866
+aVJohn Amaechi UTA 11/01/2001 UTA vs. LAL L 17 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 2 0 1 2 5 -1
+p867
+aVKarl Malone UTA 11/01/2001 UTA vs. LAL L 43 16 5 13 38.5 0 0 - 6 7 85.7 1 9 10 2 2 2 4 5 -2
+p868
+aVGreg Ostertag UTA 11/01/2001 UTA vs. LAL L 17 6 1 5 20.0 0 0 - 4 6 66.7 2 1 3 0 0 0 0 2 -12
+p869
+aVBryon Russell UTA 11/01/2001 UTA vs. LAL L 28 9 3 5 60.0 1 1 100.0 2 2 100.0 2 8 10 2 0 0 1 5 9
+p870
+aVJohn Stockton UTA 11/01/2001 UTA vs. LAL L 30 19 8 12 66.7 0 1 0.0 3 3 100.0 0 4 4 11 3 1 4 2 4
+p871
+aVJohn Starks UTA 11/01/2001 UTA vs. LAL L 17 2 0 8 0.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 0 1 -3
+p872
+aVQuincy Lewis UTA 11/01/2001 UTA vs. LAL L 15 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 0 1 1 1 4 -4
+p873
+aVJohn Crotty UTA 11/01/2001 UTA vs. LAL L 18 6 1 5 20.0 0 1 0.0 4 6 66.7 2 4 6 2 0 0 1 2 -8
+p874
+aVDonyell Marshall UTA 11/01/2001 UTA vs. LAL L 33 16 7 11 63.6 0 1 0.0 2 3 66.7 4 4 8 2 2 2 2 4 -15
+p875
+aVQuincy Lewis UTA 10/30/2001 UTA vs. MIL L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 2 -5
+p876
+aVAndrei Kirilenko UTA 10/30/2001 UTA vs. MIL L 16 6 2 4 50.0 0 1 0.0 2 2 100.0 1 4 5 0 1 0 0 3 15
+p877
+aVJohn Crotty UTA 10/30/2001 UTA vs. MIL L 11 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 5 0 0 1 2 7
+p878
+aVJohn Amaechi UTA 10/30/2001 UTA vs. MIL L 23 10 3 6 50.0 0 0 - 4 7 57.1 1 4 5 1 0 1 2 2 6
+p879
+aVGreg Ostertag UTA 10/30/2001 UTA vs. MIL L 19 8 3 5 60.0 0 0 - 2 3 66.7 1 6 7 0 0 3 1 3 -5
+p880
+aVJohn Stockton UTA 10/30/2001 UTA vs. MIL L 42 18 8 15 53.3 0 2 0.0 2 2 100.0 3 0 3 14 3 0 7 0 -14
+p881
+aVKarl Malone UTA 10/30/2001 UTA vs. MIL L 43 15 4 12 33.3 0 0 - 7 7 100.0 0 8 8 5 1 0 2 2 -13
+p882
+aVDonyell Marshall UTA 10/30/2001 UTA vs. MIL L 27 12 6 9 66.7 0 0 - 0 0 - 4 3 7 1 1 0 4 2 -20
+p883
+aVBryon Russell UTA 10/30/2001 UTA vs. MIL L 35 11 4 10 40.0 3 8 37.5 0 0 - 0 3 3 4 2 0 0 3 -2
+p884
+aVJohn Starks UTA 10/30/2001 UTA vs. MIL L 39 20 8 13 61.5 2 4 50.0 2 2 100.0 1 2 3 4 0 0 1 5 -4
+p885
+a.

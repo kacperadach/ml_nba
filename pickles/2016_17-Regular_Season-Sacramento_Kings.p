@@ -1,0 +1,922 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVWillie Cauley-Stein SAC 01/23/2017 SAC @ DET W 21 12 5 8 62.5 0 0 - 2 2 100.0 3 2 5 0 1 1 0 0 9
+p2
+aVAnthony Tolliver SAC 01/23/2017 SAC @ DET W 24 6 2 4 50.0 1 2 50.0 1 2 50.0 1 1 2 1 1 0 0 1 9
+p3
+aVArron Afflalo SAC 01/23/2017 SAC @ DET W 29 6 2 9 22.2 2 7 28.6 0 0 - 0 2 2 2 0 0 0 0 11
+p4
+aVTy Lawson SAC 01/23/2017 SAC @ DET W 23 19 7 11 63.6 1 2 50.0 4 4 100.0 2 1 3 6 1 0 0 2 -5
+p5
+aVKosta Koufos SAC 01/23/2017 SAC @ DET W 12 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -4
+p6
+aVDarren Collison SAC 01/23/2017 SAC @ DET W 26 12 4 5 80.0 2 2 100.0 2 2 100.0 0 4 4 3 1 0 3 1 7
+p7
+aVMatt Barnes SAC 01/23/2017 SAC @ DET W 25 10 4 9 44.4 1 3 33.3 1 1 100.0 1 7 8 2 1 0 2 3 -3
+p8
+aVGarrett Temple SAC 01/23/2017 SAC @ DET W 34 11 3 6 50.0 1 2 50.0 4 5 80.0 1 2 3 4 1 0 2 3 2
+p9
+aVDeMarcus Cousins SAC 01/23/2017 SAC @ DET W 32 22 8 21 38.1 1 3 33.3 5 8 62.5 2 12 14 6 2 2 6 2 -4
+p10
+aVMalachi Richardson SAC 01/23/2017 SAC @ DET W 14 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 0 3
+p11
+aVGarrett Temple SAC 01/21/2017 SAC @ CHI L 30 8 3 9 33.3 1 4 25.0 1 2 50.0 0 3 3 3 2 1 2 5 7
+p12
+aVMatt Barnes SAC 01/21/2017 SAC @ CHI L 21 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 1 0 0 1 2 -5
+p13
+aVTy Lawson SAC 01/21/2017 SAC @ CHI L 23 8 2 7 28.6 0 0 - 4 5 80.0 1 2 3 6 1 0 3 2 -1
+p14
+aVDarren Collison SAC 01/21/2017 SAC @ CHI L 25 8 4 11 36.4 0 2 0.0 0 0 - 2 1 3 2 0 0 0 2 -2
+p15
+aVMalachi Richardson SAC 01/21/2017 SAC @ CHI L 8 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 0 2
+p16
+aVWillie Cauley-Stein SAC 01/21/2017 SAC @ CHI L 13 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 0 1 0 0 0 3
+p17
+aVArron Afflalo SAC 01/21/2017 SAC @ CHI L 35 9 3 9 33.3 3 4 75.0 0 0 - 1 0 1 4 1 1 0 4 -5
+p18
+aVDeMarcus Cousins SAC 01/21/2017 SAC @ CHI L 35 42 16 28 57.1 2 7 28.6 8 9 88.9 2 12 14 3 1 2 2 4 -6
+p19
+aVAnthony Tolliver SAC 01/21/2017 SAC @ CHI L 25 6 2 7 28.6 2 6 33.3 0 0 - 0 1 1 0 0 0 1 1 -11
+p20
+aVKosta Koufos SAC 01/21/2017 SAC @ CHI L 25 7 3 4 75.0 0 0 - 1 1 100.0 1 5 6 1 1 1 0 3 3
+p21
+aVDeMarcus Cousins SAC 01/20/2017 SAC @ MEM L 28 19 5 11 45.5 2 3 66.7 7 10 70.0 1 9 10 2 0 1 4 4 -4
+p22
+aVAnthony Tolliver SAC 01/20/2017 SAC @ MEM L 26 6 2 9 22.2 1 6 16.7 1 2 50.0 3 1 4 1 1 0 2 1 -21
+p23
+aVBen McLemore SAC 01/20/2017 SAC @ MEM L 12 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 3
+p24
+aVMalachi Richardson SAC 01/20/2017 SAC @ MEM L 6 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 0 4
+p25
+aVMatt Barnes SAC 01/20/2017 SAC @ MEM L 18 8 3 9 33.3 1 4 25.0 1 1 100.0 0 1 1 2 0 0 0 2 -19
+p26
+aVGarrett Temple SAC 01/20/2017 SAC @ MEM L 33 14 5 9 55.6 2 5 40.0 2 3 66.7 0 3 3 3 1 2 0 3 -14
+p27
+aVKosta Koufos SAC 01/20/2017 SAC @ MEM L 24 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 0 0 2 1 3 -14
+p28
+aVTy Lawson SAC 01/20/2017 SAC @ MEM L 23 13 4 10 40.0 0 2 0.0 5 7 71.4 0 4 4 5 1 0 1 1 -21
+p29
+aVWillie Cauley-Stein SAC 01/20/2017 SAC @ MEM L 12 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 1 1 0 3 3
+p30
+aVArron Afflalo SAC 01/20/2017 SAC @ MEM L 25 5 2 5 40.0 0 3 0.0 1 1 100.0 0 2 2 0 4 0 1 0 0
+p31
+aVSkal Labissiere SAC 01/20/2017 SAC @ MEM L 6 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 0 4
+p32
+aVDarren Collison SAC 01/20/2017 SAC @ MEM L 27 4 2 7 28.6 0 3 0.0 0 0 - 0 3 3 4 0 0 0 3 -1
+p33
+aVWillie Cauley-Stein SAC 01/18/2017 SAC vs. IND L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p34
+aVAnthony Tolliver SAC 01/18/2017 SAC vs. IND L 22 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 1 1 0 1 4 -9
+p35
+aVBen McLemore SAC 01/18/2017 SAC vs. IND L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -5
+p36
+aVArron Afflalo SAC 01/18/2017 SAC vs. IND L 31 11 3 6 50.0 2 4 50.0 3 3 100.0 0 1 1 1 0 1 1 3 -4
+p37
+aVGarrett Temple SAC 01/18/2017 SAC vs. IND L 29 9 4 8 50.0 1 5 20.0 0 0 - 1 3 4 3 0 0 1 4 -16
+p38
+aVDarren Collison SAC 01/18/2017 SAC vs. IND L 37 11 4 8 50.0 0 0 - 3 4 75.0 0 2 2 9 4 0 0 3 2
+p39
+aVDeMarcus Cousins SAC 01/18/2017 SAC vs. IND L 38 25 7 19 36.8 1 2 50.0 10 14 71.4 1 11 12 10 1 3 9 3 4
+p40
+aVRudy Gay SAC 01/18/2017 SAC vs. IND L 28 21 8 13 61.5 3 4 75.0 2 2 100.0 3 1 4 0 2 1 3 3 9
+p41
+aVKosta Koufos SAC 01/18/2017 SAC vs. IND L 24 11 5 8 62.5 0 0 - 1 2 50.0 1 3 4 0 1 0 2 0 5
+p42
+aVMatt Barnes SAC 01/18/2017 SAC vs. IND L 20 7 2 7 28.6 1 4 25.0 2 2 100.0 2 2 4 4 0 0 2 1 -15
+p43
+aVMatt Barnes SAC 01/15/2017 SAC vs. OKC L 27 7 3 6 50.0 1 2 50.0 0 0 - 4 4 8 3 1 0 2 5 -6
+p44
+aVDarren Collison SAC 01/15/2017 SAC vs. OKC L 27 21 7 9 77.8 2 3 66.7 5 6 83.3 0 1 1 2 2 0 1 4 11
+p45
+aVArron Afflalo SAC 01/15/2017 SAC vs. OKC L 18 7 2 5 40.0 1 1 100.0 2 2 100.0 0 3 3 0 0 1 4 1 -17
+p46
+aVRudy Gay SAC 01/15/2017 SAC vs. OKC L 36 22 6 18 33.3 2 5 40.0 8 9 88.9 2 8 10 2 2 2 3 4 10
+p47
+aVGarrett Temple SAC 01/15/2017 SAC vs. OKC L 24 8 3 6 50.0 0 2 0.0 2 2 100.0 0 4 4 3 0 0 0 2 4
+p48
+aVTy Lawson SAC 01/15/2017 SAC vs. OKC L 21 4 0 3 0.0 0 2 0.0 4 4 100.0 0 1 1 4 1 0 1 1 -15
+p49
+aVWillie Cauley-Stein SAC 01/15/2017 SAC vs. OKC L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -5
+p50
+aVAnthony Tolliver SAC 01/15/2017 SAC vs. OKC L 32 10 4 6 66.7 2 4 50.0 0 0 - 0 4 4 2 2 1 2 3 10
+p51
+aVKosta Koufos SAC 01/15/2017 SAC vs. OKC L 16 6 3 6 50.0 0 0 - 0 0 - 1 0 1 1 2 1 2 5 -9
+p52
+aVDeMarcus Cousins SAC 01/15/2017 SAC vs. OKC L 34 31 8 20 40.0 1 6 16.7 14 17 82.4 6 5 11 7 3 1 6 2 -3
+p53
+aVMalachi Richardson SAC 01/13/2017 SAC vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p54
+aVDeMarcus Cousins SAC 01/13/2017 SAC vs. CLE L 39 26 9 16 56.3 1 5 20.0 7 9 77.8 0 8 8 11 1 0 6 3 -2
+p55
+aVMatt Barnes SAC 01/13/2017 SAC vs. CLE L 18 8 4 8 50.0 0 4 0.0 0 0 - 1 4 5 0 0 0 1 3 8
+p56
+aVRudy Gay SAC 01/13/2017 SAC vs. CLE L 35 23 8 14 57.1 3 3 100.0 4 5 80.0 5 5 10 2 0 4 2 5 -12
+p57
+aVBen McLemore SAC 01/13/2017 SAC vs. CLE L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p58
+aVKosta Koufos SAC 01/13/2017 SAC vs. CLE L 6 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 1 -7
+p59
+aVOmri Casspi SAC 01/13/2017 SAC vs. CLE L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p60
+aVArron Afflalo SAC 01/13/2017 SAC vs. CLE L 17 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 1 0 2 2 -2
+p61
+aVAnthony Tolliver SAC 01/13/2017 SAC vs. CLE L 34 7 3 10 30.0 1 4 25.0 0 0 - 3 3 6 0 2 0 1 3 -15
+p62
+aVWillie Cauley-Stein SAC 01/13/2017 SAC vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p63
+aVGarrett Temple SAC 01/13/2017 SAC vs. CLE L 35 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 1 3 1 4 1 -12
+p64
+aVDarren Collison SAC 01/13/2017 SAC vs. CLE L 22 13 5 10 50.0 2 4 50.0 1 1 100.0 0 1 1 4 0 0 1 2 -15
+p65
+aVTy Lawson SAC 01/13/2017 SAC vs. CLE L 26 17 7 10 70.0 0 1 0.0 3 4 75.0 0 4 4 4 0 0 3 2 3
+p66
+aVArron Afflalo SAC 01/10/2017 SAC vs. DET W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -6
+p67
+aVDeMarcus Cousins SAC 01/10/2017 SAC vs. DET W 30 24 8 14 57.1 4 5 80.0 4 7 57.1 4 9 13 6 1 1 3 4 7
+p68
+aVTy Lawson SAC 01/10/2017 SAC vs. DET W 24 8 2 9 22.2 1 2 50.0 3 4 75.0 0 1 1 2 0 0 4 1 10
+p69
+aVKosta Koufos SAC 01/10/2017 SAC vs. DET W 22 12 5 7 71.4 0 0 - 2 2 100.0 1 7 8 0 0 1 1 0 5
+p70
+aVGarrett Temple SAC 01/10/2017 SAC vs. DET W 30 11 4 8 50.0 3 4 75.0 0 0 - 0 1 1 0 1 0 0 4 -1
+p71
+aVBen McLemore SAC 01/10/2017 SAC vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p72
+aVDarren Collison SAC 01/10/2017 SAC vs. DET W 28 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 4 0 0 1 0 0
+p73
+aVAnthony Tolliver SAC 01/10/2017 SAC vs. DET W 36 17 4 11 36.4 3 7 42.9 6 6 100.0 3 1 4 3 0 0 0 1 12
+p74
+aVRudy Gay SAC 01/10/2017 SAC vs. DET W 38 11 3 11 27.3 1 2 50.0 4 4 100.0 2 5 7 4 3 1 7 5 10
+p75
+aVOmri Casspi SAC 01/10/2017 SAC vs. DET W 18 4 1 3 33.3 0 0 - 2 4 50.0 2 8 10 0 1 0 0 2 -5
+p76
+aVArron Afflalo SAC 01/08/2017 SAC vs. GSW L 14 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 1 0 0 2 3
+p77
+aVAnthony Tolliver SAC 01/08/2017 SAC vs. GSW L 32 16 5 9 55.6 3 4 75.0 3 4 75.0 0 5 5 0 3 0 0 1 -19
+p78
+aVMatt Barnes SAC 01/08/2017 SAC vs. GSW L 18 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 3 1 0 1 1 7
+p79
+aVTy Lawson SAC 01/08/2017 SAC vs. GSW L 22 15 4 8 50.0 0 1 0.0 7 8 87.5 0 2 2 3 0 0 1 1 10
+p80
+aVDeMarcus Cousins SAC 01/08/2017 SAC vs. GSW L 29 17 4 11 36.4 1 3 33.3 8 9 88.9 0 10 10 5 1 2 7 4 -15
+p81
+aVGarrett Temple SAC 01/08/2017 SAC vs. GSW L 42 14 5 9 55.6 2 5 40.0 2 4 50.0 0 1 1 3 1 1 1 2 -16
+p82
+aVDarren Collison SAC 01/08/2017 SAC vs. GSW L 30 14 6 9 66.7 2 3 66.7 0 0 - 0 1 1 2 3 0 2 1 -15
+p83
+aVRudy Gay SAC 01/08/2017 SAC vs. GSW L 35 23 9 17 52.9 2 6 33.3 3 4 75.0 0 1 1 3 2 2 4 3 -15
+p84
+aVKosta Koufos SAC 01/08/2017 SAC vs. GSW L 16 2 1 3 33.3 0 0 - 0 0 - 1 6 7 2 1 0 2 2 5
+p85
+aVDeMarcus Cousins SAC 01/06/2017 SAC vs. LAC L 36 25 9 19 47.4 3 8 37.5 4 6 66.7 2 9 11 7 3 2 4 3 5
+p86
+aVDarren Collison SAC 01/06/2017 SAC vs. LAC L 35 20 7 13 53.8 3 6 50.0 3 3 100.0 1 4 5 2 0 0 0 2 6
+p87
+aVTy Lawson SAC 01/06/2017 SAC vs. LAC L 37 17 6 12 50.0 0 3 0.0 5 6 83.3 0 4 4 6 1 0 2 1 -8
+p88
+aVArron Afflalo SAC 01/06/2017 SAC vs. LAC L 22 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -17
+p89
+aVMatt Barnes SAC 01/06/2017 SAC vs. LAC L 24 4 1 6 16.7 1 2 50.0 1 2 50.0 1 5 6 6 0 0 0 3 13
+p90
+aVRudy Gay SAC 01/06/2017 SAC vs. LAC L 33 18 7 17 41.2 1 6 16.7 3 3 100.0 1 6 7 1 0 0 0 0 0
+p91
+aVAnthony Tolliver SAC 01/06/2017 SAC vs. LAC L 8 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 -10
+p92
+aVGarrett Temple SAC 01/06/2017 SAC vs. LAC L 33 5 2 7 28.6 1 2 50.0 0 0 - 5 4 9 1 0 0 0 5 -16
+p93
+aVKosta Koufos SAC 01/06/2017 SAC vs. LAC L 12 7 3 4 75.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 3 -13
+p94
+aVAnthony Tolliver SAC 01/04/2017 SAC vs. MIA L 29 14 5 6 83.3 1 2 50.0 3 3 100.0 0 3 3 2 0 0 1 3 16
+p95
+aVKosta Koufos SAC 01/04/2017 SAC vs. MIA L 15 6 2 2 100.0 0 0 - 2 2 100.0 1 3 4 2 1 1 1 1 12
+p96
+aVDeMarcus Cousins SAC 01/04/2017 SAC vs. MIA L 32 13 4 15 26.7 0 4 0.0 5 8 62.5 0 6 6 4 2 0 1 5 -27
+p97
+aVDarren Collison SAC 01/04/2017 SAC vs. MIA L 27 10 4 11 36.4 1 1 100.0 1 1 100.0 0 2 2 3 0 1 1 3 -11
+p98
+aVGarrett Temple SAC 01/04/2017 SAC vs. MIA L 31 15 7 11 63.6 0 4 0.0 1 1 100.0 0 0 0 2 3 0 1 3 5
+p99
+aVArron Afflalo SAC 01/04/2017 SAC vs. MIA L 31 15 5 8 62.5 3 3 100.0 2 2 100.0 0 1 1 1 0 0 3 4 -8
+p100
+aVMatt Barnes SAC 01/04/2017 SAC vs. MIA L 33 12 5 9 55.6 2 4 50.0 0 0 - 1 6 7 5 0 1 4 5 -22
+p101
+aVTy Lawson SAC 01/04/2017 SAC vs. MIA L 29 15 7 11 63.6 1 1 100.0 0 0 - 0 0 0 6 1 0 4 3 12
+p102
+aVWillie Cauley-Stein SAC 01/04/2017 SAC vs. MIA L 7 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 1 0 0 1 5
+p103
+aVBen McLemore SAC 01/04/2017 SAC vs. MIA L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p104
+aVBen McLemore SAC 01/03/2017 SAC @ DEN W 15 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 2 -1
+p105
+aVOmri Casspi SAC 01/03/2017 SAC @ DEN W 17 0 0 3 0.0 0 1 0.0 0 0 - 1 4 5 1 1 0 0 1 14
+p106
+aVMatt Barnes SAC 01/03/2017 SAC @ DEN W 28 5 2 6 33.3 1 4 25.0 0 0 - 0 3 3 3 1 0 0 1 0
+p107
+aVArron Afflalo SAC 01/03/2017 SAC @ DEN W 30 19 8 11 72.7 2 4 50.0 1 1 100.0 0 2 2 2 1 0 2 1 2
+p108
+aVWillie Cauley-Stein SAC 01/03/2017 SAC @ DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p109
+aVDarren Collison SAC 01/03/2017 SAC @ DEN W 36 26 10 16 62.5 2 5 40.0 4 4 100.0 1 1 2 7 0 0 2 1 1
+p110
+aVKosta Koufos SAC 01/03/2017 SAC @ DEN W 29 18 8 9 88.9 0 0 - 2 3 66.7 1 4 5 1 2 0 1 3 0
+p111
+aVDeMarcus Cousins SAC 01/03/2017 SAC @ DEN W 34 31 10 25 40.0 3 7 42.9 8 8 100.0 0 6 6 6 0 1 0 3 -2
+p112
+aVGarrett Temple SAC 01/03/2017 SAC @ DEN W 25 8 4 9 44.4 0 2 0.0 0 0 - 2 3 5 5 2 1 1 0 12
+p113
+aVAnthony Tolliver SAC 01/03/2017 SAC @ DEN W 25 7 2 4 50.0 1 3 33.3 2 2 100.0 0 3 3 1 0 0 1 1 6
+p114
+aVWillie Cauley-Stein SAC 12/31/2016 SAC vs. MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p115
+aVGarrett Temple SAC 12/31/2016 SAC vs. MEM L 31 3 1 5 20.0 1 4 25.0 0 0 - 1 2 3 1 1 1 1 1 -13
+p116
+aVAnthony Tolliver SAC 12/31/2016 SAC vs. MEM L 28 16 4 5 80.0 4 5 80.0 4 4 100.0 2 4 6 2 0 0 1 2 -6
+p117
+aVOmri Casspi SAC 12/31/2016 SAC vs. MEM L 6 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -9
+p118
+aVDeMarcus Cousins SAC 12/31/2016 SAC vs. MEM L 38 26 7 18 38.9 0 3 0.0 12 13 92.3 2 2 4 8 5 0 5 4 -8
+p119
+aVSkal Labissiere SAC 12/31/2016 SAC vs. MEM L 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 4
+p120
+aVGeorgios Papagiannis SAC 12/31/2016 SAC vs. MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p121
+aVDarren Collison SAC 12/31/2016 SAC vs. MEM L 39 16 8 16 50.0 0 2 0.0 0 0 - 1 3 4 2 0 0 0 1 -3
+p122
+aVKosta Koufos SAC 12/31/2016 SAC vs. MEM L 20 0 0 4 0.0 0 0 - 0 0 - 2 6 8 0 0 2 1 0 -13
+p123
+aVMatt Barnes SAC 12/31/2016 SAC vs. MEM L 33 20 5 8 62.5 5 7 71.4 5 7 71.4 1 7 8 3 0 0 1 1 -6
+p124
+aVBen McLemore SAC 12/31/2016 SAC vs. MEM L 15 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p125
+aVTy Lawson SAC 12/31/2016 SAC vs. MEM L 10 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 0 2 -6
+p126
+aVMalachi Richardson SAC 12/31/2016 SAC vs. MEM L 10 7 2 4 50.0 1 3 33.3 2 2 100.0 0 1 1 0 0 0 0 0 0
+p127
+aVTy Lawson SAC 12/28/2016 SAC @ POR L 29 8 2 8 25.0 1 4 25.0 3 4 75.0 1 0 1 1 1 0 1 1 -12
+p128
+aVGarrett Temple SAC 12/28/2016 SAC @ POR L 31 14 6 13 46.2 2 6 33.3 0 0 - 0 3 3 1 2 0 1 3 -1
+p129
+aVWillie Cauley-Stein SAC 12/28/2016 SAC @ POR L 10 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 0 1 -5
+p130
+aVAnthony Tolliver SAC 12/28/2016 SAC @ POR L 29 3 1 6 16.7 1 4 25.0 0 0 - 0 4 4 3 0 0 1 1 -2
+p131
+aVKosta Koufos SAC 12/28/2016 SAC @ POR L 23 6 3 3 100.0 0 0 - 0 0 - 3 7 10 0 0 1 1 1 -13
+p132
+aVBen McLemore SAC 12/28/2016 SAC @ POR L 19 5 2 9 22.2 0 2 0.0 1 1 100.0 0 0 0 0 2 0 1 1 -11
+p133
+aVOmri Casspi SAC 12/28/2016 SAC @ POR L 14 6 2 3 66.7 1 1 100.0 1 2 50.0 0 5 5 2 0 0 1 1 0
+p134
+aVMatt Barnes SAC 12/28/2016 SAC @ POR L 29 13 5 11 45.5 1 4 25.0 2 2 100.0 1 4 5 2 1 1 3 5 -13
+p135
+aVDarren Collison SAC 12/28/2016 SAC @ POR L 20 6 2 7 28.6 0 1 0.0 2 2 100.0 0 1 1 5 0 0 0 1 -5
+p136
+aVDeMarcus Cousins SAC 12/28/2016 SAC @ POR L 35 28 8 19 42.1 3 6 50.0 9 10 90.0 1 7 8 6 2 1 2 5 -3
+p137
+aVWillie Cauley-Stein SAC 12/26/2016 SAC vs. PHI W 12 9 4 7 57.1 0 0 - 1 2 50.0 2 2 4 0 1 1 0 3 -9
+p138
+aVMatt Barnes SAC 12/26/2016 SAC vs. PHI W 13 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 2 1 -7
+p139
+aVKosta Koufos SAC 12/26/2016 SAC vs. PHI W 15 6 3 3 100.0 0 0 - 0 2 0.0 0 3 3 1 2 0 0 5 20
+p140
+aVAnthony Tolliver SAC 12/26/2016 SAC vs. PHI W 23 5 2 5 40.0 1 4 25.0 0 0 - 1 3 4 0 0 0 1 1 3
+p141
+aVDarren Collison SAC 12/26/2016 SAC vs. PHI W 28 9 4 10 40.0 1 3 33.3 0 0 - 1 0 1 4 1 0 2 0 -4
+p142
+aVRudy Gay SAC 12/26/2016 SAC vs. PHI W 36 17 7 16 43.8 1 4 25.0 2 2 100.0 2 7 9 2 0 1 4 1 8
+p143
+aVGarrett Temple SAC 12/26/2016 SAC vs. PHI W 29 5 1 4 25.0 1 3 33.3 2 2 100.0 0 1 1 3 1 0 1 0 8
+p144
+aVDeMarcus Cousins SAC 12/26/2016 SAC vs. PHI W 34 30 10 20 50.0 2 4 50.0 8 9 88.9 2 5 7 5 3 2 5 4 -11
+p145
+aVTy Lawson SAC 12/26/2016 SAC vs. PHI W 20 12 4 8 50.0 0 2 0.0 4 4 100.0 3 1 4 4 2 0 3 3 4
+p146
+aVOmri Casspi SAC 12/26/2016 SAC vs. PHI W 13 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 1 0 0 0 2
+p147
+aVBen McLemore SAC 12/26/2016 SAC vs. PHI W 17 4 2 7 28.6 0 3 0.0 0 0 - 0 2 2 3 0 0 1 1 -4
+p148
+aVWillie Cauley-Stein SAC 12/23/2016 SAC @ MIN W 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -6
+p149
+aVTy Lawson SAC 12/23/2016 SAC @ MIN W 28 15 5 11 45.5 2 3 66.7 3 4 75.0 0 3 3 4 2 0 1 1 6
+p150
+aVKosta Koufos SAC 12/23/2016 SAC @ MIN W 21 12 6 8 75.0 0 0 - 0 0 - 2 2 4 0 1 0 0 3 1
+p151
+aVArron Afflalo SAC 12/23/2016 SAC @ MIN W 23 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -6
+p152
+aVDeMarcus Cousins SAC 12/23/2016 SAC @ MIN W 37 32 13 24 54.2 3 6 50.0 3 5 60.0 2 5 7 7 4 2 5 3 11
+p153
+aVDarren Collison SAC 12/23/2016 SAC @ MIN W 20 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 6 0 0 0 2 -2
+p154
+aVBen McLemore SAC 12/23/2016 SAC @ MIN W 16 7 2 4 50.0 1 3 33.3 2 3 66.7 0 3 3 0 0 0 0 2 0
+p155
+aVGarrett Temple SAC 12/23/2016 SAC @ MIN W 26 9 3 6 50.0 1 3 33.3 2 2 100.0 2 4 6 4 0 0 1 3 7
+p156
+aVMatt Barnes SAC 12/23/2016 SAC @ MIN W 32 10 4 6 66.7 2 4 50.0 0 0 - 0 5 5 5 0 0 3 2 7
+p157
+aVAnthony Tolliver SAC 12/23/2016 SAC @ MIN W 31 17 6 9 66.7 5 7 71.4 0 0 - 0 3 3 0 0 0 0 3 2
+p158
+aVDarren Collison SAC 12/21/2016 SAC @ UTA W 22 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -12
+p159
+aVMatt Barnes SAC 12/21/2016 SAC @ UTA W 27 8 3 7 42.9 2 3 66.7 0 1 0.0 2 1 3 1 1 0 0 2 -12
+p160
+aVWillie Cauley-Stein SAC 12/21/2016 SAC @ UTA W 19 5 2 4 50.0 0 0 - 1 2 50.0 0 5 5 1 0 2 0 0 6
+p161
+aVGarrett Temple SAC 12/21/2016 SAC @ UTA W 28 11 4 7 57.1 3 5 60.0 0 0 - 0 2 2 2 0 0 1 5 11
+p162
+aVDeMarcus Cousins SAC 12/21/2016 SAC @ UTA W 31 21 5 18 27.8 1 3 33.3 10 13 76.9 1 7 8 3 0 1 3 2 -4
+p163
+aVArron Afflalo SAC 12/21/2016 SAC @ UTA W 27 8 3 8 37.5 2 4 50.0 0 0 - 1 3 4 3 0 0 2 4 10
+p164
+aVTy Lawson SAC 12/21/2016 SAC @ UTA W 26 19 7 11 63.6 0 1 0.0 5 8 62.5 0 5 5 1 1 0 1 2 13
+p165
+aVBen McLemore SAC 12/21/2016 SAC @ UTA W 17 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 0 2 0 2 1 -11
+p166
+aVAnthony Tolliver SAC 12/21/2016 SAC @ UTA W 30 6 2 3 66.7 2 3 66.7 0 0 - 2 5 7 0 1 0 0 0 16
+p167
+aVKosta Koufos SAC 12/21/2016 SAC @ UTA W 12 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -12
+p168
+aVGarrett Temple SAC 12/20/2016 SAC vs. POR W 24 5 1 3 33.3 0 1 0.0 3 5 60.0 0 4 4 3 1 1 0 5 14
+p169
+aVAnthony Tolliver SAC 12/20/2016 SAC vs. POR W 34 11 3 5 60.0 3 4 75.0 2 2 100.0 1 3 4 0 0 0 0 3 12
+p170
+aVKosta Koufos SAC 12/20/2016 SAC vs. POR W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p171
+aVWillie Cauley-Stein SAC 12/20/2016 SAC vs. POR W 7 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p172
+aVArron Afflalo SAC 12/20/2016 SAC vs. POR W 31 11 4 7 57.1 1 3 33.3 2 3 66.7 0 1 1 1 0 0 2 3 13
+p173
+aVBen McLemore SAC 12/20/2016 SAC vs. POR W 21 8 2 4 50.0 1 3 33.3 3 3 100.0 0 0 0 0 0 0 0 3 -7
+p174
+aVTy Lawson SAC 12/20/2016 SAC vs. POR W 29 16 6 8 75.0 0 1 0.0 4 4 100.0 0 2 2 8 1 0 0 1 17
+p175
+aVDarren Collison SAC 12/20/2016 SAC vs. POR W 21 10 3 8 37.5 0 1 0.0 4 5 80.0 1 1 2 3 0 0 1 2 -14
+p176
+aVDeMarcus Cousins SAC 12/20/2016 SAC vs. POR W 41 55 17 28 60.7 5 8 62.5 16 17 94.1 1 13 14 1 1 3 5 5 3
+p177
+aVMatt Barnes SAC 12/20/2016 SAC vs. POR W 19 2 0 4 0.0 0 2 0.0 2 4 50.0 1 3 4 4 0 0 1 3 -10
+p178
+aVDarren Collison SAC 12/18/2016 SAC @ DAL L 25 2 1 8 12.5 0 3 0.0 0 1 0.0 0 1 1 3 0 0 0 1 -12
+p179
+aVBen McLemore SAC 12/18/2016 SAC @ DAL L 27 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 2 1 0 2 5 -8
+p180
+aVSkal Labissiere SAC 12/18/2016 SAC @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p181
+aVMalachi Richardson SAC 12/18/2016 SAC @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p182
+aVAnthony Tolliver SAC 12/18/2016 SAC @ DAL L 23 7 2 6 33.3 1 4 25.0 2 2 100.0 1 6 7 1 0 2 1 1 -9
+p183
+aVTy Lawson SAC 12/18/2016 SAC @ DAL L 29 10 4 9 44.4 2 4 50.0 0 0 - 0 2 2 3 1 0 2 1 -15
+p184
+aVMatt Barnes SAC 12/18/2016 SAC @ DAL L 25 7 3 7 42.9 1 4 25.0 0 0 - 1 2 3 0 1 0 0 3 -10
+p185
+aVGarrett Temple SAC 12/18/2016 SAC @ DAL L 36 5 1 10 10.0 1 8 12.5 2 2 100.0 1 4 5 7 2 1 3 3 -8
+p186
+aVKosta Koufos SAC 12/18/2016 SAC @ DAL L 23 6 3 3 100.0 0 0 - 0 0 - 2 7 9 0 2 0 3 4 -8
+p187
+aVDeMarcus Cousins SAC 12/18/2016 SAC @ DAL L 35 33 12 24 50.0 2 6 33.3 7 10 70.0 0 6 6 0 0 1 2 3 -16
+p188
+aVWillie Cauley-Stein SAC 12/18/2016 SAC @ DAL L 14 4 2 4 50.0 0 0 - 0 2 0.0 1 5 6 0 0 0 1 0 -8
+p189
+aVTy Lawson SAC 12/16/2016 SAC @ MEM W 22 6 2 5 40.0 1 2 50.0 1 2 50.0 0 3 3 1 0 0 2 1 -1
+p190
+aVGarrett Temple SAC 12/16/2016 SAC @ MEM W 37 17 4 11 36.4 3 6 50.0 6 6 100.0 2 4 6 4 2 0 2 1 0
+p191
+aVDarren Collison SAC 12/16/2016 SAC @ MEM W 38 11 4 12 33.3 1 2 50.0 2 2 100.0 0 2 2 6 1 0 1 3 0
+p192
+aVKosta Koufos SAC 12/16/2016 SAC @ MEM W 30 16 7 11 63.6 0 0 - 2 6 33.3 7 6 13 2 0 3 1 5 -1
+p193
+aVMatt Barnes SAC 12/16/2016 SAC @ MEM W 29 7 2 8 25.0 0 4 0.0 3 6 50.0 2 8 10 3 0 1 2 0 6
+p194
+aVDeMarcus Cousins SAC 12/16/2016 SAC @ MEM W 35 22 7 20 35.0 0 3 0.0 8 8 100.0 0 9 9 1 0 1 2 6 6
+p195
+aVWillie Cauley-Stein SAC 12/16/2016 SAC @ MEM W 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 3 3
+p196
+aVBen McLemore SAC 12/16/2016 SAC @ MEM W 16 8 3 7 42.9 1 3 33.3 1 1 100.0 0 0 0 0 2 0 1 1 5
+p197
+aVAnthony Tolliver SAC 12/16/2016 SAC @ MEM W 30 9 2 6 33.3 1 4 25.0 4 4 100.0 2 0 2 1 0 1 0 5 2
+p198
+aVArron Afflalo SAC 12/14/2016 SAC @ HOU L 8 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -12
+p199
+aVMalachi Richardson SAC 12/14/2016 SAC @ HOU L 12 7 2 5 40.0 1 3 33.3 2 2 100.0 0 3 3 2 1 0 0 1 1
+p200
+aVDarren Collison SAC 12/14/2016 SAC @ HOU L 29 7 2 10 20.0 0 2 0.0 3 3 100.0 0 4 4 9 0 0 4 1 -35
+p201
+aVTy Lawson SAC 12/14/2016 SAC @ HOU L 24 8 4 9 44.4 0 1 0.0 0 0 - 0 0 0 7 3 0 3 1 -12
+p202
+aVOmri Casspi SAC 12/14/2016 SAC @ HOU L 27 10 4 12 33.3 1 3 33.3 1 2 50.0 1 4 5 1 0 0 2 3 -22
+p203
+aVKosta Koufos SAC 12/14/2016 SAC @ HOU L 25 10 5 11 45.5 0 0 - 0 0 - 5 2 7 1 0 2 1 3 -25
+p204
+aVWillie Cauley-Stein SAC 12/14/2016 SAC @ HOU L 23 11 5 8 62.5 0 0 - 1 1 100.0 1 4 5 2 1 2 0 3 -9
+p205
+aVGarrett Temple SAC 12/14/2016 SAC @ HOU L 30 20 7 13 53.8 5 9 55.6 1 1 100.0 1 1 2 4 0 1 4 2 -21
+p206
+aVAnthony Tolliver SAC 12/14/2016 SAC @ HOU L 35 12 5 13 38.5 1 8 12.5 1 2 50.0 3 7 10 0 2 2 1 1 -23
+p207
+aVSkal Labissiere SAC 12/14/2016 SAC @ HOU L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p208
+aVMatt Barnes SAC 12/14/2016 SAC @ HOU L 21 9 3 5 60.0 3 4 75.0 0 0 - 0 2 2 1 1 0 0 1 -12
+p209
+aVKosta Koufos SAC 12/12/2016 SAC vs. LAL W 32 10 5 7 71.4 0 0 - 0 0 - 4 3 7 0 3 1 0 1 18
+p210
+aVArron Afflalo SAC 12/12/2016 SAC vs. LAL W 13 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 2 -23
+p211
+aVWillie Cauley-Stein SAC 12/12/2016 SAC vs. LAL W 11 8 4 6 66.7 0 0 - 0 0 - 4 0 4 0 1 0 2 1 -3
+p212
+aVGarrett Temple SAC 12/12/2016 SAC vs. LAL W 31 16 7 8 87.5 2 2 100.0 0 0 - 0 1 1 2 1 0 1 3 41
+p213
+aVBen McLemore SAC 12/12/2016 SAC vs. LAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -5
+p214
+aVDarren Collison SAC 12/12/2016 SAC vs. LAL W 32 20 7 11 63.6 4 7 57.1 2 6 33.3 0 0 0 3 1 0 2 2 25
+p215
+aVOmri Casspi SAC 12/12/2016 SAC vs. LAL W 30 13 6 10 60.0 1 1 100.0 0 3 0.0 1 5 6 3 1 0 1 2 30
+p216
+aVTy Lawson SAC 12/12/2016 SAC vs. LAL W 26 8 3 8 37.5 0 3 0.0 2 2 100.0 2 4 6 5 4 0 4 2 9
+p217
+aVRudy Gay SAC 12/12/2016 SAC vs. LAL W 14 7 2 6 33.3 0 3 0.0 3 3 100.0 0 5 5 2 2 1 0 0 8
+p218
+aVDeMarcus Cousins SAC 12/12/2016 SAC vs. LAL W 35 31 12 22 54.5 2 3 66.7 5 7 71.4 2 15 17 5 2 3 8 3 30
+p219
+aVAnthony Tolliver SAC 12/12/2016 SAC vs. LAL W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 4 -10
+p220
+aVAnthony Tolliver SAC 12/10/2016 SAC @ UTA L 4 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -3
+p221
+aVWillie Cauley-Stein SAC 12/10/2016 SAC @ UTA L 12 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -5
+p222
+aVTy Lawson SAC 12/10/2016 SAC @ UTA L 17 5 2 6 33.3 0 1 0.0 1 1 100.0 1 0 1 3 0 1 3 0 -16
+p223
+aVRudy Gay SAC 12/10/2016 SAC @ UTA L 33 20 7 15 46.7 3 4 75.0 3 4 75.0 0 5 5 3 2 0 1 2 -4
+p224
+aVArron Afflalo SAC 12/10/2016 SAC @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p225
+aVGarrett Temple SAC 12/10/2016 SAC @ UTA L 24 3 1 5 20.0 0 1 0.0 1 1 100.0 1 1 2 0 2 1 0 2 -14
+p226
+aVKosta Koufos SAC 12/10/2016 SAC @ UTA L 13 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -6
+p227
+aVMatt Barnes SAC 12/10/2016 SAC @ UTA L 15 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 2 1 0 0 2 -10
+p228
+aVBen McLemore SAC 12/10/2016 SAC @ UTA L 26 1 0 5 0.0 0 3 0.0 1 4 25.0 1 1 2 1 1 0 0 1 -8
+p229
+aVDarren Collison SAC 12/10/2016 SAC @ UTA L 32 17 7 14 50.0 3 5 60.0 0 0 - 1 0 1 2 1 0 2 1 -2
+p230
+aVOmri Casspi SAC 12/10/2016 SAC @ UTA L 27 12 5 9 55.6 2 3 66.7 0 0 - 2 3 5 2 2 0 1 1 -13
+p231
+aVDeMarcus Cousins SAC 12/10/2016 SAC @ UTA L 34 16 7 22 31.8 1 6 16.7 1 3 33.3 3 7 10 4 1 1 3 3 -16
+p232
+aVBen McLemore SAC 12/09/2016 SAC vs. NYK L 22 10 4 7 57.1 2 2 100.0 0 0 - 1 3 4 2 1 0 0 1 -3
+p233
+aVDarren Collison SAC 12/09/2016 SAC vs. NYK L 30 14 5 11 45.5 1 2 50.0 3 3 100.0 0 3 3 3 2 0 0 1 -6
+p234
+aVTy Lawson SAC 12/09/2016 SAC vs. NYK L 18 4 1 5 20.0 0 2 0.0 2 3 66.7 0 3 3 6 0 0 1 1 3
+p235
+aVDeMarcus Cousins SAC 12/09/2016 SAC vs. NYK L 36 28 9 25 36.0 0 6 0.0 10 12 83.3 3 9 12 6 3 1 3 2 -2
+p236
+aVAnthony Tolliver SAC 12/09/2016 SAC vs. NYK L 27 10 4 9 44.4 2 6 33.3 0 0 - 1 4 5 2 0 0 1 3 -3
+p237
+aVGarrett Temple SAC 12/09/2016 SAC vs. NYK L 26 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 1 3 0 0 0 0
+p238
+aVRudy Gay SAC 12/09/2016 SAC vs. NYK L 35 13 4 15 26.7 0 5 0.0 5 6 83.3 0 5 5 1 1 0 0 5 -8
+p239
+aVOmri Casspi SAC 12/09/2016 SAC vs. NYK L 20 12 4 5 80.0 1 1 100.0 3 3 100.0 0 3 3 1 0 0 1 2 6
+p240
+aVKosta Koufos SAC 12/09/2016 SAC vs. NYK L 14 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -3
+p241
+aVWillie Cauley-Stein SAC 12/09/2016 SAC vs. NYK L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 1
+p242
+aVAnthony Tolliver SAC 12/07/2016 SAC @ DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p243
+aVGarrett Temple SAC 12/07/2016 SAC @ DAL W 27 17 5 6 83.3 4 4 100.0 3 4 75.0 0 3 3 3 0 0 1 5 10
+p244
+aVDarren Collison SAC 12/07/2016 SAC @ DAL W 30 19 5 10 50.0 2 4 50.0 7 8 87.5 1 2 3 3 0 0 5 1 29
+p245
+aVDeMarcus Cousins SAC 12/07/2016 SAC @ DAL W 33 24 10 16 62.5 2 2 100.0 2 3 66.7 2 12 14 7 0 3 2 3 34
+p246
+aVKosta Koufos SAC 12/07/2016 SAC @ DAL W 17 8 4 4 100.0 0 0 - 0 0 - 1 3 4 0 1 0 0 2 31
+p247
+aVWillie Cauley-Stein SAC 12/07/2016 SAC @ DAL W 15 6 3 5 60.0 0 0 - 0 2 0.0 1 2 3 1 2 0 1 4 -3
+p248
+aVBen McLemore SAC 12/07/2016 SAC @ DAL W 21 9 3 11 27.3 1 6 16.7 2 2 100.0 0 1 1 0 0 0 1 1 24
+p249
+aVOmri Casspi SAC 12/07/2016 SAC @ DAL W 18 10 5 7 71.4 0 1 0.0 0 0 - 0 5 5 3 0 0 1 1 -3
+p250
+aVRudy Gay SAC 12/07/2016 SAC @ DAL W 31 19 8 14 57.1 1 3 33.3 2 2 100.0 1 2 3 4 4 0 2 1 35
+p251
+aVTy Lawson SAC 12/07/2016 SAC @ DAL W 21 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 1 2 0 0 1 -3
+p252
+aVMatt Barnes SAC 12/07/2016 SAC @ DAL W 24 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 5 1 0 1 4 0
+p253
+aVTy Lawson SAC 12/04/2016 SAC @ NYK L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 0 -16
+p254
+aVDeMarcus Cousins SAC 12/04/2016 SAC @ NYK L 43 36 9 31 29.0 4 10 40.0 14 16 87.5 5 8 13 4 1 3 2 0 1
+p255
+aVArron Afflalo SAC 12/04/2016 SAC @ NYK L 17 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 0 1 0 0 0 -11
+p256
+aVKosta Koufos SAC 12/04/2016 SAC @ NYK L 19 2 1 7 14.3 0 0 - 0 0 - 5 6 11 0 0 1 0 2 -9
+p257
+aVRudy Gay SAC 12/04/2016 SAC @ NYK L 35 22 7 18 38.9 2 6 33.3 6 6 100.0 2 7 9 4 3 0 3 3 4
+p258
+aVGarrett Temple SAC 12/04/2016 SAC @ NYK L 18 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 1 1 1 1 3 -11
+p259
+aVMatt Barnes SAC 12/04/2016 SAC @ NYK L 17 2 1 11 9.1 0 4 0.0 0 0 - 2 1 3 1 2 0 1 1 -21
+p260
+aVOmri Casspi SAC 12/04/2016 SAC @ NYK L 20 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 1 1 0 0 1 2
+p261
+aVDarren Collison SAC 12/04/2016 SAC @ NYK L 39 13 4 10 40.0 1 3 33.3 4 4 100.0 1 2 3 6 2 0 2 3 8
+p262
+aVWillie Cauley-Stein SAC 12/04/2016 SAC @ NYK L 23 9 4 7 57.1 0 0 - 1 3 33.3 3 1 4 0 1 0 0 4 13
+p263
+aVWillie Cauley-Stein SAC 12/02/2016 SAC @ BOS L 12 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p264
+aVDarren Collison SAC 12/02/2016 SAC @ BOS L 28 13 4 8 50.0 1 3 33.3 4 4 100.0 0 0 0 3 2 0 1 3 -7
+p265
+aVArron Afflalo SAC 12/02/2016 SAC @ BOS L 17 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 2 2 0 0 0 -9
+p266
+aVTy Lawson SAC 12/02/2016 SAC @ BOS L 21 8 3 8 37.5 0 2 0.0 2 2 100.0 3 0 3 4 1 1 2 1 2
+p267
+aVGarrett Temple SAC 12/02/2016 SAC @ BOS L 26 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 1 0 3 0 2 4
+p268
+aVDeMarcus Cousins SAC 12/02/2016 SAC @ BOS L 34 28 10 26 38.5 2 7 28.6 6 8 75.0 3 6 9 3 1 4 2 4 0
+p269
+aVMatt Barnes SAC 12/02/2016 SAC @ BOS L 31 12 3 11 27.3 1 4 25.0 5 6 83.3 3 13 16 5 2 1 2 2 6
+p270
+aVOmri Casspi SAC 12/02/2016 SAC @ BOS L 27 7 2 9 22.2 1 2 50.0 2 3 66.7 3 2 5 1 0 1 0 1 0
+p271
+aVKosta Koufos SAC 12/02/2016 SAC @ BOS L 9 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -8
+p272
+aVRudy Gay SAC 12/02/2016 SAC @ BOS L 35 13 6 14 42.9 1 7 14.3 0 0 - 0 8 8 3 1 0 6 3 -12
+p273
+aVDarren Collison SAC 11/28/2016 SAC @ WAS L 32 6 2 6 33.3 0 1 0.0 2 2 100.0 2 1 3 3 2 1 0 2 -1
+p274
+aVGarrett Temple SAC 11/28/2016 SAC @ WAS L 28 3 1 5 20.0 1 3 33.3 0 1 0.0 1 0 1 3 2 0 1 0 3
+p275
+aVRudy Gay SAC 11/28/2016 SAC @ WAS L 38 18 7 16 43.8 1 4 25.0 3 3 100.0 2 3 5 2 2 1 6 5 -9
+p276
+aVArron Afflalo SAC 11/28/2016 SAC @ WAS L 21 3 1 6 16.7 0 3 0.0 1 1 100.0 0 1 1 1 0 0 0 1 -11
+p277
+aVKosta Koufos SAC 11/28/2016 SAC @ WAS L 25 4 1 3 33.3 0 0 - 2 2 100.0 4 3 7 0 1 0 1 1 -11
+p278
+aVWillie Cauley-Stein SAC 11/28/2016 SAC @ WAS L 14 8 3 4 75.0 0 0 - 2 3 66.7 0 2 2 0 1 1 0 3 -1
+p279
+aVOmri Casspi SAC 11/28/2016 SAC @ WAS L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 2 0 0 1 0 1
+p280
+aVTy Lawson SAC 11/28/2016 SAC @ WAS L 24 12 5 9 55.6 0 0 - 2 2 100.0 0 0 0 3 3 0 4 2 -3
+p281
+aVDeMarcus Cousins SAC 11/28/2016 SAC @ WAS L 40 36 16 34 47.1 1 6 16.7 3 10 30.0 4 16 20 4 2 1 5 5 6
+p282
+aVMatt Barnes SAC 11/28/2016 SAC @ WAS L 27 3 1 6 16.7 0 3 0.0 1 2 50.0 0 2 2 2 2 0 2 5 -4
+p283
+aVGarrett Temple SAC 11/27/2016 SAC @ BKN W 27 3 1 6 16.7 0 3 0.0 1 1 100.0 0 3 3 2 3 0 1 1 13
+p284
+aVBen McLemore SAC 11/27/2016 SAC @ BKN W 7 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 0
+p285
+aVDeMarcus Cousins SAC 11/27/2016 SAC @ BKN W 36 37 13 24 54.2 4 5 80.0 7 9 77.8 2 9 11 2 4 1 1 2 17
+p286
+aVTy Lawson SAC 11/27/2016 SAC @ BKN W 22 13 5 10 50.0 1 2 50.0 2 2 100.0 1 3 4 4 1 0 2 1 1
+p287
+aVWillie Cauley-Stein SAC 11/27/2016 SAC @ BKN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p288
+aVKosta Koufos SAC 11/27/2016 SAC @ BKN W 26 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 2 3 19
+p289
+aVDarren Collison SAC 11/27/2016 SAC @ BKN W 30 18 6 10 60.0 2 2 100.0 4 6 66.7 0 2 2 2 1 0 3 1 11
+p290
+aVOmri Casspi SAC 11/27/2016 SAC @ BKN W 18 8 3 3 100.0 2 2 100.0 0 0 - 0 5 5 0 0 0 0 0 -1
+p291
+aVArron Afflalo SAC 11/27/2016 SAC @ BKN W 21 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 0 1 4
+p292
+aVMatt Barnes SAC 11/27/2016 SAC @ BKN W 19 7 3 5 60.0 1 3 33.3 0 0 - 1 3 4 6 0 1 2 2 18
+p293
+aVRudy Gay SAC 11/27/2016 SAC @ BKN W 32 22 8 15 53.3 3 5 60.0 3 4 75.0 4 4 8 8 1 1 2 1 8
+p294
+aVGarrett Temple SAC 11/25/2016 SAC vs. HOU L 24 9 3 6 50.0 1 4 25.0 2 2 100.0 0 3 3 1 2 0 3 2 3
+p295
+aVOmri Casspi SAC 11/25/2016 SAC vs. HOU L 28 7 3 7 42.9 0 2 0.0 1 2 50.0 0 4 4 5 0 0 1 2 5
+p296
+aVDarren Collison SAC 11/25/2016 SAC vs. HOU L 25 8 2 6 33.3 0 3 0.0 4 4 100.0 0 3 3 4 2 0 1 1 -8
+p297
+aVRudy Gay SAC 11/25/2016 SAC vs. HOU L 37 10 4 12 33.3 0 4 0.0 2 2 100.0 0 4 4 3 3 0 0 1 -14
+p298
+aVBen McLemore SAC 11/25/2016 SAC vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p299
+aVDeMarcus Cousins SAC 11/25/2016 SAC vs. HOU L 30 32 12 22 54.5 5 9 55.6 3 5 60.0 0 9 9 1 0 5 4 5 -15
+p300
+aVKosta Koufos SAC 11/25/2016 SAC vs. HOU L 18 10 5 5 100.0 0 0 - 0 0 - 2 3 5 0 0 1 1 3 2
+p301
+aVMatt Barnes SAC 11/25/2016 SAC vs. HOU L 33 12 5 10 50.0 2 7 28.6 0 0 - 0 3 3 2 0 0 1 1 -7
+p302
+aVTy Lawson SAC 11/25/2016 SAC vs. HOU L 24 12 3 6 50.0 1 1 100.0 5 6 83.3 2 2 4 3 0 0 2 2 -9
+p303
+aVArron Afflalo SAC 11/25/2016 SAC vs. HOU L 16 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 5 0 0 0 1 -12
+p304
+aVTy Lawson SAC 11/23/2016 SAC vs. OKC W 21 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 4 1 0 2 3 12
+p305
+aVDarren Collison SAC 11/23/2016 SAC vs. OKC W 31 21 7 12 58.3 3 5 60.0 4 4 100.0 0 0 0 6 0 0 4 0 4
+p306
+aVBen McLemore SAC 11/23/2016 SAC vs. OKC W 17 9 4 10 40.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 3 14
+p307
+aVRudy Gay SAC 11/23/2016 SAC vs. OKC W 34 17 6 15 40.0 3 6 50.0 2 2 100.0 2 7 9 4 0 0 2 3 -3
+p308
+aVKosta Koufos SAC 11/23/2016 SAC vs. OKC W 17 9 4 7 57.1 0 0 - 1 1 100.0 4 6 10 0 1 0 0 4 7
+p309
+aVArron Afflalo SAC 11/23/2016 SAC vs. OKC W 30 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 4 0 0 0 1 2
+p310
+aVMatt Barnes SAC 11/23/2016 SAC vs. OKC W 29 0 0 3 0.0 0 3 0.0 0 0 - 1 3 4 5 0 1 1 2 17
+p311
+aVGarrett Temple SAC 11/23/2016 SAC vs. OKC W 27 8 3 8 37.5 2 5 40.0 0 0 - 1 2 3 1 2 0 0 4 15
+p312
+aVDeMarcus Cousins SAC 11/23/2016 SAC vs. OKC W 35 36 14 28 50.0 3 5 60.0 5 6 83.3 2 11 13 2 0 0 2 3 7
+p313
+aVBen McLemore SAC 11/20/2016 SAC vs. TOR W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p314
+aVKosta Koufos SAC 11/20/2016 SAC vs. TOR W 26 8 3 6 50.0 0 0 - 2 5 40.0 0 6 6 0 1 3 1 1 18
+p315
+aVWillie Cauley-Stein SAC 11/20/2016 SAC vs. TOR W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 3 -9
+p316
+aVDarren Collison SAC 11/20/2016 SAC vs. TOR W 32 15 4 8 50.0 1 4 25.0 6 8 75.0 0 0 0 9 2 0 1 1 1
+p317
+aVTy Lawson SAC 11/20/2016 SAC vs. TOR W 27 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 5 2 0 1 2 -1
+p318
+aVRudy Gay SAC 11/20/2016 SAC vs. TOR W 36 23 9 13 69.2 1 1 100.0 4 4 100.0 0 9 9 4 1 3 4 3 14
+p319
+aVMatt Barnes SAC 11/20/2016 SAC vs. TOR W 36 8 3 10 30.0 2 6 33.3 0 0 - 0 1 1 2 1 0 3 2 -5
+p320
+aVGarrett Temple SAC 11/20/2016 SAC vs. TOR W 19 8 2 4 50.0 2 4 50.0 2 2 100.0 0 3 3 1 1 1 0 1 -10
+p321
+aVArron Afflalo SAC 11/20/2016 SAC vs. TOR W 20 14 5 7 71.4 1 2 50.0 3 3 100.0 1 4 5 1 0 0 0 1 1
+p322
+aVDeMarcus Cousins SAC 11/20/2016 SAC vs. TOR W 30 19 7 22 31.8 3 6 50.0 2 3 66.7 2 8 10 4 0 0 2 3 9
+p323
+aVAnthony Tolliver SAC 11/20/2016 SAC vs. TOR W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p324
+aVKosta Koufos SAC 11/18/2016 SAC vs. LAC L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -10
+p325
+aVDarren Collison SAC 11/18/2016 SAC vs. LAC L 33 16 7 11 63.6 1 2 50.0 1 2 50.0 1 1 2 2 0 0 2 3 -10
+p326
+aVTy Lawson SAC 11/18/2016 SAC vs. LAC L 36 18 7 11 63.6 2 3 66.7 2 2 100.0 1 6 7 8 1 0 2 1 16
+p327
+aVMatt Barnes SAC 11/18/2016 SAC vs. LAC L 30 15 5 10 50.0 4 6 66.7 1 2 50.0 2 5 7 1 1 2 2 4 1
+p328
+aVBen McLemore SAC 11/18/2016 SAC vs. LAC L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -6
+p329
+aVGarrett Temple SAC 11/18/2016 SAC vs. LAC L 23 4 1 4 25.0 1 3 33.3 1 2 50.0 0 2 2 0 0 1 0 0 -12
+p330
+aVDeMarcus Cousins SAC 11/18/2016 SAC vs. LAC L 37 38 12 29 41.4 2 7 28.6 12 14 85.7 4 9 13 7 3 1 4 4 -5
+p331
+aVArron Afflalo SAC 11/18/2016 SAC vs. LAC L 24 6 1 3 33.3 0 2 0.0 4 4 100.0 0 1 1 0 0 0 0 1 -1
+p332
+aVRudy Gay SAC 11/18/2016 SAC vs. LAC L 33 9 3 11 27.3 0 2 0.0 3 4 75.0 0 3 3 3 2 0 4 5 5
+p333
+aVWillie Cauley-Stein SAC 11/18/2016 SAC vs. LAC L 8 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -13
+p334
+aVAnthony Tolliver SAC 11/18/2016 SAC vs. LAC L 5 3 0 1 0.0 0 1 0.0 3 3 100.0 0 0 0 0 0 0 0 1 5
+p335
+aVDeMarcus Cousins SAC 11/16/2016 SAC vs. SAS L 37 26 7 16 43.8 1 4 25.0 11 14 78.6 3 14 17 6 1 0 3 4 -2
+p336
+aVBen McLemore SAC 11/16/2016 SAC vs. SAS L 26 14 6 10 60.0 2 4 50.0 0 0 - 0 3 3 0 0 1 2 1 9
+p337
+aVWillie Cauley-Stein SAC 11/16/2016 SAC vs. SAS L 13 11 3 5 60.0 0 0 - 5 7 71.4 1 3 4 0 1 0 2 2 -8
+p338
+aVGarrett Temple SAC 11/16/2016 SAC vs. SAS L 18 7 3 4 75.0 1 1 100.0 0 0 - 0 4 4 2 0 0 2 1 -1
+p339
+aVRudy Gay SAC 11/16/2016 SAC vs. SAS L 32 11 3 11 27.3 1 2 50.0 4 4 100.0 1 2 3 3 0 1 2 1 -3
+p340
+aVMatt Barnes SAC 11/16/2016 SAC vs. SAS L 28 15 6 9 66.7 2 4 50.0 1 2 50.0 1 1 2 2 1 1 2 4 15
+p341
+aVDarren Collison SAC 11/16/2016 SAC vs. SAS L 30 10 4 7 57.1 0 1 0.0 2 2 100.0 1 3 4 6 2 0 2 1 4
+p342
+aVTy Lawson SAC 11/16/2016 SAC vs. SAS L 20 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 1 0 -11
+p343
+aVArron Afflalo SAC 11/16/2016 SAC vs. SAS L 22 7 3 8 37.5 1 3 33.3 0 0 - 1 1 2 1 0 0 0 2 -14
+p344
+aVKosta Koufos SAC 11/16/2016 SAC vs. SAS L 15 1 0 4 0.0 0 0 - 1 2 50.0 1 4 5 1 0 0 0 1 -14
+p345
+aVArron Afflalo SAC 11/11/2016 SAC @ POR L 32 15 5 9 55.6 0 1 0.0 5 6 83.3 1 1 2 0 0 0 0 1 -4
+p346
+aVGarrett Temple SAC 11/11/2016 SAC @ POR L 19 0 0 0 - 0 0 - 0 0 - 0 4 4 2 1 0 0 1 -1
+p347
+aVMatt Barnes SAC 11/11/2016 SAC @ POR L 19 5 1 4 25.0 1 4 25.0 2 2 100.0 1 3 4 1 0 0 2 1 7
+p348
+aVDarren Collison SAC 11/11/2016 SAC @ POR L 38 20 9 16 56.3 0 2 0.0 2 2 100.0 0 5 5 4 0 0 3 4 4
+p349
+aVRudy Gay SAC 11/11/2016 SAC @ POR L 43 29 9 18 50.0 2 4 50.0 9 10 90.0 4 10 14 3 2 1 6 2 -3
+p350
+aVKosta Koufos SAC 11/11/2016 SAC @ POR L 19 10 4 7 57.1 0 0 - 2 4 50.0 3 3 6 0 0 0 1 3 -3
+p351
+aVWillie Cauley-Stein SAC 11/11/2016 SAC @ POR L 8 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -3
+p352
+aVDeMarcus Cousins SAC 11/11/2016 SAC @ POR L 39 33 12 22 54.5 3 7 42.9 6 9 66.7 2 7 9 3 1 2 3 5 -1
+p353
+aVOmri Casspi SAC 11/11/2016 SAC @ POR L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 1
+p354
+aVTy Lawson SAC 11/11/2016 SAC @ POR L 15 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 4 2 0 0 0 -6
+p355
+aVBen McLemore SAC 11/11/2016 SAC @ POR L 18 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p356
+aVArron Afflalo SAC 11/10/2016 SAC vs. LAL L 31 9 3 10 30.0 1 2 50.0 2 2 100.0 0 6 6 0 0 0 1 1 -8
+p357
+aVGarrett Temple SAC 11/10/2016 SAC vs. LAL L 17 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 1 -2
+p358
+aVRudy Gay SAC 11/10/2016 SAC vs. LAL L 33 15 6 13 46.2 0 3 0.0 3 4 75.0 0 8 8 1 2 0 1 1 -8
+p359
+aVDeMarcus Cousins SAC 11/10/2016 SAC vs. LAL L 36 28 10 25 40.0 3 6 50.0 5 8 62.5 3 6 9 4 2 0 4 3 1
+p360
+aVTy Lawson SAC 11/10/2016 SAC vs. LAL L 25 11 4 6 66.7 2 3 66.7 1 2 50.0 0 1 1 1 2 0 3 4 -8
+p361
+aVMatt Barnes SAC 11/10/2016 SAC vs. LAL L 29 7 3 8 37.5 1 4 25.0 0 0 - 2 3 5 1 2 2 2 3 -14
+p362
+aVAnthony Tolliver SAC 11/10/2016 SAC vs. LAL L 16 3 1 3 33.3 1 3 33.3 0 0 - 2 1 3 0 1 0 0 1 -2
+p363
+aVKosta Koufos SAC 11/10/2016 SAC vs. LAL L 19 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 4
+p364
+aVDarren Collison SAC 11/10/2016 SAC vs. LAL L 23 6 2 11 18.2 0 0 - 2 2 100.0 0 2 2 9 2 0 2 1 -2
+p365
+aVWillie Cauley-Stein SAC 11/10/2016 SAC vs. LAL L 12 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -11
+p366
+aVGarrett Temple SAC 11/08/2016 SAC vs. NOP W 19 4 1 4 25.0 1 4 25.0 1 1 100.0 0 2 2 3 1 0 0 0 7
+p367
+aVArron Afflalo SAC 11/08/2016 SAC vs. NOP W 29 15 5 6 83.3 2 3 66.7 3 3 100.0 0 2 2 2 0 0 0 2 1
+p368
+aVRudy Gay SAC 11/08/2016 SAC vs. NOP W 33 21 7 16 43.8 2 4 50.0 5 5 100.0 0 6 6 6 2 1 0 1 3
+p369
+aVDarren Collison SAC 11/08/2016 SAC vs. NOP W 28 9 4 9 44.4 1 3 33.3 0 0 - 1 0 1 4 2 0 3 1 5
+p370
+aVBen McLemore SAC 11/08/2016 SAC vs. NOP W 16 5 2 3 66.7 1 2 50.0 0 0 - 1 3 4 0 0 0 1 0 5
+p371
+aVKosta Koufos SAC 11/08/2016 SAC vs. NOP W 23 6 3 7 42.9 0 0 - 0 0 - 2 5 7 0 0 0 1 3 1
+p372
+aVTy Lawson SAC 11/08/2016 SAC vs. NOP W 21 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 2 3
+p373
+aVDeMarcus Cousins SAC 11/08/2016 SAC vs. NOP W 33 28 11 20 55.0 0 3 0.0 6 8 75.0 1 3 4 4 2 2 2 5 7
+p374
+aVMatt Barnes SAC 11/08/2016 SAC vs. NOP W 27 5 2 5 40.0 1 4 25.0 0 0 - 0 8 8 3 0 0 1 2 5
+p375
+aVWillie Cauley-Stein SAC 11/08/2016 SAC vs. NOP W 12 9 4 6 66.7 0 0 - 1 3 33.3 0 3 3 0 0 2 2 5 3
+p376
+aVJordan Farmar SAC 11/06/2016 SAC @ TOR W 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 -2
+p377
+aVGarrett Temple SAC 11/06/2016 SAC @ TOR W 21 8 3 6 50.0 1 4 25.0 1 1 100.0 1 2 3 1 1 1 1 2 3
+p378
+aVKosta Koufos SAC 11/06/2016 SAC @ TOR W 25 13 6 8 75.0 0 0 - 1 2 50.0 2 4 6 0 0 1 0 2 -3
+p379
+aVArron Afflalo SAC 11/06/2016 SAC @ TOR W 36 12 5 8 62.5 1 1 100.0 1 2 50.0 0 5 5 1 0 0 0 3 0
+p380
+aVOmri Casspi SAC 11/06/2016 SAC @ TOR W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -1
+p381
+aVTy Lawson SAC 11/06/2016 SAC @ TOR W 36 5 0 6 0.0 0 1 0.0 5 6 83.3 0 2 2 11 0 0 1 2 4
+p382
+aVRudy Gay SAC 11/06/2016 SAC @ TOR W 35 23 9 19 47.4 2 5 40.0 3 4 75.0 2 3 5 1 1 0 2 3 13
+p383
+aVMatt Barnes SAC 11/06/2016 SAC @ TOR W 30 8 2 7 28.6 0 3 0.0 4 5 80.0 3 7 10 1 1 0 2 5 4
+p384
+aVDeMarcus Cousins SAC 11/06/2016 SAC @ TOR W 36 22 7 21 33.3 0 1 0.0 8 11 72.7 5 9 14 4 1 3 0 4 7
+p385
+aVBen McLemore SAC 11/05/2016 SAC @ MIL L 23 5 2 8 25.0 0 2 0.0 1 2 50.0 0 1 1 4 1 0 1 1 -5
+p386
+aVMalachi Richardson SAC 11/05/2016 SAC @ MIL L 6 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 -4
+p387
+aVMatt Barnes SAC 11/05/2016 SAC @ MIL L 14 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 2 0 0 0 0 -16
+p388
+aVSkal Labissiere SAC 11/05/2016 SAC @ MIL L 15 8 3 5 60.0 0 0 - 2 3 66.7 3 0 3 0 0 0 0 0 5
+p389
+aVKosta Koufos SAC 11/05/2016 SAC @ MIL L 13 4 2 4 50.0 0 0 - 0 0 - 4 3 7 1 0 0 1 2 -10
+p390
+aVWillie Cauley-Stein SAC 11/05/2016 SAC @ MIL L 17 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 1 1 1 1 3 -7
+p391
+aVDeMarcus Cousins SAC 11/05/2016 SAC @ MIL L 28 15 5 12 41.7 0 2 0.0 5 6 83.3 0 4 4 0 1 2 2 3 -25
+p392
+aVGeorgios Papagiannis SAC 11/05/2016 SAC @ MIL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -4
+p393
+aVGarrett Temple SAC 11/05/2016 SAC @ MIL L 28 19 7 10 70.0 5 6 83.3 0 0 - 0 3 3 4 3 0 1 1 -16
+p394
+aVTy Lawson SAC 11/05/2016 SAC @ MIL L 20 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 6 0 0 2 2 -15
+p395
+aVJordan Farmar SAC 11/05/2016 SAC @ MIL L 25 9 3 10 30.0 3 8 37.5 0 0 - 1 1 2 7 2 0 2 0 1
+p396
+aVOmri Casspi SAC 11/05/2016 SAC @ MIL L 24 6 3 8 37.5 0 3 0.0 0 0 - 3 3 6 2 0 0 3 1 -18
+p397
+aVArron Afflalo SAC 11/05/2016 SAC @ MIL L 23 7 2 10 20.0 1 3 33.3 2 2 100.0 1 1 2 0 0 0 0 3 -16
+p398
+aVOmri Casspi SAC 11/03/2016 SAC @ ORL L 23 12 5 13 38.5 2 4 50.0 0 0 - 3 2 5 0 1 0 1 3 -3
+p399
+aVMatt Barnes SAC 11/03/2016 SAC @ ORL L 9 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 1 0 0 2 0 -10
+p400
+aVWillie Cauley-Stein SAC 11/03/2016 SAC @ ORL L 25 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 0 1 4 -5
+p401
+aVArron Afflalo SAC 11/03/2016 SAC @ ORL L 18 3 1 6 16.7 0 2 0.0 1 1 100.0 0 0 0 1 0 0 0 1 0
+p402
+aVBen McLemore SAC 11/03/2016 SAC @ ORL L 28 11 5 7 71.4 1 2 50.0 0 0 - 1 3 4 1 1 0 2 5 -11
+p403
+aVTy Lawson SAC 11/03/2016 SAC @ ORL L 35 11 5 9 55.6 1 2 50.0 0 2 0.0 3 4 7 5 0 0 2 1 -4
+p404
+aVKosta Koufos SAC 11/03/2016 SAC @ ORL L 20 2 1 3 33.3 0 0 - 0 0 - 1 6 7 1 1 0 0 2 0
+p405
+aVRudy Gay SAC 11/03/2016 SAC @ ORL L 32 16 6 13 46.2 2 3 66.7 2 5 40.0 0 2 2 2 1 0 3 3 0
+p406
+aVGarrett Temple SAC 11/03/2016 SAC @ ORL L 13 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 2 1 0 1 1 -4
+p407
+aVDeMarcus Cousins SAC 11/03/2016 SAC @ ORL L 36 33 12 20 60.0 1 3 33.3 8 9 88.9 1 6 7 4 2 1 2 3 -3
+p408
+aVGarrett Temple SAC 11/01/2016 SAC @ MIA L 30 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 0 0 2 1 2 -12
+p409
+aVTy Lawson SAC 11/01/2016 SAC @ MIA L 37 2 1 6 16.7 0 2 0.0 0 0 - 0 5 5 4 0 0 1 3 -5
+p410
+aVDeMarcus Cousins SAC 11/01/2016 SAC @ MIA L 35 30 8 16 50.0 0 0 - 14 18 77.8 1 6 7 4 0 1 4 6 -4
+p411
+aVKosta Koufos SAC 11/01/2016 SAC @ MIA L 25 6 3 4 75.0 0 1 0.0 0 0 - 2 7 9 0 0 1 1 2 -11
+p412
+aVArron Afflalo SAC 11/01/2016 SAC @ MIA L 41 18 7 17 41.2 1 5 20.0 3 3 100.0 0 3 3 0 1 0 2 4 -4
+p413
+aVAnthony Tolliver SAC 11/01/2016 SAC @ MIA L 14 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 0 0 0 1 2 0
+p414
+aVMatt Barnes SAC 11/01/2016 SAC @ MIA L 23 0 0 7 0.0 0 5 0.0 0 0 - 3 5 8 2 1 0 3 2 -12
+p415
+aVRudy Gay SAC 11/01/2016 SAC @ MIA L 42 30 11 24 45.8 2 4 50.0 6 6 100.0 0 12 12 1 1 0 2 2 -11
+p416
+aVBen McLemore SAC 11/01/2016 SAC @ MIA L 18 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 1 1 0 0 0 -1
+p417
+aVTy Lawson SAC 10/31/2016 SAC @ ATL L 23 8 3 5 60.0 1 1 100.0 1 2 50.0 1 1 2 6 3 0 1 3 -4
+p418
+aVDeMarcus Cousins SAC 10/31/2016 SAC @ ATL L 32 14 6 16 37.5 1 5 20.0 1 3 33.3 2 10 12 1 0 1 4 5 -4
+p419
+aVGarrett Temple SAC 10/31/2016 SAC @ ATL L 25 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 3 0 1 1 3 -7
+p420
+aVKosta Koufos SAC 10/31/2016 SAC @ ATL L 25 4 2 5 40.0 0 0 - 0 0 - 1 7 8 3 2 2 4 4 10
+p421
+aVRudy Gay SAC 10/31/2016 SAC @ ATL L 31 22 8 13 61.5 1 2 50.0 5 7 71.4 0 3 3 5 2 0 2 5 0
+p422
+aVBen McLemore SAC 10/31/2016 SAC @ ATL L 26 12 5 11 45.5 1 2 50.0 1 2 50.0 1 1 2 1 0 1 0 3 -9
+p423
+aVArron Afflalo SAC 10/31/2016 SAC @ ATL L 25 9 3 3 100.0 0 0 - 3 3 100.0 0 2 2 2 1 0 1 3 -3
+p424
+aVMatt Barnes SAC 10/31/2016 SAC @ ATL L 28 14 4 9 44.4 4 8 50.0 2 2 100.0 0 5 5 3 1 0 4 4 -24
+p425
+aVWillie Cauley-Stein SAC 10/31/2016 SAC @ ATL L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 1 1 3 -4
+p426
+aVAnthony Tolliver SAC 10/31/2016 SAC @ ATL L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 1 1 -10
+p427
+aVKosta Koufos SAC 10/29/2016 SAC vs. MIN W 20 4 2 5 40.0 0 0 - 0 0 - 3 4 7 0 0 0 2 3 -9
+p428
+aVOmri Casspi SAC 10/29/2016 SAC vs. MIN W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 1
+p429
+aVMatt Barnes SAC 10/29/2016 SAC vs. MIN W 27 12 4 10 40.0 3 6 50.0 1 2 50.0 0 5 5 9 1 1 2 4 8
+p430
+aVRudy Gay SAC 10/29/2016 SAC vs. MIN W 33 28 11 20 55.0 0 0 - 6 8 75.0 2 4 6 2 1 2 2 3 15
+p431
+aVDeMarcus Cousins SAC 10/29/2016 SAC vs. MIN W 33 29 9 16 56.3 0 2 0.0 11 14 78.6 5 2 7 4 1 0 3 6 14
+p432
+aVArron Afflalo SAC 10/29/2016 SAC vs. MIN W 30 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 2 0 1 0 2 18
+p433
+aVWillie Cauley-Stein SAC 10/29/2016 SAC vs. MIN W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p434
+aVBen McLemore SAC 10/29/2016 SAC vs. MIN W 18 13 5 10 50.0 2 4 50.0 1 1 100.0 0 0 0 0 0 0 1 1 -15
+p435
+aVAnthony Tolliver SAC 10/29/2016 SAC vs. MIN W 13 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 1 -9
+p436
+aVTy Lawson SAC 10/29/2016 SAC vs. MIN W 34 8 3 10 30.0 2 5 40.0 0 0 - 0 1 1 5 3 0 2 2 -4
+p437
+aVGarrett Temple SAC 10/29/2016 SAC vs. MIN W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 1 1 0 7
+p438
+aVRudy Gay SAC 10/27/2016 SAC vs. SAS L 32 17 3 10 30.0 1 3 33.3 10 12 83.3 0 7 7 2 2 0 1 4 2
+p439
+aVDeMarcus Cousins SAC 10/27/2016 SAC vs. SAS L 37 37 10 22 45.5 3 5 60.0 14 16 87.5 3 13 16 2 1 0 3 3 -2
+p440
+aVGarrett Temple SAC 10/27/2016 SAC vs. SAS L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 2 -9
+p441
+aVTy Lawson SAC 10/27/2016 SAC vs. SAS L 36 7 3 7 42.9 0 2 0.0 1 2 50.0 1 3 4 9 1 0 1 1 1
+p442
+aVAnthony Tolliver SAC 10/27/2016 SAC vs. SAS L 15 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 2 1 -13
+p443
+aVBen McLemore SAC 10/27/2016 SAC vs. SAS L 10 10 3 4 75.0 0 0 - 4 4 100.0 0 2 2 1 0 0 2 2 -5
+p444
+aVWillie Cauley-Stein SAC 10/27/2016 SAC vs. SAS L 11 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -6
+p445
+aVKosta Koufos SAC 10/27/2016 SAC vs. SAS L 24 8 4 7 57.1 0 0 - 0 0 - 2 5 7 3 1 0 3 2 2
+p446
+aVMatt Barnes SAC 10/27/2016 SAC vs. SAS L 27 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 1 0 2 3 -14
+p447
+aVArron Afflalo SAC 10/27/2016 SAC vs. SAS L 36 7 3 9 33.3 1 3 33.3 0 0 - 0 4 4 1 1 0 0 1 4
+p448
+aVOmri Casspi SAC 10/26/2016 SAC @ PHX W 9 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 2 0 7
+p449
+aVArron Afflalo SAC 10/26/2016 SAC @ PHX W 26 8 2 7 28.6 2 2 100.0 2 2 100.0 0 3 3 0 1 0 0 3 6
+p450
+aVRudy Gay SAC 10/26/2016 SAC @ PHX W 33 22 9 15 60.0 1 3 33.3 3 4 75.0 0 3 3 2 0 4 0 1 26
+p451
+aVMatt Barnes SAC 10/26/2016 SAC @ PHX W 28 14 6 9 66.7 2 5 40.0 0 0 - 1 6 7 3 0 0 1 4 12
+p452
+aVBen McLemore SAC 10/26/2016 SAC @ PHX W 17 6 3 7 42.9 0 2 0.0 0 1 0.0 0 0 0 2 0 0 1 0 21
+p453
+aVTy Lawson SAC 10/26/2016 SAC @ PHX W 36 9 3 9 33.3 1 4 25.0 2 2 100.0 3 3 6 7 2 1 2 2 2
+p454
+aVGarrett Temple SAC 10/26/2016 SAC @ PHX W 18 12 6 8 75.0 0 1 0.0 0 0 - 1 1 2 3 0 0 2 2 7
+p455
+aVKosta Koufos SAC 10/26/2016 SAC @ PHX W 13 2 1 6 16.7 0 0 - 0 1 0.0 0 4 4 1 0 0 1 1 12
+p456
+aVMalachi Richardson SAC 10/26/2016 SAC @ PHX W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p457
+aVWillie Cauley-Stein SAC 10/26/2016 SAC @ PHX W 19 6 3 6 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 0
+p458
+aVAnthony Tolliver SAC 10/26/2016 SAC @ PHX W 15 6 3 6 50.0 0 3 0.0 0 0 - 2 3 5 2 0 0 0 1 -7
+p459
+aVDeMarcus Cousins SAC 10/26/2016 SAC @ PHX W 25 24 6 10 60.0 0 1 0.0 12 16 75.0 1 5 6 2 1 0 3 4 13
+p460
+a.

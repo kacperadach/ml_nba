@@ -1,0 +1,1768 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTrevor Ariza NOH 04/13/2011 NOH @ DAL L 26 6 2 7 28.6 0 0 - 2 2 100.0 1 5 6 1 1 0 3 3 -15
+p2
+aVMarco Belinelli NOH 04/13/2011 NOH @ DAL L 21 14 5 11 45.5 4 8 50.0 0 0 - 0 1 1 0 2 0 1 1 -10
+p3
+aVQuincy Pondexter NOH 04/13/2011 NOH @ DAL L 22 10 4 7 57.1 1 2 50.0 1 2 50.0 1 3 4 0 1 0 0 0 -23
+p4
+aVChris Paul NOH 04/13/2011 NOH @ DAL L 25 7 2 9 22.2 0 1 0.0 3 3 100.0 0 1 1 8 1 0 3 3 -12
+p5
+aVJason Smith NOH 04/13/2011 NOH @ DAL L 21 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -19
+p6
+aVDJ Mbenga NOH 04/13/2011 NOH @ DAL L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -18
+p7
+aVPatrick Ewing Jr. NOH 04/13/2011 NOH @ DAL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -11
+p8
+aVJarrett Jack NOH 04/13/2011 NOH @ DAL L 29 22 8 15 53.3 1 1 100.0 5 6 83.3 0 0 0 7 0 1 1 2 -21
+p9
+aVAaron Gray NOH 04/13/2011 NOH @ DAL L 18 0 0 3 0.0 0 0 - 0 0 - 1 9 10 1 1 0 2 5 -10
+p10
+aVWillie Green NOH 04/13/2011 NOH @ DAL L 18 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 3 0 0 1 1 -7
+p11
+aVEmeka Okafor NOH 04/13/2011 NOH @ DAL L 19 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 0 1 0 0 2 -4
+p12
+aVCarl Landry NOH 04/13/2011 NOH @ DAL L 24 10 4 8 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 4 -10
+p13
+aVEmeka Okafor NOH 04/11/2011 NOH vs. UTA L 32 5 2 7 28.6 0 0 - 1 2 50.0 3 5 8 0 1 0 2 0 -15
+p14
+aVMarco Belinelli NOH 04/11/2011 NOH vs. UTA L 23 13 5 8 62.5 1 2 50.0 2 2 100.0 0 0 0 1 1 0 3 2 -8
+p15
+aVJarrett Jack NOH 04/11/2011 NOH vs. UTA L 21 4 1 8 12.5 0 1 0.0 2 2 100.0 0 1 1 6 1 0 0 2 1
+p16
+aVQuincy Pondexter NOH 04/11/2011 NOH vs. UTA L 11 4 1 4 25.0 1 1 100.0 1 2 50.0 1 1 2 1 1 0 0 0 -3
+p17
+aVPatrick Ewing Jr. NOH 04/11/2011 NOH vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p18
+aVWillie Green NOH 04/11/2011 NOH vs. UTA L 24 12 4 10 40.0 2 4 50.0 2 2 100.0 0 2 2 0 2 1 1 2 -4
+p19
+aVJason Smith NOH 04/11/2011 NOH vs. UTA L 19 12 6 10 60.0 0 0 - 0 0 - 3 3 6 1 1 0 2 3 -1
+p20
+aVCarl Landry NOH 04/11/2011 NOH vs. UTA L 29 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 0 -11
+p21
+aVAaron Gray NOH 04/11/2011 NOH vs. UTA L 16 3 1 5 20.0 0 0 - 1 2 50.0 2 7 9 1 0 0 1 3 3
+p22
+aVChris Paul NOH 04/11/2011 NOH vs. UTA L 35 15 6 13 46.2 0 1 0.0 3 4 75.0 2 3 5 5 3 0 2 2 -12
+p23
+aVTrevor Ariza NOH 04/11/2011 NOH vs. UTA L 29 5 0 4 0.0 0 2 0.0 5 8 62.5 0 4 4 1 1 0 2 3 -15
+p24
+aVCarl Landry NOH 04/10/2011 NOH @ MEM L 20 11 4 8 50.0 0 0 - 3 3 100.0 1 1 2 1 0 0 1 4 -3
+p25
+aVPatrick Ewing Jr. NOH 04/10/2011 NOH @ MEM L 6 3 0 3 0.0 0 1 0.0 3 4 75.0 1 0 1 1 0 1 0 1 2
+p26
+aVAaron Gray NOH 04/10/2011 NOH @ MEM L 15 2 1 6 16.7 0 0 - 0 0 - 2 3 5 0 1 0 0 6 -21
+p27
+aVJason Smith NOH 04/10/2011 NOH @ MEM L 19 8 4 6 66.7 0 0 - 0 0 - 0 3 3 0 1 1 0 1 -14
+p28
+aVTrevor Ariza NOH 04/10/2011 NOH @ MEM L 35 11 5 11 45.5 1 2 50.0 0 0 - 0 4 4 4 2 0 1 0 -26
+p29
+aVMarco Belinelli NOH 04/10/2011 NOH @ MEM L 28 18 7 12 58.3 4 9 44.4 0 2 0.0 0 2 2 3 0 0 3 3 -1
+p30
+aVJarrett Jack NOH 04/10/2011 NOH @ MEM L 20 10 2 7 28.6 1 1 100.0 5 5 100.0 1 0 1 3 0 0 0 0 -10
+p31
+aVDJ Mbenga NOH 04/10/2011 NOH @ MEM L 7 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 1 0 2 0 1 4
+p32
+aVEmeka Okafor NOH 04/10/2011 NOH @ MEM L 28 7 3 6 50.0 0 0 - 1 3 33.3 5 2 7 0 2 0 2 3 -12
+p33
+aVChris Paul NOH 04/10/2011 NOH @ MEM L 29 0 0 6 0.0 0 1 0.0 0 2 0.0 0 3 3 10 2 0 2 1 -12
+p34
+aVWillie Green NOH 04/10/2011 NOH @ MEM L 20 11 4 9 44.4 2 3 66.7 1 2 50.0 0 1 1 1 0 0 4 4 -21
+p35
+aVQuincy Pondexter NOH 04/10/2011 NOH @ MEM L 13 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 1 0 1 1 4
+p36
+aVAaron Gray NOH 04/08/2011 NOH vs. PHX W 8 0 0 0 - 0 0 - 0 2 0.0 0 4 4 0 0 0 1 1 14
+p37
+aVPatrick Ewing Jr. NOH 04/08/2011 NOH vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p38
+aVJarrett Jack NOH 04/08/2011 NOH vs. PHX W 19 8 3 6 50.0 0 0 - 2 4 50.0 0 1 1 6 0 0 1 0 10
+p39
+aVQuincy Pondexter NOH 04/08/2011 NOH vs. PHX W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -3
+p40
+aVEmeka Okafor NOH 04/08/2011 NOH vs. PHX W 29 10 3 8 37.5 0 0 - 4 7 57.1 2 3 5 1 1 2 1 4 -3
+p41
+aVTrevor Ariza NOH 04/08/2011 NOH vs. PHX W 41 21 9 17 52.9 1 4 25.0 2 2 100.0 1 7 8 4 3 0 0 1 10
+p42
+aVChris Paul NOH 04/08/2011 NOH vs. PHX W 36 7 3 8 37.5 1 2 50.0 0 0 - 0 5 5 12 2 0 3 4 10
+p43
+aVWillie Green NOH 04/08/2011 NOH vs. PHX W 31 31 12 17 70.6 5 6 83.3 2 2 100.0 1 2 3 4 1 0 1 2 29
+p44
+aVCarl Landry NOH 04/08/2011 NOH vs. PHX W 33 17 8 10 80.0 0 0 - 1 1 100.0 2 3 5 0 0 1 2 2 -7
+p45
+aVMarco Belinelli NOH 04/08/2011 NOH vs. PHX W 17 9 4 11 36.4 1 3 33.3 0 0 - 0 1 1 3 1 0 2 2 -17
+p46
+aVJason Smith NOH 04/08/2011 NOH vs. PHX W 17 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 1 2 0 1 15
+p47
+aVAaron Gray NOH 04/06/2011 NOH vs. HOU W 15 4 2 5 40.0 0 0 - 0 0 - 3 1 4 1 1 0 0 0 1
+p48
+aVTrevor Ariza NOH 04/06/2011 NOH vs. HOU W 40 19 9 17 52.9 1 3 33.3 0 1 0.0 1 4 5 1 6 0 3 4 10
+p49
+aVChris Paul NOH 04/06/2011 NOH vs. HOU W 42 28 10 20 50.0 1 2 50.0 7 8 87.5 1 8 9 10 1 0 1 4 11
+p50
+aVJarrett Jack NOH 04/06/2011 NOH vs. HOU W 32 19 5 10 50.0 2 2 100.0 7 8 87.5 0 2 2 5 2 0 0 1 11
+p51
+aVCarl Landry NOH 04/06/2011 NOH vs. HOU W 35 5 2 10 20.0 0 0 - 1 1 100.0 2 7 9 0 0 1 0 4 7
+p52
+aVEmeka Okafor NOH 04/06/2011 NOH vs. HOU W 29 11 4 6 66.7 0 0 - 3 4 75.0 2 1 3 2 2 1 5 3 0
+p53
+aVWillie Green NOH 04/06/2011 NOH vs. HOU W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p54
+aVJason Smith NOH 04/06/2011 NOH vs. HOU W 17 8 2 6 33.3 0 0 - 4 4 100.0 2 3 5 0 0 0 1 2 4
+p55
+aVMarco Belinelli NOH 04/06/2011 NOH vs. HOU W 18 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 0 -4
+p56
+aVWillie Green NOH 04/03/2011 NOH vs. IND W 20 9 3 9 33.3 1 4 25.0 2 2 100.0 0 1 1 1 0 0 3 2 -9
+p57
+aVJason Smith NOH 04/03/2011 NOH vs. IND W 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 0 -9
+p58
+aVPatrick Ewing Jr. NOH 04/03/2011 NOH vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p59
+aVTrevor Ariza NOH 04/03/2011 NOH vs. IND W 40 19 8 13 61.5 2 3 66.7 1 1 100.0 1 8 9 3 0 0 3 2 20
+p60
+aVChris Paul NOH 04/03/2011 NOH vs. IND W 29 18 8 13 61.5 1 2 50.0 1 2 50.0 0 2 2 8 2 0 2 0 23
+p61
+aVCarl Landry NOH 04/03/2011 NOH vs. IND W 31 18 6 9 66.7 0 0 - 6 7 85.7 2 6 8 1 0 0 1 5 19
+p62
+aVJarrett Jack NOH 04/03/2011 NOH vs. IND W 24 11 2 6 33.3 0 1 0.0 7 7 100.0 1 0 1 2 2 0 2 1 -9
+p63
+aVEmeka Okafor NOH 04/03/2011 NOH vs. IND W 34 14 6 11 54.5 0 0 - 2 3 66.7 7 10 17 1 0 1 2 4 18
+p64
+aVMarco Belinelli NOH 04/03/2011 NOH vs. IND W 23 9 4 9 44.4 1 5 20.0 0 0 - 0 0 0 2 0 0 0 1 21
+p65
+aVQuincy Pondexter NOH 04/03/2011 NOH vs. IND W 14 2 1 6 16.7 0 0 - 0 2 0.0 2 2 4 2 0 0 0 1 -13
+p66
+aVAaron Gray NOH 04/03/2011 NOH vs. IND W 14 8 4 5 80.0 0 0 - 0 0 - 2 1 3 0 0 0 0 5 4
+p67
+aVJason Smith NOH 04/01/2011 NOH vs. MEM L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -5
+p68
+aVCarl Landry NOH 04/01/2011 NOH vs. MEM L 32 19 8 13 61.5 0 0 - 3 4 75.0 1 1 2 2 1 0 1 5 -9
+p69
+aVAaron Gray NOH 04/01/2011 NOH vs. MEM L 15 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 1 0 1 2 5 0
+p70
+aVTrevor Ariza NOH 04/01/2011 NOH vs. MEM L 29 12 4 10 40.0 2 4 50.0 2 2 100.0 0 2 2 2 2 1 0 3 -15
+p71
+aVChris Paul NOH 04/01/2011 NOH vs. MEM L 36 5 2 8 25.0 0 1 0.0 1 2 50.0 1 4 5 13 1 1 2 1 -12
+p72
+aVWillie Green NOH 04/01/2011 NOH vs. MEM L 15 6 1 4 25.0 0 0 - 4 4 100.0 0 0 0 0 2 0 0 0 -9
+p73
+aVEmeka Okafor NOH 04/01/2011 NOH vs. MEM L 36 6 2 5 40.0 0 0 - 2 2 100.0 5 5 10 1 1 2 3 3 -15
+p74
+aVPatrick Ewing Jr. NOH 04/01/2011 NOH vs. MEM L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p75
+aVDavid Andersen NOH 04/01/2011 NOH vs. MEM L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 4
+p76
+aVMarco Belinelli NOH 04/01/2011 NOH vs. MEM L 28 14 5 9 55.6 2 5 40.0 2 2 100.0 0 1 1 0 1 0 2 2 -3
+p77
+aVQuincy Pondexter NOH 04/01/2011 NOH vs. MEM L 13 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 5
+p78
+aVJarrett Jack NOH 04/01/2011 NOH vs. MEM L 23 8 4 10 40.0 0 2 0.0 0 0 - 0 1 1 4 1 0 0 0 -5
+p79
+aVEmeka Okafor NOH 03/30/2011 NOH vs. POR W 40 15 6 9 66.7 0 0 - 3 6 50.0 4 6 10 0 1 3 2 6 7
+p80
+aVQuincy Pondexter NOH 03/30/2011 NOH vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p81
+aVCarl Landry NOH 03/30/2011 NOH vs. POR W 39 21 7 15 46.7 0 0 - 7 10 70.0 4 2 6 0 1 1 1 4 3
+p82
+aVJason Smith NOH 03/30/2011 NOH vs. POR W 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 11
+p83
+aVMarco Belinelli NOH 03/30/2011 NOH vs. POR W 26 16 5 7 71.4 4 5 80.0 2 2 100.0 0 2 2 0 0 0 0 2 5
+p84
+aVAaron Gray NOH 03/30/2011 NOH vs. POR W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -7
+p85
+aVJarrett Jack NOH 03/30/2011 NOH vs. POR W 25 8 3 8 37.5 0 3 0.0 2 2 100.0 0 2 2 3 1 0 0 2 0
+p86
+aVChris Paul NOH 03/30/2011 NOH vs. POR W 45 11 4 15 26.7 0 2 0.0 3 3 100.0 0 7 7 12 4 0 1 3 7
+p87
+aVTrevor Ariza NOH 03/30/2011 NOH vs. POR W 29 8 3 7 42.9 0 3 0.0 2 2 100.0 0 3 3 2 0 2 1 0 -5
+p88
+aVWillie Green NOH 03/30/2011 NOH vs. POR W 23 12 4 8 50.0 1 2 50.0 3 4 75.0 1 1 2 0 1 0 0 0 3
+p89
+aVPatrick Ewing Jr. NOH 03/30/2011 NOH vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p90
+aVWillie Green NOH 03/27/2011 NOH @ LAL L 26 6 3 10 30.0 0 2 0.0 0 0 - 1 1 2 2 0 0 0 1 -8
+p91
+aVCarl Landry NOH 03/27/2011 NOH @ LAL L 44 24 8 16 50.0 0 0 - 8 9 88.9 3 7 10 1 0 1 2 1 -19
+p92
+aVJarrett Jack NOH 03/27/2011 NOH @ LAL L 15 8 3 9 33.3 2 3 66.7 0 0 - 0 3 3 2 0 0 1 1 6
+p93
+aVMarco Belinelli NOH 03/27/2011 NOH @ LAL L 25 9 4 16 25.0 1 7 14.3 0 0 - 0 0 0 1 0 0 1 2 -11
+p94
+aVChris Paul NOH 03/27/2011 NOH @ LAL L 37 10 4 10 40.0 0 1 0.0 2 2 100.0 1 4 5 9 2 0 2 3 -25
+p95
+aVTrevor Ariza NOH 03/27/2011 NOH @ LAL L 28 4 2 7 28.6 0 3 0.0 0 0 - 1 4 5 5 0 0 2 5 -21
+p96
+aVAaron Gray NOH 03/27/2011 NOH @ LAL L 18 7 3 3 100.0 0 0 - 1 2 50.0 3 4 7 0 0 0 1 4 6
+p97
+aVQuincy Pondexter NOH 03/27/2011 NOH @ LAL L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 0 5
+p98
+aVJason Smith NOH 03/27/2011 NOH @ LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p99
+aVEmeka Okafor NOH 03/27/2011 NOH @ LAL L 30 14 7 11 63.6 0 0 - 0 2 0.0 8 3 11 2 2 2 0 4 -24
+p100
+aVDavid Andersen NOH 03/25/2011 NOH @ PHX W 8 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -4
+p101
+aVWillie Green NOH 03/25/2011 NOH @ PHX W 19 15 5 10 50.0 2 3 66.7 3 4 75.0 0 1 1 0 0 0 2 5 7
+p102
+aVQuincy Pondexter NOH 03/25/2011 NOH @ PHX W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p103
+aVAaron Gray NOH 03/25/2011 NOH @ PHX W 12 2 1 1 100.0 0 0 - 0 1 0.0 1 3 4 0 0 0 1 1 1
+p104
+aVJason Smith NOH 03/25/2011 NOH @ PHX W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p105
+aVCarl Landry NOH 03/25/2011 NOH @ PHX W 31 19 8 16 50.0 0 0 - 3 4 75.0 4 2 6 0 3 0 2 3 8
+p106
+aVMarco Belinelli NOH 03/25/2011 NOH @ PHX W 19 3 1 7 14.3 1 2 50.0 0 0 - 0 1 1 0 0 1 0 4 6
+p107
+aVTrevor Ariza NOH 03/25/2011 NOH @ PHX W 39 16 6 13 46.2 2 5 40.0 2 2 100.0 2 4 6 2 1 1 1 2 2
+p108
+aVChris Paul NOH 03/25/2011 NOH @ PHX W 37 22 10 16 62.5 0 2 0.0 2 4 50.0 0 5 5 7 0 0 1 4 5
+p109
+aVJarrett Jack NOH 03/25/2011 NOH @ PHX W 27 17 7 11 63.6 2 3 66.7 1 1 100.0 0 1 1 5 2 0 0 1 6
+p110
+aVEmeka Okafor NOH 03/25/2011 NOH @ PHX W 37 6 3 6 50.0 0 0 - 0 0 - 5 7 12 0 1 2 3 4 5
+p111
+aVTrevor Ariza NOH 03/24/2011 NOH @ UTA W 48 14 5 9 55.6 3 5 60.0 1 3 33.3 0 9 9 2 4 1 1 3 5
+p112
+aVJason Smith NOH 03/24/2011 NOH @ UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p113
+aVEmeka Okafor NOH 03/24/2011 NOH @ UTA W 30 12 5 8 62.5 0 0 - 2 2 100.0 2 4 6 3 0 1 1 3 12
+p114
+aVChris Paul NOH 03/24/2011 NOH @ UTA W 44 24 8 15 53.3 0 2 0.0 8 9 88.9 1 2 3 12 0 0 1 1 10
+p115
+aVJarrett Jack NOH 03/24/2011 NOH @ UTA W 30 15 5 11 45.5 1 2 50.0 4 5 80.0 0 3 3 2 1 0 0 2 1
+p116
+aVAaron Gray NOH 03/24/2011 NOH @ UTA W 20 10 3 5 60.0 0 0 - 4 5 80.0 5 3 8 2 0 0 0 1 7
+p117
+aVDavid West NOH 03/24/2011 NOH @ UTA W 38 29 12 25 48.0 0 0 - 5 6 83.3 2 1 3 0 1 1 2 4 -5
+p118
+aVCarl Landry NOH 03/24/2011 NOH @ UTA W 14 3 0 3 0.0 0 0 - 3 4 75.0 1 0 1 0 0 0 2 2 0
+p119
+aVWillie Green NOH 03/24/2011 NOH @ UTA W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p120
+aVMarco Belinelli NOH 03/24/2011 NOH @ UTA W 28 14 5 8 62.5 3 4 75.0 1 1 100.0 0 2 2 4 2 0 0 4 1
+p121
+aVTrevor Ariza NOH 03/19/2011 NOH vs. BOS L 45 10 4 10 40.0 2 5 40.0 0 2 0.0 2 6 8 4 3 0 1 1 -2
+p122
+aVChris Paul NOH 03/19/2011 NOH vs. BOS L 39 4 0 9 0.0 0 4 0.0 4 4 100.0 1 6 7 15 1 0 3 2 0
+p123
+aVCarl Landry NOH 03/19/2011 NOH vs. BOS L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -7
+p124
+aVWillie Green NOH 03/19/2011 NOH vs. BOS L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -15
+p125
+aVDavid West NOH 03/19/2011 NOH vs. BOS L 44 32 14 23 60.9 0 0 - 4 6 66.7 1 7 8 0 2 2 2 1 -5
+p126
+aVMarco Belinelli NOH 03/19/2011 NOH vs. BOS L 37 23 8 13 61.5 5 8 62.5 2 2 100.0 0 2 2 0 2 0 2 3 11
+p127
+aVJarrett Jack NOH 03/19/2011 NOH vs. BOS L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p128
+aVEmeka Okafor NOH 03/19/2011 NOH vs. BOS L 42 10 4 8 50.0 0 0 - 2 4 50.0 6 5 11 1 0 1 2 5 4
+p129
+aVQuincy Pondexter NOH 03/19/2011 NOH vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p130
+aVAaron Gray NOH 03/19/2011 NOH vs. BOS L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p131
+aVQuincy Pondexter NOH 03/16/2011 NOH vs. PHX W 12 8 3 6 50.0 2 3 66.7 0 0 - 1 0 1 0 0 1 1 0 2
+p132
+aVTrevor Ariza NOH 03/16/2011 NOH vs. PHX W 40 8 4 12 33.3 0 2 0.0 0 0 - 0 5 5 2 1 1 0 2 10
+p133
+aVWillie Green NOH 03/16/2011 NOH vs. PHX W 35 11 3 11 27.3 1 6 16.7 4 6 66.7 0 2 2 3 0 1 2 2 -11
+p134
+aVAaron Gray NOH 03/16/2011 NOH vs. PHX W 10 4 2 4 50.0 0 0 - 0 0 - 3 4 7 1 0 1 0 1 4
+p135
+aVDavid West NOH 03/16/2011 NOH vs. PHX W 31 16 6 10 60.0 0 0 - 4 4 100.0 1 8 9 4 0 0 3 4 -3
+p136
+aVJarrett Jack NOH 03/16/2011 NOH vs. PHX W 12 0 0 4 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -2
+p137
+aVEmeka Okafor NOH 03/16/2011 NOH vs. PHX W 38 16 6 8 75.0 0 0 - 4 6 66.7 3 8 11 0 0 1 3 1 0
+p138
+aVMarco Belinelli NOH 03/16/2011 NOH vs. PHX W 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 2 3 9
+p139
+aVCarl Landry NOH 03/16/2011 NOH vs. PHX W 17 8 4 7 57.1 0 0 - 0 0 - 1 0 1 1 0 1 1 0 8
+p140
+aVChris Paul NOH 03/16/2011 NOH vs. PHX W 36 26 9 16 56.3 2 4 50.0 6 7 85.7 0 5 5 9 3 0 1 2 8
+p141
+aVMarco Belinelli NOH 03/14/2011 NOH vs. DEN L 24 9 3 10 30.0 3 8 37.5 0 0 - 0 1 1 1 0 0 1 1 2
+p142
+aVChris Paul NOH 03/14/2011 NOH vs. DEN L 42 27 9 16 56.3 2 5 40.0 7 9 77.8 0 5 5 10 7 0 2 2 -6
+p143
+aVDavid West NOH 03/14/2011 NOH vs. DEN L 31 6 2 9 22.2 0 0 - 2 2 100.0 0 4 4 6 1 2 3 1 -18
+p144
+aVQuincy Pondexter NOH 03/14/2011 NOH vs. DEN L 5 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p145
+aVTrevor Ariza NOH 03/14/2011 NOH vs. DEN L 22 10 4 9 44.4 0 1 0.0 2 3 66.7 1 1 2 2 1 0 3 2 -15
+p146
+aVJason Smith NOH 03/14/2011 NOH vs. DEN L 13 8 4 6 66.7 0 0 - 0 0 - 4 1 5 0 0 0 2 0 8
+p147
+aVWillie Green NOH 03/14/2011 NOH vs. DEN L 29 18 7 16 43.8 3 4 75.0 1 1 100.0 1 1 2 0 1 0 1 4 1
+p148
+aVCarl Landry NOH 03/14/2011 NOH vs. DEN L 20 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 0 3 -5
+p149
+aVEmeka Okafor NOH 03/14/2011 NOH vs. DEN L 28 6 3 4 75.0 0 0 - 0 0 - 2 5 7 0 2 1 0 3 -3
+p150
+aVJarrett Jack NOH 03/14/2011 NOH vs. DEN L 22 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 2 1 0 2 0 -10
+p151
+aVAaron Gray NOH 03/14/2011 NOH vs. DEN L 4 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -4
+p152
+aVChris Paul NOH 03/12/2011 NOH vs. SAC W 43 33 13 21 61.9 1 4 25.0 6 7 85.7 0 7 7 15 5 0 2 1 15
+p153
+aVJason Smith NOH 03/12/2011 NOH vs. SAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 0
+p154
+aVTrevor Ariza NOH 03/12/2011 NOH vs. SAC W 32 6 2 8 25.0 1 3 33.3 1 2 50.0 2 4 6 1 1 0 0 1 3
+p155
+aVCarl Landry NOH 03/12/2011 NOH vs. SAC W 34 20 5 10 50.0 0 0 - 10 11 90.9 3 1 4 2 1 2 1 4 5
+p156
+aVAaron Gray NOH 03/12/2011 NOH vs. SAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -3
+p157
+aVDavid West NOH 03/12/2011 NOH vs. SAC W 36 25 12 18 66.7 0 0 - 1 2 50.0 1 8 9 1 3 0 3 6 1
+p158
+aVQuincy Pondexter NOH 03/12/2011 NOH vs. SAC W 7 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 -5
+p159
+aVEmeka Okafor NOH 03/12/2011 NOH vs. SAC W 19 5 1 2 50.0 0 0 - 3 5 60.0 2 3 5 0 0 3 4 4 19
+p160
+aVWillie Green NOH 03/12/2011 NOH vs. SAC W 22 8 4 7 57.1 0 0 - 0 0 - 0 4 4 1 0 0 0 1 13
+p161
+aVMarco Belinelli NOH 03/12/2011 NOH vs. SAC W 23 12 3 7 42.9 1 3 33.3 5 5 100.0 0 0 0 0 0 0 0 1 3
+p162
+aVJarrett Jack NOH 03/12/2011 NOH vs. SAC W 16 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 2 0 0 1 0 9
+p163
+aVEmeka Okafor NOH 03/09/2011 NOH vs. DAL W 24 8 3 4 75.0 0 0 - 2 3 66.7 1 5 6 0 2 1 2 5 -7
+p164
+aVTrevor Ariza NOH 03/09/2011 NOH vs. DAL W 41 6 0 10 0.0 0 3 0.0 6 8 75.0 2 7 9 0 2 1 2 2 -3
+p165
+aVCarl Landry NOH 03/09/2011 NOH vs. DAL W 26 15 7 9 77.8 0 0 - 1 2 50.0 1 3 4 0 0 0 0 6 9
+p166
+aVMarco Belinelli NOH 03/09/2011 NOH vs. DAL W 40 21 8 15 53.3 4 7 57.1 1 3 33.3 0 5 5 1 0 0 0 3 5
+p167
+aVAaron Gray NOH 03/09/2011 NOH vs. DAL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 4 7
+p168
+aVJarrett Jack NOH 03/09/2011 NOH vs. DAL W 42 21 8 19 42.1 0 1 0.0 5 5 100.0 1 5 6 7 0 0 2 5 10
+p169
+aVDavid West NOH 03/09/2011 NOH vs. DAL W 38 16 5 12 41.7 0 0 - 6 8 75.0 4 6 10 4 0 1 1 0 -7
+p170
+aVWillie Green NOH 03/09/2011 NOH vs. DAL W 22 6 3 9 33.3 0 1 0.0 0 0 - 0 3 3 1 1 0 1 2 -9
+p171
+aVCarl Landry NOH 03/07/2011 NOH @ CHI L 21 10 4 8 50.0 0 0 - 2 2 100.0 2 0 2 0 0 0 2 2 5
+p172
+aVQuincy Pondexter NOH 03/07/2011 NOH @ CHI L 25 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 2
+p173
+aVMarco Belinelli NOH 03/07/2011 NOH @ CHI L 44 17 6 12 50.0 3 6 50.0 2 2 100.0 0 9 9 0 1 0 0 2 -10
+p174
+aVDavid West NOH 03/07/2011 NOH @ CHI L 41 11 4 17 23.5 0 2 0.0 3 3 100.0 4 7 11 3 1 4 2 4 -13
+p175
+aVJarrett Jack NOH 03/07/2011 NOH @ CHI L 43 23 8 19 42.1 1 2 50.0 6 7 85.7 0 4 4 3 2 0 5 2 -15
+p176
+aVWillie Green NOH 03/07/2011 NOH @ CHI L 31 6 3 13 23.1 0 2 0.0 0 0 - 0 4 4 2 0 1 0 2 -1
+p177
+aVEmeka Okafor NOH 03/07/2011 NOH @ CHI L 30 8 3 7 42.9 0 0 - 2 4 50.0 2 4 6 1 0 5 1 3 -5
+p178
+aVAaron Gray NOH 03/07/2011 NOH @ CHI L 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -3
+p179
+aVWillie Green NOH 03/06/2011 NOH @ CLE W 33 10 5 10 50.0 0 2 0.0 0 1 0.0 0 4 4 1 3 0 4 3 17
+p180
+aVJason Smith NOH 03/06/2011 NOH @ CLE W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p181
+aVJarrett Jack NOH 03/06/2011 NOH @ CLE W 28 14 5 9 55.6 0 0 - 4 4 100.0 0 6 6 5 2 0 1 2 12
+p182
+aVMarco Belinelli NOH 03/06/2011 NOH @ CLE W 41 18 7 14 50.0 2 5 40.0 2 2 100.0 1 4 5 1 0 1 2 4 14
+p183
+aVAaron Gray NOH 03/06/2011 NOH @ CLE W 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -12
+p184
+aVCarl Landry NOH 03/06/2011 NOH @ CLE W 13 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -2
+p185
+aVChris Paul NOH 03/06/2011 NOH @ CLE W 27 13 5 10 50.0 1 1 100.0 2 2 100.0 0 1 1 11 0 0 0 1 4
+p186
+aVDavid West NOH 03/06/2011 NOH @ CLE W 35 23 8 13 61.5 0 0 - 7 9 77.8 2 5 7 1 1 0 1 4 22
+p187
+aVEmeka Okafor NOH 03/06/2011 NOH @ CLE W 33 10 5 7 71.4 0 0 - 0 0 - 1 6 7 1 0 4 1 2 21
+p188
+aVQuincy Pondexter NOH 03/06/2011 NOH @ CLE W 15 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 0 1 0 2 -2
+p189
+aVMarco Belinelli NOH 03/04/2011 NOH @ MEM W 17 14 6 7 85.7 1 1 100.0 1 1 100.0 0 1 1 1 0 0 1 3 6
+p190
+aVAaron Gray NOH 03/04/2011 NOH @ MEM W 18 0 0 1 0.0 0 0 - 0 0 - 0 6 6 0 0 2 4 3 -3
+p191
+aVCarl Landry NOH 03/04/2011 NOH @ MEM W 38 14 6 14 42.9 0 0 - 2 2 100.0 4 6 10 1 3 1 3 5 14
+p192
+aVQuincy Pondexter NOH 03/04/2011 NOH @ MEM W 29 4 2 5 40.0 0 2 0.0 0 0 - 1 3 4 0 0 0 0 2 6
+p193
+aVDavid Andersen NOH 03/04/2011 NOH @ MEM W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -2
+p194
+aVWillie Green NOH 03/04/2011 NOH @ MEM W 27 15 6 11 54.5 0 1 0.0 3 5 60.0 0 2 2 0 0 0 2 0 -8
+p195
+aVChris Paul NOH 03/04/2011 NOH @ MEM W 38 23 7 15 46.7 2 3 66.7 7 8 87.5 0 5 5 14 2 0 2 2 20
+p196
+aVJarrett Jack NOH 03/04/2011 NOH @ MEM W 30 19 6 11 54.5 3 4 75.0 4 4 100.0 0 1 1 1 1 0 1 1 -1
+p197
+aVEmeka Okafor NOH 03/04/2011 NOH @ MEM W 31 7 3 7 42.9 0 0 - 1 2 50.0 4 2 6 0 4 1 1 3 12
+p198
+aVJason Smith NOH 03/04/2011 NOH @ MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p199
+aVDavid West NOH 03/04/2011 NOH @ MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p200
+aVEmeka Okafor NOH 03/02/2011 NOH @ NYK L 33 8 3 7 42.9 0 0 - 2 2 100.0 1 7 8 1 0 3 3 3 -9
+p201
+aVJason Smith NOH 03/02/2011 NOH @ NYK L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p202
+aVQuincy Pondexter NOH 03/02/2011 NOH @ NYK L 23 14 3 7 42.9 1 3 33.3 7 8 87.5 1 1 2 1 1 1 0 0 -8
+p203
+aVTrevor Ariza NOH 03/02/2011 NOH @ NYK L 20 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 2 0 0 2 2 -13
+p204
+aVAaron Gray NOH 03/02/2011 NOH @ NYK L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p205
+aVChris Paul NOH 03/02/2011 NOH @ NYK L 36 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 10 2 1 3 1 -19
+p206
+aVJarrett Jack NOH 03/02/2011 NOH @ NYK L 28 21 8 13 61.5 0 2 0.0 5 7 71.4 1 4 5 2 0 0 0 0 -14
+p207
+aVMarco Belinelli NOH 03/02/2011 NOH @ NYK L 17 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 0 1 0 2 1 3
+p208
+aVDavid Andersen NOH 03/02/2011 NOH @ NYK L 4 1 0 0 - 0 0 - 1 4 25.0 1 0 1 0 0 0 0 0 -1
+p209
+aVCarl Landry NOH 03/02/2011 NOH @ NYK L 16 4 2 4 50.0 0 1 0.0 0 1 0.0 0 0 0 1 1 0 1 3 -5
+p210
+aVWillie Green NOH 03/02/2011 NOH @ NYK L 21 9 4 7 57.1 1 3 33.3 0 0 - 1 1 2 0 2 0 2 5 -6
+p211
+aVDavid West NOH 03/02/2011 NOH @ NYK L 32 16 6 16 37.5 0 0 - 4 4 100.0 1 4 5 2 1 0 1 3 -18
+p212
+aVWillie Green NOH 03/01/2011 NOH @ TOR L 26 4 2 7 28.6 0 0 - 0 0 - 0 3 3 4 1 0 0 0 -12
+p213
+aVEmeka Okafor NOH 03/01/2011 NOH @ TOR L 21 1 0 5 0.0 0 0 - 1 2 50.0 3 4 7 0 1 1 1 3 -6
+p214
+aVMarco Belinelli NOH 03/01/2011 NOH @ TOR L 24 13 5 14 35.7 3 5 60.0 0 0 - 0 1 1 0 0 0 1 2 13
+p215
+aVTrevor Ariza NOH 03/01/2011 NOH @ TOR L 21 10 3 9 33.3 2 4 50.0 2 2 100.0 1 1 2 0 0 1 2 2 -17
+p216
+aVDavid West NOH 03/01/2011 NOH @ TOR L 39 19 7 17 41.2 0 1 0.0 5 6 83.3 2 8 10 4 0 0 2 3 -13
+p217
+aVJason Smith NOH 03/01/2011 NOH @ TOR L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 3
+p218
+aVQuincy Pondexter NOH 03/01/2011 NOH @ TOR L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p219
+aVCarl Landry NOH 03/01/2011 NOH @ TOR L 29 17 8 10 80.0 0 0 - 1 2 50.0 1 3 4 1 0 0 2 4 4
+p220
+aVChris Paul NOH 03/01/2011 NOH @ TOR L 38 7 3 10 30.0 0 2 0.0 1 1 100.0 0 4 4 5 1 0 1 5 -7
+p221
+aVJarrett Jack NOH 03/01/2011 NOH @ TOR L 27 17 7 9 77.8 1 1 100.0 2 2 100.0 0 2 2 2 0 1 2 1 3
+p222
+aVTrevor Ariza NOH 02/27/2011 NOH vs. HOU L 38 13 6 12 50.0 1 4 25.0 0 0 - 1 6 7 1 2 1 1 0 4
+p223
+aVQuincy Pondexter NOH 02/27/2011 NOH vs. HOU L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 6
+p224
+aVJarrett Jack NOH 02/27/2011 NOH vs. HOU L 20 5 1 4 25.0 0 1 0.0 3 3 100.0 0 0 0 2 0 0 1 1 -6
+p225
+aVMarco Belinelli NOH 02/27/2011 NOH vs. HOU L 15 14 6 8 75.0 2 2 100.0 0 0 - 2 1 3 1 0 0 1 1 -5
+p226
+aVChris Paul NOH 02/27/2011 NOH vs. HOU L 40 6 2 12 16.7 0 2 0.0 2 2 100.0 0 1 1 12 3 0 0 5 10
+p227
+aVEmeka Okafor NOH 02/27/2011 NOH vs. HOU L 31 6 3 6 50.0 0 0 - 0 2 0.0 2 12 14 1 0 2 2 2 -5
+p228
+aVJason Smith NOH 02/27/2011 NOH vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 1 -3
+p229
+aVDavid West NOH 02/27/2011 NOH vs. HOU L 41 22 9 14 64.3 0 0 - 4 4 100.0 3 6 9 5 2 1 3 2 15
+p230
+aVWillie Green NOH 02/27/2011 NOH vs. HOU L 26 10 4 11 36.4 1 4 25.0 1 1 100.0 0 0 0 2 0 1 1 4 -15
+p231
+aVCarl Landry NOH 02/27/2011 NOH vs. HOU L 20 13 6 11 54.5 0 0 - 1 2 50.0 2 1 3 1 0 1 2 3 -11
+p232
+aVMarco Belinelli NOH 02/25/2011 NOH @ MIN W 12 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 4
+p233
+aVChris Paul NOH 02/25/2011 NOH @ MIN W 39 17 6 13 46.2 2 5 40.0 3 4 75.0 1 5 6 8 0 0 1 0 15
+p234
+aVWillie Green NOH 02/25/2011 NOH @ MIN W 24 12 5 12 41.7 2 8 25.0 0 0 - 0 2 2 3 3 0 0 2 8
+p235
+aVQuincy Pondexter NOH 02/25/2011 NOH @ MIN W 18 4 1 2 50.0 0 1 0.0 2 2 100.0 0 3 3 3 1 0 0 1 5
+p236
+aVCarl Landry NOH 02/25/2011 NOH @ MIN W 27 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 0 0 1 2 4 9
+p237
+aVEmeka Okafor NOH 02/25/2011 NOH @ MIN W 25 10 4 10 40.0 0 0 - 2 2 100.0 2 5 7 2 2 3 0 1 2
+p238
+aVTrevor Ariza NOH 02/25/2011 NOH @ MIN W 31 18 5 13 38.5 4 8 50.0 4 4 100.0 2 1 3 3 1 3 2 2 6
+p239
+aVJarrett Jack NOH 02/25/2011 NOH @ MIN W 22 13 5 9 55.6 1 4 25.0 2 2 100.0 0 1 1 0 4 1 1 1 4
+p240
+aVAaron Gray NOH 02/25/2011 NOH @ MIN W 22 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 1 2 12
+p241
+aVDavid Andersen NOH 02/25/2011 NOH @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p242
+aVJason Smith NOH 02/25/2011 NOH @ MIN W 19 8 4 8 50.0 0 0 - 0 0 - 0 0 0 1 1 1 0 4 6
+p243
+aVQuincy Pondexter NOH 02/23/2011 NOH vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p244
+aVChris Paul NOH 02/23/2011 NOH vs. LAC W 39 19 8 17 47.1 0 2 0.0 3 4 75.0 0 6 6 10 3 0 2 1 16
+p245
+aVDavid Andersen NOH 02/23/2011 NOH vs. LAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p246
+aVJason Smith NOH 02/23/2011 NOH vs. LAC W 30 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 1 0 1 1 5 3
+p247
+aVAaron Gray NOH 02/23/2011 NOH vs. LAC W 27 6 3 5 60.0 0 0 - 0 0 - 2 5 7 1 0 0 1 6 13
+p248
+aVTrevor Ariza NOH 02/23/2011 NOH vs. LAC W 35 6 3 8 37.5 0 2 0.0 0 2 0.0 0 5 5 4 1 0 3 3 13
+p249
+aVJarrett Jack NOH 02/23/2011 NOH vs. LAC W 20 10 3 7 42.9 0 2 0.0 4 4 100.0 0 0 0 4 1 0 2 2 2
+p250
+aVMarco Belinelli NOH 02/23/2011 NOH vs. LAC W 16 12 5 7 71.4 1 2 50.0 1 1 100.0 0 0 0 1 0 0 0 1 -3
+p251
+aVDavid West NOH 02/23/2011 NOH vs. LAC W 34 22 9 18 50.0 0 0 - 4 6 66.7 1 7 8 3 2 1 3 4 9
+p252
+aVWillie Green NOH 02/23/2011 NOH vs. LAC W 33 17 7 11 63.6 2 3 66.7 1 2 50.0 0 4 4 2 0 0 0 1 8
+p253
+aVJason Smith NOH 02/16/2011 NOH @ POR L 17 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 1 4 -8
+p254
+aVAaron Gray NOH 02/16/2011 NOH @ POR L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 0 0 7
+p255
+aVJarrett Jack NOH 02/16/2011 NOH @ POR L 31 12 4 7 57.1 0 1 0.0 4 4 100.0 1 4 5 3 2 0 2 4 1
+p256
+aVMarco Belinelli NOH 02/16/2011 NOH @ POR L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p257
+aVTrevor Ariza NOH 02/16/2011 NOH @ POR L 44 16 6 14 42.9 2 5 40.0 2 3 66.7 4 5 9 6 3 0 2 4 -4
+p258
+aVChris Paul NOH 02/16/2011 NOH @ POR L 42 8 2 6 33.3 0 1 0.0 4 6 66.7 1 1 2 5 1 0 4 4 -5
+p259
+aVMarcus Thornton NOH 02/16/2011 NOH @ POR L 12 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 0 0 0 1 4 4
+p260
+aVDavid West NOH 02/16/2011 NOH @ POR L 46 27 10 18 55.6 0 0 - 7 8 87.5 2 3 5 0 1 1 0 4 -14
+p261
+aVWillie Green NOH 02/16/2011 NOH @ POR L 41 24 11 19 57.9 0 3 0.0 2 3 66.7 1 5 6 0 0 0 1 3 -12
+p262
+aVQuincy Pondexter NOH 02/15/2011 NOH @ GSW L 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p263
+aVAaron Gray NOH 02/15/2011 NOH @ GSW L 15 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 1 2 3 1
+p264
+aVMarcus Thornton NOH 02/15/2011 NOH @ GSW L 15 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 0 -4
+p265
+aVDavid Andersen NOH 02/15/2011 NOH @ GSW L 12 0 0 4 0.0 0 0 - 0 2 0.0 1 2 3 0 0 1 2 2 0
+p266
+aVMarco Belinelli NOH 02/15/2011 NOH @ GSW L 22 15 5 8 62.5 2 4 50.0 3 4 75.0 1 1 2 0 0 0 0 3 -4
+p267
+aVJarrett Jack NOH 02/15/2011 NOH @ GSW L 18 11 5 10 50.0 0 1 0.0 1 2 50.0 1 3 4 0 2 0 2 1 -3
+p268
+aVTrevor Ariza NOH 02/15/2011 NOH @ GSW L 38 11 5 9 55.6 1 1 100.0 0 0 - 1 5 6 4 1 0 1 2 -17
+p269
+aVDavid West NOH 02/15/2011 NOH @ GSW L 29 15 5 7 71.4 0 0 - 5 6 83.3 3 4 7 0 0 0 3 2 -4
+p270
+aVChris Paul NOH 02/15/2011 NOH @ GSW L 32 11 4 12 33.3 0 1 0.0 3 3 100.0 1 3 4 10 1 0 1 1 -10
+p271
+aVWillie Green NOH 02/15/2011 NOH @ GSW L 29 12 5 10 50.0 0 2 0.0 2 2 100.0 0 3 3 0 0 0 2 0 -18
+p272
+aVDJ Mbenga NOH 02/15/2011 NOH @ GSW L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p273
+aVJason Smith NOH 02/15/2011 NOH @ GSW L 14 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 0 1 0 1 3 -2
+p274
+aVDavid Andersen NOH 02/12/2011 NOH vs. CHI L 13 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 1 0 1 2 4 -7
+p275
+aVDJ Mbenga NOH 02/12/2011 NOH vs. CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p276
+aVChris Paul NOH 02/12/2011 NOH vs. CHI L 38 15 3 10 30.0 1 2 50.0 8 10 80.0 0 2 2 6 3 0 2 3 -6
+p277
+aVMarcus Thornton NOH 02/12/2011 NOH vs. CHI L 27 24 9 15 60.0 3 4 75.0 3 4 75.0 0 6 6 0 2 1 0 0 2
+p278
+aVWillie Green NOH 02/12/2011 NOH vs. CHI L 23 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 3 0 0 0 1 -9
+p279
+aVJason Smith NOH 02/12/2011 NOH vs. CHI L 13 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 0 0 1 0 4 -9
+p280
+aVMarco Belinelli NOH 02/12/2011 NOH vs. CHI L 8 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -8
+p281
+aVAaron Gray NOH 02/12/2011 NOH vs. CHI L 28 5 1 2 50.0 0 0 - 3 6 50.0 0 6 6 0 1 0 1 3 2
+p282
+aVTrevor Ariza NOH 02/12/2011 NOH vs. CHI L 35 6 2 8 25.0 0 3 0.0 2 4 50.0 0 2 2 2 1 0 0 2 -3
+p283
+aVJarrett Jack NOH 02/12/2011 NOH vs. CHI L 13 10 3 7 42.9 0 1 0.0 4 4 100.0 0 1 1 2 0 0 0 0 -3
+p284
+aVDavid West NOH 02/12/2011 NOH vs. CHI L 39 17 6 11 54.5 0 0 - 5 7 71.4 0 2 2 2 1 0 0 3 0
+p285
+aVTrevor Ariza NOH 02/11/2011 NOH @ ORL W 40 10 4 16 25.0 1 7 14.3 1 2 50.0 1 4 5 3 0 2 1 1 2
+p286
+aVDJ Mbenga NOH 02/11/2011 NOH @ ORL W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p287
+aVWillie Green NOH 02/11/2011 NOH @ ORL W 36 24 10 20 50.0 3 7 42.9 1 1 100.0 0 2 2 1 1 0 2 2 -1
+p288
+aVDavid Andersen NOH 02/11/2011 NOH @ ORL W 12 10 5 7 71.4 0 1 0.0 0 0 - 1 2 3 1 1 0 0 3 -2
+p289
+aVDavid West NOH 02/11/2011 NOH @ ORL W 36 17 6 13 46.2 0 0 - 5 6 83.3 3 14 17 4 1 0 0 2 12
+p290
+aVChris Paul NOH 02/11/2011 NOH @ ORL W 36 15 4 11 36.4 0 2 0.0 7 8 87.5 0 2 2 7 1 0 2 1 12
+p291
+aVJarrett Jack NOH 02/11/2011 NOH @ ORL W 17 13 5 6 83.3 1 1 100.0 2 2 100.0 0 0 0 2 0 0 3 3 3
+p292
+aVSasha Pavlovic NOH 02/11/2011 NOH @ ORL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -9
+p293
+aVMarco Belinelli NOH 02/11/2011 NOH @ ORL W 14 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 1 0 1 0 1 4
+p294
+aVJason Smith NOH 02/11/2011 NOH @ ORL W 9 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 1 3 2
+p295
+aVAaron Gray NOH 02/11/2011 NOH @ ORL W 29 4 2 5 40.0 0 0 - 0 0 - 2 6 8 2 3 2 1 3 8
+p296
+aVJarrett Jack NOH 02/09/2011 NOH @ NJN L 30 12 4 9 44.4 1 2 50.0 3 3 100.0 1 0 1 5 1 0 3 1 -14
+p297
+aVMarcus Thornton NOH 02/09/2011 NOH @ NJN L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p298
+aVSasha Pavlovic NOH 02/09/2011 NOH @ NJN L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 1 -2
+p299
+aVMarco Belinelli NOH 02/09/2011 NOH @ NJN L 24 17 6 10 60.0 5 7 71.4 0 0 - 0 3 3 1 2 1 0 1 7
+p300
+aVDavid West NOH 02/09/2011 NOH @ NJN L 52 32 13 23 56.5 0 0 - 6 7 85.7 5 10 15 5 3 0 4 2 0
+p301
+aVWillie Green NOH 02/09/2011 NOH @ NJN L 35 19 8 14 57.1 2 4 50.0 1 2 50.0 0 1 1 0 0 0 0 3 6
+p302
+aVJason Smith NOH 02/09/2011 NOH @ NJN L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p303
+aVChris Paul NOH 02/09/2011 NOH @ NJN L 51 9 4 15 26.7 1 3 33.3 0 0 - 2 3 5 11 2 0 7 4 1
+p304
+aVDJ Mbenga NOH 02/09/2011 NOH @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p305
+aVDavid Andersen NOH 02/09/2011 NOH @ NJN L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p306
+aVAaron Gray NOH 02/09/2011 NOH @ NJN L 40 10 4 7 57.1 0 0 - 2 4 50.0 2 9 11 1 0 0 0 5 14
+p307
+aVChris Paul NOH 02/07/2011 NOH vs. MIN L 37 17 5 11 45.5 0 3 0.0 7 8 87.5 1 5 6 13 4 0 1 5 6
+p308
+aVQuincy Pondexter NOH 02/07/2011 NOH vs. MIN L 20 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 2 4 -23
+p309
+aVSasha Pavlovic NOH 02/07/2011 NOH vs. MIN L 21 4 2 8 25.0 0 4 0.0 0 0 - 0 3 3 0 0 4 0 1 -2
+p310
+aVMarco Belinelli NOH 02/07/2011 NOH vs. MIN L 28 15 6 16 37.5 3 8 37.5 0 0 - 0 3 3 3 1 0 1 2 4
+p311
+aVAaron Gray NOH 02/07/2011 NOH vs. MIN L 17 4 2 4 50.0 0 0 - 0 2 0.0 6 2 8 0 0 0 1 2 -8
+p312
+aVMarcus Thornton NOH 02/07/2011 NOH vs. MIN L 13 7 3 6 50.0 1 3 33.3 0 0 - 2 0 2 1 0 0 0 1 -12
+p313
+aVWillie Green NOH 02/07/2011 NOH vs. MIN L 16 11 3 6 50.0 2 4 50.0 3 4 75.0 0 0 0 1 1 0 1 0 0
+p314
+aVDavid West NOH 02/07/2011 NOH vs. MIN L 34 18 7 16 43.8 0 0 - 4 4 100.0 1 5 6 2 0 1 4 2 7
+p315
+aVDJ Mbenga NOH 02/07/2011 NOH vs. MIN L 16 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 2 2 5 -3
+p316
+aVDavid Andersen NOH 02/07/2011 NOH vs. MIN L 9 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -10
+p317
+aVJason Smith NOH 02/07/2011 NOH vs. MIN L 17 4 2 3 66.7 0 0 - 0 2 0.0 3 2 5 0 0 1 0 2 -1
+p318
+aVJarrett Jack NOH 02/07/2011 NOH vs. MIN L 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -18
+p319
+aVSasha Pavlovic NOH 02/05/2011 NOH vs. LAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 1
+p320
+aVDavid Andersen NOH 02/05/2011 NOH vs. LAL L 21 11 5 7 71.4 1 3 33.3 0 0 - 2 4 6 1 0 0 1 2 5
+p321
+aVMarcus Thornton NOH 02/05/2011 NOH vs. LAL L 21 14 6 12 50.0 2 4 50.0 0 0 - 1 3 4 0 0 0 0 5 -3
+p322
+aVDJ Mbenga NOH 02/05/2011 NOH vs. LAL L 18 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 1 -6
+p323
+aVMarco Belinelli NOH 02/05/2011 NOH vs. LAL L 24 9 3 10 30.0 3 7 42.9 0 0 - 0 4 4 1 0 0 1 2 -1
+p324
+aVWillie Green NOH 02/05/2011 NOH vs. LAL L 19 2 1 6 16.7 0 2 0.0 0 0 - 1 0 1 1 0 0 0 0 2
+p325
+aVDavid West NOH 02/05/2011 NOH vs. LAL L 32 16 8 16 50.0 0 0 - 0 0 - 2 10 12 2 0 1 2 4 -18
+p326
+aVAaron Gray NOH 02/05/2011 NOH vs. LAL L 25 10 5 7 71.4 0 0 - 0 0 - 4 6 10 0 0 1 1 3 7
+p327
+aVChris Paul NOH 02/05/2011 NOH vs. LAL L 44 21 8 11 72.7 3 4 75.0 2 2 100.0 1 0 1 15 0 0 4 3 -8
+p328
+aVJarrett Jack NOH 02/05/2011 NOH vs. LAL L 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p329
+aVQuincy Pondexter NOH 02/05/2011 NOH vs. LAL L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 2 -8
+p330
+aVMarcus Thornton NOH 02/02/2011 NOH @ OKC L 10 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 1 0 1 2 2
+p331
+aVJason Smith NOH 02/02/2011 NOH @ OKC L 24 6 1 4 25.0 0 0 - 4 4 100.0 1 3 4 0 1 0 0 4 -12
+p332
+aVDavid West NOH 02/02/2011 NOH @ OKC L 35 20 8 19 42.1 0 0 - 4 6 66.7 5 10 15 2 0 0 3 3 -13
+p333
+aVWillie Green NOH 02/02/2011 NOH @ OKC L 22 5 2 8 25.0 0 2 0.0 1 2 50.0 0 0 0 3 1 0 0 5 0
+p334
+aVDavid Andersen NOH 02/02/2011 NOH @ OKC L 14 13 6 8 75.0 1 2 50.0 0 0 - 0 1 1 0 0 1 0 0 4
+p335
+aVQuincy Pondexter NOH 02/02/2011 NOH @ OKC L 27 10 4 7 57.1 1 1 100.0 1 2 50.0 2 2 4 1 2 0 0 1 -8
+p336
+aVTrevor Ariza NOH 02/02/2011 NOH @ OKC L 21 5 2 9 22.2 0 2 0.0 1 1 100.0 0 1 1 1 0 1 0 2 -3
+p337
+aVJarrett Jack NOH 02/02/2011 NOH @ OKC L 12 0 0 4 0.0 0 0 - 0 0 - 0 0 0 3 1 0 0 0 -7
+p338
+aVChris Paul NOH 02/02/2011 NOH @ OKC L 32 15 5 9 55.6 1 2 50.0 4 4 100.0 0 1 1 5 2 0 3 2 -13
+p339
+aVDJ Mbenga NOH 02/02/2011 NOH @ OKC L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -6
+p340
+aVMarco Belinelli NOH 02/02/2011 NOH @ OKC L 20 6 3 6 50.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 1 -4
+p341
+aVAaron Gray NOH 02/02/2011 NOH @ OKC L 17 7 3 3 100.0 0 0 - 1 2 50.0 0 3 3 0 0 1 0 2 5
+p342
+aVQuincy Pondexter NOH 02/01/2011 NOH vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p343
+aVJarrett Jack NOH 02/01/2011 NOH vs. WAS W 17 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 5 1 0 1 1 8
+p344
+aVAaron Gray NOH 02/01/2011 NOH vs. WAS W 15 4 2 2 100.0 0 0 - 0 1 0.0 3 5 8 0 1 1 1 3 1
+p345
+aVDJ Mbenga NOH 02/01/2011 NOH vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p346
+aVChris Paul NOH 02/01/2011 NOH vs. WAS W 31 15 5 9 55.6 1 3 33.3 4 4 100.0 1 4 5 9 2 0 2 3 0
+p347
+aVMarcus Thornton NOH 02/01/2011 NOH vs. WAS W 25 10 1 7 14.3 0 2 0.0 8 12 66.7 0 2 2 1 1 0 2 0 7
+p348
+aVDavid Andersen NOH 02/01/2011 NOH vs. WAS W 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p349
+aVWillie Green NOH 02/01/2011 NOH vs. WAS W 20 11 5 7 71.4 1 1 100.0 0 0 - 0 4 4 1 3 0 0 5 7
+p350
+aVMarco Belinelli NOH 02/01/2011 NOH vs. WAS W 13 2 0 5 0.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 0 2
+p351
+aVDavid West NOH 02/01/2011 NOH vs. WAS W 36 10 3 10 30.0 0 0 - 4 4 100.0 3 5 8 3 1 1 3 0 7
+p352
+aVTrevor Ariza NOH 02/01/2011 NOH vs. WAS W 40 16 6 11 54.5 2 4 50.0 2 2 100.0 0 4 4 0 2 0 3 3 0
+p353
+aVJason Smith NOH 02/01/2011 NOH vs. WAS W 25 20 9 11 81.8 0 0 - 2 3 66.7 3 2 5 0 2 0 2 4 6
+p354
+aVJason Smith NOH 01/30/2011 NOH @ PHX L 16 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -3
+p355
+aVDavid Andersen NOH 01/30/2011 NOH @ PHX L 18 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 0 0 2 1 12
+p356
+aVWillie Green NOH 01/30/2011 NOH @ PHX L 24 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 1 1 1 0 1 17
+p357
+aVJarrett Jack NOH 01/30/2011 NOH @ PHX L 16 2 0 5 0.0 0 1 0.0 2 2 100.0 0 4 4 1 0 0 1 0 3
+p358
+aVChris Paul NOH 01/30/2011 NOH @ PHX L 39 26 7 14 50.0 2 4 50.0 10 10 100.0 2 1 3 12 1 0 0 1 -7
+p359
+aVDavid West NOH 01/30/2011 NOH @ PHX L 33 17 8 17 47.1 0 0 - 1 2 50.0 2 5 7 3 1 0 0 5 -14
+p360
+aVDJ Mbenga NOH 01/30/2011 NOH @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p361
+aVTrevor Ariza NOH 01/30/2011 NOH @ PHX L 36 16 7 15 46.7 2 5 40.0 0 0 - 3 4 7 0 2 1 2 4 -6
+p362
+aVMarco Belinelli NOH 01/30/2011 NOH @ PHX L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -11
+p363
+aVEmeka Okafor NOH 01/30/2011 NOH @ PHX L 16 10 5 11 45.5 0 0 - 0 0 - 7 0 7 0 0 1 2 1 -2
+p364
+aVMarcus Thornton NOH 01/30/2011 NOH @ PHX L 23 10 3 11 27.3 1 3 33.3 3 5 60.0 0 10 10 4 0 0 0 2 4
+p365
+aVQuincy Pondexter NOH 01/30/2011 NOH @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p366
+aVTrevor Ariza NOH 01/29/2011 NOH @ SAC L 36 12 2 6 33.3 1 2 50.0 7 7 100.0 0 3 3 2 0 0 0 1 1
+p367
+aVDavid West NOH 01/29/2011 NOH @ SAC L 38 21 8 21 38.1 0 1 0.0 5 6 83.3 1 6 7 1 1 1 1 2 1
+p368
+aVJason Smith NOH 01/29/2011 NOH @ SAC L 15 0 0 2 0.0 0 0 - 0 0 - 0 6 6 0 1 0 1 1 -4
+p369
+aVChris Paul NOH 01/29/2011 NOH @ SAC L 37 19 5 10 50.0 1 4 25.0 8 8 100.0 1 4 5 7 3 0 5 5 -1
+p370
+aVDJ Mbenga NOH 01/29/2011 NOH @ SAC L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -10
+p371
+aVMarcus Thornton NOH 01/29/2011 NOH @ SAC L 17 16 7 10 70.0 1 3 33.3 1 1 100.0 0 2 2 0 0 0 3 5 0
+p372
+aVJarrett Jack NOH 01/29/2011 NOH @ SAC L 14 5 2 8 25.0 0 1 0.0 1 1 100.0 0 3 3 2 0 1 1 2 -8
+p373
+aVWillie Green NOH 01/29/2011 NOH @ SAC L 13 3 1 3 33.3 0 1 0.0 1 1 100.0 0 2 2 0 0 0 1 1 0
+p374
+aVMarco Belinelli NOH 01/29/2011 NOH @ SAC L 23 5 2 9 22.2 1 4 25.0 0 0 - 1 1 2 1 0 0 1 2 -7
+p375
+aVQuincy Pondexter NOH 01/29/2011 NOH @ SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p376
+aVEmeka Okafor NOH 01/29/2011 NOH @ SAC L 39 15 5 5 100.0 0 0 - 5 6 83.3 3 1 4 2 1 3 1 4 1
+p377
+aVQuincy Pondexter NOH 01/26/2011 NOH @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p378
+aVTrevor Ariza NOH 01/26/2011 NOH @ GSW W 35 19 7 11 63.6 2 3 66.7 3 4 75.0 0 7 7 2 4 0 2 2 6
+p379
+aVJason Smith NOH 01/26/2011 NOH @ GSW W 8 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 1 0 2 0
+p380
+aVDJ Mbenga NOH 01/26/2011 NOH @ GSW W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 2 3 -7
+p381
+aVMarco Belinelli NOH 01/26/2011 NOH @ GSW W 21 11 5 8 62.5 1 3 33.3 0 0 - 0 2 2 4 0 0 3 3 -3
+p382
+aVDavid Andersen NOH 01/26/2011 NOH @ GSW W 11 5 2 5 40.0 0 1 0.0 1 4 25.0 2 1 3 1 0 0 1 2 2
+p383
+aVChris Paul NOH 01/26/2011 NOH @ GSW W 32 18 7 9 77.8 0 2 0.0 4 4 100.0 0 2 2 17 0 0 6 1 18
+p384
+aVJarrett Jack NOH 01/26/2011 NOH @ GSW W 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 5 2 -11
+p385
+aVWillie Green NOH 01/26/2011 NOH @ GSW W 20 8 3 5 60.0 2 2 100.0 0 0 - 0 2 2 1 2 1 1 1 1
+p386
+aVEmeka Okafor NOH 01/26/2011 NOH @ GSW W 34 13 6 8 75.0 0 0 - 1 1 100.0 4 3 7 1 2 2 2 4 17
+p387
+aVMarcus Thornton NOH 01/26/2011 NOH @ GSW W 22 8 4 10 40.0 0 2 0.0 0 0 - 0 1 1 3 0 0 0 2 13
+p388
+aVDavid West NOH 01/26/2011 NOH @ GSW W 32 22 8 12 66.7 0 0 - 6 6 100.0 0 5 5 2 1 1 1 5 15
+p389
+aVJason Smith NOH 01/24/2011 NOH vs. OKC W 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 7
+p390
+aVWillie Green NOH 01/24/2011 NOH vs. OKC W 9 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 0
+p391
+aVQuincy Pondexter NOH 01/24/2011 NOH vs. OKC W 12 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 2 1 0 0 0 3
+p392
+aVTrevor Ariza NOH 01/24/2011 NOH vs. OKC W 40 8 2 7 28.6 0 2 0.0 4 4 100.0 0 2 2 1 2 0 0 1 -4
+p393
+aVEmeka Okafor NOH 01/24/2011 NOH vs. OKC W 35 11 5 8 62.5 0 0 - 1 1 100.0 3 6 9 0 0 4 2 4 -10
+p394
+aVMarco Belinelli NOH 01/24/2011 NOH vs. OKC W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 -13
+p395
+aVDJ Mbenga NOH 01/24/2011 NOH vs. OKC W 10 5 2 2 100.0 0 0 - 1 1 100.0 2 3 5 0 0 0 0 0 5
+p396
+aVDavid West NOH 01/24/2011 NOH vs. OKC W 34 20 10 18 55.6 0 0 - 0 0 - 0 4 4 0 2 2 2 2 1
+p397
+aVMarcus Thornton NOH 01/24/2011 NOH vs. OKC W 27 10 3 12 25.0 2 5 40.0 2 4 50.0 1 1 2 2 1 0 0 0 19
+p398
+aVChris Paul NOH 01/24/2011 NOH vs. OKC W 35 24 7 14 50.0 2 4 50.0 8 10 80.0 0 4 4 9 3 0 2 3 0
+p399
+aVJarrett Jack NOH 01/24/2011 NOH vs. OKC W 13 3 1 3 33.3 0 0 - 1 3 33.3 0 1 1 3 0 0 0 1 2
+p400
+aVQuincy Pondexter NOH 01/22/2011 NOH vs. SAS W 14 7 3 7 42.9 1 1 100.0 0 0 - 0 1 1 1 0 0 1 4 -2
+p401
+aVDavid West NOH 01/22/2011 NOH vs. SAS W 30 18 8 11 72.7 0 0 - 2 2 100.0 6 4 10 3 2 1 4 1 24
+p402
+aVChris Paul NOH 01/22/2011 NOH vs. SAS W 31 11 4 11 36.4 1 1 100.0 2 4 50.0 1 5 6 6 2 0 0 1 20
+p403
+aVWillie Green NOH 01/22/2011 NOH vs. SAS W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p404
+aVJarrett Jack NOH 01/22/2011 NOH vs. SAS W 21 9 4 8 50.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 0 -6
+p405
+aVDJ Mbenga NOH 01/22/2011 NOH vs. SAS W 13 2 1 1 100.0 0 0 - 0 0 - 3 2 5 0 0 1 1 2 -4
+p406
+aVDavid Andersen NOH 01/22/2011 NOH vs. SAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 0
+p407
+aVJason Smith NOH 01/22/2011 NOH vs. SAS W 16 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 2 0 1 4 6
+p408
+aVTrevor Ariza NOH 01/22/2011 NOH vs. SAS W 26 15 5 8 62.5 4 4 100.0 1 3 33.3 0 8 8 1 1 0 2 2 26
+p409
+aVEmeka Okafor NOH 01/22/2011 NOH vs. SAS W 30 9 4 9 44.4 0 0 - 1 2 50.0 3 9 12 0 0 5 1 3 21
+p410
+aVMarcus Thornton NOH 01/22/2011 NOH vs. SAS W 23 18 7 10 70.0 4 4 100.0 0 0 - 0 5 5 2 0 1 1 1 -1
+p411
+aVMarco Belinelli NOH 01/22/2011 NOH vs. SAS W 21 7 2 10 20.0 2 5 40.0 1 2 50.0 0 1 1 4 0 0 1 3 29
+p412
+aVMarcus Thornton NOH 01/21/2011 NOH @ ATL W 22 11 4 7 57.1 1 3 33.3 2 2 100.0 2 5 7 2 1 0 1 1 12
+p413
+aVMarco Belinelli NOH 01/21/2011 NOH @ ATL W 22 15 5 8 62.5 3 5 60.0 2 2 100.0 0 2 2 1 0 0 0 1 26
+p414
+aVDavid Andersen NOH 01/21/2011 NOH @ ATL W 6 7 3 3 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 0 7
+p415
+aVChris Paul NOH 01/21/2011 NOH @ ATL W 30 16 4 10 40.0 1 2 50.0 7 8 87.5 0 3 3 8 3 0 1 2 26
+p416
+aVQuincy Pondexter NOH 01/21/2011 NOH @ ATL W 28 7 3 6 50.0 1 1 100.0 0 0 - 1 2 3 2 1 0 0 3 29
+p417
+aVJason Smith NOH 01/21/2011 NOH @ ATL W 15 5 2 4 50.0 0 0 - 1 1 100.0 0 4 4 1 1 1 1 3 12
+p418
+aVJarrett Jack NOH 01/21/2011 NOH @ ATL W 18 8 3 10 30.0 1 2 50.0 1 1 100.0 0 2 2 5 1 1 0 0 15
+p419
+aVDavid West NOH 01/21/2011 NOH @ ATL W 29 15 4 7 57.1 0 1 0.0 7 8 87.5 4 4 8 4 0 0 6 2 23
+p420
+aVDJ Mbenga NOH 01/21/2011 NOH @ ATL W 22 6 3 5 60.0 0 0 - 0 0 - 4 3 7 2 0 2 2 3 8
+p421
+aVWillie Green NOH 01/21/2011 NOH @ ATL W 25 6 3 10 30.0 0 0 - 0 0 - 0 4 4 1 0 1 0 1 15
+p422
+aVEmeka Okafor NOH 01/21/2011 NOH @ ATL W 24 4 2 5 40.0 0 0 - 0 0 - 0 12 12 0 1 0 2 2 32
+p423
+aVMarco Belinelli NOH 01/19/2011 NOH vs. MEM W 16 8 4 7 57.1 0 2 0.0 0 0 - 1 0 1 2 0 0 2 0 -10
+p424
+aVEmeka Okafor NOH 01/19/2011 NOH vs. MEM W 44 11 5 9 55.6 0 0 - 1 4 25.0 6 5 11 1 1 1 2 4 2
+p425
+aVJason Smith NOH 01/19/2011 NOH vs. MEM W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -8
+p426
+aVChris Paul NOH 01/19/2011 NOH vs. MEM W 42 20 6 14 42.9 2 2 100.0 6 6 100.0 0 3 3 12 0 1 2 4 -2
+p427
+aVTrevor Ariza NOH 01/19/2011 NOH vs. MEM W 48 11 2 12 16.7 0 3 0.0 7 9 77.8 1 7 8 2 2 2 0 1 7
+p428
+aVAaron Gray NOH 01/19/2011 NOH vs. MEM W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 6
+p429
+aVDavid West NOH 01/19/2011 NOH vs. MEM W 44 19 8 15 53.3 0 0 - 3 3 100.0 1 10 11 2 1 3 2 3 2
+p430
+aVQuincy Pondexter NOH 01/19/2011 NOH vs. MEM W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p431
+aVMarcus Thornton NOH 01/19/2011 NOH vs. MEM W 22 17 7 10 70.0 1 2 50.0 2 2 100.0 1 2 3 1 2 0 1 0 12
+p432
+aVJarrett Jack NOH 01/19/2011 NOH vs. MEM W 17 4 2 5 40.0 0 1 0.0 0 2 0.0 0 2 2 3 0 0 1 1 0
+p433
+aVWillie Green NOH 01/19/2011 NOH vs. MEM W 9 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p434
+aVWillie Green NOH 01/17/2011 NOH vs. TOR W 17 6 3 10 30.0 0 2 0.0 0 0 - 0 2 2 0 1 1 0 2 3
+p435
+aVDavid Andersen NOH 01/17/2011 NOH vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -4
+p436
+aVJarrett Jack NOH 01/17/2011 NOH vs. TOR W 27 17 7 13 53.8 1 2 50.0 2 2 100.0 0 2 2 3 0 0 3 1 5
+p437
+aVEmeka Okafor NOH 01/17/2011 NOH vs. TOR W 38 17 8 12 66.7 0 0 - 1 3 33.3 12 4 16 0 0 1 3 4 18
+p438
+aVJason Smith NOH 01/17/2011 NOH vs. TOR W 12 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -9
+p439
+aVDavid West NOH 01/17/2011 NOH vs. TOR W 38 23 10 18 55.6 0 0 - 3 4 75.0 4 6 10 2 2 2 2 3 4
+p440
+aVMarcus Thornton NOH 01/17/2011 NOH vs. TOR W 16 8 2 10 20.0 0 0 - 4 4 100.0 1 1 2 0 1 0 1 0 -7
+p441
+aVChris Paul NOH 01/17/2011 NOH vs. TOR W 31 6 1 8 12.5 0 2 0.0 4 4 100.0 1 2 3 11 3 0 0 1 9
+p442
+aVQuincy Pondexter NOH 01/17/2011 NOH vs. TOR W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -11
+p443
+aVTrevor Ariza NOH 01/17/2011 NOH vs. TOR W 34 5 2 8 25.0 1 3 33.3 0 0 - 0 7 7 3 0 0 1 3 10
+p444
+aVMarco Belinelli NOH 01/17/2011 NOH vs. TOR W 15 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 1 2
+p445
+aVTrevor Ariza NOH 01/15/2011 NOH @ CHA W 44 11 4 11 36.4 2 5 40.0 1 2 50.0 1 3 4 4 6 2 1 2 10
+p446
+aVChris Paul NOH 01/15/2011 NOH @ CHA W 34 19 6 10 60.0 1 1 100.0 6 6 100.0 0 1 1 4 1 0 0 2 13
+p447
+aVAaron Gray NOH 01/15/2011 NOH @ CHA W 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -4
+p448
+aVMarcus Thornton NOH 01/15/2011 NOH @ CHA W 14 7 3 7 42.9 0 2 0.0 1 2 50.0 0 0 0 3 1 0 0 0 1
+p449
+aVWillie Green NOH 01/15/2011 NOH @ CHA W 25 8 4 10 40.0 0 1 0.0 0 0 - 0 5 5 1 0 0 2 1 -1
+p450
+aVQuincy Pondexter NOH 01/15/2011 NOH @ CHA W 13 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 2 2
+p451
+aVJason Smith NOH 01/15/2011 NOH @ CHA W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -8
+p452
+aVJarrett Jack NOH 01/15/2011 NOH @ CHA W 17 2 1 7 14.3 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -6
+p453
+aVEmeka Okafor NOH 01/15/2011 NOH @ CHA W 36 10 2 4 50.0 0 0 - 6 8 75.0 2 8 10 1 0 3 1 4 13
+p454
+aVDavid West NOH 01/15/2011 NOH @ CHA W 40 26 10 19 52.6 0 1 0.0 6 7 85.7 0 8 8 3 0 0 1 4 15
+p455
+aVAaron Gray NOH 01/14/2011 NOH @ HOU W 3 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 3 4
+p456
+aVJason Smith NOH 01/14/2011 NOH @ HOU W 15 6 3 7 42.9 0 0 - 0 0 - 2 2 4 0 0 0 1 1 12
+p457
+aVWillie Green NOH 01/14/2011 NOH @ HOU W 22 6 1 1 100.0 0 0 - 4 4 100.0 0 1 1 0 2 0 1 4 -17
+p458
+aVDavid West NOH 01/14/2011 NOH @ HOU W 44 29 9 20 45.0 0 1 0.0 11 12 91.7 3 6 9 0 1 1 7 4 -9
+p459
+aVTrevor Ariza NOH 01/14/2011 NOH @ HOU W 40 14 5 14 35.7 1 5 20.0 3 5 60.0 2 8 10 2 1 0 0 4 6
+p460
+aVMarcus Thornton NOH 01/14/2011 NOH @ HOU W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 0 0
+p461
+aVQuincy Pondexter NOH 01/14/2011 NOH @ HOU W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 5
+p462
+aVChris Paul NOH 01/14/2011 NOH @ HOU W 43 11 4 11 36.4 1 2 50.0 2 2 100.0 0 0 0 8 5 0 5 2 3
+p463
+aVEmeka Okafor NOH 01/14/2011 NOH @ HOU W 44 17 7 8 87.5 0 0 - 3 3 100.0 3 12 15 1 0 1 1 5 1
+p464
+aVJarrett Jack NOH 01/14/2011 NOH @ HOU W 37 23 8 14 57.1 2 2 100.0 5 5 100.0 1 2 3 7 0 0 1 3 20
+p465
+aVAaron Gray NOH 01/12/2011 NOH vs. ORL W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p466
+aVEmeka Okafor NOH 01/12/2011 NOH vs. ORL W 46 18 8 11 72.7 0 0 - 2 8 25.0 3 11 14 0 0 0 3 3 5
+p467
+aVChris Paul NOH 01/12/2011 NOH vs. ORL W 41 12 5 12 41.7 0 1 0.0 2 3 66.7 0 5 5 13 1 0 1 0 2
+p468
+aVDavid West NOH 01/12/2011 NOH vs. ORL W 37 13 6 18 33.3 0 0 - 1 2 50.0 4 6 10 4 0 2 0 3 1
+p469
+aVJarrett Jack NOH 01/12/2011 NOH vs. ORL W 14 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 0
+p470
+aVMarco Belinelli NOH 01/12/2011 NOH vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p471
+aVQuincy Pondexter NOH 01/12/2011 NOH vs. ORL W 16 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 2
+p472
+aVWillie Green NOH 01/12/2011 NOH vs. ORL W 18 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 0 1
+p473
+aVJason Smith NOH 01/12/2011 NOH vs. ORL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -3
+p474
+aVTrevor Ariza NOH 01/12/2011 NOH vs. ORL W 46 16 7 12 58.3 2 4 50.0 0 0 - 0 4 4 2 2 0 1 3 6
+p475
+aVMarcus Thornton NOH 01/12/2011 NOH vs. ORL W 32 22 7 18 38.9 2 8 25.0 6 6 100.0 2 7 9 1 1 0 3 1 5
+p476
+aVAaron Gray NOH 01/09/2011 NOH @ DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 5
+p477
+aVJarrett Jack NOH 01/09/2011 NOH @ DEN W 22 10 3 7 42.9 2 3 66.7 2 2 100.0 0 2 2 2 1 1 3 1 5
+p478
+aVEmeka Okafor NOH 01/09/2011 NOH @ DEN W 28 9 4 9 44.4 0 0 - 1 2 50.0 4 9 13 1 0 0 1 3 14
+p479
+aVChris Paul NOH 01/09/2011 NOH @ DEN W 34 20 6 13 46.2 2 3 66.7 6 6 100.0 0 3 3 6 0 1 4 5 10
+p480
+aVMarcus Thornton NOH 01/09/2011 NOH @ DEN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p481
+aVJason Smith NOH 01/09/2011 NOH @ DEN W 10 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 4
+p482
+aVTrevor Ariza NOH 01/09/2011 NOH @ DEN W 32 12 5 9 55.6 0 2 0.0 2 2 100.0 0 7 7 1 0 0 1 3 -4
+p483
+aVMarco Belinelli NOH 01/09/2011 NOH @ DEN W 25 7 2 5 40.0 1 1 100.0 2 2 100.0 0 3 3 2 1 0 1 2 7
+p484
+aVDavid West NOH 01/09/2011 NOH @ DEN W 40 19 8 15 53.3 0 0 - 3 3 100.0 1 7 8 5 0 2 2 3 11
+p485
+aVWillie Green NOH 01/09/2011 NOH @ DEN W 25 11 4 10 40.0 1 4 25.0 2 2 100.0 2 1 3 1 0 0 1 3 -2
+p486
+aVQuincy Pondexter NOH 01/09/2011 NOH @ DEN W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 3 -9
+p487
+aVMarco Belinelli NOH 01/07/2011 NOH @ LAL L 27 17 5 11 45.5 3 4 75.0 4 4 100.0 1 0 1 0 3 0 2 4 2
+p488
+aVEmeka Okafor NOH 01/07/2011 NOH @ LAL L 38 13 6 10 60.0 0 0 - 1 2 50.0 5 8 13 1 1 2 1 4 7
+p489
+aVAaron Gray NOH 01/07/2011 NOH @ LAL L 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -10
+p490
+aVTrevor Ariza NOH 01/07/2011 NOH @ LAL L 42 17 6 12 50.0 3 7 42.9 2 2 100.0 1 6 7 6 2 0 4 3 -2
+p491
+aVDavid West NOH 01/07/2011 NOH @ LAL L 38 23 8 18 44.4 0 0 - 7 7 100.0 4 8 12 1 1 0 0 3 0
+p492
+aVJason Smith NOH 01/07/2011 NOH @ LAL L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -1
+p493
+aVChris Paul NOH 01/07/2011 NOH @ LAL L 41 12 3 6 50.0 1 2 50.0 5 6 83.3 0 0 0 10 0 0 3 5 3
+p494
+aVWillie Green NOH 01/07/2011 NOH @ LAL L 9 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 1 -9
+p495
+aVQuincy Pondexter NOH 01/07/2011 NOH @ LAL L 17 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p496
+aVJarrett Jack NOH 01/07/2011 NOH @ LAL L 14 7 2 7 28.6 0 1 0.0 3 3 100.0 0 1 1 0 0 0 0 0 -4
+p497
+aVJason Smith NOH 01/05/2011 NOH vs. GSW L 21 4 1 5 20.0 0 0 - 2 2 100.0 3 3 6 0 0 1 2 2 -3
+p498
+aVDavid West NOH 01/05/2011 NOH vs. GSW L 37 16 7 14 50.0 0 0 - 2 3 66.7 4 5 9 5 1 1 3 3 4
+p499
+aVChris Paul NOH 01/05/2011 NOH vs. GSW L 38 24 6 12 50.0 2 2 100.0 10 14 71.4 0 6 6 13 1 0 2 3 0
+p500
+aVTrevor Ariza NOH 01/05/2011 NOH vs. GSW L 38 15 6 9 66.7 2 3 66.7 1 3 33.3 2 8 10 2 2 0 3 2 -2
+p501
+aVEmeka Okafor NOH 01/05/2011 NOH vs. GSW L 23 6 2 4 50.0 0 0 - 2 6 33.3 3 7 10 0 0 0 3 6 -10
+p502
+aVQuincy Pondexter NOH 01/05/2011 NOH vs. GSW L 11 4 2 6 33.3 0 1 0.0 0 0 - 2 0 2 1 1 1 1 0 -7
+p503
+aVMarco Belinelli NOH 01/05/2011 NOH vs. GSW L 29 16 7 12 58.3 2 6 33.3 0 0 - 1 0 1 1 0 0 1 3 0
+p504
+aVWillie Green NOH 01/05/2011 NOH vs. GSW L 27 11 4 10 40.0 0 4 0.0 3 3 100.0 1 4 5 1 0 0 2 5 -3
+p505
+aVMarcus Thornton NOH 01/05/2011 NOH vs. GSW L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p506
+aVJarrett Jack NOH 01/05/2011 NOH vs. GSW L 12 7 3 3 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -5
+p507
+aVQuincy Pondexter NOH 01/03/2011 NOH vs. PHI W 11 5 2 2 100.0 1 1 100.0 0 0 - 1 3 4 0 0 0 0 0 12
+p508
+aVChris Paul NOH 01/03/2011 NOH vs. PHI W 36 15 4 11 36.4 1 4 25.0 6 6 100.0 0 3 3 5 2 0 0 3 2
+p509
+aVEmeka Okafor NOH 01/03/2011 NOH vs. PHI W 36 13 4 6 66.7 0 0 - 5 6 83.3 2 6 8 1 0 3 3 4 1
+p510
+aVTrevor Ariza NOH 01/03/2011 NOH vs. PHI W 36 4 2 11 18.2 0 4 0.0 0 2 0.0 0 3 3 4 0 2 0 3 -6
+p511
+aVMarcus Thornton NOH 01/03/2011 NOH vs. PHI W 7 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 1 0 0 2
+p512
+aVJarrett Jack NOH 01/03/2011 NOH vs. PHI W 18 6 3 7 42.9 0 1 0.0 0 0 - 0 4 4 3 0 0 1 0 5
+p513
+aVWillie Green NOH 01/03/2011 NOH vs. PHI W 24 11 4 6 66.7 1 2 50.0 2 2 100.0 1 2 3 1 0 0 2 4 4
+p514
+aVJason Smith NOH 01/03/2011 NOH vs. PHI W 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p515
+aVMarco Belinelli NOH 01/03/2011 NOH vs. PHI W 29 9 4 7 57.1 1 2 50.0 0 0 - 0 3 3 4 1 0 1 2 -3
+p516
+aVDavid West NOH 01/03/2011 NOH vs. PHI W 31 17 6 13 46.2 0 0 - 5 6 83.3 5 3 8 3 0 3 4 2 14
+p517
+aVJarrett Jack NOH 01/01/2011 NOH @ WAS W 16 12 3 8 37.5 0 0 - 6 7 85.7 0 0 0 2 0 0 2 1 -5
+p518
+aVChris Paul NOH 01/01/2011 NOH @ WAS W 33 13 6 12 50.0 0 2 0.0 1 2 50.0 2 3 5 11 7 0 1 2 13
+p519
+aVMarcus Thornton NOH 01/01/2011 NOH @ WAS W 9 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -9
+p520
+aVWillie Green NOH 01/01/2011 NOH @ WAS W 20 5 2 8 25.0 1 4 25.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p521
+aVJason Smith NOH 01/01/2011 NOH @ WAS W 13 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 1 0 0 1 3
+p522
+aVAaron Gray NOH 01/01/2011 NOH @ WAS W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 2 2 -5
+p523
+aVDavid West NOH 01/01/2011 NOH @ WAS W 37 10 5 12 41.7 0 0 - 0 0 - 1 4 5 5 0 1 4 1 15
+p524
+aVEmeka Okafor NOH 01/01/2011 NOH @ WAS W 39 17 7 8 87.5 0 0 - 3 5 60.0 4 11 15 1 0 0 1 2 9
+p525
+aVQuincy Pondexter NOH 01/01/2011 NOH @ WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p526
+aVMarco Belinelli NOH 01/01/2011 NOH @ WAS W 26 11 3 7 42.9 2 3 66.7 3 4 75.0 0 2 2 2 0 0 2 2 10
+p527
+aVTrevor Ariza NOH 01/01/2011 NOH @ WAS W 39 22 10 16 62.5 2 6 33.3 0 1 0.0 0 6 6 0 5 0 2 2 26
+p528
+aVJason Smith NOH 12/31/2010 NOH @ BOS W 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 2 1 0 -13
+p529
+aVMarcus Thornton NOH 12/31/2010 NOH @ BOS W 12 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -6
+p530
+aVMarco Belinelli NOH 12/31/2010 NOH @ BOS W 30 10 4 9 44.4 2 3 66.7 0 0 - 1 1 2 3 1 1 0 3 19
+p531
+aVWillie Green NOH 12/31/2010 NOH @ BOS W 18 5 1 5 20.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 3 -7
+p532
+aVJarrett Jack NOH 12/31/2010 NOH @ BOS W 8 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 2 0 -14
+p533
+aVTrevor Ariza NOH 12/31/2010 NOH @ BOS W 30 7 2 7 28.6 1 4 25.0 2 4 50.0 0 2 2 1 2 0 1 3 -6
+p534
+aVChris Paul NOH 12/31/2010 NOH @ BOS W 40 20 7 15 46.7 1 3 33.3 5 5 100.0 1 4 5 11 6 0 4 3 17
+p535
+aVEmeka Okafor NOH 12/31/2010 NOH @ BOS W 43 18 9 13 69.2 0 0 - 0 5 0.0 6 7 13 1 0 3 2 1 3
+p536
+aVDavid West NOH 12/31/2010 NOH @ BOS W 41 19 8 17 47.1 0 0 - 3 5 60.0 1 4 5 4 1 1 1 1 15
+p537
+aVQuincy Pondexter NOH 12/31/2010 NOH @ BOS W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p538
+aVDJ Mbenga NOH 12/31/2010 NOH @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p539
+aVDavid Andersen NOH 12/29/2010 NOH vs. LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 2
+p540
+aVEmeka Okafor NOH 12/29/2010 NOH vs. LAL L 28 10 5 8 62.5 0 0 - 0 0 - 2 5 7 1 0 1 1 4 -8
+p541
+aVTrevor Ariza NOH 12/29/2010 NOH vs. LAL L 24 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 4 2 0 4 4 -4
+p542
+aVJarrett Jack NOH 12/29/2010 NOH vs. LAL L 14 12 4 6 66.7 1 1 100.0 3 5 60.0 0 2 2 1 1 0 0 1 -8
+p543
+aVJason Smith NOH 12/29/2010 NOH vs. LAL L 21 5 2 6 33.3 0 0 - 1 1 100.0 0 2 2 1 1 0 2 1 -1
+p544
+aVMarco Belinelli NOH 12/29/2010 NOH vs. LAL L 33 15 4 16 25.0 1 6 16.7 6 7 85.7 0 1 1 0 1 0 0 3 -10
+p545
+aVMarcus Thornton NOH 12/29/2010 NOH vs. LAL L 17 5 2 11 18.2 0 4 0.0 1 2 50.0 0 0 0 0 0 0 1 1 -7
+p546
+aVQuincy Pondexter NOH 12/29/2010 NOH vs. LAL L 24 7 2 4 50.0 1 2 50.0 2 2 100.0 0 3 3 2 0 1 1 5 -9
+p547
+aVDavid West NOH 12/29/2010 NOH vs. LAL L 28 8 4 9 44.4 0 0 - 0 0 - 1 3 4 2 0 0 1 1 -15
+p548
+aVChris Paul NOH 12/29/2010 NOH vs. LAL L 34 20 8 14 57.1 1 2 50.0 3 3 100.0 1 2 3 7 3 0 3 2 -7
+p549
+aVDJ Mbenga NOH 12/29/2010 NOH vs. LAL L 13 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 1 2 -8
+p550
+aVChris Paul NOH 12/27/2010 NOH @ MIN L 41 22 6 13 46.2 2 3 66.7 8 9 88.9 1 5 6 13 5 0 2 2 -19
+p551
+aVJarrett Jack NOH 12/27/2010 NOH @ MIN L 18 1 0 4 0.0 0 2 0.0 1 2 50.0 0 3 3 2 0 0 1 4 -1
+p552
+aVMarcus Thornton NOH 12/27/2010 NOH @ MIN L 21 6 3 11 27.3 0 2 0.0 0 0 - 0 2 2 2 0 0 0 0 -1
+p553
+aVDavid West NOH 12/27/2010 NOH @ MIN L 37 23 9 18 50.0 0 0 - 5 5 100.0 2 2 4 3 0 0 3 4 -10
+p554
+aVDJ Mbenga NOH 12/27/2010 NOH @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p555
+aVMarco Belinelli NOH 12/27/2010 NOH @ MIN L 29 11 5 12 41.7 1 1 100.0 0 0 - 0 2 2 0 0 0 1 2 -18
+p556
+aVEmeka Okafor NOH 12/27/2010 NOH @ MIN L 34 9 4 8 50.0 0 0 - 1 1 100.0 5 3 8 0 1 3 1 5 -21
+p557
+aVTrevor Ariza NOH 12/27/2010 NOH @ MIN L 37 15 5 11 45.5 0 3 0.0 5 6 83.3 2 2 4 3 2 0 0 4 -15
+p558
+aVQuincy Pondexter NOH 12/27/2010 NOH @ MIN L 10 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 0
+p559
+aVJason Smith NOH 12/27/2010 NOH @ MIN L 11 7 2 6 33.3 0 0 - 3 4 75.0 2 5 7 0 0 1 1 2 9
+p560
+aVJason Smith NOH 12/26/2010 NOH vs. ATL W 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 3 3 1
+p561
+aVMarcus Thornton NOH 12/26/2010 NOH vs. ATL W 22 6 3 8 37.5 0 2 0.0 0 0 - 0 4 4 1 1 0 1 4 1
+p562
+aVJarrett Jack NOH 12/26/2010 NOH vs. ATL W 22 10 4 11 36.4 0 3 0.0 2 2 100.0 0 1 1 3 0 0 0 0 4
+p563
+aVChris Paul NOH 12/26/2010 NOH vs. ATL W 37 22 10 17 58.8 0 2 0.0 2 3 66.7 1 3 4 8 0 0 1 0 7
+p564
+aVQuincy Pondexter NOH 12/26/2010 NOH vs. ATL W 6 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 1 0 0 1 5
+p565
+aVTrevor Ariza NOH 12/26/2010 NOH vs. ATL W 40 12 5 11 45.5 2 6 33.3 0 0 - 1 9 10 0 3 0 1 3 2
+p566
+aVDavid Andersen NOH 12/26/2010 NOH vs. ATL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 3
+p567
+aVMarco Belinelli NOH 12/26/2010 NOH vs. ATL W 20 0 0 6 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 1 2 1
+p568
+aVDJ Mbenga NOH 12/26/2010 NOH vs. ATL W 7 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 1 0 2 3
+p569
+aVDavid West NOH 12/26/2010 NOH vs. ATL W 36 18 8 14 57.1 0 0 - 2 4 50.0 1 3 4 2 0 0 0 1 4
+p570
+aVEmeka Okafor NOH 12/26/2010 NOH vs. ATL W 33 14 6 9 66.7 0 0 - 2 5 40.0 5 10 15 1 0 0 1 3 4
+p571
+aVTrevor Ariza NOH 12/22/2010 NOH vs. NJN W 33 8 3 11 27.3 0 3 0.0 2 2 100.0 2 2 4 4 1 0 3 2 7
+p572
+aVChris Paul NOH 12/22/2010 NOH vs. NJN W 35 12 6 8 75.0 0 1 0.0 0 0 - 0 6 6 14 2 0 1 0 9
+p573
+aVMarco Belinelli NOH 12/22/2010 NOH vs. NJN W 27 14 6 8 75.0 2 3 66.7 0 0 - 0 1 1 1 0 0 1 2 9
+p574
+aVJason Smith NOH 12/22/2010 NOH vs. NJN W 18 5 2 5 40.0 0 0 - 1 2 50.0 3 2 5 2 0 2 1 1 9
+p575
+aVDavid West NOH 12/22/2010 NOH vs. NJN W 34 18 7 12 58.3 1 1 100.0 3 4 75.0 2 7 9 2 1 2 1 3 10
+p576
+aVJarrett Jack NOH 12/22/2010 NOH vs. NJN W 17 7 2 6 33.3 1 2 50.0 2 2 100.0 1 2 3 3 0 0 1 1 6
+p577
+aVDJ Mbenga NOH 12/22/2010 NOH vs. NJN W 7 2 0 2 0.0 0 0 - 2 2 100.0 2 3 5 0 0 1 0 0 6
+p578
+aVQuincy Pondexter NOH 12/22/2010 NOH vs. NJN W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 1 2
+p579
+aVEmeka Okafor NOH 12/22/2010 NOH vs. NJN W 37 21 8 13 61.5 0 0 - 5 9 55.6 4 6 10 0 0 1 1 2 3
+p580
+aVMarcus Thornton NOH 12/22/2010 NOH vs. NJN W 19 18 7 10 70.0 4 5 80.0 0 0 - 1 2 3 1 0 0 2 2 9
+p581
+aVDavid West NOH 12/20/2010 NOH @ IND L 35 18 6 13 46.2 0 0 - 6 7 85.7 2 2 4 1 1 1 2 2 6
+p582
+aVJason Smith NOH 12/20/2010 NOH @ IND L 13 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 2 -10
+p583
+aVTrevor Ariza NOH 12/20/2010 NOH @ IND L 35 4 1 13 7.7 0 5 0.0 2 2 100.0 2 7 9 1 1 1 1 3 -5
+p584
+aVMarcus Thornton NOH 12/20/2010 NOH @ IND L 21 6 2 9 22.2 1 1 100.0 1 2 50.0 6 5 11 3 0 0 2 0 -6
+p585
+aVEmeka Okafor NOH 12/20/2010 NOH @ IND L 34 19 7 8 87.5 0 0 - 5 8 62.5 4 11 15 1 2 3 1 1 7
+p586
+aVMarco Belinelli NOH 12/20/2010 NOH @ IND L 34 14 7 14 50.0 0 3 0.0 0 4 0.0 1 2 3 2 1 0 0 3 7
+p587
+aVChris Paul NOH 12/20/2010 NOH @ IND L 36 15 4 11 36.4 1 2 50.0 6 6 100.0 1 3 4 4 1 0 6 3 1
+p588
+aVDavid Andersen NOH 12/20/2010 NOH @ IND L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 0
+p589
+aVJarrett Jack NOH 12/20/2010 NOH @ IND L 26 9 3 8 37.5 2 3 66.7 1 1 100.0 0 2 2 6 3 0 0 0 -5
+p590
+aVJason Smith NOH 12/19/2010 NOH @ DET L 24 6 2 6 33.3 0 0 - 2 2 100.0 3 0 3 0 0 0 0 1 -7
+p591
+aVMarcus Thornton NOH 12/19/2010 NOH @ DET L 13 3 1 5 20.0 0 2 0.0 1 2 50.0 0 3 3 0 1 0 2 0 -8
+p592
+aVWillie Green NOH 12/19/2010 NOH @ DET L 20 11 4 7 57.1 1 1 100.0 2 4 50.0 2 3 5 1 0 0 0 3 -4
+p593
+aVChris Paul NOH 12/19/2010 NOH @ DET L 39 23 9 16 56.3 3 5 60.0 2 2 100.0 0 2 2 10 3 0 1 1 0
+p594
+aVTrevor Ariza NOH 12/19/2010 NOH @ DET L 42 9 2 11 18.2 0 3 0.0 5 6 83.3 1 8 9 0 3 0 5 3 6
+p595
+aVDavid Andersen NOH 12/19/2010 NOH @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p596
+aVDavid West NOH 12/19/2010 NOH @ DET L 43 32 12 21 57.1 0 0 - 8 9 88.9 3 6 9 2 1 0 3 4 2
+p597
+aVDJ Mbenga NOH 12/19/2010 NOH @ DET L 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 3
+p598
+aVQuincy Pondexter NOH 12/19/2010 NOH @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p599
+aVMarco Belinelli NOH 12/19/2010 NOH @ DET L 29 6 2 6 33.3 2 3 66.7 0 0 - 1 2 3 2 1 0 1 3 -3
+p600
+aVEmeka Okafor NOH 12/19/2010 NOH @ DET L 31 13 5 9 55.6 0 0 - 3 3 100.0 4 8 12 1 2 2 2 6 9
+p601
+aVJarrett Jack NOH 12/19/2010 NOH @ DET L 16 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 -4
+p602
+aVMarcus Thornton NOH 12/17/2010 NOH vs. UTA W 24 19 8 10 80.0 3 5 60.0 0 0 - 2 3 5 1 2 0 0 1 20
+p603
+aVDavid West NOH 12/17/2010 NOH vs. UTA W 34 23 7 9 77.8 0 0 - 9 9 100.0 4 4 8 2 1 2 2 2 24
+p604
+aVJason Smith NOH 12/17/2010 NOH vs. UTA W 23 6 2 5 40.0 0 0 - 2 2 100.0 3 5 8 1 0 2 2 3 18
+p605
+aVMarco Belinelli NOH 12/17/2010 NOH vs. UTA W 24 8 3 7 42.9 2 4 50.0 0 0 - 0 4 4 3 1 0 1 1 11
+p606
+aVChris Paul NOH 12/17/2010 NOH vs. UTA W 32 11 5 11 45.5 0 0 - 1 1 100.0 1 6 7 10 1 0 3 4 18
+p607
+aVWillie Green NOH 12/17/2010 NOH vs. UTA W 15 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 0 0 1 0 1 11
+p608
+aVTrevor Ariza NOH 12/17/2010 NOH vs. UTA W 38 17 7 14 50.0 0 3 0.0 3 4 75.0 2 5 7 1 1 1 6 3 17
+p609
+aVEmeka Okafor NOH 12/17/2010 NOH vs. UTA W 27 4 1 3 33.3 0 0 - 2 4 50.0 1 10 11 0 0 1 2 5 11
+p610
+aVJarrett Jack NOH 12/17/2010 NOH vs. UTA W 18 10 4 8 50.0 0 2 0.0 2 2 100.0 0 1 1 5 0 0 0 2 11
+p611
+aVDavid Andersen NOH 12/17/2010 NOH vs. UTA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p612
+aVDJ Mbenga NOH 12/17/2010 NOH vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p613
+aVChris Paul NOH 12/15/2010 NOH vs. SAC W 38 22 5 11 45.5 0 0 - 12 13 92.3 0 3 3 11 1 0 0 2 4
+p614
+aVDavid West NOH 12/15/2010 NOH vs. SAC W 41 11 5 14 35.7 0 0 - 1 3 33.3 1 8 9 7 1 0 1 4 0
+p615
+aVJarrett Jack NOH 12/15/2010 NOH vs. SAC W 14 4 1 7 14.3 0 1 0.0 2 4 50.0 0 2 2 2 0 0 2 0 -2
+p616
+aVWillie Green NOH 12/15/2010 NOH vs. SAC W 25 10 4 7 57.1 1 3 33.3 1 2 50.0 0 3 3 1 0 0 0 2 19
+p617
+aVEmeka Okafor NOH 12/15/2010 NOH vs. SAC W 33 10 4 5 80.0 0 0 - 2 4 50.0 2 7 9 1 0 4 3 4 4
+p618
+aVMarco Belinelli NOH 12/15/2010 NOH vs. SAC W 21 9 3 9 33.3 1 4 25.0 2 2 100.0 1 2 3 1 1 0 3 1 -17
+p619
+aVTrevor Ariza NOH 12/15/2010 NOH vs. SAC W 20 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 -19
+p620
+aVDavid Andersen NOH 12/15/2010 NOH vs. SAC W 5 3 1 2 50.0 0 0 - 1 1 100.0 2 0 2 0 0 0 0 2 0
+p621
+aVQuincy Pondexter NOH 12/15/2010 NOH vs. SAC W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p622
+aVJason Smith NOH 12/15/2010 NOH vs. SAC W 17 6 3 3 100.0 0 0 - 0 0 - 4 2 6 1 1 1 0 1 2
+p623
+aVMarcus Thornton NOH 12/15/2010 NOH vs. SAC W 24 19 8 15 53.3 2 2 100.0 1 1 100.0 2 2 4 0 1 1 2 1 22
+p624
+aVAaron Gray NOH 12/13/2010 NOH @ MIA L 11 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 5 -1
+p625
+aVJason Smith NOH 12/13/2010 NOH @ MIA L 12 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 1 0 2 -4
+p626
+aVDavid West NOH 12/13/2010 NOH @ MIA L 37 26 8 17 47.1 0 0 - 10 13 76.9 6 6 12 2 1 0 3 2 -9
+p627
+aVEmeka Okafor NOH 12/13/2010 NOH @ MIA L 37 9 4 5 80.0 0 0 - 1 1 100.0 1 5 6 0 1 0 2 6 -10
+p628
+aVChris Paul NOH 12/13/2010 NOH @ MIA L 36 11 3 10 30.0 0 3 0.0 5 6 83.3 1 7 8 5 0 0 2 4 -11
+p629
+aVTrevor Ariza NOH 12/13/2010 NOH @ MIA L 38 13 5 10 50.0 0 2 0.0 3 5 60.0 2 2 4 0 2 0 0 4 -10
+p630
+aVQuincy Pondexter NOH 12/13/2010 NOH @ MIA L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 1 -2
+p631
+aVMarco Belinelli NOH 12/13/2010 NOH @ MIA L 30 9 2 9 22.2 1 7 14.3 4 5 80.0 0 1 1 2 0 0 0 0 -8
+p632
+aVWillie Green NOH 12/13/2010 NOH @ MIA L 18 4 2 7 28.6 0 0 - 0 0 - 0 3 3 1 0 0 1 4 -4
+p633
+aVJarrett Jack NOH 12/13/2010 NOH @ MIA L 12 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 2 0 0 2 1 -1
+p634
+aVDavid Andersen NOH 12/12/2010 NOH @ PHI L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 3
+p635
+aVMarcus Thornton NOH 12/12/2010 NOH @ PHI L 15 8 3 8 37.5 1 2 50.0 1 2 50.0 0 3 3 0 0 0 0 1 -7
+p636
+aVQuincy Pondexter NOH 12/12/2010 NOH @ PHI L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -3
+p637
+aVDavid West NOH 12/12/2010 NOH @ PHI L 28 9 2 10 20.0 0 0 - 5 6 83.3 0 8 8 0 0 0 2 3 -7
+p638
+aVJarrett Jack NOH 12/12/2010 NOH @ PHI L 25 8 3 8 37.5 0 1 0.0 2 2 100.0 1 1 2 0 0 0 1 3 -15
+p639
+aVDJ Mbenga NOH 12/12/2010 NOH @ PHI L 15 2 1 5 20.0 0 0 - 0 0 - 4 3 7 0 0 1 1 2 9
+p640
+aVJason Smith NOH 12/12/2010 NOH @ PHI L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p641
+aVMarco Belinelli NOH 12/12/2010 NOH @ PHI L 24 6 3 9 33.3 0 3 0.0 0 0 - 0 1 1 0 1 0 0 1 -10
+p642
+aVEmeka Okafor NOH 12/12/2010 NOH @ PHI L 24 2 0 5 0.0 0 0 - 2 6 33.3 3 5 8 0 0 0 0 1 -15
+p643
+aVTrevor Ariza NOH 12/12/2010 NOH @ PHI L 27 5 2 11 18.2 1 2 50.0 0 0 - 3 7 10 1 2 1 2 3 -10
+p644
+aVWillie Green NOH 12/12/2010 NOH @ PHI L 26 0 0 7 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 1 -15
+p645
+aVChris Paul NOH 12/12/2010 NOH @ PHI L 32 25 8 12 66.7 2 2 100.0 7 7 100.0 0 2 2 3 3 0 4 4 -11
+p646
+aVDavid Andersen NOH 12/10/2010 NOH vs. OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p647
+aVEmeka Okafor NOH 12/10/2010 NOH vs. OKC L 28 6 2 6 33.3 0 0 - 2 5 40.0 1 7 8 1 0 1 2 5 5
+p648
+aVDavid West NOH 12/10/2010 NOH vs. OKC L 41 24 11 18 61.1 0 0 - 2 2 100.0 6 7 13 4 4 1 4 4 -8
+p649
+aVChris Paul NOH 12/10/2010 NOH vs. OKC L 36 18 7 10 70.0 1 3 33.3 3 3 100.0 0 0 0 7 5 0 3 4 -4
+p650
+aVDJ Mbenga NOH 12/10/2010 NOH vs. OKC L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 1 1 0 -3
+p651
+aVJarrett Jack NOH 12/10/2010 NOH vs. OKC L 15 13 5 7 71.4 0 0 - 3 3 100.0 0 4 4 3 3 0 1 0 2
+p652
+aVWillie Green NOH 12/10/2010 NOH vs. OKC L 13 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 2 6
+p653
+aVMarco Belinelli NOH 12/10/2010 NOH vs. OKC L 37 15 5 14 35.7 2 7 28.6 3 4 75.0 0 4 4 1 1 0 4 2 -13
+p654
+aVQuincy Pondexter NOH 12/10/2010 NOH vs. OKC L 11 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 1 0 0 -2
+p655
+aVTrevor Ariza NOH 12/10/2010 NOH vs. OKC L 40 9 3 9 33.3 1 2 50.0 2 4 50.0 1 2 3 2 2 0 3 5 -8
+p656
+aVJason Smith NOH 12/10/2010 NOH vs. OKC L 7 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 1 -2
+p657
+aVDavid Andersen NOH 12/08/2010 NOH vs. DET W 14 3 1 4 25.0 1 1 100.0 0 0 - 0 4 4 2 0 0 1 2 -2
+p658
+aVTrevor Ariza NOH 12/08/2010 NOH vs. DET W 29 3 1 4 25.0 0 1 0.0 1 2 50.0 0 7 7 2 1 0 2 0 24
+p659
+aVQuincy Pondexter NOH 12/08/2010 NOH vs. DET W 18 5 2 5 40.0 1 1 100.0 0 2 0.0 0 2 2 1 0 0 1 1 -3
+p660
+aVJarrett Jack NOH 12/08/2010 NOH vs. DET W 22 4 2 9 22.2 0 2 0.0 0 2 0.0 0 3 3 2 1 0 0 1 3
+p661
+aVDavid West NOH 12/08/2010 NOH vs. DET W 30 25 10 14 71.4 0 0 - 5 5 100.0 2 4 6 2 0 0 0 3 22
+p662
+aVChris Paul NOH 12/08/2010 NOH vs. DET W 29 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 14 5 0 1 2 24
+p663
+aVMarco Belinelli NOH 12/08/2010 NOH vs. DET W 27 22 8 12 66.7 4 7 57.1 2 2 100.0 0 0 0 2 0 0 0 2 7
+p664
+aVWillie Green NOH 12/08/2010 NOH vs. DET W 18 9 3 7 42.9 0 1 0.0 3 4 75.0 0 3 3 1 0 0 1 2 2
+p665
+aVJason Smith NOH 12/08/2010 NOH vs. DET W 23 2 1 3 33.3 0 0 - 0 0 - 1 6 7 2 0 3 1 3 1
+p666
+aVEmeka Okafor NOH 12/08/2010 NOH vs. DET W 28 14 7 9 77.8 0 0 - 0 2 0.0 1 5 6 1 0 2 3 1 17
+p667
+aVAaron Gray NOH 12/05/2010 NOH @ SAS L 12 9 4 5 80.0 0 0 - 1 1 100.0 3 1 4 1 1 0 2 4 6
+p668
+aVDavid West NOH 12/05/2010 NOH @ SAS L 30 13 6 11 54.5 0 0 - 1 2 50.0 1 4 5 3 1 2 1 4 -20
+p669
+aVDavid Andersen NOH 12/05/2010 NOH @ SAS L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p670
+aVChris Paul NOH 12/05/2010 NOH @ SAS L 32 16 5 13 38.5 2 4 50.0 4 5 80.0 0 5 5 8 2 0 4 2 -21
+p671
+aVWillie Green NOH 12/05/2010 NOH @ SAS L 20 10 5 5 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -1
+p672
+aVJarrett Jack NOH 12/05/2010 NOH @ SAS L 16 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 5 0 0 2 2 -4
+p673
+aVQuincy Pondexter NOH 12/05/2010 NOH @ SAS L 22 10 4 7 57.1 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -2
+p674
+aVMarco Belinelli NOH 12/05/2010 NOH @ SAS L 21 2 0 6 0.0 0 0 - 2 3 66.7 0 2 2 2 1 0 0 0 -22
+p675
+aVTrevor Ariza NOH 12/05/2010 NOH @ SAS L 32 13 6 12 50.0 1 3 33.3 0 0 - 0 4 4 1 0 0 2 3 -21
+p676
+aVJason Smith NOH 12/05/2010 NOH @ SAS L 23 2 1 5 20.0 0 0 - 0 0 - 2 3 5 1 2 0 1 0 8
+p677
+aVMarcus Thornton NOH 12/05/2010 NOH @ SAS L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p678
+aVEmeka Okafor NOH 12/05/2010 NOH @ SAS L 23 5 1 3 33.3 0 0 - 3 4 75.0 1 2 3 0 1 0 0 3 -36
+p679
+aVWillie Green NOH 12/03/2010 NOH vs. NYK L 24 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 3 1 -13
+p680
+aVTrevor Ariza NOH 12/03/2010 NOH vs. NYK L 38 21 9 21 42.9 0 4 0.0 3 3 100.0 2 7 9 2 3 0 1 2 -8
+p681
+aVEmeka Okafor NOH 12/03/2010 NOH vs. NYK L 35 11 3 4 75.0 0 0 - 5 10 50.0 4 10 14 1 1 0 5 2 -14
+p682
+aVChris Paul NOH 12/03/2010 NOH vs. NYK L 31 17 4 9 44.4 2 3 66.7 7 7 100.0 0 4 4 10 3 0 2 5 -9
+p683
+aVDJ Mbenga NOH 12/03/2010 NOH vs. NYK L 10 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 2 2 1 1 4
+p684
+aVMarco Belinelli NOH 12/03/2010 NOH vs. NYK L 38 9 4 12 33.3 1 5 20.0 0 0 - 0 2 2 1 1 0 2 1 -6
+p685
+aVJarrett Jack NOH 12/03/2010 NOH vs. NYK L 21 6 2 8 25.0 0 0 - 2 4 50.0 2 1 3 2 1 0 2 2 -7
+p686
+aVMarcus Thornton NOH 12/03/2010 NOH vs. NYK L 15 2 0 2 0.0 0 2 0.0 2 2 100.0 0 2 2 1 0 0 3 1 3
+p687
+aVJason Smith NOH 12/03/2010 NOH vs. NYK L 15 12 5 8 62.5 0 0 - 2 2 100.0 2 3 5 1 0 0 0 1 7
+p688
+aVQuincy Pondexter NOH 12/03/2010 NOH vs. NYK L 14 6 3 7 42.9 0 0 - 0 0 - 0 3 3 0 0 0 0 0 3
+p689
+aVJason Smith NOH 12/01/2010 NOH vs. CHA W 18 6 2 4 50.0 0 0 - 2 2 100.0 3 0 3 0 0 0 1 5 0
+p690
+aVMarcus Thornton NOH 12/01/2010 NOH vs. CHA W 10 7 3 6 50.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 1 5
+p691
+aVTrevor Ariza NOH 12/01/2010 NOH vs. CHA W 38 10 4 15 26.7 2 8 25.0 0 0 - 0 5 5 5 0 2 1 3 13
+p692
+aVQuincy Pondexter NOH 12/01/2010 NOH vs. CHA W 10 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 1 0 0 0 3
+p693
+aVMarco Belinelli NOH 12/01/2010 NOH vs. CHA W 20 6 2 6 33.3 1 4 25.0 1 2 50.0 0 0 0 3 0 0 0 1 2
+p694
+aVDavid West NOH 12/01/2010 NOH vs. CHA W 34 22 9 15 60.0 0 0 - 4 5 80.0 2 4 6 0 2 2 1 2 18
+p695
+aVDJ Mbenga NOH 12/01/2010 NOH vs. CHA W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -2
+p696
+aVChris Paul NOH 12/01/2010 NOH vs. CHA W 39 9 4 7 57.1 1 2 50.0 0 0 - 0 5 5 14 4 0 3 0 19
+p697
+aVWillie Green NOH 12/01/2010 NOH vs. CHA W 21 10 4 7 57.1 1 1 100.0 1 2 50.0 2 3 5 2 0 1 3 0 12
+p698
+aVEmeka Okafor NOH 12/01/2010 NOH vs. CHA W 38 14 6 10 60.0 0 0 - 2 4 50.0 3 10 13 0 0 2 2 2 14
+p699
+aVJarrett Jack NOH 12/01/2010 NOH vs. CHA W 7 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -4
+p700
+aVWillie Green NOH 11/29/2010 NOH @ OKC L 19 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 4 -4
+p701
+aVQuincy Pondexter NOH 11/29/2010 NOH @ OKC L 9 4 2 4 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 4
+p702
+aVDJ Mbenga NOH 11/29/2010 NOH @ OKC L 14 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 1 0 1 4 -12
+p703
+aVJason Smith NOH 11/29/2010 NOH @ OKC L 17 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 0 0 3 2 -3
+p704
+aVTrevor Ariza NOH 11/29/2010 NOH @ OKC L 38 10 4 7 57.1 2 4 50.0 0 0 - 0 3 3 1 3 0 3 5 -11
+p705
+aVEmeka Okafor NOH 11/29/2010 NOH @ OKC L 31 13 5 8 62.5 0 0 - 3 5 60.0 2 9 11 0 0 4 0 2 3
+p706
+aVJarrett Jack NOH 11/29/2010 NOH @ OKC L 13 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 2 0 0 0 1 -11
+p707
+aVDavid West NOH 11/29/2010 NOH @ OKC L 34 20 10 24 41.7 0 0 - 0 3 0.0 1 6 7 2 2 0 1 5 0
+p708
+aVChris Paul NOH 11/29/2010 NOH @ OKC L 35 17 6 13 46.2 1 2 50.0 4 4 100.0 0 2 2 14 5 0 2 2 5
+p709
+aVMarco Belinelli NOH 11/29/2010 NOH @ OKC L 30 10 3 10 30.0 2 6 33.3 2 2 100.0 1 1 2 0 0 0 2 1 -1
+p710
+aVTrevor Ariza NOH 11/28/2010 NOH vs. SAS L 34 10 3 7 42.9 2 4 50.0 2 2 100.0 1 5 6 2 2 0 2 0 -1
+p711
+aVEmeka Okafor NOH 11/28/2010 NOH vs. SAS L 34 12 4 6 66.7 0 0 - 4 6 66.7 0 7 7 1 0 5 0 4 -8
+p712
+aVJason Smith NOH 11/28/2010 NOH vs. SAS L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 4
+p713
+aVMarcus Thornton NOH 11/28/2010 NOH vs. SAS L 20 11 5 9 55.6 1 2 50.0 0 0 - 0 2 2 1 0 0 1 2 -9
+p714
+aVDJ Mbenga NOH 11/28/2010 NOH vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p715
+aVJarrett Jack NOH 11/28/2010 NOH vs. SAS L 15 2 0 4 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 2 1 -4
+p716
+aVDavid West NOH 11/28/2010 NOH vs. SAS L 34 23 10 14 71.4 0 0 - 3 6 50.0 3 4 7 1 2 1 2 5 -18
+p717
+aVWillie Green NOH 11/28/2010 NOH vs. SAS L 24 8 4 9 44.4 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 -15
+p718
+aVChris Paul NOH 11/28/2010 NOH vs. SAS L 33 15 6 13 46.2 1 2 50.0 2 2 100.0 0 6 6 7 1 0 3 4 -10
+p719
+aVMarco Belinelli NOH 11/28/2010 NOH vs. SAS L 29 12 3 9 33.3 1 2 50.0 5 6 83.3 1 0 1 2 0 0 0 1 -10
+p720
+aVQuincy Pondexter NOH 11/28/2010 NOH vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p721
+aVJason Smith NOH 11/26/2010 NOH @ POR W 20 4 2 6 33.3 0 0 - 0 0 - 1 7 8 2 1 0 1 2 13
+p722
+aVEmeka Okafor NOH 11/26/2010 NOH @ POR W 32 6 2 6 33.3 0 0 - 2 8 25.0 5 4 9 2 0 1 1 3 15
+p723
+aVDavid West NOH 11/26/2010 NOH @ POR W 36 14 6 9 66.7 1 1 100.0 1 2 50.0 0 7 7 2 1 0 3 2 13
+p724
+aVMarco Belinelli NOH 11/26/2010 NOH @ POR W 29 14 5 8 62.5 4 5 80.0 0 0 - 0 4 4 0 0 0 1 2 18
+p725
+aVDJ Mbenga NOH 11/26/2010 NOH @ POR W 8 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 1 2 -3
+p726
+aVMarcus Thornton NOH 11/26/2010 NOH @ POR W 10 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 1 -3
+p727
+aVWillie Green NOH 11/26/2010 NOH @ POR W 29 19 7 11 63.6 2 4 50.0 3 4 75.0 0 0 0 0 1 0 0 1 17
+p728
+aVJarrett Jack NOH 11/26/2010 NOH @ POR W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 -8
+p729
+aVChris Paul NOH 11/26/2010 NOH @ POR W 36 16 4 6 66.7 0 0 - 8 8 100.0 0 6 6 13 2 0 5 3 27
+p730
+aVTrevor Ariza NOH 11/26/2010 NOH @ POR W 28 18 6 11 54.5 1 3 33.3 5 6 83.3 2 5 7 1 0 0 2 1 6
+p731
+aVChris Paul NOH 11/24/2010 NOH @ UTA L 36 17 4 8 50.0 1 3 33.3 8 8 100.0 0 3 3 9 5 0 1 4 -6
+p732
+aVTrevor Ariza NOH 11/24/2010 NOH @ UTA L 27 9 4 12 33.3 0 4 0.0 1 1 100.0 0 3 3 2 1 0 1 2 7
+p733
+aVQuincy Pondexter NOH 11/24/2010 NOH @ UTA L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -8
+p734
+aVMarco Belinelli NOH 11/24/2010 NOH @ UTA L 29 10 3 6 50.0 2 4 50.0 2 3 66.7 0 1 1 0 0 0 1 1 -8
+p735
+aVAaron Gray NOH 11/24/2010 NOH @ UTA L 9 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -12
+p736
+aVEmeka Okafor NOH 11/24/2010 NOH @ UTA L 25 7 3 7 42.9 0 0 - 1 2 50.0 3 7 10 0 0 0 4 3 -8
+p737
+aVJarrett Jack NOH 11/24/2010 NOH @ UTA L 13 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -11
+p738
+aVWillie Green NOH 11/24/2010 NOH @ UTA L 21 13 5 10 50.0 1 4 25.0 2 2 100.0 2 2 4 1 1 0 2 2 -19
+p739
+aVDavid West NOH 11/24/2010 NOH @ UTA L 31 15 6 12 50.0 0 0 - 3 6 50.0 2 3 5 0 0 0 3 3 -10
+p740
+aVJason Smith NOH 11/24/2010 NOH @ UTA L 18 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 0 0 1 2 1 -7
+p741
+aVDJ Mbenga NOH 11/24/2010 NOH @ UTA L 13 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 0 0 1 0 2 1
+p742
+aVMarcus Thornton NOH 11/24/2010 NOH @ UTA L 12 2 0 2 0.0 0 2 0.0 2 2 100.0 0 2 2 1 0 0 2 2 -9
+p743
+aVJason Smith NOH 11/22/2010 NOH @ LAC L 14 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 4 -8
+p744
+aVEmeka Okafor NOH 11/22/2010 NOH @ LAC L 34 4 2 3 66.7 0 0 - 0 2 0.0 3 9 12 0 0 1 1 3 8
+p745
+aVChris Paul NOH 11/22/2010 NOH @ LAC L 32 14 5 12 41.7 3 5 60.0 1 1 100.0 0 4 4 6 2 0 4 3 -2
+p746
+aVWillie Green NOH 11/22/2010 NOH @ LAC L 18 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 0 0 0 3 4
+p747
+aVJarrett Jack NOH 11/22/2010 NOH @ LAC L 16 12 4 8 50.0 0 2 0.0 4 4 100.0 1 2 3 4 0 0 2 4 -3
+p748
+aVMarco Belinelli NOH 11/22/2010 NOH @ LAC L 39 14 4 11 36.4 2 9 22.2 4 6 66.7 0 0 0 1 0 0 2 2 -4
+p749
+aVPops Mensah-Bonsu NOH 11/22/2010 NOH @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p750
+aVDJ Mbenga NOH 11/22/2010 NOH @ LAC L 5 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 1 6
+p751
+aVQuincy Pondexter NOH 11/22/2010 NOH @ LAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p752
+aVTrevor Ariza NOH 11/22/2010 NOH @ LAC L 37 9 4 11 36.4 1 4 25.0 0 2 0.0 0 6 6 2 0 1 2 3 -11
+p753
+aVDavid West NOH 11/22/2010 NOH @ LAC L 36 30 12 23 52.2 0 0 - 6 8 75.0 2 8 10 5 0 0 1 4 -6
+p754
+aVDJ Mbenga NOH 11/21/2010 NOH @ SAC W 9 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 0 0 2 2 1 -9
+p755
+aVDavid West NOH 11/21/2010 NOH @ SAC W 37 17 8 19 42.1 0 0 - 1 2 50.0 1 3 4 1 0 2 0 1 12
+p756
+aVEmeka Okafor NOH 11/21/2010 NOH @ SAC W 32 6 3 14 21.4 0 0 - 0 0 - 5 7 12 0 1 1 2 4 12
+p757
+aVTrevor Ariza NOH 11/21/2010 NOH @ SAC W 33 16 5 9 55.6 2 4 50.0 4 4 100.0 1 6 7 2 2 0 2 1 13
+p758
+aVWillie Green NOH 11/21/2010 NOH @ SAC W 21 2 1 9 11.1 0 1 0.0 0 0 - 1 3 4 2 1 0 3 3 -4
+p759
+aVJason Smith NOH 11/21/2010 NOH @ SAC W 17 8 3 6 50.0 0 0 - 2 2 100.0 3 4 7 0 1 1 1 3 -7
+p760
+aVMarcus Thornton NOH 11/21/2010 NOH @ SAC W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -7
+p761
+aVChris Paul NOH 11/21/2010 NOH @ SAC W 40 9 2 12 16.7 0 3 0.0 5 5 100.0 2 5 7 14 5 0 2 3 11
+p762
+aVMarco Belinelli NOH 11/21/2010 NOH @ SAC W 33 12 4 12 33.3 2 4 50.0 2 2 100.0 0 4 4 0 0 0 2 2 8
+p763
+aVQuincy Pondexter NOH 11/21/2010 NOH @ SAC W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -9
+p764
+aVJason Smith NOH 11/19/2010 NOH vs. CLE W 13 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 3 8
+p765
+aVDavid West NOH 11/19/2010 NOH vs. CLE W 32 34 14 20 70.0 0 0 - 6 7 85.7 3 8 11 1 1 3 2 3 4
+p766
+aVEmeka Okafor NOH 11/19/2010 NOH vs. CLE W 29 6 3 5 60.0 0 0 - 0 0 - 2 6 8 0 0 3 1 4 2
+p767
+aVQuincy Pondexter NOH 11/19/2010 NOH vs. CLE W 13 4 1 2 50.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 0 2 6
+p768
+aVChris Paul NOH 11/19/2010 NOH vs. CLE W 34 15 4 8 50.0 2 3 66.7 5 6 83.3 1 3 4 10 6 0 3 3 5
+p769
+aVTrevor Ariza NOH 11/19/2010 NOH vs. CLE W 36 7 3 12 25.0 0 4 0.0 1 5 20.0 0 6 6 2 0 1 0 2 3
+p770
+aVMarco Belinelli NOH 11/19/2010 NOH vs. CLE W 32 20 5 11 45.5 3 8 37.5 7 7 100.0 0 1 1 5 0 0 1 4 3
+p771
+aVJerryd Bayless NOH 11/19/2010 NOH vs. CLE W 14 8 3 6 50.0 1 2 50.0 1 1 100.0 0 1 1 1 0 1 0 1 2
+p772
+aVDJ Mbenga NOH 11/19/2010 NOH vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 6
+p773
+aVWillie Green NOH 11/19/2010 NOH vs. CLE W 22 8 4 9 44.4 0 2 0.0 0 0 - 0 3 3 2 0 0 0 3 -2
+p774
+aVPeja Stojakovic NOH 11/19/2010 NOH vs. CLE W 13 3 1 7 14.3 1 5 20.0 0 0 - 0 2 2 1 0 0 1 0 -2
+p775
+aVQuincy Pondexter NOH 11/17/2010 NOH vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p776
+aVEmeka Okafor NOH 11/17/2010 NOH vs. DAL W 38 13 5 10 50.0 0 0 - 3 3 100.0 5 5 10 0 1 2 1 1 2
+p777
+aVChris Paul NOH 11/17/2010 NOH vs. DAL W 37 20 8 13 61.5 2 2 100.0 2 3 66.7 0 2 2 11 0 0 2 3 3
+p778
+aVTrevor Ariza NOH 11/17/2010 NOH vs. DAL W 31 12 5 10 50.0 1 4 25.0 1 1 100.0 0 4 4 5 2 0 1 3 5
+p779
+aVJerryd Bayless NOH 11/17/2010 NOH vs. DAL W 10 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 3 0 0 0 0 0
+p780
+aVMarco Belinelli NOH 11/17/2010 NOH vs. DAL W 32 17 6 10 60.0 3 4 75.0 2 3 66.7 0 4 4 1 1 0 1 4 4
+p781
+aVWillie Green NOH 11/17/2010 NOH vs. DAL W 19 9 4 10 40.0 1 1 100.0 0 0 - 0 1 1 0 1 1 1 2 -5
+p782
+aVPops Mensah-Bonsu NOH 11/17/2010 NOH vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p783
+aVDavid West NOH 11/17/2010 NOH vs. DAL W 39 17 8 16 50.0 0 0 - 1 2 50.0 1 5 6 3 3 1 3 5 5
+p784
+aVPeja Stojakovic NOH 11/17/2010 NOH vs. DAL W 18 4 1 4 25.0 1 3 33.3 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p785
+aVJason Smith NOH 11/17/2010 NOH vs. DAL W 16 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p786
+aVChris Paul NOH 11/15/2010 NOH @ DAL L 33 22 9 16 56.3 2 5 40.0 2 4 50.0 0 4 4 9 3 0 3 4 -1
+p787
+aVTrevor Ariza NOH 11/15/2010 NOH @ DAL L 35 13 3 7 42.9 2 4 50.0 5 8 62.5 2 5 7 2 3 0 1 2 -2
+p788
+aVPeja Stojakovic NOH 11/15/2010 NOH @ DAL L 19 17 6 8 75.0 4 6 66.7 1 1 100.0 0 2 2 1 0 0 1 1 -6
+p789
+aVDJ Mbenga NOH 11/15/2010 NOH @ DAL L 7 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 2 3
+p790
+aVWillie Green NOH 11/15/2010 NOH @ DAL L 23 11 4 7 57.1 3 4 75.0 0 0 - 0 3 3 0 0 0 1 2 -9
+p791
+aVMarco Belinelli NOH 11/15/2010 NOH @ DAL L 22 8 2 5 40.0 0 3 0.0 4 5 80.0 0 1 1 0 0 0 0 2 2
+p792
+aVJason Smith NOH 11/15/2010 NOH @ DAL L 15 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 0 1 3 -1
+p793
+aVEmeka Okafor NOH 11/15/2010 NOH @ DAL L 33 5 2 10 20.0 0 1 0.0 1 2 50.0 6 8 14 0 0 3 3 3 -4
+p794
+aVDavid West NOH 11/15/2010 NOH @ DAL L 36 12 5 14 35.7 0 0 - 2 2 100.0 2 3 5 3 3 0 2 5 7
+p795
+aVJerryd Bayless NOH 11/15/2010 NOH @ DAL L 16 5 2 6 33.3 0 2 0.0 1 2 50.0 0 0 0 3 0 0 1 2 -4
+p796
+aVJerryd Bayless NOH 11/13/2010 NOH vs. POR W 18 8 2 7 28.6 0 1 0.0 4 4 100.0 0 3 3 3 1 0 2 2 12
+p797
+aVMarco Belinelli NOH 11/13/2010 NOH vs. POR W 30 18 6 9 66.7 4 6 66.7 2 2 100.0 0 3 3 0 1 0 0 2 9
+p798
+aVDavid West NOH 11/13/2010 NOH vs. POR W 27 18 6 11 54.5 0 0 - 6 6 100.0 4 1 5 2 0 0 1 3 15
+p799
+aVQuincy Pondexter NOH 11/13/2010 NOH vs. POR W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 13
+p800
+aVTrevor Ariza NOH 11/13/2010 NOH vs. POR W 33 10 4 11 36.4 0 5 0.0 2 2 100.0 2 3 5 1 1 0 1 2 5
+p801
+aVChris Paul NOH 11/13/2010 NOH vs. POR W 32 11 2 6 33.3 1 2 50.0 6 6 100.0 0 4 4 13 5 0 5 2 8
+p802
+aVWillie Green NOH 11/13/2010 NOH vs. POR W 20 11 5 9 55.6 0 2 0.0 1 1 100.0 0 2 2 0 0 0 0 2 9
+p803
+aVEmeka Okafor NOH 11/13/2010 NOH vs. POR W 33 14 6 11 54.5 0 0 - 2 4 50.0 2 10 12 1 0 2 1 3 16
+p804
+aVJason Smith NOH 11/13/2010 NOH vs. POR W 22 6 3 5 60.0 0 0 - 0 0 - 2 0 2 1 0 3 1 3 2
+p805
+aVPeja Stojakovic NOH 11/13/2010 NOH vs. POR W 17 11 3 7 42.9 3 7 42.9 2 2 100.0 0 1 1 2 0 0 0 0 11
+p806
+aVChris Paul NOH 11/09/2010 NOH vs. LAC W 28 13 6 10 60.0 1 1 100.0 0 0 - 0 2 2 8 3 0 1 1 11
+p807
+aVDavid West NOH 11/09/2010 NOH vs. LAC W 30 6 3 11 27.3 0 0 - 0 0 - 2 4 6 3 3 2 2 3 19
+p808
+aVJerryd Bayless NOH 11/09/2010 NOH vs. LAC W 20 15 5 10 50.0 1 3 33.3 4 5 80.0 0 2 2 9 1 0 1 4 8
+p809
+aVTrevor Ariza NOH 11/09/2010 NOH vs. LAC W 30 12 4 9 44.4 3 5 60.0 1 2 50.0 0 6 6 5 1 0 2 3 12
+p810
+aVJason Smith NOH 11/09/2010 NOH vs. LAC W 24 6 3 7 42.9 0 0 - 0 0 - 0 5 5 2 2 1 0 4 13
+p811
+aVDJ Mbenga NOH 11/09/2010 NOH vs. LAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p812
+aVQuincy Pondexter NOH 11/09/2010 NOH vs. LAC W 17 7 3 6 50.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 2 9
+p813
+aVEmeka Okafor NOH 11/09/2010 NOH vs. LAC W 32 12 4 5 80.0 0 0 - 4 7 57.1 1 6 7 0 0 3 3 2 5
+p814
+aVPops Mensah-Bonsu NOH 11/09/2010 NOH vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 3
+p815
+aVMarco Belinelli NOH 11/09/2010 NOH vs. LAC W 24 11 4 9 44.4 1 4 25.0 2 3 66.7 0 2 2 1 1 0 2 4 9
+p816
+aVWillie Green NOH 11/09/2010 NOH vs. LAC W 25 19 7 10 70.0 1 2 50.0 4 4 100.0 1 0 1 0 0 1 1 0 8
+p817
+aVJason Smith NOH 11/06/2010 NOH @ MIL W 19 6 2 6 33.3 0 0 - 2 2 100.0 3 3 6 1 1 0 0 2 -9
+p818
+aVWillie Green NOH 11/06/2010 NOH @ MIL W 20 3 1 9 11.1 0 2 0.0 1 2 50.0 0 2 2 3 0 0 2 3 -2
+p819
+aVMarco Belinelli NOH 11/06/2010 NOH @ MIL W 30 14 5 9 55.6 4 7 57.1 0 0 - 1 4 5 0 1 0 5 2 14
+p820
+aVTrevor Ariza NOH 11/06/2010 NOH @ MIL W 34 11 2 11 18.2 2 7 28.6 5 6 83.3 0 6 6 3 0 1 1 1 19
+p821
+aVMarcus Thornton NOH 11/06/2010 NOH @ MIL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p822
+aVEmeka Okafor NOH 11/06/2010 NOH @ MIL W 29 11 3 5 60.0 0 0 - 5 5 100.0 1 6 7 0 0 2 1 4 9
+p823
+aVPops Mensah-Bonsu NOH 11/06/2010 NOH @ MIL W 11 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -13
+p824
+aVDavid West NOH 11/06/2010 NOH @ MIL W 36 25 10 12 83.3 0 0 - 5 7 71.4 2 4 6 4 2 2 2 2 22
+p825
+aVJerryd Bayless NOH 11/06/2010 NOH @ MIL W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 4 1 -5
+p826
+aVQuincy Pondexter NOH 11/06/2010 NOH @ MIL W 11 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 2 -14
+p827
+aVChris Paul NOH 11/06/2010 NOH @ MIL W 33 14 7 12 58.3 0 0 - 0 0 - 1 8 9 6 2 0 3 1 15
+p828
+aVJerryd Bayless NOH 11/05/2010 NOH vs. MIA W 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -6
+p829
+aVWillie Green NOH 11/05/2010 NOH vs. MIA W 18 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 1 -5
+p830
+aVChris Paul NOH 11/05/2010 NOH vs. MIA W 36 13 5 13 38.5 0 2 0.0 3 3 100.0 0 2 2 19 5 0 3 4 9
+p831
+aVJason Smith NOH 11/05/2010 NOH vs. MIA W 25 12 5 10 50.0 0 0 - 2 3 66.7 2 4 6 0 2 0 1 2 19
+p832
+aVMarco Belinelli NOH 11/05/2010 NOH vs. MIA W 31 8 3 7 42.9 0 2 0.0 2 2 100.0 0 1 1 3 0 0 1 3 4
+p833
+aVDavid West NOH 11/05/2010 NOH vs. MIA W 28 15 5 12 41.7 0 0 - 5 6 83.3 4 3 7 0 1 0 2 4 -8
+p834
+aVEmeka Okafor NOH 11/05/2010 NOH vs. MIA W 35 26 12 13 92.3 0 0 - 2 3 66.7 4 9 13 1 0 1 1 2 0
+p835
+aVTrevor Ariza NOH 11/05/2010 NOH vs. MIA W 36 13 5 13 38.5 3 7 42.9 0 0 - 0 6 6 1 1 0 2 4 9
+p836
+aVMarcus Thornton NOH 11/05/2010 NOH vs. MIA W 10 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 0 0 0 0 1 0
+p837
+aVDJ Mbenga NOH 11/05/2010 NOH vs. MIA W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p838
+aVMarco Belinelli NOH 11/03/2010 NOH @ HOU W 25 18 7 12 58.3 4 7 57.1 0 1 0.0 0 1 1 1 0 0 0 3 13
+p839
+aVChris Paul NOH 11/03/2010 NOH @ HOU W 35 25 7 12 58.3 1 1 100.0 10 12 83.3 1 6 7 8 4 1 1 1 12
+p840
+aVJason Smith NOH 11/03/2010 NOH @ HOU W 22 14 5 8 62.5 0 0 - 4 4 100.0 3 6 9 1 0 0 0 2 1
+p841
+aVDJ Mbenga NOH 11/03/2010 NOH @ HOU W 12 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 2 2 1 1
+p842
+aVDavid West NOH 11/03/2010 NOH @ HOU W 32 13 5 14 35.7 0 0 - 3 4 75.0 4 5 9 1 0 2 4 2 4
+p843
+aVEmeka Okafor NOH 11/03/2010 NOH @ HOU W 30 15 4 6 66.7 0 0 - 7 12 58.3 2 7 9 0 1 5 1 4 10
+p844
+aVJerryd Bayless NOH 11/03/2010 NOH @ HOU W 13 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 4 0 0 0 2 -4
+p845
+aVWillie Green NOH 11/03/2010 NOH @ HOU W 31 8 3 10 30.0 0 1 0.0 2 2 100.0 0 0 0 0 1 1 0 2 3
+p846
+aVMarcus Thornton NOH 11/03/2010 NOH @ HOU W 14 4 2 9 22.2 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 -3
+p847
+aVTrevor Ariza NOH 11/03/2010 NOH @ HOU W 26 5 1 3 33.3 0 0 - 3 5 60.0 0 4 4 4 3 0 0 4 3
+p848
+aVDJ Mbenga NOH 10/30/2010 NOH @ SAS W 15 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 3 2 2 3
+p849
+aVEmeka Okafor NOH 10/30/2010 NOH @ SAS W 19 9 3 5 60.0 0 0 - 3 4 75.0 0 4 4 1 0 1 0 3 -2
+p850
+aVMarco Belinelli NOH 10/30/2010 NOH @ SAS W 23 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 1 1 1 0 10
+p851
+aVJason Smith NOH 10/30/2010 NOH @ SAS W 21 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 0 0 1 3 6
+p852
+aVWillie Green NOH 10/30/2010 NOH @ SAS W 23 12 5 10 50.0 1 1 100.0 1 1 100.0 0 4 4 2 1 0 1 1 1
+p853
+aVMarcus Thornton NOH 10/30/2010 NOH @ SAS W 30 17 8 14 57.1 1 3 33.3 0 0 - 0 7 7 3 2 0 1 1 4
+p854
+aVDavid West NOH 10/30/2010 NOH @ SAS W 26 18 9 17 52.9 0 0 - 0 0 - 0 3 3 3 0 0 1 3 11
+p855
+aVTrevor Ariza NOH 10/30/2010 NOH @ SAS W 31 9 2 5 40.0 2 3 66.7 3 4 75.0 0 4 4 0 0 0 3 1 10
+p856
+aVJerryd Bayless NOH 10/30/2010 NOH @ SAS W 11 0 0 2 0.0 0 0 - 0 1 0.0 0 1 1 2 0 0 1 2 -7
+p857
+aVPops Mensah-Bonsu NOH 10/30/2010 NOH @ SAS W 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 5
+p858
+aVChris Paul NOH 10/30/2010 NOH @ SAS W 31 25 8 15 53.3 2 2 100.0 7 7 100.0 0 7 7 5 2 0 3 1 4
+p859
+aVDJ Mbenga NOH 10/29/2010 NOH vs. DEN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 10
+p860
+aVWillie Green NOH 10/29/2010 NOH vs. DEN W 14 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 16
+p861
+aVDavid West NOH 10/29/2010 NOH vs. DEN W 37 17 7 13 53.8 0 0 - 3 4 75.0 2 5 7 1 1 2 3 2 -3
+p862
+aVJerryd Bayless NOH 10/29/2010 NOH vs. DEN W 14 6 2 4 50.0 1 2 50.0 1 1 100.0 1 2 3 3 0 0 4 1 10
+p863
+aVMarco Belinelli NOH 10/29/2010 NOH vs. DEN W 24 5 2 8 25.0 1 3 33.3 0 0 - 0 0 0 2 1 0 0 2 4
+p864
+aVJason Smith NOH 10/29/2010 NOH vs. DEN W 8 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 1 0 0 2 4 -1
+p865
+aVEmeka Okafor NOH 10/29/2010 NOH vs. DEN W 31 13 6 10 60.0 0 0 - 1 2 50.0 4 4 8 0 0 4 0 2 -1
+p866
+aVPeja Stojakovic NOH 10/29/2010 NOH vs. DEN W 14 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 2 2 0 2 1 7
+p867
+aVChris Paul NOH 10/29/2010 NOH vs. DEN W 37 18 6 14 42.9 0 3 0.0 6 6 100.0 2 5 7 7 1 0 0 2 1
+p868
+aVTrevor Ariza NOH 10/29/2010 NOH vs. DEN W 32 11 4 8 50.0 1 4 25.0 2 5 40.0 0 4 4 4 4 1 2 4 -12
+p869
+aVPops Mensah-Bonsu NOH 10/29/2010 NOH vs. DEN W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 4
+p870
+aVMarcus Thornton NOH 10/29/2010 NOH vs. DEN W 18 10 4 9 44.4 2 2 100.0 0 0 - 1 1 2 1 1 0 1 0 -5
+p871
+aVPeja Stojakovic NOH 10/27/2010 NOH vs. MIL W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p872
+aVMarcus Thornton NOH 10/27/2010 NOH vs. MIL W 11 8 3 6 50.0 0 1 0.0 2 3 66.7 0 2 2 0 0 0 0 1 6
+p873
+aVDavid West NOH 10/27/2010 NOH vs. MIL W 27 22 9 14 64.3 0 0 - 4 4 100.0 2 5 7 0 0 0 0 5 -2
+p874
+aVMarco Belinelli NOH 10/27/2010 NOH vs. MIL W 35 18 6 15 40.0 1 5 20.0 5 5 100.0 0 6 6 2 0 0 1 1 5
+p875
+aVJason Smith NOH 10/27/2010 NOH vs. MIL W 25 8 3 10 30.0 0 0 - 2 2 100.0 1 3 4 1 0 0 2 4 0
+p876
+aVWillie Green NOH 10/27/2010 NOH vs. MIL W 12 4 1 4 25.0 0 1 0.0 2 4 50.0 0 4 4 0 0 0 0 1 2
+p877
+aVEmeka Okafor NOH 10/27/2010 NOH vs. MIL W 26 0 0 0 - 0 0 - 0 0 - 1 8 9 0 0 0 1 4 1
+p878
+aVDJ Mbenga NOH 10/27/2010 NOH vs. MIL W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 1
+p879
+aVPops Mensah-Bonsu NOH 10/27/2010 NOH vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -8
+p880
+aVJerryd Bayless NOH 10/27/2010 NOH vs. MIL W 8 3 1 3 33.3 0 1 0.0 1 1 100.0 1 1 2 0 0 0 2 0 -5
+p881
+aVChris Paul NOH 10/27/2010 NOH vs. MIL W 37 17 6 11 54.5 1 2 50.0 4 6 66.7 1 3 4 16 0 0 1 3 11
+p882
+aVTrevor Ariza NOH 10/27/2010 NOH vs. MIL W 41 11 4 13 30.8 1 6 16.7 2 2 100.0 0 5 5 3 4 0 2 3 6
+p883
+a.

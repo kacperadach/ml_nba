@@ -1,0 +1,1708 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMike Scott ATL 04/17/2013 ATL @ NYK L 36 23 10 22 45.5 0 0 - 3 3 100.0 5 9 14 1 0 0 0 3 -17
+p2
+aVJohn Jenkins ATL 04/17/2013 ATL @ NYK L 39 20 8 19 42.1 0 6 0.0 4 5 80.0 0 3 3 3 1 0 2 0 -3
+p3
+aVAnthony Tolliver ATL 04/17/2013 ATL @ NYK L 33 8 2 9 22.2 2 6 33.3 2 2 100.0 3 1 4 0 0 1 1 2 4
+p4
+aVJohan Petro ATL 04/17/2013 ATL @ NYK L 20 2 1 3 33.3 0 0 - 0 0 - 0 11 11 2 1 1 2 4 4
+p5
+aVShelvin Mack ATL 04/17/2013 ATL @ NYK L 35 14 6 11 54.5 0 3 0.0 2 2 100.0 0 4 4 4 2 0 4 2 -8
+p6
+aVDahntay Jones ATL 04/17/2013 ATL @ NYK L 32 11 3 9 33.3 0 0 - 5 5 100.0 3 3 6 2 0 0 1 2 2
+p7
+aVDeShawn Stevenson ATL 04/17/2013 ATL @ NYK L 24 2 1 11 9.1 0 6 0.0 0 0 - 1 2 3 1 1 0 0 0 -7
+p8
+aVIvan Johnson ATL 04/17/2013 ATL @ NYK L 20 12 6 6 100.0 0 0 - 0 0 - 3 5 8 1 2 0 2 2 -5
+p9
+aVAnthony Tolliver ATL 04/16/2013 ATL vs. TOR L 27 9 2 6 33.3 1 4 25.0 4 4 100.0 1 4 5 1 2 0 0 1 -7
+p10
+aVKyle Korver ATL 04/16/2013 ATL vs. TOR L 18 13 5 7 71.4 3 4 75.0 0 0 - 0 1 1 1 2 0 2 3 -12
+p11
+aVJohn Jenkins ATL 04/16/2013 ATL vs. TOR L 28 8 2 13 15.4 0 6 0.0 4 5 80.0 0 2 2 1 1 1 2 1 -6
+p12
+aVJohan Petro ATL 04/16/2013 ATL vs. TOR L 21 8 2 4 50.0 0 0 - 4 4 100.0 3 1 4 1 0 0 1 1 -13
+p13
+aVDevin Harris ATL 04/16/2013 ATL vs. TOR L 17 5 2 8 25.0 1 5 20.0 0 0 - 0 1 1 2 0 0 0 3 -3
+p14
+aVJosh Smith ATL 04/16/2013 ATL vs. TOR L 13 6 2 5 40.0 1 2 50.0 1 2 50.0 0 3 3 1 0 0 1 1 -9
+p15
+aVDahntay Jones ATL 04/16/2013 ATL vs. TOR L 25 8 3 6 50.0 1 2 50.0 1 2 50.0 0 1 1 1 1 0 0 4 -6
+p16
+aVShelvin Mack ATL 04/16/2013 ATL vs. TOR L 27 11 4 6 66.7 2 3 66.7 1 2 50.0 0 3 3 5 1 0 2 3 -5
+p17
+aVJeff Teague ATL 04/16/2013 ATL vs. TOR L 18 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 9 0 0 1 1 -10
+p18
+aVMike Scott ATL 04/16/2013 ATL vs. TOR L 27 12 5 15 33.3 0 0 - 2 4 50.0 6 6 12 0 0 0 1 1 -9
+p19
+aVIvan Johnson ATL 04/16/2013 ATL vs. TOR L 19 12 6 13 46.2 0 0 - 0 0 - 4 6 10 0 1 0 1 0 -5
+p20
+aVDevin Harris ATL 04/12/2013 ATL vs. MIL W 33 19 5 19 26.3 3 10 30.0 6 7 85.7 0 4 4 5 3 0 4 1 -2
+p21
+aVJohn Jenkins ATL 04/12/2013 ATL vs. MIL W 17 4 2 4 50.0 0 1 0.0 0 1 0.0 0 1 1 0 0 0 0 1 -1
+p22
+aVDeShawn Stevenson ATL 04/12/2013 ATL vs. MIL W 15 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 1 3
+p23
+aVJeff Teague ATL 04/12/2013 ATL vs. MIL W 40 24 10 15 66.7 0 1 0.0 4 5 80.0 1 2 3 10 1 0 5 3 8
+p24
+aVAl Horford ATL 04/12/2013 ATL vs. MIL W 43 18 8 17 47.1 0 0 - 2 2 100.0 6 11 17 6 1 0 3 2 8
+p25
+aVDahntay Jones ATL 04/12/2013 ATL vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 2
+p26
+aVKyle Korver ATL 04/12/2013 ATL vs. MIL W 25 8 2 5 40.0 2 5 40.0 2 3 66.7 0 5 5 1 2 1 1 2 1
+p27
+aVJosh Smith ATL 04/12/2013 ATL vs. MIL W 38 24 11 17 64.7 0 2 0.0 2 4 50.0 1 5 6 3 4 2 0 0 -4
+p28
+aVShelvin Mack ATL 04/12/2013 ATL vs. MIL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p29
+aVIvan Johnson ATL 04/12/2013 ATL vs. MIL W 26 9 4 6 66.7 0 0 - 1 3 33.3 0 6 6 1 3 2 1 1 10
+p30
+aVIvan Johnson ATL 04/10/2013 ATL @ PHI W 18 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 1 0 0 3 14
+p31
+aVJeff Teague ATL 04/10/2013 ATL @ PHI W 31 13 6 13 46.2 1 3 33.3 0 0 - 0 2 2 11 0 0 0 0 18
+p32
+aVKyle Korver ATL 04/10/2013 ATL @ PHI W 18 6 2 4 50.0 1 3 33.3 1 1 100.0 0 2 2 1 1 1 1 2 6
+p33
+aVShelvin Mack ATL 04/10/2013 ATL @ PHI W 14 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 2 7
+p34
+aVMike Scott ATL 04/10/2013 ATL @ PHI W 18 17 6 10 60.0 0 0 - 5 5 100.0 3 5 8 0 0 0 0 1 10
+p35
+aVJohn Jenkins ATL 04/10/2013 ATL @ PHI W 33 21 8 13 61.5 3 4 75.0 2 2 100.0 0 0 0 6 1 0 1 0 13
+p36
+aVAnthony Tolliver ATL 04/10/2013 ATL @ PHI W 13 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 1 0
+p37
+aVDevin Harris ATL 04/10/2013 ATL @ PHI W 18 8 2 6 33.3 1 4 25.0 3 4 75.0 0 1 1 8 0 0 1 2 8
+p38
+aVJosh Smith ATL 04/10/2013 ATL @ PHI W 29 28 11 18 61.1 1 3 33.3 5 5 100.0 1 11 12 4 1 1 3 1 15
+p39
+aVAl Horford ATL 04/10/2013 ATL @ PHI W 26 16 8 13 61.5 0 0 - 0 0 - 4 5 9 3 2 0 2 2 9
+p40
+aVDeShawn Stevenson ATL 04/10/2013 ATL @ PHI W 17 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 1 0 1 2 17
+p41
+aVDahntay Jones ATL 04/10/2013 ATL @ PHI W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p42
+aVAnthony Tolliver ATL 04/06/2013 ATL @ SAS L 25 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 4 -2
+p43
+aVIvan Johnson ATL 04/06/2013 ATL @ SAS L 29 14 6 13 46.2 0 1 0.0 2 2 100.0 2 3 5 0 3 1 2 4 -3
+p44
+aVJeff Teague ATL 04/06/2013 ATL @ SAS L 23 6 3 11 27.3 0 1 0.0 0 0 - 1 2 3 6 2 0 0 1 -12
+p45
+aVShelvin Mack ATL 04/06/2013 ATL @ SAS L 25 12 4 10 40.0 2 4 50.0 2 2 100.0 0 1 1 8 1 0 1 3 10
+p46
+aVJohn Jenkins ATL 04/06/2013 ATL @ SAS L 28 23 7 9 77.8 3 3 100.0 6 6 100.0 1 3 4 4 0 0 3 0 4
+p47
+aVMike Scott ATL 04/06/2013 ATL @ SAS L 36 22 8 15 53.3 0 1 0.0 6 8 75.0 1 5 6 2 0 0 3 4 0
+p48
+aVJohan Petro ATL 04/06/2013 ATL @ SAS L 31 11 5 12 41.7 0 0 - 1 1 100.0 4 11 15 1 1 1 1 3 -1
+p49
+aVDahntay Jones ATL 04/06/2013 ATL @ SAS L 43 9 2 10 20.0 0 1 0.0 5 6 83.3 0 3 3 2 3 0 2 4 -6
+p50
+aVKyle Korver ATL 04/05/2013 ATL vs. PHI L 31 11 3 7 42.9 1 4 25.0 4 5 80.0 0 4 4 1 2 0 2 2 -8
+p51
+aVJeff Teague ATL 04/05/2013 ATL vs. PHI L 31 12 4 13 30.8 2 6 33.3 2 2 100.0 1 0 1 9 1 0 2 4 -7
+p52
+aVShelvin Mack ATL 04/05/2013 ATL vs. PHI L 17 6 3 5 60.0 0 1 0.0 0 2 0.0 0 1 1 2 0 0 0 3 -4
+p53
+aVJosh Smith ATL 04/05/2013 ATL vs. PHI L 35 19 8 13 61.5 2 3 66.7 1 4 25.0 0 6 6 4 0 2 2 3 -20
+p54
+aVDeShawn Stevenson ATL 04/05/2013 ATL vs. PHI L 22 2 1 2 50.0 0 0 - 0 0 - 1 1 2 3 0 0 1 2 -13
+p55
+aVMike Scott ATL 04/05/2013 ATL vs. PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p56
+aVDahntay Jones ATL 04/05/2013 ATL vs. PHI L 17 5 1 2 50.0 0 1 0.0 3 4 75.0 0 2 2 0 1 0 0 3 -3
+p57
+aVAnthony Tolliver ATL 04/05/2013 ATL vs. PHI L 20 0 0 2 0.0 0 2 0.0 0 0 - 0 7 7 1 0 0 0 0 6
+p58
+aVIvan Johnson ATL 04/05/2013 ATL vs. PHI L 26 17 6 10 60.0 0 0 - 5 8 62.5 0 8 8 0 0 0 0 2 2
+p59
+aVAl Horford ATL 04/05/2013 ATL vs. PHI L 39 18 8 19 42.1 0 0 - 2 2 100.0 4 6 10 3 1 2 5 0 -13
+p60
+aVKyle Korver ATL 04/03/2013 ATL vs. NYK L 39 25 9 14 64.3 6 10 60.0 1 1 100.0 0 6 6 0 1 2 0 1 2
+p61
+aVDeShawn Stevenson ATL 04/03/2013 ATL vs. NYK L 25 5 2 5 40.0 1 4 25.0 0 0 - 0 4 4 1 1 0 1 2 2
+p62
+aVJeff Teague ATL 04/03/2013 ATL vs. NYK L 39 15 5 10 50.0 0 3 0.0 5 6 83.3 1 3 4 9 2 0 6 0 -9
+p63
+aVAl Horford ATL 04/03/2013 ATL vs. NYK L 38 9 4 10 40.0 0 0 - 1 2 50.0 1 6 7 5 1 0 2 0 -17
+p64
+aVAnthony Tolliver ATL 04/03/2013 ATL vs. NYK L 12 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 0 0 0 2 1 -13
+p65
+aVIvan Johnson ATL 04/03/2013 ATL vs. NYK L 17 5 2 4 50.0 0 0 - 1 1 100.0 1 0 1 1 1 0 1 1 -4
+p66
+aVDahntay Jones ATL 04/03/2013 ATL vs. NYK L 11 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 3 -11
+p67
+aVJosh Smith ATL 04/03/2013 ATL vs. NYK L 38 10 5 13 38.5 0 3 0.0 0 7 0.0 2 6 8 5 1 0 2 0 -7
+p68
+aVShelvin Mack ATL 04/03/2013 ATL vs. NYK L 20 8 3 6 50.0 1 4 25.0 1 2 50.0 0 1 1 0 0 0 1 2 -8
+p69
+aVKyle Korver ATL 04/01/2013 ATL vs. CLE W 33 9 3 8 37.5 3 7 42.9 0 0 - 0 2 2 0 0 1 2 2 12
+p70
+aVJosh Smith ATL 04/01/2013 ATL vs. CLE W 38 18 7 14 50.0 0 1 0.0 4 8 50.0 5 9 14 8 1 1 4 2 7
+p71
+aVDeShawn Stevenson ATL 04/01/2013 ATL vs. CLE W 15 3 1 5 20.0 1 5 20.0 0 0 - 1 1 2 1 2 0 0 0 -6
+p72
+aVAl Horford ATL 04/01/2013 ATL vs. CLE W 29 16 8 13 61.5 0 0 - 0 0 - 1 5 6 1 0 1 0 6 9
+p73
+aVAnthony Tolliver ATL 04/01/2013 ATL vs. CLE W 15 3 0 2 0.0 0 2 0.0 3 3 100.0 1 0 1 0 0 0 0 0 -2
+p74
+aVJeff Teague ATL 04/01/2013 ATL vs. CLE W 38 19 6 15 40.0 4 7 57.1 3 4 75.0 0 3 3 9 2 0 2 4 6
+p75
+aVShelvin Mack ATL 04/01/2013 ATL vs. CLE W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -2
+p76
+aVIvan Johnson ATL 04/01/2013 ATL vs. CLE W 19 7 3 5 60.0 0 0 - 1 3 33.3 1 4 5 0 0 0 0 0 -2
+p77
+aVDevin Harris ATL 04/01/2013 ATL vs. CLE W 43 25 8 17 47.1 1 7 14.3 8 8 100.0 1 2 3 7 3 0 2 3 18
+p78
+aVDevin Harris ATL 03/30/2013 ATL vs. ORL W 34 17 5 7 71.4 2 3 66.7 5 9 55.6 0 4 4 6 1 0 2 0 14
+p79
+aVJohan Petro ATL 03/30/2013 ATL vs. ORL W 18 6 3 7 42.9 0 0 - 0 0 - 4 3 7 2 0 1 1 4 -7
+p80
+aVIvan Johnson ATL 03/30/2013 ATL vs. ORL W 34 21 7 14 50.0 0 0 - 7 8 87.5 3 7 10 1 3 1 1 3 10
+p81
+aVMike Scott ATL 03/30/2013 ATL vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p82
+aVKyle Korver ATL 03/30/2013 ATL vs. ORL W 18 8 3 7 42.9 1 3 33.3 1 1 100.0 0 6 6 2 0 0 1 4 9
+p83
+aVJosh Smith ATL 03/30/2013 ATL vs. ORL W 40 21 7 14 50.0 0 2 0.0 7 9 77.8 2 7 9 2 2 3 4 3 7
+p84
+aVAnthony Tolliver ATL 03/30/2013 ATL vs. ORL W 29 8 3 8 37.5 1 5 20.0 1 1 100.0 0 3 3 0 1 0 1 2 10
+p85
+aVShelvin Mack ATL 03/30/2013 ATL vs. ORL W 21 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 2 0 0 3 2 10
+p86
+aVJeff Teague ATL 03/30/2013 ATL vs. ORL W 32 7 3 14 21.4 0 4 0.0 1 1 100.0 0 1 1 3 2 1 2 3 3
+p87
+aVDahntay Jones ATL 03/30/2013 ATL vs. ORL W 13 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 2 -6
+p88
+aVJohan Petro ATL 03/29/2013 ATL @ BOS L 12 4 2 3 66.7 0 0 - 0 0 - 3 4 7 0 0 1 1 0 -1
+p89
+aVShelvin Mack ATL 03/29/2013 ATL @ BOS L 27 12 5 9 55.6 1 2 50.0 1 2 50.0 0 3 3 9 1 0 2 2 -4
+p90
+aVKyle Korver ATL 03/29/2013 ATL @ BOS L 27 7 3 6 50.0 1 3 33.3 0 0 - 0 3 3 3 1 0 1 1 -1
+p91
+aVMike Scott ATL 03/29/2013 ATL @ BOS L 23 19 6 10 60.0 0 0 - 7 8 87.5 1 2 3 0 0 0 0 0 -3
+p92
+aVDahntay Jones ATL 03/29/2013 ATL @ BOS L 16 6 3 7 42.9 0 0 - 0 0 - 1 0 1 2 1 0 0 2 3
+p93
+aVDeShawn Stevenson ATL 03/29/2013 ATL @ BOS L 24 3 1 6 16.7 1 3 33.3 0 0 - 2 0 2 0 0 0 0 1 -20
+p94
+aVJeff Teague ATL 03/29/2013 ATL @ BOS L 26 17 7 13 53.8 0 0 - 3 4 75.0 0 2 2 7 2 0 1 2 -13
+p95
+aVAnthony Tolliver ATL 03/29/2013 ATL @ BOS L 28 14 4 7 57.1 4 7 57.1 2 2 100.0 1 6 7 2 0 0 2 1 -2
+p96
+aVJosh Smith ATL 03/29/2013 ATL @ BOS L 31 18 7 23 30.4 1 5 20.0 3 4 75.0 1 5 6 4 0 1 4 3 -9
+p97
+aVJohn Jenkins ATL 03/29/2013 ATL @ BOS L 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 5
+p98
+aVIvan Johnson ATL 03/29/2013 ATL @ BOS L 21 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 1 1 0 2 3 -10
+p99
+aVAnthony Tolliver ATL 03/27/2013 ATL @ TOR W 26 7 2 4 50.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 0 3 12
+p100
+aVJosh Smith ATL 03/27/2013 ATL @ TOR W 31 19 7 16 43.8 2 2 100.0 3 5 60.0 3 0 3 1 3 0 2 3 -1
+p101
+aVDeShawn Stevenson ATL 03/27/2013 ATL @ TOR W 21 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 1 22
+p102
+aVJohan Petro ATL 03/27/2013 ATL @ TOR W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 1 1 0 0 1 5
+p103
+aVJeff Teague ATL 03/27/2013 ATL @ TOR W 35 24 9 15 60.0 3 4 75.0 3 3 100.0 0 4 4 13 1 0 1 2 17
+p104
+aVMike Scott ATL 03/27/2013 ATL @ TOR W 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p105
+aVIvan Johnson ATL 03/27/2013 ATL @ TOR W 34 9 4 5 80.0 0 1 0.0 1 2 50.0 4 2 6 4 1 0 0 4 30
+p106
+aVAl Horford ATL 03/27/2013 ATL @ TOR W 36 26 10 18 55.6 0 0 - 6 6 100.0 1 11 12 1 1 0 1 2 15
+p107
+aVDahntay Jones ATL 03/27/2013 ATL @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p108
+aVShelvin Mack ATL 03/27/2013 ATL @ TOR W 13 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 3 1 0 3 2 2
+p109
+aVKyle Korver ATL 03/27/2013 ATL @ TOR W 23 8 3 9 33.3 2 6 33.3 0 0 - 0 3 3 1 2 0 2 2 -4
+p110
+aVJohn Jenkins ATL 03/27/2013 ATL @ TOR W 11 9 4 4 100.0 1 1 100.0 0 0 - 0 3 3 2 0 0 1 0 -2
+p111
+aVMike Scott ATL 03/25/2013 ATL @ IND L 12 5 2 2 100.0 0 0 - 1 2 50.0 2 3 5 0 0 1 0 0 16
+p112
+aVAnthony Tolliver ATL 03/25/2013 ATL @ IND L 23 6 2 5 40.0 1 3 33.3 1 2 50.0 0 1 1 0 0 0 1 2 -9
+p113
+aVKyle Korver ATL 03/25/2013 ATL @ IND L 24 7 2 6 33.3 2 4 50.0 1 1 100.0 0 6 6 2 0 1 1 2 -11
+p114
+aVJeff Teague ATL 03/25/2013 ATL @ IND L 29 10 3 10 30.0 1 4 25.0 3 4 75.0 0 1 1 1 0 1 3 1 -18
+p115
+aVJosh Smith ATL 03/25/2013 ATL @ IND L 29 20 7 10 70.0 0 1 0.0 6 12 50.0 1 2 3 4 4 2 2 0 -12
+p116
+aVDahntay Jones ATL 03/25/2013 ATL @ IND L 12 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 2 2 -11
+p117
+aVDeShawn Stevenson ATL 03/25/2013 ATL @ IND L 12 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 1 16
+p118
+aVShelvin Mack ATL 03/25/2013 ATL @ IND L 19 10 4 9 44.4 2 4 50.0 0 0 - 0 2 2 4 1 0 0 0 12
+p119
+aVJohn Jenkins ATL 03/25/2013 ATL @ IND L 12 8 3 4 75.0 0 1 0.0 2 2 100.0 1 2 3 2 0 0 1 1 16
+p120
+aVIvan Johnson ATL 03/25/2013 ATL @ IND L 17 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 4 1 4 5 14
+p121
+aVJohan Petro ATL 03/25/2013 ATL @ IND L 17 0 0 4 0.0 0 0 - 0 1 0.0 4 1 5 0 0 0 1 2 -19
+p122
+aVAl Horford ATL 03/25/2013 ATL @ IND L 33 13 6 15 40.0 0 0 - 1 1 100.0 2 6 8 2 1 1 1 1 -24
+p123
+aVJohan Petro ATL 03/24/2013 ATL @ MIL W 19 3 1 2 50.0 0 0 - 1 1 100.0 1 4 5 1 0 0 4 2 10
+p124
+aVAl Horford ATL 03/24/2013 ATL @ MIL W 41 24 10 16 62.5 0 0 - 4 4 100.0 0 7 7 6 2 0 0 2 1
+p125
+aVShelvin Mack ATL 03/24/2013 ATL @ MIL W 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 0 4
+p126
+aVJohn Jenkins ATL 03/24/2013 ATL @ MIL W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p127
+aVAnthony Tolliver ATL 03/24/2013 ATL @ MIL W 15 5 2 2 100.0 1 1 100.0 0 0 - 2 3 5 0 1 0 0 1 8
+p128
+aVKyle Korver ATL 03/24/2013 ATL @ MIL W 33 9 3 7 42.9 3 7 42.9 0 0 - 1 4 5 3 1 0 2 2 -6
+p129
+aVJeff Teague ATL 03/24/2013 ATL @ MIL W 36 14 5 13 38.5 0 4 0.0 4 4 100.0 0 0 0 8 2 1 5 3 -2
+p130
+aVJosh Smith ATL 03/24/2013 ATL @ MIL W 36 23 9 17 52.9 1 5 20.0 4 5 80.0 1 8 9 4 2 2 0 0 -1
+p131
+aVDevin Harris ATL 03/24/2013 ATL @ MIL W 29 16 5 12 41.7 4 7 57.1 2 2 100.0 1 2 3 4 1 1 2 1 -2
+p132
+aVDahntay Jones ATL 03/24/2013 ATL @ MIL W 18 8 3 4 75.0 1 1 100.0 1 5 20.0 1 1 2 0 0 0 0 1 10
+p133
+aVDahntay Jones ATL 03/22/2013 ATL vs. POR L 16 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -2
+p134
+aVJeff Teague ATL 03/22/2013 ATL vs. POR L 34 21 8 11 72.7 1 2 50.0 4 4 100.0 0 2 2 7 2 0 4 1 -10
+p135
+aVDeShawn Stevenson ATL 03/22/2013 ATL vs. POR L 29 3 1 5 20.0 1 5 20.0 0 0 - 0 1 1 0 1 0 0 1 -7
+p136
+aVIvan Johnson ATL 03/22/2013 ATL vs. POR L 14 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 0 1 2 1 -3
+p137
+aVJosh Smith ATL 03/22/2013 ATL vs. POR L 39 24 9 21 42.9 0 4 0.0 6 10 60.0 2 8 10 4 0 2 1 3 -6
+p138
+aVDevin Harris ATL 03/22/2013 ATL vs. POR L 14 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 5 1 0 1 0 -3
+p139
+aVAl Horford ATL 03/22/2013 ATL vs. POR L 43 15 7 18 38.9 0 1 0.0 1 1 100.0 3 14 17 5 2 3 2 3 -13
+p140
+aVKyle Korver ATL 03/22/2013 ATL vs. POR L 32 6 2 7 28.6 1 3 33.3 1 1 100.0 0 3 3 3 1 0 0 3 -9
+p141
+aVJohn Jenkins ATL 03/22/2013 ATL vs. POR L 19 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 1 1 0 1 0 -2
+p142
+aVAl Horford ATL 03/20/2013 ATL vs. MIL W 43 26 11 20 55.0 0 0 - 4 4 100.0 3 12 15 1 2 2 3 2 7
+p143
+aVKyle Korver ATL 03/20/2013 ATL vs. MIL W 35 9 3 8 37.5 3 6 50.0 0 0 - 0 7 7 2 0 1 1 2 15
+p144
+aVDahntay Jones ATL 03/20/2013 ATL vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p145
+aVDeShawn Stevenson ATL 03/20/2013 ATL vs. MIL W 6 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -4
+p146
+aVJohn Jenkins ATL 03/20/2013 ATL vs. MIL W 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -10
+p147
+aVIvan Johnson ATL 03/20/2013 ATL vs. MIL W 11 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 1 0 1 1 -7
+p148
+aVDevin Harris ATL 03/20/2013 ATL vs. MIL W 39 15 4 9 44.4 1 4 25.0 6 7 85.7 0 1 1 6 2 0 1 1 13
+p149
+aVJosh Smith ATL 03/20/2013 ATL vs. MIL W 42 12 5 14 35.7 0 1 0.0 2 2 100.0 3 13 16 6 1 1 6 2 14
+p150
+aVJeff Teague ATL 03/20/2013 ATL vs. MIL W 45 27 11 19 57.9 4 5 80.0 1 2 50.0 0 1 1 11 1 1 4 3 13
+p151
+aVAnthony Tolliver ATL 03/20/2013 ATL vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p152
+aVJeff Teague ATL 03/18/2013 ATL vs. DAL L 32 19 7 13 53.8 0 3 0.0 5 7 71.4 1 1 2 7 2 0 3 1 -5
+p153
+aVJosh Smith ATL 03/18/2013 ATL vs. DAL L 31 13 5 11 45.5 0 4 0.0 3 4 75.0 2 3 5 6 1 1 4 3 -10
+p154
+aVKyle Korver ATL 03/18/2013 ATL vs. DAL L 27 11 4 7 57.1 2 5 40.0 1 1 100.0 0 2 2 1 0 0 1 0 -3
+p155
+aVAnthony Tolliver ATL 03/18/2013 ATL vs. DAL L 25 12 4 4 100.0 2 2 100.0 2 2 100.0 0 3 3 0 0 0 1 2 -16
+p156
+aVAl Horford ATL 03/18/2013 ATL vs. DAL L 36 16 7 14 50.0 0 0 - 2 4 50.0 1 10 11 4 2 0 2 1 -13
+p157
+aVShelvin Mack ATL 03/18/2013 ATL vs. DAL L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 2 4
+p158
+aVIvan Johnson ATL 03/18/2013 ATL vs. DAL L 16 10 3 5 60.0 0 0 - 4 5 80.0 1 0 1 2 0 0 1 3 -11
+p159
+aVMike Scott ATL 03/18/2013 ATL vs. DAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p160
+aVDahntay Jones ATL 03/18/2013 ATL vs. DAL L 12 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 1 -6
+p161
+aVDevin Harris ATL 03/18/2013 ATL vs. DAL L 23 10 4 7 57.1 1 3 33.3 1 2 50.0 0 1 1 2 1 1 1 1 -14
+p162
+aVJohn Jenkins ATL 03/18/2013 ATL vs. DAL L 27 10 3 7 42.9 2 3 66.7 2 2 100.0 0 3 3 2 0 0 0 0 0
+p163
+aVMike Scott ATL 03/17/2013 ATL @ BKN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p164
+aVJeff Teague ATL 03/17/2013 ATL @ BKN W 37 11 4 14 28.6 0 3 0.0 3 3 100.0 1 4 5 15 2 2 2 2 11
+p165
+aVDahntay Jones ATL 03/17/2013 ATL @ BKN W 24 13 6 7 85.7 0 0 - 1 1 100.0 2 0 2 0 1 0 0 3 7
+p166
+aVAnthony Tolliver ATL 03/17/2013 ATL @ BKN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p167
+aVDeShawn Stevenson ATL 03/17/2013 ATL @ BKN W 21 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 1 0 0 0 1 9
+p168
+aVJohn Jenkins ATL 03/17/2013 ATL @ BKN W 22 7 2 4 50.0 1 2 50.0 2 2 100.0 1 4 5 2 2 0 1 0 -10
+p169
+aVKyle Korver ATL 03/17/2013 ATL @ BKN W 27 12 5 7 71.4 2 4 50.0 0 0 - 0 2 2 1 2 1 1 2 22
+p170
+aVIvan Johnson ATL 03/17/2013 ATL @ BKN W 15 7 3 4 75.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 5 5
+p171
+aVJohan Petro ATL 03/17/2013 ATL @ BKN W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -9
+p172
+aVShelvin Mack ATL 03/17/2013 ATL @ BKN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p173
+aVDevin Harris ATL 03/17/2013 ATL @ BKN W 9 4 1 4 25.0 1 3 33.3 1 2 50.0 0 1 1 4 1 0 2 4 5
+p174
+aVJosh Smith ATL 03/17/2013 ATL @ BKN W 33 21 9 14 64.3 2 3 66.7 1 3 33.3 1 6 7 5 1 2 2 2 8
+p175
+aVAl Horford ATL 03/17/2013 ATL @ BKN W 42 22 11 21 52.4 0 0 - 0 1 0.0 3 8 11 2 4 0 0 1 24
+p176
+aVJohn Jenkins ATL 03/15/2013 ATL vs. PHX W 14 8 3 3 100.0 2 2 100.0 0 0 - 1 0 1 1 1 0 2 1 -3
+p177
+aVDevin Harris ATL 03/15/2013 ATL vs. PHX W 24 15 6 9 66.7 2 2 100.0 1 1 100.0 0 4 4 5 3 0 2 3 10
+p178
+aVKyle Korver ATL 03/15/2013 ATL vs. PHX W 30 16 6 9 66.7 4 5 80.0 0 0 - 0 2 2 2 0 0 1 2 9
+p179
+aVShelvin Mack ATL 03/15/2013 ATL vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p180
+aVAl Horford ATL 03/15/2013 ATL vs. PHX W 35 16 6 16 37.5 0 0 - 4 4 100.0 4 7 11 4 0 1 3 4 13
+p181
+aVJohan Petro ATL 03/15/2013 ATL vs. PHX W 9 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 2 0 1 1 2 -9
+p182
+aVJosh Smith ATL 03/15/2013 ATL vs. PHX W 36 17 8 14 57.1 0 2 0.0 1 1 100.0 1 10 11 7 3 1 3 2 15
+p183
+aVDeShawn Stevenson ATL 03/15/2013 ATL vs. PHX W 31 12 4 9 44.4 3 7 42.9 1 2 50.0 0 2 2 2 2 1 2 2 17
+p184
+aVJeff Teague ATL 03/15/2013 ATL vs. PHX W 23 8 2 10 20.0 0 4 0.0 4 4 100.0 0 1 1 4 2 0 4 1 5
+p185
+aVAnthony Tolliver ATL 03/15/2013 ATL vs. PHX W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 0 4
+p186
+aVDahntay Jones ATL 03/15/2013 ATL vs. PHX W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p187
+aVIvan Johnson ATL 03/15/2013 ATL vs. PHX W 16 7 3 5 60.0 0 0 - 1 2 50.0 2 4 6 0 2 0 2 2 10
+p188
+aVMike Scott ATL 03/15/2013 ATL vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p189
+aVDevin Harris ATL 03/13/2013 ATL vs. LAL W 34 17 6 15 40.0 1 6 16.7 4 8 50.0 0 3 3 7 0 0 2 1 11
+p190
+aVIvan Johnson ATL 03/13/2013 ATL vs. LAL W 29 12 4 7 57.1 0 0 - 4 4 100.0 1 7 8 1 0 0 0 3 5
+p191
+aVJohn Jenkins ATL 03/13/2013 ATL vs. LAL W 20 12 4 8 50.0 3 6 50.0 1 2 50.0 0 4 4 2 0 0 1 1 11
+p192
+aVDahntay Jones ATL 03/13/2013 ATL vs. LAL W 19 0 0 5 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -6
+p193
+aVKyle Korver ATL 03/13/2013 ATL vs. LAL W 34 15 5 10 50.0 2 4 50.0 3 4 75.0 0 6 6 2 0 2 0 1 5
+p194
+aVJohan Petro ATL 03/13/2013 ATL vs. LAL W 26 10 5 10 50.0 0 0 - 0 0 - 3 8 11 2 0 0 2 3 -10
+p195
+aVShelvin Mack ATL 03/13/2013 ATL vs. LAL W 14 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 2 -7
+p196
+aVAl Horford ATL 03/13/2013 ATL vs. LAL W 41 14 7 12 58.3 0 0 - 0 1 0.0 4 10 14 4 1 0 5 3 9
+p197
+aVAnthony Tolliver ATL 03/13/2013 ATL vs. LAL W 24 9 3 7 42.9 1 4 25.0 2 2 100.0 1 5 6 2 0 0 1 0 2
+p198
+aVDahntay Jones ATL 03/12/2013 ATL @ MIA L 20 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 3 0 3 4 7
+p199
+aVJohn Jenkins ATL 03/12/2013 ATL @ MIA L 19 6 3 9 33.3 0 3 0.0 0 0 - 1 1 2 1 2 0 3 1 -2
+p200
+aVAnthony Tolliver ATL 03/12/2013 ATL @ MIA L 25 0 0 2 0.0 0 2 0.0 0 0 - 1 4 5 1 1 0 2 2 -21
+p201
+aVShelvin Mack ATL 03/12/2013 ATL @ MIA L 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 3 3 1 1 0 2 1 5
+p202
+aVDevin Harris ATL 03/12/2013 ATL @ MIA L 19 7 3 6 50.0 1 4 25.0 0 0 - 0 2 2 4 1 0 2 2 -9
+p203
+aVAl Horford ATL 03/12/2013 ATL @ MIA L 32 12 6 13 46.2 0 0 - 0 0 - 0 6 6 0 0 0 1 1 -14
+p204
+aVDeShawn Stevenson ATL 03/12/2013 ATL @ MIA L 24 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 1 0 0 0 3 -8
+p205
+aVMike Scott ATL 03/12/2013 ATL @ MIA L 9 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 1 0 0 0 0 3
+p206
+aVIvan Johnson ATL 03/12/2013 ATL @ MIA L 16 9 2 6 33.3 0 0 - 5 6 83.3 4 2 6 1 1 0 2 5 -11
+p207
+aVJosh Smith ATL 03/12/2013 ATL @ MIA L 24 15 7 16 43.8 0 2 0.0 1 2 50.0 0 6 6 2 1 1 3 2 -12
+p208
+aVKyle Korver ATL 03/12/2013 ATL @ MIA L 19 3 1 5 20.0 1 4 25.0 0 0 - 1 3 4 1 0 0 2 3 -3
+p209
+aVJeff Teague ATL 03/12/2013 ATL @ MIA L 24 12 4 9 44.4 2 4 50.0 2 2 100.0 1 2 3 4 1 0 2 1 -20
+p210
+aVAl Horford ATL 03/09/2013 ATL vs. BKN L 32 15 7 14 50.0 0 0 - 1 2 50.0 7 5 12 1 1 0 3 2 -3
+p211
+aVDevin Harris ATL 03/09/2013 ATL vs. BKN L 26 6 2 5 40.0 0 2 0.0 2 4 50.0 0 2 2 9 0 0 0 4 -6
+p212
+aVJohn Jenkins ATL 03/09/2013 ATL vs. BKN L 19 10 3 7 42.9 2 4 50.0 2 2 100.0 0 3 3 2 0 1 0 0 1
+p213
+aVJeff Teague ATL 03/09/2013 ATL vs. BKN L 23 7 2 9 22.2 1 2 50.0 2 2 100.0 0 3 3 0 0 0 2 1 -11
+p214
+aVAnthony Tolliver ATL 03/09/2013 ATL vs. BKN L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -16
+p215
+aVShelvin Mack ATL 03/09/2013 ATL vs. BKN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 4
+p216
+aVIvan Johnson ATL 03/09/2013 ATL vs. BKN L 19 9 4 9 44.4 0 0 - 1 2 50.0 2 5 7 1 1 1 1 3 -3
+p217
+aVDeShawn Stevenson ATL 03/09/2013 ATL vs. BKN L 13 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -13
+p218
+aVMike Scott ATL 03/09/2013 ATL vs. BKN L 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p219
+aVDahntay Jones ATL 03/09/2013 ATL vs. BKN L 10 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 1 8
+p220
+aVJohan Petro ATL 03/09/2013 ATL vs. BKN L 14 10 5 6 83.3 0 0 - 0 0 - 2 4 6 0 0 0 1 1 -5
+p221
+aVKyle Korver ATL 03/09/2013 ATL vs. BKN L 26 7 3 7 42.9 1 4 25.0 0 0 - 0 0 0 4 0 0 2 2 -14
+p222
+aVJosh Smith ATL 03/09/2013 ATL vs. BKN L 31 12 5 12 41.7 1 3 33.3 1 2 50.0 1 5 6 2 1 0 4 2 -10
+p223
+aVDevin Harris ATL 03/08/2013 ATL @ BOS L 28 12 5 10 50.0 1 5 20.0 1 2 50.0 0 1 1 1 0 0 2 1 -2
+p224
+aVJosh Smith ATL 03/08/2013 ATL @ BOS L 46 32 13 27 48.1 3 9 33.3 3 4 75.0 1 7 8 8 0 1 5 2 5
+p225
+aVJohn Jenkins ATL 03/08/2013 ATL @ BOS L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p226
+aVDahntay Jones ATL 03/08/2013 ATL @ BOS L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -2
+p227
+aVJeff Teague ATL 03/08/2013 ATL @ BOS L 44 26 10 20 50.0 3 5 60.0 3 3 100.0 1 2 3 9 2 0 3 3 -1
+p228
+aVAl Horford ATL 03/08/2013 ATL @ BOS L 47 22 9 16 56.3 0 0 - 4 6 66.7 5 8 13 5 1 2 1 1 -7
+p229
+aVAnthony Tolliver ATL 03/08/2013 ATL @ BOS L 34 5 1 7 14.3 1 4 25.0 2 2 100.0 1 5 6 5 2 0 2 3 2
+p230
+aVKyle Korver ATL 03/08/2013 ATL @ BOS L 38 3 1 5 20.0 1 4 25.0 0 0 - 0 4 4 2 1 0 0 3 -12
+p231
+aVJohan Petro ATL 03/08/2013 ATL @ BOS L 17 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 0 0 3 -5
+p232
+aVAl Horford ATL 03/06/2013 ATL vs. PHI W 41 21 10 17 58.8 0 0 - 1 2 50.0 1 11 12 6 1 1 3 1 10
+p233
+aVDeShawn Stevenson ATL 03/06/2013 ATL vs. PHI W 24 3 1 4 25.0 1 4 25.0 0 0 - 0 3 3 3 1 0 0 1 -9
+p234
+aVAnthony Tolliver ATL 03/06/2013 ATL vs. PHI W 27 21 7 10 70.0 5 7 71.4 2 2 100.0 4 4 8 1 0 2 2 2 17
+p235
+aVShelvin Mack ATL 03/06/2013 ATL vs. PHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p236
+aVMike Scott ATL 03/06/2013 ATL vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p237
+aVJohn Jenkins ATL 03/06/2013 ATL vs. PHI W 14 7 2 5 40.0 1 3 33.3 2 2 100.0 0 1 1 0 0 0 0 1 5
+p238
+aVKyle Korver ATL 03/06/2013 ATL vs. PHI W 33 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 2 1 0 0 3 19
+p239
+aVDevin Harris ATL 03/06/2013 ATL vs. PHI W 27 6 3 8 37.5 0 2 0.0 0 1 0.0 1 3 4 2 1 0 1 3 -14
+p240
+aVJeff Teague ATL 03/06/2013 ATL vs. PHI W 39 27 10 15 66.7 3 5 60.0 4 4 100.0 0 2 2 11 1 1 4 3 17
+p241
+aVJosh Smith ATL 03/06/2013 ATL vs. PHI W 30 13 6 13 46.2 0 0 - 1 6 16.7 1 5 6 2 0 1 4 2 9
+p242
+aVDahntay Jones ATL 03/06/2013 ATL vs. PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p243
+aVAnthony Tolliver ATL 03/04/2013 ATL @ DEN L 36 9 3 7 42.9 3 6 50.0 0 0 - 0 2 2 0 0 1 0 3 -8
+p244
+aVJohan Petro ATL 03/04/2013 ATL @ DEN L 9 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -1
+p245
+aVIvan Johnson ATL 03/04/2013 ATL @ DEN L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -11
+p246
+aVDevin Harris ATL 03/04/2013 ATL @ DEN L 21 11 4 10 40.0 1 6 16.7 2 2 100.0 0 2 2 2 0 2 2 2 -6
+p247
+aVJeremy Tyler ATL 03/04/2013 ATL @ DEN L 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -6
+p248
+aVDahntay Jones ATL 03/04/2013 ATL @ DEN L 35 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 3 0 0 1 2 -9
+p249
+aVJohn Jenkins ATL 03/04/2013 ATL @ DEN L 24 12 4 12 33.3 1 6 16.7 3 3 100.0 2 0 2 0 0 1 2 0 -22
+p250
+aVAl Horford ATL 03/04/2013 ATL @ DEN L 34 18 9 16 56.3 0 0 - 0 2 0.0 5 8 13 4 1 2 2 0 -9
+p251
+aVJeff Teague ATL 03/04/2013 ATL @ DEN L 31 15 6 17 35.3 0 2 0.0 3 3 100.0 0 4 4 8 2 0 3 2 -7
+p252
+aVJosh Smith ATL 03/04/2013 ATL @ DEN L 32 15 6 17 35.3 2 3 66.7 1 1 100.0 1 4 5 3 1 2 2 1 -1
+p253
+aVIvan Johnson ATL 03/03/2013 ATL @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p254
+aVDevin Harris ATL 03/03/2013 ATL @ LAL L 24 16 5 9 55.6 3 6 50.0 3 3 100.0 0 3 3 6 3 0 0 1 24
+p255
+aVJeff Teague ATL 03/03/2013 ATL @ LAL L 25 8 3 13 23.1 0 2 0.0 2 2 100.0 0 0 0 5 0 0 2 2 -25
+p256
+aVKyle Korver ATL 03/03/2013 ATL @ LAL L 35 16 6 13 46.2 2 6 33.3 2 2 100.0 0 5 5 4 0 2 0 3 19
+p257
+aVAl Horford ATL 03/03/2013 ATL @ LAL L 40 24 12 20 60.0 0 0 - 0 0 - 1 4 5 3 3 0 5 2 -3
+p258
+aVZaza Pachulia ATL 03/03/2013 ATL @ LAL L 20 2 1 1 100.0 0 0 - 0 0 - 1 1 2 4 0 1 0 4 -11
+p259
+aVJosh Smith ATL 03/03/2013 ATL @ LAL L 36 19 9 16 56.3 1 4 25.0 0 6 0.0 1 6 7 7 1 3 6 4 -9
+p260
+aVDahntay Jones ATL 03/03/2013 ATL @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p261
+aVDeShawn Stevenson ATL 03/03/2013 ATL @ LAL L 19 4 1 3 33.3 1 3 33.3 1 2 50.0 0 4 4 2 2 0 0 1 -14
+p262
+aVJohan Petro ATL 03/03/2013 ATL @ LAL L 24 6 3 5 60.0 0 0 - 0 0 - 0 8 8 1 4 2 1 1 12
+p263
+aVAnthony Tolliver ATL 03/03/2013 ATL @ LAL L 14 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 4
+p264
+aVJohn Jenkins ATL 03/01/2013 ATL @ PHX L 10 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 0 -4
+p265
+aVDahntay Jones ATL 03/01/2013 ATL @ PHX L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p266
+aVKyle Korver ATL 03/01/2013 ATL @ PHX L 36 17 6 10 60.0 3 6 50.0 2 2 100.0 1 7 8 2 1 2 0 1 -8
+p267
+aVAl Horford ATL 03/01/2013 ATL @ PHX L 38 20 8 16 50.0 2 2 100.0 2 3 66.7 3 4 7 4 3 2 2 5 0
+p268
+aVZaza Pachulia ATL 03/01/2013 ATL @ PHX L 25 8 2 2 100.0 0 0 - 4 4 100.0 2 6 8 2 2 0 2 2 -3
+p269
+aVJosh Smith ATL 03/01/2013 ATL @ PHX L 39 5 2 11 18.2 0 5 0.0 1 4 25.0 1 9 10 5 0 1 5 3 -4
+p270
+aVIvan Johnson ATL 03/01/2013 ATL @ PHX L 3 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p271
+aVAnthony Tolliver ATL 03/01/2013 ATL @ PHX L 21 11 3 5 60.0 2 4 50.0 3 3 100.0 0 4 4 1 0 0 0 1 8
+p272
+aVJeff Teague ATL 03/01/2013 ATL @ PHX L 21 6 3 10 30.0 0 2 0.0 0 0 - 0 0 0 1 2 1 4 2 -10
+p273
+aVDevin Harris ATL 03/01/2013 ATL @ PHX L 27 12 4 9 44.4 0 2 0.0 4 4 100.0 0 1 1 6 1 0 5 2 5
+p274
+aVDeShawn Stevenson ATL 03/01/2013 ATL @ PHX L 12 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 2 1 -4
+p275
+aVJosh Smith ATL 02/27/2013 ATL @ UTA W 42 24 9 19 47.4 1 4 25.0 5 7 71.4 3 11 14 7 1 0 0 3 19
+p276
+aVJeff Teague ATL 02/27/2013 ATL @ UTA W 38 19 7 14 50.0 1 4 25.0 4 5 80.0 0 2 2 7 3 0 3 2 18
+p277
+aVKyle Korver ATL 02/27/2013 ATL @ UTA W 37 4 1 4 25.0 1 2 50.0 1 1 100.0 0 2 2 2 0 0 0 2 17
+p278
+aVDevin Harris ATL 02/27/2013 ATL @ UTA W 32 12 4 9 44.4 2 4 50.0 2 3 66.7 0 2 2 2 3 0 2 2 10
+p279
+aVDeShawn Stevenson ATL 02/27/2013 ATL @ UTA W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p280
+aVZaza Pachulia ATL 02/27/2013 ATL @ UTA W 12 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 0 3 -8
+p281
+aVJohn Jenkins ATL 02/27/2013 ATL @ UTA W 14 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -8
+p282
+aVIvan Johnson ATL 02/27/2013 ATL @ UTA W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p283
+aVAl Horford ATL 02/27/2013 ATL @ UTA W 43 34 14 22 63.6 0 0 - 6 6 100.0 4 11 15 3 1 5 4 4 11
+p284
+aVDevin Harris ATL 02/25/2013 ATL @ DET W 13 11 3 6 50.0 3 5 60.0 2 3 66.7 0 1 1 3 1 0 1 2 7
+p285
+aVAl Horford ATL 02/25/2013 ATL @ DET W 40 23 10 13 76.9 1 1 100.0 2 3 66.7 7 15 22 3 2 2 5 3 13
+p286
+aVMike Scott ATL 02/25/2013 ATL @ DET W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p287
+aVDahntay Jones ATL 02/25/2013 ATL @ DET W 19 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 1 1 1 1 -2
+p288
+aVIvan Johnson ATL 02/25/2013 ATL @ DET W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 9
+p289
+aVJeff Teague ATL 02/25/2013 ATL @ DET W 33 20 6 13 46.2 2 4 50.0 6 6 100.0 0 2 2 12 2 0 1 2 9
+p290
+aVJohn Jenkins ATL 02/25/2013 ATL @ DET W 17 6 1 5 20.0 0 4 0.0 4 4 100.0 0 2 2 2 0 0 2 0 -5
+p291
+aVJohan Petro ATL 02/25/2013 ATL @ DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p292
+aVAnthony Tolliver ATL 02/25/2013 ATL @ DET W 13 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -13
+p293
+aVDeShawn Stevenson ATL 02/25/2013 ATL @ DET W 27 7 2 4 50.0 1 3 33.3 2 2 100.0 0 1 1 2 1 0 0 1 15
+p294
+aVKyle Korver ATL 02/25/2013 ATL @ DET W 32 15 5 11 45.5 5 7 71.4 0 0 - 0 1 1 1 2 0 0 1 14
+p295
+aVJosh Smith ATL 02/25/2013 ATL @ DET W 36 23 9 17 52.9 1 4 25.0 4 6 66.7 1 6 7 4 1 1 3 4 18
+p296
+aVAl Horford ATL 02/23/2013 ATL @ MIL W 37 23 11 22 50.0 0 1 0.0 1 2 50.0 1 10 11 3 2 2 2 3 12
+p297
+aVJeff Teague ATL 02/23/2013 ATL @ MIL W 37 23 8 15 53.3 2 3 66.7 5 5 100.0 0 2 2 9 2 0 2 2 -6
+p298
+aVZaza Pachulia ATL 02/23/2013 ATL @ MIL W 20 3 1 5 20.0 0 0 - 1 2 50.0 8 3 11 2 1 0 0 4 -4
+p299
+aVJosh Smith ATL 02/23/2013 ATL @ MIL W 39 15 6 19 31.6 2 6 33.3 1 2 50.0 1 12 13 5 3 1 2 1 -6
+p300
+aVAnthony Tolliver ATL 02/23/2013 ATL @ MIL W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p301
+aVKyle Korver ATL 02/23/2013 ATL @ MIL W 33 6 2 10 20.0 2 7 28.6 0 0 - 0 2 2 3 1 1 3 1 0
+p302
+aVJohn Jenkins ATL 02/23/2013 ATL @ MIL W 19 9 3 7 42.9 3 4 75.0 0 0 - 0 0 0 1 0 0 1 3 1
+p303
+aVDevin Harris ATL 02/23/2013 ATL @ MIL W 39 21 7 11 63.6 4 5 80.0 3 3 100.0 0 1 1 4 1 0 1 0 18
+p304
+aVDahntay Jones ATL 02/23/2013 ATL @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p305
+aVZaza Pachulia ATL 02/22/2013 ATL vs. SAC W 14 4 2 6 33.3 0 0 - 0 0 - 3 4 7 0 1 0 1 5 -2
+p306
+aVDeShawn Stevenson ATL 02/22/2013 ATL vs. SAC W 34 17 5 6 83.3 5 6 83.3 2 2 100.0 0 2 2 1 1 0 1 1 16
+p307
+aVMike Scott ATL 02/22/2013 ATL vs. SAC W 2 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -3
+p308
+aVDevin Harris ATL 02/22/2013 ATL vs. SAC W 13 10 3 5 60.0 2 2 100.0 2 2 100.0 0 2 2 2 0 0 0 2 1
+p309
+aVIvan Johnson ATL 02/22/2013 ATL vs. SAC W 8 2 1 3 33.3 0 1 0.0 0 4 0.0 0 2 2 3 1 0 1 1 3
+p310
+aVDahntay Jones ATL 02/22/2013 ATL vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p311
+aVAl Horford ATL 02/22/2013 ATL vs. SAC W 34 24 11 14 78.6 0 0 - 2 4 50.0 0 8 8 6 0 2 0 4 21
+p312
+aVJohan Petro ATL 02/22/2013 ATL vs. SAC W 4 0 0 5 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 -6
+p313
+aVAnthony Tolliver ATL 02/22/2013 ATL vs. SAC W 18 7 3 6 50.0 1 3 33.3 0 0 - 1 1 2 1 0 3 0 2 9
+p314
+aVJeff Teague ATL 02/22/2013 ATL vs. SAC W 33 20 8 18 44.4 1 5 20.0 3 3 100.0 0 4 4 12 3 3 2 3 16
+p315
+aVJosh Smith ATL 02/22/2013 ATL vs. SAC W 36 18 8 12 66.7 0 1 0.0 2 2 100.0 1 5 6 4 0 1 1 3 14
+p316
+aVKyle Korver ATL 02/22/2013 ATL vs. SAC W 32 10 4 11 36.4 2 7 28.6 0 0 - 0 5 5 3 1 0 0 1 12
+p317
+aVJohn Jenkins ATL 02/22/2013 ATL vs. SAC W 10 6 2 3 66.7 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 1 -8
+p318
+aVJosh Smith ATL 02/20/2013 ATL vs. MIA L 38 10 5 13 38.5 0 4 0.0 0 0 - 2 7 9 9 2 0 5 3 -8
+p319
+aVDevin Harris ATL 02/20/2013 ATL vs. MIA L 20 6 2 5 40.0 0 3 0.0 2 3 66.7 0 4 4 3 0 0 0 1 1
+p320
+aVZaza Pachulia ATL 02/20/2013 ATL vs. MIA L 25 4 1 3 33.3 0 0 - 2 2 100.0 2 5 7 1 1 0 1 1 -2
+p321
+aVDeShawn Stevenson ATL 02/20/2013 ATL vs. MIA L 27 9 3 5 60.0 3 5 60.0 0 0 - 0 2 2 2 0 0 0 2 -5
+p322
+aVJeff Teague ATL 02/20/2013 ATL vs. MIA L 32 9 4 12 33.3 0 5 0.0 1 1 100.0 0 1 1 8 1 0 6 5 -16
+p323
+aVAnthony Tolliver ATL 02/20/2013 ATL vs. MIA L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p324
+aVIvan Johnson ATL 02/20/2013 ATL vs. MIA L 15 10 4 7 57.1 0 0 - 2 4 50.0 0 2 2 0 0 0 1 3 -8
+p325
+aVKyle Korver ATL 02/20/2013 ATL vs. MIA L 26 12 4 6 66.7 4 5 80.0 0 0 - 0 7 7 3 2 0 2 4 -13
+p326
+aVJohn Jenkins ATL 02/20/2013 ATL vs. MIA L 8 3 1 4 25.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p327
+aVAl Horford ATL 02/20/2013 ATL vs. MIA L 42 27 12 15 80.0 0 0 - 3 4 75.0 1 8 9 2 0 2 4 1 -10
+p328
+aVKyle Korver ATL 02/13/2013 ATL @ ORL W 23 7 2 6 33.3 1 5 20.0 2 2 100.0 3 3 6 4 1 0 0 1 26
+p329
+aVMike Scott ATL 02/13/2013 ATL @ ORL W 13 2 1 5 20.0 0 0 - 0 0 - 3 2 5 0 0 0 2 0 -5
+p330
+aVAl Horford ATL 02/13/2013 ATL @ ORL W 32 26 11 16 68.8 0 0 - 4 6 66.7 6 6 12 5 2 0 1 1 30
+p331
+aVJosh Smith ATL 02/13/2013 ATL @ ORL W 30 30 13 20 65.0 2 3 66.7 2 7 28.6 0 10 10 5 0 2 0 0 30
+p332
+aVAnthony Morrow ATL 02/13/2013 ATL @ ORL W 6 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 -5
+p333
+aVJohan Petro ATL 02/13/2013 ATL @ ORL W 6 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 -5
+p334
+aVZaza Pachulia ATL 02/13/2013 ATL @ ORL W 17 8 3 9 33.3 0 0 - 2 2 100.0 3 3 6 1 0 0 0 1 20
+p335
+aVDeShawn Stevenson ATL 02/13/2013 ATL @ ORL W 10 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 8
+p336
+aVJohn Jenkins ATL 02/13/2013 ATL @ ORL W 24 9 3 5 60.0 3 5 60.0 0 0 - 0 3 3 1 1 0 1 2 10
+p337
+aVJeff Teague ATL 02/13/2013 ATL @ ORL W 27 7 2 6 33.3 1 4 25.0 2 2 100.0 0 0 0 11 1 1 1 2 19
+p338
+aVAnthony Tolliver ATL 02/13/2013 ATL @ ORL W 25 7 3 8 37.5 1 6 16.7 0 0 - 1 2 3 0 0 0 1 1 8
+p339
+aVDevin Harris ATL 02/13/2013 ATL @ ORL W 25 4 0 6 0.0 0 6 0.0 4 4 100.0 0 3 3 5 1 0 3 1 24
+p340
+aVIvan Johnson ATL 02/11/2013 ATL @ DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -6
+p341
+aVJohn Jenkins ATL 02/11/2013 ATL @ DAL W 16 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 -2
+p342
+aVJosh Smith ATL 02/11/2013 ATL @ DAL W 40 26 10 15 66.7 4 5 80.0 2 4 50.0 2 11 13 6 1 0 5 5 7
+p343
+aVKyle Korver ATL 02/11/2013 ATL @ DAL W 30 10 3 6 50.0 2 4 50.0 2 2 100.0 2 2 4 1 1 0 1 2 5
+p344
+aVAl Horford ATL 02/11/2013 ATL @ DAL W 35 21 10 14 71.4 0 0 - 1 2 50.0 1 9 10 2 3 2 1 3 13
+p345
+aVDevin Harris ATL 02/11/2013 ATL @ DAL W 32 15 5 11 45.5 3 8 37.5 2 2 100.0 0 0 0 5 1 0 3 3 4
+p346
+aVAnthony Tolliver ATL 02/11/2013 ATL @ DAL W 24 1 0 4 0.0 0 3 0.0 1 2 50.0 0 5 5 1 0 0 0 1 -2
+p347
+aVJeff Teague ATL 02/11/2013 ATL @ DAL W 37 20 7 14 50.0 0 3 0.0 6 7 85.7 0 4 4 9 1 0 3 3 13
+p348
+aVDeShawn Stevenson ATL 02/11/2013 ATL @ DAL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p349
+aVZaza Pachulia ATL 02/11/2013 ATL @ DAL W 16 8 3 7 42.9 0 0 - 2 4 50.0 3 7 10 1 0 0 2 2 -6
+p350
+aVIvan Johnson ATL 02/08/2013 ATL vs. NOH L 11 6 2 5 40.0 0 1 0.0 2 4 50.0 0 4 4 1 1 1 1 2 4
+p351
+aVAl Horford ATL 02/08/2013 ATL vs. NOH L 36 12 4 11 36.4 0 0 - 4 6 66.7 2 4 6 3 2 1 0 1 -11
+p352
+aVDevin Harris ATL 02/08/2013 ATL vs. NOH L 18 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 1 0 2 2 -6
+p353
+aVJohn Jenkins ATL 02/08/2013 ATL vs. NOH L 20 8 2 4 50.0 2 3 66.7 2 3 66.7 1 1 2 0 0 1 1 0 -4
+p354
+aVKyle Korver ATL 02/08/2013 ATL vs. NOH L 42 17 6 14 42.9 3 6 50.0 2 2 100.0 0 5 5 5 1 0 1 1 -7
+p355
+aVJosh Smith ATL 02/08/2013 ATL vs. NOH L 38 23 9 19 47.4 3 5 60.0 2 2 100.0 0 6 6 8 2 2 4 4 -15
+p356
+aVZaza Pachulia ATL 02/08/2013 ATL vs. NOH L 17 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 1 1 1 2 3 -5
+p357
+aVJeff Teague ATL 02/08/2013 ATL vs. NOH L 40 21 7 11 63.6 4 6 66.7 3 4 75.0 0 0 0 9 0 0 6 2 -6
+p358
+aVAnthony Tolliver ATL 02/08/2013 ATL vs. NOH L 17 5 2 4 50.0 1 3 33.3 0 0 - 1 4 5 1 0 0 0 0 -5
+p359
+aVIvan Johnson ATL 02/06/2013 ATL vs. MEM W 12 6 2 5 40.0 0 1 0.0 2 4 50.0 1 1 2 0 1 0 3 2 -7
+p360
+aVJohn Jenkins ATL 02/06/2013 ATL vs. MEM W 23 9 3 9 33.3 3 6 50.0 0 0 - 1 4 5 1 0 0 0 0 3
+p361
+aVDevin Harris ATL 02/06/2013 ATL vs. MEM W 17 8 2 4 50.0 0 2 0.0 4 5 80.0 0 1 1 3 0 0 1 1 -4
+p362
+aVJosh Smith ATL 02/06/2013 ATL vs. MEM W 42 19 7 13 53.8 1 2 50.0 4 6 66.7 1 10 11 6 1 3 1 1 16
+p363
+aVJohan Petro ATL 02/06/2013 ATL vs. MEM W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 1
+p364
+aVMike Scott ATL 02/06/2013 ATL vs. MEM W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -9
+p365
+aVAnthony Tolliver ATL 02/06/2013 ATL vs. MEM W 28 8 3 9 33.3 2 5 40.0 0 0 - 1 6 7 0 0 1 1 0 8
+p366
+aVJeff Teague ATL 02/06/2013 ATL vs. MEM W 36 22 7 10 70.0 2 3 66.7 6 6 100.0 0 2 2 13 0 0 3 1 15
+p367
+aVKyle Korver ATL 02/06/2013 ATL vs. MEM W 36 12 5 8 62.5 2 5 40.0 0 0 - 0 6 6 2 1 1 1 4 18
+p368
+aVAl Horford ATL 02/06/2013 ATL vs. MEM W 36 17 8 13 61.5 0 0 - 1 2 50.0 1 10 11 3 1 0 2 3 14
+p369
+aVJannero Pargo ATL 02/05/2013 ATL @ IND L 19 9 3 7 42.9 1 3 33.3 2 2 100.0 0 2 2 5 1 0 0 4 2
+p370
+aVJeff Teague ATL 02/05/2013 ATL @ IND L 36 24 9 17 52.9 1 1 100.0 5 7 71.4 0 2 2 8 1 0 4 2 -22
+p371
+aVDeShawn Stevenson ATL 02/05/2013 ATL @ IND L 19 6 2 4 50.0 2 3 66.7 0 0 - 0 4 4 0 0 0 1 2 -16
+p372
+aVKyle Korver ATL 02/05/2013 ATL @ IND L 39 10 3 13 23.1 2 9 22.2 2 2 100.0 1 0 1 8 1 1 3 4 -16
+p373
+aVAnthony Tolliver ATL 02/05/2013 ATL @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p374
+aVIvan Johnson ATL 02/05/2013 ATL @ IND L 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 3 3
+p375
+aVMike Scott ATL 02/05/2013 ATL @ IND L 12 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 1 0 0 0 5 5
+p376
+aVAl Horford ATL 02/05/2013 ATL @ IND L 28 15 7 11 63.6 0 0 - 1 3 33.3 2 6 8 2 1 1 2 6 -4
+p377
+aVJohan Petro ATL 02/05/2013 ATL @ IND L 15 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 0 0 0 2 3 -3
+p378
+aVJohn Jenkins ATL 02/05/2013 ATL @ IND L 20 14 2 5 40.0 1 3 33.3 9 10 90.0 0 2 2 1 0 0 0 0 13
+p379
+aVJosh Smith ATL 02/05/2013 ATL @ IND L 39 9 4 12 33.3 1 2 50.0 0 0 - 1 9 10 0 0 1 4 4 -16
+p380
+aVAnthony Tolliver ATL 02/02/2013 ATL vs. CHI L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 1
+p381
+aVJosh Smith ATL 02/02/2013 ATL vs. CHI L 37 19 9 16 56.3 1 1 100.0 0 3 0.0 3 10 13 5 0 2 4 4 -20
+p382
+aVAl Horford ATL 02/02/2013 ATL vs. CHI L 40 14 7 18 38.9 0 0 - 0 0 - 5 7 12 1 0 3 1 1 -11
+p383
+aVIvan Johnson ATL 02/02/2013 ATL vs. CHI L 23 8 3 8 37.5 0 0 - 2 5 40.0 3 6 9 0 0 0 3 1 -2
+p384
+aVAnthony Morrow ATL 02/02/2013 ATL vs. CHI L 4 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p385
+aVJeff Teague ATL 02/02/2013 ATL vs. CHI L 32 16 5 11 45.5 2 5 40.0 4 4 100.0 0 0 0 4 1 0 2 1 -15
+p386
+aVJohn Jenkins ATL 02/02/2013 ATL vs. CHI L 23 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 2 0 0 1 1 -6
+p387
+aVKyle Korver ATL 02/02/2013 ATL vs. CHI L 37 10 3 6 50.0 3 5 60.0 1 1 100.0 0 6 6 1 1 2 2 3 -16
+p388
+aVDeShawn Stevenson ATL 02/02/2013 ATL vs. CHI L 18 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 2 1 0 0 0 -14
+p389
+aVMike Scott ATL 02/02/2013 ATL vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p390
+aVJannero Pargo ATL 02/02/2013 ATL vs. CHI L 14 0 0 6 0.0 0 4 0.0 0 0 - 0 0 0 1 0 0 1 0 -5
+p391
+aVDevin Harris ATL 01/30/2013 ATL vs. TOR W 32 8 3 7 42.9 1 4 25.0 1 1 100.0 0 0 0 5 2 1 3 1 -4
+p392
+aVAl Horford ATL 01/30/2013 ATL vs. TOR W 44 22 10 15 66.7 0 0 - 2 4 50.0 1 9 10 6 0 3 0 0 2
+p393
+aVIvan Johnson ATL 01/30/2013 ATL vs. TOR W 14 6 3 6 50.0 0 0 - 0 1 0.0 1 1 2 2 0 0 1 4 -8
+p394
+aVDeShawn Stevenson ATL 01/30/2013 ATL vs. TOR W 18 6 2 4 50.0 2 4 50.0 0 2 0.0 0 2 2 0 0 1 2 3 2
+p395
+aVJannero Pargo ATL 01/30/2013 ATL vs. TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p396
+aVKyle Korver ATL 01/30/2013 ATL vs. TOR W 37 17 6 10 60.0 5 9 55.6 0 0 - 0 6 6 3 2 0 1 3 8
+p397
+aVJohn Jenkins ATL 01/30/2013 ATL vs. TOR W 13 5 2 5 40.0 0 3 0.0 1 1 100.0 0 0 0 0 0 0 0 0 -5
+p398
+aVJosh Smith ATL 01/30/2013 ATL vs. TOR W 38 20 7 16 43.8 1 3 33.3 5 7 71.4 1 10 11 3 3 3 4 3 8
+p399
+aVJeff Teague ATL 01/30/2013 ATL vs. TOR W 40 9 3 11 27.3 1 3 33.3 2 2 100.0 0 4 4 7 3 0 5 3 6
+p400
+aVZaza Pachulia ATL 01/27/2013 ATL @ NYK L 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 1 0 2 3 -9
+p401
+aVJohn Jenkins ATL 01/27/2013 ATL @ NYK L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p402
+aVAl Horford ATL 01/27/2013 ATL @ NYK L 33 16 8 8 100.0 0 0 - 0 2 0.0 3 3 6 1 0 0 5 5 8
+p403
+aVJeff Teague ATL 01/27/2013 ATL @ NYK L 37 27 9 15 60.0 2 4 50.0 7 7 100.0 1 4 5 6 2 0 4 4 -4
+p404
+aVDevin Harris ATL 01/27/2013 ATL @ NYK L 21 3 1 4 25.0 0 1 0.0 1 2 50.0 0 4 4 2 2 1 1 0 8
+p405
+aVIvan Johnson ATL 01/27/2013 ATL @ NYK L 10 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 0 -8
+p406
+aVDeShawn Stevenson ATL 01/27/2013 ATL @ NYK L 30 15 5 7 71.4 4 6 66.7 1 1 100.0 0 1 1 2 0 0 0 4 -4
+p407
+aVKyle Korver ATL 01/27/2013 ATL @ NYK L 41 13 3 8 37.5 2 6 33.3 5 5 100.0 0 7 7 2 0 1 2 1 10
+p408
+aVJannero Pargo ATL 01/27/2013 ATL @ NYK L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -11
+p409
+aVJosh Smith ATL 01/27/2013 ATL @ NYK L 40 20 9 16 56.3 2 6 33.3 0 1 0.0 0 2 2 4 2 0 3 2 -4
+p410
+aVDevin Harris ATL 01/25/2013 ATL vs. BOS W 38 14 4 13 30.8 2 9 22.2 4 4 100.0 0 3 3 2 2 1 2 3 26
+p411
+aVJeff Teague ATL 01/25/2013 ATL vs. BOS W 40 23 8 11 72.7 2 3 66.7 5 6 83.3 0 4 4 7 3 1 2 6 8
+p412
+aVJohn Jenkins ATL 01/25/2013 ATL vs. BOS W 6 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 0 -7
+p413
+aVIvan Johnson ATL 01/25/2013 ATL vs. BOS W 18 11 5 8 62.5 0 1 0.0 1 1 100.0 0 1 1 1 0 0 1 2 -21
+p414
+aVAl Horford ATL 01/25/2013 ATL vs. BOS W 51 24 7 15 46.7 0 0 - 10 11 90.9 3 10 13 3 2 0 2 5 28
+p415
+aVJosh Smith ATL 01/25/2013 ATL vs. BOS W 47 17 7 20 35.0 0 3 0.0 3 9 33.3 5 9 14 7 0 2 2 2 13
+p416
+aVMike Scott ATL 01/25/2013 ATL vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 2
+p417
+aVZaza Pachulia ATL 01/25/2013 ATL vs. BOS W 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -15
+p418
+aVJannero Pargo ATL 01/25/2013 ATL vs. BOS W 22 2 1 7 14.3 0 4 0.0 0 0 - 1 2 3 5 0 0 0 0 0
+p419
+aVKyle Korver ATL 01/25/2013 ATL vs. BOS W 44 27 8 13 61.5 8 12 66.7 3 3 100.0 1 5 6 4 3 2 1 1 28
+p420
+aVDeShawn Stevenson ATL 01/25/2013 ATL vs. BOS W 8 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -2
+p421
+aVJohn Jenkins ATL 01/23/2013 ATL @ CHA W 19 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 4 0 1 0 2 7
+p422
+aVMike Scott ATL 01/23/2013 ATL @ CHA W 13 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 1 0 0 1 3 0
+p423
+aVJeff Teague ATL 01/23/2013 ATL @ CHA W 34 10 4 9 44.4 1 2 50.0 1 2 50.0 0 2 2 6 2 0 4 3 11
+p424
+aVKyle Korver ATL 01/23/2013 ATL @ CHA W 41 21 8 11 72.7 5 6 83.3 0 0 - 0 4 4 2 1 0 0 5 11
+p425
+aVDeShawn Stevenson ATL 01/23/2013 ATL @ CHA W 21 3 1 8 12.5 1 6 16.7 0 0 - 0 3 3 3 0 0 1 0 6
+p426
+aVJohan Petro ATL 01/23/2013 ATL @ CHA W 16 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 1 0 1 1
+p427
+aVJosh Smith ATL 01/23/2013 ATL @ CHA W 38 30 15 24 62.5 0 2 0.0 0 2 0.0 5 8 13 8 0 3 7 1 14
+p428
+aVIvan Johnson ATL 01/23/2013 ATL @ CHA W 32 12 4 11 36.4 0 0 - 4 6 66.7 6 9 15 3 3 1 1 3 11
+p429
+aVJannero Pargo ATL 01/23/2013 ATL @ CHA W 23 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 3 1 0 2 2 2
+p430
+aVAnthony Tolliver ATL 01/23/2013 ATL @ CHA W 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p431
+aVAl Horford ATL 01/21/2013 ATL vs. MIN W 38 28 12 20 60.0 0 0 - 4 7 57.1 1 9 10 2 2 3 4 4 3
+p432
+aVJosh Smith ATL 01/21/2013 ATL vs. MIN W 34 10 5 8 62.5 0 0 - 0 2 0.0 0 4 4 6 2 2 5 3 18
+p433
+aVJohn Jenkins ATL 01/21/2013 ATL vs. MIN W 14 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -7
+p434
+aVZaza Pachulia ATL 01/21/2013 ATL vs. MIN W 16 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 2 1 -4
+p435
+aVJeff Teague ATL 01/21/2013 ATL vs. MIN W 35 9 2 7 28.6 1 3 33.3 4 4 100.0 0 0 0 10 1 0 5 2 13
+p436
+aVAnthony Tolliver ATL 01/21/2013 ATL vs. MIN W 15 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 2 0 0 2 2 -7
+p437
+aVMike Scott ATL 01/21/2013 ATL vs. MIN W 22 11 5 8 62.5 0 0 - 1 4 25.0 3 4 7 1 2 0 2 2 0
+p438
+aVIvan Johnson ATL 01/21/2013 ATL vs. MIN W 8 8 3 3 100.0 0 0 - 2 2 100.0 1 2 3 1 1 0 1 5 -1
+p439
+aVJannero Pargo ATL 01/21/2013 ATL vs. MIN W 25 16 6 11 54.5 4 5 80.0 0 0 - 0 1 1 4 1 0 0 0 9
+p440
+aVKyle Korver ATL 01/21/2013 ATL vs. MIN W 35 14 5 8 62.5 3 6 50.0 1 2 50.0 1 2 3 2 2 0 1 3 16
+p441
+aVMike Scott ATL 01/19/2013 ATL vs. SAS L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -8
+p442
+aVDevin Harris ATL 01/19/2013 ATL vs. SAS L 17 13 4 8 50.0 2 3 66.7 3 6 50.0 0 1 1 1 0 0 1 2 2
+p443
+aVIvan Johnson ATL 01/19/2013 ATL vs. SAS L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -11
+p444
+aVJohn Jenkins ATL 01/19/2013 ATL vs. SAS L 23 9 3 12 25.0 1 6 16.7 2 2 100.0 1 1 2 0 0 0 1 0 -1
+p445
+aVJosh Smith ATL 01/19/2013 ATL vs. SAS L 38 21 8 15 53.3 0 1 0.0 5 8 62.5 1 7 8 3 1 0 1 2 -2
+p446
+aVKyle Korver ATL 01/19/2013 ATL vs. SAS L 38 19 7 12 58.3 5 8 62.5 0 0 - 0 8 8 1 0 0 0 1 -1
+p447
+aVAl Horford ATL 01/19/2013 ATL vs. SAS L 38 9 4 11 36.4 0 0 - 1 2 50.0 4 11 15 6 0 1 3 3 2
+p448
+aVZaza Pachulia ATL 01/19/2013 ATL vs. SAS L 28 4 2 4 50.0 0 0 - 0 0 - 3 6 9 1 0 0 2 1 -8
+p449
+aVJeff Teague ATL 01/19/2013 ATL vs. SAS L 38 16 6 16 37.5 0 3 0.0 4 4 100.0 2 2 4 8 0 0 5 4 2
+p450
+aVAnthony Tolliver ATL 01/19/2013 ATL vs. SAS L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 0
+p451
+aVZaza Pachulia ATL 01/18/2013 ATL @ BKN L 25 4 2 5 40.0 0 0 - 0 0 - 3 3 6 2 1 0 1 6 -7
+p452
+aVMike Scott ATL 01/18/2013 ATL @ BKN L 10 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 3
+p453
+aVKyle Korver ATL 01/18/2013 ATL @ BKN L 38 11 4 6 66.7 3 4 75.0 0 0 - 0 3 3 4 1 0 1 2 -2
+p454
+aVDevin Harris ATL 01/18/2013 ATL @ BKN L 33 17 6 15 40.0 3 8 37.5 2 2 100.0 0 3 3 3 0 0 0 3 3
+p455
+aVJosh Smith ATL 01/18/2013 ATL @ BKN L 37 12 5 15 33.3 0 3 0.0 2 3 66.7 1 8 9 3 1 1 4 2 -5
+p456
+aVJohn Jenkins ATL 01/18/2013 ATL @ BKN L 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -7
+p457
+aVJeff Teague ATL 01/18/2013 ATL @ BKN L 38 21 8 17 47.1 2 4 50.0 3 4 75.0 0 0 0 10 0 1 4 3 -1
+p458
+aVJohan Petro ATL 01/18/2013 ATL @ BKN L 13 4 2 4 50.0 0 0 - 0 0 - 0 5 5 0 1 0 0 3 2
+p459
+aVIvan Johnson ATL 01/18/2013 ATL @ BKN L 10 5 2 6 33.3 0 0 - 1 3 33.3 0 3 3 0 0 1 3 2 -8
+p460
+aVLou Williams ATL 01/18/2013 ATL @ BKN L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -1
+p461
+aVAnthony Tolliver ATL 01/18/2013 ATL @ BKN L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 0 0 0 1 3 -2
+p462
+aVDevin Harris ATL 01/16/2013 ATL vs. BKN W 35 18 6 11 54.5 2 6 33.3 4 5 80.0 0 4 4 5 4 0 3 1 24
+p463
+aVJeff Teague ATL 01/16/2013 ATL vs. BKN W 37 28 12 18 66.7 3 5 60.0 1 2 50.0 0 4 4 11 0 0 2 2 15
+p464
+aVZaza Pachulia ATL 01/16/2013 ATL vs. BKN W 39 13 5 8 62.5 0 0 - 3 6 50.0 6 5 11 8 1 0 2 3 12
+p465
+aVAl Horford ATL 01/16/2013 ATL vs. BKN W 36 17 7 12 58.3 0 0 - 3 4 75.0 6 7 13 2 2 1 3 3 12
+p466
+aVKyle Korver ATL 01/16/2013 ATL vs. BKN W 27 11 5 10 50.0 1 4 25.0 0 0 - 0 4 4 2 1 1 1 3 10
+p467
+aVLou Williams ATL 01/16/2013 ATL vs. BKN W 24 11 5 8 62.5 1 3 33.3 0 0 - 1 0 1 4 0 0 3 1 -7
+p468
+aVIvan Johnson ATL 01/16/2013 ATL vs. BKN W 20 8 4 8 50.0 0 0 - 0 0 - 2 1 3 1 0 0 2 2 4
+p469
+aVDeShawn Stevenson ATL 01/16/2013 ATL vs. BKN W 21 3 1 3 33.3 1 3 33.3 0 0 - 1 0 1 0 0 0 0 3 0
+p470
+aVZaza Pachulia ATL 01/14/2013 ATL @ CHI L 19 4 2 9 22.2 0 0 - 0 0 - 3 3 6 1 1 0 0 3 -10
+p471
+aVJohan Petro ATL 01/14/2013 ATL @ CHI L 7 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 1 -7
+p472
+aVMike Scott ATL 01/14/2013 ATL @ CHI L 16 10 4 5 80.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 2 -8
+p473
+aVDevin Harris ATL 01/14/2013 ATL @ CHI L 16 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 3 -12
+p474
+aVIvan Johnson ATL 01/14/2013 ATL @ CHI L 5 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p475
+aVJosh Smith ATL 01/14/2013 ATL @ CHI L 27 9 4 14 28.6 0 2 0.0 1 2 50.0 0 5 5 1 0 2 1 2 -28
+p476
+aVKyle Korver ATL 01/14/2013 ATL @ CHI L 25 9 3 5 60.0 1 2 50.0 2 3 66.7 0 2 2 0 1 0 1 4 -26
+p477
+aVJeff Teague ATL 01/14/2013 ATL @ CHI L 27 6 2 8 25.0 0 2 0.0 2 2 100.0 0 2 2 5 1 1 2 2 -24
+p478
+aVAnthony Tolliver ATL 01/14/2013 ATL @ CHI L 15 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 2 -6
+p479
+aVAl Horford ATL 01/14/2013 ATL @ CHI L 27 6 3 10 30.0 0 0 - 0 0 - 5 6 11 1 2 1 4 2 -25
+p480
+aVJohn Jenkins ATL 01/14/2013 ATL @ CHI L 31 3 1 9 11.1 1 3 33.3 0 0 - 0 2 2 3 0 1 0 1 -22
+p481
+aVLou Williams ATL 01/14/2013 ATL @ CHI L 25 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 3 0 0 2 0 -21
+p482
+aVJohn Jenkins ATL 01/12/2013 ATL @ WAS L 10 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p483
+aVJeff Teague ATL 01/12/2013 ATL @ WAS L 35 19 6 10 60.0 1 3 33.3 6 7 85.7 0 3 3 4 2 1 3 1 -10
+p484
+aVAl Horford ATL 01/12/2013 ATL @ WAS L 40 16 8 16 50.0 0 0 - 0 0 - 0 12 12 3 0 1 3 2 -10
+p485
+aVLou Williams ATL 01/12/2013 ATL @ WAS L 26 8 3 12 25.0 2 6 33.3 0 0 - 0 0 0 2 1 0 1 1 -12
+p486
+aVIvan Johnson ATL 01/12/2013 ATL @ WAS L 17 6 0 6 0.0 0 2 0.0 6 8 75.0 2 2 4 3 1 0 1 2 8
+p487
+aVDeShawn Stevenson ATL 01/12/2013 ATL @ WAS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -4
+p488
+aVDevin Harris ATL 01/12/2013 ATL @ WAS L 22 8 3 6 50.0 1 3 33.3 1 2 50.0 0 2 2 5 1 0 2 2 3
+p489
+aVKyle Korver ATL 01/12/2013 ATL @ WAS L 28 5 2 6 33.3 1 4 25.0 0 0 - 1 2 3 2 1 1 1 4 -2
+p490
+aVZaza Pachulia ATL 01/12/2013 ATL @ WAS L 17 5 2 4 50.0 0 0 - 1 2 50.0 1 5 6 0 0 0 1 2 -4
+p491
+aVJosh Smith ATL 01/12/2013 ATL @ WAS L 38 11 4 13 30.8 1 4 25.0 2 6 33.3 2 6 8 4 1 1 4 4 -18
+p492
+aVJosh Smith ATL 01/11/2013 ATL vs. UTA W 36 15 7 14 50.0 0 3 0.0 1 4 25.0 0 10 10 6 0 1 2 0 -4
+p493
+aVZaza Pachulia ATL 01/11/2013 ATL vs. UTA W 20 12 5 7 71.4 0 0 - 2 3 66.7 2 1 3 1 1 0 1 5 6
+p494
+aVKyle Korver ATL 01/11/2013 ATL vs. UTA W 21 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 0 0 0 1 -13
+p495
+aVJohn Jenkins ATL 01/11/2013 ATL vs. UTA W 11 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 12
+p496
+aVJeff Teague ATL 01/11/2013 ATL vs. UTA W 27 7 2 6 33.3 1 2 50.0 2 3 66.7 0 1 1 4 3 0 3 3 -18
+p497
+aVLou Williams ATL 01/11/2013 ATL vs. UTA W 34 14 5 13 38.5 2 6 33.3 2 3 66.7 0 2 2 3 2 1 3 1 23
+p498
+aVAl Horford ATL 01/11/2013 ATL vs. UTA W 30 12 6 9 66.7 0 0 - 0 0 - 1 2 3 3 1 2 1 3 0
+p499
+aVIvan Johnson ATL 01/11/2013 ATL vs. UTA W 26 13 6 10 60.0 0 0 - 1 2 50.0 0 7 7 0 1 1 0 2 23
+p500
+aVDevin Harris ATL 01/11/2013 ATL vs. UTA W 35 24 7 8 87.5 4 5 80.0 6 8 75.0 1 3 4 5 2 0 3 1 11
+p501
+aVKyle Korver ATL 01/09/2013 ATL @ CLE L 38 12 4 8 50.0 4 8 50.0 0 0 - 0 7 7 1 0 0 0 0 -17
+p502
+aVMike Scott ATL 01/09/2013 ATL @ CLE L 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 0
+p503
+aVAnthony Tolliver ATL 01/09/2013 ATL @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 0 1 0 -1
+p504
+aVZaza Pachulia ATL 01/09/2013 ATL @ CLE L 26 8 4 7 57.1 0 0 - 0 0 - 3 7 10 1 0 1 3 5 -2
+p505
+aVJohn Jenkins ATL 01/09/2013 ATL @ CLE L 16 5 2 7 28.6 1 3 33.3 0 0 - 2 1 3 0 0 0 1 1 -14
+p506
+aVAl Horford ATL 01/09/2013 ATL @ CLE L 36 14 7 18 38.9 0 0 - 0 0 - 1 4 5 3 0 0 1 1 -2
+p507
+aVIvan Johnson ATL 01/09/2013 ATL @ CLE L 7 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 1 0 0 1 -9
+p508
+aVDevin Harris ATL 01/09/2013 ATL @ CLE L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -2
+p509
+aVLou Williams ATL 01/09/2013 ATL @ CLE L 21 5 2 8 25.0 1 4 25.0 0 0 - 0 1 1 0 1 0 1 2 -14
+p510
+aVJohan Petro ATL 01/09/2013 ATL @ CLE L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p511
+aVJeff Teague ATL 01/09/2013 ATL @ CLE L 32 15 7 11 63.6 0 1 0.0 1 1 100.0 1 1 2 8 1 0 3 3 -5
+p512
+aVJosh Smith ATL 01/09/2013 ATL @ CLE L 36 17 8 16 50.0 1 5 20.0 0 2 0.0 3 5 8 4 0 6 2 2 -13
+p513
+aVAnthony Tolliver ATL 01/08/2013 ATL @ MIN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p514
+aVJeff Teague ATL 01/08/2013 ATL @ MIN L 22 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 0 0 1 1 5 -4
+p515
+aVKyle Korver ATL 01/08/2013 ATL @ MIN L 31 15 5 11 45.5 4 7 57.1 1 2 50.0 0 4 4 1 0 0 1 5 -5
+p516
+aVDeShawn Stevenson ATL 01/08/2013 ATL @ MIN L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p517
+aVAl Horford ATL 01/08/2013 ATL @ MIN L 38 19 9 16 56.3 0 0 - 1 1 100.0 6 5 11 4 2 1 3 2 -3
+p518
+aVJosh Smith ATL 01/08/2013 ATL @ MIN L 38 21 8 14 57.1 2 4 50.0 3 5 60.0 1 12 13 7 1 2 4 1 -4
+p519
+aVLou Williams ATL 01/08/2013 ATL @ MIN L 43 21 6 15 40.0 1 4 25.0 8 9 88.9 1 3 4 8 0 0 3 4 5
+p520
+aVJohn Jenkins ATL 01/08/2013 ATL @ MIN L 26 10 4 6 66.7 2 3 66.7 0 0 - 1 1 2 0 0 2 0 3 -10
+p521
+aVZaza Pachulia ATL 01/08/2013 ATL @ MIN L 24 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 1 2 0 3 1 -3
+p522
+aVMike Scott ATL 01/08/2013 ATL @ MIN L 9 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 2
+p523
+aVJosh Smith ATL 01/05/2013 ATL vs. BOS L 44 12 4 18 22.2 1 5 20.0 3 6 50.0 2 8 10 5 2 3 6 2 -6
+p524
+aVDeShawn Stevenson ATL 01/05/2013 ATL vs. BOS L 13 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 1 0 0 0 1 -8
+p525
+aVAl Horford ATL 01/05/2013 ATL vs. BOS L 42 6 2 8 25.0 0 0 - 2 2 100.0 1 8 9 4 1 1 2 2 -7
+p526
+aVLou Williams ATL 01/05/2013 ATL vs. BOS L 41 28 9 12 75.0 5 8 62.5 5 6 83.3 1 3 4 1 1 0 4 2 -6
+p527
+aVZaza Pachulia ATL 01/05/2013 ATL vs. BOS L 14 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 3 -7
+p528
+aVJeff Teague ATL 01/05/2013 ATL vs. BOS L 43 17 7 14 50.0 1 5 20.0 2 2 100.0 0 1 1 4 3 0 2 1 -5
+p529
+aVKyle Korver ATL 01/05/2013 ATL vs. BOS L 26 9 3 9 33.3 3 8 37.5 0 0 - 0 3 3 2 0 0 1 6 4
+p530
+aVJohn Jenkins ATL 01/05/2013 ATL vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p531
+aVAnthony Tolliver ATL 01/05/2013 ATL vs. BOS L 9 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 1 1 0 1 2 -2
+p532
+aVIvan Johnson ATL 01/05/2013 ATL vs. BOS L 7 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -1
+p533
+aVZaza Pachulia ATL 01/04/2013 ATL @ DET L 20 9 3 5 60.0 0 0 - 3 5 60.0 1 5 6 0 0 0 2 3 1
+p534
+aVKyle Korver ATL 01/04/2013 ATL @ DET L 33 10 3 9 33.3 3 9 33.3 1 1 100.0 0 3 3 5 1 0 0 4 8
+p535
+aVJeff Teague ATL 01/04/2013 ATL @ DET L 42 5 2 9 22.2 1 4 25.0 0 0 - 0 4 4 9 2 0 5 3 6
+p536
+aVJohn Jenkins ATL 01/04/2013 ATL @ DET L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -18
+p537
+aVLou Williams ATL 01/04/2013 ATL @ DET L 40 17 6 15 40.0 5 9 55.6 0 0 - 1 2 3 8 1 0 2 0 12
+p538
+aVAl Horford ATL 01/04/2013 ATL @ DET L 40 18 9 13 69.2 0 0 - 0 3 0.0 4 11 15 3 0 0 2 4 5
+p539
+aVJosh Smith ATL 01/04/2013 ATL @ DET L 31 20 8 17 47.1 1 4 25.0 3 5 60.0 0 3 3 1 2 2 3 4 -6
+p540
+aVIvan Johnson ATL 01/04/2013 ATL @ DET L 12 5 0 3 0.0 0 0 - 5 6 83.3 0 2 2 0 1 1 2 2 -10
+p541
+aVAnthony Tolliver ATL 01/04/2013 ATL @ DET L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 -3
+p542
+aVJosh Smith ATL 01/01/2013 ATL @ NOH W 37 23 11 20 55.0 1 3 33.3 0 0 - 2 11 13 7 3 4 1 2 7
+p543
+aVLou Williams ATL 01/01/2013 ATL @ NOH W 37 9 4 13 30.8 1 5 20.0 0 2 0.0 0 3 3 7 1 0 1 1 7
+p544
+aVAnthony Tolliver ATL 01/01/2013 ATL @ NOH W 15 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 1 1 0 0 2 7
+p545
+aVJohn Jenkins ATL 01/01/2013 ATL @ NOH W 19 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 11
+p546
+aVJeff Teague ATL 01/01/2013 ATL @ NOH W 40 4 2 8 25.0 0 2 0.0 0 2 0.0 1 2 3 8 2 2 1 3 0
+p547
+aVAl Horford ATL 01/01/2013 ATL @ NOH W 41 20 10 17 58.8 0 0 - 0 0 - 0 3 3 3 0 0 1 1 0
+p548
+aVZaza Pachulia ATL 01/01/2013 ATL @ NOH W 20 12 5 8 62.5 0 0 - 2 2 100.0 6 4 10 0 0 1 0 0 8
+p549
+aVKyle Korver ATL 01/01/2013 ATL @ NOH W 31 14 4 8 50.0 4 7 57.1 2 2 100.0 0 3 3 2 0 0 1 1 5
+p550
+aVKyle Korver ATL 12/31/2012 ATL @ HOU L 26 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 1 0 0 1 2 -4
+p551
+aVJohn Jenkins ATL 12/31/2012 ATL @ HOU L 24 15 6 9 66.7 2 3 66.7 1 1 100.0 0 1 1 2 1 1 3 3 -11
+p552
+aVAnthony Tolliver ATL 12/31/2012 ATL @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p553
+aVMike Scott ATL 12/31/2012 ATL @ HOU L 12 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p554
+aVIvan Johnson ATL 12/31/2012 ATL @ HOU L 10 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 0 -15
+p555
+aVJeff Teague ATL 12/31/2012 ATL @ HOU L 34 10 4 17 23.5 2 5 40.0 0 0 - 0 2 2 9 1 0 5 3 -10
+p556
+aVAl Horford ATL 12/31/2012 ATL @ HOU L 31 18 9 16 56.3 0 0 - 0 0 - 1 12 13 4 1 0 1 0 -3
+p557
+aVJohan Petro ATL 12/31/2012 ATL @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p558
+aVJosh Smith ATL 12/31/2012 ATL @ HOU L 23 17 5 12 41.7 2 2 100.0 5 6 83.3 2 5 7 0 1 4 2 1 -4
+p559
+aVZaza Pachulia ATL 12/31/2012 ATL @ HOU L 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 3 -6
+p560
+aVDeShawn Stevenson ATL 12/31/2012 ATL @ HOU L 24 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 2 1 0 0 2 -20
+p561
+aVLou Williams ATL 12/31/2012 ATL @ HOU L 32 21 9 16 56.3 3 6 50.0 0 0 - 0 1 1 2 1 1 1 2 -6
+p562
+aVAl Horford ATL 12/29/2012 ATL vs. IND W 38 20 10 13 76.9 0 0 - 0 0 - 1 5 6 6 1 0 0 2 16
+p563
+aVJeff Teague ATL 12/29/2012 ATL vs. IND W 41 15 6 13 46.2 1 3 33.3 2 2 100.0 0 3 3 6 1 0 4 0 5
+p564
+aVZaza Pachulia ATL 12/29/2012 ATL vs. IND W 38 17 7 11 63.6 0 0 - 3 4 75.0 5 9 14 0 0 0 2 4 7
+p565
+aVDeShawn Stevenson ATL 12/29/2012 ATL vs. IND W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p566
+aVIvan Johnson ATL 12/29/2012 ATL vs. IND W 15 6 3 6 50.0 0 0 - 0 1 0.0 3 3 6 0 3 1 1 6 -1
+p567
+aVJohn Jenkins ATL 12/29/2012 ATL vs. IND W 17 10 4 6 66.7 2 2 100.0 0 0 - 0 2 2 1 0 0 3 2 -3
+p568
+aVJohan Petro ATL 12/29/2012 ATL vs. IND W 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 1 1 3 -4
+p569
+aVKyle Korver ATL 12/29/2012 ATL vs. IND W 33 16 5 10 50.0 4 5 80.0 2 3 66.7 1 1 2 1 2 0 3 4 10
+p570
+aVLou Williams ATL 12/29/2012 ATL vs. IND W 38 21 7 17 41.2 3 8 37.5 4 4 100.0 0 3 3 12 1 0 2 2 16
+p571
+aVZaza Pachulia ATL 12/28/2012 ATL @ CLE W 26 9 2 4 50.0 0 0 - 5 6 83.3 3 4 7 2 1 0 0 3 17
+p572
+aVAnthony Morrow ATL 12/28/2012 ATL @ CLE W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 8
+p573
+aVJosh Smith ATL 12/28/2012 ATL @ CLE W 27 7 2 12 16.7 0 1 0.0 3 4 75.0 2 4 6 6 0 5 5 1 -11
+p574
+aVAnthony Tolliver ATL 12/28/2012 ATL @ CLE W 20 13 5 7 71.4 2 3 66.7 1 2 50.0 2 2 4 1 0 1 0 1 5
+p575
+aVLou Williams ATL 12/28/2012 ATL @ CLE W 41 16 6 12 50.0 4 6 66.7 0 0 - 0 5 5 4 1 0 5 1 -2
+p576
+aVMike Scott ATL 12/28/2012 ATL @ CLE W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 6
+p577
+aVJohn Jenkins ATL 12/28/2012 ATL @ CLE W 8 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 4
+p578
+aVAl Horford ATL 12/28/2012 ATL @ CLE W 34 14 6 11 54.5 0 0 - 2 2 100.0 1 10 11 3 0 2 1 1 4
+p579
+aVJeff Teague ATL 12/28/2012 ATL @ CLE W 36 27 11 19 57.9 3 6 50.0 2 2 100.0 0 2 2 8 2 0 2 2 11
+p580
+aVKyle Korver ATL 12/28/2012 ATL @ CLE W 32 11 4 7 57.1 3 6 50.0 0 0 - 0 5 5 2 3 3 1 4 -2
+p581
+aVIvan Johnson ATL 12/26/2012 ATL vs. DET W 10 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 2 0 0 0 1 -3
+p582
+aVZaza Pachulia ATL 12/26/2012 ATL vs. DET W 22 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 2 0 1 3 -3
+p583
+aVKyle Korver ATL 12/26/2012 ATL vs. DET W 40 8 2 11 18.2 2 9 22.2 2 2 100.0 0 5 5 3 1 1 0 0 7
+p584
+aVJosh Smith ATL 12/26/2012 ATL vs. DET W 48 31 13 25 52.0 1 3 33.3 4 8 50.0 2 8 10 6 2 2 1 3 12
+p585
+aVDeShawn Stevenson ATL 12/26/2012 ATL vs. DET W 26 8 3 7 42.9 2 6 33.3 0 0 - 0 1 1 3 0 0 0 0 -4
+p586
+aVJeff Teague ATL 12/26/2012 ATL vs. DET W 36 17 4 10 40.0 1 2 50.0 8 8 100.0 0 4 4 11 2 2 4 5 14
+p587
+aVLou Williams ATL 12/26/2012 ATL vs. DET W 48 18 7 14 50.0 2 7 28.6 2 2 100.0 0 8 8 7 2 1 4 2 10
+p588
+aVAnthony Morrow ATL 12/26/2012 ATL vs. DET W 18 16 6 10 60.0 3 5 60.0 1 1 100.0 1 0 1 0 1 0 0 0 3
+p589
+aVAl Horford ATL 12/26/2012 ATL vs. DET W 42 22 9 15 60.0 0 0 - 4 8 50.0 3 7 10 3 1 0 0 4 -1
+p590
+aVIvan Johnson ATL 12/22/2012 ATL vs. CHI W 15 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 0 0 1 0 -3
+p591
+aVKyle Korver ATL 12/22/2012 ATL vs. CHI W 27 13 4 8 50.0 3 6 50.0 2 2 100.0 2 4 6 1 0 0 0 3 31
+p592
+aVJohn Jenkins ATL 12/22/2012 ATL vs. CHI W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p593
+aVLou Williams ATL 12/22/2012 ATL vs. CHI W 31 16 6 12 50.0 3 6 50.0 1 1 100.0 0 4 4 3 0 1 2 1 29
+p594
+aVZaza Pachulia ATL 12/22/2012 ATL vs. CHI W 21 6 2 6 33.3 0 0 - 2 2 100.0 1 7 8 4 3 0 2 0 4
+p595
+aVJosh Smith ATL 12/22/2012 ATL vs. CHI W 32 12 6 12 50.0 0 1 0.0 0 0 - 3 2 5 4 3 2 1 0 23
+p596
+aVMike Scott ATL 12/22/2012 ATL vs. CHI W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 4 1 -8
+p597
+aVAnthony Tolliver ATL 12/22/2012 ATL vs. CHI W 16 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 1 -12
+p598
+aVAnthony Morrow ATL 12/22/2012 ATL vs. CHI W 21 7 3 7 42.9 0 1 0.0 1 1 100.0 2 0 2 1 0 0 0 1 -11
+p599
+aVJeff Teague ATL 12/22/2012 ATL vs. CHI W 30 11 5 12 41.7 1 2 50.0 0 0 - 0 3 3 8 0 0 4 0 12
+p600
+aVAl Horford ATL 12/22/2012 ATL vs. CHI W 34 20 9 12 75.0 0 0 - 2 2 100.0 3 7 10 2 0 1 1 2 26
+p601
+aVJosh Smith ATL 12/21/2012 ATL @ PHI L 28 17 8 16 50.0 1 2 50.0 0 1 0.0 2 4 6 3 1 0 4 2 -17
+p602
+aVZaza Pachulia ATL 12/21/2012 ATL @ PHI L 28 9 4 7 57.1 0 0 - 1 1 100.0 4 4 8 2 2 0 4 2 -10
+p603
+aVJeff Teague ATL 12/21/2012 ATL @ PHI L 22 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 3 1 0 2 4 -9
+p604
+aVKyle Korver ATL 12/21/2012 ATL @ PHI L 22 11 4 9 44.4 2 6 33.3 1 1 100.0 3 2 5 1 0 0 0 2 -11
+p605
+aVAnthony Tolliver ATL 12/21/2012 ATL @ PHI L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p606
+aVIvan Johnson ATL 12/21/2012 ATL @ PHI L 18 4 2 6 33.3 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -5
+p607
+aVLou Williams ATL 12/21/2012 ATL @ PHI L 28 13 4 12 33.3 2 7 28.6 3 3 100.0 1 0 1 4 2 0 4 2 -8
+p608
+aVJohn Jenkins ATL 12/21/2012 ATL @ PHI L 5 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 0 -2
+p609
+aVAnthony Morrow ATL 12/21/2012 ATL @ PHI L 19 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 0 -5
+p610
+aVMike Scott ATL 12/21/2012 ATL @ PHI L 7 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 0 0
+p611
+aVDeShawn Stevenson ATL 12/21/2012 ATL @ PHI L 16 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -13
+p612
+aVAl Horford ATL 12/21/2012 ATL @ PHI L 36 7 2 10 20.0 0 0 - 3 4 75.0 2 6 8 3 0 3 2 0 -13
+p613
+aVJohan Petro ATL 12/21/2012 ATL @ PHI L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p614
+aVIvan Johnson ATL 12/19/2012 ATL vs. OKC L 4 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -9
+p615
+aVKyle Korver ATL 12/19/2012 ATL vs. OKC L 32 9 3 10 30.0 3 7 42.9 0 0 - 0 5 5 3 4 3 2 3 4
+p616
+aVAnthony Tolliver ATL 12/19/2012 ATL vs. OKC L 10 6 1 3 33.3 0 1 0.0 4 6 66.7 1 2 3 0 0 0 1 0 6
+p617
+aVAl Horford ATL 12/19/2012 ATL vs. OKC L 34 13 5 14 35.7 0 0 - 3 3 100.0 1 5 6 3 3 0 1 3 -6
+p618
+aVDeShawn Stevenson ATL 12/19/2012 ATL vs. OKC L 21 0 0 3 0.0 0 2 0.0 0 0 - 0 5 5 1 2 0 1 2 2
+p619
+aVJosh Smith ATL 12/19/2012 ATL vs. OKC L 42 17 8 19 42.1 1 4 25.0 0 3 0.0 5 7 12 3 0 2 3 3 -1
+p620
+aVJohn Jenkins ATL 12/19/2012 ATL vs. OKC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -7
+p621
+aVLou Williams ATL 12/19/2012 ATL vs. OKC L 27 13 5 15 33.3 3 5 60.0 0 0 - 0 0 0 1 2 0 0 1 -8
+p622
+aVZaza Pachulia ATL 12/19/2012 ATL vs. OKC L 18 6 3 8 37.5 0 0 - 0 0 - 5 5 10 0 0 0 0 0 -6
+p623
+aVJeff Teague ATL 12/19/2012 ATL vs. OKC L 33 19 9 13 69.2 1 2 50.0 0 0 - 0 1 1 9 0 1 1 4 1
+p624
+aVAnthony Morrow ATL 12/19/2012 ATL vs. OKC L 11 8 2 6 33.3 1 3 33.3 3 3 100.0 2 0 2 0 0 0 0 2 -16
+p625
+aVLou Williams ATL 12/18/2012 ATL @ WAS W 40 24 6 18 33.3 2 7 28.6 10 11 90.9 0 2 2 1 0 1 1 1 8
+p626
+aVJosh Smith ATL 12/18/2012 ATL @ WAS W 42 17 6 12 50.0 0 2 0.0 5 10 50.0 3 10 13 1 3 5 3 4 12
+p627
+aVDevin Harris ATL 12/18/2012 ATL @ WAS W 14 8 3 6 50.0 2 5 40.0 0 0 - 0 0 0 1 1 0 3 1 -1
+p628
+aVZaza Pachulia ATL 12/18/2012 ATL @ WAS W 15 0 0 2 0.0 0 1 0.0 0 0 - 1 4 5 2 2 0 1 2 -2
+p629
+aVAnthony Tolliver ATL 12/18/2012 ATL @ WAS W 9 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p630
+aVKyle Korver ATL 12/18/2012 ATL @ WAS W 39 16 5 6 83.3 3 4 75.0 3 4 75.0 1 6 7 2 0 1 2 5 3
+p631
+aVIvan Johnson ATL 12/18/2012 ATL @ WAS W 16 5 2 5 40.0 0 1 0.0 1 2 50.0 1 1 2 1 1 0 2 0 -7
+p632
+aVAl Horford ATL 12/18/2012 ATL @ WAS W 44 5 2 11 18.2 0 0 - 1 2 50.0 1 10 11 6 1 1 1 2 8
+p633
+aVJeff Teague ATL 12/18/2012 ATL @ WAS W 33 13 5 12 41.7 1 2 50.0 2 2 100.0 0 3 3 6 2 1 2 5 7
+p634
+aVDeShawn Stevenson ATL 12/18/2012 ATL @ WAS W 13 8 3 3 100.0 1 1 100.0 1 3 33.3 2 3 5 0 0 0 0 0 4
+p635
+aVIvan Johnson ATL 12/15/2012 ATL vs. GSW L 27 15 7 10 70.0 0 0 - 1 3 33.3 3 6 9 2 1 0 2 2 -12
+p636
+aVDeShawn Stevenson ATL 12/15/2012 ATL vs. GSW L 22 6 2 6 33.3 2 5 40.0 0 0 - 0 3 3 0 2 0 0 0 -6
+p637
+aVJohan Petro ATL 12/15/2012 ATL vs. GSW L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -1
+p638
+aVJosh Smith ATL 12/15/2012 ATL vs. GSW L 24 3 1 12 8.3 0 2 0.0 1 2 50.0 3 4 7 3 0 2 3 1 -14
+p639
+aVMike Scott ATL 12/15/2012 ATL vs. GSW L 10 9 1 2 50.0 0 0 - 7 8 87.5 1 2 3 1 0 1 0 0 0
+p640
+aVAnthony Tolliver ATL 12/15/2012 ATL vs. GSW L 14 4 0 1 0.0 0 0 - 4 4 100.0 0 4 4 1 1 0 1 1 4
+p641
+aVKyle Korver ATL 12/15/2012 ATL vs. GSW L 21 3 1 5 20.0 1 5 20.0 0 0 - 0 2 2 0 2 0 0 2 -17
+p642
+aVZaza Pachulia ATL 12/15/2012 ATL vs. GSW L 3 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 1 -4
+p643
+aVJeff Teague ATL 12/15/2012 ATL vs. GSW L 25 10 3 11 27.3 0 1 0.0 4 4 100.0 0 2 2 8 0 0 0 2 -14
+p644
+aVAl Horford ATL 12/15/2012 ATL vs. GSW L 29 17 7 11 63.6 0 0 - 3 6 50.0 0 9 9 2 0 0 1 0 -15
+p645
+aVLou Williams ATL 12/15/2012 ATL vs. GSW L 27 16 6 13 46.2 1 6 16.7 3 4 75.0 0 0 0 1 0 0 2 2 -16
+p646
+aVJohn Jenkins ATL 12/15/2012 ATL vs. GSW L 17 8 3 8 37.5 1 6 16.7 1 1 100.0 0 2 2 1 0 0 1 1 -4
+p647
+aVDevin Harris ATL 12/15/2012 ATL vs. GSW L 16 0 0 3 0.0 0 1 0.0 0 2 0.0 1 0 1 0 0 0 0 3 -11
+p648
+aVJohn Jenkins ATL 12/13/2012 ATL vs. CHA W 4 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 1
+p649
+aVAnthony Morrow ATL 12/13/2012 ATL vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p650
+aVKyle Korver ATL 12/13/2012 ATL vs. CHA W 21 13 5 7 71.4 2 3 66.7 1 2 50.0 0 3 3 2 1 0 2 0 18
+p651
+aVJeff Teague ATL 12/13/2012 ATL vs. CHA W 27 6 2 5 40.0 0 2 0.0 2 3 66.7 0 1 1 4 1 0 1 2 14
+p652
+aVAl Horford ATL 12/13/2012 ATL vs. CHA W 31 11 5 9 55.6 0 0 - 1 3 33.3 1 2 3 3 0 3 1 3 17
+p653
+aVIvan Johnson ATL 12/13/2012 ATL vs. CHA W 28 16 5 8 62.5 0 0 - 6 8 75.0 1 7 8 0 2 0 1 1 14
+p654
+aVJosh Smith ATL 12/13/2012 ATL vs. CHA W 30 18 8 12 66.7 1 2 50.0 1 3 33.3 1 4 5 3 2 0 3 1 21
+p655
+aVDevin Harris ATL 12/13/2012 ATL vs. CHA W 24 20 7 11 63.6 4 8 50.0 2 4 50.0 0 1 1 4 0 0 1 1 9
+p656
+aVLou Williams ATL 12/13/2012 ATL vs. CHA W 25 13 5 10 50.0 3 7 42.9 0 0 - 0 3 3 9 2 0 2 1 10
+p657
+aVDeShawn Stevenson ATL 12/13/2012 ATL vs. CHA W 19 9 3 5 60.0 3 5 60.0 0 0 - 1 6 7 2 0 0 1 0 4
+p658
+aVMike Scott ATL 12/13/2012 ATL vs. CHA W 4 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p659
+aVZaza Pachulia ATL 12/13/2012 ATL vs. CHA W 18 0 0 0 - 0 0 - 0 0 - 3 4 7 0 0 0 0 2 7
+p660
+aVAnthony Tolliver ATL 12/13/2012 ATL vs. CHA W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 1
+p661
+aVDevin Harris ATL 12/12/2012 ATL @ ORL W 30 10 4 8 50.0 1 4 25.0 1 2 50.0 0 4 4 3 1 1 1 2 4
+p662
+aVKyle Korver ATL 12/12/2012 ATL @ ORL W 23 9 3 7 42.9 3 5 60.0 0 0 - 0 2 2 0 1 0 2 1 0
+p663
+aVAl Horford ATL 12/12/2012 ATL @ ORL W 42 13 6 14 42.9 0 0 - 1 2 50.0 3 10 13 4 2 0 1 1 15
+p664
+aVJeff Teague ATL 12/12/2012 ATL @ ORL W 32 16 7 12 58.3 2 4 50.0 0 0 - 1 3 4 3 3 0 4 1 9
+p665
+aVLou Williams ATL 12/12/2012 ATL @ ORL W 34 11 4 9 44.4 0 2 0.0 3 3 100.0 0 0 0 2 2 0 1 2 -5
+p666
+aVZaza Pachulia ATL 12/12/2012 ATL @ ORL W 19 7 3 5 60.0 0 0 - 1 3 33.3 2 7 9 0 0 0 2 3 -17
+p667
+aVJosh Smith ATL 12/12/2012 ATL @ ORL W 36 16 6 14 42.9 0 2 0.0 4 6 66.7 2 9 11 3 1 5 3 0 10
+p668
+aVAnthony Morrow ATL 12/12/2012 ATL @ ORL W 25 4 2 11 18.2 0 5 0.0 0 0 - 0 0 0 1 1 0 0 1 4
+p669
+aVAnthony Tolliver ATL 12/10/2012 ATL @ MIA L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 5
+p670
+aVAnthony Morrow ATL 12/10/2012 ATL @ MIA L 16 6 3 4 75.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 1 2
+p671
+aVLou Williams ATL 12/10/2012 ATL @ MIA L 31 11 3 8 37.5 0 3 0.0 5 5 100.0 0 1 1 4 2 0 1 0 -5
+p672
+aVJeff Teague ATL 12/10/2012 ATL @ MIA L 39 11 3 10 30.0 1 3 33.3 4 4 100.0 1 2 3 3 2 0 5 1 -13
+p673
+aVAl Horford ATL 12/10/2012 ATL @ MIA L 40 20 8 14 57.1 0 0 - 4 4 100.0 4 7 11 1 2 0 3 3 -14
+p674
+aVJohan Petro ATL 12/10/2012 ATL @ MIA L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 5
+p675
+aVDevin Harris ATL 12/10/2012 ATL @ MIA L 23 4 2 7 28.6 0 4 0.0 0 0 - 0 2 2 0 1 0 0 5 -5
+p676
+aVDeShawn Stevenson ATL 12/10/2012 ATL @ MIA L 27 12 4 11 36.4 4 11 36.4 0 0 - 1 3 4 0 0 0 0 1 -11
+p677
+aVJosh Smith ATL 12/10/2012 ATL @ MIA L 37 22 7 18 38.9 4 5 80.0 4 5 80.0 1 2 3 6 0 1 2 2 -11
+p678
+aVJohn Jenkins ATL 12/10/2012 ATL @ MIA L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 5
+p679
+aVZaza Pachulia ATL 12/10/2012 ATL @ MIA L 19 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -3
+p680
+aVZaza Pachulia ATL 12/08/2012 ATL @ MEM W 35 1 0 3 0.0 0 0 - 1 2 50.0 3 6 9 2 0 1 1 4 9
+p681
+aVAl Horford ATL 12/08/2012 ATL @ MEM W 37 19 8 16 50.0 0 0 - 3 4 75.0 6 8 14 3 0 1 3 2 4
+p682
+aVIvan Johnson ATL 12/08/2012 ATL @ MEM W 11 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 1 0 2 0 0
+p683
+aVAnthony Morrow ATL 12/08/2012 ATL @ MEM W 19 6 1 5 20.0 0 3 0.0 4 5 80.0 1 4 5 3 0 0 1 3 -2
+p684
+aVAnthony Tolliver ATL 12/08/2012 ATL @ MEM W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p685
+aVDevin Harris ATL 12/08/2012 ATL @ MEM W 25 3 0 2 0.0 0 0 - 3 4 75.0 0 3 3 0 2 0 1 1 -5
+p686
+aVLou Williams ATL 12/08/2012 ATL @ MEM W 31 21 6 16 37.5 4 6 66.7 5 7 71.4 0 3 3 1 2 0 2 2 9
+p687
+aVJosh Smith ATL 12/08/2012 ATL @ MEM W 40 24 10 17 58.8 2 4 50.0 2 3 66.7 3 5 8 4 3 1 4 2 18
+p688
+aVJeff Teague ATL 12/08/2012 ATL @ MEM W 38 13 6 13 46.2 1 4 25.0 0 0 - 1 1 2 6 2 0 0 2 16
+p689
+aVJohn Jenkins ATL 12/07/2012 ATL vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p690
+aVJosh Smith ATL 12/07/2012 ATL vs. WAS W 38 23 9 20 45.0 1 2 50.0 4 7 57.1 6 9 15 4 2 0 2 2 23
+p691
+aVDeShawn Stevenson ATL 12/07/2012 ATL vs. WAS W 30 15 5 11 45.5 5 11 45.5 0 0 - 1 2 3 2 0 0 0 1 22
+p692
+aVAnthony Morrow ATL 12/07/2012 ATL vs. WAS W 12 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -10
+p693
+aVDevin Harris ATL 12/07/2012 ATL vs. WAS W 36 15 5 11 45.5 2 8 25.0 3 4 75.0 0 1 1 6 0 0 3 4 -6
+p694
+aVAl Horford ATL 12/07/2012 ATL vs. WAS W 42 14 7 11 63.6 0 0 - 0 2 0.0 2 12 14 1 1 1 2 4 8
+p695
+aVZaza Pachulia ATL 12/07/2012 ATL vs. WAS W 27 4 1 2 50.0 0 0 - 2 2 100.0 5 4 9 4 1 0 0 2 -2
+p696
+aVJeff Teague ATL 12/07/2012 ATL vs. WAS W 39 19 8 22 36.4 0 3 0.0 3 4 75.0 1 3 4 6 2 0 3 2 21
+p697
+aVLou Williams ATL 12/07/2012 ATL vs. WAS W 16 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 0 1 0 4 3 -9
+p698
+aVJeff Teague ATL 12/05/2012 ATL vs. DEN W 29 9 4 16 25.0 1 4 25.0 0 0 - 0 1 1 4 1 0 2 3 -18
+p699
+aVAl Horford ATL 12/05/2012 ATL vs. DEN W 42 25 12 20 60.0 0 1 0.0 1 1 100.0 6 6 12 4 4 1 3 5 0
+p700
+aVDevin Harris ATL 12/05/2012 ATL vs. DEN W 31 12 5 6 83.3 2 3 66.7 0 0 - 0 3 3 5 3 0 3 2 5
+p701
+aVJosh Smith ATL 12/05/2012 ATL vs. DEN W 30 16 6 15 40.0 0 1 0.0 4 6 66.7 5 8 13 2 1 1 2 2 -7
+p702
+aVDeShawn Stevenson ATL 12/05/2012 ATL vs. DEN W 33 9 3 6 50.0 3 5 60.0 0 0 - 0 3 3 0 1 1 1 2 2
+p703
+aVAnthony Morrow ATL 12/05/2012 ATL vs. DEN W 7 4 2 6 33.3 0 2 0.0 0 0 - 2 1 3 0 0 0 0 0 7
+p704
+aVZaza Pachulia ATL 12/05/2012 ATL vs. DEN W 23 11 3 7 42.9 0 0 - 5 6 83.3 4 3 7 2 0 1 1 2 8
+p705
+aVIvan Johnson ATL 12/05/2012 ATL vs. DEN W 16 6 3 6 50.0 0 0 - 0 0 - 2 2 4 1 1 0 0 1 6
+p706
+aVLou Williams ATL 12/05/2012 ATL vs. DEN W 30 16 4 13 30.8 2 6 33.3 6 6 100.0 0 1 1 6 2 1 2 2 17
+p707
+aVLou Williams ATL 11/30/2012 ATL vs. CLE L 26 18 5 10 50.0 3 5 60.0 5 5 100.0 1 2 3 0 0 0 0 2 1
+p708
+aVDeShawn Stevenson ATL 11/30/2012 ATL vs. CLE L 31 12 4 6 66.7 4 6 66.7 0 0 - 0 1 1 4 0 0 0 2 -15
+p709
+aVIvan Johnson ATL 11/30/2012 ATL vs. CLE L 9 6 2 3 66.7 1 1 100.0 1 2 50.0 0 2 2 1 1 0 0 0 18
+p710
+aVJeff Teague ATL 11/30/2012 ATL vs. CLE L 38 15 4 11 36.4 1 2 50.0 6 8 75.0 0 0 0 7 6 0 4 1 4
+p711
+aVJosh Smith ATL 11/30/2012 ATL vs. CLE L 33 25 9 19 47.4 2 2 100.0 5 9 55.6 3 5 8 3 2 3 3 4 -14
+p712
+aVAl Horford ATL 11/30/2012 ATL vs. CLE L 42 15 6 12 50.0 0 0 - 3 5 60.0 4 7 11 5 0 1 3 3 6
+p713
+aVZaza Pachulia ATL 11/30/2012 ATL vs. CLE L 21 2 1 5 20.0 0 0 - 0 0 - 2 0 2 1 0 1 1 1 3
+p714
+aVAnthony Morrow ATL 11/30/2012 ATL vs. CLE L 6 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 1 0 0 2 -7
+p715
+aVDevin Harris ATL 11/30/2012 ATL vs. CLE L 34 13 5 9 55.6 0 2 0.0 3 3 100.0 0 1 1 4 2 0 1 3 -6
+p716
+aVJosh Smith ATL 11/28/2012 ATL vs. CHA W 37 17 7 15 46.7 0 1 0.0 3 5 60.0 4 9 13 6 3 5 2 4 2
+p717
+aVLou Williams ATL 11/28/2012 ATL vs. CHA W 29 17 7 16 43.8 3 8 37.5 0 0 - 0 1 1 5 1 0 0 1 5
+p718
+aVJeff Teague ATL 11/28/2012 ATL vs. CHA W 28 11 4 10 40.0 3 5 60.0 0 0 - 2 0 2 5 1 0 2 4 4
+p719
+aVDeShawn Stevenson ATL 11/28/2012 ATL vs. CHA W 21 3 1 5 20.0 1 4 25.0 0 0 - 0 4 4 0 0 1 0 3 -9
+p720
+aVAnthony Morrow ATL 11/28/2012 ATL vs. CHA W 16 8 3 5 60.0 1 1 100.0 1 2 50.0 1 1 2 0 0 0 1 2 -1
+p721
+aVAl Horford ATL 11/28/2012 ATL vs. CHA W 42 17 7 15 46.7 0 0 - 3 3 100.0 4 7 11 6 1 3 2 1 5
+p722
+aVZaza Pachulia ATL 11/28/2012 ATL vs. CHA W 21 6 2 7 28.6 0 0 - 2 3 66.7 4 2 6 0 0 0 1 2 0
+p723
+aVDevin Harris ATL 11/28/2012 ATL vs. CHA W 24 7 2 7 28.6 2 6 33.3 1 2 50.0 0 1 1 4 2 0 1 0 1
+p724
+aVKyle Korver ATL 11/28/2012 ATL vs. CHA W 23 8 3 10 30.0 2 7 28.6 0 0 - 0 4 4 2 1 0 0 1 8
+p725
+aVLou Williams ATL 11/24/2012 ATL vs. LAC W 25 18 5 9 55.6 2 4 50.0 6 6 100.0 0 1 1 5 0 0 3 3 5
+p726
+aVAnthony Morrow ATL 11/24/2012 ATL vs. LAC W 25 9 3 8 37.5 1 1 100.0 2 2 100.0 0 2 2 0 1 0 1 2 -2
+p727
+aVJeff Teague ATL 11/24/2012 ATL vs. LAC W 45 19 7 14 50.0 1 4 25.0 4 5 80.0 1 3 4 11 1 0 5 3 12
+p728
+aVJohan Petro ATL 11/24/2012 ATL vs. LAC W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p729
+aVJosh Smith ATL 11/24/2012 ATL vs. LAC W 24 17 7 9 77.8 1 1 100.0 2 3 66.7 0 2 2 3 0 2 1 3 15
+p730
+aVZaza Pachulia ATL 11/24/2012 ATL vs. LAC W 37 19 7 9 77.8 0 0 - 5 7 71.4 3 9 12 3 1 0 3 2 31
+p731
+aVJohn Jenkins ATL 11/24/2012 ATL vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p732
+aVMike Scott ATL 11/24/2012 ATL vs. LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -8
+p733
+aVKyle Korver ATL 11/24/2012 ATL vs. LAC W 26 8 2 7 28.6 2 7 28.6 2 2 100.0 0 2 2 1 1 0 1 0 6
+p734
+aVIvan Johnson ATL 11/24/2012 ATL vs. LAC W 17 4 2 5 40.0 0 0 - 0 0 - 1 6 7 0 1 0 0 2 11
+p735
+aVAl Horford ATL 11/24/2012 ATL vs. LAC W 34 10 5 11 45.5 0 0 - 0 1 0.0 3 5 8 3 0 0 3 3 1
+p736
+aVIvan Johnson ATL 11/23/2012 ATL @ CHA W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p737
+aVDeShawn Stevenson ATL 11/23/2012 ATL @ CHA W 36 9 3 7 42.9 3 6 50.0 0 2 0.0 0 6 6 2 0 1 4 2 14
+p738
+aVAl Horford ATL 11/23/2012 ATL @ CHA W 39 26 13 17 76.5 0 0 - 0 1 0.0 5 8 13 2 0 3 2 0 10
+p739
+aVZaza Pachulia ATL 11/23/2012 ATL @ CHA W 14 9 3 4 75.0 0 0 - 3 4 75.0 2 5 7 1 1 1 3 2 0
+p740
+aVKyle Korver ATL 11/23/2012 ATL @ CHA W 30 16 6 10 60.0 4 6 66.7 0 0 - 0 6 6 2 1 2 1 1 11
+p741
+aVJeff Teague ATL 11/23/2012 ATL @ CHA W 29 13 5 13 38.5 3 4 75.0 0 0 - 0 3 3 12 1 0 3 4 17
+p742
+aVDevin Harris ATL 11/23/2012 ATL @ CHA W 18 8 3 6 50.0 1 3 33.3 1 3 33.3 0 0 0 1 1 3 0 1 -4
+p743
+aVJosh Smith ATL 11/23/2012 ATL @ CHA W 38 10 4 12 33.3 0 0 - 2 4 50.0 0 4 4 8 2 2 5 2 13
+p744
+aVAnthony Morrow ATL 11/23/2012 ATL @ CHA W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 3
+p745
+aVLou Williams ATL 11/23/2012 ATL @ CHA W 26 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 1 0 3 2 3 -11
+p746
+aVZaza Pachulia ATL 11/21/2012 ATL vs. WAS W 18 7 2 4 50.0 0 0 - 3 3 100.0 3 3 6 2 2 0 1 3 -7
+p747
+aVDeShawn Stevenson ATL 11/21/2012 ATL vs. WAS W 9 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 1 -2
+p748
+aVDevin Harris ATL 11/21/2012 ATL vs. WAS W 34 13 4 8 50.0 3 6 50.0 2 2 100.0 1 2 3 5 2 0 1 0 19
+p749
+aVLou Williams ATL 11/21/2012 ATL vs. WAS W 17 9 4 10 40.0 1 4 25.0 0 0 - 0 0 0 3 1 0 1 1 -19
+p750
+aVKyle Korver ATL 11/21/2012 ATL vs. WAS W 45 16 5 12 41.7 5 12 41.7 1 1 100.0 0 2 2 1 1 0 1 5 9
+p751
+aVJeff Teague ATL 11/21/2012 ATL vs. WAS W 46 14 6 18 33.3 0 2 0.0 2 2 100.0 0 1 1 7 2 0 0 3 13
+p752
+aVAl Horford ATL 11/21/2012 ATL vs. WAS W 44 15 7 17 41.2 0 0 - 1 10 10.0 2 7 9 10 1 1 1 3 10
+p753
+aVAnthony Morrow ATL 11/21/2012 ATL vs. WAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p754
+aVIvan Johnson ATL 11/21/2012 ATL vs. WAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -13
+p755
+aVJosh Smith ATL 11/21/2012 ATL vs. WAS W 43 25 11 19 57.9 0 0 - 3 3 100.0 3 9 12 1 2 4 6 6 3
+p756
+aVZaza Pachulia ATL 11/19/2012 ATL vs. ORL W 22 8 3 5 60.0 0 0 - 2 2 100.0 3 8 11 1 0 0 2 3 16
+p757
+aVJohn Jenkins ATL 11/19/2012 ATL vs. ORL W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -10
+p758
+aVAl Horford ATL 11/19/2012 ATL vs. ORL W 25 15 6 11 54.5 0 0 - 3 5 60.0 1 8 9 3 1 0 2 0 8
+p759
+aVDeShawn Stevenson ATL 11/19/2012 ATL vs. ORL W 12 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 1 0 0 1 5
+p760
+aVLou Williams ATL 11/19/2012 ATL vs. ORL W 28 14 6 12 50.0 0 3 0.0 2 2 100.0 0 3 3 3 1 1 0 2 3
+p761
+aVAnthony Morrow ATL 11/19/2012 ATL vs. ORL W 21 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 1 2 0 0 2 5
+p762
+aVDevin Harris ATL 11/19/2012 ATL vs. ORL W 25 8 3 7 42.9 2 5 40.0 0 0 - 0 4 4 1 3 0 1 2 6
+p763
+aVIvan Johnson ATL 11/19/2012 ATL vs. ORL W 18 9 4 8 50.0 0 0 - 1 1 100.0 1 7 8 0 1 0 1 3 9
+p764
+aVJeff Teague ATL 11/19/2012 ATL vs. ORL W 27 9 4 9 44.4 1 2 50.0 0 0 - 1 1 2 7 2 1 3 1 12
+p765
+aVAnthony Tolliver ATL 11/19/2012 ATL vs. ORL W 4 0 0 2 0.0 0 2 0.0 0 0 - 2 1 3 0 0 0 1 0 -8
+p766
+aVMike Scott ATL 11/19/2012 ATL vs. ORL W 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -10
+p767
+aVKyle Korver ATL 11/19/2012 ATL vs. ORL W 25 5 2 11 18.2 1 6 16.7 0 0 - 2 1 3 1 0 1 0 0 6
+p768
+aVJosh Smith ATL 11/19/2012 ATL vs. ORL W 22 6 3 10 30.0 0 0 - 0 3 0.0 1 1 2 1 1 1 2 3 3
+p769
+aVJohn Jenkins ATL 11/16/2012 ATL @ SAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p770
+aVJosh Smith ATL 11/16/2012 ATL @ SAC W 40 19 9 17 52.9 1 3 33.3 0 0 - 3 5 8 6 0 3 5 2 25
+p771
+aVAnthony Morrow ATL 11/16/2012 ATL @ SAC W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p772
+aVDevin Harris ATL 11/16/2012 ATL @ SAC W 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 0
+p773
+aVAl Horford ATL 11/16/2012 ATL @ SAC W 44 20 8 19 42.1 0 0 - 4 6 66.7 3 7 10 1 1 0 2 2 10
+p774
+aVIvan Johnson ATL 11/16/2012 ATL @ SAC W 17 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 2 0 0 1 -2
+p775
+aVMike Scott ATL 11/16/2012 ATL @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p776
+aVKyle Korver ATL 11/16/2012 ATL @ SAC W 37 22 7 9 77.8 5 5 100.0 3 3 100.0 0 7 7 3 1 0 0 1 10
+p777
+aVZaza Pachulia ATL 11/16/2012 ATL @ SAC W 34 7 2 5 40.0 0 0 - 3 6 50.0 4 3 7 4 1 0 2 3 24
+p778
+aVLou Williams ATL 11/16/2012 ATL @ SAC W 29 21 5 8 62.5 2 5 40.0 9 11 81.8 0 4 4 5 2 0 0 2 13
+p779
+aVJeff Teague ATL 11/16/2012 ATL @ SAC W 19 15 7 10 70.0 0 2 0.0 1 1 100.0 0 2 2 3 1 2 5 1 3
+p780
+aVAnthony Tolliver ATL 11/14/2012 ATL @ GSW L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -8
+p781
+aVDeShawn Stevenson ATL 11/14/2012 ATL @ GSW L 31 7 3 9 33.3 1 6 16.7 0 0 - 0 2 2 3 0 1 1 1 1
+p782
+aVMike Scott ATL 11/14/2012 ATL @ GSW L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p783
+aVJosh Smith ATL 11/14/2012 ATL @ GSW L 41 16 6 16 37.5 0 0 - 4 4 100.0 1 9 10 4 3 2 3 2 7
+p784
+aVAnthony Morrow ATL 11/14/2012 ATL @ GSW L 12 3 1 5 20.0 0 2 0.0 1 1 100.0 0 0 0 0 0 0 0 0 -13
+p785
+aVKyle Korver ATL 11/14/2012 ATL @ GSW L 38 14 5 6 83.3 2 3 66.7 2 2 100.0 0 3 3 3 1 0 0 2 6
+p786
+aVIvan Johnson ATL 11/14/2012 ATL @ GSW L 22 15 7 8 87.5 0 0 - 1 4 25.0 3 1 4 0 2 0 2 5 0
+p787
+aVZaza Pachulia ATL 11/14/2012 ATL @ GSW L 24 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 4 1 1 2 -1
+p788
+aVJeff Teague ATL 11/14/2012 ATL @ GSW L 27 9 4 12 33.3 1 2 50.0 0 0 - 0 4 4 4 0 0 2 1 2
+p789
+aVLou Williams ATL 11/14/2012 ATL @ GSW L 25 18 5 14 35.7 3 8 37.5 5 7 71.4 0 3 3 6 1 0 2 1 -4
+p790
+aVJohan Petro ATL 11/14/2012 ATL @ GSW L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p791
+aVAnthony Tolliver ATL 11/12/2012 ATL @ POR W 10 4 1 3 33.3 0 2 0.0 2 2 100.0 0 1 1 0 1 0 3 1 -4
+p792
+aVKyle Korver ATL 11/12/2012 ATL @ POR W 31 16 5 8 62.5 4 6 66.7 2 2 100.0 0 3 3 2 2 0 2 4 12
+p793
+aVLou Williams ATL 11/12/2012 ATL @ POR W 18 11 3 7 42.9 0 3 0.0 5 6 83.3 1 0 1 1 4 0 1 1 -4
+p794
+aVDevin Harris ATL 11/12/2012 ATL @ POR W 9 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 2 0 0 0 1 -2
+p795
+aVAnthony Morrow ATL 11/12/2012 ATL @ POR W 13 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 1 1 0 3 4
+p796
+aVJeff Teague ATL 11/12/2012 ATL @ POR W 34 13 4 11 36.4 0 1 0.0 5 6 83.3 0 2 2 8 3 0 3 0 13
+p797
+aVIvan Johnson ATL 11/12/2012 ATL @ POR W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p798
+aVDeShawn Stevenson ATL 11/12/2012 ATL @ POR W 38 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 0 2 0 1 0 3
+p799
+aVZaza Pachulia ATL 11/12/2012 ATL @ POR W 23 2 1 6 16.7 0 0 - 0 0 - 3 6 9 0 0 2 0 2 -14
+p800
+aVAl Horford ATL 11/12/2012 ATL @ POR W 31 15 6 10 60.0 0 0 - 3 4 75.0 2 8 10 4 0 0 4 4 17
+p801
+aVJosh Smith ATL 11/12/2012 ATL @ POR W 28 19 9 22 40.9 0 0 - 1 1 100.0 0 11 11 3 1 1 2 5 18
+p802
+aVAnthony Tolliver ATL 11/11/2012 ATL @ LAC L 16 8 3 6 50.0 0 1 0.0 2 3 66.7 1 2 3 0 0 0 0 0 -3
+p803
+aVZaza Pachulia ATL 11/11/2012 ATL @ LAC L 30 5 2 5 40.0 0 1 0.0 1 2 50.0 1 5 6 0 0 1 4 2 -9
+p804
+aVJohn Jenkins ATL 11/11/2012 ATL @ LAC L 4 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 7
+p805
+aVAl Horford ATL 11/11/2012 ATL @ LAC L 36 11 5 10 50.0 0 0 - 1 2 50.0 3 6 9 2 0 0 1 0 -12
+p806
+aVLou Williams ATL 11/11/2012 ATL @ LAC L 19 11 4 9 44.4 3 5 60.0 0 0 - 0 1 1 2 1 0 2 0 -15
+p807
+aVDevin Harris ATL 11/11/2012 ATL @ LAC L 25 5 2 7 28.6 1 5 20.0 0 2 0.0 0 4 4 3 0 2 2 1 -7
+p808
+aVKyle Korver ATL 11/11/2012 ATL @ LAC L 30 7 2 6 33.3 2 6 33.3 1 1 100.0 0 5 5 2 1 2 1 0 -11
+p809
+aVJosh Smith ATL 11/11/2012 ATL @ LAC L 35 13 6 14 42.9 1 3 33.3 0 4 0.0 1 5 6 4 1 3 5 5 -15
+p810
+aVIvan Johnson ATL 11/11/2012 ATL @ LAC L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 1 2 3 0
+p811
+aVJeff Teague ATL 11/11/2012 ATL @ LAC L 27 8 3 8 37.5 2 4 50.0 0 0 - 1 0 1 6 0 0 4 1 -7
+p812
+aVMike Scott ATL 11/11/2012 ATL @ LAC L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 7
+p813
+aVLou Williams ATL 11/09/2012 ATL vs. MIA L 19 2 0 6 0.0 0 3 0.0 2 2 100.0 0 3 3 3 0 0 2 0 -9
+p814
+aVAl Horford ATL 11/09/2012 ATL vs. MIA L 35 10 5 9 55.6 0 0 - 0 0 - 1 6 7 2 0 2 0 1 -12
+p815
+aVAnthony Tolliver ATL 11/09/2012 ATL vs. MIA L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 0 1 0 2 1 -2
+p816
+aVZaza Pachulia ATL 11/09/2012 ATL vs. MIA L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 1 0 0 1 2 -4
+p817
+aVJosh Smith ATL 11/09/2012 ATL vs. MIA L 36 13 6 19 31.6 0 2 0.0 1 5 20.0 3 5 8 0 2 2 3 2 -3
+p818
+aVIvan Johnson ATL 11/09/2012 ATL vs. MIA L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p819
+aVDevin Harris ATL 11/09/2012 ATL vs. MIA L 20 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 3 0 0 2 1 -10
+p820
+aVKyle Korver ATL 11/09/2012 ATL vs. MIA L 30 11 4 10 40.0 3 7 42.9 0 0 - 1 1 2 0 1 0 1 5 -1
+p821
+aVJeff Teague ATL 11/09/2012 ATL vs. MIA L 27 20 7 8 87.5 2 2 100.0 4 4 100.0 0 3 3 11 0 1 2 2 3
+p822
+aVAnthony Morrow ATL 11/09/2012 ATL vs. MIA L 15 17 6 11 54.5 2 2 100.0 3 3 100.0 1 0 1 0 0 0 0 2 5
+p823
+aVDeShawn Stevenson ATL 11/09/2012 ATL vs. MIA L 24 3 1 7 14.3 1 5 20.0 0 0 - 0 1 1 0 0 0 0 0 3
+p824
+aVKyle Korver ATL 11/07/2012 ATL vs. IND W 31 13 5 13 38.5 3 9 33.3 0 0 - 1 4 5 1 0 0 2 1 3
+p825
+aVAl Horford ATL 11/07/2012 ATL vs. IND W 33 16 7 12 58.3 0 0 - 2 3 66.7 1 8 9 1 0 3 2 1 -5
+p826
+aVZaza Pachulia ATL 11/07/2012 ATL vs. IND W 34 6 3 5 60.0 0 0 - 0 0 - 6 8 14 1 1 0 3 1 -4
+p827
+aVLou Williams ATL 11/07/2012 ATL vs. IND W 21 9 4 11 36.4 1 5 20.0 0 0 - 1 2 3 3 0 0 2 0 2
+p828
+aVDeShawn Stevenson ATL 11/07/2012 ATL vs. IND W 17 8 2 2 100.0 2 2 100.0 2 3 66.7 1 2 3 1 1 0 0 0 0
+p829
+aVJosh Smith ATL 11/07/2012 ATL vs. IND W 35 11 5 12 41.7 0 1 0.0 1 5 20.0 3 2 5 7 1 0 1 3 3
+p830
+aVAnthony Tolliver ATL 11/07/2012 ATL vs. IND W 14 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 1 2 0 0 1 -1
+p831
+aVDevin Harris ATL 11/07/2012 ATL vs. IND W 15 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 4 4 -3
+p832
+aVIvan Johnson ATL 11/07/2012 ATL vs. IND W 9 5 2 4 50.0 0 0 - 1 1 100.0 2 1 3 0 0 0 1 3 11
+p833
+aVJeff Teague ATL 11/07/2012 ATL vs. IND W 32 15 7 15 46.7 1 3 33.3 0 0 - 1 5 6 6 3 0 2 1 9
+p834
+aVAl Horford ATL 11/04/2012 ATL @ OKC W 33 23 11 19 57.9 0 0 - 1 2 50.0 6 6 12 3 1 1 0 4 9
+p835
+aVDevin Harris ATL 11/04/2012 ATL @ OKC W 23 7 2 5 40.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 3 14
+p836
+aVIvan Johnson ATL 11/04/2012 ATL @ OKC W 12 10 5 6 83.3 0 1 0.0 0 2 0.0 0 4 4 0 1 0 2 2 5
+p837
+aVZaza Pachulia ATL 11/04/2012 ATL @ OKC W 28 6 3 5 60.0 0 0 - 0 0 - 2 4 6 6 1 0 2 5 5
+p838
+aVJeff Teague ATL 11/04/2012 ATL @ OKC W 26 16 7 12 58.3 0 0 - 2 2 100.0 2 1 3 5 3 0 3 0 -3
+p839
+aVDeShawn Stevenson ATL 11/04/2012 ATL @ OKC W 34 8 3 9 33.3 2 7 28.6 0 0 - 1 4 5 0 0 0 0 1 4
+p840
+aVAnthony Morrow ATL 11/04/2012 ATL @ OKC W 14 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 3 0 0 1 5
+p841
+aVAnthony Tolliver ATL 11/04/2012 ATL @ OKC W 23 6 2 6 33.3 2 4 50.0 0 0 - 1 2 3 0 0 0 1 1 -1
+p842
+aVKyle Korver ATL 11/04/2012 ATL @ OKC W 20 4 1 5 20.0 1 5 20.0 1 3 33.3 0 4 4 1 1 0 0 3 1
+p843
+aVLou Williams ATL 11/04/2012 ATL @ OKC W 28 19 5 14 35.7 1 6 16.7 8 9 88.9 0 0 0 4 2 0 2 0 6
+p844
+aVAl Horford ATL 11/02/2012 ATL vs. HOU L 37 14 6 10 60.0 0 0 - 2 2 100.0 0 5 5 3 1 0 2 1 -11
+p845
+aVZaza Pachulia ATL 11/02/2012 ATL vs. HOU L 22 13 4 5 80.0 0 0 - 5 6 83.3 5 3 8 1 0 0 0 4 -3
+p846
+aVKyle Korver ATL 11/02/2012 ATL vs. HOU L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 2 0 0 5 -6
+p847
+aVDevin Harris ATL 11/02/2012 ATL vs. HOU L 22 9 4 10 40.0 1 5 20.0 0 0 - 0 2 2 2 2 0 1 0 -5
+p848
+aVDeShawn Stevenson ATL 11/02/2012 ATL vs. HOU L 29 12 4 6 66.7 4 6 66.7 0 0 - 1 1 2 1 2 0 0 6 2
+p849
+aVLou Williams ATL 11/02/2012 ATL vs. HOU L 31 22 7 17 41.2 2 5 40.0 6 7 85.7 0 4 4 5 3 0 3 2 4
+p850
+aVJeff Teague ATL 11/02/2012 ATL vs. HOU L 27 14 6 10 60.0 0 0 - 2 2 100.0 0 1 1 7 2 1 4 4 -10
+p851
+aVAnthony Tolliver ATL 11/02/2012 ATL vs. HOU L 16 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 2 1
+p852
+aVJosh Smith ATL 11/02/2012 ATL vs. HOU L 42 18 9 21 42.9 0 1 0.0 0 0 - 1 9 10 2 0 3 3 2 -7
+p853
+a.

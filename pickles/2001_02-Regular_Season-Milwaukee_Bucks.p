@@ -1,0 +1,1608 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGlenn Robinson MIL 04/17/2002 MIL @ DET L 31 20 7 15 46.7 0 3 0.0 6 9 66.7 0 4 4 1 1 0 4 3 -19
+p2
+aVDarvin Ham MIL 04/17/2002 MIL @ DET L 15 4 2 5 40.0 0 1 0.0 0 0 - 2 2 4 1 0 0 1 2 -19
+p3
+aVRay Allen MIL 04/17/2002 MIL @ DET L 23 6 2 7 28.6 2 4 50.0 0 0 - 0 2 2 2 0 0 2 2 -11
+p4
+aVErvin Johnson MIL 04/17/2002 MIL @ DET L 23 10 5 6 83.3 0 0 - 0 2 0.0 3 4 7 0 0 0 0 2 -17
+p5
+aVTim Thomas MIL 04/17/2002 MIL @ DET L 12 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 1 0 4 -19
+p6
+aVMark Pope MIL 04/17/2002 MIL @ DET L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p7
+aVGreg Anthony MIL 04/17/2002 MIL @ DET L 25 2 1 5 20.0 0 1 0.0 0 0 - 1 5 6 6 1 0 3 3 -19
+p8
+aVJoel Przybilla MIL 04/17/2002 MIL @ DET L 18 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 2 1 0 6 -5
+p9
+aVRafer Alston MIL 04/17/2002 MIL @ DET L 8 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 -6
+p10
+aVMichael Redd MIL 04/17/2002 MIL @ DET L 23 21 9 19 47.4 0 6 0.0 3 4 75.0 2 2 4 0 1 0 1 1 -14
+p11
+aVSam Cassell MIL 04/17/2002 MIL @ DET L 19 6 3 7 42.9 0 0 - 0 0 - 0 1 1 4 1 0 1 3 -15
+p12
+aVAnthony Mason MIL 04/17/2002 MIL @ DET L 31 10 4 8 50.0 0 0 - 2 2 100.0 2 1 3 3 0 0 1 3 -26
+p13
+aVJoel Przybilla MIL 04/16/2002 MIL vs. TOR W 22 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 4 1 3 -6
+p14
+aVAnthony Mason MIL 04/16/2002 MIL vs. TOR W 39 18 8 9 88.9 0 0 - 2 6 33.3 0 4 4 1 0 0 2 2 22
+p15
+aVErvin Johnson MIL 04/16/2002 MIL vs. TOR W 26 6 3 5 60.0 0 0 - 0 0 - 7 4 11 0 1 1 1 3 22
+p16
+aVMark Pope MIL 04/16/2002 MIL vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p17
+aVGreg Anthony MIL 04/16/2002 MIL vs. TOR W 19 7 2 7 28.6 1 3 33.3 2 2 100.0 0 1 1 1 0 0 1 1 1
+p18
+aVRay Allen MIL 04/16/2002 MIL vs. TOR W 34 23 8 14 57.1 4 9 44.4 3 3 100.0 0 5 5 4 1 1 1 2 26
+p19
+aVDarvin Ham MIL 04/16/2002 MIL vs. TOR W 9 1 0 0 - 0 0 - 1 2 50.0 3 0 3 2 1 0 0 1 -6
+p20
+aVRafer Alston MIL 04/16/2002 MIL vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p21
+aVTim Thomas MIL 04/16/2002 MIL vs. TOR W 21 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 1 1 0 2 0 -9
+p22
+aVSam Cassell MIL 04/16/2002 MIL vs. TOR W 29 24 9 16 56.3 0 0 - 6 7 85.7 0 4 4 9 1 0 1 2 15
+p23
+aVGlenn Robinson MIL 04/16/2002 MIL vs. TOR W 38 22 10 20 50.0 0 3 0.0 2 2 100.0 1 5 6 1 3 1 3 3 19
+p24
+aVErvin Johnson MIL 04/14/2002 MIL vs. CHH W 29 4 2 6 33.3 0 0 - 0 0 - 2 9 11 0 2 0 1 2 3
+p25
+aVRay Allen MIL 04/14/2002 MIL vs. CHH W 44 47 15 23 65.2 10 14 71.4 7 7 100.0 3 1 4 4 3 0 3 3 10
+p26
+aVJoel Przybilla MIL 04/14/2002 MIL vs. CHH W 18 4 1 3 33.3 0 0 - 2 5 40.0 2 3 5 0 1 1 1 5 1
+p27
+aVGlenn Robinson MIL 04/14/2002 MIL vs. CHH W 33 23 10 16 62.5 2 3 66.7 1 2 50.0 0 2 2 3 0 0 1 3 4
+p28
+aVTim Thomas MIL 04/14/2002 MIL vs. CHH W 19 0 0 7 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 3 5 -3
+p29
+aVGreg Anthony MIL 04/14/2002 MIL vs. CHH W 32 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 5 4 0 2 1 1
+p30
+aVDarvin Ham MIL 04/14/2002 MIL vs. CHH W 7 2 0 1 0.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 1 1 5
+p31
+aVAnthony Mason MIL 04/14/2002 MIL vs. CHH W 40 10 4 12 33.3 0 0 - 2 4 50.0 0 5 5 2 0 0 1 2 6
+p32
+aVSam Cassell MIL 04/14/2002 MIL vs. CHH W 19 2 0 1 0.0 0 0 - 2 2 100.0 2 3 5 4 1 0 2 1 8
+p33
+aVRay Allen MIL 04/12/2002 MIL @ IND L 41 24 9 21 42.9 4 10 40.0 2 2 100.0 1 1 2 3 1 0 1 2 -12
+p34
+aVJoel Przybilla MIL 04/12/2002 MIL @ IND L 17 2 1 1 100.0 0 0 - 0 0 - 2 3 5 1 0 2 0 2 -10
+p35
+aVErvin Johnson MIL 04/12/2002 MIL @ IND L 27 10 5 7 71.4 0 0 - 0 0 - 1 3 4 0 0 1 1 6 2
+p36
+aVAnthony Mason MIL 04/12/2002 MIL @ IND L 51 23 9 11 81.8 0 0 - 5 7 71.4 1 8 9 8 2 0 2 4 -4
+p37
+aVTim Thomas MIL 04/12/2002 MIL @ IND L 19 7 3 5 60.0 1 3 33.3 0 0 - 2 5 7 1 2 0 2 4 5
+p38
+aVGlenn Robinson MIL 04/12/2002 MIL @ IND L 45 12 6 19 31.6 0 3 0.0 0 0 - 2 10 12 1 2 1 2 3 -7
+p39
+aVDarvin Ham MIL 04/12/2002 MIL @ IND L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p40
+aVGreg Anthony MIL 04/12/2002 MIL @ IND L 18 5 2 4 50.0 0 1 0.0 1 2 50.0 0 0 0 3 2 0 0 2 5
+p41
+aVSam Cassell MIL 04/12/2002 MIL @ IND L 40 24 7 20 35.0 1 1 100.0 9 10 90.0 0 1 1 5 1 1 1 2 -6
+p42
+aVDarvin Ham MIL 04/10/2002 MIL @ CLE L 21 0 0 3 0.0 0 0 - 0 2 0.0 3 2 5 2 0 1 2 4 -13
+p43
+aVMark Pope MIL 04/10/2002 MIL @ CLE L 8 0 0 5 0.0 0 0 - 0 0 - 2 0 2 0 1 0 0 0 1
+p44
+aVRay Allen MIL 04/10/2002 MIL @ CLE L 33 16 6 15 40.0 3 8 37.5 1 2 50.0 2 2 4 4 1 0 4 2 -8
+p45
+aVRafer Alston MIL 04/10/2002 MIL @ CLE L 14 7 1 4 25.0 1 3 33.3 4 4 100.0 0 2 2 1 2 0 2 1 -4
+p46
+aVJoel Przybilla MIL 04/10/2002 MIL @ CLE L 21 5 1 2 50.0 0 0 - 3 6 50.0 0 2 2 0 0 1 0 4 -14
+p47
+aVAnthony Mason MIL 04/10/2002 MIL @ CLE L 33 8 4 6 66.7 0 0 - 0 0 - 0 4 4 2 0 0 1 0 -18
+p48
+aVGreg Foster MIL 04/10/2002 MIL @ CLE L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p49
+aVSam Cassell MIL 04/10/2002 MIL @ CLE L 18 10 4 10 40.0 0 0 - 2 2 100.0 0 2 2 5 1 2 2 1 -15
+p50
+aVErvin Johnson MIL 04/10/2002 MIL @ CLE L 13 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -7
+p51
+aVGlenn Robinson MIL 04/10/2002 MIL @ CLE L 31 21 8 18 44.4 1 4 25.0 4 4 100.0 0 1 1 3 0 1 2 2 -21
+p52
+aVTim Thomas MIL 04/10/2002 MIL @ CLE L 18 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 1 0 2 1 1 -6
+p53
+aVGreg Anthony MIL 04/10/2002 MIL @ CLE L 27 10 4 10 40.0 2 5 40.0 0 0 - 0 2 2 3 2 0 2 1 -20
+p54
+aVGreg Anthony MIL 04/09/2002 MIL vs. PHI L 23 2 1 7 14.3 0 2 0.0 0 0 - 0 3 3 0 0 0 0 2 -4
+p55
+aVErvin Johnson MIL 04/09/2002 MIL vs. PHI L 25 2 1 3 33.3 0 0 - 0 2 0.0 2 4 6 2 0 0 0 6 -8
+p56
+aVRay Allen MIL 04/09/2002 MIL vs. PHI L 26 14 4 11 36.4 3 7 42.9 3 3 100.0 0 2 2 2 0 0 2 2 0
+p57
+aVTim Thomas MIL 04/09/2002 MIL vs. PHI L 25 6 2 8 25.0 0 4 0.0 2 2 100.0 0 1 1 3 1 1 1 2 0
+p58
+aVAnthony Mason MIL 04/09/2002 MIL vs. PHI L 41 15 5 8 62.5 0 0 - 5 8 62.5 2 6 8 4 0 1 1 2 1
+p59
+aVJoel Przybilla MIL 04/09/2002 MIL vs. PHI L 19 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 0 0 2 0 4 -1
+p60
+aVSam Cassell MIL 04/09/2002 MIL vs. PHI L 34 19 9 14 64.3 0 0 - 1 2 50.0 0 1 1 6 1 0 3 6 -3
+p61
+aVGlenn Robinson MIL 04/09/2002 MIL vs. PHI L 35 18 7 16 43.8 1 3 33.3 3 4 75.0 1 6 7 2 0 2 1 3 4
+p62
+aVDarvin Ham MIL 04/09/2002 MIL vs. PHI L 13 8 2 3 66.7 0 0 - 4 4 100.0 3 1 4 0 0 0 1 2 1
+p63
+aVTim Thomas MIL 04/07/2002 MIL @ PHI L 19 11 4 6 66.7 3 4 75.0 0 0 - 0 4 4 1 0 0 0 3 6
+p64
+aVAnthony Mason MIL 04/07/2002 MIL @ PHI L 44 8 4 8 50.0 0 0 - 0 0 - 6 6 12 4 0 0 6 1 -3
+p65
+aVDarvin Ham MIL 04/07/2002 MIL @ PHI L 11 5 2 2 100.0 0 0 - 1 2 50.0 3 1 4 1 0 1 0 1 -3
+p66
+aVRay Allen MIL 04/07/2002 MIL @ PHI L 27 25 8 19 42.1 5 13 38.5 4 5 80.0 1 3 4 1 2 0 1 1 3
+p67
+aVSam Cassell MIL 04/07/2002 MIL @ PHI L 41 19 8 16 50.0 0 2 0.0 3 4 75.0 1 4 5 6 0 0 1 4 -3
+p68
+aVGlenn Robinson MIL 04/07/2002 MIL @ PHI L 37 9 4 13 30.8 0 3 0.0 1 1 100.0 0 8 8 6 0 0 2 2 -4
+p69
+aVJoel Przybilla MIL 04/07/2002 MIL @ PHI L 12 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 2 1 5 4
+p70
+aVGreg Anthony MIL 04/07/2002 MIL @ PHI L 21 4 1 6 16.7 0 3 0.0 2 2 100.0 0 1 1 1 1 0 0 0 -4
+p71
+aVErvin Johnson MIL 04/07/2002 MIL @ PHI L 29 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 0 1 1 5 -6
+p72
+aVAnthony Mason MIL 04/05/2002 MIL @ MIA L 42 13 6 11 54.5 0 0 - 1 2 50.0 4 7 11 4 2 0 3 2 -5
+p73
+aVDarvin Ham MIL 04/05/2002 MIL @ MIA L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -4
+p74
+aVGreg Anthony MIL 04/05/2002 MIL @ MIA L 27 9 4 11 36.4 1 5 20.0 0 0 - 0 1 1 1 1 0 1 3 -10
+p75
+aVSam Cassell MIL 04/05/2002 MIL @ MIA L 33 19 8 20 40.0 0 3 0.0 3 3 100.0 0 3 3 3 0 1 1 4 4
+p76
+aVErvin Johnson MIL 04/05/2002 MIL @ MIA L 24 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 1 1 0 2 -3
+p77
+aVMark Pope MIL 04/05/2002 MIL @ MIA L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 1
+p78
+aVJoel Przybilla MIL 04/05/2002 MIL @ MIA L 20 5 2 3 66.7 0 0 - 1 2 50.0 0 6 6 0 0 1 0 3 1
+p79
+aVGlenn Robinson MIL 04/05/2002 MIL @ MIA L 38 19 6 13 46.2 1 2 50.0 6 8 75.0 0 5 5 4 2 0 2 4 -5
+p80
+aVRay Allen MIL 04/05/2002 MIL @ MIA L 23 18 5 13 38.5 2 7 28.6 6 7 85.7 0 2 2 3 0 0 0 1 -5
+p81
+aVTim Thomas MIL 04/05/2002 MIL @ MIA L 10 6 1 2 50.0 1 1 100.0 3 3 100.0 0 1 1 0 1 0 0 0 1
+p82
+aVGreg Anthony MIL 04/03/2002 MIL vs. WAS W 29 16 7 13 53.8 2 3 66.7 0 0 - 0 1 1 6 1 0 2 2 23
+p83
+aVRafer Alston MIL 04/03/2002 MIL vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p84
+aVSam Cassell MIL 04/03/2002 MIL vs. WAS W 36 19 9 18 50.0 1 1 100.0 0 0 - 1 1 2 12 1 0 2 4 10
+p85
+aVErvin Johnson MIL 04/03/2002 MIL vs. WAS W 18 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 0 2 1 3 11
+p86
+aVJoel Przybilla MIL 04/03/2002 MIL vs. WAS W 26 2 1 2 50.0 0 0 - 0 0 - 3 7 10 2 0 1 2 5 2
+p87
+aVMark Pope MIL 04/03/2002 MIL vs. WAS W 20 3 1 4 25.0 0 1 0.0 1 2 50.0 3 0 3 0 0 0 0 2 -10
+p88
+aVTim Thomas MIL 04/03/2002 MIL vs. WAS W 18 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 2 1 0 1 4 12
+p89
+aVAnthony Mason MIL 04/03/2002 MIL vs. WAS W 38 15 6 9 66.7 0 0 - 3 4 75.0 1 5 6 7 2 2 0 1 8
+p90
+aVDarvin Ham MIL 04/03/2002 MIL vs. WAS W 14 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 9
+p91
+aVGlenn Robinson MIL 04/03/2002 MIL vs. WAS W 39 38 13 24 54.2 3 3 100.0 9 11 81.8 0 3 3 1 1 0 3 2 12
+p92
+aVMark Pope MIL 04/02/2002 MIL @ ATL L 15 8 3 7 42.9 1 5 20.0 1 2 50.0 1 4 5 0 0 1 1 0 -2
+p93
+aVRafer Alston MIL 04/02/2002 MIL @ ATL L 2 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 2
+p94
+aVDarvin Ham MIL 04/02/2002 MIL @ ATL L 14 4 2 3 66.7 0 0 - 0 1 0.0 1 0 1 0 0 1 0 3 7
+p95
+aVSam Cassell MIL 04/02/2002 MIL @ ATL L 36 20 8 21 38.1 0 6 0.0 4 4 100.0 2 3 5 7 3 1 2 3 -3
+p96
+aVJoel Przybilla MIL 04/02/2002 MIL @ ATL L 23 3 1 2 50.0 0 0 - 1 2 50.0 2 8 10 0 0 3 1 2 3
+p97
+aVAnthony Mason MIL 04/02/2002 MIL @ ATL L 37 10 4 5 80.0 0 0 - 2 3 66.7 0 9 9 4 1 0 3 1 -19
+p98
+aVGreg Anthony MIL 04/02/2002 MIL @ ATL L 38 11 5 12 41.7 1 4 25.0 0 0 - 1 1 2 6 1 0 0 2 -1
+p99
+aVGlenn Robinson MIL 04/02/2002 MIL @ ATL L 40 20 9 24 37.5 1 4 25.0 1 2 50.0 1 2 3 3 1 0 4 3 -14
+p100
+aVErvin Johnson MIL 04/02/2002 MIL @ ATL L 13 2 1 2 50.0 0 0 - 0 0 - 3 3 6 0 0 0 1 0 -11
+p101
+aVTim Thomas MIL 04/02/2002 MIL @ ATL L 21 14 5 9 55.6 4 7 57.1 0 0 - 1 4 5 0 1 0 1 4 -2
+p102
+aVDarvin Ham MIL 03/31/2002 MIL @ BOS L 26 5 2 6 33.3 0 1 0.0 1 2 50.0 1 1 2 2 0 0 1 3 -4
+p103
+aVJoel Przybilla MIL 03/31/2002 MIL @ BOS L 18 6 3 3 100.0 0 0 - 0 0 - 0 4 4 0 1 2 2 1 -13
+p104
+aVRafer Alston MIL 03/31/2002 MIL @ BOS L 9 6 2 4 50.0 2 2 100.0 0 0 - 0 2 2 1 0 0 1 0 -5
+p105
+aVGreg Anthony MIL 03/31/2002 MIL @ BOS L 23 7 3 8 37.5 1 3 33.3 0 0 - 0 4 4 3 0 0 3 1 -14
+p106
+aVMark Pope MIL 03/31/2002 MIL @ BOS L 28 5 2 8 25.0 0 3 0.0 1 2 50.0 1 3 4 0 0 0 1 4 -23
+p107
+aVTim Thomas MIL 03/31/2002 MIL @ BOS L 19 0 0 6 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 3 -12
+p108
+aVAnthony Mason MIL 03/31/2002 MIL @ BOS L 39 4 2 6 33.3 0 0 - 0 0 - 2 9 11 3 1 0 3 2 -30
+p109
+aVErvin Johnson MIL 03/31/2002 MIL @ BOS L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -15
+p110
+aVGlenn Robinson MIL 03/31/2002 MIL @ BOS L 36 29 11 22 50.0 2 4 50.0 5 5 100.0 1 9 10 3 2 0 4 2 -17
+p111
+aVSam Cassell MIL 03/31/2002 MIL @ BOS L 29 18 5 16 31.3 1 2 50.0 7 8 87.5 0 2 2 6 1 0 3 2 -17
+p112
+aVJoel Przybilla MIL 03/29/2002 MIL @ WAS L 20 4 2 3 66.7 0 0 - 0 1 0.0 1 1 2 1 1 3 0 1 -4
+p113
+aVRafer Alston MIL 03/29/2002 MIL @ WAS L 4 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 7
+p114
+aVTim Thomas MIL 03/29/2002 MIL @ WAS L 30 7 3 6 50.0 1 3 33.3 0 0 - 1 3 4 4 0 1 1 4 -13
+p115
+aVMark Pope MIL 03/29/2002 MIL @ WAS L 28 8 3 7 42.9 2 3 66.7 0 0 - 1 4 5 1 1 0 2 4 2
+p116
+aVSam Cassell MIL 03/29/2002 MIL @ WAS L 22 18 6 13 46.2 0 3 0.0 6 8 75.0 0 1 1 5 1 0 3 4 -4
+p117
+aVDarvin Ham MIL 03/29/2002 MIL @ WAS L 23 7 3 6 50.0 0 0 - 1 2 50.0 2 2 4 0 1 0 2 4 -4
+p118
+aVGreg Anthony MIL 03/29/2002 MIL @ WAS L 34 20 8 17 47.1 3 7 42.9 1 2 50.0 3 0 3 5 1 0 3 3 -7
+p119
+aVAnthony Mason MIL 03/29/2002 MIL @ WAS L 38 16 7 12 58.3 0 0 - 2 2 100.0 2 8 10 3 1 0 1 3 -12
+p120
+aVGlenn Robinson MIL 03/29/2002 MIL @ WAS L 30 16 6 15 40.0 2 4 50.0 2 2 100.0 0 5 5 1 0 1 5 3 -10
+p121
+aVErvin Johnson MIL 03/29/2002 MIL @ WAS L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p122
+aVRafer Alston MIL 03/28/2002 MIL vs. DEN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p123
+aVJoel Przybilla MIL 03/28/2002 MIL vs. DEN W 11 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 0 0 1 0 2 -9
+p124
+aVErvin Johnson MIL 03/28/2002 MIL vs. DEN W 13 0 0 0 - 0 0 - 0 0 - 1 5 6 0 1 0 0 3 4
+p125
+aVGlenn Robinson MIL 03/28/2002 MIL vs. DEN W 36 19 6 18 33.3 0 1 0.0 7 7 100.0 4 11 15 3 1 0 4 2 11
+p126
+aVSam Cassell MIL 03/28/2002 MIL vs. DEN W 38 29 9 19 47.4 1 4 25.0 10 10 100.0 0 5 5 5 0 0 4 2 6
+p127
+aVDarvin Ham MIL 03/28/2002 MIL vs. DEN W 31 11 5 8 62.5 0 0 - 1 1 100.0 2 4 6 3 1 1 0 2 12
+p128
+aVAnthony Mason MIL 03/28/2002 MIL vs. DEN W 37 10 2 2 100.0 0 0 - 6 6 100.0 1 4 5 3 1 1 1 1 5
+p129
+aVTim Thomas MIL 03/28/2002 MIL vs. DEN W 28 8 3 16 18.8 0 5 0.0 2 2 100.0 2 0 2 3 1 0 1 1 -5
+p130
+aVGreg Anthony MIL 03/28/2002 MIL vs. DEN W 23 8 3 6 50.0 2 3 66.7 0 2 0.0 0 3 3 1 2 0 1 1 1
+p131
+aVMark Pope MIL 03/28/2002 MIL vs. DEN W 21 8 2 5 40.0 0 0 - 4 5 80.0 2 2 4 1 0 0 1 4 13
+p132
+aVDarvin Ham MIL 03/26/2002 MIL vs. DAL L 31 5 1 3 33.3 0 0 - 3 4 75.0 1 2 3 2 0 1 0 1 -6
+p133
+aVGlenn Robinson MIL 03/26/2002 MIL vs. DAL L 43 18 7 22 31.8 1 4 25.0 3 3 100.0 1 9 10 4 0 0 6 2 -12
+p134
+aVMichael Redd MIL 03/26/2002 MIL vs. DAL L 20 18 6 7 85.7 4 4 100.0 2 2 100.0 0 6 6 3 1 0 1 3 6
+p135
+aVRafer Alston MIL 03/26/2002 MIL vs. DAL L 15 6 2 5 40.0 2 3 66.7 0 2 0.0 0 0 0 3 1 0 0 1 3
+p136
+aVGreg Anthony MIL 03/26/2002 MIL vs. DAL L 38 13 5 13 38.5 2 8 25.0 1 2 50.0 0 3 3 8 2 0 0 4 -11
+p137
+aVTim Thomas MIL 03/26/2002 MIL vs. DAL L 42 22 7 19 36.8 3 7 42.9 5 6 83.3 1 5 6 2 0 0 6 6 -10
+p138
+aVMark Pope MIL 03/26/2002 MIL vs. DAL L 27 4 2 2 100.0 0 0 - 0 0 - 1 3 4 2 2 2 1 4 0
+p139
+aVAnthony Mason MIL 03/26/2002 MIL vs. DAL L 49 20 8 13 61.5 0 0 - 4 7 57.1 3 9 12 5 1 0 1 1 0
+p140
+aVRay Allen MIL 03/24/2002 MIL vs. ORL W 28 13 5 9 55.6 2 4 50.0 1 3 33.3 1 4 5 2 1 1 1 0 24
+p141
+aVGreg Anthony MIL 03/24/2002 MIL vs. ORL W 24 12 5 12 41.7 2 2 100.0 0 0 - 0 3 3 4 2 0 0 1 11
+p142
+aVDarvin Ham MIL 03/24/2002 MIL vs. ORL W 17 2 1 4 25.0 0 0 - 0 0 - 2 1 3 4 0 1 0 5 4
+p143
+aVAnthony Mason MIL 03/24/2002 MIL vs. ORL W 31 8 4 9 44.4 0 0 - 0 1 0.0 0 4 4 12 0 0 5 4 18
+p144
+aVMichael Redd MIL 03/24/2002 MIL vs. ORL W 24 20 7 11 63.6 3 5 60.0 3 6 50.0 1 4 5 0 0 1 2 2 6
+p145
+aVSam Cassell MIL 03/24/2002 MIL vs. ORL W 34 21 8 17 47.1 0 1 0.0 5 6 83.3 1 2 3 7 2 0 1 0 25
+p146
+aVGreg Foster MIL 03/24/2002 MIL vs. ORL W 4 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 2
+p147
+aVJoel Przybilla MIL 03/24/2002 MIL vs. ORL W 22 7 3 3 100.0 0 0 - 1 3 33.3 0 7 7 0 0 0 0 3 18
+p148
+aVErvin Johnson MIL 03/24/2002 MIL vs. ORL W 11 0 0 0 - 0 0 - 0 0 - 1 3 4 1 0 0 0 1 6
+p149
+aVMark Pope MIL 03/24/2002 MIL vs. ORL W 9 0 0 3 0.0 0 1 0.0 0 0 - 2 3 5 0 1 0 1 3 -2
+p150
+aVGlenn Robinson MIL 03/24/2002 MIL vs. ORL W 35 25 10 13 76.9 1 2 50.0 4 4 100.0 1 9 10 2 3 0 4 2 13
+p151
+aVGreg Anthony MIL 03/22/2002 MIL @ NJN L 21 8 3 7 42.9 0 3 0.0 2 3 66.7 0 2 2 3 2 0 3 1 -9
+p152
+aVMark Pope MIL 03/22/2002 MIL @ NJN L 30 10 4 4 100.0 0 0 - 2 4 50.0 0 4 4 1 2 2 3 3 -11
+p153
+aVGreg Foster MIL 03/22/2002 MIL @ NJN L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p154
+aVMichael Redd MIL 03/22/2002 MIL @ NJN L 29 15 5 9 55.6 1 4 25.0 4 4 100.0 0 4 4 2 0 0 4 2 -7
+p155
+aVAnthony Mason MIL 03/22/2002 MIL @ NJN L 35 9 4 10 40.0 0 0 - 1 1 100.0 1 6 7 2 0 0 1 1 -22
+p156
+aVErvin Johnson MIL 03/22/2002 MIL @ NJN L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -5
+p157
+aVSam Cassell MIL 03/22/2002 MIL @ NJN L 31 18 9 17 52.9 0 1 0.0 0 0 - 0 2 2 3 0 0 4 2 -17
+p158
+aVJoel Przybilla MIL 03/22/2002 MIL @ NJN L 17 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 1 4 2 2 -11
+p159
+aVRay Allen MIL 03/22/2002 MIL @ NJN L 37 16 6 18 33.3 2 4 50.0 2 2 100.0 0 3 3 6 1 0 3 2 -13
+p160
+aVDarvin Ham MIL 03/22/2002 MIL @ NJN L 28 6 3 5 60.0 0 0 - 0 5 0.0 5 4 9 1 1 0 1 1 -25
+p161
+aVAnthony Mason MIL 03/19/2002 MIL @ ORL L 30 6 3 6 50.0 0 0 - 0 0 - 2 5 7 2 1 0 3 4 -15
+p162
+aVErvin Johnson MIL 03/19/2002 MIL @ ORL L 17 3 1 3 33.3 0 0 - 1 2 50.0 3 3 6 1 0 1 0 0 -1
+p163
+aVGlenn Robinson MIL 03/19/2002 MIL @ ORL L 23 13 5 11 45.5 1 4 25.0 2 2 100.0 1 7 8 2 0 1 1 4 -8
+p164
+aVSam Cassell MIL 03/19/2002 MIL @ ORL L 34 23 10 19 52.6 0 1 0.0 3 5 60.0 1 5 6 6 1 0 2 2 -10
+p165
+aVGreg Anthony MIL 03/19/2002 MIL @ ORL L 23 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 2 1 -4
+p166
+aVRay Allen MIL 03/19/2002 MIL @ ORL L 45 22 8 17 47.1 4 9 44.4 2 2 100.0 3 8 11 3 1 0 6 4 -8
+p167
+aVDarvin Ham MIL 03/19/2002 MIL @ ORL L 30 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 5 3 4
+p168
+aVJoel Przybilla MIL 03/19/2002 MIL @ ORL L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -1
+p169
+aVMichael Redd MIL 03/19/2002 MIL @ ORL L 30 14 5 13 38.5 1 2 50.0 3 4 75.0 2 2 4 2 4 0 3 3 -7
+p170
+aVGlenn Robinson MIL 03/18/2002 MIL @ CHH L 38 16 7 13 53.8 1 1 100.0 1 1 100.0 0 7 7 5 0 3 2 4 -10
+p171
+aVGreg Anthony MIL 03/18/2002 MIL @ CHH L 14 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 1 1 9
+p172
+aVDarvin Ham MIL 03/18/2002 MIL @ CHH L 21 8 4 6 66.7 0 0 - 0 0 - 2 3 5 1 0 2 0 4 14
+p173
+aVJoel Przybilla MIL 03/18/2002 MIL @ CHH L 8 4 2 3 66.7 0 0 - 0 1 0.0 1 2 3 0 0 0 0 5 2
+p174
+aVErvin Johnson MIL 03/18/2002 MIL @ CHH L 32 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 2 1 3 5 -11
+p175
+aVRay Allen MIL 03/18/2002 MIL @ CHH L 38 23 7 16 43.8 3 7 42.9 6 6 100.0 1 3 4 4 0 0 2 1 -13
+p176
+aVMichael Redd MIL 03/18/2002 MIL @ CHH L 21 15 6 8 75.0 2 3 66.7 1 2 50.0 0 3 3 2 0 0 0 1 18
+p177
+aVAnthony Mason MIL 03/18/2002 MIL @ CHH L 34 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 6 0 0 2 4 -12
+p178
+aVSam Cassell MIL 03/18/2002 MIL @ CHH L 34 27 9 19 47.4 1 4 25.0 8 8 100.0 1 6 7 4 0 0 2 1 -12
+p179
+aVErvin Johnson MIL 03/16/2002 MIL vs. DET L 22 7 3 4 75.0 0 0 - 1 1 100.0 1 5 6 0 0 1 0 1 -7
+p180
+aVAnthony Mason MIL 03/16/2002 MIL vs. DET L 41 16 7 9 77.8 1 1 100.0 1 1 100.0 2 5 7 5 0 0 2 2 -15
+p181
+aVGlenn Robinson MIL 03/16/2002 MIL vs. DET L 39 16 7 14 50.0 0 1 0.0 2 3 66.7 1 9 10 4 2 0 1 2 3
+p182
+aVMichael Redd MIL 03/16/2002 MIL vs. DET L 17 10 4 8 50.0 1 2 50.0 1 2 50.0 3 0 3 1 1 0 0 0 -9
+p183
+aVDarvin Ham MIL 03/16/2002 MIL vs. DET L 15 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 5 -3
+p184
+aVGreg Anthony MIL 03/16/2002 MIL vs. DET L 18 8 4 11 36.4 0 2 0.0 0 0 - 0 1 1 5 0 0 3 3 -3
+p185
+aVSam Cassell MIL 03/16/2002 MIL vs. DET L 35 15 6 19 31.6 0 2 0.0 3 3 100.0 2 3 5 6 2 0 1 2 -5
+p186
+aVJoel Przybilla MIL 03/16/2002 MIL vs. DET L 16 0 0 0 - 0 0 - 0 0 - 2 4 6 0 0 2 1 5 9
+p187
+aVRay Allen MIL 03/16/2002 MIL vs. DET L 38 20 9 22 40.9 1 11 9.1 1 1 100.0 2 1 3 1 1 0 3 1 -10
+p188
+aVGreg Foster MIL 03/12/2002 MIL vs. CHI W 7 3 0 2 0.0 0 2 0.0 3 4 75.0 0 2 2 0 0 0 0 1 -7
+p189
+aVAnthony Mason MIL 03/12/2002 MIL vs. CHI W 34 19 6 9 66.7 0 0 - 7 8 87.5 0 8 8 6 1 0 0 1 32
+p190
+aVSam Cassell MIL 03/12/2002 MIL vs. CHI W 31 19 8 14 57.1 1 2 50.0 2 3 66.7 1 3 4 6 2 0 0 3 38
+p191
+aVJoel Przybilla MIL 03/12/2002 MIL vs. CHI W 25 2 1 4 25.0 0 0 - 0 2 0.0 4 3 7 1 0 3 1 6 29
+p192
+aVRay Allen MIL 03/12/2002 MIL vs. CHI W 29 20 7 17 41.2 4 7 57.1 2 2 100.0 2 5 7 2 2 0 2 2 11
+p193
+aVMichael Redd MIL 03/12/2002 MIL vs. CHI W 25 21 9 14 64.3 1 4 25.0 2 3 66.7 1 3 4 1 0 1 2 0 17
+p194
+aVGlenn Robinson MIL 03/12/2002 MIL vs. CHI W 35 16 6 16 37.5 1 1 100.0 3 4 75.0 5 6 11 6 0 1 0 2 32
+p195
+aVErvin Johnson MIL 03/12/2002 MIL vs. CHI W 17 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p196
+aVDarvin Ham MIL 03/12/2002 MIL vs. CHI W 19 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 1 0 1 5 -5
+p197
+aVGreg Anthony MIL 03/12/2002 MIL vs. CHI W 19 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 3 2 0 2 1 -3
+p198
+aVDarvin Ham MIL 03/10/2002 MIL vs. SAC L 21 10 5 7 71.4 0 0 - 0 2 0.0 0 2 2 1 1 0 0 4 -10
+p199
+aVGreg Anthony MIL 03/10/2002 MIL vs. SAC L 21 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 4 0 1 3 4 -10
+p200
+aVMichael Redd MIL 03/10/2002 MIL vs. SAC L 20 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 1 0 1 0 0 -17
+p201
+aVSam Cassell MIL 03/10/2002 MIL vs. SAC L 30 14 7 12 58.3 0 0 - 0 0 - 1 5 6 5 1 0 3 3 -24
+p202
+aVGreg Foster MIL 03/10/2002 MIL vs. SAC L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p203
+aVRay Allen MIL 03/10/2002 MIL vs. SAC L 32 14 6 18 33.3 2 8 25.0 0 0 - 0 5 5 1 0 0 3 2 -16
+p204
+aVErvin Johnson MIL 03/10/2002 MIL vs. SAC L 18 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 1 0 1 1 -8
+p205
+aVJoel Przybilla MIL 03/10/2002 MIL vs. SAC L 23 2 1 3 33.3 0 0 - 0 2 0.0 2 3 5 1 2 2 1 1 -17
+p206
+aVGlenn Robinson MIL 03/10/2002 MIL vs. SAC L 33 14 7 14 50.0 0 0 - 0 0 - 4 5 9 3 0 0 3 3 -11
+p207
+aVAnthony Mason MIL 03/10/2002 MIL vs. SAC L 34 6 2 6 33.3 0 0 - 2 2 100.0 1 5 6 1 0 0 3 1 -12
+p208
+aVTim Thomas MIL 03/10/2002 MIL vs. SAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p209
+aVTim Thomas MIL 03/08/2002 MIL vs. CLE L 33 16 5 11 45.5 2 5 40.0 4 4 100.0 3 4 7 2 2 0 0 2 -9
+p210
+aVSam Cassell MIL 03/08/2002 MIL vs. CLE L 40 13 4 15 26.7 1 5 20.0 4 4 100.0 1 3 4 13 1 0 1 4 -7
+p211
+aVJoel Przybilla MIL 03/08/2002 MIL vs. CLE L 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 3 0 1 10
+p212
+aVErvin Johnson MIL 03/08/2002 MIL vs. CLE L 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -16
+p213
+aVAnthony Mason MIL 03/08/2002 MIL vs. CLE L 33 11 5 7 71.4 0 0 - 1 2 50.0 0 6 6 4 0 1 1 2 -2
+p214
+aVDarvin Ham MIL 03/08/2002 MIL vs. CLE L 15 11 5 5 100.0 1 1 100.0 0 2 0.0 2 0 2 0 1 3 3 0 5
+p215
+aVMichael Redd MIL 03/08/2002 MIL vs. CLE L 18 2 1 3 33.3 0 1 0.0 0 1 0.0 2 2 4 0 1 0 1 2 8
+p216
+aVRay Allen MIL 03/08/2002 MIL vs. CLE L 35 20 8 17 47.1 4 9 44.4 0 0 - 1 3 4 2 2 1 0 3 -14
+p217
+aVGreg Anthony MIL 03/08/2002 MIL vs. CLE L 18 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 3 1 0 2 3 -6
+p218
+aVGlenn Robinson MIL 03/08/2002 MIL vs. CLE L 41 30 13 20 65.0 0 2 0.0 4 4 100.0 1 9 10 1 2 0 3 5 1
+p219
+aVDarvin Ham MIL 03/06/2002 MIL vs. LAC W 5 3 0 0 - 0 0 - 3 4 75.0 0 1 1 1 0 0 0 2 0
+p220
+aVGreg Anthony MIL 03/06/2002 MIL vs. LAC W 14 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 4 1 0 2 1 7
+p221
+aVTim Thomas MIL 03/06/2002 MIL vs. LAC W 21 12 6 10 60.0 0 3 0.0 0 1 0.0 1 2 3 0 2 0 3 0 5
+p222
+aVSam Cassell MIL 03/06/2002 MIL vs. LAC W 35 13 5 14 35.7 1 1 100.0 2 2 100.0 0 3 3 9 1 0 2 2 2
+p223
+aVJoel Przybilla MIL 03/06/2002 MIL vs. LAC W 22 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 5 2
+p224
+aVRay Allen MIL 03/06/2002 MIL vs. LAC W 39 20 7 11 63.6 4 6 66.7 2 3 66.7 0 2 2 4 0 0 4 1 -1
+p225
+aVAnthony Mason MIL 03/06/2002 MIL vs. LAC W 38 6 3 10 30.0 0 0 - 0 0 - 1 7 8 3 1 0 2 1 1
+p226
+aVGlenn Robinson MIL 03/06/2002 MIL vs. LAC W 35 22 10 16 62.5 0 0 - 2 2 100.0 2 3 5 1 4 0 3 4 4
+p227
+aVErvin Johnson MIL 03/06/2002 MIL vs. LAC W 20 5 2 2 100.0 0 0 - 1 2 50.0 1 5 6 1 0 0 1 6 1
+p228
+aVMichael Redd MIL 03/06/2002 MIL vs. LAC W 11 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 1 0 0 2 9
+p229
+aVRafer Alston MIL 03/05/2002 MIL @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p230
+aVDarvin Ham MIL 03/05/2002 MIL @ NYK L 6 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 0 0
+p231
+aVGreg Anthony MIL 03/05/2002 MIL @ NYK L 5 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 0 0
+p232
+aVAnthony Mason MIL 03/05/2002 MIL @ NYK L 37 10 5 7 71.4 0 0 - 0 0 - 1 4 5 4 1 1 1 1 -7
+p233
+aVErvin Johnson MIL 03/05/2002 MIL @ NYK L 23 5 1 3 33.3 0 0 - 3 4 75.0 5 2 7 1 1 0 1 2 -14
+p234
+aVSam Cassell MIL 03/05/2002 MIL @ NYK L 35 18 7 14 50.0 2 4 50.0 2 2 100.0 1 4 5 7 0 0 1 5 -8
+p235
+aVGlenn Robinson MIL 03/05/2002 MIL @ NYK L 31 13 4 9 44.4 0 2 0.0 5 6 83.3 0 2 2 1 0 0 4 3 -14
+p236
+aVRay Allen MIL 03/05/2002 MIL @ NYK L 32 13 6 16 37.5 1 4 25.0 0 0 - 1 5 6 5 0 1 2 2 -15
+p237
+aVJoel Przybilla MIL 03/05/2002 MIL @ NYK L 23 8 4 5 80.0 0 0 - 0 0 - 2 4 6 0 0 3 1 4 -3
+p238
+aVTim Thomas MIL 03/05/2002 MIL @ NYK L 25 11 5 15 33.3 0 5 0.0 1 1 100.0 1 5 6 0 4 0 1 4 0
+p239
+aVMichael Redd MIL 03/05/2002 MIL @ NYK L 22 7 3 8 37.5 1 4 25.0 0 0 - 1 3 4 1 0 0 1 0 -4
+p240
+aVMichael Redd MIL 03/03/2002 MIL @ CLE W 26 12 5 9 55.6 2 5 40.0 0 0 - 1 2 3 1 0 0 0 3 8
+p241
+aVGlenn Robinson MIL 03/03/2002 MIL @ CLE W 39 28 10 20 50.0 1 1 100.0 7 8 87.5 3 7 10 3 2 1 2 3 -1
+p242
+aVErvin Johnson MIL 03/03/2002 MIL @ CLE W 21 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 1 0 2 7
+p243
+aVDarvin Ham MIL 03/03/2002 MIL @ CLE W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 2 0 0 3 7
+p244
+aVRafer Alston MIL 03/03/2002 MIL @ CLE W 21 8 4 11 36.4 0 2 0.0 0 0 - 0 4 4 7 0 0 0 4 -8
+p245
+aVRay Allen MIL 03/03/2002 MIL @ CLE W 41 27 10 21 47.6 4 10 40.0 3 3 100.0 0 5 5 7 3 0 2 1 16
+p246
+aVTim Thomas MIL 03/03/2002 MIL @ CLE W 31 16 5 9 55.6 2 4 50.0 4 6 66.7 1 3 4 2 0 0 3 0 14
+p247
+aVAnthony Mason MIL 03/03/2002 MIL @ CLE W 38 8 3 6 50.0 0 0 - 2 2 100.0 0 4 4 2 0 1 0 1 14
+p248
+aVJoel Przybilla MIL 03/03/2002 MIL @ CLE W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -7
+p249
+aVTim Thomas MIL 03/02/2002 MIL vs. POR L 29 9 4 13 30.8 1 5 20.0 0 0 - 0 0 0 5 4 0 1 3 2
+p250
+aVDarvin Ham MIL 03/02/2002 MIL vs. POR L 6 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 1 0 0 6
+p251
+aVAnthony Mason MIL 03/02/2002 MIL vs. POR L 44 5 2 6 33.3 0 0 - 1 1 100.0 0 7 7 6 0 0 2 5 -6
+p252
+aVSam Cassell MIL 03/02/2002 MIL vs. POR L 44 20 9 19 47.4 1 4 25.0 1 1 100.0 3 3 6 8 0 0 3 2 -7
+p253
+aVMichael Redd MIL 03/02/2002 MIL vs. POR L 21 19 7 10 70.0 4 4 100.0 1 1 100.0 4 6 10 3 0 0 0 1 7
+p254
+aVErvin Johnson MIL 03/02/2002 MIL vs. POR L 28 0 0 2 0.0 0 0 - 0 0 - 2 5 7 0 1 1 0 3 -6
+p255
+aVGlenn Robinson MIL 03/02/2002 MIL vs. POR L 36 24 11 21 52.4 0 2 0.0 2 3 66.7 2 7 9 2 1 1 4 5 1
+p256
+aVRay Allen MIL 03/02/2002 MIL vs. POR L 41 22 8 16 50.0 2 6 33.3 4 4 100.0 0 2 2 4 0 0 4 3 0
+p257
+aVJoel Przybilla MIL 03/02/2002 MIL vs. POR L 17 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 2 0 2 -2
+p258
+aVErvin Johnson MIL 02/27/2002 MIL @ BOS W 27 4 2 3 66.7 0 0 - 0 0 - 0 7 7 1 1 4 0 3 0
+p259
+aVGlenn Robinson MIL 02/27/2002 MIL @ BOS W 34 22 9 16 56.3 0 1 0.0 4 4 100.0 2 3 5 0 1 0 1 2 2
+p260
+aVDarvin Ham MIL 02/27/2002 MIL @ BOS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 1 1 1
+p261
+aVJoel Przybilla MIL 02/27/2002 MIL @ BOS W 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 1
+p262
+aVAnthony Mason MIL 02/27/2002 MIL @ BOS W 38 4 2 4 50.0 0 0 - 0 0 - 2 7 9 2 0 0 0 2 8
+p263
+aVMichael Redd MIL 02/27/2002 MIL @ BOS W 18 10 3 9 33.3 2 5 40.0 2 2 100.0 0 5 5 2 2 0 0 1 1
+p264
+aVSam Cassell MIL 02/27/2002 MIL @ BOS W 37 26 10 18 55.6 1 6 16.7 5 6 83.3 0 5 5 8 1 0 3 0 5
+p265
+aVTim Thomas MIL 02/27/2002 MIL @ BOS W 27 7 3 8 37.5 0 2 0.0 1 2 50.0 1 3 4 0 1 2 2 1 -1
+p266
+aVRay Allen MIL 02/27/2002 MIL @ BOS W 39 22 8 17 47.1 4 9 44.4 2 3 66.7 3 1 4 3 2 0 5 4 -2
+p267
+aVGlenn Robinson MIL 02/26/2002 MIL vs. LAL L 39 19 5 12 41.7 0 1 0.0 9 10 90.0 1 4 5 2 1 0 1 4 -6
+p268
+aVErvin Johnson MIL 02/26/2002 MIL vs. LAL L 15 0 0 0 - 0 0 - 0 0 - 2 3 5 0 0 2 1 5 1
+p269
+aVSam Cassell MIL 02/26/2002 MIL vs. LAL L 42 21 8 18 44.4 1 5 20.0 4 5 80.0 0 3 3 10 0 0 3 2 -4
+p270
+aVAnthony Mason MIL 02/26/2002 MIL vs. LAL L 42 14 6 11 54.5 0 0 - 2 4 50.0 2 7 9 1 0 0 0 1 -12
+p271
+aVJoel Przybilla MIL 02/26/2002 MIL vs. LAL L 17 3 1 1 100.0 0 0 - 1 2 50.0 1 6 7 0 0 0 0 4 2
+p272
+aVTim Thomas MIL 02/26/2002 MIL vs. LAL L 31 17 6 13 46.2 0 2 0.0 5 7 71.4 1 4 5 0 1 1 3 3 -12
+p273
+aVMichael Redd MIL 02/26/2002 MIL vs. LAL L 13 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 1 -5
+p274
+aVDarvin Ham MIL 02/26/2002 MIL vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -5
+p275
+aVRay Allen MIL 02/26/2002 MIL vs. LAL L 38 15 5 9 55.6 3 4 75.0 2 2 100.0 0 4 4 5 1 0 4 1 -9
+p276
+aVAnthony Mason MIL 02/24/2002 MIL vs. DET W 41 10 4 10 40.0 0 0 - 2 3 66.7 0 5 5 4 1 0 4 3 3
+p277
+aVJoel Przybilla MIL 02/24/2002 MIL vs. DET W 21 2 1 5 20.0 0 0 - 0 2 0.0 2 2 4 0 0 2 0 0 -4
+p278
+aVMichael Redd MIL 02/24/2002 MIL vs. DET W 13 3 1 7 14.3 0 1 0.0 1 2 50.0 4 1 5 1 0 0 1 0 2
+p279
+aVGlenn Robinson MIL 02/24/2002 MIL vs. DET W 35 13 6 10 60.0 1 1 100.0 0 0 - 2 4 6 1 1 0 3 3 5
+p280
+aVSam Cassell MIL 02/24/2002 MIL vs. DET W 35 27 9 14 64.3 2 5 40.0 7 8 87.5 1 2 3 5 1 1 2 2 10
+p281
+aVRay Allen MIL 02/24/2002 MIL vs. DET W 37 21 7 19 36.8 3 6 50.0 4 5 80.0 4 6 10 7 1 0 0 0 -3
+p282
+aVErvin Johnson MIL 02/24/2002 MIL vs. DET W 24 4 2 4 50.0 0 0 - 0 0 - 3 7 10 0 0 1 1 5 14
+p283
+aVDarvin Ham MIL 02/24/2002 MIL vs. DET W 10 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 0 0 1 3 4 1
+p284
+aVTim Thomas MIL 02/24/2002 MIL vs. DET W 24 7 3 9 33.3 1 3 33.3 0 0 - 1 5 6 0 1 0 1 3 7
+p285
+aVRay Allen MIL 02/22/2002 MIL vs. GSW W 38 28 7 15 46.7 3 5 60.0 11 12 91.7 6 7 13 8 1 0 0 3 -1
+p286
+aVAnthony Mason MIL 02/22/2002 MIL vs. GSW W 38 14 6 10 60.0 0 0 - 2 2 100.0 3 9 12 3 1 0 3 3 -1
+p287
+aVJoel Przybilla MIL 02/22/2002 MIL vs. GSW W 20 2 1 4 25.0 0 0 - 0 0 - 3 0 3 0 0 4 0 1 -2
+p288
+aVGlenn Robinson MIL 02/22/2002 MIL vs. GSW W 25 15 6 21 28.6 1 5 20.0 2 2 100.0 1 1 2 3 0 0 1 1 -9
+p289
+aVJason Caffey MIL 02/22/2002 MIL vs. GSW W 9 6 3 6 50.0 0 0 - 0 0 - 3 0 3 1 0 0 0 0 -2
+p290
+aVDarvin Ham MIL 02/22/2002 MIL vs. GSW W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 2 1 2 -1
+p291
+aVSam Cassell MIL 02/22/2002 MIL vs. GSW W 39 25 6 16 37.5 4 6 66.7 9 9 100.0 3 1 4 6 2 0 2 2 7
+p292
+aVTim Thomas MIL 02/22/2002 MIL vs. GSW W 22 10 4 9 44.4 2 5 40.0 0 0 - 0 0 0 2 0 0 2 3 11
+p293
+aVErvin Johnson MIL 02/22/2002 MIL vs. GSW W 17 5 2 3 66.7 0 0 - 1 1 100.0 0 4 4 0 0 2 0 2 12
+p294
+aVMichael Redd MIL 02/22/2002 MIL vs. GSW W 24 11 4 10 40.0 1 2 50.0 2 2 100.0 1 0 1 0 1 0 0 3 6
+p295
+aVDarvin Ham MIL 02/20/2002 MIL vs. HOU W 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 1 1 1 8
+p296
+aVRafer Alston MIL 02/20/2002 MIL vs. HOU W 10 0 0 0 - 0 0 - 0 0 - 1 1 2 5 1 0 1 1 10
+p297
+aVJason Caffey MIL 02/20/2002 MIL vs. HOU W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 3 1 1 1 2 10
+p298
+aVErvin Johnson MIL 02/20/2002 MIL vs. HOU W 14 4 2 2 100.0 0 0 - 0 0 - 2 4 6 0 0 2 0 1 3
+p299
+aVMichael Redd MIL 02/20/2002 MIL vs. HOU W 20 29 10 14 71.4 9 13 69.2 0 0 - 0 0 0 0 0 0 0 0 20
+p300
+aVGlenn Robinson MIL 02/20/2002 MIL vs. HOU W 34 21 9 18 50.0 1 2 50.0 2 2 100.0 1 5 6 6 5 2 1 2 31
+p301
+aVTim Thomas MIL 02/20/2002 MIL vs. HOU W 15 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 1 1 0 2 1 12
+p302
+aVSam Cassell MIL 02/20/2002 MIL vs. HOU W 28 16 7 16 43.8 2 4 50.0 0 0 - 0 5 5 7 0 0 1 3 16
+p303
+aVMark Pope MIL 02/20/2002 MIL vs. HOU W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p304
+aVAnthony Mason MIL 02/20/2002 MIL vs. HOU W 34 15 7 8 87.5 0 0 - 1 1 100.0 0 3 3 6 0 0 1 4 31
+p305
+aVRay Allen MIL 02/20/2002 MIL vs. HOU W 29 17 7 11 63.6 3 4 75.0 0 0 - 0 5 5 3 0 0 2 1 26
+p306
+aVJoel Przybilla MIL 02/20/2002 MIL vs. HOU W 25 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 2 0 2 26
+p307
+aVJoel Przybilla MIL 02/18/2002 MIL vs. CHH L 22 4 2 2 100.0 0 0 - 0 1 0.0 3 6 9 1 0 2 2 3 -1
+p308
+aVAnthony Mason MIL 02/18/2002 MIL vs. CHH L 41 6 2 8 25.0 0 0 - 2 2 100.0 1 7 8 4 0 0 1 1 -5
+p309
+aVDarvin Ham MIL 02/18/2002 MIL vs. CHH L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -5
+p310
+aVRafer Alston MIL 02/18/2002 MIL vs. CHH L 27 7 3 6 50.0 1 1 100.0 0 0 - 1 3 4 5 2 0 1 3 -12
+p311
+aVErvin Johnson MIL 02/18/2002 MIL vs. CHH L 17 1 0 0 - 0 0 - 1 2 50.0 1 6 7 0 0 2 2 4 -5
+p312
+aVMichael Redd MIL 02/18/2002 MIL vs. CHH L 19 10 4 9 44.4 0 2 0.0 2 2 100.0 2 0 2 1 1 0 2 0 -8
+p313
+aVGlenn Robinson MIL 02/18/2002 MIL vs. CHH L 35 18 8 17 47.1 0 2 0.0 2 4 50.0 2 1 3 4 1 0 4 4 -4
+p314
+aVTim Thomas MIL 02/18/2002 MIL vs. CHH L 28 19 6 11 54.5 3 8 37.5 4 4 100.0 0 2 2 0 1 1 1 5 -4
+p315
+aVRay Allen MIL 02/18/2002 MIL vs. CHH L 42 27 10 22 45.5 7 14 50.0 0 0 - 2 2 4 6 3 0 6 2 -1
+p316
+aVGlenn Robinson MIL 02/17/2002 MIL @ TOR W 22 8 3 14 21.4 0 2 0.0 2 2 100.0 0 3 3 0 1 1 1 2 -3
+p317
+aVErvin Johnson MIL 02/17/2002 MIL @ TOR W 23 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 0 0 0 2 -5
+p318
+aVJoel Przybilla MIL 02/17/2002 MIL @ TOR W 15 2 0 0 - 0 0 - 2 2 100.0 0 5 5 0 0 1 2 5 -2
+p319
+aVMichael Redd MIL 02/17/2002 MIL @ TOR W 18 16 5 9 55.6 3 5 60.0 3 3 100.0 0 4 4 1 0 0 0 0 9
+p320
+aVSam Cassell MIL 02/17/2002 MIL @ TOR W 35 20 7 15 46.7 4 6 66.7 2 2 100.0 2 1 3 2 1 0 2 2 0
+p321
+aVRay Allen MIL 02/17/2002 MIL @ TOR W 39 20 8 19 42.1 2 9 22.2 2 2 100.0 0 5 5 4 1 1 2 3 9
+p322
+aVAnthony Mason MIL 02/17/2002 MIL @ TOR W 41 7 2 4 50.0 0 0 - 3 3 100.0 1 3 4 6 1 2 4 5 3
+p323
+aVRafer Alston MIL 02/17/2002 MIL @ TOR W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -1
+p324
+aVTim Thomas MIL 02/17/2002 MIL @ TOR W 26 15 3 8 37.5 1 2 50.0 8 8 100.0 3 3 6 3 1 1 2 3 7
+p325
+aVDarvin Ham MIL 02/17/2002 MIL @ TOR W 17 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 8
+p326
+aVGlenn Robinson MIL 02/15/2002 MIL vs. MIA L 43 25 11 26 42.3 0 1 0.0 3 6 50.0 2 9 11 2 2 1 6 2 1
+p327
+aVRay Allen MIL 02/15/2002 MIL vs. MIA L 44 30 11 22 50.0 4 10 40.0 4 4 100.0 1 5 6 3 1 0 1 1 8
+p328
+aVTim Thomas MIL 02/15/2002 MIL vs. MIA L 33 11 3 8 37.5 1 3 33.3 4 4 100.0 0 3 3 0 2 0 6 4 -3
+p329
+aVMichael Redd MIL 02/15/2002 MIL vs. MIA L 15 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -5
+p330
+aVRafer Alston MIL 02/15/2002 MIL vs. MIA L 26 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 10 0 0 1 2 -9
+p331
+aVDarvin Ham MIL 02/15/2002 MIL vs. MIA L 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -11
+p332
+aVErvin Johnson MIL 02/15/2002 MIL vs. MIA L 33 4 1 5 20.0 0 0 - 2 2 100.0 5 10 15 1 1 1 0 3 -7
+p333
+aVJoel Przybilla MIL 02/15/2002 MIL vs. MIA L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 4 0 4 5
+p334
+aVAnthony Mason MIL 02/15/2002 MIL vs. MIA L 45 5 1 9 11.1 0 0 - 3 4 75.0 1 8 9 4 2 0 0 1 11
+p335
+aVJoel Przybilla MIL 02/13/2002 MIL vs. CLE L 15 2 1 2 50.0 0 0 - 0 2 0.0 0 6 6 0 0 0 1 0 -11
+p336
+aVRay Allen MIL 02/13/2002 MIL vs. CLE L 43 27 10 20 50.0 3 9 33.3 4 4 100.0 2 3 5 8 2 0 1 4 -4
+p337
+aVGlenn Robinson MIL 02/13/2002 MIL vs. CLE L 37 32 9 16 56.3 1 2 50.0 13 15 86.7 2 1 3 1 0 3 1 2 -16
+p338
+aVMichael Redd MIL 02/13/2002 MIL vs. CLE L 22 16 7 14 50.0 2 5 40.0 0 0 - 3 2 5 3 0 0 2 1 3
+p339
+aVRafer Alston MIL 02/13/2002 MIL vs. CLE L 19 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 4 0 0 1 1 -9
+p340
+aVTim Thomas MIL 02/13/2002 MIL vs. CLE L 32 19 8 13 61.5 0 2 0.0 3 3 100.0 0 2 2 2 1 0 2 2 6
+p341
+aVErvin Johnson MIL 02/13/2002 MIL vs. CLE L 24 0 0 1 0.0 0 0 - 0 2 0.0 0 5 5 0 0 0 0 4 5
+p342
+aVAnthony Mason MIL 02/13/2002 MIL vs. CLE L 37 6 3 5 60.0 0 0 - 0 2 0.0 1 9 10 6 0 0 0 2 -14
+p343
+aVDarvin Ham MIL 02/13/2002 MIL vs. CLE L 12 5 2 2 100.0 0 0 - 1 1 100.0 1 1 2 1 0 0 2 1 0
+p344
+aVRay Allen MIL 02/12/2002 MIL @ CHI L 42 32 11 19 57.9 4 9 44.4 6 6 100.0 0 4 4 5 0 0 3 2 5
+p345
+aVSam Cassell MIL 02/12/2002 MIL @ CHI L 38 22 8 16 50.0 3 6 50.0 3 4 75.0 0 6 6 6 1 0 2 6 -2
+p346
+aVGlenn Robinson MIL 02/12/2002 MIL @ CHI L 36 17 7 19 36.8 0 2 0.0 3 4 75.0 1 8 9 3 1 1 3 1 1
+p347
+aVJoel Przybilla MIL 02/12/2002 MIL @ CHI L 16 0 0 0 - 0 0 - 0 0 - 1 4 5 2 0 3 0 5 7
+p348
+aVErvin Johnson MIL 02/12/2002 MIL @ CHI L 28 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 0 2 3 2 4 -15
+p349
+aVDarvin Ham MIL 02/12/2002 MIL @ CHI L 19 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 2 0 2 2 4 -9
+p350
+aVMichael Redd MIL 02/12/2002 MIL @ CHI L 21 2 1 8 12.5 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 -10
+p351
+aVAnthony Mason MIL 02/12/2002 MIL @ CHI L 40 11 2 5 40.0 0 0 - 7 7 100.0 2 7 9 6 0 0 2 4 3
+p352
+aVRay Allen MIL 02/07/2002 MIL vs. MEM W 33 29 10 21 47.6 3 8 37.5 6 6 100.0 1 4 5 3 1 0 3 5 -4
+p353
+aVErvin Johnson MIL 02/07/2002 MIL vs. MEM W 16 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 0 4 4
+p354
+aVSam Cassell MIL 02/07/2002 MIL vs. MEM W 45 29 11 21 52.4 3 5 60.0 4 5 80.0 0 7 7 10 0 0 3 4 7
+p355
+aVAnthony Mason MIL 02/07/2002 MIL vs. MEM W 36 12 4 7 57.1 0 0 - 4 5 80.0 1 7 8 8 3 0 2 4 -2
+p356
+aVJoel Przybilla MIL 02/07/2002 MIL vs. MEM W 18 6 3 6 50.0 0 0 - 0 0 - 4 2 6 0 0 3 0 2 -19
+p357
+aVGlenn Robinson MIL 02/07/2002 MIL vs. MEM W 36 10 5 11 45.5 0 3 0.0 0 0 - 0 5 5 5 4 1 4 2 -4
+p358
+aVDarvin Ham MIL 02/07/2002 MIL vs. MEM W 26 6 3 5 60.0 0 0 - 0 0 - 2 0 2 2 0 0 0 1 26
+p359
+aVMichael Redd MIL 02/07/2002 MIL vs. MEM W 30 15 5 10 50.0 1 5 20.0 4 4 100.0 1 3 4 2 1 0 3 2 12
+p360
+aVSam Cassell MIL 02/02/2002 MIL vs. PHI L 40 10 4 11 36.4 1 3 33.3 1 1 100.0 0 2 2 7 1 1 4 5 -7
+p361
+aVRay Allen MIL 02/02/2002 MIL vs. PHI L 38 20 8 23 34.8 2 8 25.0 2 3 66.7 3 4 7 3 1 1 3 1 1
+p362
+aVErvin Johnson MIL 02/02/2002 MIL vs. PHI L 29 4 2 4 50.0 0 0 - 0 0 - 5 6 11 0 0 4 2 4 -4
+p363
+aVGlenn Robinson MIL 02/02/2002 MIL vs. PHI L 38 18 7 20 35.0 2 6 33.3 2 3 66.7 3 5 8 4 1 2 6 6 -4
+p364
+aVAnthony Mason MIL 02/02/2002 MIL vs. PHI L 43 11 5 9 55.6 0 0 - 1 2 50.0 3 10 13 5 0 0 3 3 -5
+p365
+aVJoel Przybilla MIL 02/02/2002 MIL vs. PHI L 18 3 1 2 50.0 0 0 - 1 1 100.0 3 2 5 1 1 1 1 4 -2
+p366
+aVTim Thomas MIL 02/02/2002 MIL vs. PHI L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 1
+p367
+aVMichael Redd MIL 02/02/2002 MIL vs. PHI L 16 13 6 10 60.0 1 3 33.3 0 0 - 1 1 2 1 2 0 1 1 -3
+p368
+aVMark Pope MIL 02/02/2002 MIL vs. PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p369
+aVDarvin Ham MIL 02/02/2002 MIL vs. PHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 0
+p370
+aVDarvin Ham MIL 01/31/2002 MIL @ NJN L 14 5 1 2 50.0 0 0 - 3 5 60.0 1 1 2 0 1 0 1 2 -15
+p371
+aVTim Thomas MIL 01/31/2002 MIL @ NJN L 28 11 5 10 50.0 1 1 100.0 0 0 - 1 1 2 1 4 0 3 2 -19
+p372
+aVMichael Redd MIL 01/31/2002 MIL @ NJN L 24 11 3 8 37.5 1 1 100.0 4 5 80.0 1 0 1 0 0 0 2 2 -7
+p373
+aVSam Cassell MIL 01/31/2002 MIL @ NJN L 36 19 6 15 40.0 2 5 40.0 5 6 83.3 0 5 5 7 0 0 5 4 -19
+p374
+aVErvin Johnson MIL 01/31/2002 MIL @ NJN L 19 2 1 2 50.0 0 0 - 0 3 0.0 2 5 7 0 0 3 1 3 8
+p375
+aVAnthony Mason MIL 01/31/2002 MIL @ NJN L 38 13 4 10 40.0 0 0 - 5 5 100.0 1 6 7 4 0 0 1 2 -17
+p376
+aVGlenn Robinson MIL 01/31/2002 MIL @ NJN L 27 23 6 17 35.3 2 3 66.7 9 10 90.0 2 1 3 1 0 1 3 3 -3
+p377
+aVRay Allen MIL 01/31/2002 MIL @ NJN L 29 15 6 9 66.7 3 4 75.0 0 0 - 0 3 3 5 2 1 3 5 -26
+p378
+aVMark Pope MIL 01/31/2002 MIL @ NJN L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -1
+p379
+aVRafer Alston MIL 01/31/2002 MIL @ NJN L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p380
+aVJoel Przybilla MIL 01/31/2002 MIL @ NJN L 17 1 0 1 0.0 0 0 - 1 6 16.7 2 1 3 0 0 2 1 1 -25
+p381
+aVTim Thomas MIL 01/29/2002 MIL vs. BOS W 30 14 5 10 50.0 2 4 50.0 2 3 66.7 0 5 5 1 2 0 1 3 22
+p382
+aVMichael Redd MIL 01/29/2002 MIL vs. BOS W 16 8 3 5 60.0 2 2 100.0 0 1 0.0 0 1 1 0 0 0 1 0 -4
+p383
+aVGlenn Robinson MIL 01/29/2002 MIL vs. BOS W 26 19 9 16 56.3 1 2 50.0 0 0 - 0 3 3 3 3 0 4 4 2
+p384
+aVRay Allen MIL 01/29/2002 MIL vs. BOS W 36 19 6 15 40.0 3 7 42.9 4 4 100.0 3 6 9 8 3 0 3 1 17
+p385
+aVSam Cassell MIL 01/29/2002 MIL vs. BOS W 36 20 8 17 47.1 3 5 60.0 1 1 100.0 0 6 6 9 0 0 2 3 30
+p386
+aVJoel Przybilla MIL 01/29/2002 MIL vs. BOS W 16 4 2 2 100.0 0 0 - 0 2 0.0 0 1 1 1 1 3 2 6 13
+p387
+aVErvin Johnson MIL 01/29/2002 MIL vs. BOS W 21 10 3 4 75.0 0 1 0.0 4 4 100.0 1 8 9 2 0 2 1 0 -7
+p388
+aVMark Pope MIL 01/29/2002 MIL vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p389
+aVDarvin Ham MIL 01/29/2002 MIL vs. BOS W 18 5 2 2 100.0 0 0 - 1 2 50.0 2 2 4 1 0 0 2 2 -4
+p390
+aVAnthony Mason MIL 01/29/2002 MIL vs. BOS W 36 10 2 4 50.0 0 0 - 6 7 85.7 1 10 11 5 0 0 0 2 28
+p391
+aVRafer Alston MIL 01/29/2002 MIL vs. BOS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -1
+p392
+aVRay Allen MIL 01/26/2002 MIL vs. NYK L 46 23 8 24 33.3 4 9 44.4 3 4 75.0 3 0 3 5 1 0 2 3 -6
+p393
+aVGlenn Robinson MIL 01/26/2002 MIL vs. NYK L 40 38 15 28 53.6 2 4 50.0 6 7 85.7 1 7 8 0 1 1 3 2 -1
+p394
+aVSam Cassell MIL 01/26/2002 MIL vs. NYK L 55 20 7 13 53.8 0 2 0.0 6 7 85.7 0 7 7 12 2 0 1 4 9
+p395
+aVJoel Przybilla MIL 01/26/2002 MIL vs. NYK L 14 3 1 2 50.0 0 0 - 1 1 100.0 2 1 3 1 0 1 0 2 1
+p396
+aVMichael Redd MIL 01/26/2002 MIL vs. NYK L 27 13 5 10 50.0 2 3 66.7 1 1 100.0 1 2 3 3 1 0 2 1 5
+p397
+aVDarvin Ham MIL 01/26/2002 MIL vs. NYK L 12 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 2 5 -20
+p398
+aVErvin Johnson MIL 01/26/2002 MIL vs. NYK L 21 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 2 0 2 -3
+p399
+aVAnthony Mason MIL 01/26/2002 MIL vs. NYK L 50 22 8 14 57.1 0 0 - 6 10 60.0 4 14 18 6 0 1 1 3 5
+p400
+aVTim Thomas MIL 01/26/2002 MIL vs. NYK L 25 8 3 11 27.3 0 4 0.0 2 2 100.0 1 1 2 0 1 0 0 4 0
+p401
+aVRay Allen MIL 01/24/2002 MIL vs. SEA L 38 11 4 15 26.7 1 10 10.0 2 2 100.0 1 1 2 5 1 0 1 1 5
+p402
+aVErvin Johnson MIL 01/24/2002 MIL vs. SEA L 14 0 0 0 - 0 0 - 0 0 - 0 4 4 0 1 0 0 1 -17
+p403
+aVDarvin Ham MIL 01/24/2002 MIL vs. SEA L 17 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 3 1 -16
+p404
+aVTim Thomas MIL 01/24/2002 MIL vs. SEA L 33 17 7 15 46.7 2 7 28.6 1 2 50.0 4 1 5 4 0 0 2 3 4
+p405
+aVMark Pope MIL 01/24/2002 MIL vs. SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p406
+aVJoel Przybilla MIL 01/24/2002 MIL vs. SEA L 20 4 2 3 66.7 0 0 - 0 0 - 2 12 14 0 0 2 1 4 11
+p407
+aVMichael Redd MIL 01/24/2002 MIL vs. SEA L 27 16 7 16 43.8 1 4 25.0 1 2 50.0 2 1 3 1 1 0 2 2 -24
+p408
+aVAnthony Mason MIL 01/24/2002 MIL vs. SEA L 41 8 2 7 28.6 0 0 - 4 6 66.7 3 4 7 6 0 0 2 2 -4
+p409
+aVSam Cassell MIL 01/24/2002 MIL vs. SEA L 43 29 11 20 55.0 4 7 57.1 3 4 75.0 1 5 6 6 0 0 0 5 -10
+p410
+aVJason Caffey MIL 01/24/2002 MIL vs. SEA L 6 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 1 0 1 0 -2
+p411
+aVSam Cassell MIL 01/22/2002 MIL vs. PHX L 41 24 10 20 50.0 0 2 0.0 4 5 80.0 0 4 4 3 0 0 1 2 -12
+p412
+aVErvin Johnson MIL 01/22/2002 MIL vs. PHX L 15 0 0 1 0.0 0 0 - 0 0 - 1 7 8 0 0 0 0 2 -9
+p413
+aVJoel Przybilla MIL 01/22/2002 MIL vs. PHX L 25 10 5 8 62.5 0 0 - 0 0 - 4 4 8 1 1 2 1 2 -4
+p414
+aVRay Allen MIL 01/22/2002 MIL vs. PHX L 39 10 2 15 13.3 0 5 0.0 6 7 85.7 0 4 4 0 2 0 1 4 -10
+p415
+aVAnthony Mason MIL 01/22/2002 MIL vs. PHX L 38 10 4 6 66.7 0 0 - 2 2 100.0 1 5 6 8 1 0 1 2 -7
+p416
+aVMichael Redd MIL 01/22/2002 MIL vs. PHX L 27 16 5 11 45.5 0 1 0.0 6 9 66.7 2 4 6 3 1 0 1 3 0
+p417
+aVDarvin Ham MIL 01/22/2002 MIL vs. PHX L 21 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 2 1 3 -5
+p418
+aVTim Thomas MIL 01/22/2002 MIL vs. PHX L 34 7 2 14 14.3 0 7 0.0 3 4 75.0 1 2 3 1 1 0 3 3 -8
+p419
+aVTim Thomas MIL 01/21/2002 MIL @ DET W 27 11 3 9 33.3 2 5 40.0 3 3 100.0 0 6 6 1 1 0 5 4 22
+p420
+aVAnthony Mason MIL 01/21/2002 MIL @ DET W 36 9 3 6 50.0 0 0 - 3 4 75.0 0 8 8 4 0 0 0 3 14
+p421
+aVMichael Redd MIL 01/21/2002 MIL @ DET W 32 21 8 18 44.4 3 3 100.0 2 2 100.0 3 3 6 2 0 0 0 2 11
+p422
+aVMark Pope MIL 01/21/2002 MIL @ DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p423
+aVErvin Johnson MIL 01/21/2002 MIL @ DET W 16 4 1 4 25.0 0 0 - 2 3 66.7 1 3 4 0 0 2 0 5 6
+p424
+aVRafer Alston MIL 01/21/2002 MIL @ DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p425
+aVJoel Przybilla MIL 01/21/2002 MIL @ DET W 28 12 3 4 75.0 0 0 - 6 10 60.0 2 11 13 0 1 1 0 3 5
+p426
+aVRay Allen MIL 01/21/2002 MIL @ DET W 35 16 6 16 37.5 3 8 37.5 1 1 100.0 1 2 3 3 2 0 2 0 13
+p427
+aVSam Cassell MIL 01/21/2002 MIL @ DET W 34 18 8 16 50.0 0 2 0.0 2 2 100.0 1 8 9 8 1 0 5 3 22
+p428
+aVDarvin Ham MIL 01/21/2002 MIL @ DET W 27 6 3 5 60.0 0 0 - 0 1 0.0 5 0 5 1 0 2 4 3 7
+p429
+aVJoel Przybilla MIL 01/19/2002 MIL @ ATL W 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 2 0 0 1 -6
+p430
+aVJason Caffey MIL 01/19/2002 MIL @ ATL W 26 17 6 11 54.5 0 0 - 5 6 83.3 2 2 4 0 0 2 2 3 10
+p431
+aVAnthony Mason MIL 01/19/2002 MIL @ ATL W 39 17 7 8 87.5 0 0 - 3 3 100.0 1 7 8 2 2 1 2 1 7
+p432
+aVDarvin Ham MIL 01/19/2002 MIL @ ATL W 15 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 1 0 1 7
+p433
+aVRay Allen MIL 01/19/2002 MIL @ ATL W 37 31 11 17 64.7 5 10 50.0 4 4 100.0 1 5 6 6 3 0 3 1 7
+p434
+aVTim Thomas MIL 01/19/2002 MIL @ ATL W 26 5 1 7 14.3 1 5 20.0 2 2 100.0 1 7 8 1 0 0 1 3 14
+p435
+aVMark Pope MIL 01/19/2002 MIL @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p436
+aVSam Cassell MIL 01/19/2002 MIL @ ATL W 33 17 6 13 46.2 0 2 0.0 5 8 62.5 1 2 3 9 1 1 0 3 9
+p437
+aVRafer Alston MIL 01/19/2002 MIL @ ATL W 13 6 2 4 50.0 1 1 100.0 1 2 50.0 0 0 0 4 0 0 1 2 2
+p438
+aVErvin Johnson MIL 01/19/2002 MIL @ ATL W 20 3 1 5 20.0 0 0 - 1 2 50.0 3 1 4 1 0 1 1 1 4
+p439
+aVMichael Redd MIL 01/19/2002 MIL @ ATL W 23 14 5 10 50.0 0 1 0.0 4 4 100.0 2 4 6 2 0 0 1 2 -7
+p440
+aVMark Pope MIL 01/18/2002 MIL vs. ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p441
+aVMichael Redd MIL 01/18/2002 MIL vs. ORL W 25 15 5 10 50.0 1 1 100.0 4 4 100.0 0 4 4 5 0 0 0 1 12
+p442
+aVDarvin Ham MIL 01/18/2002 MIL vs. ORL W 22 13 5 5 100.0 0 0 - 3 6 50.0 3 0 3 0 0 1 0 1 -8
+p443
+aVJoel Przybilla MIL 01/18/2002 MIL vs. ORL W 15 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 1 0 4 0 1 -3
+p444
+aVErvin Johnson MIL 01/18/2002 MIL vs. ORL W 19 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 1 1 3 7
+p445
+aVSam Cassell MIL 01/18/2002 MIL vs. ORL W 42 26 9 17 52.9 1 2 50.0 7 9 77.8 1 8 9 8 0 1 3 5 -5
+p446
+aVTim Thomas MIL 01/18/2002 MIL vs. ORL W 38 22 8 14 57.1 0 2 0.0 6 7 85.7 1 7 8 4 1 1 1 3 10
+p447
+aVAnthony Mason MIL 01/18/2002 MIL vs. ORL W 38 2 1 6 16.7 0 0 - 0 0 - 0 7 7 8 0 0 2 2 5
+p448
+aVRay Allen MIL 01/18/2002 MIL vs. ORL W 41 28 9 16 56.3 6 8 75.0 4 4 100.0 0 4 4 5 0 0 6 2 7
+p449
+aVJason Caffey MIL 01/16/2002 MIL vs. IND W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p450
+aVErvin Johnson MIL 01/16/2002 MIL vs. IND W 27 5 2 3 66.7 0 0 - 1 2 50.0 4 10 14 2 0 1 0 3 8
+p451
+aVMichael Redd MIL 01/16/2002 MIL vs. IND W 17 7 2 7 28.6 1 2 50.0 2 2 100.0 0 0 0 2 0 0 0 0 2
+p452
+aVJoel Przybilla MIL 01/16/2002 MIL vs. IND W 15 2 0 1 0.0 0 0 - 2 4 50.0 3 3 6 1 0 0 1 2 0
+p453
+aVSam Cassell MIL 01/16/2002 MIL vs. IND W 38 20 4 16 25.0 0 2 0.0 12 15 80.0 4 1 5 9 0 0 2 5 -1
+p454
+aVDarvin Ham MIL 01/16/2002 MIL vs. IND W 23 6 3 4 75.0 0 0 - 0 2 0.0 0 2 2 1 0 0 4 5 -5
+p455
+aVRay Allen MIL 01/16/2002 MIL vs. IND W 42 36 12 23 52.2 7 9 77.8 5 6 83.3 2 1 3 2 2 1 1 3 9
+p456
+aVTim Thomas MIL 01/16/2002 MIL vs. IND W 37 19 8 16 50.0 3 7 42.9 0 0 - 1 2 3 3 2 1 2 1 17
+p457
+aVAnthony Mason MIL 01/16/2002 MIL vs. IND W 40 10 5 8 62.5 0 0 - 0 2 0.0 1 6 7 6 1 0 0 2 -2
+p458
+aVMichael Redd MIL 01/15/2002 MIL @ IND W 24 15 6 11 54.5 2 3 66.7 1 1 100.0 2 3 5 3 1 0 2 5 7
+p459
+aVDarvin Ham MIL 01/15/2002 MIL @ IND W 20 0 0 3 0.0 0 0 - 0 2 0.0 1 1 2 1 0 0 1 4 -5
+p460
+aVTim Thomas MIL 01/15/2002 MIL @ IND W 37 25 8 18 44.4 3 8 37.5 6 8 75.0 2 2 4 2 0 1 2 2 10
+p461
+aVJoel Przybilla MIL 01/15/2002 MIL @ IND W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 -13
+p462
+aVAnthony Mason MIL 01/15/2002 MIL @ IND W 38 14 6 10 60.0 0 0 - 2 4 50.0 0 8 8 3 0 2 2 1 -4
+p463
+aVSam Cassell MIL 01/15/2002 MIL @ IND W 35 23 7 19 36.8 1 4 25.0 8 9 88.9 2 4 6 7 2 1 3 2 -10
+p464
+aVJason Caffey MIL 01/15/2002 MIL @ IND W 19 5 1 3 33.3 0 0 - 3 4 75.0 3 1 4 0 0 0 2 5 12
+p465
+aVErvin Johnson MIL 01/15/2002 MIL @ IND W 19 1 0 0 - 0 0 - 1 2 50.0 2 5 7 0 0 1 2 2 14
+p466
+aVRay Allen MIL 01/15/2002 MIL @ IND W 37 23 7 16 43.8 4 5 80.0 5 6 83.3 2 4 6 3 0 1 1 3 9
+p467
+aVMark Pope MIL 01/15/2002 MIL @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p468
+aVTim Thomas MIL 01/12/2002 MIL @ NYK W 34 9 3 10 30.0 0 3 0.0 3 4 75.0 0 4 4 2 2 0 4 3 -2
+p469
+aVMichael Redd MIL 01/12/2002 MIL @ NYK W 22 7 3 12 25.0 1 4 25.0 0 0 - 3 2 5 1 0 0 0 1 -5
+p470
+aVJoel Przybilla MIL 01/12/2002 MIL @ NYK W 18 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 2 13
+p471
+aVRay Allen MIL 01/12/2002 MIL @ NYK W 36 37 10 17 58.8 8 13 61.5 9 11 81.8 1 7 8 2 3 1 2 4 6
+p472
+aVAnthony Mason MIL 01/12/2002 MIL @ NYK W 39 12 4 8 50.0 0 0 - 4 6 66.7 2 7 9 5 1 0 1 2 14
+p473
+aVJason Caffey MIL 01/12/2002 MIL @ NYK W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 0
+p474
+aVDarvin Ham MIL 01/12/2002 MIL @ NYK W 22 7 2 4 50.0 0 1 0.0 3 3 100.0 0 2 2 1 1 1 1 5 -3
+p475
+aVErvin Johnson MIL 01/12/2002 MIL @ NYK W 21 2 1 1 100.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 2 -10
+p476
+aVSam Cassell MIL 01/12/2002 MIL @ NYK W 40 24 8 21 38.1 1 7 14.3 7 8 87.5 0 5 5 5 3 0 4 4 12
+p477
+aVSam Cassell MIL 01/11/2002 MIL vs. WAS W 31 18 8 18 44.4 0 1 0.0 2 2 100.0 1 1 2 6 2 0 3 2 10
+p478
+aVMichael Redd MIL 01/11/2002 MIL vs. WAS W 22 14 6 12 50.0 2 3 66.7 0 0 - 0 3 3 4 0 0 2 0 7
+p479
+aVDarvin Ham MIL 01/11/2002 MIL vs. WAS W 21 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 2 1 0 3 3 7
+p480
+aVJason Caffey MIL 01/11/2002 MIL vs. WAS W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 1 7
+p481
+aVRay Allen MIL 01/11/2002 MIL vs. WAS W 33 27 11 19 57.9 4 5 80.0 1 2 50.0 0 3 3 4 3 0 1 1 14
+p482
+aVTim Thomas MIL 01/11/2002 MIL vs. WAS W 35 25 9 13 69.2 4 4 100.0 3 3 100.0 3 3 6 4 0 1 1 4 19
+p483
+aVErvin Johnson MIL 01/11/2002 MIL vs. WAS W 22 2 1 2 50.0 0 0 - 0 0 - 3 2 5 0 1 0 0 5 3
+p484
+aVJoel Przybilla MIL 01/11/2002 MIL vs. WAS W 20 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 2 0 2 4
+p485
+aVRafer Alston MIL 01/11/2002 MIL vs. WAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p486
+aVMark Pope MIL 01/11/2002 MIL vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p487
+aVAnthony Mason MIL 01/11/2002 MIL vs. WAS W 39 12 6 13 46.2 0 0 - 0 1 0.0 3 9 12 7 1 0 2 1 23
+p488
+aVJoel Przybilla MIL 01/08/2002 MIL @ GSW W 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 4 0 5 1
+p489
+aVSam Cassell MIL 01/08/2002 MIL @ GSW W 40 23 10 18 55.6 2 2 100.0 1 2 50.0 2 6 8 10 2 0 5 2 24
+p490
+aVRafer Alston MIL 01/08/2002 MIL @ GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p491
+aVRay Allen MIL 01/08/2002 MIL @ GSW W 36 13 5 15 33.3 1 6 16.7 2 3 66.7 1 3 4 4 3 0 1 2 0
+p492
+aVDarvin Ham MIL 01/08/2002 MIL @ GSW W 21 14 6 9 66.7 0 0 - 2 4 50.0 1 1 2 1 0 0 0 4 6
+p493
+aVMichael Redd MIL 01/08/2002 MIL @ GSW W 23 18 8 10 80.0 2 3 66.7 0 0 - 1 4 5 2 0 0 0 1 13
+p494
+aVTim Thomas MIL 01/08/2002 MIL @ GSW W 28 17 4 6 66.7 3 5 60.0 6 6 100.0 0 4 4 1 1 0 3 6 9
+p495
+aVJason Caffey MIL 01/08/2002 MIL @ GSW W 18 16 6 10 60.0 0 0 - 4 6 66.7 0 4 4 0 0 0 0 3 7
+p496
+aVMark Pope MIL 01/08/2002 MIL @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p497
+aVErvin Johnson MIL 01/08/2002 MIL @ GSW W 24 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 1 4 1 2 20
+p498
+aVAnthony Mason MIL 01/08/2002 MIL @ GSW W 32 8 2 8 25.0 0 0 - 4 6 66.7 1 3 4 6 0 0 1 5 4
+p499
+aVTim Thomas MIL 01/06/2002 MIL @ SAC L 40 20 8 19 42.1 2 4 50.0 2 2 100.0 1 6 7 4 0 0 1 3 -8
+p500
+aVMark Pope MIL 01/06/2002 MIL @ SAC L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -1
+p501
+aVMichael Redd MIL 01/06/2002 MIL @ SAC L 26 16 7 17 41.2 1 5 20.0 1 1 100.0 3 2 5 0 1 0 1 3 -7
+p502
+aVErvin Johnson MIL 01/06/2002 MIL @ SAC L 19 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 2 1 -16
+p503
+aVJoel Przybilla MIL 01/06/2002 MIL @ SAC L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 3 1 2 2
+p504
+aVRafer Alston MIL 01/06/2002 MIL @ SAC L 37 14 6 11 54.5 2 3 66.7 0 0 - 1 3 4 6 2 1 5 3 -12
+p505
+aVRay Allen MIL 01/06/2002 MIL @ SAC L 40 29 9 18 50.0 7 13 53.8 4 4 100.0 1 3 4 6 1 0 5 1 -5
+p506
+aVAnthony Mason MIL 01/06/2002 MIL @ SAC L 39 10 4 12 33.3 0 0 - 2 2 100.0 3 11 14 3 0 0 1 1 -18
+p507
+aVDarvin Ham MIL 01/06/2002 MIL @ SAC L 23 7 2 2 100.0 0 0 - 3 4 75.0 0 0 0 2 0 0 0 3 -5
+p508
+aVMichael Redd MIL 01/05/2002 MIL @ LAC L 16 8 4 9 44.4 0 2 0.0 0 0 - 0 2 2 1 0 0 0 3 6
+p509
+aVJoel Przybilla MIL 01/05/2002 MIL @ LAC L 9 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 1 0 1 2 -9
+p510
+aVTim Thomas MIL 01/05/2002 MIL @ LAC L 40 15 6 18 33.3 2 8 25.0 1 1 100.0 0 3 3 1 0 1 1 2 -9
+p511
+aVRafer Alston MIL 01/05/2002 MIL @ LAC L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 3 1 0 2 1 7
+p512
+aVDarvin Ham MIL 01/05/2002 MIL @ LAC L 22 6 3 3 100.0 0 0 - 0 0 - 2 2 4 2 0 0 2 4 13
+p513
+aVSam Cassell MIL 01/05/2002 MIL @ LAC L 34 20 9 18 50.0 0 0 - 2 2 100.0 1 6 7 4 1 0 2 1 0
+p514
+aVAnthony Mason MIL 01/05/2002 MIL @ LAC L 39 6 3 6 50.0 0 0 - 0 0 - 1 7 8 6 0 0 4 3 -12
+p515
+aVErvin Johnson MIL 01/05/2002 MIL @ LAC L 29 2 1 2 50.0 0 0 - 0 0 - 3 6 9 1 0 0 1 5 -7
+p516
+aVRay Allen MIL 01/05/2002 MIL @ LAC L 41 24 9 22 40.9 4 7 57.1 2 3 66.7 0 3 3 4 0 0 3 2 -4
+p517
+aVRafer Alston MIL 01/02/2002 MIL @ MIN L 40 10 3 11 27.3 1 5 20.0 3 7 42.9 1 4 5 8 2 0 2 3 -8
+p518
+aVMark Pope MIL 01/02/2002 MIL @ MIN L 25 7 3 9 33.3 0 2 0.0 1 2 50.0 2 4 6 1 0 0 1 3 3
+p519
+aVAnthony Mason MIL 01/02/2002 MIL @ MIN L 34 4 2 5 40.0 0 0 - 0 0 - 1 7 8 0 0 1 0 2 -23
+p520
+aVTim Thomas MIL 01/02/2002 MIL @ MIN L 33 20 8 24 33.3 1 7 14.3 3 4 75.0 1 4 5 3 0 0 1 3 -18
+p521
+aVMichael Redd MIL 01/02/2002 MIL @ MIN L 43 22 9 20 45.0 3 6 50.0 1 2 50.0 1 7 8 2 0 0 2 4 -19
+p522
+aVJoel Przybilla MIL 01/02/2002 MIL @ MIN L 21 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 3 1 2 -5
+p523
+aVDarvin Ham MIL 01/02/2002 MIL @ MIN L 19 4 0 4 0.0 0 0 - 4 8 50.0 3 1 4 0 0 1 0 2 -10
+p524
+aVErvin Johnson MIL 01/02/2002 MIL @ MIN L 19 3 1 3 33.3 0 0 - 1 2 50.0 4 3 7 0 1 0 1 2 -11
+p525
+aVJason Caffey MIL 01/02/2002 MIL @ MIN L 7 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 1
+p526
+aVAnthony Mason MIL 12/31/2001 MIL @ CHI L 43 11 4 6 66.7 0 0 - 3 5 60.0 1 6 7 4 2 1 2 4 -7
+p527
+aVErvin Johnson MIL 12/31/2001 MIL @ CHI L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p528
+aVTim Thomas MIL 12/31/2001 MIL @ CHI L 40 19 6 15 40.0 2 5 40.0 5 8 62.5 2 3 5 1 1 0 3 6 -7
+p529
+aVDarvin Ham MIL 12/31/2001 MIL @ CHI L 32 3 0 5 0.0 0 2 0.0 3 4 75.0 1 3 4 1 1 0 3 2 2
+p530
+aVMark Pope MIL 12/31/2001 MIL @ CHI L 22 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 1 0 4 0
+p531
+aVSam Cassell MIL 12/31/2001 MIL @ CHI L 39 28 12 23 52.2 2 3 66.7 2 3 66.7 0 2 2 6 2 0 2 2 -6
+p532
+aVRafer Alston MIL 12/31/2001 MIL @ CHI L 17 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 5 0 0 1 2 -5
+p533
+aVMichael Redd MIL 12/31/2001 MIL @ CHI L 40 13 6 12 50.0 1 4 25.0 0 0 - 0 6 6 4 0 0 3 2 -14
+p534
+aVJoel Przybilla MIL 12/29/2001 MIL vs. SAS W 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 1 1 4 -9
+p535
+aVMark Pope MIL 12/29/2001 MIL vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p536
+aVErvin Johnson MIL 12/29/2001 MIL vs. SAS W 28 2 1 1 100.0 0 0 - 0 0 - 1 6 7 0 2 2 2 6 -6
+p537
+aVGlenn Robinson MIL 12/29/2001 MIL vs. SAS W 33 24 10 17 58.8 1 3 33.3 3 4 75.0 0 3 3 2 1 0 4 2 1
+p538
+aVSam Cassell MIL 12/29/2001 MIL vs. SAS W 41 15 5 19 26.3 0 2 0.0 5 6 83.3 1 5 6 7 2 0 3 3 -4
+p539
+aVMichael Redd MIL 12/29/2001 MIL vs. SAS W 32 7 2 7 28.6 1 2 50.0 2 3 66.7 0 4 4 3 3 1 1 2 -1
+p540
+aVRafer Alston MIL 12/29/2001 MIL vs. SAS W 12 3 1 4 25.0 1 2 50.0 0 2 0.0 1 1 2 8 1 0 1 0 7
+p541
+aVAnthony Mason MIL 12/29/2001 MIL vs. SAS W 47 18 8 14 57.1 0 0 - 2 2 100.0 1 10 11 8 1 1 1 4 9
+p542
+aVTim Thomas MIL 12/29/2001 MIL vs. SAS W 39 24 9 19 47.4 4 7 57.1 2 2 100.0 1 8 9 0 0 0 2 1 8
+p543
+aVDarvin Ham MIL 12/29/2001 MIL vs. SAS W 23 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 2 1 1 1 1 10
+p544
+aVRafer Alston MIL 12/28/2001 MIL @ CHH W 14 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 3 1 0 0 1 11
+p545
+aVMark Pope MIL 12/28/2001 MIL @ CHH W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p546
+aVTim Thomas MIL 12/28/2001 MIL @ CHH W 26 18 7 13 53.8 3 7 42.9 1 3 33.3 3 2 5 1 0 1 3 3 8
+p547
+aVMichael Redd MIL 12/28/2001 MIL @ CHH W 32 10 4 10 40.0 2 5 40.0 0 0 - 3 3 6 2 2 1 2 1 3
+p548
+aVAnthony Mason MIL 12/28/2001 MIL @ CHH W 42 4 2 8 25.0 0 0 - 0 0 - 3 8 11 4 0 0 1 2 8
+p549
+aVGlenn Robinson MIL 12/28/2001 MIL @ CHH W 37 21 9 19 47.4 1 4 25.0 2 3 66.7 0 6 6 3 1 0 4 1 7
+p550
+aVErvin Johnson MIL 12/28/2001 MIL @ CHH W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 3 11
+p551
+aVJoel Przybilla MIL 12/28/2001 MIL @ CHH W 22 5 2 6 33.3 0 0 - 1 2 50.0 2 5 7 1 0 1 1 3 10
+p552
+aVSam Cassell MIL 12/28/2001 MIL @ CHH W 34 29 12 20 60.0 3 6 50.0 2 2 100.0 2 2 4 6 2 0 2 2 5
+p553
+aVDarvin Ham MIL 12/28/2001 MIL @ CHH W 27 12 4 5 80.0 0 0 - 4 4 100.0 1 4 5 1 0 1 1 2 17
+p554
+aVGlenn Robinson MIL 12/26/2001 MIL vs. ATL W 35 32 12 23 52.2 4 9 44.4 4 4 100.0 0 3 3 2 2 3 0 4 -1
+p555
+aVErvin Johnson MIL 12/26/2001 MIL vs. ATL W 13 4 2 2 100.0 0 0 - 0 0 - 1 4 5 1 0 0 0 2 -1
+p556
+aVMichael Redd MIL 12/26/2001 MIL vs. ATL W 30 17 6 13 46.2 0 3 0.0 5 6 83.3 6 5 11 2 2 0 0 1 5
+p557
+aVTim Thomas MIL 12/26/2001 MIL vs. ATL W 34 16 5 9 55.6 2 5 40.0 4 6 66.7 1 8 9 2 3 1 3 1 20
+p558
+aVRafer Alston MIL 12/26/2001 MIL vs. ATL W 13 10 4 4 100.0 2 2 100.0 0 0 - 1 1 2 3 0 0 0 1 -4
+p559
+aVSam Cassell MIL 12/26/2001 MIL vs. ATL W 35 12 5 14 35.7 0 1 0.0 2 4 50.0 0 2 2 11 3 0 1 3 14
+p560
+aVDarvin Ham MIL 12/26/2001 MIL vs. ATL W 26 14 6 10 60.0 0 0 - 2 2 100.0 0 4 4 2 0 0 5 4 7
+p561
+aVAnthony Mason MIL 12/26/2001 MIL vs. ATL W 42 2 1 6 16.7 0 0 - 0 0 - 0 7 7 2 0 0 1 1 15
+p562
+aVJoel Przybilla MIL 12/26/2001 MIL vs. ATL W 12 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 1 0 3 -5
+p563
+aVJoel Przybilla MIL 12/23/2001 MIL @ SAS W 17 4 1 1 100.0 0 0 - 2 4 50.0 0 2 2 0 0 2 0 4 -1
+p564
+aVAnthony Mason MIL 12/23/2001 MIL @ SAS W 40 2 1 5 20.0 0 0 - 0 0 - 0 3 3 4 1 1 0 3 14
+p565
+aVTim Thomas MIL 12/23/2001 MIL @ SAS W 29 8 3 10 30.0 1 5 20.0 1 2 50.0 0 9 9 2 1 0 1 3 3
+p566
+aVGlenn Robinson MIL 12/23/2001 MIL @ SAS W 39 30 15 26 57.7 0 0 - 0 1 0.0 1 3 4 2 1 0 4 3 9
+p567
+aVErvin Johnson MIL 12/23/2001 MIL @ SAS W 26 6 3 4 75.0 0 0 - 0 0 - 1 8 9 0 1 4 1 3 11
+p568
+aVRafer Alston MIL 12/23/2001 MIL @ SAS W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 1 0 1 0 4
+p569
+aVSam Cassell MIL 12/23/2001 MIL @ SAS W 36 33 13 19 68.4 2 2 100.0 5 5 100.0 0 4 4 3 3 0 3 2 6
+p570
+aVMichael Redd MIL 12/23/2001 MIL @ SAS W 31 16 6 11 54.5 2 3 66.7 2 2 100.0 1 5 6 1 1 0 1 2 6
+p571
+aVDarvin Ham MIL 12/23/2001 MIL @ SAS W 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -2
+p572
+aVMichael Redd MIL 12/22/2001 MIL @ HOU L 25 16 7 12 58.3 0 1 0.0 2 2 100.0 1 1 2 1 0 0 2 3 -6
+p573
+aVAnthony Mason MIL 12/22/2001 MIL @ HOU L 42 13 5 11 45.5 0 0 - 3 6 50.0 0 8 8 6 1 0 0 2 -7
+p574
+aVTim Thomas MIL 12/22/2001 MIL @ HOU L 32 11 5 12 41.7 1 4 25.0 0 0 - 2 4 6 4 2 0 1 2 3
+p575
+aVErvin Johnson MIL 12/22/2001 MIL @ HOU L 20 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 0 1 3 -2
+p576
+aVSam Cassell MIL 12/22/2001 MIL @ HOU L 37 28 11 20 55.0 1 2 50.0 5 8 62.5 2 4 6 7 2 0 0 0 0
+p577
+aVGlenn Robinson MIL 12/22/2001 MIL @ HOU L 39 29 12 21 57.1 2 4 50.0 3 4 75.0 0 3 3 1 1 0 1 2 -8
+p578
+aVRafer Alston MIL 12/22/2001 MIL @ HOU L 11 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 3 0 0 0 0 -5
+p579
+aVDarvin Ham MIL 12/22/2001 MIL @ HOU L 22 5 2 3 66.7 0 0 - 1 1 100.0 3 2 5 2 0 0 0 4 7
+p580
+aVJoel Przybilla MIL 12/22/2001 MIL @ HOU L 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 2 1 2 -7
+p581
+aVErvin Johnson MIL 12/20/2001 MIL @ DAL L 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p582
+aVDarvin Ham MIL 12/20/2001 MIL @ DAL L 29 8 1 3 33.3 0 0 - 6 9 66.7 6 5 11 1 1 1 3 3 11
+p583
+aVRafer Alston MIL 12/20/2001 MIL @ DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p584
+aVJoel Przybilla MIL 12/20/2001 MIL @ DAL L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -10
+p585
+aVMark Pope MIL 12/20/2001 MIL @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p586
+aVAnthony Mason MIL 12/20/2001 MIL @ DAL L 35 12 5 9 55.6 0 0 - 2 2 100.0 3 6 9 2 0 0 0 2 -11
+p587
+aVGlenn Robinson MIL 12/20/2001 MIL @ DAL L 33 21 7 21 33.3 2 4 50.0 5 5 100.0 2 6 8 4 0 1 2 3 -12
+p588
+aVMichael Redd MIL 12/20/2001 MIL @ DAL L 25 16 6 12 50.0 3 3 100.0 1 1 100.0 2 5 7 2 1 1 0 0 1
+p589
+aVRay Allen MIL 12/20/2001 MIL @ DAL L 35 21 9 23 39.1 2 9 22.2 1 1 100.0 4 4 8 3 4 0 5 1 -20
+p590
+aVTim Thomas MIL 12/20/2001 MIL @ DAL L 26 9 3 9 33.3 1 2 50.0 2 3 66.7 1 2 3 1 0 3 1 2 -10
+p591
+aVSam Cassell MIL 12/20/2001 MIL @ DAL L 31 12 5 15 33.3 0 0 - 2 3 66.7 0 3 3 5 3 0 2 3 -13
+p592
+aVRay Allen MIL 12/18/2001 MIL @ MEM W 41 26 9 17 52.9 5 8 62.5 3 4 75.0 2 7 9 7 0 0 3 2 5
+p593
+aVTim Thomas MIL 12/18/2001 MIL @ MEM W 21 13 4 8 50.0 2 5 40.0 3 4 75.0 3 3 6 2 0 0 0 4 8
+p594
+aVAnthony Mason MIL 12/18/2001 MIL @ MEM W 41 11 5 8 62.5 0 0 - 1 3 33.3 2 7 9 8 1 0 0 5 13
+p595
+aVMark Pope MIL 12/18/2001 MIL @ MEM W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p596
+aVSam Cassell MIL 12/18/2001 MIL @ MEM W 36 20 7 14 50.0 1 2 50.0 5 5 100.0 1 1 2 1 0 0 6 1 12
+p597
+aVMichael Redd MIL 12/18/2001 MIL @ MEM W 18 15 5 7 71.4 3 4 75.0 2 2 100.0 1 1 2 2 0 0 0 0 7
+p598
+aVGlenn Robinson MIL 12/18/2001 MIL @ MEM W 39 23 8 18 44.4 1 4 25.0 6 6 100.0 2 2 4 2 3 3 3 1 0
+p599
+aVJoel Przybilla MIL 12/18/2001 MIL @ MEM W 17 2 1 1 100.0 0 0 - 0 2 0.0 0 5 5 0 0 2 2 3 -5
+p600
+aVDarvin Ham MIL 12/18/2001 MIL @ MEM W 8 2 1 1 100.0 0 0 - 0 2 0.0 2 0 2 2 0 0 0 3 -4
+p601
+aVErvin Johnson MIL 12/18/2001 MIL @ MEM W 18 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 4 0 4 15
+p602
+aVGlenn Robinson MIL 12/15/2001 MIL vs. IND W 35 22 9 15 60.0 2 4 50.0 2 5 40.0 0 9 9 5 4 1 3 0 8
+p603
+aVErvin Johnson MIL 12/15/2001 MIL vs. IND W 16 0 0 5 0.0 0 0 - 0 0 - 6 4 10 0 1 0 0 4 10
+p604
+aVAnthony Mason MIL 12/15/2001 MIL vs. IND W 27 12 4 6 66.7 0 0 - 4 5 80.0 0 4 4 5 0 0 2 3 13
+p605
+aVRafer Alston MIL 12/15/2001 MIL vs. IND W 4 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 -3
+p606
+aVTim Thomas MIL 12/15/2001 MIL vs. IND W 31 9 4 9 44.4 1 3 33.3 0 0 - 1 4 5 1 0 1 5 4 11
+p607
+aVDarvin Ham MIL 12/15/2001 MIL vs. IND W 24 4 2 2 100.0 0 0 - 0 0 - 1 4 5 1 0 1 1 5 11
+p608
+aVMark Pope MIL 12/15/2001 MIL vs. IND W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p609
+aVJoel Przybilla MIL 12/15/2001 MIL vs. IND W 21 7 3 4 75.0 0 0 - 1 3 33.3 2 7 9 0 0 4 0 4 5
+p610
+aVMichael Redd MIL 12/15/2001 MIL vs. IND W 18 21 9 13 69.2 2 4 50.0 1 1 100.0 3 1 4 2 0 0 2 1 12
+p611
+aVRay Allen MIL 12/15/2001 MIL vs. IND W 25 21 7 15 46.7 1 5 20.0 6 8 75.0 0 4 4 7 1 0 1 5 19
+p612
+aVSam Cassell MIL 12/15/2001 MIL vs. IND W 35 19 7 17 41.2 0 0 - 5 5 100.0 0 3 3 11 2 0 4 3 17
+p613
+aVAnthony Mason MIL 12/14/2001 MIL @ PHI W 31 4 2 4 50.0 0 0 - 0 0 - 0 7 7 3 1 0 2 1 2
+p614
+aVErvin Johnson MIL 12/14/2001 MIL @ PHI W 23 1 0 0 - 0 0 - 1 2 50.0 2 3 5 1 1 0 0 4 11
+p615
+aVMark Pope MIL 12/14/2001 MIL @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p616
+aVMichael Redd MIL 12/14/2001 MIL @ PHI W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 8
+p617
+aVGlenn Robinson MIL 12/14/2001 MIL @ PHI W 38 34 14 22 63.6 2 3 66.7 4 5 80.0 1 9 10 2 2 2 4 0 8
+p618
+aVRay Allen MIL 12/14/2001 MIL @ PHI W 25 7 3 11 27.3 1 5 20.0 0 0 - 0 1 1 3 1 1 2 1 2
+p619
+aVRafer Alston MIL 12/14/2001 MIL @ PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p620
+aVDarvin Ham MIL 12/14/2001 MIL @ PHI W 20 3 1 5 20.0 0 0 - 1 6 16.7 8 5 13 3 1 1 2 2 14
+p621
+aVSam Cassell MIL 12/14/2001 MIL @ PHI W 41 29 11 26 42.3 2 2 100.0 5 5 100.0 0 3 3 11 6 0 3 3 19
+p622
+aVJoel Przybilla MIL 12/14/2001 MIL @ PHI W 19 0 0 0 - 0 0 - 0 0 - 0 4 4 0 1 1 3 4 1
+p623
+aVTim Thomas MIL 12/14/2001 MIL @ PHI W 30 16 6 10 60.0 1 4 25.0 3 5 60.0 0 3 3 1 1 0 0 3 15
+p624
+aVTim Thomas MIL 12/11/2001 MIL @ MIA L 28 18 5 13 38.5 2 5 40.0 6 7 85.7 0 2 2 1 0 0 1 4 -1
+p625
+aVRay Allen MIL 12/11/2001 MIL @ MIA L 40 30 10 14 71.4 5 7 71.4 5 5 100.0 1 4 5 1 1 0 1 4 -1
+p626
+aVErvin Johnson MIL 12/11/2001 MIL @ MIA L 17 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 1 0 1 0 3 -4
+p627
+aVSam Cassell MIL 12/11/2001 MIL @ MIA L 41 18 5 17 29.4 0 5 0.0 8 8 100.0 2 7 9 8 3 0 4 2 1
+p628
+aVJoel Przybilla MIL 12/11/2001 MIL @ MIA L 11 4 2 2 100.0 0 0 - 0 2 0.0 0 0 0 0 1 3 0 5 -3
+p629
+aVMichael Redd MIL 12/11/2001 MIL @ MIA L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p630
+aVDarvin Ham MIL 12/11/2001 MIL @ MIA L 14 3 1 1 100.0 0 0 - 1 3 33.3 1 1 2 1 0 1 1 1 -10
+p631
+aVAnthony Mason MIL 12/11/2001 MIL @ MIA L 41 11 3 7 42.9 0 0 - 5 7 71.4 1 5 6 4 1 0 1 3 6
+p632
+aVGlenn Robinson MIL 12/11/2001 MIL @ MIA L 41 12 6 16 37.5 0 1 0.0 0 0 - 0 4 4 6 4 0 4 4 2
+p633
+aVAnthony Mason MIL 12/08/2001 MIL vs. NJN W 29 4 2 6 33.3 0 0 - 0 0 - 2 10 12 7 0 0 3 1 15
+p634
+aVDarvin Ham MIL 12/08/2001 MIL vs. NJN W 18 2 1 2 50.0 0 0 - 0 2 0.0 0 5 5 2 1 1 2 1 3
+p635
+aVMark Pope MIL 12/08/2001 MIL vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p636
+aVRafer Alston MIL 12/08/2001 MIL vs. NJN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p637
+aVTim Thomas MIL 12/08/2001 MIL vs. NJN W 28 12 5 12 41.7 0 2 0.0 2 2 100.0 0 3 3 3 1 0 1 3 11
+p638
+aVRay Allen MIL 12/08/2001 MIL vs. NJN W 33 21 8 13 61.5 4 5 80.0 1 2 50.0 2 6 8 2 1 0 2 4 4
+p639
+aVErvin Johnson MIL 12/08/2001 MIL vs. NJN W 26 4 2 8 25.0 0 0 - 0 0 - 6 12 18 0 0 1 0 2 6
+p640
+aVJoel Przybilla MIL 12/08/2001 MIL vs. NJN W 17 2 1 2 50.0 0 0 - 0 2 0.0 2 3 5 1 0 3 2 4 5
+p641
+aVMichael Redd MIL 12/08/2001 MIL vs. NJN W 21 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 0 1 0 1 0 1
+p642
+aVGlenn Robinson MIL 12/08/2001 MIL vs. NJN W 28 13 5 12 41.7 0 3 0.0 3 3 100.0 1 4 5 2 1 0 2 0 13
+p643
+aVSam Cassell MIL 12/08/2001 MIL vs. NJN W 33 28 13 21 61.9 2 3 66.7 0 0 - 0 1 1 6 1 0 3 1 22
+p644
+aVDarvin Ham MIL 12/06/2001 MIL vs. TOR W 14 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 0 2 0 -3
+p645
+aVJason Caffey MIL 12/06/2001 MIL vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 1 4
+p646
+aVGlenn Robinson MIL 12/06/2001 MIL vs. TOR W 37 13 4 13 30.8 1 2 50.0 4 5 80.0 0 3 3 3 2 0 3 0 4
+p647
+aVTim Thomas MIL 12/06/2001 MIL vs. TOR W 21 13 4 9 44.4 3 6 50.0 2 2 100.0 1 3 4 0 0 0 3 3 11
+p648
+aVRay Allen MIL 12/06/2001 MIL vs. TOR W 41 30 12 22 54.5 3 9 33.3 3 3 100.0 2 2 4 3 2 0 2 5 7
+p649
+aVErvin Johnson MIL 12/06/2001 MIL vs. TOR W 31 2 1 4 25.0 0 0 - 0 0 - 3 9 12 0 0 0 1 3 -3
+p650
+aVMichael Redd MIL 12/06/2001 MIL vs. TOR W 13 7 3 3 100.0 1 1 100.0 0 0 - 1 2 3 1 2 0 0 0 -1
+p651
+aVSam Cassell MIL 12/06/2001 MIL vs. TOR W 41 23 11 16 68.8 0 0 - 1 2 50.0 0 6 6 7 0 0 4 1 4
+p652
+aVAnthony Mason MIL 12/06/2001 MIL vs. TOR W 39 7 1 7 14.3 0 0 - 5 8 62.5 3 6 9 6 3 0 1 1 7
+p653
+aVRay Allen MIL 12/04/2001 MIL vs. NYK L 42 10 4 20 20.0 1 14 7.1 1 3 33.3 1 3 4 6 0 1 4 2 -15
+p654
+aVTim Thomas MIL 12/04/2001 MIL vs. NYK L 29 13 4 11 36.4 1 4 25.0 4 6 66.7 1 6 7 2 1 0 1 2 -22
+p655
+aVGlenn Robinson MIL 12/04/2001 MIL vs. NYK L 37 24 8 17 47.1 3 6 50.0 5 6 83.3 0 7 7 0 3 0 4 5 -7
+p656
+aVErvin Johnson MIL 12/04/2001 MIL vs. NYK L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 2 1 0 0 -10
+p657
+aVMichael Redd MIL 12/04/2001 MIL vs. NYK L 16 2 1 7 14.3 0 2 0.0 0 0 - 2 3 5 1 0 1 2 2 -11
+p658
+aVJason Caffey MIL 12/04/2001 MIL vs. NYK L 6 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -6
+p659
+aVAnthony Mason MIL 12/04/2001 MIL vs. NYK L 40 6 3 8 37.5 0 0 - 0 0 - 7 8 15 2 0 0 2 1 -7
+p660
+aVRafer Alston MIL 12/04/2001 MIL vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p661
+aVJoel Przybilla MIL 12/04/2001 MIL vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p662
+aVMark Pope MIL 12/04/2001 MIL vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p663
+aVSam Cassell MIL 12/04/2001 MIL vs. NYK L 40 12 4 16 25.0 0 2 0.0 4 4 100.0 0 5 5 5 0 0 1 6 -3
+p664
+aVDarvin Ham MIL 12/04/2001 MIL vs. NYK L 17 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 1 4 9
+p665
+aVJoel Przybilla MIL 12/02/2001 MIL @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p666
+aVMark Pope MIL 12/02/2001 MIL @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p667
+aVRay Allen MIL 12/02/2001 MIL @ SEA L 40 26 9 18 50.0 5 11 45.5 3 4 75.0 1 3 4 3 1 0 4 2 -8
+p668
+aVErvin Johnson MIL 12/02/2001 MIL @ SEA L 15 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 1 0 0 3 -9
+p669
+aVMichael Redd MIL 12/02/2001 MIL @ SEA L 24 7 3 11 27.3 1 4 25.0 0 2 0.0 2 1 3 0 0 0 3 2 -12
+p670
+aVAnthony Mason MIL 12/02/2001 MIL @ SEA L 32 1 0 2 0.0 0 0 - 1 2 50.0 3 3 6 2 1 1 2 2 -14
+p671
+aVDarvin Ham MIL 12/02/2001 MIL @ SEA L 24 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 4 1 4 5 -4
+p672
+aVRafer Alston MIL 12/02/2001 MIL @ SEA L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 5 2 1 3 1 -3
+p673
+aVTim Thomas MIL 12/02/2001 MIL @ SEA L 39 25 9 18 50.0 2 7 28.6 5 5 100.0 1 5 6 3 1 1 2 3 -15
+p674
+aVSam Cassell MIL 12/02/2001 MIL @ SEA L 32 14 6 12 50.0 1 3 33.3 1 1 100.0 0 5 5 5 0 0 2 3 -11
+p675
+aVJason Caffey MIL 12/02/2001 MIL @ SEA L 16 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 2
+p676
+aVRafer Alston MIL 11/30/2001 MIL @ POR L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 5
+p677
+aVMark Pope MIL 11/30/2001 MIL @ POR L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p678
+aVSam Cassell MIL 11/30/2001 MIL @ POR L 39 23 10 15 66.7 1 3 33.3 2 2 100.0 0 5 5 8 0 0 6 5 -10
+p679
+aVGlenn Robinson MIL 11/30/2001 MIL @ POR L 37 23 9 17 52.9 1 3 33.3 4 6 66.7 0 4 4 1 1 0 1 2 -13
+p680
+aVTim Thomas MIL 11/30/2001 MIL @ POR L 29 10 4 11 36.4 2 3 66.7 0 2 0.0 2 6 8 1 2 1 1 3 2
+p681
+aVAnthony Mason MIL 11/30/2001 MIL @ POR L 38 5 2 5 40.0 0 0 - 1 5 20.0 3 4 7 6 1 0 1 2 3
+p682
+aVJason Caffey MIL 11/30/2001 MIL @ POR L 15 6 2 4 50.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 1 -7
+p683
+aVRay Allen MIL 11/30/2001 MIL @ POR L 40 25 10 18 55.6 3 8 37.5 2 2 100.0 1 1 2 1 3 2 0 2 0
+p684
+aVErvin Johnson MIL 11/30/2001 MIL @ POR L 28 1 0 1 0.0 0 0 - 1 2 50.0 3 0 3 1 2 0 1 2 -3
+p685
+aVRay Allen MIL 11/28/2001 MIL @ PHX L 28 13 6 15 40.0 1 4 25.0 0 0 - 1 1 2 3 2 0 2 0 -15
+p686
+aVJason Caffey MIL 11/28/2001 MIL @ PHX L 19 8 4 6 66.7 0 0 - 0 0 - 4 0 4 1 0 0 2 5 -3
+p687
+aVJoel Przybilla MIL 11/28/2001 MIL @ PHX L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 2
+p688
+aVTim Thomas MIL 11/28/2001 MIL @ PHX L 28 10 5 12 41.7 0 6 0.0 0 0 - 0 7 7 2 2 0 3 1 -9
+p689
+aVDarvin Ham MIL 11/28/2001 MIL @ PHX L 18 4 2 4 50.0 0 0 - 0 1 0.0 1 2 3 1 0 0 2 2 -14
+p690
+aVMark Pope MIL 11/28/2001 MIL @ PHX L 7 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 11
+p691
+aVErvin Johnson MIL 11/28/2001 MIL @ PHX L 12 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 0 -7
+p692
+aVAnthony Mason MIL 11/28/2001 MIL @ PHX L 31 4 2 5 40.0 0 0 - 0 0 - 2 6 8 1 0 2 0 1 -25
+p693
+aVMichael Redd MIL 11/28/2001 MIL @ PHX L 16 14 5 8 62.5 3 4 75.0 1 2 50.0 1 2 3 0 0 0 0 1 6
+p694
+aVSam Cassell MIL 11/28/2001 MIL @ PHX L 25 5 1 9 11.1 0 0 - 3 4 75.0 0 1 1 3 1 0 2 3 -18
+p695
+aVGlenn Robinson MIL 11/28/2001 MIL @ PHX L 29 16 8 15 53.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 -26
+p696
+aVRafer Alston MIL 11/28/2001 MIL @ PHX L 23 6 2 7 28.6 0 1 0.0 2 2 100.0 0 4 4 3 2 0 0 1 -2
+p697
+aVErvin Johnson MIL 11/27/2001 MIL @ LAL L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -17
+p698
+aVSam Cassell MIL 11/27/2001 MIL @ LAL L 35 23 10 15 66.7 0 0 - 3 4 75.0 2 2 4 5 1 0 1 3 -13
+p699
+aVRay Allen MIL 11/27/2001 MIL @ LAL L 40 13 6 14 42.9 1 5 20.0 0 0 - 1 6 7 7 1 0 3 5 -10
+p700
+aVRafer Alston MIL 11/27/2001 MIL @ LAL L 11 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 3 0 0 1 0 0
+p701
+aVGreg Foster MIL 11/27/2001 MIL @ LAL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p702
+aVJason Caffey MIL 11/27/2001 MIL @ LAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p703
+aVTim Thomas MIL 11/27/2001 MIL @ LAL L 23 17 7 9 77.8 3 4 75.0 0 0 - 0 2 2 0 0 0 3 5 -6
+p704
+aVAnthony Mason MIL 11/27/2001 MIL @ LAL L 40 7 3 12 25.0 0 0 - 1 1 100.0 3 8 11 2 2 0 2 4 -14
+p705
+aVJoel Przybilla MIL 11/27/2001 MIL @ LAL L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 4 1
+p706
+aVGlenn Robinson MIL 11/27/2001 MIL @ LAL L 37 12 5 17 29.4 0 3 0.0 2 2 100.0 1 1 2 3 0 0 1 1 -13
+p707
+aVMichael Redd MIL 11/27/2001 MIL @ LAL L 18 6 2 4 50.0 0 2 0.0 2 2 100.0 1 1 2 0 0 0 0 4 -13
+p708
+aVRafer Alston MIL 11/24/2001 MIL vs. ATL W 17 10 4 7 57.1 2 2 100.0 0 0 - 1 1 2 4 2 0 3 0 -9
+p709
+aVGlenn Robinson MIL 11/24/2001 MIL vs. ATL W 40 17 6 20 30.0 1 4 25.0 4 4 100.0 1 6 7 3 2 2 2 2 9
+p710
+aVJason Caffey MIL 11/24/2001 MIL vs. ATL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -2
+p711
+aVMark Pope MIL 11/24/2001 MIL vs. ATL W 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p712
+aVMichael Redd MIL 11/24/2001 MIL vs. ATL W 13 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 4 0 0 0 1 -2
+p713
+aVSam Cassell MIL 11/24/2001 MIL vs. ATL W 30 18 8 15 53.3 0 2 0.0 2 2 100.0 1 1 2 7 3 2 5 2 18
+p714
+aVTim Thomas MIL 11/24/2001 MIL vs. ATL W 20 11 4 6 66.7 2 3 66.7 1 2 50.0 1 2 3 1 1 0 0 4 -5
+p715
+aVErvin Johnson MIL 11/24/2001 MIL vs. ATL W 27 3 1 3 33.3 0 0 - 1 2 50.0 4 10 14 0 2 2 3 4 14
+p716
+aVRay Allen MIL 11/24/2001 MIL vs. ATL W 40 21 8 16 50.0 2 6 33.3 3 3 100.0 2 4 6 4 0 0 2 1 6
+p717
+aVAnthony Mason MIL 11/24/2001 MIL vs. ATL W 42 9 4 10 40.0 0 0 - 1 1 100.0 1 6 7 4 2 0 3 3 12
+p718
+aVAnthony Mason MIL 11/22/2001 MIL @ TOR W 40 7 3 7 42.9 0 0 - 1 2 50.0 0 9 9 1 0 0 3 2 2
+p719
+aVMichael Redd MIL 11/22/2001 MIL @ TOR W 5 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 2 0 0 0 5
+p720
+aVTim Thomas MIL 11/22/2001 MIL @ TOR W 23 9 4 9 44.4 1 3 33.3 0 0 - 0 7 7 1 0 1 1 2 -3
+p721
+aVSam Cassell MIL 11/22/2001 MIL @ TOR W 34 16 7 20 35.0 0 5 0.0 2 2 100.0 0 4 4 3 1 0 4 0 5
+p722
+aVErvin Johnson MIL 11/22/2001 MIL @ TOR W 32 8 4 4 100.0 0 0 - 0 0 - 4 5 9 1 1 1 1 2 5
+p723
+aVGlenn Robinson MIL 11/22/2001 MIL @ TOR W 41 19 7 15 46.7 2 2 100.0 3 3 100.0 0 10 10 3 1 1 3 3 -1
+p724
+aVRafer Alston MIL 11/22/2001 MIL @ TOR W 14 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 0 1 0 0 1 -2
+p725
+aVJason Caffey MIL 11/22/2001 MIL @ TOR W 16 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -4
+p726
+aVRay Allen MIL 11/22/2001 MIL @ TOR W 36 13 4 11 36.4 1 6 16.7 4 4 100.0 0 1 1 5 1 2 4 1 8
+p727
+aVMark Pope MIL 11/21/2001 MIL vs. CHI W 10 2 1 2 50.0 0 1 0.0 0 2 0.0 0 1 1 1 0 2 1 1 -1
+p728
+aVTim Thomas MIL 11/21/2001 MIL vs. CHI W 22 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 0 0 0 2 1 -5
+p729
+aVSam Cassell MIL 11/21/2001 MIL vs. CHI W 33 22 9 15 60.0 0 0 - 4 4 100.0 0 4 4 8 2 0 2 4 17
+p730
+aVMichael Redd MIL 11/21/2001 MIL vs. CHI W 17 11 5 10 50.0 1 4 25.0 0 0 - 0 0 0 0 0 0 0 2 -17
+p731
+aVAnthony Mason MIL 11/21/2001 MIL vs. CHI W 41 11 5 9 55.6 0 0 - 1 2 50.0 2 7 9 3 2 0 2 4 19
+p732
+aVGlenn Robinson MIL 11/21/2001 MIL vs. CHI W 38 22 7 14 50.0 0 1 0.0 8 9 88.9 2 6 8 3 3 0 2 3 6
+p733
+aVRay Allen MIL 11/21/2001 MIL vs. CHI W 38 20 7 10 70.0 3 4 75.0 3 4 75.0 0 3 3 1 2 0 0 2 21
+p734
+aVRafer Alston MIL 11/21/2001 MIL vs. CHI W 15 2 0 6 0.0 0 2 0.0 2 2 100.0 0 1 1 7 0 0 1 1 -13
+p735
+aVErvin Johnson MIL 11/21/2001 MIL vs. CHI W 26 4 2 3 66.7 0 0 - 0 1 0.0 2 5 7 1 1 2 0 4 -7
+p736
+aVGlenn Robinson MIL 11/17/2001 MIL vs. UTA W 40 34 12 24 50.0 0 3 0.0 10 11 90.9 2 7 9 5 2 1 3 5 9
+p737
+aVErvin Johnson MIL 11/17/2001 MIL vs. UTA W 32 4 2 6 33.3 0 0 - 0 1 0.0 5 3 8 3 1 3 0 3 7
+p738
+aVJoel Przybilla MIL 11/17/2001 MIL vs. UTA W 7 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -11
+p739
+aVAnthony Mason MIL 11/17/2001 MIL vs. UTA W 45 8 4 7 57.1 0 0 - 0 0 - 4 6 10 3 3 0 2 2 17
+p740
+aVMichael Redd MIL 11/17/2001 MIL vs. UTA W 24 9 3 8 37.5 0 1 0.0 3 4 75.0 1 0 1 0 0 0 0 1 18
+p741
+aVRafer Alston MIL 11/17/2001 MIL vs. UTA W 39 14 4 11 36.4 3 4 75.0 3 4 75.0 0 3 3 10 5 0 2 3 14
+p742
+aVTim Thomas MIL 11/17/2001 MIL vs. UTA W 24 15 6 14 42.9 2 7 28.6 1 1 100.0 1 4 5 1 1 2 2 0 12
+p743
+aVRay Allen MIL 11/17/2001 MIL vs. UTA W 28 18 6 12 50.0 3 5 60.0 3 4 75.0 0 2 2 4 0 0 1 5 -11
+p744
+aVMark Pope MIL 11/14/2001 MIL @ WAS W 17 5 2 5 40.0 0 2 0.0 1 2 50.0 0 2 2 0 0 0 1 3 -7
+p745
+aVGlenn Robinson MIL 11/14/2001 MIL @ WAS W 35 13 4 11 36.4 1 4 25.0 4 4 100.0 0 2 2 2 2 0 3 2 -16
+p746
+aVTim Thomas MIL 11/14/2001 MIL @ WAS W 24 12 5 7 71.4 2 2 100.0 0 0 - 1 2 3 1 1 0 1 2 15
+p747
+aVMichael Redd MIL 11/14/2001 MIL @ WAS W 15 11 3 7 42.9 2 4 50.0 3 4 75.0 0 1 1 0 2 0 0 5 13
+p748
+aVRafer Alston MIL 11/14/2001 MIL @ WAS W 19 10 3 6 50.0 1 1 100.0 3 4 75.0 0 0 0 5 1 0 2 1 11
+p749
+aVSam Cassell MIL 11/14/2001 MIL @ WAS W 27 27 9 15 60.0 2 3 66.7 7 8 87.5 1 4 5 4 1 0 0 4 -2
+p750
+aVErvin Johnson MIL 11/14/2001 MIL @ WAS W 28 7 3 6 50.0 0 0 - 1 2 50.0 2 8 10 0 0 3 2 1 13
+p751
+aVRay Allen MIL 11/14/2001 MIL @ WAS W 38 22 6 14 42.9 2 5 40.0 8 9 88.9 0 4 4 9 1 1 0 4 15
+p752
+aVAnthony Mason MIL 11/14/2001 MIL @ WAS W 36 0 0 0 - 0 0 - 0 0 - 1 2 3 4 1 0 2 2 3
+p753
+aVMark Pope MIL 11/10/2001 MIL vs. MIN L 13 4 2 4 50.0 0 1 0.0 0 0 - 2 2 4 0 0 1 0 1 -1
+p754
+aVSam Cassell MIL 11/10/2001 MIL vs. MIN L 33 9 3 10 30.0 0 2 0.0 3 4 75.0 1 4 5 4 0 0 3 3 -17
+p755
+aVRay Allen MIL 11/10/2001 MIL vs. MIN L 36 16 7 18 38.9 2 8 25.0 0 0 - 1 2 3 1 2 1 1 2 -14
+p756
+aVJason Caffey MIL 11/10/2001 MIL vs. MIN L 22 5 2 2 100.0 0 0 - 1 6 16.7 1 1 2 2 0 1 0 3 -4
+p757
+aVMichael Redd MIL 11/10/2001 MIL vs. MIN L 18 10 4 5 80.0 2 2 100.0 0 0 - 1 1 2 2 1 0 0 0 7
+p758
+aVRafer Alston MIL 11/10/2001 MIL vs. MIN L 15 11 5 8 62.5 1 1 100.0 0 0 - 1 4 5 2 2 0 2 1 1
+p759
+aVErvin Johnson MIL 11/10/2001 MIL vs. MIN L 20 0 0 0 - 0 0 - 0 4 0.0 0 3 3 0 1 0 0 3 -6
+p760
+aVJoel Przybilla MIL 11/10/2001 MIL vs. MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p761
+aVAnthony Mason MIL 11/10/2001 MIL vs. MIN L 30 6 3 6 50.0 0 0 - 0 0 - 2 3 5 3 1 0 3 3 -10
+p762
+aVGlenn Robinson MIL 11/10/2001 MIL vs. MIN L 30 14 7 18 38.9 0 3 0.0 0 1 0.0 1 3 4 3 2 0 1 4 -22
+p763
+aVTim Thomas MIL 11/10/2001 MIL vs. MIN L 22 7 2 8 25.0 2 4 50.0 1 2 50.0 0 3 3 0 0 1 1 1 -15
+p764
+aVRafer Alston MIL 11/08/2001 MIL vs. MIA W 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 3 0 0 1 1 2
+p765
+aVGlenn Robinson MIL 11/08/2001 MIL vs. MIA W 37 26 10 16 62.5 1 2 50.0 5 6 83.3 2 4 6 2 2 0 5 3 1
+p766
+aVMark Pope MIL 11/08/2001 MIL vs. MIA W 21 0 0 1 0.0 0 0 - 0 0 - 0 5 5 1 1 0 0 0 7
+p767
+aVRay Allen MIL 11/08/2001 MIL vs. MIA W 40 22 7 20 35.0 1 7 14.3 7 8 87.5 3 4 7 5 1 0 4 4 12
+p768
+aVAnthony Mason MIL 11/08/2001 MIL vs. MIA W 36 8 4 9 44.4 0 0 - 0 0 - 3 7 10 1 1 0 1 2 -2
+p769
+aVJason Caffey MIL 11/08/2001 MIL vs. MIA W 23 14 5 7 71.4 0 0 - 4 6 66.7 1 2 3 0 1 0 1 3 0
+p770
+aVSam Cassell MIL 11/08/2001 MIL vs. MIA W 34 11 3 14 21.4 1 5 20.0 4 6 66.7 1 3 4 9 1 0 2 4 2
+p771
+aVErvin Johnson MIL 11/08/2001 MIL vs. MIA W 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 3 2
+p772
+aVTim Thomas MIL 11/08/2001 MIL vs. MIA W 21 3 1 4 25.0 0 2 0.0 1 2 50.0 1 5 6 0 1 2 1 1 -4
+p773
+aVGlenn Robinson MIL 11/03/2001 MIL vs. BOS W 36 24 8 17 47.1 0 1 0.0 8 8 100.0 1 11 12 2 3 0 0 3 16
+p774
+aVMark Pope MIL 11/03/2001 MIL vs. BOS W 18 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 1 3 4
+p775
+aVSam Cassell MIL 11/03/2001 MIL vs. BOS W 36 25 6 14 42.9 2 4 50.0 11 11 100.0 2 2 4 12 0 0 3 2 9
+p776
+aVRay Allen MIL 11/03/2001 MIL vs. BOS W 41 32 10 19 52.6 4 8 50.0 8 8 100.0 1 3 4 2 2 0 2 3 9
+p777
+aVJason Caffey MIL 11/03/2001 MIL vs. BOS W 16 5 1 3 33.3 0 1 0.0 3 4 75.0 0 2 2 0 0 0 2 2 -7
+p778
+aVTim Thomas MIL 11/03/2001 MIL vs. BOS W 27 9 4 10 40.0 0 3 0.0 1 2 50.0 2 2 4 0 0 1 2 2 -4
+p779
+aVRafer Alston MIL 11/03/2001 MIL vs. BOS W 12 0 0 4 0.0 0 0 - 0 0 - 0 3 3 3 2 0 1 0 -3
+p780
+aVAnthony Mason MIL 11/03/2001 MIL vs. BOS W 34 6 3 4 75.0 0 0 - 0 0 - 1 6 7 4 0 2 0 3 9
+p781
+aVErvin Johnson MIL 11/03/2001 MIL vs. BOS W 21 2 1 2 50.0 0 0 - 0 1 0.0 1 5 6 0 0 1 1 1 -3
+p782
+aVAnthony Mason MIL 11/01/2001 MIL @ DEN W 38 12 5 9 55.6 0 0 - 2 2 100.0 3 5 8 4 2 0 2 3 -4
+p783
+aVErvin Johnson MIL 11/01/2001 MIL @ DEN W 19 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 1 2 2 3 15
+p784
+aVRay Allen MIL 11/01/2001 MIL @ DEN W 36 31 10 12 83.3 8 9 88.9 3 4 75.0 1 1 2 4 1 0 3 4 -1
+p785
+aVJason Caffey MIL 11/01/2001 MIL @ DEN W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p786
+aVGlenn Robinson MIL 11/01/2001 MIL @ DEN W 32 21 8 19 42.1 2 3 66.7 3 5 60.0 0 6 6 2 4 1 1 3 1
+p787
+aVMark Pope MIL 11/01/2001 MIL @ DEN W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -7
+p788
+aVRafer Alston MIL 11/01/2001 MIL @ DEN W 17 6 3 6 50.0 0 0 - 0 0 - 0 2 2 5 0 0 0 1 4
+p789
+aVMichael Redd MIL 11/01/2001 MIL @ DEN W 18 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 2 3 0 0 2 3
+p790
+aVSam Cassell MIL 11/01/2001 MIL @ DEN W 30 12 4 10 40.0 2 4 50.0 2 2 100.0 0 2 2 5 3 0 2 3 -1
+p791
+aVTim Thomas MIL 11/01/2001 MIL @ DEN W 32 13 5 9 55.6 1 2 50.0 2 3 66.7 0 5 5 4 0 1 1 3 -1
+p792
+aVJason Caffey MIL 10/30/2001 MIL @ UTA W 14 7 3 5 60.0 0 0 - 1 3 33.3 2 1 3 0 1 0 3 3 -14
+p793
+aVMichael Redd MIL 10/30/2001 MIL @ UTA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p794
+aVGlenn Robinson MIL 10/30/2001 MIL @ UTA W 39 28 11 21 52.4 1 4 25.0 5 6 83.3 2 2 4 2 1 0 1 1 10
+p795
+aVMark Pope MIL 10/30/2001 MIL @ UTA W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p796
+aVRafer Alston MIL 10/30/2001 MIL @ UTA W 10 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p797
+aVTim Thomas MIL 10/30/2001 MIL @ UTA W 22 8 2 7 28.6 0 3 0.0 4 4 100.0 1 0 1 2 0 1 1 4 -6
+p798
+aVAnthony Mason MIL 10/30/2001 MIL @ UTA W 42 11 4 4 100.0 0 0 - 3 4 75.0 1 6 7 3 1 0 3 2 18
+p799
+aVErvin Johnson MIL 10/30/2001 MIL @ UTA W 28 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 1 2 0 5 10
+p800
+aVSam Cassell MIL 10/30/2001 MIL @ UTA W 43 25 9 20 45.0 3 7 42.9 4 4 100.0 0 3 3 11 5 0 3 5 13
+p801
+aVRay Allen MIL 10/30/2001 MIL @ UTA W 47 32 11 21 52.4 4 9 44.4 6 6 100.0 1 2 3 6 2 0 2 1 11
+p802
+aVJoel Przybilla MIL 10/30/2001 MIL @ UTA W 7 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 3 5
+p803
+a.

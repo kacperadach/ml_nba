@@ -1,0 +1,80 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPau Gasol LAL 04/28/2013 LAL vs. SAS L 35 16 8 12 66.7 0 0 - 0 1 0.0 1 7 8 5 0 2 5 1 -19
+p2
+aVRobert Sacre LAL 04/28/2013 LAL vs. SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p3
+aVDarius Morris LAL 04/28/2013 LAL vs. SAS L 37 8 3 12 25.0 0 2 0.0 2 2 100.0 0 3 3 6 0 0 3 0 -15
+p4
+aVDwight Howard LAL 04/28/2013 LAL vs. SAS L 21 7 2 2 100.0 0 0 - 3 9 33.3 1 7 8 1 0 0 5 2 -14
+p5
+aVChris Duhon LAL 04/28/2013 LAL vs. SAS L 43 11 4 10 40.0 3 7 42.9 0 0 - 0 2 2 7 0 1 4 2 -12
+p6
+aVAntawn Jamison LAL 04/28/2013 LAL vs. SAS L 23 12 5 9 55.6 2 4 50.0 0 0 - 1 4 5 1 0 0 0 3 -9
+p7
+aVJordan Hill LAL 04/28/2013 LAL vs. SAS L 15 8 4 7 57.1 0 0 - 0 0 - 1 3 4 1 0 2 0 1 -2
+p8
+aVAndrew Goudelock LAL 04/28/2013 LAL vs. SAS L 33 14 7 17 41.2 0 3 0.0 0 0 - 1 3 4 1 1 0 2 4 -23
+p9
+aVEarl Clark LAL 04/28/2013 LAL vs. SAS L 31 6 3 6 50.0 0 1 0.0 0 0 - 2 4 6 0 0 0 2 2 -13
+p10
+aVAntawn Jamison LAL 04/26/2013 LAL vs. SAS L 21 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 1 -17
+p11
+aVEarl Clark LAL 04/26/2013 LAL vs. SAS L 25 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 1 1 1 3 0 -20
+p12
+aVChris Duhon LAL 04/26/2013 LAL vs. SAS L 25 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 2 0 1 2 -12
+p13
+aVAndrew Goudelock LAL 04/26/2013 LAL vs. SAS L 41 20 8 17 47.1 2 6 33.3 2 2 100.0 0 1 1 1 3 0 1 2 -28
+p14
+aVMetta World Peace LAL 04/26/2013 LAL vs. SAS L 17 0 0 6 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p15
+aVDarius Morris LAL 04/26/2013 LAL vs. SAS L 37 24 9 15 60.0 1 4 25.0 5 7 71.4 1 1 2 6 1 0 3 3 -28
+p16
+aVPau Gasol LAL 04/26/2013 LAL vs. SAS L 33 11 5 10 50.0 0 0 - 1 1 100.0 2 11 13 10 0 0 2 2 -17
+p17
+aVDwight Howard LAL 04/26/2013 LAL vs. SAS L 31 25 9 16 56.3 0 0 - 7 15 46.7 5 6 11 0 1 2 2 5 -15
+p18
+aVJordan Hill LAL 04/26/2013 LAL vs. SAS L 10 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 0 0 0 0 -12
+p19
+aVJordan Hill LAL 04/24/2013 LAL @ SAS L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 6
+p20
+aVSteve Blake LAL 04/24/2013 LAL @ SAS L 36 16 6 15 40.0 3 7 42.9 1 1 100.0 0 6 6 2 0 1 1 3 -10
+p21
+aVMetta World Peace LAL 04/24/2013 LAL @ SAS L 35 13 5 13 38.5 1 6 16.7 2 2 100.0 3 2 5 2 1 1 2 4 -2
+p22
+aVDarius Morris LAL 04/24/2013 LAL @ SAS L 23 10 4 7 57.1 2 2 100.0 0 0 - 0 0 0 0 1 0 0 2 -14
+p23
+aVAndrew Goudelock LAL 04/24/2013 LAL @ SAS L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 6
+p24
+aVSteve Nash LAL 04/24/2013 LAL @ SAS L 31 9 4 8 50.0 0 2 0.0 1 1 100.0 1 2 3 6 0 0 2 1 -7
+p25
+aVRobert Sacre LAL 04/24/2013 LAL @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p26
+aVPau Gasol LAL 04/24/2013 LAL @ SAS L 35 13 5 14 35.7 0 0 - 3 5 60.0 3 6 9 5 0 1 0 0 -9
+p27
+aVDwight Howard LAL 04/24/2013 LAL @ SAS L 34 16 7 12 58.3 0 0 - 2 4 50.0 4 5 9 2 1 4 5 5 -14
+p28
+aVAntawn Jamison LAL 04/24/2013 LAL @ SAS L 20 6 2 6 33.3 2 4 50.0 0 0 - 0 2 2 0 1 2 1 2 -5
+p29
+aVEarl Clark LAL 04/24/2013 LAL @ SAS L 13 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -9
+p30
+aVDwight Howard LAL 04/21/2013 LAL @ SAS L 41 20 8 12 66.7 0 0 - 4 8 50.0 0 15 15 1 0 2 4 5 -4
+p31
+aVSteve Blake LAL 04/21/2013 LAL @ SAS L 39 12 5 13 38.5 2 5 40.0 0 0 - 0 2 2 3 4 2 3 5 -14
+p32
+aVJodie Meeks LAL 04/21/2013 LAL @ SAS L 20 4 1 4 25.0 0 2 0.0 2 2 100.0 1 1 2 0 1 0 2 2 -10
+p33
+aVMetta World Peace LAL 04/21/2013 LAL @ SAS L 32 5 2 9 22.2 1 5 20.0 0 0 - 3 3 6 2 1 0 1 1 4
+p34
+aVPau Gasol LAL 04/21/2013 LAL @ SAS L 43 16 7 16 43.8 0 0 - 2 4 50.0 1 15 16 6 2 0 6 1 -4
+p35
+aVAntawn Jamison LAL 04/21/2013 LAL @ SAS L 16 6 1 3 33.3 0 1 0.0 4 6 66.7 0 0 0 0 0 0 1 3 -16
+p36
+aVSteve Nash LAL 04/21/2013 LAL @ SAS L 29 16 6 15 40.0 0 1 0.0 4 4 100.0 1 1 2 3 0 0 1 1 2
+p37
+aVDarius Morris LAL 04/21/2013 LAL @ SAS L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p38
+aVEarl Clark LAL 04/21/2013 LAL @ SAS L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -16
+p39
+a.

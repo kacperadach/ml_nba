@@ -1,0 +1,994 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVIsaiah Whitehead BKN 01/23/2017 BKN vs. SAS L 29 19 6 15 40.0 2 4 50.0 5 5 100.0 0 1 1 3 0 0 1 4 -20
+p2
+aVSpencer Dinwiddie BKN 01/23/2017 BKN vs. SAS L 32 13 6 9 66.7 1 2 50.0 0 0 - 0 2 2 2 0 2 1 0 -4
+p3
+aVRondae Hollis-Jefferson BKN 01/23/2017 BKN vs. SAS L 17 6 1 4 25.0 0 0 - 4 4 100.0 1 4 5 0 0 0 0 1 -11
+p4
+aVQuincy Acy BKN 01/23/2017 BKN vs. SAS L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 -8
+p5
+aVBrook Lopez BKN 01/23/2017 BKN vs. SAS L 21 12 4 10 40.0 0 1 0.0 4 4 100.0 3 1 4 1 1 1 4 3 -6
+p6
+aVJustin Hamilton BKN 01/23/2017 BKN vs. SAS L 16 2 1 3 33.3 0 2 0.0 0 0 - 1 3 4 0 0 2 0 1 -12
+p7
+aVTrevor Booker BKN 01/23/2017 BKN vs. SAS L 19 9 4 7 57.1 0 2 0.0 1 1 100.0 0 4 4 0 0 0 1 0 -11
+p8
+aVLuis Scola BKN 01/23/2017 BKN vs. SAS L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p9
+aVRandy Foye BKN 01/23/2017 BKN vs. SAS L 30 1 0 4 0.0 0 2 0.0 1 2 50.0 0 3 3 4 0 0 3 2 -19
+p10
+aVChris McCullough BKN 01/23/2017 BKN vs. SAS L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p11
+aVSean Kilpatrick BKN 01/23/2017 BKN vs. SAS L 31 17 7 16 43.8 1 6 16.7 2 2 100.0 0 10 10 1 0 0 3 2 -32
+p12
+aVBojan Bogdanovic BKN 01/23/2017 BKN vs. SAS L 23 5 2 8 25.0 1 3 33.3 0 0 - 0 3 3 2 0 0 2 2 -3
+p13
+aVBojan Bogdanovic BKN 01/21/2017 BKN @ CHA L 28 16 4 12 33.3 4 8 50.0 4 4 100.0 0 3 3 3 0 0 2 0 6
+p14
+aVSean Kilpatrick BKN 01/21/2017 BKN @ CHA L 27 13 5 14 35.7 3 7 42.9 0 0 - 0 4 4 5 2 0 2 2 -4
+p15
+aVIsaiah Whitehead BKN 01/21/2017 BKN @ CHA L 23 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 4 0 0 0 3 -9
+p16
+aVBrook Lopez BKN 01/21/2017 BKN @ CHA L 31 24 10 21 47.6 3 7 42.9 1 1 100.0 0 5 5 4 0 2 2 3 -2
+p17
+aVQuincy Acy BKN 01/21/2017 BKN @ CHA L 17 14 5 7 71.4 3 4 75.0 1 1 100.0 0 4 4 1 2 1 0 2 -3
+p18
+aVSpencer Dinwiddie BKN 01/21/2017 BKN @ CHA L 23 0 0 4 0.0 0 1 0.0 0 0 - 1 4 5 2 0 0 0 3 0
+p19
+aVCaris LeVert BKN 01/21/2017 BKN @ CHA L 18 9 2 4 50.0 0 2 0.0 5 6 83.3 0 1 1 4 2 0 1 0 -9
+p20
+aVRandy Foye BKN 01/21/2017 BKN @ CHA L 24 11 4 12 33.3 3 7 42.9 0 0 - 0 2 2 5 0 0 0 2 -3
+p21
+aVRondae Hollis-Jefferson BKN 01/21/2017 BKN @ CHA L 21 7 3 6 50.0 0 3 0.0 1 3 33.3 0 4 4 2 1 0 2 1 0
+p22
+aVTrevor Booker BKN 01/21/2017 BKN @ CHA L 27 8 4 7 57.1 0 1 0.0 0 0 - 3 6 9 0 2 0 2 1 -11
+p23
+aVCaris LeVert BKN 01/20/2017 BKN @ NOP W 25 17 6 6 100.0 3 3 100.0 2 2 100.0 1 4 5 6 1 1 3 3 3
+p24
+aVSpencer Dinwiddie BKN 01/20/2017 BKN @ NOP W 28 10 2 4 50.0 1 1 100.0 5 6 83.3 0 2 2 4 0 0 2 4 -5
+p25
+aVBojan Bogdanovic BKN 01/20/2017 BKN @ NOP W 27 23 6 13 46.2 2 5 40.0 9 9 100.0 1 5 6 2 1 1 2 1 15
+p26
+aVBrook Lopez BKN 01/20/2017 BKN @ NOP W 24 23 8 15 53.3 1 4 25.0 6 6 100.0 2 6 8 3 0 3 1 2 15
+p27
+aVJoe Harris BKN 01/20/2017 BKN @ NOP W 13 8 3 5 60.0 2 2 100.0 0 0 - 0 2 2 3 0 0 0 0 5
+p28
+aVRondae Hollis-Jefferson BKN 01/20/2017 BKN @ NOP W 18 12 4 6 66.7 0 0 - 4 5 80.0 0 7 7 2 1 0 3 1 29
+p29
+aVQuincy Acy BKN 01/20/2017 BKN @ NOP W 22 12 3 5 60.0 2 4 50.0 4 4 100.0 1 7 8 1 0 0 2 2 16
+p30
+aVJustin Hamilton BKN 01/20/2017 BKN @ NOP W 24 6 3 6 50.0 0 2 0.0 0 0 - 1 4 5 0 0 0 0 0 0
+p31
+aVRandy Foye BKN 01/20/2017 BKN @ NOP W 22 11 4 7 57.1 3 5 60.0 0 0 - 0 3 3 1 0 0 1 2 33
+p32
+aVLuis Scola BKN 01/20/2017 BKN @ NOP W 8 14 6 8 75.0 1 2 50.0 1 1 100.0 2 1 3 0 0 0 0 2 -2
+p33
+aVIsaiah Whitehead BKN 01/20/2017 BKN @ NOP W 29 7 3 8 37.5 0 2 0.0 1 2 50.0 1 2 3 2 2 1 2 3 36
+p34
+aVSpencer Dinwiddie BKN 01/17/2017 BKN vs. TOR L 24 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 3 0 1 4 2 -5
+p35
+aVCaris LeVert BKN 01/17/2017 BKN vs. TOR L 23 14 6 8 75.0 2 3 66.7 0 0 - 0 3 3 4 2 0 1 3 9
+p36
+aVRandy Foye BKN 01/17/2017 BKN vs. TOR L 18 3 1 5 20.0 0 3 0.0 1 2 50.0 1 1 2 0 2 1 2 0 1
+p37
+aVJoe Harris BKN 01/17/2017 BKN vs. TOR L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -5
+p38
+aVTrevor Booker BKN 01/17/2017 BKN vs. TOR L 22 8 4 8 50.0 0 1 0.0 0 0 - 3 5 8 2 0 1 0 3 -15
+p39
+aVBrook Lopez BKN 01/17/2017 BKN vs. TOR L 32 28 11 23 47.8 0 3 0.0 6 6 100.0 4 4 8 2 0 2 3 2 -10
+p40
+aVBojan Bogdanovic BKN 01/17/2017 BKN vs. TOR L 21 11 3 7 42.9 2 5 40.0 3 3 100.0 0 3 3 0 1 0 0 2 -24
+p41
+aVIsaiah Whitehead BKN 01/17/2017 BKN vs. TOR L 13 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 3 4
+p42
+aVQuincy Acy BKN 01/17/2017 BKN vs. TOR L 3 5 2 4 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 5
+p43
+aVRondae Hollis-Jefferson BKN 01/17/2017 BKN vs. TOR L 26 14 5 8 62.5 0 0 - 4 4 100.0 0 8 8 3 1 1 1 0 5
+p44
+aVJustin Hamilton BKN 01/17/2017 BKN vs. TOR L 13 9 4 8 50.0 1 4 25.0 0 0 - 2 3 5 1 0 0 1 0 -5
+p45
+aVSean Kilpatrick BKN 01/17/2017 BKN vs. TOR L 26 7 1 7 14.3 1 3 33.3 4 4 100.0 0 1 1 3 0 0 1 2 -10
+p46
+aVSpencer Dinwiddie BKN 01/15/2017 BKN vs. HOU L 24 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 8 0 0 2 5 -13
+p47
+aVLuis Scola BKN 01/15/2017 BKN vs. HOU L 8 7 2 3 66.7 1 2 50.0 2 2 100.0 0 4 4 0 1 0 1 2 6
+p48
+aVTrevor Booker BKN 01/15/2017 BKN vs. HOU L 26 18 8 15 53.3 1 4 25.0 1 2 50.0 1 4 5 2 3 0 3 0 -31
+p49
+aVSean Kilpatrick BKN 01/15/2017 BKN vs. HOU L 23 5 2 11 18.2 1 7 14.3 0 0 - 0 3 3 4 1 0 1 2 -4
+p50
+aVQuincy Acy BKN 01/15/2017 BKN vs. HOU L 20 7 2 6 33.3 1 2 50.0 2 2 100.0 3 1 4 0 0 2 0 3 -4
+p51
+aVBojan Bogdanovic BKN 01/15/2017 BKN vs. HOU L 22 8 3 8 37.5 2 5 40.0 0 1 0.0 0 2 2 0 0 0 1 1 -29
+p52
+aVJoe Harris BKN 01/15/2017 BKN vs. HOU L 20 12 5 11 45.5 2 8 25.0 0 0 - 1 2 3 2 0 0 0 1 -25
+p53
+aVIsaiah Whitehead BKN 01/15/2017 BKN vs. HOU L 15 6 2 6 33.3 1 3 33.3 1 2 50.0 0 3 3 4 0 0 1 2 -7
+p54
+aVCaris LeVert BKN 01/15/2017 BKN vs. HOU L 22 8 2 8 25.0 2 6 33.3 2 2 100.0 0 2 2 2 1 0 0 0 7
+p55
+aVRondae Hollis-Jefferson BKN 01/15/2017 BKN vs. HOU L 17 14 5 8 62.5 0 0 - 4 4 100.0 2 5 7 2 3 0 5 1 4
+p56
+aVChris McCullough BKN 01/15/2017 BKN vs. HOU L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 4
+p57
+aVRandy Foye BKN 01/15/2017 BKN vs. HOU L 17 13 4 6 66.7 3 4 75.0 2 2 100.0 0 0 0 3 0 0 2 4 -4
+p58
+aVJustin Hamilton BKN 01/15/2017 BKN vs. HOU L 18 11 5 7 71.4 1 2 50.0 0 0 - 1 2 3 2 0 3 0 3 -29
+p59
+aVJoe Harris BKN 01/13/2017 BKN @ TOR L 25 11 4 7 57.1 3 5 60.0 0 0 - 1 3 4 0 1 0 0 1 -10
+p60
+aVBojan Bogdanovic BKN 01/13/2017 BKN @ TOR L 28 23 9 16 56.3 5 8 62.5 0 0 - 0 4 4 2 0 0 4 2 -16
+p61
+aVJustin Hamilton BKN 01/13/2017 BKN @ TOR L 14 11 4 8 50.0 1 4 25.0 2 2 100.0 0 2 2 2 1 0 0 0 -8
+p62
+aVLuis Scola BKN 01/13/2017 BKN @ TOR L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 1
+p63
+aVSpencer Dinwiddie BKN 01/13/2017 BKN @ TOR L 28 10 3 7 42.9 3 4 75.0 1 2 50.0 0 5 5 3 1 0 0 3 -14
+p64
+aVQuincy Acy BKN 01/13/2017 BKN @ TOR L 5 9 3 3 100.0 1 1 100.0 2 2 100.0 1 1 2 0 0 0 0 0 1
+p65
+aVTrevor Booker BKN 01/13/2017 BKN @ TOR L 27 6 3 8 37.5 0 0 - 0 0 - 1 6 7 4 0 0 0 3 -6
+p66
+aVCaris LeVert BKN 01/13/2017 BKN @ TOR L 19 3 1 5 20.0 1 5 20.0 0 0 - 0 1 1 0 0 0 2 1 -6
+p67
+aVSean Kilpatrick BKN 01/13/2017 BKN @ TOR L 22 6 2 5 40.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 0 2 -10
+p68
+aVRandy Foye BKN 01/13/2017 BKN @ TOR L 23 9 3 7 42.9 3 4 75.0 0 0 - 1 2 3 7 0 0 1 1 -1
+p69
+aVBrook Lopez BKN 01/13/2017 BKN @ TOR L 29 20 6 17 35.3 0 3 0.0 8 10 80.0 0 3 3 5 1 1 1 2 -12
+p70
+aVRondae Hollis-Jefferson BKN 01/13/2017 BKN @ TOR L 16 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 3 1 0 1 1 -14
+p71
+aVRondae Hollis-Jefferson BKN 01/12/2017 BKN vs. NOP L 18 4 2 8 25.0 0 1 0.0 0 0 - 2 2 4 4 2 1 2 1 -1
+p72
+aVIsaiah Whitehead BKN 01/12/2017 BKN vs. NOP L 16 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 1 1 0 1 1 -2
+p73
+aVSpencer Dinwiddie BKN 01/12/2017 BKN vs. NOP L 25 0 0 5 0.0 0 4 0.0 0 0 - 0 7 7 4 1 1 1 3 5
+p74
+aVBojan Bogdanovic BKN 01/12/2017 BKN vs. NOP L 25 10 4 11 36.4 2 7 28.6 0 0 - 0 3 3 2 1 0 2 1 -7
+p75
+aVJoe Harris BKN 01/12/2017 BKN vs. NOP L 27 15 6 10 60.0 2 6 33.3 1 2 50.0 0 2 2 2 0 0 0 1 -17
+p76
+aVSean Kilpatrick BKN 01/12/2017 BKN vs. NOP L 27 18 6 12 50.0 3 6 50.0 3 3 100.0 0 7 7 1 1 0 4 2 -9
+p77
+aVBrook Lopez BKN 01/12/2017 BKN vs. NOP L 32 20 9 18 50.0 1 6 16.7 1 2 50.0 1 5 6 3 1 1 6 3 -7
+p78
+aVJustin Hamilton BKN 01/12/2017 BKN vs. NOP L 16 6 3 9 33.3 0 4 0.0 0 0 - 1 3 4 0 0 2 0 2 1
+p79
+aVTrevor Booker BKN 01/12/2017 BKN vs. NOP L 30 8 4 9 44.4 0 1 0.0 0 2 0.0 3 9 12 4 1 1 0 4 -11
+p80
+aVCaris LeVert BKN 01/12/2017 BKN vs. NOP L 25 10 4 8 50.0 1 5 20.0 1 2 50.0 0 3 3 1 2 0 0 2 3
+p81
+aVJustin Hamilton BKN 01/10/2017 BKN vs. ATL L 26 4 2 8 25.0 0 5 0.0 0 0 - 2 4 6 3 0 0 2 1 -16
+p82
+aVCaris LeVert BKN 01/10/2017 BKN vs. ATL L 23 11 4 9 44.4 1 4 25.0 2 3 66.7 1 2 3 2 0 0 2 1 -17
+p83
+aVBojan Bogdanovic BKN 01/10/2017 BKN vs. ATL L 26 16 5 10 50.0 3 5 60.0 3 3 100.0 0 6 6 4 1 0 4 2 -3
+p84
+aVLuis Scola BKN 01/10/2017 BKN vs. ATL L 16 5 2 6 33.3 1 2 50.0 0 0 - 4 3 7 1 1 0 0 1 -9
+p85
+aVBrook Lopez BKN 01/10/2017 BKN vs. ATL L 32 20 8 14 57.1 2 6 33.3 2 4 50.0 0 2 2 2 1 2 1 3 -11
+p86
+aVRondae Hollis-Jefferson BKN 01/10/2017 BKN vs. ATL L 20 10 2 9 22.2 0 0 - 6 6 100.0 1 6 7 1 0 0 3 4 -11
+p87
+aVRandy Foye BKN 01/10/2017 BKN vs. ATL L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -4
+p88
+aVSean Kilpatrick BKN 01/10/2017 BKN vs. ATL L 25 14 6 14 42.9 1 3 33.3 1 2 50.0 2 3 5 0 1 0 2 1 -13
+p89
+aVQuincy Acy BKN 01/10/2017 BKN vs. ATL L 1 4 1 1 100.0 1 1 100.0 1 3 33.3 1 0 1 0 0 0 0 0 7
+p90
+aVJoe Harris BKN 01/10/2017 BKN vs. ATL L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p91
+aVSpencer Dinwiddie BKN 01/10/2017 BKN vs. ATL L 22 4 1 5 20.0 0 0 - 2 2 100.0 2 5 7 5 1 0 2 3 -14
+p92
+aVIsaiah Whitehead BKN 01/10/2017 BKN vs. ATL L 26 7 3 8 37.5 1 1 100.0 0 0 - 1 1 2 3 0 2 1 3 -6
+p93
+aVJustin Hamilton BKN 01/08/2017 BKN vs. PHI L 23 16 6 11 54.5 2 4 50.0 2 3 66.7 1 4 5 0 0 2 0 2 0
+p94
+aVIsaiah Whitehead BKN 01/08/2017 BKN vs. PHI L 21 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 3 0 2 6 4 4
+p95
+aVCaris LeVert BKN 01/08/2017 BKN vs. PHI L 21 6 3 5 60.0 0 1 0.0 0 1 0.0 0 3 3 2 0 0 2 2 9
+p96
+aVJoe Harris BKN 01/08/2017 BKN vs. PHI L 16 0 0 4 0.0 0 3 0.0 0 0 - 0 5 5 1 0 0 1 1 2
+p97
+aVRondae Hollis-Jefferson BKN 01/08/2017 BKN vs. PHI L 23 7 3 5 60.0 0 0 - 1 2 50.0 0 4 4 1 2 0 3 3 -20
+p98
+aVBojan Bogdanovic BKN 01/08/2017 BKN vs. PHI L 35 12 5 14 35.7 2 6 33.3 0 0 - 1 7 8 3 1 0 2 0 -14
+p99
+aVSpencer Dinwiddie BKN 01/08/2017 BKN vs. PHI L 25 9 3 5 60.0 0 0 - 3 4 75.0 0 3 3 3 0 2 1 0 -18
+p100
+aVSean Kilpatrick BKN 01/08/2017 BKN vs. PHI L 25 10 4 9 44.4 2 4 50.0 0 0 - 0 3 3 3 1 0 5 3 -13
+p101
+aVBrook Lopez BKN 01/08/2017 BKN vs. PHI L 32 26 8 16 50.0 3 7 42.9 7 7 100.0 1 1 2 2 1 1 2 3 1
+p102
+aVTrevor Booker BKN 01/08/2017 BKN vs. PHI L 18 4 2 3 66.7 0 0 - 0 0 - 1 3 4 3 1 1 0 5 -1
+p103
+aVIsaiah Whitehead BKN 01/06/2017 BKN vs. CLE L 30 10 4 10 40.0 0 1 0.0 2 3 66.7 1 9 10 3 1 0 4 4 -3
+p104
+aVBrook Lopez BKN 01/06/2017 BKN vs. CLE L 33 17 5 10 50.0 1 2 50.0 6 7 85.7 0 1 1 1 0 0 5 2 5
+p105
+aVCaris LeVert BKN 01/06/2017 BKN vs. CLE L 27 19 7 12 58.3 2 7 28.6 3 3 100.0 0 4 4 5 0 0 1 3 10
+p106
+aVSpencer Dinwiddie BKN 01/06/2017 BKN vs. CLE L 18 7 2 3 66.7 0 0 - 3 3 100.0 0 5 5 2 0 0 2 5 -5
+p107
+aVSean Kilpatrick BKN 01/06/2017 BKN vs. CLE L 19 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 -18
+p108
+aVBojan Bogdanovic BKN 01/06/2017 BKN vs. CLE L 31 23 9 14 64.3 5 9 55.6 0 0 - 0 2 2 4 1 0 2 5 6
+p109
+aVTrevor Booker BKN 01/06/2017 BKN vs. CLE L 32 13 6 9 66.7 0 0 - 1 1 100.0 1 11 12 4 0 0 3 5 -9
+p110
+aVRondae Hollis-Jefferson BKN 01/06/2017 BKN vs. CLE L 15 4 1 6 16.7 0 0 - 2 2 100.0 1 3 4 1 2 0 0 5 1
+p111
+aVJoe Harris BKN 01/06/2017 BKN vs. CLE L 18 2 1 9 11.1 0 5 0.0 0 0 - 3 3 6 1 1 0 1 2 -14
+p112
+aVJustin Hamilton BKN 01/06/2017 BKN vs. CLE L 16 9 4 9 44.4 1 3 33.3 0 0 - 4 2 6 0 1 1 1 2 -13
+p113
+aVSpencer Dinwiddie BKN 01/05/2017 BKN @ IND L 32 13 4 7 57.1 1 1 100.0 4 4 100.0 1 2 3 3 1 2 1 3 2
+p114
+aVBojan Bogdanovic BKN 01/05/2017 BKN @ IND L 12 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 2 0 0 1 0 -22
+p115
+aVIsaiah Whitehead BKN 01/05/2017 BKN @ IND L 13 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 1 0 1 1 3 -13
+p116
+aVSean Kilpatrick BKN 01/05/2017 BKN @ IND L 25 13 4 12 33.3 1 4 25.0 4 6 66.7 0 8 8 5 1 1 1 2 5
+p117
+aVCaris LeVert BKN 01/05/2017 BKN @ IND L 21 6 2 3 66.7 2 3 66.7 0 0 - 1 1 2 1 1 0 0 1 4
+p118
+aVAnthony Bennett BKN 01/05/2017 BKN @ IND L 3 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 0
+p119
+aVRandy Foye BKN 01/05/2017 BKN @ IND L 15 1 0 3 0.0 0 3 0.0 1 1 100.0 0 3 3 3 1 0 2 0 6
+p120
+aVTrevor Booker BKN 01/05/2017 BKN @ IND L 20 16 7 11 63.6 2 2 100.0 0 0 - 2 4 6 0 0 0 2 0 -29
+p121
+aVJoe Harris BKN 01/05/2017 BKN @ IND L 26 10 4 8 50.0 2 5 40.0 0 0 - 1 1 2 2 0 2 2 3 -18
+p122
+aVBrook Lopez BKN 01/05/2017 BKN @ IND L 26 12 5 14 35.7 1 5 20.0 1 2 50.0 0 6 6 3 0 1 2 2 -21
+p123
+aVLuis Scola BKN 01/05/2017 BKN @ IND L 25 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 2 0 0 1 3 6
+p124
+aVJustin Hamilton BKN 01/05/2017 BKN @ IND L 22 16 6 9 66.7 4 5 80.0 0 0 - 2 6 8 0 1 1 0 0 20
+p125
+aVJoe Harris BKN 01/02/2017 BKN vs. UTA L 22 7 3 5 60.0 1 3 33.3 0 0 - 1 0 1 1 0 0 2 2 -10
+p126
+aVIsaiah Whitehead BKN 01/02/2017 BKN vs. UTA L 31 12 4 11 36.4 1 3 33.3 3 4 75.0 1 5 6 1 0 1 3 3 -6
+p127
+aVJustin Hamilton BKN 01/02/2017 BKN vs. UTA L 16 5 2 4 50.0 1 2 50.0 0 0 - 1 5 6 0 0 1 2 1 4
+p128
+aVSpencer Dinwiddie BKN 01/02/2017 BKN vs. UTA L 13 7 3 6 50.0 0 2 0.0 1 3 33.3 0 1 1 4 1 0 1 0 -1
+p129
+aVSean Kilpatrick BKN 01/02/2017 BKN vs. UTA L 28 8 2 7 28.6 1 3 33.3 3 3 100.0 0 4 4 1 0 0 2 2 -7
+p130
+aVTrevor Booker BKN 01/02/2017 BKN vs. UTA L 34 17 6 14 42.9 1 4 25.0 4 4 100.0 4 11 15 2 0 1 1 3 -12
+p131
+aVRondae Hollis-Jefferson BKN 01/02/2017 BKN vs. UTA L 14 11 3 5 60.0 0 0 - 5 7 71.4 0 1 1 1 0 0 1 0 0
+p132
+aVRandy Foye BKN 01/02/2017 BKN vs. UTA L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 2 0 1 0 -4
+p133
+aVCaris LeVert BKN 01/02/2017 BKN vs. UTA L 14 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p134
+aVBojan Bogdanovic BKN 01/02/2017 BKN vs. UTA L 25 8 4 7 57.1 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 -1
+p135
+aVBrook Lopez BKN 01/02/2017 BKN vs. UTA L 31 14 6 16 37.5 1 6 16.7 1 2 50.0 1 5 6 0 2 2 2 5 -16
+p136
+aVRondae Hollis-Jefferson BKN 12/30/2016 BKN @ WAS L 29 16 6 13 46.2 0 0 - 4 6 66.7 1 4 5 1 1 0 2 0 -13
+p137
+aVBojan Bogdanovic BKN 12/30/2016 BKN @ WAS L 21 12 4 10 40.0 2 4 50.0 2 2 100.0 1 2 3 1 1 0 0 1 -9
+p138
+aVSpencer Dinwiddie BKN 12/30/2016 BKN @ WAS L 23 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 0 0 4 2 -6
+p139
+aVCaris LeVert BKN 12/30/2016 BKN @ WAS L 24 12 4 5 80.0 2 3 66.7 2 2 100.0 0 3 3 1 2 0 0 3 -13
+p140
+aVSean Kilpatrick BKN 12/30/2016 BKN @ WAS L 23 7 2 6 33.3 0 1 0.0 3 3 100.0 0 2 2 0 1 0 4 4 -11
+p141
+aVBrook Lopez BKN 12/30/2016 BKN @ WAS L 31 11 3 9 33.3 1 5 20.0 4 4 100.0 1 4 5 6 1 0 4 2 -12
+p142
+aVJustin Hamilton BKN 12/30/2016 BKN @ WAS L 17 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 2 0 1 1 -11
+p143
+aVIsaiah Whitehead BKN 12/30/2016 BKN @ WAS L 25 6 2 8 25.0 1 4 25.0 1 2 50.0 0 1 1 2 1 0 2 1 -19
+p144
+aVTrevor Booker BKN 12/30/2016 BKN @ WAS L 20 16 6 11 54.5 3 4 75.0 1 2 50.0 2 5 7 3 0 0 2 1 -10
+p145
+aVRandy Foye BKN 12/30/2016 BKN @ WAS L 27 9 2 7 28.6 1 4 25.0 4 4 100.0 0 2 2 1 0 0 2 1 -11
+p146
+aVTrevor Booker BKN 12/28/2016 BKN @ CHI L 26 6 3 7 42.9 0 0 - 0 0 - 5 8 13 2 0 1 2 0 0
+p147
+aVRandy Foye BKN 12/28/2016 BKN @ CHI L 28 11 5 9 55.6 1 4 25.0 0 2 0.0 0 5 5 1 1 0 1 3 -7
+p148
+aVSean Kilpatrick BKN 12/28/2016 BKN @ CHI L 34 18 6 14 42.9 4 9 44.4 2 2 100.0 0 3 3 6 1 0 2 2 6
+p149
+aVIsaiah Whitehead BKN 12/28/2016 BKN @ CHI L 19 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 1 2 2 1 4
+p150
+aVBojan Bogdanovic BKN 12/28/2016 BKN @ CHI L 28 10 4 11 36.4 1 4 25.0 1 1 100.0 0 2 2 2 0 0 1 3 -3
+p151
+aVBrook Lopez BKN 12/28/2016 BKN @ CHI L 34 33 12 20 60.0 5 6 83.3 4 4 100.0 1 2 3 4 0 0 3 4 4
+p152
+aVSpencer Dinwiddie BKN 12/28/2016 BKN @ CHI L 15 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 2 0 1 4 -7
+p153
+aVRondae Hollis-Jefferson BKN 12/28/2016 BKN @ CHI L 18 7 2 7 28.6 0 0 - 3 5 60.0 0 1 1 1 2 0 2 3 -2
+p154
+aVJustin Hamilton BKN 12/28/2016 BKN @ CHI L 18 5 2 7 28.6 1 4 25.0 0 0 - 3 2 5 2 1 2 0 1 -6
+p155
+aVCaris LeVert BKN 12/28/2016 BKN @ CHI L 20 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 1 1 1 0 1 1
+p156
+aVSean Kilpatrick BKN 12/26/2016 BKN vs. CHA W 32 23 9 15 60.0 4 7 57.1 1 2 50.0 0 5 5 4 0 0 2 3 -4
+p157
+aVJoe Harris BKN 12/26/2016 BKN vs. CHA W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 -3
+p158
+aVIsaiah Whitehead BKN 12/26/2016 BKN vs. CHA W 16 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 3 1 1 4 4 1
+p159
+aVRondae Hollis-Jefferson BKN 12/26/2016 BKN vs. CHA W 26 10 1 6 16.7 0 0 - 8 10 80.0 1 3 4 1 1 2 0 4 5
+p160
+aVBojan Bogdanovic BKN 12/26/2016 BKN vs. CHA W 27 26 7 11 63.6 4 7 57.1 8 9 88.9 1 3 4 2 0 0 0 1 3
+p161
+aVBrook Lopez BKN 12/26/2016 BKN vs. CHA W 33 21 8 13 61.5 1 3 33.3 4 4 100.0 2 3 5 5 0 3 2 1 5
+p162
+aVRandy Foye BKN 12/26/2016 BKN vs. CHA W 21 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 11
+p163
+aVTrevor Booker BKN 12/26/2016 BKN vs. CHA W 22 3 1 3 33.3 0 0 - 1 2 50.0 0 12 12 3 0 1 2 2 -5
+p164
+aVJeremy Lin BKN 12/26/2016 BKN vs. CHA W 22 17 6 11 54.5 2 4 50.0 3 4 75.0 0 0 0 4 2 0 3 2 -5
+p165
+aVJustin Hamilton BKN 12/26/2016 BKN vs. CHA W 15 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 0 1 1 0 -1
+p166
+aVCaris LeVert BKN 12/26/2016 BKN vs. CHA W 15 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 1 2 3
+p167
+aVRondae Hollis-Jefferson BKN 12/23/2016 BKN @ CLE L 23 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 1 1 0 2 3 -14
+p168
+aVAnthony Bennett BKN 12/23/2016 BKN @ CLE L 14 11 4 8 50.0 0 2 0.0 3 4 75.0 1 1 2 1 0 1 0 2 -3
+p169
+aVJoe Harris BKN 12/23/2016 BKN @ CLE L 16 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 0 0 1 1 2 -21
+p170
+aVBojan Bogdanovic BKN 12/23/2016 BKN @ CLE L 20 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 3 -15
+p171
+aVRandy Foye BKN 12/23/2016 BKN @ CLE L 13 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 1 2 0 24
+p172
+aVSpencer Dinwiddie BKN 12/23/2016 BKN @ CLE L 21 13 6 7 85.7 1 1 100.0 0 1 0.0 1 2 3 3 1 0 0 2 14
+p173
+aVLuis Scola BKN 12/23/2016 BKN @ CLE L 15 8 3 5 60.0 1 1 100.0 1 1 100.0 2 3 5 1 0 0 0 1 -4
+p174
+aVChris McCullough BKN 12/23/2016 BKN @ CLE L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 10
+p175
+aVSean Kilpatrick BKN 12/23/2016 BKN @ CLE L 21 12 4 10 40.0 2 5 40.0 2 2 100.0 0 5 5 4 2 0 1 2 -30
+p176
+aVBrook Lopez BKN 12/23/2016 BKN @ CLE L 22 16 7 11 63.6 2 3 66.7 0 0 - 1 2 3 1 0 2 3 2 -19
+p177
+aVJeremy Lin BKN 12/23/2016 BKN @ CLE L 25 10 5 10 50.0 0 2 0.0 0 0 - 0 2 2 6 1 0 5 1 -34
+p178
+aVJustin Hamilton BKN 12/23/2016 BKN @ CLE L 19 8 3 8 37.5 0 3 0.0 2 2 100.0 1 5 6 0 0 1 2 2 -12
+p179
+aVCaris LeVert BKN 12/23/2016 BKN @ CLE L 24 9 2 7 28.6 2 5 40.0 3 4 75.0 1 6 7 2 1 1 1 1 4
+p180
+aVJeremy Lin BKN 12/22/2016 BKN vs. GSW L 32 10 4 12 33.3 2 7 28.6 0 0 - 0 8 8 11 2 2 5 1 -14
+p181
+aVRondae Hollis-Jefferson BKN 12/22/2016 BKN vs. GSW L 24 13 6 15 40.0 1 3 33.3 0 1 0.0 3 3 6 1 2 1 1 2 -2
+p182
+aVRandy Foye BKN 12/22/2016 BKN vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p183
+aVSean Kilpatrick BKN 12/22/2016 BKN vs. GSW L 32 14 4 11 36.4 1 5 20.0 5 7 71.4 0 4 4 2 0 0 4 1 -13
+p184
+aVBojan Bogdanovic BKN 12/22/2016 BKN vs. GSW L 26 12 5 10 50.0 2 5 40.0 0 0 - 1 2 3 0 0 1 3 3 -20
+p185
+aVAnthony Bennett BKN 12/22/2016 BKN vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p186
+aVTrevor Booker BKN 12/22/2016 BKN vs. GSW L 24 4 2 5 40.0 0 0 - 0 0 - 3 4 7 1 2 0 2 1 -5
+p187
+aVJustin Hamilton BKN 12/22/2016 BKN vs. GSW L 18 2 1 3 33.3 0 2 0.0 0 0 - 0 4 4 0 0 0 1 2 -5
+p188
+aVJoe Harris BKN 12/22/2016 BKN vs. GSW L 19 9 3 4 75.0 3 3 100.0 0 0 - 0 3 3 1 0 0 2 2 -1
+p189
+aVBrook Lopez BKN 12/22/2016 BKN vs. GSW L 31 28 9 16 56.3 4 9 44.4 6 6 100.0 0 8 8 2 0 2 6 3 -21
+p190
+aVCaris LeVert BKN 12/22/2016 BKN vs. GSW L 13 5 2 6 33.3 0 1 0.0 1 2 50.0 0 1 1 4 0 0 0 0 4
+p191
+aVSpencer Dinwiddie BKN 12/22/2016 BKN vs. GSW L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p192
+aVLuis Scola BKN 12/22/2016 BKN vs. GSW L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p193
+aVSpencer Dinwiddie BKN 12/20/2016 BKN @ TOR L 22 14 4 9 44.4 0 3 0.0 6 7 85.7 1 3 4 1 0 1 3 4 4
+p194
+aVSean Kilpatrick BKN 12/20/2016 BKN @ TOR L 23 8 3 10 30.0 0 4 0.0 2 2 100.0 0 1 1 0 3 0 2 1 -14
+p195
+aVJustin Hamilton BKN 12/20/2016 BKN @ TOR L 23 5 2 6 33.3 0 3 0.0 1 2 50.0 2 9 11 4 0 1 1 1 6
+p196
+aVLuis Scola BKN 12/20/2016 BKN @ TOR L 18 9 4 10 40.0 1 3 33.3 0 0 - 4 1 5 0 0 0 1 2 -7
+p197
+aVBojan Bogdanovic BKN 12/20/2016 BKN @ TOR L 19 5 1 6 16.7 1 4 25.0 2 2 100.0 0 0 0 2 0 0 0 2 -10
+p198
+aVJeremy Lin BKN 12/20/2016 BKN @ TOR L 25 12 4 8 50.0 2 4 50.0 2 4 50.0 0 2 2 4 1 1 2 1 -15
+p199
+aVJoe Harris BKN 12/20/2016 BKN @ TOR L 22 5 2 6 33.3 1 3 33.3 0 0 - 0 6 6 2 0 0 0 3 -10
+p200
+aVRandy Foye BKN 12/20/2016 BKN @ TOR L 7 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 0 0 5
+p201
+aVTrevor Booker BKN 12/20/2016 BKN @ TOR L 20 11 4 6 66.7 1 2 50.0 2 2 100.0 2 3 5 2 1 0 4 2 -12
+p202
+aVRondae Hollis-Jefferson BKN 12/20/2016 BKN @ TOR L 20 19 8 15 53.3 1 1 100.0 2 3 66.7 1 5 6 3 1 1 0 6 -13
+p203
+aVCaris LeVert BKN 12/20/2016 BKN @ TOR L 19 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 0 1 0 2 1 8
+p204
+aVAnthony Bennett BKN 12/20/2016 BKN @ TOR L 21 8 2 8 25.0 1 4 25.0 3 4 75.0 4 6 10 1 1 1 1 0 -2
+p205
+aVSean Kilpatrick BKN 12/18/2016 BKN @ PHI L 26 7 2 5 40.0 0 2 0.0 3 4 75.0 0 4 4 3 1 0 2 1 5
+p206
+aVBojan Bogdanovic BKN 12/18/2016 BKN @ PHI L 25 14 5 13 38.5 2 7 28.6 2 2 100.0 1 5 6 2 1 0 1 0 -3
+p207
+aVTrevor Booker BKN 12/18/2016 BKN @ PHI L 31 5 2 7 28.6 0 1 0.0 1 2 50.0 1 5 6 4 0 0 2 3 7
+p208
+aVJoe Harris BKN 12/18/2016 BKN @ PHI L 28 19 7 13 53.8 5 9 55.6 0 0 - 0 2 2 2 2 0 2 3 7
+p209
+aVAnthony Bennett BKN 12/18/2016 BKN @ PHI L 13 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -4
+p210
+aVBrook Lopez BKN 12/18/2016 BKN @ PHI L 32 22 6 14 42.9 1 3 33.3 9 10 90.0 3 6 9 8 1 4 1 4 17
+p211
+aVIsaiah Whitehead BKN 12/18/2016 BKN @ PHI L 21 11 3 6 50.0 2 3 66.7 3 4 75.0 0 1 1 0 0 0 0 2 -9
+p212
+aVCaris LeVert BKN 12/18/2016 BKN @ PHI L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -9
+p213
+aVLuis Scola BKN 12/18/2016 BKN @ PHI L 12 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -10
+p214
+aVJeremy Lin BKN 12/18/2016 BKN @ PHI L 22 16 5 10 50.0 2 7 28.6 4 5 80.0 0 2 2 4 2 0 3 1 6
+p215
+aVRondae Hollis-Jefferson BKN 12/18/2016 BKN @ PHI L 19 7 3 5 60.0 0 1 0.0 1 4 25.0 1 4 5 1 1 1 3 3 -12
+p216
+aVRondae Hollis-Jefferson BKN 12/16/2016 BKN @ ORL L 19 9 3 3 100.0 0 0 - 3 4 75.0 1 4 5 0 0 0 0 1 7
+p217
+aVBrook Lopez BKN 12/16/2016 BKN @ ORL L 32 22 9 19 47.4 0 3 0.0 4 5 80.0 1 5 6 1 1 5 4 6 -4
+p218
+aVBojan Bogdanovic BKN 12/16/2016 BKN @ ORL L 30 15 5 14 35.7 3 7 42.9 2 2 100.0 0 3 3 1 1 0 2 5 1
+p219
+aVAnthony Bennett BKN 12/16/2016 BKN @ ORL L 14 8 2 3 66.7 1 2 50.0 3 4 75.0 0 0 0 0 0 1 2 2 -6
+p220
+aVJoe Harris BKN 12/16/2016 BKN @ ORL L 19 5 1 4 25.0 0 1 0.0 3 3 100.0 0 6 6 1 0 0 0 4 -7
+p221
+aVTrevor Booker BKN 12/16/2016 BKN @ ORL L 30 2 0 5 0.0 0 2 0.0 2 2 100.0 3 6 9 2 1 0 1 1 -14
+p222
+aVCaris LeVert BKN 12/16/2016 BKN @ ORL L 11 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 2 1 0 0 1 4
+p223
+aVJeremy Lin BKN 12/16/2016 BKN @ ORL L 20 17 7 13 53.8 1 2 50.0 2 2 100.0 0 3 3 3 0 0 1 1 -9
+p224
+aVSean Kilpatrick BKN 12/16/2016 BKN @ ORL L 27 13 4 9 44.4 2 5 40.0 3 4 75.0 1 5 6 1 1 0 0 5 -13
+p225
+aVIsaiah Whitehead BKN 12/16/2016 BKN @ ORL L 24 4 2 3 66.7 0 0 - 0 0 - 0 3 3 8 0 0 3 2 4
+p226
+aVSpencer Dinwiddie BKN 12/16/2016 BKN @ ORL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -2
+p227
+aVLuis Scola BKN 12/16/2016 BKN @ ORL L 12 11 4 7 57.1 3 3 100.0 0 0 - 0 0 0 2 0 0 2 3 4
+p228
+aVSpencer Dinwiddie BKN 12/14/2016 BKN vs. LAL W 13 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 1 2 -16
+p229
+aVCaris LeVert BKN 12/14/2016 BKN vs. LAL W 11 3 1 3 33.3 0 2 0.0 1 2 50.0 0 4 4 2 1 0 0 0 3
+p230
+aVRondae Hollis-Jefferson BKN 12/14/2016 BKN vs. LAL W 19 6 2 4 50.0 0 1 0.0 2 2 100.0 3 4 7 1 0 1 1 2 3
+p231
+aVAnthony Bennett BKN 12/14/2016 BKN vs. LAL W 13 4 1 5 20.0 0 3 0.0 2 2 100.0 1 4 5 0 0 0 0 2 -4
+p232
+aVIsaiah Whitehead BKN 12/14/2016 BKN vs. LAL W 24 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 2 1 0 1 6 11
+p233
+aVSean Kilpatrick BKN 12/14/2016 BKN vs. LAL W 31 22 5 13 38.5 3 6 50.0 9 10 90.0 1 3 4 5 1 0 3 3 15
+p234
+aVBojan Bogdanovic BKN 12/14/2016 BKN vs. LAL W 29 23 6 13 46.2 3 7 42.9 8 10 80.0 1 3 4 1 1 0 2 3 -8
+p235
+aVTrevor Booker BKN 12/14/2016 BKN vs. LAL W 29 8 3 8 37.5 1 1 100.0 1 5 20.0 5 13 18 2 0 1 3 4 4
+p236
+aVJoe Harris BKN 12/14/2016 BKN vs. LAL W 26 11 3 10 30.0 3 7 42.9 2 2 100.0 0 4 4 0 2 0 1 2 22
+p237
+aVLuis Scola BKN 12/14/2016 BKN vs. LAL W 12 2 1 4 25.0 0 0 - 0 0 - 3 2 5 3 0 1 0 0 6
+p238
+aVBrook Lopez BKN 12/14/2016 BKN vs. LAL W 33 20 8 19 42.1 1 7 14.3 3 5 60.0 3 4 7 2 0 1 3 2 14
+p239
+aVBojan Bogdanovic BKN 12/12/2016 BKN @ HOU L 22 7 3 8 37.5 1 3 33.3 0 1 0.0 0 1 1 1 1 0 0 3 -19
+p240
+aVJoe Harris BKN 12/12/2016 BKN @ HOU L 22 9 2 7 28.6 1 4 25.0 4 4 100.0 0 7 7 1 0 0 0 5 8
+p241
+aVAnthony Bennett BKN 12/12/2016 BKN @ HOU L 18 6 2 3 66.7 0 1 0.0 2 2 100.0 2 2 4 0 0 0 0 1 -3
+p242
+aVTrevor Booker BKN 12/12/2016 BKN @ HOU L 32 10 4 8 50.0 0 0 - 2 3 66.7 0 13 13 1 4 0 3 3 -11
+p243
+aVJeremy Lin BKN 12/12/2016 BKN @ HOU L 20 10 4 8 50.0 1 3 33.3 1 4 25.0 0 3 3 7 1 1 1 3 17
+p244
+aVLuis Scola BKN 12/12/2016 BKN @ HOU L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p245
+aVIsaiah Whitehead BKN 12/12/2016 BKN @ HOU L 24 13 6 8 75.0 0 1 0.0 1 2 50.0 0 2 2 5 0 0 3 3 -23
+p246
+aVSean Kilpatrick BKN 12/12/2016 BKN @ HOU L 32 17 6 8 75.0 2 2 100.0 3 4 75.0 0 3 3 2 0 0 7 5 3
+p247
+aVBrook Lopez BKN 12/12/2016 BKN @ HOU L 32 26 9 17 52.9 0 2 0.0 8 8 100.0 1 0 1 2 1 2 4 1 14
+p248
+aVRondae Hollis-Jefferson BKN 12/12/2016 BKN @ HOU L 15 11 3 4 75.0 0 0 - 5 6 83.3 2 3 5 0 2 0 0 1 2
+p249
+aVSpencer Dinwiddie BKN 12/12/2016 BKN @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 1 1 1 2
+p250
+aVCaris LeVert BKN 12/12/2016 BKN @ HOU L 15 7 2 5 40.0 2 4 50.0 1 2 50.0 1 1 2 0 0 0 0 1 -6
+p251
+aVRandy Foye BKN 12/10/2016 BKN @ SAS L 21 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 2 1 0 1 3 -13
+p252
+aVBrook Lopez BKN 12/10/2016 BKN @ SAS L 25 14 3 7 42.9 0 1 0.0 8 8 100.0 3 2 5 5 0 1 0 0 -18
+p253
+aVJoe Harris BKN 12/10/2016 BKN @ SAS L 19 10 4 8 50.0 1 2 50.0 1 2 50.0 0 4 4 0 0 0 1 2 -6
+p254
+aVLuis Scola BKN 12/10/2016 BKN @ SAS L 16 15 5 9 55.6 1 1 100.0 4 5 80.0 4 7 11 1 0 0 2 3 9
+p255
+aVBojan Bogdanovic BKN 12/10/2016 BKN @ SAS L 27 20 7 13 53.8 2 4 50.0 4 5 80.0 0 4 4 2 0 0 0 1 -23
+p256
+aVTrevor Booker BKN 12/10/2016 BKN @ SAS L 27 9 4 6 66.7 0 1 0.0 1 1 100.0 0 4 4 2 0 0 2 0 -28
+p257
+aVIsaiah Whitehead BKN 12/10/2016 BKN @ SAS L 23 7 3 9 33.3 1 4 25.0 0 0 - 0 0 0 2 1 0 3 3 -16
+p258
+aVRondae Hollis-Jefferson BKN 12/10/2016 BKN @ SAS L 19 8 3 9 33.3 0 1 0.0 2 2 100.0 1 6 7 1 1 1 1 1 -6
+p259
+aVSpencer Dinwiddie BKN 12/10/2016 BKN @ SAS L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 2 0 1 0 9
+p260
+aVCaris LeVert BKN 12/10/2016 BKN @ SAS L 15 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 2 1 0 2 1 -10
+p261
+aVAnthony Bennett BKN 12/10/2016 BKN @ SAS L 15 3 1 7 14.3 1 4 25.0 0 0 - 2 5 7 1 0 0 2 1 -24
+p262
+aVSean Kilpatrick BKN 12/10/2016 BKN @ SAS L 24 6 2 7 28.6 0 2 0.0 2 2 100.0 1 0 1 1 0 0 1 1 -19
+p263
+aVBrook Lopez BKN 12/07/2016 BKN vs. DEN W 33 24 7 17 41.2 2 5 40.0 8 10 80.0 3 5 8 4 0 2 2 4 1
+p264
+aVCaris LeVert BKN 12/07/2016 BKN vs. DEN W 9 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 0 3 0 0 0 -2
+p265
+aVRondae Hollis-Jefferson BKN 12/07/2016 BKN vs. DEN W 14 0 0 6 0.0 0 2 0.0 0 0 - 0 3 3 1 0 1 1 3 -6
+p266
+aVJustin Hamilton BKN 12/07/2016 BKN vs. DEN W 12 2 1 4 25.0 0 3 0.0 0 0 - 1 1 2 0 0 1 2 2 -1
+p267
+aVBojan Bogdanovic BKN 12/07/2016 BKN vs. DEN W 34 19 8 11 72.7 1 2 50.0 2 2 100.0 1 0 1 3 0 0 1 1 15
+p268
+aVRandy Foye BKN 12/07/2016 BKN vs. DEN W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p269
+aVSean Kilpatrick BKN 12/07/2016 BKN vs. DEN W 32 22 6 10 60.0 2 3 66.7 8 8 100.0 0 6 6 3 1 0 2 2 15
+p270
+aVJoe Harris BKN 12/07/2016 BKN vs. DEN W 24 16 6 8 75.0 2 3 66.7 2 2 100.0 1 1 2 0 2 0 0 3 -9
+p271
+aVTrevor Booker BKN 12/07/2016 BKN vs. DEN W 37 15 6 12 50.0 0 1 0.0 3 6 50.0 1 11 12 5 1 0 5 1 10
+p272
+aVAnthony Bennett BKN 12/07/2016 BKN vs. DEN W 7 4 2 3 66.7 0 1 0.0 0 0 - 2 0 2 0 0 0 0 0 -2
+p273
+aVIsaiah Whitehead BKN 12/07/2016 BKN vs. DEN W 29 14 5 11 45.5 2 5 40.0 2 3 66.7 0 2 2 2 4 1 2 2 13
+p274
+aVRandy Foye BKN 12/05/2016 BKN vs. WAS L 15 8 3 7 42.9 2 4 50.0 0 0 - 0 4 4 1 1 0 4 0 8
+p275
+aVRondae Hollis-Jefferson BKN 12/05/2016 BKN vs. WAS L 23 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 5 0 0 1 1 1
+p276
+aVTrevor Booker BKN 12/05/2016 BKN vs. WAS L 31 14 6 9 66.7 0 1 0.0 2 4 50.0 6 7 13 1 2 1 4 1 -14
+p277
+aVSean Kilpatrick BKN 12/05/2016 BKN vs. WAS L 33 21 8 12 66.7 2 4 50.0 3 3 100.0 1 5 6 4 1 0 2 1 -2
+p278
+aVIsaiah Whitehead BKN 12/05/2016 BKN vs. WAS L 24 6 3 8 37.5 0 0 - 0 0 - 0 4 4 5 0 0 3 3 -11
+p279
+aVAnthony Bennett BKN 12/05/2016 BKN vs. WAS L 13 6 2 2 100.0 2 2 100.0 0 0 - 1 1 2 1 0 0 2 0 4
+p280
+aVJoe Harris BKN 12/05/2016 BKN vs. WAS L 28 8 2 5 40.0 1 2 50.0 3 4 75.0 0 5 5 1 1 0 2 3 16
+p281
+aVJustin Hamilton BKN 12/05/2016 BKN vs. WAS L 13 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 0 0 0 1 0 -9
+p282
+aVBrook Lopez BKN 12/05/2016 BKN vs. WAS L 31 25 8 15 53.3 2 4 50.0 7 9 77.8 4 2 6 5 0 2 1 3 3
+p283
+aVBojan Bogdanovic BKN 12/05/2016 BKN vs. WAS L 29 18 5 14 35.7 2 7 28.6 6 8 75.0 0 3 3 2 0 0 1 3 -21
+p284
+aVLuis Scola BKN 12/03/2016 BKN @ MIL L 11 7 3 4 75.0 0 1 0.0 1 1 100.0 2 1 3 0 0 1 0 1 -2
+p285
+aVSean Kilpatrick BKN 12/03/2016 BKN @ MIL L 29 19 3 13 23.1 1 5 20.0 12 13 92.3 0 1 1 3 0 0 0 0 -12
+p286
+aVRondae Hollis-Jefferson BKN 12/03/2016 BKN @ MIL L 24 5 2 5 40.0 1 3 33.3 0 3 0.0 1 8 9 3 3 1 1 3 -4
+p287
+aVIsaiah Whitehead BKN 12/03/2016 BKN @ MIL L 24 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 0 0 0 3 3 0
+p288
+aVAnthony Bennett BKN 12/03/2016 BKN @ MIL L 23 7 3 6 50.0 0 3 0.0 1 2 50.0 4 10 14 1 0 0 1 4 -1
+p289
+aVJoe Harris BKN 12/03/2016 BKN @ MIL L 30 17 7 12 58.3 3 7 42.9 0 0 - 0 5 5 2 1 0 1 3 -5
+p290
+aVBojan Bogdanovic BKN 12/03/2016 BKN @ MIL L 32 24 8 17 47.1 2 4 50.0 6 8 75.0 1 1 2 3 0 0 3 2 -15
+p291
+aVBrook Lopez BKN 12/03/2016 BKN @ MIL L 29 13 3 17 17.6 3 9 33.3 4 6 66.7 1 3 4 6 1 3 2 5 -15
+p292
+aVRandy Foye BKN 12/03/2016 BKN @ MIL L 20 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 2 0 0 1 3 1
+p293
+aVJustin Hamilton BKN 12/03/2016 BKN @ MIL L 18 0 0 6 0.0 0 3 0.0 0 0 - 1 2 3 1 1 0 2 2 8
+p294
+aVLuis Scola BKN 12/01/2016 BKN vs. MIL L 7 2 1 1 100.0 0 0 - 0 0 - 3 1 4 0 0 1 0 1 2
+p295
+aVJustin Hamilton BKN 12/01/2016 BKN vs. MIL L 17 5 2 9 22.2 1 5 20.0 0 0 - 1 1 2 2 2 0 1 1 -7
+p296
+aVBojan Bogdanovic BKN 12/01/2016 BKN vs. MIL L 27 13 5 14 35.7 2 6 33.3 1 1 100.0 0 3 3 1 0 0 0 2 -16
+p297
+aVAnthony Bennett BKN 12/01/2016 BKN vs. MIL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p298
+aVSean Kilpatrick BKN 12/01/2016 BKN vs. MIL L 30 14 5 10 50.0 2 6 33.3 2 2 100.0 1 5 6 4 1 0 6 3 -23
+p299
+aVYogi Ferrell BKN 12/01/2016 BKN vs. MIL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p300
+aVIsaiah Whitehead BKN 12/01/2016 BKN vs. MIL L 31 8 3 8 37.5 0 2 0.0 2 2 100.0 0 0 0 4 2 1 2 4 -10
+p301
+aVTrevor Booker BKN 12/01/2016 BKN vs. MIL L 27 9 4 7 57.1 0 0 - 1 1 100.0 5 3 8 2 2 0 3 4 -12
+p302
+aVJoe Harris BKN 12/01/2016 BKN vs. MIL L 23 11 4 11 36.4 3 8 37.5 0 0 - 0 4 4 3 0 0 0 1 -6
+p303
+aVChris McCullough BKN 12/01/2016 BKN vs. MIL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p304
+aVBrook Lopez BKN 12/01/2016 BKN vs. MIL L 28 15 4 12 33.3 3 8 37.5 4 6 66.7 2 2 4 2 0 2 1 2 -19
+p305
+aVRondae Hollis-Jefferson BKN 12/01/2016 BKN vs. MIL L 17 7 3 7 42.9 0 1 0.0 1 2 50.0 0 2 2 1 1 2 1 3 -3
+p306
+aVRandy Foye BKN 12/01/2016 BKN vs. MIL L 23 7 2 7 28.6 1 4 25.0 2 2 100.0 0 6 6 1 0 3 2 1 -5
+p307
+aVTrevor Booker BKN 11/29/2016 BKN vs. LAC W 42 15 7 13 53.8 0 2 0.0 1 1 100.0 2 9 11 5 4 0 2 4 10
+p308
+aVSean Kilpatrick BKN 11/29/2016 BKN vs. LAC W 47 38 14 34 41.2 4 12 33.3 6 8 75.0 0 14 14 2 0 0 5 4 8
+p309
+aVIsaiah Whitehead BKN 11/29/2016 BKN vs. LAC W 46 6 2 8 25.0 1 3 33.3 1 3 33.3 0 3 3 4 0 0 0 5 3
+p310
+aVJustin Hamilton BKN 11/29/2016 BKN vs. LAC W 25 7 2 6 33.3 1 3 33.3 2 4 50.0 0 4 4 2 0 2 0 1 -12
+p311
+aVJoe Harris BKN 11/29/2016 BKN vs. LAC W 39 15 5 9 55.6 2 4 50.0 3 5 60.0 1 0 1 1 3 0 2 3 9
+p312
+aVBojan Bogdanovic BKN 11/29/2016 BKN vs. LAC W 26 14 2 7 28.6 0 3 0.0 10 12 83.3 0 6 6 2 0 0 3 3 1
+p313
+aVRandy Foye BKN 11/29/2016 BKN vs. LAC W 17 3 1 5 20.0 1 2 50.0 0 0 - 1 4 5 2 1 0 0 1 -13
+p314
+aVBrook Lopez BKN 11/29/2016 BKN vs. LAC W 43 27 11 20 55.0 4 9 44.4 1 1 100.0 3 5 8 4 2 1 1 1 24
+p315
+aVLuis Scola BKN 11/29/2016 BKN vs. LAC W 6 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -5
+p316
+aVChris McCullough BKN 11/27/2016 BKN vs. SAC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p317
+aVJoe Harris BKN 11/27/2016 BKN vs. SAC L 19 8 3 8 37.5 2 5 40.0 0 0 - 0 0 0 1 0 0 0 2 -11
+p318
+aVYogi Ferrell BKN 11/27/2016 BKN vs. SAC L 17 5 2 6 33.3 1 4 25.0 0 0 - 1 0 1 1 0 1 2 1 -16
+p319
+aVTrevor Booker BKN 11/27/2016 BKN vs. SAC L 26 8 4 8 50.0 0 0 - 0 0 - 1 7 8 5 1 0 1 4 -23
+p320
+aVBrook Lopez BKN 11/27/2016 BKN vs. SAC L 30 17 5 15 33.3 3 7 42.9 4 4 100.0 1 6 7 2 0 0 2 2 -2
+p321
+aVBojan Bogdanovic BKN 11/27/2016 BKN vs. SAC L 28 13 4 9 44.4 2 5 40.0 3 4 75.0 0 1 1 2 0 0 1 2 -9
+p322
+aVIsaiah Whitehead BKN 11/27/2016 BKN vs. SAC L 29 11 4 6 66.7 3 3 100.0 0 0 - 0 4 4 2 0 0 3 2 9
+p323
+aVJustin Hamilton BKN 11/27/2016 BKN vs. SAC L 24 6 3 7 42.9 0 2 0.0 0 0 - 4 6 10 3 1 0 0 0 3
+p324
+aVSean Kilpatrick BKN 11/27/2016 BKN vs. SAC L 30 22 8 13 61.5 3 5 60.0 3 3 100.0 1 4 5 3 2 0 3 1 1
+p325
+aVLuis Scola BKN 11/27/2016 BKN vs. SAC L 12 6 2 6 33.3 0 1 0.0 2 2 100.0 1 0 1 0 2 0 1 3 -14
+p326
+aVRandy Foye BKN 11/27/2016 BKN vs. SAC L 22 9 3 8 37.5 2 6 33.3 1 1 100.0 0 4 4 0 1 0 2 4 -25
+p327
+aVJoe Harris BKN 11/25/2016 BKN @ IND L 24 3 1 6 16.7 1 5 20.0 0 0 - 0 2 2 1 0 0 3 4 -6
+p328
+aVBojan Bogdanovic BKN 11/25/2016 BKN @ IND L 26 8 3 10 30.0 2 5 40.0 0 0 - 0 3 3 1 0 0 1 0 -18
+p329
+aVAnthony Bennett BKN 11/25/2016 BKN @ IND L 10 8 3 5 60.0 0 2 0.0 2 3 66.7 2 2 4 0 0 0 0 0 5
+p330
+aVYogi Ferrell BKN 11/25/2016 BKN @ IND L 21 10 3 9 33.3 2 6 33.3 2 4 50.0 0 2 2 0 1 0 3 2 -11
+p331
+aVChris McCullough BKN 11/25/2016 BKN @ IND L 7 7 3 4 75.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 0 5
+p332
+aVRandy Foye BKN 11/25/2016 BKN @ IND L 18 10 4 6 66.7 2 3 66.7 0 1 0.0 0 1 1 2 1 0 1 0 -10
+p333
+aVJustin Hamilton BKN 11/25/2016 BKN @ IND L 17 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 1 3 -18
+p334
+aVIsaiah Whitehead BKN 11/25/2016 BKN @ IND L 29 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 7 2 2 3 2 -7
+p335
+aVLuis Scola BKN 11/25/2016 BKN @ IND L 11 1 0 1 0.0 0 1 0.0 1 2 50.0 1 2 3 0 0 0 0 0 -4
+p336
+aVSean Kilpatrick BKN 11/25/2016 BKN @ IND L 27 16 5 10 50.0 2 5 40.0 4 6 66.7 0 2 2 7 0 0 1 2 -11
+p337
+aVBrook Lopez BKN 11/25/2016 BKN @ IND L 24 20 8 13 61.5 2 3 66.7 2 3 66.7 1 3 4 2 0 1 3 3 -22
+p338
+aVTrevor Booker BKN 11/25/2016 BKN @ IND L 28 10 5 8 62.5 0 1 0.0 0 1 0.0 3 7 10 3 3 1 3 1 -8
+p339
+aVYogi Ferrell BKN 11/23/2016 BKN vs. BOS L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -8
+p340
+aVJoe Harris BKN 11/23/2016 BKN vs. BOS L 25 12 4 7 57.1 4 6 66.7 0 0 - 0 3 3 0 0 0 3 2 -23
+p341
+aVAnthony Bennett BKN 11/23/2016 BKN vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 1
+p342
+aVChris McCullough BKN 11/23/2016 BKN vs. BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p343
+aVLuis Scola BKN 11/23/2016 BKN vs. BOS L 12 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 0 1 0 3 0 5
+p344
+aVTrevor Booker BKN 11/23/2016 BKN vs. BOS L 33 18 8 13 61.5 1 2 50.0 1 2 50.0 5 7 12 3 4 0 3 3 -34
+p345
+aVBrook Lopez BKN 11/23/2016 BKN vs. BOS L 28 13 4 14 28.6 1 6 16.7 4 5 80.0 1 2 3 2 2 1 0 1 -8
+p346
+aVRandy Foye BKN 11/23/2016 BKN vs. BOS L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 2 1 -6
+p347
+aVSean Kilpatrick BKN 11/23/2016 BKN vs. BOS L 32 23 8 17 47.1 1 4 25.0 6 8 75.0 0 2 2 3 0 3 3 1 -10
+p348
+aVJustin Hamilton BKN 11/23/2016 BKN vs. BOS L 19 2 0 2 0.0 0 1 0.0 2 3 66.7 0 0 0 0 0 1 0 0 -3
+p349
+aVBojan Bogdanovic BKN 11/23/2016 BKN vs. BOS L 28 14 6 12 50.0 2 7 28.6 0 0 - 0 8 8 2 0 0 2 0 -6
+p350
+aVRondae Hollis-Jefferson BKN 11/23/2016 BKN vs. BOS L 15 4 1 4 25.0 1 2 50.0 1 4 25.0 1 3 4 2 0 1 0 2 -4
+p351
+aVIsaiah Whitehead BKN 11/23/2016 BKN vs. BOS L 24 4 2 8 25.0 0 0 - 0 0 - 0 4 4 3 0 1 2 2 0
+p352
+aVYogi Ferrell BKN 11/20/2016 BKN vs. POR L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -9
+p353
+aVBrook Lopez BKN 11/20/2016 BKN vs. POR L 29 21 8 14 57.1 2 4 50.0 3 3 100.0 3 3 6 4 1 1 2 2 -16
+p354
+aVSean Kilpatrick BKN 11/20/2016 BKN vs. POR L 20 3 1 9 11.1 0 2 0.0 1 2 50.0 0 4 4 1 0 0 0 3 -16
+p355
+aVAnthony Bennett BKN 11/20/2016 BKN vs. POR L 6 5 1 2 50.0 0 1 0.0 3 7 42.9 3 1 4 1 0 0 0 0 3
+p356
+aVJustin Hamilton BKN 11/20/2016 BKN vs. POR L 22 11 4 7 57.1 3 6 50.0 0 0 - 0 3 3 1 0 0 0 1 -15
+p357
+aVRandy Foye BKN 11/20/2016 BKN vs. POR L 13 5 1 6 16.7 1 4 25.0 2 2 100.0 0 3 3 2 0 0 2 2 -5
+p358
+aVJoe Harris BKN 11/20/2016 BKN vs. POR L 27 8 2 7 28.6 0 3 0.0 4 4 100.0 0 4 4 3 0 0 2 1 -12
+p359
+aVRondae Hollis-Jefferson BKN 11/20/2016 BKN vs. POR L 25 8 4 11 36.4 0 2 0.0 0 0 - 1 2 3 4 1 1 1 4 0
+p360
+aVBojan Bogdanovic BKN 11/20/2016 BKN vs. POR L 24 15 6 11 54.5 1 3 33.3 2 2 100.0 0 2 2 1 0 0 0 2 -12
+p361
+aVIsaiah Whitehead BKN 11/20/2016 BKN vs. POR L 24 11 2 10 20.0 1 4 25.0 6 6 100.0 0 1 1 2 1 1 0 1 -6
+p362
+aVLuis Scola BKN 11/20/2016 BKN vs. POR L 14 6 1 4 25.0 0 2 0.0 4 5 80.0 1 1 2 1 0 0 1 2 -8
+p363
+aVTrevor Booker BKN 11/20/2016 BKN vs. POR L 26 16 7 9 77.8 2 2 100.0 0 0 - 3 1 4 1 2 0 1 2 -4
+p364
+aVYogi Ferrell BKN 11/18/2016 BKN @ OKC L 19 6 1 5 20.0 0 3 0.0 4 4 100.0 3 1 4 1 0 0 2 2 -7
+p365
+aVTrevor Booker BKN 11/18/2016 BKN @ OKC L 22 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 1 1 0 2 1 -20
+p366
+aVIsaiah Whitehead BKN 11/18/2016 BKN @ OKC L 17 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 4 1 0 1 1 1
+p367
+aVChris McCullough BKN 11/18/2016 BKN @ OKC L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p368
+aVJoe Harris BKN 11/18/2016 BKN @ OKC L 20 7 2 3 66.7 1 1 100.0 2 4 50.0 0 1 1 2 0 0 0 0 -7
+p369
+aVBojan Bogdanovic BKN 11/18/2016 BKN @ OKC L 24 13 4 6 66.7 1 1 100.0 4 6 66.7 1 2 3 2 0 0 2 1 -10
+p370
+aVSean Kilpatrick BKN 11/18/2016 BKN @ OKC L 20 10 3 9 33.3 0 3 0.0 4 5 80.0 1 1 2 2 1 0 2 0 2
+p371
+aVJustin Hamilton BKN 11/18/2016 BKN @ OKC L 21 10 4 6 66.7 2 4 50.0 0 0 - 0 2 2 0 0 0 0 5 -1
+p372
+aVAnthony Bennett BKN 11/18/2016 BKN @ OKC L 21 12 4 8 50.0 2 4 50.0 2 2 100.0 0 3 3 0 0 0 0 2 -7
+p373
+aVRondae Hollis-Jefferson BKN 11/18/2016 BKN @ OKC L 28 13 3 14 21.4 1 2 50.0 6 7 85.7 0 5 5 2 2 0 2 3 -21
+p374
+aVRandy Foye BKN 11/18/2016 BKN @ OKC L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 4 0 -15
+p375
+aVBrook Lopez BKN 11/18/2016 BKN @ OKC L 28 22 8 16 50.0 4 7 57.1 2 2 100.0 2 2 4 2 1 2 1 3 -8
+p376
+aVBojan Bogdanovic BKN 11/15/2016 BKN @ LAL L 30 29 11 18 61.1 2 5 40.0 5 5 100.0 0 3 3 1 2 0 2 2 -3
+p377
+aVIsaiah Whitehead BKN 11/15/2016 BKN @ LAL L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 2 0 3
+p378
+aVJoe Harris BKN 11/15/2016 BKN @ LAL L 29 7 3 9 33.3 1 7 14.3 0 0 - 0 3 3 1 1 0 1 4 -3
+p379
+aVRandy Foye BKN 11/15/2016 BKN @ LAL L 19 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 7 0 0 0 0 -2
+p380
+aVJustin Hamilton BKN 11/15/2016 BKN @ LAL L 24 9 3 6 50.0 1 4 25.0 2 2 100.0 0 6 6 0 1 0 1 1 9
+p381
+aVSean Kilpatrick BKN 11/15/2016 BKN @ LAL L 19 6 3 7 42.9 0 2 0.0 0 1 0.0 1 3 4 1 0 0 1 5 -5
+p382
+aVTrevor Booker BKN 11/15/2016 BKN @ LAL L 29 11 5 8 62.5 1 1 100.0 0 0 - 3 7 10 3 1 2 2 4 -9
+p383
+aVBrook Lopez BKN 11/15/2016 BKN @ LAL L 31 30 10 25 40.0 4 11 36.4 6 7 85.7 3 7 10 3 0 3 2 2 -13
+p384
+aVYogi Ferrell BKN 11/15/2016 BKN @ LAL L 19 11 3 5 60.0 2 3 66.7 3 4 75.0 0 1 1 4 0 0 1 5 7
+p385
+aVLuis Scola BKN 11/15/2016 BKN @ LAL L 12 4 2 6 33.3 0 1 0.0 0 1 0.0 2 4 6 2 1 0 1 2 -1
+p386
+aVRondae Hollis-Jefferson BKN 11/15/2016 BKN @ LAL L 18 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 1 2 0 1 2 -18
+p387
+aVBojan Bogdanovic BKN 11/14/2016 BKN @ LAC L 25 18 8 11 72.7 1 3 33.3 1 1 100.0 0 2 2 0 1 0 3 1 -12
+p388
+aVJustin Hamilton BKN 11/14/2016 BKN @ LAC L 21 3 1 5 20.0 1 4 25.0 0 0 - 1 2 3 0 0 0 1 2 -11
+p389
+aVLuis Scola BKN 11/14/2016 BKN @ LAC L 15 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 2 -23
+p390
+aVRondae Hollis-Jefferson BKN 11/14/2016 BKN @ LAC L 21 8 2 3 66.7 0 0 - 4 4 100.0 1 1 2 1 0 0 2 4 -39
+p391
+aVYogi Ferrell BKN 11/14/2016 BKN @ LAC L 26 13 5 11 45.5 2 5 40.0 1 4 25.0 0 1 1 5 0 0 3 0 2
+p392
+aVAnthony Bennett BKN 11/14/2016 BKN @ LAC L 26 7 2 8 25.0 1 5 20.0 2 2 100.0 1 8 9 1 0 0 1 0 -13
+p393
+aVSean Kilpatrick BKN 11/14/2016 BKN @ LAC L 18 14 5 17 29.4 2 7 28.6 2 2 100.0 2 3 5 1 1 0 5 0 -33
+p394
+aVChris McCullough BKN 11/14/2016 BKN @ LAC L 12 13 6 9 66.7 1 2 50.0 0 0 - 3 0 3 1 0 2 0 2 2
+p395
+aVTrevor Booker BKN 11/14/2016 BKN @ LAC L 22 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 2 2 0 2 3 -19
+p396
+aVJoe Harris BKN 11/14/2016 BKN @ LAC L 25 8 3 6 50.0 1 3 33.3 1 2 50.0 1 1 2 2 2 0 1 4 -17
+p397
+aVRandy Foye BKN 11/14/2016 BKN @ LAC L 29 7 1 4 25.0 1 3 33.3 4 5 80.0 0 4 4 4 0 0 2 3 3
+p398
+aVAnthony Bennett BKN 11/12/2016 BKN @ PHX W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p399
+aVYogi Ferrell BKN 11/12/2016 BKN @ PHX W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 0 1 0 1 1
+p400
+aVSean Kilpatrick BKN 11/12/2016 BKN @ PHX W 32 19 7 16 43.8 3 8 37.5 2 3 66.7 0 9 9 4 1 0 4 2 15
+p401
+aVBojan Bogdanovic BKN 11/12/2016 BKN @ PHX W 31 7 2 6 33.3 1 4 25.0 2 3 66.7 0 5 5 2 0 0 2 0 17
+p402
+aVBrook Lopez BKN 11/12/2016 BKN @ PHX W 28 11 3 11 27.3 1 5 20.0 4 4 100.0 0 5 5 2 1 5 3 3 16
+p403
+aVRondae Hollis-Jefferson BKN 11/12/2016 BKN @ PHX W 30 20 5 12 41.7 0 0 - 10 11 90.9 0 13 13 4 1 1 3 2 17
+p404
+aVRandy Foye BKN 11/12/2016 BKN @ PHX W 16 8 3 9 33.3 2 6 33.3 0 0 - 0 3 3 3 1 0 0 3 3
+p405
+aVLuis Scola BKN 11/12/2016 BKN @ PHX W 14 10 4 5 80.0 2 2 100.0 0 0 - 0 5 5 0 0 1 1 1 3
+p406
+aVTrevor Booker BKN 11/12/2016 BKN @ PHX W 26 19 7 10 70.0 1 1 100.0 4 4 100.0 4 4 8 4 0 1 0 2 18
+p407
+aVJustin Hamilton BKN 11/12/2016 BKN @ PHX W 26 7 2 2 100.0 1 1 100.0 2 3 66.7 0 3 3 0 2 1 1 1 -5
+p408
+aVJoe Harris BKN 11/12/2016 BKN @ PHX W 24 19 6 10 60.0 5 8 62.5 2 2 100.0 2 0 2 1 0 0 3 4 3
+p409
+aVBrook Lopez BKN 11/09/2016 BKN @ NYK L 24 21 8 12 66.7 1 5 20.0 4 6 66.7 1 3 4 1 0 3 1 3 -4
+p410
+aVTrevor Booker BKN 11/09/2016 BKN @ NYK L 29 5 1 6 16.7 0 0 - 3 4 75.0 1 5 6 2 3 0 1 2 -11
+p411
+aVJustin Hamilton BKN 11/09/2016 BKN @ NYK L 23 21 8 13 61.5 5 7 71.4 0 0 - 1 3 4 0 1 0 0 0 -11
+p412
+aVRondae Hollis-Jefferson BKN 11/09/2016 BKN @ NYK L 29 8 1 4 25.0 0 2 0.0 6 6 100.0 0 5 5 4 0 1 3 1 -1
+p413
+aVSean Kilpatrick BKN 11/09/2016 BKN @ NYK L 28 7 2 9 22.2 1 4 25.0 2 4 50.0 0 4 4 5 0 0 4 3 -10
+p414
+aVAnthony Bennett BKN 11/09/2016 BKN @ NYK L 4 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 0 0 0 0 0 2
+p415
+aVJoe Harris BKN 11/09/2016 BKN @ NYK L 29 8 3 7 42.9 1 4 25.0 1 2 50.0 1 6 7 1 1 0 1 4 -12
+p416
+aVLuis Scola BKN 11/09/2016 BKN @ NYK L 14 5 2 5 40.0 0 1 0.0 1 3 33.3 1 3 4 0 0 0 2 3 -6
+p417
+aVBojan Bogdanovic BKN 11/09/2016 BKN @ NYK L 29 6 2 9 22.2 0 3 0.0 2 2 100.0 0 2 2 2 3 0 1 2 -6
+p418
+aVChris McCullough BKN 11/09/2016 BKN @ NYK L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 2
+p419
+aVYogi Ferrell BKN 11/09/2016 BKN @ NYK L 14 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 3 1 0 3 0 -6
+p420
+aVRandy Foye BKN 11/09/2016 BKN @ NYK L 15 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 1 0 0 1 1 -7
+p421
+aVRandy Foye BKN 11/08/2016 BKN vs. MIN W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 1 0 -6
+p422
+aVBojan Bogdanovic BKN 11/08/2016 BKN vs. MIN W 27 13 3 9 33.3 3 8 37.5 4 4 100.0 0 1 1 2 1 0 0 0 21
+p423
+aVIsaiah Whitehead BKN 11/08/2016 BKN vs. MIN W 26 6 2 5 40.0 0 1 0.0 2 2 100.0 2 5 7 7 0 1 2 1 11
+p424
+aVRondae Hollis-Jefferson BKN 11/08/2016 BKN vs. MIN W 27 13 3 4 75.0 1 1 100.0 6 6 100.0 0 4 4 2 0 0 2 3 14
+p425
+aVJoe Harris BKN 11/08/2016 BKN vs. MIN W 23 11 5 9 55.6 1 5 20.0 0 0 - 0 1 1 1 0 0 0 2 -10
+p426
+aVJustin Hamilton BKN 11/08/2016 BKN vs. MIN W 24 9 3 4 75.0 3 4 75.0 0 0 - 0 6 6 0 0 0 2 3 -10
+p427
+aVBrook Lopez BKN 11/08/2016 BKN vs. MIN W 28 26 10 16 62.5 3 7 42.9 3 3 100.0 0 3 3 1 0 3 5 2 11
+p428
+aVTrevor Booker BKN 11/08/2016 BKN vs. MIN W 27 15 7 13 53.8 0 1 0.0 1 3 33.3 0 9 9 1 3 1 1 3 15
+p429
+aVLuis Scola BKN 11/08/2016 BKN vs. MIN W 17 9 4 6 66.7 0 1 0.0 1 2 50.0 3 3 6 2 0 0 1 3 -2
+p430
+aVSean Kilpatrick BKN 11/08/2016 BKN vs. MIN W 28 14 4 7 57.1 0 2 0.0 6 6 100.0 0 5 5 3 1 0 6 2 1
+p431
+aVBrook Lopez BKN 11/04/2016 BKN vs. CHA L 29 18 7 17 41.2 2 6 33.3 2 3 66.7 1 2 3 2 0 0 3 1 6
+p432
+aVLuis Scola BKN 11/04/2016 BKN vs. CHA L 16 4 2 3 66.7 0 1 0.0 0 0 - 0 5 5 1 1 0 3 0 -12
+p433
+aVIsaiah Whitehead BKN 11/04/2016 BKN vs. CHA L 23 8 4 9 44.4 0 3 0.0 0 0 - 1 1 2 3 2 2 3 5 -2
+p434
+aVJoe Harris BKN 11/04/2016 BKN vs. CHA L 23 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 1 3 -3
+p435
+aVTrevor Booker BKN 11/04/2016 BKN vs. CHA L 28 12 5 9 55.6 0 1 0.0 2 2 100.0 4 9 13 1 1 2 1 2 3
+p436
+aVBojan Bogdanovic BKN 11/04/2016 BKN vs. CHA L 33 14 4 17 23.5 2 9 22.2 4 4 100.0 1 3 4 1 0 0 2 3 -15
+p437
+aVAnthony Bennett BKN 11/04/2016 BKN vs. CHA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 3
+p438
+aVRondae Hollis-Jefferson BKN 11/04/2016 BKN vs. CHA L 32 11 4 5 80.0 2 2 100.0 1 2 50.0 0 8 8 6 4 0 0 6 6
+p439
+aVSean Kilpatrick BKN 11/04/2016 BKN vs. CHA L 33 19 5 15 33.3 2 7 28.6 7 10 70.0 0 4 4 4 2 0 2 2 1
+p440
+aVJustin Hamilton BKN 11/04/2016 BKN vs. CHA L 20 9 4 7 57.1 1 4 25.0 0 0 - 0 4 4 1 1 0 0 0 -7
+p441
+aVLuis Scola BKN 11/02/2016 BKN vs. DET W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 1 1 0 1 3 -5
+p442
+aVJoe Harris BKN 11/02/2016 BKN vs. DET W 26 13 6 9 66.7 1 4 25.0 0 0 - 0 2 2 1 1 0 2 2 3
+p443
+aVBrook Lopez BKN 11/02/2016 BKN vs. DET W 29 34 12 21 57.1 4 8 50.0 6 9 66.7 2 9 11 1 2 1 2 2 10
+p444
+aVBojan Bogdanovic BKN 11/02/2016 BKN vs. DET W 32 11 3 7 42.9 3 7 42.9 2 2 100.0 1 3 4 2 0 0 2 2 3
+p445
+aVIsaiah Whitehead BKN 11/02/2016 BKN vs. DET W 20 5 2 5 40.0 1 1 100.0 0 0 - 0 4 4 4 0 0 5 4 -3
+p446
+aVJustin Hamilton BKN 11/02/2016 BKN vs. DET W 23 6 3 4 75.0 0 0 - 0 0 - 1 2 3 3 0 1 1 2 1
+p447
+aVRondae Hollis-Jefferson BKN 11/02/2016 BKN vs. DET W 22 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 6 1 0 0 3 7
+p448
+aVSean Kilpatrick BKN 11/02/2016 BKN vs. DET W 28 24 8 12 66.7 4 4 100.0 4 4 100.0 0 10 10 3 2 0 3 2 8
+p449
+aVTrevor Booker BKN 11/02/2016 BKN vs. DET W 30 4 2 6 33.3 0 0 - 0 0 - 1 3 4 2 3 1 2 3 8
+p450
+aVJeremy Lin BKN 11/02/2016 BKN vs. DET W 16 10 4 6 66.7 0 1 0.0 2 2 100.0 0 2 2 4 0 0 1 0 8
+p451
+aVBrook Lopez BKN 10/31/2016 BKN vs. CHI L 22 13 5 11 45.5 0 1 0.0 3 3 100.0 2 0 2 0 0 1 1 2 -13
+p452
+aVTrevor Booker BKN 10/31/2016 BKN vs. CHI L 19 5 2 7 28.6 0 2 0.0 1 2 50.0 2 6 8 0 3 0 1 0 -8
+p453
+aVJustin Hamilton BKN 10/31/2016 BKN vs. CHI L 17 0 0 4 0.0 0 2 0.0 0 0 - 2 5 7 0 1 1 0 0 -19
+p454
+aVBojan Bogdanovic BKN 10/31/2016 BKN vs. CHI L 21 15 5 11 45.5 2 4 50.0 3 4 75.0 2 1 3 1 0 0 1 1 -11
+p455
+aVIsaiah Whitehead BKN 10/31/2016 BKN vs. CHI L 21 6 3 11 27.3 0 2 0.0 0 0 - 2 2 4 2 0 0 5 3 -16
+p456
+aVLuis Scola BKN 10/31/2016 BKN vs. CHI L 16 4 2 5 40.0 0 1 0.0 0 0 - 4 4 8 3 1 0 0 4 -11
+p457
+aVRondae Hollis-Jefferson BKN 10/31/2016 BKN vs. CHI L 30 2 1 7 14.3 0 0 - 0 0 - 1 2 3 3 0 1 2 1 -23
+p458
+aVJoe Harris BKN 10/31/2016 BKN vs. CHI L 23 9 4 8 50.0 1 5 20.0 0 1 0.0 0 2 2 1 1 0 1 3 -22
+p459
+aVAnthony Bennett BKN 10/31/2016 BKN vs. CHI L 12 7 2 7 28.6 1 5 20.0 2 2 100.0 0 1 1 0 1 0 0 0 -3
+p460
+aVSean Kilpatrick BKN 10/31/2016 BKN vs. CHI L 25 13 3 13 23.1 0 6 0.0 7 7 100.0 0 2 2 0 1 0 1 1 -3
+p461
+aVJeremy Lin BKN 10/31/2016 BKN vs. CHI L 24 14 6 10 60.0 1 2 50.0 1 2 50.0 0 2 2 4 4 0 3 0 -15
+p462
+aVChris McCullough BKN 10/31/2016 BKN vs. CHI L 10 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 -6
+p463
+aVIsaiah Whitehead BKN 10/29/2016 BKN @ MIL L 8 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 1 0 2 3 -5
+p464
+aVJustin Hamilton BKN 10/29/2016 BKN @ MIL L 30 6 2 6 33.3 2 4 50.0 0 0 - 1 2 3 1 3 2 1 3 -12
+p465
+aVTrevor Booker BKN 10/29/2016 BKN @ MIL L 31 14 4 8 50.0 0 2 0.0 6 6 100.0 1 13 14 1 1 2 0 2 15
+p466
+aVAnthony Bennett BKN 10/29/2016 BKN @ MIL L 18 9 3 9 33.3 2 5 40.0 1 2 50.0 0 1 1 3 1 0 1 3 -17
+p467
+aVSean Kilpatrick BKN 10/29/2016 BKN @ MIL L 24 15 5 9 55.6 1 2 50.0 4 5 80.0 0 0 0 1 1 0 1 3 4
+p468
+aVBojan Bogdanovic BKN 10/29/2016 BKN @ MIL L 31 26 9 15 60.0 2 6 33.3 6 6 100.0 2 6 8 1 0 0 2 2 9
+p469
+aVJeremy Lin BKN 10/29/2016 BKN @ MIL L 33 12 4 16 25.0 1 7 14.3 3 5 60.0 1 2 3 11 3 1 4 0 12
+p470
+aVGreivis Vasquez BKN 10/29/2016 BKN @ MIL L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p471
+aVRondae Hollis-Jefferson BKN 10/29/2016 BKN @ MIL L 23 2 1 4 25.0 0 1 0.0 0 0 - 1 4 5 1 0 1 4 3 -15
+p472
+aVJoe Harris BKN 10/29/2016 BKN @ MIL L 18 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 1 1 0 2 1 -2
+p473
+aVLuis Scola BKN 10/29/2016 BKN @ MIL L 18 14 5 5 100.0 2 2 100.0 2 2 100.0 5 3 8 2 1 0 1 2 10
+p474
+aVRondae Hollis-Jefferson BKN 10/28/2016 BKN vs. IND W 25 2 1 5 20.0 0 2 0.0 0 0 - 2 3 5 2 1 0 1 2 -11
+p475
+aVLuis Scola BKN 10/28/2016 BKN vs. IND W 15 4 2 6 33.3 0 2 0.0 0 0 - 2 3 5 1 1 0 2 2 13
+p476
+aVSean Kilpatrick BKN 10/28/2016 BKN vs. IND W 25 18 7 11 63.6 4 4 100.0 0 0 - 1 4 5 1 1 0 2 1 25
+p477
+aVJeremy Lin BKN 10/28/2016 BKN vs. IND W 34 21 6 12 50.0 2 4 50.0 7 8 87.5 0 9 9 9 0 1 2 1 0
+p478
+aVJoe Harris BKN 10/28/2016 BKN vs. IND W 18 6 2 7 28.6 2 6 33.3 0 0 - 0 3 3 1 1 0 1 2 -1
+p479
+aVTrevor Booker BKN 10/28/2016 BKN vs. IND W 27 10 5 11 45.5 0 2 0.0 0 0 - 2 9 11 2 1 0 1 4 -10
+p480
+aVBrook Lopez BKN 10/28/2016 BKN vs. IND W 26 25 10 18 55.6 0 4 0.0 5 6 83.3 3 2 5 1 1 0 5 1 1
+p481
+aVBojan Bogdanovic BKN 10/28/2016 BKN vs. IND W 28 4 1 6 16.7 0 2 0.0 2 2 100.0 0 1 1 0 0 1 0 4 5
+p482
+aVGreivis Vasquez BKN 10/28/2016 BKN vs. IND W 14 5 1 3 33.3 1 1 100.0 2 3 66.7 0 1 1 2 0 1 1 3 9
+p483
+aVJustin Hamilton BKN 10/28/2016 BKN vs. IND W 28 8 3 8 37.5 1 6 16.7 1 1 100.0 2 5 7 1 0 1 1 3 14
+p484
+aVTrevor Booker BKN 10/26/2016 BKN @ BOS L 24 8 4 5 80.0 0 1 0.0 0 0 - 1 6 7 5 3 0 1 0 5
+p485
+aVJustin Hamilton BKN 10/26/2016 BKN @ BOS L 25 19 7 12 58.3 3 6 50.0 2 3 66.7 6 4 10 2 0 0 1 4 0
+p486
+aVRondae Hollis-Jefferson BKN 10/26/2016 BKN @ BOS L 24 5 1 3 33.3 0 1 0.0 3 4 75.0 0 2 2 0 1 0 1 1 -9
+p487
+aVJoe Harris BKN 10/26/2016 BKN @ BOS L 25 16 6 15 40.0 4 9 44.4 0 0 - 0 4 4 3 2 2 3 3 3
+p488
+aVBojan Bogdanovic BKN 10/26/2016 BKN @ BOS L 23 21 9 17 52.9 3 8 37.5 0 0 - 2 3 5 0 1 0 2 2 2
+p489
+aVGreivis Vasquez BKN 10/26/2016 BKN @ BOS L 18 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 3 -13
+p490
+aVSean Kilpatrick BKN 10/26/2016 BKN @ BOS L 22 13 5 13 38.5 1 6 16.7 2 2 100.0 1 3 4 2 0 0 2 0 -7
+p491
+aVLuis Scola BKN 10/26/2016 BKN @ BOS L 22 8 3 8 37.5 1 5 20.0 1 2 50.0 0 1 1 3 0 0 2 3 -19
+p492
+aVChris McCullough BKN 10/26/2016 BKN @ BOS L 4 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 14
+p493
+aVBrook Lopez BKN 10/26/2016 BKN @ BOS L 21 7 1 7 14.3 1 2 50.0 4 4 100.0 2 3 5 0 0 0 2 1 -10
+p494
+aVIsaiah Whitehead BKN 10/26/2016 BKN @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 12
+p495
+aVJeremy Lin BKN 10/26/2016 BKN @ BOS L 28 18 6 14 42.9 2 5 40.0 4 5 80.0 1 2 3 3 0 1 2 1 -3
+p496
+a.

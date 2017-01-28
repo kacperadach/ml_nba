@@ -1,0 +1,1630 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLucious Harris NJN 04/19/1998 NJN vs. DET W 11 1 0 2 0.0 0 0 - 1 2 50.0 2 0 2 2 2 0 1 1 -2
+p2
+aVDon MacLean NJN 04/19/1998 NJN vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p3
+aVKendall Gill NJN 04/19/1998 NJN vs. DET W 36 27 9 12 75.0 0 0 - 9 9 100.0 3 2 5 0 5 0 2 3 12
+p4
+aVDavid Vaughn NJN 04/19/1998 NJN vs. DET W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -2
+p5
+aVBrian Evans NJN 04/19/1998 NJN vs. DET W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p6
+aVSherman Douglas NJN 04/19/1998 NJN vs. DET W 47 18 8 12 66.7 0 0 - 2 4 50.0 2 1 3 11 5 0 6 4 10
+p7
+aVChris Gatling NJN 04/19/1998 NJN vs. DET W 35 18 5 13 38.5 0 0 - 8 10 80.0 2 8 10 0 0 1 2 3 19
+p8
+aVKeith Van Horn NJN 04/19/1998 NJN vs. DET W 44 25 10 20 50.0 1 3 33.3 4 4 100.0 2 2 4 4 0 1 3 4 17
+p9
+aVRony Seikaly NJN 04/19/1998 NJN vs. DET W 5 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 3 -4
+p10
+aVKerry Kittles NJN 04/19/1998 NJN vs. DET W 47 22 8 20 40.0 2 6 33.3 4 4 100.0 4 7 11 5 2 0 1 3 17
+p11
+aVKeith Van Horn NJN 04/17/1998 NJN @ ORL L 31 21 7 13 53.8 1 3 33.3 6 7 85.7 2 1 3 5 4 0 0 3 -4
+p12
+aVLucious Harris NJN 04/17/1998 NJN @ ORL L 16 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 2 5 3
+p13
+aVKendall Gill NJN 04/17/1998 NJN @ ORL L 35 15 7 16 43.8 0 0 - 1 3 33.3 1 1 2 0 0 0 1 6 -10
+p14
+aVJack Haley NJN 04/17/1998 NJN @ ORL L 2 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 0
+p15
+aVSherman Douglas NJN 04/17/1998 NJN @ ORL L 14 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 2 1 0 1 1 0
+p16
+aVChris Gatling NJN 04/17/1998 NJN @ ORL L 40 16 7 12 58.3 0 0 - 2 2 100.0 5 4 9 2 0 1 1 1 -11
+p17
+aVKerry Kittles NJN 04/17/1998 NJN @ ORL L 37 13 5 15 33.3 1 2 50.0 2 2 100.0 3 1 4 2 2 1 4 5 -15
+p18
+aVBrian Evans NJN 04/17/1998 NJN @ ORL L 17 6 3 8 37.5 0 2 0.0 0 0 - 3 1 4 1 1 0 2 4 -8
+p19
+aVSam Cassell NJN 04/17/1998 NJN @ ORL L 34 27 7 14 50.0 0 0 - 13 15 86.7 0 0 0 6 3 0 2 3 -12
+p20
+aVDavid Vaughn NJN 04/17/1998 NJN @ ORL L 14 2 0 1 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 3 -3
+p21
+aVBrian Evans NJN 04/15/1998 NJN @ CHH L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 2
+p22
+aVJack Haley NJN 04/15/1998 NJN @ CHH L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p23
+aVSam Cassell NJN 04/15/1998 NJN @ CHH L 40 27 11 19 57.9 0 2 0.0 5 6 83.3 3 4 7 10 1 0 2 5 5
+p24
+aVKeith Van Horn NJN 04/15/1998 NJN @ CHH L 42 24 11 24 45.8 0 3 0.0 2 4 50.0 4 4 8 0 1 0 2 2 -4
+p25
+aVSherman Douglas NJN 04/15/1998 NJN @ CHH L 14 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 0 0 0 2 -1
+p26
+aVKendall Gill NJN 04/15/1998 NJN @ CHH L 40 10 2 9 22.2 0 0 - 6 7 85.7 1 4 5 1 1 0 2 0 -12
+p27
+aVLucious Harris NJN 04/15/1998 NJN @ CHH L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 3 12
+p28
+aVChris Gatling NJN 04/15/1998 NJN @ CHH L 35 25 10 17 58.8 0 0 - 5 6 83.3 3 9 12 0 1 1 1 3 -3
+p29
+aVKerry Kittles NJN 04/15/1998 NJN @ CHH L 29 8 4 11 36.4 0 1 0.0 0 0 - 0 0 0 1 0 0 0 4 -24
+p30
+aVDavid Vaughn NJN 04/15/1998 NJN @ CHH L 17 5 2 3 66.7 0 0 - 1 2 50.0 4 3 7 0 0 0 0 3 -6
+p31
+aVLucious Harris NJN 04/14/1998 NJN vs. TOR L 13 4 1 6 16.7 0 1 0.0 2 2 100.0 2 1 3 0 1 0 0 2 5
+p32
+aVBrian Evans NJN 04/14/1998 NJN vs. TOR L 13 2 1 8 12.5 0 2 0.0 0 0 - 2 3 5 0 0 2 1 1 -5
+p33
+aVChris Gatling NJN 04/14/1998 NJN vs. TOR L 29 2 1 7 14.3 0 0 - 0 0 - 1 3 4 2 1 0 3 2 -16
+p34
+aVKendall Gill NJN 04/14/1998 NJN vs. TOR L 35 23 11 17 64.7 0 0 - 1 1 100.0 3 0 3 2 6 1 1 4 1
+p35
+aVDavid Vaughn NJN 04/14/1998 NJN vs. TOR L 8 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 1
+p36
+aVSherman Douglas NJN 04/14/1998 NJN vs. TOR L 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 1 0 1 3 -4
+p37
+aVSam Cassell NJN 04/14/1998 NJN vs. TOR L 36 16 7 16 43.8 0 0 - 2 2 100.0 1 2 3 8 4 0 8 0 2
+p38
+aVKeith Van Horn NJN 04/14/1998 NJN vs. TOR L 40 25 9 23 39.1 0 1 0.0 7 9 77.8 7 9 16 1 0 0 3 3 -9
+p39
+aVMichael Cage NJN 04/14/1998 NJN vs. TOR L 20 0 0 0 - 0 0 - 0 0 - 1 3 4 0 1 1 0 1 16
+p40
+aVKerry Kittles NJN 04/14/1998 NJN vs. TOR L 33 12 6 19 31.6 0 2 0.0 0 0 - 5 5 10 1 2 0 0 1 -11
+p41
+aVChris Gatling NJN 04/12/1998 NJN @ TOR W 12 5 2 6 33.3 0 0 - 1 2 50.0 2 4 6 1 0 0 1 1 -10
+p42
+aVKendall Gill NJN 04/12/1998 NJN @ TOR W 31 13 5 9 55.6 0 1 0.0 3 6 50.0 3 2 5 3 1 0 1 6 10
+p43
+aVKeith Van Horn NJN 04/12/1998 NJN @ TOR W 41 33 13 21 61.9 0 1 0.0 7 8 87.5 2 5 7 2 0 0 0 3 12
+p44
+aVSherman Douglas NJN 04/12/1998 NJN @ TOR W 14 0 0 3 0.0 0 1 0.0 0 2 0.0 0 1 1 2 0 0 0 2 -9
+p45
+aVDavid Vaughn NJN 04/12/1998 NJN @ TOR W 10 5 1 1 100.0 0 0 - 3 4 75.0 2 2 4 0 0 0 1 3 -2
+p46
+aVMichael Cage NJN 04/12/1998 NJN @ TOR W 33 2 1 3 33.3 0 0 - 0 0 - 3 6 9 3 0 0 0 2 15
+p47
+aVBrian Evans NJN 04/12/1998 NJN @ TOR W 18 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -12
+p48
+aVSam Cassell NJN 04/12/1998 NJN @ TOR W 41 27 8 17 47.1 0 1 0.0 11 11 100.0 2 0 2 11 2 0 7 2 14
+p49
+aVKerry Kittles NJN 04/12/1998 NJN @ TOR W 41 31 12 24 50.0 2 6 33.3 5 6 83.3 1 4 5 2 4 1 0 2 17
+p50
+aVSam Cassell NJN 04/11/1998 NJN @ MIL W 36 29 11 15 73.3 0 1 0.0 7 8 87.5 0 4 4 13 1 1 3 4 9
+p51
+aVSherman Douglas NJN 04/11/1998 NJN @ MIL W 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 1
+p52
+aVKeith Van Horn NJN 04/11/1998 NJN @ MIL W 37 20 7 10 70.0 1 1 100.0 5 6 83.3 0 4 4 4 1 0 5 2 3
+p53
+aVDavid Vaughn NJN 04/11/1998 NJN @ MIL W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 2
+p54
+aVKerry Kittles NJN 04/11/1998 NJN @ MIL W 35 25 9 14 64.3 3 4 75.0 4 4 100.0 0 4 4 1 2 0 3 1 4
+p55
+aVLucious Harris NJN 04/11/1998 NJN @ MIL W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p56
+aVKendall Gill NJN 04/11/1998 NJN @ MIL W 28 16 6 13 46.2 0 0 - 4 4 100.0 1 3 4 0 1 1 1 5 14
+p57
+aVMichael Cage NJN 04/11/1998 NJN @ MIL W 33 6 3 4 75.0 0 0 - 0 0 - 3 7 10 0 0 1 0 4 13
+p58
+aVBrian Evans NJN 04/11/1998 NJN @ MIL W 20 3 1 4 25.0 1 3 33.3 0 2 0.0 0 3 3 2 1 0 1 2 -6
+p59
+aVChris Gatling NJN 04/11/1998 NJN @ MIL W 23 15 5 9 55.6 0 0 - 5 6 83.3 2 1 3 3 3 0 3 4 -4
+p60
+aVKeith Van Horn NJN 04/08/1998 NJN @ BOS W 31 24 8 12 66.7 1 2 50.0 7 9 77.8 2 9 11 3 2 0 2 5 2
+p61
+aVLucious Harris NJN 04/08/1998 NJN @ BOS W 10 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 2
+p62
+aVChris Gatling NJN 04/08/1998 NJN @ BOS W 27 15 7 8 87.5 0 0 - 1 2 50.0 2 3 5 5 1 1 3 3 9
+p63
+aVBrian Evans NJN 04/08/1998 NJN @ BOS W 17 9 4 6 66.7 0 2 0.0 1 1 100.0 1 1 2 0 1 0 0 0 -5
+p64
+aVKendall Gill NJN 04/08/1998 NJN @ BOS W 26 8 4 8 50.0 0 0 - 0 0 - 0 0 0 1 1 1 0 2 9
+p65
+aVDavid Vaughn NJN 04/08/1998 NJN @ BOS W 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 7
+p66
+aVSam Cassell NJN 04/08/1998 NJN @ BOS W 39 29 5 12 41.7 0 1 0.0 19 20 95.0 2 2 4 9 3 0 4 2 11
+p67
+aVMichael Cage NJN 04/08/1998 NJN @ BOS W 29 4 2 3 66.7 0 0 - 0 0 - 2 6 8 1 1 0 1 0 8
+p68
+aVKerry Kittles NJN 04/08/1998 NJN @ BOS W 32 21 7 15 46.7 2 5 40.0 5 6 83.3 1 3 4 2 1 0 1 2 6
+p69
+aVSherman Douglas NJN 04/08/1998 NJN @ BOS W 20 2 1 3 33.3 0 0 - 0 0 - 1 0 1 7 0 0 0 1 16
+p70
+aVKeith Van Horn NJN 04/06/1998 NJN vs. CHH W 34 21 8 15 53.3 0 2 0.0 5 5 100.0 0 4 4 1 1 0 2 5 11
+p71
+aVSherman Douglas NJN 04/06/1998 NJN vs. CHH W 14 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 6 0 0 0 1 10
+p72
+aVSam Cassell NJN 04/06/1998 NJN vs. CHH W 36 35 11 20 55.0 0 2 0.0 13 14 92.9 0 3 3 11 1 0 0 5 1
+p73
+aVKerry Kittles NJN 04/06/1998 NJN vs. CHH W 35 23 8 14 57.1 1 2 50.0 6 7 85.7 0 5 5 1 1 1 2 0 5
+p74
+aVKendall Gill NJN 04/06/1998 NJN vs. CHH W 29 7 3 8 37.5 0 0 - 1 4 25.0 0 1 1 0 2 2 0 3 -8
+p75
+aVMichael Cage NJN 04/06/1998 NJN vs. CHH W 25 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 1 0 3 9
+p76
+aVBrian Evans NJN 04/06/1998 NJN vs. CHH W 19 15 6 7 85.7 3 3 100.0 0 0 - 0 1 1 0 0 0 0 3 18
+p77
+aVChris Gatling NJN 04/06/1998 NJN vs. CHH W 29 18 5 11 45.5 0 0 - 8 12 66.7 3 8 11 1 0 0 2 3 7
+p78
+aVLucious Harris NJN 04/06/1998 NJN vs. CHH W 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 1 0 0 0 -4
+p79
+aVDavid Vaughn NJN 04/06/1998 NJN vs. CHH W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 3 1
+p80
+aVSherman Douglas NJN 04/04/1998 NJN vs. NYK W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -13
+p81
+aVMichael Cage NJN 04/04/1998 NJN vs. NYK W 29 0 0 0 - 0 0 - 0 0 - 1 5 6 0 1 0 0 3 7
+p82
+aVKeith Van Horn NJN 04/04/1998 NJN vs. NYK W 38 25 9 17 52.9 0 1 0.0 7 8 87.5 2 4 6 1 3 0 7 2 -2
+p83
+aVKerry Kittles NJN 04/04/1998 NJN vs. NYK W 40 15 7 16 43.8 0 2 0.0 1 2 50.0 0 3 3 1 2 4 0 1 -5
+p84
+aVSam Cassell NJN 04/04/1998 NJN vs. NYK W 40 30 14 20 70.0 0 0 - 2 2 100.0 1 6 7 7 1 0 3 3 13
+p85
+aVDavid Vaughn NJN 04/04/1998 NJN vs. NYK W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 7
+p86
+aVLucious Harris NJN 04/04/1998 NJN vs. NYK W 13 4 2 6 33.3 0 1 0.0 0 0 - 2 0 2 1 2 0 0 2 0
+p87
+aVChris Gatling NJN 04/04/1998 NJN vs. NYK W 21 13 4 8 50.0 0 0 - 5 6 83.3 0 6 6 0 2 0 1 1 1
+p88
+aVBrian Evans NJN 04/04/1998 NJN vs. NYK W 18 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 4 0 1 0 2 -3
+p89
+aVKendall Gill NJN 04/04/1998 NJN vs. NYK W 26 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 1 0 1 4 10
+p90
+aVRony Seikaly NJN 04/02/1998 NJN vs. LAL L 17 8 2 5 40.0 0 0 - 4 8 50.0 5 2 7 0 0 0 1 5 -7
+p91
+aVKeith Van Horn NJN 04/02/1998 NJN vs. LAL L 33 14 7 14 50.0 0 0 - 0 0 - 4 4 8 0 0 0 2 4 -13
+p92
+aVDavid Vaughn NJN 04/02/1998 NJN vs. LAL L 4 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 1
+p93
+aVMichael Cage NJN 04/02/1998 NJN vs. LAL L 14 6 3 4 75.0 0 0 - 0 0 - 5 1 6 0 0 0 0 2 -6
+p94
+aVSherman Douglas NJN 04/02/1998 NJN vs. LAL L 26 15 7 13 53.8 0 0 - 1 2 50.0 1 0 1 3 0 0 0 1 9
+p95
+aVKendall Gill NJN 04/02/1998 NJN vs. LAL L 27 6 3 9 33.3 0 0 - 0 0 - 2 1 3 3 0 2 1 3 -9
+p96
+aVKerry Kittles NJN 04/02/1998 NJN vs. LAL L 35 17 5 14 35.7 1 3 33.3 6 6 100.0 1 1 2 1 3 0 0 3 -9
+p97
+aVChris Gatling NJN 04/02/1998 NJN vs. LAL L 28 14 4 11 36.4 0 0 - 6 8 75.0 2 10 12 2 2 0 1 2 3
+p98
+aVSam Cassell NJN 04/02/1998 NJN vs. LAL L 33 18 8 14 57.1 0 0 - 2 4 50.0 0 3 3 8 0 0 6 5 -9
+p99
+aVBrian Evans NJN 04/02/1998 NJN vs. LAL L 6 3 1 4 25.0 0 0 - 1 1 100.0 1 0 1 0 0 1 1 1 -4
+p100
+aVLucious Harris NJN 04/02/1998 NJN vs. LAL L 17 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 1 0 1 2 -11
+p101
+aVRony Seikaly NJN 03/31/1998 NJN vs. ATL W 17 2 1 3 33.3 0 0 - 0 2 0.0 2 2 4 1 0 0 2 4 -4
+p102
+aVBrian Evans NJN 03/31/1998 NJN vs. ATL W 16 14 5 5 100.0 4 4 100.0 0 0 - 1 1 2 1 1 0 1 3 10
+p103
+aVSam Cassell NJN 03/31/1998 NJN vs. ATL W 31 14 5 7 71.4 0 0 - 4 6 66.7 0 2 2 7 0 0 5 2 22
+p104
+aVLucious Harris NJN 03/31/1998 NJN vs. ATL W 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 0 0 0
+p105
+aVSherman Douglas NJN 03/31/1998 NJN vs. ATL W 17 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 4 0 0 0 1 -7
+p106
+aVKendall Gill NJN 03/31/1998 NJN vs. ATL W 32 10 4 7 57.1 0 0 - 2 4 50.0 1 4 5 3 1 0 0 1 3
+p107
+aVMichael Cage NJN 03/31/1998 NJN vs. ATL W 15 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 2 0 0 2 12
+p108
+aVDavid Vaughn NJN 03/31/1998 NJN vs. ATL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p109
+aVKeith Van Horn NJN 03/31/1998 NJN vs. ATL W 33 22 8 14 57.1 3 3 100.0 3 4 75.0 1 5 6 3 0 0 3 3 10
+p110
+aVKerry Kittles NJN 03/31/1998 NJN vs. ATL W 33 18 7 17 41.2 2 5 40.0 2 2 100.0 0 3 3 2 1 0 2 0 15
+p111
+aVChris Gatling NJN 03/31/1998 NJN vs. ATL W 29 15 4 10 40.0 1 1 100.0 6 8 75.0 4 10 14 0 0 2 2 3 17
+p112
+aVChris Gatling NJN 03/27/1998 NJN vs. BOS L 11 0 0 3 0.0 0 0 - 0 0 - 2 4 6 0 0 0 1 4 -1
+p113
+aVKeith Van Horn NJN 03/27/1998 NJN vs. BOS L 41 9 3 13 23.1 0 3 0.0 3 3 100.0 0 5 5 1 2 0 3 3 0
+p114
+aVLucious Harris NJN 03/27/1998 NJN vs. BOS L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -13
+p115
+aVMichael Cage NJN 03/27/1998 NJN vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 3
+p116
+aVJayson Williams NJN 03/27/1998 NJN vs. BOS L 34 11 5 19 26.3 0 0 - 1 1 100.0 11 4 15 2 1 0 2 3 -2
+p117
+aVKerry Kittles NJN 03/27/1998 NJN vs. BOS L 36 10 5 14 35.7 0 1 0.0 0 0 - 2 3 5 2 2 0 1 3 7
+p118
+aVRony Seikaly NJN 03/27/1998 NJN vs. BOS L 10 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 0 1 2 2 -13
+p119
+aVSam Cassell NJN 03/27/1998 NJN vs. BOS L 38 29 10 18 55.6 0 0 - 9 12 75.0 1 3 4 5 0 0 6 4 5
+p120
+aVKendall Gill NJN 03/27/1998 NJN vs. BOS L 34 11 3 8 37.5 0 0 - 5 6 83.3 1 6 7 3 6 3 3 4 -2
+p121
+aVBrian Evans NJN 03/27/1998 NJN vs. BOS L 13 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 1 0 2 2 -3
+p122
+aVSherman Douglas NJN 03/27/1998 NJN vs. BOS L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -11
+p123
+aVChris Gatling NJN 03/25/1998 NJN @ PHI W 17 4 2 6 33.3 0 0 - 0 0 - 3 1 4 0 2 0 2 1 -11
+p124
+aVKeith Van Horn NJN 03/25/1998 NJN @ PHI W 39 31 12 23 52.2 2 6 33.3 5 6 83.3 2 2 4 3 1 0 4 4 10
+p125
+aVRony Seikaly NJN 03/25/1998 NJN @ PHI W 17 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 2 2 2 -4
+p126
+aVKendall Gill NJN 03/25/1998 NJN @ PHI W 29 8 3 9 33.3 0 1 0.0 2 2 100.0 0 4 4 2 1 0 0 5 12
+p127
+aVBrian Evans NJN 03/25/1998 NJN @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p128
+aVLucious Harris NJN 03/25/1998 NJN @ PHI W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -5
+p129
+aVSam Cassell NJN 03/25/1998 NJN @ PHI W 36 7 3 11 27.3 0 1 0.0 1 2 50.0 0 3 3 8 1 1 5 3 10
+p130
+aVKerry Kittles NJN 03/25/1998 NJN @ PHI W 41 28 10 18 55.6 3 6 50.0 5 7 71.4 2 3 5 5 4 1 2 1 10
+p131
+aVSherman Douglas NJN 03/25/1998 NJN @ PHI W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 1 0 2 1 -5
+p132
+aVMichael Cage NJN 03/25/1998 NJN @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p133
+aVJayson Williams NJN 03/25/1998 NJN @ PHI W 40 11 3 3 100.0 0 0 - 5 10 50.0 7 8 15 3 2 1 2 4 9
+p134
+aVKendall Gill NJN 03/22/1998 NJN vs. WAS L 28 12 3 5 60.0 0 1 0.0 6 6 100.0 2 6 8 2 3 2 0 5 8
+p135
+aVLucious Harris NJN 03/22/1998 NJN vs. WAS L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p136
+aVBrian Evans NJN 03/22/1998 NJN vs. WAS L 3 1 0 2 0.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -2
+p137
+aVChris Gatling NJN 03/22/1998 NJN vs. WAS L 7 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 0 3 0 -4
+p138
+aVSherman Douglas NJN 03/22/1998 NJN vs. WAS L 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -3
+p139
+aVKeith Van Horn NJN 03/22/1998 NJN vs. WAS L 46 29 12 24 50.0 1 4 25.0 4 4 100.0 2 1 3 4 0 1 3 4 0
+p140
+aVRony Seikaly NJN 03/22/1998 NJN vs. WAS L 36 8 2 10 20.0 0 0 - 4 6 66.7 5 5 10 3 0 1 4 5 -9
+p141
+aVSam Cassell NJN 03/22/1998 NJN vs. WAS L 41 7 1 8 12.5 0 0 - 5 5 100.0 1 2 3 7 0 1 3 5 1
+p142
+aVMichael Cage NJN 03/22/1998 NJN vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p143
+aVKerry Kittles NJN 03/22/1998 NJN vs. WAS L 45 21 7 17 41.2 3 6 50.0 4 4 100.0 0 6 6 4 1 0 2 2 5
+p144
+aVJayson Williams NJN 03/22/1998 NJN vs. WAS L 40 15 7 14 50.0 0 0 - 1 4 25.0 9 8 17 0 0 0 0 6 2
+p145
+aVSherman Douglas NJN 03/20/1998 NJN @ IND L 24 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 5 7
+p146
+aVKeith Van Horn NJN 03/20/1998 NJN @ IND L 25 21 7 13 53.8 2 5 40.0 5 6 83.3 2 6 8 3 0 0 3 4 -2
+p147
+aVBrian Evans NJN 03/20/1998 NJN @ IND L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 2
+p148
+aVSam Cassell NJN 03/20/1998 NJN @ IND L 32 10 4 14 28.6 0 2 0.0 2 4 50.0 1 1 2 9 0 0 2 2 -15
+p149
+aVKendall Gill NJN 03/20/1998 NJN @ IND L 32 7 3 10 30.0 0 0 - 1 2 50.0 2 3 5 0 0 1 0 1 -12
+p150
+aVChris Gatling NJN 03/20/1998 NJN @ IND L 29 11 5 9 55.6 0 0 - 1 2 50.0 4 4 8 0 1 0 2 3 -2
+p151
+aVJayson Williams NJN 03/20/1998 NJN @ IND L 32 11 5 11 45.5 0 0 - 1 1 100.0 3 4 7 0 1 0 0 2 -11
+p152
+aVRony Seikaly NJN 03/20/1998 NJN @ IND L 21 10 3 10 30.0 0 0 - 4 4 100.0 2 2 4 2 2 0 0 4 2
+p153
+aVKerry Kittles NJN 03/20/1998 NJN @ IND L 33 16 7 14 50.0 1 3 33.3 1 1 100.0 3 2 5 3 3 3 0 3 -15
+p154
+aVLucious Harris NJN 03/20/1998 NJN @ IND L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 9
+p155
+aVMichael Cage NJN 03/20/1998 NJN @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p156
+aVKendall Gill NJN 03/19/1998 NJN vs. ORL W 30 13 5 10 50.0 0 1 0.0 3 6 50.0 1 2 3 4 4 1 1 3 13
+p157
+aVBrian Evans NJN 03/19/1998 NJN vs. ORL W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p158
+aVKerry Kittles NJN 03/19/1998 NJN vs. ORL W 38 15 7 16 43.8 1 4 25.0 0 0 - 6 5 11 3 2 1 0 3 11
+p159
+aVRony Seikaly NJN 03/19/1998 NJN vs. ORL W 20 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 1 0 0 1 1 6
+p160
+aVSam Cassell NJN 03/19/1998 NJN vs. ORL W 40 17 5 12 41.7 0 1 0.0 7 7 100.0 2 6 8 6 2 0 2 2 9
+p161
+aVChris Gatling NJN 03/19/1998 NJN vs. ORL W 26 14 7 12 58.3 0 0 - 0 0 - 3 2 5 2 1 0 2 1 1
+p162
+aVSherman Douglas NJN 03/19/1998 NJN vs. ORL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -3
+p163
+aVKeith Van Horn NJN 03/19/1998 NJN vs. ORL W 34 19 7 16 43.8 0 1 0.0 5 6 83.3 3 5 8 2 1 1 4 4 2
+p164
+aVJayson Williams NJN 03/19/1998 NJN vs. ORL W 31 6 3 7 42.9 0 0 - 0 0 - 5 5 10 0 0 0 4 2 -1
+p165
+aVLucious Harris NJN 03/19/1998 NJN vs. ORL W 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 2 0 0 2 -5
+p166
+aVMichael Cage NJN 03/19/1998 NJN vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p167
+aVChris Gatling NJN 03/16/1998 NJN @ CHI L 32 14 7 14 50.0 0 0 - 0 1 0.0 0 7 7 2 1 1 6 4 -6
+p168
+aVLucious Harris NJN 03/16/1998 NJN @ CHI L 24 4 1 6 16.7 0 0 - 2 2 100.0 1 0 1 2 1 0 3 2 1
+p169
+aVBrian Evans NJN 03/16/1998 NJN @ CHI L 21 3 1 6 16.7 1 2 50.0 0 0 - 2 3 5 1 0 0 1 2 -1
+p170
+aVSam Cassell NJN 03/16/1998 NJN @ CHI L 29 6 3 14 21.4 0 1 0.0 0 0 - 0 1 1 4 0 0 0 2 -21
+p171
+aVRony Seikaly NJN 03/16/1998 NJN @ CHI L 9 6 2 3 66.7 0 0 - 2 4 50.0 0 3 3 1 1 0 0 1 5
+p172
+aVKendall Gill NJN 03/16/1998 NJN @ CHI L 27 6 2 9 22.2 0 1 0.0 2 2 100.0 1 7 8 3 1 0 2 1 -15
+p173
+aVMichael Cage NJN 03/16/1998 NJN @ CHI L 33 6 3 4 75.0 0 0 - 0 0 - 3 4 7 0 2 0 0 3 -23
+p174
+aVDavid Vaughn NJN 03/16/1998 NJN @ CHI L 22 4 2 4 50.0 0 0 - 0 1 0.0 0 2 2 1 3 1 0 1 -8
+p175
+aVSherman Douglas NJN 03/16/1998 NJN @ CHI L 19 12 5 8 62.5 0 1 0.0 2 2 100.0 0 0 0 3 0 0 1 1 5
+p176
+aVKerry Kittles NJN 03/16/1998 NJN @ CHI L 24 11 4 9 44.4 0 1 0.0 3 4 75.0 0 0 0 2 1 0 1 2 -17
+p177
+aVSam Cassell NJN 03/14/1998 NJN @ DAL W 37 17 6 14 42.9 0 2 0.0 5 5 100.0 0 1 1 10 0 0 2 2 9
+p178
+aVSherman Douglas NJN 03/14/1998 NJN @ DAL W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 2 6
+p179
+aVLucious Harris NJN 03/14/1998 NJN @ DAL W 14 11 5 7 71.4 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -5
+p180
+aVKerry Kittles NJN 03/14/1998 NJN @ DAL W 34 20 7 17 41.2 3 6 50.0 3 3 100.0 1 2 3 3 1 1 2 3 20
+p181
+aVDon MacLean NJN 03/14/1998 NJN @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p182
+aVChris Gatling NJN 03/14/1998 NJN @ DAL W 30 24 8 9 88.9 0 0 - 8 10 80.0 2 5 7 2 0 0 3 3 14
+p183
+aVBrian Evans NJN 03/14/1998 NJN @ DAL W 23 16 6 9 66.7 3 4 75.0 1 2 50.0 1 5 6 4 0 0 0 2 17
+p184
+aVKendall Gill NJN 03/14/1998 NJN @ DAL W 38 8 4 8 50.0 0 0 - 0 2 0.0 0 4 4 0 2 1 1 2 4
+p185
+aVMichael Cage NJN 03/14/1998 NJN @ DAL W 35 6 3 3 100.0 0 0 - 0 0 - 2 4 6 0 2 2 1 0 14
+p186
+aVDavid Vaughn NJN 03/14/1998 NJN @ DAL W 16 6 3 7 42.9 0 0 - 0 0 - 1 4 5 0 1 0 1 3 -4
+p187
+aVKendall Gill NJN 03/12/1998 NJN @ HOU L 25 9 3 12 25.0 0 0 - 3 4 75.0 1 0 1 3 0 1 0 3 0
+p188
+aVDavid Vaughn NJN 03/12/1998 NJN @ HOU L 26 4 2 2 100.0 0 0 - 0 0 - 3 5 8 0 0 3 4 4 -5
+p189
+aVKerry Kittles NJN 03/12/1998 NJN @ HOU L 39 27 12 22 54.5 2 5 40.0 1 1 100.0 1 6 7 2 4 0 2 1 -12
+p190
+aVSam Cassell NJN 03/12/1998 NJN @ HOU L 42 32 12 27 44.4 0 1 0.0 8 8 100.0 2 4 6 14 4 0 2 4 -2
+p191
+aVLucious Harris NJN 03/12/1998 NJN @ HOU L 10 4 1 4 25.0 1 1 100.0 1 2 50.0 1 0 1 1 0 0 0 1 -8
+p192
+aVBrian Evans NJN 03/12/1998 NJN @ HOU L 19 11 4 9 44.4 3 5 60.0 0 0 - 0 0 0 3 0 1 1 1 -7
+p193
+aVChris Gatling NJN 03/12/1998 NJN @ HOU L 30 11 5 10 50.0 0 0 - 1 2 50.0 2 1 3 2 2 0 1 5 -11
+p194
+aVDon MacLean NJN 03/12/1998 NJN @ HOU L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -9
+p195
+aVMichael Cage NJN 03/12/1998 NJN @ HOU L 35 2 1 1 100.0 0 0 - 0 0 - 4 9 13 2 3 0 1 2 5
+p196
+aVSherman Douglas NJN 03/12/1998 NJN @ HOU L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p197
+aVKeith Van Horn NJN 03/10/1998 NJN @ SAS L 25 8 2 9 22.2 0 0 - 4 5 80.0 1 0 1 1 0 0 1 1 -10
+p198
+aVLucious Harris NJN 03/10/1998 NJN @ SAS L 15 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 1 1 0 0 2 3
+p199
+aVMichael Cage NJN 03/10/1998 NJN @ SAS L 36 2 1 3 33.3 0 0 - 0 0 - 6 5 11 0 4 2 1 3 -9
+p200
+aVBrian Evans NJN 03/10/1998 NJN @ SAS L 10 9 3 4 75.0 1 2 50.0 2 2 100.0 0 0 0 0 1 0 1 0 2
+p201
+aVKendall Gill NJN 03/10/1998 NJN @ SAS L 37 11 5 12 41.7 0 1 0.0 1 2 50.0 0 7 7 0 1 0 1 3 3
+p202
+aVChris Gatling NJN 03/10/1998 NJN @ SAS L 20 8 2 10 20.0 0 0 - 4 4 100.0 1 1 2 1 2 0 3 5 11
+p203
+aVSam Cassell NJN 03/10/1998 NJN @ SAS L 32 19 4 16 25.0 0 1 0.0 11 12 91.7 1 3 4 4 2 0 5 3 1
+p204
+aVSherman Douglas NJN 03/10/1998 NJN @ SAS L 16 2 1 4 25.0 0 0 - 0 0 - 2 1 3 4 0 0 2 0 -2
+p205
+aVDavid Vaughn NJN 03/10/1998 NJN @ SAS L 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 0 3 0
+p206
+aVKerry Kittles NJN 03/10/1998 NJN @ SAS L 35 15 5 13 38.5 2 3 66.7 3 4 75.0 3 2 5 0 1 0 1 3 -4
+p207
+aVKendall Gill NJN 03/08/1998 NJN vs. CHH L 37 14 5 12 41.7 0 1 0.0 4 4 100.0 2 4 6 3 1 1 2 4 -15
+p208
+aVKerry Kittles NJN 03/08/1998 NJN vs. CHH L 43 21 8 18 44.4 3 6 50.0 2 2 100.0 3 1 4 2 1 1 0 0 -7
+p209
+aVMichael Cage NJN 03/08/1998 NJN vs. CHH L 28 4 2 2 100.0 0 0 - 0 0 - 0 8 8 0 0 1 0 3 -9
+p210
+aVSam Cassell NJN 03/08/1998 NJN vs. CHH L 38 20 5 17 29.4 0 0 - 10 10 100.0 2 1 3 10 2 0 3 2 -6
+p211
+aVLucious Harris NJN 03/08/1998 NJN vs. CHH L 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 10
+p212
+aVSherman Douglas NJN 03/08/1998 NJN vs. CHH L 13 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -9
+p213
+aVKeith Van Horn NJN 03/08/1998 NJN vs. CHH L 42 20 9 19 47.4 2 4 50.0 0 0 - 5 4 9 1 3 0 3 4 -8
+p214
+aVChris Gatling NJN 03/08/1998 NJN vs. CHH L 21 11 5 11 45.5 0 0 - 1 3 33.3 1 2 3 0 1 1 1 6 -4
+p215
+aVDon MacLean NJN 03/08/1998 NJN vs. CHH L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 3
+p216
+aVBrian Evans NJN 03/08/1998 NJN vs. CHH L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p217
+aVMichael Cage NJN 03/06/1998 NJN vs. UTA L 32 6 2 5 40.0 0 0 - 2 2 100.0 5 2 7 0 0 1 0 1 -17
+p218
+aVLucious Harris NJN 03/06/1998 NJN vs. UTA L 12 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 1 2 0 2 3 1
+p219
+aVKerry Kittles NJN 03/06/1998 NJN vs. UTA L 34 22 7 14 50.0 4 6 66.7 4 5 80.0 2 2 4 2 2 1 1 2 -10
+p220
+aVBrian Evans NJN 03/06/1998 NJN vs. UTA L 13 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 3 1 0 0 2 -2
+p221
+aVKendall Gill NJN 03/06/1998 NJN vs. UTA L 36 14 6 13 46.2 1 3 33.3 1 2 50.0 2 3 5 5 3 1 0 4 -3
+p222
+aVChris Gatling NJN 03/06/1998 NJN vs. UTA L 20 9 4 5 80.0 0 0 - 1 2 50.0 1 1 2 2 1 0 2 1 -5
+p223
+aVDon MacLean NJN 03/06/1998 NJN vs. UTA L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p224
+aVSherman Douglas NJN 03/06/1998 NJN vs. UTA L 16 6 2 4 50.0 0 0 - 2 4 50.0 0 1 1 2 0 0 0 3 -4
+p225
+aVSam Cassell NJN 03/06/1998 NJN vs. UTA L 34 29 12 22 54.5 0 1 0.0 5 5 100.0 2 0 2 7 0 0 3 4 -2
+p226
+aVKeith Van Horn NJN 03/06/1998 NJN vs. UTA L 37 23 10 16 62.5 1 4 25.0 2 4 50.0 2 3 5 4 0 0 2 4 6
+p227
+aVBrian Evans NJN 03/03/1998 NJN @ NYK L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -2
+p228
+aVLucious Harris NJN 03/03/1998 NJN @ NYK L 9 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p229
+aVSherman Douglas NJN 03/03/1998 NJN @ NYK L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -10
+p230
+aVKeith Van Horn NJN 03/03/1998 NJN @ NYK L 41 14 4 14 28.6 1 4 25.0 5 5 100.0 2 7 9 3 2 0 2 3 -4
+p231
+aVKendall Gill NJN 03/03/1998 NJN @ NYK L 46 12 5 11 45.5 0 2 0.0 2 4 50.0 1 3 4 3 1 1 1 3 -1
+p232
+aVMichael Cage NJN 03/03/1998 NJN @ NYK L 15 1 0 0 - 0 0 - 1 2 50.0 2 1 3 0 0 1 0 0 0
+p233
+aVJayson Williams NJN 03/03/1998 NJN @ NYK L 13 5 2 3 66.7 0 0 - 1 3 33.3 3 1 4 1 0 0 0 1 1
+p234
+aVKerry Kittles NJN 03/03/1998 NJN @ NYK L 40 17 7 15 46.7 0 3 0.0 3 4 75.0 0 6 6 1 0 0 0 4 1
+p235
+aVSam Cassell NJN 03/03/1998 NJN @ NYK L 39 19 7 16 43.8 0 0 - 5 5 100.0 0 3 3 10 2 0 3 5 3
+p236
+aVChris Gatling NJN 03/03/1998 NJN @ NYK L 26 17 6 10 60.0 0 0 - 5 9 55.6 2 5 7 1 3 0 2 3 -3
+p237
+aVSam Cassell NJN 03/01/1998 NJN @ MIA L 41 14 2 19 10.5 0 1 0.0 10 10 100.0 2 1 3 12 1 0 1 3 -5
+p238
+aVMichael Cage NJN 03/01/1998 NJN @ MIA L 21 0 0 1 0.0 0 0 - 0 0 - 3 2 5 1 0 2 1 2 1
+p239
+aVBrian Evans NJN 03/01/1998 NJN @ MIA L 7 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 5
+p240
+aVSherman Douglas NJN 03/01/1998 NJN @ MIA L 19 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -8
+p241
+aVJayson Williams NJN 03/01/1998 NJN @ MIA L 32 12 5 13 38.5 0 0 - 2 3 66.7 5 8 13 0 0 0 0 6 -5
+p242
+aVKerry Kittles NJN 03/01/1998 NJN @ MIA L 37 17 8 20 40.0 1 2 50.0 0 0 - 5 2 7 0 3 0 1 0 9
+p243
+aVKeith Van Horn NJN 03/01/1998 NJN @ MIA L 43 22 9 19 47.4 1 5 20.0 3 4 75.0 2 6 8 2 0 1 4 4 2
+p244
+aVKendall Gill NJN 03/01/1998 NJN @ MIA L 42 15 6 10 60.0 0 1 0.0 3 4 75.0 4 7 11 3 3 0 2 5 -4
+p245
+aVKendall Gill NJN 02/28/1998 NJN vs. MIA L 39 22 9 17 52.9 0 1 0.0 4 5 80.0 5 3 8 1 5 0 1 5 0
+p246
+aVSam Cassell NJN 02/28/1998 NJN vs. MIA L 35 19 7 16 43.8 0 0 - 5 5 100.0 1 2 3 3 2 1 6 6 -8
+p247
+aVKerry Kittles NJN 02/28/1998 NJN vs. MIA L 35 16 7 14 50.0 1 3 33.3 1 2 50.0 4 2 6 1 2 1 1 2 0
+p248
+aVMichael Cage NJN 02/28/1998 NJN vs. MIA L 9 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 2 7
+p249
+aVSherman Douglas NJN 02/28/1998 NJN vs. MIA L 21 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 6 0 0 0 2 0
+p250
+aVBrian Evans NJN 02/28/1998 NJN vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p251
+aVLucious Harris NJN 02/28/1998 NJN vs. MIA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 4
+p252
+aVKeith Van Horn NJN 02/28/1998 NJN vs. MIA L 35 13 4 19 21.1 1 4 25.0 4 4 100.0 0 4 4 2 1 0 3 2 -8
+p253
+aVJayson Williams NJN 02/28/1998 NJN vs. MIA L 39 7 2 8 25.0 0 0 - 3 4 75.0 9 6 15 5 2 0 0 3 -9
+p254
+aVChris Gatling NJN 02/28/1998 NJN vs. MIA L 21 13 6 9 66.7 0 0 - 1 2 50.0 1 1 2 1 2 0 3 3 8
+p255
+aVSam Cassell NJN 02/26/1998 NJN vs. SAC W 35 25 9 18 50.0 0 1 0.0 7 7 100.0 2 3 5 10 3 0 2 2 12
+p256
+aVKeith Van Horn NJN 02/26/1998 NJN vs. SAC W 37 16 6 17 35.3 1 3 33.3 3 4 75.0 3 4 7 0 1 0 3 5 11
+p257
+aVDon MacLean NJN 02/26/1998 NJN vs. SAC W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p258
+aVBrian Evans NJN 02/26/1998 NJN vs. SAC W 17 7 3 7 42.9 1 2 50.0 0 0 - 1 4 5 1 0 0 0 4 9
+p259
+aVSherman Douglas NJN 02/26/1998 NJN vs. SAC W 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 2 1 -8
+p260
+aVChris Gatling NJN 02/26/1998 NJN vs. SAC W 9 2 1 7 14.3 0 0 - 0 0 - 4 0 4 0 0 0 0 0 -8
+p261
+aVLucious Harris NJN 02/26/1998 NJN vs. SAC W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 3
+p262
+aVKerry Kittles NJN 02/26/1998 NJN vs. SAC W 38 15 6 11 54.5 1 2 50.0 2 3 66.7 3 1 4 1 4 2 2 1 4
+p263
+aVJayson Williams NJN 02/26/1998 NJN vs. SAC W 42 20 5 10 50.0 0 0 - 10 11 90.9 5 11 16 3 0 1 2 6 -1
+p264
+aVMichael Cage NJN 02/26/1998 NJN vs. SAC W 9 1 0 0 - 0 0 - 1 2 50.0 1 1 2 2 0 0 0 1 2
+p265
+aVKendall Gill NJN 02/26/1998 NJN vs. SAC W 25 10 4 11 36.4 0 0 - 2 4 50.0 2 1 3 3 2 0 1 4 -1
+p266
+aVMichael Cage NJN 02/24/1998 NJN vs. VAN W 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 2
+p267
+aVLucious Harris NJN 02/24/1998 NJN vs. VAN W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 5
+p268
+aVChris Gatling NJN 02/24/1998 NJN vs. VAN W 17 7 2 6 33.3 0 0 - 3 4 75.0 3 3 6 0 0 1 1 3 4
+p269
+aVDon MacLean NJN 02/24/1998 NJN vs. VAN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p270
+aVJayson Williams NJN 02/24/1998 NJN vs. VAN W 42 18 8 14 57.1 0 0 - 2 4 50.0 5 10 15 1 0 1 1 4 7
+p271
+aVBrian Evans NJN 02/24/1998 NJN vs. VAN W 31 4 2 7 28.6 0 2 0.0 0 0 - 0 4 4 2 0 0 0 4 -2
+p272
+aVKerry Kittles NJN 02/24/1998 NJN vs. VAN W 33 29 11 20 55.0 3 3 100.0 4 4 100.0 5 8 13 3 0 2 3 1 5
+p273
+aVSam Cassell NJN 02/24/1998 NJN vs. VAN W 37 28 10 16 62.5 0 0 - 8 9 88.9 1 2 3 8 2 2 3 3 3
+p274
+aVKeith Van Horn NJN 02/24/1998 NJN vs. VAN W 40 13 5 15 33.3 1 1 100.0 2 4 50.0 4 5 9 2 2 2 1 2 12
+p275
+aVSherman Douglas NJN 02/24/1998 NJN vs. VAN W 24 7 2 6 33.3 0 0 - 3 4 75.0 1 0 1 8 1 0 2 3 12
+p276
+aVKendall Gill NJN 02/21/1998 NJN vs. PHI L 35 10 4 12 33.3 0 0 - 2 2 100.0 1 1 2 2 1 0 1 4 -11
+p277
+aVKerry Kittles NJN 02/21/1998 NJN vs. PHI L 45 24 8 19 42.1 0 3 0.0 8 9 88.9 2 3 5 6 0 0 5 3 -7
+p278
+aVDon MacLean NJN 02/21/1998 NJN vs. PHI L 5 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -3
+p279
+aVLucious Harris NJN 02/21/1998 NJN vs. PHI L 22 8 3 5 60.0 1 2 50.0 1 4 25.0 0 0 0 1 0 0 0 3 -8
+p280
+aVSam Cassell NJN 02/21/1998 NJN vs. PHI L 28 22 9 12 75.0 0 0 - 4 6 66.7 1 1 2 6 0 0 3 5 -3
+p281
+aVChris Gatling NJN 02/21/1998 NJN vs. PHI L 16 9 4 7 57.1 0 0 - 1 1 100.0 1 2 3 1 1 0 0 0 15
+p282
+aVKeith Van Horn NJN 02/21/1998 NJN vs. PHI L 35 9 3 17 17.6 1 3 33.3 2 2 100.0 1 5 6 0 0 1 2 5 -23
+p283
+aVMichael Cage NJN 02/21/1998 NJN vs. PHI L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 1 0 1
+p284
+aVBrian Evans NJN 02/21/1998 NJN vs. PHI L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 3
+p285
+aVJayson Williams NJN 02/21/1998 NJN vs. PHI L 42 5 2 10 20.0 0 0 - 1 4 25.0 12 12 24 1 0 1 4 2 -9
+p286
+aVMichael Cage NJN 02/20/1998 NJN vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p287
+aVSam Cassell NJN 02/20/1998 NJN vs. CLE L 41 28 10 17 58.8 0 1 0.0 8 10 80.0 1 3 4 10 2 0 5 4 -12
+p288
+aVKeith Van Horn NJN 02/20/1998 NJN vs. CLE L 40 16 5 18 27.8 1 3 33.3 5 5 100.0 4 7 11 3 0 3 4 3 -20
+p289
+aVLucious Harris NJN 02/20/1998 NJN vs. CLE L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 3 -13
+p290
+aVChris Gatling NJN 02/20/1998 NJN vs. CLE L 14 3 0 3 0.0 0 0 - 3 4 75.0 2 4 6 0 1 0 0 1 2
+p291
+aVDon MacLean NJN 02/20/1998 NJN vs. CLE L 7 3 1 4 25.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 2
+p292
+aVKerry Kittles NJN 02/20/1998 NJN vs. CLE L 44 13 5 16 31.3 1 5 20.0 2 2 100.0 6 2 8 4 1 0 1 3 -5
+p293
+aVKendall Gill NJN 02/20/1998 NJN vs. CLE L 35 16 7 15 46.7 0 2 0.0 2 4 50.0 0 7 7 1 2 1 5 4 -12
+p294
+aVJayson Williams NJN 02/20/1998 NJN vs. CLE L 40 14 5 12 41.7 0 1 0.0 4 9 44.4 5 8 13 3 0 1 2 4 -6
+p295
+aVChris Gatling NJN 02/18/1998 NJN @ ATL L 16 11 5 12 41.7 0 0 - 1 3 33.3 4 3 7 0 0 1 0 5 5
+p296
+aVDavid Benoit NJN 02/18/1998 NJN @ ATL L 17 8 3 8 37.5 2 7 28.6 0 0 - 1 1 2 1 0 1 0 2 1
+p297
+aVKerry Kittles NJN 02/18/1998 NJN @ ATL L 43 20 7 16 43.8 2 3 66.7 4 5 80.0 2 3 5 1 4 2 0 2 2
+p298
+aVSam Cassell NJN 02/18/1998 NJN @ ATL L 38 24 10 21 47.6 0 2 0.0 4 7 57.1 3 2 5 8 0 0 5 2 -16
+p299
+aVKeith Van Horn NJN 02/18/1998 NJN @ ATL L 35 22 9 23 39.1 2 5 40.0 2 3 66.7 7 6 13 5 0 0 2 5 -14
+p300
+aVSherman Douglas NJN 02/18/1998 NJN @ ATL L 10 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 3 0 0 2 1 6
+p301
+aVJayson Williams NJN 02/18/1998 NJN @ ATL L 32 3 1 9 11.1 0 0 - 1 2 50.0 5 5 10 2 1 0 0 5 -20
+p302
+aVMichael Cage NJN 02/18/1998 NJN @ ATL L 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 11
+p303
+aVLucious Harris NJN 02/18/1998 NJN @ ATL L 5 3 0 1 0.0 0 0 - 3 3 100.0 0 0 0 0 0 0 0 0 -8
+p304
+aVKendall Gill NJN 02/18/1998 NJN @ ATL L 34 13 6 13 46.2 1 4 25.0 0 0 - 1 4 5 1 0 0 1 6 -17
+p305
+aVSherman Douglas NJN 02/16/1998 NJN vs. MIL W 17 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 0 -1
+p306
+aVChris Gatling NJN 02/16/1998 NJN vs. MIL W 16 7 2 5 40.0 0 0 - 3 4 75.0 1 1 2 0 1 0 3 2 7
+p307
+aVSam Cassell NJN 02/16/1998 NJN vs. MIL W 36 18 5 11 45.5 0 0 - 8 9 88.9 2 2 4 5 2 0 3 2 7
+p308
+aVMichael Cage NJN 02/16/1998 NJN vs. MIL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -3
+p309
+aVKeith Van Horn NJN 02/16/1998 NJN vs. MIL W 34 18 5 15 33.3 0 3 0.0 8 9 88.9 5 3 8 2 1 1 1 5 4
+p310
+aVLucious Harris NJN 02/16/1998 NJN vs. MIL W 7 0 0 1 0.0 0 1 0.0 0 1 0.0 0 0 0 0 0 0 0 1 5
+p311
+aVKendall Gill NJN 02/16/1998 NJN vs. MIL W 40 17 7 15 46.7 2 3 66.7 1 1 100.0 1 1 2 5 6 0 0 2 15
+p312
+aVKerry Kittles NJN 02/16/1998 NJN vs. MIL W 36 19 6 13 46.2 2 6 33.3 5 6 83.3 0 2 2 2 3 1 1 0 11
+p313
+aVJayson Williams NJN 02/16/1998 NJN vs. MIL W 42 16 6 9 66.7 0 0 - 4 6 66.7 4 6 10 2 0 1 1 4 14
+p314
+aVDavid Benoit NJN 02/16/1998 NJN vs. MIL W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -4
+p315
+aVKeith Van Horn NJN 02/14/1998 NJN @ PHI W 33 16 5 19 26.3 1 3 33.3 5 5 100.0 3 3 6 2 2 1 1 4 6
+p316
+aVKerry Kittles NJN 02/14/1998 NJN @ PHI W 37 22 7 19 36.8 3 8 37.5 5 5 100.0 1 2 3 2 3 0 0 0 12
+p317
+aVSherman Douglas NJN 02/14/1998 NJN @ PHI W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 0 0 2 3 2
+p318
+aVLucious Harris NJN 02/14/1998 NJN @ PHI W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -1
+p319
+aVMichael Cage NJN 02/14/1998 NJN @ PHI W 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 7
+p320
+aVChris Gatling NJN 02/14/1998 NJN @ PHI W 15 6 2 7 28.6 0 0 - 2 6 33.3 2 3 5 0 1 2 0 2 1
+p321
+aVJayson Williams NJN 02/14/1998 NJN @ PHI W 41 17 7 13 53.8 0 0 - 3 4 75.0 11 13 24 2 1 0 1 3 -2
+p322
+aVSam Cassell NJN 02/14/1998 NJN @ PHI W 39 30 14 25 56.0 0 0 - 2 2 100.0 1 2 3 11 1 0 4 4 11
+p323
+aVDavid Benoit NJN 02/14/1998 NJN @ PHI W 18 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 0 0 0 2 10
+p324
+aVKendall Gill NJN 02/14/1998 NJN @ PHI W 27 7 2 9 22.2 2 2 100.0 1 2 50.0 1 3 4 1 2 2 1 3 -11
+p325
+aVSam Cassell NJN 02/13/1998 NJN vs. TOR W 24 8 4 9 44.4 0 0 - 0 0 - 0 2 2 11 0 0 2 3 13
+p326
+aVKendall Gill NJN 02/13/1998 NJN vs. TOR W 23 18 8 14 57.1 1 2 50.0 1 2 50.0 0 2 2 3 1 1 0 3 5
+p327
+aVMichael Cage NJN 02/13/1998 NJN vs. TOR W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -6
+p328
+aVKerry Kittles NJN 02/13/1998 NJN vs. TOR W 27 17 8 16 50.0 1 2 50.0 0 0 - 2 2 4 2 3 1 0 1 9
+p329
+aVChris Gatling NJN 02/13/1998 NJN vs. TOR W 22 14 7 10 70.0 0 0 - 0 3 0.0 2 6 8 2 0 1 1 4 4
+p330
+aVKeith Van Horn NJN 02/13/1998 NJN vs. TOR W 30 24 9 12 75.0 2 3 66.7 4 4 100.0 4 8 12 1 0 0 2 4 9
+p331
+aVLucious Harris NJN 02/13/1998 NJN vs. TOR W 20 6 1 6 16.7 1 3 33.3 3 6 50.0 0 1 1 2 1 1 1 2 2
+p332
+aVJayson Williams NJN 02/13/1998 NJN vs. TOR W 32 20 9 12 75.0 0 0 - 2 2 100.0 7 5 12 1 0 0 0 2 29
+p333
+aVSherman Douglas NJN 02/13/1998 NJN vs. TOR W 29 16 7 11 63.6 1 3 33.3 1 4 25.0 2 1 3 9 0 0 1 2 7
+p334
+aVKevin Edwards NJN 02/13/1998 NJN vs. TOR W 5 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p335
+aVDavid Benoit NJN 02/13/1998 NJN vs. TOR W 21 7 3 6 50.0 1 4 25.0 0 0 - 0 2 2 0 0 1 2 3 5
+p336
+aVJayson Williams NJN 02/10/1998 NJN vs. DAL W 37 15 7 10 70.0 0 0 - 1 1 100.0 6 7 13 0 2 0 1 3 2
+p337
+aVDavid Benoit NJN 02/10/1998 NJN vs. DAL W 8 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 0 1 0 0 0 1
+p338
+aVSam Cassell NJN 02/10/1998 NJN vs. DAL W 44 26 12 18 66.7 0 0 - 2 2 100.0 0 1 1 5 0 1 2 3 13
+p339
+aVKerry Kittles NJN 02/10/1998 NJN vs. DAL W 20 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 1 0 3 2 -2
+p340
+aVLucious Harris NJN 02/10/1998 NJN vs. DAL W 18 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p341
+aVKeith Van Horn NJN 02/10/1998 NJN vs. DAL W 38 17 6 14 42.9 0 2 0.0 5 5 100.0 4 5 9 2 1 0 1 2 11
+p342
+aVSherman Douglas NJN 02/10/1998 NJN vs. DAL W 28 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 3 2 0 1 3 17
+p343
+aVMichael Cage NJN 02/10/1998 NJN vs. DAL W 7 0 0 0 - 0 0 - 0 0 - 2 2 4 0 1 0 0 0 0
+p344
+aVKendall Gill NJN 02/10/1998 NJN vs. DAL W 34 9 4 13 30.8 0 2 0.0 1 2 50.0 5 0 5 5 2 0 4 2 5
+p345
+aVChris Gatling NJN 02/10/1998 NJN vs. DAL W 7 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 0 0 0 1 0 4
+p346
+aVLucious Harris NJN 02/05/1998 NJN vs. PHX W 20 15 5 6 83.3 1 1 100.0 4 4 100.0 0 0 0 0 4 0 0 2 -5
+p347
+aVKeith Van Horn NJN 02/05/1998 NJN vs. PHX W 26 20 9 18 50.0 1 1 100.0 1 1 100.0 3 1 4 0 1 0 3 3 7
+p348
+aVSherman Douglas NJN 02/05/1998 NJN vs. PHX W 29 3 1 9 11.1 0 2 0.0 1 2 50.0 0 4 4 5 1 0 1 1 -2
+p349
+aVJayson Williams NJN 02/05/1998 NJN vs. PHX W 38 12 5 12 41.7 0 0 - 2 4 50.0 7 8 15 1 0 2 2 3 18
+p350
+aVSam Cassell NJN 02/05/1998 NJN vs. PHX W 24 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 9 3 0 0 3 19
+p351
+aVDavid Benoit NJN 02/05/1998 NJN vs. PHX W 15 11 4 11 36.4 2 3 66.7 1 1 100.0 2 2 4 0 1 0 0 0 -1
+p352
+aVKendall Gill NJN 02/05/1998 NJN vs. PHX W 21 8 4 10 40.0 0 0 - 0 1 0.0 2 2 4 3 2 0 1 3 3
+p353
+aVChris Gatling NJN 02/05/1998 NJN vs. PHX W 22 12 5 10 50.0 0 0 - 2 4 50.0 2 3 5 0 1 1 1 2 6
+p354
+aVKerry Kittles NJN 02/05/1998 NJN vs. PHX W 35 20 10 18 55.6 0 3 0.0 0 0 - 2 5 7 2 1 0 2 2 21
+p355
+aVMichael Cage NJN 02/05/1998 NJN vs. PHX W 10 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 1 0 1 -6
+p356
+aVDavid Benoit NJN 02/03/1998 NJN @ POR L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 4 -12
+p357
+aVMichael Cage NJN 02/03/1998 NJN @ POR L 13 0 0 1 0.0 0 0 - 0 0 - 3 1 4 1 0 0 1 1 3
+p358
+aVKendall Gill NJN 02/03/1998 NJN @ POR L 36 14 6 11 54.5 0 2 0.0 2 2 100.0 0 6 6 3 3 1 0 4 14
+p359
+aVChris Gatling NJN 02/03/1998 NJN @ POR L 15 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 1 0 1 5 -2
+p360
+aVSherman Douglas NJN 02/03/1998 NJN @ POR L 21 6 3 6 50.0 0 0 - 0 0 - 0 2 2 3 0 0 2 2 -3
+p361
+aVKerry Kittles NJN 02/03/1998 NJN @ POR L 34 24 9 13 69.2 3 4 75.0 3 6 50.0 0 1 1 3 0 1 2 2 9
+p362
+aVKeith Van Horn NJN 02/03/1998 NJN @ POR L 38 21 8 22 36.4 1 5 20.0 4 4 100.0 4 2 6 4 4 1 1 3 3
+p363
+aVJayson Williams NJN 02/03/1998 NJN @ POR L 31 7 2 5 40.0 0 0 - 3 4 75.0 3 7 10 1 0 1 1 2 -6
+p364
+aVLucious Harris NJN 02/03/1998 NJN @ POR L 9 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 1 1 -8
+p365
+aVSam Cassell NJN 02/03/1998 NJN @ POR L 33 16 5 11 45.5 0 0 - 6 7 85.7 0 0 0 8 2 0 6 4 -3
+p366
+aVSam Cassell NJN 02/01/1998 NJN @ SEA L 26 4 2 11 18.2 0 3 0.0 0 0 - 0 5 5 9 2 0 3 4 -17
+p367
+aVDavid Benoit NJN 02/01/1998 NJN @ SEA L 20 10 3 9 33.3 0 4 0.0 4 4 100.0 0 3 3 0 0 0 1 2 5
+p368
+aVSherman Douglas NJN 02/01/1998 NJN @ SEA L 24 9 2 6 33.3 0 1 0.0 5 6 83.3 1 0 1 1 1 0 0 3 9
+p369
+aVLucious Harris NJN 02/01/1998 NJN @ SEA L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 4
+p370
+aVKendall Gill NJN 02/01/1998 NJN @ SEA L 27 7 3 10 30.0 0 2 0.0 1 5 20.0 0 3 3 2 2 1 0 0 -15
+p371
+aVKerry Kittles NJN 02/01/1998 NJN @ SEA L 30 12 5 13 38.5 2 3 66.7 0 0 - 1 3 4 1 0 0 0 3 -16
+p372
+aVMichael Cage NJN 02/01/1998 NJN @ SEA L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p373
+aVChris Gatling NJN 02/01/1998 NJN @ SEA L 16 11 4 5 80.0 0 0 - 3 3 100.0 3 1 4 2 1 0 2 1 3
+p374
+aVJayson Williams NJN 02/01/1998 NJN @ SEA L 39 17 7 12 58.3 0 0 - 3 5 60.0 5 4 9 2 1 0 0 3 -11
+p375
+aVKeith Van Horn NJN 02/01/1998 NJN @ SEA L 32 17 6 13 46.2 1 3 33.3 4 4 100.0 0 5 5 1 0 1 3 5 -13
+p376
+aVKeith Van Horn NJN 01/31/1998 NJN @ VAN W 32 17 8 21 38.1 1 7 14.3 0 0 - 4 3 7 1 1 0 4 5 8
+p377
+aVKerry Kittles NJN 01/31/1998 NJN @ VAN W 31 11 4 13 30.8 2 5 40.0 1 2 50.0 3 2 5 3 2 0 0 1 17
+p378
+aVMichael Cage NJN 01/31/1998 NJN @ VAN W 14 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 2 1 0 1 10
+p379
+aVDavid Benoit NJN 01/31/1998 NJN @ VAN W 24 9 2 9 22.2 1 5 20.0 4 4 100.0 3 2 5 2 0 0 0 4 11
+p380
+aVLucious Harris NJN 01/31/1998 NJN @ VAN W 15 4 2 3 66.7 0 0 - 0 0 - 1 0 1 3 2 0 1 0 3
+p381
+aVChris Gatling NJN 01/31/1998 NJN @ VAN W 16 8 2 8 25.0 0 0 - 4 6 66.7 2 2 4 0 0 0 0 2 -3
+p382
+aVJayson Williams NJN 01/31/1998 NJN @ VAN W 34 16 7 9 77.8 0 0 - 2 3 66.7 5 4 9 0 0 0 2 4 -1
+p383
+aVSam Cassell NJN 01/31/1998 NJN @ VAN W 32 26 10 17 58.8 1 4 25.0 5 6 83.3 3 5 8 6 2 0 1 2 9
+p384
+aVKendall Gill NJN 01/31/1998 NJN @ VAN W 27 9 2 8 25.0 0 1 0.0 5 6 83.3 3 3 6 4 1 2 0 1 -5
+p385
+aVSherman Douglas NJN 01/31/1998 NJN @ VAN W 16 14 5 8 62.5 0 1 0.0 4 5 80.0 1 1 2 2 1 0 1 2 1
+p386
+aVDavid Benoit NJN 01/28/1998 NJN @ LAL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p387
+aVChris Gatling NJN 01/28/1998 NJN @ LAL W 15 3 1 6 16.7 0 0 - 1 4 25.0 2 3 5 0 1 0 1 3 -4
+p388
+aVLucious Harris NJN 01/28/1998 NJN @ LAL W 19 8 4 5 80.0 0 1 0.0 0 0 - 1 2 3 3 3 1 0 2 8
+p389
+aVSherman Douglas NJN 01/28/1998 NJN @ LAL W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 5 0 0 1 0 -7
+p390
+aVJayson Williams NJN 01/28/1998 NJN @ LAL W 14 8 4 7 57.1 0 0 - 0 0 - 3 1 4 0 0 0 0 3 23
+p391
+aVMichael Cage NJN 01/28/1998 NJN @ LAL W 24 4 2 2 100.0 0 0 - 0 0 - 6 6 12 3 1 1 1 3 -9
+p392
+aVKeith Van Horn NJN 01/28/1998 NJN @ LAL W 38 30 10 19 52.6 3 5 60.0 7 7 100.0 0 5 5 2 0 0 4 1 19
+p393
+aVSam Cassell NJN 01/28/1998 NJN @ LAL W 36 13 4 15 26.7 1 2 50.0 4 6 66.7 1 3 4 11 2 0 3 4 18
+p394
+aVKendall Gill NJN 01/28/1998 NJN @ LAL W 37 14 7 16 43.8 0 2 0.0 0 0 - 2 6 8 1 2 0 2 3 14
+p395
+aVKerry Kittles NJN 01/28/1998 NJN @ LAL W 40 24 8 19 42.1 3 7 42.9 5 5 100.0 3 3 6 4 3 0 0 0 0
+p396
+aVKeith Van Horn NJN 01/27/1998 NJN @ DEN W 29 13 5 11 45.5 0 0 - 3 4 75.0 3 2 5 1 2 0 2 4 30
+p397
+aVKerry Kittles NJN 01/27/1998 NJN @ DEN W 24 18 6 7 85.7 5 6 83.3 1 2 50.0 1 2 3 5 1 0 1 0 36
+p398
+aVChris Gatling NJN 01/27/1998 NJN @ DEN W 18 11 4 7 57.1 0 0 - 3 6 50.0 1 4 5 1 0 0 0 6 1
+p399
+aVMichael Cage NJN 01/27/1998 NJN @ DEN W 15 0 0 0 - 0 0 - 0 0 - 0 5 5 1 0 2 0 2 3
+p400
+aVKendall Gill NJN 01/27/1998 NJN @ DEN W 26 8 4 8 50.0 0 0 - 0 1 0.0 0 6 6 5 0 3 3 2 22
+p401
+aVSam Cassell NJN 01/27/1998 NJN @ DEN W 18 18 9 12 75.0 0 0 - 0 0 - 1 0 1 5 2 0 0 2 26
+p402
+aVSherman Douglas NJN 01/27/1998 NJN @ DEN W 26 16 6 9 66.7 3 4 75.0 1 1 100.0 0 2 2 4 1 1 2 1 7
+p403
+aVDavid Benoit NJN 01/27/1998 NJN @ DEN W 25 9 2 5 40.0 1 2 50.0 4 4 100.0 1 5 6 1 0 1 1 1 14
+p404
+aVLucious Harris NJN 01/27/1998 NJN @ DEN W 23 9 3 7 42.9 1 3 33.3 2 2 100.0 0 0 0 2 1 0 0 2 -2
+p405
+aVJayson Williams NJN 01/27/1998 NJN @ DEN W 26 8 3 7 42.9 0 0 - 2 2 100.0 4 3 7 1 0 0 0 2 29
+p406
+aVJack Haley NJN 01/27/1998 NJN @ DEN W 10 10 3 5 60.0 0 0 - 4 5 80.0 0 2 2 0 0 0 2 2 -1
+p407
+aVLucious Harris NJN 01/24/1998 NJN @ WAS L 19 10 4 8 50.0 1 3 33.3 1 2 50.0 1 3 4 1 1 0 0 3 8
+p408
+aVMichael Cage NJN 01/24/1998 NJN @ WAS L 18 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 5
+p409
+aVDavid Benoit NJN 01/24/1998 NJN @ WAS L 18 7 2 6 33.3 1 5 20.0 2 2 100.0 1 1 2 2 0 1 1 3 -19
+p410
+aVKevin Edwards NJN 01/24/1998 NJN @ WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p411
+aVKendall Gill NJN 01/24/1998 NJN @ WAS L 29 2 1 3 33.3 0 0 - 0 0 - 0 2 2 6 1 0 0 3 -11
+p412
+aVJack Haley NJN 01/24/1998 NJN @ WAS L 4 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 4
+p413
+aVSam Cassell NJN 01/24/1998 NJN @ WAS L 23 13 5 11 45.5 0 2 0.0 3 4 75.0 0 1 1 5 2 0 3 3 -4
+p414
+aVKeith Van Horn NJN 01/24/1998 NJN @ WAS L 27 7 3 12 25.0 0 1 0.0 1 1 100.0 2 2 4 0 2 0 4 4 -6
+p415
+aVKerry Kittles NJN 01/24/1998 NJN @ WAS L 30 21 9 11 81.8 3 4 75.0 0 0 - 0 2 2 1 1 1 4 2 -13
+p416
+aVJayson Williams NJN 01/24/1998 NJN @ WAS L 33 15 5 8 62.5 0 0 - 5 7 71.4 3 8 11 1 0 0 2 4 -15
+p417
+aVChris Gatling NJN 01/24/1998 NJN @ WAS L 18 3 1 10 10.0 0 0 - 1 2 50.0 0 0 0 0 1 0 3 2 -19
+p418
+aVSherman Douglas NJN 01/24/1998 NJN @ WAS L 16 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 4 -19
+p419
+aVSam Cassell NJN 01/23/1998 NJN vs. CHI L 34 12 3 14 21.4 0 0 - 6 6 100.0 2 1 3 5 0 1 3 1 -15
+p420
+aVJayson Williams NJN 01/23/1998 NJN vs. CHI L 48 23 9 17 52.9 0 0 - 5 6 83.3 12 11 23 1 2 0 2 3 -4
+p421
+aVKeith Van Horn NJN 01/23/1998 NJN vs. CHI L 49 22 9 19 47.4 1 5 20.0 3 5 60.0 4 3 7 2 1 0 6 5 -3
+p422
+aVKendall Gill NJN 01/23/1998 NJN vs. CHI L 35 6 3 13 23.1 0 2 0.0 0 0 - 1 5 6 2 0 1 1 5 -6
+p423
+aVKerry Kittles NJN 01/23/1998 NJN vs. CHI L 38 17 8 14 57.1 1 4 25.0 0 2 0.0 2 3 5 3 2 0 3 3 -2
+p424
+aVLucious Harris NJN 01/23/1998 NJN vs. CHI L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -1
+p425
+aVMichael Cage NJN 01/23/1998 NJN vs. CHI L 5 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 2
+p426
+aVDavid Benoit NJN 01/23/1998 NJN vs. CHI L 21 9 2 5 40.0 2 4 50.0 3 4 75.0 0 5 5 0 1 0 3 3 3
+p427
+aVSherman Douglas NJN 01/23/1998 NJN vs. CHI L 23 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 4 0 0 3 2 16
+p428
+aVKerry Kittles NJN 01/21/1998 NJN vs. HOU W 37 10 3 13 23.1 1 3 33.3 3 4 75.0 2 3 5 1 1 0 3 4 -21
+p429
+aVSherman Douglas NJN 01/21/1998 NJN vs. HOU W 25 11 5 9 55.6 0 0 - 1 3 33.3 1 1 2 7 1 0 2 1 20
+p430
+aVMichael Cage NJN 01/21/1998 NJN vs. HOU W 6 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 0 7
+p431
+aVLucious Harris NJN 01/21/1998 NJN vs. HOU W 15 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 0 1 0 0 1 23
+p432
+aVJayson Williams NJN 01/21/1998 NJN vs. HOU W 47 25 11 16 68.8 0 1 0.0 3 6 50.0 12 7 19 1 1 0 3 4 -2
+p433
+aVSam Cassell NJN 01/21/1998 NJN vs. HOU W 37 17 6 16 37.5 1 1 100.0 4 5 80.0 0 1 1 7 1 1 2 2 -12
+p434
+aVDavid Benoit NJN 01/21/1998 NJN vs. HOU W 15 14 6 8 75.0 2 3 66.7 0 0 - 1 1 2 0 0 0 0 0 11
+p435
+aVKeith Van Horn NJN 01/21/1998 NJN vs. HOU W 46 19 8 17 47.1 1 4 25.0 2 2 100.0 1 4 5 5 1 2 3 1 3
+p436
+aVKendall Gill NJN 01/21/1998 NJN vs. HOU W 37 17 4 10 40.0 1 2 50.0 8 11 72.7 2 7 9 3 1 0 1 5 -4
+p437
+aVJack Haley NJN 01/19/1998 NJN vs. SAS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p438
+aVXavier McDaniel NJN 01/19/1998 NJN vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -6
+p439
+aVKeith Van Horn NJN 01/19/1998 NJN vs. SAS W 44 21 7 30 23.3 3 10 30.0 4 4 100.0 3 7 10 0 0 1 1 2 20
+p440
+aVJayson Williams NJN 01/19/1998 NJN vs. SAS W 34 10 4 7 57.1 0 0 - 2 4 50.0 9 9 18 0 1 1 0 4 7
+p441
+aVDavid Benoit NJN 01/19/1998 NJN vs. SAS W 23 10 4 7 57.1 1 3 33.3 1 2 50.0 5 4 9 1 0 0 0 4 14
+p442
+aVLucious Harris NJN 01/19/1998 NJN vs. SAS W 12 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 0 0 2 3
+p443
+aVMichael Cage NJN 01/19/1998 NJN vs. SAS W 12 2 1 3 33.3 0 0 - 0 0 - 6 2 8 2 1 0 0 1 10
+p444
+aVSam Cassell NJN 01/19/1998 NJN vs. SAS W 30 14 5 11 45.5 0 0 - 4 4 100.0 0 0 0 8 3 0 1 4 -10
+p445
+aVKendall Gill NJN 01/19/1998 NJN vs. SAS W 28 9 4 12 33.3 0 0 - 1 2 50.0 2 1 3 2 1 1 0 4 -6
+p446
+aVSherman Douglas NJN 01/19/1998 NJN vs. SAS W 18 5 2 7 28.6 0 0 - 1 2 50.0 0 0 0 5 2 0 1 0 21
+p447
+aVKerry Kittles NJN 01/19/1998 NJN vs. SAS W 36 19 7 20 35.0 1 2 50.0 4 4 100.0 3 2 5 1 3 1 1 1 8
+p448
+aVSherman Douglas NJN 01/17/1998 NJN vs. ATL W 42 18 8 14 57.1 1 1 100.0 1 2 50.0 1 4 5 10 2 0 0 2 17
+p449
+aVDavid Benoit NJN 01/17/1998 NJN vs. ATL W 13 3 1 6 16.7 1 2 50.0 0 0 - 1 2 3 0 0 0 0 2 3
+p450
+aVKerry Kittles NJN 01/17/1998 NJN vs. ATL W 42 19 7 14 50.0 0 1 0.0 5 6 83.3 2 4 6 1 1 0 2 4 20
+p451
+aVLucious Harris NJN 01/17/1998 NJN vs. ATL W 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -5
+p452
+aVMichael Cage NJN 01/17/1998 NJN vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 1
+p453
+aVKendall Gill NJN 01/17/1998 NJN vs. ATL W 40 17 7 19 36.8 2 3 66.7 1 2 50.0 1 6 7 2 2 0 2 2 11
+p454
+aVKeith Van Horn NJN 01/17/1998 NJN vs. ATL W 44 23 8 17 47.1 1 4 25.0 6 7 85.7 1 1 2 2 1 2 0 4 18
+p455
+aVJayson Williams NJN 01/17/1998 NJN vs. ATL W 44 15 5 18 27.8 0 0 - 5 6 83.3 13 10 23 3 0 0 1 2 15
+p456
+aVMichael Cage NJN 01/15/1998 NJN vs. LAC L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p457
+aVLucious Harris NJN 01/15/1998 NJN vs. LAC L 27 12 5 7 71.4 1 2 50.0 1 2 50.0 1 1 2 1 3 1 0 4 6
+p458
+aVKerry Kittles NJN 01/15/1998 NJN vs. LAC L 35 19 6 14 42.9 1 2 50.0 6 6 100.0 0 0 0 0 2 0 2 1 -7
+p459
+aVDavid Benoit NJN 01/15/1998 NJN vs. LAC L 16 9 4 5 80.0 1 2 50.0 0 0 - 1 4 5 1 0 1 1 1 1
+p460
+aVJayson Williams NJN 01/15/1998 NJN vs. LAC L 44 20 7 14 50.0 0 0 - 6 10 60.0 10 8 18 1 2 1 2 5 5
+p461
+aVSherman Douglas NJN 01/15/1998 NJN vs. LAC L 43 18 9 14 64.3 0 0 - 0 2 0.0 3 3 6 17 2 0 3 6 0
+p462
+aVKendall Gill NJN 01/15/1998 NJN vs. LAC L 25 12 5 9 55.6 0 0 - 2 6 33.3 1 2 3 2 0 1 1 5 -7
+p463
+aVKeith Van Horn NJN 01/15/1998 NJN vs. LAC L 42 26 7 15 46.7 2 5 40.0 10 12 83.3 1 6 7 1 0 0 3 4 -2
+p464
+aVMichael Cage NJN 01/13/1998 NJN @ CHH W 24 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 2 0 0 1 11
+p465
+aVSherman Douglas NJN 01/13/1998 NJN @ CHH W 42 23 8 16 50.0 1 1 100.0 6 7 85.7 1 3 4 11 1 0 4 0 9
+p466
+aVKendall Gill NJN 01/13/1998 NJN @ CHH W 38 19 9 17 52.9 1 3 33.3 0 0 - 1 3 4 0 1 1 7 5 15
+p467
+aVJayson Williams NJN 01/13/1998 NJN @ CHH W 42 23 9 12 75.0 0 0 - 5 6 83.3 5 9 14 0 0 3 0 5 14
+p468
+aVLucious Harris NJN 01/13/1998 NJN @ CHH W 19 4 1 3 33.3 0 1 0.0 2 2 100.0 1 2 3 1 1 1 1 1 3
+p469
+aVDavid Benoit NJN 01/13/1998 NJN @ CHH W 12 0 0 0 - 0 0 - 0 0 - 0 4 4 0 1 2 2 1 5
+p470
+aVKerry Kittles NJN 01/13/1998 NJN @ CHH W 40 9 3 16 18.8 0 3 0.0 3 3 100.0 1 0 1 6 2 0 2 3 7
+p471
+aVKeith Van Horn NJN 01/13/1998 NJN @ CHH W 24 3 1 3 33.3 0 1 0.0 1 1 100.0 0 3 3 1 0 0 2 5 1
+p472
+aVSherman Douglas NJN 01/12/1998 NJN @ TOR W 44 16 6 9 66.7 0 1 0.0 4 4 100.0 0 3 3 15 1 0 3 2 12
+p473
+aVKerry Kittles NJN 01/12/1998 NJN @ TOR W 41 31 11 18 61.1 4 8 50.0 5 6 83.3 0 5 5 2 2 0 1 3 11
+p474
+aVMichael Cage NJN 01/12/1998 NJN @ TOR W 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -5
+p475
+aVJayson Williams NJN 01/12/1998 NJN @ TOR W 39 18 8 11 72.7 0 0 - 2 3 66.7 3 5 8 2 1 0 1 4 14
+p476
+aVKeith Van Horn NJN 01/12/1998 NJN @ TOR W 35 18 7 19 36.8 1 4 25.0 3 4 75.0 2 2 4 2 2 1 1 5 16
+p477
+aVDavid Benoit NJN 01/12/1998 NJN @ TOR W 14 2 1 4 25.0 0 1 0.0 0 0 - 2 2 4 1 0 1 1 1 -9
+p478
+aVLucious Harris NJN 01/12/1998 NJN @ TOR W 18 5 1 4 25.0 0 0 - 3 3 100.0 0 3 3 2 0 0 0 3 -6
+p479
+aVKendall Gill NJN 01/12/1998 NJN @ TOR W 38 18 7 14 50.0 0 1 0.0 4 7 57.1 1 2 3 3 1 2 4 2 7
+p480
+aVJayson Williams NJN 01/10/1998 NJN vs. MIN L 42 11 5 12 41.7 0 0 - 1 3 33.3 11 6 17 2 0 0 2 4 -4
+p481
+aVKendall Gill NJN 01/10/1998 NJN vs. MIN L 42 20 6 15 40.0 1 4 25.0 7 9 77.8 2 5 7 0 4 2 0 5 -4
+p482
+aVDavid Benoit NJN 01/10/1998 NJN vs. MIN L 9 2 1 3 33.3 0 1 0.0 0 0 - 2 2 4 0 0 0 1 3 -4
+p483
+aVSherman Douglas NJN 01/10/1998 NJN vs. MIN L 25 15 7 11 63.6 0 1 0.0 1 2 50.0 0 0 0 6 0 1 2 4 -4
+p484
+aVKeith Van Horn NJN 01/10/1998 NJN vs. MIN L 43 22 9 20 45.0 3 8 37.5 1 1 100.0 1 4 5 3 1 0 1 5 -5
+p485
+aVSam Cassell NJN 01/10/1998 NJN vs. MIN L 26 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 7 2 0 4 4 -5
+p486
+aVMichael Cage NJN 01/10/1998 NJN vs. MIN L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -2
+p487
+aVKerry Kittles NJN 01/10/1998 NJN vs. MIN L 38 22 8 17 47.1 5 7 71.4 1 2 50.0 1 4 5 0 1 0 3 2 -2
+p488
+aVLucious Harris NJN 01/10/1998 NJN vs. MIN L 10 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 1 1 0 0 2 -5
+p489
+aVKeith Van Horn NJN 01/08/1998 NJN vs. ORL W 44 19 7 17 41.2 1 4 25.0 4 5 80.0 2 3 5 1 0 0 3 0 0
+p490
+aVKevin Edwards NJN 01/08/1998 NJN vs. ORL W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 1
+p491
+aVJayson Williams NJN 01/08/1998 NJN vs. ORL W 35 9 2 6 33.3 0 0 - 5 6 83.3 7 8 15 0 0 3 2 3 5
+p492
+aVKerry Kittles NJN 01/08/1998 NJN vs. ORL W 42 27 10 17 58.8 1 3 33.3 6 7 85.7 1 11 12 2 2 1 2 2 0
+p493
+aVMichael Cage NJN 01/08/1998 NJN vs. ORL W 14 0 0 3 0.0 0 0 - 0 0 - 4 2 6 0 0 2 0 1 -1
+p494
+aVKendall Gill NJN 01/08/1998 NJN vs. ORL W 38 13 3 14 21.4 0 0 - 7 13 53.8 2 5 7 1 2 0 0 4 6
+p495
+aVSherman Douglas NJN 01/08/1998 NJN vs. ORL W 36 16 6 10 60.0 0 0 - 4 4 100.0 0 1 1 9 1 0 5 5 -8
+p496
+aVLucious Harris NJN 01/08/1998 NJN vs. ORL W 12 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 7
+p497
+aVDavid Benoit NJN 01/08/1998 NJN vs. ORL W 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 0
+p498
+aVKerry Kittles NJN 01/07/1998 NJN @ NYK L 46 12 4 19 21.1 2 3 66.7 2 2 100.0 3 3 6 3 3 1 1 0 0
+p499
+aVSam Cassell NJN 01/07/1998 NJN @ NYK L 42 34 11 26 42.3 1 5 20.0 11 14 78.6 2 2 4 4 2 1 6 5 2
+p500
+aVKeith Van Horn NJN 01/07/1998 NJN @ NYK L 46 12 4 14 28.6 2 3 66.7 2 3 66.7 1 8 9 2 0 0 2 3 1
+p501
+aVMichael Cage NJN 01/07/1998 NJN @ NYK L 17 1 0 1 0.0 0 0 - 1 2 50.0 3 5 8 2 0 2 0 2 -3
+p502
+aVKevin Edwards NJN 01/07/1998 NJN @ NYK L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p503
+aVJayson Williams NJN 01/07/1998 NJN @ NYK L 36 9 1 2 50.0 0 0 - 7 8 87.5 4 8 12 0 1 0 0 4 2
+p504
+aVDavid Benoit NJN 01/07/1998 NJN @ NYK L 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -7
+p505
+aVKendall Gill NJN 01/07/1998 NJN @ NYK L 40 8 2 11 18.2 0 4 0.0 4 4 100.0 0 4 4 1 5 0 2 3 8
+p506
+aVSherman Douglas NJN 01/07/1998 NJN @ NYK L 21 10 4 9 44.4 0 0 - 2 2 100.0 2 1 3 0 1 0 1 1 -7
+p507
+aVMichael Cage NJN 01/03/1998 NJN @ CLE L 25 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 1 3 1
+p508
+aVKerry Kittles NJN 01/03/1998 NJN @ CLE L 44 15 6 16 37.5 0 2 0.0 3 4 75.0 1 3 4 6 4 0 3 0 -15
+p509
+aVDavid Benoit NJN 01/03/1998 NJN @ CLE L 18 5 2 8 25.0 1 5 20.0 0 0 - 1 2 3 0 1 1 3 1 -4
+p510
+aVKeith Van Horn NJN 01/03/1998 NJN @ CLE L 45 15 5 16 31.3 0 4 0.0 5 6 83.3 2 4 6 1 0 1 3 2 -11
+p511
+aVJack Haley NJN 01/03/1998 NJN @ CLE L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p512
+aVXavier McDaniel NJN 01/03/1998 NJN @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p513
+aVSherman Douglas NJN 01/03/1998 NJN @ CLE L 45 20 7 16 43.8 0 1 0.0 6 6 100.0 0 2 2 9 1 1 3 3 -16
+p514
+aVKendall Gill NJN 01/03/1998 NJN @ CLE L 39 21 8 13 61.5 1 2 50.0 4 4 100.0 2 4 6 2 3 1 2 3 -9
+p515
+aVJayson Williams NJN 01/03/1998 NJN @ CLE L 21 4 2 6 33.3 0 0 - 0 0 - 2 5 7 0 1 2 2 3 -14
+p516
+aVSherman Douglas NJN 01/02/1998 NJN vs. NYK W 23 17 4 5 80.0 0 0 - 9 11 81.8 0 0 0 5 1 0 0 2 12
+p517
+aVSam Cassell NJN 01/02/1998 NJN vs. NYK W 30 15 4 10 40.0 0 2 0.0 7 8 87.5 2 2 4 4 0 0 4 2 -2
+p518
+aVKevin Edwards NJN 01/02/1998 NJN vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p519
+aVKerry Kittles NJN 01/02/1998 NJN vs. NYK W 42 14 5 12 41.7 1 3 33.3 3 6 50.0 2 2 4 1 0 1 1 1 6
+p520
+aVKeith Van Horn NJN 01/02/1998 NJN vs. NYK W 32 29 9 16 56.3 3 5 60.0 8 8 100.0 1 5 6 2 3 0 4 4 15
+p521
+aVMichael Cage NJN 01/02/1998 NJN vs. NYK W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 4
+p522
+aVDavid Benoit NJN 01/02/1998 NJN vs. NYK W 22 5 1 5 20.0 0 3 0.0 3 3 100.0 1 1 2 0 1 1 0 2 -9
+p523
+aVJayson Williams NJN 01/02/1998 NJN vs. NYK W 39 11 5 8 62.5 0 0 - 1 2 50.0 7 8 15 1 0 1 3 5 2
+p524
+aVKendall Gill NJN 01/02/1998 NJN vs. NYK W 42 12 2 9 22.2 0 1 0.0 8 12 66.7 2 6 8 4 1 0 3 4 3
+p525
+aVKevin Edwards NJN 12/30/1997 NJN @ IND L 8 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 1 0 9
+p526
+aVKeith Van Horn NJN 12/30/1997 NJN @ IND L 43 17 6 20 30.0 2 7 28.6 3 4 75.0 4 7 11 0 1 0 2 3 -20
+p527
+aVJack Haley NJN 12/30/1997 NJN @ IND L 3 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 3
+p528
+aVDavid Benoit NJN 12/30/1997 NJN @ IND L 18 10 3 5 60.0 1 3 33.3 3 5 60.0 1 1 2 1 1 0 1 2 -2
+p529
+aVSam Cassell NJN 12/30/1997 NJN @ IND L 31 18 8 16 50.0 1 3 33.3 1 2 50.0 1 0 1 9 2 1 4 5 -15
+p530
+aVYinka Dare NJN 12/30/1997 NJN @ IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p531
+aVKerry Kittles NJN 12/30/1997 NJN @ IND L 34 10 4 14 28.6 0 2 0.0 2 2 100.0 2 3 5 0 0 0 2 2 -25
+p532
+aVJayson Williams NJN 12/30/1997 NJN @ IND L 33 14 6 6 100.0 0 0 - 2 2 100.0 4 3 7 0 0 0 2 2 -14
+p533
+aVMichael Cage NJN 12/30/1997 NJN @ IND L 15 0 0 0 - 0 0 - 0 0 - 2 2 4 0 2 0 2 1 -6
+p534
+aVKendall Gill NJN 12/30/1997 NJN @ IND L 31 7 2 11 18.2 0 1 0.0 3 4 75.0 0 4 4 2 0 0 3 1 -14
+p535
+aVSherman Douglas NJN 12/30/1997 NJN @ IND L 22 15 3 7 42.9 0 0 - 9 12 75.0 0 0 0 2 2 0 0 1 -7
+p536
+aVKerry Kittles NJN 12/29/1997 NJN vs. WAS W 40 7 1 11 9.1 0 2 0.0 5 8 62.5 0 2 2 1 1 0 2 1 14
+p537
+aVJack Haley NJN 12/29/1997 NJN vs. WAS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p538
+aVKendall Gill NJN 12/29/1997 NJN vs. WAS W 24 12 5 7 71.4 0 0 - 2 4 50.0 0 2 2 3 2 1 2 4 3
+p539
+aVSam Cassell NJN 12/29/1997 NJN vs. WAS W 41 19 4 14 28.6 1 2 50.0 10 11 90.9 0 4 4 9 2 1 6 6 16
+p540
+aVMichael Cage NJN 12/29/1997 NJN vs. WAS W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -5
+p541
+aVXavier McDaniel NJN 12/29/1997 NJN vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p542
+aVKevin Edwards NJN 12/29/1997 NJN vs. WAS W 16 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 0 2 0 0
+p543
+aVKeith Van Horn NJN 12/29/1997 NJN vs. WAS W 41 32 10 19 52.6 2 7 28.6 10 10 100.0 1 9 10 1 2 1 1 4 9
+p544
+aVSherman Douglas NJN 12/29/1997 NJN vs. WAS W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 -10
+p545
+aVDavid Benoit NJN 12/29/1997 NJN vs. WAS W 16 6 2 3 66.7 1 1 100.0 1 1 100.0 0 2 2 1 1 0 1 5 -3
+p546
+aVJayson Williams NJN 12/29/1997 NJN vs. WAS W 41 19 7 12 58.3 0 0 - 5 7 71.4 10 12 22 0 1 2 2 5 13
+p547
+aVSherman Douglas NJN 12/27/1997 NJN vs. MIL W 14 4 2 5 40.0 0 0 - 0 0 - 0 0 0 3 0 1 1 2 -6
+p548
+aVKeith Van Horn NJN 12/27/1997 NJN vs. MIL W 55 26 12 26 46.2 0 6 0.0 2 4 50.0 5 8 13 1 1 1 4 3 3
+p549
+aVMichael Cage NJN 12/27/1997 NJN vs. MIL W 14 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 3 11
+p550
+aVSam Cassell NJN 12/27/1997 NJN vs. MIL W 47 25 7 18 38.9 0 1 0.0 11 11 100.0 0 3 3 15 1 1 6 2 7
+p551
+aVKendall Gill NJN 12/27/1997 NJN vs. MIL W 53 25 8 14 57.1 1 1 100.0 8 11 72.7 3 4 7 1 6 2 5 5 8
+p552
+aVJayson Williams NJN 12/27/1997 NJN vs. MIL W 43 10 4 15 26.7 0 0 - 2 6 33.3 14 8 22 0 0 5 3 6 -5
+p553
+aVKevin Edwards NJN 12/27/1997 NJN vs. MIL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 6
+p554
+aVDavid Benoit NJN 12/27/1997 NJN vs. MIL W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 0 0 1 0 2 7
+p555
+aVKerry Kittles NJN 12/27/1997 NJN vs. MIL W 50 19 8 14 57.1 2 3 66.7 1 2 50.0 1 5 6 2 4 0 2 5 9
+p556
+aVXavier McDaniel NJN 12/26/1997 NJN @ MIN L 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -8
+p557
+aVSam Cassell NJN 12/26/1997 NJN @ MIN L 33 31 11 19 57.9 2 6 33.3 7 8 87.5 1 2 3 13 1 0 4 6 6
+p558
+aVKendall Gill NJN 12/26/1997 NJN @ MIN L 37 8 3 12 25.0 0 2 0.0 2 6 33.3 2 4 6 1 1 0 3 2 -22
+p559
+aVMichael Cage NJN 12/26/1997 NJN @ MIN L 26 3 1 2 50.0 0 0 - 1 2 50.0 1 4 5 0 0 4 0 2 -6
+p560
+aVKeith Van Horn NJN 12/26/1997 NJN @ MIN L 39 14 6 18 33.3 0 3 0.0 2 2 100.0 3 7 10 0 0 1 5 2 -15
+p561
+aVKerry Kittles NJN 12/26/1997 NJN @ MIN L 35 16 6 15 40.0 4 5 80.0 0 0 - 2 4 6 1 1 0 2 4 -12
+p562
+aVJack Haley NJN 12/26/1997 NJN @ MIN L 7 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -5
+p563
+aVJayson Williams NJN 12/26/1997 NJN @ MIN L 15 8 4 4 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -9
+p564
+aVSherman Douglas NJN 12/26/1997 NJN @ MIN L 22 11 4 11 36.4 1 2 50.0 2 4 50.0 1 1 2 4 1 0 1 4 -28
+p565
+aVDavid Benoit NJN 12/26/1997 NJN @ MIN L 15 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 1 1 3 5 3
+p566
+aVKevin Edwards NJN 12/26/1997 NJN @ MIN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p567
+aVYinka Dare NJN 12/26/1997 NJN @ MIN L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -1
+p568
+aVSam Cassell NJN 12/22/1997 NJN @ ORL W 35 28 12 17 70.6 0 1 0.0 4 6 66.7 1 2 3 6 5 0 5 5 8
+p569
+aVDavid Benoit NJN 12/22/1997 NJN @ ORL W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p570
+aVKeith Van Horn NJN 12/22/1997 NJN @ ORL W 41 16 6 20 30.0 2 5 40.0 2 2 100.0 3 4 7 0 0 0 1 4 10
+p571
+aVKerry Kittles NJN 12/22/1997 NJN @ ORL W 41 12 6 18 33.3 0 2 0.0 0 0 - 6 5 11 5 4 1 3 2 8
+p572
+aVSherman Douglas NJN 12/22/1997 NJN @ ORL W 24 16 7 12 58.3 0 1 0.0 2 2 100.0 2 0 2 4 0 0 1 1 7
+p573
+aVMichael Cage NJN 12/22/1997 NJN @ ORL W 24 1 0 0 - 0 0 - 1 2 50.0 5 2 7 0 3 0 0 4 1
+p574
+aVKendall Gill NJN 12/22/1997 NJN @ ORL W 39 18 7 13 53.8 0 2 0.0 4 6 66.7 1 4 5 3 0 0 0 2 5
+p575
+aVXavier McDaniel NJN 12/22/1997 NJN @ ORL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p576
+aVJayson Williams NJN 12/22/1997 NJN @ ORL W 26 5 1 5 20.0 0 0 - 3 4 75.0 3 1 4 0 0 0 2 5 12
+p577
+aVSam Cassell NJN 12/20/1997 NJN vs. CHI L 34 15 6 13 46.2 1 2 50.0 2 2 100.0 0 5 5 7 0 0 5 5 -14
+p578
+aVKevin Edwards NJN 12/20/1997 NJN vs. CHI L 13 0 0 4 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p579
+aVJayson Williams NJN 12/20/1997 NJN vs. CHI L 42 12 6 13 46.2 0 0 - 0 0 - 10 7 17 1 0 2 2 4 -4
+p580
+aVMichael Cage NJN 12/20/1997 NJN vs. CHI L 10 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 0 1 0
+p581
+aVKeith Van Horn NJN 12/20/1997 NJN vs. CHI L 43 20 7 16 43.8 2 5 40.0 4 7 57.1 3 5 8 0 1 1 3 3 -8
+p582
+aVKendall Gill NJN 12/20/1997 NJN vs. CHI L 27 16 7 12 58.3 0 2 0.0 2 2 100.0 0 2 2 2 2 1 0 5 0
+p583
+aVDavid Benoit NJN 12/20/1997 NJN vs. CHI L 17 0 0 7 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 0 -8
+p584
+aVKerry Kittles NJN 12/20/1997 NJN vs. CHI L 39 19 7 15 46.7 1 2 50.0 4 5 80.0 2 2 4 1 3 2 0 2 -2
+p585
+aVSherman Douglas NJN 12/20/1997 NJN vs. CHI L 17 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 2 0 3 2 -6
+p586
+aVSam Cassell NJN 12/17/1997 NJN vs. DET W 40 19 8 23 34.8 1 3 33.3 2 2 100.0 0 2 2 11 4 1 2 3 17
+p587
+aVKevin Edwards NJN 12/17/1997 NJN vs. DET W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -12
+p588
+aVJayson Williams NJN 12/17/1997 NJN vs. DET W 41 13 4 6 66.7 0 0 - 5 6 83.3 7 15 22 3 0 0 2 5 11
+p589
+aVSherman Douglas NJN 12/17/1997 NJN vs. DET W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 2 1 -5
+p590
+aVKerry Kittles NJN 12/17/1997 NJN vs. DET W 38 20 9 15 60.0 0 1 0.0 2 6 33.3 1 4 5 4 1 1 1 3 9
+p591
+aVKendall Gill NJN 12/17/1997 NJN vs. DET W 34 22 8 14 57.1 1 1 100.0 5 7 71.4 1 7 8 2 0 1 2 5 -7
+p592
+aVKeith Van Horn NJN 12/17/1997 NJN vs. DET W 39 22 7 18 38.9 2 6 33.3 6 6 100.0 2 2 4 1 0 0 3 3 13
+p593
+aVMichael Cage NJN 12/17/1997 NJN vs. DET W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p594
+aVDavid Benoit NJN 12/17/1997 NJN vs. DET W 20 8 3 6 50.0 1 2 50.0 1 2 50.0 2 1 3 2 1 0 1 2 2
+p595
+aVDavid Benoit NJN 12/13/1997 NJN vs. DEN W 23 12 5 9 55.6 2 5 40.0 0 0 - 2 3 5 0 0 0 1 3 15
+p596
+aVJayson Williams NJN 12/13/1997 NJN vs. DEN W 34 18 8 15 53.3 0 0 - 2 2 100.0 13 9 22 2 1 1 2 2 40
+p597
+aVKeith Van Horn NJN 12/13/1997 NJN vs. DEN W 32 30 8 11 72.7 3 4 75.0 11 15 73.3 2 2 4 1 4 0 3 5 37
+p598
+aVKerry Kittles NJN 12/13/1997 NJN vs. DEN W 27 13 5 13 38.5 1 5 20.0 2 4 50.0 0 2 2 3 1 0 0 1 27
+p599
+aVMichael Cage NJN 12/13/1997 NJN vs. DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p600
+aVSherman Douglas NJN 12/13/1997 NJN vs. DEN W 28 19 9 14 64.3 0 1 0.0 1 3 33.3 3 1 4 8 1 0 1 2 21
+p601
+aVKevin Edwards NJN 12/13/1997 NJN vs. DEN W 21 10 4 7 57.1 0 2 0.0 2 2 100.0 1 2 3 1 3 0 0 0 11
+p602
+aVSam Cassell NJN 12/13/1997 NJN vs. DEN W 20 15 5 13 38.5 1 2 50.0 4 5 80.0 3 1 4 9 2 0 7 4 17
+p603
+aVKendall Gill NJN 12/13/1997 NJN vs. DEN W 27 10 5 9 55.6 0 1 0.0 0 0 - 0 4 4 4 4 2 0 1 27
+p604
+aVXavier McDaniel NJN 12/13/1997 NJN vs. DEN W 10 2 1 4 25.0 0 0 - 0 0 - 2 2 4 4 0 0 0 1 -8
+p605
+aVYinka Dare NJN 12/13/1997 NJN vs. DEN W 14 2 1 5 20.0 0 0 - 0 2 0.0 2 2 4 0 0 1 1 2 -2
+p606
+aVXavier McDaniel NJN 12/11/1997 NJN @ DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p607
+aVSherman Douglas NJN 12/11/1997 NJN @ DET L 19 13 4 5 80.0 1 1 100.0 4 5 80.0 0 0 0 4 1 0 1 5 6
+p608
+aVKeith Van Horn NJN 12/11/1997 NJN @ DET L 41 24 5 19 26.3 1 4 25.0 13 13 100.0 0 4 4 0 2 0 4 4 8
+p609
+aVJayson Williams NJN 12/11/1997 NJN @ DET L 42 15 4 7 57.1 0 1 0.0 7 8 87.5 5 11 16 1 0 1 0 3 0
+p610
+aVSam Cassell NJN 12/11/1997 NJN @ DET L 40 22 9 19 47.4 1 2 50.0 3 5 60.0 0 1 1 7 1 0 5 4 -8
+p611
+aVKerry Kittles NJN 12/11/1997 NJN @ DET L 41 13 6 12 50.0 1 2 50.0 0 0 - 1 3 4 4 2 0 0 3 0
+p612
+aVDavid Benoit NJN 12/11/1997 NJN @ DET L 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -4
+p613
+aVMichael Cage NJN 12/11/1997 NJN @ DET L 10 0 0 0 - 0 0 - 0 0 - 2 0 2 1 1 0 0 1 -8
+p614
+aVKendall Gill NJN 12/11/1997 NJN @ DET L 39 12 4 15 26.7 1 3 33.3 3 4 75.0 1 2 3 2 3 1 1 3 -6
+p615
+aVKendall Gill NJN 12/09/1997 NJN @ WAS L 26 9 4 14 28.6 0 0 - 1 2 50.0 2 3 5 3 0 0 0 2 -27
+p616
+aVKeith Van Horn NJN 12/09/1997 NJN @ WAS L 38 23 9 19 47.4 3 7 42.9 2 4 50.0 0 2 2 0 3 0 2 5 -21
+p617
+aVJayson Williams NJN 12/09/1997 NJN @ WAS L 38 14 7 12 58.3 0 0 - 0 0 - 8 4 12 2 2 0 1 5 -13
+p618
+aVXavier McDaniel NJN 12/09/1997 NJN @ WAS L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 8
+p619
+aVDavid Benoit NJN 12/09/1997 NJN @ WAS L 23 12 5 9 55.6 2 3 66.7 0 0 - 3 4 7 3 1 0 1 4 2
+p620
+aVSherman Douglas NJN 12/09/1997 NJN @ WAS L 26 14 5 11 45.5 1 2 50.0 3 6 50.0 0 3 3 1 1 0 1 5 4
+p621
+aVSam Cassell NJN 12/09/1997 NJN @ WAS L 32 8 3 12 25.0 0 0 - 2 3 66.7 0 1 1 9 2 0 5 4 -30
+p622
+aVKerry Kittles NJN 12/09/1997 NJN @ WAS L 41 17 7 16 43.8 2 6 33.3 1 1 100.0 0 3 3 3 0 0 3 1 -13
+p623
+aVMichael Cage NJN 12/09/1997 NJN @ WAS L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -15
+p624
+aVMichael Cage NJN 12/08/1997 NJN @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p625
+aVSherman Douglas NJN 12/08/1997 NJN @ MIA L 17 8 2 5 40.0 0 1 0.0 4 6 66.7 0 1 1 3 1 0 0 4 6
+p626
+aVDavid Benoit NJN 12/08/1997 NJN @ MIA L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 1 0 0 3 -9
+p627
+aVKerry Kittles NJN 12/08/1997 NJN @ MIA L 33 12 5 12 41.7 1 2 50.0 1 2 50.0 1 1 2 1 0 1 2 2 -7
+p628
+aVJayson Williams NJN 12/08/1997 NJN @ MIA L 32 8 3 8 37.5 0 0 - 2 2 100.0 6 5 11 0 0 1 1 2 -13
+p629
+aVChris Gatling NJN 12/08/1997 NJN @ MIA L 20 12 6 7 85.7 0 0 - 0 0 - 1 4 5 2 0 0 0 1 2
+p630
+aVKeith Van Horn NJN 12/08/1997 NJN @ MIA L 39 16 7 14 50.0 0 3 0.0 2 4 50.0 2 4 6 2 1 0 1 2 -1
+p631
+aVSam Cassell NJN 12/08/1997 NJN @ MIA L 37 19 6 16 37.5 1 2 50.0 6 8 75.0 2 1 3 6 1 0 6 5 -8
+p632
+aVKendall Gill NJN 12/08/1997 NJN @ MIA L 37 17 6 15 40.0 1 4 25.0 4 4 100.0 3 4 7 3 2 2 0 5 1
+p633
+aVKevin Edwards NJN 12/08/1997 NJN @ MIA L 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -7
+p634
+aVYinka Dare NJN 12/05/1997 NJN vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p635
+aVXavier McDaniel NJN 12/05/1997 NJN vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p636
+aVKendall Gill NJN 12/05/1997 NJN vs. PHI W 34 24 8 14 57.1 2 4 50.0 6 6 100.0 1 2 3 4 4 1 1 2 19
+p637
+aVKevin Edwards NJN 12/05/1997 NJN vs. PHI W 9 2 1 2 50.0 0 0 - 0 0 - 2 1 3 2 0 0 1 1 -9
+p638
+aVMichael Cage NJN 12/05/1997 NJN vs. PHI W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 1 3
+p639
+aVJayson Williams NJN 12/05/1997 NJN vs. PHI W 34 20 8 11 72.7 0 0 - 4 5 80.0 8 3 11 1 3 2 0 3 20
+p640
+aVDavid Benoit NJN 12/05/1997 NJN vs. PHI W 14 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 4 0
+p641
+aVSam Cassell NJN 12/05/1997 NJN vs. PHI W 31 7 3 8 37.5 0 0 - 1 2 50.0 0 2 2 12 1 0 6 4 17
+p642
+aVChris Gatling NJN 12/05/1997 NJN vs. PHI W 22 11 4 8 50.0 0 0 - 3 3 100.0 0 5 5 3 0 2 1 0 -1
+p643
+aVSherman Douglas NJN 12/05/1997 NJN vs. PHI W 23 8 4 9 44.4 0 2 0.0 0 0 - 1 0 1 4 0 0 2 2 3
+p644
+aVKerry Kittles NJN 12/05/1997 NJN vs. PHI W 33 17 6 11 54.5 2 3 66.7 3 3 100.0 0 4 4 1 2 1 0 3 27
+p645
+aVKeith Van Horn NJN 12/05/1997 NJN vs. PHI W 27 11 4 10 40.0 0 2 0.0 3 3 100.0 0 2 2 2 1 0 7 5 22
+p646
+aVXavier McDaniel NJN 12/03/1997 NJN vs. SEA L 17 4 1 4 25.0 0 0 - 2 4 50.0 2 2 4 1 0 0 1 2 -2
+p647
+aVChris Gatling NJN 12/03/1997 NJN vs. SEA L 35 7 2 8 25.0 0 1 0.0 3 4 75.0 2 9 11 1 1 1 3 5 4
+p648
+aVSherman Douglas NJN 12/03/1997 NJN vs. SEA L 15 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p649
+aVDavid Benoit NJN 12/03/1997 NJN vs. SEA L 13 8 3 6 50.0 2 3 66.7 0 0 - 2 2 4 0 0 0 1 3 -10
+p650
+aVKendall Gill NJN 12/03/1997 NJN vs. SEA L 36 18 9 17 52.9 0 1 0.0 0 0 - 2 2 4 4 2 0 4 1 1
+p651
+aVSam Cassell NJN 12/03/1997 NJN vs. SEA L 33 23 8 19 42.1 0 3 0.0 7 7 100.0 1 2 3 4 1 2 2 3 -3
+p652
+aVMichael Cage NJN 12/03/1997 NJN vs. SEA L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p653
+aVKerry Kittles NJN 12/03/1997 NJN vs. SEA L 37 17 8 18 44.4 1 4 25.0 0 2 0.0 4 2 6 5 0 0 3 1 -1
+p654
+aVJayson Williams NJN 12/03/1997 NJN vs. SEA L 37 4 2 6 33.3 0 1 0.0 0 0 - 9 15 24 3 1 2 0 6 -1
+p655
+aVKevin Edwards NJN 12/03/1997 NJN vs. SEA L 11 0 0 6 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -3
+p656
+aVKendall Gill NJN 12/01/1997 NJN @ UTA L 28 9 2 9 22.2 0 2 0.0 5 6 83.3 0 1 1 0 0 0 2 5 -9
+p657
+aVSam Cassell NJN 12/01/1997 NJN @ UTA L 34 26 7 16 43.8 0 0 - 12 12 100.0 0 1 1 10 2 0 7 6 3
+p658
+aVDavid Benoit NJN 12/01/1997 NJN @ UTA L 23 11 4 7 57.1 3 4 75.0 0 0 - 2 4 6 1 0 1 1 4 8
+p659
+aVMichael Cage NJN 12/01/1997 NJN @ UTA L 30 0 0 1 0.0 0 0 - 0 0 - 1 6 7 1 0 0 1 2 -5
+p660
+aVKerry Kittles NJN 12/01/1997 NJN @ UTA L 36 13 5 10 50.0 1 2 50.0 2 2 100.0 2 1 3 4 2 0 1 1 -9
+p661
+aVXavier McDaniel NJN 12/01/1997 NJN @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p662
+aVJayson Williams NJN 12/01/1997 NJN @ UTA L 40 16 5 6 83.3 0 0 - 6 9 66.7 2 7 9 0 0 2 0 4 2
+p663
+aVSherman Douglas NJN 12/01/1997 NJN @ UTA L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 3 6 -9
+p664
+aVChris Gatling NJN 12/01/1997 NJN @ UTA L 25 12 4 8 50.0 0 0 - 4 7 57.1 0 4 4 0 2 2 4 2 -3
+p665
+aVKevin Edwards NJN 12/01/1997 NJN @ UTA L 9 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 0 0 0 1 1 1
+p666
+aVJack Haley NJN 12/01/1997 NJN @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p667
+aVJayson Williams NJN 11/30/1997 NJN @ SAC W 38 10 3 8 37.5 0 0 - 4 6 66.7 4 9 13 1 1 1 3 2 11
+p668
+aVXavier McDaniel NJN 11/30/1997 NJN @ SAC W 11 0 0 2 0.0 0 0 - 0 0 - 3 2 5 1 0 0 2 1 4
+p669
+aVMichael Cage NJN 11/30/1997 NJN @ SAC W 27 1 0 1 0.0 0 0 - 1 2 50.0 2 7 9 0 1 2 1 2 20
+p670
+aVKendall Gill NJN 11/30/1997 NJN @ SAC W 32 26 12 21 57.1 2 2 100.0 0 0 - 1 5 6 5 0 0 1 3 22
+p671
+aVChris Gatling NJN 11/30/1997 NJN @ SAC W 18 8 3 8 37.5 0 0 - 2 2 100.0 2 2 4 0 0 0 1 3 -4
+p672
+aVDavid Benoit NJN 11/30/1997 NJN @ SAC W 16 2 1 7 14.3 0 2 0.0 0 0 - 2 2 4 0 2 0 1 4 -8
+p673
+aVSherman Douglas NJN 11/30/1997 NJN @ SAC W 17 6 3 5 60.0 0 1 0.0 0 2 0.0 1 0 1 2 1 0 0 1 -9
+p674
+aVKerry Kittles NJN 11/30/1997 NJN @ SAC W 20 18 8 11 72.7 0 0 - 2 2 100.0 2 2 4 0 2 0 1 3 12
+p675
+aVSam Cassell NJN 11/30/1997 NJN @ SAC W 32 10 5 19 26.3 0 1 0.0 0 4 0.0 0 3 3 11 3 0 4 0 23
+p676
+aVKevin Edwards NJN 11/30/1997 NJN @ SAC W 27 6 2 10 20.0 0 0 - 2 2 100.0 1 4 5 4 2 0 2 1 2
+p677
+aVJack Haley NJN 11/30/1997 NJN @ SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p678
+aVJayson Williams NJN 11/28/1997 NJN @ LAC W 27 5 2 6 33.3 0 0 - 1 5 20.0 5 2 7 1 1 0 2 6 1
+p679
+aVKerry Kittles NJN 11/28/1997 NJN @ LAC W 37 25 9 17 52.9 1 2 50.0 6 6 100.0 1 2 3 1 1 0 0 3 10
+p680
+aVKevin Edwards NJN 11/28/1997 NJN @ LAC W 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p681
+aVXavier McDaniel NJN 11/28/1997 NJN @ LAC W 20 7 2 3 66.7 0 0 - 3 4 75.0 1 1 2 1 0 1 1 4 1
+p682
+aVMichael Cage NJN 11/28/1997 NJN @ LAC W 30 0 0 0 - 0 0 - 0 0 - 2 5 7 1 1 1 0 2 15
+p683
+aVSam Cassell NJN 11/28/1997 NJN @ LAC W 34 25 10 22 45.5 0 0 - 5 5 100.0 3 1 4 9 2 0 1 5 14
+p684
+aVChris Gatling NJN 11/28/1997 NJN @ LAC W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p685
+aVDavid Benoit NJN 11/28/1997 NJN @ LAC W 15 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 0 1 0 0 1 11
+p686
+aVSherman Douglas NJN 11/28/1997 NJN @ LAC W 14 14 5 7 71.4 0 0 - 4 4 100.0 3 1 4 2 0 1 0 1 -2
+p687
+aVKendall Gill NJN 11/28/1997 NJN @ LAC W 36 17 7 16 43.8 0 1 0.0 3 4 75.0 1 5 6 1 1 0 2 0 6
+p688
+aVYinka Dare NJN 11/28/1997 NJN @ LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p689
+aVJack Haley NJN 11/28/1997 NJN @ LAC W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 2
+p690
+aVKevin Edwards NJN 11/26/1997 NJN @ PHX L 4 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 0 -1
+p691
+aVXavier McDaniel NJN 11/26/1997 NJN @ PHX L 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p692
+aVChris Gatling NJN 11/26/1997 NJN @ PHX L 38 17 5 15 33.3 0 0 - 7 8 87.5 2 1 3 1 0 0 3 4 -13
+p693
+aVSam Cassell NJN 11/26/1997 NJN @ PHX L 37 24 9 23 39.1 0 1 0.0 6 6 100.0 1 1 2 7 0 2 4 5 -7
+p694
+aVSherman Douglas NJN 11/26/1997 NJN @ PHX L 19 10 4 7 57.1 1 1 100.0 1 1 100.0 1 0 1 2 3 0 0 2 -13
+p695
+aVJayson Williams NJN 11/26/1997 NJN @ PHX L 34 9 3 7 42.9 0 0 - 3 5 60.0 8 4 12 0 1 0 0 3 -12
+p696
+aVDavid Benoit NJN 11/26/1997 NJN @ PHX L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 1 3 8
+p697
+aVJack Haley NJN 11/26/1997 NJN @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p698
+aVMichael Cage NJN 11/26/1997 NJN @ PHX L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 1
+p699
+aVKerry Kittles NJN 11/26/1997 NJN @ PHX L 38 17 6 14 42.9 1 2 50.0 4 4 100.0 1 9 10 7 2 0 0 1 -7
+p700
+aVKendall Gill NJN 11/26/1997 NJN @ PHX L 30 11 3 13 23.1 0 1 0.0 5 6 83.3 2 1 3 5 1 2 2 3 -16
+p701
+aVDavid Benoit NJN 11/25/1997 NJN @ GSW W 11 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -6
+p702
+aVKendall Gill NJN 11/25/1997 NJN @ GSW W 36 16 6 10 60.0 2 3 66.7 2 2 100.0 1 7 8 8 3 1 3 4 22
+p703
+aVJayson Williams NJN 11/25/1997 NJN @ GSW W 37 12 4 7 57.1 0 0 - 4 8 50.0 6 6 12 2 0 0 2 3 18
+p704
+aVMichael Cage NJN 11/25/1997 NJN @ GSW W 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -4
+p705
+aVXavier McDaniel NJN 11/25/1997 NJN @ GSW W 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p706
+aVChris Gatling NJN 11/25/1997 NJN @ GSW W 36 14 5 12 41.7 0 0 - 4 5 80.0 0 9 9 0 3 1 3 1 17
+p707
+aVSherman Douglas NJN 11/25/1997 NJN @ GSW W 15 9 4 6 66.7 0 1 0.0 1 1 100.0 1 0 1 7 2 0 1 1 -6
+p708
+aVKerry Kittles NJN 11/25/1997 NJN @ GSW W 34 18 7 13 53.8 2 4 50.0 2 2 100.0 0 1 1 2 3 0 0 2 6
+p709
+aVKevin Edwards NJN 11/25/1997 NJN @ GSW W 13 4 2 5 40.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 8
+p710
+aVSam Cassell NJN 11/25/1997 NJN @ GSW W 34 18 5 17 29.4 0 0 - 8 8 100.0 2 4 6 9 4 0 4 2 20
+p711
+aVJack Haley NJN 11/25/1997 NJN @ GSW W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p712
+aVJayson Williams NJN 11/22/1997 NJN vs. POR W 31 15 7 15 46.7 0 0 - 1 1 100.0 6 5 11 0 2 2 3 4 1
+p713
+aVMichael Cage NJN 11/22/1997 NJN vs. POR W 17 2 0 2 0.0 0 0 - 2 2 100.0 2 5 7 0 0 1 1 0 5
+p714
+aVDavid Benoit NJN 11/22/1997 NJN vs. POR W 10 0 0 6 0.0 0 2 0.0 0 0 - 0 2 2 0 0 1 0 0 -4
+p715
+aVKevin Edwards NJN 11/22/1997 NJN vs. POR W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -4
+p716
+aVSam Cassell NJN 11/22/1997 NJN vs. POR W 40 17 5 16 31.3 0 0 - 7 8 87.5 2 4 6 13 5 0 1 5 12
+p717
+aVSherman Douglas NJN 11/22/1997 NJN vs. POR W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -6
+p718
+aVKerry Kittles NJN 11/22/1997 NJN vs. POR W 34 13 6 11 54.5 1 3 33.3 0 0 - 1 3 4 1 3 0 1 1 10
+p719
+aVKendall Gill NJN 11/22/1997 NJN vs. POR W 37 19 6 13 46.2 1 2 50.0 6 8 75.0 4 4 8 5 5 0 5 5 12
+p720
+aVChris Gatling NJN 11/22/1997 NJN vs. POR W 41 23 9 22 40.9 0 0 - 5 12 41.7 7 3 10 0 1 2 1 3 7
+p721
+aVXavier McDaniel NJN 11/22/1997 NJN vs. POR W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p722
+aVChris Gatling NJN 11/21/1997 NJN @ BOS L 38 22 7 16 43.8 0 1 0.0 8 12 66.7 2 6 8 0 0 2 3 5 -14
+p723
+aVMichael Cage NJN 11/21/1997 NJN @ BOS L 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -2
+p724
+aVXavier McDaniel NJN 11/21/1997 NJN @ BOS L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 3
+p725
+aVKevin Edwards NJN 11/21/1997 NJN @ BOS L 22 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 1 1 0 1 2 -7
+p726
+aVSam Cassell NJN 11/21/1997 NJN @ BOS L 27 14 2 8 25.0 0 0 - 10 12 83.3 2 3 5 6 1 0 4 6 -9
+p727
+aVDavid Benoit NJN 11/21/1997 NJN @ BOS L 6 2 1 4 25.0 0 0 - 0 1 0.0 1 0 1 0 1 0 0 0 7
+p728
+aVKerry Kittles NJN 11/21/1997 NJN @ BOS L 38 9 3 11 27.3 1 4 25.0 2 2 100.0 2 0 2 1 0 1 2 3 -5
+p729
+aVJayson Williams NJN 11/21/1997 NJN @ BOS L 37 13 6 9 66.7 0 0 - 1 6 16.7 4 3 7 1 1 0 2 5 -4
+p730
+aVSherman Douglas NJN 11/21/1997 NJN @ BOS L 22 7 2 6 33.3 0 0 - 3 4 75.0 1 1 2 2 1 0 6 3 -4
+p731
+aVKendall Gill NJN 11/21/1997 NJN @ BOS L 34 14 6 13 46.2 1 1 100.0 1 4 25.0 3 4 7 9 4 2 2 5 -5
+p732
+aVMichael Cage NJN 11/19/1997 NJN vs. BOS W 10 2 1 2 50.0 0 0 - 0 2 0.0 2 3 5 0 0 2 1 0 1
+p733
+aVXavier McDaniel NJN 11/19/1997 NJN vs. BOS W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 8
+p734
+aVChris Gatling NJN 11/19/1997 NJN vs. BOS W 35 17 7 13 53.8 0 0 - 3 10 30.0 5 5 10 5 2 1 4 4 0
+p735
+aVKerry Kittles NJN 11/19/1997 NJN vs. BOS W 41 12 4 14 28.6 0 0 - 4 5 80.0 2 2 4 2 0 0 3 1 12
+p736
+aVSherman Douglas NJN 11/19/1997 NJN vs. BOS W 33 12 4 8 50.0 0 0 - 4 10 40.0 0 2 2 6 1 2 2 3 22
+p737
+aVKendall Gill NJN 11/19/1997 NJN vs. BOS W 29 11 4 6 66.7 0 0 - 3 5 60.0 0 1 1 4 3 0 2 6 5
+p738
+aVDavid Benoit NJN 11/19/1997 NJN vs. BOS W 9 5 1 5 20.0 1 3 33.3 2 2 100.0 0 1 1 0 1 1 1 2 -6
+p739
+aVSam Cassell NJN 11/19/1997 NJN vs. BOS W 32 20 8 17 47.1 0 0 - 4 8 50.0 1 3 4 3 3 1 6 3 -9
+p740
+aVJayson Williams NJN 11/19/1997 NJN vs. BOS W 38 27 8 12 66.7 0 0 - 11 14 78.6 10 3 13 1 2 2 1 5 7
+p741
+aVKendall Gill NJN 11/16/1997 NJN @ CLE W 35 11 3 12 25.0 0 2 0.0 5 6 83.3 2 5 7 5 1 0 2 2 7
+p742
+aVXavier McDaniel NJN 11/16/1997 NJN @ CLE W 20 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 4 8
+p743
+aVMichael Cage NJN 11/16/1997 NJN @ CLE W 28 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 1 0 1 3 -6
+p744
+aVJayson Williams NJN 11/16/1997 NJN @ CLE W 38 4 2 12 16.7 0 0 - 0 2 0.0 8 8 16 2 1 0 2 3 2
+p745
+aVDavid Benoit NJN 11/16/1997 NJN @ CLE W 11 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 0 0 2 1 0
+p746
+aVKerry Kittles NJN 11/16/1997 NJN @ CLE W 44 23 8 23 34.8 0 3 0.0 7 8 87.5 3 4 7 4 1 0 1 3 6
+p747
+aVJack Haley NJN 11/16/1997 NJN @ CLE W 10 6 1 1 100.0 0 0 - 4 6 66.7 1 1 2 0 0 0 0 3 3
+p748
+aVSam Cassell NJN 11/16/1997 NJN @ CLE W 17 3 0 7 0.0 0 0 - 3 4 75.0 1 0 1 4 1 0 1 5 5
+p749
+aVSherman Douglas NJN 11/16/1997 NJN @ CLE W 38 25 10 19 52.6 3 3 100.0 2 4 50.0 2 1 3 5 1 0 1 2 0
+p750
+aVSherman Douglas NJN 11/15/1997 NJN @ DET L 25 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 5 2 0 1 1 10
+p751
+aVKerry Kittles NJN 11/15/1997 NJN @ DET L 40 16 5 21 23.8 1 3 33.3 5 5 100.0 1 2 3 4 2 0 2 4 -20
+p752
+aVJack Haley NJN 11/15/1997 NJN @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p753
+aVYinka Dare NJN 11/15/1997 NJN @ DET L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p754
+aVKendall Gill NJN 11/15/1997 NJN @ DET L 41 19 9 20 45.0 0 1 0.0 1 4 25.0 2 4 6 0 1 0 2 4 -14
+p755
+aVXavier McDaniel NJN 11/15/1997 NJN @ DET L 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 5 -3
+p756
+aVSam Cassell NJN 11/15/1997 NJN @ DET L 43 29 10 20 50.0 1 3 33.3 8 9 88.9 0 1 1 8 1 0 7 1 -9
+p757
+aVJayson Williams NJN 11/15/1997 NJN @ DET L 48 13 5 9 55.6 0 0 - 3 4 75.0 7 11 18 1 1 1 1 2 -2
+p758
+aVDavid Benoit NJN 11/15/1997 NJN @ DET L 13 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 4 8
+p759
+aVMichael Cage NJN 11/15/1997 NJN @ DET L 34 0 0 1 0.0 0 0 - 0 2 0.0 2 3 5 2 3 1 0 6 -4
+p760
+aVChris Gatling NJN 11/13/1997 NJN vs. CLE L 21 5 0 5 0.0 0 0 - 5 10 50.0 3 2 5 1 1 1 2 3 -13
+p761
+aVSherman Douglas NJN 11/13/1997 NJN vs. CLE L 45 10 5 14 35.7 0 0 - 0 0 - 5 2 7 3 1 0 3 5 -8
+p762
+aVDavid Benoit NJN 11/13/1997 NJN vs. CLE L 20 3 1 5 20.0 0 1 0.0 1 2 50.0 0 3 3 0 1 0 3 2 -15
+p763
+aVKendall Gill NJN 11/13/1997 NJN vs. CLE L 44 11 4 16 25.0 1 2 50.0 2 2 100.0 2 1 3 2 1 1 4 3 -7
+p764
+aVMichael Cage NJN 11/13/1997 NJN vs. CLE L 23 0 0 0 - 0 0 - 0 2 0.0 2 1 3 0 0 2 0 4 0
+p765
+aVYinka Dare NJN 11/13/1997 NJN vs. CLE L 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p766
+aVSam Cassell NJN 11/13/1997 NJN vs. CLE L 40 32 10 22 45.5 1 2 50.0 11 11 100.0 1 4 5 3 0 1 5 3 -6
+p767
+aVJayson Williams NJN 11/13/1997 NJN vs. CLE L 42 13 3 11 27.3 0 0 - 7 10 70.0 12 14 26 0 2 1 5 4 -3
+p768
+aVMichael Cage NJN 11/08/1997 NJN @ CHI L 13 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 1 0
+p769
+aVChris Gatling NJN 11/08/1997 NJN @ CHI L 40 15 5 17 29.4 0 0 - 5 8 62.5 3 6 9 1 1 1 2 2 -11
+p770
+aVSam Cassell NJN 11/08/1997 NJN @ CHI L 40 19 7 15 46.7 0 0 - 5 6 83.3 1 0 1 7 4 0 6 4 -11
+p771
+aVKevin Edwards NJN 11/08/1997 NJN @ CHI L 24 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 3 2 0 0 1 -13
+p772
+aVDavid Benoit NJN 11/08/1997 NJN @ CHI L 29 8 3 7 42.9 0 1 0.0 2 2 100.0 1 3 4 0 3 0 0 2 -6
+p773
+aVSherman Douglas NJN 11/08/1997 NJN @ CHI L 27 8 4 8 50.0 0 0 - 0 0 - 1 0 1 3 0 0 2 3 -1
+p774
+aVJayson Williams NJN 11/08/1997 NJN @ CHI L 30 12 4 8 50.0 0 0 - 4 5 80.0 1 0 1 0 1 0 2 3 -7
+p775
+aVKendall Gill NJN 11/08/1997 NJN @ CHI L 36 17 3 12 25.0 0 0 - 11 12 91.7 1 5 6 2 2 0 3 5 -16
+p776
+aVJayson Williams NJN 11/07/1997 NJN vs. MIA W 29 18 7 11 63.6 0 0 - 4 4 100.0 6 4 10 0 1 1 3 6 -5
+p777
+aVSam Cassell NJN 11/07/1997 NJN vs. MIA W 40 18 5 15 33.3 0 1 0.0 8 10 80.0 1 0 1 13 4 0 3 3 13
+p778
+aVKevin Edwards NJN 11/07/1997 NJN vs. MIA W 16 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 1 -7
+p779
+aVDavid Benoit NJN 11/07/1997 NJN vs. MIA W 14 7 3 7 42.9 1 1 100.0 0 0 - 1 1 2 0 1 0 1 4 5
+p780
+aVKendall Gill NJN 11/07/1997 NJN vs. MIA W 44 19 8 14 57.1 0 1 0.0 3 5 60.0 2 2 4 0 2 6 1 3 16
+p781
+aVMichael Cage NJN 11/07/1997 NJN vs. MIA W 17 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 0 6
+p782
+aVKerry Kittles NJN 11/07/1997 NJN vs. MIA W 23 3 1 6 16.7 0 1 0.0 1 2 50.0 1 3 4 4 0 0 0 2 9
+p783
+aVChris Gatling NJN 11/07/1997 NJN vs. MIA W 38 24 11 21 52.4 0 0 - 2 8 25.0 4 8 12 1 2 0 1 3 10
+p784
+aVSherman Douglas NJN 11/07/1997 NJN vs. MIA W 19 4 2 5 40.0 0 0 - 0 1 0.0 1 1 2 3 0 0 3 3 13
+p785
+aVKendall Gill NJN 11/05/1997 NJN vs. GSW W 31 14 6 12 50.0 0 1 0.0 2 5 40.0 1 4 5 5 3 1 1 1 22
+p786
+aVSherman Douglas NJN 11/05/1997 NJN vs. GSW W 27 11 4 8 50.0 0 0 - 3 6 50.0 2 4 6 13 3 0 1 1 7
+p787
+aVYinka Dare NJN 11/05/1997 NJN vs. GSW W 14 4 1 6 16.7 0 0 - 2 4 50.0 5 1 6 1 0 0 0 4 -6
+p788
+aVKevin Edwards NJN 11/05/1997 NJN vs. GSW W 34 15 6 9 66.7 1 2 50.0 2 2 100.0 0 5 5 2 1 0 1 0 11
+p789
+aVMichael Cage NJN 11/05/1997 NJN vs. GSW W 25 2 0 0 - 0 0 - 2 2 100.0 0 4 4 2 0 4 0 4 -13
+p790
+aVChris Gatling NJN 11/05/1997 NJN vs. GSW W 25 21 9 17 52.9 0 1 0.0 3 9 33.3 3 6 9 1 1 0 1 5 26
+p791
+aVDavid Benoit NJN 11/05/1997 NJN vs. GSW W 19 12 5 13 38.5 2 5 40.0 0 0 - 0 3 3 0 0 1 0 4 -10
+p792
+aVSam Cassell NJN 11/05/1997 NJN vs. GSW W 33 19 7 13 53.8 0 0 - 5 7 71.4 1 1 2 7 0 0 4 2 18
+p793
+aVJayson Williams NJN 11/05/1997 NJN vs. GSW W 32 14 3 12 25.0 0 0 - 8 9 88.9 5 10 15 1 0 1 2 3 25
+p794
+aVChris Gatling NJN 11/01/1997 NJN @ MIL W 41 25 11 20 55.0 0 0 - 3 11 27.3 3 8 11 1 2 2 4 4 4
+p795
+aVMichael Cage NJN 11/01/1997 NJN @ MIL W 12 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 0
+p796
+aVKendall Gill NJN 11/01/1997 NJN @ MIL W 40 16 7 17 41.2 0 0 - 2 3 66.7 0 4 4 1 4 1 4 2 -3
+p797
+aVKevin Edwards NJN 11/01/1997 NJN @ MIL W 20 5 1 5 20.0 0 1 0.0 3 4 75.0 0 0 0 1 3 0 1 3 -16
+p798
+aVYinka Dare NJN 11/01/1997 NJN @ MIL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p799
+aVSherman Douglas NJN 11/01/1997 NJN @ MIL W 28 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 6 0 0 3 2 20
+p800
+aVDavid Benoit NJN 11/01/1997 NJN @ MIL W 12 7 2 3 66.7 0 0 - 3 3 100.0 0 3 3 0 1 0 0 2 8
+p801
+aVJayson Williams NJN 11/01/1997 NJN @ MIL W 46 11 4 8 50.0 0 0 - 3 3 100.0 7 6 13 0 0 0 2 5 5
+p802
+aVLucious Harris NJN 11/01/1997 NJN @ MIL W 20 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 2 1 0 2 3 9
+p803
+aVSam Cassell NJN 11/01/1997 NJN @ MIL W 40 33 9 14 64.3 0 2 0.0 15 19 78.9 0 3 3 7 2 0 1 5 -6
+p804
+aVYinka Dare NJN 10/31/1997 NJN vs. IND W 8 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 0 1
+p805
+aVKevin Edwards NJN 10/31/1997 NJN vs. IND W 32 4 2 10 20.0 0 2 0.0 0 0 - 2 0 2 2 3 0 0 4 -6
+p806
+aVLucious Harris NJN 10/31/1997 NJN vs. IND W 17 3 0 3 0.0 0 0 - 3 4 75.0 0 1 1 0 1 0 0 3 8
+p807
+aVJayson Williams NJN 10/31/1997 NJN vs. IND W 40 18 8 18 44.4 0 0 - 2 6 33.3 17 3 20 1 3 2 3 2 1
+p808
+aVKendall Gill NJN 10/31/1997 NJN vs. IND W 36 20 7 18 38.9 0 2 0.0 6 8 75.0 2 6 8 1 1 0 1 3 2
+p809
+aVMichael Cage NJN 10/31/1997 NJN vs. IND W 17 8 3 5 60.0 0 0 - 2 4 50.0 4 5 9 0 0 0 1 3 19
+p810
+aVDavid Benoit NJN 10/31/1997 NJN vs. IND W 8 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -7
+p811
+aVSherman Douglas NJN 10/31/1997 NJN vs. IND W 19 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 2 0 0 0 0 3
+p812
+aVSam Cassell NJN 10/31/1997 NJN vs. IND W 36 18 3 16 18.8 0 2 0.0 12 12 100.0 1 2 3 8 1 0 0 5 1
+p813
+aVChris Gatling NJN 10/31/1997 NJN vs. IND W 26 10 5 15 33.3 0 0 - 0 1 0.0 2 0 2 0 1 0 1 3 -12
+p814
+a.

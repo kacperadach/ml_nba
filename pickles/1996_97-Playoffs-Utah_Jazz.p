@@ -1,0 +1,428 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJeff Hornacek UTA 06/13/1997 UTA @ CHI L 35 18 4 9 44.4 2 4 50.0 8 9 88.9 0 4 4 1 1 0 0 5 -1
+p2
+aVJohn Stockton UTA 06/13/1997 UTA @ CHI L 36 13 5 9 55.6 0 1 0.0 3 3 100.0 0 6 6 5 1 2 3 3 -11
+p3
+aVGreg Ostertag UTA 06/13/1997 UTA @ CHI L 21 1 0 2 0.0 0 0 - 1 2 50.0 0 8 8 2 0 4 1 3 4
+p4
+aVShandon Anderson UTA 06/13/1997 UTA @ CHI L 25 8 2 10 20.0 0 1 0.0 4 6 66.7 1 2 3 0 1 0 0 1 -7
+p5
+aVKarl Malone UTA 06/13/1997 UTA @ CHI L 43 21 7 15 46.7 0 0 - 7 15 46.7 3 4 7 2 4 0 2 3 -6
+p6
+aVChris Morris UTA 06/13/1997 UTA @ CHI L 11 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 3 -7
+p7
+aVAntoine Carr UTA 06/13/1997 UTA @ CHI L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p8
+aVGreg Foster UTA 06/13/1997 UTA @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p9
+aVBryon Russell UTA 06/13/1997 UTA @ CHI L 43 17 5 10 50.0 5 8 62.5 2 2 100.0 0 3 3 0 1 0 3 4 -1
+p10
+aVHoward Eisley UTA 06/13/1997 UTA @ CHI L 11 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 3 0 0 1 1 7
+p11
+aVAntoine Carr UTA 06/11/1997 UTA vs. CHI L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 3 -15
+p12
+aVJeff Hornacek UTA 06/11/1997 UTA vs. CHI L 28 7 2 11 18.2 1 4 25.0 2 3 66.7 1 4 5 2 0 0 2 4 -5
+p13
+aVChris Morris UTA 06/11/1997 UTA vs. CHI L 14 11 4 7 57.1 3 5 60.0 0 0 - 0 2 2 0 1 1 0 0 3
+p14
+aVGreg Foster UTA 06/11/1997 UTA vs. CHI L 16 6 0 3 0.0 0 0 - 6 6 100.0 0 6 6 1 0 0 1 3 -16
+p15
+aVShandon Anderson UTA 06/11/1997 UTA vs. CHI L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -11
+p16
+aVGreg Ostertag UTA 06/11/1997 UTA vs. CHI L 34 13 5 8 62.5 0 0 - 3 4 75.0 7 8 15 0 0 3 2 3 12
+p17
+aVKarl Malone UTA 06/11/1997 UTA vs. CHI L 33 19 7 17 41.2 0 1 0.0 5 9 55.6 1 6 7 6 0 1 2 5 13
+p18
+aVHoward Eisley UTA 06/11/1997 UTA vs. CHI L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 4 1 0 0 0 17
+p19
+aVAdam Keefe UTA 06/11/1997 UTA vs. CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p20
+aVBryon Russell UTA 06/11/1997 UTA vs. CHI L 40 11 4 10 40.0 3 5 60.0 0 0 - 2 5 7 1 0 0 0 2 9
+p21
+aVJohn Stockton UTA 06/11/1997 UTA vs. CHI L 36 13 5 10 50.0 1 4 25.0 2 3 66.7 2 1 3 5 1 0 3 3 -19
+p22
+aVHoward Eisley UTA 06/08/1997 UTA vs. CHI W 10 6 1 3 33.3 0 0 - 4 4 100.0 0 2 2 2 0 0 2 1 5
+p23
+aVJohn Stockton UTA 06/08/1997 UTA vs. CHI W 37 17 6 11 54.5 2 3 66.7 3 4 75.0 0 3 3 12 4 0 2 1 0
+p24
+aVAntoine Carr UTA 06/08/1997 UTA vs. CHI W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 4
+p25
+aVGreg Foster UTA 06/08/1997 UTA vs. CHI W 22 4 2 2 100.0 0 0 - 0 0 - 0 5 5 0 0 1 2 4 -5
+p26
+aVGreg Ostertag UTA 06/08/1997 UTA vs. CHI W 22 5 2 4 50.0 0 0 - 1 4 25.0 2 2 4 0 1 2 0 4 0
+p27
+aVJeff Hornacek UTA 06/08/1997 UTA vs. CHI W 38 13 5 11 45.5 1 2 50.0 2 3 66.7 0 3 3 2 0 0 2 1 9
+p28
+aVKarl Malone UTA 06/08/1997 UTA vs. CHI W 43 23 9 19 47.4 0 0 - 5 6 83.3 2 8 10 6 0 1 2 4 9
+p29
+aVAdam Keefe UTA 06/08/1997 UTA vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p30
+aVBryon Russell UTA 06/08/1997 UTA vs. CHI W 43 8 3 12 25.0 2 8 25.0 0 0 - 1 6 7 1 0 0 2 3 11
+p31
+aVChris Morris UTA 06/08/1997 UTA vs. CHI W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p32
+aVBryon Russell UTA 06/06/1997 UTA vs. CHI W 33 14 5 8 62.5 2 4 50.0 2 2 100.0 1 6 7 0 1 1 0 5 2
+p33
+aVJeff Hornacek UTA 06/06/1997 UTA vs. CHI W 38 4 1 9 11.1 0 3 0.0 2 2 100.0 2 2 4 5 1 0 2 1 8
+p34
+aVAntoine Carr UTA 06/06/1997 UTA vs. CHI W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p35
+aVAdam Keefe UTA 06/06/1997 UTA vs. CHI W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 6
+p36
+aVGreg Ostertag UTA 06/06/1997 UTA vs. CHI W 23 4 2 6 33.3 0 0 - 0 0 - 5 2 7 0 0 0 0 3 2
+p37
+aVChris Morris UTA 06/06/1997 UTA vs. CHI W 14 7 3 5 60.0 1 3 33.3 0 0 - 0 3 3 1 0 2 0 3 5
+p38
+aVJohn Stockton UTA 06/06/1997 UTA vs. CHI W 37 17 5 10 50.0 0 1 0.0 7 7 100.0 0 7 7 12 2 1 4 2 9
+p39
+aVHoward Eisley UTA 06/06/1997 UTA vs. CHI W 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 3 0 0 1 0 1
+p40
+aVGreg Foster UTA 06/06/1997 UTA vs. CHI W 23 17 5 10 50.0 1 2 50.0 6 7 85.7 3 3 6 1 1 1 0 1 7
+p41
+aVKarl Malone UTA 06/06/1997 UTA vs. CHI W 41 37 15 29 51.7 0 0 - 7 10 70.0 3 7 10 3 4 0 2 4 15
+p42
+aVHoward Eisley UTA 06/04/1997 UTA @ CHI L 8 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 2 0 0 1 1 2
+p43
+aVAdam Keefe UTA 06/04/1997 UTA @ CHI L 17 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 1 1 0 0 3 -6
+p44
+aVJohn Stockton UTA 06/04/1997 UTA @ CHI L 39 14 4 12 33.3 1 2 50.0 5 6 83.3 0 2 2 7 1 0 4 0 -14
+p45
+aVGreg Ostertag UTA 06/04/1997 UTA @ CHI L 12 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 3 -10
+p46
+aVChris Morris UTA 06/04/1997 UTA @ CHI L 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -6
+p47
+aVJeff Hornacek UTA 06/04/1997 UTA @ CHI L 31 19 5 9 55.6 1 2 50.0 8 9 88.9 1 1 2 2 2 0 3 6 -9
+p48
+aVShandon Anderson UTA 06/04/1997 UTA @ CHI L 26 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 1 2 0 0 3 7
+p49
+aVAntoine Carr UTA 06/04/1997 UTA @ CHI L 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -3
+p50
+aVBryon Russell UTA 06/04/1997 UTA @ CHI L 33 11 4 10 40.0 2 6 33.3 1 2 50.0 1 4 5 1 1 0 0 3 -10
+p51
+aVGreg Foster UTA 06/04/1997 UTA @ CHI L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 1 0 1 2 2
+p52
+aVKarl Malone UTA 06/04/1997 UTA @ CHI L 40 20 6 20 30.0 0 0 - 8 12 66.7 5 8 13 1 2 0 3 2 -13
+p53
+aVHoward Eisley UTA 06/01/1997 UTA @ CHI L 9 9 4 5 80.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 3 1
+p54
+aVJohn Stockton UTA 06/01/1997 UTA @ CHI L 38 16 6 10 60.0 2 4 50.0 2 3 66.7 1 2 3 12 3 0 7 2 -3
+p55
+aVGreg Ostertag UTA 06/01/1997 UTA @ CHI L 17 2 1 4 25.0 0 0 - 0 0 - 3 4 7 0 2 0 2 3 -1
+p56
+aVJeff Hornacek UTA 06/01/1997 UTA @ CHI L 32 11 5 9 55.6 1 1 100.0 0 0 - 0 3 3 1 0 0 0 3 -3
+p57
+aVAntoine Carr UTA 06/01/1997 UTA @ CHI L 20 6 3 8 37.5 0 0 - 0 0 - 2 5 7 1 0 0 1 4 2
+p58
+aVBryon Russell UTA 06/01/1997 UTA @ CHI L 40 7 2 9 22.2 1 3 33.3 2 2 100.0 1 5 6 1 2 0 1 2 -3
+p59
+aVChris Morris UTA 06/01/1997 UTA @ CHI L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p60
+aVKarl Malone UTA 06/01/1997 UTA @ CHI L 41 23 10 22 45.5 0 0 - 3 6 50.0 5 10 15 3 0 0 3 1 -5
+p61
+aVShandon Anderson UTA 06/01/1997 UTA @ CHI L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 2 2 1
+p62
+aVGreg Foster UTA 06/01/1997 UTA @ CHI L 16 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 0
+p63
+aVJeff Hornacek UTA 05/29/1997 UTA @ HOU W 37 18 7 15 46.7 2 3 66.7 2 2 100.0 2 2 4 1 1 1 1 1 21
+p64
+aVGreg Ostertag UTA 05/29/1997 UTA @ HOU W 37 16 6 6 100.0 0 0 - 4 4 100.0 3 11 14 0 1 3 0 6 6
+p65
+aVAntoine Carr UTA 05/29/1997 UTA @ HOU W 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 3 3 -13
+p66
+aVShandon Anderson UTA 05/29/1997 UTA @ HOU W 11 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -24
+p67
+aVBryon Russell UTA 05/29/1997 UTA @ HOU W 44 15 6 8 75.0 3 5 60.0 0 0 - 0 1 1 1 1 0 0 3 16
+p68
+aVKarl Malone UTA 05/29/1997 UTA @ HOU W 43 24 11 24 45.8 0 0 - 2 4 50.0 2 9 11 5 3 2 1 2 10
+p69
+aVJohn Stockton UTA 05/29/1997 UTA @ HOU W 37 25 8 15 53.3 3 6 50.0 6 6 100.0 2 0 2 13 2 0 4 3 9
+p70
+aVChris Morris UTA 05/29/1997 UTA @ HOU W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p71
+aVGreg Foster UTA 05/29/1997 UTA @ HOU W 6 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 3
+p72
+aVHoward Eisley UTA 05/29/1997 UTA @ HOU W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 3 -6
+p73
+aVHoward Eisley UTA 05/27/1997 UTA vs. HOU W 15 10 3 6 50.0 1 2 50.0 3 3 100.0 0 1 1 1 1 0 2 1 1
+p74
+aVJohn Stockton UTA 05/27/1997 UTA vs. HOU W 32 17 6 7 85.7 1 1 100.0 4 4 100.0 0 0 0 6 0 0 5 4 4
+p75
+aVGreg Foster UTA 05/27/1997 UTA vs. HOU W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -4
+p76
+aVAntoine Carr UTA 05/27/1997 UTA vs. HOU W 20 10 4 5 80.0 0 0 - 2 2 100.0 0 2 2 0 2 0 0 6 4
+p77
+aVGreg Ostertag UTA 05/27/1997 UTA vs. HOU W 21 4 2 4 50.0 0 0 - 0 2 0.0 1 3 4 0 2 2 0 3 1
+p78
+aVKarl Malone UTA 05/27/1997 UTA vs. HOU W 44 29 11 22 50.0 0 0 - 7 8 87.5 3 11 14 4 0 1 3 3 9
+p79
+aVShandon Anderson UTA 05/27/1997 UTA vs. HOU W 14 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 1 0 2 0 5
+p80
+aVBryon Russell UTA 05/27/1997 UTA vs. HOU W 40 13 4 11 36.4 1 7 14.3 4 4 100.0 1 3 4 2 1 1 0 3 -5
+p81
+aVChris Morris UTA 05/27/1997 UTA vs. HOU W 6 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 0 7
+p82
+aVJeff Hornacek UTA 05/27/1997 UTA vs. HOU W 35 11 3 9 33.3 0 2 0.0 5 5 100.0 2 3 5 4 3 0 2 0 3
+p83
+aVAdam Keefe UTA 05/25/1997 UTA @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p84
+aVShandon Anderson UTA 05/25/1997 UTA @ HOU L 18 8 2 7 28.6 0 1 0.0 4 4 100.0 4 5 9 0 1 1 0 0 -1
+p85
+aVGreg Foster UTA 05/25/1997 UTA @ HOU L 27 4 1 6 16.7 0 1 0.0 2 2 100.0 3 2 5 0 0 0 1 5 -9
+p86
+aVKarl Malone UTA 05/25/1997 UTA @ HOU L 40 22 10 28 35.7 0 0 - 2 2 100.0 3 7 10 5 3 0 3 4 -1
+p87
+aVHoward Eisley UTA 05/25/1997 UTA @ HOU L 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 5 0 0 1 0 -3
+p88
+aVAntoine Carr UTA 05/25/1997 UTA @ HOU L 10 6 3 6 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -2
+p89
+aVChris Morris UTA 05/25/1997 UTA @ HOU L 6 1 0 0 - 0 0 - 1 3 33.3 0 2 2 0 0 0 0 0 3
+p90
+aVBryon Russell UTA 05/25/1997 UTA @ HOU L 37 9 3 6 50.0 2 5 40.0 1 2 50.0 0 3 3 2 2 1 1 3 -1
+p91
+aVJohn Stockton UTA 05/25/1997 UTA @ HOU L 37 22 9 12 75.0 0 1 0.0 4 5 80.0 1 3 4 8 1 0 0 2 0
+p92
+aVGreg Ostertag UTA 05/25/1997 UTA @ HOU L 17 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 0 0 1 0 4 6
+p93
+aVJeff Hornacek UTA 05/25/1997 UTA @ HOU L 34 14 5 12 41.7 0 0 - 4 5 80.0 0 2 2 5 1 0 1 2 -7
+p94
+aVGreg Foster UTA 05/23/1997 UTA @ HOU L 22 7 2 6 33.3 0 1 0.0 3 3 100.0 2 1 3 0 0 0 1 4 -28
+p95
+aVJeff Hornacek UTA 05/23/1997 UTA @ HOU L 36 9 4 10 40.0 0 1 0.0 1 2 50.0 1 1 2 6 2 1 0 1 1
+p96
+aVAntoine Carr UTA 05/23/1997 UTA @ HOU L 10 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 5 -9
+p97
+aVStephen Howard UTA 05/23/1997 UTA @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p98
+aVChris Morris UTA 05/23/1997 UTA @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -1
+p99
+aVBryon Russell UTA 05/23/1997 UTA @ HOU L 38 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 1 1 0 0 2 -22
+p100
+aVJohn Stockton UTA 05/23/1997 UTA @ HOU L 36 17 8 19 42.1 0 3 0.0 1 1 100.0 1 2 3 10 0 0 4 1 -14
+p101
+aVShandon Anderson UTA 05/23/1997 UTA @ HOU L 16 5 2 5 40.0 1 2 50.0 0 0 - 1 2 3 1 1 0 2 1 -14
+p102
+aVKarl Malone UTA 05/23/1997 UTA @ HOU L 38 21 9 14 64.3 1 1 100.0 2 5 40.0 1 5 6 2 0 2 3 2 -2
+p103
+aVGreg Ostertag UTA 05/23/1997 UTA @ HOU L 23 15 4 10 40.0 0 0 - 7 7 100.0 2 7 9 0 1 1 2 6 8
+p104
+aVHoward Eisley UTA 05/23/1997 UTA @ HOU L 11 10 4 7 57.1 2 3 66.7 0 0 - 1 0 1 3 0 0 0 1 -4
+p105
+aVJohn Stockton UTA 05/21/1997 UTA vs. HOU W 40 26 7 14 50.0 0 0 - 12 12 100.0 3 5 8 12 0 1 2 2 0
+p106
+aVStephen Howard UTA 05/21/1997 UTA vs. HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p107
+aVAntoine Carr UTA 05/21/1997 UTA vs. HOU W 19 4 1 4 25.0 0 0 - 2 2 100.0 2 4 6 0 0 2 0 5 0
+p108
+aVChris Morris UTA 05/21/1997 UTA vs. HOU W 6 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 0
+p109
+aVGreg Ostertag UTA 05/21/1997 UTA vs. HOU W 13 2 0 5 0.0 0 0 - 2 2 100.0 3 4 7 0 0 2 2 2 -2
+p110
+aVBryon Russell UTA 05/21/1997 UTA vs. HOU W 38 12 5 9 55.6 1 4 25.0 1 2 50.0 2 4 6 2 1 2 1 1 9
+p111
+aVShandon Anderson UTA 05/21/1997 UTA vs. HOU W 15 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 2 5
+p112
+aVHoward Eisley UTA 05/21/1997 UTA vs. HOU W 7 7 2 3 66.7 1 2 50.0 2 2 100.0 0 1 1 2 0 0 0 2 12
+p113
+aVKarl Malone UTA 05/21/1997 UTA vs. HOU W 40 24 9 21 42.9 0 0 - 6 10 60.0 3 12 15 1 1 2 2 4 8
+p114
+aVJeff Hornacek UTA 05/21/1997 UTA vs. HOU W 35 17 6 9 66.7 1 2 50.0 4 5 80.0 1 5 6 3 1 0 4 4 10
+p115
+aVGreg Foster UTA 05/21/1997 UTA vs. HOU W 20 6 3 5 60.0 0 1 0.0 0 0 - 2 1 3 0 0 1 1 2 23
+p116
+aVJeff Hornacek UTA 05/19/1997 UTA vs. HOU W 31 19 6 12 50.0 1 3 33.3 6 7 85.7 1 3 4 4 1 0 2 4 8
+p117
+aVChris Morris UTA 05/19/1997 UTA vs. HOU W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p118
+aVShandon Anderson UTA 05/19/1997 UTA vs. HOU W 22 11 5 7 71.4 1 1 100.0 0 0 - 4 1 5 1 1 0 2 4 16
+p119
+aVGreg Ostertag UTA 05/19/1997 UTA vs. HOU W 21 8 4 7 57.1 0 0 - 0 0 - 4 6 10 1 1 2 1 5 13
+p120
+aVGreg Foster UTA 05/19/1997 UTA vs. HOU W 14 9 3 5 60.0 1 2 50.0 2 2 100.0 1 3 4 1 0 0 1 4 5
+p121
+aVBryon Russell UTA 05/19/1997 UTA vs. HOU W 34 6 3 10 30.0 0 4 0.0 0 0 - 0 2 2 1 2 0 0 2 -1
+p122
+aVAntoine Carr UTA 05/19/1997 UTA vs. HOU W 19 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 0 1 1 1 4 11
+p123
+aVKarl Malone UTA 05/19/1997 UTA vs. HOU W 38 21 6 16 37.5 0 0 - 9 11 81.8 3 10 13 2 1 0 5 3 3
+p124
+aVStephen Howard UTA 05/19/1997 UTA vs. HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p125
+aVHoward Eisley UTA 05/19/1997 UTA vs. HOU W 14 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 1 1 0 1 1 -3
+p126
+aVJohn Stockton UTA 05/19/1997 UTA vs. HOU W 33 16 5 13 38.5 2 2 100.0 4 5 80.0 1 5 6 13 2 0 2 3 18
+p127
+aVShandon Anderson UTA 05/12/1997 UTA vs. LAL W 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 2 2 -5
+p128
+aVBryon Russell UTA 05/12/1997 UTA vs. LAL W 46 22 7 13 53.8 2 6 33.3 6 6 100.0 0 2 2 1 0 0 0 1 7
+p129
+aVKarl Malone UTA 05/12/1997 UTA vs. LAL W 48 32 9 21 42.9 0 0 - 14 18 77.8 5 15 20 3 1 0 1 2 7
+p130
+aVChris Morris UTA 05/12/1997 UTA vs. LAL W 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -2
+p131
+aVJohn Stockton UTA 05/12/1997 UTA vs. LAL W 43 24 11 13 84.6 1 2 50.0 1 2 50.0 0 1 1 10 1 0 4 3 10
+p132
+aVGreg Ostertag UTA 05/12/1997 UTA vs. LAL W 37 0 0 4 0.0 0 0 - 0 0 - 4 6 10 0 0 9 1 5 16
+p133
+aVGreg Foster UTA 05/12/1997 UTA vs. LAL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -6
+p134
+aVHoward Eisley UTA 05/12/1997 UTA vs. LAL W 9 3 1 5 20.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 2 -5
+p135
+aVAntoine Carr UTA 05/12/1997 UTA vs. LAL W 12 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 0 2 5 -7
+p136
+aVJeff Hornacek UTA 05/12/1997 UTA vs. LAL W 44 9 2 10 20.0 0 4 0.0 5 7 71.4 1 5 6 2 0 0 3 2 10
+p137
+aVGreg Foster UTA 05/10/1997 UTA @ LAL W 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 3 -6
+p138
+aVBryon Russell UTA 05/10/1997 UTA @ LAL W 45 29 12 20 60.0 4 9 44.4 1 1 100.0 2 8 10 3 1 0 4 4 25
+p139
+aVJohn Stockton UTA 05/10/1997 UTA @ LAL W 39 11 5 12 41.7 1 2 50.0 0 1 0.0 2 3 5 11 5 0 4 3 37
+p140
+aVGreg Ostertag UTA 05/10/1997 UTA @ LAL W 31 2 0 3 0.0 0 0 - 2 2 100.0 2 3 5 0 1 2 0 5 27
+p141
+aVChris Morris UTA 05/10/1997 UTA @ LAL W 2 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -7
+p142
+aVHoward Eisley UTA 05/10/1997 UTA @ LAL W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -22
+p143
+aVKarl Malone UTA 05/10/1997 UTA @ LAL W 38 42 12 27 44.4 0 0 - 18 18 100.0 2 7 9 3 0 0 2 4 10
+p144
+aVShandon Anderson UTA 05/10/1997 UTA @ LAL W 11 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 0
+p145
+aVAntoine Carr UTA 05/10/1997 UTA @ LAL W 10 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 1 1 0 1 3 -1
+p146
+aVJeff Hornacek UTA 05/10/1997 UTA @ LAL W 37 14 3 8 37.5 1 3 33.3 7 8 87.5 1 5 6 6 0 0 0 2 12
+p147
+aVGreg Ostertag UTA 05/08/1997 UTA @ LAL L 13 1 0 3 0.0 0 0 - 1 2 50.0 3 2 5 0 0 1 1 3 -1
+p148
+aVHoward Eisley UTA 05/08/1997 UTA @ LAL L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 6 2
+p149
+aVChris Morris UTA 05/08/1997 UTA @ LAL L 7 5 1 3 33.3 0 2 0.0 3 4 75.0 0 0 0 1 1 0 1 2 1
+p150
+aVJeff Hornacek UTA 05/08/1997 UTA @ LAL L 38 26 9 14 64.3 1 3 33.3 7 7 100.0 0 0 0 4 1 0 3 1 -8
+p151
+aVAdam Keefe UTA 05/08/1997 UTA @ LAL L 15 5 1 2 50.0 0 0 - 3 4 75.0 2 3 5 1 0 0 1 1 6
+p152
+aVStephen Howard UTA 05/08/1997 UTA @ LAL L 8 9 3 4 75.0 0 0 - 3 4 75.0 0 1 1 0 1 0 0 1 5
+p153
+aVJohn Stockton UTA 05/08/1997 UTA @ LAL L 26 5 0 6 0.0 0 2 0.0 5 6 83.3 2 2 4 8 0 0 3 5 -26
+p154
+aVShandon Anderson UTA 05/08/1997 UTA @ LAL L 17 7 3 5 60.0 1 2 50.0 0 2 0.0 0 3 3 2 0 0 1 3 -8
+p155
+aVAntoine Carr UTA 05/08/1997 UTA @ LAL L 15 4 2 7 28.6 0 0 - 0 0 - 1 0 1 0 0 2 0 5 -15
+p156
+aVBryon Russell UTA 05/08/1997 UTA @ LAL L 34 7 2 11 18.2 1 6 16.7 2 2 100.0 1 4 5 0 1 0 1 2 -19
+p157
+aVKarl Malone UTA 05/08/1997 UTA @ LAL L 34 15 2 20 10.0 0 0 - 11 12 91.7 2 8 10 0 0 0 2 3 -19
+p158
+aVGreg Foster UTA 05/08/1997 UTA @ LAL L 14 0 0 4 0.0 0 0 - 0 0 - 2 1 3 1 0 1 1 1 -18
+p159
+aVJohn Stockton UTA 05/06/1997 UTA vs. LAL W 37 16 5 9 55.6 0 3 0.0 6 8 75.0 0 3 3 7 1 1 0 2 8
+p160
+aVShandon Anderson UTA 05/06/1997 UTA vs. LAL W 10 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p161
+aVBryon Russell UTA 05/06/1997 UTA vs. LAL W 33 14 5 7 71.4 2 4 50.0 2 2 100.0 1 5 6 4 2 0 2 6 8
+p162
+aVChris Morris UTA 05/06/1997 UTA vs. LAL W 13 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 0 -6
+p163
+aVKarl Malone UTA 05/06/1997 UTA vs. LAL W 43 31 12 26 46.2 0 0 - 7 9 77.8 4 7 11 5 2 1 7 2 11
+p164
+aVGreg Foster UTA 05/06/1997 UTA vs. LAL W 18 9 3 4 75.0 0 0 - 3 4 75.0 0 3 3 0 1 1 0 4 -2
+p165
+aVAntoine Carr UTA 05/06/1997 UTA vs. LAL W 15 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 2 -6
+p166
+aVHoward Eisley UTA 05/06/1997 UTA vs. LAL W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 1 -6
+p167
+aVGreg Ostertag UTA 05/06/1997 UTA vs. LAL W 19 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 0 0 4 1 6 1
+p168
+aVJeff Hornacek UTA 05/06/1997 UTA vs. LAL W 38 21 5 11 45.5 2 4 50.0 9 9 100.0 3 5 8 7 1 1 0 4 3
+p169
+aVAdam Keefe UTA 05/06/1997 UTA vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p170
+aVAntoine Carr UTA 05/04/1997 UTA vs. LAL W 17 6 3 5 60.0 0 0 - 0 2 0.0 1 0 1 1 1 1 1 3 20
+p171
+aVJeff Hornacek UTA 05/04/1997 UTA vs. LAL W 31 10 4 10 40.0 1 2 50.0 1 2 50.0 2 6 8 7 2 0 4 3 6
+p172
+aVBryon Russell UTA 05/04/1997 UTA vs. LAL W 34 9 3 11 27.3 2 6 33.3 1 4 25.0 2 3 5 2 0 1 1 2 -1
+p173
+aVChris Morris UTA 05/04/1997 UTA vs. LAL W 14 9 3 7 42.9 2 4 50.0 1 2 50.0 2 1 3 1 1 0 1 0 17
+p174
+aVKarl Malone UTA 05/04/1997 UTA vs. LAL W 38 23 9 21 42.9 0 0 - 5 10 50.0 3 10 13 0 2 2 3 3 5
+p175
+aVGreg Ostertag UTA 05/04/1997 UTA vs. LAL W 32 8 4 5 80.0 0 0 - 0 0 - 4 3 7 2 0 3 1 3 8
+p176
+aVShandon Anderson UTA 05/04/1997 UTA vs. LAL W 17 8 2 4 50.0 1 1 100.0 3 4 75.0 1 3 4 1 1 0 1 0 10
+p177
+aVGreg Foster UTA 05/04/1997 UTA vs. LAL W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p178
+aVHoward Eisley UTA 05/04/1997 UTA vs. LAL W 11 8 2 3 66.7 0 0 - 4 4 100.0 0 3 3 3 0 0 3 0 4
+p179
+aVJohn Stockton UTA 05/04/1997 UTA vs. LAL W 37 10 2 5 40.0 1 3 33.3 5 6 83.3 0 5 5 6 3 0 0 3 12
+p180
+aVBryon Russell UTA 04/28/1997 UTA @ LAC W 31 9 4 7 57.1 0 2 0.0 1 5 20.0 1 1 2 0 2 0 2 5 17
+p181
+aVKarl Malone UTA 04/28/1997 UTA @ LAC W 41 26 8 16 50.0 0 0 - 10 10 100.0 2 11 13 2 2 2 5 1 18
+p182
+aVJeff Hornacek UTA 04/28/1997 UTA @ LAC W 35 28 9 12 75.0 3 4 75.0 7 8 87.5 1 5 6 2 2 0 2 4 18
+p183
+aVStephen Howard UTA 04/28/1997 UTA @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p184
+aVShandon Anderson UTA 04/28/1997 UTA @ LAC W 14 0 0 2 0.0 0 1 0.0 0 2 0.0 4 2 6 0 1 0 0 2 -9
+p185
+aVGreg Foster UTA 04/28/1997 UTA @ LAC W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -12
+p186
+aVGreg Ostertag UTA 04/28/1997 UTA @ LAC W 19 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 3 1 3 18
+p187
+aVAntoine Carr UTA 04/28/1997 UTA @ LAC W 22 7 3 5 60.0 0 0 - 1 2 50.0 0 5 5 0 0 0 1 5 4
+p188
+aVChris Morris UTA 04/28/1997 UTA @ LAC W 14 8 3 6 50.0 1 2 50.0 1 2 50.0 0 4 4 0 1 0 0 1 -2
+p189
+aVHoward Eisley UTA 04/28/1997 UTA @ LAC W 12 8 3 4 75.0 1 1 100.0 1 1 100.0 0 1 1 2 0 0 0 0 0
+p190
+aVJohn Stockton UTA 04/28/1997 UTA @ LAC W 35 12 4 10 40.0 0 3 0.0 4 4 100.0 0 3 3 13 3 0 4 4 12
+p191
+aVShandon Anderson UTA 04/26/1997 UTA vs. LAC W 16 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 3 0 0 0 4 8
+p192
+aVKarl Malone UTA 04/26/1997 UTA vs. LAC W 41 39 12 25 48.0 0 0 - 15 19 78.9 4 7 11 2 1 1 1 3 10
+p193
+aVChris Morris UTA 04/26/1997 UTA vs. LAC W 13 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 1 2 0 1 2 15
+p194
+aVGreg Foster UTA 04/26/1997 UTA vs. LAC W 20 6 1 4 25.0 0 0 - 4 6 66.7 0 4 4 2 0 1 0 2 13
+p195
+aVBryon Russell UTA 04/26/1997 UTA vs. LAC W 32 6 2 5 40.0 0 2 0.0 2 3 66.7 1 2 3 1 0 0 1 4 -8
+p196
+aVGreg Ostertag UTA 04/26/1997 UTA vs. LAC W 16 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 1 1 2 3 -13
+p197
+aVAdam Keefe UTA 04/26/1997 UTA vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p198
+aVJohn Stockton UTA 04/26/1997 UTA vs. LAC W 36 18 7 11 63.6 2 4 50.0 2 2 100.0 0 3 3 4 2 0 3 3 -2
+p199
+aVJeff Hornacek UTA 04/26/1997 UTA vs. LAC W 31 11 3 10 30.0 1 4 25.0 4 4 100.0 2 5 7 4 2 0 3 4 -2
+p200
+aVHoward Eisley UTA 04/26/1997 UTA vs. LAC W 11 10 4 5 80.0 1 2 50.0 1 1 100.0 2 1 3 1 0 0 0 2 8
+p201
+aVAntoine Carr UTA 04/26/1997 UTA vs. LAC W 17 11 4 4 100.0 0 0 - 3 4 75.0 1 0 1 1 0 1 2 3 2
+p202
+aVChris Morris UTA 04/24/1997 UTA vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p203
+aVKarl Malone UTA 04/24/1997 UTA vs. LAC W 40 27 13 27 48.1 0 0 - 1 6 16.7 4 6 10 2 1 0 2 4 21
+p204
+aVGreg Foster UTA 04/24/1997 UTA vs. LAC W 12 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 1 0 1 2 7
+p205
+aVShandon Anderson UTA 04/24/1997 UTA vs. LAC W 16 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 0
+p206
+aVJeff Hornacek UTA 04/24/1997 UTA vs. LAC W 31 12 2 8 25.0 0 2 0.0 8 8 100.0 1 3 4 5 0 1 2 1 20
+p207
+aVBryon Russell UTA 04/24/1997 UTA vs. LAC W 36 16 6 8 75.0 1 2 50.0 3 4 75.0 1 5 6 3 2 0 1 2 22
+p208
+aVHoward Eisley UTA 04/24/1997 UTA vs. LAC W 11 10 2 3 66.7 1 1 100.0 5 5 100.0 0 2 2 1 0 0 0 1 4
+p209
+aVAntoine Carr UTA 04/24/1997 UTA vs. LAC W 21 12 4 4 100.0 0 0 - 4 4 100.0 0 2 2 0 0 2 1 2 2
+p210
+aVAdam Keefe UTA 04/24/1997 UTA vs. LAC W 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 1 0 0 0 -4
+p211
+aVGreg Ostertag UTA 04/24/1997 UTA vs. LAC W 21 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 4 0 3 10
+p212
+aVJohn Stockton UTA 04/24/1997 UTA vs. LAC W 36 13 5 9 55.6 2 3 66.7 1 2 50.0 3 4 7 17 1 0 4 3 16
+p213
+a.

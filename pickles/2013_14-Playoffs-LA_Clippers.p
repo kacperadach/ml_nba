@@ -1,0 +1,286 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBlake Griffin LAC 05/15/2014 LAC vs. OKC L 41 22 8 20 40.0 1 2 50.0 5 8 62.5 2 6 8 8 1 2 1 6 -6
+p2
+aVDarren Collison LAC 05/15/2014 LAC vs. OKC L 18 6 3 8 37.5 0 1 0.0 0 1 0.0 2 2 4 1 0 0 1 1 -2
+p3
+aVChris Paul LAC 05/15/2014 LAC vs. OKC L 40 25 9 18 50.0 2 4 50.0 5 5 100.0 2 5 7 11 1 0 3 3 -4
+p4
+aVJamal Crawford LAC 05/15/2014 LAC vs. OKC L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 3 -4
+p5
+aVMatt Barnes LAC 05/15/2014 LAC vs. OKC L 42 9 4 14 28.6 1 6 16.7 0 2 0.0 1 3 4 3 2 0 1 4 1
+p6
+aVGlen Davis LAC 05/15/2014 LAC vs. OKC L 12 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -8
+p7
+aVDeAndre Jordan LAC 05/15/2014 LAC vs. OKC L 37 9 4 5 80.0 0 0 - 1 2 50.0 4 11 15 1 2 0 0 4 -3
+p8
+aVDanny Granger LAC 05/15/2014 LAC vs. OKC L 6 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p9
+aVJJ Redick LAC 05/15/2014 LAC vs. OKC L 29 16 7 17 41.2 2 5 40.0 0 0 - 0 1 1 0 2 0 2 6 -2
+p10
+aVDanny Granger LAC 05/13/2014 LAC @ OKC L 12 7 2 3 66.7 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p11
+aVBlake Griffin LAC 05/13/2014 LAC @ OKC L 43 24 10 20 50.0 0 0 - 4 5 80.0 3 14 17 3 1 2 3 3 0
+p12
+aVJamal Crawford LAC 05/13/2014 LAC @ OKC L 30 19 7 22 31.8 3 7 42.9 2 3 66.7 1 1 2 2 1 0 0 2 -10
+p13
+aVMatt Barnes LAC 05/13/2014 LAC @ OKC L 43 16 5 8 62.5 4 5 80.0 2 2 100.0 2 8 10 2 0 2 4 4 -2
+p14
+aVRyan Hollins LAC 05/13/2014 LAC @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p15
+aVJared Dudley LAC 05/13/2014 LAC @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p16
+aVDarren Collison LAC 05/13/2014 LAC @ OKC L 10 1 0 2 0.0 0 2 0.0 1 2 50.0 0 2 2 0 1 0 2 1 -15
+p17
+aVGlen Davis LAC 05/13/2014 LAC @ OKC L 18 4 2 4 50.0 0 0 - 0 0 - 3 4 7 0 0 0 1 5 -2
+p18
+aVChris Paul LAC 05/13/2014 LAC @ OKC L 40 17 6 16 37.5 1 5 20.0 4 5 80.0 0 1 1 14 4 0 5 5 11
+p19
+aVJJ Redick LAC 05/13/2014 LAC @ OKC L 25 16 6 12 50.0 3 6 50.0 1 1 100.0 1 0 1 0 0 0 0 1 17
+p20
+aVDeAndre Jordan LAC 05/13/2014 LAC @ OKC L 20 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 2 6 -1
+p21
+aVChris Paul LAC 05/11/2014 LAC vs. OKC W 45 23 10 23 43.5 0 4 0.0 3 4 75.0 2 3 5 10 4 0 1 4 12
+p22
+aVDeAndre Jordan LAC 05/11/2014 LAC vs. OKC W 32 7 3 5 60.0 0 0 - 1 7 14.3 3 11 14 1 2 2 1 3 -21
+p23
+aVBlake Griffin LAC 05/11/2014 LAC vs. OKC W 40 25 8 19 42.1 0 0 - 9 11 81.8 4 5 9 2 1 0 3 5 8
+p24
+aVMatt Barnes LAC 05/11/2014 LAC vs. OKC W 21 0 0 6 0.0 0 4 0.0 0 0 - 1 1 2 3 1 0 0 2 -19
+p25
+aVDanny Granger LAC 05/11/2014 LAC vs. OKC W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 4 11
+p26
+aVJamal Crawford LAC 05/11/2014 LAC vs. OKC W 34 18 7 16 43.8 2 8 25.0 2 2 100.0 2 3 5 3 2 2 3 3 11
+p27
+aVJJ Redick LAC 05/11/2014 LAC vs. OKC W 18 6 2 8 25.0 1 3 33.3 1 1 100.0 0 0 0 0 1 0 0 1 -6
+p28
+aVDarren Collison LAC 05/11/2014 LAC vs. OKC W 23 18 7 12 58.3 0 1 0.0 4 4 100.0 2 5 7 1 0 0 0 0 14
+p29
+aVGlen Davis LAC 05/11/2014 LAC vs. OKC W 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 3 0 0 1 2 0
+p30
+aVJJ Redick LAC 05/09/2014 LAC vs. OKC L 22 5 1 6 16.7 1 4 25.0 2 2 100.0 0 3 3 0 0 0 0 1 3
+p31
+aVDarren Collison LAC 05/09/2014 LAC vs. OKC L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -4
+p32
+aVJamal Crawford LAC 05/09/2014 LAC vs. OKC L 25 20 6 18 33.3 1 5 20.0 7 7 100.0 0 1 1 2 0 0 0 1 -6
+p33
+aVJared Dudley LAC 05/09/2014 LAC vs. OKC L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p34
+aVChris Paul LAC 05/09/2014 LAC vs. OKC L 42 21 8 16 50.0 2 6 33.3 3 5 60.0 0 2 2 16 3 0 0 3 4
+p35
+aVDeAndre Jordan LAC 05/09/2014 LAC vs. OKC L 38 10 5 8 62.5 0 0 - 0 0 - 5 6 11 0 0 3 2 3 -5
+p36
+aVDanny Granger LAC 05/09/2014 LAC vs. OKC L 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p37
+aVGlen Davis LAC 05/09/2014 LAC vs. OKC L 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 4 -12
+p38
+aVMatt Barnes LAC 05/09/2014 LAC vs. OKC L 38 14 6 13 46.2 1 6 16.7 1 2 50.0 2 3 5 1 1 1 1 4 2
+p39
+aVBlake Griffin LAC 05/09/2014 LAC vs. OKC L 42 34 13 22 59.1 0 1 0.0 8 9 88.9 6 2 8 4 1 3 3 5 -3
+p40
+aVChris Paul LAC 05/07/2014 LAC @ OKC L 31 17 6 13 46.2 2 5 40.0 3 5 60.0 3 2 5 10 3 0 3 5 -2
+p41
+aVWillie Green LAC 05/07/2014 LAC @ OKC L 4 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 1 0 0 0 5
+p42
+aVDeAndre Jordan LAC 05/07/2014 LAC @ OKC L 29 7 3 4 75.0 0 0 - 1 2 50.0 0 8 8 1 1 0 3 5 -21
+p43
+aVJamal Crawford LAC 05/07/2014 LAC @ OKC L 22 7 2 13 15.4 1 7 14.3 2 2 100.0 0 1 1 3 2 0 3 0 -1
+p44
+aVJared Dudley LAC 05/07/2014 LAC @ OKC L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 6
+p45
+aVDarren Collison LAC 05/07/2014 LAC @ OKC L 22 13 4 8 50.0 0 0 - 5 6 83.3 1 1 2 3 0 0 1 1 -10
+p46
+aVJJ Redick LAC 05/07/2014 LAC @ OKC L 29 18 7 10 70.0 2 4 50.0 2 2 100.0 0 0 0 0 1 0 0 0 -6
+p47
+aVDanny Granger LAC 05/07/2014 LAC @ OKC L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 1
+p48
+aVBlake Griffin LAC 05/07/2014 LAC @ OKC L 35 15 5 13 38.5 0 0 - 5 6 83.3 2 4 6 3 1 1 2 4 -19
+p49
+aVGlen Davis LAC 05/07/2014 LAC @ OKC L 13 10 5 7 71.4 0 0 - 0 0 - 2 4 6 0 0 1 1 3 6
+p50
+aVMatt Barnes LAC 05/07/2014 LAC @ OKC L 29 11 4 8 50.0 3 7 42.9 0 0 - 1 3 4 0 1 0 1 4 -14
+p51
+aVRyan Hollins LAC 05/05/2014 LAC @ OKC W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -7
+p52
+aVJJ Redick LAC 05/05/2014 LAC @ OKC W 24 12 5 8 62.5 1 2 50.0 1 1 100.0 0 3 3 3 1 0 0 0 18
+p53
+aVGlen Davis LAC 05/05/2014 LAC @ OKC W 14 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 1 2 1 2
+p54
+aVJamal Crawford LAC 05/05/2014 LAC @ OKC W 19 17 6 11 54.5 3 6 50.0 2 3 66.7 0 1 1 1 0 0 0 1 8
+p55
+aVMatt Barnes LAC 05/05/2014 LAC @ OKC W 28 10 4 10 40.0 2 7 28.6 0 0 - 1 1 2 1 1 0 0 3 23
+p56
+aVDeAndre Jordan LAC 05/05/2014 LAC @ OKC W 28 7 3 3 100.0 0 0 - 1 8 12.5 1 4 5 0 4 0 1 3 21
+p57
+aVJared Dudley LAC 05/05/2014 LAC @ OKC W 16 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 1 -7
+p58
+aVDarren Collison LAC 05/05/2014 LAC @ OKC W 24 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 4 0 0 0 2 -9
+p59
+aVDanny Granger LAC 05/05/2014 LAC @ OKC W 16 5 1 5 20.0 0 3 0.0 3 4 75.0 0 5 5 0 1 0 0 4 9
+p60
+aVChris Paul LAC 05/05/2014 LAC @ OKC W 28 32 12 14 85.7 8 9 88.9 0 0 - 0 2 2 10 0 0 2 3 26
+p61
+aVWillie Green LAC 05/05/2014 LAC @ OKC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -10
+p62
+aVBlake Griffin LAC 05/05/2014 LAC @ OKC W 31 23 7 16 43.8 0 0 - 9 12 75.0 2 3 5 5 0 0 1 3 21
+p63
+aVReggie Bullock LAC 05/05/2014 LAC @ OKC W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p64
+aVGlen Davis LAC 05/03/2014 LAC vs. GSW W 7 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 3
+p65
+aVBlake Griffin LAC 05/03/2014 LAC vs. GSW W 42 24 10 18 55.6 0 1 0.0 4 7 57.1 1 4 5 6 3 3 2 5 0
+p66
+aVJamal Crawford LAC 05/03/2014 LAC vs. GSW W 29 22 7 12 58.3 3 6 50.0 5 5 100.0 1 1 2 0 2 0 3 1 2
+p67
+aVChris Paul LAC 05/03/2014 LAC vs. GSW W 42 22 8 15 53.3 1 3 33.3 5 5 100.0 0 2 2 14 4 0 2 3 -2
+p68
+aVDeAndre Jordan LAC 05/03/2014 LAC vs. GSW W 41 15 6 6 100.0 0 0 - 3 6 50.0 4 14 18 2 0 3 1 4 5
+p69
+aVDanny Granger LAC 05/03/2014 LAC vs. GSW W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 1 1 2 7
+p70
+aVDarren Collison LAC 05/03/2014 LAC vs. GSW W 15 8 2 6 33.3 0 1 0.0 4 4 100.0 0 2 2 1 1 0 1 2 -2
+p71
+aVJJ Redick LAC 05/03/2014 LAC vs. GSW W 31 20 7 13 53.8 3 8 37.5 3 4 75.0 0 3 3 1 2 0 2 0 18
+p72
+aVMatt Barnes LAC 05/03/2014 LAC vs. GSW W 29 13 5 8 62.5 1 4 25.0 2 2 100.0 0 3 3 1 1 0 1 4 -6
+p73
+aVGlen Davis LAC 05/01/2014 LAC @ GSW L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -5
+p74
+aVJJ Redick LAC 05/01/2014 LAC @ GSW L 31 15 4 13 30.8 2 10 20.0 5 5 100.0 1 2 3 2 0 0 3 6 3
+p75
+aVChris Paul LAC 05/01/2014 LAC @ GSW L 34 9 3 10 30.0 2 5 40.0 1 2 50.0 0 5 5 8 1 0 4 5 8
+p76
+aVBlake Griffin LAC 05/01/2014 LAC @ GSW L 40 17 8 23 34.8 0 2 0.0 1 2 50.0 2 6 8 5 0 1 3 6 0
+p77
+aVWillie Green LAC 05/01/2014 LAC @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p78
+aVDanny Granger LAC 05/01/2014 LAC @ GSW L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 -4
+p79
+aVJared Dudley LAC 05/01/2014 LAC @ GSW L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p80
+aVMatt Barnes LAC 05/01/2014 LAC @ GSW L 36 18 7 12 58.3 3 7 42.9 1 2 50.0 7 4 11 2 1 0 1 1 3
+p81
+aVDarren Collison LAC 05/01/2014 LAC @ GSW L 20 12 2 8 25.0 0 1 0.0 8 8 100.0 1 0 1 2 0 0 0 1 -9
+p82
+aVJamal Crawford LAC 05/01/2014 LAC @ GSW L 25 19 5 13 38.5 4 8 50.0 5 5 100.0 1 1 2 3 0 0 0 3 2
+p83
+aVDeAndre Jordan LAC 05/01/2014 LAC @ GSW L 42 9 3 3 100.0 0 0 - 3 9 33.3 2 17 19 0 0 4 0 4 -1
+p84
+aVReggie Bullock LAC 05/01/2014 LAC @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p85
+aVGlen Davis LAC 04/29/2014 LAC vs. GSW W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 0
+p86
+aVDarren Collison LAC 04/29/2014 LAC vs. GSW W 24 15 4 7 57.1 1 1 100.0 6 6 100.0 0 0 0 2 1 0 1 3 2
+p87
+aVMatt Barnes LAC 04/29/2014 LAC vs. GSW W 31 6 2 5 40.0 2 4 50.0 0 0 - 1 3 4 2 0 0 1 3 11
+p88
+aVJJ Redick LAC 04/29/2014 LAC vs. GSW W 28 8 3 8 37.5 0 3 0.0 2 2 100.0 0 2 2 3 0 0 2 2 13
+p89
+aVHedo Turkoglu LAC 04/29/2014 LAC vs. GSW W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p90
+aVDeAndre Jordan LAC 04/29/2014 LAC vs. GSW W 38 25 8 10 80.0 0 0 - 9 17 52.9 6 12 18 1 1 4 1 2 12
+p91
+aVBlake Griffin LAC 04/29/2014 LAC vs. GSW W 36 18 6 14 42.9 0 0 - 6 8 75.0 3 4 7 4 2 0 2 5 8
+p92
+aVChris Paul LAC 04/29/2014 LAC vs. GSW W 39 20 6 17 35.3 3 5 60.0 5 5 100.0 2 4 6 7 5 0 2 2 12
+p93
+aVDanny Granger LAC 04/29/2014 LAC vs. GSW W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p94
+aVJamal Crawford LAC 04/29/2014 LAC vs. GSW W 26 19 7 13 53.8 2 7 28.6 3 3 100.0 0 1 1 1 1 0 2 1 4
+p95
+aVJJ Redick LAC 04/27/2014 LAC @ GSW L 30 12 3 9 33.3 3 6 50.0 3 3 100.0 1 1 2 2 1 0 3 3 -26
+p96
+aVRyan Hollins LAC 04/27/2014 LAC @ GSW L 1 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 3
+p97
+aVDeAndre Jordan LAC 04/27/2014 LAC @ GSW L 25 0 0 1 0.0 0 0 - 0 0 - 1 5 6 1 0 2 2 3 -18
+p98
+aVJamal Crawford LAC 04/27/2014 LAC @ GSW L 28 26 8 18 44.4 3 10 30.0 7 8 87.5 0 0 0 2 0 0 0 5 -9
+p99
+aVMatt Barnes LAC 04/27/2014 LAC @ GSW L 24 10 4 7 57.1 1 3 33.3 1 2 50.0 0 5 5 2 0 0 3 2 -19
+p100
+aVDarren Collison LAC 04/27/2014 LAC @ GSW L 18 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 4 0 0 3 0 -1
+p101
+aVWillie Green LAC 04/27/2014 LAC @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p102
+aVChris Paul LAC 04/27/2014 LAC @ GSW L 32 16 5 9 55.6 2 4 50.0 4 5 80.0 1 4 5 6 1 0 4 5 -17
+p103
+aVHedo Turkoglu LAC 04/27/2014 LAC @ GSW L 13 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 1 0 0 1 -3
+p104
+aVDanny Granger LAC 04/27/2014 LAC @ GSW L 15 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 0 5
+p105
+aVJared Dudley LAC 04/27/2014 LAC @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p106
+aVBlake Griffin LAC 04/27/2014 LAC @ GSW L 36 21 8 14 57.1 0 0 - 5 5 100.0 2 4 6 3 2 0 4 4 -22
+p107
+aVGlen Davis LAC 04/27/2014 LAC @ GSW L 13 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 4
+p108
+aVJamal Crawford LAC 04/24/2014 LAC @ GSW W 20 13 5 11 45.5 3 6 50.0 0 0 - 0 2 2 1 0 0 2 1 5
+p109
+aVGlen Davis LAC 04/24/2014 LAC @ GSW W 12 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 1
+p110
+aVJJ Redick LAC 04/24/2014 LAC @ GSW W 31 14 5 11 45.5 3 6 50.0 1 1 100.0 0 1 1 5 1 0 0 1 6
+p111
+aVDanny Granger LAC 04/24/2014 LAC @ GSW W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 0 1 0 1 3 3
+p112
+aVDeAndre Jordan LAC 04/24/2014 LAC @ GSW W 35 14 5 8 62.5 0 0 - 4 9 44.4 7 15 22 2 0 5 2 3 1
+p113
+aVDarren Collison LAC 04/24/2014 LAC @ GSW W 18 6 3 7 42.9 0 2 0.0 0 0 - 0 4 4 1 0 0 1 2 -4
+p114
+aVBlake Griffin LAC 04/24/2014 LAC @ GSW W 44 32 15 25 60.0 0 1 0.0 2 9 22.2 4 4 8 3 2 1 3 2 1
+p115
+aVChris Paul LAC 04/24/2014 LAC @ GSW W 35 15 5 13 38.5 2 7 28.6 3 4 75.0 0 2 2 10 2 0 2 4 1
+p116
+aVMatt Barnes LAC 04/24/2014 LAC @ GSW W 29 0 0 6 0.0 0 3 0.0 0 0 - 2 1 3 2 4 0 1 3 -5
+p117
+aVHedo Turkoglu LAC 04/24/2014 LAC @ GSW W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 1
+p118
+aVJared Dudley LAC 04/21/2014 LAC vs. GSW W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 4
+p119
+aVWillie Green LAC 04/21/2014 LAC vs. GSW W 7 2 0 2 0.0 0 2 0.0 2 2 100.0 0 3 3 0 1 0 0 2 1
+p120
+aVBlake Griffin LAC 04/21/2014 LAC vs. GSW W 30 35 13 17 76.5 0 0 - 9 10 90.0 2 4 6 1 2 0 3 0 22
+p121
+aVDeAndre Jordan LAC 04/21/2014 LAC vs. GSW W 30 11 2 4 50.0 0 0 - 7 8 87.5 3 6 9 1 0 5 1 2 20
+p122
+aVDanny Granger LAC 04/21/2014 LAC vs. GSW W 18 15 6 10 60.0 3 4 75.0 0 0 - 0 3 3 0 1 0 0 6 18
+p123
+aVMatt Barnes LAC 04/21/2014 LAC vs. GSW W 30 13 4 7 57.1 1 3 33.3 4 5 80.0 2 0 2 1 0 0 2 3 20
+p124
+aVChris Paul LAC 04/21/2014 LAC vs. GSW W 27 12 4 10 40.0 2 4 50.0 2 2 100.0 1 5 6 10 5 0 5 3 18
+p125
+aVRyan Hollins LAC 04/21/2014 LAC vs. GSW W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p126
+aVDarren Collison LAC 04/21/2014 LAC vs. GSW W 21 12 3 6 50.0 0 0 - 6 6 100.0 1 0 1 10 0 0 0 1 24
+p127
+aVGlen Davis LAC 04/21/2014 LAC vs. GSW W 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 13
+p128
+aVHedo Turkoglu LAC 04/21/2014 LAC vs. GSW W 14 13 5 7 71.4 3 5 60.0 0 0 - 0 1 1 1 1 0 0 1 14
+p129
+aVJJ Redick LAC 04/21/2014 LAC vs. GSW W 24 9 3 7 42.9 1 3 33.3 2 2 100.0 0 1 1 1 1 0 1 1 19
+p130
+aVJamal Crawford LAC 04/21/2014 LAC vs. GSW W 18 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 3 3 0 1 1 22
+p131
+aVDanny Granger LAC 04/19/2014 LAC vs. GSW L 12 3 1 6 16.7 0 2 0.0 1 1 100.0 2 0 2 1 0 0 0 0 -7
+p132
+aVChris Paul LAC 04/19/2014 LAC vs. GSW L 36 28 10 23 43.5 5 9 55.6 3 6 50.0 1 6 7 8 4 0 6 5 9
+p133
+aVHedo Turkoglu LAC 04/19/2014 LAC vs. GSW L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p134
+aVJJ Redick LAC 04/19/2014 LAC vs. GSW L 30 22 8 11 72.7 4 5 80.0 2 2 100.0 1 1 2 2 1 0 0 1 2
+p135
+aVBlake Griffin LAC 04/19/2014 LAC vs. GSW L 19 16 6 13 46.2 0 0 - 4 4 100.0 2 1 3 3 0 1 1 6 9
+p136
+aVDeAndre Jordan LAC 04/19/2014 LAC vs. GSW L 45 11 4 5 80.0 0 0 - 3 8 37.5 5 9 14 0 2 5 7 3 -1
+p137
+aVRyan Hollins LAC 04/19/2014 LAC vs. GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p138
+aVGlen Davis LAC 04/19/2014 LAC vs. GSW L 22 6 3 4 75.0 0 0 - 0 0 - 1 5 6 3 3 0 0 1 -4
+p139
+aVDarren Collison LAC 04/19/2014 LAC vs. GSW L 26 8 2 9 22.2 0 0 - 4 6 66.7 2 0 2 1 3 1 2 2 -9
+p140
+aVJamal Crawford LAC 04/19/2014 LAC vs. GSW L 22 9 2 11 18.2 1 5 20.0 4 6 66.7 0 2 2 3 0 0 0 2 -15
+p141
+aVMatt Barnes LAC 04/19/2014 LAC vs. GSW L 23 2 0 3 0.0 0 1 0.0 2 2 100.0 2 1 3 3 0 0 1 4 -1
+p142
+a.

@@ -1,0 +1,860 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHassan Whiteside MIA 01/23/2017 MIA vs. GSW W 36 10 4 13 30.8 0 0 - 2 5 40.0 4 11 15 0 2 1 3 5 9
+p2
+aVOkaro White MIA 01/23/2017 MIA vs. GSW W 11 5 2 3 66.7 0 1 0.0 1 1 100.0 1 0 1 0 0 0 0 0 3
+p3
+aVWillie Reed MIA 01/23/2017 MIA vs. GSW W 11 6 3 5 60.0 0 0 - 0 0 - 1 6 7 1 0 1 0 2 -2
+p4
+aVGoran Dragic MIA 01/23/2017 MIA vs. GSW W 36 19 5 14 35.7 1 5 20.0 8 13 61.5 2 2 4 5 1 0 4 1 -3
+p5
+aVWayne Ellington MIA 01/23/2017 MIA vs. GSW W 33 9 3 12 25.0 2 8 25.0 1 1 100.0 0 2 2 3 4 0 1 2 0
+p6
+aVDion Waiters MIA 01/23/2017 MIA vs. GSW W 33 33 13 20 65.0 6 8 75.0 1 1 100.0 1 4 5 4 1 0 3 1 5
+p7
+aVRodney McGruder MIA 01/23/2017 MIA vs. GSW W 28 3 1 5 20.0 0 2 0.0 1 4 25.0 0 3 3 2 0 0 1 1 7
+p8
+aVLuke Babbitt MIA 01/23/2017 MIA vs. GSW W 26 11 3 6 50.0 3 4 75.0 2 2 100.0 1 5 6 1 1 0 0 3 5
+p9
+aVJames Johnson MIA 01/23/2017 MIA vs. GSW W 27 9 4 8 50.0 1 2 50.0 0 0 - 1 1 2 4 0 2 1 4 -9
+p10
+aVDion Waiters MIA 01/21/2017 MIA vs. MIL W 33 33 12 19 63.2 5 8 62.5 4 8 50.0 0 3 3 3 1 0 3 1 10
+p11
+aVOkaro White MIA 01/21/2017 MIA vs. MIL W 19 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 2 6
+p12
+aVGoran Dragic MIA 01/21/2017 MIA vs. MIL W 33 25 8 13 61.5 3 5 60.0 6 7 85.7 0 1 1 6 1 0 3 2 3
+p13
+aVRodney McGruder MIA 01/21/2017 MIA vs. MIL W 18 6 2 5 40.0 1 2 50.0 1 2 50.0 0 0 0 3 0 0 0 3 2
+p14
+aVHassan Whiteside MIA 01/21/2017 MIA vs. MIL W 30 16 7 8 87.5 0 0 - 2 4 50.0 2 13 15 0 0 2 1 3 8
+p15
+aVLuke Babbitt MIA 01/21/2017 MIA vs. MIL W 18 5 2 4 50.0 1 2 50.0 0 0 - 1 3 4 0 2 0 0 4 0
+p16
+aVWillie Reed MIA 01/21/2017 MIA vs. MIL W 18 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 1 1 3 4
+p17
+aVJames Johnson MIA 01/21/2017 MIA vs. MIL W 34 7 3 12 25.0 0 4 0.0 1 1 100.0 1 2 3 6 1 0 2 5 14
+p18
+aVWayne Ellington MIA 01/21/2017 MIA vs. MIL W 35 15 6 12 50.0 3 9 33.3 0 0 - 0 5 5 0 2 0 0 1 13
+p19
+aVOkaro White MIA 01/19/2017 MIA vs. DAL W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -11
+p20
+aVGoran Dragic MIA 01/19/2017 MIA vs. DAL W 37 32 11 15 73.3 4 4 100.0 6 10 60.0 2 4 6 2 0 0 1 3 7
+p21
+aVHassan Whiteside MIA 01/19/2017 MIA vs. DAL W 29 13 6 12 50.0 0 0 - 1 1 100.0 1 7 8 2 1 0 3 2 14
+p22
+aVWillie Reed MIA 01/19/2017 MIA vs. DAL W 13 8 3 3 100.0 0 0 - 2 3 66.7 1 2 3 0 1 1 1 0 -7
+p23
+aVDion Waiters MIA 01/19/2017 MIA vs. DAL W 32 12 5 12 41.7 1 2 50.0 1 2 50.0 0 3 3 3 0 0 3 2 16
+p24
+aVJames Johnson MIA 01/19/2017 MIA vs. DAL W 32 5 1 6 16.7 0 3 0.0 3 4 75.0 0 8 8 4 0 0 3 1 -5
+p25
+aVRodney McGruder MIA 01/19/2017 MIA vs. DAL W 24 3 1 4 25.0 1 2 50.0 0 0 - 1 4 5 3 0 0 0 2 12
+p26
+aVLuke Babbitt MIA 01/19/2017 MIA vs. DAL W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 0 0 0 0 2 13
+p27
+aVWayne Ellington MIA 01/19/2017 MIA vs. DAL W 19 0 0 4 0.0 0 3 0.0 0 0 - 1 1 2 0 1 0 0 1 -5
+p28
+aVTyler Johnson MIA 01/19/2017 MIA vs. DAL W 28 23 7 13 53.8 2 2 100.0 7 9 77.8 0 1 1 2 1 0 1 1 -14
+p29
+aVWillie Reed MIA 01/17/2017 MIA vs. HOU W 16 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 0 0 2 4
+p30
+aVRodney McGruder MIA 01/17/2017 MIA vs. HOU W 16 6 3 4 75.0 0 0 - 0 2 0.0 0 0 0 0 1 0 1 4 -9
+p31
+aVDion Waiters MIA 01/17/2017 MIA vs. HOU W 28 17 7 15 46.7 1 4 25.0 2 3 66.7 2 3 5 3 1 0 2 3 -5
+p32
+aVTyler Johnson MIA 01/17/2017 MIA vs. HOU W 34 16 6 17 35.3 1 4 25.0 3 5 60.0 1 1 2 3 3 0 0 1 10
+p33
+aVWayne Ellington MIA 01/17/2017 MIA vs. HOU W 28 18 6 11 54.5 5 9 55.6 1 1 100.0 0 4 4 1 1 0 0 2 17
+p34
+aVJames Johnson MIA 01/17/2017 MIA vs. HOU W 31 15 6 14 42.9 1 4 25.0 2 2 100.0 1 7 8 6 3 0 5 4 -5
+p35
+aVHassan Whiteside MIA 01/17/2017 MIA vs. HOU W 33 14 5 8 62.5 0 0 - 4 6 66.7 4 11 15 0 1 1 1 4 2
+p36
+aVLuke Babbitt MIA 01/17/2017 MIA vs. HOU W 17 0 0 3 0.0 0 3 0.0 0 0 - 0 4 4 0 0 0 0 1 11
+p37
+aVGoran Dragic MIA 01/17/2017 MIA vs. HOU W 37 21 8 15 53.3 1 5 20.0 4 5 80.0 2 6 8 8 1 0 6 3 5
+p38
+aVRodney McGruder MIA 01/13/2017 MIA @ MIL L 20 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 3 -10
+p39
+aVLuke Babbitt MIA 01/13/2017 MIA @ MIL L 32 16 6 9 66.7 4 7 57.1 0 0 - 0 4 4 2 0 2 0 3 -4
+p40
+aVHassan Whiteside MIA 01/13/2017 MIA @ MIL L 31 19 7 12 58.3 0 0 - 5 6 83.3 2 7 9 2 1 0 2 1 -11
+p41
+aVUdonis Haslem MIA 01/13/2017 MIA @ MIL L 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 2 0 1 0 0
+p42
+aVDion Waiters MIA 01/13/2017 MIA @ MIL L 31 13 5 17 29.4 2 6 33.3 1 1 100.0 0 2 2 6 0 0 1 2 -8
+p43
+aVJames Johnson MIA 01/13/2017 MIA @ MIL L 38 10 4 7 57.1 1 2 50.0 1 1 100.0 0 2 2 12 0 2 1 1 1
+p44
+aVTyler Johnson MIA 01/13/2017 MIA @ MIL L 30 14 6 12 50.0 1 5 20.0 1 2 50.0 0 2 2 5 3 2 0 4 5
+p45
+aVWayne Ellington MIA 01/13/2017 MIA @ MIL L 14 7 3 7 42.9 1 3 33.3 0 0 - 2 1 3 1 0 0 0 0 3
+p46
+aVDerrick Williams MIA 01/13/2017 MIA @ MIL L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 2 -3
+p47
+aVGoran Dragic MIA 01/13/2017 MIA @ MIL L 34 19 6 13 46.2 1 5 20.0 6 6 100.0 0 3 3 3 0 2 2 5 -13
+p48
+aVWayne Ellington MIA 01/10/2017 MIA @ GSW L 7 3 0 1 0.0 0 1 0.0 3 3 100.0 0 0 0 0 0 0 0 1 -9
+p49
+aVHassan Whiteside MIA 01/10/2017 MIA @ GSW L 37 26 12 17 70.6 0 0 - 2 3 66.7 3 17 20 2 1 2 4 3 5
+p50
+aVDion Waiters MIA 01/10/2017 MIA @ GSW L 38 8 4 17 23.5 0 5 0.0 0 0 - 0 3 3 8 2 0 1 4 2
+p51
+aVTyler Johnson MIA 01/10/2017 MIA @ GSW L 30 18 6 11 54.5 3 8 37.5 3 4 75.0 1 6 7 3 0 0 0 3 -8
+p52
+aVRodney McGruder MIA 01/10/2017 MIA @ GSW L 32 3 1 5 20.0 0 1 0.0 1 2 50.0 2 5 7 2 0 1 0 3 -4
+p53
+aVWillie Reed MIA 01/10/2017 MIA @ GSW L 11 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 0 0 1 1 2 -17
+p54
+aVGoran Dragic MIA 01/10/2017 MIA @ GSW L 38 17 7 16 43.8 2 5 40.0 1 1 100.0 0 2 2 4 1 0 3 2 -14
+p55
+aVJames Johnson MIA 01/10/2017 MIA @ GSW L 30 14 6 14 42.9 1 7 14.3 1 2 50.0 0 2 2 6 2 0 2 4 -20
+p56
+aVLuke Babbitt MIA 01/10/2017 MIA @ GSW L 18 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 0 0 0 0 0 5
+p57
+aVRodney McGruder MIA 01/08/2017 MIA @ LAC L 34 5 1 7 14.3 1 6 16.7 2 2 100.0 2 1 3 2 1 0 0 0 -18
+p58
+aVDerrick Williams MIA 01/08/2017 MIA @ LAC L 21 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 2 1 0 2 4 -13
+p59
+aVWillie Reed MIA 01/08/2017 MIA @ LAC L 17 4 2 6 33.3 0 0 - 0 0 - 2 8 10 0 1 1 1 2 2
+p60
+aVWayne Ellington MIA 01/08/2017 MIA @ LAC L 20 4 1 7 14.3 0 5 0.0 2 2 100.0 0 0 0 1 0 0 0 2 -17
+p61
+aVDion Waiters MIA 01/08/2017 MIA @ LAC L 15 8 2 7 28.6 1 2 50.0 3 4 75.0 0 2 2 0 0 0 1 2 -6
+p62
+aVJames Johnson MIA 01/08/2017 MIA @ LAC L 27 12 4 10 40.0 2 5 40.0 2 2 100.0 1 5 6 3 1 1 3 3 1
+p63
+aVTyler Johnson MIA 01/08/2017 MIA @ LAC L 33 12 4 12 33.3 1 3 33.3 3 4 75.0 0 7 7 1 1 1 1 5 19
+p64
+aVHassan Whiteside MIA 01/08/2017 MIA @ LAC L 31 15 7 12 58.3 0 0 - 1 2 50.0 5 8 13 0 0 2 2 2 -14
+p65
+aVGoran Dragic MIA 01/08/2017 MIA @ LAC L 42 24 9 18 50.0 2 5 40.0 4 5 80.0 1 5 6 5 1 0 5 1 -14
+p66
+aVJames Johnson MIA 01/06/2017 MIA @ LAL L 34 20 7 11 63.6 4 7 57.1 2 4 50.0 1 4 5 1 2 2 3 3 -21
+p67
+aVGoran Dragic MIA 01/06/2017 MIA @ LAL L 22 16 7 13 53.8 2 3 66.7 0 0 - 0 3 3 3 0 0 0 2 -4
+p68
+aVTyler Johnson MIA 01/06/2017 MIA @ LAL L 35 11 4 13 30.8 0 4 0.0 3 4 75.0 1 4 5 2 1 1 1 4 -13
+p69
+aVLuke Babbitt MIA 01/06/2017 MIA @ LAL L 8 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -16
+p70
+aVJosh Richardson MIA 01/06/2017 MIA @ LAL L 30 6 2 6 33.3 1 4 25.0 1 2 50.0 0 1 1 2 0 0 2 3 -18
+p71
+aVWillie Reed MIA 01/06/2017 MIA @ LAL L 32 22 10 15 66.7 0 0 - 2 5 40.0 7 5 12 2 0 3 0 3 -25
+p72
+aVWayne Ellington MIA 01/06/2017 MIA @ LAL L 16 2 0 6 0.0 0 4 0.0 2 3 66.7 0 2 2 1 0 0 1 0 -9
+p73
+aVDion Waiters MIA 01/06/2017 MIA @ LAL L 21 9 4 12 33.3 0 3 0.0 1 1 100.0 0 1 1 2 2 0 0 3 -15
+p74
+aVRodney McGruder MIA 01/06/2017 MIA @ LAL L 19 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 0 0 0 2 0 -22
+p75
+aVUdonis Haslem MIA 01/06/2017 MIA @ LAL L 7 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 2 0 0 1 1 1
+p76
+aVDerrick Williams MIA 01/06/2017 MIA @ LAL L 15 6 1 7 14.3 0 3 0.0 4 6 66.7 1 5 6 2 0 1 0 3 7
+p77
+aVWayne Ellington MIA 01/04/2017 MIA @ SAC W 24 13 4 8 50.0 4 5 80.0 1 1 100.0 0 0 0 0 1 1 0 0 -14
+p78
+aVJames Johnson MIA 01/04/2017 MIA @ SAC W 25 14 4 8 50.0 2 3 66.7 4 4 100.0 2 4 6 6 0 3 3 6 10
+p79
+aVGoran Dragic MIA 01/04/2017 MIA @ SAC W 30 19 5 12 41.7 0 2 0.0 9 9 100.0 0 1 1 7 2 0 2 1 22
+p80
+aVWillie Reed MIA 01/04/2017 MIA @ SAC W 23 6 3 6 50.0 0 0 - 0 0 - 0 4 4 0 1 2 1 3 7
+p81
+aVDion Waiters MIA 01/04/2017 MIA @ SAC W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 3 1 -12
+p82
+aVLuke Babbitt MIA 01/04/2017 MIA @ SAC W 17 9 3 4 75.0 3 3 100.0 0 0 - 0 4 4 0 0 0 2 3 13
+p83
+aVRodney McGruder MIA 01/04/2017 MIA @ SAC W 25 3 1 5 20.0 0 3 0.0 1 2 50.0 1 5 6 2 1 0 0 0 7
+p84
+aVUdonis Haslem MIA 01/04/2017 MIA @ SAC W 18 7 2 3 66.7 0 0 - 3 4 75.0 1 2 3 2 0 1 2 4 -13
+p85
+aVTyler Johnson MIA 01/04/2017 MIA @ SAC W 30 23 7 11 63.6 2 4 50.0 7 9 77.8 3 3 6 2 1 2 2 1 -13
+p86
+aVJosh Richardson MIA 01/04/2017 MIA @ SAC W 37 9 4 11 36.4 1 7 14.3 0 0 - 0 8 8 4 2 0 3 1 18
+p87
+aVLuke Babbitt MIA 01/03/2017 MIA @ PHX L 23 7 3 11 27.3 1 4 25.0 0 2 0.0 0 5 5 0 0 0 0 2 -16
+p88
+aVUdonis Haslem MIA 01/03/2017 MIA @ PHX L 16 3 1 1 100.0 0 0 - 1 1 100.0 2 3 5 1 1 0 1 2 -15
+p89
+aVDerrick Williams MIA 01/03/2017 MIA @ PHX L 24 3 0 7 0.0 0 1 0.0 3 4 75.0 2 2 4 1 1 0 0 3 0
+p90
+aVJosh Richardson MIA 01/03/2017 MIA @ PHX L 37 11 5 16 31.3 1 5 20.0 0 0 - 0 2 2 3 2 2 3 2 -14
+p91
+aVRodney McGruder MIA 01/03/2017 MIA @ PHX L 33 8 3 10 30.0 2 5 40.0 0 0 - 3 2 5 1 0 0 0 5 3
+p92
+aVWillie Reed MIA 01/03/2017 MIA @ PHX L 32 22 11 16 68.8 0 0 - 0 0 - 8 10 18 2 1 2 1 2 6
+p93
+aVWayne Ellington MIA 01/03/2017 MIA @ PHX L 37 12 4 12 33.3 1 6 16.7 3 3 100.0 0 1 1 1 1 0 2 2 -12
+p94
+aVGoran Dragic MIA 01/03/2017 MIA @ PHX L 38 24 9 18 50.0 1 2 50.0 5 6 83.3 0 3 3 9 2 0 5 5 3
+p95
+aVWillie Reed MIA 01/01/2017 MIA vs. DET L 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 1 0 3 -3
+p96
+aVUdonis Haslem MIA 01/01/2017 MIA vs. DET L 21 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 0 1 0 2 3 -9
+p97
+aVJames Johnson MIA 01/01/2017 MIA vs. DET L 34 20 6 13 46.2 4 5 80.0 4 4 100.0 1 6 7 3 1 1 3 2 -4
+p98
+aVWayne Ellington MIA 01/01/2017 MIA vs. DET L 37 18 7 15 46.7 4 8 50.0 0 0 - 0 4 4 3 0 0 0 0 0
+p99
+aVTyler Johnson MIA 01/01/2017 MIA vs. DET L 29 11 3 10 30.0 1 2 50.0 4 5 80.0 0 1 1 5 1 2 1 2 -9
+p100
+aVDerrick Williams MIA 01/01/2017 MIA vs. DET L 13 10 4 6 66.7 1 2 50.0 1 2 50.0 0 6 6 2 0 0 0 1 -2
+p101
+aVJosh Richardson MIA 01/01/2017 MIA vs. DET L 38 14 5 13 38.5 2 5 40.0 2 4 50.0 0 1 1 8 2 0 2 4 -6
+p102
+aVLuke Babbitt MIA 01/01/2017 MIA vs. DET L 17 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 5 2
+p103
+aVRodney McGruder MIA 01/01/2017 MIA vs. DET L 33 8 3 8 37.5 1 3 33.3 1 1 100.0 1 3 4 1 1 0 2 2 -14
+p104
+aVJosh Richardson MIA 12/30/2016 MIA @ BOS L 35 19 8 17 47.1 2 5 40.0 1 1 100.0 2 4 6 8 4 2 3 3 -7
+p105
+aVJames Johnson MIA 12/30/2016 MIA @ BOS L 24 22 8 13 61.5 4 7 57.1 2 3 66.7 0 3 3 6 2 2 5 3 -1
+p106
+aVJustise Winslow MIA 12/30/2016 MIA @ BOS L 31 11 5 13 38.5 0 0 - 1 2 50.0 4 5 9 6 0 1 1 4 -8
+p107
+aVLuke Babbitt MIA 12/30/2016 MIA @ BOS L 16 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 1 3
+p108
+aVHassan Whiteside MIA 12/30/2016 MIA @ BOS L 32 11 5 9 55.6 0 0 - 1 2 50.0 0 8 8 1 1 1 1 0 -7
+p109
+aVWayne Ellington MIA 12/30/2016 MIA @ BOS L 30 14 6 11 54.5 2 7 28.6 0 0 - 0 1 1 2 0 0 0 2 -6
+p110
+aVRodney McGruder MIA 12/30/2016 MIA @ BOS L 29 5 2 4 50.0 1 3 33.3 0 0 - 1 1 2 5 0 0 0 0 3
+p111
+aVTyler Johnson MIA 12/30/2016 MIA @ BOS L 29 19 8 13 61.5 1 3 33.3 2 2 100.0 0 4 4 6 0 1 1 5 3
+p112
+aVWillie Reed MIA 12/30/2016 MIA @ BOS L 14 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 0 1 1 2 5
+p113
+aVJustise Winslow MIA 12/29/2016 MIA @ CHA L 29 1 0 9 0.0 0 0 - 1 2 50.0 1 4 5 5 1 0 3 2 -13
+p114
+aVTyler Johnson MIA 12/29/2016 MIA @ CHA L 28 18 8 16 50.0 2 6 33.3 0 0 - 1 6 7 5 2 1 1 1 8
+p115
+aVWayne Ellington MIA 12/29/2016 MIA @ CHA L 17 12 4 10 40.0 4 9 44.4 0 0 - 0 2 2 1 0 0 0 1 4
+p116
+aVGoran Dragic MIA 12/29/2016 MIA @ CHA L 32 5 2 11 18.2 0 4 0.0 1 2 50.0 0 3 3 8 0 0 4 3 -15
+p117
+aVWillie Reed MIA 12/29/2016 MIA @ CHA L 13 5 2 3 66.7 0 0 - 1 1 100.0 1 6 7 0 0 3 0 2 4
+p118
+aVHassan Whiteside MIA 12/29/2016 MIA @ CHA L 35 8 4 7 57.1 0 0 - 0 0 - 0 10 10 0 0 2 4 2 -13
+p119
+aVRodney McGruder MIA 12/29/2016 MIA @ CHA L 14 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 0 0 7
+p120
+aVLuke Babbitt MIA 12/29/2016 MIA @ CHA L 21 7 3 5 60.0 1 3 33.3 0 0 - 0 3 3 1 0 2 0 2 -16
+p121
+aVJames Johnson MIA 12/29/2016 MIA @ CHA L 18 6 2 7 28.6 0 1 0.0 2 7 28.6 1 3 4 2 1 1 3 3 -1
+p122
+aVJosh Richardson MIA 12/29/2016 MIA @ CHA L 33 20 8 14 57.1 3 5 60.0 1 1 100.0 0 4 4 2 1 1 1 3 -10
+p123
+aVWillie Reed MIA 12/27/2016 MIA vs. OKC L 12 6 3 7 42.9 0 1 0.0 0 0 - 2 4 6 0 0 2 1 2 -13
+p124
+aVJosh Richardson MIA 12/27/2016 MIA vs. OKC L 37 22 9 16 56.3 2 6 33.3 2 2 100.0 0 5 5 3 1 0 0 4 -7
+p125
+aVWayne Ellington MIA 12/27/2016 MIA vs. OKC L 13 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 1 0 0 1 -6
+p126
+aVHassan Whiteside MIA 12/27/2016 MIA vs. OKC L 31 12 4 11 36.4 0 0 - 4 6 66.7 4 4 8 1 2 0 4 4 -5
+p127
+aVRodney McGruder MIA 12/27/2016 MIA vs. OKC L 36 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 1 0 0 0 2 -2
+p128
+aVTyler Johnson MIA 12/27/2016 MIA vs. OKC L 30 15 5 13 38.5 2 3 66.7 3 4 75.0 0 2 2 2 1 1 0 2 -8
+p129
+aVUdonis Haslem MIA 12/27/2016 MIA vs. OKC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p130
+aVDerrick Williams MIA 12/27/2016 MIA vs. OKC L 15 9 4 4 100.0 1 1 100.0 0 0 - 0 2 2 0 1 0 1 0 -2
+p131
+aVJames Johnson MIA 12/27/2016 MIA vs. OKC L 25 16 6 13 46.2 1 5 20.0 3 6 50.0 2 3 5 2 2 0 3 5 -15
+p132
+aVJustise Winslow MIA 12/27/2016 MIA vs. OKC L 35 7 2 10 20.0 0 2 0.0 3 3 100.0 0 3 3 5 2 1 3 3 -8
+p133
+aVJames Johnson MIA 12/23/2016 MIA @ NOP L 22 11 4 12 33.3 1 2 50.0 2 2 100.0 2 8 10 2 0 1 2 2 -14
+p134
+aVHassan Whiteside MIA 12/23/2016 MIA @ NOP L 36 10 4 10 40.0 0 0 - 2 6 33.3 7 11 18 2 0 2 1 3 -8
+p135
+aVJosh McRoberts MIA 12/23/2016 MIA @ NOP L 15 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 1 0 2 1 9
+p136
+aVLuke Babbitt MIA 12/23/2016 MIA @ NOP L 13 5 2 4 50.0 1 1 100.0 0 0 - 1 0 1 0 1 0 0 1 6
+p137
+aVJosh Richardson MIA 12/23/2016 MIA @ NOP L 33 7 2 8 25.0 1 4 25.0 2 2 100.0 0 1 1 3 1 0 2 4 1
+p138
+aVJustise Winslow MIA 12/23/2016 MIA @ NOP L 38 12 6 16 37.5 0 2 0.0 0 0 - 0 7 7 3 0 0 1 1 -9
+p139
+aVGoran Dragic MIA 12/23/2016 MIA @ NOP L 34 23 10 17 58.8 2 4 50.0 1 3 33.3 0 4 4 5 0 0 3 1 -5
+p140
+aVWillie Reed MIA 12/23/2016 MIA @ NOP L 12 0 0 1 0.0 0 0 - 0 0 - 1 7 8 0 0 1 1 3 5
+p141
+aVTyler Johnson MIA 12/23/2016 MIA @ NOP L 30 11 5 13 38.5 1 2 50.0 0 0 - 0 3 3 1 1 0 0 4 -7
+p142
+aVDerrick Williams MIA 12/23/2016 MIA @ NOP L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 5 5 1 0 0 1 0 2
+p143
+aVJosh Richardson MIA 12/22/2016 MIA vs. LAL W 37 9 4 11 36.4 1 3 33.3 0 0 - 1 4 5 3 0 1 2 2 0
+p144
+aVJames Johnson MIA 12/22/2016 MIA vs. LAL W 26 19 8 11 72.7 3 5 60.0 0 2 0.0 0 8 8 6 0 1 3 2 1
+p145
+aVWillie Reed MIA 12/22/2016 MIA vs. LAL W 6 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 1 2 0 1 -7
+p146
+aVTyler Johnson MIA 12/22/2016 MIA vs. LAL W 34 14 5 14 35.7 4 6 66.7 0 0 - 0 1 1 6 1 1 0 1 18
+p147
+aVGoran Dragic MIA 12/22/2016 MIA vs. LAL W 36 21 6 15 40.0 3 6 50.0 6 7 85.7 0 2 2 7 0 0 3 2 6
+p148
+aVJustise Winslow MIA 12/22/2016 MIA vs. LAL W 42 23 10 16 62.5 0 1 0.0 3 6 50.0 3 10 13 3 4 0 3 1 22
+p149
+aVJosh McRoberts MIA 12/22/2016 MIA vs. LAL W 16 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -9
+p150
+aVLuke Babbitt MIA 12/22/2016 MIA vs. LAL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p151
+aVHassan Whiteside MIA 12/22/2016 MIA vs. LAL W 37 23 9 12 75.0 0 0 - 5 6 83.3 3 10 13 0 1 1 1 3 13
+p152
+aVHassan Whiteside MIA 12/20/2016 MIA vs. ORL L 47 32 14 22 63.6 0 0 - 4 6 66.7 4 11 15 0 1 5 1 5 -3
+p153
+aVWillie Reed MIA 12/20/2016 MIA vs. ORL L 11 0 0 2 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 -4
+p154
+aVJosh Richardson MIA 12/20/2016 MIA vs. ORL L 44 9 2 12 16.7 2 8 25.0 3 4 75.0 1 3 4 6 0 0 2 4 -4
+p155
+aVTyler Johnson MIA 12/20/2016 MIA vs. ORL L 38 32 13 20 65.0 3 5 60.0 3 5 60.0 0 5 5 3 3 0 0 6 -9
+p156
+aVJames Johnson MIA 12/20/2016 MIA vs. ORL L 28 12 5 10 50.0 2 6 33.3 0 0 - 1 7 8 6 0 0 1 1 0
+p157
+aVJosh McRoberts MIA 12/20/2016 MIA vs. ORL L 16 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 2 0
+p158
+aVGoran Dragic MIA 12/20/2016 MIA vs. ORL L 45 19 6 17 35.3 3 6 50.0 4 6 66.7 0 4 4 5 0 0 4 6 -14
+p159
+aVJustise Winslow MIA 12/20/2016 MIA vs. ORL L 46 13 6 17 35.3 0 1 0.0 1 1 100.0 1 4 5 2 0 0 1 4 3
+p160
+aVLuke Babbitt MIA 12/20/2016 MIA vs. ORL L 15 8 2 4 50.0 2 3 66.7 2 2 100.0 0 2 2 0 0 1 0 1 1
+p161
+aVGoran Dragic MIA 12/18/2016 MIA vs. BOS L 37 31 12 21 57.1 5 6 83.3 2 4 50.0 0 4 4 7 0 0 5 4 -3
+p162
+aVRodney McGruder MIA 12/18/2016 MIA vs. BOS L 30 7 2 3 66.7 1 1 100.0 2 2 100.0 1 4 5 3 0 0 0 2 -6
+p163
+aVJosh McRoberts MIA 12/18/2016 MIA vs. BOS L 16 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 4 0 0 1 0 -10
+p164
+aVJustise Winslow MIA 12/18/2016 MIA vs. BOS L 32 8 2 3 66.7 0 0 - 4 8 50.0 1 3 4 4 4 1 5 5 0
+p165
+aVJosh Richardson MIA 12/18/2016 MIA vs. BOS L 35 6 3 11 27.3 0 7 0.0 0 0 - 0 3 3 0 0 0 0 1 -4
+p166
+aVLuke Babbitt MIA 12/18/2016 MIA vs. BOS L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -4
+p167
+aVHassan Whiteside MIA 12/18/2016 MIA vs. BOS L 38 23 9 13 69.2 0 0 - 5 9 55.6 2 15 17 0 0 3 3 3 -1
+p168
+aVJames Johnson MIA 12/18/2016 MIA vs. BOS L 19 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 2 1 0 5 2 -9
+p169
+aVTyler Johnson MIA 12/18/2016 MIA vs. BOS L 30 5 2 7 28.6 0 5 0.0 1 2 50.0 2 4 6 3 1 1 4 3 -13
+p170
+aVJustise Winslow MIA 12/16/2016 MIA vs. LAC L 29 15 6 12 50.0 1 1 100.0 2 4 50.0 2 2 4 0 1 0 1 2 -2
+p171
+aVJosh Richardson MIA 12/16/2016 MIA vs. LAC L 30 9 3 11 27.3 0 3 0.0 3 3 100.0 0 1 1 2 1 1 0 4 -10
+p172
+aVGoran Dragic MIA 12/16/2016 MIA vs. LAC L 39 21 7 16 43.8 0 3 0.0 7 7 100.0 1 5 6 11 1 0 1 2 -2
+p173
+aVDerrick Williams MIA 12/16/2016 MIA vs. LAC L 2 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 -1
+p174
+aVHassan Whiteside MIA 12/16/2016 MIA vs. LAC L 31 11 5 12 41.7 0 0 - 1 5 20.0 2 15 17 2 2 1 1 4 5
+p175
+aVRodney McGruder MIA 12/16/2016 MIA vs. LAC L 34 3 1 6 16.7 1 4 25.0 0 0 - 1 4 5 1 0 0 0 2 2
+p176
+aVLuke Babbitt MIA 12/16/2016 MIA vs. LAC L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 2 -5
+p177
+aVJames Johnson MIA 12/16/2016 MIA vs. LAC L 22 12 5 11 45.5 0 5 0.0 2 3 66.7 1 6 7 2 0 1 0 4 1
+p178
+aVJosh McRoberts MIA 12/16/2016 MIA vs. LAC L 17 11 4 10 40.0 3 5 60.0 0 0 - 0 0 0 2 0 1 1 1 -2
+p179
+aVWayne Ellington MIA 12/16/2016 MIA vs. LAC L 23 13 6 9 66.7 1 4 25.0 0 0 - 1 1 2 0 0 0 0 1 -6
+p180
+aVWillie Reed MIA 12/16/2016 MIA vs. LAC L 6 0 0 2 0.0 0 0 - 0 2 0.0 1 1 2 0 0 1 0 0 0
+p181
+aVWayne Ellington MIA 12/14/2016 MIA vs. IND W 21 8 3 10 30.0 2 8 25.0 0 0 - 0 3 3 1 1 0 2 2 1
+p182
+aVJustise Winslow MIA 12/14/2016 MIA vs. IND W 21 2 1 5 20.0 0 1 0.0 0 2 0.0 0 2 2 2 1 0 1 1 8
+p183
+aVTyler Johnson MIA 12/14/2016 MIA vs. IND W 33 15 6 13 46.2 1 5 20.0 2 4 50.0 1 4 5 3 0 4 0 2 11
+p184
+aVWillie Reed MIA 12/14/2016 MIA vs. IND W 7 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 2
+p185
+aVJames Johnson MIA 12/14/2016 MIA vs. IND W 25 14 6 9 66.7 1 1 100.0 1 2 50.0 1 2 3 6 0 0 1 3 15
+p186
+aVRodney McGruder MIA 12/14/2016 MIA vs. IND W 18 2 0 2 0.0 0 2 0.0 2 2 100.0 3 2 5 0 0 0 0 2 -7
+p187
+aVJosh McRoberts MIA 12/14/2016 MIA vs. IND W 18 5 2 2 100.0 1 1 100.0 0 0 - 1 3 4 2 0 0 0 1 -9
+p188
+aVHassan Whiteside MIA 12/14/2016 MIA vs. IND W 34 26 10 16 62.5 0 0 - 6 11 54.5 6 16 22 0 0 2 3 3 0
+p189
+aVJosh Richardson MIA 12/14/2016 MIA vs. IND W 30 10 4 8 50.0 2 4 50.0 0 0 - 1 4 5 3 0 0 3 0 13
+p190
+aVGoran Dragic MIA 12/14/2016 MIA vs. IND W 35 11 4 16 25.0 0 3 0.0 3 4 75.0 0 5 5 6 2 0 5 2 -4
+p191
+aVHassan Whiteside MIA 12/12/2016 MIA vs. WAS W 34 17 7 14 50.0 0 0 - 3 6 50.0 3 13 16 0 1 2 0 0 15
+p192
+aVWayne Ellington MIA 12/12/2016 MIA vs. WAS W 33 11 3 11 27.3 2 9 22.2 3 3 100.0 0 2 2 5 2 1 0 2 13
+p193
+aVRodney McGruder MIA 12/12/2016 MIA vs. WAS W 30 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 1 0 0 1 4 5
+p194
+aVGoran Dragic MIA 12/12/2016 MIA vs. WAS W 31 34 14 23 60.9 2 5 40.0 4 4 100.0 2 3 5 5 1 0 3 4 26
+p195
+aVJosh Richardson MIA 12/12/2016 MIA vs. WAS W 29 10 4 7 57.1 2 3 66.7 0 0 - 0 4 4 3 1 0 2 2 -2
+p196
+aVTyler Johnson MIA 12/12/2016 MIA vs. WAS W 30 11 5 10 50.0 1 2 50.0 0 0 - 0 3 3 3 1 0 2 3 -3
+p197
+aVJosh McRoberts MIA 12/12/2016 MIA vs. WAS W 18 7 3 8 37.5 1 3 33.3 0 0 - 3 5 8 5 0 0 1 1 4
+p198
+aVWillie Reed MIA 12/12/2016 MIA vs. WAS W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -10
+p199
+aVJames Johnson MIA 12/12/2016 MIA vs. WAS W 30 14 6 9 66.7 0 2 0.0 2 4 50.0 2 3 5 3 0 0 2 1 7
+p200
+aVJosh McRoberts MIA 12/10/2016 MIA @ CHI L 23 8 3 5 60.0 2 3 66.7 0 0 - 1 4 5 1 1 0 1 2 -6
+p201
+aVDerrick Williams MIA 12/10/2016 MIA @ CHI L 25 10 3 9 33.3 0 1 0.0 4 6 66.7 3 5 8 1 0 0 1 0 1
+p202
+aVGoran Dragic MIA 12/10/2016 MIA @ CHI L 35 21 10 19 52.6 0 2 0.0 1 1 100.0 1 4 5 11 0 0 5 2 -1
+p203
+aVHassan Whiteside MIA 12/10/2016 MIA @ CHI L 33 20 9 19 47.4 0 0 - 2 4 50.0 3 5 8 1 2 3 2 5 -5
+p204
+aVWillie Reed MIA 12/10/2016 MIA @ CHI L 15 8 4 5 80.0 0 0 - 0 2 0.0 4 3 7 1 0 1 0 2 0
+p205
+aVWayne Ellington MIA 12/10/2016 MIA @ CHI L 25 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 2 0 0 0 3 -6
+p206
+aVTyler Johnson MIA 12/10/2016 MIA @ CHI L 34 15 5 13 38.5 2 5 40.0 3 3 100.0 0 3 3 4 0 0 2 4 3
+p207
+aVRodney McGruder MIA 12/10/2016 MIA @ CHI L 25 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 -13
+p208
+aVJosh Richardson MIA 12/10/2016 MIA @ CHI L 26 11 5 12 41.7 0 6 0.0 1 2 50.0 1 2 3 4 1 0 1 3 2
+p209
+aVJosh McRoberts MIA 12/09/2016 MIA @ CLE L 19 6 3 13 23.1 0 2 0.0 0 0 - 3 1 4 4 0 0 1 2 -15
+p210
+aVWayne Ellington MIA 12/09/2016 MIA @ CLE L 33 10 4 12 33.3 2 9 22.2 0 0 - 0 1 1 2 0 0 1 3 -26
+p211
+aVRodney McGruder MIA 12/09/2016 MIA @ CLE L 37 6 3 10 30.0 0 4 0.0 0 0 - 4 4 8 5 2 0 2 3 -26
+p212
+aVWillie Reed MIA 12/09/2016 MIA @ CLE L 20 10 2 7 28.6 0 0 - 6 8 75.0 8 3 11 0 0 1 0 2 -7
+p213
+aVHassan Whiteside MIA 12/09/2016 MIA @ CLE L 28 8 4 10 40.0 0 0 - 0 0 - 6 6 12 0 0 0 4 3 -23
+p214
+aVTyler Johnson MIA 12/09/2016 MIA @ CLE L 38 12 5 17 29.4 2 6 33.3 0 0 - 0 5 5 2 2 1 1 1 -22
+p215
+aVDerrick Williams MIA 12/09/2016 MIA @ CLE L 31 17 6 11 54.5 0 2 0.0 5 7 71.4 1 1 2 1 2 0 0 2 -18
+p216
+aVGoran Dragic MIA 12/09/2016 MIA @ CLE L 34 15 4 10 40.0 2 4 50.0 5 6 83.3 1 2 3 4 0 1 4 2 -13
+p217
+aVWillie Reed MIA 12/07/2016 MIA @ ATL L 12 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 12
+p218
+aVTyler Johnson MIA 12/07/2016 MIA @ ATL L 35 27 8 16 50.0 4 5 80.0 7 8 87.5 0 2 2 5 1 1 0 1 4
+p219
+aVDerrick Williams MIA 12/07/2016 MIA @ ATL L 20 3 1 5 20.0 0 3 0.0 1 2 50.0 0 5 5 0 0 2 3 2 14
+p220
+aVJosh McRoberts MIA 12/07/2016 MIA @ ATL L 30 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 4 1 0 5 2 -19
+p221
+aVRodney McGruder MIA 12/07/2016 MIA @ ATL L 31 11 3 8 37.5 2 5 40.0 3 5 60.0 3 2 5 5 2 1 1 1 5
+p222
+aVGoran Dragic MIA 12/07/2016 MIA @ ATL L 35 21 8 17 47.1 1 4 25.0 4 4 100.0 0 2 2 4 1 1 3 4 -22
+p223
+aVHassan Whiteside MIA 12/07/2016 MIA @ ATL L 36 8 4 12 33.3 0 0 - 0 0 - 3 9 12 0 0 1 4 5 -20
+p224
+aVWayne Ellington MIA 12/07/2016 MIA @ ATL L 41 19 7 15 46.7 4 9 44.4 1 1 100.0 0 3 3 2 0 0 0 0 -14
+p225
+aVWillie Reed MIA 12/06/2016 MIA vs. NYK L 10 6 2 5 40.0 0 0 - 2 4 50.0 3 1 4 0 0 0 0 0 13
+p226
+aVRodney McGruder MIA 12/06/2016 MIA vs. NYK L 35 5 2 11 18.2 1 4 25.0 0 0 - 3 3 6 4 1 1 1 2 -12
+p227
+aVJosh McRoberts MIA 12/06/2016 MIA vs. NYK L 29 7 2 6 33.3 1 2 50.0 2 2 100.0 3 5 8 5 0 0 2 3 -1
+p228
+aVGoran Dragic MIA 12/06/2016 MIA vs. NYK L 40 29 11 17 64.7 4 4 100.0 3 4 75.0 1 3 4 7 2 0 5 1 -15
+p229
+aVUdonis Haslem MIA 12/06/2016 MIA vs. NYK L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -12
+p230
+aVTyler Johnson MIA 12/06/2016 MIA vs. NYK L 36 13 5 11 45.5 1 2 50.0 2 2 100.0 1 4 5 1 2 0 1 2 -11
+p231
+aVHassan Whiteside MIA 12/06/2016 MIA vs. NYK L 38 23 10 20 50.0 0 0 - 3 9 33.3 5 9 14 1 1 3 0 3 -24
+p232
+aVDerrick Williams MIA 12/06/2016 MIA vs. NYK L 15 5 1 5 20.0 0 2 0.0 3 4 75.0 0 3 3 0 1 0 1 4 2
+p233
+aVWayne Ellington MIA 12/06/2016 MIA vs. NYK L 33 14 5 14 35.7 4 11 36.4 0 0 - 0 2 2 3 1 0 0 1 5
+p234
+aVJames Johnson MIA 12/03/2016 MIA @ POR L 17 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 1 0 0 2 0 -20
+p235
+aVTyler Johnson MIA 12/03/2016 MIA @ POR L 34 9 3 14 21.4 2 5 40.0 1 2 50.0 1 6 7 4 2 1 1 3 -28
+p236
+aVRodney McGruder MIA 12/03/2016 MIA @ POR L 39 7 3 9 33.3 1 4 25.0 0 0 - 1 3 4 2 0 0 1 2 -2
+p237
+aVJosh McRoberts MIA 12/03/2016 MIA @ POR L 28 13 5 9 55.6 2 3 66.7 1 1 100.0 0 2 2 4 2 0 2 1 17
+p238
+aVGoran Dragic MIA 12/03/2016 MIA @ POR L 35 18 8 19 42.1 0 1 0.0 2 2 100.0 1 8 9 8 2 0 5 3 -2
+p239
+aVWayne Ellington MIA 12/03/2016 MIA @ POR L 39 12 5 13 38.5 1 8 12.5 1 2 50.0 0 2 2 3 0 0 1 1 5
+p240
+aVHassan Whiteside MIA 12/03/2016 MIA @ POR L 41 28 12 16 75.0 0 0 - 4 6 66.7 3 13 16 1 0 5 1 1 5
+p241
+aVWillie Reed MIA 12/03/2016 MIA @ POR L 7 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 -10
+p242
+aVWillie Reed MIA 12/01/2016 MIA @ UTA W 12 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 2
+p243
+aVHassan Whiteside MIA 12/01/2016 MIA @ UTA W 36 9 4 11 36.4 0 0 - 1 2 50.0 2 8 10 0 1 0 0 1 -1
+p244
+aVTyler Johnson MIA 12/01/2016 MIA @ UTA W 30 8 3 11 27.3 0 4 0.0 2 2 100.0 1 5 6 4 3 0 1 3 -4
+p245
+aVWayne Ellington MIA 12/01/2016 MIA @ UTA W 34 17 6 9 66.7 3 5 60.0 2 2 100.0 0 0 0 0 1 0 0 0 -5
+p246
+aVJosh McRoberts MIA 12/01/2016 MIA @ UTA W 24 10 5 10 50.0 0 1 0.0 0 0 - 2 3 5 1 0 0 2 0 -8
+p247
+aVJames Johnson MIA 12/01/2016 MIA @ UTA W 24 24 11 15 73.3 2 4 50.0 0 0 - 3 3 6 3 1 1 1 3 9
+p248
+aVRodney McGruder MIA 12/01/2016 MIA @ UTA W 36 9 2 4 50.0 1 2 50.0 4 4 100.0 1 4 5 2 0 1 0 2 15
+p249
+aVGoran Dragic MIA 12/01/2016 MIA @ UTA W 37 27 10 21 47.6 2 3 66.7 5 7 71.4 2 2 4 6 0 0 2 4 -1
+p250
+aVLuke Babbitt MIA 12/01/2016 MIA @ UTA W 8 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 -2
+p251
+aVGoran Dragic MIA 11/30/2016 MIA @ DEN W 34 16 6 17 35.3 0 3 0.0 4 6 66.7 0 3 3 7 1 0 0 5 -10
+p252
+aVJosh McRoberts MIA 11/30/2016 MIA @ DEN W 16 1 0 4 0.0 0 0 - 1 2 50.0 1 2 3 3 0 1 1 3 -6
+p253
+aVHassan Whiteside MIA 11/30/2016 MIA @ DEN W 32 25 11 17 64.7 0 0 - 3 5 60.0 4 12 16 1 1 4 1 3 0
+p254
+aVWillie Reed MIA 11/30/2016 MIA @ DEN W 16 0 0 1 0.0 0 0 - 0 2 0.0 1 6 7 1 0 0 0 3 8
+p255
+aVTyler Johnson MIA 11/30/2016 MIA @ DEN W 28 18 7 13 53.8 0 0 - 4 6 66.7 1 1 2 7 1 0 1 1 8
+p256
+aVLuke Babbitt MIA 11/30/2016 MIA @ DEN W 23 11 4 9 44.4 3 6 50.0 0 0 - 0 1 1 0 1 0 0 4 10
+p257
+aVJames Johnson MIA 11/30/2016 MIA @ DEN W 33 10 4 12 33.3 0 4 0.0 2 3 66.7 0 7 7 5 3 2 2 3 10
+p258
+aVWayne Ellington MIA 11/30/2016 MIA @ DEN W 32 22 8 14 57.1 5 9 55.6 1 2 50.0 0 2 2 2 4 0 1 0 9
+p259
+aVRodney McGruder MIA 11/30/2016 MIA @ DEN W 25 3 1 6 16.7 1 2 50.0 0 0 - 4 3 7 0 3 0 0 3 11
+p260
+aVRodney McGruder MIA 11/28/2016 MIA vs. BOS L 38 11 4 7 57.1 1 3 33.3 2 2 100.0 2 3 5 0 1 0 6 4 -1
+p261
+aVGoran Dragic MIA 11/28/2016 MIA vs. BOS L 38 27 8 15 53.3 0 2 0.0 11 12 91.7 0 2 2 17 1 0 1 5 -3
+p262
+aVJosh Richardson MIA 11/28/2016 MIA vs. BOS L 29 12 4 9 44.4 3 8 37.5 1 2 50.0 1 3 4 0 2 0 1 3 -1
+p263
+aVJosh McRoberts MIA 11/28/2016 MIA vs. BOS L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -4
+p264
+aVJames Johnson MIA 11/28/2016 MIA vs. BOS L 21 5 2 9 22.2 1 5 20.0 0 0 - 0 3 3 0 1 0 2 4 -6
+p265
+aVHassan Whiteside MIA 11/28/2016 MIA vs. BOS L 37 25 10 13 76.9 0 0 - 5 10 50.0 3 14 17 2 0 2 2 4 -4
+p266
+aVLuke Babbitt MIA 11/28/2016 MIA vs. BOS L 23 4 2 7 28.6 0 4 0.0 0 0 - 0 2 2 1 1 0 0 0 -13
+p267
+aVDerrick Williams MIA 11/28/2016 MIA vs. BOS L 21 9 3 9 33.3 0 3 0.0 3 6 50.0 0 4 4 0 0 0 0 1 -9
+p268
+aVWayne Ellington MIA 11/28/2016 MIA vs. BOS L 27 9 4 9 44.4 1 5 20.0 0 0 - 0 2 2 2 0 0 0 3 1
+p269
+aVTyler Johnson MIA 11/26/2016 MIA vs. MEM L 29 12 3 7 42.9 2 5 40.0 4 5 80.0 0 4 4 1 0 1 2 3 -3
+p270
+aVRodney McGruder MIA 11/26/2016 MIA vs. MEM L 34 11 5 10 50.0 1 4 25.0 0 0 - 2 2 4 2 0 1 1 2 -13
+p271
+aVUdonis Haslem MIA 11/26/2016 MIA vs. MEM L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p272
+aVLuke Babbitt MIA 11/26/2016 MIA vs. MEM L 16 1 0 4 0.0 0 2 0.0 1 2 50.0 0 2 2 0 0 0 0 1 0
+p273
+aVDerrick Williams MIA 11/26/2016 MIA vs. MEM L 16 13 5 9 55.6 1 5 20.0 2 2 100.0 1 1 2 0 0 1 0 1 0
+p274
+aVJames Johnson MIA 11/26/2016 MIA vs. MEM L 32 10 4 8 50.0 0 3 0.0 2 3 66.7 0 4 4 3 0 1 2 4 -3
+p275
+aVJosh McRoberts MIA 11/26/2016 MIA vs. MEM L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 2 0 0 1 -4
+p276
+aVHassan Whiteside MIA 11/26/2016 MIA vs. MEM L 34 15 7 11 63.6 0 0 - 1 4 25.0 4 8 12 0 1 2 1 4 3
+p277
+aVJosh Richardson MIA 11/26/2016 MIA vs. MEM L 29 15 5 12 41.7 3 7 42.9 2 2 100.0 1 2 3 5 0 0 2 3 0
+p278
+aVDion Waiters MIA 11/26/2016 MIA vs. MEM L 36 28 10 19 52.6 4 5 80.0 4 6 66.7 0 5 5 6 0 0 1 2 7
+p279
+aVUdonis Haslem MIA 11/25/2016 MIA @ MEM W 9 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 5
+p280
+aVDion Waiters MIA 11/25/2016 MIA @ MEM W 35 15 6 15 40.0 1 4 25.0 2 2 100.0 1 3 4 4 3 0 2 1 21
+p281
+aVJosh McRoberts MIA 11/25/2016 MIA @ MEM W 12 5 2 7 28.6 0 0 - 1 2 50.0 1 4 5 3 0 1 0 2 -4
+p282
+aVTyler Johnson MIA 11/25/2016 MIA @ MEM W 33 22 8 17 47.1 1 5 20.0 5 7 71.4 1 4 5 0 2 1 0 2 1
+p283
+aVJames Johnson MIA 11/25/2016 MIA @ MEM W 31 13 4 10 40.0 3 4 75.0 2 2 100.0 1 5 6 1 0 2 2 4 -2
+p284
+aVHassan Whiteside MIA 11/25/2016 MIA @ MEM W 27 4 1 6 16.7 0 0 - 2 5 40.0 4 8 12 1 0 2 1 6 8
+p285
+aVLuke Babbitt MIA 11/25/2016 MIA @ MEM W 20 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 1 0 1 0 1 -10
+p286
+aVJosh Richardson MIA 11/25/2016 MIA @ MEM W 27 12 4 9 44.4 4 7 57.1 0 0 - 0 3 3 4 1 0 0 1 5
+p287
+aVRodney McGruder MIA 11/25/2016 MIA @ MEM W 32 10 4 10 40.0 2 6 33.3 0 0 - 1 2 3 2 1 1 3 4 9
+p288
+aVDerrick Williams MIA 11/25/2016 MIA @ MEM W 14 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 0 12
+p289
+aVJosh McRoberts MIA 11/23/2016 MIA @ DET L 16 2 1 5 20.0 0 2 0.0 0 0 - 0 7 7 2 1 0 0 0 5
+p290
+aVGoran Dragic MIA 11/23/2016 MIA @ DET L 22 6 1 7 14.3 1 4 25.0 3 5 60.0 1 1 2 4 0 0 3 2 -31
+p291
+aVTyler Johnson MIA 11/23/2016 MIA @ DET L 32 17 5 13 38.5 0 3 0.0 7 9 77.8 0 2 2 7 1 1 1 0 -4
+p292
+aVLuke Babbitt MIA 11/23/2016 MIA @ DET L 18 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 0 0 0 2 4 12
+p293
+aVUdonis Haslem MIA 11/23/2016 MIA @ DET L 7 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 3
+p294
+aVJosh Richardson MIA 11/23/2016 MIA @ DET L 20 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 4 -22
+p295
+aVDerrick Williams MIA 11/23/2016 MIA @ DET L 12 5 2 5 40.0 0 2 0.0 1 2 50.0 1 1 2 0 0 0 0 1 -12
+p296
+aVHassan Whiteside MIA 11/23/2016 MIA @ DET L 25 6 3 8 37.5 0 0 - 0 0 - 1 7 8 0 1 1 2 2 -31
+p297
+aVJames Johnson MIA 11/23/2016 MIA @ DET L 35 15 3 6 50.0 2 4 50.0 7 8 87.5 0 4 4 2 2 2 2 4 -11
+p298
+aVRodney McGruder MIA 11/23/2016 MIA @ DET L 31 12 5 8 62.5 2 4 50.0 0 0 - 3 1 4 0 0 0 1 2 -2
+p299
+aVDion Waiters MIA 11/23/2016 MIA @ DET L 21 11 3 10 30.0 1 3 33.3 4 4 100.0 0 2 2 3 0 0 2 3 -22
+p300
+aVDion Waiters MIA 11/21/2016 MIA @ PHI L 33 19 6 15 40.0 2 6 33.3 5 6 83.3 0 3 3 5 0 1 0 3 -2
+p301
+aVUdonis Haslem MIA 11/21/2016 MIA @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -8
+p302
+aVHassan Whiteside MIA 11/21/2016 MIA @ PHI L 33 32 13 19 68.4 0 0 - 6 8 75.0 7 6 13 0 0 2 3 5 7
+p303
+aVLuke Babbitt MIA 11/21/2016 MIA @ PHI L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 2 1 -7
+p304
+aVJames Johnson MIA 11/21/2016 MIA @ PHI L 17 9 3 7 42.9 0 3 0.0 3 4 75.0 2 1 3 1 0 0 2 1 -3
+p305
+aVDerrick Williams MIA 11/21/2016 MIA @ PHI L 19 7 2 6 33.3 1 2 50.0 2 4 50.0 1 0 1 0 0 0 0 0 3
+p306
+aVJosh Richardson MIA 11/21/2016 MIA @ PHI L 29 4 1 11 9.1 1 8 12.5 1 2 50.0 0 2 2 1 1 1 0 1 -10
+p307
+aVTyler Johnson MIA 11/21/2016 MIA @ PHI L 30 3 1 7 14.3 1 2 50.0 0 0 - 2 7 9 1 2 0 1 4 -5
+p308
+aVJosh McRoberts MIA 11/21/2016 MIA @ PHI L 12 2 1 4 25.0 0 1 0.0 0 0 - 3 1 4 0 0 1 1 0 -6
+p309
+aVRodney McGruder MIA 11/21/2016 MIA @ PHI L 18 5 2 5 40.0 1 4 25.0 0 2 0.0 4 3 7 1 1 0 1 2 -3
+p310
+aVGoran Dragic MIA 11/21/2016 MIA @ PHI L 35 10 4 13 30.8 0 4 0.0 2 2 100.0 2 2 4 7 3 1 3 3 -1
+p311
+aVHassan Whiteside MIA 11/19/2016 MIA @ WAS W 40 18 9 14 64.3 0 0 - 0 3 0.0 9 9 18 1 0 3 0 4 7
+p312
+aVRodney McGruder MIA 11/19/2016 MIA @ WAS W 19 6 2 5 40.0 0 1 0.0 2 3 66.7 1 3 4 0 0 0 2 4 0
+p313
+aVLuke Babbitt MIA 11/19/2016 MIA @ WAS W 8 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 2 0 2 0 5
+p314
+aVTyler Johnson MIA 11/19/2016 MIA @ WAS W 25 5 1 9 11.1 1 4 25.0 2 2 100.0 1 2 3 4 0 0 1 2 6
+p315
+aVJames Johnson MIA 11/19/2016 MIA @ WAS W 27 17 7 8 87.5 2 3 66.7 1 3 33.3 2 1 3 1 1 2 2 0 -12
+p316
+aVDion Waiters MIA 11/19/2016 MIA @ WAS W 29 16 7 16 43.8 1 4 25.0 1 2 50.0 1 3 4 8 0 1 2 4 -2
+p317
+aVWillie Reed MIA 11/19/2016 MIA @ WAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p318
+aVDerrick Williams MIA 11/19/2016 MIA @ WAS W 17 12 5 9 55.6 2 4 50.0 0 0 - 2 3 5 0 0 0 1 1 11
+p319
+aVGoran Dragic MIA 11/19/2016 MIA @ WAS W 37 22 7 14 50.0 2 4 50.0 6 8 75.0 0 3 3 6 1 0 4 3 1
+p320
+aVJosh Richardson MIA 11/19/2016 MIA @ WAS W 34 15 4 8 50.0 4 6 66.7 3 5 60.0 1 6 7 1 1 1 1 1 2
+p321
+aVDerrick Williams MIA 11/17/2016 MIA vs. MIL W 15 2 1 5 20.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 1 -3
+p322
+aVTyler Johnson MIA 11/17/2016 MIA vs. MIL W 23 8 3 8 37.5 1 3 33.3 1 2 50.0 1 7 8 5 0 0 1 2 18
+p323
+aVLuke Babbitt MIA 11/17/2016 MIA vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p324
+aVHassan Whiteside MIA 11/17/2016 MIA vs. MIL W 29 12 5 12 41.7 0 0 - 2 4 50.0 7 10 17 0 2 6 1 3 8
+p325
+aVJames Johnson MIA 11/17/2016 MIA vs. MIL W 30 9 4 9 44.4 1 4 25.0 0 2 0.0 2 8 10 3 1 2 1 0 26
+p326
+aVRodney McGruder MIA 11/17/2016 MIA vs. MIL W 19 2 1 4 25.0 0 3 0.0 0 0 - 1 1 2 0 1 0 0 1 5
+p327
+aVDion Waiters MIA 11/17/2016 MIA vs. MIL W 35 23 10 22 45.5 0 5 0.0 3 5 60.0 0 7 7 4 0 0 0 3 7
+p328
+aVGoran Dragic MIA 11/17/2016 MIA vs. MIL W 35 16 5 14 35.7 1 3 33.3 5 6 83.3 2 4 6 4 1 0 2 2 8
+p329
+aVWillie Reed MIA 11/17/2016 MIA vs. MIL W 19 6 3 4 75.0 0 0 - 0 2 0.0 1 2 3 1 0 0 1 2 15
+p330
+aVJosh Richardson MIA 11/17/2016 MIA vs. MIL W 32 18 7 19 36.8 4 11 36.4 0 0 - 1 2 3 1 0 0 1 3 31
+p331
+aVDerrick Williams MIA 11/15/2016 MIA vs. ATL L 18 6 3 8 37.5 0 2 0.0 0 0 - 0 1 1 1 1 0 0 3 -15
+p332
+aVUdonis Haslem MIA 11/15/2016 MIA vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p333
+aVTyler Johnson MIA 11/15/2016 MIA vs. ATL L 33 14 5 10 50.0 2 4 50.0 2 4 50.0 0 2 2 2 0 1 6 1 -10
+p334
+aVJames Johnson MIA 11/15/2016 MIA vs. ATL L 26 13 5 8 62.5 3 5 60.0 0 0 - 2 2 4 0 1 1 4 5 9
+p335
+aVJosh Richardson MIA 11/15/2016 MIA vs. ATL L 38 19 8 14 57.1 1 3 33.3 2 2 100.0 1 3 4 2 2 3 3 3 -9
+p336
+aVJosh McRoberts MIA 11/15/2016 MIA vs. ATL L 9 0 0 3 0.0 0 0 - 0 0 - 1 4 5 1 0 0 0 2 -3
+p337
+aVRodney McGruder MIA 11/15/2016 MIA vs. ATL L 37 8 4 11 36.4 0 3 0.0 0 0 - 3 1 4 3 2 0 0 3 0
+p338
+aVDion Waiters MIA 11/15/2016 MIA vs. ATL L 34 11 5 18 27.8 1 5 20.0 0 0 - 0 1 1 2 3 1 5 3 10
+p339
+aVLuke Babbitt MIA 11/15/2016 MIA vs. ATL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 1
+p340
+aVHassan Whiteside MIA 11/15/2016 MIA vs. ATL L 38 19 6 15 40.0 0 0 - 7 8 87.5 10 15 25 2 2 1 4 3 4
+p341
+aVLuke Babbitt MIA 11/14/2016 MIA @ SAS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p342
+aVDerrick Williams MIA 11/14/2016 MIA @ SAS L 16 5 2 6 33.3 0 2 0.0 1 2 50.0 0 1 1 0 1 0 1 1 -3
+p343
+aVJustise Winslow MIA 11/14/2016 MIA @ SAS L 35 7 3 11 27.3 0 1 0.0 1 2 50.0 2 1 3 5 1 0 0 2 9
+p344
+aVJames Johnson MIA 11/14/2016 MIA @ SAS L 18 7 2 4 50.0 1 2 50.0 2 2 100.0 2 3 5 0 1 2 1 5 -11
+p345
+aVJosh McRoberts MIA 11/14/2016 MIA @ SAS L 14 0 0 6 0.0 0 1 0.0 0 0 - 0 3 3 3 2 0 0 2 -4
+p346
+aVJosh Richardson MIA 11/14/2016 MIA @ SAS L 28 8 4 9 44.4 0 2 0.0 0 0 - 1 0 1 4 1 0 3 4 -5
+p347
+aVHassan Whiteside MIA 11/14/2016 MIA @ SAS L 34 23 9 11 81.8 0 0 - 5 9 55.6 5 11 16 1 2 2 4 3 0
+p348
+aVTyler Johnson MIA 11/14/2016 MIA @ SAS L 33 11 4 9 44.4 0 0 - 3 6 50.0 0 8 8 6 1 0 0 0 1
+p349
+aVRodney McGruder MIA 11/14/2016 MIA @ SAS L 18 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 2 1 0 0 -6
+p350
+aVDion Waiters MIA 11/14/2016 MIA @ SAS L 36 27 12 26 46.2 3 6 50.0 0 0 - 0 2 2 3 3 3 4 5 -1
+p351
+aVJosh McRoberts MIA 11/12/2016 MIA vs. UTA L 13 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 3
+p352
+aVDion Waiters MIA 11/12/2016 MIA vs. UTA L 19 4 1 4 25.0 0 0 - 2 4 50.0 0 1 1 1 0 0 2 1 -16
+p353
+aVJosh Richardson MIA 11/12/2016 MIA vs. UTA L 33 12 6 16 37.5 0 3 0.0 0 0 - 0 3 3 4 2 1 1 3 -24
+p354
+aVTyler Johnson MIA 11/12/2016 MIA vs. UTA L 29 5 2 7 28.6 0 2 0.0 1 1 100.0 1 2 3 4 1 0 0 1 10
+p355
+aVHassan Whiteside MIA 11/12/2016 MIA vs. UTA L 33 15 6 13 46.2 0 0 - 3 6 50.0 2 12 14 1 0 2 1 2 -23
+p356
+aVJustise Winslow MIA 11/12/2016 MIA vs. UTA L 34 11 5 13 38.5 0 1 0.0 1 1 100.0 0 6 6 3 1 0 1 5 -17
+p357
+aVWillie Reed MIA 11/12/2016 MIA vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 9
+p358
+aVJames Johnson MIA 11/12/2016 MIA vs. UTA L 30 15 6 7 85.7 1 1 100.0 2 3 66.7 0 4 4 4 1 0 2 2 2
+p359
+aVDerrick Williams MIA 11/12/2016 MIA vs. UTA L 20 11 5 8 62.5 1 2 50.0 0 2 0.0 1 3 4 1 0 1 0 0 -4
+p360
+aVLuke Babbitt MIA 11/12/2016 MIA vs. UTA L 5 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p361
+aVRodney McGruder MIA 11/12/2016 MIA vs. UTA L 22 14 5 6 83.3 3 4 75.0 1 2 50.0 0 2 2 2 0 0 0 1 7
+p362
+aVJames Johnson MIA 11/10/2016 MIA vs. CHI L 21 5 2 5 40.0 1 3 33.3 0 0 - 0 4 4 1 0 1 1 0 -5
+p363
+aVJustise Winslow MIA 11/10/2016 MIA vs. CHI L 38 15 6 11 54.5 3 5 60.0 0 0 - 1 4 5 6 4 0 2 4 1
+p364
+aVLuke Babbitt MIA 11/10/2016 MIA vs. CHI L 16 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p365
+aVWillie Reed MIA 11/10/2016 MIA vs. CHI L 11 0 0 3 0.0 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -4
+p366
+aVGoran Dragic MIA 11/10/2016 MIA vs. CHI L 22 6 3 9 33.3 0 2 0.0 0 0 - 0 0 0 4 2 0 4 1 -5
+p367
+aVJosh Richardson MIA 11/10/2016 MIA vs. CHI L 28 16 6 13 46.2 4 7 57.1 0 0 - 0 1 1 0 0 1 0 3 1
+p368
+aVDion Waiters MIA 11/10/2016 MIA vs. CHI L 36 16 6 15 40.0 2 6 33.3 2 4 50.0 2 2 4 6 1 0 2 3 -4
+p369
+aVHassan Whiteside MIA 11/10/2016 MIA vs. CHI L 37 20 8 18 44.4 0 0 - 4 4 100.0 8 12 20 0 1 3 3 3 5
+p370
+aVTyler Johnson MIA 11/10/2016 MIA vs. CHI L 32 14 4 11 36.4 2 4 50.0 4 7 57.1 1 7 8 4 0 0 1 2 1
+p371
+aVWillie Reed MIA 11/07/2016 MIA @ OKC L 17 11 4 4 100.0 0 0 - 3 4 75.0 3 1 4 1 0 2 1 2 12
+p372
+aVJustise Winslow MIA 11/07/2016 MIA @ OKC L 32 6 2 13 15.4 0 2 0.0 2 2 100.0 1 2 3 0 2 0 0 2 -16
+p373
+aVGoran Dragic MIA 11/07/2016 MIA @ OKC L 25 11 5 12 41.7 0 1 0.0 1 1 100.0 0 1 1 4 0 0 2 2 -23
+p374
+aVJosh Richardson MIA 11/07/2016 MIA @ OKC L 25 7 3 8 37.5 1 4 25.0 0 0 - 2 2 4 0 0 0 1 3 11
+p375
+aVRodney McGruder MIA 11/07/2016 MIA @ OKC L 4 4 1 1 100.0 1 1 100.0 1 2 50.0 0 1 1 1 0 0 0 0 7
+p376
+aVDion Waiters MIA 11/07/2016 MIA @ OKC L 27 2 1 9 11.1 0 1 0.0 0 0 - 0 1 1 4 1 0 1 0 -18
+p377
+aVTyler Johnson MIA 11/07/2016 MIA @ OKC L 27 10 4 9 44.4 0 1 0.0 2 2 100.0 1 3 4 1 3 1 1 1 -1
+p378
+aVJames Johnson MIA 11/07/2016 MIA @ OKC L 25 18 5 12 41.7 1 3 33.3 7 7 100.0 2 4 6 1 1 2 3 4 15
+p379
+aVHassan Whiteside MIA 11/07/2016 MIA @ OKC L 31 5 2 8 25.0 0 0 - 1 2 50.0 1 11 12 0 0 2 2 2 -24
+p380
+aVLuke Babbitt MIA 11/07/2016 MIA @ OKC L 23 11 4 8 50.0 1 4 25.0 2 2 100.0 2 2 4 0 1 0 1 0 -27
+p381
+aVDerrick Williams MIA 11/07/2016 MIA @ OKC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p382
+aVJames Johnson MIA 11/04/2016 MIA @ TOR L 19 11 4 8 50.0 1 3 33.3 2 2 100.0 1 2 3 2 0 1 1 4 -10
+p383
+aVJosh Richardson MIA 11/04/2016 MIA @ TOR L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 2 2 -4
+p384
+aVWillie Reed MIA 11/04/2016 MIA @ TOR L 10 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -13
+p385
+aVRodney McGruder MIA 11/04/2016 MIA @ TOR L 6 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -7
+p386
+aVTyler Johnson MIA 11/04/2016 MIA @ TOR L 30 16 5 10 50.0 4 8 50.0 2 2 100.0 0 4 4 2 3 2 1 4 -5
+p387
+aVLuke Babbitt MIA 11/04/2016 MIA @ TOR L 27 3 1 5 20.0 1 5 20.0 0 0 - 1 4 5 0 0 0 0 0 -3
+p388
+aVJustise Winslow MIA 11/04/2016 MIA @ TOR L 39 13 5 18 27.8 0 2 0.0 3 4 75.0 1 2 3 4 2 0 1 2 6
+p389
+aVGoran Dragic MIA 11/04/2016 MIA @ TOR L 36 17 6 14 42.9 3 5 60.0 2 2 100.0 1 4 5 5 1 0 4 2 3
+p390
+aVHassan Whiteside MIA 11/04/2016 MIA @ TOR L 38 21 10 18 55.6 0 0 - 1 3 33.3 5 11 16 3 2 1 3 5 4
+p391
+aVDion Waiters MIA 11/04/2016 MIA @ TOR L 24 4 2 8 25.0 0 2 0.0 0 0 - 1 1 2 3 1 1 1 3 -16
+p392
+aVGoran Dragic MIA 11/01/2016 MIA vs. SAC W 41 25 8 14 57.1 5 8 62.5 4 7 57.1 1 6 7 8 2 2 3 2 9
+p393
+aVJustise Winslow MIA 11/01/2016 MIA vs. SAC W 41 9 3 15 20.0 2 5 40.0 1 2 50.0 1 2 3 7 1 0 2 3 8
+p394
+aVLuke Babbitt MIA 11/01/2016 MIA vs. SAC W 24 10 3 9 33.3 3 9 33.3 1 1 100.0 0 2 2 0 1 0 0 2 5
+p395
+aVWillie Reed MIA 11/01/2016 MIA vs. SAC W 9 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p396
+aVHassan Whiteside MIA 11/01/2016 MIA vs. SAC W 28 14 6 13 46.2 0 0 - 2 4 50.0 2 9 11 0 1 2 5 5 16
+p397
+aVDion Waiters MIA 11/01/2016 MIA vs. SAC W 42 20 7 14 50.0 1 3 33.3 5 7 71.4 0 4 4 4 1 2 3 1 16
+p398
+aVRodney McGruder MIA 11/01/2016 MIA vs. SAC W 14 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 1
+p399
+aVUdonis Haslem MIA 11/01/2016 MIA vs. SAC W 16 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 1 0 0 5 -7
+p400
+aVTyler Johnson MIA 11/01/2016 MIA vs. SAC W 32 22 7 11 63.6 2 2 100.0 6 6 100.0 0 4 4 2 2 2 1 1 4
+p401
+aVJames Johnson MIA 11/01/2016 MIA vs. SAC W 18 4 1 5 20.0 0 2 0.0 2 2 100.0 0 7 7 1 1 1 1 1 5
+p402
+aVDion Waiters MIA 10/30/2016 MIA vs. SAS L 33 9 3 9 33.3 2 3 66.7 1 2 50.0 0 2 2 3 1 1 6 3 1
+p403
+aVHassan Whiteside MIA 10/30/2016 MIA vs. SAS L 35 27 10 15 66.7 0 0 - 7 10 70.0 1 14 15 1 2 4 1 2 7
+p404
+aVGoran Dragic MIA 10/30/2016 MIA vs. SAS L 34 25 9 17 52.9 3 7 42.9 4 6 66.7 0 3 3 5 1 0 2 3 6
+p405
+aVJustise Winslow MIA 10/30/2016 MIA vs. SAS L 39 18 7 15 46.7 0 3 0.0 4 5 80.0 2 3 5 2 1 1 2 5 -2
+p406
+aVRodney McGruder MIA 10/30/2016 MIA vs. SAS L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -12
+p407
+aVLuke Babbitt MIA 10/30/2016 MIA vs. SAS L 25 6 2 6 33.3 2 5 40.0 0 0 - 0 5 5 4 0 0 0 2 0
+p408
+aVJames Johnson MIA 10/30/2016 MIA vs. SAS L 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -7
+p409
+aVTyler Johnson MIA 10/30/2016 MIA vs. SAS L 30 12 5 11 45.5 0 1 0.0 2 3 66.7 0 0 0 3 0 0 1 4 -16
+p410
+aVWillie Reed MIA 10/30/2016 MIA vs. SAS L 13 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 1 0 0 2 -12
+p411
+aVGoran Dragic MIA 10/28/2016 MIA vs. CHA L 34 14 4 12 33.3 3 5 60.0 3 3 100.0 1 3 4 9 1 0 4 3 6
+p412
+aVTyler Johnson MIA 10/28/2016 MIA vs. CHA L 29 12 4 10 40.0 2 4 50.0 2 2 100.0 1 5 6 0 0 0 1 3 -18
+p413
+aVJames Johnson MIA 10/28/2016 MIA vs. CHA L 23 0 0 6 0.0 0 3 0.0 0 0 - 0 6 6 1 0 1 2 2 -11
+p414
+aVRodney McGruder MIA 10/28/2016 MIA vs. CHA L 20 9 3 9 33.3 3 5 60.0 0 0 - 1 1 2 1 0 1 0 2 -2
+p415
+aVHassan Whiteside MIA 10/28/2016 MIA vs. CHA L 27 20 8 11 72.7 0 0 - 4 7 57.1 5 10 15 0 0 2 4 4 -1
+p416
+aVJustise Winslow MIA 10/28/2016 MIA vs. CHA L 32 10 4 14 28.6 1 6 16.7 1 2 50.0 0 6 6 5 0 0 4 2 -3
+p417
+aVWillie Reed MIA 10/28/2016 MIA vs. CHA L 21 7 2 3 66.7 0 0 - 3 4 75.0 2 1 3 0 0 0 1 2 -5
+p418
+aVDion Waiters MIA 10/28/2016 MIA vs. CHA L 34 13 5 16 31.3 3 7 42.9 0 2 0.0 1 6 7 3 1 0 3 4 -3
+p419
+aVLuke Babbitt MIA 10/28/2016 MIA vs. CHA L 20 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 0 0 0 0 1 7
+p420
+aVTyler Johnson MIA 10/26/2016 MIA @ ORL W 28 15 7 11 63.6 0 1 0.0 1 1 100.0 1 5 6 3 2 0 1 2 3
+p421
+aVDion Waiters MIA 10/26/2016 MIA @ ORL W 34 9 4 13 30.8 0 1 0.0 1 2 50.0 1 5 6 4 0 0 1 2 5
+p422
+aVWillie Reed MIA 10/26/2016 MIA @ ORL W 17 10 5 6 83.3 0 0 - 0 0 - 3 3 6 1 0 1 0 1 7
+p423
+aVJustise Winslow MIA 10/26/2016 MIA @ ORL W 34 15 7 15 46.7 0 2 0.0 1 1 100.0 3 5 8 4 1 2 2 4 15
+p424
+aVRodney McGruder MIA 10/26/2016 MIA @ ORL W 24 6 1 3 33.3 0 1 0.0 4 5 80.0 1 2 3 0 2 0 1 4 15
+p425
+aVGoran Dragic MIA 10/26/2016 MIA @ ORL W 29 16 7 15 46.7 0 1 0.0 2 2 100.0 3 3 6 6 0 0 3 4 -2
+p426
+aVJames Johnson MIA 10/26/2016 MIA @ ORL W 25 11 4 8 50.0 2 4 50.0 1 1 100.0 0 2 2 6 0 0 1 1 0
+p427
+aVLuke Babbitt MIA 10/26/2016 MIA @ ORL W 19 8 3 10 30.0 2 6 33.3 0 0 - 0 1 1 2 0 0 0 1 12
+p428
+aVHassan Whiteside MIA 10/26/2016 MIA @ ORL W 31 18 9 16 56.3 0 0 - 0 4 0.0 4 10 14 1 0 4 1 3 5
+p429
+a.

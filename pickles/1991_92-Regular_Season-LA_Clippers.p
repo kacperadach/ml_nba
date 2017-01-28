@@ -1,0 +1,1646 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJames Edwards LAC 04/19/1992 LAC @ LAL L 25 11 4 6 66.7 0 0 - 3 6 50.0 0 2 2 0 0 0 2 2 -
+p2
+aVGary Grant LAC 04/19/1992 LAC @ LAL L 22 4 2 5 40.0 0 0 - 0 0 - 0 2 2 4 0 0 1 3 -
+p3
+aVLAC 04/19/1992 LAC @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p4
+aVDanny Young LAC 04/19/1992 LAC @ LAL L 15 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 6 1 0 0 0 -
+p5
+aVCharles Smith LAC 04/19/1992 LAC @ LAL L 35 15 5 12 41.7 0 0 - 5 9 55.6 2 4 6 1 1 1 1 6 -
+p6
+aVDanny Manning LAC 04/19/1992 LAC @ LAL L 45 34 16 23 69.6 0 1 0.0 2 3 66.7 3 5 8 5 3 1 5 4 -
+p7
+aVDoc Rivers LAC 04/19/1992 LAC @ LAL L 35 8 4 10 40.0 0 3 0.0 0 0 - 1 0 1 2 2 0 3 5 -
+p8
+aVRon Harper LAC 04/19/1992 LAC @ LAL L 49 22 11 19 57.9 0 0 - 0 0 - 4 4 8 9 1 0 4 3 -
+p9
+aVKen Norman LAC 04/19/1992 LAC @ LAL L 35 7 3 10 30.0 0 0 - 1 1 100.0 2 11 13 4 0 1 0 4 -
+p10
+aVKen Norman LAC 04/17/1992 LAC @ GOS L 27 14 7 13 53.8 0 1 0.0 0 0 - 0 4 4 1 1 0 2 0 -
+p11
+aVJames Edwards LAC 04/17/1992 LAC @ GOS L 29 17 4 9 44.4 0 0 - 9 12 75.0 1 1 2 0 2 0 0 5 -
+p12
+aVGary Grant LAC 04/17/1992 LAC @ GOS L 16 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 1 0 1 4 -
+p13
+aVLAC 04/17/1992 LAC @ GOS L 23 8 4 7 57.1 0 0 - 0 1 0.0 1 4 5 0 0 1 2 6 -
+p14
+aVDoc Rivers LAC 04/17/1992 LAC @ GOS L 34 14 5 13 38.5 0 1 0.0 4 4 100.0 2 3 5 6 1 0 2 4 -
+p15
+aVBo Kimble LAC 04/17/1992 LAC @ GOS L 5 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -
+p16
+aVRon Harper LAC 04/17/1992 LAC @ GOS L 46 28 9 20 45.0 3 4 75.0 7 10 70.0 5 6 11 10 1 1 2 3 -
+p17
+aVDanny Young LAC 04/17/1992 LAC @ GOS L 30 2 0 6 0.0 0 3 0.0 2 3 66.7 0 0 0 4 2 1 1 2 -
+p18
+aVOlden Polynice LAC 04/17/1992 LAC @ GOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p19
+aVDanny Manning LAC 04/17/1992 LAC @ GOS L 27 12 5 11 45.5 0 0 - 2 2 100.0 3 4 7 1 1 0 3 4 -
+p20
+aVDanny Manning LAC 04/16/1992 LAC vs. MIN W 38 11 5 15 33.3 0 0 - 1 6 16.7 6 2 8 5 1 1 4 3 -
+p21
+aVRon Harper LAC 04/16/1992 LAC vs. MIN W 44 29 11 18 61.1 0 0 - 7 10 70.0 2 5 7 3 1 0 4 5 -
+p22
+aVDoc Rivers LAC 04/16/1992 LAC vs. MIN W 26 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 0 0 1 1 5 -
+p23
+aVJames Edwards LAC 04/16/1992 LAC vs. MIN W 15 5 0 4 0.0 0 0 - 5 6 83.3 0 2 2 1 0 0 1 3 -
+p24
+aVDanny Young LAC 04/16/1992 LAC vs. MIN W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p25
+aVOlden Polynice LAC 04/16/1992 LAC vs. MIN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p26
+aVGary Grant LAC 04/16/1992 LAC vs. MIN W 30 15 7 9 77.8 0 0 - 1 1 100.0 1 3 4 10 2 0 5 3 -
+p27
+aVKen Norman LAC 04/16/1992 LAC vs. MIN W 32 6 2 7 28.6 0 1 0.0 2 2 100.0 1 8 9 1 2 2 0 0 -
+p28
+aVCharles Smith LAC 04/16/1992 LAC vs. MIN W 41 24 10 12 83.3 0 0 - 4 5 80.0 2 9 11 2 0 4 2 3 -
+p29
+aVCharles Smith LAC 04/14/1992 LAC vs. SAC L 30 14 5 10 50.0 0 0 - 4 4 100.0 0 1 1 0 3 5 5 5 -
+p30
+aVRon Harper LAC 04/14/1992 LAC vs. SAC L 44 19 8 20 40.0 0 1 0.0 3 3 100.0 3 8 11 5 2 0 5 0 -
+p31
+aVKen Norman LAC 04/14/1992 LAC vs. SAC L 42 13 5 10 50.0 0 0 - 3 7 42.9 5 9 14 3 2 4 3 4 -
+p32
+aVLAC 04/14/1992 LAC vs. SAC L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -
+p33
+aVGary Grant LAC 04/14/1992 LAC vs. SAC L 33 14 6 9 66.7 1 1 100.0 1 1 100.0 0 1 1 10 1 0 3 2 -
+p34
+aVDoc Rivers LAC 04/14/1992 LAC vs. SAC L 21 9 4 11 36.4 0 2 0.0 1 3 33.3 1 0 1 1 1 0 2 1 -
+p35
+aVOlden Polynice LAC 04/14/1992 LAC vs. SAC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p36
+aVDanny Manning LAC 04/14/1992 LAC vs. SAC L 36 20 9 12 75.0 0 0 - 2 2 100.0 2 7 9 5 1 2 1 4 -
+p37
+aVDanny Young LAC 04/14/1992 LAC vs. SAC L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -
+p38
+aVJames Edwards LAC 04/14/1992 LAC vs. SAC L 10 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -
+p39
+aVBo Kimble LAC 04/11/1992 LAC vs. DEN W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -
+p40
+aVRon Harper LAC 04/11/1992 LAC vs. DEN W 28 18 7 12 58.3 1 1 100.0 3 7 42.9 0 4 4 3 2 0 3 0 -
+p41
+aVJames Edwards LAC 04/11/1992 LAC vs. DEN W 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 1 1 -
+p42
+aVDanny Young LAC 04/11/1992 LAC vs. DEN W 23 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 4 3 0 1 0 -
+p43
+aVDoc Rivers LAC 04/11/1992 LAC vs. DEN W 23 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 4 2 0 1 2 -
+p44
+aVOlden Polynice LAC 04/11/1992 LAC vs. DEN W 12 6 3 10 30.0 0 0 - 0 2 0.0 5 2 7 0 1 0 1 2 -
+p45
+aVCharles Smith LAC 04/11/1992 LAC vs. DEN W 30 29 10 10 100.0 0 0 - 9 10 90.0 1 6 7 1 0 7 2 4 -
+p46
+aVLAC 04/11/1992 LAC vs. DEN W 15 8 4 7 57.1 0 0 - 0 0 - 0 4 4 0 0 1 0 1 -
+p47
+aVGary Grant LAC 04/11/1992 LAC vs. DEN W 30 4 2 3 66.7 0 0 - 0 0 - 0 1 1 13 2 0 3 3 -
+p48
+aVDanny Manning LAC 04/11/1992 LAC vs. DEN W 29 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 7 4 1 2 4 -
+p49
+aVKen Norman LAC 04/11/1992 LAC vs. DEN W 26 20 6 9 66.7 0 0 - 8 13 61.5 3 9 12 3 1 0 3 2 -
+p50
+aVLeRon Ellis LAC 04/11/1992 LAC vs. DEN W 6 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -
+p51
+aVDoc Rivers LAC 04/09/1992 LAC vs. POR W 25 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 8 4 0 2 4 -
+p52
+aVCharles Smith LAC 04/09/1992 LAC vs. POR W 30 14 5 13 38.5 0 0 - 4 6 66.7 2 10 12 1 1 3 1 2 -
+p53
+aVJames Edwards LAC 04/09/1992 LAC vs. POR W 14 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 0 0 1 1 4 -
+p54
+aVOlden Polynice LAC 04/09/1992 LAC vs. POR W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p55
+aVDanny Manning LAC 04/09/1992 LAC vs. POR W 40 34 12 26 46.2 0 0 - 10 12 83.3 2 7 9 2 1 0 1 3 -
+p56
+aVRon Harper LAC 04/09/1992 LAC vs. POR W 40 26 9 15 60.0 1 2 50.0 7 8 87.5 3 2 5 3 2 2 2 2 -
+p57
+aVDanny Young LAC 04/09/1992 LAC vs. POR W 14 9 3 5 60.0 2 2 100.0 1 1 100.0 0 0 0 1 0 0 0 2 -
+p58
+aVKen Norman LAC 04/09/1992 LAC vs. POR W 39 10 5 13 38.5 0 0 - 0 0 - 3 6 9 4 2 3 3 5 -
+p59
+aVLAC 04/09/1992 LAC vs. POR W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -
+p60
+aVGary Grant LAC 04/09/1992 LAC vs. POR W 28 2 1 4 25.0 0 0 - 0 0 - 0 0 0 6 3 0 1 4 -
+p61
+aVRon Harper LAC 04/07/1992 LAC @ MIN W 42 24 11 16 68.8 0 1 0.0 2 4 50.0 1 3 4 6 0 2 3 1 -
+p62
+aVCharles Smith LAC 04/07/1992 LAC @ MIN W 31 22 6 8 75.0 0 0 - 10 14 71.4 3 3 6 1 1 4 1 5 -
+p63
+aVOlden Polynice LAC 04/07/1992 LAC @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p64
+aVDanny Young LAC 04/07/1992 LAC @ MIN W 15 4 1 4 25.0 1 1 100.0 1 1 100.0 0 1 1 5 0 0 1 1 -
+p65
+aVJames Edwards LAC 04/07/1992 LAC @ MIN W 22 16 6 10 60.0 0 0 - 4 5 80.0 1 1 2 1 0 0 1 1 -
+p66
+aVDanny Manning LAC 04/07/1992 LAC @ MIN W 36 18 7 14 50.0 0 0 - 4 4 100.0 4 11 15 5 1 0 4 3 -
+p67
+aVDoc Rivers LAC 04/07/1992 LAC @ MIN W 18 3 0 5 0.0 0 1 0.0 3 4 75.0 0 0 0 3 1 1 2 3 -
+p68
+aVGary Grant LAC 04/07/1992 LAC @ MIN W 29 2 1 4 25.0 0 0 - 0 0 - 1 0 1 5 1 0 1 2 -
+p69
+aVKen Norman LAC 04/07/1992 LAC @ MIN W 39 26 12 14 85.7 0 0 - 2 3 66.7 2 8 10 2 1 1 0 1 -
+p70
+aVLAC 04/07/1992 LAC @ MIN W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p71
+aVCharles Smith LAC 04/05/1992 LAC @ MIL W 26 16 6 10 60.0 0 0 - 4 7 57.1 2 7 9 2 1 1 1 5 -
+p72
+aVJames Edwards LAC 04/05/1992 LAC @ MIL W 19 8 1 5 20.0 0 0 - 6 8 75.0 0 3 3 1 0 1 3 1 -
+p73
+aVLAC 04/05/1992 LAC @ MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -
+p74
+aVDanny Young LAC 04/05/1992 LAC @ MIL W 14 4 1 3 33.3 1 1 100.0 1 2 50.0 2 1 3 1 0 0 1 1 -
+p75
+aVKen Norman LAC 04/05/1992 LAC @ MIL W 33 20 10 15 66.7 0 1 0.0 0 3 0.0 5 5 10 2 1 0 2 4 -
+p76
+aVDanny Manning LAC 04/05/1992 LAC @ MIL W 43 23 10 16 62.5 0 0 - 3 4 75.0 4 8 12 3 1 1 3 4 -
+p77
+aVDoc Rivers LAC 04/05/1992 LAC @ MIL W 33 10 3 8 37.5 0 0 - 4 5 80.0 0 0 0 6 5 0 1 1 -
+p78
+aVRon Harper LAC 04/05/1992 LAC @ MIL W 35 11 5 17 29.4 0 0 - 1 3 33.3 1 6 7 5 0 0 4 5 -
+p79
+aVGary Grant LAC 04/05/1992 LAC @ MIL W 35 5 2 6 33.3 1 1 100.0 0 0 - 1 4 5 8 3 1 3 3 -
+p80
+aVRon Harper LAC 04/03/1992 LAC @ CHI L 46 30 12 21 57.1 0 1 0.0 6 7 85.7 4 1 5 4 4 1 4 5 -
+p81
+aVDanny Young LAC 04/03/1992 LAC @ CHI L 23 2 1 2 50.0 0 0 - 0 0 - 0 2 2 6 0 0 1 2 -
+p82
+aVDanny Manning LAC 04/03/1992 LAC @ CHI L 41 25 10 18 55.6 0 0 - 5 6 83.3 5 6 11 3 2 0 1 4 -
+p83
+aVLAC 04/03/1992 LAC @ CHI L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p84
+aVCharles Smith LAC 04/03/1992 LAC @ CHI L 20 6 1 7 14.3 0 0 - 4 4 100.0 1 3 4 1 1 2 1 1 -
+p85
+aVJames Edwards LAC 04/03/1992 LAC @ CHI L 28 16 7 11 63.6 0 0 - 2 3 66.7 1 2 3 0 1 0 0 2 -
+p86
+aVDoc Rivers LAC 04/03/1992 LAC @ CHI L 42 12 4 11 36.4 0 3 0.0 4 4 100.0 0 3 3 4 2 0 2 3 -
+p87
+aVGary Grant LAC 04/03/1992 LAC @ CHI L 33 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 7 0 0 2 3 -
+p88
+aVLeRon Ellis LAC 04/02/1992 LAC @ CLE L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p89
+aVGary Grant LAC 04/02/1992 LAC @ CLE L 36 6 3 8 37.5 0 0 - 0 0 - 0 3 3 11 4 0 2 2 -
+p90
+aVBo Kimble LAC 04/02/1992 LAC @ CLE L 6 2 1 3 33.3 0 0 - 0 2 0.0 1 2 3 0 1 1 0 0 -
+p91
+aVCharles Smith LAC 04/02/1992 LAC @ CLE L 22 16 6 11 54.5 0 0 - 4 5 80.0 3 0 3 0 0 0 1 3 -
+p92
+aVDanny Young LAC 04/02/1992 LAC @ CLE L 16 2 0 2 0.0 0 1 0.0 2 2 100.0 1 0 1 3 1 0 2 1 -
+p93
+aVDoc Rivers LAC 04/02/1992 LAC @ CLE L 28 10 4 10 40.0 0 1 0.0 2 4 50.0 1 1 2 2 0 0 0 4 -
+p94
+aVOlden Polynice LAC 04/02/1992 LAC @ CLE L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p95
+aVDanny Manning LAC 04/02/1992 LAC @ CLE L 33 15 7 13 53.8 0 0 - 1 2 50.0 2 3 5 2 0 1 4 4 -
+p96
+aVJames Edwards LAC 04/02/1992 LAC @ CLE L 27 10 3 8 37.5 0 0 - 4 6 66.7 2 2 4 1 0 1 1 2 -
+p97
+aVRon Harper LAC 04/02/1992 LAC @ CLE L 30 20 8 11 72.7 3 4 75.0 1 1 100.0 1 3 4 5 0 0 2 1 -
+p98
+aVLAC 04/02/1992 LAC @ CLE L 30 13 5 12 41.7 0 0 - 3 3 100.0 1 7 8 1 0 0 0 2 -
+p99
+aVJames Edwards LAC 03/31/1992 LAC @ DET W 29 10 5 11 45.5 0 0 - 0 0 - 3 1 4 2 1 0 0 4 -
+p100
+aVRon Harper LAC 03/31/1992 LAC @ DET W 32 11 5 9 55.6 0 1 0.0 1 2 50.0 0 6 6 3 2 0 5 4 -
+p101
+aVCharles Smith LAC 03/31/1992 LAC @ DET W 27 19 7 8 87.5 0 0 - 5 6 83.3 3 4 7 0 5 1 1 3 -
+p102
+aVDanny Young LAC 03/31/1992 LAC @ DET W 15 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 2 -
+p103
+aVLAC 03/31/1992 LAC @ DET W 25 7 3 7 42.9 0 0 - 1 2 50.0 4 6 10 0 0 0 0 2 -
+p104
+aVDoc Rivers LAC 03/31/1992 LAC @ DET W 23 10 4 10 40.0 0 1 0.0 2 2 100.0 0 3 3 6 3 0 1 1 -
+p105
+aVOlden Polynice LAC 03/31/1992 LAC @ DET W 13 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 1 0 0 0 -
+p106
+aVGary Grant LAC 03/31/1992 LAC @ DET W 33 15 7 11 63.6 1 1 100.0 0 0 - 0 0 0 6 4 0 7 2 -
+p107
+aVDanny Manning LAC 03/31/1992 LAC @ DET W 43 18 8 16 50.0 0 0 - 2 2 100.0 4 3 7 5 3 1 5 2 -
+p108
+aVDoc Rivers LAC 03/28/1992 LAC vs. MIL W 29 13 6 10 60.0 0 2 0.0 1 1 100.0 0 0 0 4 3 1 2 1 -
+p109
+aVKen Norman LAC 03/28/1992 LAC vs. MIL W 35 12 6 11 54.5 0 0 - 0 6 0.0 5 3 8 4 1 0 2 1 -
+p110
+aVLAC 03/28/1992 LAC vs. MIL W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p111
+aVDanny Young LAC 03/28/1992 LAC vs. MIL W 14 4 2 3 66.7 0 0 - 0 0 - 0 3 3 8 0 0 0 1 -
+p112
+aVGary Grant LAC 03/28/1992 LAC vs. MIL W 32 6 3 8 37.5 0 0 - 0 0 - 0 3 3 9 1 0 4 1 -
+p113
+aVCharles Smith LAC 03/28/1992 LAC vs. MIL W 25 12 1 6 16.7 0 0 - 10 11 90.9 1 4 5 0 2 1 2 5 -
+p114
+aVRon Harper LAC 03/28/1992 LAC vs. MIL W 36 28 12 16 75.0 0 1 0.0 4 4 100.0 0 3 3 4 0 1 3 5 -
+p115
+aVDanny Manning LAC 03/28/1992 LAC vs. MIL W 39 19 9 15 60.0 0 0 - 1 1 100.0 0 10 10 5 4 0 2 3 -
+p116
+aVJames Edwards LAC 03/28/1992 LAC vs. MIL W 23 7 2 7 28.6 0 0 - 3 3 100.0 1 0 1 0 1 0 2 2 -
+p117
+aVKen Norman LAC 03/26/1992 LAC vs. HOU W 22 14 6 15 40.0 0 0 - 2 2 100.0 5 5 10 1 0 2 1 0 -
+p118
+aVOlden Polynice LAC 03/26/1992 LAC vs. HOU W 7 5 2 2 100.0 0 0 - 1 3 33.3 0 0 0 0 0 0 1 1 -
+p119
+aVRon Harper LAC 03/26/1992 LAC vs. HOU W 36 14 4 14 28.6 0 1 0.0 6 8 75.0 1 4 5 1 3 0 2 2 -
+p120
+aVLAC 03/26/1992 LAC vs. HOU W 16 4 2 3 66.7 0 0 - 0 0 - 0 6 6 0 0 0 1 2 -
+p121
+aVJames Edwards LAC 03/26/1992 LAC vs. HOU W 22 8 4 7 57.1 0 0 - 0 1 0.0 1 1 2 0 1 0 1 3 -
+p122
+aVCharles Smith LAC 03/26/1992 LAC vs. HOU W 22 14 4 9 44.4 0 0 - 6 6 100.0 2 6 8 1 0 3 1 2 -
+p123
+aVBo Kimble LAC 03/26/1992 LAC vs. HOU W 5 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 0 0 0 1 1 -
+p124
+aVDanny Young LAC 03/26/1992 LAC vs. HOU W 19 9 3 4 75.0 1 1 100.0 2 2 100.0 1 1 2 5 3 0 0 1 -
+p125
+aVGary Grant LAC 03/26/1992 LAC vs. HOU W 34 13 5 13 38.5 0 0 - 3 4 75.0 0 2 2 11 2 1 2 3 -
+p126
+aVDanny Manning LAC 03/26/1992 LAC vs. HOU W 33 18 8 11 72.7 0 0 - 2 2 100.0 6 3 9 3 2 0 2 5 -
+p127
+aVLeRon Ellis LAC 03/26/1992 LAC vs. HOU W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p128
+aVDoc Rivers LAC 03/26/1992 LAC vs. HOU W 22 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 3 2 0 4 1 -
+p129
+aVJames Edwards LAC 03/21/1992 LAC @ DEN W 13 6 1 4 25.0 0 0 - 4 4 100.0 2 1 3 0 0 1 1 3 -
+p130
+aVLAC 03/21/1992 LAC @ DEN W 18 14 7 9 77.8 0 0 - 0 0 - 0 3 3 1 1 0 1 3 -
+p131
+aVCharles Smith LAC 03/21/1992 LAC @ DEN W 14 11 4 10 40.0 0 0 - 3 3 100.0 1 3 4 0 0 2 1 2 -
+p132
+aVDoc Rivers LAC 03/21/1992 LAC @ DEN W 23 10 4 8 50.0 0 0 - 2 2 100.0 0 3 3 3 1 0 0 3 -
+p133
+aVBo Kimble LAC 03/21/1992 LAC @ DEN W 15 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 2 2 -
+p134
+aVLeRon Ellis LAC 03/21/1992 LAC @ DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -
+p135
+aVKen Norman LAC 03/21/1992 LAC @ DEN W 31 14 5 7 71.4 0 0 - 4 4 100.0 0 4 4 2 1 1 0 1 -
+p136
+aVOlden Polynice LAC 03/21/1992 LAC @ DEN W 18 7 3 3 100.0 0 0 - 1 2 50.0 0 6 6 0 0 1 1 3 -
+p137
+aVRon Harper LAC 03/21/1992 LAC @ DEN W 31 16 5 12 41.7 0 0 - 6 8 75.0 2 6 8 4 0 0 1 1 -
+p138
+aVDanny Manning LAC 03/21/1992 LAC @ DEN W 26 18 6 9 66.7 0 0 - 6 6 100.0 3 3 6 3 2 4 6 2 -
+p139
+aVDanny Young LAC 03/21/1992 LAC @ DEN W 23 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 0 -
+p140
+aVGary Grant LAC 03/21/1992 LAC @ DEN W 24 8 4 7 57.1 0 0 - 0 0 - 0 4 4 8 3 0 3 0 -
+p141
+aVLAC 03/20/1992 LAC @ PHX W 20 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 1 3 -
+p142
+aVDanny Young LAC 03/20/1992 LAC @ PHX W 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 3 2 -
+p143
+aVGary Grant LAC 03/20/1992 LAC @ PHX W 30 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 16 4 1 0 3 -
+p144
+aVKen Norman LAC 03/20/1992 LAC @ PHX W 29 14 7 11 63.6 0 0 - 0 3 0.0 0 4 4 0 0 1 3 0 -
+p145
+aVDanny Manning LAC 03/20/1992 LAC @ PHX W 37 27 12 17 70.6 0 0 - 3 6 50.0 5 4 9 4 0 3 1 3 -
+p146
+aVCharles Smith LAC 03/20/1992 LAC @ PHX W 22 17 5 10 50.0 0 0 - 7 8 87.5 1 3 4 1 0 0 1 3 -
+p147
+aVBo Kimble LAC 03/20/1992 LAC @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p148
+aVRon Harper LAC 03/20/1992 LAC @ PHX W 38 23 10 19 52.6 0 1 0.0 3 3 100.0 2 6 8 5 3 2 6 4 -
+p149
+aVJames Edwards LAC 03/20/1992 LAC @ PHX W 23 7 3 8 37.5 0 0 - 1 1 100.0 1 5 6 2 0 3 2 3 -
+p150
+aVDoc Rivers LAC 03/20/1992 LAC @ PHX W 26 18 8 12 66.7 2 2 100.0 0 0 - 1 2 3 1 2 0 0 3 -
+p151
+aVDanny Manning LAC 03/18/1992 LAC @ DAL W 34 23 8 10 80.0 0 0 - 7 7 100.0 0 4 4 4 2 1 0 4 -
+p152
+aVDoc Rivers LAC 03/18/1992 LAC @ DAL W 17 2 0 2 0.0 0 0 - 2 2 100.0 0 4 4 1 2 0 1 3 -
+p153
+aVDanny Young LAC 03/18/1992 LAC @ DAL W 15 4 2 4 50.0 0 0 - 0 0 - 1 0 1 3 1 0 0 1 -
+p154
+aVGary Grant LAC 03/18/1992 LAC @ DAL W 28 10 5 8 62.5 0 1 0.0 0 1 0.0 0 4 4 8 1 0 2 0 -
+p155
+aVRon Harper LAC 03/18/1992 LAC @ DAL W 38 22 7 18 38.9 0 1 0.0 8 9 88.9 1 4 5 3 2 0 0 2 -
+p156
+aVKen Norman LAC 03/18/1992 LAC @ DAL W 26 14 7 10 70.0 0 0 - 0 1 0.0 0 3 3 1 1 1 4 4 -
+p157
+aVBo Kimble LAC 03/18/1992 LAC @ DAL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -
+p158
+aVLeRon Ellis LAC 03/18/1992 LAC @ DAL W 4 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 -
+p159
+aVLAC 03/18/1992 LAC @ DAL W 23 8 4 9 44.4 0 0 - 0 0 - 2 4 6 2 0 0 1 0 -
+p160
+aVCharles Smith LAC 03/18/1992 LAC @ DAL W 23 12 3 7 42.9 0 0 - 6 6 100.0 3 3 6 3 0 0 0 2 -
+p161
+aVOlden Polynice LAC 03/18/1992 LAC @ DAL W 5 8 3 3 100.0 0 0 - 2 4 50.0 2 2 4 0 0 1 0 0 -
+p162
+aVJames Edwards LAC 03/18/1992 LAC @ DAL W 20 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 0 0 1 0 3 -
+p163
+aVOlden Polynice LAC 03/17/1992 LAC @ HOU L 14 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p164
+aVJames Edwards LAC 03/17/1992 LAC @ HOU L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -
+p165
+aVRon Harper LAC 03/17/1992 LAC @ HOU L 41 14 6 20 30.0 0 3 0.0 2 2 100.0 0 1 1 5 2 1 3 1 -
+p166
+aVGary Grant LAC 03/17/1992 LAC @ HOU L 28 10 4 10 40.0 1 3 33.3 1 1 100.0 1 3 4 9 2 0 6 1 -
+p167
+aVDoc Rivers LAC 03/17/1992 LAC @ HOU L 25 8 3 8 37.5 0 2 0.0 2 2 100.0 1 2 3 5 2 0 1 1 -
+p168
+aVDanny Young LAC 03/17/1992 LAC @ HOU L 12 8 3 6 50.0 1 2 50.0 1 1 100.0 0 2 2 1 2 0 2 0 -
+p169
+aVKen Norman LAC 03/17/1992 LAC @ HOU L 27 0 0 6 0.0 0 1 0.0 0 0 - 0 7 7 1 0 0 1 2 -
+p170
+aVLAC 03/17/1992 LAC @ HOU L 17 7 2 4 50.0 0 0 - 3 3 100.0 2 2 4 1 1 0 2 2 -
+p171
+aVDanny Manning LAC 03/17/1992 LAC @ HOU L 41 28 12 23 52.2 0 0 - 4 7 57.1 6 8 14 1 2 0 3 3 -
+p172
+aVCharles Smith LAC 03/17/1992 LAC @ HOU L 27 11 5 9 55.6 0 0 - 1 1 100.0 3 3 6 2 1 1 1 6 -
+p173
+aVLAC 03/15/1992 LAC vs. SAC W 22 17 8 8 100.0 0 0 - 1 1 100.0 2 7 9 7 0 1 0 3 -
+p174
+aVOlden Polynice LAC 03/15/1992 LAC vs. SAC W 20 8 4 8 50.0 0 0 - 0 1 0.0 0 3 3 1 1 0 0 3 -
+p175
+aVBo Kimble LAC 03/15/1992 LAC vs. SAC W 10 5 2 6 33.3 0 0 - 1 1 100.0 1 1 2 1 0 0 0 1 -
+p176
+aVDanny Young LAC 03/15/1992 LAC vs. SAC W 22 8 2 6 33.3 0 0 - 4 4 100.0 0 0 0 5 0 0 1 1 -
+p177
+aVRon Harper LAC 03/15/1992 LAC vs. SAC W 30 20 10 12 83.3 0 0 - 0 1 0.0 1 2 3 3 4 1 6 0 -
+p178
+aVGary Grant LAC 03/15/1992 LAC vs. SAC W 28 10 5 8 62.5 0 0 - 0 1 0.0 0 4 4 12 0 0 2 1 -
+p179
+aVLeRon Ellis LAC 03/15/1992 LAC vs. SAC W 5 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -
+p180
+aVKen Norman LAC 03/15/1992 LAC vs. SAC W 26 16 6 14 42.9 0 0 - 4 4 100.0 2 4 6 2 0 1 1 0 -
+p181
+aVDanny Manning LAC 03/15/1992 LAC vs. SAC W 31 20 9 12 75.0 0 0 - 2 2 100.0 5 5 10 7 1 2 3 2 -
+p182
+aVDoc Rivers LAC 03/15/1992 LAC vs. SAC W 27 9 4 5 80.0 0 0 - 1 1 100.0 0 0 0 6 3 1 5 6 -
+p183
+aVCharles Smith LAC 03/15/1992 LAC vs. SAC W 19 14 6 8 75.0 0 0 - 2 4 50.0 1 5 6 0 1 1 1 4 -
+p184
+aVDanny Young LAC 03/13/1992 LAC vs. DAL W 12 11 3 7 42.9 0 1 0.0 5 6 83.3 0 1 1 3 0 0 0 0 -
+p185
+aVLAC 03/13/1992 LAC vs. DAL W 17 0 0 3 0.0 0 0 - 0 0 - 3 4 7 1 0 0 1 2 -
+p186
+aVRon Harper LAC 03/13/1992 LAC vs. DAL W 38 23 9 20 45.0 0 0 - 5 9 55.6 4 8 12 4 1 2 1 2 -
+p187
+aVOlden Polynice LAC 03/13/1992 LAC vs. DAL W 16 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 0 1 0 1 0 -
+p188
+aVDanny Manning LAC 03/13/1992 LAC vs. DAL W 36 12 5 9 55.6 0 0 - 2 3 66.7 1 5 6 6 2 0 2 6 -
+p189
+aVCharles Smith LAC 03/13/1992 LAC vs. DAL W 21 12 3 6 50.0 0 0 - 6 7 85.7 3 4 7 2 0 2 0 4 -
+p190
+aVJames Edwards LAC 03/13/1992 LAC vs. DAL W 11 6 1 3 33.3 0 0 - 4 6 66.7 1 0 1 0 0 0 0 1 -
+p191
+aVGary Grant LAC 03/13/1992 LAC vs. DAL W 25 6 3 5 60.0 0 0 - 0 0 - 1 2 3 8 5 0 3 6 -
+p192
+aVKen Norman LAC 03/13/1992 LAC vs. DAL W 38 19 7 14 50.0 0 0 - 5 8 62.5 4 3 7 0 0 2 1 2 -
+p193
+aVDoc Rivers LAC 03/13/1992 LAC vs. DAL W 26 11 3 8 37.5 0 0 - 5 6 83.3 0 2 2 3 1 1 1 1 -
+p194
+aVGary Grant LAC 03/11/1992 LAC vs. SEA L 35 11 5 9 55.6 1 1 100.0 0 0 - 0 2 2 4 0 3 7 3 -
+p195
+aVDanny Manning LAC 03/11/1992 LAC vs. SEA L 36 23 10 13 76.9 0 0 - 3 6 50.0 1 1 2 4 1 4 2 3 -
+p196
+aVJames Edwards LAC 03/11/1992 LAC vs. SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p197
+aVBo Kimble LAC 03/11/1992 LAC vs. SEA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p198
+aVDoc Rivers LAC 03/11/1992 LAC vs. SEA L 25 13 4 9 44.4 0 2 0.0 5 5 100.0 0 1 1 1 0 0 2 3 -
+p199
+aVKen Norman LAC 03/11/1992 LAC vs. SEA L 22 8 2 4 50.0 0 0 - 4 8 50.0 0 4 4 1 1 0 0 1 -
+p200
+aVDanny Young LAC 03/11/1992 LAC vs. SEA L 12 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 4 0 0 0 0 -
+p201
+aVRon Harper LAC 03/11/1992 LAC vs. SEA L 42 14 6 11 54.5 0 1 0.0 2 3 66.7 1 2 3 5 1 0 3 4 -
+p202
+aVLAC 03/11/1992 LAC vs. SEA L 27 9 4 12 33.3 1 1 100.0 0 0 - 4 10 14 0 0 0 1 2 -
+p203
+aVOlden Polynice LAC 03/11/1992 LAC vs. SEA L 17 8 4 6 66.7 0 0 - 0 0 - 1 5 6 0 0 0 0 0 -
+p204
+aVCharles Smith LAC 03/11/1992 LAC vs. SEA L 19 7 2 7 28.6 0 0 - 3 6 50.0 1 3 4 0 1 1 0 5 -
+p205
+aVOlden Polynice LAC 03/10/1992 LAC @ SAC W 23 10 5 5 100.0 0 0 - 0 0 - 3 2 5 0 1 0 3 4 -
+p206
+aVDoc Rivers LAC 03/10/1992 LAC @ SAC W 17 14 3 7 42.9 1 1 100.0 7 8 87.5 1 0 1 1 5 0 1 3 -
+p207
+aVDanny Manning LAC 03/10/1992 LAC @ SAC W 32 20 7 11 63.6 0 0 - 6 7 85.7 4 1 5 1 1 1 3 4 -
+p208
+aVLAC 03/10/1992 LAC @ SAC W 22 17 7 10 70.0 0 0 - 3 3 100.0 3 2 5 1 0 0 0 3 -
+p209
+aVRon Harper LAC 03/10/1992 LAC @ SAC W 39 13 5 11 45.5 0 1 0.0 3 4 75.0 1 9 10 8 2 2 6 3 -
+p210
+aVKen Norman LAC 03/10/1992 LAC @ SAC W 40 21 9 17 52.9 0 0 - 3 6 50.0 3 6 9 4 2 2 0 3 -
+p211
+aVLeRon Ellis LAC 03/10/1992 LAC @ SAC W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p212
+aVBo Kimble LAC 03/10/1992 LAC @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p213
+aVCharles Smith LAC 03/10/1992 LAC @ SAC W 13 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -
+p214
+aVGary Grant LAC 03/10/1992 LAC @ SAC W 33 10 5 9 55.6 0 1 0.0 0 0 - 0 3 3 11 2 0 3 1 -
+p215
+aVDanny Young LAC 03/10/1992 LAC @ SAC W 17 9 3 6 50.0 1 2 50.0 2 3 66.7 0 0 0 3 1 0 2 2 -
+p216
+aVDanny Young LAC 03/08/1992 LAC vs. GOS W 23 9 3 9 33.3 1 2 50.0 2 2 100.0 1 3 4 3 1 0 3 1 -
+p217
+aVRon Harper LAC 03/08/1992 LAC vs. GOS W 39 21 9 17 52.9 0 1 0.0 3 6 50.0 3 1 4 6 1 0 3 4 -
+p218
+aVOlden Polynice LAC 03/08/1992 LAC vs. GOS W 19 6 2 5 40.0 0 0 - 2 3 66.7 0 7 7 1 1 0 0 1 -
+p219
+aVGary Grant LAC 03/08/1992 LAC vs. GOS W 41 10 5 12 41.7 0 0 - 0 0 - 0 2 2 10 2 0 7 5 -
+p220
+aVLAC 03/08/1992 LAC vs. GOS W 22 4 2 5 40.0 0 0 - 0 0 - 4 5 9 0 0 1 3 2 -
+p221
+aVKen Norman LAC 03/08/1992 LAC vs. GOS W 31 13 5 10 50.0 0 0 - 3 4 75.0 3 3 6 4 2 1 2 1 -
+p222
+aVCharles Smith LAC 03/08/1992 LAC vs. GOS W 24 14 6 9 66.7 0 0 - 2 2 100.0 1 4 5 1 3 2 2 1 -
+p223
+aVDanny Manning LAC 03/08/1992 LAC vs. GOS W 41 20 9 18 50.0 0 0 - 2 2 100.0 6 4 10 1 3 1 3 3 -
+p224
+aVDanny Young LAC 03/06/1992 LAC @ BOS L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -
+p225
+aVLAC 03/06/1992 LAC @ BOS L 26 15 6 10 60.0 0 0 - 3 4 75.0 2 9 11 2 1 1 1 0 -
+p226
+aVKen Norman LAC 03/06/1992 LAC @ BOS L 36 14 7 14 50.0 0 0 - 0 1 0.0 2 6 8 3 0 1 3 4 -
+p227
+aVDanny Manning LAC 03/06/1992 LAC @ BOS L 34 22 8 14 57.1 0 0 - 6 7 85.7 2 5 7 1 0 0 2 3 -
+p228
+aVRon Harper LAC 03/06/1992 LAC @ BOS L 36 18 7 13 53.8 1 1 100.0 3 4 75.0 1 3 4 4 0 0 3 2 -
+p229
+aVTharon Mayes LAC 03/06/1992 LAC @ BOS L 12 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 3 1 0 1 4 -
+p230
+aVGary Grant LAC 03/06/1992 LAC @ BOS L 27 8 4 9 44.4 0 0 - 0 0 - 1 0 1 6 0 0 3 6 -
+p231
+aVOlden Polynice LAC 03/06/1992 LAC @ BOS L 18 4 2 5 40.0 0 0 - 0 0 - 0 5 5 1 0 0 1 1 -
+p232
+aVCharles Smith LAC 03/06/1992 LAC @ BOS L 17 4 2 7 28.6 0 0 - 0 0 - 0 3 3 2 0 0 0 1 -
+p233
+aVLeRon Ellis LAC 03/06/1992 LAC @ BOS L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -
+p234
+aVBo Kimble LAC 03/06/1992 LAC @ BOS L 16 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 2 -
+p235
+aVRon Harper LAC 03/05/1992 LAC @ NYK L 42 23 7 10 70.0 1 1 100.0 8 8 100.0 1 1 2 4 2 1 2 2 -
+p236
+aVBo Kimble LAC 03/05/1992 LAC @ NYK L 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -
+p237
+aVKen Norman LAC 03/05/1992 LAC @ NYK L 33 10 5 13 38.5 0 0 - 0 2 0.0 1 7 8 3 1 1 0 1 -
+p238
+aVGary Grant LAC 03/05/1992 LAC @ NYK L 32 9 4 10 40.0 1 1 100.0 0 0 - 0 1 1 8 1 0 3 6 -
+p239
+aVCharles Smith LAC 03/05/1992 LAC @ NYK L 21 9 3 7 42.9 0 1 0.0 3 6 50.0 3 1 4 0 0 1 0 3 -
+p240
+aVOlden Polynice LAC 03/05/1992 LAC @ NYK L 27 8 3 6 50.0 0 0 - 2 3 66.7 0 1 1 0 1 0 1 5 -
+p241
+aVTharon Mayes LAC 03/05/1992 LAC @ NYK L 15 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 1 3 -
+p242
+aVLAC 03/05/1992 LAC @ NYK L 17 11 5 8 62.5 0 0 - 1 2 50.0 2 6 8 1 0 0 1 1 -
+p243
+aVDanny Manning LAC 03/05/1992 LAC @ NYK L 41 18 8 17 47.1 0 0 - 2 3 66.7 1 4 5 0 0 0 8 4 -
+p244
+aVTharon Mayes LAC 03/03/1992 LAC @ MIA W 13 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 2 -
+p245
+aVGary Grant LAC 03/03/1992 LAC @ MIA W 41 14 6 12 50.0 0 0 - 2 2 100.0 2 4 6 13 0 0 2 1 -
+p246
+aVKen Norman LAC 03/03/1992 LAC @ MIA W 39 18 8 13 61.5 0 0 - 2 3 66.7 2 2 4 2 2 1 2 3 -
+p247
+aVBo Kimble LAC 03/03/1992 LAC @ MIA W 12 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 4 -
+p248
+aVRon Harper LAC 03/03/1992 LAC @ MIA W 38 20 9 26 34.6 0 2 0.0 2 3 66.7 2 4 6 3 4 0 2 4 -
+p249
+aVLAC 03/03/1992 LAC @ MIA W 16 10 5 8 62.5 0 0 - 0 0 - 2 3 5 1 1 1 1 2 -
+p250
+aVOlden Polynice LAC 03/03/1992 LAC @ MIA W 29 12 6 10 60.0 0 0 - 0 1 0.0 4 3 7 1 2 0 2 4 -
+p251
+aVCharles Smith LAC 03/03/1992 LAC @ MIA W 16 8 2 5 40.0 0 0 - 4 6 66.7 2 2 4 1 0 0 0 4 -
+p252
+aVDanny Manning LAC 03/03/1992 LAC @ MIA W 36 30 11 20 55.0 0 0 - 8 9 88.9 4 5 9 6 2 2 3 4 -
+p253
+aVRon Harper LAC 03/01/1992 LAC @ ORL W 41 24 9 16 56.3 1 2 50.0 5 6 83.3 3 6 9 9 2 0 6 4 -
+p254
+aVLAC 03/01/1992 LAC @ ORL W 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 2 0 0 3 -
+p255
+aVOlden Polynice LAC 03/01/1992 LAC @ ORL W 30 10 3 9 33.3 0 0 - 4 5 80.0 5 6 11 1 2 1 2 2 -
+p256
+aVDanny Young LAC 03/01/1992 LAC @ ORL W 24 3 1 4 25.0 0 3 0.0 1 2 50.0 0 3 3 4 0 0 0 1 -
+p257
+aVKen Norman LAC 03/01/1992 LAC @ ORL W 37 12 4 10 40.0 0 0 - 4 10 40.0 2 7 9 3 2 1 2 2 -
+p258
+aVCharles Smith LAC 03/01/1992 LAC @ ORL W 19 15 5 10 50.0 0 0 - 5 5 100.0 3 2 5 0 1 0 1 4 -
+p259
+aVDanny Manning LAC 03/01/1992 LAC @ ORL W 40 25 11 20 55.0 0 0 - 3 5 60.0 3 4 7 1 0 0 3 4 -
+p260
+aVGary Grant LAC 03/01/1992 LAC @ ORL W 38 8 3 13 23.1 0 1 0.0 2 2 100.0 1 3 4 7 2 1 3 2 -
+p261
+aVDanny Manning LAC 02/28/1992 LAC vs. MIA W 38 34 15 23 65.2 0 0 - 4 5 80.0 4 12 16 4 0 2 7 4 -
+p262
+aVJames Edwards LAC 02/28/1992 LAC vs. MIA W 19 5 2 4 50.0 0 0 - 1 4 25.0 1 3 4 1 1 0 3 4 -
+p263
+aVBo Kimble LAC 02/28/1992 LAC vs. MIA W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p264
+aVGary Grant LAC 02/28/1992 LAC vs. MIA W 34 16 7 11 63.6 0 0 - 2 2 100.0 0 2 2 8 2 0 5 2 -
+p265
+aVDanny Young LAC 02/28/1992 LAC vs. MIA W 20 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 3 2 0 0 0 -
+p266
+aVRon Harper LAC 02/28/1992 LAC vs. MIA W 41 21 6 16 37.5 0 1 0.0 9 12 75.0 2 3 5 6 3 0 4 3 -
+p267
+aVLAC 02/28/1992 LAC vs. MIA W 18 2 1 4 25.0 0 0 - 0 0 - 2 10 12 1 0 1 2 2 -
+p268
+aVOlden Polynice LAC 02/28/1992 LAC vs. MIA W 25 8 2 6 33.3 0 0 - 4 5 80.0 2 7 9 1 3 0 3 4 -
+p269
+aVDoc Rivers LAC 02/28/1992 LAC vs. MIA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p270
+aVLeRon Ellis LAC 02/28/1992 LAC vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p271
+aVKen Norman LAC 02/28/1992 LAC vs. MIA W 39 16 6 14 42.9 0 1 0.0 4 6 66.7 6 1 7 2 3 1 2 2 -
+p272
+aVOlden Polynice LAC 02/25/1992 LAC vs. UTH L 28 8 4 8 50.0 0 0 - 0 0 - 3 4 7 1 0 0 1 4 -
+p273
+aVLAC 02/25/1992 LAC vs. UTH L 28 14 7 12 58.3 0 0 - 0 0 - 5 5 10 2 2 0 3 3 -
+p274
+aVDoc Rivers LAC 02/25/1992 LAC vs. UTH L 22 10 5 8 62.5 0 0 - 0 0 - 1 3 4 4 0 0 2 4 -
+p275
+aVKen Norman LAC 02/25/1992 LAC vs. UTH L 22 6 3 8 37.5 0 0 - 0 0 - 4 5 9 1 0 1 1 3 -
+p276
+aVBo Kimble LAC 02/25/1992 LAC vs. UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p277
+aVGary Grant LAC 02/25/1992 LAC vs. UTH L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 8 4 0 0 3 -
+p278
+aVDanny Manning LAC 02/25/1992 LAC vs. UTH L 41 28 13 21 61.9 0 0 - 2 2 100.0 2 5 7 4 3 2 5 3 -
+p279
+aVDanny Young LAC 02/25/1992 LAC vs. UTH L 22 4 2 5 40.0 0 2 0.0 0 0 - 1 0 1 8 1 1 1 2 -
+p280
+aVRon Harper LAC 02/25/1992 LAC vs. UTH L 40 15 6 16 37.5 1 3 33.3 2 2 100.0 1 1 2 6 0 1 3 2 -
+p281
+aVJames Edwards LAC 02/25/1992 LAC vs. UTH L 16 12 4 7 57.1 0 0 - 4 5 80.0 0 0 0 1 0 0 0 3 -
+p282
+aVJames Edwards LAC 02/22/1992 LAC @ PHX L 18 8 3 7 42.9 0 0 - 2 3 66.7 0 2 2 2 0 0 2 5 -
+p283
+aVDanny Young LAC 02/22/1992 LAC @ PHX L 19 2 1 5 20.0 0 0 - 0 0 - 1 1 2 5 2 0 1 1 -
+p284
+aVDoc Rivers LAC 02/22/1992 LAC @ PHX L 26 7 3 6 50.0 0 1 0.0 1 2 50.0 0 1 1 2 1 0 1 3 -
+p285
+aVGary Grant LAC 02/22/1992 LAC @ PHX L 23 6 3 6 50.0 0 0 - 0 0 - 1 3 4 9 0 1 1 5 -
+p286
+aVLeRon Ellis LAC 02/22/1992 LAC @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p287
+aVDanny Manning LAC 02/22/1992 LAC @ PHX L 37 22 9 19 47.4 0 0 - 4 5 80.0 4 4 8 5 5 2 2 5 -
+p288
+aVOlden Polynice LAC 02/22/1992 LAC @ PHX L 20 9 2 7 28.6 0 0 - 5 6 83.3 3 1 4 1 2 0 0 2 -
+p289
+aVBo Kimble LAC 02/22/1992 LAC @ PHX L 1 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -
+p290
+aVRon Harper LAC 02/22/1992 LAC @ PHX L 38 28 9 19 47.4 0 1 0.0 10 12 83.3 1 2 3 2 0 0 4 2 -
+p291
+aVKen Norman LAC 02/22/1992 LAC @ PHX L 26 14 6 10 60.0 1 1 100.0 1 2 50.0 2 1 3 0 2 1 0 3 -
+p292
+aVLAC 02/22/1992 LAC @ PHX L 31 14 7 11 63.6 0 0 - 0 0 - 2 4 6 2 0 0 1 4 -
+p293
+aVDoc Rivers LAC 02/21/1992 LAC vs. POR L 25 12 5 8 62.5 1 3 33.3 1 2 50.0 0 3 3 7 2 0 2 4 -
+p294
+aVDanny Young LAC 02/21/1992 LAC vs. POR L 10 9 3 6 50.0 1 2 50.0 2 2 100.0 0 0 0 2 2 0 0 0 -
+p295
+aVDanny Manning LAC 02/21/1992 LAC vs. POR L 38 30 11 19 57.9 0 0 - 8 11 72.7 2 3 5 5 0 2 0 3 -
+p296
+aVGary Grant LAC 02/21/1992 LAC vs. POR L 24 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 11 2 0 3 3 -
+p297
+aVJames Edwards LAC 02/21/1992 LAC vs. POR L 21 14 5 8 62.5 0 0 - 4 6 66.7 1 0 1 0 0 1 0 5 -
+p298
+aVKen Norman LAC 02/21/1992 LAC vs. POR L 29 10 3 5 60.0 0 0 - 4 8 50.0 1 1 2 1 2 0 3 3 -
+p299
+aVOlden Polynice LAC 02/21/1992 LAC vs. POR L 27 6 3 6 50.0 0 0 - 0 1 0.0 3 3 6 0 0 0 2 2 -
+p300
+aVRon Harper LAC 02/21/1992 LAC vs. POR L 37 19 9 13 69.2 0 0 - 1 1 100.0 0 4 4 1 2 2 5 2 -
+p301
+aVLAC 02/21/1992 LAC vs. POR L 29 12 6 9 66.7 0 0 - 0 0 - 2 6 8 0 0 0 2 3 -
+p302
+aVRon Harper LAC 02/19/1992 LAC vs. LAL W 25 14 6 13 46.2 0 1 0.0 2 3 66.7 1 2 3 5 1 0 1 1 -
+p303
+aVLeRon Ellis LAC 02/19/1992 LAC vs. LAL W 16 4 2 9 22.2 0 0 - 0 1 0.0 2 1 3 0 1 1 1 2 -
+p304
+aVDanny Manning LAC 02/19/1992 LAC vs. LAL W 24 9 4 11 36.4 0 0 - 1 1 100.0 1 4 5 4 1 2 2 2 -
+p305
+aVBo Kimble LAC 02/19/1992 LAC vs. LAL W 17 15 5 9 55.6 1 1 100.0 4 4 100.0 0 0 0 1 1 1 1 3 -
+p306
+aVLAC 02/19/1992 LAC vs. LAL W 29 14 7 9 77.8 0 0 - 0 1 0.0 4 11 15 3 0 0 1 5 -
+p307
+aVDoc Rivers LAC 02/19/1992 LAC vs. LAL W 17 7 2 4 50.0 1 3 33.3 2 2 100.0 0 3 3 5 1 0 2 2 -
+p308
+aVJames Edwards LAC 02/19/1992 LAC vs. LAL W 15 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 2 -
+p309
+aVGary Grant LAC 02/19/1992 LAC vs. LAL W 26 12 6 12 50.0 0 0 - 0 0 - 1 4 5 8 3 0 1 2 -
+p310
+aVDanny Young LAC 02/19/1992 LAC vs. LAL W 21 8 4 5 80.0 0 0 - 0 0 - 1 1 2 6 2 0 3 0 -
+p311
+aVKen Norman LAC 02/19/1992 LAC vs. LAL W 28 22 9 13 69.2 0 0 - 4 6 66.7 9 4 13 2 0 0 5 1 -
+p312
+aVOlden Polynice LAC 02/19/1992 LAC vs. LAL W 22 12 6 8 75.0 0 0 - 0 0 - 4 2 6 0 0 1 1 3 -
+p313
+aVOlden Polynice LAC 02/17/1992 LAC vs. SAN W 22 8 4 7 57.1 0 0 - 0 2 0.0 2 3 5 0 0 0 0 2 -
+p314
+aVKen Norman LAC 02/17/1992 LAC vs. SAN W 31 14 7 12 58.3 0 0 - 0 0 - 3 6 9 2 0 3 0 2 -
+p315
+aVDoc Rivers LAC 02/17/1992 LAC vs. SAN W 19 4 2 5 40.0 0 0 - 0 0 - 0 1 1 5 1 0 0 4 -
+p316
+aVLAC 02/17/1992 LAC vs. SAN W 23 6 2 6 33.3 0 0 - 2 2 100.0 4 4 8 2 2 0 0 1 -
+p317
+aVDanny Young LAC 02/17/1992 LAC vs. SAN W 20 13 4 8 50.0 0 3 0.0 5 5 100.0 0 2 2 5 0 0 0 1 -
+p318
+aVJames Edwards LAC 02/17/1992 LAC vs. SAN W 27 26 7 13 53.8 0 0 - 12 17 70.6 1 1 2 2 0 0 1 3 -
+p319
+aVDanny Manning LAC 02/17/1992 LAC vs. SAN W 33 19 7 15 46.7 0 0 - 5 5 100.0 2 6 8 6 1 0 4 3 -
+p320
+aVGary Grant LAC 02/17/1992 LAC vs. SAN W 29 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 9 1 0 2 5 -
+p321
+aVRon Harper LAC 02/17/1992 LAC vs. SAN W 36 24 10 15 66.7 0 0 - 4 6 66.7 2 5 7 6 2 0 2 3 -
+p322
+aVGary Grant LAC 02/16/1992 LAC @ POR W 32 18 9 19 47.4 0 0 - 0 0 - 1 1 2 8 1 0 3 5 -
+p323
+aVDanny Young LAC 02/16/1992 LAC @ POR W 22 9 2 4 50.0 1 2 50.0 4 4 100.0 0 2 2 6 0 0 0 2 -
+p324
+aVRon Harper LAC 02/16/1992 LAC @ POR W 42 17 8 19 42.1 0 2 0.0 1 1 100.0 0 3 3 4 3 0 3 1 -
+p325
+aVJames Edwards LAC 02/16/1992 LAC @ POR W 20 6 3 8 37.5 0 0 - 0 0 - 0 1 1 0 0 0 2 5 -
+p326
+aVOlden Polynice LAC 02/16/1992 LAC @ POR W 28 8 4 6 66.7 0 0 - 0 0 - 5 7 12 1 3 0 1 2 -
+p327
+aVKen Norman LAC 02/16/1992 LAC @ POR W 25 16 8 15 53.3 0 0 - 0 0 - 0 4 4 0 0 1 1 3 -
+p328
+aVLAC 02/16/1992 LAC @ POR W 31 2 1 5 20.0 0 0 - 0 0 - 2 6 8 2 1 1 1 2 -
+p329
+aVDanny Manning LAC 02/16/1992 LAC @ POR W 40 31 12 20 60.0 0 0 - 7 9 77.8 5 1 6 6 2 1 2 4 -
+p330
+aVLeRon Ellis LAC 02/14/1992 LAC vs. PHX W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p331
+aVKen Norman LAC 02/14/1992 LAC vs. PHX W 32 10 4 7 57.1 0 0 - 2 3 66.7 3 7 10 0 1 1 0 3 -
+p332
+aVBo Kimble LAC 02/14/1992 LAC vs. PHX W 15 5 2 8 25.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 0 -
+p333
+aVLAC 02/14/1992 LAC vs. PHX W 27 8 3 9 33.3 0 0 - 2 2 100.0 0 10 10 0 1 0 0 3 -
+p334
+aVOlden Polynice LAC 02/14/1992 LAC vs. PHX W 19 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 0 1 2 1 -
+p335
+aVDanny Manning LAC 02/14/1992 LAC vs. PHX W 37 26 12 19 63.2 0 0 - 2 2 100.0 0 4 4 3 4 2 1 3 -
+p336
+aVGary Grant LAC 02/14/1992 LAC vs. PHX W 35 9 3 7 42.9 0 0 - 3 4 75.0 0 5 5 12 2 0 4 2 -
+p337
+aVDanny Young LAC 02/14/1992 LAC vs. PHX W 17 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 1 2 0 1 4 -
+p338
+aVJames Edwards LAC 02/14/1992 LAC vs. PHX W 26 19 7 12 58.3 0 0 - 5 8 62.5 0 2 2 0 1 0 0 4 -
+p339
+aVRon Harper LAC 02/14/1992 LAC vs. PHX W 31 17 7 15 46.7 0 1 0.0 3 4 75.0 2 3 5 7 1 2 1 4 -
+p340
+aVOlden Polynice LAC 02/12/1992 LAC vs. HOU W 28 9 3 5 60.0 0 0 - 3 4 75.0 5 8 13 0 0 0 3 4 -
+p341
+aVLeRon Ellis LAC 02/12/1992 LAC vs. HOU W 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 0 -
+p342
+aVJames Edwards LAC 02/12/1992 LAC vs. HOU W 21 14 6 7 85.7 0 0 - 2 2 100.0 2 5 7 1 0 0 1 4 -
+p343
+aVGary Grant LAC 02/12/1992 LAC vs. HOU W 30 12 5 12 41.7 0 1 0.0 2 2 100.0 1 3 4 7 3 0 2 1 -
+p344
+aVDanny Young LAC 02/12/1992 LAC vs. HOU W 21 4 1 6 16.7 0 0 - 2 3 66.7 0 2 2 3 1 1 2 0 -
+p345
+aVRon Harper LAC 02/12/1992 LAC vs. HOU W 36 21 9 19 47.4 0 0 - 3 5 60.0 0 3 3 2 3 0 3 4 -
+p346
+aVLAC 02/12/1992 LAC vs. HOU W 20 8 4 8 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 5 -
+p347
+aVKen Norman LAC 02/12/1992 LAC vs. HOU W 28 7 2 13 15.4 0 0 - 3 7 42.9 2 2 4 5 2 0 2 2 -
+p348
+aVBo Kimble LAC 02/12/1992 LAC vs. HOU W 9 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -
+p349
+aVDanny Manning LAC 02/12/1992 LAC vs. HOU W 42 15 3 8 37.5 0 1 0.0 9 13 69.2 5 6 11 5 1 2 2 5 -
+p350
+aVCharles Smith LAC 02/05/1992 LAC @ LAL L 27 6 3 10 30.0 0 0 - 0 0 - 1 4 5 1 1 3 1 4 -
+p351
+aVLAC 02/05/1992 LAC @ LAL L 12 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -
+p352
+aVDanny Young LAC 02/05/1992 LAC @ LAL L 20 4 2 3 66.7 0 0 - 0 0 - 0 1 1 4 0 0 1 1 -
+p353
+aVKen Norman LAC 02/05/1992 LAC @ LAL L 26 9 3 5 60.0 0 0 - 3 4 75.0 0 5 5 3 0 1 1 4 -
+p354
+aVRon Harper LAC 02/05/1992 LAC @ LAL L 39 19 5 16 31.3 1 4 25.0 8 10 80.0 1 4 5 7 3 0 3 1 -
+p355
+aVOlden Polynice LAC 02/05/1992 LAC @ LAL L 38 14 5 10 50.0 0 0 - 4 5 80.0 5 6 11 0 0 1 0 4 -
+p356
+aVDanny Manning LAC 02/05/1992 LAC @ LAL L 41 28 12 20 60.0 0 0 - 4 7 57.1 2 5 7 4 1 1 3 5 -
+p357
+aVBo Kimble LAC 02/05/1992 LAC @ LAL L 9 5 2 5 40.0 0 2 0.0 1 1 100.0 1 0 1 0 2 0 0 2 -
+p358
+aVGary Grant LAC 02/05/1992 LAC @ LAL L 28 6 3 10 30.0 0 0 - 0 0 - 1 0 1 8 0 0 4 0 -
+p359
+aVGary Grant LAC 02/04/1992 LAC vs. DAL W 28 10 5 11 45.5 0 2 0.0 0 0 - 0 4 4 4 3 0 1 1 -
+p360
+aVKen Norman LAC 02/04/1992 LAC vs. DAL W 22 19 9 15 60.0 0 0 - 1 2 50.0 5 4 9 2 0 1 2 2 -
+p361
+aVBo Kimble LAC 02/04/1992 LAC vs. DAL W 9 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -
+p362
+aVLeRon Ellis LAC 02/04/1992 LAC vs. DAL W 4 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p363
+aVLAC 02/04/1992 LAC vs. DAL W 16 8 4 6 66.7 0 0 - 0 0 - 1 7 8 0 0 1 0 3 -
+p364
+aVJames Edwards LAC 02/04/1992 LAC vs. DAL W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 1 0 1 -
+p365
+aVRon Harper LAC 02/04/1992 LAC vs. DAL W 38 18 7 16 43.8 0 2 0.0 4 6 66.7 1 10 11 7 0 2 3 2 -
+p366
+aVDanny Young LAC 02/04/1992 LAC vs. DAL W 21 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 2 0 0 2 -
+p367
+aVDanny Manning LAC 02/04/1992 LAC vs. DAL W 26 17 7 8 87.5 0 0 - 3 3 100.0 1 2 3 1 1 1 2 5 -
+p368
+aVCharles Smith LAC 02/04/1992 LAC vs. DAL W 31 5 2 8 25.0 0 0 - 1 1 100.0 1 5 6 1 1 2 5 4 -
+p369
+aVOlden Polynice LAC 02/04/1992 LAC vs. DAL W 35 4 1 5 20.0 0 0 - 2 4 50.0 2 8 10 1 0 1 1 1 -
+p370
+aVRon Harper LAC 02/01/1992 LAC vs. NJN W 37 27 12 25 48.0 1 1 100.0 2 5 40.0 1 4 5 5 2 2 1 1 -
+p371
+aVOlden Polynice LAC 02/01/1992 LAC vs. NJN W 30 11 5 7 71.4 0 0 - 1 2 50.0 6 7 13 0 0 0 0 2 -
+p372
+aVCharles Smith LAC 02/01/1992 LAC vs. NJN W 40 24 8 14 57.1 0 0 - 8 8 100.0 5 3 8 1 3 5 1 5 -
+p373
+aVGary Grant LAC 02/01/1992 LAC vs. NJN W 14 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 1 1 2 3 -
+p374
+aVJames Edwards LAC 02/01/1992 LAC vs. NJN W 18 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 0 0 1 3 -
+p375
+aVBo Kimble LAC 02/01/1992 LAC vs. NJN W 11 4 2 3 66.7 0 0 - 0 2 0.0 2 0 2 1 0 0 2 1 -
+p376
+aVLAC 02/01/1992 LAC vs. NJN W 8 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -
+p377
+aVKen Norman LAC 02/01/1992 LAC vs. NJN W 13 0 0 5 0.0 0 0 - 0 0 - 0 2 2 1 1 1 0 0 -
+p378
+aVDanny Manning LAC 02/01/1992 LAC vs. NJN W 35 9 2 8 25.0 0 1 0.0 5 6 83.3 1 5 6 5 1 3 2 3 -
+p379
+aVDanny Young LAC 02/01/1992 LAC vs. NJN W 34 8 2 6 33.3 0 0 - 4 4 100.0 2 0 2 7 0 0 2 1 -
+p380
+aVGary Grant LAC 01/31/1992 LAC @ SAC L 15 9 4 7 57.1 1 4 25.0 0 0 - 1 1 2 5 2 1 2 1 -
+p381
+aVDoc Rivers LAC 01/31/1992 LAC @ SAC L 15 2 1 5 20.0 0 0 - 0 0 - 1 1 2 3 0 0 1 1 -
+p382
+aVKen Norman LAC 01/31/1992 LAC @ SAC L 25 10 5 11 45.5 0 0 - 0 0 - 0 2 2 2 0 1 1 1 -
+p383
+aVDanny Manning LAC 01/31/1992 LAC @ SAC L 33 17 6 17 35.3 0 0 - 5 9 55.6 3 2 5 3 1 0 1 4 -
+p384
+aVDanny Young LAC 01/31/1992 LAC @ SAC L 24 8 3 7 42.9 1 2 50.0 1 1 100.0 0 2 2 6 0 0 1 2 -
+p385
+aVCharles Smith LAC 01/31/1992 LAC @ SAC L 38 21 9 18 50.0 0 0 - 3 8 37.5 4 3 7 3 1 3 1 3 -
+p386
+aVOlden Polynice LAC 01/31/1992 LAC @ SAC L 27 12 5 10 50.0 0 0 - 2 2 100.0 7 10 17 0 0 0 2 3 -
+p387
+aVRon Harper LAC 01/31/1992 LAC @ SAC L 42 19 8 15 53.3 2 4 50.0 1 4 25.0 1 4 5 3 3 3 4 5 -
+p388
+aVJames Edwards LAC 01/31/1992 LAC @ SAC L 21 11 5 6 83.3 0 0 - 1 1 100.0 1 2 3 1 0 1 2 3 -
+p389
+aVDanny Young LAC 01/25/1992 LAC vs. NYK L 40 0 0 7 0.0 0 2 0.0 0 0 - 0 2 2 6 1 0 1 5 -
+p390
+aVLAC 01/25/1992 LAC vs. NYK L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p391
+aVGary Grant LAC 01/25/1992 LAC vs. NYK L 20 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 3 1 0 5 1 -
+p392
+aVKen Norman LAC 01/25/1992 LAC vs. NYK L 14 2 1 2 50.0 0 1 0.0 0 2 0.0 1 0 1 2 0 1 0 2 -
+p393
+aVOlden Polynice LAC 01/25/1992 LAC vs. NYK L 28 9 4 6 66.7 0 0 - 1 2 50.0 3 6 9 0 0 0 2 4 -
+p394
+aVJames Edwards LAC 01/25/1992 LAC vs. NYK L 22 10 3 9 33.3 0 0 - 4 6 66.7 1 1 2 1 1 0 0 4 -
+p395
+aVDanny Manning LAC 01/25/1992 LAC vs. NYK L 36 19 8 11 72.7 0 0 - 3 4 75.0 4 2 6 2 3 2 0 3 -
+p396
+aVCharles Smith LAC 01/25/1992 LAC vs. NYK L 40 26 10 21 47.6 0 1 0.0 6 7 85.7 0 9 9 2 2 3 2 3 -
+p397
+aVRon Harper LAC 01/25/1992 LAC vs. NYK L 36 19 8 17 47.1 0 3 0.0 3 3 100.0 2 6 8 4 0 1 1 4 -
+p398
+aVGary Grant LAC 01/23/1992 LAC @ HOU L 10 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 3 1 0 0 0 -
+p399
+aVJames Edwards LAC 01/23/1992 LAC @ HOU L 21 10 5 12 41.7 0 0 - 0 1 0.0 0 1 1 1 0 1 1 6 -
+p400
+aVDanny Manning LAC 01/23/1992 LAC @ HOU L 33 30 13 17 76.5 0 0 - 4 4 100.0 5 6 11 4 0 1 5 4 -
+p401
+aVOlden Polynice LAC 01/23/1992 LAC @ HOU L 27 3 1 6 16.7 0 0 - 1 2 50.0 3 14 17 1 0 0 3 2 -
+p402
+aVCharles Smith LAC 01/23/1992 LAC @ HOU L 37 16 7 18 38.9 0 0 - 2 2 100.0 3 4 7 4 1 3 2 3 -
+p403
+aVLAC 01/23/1992 LAC @ HOU L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -
+p404
+aVBo Kimble LAC 01/23/1992 LAC @ HOU L 9 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 1 0 0 0 1 -
+p405
+aVLeRon Ellis LAC 01/23/1992 LAC @ HOU L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p406
+aVRon Harper LAC 01/23/1992 LAC @ HOU L 39 15 5 17 29.4 1 3 33.3 4 4 100.0 0 2 2 6 1 1 3 4 -
+p407
+aVKen Norman LAC 01/23/1992 LAC @ HOU L 17 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 3 1 1 2 0 -
+p408
+aVDanny Young LAC 01/23/1992 LAC @ HOU L 38 5 2 5 40.0 1 2 50.0 0 0 - 3 2 5 6 2 0 0 2 -
+p409
+aVGary Grant LAC 01/21/1992 LAC @ SAN L 22 12 5 8 62.5 2 2 100.0 0 0 - 0 2 2 6 3 0 2 1 -
+p410
+aVLeRon Ellis LAC 01/21/1992 LAC @ SAN L 1 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p411
+aVRon Harper LAC 01/21/1992 LAC @ SAN L 29 7 2 9 22.2 1 4 25.0 2 4 50.0 0 6 6 6 2 0 3 2 -
+p412
+aVCharles Smith LAC 01/21/1992 LAC @ SAN L 23 7 1 7 14.3 0 0 - 5 6 83.3 0 4 4 2 0 2 2 2 -
+p413
+aVLAC 01/21/1992 LAC @ SAN L 26 6 3 10 30.0 0 0 - 0 0 - 5 3 8 2 0 0 1 1 -
+p414
+aVOlden Polynice LAC 01/21/1992 LAC @ SAN L 26 14 6 8 75.0 0 0 - 2 2 100.0 1 2 3 0 1 0 1 2 -
+p415
+aVJames Edwards LAC 01/21/1992 LAC @ SAN L 13 8 3 5 60.0 0 0 - 2 4 50.0 0 3 3 0 0 0 2 4 -
+p416
+aVKen Norman LAC 01/21/1992 LAC @ SAN L 23 6 3 11 27.3 0 1 0.0 0 0 - 2 1 3 2 1 0 1 2 -
+p417
+aVDanny Manning LAC 01/21/1992 LAC @ SAN L 31 23 10 14 71.4 0 0 - 3 4 75.0 1 1 2 3 0 2 1 3 -
+p418
+aVDanny Young LAC 01/21/1992 LAC @ SAN L 26 6 2 4 50.0 2 3 66.7 0 0 - 0 3 3 3 0 0 4 1 -
+p419
+aVBo Kimble LAC 01/21/1992 LAC @ SAN L 20 9 3 10 30.0 1 4 25.0 2 3 66.7 0 1 1 2 1 0 2 4 -
+p420
+aVOlden Polynice LAC 01/17/1992 LAC vs. ATL W 23 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 3 1 0 2 1 -
+p421
+aVBo Kimble LAC 01/17/1992 LAC vs. ATL W 12 4 2 6 33.3 0 1 0.0 0 3 0.0 1 3 4 2 0 1 1 1 -
+p422
+aVGary Grant LAC 01/17/1992 LAC vs. ATL W 18 2 1 3 33.3 0 0 - 0 0 - 0 2 2 6 2 0 0 1 -
+p423
+aVJames Edwards LAC 01/17/1992 LAC vs. ATL W 30 21 8 15 53.3 0 0 - 5 6 83.3 0 4 4 1 0 0 1 3 -
+p424
+aVLAC 01/17/1992 LAC vs. ATL W 36 13 6 14 42.9 0 0 - 1 2 50.0 5 7 12 2 1 0 0 0 -
+p425
+aVKen Norman LAC 01/17/1992 LAC vs. ATL W 27 13 6 10 60.0 0 0 - 1 2 50.0 2 5 7 3 1 0 3 4 -
+p426
+aVRon Harper LAC 01/17/1992 LAC vs. ATL W 41 22 9 17 52.9 2 4 50.0 2 2 100.0 1 4 5 1 3 1 4 3 -
+p427
+aVDanny Manning LAC 01/17/1992 LAC vs. ATL W 41 22 10 14 71.4 0 0 - 2 3 66.7 0 2 2 6 0 2 3 6 -
+p428
+aVDanny Young LAC 01/17/1992 LAC vs. ATL W 37 10 3 10 30.0 1 5 20.0 3 3 100.0 0 3 3 4 2 1 4 1 -
+p429
+aVKen Norman LAC 01/16/1992 LAC @ SEA L 24 14 6 16 37.5 0 2 0.0 2 2 100.0 2 1 3 2 0 1 1 3 -
+p430
+aVDanny Young LAC 01/16/1992 LAC @ SEA L 25 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 4 0 0 0 -
+p431
+aVOlden Polynice LAC 01/16/1992 LAC @ SEA L 32 9 4 11 36.4 0 0 - 1 1 100.0 4 1 5 1 0 0 1 3 -
+p432
+aVJames Edwards LAC 01/16/1992 LAC @ SEA L 16 7 2 7 28.6 0 0 - 3 5 60.0 0 1 1 1 1 0 0 3 -
+p433
+aVDoc Rivers LAC 01/16/1992 LAC @ SEA L 29 13 4 11 36.4 2 2 100.0 3 4 75.0 0 0 0 5 1 0 2 1 -
+p434
+aVLAC 01/16/1992 LAC @ SEA L 40 14 4 9 44.4 0 0 - 6 6 100.0 1 13 14 3 1 1 1 2 -
+p435
+aVRon Harper LAC 01/16/1992 LAC @ SEA L 42 11 4 21 19.0 0 5 0.0 3 3 100.0 3 7 10 3 3 0 6 5 -
+p436
+aVDanny Manning LAC 01/16/1992 LAC @ SEA L 32 26 10 15 66.7 0 0 - 6 6 100.0 5 3 8 2 2 3 3 6 -
+p437
+aVCharles Smith LAC 01/13/1992 LAC vs. SEA W 13 0 0 6 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -
+p438
+aVOlden Polynice LAC 01/13/1992 LAC vs. SEA W 29 16 7 10 70.0 0 0 - 2 4 50.0 6 8 14 0 0 0 1 2 -
+p439
+aVDoc Rivers LAC 01/13/1992 LAC vs. SEA W 28 11 3 8 37.5 1 1 100.0 4 5 80.0 0 1 1 3 4 1 1 3 -
+p440
+aVRon Harper LAC 01/13/1992 LAC vs. SEA W 44 25 6 21 28.6 0 4 0.0 13 18 72.2 0 5 5 9 4 0 2 1 -
+p441
+aVDanny Young LAC 01/13/1992 LAC vs. SEA W 24 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -
+p442
+aVJames Edwards LAC 01/13/1992 LAC vs. SEA W 19 3 0 1 0.0 0 0 - 3 6 50.0 0 1 1 0 0 3 1 1 -
+p443
+aVLAC 01/13/1992 LAC vs. SEA W 27 11 5 6 83.3 0 0 - 1 1 100.0 1 6 7 0 0 1 0 2 -
+p444
+aVDanny Manning LAC 01/13/1992 LAC vs. SEA W 36 20 9 15 60.0 0 0 - 2 2 100.0 0 2 2 5 3 2 2 4 -
+p445
+aVKen Norman LAC 01/13/1992 LAC vs. SEA W 20 6 2 9 22.2 0 1 0.0 2 3 66.7 2 5 7 1 0 1 0 3 -
+p446
+aVDoc Rivers LAC 01/11/1992 LAC @ WAS L 37 12 4 12 33.3 1 2 50.0 3 3 100.0 1 3 4 2 1 0 1 6 -
+p447
+aVRon Harper LAC 01/11/1992 LAC @ WAS L 41 7 3 11 27.3 0 1 0.0 1 2 50.0 1 7 8 6 2 0 4 2 -
+p448
+aVDanny Manning LAC 01/11/1992 LAC @ WAS L 35 22 8 14 57.1 0 1 0.0 6 8 75.0 7 3 10 1 2 2 2 4 -
+p449
+aVLAC 01/11/1992 LAC @ WAS L 12 2 1 7 14.3 0 0 - 0 0 - 2 1 3 0 1 0 2 3 -
+p450
+aVCharles Smith LAC 01/11/1992 LAC @ WAS L 36 17 6 15 40.0 0 0 - 5 9 55.6 6 4 10 0 1 1 3 4 -
+p451
+aVKen Norman LAC 01/11/1992 LAC @ WAS L 29 27 13 19 68.4 0 1 0.0 1 2 50.0 6 6 12 0 0 0 1 1 -
+p452
+aVJames Edwards LAC 01/11/1992 LAC @ WAS L 32 7 1 13 7.7 0 0 - 5 8 62.5 2 2 4 0 1 0 1 5 -
+p453
+aVDanny Young LAC 01/11/1992 LAC @ WAS L 18 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p454
+aVGary Grant LAC 01/10/1992 LAC @ PHL L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 1 0 1 1 -
+p455
+aVJames Edwards LAC 01/10/1992 LAC @ PHL L 23 10 4 9 44.4 0 0 - 2 2 100.0 1 2 3 0 0 1 1 5 -
+p456
+aVDanny Manning LAC 01/10/1992 LAC @ PHL L 39 18 9 19 47.4 0 0 - 0 0 - 5 4 9 7 1 1 4 2 -
+p457
+aVDoc Rivers LAC 01/10/1992 LAC @ PHL L 40 23 10 15 66.7 0 0 - 3 7 42.9 0 2 2 2 1 1 1 3 -
+p458
+aVLAC 01/10/1992 LAC @ PHL L 26 7 3 8 37.5 0 0 - 1 3 33.3 4 5 9 1 1 0 0 2 -
+p459
+aVKen Norman LAC 01/10/1992 LAC @ PHL L 18 6 3 7 42.9 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -
+p460
+aVRon Harper LAC 01/10/1992 LAC @ PHL L 40 14 3 16 18.8 0 3 0.0 8 10 80.0 2 3 5 8 3 2 3 2 -
+p461
+aVOlden Polynice LAC 01/10/1992 LAC @ PHL L 38 8 4 6 66.7 0 0 - 0 2 0.0 2 10 12 0 0 0 1 4 -
+p462
+aVBo Kimble LAC 01/10/1992 LAC @ PHL L 8 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p463
+aVDoc Rivers LAC 01/08/1992 LAC @ IND W 44 17 5 10 50.0 2 3 66.7 5 6 83.3 1 8 9 4 1 1 3 2 -
+p464
+aVRon Harper LAC 01/08/1992 LAC @ IND W 40 19 7 20 35.0 1 7 14.3 4 5 80.0 2 4 6 7 1 1 2 1 -
+p465
+aVDanny Manning LAC 01/08/1992 LAC @ IND W 37 22 9 15 60.0 0 0 - 4 5 80.0 3 2 5 4 5 0 3 4 -
+p466
+aVLAC 01/08/1992 LAC @ IND W 16 6 3 9 33.3 0 0 - 0 0 - 1 2 3 2 0 2 0 0 -
+p467
+aVJames Edwards LAC 01/08/1992 LAC @ IND W 26 12 4 9 44.4 0 0 - 4 4 100.0 1 5 6 2 1 0 0 4 -
+p468
+aVGary Grant LAC 01/08/1992 LAC @ IND W 16 7 3 4 75.0 0 0 - 1 1 100.0 1 0 1 3 0 0 0 3 -
+p469
+aVKen Norman LAC 01/08/1992 LAC @ IND W 27 15 5 11 45.5 0 0 - 5 8 62.5 1 4 5 1 0 2 0 3 -
+p470
+aVCharles Smith LAC 01/08/1992 LAC @ IND W 12 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 3 -
+p471
+aVOlden Polynice LAC 01/08/1992 LAC @ IND W 22 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -
+p472
+aVCharles Smith LAC 01/06/1992 LAC @ NJN L 36 11 3 14 21.4 0 1 0.0 5 6 83.3 1 8 9 1 1 3 1 2 -
+p473
+aVBo Kimble LAC 01/06/1992 LAC @ NJN L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -
+p474
+aVOlden Polynice LAC 01/06/1992 LAC @ NJN L 22 4 2 3 66.7 0 0 - 0 0 - 1 8 9 0 0 0 0 2 -
+p475
+aVDanny Manning LAC 01/06/1992 LAC @ NJN L 39 21 10 18 55.6 0 0 - 1 2 50.0 4 3 7 1 2 2 3 2 -
+p476
+aVJames Edwards LAC 01/06/1992 LAC @ NJN L 24 10 4 10 40.0 0 0 - 2 3 66.7 0 2 2 0 3 2 0 4 -
+p477
+aVKen Norman LAC 01/06/1992 LAC @ NJN L 20 9 4 12 33.3 0 1 0.0 1 1 100.0 5 3 8 0 0 0 2 1 -
+p478
+aVDavid Rivers LAC 01/06/1992 LAC @ NJN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p479
+aVDoc Rivers LAC 01/06/1992 LAC @ NJN L 31 13 1 6 16.7 0 1 0.0 11 11 100.0 0 2 2 5 0 0 2 5 -
+p480
+aVRon Harper LAC 01/06/1992 LAC @ NJN L 37 16 6 17 35.3 0 5 0.0 4 7 57.1 2 4 6 2 0 0 2 2 -
+p481
+aVLeRon Ellis LAC 01/06/1992 LAC @ NJN L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p482
+aVGary Grant LAC 01/06/1992 LAC @ NJN L 20 2 1 3 33.3 0 0 - 0 0 - 1 0 1 3 1 1 1 2 -
+p483
+aVDanny Manning LAC 01/04/1992 LAC @ ATL L 28 6 2 6 33.3 0 0 - 2 2 100.0 1 5 6 0 1 0 2 2 -
+p484
+aVKen Norman LAC 01/04/1992 LAC @ ATL L 19 10 5 10 50.0 0 0 - 0 0 - 2 5 7 1 1 2 0 0 -
+p485
+aVDavid Rivers LAC 01/04/1992 LAC @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p486
+aVOlden Polynice LAC 01/04/1992 LAC @ ATL L 36 7 3 8 37.5 0 0 - 1 7 14.3 4 4 8 0 2 0 4 2 -
+p487
+aVDoc Rivers LAC 01/04/1992 LAC @ ATL L 37 20 7 14 50.0 2 5 40.0 4 5 80.0 1 4 5 7 5 0 1 4 -
+p488
+aVCharles Smith LAC 01/04/1992 LAC @ ATL L 33 11 3 11 27.3 0 0 - 5 6 83.3 1 5 6 2 1 0 3 5 -
+p489
+aVBo Kimble LAC 01/04/1992 LAC @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p490
+aVJames Edwards LAC 01/04/1992 LAC @ ATL L 19 15 6 12 50.0 0 0 - 3 4 75.0 1 2 3 0 0 1 0 3 -
+p491
+aVGary Grant LAC 01/04/1992 LAC @ ATL L 21 0 0 1 0.0 0 0 - 0 0 - 0 2 2 4 0 0 2 3 -
+p492
+aVRon Harper LAC 01/04/1992 LAC @ ATL L 36 26 8 17 47.1 3 6 50.0 7 9 77.8 2 7 9 4 0 2 4 0 -
+p493
+aVLAC 01/04/1992 LAC @ ATL L 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -
+p494
+aVBo Kimble LAC 01/02/1992 LAC @ CHH W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p495
+aVDanny Manning LAC 01/02/1992 LAC @ CHH W 34 15 5 10 50.0 0 0 - 5 10 50.0 3 3 6 4 2 2 1 3 -
+p496
+aVDoc Rivers LAC 01/02/1992 LAC @ CHH W 48 23 7 18 38.9 0 4 0.0 9 11 81.8 2 4 6 6 4 2 4 2 -
+p497
+aVLAC 01/02/1992 LAC @ CHH W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p498
+aVDavid Rivers LAC 01/02/1992 LAC @ CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p499
+aVOlden Polynice LAC 01/02/1992 LAC @ CHH W 21 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 3 -
+p500
+aVJames Edwards LAC 01/02/1992 LAC @ CHH W 32 10 3 9 33.3 0 0 - 4 4 100.0 1 5 6 2 0 1 1 3 -
+p501
+aVRon Harper LAC 01/02/1992 LAC @ CHH W 41 19 7 11 63.6 4 5 80.0 1 2 50.0 0 6 6 9 0 1 5 2 -
+p502
+aVGary Grant LAC 01/02/1992 LAC @ CHH W 16 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 1 0 0 0 -
+p503
+aVCharles Smith LAC 01/02/1992 LAC @ CHH W 40 16 7 14 50.0 0 0 - 2 4 50.0 1 7 8 3 0 5 3 4 -
+p504
+aVKen Norman LAC 01/02/1992 LAC @ CHH W 21 10 4 7 57.1 0 1 0.0 2 4 50.0 1 1 2 0 0 1 1 1 -
+p505
+aVJames Edwards LAC 12/30/1991 LAC vs. BOS L 34 16 3 8 37.5 0 0 - 10 12 83.3 1 2 3 0 2 1 0 4 -
+p506
+aVKen Norman LAC 12/30/1991 LAC vs. BOS L 17 12 5 6 83.3 0 0 - 2 4 50.0 0 3 3 0 0 0 1 0 -
+p507
+aVDoc Rivers LAC 12/30/1991 LAC vs. BOS L 34 10 5 14 35.7 0 2 0.0 0 0 - 1 1 2 6 0 0 4 3 -
+p508
+aVRon Harper LAC 12/30/1991 LAC vs. BOS L 40 8 3 8 37.5 0 1 0.0 2 4 50.0 0 7 7 4 5 2 4 3 -
+p509
+aVCharles Smith LAC 12/30/1991 LAC vs. BOS L 35 12 4 15 26.7 0 1 0.0 4 4 100.0 0 1 1 1 2 1 1 2 -
+p510
+aVBo Kimble LAC 12/30/1991 LAC vs. BOS L 8 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -
+p511
+aVOlden Polynice LAC 12/30/1991 LAC vs. BOS L 24 8 3 6 50.0 0 0 - 2 4 50.0 4 5 9 0 0 0 0 3 -
+p512
+aVDanny Manning LAC 12/30/1991 LAC vs. BOS L 26 16 7 13 53.8 0 0 - 2 4 50.0 3 3 6 1 3 6 0 4 -
+p513
+aVGary Grant LAC 12/30/1991 LAC vs. BOS L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -
+p514
+aVLAC 12/30/1991 LAC vs. BOS L 8 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -
+p515
+aVLAC 12/28/1991 LAC vs. PHL W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -
+p516
+aVBo Kimble LAC 12/28/1991 LAC vs. PHL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p517
+aVRon Harper LAC 12/28/1991 LAC vs. PHL W 44 16 7 11 63.6 0 1 0.0 2 2 100.0 2 2 4 15 2 0 2 1 -
+p518
+aVCharles Smith LAC 12/28/1991 LAC vs. PHL W 34 26 12 23 52.2 0 0 - 2 2 100.0 2 7 9 1 1 3 0 2 -
+p519
+aVGary Grant LAC 12/28/1991 LAC vs. PHL W 6 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 2 0 0 0 1 -
+p520
+aVOlden Polynice LAC 12/28/1991 LAC vs. PHL W 26 8 4 9 44.4 0 0 - 0 0 - 4 12 16 0 0 1 1 3 -
+p521
+aVKen Norman LAC 12/28/1991 LAC vs. PHL W 20 11 5 14 35.7 0 2 0.0 1 3 33.3 1 1 2 0 1 0 1 4 -
+p522
+aVDoc Rivers LAC 12/28/1991 LAC vs. PHL W 44 10 3 11 27.3 1 1 100.0 3 3 100.0 0 4 4 9 1 1 0 2 -
+p523
+aVJames Edwards LAC 12/28/1991 LAC vs. PHL W 21 8 3 7 42.9 0 0 - 2 4 50.0 3 0 3 0 0 1 1 4 -
+p524
+aVDanny Manning LAC 12/28/1991 LAC vs. PHL W 40 18 9 15 60.0 0 0 - 0 0 - 4 3 7 3 1 0 3 2 -
+p525
+aVOlden Polynice LAC 12/26/1991 LAC @ UTH L 21 5 2 5 40.0 0 0 - 1 2 50.0 4 4 8 1 0 0 1 3 -
+p526
+aVDanny Manning LAC 12/26/1991 LAC @ UTH L 34 10 4 8 50.0 0 0 - 2 3 66.7 1 5 6 3 1 3 2 5 -
+p527
+aVLAC 12/26/1991 LAC @ UTH L 14 8 4 6 66.7 0 0 - 0 0 - 1 5 6 1 0 0 2 3 -
+p528
+aVBo Kimble LAC 12/26/1991 LAC @ UTH L 7 6 2 6 33.3 2 2 100.0 0 0 - 1 1 2 1 0 0 0 0 -
+p529
+aVKen Norman LAC 12/26/1991 LAC @ UTH L 28 18 8 14 57.1 0 0 - 2 2 100.0 4 2 6 1 0 1 2 2 -
+p530
+aVCharles Smith LAC 12/26/1991 LAC @ UTH L 29 30 10 17 58.8 0 0 - 10 12 83.3 3 4 7 1 0 2 0 3 -
+p531
+aVRon Harper LAC 12/26/1991 LAC @ UTH L 42 12 4 14 28.6 2 5 40.0 2 2 100.0 0 2 2 7 2 2 0 2 -
+p532
+aVDavid Rivers LAC 12/26/1991 LAC @ UTH L 20 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 7 0 0 1 4 -
+p533
+aVJames Edwards LAC 12/26/1991 LAC @ UTH L 17 7 2 6 33.3 0 0 - 3 4 75.0 1 3 4 0 0 1 1 5 -
+p534
+aVGary Grant LAC 12/26/1991 LAC @ UTH L 28 13 6 13 46.2 1 1 100.0 0 0 - 1 4 5 1 3 0 2 6 -
+p535
+aVOlden Polynice LAC 12/25/1991 LAC vs. LAL L 23 8 4 12 33.3 0 0 - 0 3 0.0 5 3 8 0 0 0 1 2 -
+p536
+aVDanny Manning LAC 12/25/1991 LAC vs. LAL L 31 14 6 14 42.9 0 0 - 2 6 33.3 4 7 11 2 3 2 2 3 -
+p537
+aVCharles Smith LAC 12/25/1991 LAC vs. LAL L 29 10 5 13 38.5 0 0 - 0 0 - 2 7 9 1 1 0 4 4 -
+p538
+aVGary Grant LAC 12/25/1991 LAC vs. LAL L 34 2 1 12 8.3 0 1 0.0 0 0 - 2 3 5 8 4 0 1 1 -
+p539
+aVJames Edwards LAC 12/25/1991 LAC vs. LAL L 23 15 7 10 70.0 0 0 - 1 1 100.0 3 3 6 1 0 0 1 4 -
+p540
+aVRon Harper LAC 12/25/1991 LAC vs. LAL L 39 9 3 11 27.3 0 2 0.0 3 5 60.0 0 1 1 2 0 1 2 1 -
+p541
+aVLAC 12/25/1991 LAC vs. LAL L 16 6 3 4 75.0 0 0 - 0 0 - 2 4 6 2 0 0 1 1 -
+p542
+aVDavid Rivers LAC 12/25/1991 LAC vs. LAL L 14 4 2 5 40.0 0 0 - 0 0 - 0 0 0 5 1 0 3 0 -
+p543
+aVLeRon Ellis LAC 12/25/1991 LAC vs. LAL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p544
+aVKen Norman LAC 12/25/1991 LAC vs. LAL L 20 3 0 5 0.0 0 0 - 3 4 75.0 0 4 4 0 0 1 1 3 -
+p545
+aVBo Kimble LAC 12/25/1991 LAC vs. LAL L 9 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 0 3 -
+p546
+aVBo Kimble LAC 12/21/1991 LAC @ MIN W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -
+p547
+aVKen Norman LAC 12/21/1991 LAC @ MIN W 16 6 3 9 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p548
+aVCharles Smith LAC 12/21/1991 LAC @ MIN W 25 19 6 14 42.9 0 0 - 7 9 77.8 2 6 8 1 0 1 5 2 -
+p549
+aVLAC 12/21/1991 LAC @ MIN W 23 7 2 5 40.0 0 0 - 3 4 75.0 7 4 11 0 1 0 1 3 -
+p550
+aVDoc Rivers LAC 12/21/1991 LAC @ MIN W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -
+p551
+aVGary Grant LAC 12/21/1991 LAC @ MIN W 34 12 6 9 66.7 0 0 - 0 0 - 1 3 4 5 1 0 2 3 -
+p552
+aVOlden Polynice LAC 12/21/1991 LAC @ MIN W 32 12 6 7 85.7 0 0 - 0 0 - 3 7 10 1 1 0 1 2 -
+p553
+aVDavid Rivers LAC 12/21/1991 LAC @ MIN W 6 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 2 0 2 0 -
+p554
+aVDanny Manning LAC 12/21/1991 LAC @ MIN W 32 23 10 16 62.5 0 0 - 3 7 42.9 3 1 4 4 2 4 2 1 -
+p555
+aVJames Edwards LAC 12/21/1991 LAC @ MIN W 16 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 4 -
+p556
+aVRon Harper LAC 12/21/1991 LAC @ MIN W 41 15 3 14 21.4 1 4 25.0 8 12 66.7 4 5 9 7 3 2 3 4 -
+p557
+aVCharles Smith LAC 12/18/1991 LAC vs. GOS L 23 19 7 15 46.7 0 1 0.0 5 10 50.0 2 4 6 1 0 2 0 2 -
+p558
+aVDavid Rivers LAC 12/18/1991 LAC vs. GOS L 14 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 3 1 0 1 1 -
+p559
+aVJames Edwards LAC 12/18/1991 LAC vs. GOS L 17 16 7 11 63.6 0 1 0.0 2 2 100.0 2 2 4 0 1 0 1 3 -
+p560
+aVOlden Polynice LAC 12/18/1991 LAC vs. GOS L 29 14 6 11 54.5 0 0 - 2 5 40.0 4 5 9 0 0 2 1 2 -
+p561
+aVLAC 12/18/1991 LAC vs. GOS L 14 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -
+p562
+aVTony Brown LAC 12/18/1991 LAC vs. GOS L 6 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 2 1 -
+p563
+aVRon Harper LAC 12/18/1991 LAC vs. GOS L 44 16 4 16 25.0 2 7 28.6 6 7 85.7 2 7 9 5 4 1 5 2 -
+p564
+aVGary Grant LAC 12/18/1991 LAC vs. GOS L 34 6 3 10 30.0 0 0 - 0 0 - 0 4 4 11 3 1 3 5 -
+p565
+aVKen Norman LAC 12/18/1991 LAC vs. GOS L 23 10 5 12 41.7 0 0 - 0 0 - 3 3 6 1 0 1 2 3 -
+p566
+aVDanny Manning LAC 12/18/1991 LAC vs. GOS L 36 11 4 10 40.0 0 0 - 3 4 75.0 3 5 8 4 0 1 3 3 -
+p567
+aVTony Brown LAC 12/17/1991 LAC @ SEA L 15 7 3 4 75.0 1 1 100.0 0 0 - 2 2 4 1 1 0 1 1 -
+p568
+aVDanny Manning LAC 12/17/1991 LAC @ SEA L 34 17 7 16 43.8 0 0 - 3 6 50.0 2 3 5 3 0 2 1 2 -
+p569
+aVDavid Rivers LAC 12/17/1991 LAC @ SEA L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 1 2 -
+p570
+aVGary Grant LAC 12/17/1991 LAC @ SEA L 24 6 3 5 60.0 0 0 - 0 0 - 0 1 1 9 0 0 2 3 -
+p571
+aVKen Norman LAC 12/17/1991 LAC @ SEA L 25 11 5 11 45.5 1 2 50.0 0 0 - 1 5 6 3 0 0 2 3 -
+p572
+aVLeRon Ellis LAC 12/17/1991 LAC @ SEA L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p573
+aVRon Harper LAC 12/17/1991 LAC @ SEA L 33 18 8 14 57.1 0 1 0.0 2 3 66.7 3 2 5 2 1 4 5 2 -
+p574
+aVLAC 12/17/1991 LAC @ SEA L 37 10 5 12 41.7 0 0 - 0 0 - 2 8 10 3 1 0 4 4 -
+p575
+aVJames Edwards LAC 12/17/1991 LAC @ SEA L 20 16 7 13 53.8 0 0 - 2 2 100.0 1 1 2 2 0 1 0 4 -
+p576
+aVDoc Rivers LAC 12/17/1991 LAC @ SEA L 20 9 3 7 42.9 0 0 - 3 3 100.0 0 1 1 2 0 0 0 3 -
+p577
+aVOlden Polynice LAC 12/17/1991 LAC @ SEA L 24 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 2 0 2 1 -
+p578
+aVRon Harper LAC 12/15/1991 LAC vs. ORL W 39 26 10 22 45.5 2 5 40.0 4 6 66.7 3 1 4 5 0 0 1 1 -
+p579
+aVLeRon Ellis LAC 12/15/1991 LAC vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p580
+aVDavid Rivers LAC 12/15/1991 LAC vs. ORL W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 -
+p581
+aVGary Grant LAC 12/15/1991 LAC vs. ORL W 23 9 3 4 75.0 0 0 - 3 4 75.0 0 0 0 11 6 0 1 4 -
+p582
+aVDanny Manning LAC 12/15/1991 LAC vs. ORL W 31 22 9 11 81.8 0 0 - 4 8 50.0 1 8 9 6 2 2 2 6 -
+p583
+aVLAC 12/15/1991 LAC vs. ORL W 20 0 0 4 0.0 0 0 - 0 0 - 1 6 7 0 1 1 0 1 -
+p584
+aVOlden Polynice LAC 12/15/1991 LAC vs. ORL W 26 15 6 9 66.7 0 0 - 3 6 50.0 4 1 5 1 1 0 0 0 -
+p585
+aVJames Edwards LAC 12/15/1991 LAC vs. ORL W 20 11 3 10 30.0 0 0 - 5 6 83.3 1 2 3 0 0 0 0 4 -
+p586
+aVDoc Rivers LAC 12/15/1991 LAC vs. ORL W 28 14 5 9 55.6 1 1 100.0 3 3 100.0 0 1 1 2 3 0 0 2 -
+p587
+aVKen Norman LAC 12/15/1991 LAC vs. ORL W 22 10 4 8 50.0 0 1 0.0 2 2 100.0 2 2 4 1 0 1 3 3 -
+p588
+aVTony Brown LAC 12/15/1991 LAC vs. ORL W 27 10 4 8 50.0 0 1 0.0 2 2 100.0 2 1 3 1 1 0 0 4 -
+p589
+aVRon Harper LAC 12/13/1991 LAC vs. UTH W 49 16 6 10 60.0 2 3 66.7 2 4 50.0 4 5 9 4 0 1 2 3 -
+p590
+aVTony Brown LAC 12/13/1991 LAC vs. UTH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p591
+aVJames Edwards LAC 12/13/1991 LAC vs. UTH W 28 16 4 9 44.4 0 0 - 8 11 72.7 0 1 1 1 0 0 1 5 -
+p592
+aVOlden Polynice LAC 12/13/1991 LAC vs. UTH W 33 2 0 3 0.0 0 0 - 2 4 50.0 1 8 9 1 2 0 1 3 -
+p593
+aVKen Norman LAC 12/13/1991 LAC vs. UTH W 16 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 0 2 0 2 1 -
+p594
+aVDanny Manning LAC 12/13/1991 LAC vs. UTH W 44 26 9 15 60.0 0 0 - 8 11 72.7 3 3 6 2 4 2 4 3 -
+p595
+aVLAC 12/13/1991 LAC vs. UTH W 38 10 5 12 41.7 0 0 - 0 0 - 4 4 8 2 0 0 0 3 -
+p596
+aVGary Grant LAC 12/13/1991 LAC vs. UTH W 19 6 3 7 42.9 0 1 0.0 0 0 - 1 0 1 5 1 0 3 1 -
+p597
+aVDoc Rivers LAC 12/13/1991 LAC vs. UTH W 37 16 6 17 35.3 1 4 25.0 3 4 75.0 0 3 3 5 0 1 4 4 -
+p598
+aVRon Harper LAC 12/11/1991 LAC vs. DET W 38 20 9 14 64.3 1 1 100.0 1 2 50.0 0 4 4 7 3 0 3 3 -
+p599
+aVCharles Smith LAC 12/11/1991 LAC vs. DET W 29 23 9 17 52.9 0 0 - 5 5 100.0 2 5 7 2 0 2 0 2 -
+p600
+aVDavid Rivers LAC 12/11/1991 LAC vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p601
+aVGary Grant LAC 12/11/1991 LAC vs. DET W 19 4 2 7 28.6 0 0 - 0 2 0.0 1 2 3 6 0 0 0 0 -
+p602
+aVDanny Manning LAC 12/11/1991 LAC vs. DET W 34 14 7 13 53.8 0 0 - 0 0 - 3 4 7 4 2 1 4 3 -
+p603
+aVOlden Polynice LAC 12/11/1991 LAC vs. DET W 24 6 3 8 37.5 0 0 - 0 0 - 3 6 9 2 0 0 0 3 -
+p604
+aVKen Norman LAC 12/11/1991 LAC vs. DET W 19 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p605
+aVDoc Rivers LAC 12/11/1991 LAC vs. DET W 36 12 4 10 40.0 2 2 100.0 2 2 100.0 0 3 3 5 2 0 1 5 -
+p606
+aVLAC 12/11/1991 LAC vs. DET W 14 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 -
+p607
+aVJames Edwards LAC 12/11/1991 LAC vs. DET W 24 14 5 11 45.5 0 0 - 4 6 66.7 0 5 5 0 0 0 2 5 -
+p608
+aVGary Grant LAC 12/10/1991 LAC @ GOS W 23 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 3 1 0 2 4 -
+p609
+aVDoc Rivers LAC 12/10/1991 LAC @ GOS W 34 19 4 11 36.4 0 2 0.0 11 13 84.6 0 2 2 4 0 2 3 5 -
+p610
+aVKen Norman LAC 12/10/1991 LAC @ GOS W 19 12 5 9 55.6 0 0 - 2 2 100.0 2 5 7 1 0 0 1 3 -
+p611
+aVDavid Rivers LAC 12/10/1991 LAC @ GOS W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p612
+aVLAC 12/10/1991 LAC @ GOS W 12 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 1 4 -
+p613
+aVTony Brown LAC 12/10/1991 LAC @ GOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p614
+aVRon Harper LAC 12/10/1991 LAC @ GOS W 41 29 8 18 44.4 2 5 40.0 11 13 84.6 2 6 8 8 0 1 4 4 -
+p615
+aVDanny Manning LAC 12/10/1991 LAC @ GOS W 33 28 11 20 55.0 0 0 - 6 7 85.7 3 3 6 2 2 1 2 3 -
+p616
+aVCharles Smith LAC 12/10/1991 LAC @ GOS W 28 20 3 9 33.3 0 1 0.0 14 15 93.3 4 7 11 0 0 3 0 4 -
+p617
+aVOlden Polynice LAC 12/10/1991 LAC @ GOS W 31 9 3 7 42.9 0 0 - 3 3 100.0 7 6 13 1 0 0 2 2 -
+p618
+aVJames Edwards LAC 12/10/1991 LAC @ GOS W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p619
+aVGary Grant LAC 12/07/1991 LAC vs. MIN W 16 10 5 11 45.5 0 1 0.0 0 0 - 2 2 4 2 1 0 1 0 -
+p620
+aVDavid Rivers LAC 12/07/1991 LAC vs. MIN W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p621
+aVRon Harper LAC 12/07/1991 LAC vs. MIN W 38 14 7 13 53.8 0 0 - 0 0 - 0 3 3 6 5 1 3 1 -
+p622
+aVDoc Rivers LAC 12/07/1991 LAC vs. MIN W 35 15 6 11 54.5 0 1 0.0 3 3 100.0 0 3 3 7 3 0 0 3 -
+p623
+aVLAC 12/07/1991 LAC vs. MIN W 20 6 3 6 50.0 0 0 - 0 0 - 2 2 4 1 0 2 1 2 -
+p624
+aVKen Norman LAC 12/07/1991 LAC vs. MIN W 25 9 4 9 44.4 0 0 - 1 2 50.0 3 1 4 2 0 0 0 1 -
+p625
+aVJames Edwards LAC 12/07/1991 LAC vs. MIN W 18 6 3 9 33.3 0 0 - 0 0 - 3 4 7 0 0 0 3 2 -
+p626
+aVDanny Manning LAC 12/07/1991 LAC vs. MIN W 24 2 1 3 33.3 0 0 - 0 0 - 1 1 2 8 2 2 1 3 -
+p627
+aVOlden Polynice LAC 12/07/1991 LAC vs. MIN W 32 11 5 10 50.0 0 0 - 1 2 50.0 2 9 11 0 0 0 1 3 -
+p628
+aVCharles Smith LAC 12/07/1991 LAC vs. MIN W 25 26 11 16 68.8 0 0 - 4 5 80.0 6 3 9 0 0 3 3 3 -
+p629
+aVKen Norman LAC 12/06/1991 LAC @ DEN W 16 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 2 0 0 0 1 -
+p630
+aVGary Grant LAC 12/06/1991 LAC @ DEN W 30 20 8 10 80.0 1 1 100.0 3 3 100.0 1 2 3 2 2 0 5 0 -
+p631
+aVLAC 12/06/1991 LAC @ DEN W 17 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -
+p632
+aVRon Harper LAC 12/06/1991 LAC @ DEN W 48 18 7 17 41.2 2 6 33.3 2 2 100.0 1 5 6 4 4 0 3 0 -
+p633
+aVJames Edwards LAC 12/06/1991 LAC @ DEN W 22 4 2 8 25.0 0 0 - 0 0 - 1 0 1 1 0 0 0 4 -
+p634
+aVOlden Polynice LAC 12/06/1991 LAC @ DEN W 30 11 4 5 80.0 0 0 - 3 6 50.0 1 6 7 0 0 0 3 4 -
+p635
+aVCharles Smith LAC 12/06/1991 LAC @ DEN W 28 13 6 11 54.5 0 0 - 1 2 50.0 1 5 6 2 2 2 2 4 -
+p636
+aVDanny Manning LAC 12/06/1991 LAC @ DEN W 37 18 7 13 53.8 0 0 - 4 6 66.7 2 6 8 4 2 0 3 3 -
+p637
+aVDoc Rivers LAC 12/06/1991 LAC @ DEN W 27 9 4 8 50.0 1 2 50.0 0 0 - 0 0 0 5 1 0 0 2 -
+p638
+aVDavid Rivers LAC 12/06/1991 LAC @ DEN W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p639
+aVDoc Rivers LAC 12/04/1991 LAC vs. SAN W 42 17 7 15 46.7 0 2 0.0 3 3 100.0 2 4 6 4 2 0 4 4 -
+p640
+aVRon Harper LAC 12/04/1991 LAC vs. SAN W 40 18 7 15 46.7 0 2 0.0 4 4 100.0 3 1 4 5 4 1 1 2 -
+p641
+aVJames Edwards LAC 12/04/1991 LAC vs. SAN W 13 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 -
+p642
+aVDanny Manning LAC 12/04/1991 LAC vs. SAN W 33 8 3 12 25.0 0 0 - 2 2 100.0 3 5 8 3 3 1 2 4 -
+p643
+aVCharles Smith LAC 12/04/1991 LAC vs. SAN W 25 15 4 12 33.3 0 0 - 7 8 87.5 2 4 6 1 0 6 3 2 -
+p644
+aVLAC 12/04/1991 LAC vs. SAN W 23 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -
+p645
+aVGary Grant LAC 12/04/1991 LAC vs. SAN W 15 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 3 3 0 0 0 -
+p646
+aVOlden Polynice LAC 12/04/1991 LAC vs. SAN W 34 15 6 10 60.0 0 0 - 3 3 100.0 2 6 8 2 1 0 2 3 -
+p647
+aVKen Norman LAC 12/04/1991 LAC vs. SAN W 15 6 3 7 42.9 0 0 - 0 1 0.0 0 1 1 2 1 0 0 1 -
+p648
+aVDoc Rivers LAC 11/30/1991 LAC vs. CHH W 33 23 7 11 63.6 0 2 0.0 9 9 100.0 1 5 6 9 4 1 1 2 -
+p649
+aVJames Edwards LAC 11/30/1991 LAC vs. CHH W 18 15 5 10 50.0 0 0 - 5 5 100.0 0 2 2 3 0 1 0 1 -
+p650
+aVKen Norman LAC 11/30/1991 LAC vs. CHH W 24 10 5 11 45.5 0 1 0.0 0 4 0.0 1 2 3 4 0 0 1 0 -
+p651
+aVLanard Copeland LAC 11/30/1991 LAC vs. CHH W 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p652
+aVLAC 11/30/1991 LAC vs. CHH W 34 18 9 15 60.0 0 0 - 0 1 0.0 3 7 10 3 2 0 1 1 -
+p653
+aVDavid Rivers LAC 11/30/1991 LAC vs. CHH W 28 9 3 5 60.0 0 0 - 3 3 100.0 5 3 8 1 1 1 5 4 -
+p654
+aVTony Brown LAC 11/30/1991 LAC vs. CHH W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -
+p655
+aVOlden Polynice LAC 11/30/1991 LAC vs. CHH W 27 15 3 6 50.0 0 0 - 9 11 81.8 1 3 4 0 0 0 1 3 -
+p656
+aVDanny Manning LAC 11/30/1991 LAC vs. CHH W 31 16 7 15 46.7 0 0 - 2 2 100.0 3 6 9 5 5 0 3 4 -
+p657
+aVRon Harper LAC 11/30/1991 LAC vs. CHH W 34 21 8 15 53.3 2 3 66.7 3 4 75.0 1 3 4 7 3 0 2 3 -
+p658
+aVLeRon Ellis LAC 11/30/1991 LAC vs. CHH W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -
+p659
+aVTony Brown LAC 11/29/1991 LAC vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p660
+aVGary Grant LAC 11/29/1991 LAC vs. WAS L 21 4 2 8 25.0 0 1 0.0 0 0 - 1 0 1 3 3 0 4 2 -
+p661
+aVJames Edwards LAC 11/29/1991 LAC vs. WAS L 21 10 3 6 50.0 0 0 - 4 4 100.0 2 2 4 0 0 0 1 4 -
+p662
+aVDanny Manning LAC 11/29/1991 LAC vs. WAS L 23 15 7 10 70.0 0 0 - 1 2 50.0 0 4 4 2 0 2 2 4 -
+p663
+aVDoc Rivers LAC 11/29/1991 LAC vs. WAS L 43 20 7 16 43.8 0 2 0.0 6 6 100.0 2 2 4 5 2 1 2 4 -
+p664
+aVLAC 11/29/1991 LAC vs. WAS L 35 12 4 12 33.3 0 0 - 4 4 100.0 4 14 18 1 2 2 1 2 -
+p665
+aVKen Norman LAC 11/29/1991 LAC vs. WAS L 34 15 7 16 43.8 0 0 - 1 4 25.0 2 3 5 1 2 1 1 1 -
+p666
+aVRon Harper LAC 11/29/1991 LAC vs. WAS L 35 10 2 13 15.4 0 2 0.0 6 8 75.0 0 5 5 7 2 1 5 3 -
+p667
+aVOlden Polynice LAC 11/29/1991 LAC vs. WAS L 27 8 3 7 42.9 0 0 - 2 2 100.0 3 5 8 2 2 2 1 2 -
+p668
+aVLeRon Ellis LAC 11/26/1991 LAC vs. CHI L 14 2 1 7 14.3 0 0 - 0 0 - 4 2 6 1 1 1 2 2 -
+p669
+aVLanard Copeland LAC 11/26/1991 LAC vs. CHI L 5 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p670
+aVGary Grant LAC 11/26/1991 LAC vs. CHI L 16 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 4 0 2 0 -
+p671
+aVDanny Manning LAC 11/26/1991 LAC vs. CHI L 32 12 6 13 46.2 0 0 - 0 0 - 2 2 4 1 1 1 2 3 -
+p672
+aVDavid Rivers LAC 11/26/1991 LAC vs. CHI L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -
+p673
+aVOlden Polynice LAC 11/26/1991 LAC vs. CHI L 35 16 6 11 54.5 0 0 - 4 6 66.7 4 6 10 1 1 1 0 2 -
+p674
+aVRon Harper LAC 11/26/1991 LAC vs. CHI L 38 7 3 14 21.4 1 3 33.3 0 0 - 2 1 3 7 0 0 3 4 -
+p675
+aVLAC 11/26/1991 LAC vs. CHI L 29 9 4 11 36.4 0 0 - 1 1 100.0 3 3 6 2 0 0 1 3 -
+p676
+aVDoc Rivers LAC 11/26/1991 LAC vs. CHI L 31 11 4 12 33.3 1 2 50.0 2 2 100.0 0 4 4 5 2 0 3 2 -
+p677
+aVKen Norman LAC 11/26/1991 LAC vs. CHI L 26 15 6 14 42.9 0 1 0.0 3 6 50.0 2 2 4 0 0 0 0 2 -
+p678
+aVTony Brown LAC 11/26/1991 LAC vs. CHI L 9 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -
+p679
+aVRon Harper LAC 11/24/1991 LAC vs. SEA W 43 20 8 24 33.3 2 5 40.0 2 4 50.0 1 3 4 7 4 3 2 3 -
+p680
+aVDoc Rivers LAC 11/24/1991 LAC vs. SEA W 38 17 7 13 53.8 1 2 50.0 2 4 50.0 1 1 2 4 4 0 4 2 -
+p681
+aVOlden Polynice LAC 11/24/1991 LAC vs. SEA W 46 11 3 10 30.0 0 1 0.0 5 6 83.3 5 5 10 3 3 1 2 2 -
+p682
+aVDanny Manning LAC 11/24/1991 LAC vs. SEA W 39 10 5 13 38.5 0 0 - 0 0 - 2 4 6 1 4 3 0 3 -
+p683
+aVLAC 11/24/1991 LAC vs. SEA W 34 9 4 7 57.1 0 0 - 1 1 100.0 4 6 10 0 0 1 1 3 -
+p684
+aVGary Grant LAC 11/24/1991 LAC vs. SEA W 12 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 1 0 5 1 -
+p685
+aVKen Norman LAC 11/24/1991 LAC vs. SEA W 25 14 7 10 70.0 0 0 - 0 3 0.0 0 1 1 1 0 1 0 2 -
+p686
+aVTony Brown LAC 11/24/1991 LAC vs. SEA W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p687
+aVLAC 11/22/1991 LAC @ PHX L 33 23 10 19 52.6 1 2 50.0 2 2 100.0 3 5 8 3 1 1 1 5 -
+p688
+aVLanard Copeland LAC 11/22/1991 LAC @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p689
+aVDoc Rivers LAC 11/22/1991 LAC @ PHX L 35 9 4 10 40.0 1 3 33.3 0 2 0.0 0 5 5 8 0 0 2 4 -
+p690
+aVElliot Perry LAC 11/22/1991 LAC @ PHX L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p691
+aVGary Grant LAC 11/22/1991 LAC @ PHX L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 -
+p692
+aVOlden Polynice LAC 11/22/1991 LAC @ PHX L 36 18 5 7 71.4 0 0 - 8 12 66.7 6 7 13 2 0 1 2 3 -
+p693
+aVDanny Manning LAC 11/22/1991 LAC @ PHX L 38 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 4 1 1 4 2 -
+p694
+aVRon Harper LAC 11/22/1991 LAC @ PHX L 39 11 5 17 29.4 1 7 14.3 0 0 - 0 2 2 5 5 2 3 2 -
+p695
+aVKen Norman LAC 11/22/1991 LAC @ PHX L 25 21 9 18 50.0 0 2 0.0 3 3 100.0 4 2 6 1 1 2 1 2 -
+p696
+aVTony Brown LAC 11/22/1991 LAC @ PHX L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p697
+aVJames Edwards LAC 11/22/1991 LAC @ PHX L 11 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -
+p698
+aVLeRon Ellis LAC 11/22/1991 LAC @ PHX L 1 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -
+p699
+aVElliot Perry LAC 11/21/1991 LAC vs. POR L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -
+p700
+aVLeRon Ellis LAC 11/21/1991 LAC vs. POR L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p701
+aVTony Brown LAC 11/21/1991 LAC vs. POR L 7 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -
+p702
+aVDoc Rivers LAC 11/21/1991 LAC vs. POR L 29 6 2 10 20.0 0 4 0.0 2 3 66.7 0 2 2 2 1 1 2 3 -
+p703
+aVRon Harper LAC 11/21/1991 LAC vs. POR L 34 16 6 11 54.5 3 5 60.0 1 1 100.0 2 2 4 6 0 1 3 1 -
+p704
+aVLanard Copeland LAC 11/21/1991 LAC vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p705
+aVOlden Polynice LAC 11/21/1991 LAC vs. POR L 31 8 2 6 33.3 0 0 - 4 6 66.7 1 3 4 3 1 1 2 2 -
+p706
+aVGary Grant LAC 11/21/1991 LAC vs. POR L 24 10 5 7 71.4 0 1 0.0 0 0 - 0 1 1 2 2 0 2 0 -
+p707
+aVDanny Manning LAC 11/21/1991 LAC vs. POR L 34 12 4 13 30.8 0 1 0.0 4 6 66.7 4 3 7 3 0 2 8 4 -
+p708
+aVKen Norman LAC 11/21/1991 LAC vs. POR L 21 16 7 10 70.0 1 1 100.0 1 6 16.7 2 5 7 1 0 2 2 3 -
+p709
+aVJames Edwards LAC 11/21/1991 LAC vs. POR L 18 7 2 6 33.3 0 0 - 3 8 37.5 1 3 4 0 0 0 2 5 -
+p710
+aVLAC 11/21/1991 LAC vs. POR L 29 13 6 13 46.2 1 1 100.0 0 0 - 8 4 12 0 1 1 1 2 -
+p711
+aVKen Norman LAC 11/19/1991 LAC @ POR L 24 15 7 14 50.0 1 1 100.0 0 0 - 1 2 3 4 0 1 3 5 -
+p712
+aVTony Brown LAC 11/19/1991 LAC @ POR L 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p713
+aVGary Grant LAC 11/19/1991 LAC @ POR L 42 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 10 2 0 3 4 -
+p714
+aVJames Edwards LAC 11/19/1991 LAC @ POR L 20 14 5 8 62.5 0 0 - 4 6 66.7 0 4 4 1 0 2 2 3 -
+p715
+aVRon Harper LAC 11/19/1991 LAC @ POR L 40 21 7 13 53.8 2 5 40.0 5 6 83.3 1 4 5 6 3 0 4 3 -
+p716
+aVOlden Polynice LAC 11/19/1991 LAC @ POR L 26 6 3 4 75.0 0 0 - 0 0 - 3 5 8 1 0 0 3 4 -
+p717
+aVLeRon Ellis LAC 11/19/1991 LAC @ POR L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p718
+aVLAC 11/19/1991 LAC @ POR L 34 15 5 10 50.0 0 0 - 5 6 83.3 1 1 2 1 0 0 0 1 -
+p719
+aVElliot Perry LAC 11/19/1991 LAC @ POR L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p720
+aVDanny Manning LAC 11/19/1991 LAC @ POR L 37 26 8 20 40.0 0 0 - 10 12 83.3 1 4 5 5 1 2 3 4 -
+p721
+aVLanard Copeland LAC 11/19/1991 LAC @ POR L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p722
+aVGary Grant LAC 11/16/1991 LAC vs. GOS L 30 7 3 12 25.0 1 2 50.0 0 0 - 0 5 5 6 2 0 2 3 -
+p723
+aVLanard Copeland LAC 11/16/1991 LAC vs. GOS L 18 8 3 8 37.5 0 1 0.0 2 2 100.0 0 4 4 3 2 0 2 1 -
+p724
+aVTony Brown LAC 11/16/1991 LAC vs. GOS L 27 13 5 13 38.5 2 5 40.0 1 2 50.0 1 1 2 2 3 0 4 2 -
+p725
+aVJames Edwards LAC 11/16/1991 LAC vs. GOS L 9 9 2 3 66.7 0 0 - 5 7 71.4 1 2 3 0 0 0 1 3 -
+p726
+aVLeRon Ellis LAC 11/16/1991 LAC vs. GOS L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 0 -
+p727
+aVKen Norman LAC 11/16/1991 LAC vs. GOS L 33 20 8 15 53.3 0 1 0.0 4 6 66.7 3 4 7 2 1 1 4 2 -
+p728
+aVOlden Polynice LAC 11/16/1991 LAC vs. GOS L 26 3 1 4 25.0 0 0 - 1 2 50.0 4 5 9 0 1 0 2 3 -
+p729
+aVDanny Manning LAC 11/16/1991 LAC vs. GOS L 22 19 8 15 53.3 0 0 - 3 7 42.9 2 4 6 0 2 2 2 5 -
+p730
+aVLAC 11/16/1991 LAC vs. GOS L 32 11 4 11 36.4 0 0 - 3 4 75.0 6 6 12 1 0 1 1 2 -
+p731
+aVRon Harper LAC 11/16/1991 LAC vs. GOS L 27 7 2 8 25.0 0 2 0.0 3 4 75.0 1 4 5 5 1 2 3 3 -
+p732
+aVElliot Perry LAC 11/16/1991 LAC vs. GOS L 14 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 3 1 0 2 3 -
+p733
+aVJames Edwards LAC 11/14/1991 LAC @ DAL L 22 18 7 10 70.0 0 0 - 4 4 100.0 1 3 4 2 1 1 1 5 -
+p734
+aVTony Brown LAC 11/14/1991 LAC @ DAL L 15 4 2 7 28.6 0 1 0.0 0 2 0.0 1 1 2 1 0 0 0 3 -
+p735
+aVElliot Perry LAC 11/14/1991 LAC @ DAL L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 1 1 1 3 -
+p736
+aVOlden Polynice LAC 11/14/1991 LAC @ DAL L 27 14 4 7 57.1 0 0 - 6 7 85.7 2 3 5 0 0 0 2 2 -
+p737
+aVRon Harper LAC 11/14/1991 LAC @ DAL L 40 4 2 15 13.3 0 5 0.0 0 0 - 1 7 8 1 1 3 0 2 -
+p738
+aVGary Grant LAC 11/14/1991 LAC @ DAL L 35 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 10 1 0 3 5 -
+p739
+aVDanny Manning LAC 11/14/1991 LAC @ DAL L 44 27 8 18 44.4 0 0 - 11 13 84.6 2 4 6 5 1 2 3 4 -
+p740
+aVLanard Copeland LAC 11/14/1991 LAC @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p741
+aVLAC 11/14/1991 LAC @ DAL L 41 15 6 17 35.3 1 1 100.0 2 2 100.0 4 7 11 2 1 1 0 4 -
+p742
+aVDanny Manning LAC 11/13/1991 LAC @ SAN L 41 21 9 18 50.0 0 0 - 3 4 75.0 1 2 3 2 1 2 3 4 -
+p743
+aVTony Brown LAC 11/13/1991 LAC @ SAN L 14 5 2 5 40.0 0 2 0.0 1 2 50.0 0 1 1 1 0 1 0 1 -
+p744
+aVOlden Polynice LAC 11/13/1991 LAC @ SAN L 29 10 4 6 66.7 0 0 - 2 2 100.0 3 2 5 1 0 2 1 0 -
+p745
+aVLeRon Ellis LAC 11/13/1991 LAC @ SAN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p746
+aVGary Grant LAC 11/13/1991 LAC @ SAN L 33 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 10 2 1 2 2 -
+p747
+aVElliot Perry LAC 11/13/1991 LAC @ SAN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p748
+aVRon Harper LAC 11/13/1991 LAC @ SAN L 41 25 9 21 42.9 3 6 50.0 4 6 66.7 1 9 10 5 2 1 5 4 -
+p749
+aVLanard Copeland LAC 11/13/1991 LAC @ SAN L 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p750
+aVLAC 11/13/1991 LAC @ SAN L 35 11 5 13 38.5 0 0 - 1 1 100.0 2 5 7 0 1 0 1 4 -
+p751
+aVDoc Rivers LAC 11/13/1991 LAC @ SAN L 21 5 0 5 0.0 0 1 0.0 5 5 100.0 0 3 3 6 1 0 1 3 -
+p752
+aVJames Edwards LAC 11/13/1991 LAC @ SAN L 23 12 5 10 50.0 0 0 - 2 2 100.0 0 6 6 2 0 2 2 3 -
+p753
+aVRon Harper LAC 11/11/1991 LAC vs. IND W 40 26 10 17 58.8 2 2 100.0 4 4 100.0 1 2 3 5 4 3 5 1 -
+p754
+aVGary Grant LAC 11/11/1991 LAC vs. IND W 29 12 5 9 55.6 0 1 0.0 2 3 66.7 1 2 3 8 2 0 5 4 -
+p755
+aVJames Edwards LAC 11/11/1991 LAC vs. IND W 23 6 3 6 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -
+p756
+aVLAC 11/11/1991 LAC vs. IND W 12 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p757
+aVTony Brown LAC 11/11/1991 LAC vs. IND W 15 8 2 5 40.0 2 2 100.0 2 4 50.0 0 4 4 1 1 0 2 1 -
+p758
+aVOlden Polynice LAC 11/11/1991 LAC vs. IND W 27 6 3 8 37.5 0 0 - 0 0 - 3 4 7 1 1 0 0 3 -
+p759
+aVKen Norman LAC 11/11/1991 LAC vs. IND W 31 13 6 11 54.5 0 0 - 1 1 100.0 2 4 6 0 0 1 3 1 -
+p760
+aVDoc Rivers LAC 11/11/1991 LAC vs. IND W 23 11 2 7 28.6 1 2 50.0 6 7 85.7 0 3 3 1 0 0 0 2 -
+p761
+aVDanny Manning LAC 11/11/1991 LAC vs. IND W 40 22 9 17 52.9 0 0 - 4 6 66.7 6 6 12 5 3 2 2 3 -
+p762
+aVLAC 11/09/1991 LAC @ UTH L 33 11 5 11 45.5 0 0 - 1 3 33.3 2 6 8 1 1 1 3 2 -
+p763
+aVDoc Rivers LAC 11/09/1991 LAC @ UTH L 22 9 4 9 44.4 1 4 25.0 0 0 - 0 2 2 4 1 0 2 2 -
+p764
+aVRon Harper LAC 11/09/1991 LAC @ UTH L 30 11 4 11 36.4 1 2 50.0 2 4 50.0 2 0 2 3 2 1 2 3 -
+p765
+aVTony Brown LAC 11/09/1991 LAC @ UTH L 15 12 5 10 50.0 1 4 25.0 1 2 50.0 1 2 3 1 0 0 0 0 -
+p766
+aVKen Norman LAC 11/09/1991 LAC @ UTH L 23 5 1 9 11.1 0 1 0.0 3 6 50.0 1 3 4 0 0 1 0 3 -
+p767
+aVJames Edwards LAC 11/09/1991 LAC @ UTH L 23 6 2 5 40.0 0 0 - 2 2 100.0 1 5 6 2 1 1 2 5 -
+p768
+aVOlden Polynice LAC 11/09/1991 LAC @ UTH L 25 4 2 3 66.7 0 0 - 0 0 - 0 5 5 1 1 1 2 4 -
+p769
+aVGary Grant LAC 11/09/1991 LAC @ UTH L 29 10 5 13 38.5 0 4 0.0 0 0 - 0 0 0 6 2 0 3 3 -
+p770
+aVDanny Manning LAC 11/09/1991 LAC @ UTH L 40 16 6 13 46.2 0 0 - 4 5 80.0 2 2 4 6 2 0 1 3 -
+p771
+aVKen Norman LAC 11/08/1991 LAC vs. DEN W 20 18 9 12 75.0 0 0 - 0 1 0.0 4 3 7 1 2 2 3 1 -
+p772
+aVGary Grant LAC 11/08/1991 LAC vs. DEN W 33 13 5 9 55.6 0 0 - 3 3 100.0 1 4 5 16 4 0 3 0 -
+p773
+aVJames Edwards LAC 11/08/1991 LAC vs. DEN W 22 12 5 10 50.0 0 0 - 2 4 50.0 1 2 3 0 0 1 2 3 -
+p774
+aVLAC 11/08/1991 LAC vs. DEN W 31 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 3 2 1 2 -
+p775
+aVDanny Manning LAC 11/08/1991 LAC vs. DEN W 30 13 6 14 42.9 0 0 - 1 4 25.0 4 1 5 2 1 2 0 3 -
+p776
+aVOlden Polynice LAC 11/08/1991 LAC vs. DEN W 24 16 5 9 55.6 0 0 - 6 9 66.7 1 6 7 0 2 0 0 4 -
+p777
+aVDoc Rivers LAC 11/08/1991 LAC vs. DEN W 24 6 2 5 40.0 0 1 0.0 2 3 66.7 0 5 5 0 7 0 1 1 -
+p778
+aVLeRon Ellis LAC 11/08/1991 LAC vs. DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -
+p779
+aVElliot Perry LAC 11/08/1991 LAC vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p780
+aVRon Harper LAC 11/08/1991 LAC vs. DEN W 31 14 6 17 35.3 0 5 0.0 2 2 100.0 0 1 1 2 1 1 3 0 -
+p781
+aVTony Brown LAC 11/08/1991 LAC vs. DEN W 16 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 0 1 0 2 1 -
+p782
+aVLanard Copeland LAC 11/08/1991 LAC vs. DEN W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p783
+aVJames Edwards LAC 11/06/1991 LAC vs. PHX W 20 14 5 10 50.0 0 0 - 4 4 100.0 0 3 3 0 1 0 1 2 -
+p784
+aVRon Harper LAC 11/06/1991 LAC vs. PHX W 26 21 9 17 52.9 1 3 33.3 2 2 100.0 3 1 4 4 2 0 4 2 -
+p785
+aVLAC 11/06/1991 LAC vs. PHX W 32 8 4 5 80.0 0 0 - 0 0 - 2 7 9 1 0 0 2 2 -
+p786
+aVDoc Rivers LAC 11/06/1991 LAC vs. PHX W 18 5 2 8 25.0 0 0 - 1 3 33.3 1 0 1 5 9 2 0 2 -
+p787
+aVTony Brown LAC 11/06/1991 LAC vs. PHX W 24 9 3 8 37.5 0 1 0.0 3 6 50.0 1 1 2 2 1 0 0 1 -
+p788
+aVLanard Copeland LAC 11/06/1991 LAC vs. PHX W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p789
+aVLeRon Ellis LAC 11/06/1991 LAC vs. PHX W 5 4 1 1 100.0 0 0 - 2 6 33.3 1 0 1 0 1 1 0 0 -
+p790
+aVElliot Perry LAC 11/06/1991 LAC vs. PHX W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -
+p791
+aVGary Grant LAC 11/06/1991 LAC vs. PHX W 29 2 1 8 12.5 0 1 0.0 0 0 - 0 3 3 14 3 0 1 1 -
+p792
+aVKen Norman LAC 11/06/1991 LAC vs. PHX W 21 19 8 13 61.5 0 0 - 3 4 75.0 1 5 6 1 3 1 0 0 -
+p793
+aVOlden Polynice LAC 11/06/1991 LAC vs. PHX W 23 23 10 12 83.3 0 0 - 3 4 75.0 4 1 5 0 0 0 0 0 -
+p794
+aVDanny Manning LAC 11/06/1991 LAC vs. PHX W 33 6 3 9 33.3 0 0 - 0 2 0.0 1 2 3 4 1 2 2 3 -
+p795
+aVRon Harper LAC 11/05/1991 LAC @ LAL W 44 16 6 17 35.3 0 3 0.0 4 4 100.0 2 5 7 6 0 1 2 2 -
+p796
+aVDoc Rivers LAC 11/05/1991 LAC @ LAL W 30 11 4 13 30.8 2 4 50.0 1 2 50.0 0 1 1 4 4 0 0 4 -
+p797
+aVDanny Manning LAC 11/05/1991 LAC @ LAL W 47 22 10 24 41.7 0 0 - 2 2 100.0 5 3 8 3 1 2 2 5 -
+p798
+aVKen Norman LAC 11/05/1991 LAC @ LAL W 21 4 2 11 18.2 0 0 - 0 1 0.0 1 5 6 3 0 0 0 0 -
+p799
+aVTony Brown LAC 11/05/1991 LAC @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p800
+aVOlden Polynice LAC 11/05/1991 LAC @ LAL W 30 13 6 11 54.5 0 0 - 1 2 50.0 6 8 14 1 0 0 2 5 -
+p801
+aVLAC 11/05/1991 LAC @ LAL W 35 20 10 12 83.3 0 0 - 0 0 - 5 5 10 2 0 0 0 2 -
+p802
+aVGary Grant LAC 11/05/1991 LAC @ LAL W 31 15 7 12 58.3 1 1 100.0 0 0 - 0 4 4 8 1 0 3 3 -
+p803
+aVJames Edwards LAC 11/05/1991 LAC @ LAL W 26 13 6 8 75.0 0 0 - 1 1 100.0 0 3 3 5 0 0 1 4 -
+p804
+aVLAC 11/02/1991 LAC vs. CLE W 26 14 6 12 50.0 0 0 - 2 2 100.0 4 6 10 0 0 0 0 5 -
+p805
+aVOlden Polynice LAC 11/02/1991 LAC vs. CLE W 33 8 1 3 33.3 0 0 - 6 6 100.0 3 7 10 1 1 0 1 2 -
+p806
+aVTony Brown LAC 11/02/1991 LAC vs. CLE W 17 9 3 3 100.0 0 0 - 3 3 100.0 0 2 2 2 0 0 0 2 -
+p807
+aVDanny Manning LAC 11/02/1991 LAC vs. CLE W 35 19 7 15 46.7 0 0 - 5 8 62.5 3 6 9 3 0 1 1 4 -
+p808
+aVElliot Perry LAC 11/02/1991 LAC vs. CLE W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 2 0 3 3 -
+p809
+aVGary Grant LAC 11/02/1991 LAC vs. CLE W 36 13 4 12 33.3 0 0 - 5 5 100.0 0 3 3 6 2 0 3 2 -
+p810
+aVRon Harper LAC 11/02/1991 LAC vs. CLE W 40 23 8 23 34.8 1 2 50.0 6 8 75.0 2 1 3 2 2 0 2 2 -
+p811
+aVKen Norman LAC 11/02/1991 LAC vs. CLE W 29 19 9 17 52.9 0 0 - 1 2 50.0 4 7 11 2 1 2 0 1 -
+p812
+aVJames Edwards LAC 11/02/1991 LAC vs. CLE W 15 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 3 -
+p813
+aVLAC 11/01/1991 LAC @ SAC L 40 10 5 11 45.5 0 0 - 0 0 - 3 17 20 0 2 1 3 3 -
+p814
+aVGary Grant LAC 11/01/1991 LAC @ SAC L 29 18 8 11 72.7 0 1 0.0 2 3 66.7 3 0 3 8 1 1 3 5 -
+p815
+aVJames Edwards LAC 11/01/1991 LAC @ SAC L 24 13 6 9 66.7 0 0 - 1 2 50.0 2 4 6 4 1 0 2 4 -
+p816
+aVKen Norman LAC 11/01/1991 LAC @ SAC L 21 6 3 10 30.0 0 1 0.0 0 0 - 1 1 2 2 1 0 2 1 -
+p817
+aVTony Brown LAC 11/01/1991 LAC @ SAC L 21 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 2 2 0 2 4 -
+p818
+aVRon Harper LAC 11/01/1991 LAC @ SAC L 37 17 7 18 38.9 3 7 42.9 0 2 0.0 1 9 10 8 3 0 5 4 -
+p819
+aVDanny Manning LAC 11/01/1991 LAC @ SAC L 35 14 7 18 38.9 0 0 - 0 0 - 2 4 6 1 2 4 3 6 -
+p820
+aVElliot Perry LAC 11/01/1991 LAC @ SAC L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 3 0 6 0 -
+p821
+aVOlden Polynice LAC 11/01/1991 LAC @ SAC L 24 6 3 6 50.0 0 0 - 0 3 0.0 2 4 6 0 1 0 0 1 -
+p822
+a.

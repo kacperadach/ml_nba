@@ -1,0 +1,1654 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJumaine Jones PHI 04/18/2001 PHI vs. CHI L 39 11 5 14 35.7 1 5 20.0 0 0 - 2 6 8 4 1 0 5 1 -5
+p2
+aVEric Snow PHI 04/18/2001 PHI vs. CHI L 24 4 2 2 100.0 0 0 - 0 0 - 0 2 2 9 0 0 3 2 1
+p3
+aVTyrone Hill PHI 04/18/2001 PHI vs. CHI L 11 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 1 0 0 3 2
+p4
+aVGeorge Lynch PHI 04/18/2001 PHI vs. CHI L 29 14 5 8 62.5 0 1 0.0 4 4 100.0 4 5 9 1 1 1 2 3 -11
+p5
+aVJuan Sanchez PHI 04/18/2001 PHI vs. CHI L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p6
+aVMatt Geiger PHI 04/18/2001 PHI vs. CHI L 37 8 3 13 23.1 0 1 0.0 2 2 100.0 3 6 9 2 2 0 1 4 1
+p7
+aVKevin Ollie PHI 04/18/2001 PHI vs. CHI L 20 3 1 7 14.3 0 0 - 1 2 50.0 1 1 2 5 0 0 2 1 -7
+p8
+aVRodney Buford PHI 04/18/2001 PHI vs. CHI L 19 12 4 8 50.0 3 5 60.0 1 2 50.0 1 3 4 0 0 0 3 1 -6
+p9
+aVAaron McKie PHI 04/18/2001 PHI vs. CHI L 24 7 2 8 25.0 1 4 25.0 2 2 100.0 0 0 0 3 1 0 2 0 1
+p10
+aVTodd MacCulloch PHI 04/18/2001 PHI vs. CHI L 27 21 8 10 80.0 0 0 - 5 7 71.4 3 3 6 0 0 0 0 4 -4
+p11
+aVRaja Bell PHI 04/18/2001 PHI vs. CHI L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p12
+aVRodney Buford PHI 04/17/2001 PHI @ IND W 25 5 2 11 18.2 1 1 100.0 0 0 - 0 0 0 4 3 1 0 1 13
+p13
+aVRoshown McLeod PHI 04/17/2001 PHI @ IND W 15 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 -7
+p14
+aVMatt Geiger PHI 04/17/2001 PHI @ IND W 14 2 1 6 16.7 0 0 - 0 0 - 0 3 3 0 1 0 0 3 3
+p15
+aVRaja Bell PHI 04/17/2001 PHI @ IND W 16 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 1 1
+p16
+aVDikembe Mutombo PHI 04/17/2001 PHI @ IND W 24 7 3 5 60.0 0 0 - 1 2 50.0 0 8 8 0 0 1 0 2 4
+p17
+aVTyrone Hill PHI 04/17/2001 PHI @ IND W 11 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -8
+p18
+aVAaron McKie PHI 04/17/2001 PHI @ IND W 23 18 8 11 72.7 0 0 - 2 2 100.0 0 1 1 3 0 0 1 1 4
+p19
+aVJumaine Jones PHI 04/17/2001 PHI @ IND W 39 26 7 15 46.7 4 7 57.1 8 8 100.0 4 9 13 2 0 0 0 5 17
+p20
+aVEric Snow PHI 04/17/2001 PHI @ IND W 28 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 8 2 0 6 2 1
+p21
+aVGeorge Lynch PHI 04/17/2001 PHI @ IND W 23 11 3 9 33.3 0 1 0.0 5 6 83.3 3 1 4 0 0 0 2 3 -3
+p22
+aVTodd MacCulloch PHI 04/17/2001 PHI @ IND W 23 10 5 10 50.0 0 0 - 0 1 0.0 3 5 8 2 0 1 1 5 4
+p23
+aVKevin Ollie PHI 04/17/2001 PHI @ IND W 25 13 4 8 50.0 0 0 - 5 7 71.4 0 3 3 7 2 0 1 5 6
+p24
+aVKevin Ollie PHI 04/15/2001 PHI vs. NYK W 14 9 3 6 50.0 0 0 - 3 4 75.0 1 1 2 1 1 0 1 1 6
+p25
+aVJumaine Jones PHI 04/15/2001 PHI vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p26
+aVGeorge Lynch PHI 04/15/2001 PHI vs. NYK W 36 7 3 6 50.0 0 0 - 1 2 50.0 2 9 11 2 1 1 0 2 -4
+p27
+aVTyrone Hill PHI 04/15/2001 PHI vs. NYK W 34 10 4 6 66.7 0 0 - 2 5 40.0 2 5 7 0 0 0 0 2 3
+p28
+aVAllen Iverson PHI 04/15/2001 PHI vs. NYK W 43 27 10 24 41.7 0 4 0.0 7 8 87.5 0 1 1 2 3 0 5 3 6
+p29
+aVAaron McKie PHI 04/15/2001 PHI vs. NYK W 30 11 5 11 45.5 1 3 33.3 0 0 - 1 2 3 9 1 1 2 2 12
+p30
+aVMatt Geiger PHI 04/15/2001 PHI vs. NYK W 10 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 1 2
+p31
+aVEric Snow PHI 04/15/2001 PHI vs. NYK W 36 11 4 14 28.6 0 0 - 3 6 50.0 1 6 7 6 1 0 1 6 2
+p32
+aVDikembe Mutombo PHI 04/15/2001 PHI vs. NYK W 35 8 3 6 50.0 0 0 - 2 4 50.0 7 9 16 0 0 2 1 4 6
+p33
+aVKevin Ollie PHI 04/12/2001 PHI @ ORL L 18 4 2 3 66.7 0 0 - 0 0 - 2 3 5 4 1 0 0 1 8
+p34
+aVEric Snow PHI 04/12/2001 PHI @ ORL L 29 4 2 2 100.0 0 0 - 0 0 - 0 1 1 9 3 0 1 1 -29
+p35
+aVRodney Buford PHI 04/12/2001 PHI @ ORL L 15 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 2
+p36
+aVGeorge Lynch PHI 04/12/2001 PHI @ ORL L 20 6 3 6 50.0 0 0 - 0 0 - 2 3 5 3 0 0 3 2 -10
+p37
+aVRaja Bell PHI 04/12/2001 PHI @ ORL L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 7
+p38
+aVJumaine Jones PHI 04/12/2001 PHI @ ORL L 28 8 4 10 40.0 0 1 0.0 0 0 - 1 5 6 0 0 0 1 1 -15
+p39
+aVAaron McKie PHI 04/12/2001 PHI @ ORL L 17 5 2 6 33.3 0 1 0.0 1 2 50.0 1 1 2 3 0 0 2 2 -16
+p40
+aVTodd MacCulloch PHI 04/12/2001 PHI @ ORL L 3 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 1 3 -12
+p41
+aVMatt Geiger PHI 04/12/2001 PHI @ ORL L 23 10 5 14 35.7 0 0 - 0 0 - 1 6 7 1 0 0 3 3 9
+p42
+aVTyrone Hill PHI 04/12/2001 PHI @ ORL L 25 16 7 13 53.8 0 0 - 2 2 100.0 3 3 6 1 1 2 2 5 -13
+p43
+aVAllen Iverson PHI 04/12/2001 PHI @ ORL L 35 12 5 15 33.3 0 6 0.0 2 5 40.0 1 1 2 3 4 0 1 1 -29
+p44
+aVDikembe Mutombo PHI 04/12/2001 PHI @ ORL L 19 6 2 5 40.0 0 0 - 2 3 66.7 1 2 3 0 0 0 3 5 -22
+p45
+aVTodd MacCulloch PHI 04/10/2001 PHI @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 5
+p46
+aVTyrone Hill PHI 04/10/2001 PHI @ MIA L 33 9 4 7 57.1 0 0 - 1 1 100.0 4 7 11 0 1 0 2 4 8
+p47
+aVEric Snow PHI 04/10/2001 PHI @ MIA L 35 8 4 14 28.6 0 2 0.0 0 0 - 0 2 2 7 2 0 1 3 5
+p48
+aVAaron McKie PHI 04/10/2001 PHI @ MIA L 24 5 2 6 33.3 0 1 0.0 1 3 33.3 0 4 4 2 1 0 5 1 -7
+p49
+aVGeorge Lynch PHI 04/10/2001 PHI @ MIA L 26 4 1 6 16.7 0 0 - 2 3 66.7 1 6 7 0 0 0 0 1 0
+p50
+aVAllen Iverson PHI 04/10/2001 PHI @ MIA L 45 41 14 28 50.0 4 6 66.7 9 10 90.0 1 1 2 1 1 0 2 2 -5
+p51
+aVKevin Ollie PHI 04/10/2001 PHI @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p52
+aVJumaine Jones PHI 04/10/2001 PHI @ MIA L 11 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 0 -9
+p53
+aVRodney Buford PHI 04/10/2001 PHI @ MIA L 19 7 3 8 37.5 1 2 50.0 0 0 - 0 1 1 0 1 0 1 1 1
+p54
+aVDikembe Mutombo PHI 04/10/2001 PHI @ MIA L 41 5 2 6 33.3 0 0 - 1 3 33.3 3 9 12 1 0 1 0 4 -9
+p55
+aVAaron McKie PHI 04/09/2001 PHI vs. BOS W 29 13 4 7 57.1 1 2 50.0 4 4 100.0 0 3 3 7 2 0 1 3 15
+p56
+aVRaja Bell PHI 04/09/2001 PHI vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p57
+aVJumaine Jones PHI 04/09/2001 PHI vs. BOS W 16 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 0 1 0 1 2 11
+p58
+aVMatt Geiger PHI 04/09/2001 PHI vs. BOS W 12 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 1 0
+p59
+aVTyrone Hill PHI 04/09/2001 PHI vs. BOS W 38 16 7 11 63.6 0 0 - 2 2 100.0 1 5 6 1 1 0 0 4 -2
+p60
+aVDikembe Mutombo PHI 04/09/2001 PHI vs. BOS W 35 12 3 4 75.0 0 0 - 6 6 100.0 5 13 18 1 0 7 0 1 10
+p61
+aVTodd MacCulloch PHI 04/09/2001 PHI vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p62
+aVGeorge Lynch PHI 04/09/2001 PHI vs. BOS W 29 10 5 7 71.4 0 1 0.0 0 0 - 4 5 9 2 2 0 3 1 12
+p63
+aVAllen Iverson PHI 04/09/2001 PHI vs. BOS W 39 37 13 33 39.4 1 8 12.5 10 12 83.3 3 2 5 4 1 0 2 1 10
+p64
+aVKevin Ollie PHI 04/09/2001 PHI vs. BOS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p65
+aVEric Snow PHI 04/09/2001 PHI vs. BOS W 38 8 4 12 33.3 0 0 - 0 0 - 3 3 6 9 1 0 0 1 2
+p66
+aVTodd MacCulloch PHI 04/06/2001 PHI vs. CLE W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p67
+aVGeorge Lynch PHI 04/06/2001 PHI vs. CLE W 39 10 4 10 40.0 0 0 - 2 2 100.0 4 6 10 3 2 0 2 3 11
+p68
+aVJumaine Jones PHI 04/06/2001 PHI vs. CLE W 26 13 4 5 80.0 0 0 - 5 6 83.3 3 0 3 4 0 0 0 1 13
+p69
+aVEric Snow PHI 04/06/2001 PHI vs. CLE W 37 15 6 13 46.2 1 1 100.0 2 2 100.0 1 4 5 2 1 0 4 4 12
+p70
+aVTyrone Hill PHI 04/06/2001 PHI vs. CLE W 28 7 2 12 16.7 0 0 - 3 5 60.0 5 7 12 0 0 1 0 2 1
+p71
+aVDikembe Mutombo PHI 04/06/2001 PHI vs. CLE W 39 27 11 21 52.4 0 0 - 5 10 50.0 8 5 13 1 1 5 2 1 3
+p72
+aVMatt Geiger PHI 04/06/2001 PHI vs. CLE W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 3
+p73
+aVRaja Bell PHI 04/06/2001 PHI vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p74
+aVRodney Buford PHI 04/06/2001 PHI vs. CLE W 23 11 5 11 45.5 1 2 50.0 0 0 - 1 1 2 0 0 0 4 3 0
+p75
+aVKevin Ollie PHI 04/06/2001 PHI vs. CLE W 39 9 4 9 44.4 0 0 - 1 2 50.0 2 8 10 10 2 0 0 2 3
+p76
+aVJuan Sanchez PHI 04/04/2001 PHI @ DET W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 3 0 1 5 16
+p77
+aVKevin Ollie PHI 04/04/2001 PHI @ DET W 36 7 3 8 37.5 0 1 0.0 1 4 25.0 1 3 4 5 2 0 0 2 0
+p78
+aVJumaine Jones PHI 04/04/2001 PHI @ DET W 24 6 3 8 37.5 0 1 0.0 0 0 - 1 3 4 2 0 2 0 1 3
+p79
+aVMatt Geiger PHI 04/04/2001 PHI @ DET W 32 13 3 19 15.8 0 0 - 7 10 70.0 1 7 8 0 0 0 2 4 12
+p80
+aVGeorge Lynch PHI 04/04/2001 PHI @ DET W 44 18 7 15 46.7 0 0 - 4 4 100.0 2 4 6 3 3 0 0 4 0
+p81
+aVRodney Buford PHI 04/04/2001 PHI @ DET W 17 10 5 13 38.5 0 0 - 0 0 - 2 1 3 0 1 0 1 1 -3
+p82
+aVEric Snow PHI 04/04/2001 PHI @ DET W 35 15 5 13 38.5 0 0 - 5 5 100.0 1 0 1 7 1 0 0 1 3
+p83
+aVDikembe Mutombo PHI 04/04/2001 PHI @ DET W 44 21 8 16 50.0 0 0 - 5 7 71.4 7 9 16 2 1 1 4 5 -1
+p84
+aVTodd MacCulloch PHI 04/03/2001 PHI @ TOR L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 6
+p85
+aVAllen Iverson PHI 04/03/2001 PHI @ TOR L 31 18 7 23 30.4 1 6 16.7 3 4 75.0 1 0 1 2 0 0 4 0 -26
+p86
+aVKevin Ollie PHI 04/03/2001 PHI @ TOR L 22 13 4 6 66.7 0 0 - 5 5 100.0 0 1 1 4 1 0 3 3 3
+p87
+aVJumaine Jones PHI 04/03/2001 PHI @ TOR L 27 11 4 14 28.6 0 0 - 3 3 100.0 5 2 7 1 1 1 1 1 10
+p88
+aVRodney Buford PHI 04/03/2001 PHI @ TOR L 20 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 0 8
+p89
+aVGeorge Lynch PHI 04/03/2001 PHI @ TOR L 36 12 5 9 55.6 0 0 - 2 2 100.0 2 3 5 1 2 0 3 2 -11
+p90
+aVEric Snow PHI 04/03/2001 PHI @ TOR L 29 2 1 6 16.7 0 0 - 0 0 - 0 5 5 8 0 2 3 0 -24
+p91
+aVDikembe Mutombo PHI 04/03/2001 PHI @ TOR L 36 10 4 10 40.0 0 0 - 2 2 100.0 7 9 16 1 0 1 0 0 -16
+p92
+aVMatt Geiger PHI 04/03/2001 PHI @ TOR L 20 11 5 7 71.4 0 0 - 1 2 50.0 1 3 4 1 0 0 0 0 -1
+p93
+aVTyrone Hill PHI 04/03/2001 PHI @ TOR L 13 1 0 6 0.0 0 0 - 1 2 50.0 4 1 5 0 0 0 2 3 -24
+p94
+aVKevin Ollie PHI 04/01/2001 PHI vs. IND W 16 8 2 4 50.0 0 0 - 4 6 66.7 0 5 5 4 0 0 1 1 9
+p95
+aVAllen Iverson PHI 04/01/2001 PHI vs. IND W 40 37 12 27 44.4 3 5 60.0 10 15 66.7 1 2 3 7 3 0 1 5 8
+p96
+aVRodney Buford PHI 04/01/2001 PHI vs. IND W 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 2 0 1 1 2
+p97
+aVJumaine Jones PHI 04/01/2001 PHI vs. IND W 29 11 4 11 36.4 0 2 0.0 3 4 75.0 1 6 7 1 0 0 0 3 10
+p98
+aVEric Snow PHI 04/01/2001 PHI vs. IND W 39 10 4 16 25.0 0 0 - 2 2 100.0 1 4 5 9 0 0 1 2 2
+p99
+aVTyrone Hill PHI 04/01/2001 PHI vs. IND W 40 15 6 7 85.7 0 0 - 3 3 100.0 5 7 12 0 0 0 3 5 12
+p100
+aVTodd MacCulloch PHI 04/01/2001 PHI vs. IND W 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -1
+p101
+aVMatt Geiger PHI 04/01/2001 PHI vs. IND W 24 9 4 5 80.0 0 0 - 1 2 50.0 3 6 9 0 0 0 2 3 4
+p102
+aVDikembe Mutombo PHI 04/01/2001 PHI vs. IND W 22 5 0 2 0.0 0 0 - 5 6 83.3 3 7 10 1 0 1 0 3 8
+p103
+aVGeorge Lynch PHI 04/01/2001 PHI vs. IND W 22 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 5 2
+p104
+aVJuan Sanchez PHI 04/01/2001 PHI vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p105
+aVDikembe Mutombo PHI 03/30/2001 PHI vs. GSW W 28 9 3 9 33.3 0 0 - 3 4 75.0 2 6 8 0 0 2 1 3 11
+p106
+aVEric Snow PHI 03/30/2001 PHI vs. GSW W 36 11 4 7 57.1 0 0 - 3 3 100.0 0 2 2 6 1 0 3 3 6
+p107
+aVKevin Ollie PHI 03/30/2001 PHI vs. GSW W 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 7
+p108
+aVRodney Buford PHI 03/30/2001 PHI vs. GSW W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p109
+aVGeorge Lynch PHI 03/30/2001 PHI vs. GSW W 34 6 3 9 33.3 0 0 - 0 0 - 0 3 3 1 0 1 1 4 19
+p110
+aVJuan Sanchez PHI 03/30/2001 PHI vs. GSW W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p111
+aVAllen Iverson PHI 03/30/2001 PHI vs. GSW W 42 35 12 26 46.2 3 8 37.5 8 9 88.9 2 9 11 9 4 2 5 2 12
+p112
+aVTodd MacCulloch PHI 03/30/2001 PHI vs. GSW W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p113
+aVTyrone Hill PHI 03/30/2001 PHI vs. GSW W 34 21 9 10 90.0 0 0 - 3 3 100.0 3 11 14 2 0 0 1 2 15
+p114
+aVJumaine Jones PHI 03/30/2001 PHI vs. GSW W 21 8 3 5 60.0 0 1 0.0 2 2 100.0 0 3 3 2 2 0 1 1 -4
+p115
+aVMatt Geiger PHI 03/30/2001 PHI vs. GSW W 18 6 3 4 75.0 0 0 - 0 0 - 0 1 1 2 0 0 1 4 3
+p116
+aVAaron McKie PHI 03/28/2001 PHI vs. ORL L 13 0 0 3 0.0 0 1 0.0 0 2 0.0 0 2 2 1 0 0 2 0 -1
+p117
+aVRodney Buford PHI 03/28/2001 PHI vs. ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p118
+aVTyrone Hill PHI 03/28/2001 PHI vs. ORL L 41 9 2 11 18.2 0 0 - 5 12 41.7 7 10 17 0 4 0 4 3 3
+p119
+aVKevin Ollie PHI 03/28/2001 PHI vs. ORL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -22
+p120
+aVMatt Geiger PHI 03/28/2001 PHI vs. ORL L 19 11 5 10 50.0 0 0 - 1 1 100.0 4 4 8 0 1 1 0 1 7
+p121
+aVEric Snow PHI 03/28/2001 PHI vs. ORL L 37 14 2 4 50.0 0 1 0.0 10 10 100.0 1 1 2 10 2 0 5 1 5
+p122
+aVAllen Iverson PHI 03/28/2001 PHI vs. ORL L 43 37 13 31 41.9 3 6 50.0 8 11 72.7 1 2 3 4 3 0 10 2 3
+p123
+aVJumaine Jones PHI 03/28/2001 PHI vs. ORL L 19 13 5 8 62.5 2 3 66.7 1 2 50.0 3 4 7 0 2 0 0 1 5
+p124
+aVDikembe Mutombo PHI 03/28/2001 PHI vs. ORL L 23 7 2 2 100.0 0 0 - 3 5 60.0 3 5 8 1 0 0 3 3 -12
+p125
+aVGeorge Lynch PHI 03/28/2001 PHI vs. ORL L 28 4 2 9 22.2 0 0 - 0 0 - 3 4 7 2 1 1 1 6 10
+p126
+aVTodd MacCulloch PHI 03/28/2001 PHI vs. ORL L 4 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 1 1 0 1 0
+p127
+aVTodd MacCulloch PHI 03/26/2001 PHI vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p128
+aVRodney Buford PHI 03/26/2001 PHI vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p129
+aVKevin Ollie PHI 03/26/2001 PHI vs. MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p130
+aVGeorge Lynch PHI 03/26/2001 PHI vs. MIL W 33 8 4 9 44.4 0 0 - 0 0 - 0 3 3 2 2 0 2 4 11
+p131
+aVJuan Sanchez PHI 03/26/2001 PHI vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p132
+aVAllen Iverson PHI 03/26/2001 PHI vs. MIL W 43 36 15 35 42.9 1 6 16.7 5 5 100.0 0 3 3 2 6 0 4 0 11
+p133
+aVMatt Geiger PHI 03/26/2001 PHI vs. MIL W 11 1 0 5 0.0 0 0 - 1 2 50.0 2 2 4 1 0 0 0 5 -5
+p134
+aVAaron McKie PHI 03/26/2001 PHI vs. MIL W 27 20 7 13 53.8 0 1 0.0 6 9 66.7 1 2 3 3 2 0 5 2 10
+p135
+aVEric Snow PHI 03/26/2001 PHI vs. MIL W 32 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 13 2 0 2 2 16
+p136
+aVDikembe Mutombo PHI 03/26/2001 PHI vs. MIL W 35 12 4 11 36.4 0 0 - 4 4 100.0 11 6 17 1 0 1 1 2 13
+p137
+aVTyrone Hill PHI 03/26/2001 PHI vs. MIL W 36 5 2 6 33.3 0 0 - 1 6 16.7 6 9 15 1 1 0 0 1 9
+p138
+aVJumaine Jones PHI 03/26/2001 PHI vs. MIL W 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 2 0 0 1 6
+p139
+aVKevin Ollie PHI 03/23/2001 PHI @ PHX L 22 7 3 9 33.3 1 1 100.0 0 0 - 0 2 2 3 0 0 0 1 -12
+p140
+aVJumaine Jones PHI 03/23/2001 PHI @ PHX L 25 11 3 9 33.3 1 2 50.0 4 6 66.7 3 3 6 2 3 0 3 1 -8
+p141
+aVEric Snow PHI 03/23/2001 PHI @ PHX L 32 5 2 7 28.6 0 0 - 1 2 50.0 0 0 0 3 0 0 0 2 -4
+p142
+aVDikembe Mutombo PHI 03/23/2001 PHI @ PHX L 29 9 2 8 25.0 0 0 - 5 6 83.3 4 9 13 1 0 1 5 3 -9
+p143
+aVTyrone Hill PHI 03/23/2001 PHI @ PHX L 33 9 4 9 44.4 0 0 - 1 2 50.0 0 8 8 2 0 0 1 2 -17
+p144
+aVAaron McKie PHI 03/23/2001 PHI @ PHX L 39 20 8 11 72.7 0 0 - 4 4 100.0 0 6 6 4 0 0 5 1 -13
+p145
+aVMatt Geiger PHI 03/23/2001 PHI @ PHX L 19 4 2 8 25.0 0 1 0.0 0 2 0.0 3 4 7 0 0 1 2 3 -4
+p146
+aVGeorge Lynch PHI 03/23/2001 PHI @ PHX L 38 6 3 9 33.3 0 1 0.0 0 0 - 3 1 4 0 0 1 2 1 -1
+p147
+aVRodney Buford PHI 03/23/2001 PHI @ PHX L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p148
+aVEric Snow PHI 03/20/2001 PHI @ LAC L 39 11 5 12 41.7 1 1 100.0 0 0 - 1 0 1 9 0 0 1 2 -14
+p149
+aVMatt Geiger PHI 03/20/2001 PHI @ LAC L 14 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 1 1 2 -4
+p150
+aVTyrone Hill PHI 03/20/2001 PHI @ LAC L 25 10 4 9 44.4 0 0 - 2 2 100.0 2 3 5 0 2 0 1 4 -10
+p151
+aVAaron McKie PHI 03/20/2001 PHI @ LAC L 43 22 8 19 42.1 1 4 25.0 5 6 83.3 4 3 7 3 2 0 2 1 -9
+p152
+aVRodney Buford PHI 03/20/2001 PHI @ LAC L 16 0 0 8 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p153
+aVKevin Ollie PHI 03/20/2001 PHI @ LAC L 10 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 1 0 1 1 3
+p154
+aVJumaine Jones PHI 03/20/2001 PHI @ LAC L 29 6 3 11 27.3 0 4 0.0 0 0 - 3 3 6 0 1 0 2 0 -14
+p155
+aVGeorge Lynch PHI 03/20/2001 PHI @ LAC L 31 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 1 2 0 2 5 -5
+p156
+aVDikembe Mutombo PHI 03/20/2001 PHI @ LAC L 32 14 5 6 83.3 0 0 - 4 4 100.0 2 4 6 1 1 1 0 3 -2
+p157
+aVRodney Buford PHI 03/19/2001 PHI @ SEA L 23 12 5 12 41.7 2 4 50.0 0 0 - 0 4 4 2 1 1 1 1 -1
+p158
+aVAaron McKie PHI 03/19/2001 PHI @ SEA L 40 21 8 15 53.3 2 3 66.7 3 3 100.0 0 1 1 2 0 0 8 6 -11
+p159
+aVEric Snow PHI 03/19/2001 PHI @ SEA L 37 14 5 11 45.5 1 1 100.0 3 3 100.0 1 3 4 9 3 1 4 2 7
+p160
+aVJumaine Jones PHI 03/19/2001 PHI @ SEA L 18 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 0 1 0 0 4 -9
+p161
+aVKevin Ollie PHI 03/19/2001 PHI @ SEA L 20 6 2 4 50.0 0 0 - 2 3 66.7 0 0 0 3 0 0 1 0 -4
+p162
+aVMatt Geiger PHI 03/19/2001 PHI @ SEA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p163
+aVDikembe Mutombo PHI 03/19/2001 PHI @ SEA L 37 14 5 8 62.5 0 0 - 4 6 66.7 3 7 10 2 0 4 2 3 8
+p164
+aVTyrone Hill PHI 03/19/2001 PHI @ SEA L 24 7 2 8 25.0 0 0 - 3 3 100.0 4 3 7 1 0 0 5 3 4
+p165
+aVGeorge Lynch PHI 03/19/2001 PHI @ SEA L 37 7 3 8 37.5 0 0 - 1 2 50.0 6 7 13 0 0 0 1 3 -7
+p166
+aVKevin Ollie PHI 03/17/2001 PHI @ MIL L 14 8 4 4 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -24
+p167
+aVTyrone Hill PHI 03/17/2001 PHI @ MIL L 40 13 5 11 45.5 0 0 - 3 3 100.0 3 7 10 0 1 0 2 1 6
+p168
+aVRodney Buford PHI 03/17/2001 PHI @ MIL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p169
+aVDikembe Mutombo PHI 03/17/2001 PHI @ MIL L 32 6 3 8 37.5 0 0 - 0 0 - 2 8 10 0 1 2 3 2 6
+p170
+aVMatt Geiger PHI 03/17/2001 PHI @ MIL L 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -15
+p171
+aVJumaine Jones PHI 03/17/2001 PHI @ MIL L 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -13
+p172
+aVEric Snow PHI 03/17/2001 PHI @ MIL L 37 14 5 9 55.6 0 0 - 4 5 80.0 0 3 3 8 1 0 1 1 11
+p173
+aVGeorge Lynch PHI 03/17/2001 PHI @ MIL L 41 8 4 10 40.0 0 2 0.0 0 0 - 1 2 3 3 0 1 3 3 -11
+p174
+aVAaron McKie PHI 03/17/2001 PHI @ MIL L 42 23 9 17 52.9 0 2 0.0 5 5 100.0 1 4 5 10 3 0 5 5 3
+p175
+aVMatt Geiger PHI 03/16/2001 PHI vs. SAC L 18 7 3 6 50.0 0 0 - 1 2 50.0 3 2 5 1 2 0 0 1 -7
+p176
+aVTodd MacCulloch PHI 03/16/2001 PHI vs. SAC L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p177
+aVJumaine Jones PHI 03/16/2001 PHI vs. SAC L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p178
+aVDikembe Mutombo PHI 03/16/2001 PHI vs. SAC L 30 4 1 5 20.0 0 0 - 2 2 100.0 4 3 7 2 1 2 3 2 -13
+p179
+aVKevin Ollie PHI 03/16/2001 PHI vs. SAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p180
+aVGeorge Lynch PHI 03/16/2001 PHI vs. SAC L 36 7 3 8 37.5 0 0 - 1 2 50.0 2 6 8 0 1 0 0 1 -12
+p181
+aVTyrone Hill PHI 03/16/2001 PHI vs. SAC L 26 5 2 6 33.3 0 0 - 1 2 50.0 2 5 7 0 0 0 1 4 -22
+p182
+aVAllen Iverson PHI 03/16/2001 PHI vs. SAC L 40 28 11 28 39.3 2 5 40.0 4 6 66.7 1 3 4 6 2 0 4 1 -20
+p183
+aVEric Snow PHI 03/16/2001 PHI vs. SAC L 36 4 2 8 25.0 0 0 - 0 0 - 1 1 2 7 1 0 0 3 -15
+p184
+aVAaron McKie PHI 03/16/2001 PHI vs. SAC L 26 17 6 11 54.5 0 1 0.0 5 6 83.3 0 3 3 5 2 0 2 1 1
+p185
+aVRodney Buford PHI 03/16/2001 PHI vs. SAC L 12 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 1 -5
+p186
+aVJumaine Jones PHI 03/14/2001 PHI @ CHI W 18 4 2 5 40.0 0 0 - 0 0 - 0 5 5 1 0 0 0 2 -3
+p187
+aVTodd MacCulloch PHI 03/14/2001 PHI @ CHI W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p188
+aVTyrone Hill PHI 03/14/2001 PHI @ CHI W 27 16 8 14 57.1 0 0 - 0 1 0.0 2 1 3 1 1 0 1 2 17
+p189
+aVEric Snow PHI 03/14/2001 PHI @ CHI W 32 6 2 7 28.6 0 1 0.0 2 2 100.0 0 3 3 7 2 0 4 2 26
+p190
+aVAnthony Miller PHI 03/14/2001 PHI @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p191
+aVRodney Buford PHI 03/14/2001 PHI @ CHI W 20 8 3 6 50.0 0 1 0.0 2 2 100.0 1 4 5 0 0 0 0 1 0
+p192
+aVAaron McKie PHI 03/14/2001 PHI @ CHI W 36 14 5 7 71.4 0 0 - 4 6 66.7 0 5 5 6 2 0 3 1 17
+p193
+aVMatt Geiger PHI 03/14/2001 PHI @ CHI W 17 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 0 0 2 0 0 2
+p194
+aVGeorge Lynch PHI 03/14/2001 PHI @ CHI W 30 9 4 6 66.7 0 0 - 1 2 50.0 1 4 5 0 1 0 0 1 20
+p195
+aVKevin Ollie PHI 03/14/2001 PHI @ CHI W 22 3 1 3 33.3 0 0 - 1 4 25.0 0 0 0 6 2 0 2 3 -3
+p196
+aVDikembe Mutombo PHI 03/14/2001 PHI @ CHI W 31 15 5 9 55.6 0 0 - 5 8 62.5 5 7 12 1 0 4 1 1 22
+p197
+aVJumaine Jones PHI 03/11/2001 PHI @ BOS W 17 0 0 2 0.0 0 0 - 0 0 - 0 7 7 1 1 0 0 3 -14
+p198
+aVEric Snow PHI 03/11/2001 PHI @ BOS W 37 19 7 14 50.0 0 0 - 5 7 71.4 0 1 1 10 2 0 5 5 0
+p199
+aVDikembe Mutombo PHI 03/11/2001 PHI @ BOS W 40 18 5 6 83.3 0 0 - 8 9 88.9 9 13 22 2 1 4 8 3 12
+p200
+aVTodd MacCulloch PHI 03/11/2001 PHI @ BOS W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p201
+aVGeorge Lynch PHI 03/11/2001 PHI @ BOS W 40 18 8 13 61.5 0 0 - 2 4 50.0 1 4 5 2 1 0 3 1 11
+p202
+aVAllen Iverson PHI 03/11/2001 PHI @ BOS W 15 11 4 10 40.0 0 1 0.0 3 3 100.0 1 3 4 2 3 0 1 3 1
+p203
+aVRodney Buford PHI 03/11/2001 PHI @ BOS W 13 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 5 6
+p204
+aVTyrone Hill PHI 03/11/2001 PHI @ BOS W 34 12 4 10 40.0 0 0 - 4 5 80.0 1 3 4 0 1 1 1 2 7
+p205
+aVKevin Ollie PHI 03/11/2001 PHI @ BOS W 14 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 2 3
+p206
+aVAaron McKie PHI 03/11/2001 PHI @ BOS W 26 9 3 7 42.9 0 0 - 3 4 75.0 0 3 3 3 1 1 3 3 9
+p207
+aVKevin Ollie PHI 03/09/2001 PHI vs. ATL W 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 4 1 0 1 3 4
+p208
+aVAllen Iverson PHI 03/09/2001 PHI vs. ATL W 43 47 16 30 53.3 2 4 50.0 13 14 92.9 0 2 2 6 4 0 4 4 7
+p209
+aVGeorge Lynch PHI 03/09/2001 PHI vs. ATL W 37 8 4 8 50.0 0 0 - 0 0 - 5 7 12 2 1 0 1 2 13
+p210
+aVTodd MacCulloch PHI 03/09/2001 PHI vs. ATL W 4 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -3
+p211
+aVRodney Buford PHI 03/09/2001 PHI vs. ATL W 13 6 3 8 37.5 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -12
+p212
+aVEric Snow PHI 03/09/2001 PHI vs. ATL W 36 12 6 14 42.9 0 0 - 0 0 - 1 3 4 13 2 0 2 0 4
+p213
+aVJumaine Jones PHI 03/09/2001 PHI vs. ATL W 14 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 1 1 0 1 2 -3
+p214
+aVAaron McKie PHI 03/09/2001 PHI vs. ATL W 11 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 2 0 0 1 2 -2
+p215
+aVTyrone Hill PHI 03/09/2001 PHI vs. ATL W 33 12 5 9 55.6 0 0 - 2 4 50.0 2 7 9 1 0 1 1 3 3
+p216
+aVDikembe Mutombo PHI 03/09/2001 PHI vs. ATL W 39 13 5 10 50.0 0 0 - 3 4 75.0 5 8 13 1 0 9 1 1 14
+p217
+aVAllen Iverson PHI 03/07/2001 PHI vs. NJN W 44 38 12 32 37.5 1 7 14.3 13 14 92.9 1 2 3 7 4 0 5 2 10
+p218
+aVJumaine Jones PHI 03/07/2001 PHI vs. NJN W 20 10 4 4 100.0 2 2 100.0 0 0 - 0 0 0 0 1 0 0 1 10
+p219
+aVTodd MacCulloch PHI 03/07/2001 PHI vs. NJN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p220
+aVDikembe Mutombo PHI 03/07/2001 PHI vs. NJN W 39 11 3 8 37.5 0 0 - 5 5 100.0 6 6 12 0 0 1 1 1 2
+p221
+aVAaron McKie PHI 03/07/2001 PHI vs. NJN W 29 12 5 11 45.5 0 2 0.0 2 2 100.0 0 2 2 4 0 0 0 0 15
+p222
+aVTyrone Hill PHI 03/07/2001 PHI vs. NJN W 34 13 5 8 62.5 0 0 - 3 4 75.0 6 8 14 2 1 2 2 4 6
+p223
+aVEric Snow PHI 03/07/2001 PHI vs. NJN W 36 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 8 4 0 4 1 -3
+p224
+aVGeorge Lynch PHI 03/07/2001 PHI vs. NJN W 35 11 5 8 62.5 0 0 - 1 2 50.0 2 5 7 4 2 0 5 2 2
+p225
+aVRodney Buford PHI 03/02/2001 PHI vs. WAS W 12 8 4 7 57.1 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -7
+p226
+aVKevin Ollie PHI 03/02/2001 PHI vs. WAS W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p227
+aVEric Snow PHI 03/02/2001 PHI vs. WAS W 37 15 5 9 55.6 0 0 - 5 6 83.3 2 2 4 11 3 0 1 4 13
+p228
+aVAaron McKie PHI 03/02/2001 PHI vs. WAS W 34 7 3 6 50.0 1 2 50.0 0 0 - 0 5 5 4 0 0 2 1 5
+p229
+aVDikembe Mutombo PHI 03/02/2001 PHI vs. WAS W 37 14 4 6 66.7 0 0 - 6 10 60.0 6 10 16 0 1 4 3 4 10
+p230
+aVMatt Geiger PHI 03/02/2001 PHI vs. WAS W 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -5
+p231
+aVTyrone Hill PHI 03/02/2001 PHI vs. WAS W 34 10 4 8 50.0 0 0 - 2 4 50.0 1 3 4 5 1 0 1 1 8
+p232
+aVGeorge Lynch PHI 03/02/2001 PHI vs. WAS W 27 8 4 8 50.0 0 1 0.0 0 0 - 1 6 7 3 1 0 2 1 -5
+p233
+aVAllen Iverson PHI 03/02/2001 PHI vs. WAS W 46 41 15 34 44.1 1 3 33.3 10 13 76.9 1 3 4 4 2 0 1 2 5
+p234
+aVAllen Iverson PHI 02/28/2001 PHI vs. MIA W 44 27 6 27 22.2 1 4 25.0 14 18 77.8 0 1 1 3 4 0 3 2 9
+p235
+aVGeorge Lynch PHI 02/28/2001 PHI vs. MIA W 23 6 3 9 33.3 0 0 - 0 0 - 6 3 9 0 0 0 1 3 8
+p236
+aVKevin Ollie PHI 02/28/2001 PHI vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p237
+aVEric Snow PHI 02/28/2001 PHI vs. MIA W 36 4 2 7 28.6 0 0 - 0 0 - 1 4 5 3 2 0 3 2 9
+p238
+aVTyrone Hill PHI 02/28/2001 PHI vs. MIA W 33 9 4 6 66.7 0 0 - 1 2 50.0 3 7 10 0 0 0 1 3 7
+p239
+aVAaron McKie PHI 02/28/2001 PHI vs. MIA W 26 7 3 10 30.0 0 3 0.0 1 2 50.0 1 1 2 3 2 0 0 4 -1
+p240
+aVRodney Buford PHI 02/28/2001 PHI vs. MIA W 23 16 6 13 46.2 2 2 100.0 2 2 100.0 2 6 8 1 0 1 1 2 6
+p241
+aVMatt Geiger PHI 02/28/2001 PHI vs. MIA W 13 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 2 2 1
+p242
+aVDikembe Mutombo PHI 02/28/2001 PHI vs. MIA W 40 10 2 6 33.3 0 0 - 6 8 75.0 6 12 18 1 1 5 3 2 8
+p243
+aVKevin Ollie PHI 02/26/2001 PHI vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p244
+aVAaron McKie PHI 02/26/2001 PHI vs. MIL L 29 12 5 11 45.5 0 2 0.0 2 4 50.0 1 2 3 6 0 0 0 1 3
+p245
+aVGeorge Lynch PHI 02/26/2001 PHI vs. MIL L 27 2 1 6 16.7 0 1 0.0 0 0 - 1 4 5 1 1 0 1 1 -16
+p246
+aVMatt Geiger PHI 02/26/2001 PHI vs. MIL L 11 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -18
+p247
+aVTyrone Hill PHI 02/26/2001 PHI vs. MIL L 41 20 9 13 69.2 0 0 - 2 2 100.0 2 8 10 0 0 0 1 2 -3
+p248
+aVEric Snow PHI 02/26/2001 PHI vs. MIL L 37 3 1 5 20.0 0 0 - 1 3 33.3 0 1 1 9 4 0 4 5 9
+p249
+aVJumaine Jones PHI 02/26/2001 PHI vs. MIL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -8
+p250
+aVAllen Iverson PHI 02/26/2001 PHI vs. MIL L 44 26 8 27 29.6 4 7 57.1 6 6 100.0 0 2 2 5 0 0 1 2 -1
+p251
+aVRodney Buford PHI 02/26/2001 PHI vs. MIL L 6 7 2 3 66.7 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 -4
+p252
+aVDikembe Mutombo PHI 02/26/2001 PHI vs. MIL L 38 21 6 8 75.0 0 0 - 9 9 100.0 7 9 16 0 0 0 4 1 7
+p253
+aVJumaine Jones PHI 02/24/2001 PHI @ CHH L 11 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -6
+p254
+aVTodd MacCulloch PHI 02/24/2001 PHI @ CHH L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p255
+aVGeorge Lynch PHI 02/24/2001 PHI @ CHH L 33 9 4 8 50.0 1 1 100.0 0 2 0.0 0 8 8 4 0 0 0 5 6
+p256
+aVAllen Iverson PHI 02/24/2001 PHI @ CHH L 44 47 17 33 51.5 3 7 42.9 10 10 100.0 0 1 1 1 2 0 8 3 5
+p257
+aVMatt Geiger PHI 02/24/2001 PHI @ CHH L 15 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -10
+p258
+aVEric Snow PHI 02/24/2001 PHI @ CHH L 33 4 1 6 16.7 0 1 0.0 2 2 100.0 0 3 3 8 2 0 3 3 4
+p259
+aVDikembe Mutombo PHI 02/24/2001 PHI @ CHH L 35 9 2 5 40.0 0 0 - 5 6 83.3 0 9 9 1 0 2 1 4 7
+p260
+aVRodney Buford PHI 02/24/2001 PHI @ CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p261
+aVTyrone Hill PHI 02/24/2001 PHI @ CHH L 39 7 2 6 33.3 0 0 - 3 4 75.0 2 11 13 0 0 1 3 1 -1
+p262
+aVAaron McKie PHI 02/24/2001 PHI @ CHH L 26 7 3 7 42.9 0 1 0.0 1 2 50.0 1 5 6 5 1 1 1 1 -11
+p263
+aVJumaine Jones PHI 02/23/2001 PHI @ DET W 21 8 4 6 66.7 0 0 - 0 0 - 2 2 4 1 1 0 1 2 13
+p264
+aVTyrone Hill PHI 02/23/2001 PHI @ DET W 27 4 2 5 40.0 0 0 - 0 0 - 0 7 7 1 0 0 2 4 9
+p265
+aVDikembe Mutombo PHI 02/23/2001 PHI @ DET W 36 17 7 12 58.3 0 0 - 3 4 75.0 3 10 13 1 1 5 2 2 10
+p266
+aVAaron McKie PHI 02/23/2001 PHI @ DET W 28 5 1 4 25.0 1 1 100.0 2 2 100.0 1 7 8 4 0 0 1 3 6
+p267
+aVTodd MacCulloch PHI 02/23/2001 PHI @ DET W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p268
+aVGeorge Lynch PHI 02/23/2001 PHI @ DET W 36 10 5 7 71.4 0 0 - 0 0 - 1 4 5 3 2 0 2 3 11
+p269
+aVAllen Iverson PHI 02/23/2001 PHI @ DET W 41 43 15 36 41.7 1 5 20.0 12 16 75.0 3 7 10 4 1 1 3 0 26
+p270
+aVRodney Buford PHI 02/23/2001 PHI @ DET W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p271
+aVMatt Geiger PHI 02/23/2001 PHI @ DET W 17 8 4 8 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 12
+p272
+aVEric Snow PHI 02/23/2001 PHI @ DET W 30 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 6 1 1 2 0 12
+p273
+aVKevin Ollie PHI 02/23/2001 PHI @ DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p274
+aVMatt Geiger PHI 02/21/2001 PHI vs. VAN W 21 12 4 10 40.0 0 0 - 4 6 66.7 6 5 11 1 0 0 0 2 16
+p275
+aVAllen Iverson PHI 02/21/2001 PHI vs. VAN W 45 36 11 29 37.9 1 6 16.7 13 17 76.5 0 3 3 4 4 0 3 3 15
+p276
+aVAaron McKie PHI 02/21/2001 PHI vs. VAN W 29 7 3 10 30.0 0 2 0.0 1 3 33.3 0 6 6 6 5 0 3 3 8
+p277
+aVTyrone Hill PHI 02/21/2001 PHI vs. VAN W 27 8 3 6 50.0 0 0 - 2 2 100.0 6 6 12 0 0 0 1 5 14
+p278
+aVEric Snow PHI 02/21/2001 PHI vs. VAN W 39 11 4 6 66.7 0 0 - 3 4 75.0 0 5 5 7 0 0 0 3 24
+p279
+aVKevin Ollie PHI 02/21/2001 PHI vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p280
+aVToni Kukoc PHI 02/21/2001 PHI vs. VAN W 18 7 3 8 37.5 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -4
+p281
+aVTodd MacCulloch PHI 02/21/2001 PHI vs. VAN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -7
+p282
+aVNazr Mohammed PHI 02/21/2001 PHI vs. VAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p283
+aVRodney Buford PHI 02/21/2001 PHI vs. VAN W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p284
+aVGeorge Lynch PHI 02/21/2001 PHI vs. VAN W 38 16 5 11 45.5 0 0 - 6 8 75.0 6 4 10 2 3 0 1 3 10
+p285
+aVJumaine Jones PHI 02/21/2001 PHI vs. VAN W 10 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 1 0 2 3 4
+p286
+aVEric Snow PHI 02/18/2001 PHI vs. PHX W 33 8 1 5 20.0 0 0 - 6 8 75.0 0 0 0 8 1 0 4 5 17
+p287
+aVMatt Geiger PHI 02/18/2001 PHI vs. PHX W 16 14 5 10 50.0 0 0 - 4 6 66.7 2 5 7 0 2 1 1 5 16
+p288
+aVRodney Buford PHI 02/18/2001 PHI vs. PHX W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 3
+p289
+aVToni Kukoc PHI 02/18/2001 PHI vs. PHX W 27 17 8 17 47.1 1 2 50.0 0 0 - 5 4 9 3 1 0 3 0 6
+p290
+aVGeorge Lynch PHI 02/18/2001 PHI vs. PHX W 42 15 4 7 57.1 0 1 0.0 7 7 100.0 5 7 12 2 3 0 1 0 2
+p291
+aVTodd MacCulloch PHI 02/18/2001 PHI vs. PHX W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -11
+p292
+aVJumaine Jones PHI 02/18/2001 PHI vs. PHX W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p293
+aVTyrone Hill PHI 02/18/2001 PHI vs. PHX W 36 9 4 8 50.0 0 0 - 1 1 100.0 1 4 5 0 0 0 3 5 -6
+p294
+aVAllen Iverson PHI 02/18/2001 PHI vs. PHX W 43 26 9 24 37.5 3 4 75.0 5 8 62.5 0 0 0 5 3 0 2 2 4
+p295
+aVAaron McKie PHI 02/18/2001 PHI vs. PHX W 25 10 3 5 60.0 2 3 66.7 2 2 100.0 0 8 8 2 2 0 1 2 -2
+p296
+aVAaron McKie PHI 02/16/2001 PHI vs. LAC W 31 11 4 8 50.0 1 3 33.3 2 2 100.0 0 6 6 5 1 0 0 4 4
+p297
+aVGeorge Lynch PHI 02/16/2001 PHI vs. LAC W 34 6 3 10 30.0 0 2 0.0 0 2 0.0 0 8 8 2 1 0 1 2 16
+p298
+aVJumaine Jones PHI 02/16/2001 PHI vs. LAC W 7 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -1
+p299
+aVTyrone Hill PHI 02/16/2001 PHI vs. LAC W 35 18 5 9 55.6 0 0 - 8 10 80.0 3 10 13 0 0 0 3 1 10
+p300
+aVEric Snow PHI 02/16/2001 PHI vs. LAC W 33 2 1 4 25.0 0 0 - 0 0 - 0 2 2 8 0 0 1 3 15
+p301
+aVTodd MacCulloch PHI 02/16/2001 PHI vs. LAC W 14 8 4 8 50.0 0 0 - 0 0 - 3 3 6 1 0 0 0 4 11
+p302
+aVKevin Ollie PHI 02/16/2001 PHI vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p303
+aVToni Kukoc PHI 02/16/2001 PHI vs. LAC W 22 9 3 7 42.9 0 0 - 3 4 75.0 1 5 6 3 0 1 1 0 0
+p304
+aVRodney Buford PHI 02/16/2001 PHI vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p305
+aVNazr Mohammed PHI 02/16/2001 PHI vs. LAC W 17 10 4 7 57.1 0 0 - 2 4 50.0 2 1 3 0 1 1 0 4 6
+p306
+aVAllen Iverson PHI 02/16/2001 PHI vs. LAC W 44 42 16 31 51.6 2 5 40.0 8 12 66.7 3 1 4 4 4 1 1 2 16
+p307
+aVNazr Mohammed PHI 02/14/2001 PHI vs. LAL W 18 12 6 10 60.0 0 0 - 0 1 0.0 1 2 3 1 0 1 0 2 0
+p308
+aVAaron McKie PHI 02/14/2001 PHI vs. LAL W 26 4 2 8 25.0 0 2 0.0 0 0 - 1 3 4 3 1 0 1 1 21
+p309
+aVEric Snow PHI 02/14/2001 PHI vs. LAL W 32 9 4 7 57.1 1 1 100.0 0 0 - 1 3 4 7 1 0 1 2 7
+p310
+aVToni Kukoc PHI 02/14/2001 PHI vs. LAL W 24 8 2 6 33.3 1 2 50.0 3 6 50.0 2 3 5 5 3 0 2 0 6
+p311
+aVTyrone Hill PHI 02/14/2001 PHI vs. LAL W 34 12 5 10 50.0 0 0 - 2 3 66.7 2 5 7 1 1 0 1 4 10
+p312
+aVGeorge Lynch PHI 02/14/2001 PHI vs. LAL W 33 11 3 6 50.0 0 0 - 5 6 83.3 1 4 5 3 1 0 4 2 12
+p313
+aVJumaine Jones PHI 02/14/2001 PHI vs. LAL W 16 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 1 0 0 0 6
+p314
+aVAllen Iverson PHI 02/14/2001 PHI vs. LAL W 40 40 14 29 48.3 2 4 50.0 10 11 90.9 0 4 4 9 3 0 2 5 16
+p315
+aVKevin Ollie PHI 02/14/2001 PHI vs. LAL W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -3
+p316
+aVTodd MacCulloch PHI 02/14/2001 PHI vs. LAL W 15 8 4 5 80.0 0 0 - 0 0 - 1 6 7 0 0 0 0 4 1
+p317
+aVRodney Buford PHI 02/14/2001 PHI vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p318
+aVMatt Geiger PHI 02/13/2001 PHI @ MIL W 12 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 14
+p319
+aVTodd MacCulloch PHI 02/13/2001 PHI @ MIL W 17 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 -1
+p320
+aVGeorge Lynch PHI 02/13/2001 PHI @ MIL W 35 12 4 11 36.4 0 1 0.0 4 6 66.7 6 3 9 2 3 0 1 5 -10
+p321
+aVAaron McKie PHI 02/13/2001 PHI @ MIL W 34 17 5 12 41.7 1 3 33.3 6 6 100.0 0 6 6 6 1 0 3 3 8
+p322
+aVAllen Iverson PHI 02/13/2001 PHI @ MIL W 43 49 17 32 53.1 3 5 60.0 12 14 85.7 2 3 5 2 2 0 5 3 1
+p323
+aVEric Snow PHI 02/13/2001 PHI @ MIL W 26 2 1 4 25.0 0 0 - 0 0 - 0 2 2 6 3 0 1 4 5
+p324
+aVRodney Buford PHI 02/13/2001 PHI @ MIL W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -7
+p325
+aVJumaine Jones PHI 02/13/2001 PHI @ MIL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p326
+aVTyrone Hill PHI 02/13/2001 PHI @ MIL W 34 10 3 7 42.9 0 0 - 4 6 66.7 5 11 16 4 0 0 0 4 -2
+p327
+aVToni Kukoc PHI 02/13/2001 PHI @ MIL W 27 5 2 8 25.0 1 3 33.3 0 0 - 0 0 0 4 0 0 1 1 11
+p328
+aVNazr Mohammed PHI 02/07/2001 PHI vs. HOU L 6 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 1 0 2 1 0
+p329
+aVJuan Sanchez PHI 02/07/2001 PHI vs. HOU L 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 6 1 1 1 2 -11
+p330
+aVRodney Buford PHI 02/07/2001 PHI vs. HOU L 26 13 6 8 75.0 1 2 50.0 0 0 - 1 2 3 1 0 0 1 3 -17
+p331
+aVJumaine Jones PHI 02/07/2001 PHI vs. HOU L 23 5 2 7 28.6 0 4 0.0 1 2 50.0 2 4 6 0 1 2 0 1 -13
+p332
+aVTodd MacCulloch PHI 02/07/2001 PHI vs. HOU L 11 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 3 3
+p333
+aVAaron McKie PHI 02/07/2001 PHI vs. HOU L 34 9 4 10 40.0 1 2 50.0 0 0 - 0 1 1 8 1 0 4 3 -17
+p334
+aVTheo Ratliff PHI 02/07/2001 PHI vs. HOU L 33 14 6 10 60.0 0 0 - 2 2 100.0 0 3 3 1 1 2 3 4 -30
+p335
+aVTyrone Hill PHI 02/07/2001 PHI vs. HOU L 24 4 1 2 50.0 0 0 - 2 2 100.0 1 7 8 1 0 0 2 2 -10
+p336
+aVGeorge Lynch PHI 02/07/2001 PHI vs. HOU L 31 5 1 5 20.0 0 0 - 3 4 75.0 3 8 11 2 0 0 4 2 -14
+p337
+aVAllen Iverson PHI 02/07/2001 PHI vs. HOU L 39 26 10 28 35.7 1 4 25.0 5 6 83.3 1 3 4 3 0 0 3 1 -16
+p338
+aVJuan Sanchez PHI 02/05/2001 PHI vs. DEN W 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 6 2 0 0 1 4
+p339
+aVTheo Ratliff PHI 02/05/2001 PHI vs. DEN W 38 9 4 11 36.4 0 0 - 1 2 50.0 3 5 8 3 0 4 0 3 19
+p340
+aVNazr Mohammed PHI 02/05/2001 PHI vs. DEN W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p341
+aVGeorge Lynch PHI 02/05/2001 PHI vs. DEN W 31 6 3 5 60.0 0 0 - 0 0 - 2 4 6 4 3 0 2 2 11
+p342
+aVRodney Buford PHI 02/05/2001 PHI vs. DEN W 13 9 3 6 50.0 0 0 - 3 4 75.0 0 0 0 1 0 0 0 0 2
+p343
+aVAllen Iverson PHI 02/05/2001 PHI vs. DEN W 44 37 14 24 58.3 1 4 25.0 8 12 66.7 0 6 6 5 3 0 5 2 21
+p344
+aVTyrone Hill PHI 02/05/2001 PHI vs. DEN W 26 11 4 7 57.1 0 0 - 3 7 42.9 1 5 6 1 0 0 1 5 4
+p345
+aVTodd MacCulloch PHI 02/05/2001 PHI vs. DEN W 9 4 2 3 66.7 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 1
+p346
+aVAaron McKie PHI 02/05/2001 PHI vs. DEN W 39 11 5 8 62.5 1 1 100.0 0 0 - 1 7 8 10 2 0 5 1 21
+p347
+aVJumaine Jones PHI 02/05/2001 PHI vs. DEN W 22 10 5 9 55.6 0 0 - 0 1 0.0 2 7 9 0 1 1 2 0 9
+p348
+aVAllen Iverson PHI 02/04/2001 PHI @ NJN L 42 32 9 30 30.0 4 10 40.0 10 12 83.3 0 4 4 5 4 0 2 2 -10
+p349
+aVAaron McKie PHI 02/04/2001 PHI @ NJN L 37 6 3 11 27.3 0 4 0.0 0 1 0.0 0 3 3 9 1 0 2 3 -12
+p350
+aVTheo Ratliff PHI 02/04/2001 PHI @ NJN L 44 22 9 12 75.0 0 0 - 4 4 100.0 4 8 12 2 1 8 0 2 -10
+p351
+aVRodney Buford PHI 02/04/2001 PHI @ NJN L 27 11 5 8 62.5 1 1 100.0 0 0 - 0 2 2 0 0 0 3 4 -4
+p352
+aVGeorge Lynch PHI 02/04/2001 PHI @ NJN L 34 5 2 6 33.3 1 1 100.0 0 2 0.0 2 4 6 1 1 0 1 5 -15
+p353
+aVTyrone Hill PHI 02/04/2001 PHI @ NJN L 37 9 4 10 40.0 0 0 - 1 4 25.0 3 6 9 1 0 0 0 6 1
+p354
+aVKevin Ollie PHI 02/04/2001 PHI @ NJN L 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 1 1 8
+p355
+aVTodd MacCulloch PHI 02/04/2001 PHI @ NJN L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p356
+aVAaron McKie PHI 02/02/2001 PHI vs. ORL L 41 7 1 4 25.0 1 2 50.0 4 4 100.0 0 3 3 4 2 0 4 2 -2
+p357
+aVKevin Ollie PHI 02/02/2001 PHI vs. ORL L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p358
+aVJumaine Jones PHI 02/02/2001 PHI vs. ORL L 22 11 5 10 50.0 1 4 25.0 0 0 - 3 5 8 2 2 1 0 3 7
+p359
+aVRodney Buford PHI 02/02/2001 PHI vs. ORL L 19 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 2 2 5
+p360
+aVGeorge Lynch PHI 02/02/2001 PHI vs. ORL L 48 10 4 9 44.4 0 1 0.0 2 4 50.0 2 5 7 3 1 1 0 4 -1
+p361
+aVTodd MacCulloch PHI 02/02/2001 PHI vs. ORL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p362
+aVTyrone Hill PHI 02/02/2001 PHI vs. ORL L 38 15 6 11 54.5 0 0 - 3 4 75.0 4 6 10 2 0 0 0 4 -17
+p363
+aVAllen Iverson PHI 02/02/2001 PHI vs. ORL L 54 47 15 35 42.9 2 4 50.0 15 19 78.9 1 4 5 7 2 2 5 4 -6
+p364
+aVTheo Ratliff PHI 02/02/2001 PHI vs. ORL L 52 21 8 13 61.5 0 0 - 5 10 50.0 5 8 13 2 0 4 4 4 -9
+p365
+aVRodney Buford PHI 02/01/2001 PHI @ NYK W 17 8 4 9 44.4 0 1 0.0 0 0 - 1 3 4 0 1 0 0 3 12
+p366
+aVTyrone Hill PHI 02/01/2001 PHI @ NYK W 37 12 5 9 55.6 0 0 - 2 2 100.0 2 3 5 0 0 0 2 5 -5
+p367
+aVAaron McKie PHI 02/01/2001 PHI @ NYK W 40 16 6 12 50.0 2 4 50.0 2 2 100.0 1 3 4 8 1 0 3 3 15
+p368
+aVTodd MacCulloch PHI 02/01/2001 PHI @ NYK W 8 5 2 2 100.0 0 0 - 1 1 100.0 1 2 3 1 0 0 0 0 0
+p369
+aVAllen Iverson PHI 02/01/2001 PHI @ NYK W 48 31 11 30 36.7 3 4 75.0 6 7 85.7 1 4 5 8 2 0 7 2 7
+p370
+aVJumaine Jones PHI 02/01/2001 PHI @ NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p371
+aVKevin Ollie PHI 02/01/2001 PHI @ NYK W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p372
+aVTheo Ratliff PHI 02/01/2001 PHI @ NYK W 43 9 2 8 25.0 0 0 - 5 5 100.0 4 9 13 1 0 1 2 0 17
+p373
+aVGeorge Lynch PHI 02/01/2001 PHI @ NYK W 39 4 2 5 40.0 0 1 0.0 0 0 - 2 7 9 2 0 2 0 3 -5
+p374
+aVAaron McKie PHI 01/30/2001 PHI @ TOR L 43 13 6 13 46.2 1 2 50.0 0 0 - 0 7 7 10 2 0 3 1 3
+p375
+aVGeorge Lynch PHI 01/30/2001 PHI @ TOR L 45 10 3 8 37.5 1 2 50.0 3 4 75.0 5 7 12 0 1 1 0 3 1
+p376
+aVJumaine Jones PHI 01/30/2001 PHI @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 0
+p377
+aVTyrone Hill PHI 01/30/2001 PHI @ TOR L 40 16 7 16 43.8 0 1 0.0 2 4 50.0 5 9 14 3 0 2 3 3 2
+p378
+aVTheo Ratliff PHI 01/30/2001 PHI @ TOR L 40 10 5 12 41.7 0 0 - 0 0 - 3 4 7 0 1 5 2 3 -7
+p379
+aVRodney Buford PHI 01/30/2001 PHI @ TOR L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 4 -10
+p380
+aVKevin Ollie PHI 01/30/2001 PHI @ TOR L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -12
+p381
+aVAllen Iverson PHI 01/30/2001 PHI @ TOR L 46 38 14 32 43.8 1 5 20.0 9 13 69.2 0 6 6 4 0 0 2 2 -9
+p382
+aVTodd MacCulloch PHI 01/30/2001 PHI @ TOR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p383
+aVTheo Ratliff PHI 01/28/2001 PHI @ IND W 29 12 5 11 45.5 0 0 - 2 3 66.7 3 6 9 0 2 1 5 4 0
+p384
+aVAllen Iverson PHI 01/28/2001 PHI @ IND W 46 27 6 25 24.0 1 3 33.3 14 17 82.4 0 1 1 8 2 0 4 5 9
+p385
+aVRodney Buford PHI 01/28/2001 PHI @ IND W 14 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 0 1 0 1 1 10
+p386
+aVTodd MacCulloch PHI 01/28/2001 PHI @ IND W 18 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -1
+p387
+aVAaron McKie PHI 01/28/2001 PHI @ IND W 41 11 4 16 25.0 0 1 0.0 3 4 75.0 3 3 6 6 2 0 3 2 9
+p388
+aVTyrone Hill PHI 01/28/2001 PHI @ IND W 38 18 8 10 80.0 0 0 - 2 3 66.7 4 7 11 0 1 1 2 3 4
+p389
+aVGeorge Lynch PHI 01/28/2001 PHI @ IND W 39 6 2 4 50.0 1 2 50.0 1 2 50.0 3 9 12 2 1 2 1 1 -4
+p390
+aVJumaine Jones PHI 01/28/2001 PHI @ IND W 8 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 0 1 0 0 0 3
+p391
+aVKevin Ollie PHI 01/28/2001 PHI @ IND W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p392
+aVAllen Iverson PHI 01/26/2001 PHI vs. DET W 47 44 14 29 48.3 1 3 33.3 15 16 93.8 1 2 3 3 5 0 3 1 14
+p393
+aVAaron McKie PHI 01/26/2001 PHI vs. DET W 33 12 6 12 50.0 0 0 - 0 2 0.0 1 3 4 5 2 1 1 4 13
+p394
+aVTodd MacCulloch PHI 01/26/2001 PHI vs. DET W 7 8 4 4 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 5
+p395
+aVToni Kukoc PHI 01/26/2001 PHI vs. DET W 11 5 2 3 66.7 0 1 0.0 1 2 50.0 0 1 1 2 1 0 0 2 9
+p396
+aVKevin Ollie PHI 01/26/2001 PHI vs. DET W 15 4 2 7 28.6 0 0 - 0 0 - 0 2 2 2 1 0 1 4 10
+p397
+aVTheo Ratliff PHI 01/26/2001 PHI vs. DET W 39 13 4 9 44.4 0 0 - 5 6 83.3 3 5 8 2 0 4 1 5 7
+p398
+aVNazr Mohammed PHI 01/26/2001 PHI vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p399
+aVTyrone Hill PHI 01/26/2001 PHI vs. DET W 41 5 2 8 25.0 0 0 - 1 2 50.0 8 5 13 1 1 1 1 4 18
+p400
+aVJuan Sanchez PHI 01/26/2001 PHI vs. DET W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 3 4
+p401
+aVJumaine Jones PHI 01/26/2001 PHI vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p402
+aVGeorge Lynch PHI 01/26/2001 PHI vs. DET W 36 14 7 11 63.6 0 1 0.0 0 1 0.0 5 8 13 3 1 1 3 3 5
+p403
+aVTheo Ratliff PHI 01/24/2001 PHI @ HOU W 41 14 6 9 66.7 0 0 - 2 4 50.0 4 5 9 0 0 5 1 3 7
+p404
+aVJumaine Jones PHI 01/24/2001 PHI @ HOU W 5 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -10
+p405
+aVKevin Ollie PHI 01/24/2001 PHI @ HOU W 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 3 0 0 2 1 -3
+p406
+aVToni Kukoc PHI 01/24/2001 PHI @ HOU W 27 8 4 9 44.4 0 2 0.0 0 0 - 1 4 5 1 2 0 1 2 6
+p407
+aVAllen Iverson PHI 01/24/2001 PHI @ HOU W 50 32 9 28 32.1 2 8 25.0 12 15 80.0 0 3 3 3 3 1 3 3 -1
+p408
+aVTyrone Hill PHI 01/24/2001 PHI @ HOU W 41 6 2 5 40.0 0 0 - 2 4 50.0 3 16 19 0 1 1 1 2 -2
+p409
+aVAaron McKie PHI 01/24/2001 PHI @ HOU W 39 10 3 16 18.8 0 3 0.0 4 6 66.7 0 6 6 3 1 1 4 5 6
+p410
+aVGeorge Lynch PHI 01/24/2001 PHI @ HOU W 45 9 4 11 36.4 0 2 0.0 1 2 50.0 3 9 12 1 1 1 4 3 2
+p411
+aVGeorge Lynch PHI 01/23/2001 PHI @ DAL W 41 16 8 16 50.0 0 0 - 0 1 0.0 6 7 13 2 4 0 1 4 19
+p412
+aVJumaine Jones PHI 01/23/2001 PHI @ DAL W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 2 1 0 -4
+p413
+aVToni Kukoc PHI 01/23/2001 PHI @ DAL W 38 25 9 13 69.2 4 6 66.7 3 3 100.0 1 4 5 3 1 0 2 3 10
+p414
+aVAllen Iverson PHI 01/23/2001 PHI @ DAL W 45 30 9 22 40.9 0 3 0.0 12 16 75.0 0 5 5 6 5 1 4 2 19
+p415
+aVKevin Ollie PHI 01/23/2001 PHI @ DAL W 17 10 3 5 60.0 0 0 - 4 4 100.0 0 0 0 4 1 0 1 1 4
+p416
+aVTodd MacCulloch PHI 01/23/2001 PHI @ DAL W 11 8 2 5 40.0 0 0 - 4 4 100.0 2 2 4 1 1 0 3 1 11
+p417
+aVAaron McKie PHI 01/23/2001 PHI @ DAL W 40 12 6 7 85.7 0 0 - 0 0 - 0 6 6 11 3 0 5 4 6
+p418
+aVTheo Ratliff PHI 01/23/2001 PHI @ DAL W 40 13 6 10 60.0 0 0 - 1 5 20.0 1 9 10 1 0 2 0 2 15
+p419
+aVGeorge Lynch PHI 01/21/2001 PHI vs. TOR L 40 11 4 10 40.0 0 1 0.0 3 5 60.0 3 4 7 2 2 2 1 4 -7
+p420
+aVToni Kukoc PHI 01/21/2001 PHI vs. TOR L 11 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 3 0 1
+p421
+aVTyrone Hill PHI 01/21/2001 PHI vs. TOR L 29 6 3 5 60.0 0 0 - 0 0 - 1 6 7 2 0 1 1 2 5
+p422
+aVAllen Iverson PHI 01/21/2001 PHI vs. TOR L 51 51 20 40 50.0 4 8 50.0 7 8 87.5 1 2 3 4 1 0 4 4 -8
+p423
+aVKevin Ollie PHI 01/21/2001 PHI vs. TOR L 31 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 6 1 0 1 2 -1
+p424
+aVJumaine Jones PHI 01/21/2001 PHI vs. TOR L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -2
+p425
+aVTheo Ratliff PHI 01/21/2001 PHI vs. TOR L 42 11 4 12 33.3 0 0 - 3 5 60.0 8 5 13 0 0 2 3 5 -5
+p426
+aVTodd MacCulloch PHI 01/21/2001 PHI vs. TOR L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p427
+aVAaron McKie PHI 01/21/2001 PHI vs. TOR L 48 15 7 14 50.0 1 2 50.0 0 0 - 0 5 5 7 1 0 3 2 0
+p428
+aVTheo Ratliff PHI 01/19/2001 PHI vs. NJN W 37 17 4 7 57.1 0 0 - 9 9 100.0 3 6 9 2 1 2 2 4 12
+p429
+aVToni Kukoc PHI 01/19/2001 PHI vs. NJN W 31 14 5 10 50.0 2 5 40.0 2 6 33.3 0 6 6 3 1 1 1 1 2
+p430
+aVGeorge Lynch PHI 01/19/2001 PHI vs. NJN W 27 8 3 6 50.0 0 2 0.0 2 2 100.0 1 5 6 2 2 0 2 2 8
+p431
+aVRodney Buford PHI 01/19/2001 PHI vs. NJN W 18 16 7 11 63.6 1 2 50.0 1 1 100.0 1 4 5 1 0 1 2 0 6
+p432
+aVJuan Sanchez PHI 01/19/2001 PHI vs. NJN W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p433
+aVJumaine Jones PHI 01/19/2001 PHI vs. NJN W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 1 0 0 -1
+p434
+aVTyrone Hill PHI 01/19/2001 PHI vs. NJN W 30 9 4 5 80.0 0 0 - 1 1 100.0 1 9 10 1 2 0 2 1 4
+p435
+aVKevin Ollie PHI 01/19/2001 PHI vs. NJN W 41 10 4 9 44.4 0 0 - 2 2 100.0 0 2 2 9 0 0 1 3 17
+p436
+aVAaron McKie PHI 01/19/2001 PHI vs. NJN W 42 21 8 18 44.4 0 4 0.0 5 6 83.3 0 1 1 6 2 0 4 3 12
+p437
+aVGeorge Lynch PHI 01/17/2001 PHI vs. CHI W 37 9 4 7 57.1 1 1 100.0 0 0 - 1 8 9 0 1 0 0 1 4
+p438
+aVToni Kukoc PHI 01/17/2001 PHI vs. CHI W 13 5 1 2 50.0 0 1 0.0 3 4 75.0 0 2 2 2 0 0 0 1 11
+p439
+aVTheo Ratliff PHI 01/17/2001 PHI vs. CHI W 38 12 4 10 40.0 0 0 - 4 4 100.0 2 3 5 0 0 2 3 3 4
+p440
+aVAaron McKie PHI 01/17/2001 PHI vs. CHI W 38 11 4 10 40.0 1 2 50.0 2 2 100.0 1 2 3 7 2 0 3 3 9
+p441
+aVJuan Sanchez PHI 01/17/2001 PHI vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p442
+aVJumaine Jones PHI 01/17/2001 PHI vs. CHI W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p443
+aVRodney Buford PHI 01/17/2001 PHI vs. CHI W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 2 0 2 0
+p444
+aVAllen Iverson PHI 01/17/2001 PHI vs. CHI W 46 43 15 25 60.0 2 4 50.0 11 12 91.7 0 3 3 5 4 0 5 1 13
+p445
+aVTodd MacCulloch PHI 01/17/2001 PHI vs. CHI W 5 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -1
+p446
+aVKevin Ollie PHI 01/17/2001 PHI vs. CHI W 24 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 3 1 0 2 3 15
+p447
+aVTyrone Hill PHI 01/17/2001 PHI vs. CHI W 22 4 1 5 20.0 0 0 - 2 4 50.0 4 4 8 0 0 0 0 4 6
+p448
+aVNazr Mohammed PHI 01/17/2001 PHI vs. CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p449
+aVKevin Ollie PHI 01/15/2001 PHI vs. CHH W 18 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 2 1
+p450
+aVAaron McKie PHI 01/15/2001 PHI vs. CHH W 36 17 8 13 61.5 1 1 100.0 0 0 - 0 2 2 5 1 0 5 4 3
+p451
+aVToni Kukoc PHI 01/15/2001 PHI vs. CHH W 13 3 1 4 25.0 0 0 - 1 4 25.0 0 1 1 0 0 0 0 0 -1
+p452
+aVTheo Ratliff PHI 01/15/2001 PHI vs. CHH W 40 6 3 8 37.5 0 0 - 0 0 - 2 8 10 2 3 5 3 1 2
+p453
+aVTodd MacCulloch PHI 01/15/2001 PHI vs. CHH W 9 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 0 0 2 0 2 -7
+p454
+aVAllen Iverson PHI 01/15/2001 PHI vs. CHH W 45 35 11 26 42.3 2 6 33.3 11 12 91.7 0 1 1 7 5 1 8 2 6
+p455
+aVGeorge Lynch PHI 01/15/2001 PHI vs. CHH W 40 17 7 17 41.2 2 3 66.7 1 2 50.0 8 8 16 3 2 0 0 5 12
+p456
+aVRodney Buford PHI 01/15/2001 PHI vs. CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p457
+aVTyrone Hill PHI 01/15/2001 PHI vs. CHH W 39 2 0 2 0.0 0 0 - 2 2 100.0 2 12 14 0 0 1 2 4 9
+p458
+aVJumaine Jones PHI 01/13/2001 PHI vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p459
+aVTodd MacCulloch PHI 01/13/2001 PHI vs. SAS W 17 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 0 0 1 1 2 4
+p460
+aVKevin Ollie PHI 01/13/2001 PHI vs. SAS W 17 0 0 1 0.0 0 0 - 0 0 - 0 3 3 5 0 0 0 0 13
+p461
+aVTyrone Hill PHI 01/13/2001 PHI vs. SAS W 25 7 3 9 33.3 0 0 - 1 1 100.0 3 2 5 0 0 0 4 3 2
+p462
+aVGeorge Lynch PHI 01/13/2001 PHI vs. SAS W 28 1 0 3 0.0 0 0 - 1 2 50.0 0 9 9 0 1 0 1 2 7
+p463
+aVJuan Sanchez PHI 01/13/2001 PHI vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p464
+aVTheo Ratliff PHI 01/13/2001 PHI vs. SAS W 29 8 2 5 40.0 0 0 - 4 4 100.0 2 4 6 3 0 2 2 5 12
+p465
+aVToni Kukoc PHI 01/13/2001 PHI vs. SAS W 26 17 7 11 63.6 3 3 100.0 0 0 - 2 2 4 1 0 0 2 1 15
+p466
+aVAaron McKie PHI 01/13/2001 PHI vs. SAS W 35 12 6 8 75.0 0 1 0.0 0 0 - 0 7 7 10 3 0 3 1 7
+p467
+aVAllen Iverson PHI 01/13/2001 PHI vs. SAS W 43 40 17 29 58.6 0 1 0.0 6 7 85.7 1 4 5 4 3 0 3 0 13
+p468
+aVNazr Mohammed PHI 01/13/2001 PHI vs. SAS W 1 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p469
+aVRodney Buford PHI 01/13/2001 PHI vs. SAS W 18 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 0 1 0 1 4 9
+p470
+aVTodd MacCulloch PHI 01/12/2001 PHI @ WAS W 7 5 2 2 100.0 0 0 - 1 2 50.0 2 0 2 0 0 0 1 1 2
+p471
+aVToni Kukoc PHI 01/12/2001 PHI @ WAS W 19 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 2 1 0 1 1 -7
+p472
+aVAllen Iverson PHI 01/12/2001 PHI @ WAS W 45 29 11 24 45.8 1 2 50.0 6 8 75.0 0 0 0 1 3 1 2 2 3
+p473
+aVAaron McKie PHI 01/12/2001 PHI @ WAS W 38 9 4 13 30.8 0 3 0.0 1 1 100.0 0 4 4 7 3 0 2 5 7
+p474
+aVTyrone Hill PHI 01/12/2001 PHI @ WAS W 37 14 5 10 50.0 0 0 - 4 8 50.0 6 14 20 0 0 0 1 3 13
+p475
+aVGeorge Lynch PHI 01/12/2001 PHI @ WAS W 36 7 3 10 30.0 0 0 - 1 2 50.0 2 7 9 2 0 1 1 1 9
+p476
+aVTheo Ratliff PHI 01/12/2001 PHI @ WAS W 41 15 7 12 58.3 0 0 - 1 2 50.0 4 5 9 0 1 5 3 4 2
+p477
+aVKevin Ollie PHI 01/12/2001 PHI @ WAS W 18 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 2 0 0 1 2 -9
+p478
+aVAaron McKie PHI 01/10/2001 PHI vs. POR L 37 15 5 19 26.3 4 11 36.4 1 2 50.0 0 2 2 5 2 0 2 3 -10
+p479
+aVNazr Mohammed PHI 01/10/2001 PHI vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -1
+p480
+aVJumaine Jones PHI 01/10/2001 PHI vs. POR L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p481
+aVRodney Buford PHI 01/10/2001 PHI vs. POR L 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p482
+aVKevin Ollie PHI 01/10/2001 PHI vs. POR L 11 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 2 1 0 1 1 -8
+p483
+aVTheo Ratliff PHI 01/10/2001 PHI vs. POR L 37 10 4 9 44.4 0 0 - 2 2 100.0 1 2 3 2 1 1 0 2 -15
+p484
+aVAllen Iverson PHI 01/10/2001 PHI vs. POR L 41 12 5 21 23.8 1 3 33.3 1 2 50.0 2 1 3 3 1 0 1 0 -17
+p485
+aVGeorge Lynch PHI 01/10/2001 PHI vs. POR L 33 8 4 8 50.0 0 0 - 0 0 - 4 4 8 2 0 0 0 1 -18
+p486
+aVTyrone Hill PHI 01/10/2001 PHI vs. POR L 34 12 3 8 37.5 0 0 - 6 8 75.0 6 2 8 1 0 0 2 2 -10
+p487
+aVTodd MacCulloch PHI 01/10/2001 PHI vs. POR L 11 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -2
+p488
+aVToni Kukoc PHI 01/10/2001 PHI vs. POR L 22 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 1 2 0 3 1 -5
+p489
+aVTodd MacCulloch PHI 01/09/2001 PHI @ NJN W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -2
+p490
+aVNazr Mohammed PHI 01/09/2001 PHI @ NJN W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -4
+p491
+aVJumaine Jones PHI 01/09/2001 PHI @ NJN W 6 7 3 4 75.0 1 1 100.0 0 1 0.0 2 0 2 0 1 0 1 3 -6
+p492
+aVGeorge Lynch PHI 01/09/2001 PHI @ NJN W 28 10 3 5 60.0 0 1 0.0 4 4 100.0 1 5 6 3 0 0 2 3 9
+p493
+aVTheo Ratliff PHI 01/09/2001 PHI @ NJN W 38 14 5 9 55.6 0 0 - 4 5 80.0 1 11 12 3 1 8 5 3 22
+p494
+aVRodney Buford PHI 01/09/2001 PHI @ NJN W 9 3 1 5 20.0 0 2 0.0 1 2 50.0 0 1 1 0 1 0 0 1 -3
+p495
+aVTyrone Hill PHI 01/09/2001 PHI @ NJN W 35 17 6 11 54.5 0 0 - 5 7 71.4 6 7 13 0 0 0 2 3 17
+p496
+aVAllen Iverson PHI 01/09/2001 PHI @ NJN W 41 22 6 14 42.9 0 1 0.0 10 12 83.3 0 3 3 5 1 0 2 3 20
+p497
+aVToni Kukoc PHI 01/09/2001 PHI @ NJN W 24 11 4 6 66.7 3 5 60.0 0 0 - 1 7 8 2 1 0 2 0 13
+p498
+aVAaron McKie PHI 01/09/2001 PHI @ NJN W 38 11 5 11 45.5 1 5 20.0 0 0 - 1 2 3 7 2 0 2 1 16
+p499
+aVKevin Ollie PHI 01/09/2001 PHI @ NJN W 15 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 3 0 0 0 1 3
+p500
+aVTodd MacCulloch PHI 01/06/2001 PHI @ CLE W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 1
+p501
+aVTheo Ratliff PHI 01/06/2001 PHI @ CLE W 43 12 4 10 40.0 0 0 - 4 6 66.7 4 5 9 2 1 8 5 5 1
+p502
+aVTyrone Hill PHI 01/06/2001 PHI @ CLE W 29 9 4 7 57.1 0 0 - 1 2 50.0 2 5 7 1 1 2 1 5 6
+p503
+aVRodney Buford PHI 01/06/2001 PHI @ CLE W 5 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -1
+p504
+aVAaron McKie PHI 01/06/2001 PHI @ CLE W 42 20 7 12 58.3 1 1 100.0 5 9 55.6 0 5 5 9 2 0 5 2 -1
+p505
+aVAllen Iverson PHI 01/06/2001 PHI @ CLE W 44 54 20 30 66.7 4 7 57.1 10 13 76.9 0 3 3 3 3 1 4 3 5
+p506
+aVGeorge Lynch PHI 01/06/2001 PHI @ CLE W 41 5 2 7 28.6 0 1 0.0 1 2 50.0 1 7 8 0 1 0 4 2 4
+p507
+aVToni Kukoc PHI 01/06/2001 PHI @ CLE W 23 3 1 5 20.0 0 1 0.0 1 2 50.0 0 4 4 3 1 0 1 3 5
+p508
+aVKevin Ollie PHI 01/06/2001 PHI @ CLE W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 3 0 1 0 1 0
+p509
+aVAllen Iverson PHI 01/05/2001 PHI vs. SEA W 38 41 15 30 50.0 2 7 28.6 9 9 100.0 0 3 3 2 3 1 1 0 32
+p510
+aVKevin Ollie PHI 01/05/2001 PHI vs. SEA W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 2 12
+p511
+aVGeorge Lynch PHI 01/05/2001 PHI vs. SEA W 29 7 2 7 28.6 0 0 - 3 3 100.0 2 5 7 4 2 2 0 2 12
+p512
+aVTyrone Hill PHI 01/05/2001 PHI vs. SEA W 27 8 3 5 60.0 0 0 - 2 4 50.0 3 8 11 1 1 0 3 4 18
+p513
+aVNazr Mohammed PHI 01/05/2001 PHI vs. SEA W 6 2 0 5 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 0
+p514
+aVAaron McKie PHI 01/05/2001 PHI vs. SEA W 38 10 4 7 57.1 0 2 0.0 2 2 100.0 1 4 5 6 3 0 2 2 20
+p515
+aVTheo Ratliff PHI 01/05/2001 PHI vs. SEA W 26 8 4 7 57.1 0 0 - 0 0 - 1 4 5 3 0 5 1 4 14
+p516
+aVJumaine Jones PHI 01/05/2001 PHI vs. SEA W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 5
+p517
+aVToni Kukoc PHI 01/05/2001 PHI vs. SEA W 21 19 8 9 88.9 1 1 100.0 2 2 100.0 1 1 2 2 2 0 1 1 23
+p518
+aVTodd MacCulloch PHI 01/05/2001 PHI vs. SEA W 12 12 6 9 66.7 0 0 - 0 0 - 6 1 7 0 0 1 1 1 4
+p519
+aVRodney Buford PHI 01/05/2001 PHI vs. SEA W 21 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 2 0 0 0 5 20
+p520
+aVNazr Mohammed PHI 01/03/2001 PHI vs. ATL W 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p521
+aVToni Kukoc PHI 01/03/2001 PHI vs. ATL W 8 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 3 1 0 0 0 11
+p522
+aVRodney Buford PHI 01/03/2001 PHI vs. ATL W 8 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -13
+p523
+aVTodd MacCulloch PHI 01/03/2001 PHI vs. ATL W 15 8 1 2 50.0 0 0 - 6 8 75.0 1 6 7 1 0 0 1 1 10
+p524
+aVAaron McKie PHI 01/03/2001 PHI vs. ATL W 35 11 4 8 50.0 1 3 33.3 2 2 100.0 1 9 10 10 0 0 3 0 23
+p525
+aVKevin Ollie PHI 01/03/2001 PHI vs. ATL W 23 8 4 4 100.0 0 0 - 0 0 - 0 1 1 2 1 0 3 3 5
+p526
+aVJumaine Jones PHI 01/03/2001 PHI vs. ATL W 10 2 0 3 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 0 -15
+p527
+aVAllen Iverson PHI 01/03/2001 PHI vs. ATL W 38 21 7 18 38.9 1 3 33.3 6 8 75.0 0 2 2 8 1 0 2 2 32
+p528
+aVTheo Ratliff PHI 01/03/2001 PHI vs. ATL W 39 17 7 15 46.7 0 0 - 3 4 75.0 1 10 11 1 0 7 3 4 13
+p529
+aVTyrone Hill PHI 01/03/2001 PHI vs. ATL W 28 8 4 7 57.1 0 0 - 0 0 - 6 5 11 0 0 0 0 0 16
+p530
+aVGeorge Lynch PHI 01/03/2001 PHI vs. ATL W 30 12 5 8 62.5 1 1 100.0 1 1 100.0 5 3 8 2 0 0 3 1 8
+p531
+aVGeorge Lynch PHI 12/30/2000 PHI @ SAC W 42 9 3 6 50.0 1 2 50.0 2 4 50.0 1 8 9 1 2 1 2 4 14
+p532
+aVTyrone Hill PHI 12/30/2000 PHI @ SAC W 39 7 3 9 33.3 0 0 - 1 2 50.0 6 7 13 0 1 1 0 3 16
+p533
+aVKevin Ollie PHI 12/30/2000 PHI @ SAC W 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -19
+p534
+aVJumaine Jones PHI 12/30/2000 PHI @ SAC W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p535
+aVTodd MacCulloch PHI 12/30/2000 PHI @ SAC W 15 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 0 1 4 -18
+p536
+aVAllen Iverson PHI 12/30/2000 PHI @ SAC W 52 46 18 36 50.0 2 6 33.3 8 8 100.0 2 7 9 9 3 0 3 2 7
+p537
+aVTheo Ratliff PHI 12/30/2000 PHI @ SAC W 44 18 8 17 47.1 0 0 - 2 2 100.0 4 4 8 0 1 2 1 3 12
+p538
+aVToni Kukoc PHI 12/30/2000 PHI @ SAC W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -11
+p539
+aVAaron McKie PHI 12/30/2000 PHI @ SAC W 48 19 8 16 50.0 2 5 40.0 1 1 100.0 2 8 10 14 0 1 4 2 14
+p540
+aVAllen Iverson PHI 12/27/2000 PHI @ GSW W 41 29 13 27 48.1 2 4 50.0 1 1 100.0 1 2 3 3 2 0 3 1 -3
+p541
+aVAaron McKie PHI 12/27/2000 PHI @ GSW W 41 24 9 14 64.3 1 4 25.0 5 5 100.0 0 6 6 7 1 0 4 3 21
+p542
+aVToni Kukoc PHI 12/27/2000 PHI @ GSW W 8 4 2 3 66.7 0 1 0.0 0 1 0.0 0 0 0 3 1 0 1 0 1
+p543
+aVTheo Ratliff PHI 12/27/2000 PHI @ GSW W 36 10 3 8 37.5 0 0 - 4 4 100.0 2 5 7 2 0 2 3 1 1
+p544
+aVJumaine Jones PHI 12/27/2000 PHI @ GSW W 21 19 6 12 50.0 3 4 75.0 4 4 100.0 5 4 9 1 0 1 0 3 10
+p545
+aVGeorge Lynch PHI 12/27/2000 PHI @ GSW W 31 12 5 6 83.3 0 0 - 2 2 100.0 5 0 5 1 1 0 1 5 0
+p546
+aVKevin Ollie PHI 12/27/2000 PHI @ GSW W 24 7 2 2 100.0 0 0 - 3 4 75.0 0 1 1 1 1 0 1 4 2
+p547
+aVTyrone Hill PHI 12/27/2000 PHI @ GSW W 33 11 5 12 41.7 0 0 - 1 2 50.0 6 9 15 0 0 0 1 2 18
+p548
+aVRodney Buford PHI 12/27/2000 PHI @ GSW W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 2 0 -10
+p549
+aVToni Kukoc PHI 12/26/2000 PHI @ UTA W 29 15 4 8 50.0 4 6 66.7 3 4 75.0 0 4 4 3 0 1 2 4 8
+p550
+aVTyrone Hill PHI 12/26/2000 PHI @ UTA W 32 13 4 8 50.0 0 0 - 5 5 100.0 4 4 8 0 1 0 3 3 1
+p551
+aVGeorge Lynch PHI 12/26/2000 PHI @ UTA W 30 9 3 6 50.0 0 1 0.0 3 3 100.0 0 4 4 3 3 0 0 1 -8
+p552
+aVJumaine Jones PHI 12/26/2000 PHI @ UTA W 13 2 1 1 100.0 0 0 - 0 0 - 2 2 4 1 0 1 1 1 5
+p553
+aVTodd MacCulloch PHI 12/26/2000 PHI @ UTA W 11 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 1 1 0 2 4
+p554
+aVRodney Buford PHI 12/26/2000 PHI @ UTA W 13 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 3 13
+p555
+aVAaron McKie PHI 12/26/2000 PHI @ UTA W 39 24 8 15 53.3 1 4 25.0 7 9 77.8 0 2 2 5 1 0 2 2 -4
+p556
+aVTheo Ratliff PHI 12/26/2000 PHI @ UTA W 34 13 6 11 54.5 0 0 - 1 2 50.0 0 3 3 0 1 3 7 3 3
+p557
+aVKevin Ollie PHI 12/26/2000 PHI @ UTA W 39 7 3 8 37.5 0 0 - 1 2 50.0 1 3 4 7 2 0 1 2 8
+p558
+aVJuan Sanchez PHI 12/22/2000 PHI vs. NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -1
+p559
+aVAllen Iverson PHI 12/22/2000 PHI vs. NYK L 41 19 5 18 27.8 1 6 16.7 8 10 80.0 0 0 0 8 2 0 5 2 -19
+p560
+aVTheo Ratliff PHI 12/22/2000 PHI vs. NYK L 32 6 2 6 33.3 0 0 - 2 4 50.0 0 6 6 2 0 1 4 5 -15
+p561
+aVKevin Ollie PHI 12/22/2000 PHI vs. NYK L 21 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 2 1 0 1 2 -9
+p562
+aVJumaine Jones PHI 12/22/2000 PHI vs. NYK L 17 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 1 1 -2
+p563
+aVTyrone Hill PHI 12/22/2000 PHI vs. NYK L 26 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 1 0 0 1 -23
+p564
+aVToni Kukoc PHI 12/22/2000 PHI vs. NYK L 21 5 2 5 40.0 0 0 - 1 2 50.0 3 3 6 0 0 0 2 1 1
+p565
+aVAaron McKie PHI 12/22/2000 PHI vs. NYK L 30 10 5 7 71.4 0 1 0.0 0 1 0.0 0 6 6 3 1 0 2 5 -13
+p566
+aVNazr Mohammed PHI 12/22/2000 PHI vs. NYK L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 2 2 2
+p567
+aVTodd MacCulloch PHI 12/22/2000 PHI vs. NYK L 11 7 3 4 75.0 0 0 - 1 1 100.0 2 1 3 0 0 0 1 2 2
+p568
+aVGeorge Lynch PHI 12/22/2000 PHI vs. NYK L 28 3 0 2 0.0 0 0 - 3 6 50.0 0 1 1 2 0 0 2 4 -23
+p569
+aVAaron McKie PHI 12/20/2000 PHI vs. UTA L 38 5 1 7 14.3 1 3 33.3 2 2 100.0 1 2 3 3 1 0 5 2 8
+p570
+aVMatt Geiger PHI 12/20/2000 PHI vs. UTA L 12 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -12
+p571
+aVJuan Sanchez PHI 12/20/2000 PHI vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p572
+aVVernon Maxwell PHI 12/20/2000 PHI vs. UTA L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p573
+aVGeorge Lynch PHI 12/20/2000 PHI vs. UTA L 22 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 2 0 0 5 0
+p574
+aVToni Kukoc PHI 12/20/2000 PHI vs. UTA L 33 7 3 10 30.0 0 3 0.0 1 2 50.0 3 6 9 4 2 0 1 1 5
+p575
+aVAllen Iverson PHI 12/20/2000 PHI vs. UTA L 47 45 15 34 44.1 0 4 0.0 15 18 83.3 1 2 3 1 4 0 6 3 2
+p576
+aVTodd MacCulloch PHI 12/20/2000 PHI vs. UTA L 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 -5
+p577
+aVTyrone Hill PHI 12/20/2000 PHI vs. UTA L 31 9 3 5 60.0 0 0 - 3 6 50.0 5 7 12 0 1 0 1 5 0
+p578
+aVTheo Ratliff PHI 12/20/2000 PHI vs. UTA L 30 13 3 5 60.0 0 0 - 7 8 87.5 2 5 7 1 1 1 1 4 5
+p579
+aVNazr Mohammed PHI 12/16/2000 PHI @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p580
+aVAaron McKie PHI 12/16/2000 PHI @ CHI W 32 18 7 9 77.8 2 3 66.7 2 2 100.0 0 2 2 6 2 0 3 2 13
+p581
+aVToni Kukoc PHI 12/16/2000 PHI @ CHI W 35 6 2 6 33.3 1 3 33.3 1 2 50.0 0 4 4 3 1 0 1 3 0
+p582
+aVGeorge Lynch PHI 12/16/2000 PHI @ CHI W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p583
+aVTheo Ratliff PHI 12/16/2000 PHI @ CHI W 33 14 5 8 62.5 0 0 - 4 6 66.7 2 4 6 0 0 3 2 5 9
+p584
+aVVernon Maxwell PHI 12/16/2000 PHI @ CHI W 16 9 3 4 75.0 3 4 75.0 0 0 - 0 0 0 1 0 0 0 2 -5
+p585
+aVAllen Iverson PHI 12/16/2000 PHI @ CHI W 44 33 12 25 48.0 0 2 0.0 9 13 69.2 0 5 5 8 2 0 7 2 7
+p586
+aVJuan Sanchez PHI 12/16/2000 PHI @ CHI W 8 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 -3
+p587
+aVJumaine Jones PHI 12/16/2000 PHI @ CHI W 13 4 2 5 40.0 0 1 0.0 0 0 - 2 3 5 0 0 0 1 3 6
+p588
+aVTodd MacCulloch PHI 12/16/2000 PHI @ CHI W 21 6 3 7 42.9 0 0 - 0 0 - 6 7 13 0 0 0 0 1 -1
+p589
+aVTyrone Hill PHI 12/16/2000 PHI @ CHI W 32 5 2 4 50.0 0 0 - 1 2 50.0 0 5 5 1 1 0 2 4 15
+p590
+aVAaron McKie PHI 12/15/2000 PHI vs. DAL L 30 19 8 11 72.7 2 4 50.0 1 1 100.0 0 3 3 1 2 0 0 3 -19
+p591
+aVNazr Mohammed PHI 12/15/2000 PHI vs. DAL L 5 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -2
+p592
+aVTyrone Hill PHI 12/15/2000 PHI vs. DAL L 21 8 4 8 50.0 0 0 - 0 0 - 3 0 3 2 2 0 3 4 -3
+p593
+aVJumaine Jones PHI 12/15/2000 PHI vs. DAL L 21 2 0 5 0.0 0 2 0.0 2 4 50.0 0 3 3 0 0 1 1 0 -15
+p594
+aVTheo Ratliff PHI 12/15/2000 PHI vs. DAL L 30 9 3 5 60.0 0 0 - 3 4 75.0 3 6 9 1 0 4 3 2 -21
+p595
+aVJuan Sanchez PHI 12/15/2000 PHI vs. DAL L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p596
+aVGeorge Lynch PHI 12/15/2000 PHI vs. DAL L 20 3 1 4 25.0 0 0 - 1 2 50.0 3 6 9 4 0 0 2 3 -1
+p597
+aVVernon Maxwell PHI 12/15/2000 PHI vs. DAL L 27 10 4 7 57.1 2 5 40.0 0 0 - 0 3 3 2 1 0 5 1 -11
+p598
+aVAllen Iverson PHI 12/15/2000 PHI vs. DAL L 41 26 7 20 35.0 0 3 0.0 12 12 100.0 0 4 4 3 1 0 2 2 -9
+p599
+aVTodd MacCulloch PHI 12/15/2000 PHI vs. DAL L 11 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 2 0
+p600
+aVToni Kukoc PHI 12/15/2000 PHI vs. DAL L 24 11 3 8 37.5 1 2 50.0 4 4 100.0 2 4 6 2 0 1 1 0 -8
+p601
+aVAllen Iverson PHI 12/13/2000 PHI @ WAS W 41 25 10 21 47.6 0 1 0.0 5 8 62.5 0 1 1 4 5 0 5 2 26
+p602
+aVAaron McKie PHI 12/13/2000 PHI @ WAS W 36 16 6 10 60.0 2 5 40.0 2 2 100.0 0 8 8 6 2 1 3 2 27
+p603
+aVTodd MacCulloch PHI 12/13/2000 PHI @ WAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p604
+aVVernon Maxwell PHI 12/13/2000 PHI @ WAS W 20 9 3 10 30.0 3 6 50.0 0 0 - 0 2 2 3 0 0 0 5 -5
+p605
+aVMatt Geiger PHI 12/13/2000 PHI @ WAS W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 2 0
+p606
+aVGeorge Lynch PHI 12/13/2000 PHI @ WAS W 30 4 1 5 20.0 0 0 - 2 2 100.0 2 2 4 2 3 1 1 2 -2
+p607
+aVToni Kukoc PHI 12/13/2000 PHI @ WAS W 19 10 4 7 57.1 0 1 0.0 2 4 50.0 1 1 2 2 0 0 0 2 6
+p608
+aVJuan Sanchez PHI 12/13/2000 PHI @ WAS W 5 4 2 2 100.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 7
+p609
+aVJumaine Jones PHI 12/13/2000 PHI @ WAS W 10 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 3 0 4
+p610
+aVNazr Mohammed PHI 12/13/2000 PHI @ WAS W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p611
+aVTheo Ratliff PHI 12/13/2000 PHI @ WAS W 41 12 4 13 30.8 0 0 - 4 7 57.1 8 5 13 3 1 6 4 2 28
+p612
+aVTyrone Hill PHI 12/13/2000 PHI @ WAS W 30 14 4 9 44.4 0 0 - 6 9 66.7 4 5 9 2 0 3 1 5 7
+p613
+aVToni Kukoc PHI 12/11/2000 PHI vs. MIN L 17 2 0 6 0.0 0 3 0.0 2 4 50.0 0 4 4 2 0 0 2 1 -5
+p614
+aVTyrone Hill PHI 12/11/2000 PHI vs. MIN L 34 11 4 8 50.0 0 0 - 3 4 75.0 5 8 13 1 1 0 2 1 6
+p615
+aVAllen Iverson PHI 12/11/2000 PHI vs. MIN L 47 26 9 27 33.3 1 3 33.3 7 7 100.0 0 4 4 7 2 1 3 2 0
+p616
+aVTheo Ratliff PHI 12/11/2000 PHI vs. MIN L 47 14 6 11 54.5 0 0 - 2 2 100.0 2 10 12 1 1 2 4 4 -4
+p617
+aVJuan Sanchez PHI 12/11/2000 PHI vs. MIN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p618
+aVVernon Maxwell PHI 12/11/2000 PHI vs. MIN L 22 7 3 7 42.9 1 4 25.0 0 2 0.0 0 1 1 2 1 0 2 0 5
+p619
+aVTodd MacCulloch PHI 12/11/2000 PHI vs. MIN L 21 11 4 9 44.4 0 0 - 3 4 75.0 3 2 5 0 0 1 1 2 -8
+p620
+aVGeorge Lynch PHI 12/11/2000 PHI vs. MIN L 39 9 4 5 80.0 1 1 100.0 0 0 - 0 6 6 1 0 0 0 2 -1
+p621
+aVAaron McKie PHI 12/11/2000 PHI vs. MIN L 35 11 2 7 28.6 1 2 50.0 6 7 85.7 1 2 3 5 1 0 5 6 -15
+p622
+aVJuan Sanchez PHI 12/09/2000 PHI @ VAN W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p623
+aVTheo Ratliff PHI 12/09/2000 PHI @ VAN W 40 10 4 15 26.7 0 0 - 2 2 100.0 2 8 10 2 1 2 3 2 10
+p624
+aVToni Kukoc PHI 12/09/2000 PHI @ VAN W 28 12 5 9 55.6 0 2 0.0 2 4 50.0 1 5 6 1 1 0 3 0 19
+p625
+aVAllen Iverson PHI 12/09/2000 PHI @ VAN W 33 18 6 20 30.0 1 4 25.0 5 5 100.0 0 3 3 3 1 1 3 1 -3
+p626
+aVAaron McKie PHI 12/09/2000 PHI @ VAN W 36 16 7 13 53.8 0 4 0.0 2 4 50.0 0 2 2 5 4 0 4 5 13
+p627
+aVVernon Maxwell PHI 12/09/2000 PHI @ VAN W 21 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 3 0 0 3 -4
+p628
+aVNazr Mohammed PHI 12/09/2000 PHI @ VAN W 8 6 3 3 100.0 0 0 - 0 0 - 2 0 2 1 0 0 0 3 5
+p629
+aVTodd MacCulloch PHI 12/09/2000 PHI @ VAN W 27 11 5 6 83.3 0 0 - 1 2 50.0 3 3 6 0 0 1 1 2 -13
+p630
+aVJumaine Jones PHI 12/09/2000 PHI @ VAN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p631
+aVGeorge Lynch PHI 12/09/2000 PHI @ VAN W 37 8 3 8 37.5 0 1 0.0 2 2 100.0 2 6 8 2 1 1 2 3 -8
+p632
+aVNazr Mohammed PHI 12/08/2000 PHI @ POR W 18 11 4 6 66.7 0 0 - 3 6 50.0 1 5 6 0 0 1 0 1 5
+p633
+aVToni Kukoc PHI 12/08/2000 PHI @ POR W 26 7 3 7 42.9 0 1 0.0 1 1 100.0 0 3 3 0 0 0 2 2 9
+p634
+aVTodd MacCulloch PHI 12/08/2000 PHI @ POR W 24 5 2 7 28.6 0 0 - 1 2 50.0 3 6 9 0 1 0 2 3 12
+p635
+aVJumaine Jones PHI 12/08/2000 PHI @ POR W 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 3
+p636
+aVAaron McKie PHI 12/08/2000 PHI @ POR W 32 10 4 9 44.4 0 1 0.0 2 2 100.0 1 9 10 6 4 0 5 2 9
+p637
+aVVernon Maxwell PHI 12/08/2000 PHI @ POR W 17 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 3 0 0 2 4 -1
+p638
+aVAllen Iverson PHI 12/08/2000 PHI @ POR W 39 30 9 21 42.9 0 0 - 12 17 70.6 0 0 0 10 4 1 2 1 11
+p639
+aVTheo Ratliff PHI 12/08/2000 PHI @ POR W 39 19 7 10 70.0 0 0 - 5 6 83.3 3 7 10 2 1 2 0 2 16
+p640
+aVGeorge Lynch PHI 12/08/2000 PHI @ POR W 38 14 6 7 85.7 1 1 100.0 1 1 100.0 1 2 3 5 1 0 1 1 1
+p641
+aVGeorge Lynch PHI 12/05/2000 PHI @ LAL L 30 12 6 10 60.0 0 1 0.0 0 0 - 3 4 7 1 1 0 0 1 -8
+p642
+aVAaron McKie PHI 12/05/2000 PHI @ LAL L 27 21 8 12 66.7 2 4 50.0 3 3 100.0 0 2 2 4 0 0 2 4 -5
+p643
+aVTheo Ratliff PHI 12/05/2000 PHI @ LAL L 25 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 0 2 3 5 -8
+p644
+aVAllen Iverson PHI 12/05/2000 PHI @ LAL L 44 27 9 27 33.3 1 4 25.0 8 9 88.9 2 3 5 3 2 0 2 2 -8
+p645
+aVTyrone Hill PHI 12/05/2000 PHI @ LAL L 22 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 0 0 0 2 3 -7
+p646
+aVVernon Maxwell PHI 12/05/2000 PHI @ LAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p647
+aVTodd MacCulloch PHI 12/05/2000 PHI @ LAL L 16 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -4
+p648
+aVEric Snow PHI 12/05/2000 PHI @ LAL L 40 4 2 10 20.0 0 2 0.0 0 0 - 2 6 8 6 1 0 3 1 -4
+p649
+aVNazr Mohammed PHI 12/05/2000 PHI @ LAL L 15 4 2 7 28.6 0 0 - 0 0 - 2 2 4 0 0 1 0 3 1
+p650
+aVToni Kukoc PHI 12/05/2000 PHI @ LAL L 15 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 2 0 0 2 -8
+p651
+aVTheo Ratliff PHI 12/04/2000 PHI @ DEN L 31 14 6 12 50.0 0 0 - 2 2 100.0 3 3 6 0 2 5 4 6 -6
+p652
+aVVernon Maxwell PHI 12/04/2000 PHI @ DEN L 4 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 1
+p653
+aVEric Snow PHI 12/04/2000 PHI @ DEN L 44 10 2 7 28.6 1 2 50.0 5 6 83.3 0 7 7 9 1 1 6 2 -10
+p654
+aVToni Kukoc PHI 12/04/2000 PHI @ DEN L 30 12 4 11 36.4 2 3 66.7 2 2 100.0 2 0 2 3 0 0 1 4 -11
+p655
+aVMatt Geiger PHI 12/04/2000 PHI @ DEN L 11 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 0
+p656
+aVTodd MacCulloch PHI 12/04/2000 PHI @ DEN L 18 7 3 4 75.0 0 0 - 1 2 50.0 3 2 5 0 0 1 1 3 -3
+p657
+aVAllen Iverson PHI 12/04/2000 PHI @ DEN L 47 37 10 24 41.7 0 2 0.0 17 21 81.0 1 8 9 3 2 0 5 1 -8
+p658
+aVGeorge Lynch PHI 12/04/2000 PHI @ DEN L 24 10 4 9 44.4 0 1 0.0 2 6 33.3 4 3 7 3 1 1 0 5 5
+p659
+aVAaron McKie PHI 12/04/2000 PHI @ DEN L 25 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 1 2 0 3 6 -2
+p660
+aVJumaine Jones PHI 12/04/2000 PHI @ DEN L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p661
+aVJumaine Jones PHI 12/02/2000 PHI @ CLE W 16 3 1 4 25.0 0 0 - 1 2 50.0 1 4 5 1 0 0 1 1 3
+p662
+aVAaron McKie PHI 12/02/2000 PHI @ CLE W 28 9 4 5 80.0 0 0 - 1 2 50.0 0 6 6 8 0 0 1 1 24
+p663
+aVEric Snow PHI 12/02/2000 PHI @ CLE W 36 6 3 6 50.0 0 0 - 0 0 - 0 2 2 11 3 0 1 2 24
+p664
+aVAllen Iverson PHI 12/02/2000 PHI @ CLE W 37 27 10 21 47.6 2 6 33.3 5 6 83.3 0 7 7 1 3 0 1 4 34
+p665
+aVToni Kukoc PHI 12/02/2000 PHI @ CLE W 29 10 5 7 71.4 0 0 - 0 3 0.0 2 4 6 4 0 0 2 3 16
+p666
+aVNazr Mohammed PHI 12/02/2000 PHI @ CLE W 6 7 3 7 42.9 0 0 - 1 3 33.3 0 1 1 0 0 0 1 2 -1
+p667
+aVTheo Ratliff PHI 12/02/2000 PHI @ CLE W 26 12 4 7 57.1 0 0 - 4 4 100.0 3 3 6 1 1 7 2 0 25
+p668
+aVGeorge Lynch PHI 12/02/2000 PHI @ CLE W 27 9 3 4 75.0 0 0 - 3 4 75.0 3 3 6 1 2 0 1 2 16
+p669
+aVTodd MacCulloch PHI 12/02/2000 PHI @ CLE W 18 14 4 5 80.0 0 0 - 6 8 75.0 1 5 6 0 0 3 1 1 16
+p670
+aVMatt Geiger PHI 12/02/2000 PHI @ CLE W 15 15 6 12 50.0 0 0 - 3 4 75.0 1 1 2 2 0 0 0 3 13
+p671
+aVJumaine Jones PHI 12/01/2000 PHI vs. CHH W 11 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 0 0
+p672
+aVToni Kukoc PHI 12/01/2000 PHI vs. CHH W 13 5 2 5 40.0 0 0 - 1 1 100.0 0 2 2 0 1 0 2 4 0
+p673
+aVTodd MacCulloch PHI 12/01/2000 PHI vs. CHH W 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p674
+aVTheo Ratliff PHI 12/01/2000 PHI vs. CHH W 42 6 2 5 40.0 0 0 - 2 2 100.0 2 6 8 4 1 6 4 0 22
+p675
+aVAllen Iverson PHI 12/01/2000 PHI vs. CHH W 38 37 11 22 50.0 3 4 75.0 12 14 85.7 3 7 10 4 3 0 3 2 28
+p676
+aVTyrone Hill PHI 12/01/2000 PHI vs. CHH W 25 13 5 9 55.6 0 0 - 3 4 75.0 4 3 7 0 0 0 3 4 -1
+p677
+aVMatt Geiger PHI 12/01/2000 PHI vs. CHH W 22 15 5 10 50.0 0 0 - 5 5 100.0 1 3 4 0 0 0 1 4 19
+p678
+aVAaron McKie PHI 12/01/2000 PHI vs. CHH W 29 7 3 6 50.0 1 1 100.0 0 0 - 1 6 7 3 2 0 1 1 26
+p679
+aVEric Snow PHI 12/01/2000 PHI vs. CHH W 36 2 0 5 0.0 0 0 - 2 2 100.0 0 4 4 9 1 1 1 5 12
+p680
+aVGeorge Lynch PHI 12/01/2000 PHI vs. CHH W 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 1 2 2 -3
+p681
+aVVernon Maxwell PHI 12/01/2000 PHI vs. CHH W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 2
+p682
+aVEric Snow PHI 11/29/2000 PHI vs. WAS W 42 18 7 12 58.3 0 0 - 4 6 66.7 0 6 6 9 3 1 2 2 12
+p683
+aVTheo Ratliff PHI 11/29/2000 PHI vs. WAS W 38 18 5 10 50.0 0 0 - 8 10 80.0 3 5 8 0 0 9 2 3 7
+p684
+aVVernon Maxwell PHI 11/29/2000 PHI vs. WAS W 14 4 1 5 20.0 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 1 -4
+p685
+aVGeorge Lynch PHI 11/29/2000 PHI vs. WAS W 33 2 1 4 25.0 0 0 - 0 0 - 2 4 6 2 1 0 2 3 6
+p686
+aVAaron McKie PHI 11/29/2000 PHI vs. WAS W 25 11 4 11 36.4 1 4 25.0 2 4 50.0 1 6 7 1 3 0 2 1 0
+p687
+aVAllen Iverson PHI 11/29/2000 PHI vs. WAS W 41 29 10 24 41.7 1 2 50.0 8 8 100.0 2 4 6 3 3 0 5 1 4
+p688
+aVToni Kukoc PHI 11/29/2000 PHI vs. WAS W 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 6
+p689
+aVTyrone Hill PHI 11/29/2000 PHI vs. WAS W 34 11 4 6 66.7 0 0 - 3 6 50.0 3 7 10 0 0 1 3 4 -2
+p690
+aVNazr Mohammed PHI 11/29/2000 PHI vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p691
+aVVernon Maxwell PHI 11/25/2000 PHI @ SAS L 18 5 2 6 33.3 0 1 0.0 1 2 50.0 0 4 4 2 1 0 1 1 -2
+p692
+aVAllen Iverson PHI 11/25/2000 PHI @ SAS L 33 21 7 18 38.9 0 5 0.0 7 9 77.8 1 4 5 1 0 0 3 1 -12
+p693
+aVTyrone Hill PHI 11/25/2000 PHI @ SAS L 16 3 1 4 25.0 0 0 - 1 2 50.0 3 6 9 0 0 1 0 2 -2
+p694
+aVNazr Mohammed PHI 11/25/2000 PHI @ SAS L 18 0 0 5 0.0 0 0 - 0 2 0.0 0 4 4 0 2 2 0 2 5
+p695
+aVToni Kukoc PHI 11/25/2000 PHI @ SAS L 20 9 4 9 44.4 0 0 - 1 1 100.0 3 3 6 0 0 0 2 2 -10
+p696
+aVGeorge Lynch PHI 11/25/2000 PHI @ SAS L 26 4 1 4 25.0 0 2 0.0 2 2 100.0 3 5 8 1 1 2 3 3 -9
+p697
+aVTheo Ratliff PHI 11/25/2000 PHI @ SAS L 33 19 6 12 50.0 0 0 - 7 8 87.5 3 5 8 1 0 3 6 5 -28
+p698
+aVAaron McKie PHI 11/25/2000 PHI @ SAS L 16 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 2 -10
+p699
+aVMatt Geiger PHI 11/25/2000 PHI @ SAS L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -15
+p700
+aVEric Snow PHI 11/25/2000 PHI @ SAS L 32 0 0 3 0.0 0 0 - 0 0 - 0 4 4 3 0 0 7 1 -23
+p701
+aVJuan Sanchez PHI 11/25/2000 PHI @ SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p702
+aVJumaine Jones PHI 11/25/2000 PHI @ SAS L 17 7 3 6 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 2 4
+p703
+aVVernon Maxwell PHI 11/24/2000 PHI @ ATL W 17 5 2 6 33.3 1 3 33.3 0 0 - 1 2 3 1 1 0 0 0 -6
+p704
+aVToni Kukoc PHI 11/24/2000 PHI @ ATL W 21 12 5 8 62.5 0 0 - 2 4 50.0 0 4 4 2 1 0 1 3 23
+p705
+aVTheo Ratliff PHI 11/24/2000 PHI @ ATL W 41 12 3 7 42.9 0 0 - 6 8 75.0 4 10 14 0 1 5 0 2 16
+p706
+aVTyrone Hill PHI 11/24/2000 PHI @ ATL W 39 6 3 5 60.0 0 0 - 0 4 0.0 4 7 11 0 0 1 3 2 7
+p707
+aVAaron McKie PHI 11/24/2000 PHI @ ATL W 22 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 2 0 0 2 1 -12
+p708
+aVAllen Iverson PHI 11/24/2000 PHI @ ATL W 41 21 6 20 30.0 1 2 50.0 8 10 80.0 0 5 5 2 3 2 5 3 10
+p709
+aVMatt Geiger PHI 11/24/2000 PHI @ ATL W 11 6 3 6 50.0 0 0 - 0 2 0.0 3 1 4 0 1 0 0 0 -6
+p710
+aVGeorge Lynch PHI 11/24/2000 PHI @ ATL W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -1
+p711
+aVEric Snow PHI 11/24/2000 PHI @ ATL W 40 14 6 16 37.5 0 2 0.0 2 4 50.0 0 8 8 4 2 0 4 2 14
+p712
+aVAllen Iverson PHI 11/22/2000 PHI @ CHH L 37 7 3 17 17.6 0 1 0.0 1 2 50.0 0 4 4 4 3 0 1 2 -22
+p713
+aVJumaine Jones PHI 11/22/2000 PHI @ CHH L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p714
+aVMatt Geiger PHI 11/22/2000 PHI @ CHH L 16 10 5 10 50.0 0 0 - 0 0 - 4 4 8 0 0 0 0 3 -5
+p715
+aVGeorge Lynch PHI 11/22/2000 PHI @ CHH L 30 8 4 13 30.8 0 1 0.0 0 0 - 3 2 5 2 1 1 0 2 -5
+p716
+aVVernon Maxwell PHI 11/22/2000 PHI @ CHH L 15 10 3 6 50.0 2 4 50.0 2 2 100.0 0 1 1 1 0 0 0 0 2
+p717
+aVAaron McKie PHI 11/22/2000 PHI @ CHH L 24 6 1 3 33.3 0 0 - 4 4 100.0 0 2 2 2 1 0 3 1 8
+p718
+aVNazr Mohammed PHI 11/22/2000 PHI @ CHH L 14 8 3 4 75.0 0 0 - 2 6 33.3 1 5 6 0 0 0 0 3 1
+p719
+aVToni Kukoc PHI 11/22/2000 PHI @ CHH L 17 2 1 8 12.5 0 1 0.0 0 0 - 1 2 3 2 0 0 0 1 -6
+p720
+aVEric Snow PHI 11/22/2000 PHI @ CHH L 29 10 3 6 50.0 0 0 - 4 6 66.7 1 1 2 5 1 0 1 2 -21
+p721
+aVTheo Ratliff PHI 11/22/2000 PHI @ CHH L 22 2 1 8 12.5 0 0 - 0 0 - 0 3 3 0 0 1 1 5 -6
+p722
+aVTyrone Hill PHI 11/22/2000 PHI @ CHH L 27 6 2 5 40.0 0 0 - 2 4 50.0 2 3 5 1 0 0 3 4 -26
+p723
+aVNazr Mohammed PHI 11/20/2000 PHI @ BOS W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -1
+p724
+aVJuan Sanchez PHI 11/20/2000 PHI @ BOS W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 3
+p725
+aVGeorge Lynch PHI 11/20/2000 PHI @ BOS W 25 12 4 7 57.1 0 1 0.0 4 4 100.0 2 5 7 1 2 0 0 2 27
+p726
+aVTyrone Hill PHI 11/20/2000 PHI @ BOS W 24 9 3 8 37.5 0 0 - 3 3 100.0 2 3 5 0 2 0 1 4 1
+p727
+aVMatt Geiger PHI 11/20/2000 PHI @ BOS W 10 4 2 7 28.6 0 0 - 0 0 - 3 6 9 0 0 0 0 1 9
+p728
+aVJumaine Jones PHI 11/20/2000 PHI @ BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p729
+aVAaron McKie PHI 11/20/2000 PHI @ BOS W 29 17 5 8 62.5 3 4 75.0 4 7 57.1 1 3 4 4 2 0 3 4 5
+p730
+aVAllen Iverson PHI 11/20/2000 PHI @ BOS W 41 26 11 23 47.8 2 5 40.0 2 4 50.0 0 2 2 8 5 0 0 1 29
+p731
+aVEric Snow PHI 11/20/2000 PHI @ BOS W 39 14 5 12 41.7 0 0 - 4 5 80.0 1 2 3 12 3 0 4 3 22
+p732
+aVToni Kukoc PHI 11/20/2000 PHI @ BOS W 12 3 1 4 25.0 1 1 100.0 0 2 0.0 1 1 2 1 0 0 0 1 7
+p733
+aVTheo Ratliff PHI 11/20/2000 PHI @ BOS W 35 21 8 9 88.9 0 0 - 5 6 83.3 3 4 7 0 0 5 2 3 18
+p734
+aVVernon Maxwell PHI 11/20/2000 PHI @ BOS W 14 4 2 6 33.3 0 2 0.0 0 0 - 0 4 4 1 0 0 1 1 -1
+p735
+aVAaron McKie PHI 11/17/2000 PHI vs. MIA W 22 11 4 6 66.7 1 1 100.0 2 2 100.0 0 2 2 6 1 0 2 1 8
+p736
+aVTheo Ratliff PHI 11/17/2000 PHI vs. MIA W 32 10 4 4 100.0 0 0 - 2 4 50.0 0 5 5 1 0 4 2 2 8
+p737
+aVTodd MacCulloch PHI 11/17/2000 PHI vs. MIA W 7 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 1
+p738
+aVVernon Maxwell PHI 11/17/2000 PHI vs. MIA W 13 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 1 0 0 1 0 3
+p739
+aVJuan Sanchez PHI 11/17/2000 PHI vs. MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p740
+aVJumaine Jones PHI 11/17/2000 PHI vs. MIA W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 0 4
+p741
+aVEric Snow PHI 11/17/2000 PHI vs. MIA W 33 14 5 9 55.6 0 0 - 4 4 100.0 1 1 2 4 1 0 4 3 18
+p742
+aVAllen Iverson PHI 11/17/2000 PHI vs. MIA W 34 19 8 18 44.4 0 1 0.0 3 3 100.0 1 5 6 5 2 0 2 4 15
+p743
+aVTyrone Hill PHI 11/17/2000 PHI vs. MIA W 35 12 5 11 45.5 0 0 - 2 2 100.0 3 6 9 1 0 0 1 3 16
+p744
+aVToni Kukoc PHI 11/17/2000 PHI vs. MIA W 16 6 2 5 40.0 0 1 0.0 2 2 100.0 1 1 2 2 0 1 0 1 8
+p745
+aVGeorge Lynch PHI 11/17/2000 PHI vs. MIA W 33 7 3 7 42.9 1 1 100.0 0 0 - 0 3 3 1 3 0 1 3 20
+p746
+aVNazr Mohammed PHI 11/17/2000 PHI vs. MIA W 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 2
+p747
+aVTodd MacCulloch PHI 11/15/2000 PHI vs. CLE W 6 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 3 -4
+p748
+aVAllen Iverson PHI 11/15/2000 PHI vs. CLE W 39 22 9 22 40.9 0 3 0.0 4 7 57.1 0 4 4 5 2 0 5 4 13
+p749
+aVJumaine Jones PHI 11/15/2000 PHI vs. CLE W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p750
+aVToni Kukoc PHI 11/15/2000 PHI vs. CLE W 14 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 1 2
+p751
+aVNazr Mohammed PHI 11/15/2000 PHI vs. CLE W 6 6 2 3 66.7 0 0 - 2 2 100.0 3 0 3 0 0 0 1 3 1
+p752
+aVEric Snow PHI 11/15/2000 PHI vs. CLE W 37 13 5 10 50.0 0 0 - 3 3 100.0 1 3 4 7 2 0 3 1 4
+p753
+aVGeorge Lynch PHI 11/15/2000 PHI vs. CLE W 38 23 9 13 69.2 2 4 50.0 3 3 100.0 2 1 3 2 0 0 1 2 0
+p754
+aVVernon Maxwell PHI 11/15/2000 PHI vs. CLE W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p755
+aVTyrone Hill PHI 11/15/2000 PHI vs. CLE W 34 8 3 6 50.0 0 0 - 2 3 66.7 2 2 4 1 1 0 1 4 13
+p756
+aVTheo Ratliff PHI 11/15/2000 PHI vs. CLE W 28 15 4 9 44.4 0 0 - 7 11 63.6 2 3 5 0 1 6 0 4 12
+p757
+aVAaron McKie PHI 11/15/2000 PHI vs. CLE W 27 5 2 5 40.0 1 3 33.3 0 0 - 0 5 5 6 2 0 2 2 11
+p758
+aVJuan Sanchez PHI 11/15/2000 PHI vs. CLE W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p759
+aVAaron McKie PHI 11/11/2000 PHI vs. BOS W 27 9 3 9 33.3 1 4 25.0 2 2 100.0 0 5 5 4 3 0 1 5 9
+p760
+aVTyrone Hill PHI 11/11/2000 PHI vs. BOS W 30 4 0 7 0.0 0 0 - 4 6 66.7 3 7 10 0 0 0 2 5 -14
+p761
+aVTodd MacCulloch PHI 11/11/2000 PHI vs. BOS W 10 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 1 0 1 2
+p762
+aVToni Kukoc PHI 11/11/2000 PHI vs. BOS W 14 7 2 5 40.0 0 0 - 3 4 75.0 3 0 3 2 0 0 2 0 6
+p763
+aVTheo Ratliff PHI 11/11/2000 PHI vs. BOS W 29 15 4 5 80.0 0 0 - 7 8 87.5 1 6 7 0 0 1 0 6 1
+p764
+aVGeorge Lynch PHI 11/11/2000 PHI vs. BOS W 37 4 2 7 28.6 0 1 0.0 0 0 - 5 8 13 0 1 1 2 3 0
+p765
+aVEric Snow PHI 11/11/2000 PHI vs. BOS W 43 25 9 17 52.9 0 1 0.0 7 9 77.8 0 6 6 5 1 0 4 2 -3
+p766
+aVAllen Iverson PHI 11/11/2000 PHI vs. BOS W 45 17 6 21 28.6 0 4 0.0 5 8 62.5 0 3 3 7 1 1 5 1 4
+p767
+aVVernon Maxwell PHI 11/11/2000 PHI vs. BOS W 6 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 5
+p768
+aVAaron McKie PHI 11/09/2000 PHI @ MIN W 21 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 2 1 0 3 0 -1
+p769
+aVToni Kukoc PHI 11/09/2000 PHI @ MIN W 17 8 3 5 60.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 2 -1
+p770
+aVEric Snow PHI 11/09/2000 PHI @ MIN W 33 22 7 9 77.8 0 0 - 8 11 72.7 1 2 3 3 1 0 3 3 9
+p771
+aVVernon Maxwell PHI 11/09/2000 PHI @ MIN W 13 3 0 1 0.0 0 0 - 3 4 75.0 0 0 0 1 0 0 0 2 -4
+p772
+aVTodd MacCulloch PHI 11/09/2000 PHI @ MIN W 11 4 2 4 50.0 0 0 - 0 0 - 1 6 7 0 0 0 0 2 -1
+p773
+aVTyrone Hill PHI 11/09/2000 PHI @ MIN W 30 8 3 7 42.9 0 0 - 2 6 33.3 3 9 12 0 0 0 4 5 -2
+p774
+aVGeorge Lynch PHI 11/09/2000 PHI @ MIN W 40 8 3 11 27.3 0 2 0.0 2 4 50.0 4 9 13 2 2 0 3 4 5
+p775
+aVTheo Ratliff PHI 11/09/2000 PHI @ MIN W 39 9 2 9 22.2 0 0 - 5 6 83.3 4 10 14 0 0 2 4 4 5
+p776
+aVAllen Iverson PHI 11/09/2000 PHI @ MIN W 36 18 6 17 35.3 0 0 - 6 10 60.0 0 1 1 5 0 0 2 5 0
+p777
+aVGeorge Lynch PHI 11/08/2000 PHI vs. DET W 37 8 4 9 44.4 0 1 0.0 0 0 - 4 3 7 1 2 0 1 6 -3
+p778
+aVTyrone Hill PHI 11/08/2000 PHI vs. DET W 40 14 3 7 42.9 0 0 - 8 8 100.0 3 4 7 0 1 0 3 2 12
+p779
+aVToni Kukoc PHI 11/08/2000 PHI vs. DET W 22 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 4 2 0 2 0 15
+p780
+aVVernon Maxwell PHI 11/08/2000 PHI vs. DET W 25 15 5 9 55.6 2 5 40.0 3 4 75.0 1 3 4 4 2 0 3 3 15
+p781
+aVTheo Ratliff PHI 11/08/2000 PHI vs. DET W 41 13 4 9 44.4 0 0 - 5 6 83.3 1 7 8 2 0 4 1 3 -2
+p782
+aVEric Snow PHI 11/08/2000 PHI vs. DET W 30 23 8 14 57.1 0 0 - 7 8 87.5 0 5 5 4 1 0 3 5 5
+p783
+aVJuan Sanchez PHI 11/08/2000 PHI vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p784
+aVAllen Iverson PHI 11/08/2000 PHI vs. DET W 45 28 10 21 47.6 3 5 60.0 5 6 83.3 0 2 2 8 2 0 5 2 3
+p785
+aVToni Kukoc PHI 11/04/2000 PHI @ MIA W 16 11 5 8 62.5 1 3 33.3 0 0 - 2 1 3 2 0 0 1 1 1
+p786
+aVVernon Maxwell PHI 11/04/2000 PHI @ MIA W 30 3 1 12 8.3 0 5 0.0 1 2 50.0 0 3 3 0 1 0 0 2 1
+p787
+aVTyrone Hill PHI 11/04/2000 PHI @ MIA W 35 16 5 9 55.6 0 0 - 6 11 54.5 0 8 8 0 0 1 4 3 11
+p788
+aVEric Snow PHI 11/04/2000 PHI @ MIA W 40 13 4 14 28.6 0 1 0.0 5 6 83.3 1 3 4 6 4 0 1 3 5
+p789
+aVNazr Mohammed PHI 11/04/2000 PHI @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p790
+aVTheo Ratliff PHI 11/04/2000 PHI @ MIA W 34 10 5 6 83.3 0 0 - 0 0 - 4 3 7 2 0 5 2 3 4
+p791
+aVAaron McKie PHI 11/04/2000 PHI @ MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p792
+aVAllen Iverson PHI 11/04/2000 PHI @ MIA W 46 23 8 19 42.1 1 5 20.0 6 8 75.0 0 7 7 2 1 0 1 2 -1
+p793
+aVGeorge Lynch PHI 11/04/2000 PHI @ MIA W 31 8 1 4 25.0 1 2 50.0 5 6 83.3 3 4 7 1 1 0 0 3 2
+p794
+aVTyrone Hill PHI 11/03/2000 PHI @ ORL W 22 3 0 5 0.0 0 0 - 3 4 75.0 3 3 6 1 0 0 2 4 4
+p795
+aVToni Kukoc PHI 11/03/2000 PHI @ ORL W 17 0 0 6 0.0 0 0 - 0 0 - 1 2 3 0 0 1 2 2 -9
+p796
+aVAllen Iverson PHI 11/03/2000 PHI @ ORL W 44 29 10 27 37.0 0 4 0.0 9 10 90.0 1 7 8 4 2 2 3 1 10
+p797
+aVNazr Mohammed PHI 11/03/2000 PHI @ ORL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p798
+aVVernon Maxwell PHI 11/03/2000 PHI @ ORL W 18 9 2 5 40.0 1 3 33.3 4 4 100.0 0 3 3 4 1 0 0 3 10
+p799
+aVTodd MacCulloch PHI 11/03/2000 PHI @ ORL W 11 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 0 0 1 2 4
+p800
+aVTheo Ratliff PHI 11/03/2000 PHI @ ORL W 37 14 5 9 55.6 0 0 - 4 4 100.0 2 15 17 2 2 3 7 3 13
+p801
+aVEric Snow PHI 11/03/2000 PHI @ ORL W 32 4 2 5 40.0 0 0 - 0 1 0.0 1 1 2 7 2 0 3 3 -5
+p802
+aVAaron McKie PHI 11/03/2000 PHI @ ORL W 32 14 5 9 55.6 2 4 50.0 2 3 66.7 1 3 4 3 1 0 8 5 5
+p803
+aVGeorge Lynch PHI 11/03/2000 PHI @ ORL W 21 10 3 8 37.5 0 1 0.0 4 4 100.0 3 3 6 0 2 0 0 2 13
+p804
+aVAaron McKie PHI 11/01/2000 PHI vs. TOR W 27 11 5 7 71.4 0 0 - 1 1 100.0 0 3 3 1 1 1 2 0 18
+p805
+aVToni Kukoc PHI 11/01/2000 PHI vs. TOR W 20 11 5 8 62.5 1 3 33.3 0 0 - 2 3 5 3 2 0 1 0 5
+p806
+aVEric Snow PHI 11/01/2000 PHI vs. TOR W 35 16 5 9 55.6 0 0 - 6 8 75.0 0 2 2 8 1 0 3 2 3
+p807
+aVTodd MacCulloch PHI 11/01/2000 PHI vs. TOR W 13 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 1 4 -3
+p808
+aVGeorge Lynch PHI 11/01/2000 PHI vs. TOR W 34 4 2 8 25.0 0 0 - 0 0 - 1 8 9 2 2 2 1 4 -2
+p809
+aVVernon Maxwell PHI 11/01/2000 PHI vs. TOR W 12 8 3 8 37.5 2 4 50.0 0 0 - 1 0 1 0 0 0 0 0 -7
+p810
+aVNazr Mohammed PHI 11/01/2000 PHI vs. TOR W 5 6 2 5 40.0 0 0 - 2 2 100.0 3 0 3 0 0 1 0 1 7
+p811
+aVTheo Ratliff PHI 11/01/2000 PHI vs. TOR W 21 8 3 5 60.0 0 0 - 2 5 40.0 1 4 5 0 0 5 3 6 1
+p812
+aVTyrone Hill PHI 11/01/2000 PHI vs. TOR W 33 12 5 9 55.6 0 0 - 2 6 33.3 5 5 10 0 1 0 2 6 -3
+p813
+aVAllen Iverson PHI 11/01/2000 PHI vs. TOR W 40 24 9 23 39.1 0 4 0.0 6 6 100.0 4 1 5 5 4 0 1 0 11
+p814
+aVEric Snow PHI 10/31/2000 PHI @ NYK W 28 11 5 7 71.4 0 0 - 1 1 100.0 1 0 1 7 1 0 0 4 22
+p815
+aVGeorge Lynch PHI 10/31/2000 PHI @ NYK W 29 9 3 4 75.0 0 0 - 3 3 100.0 3 8 11 3 2 0 0 3 19
+p816
+aVJumaine Jones PHI 10/31/2000 PHI @ NYK W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p817
+aVAllen Iverson PHI 10/31/2000 PHI @ NYK W 38 25 5 16 31.3 2 4 50.0 13 14 92.9 1 5 6 9 0 0 2 2 29
+p818
+aVToni Kukoc PHI 10/31/2000 PHI @ NYK W 22 23 10 12 83.3 1 1 100.0 2 4 50.0 1 3 4 3 4 0 1 1 8
+p819
+aVJuan Sanchez PHI 10/31/2000 PHI @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p820
+aVTyrone Hill PHI 10/31/2000 PHI @ NYK W 22 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 0 2 4 3 17
+p821
+aVTodd MacCulloch PHI 10/31/2000 PHI @ NYK W 8 7 3 5 60.0 0 0 - 1 4 25.0 0 2 2 0 1 0 0 1 -4
+p822
+aVAaron McKie PHI 10/31/2000 PHI @ NYK W 26 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 0 0 1 2 13
+p823
+aVVernon Maxwell PHI 10/31/2000 PHI @ NYK W 22 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 2 5 8
+p824
+aVTheo Ratliff PHI 10/31/2000 PHI @ NYK W 35 12 5 7 71.4 0 0 - 2 4 50.0 0 4 4 1 2 3 3 2 31
+p825
+aVNazr Mohammed PHI 10/31/2000 PHI @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p826
+a.

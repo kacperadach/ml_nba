@@ -1,0 +1,1762 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJason Caffey CHI 04/19/1997 CHI vs. NYK L 35 12 4 7 57.1 0 0 - 4 5 80.0 2 4 6 3 2 0 2 1 0
+p2
+aVRandy Brown CHI 04/19/1997 CHI vs. NYK L 14 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 2 0 1 0 3 1
+p3
+aVJud Buechler CHI 04/19/1997 CHI vs. NYK L 13 4 2 4 50.0 0 1 0.0 0 1 0.0 1 5 6 2 0 1 1 2 3
+p4
+aVSteve Kerr CHI 04/19/1997 CHI vs. NYK L 26 10 3 5 60.0 3 4 75.0 1 2 50.0 0 1 1 0 0 0 0 2 -3
+p5
+aVDickey Simpkins CHI 04/19/1997 CHI vs. NYK L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p6
+aVBison Dele CHI 04/19/1997 CHI vs. NYK L 17 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 1 0 1 0 4 1
+p7
+aVScottie Pippen CHI 04/19/1997 CHI vs. NYK L 38 12 4 10 40.0 0 5 0.0 4 4 100.0 0 6 6 12 3 0 2 1 -1
+p8
+aVLuc Longley CHI 04/19/1997 CHI vs. NYK L 27 10 5 10 50.0 0 0 - 0 0 - 1 4 5 3 2 1 3 2 1
+p9
+aVRon Harper CHI 04/19/1997 CHI vs. NYK L 20 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 4 0 2 1 2 -3
+p10
+aVMichael Jordan CHI 04/19/1997 CHI vs. NYK L 39 33 14 22 63.6 1 1 100.0 4 8 50.0 0 3 3 3 2 0 4 4 -8
+p11
+aVRobert Parish CHI 04/19/1997 CHI vs. NYK L 6 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 1 1 -5
+p12
+aVLuc Longley CHI 04/16/1997 CHI @ MIA L 26 2 1 6 16.7 0 0 - 0 0 - 2 5 7 5 0 1 0 3 -4
+p13
+aVBison Dele CHI 04/16/1997 CHI @ MIA L 17 8 4 6 66.7 0 0 - 0 1 0.0 1 1 2 1 0 0 1 1 -4
+p14
+aVSteve Kerr CHI 04/16/1997 CHI @ MIA L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 3 0 -10
+p15
+aVScottie Pippen CHI 04/16/1997 CHI @ MIA L 39 28 12 22 54.5 4 7 57.1 0 0 - 1 5 6 4 1 0 3 3 5
+p16
+aVJason Caffey CHI 04/16/1997 CHI @ MIA L 28 10 3 5 60.0 0 0 - 4 6 66.7 3 3 6 2 0 0 4 5 5
+p17
+aVDickey Simpkins CHI 04/16/1997 CHI @ MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -11
+p18
+aVMichael Jordan CHI 04/16/1997 CHI @ MIA L 39 26 11 27 40.7 2 5 40.0 2 4 50.0 1 7 8 3 0 1 3 5 -15
+p19
+aVRobert Parish CHI 04/16/1997 CHI @ MIA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p20
+aVJud Buechler CHI 04/16/1997 CHI @ MIA L 25 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 1 0 2 1 -11
+p21
+aVRandy Brown CHI 04/16/1997 CHI @ MIA L 20 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 4 1 0 0 4 8
+p22
+aVRon Harper CHI 04/16/1997 CHI @ MIA L 20 3 1 2 50.0 0 1 0.0 1 1 100.0 0 3 3 3 0 0 1 2 -8
+p23
+aVRon Harper CHI 04/14/1997 CHI vs. TOR W 24 8 3 4 75.0 0 1 0.0 2 2 100.0 1 2 3 6 0 3 1 1 19
+p24
+aVMatt Steigenga CHI 04/14/1997 CHI vs. TOR W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 1 1 1 1 -5
+p25
+aVMichael Jordan CHI 04/14/1997 CHI vs. TOR W 35 30 12 24 50.0 4 7 57.1 2 2 100.0 2 9 11 10 3 1 2 2 22
+p26
+aVBison Dele CHI 04/14/1997 CHI vs. TOR W 19 9 4 11 36.4 0 0 - 1 2 50.0 3 4 7 2 0 1 2 4 -6
+p27
+aVScottie Pippen CHI 04/14/1997 CHI vs. TOR W 23 19 7 15 46.7 5 9 55.6 0 0 - 0 6 6 6 1 0 1 1 21
+p28
+aVDickey Simpkins CHI 04/14/1997 CHI vs. TOR W 21 6 2 5 40.0 0 0 - 2 3 66.7 1 1 2 2 0 0 1 5 -3
+p29
+aVLuc Longley CHI 04/14/1997 CHI vs. TOR W 20 6 3 6 50.0 0 0 - 0 1 0.0 1 3 4 4 0 3 1 4 21
+p30
+aVSteve Kerr CHI 04/14/1997 CHI vs. TOR W 29 11 5 10 50.0 1 6 16.7 0 0 - 1 4 5 3 3 0 0 1 -2
+p31
+aVJud Buechler CHI 04/14/1997 CHI vs. TOR W 25 10 4 7 57.1 2 4 50.0 0 0 - 2 3 5 4 0 1 0 2 -6
+p32
+aVJason Caffey CHI 04/14/1997 CHI vs. TOR W 36 16 7 12 58.3 0 1 0.0 2 2 100.0 2 3 5 5 0 1 0 1 24
+p33
+aVMichael Jordan CHI 04/13/1997 CHI @ DET L 38 18 7 16 43.8 0 3 0.0 4 4 100.0 1 8 9 7 0 0 4 1 -18
+p34
+aVRon Harper CHI 04/13/1997 CHI @ DET L 18 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 14
+p35
+aVJud Buechler CHI 04/13/1997 CHI @ DET L 21 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -16
+p36
+aVJason Caffey CHI 04/13/1997 CHI @ DET L 33 15 6 12 50.0 0 0 - 3 6 50.0 5 5 10 2 0 0 0 3 -12
+p37
+aVMatt Steigenga CHI 04/13/1997 CHI @ DET L 4 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 0 1
+p38
+aVBison Dele CHI 04/13/1997 CHI @ DET L 16 10 5 9 55.6 0 0 - 0 0 - 0 3 3 2 0 0 2 2 -5
+p39
+aVScottie Pippen CHI 04/13/1997 CHI @ DET L 38 21 9 19 47.4 2 5 40.0 1 2 50.0 2 3 5 3 0 0 1 2 -9
+p40
+aVSteve Kerr CHI 04/13/1997 CHI @ DET L 33 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 4 1 0 0 0 -28
+p41
+aVLuc Longley CHI 04/13/1997 CHI @ DET L 26 10 5 13 38.5 0 0 - 0 0 - 4 4 8 2 0 1 2 3 -11
+p42
+aVDickey Simpkins CHI 04/13/1997 CHI @ DET L 12 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 3 1 0 0 1 -1
+p43
+aVJason Caffey CHI 04/10/1997 CHI @ NYK W 31 4 2 7 28.6 0 0 - 0 2 0.0 5 3 8 0 0 0 1 4 -2
+p44
+aVDickey Simpkins CHI 04/10/1997 CHI @ NYK W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p45
+aVJud Buechler CHI 04/10/1997 CHI @ NYK W 16 6 2 2 100.0 2 2 100.0 0 0 - 1 1 2 1 1 0 0 0 10
+p46
+aVSteve Kerr CHI 04/10/1997 CHI @ NYK W 25 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 2 1 0 0 0 16
+p47
+aVRon Harper CHI 04/10/1997 CHI @ NYK W 26 3 1 8 12.5 1 3 33.3 0 0 - 0 2 2 2 4 0 0 2 -12
+p48
+aVRobert Parish CHI 04/10/1997 CHI @ NYK W 6 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 0 -4
+p49
+aVBison Dele CHI 04/10/1997 CHI @ NYK W 17 6 2 11 18.2 0 0 - 2 2 100.0 2 1 3 3 0 2 1 1 6
+p50
+aVLuc Longley CHI 04/10/1997 CHI @ NYK W 25 8 3 8 37.5 0 0 - 2 2 100.0 3 2 5 2 1 0 3 3 0
+p51
+aVScottie Pippen CHI 04/10/1997 CHI @ NYK W 38 33 11 19 57.9 5 8 62.5 6 8 75.0 1 4 5 2 1 0 1 3 -6
+p52
+aVMichael Jordan CHI 04/10/1997 CHI @ NYK W 44 34 12 26 46.2 1 3 33.3 9 10 90.0 1 7 8 6 1 1 3 3 2
+p53
+aVBison Dele CHI 04/09/1997 CHI @ IND W 17 4 1 6 16.7 0 0 - 2 2 100.0 2 4 6 2 2 0 1 4 10
+p54
+aVJason Caffey CHI 04/09/1997 CHI @ IND W 34 14 4 8 50.0 0 0 - 6 8 75.0 6 10 16 2 0 0 3 2 0
+p55
+aVRobert Parish CHI 04/09/1997 CHI @ IND W 13 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -10
+p56
+aVMichael Jordan CHI 04/09/1997 CHI @ IND W 41 23 8 19 42.1 0 3 0.0 7 8 87.5 0 3 3 2 5 0 6 2 3
+p57
+aVScottie Pippen CHI 04/09/1997 CHI @ IND W 37 17 7 12 58.3 1 3 33.3 2 3 66.7 1 4 5 3 2 0 1 2 4
+p58
+aVDickey Simpkins CHI 04/09/1997 CHI @ IND W 9 0 0 0 - 0 0 - 0 0 - 1 2 3 1 1 0 0 1 12
+p59
+aVSteve Kerr CHI 04/09/1997 CHI @ IND W 27 11 4 5 80.0 3 3 100.0 0 0 - 0 1 1 1 1 0 1 3 9
+p60
+aVRon Harper CHI 04/09/1997 CHI @ IND W 21 7 2 7 28.6 2 5 40.0 1 2 50.0 2 2 4 0 2 0 1 3 0
+p61
+aVJud Buechler CHI 04/09/1997 CHI @ IND W 14 2 1 4 25.0 0 1 0.0 0 0 - 2 0 2 0 0 1 0 1 3
+p62
+aVRandy Brown CHI 04/09/1997 CHI @ IND W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p63
+aVLuc Longley CHI 04/09/1997 CHI @ IND W 24 6 2 10 20.0 0 0 - 2 2 100.0 2 4 6 1 0 1 2 5 0
+p64
+aVDickey Simpkins CHI 04/07/1997 CHI vs. PHI W 20 0 0 3 0.0 0 0 - 0 0 - 1 2 3 3 0 2 2 4 12
+p65
+aVJud Buechler CHI 04/07/1997 CHI vs. PHI W 23 7 3 5 60.0 1 2 50.0 0 0 - 6 4 10 6 1 0 1 2 15
+p66
+aVSteve Kerr CHI 04/07/1997 CHI vs. PHI W 19 15 6 8 75.0 3 3 100.0 0 0 - 0 1 1 3 0 0 0 2 10
+p67
+aVLuc Longley CHI 04/07/1997 CHI vs. PHI W 29 12 5 12 41.7 0 0 - 2 2 100.0 8 3 11 5 0 2 2 1 6
+p68
+aVScottie Pippen CHI 04/07/1997 CHI vs. PHI W 37 28 12 24 50.0 1 5 20.0 3 3 100.0 3 4 7 5 1 2 4 3 13
+p69
+aVJason Caffey CHI 04/07/1997 CHI vs. PHI W 24 4 1 5 20.0 0 0 - 2 2 100.0 2 7 9 0 0 0 1 3 16
+p70
+aVMichael Jordan CHI 04/07/1997 CHI vs. PHI W 30 30 13 25 52.0 3 4 75.0 1 2 50.0 3 5 8 2 3 2 2 1 7
+p71
+aVRandy Brown CHI 04/07/1997 CHI vs. PHI W 16 8 4 8 50.0 0 1 0.0 0 0 - 2 3 5 5 3 0 1 5 22
+p72
+aVRon Harper CHI 04/07/1997 CHI vs. PHI W 33 22 8 14 57.1 4 7 57.1 2 7 28.6 1 7 8 7 2 4 2 4 18
+p73
+aVBison Dele CHI 04/07/1997 CHI vs. PHI W 7 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 1 0 1 1 1
+p74
+aVMichael Jordan CHI 04/06/1997 CHI @ ORL W 40 37 13 22 59.1 3 6 50.0 8 9 88.9 2 6 8 5 3 1 4 3 30
+p75
+aVLuc Longley CHI 04/06/1997 CHI @ ORL W 17 6 3 4 75.0 0 0 - 0 0 - 0 4 4 1 0 0 0 5 14
+p76
+aVJason Caffey CHI 04/06/1997 CHI @ ORL W 37 14 4 7 57.1 0 0 - 6 8 75.0 2 6 8 2 0 0 0 1 22
+p77
+aVRobert Parish CHI 04/06/1997 CHI @ ORL W 8 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 1 3 1 6
+p78
+aVRandy Brown CHI 04/06/1997 CHI @ ORL W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -11
+p79
+aVJud Buechler CHI 04/06/1997 CHI @ ORL W 21 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 2 0 0 0 3 -11
+p80
+aVScottie Pippen CHI 04/06/1997 CHI @ ORL W 38 21 7 11 63.6 4 6 66.7 3 6 50.0 3 1 4 3 4 0 4 2 20
+p81
+aVDickey Simpkins CHI 04/06/1997 CHI @ ORL W 6 2 1 2 50.0 0 1 0.0 0 0 - 2 0 2 0 0 0 1 1 2
+p82
+aVBison Dele CHI 04/06/1997 CHI @ ORL W 20 10 4 9 44.4 0 0 - 2 2 100.0 1 3 4 0 0 1 2 2 -6
+p83
+aVRon Harper CHI 04/06/1997 CHI @ ORL W 28 10 3 6 50.0 2 3 66.7 2 4 50.0 0 4 4 4 1 0 0 0 12
+p84
+aVSteve Kerr CHI 04/06/1997 CHI @ ORL W 18 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 2 1 0 1 1 2
+p85
+aVScottie Pippen CHI 04/04/1997 CHI vs. CLE W 38 15 6 15 40.0 2 5 40.0 1 6 16.7 0 7 7 4 2 3 0 3 17
+p86
+aVDickey Simpkins CHI 04/04/1997 CHI vs. CLE W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 0 5
+p87
+aVMichael Jordan CHI 04/04/1997 CHI vs. CLE W 38 22 9 16 56.3 0 1 0.0 4 5 80.0 1 4 5 3 1 2 0 2 18
+p88
+aVRon Harper CHI 04/04/1997 CHI vs. CLE W 22 4 2 4 50.0 0 2 0.0 0 0 - 1 2 3 3 1 0 0 3 -1
+p89
+aVRandy Brown CHI 04/04/1997 CHI vs. CLE W 17 8 3 5 60.0 0 0 - 2 4 50.0 0 1 1 1 2 1 1 0 -2
+p90
+aVJud Buechler CHI 04/04/1997 CHI vs. CLE W 20 3 1 5 20.0 1 4 25.0 0 1 0.0 0 2 2 1 0 1 2 0 13
+p91
+aVSteve Kerr CHI 04/04/1997 CHI vs. CLE W 27 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 3 1 1 0 1 4
+p92
+aVLuc Longley CHI 04/04/1997 CHI vs. CLE W 36 14 3 7 42.9 0 0 - 8 8 100.0 1 4 5 6 0 1 2 3 8
+p93
+aVJason Caffey CHI 04/04/1997 CHI vs. CLE W 27 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 0 1 3 5
+p94
+aVBison Dele CHI 04/04/1997 CHI vs. CLE W 8 6 2 2 100.0 0 0 - 2 4 50.0 2 0 2 1 0 0 1 1 -2
+p95
+aVRandy Brown CHI 04/03/1997 CHI @ WAS L 12 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 0 -6
+p96
+aVSteve Kerr CHI 04/03/1997 CHI @ WAS L 22 6 3 6 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -4
+p97
+aVMichael Jordan CHI 04/03/1997 CHI @ WAS L 39 34 14 30 46.7 1 4 25.0 5 6 83.3 0 1 1 6 2 1 2 2 -3
+p98
+aVLuc Longley CHI 04/03/1997 CHI @ WAS L 29 10 5 9 55.6 0 0 - 0 0 - 2 2 4 4 0 0 3 3 -6
+p99
+aVJason Caffey CHI 04/03/1997 CHI @ WAS L 31 10 5 7 71.4 0 0 - 0 0 - 2 6 8 3 0 0 1 2 -3
+p100
+aVDickey Simpkins CHI 04/03/1997 CHI @ WAS L 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 1 0 2 0
+p101
+aVToni Kukoc CHI 04/03/1997 CHI @ WAS L 27 5 2 7 28.6 0 3 0.0 1 2 50.0 1 7 8 5 0 0 2 2 -18
+p102
+aVScottie Pippen CHI 04/03/1997 CHI @ WAS L 38 26 9 16 56.3 3 6 50.0 5 6 83.3 1 2 3 4 3 0 1 5 -7
+p103
+aVJud Buechler CHI 04/03/1997 CHI @ WAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p104
+aVRon Harper CHI 04/03/1997 CHI @ WAS L 19 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 4
+p105
+aVToni Kukoc CHI 04/01/1997 CHI vs. BOS W 18 16 7 10 70.0 1 2 50.0 1 2 50.0 0 4 4 2 1 0 2 2 0
+p106
+aVDickey Simpkins CHI 04/01/1997 CHI vs. BOS W 12 2 1 2 50.0 0 0 - 0 2 0.0 1 4 5 1 0 0 2 1 -8
+p107
+aVRon Harper CHI 04/01/1997 CHI vs. BOS W 23 10 4 8 50.0 2 3 66.7 0 0 - 2 1 3 1 0 0 1 1 18
+p108
+aVMichael Jordan CHI 04/01/1997 CHI vs. BOS W 27 21 8 11 72.7 0 0 - 5 9 55.6 0 8 8 2 2 0 2 1 20
+p109
+aVLuc Longley CHI 04/01/1997 CHI vs. BOS W 22 12 6 10 60.0 0 0 - 0 0 - 0 5 5 1 0 3 3 3 17
+p110
+aVJud Buechler CHI 04/01/1997 CHI vs. BOS W 24 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 1 0 1 1 2 -14
+p111
+aVSteve Kerr CHI 04/01/1997 CHI vs. BOS W 21 13 5 7 71.4 1 3 33.3 2 2 100.0 0 0 0 2 2 0 1 3 -15
+p112
+aVJason Caffey CHI 04/01/1997 CHI vs. BOS W 34 16 5 8 62.5 0 0 - 6 8 75.0 3 6 9 4 1 1 4 1 1
+p113
+aVScottie Pippen CHI 04/01/1997 CHI vs. BOS W 24 11 3 9 33.3 1 4 25.0 4 4 100.0 1 2 3 7 5 0 1 0 18
+p114
+aVRobert Parish CHI 04/01/1997 CHI vs. BOS W 12 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 1 0 3 4 1 -5
+p115
+aVRandy Brown CHI 04/01/1997 CHI vs. BOS W 22 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 0 0 3 4 -7
+p116
+aVMichael Jordan CHI 03/29/1997 CHI vs. NJN W 39 21 9 21 42.9 1 2 50.0 2 3 66.7 2 4 6 10 0 2 0 3 9
+p117
+aVToni Kukoc CHI 03/29/1997 CHI vs. NJN W 24 17 7 11 63.6 3 4 75.0 0 0 - 1 3 4 4 1 0 5 0 10
+p118
+aVBill Wennington CHI 03/29/1997 CHI vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p119
+aVRon Harper CHI 03/29/1997 CHI vs. NJN W 18 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 0 1 0 1 4
+p120
+aVSteve Kerr CHI 03/29/1997 CHI vs. NJN W 25 5 2 6 33.3 1 5 20.0 0 0 - 0 2 2 4 2 0 0 1 0
+p121
+aVJason Caffey CHI 03/29/1997 CHI vs. NJN W 25 3 1 4 25.0 0 0 - 1 1 100.0 3 4 7 3 0 1 0 2 -2
+p122
+aVJud Buechler CHI 03/29/1997 CHI vs. NJN W 14 6 3 3 100.0 0 0 - 0 0 - 1 0 1 2 3 0 1 3 9
+p123
+aVRandy Brown CHI 03/29/1997 CHI vs. NJN W 13 6 2 6 33.3 0 0 - 2 4 50.0 2 0 2 1 0 0 1 0 8
+p124
+aVRobert Parish CHI 03/29/1997 CHI vs. NJN W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p125
+aVScottie Pippen CHI 03/29/1997 CHI vs. NJN W 35 31 13 24 54.2 5 9 55.6 0 0 - 2 6 8 1 3 0 1 3 0
+p126
+aVLuc Longley CHI 03/29/1997 CHI vs. NJN W 37 17 6 7 85.7 0 0 - 5 5 100.0 2 3 5 4 0 0 2 3 10
+p127
+aVScottie Pippen CHI 03/27/1997 CHI @ TOR W 36 16 8 20 40.0 0 5 0.0 0 0 - 2 5 7 7 0 0 1 4 11
+p128
+aVDickey Simpkins CHI 03/27/1997 CHI @ TOR W 5 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 9
+p129
+aVMichael Jordan CHI 03/27/1997 CHI @ TOR W 41 12 5 17 29.4 0 0 - 2 3 66.7 3 7 10 4 0 2 6 2 11
+p130
+aVLuc Longley CHI 03/27/1997 CHI @ TOR W 30 16 5 13 38.5 0 0 - 6 7 85.7 3 3 6 0 0 2 1 2 -1
+p131
+aVJason Caffey CHI 03/27/1997 CHI @ TOR W 26 12 5 7 71.4 0 0 - 2 6 33.3 5 2 7 0 2 0 2 1 -9
+p132
+aVSteve Kerr CHI 03/27/1997 CHI @ TOR W 25 7 3 6 50.0 1 2 50.0 0 0 - 0 5 5 5 1 0 1 0 8
+p133
+aVRandy Brown CHI 03/27/1997 CHI @ TOR W 12 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 1 0 0 1 15
+p134
+aVToni Kukoc CHI 03/27/1997 CHI @ TOR W 32 8 4 7 57.1 0 2 0.0 0 0 - 1 5 6 6 3 1 2 1 20
+p135
+aVRon Harper CHI 03/27/1997 CHI @ TOR W 18 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 1 -8
+p136
+aVBill Wennington CHI 03/27/1997 CHI @ TOR W 9 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 5
+p137
+aVJud Buechler CHI 03/27/1997 CHI @ TOR W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p138
+aVRon Harper CHI 03/25/1997 CHI vs. DAL W 24 2 1 5 20.0 0 3 0.0 0 0 - 1 3 4 3 1 0 0 1 9
+p139
+aVLuc Longley CHI 03/25/1997 CHI vs. DAL W 32 14 7 17 41.2 0 0 - 0 0 - 2 2 4 5 1 2 2 3 5
+p140
+aVJud Buechler CHI 03/25/1997 CHI vs. DAL W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 1 14
+p141
+aVJason Caffey CHI 03/25/1997 CHI vs. DAL W 16 9 2 3 66.7 0 0 - 5 6 83.3 1 2 3 2 0 0 2 3 0
+p142
+aVSteve Kerr CHI 03/25/1997 CHI vs. DAL W 30 20 8 10 80.0 4 5 80.0 0 0 - 2 1 3 2 1 0 1 0 8
+p143
+aVRandy Brown CHI 03/25/1997 CHI vs. DAL W 13 4 2 4 50.0 0 0 - 0 0 - 1 3 4 4 0 0 1 0 2
+p144
+aVRobert Parish CHI 03/25/1997 CHI vs. DAL W 9 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 2 1 0 0 1 1
+p145
+aVMichael Jordan CHI 03/25/1997 CHI vs. DAL W 36 20 9 20 45.0 0 1 0.0 2 2 100.0 0 1 1 3 3 0 2 3 -12
+p146
+aVDennis Rodman CHI 03/25/1997 CHI vs. DAL W 30 2 1 6 16.7 0 1 0.0 0 0 - 9 12 21 2 0 1 1 2 3
+p147
+aVBill Wennington CHI 03/25/1997 CHI vs. DAL W 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -4
+p148
+aVScottie Pippen CHI 03/25/1997 CHI vs. DAL W 33 13 5 15 33.3 0 3 0.0 3 3 100.0 4 2 6 6 0 0 3 2 -16
+p149
+aVBill Wennington CHI 03/22/1997 CHI vs. DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p150
+aVSteve Kerr CHI 03/22/1997 CHI vs. DET W 30 15 6 9 66.7 1 4 25.0 2 2 100.0 0 1 1 2 0 0 1 2 23
+p151
+aVDennis Rodman CHI 03/22/1997 CHI vs. DET W 38 7 3 4 75.0 1 2 50.0 0 0 - 3 15 18 4 0 0 0 2 19
+p152
+aVDickey Simpkins CHI 03/22/1997 CHI vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p153
+aVRandy Brown CHI 03/22/1997 CHI vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p154
+aVMichael Jordan CHI 03/22/1997 CHI vs. DET W 35 23 8 20 40.0 3 6 50.0 4 4 100.0 2 3 5 7 2 1 0 3 16
+p155
+aVLuc Longley CHI 03/22/1997 CHI vs. DET W 26 16 7 10 70.0 0 0 - 2 3 66.7 3 9 12 3 0 0 3 6 7
+p156
+aVRon Harper CHI 03/22/1997 CHI vs. DET W 28 4 1 8 12.5 0 4 0.0 2 2 100.0 1 4 5 4 0 0 4 4 4
+p157
+aVJason Caffey CHI 03/22/1997 CHI vs. DET W 25 7 2 5 40.0 0 0 - 3 4 75.0 3 1 4 1 2 0 3 4 4
+p158
+aVScottie Pippen CHI 03/22/1997 CHI vs. DET W 32 26 11 20 55.0 1 5 20.0 3 4 75.0 2 2 4 6 1 0 2 3 19
+p159
+aVJud Buechler CHI 03/22/1997 CHI vs. DET W 15 5 2 7 28.6 1 2 50.0 0 0 - 2 4 6 3 0 0 2 1 -8
+p160
+aVRon Harper CHI 03/21/1997 CHI @ IND W 21 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 1 2 3 12
+p161
+aVScottie Pippen CHI 03/21/1997 CHI @ IND W 39 18 5 11 45.5 1 2 50.0 7 9 77.8 0 4 4 8 1 0 3 0 23
+p162
+aVBill Wennington CHI 03/21/1997 CHI @ IND W 11 7 2 4 50.0 0 0 - 3 4 75.0 0 1 1 1 0 0 0 3 8
+p163
+aVSteve Kerr CHI 03/21/1997 CHI @ IND W 25 15 6 6 100.0 3 3 100.0 0 0 - 0 1 1 4 0 0 0 3 4
+p164
+aVJud Buechler CHI 03/21/1997 CHI @ IND W 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 2
+p165
+aVLuc Longley CHI 03/21/1997 CHI @ IND W 26 15 6 13 46.2 0 0 - 3 3 100.0 2 4 6 2 1 1 2 5 8
+p166
+aVJason Caffey CHI 03/21/1997 CHI @ IND W 18 11 4 8 50.0 0 0 - 3 3 100.0 1 1 2 1 1 0 1 1 2
+p167
+aVMichael Jordan CHI 03/21/1997 CHI @ IND W 40 36 11 25 44.0 1 3 33.3 13 14 92.9 4 2 6 4 2 1 2 0 17
+p168
+aVRandy Brown CHI 03/21/1997 CHI @ IND W 9 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 3
+p169
+aVRobert Parish CHI 03/21/1997 CHI @ IND W 6 7 2 2 100.0 0 0 - 3 3 100.0 1 2 3 0 0 0 1 3 -3
+p170
+aVDennis Rodman CHI 03/21/1997 CHI @ IND W 34 2 1 2 50.0 0 0 - 0 0 - 6 13 19 3 0 2 2 3 19
+p171
+aVRandy Brown CHI 03/18/1997 CHI vs. SEA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 4
+p172
+aVBill Wennington CHI 03/18/1997 CHI vs. SEA W 5 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -7
+p173
+aVSteve Kerr CHI 03/18/1997 CHI vs. SEA W 31 13 5 6 83.3 2 3 66.7 1 1 100.0 0 0 0 2 3 0 2 1 2
+p174
+aVDennis Rodman CHI 03/18/1997 CHI vs. SEA W 39 2 1 5 20.0 0 0 - 0 4 0.0 3 14 17 2 1 0 3 3 9
+p175
+aVMichael Jordan CHI 03/18/1997 CHI vs. SEA W 50 32 10 28 35.7 0 4 0.0 12 13 92.3 8 10 18 2 0 0 8 3 -2
+p176
+aVDickey Simpkins CHI 03/18/1997 CHI vs. SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p177
+aVJason Caffey CHI 03/18/1997 CHI vs. SEA W 14 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 2 2 0 0
+p178
+aVLuc Longley CHI 03/18/1997 CHI vs. SEA W 42 16 8 17 47.1 0 0 - 0 2 0.0 5 4 9 5 0 3 1 6 10
+p179
+aVScottie Pippen CHI 03/18/1997 CHI vs. SEA W 41 11 4 12 33.3 1 3 33.3 2 2 100.0 2 6 8 7 1 0 2 6 5
+p180
+aVRon Harper CHI 03/18/1997 CHI vs. SEA W 25 3 1 7 14.3 1 5 20.0 0 0 - 0 0 0 3 1 0 0 1 -1
+p181
+aVJud Buechler CHI 03/18/1997 CHI vs. SEA W 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p182
+aVJud Buechler CHI 03/15/1997 CHI vs. ATL W 9 0 0 1 0.0 0 1 0.0 0 2 0.0 0 1 1 0 0 1 0 0 -2
+p183
+aVDennis Rodman CHI 03/15/1997 CHI vs. ATL W 30 10 4 6 66.7 2 2 100.0 0 0 - 4 10 14 1 2 1 2 2 20
+p184
+aVSteve Kerr CHI 03/15/1997 CHI vs. ATL W 20 6 3 7 42.9 0 3 0.0 0 0 - 0 0 0 4 0 0 0 0 0
+p185
+aVRandy Brown CHI 03/15/1997 CHI vs. ATL W 22 11 4 5 80.0 0 0 - 3 6 50.0 0 1 1 2 1 0 0 0 10
+p186
+aVScottie Pippen CHI 03/15/1997 CHI vs. ATL W 33 17 8 14 57.1 1 1 100.0 0 0 - 2 5 7 7 2 0 3 5 26
+p187
+aVRon Harper CHI 03/15/1997 CHI vs. ATL W 27 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 5 2 0 1 3 11
+p188
+aVMichael Jordan CHI 03/15/1997 CHI vs. ATL W 29 10 5 11 45.5 0 1 0.0 0 0 - 1 3 4 3 1 2 3 1 13
+p189
+aVJason Caffey CHI 03/15/1997 CHI vs. ATL W 20 11 4 6 66.7 0 0 - 3 4 75.0 1 0 1 2 2 0 2 3 -1
+p190
+aVDickey Simpkins CHI 03/15/1997 CHI vs. ATL W 6 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 2 0 0 1 0 2
+p191
+aVLuc Longley CHI 03/15/1997 CHI vs. ATL W 29 14 7 15 46.7 0 0 - 0 0 - 3 6 9 7 1 0 2 3 20
+p192
+aVRobert Parish CHI 03/15/1997 CHI vs. ATL W 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 2 0 1 0
+p193
+aVBill Wennington CHI 03/15/1997 CHI vs. ATL W 7 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 0 1
+p194
+aVSteve Kerr CHI 03/14/1997 CHI @ NJN L 21 13 4 10 40.0 3 7 42.9 2 2 100.0 0 1 1 1 1 0 0 0 7
+p195
+aVRon Harper CHI 03/14/1997 CHI @ NJN L 20 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 1 0 1 3 -15
+p196
+aVScottie Pippen CHI 03/14/1997 CHI @ NJN L 43 21 6 19 31.6 1 5 20.0 8 8 100.0 2 7 9 9 2 1 5 3 3
+p197
+aVRandy Brown CHI 03/14/1997 CHI @ NJN L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 1 2 0 3
+p198
+aVDennis Rodman CHI 03/14/1997 CHI @ NJN L 34 2 1 8 12.5 0 0 - 0 2 0.0 13 4 17 1 0 0 0 2 -5
+p199
+aVBill Wennington CHI 03/14/1997 CHI @ NJN L 11 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 1 -1
+p200
+aVLuc Longley CHI 03/14/1997 CHI @ NJN L 22 9 4 8 50.0 0 0 - 1 1 100.0 3 0 3 2 0 1 2 6 -11
+p201
+aVMichael Jordan CHI 03/14/1997 CHI @ NJN L 39 36 16 34 47.1 1 3 33.3 3 5 60.0 2 6 8 5 0 1 1 1 5
+p202
+aVJud Buechler CHI 03/14/1997 CHI @ NJN L 18 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 2 1 3 0 2 9
+p203
+aVJason Caffey CHI 03/14/1997 CHI @ NJN L 16 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 1 0 0 1 1 0
+p204
+aVSteve Kerr CHI 03/12/1997 CHI @ PHI W 26 9 2 6 33.3 1 3 33.3 4 4 100.0 0 1 1 1 0 0 0 2 4
+p205
+aVScottie Pippen CHI 03/12/1997 CHI @ PHI W 40 31 12 18 66.7 4 5 80.0 3 6 50.0 3 3 6 8 1 1 4 4 8
+p206
+aVDennis Rodman CHI 03/12/1997 CHI @ PHI W 40 2 1 4 25.0 0 0 - 0 0 - 6 11 17 5 3 0 1 3 10
+p207
+aVBill Wennington CHI 03/12/1997 CHI @ PHI W 18 14 5 6 83.3 0 0 - 4 4 100.0 1 1 2 0 1 0 0 4 8
+p208
+aVJud Buechler CHI 03/12/1997 CHI @ PHI W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p209
+aVJason Caffey CHI 03/12/1997 CHI @ PHI W 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 2 1 -11
+p210
+aVLuc Longley CHI 03/12/1997 CHI @ PHI W 26 12 6 11 54.5 0 0 - 0 0 - 4 5 9 2 0 2 1 5 -1
+p211
+aVRon Harper CHI 03/12/1997 CHI @ PHI W 21 11 3 5 60.0 2 3 66.7 3 4 75.0 0 1 1 7 4 0 0 4 3
+p212
+aVRandy Brown CHI 03/12/1997 CHI @ PHI W 16 2 0 9 0.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 2 -13
+p213
+aVMichael Jordan CHI 03/12/1997 CHI @ PHI W 37 23 9 24 37.5 1 4 25.0 4 5 80.0 0 5 5 3 2 1 4 2 13
+p214
+aVSteve Kerr CHI 03/11/1997 CHI @ BOS W 24 12 4 7 57.1 1 2 50.0 3 4 75.0 0 3 3 2 0 0 0 1 17
+p215
+aVJud Buechler CHI 03/11/1997 CHI @ BOS W 14 4 2 5 40.0 0 2 0.0 0 0 - 4 2 6 0 2 2 2 1 17
+p216
+aVRon Harper CHI 03/11/1997 CHI @ BOS W 19 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 0 1 2 2 -5
+p217
+aVRandy Brown CHI 03/11/1997 CHI @ BOS W 17 10 4 5 80.0 0 0 - 2 3 66.7 0 2 2 4 1 0 1 4 12
+p218
+aVLuc Longley CHI 03/11/1997 CHI @ BOS W 12 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -5
+p219
+aVRobert Parish CHI 03/11/1997 CHI @ BOS W 8 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -4
+p220
+aVDennis Rodman CHI 03/11/1997 CHI @ BOS W 33 6 3 4 75.0 0 0 - 0 0 - 4 12 16 5 0 1 4 3 -13
+p221
+aVMichael Jordan CHI 03/11/1997 CHI @ BOS W 43 32 13 23 56.5 1 3 33.3 5 6 83.3 0 4 4 9 3 0 2 2 10
+p222
+aVScottie Pippen CHI 03/11/1997 CHI @ BOS W 41 27 12 22 54.5 0 6 0.0 3 3 100.0 1 7 8 7 2 1 4 2 -1
+p223
+aVJason Caffey CHI 03/11/1997 CHI @ BOS W 30 18 7 13 53.8 0 0 - 4 4 100.0 4 3 7 1 0 0 2 3 27
+p224
+aVDennis Rodman CHI 03/09/1997 CHI @ NYK L 44 9 3 5 60.0 0 1 0.0 3 4 75.0 7 12 19 1 1 0 3 5 4
+p225
+aVJud Buechler CHI 03/09/1997 CHI @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p226
+aVSteve Kerr CHI 03/09/1997 CHI @ NYK L 26 12 4 5 80.0 3 4 75.0 1 2 50.0 0 1 1 1 1 0 3 1 -13
+p227
+aVBill Wennington CHI 03/09/1997 CHI @ NYK L 16 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -13
+p228
+aVRobert Parish CHI 03/09/1997 CHI @ NYK L 7 6 1 2 50.0 0 0 - 4 5 80.0 1 0 1 0 0 0 0 0 9
+p229
+aVMichael Jordan CHI 03/09/1997 CHI @ NYK L 46 36 14 31 45.2 0 3 0.0 8 9 88.9 2 4 6 4 1 0 1 2 0
+p230
+aVRon Harper CHI 03/09/1997 CHI @ NYK L 19 2 0 2 0.0 0 2 0.0 2 2 100.0 1 1 2 3 2 0 1 2 2
+p231
+aVScottie Pippen CHI 03/09/1997 CHI @ NYK L 43 14 4 18 22.2 1 8 12.5 5 7 71.4 1 2 3 4 0 0 1 4 5
+p232
+aVLuc Longley CHI 03/09/1997 CHI @ NYK L 21 7 3 6 50.0 0 0 - 1 1 100.0 1 1 2 1 0 0 1 6 4
+p233
+aVJason Caffey CHI 03/09/1997 CHI @ NYK L 8 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 1 2 -11
+p234
+aVRandy Brown CHI 03/09/1997 CHI @ NYK L 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -5
+p235
+aVBill Wennington CHI 03/07/1997 CHI vs. IND W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p236
+aVRon Harper CHI 03/07/1997 CHI vs. IND W 28 11 4 7 57.1 2 4 50.0 1 1 100.0 0 3 3 5 0 1 0 2 9
+p237
+aVRandy Brown CHI 03/07/1997 CHI vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p238
+aVJud Buechler CHI 03/07/1997 CHI vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 1
+p239
+aVMichael Jordan CHI 03/07/1997 CHI vs. IND W 44 38 11 21 52.4 1 3 33.3 15 17 88.2 1 3 4 5 2 1 4 3 6
+p240
+aVScottie Pippen CHI 03/07/1997 CHI vs. IND W 42 24 7 16 43.8 0 1 0.0 10 13 76.9 1 4 5 9 1 0 2 3 8
+p241
+aVSteve Kerr CHI 03/07/1997 CHI vs. IND W 24 9 3 5 60.0 1 3 33.3 2 2 100.0 0 5 5 0 0 0 0 2 4
+p242
+aVRobert Parish CHI 03/07/1997 CHI vs. IND W 10 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 1 2 2
+p243
+aVLuc Longley CHI 03/07/1997 CHI vs. IND W 26 14 7 11 63.6 0 1 0.0 0 0 - 3 3 6 1 2 3 3 5 12
+p244
+aVDennis Rodman CHI 03/07/1997 CHI vs. IND W 42 4 1 6 16.7 0 1 0.0 2 2 100.0 8 10 18 4 3 0 7 2 1
+p245
+aVJason Caffey CHI 03/07/1997 CHI vs. IND W 16 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 1 0 0 1 3 1
+p246
+aVRobert Parish CHI 03/05/1997 CHI vs. SAS W 16 9 4 8 50.0 0 0 - 1 3 33.3 5 2 7 0 0 0 1 1 8
+p247
+aVScottie Pippen CHI 03/05/1997 CHI vs. SAS W 30 19 8 14 57.1 3 5 60.0 0 0 - 2 6 8 2 5 0 0 1 21
+p248
+aVRon Harper CHI 03/05/1997 CHI vs. SAS W 21 7 2 5 40.0 1 3 33.3 2 2 100.0 1 2 3 4 2 1 0 2 18
+p249
+aVLuc Longley CHI 03/05/1997 CHI vs. SAS W 27 8 3 9 33.3 0 0 - 2 2 100.0 2 8 10 2 2 6 2 3 28
+p250
+aVMichael Jordan CHI 03/05/1997 CHI vs. SAS W 24 16 7 17 41.2 1 4 25.0 1 2 50.0 1 1 2 4 2 0 0 1 23
+p251
+aVSteve Kerr CHI 03/05/1997 CHI vs. SAS W 23 9 3 12 25.0 1 7 14.3 2 2 100.0 2 2 4 7 2 0 1 1 20
+p252
+aVRandy Brown CHI 03/05/1997 CHI vs. SAS W 27 9 3 12 25.0 0 1 0.0 3 3 100.0 2 5 7 8 2 1 4 1 20
+p253
+aVJason Caffey CHI 03/05/1997 CHI vs. SAS W 36 11 4 10 40.0 0 0 - 3 5 60.0 5 5 10 4 1 0 1 0 27
+p254
+aVJud Buechler CHI 03/05/1997 CHI vs. SAS W 19 12 5 8 62.5 2 3 66.7 0 0 - 1 3 4 2 0 1 0 0 24
+p255
+aVDickey Simpkins CHI 03/05/1997 CHI vs. SAS W 18 11 3 8 37.5 1 1 100.0 4 4 100.0 5 4 9 0 0 0 2 3 21
+p256
+aVJason Caffey CHI 03/03/1997 CHI vs. MIL W 26 13 5 8 62.5 0 0 - 3 4 75.0 3 0 3 3 0 0 0 2 1
+p257
+aVRandy Brown CHI 03/03/1997 CHI vs. MIL W 22 8 2 6 33.3 0 0 - 4 5 80.0 1 1 2 2 0 1 1 2 16
+p258
+aVJud Buechler CHI 03/03/1997 CHI vs. MIL W 17 0 0 2 0.0 0 0 - 0 0 - 0 6 6 2 0 1 3 0 -8
+p259
+aVLuc Longley CHI 03/03/1997 CHI vs. MIL W 26 13 6 9 66.7 0 0 - 1 1 100.0 2 7 9 2 1 0 1 2 16
+p260
+aVDennis Rodman CHI 03/03/1997 CHI vs. MIL W 32 5 2 3 66.7 0 0 - 1 2 50.0 4 7 11 7 2 0 1 4 24
+p261
+aVRon Harper CHI 03/03/1997 CHI vs. MIL W 16 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 2 0 0 0 5 8
+p262
+aVMichael Jordan CHI 03/03/1997 CHI vs. MIL W 36 31 11 19 57.9 3 7 42.9 6 6 100.0 0 3 3 6 2 0 2 2 17
+p263
+aVDickey Simpkins CHI 03/03/1997 CHI vs. MIL W 5 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 3 1 2
+p264
+aVScottie Pippen CHI 03/03/1997 CHI vs. MIL W 34 25 10 24 41.7 3 8 37.5 2 3 66.7 3 2 5 5 5 0 2 2 21
+p265
+aVSteve Kerr CHI 03/03/1997 CHI vs. MIL W 18 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 0
+p266
+aVRobert Parish CHI 03/03/1997 CHI vs. MIL W 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -7
+p267
+aVRon Harper CHI 02/28/1997 CHI vs. SAC W 23 6 1 3 33.3 0 1 0.0 4 5 80.0 0 0 0 6 3 0 0 0 2
+p268
+aVDennis Rodman CHI 02/28/1997 CHI vs. SAC W 27 6 2 3 66.7 0 0 - 2 2 100.0 2 9 11 4 0 1 4 3 2
+p269
+aVRobert Parish CHI 02/28/1997 CHI vs. SAC W 7 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 15
+p270
+aVSteve Kerr CHI 02/28/1997 CHI vs. SAC W 22 5 2 4 50.0 1 2 50.0 0 0 - 1 3 4 5 0 0 1 2 16
+p271
+aVLuc Longley CHI 02/28/1997 CHI vs. SAC W 28 12 5 8 62.5 0 0 - 2 4 50.0 1 5 6 3 1 2 2 4 10
+p272
+aVJason Caffey CHI 02/28/1997 CHI vs. SAC W 28 15 5 14 35.7 0 0 - 5 9 55.6 4 3 7 1 2 0 1 3 13
+p273
+aVDickey Simpkins CHI 02/28/1997 CHI vs. SAC W 7 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -4
+p274
+aVRandy Brown CHI 02/28/1997 CHI vs. SAC W 21 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 1 1 0 1 4 -8
+p275
+aVScottie Pippen CHI 02/28/1997 CHI vs. SAC W 26 29 10 16 62.5 4 7 57.1 5 7 71.4 2 3 5 4 0 1 2 1 5
+p276
+aVJud Buechler CHI 02/28/1997 CHI vs. SAC W 17 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 3 0 1 1 10
+p277
+aVMichael Jordan CHI 02/28/1997 CHI vs. SAC W 35 35 13 20 65.0 5 7 71.4 4 5 80.0 1 8 9 6 1 1 2 2 29
+p278
+aVScottie Pippen CHI 02/27/1997 CHI @ CLE L 43 14 5 13 38.5 0 4 0.0 4 6 66.7 6 8 14 2 3 0 5 3 -2
+p279
+aVLuc Longley CHI 02/27/1997 CHI @ CLE L 17 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -11
+p280
+aVMichael Jordan CHI 02/27/1997 CHI @ CLE L 43 23 7 25 28.0 0 3 0.0 9 9 100.0 1 7 8 4 0 0 2 2 -10
+p281
+aVRandy Brown CHI 02/27/1997 CHI @ CLE L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p282
+aVJud Buechler CHI 02/27/1997 CHI @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p283
+aVJason Caffey CHI 02/27/1997 CHI @ CLE L 17 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -1
+p284
+aVDennis Rodman CHI 02/27/1997 CHI @ CLE L 39 16 6 11 54.5 0 0 - 4 4 100.0 7 9 16 1 0 1 2 5 8
+p285
+aVRon Harper CHI 02/27/1997 CHI @ CLE L 29 2 1 8 12.5 0 2 0.0 0 0 - 1 1 2 1 0 1 0 2 -7
+p286
+aVToni Kukoc CHI 02/27/1997 CHI @ CLE L 23 4 1 6 16.7 0 2 0.0 2 4 50.0 1 2 3 2 0 0 1 0 -4
+p287
+aVSteve Kerr CHI 02/27/1997 CHI @ CLE L 23 3 1 4 25.0 1 3 33.3 0 1 0.0 0 2 2 1 2 0 1 1 10
+p288
+aVRandy Brown CHI 02/24/1997 CHI vs. POR W 15 2 1 3 33.3 0 0 - 0 0 - 1 1 2 5 3 1 1 0 2
+p289
+aVMichael Jordan CHI 02/24/1997 CHI vs. POR W 30 37 13 27 48.1 3 7 42.9 8 9 88.9 1 3 4 3 0 0 1 1 23
+p290
+aVDickey Simpkins CHI 02/24/1997 CHI vs. POR W 8 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 3 0 -3
+p291
+aVSteve Kerr CHI 02/24/1997 CHI vs. POR W 19 10 4 6 66.7 2 3 66.7 0 0 - 0 2 2 3 2 0 2 1 4
+p292
+aVLuc Longley CHI 02/24/1997 CHI vs. POR W 16 0 0 6 0.0 0 0 - 0 0 - 4 1 5 0 0 0 2 2 5
+p293
+aVJason Caffey CHI 02/24/1997 CHI vs. POR W 17 7 2 7 28.6 0 0 - 3 3 100.0 3 2 5 2 0 1 1 2 8
+p294
+aVDennis Rodman CHI 02/24/1997 CHI vs. POR W 28 4 1 2 50.0 0 0 - 2 2 100.0 6 9 15 3 1 0 1 4 19
+p295
+aVRon Harper CHI 02/24/1997 CHI vs. POR W 21 11 5 11 45.5 1 3 33.3 0 0 - 1 1 2 1 1 0 0 0 14
+p296
+aVScottie Pippen CHI 02/24/1997 CHI vs. POR W 35 22 9 12 75.0 1 2 50.0 3 3 100.0 3 6 9 11 1 0 0 2 24
+p297
+aVRobert Parish CHI 02/24/1997 CHI vs. POR W 19 6 3 8 37.5 0 0 - 0 0 - 2 2 4 1 1 0 1 1 19
+p298
+aVToni Kukoc CHI 02/24/1997 CHI vs. POR W 23 13 6 11 54.5 1 2 50.0 0 0 - 5 3 8 3 0 0 2 2 22
+p299
+aVJud Buechler CHI 02/24/1997 CHI vs. POR W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -2
+p300
+aVRon Harper CHI 02/22/1997 CHI vs. GSW W 30 10 3 7 42.9 2 4 50.0 2 2 100.0 1 4 5 7 4 0 2 1 24
+p301
+aVDickey Simpkins CHI 02/22/1997 CHI vs. GSW W 11 7 1 3 33.3 0 1 0.0 5 6 83.3 0 1 1 0 0 0 0 4 -1
+p302
+aVLuc Longley CHI 02/22/1997 CHI vs. GSW W 19 6 2 7 28.6 0 0 - 2 4 50.0 3 3 6 1 0 0 0 0 15
+p303
+aVSteve Kerr CHI 02/22/1997 CHI vs. GSW W 29 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 7 3 0 1 2 18
+p304
+aVJason Caffey CHI 02/22/1997 CHI vs. GSW W 22 13 5 7 71.4 0 0 - 3 3 100.0 1 6 7 3 0 0 1 0 20
+p305
+aVBill Wennington CHI 02/22/1997 CHI vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p306
+aVDennis Rodman CHI 02/22/1997 CHI vs. GSW W 22 5 1 3 33.3 0 0 - 3 4 75.0 6 6 12 2 0 0 3 5 19
+p307
+aVMichael Jordan CHI 02/22/1997 CHI vs. GSW W 31 34 13 19 68.4 5 8 62.5 3 4 75.0 1 4 5 1 3 0 2 1 22
+p308
+aVToni Kukoc CHI 02/22/1997 CHI vs. GSW W 28 15 5 12 41.7 1 3 33.3 4 5 80.0 2 8 10 5 3 1 0 1 18
+p309
+aVJud Buechler CHI 02/22/1997 CHI vs. GSW W 15 6 2 5 40.0 2 2 100.0 0 0 - 0 1 1 1 0 0 1 1 11
+p310
+aVScottie Pippen CHI 02/22/1997 CHI vs. GSW W 32 22 9 18 50.0 1 6 16.7 3 4 75.0 1 4 5 5 2 0 6 3 19
+p311
+aVMichael Jordan CHI 02/21/1997 CHI @ WAS W 45 36 13 28 46.4 3 4 75.0 7 12 58.3 1 3 4 4 1 0 2 2 4
+p312
+aVJud Buechler CHI 02/21/1997 CHI @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p313
+aVRon Harper CHI 02/21/1997 CHI @ WAS W 28 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 1 7
+p314
+aVRobert Parish CHI 02/21/1997 CHI @ WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p315
+aVSteve Kerr CHI 02/21/1997 CHI @ WAS W 18 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 1 12
+p316
+aVJason Caffey CHI 02/21/1997 CHI @ WAS W 9 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 1 0 0 0 1
+p317
+aVToni Kukoc CHI 02/21/1997 CHI @ WAS W 24 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 4 1 0 2 2 7
+p318
+aVLuc Longley CHI 02/21/1997 CHI @ WAS W 31 13 6 11 54.5 0 0 - 1 2 50.0 3 4 7 3 1 0 3 6 -16
+p319
+aVDennis Rodman CHI 02/21/1997 CHI @ WAS W 38 4 1 2 50.0 0 0 - 2 2 100.0 3 9 12 2 0 0 2 3 4
+p320
+aVScottie Pippen CHI 02/21/1997 CHI @ WAS W 41 28 9 18 50.0 4 7 57.1 6 6 100.0 4 6 10 7 3 1 4 3 6
+p321
+aVDennis Rodman CHI 02/18/1997 CHI vs. DEN W 35 3 1 5 20.0 0 1 0.0 1 2 50.0 4 9 13 5 0 0 4 2 9
+p322
+aVRon Harper CHI 02/18/1997 CHI vs. DEN W 26 11 4 6 66.7 3 4 75.0 0 0 - 1 2 3 5 2 0 0 4 13
+p323
+aVSteve Kerr CHI 02/18/1997 CHI vs. DEN W 24 18 6 8 75.0 4 4 100.0 2 2 100.0 0 0 0 2 1 0 0 0 -2
+p324
+aVMichael Jordan CHI 02/18/1997 CHI vs. DEN W 32 24 10 18 55.6 1 3 33.3 3 4 75.0 2 3 5 12 3 0 0 3 18
+p325
+aVRobert Parish CHI 02/18/1997 CHI vs. DEN W 4 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -2
+p326
+aVToni Kukoc CHI 02/18/1997 CHI vs. DEN W 28 11 5 14 35.7 0 4 0.0 1 1 100.0 2 2 4 11 3 1 2 3 0
+p327
+aVJud Buechler CHI 02/18/1997 CHI vs. DEN W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p328
+aVJason Caffey CHI 02/18/1997 CHI vs. DEN W 18 10 3 6 50.0 0 0 - 4 7 57.1 4 0 4 1 0 0 0 5 1
+p329
+aVLuc Longley CHI 02/18/1997 CHI vs. DEN W 26 6 3 8 37.5 0 0 - 0 0 - 1 2 3 1 0 1 0 2 12
+p330
+aVScottie Pippen CHI 02/18/1997 CHI vs. DEN W 41 47 19 27 70.4 2 5 40.0 7 7 100.0 4 1 5 4 2 0 1 3 7
+p331
+aVLuc Longley CHI 02/16/1997 CHI vs. ORL W 26 7 2 10 20.0 0 0 - 3 4 75.0 3 6 9 3 0 2 4 3 5
+p332
+aVJason Caffey CHI 02/16/1997 CHI vs. ORL W 14 10 5 7 71.4 0 0 - 0 0 - 1 3 4 0 0 0 2 1 12
+p333
+aVToni Kukoc CHI 02/16/1997 CHI vs. ORL W 26 20 7 13 53.8 2 4 50.0 4 4 100.0 2 1 3 5 0 0 2 1 7
+p334
+aVJud Buechler CHI 02/16/1997 CHI vs. ORL W 6 6 2 3 66.7 0 1 0.0 2 2 100.0 1 0 1 1 0 1 0 0 2
+p335
+aVSteve Kerr CHI 02/16/1997 CHI vs. ORL W 12 4 2 4 50.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 2 8
+p336
+aVMichael Jordan CHI 02/16/1997 CHI vs. ORL W 38 19 8 20 40.0 3 4 75.0 0 0 - 1 7 8 10 4 0 2 3 25
+p337
+aVRobert Parish CHI 02/16/1997 CHI vs. ORL W 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 2 0 3 5
+p338
+aVDickey Simpkins CHI 02/16/1997 CHI vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p339
+aVDennis Rodman CHI 02/16/1997 CHI vs. ORL W 30 7 3 3 100.0 0 0 - 1 1 100.0 5 8 13 2 1 0 2 2 8
+p340
+aVScottie Pippen CHI 02/16/1997 CHI vs. ORL W 44 22 10 17 58.8 1 5 20.0 1 2 50.0 4 2 6 11 6 1 3 2 19
+p341
+aVRon Harper CHI 02/16/1997 CHI vs. ORL W 28 10 4 7 57.1 2 4 50.0 0 0 - 1 1 2 2 1 1 0 2 9
+p342
+aVBill Wennington CHI 02/16/1997 CHI vs. ORL W 4 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 5
+p343
+aVToni Kukoc CHI 02/14/1997 CHI @ ATL W 33 21 8 12 66.7 2 4 50.0 3 3 100.0 1 4 5 3 3 1 2 2 -2
+p344
+aVDennis Rodman CHI 02/14/1997 CHI @ ATL W 30 2 1 1 100.0 0 0 - 0 0 - 4 8 12 1 0 0 1 6 3
+p345
+aVRon Harper CHI 02/14/1997 CHI @ ATL W 27 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 1 0 1 0 0 -5
+p346
+aVMichael Jordan CHI 02/14/1997 CHI @ ATL W 45 30 13 28 46.4 1 2 50.0 3 5 60.0 3 5 8 4 2 0 4 0 3
+p347
+aVJud Buechler CHI 02/14/1997 CHI @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p348
+aVSteve Kerr CHI 02/14/1997 CHI @ ATL W 19 3 1 5 20.0 0 2 0.0 1 2 50.0 1 0 1 1 0 0 0 0 -1
+p349
+aVJason Caffey CHI 02/14/1997 CHI @ ATL W 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -6
+p350
+aVScottie Pippen CHI 02/14/1997 CHI @ ATL W 39 13 6 14 42.9 1 5 20.0 0 2 0.0 2 9 11 4 2 1 6 4 9
+p351
+aVLuc Longley CHI 02/14/1997 CHI @ ATL W 37 12 5 14 35.7 0 0 - 2 5 40.0 2 4 6 1 0 1 2 1 4
+p352
+aVRon Harper CHI 02/11/1997 CHI vs. CHH W 23 10 4 8 50.0 2 3 66.7 0 0 - 2 0 2 2 3 0 0 1 12
+p353
+aVJason Caffey CHI 02/11/1997 CHI vs. CHH W 11 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 2 4 3
+p354
+aVMichael Jordan CHI 02/11/1997 CHI vs. CHH W 42 43 16 24 66.7 1 2 50.0 10 14 71.4 0 5 5 4 3 0 5 2 4
+p355
+aVScottie Pippen CHI 02/11/1997 CHI vs. CHH W 34 5 2 13 15.4 1 3 33.3 0 0 - 5 5 10 7 2 0 2 5 -2
+p356
+aVToni Kukoc CHI 02/11/1997 CHI vs. CHH W 23 10 5 10 50.0 0 3 0.0 0 0 - 0 3 3 0 0 0 1 0 -6
+p357
+aVBill Wennington CHI 02/11/1997 CHI vs. CHH W 7 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 0 0 0 1 1
+p358
+aVSteve Kerr CHI 02/11/1997 CHI vs. CHH W 29 9 4 8 50.0 1 4 25.0 0 0 - 1 1 2 2 1 0 0 0 1
+p359
+aVRobert Parish CHI 02/11/1997 CHI vs. CHH W 8 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 0
+p360
+aVDennis Rodman CHI 02/11/1997 CHI vs. CHH W 37 3 1 3 33.3 0 0 - 1 1 100.0 5 9 14 5 0 0 2 5 0
+p361
+aVLuc Longley CHI 02/11/1997 CHI vs. CHH W 26 12 5 8 62.5 0 0 - 2 2 100.0 0 3 3 4 0 2 1 3 2
+p362
+aVDickey Simpkins CHI 02/05/1997 CHI @ LAL L 14 0 0 2 0.0 0 0 - 0 0 - 1 1 2 3 0 0 2 3 -8
+p363
+aVRon Harper CHI 02/05/1997 CHI @ LAL L 19 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 4 0 0 1 0 -11
+p364
+aVMichael Jordan CHI 02/05/1997 CHI @ LAL L 39 27 10 24 41.7 2 5 40.0 5 6 83.3 1 3 4 4 1 1 2 1 -7
+p365
+aVRobert Parish CHI 02/05/1997 CHI @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p366
+aVScottie Pippen CHI 02/05/1997 CHI @ LAL L 37 22 8 16 50.0 3 8 37.5 3 4 75.0 1 4 5 9 1 0 2 4 -21
+p367
+aVJud Buechler CHI 02/05/1997 CHI @ LAL L 12 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 2 0 0 -3
+p368
+aVBill Wennington CHI 02/05/1997 CHI @ LAL L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -4
+p369
+aVToni Kukoc CHI 02/05/1997 CHI @ LAL L 33 11 4 10 40.0 1 2 50.0 2 3 66.7 2 4 6 6 0 2 1 1 -3
+p370
+aVRandy Brown CHI 02/05/1997 CHI @ LAL L 14 1 0 3 0.0 0 1 0.0 1 2 50.0 1 3 4 1 1 0 1 0 -8
+p371
+aVSteve Kerr CHI 02/05/1997 CHI @ LAL L 21 6 2 6 33.3 1 2 50.0 1 3 33.3 0 0 0 0 1 0 1 2 -4
+p372
+aVLuc Longley CHI 02/05/1997 CHI @ LAL L 16 8 4 6 66.7 0 0 - 0 0 - 1 1 2 1 0 1 1 4 3
+p373
+aVJason Caffey CHI 02/05/1997 CHI @ LAL L 20 6 3 8 37.5 0 0 - 0 0 - 3 2 5 2 0 0 0 3 -12
+p374
+aVJud Buechler CHI 02/04/1997 CHI @ POR W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p375
+aVDickey Simpkins CHI 02/04/1997 CHI @ POR W 12 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 0 5
+p376
+aVBill Wennington CHI 02/04/1997 CHI @ POR W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p377
+aVToni Kukoc CHI 02/04/1997 CHI @ POR W 38 6 3 10 30.0 0 2 0.0 0 0 - 2 4 6 5 0 2 3 0 12
+p378
+aVRandy Brown CHI 02/04/1997 CHI @ POR W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 3 2
+p379
+aVMichael Jordan CHI 02/04/1997 CHI @ POR W 41 36 15 30 50.0 1 4 25.0 5 5 100.0 1 4 5 2 1 2 0 3 -1
+p380
+aVJason Caffey CHI 02/04/1997 CHI @ POR W 17 5 1 3 33.3 0 0 - 3 5 60.0 0 2 2 1 0 0 1 3 7
+p381
+aVLuc Longley CHI 02/04/1997 CHI @ POR W 28 14 4 8 50.0 0 0 - 6 6 100.0 1 3 4 2 0 0 1 4 -10
+p382
+aVRon Harper CHI 02/04/1997 CHI @ POR W 22 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 3 2 0 0 2 -11
+p383
+aVScottie Pippen CHI 02/04/1997 CHI @ POR W 40 21 7 16 43.8 2 4 50.0 5 11 45.5 3 5 8 1 1 2 1 3 2
+p384
+aVSteve Kerr CHI 02/04/1997 CHI @ POR W 19 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 1 9
+p385
+aVJud Buechler CHI 02/02/1997 CHI @ SEA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p386
+aVRandy Brown CHI 02/02/1997 CHI @ SEA W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 2 9
+p387
+aVSteve Kerr CHI 02/02/1997 CHI @ SEA W 22 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 1 2 0 0 2 2
+p388
+aVDickey Simpkins CHI 02/02/1997 CHI @ SEA W 14 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 1 3 11
+p389
+aVToni Kukoc CHI 02/02/1997 CHI @ SEA W 39 8 3 12 25.0 1 3 33.3 1 2 50.0 1 5 6 9 1 0 3 2 -4
+p390
+aVScottie Pippen CHI 02/02/1997 CHI @ SEA W 43 7 2 14 14.3 0 5 0.0 3 4 75.0 1 3 4 3 3 2 4 4 0
+p391
+aVLuc Longley CHI 02/02/1997 CHI @ SEA W 22 6 3 5 60.0 0 0 - 0 0 - 3 2 5 3 0 0 2 5 -5
+p392
+aVBill Wennington CHI 02/02/1997 CHI @ SEA W 8 5 1 2 50.0 0 0 - 3 3 100.0 0 0 0 0 0 1 0 2 -1
+p393
+aVMichael Jordan CHI 02/02/1997 CHI @ SEA W 45 45 19 28 67.9 2 3 66.7 5 6 83.3 3 4 7 3 1 0 1 2 4
+p394
+aVJason Caffey CHI 02/02/1997 CHI @ SEA W 17 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 1 0 0 1 3 17
+p395
+aVRon Harper CHI 02/02/1997 CHI @ SEA W 19 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 1 1 0 0 4 0
+p396
+aVDickey Simpkins CHI 01/31/1997 CHI @ GSW W 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -5
+p397
+aVToni Kukoc CHI 01/31/1997 CHI @ GSW W 28 18 7 10 70.0 0 0 - 4 5 80.0 2 7 9 3 1 0 0 1 37
+p398
+aVSteve Kerr CHI 01/31/1997 CHI @ GSW W 19 11 4 5 80.0 3 4 75.0 0 0 - 2 1 3 2 0 0 1 1 -14
+p399
+aVRobert Parish CHI 01/31/1997 CHI @ GSW W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p400
+aVBill Wennington CHI 01/31/1997 CHI @ GSW W 8 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p401
+aVJason Caffey CHI 01/31/1997 CHI @ GSW W 20 15 6 7 85.7 0 0 - 3 4 75.0 1 2 3 1 1 0 0 3 4
+p402
+aVScottie Pippen CHI 01/31/1997 CHI @ GSW W 38 32 14 24 58.3 2 4 50.0 2 3 66.7 4 6 10 7 1 0 7 1 28
+p403
+aVMichael Jordan CHI 01/31/1997 CHI @ GSW W 32 18 8 17 47.1 1 6 16.7 1 1 100.0 0 4 4 8 3 0 2 2 22
+p404
+aVRandy Brown CHI 01/31/1997 CHI @ GSW W 18 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 2 0 0 1 12
+p405
+aVRon Harper CHI 01/31/1997 CHI @ GSW W 29 5 2 4 50.0 1 3 33.3 0 0 - 1 2 3 1 2 2 0 2 27
+p406
+aVLuc Longley CHI 01/31/1997 CHI @ GSW W 22 4 1 3 33.3 0 0 - 2 2 100.0 3 3 6 2 1 0 2 4 29
+p407
+aVJud Buechler CHI 01/31/1997 CHI @ GSW W 14 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 2 2 0 0 2 -15
+p408
+aVJason Caffey CHI 01/30/1997 CHI @ SAC W 24 11 5 8 62.5 0 0 - 1 1 100.0 3 1 4 1 1 0 2 4 4
+p409
+aVMichael Jordan CHI 01/30/1997 CHI @ SAC W 40 32 11 19 57.9 1 5 20.0 9 10 90.0 0 6 6 2 3 0 2 3 13
+p410
+aVToni Kukoc CHI 01/30/1997 CHI @ SAC W 35 16 7 11 63.6 0 2 0.0 2 4 50.0 3 1 4 6 0 1 2 2 13
+p411
+aVJud Buechler CHI 01/30/1997 CHI @ SAC W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p412
+aVLuc Longley CHI 01/30/1997 CHI @ SAC W 35 7 2 9 22.2 0 0 - 3 4 75.0 1 10 11 5 0 1 1 0 20
+p413
+aVRandy Brown CHI 01/30/1997 CHI @ SAC W 16 11 5 5 100.0 0 0 - 1 1 100.0 0 1 1 2 0 1 0 2 6
+p414
+aVBill Wennington CHI 01/30/1997 CHI @ SAC W 8 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -1
+p415
+aVRon Harper CHI 01/30/1997 CHI @ SAC W 23 7 1 4 25.0 1 4 25.0 4 6 66.7 0 5 5 1 1 0 0 2 15
+p416
+aVScottie Pippen CHI 01/30/1997 CHI @ SAC W 42 22 9 17 52.9 2 6 33.3 2 2 100.0 2 3 5 6 4 1 5 3 15
+p417
+aVSteve Kerr CHI 01/30/1997 CHI @ SAC W 18 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 1 2
+p418
+aVLuc Longley CHI 01/28/1997 CHI @ VAN W 21 8 3 8 37.5 0 0 - 2 3 66.7 1 3 4 0 1 1 3 2 8
+p419
+aVSteve Kerr CHI 01/28/1997 CHI @ VAN W 19 5 2 3 66.7 0 0 - 1 3 33.3 0 0 0 1 0 0 2 1 12
+p420
+aVJason Caffey CHI 01/28/1997 CHI @ VAN W 22 19 7 12 58.3 0 0 - 5 6 83.3 2 2 4 2 1 0 3 3 4
+p421
+aVRobert Parish CHI 01/28/1997 CHI @ VAN W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p422
+aVToni Kukoc CHI 01/28/1997 CHI @ VAN W 30 6 3 7 42.9 0 1 0.0 0 0 - 5 3 8 11 1 0 2 0 0
+p423
+aVBill Wennington CHI 01/28/1997 CHI @ VAN W 13 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 0 13
+p424
+aVRandy Brown CHI 01/28/1997 CHI @ VAN W 21 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 4 0 3 1 -14
+p425
+aVScottie Pippen CHI 01/28/1997 CHI @ VAN W 30 24 10 15 66.7 1 2 50.0 3 3 100.0 3 7 10 3 2 0 2 3 22
+p426
+aVDickey Simpkins CHI 01/28/1997 CHI @ VAN W 7 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 0 0 1 0 -5
+p427
+aVRon Harper CHI 01/28/1997 CHI @ VAN W 26 7 3 4 75.0 0 1 0.0 1 2 50.0 0 1 1 2 2 1 0 0 30
+p428
+aVJud Buechler CHI 01/28/1997 CHI @ VAN W 12 6 3 3 100.0 0 0 - 0 0 - 2 0 2 4 2 0 0 1 -1
+p429
+aVMichael Jordan CHI 01/28/1997 CHI @ VAN W 32 28 12 19 63.2 1 3 33.3 3 4 75.0 1 3 4 3 4 0 2 1 9
+p430
+aVBill Wennington CHI 01/25/1997 CHI vs. TOR W 17 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 0 1 4 7
+p431
+aVToni Kukoc CHI 01/25/1997 CHI vs. TOR W 34 18 8 16 50.0 1 2 50.0 1 2 50.0 1 3 4 13 3 0 1 1 4
+p432
+aVScottie Pippen CHI 01/25/1997 CHI vs. TOR W 35 12 6 10 60.0 0 1 0.0 0 0 - 1 1 2 8 1 0 2 1 9
+p433
+aVRon Harper CHI 01/25/1997 CHI vs. TOR W 22 11 5 8 62.5 1 3 33.3 0 0 - 0 1 1 3 2 0 0 2 7
+p434
+aVJason Caffey CHI 01/25/1997 CHI vs. TOR W 26 8 3 7 42.9 0 0 - 2 2 100.0 0 6 6 2 0 0 2 0 10
+p435
+aVLuc Longley CHI 01/25/1997 CHI vs. TOR W 24 16 7 11 63.6 0 0 - 2 2 100.0 1 4 5 1 0 1 3 0 10
+p436
+aVRandy Brown CHI 01/25/1997 CHI vs. TOR W 20 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 2 0 0 1 5 -16
+p437
+aVRobert Parish CHI 01/25/1997 CHI vs. TOR W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 0 1 1 -5
+p438
+aVMichael Jordan CHI 01/25/1997 CHI vs. TOR W 31 24 10 16 62.5 3 4 75.0 1 2 50.0 1 2 3 4 2 0 0 1 20
+p439
+aVSteve Kerr CHI 01/25/1997 CHI vs. TOR W 20 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 2 1 0 1 2 14
+p440
+aVJud Buechler CHI 01/25/1997 CHI vs. TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p441
+aVRandy Brown CHI 01/23/1997 CHI @ CLE W 19 6 3 5 60.0 0 0 - 0 1 0.0 0 1 1 0 1 0 4 2 -7
+p442
+aVRon Harper CHI 01/23/1997 CHI @ CLE W 29 5 2 6 33.3 1 1 100.0 0 0 - 0 3 3 2 0 0 1 3 23
+p443
+aVLuc Longley CHI 01/23/1997 CHI @ CLE W 27 0 0 5 0.0 0 0 - 0 0 - 2 5 7 4 0 0 4 2 -11
+p444
+aVMichael Jordan CHI 01/23/1997 CHI @ CLE W 39 32 10 24 41.7 1 5 20.0 11 12 91.7 1 8 9 0 1 0 4 2 16
+p445
+aVBill Wennington CHI 01/23/1997 CHI @ CLE W 8 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 3 11
+p446
+aVJason Caffey CHI 01/23/1997 CHI @ CLE W 21 11 3 4 75.0 0 0 - 5 6 83.3 3 1 4 2 1 0 1 0 9
+p447
+aVScottie Pippen CHI 01/23/1997 CHI @ CLE W 41 13 5 11 45.5 1 2 50.0 2 2 100.0 5 7 12 8 1 0 6 3 9
+p448
+aVToni Kukoc CHI 01/23/1997 CHI @ CLE W 35 13 4 9 44.4 1 3 33.3 4 4 100.0 7 3 10 4 0 1 2 2 11
+p449
+aVSteve Kerr CHI 01/23/1997 CHI @ CLE W 19 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 1 1 0 0 0 17
+p450
+aVJud Buechler CHI 01/23/1997 CHI @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p451
+aVScottie Pippen CHI 01/21/1997 CHI vs. NYK W 40 15 6 15 40.0 2 8 25.0 1 1 100.0 2 8 10 9 3 0 5 2 2
+p452
+aVBill Wennington CHI 01/21/1997 CHI vs. NYK W 16 7 3 6 50.0 0 0 - 1 2 50.0 1 6 7 0 0 0 1 0 5
+p453
+aVLuc Longley CHI 01/21/1997 CHI vs. NYK W 32 2 1 5 20.0 0 0 - 0 2 0.0 3 3 6 0 0 1 4 2 -4
+p454
+aVSteve Kerr CHI 01/21/1997 CHI vs. NYK W 22 3 1 5 20.0 1 5 20.0 0 0 - 1 1 2 0 0 0 1 2 -15
+p455
+aVToni Kukoc CHI 01/21/1997 CHI vs. NYK W 32 6 3 9 33.3 0 4 0.0 0 0 - 2 3 5 2 2 0 0 0 15
+p456
+aVRandy Brown CHI 01/21/1997 CHI vs. NYK W 31 2 1 4 25.0 0 0 - 0 0 - 2 2 4 7 4 0 4 1 7
+p457
+aVMichael Jordan CHI 01/21/1997 CHI vs. NYK W 43 51 18 30 60.0 5 8 62.5 10 11 90.9 1 3 4 4 2 0 2 1 7
+p458
+aVJason Caffey CHI 01/21/1997 CHI vs. NYK W 24 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 0 2 1 -12
+p459
+aVScottie Pippen CHI 01/19/1997 CHI @ HOU L 41 5 2 14 14.3 0 7 0.0 1 1 100.0 1 7 8 7 1 0 6 3 -12
+p460
+aVRandy Brown CHI 01/19/1997 CHI @ HOU L 21 11 5 10 50.0 0 3 0.0 1 2 50.0 0 3 3 1 2 1 1 2 -6
+p461
+aVMichael Jordan CHI 01/19/1997 CHI @ HOU L 43 26 8 25 32.0 1 6 16.7 9 9 100.0 3 11 14 5 1 1 1 0 -17
+p462
+aVSteve Kerr CHI 01/19/1997 CHI @ HOU L 24 11 4 7 57.1 3 5 60.0 0 0 - 0 1 1 1 1 0 0 0 -11
+p463
+aVLuc Longley CHI 01/19/1997 CHI @ HOU L 26 12 5 10 50.0 0 0 - 2 2 100.0 1 3 4 1 0 1 2 4 -11
+p464
+aVJason Caffey CHI 01/19/1997 CHI @ HOU L 26 4 2 5 40.0 0 0 - 0 0 - 2 1 3 4 0 0 1 5 -9
+p465
+aVToni Kukoc CHI 01/19/1997 CHI @ HOU L 38 3 1 10 10.0 0 2 0.0 1 2 50.0 6 1 7 2 2 2 1 1 -17
+p466
+aVBill Wennington CHI 01/19/1997 CHI @ HOU L 20 14 6 10 60.0 0 0 - 2 2 100.0 6 4 10 0 0 0 0 3 3
+p467
+aVMichael Jordan CHI 01/17/1997 CHI vs. MIL W 36 24 10 15 66.7 1 2 50.0 3 4 75.0 1 6 7 11 2 0 1 2 22
+p468
+aVLuc Longley CHI 01/17/1997 CHI vs. MIL W 29 10 5 9 55.6 0 0 - 0 0 - 0 8 8 4 0 3 1 4 14
+p469
+aVBill Wennington CHI 01/17/1997 CHI vs. MIL W 15 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 1 0 0 2 19
+p470
+aVToni Kukoc CHI 01/17/1997 CHI vs. MIL W 34 24 10 14 71.4 2 5 40.0 2 3 66.7 4 2 6 3 0 1 2 4 8
+p471
+aVScottie Pippen CHI 01/17/1997 CHI vs. MIL W 40 20 10 17 58.8 0 5 0.0 0 0 - 0 7 7 3 7 1 2 1 19
+p472
+aVSteve Kerr CHI 01/17/1997 CHI vs. MIL W 23 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 4 0 0 0 0 12
+p473
+aVRandy Brown CHI 01/17/1997 CHI vs. MIL W 25 5 2 7 28.6 0 0 - 1 1 100.0 0 2 2 5 4 1 2 0 18
+p474
+aVJud Buechler CHI 01/17/1997 CHI vs. MIL W 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 6
+p475
+aVDickey Simpkins CHI 01/17/1997 CHI vs. MIL W 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p476
+aVJason Caffey CHI 01/17/1997 CHI vs. MIL W 27 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 2 0 0 3 2 20
+p477
+aVBill Wennington CHI 01/15/1997 CHI @ MIN W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -6
+p478
+aVLuc Longley CHI 01/15/1997 CHI @ MIN W 15 9 4 7 57.1 0 0 - 1 3 33.3 3 2 5 2 0 0 0 5 4
+p479
+aVDickey Simpkins CHI 01/15/1997 CHI @ MIN W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -11
+p480
+aVToni Kukoc CHI 01/15/1997 CHI @ MIN W 33 10 4 10 40.0 1 3 33.3 1 1 100.0 1 5 6 7 0 0 1 0 21
+p481
+aVScottie Pippen CHI 01/15/1997 CHI @ MIN W 40 29 11 20 55.0 3 6 50.0 4 4 100.0 4 3 7 5 1 3 2 2 20
+p482
+aVMichael Jordan CHI 01/15/1997 CHI @ MIN W 35 25 12 22 54.5 1 5 20.0 0 0 - 1 2 3 4 1 1 3 2 15
+p483
+aVDennis Rodman CHI 01/15/1997 CHI @ MIN W 33 6 3 6 50.0 0 0 - 0 0 - 5 10 15 5 0 0 0 1 7
+p484
+aVRandy Brown CHI 01/15/1997 CHI @ MIN W 17 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p485
+aVJud Buechler CHI 01/15/1997 CHI @ MIN W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -17
+p486
+aVJason Caffey CHI 01/15/1997 CHI @ MIN W 28 20 9 14 64.3 0 0 - 2 5 40.0 3 3 6 3 1 0 1 2 12
+p487
+aVSteve Kerr CHI 01/15/1997 CHI @ MIN W 25 7 2 4 50.0 1 2 50.0 2 2 100.0 0 3 3 5 0 1 1 0 9
+p488
+aVToni Kukoc CHI 01/14/1997 CHI vs. WAS W 39 18 5 11 45.5 0 3 0.0 8 9 88.9 1 1 2 5 1 0 1 1 5
+p489
+aVJason Caffey CHI 01/14/1997 CHI vs. WAS W 13 2 1 4 25.0 0 0 - 0 0 - 3 1 4 1 0 0 1 2 2
+p490
+aVBill Wennington CHI 01/14/1997 CHI vs. WAS W 10 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 2 2 -11
+p491
+aVScottie Pippen CHI 01/14/1997 CHI vs. WAS W 43 25 9 21 42.9 6 10 60.0 1 2 50.0 1 5 6 8 4 0 0 2 10
+p492
+aVRandy Brown CHI 01/14/1997 CHI vs. WAS W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 1 1 0 -7
+p493
+aVMichael Jordan CHI 01/14/1997 CHI vs. WAS W 40 39 14 27 51.9 0 4 0.0 11 11 100.0 0 2 2 2 2 0 0 3 -9
+p494
+aVSteve Kerr CHI 01/14/1997 CHI vs. WAS W 16 6 2 3 66.7 2 2 100.0 0 0 - 1 2 3 2 0 0 0 2 2
+p495
+aVJud Buechler CHI 01/14/1997 CHI vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p496
+aVLuc Longley CHI 01/14/1997 CHI vs. WAS W 27 9 3 10 30.0 0 0 - 3 4 75.0 1 2 3 1 4 0 3 5 3
+p497
+aVDennis Rodman CHI 01/14/1997 CHI vs. WAS W 42 5 2 5 40.0 0 1 0.0 1 2 50.0 10 8 18 1 0 0 2 2 10
+p498
+aVMichael Jordan CHI 01/11/1997 CHI vs. HOU W 39 32 12 25 48.0 4 6 66.7 4 4 100.0 0 6 6 7 2 0 3 1 17
+p499
+aVJud Buechler CHI 01/11/1997 CHI vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p500
+aVBill Wennington CHI 01/11/1997 CHI vs. HOU W 22 7 3 7 42.9 0 0 - 1 2 50.0 2 6 8 2 0 1 0 3 7
+p501
+aVRobert Parish CHI 01/11/1997 CHI vs. HOU W 2 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -6
+p502
+aVRon Harper CHI 01/11/1997 CHI vs. HOU W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 0 1
+p503
+aVScottie Pippen CHI 01/11/1997 CHI vs. HOU W 35 17 7 17 41.2 3 7 42.9 0 2 0.0 2 5 7 7 1 2 1 3 16
+p504
+aVSteve Kerr CHI 01/11/1997 CHI vs. HOU W 19 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 13
+p505
+aVJason Caffey CHI 01/11/1997 CHI vs. HOU W 24 12 4 8 50.0 0 0 - 4 5 80.0 3 4 7 0 1 0 1 3 17
+p506
+aVRandy Brown CHI 01/11/1997 CHI vs. HOU W 17 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 2 1 1 0 2 17
+p507
+aVToni Kukoc CHI 01/11/1997 CHI vs. HOU W 29 20 8 13 61.5 4 6 66.7 0 0 - 0 4 4 3 0 1 1 2 16
+p508
+aVDennis Rodman CHI 01/11/1997 CHI vs. HOU W 39 8 4 9 44.4 0 1 0.0 0 1 0.0 5 13 18 4 1 0 2 4 18
+p509
+aVRon Harper CHI 01/10/1997 CHI @ MIL W 16 2 1 6 16.7 0 4 0.0 0 0 - 4 0 4 2 0 0 0 1 -5
+p510
+aVDennis Rodman CHI 01/10/1997 CHI @ MIL W 43 16 8 11 72.7 0 0 - 0 0 - 10 16 26 1 2 0 1 3 15
+p511
+aVRandy Brown CHI 01/10/1997 CHI @ MIL W 25 6 3 7 42.9 0 0 - 0 0 - 1 0 1 5 4 0 2 3 19
+p512
+aVBill Wennington CHI 01/10/1997 CHI @ MIL W 11 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 0 1 0
+p513
+aVJason Caffey CHI 01/10/1997 CHI @ MIL W 20 12 6 10 60.0 0 0 - 0 1 0.0 4 0 4 1 0 0 2 4 -9
+p514
+aVJud Buechler CHI 01/10/1997 CHI @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p515
+aVSteve Kerr CHI 01/10/1997 CHI @ MIL W 14 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 1 1 0 0 1 8
+p516
+aVScottie Pippen CHI 01/10/1997 CHI @ MIL W 39 19 7 12 58.3 0 2 0.0 5 7 71.4 0 1 1 5 1 1 1 3 15
+p517
+aVToni Kukoc CHI 01/10/1997 CHI @ MIL W 32 20 8 16 50.0 0 2 0.0 4 4 100.0 1 0 1 5 5 0 2 3 22
+p518
+aVMichael Jordan CHI 01/10/1997 CHI @ MIL W 38 33 11 23 47.8 3 4 75.0 8 13 61.5 1 4 5 3 0 0 0 2 8
+p519
+aVRon Harper CHI 01/06/1997 CHI vs. UTA W 29 10 4 9 44.4 2 6 33.3 0 0 - 0 4 4 2 0 0 2 2 5
+p520
+aVBill Wennington CHI 01/06/1997 CHI vs. UTA W 26 8 4 8 50.0 0 0 - 0 0 - 1 2 3 5 0 0 0 2 18
+p521
+aVJason Caffey CHI 01/06/1997 CHI vs. UTA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p522
+aVDennis Rodman CHI 01/06/1997 CHI vs. UTA W 35 6 3 8 37.5 0 2 0.0 0 2 0.0 8 8 16 4 1 0 0 3 17
+p523
+aVSteve Kerr CHI 01/06/1997 CHI vs. UTA W 20 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 2 1 0 0 1 -1
+p524
+aVRandy Brown CHI 01/06/1997 CHI vs. UTA W 13 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 2 1 2 4 6
+p525
+aVMichael Jordan CHI 01/06/1997 CHI vs. UTA W 40 23 8 20 40.0 2 3 66.7 5 6 83.3 3 5 8 3 3 1 1 1 24
+p526
+aVScottie Pippen CHI 01/06/1997 CHI vs. UTA W 42 24 8 15 53.3 2 5 40.0 6 8 75.0 3 2 5 1 2 1 2 3 7
+p527
+aVToni Kukoc CHI 01/06/1997 CHI vs. UTA W 27 15 6 13 46.2 2 6 33.3 1 2 50.0 2 2 4 6 0 0 1 2 0
+p528
+aVDickey Simpkins CHI 01/03/1997 CHI vs. ORL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -5
+p529
+aVMichael Jordan CHI 01/03/1997 CHI vs. ORL W 35 22 10 18 55.6 0 2 0.0 2 2 100.0 1 3 4 6 2 1 2 2 19
+p530
+aVDennis Rodman CHI 01/03/1997 CHI vs. ORL W 38 10 4 10 40.0 0 1 0.0 2 4 50.0 9 13 22 1 0 0 2 2 26
+p531
+aVBill Wennington CHI 01/03/1997 CHI vs. ORL W 8 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 4 12
+p532
+aVSteve Kerr CHI 01/03/1997 CHI vs. ORL W 14 5 2 3 66.7 1 1 100.0 0 0 - 1 0 1 1 0 0 0 0 -13
+p533
+aVRon Harper CHI 01/03/1997 CHI vs. ORL W 28 9 3 7 42.9 1 4 25.0 2 2 100.0 2 4 6 7 2 0 0 0 36
+p534
+aVJud Buechler CHI 01/03/1997 CHI vs. ORL W 11 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -7
+p535
+aVJason Caffey CHI 01/03/1997 CHI vs. ORL W 11 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 1 0 0 1 2 -10
+p536
+aVRandy Brown CHI 01/03/1997 CHI vs. ORL W 19 14 6 7 85.7 0 0 - 2 2 100.0 0 3 3 2 3 1 1 0 5
+p537
+aVScottie Pippen CHI 01/03/1997 CHI vs. ORL W 32 16 5 13 38.5 0 1 0.0 6 7 85.7 2 3 5 3 2 0 2 0 26
+p538
+aVToni Kukoc CHI 01/03/1997 CHI vs. ORL W 21 18 7 11 63.6 1 2 50.0 3 4 75.0 0 2 2 4 0 0 1 1 -1
+p539
+aVRobert Parish CHI 01/03/1997 CHI vs. ORL W 15 8 4 7 57.1 0 0 - 0 0 - 2 3 5 2 0 1 2 3 17
+p540
+aVJason Caffey CHI 12/30/1996 CHI vs. IND W 17 2 0 6 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -5
+p541
+aVRon Harper CHI 12/30/1996 CHI vs. IND W 22 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 4 1 1 1 2 -8
+p542
+aVSteve Kerr CHI 12/30/1996 CHI vs. IND W 29 11 4 7 57.1 3 5 60.0 0 0 - 0 3 3 1 1 0 0 3 15
+p543
+aVJud Buechler CHI 12/30/1996 CHI vs. IND W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p544
+aVScottie Pippen CHI 12/30/1996 CHI vs. IND W 44 18 6 17 35.3 1 7 14.3 5 7 71.4 0 7 7 5 3 1 2 1 4
+p545
+aVMichael Jordan CHI 12/30/1996 CHI vs. IND W 40 28 12 29 41.4 1 5 20.0 3 4 75.0 3 4 7 4 1 0 3 1 1
+p546
+aVBill Wennington CHI 12/30/1996 CHI vs. IND W 28 4 1 4 25.0 0 0 - 2 2 100.0 1 6 7 1 0 0 1 4 5
+p547
+aVRobert Parish CHI 12/30/1996 CHI vs. IND W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 0 5
+p548
+aVDickey Simpkins CHI 12/30/1996 CHI vs. IND W 5 1 0 2 0.0 0 0 - 1 2 50.0 3 0 3 0 0 0 0 0 0
+p549
+aVDennis Rodman CHI 12/30/1996 CHI vs. IND W 37 11 4 12 33.3 0 1 0.0 3 6 50.0 11 10 21 2 0 0 1 5 5
+p550
+aVRandy Brown CHI 12/30/1996 CHI vs. IND W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -6
+p551
+aVMichael Jordan CHI 12/28/1996 CHI vs. CLE W 42 45 13 25 52.0 0 1 0.0 19 20 95.0 2 5 7 5 3 0 4 4 17
+p552
+aVRandy Brown CHI 12/28/1996 CHI vs. CLE W 16 1 0 3 0.0 0 1 0.0 1 2 50.0 1 0 1 1 2 0 0 1 1
+p553
+aVDennis Rodman CHI 12/28/1996 CHI vs. CLE W 38 10 4 6 66.7 1 1 100.0 1 4 25.0 5 11 16 4 1 0 1 2 6
+p554
+aVJud Buechler CHI 12/28/1996 CHI vs. CLE W 16 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 3 -4
+p555
+aVRon Harper CHI 12/28/1996 CHI vs. CLE W 43 15 5 8 62.5 4 5 80.0 1 2 50.0 1 1 2 3 1 0 4 4 7
+p556
+aVScottie Pippen CHI 12/28/1996 CHI vs. CLE W 42 18 7 15 46.7 2 5 40.0 2 6 33.3 0 8 8 6 0 0 5 4 -5
+p557
+aVJason Caffey CHI 12/28/1996 CHI vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 4
+p558
+aVSteve Kerr CHI 12/28/1996 CHI vs. CLE W 13 5 1 2 50.0 0 1 0.0 3 3 100.0 0 0 0 1 0 0 0 0 -5
+p559
+aVDickey Simpkins CHI 12/28/1996 CHI vs. CLE W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p560
+aVBill Wennington CHI 12/28/1996 CHI vs. CLE W 20 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 0
+p561
+aVMichael Jordan CHI 12/26/1996 CHI @ ATL L 40 34 10 25 40.0 2 5 40.0 12 13 92.3 0 3 3 1 2 1 0 2 -14
+p562
+aVRandy Brown CHI 12/26/1996 CHI @ ATL L 17 7 3 6 50.0 1 1 100.0 0 0 - 1 1 2 2 2 0 2 3 -4
+p563
+aVScottie Pippen CHI 12/26/1996 CHI @ ATL L 39 20 9 14 64.3 1 6 16.7 1 2 50.0 1 4 5 3 0 0 1 6 -3
+p564
+aVBill Wennington CHI 12/26/1996 CHI @ ATL L 18 10 5 10 50.0 0 0 - 0 0 - 2 1 3 2 0 0 1 6 2
+p565
+aVRon Harper CHI 12/26/1996 CHI @ ATL L 26 4 2 8 25.0 0 3 0.0 0 0 - 0 3 3 4 2 1 0 0 10
+p566
+aVSteve Kerr CHI 12/26/1996 CHI @ ATL L 27 10 4 6 66.7 1 2 50.0 1 1 100.0 0 0 0 2 1 0 0 2 -9
+p567
+aVJud Buechler CHI 12/26/1996 CHI @ ATL L 14 3 1 5 20.0 1 2 50.0 0 0 - 2 3 5 3 0 0 1 1 9
+p568
+aVRobert Parish CHI 12/26/1996 CHI @ ATL L 22 8 3 6 50.0 0 0 - 2 4 50.0 6 4 10 1 0 2 2 2 -5
+p569
+aVDennis Rodman CHI 12/26/1996 CHI @ ATL L 28 4 1 4 25.0 0 0 - 2 4 50.0 5 5 10 1 0 1 2 5 -9
+p570
+aVDickey Simpkins CHI 12/26/1996 CHI @ ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p571
+aVJason Caffey CHI 12/26/1996 CHI @ ATL L 4 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 0 -1
+p572
+aVRandy Brown CHI 12/25/1996 CHI vs. DET W 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 0
+p573
+aVJud Buechler CHI 12/25/1996 CHI vs. DET W 5 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 2 0 3
+p574
+aVMichael Jordan CHI 12/25/1996 CHI vs. DET W 46 23 9 21 42.9 0 4 0.0 5 7 71.4 6 4 10 2 1 0 4 3 11
+p575
+aVDennis Rodman CHI 12/25/1996 CHI vs. DET W 46 11 5 10 50.0 0 1 0.0 1 3 33.3 9 13 22 7 0 0 2 4 10
+p576
+aVRon Harper CHI 12/25/1996 CHI vs. DET W 19 5 2 5 40.0 1 4 25.0 0 2 0.0 0 2 2 1 1 0 1 0 8
+p577
+aVToni Kukoc CHI 12/25/1996 CHI vs. DET W 39 14 5 17 29.4 2 6 33.3 2 2 100.0 1 1 2 8 4 0 0 3 8
+p578
+aVScottie Pippen CHI 12/25/1996 CHI vs. DET W 41 27 11 25 44.0 5 10 50.0 0 0 - 3 5 8 8 2 2 1 3 14
+p579
+aVBill Wennington CHI 12/25/1996 CHI vs. DET W 8 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -2
+p580
+aVJason Caffey CHI 12/25/1996 CHI vs. DET W 2 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 2
+p581
+aVSteve Kerr CHI 12/25/1996 CHI vs. DET W 23 5 2 3 66.7 0 1 0.0 1 2 50.0 0 1 1 3 1 0 0 1 6
+p582
+aVRandy Brown CHI 12/23/1996 CHI vs. NJN W 24 8 4 9 44.4 0 0 - 0 0 - 1 1 2 2 4 0 0 4 29
+p583
+aVSteve Kerr CHI 12/23/1996 CHI vs. NJN W 17 11 4 8 50.0 3 5 60.0 0 0 - 0 0 0 1 0 0 0 2 19
+p584
+aVJason Caffey CHI 12/23/1996 CHI vs. NJN W 12 5 1 3 33.3 0 0 - 3 3 100.0 1 2 3 0 0 0 0 0 11
+p585
+aVJud Buechler CHI 12/23/1996 CHI vs. NJN W 17 4 2 5 40.0 0 2 0.0 0 0 - 1 5 6 1 3 1 0 1 19
+p586
+aVRon Harper CHI 12/23/1996 CHI vs. NJN W 17 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 1 -3
+p587
+aVMichael Jordan CHI 12/23/1996 CHI vs. NJN W 33 24 10 18 55.6 0 1 0.0 4 4 100.0 2 1 3 4 0 0 3 1 19
+p588
+aVRobert Parish CHI 12/23/1996 CHI vs. NJN W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 1 10
+p589
+aVBill Wennington CHI 12/23/1996 CHI vs. NJN W 18 10 3 8 37.5 0 0 - 4 4 100.0 1 2 3 0 1 1 1 2 -2
+p590
+aVDennis Rodman CHI 12/23/1996 CHI vs. NJN W 29 6 3 6 50.0 0 0 - 0 0 - 5 12 17 3 1 0 1 0 11
+p591
+aVToni Kukoc CHI 12/23/1996 CHI vs. NJN W 26 13 4 6 66.7 0 2 0.0 5 7 71.4 0 7 7 5 1 0 1 1 31
+p592
+aVScottie Pippen CHI 12/23/1996 CHI vs. NJN W 34 20 8 18 44.4 4 6 66.7 0 0 - 3 1 4 4 0 1 3 0 15
+p593
+aVDickey Simpkins CHI 12/23/1996 CHI vs. NJN W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 0 1
+p594
+aVScottie Pippen CHI 12/21/1996 CHI @ PHI W 37 22 9 20 45.0 3 7 42.9 1 2 50.0 1 3 4 7 2 3 2 4 0
+p595
+aVDickey Simpkins CHI 12/21/1996 CHI @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p596
+aVRandy Brown CHI 12/21/1996 CHI @ PHI W 18 9 1 4 25.0 0 0 - 7 8 87.5 2 1 3 3 4 0 1 3 8
+p597
+aVSteve Kerr CHI 12/21/1996 CHI @ PHI W 20 10 4 6 66.7 2 3 66.7 0 0 - 1 0 1 3 1 0 0 1 25
+p598
+aVRobert Parish CHI 12/21/1996 CHI @ PHI W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p599
+aVJud Buechler CHI 12/21/1996 CHI @ PHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 2
+p600
+aVRon Harper CHI 12/21/1996 CHI @ PHI W 25 9 3 6 50.0 1 2 50.0 2 2 100.0 1 4 5 2 1 1 0 2 -10
+p601
+aVToni Kukoc CHI 12/21/1996 CHI @ PHI W 23 10 4 9 44.4 2 5 40.0 0 0 - 3 2 5 1 1 0 6 2 12
+p602
+aVDennis Rodman CHI 12/21/1996 CHI @ PHI W 47 12 6 10 60.0 0 0 - 0 0 - 6 12 18 2 2 0 1 3 7
+p603
+aVBill Wennington CHI 12/21/1996 CHI @ PHI W 17 8 4 4 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -11
+p604
+aVMichael Jordan CHI 12/21/1996 CHI @ PHI W 44 31 12 29 41.4 1 3 33.3 6 8 75.0 0 1 1 3 1 1 1 4 5
+p605
+aVDennis Rodman CHI 12/19/1996 CHI @ CHH W 35 2 1 4 25.0 0 0 - 0 0 - 3 11 14 5 0 1 0 4 18
+p606
+aVRobert Parish CHI 12/19/1996 CHI @ CHH W 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p607
+aVMichael Jordan CHI 12/19/1996 CHI @ CHH W 36 35 13 27 48.1 3 8 37.5 6 7 85.7 5 3 8 1 1 1 2 0 28
+p608
+aVJud Buechler CHI 12/19/1996 CHI @ CHH W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -1
+p609
+aVSteve Kerr CHI 12/19/1996 CHI @ CHH W 17 10 4 6 66.7 1 3 33.3 1 1 100.0 0 2 2 2 0 1 1 0 6
+p610
+aVRon Harper CHI 12/19/1996 CHI @ CHH W 23 6 3 6 50.0 0 1 0.0 0 0 - 3 1 4 0 1 0 0 3 7
+p611
+aVBill Wennington CHI 12/19/1996 CHI @ CHH W 20 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 4 6
+p612
+aVRandy Brown CHI 12/19/1996 CHI @ CHH W 13 6 2 7 28.6 0 0 - 2 2 100.0 2 3 5 1 4 1 0 0 10
+p613
+aVJason Caffey CHI 12/19/1996 CHI @ CHH W 11 2 1 2 50.0 0 0 - 0 0 - 3 2 5 2 0 0 2 0 4
+p614
+aVScottie Pippen CHI 12/19/1996 CHI @ CHH W 37 19 8 18 44.4 3 6 50.0 0 0 - 1 2 3 2 1 0 1 1 19
+p615
+aVToni Kukoc CHI 12/19/1996 CHI @ CHH W 24 5 2 7 28.6 0 0 - 1 2 50.0 0 3 3 3 1 1 1 5 20
+p616
+aVDickey Simpkins CHI 12/19/1996 CHI @ CHH W 8 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 0 2 0 -6
+p617
+aVJud Buechler CHI 12/17/1996 CHI vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p618
+aVRon Harper CHI 12/17/1996 CHI vs. LAL W 13 3 1 2 50.0 1 1 100.0 0 0 - 1 2 3 0 1 0 2 2 -7
+p619
+aVSteve Kerr CHI 12/17/1996 CHI vs. LAL W 17 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 5
+p620
+aVToni Kukoc CHI 12/17/1996 CHI vs. LAL W 35 31 9 16 56.3 6 9 66.7 7 8 87.5 4 2 6 2 4 0 0 6 22
+p621
+aVJason Caffey CHI 12/17/1996 CHI vs. LAL W 5 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 3
+p622
+aVDennis Rodman CHI 12/17/1996 CHI vs. LAL W 43 2 0 2 0.0 0 0 - 2 2 100.0 6 12 18 5 3 0 1 3 8
+p623
+aVBill Wennington CHI 12/17/1996 CHI vs. LAL W 15 9 4 7 57.1 0 0 - 1 2 50.0 1 0 1 2 0 0 1 4 -6
+p624
+aVScottie Pippen CHI 12/17/1996 CHI vs. LAL W 44 35 13 26 50.0 4 11 36.4 5 6 83.3 3 7 10 6 0 1 6 5 4
+p625
+aVRobert Parish CHI 12/17/1996 CHI vs. LAL W 12 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 2 0 1 -4
+p626
+aVRandy Brown CHI 12/17/1996 CHI vs. LAL W 29 13 5 8 62.5 0 0 - 3 4 75.0 0 1 1 5 2 0 0 2 6
+p627
+aVMichael Jordan CHI 12/17/1996 CHI vs. LAL W 47 30 10 32 31.3 0 2 0.0 10 14 71.4 5 4 9 3 1 1 2 2 8
+p628
+aVDickey Simpkins CHI 12/17/1996 CHI vs. LAL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -6
+p629
+aVBill Wennington CHI 12/14/1996 CHI vs. CHH W 14 6 3 7 42.9 0 0 - 0 0 - 3 2 5 1 0 1 2 2 -7
+p630
+aVMichael Jordan CHI 12/14/1996 CHI vs. CHH W 41 29 10 26 38.5 0 3 0.0 9 12 75.0 2 7 9 5 5 0 1 0 7
+p631
+aVScottie Pippen CHI 12/14/1996 CHI vs. CHH W 41 10 4 16 25.0 2 8 25.0 0 0 - 0 2 2 5 1 2 2 3 6
+p632
+aVRobert Parish CHI 12/14/1996 CHI vs. CHH W 13 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p633
+aVJud Buechler CHI 12/14/1996 CHI vs. CHH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p634
+aVRandy Brown CHI 12/14/1996 CHI vs. CHH W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 1
+p635
+aVJason Caffey CHI 12/14/1996 CHI vs. CHH W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p636
+aVDennis Rodman CHI 12/14/1996 CHI vs. CHH W 42 3 1 8 12.5 0 0 - 1 4 25.0 9 14 23 4 0 1 4 4 14
+p637
+aVRon Harper CHI 12/14/1996 CHI vs. CHH W 19 5 1 5 20.0 1 3 33.3 2 2 100.0 0 1 1 1 0 1 0 0 1
+p638
+aVToni Kukoc CHI 12/14/1996 CHI vs. CHH W 23 12 4 9 44.4 2 4 50.0 2 2 100.0 1 2 3 4 2 1 1 3 8
+p639
+aVSteve Kerr CHI 12/14/1996 CHI vs. CHH W 30 14 5 8 62.5 1 3 33.3 3 3 100.0 2 1 3 1 2 0 0 3 2
+p640
+aVMichael Jordan CHI 12/13/1996 CHI @ NJN W 34 32 9 19 47.4 3 5 60.0 11 12 91.7 0 6 6 6 4 0 1 2 27
+p641
+aVRobert Parish CHI 12/13/1996 CHI @ NJN W 21 12 6 7 85.7 0 0 - 0 0 - 2 2 4 0 0 0 1 0 21
+p642
+aVJason Caffey CHI 12/13/1996 CHI @ NJN W 29 3 1 2 50.0 0 0 - 1 4 25.0 0 4 4 2 1 1 7 1 -3
+p643
+aVRandy Brown CHI 12/13/1996 CHI @ NJN W 18 3 0 3 0.0 0 2 0.0 3 4 75.0 0 2 2 1 0 0 1 3 10
+p644
+aVBill Wennington CHI 12/13/1996 CHI @ NJN W 21 8 3 6 50.0 0 0 - 2 2 100.0 1 7 8 0 1 0 1 3 7
+p645
+aVScottie Pippen CHI 12/13/1996 CHI @ NJN W 34 24 10 19 52.6 3 7 42.9 1 2 50.0 2 3 5 6 2 0 2 1 11
+p646
+aVJud Buechler CHI 12/13/1996 CHI @ NJN W 14 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 3 7
+p647
+aVSteve Kerr CHI 12/13/1996 CHI @ NJN W 16 7 3 8 37.5 0 3 0.0 1 1 100.0 0 2 2 1 1 0 1 3 -6
+p648
+aVToni Kukoc CHI 12/13/1996 CHI @ NJN W 25 7 3 8 37.5 1 3 33.3 0 2 0.0 3 4 7 4 1 0 2 0 22
+p649
+aVDickey Simpkins CHI 12/13/1996 CHI @ NJN W 6 2 1 5 20.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -5
+p650
+aVRon Harper CHI 12/13/1996 CHI @ NJN W 22 12 3 3 100.0 1 1 100.0 5 6 83.3 1 4 5 4 3 2 3 2 14
+p651
+aVSteve Kerr CHI 12/11/1996 CHI vs. MIN W 23 4 2 7 28.6 0 3 0.0 0 0 - 1 1 2 1 4 0 2 1 1
+p652
+aVJud Buechler CHI 12/11/1996 CHI vs. MIN W 14 4 1 5 20.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 0 0
+p653
+aVBill Wennington CHI 12/11/1996 CHI vs. MIN W 15 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 8
+p654
+aVRobert Parish CHI 12/11/1996 CHI vs. MIN W 20 8 4 7 57.1 0 0 - 0 0 - 2 3 5 3 0 0 0 0 20
+p655
+aVMichael Jordan CHI 12/11/1996 CHI vs. MIN W 36 27 10 16 62.5 1 1 100.0 6 6 100.0 0 7 7 3 3 0 1 0 21
+p656
+aVRon Harper CHI 12/11/1996 CHI vs. MIN W 22 6 2 4 50.0 0 1 0.0 2 2 100.0 0 5 5 3 1 0 1 3 21
+p657
+aVToni Kukoc CHI 12/11/1996 CHI vs. MIN W 24 13 5 8 62.5 1 1 100.0 2 2 100.0 1 0 1 5 1 0 3 2 13
+p658
+aVRandy Brown CHI 12/11/1996 CHI vs. MIN W 11 4 1 6 16.7 0 1 0.0 2 2 100.0 1 0 1 0 1 0 0 2 -12
+p659
+aVScottie Pippen CHI 12/11/1996 CHI vs. MIN W 34 26 10 15 66.7 3 5 60.0 3 6 50.0 4 5 9 8 1 1 3 1 18
+p660
+aVJason Caffey CHI 12/11/1996 CHI vs. MIN W 28 6 3 5 60.0 0 0 - 0 2 0.0 2 2 4 4 0 1 1 4 6
+p661
+aVDickey Simpkins CHI 12/11/1996 CHI vs. MIN W 13 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 1 0 1 2 2 -11
+p662
+aVBill Wennington CHI 12/08/1996 CHI @ TOR L 18 8 4 9 44.4 0 0 - 0 0 - 1 1 2 1 0 1 0 2 4
+p663
+aVRobert Parish CHI 12/08/1996 CHI @ TOR L 16 6 3 8 37.5 0 0 - 0 0 - 2 0 2 0 0 2 0 3 -9
+p664
+aVJason Caffey CHI 12/08/1996 CHI @ TOR L 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -7
+p665
+aVDennis Rodman CHI 12/08/1996 CHI @ TOR L 34 4 2 3 66.7 0 0 - 0 1 0.0 4 7 11 6 0 1 4 4 0
+p666
+aVRon Harper CHI 12/08/1996 CHI @ TOR L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -7
+p667
+aVSteve Kerr CHI 12/08/1996 CHI @ TOR L 15 9 3 5 60.0 2 3 66.7 1 2 50.0 0 0 0 1 2 0 0 2 -10
+p668
+aVToni Kukoc CHI 12/08/1996 CHI @ TOR L 24 13 5 11 45.5 1 4 25.0 2 2 100.0 0 3 3 2 0 0 1 2 -12
+p669
+aVMichael Jordan CHI 12/08/1996 CHI @ TOR L 41 13 5 17 29.4 1 4 25.0 2 2 100.0 0 9 9 8 2 2 3 1 0
+p670
+aVJud Buechler CHI 12/08/1996 CHI @ TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p671
+aVRandy Brown CHI 12/08/1996 CHI @ TOR L 26 8 4 7 57.1 0 0 - 0 0 - 0 1 1 2 1 1 0 3 6
+p672
+aVScottie Pippen CHI 12/08/1996 CHI @ TOR L 43 28 11 25 44.0 6 13 46.2 0 2 0.0 2 6 8 6 2 0 3 2 -5
+p673
+aVSteve Kerr CHI 12/07/1996 CHI vs. MIA L 19 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 0 0 1 1 5
+p674
+aVRandy Brown CHI 12/07/1996 CHI vs. MIA L 12 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 2 0 0 1 0 1
+p675
+aVRon Harper CHI 12/07/1996 CHI vs. MIA L 20 6 2 5 40.0 2 2 100.0 0 0 - 0 1 1 2 0 0 0 1 -8
+p676
+aVBill Wennington CHI 12/07/1996 CHI vs. MIA L 13 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p677
+aVMichael Jordan CHI 12/07/1996 CHI vs. MIA L 42 37 16 30 53.3 0 3 0.0 5 6 83.3 1 8 9 3 0 0 0 1 3
+p678
+aVJason Caffey CHI 12/07/1996 CHI vs. MIA L 18 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 1 1 3 4 -14
+p679
+aVToni Kukoc CHI 12/07/1996 CHI vs. MIA L 27 11 4 13 30.8 1 5 20.0 2 2 100.0 3 1 4 1 0 0 1 0 -7
+p680
+aVScottie Pippen CHI 12/07/1996 CHI vs. MIA L 40 14 5 12 41.7 2 4 50.0 2 2 100.0 0 4 4 5 1 1 2 4 -1
+p681
+aVRobert Parish CHI 12/07/1996 CHI vs. MIA L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 11
+p682
+aVDennis Rodman CHI 12/07/1996 CHI vs. MIA L 38 4 2 7 28.6 0 0 - 0 0 - 7 11 18 2 1 1 1 5 -2
+p683
+aVMichael Jordan CHI 12/05/1996 CHI vs. LAC W 31 20 9 21 42.9 0 3 0.0 2 3 66.7 1 3 4 6 2 0 1 3 7
+p684
+aVScottie Pippen CHI 12/05/1996 CHI vs. LAC W 32 25 12 23 52.2 1 3 33.3 0 1 0.0 4 4 8 5 4 0 2 0 2
+p685
+aVToni Kukoc CHI 12/05/1996 CHI vs. LAC W 38 18 7 14 50.0 1 1 100.0 3 3 100.0 2 3 5 12 0 1 1 1 14
+p686
+aVBill Wennington CHI 12/05/1996 CHI vs. LAC W 21 0 0 4 0.0 0 0 - 0 0 - 1 4 5 2 0 0 0 4 6
+p687
+aVSteve Kerr CHI 12/05/1996 CHI vs. LAC W 30 15 7 8 87.5 1 2 50.0 0 0 - 0 3 3 6 1 0 0 0 13
+p688
+aVDennis Rodman CHI 12/05/1996 CHI vs. LAC W 39 0 0 3 0.0 0 0 - 0 0 - 7 7 14 3 0 0 2 4 24
+p689
+aVJason Caffey CHI 12/05/1996 CHI vs. LAC W 24 23 11 13 84.6 0 0 - 1 1 100.0 0 3 3 1 1 0 3 2 9
+p690
+aVDickey Simpkins CHI 12/05/1996 CHI vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p691
+aVRandy Brown CHI 12/05/1996 CHI vs. LAC W 20 13 6 8 75.0 0 0 - 1 2 50.0 0 1 1 4 2 0 0 2 14
+p692
+aVJud Buechler CHI 12/05/1996 CHI vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 0
+p693
+aVDickey Simpkins CHI 12/03/1996 CHI @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p694
+aVJason Caffey CHI 12/03/1996 CHI @ MIL W 14 12 6 6 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 2 4 12
+p695
+aVBill Wennington CHI 12/03/1996 CHI @ MIL W 24 12 6 9 66.7 0 0 - 0 0 - 1 3 4 1 1 0 1 1 -2
+p696
+aVDennis Rodman CHI 12/03/1996 CHI @ MIL W 36 2 1 4 25.0 0 0 - 0 0 - 3 9 12 5 2 0 1 4 8
+p697
+aVSteve Kerr CHI 12/03/1996 CHI @ MIL W 25 9 3 5 60.0 2 3 66.7 1 1 100.0 1 0 1 2 1 0 0 4 2
+p698
+aVRandy Brown CHI 12/03/1996 CHI @ MIL W 5 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 2
+p699
+aVScottie Pippen CHI 12/03/1996 CHI @ MIL W 44 12 5 14 35.7 0 1 0.0 2 4 50.0 2 0 2 6 3 0 5 3 -2
+p700
+aVJud Buechler CHI 12/03/1996 CHI @ MIL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p701
+aVToni Kukoc CHI 12/03/1996 CHI @ MIL W 27 14 5 11 45.5 1 1 100.0 3 4 75.0 1 0 1 5 2 0 1 3 5
+p702
+aVMichael Jordan CHI 12/03/1996 CHI @ MIL W 41 40 13 27 48.1 0 0 - 14 17 82.4 2 4 6 6 0 0 3 1 -9
+p703
+aVRon Harper CHI 12/03/1996 CHI @ MIL W 18 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 2 1 1 0 3 -1
+p704
+aVToni Kukoc CHI 11/30/1996 CHI @ SAS W 23 5 2 8 25.0 1 1 100.0 0 0 - 3 3 6 5 0 0 0 2 8
+p705
+aVMichael Jordan CHI 11/30/1996 CHI @ SAS W 39 35 14 35 40.0 2 5 40.0 5 5 100.0 0 9 9 3 0 0 1 0 9
+p706
+aVJud Buechler CHI 11/30/1996 CHI @ SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p707
+aVSteve Kerr CHI 11/30/1996 CHI @ SAS W 25 6 2 4 50.0 1 1 100.0 1 1 100.0 0 2 2 3 1 0 0 2 2
+p708
+aVScottie Pippen CHI 11/30/1996 CHI @ SAS W 42 20 8 18 44.4 2 5 40.0 2 4 50.0 1 3 4 8 4 1 3 3 15
+p709
+aVRon Harper CHI 11/30/1996 CHI @ SAS W 34 5 2 4 50.0 1 1 100.0 0 0 - 0 4 4 4 1 1 1 1 -5
+p710
+aVBill Wennington CHI 11/30/1996 CHI @ SAS W 32 18 8 11 72.7 0 0 - 2 2 100.0 2 0 2 4 1 1 1 2 14
+p711
+aVRandy Brown CHI 11/30/1996 CHI @ SAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p712
+aVJason Caffey CHI 11/30/1996 CHI @ SAS W 8 1 0 0 - 0 0 - 1 4 25.0 0 0 0 0 0 0 3 2 -1
+p713
+aVDennis Rodman CHI 11/30/1996 CHI @ SAS W 36 7 2 4 50.0 0 0 - 3 4 75.0 5 9 14 2 1 1 1 4 -2
+p714
+aVScottie Pippen CHI 11/29/1996 CHI @ DAL W 40 32 14 22 63.6 2 3 66.7 2 2 100.0 1 9 10 3 1 0 2 5 23
+p715
+aVMichael Jordan CHI 11/29/1996 CHI @ DAL W 40 36 13 23 56.5 4 5 80.0 6 6 100.0 0 7 7 4 2 0 2 1 20
+p716
+aVJud Buechler CHI 11/29/1996 CHI @ DAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p717
+aVDickey Simpkins CHI 11/29/1996 CHI @ DAL W 8 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 2 0 0 1 0 13
+p718
+aVRandy Brown CHI 11/29/1996 CHI @ DAL W 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 10
+p719
+aVToni Kukoc CHI 11/29/1996 CHI @ DAL W 30 9 3 11 27.3 0 0 - 3 4 75.0 4 3 7 6 0 1 1 2 24
+p720
+aVBill Wennington CHI 11/29/1996 CHI @ DAL W 19 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 1
+p721
+aVRon Harper CHI 11/29/1996 CHI @ DAL W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 1 2 -6
+p722
+aVSteve Kerr CHI 11/29/1996 CHI @ DAL W 29 17 7 10 70.0 2 4 50.0 1 1 100.0 0 3 3 5 0 0 1 0 18
+p723
+aVDennis Rodman CHI 11/29/1996 CHI @ DAL W 31 5 2 7 28.6 0 0 - 1 2 50.0 9 10 19 3 0 1 6 3 -5
+p724
+aVJason Caffey CHI 11/29/1996 CHI @ DAL W 13 8 2 6 33.3 0 0 - 4 6 66.7 3 2 5 1 0 0 0 4 -2
+p725
+aVDickey Simpkins CHI 11/25/1996 CHI @ LAC W 10 0 0 3 0.0 0 0 - 0 2 0.0 1 2 3 0 0 0 1 0 2
+p726
+aVScottie Pippen CHI 11/25/1996 CHI @ LAC W 38 15 5 17 29.4 1 4 25.0 4 7 57.1 2 9 11 4 2 0 5 2 -2
+p727
+aVJason Caffey CHI 11/25/1996 CHI @ LAC W 7 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 1 0 0 2 3
+p728
+aVToni Kukoc CHI 11/25/1996 CHI @ LAC W 33 13 3 10 30.0 0 2 0.0 7 7 100.0 1 1 2 4 0 1 2 1 9
+p729
+aVRon Harper CHI 11/25/1996 CHI @ LAC W 18 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -9
+p730
+aVRandy Brown CHI 11/25/1996 CHI @ LAC W 9 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p731
+aVDennis Rodman CHI 11/25/1996 CHI @ LAC W 41 2 1 2 50.0 0 0 - 0 0 - 5 9 14 2 0 1 3 2 2
+p732
+aVMichael Jordan CHI 11/25/1996 CHI @ LAC W 43 40 14 26 53.8 1 3 33.3 11 12 91.7 1 6 7 2 2 4 2 3 8
+p733
+aVSteve Kerr CHI 11/25/1996 CHI @ LAC W 24 6 1 1 100.0 1 1 100.0 3 3 100.0 0 1 1 0 1 0 0 0 14
+p734
+aVBill Wennington CHI 11/25/1996 CHI @ LAC W 17 6 3 8 37.5 0 0 - 0 0 - 3 1 4 2 0 0 0 4 -3
+p735
+aVScottie Pippen CHI 11/23/1996 CHI @ UTA L 43 16 6 13 46.2 2 4 50.0 2 2 100.0 1 5 6 3 1 0 3 1 2
+p736
+aVJud Buechler CHI 11/23/1996 CHI @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p737
+aVLuc Longley CHI 11/23/1996 CHI @ UTA L 30 8 2 10 20.0 0 0 - 4 4 100.0 3 5 8 3 0 1 3 4 -13
+p738
+aVSteve Kerr CHI 11/23/1996 CHI @ UTA L 27 11 4 8 50.0 3 7 42.9 0 0 - 0 1 1 1 1 0 0 2 8
+p739
+aVBill Wennington CHI 11/23/1996 CHI @ UTA L 9 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 0 2 3
+p740
+aVJason Caffey CHI 11/23/1996 CHI @ UTA L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 4
+p741
+aVToni Kukoc CHI 11/23/1996 CHI @ UTA L 20 8 3 7 42.9 0 2 0.0 2 3 66.7 1 1 2 0 0 0 1 1 2
+p742
+aVDickey Simpkins CHI 11/23/1996 CHI @ UTA L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p743
+aVRon Harper CHI 11/23/1996 CHI @ UTA L 29 9 3 7 42.9 3 5 60.0 0 0 - 0 4 4 3 0 1 0 5 -16
+p744
+aVDennis Rodman CHI 11/23/1996 CHI @ UTA L 36 2 1 2 50.0 0 0 - 0 0 - 2 8 10 1 0 0 0 5 -10
+p745
+aVMichael Jordan CHI 11/23/1996 CHI @ UTA L 39 44 17 32 53.1 0 6 0.0 10 12 83.3 1 5 6 4 2 1 2 3 -7
+p746
+aVBill Wennington CHI 11/21/1996 CHI @ DEN W 19 6 3 7 42.9 0 0 - 0 0 - 0 4 4 1 0 1 1 4 5
+p747
+aVScottie Pippen CHI 11/21/1996 CHI @ DEN W 36 16 6 14 42.9 1 3 33.3 3 6 50.0 1 3 4 5 2 1 2 2 16
+p748
+aVSteve Kerr CHI 11/21/1996 CHI @ DEN W 22 9 3 6 50.0 1 3 33.3 2 2 100.0 1 0 1 1 0 0 0 2 0
+p749
+aVRon Harper CHI 11/21/1996 CHI @ DEN W 21 11 4 8 50.0 0 1 0.0 3 6 50.0 0 4 4 1 2 0 0 2 16
+p750
+aVToni Kukoc CHI 11/21/1996 CHI @ DEN W 27 12 3 8 37.5 0 1 0.0 6 10 60.0 0 7 7 3 1 1 4 3 6
+p751
+aVJud Buechler CHI 11/21/1996 CHI @ DEN W 13 0 0 3 0.0 0 1 0.0 0 2 0.0 1 2 3 1 1 0 0 2 -2
+p752
+aVJason Caffey CHI 11/21/1996 CHI @ DEN W 15 11 2 2 100.0 0 0 - 7 14 50.0 3 2 5 0 0 0 1 2 -1
+p753
+aVMichael Jordan CHI 11/21/1996 CHI @ DEN W 34 31 12 23 52.2 0 2 0.0 7 7 100.0 4 3 7 3 2 1 2 2 29
+p754
+aVLuc Longley CHI 11/21/1996 CHI @ DEN W 14 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 13
+p755
+aVDennis Rodman CHI 11/21/1996 CHI @ DEN W 27 4 2 2 100.0 0 0 - 0 0 - 4 3 7 5 0 0 3 3 15
+p756
+aVRandy Brown CHI 11/21/1996 CHI @ DEN W 12 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -7
+p757
+aVLuc Longley CHI 11/20/1996 CHI @ PHX W 21 3 1 2 50.0 0 0 - 1 1 100.0 2 4 6 5 0 1 4 4 5
+p758
+aVScottie Pippen CHI 11/20/1996 CHI @ PHX W 36 37 15 23 65.2 6 10 60.0 1 3 33.3 3 5 8 7 1 2 3 2 13
+p759
+aVRandy Brown CHI 11/20/1996 CHI @ PHX W 13 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 2 -3
+p760
+aVToni Kukoc CHI 11/20/1996 CHI @ PHX W 26 13 5 13 38.5 1 2 50.0 2 4 50.0 2 3 5 6 2 2 1 2 16
+p761
+aVDennis Rodman CHI 11/20/1996 CHI @ PHX W 36 3 1 3 33.3 0 0 - 1 2 50.0 6 10 16 1 0 1 3 3 22
+p762
+aVSteve Kerr CHI 11/20/1996 CHI @ PHX W 27 11 3 9 33.3 2 6 33.3 3 3 100.0 0 1 1 2 1 0 0 2 8
+p763
+aVBill Wennington CHI 11/20/1996 CHI @ PHX W 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 1 1 1
+p764
+aVJason Caffey CHI 11/20/1996 CHI @ PHX W 11 3 1 3 33.3 0 0 - 1 3 33.3 1 2 3 0 0 0 0 2 -8
+p765
+aVMichael Jordan CHI 11/20/1996 CHI @ PHX W 35 37 16 29 55.2 0 0 - 5 6 83.3 1 3 4 4 1 1 2 3 12
+p766
+aVRon Harper CHI 11/20/1996 CHI @ PHX W 17 0 0 5 0.0 0 1 0.0 0 0 - 1 2 3 1 0 2 1 3 9
+p767
+aVJud Buechler CHI 11/20/1996 CHI @ PHX W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -5
+p768
+aVSteve Kerr CHI 11/16/1996 CHI vs. ATL W 28 12 4 7 57.1 4 5 80.0 0 0 - 0 3 3 3 1 0 0 0 26
+p769
+aVMichael Jordan CHI 11/16/1996 CHI vs. ATL W 35 25 11 23 47.8 0 1 0.0 3 4 75.0 0 5 5 3 1 0 2 2 15
+p770
+aVBill Wennington CHI 11/16/1996 CHI vs. ATL W 19 4 2 2 100.0 0 0 - 0 0 - 0 2 2 3 0 0 2 5 18
+p771
+aVJud Buechler CHI 11/16/1996 CHI vs. ATL W 12 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 1 0 1 0 1 11
+p772
+aVToni Kukoc CHI 11/16/1996 CHI vs. ATL W 15 7 2 7 28.6 1 2 50.0 2 2 100.0 1 2 3 4 0 0 1 1 11
+p773
+aVRandy Brown CHI 11/16/1996 CHI vs. ATL W 16 8 4 5 80.0 0 0 - 0 0 - 0 1 1 4 0 0 0 1 12
+p774
+aVDennis Rodman CHI 11/16/1996 CHI vs. ATL W 31 11 5 6 83.3 1 2 50.0 0 0 - 5 10 15 3 0 0 2 1 19
+p775
+aVScottie Pippen CHI 11/16/1996 CHI vs. ATL W 34 10 5 10 50.0 0 2 0.0 0 1 0.0 1 4 5 7 0 0 0 4 10
+p776
+aVLuc Longley CHI 11/16/1996 CHI vs. ATL W 26 6 2 9 22.2 0 1 0.0 2 2 100.0 1 6 7 4 0 2 2 3 12
+p777
+aVJason Caffey CHI 11/16/1996 CHI vs. ATL W 6 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 6
+p778
+aVRon Harper CHI 11/16/1996 CHI vs. ATL W 16 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 2 0 1 1 2 0
+p779
+aVRandy Brown CHI 11/15/1996 CHI @ CHH W 14 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 1 0 1 2 -12
+p780
+aVMichael Jordan CHI 11/15/1996 CHI @ CHH W 29 38 15 25 60.0 4 5 80.0 4 4 100.0 0 1 1 2 1 1 1 2 34
+p781
+aVRon Harper CHI 11/15/1996 CHI @ CHH W 26 8 4 7 57.1 0 3 0.0 0 0 - 2 1 3 2 2 1 0 0 22
+p782
+aVSteve Kerr CHI 11/15/1996 CHI @ CHH W 24 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 4 1 0 0 1 11
+p783
+aVDennis Rodman CHI 11/15/1996 CHI @ CHH W 28 6 2 2 100.0 0 0 - 2 2 100.0 6 11 17 3 0 0 5 2 31
+p784
+aVJud Buechler CHI 11/15/1996 CHI @ CHH W 9 0 0 2 0.0 0 1 0.0 0 2 0.0 1 1 2 2 0 0 2 2 -14
+p785
+aVLuc Longley CHI 11/15/1996 CHI @ CHH W 20 6 3 6 50.0 0 0 - 0 0 - 3 3 6 3 1 0 2 0 16
+p786
+aVScottie Pippen CHI 11/15/1996 CHI @ CHH W 33 17 6 12 50.0 1 3 33.3 4 4 100.0 0 5 5 7 2 1 3 4 29
+p787
+aVToni Kukoc CHI 11/15/1996 CHI @ CHH W 26 15 6 8 75.0 2 2 100.0 1 1 100.0 1 1 2 5 0 0 3 0 2
+p788
+aVRobert Parish CHI 11/15/1996 CHI @ CHH W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p789
+aVBill Wennington CHI 11/15/1996 CHI @ CHH W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -8
+p790
+aVJason Caffey CHI 11/15/1996 CHI @ CHH W 18 10 5 6 83.3 0 0 - 0 1 0.0 1 2 3 0 1 0 2 1 -1
+p791
+aVToni Kukoc CHI 11/13/1996 CHI vs. MIA W 31 26 11 14 78.6 0 1 0.0 4 4 100.0 0 4 4 4 0 0 2 1 25
+p792
+aVRon Harper CHI 11/13/1996 CHI vs. MIA W 21 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 3 1 0 0 1 15
+p793
+aVDennis Rodman CHI 11/13/1996 CHI vs. MIA W 30 2 0 3 0.0 0 0 - 2 2 100.0 5 14 19 2 0 1 1 1 26
+p794
+aVMichael Jordan CHI 11/13/1996 CHI vs. MIA W 34 28 8 23 34.8 0 1 0.0 12 16 75.0 1 4 5 3 1 0 0 3 5
+p795
+aVRandy Brown CHI 11/13/1996 CHI vs. MIA W 14 6 3 6 50.0 0 0 - 0 0 - 0 1 1 4 0 0 1 1 11
+p796
+aVLuc Longley CHI 11/13/1996 CHI vs. MIA W 23 8 3 7 42.9 0 0 - 2 4 50.0 2 5 7 3 0 2 0 5 18
+p797
+aVSteve Kerr CHI 11/13/1996 CHI vs. MIA W 26 10 3 5 60.0 3 4 75.0 1 2 50.0 0 0 0 1 2 0 1 3 30
+p798
+aVJud Buechler CHI 11/13/1996 CHI vs. MIA W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 9
+p799
+aVScottie Pippen CHI 11/13/1996 CHI vs. MIA W 37 12 5 14 35.7 0 0 - 2 2 100.0 2 4 6 2 2 0 2 3 14
+p800
+aVJason Caffey CHI 11/13/1996 CHI vs. MIA W 9 9 2 2 100.0 0 0 - 5 6 83.3 0 3 3 2 0 0 0 2 10
+p801
+aVBill Wennington CHI 11/13/1996 CHI vs. MIA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p802
+aVRandy Brown CHI 11/11/1996 CHI vs. PHX W 12 4 2 7 28.6 0 2 0.0 0 0 - 3 1 4 1 2 1 1 1 -6
+p803
+aVMichael Jordan CHI 11/11/1996 CHI vs. PHX W 36 26 12 21 57.1 1 1 100.0 1 2 50.0 1 1 2 5 1 1 3 1 11
+p804
+aVSteve Kerr CHI 11/11/1996 CHI vs. PHX W 30 12 5 10 50.0 2 7 28.6 0 0 - 1 0 1 3 1 0 3 1 6
+p805
+aVRobert Parish CHI 11/11/1996 CHI vs. PHX W 9 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 1 11
+p806
+aVDennis Rodman CHI 11/11/1996 CHI vs. PHX W 37 7 3 6 50.0 0 0 - 1 2 50.0 6 16 22 4 0 0 2 2 23
+p807
+aVToni Kukoc CHI 11/11/1996 CHI vs. PHX W 24 12 4 10 40.0 0 2 0.0 4 4 100.0 0 1 1 3 0 0 0 4 8
+p808
+aVJason Caffey CHI 11/11/1996 CHI vs. PHX W 4 2 1 1 100.0 0 0 - 0 1 0.0 0 2 2 0 0 0 1 2 -1
+p809
+aVJud Buechler CHI 11/11/1996 CHI vs. PHX W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p810
+aVScottie Pippen CHI 11/11/1996 CHI vs. PHX W 42 18 7 19 36.8 4 9 44.4 0 0 - 3 5 8 7 1 1 1 2 23
+p811
+aVBill Wennington CHI 11/11/1996 CHI vs. PHX W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -4
+p812
+aVRon Harper CHI 11/11/1996 CHI vs. PHX W 27 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 4 3 0 0 3 20
+p813
+aVLuc Longley CHI 11/11/1996 CHI vs. PHX W 10 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 0
+p814
+aVRobert Parish CHI 11/09/1996 CHI vs. BOS W 13 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 10
+p815
+aVJud Buechler CHI 11/09/1996 CHI vs. BOS W 7 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -4
+p816
+aVBill Wennington CHI 11/09/1996 CHI vs. BOS W 12 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -8
+p817
+aVRandy Brown CHI 11/09/1996 CHI vs. BOS W 20 9 4 6 66.7 1 1 100.0 0 0 - 1 1 2 2 2 0 0 3 13
+p818
+aVToni Kukoc CHI 11/09/1996 CHI vs. BOS W 25 21 8 12 66.7 1 4 25.0 4 7 57.1 0 4 4 3 1 0 1 3 1
+p819
+aVSteve Kerr CHI 11/09/1996 CHI vs. BOS W 26 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 4 1 0 2 1 8
+p820
+aVRon Harper CHI 11/09/1996 CHI vs. BOS W 25 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 0 1 1 2 2 3
+p821
+aVMichael Jordan CHI 11/09/1996 CHI vs. BOS W 32 27 10 23 43.5 0 2 0.0 7 11 63.6 2 1 3 3 1 0 0 2 17
+p822
+aVDickey Simpkins CHI 11/09/1996 CHI vs. BOS W 14 6 3 7 42.9 0 0 - 0 1 0.0 2 1 3 1 0 1 1 1 -1
+p823
+aVScottie Pippen CHI 11/09/1996 CHI vs. BOS W 37 9 4 16 25.0 0 3 0.0 1 2 50.0 2 10 12 11 3 1 3 2 19
+p824
+aVDennis Rodman CHI 11/09/1996 CHI vs. BOS W 29 3 1 3 33.3 0 0 - 1 2 50.0 5 5 10 3 1 0 4 4 12
+p825
+aVDennis Rodman CHI 11/08/1996 CHI @ DET W 40 6 3 5 60.0 0 0 - 0 0 - 4 16 20 3 0 0 1 3 25
+p826
+aVJud Buechler CHI 11/08/1996 CHI @ DET W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 1
+p827
+aVRon Harper CHI 11/08/1996 CHI @ DET W 18 8 3 7 42.9 2 6 33.3 0 0 - 0 2 2 2 1 0 2 3 1
+p828
+aVLuc Longley CHI 11/08/1996 CHI @ DET W 20 16 5 6 83.3 0 0 - 6 6 100.0 2 2 4 2 0 1 4 4 4
+p829
+aVDickey Simpkins CHI 11/08/1996 CHI @ DET W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p830
+aVRobert Parish CHI 11/08/1996 CHI @ DET W 8 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 8
+p831
+aVToni Kukoc CHI 11/08/1996 CHI @ DET W 29 16 6 15 40.0 0 3 0.0 4 6 66.7 1 2 3 2 3 1 0 1 11
+p832
+aVMichael Jordan CHI 11/08/1996 CHI @ DET W 36 15 6 14 42.9 1 3 33.3 2 2 100.0 1 3 4 8 1 0 0 3 16
+p833
+aVScottie Pippen CHI 11/08/1996 CHI @ DET W 41 16 6 12 50.0 2 6 33.3 2 4 50.0 1 5 6 6 2 0 2 2 20
+p834
+aVSteve Kerr CHI 11/08/1996 CHI @ DET W 30 12 4 6 66.7 3 4 75.0 1 1 100.0 1 3 4 2 1 0 0 0 12
+p835
+aVRandy Brown CHI 11/08/1996 CHI @ DET W 4 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p836
+aVToni Kukoc CHI 11/06/1996 CHI @ MIA W 27 11 4 9 44.4 1 1 100.0 2 3 66.7 0 1 1 2 2 1 4 4 -6
+p837
+aVBill Wennington CHI 11/06/1996 CHI @ MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p838
+aVDennis Rodman CHI 11/06/1996 CHI @ MIA W 41 2 0 3 0.0 0 0 - 2 4 50.0 9 13 22 4 1 0 2 4 16
+p839
+aVRon Harper CHI 11/06/1996 CHI @ MIA W 27 10 4 8 50.0 2 5 40.0 0 1 0.0 1 2 3 3 0 0 1 3 9
+p840
+aVRandy Brown CHI 11/06/1996 CHI @ MIA W 11 0 0 4 0.0 0 1 0.0 0 2 0.0 0 0 0 1 0 0 0 1 -8
+p841
+aVScottie Pippen CHI 11/06/1996 CHI @ MIA W 43 17 6 17 35.3 2 6 33.3 3 4 75.0 3 4 7 5 2 0 2 3 10
+p842
+aVSteve Kerr CHI 11/06/1996 CHI @ MIA W 16 6 2 6 33.3 0 4 0.0 2 2 100.0 1 1 2 2 1 0 0 2 4
+p843
+aVMichael Jordan CHI 11/06/1996 CHI @ MIA W 40 50 18 33 54.5 1 2 50.0 13 14 92.9 1 5 6 0 1 1 0 1 9
+p844
+aVLuc Longley CHI 11/06/1996 CHI @ MIA W 31 10 4 7 57.1 0 0 - 2 2 100.0 4 3 7 3 2 1 2 1 0
+p845
+aVJud Buechler CHI 11/06/1996 CHI @ MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p846
+aVRon Harper CHI 11/05/1996 CHI vs. VAN W 23 8 2 5 40.0 0 1 0.0 4 5 80.0 2 2 4 0 2 1 1 1 3
+p847
+aVMichael Jordan CHI 11/05/1996 CHI vs. VAN W 31 22 9 18 50.0 3 5 60.0 1 1 100.0 2 5 7 3 4 0 4 2 24
+p848
+aVSteve Kerr CHI 11/05/1996 CHI vs. VAN W 20 8 3 6 50.0 2 5 40.0 0 0 - 0 1 1 1 0 0 0 0 12
+p849
+aVScottie Pippen CHI 11/05/1996 CHI vs. VAN W 33 14 5 12 41.7 0 4 0.0 4 5 80.0 3 4 7 8 1 1 4 1 19
+p850
+aVDickey Simpkins CHI 11/05/1996 CHI vs. VAN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -5
+p851
+aVRandy Brown CHI 11/05/1996 CHI vs. VAN W 20 7 3 8 37.5 1 1 100.0 0 2 0.0 2 2 4 3 1 0 0 2 7
+p852
+aVToni Kukoc CHI 11/05/1996 CHI vs. VAN W 25 14 6 15 40.0 1 2 50.0 1 1 100.0 2 4 6 5 1 1 3 2 13
+p853
+aVBill Wennington CHI 11/05/1996 CHI vs. VAN W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 11
+p854
+aVDennis Rodman CHI 11/05/1996 CHI vs. VAN W 36 13 6 11 54.5 0 1 0.0 1 2 50.0 8 11 19 3 0 0 2 1 24
+p855
+aVJud Buechler CHI 11/05/1996 CHI vs. VAN W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 1 -4
+p856
+aVLuc Longley CHI 11/05/1996 CHI vs. VAN W 28 8 2 7 28.6 0 0 - 4 4 100.0 2 3 5 3 0 5 3 5 11
+p857
+aVBill Wennington CHI 11/02/1996 CHI vs. PHI W 16 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 1 1 0 2 2 -2
+p858
+aVRandy Brown CHI 11/02/1996 CHI vs. PHI W 22 5 2 7 28.6 1 1 100.0 0 0 - 0 7 7 1 0 0 3 3 0
+p859
+aVRon Harper CHI 11/02/1996 CHI vs. PHI W 26 19 7 12 58.3 4 5 80.0 1 1 100.0 2 2 4 2 3 2 0 2 28
+p860
+aVLuc Longley CHI 11/02/1996 CHI vs. PHI W 23 11 3 4 75.0 0 0 - 5 6 83.3 2 3 5 0 1 0 2 2 15
+p861
+aVMichael Jordan CHI 11/02/1996 CHI vs. PHI W 30 27 11 20 55.0 3 7 42.9 2 2 100.0 1 1 2 5 4 0 2 2 15
+p862
+aVDickey Simpkins CHI 11/02/1996 CHI vs. PHI W 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 10
+p863
+aVScottie Pippen CHI 11/02/1996 CHI vs. PHI W 31 22 9 19 47.4 1 4 25.0 3 5 60.0 3 2 5 9 2 0 3 1 36
+p864
+aVToni Kukoc CHI 11/02/1996 CHI vs. PHI W 19 12 4 7 57.1 0 1 0.0 4 4 100.0 2 5 7 1 1 1 1 0 19
+p865
+aVSteve Kerr CHI 11/02/1996 CHI vs. PHI W 22 6 3 9 33.3 0 3 0.0 0 0 - 0 0 0 3 0 0 0 3 6
+p866
+aVJud Buechler CHI 11/02/1996 CHI vs. PHI W 12 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 3 0 0 0 1 6
+p867
+aVDennis Rodman CHI 11/02/1996 CHI vs. PHI W 24 2 1 5 20.0 0 0 - 0 0 - 3 9 12 3 0 0 2 3 12
+p868
+aVDennis Rodman CHI 11/01/1996 CHI @ BOS W 40 13 6 8 75.0 0 0 - 1 1 100.0 2 11 13 3 1 2 1 3 11
+p869
+aVRobert Parish CHI 11/01/1996 CHI @ BOS W 9 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 3 1 4
+p870
+aVToni Kukoc CHI 11/01/1996 CHI @ BOS W 30 20 6 11 54.5 0 3 0.0 8 10 80.0 1 3 4 7 1 3 2 3 1
+p871
+aVSteve Kerr CHI 11/01/1996 CHI @ BOS W 21 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -5
+p872
+aVScottie Pippen CHI 11/01/1996 CHI @ BOS W 40 18 8 17 47.1 1 3 33.3 1 2 50.0 1 7 8 6 2 0 5 4 27
+p873
+aVMichael Jordan CHI 11/01/1996 CHI @ BOS W 43 30 10 22 45.5 0 5 0.0 10 13 76.9 1 3 4 3 0 0 1 2 11
+p874
+aVDickey Simpkins CHI 11/01/1996 CHI @ BOS W 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 2
+p875
+aVBill Wennington CHI 11/01/1996 CHI @ BOS W 10 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 0 0 1 0 2 -3
+p876
+aVLuc Longley CHI 11/01/1996 CHI @ BOS W 11 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 0 1 4 5 -12
+p877
+aVRon Harper CHI 11/01/1996 CHI @ BOS W 25 7 3 4 75.0 0 1 0.0 1 2 50.0 1 1 2 5 2 1 0 1 14
+p878
+aVJud Buechler CHI 11/01/1996 CHI @ BOS W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p879
+aVRandy Brown CHI 11/01/1996 CHI @ BOS W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -3
+p880
+a.

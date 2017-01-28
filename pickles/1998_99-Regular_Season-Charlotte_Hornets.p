@@ -1,0 +1,1016 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRicky Davis CHH 05/05/1999 CHH @ BOS W 41 32 12 20 60.0 0 0 - 8 9 88.9 2 5 7 2 1 1 2 4 18
+p2
+aVCorey Beck CHH 05/05/1999 CHH @ BOS W 34 11 5 8 62.5 1 1 100.0 0 1 0.0 3 3 6 4 0 0 2 2 20
+p3
+aVBrad Miller CHH 05/05/1999 CHH @ BOS W 38 32 9 16 56.3 0 0 - 14 17 82.4 3 10 13 4 0 1 2 5 18
+p4
+aVDavid Wesley CHH 05/05/1999 CHH @ BOS W 17 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 5 0 0 0 1 -4
+p5
+aVEldridge Recasner CHH 05/05/1999 CHH @ BOS W 24 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 3 0 0 3 0 4
+p6
+aVBobby Phills CHH 05/05/1999 CHH @ BOS W 17 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 0 0 0 1 2 -14
+p7
+aVChuck Person CHH 05/05/1999 CHH @ BOS W 20 5 1 3 33.3 1 2 50.0 2 2 100.0 0 4 4 2 0 0 0 2 9
+p8
+aVElden Campbell CHH 05/05/1999 CHH @ BOS W 20 4 2 7 28.6 0 0 - 0 0 - 2 3 5 2 0 3 0 1 -14
+p9
+aVChucky Brown CHH 05/05/1999 CHH @ BOS W 38 10 5 13 38.5 0 0 - 0 0 - 1 7 8 1 0 0 1 4 -5
+p10
+aVEddie Jones CHH 05/05/1999 CHH @ BOS W 41 21 7 15 46.7 0 1 0.0 7 8 87.5 2 4 6 7 1 0 2 1 -12
+p11
+aVRicky Davis CHH 05/04/1999 CHH vs. PHI W 14 3 1 4 25.0 0 0 - 1 2 50.0 4 2 6 0 0 0 4 2 -9
+p12
+aVChuck Person CHH 05/04/1999 CHH vs. PHI W 12 0 0 4 0.0 0 3 0.0 0 0 - 1 1 2 0 0 1 1 3 -13
+p13
+aVBobby Phills CHH 05/04/1999 CHH vs. PHI W 39 17 6 14 42.9 1 6 16.7 4 5 80.0 1 4 5 4 0 2 2 1 16
+p14
+aVEddie Jones CHH 05/04/1999 CHH vs. PHI W 43 28 10 14 71.4 3 4 75.0 5 5 100.0 2 3 5 4 5 4 6 5 22
+p15
+aVDavid Wesley CHH 05/04/1999 CHH vs. PHI W 43 19 5 11 45.5 2 6 33.3 7 9 77.8 0 2 2 10 6 0 4 3 9
+p16
+aVElden Campbell CHH 05/04/1999 CHH vs. PHI W 39 18 6 13 46.2 0 0 - 6 8 75.0 4 7 11 6 6 3 3 4 22
+p17
+aVEldridge Recasner CHH 05/04/1999 CHH vs. PHI W 20 16 5 6 83.3 1 1 100.0 5 6 83.3 1 1 2 2 0 0 1 2 -17
+p18
+aVDerrick Coleman CHH 05/04/1999 CHH vs. PHI W 19 2 0 4 0.0 0 0 - 2 2 100.0 2 1 3 1 0 2 2 3 -13
+p19
+aVCharles Shackleford CHH 05/04/1999 CHH vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p20
+aVChucky Brown CHH 05/04/1999 CHH vs. PHI W 36 14 6 13 46.2 0 1 0.0 2 2 100.0 2 6 8 3 0 0 0 4 18
+p21
+aVChuck Person CHH 05/02/1999 CHH @ MIA L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p22
+aVBobby Phills CHH 05/02/1999 CHH @ MIA L 38 7 2 8 25.0 1 3 33.3 2 2 100.0 0 3 3 4 1 0 1 4 1
+p23
+aVChucky Brown CHH 05/02/1999 CHH @ MIA L 40 17 8 13 61.5 1 3 33.3 0 0 - 1 3 4 1 0 1 0 2 -8
+p24
+aVDavid Wesley CHH 05/02/1999 CHH @ MIA L 41 16 4 11 36.4 2 5 40.0 6 6 100.0 1 3 4 7 1 0 3 1 -5
+p25
+aVEldridge Recasner CHH 05/02/1999 CHH @ MIA L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -11
+p26
+aVDerrick Coleman CHH 05/02/1999 CHH @ MIA L 25 11 5 10 50.0 0 1 0.0 1 2 50.0 0 2 2 1 1 0 1 5 -20
+p27
+aVEddie Jones CHH 05/02/1999 CHH @ MIA L 40 23 10 16 62.5 1 3 33.3 2 3 66.7 1 6 7 5 2 0 4 4 8
+p28
+aVElden Campbell CHH 05/02/1999 CHH @ MIA L 34 16 5 12 41.7 0 0 - 6 7 85.7 3 7 10 2 3 0 1 5 5
+p29
+aVEldridge Recasner CHH 04/30/1999 CHH vs. CHI W 13 10 4 6 66.7 2 2 100.0 0 0 - 0 1 1 3 1 0 2 4 -7
+p30
+aVChucky Brown CHH 04/30/1999 CHH vs. CHI W 31 9 3 7 42.9 0 0 - 3 4 75.0 1 4 5 3 1 0 0 2 6
+p31
+aVBrad Miller CHH 04/30/1999 CHH vs. CHI W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p32
+aVRicky Davis CHH 04/30/1999 CHH vs. CHI W 17 4 2 4 50.0 0 0 - 0 0 - 0 0 0 3 0 1 0 3 -7
+p33
+aVElden Campbell CHH 04/30/1999 CHH vs. CHI W 36 19 8 12 66.7 0 0 - 3 6 50.0 1 9 10 0 0 2 3 2 9
+p34
+aVChuck Person CHH 04/30/1999 CHH vs. CHI W 6 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 1 0 1 0 1
+p35
+aVEddie Jones CHH 04/30/1999 CHH vs. CHI W 35 10 4 12 33.3 1 2 50.0 1 3 33.3 0 3 3 6 3 1 2 1 10
+p36
+aVDavid Wesley CHH 04/30/1999 CHH vs. CHI W 35 19 5 12 41.7 1 5 20.0 8 8 100.0 0 4 4 9 4 0 2 1 11
+p37
+aVCharles Shackleford CHH 04/30/1999 CHH vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p38
+aVDerrick Coleman CHH 04/30/1999 CHH vs. CHI W 23 6 3 7 42.9 0 0 - 0 0 - 0 3 3 0 0 2 2 2 -7
+p39
+aVBobby Phills CHH 04/30/1999 CHH vs. CHI W 35 11 5 10 50.0 0 4 0.0 1 2 50.0 3 3 6 3 2 0 2 3 6
+p40
+aVBobby Phills CHH 04/29/1999 CHH @ IND L 31 5 2 6 33.3 1 3 33.3 0 2 0.0 0 4 4 1 0 1 3 6 -3
+p41
+aVDavid Wesley CHH 04/29/1999 CHH @ IND L 43 23 8 14 57.1 4 5 80.0 3 3 100.0 1 3 4 7 2 0 3 2 -8
+p42
+aVChuck Person CHH 04/29/1999 CHH @ IND L 27 11 4 13 30.8 3 10 30.0 0 0 - 1 3 4 1 0 0 1 2 -10
+p43
+aVElden Campbell CHH 04/29/1999 CHH @ IND L 41 21 6 15 40.0 0 0 - 9 12 75.0 4 12 16 3 0 3 2 4 -1
+p44
+aVEldridge Recasner CHH 04/29/1999 CHH @ IND L 22 9 3 6 50.0 1 2 50.0 2 2 100.0 0 3 3 2 1 0 1 2 12
+p45
+aVDerrick Coleman CHH 04/29/1999 CHH @ IND L 15 4 0 3 0.0 0 0 - 4 4 100.0 0 4 4 1 0 1 0 3 3
+p46
+aVChucky Brown CHH 04/29/1999 CHH @ IND L 43 16 8 17 47.1 0 0 - 0 0 - 2 6 8 0 1 1 1 4 -12
+p47
+aVEddie Jones CHH 04/29/1999 CHH @ IND L 43 21 8 15 53.3 1 2 50.0 4 4 100.0 1 3 4 6 1 4 3 5 -6
+p48
+aVChuck Person CHH 04/27/1999 CHH @ TOR W 13 0 0 6 0.0 0 3 0.0 0 0 - 0 3 3 0 1 0 0 1 0
+p49
+aVBobby Phills CHH 04/27/1999 CHH @ TOR W 41 20 8 16 50.0 2 4 50.0 2 2 100.0 1 3 4 6 1 0 1 4 24
+p50
+aVDerrick Coleman CHH 04/27/1999 CHH @ TOR W 27 12 5 8 62.5 0 1 0.0 2 2 100.0 0 9 9 3 0 0 2 1 3
+p51
+aVEldridge Recasner CHH 04/27/1999 CHH @ TOR W 11 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -8
+p52
+aVElden Campbell CHH 04/27/1999 CHH @ TOR W 29 13 3 8 37.5 0 0 - 7 10 70.0 1 5 6 1 1 1 0 5 0
+p53
+aVEddie Jones CHH 04/27/1999 CHH @ TOR W 45 28 6 14 42.9 1 3 33.3 15 17 88.2 2 2 4 5 7 1 2 4 18
+p54
+aVDavid Wesley CHH 04/27/1999 CHH @ TOR W 40 17 5 8 62.5 2 4 50.0 5 8 62.5 0 5 5 5 3 0 2 2 10
+p55
+aVChucky Brown CHH 04/27/1999 CHH @ TOR W 34 16 6 11 54.5 0 0 - 4 4 100.0 0 0 0 2 1 1 0 3 3
+p56
+aVEldridge Recasner CHH 04/26/1999 CHH vs. NYK L 15 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 3 3 -7
+p57
+aVDavid Wesley CHH 04/26/1999 CHH vs. NYK L 45 18 6 15 40.0 2 5 40.0 4 5 80.0 1 3 4 11 3 0 5 4 -2
+p58
+aVElden Campbell CHH 04/26/1999 CHH vs. NYK L 39 8 3 14 21.4 0 0 - 2 4 50.0 2 7 9 1 0 1 1 3 -14
+p59
+aVRicky Davis CHH 04/26/1999 CHH vs. NYK L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 0 3
+p60
+aVBobby Phills CHH 04/26/1999 CHH vs. NYK L 39 20 7 17 41.2 4 7 57.1 2 2 100.0 2 3 5 6 1 3 2 2 -6
+p61
+aVEddie Jones CHH 04/26/1999 CHH vs. NYK L 41 14 3 9 33.3 1 4 25.0 7 9 77.8 2 1 3 2 2 1 0 2 -9
+p62
+aVDerrick Coleman CHH 04/26/1999 CHH vs. NYK L 22 12 5 9 55.6 0 0 - 2 2 100.0 2 7 9 0 0 1 2 2 -11
+p63
+aVChuck Person CHH 04/26/1999 CHH vs. NYK L 12 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 1 0 1 4 13
+p64
+aVChucky Brown CHH 04/26/1999 CHH vs. NYK L 23 6 2 6 33.3 0 1 0.0 2 2 100.0 1 3 4 0 0 0 1 2 -2
+p65
+aVChucky Brown CHH 04/24/1999 CHH vs. NJN W 24 14 7 11 63.6 0 1 0.0 0 0 - 3 2 5 2 0 2 0 3 2
+p66
+aVEldridge Recasner CHH 04/24/1999 CHH vs. NJN W 35 10 5 8 62.5 0 1 0.0 0 0 - 0 2 2 3 0 0 1 4 17
+p67
+aVChuck Person CHH 04/24/1999 CHH vs. NJN W 16 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 2 0 0 0 1 9
+p68
+aVBobby Phills CHH 04/24/1999 CHH vs. NJN W 40 14 5 11 45.5 0 3 0.0 4 6 66.7 0 6 6 6 1 1 3 1 9
+p69
+aVDerrick Coleman CHH 04/24/1999 CHH vs. NJN W 21 16 5 10 50.0 0 1 0.0 6 7 85.7 4 5 9 1 1 1 2 3 8
+p70
+aVDavid Wesley CHH 04/24/1999 CHH vs. NJN W 42 19 7 13 53.8 3 5 60.0 2 2 100.0 1 3 4 9 3 0 4 4 20
+p71
+aVRicky Davis CHH 04/24/1999 CHH vs. NJN W 14 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 3 0 0 0 1
+p72
+aVElden Campbell CHH 04/24/1999 CHH vs. NJN W 40 16 7 13 53.8 0 0 - 2 4 50.0 3 10 13 1 1 2 4 1 14
+p73
+aVCorey Beck CHH 04/24/1999 CHH vs. NJN W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 2 0 -5
+p74
+aVCorey Beck CHH 04/23/1999 CHH @ NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p75
+aVChucky Brown CHH 04/23/1999 CHH @ NYK L 33 11 5 10 50.0 1 3 33.3 0 1 0.0 1 3 4 2 2 0 1 4 -14
+p76
+aVChuck Person CHH 04/23/1999 CHH @ NYK L 21 14 5 7 71.4 2 4 50.0 2 2 100.0 1 3 4 3 1 0 0 3 12
+p77
+aVDerrick Coleman CHH 04/23/1999 CHH @ NYK L 34 16 5 14 35.7 0 1 0.0 6 7 85.7 6 5 11 1 2 3 1 0 -1
+p78
+aVDavid Wesley CHH 04/23/1999 CHH @ NYK L 43 14 3 9 33.3 1 4 25.0 7 8 87.5 0 1 1 8 1 0 5 2 -5
+p79
+aVElden Campbell CHH 04/23/1999 CHH @ NYK L 24 17 7 12 58.3 0 0 - 3 4 75.0 1 2 3 0 2 0 2 4 -17
+p80
+aVCharles Shackleford CHH 04/23/1999 CHH @ NYK L 6 4 1 1 100.0 0 0 - 2 2 100.0 2 0 2 1 1 0 1 0 1
+p81
+aVRicky Davis CHH 04/23/1999 CHH @ NYK L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 0
+p82
+aVBobby Phills CHH 04/23/1999 CHH @ NYK L 43 16 4 12 33.3 2 5 40.0 6 6 100.0 1 5 6 4 1 2 1 2 -5
+p83
+aVEldridge Recasner CHH 04/23/1999 CHH @ NYK L 15 8 3 4 75.0 0 1 0.0 2 2 100.0 0 4 4 0 0 0 1 3 9
+p84
+aVBrad Miller CHH 04/23/1999 CHH @ NYK L 11 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 -5
+p85
+aVDerrick Coleman CHH 04/21/1999 CHH vs. DET W 26 6 1 4 25.0 0 0 - 4 4 100.0 0 5 5 1 0 2 0 3 12
+p86
+aVRicky Davis CHH 04/21/1999 CHH vs. DET W 11 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 4
+p87
+aVCharles Shackleford CHH 04/21/1999 CHH vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p88
+aVChucky Brown CHH 04/21/1999 CHH vs. DET W 33 9 4 10 40.0 0 0 - 1 5 20.0 1 6 7 1 0 0 1 4 -10
+p89
+aVEldridge Recasner CHH 04/21/1999 CHH vs. DET W 19 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 4 0 0 3 2 -9
+p90
+aVDavid Wesley CHH 04/21/1999 CHH vs. DET W 35 13 2 6 33.3 0 2 0.0 9 10 90.0 2 2 4 8 3 1 3 5 2
+p91
+aVBrad Miller CHH 04/21/1999 CHH vs. DET W 8 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 7
+p92
+aVCorey Beck CHH 04/21/1999 CHH vs. DET W 12 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 2 2 0 2 1 -2
+p93
+aVChuck Person CHH 04/21/1999 CHH vs. DET W 15 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 12
+p94
+aVElden Campbell CHH 04/21/1999 CHH vs. DET W 40 32 13 19 68.4 0 0 - 6 8 75.0 6 8 14 2 0 1 0 2 -2
+p95
+aVBobby Phills CHH 04/21/1999 CHH vs. DET W 38 15 5 12 41.7 1 3 33.3 4 7 57.1 0 4 4 2 0 1 3 4 -1
+p96
+aVChuck Person CHH 04/19/1999 CHH @ NJN W 18 16 6 9 66.7 4 5 80.0 0 0 - 0 2 2 0 1 0 2 1 10
+p97
+aVEldridge Recasner CHH 04/19/1999 CHH @ NJN W 21 6 2 4 50.0 0 1 0.0 2 2 100.0 2 3 5 3 0 0 2 0 -3
+p98
+aVDavid Wesley CHH 04/19/1999 CHH @ NJN W 38 18 6 11 54.5 3 5 60.0 3 3 100.0 0 5 5 11 1 1 4 4 17
+p99
+aVEddie Jones CHH 04/19/1999 CHH @ NJN W 32 11 5 9 55.6 1 2 50.0 0 0 - 0 4 4 2 3 4 2 0 1
+p100
+aVRicky Davis CHH 04/19/1999 CHH @ NJN W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 0
+p101
+aVChucky Brown CHH 04/19/1999 CHH @ NJN W 30 12 6 9 66.7 0 1 0.0 0 0 - 2 2 4 1 1 0 0 2 -3
+p102
+aVBobby Phills CHH 04/19/1999 CHH @ NJN W 42 23 9 16 56.3 3 7 42.9 2 3 66.7 0 6 6 5 1 1 4 4 7
+p103
+aVCorey Beck CHH 04/19/1999 CHH @ NJN W 5 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 2 -1
+p104
+aVBrad Miller CHH 04/19/1999 CHH @ NJN W 11 6 2 5 40.0 0 0 - 2 4 50.0 3 3 6 0 0 1 0 3 3
+p105
+aVElden Campbell CHH 04/19/1999 CHH @ NJN W 37 22 8 11 72.7 0 0 - 6 8 75.0 0 6 6 2 2 4 2 3 4
+p106
+aVBrad Miller CHH 04/17/1999 CHH @ CLE W 12 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 9
+p107
+aVCorey Beck CHH 04/17/1999 CHH @ CLE W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -4
+p108
+aVBobby Phills CHH 04/17/1999 CHH @ CLE W 43 23 8 19 42.1 4 10 40.0 3 4 75.0 1 6 7 5 2 1 4 4 16
+p109
+aVChucky Brown CHH 04/17/1999 CHH @ CLE W 41 16 8 16 50.0 0 0 - 0 0 - 2 2 4 4 1 0 1 3 18
+p110
+aVEldridge Recasner CHH 04/17/1999 CHH @ CLE W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -8
+p111
+aVCharles Shackleford CHH 04/17/1999 CHH @ CLE W 13 6 2 2 100.0 0 0 - 2 2 100.0 2 3 5 0 0 0 3 1 4
+p112
+aVElden Campbell CHH 04/17/1999 CHH @ CLE W 23 3 1 4 25.0 0 0 - 1 2 50.0 2 5 7 0 1 1 1 5 -5
+p113
+aVEddie Jones CHH 04/17/1999 CHH @ CLE W 43 10 4 8 50.0 2 3 66.7 0 0 - 2 3 5 1 3 1 4 2 16
+p114
+aVDavid Wesley CHH 04/17/1999 CHH @ CLE W 43 24 6 13 46.2 4 8 50.0 8 8 100.0 0 3 3 10 2 2 3 1 12
+p115
+aVRicky Davis CHH 04/17/1999 CHH @ CLE W 5 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -8
+p116
+aVChuck Person CHH 04/17/1999 CHH @ CLE W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p117
+aVChuck Person CHH 04/16/1999 CHH @ MIL W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -8
+p118
+aVBobby Phills CHH 04/16/1999 CHH @ MIL W 44 20 5 13 38.5 5 9 55.6 5 6 83.3 0 5 5 8 2 0 2 3 5
+p119
+aVEddie Jones CHH 04/16/1999 CHH @ MIL W 40 23 8 17 47.1 2 5 40.0 5 8 62.5 3 2 5 3 5 1 2 1 3
+p120
+aVEldridge Recasner CHH 04/16/1999 CHH @ MIL W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 3 -2
+p121
+aVRicky Davis CHH 04/16/1999 CHH @ MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -4
+p122
+aVChucky Brown CHH 04/16/1999 CHH @ MIL W 38 12 6 11 54.5 0 1 0.0 0 0 - 4 5 9 1 0 1 1 3 9
+p123
+aVElden Campbell CHH 04/16/1999 CHH @ MIL W 41 19 4 11 36.4 0 0 - 11 17 64.7 3 7 10 2 2 4 6 2 8
+p124
+aVDavid Wesley CHH 04/16/1999 CHH @ MIL W 41 15 3 9 33.3 1 4 25.0 8 9 88.9 1 3 4 3 2 0 4 1 4
+p125
+aVCorey Beck CHH 04/16/1999 CHH @ MIL W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p126
+aVCharles Shackleford CHH 04/16/1999 CHH @ MIL W 7 2 1 2 50.0 0 0 - 0 0 - 0 5 5 1 0 0 1 2 -7
+p127
+aVBobby Phills CHH 04/14/1999 CHH vs. DET W 41 21 7 13 53.8 5 9 55.6 2 4 50.0 2 4 6 7 2 1 2 5 12
+p128
+aVEddie Jones CHH 04/14/1999 CHH vs. DET W 45 21 5 9 55.6 1 1 100.0 10 13 76.9 0 5 5 4 3 3 2 3 10
+p129
+aVRicky Davis CHH 04/14/1999 CHH vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p130
+aVEldridge Recasner CHH 04/14/1999 CHH vs. DET W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -9
+p131
+aVElden Campbell CHH 04/14/1999 CHH vs. DET W 46 12 3 11 27.3 0 0 - 6 10 60.0 0 3 3 4 1 1 1 2 10
+p132
+aVChuck Person CHH 04/14/1999 CHH vs. DET W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p133
+aVChucky Brown CHH 04/14/1999 CHH vs. DET W 45 19 8 12 66.7 2 4 50.0 1 2 50.0 0 9 9 1 2 3 1 3 10
+p134
+aVDavid Wesley CHH 04/14/1999 CHH vs. DET W 36 8 2 8 25.0 1 4 25.0 3 4 75.0 1 1 2 7 2 0 4 5 10
+p135
+aVBrad Miller CHH 04/14/1999 CHH vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p136
+aVCharles Shackleford CHH 04/14/1999 CHH vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p137
+aVCorey Beck CHH 04/14/1999 CHH vs. DET W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 1
+p138
+aVBrad Miller CHH 04/12/1999 CHH @ DET W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 2 1 0
+p139
+aVChuck Person CHH 04/12/1999 CHH @ DET W 21 9 3 8 37.5 2 4 50.0 1 1 100.0 1 3 4 1 0 0 0 0 5
+p140
+aVChucky Brown CHH 04/12/1999 CHH @ DET W 31 14 4 12 33.3 0 0 - 6 6 100.0 0 4 4 0 2 0 1 3 1
+p141
+aVEddie Jones CHH 04/12/1999 CHH @ DET W 43 12 4 7 57.1 1 1 100.0 3 4 75.0 0 4 4 7 2 1 2 2 6
+p142
+aVRicky Davis CHH 04/12/1999 CHH @ DET W 5 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -1
+p143
+aVBobby Phills CHH 04/12/1999 CHH @ DET W 35 10 4 7 57.1 0 2 0.0 2 4 50.0 3 5 8 3 2 0 3 4 10
+p144
+aVDavid Wesley CHH 04/12/1999 CHH @ DET W 41 10 3 10 30.0 2 4 50.0 2 2 100.0 1 9 10 9 0 1 3 2 0
+p145
+aVEldridge Recasner CHH 04/12/1999 CHH @ DET W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 2 1 3
+p146
+aVCharles Shackleford CHH 04/12/1999 CHH @ DET W 7 4 2 2 100.0 0 0 - 0 0 - 2 1 3 1 0 0 2 3 -2
+p147
+aVElden Campbell CHH 04/12/1999 CHH @ DET W 41 27 10 17 58.8 0 0 - 7 16 43.8 3 8 11 4 1 2 3 5 8
+p148
+aVBobby Phills CHH 04/10/1999 CHH @ IND W 37 23 8 15 53.3 4 6 66.7 3 4 75.0 1 3 4 6 2 0 2 0 6
+p149
+aVCharles Shackleford CHH 04/10/1999 CHH @ IND W 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -4
+p150
+aVChucky Brown CHH 04/10/1999 CHH @ IND W 35 10 3 11 27.3 0 0 - 4 4 100.0 0 5 5 1 0 2 0 2 9
+p151
+aVEddie Jones CHH 04/10/1999 CHH @ IND W 38 17 5 9 55.6 1 4 25.0 6 8 75.0 0 7 7 5 3 1 3 4 9
+p152
+aVEldridge Recasner CHH 04/10/1999 CHH @ IND W 11 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -9
+p153
+aVChuck Person CHH 04/10/1999 CHH @ IND W 11 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 1 -7
+p154
+aVBrad Miller CHH 04/10/1999 CHH @ IND W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p155
+aVElden Campbell CHH 04/10/1999 CHH @ IND W 38 14 4 15 26.7 0 0 - 6 8 75.0 4 12 16 2 2 1 1 4 6
+p156
+aVDavid Wesley CHH 04/10/1999 CHH @ IND W 38 15 7 14 50.0 1 5 20.0 0 0 - 1 7 8 7 1 0 2 1 11
+p157
+aVRicky Davis CHH 04/10/1999 CHH @ IND W 9 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 1 1 -4
+p158
+aVElden Campbell CHH 04/09/1999 CHH vs. WAS W 39 32 12 21 57.1 0 0 - 8 11 72.7 5 5 10 3 0 1 3 2 5
+p159
+aVChucky Brown CHH 04/09/1999 CHH vs. WAS W 33 4 2 11 18.2 0 0 - 0 0 - 1 5 6 4 0 0 2 2 -1
+p160
+aVCorey Beck CHH 04/09/1999 CHH vs. WAS W 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 9
+p161
+aVChuck Person CHH 04/09/1999 CHH vs. WAS W 15 5 2 6 33.3 1 3 33.3 0 0 - 0 4 4 0 0 0 1 1 3
+p162
+aVBobby Phills CHH 04/09/1999 CHH vs. WAS W 38 17 5 11 45.5 3 5 60.0 4 8 50.0 0 4 4 1 1 3 0 3 -2
+p163
+aVCharles Shackleford CHH 04/09/1999 CHH vs. WAS W 9 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -3
+p164
+aVDavid Wesley CHH 04/09/1999 CHH vs. WAS W 43 13 5 13 38.5 1 4 25.0 2 2 100.0 2 3 5 5 2 0 1 1 -7
+p165
+aVEddie Jones CHH 04/09/1999 CHH vs. WAS W 33 15 4 8 50.0 0 0 - 7 8 87.5 1 1 2 6 4 1 0 1 -1
+p166
+aVBrad Miller CHH 04/09/1999 CHH vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p167
+aVRicky Davis CHH 04/09/1999 CHH vs. WAS W 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 0 2 4
+p168
+aVEldridge Recasner CHH 04/09/1999 CHH vs. WAS W 15 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 3 0 0 0 2 3
+p169
+aVRicky Davis CHH 04/07/1999 CHH vs. NYK W 12 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 1 0 0 1 2 -3
+p170
+aVChucky Brown CHH 04/07/1999 CHH vs. NYK W 31 15 7 8 87.5 1 2 50.0 0 0 - 0 4 4 2 0 1 2 0 30
+p171
+aVBobby Phills CHH 04/07/1999 CHH vs. NYK W 31 18 6 9 66.7 1 3 33.3 5 7 71.4 0 5 5 4 1 1 1 1 32
+p172
+aVEldridge Recasner CHH 04/07/1999 CHH vs. NYK W 21 7 2 5 40.0 1 1 100.0 2 2 100.0 0 1 1 3 1 0 1 2 -2
+p173
+aVCorey Beck CHH 04/07/1999 CHH vs. NYK W 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 1 2 2 -1
+p174
+aVChuck Person CHH 04/07/1999 CHH vs. NYK W 16 14 6 8 75.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 2 -2
+p175
+aVCharles Shackleford CHH 04/07/1999 CHH vs. NYK W 14 1 0 0 - 0 0 - 1 2 50.0 0 3 3 1 1 1 0 2 4
+p176
+aVEddie Jones CHH 04/07/1999 CHH vs. NYK W 33 8 2 9 22.2 0 1 0.0 4 4 100.0 0 2 2 6 5 0 1 1 17
+p177
+aVBrad Miller CHH 04/07/1999 CHH vs. NYK W 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -1
+p178
+aVDavid Wesley CHH 04/07/1999 CHH vs. NYK W 35 24 7 10 70.0 3 5 60.0 7 8 87.5 0 3 3 7 2 0 4 5 25
+p179
+aVElden Campbell CHH 04/07/1999 CHH vs. NYK W 29 14 5 8 62.5 0 0 - 4 4 100.0 1 6 7 2 0 2 0 4 21
+p180
+aVRicky Davis CHH 04/05/1999 CHH vs. ATL L 13 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 2 0 1 2 -3
+p181
+aVCorey Beck CHH 04/05/1999 CHH vs. ATL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p182
+aVDavid Wesley CHH 04/05/1999 CHH vs. ATL L 39 18 7 12 58.3 2 5 40.0 2 4 50.0 0 1 1 4 2 1 1 2 -3
+p183
+aVDerrick Coleman CHH 04/05/1999 CHH vs. ATL L 17 10 3 6 50.0 0 0 - 4 4 100.0 0 2 2 0 0 0 1 0 4
+p184
+aVElden Campbell CHH 04/05/1999 CHH vs. ATL L 39 11 4 14 28.6 0 0 - 3 6 50.0 1 8 9 1 0 2 1 5 -2
+p185
+aVEddie Jones CHH 04/05/1999 CHH vs. ATL L 43 15 4 15 26.7 1 4 25.0 6 6 100.0 0 4 4 5 7 2 4 4 -5
+p186
+aVChucky Brown CHH 04/05/1999 CHH vs. ATL L 35 8 3 10 30.0 0 1 0.0 2 2 100.0 2 2 4 2 0 1 1 1 -12
+p187
+aVBrad Miller CHH 04/05/1999 CHH vs. ATL L 13 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 2 1 2 2 1 -4
+p188
+aVEldridge Recasner CHH 04/05/1999 CHH vs. ATL L 25 5 2 5 40.0 1 1 100.0 0 0 - 2 1 3 2 0 0 2 0 1
+p189
+aVChuck Person CHH 04/05/1999 CHH vs. ATL L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 2 -5
+p190
+aVEldridge Recasner CHH 04/04/1999 CHH @ ATL L 18 11 4 8 50.0 1 1 100.0 2 2 100.0 1 2 3 1 1 0 2 2 -5
+p191
+aVDerrick Coleman CHH 04/04/1999 CHH @ ATL L 35 14 5 12 41.7 0 1 0.0 4 4 100.0 2 16 18 1 1 0 5 5 6
+p192
+aVElden Campbell CHH 04/04/1999 CHH @ ATL L 42 14 6 10 60.0 0 1 0.0 2 2 100.0 2 5 7 2 1 1 2 3 -1
+p193
+aVDavid Wesley CHH 04/04/1999 CHH @ ATL L 30 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 4 2 0 2 3 3
+p194
+aVEddie Jones CHH 04/04/1999 CHH @ ATL L 39 16 5 19 26.3 0 3 0.0 6 10 60.0 0 1 1 5 0 0 2 3 6
+p195
+aVRicky Davis CHH 04/04/1999 CHH @ ATL L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 0 -8
+p196
+aVChuck Person CHH 04/04/1999 CHH @ ATL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -8
+p197
+aVChucky Brown CHH 04/04/1999 CHH @ ATL L 39 14 6 8 75.0 2 2 100.0 0 0 - 0 3 3 2 0 2 0 3 6
+p198
+aVBrad Miller CHH 04/04/1999 CHH @ ATL L 19 6 1 3 33.3 0 0 - 4 4 100.0 1 2 3 0 0 0 0 2 -9
+p199
+aVChuck Person CHH 04/02/1999 CHH vs. IND L 14 0 0 5 0.0 0 3 0.0 0 1 0.0 0 2 2 1 0 0 0 0 -10
+p200
+aVEldridge Recasner CHH 04/02/1999 CHH vs. IND L 19 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 3 1 0 0 3 7
+p201
+aVElden Campbell CHH 04/02/1999 CHH vs. IND L 34 13 5 11 45.5 0 0 - 3 4 75.0 2 5 7 1 2 1 2 6 -8
+p202
+aVBrad Miller CHH 04/02/1999 CHH vs. IND L 11 10 3 4 75.0 0 0 - 4 4 100.0 1 1 2 0 0 1 1 2 9
+p203
+aVRicky Davis CHH 04/02/1999 CHH vs. IND L 12 0 0 3 0.0 0 0 - 0 0 - 1 0 1 5 1 0 1 1 0
+p204
+aVChucky Brown CHH 04/02/1999 CHH vs. IND L 21 14 6 9 66.7 1 1 100.0 1 2 50.0 0 1 1 0 0 0 1 1 -8
+p205
+aVCorey Beck CHH 04/02/1999 CHH vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p206
+aVEddie Jones CHH 04/02/1999 CHH vs. IND L 46 17 5 15 33.3 0 2 0.0 7 8 87.5 0 5 5 8 3 0 2 3 -7
+p207
+aVDavid Wesley CHH 04/02/1999 CHH vs. IND L 38 6 3 9 33.3 0 2 0.0 0 0 - 0 2 2 5 3 0 3 1 -2
+p208
+aVDerrick Coleman CHH 04/02/1999 CHH vs. IND L 39 19 8 15 53.3 1 2 50.0 2 2 100.0 4 10 14 3 1 0 4 5 -10
+p209
+aVRicky Davis CHH 03/31/1999 CHH vs. MIL L 17 3 1 5 20.0 0 1 0.0 1 2 50.0 2 0 2 3 3 0 1 0 4
+p210
+aVElden Campbell CHH 03/31/1999 CHH vs. MIL L 33 6 1 5 20.0 0 0 - 4 6 66.7 5 5 10 2 1 0 3 1 -15
+p211
+aVEldridge Recasner CHH 03/31/1999 CHH vs. MIL L 28 26 9 14 64.3 5 7 71.4 3 3 100.0 0 0 0 3 2 0 4 1 3
+p212
+aVCorey Beck CHH 03/31/1999 CHH vs. MIL L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 2
+p213
+aVBrad Miller CHH 03/31/1999 CHH vs. MIL L 17 7 2 3 66.7 0 0 - 3 5 60.0 2 1 3 0 0 0 2 4 6
+p214
+aVChucky Brown CHH 03/31/1999 CHH vs. MIL L 20 8 4 9 44.4 0 0 - 0 1 0.0 1 2 3 1 0 0 0 3 4
+p215
+aVEddie Jones CHH 03/31/1999 CHH vs. MIL L 41 13 4 11 36.4 1 3 33.3 4 6 66.7 0 3 3 5 5 1 5 3 -8
+p216
+aVDavid Wesley CHH 03/31/1999 CHH vs. MIL L 31 11 4 8 50.0 0 1 0.0 3 3 100.0 0 3 3 6 2 0 0 1 -8
+p217
+aVChuck Person CHH 03/31/1999 CHH vs. MIL L 18 6 2 8 25.0 2 6 33.3 0 0 - 0 0 0 1 2 0 0 1 -8
+p218
+aVDerrick Coleman CHH 03/31/1999 CHH vs. MIL L 28 12 4 8 50.0 0 0 - 4 6 66.7 3 2 5 1 0 0 1 2 -20
+p219
+aVEldridge Recasner CHH 03/30/1999 CHH vs. BOS L 21 8 4 9 44.4 0 3 0.0 0 0 - 1 1 2 5 0 0 3 3 5
+p220
+aVChuck Person CHH 03/30/1999 CHH vs. BOS L 25 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 2 2 0 0 2 -7
+p221
+aVChucky Brown CHH 03/30/1999 CHH vs. BOS L 25 15 7 12 58.3 1 2 50.0 0 0 - 1 1 2 1 0 0 0 3 0
+p222
+aVBrad Miller CHH 03/30/1999 CHH vs. BOS L 19 11 4 5 80.0 0 0 - 3 4 75.0 1 2 3 2 0 0 1 1 4
+p223
+aVRicky Davis CHH 03/30/1999 CHH vs. BOS L 31 13 6 9 66.7 0 1 0.0 1 2 50.0 2 2 4 4 1 0 3 3 -3
+p224
+aVDerrick Coleman CHH 03/30/1999 CHH vs. BOS L 23 11 3 6 50.0 0 1 0.0 5 6 83.3 1 2 3 4 0 1 0 1 -10
+p225
+aVDavid Wesley CHH 03/30/1999 CHH vs. BOS L 27 8 4 10 40.0 0 2 0.0 0 0 - 0 1 1 5 3 0 2 1 -12
+p226
+aVEddie Jones CHH 03/30/1999 CHH vs. BOS L 28 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 5 1 0 1 5 -20
+p227
+aVCorey Beck CHH 03/30/1999 CHH vs. BOS L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 7
+p228
+aVElden Campbell CHH 03/30/1999 CHH vs. BOS L 29 17 8 10 80.0 0 0 - 1 2 50.0 3 4 7 0 0 0 2 4 -14
+p229
+aVEddie Jones CHH 03/28/1999 CHH vs. CLE W 29 15 4 7 57.1 1 1 100.0 6 6 100.0 0 3 3 5 2 0 0 2 14
+p230
+aVDerrick Coleman CHH 03/28/1999 CHH vs. CLE W 21 7 3 5 60.0 0 0 - 1 2 50.0 0 5 5 1 0 1 4 2 21
+p231
+aVBrad Miller CHH 03/28/1999 CHH vs. CLE W 25 24 8 10 80.0 0 0 - 8 9 88.9 4 1 5 1 0 0 1 3 9
+p232
+aVRicky Davis CHH 03/28/1999 CHH vs. CLE W 24 11 5 7 71.4 0 0 - 1 2 50.0 1 3 4 2 1 0 2 2 8
+p233
+aVElden Campbell CHH 03/28/1999 CHH vs. CLE W 30 8 3 7 42.9 0 0 - 2 6 33.3 2 8 10 3 2 2 1 3 12
+p234
+aVEldridge Recasner CHH 03/28/1999 CHH vs. CLE W 25 6 1 5 20.0 0 3 0.0 4 4 100.0 0 3 3 9 0 0 3 3 9
+p235
+aVChuck Person CHH 03/28/1999 CHH vs. CLE W 30 14 5 9 55.6 4 7 57.1 0 0 - 0 2 2 4 1 1 0 0 18
+p236
+aVCorey Beck CHH 03/28/1999 CHH vs. CLE W 13 3 1 5 20.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 2 2
+p237
+aVChucky Brown CHH 03/28/1999 CHH vs. CLE W 20 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 3 0
+p238
+aVDavid Wesley CHH 03/28/1999 CHH vs. CLE W 23 9 3 7 42.9 2 4 50.0 1 2 50.0 0 1 1 6 1 0 2 2 12
+p239
+aVElden Campbell CHH 03/26/1999 CHH vs. ORL W 40 24 8 14 57.1 0 0 - 8 10 80.0 0 6 6 0 3 5 2 0 12
+p240
+aVChucky Brown CHH 03/26/1999 CHH vs. ORL W 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -10
+p241
+aVRicky Davis CHH 03/26/1999 CHH vs. ORL W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -13
+p242
+aVBrad Miller CHH 03/26/1999 CHH vs. ORL W 5 1 0 0 - 0 0 - 1 2 50.0 1 1 2 2 0 0 0 1 1
+p243
+aVEldridge Recasner CHH 03/26/1999 CHH vs. ORL W 17 13 4 8 50.0 3 5 60.0 2 2 100.0 0 1 1 0 0 0 0 0 -10
+p244
+aVBobby Phills CHH 03/26/1999 CHH vs. ORL W 37 7 2 8 25.0 0 3 0.0 3 6 50.0 2 1 3 3 2 0 2 3 4
+p245
+aVChuck Person CHH 03/26/1999 CHH vs. ORL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p246
+aVEddie Jones CHH 03/26/1999 CHH vs. ORL W 36 17 7 11 63.6 0 2 0.0 3 3 100.0 2 3 5 4 3 3 1 4 21
+p247
+aVDerrick Coleman CHH 03/26/1999 CHH vs. ORL W 38 15 7 13 53.8 0 0 - 1 3 33.3 2 5 7 5 1 2 1 4 13
+p248
+aVDavid Wesley CHH 03/26/1999 CHH vs. ORL W 37 11 4 14 28.6 1 2 50.0 2 2 100.0 0 6 6 7 2 0 1 2 21
+p249
+aVBobby Phills CHH 03/24/1999 CHH vs. CHI W 16 7 2 3 66.7 2 2 100.0 1 2 50.0 1 1 2 0 0 1 2 1 10
+p250
+aVRicky Davis CHH 03/24/1999 CHH vs. CHI W 19 14 6 10 60.0 0 0 - 2 2 100.0 2 0 2 5 1 2 2 2 19
+p251
+aVChuck Person CHH 03/24/1999 CHH vs. CHI W 25 5 2 7 28.6 1 3 33.3 0 0 - 2 4 6 2 0 0 0 2 6
+p252
+aVElden Campbell CHH 03/24/1999 CHH vs. CHI W 28 8 4 11 36.4 0 0 - 0 2 0.0 3 8 11 4 0 3 2 5 4
+p253
+aVBrad Miller CHH 03/24/1999 CHH vs. CHI W 18 25 9 9 100.0 0 0 - 7 7 100.0 2 3 5 0 2 2 0 0 21
+p254
+aVChucky Brown CHH 03/24/1999 CHH vs. CHI W 20 4 2 5 40.0 0 0 - 0 1 0.0 0 5 5 2 0 0 1 0 22
+p255
+aVEldridge Recasner CHH 03/24/1999 CHH vs. CHI W 20 6 2 4 50.0 0 1 0.0 2 3 66.7 0 3 3 4 0 0 1 1 24
+p256
+aVDavid Wesley CHH 03/24/1999 CHH vs. CHI W 28 16 6 10 60.0 1 2 50.0 3 3 100.0 0 4 4 5 2 1 0 2 5
+p257
+aVDerrick Coleman CHH 03/24/1999 CHH vs. CHI W 31 9 4 8 50.0 0 1 0.0 1 2 50.0 1 3 4 2 1 3 1 1 19
+p258
+aVEddie Jones CHH 03/24/1999 CHH vs. CHI W 29 14 7 10 70.0 0 0 - 0 0 - 1 2 3 3 1 0 5 1 10
+p259
+aVCorey Beck CHH 03/24/1999 CHH vs. CHI W 7 2 0 0 - 0 0 - 2 6 33.3 0 1 1 3 2 0 0 0 5
+p260
+aVChuck Person CHH 03/23/1999 CHH @ ORL L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 5
+p261
+aVChucky Brown CHH 03/23/1999 CHH @ ORL L 12 8 4 7 57.1 0 0 - 0 2 0.0 2 5 7 0 0 2 1 1 0
+p262
+aVEldridge Recasner CHH 03/23/1999 CHH @ ORL L 14 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 4 1 0 1 2 1
+p263
+aVDavid Wesley CHH 03/23/1999 CHH @ ORL L 34 9 4 11 36.4 1 4 25.0 0 0 - 0 2 2 1 3 0 3 5 -9
+p264
+aVRicky Davis CHH 03/23/1999 CHH @ ORL L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 2 0 2 1 8
+p265
+aVBobby Phills CHH 03/23/1999 CHH @ ORL L 36 5 2 11 18.2 1 4 25.0 0 0 - 0 3 3 2 4 0 3 3 -13
+p266
+aVBrad Miller CHH 03/23/1999 CHH @ ORL L 10 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 4 8
+p267
+aVEddie Jones CHH 03/23/1999 CHH @ ORL L 37 20 7 15 46.7 2 5 40.0 4 6 66.7 1 4 5 3 2 1 3 5 -16
+p268
+aVDerrick Coleman CHH 03/23/1999 CHH @ ORL L 37 11 5 17 29.4 0 0 - 1 1 100.0 6 10 16 1 0 1 3 1 -11
+p269
+aVElden Campbell CHH 03/23/1999 CHH @ ORL L 36 19 8 14 57.1 0 0 - 3 4 75.0 4 7 11 2 2 2 1 5 -13
+p270
+aVElden Campbell CHH 03/21/1999 CHH @ MIL W 34 9 4 7 57.1 0 0 - 1 1 100.0 1 8 9 1 3 1 3 3 -5
+p271
+aVEddie Jones CHH 03/21/1999 CHH @ MIL W 44 23 7 19 36.8 2 6 33.3 7 9 77.8 3 4 7 2 1 1 1 3 3
+p272
+aVChucky Brown CHH 03/21/1999 CHH @ MIL W 16 11 3 6 50.0 1 1 100.0 4 4 100.0 1 1 2 1 1 1 1 2 0
+p273
+aVRicky Davis CHH 03/21/1999 CHH @ MIL W 4 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 4
+p274
+aVDavid Wesley CHH 03/21/1999 CHH @ MIL W 29 16 7 12 58.3 2 3 66.7 0 0 - 1 1 2 1 0 0 0 1 -11
+p275
+aVBobby Phills CHH 03/21/1999 CHH @ MIL W 40 7 1 9 11.1 0 3 0.0 5 6 83.3 0 2 2 5 1 0 3 1 4
+p276
+aVEldridge Recasner CHH 03/21/1999 CHH @ MIL W 19 10 3 6 50.0 1 2 50.0 3 4 75.0 0 5 5 3 0 1 2 2 19
+p277
+aVCharles Shackleford CHH 03/21/1999 CHH @ MIL W 11 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 2 8
+p278
+aVChuck Person CHH 03/21/1999 CHH @ MIL W 8 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 2 3
+p279
+aVDerrick Coleman CHH 03/21/1999 CHH @ MIL W 35 12 3 6 50.0 1 1 100.0 5 8 62.5 2 7 9 5 0 1 2 4 10
+p280
+aVBobby Phills CHH 03/19/1999 CHH vs. UTA W 44 12 3 10 30.0 2 5 40.0 4 4 100.0 0 4 4 0 2 0 1 3 8
+p281
+aVRicky Davis CHH 03/19/1999 CHH vs. UTA W 10 7 2 6 33.3 1 1 100.0 2 2 100.0 1 0 1 0 1 0 1 0 0
+p282
+aVChucky Brown CHH 03/19/1999 CHH vs. UTA W 23 4 2 5 40.0 0 0 - 0 0 - 0 5 5 2 0 0 1 4 10
+p283
+aVChuck Person CHH 03/19/1999 CHH vs. UTA W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p284
+aVElden Campbell CHH 03/19/1999 CHH vs. UTA W 45 19 8 11 72.7 0 0 - 3 6 50.0 4 8 12 0 1 1 3 3 2
+p285
+aVCharles Shackleford CHH 03/19/1999 CHH vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p286
+aVEddie Jones CHH 03/19/1999 CHH vs. UTA W 43 11 2 15 13.3 0 1 0.0 7 8 87.5 3 2 5 3 5 1 3 4 1
+p287
+aVDavid Wesley CHH 03/19/1999 CHH vs. UTA W 41 16 6 13 46.2 0 2 0.0 4 4 100.0 1 5 6 6 2 0 1 5 6
+p288
+aVEldridge Recasner CHH 03/19/1999 CHH vs. UTA W 12 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -5
+p289
+aVDerrick Coleman CHH 03/19/1999 CHH vs. UTA W 34 12 2 11 18.2 0 1 0.0 8 8 100.0 5 7 12 0 0 0 4 6 -11
+p290
+aVBobby Phills CHH 03/17/1999 CHH vs. PHX W 38 24 9 13 69.2 4 5 80.0 2 2 100.0 0 4 4 2 3 0 0 3 20
+p291
+aVEldridge Recasner CHH 03/17/1999 CHH vs. PHX W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 4 0 0 0 1 -9
+p292
+aVDerrick Coleman CHH 03/17/1999 CHH vs. PHX W 32 16 4 9 44.4 0 1 0.0 8 10 80.0 3 6 9 6 2 3 4 3 18
+p293
+aVCharles Shackleford CHH 03/17/1999 CHH vs. PHX W 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 1
+p294
+aVChuck Person CHH 03/17/1999 CHH vs. PHX W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 -5
+p295
+aVRicky Davis CHH 03/17/1999 CHH vs. PHX W 13 10 3 4 75.0 0 0 - 4 6 66.7 0 1 1 2 1 0 2 0 -7
+p296
+aVBrad Miller CHH 03/17/1999 CHH vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p297
+aVElden Campbell CHH 03/17/1999 CHH vs. PHX W 40 14 4 5 80.0 0 0 - 6 7 85.7 7 12 19 4 0 1 2 5 3
+p298
+aVChucky Brown CHH 03/17/1999 CHH vs. PHX W 16 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 1 0 1 1 -10
+p299
+aVEddie Jones CHH 03/17/1999 CHH vs. PHX W 43 29 7 16 43.8 0 4 0.0 15 17 88.2 1 1 2 3 1 0 4 2 13
+p300
+aVDavid Wesley CHH 03/17/1999 CHH vs. PHX W 33 15 6 9 66.7 3 5 60.0 0 0 - 0 2 2 11 1 1 3 4 17
+p301
+aVChuck Person CHH 03/15/1999 CHH @ TOR L 4 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -5
+p302
+aVEddie Jones CHH 03/15/1999 CHH @ TOR L 28 13 5 11 45.5 1 3 33.3 2 2 100.0 0 3 3 2 3 1 2 6 -8
+p303
+aVBobby Phills CHH 03/15/1999 CHH @ TOR L 38 8 2 8 25.0 0 3 0.0 4 8 50.0 1 3 4 2 2 0 2 3 -2
+p304
+aVDerrick Coleman CHH 03/15/1999 CHH @ TOR L 36 8 2 11 18.2 0 1 0.0 4 4 100.0 1 8 9 5 2 1 6 2 -14
+p305
+aVEldridge Recasner CHH 03/15/1999 CHH @ TOR L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p306
+aVDavid Wesley CHH 03/15/1999 CHH @ TOR L 40 13 3 6 50.0 1 2 50.0 6 7 85.7 0 4 4 5 3 0 4 6 2
+p307
+aVRicky Davis CHH 03/15/1999 CHH @ TOR L 25 12 5 12 41.7 0 1 0.0 2 4 50.0 1 3 4 2 0 1 1 1 0
+p308
+aVElden Campbell CHH 03/15/1999 CHH @ TOR L 29 13 5 12 41.7 0 0 - 3 8 37.5 4 3 7 3 1 3 0 4 1
+p309
+aVChucky Brown CHH 03/15/1999 CHH @ TOR L 22 13 6 10 60.0 0 2 0.0 1 2 50.0 1 2 3 1 0 0 2 1 0
+p310
+aVCharles Shackleford CHH 03/15/1999 CHH @ TOR L 9 2 1 1 100.0 0 0 - 0 0 - 2 3 5 1 0 0 0 4 0
+p311
+aVBrad Miller CHH 03/14/1999 CHH @ NYK L 11 3 0 0 - 0 0 - 3 4 75.0 0 5 5 0 0 0 1 1 -3
+p312
+aVBobby Phills CHH 03/14/1999 CHH @ NYK L 40 12 4 11 36.4 1 2 50.0 3 4 75.0 1 1 2 1 5 0 1 5 -6
+p313
+aVElden Campbell CHH 03/14/1999 CHH @ NYK L 39 8 3 10 30.0 0 0 - 2 4 50.0 5 4 9 1 0 3 1 3 -14
+p314
+aVChuck Person CHH 03/14/1999 CHH @ NYK L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 1 1
+p315
+aVRicky Davis CHH 03/14/1999 CHH @ NYK L 12 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 1 0 0 1 4 -3
+p316
+aVEddie Jones CHH 03/14/1999 CHH @ NYK L 40 23 8 15 53.3 1 3 33.3 6 8 75.0 1 0 1 2 4 0 0 3 -8
+p317
+aVDerrick Coleman CHH 03/14/1999 CHH @ NYK L 39 17 4 15 26.7 0 1 0.0 9 15 60.0 1 6 7 2 1 1 0 4 -5
+p318
+aVEldridge Recasner CHH 03/14/1999 CHH @ NYK L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -5
+p319
+aVDavid Wesley CHH 03/14/1999 CHH @ NYK L 41 15 6 9 66.7 1 1 100.0 2 3 66.7 0 6 6 5 1 0 7 4 -1
+p320
+aVChucky Brown CHH 03/14/1999 CHH @ NYK L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 4
+p321
+aVDavid Wesley CHH 03/12/1999 CHH @ WAS W 38 23 9 15 60.0 1 3 33.3 4 6 66.7 0 1 1 4 2 0 2 3 3
+p322
+aVEldridge Recasner CHH 03/12/1999 CHH @ WAS W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 1 0 2 0 7
+p323
+aVCharles Shackleford CHH 03/12/1999 CHH @ WAS W 24 10 4 7 57.1 0 0 - 2 3 66.7 5 9 14 0 1 1 3 3 -1
+p324
+aVBrad Miller CHH 03/12/1999 CHH @ WAS W 24 10 3 6 50.0 0 0 - 4 6 66.7 0 5 5 1 0 1 2 3 10
+p325
+aVEddie Jones CHH 03/12/1999 CHH @ WAS W 35 14 4 13 30.8 2 3 66.7 4 8 50.0 2 3 5 1 3 1 4 2 -3
+p326
+aVBobby Phills CHH 03/12/1999 CHH @ WAS W 35 11 4 10 40.0 1 2 50.0 2 2 100.0 0 1 1 5 0 0 0 4 10
+p327
+aVRicky Davis CHH 03/12/1999 CHH @ WAS W 13 8 4 6 66.7 0 0 - 0 0 - 4 1 5 0 0 0 0 1 12
+p328
+aVChuck Person CHH 03/12/1999 CHH @ WAS W 35 9 4 12 33.3 1 5 20.0 0 0 - 0 6 6 3 3 0 1 3 2
+p329
+aVChucky Brown CHH 03/12/1999 CHH @ WAS W 25 7 2 5 40.0 1 2 50.0 2 3 66.7 0 3 3 2 1 0 1 2 5
+p330
+aVRicky Davis CHH 03/10/1999 CHH @ PHI L 18 2 1 6 16.7 0 1 0.0 0 0 - 2 1 3 2 2 1 4 1 -4
+p331
+aVCharles Shackleford CHH 03/10/1999 CHH @ PHI L 21 2 1 7 14.3 0 0 - 0 0 - 4 6 10 0 0 1 2 2 -2
+p332
+aVChucky Brown CHH 03/10/1999 CHH @ PHI L 33 12 6 14 42.9 0 1 0.0 0 1 0.0 2 7 9 3 1 0 1 3 -4
+p333
+aVEldridge Recasner CHH 03/10/1999 CHH @ PHI L 27 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 5 0 0 1 2 -10
+p334
+aVChuck Person CHH 03/10/1999 CHH @ PHI L 30 5 2 7 28.6 1 3 33.3 0 0 - 0 3 3 3 0 2 2 2 -8
+p335
+aVBobby Phills CHH 03/10/1999 CHH @ PHI L 39 18 7 17 41.2 3 7 42.9 1 2 50.0 1 2 3 1 3 0 5 1 -20
+p336
+aVBrad Miller CHH 03/10/1999 CHH @ PHI L 25 14 6 11 54.5 0 0 - 2 2 100.0 2 4 6 1 2 2 3 3 -13
+p337
+aVTravis Williams CHH 03/10/1999 CHH @ PHI L 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -1
+p338
+aVDavid Wesley CHH 03/10/1999 CHH @ PHI L 36 13 4 15 26.7 2 9 22.2 3 3 100.0 1 3 4 8 5 0 4 1 -13
+p339
+aVB.J. Armstrong CHH 03/09/1999 CHH vs. BOS W 14 4 2 5 40.0 0 0 - 0 0 - 0 0 0 4 1 0 2 2 13
+p340
+aVRicky Davis CHH 03/09/1999 CHH vs. BOS W 23 10 3 6 50.0 0 1 0.0 4 4 100.0 1 1 2 3 1 0 5 1 4
+p341
+aVDavid Wesley CHH 03/09/1999 CHH vs. BOS W 33 11 3 10 30.0 0 2 0.0 5 7 71.4 0 2 2 7 3 0 4 2 5
+p342
+aVChucky Brown CHH 03/09/1999 CHH vs. BOS W 17 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 0 0 0 3 3 10
+p343
+aVBrad Miller CHH 03/09/1999 CHH vs. BOS W 25 12 3 7 42.9 0 0 - 6 7 85.7 1 5 6 0 1 2 1 2 15
+p344
+aVCharles Shackleford CHH 03/09/1999 CHH vs. BOS W 21 10 3 6 50.0 0 0 - 4 6 66.7 4 4 8 0 1 1 0 2 3
+p345
+aVJ.R. Reid CHH 03/09/1999 CHH vs. BOS W 38 26 9 17 52.9 0 0 - 8 10 80.0 1 11 12 1 1 1 1 5 13
+p346
+aVEldridge Recasner CHH 03/09/1999 CHH vs. BOS W 25 15 6 7 85.7 3 3 100.0 0 0 - 1 3 4 5 1 0 0 2 14
+p347
+aVChuck Person CHH 03/09/1999 CHH vs. BOS W 42 12 5 9 55.6 2 3 66.7 0 0 - 1 4 5 6 0 0 2 5 13
+p348
+aVBrad Miller CHH 03/05/1999 CHH @ WAS L 23 10 4 7 57.1 0 1 0.0 2 4 50.0 3 8 11 2 1 0 2 3 -6
+p349
+aVRicky Davis CHH 03/05/1999 CHH @ WAS L 13 6 2 3 66.7 0 0 - 2 2 100.0 1 4 5 2 0 1 2 3 2
+p350
+aVBobby Phills CHH 03/05/1999 CHH @ WAS L 32 9 3 8 37.5 1 4 25.0 2 2 100.0 1 3 4 3 2 0 6 2 -5
+p351
+aVEldridge Recasner CHH 03/05/1999 CHH @ WAS L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -4
+p352
+aVB.J. Armstrong CHH 03/05/1999 CHH @ WAS L 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 6 0 0 2 2 4
+p353
+aVJ.R. Reid CHH 03/05/1999 CHH @ WAS L 42 20 5 12 41.7 0 0 - 10 11 90.9 1 5 6 0 0 0 2 6 3
+p354
+aVChuck Person CHH 03/05/1999 CHH @ WAS L 42 11 4 12 33.3 2 4 50.0 1 2 50.0 3 2 5 2 0 0 1 2 3
+p355
+aVCharles Shackleford CHH 03/05/1999 CHH @ WAS L 31 13 6 10 60.0 0 0 - 1 2 50.0 5 7 12 1 0 0 2 4 -2
+p356
+aVDavid Wesley CHH 03/05/1999 CHH @ WAS L 34 12 5 13 38.5 1 3 33.3 1 1 100.0 0 2 2 3 1 0 6 4 1
+p357
+aVWillie Burton CHH 03/05/1999 CHH @ WAS L 4 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p358
+aVJ.R. Reid CHH 03/04/1999 CHH @ NJN W 43 17 7 13 53.8 0 0 - 3 5 60.0 3 9 12 3 1 2 1 5 19
+p359
+aVDerrick Coleman CHH 03/04/1999 CHH @ NJN W 41 11 3 15 20.0 0 1 0.0 5 6 83.3 2 13 15 2 1 2 3 1 15
+p360
+aVBrad Miller CHH 03/04/1999 CHH @ NJN W 4 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 0 0 0 0 0 5
+p361
+aVBobby Phills CHH 03/04/1999 CHH @ NJN W 35 20 9 17 52.9 2 7 28.6 0 2 0.0 2 2 4 4 1 0 2 3 23
+p362
+aVCharles Shackleford CHH 03/04/1999 CHH @ NJN W 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 1 2 1 -12
+p363
+aVChuck Person CHH 03/04/1999 CHH @ NJN W 35 21 7 13 53.8 5 9 55.6 2 2 100.0 1 3 4 1 1 1 3 3 7
+p364
+aVRicky Davis CHH 03/04/1999 CHH @ NJN W 10 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 1 0 0 0 0 2
+p365
+aVB.J. Armstrong CHH 03/04/1999 CHH @ NJN W 22 12 4 5 80.0 1 1 100.0 3 4 75.0 0 2 2 1 0 0 0 1 -11
+p366
+aVDavid Wesley CHH 03/04/1999 CHH @ NJN W 39 7 3 7 42.9 1 3 33.3 0 0 - 1 4 5 7 2 0 5 2 22
+p367
+aVChucky Brown CHH 03/03/1999 CHH @ ORL L 17 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 3 0 0 2 1 2
+p368
+aVDerrick Coleman CHH 03/03/1999 CHH @ ORL L 38 24 11 18 61.1 0 2 0.0 2 2 100.0 1 9 10 2 1 1 6 3 -23
+p369
+aVChuck Person CHH 03/03/1999 CHH @ ORL L 25 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 3 3 -18
+p370
+aVBobby Phills CHH 03/03/1999 CHH @ ORL L 37 14 5 14 35.7 2 4 50.0 2 2 100.0 0 0 0 3 1 1 4 4 -21
+p371
+aVBrad Miller CHH 03/03/1999 CHH @ ORL L 21 5 2 5 40.0 0 0 - 1 1 100.0 0 3 3 1 2 2 2 3 17
+p372
+aVDavid Wesley CHH 03/03/1999 CHH @ ORL L 35 9 3 8 37.5 1 1 100.0 2 2 100.0 0 3 3 4 2 0 0 0 -21
+p373
+aVEldridge Recasner CHH 03/03/1999 CHH @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 2
+p374
+aVRicky Davis CHH 03/03/1999 CHH @ ORL L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 2
+p375
+aVJ.R. Reid CHH 03/03/1999 CHH @ ORL L 26 2 1 5 20.0 0 0 - 0 0 - 0 4 4 2 0 0 1 2 -30
+p376
+aVWillie Burton CHH 03/03/1999 CHH @ ORL L 11 4 1 3 33.3 0 0 - 2 4 50.0 3 2 5 0 0 0 1 0 4
+p377
+aVB.J. Armstrong CHH 03/03/1999 CHH @ ORL L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p378
+aVCharles Shackleford CHH 03/03/1999 CHH @ ORL L 14 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 0 0 5 -1
+p379
+aVDavid Wesley CHH 03/01/1999 CHH vs. TOR W 47 21 8 18 44.4 1 4 25.0 4 5 80.0 1 6 7 7 5 0 2 2 4
+p380
+aVBobby Phills CHH 03/01/1999 CHH vs. TOR W 46 10 2 10 20.0 1 2 50.0 5 6 83.3 1 3 4 3 1 0 3 2 2
+p381
+aVJ.R. Reid CHH 03/01/1999 CHH vs. TOR W 40 20 9 16 56.3 0 0 - 2 6 33.3 3 5 8 5 2 0 1 3 4
+p382
+aVRicky Davis CHH 03/01/1999 CHH vs. TOR W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 5
+p383
+aVChuck Person CHH 03/01/1999 CHH vs. TOR W 41 8 3 8 37.5 1 5 20.0 1 2 50.0 1 2 3 3 0 0 0 3 4
+p384
+aVWillie Burton CHH 03/01/1999 CHH vs. TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p385
+aVCharles Shackleford CHH 03/01/1999 CHH vs. TOR W 4 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 0 1 -7
+p386
+aVBrad Miller CHH 03/01/1999 CHH vs. TOR W 10 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 0 1 3 -7
+p387
+aVDerrick Coleman CHH 03/01/1999 CHH vs. TOR W 40 24 9 15 60.0 2 2 100.0 4 7 57.1 4 8 12 3 1 1 4 2 8
+p388
+aVChucky Brown CHH 03/01/1999 CHH vs. TOR W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p389
+aVChucky Brown CHH 02/27/1999 CHH @ CHI L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -10
+p390
+aVRicky Davis CHH 02/27/1999 CHH @ CHI L 10 10 3 9 33.3 0 1 0.0 4 4 100.0 0 2 2 0 1 0 2 0 -3
+p391
+aVDerrick Coleman CHH 02/27/1999 CHH @ CHI L 37 17 8 17 47.1 0 1 0.0 1 1 100.0 2 6 8 1 1 1 2 1 -12
+p392
+aVJ.R. Reid CHH 02/27/1999 CHH @ CHI L 27 4 2 4 50.0 0 0 - 0 2 0.0 1 8 9 0 0 0 1 2 -9
+p393
+aVTravis Williams CHH 02/27/1999 CHH @ CHI L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p394
+aVBobby Phills CHH 02/27/1999 CHH @ CHI L 38 8 2 10 20.0 0 1 0.0 4 5 80.0 1 2 3 6 3 2 1 4 -14
+p395
+aVCharles Shackleford CHH 02/27/1999 CHH @ CHI L 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -5
+p396
+aVBrad Miller CHH 02/27/1999 CHH @ CHI L 19 10 3 5 60.0 0 0 - 4 4 100.0 0 4 4 2 0 0 0 3 -7
+p397
+aVChuck Person CHH 02/27/1999 CHH @ CHI L 33 13 4 7 57.1 2 2 100.0 3 4 75.0 2 4 6 2 0 0 3 3 -8
+p398
+aVDavid Wesley CHH 02/27/1999 CHH @ CHI L 40 13 3 7 42.9 1 3 33.3 6 6 100.0 0 2 2 6 0 0 5 2 -10
+p399
+aVChuck Person CHH 02/26/1999 CHH vs. POR W 30 8 3 6 50.0 2 3 66.7 0 0 - 0 3 3 2 1 0 1 5 -3
+p400
+aVDerrick Coleman CHH 02/26/1999 CHH vs. POR W 43 28 8 15 53.3 2 3 66.7 10 13 76.9 2 6 8 3 0 2 1 3 -4
+p401
+aVRicky Davis CHH 02/26/1999 CHH vs. POR W 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 3 1 -4
+p402
+aVChucky Brown CHH 02/26/1999 CHH vs. POR W 18 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 4 5
+p403
+aVDavid Wesley CHH 02/26/1999 CHH vs. POR W 46 16 6 15 40.0 0 1 0.0 4 8 50.0 1 1 2 13 0 1 4 5 2
+p404
+aVJ.R. Reid CHH 02/26/1999 CHH vs. POR W 40 22 7 12 58.3 0 0 - 8 8 100.0 0 5 5 1 3 0 4 3 -1
+p405
+aVCharles Shackleford CHH 02/26/1999 CHH vs. POR W 11 0 0 0 - 0 0 - 0 0 - 0 6 6 0 1 0 0 0 11
+p406
+aVBobby Phills CHH 02/26/1999 CHH vs. POR W 38 21 7 8 87.5 2 3 66.7 5 8 62.5 0 7 7 4 2 0 2 4 6
+p407
+aVBrad Miller CHH 02/26/1999 CHH vs. POR W 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p408
+aVBobby Phills CHH 02/24/1999 CHH vs. MIA L 39 20 7 13 53.8 2 3 66.7 4 6 66.7 1 0 1 1 0 1 4 3 -5
+p409
+aVRicky Davis CHH 02/24/1999 CHH vs. MIA L 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -6
+p410
+aVCharles Shackleford CHH 02/24/1999 CHH vs. MIA L 9 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 2 -10
+p411
+aVChucky Brown CHH 02/24/1999 CHH vs. MIA L 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p412
+aVTravis Williams CHH 02/24/1999 CHH vs. MIA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p413
+aVDerrick Coleman CHH 02/24/1999 CHH vs. MIA L 39 11 3 13 23.1 0 4 0.0 5 7 71.4 2 12 14 4 1 0 3 5 2
+p414
+aVChuck Person CHH 02/24/1999 CHH vs. MIA L 32 9 3 10 30.0 1 7 14.3 2 3 66.7 0 7 7 2 1 2 2 5 -4
+p415
+aVDavid Wesley CHH 02/24/1999 CHH vs. MIA L 45 12 4 12 33.3 1 2 50.0 3 3 100.0 1 1 2 4 1 0 3 1 -5
+p416
+aVJ.R. Reid CHH 02/24/1999 CHH vs. MIA L 38 16 4 10 40.0 0 0 - 8 8 100.0 1 6 7 2 1 1 0 4 14
+p417
+aVBrad Miller CHH 02/24/1999 CHH vs. MIA L 7 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 1 -11
+p418
+aVChucky Brown CHH 02/19/1999 CHH @ SAC L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -6
+p419
+aVJ.R. Reid CHH 02/19/1999 CHH @ SAC L 42 21 8 18 44.4 0 0 - 5 6 83.3 5 2 7 2 6 1 4 3 -11
+p420
+aVCharles Shackleford CHH 02/19/1999 CHH @ SAC L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 2
+p421
+aVBrad Miller CHH 02/19/1999 CHH @ SAC L 11 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 0 0 0 2 1 13
+p422
+aVBobby Phills CHH 02/19/1999 CHH @ SAC L 39 16 8 19 42.1 0 2 0.0 0 2 0.0 4 5 9 7 5 1 1 1 -7
+p423
+aVDerrick Coleman CHH 02/19/1999 CHH @ SAC L 36 14 5 13 38.5 0 0 - 4 6 66.7 1 9 10 1 2 0 4 1 -20
+p424
+aVChuck Person CHH 02/19/1999 CHH @ SAC L 25 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 0 0 0 1 2 -15
+p425
+aVRicky Davis CHH 02/19/1999 CHH @ SAC L 11 6 3 8 37.5 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 1
+p426
+aVDavid Wesley CHH 02/19/1999 CHH @ SAC L 39 21 10 20 50.0 0 3 0.0 1 1 100.0 2 1 3 5 3 1 2 4 -15
+p427
+aVTravis Williams CHH 02/19/1999 CHH @ SAC L 8 5 1 1 100.0 0 0 - 3 4 75.0 2 1 3 1 0 0 1 3 4
+p428
+aVEldridge Recasner CHH 02/19/1999 CHH @ SAC L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p429
+aVBobby Phills CHH 02/17/1999 CHH @ GSW L 34 6 3 7 42.9 0 2 0.0 0 0 - 2 1 3 5 0 0 1 2 -5
+p430
+aVDerrick Coleman CHH 02/17/1999 CHH @ GSW L 42 22 9 16 56.3 0 1 0.0 4 5 80.0 1 6 7 1 1 3 3 1 -4
+p431
+aVChuck Person CHH 02/17/1999 CHH @ GSW L 34 10 4 11 36.4 1 4 25.0 1 2 50.0 0 7 7 1 1 0 3 2 11
+p432
+aVChucky Brown CHH 02/17/1999 CHH @ GSW L 14 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -20
+p433
+aVCharles Shackleford CHH 02/17/1999 CHH @ GSW L 11 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 1 2 2 -15
+p434
+aVB.J. Armstrong CHH 02/17/1999 CHH @ GSW L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 1 0 2 2 -16
+p435
+aVJ.R. Reid CHH 02/17/1999 CHH @ GSW L 41 29 11 17 64.7 0 0 - 7 8 87.5 2 8 10 2 1 0 4 6 3
+p436
+aVEldridge Recasner CHH 02/17/1999 CHH @ GSW L 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -1
+p437
+aVDavid Wesley CHH 02/17/1999 CHH @ GSW L 39 14 6 13 46.2 0 0 - 2 4 50.0 1 2 3 10 2 0 4 3 2
+p438
+aVChucky Brown CHH 02/16/1999 CHH @ LAL L 15 0 0 5 0.0 0 0 - 0 0 - 1 0 1 2 0 0 1 2 -3
+p439
+aVB.J. Armstrong CHH 02/16/1999 CHH @ LAL L 23 12 4 6 66.7 2 3 66.7 2 2 100.0 0 2 2 3 1 0 0 2 -8
+p440
+aVChuck Person CHH 02/16/1999 CHH @ LAL L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 3
+p441
+aVEldridge Recasner CHH 02/16/1999 CHH @ LAL L 25 11 4 8 50.0 2 3 66.7 1 2 50.0 2 1 3 2 2 0 3 1 -20
+p442
+aVDavid Wesley CHH 02/16/1999 CHH @ LAL L 25 5 1 8 12.5 1 4 25.0 2 2 100.0 0 3 3 3 1 0 1 3 -19
+p443
+aVTravis Williams CHH 02/16/1999 CHH @ LAL L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -6
+p444
+aVCharles Shackleford CHH 02/16/1999 CHH @ LAL L 25 11 4 8 50.0 0 0 - 3 4 75.0 4 3 7 1 0 0 1 4 -10
+p445
+aVJ.R. Reid CHH 02/16/1999 CHH @ LAL L 32 13 6 9 66.7 0 0 - 1 2 50.0 1 7 8 1 1 0 1 3 -24
+p446
+aVDerrick Coleman CHH 02/16/1999 CHH @ LAL L 26 8 2 12 16.7 0 1 0.0 4 5 80.0 4 5 9 2 0 1 0 4 -13
+p447
+aVBrad Miller CHH 02/16/1999 CHH @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -5
+p448
+aVRicky Davis CHH 02/16/1999 CHH @ LAL L 20 6 3 12 25.0 0 0 - 0 0 - 3 3 6 1 2 0 3 1 -13
+p449
+aVBobby Phills CHH 02/16/1999 CHH @ LAL L 33 20 8 20 40.0 2 5 40.0 2 3 66.7 2 1 3 3 1 0 2 3 -22
+p450
+aVDerrick Coleman CHH 02/11/1999 CHH @ ATL L 37 17 6 14 42.9 1 1 100.0 4 5 80.0 1 12 13 3 1 3 2 3 -14
+p451
+aVCharles Shackleford CHH 02/11/1999 CHH @ ATL L 20 9 4 8 50.0 0 0 - 1 2 50.0 1 5 6 0 0 1 0 1 -7
+p452
+aVDavid Wesley CHH 02/11/1999 CHH @ ATL L 29 14 6 12 50.0 0 1 0.0 2 2 100.0 0 1 1 4 1 0 2 2 -14
+p453
+aVBobby Phills CHH 02/11/1999 CHH @ ATL L 23 10 5 10 50.0 0 1 0.0 0 1 0.0 1 2 3 2 0 1 0 1 -3
+p454
+aVB.J. Armstrong CHH 02/11/1999 CHH @ ATL L 19 4 1 3 33.3 1 1 100.0 1 1 100.0 0 4 4 2 0 0 0 1 2
+p455
+aVJ.R. Reid CHH 02/11/1999 CHH @ ATL L 26 7 3 6 50.0 0 0 - 1 2 50.0 0 4 4 0 1 1 1 5 -6
+p456
+aVChuck Person CHH 02/11/1999 CHH @ ATL L 30 8 4 11 36.4 0 6 0.0 0 0 - 0 0 0 4 0 0 0 5 -12
+p457
+aVEldridge Recasner CHH 02/11/1999 CHH @ ATL L 21 13 5 9 55.6 0 2 0.0 3 3 100.0 2 0 2 2 2 0 0 1 -8
+p458
+aVChucky Brown CHH 02/11/1999 CHH @ ATL L 28 6 3 10 30.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 3 3
+p459
+aVBrad Miller CHH 02/11/1999 CHH @ ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p460
+aVRicky Davis CHH 02/11/1999 CHH @ ATL L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 0
+p461
+aVCharles Shackleford CHH 02/10/1999 CHH vs. CLE L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 6 -6
+p462
+aVBrad Miller CHH 02/10/1999 CHH vs. CLE L 15 10 4 4 100.0 0 0 - 2 4 50.0 0 3 3 1 0 1 2 3 3
+p463
+aVChuck Person CHH 02/10/1999 CHH vs. CLE L 29 8 2 6 33.3 2 3 66.7 2 2 100.0 1 3 4 2 1 0 1 3 0
+p464
+aVDerrick Coleman CHH 02/10/1999 CHH vs. CLE L 36 16 6 13 46.2 0 1 0.0 4 9 44.4 2 5 7 2 0 0 5 2 -2
+p465
+aVRicky Davis CHH 02/10/1999 CHH vs. CLE L 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 3 0 0 0 0 0
+p466
+aVChucky Brown CHH 02/10/1999 CHH vs. CLE L 19 8 4 7 57.1 0 0 - 0 0 - 0 3 3 2 0 0 1 1 -10
+p467
+aVEldridge Recasner CHH 02/10/1999 CHH vs. CLE L 9 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 0 1 2 -1
+p468
+aVDavid Wesley CHH 02/10/1999 CHH vs. CLE L 35 16 7 13 53.8 2 5 40.0 0 0 - 1 2 3 4 1 0 6 2 -9
+p469
+aVBobby Phills CHH 02/10/1999 CHH vs. CLE L 35 12 4 10 40.0 1 3 33.3 3 4 75.0 0 2 2 4 1 1 2 4 -9
+p470
+aVJ.R. Reid CHH 02/10/1999 CHH vs. CLE L 25 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 1 1 2 1 5 -8
+p471
+aVTravis Williams CHH 02/10/1999 CHH vs. CLE L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -3
+p472
+aVB.J. Armstrong CHH 02/10/1999 CHH vs. CLE L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 2 -5
+p473
+aVB.J. Armstrong CHH 02/08/1999 CHH vs. MIA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p474
+aVJ.R. Reid CHH 02/08/1999 CHH vs. MIA W 32 19 7 12 58.3 0 0 - 5 6 83.3 2 4 6 1 2 0 3 5 12
+p475
+aVRicky Davis CHH 02/08/1999 CHH vs. MIA W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p476
+aVChucky Brown CHH 02/08/1999 CHH vs. MIA W 18 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 2 -9
+p477
+aVCharles Shackleford CHH 02/08/1999 CHH vs. MIA W 19 5 2 6 33.3 0 0 - 1 2 50.0 2 6 8 1 0 2 3 4 8
+p478
+aVDavid Wesley CHH 02/08/1999 CHH vs. MIA W 42 18 5 7 71.4 0 2 0.0 8 8 100.0 0 1 1 12 2 0 1 3 14
+p479
+aVBobby Phills CHH 02/08/1999 CHH vs. MIA W 42 16 6 14 42.9 1 3 33.3 3 6 50.0 1 1 2 4 1 0 2 5 10
+p480
+aVDerrick Coleman CHH 02/08/1999 CHH vs. MIA W 34 8 1 8 12.5 0 0 - 6 6 100.0 2 10 12 2 1 0 0 3 3
+p481
+aVChuck Person CHH 02/08/1999 CHH vs. MIA W 30 16 6 7 85.7 2 2 100.0 2 2 100.0 0 3 3 0 0 0 1 0 12
+p482
+aVJoe Wolf CHH 02/08/1999 CHH vs. MIA W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p483
+aVBrad Miller CHH 02/08/1999 CHH vs. MIA W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p484
+aVTravis Williams CHH 02/06/1999 CHH vs. MIL L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p485
+aVJoe Wolf CHH 02/06/1999 CHH vs. MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p486
+aVChuck Person CHH 02/06/1999 CHH vs. MIL L 29 11 3 7 42.9 2 6 33.3 3 5 60.0 0 9 9 2 0 0 2 3 12
+p487
+aVRicky Davis CHH 02/06/1999 CHH vs. MIL L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p488
+aVBobby Phills CHH 02/06/1999 CHH vs. MIL L 38 18 5 13 38.5 0 3 0.0 8 9 88.9 2 6 8 1 0 0 3 4 -8
+p489
+aVEldridge Recasner CHH 02/06/1999 CHH vs. MIL L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p490
+aVJ.R. Reid CHH 02/06/1999 CHH vs. MIL L 32 13 4 5 80.0 0 0 - 5 6 83.3 0 7 7 2 0 1 3 4 -16
+p491
+aVCharles Shackleford CHH 02/06/1999 CHH vs. MIL L 14 7 3 3 100.0 0 0 - 1 2 50.0 1 3 4 0 0 1 0 3 9
+p492
+aVB.J. Armstrong CHH 02/06/1999 CHH vs. MIL L 41 17 6 13 46.2 2 2 100.0 3 3 100.0 1 1 2 8 0 0 2 2 4
+p493
+aVChucky Brown CHH 02/06/1999 CHH vs. MIL L 15 7 3 5 60.0 0 0 - 1 1 100.0 3 1 4 1 0 0 2 3 -9
+p494
+aVDavid Wesley CHH 02/06/1999 CHH vs. MIL L 36 15 6 9 66.7 2 4 50.0 1 2 50.0 0 1 1 6 2 0 4 6 -13
+p495
+aVDerrick Coleman CHH 02/06/1999 CHH vs. MIL L 41 17 7 13 53.8 0 2 0.0 3 7 42.9 2 11 13 4 1 1 7 3 -8
+p496
+aVChucky Brown CHH 02/05/1999 CHH vs. PHI L 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 1 1 0 -8
+p497
+aVBobby Phills CHH 02/05/1999 CHH vs. PHI L 30 15 6 10 60.0 2 2 100.0 1 2 50.0 0 2 2 3 0 0 3 2 -4
+p498
+aVEldridge Recasner CHH 02/05/1999 CHH vs. PHI L 15 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 0 0 1 0 -10
+p499
+aVDerrick Coleman CHH 02/05/1999 CHH vs. PHI L 34 11 4 13 30.8 0 0 - 3 6 50.0 5 10 15 3 0 1 2 2 -5
+p500
+aVTravis Williams CHH 02/05/1999 CHH vs. PHI L 17 4 2 4 50.0 0 0 - 0 0 - 1 6 7 1 1 0 2 3 -13
+p501
+aVDavid Wesley CHH 02/05/1999 CHH vs. PHI L 36 6 1 11 9.1 0 2 0.0 4 8 50.0 0 1 1 6 2 0 2 1 -4
+p502
+aVRicky Davis CHH 02/05/1999 CHH vs. PHI L 16 6 2 5 40.0 0 0 - 2 4 50.0 2 2 4 1 1 0 2 0 -6
+p503
+aVJ.R. Reid CHH 02/05/1999 CHH vs. PHI L 33 8 3 9 33.3 0 0 - 2 2 100.0 1 4 5 2 2 1 0 2 1
+p504
+aVBrad Miller CHH 02/05/1999 CHH vs. PHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p505
+aVChuck Person CHH 02/05/1999 CHH vs. PHI L 29 11 4 10 40.0 3 8 37.5 0 0 - 0 3 3 0 1 1 3 1 -4
+p506
+aVJoe Wolf CHH 02/05/1999 CHH vs. PHI L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 4 -7
+p507
+a.

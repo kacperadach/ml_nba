@@ -1,0 +1,1684 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAl Jefferson CHA 04/16/2014 CHA vs. CHI W 42 10 4 14 28.6 0 1 0.0 2 4 50.0 6 12 18 3 1 2 2 1 9
+p2
+aVGerald Henderson CHA 04/16/2014 CHA vs. CHI W 33 11 5 13 38.5 0 0 - 1 3 33.3 0 6 6 1 0 0 1 1 11
+p3
+aVKemba Walker CHA 04/16/2014 CHA vs. CHI W 40 22 6 16 37.5 0 6 0.0 10 11 90.9 0 7 7 8 1 1 0 0 7
+p4
+aVBismack Biyombo CHA 04/16/2014 CHA vs. CHI W 11 4 2 3 66.7 0 0 - 0 2 0.0 2 5 7 0 1 1 0 1 -4
+p5
+aVChris Douglas-Roberts CHA 04/16/2014 CHA vs. CHI W 30 13 4 10 40.0 2 3 66.7 3 4 75.0 0 1 1 0 1 1 1 3 4
+p6
+aVMichael Kidd-Gilchrist CHA 04/16/2014 CHA vs. CHI W 23 8 3 4 75.0 0 0 - 2 2 100.0 2 1 3 0 0 1 0 1 1
+p7
+aVJosh McRoberts CHA 04/16/2014 CHA vs. CHI W 35 7 3 8 37.5 1 6 16.7 0 0 - 1 4 5 7 1 1 1 3 2
+p8
+aVLuke Ridnour CHA 04/16/2014 CHA vs. CHI W 13 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p9
+aVCody Zeller CHA 04/16/2014 CHA vs. CHI W 18 8 4 6 66.7 0 0 - 0 0 - 1 0 1 1 1 0 3 0 3
+p10
+aVGary Neal CHA 04/16/2014 CHA vs. CHI W 20 5 2 8 25.0 1 3 33.3 0 0 - 0 4 4 3 2 0 1 2 -6
+p11
+aVAl Jefferson CHA 04/14/2014 CHA @ ATL W 35 27 11 17 64.7 0 1 0.0 5 7 71.4 4 11 15 1 1 0 2 4 -3
+p12
+aVMichael Kidd-Gilchrist CHA 04/14/2014 CHA @ ATL W 23 8 3 4 75.0 0 0 - 2 7 28.6 3 6 9 3 0 0 2 2 -2
+p13
+aVBismack Biyombo CHA 04/14/2014 CHA @ ATL W 13 2 1 1 100.0 0 0 - 0 1 0.0 3 3 6 1 0 2 0 0 5
+p14
+aVKemba Walker CHA 04/14/2014 CHA @ ATL W 25 5 1 9 11.1 1 5 20.0 2 4 50.0 0 0 0 7 0 0 1 0 -5
+p15
+aVJosh McRoberts CHA 04/14/2014 CHA @ ATL W 15 3 1 5 20.0 1 5 20.0 0 0 - 0 2 2 4 0 0 1 4 6
+p16
+aVLuke Ridnour CHA 04/14/2014 CHA @ ATL W 23 10 5 8 62.5 0 2 0.0 0 0 - 0 0 0 4 0 0 2 1 7
+p17
+aVCody Zeller CHA 04/14/2014 CHA @ ATL W 12 8 3 6 50.0 0 0 - 2 4 50.0 0 1 1 1 0 0 1 2 -9
+p18
+aVGerald Henderson CHA 04/14/2014 CHA @ ATL W 24 4 1 9 11.1 0 1 0.0 2 2 100.0 2 3 5 3 0 0 0 2 -10
+p19
+aVAnthony Tolliver CHA 04/14/2014 CHA @ ATL W 20 6 2 7 28.6 2 7 28.6 0 0 - 0 6 6 0 1 0 0 1 5
+p20
+aVGary Neal CHA 04/14/2014 CHA @ ATL W 25 17 5 11 45.5 2 3 66.7 5 5 100.0 0 2 2 2 0 0 0 1 8
+p21
+aVChris Douglas-Roberts CHA 04/14/2014 CHA @ ATL W 23 5 2 3 66.7 0 1 0.0 1 1 100.0 0 2 2 1 1 0 0 3 8
+p22
+aVGary Neal CHA 04/12/2014 CHA vs. PHI W 19 10 4 10 40.0 0 3 0.0 2 3 66.7 0 0 0 1 0 0 1 0 8
+p23
+aVMichael Kidd-Gilchrist CHA 04/12/2014 CHA vs. PHI W 22 10 4 6 66.7 0 0 - 2 4 50.0 2 6 8 0 1 1 1 2 11
+p24
+aVCody Zeller CHA 04/12/2014 CHA vs. PHI W 21 12 2 4 50.0 0 0 - 8 10 80.0 1 2 3 0 1 1 1 4 7
+p25
+aVChris Douglas-Roberts CHA 04/12/2014 CHA vs. PHI W 26 12 4 8 50.0 2 5 40.0 2 2 100.0 2 2 4 1 0 1 1 3 -5
+p26
+aVJosh McRoberts CHA 04/12/2014 CHA vs. PHI W 27 4 1 4 25.0 1 3 33.3 1 2 50.0 0 3 3 4 1 0 3 3 -1
+p27
+aVGerald Henderson CHA 04/12/2014 CHA vs. PHI W 29 14 5 8 62.5 0 1 0.0 4 7 57.1 1 3 4 3 0 2 2 1 -2
+p28
+aVAl Jefferson CHA 04/12/2014 CHA vs. PHI W 36 29 13 19 68.4 0 0 - 3 5 60.0 2 10 12 3 0 2 3 3 3
+p29
+aVBismack Biyombo CHA 04/12/2014 CHA vs. PHI W 12 2 0 0 - 0 0 - 2 4 50.0 1 0 1 1 0 1 0 1 3
+p30
+aVJannero Pargo CHA 04/12/2014 CHA vs. PHI W 17 6 2 5 40.0 2 3 66.7 0 0 - 0 4 4 2 0 0 1 2 5
+p31
+aVLuke Ridnour CHA 04/12/2014 CHA vs. PHI W 31 12 4 8 50.0 2 4 50.0 2 4 50.0 0 2 2 8 0 1 1 3 1
+p32
+aVMichael Kidd-Gilchrist CHA 04/11/2014 CHA @ BOS L 20 10 5 9 55.6 0 0 - 0 1 0.0 2 4 6 3 1 2 0 4 -1
+p33
+aVAl Jefferson CHA 04/11/2014 CHA @ BOS L 39 32 16 26 61.5 0 0 - 0 0 - 2 8 10 4 1 0 3 2 -4
+p34
+aVChris Douglas-Roberts CHA 04/11/2014 CHA @ BOS L 28 12 3 8 37.5 0 4 0.0 6 7 85.7 0 2 2 2 2 0 1 0 -2
+p35
+aVGerald Henderson CHA 04/11/2014 CHA @ BOS L 25 11 4 8 50.0 2 2 100.0 1 2 50.0 1 2 3 3 0 0 2 4 2
+p36
+aVCody Zeller CHA 04/11/2014 CHA @ BOS L 18 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 1 0 1 1 -16
+p37
+aVJannero Pargo CHA 04/11/2014 CHA @ BOS L 17 4 2 10 20.0 0 4 0.0 0 0 - 0 2 2 4 3 0 2 1 -14
+p38
+aVBismack Biyombo CHA 04/11/2014 CHA @ BOS L 9 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 2 0 4 1
+p39
+aVGary Neal CHA 04/11/2014 CHA @ BOS L 23 13 6 8 75.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 1 -5
+p40
+aVJosh McRoberts CHA 04/11/2014 CHA @ BOS L 30 9 3 5 60.0 3 4 75.0 0 0 - 0 3 3 10 0 0 3 2 13
+p41
+aVLuke Ridnour CHA 04/11/2014 CHA @ BOS L 31 9 4 9 44.4 1 3 33.3 0 0 - 0 2 2 5 3 0 0 1 11
+p42
+aVJosh McRoberts CHA 04/09/2014 CHA @ WAS W 34 12 5 12 41.7 2 8 25.0 0 0 - 0 2 2 2 2 0 1 2 0
+p43
+aVGerald Henderson CHA 04/09/2014 CHA @ WAS W 33 13 4 9 44.4 3 3 100.0 2 2 100.0 0 5 5 2 1 0 0 1 2
+p44
+aVCody Zeller CHA 04/09/2014 CHA @ WAS W 19 4 1 5 20.0 0 0 - 2 4 50.0 2 2 4 1 0 0 1 3 6
+p45
+aVGary Neal CHA 04/09/2014 CHA @ WAS W 31 16 5 14 35.7 1 4 25.0 5 5 100.0 0 4 4 4 0 0 1 1 13
+p46
+aVMichael Kidd-Gilchrist CHA 04/09/2014 CHA @ WAS W 21 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 2 1 2 1 -10
+p47
+aVChris Douglas-Roberts CHA 04/09/2014 CHA @ WAS W 21 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 0 1 0 0 0 7
+p48
+aVAl Jefferson CHA 04/09/2014 CHA @ WAS W 43 20 9 20 45.0 0 0 - 2 2 100.0 5 13 18 2 1 0 3 2 5
+p49
+aVBismack Biyombo CHA 04/09/2014 CHA @ WAS W 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 1
+p50
+aVLuke Ridnour CHA 04/09/2014 CHA @ WAS W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p51
+aVKemba Walker CHA 04/09/2014 CHA @ WAS W 44 17 6 21 28.6 3 6 50.0 2 2 100.0 0 4 4 12 0 0 3 2 9
+p52
+aVChris Douglas-Roberts CHA 04/05/2014 CHA @ CLE W 31 9 3 9 33.3 1 4 25.0 2 2 100.0 0 6 6 3 0 0 3 3 0
+p53
+aVKemba Walker CHA 04/05/2014 CHA @ CLE W 42 20 7 23 30.4 3 8 37.5 3 4 75.0 0 4 4 7 3 0 3 2 8
+p54
+aVGary Neal CHA 04/05/2014 CHA @ CLE W 19 0 0 6 0.0 0 4 0.0 0 0 - 0 1 1 0 1 0 1 2 -2
+p55
+aVMichael Kidd-Gilchrist CHA 04/05/2014 CHA @ CLE W 22 4 2 4 50.0 0 0 - 0 1 0.0 2 4 6 1 1 2 1 2 -1
+p56
+aVLuke Ridnour CHA 04/05/2014 CHA @ CLE W 12 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 3 0 0 0 2 -4
+p57
+aVAnthony Tolliver CHA 04/05/2014 CHA @ CLE W 16 6 2 5 40.0 2 5 40.0 0 0 - 0 5 5 1 0 0 1 1 2
+p58
+aVCody Zeller CHA 04/05/2014 CHA @ CLE W 37 12 4 6 66.7 0 0 - 4 8 50.0 3 8 11 4 0 1 1 1 -2
+p59
+aVBismack Biyombo CHA 04/05/2014 CHA @ CLE W 12 0 0 1 0.0 0 0 - 0 0 - 4 3 7 0 0 0 0 2 8
+p60
+aVAl Jefferson CHA 04/05/2014 CHA @ CLE W 41 24 9 21 42.9 0 0 - 6 8 75.0 3 12 15 4 1 2 2 2 -3
+p61
+aVGerald Henderson CHA 04/05/2014 CHA @ CLE W 33 15 5 13 38.5 1 3 33.3 4 4 100.0 0 2 2 0 1 0 0 2 4
+p62
+aVChris Douglas-Roberts CHA 04/04/2014 CHA vs. ORL W 31 5 1 5 20.0 0 3 0.0 3 4 75.0 0 3 3 3 1 0 1 1 6
+p63
+aVGerald Henderson CHA 04/04/2014 CHA vs. ORL W 23 7 2 7 28.6 0 2 0.0 3 3 100.0 0 3 3 2 1 2 3 5 15
+p64
+aVKemba Walker CHA 04/04/2014 CHA vs. ORL W 35 13 5 15 33.3 1 1 100.0 2 2 100.0 2 8 10 10 1 0 4 2 20
+p65
+aVAnthony Tolliver CHA 04/04/2014 CHA vs. ORL W 23 13 4 7 57.1 4 5 80.0 1 2 50.0 1 1 2 1 0 0 0 1 0
+p66
+aVGary Neal CHA 04/04/2014 CHA vs. ORL W 25 12 4 10 40.0 1 4 25.0 3 3 100.0 0 3 3 2 0 0 2 1 -4
+p67
+aVAl Jefferson CHA 04/04/2014 CHA vs. ORL W 37 29 13 24 54.2 0 1 0.0 3 3 100.0 4 12 16 0 0 1 2 1 7
+p68
+aVBismack Biyombo CHA 04/04/2014 CHA vs. ORL W 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 2 0 0 4
+p69
+aVCody Zeller CHA 04/04/2014 CHA vs. ORL W 25 8 2 4 50.0 0 0 - 4 6 66.7 1 3 4 0 0 2 2 2 11
+p70
+aVMichael Kidd-Gilchrist CHA 04/04/2014 CHA vs. ORL W 17 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 0 5
+p71
+aVLuke Ridnour CHA 04/04/2014 CHA vs. ORL W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -9
+p72
+aVAl Jefferson CHA 04/02/2014 CHA @ PHI W 31 25 9 17 52.9 0 0 - 7 10 70.0 1 9 10 0 0 0 1 0 12
+p73
+aVAnthony Tolliver CHA 04/02/2014 CHA @ PHI W 21 16 5 8 62.5 4 7 57.1 2 2 100.0 1 7 8 5 0 0 1 3 17
+p74
+aVBismack Biyombo CHA 04/02/2014 CHA @ PHI W 17 2 1 3 33.3 0 0 - 0 0 - 4 3 7 0 0 2 1 3 18
+p75
+aVGary Neal CHA 04/02/2014 CHA @ PHI W 19 15 6 10 60.0 1 2 50.0 2 2 100.0 0 0 0 3 0 0 0 1 25
+p76
+aVCody Zeller CHA 04/02/2014 CHA @ PHI W 27 9 3 5 60.0 0 0 - 3 6 50.0 1 7 8 3 0 1 3 2 13
+p77
+aVJannero Pargo CHA 04/02/2014 CHA @ PHI W 8 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 5 0 0 0 1 4
+p78
+aVLuke Ridnour CHA 04/02/2014 CHA @ PHI W 20 8 3 8 37.5 2 3 66.7 0 0 - 0 2 2 1 0 0 1 1 11
+p79
+aVChris Douglas-Roberts CHA 04/02/2014 CHA @ PHI W 25 14 4 6 66.7 3 5 60.0 3 3 100.0 0 2 2 4 0 1 2 1 17
+p80
+aVGerald Henderson CHA 04/02/2014 CHA @ PHI W 26 14 5 8 62.5 1 1 100.0 3 4 75.0 0 2 2 4 1 0 0 1 10
+p81
+aVDJ White CHA 04/02/2014 CHA @ PHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p82
+aVMichael Kidd-Gilchrist CHA 04/02/2014 CHA @ PHI W 20 7 1 2 50.0 0 0 - 5 6 83.3 1 5 6 2 0 0 0 0 10
+p83
+aVKemba Walker CHA 04/02/2014 CHA @ PHI W 20 8 3 6 50.0 0 1 0.0 2 2 100.0 0 0 0 5 0 0 0 4 15
+p84
+aVBismack Biyombo CHA 03/31/2014 CHA vs. WAS W 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 8
+p85
+aVJosh McRoberts CHA 03/31/2014 CHA vs. WAS W 27 2 1 2 50.0 0 1 0.0 0 0 - 3 2 5 1 0 1 0 1 -3
+p86
+aVChris Douglas-Roberts CHA 03/31/2014 CHA vs. WAS W 28 18 7 9 77.8 2 3 66.7 2 3 66.7 1 2 3 0 0 0 1 1 4
+p87
+aVMichael Kidd-Gilchrist CHA 03/31/2014 CHA vs. WAS W 21 3 0 5 0.0 0 0 - 3 4 75.0 3 3 6 0 1 0 1 2 2
+p88
+aVLuke Ridnour CHA 03/31/2014 CHA vs. WAS W 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 1 -10
+p89
+aVGary Neal CHA 03/31/2014 CHA vs. WAS W 21 9 3 6 50.0 1 4 25.0 2 2 100.0 1 5 6 1 1 0 3 2 7
+p90
+aVAl Jefferson CHA 03/31/2014 CHA vs. WAS W 40 19 8 19 42.1 0 0 - 3 3 100.0 3 8 11 0 0 2 0 3 -2
+p91
+aVGerald Henderson CHA 03/31/2014 CHA vs. WAS W 27 9 3 7 42.9 0 1 0.0 3 4 75.0 0 3 3 2 1 0 1 2 -1
+p92
+aVCody Zeller CHA 03/31/2014 CHA vs. WAS W 20 15 4 4 100.0 0 0 - 7 8 87.5 3 5 8 2 1 0 1 1 9
+p93
+aVKemba Walker CHA 03/31/2014 CHA vs. WAS W 38 21 6 22 27.3 0 10 0.0 9 10 90.0 1 4 5 10 1 1 1 2 16
+p94
+aVLuke Ridnour CHA 03/28/2014 CHA @ ORL L 15 2 1 5 20.0 0 0 - 0 0 - 0 0 0 4 1 0 1 2 -17
+p95
+aVCody Zeller CHA 03/28/2014 CHA @ ORL L 18 9 3 5 60.0 0 0 - 3 4 75.0 0 2 2 0 0 1 2 0 -2
+p96
+aVAl Jefferson CHA 03/28/2014 CHA @ ORL L 42 20 10 16 62.5 0 1 0.0 0 0 - 2 6 8 2 4 0 1 4 7
+p97
+aVMichael Kidd-Gilchrist CHA 03/28/2014 CHA @ ORL L 28 10 5 11 45.5 0 0 - 0 1 0.0 3 4 7 1 0 0 0 1 18
+p98
+aVBismack Biyombo CHA 03/28/2014 CHA @ ORL L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 2 1 2 -12
+p99
+aVChris Douglas-Roberts CHA 03/28/2014 CHA @ ORL L 28 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 1 0 2 -16
+p100
+aVAnthony Tolliver CHA 03/28/2014 CHA @ ORL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p101
+aVJosh McRoberts CHA 03/28/2014 CHA @ ORL L 35 24 8 16 50.0 6 12 50.0 2 2 100.0 3 4 7 6 1 2 2 3 -3
+p102
+aVGerald Henderson CHA 03/28/2014 CHA @ ORL L 40 14 7 13 53.8 0 1 0.0 0 0 - 1 3 4 3 0 1 2 4 1
+p103
+aVKemba Walker CHA 03/28/2014 CHA @ ORL L 42 24 8 25 32.0 2 6 33.3 6 7 85.7 0 5 5 8 1 0 1 4 6
+p104
+aVJosh McRoberts CHA 03/26/2014 CHA vs. BKN W 39 12 5 6 83.3 0 0 - 2 2 100.0 4 2 6 4 1 0 1 2 14
+p105
+aVAl Jefferson CHA 03/26/2014 CHA vs. BKN W 41 35 15 27 55.6 0 0 - 5 7 71.4 3 12 15 1 0 0 1 2 3
+p106
+aVChris Douglas-Roberts CHA 03/26/2014 CHA vs. BKN W 27 16 6 14 42.9 3 8 37.5 1 1 100.0 3 2 5 2 0 0 1 2 -7
+p107
+aVGerald Henderson CHA 03/26/2014 CHA vs. BKN W 37 7 3 8 37.5 1 2 50.0 0 2 0.0 0 2 2 5 0 1 2 1 9
+p108
+aVLuke Ridnour CHA 03/26/2014 CHA vs. BKN W 17 9 4 5 80.0 1 2 50.0 0 0 - 1 2 3 2 0 0 0 2 -6
+p109
+aVBismack Biyombo CHA 03/26/2014 CHA vs. BKN W 12 1 0 0 - 0 0 - 1 2 50.0 1 4 5 1 0 0 0 4 2
+p110
+aVAnthony Tolliver CHA 03/26/2014 CHA vs. BKN W 6 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 1
+p111
+aVKemba Walker CHA 03/26/2014 CHA vs. BKN W 45 20 8 21 38.1 2 6 33.3 2 2 100.0 0 5 5 12 1 0 2 0 8
+p112
+aVMichael Kidd-Gilchrist CHA 03/26/2014 CHA vs. BKN W 27 7 2 5 40.0 0 0 - 3 5 60.0 1 4 5 0 1 0 1 2 10
+p113
+aVCody Zeller CHA 03/26/2014 CHA vs. BKN W 14 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 -9
+p114
+aVAl Jefferson CHA 03/24/2014 CHA vs. HOU L 42 20 8 17 47.1 0 1 0.0 4 6 66.7 2 9 11 2 1 1 2 4 -5
+p115
+aVMichael Kidd-Gilchrist CHA 03/24/2014 CHA vs. HOU L 24 6 1 4 25.0 0 0 - 4 5 80.0 3 4 7 0 2 0 0 2 3
+p116
+aVCody Zeller CHA 03/24/2014 CHA vs. HOU L 14 10 4 5 80.0 0 0 - 2 2 100.0 3 1 4 0 1 0 1 1 -8
+p117
+aVLuke Ridnour CHA 03/24/2014 CHA vs. HOU L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 1 0 2 -11
+p118
+aVJosh McRoberts CHA 03/24/2014 CHA vs. HOU L 34 11 5 10 50.0 1 3 33.3 0 1 0.0 1 2 3 4 0 0 1 3 -3
+p119
+aVChris Douglas-Roberts CHA 03/24/2014 CHA vs. HOU L 26 7 2 6 33.3 0 2 0.0 3 3 100.0 0 2 2 2 2 0 0 3 -14
+p120
+aVKemba Walker CHA 03/24/2014 CHA vs. HOU L 39 22 7 19 36.8 2 6 33.3 6 6 100.0 1 3 4 3 0 1 3 1 0
+p121
+aVBismack Biyombo CHA 03/24/2014 CHA vs. HOU L 6 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 -6
+p122
+aVGerald Henderson CHA 03/24/2014 CHA vs. HOU L 31 13 5 13 38.5 1 5 20.0 2 2 100.0 0 1 1 1 0 1 1 1 -4
+p123
+aVGary Neal CHA 03/24/2014 CHA vs. HOU L 15 0 0 8 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 0 -7
+p124
+aVChris Douglas-Roberts CHA 03/22/2014 CHA vs. POR W 34 11 4 12 33.3 0 5 0.0 3 3 100.0 2 3 5 3 1 0 1 3 19
+p125
+aVCody Zeller CHA 03/22/2014 CHA vs. POR W 16 3 1 7 14.3 0 0 - 1 2 50.0 5 2 7 0 1 1 0 2 7
+p126
+aVMichael Kidd-Gilchrist CHA 03/22/2014 CHA vs. POR W 19 9 4 6 66.7 0 0 - 1 1 100.0 1 6 7 0 0 0 0 3 12
+p127
+aVAnthony Tolliver CHA 03/22/2014 CHA vs. POR W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 0
+p128
+aVJosh McRoberts CHA 03/22/2014 CHA vs. POR W 32 6 1 2 50.0 0 1 0.0 4 4 100.0 0 3 3 5 0 1 0 3 23
+p129
+aVBismack Biyombo CHA 03/22/2014 CHA vs. POR W 15 0 0 0 - 0 0 - 0 0 - 2 3 5 0 1 0 0 2 16
+p130
+aVGary Neal CHA 03/22/2014 CHA vs. POR W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 0 0 10
+p131
+aVAl Jefferson CHA 03/22/2014 CHA vs. POR W 29 28 13 22 59.1 0 1 0.0 2 2 100.0 1 6 7 6 0 2 1 2 12
+p132
+aVLuke Ridnour CHA 03/22/2014 CHA vs. POR W 15 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 2 0 2 1 0 21
+p133
+aVKemba Walker CHA 03/22/2014 CHA vs. POR W 33 26 10 18 55.6 4 5 80.0 2 2 100.0 0 2 2 6 1 1 0 0 15
+p134
+aVGerald Henderson CHA 03/22/2014 CHA vs. POR W 29 23 8 11 72.7 2 2 100.0 5 5 100.0 0 8 8 5 1 1 2 2 15
+p135
+aVJannero Pargo CHA 03/22/2014 CHA vs. POR W 4 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 1 0 0 0 0 0
+p136
+aVDJ White CHA 03/22/2014 CHA vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p137
+aVGary Neal CHA 03/19/2014 CHA @ BKN L 27 17 5 9 55.6 3 6 50.0 4 4 100.0 0 1 1 1 0 0 0 3 -9
+p138
+aVBismack Biyombo CHA 03/19/2014 CHA @ BKN L 11 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 1 0 3 3
+p139
+aVMichael Kidd-Gilchrist CHA 03/19/2014 CHA @ BKN L 19 7 3 6 50.0 0 0 - 1 2 50.0 3 3 6 1 1 0 1 3 -4
+p140
+aVKemba Walker CHA 03/19/2014 CHA @ BKN L 34 7 2 8 25.0 1 6 16.7 2 2 100.0 1 3 4 7 0 0 4 3 -8
+p141
+aVJosh McRoberts CHA 03/19/2014 CHA @ BKN L 31 8 3 5 60.0 1 2 50.0 1 1 100.0 2 3 5 6 0 1 1 4 4
+p142
+aVCody Zeller CHA 03/19/2014 CHA @ BKN L 17 10 5 9 55.6 0 0 - 0 0 - 4 2 6 1 0 2 2 1 -9
+p143
+aVGerald Henderson CHA 03/19/2014 CHA @ BKN L 28 13 6 13 46.2 1 5 20.0 0 0 - 1 5 6 3 1 0 1 2 -1
+p144
+aVChris Douglas-Roberts CHA 03/19/2014 CHA @ BKN L 22 13 5 9 55.6 3 6 50.0 0 0 - 0 3 3 3 0 1 1 3 4
+p145
+aVAl Jefferson CHA 03/19/2014 CHA @ BKN L 37 18 8 19 42.1 0 0 - 2 3 66.7 2 10 12 3 0 0 5 2 -8
+p146
+aVLuke Ridnour CHA 03/19/2014 CHA @ BKN L 14 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 2 3
+p147
+aVKemba Walker CHA 03/17/2014 CHA vs. ATL L 33 20 7 18 38.9 4 6 66.7 2 2 100.0 1 3 4 7 1 1 1 1 -16
+p148
+aVGary Neal CHA 03/17/2014 CHA vs. ATL L 28 9 3 8 37.5 1 2 50.0 2 2 100.0 0 2 2 1 1 0 1 1 -9
+p149
+aVLuke Ridnour CHA 03/17/2014 CHA vs. ATL L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 4 1 0 0 1 2
+p150
+aVMichael Kidd-Gilchrist CHA 03/17/2014 CHA vs. ATL L 21 2 1 4 25.0 0 0 - 0 2 0.0 4 2 6 1 0 0 0 2 -3
+p151
+aVJosh McRoberts CHA 03/17/2014 CHA vs. ATL L 27 5 2 10 20.0 1 7 14.3 0 0 - 0 5 5 4 0 2 1 5 -16
+p152
+aVAl Jefferson CHA 03/17/2014 CHA vs. ATL L 39 16 6 15 40.0 0 1 0.0 4 4 100.0 3 9 12 3 1 0 0 0 -13
+p153
+aVChris Douglas-Roberts CHA 03/17/2014 CHA vs. ATL L 17 3 1 3 33.3 0 2 0.0 1 1 100.0 0 1 1 1 0 0 0 1 -11
+p154
+aVCody Zeller CHA 03/17/2014 CHA vs. ATL L 12 3 1 6 16.7 0 0 - 1 1 100.0 1 1 2 0 0 2 0 1 3
+p155
+aVBismack Biyombo CHA 03/17/2014 CHA vs. ATL L 8 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 1 2 3 1
+p156
+aVAnthony Tolliver CHA 03/17/2014 CHA vs. ATL L 11 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p157
+aVGerald Henderson CHA 03/17/2014 CHA vs. ATL L 29 16 5 12 41.7 2 4 50.0 4 4 100.0 0 3 3 1 0 1 1 0 -5
+p158
+aVKemba Walker CHA 03/16/2014 CHA @ MIL W 31 21 7 13 53.8 2 5 40.0 5 6 83.3 0 2 2 8 1 0 2 0 13
+p159
+aVAl Jefferson CHA 03/16/2014 CHA @ MIL W 37 20 10 17 58.8 0 0 - 0 0 - 0 7 7 2 2 2 6 1 8
+p160
+aVMichael Kidd-Gilchrist CHA 03/16/2014 CHA @ MIL W 27 9 4 6 66.7 0 0 - 1 2 50.0 3 1 4 1 0 2 1 0 13
+p161
+aVGerald Henderson CHA 03/16/2014 CHA @ MIL W 31 14 6 7 85.7 2 3 66.7 0 0 - 0 5 5 6 1 1 2 0 18
+p162
+aVJosh McRoberts CHA 03/16/2014 CHA @ MIL W 32 9 3 7 42.9 3 5 60.0 0 0 - 1 5 6 6 0 1 2 3 13
+p163
+aVLuke Ridnour CHA 03/16/2014 CHA @ MIL W 17 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 2 0 0 0 1 -4
+p164
+aVBismack Biyombo CHA 03/16/2014 CHA @ MIL W 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 1 0 1
+p165
+aVCody Zeller CHA 03/16/2014 CHA @ MIL W 16 4 1 1 100.0 0 0 - 2 4 50.0 0 6 6 0 0 0 1 2 -4
+p166
+aVChris Douglas-Roberts CHA 03/16/2014 CHA @ MIL W 13 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 1 0 1 1 5 -12
+p167
+aVGary Neal CHA 03/16/2014 CHA @ MIL W 25 18 5 6 83.3 2 3 66.7 6 6 100.0 0 2 2 0 1 0 1 4 -1
+p168
+aVCody Zeller CHA 03/14/2014 CHA vs. MIN W 21 10 5 8 62.5 0 0 - 0 0 - 2 6 8 3 0 0 0 2 -2
+p169
+aVGerald Henderson CHA 03/14/2014 CHA vs. MIN W 25 10 4 9 44.4 2 3 66.7 0 2 0.0 1 3 4 1 0 0 2 3 3
+p170
+aVGary Neal CHA 03/14/2014 CHA vs. MIN W 25 19 6 10 60.0 3 3 100.0 4 4 100.0 0 0 0 4 0 0 1 3 11
+p171
+aVKemba Walker CHA 03/14/2014 CHA vs. MIN W 34 7 3 12 25.0 1 2 50.0 0 2 0.0 0 4 4 7 3 0 4 2 -1
+p172
+aVLuke Ridnour CHA 03/14/2014 CHA vs. MIN W 14 6 3 3 100.0 0 0 - 0 0 - 1 2 3 3 1 1 3 1 13
+p173
+aVChris Douglas-Roberts CHA 03/14/2014 CHA vs. MIN W 21 10 3 5 60.0 2 4 50.0 2 2 100.0 0 4 4 2 2 0 0 0 11
+p174
+aVMichael Kidd-Gilchrist CHA 03/14/2014 CHA vs. MIN W 25 10 4 6 66.7 0 0 - 2 2 100.0 4 5 9 1 0 2 2 3 -1
+p175
+aVAl Jefferson CHA 03/14/2014 CHA vs. MIN W 38 25 12 26 46.2 0 1 0.0 1 1 100.0 4 12 16 1 0 1 3 2 0
+p176
+aVJosh McRoberts CHA 03/14/2014 CHA vs. MIN W 27 6 3 11 27.3 0 6 0.0 0 1 0.0 1 2 3 6 0 1 0 2 14
+p177
+aVBismack Biyombo CHA 03/14/2014 CHA vs. MIN W 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 12
+p178
+aVAnthony Tolliver CHA 03/12/2014 CHA @ WAS W 18 3 1 5 20.0 1 5 20.0 0 0 - 0 1 1 1 1 0 0 0 -2
+p179
+aVJosh McRoberts CHA 03/12/2014 CHA @ WAS W 31 9 3 9 33.3 1 4 25.0 2 4 50.0 1 4 5 4 1 0 2 1 5
+p180
+aVMichael Kidd-Gilchrist CHA 03/12/2014 CHA @ WAS W 30 10 4 6 66.7 0 0 - 2 2 100.0 3 9 12 1 0 0 1 1 15
+p181
+aVGerald Henderson CHA 03/12/2014 CHA @ WAS W 27 13 6 9 66.7 0 1 0.0 1 2 50.0 0 1 1 0 0 2 2 1 12
+p182
+aVLuke Ridnour CHA 03/12/2014 CHA @ WAS W 11 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 5
+p183
+aVCody Zeller CHA 03/12/2014 CHA @ WAS W 17 7 2 2 100.0 0 0 - 3 4 75.0 3 4 7 0 0 0 2 3 8
+p184
+aVChris Douglas-Roberts CHA 03/12/2014 CHA @ WAS W 21 10 2 5 40.0 2 2 100.0 4 4 100.0 1 2 3 0 2 0 0 0 1
+p185
+aVAl Jefferson CHA 03/12/2014 CHA @ WAS W 36 26 13 20 65.0 0 0 - 0 0 - 0 10 10 1 0 1 2 2 16
+p186
+aVBismack Biyombo CHA 03/12/2014 CHA @ WAS W 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p187
+aVKemba Walker CHA 03/12/2014 CHA @ WAS W 37 16 5 13 38.5 1 4 25.0 5 6 83.3 0 3 3 5 1 0 1 1 8
+p188
+aVGary Neal CHA 03/10/2014 CHA vs. DEN W 31 19 7 9 77.8 3 3 100.0 2 2 100.0 0 4 4 4 1 0 2 4 1
+p189
+aVAl Jefferson CHA 03/10/2014 CHA vs. DEN W 39 26 12 23 52.2 0 0 - 2 6 33.3 2 11 13 4 3 1 3 3 2
+p190
+aVMichael Kidd-Gilchrist CHA 03/10/2014 CHA vs. DEN W 16 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 3
+p191
+aVCody Zeller CHA 03/10/2014 CHA vs. DEN W 10 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 1
+p192
+aVAnthony Tolliver CHA 03/10/2014 CHA vs. DEN W 19 0 0 6 0.0 0 6 0.0 0 0 - 0 3 3 1 1 1 0 2 8
+p193
+aVBismack Biyombo CHA 03/10/2014 CHA vs. DEN W 9 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 5
+p194
+aVLuke Ridnour CHA 03/10/2014 CHA vs. DEN W 7 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 4
+p195
+aVJosh McRoberts CHA 03/10/2014 CHA vs. DEN W 34 15 5 7 71.4 3 4 75.0 2 2 100.0 0 3 3 2 1 1 0 0 6
+p196
+aVChris Douglas-Roberts CHA 03/10/2014 CHA vs. DEN W 34 9 2 8 25.0 2 6 33.3 3 4 75.0 0 5 5 1 2 1 2 2 2
+p197
+aVKemba Walker CHA 03/10/2014 CHA vs. DEN W 41 24 6 15 40.0 0 0 - 12 12 100.0 1 5 6 7 0 1 3 4 3
+p198
+aVKemba Walker CHA 03/08/2014 CHA @ MEM L 28 11 3 13 23.1 1 5 20.0 4 4 100.0 1 3 4 5 0 1 3 3 -17
+p199
+aVBismack Biyombo CHA 03/08/2014 CHA @ MEM L 18 6 3 5 60.0 0 0 - 0 0 - 3 2 5 0 0 3 0 3 -3
+p200
+aVAnthony Tolliver CHA 03/08/2014 CHA @ MEM L 22 10 4 8 50.0 1 4 25.0 1 2 50.0 0 1 1 1 0 0 0 0 -8
+p201
+aVCody Zeller CHA 03/08/2014 CHA @ MEM L 23 2 1 5 20.0 0 0 - 0 0 - 4 5 9 2 0 1 2 5 -21
+p202
+aVJustin Hamilton CHA 03/08/2014 CHA @ MEM L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -1
+p203
+aVGary Neal CHA 03/08/2014 CHA @ MEM L 27 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 1 1 0 1 2 -14
+p204
+aVMichael Kidd-Gilchrist CHA 03/08/2014 CHA @ MEM L 21 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 2 0 1 1 -11
+p205
+aVChris Douglas-Roberts CHA 03/08/2014 CHA @ MEM L 30 15 6 10 60.0 1 3 33.3 2 4 50.0 0 2 2 0 2 0 1 0 -12
+p206
+aVLuke Ridnour CHA 03/08/2014 CHA @ MEM L 15 2 1 6 16.7 0 2 0.0 0 0 - 2 1 3 3 1 1 1 1 -4
+p207
+aVAl Jefferson CHA 03/08/2014 CHA @ MEM L 27 17 7 17 41.2 0 0 - 3 4 75.0 1 6 7 1 0 0 0 2 -18
+p208
+aVJannero Pargo CHA 03/08/2014 CHA @ MEM L 4 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 0 0 1 0 -1
+p209
+aVJosh McRoberts CHA 03/08/2014 CHA @ MEM L 21 8 4 9 44.4 0 3 0.0 0 0 - 1 2 3 3 0 1 0 2 0
+p210
+aVMichael Kidd-Gilchrist CHA 03/07/2014 CHA vs. CLE W 24 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 0 0 2 1 0 6
+p211
+aVChris Douglas-Roberts CHA 03/07/2014 CHA vs. CLE W 33 14 4 10 40.0 4 7 57.1 2 4 50.0 1 8 9 1 2 1 0 1 12
+p212
+aVLuke Ridnour CHA 03/07/2014 CHA vs. CLE W 13 0 0 3 0.0 0 3 0.0 0 0 - 1 2 3 1 0 0 4 2 -3
+p213
+aVJosh McRoberts CHA 03/07/2014 CHA vs. CLE W 38 11 4 9 44.4 3 7 42.9 0 0 - 1 2 3 7 0 0 0 3 6
+p214
+aVKemba Walker CHA 03/07/2014 CHA vs. CLE W 35 20 5 13 38.5 1 5 20.0 9 9 100.0 0 3 3 14 2 1 1 4 12
+p215
+aVAnthony Tolliver CHA 03/07/2014 CHA vs. CLE W 21 3 1 5 20.0 1 4 25.0 0 0 - 2 3 5 0 0 2 0 1 6
+p216
+aVCody Zeller CHA 03/07/2014 CHA vs. CLE W 16 7 2 4 50.0 0 0 - 3 3 100.0 1 3 4 1 1 0 0 3 -1
+p217
+aVGary Neal CHA 03/07/2014 CHA vs. CLE W 18 10 5 10 50.0 0 3 0.0 0 0 - 0 1 1 0 0 0 2 1 -6
+p218
+aVBismack Biyombo CHA 03/07/2014 CHA vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -5
+p219
+aVAl Jefferson CHA 03/07/2014 CHA vs. CLE W 39 28 12 18 66.7 0 0 - 4 4 100.0 1 6 7 2 1 3 4 1 18
+p220
+aVMichael Kidd-Gilchrist CHA 03/05/2014 CHA vs. IND W 15 3 1 3 33.3 0 0 - 1 2 50.0 0 6 6 0 1 1 0 4 21
+p221
+aVGary Neal CHA 03/05/2014 CHA vs. IND W 25 10 3 10 30.0 2 4 50.0 2 2 100.0 0 4 4 1 0 0 1 0 -1
+p222
+aVAl Jefferson CHA 03/05/2014 CHA vs. IND W 36 34 16 25 64.0 1 1 100.0 1 2 50.0 2 6 8 3 1 1 1 3 30
+p223
+aVKemba Walker CHA 03/05/2014 CHA vs. IND W 33 19 7 14 50.0 1 1 100.0 4 4 100.0 1 1 2 9 0 1 2 1 37
+p224
+aVJannero Pargo CHA 03/05/2014 CHA vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p225
+aVBismack Biyombo CHA 03/05/2014 CHA vs. IND W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p226
+aVAnthony Tolliver CHA 03/05/2014 CHA vs. IND W 27 8 3 5 60.0 2 4 50.0 0 1 0.0 1 2 3 0 1 0 1 3 -2
+p227
+aVJosh McRoberts CHA 03/05/2014 CHA vs. IND W 34 12 5 12 41.7 0 4 0.0 2 3 66.7 3 2 5 2 1 0 1 4 8
+p228
+aVChris Douglas-Roberts CHA 03/05/2014 CHA vs. IND W 29 12 4 7 57.1 3 3 100.0 1 2 50.0 0 2 2 3 3 0 0 1 26
+p229
+aVCody Zeller CHA 03/05/2014 CHA vs. IND W 20 11 4 6 66.7 0 0 - 3 4 75.0 1 4 5 0 1 2 1 2 11
+p230
+aVLuke Ridnour CHA 03/05/2014 CHA vs. IND W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -17
+p231
+aVKemba Walker CHA 03/03/2014 CHA @ MIA L 34 7 3 8 37.5 0 3 0.0 1 2 50.0 0 2 2 8 0 0 2 2 -19
+p232
+aVLuke Ridnour CHA 03/03/2014 CHA @ MIA L 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 1 1 2
+p233
+aVAl Jefferson CHA 03/03/2014 CHA @ MIA L 37 38 18 24 75.0 0 0 - 2 4 50.0 4 15 19 1 1 0 1 4 -9
+p234
+aVCody Zeller CHA 03/03/2014 CHA @ MIA L 19 10 4 7 57.1 0 0 - 2 4 50.0 3 2 5 5 2 0 2 2 -5
+p235
+aVGary Neal CHA 03/03/2014 CHA @ MIA L 33 10 3 11 27.3 2 4 50.0 2 2 100.0 0 0 0 5 0 0 2 2 -5
+p236
+aVAnthony Tolliver CHA 03/03/2014 CHA @ MIA L 22 12 4 10 40.0 3 8 37.5 1 2 50.0 3 1 4 0 1 0 1 0 -6
+p237
+aVChris Douglas-Roberts CHA 03/03/2014 CHA @ MIA L 24 12 3 9 33.3 2 4 50.0 4 5 80.0 1 0 1 2 0 0 0 2 -10
+p238
+aVMichael Kidd-Gilchrist CHA 03/03/2014 CHA @ MIA L 26 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 2 -11
+p239
+aVBismack Biyombo CHA 03/03/2014 CHA @ MIA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -11
+p240
+aVJosh McRoberts CHA 03/03/2014 CHA @ MIA L 25 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 4 0 0 1 0 -11
+p241
+aVAnthony Tolliver CHA 03/02/2014 CHA @ OKC L 25 17 5 12 41.7 4 11 36.4 3 3 100.0 0 0 0 0 0 0 1 4 4
+p242
+aVGerald Henderson CHA 03/02/2014 CHA @ OKC L 28 9 2 7 28.6 0 2 0.0 5 7 71.4 0 5 5 0 1 0 1 1 -17
+p243
+aVMichael Kidd-Gilchrist CHA 03/02/2014 CHA @ OKC L 20 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 4 -10
+p244
+aVJannero Pargo CHA 03/02/2014 CHA @ OKC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 3
+p245
+aVBismack Biyombo CHA 03/02/2014 CHA @ OKC L 12 5 2 2 100.0 0 0 - 1 2 50.0 0 3 3 0 0 3 1 1 -2
+p246
+aVLuke Ridnour CHA 03/02/2014 CHA @ OKC L 12 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 2 0 0 2 2 -2
+p247
+aVAl Jefferson CHA 03/02/2014 CHA @ OKC L 36 25 10 16 62.5 0 0 - 5 8 62.5 0 7 7 3 2 1 1 3 -15
+p248
+aVChris Douglas-Roberts CHA 03/02/2014 CHA @ OKC L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 3
+p249
+aVCody Zeller CHA 03/02/2014 CHA @ OKC L 19 10 2 3 66.7 0 0 - 6 7 85.7 0 4 4 1 0 0 1 2 0
+p250
+aVKemba Walker CHA 03/02/2014 CHA @ OKC L 33 6 3 13 23.1 0 2 0.0 0 0 - 1 2 3 4 2 0 3 0 -18
+p251
+aVGary Neal CHA 03/02/2014 CHA @ OKC L 20 12 2 5 40.0 2 4 50.0 6 7 85.7 0 0 0 1 1 0 1 5 -14
+p252
+aVJosh McRoberts CHA 03/02/2014 CHA @ OKC L 29 6 2 5 40.0 0 1 0.0 2 2 100.0 1 4 5 6 0 0 2 1 -17
+p253
+aVGerald Henderson CHA 02/28/2014 CHA @ SAS L 31 12 6 15 40.0 0 3 0.0 0 1 0.0 0 3 3 2 1 0 0 4 -14
+p254
+aVMichael Kidd-Gilchrist CHA 02/28/2014 CHA @ SAS L 22 0 0 2 0.0 0 0 - 0 0 - 3 5 8 2 2 1 1 1 -8
+p255
+aVGary Neal CHA 02/28/2014 CHA @ SAS L 23 15 6 13 46.2 1 3 33.3 2 2 100.0 1 1 2 1 0 0 3 3 -2
+p256
+aVLuke Ridnour CHA 02/28/2014 CHA @ SAS L 13 2 1 2 50.0 0 1 0.0 0 1 0.0 0 0 0 1 0 0 1 0 2
+p257
+aVCody Zeller CHA 02/28/2014 CHA @ SAS L 18 10 3 8 37.5 0 0 - 4 4 100.0 2 6 8 2 2 0 0 1 -4
+p258
+aVJosh McRoberts CHA 02/28/2014 CHA @ SAS L 30 4 2 6 33.3 0 4 0.0 0 0 - 1 3 4 10 3 2 1 1 -6
+p259
+aVAl Jefferson CHA 02/28/2014 CHA @ SAS L 35 20 10 21 47.6 0 0 - 0 0 - 3 4 7 1 2 0 3 3 -10
+p260
+aVKemba Walker CHA 02/28/2014 CHA @ SAS L 35 11 3 15 20.0 1 2 50.0 4 4 100.0 0 2 2 4 1 0 2 2 -12
+p261
+aVAnthony Tolliver CHA 02/28/2014 CHA @ SAS L 19 8 2 5 40.0 1 4 25.0 3 3 100.0 0 2 2 0 0 0 0 2 4
+p262
+aVBismack Biyombo CHA 02/28/2014 CHA @ SAS L 13 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 1 0 0 1 0
+p263
+aVBen Gordon CHA 02/22/2014 CHA vs. MEM W 20 4 1 7 14.3 0 1 0.0 2 2 100.0 2 0 2 2 0 0 1 1 5
+p264
+aVMichael Kidd-Gilchrist CHA 02/22/2014 CHA vs. MEM W 19 6 2 5 40.0 0 0 - 2 2 100.0 4 1 5 0 1 1 1 3 10
+p265
+aVAl Jefferson CHA 02/22/2014 CHA vs. MEM W 31 6 2 13 15.4 0 0 - 2 2 100.0 0 9 9 1 0 0 2 3 -3
+p266
+aVBismack Biyombo CHA 02/22/2014 CHA vs. MEM W 17 6 3 3 100.0 0 0 - 0 2 0.0 2 5 7 0 0 2 0 2 6
+p267
+aVJannero Pargo CHA 02/22/2014 CHA vs. MEM W 6 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 0 0 0 -3
+p268
+aVGerald Henderson CHA 02/22/2014 CHA vs. MEM W 30 9 4 9 44.4 0 0 - 1 2 50.0 0 5 5 1 0 0 1 2 -8
+p269
+aVJosh McRoberts CHA 02/22/2014 CHA vs. MEM W 31 12 3 11 27.3 2 5 40.0 4 4 100.0 0 2 2 3 0 0 1 2 -18
+p270
+aVKemba Walker CHA 02/22/2014 CHA vs. MEM W 42 31 9 20 45.0 3 7 42.9 10 10 100.0 0 8 8 5 1 0 4 2 6
+p271
+aVAnthony Tolliver CHA 02/22/2014 CHA vs. MEM W 27 9 3 5 60.0 3 5 60.0 0 0 - 0 2 2 0 0 0 0 0 -1
+p272
+aVCody Zeller CHA 02/22/2014 CHA vs. MEM W 17 7 2 6 33.3 0 0 - 3 3 100.0 1 1 2 3 1 1 1 3 21
+p273
+aVGerald Henderson CHA 02/21/2014 CHA vs. NOP W 30 7 3 8 37.5 0 0 - 1 4 25.0 0 1 1 0 1 0 0 2 -6
+p274
+aVBismack Biyombo CHA 02/21/2014 CHA vs. NOP W 14 0 0 2 0.0 0 0 - 0 0 - 2 6 8 0 0 1 2 0 8
+p275
+aVChris Douglas-Roberts CHA 02/21/2014 CHA vs. NOP W 18 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 1 1 1 1 1 9
+p276
+aVJannero Pargo CHA 02/21/2014 CHA vs. NOP W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 1 1 1 0 -7
+p277
+aVJosh McRoberts CHA 02/21/2014 CHA vs. NOP W 32 6 3 8 37.5 0 4 0.0 0 0 - 1 4 5 1 0 3 0 2 -7
+p278
+aVKemba Walker CHA 02/21/2014 CHA vs. NOP W 36 13 3 11 27.3 0 4 0.0 7 10 70.0 1 4 5 8 0 0 1 2 10
+p279
+aVMichael Kidd-Gilchrist CHA 02/21/2014 CHA vs. NOP W 31 7 1 3 33.3 0 0 - 5 8 62.5 4 5 9 1 2 0 0 2 -9
+p280
+aVAnthony Tolliver CHA 02/21/2014 CHA vs. NOP W 17 9 3 3 100.0 3 3 100.0 0 0 - 1 0 1 0 0 1 0 1 12
+p281
+aVCody Zeller CHA 02/21/2014 CHA vs. NOP W 16 13 3 7 42.9 0 0 - 7 8 87.5 2 3 5 2 0 0 2 3 10
+p282
+aVAl Jefferson CHA 02/21/2014 CHA vs. NOP W 34 33 14 30 46.7 0 0 - 5 6 83.3 3 7 10 1 0 2 4 3 -5
+p283
+aVGerald Henderson CHA 02/19/2014 CHA vs. DET W 26 11 5 7 71.4 1 3 33.3 0 0 - 0 8 8 0 0 0 1 3 21
+p284
+aVJannero Pargo CHA 02/19/2014 CHA vs. DET W 3 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p285
+aVRamon Sessions CHA 02/19/2014 CHA vs. DET W 28 10 3 7 42.9 1 2 50.0 3 4 75.0 0 3 3 10 0 0 3 1 0
+p286
+aVJosh McRoberts CHA 02/19/2014 CHA vs. DET W 31 15 5 8 62.5 3 4 75.0 2 2 100.0 0 5 5 5 1 0 1 1 22
+p287
+aVKemba Walker CHA 02/19/2014 CHA vs. DET W 41 24 8 20 40.0 3 8 37.5 5 5 100.0 0 5 5 16 2 1 4 2 26
+p288
+aVChris Douglas-Roberts CHA 02/19/2014 CHA vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p289
+aVCody Zeller CHA 02/19/2014 CHA vs. DET W 17 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 0 1 3 2 3 -4
+p290
+aVAl Jefferson CHA 02/19/2014 CHA vs. DET W 32 29 12 20 60.0 0 0 - 5 8 62.5 1 7 8 1 0 1 2 2 27
+p291
+aVBismack Biyombo CHA 02/19/2014 CHA vs. DET W 13 1 0 1 0.0 0 0 - 1 2 50.0 3 5 8 0 0 5 1 2 -5
+p292
+aVJeff Adrien CHA 02/19/2014 CHA vs. DET W 3 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -4
+p293
+aVMichael Kidd-Gilchrist CHA 02/19/2014 CHA vs. DET W 24 11 3 5 60.0 0 0 - 5 6 83.3 2 2 4 0 0 0 0 3 16
+p294
+aVAnthony Tolliver CHA 02/19/2014 CHA vs. DET W 18 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 0 1 0 0 0 -1
+p295
+aVMichael Kidd-Gilchrist CHA 02/18/2014 CHA @ DET W 20 7 2 3 66.7 0 0 - 3 8 37.5 1 4 5 0 1 0 0 4 8
+p296
+aVBismack Biyombo CHA 02/18/2014 CHA @ DET W 10 3 1 1 100.0 0 0 - 1 4 25.0 1 2 3 0 0 1 0 1 3
+p297
+aVKemba Walker CHA 02/18/2014 CHA @ DET W 43 22 8 16 50.0 3 7 42.9 3 4 75.0 0 4 4 6 1 0 3 4 10
+p298
+aVAnthony Tolliver CHA 02/18/2014 CHA @ DET W 28 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 0 0 1 0 0 4
+p299
+aVRamon Sessions CHA 02/18/2014 CHA @ DET W 21 12 6 8 75.0 0 0 - 0 1 0.0 0 3 3 1 0 0 1 1 0
+p300
+aVJosh McRoberts CHA 02/18/2014 CHA @ DET W 33 14 3 5 60.0 3 5 60.0 5 7 71.4 1 9 10 3 0 0 0 2 18
+p301
+aVAl Jefferson CHA 02/18/2014 CHA @ DET W 38 32 15 28 53.6 0 0 - 2 3 66.7 0 12 12 7 1 0 1 2 9
+p302
+aVCody Zeller CHA 02/18/2014 CHA @ DET W 15 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 1 1 0 1 2 -6
+p303
+aVGerald Henderson CHA 02/18/2014 CHA @ DET W 32 12 3 7 42.9 0 1 0.0 6 6 100.0 0 1 1 7 0 0 1 2 14
+p304
+aVJannero Pargo CHA 02/12/2014 CHA @ BKN L 7 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 2 1 0 0 1 8
+p305
+aVBen Gordon CHA 02/12/2014 CHA @ BKN L 7 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 1 0 0 0 8
+p306
+aVAl Jefferson CHA 02/12/2014 CHA @ BKN L 28 12 5 13 38.5 0 0 - 2 3 66.7 0 10 10 1 0 0 2 3 -21
+p307
+aVBismack Biyombo CHA 02/12/2014 CHA @ BKN L 19 6 3 3 100.0 0 0 - 0 2 0.0 2 4 6 0 0 2 1 3 3
+p308
+aVMichael Kidd-Gilchrist CHA 02/12/2014 CHA @ BKN L 30 7 3 6 50.0 0 0 - 1 2 50.0 2 5 7 1 0 0 1 4 -17
+p309
+aVGerald Henderson CHA 02/12/2014 CHA @ BKN L 28 7 3 11 27.3 1 2 50.0 0 1 0.0 0 0 0 1 0 1 2 2 -24
+p310
+aVRamon Sessions CHA 02/12/2014 CHA @ BKN L 23 9 4 7 57.1 0 1 0.0 1 2 50.0 1 2 3 3 1 0 0 0 -4
+p311
+aVKemba Walker CHA 02/12/2014 CHA @ BKN L 38 16 6 17 35.3 2 4 50.0 2 3 66.7 0 3 3 3 0 0 2 1 -24
+p312
+aVJosh McRoberts CHA 02/12/2014 CHA @ BKN L 27 13 5 9 55.6 3 7 42.9 0 0 - 0 2 2 3 0 1 2 1 -21
+p313
+aVCody Zeller CHA 02/12/2014 CHA @ BKN L 7 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 2 0 0 0 0 5
+p314
+aVAnthony Tolliver CHA 02/12/2014 CHA @ BKN L 26 8 3 9 33.3 2 7 28.6 0 0 - 4 3 7 0 1 0 0 0 7
+p315
+aVKemba Walker CHA 02/11/2014 CHA vs. DAL W 32 7 2 9 22.2 1 6 16.7 2 2 100.0 1 8 9 9 0 2 2 1 23
+p316
+aVJosh McRoberts CHA 02/11/2014 CHA vs. DAL W 26 9 3 4 75.0 3 4 75.0 0 0 - 2 0 2 13 2 0 1 2 27
+p317
+aVCody Zeller CHA 02/11/2014 CHA vs. DAL W 22 5 2 4 50.0 0 0 - 1 2 50.0 1 6 7 2 0 0 0 2 -2
+p318
+aVJeff Adrien CHA 02/11/2014 CHA vs. DAL W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p319
+aVJannero Pargo CHA 02/11/2014 CHA vs. DAL W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 0
+p320
+aVBismack Biyombo CHA 02/11/2014 CHA vs. DAL W 10 10 5 5 100.0 0 0 - 0 0 - 2 2 4 0 0 1 0 2 3
+p321
+aVGerald Henderson CHA 02/11/2014 CHA vs. DAL W 32 15 7 11 63.6 1 1 100.0 0 0 - 0 2 2 2 0 0 1 1 17
+p322
+aVRamon Sessions CHA 02/11/2014 CHA vs. DAL W 23 5 2 7 28.6 1 1 100.0 0 0 - 0 1 1 8 1 0 3 3 10
+p323
+aVAnthony Tolliver CHA 02/11/2014 CHA vs. DAL W 25 22 6 11 54.5 5 10 50.0 5 5 100.0 0 1 1 0 0 0 0 3 17
+p324
+aVChris Douglas-Roberts CHA 02/11/2014 CHA vs. DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 0
+p325
+aVAl Jefferson CHA 02/11/2014 CHA vs. DAL W 34 30 14 23 60.9 0 1 0.0 2 3 66.7 0 8 8 2 0 2 1 0 22
+p326
+aVMichael Kidd-Gilchrist CHA 02/11/2014 CHA vs. DAL W 23 4 1 4 25.0 0 0 - 2 3 66.7 0 2 2 3 0 2 0 1 8
+p327
+aVJannero Pargo CHA 02/08/2014 CHA vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p328
+aVJosh McRoberts CHA 02/08/2014 CHA vs. SAS L 30 7 3 5 60.0 1 3 33.3 0 0 - 0 4 4 1 1 1 1 3 2
+p329
+aVCody Zeller CHA 02/08/2014 CHA vs. SAS L 18 6 1 3 33.3 0 0 - 4 6 66.7 0 2 2 2 1 1 0 0 -6
+p330
+aVKemba Walker CHA 02/08/2014 CHA vs. SAS L 40 18 7 19 36.8 0 3 0.0 4 4 100.0 0 4 4 8 1 0 1 6 -2
+p331
+aVGerald Henderson CHA 02/08/2014 CHA vs. SAS L 35 23 8 19 42.1 2 5 40.0 5 8 62.5 1 4 5 4 1 0 4 2 2
+p332
+aVRamon Sessions CHA 02/08/2014 CHA vs. SAS L 21 10 4 9 44.4 1 1 100.0 1 2 50.0 0 2 2 5 1 0 1 0 -9
+p333
+aVBismack Biyombo CHA 02/08/2014 CHA vs. SAS L 10 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 3 -13
+p334
+aVAl Jefferson CHA 02/08/2014 CHA vs. SAS L 38 26 12 21 57.1 0 0 - 2 2 100.0 3 6 9 3 4 3 3 3 9
+p335
+aVMichael Kidd-Gilchrist CHA 02/08/2014 CHA vs. SAS L 28 4 2 7 28.6 0 0 - 0 0 - 6 6 12 1 1 0 1 0 0
+p336
+aVAnthony Tolliver CHA 02/08/2014 CHA vs. SAS L 20 6 2 5 40.0 2 4 50.0 0 0 - 1 6 7 0 0 1 0 1 -4
+p337
+aVGerald Henderson CHA 02/04/2014 CHA @ GSW W 37 17 8 17 47.1 0 1 0.0 1 2 50.0 0 8 8 6 1 0 3 4 7
+p338
+aVCody Zeller CHA 02/04/2014 CHA @ GSW W 18 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 2 1 0 4 16
+p339
+aVAl Jefferson CHA 02/04/2014 CHA @ GSW W 39 30 12 22 54.5 0 0 - 6 10 60.0 2 11 13 3 2 0 2 3 16
+p340
+aVBismack Biyombo CHA 02/04/2014 CHA @ GSW W 9 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 1 1 4 0
+p341
+aVMichael Kidd-Gilchrist CHA 02/04/2014 CHA @ GSW W 23 7 2 4 50.0 0 0 - 3 4 75.0 0 1 1 0 1 0 0 0 7
+p342
+aVKemba Walker CHA 02/04/2014 CHA @ GSW W 33 7 3 11 27.3 1 4 25.0 0 0 - 0 6 6 7 1 0 3 2 15
+p343
+aVAnthony Tolliver CHA 02/04/2014 CHA @ GSW W 22 11 4 4 100.0 3 3 100.0 0 0 - 1 1 2 1 1 0 1 1 6
+p344
+aVRamon Sessions CHA 02/04/2014 CHA @ GSW W 29 6 2 7 28.6 0 1 0.0 2 3 66.7 0 2 2 2 0 0 2 2 13
+p345
+aVJosh McRoberts CHA 02/04/2014 CHA @ GSW W 30 9 4 8 50.0 1 4 25.0 0 0 - 3 4 7 2 1 0 3 0 0
+p346
+aVChris Douglas-Roberts CHA 02/01/2014 CHA @ PHX L 24 3 0 4 0.0 0 2 0.0 3 4 75.0 0 3 3 2 0 1 1 1 6
+p347
+aVGerald Henderson CHA 02/01/2014 CHA @ PHX L 24 6 3 7 42.9 0 0 - 0 0 - 0 2 2 2 1 0 0 0 -16
+p348
+aVRamon Sessions CHA 02/01/2014 CHA @ PHX L 26 11 3 10 30.0 1 2 50.0 4 6 66.7 0 0 0 1 1 0 0 2 -20
+p349
+aVCody Zeller CHA 02/01/2014 CHA @ PHX L 19 11 4 7 57.1 0 0 - 3 5 60.0 0 6 6 0 0 0 0 4 -5
+p350
+aVAl Jefferson CHA 02/01/2014 CHA @ PHX L 27 10 4 15 26.7 0 0 - 2 4 50.0 2 4 6 1 1 1 2 2 -14
+p351
+aVJannero Pargo CHA 02/01/2014 CHA @ PHX L 22 12 5 12 41.7 1 6 16.7 1 2 50.0 0 1 1 6 1 0 3 2 10
+p352
+aVJeff Adrien CHA 02/01/2014 CHA @ PHX L 7 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 1 0 0 2 8
+p353
+aVJosh McRoberts CHA 02/01/2014 CHA @ PHX L 26 11 4 9 44.4 3 7 42.9 0 0 - 0 5 5 3 1 0 1 1 -14
+p354
+aVBismack Biyombo CHA 02/01/2014 CHA @ PHX L 16 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 0 0 3 0 1 5
+p355
+aVMichael Kidd-Gilchrist CHA 02/01/2014 CHA @ PHX L 27 11 4 6 66.7 0 0 - 3 3 100.0 2 1 3 2 0 0 1 2 -22
+p356
+aVAnthony Tolliver CHA 02/01/2014 CHA @ PHX L 21 14 4 7 57.1 3 6 50.0 3 3 100.0 0 0 0 1 1 0 0 1 12
+p357
+aVAl Jefferson CHA 01/31/2014 CHA @ LAL W 39 40 18 32 56.3 0 0 - 4 6 66.7 2 16 18 4 3 0 2 3 11
+p358
+aVChris Douglas-Roberts CHA 01/31/2014 CHA @ LAL W 11 7 2 3 66.7 1 2 50.0 2 2 100.0 0 2 2 0 0 0 0 1 -4
+p359
+aVJosh McRoberts CHA 01/31/2014 CHA @ LAL W 36 8 3 6 50.0 0 2 0.0 2 2 100.0 1 1 2 6 0 1 1 3 7
+p360
+aVAnthony Tolliver CHA 01/31/2014 CHA @ LAL W 21 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 22
+p361
+aVBismack Biyombo CHA 01/31/2014 CHA @ LAL W 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -1
+p362
+aVGerald Henderson CHA 01/31/2014 CHA @ LAL W 37 20 9 19 47.4 0 2 0.0 2 2 100.0 0 3 3 1 2 0 2 2 14
+p363
+aVMichael Kidd-Gilchrist CHA 01/31/2014 CHA @ LAL W 27 10 4 7 57.1 0 0 - 2 3 66.7 0 8 8 0 1 0 0 3 -12
+p364
+aVCody Zeller CHA 01/31/2014 CHA @ LAL W 12 5 2 3 66.7 0 0 - 1 3 33.3 3 2 5 2 0 0 0 3 3
+p365
+aVJannero Pargo CHA 01/31/2014 CHA @ LAL W 14 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 2 1 0 1 2 3
+p366
+aVRamon Sessions CHA 01/31/2014 CHA @ LAL W 34 9 3 8 37.5 0 1 0.0 3 4 75.0 0 4 4 13 0 0 3 2 7
+p367
+aVRamon Sessions CHA 01/29/2014 CHA @ DEN W 36 16 4 10 40.0 0 1 0.0 8 10 80.0 0 4 4 7 2 0 3 0 9
+p368
+aVGerald Henderson CHA 01/29/2014 CHA @ DEN W 35 16 6 17 35.3 1 2 50.0 3 4 75.0 0 8 8 5 0 2 1 0 1
+p369
+aVChris Douglas-Roberts CHA 01/29/2014 CHA @ DEN W 13 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 3 1 2
+p370
+aVJosh McRoberts CHA 01/29/2014 CHA @ DEN W 32 4 2 3 66.7 0 1 0.0 0 0 - 1 5 6 2 0 0 1 2 6
+p371
+aVJannero Pargo CHA 01/29/2014 CHA @ DEN W 12 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 1 -6
+p372
+aVMichael Kidd-Gilchrist CHA 01/29/2014 CHA @ DEN W 27 8 2 4 50.0 0 0 - 4 10 40.0 3 3 6 1 0 2 1 4 10
+p373
+aVAnthony Tolliver CHA 01/29/2014 CHA @ DEN W 21 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 1 0 0 0 -7
+p374
+aVAl Jefferson CHA 01/29/2014 CHA @ DEN W 32 35 13 24 54.2 0 0 - 9 12 75.0 0 11 11 2 0 2 4 4 0
+p375
+aVCody Zeller CHA 01/29/2014 CHA @ DEN W 16 4 0 4 0.0 0 0 - 4 4 100.0 2 4 6 0 1 0 1 2 -3
+p376
+aVBismack Biyombo CHA 01/29/2014 CHA @ DEN W 16 4 1 4 25.0 0 0 - 2 2 100.0 1 8 9 0 0 1 1 2 3
+p377
+aVJosh McRoberts CHA 01/25/2014 CHA vs. CHI L 27 6 2 7 28.6 2 6 33.3 0 0 - 1 5 6 5 0 0 0 4 -5
+p378
+aVAnthony Tolliver CHA 01/25/2014 CHA vs. CHI L 26 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 1 1 1 0 0 8
+p379
+aVCody Zeller CHA 01/25/2014 CHA vs. CHI L 21 7 2 4 50.0 0 0 - 3 4 75.0 2 6 8 0 0 1 0 2 1
+p380
+aVGerald Henderson CHA 01/25/2014 CHA vs. CHI L 37 11 5 12 41.7 0 0 - 1 2 50.0 1 5 6 3 1 0 2 0 -6
+p381
+aVRamon Sessions CHA 01/25/2014 CHA vs. CHI L 33 8 4 14 28.6 0 2 0.0 0 0 - 0 3 3 11 0 1 3 4 9
+p382
+aVMichael Kidd-Gilchrist CHA 01/25/2014 CHA vs. CHI L 22 6 3 11 27.3 0 1 0.0 0 0 - 3 1 4 0 1 1 3 3 -10
+p383
+aVBismack Biyombo CHA 01/25/2014 CHA vs. CHI L 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -10
+p384
+aVAl Jefferson CHA 01/25/2014 CHA vs. CHI L 38 32 15 26 57.7 1 1 100.0 1 2 50.0 3 10 13 1 0 3 3 2 10
+p385
+aVJannero Pargo CHA 01/25/2014 CHA vs. CHI L 15 15 5 8 62.5 3 4 75.0 2 2 100.0 0 0 0 2 0 0 3 1 -11
+p386
+aVChris Douglas-Roberts CHA 01/25/2014 CHA vs. CHI L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 1 0 1 4
+p387
+aVChris Douglas-Roberts CHA 01/24/2014 CHA @ NYK L 16 14 5 7 71.4 4 5 80.0 0 0 - 0 0 0 0 0 0 1 1 1
+p388
+aVAl Jefferson CHA 01/24/2014 CHA @ NYK L 31 25 11 19 57.9 0 1 0.0 3 4 75.0 1 8 9 2 0 0 1 0 -36
+p389
+aVJannero Pargo CHA 01/24/2014 CHA @ NYK L 32 11 4 11 36.4 3 8 37.5 0 0 - 0 1 1 8 0 0 3 1 -14
+p390
+aVGerald Henderson CHA 01/24/2014 CHA @ NYK L 32 8 4 9 44.4 0 2 0.0 0 0 - 0 1 1 1 0 0 2 3 -30
+p391
+aVRamon Sessions CHA 01/24/2014 CHA @ NYK L 30 12 3 8 37.5 0 1 0.0 6 6 100.0 0 1 1 3 0 0 1 0 -34
+p392
+aVMichael Kidd-Gilchrist CHA 01/24/2014 CHA @ NYK L 18 4 2 4 50.0 0 0 - 0 1 0.0 0 2 2 3 0 0 2 3 -18
+p393
+aVAnthony Tolliver CHA 01/24/2014 CHA @ NYK L 17 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 3 0 0 0 0 7
+p394
+aVJosh McRoberts CHA 01/24/2014 CHA @ NYK L 30 6 2 4 50.0 2 3 66.7 0 0 - 1 1 2 2 1 0 0 1 -34
+p395
+aVBismack Biyombo CHA 01/24/2014 CHA @ NYK L 17 8 3 4 75.0 0 0 - 2 2 100.0 3 5 8 1 0 3 0 1 7
+p396
+aVCody Zeller CHA 01/24/2014 CHA @ NYK L 16 5 2 5 40.0 0 0 - 1 1 100.0 1 4 5 0 0 0 1 1 6
+p397
+aVChris Douglas-Roberts CHA 01/22/2014 CHA vs. LAC W 12 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 1 0 3 5
+p398
+aVMichael Kidd-Gilchrist CHA 01/22/2014 CHA vs. LAC W 25 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 0 2 2 0 3 -12
+p399
+aVAl Jefferson CHA 01/22/2014 CHA vs. LAC W 36 24 12 23 52.2 0 0 - 0 2 0.0 3 7 10 1 1 1 4 1 -3
+p400
+aVJosh McRoberts CHA 01/22/2014 CHA vs. LAC W 31 13 4 6 66.7 2 2 100.0 3 4 75.0 0 8 8 5 1 0 2 3 -1
+p401
+aVCody Zeller CHA 01/22/2014 CHA vs. LAC W 17 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 1 0 1 0 3 7
+p402
+aVBismack Biyombo CHA 01/22/2014 CHA vs. LAC W 12 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 0 0 0 7
+p403
+aVRamon Sessions CHA 01/22/2014 CHA vs. LAC W 36 10 4 12 33.3 0 3 0.0 2 4 50.0 0 2 2 8 0 1 3 0 -1
+p404
+aVGerald Henderson CHA 01/22/2014 CHA vs. LAC W 36 13 6 14 42.9 0 0 - 1 4 25.0 1 6 7 3 1 0 0 1 -1
+p405
+aVAnthony Tolliver CHA 01/22/2014 CHA vs. LAC W 23 10 3 7 42.9 2 5 40.0 2 2 100.0 1 2 3 1 0 0 0 2 14
+p406
+aVJannero Pargo CHA 01/22/2014 CHA vs. LAC W 12 11 5 8 62.5 1 3 33.3 0 0 - 0 1 1 2 1 0 1 1 5
+p407
+aVBismack Biyombo CHA 01/20/2014 CHA vs. TOR W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 1 2 -4
+p408
+aVMichael Kidd-Gilchrist CHA 01/20/2014 CHA vs. TOR W 31 5 2 5 40.0 0 0 - 1 3 33.3 0 4 4 1 1 1 0 2 19
+p409
+aVCody Zeller CHA 01/20/2014 CHA vs. TOR W 15 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 1 0 -2
+p410
+aVJosh McRoberts CHA 01/20/2014 CHA vs. TOR W 33 11 4 5 80.0 3 4 75.0 0 0 - 0 4 4 5 1 0 1 0 7
+p411
+aVRamon Sessions CHA 01/20/2014 CHA vs. TOR W 34 23 6 10 60.0 1 3 33.3 10 11 90.9 0 2 2 2 1 0 3 1 10
+p412
+aVJannero Pargo CHA 01/20/2014 CHA vs. TOR W 14 11 4 7 57.1 3 4 75.0 0 0 - 0 2 2 4 1 0 1 0 -5
+p413
+aVAnthony Tolliver CHA 01/20/2014 CHA vs. TOR W 17 8 2 4 50.0 2 2 100.0 2 3 66.7 0 0 0 0 0 0 1 2 -12
+p414
+aVChris Douglas-Roberts CHA 01/20/2014 CHA vs. TOR W 14 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 1 2 0 0 0 0
+p415
+aVAl Jefferson CHA 01/20/2014 CHA vs. TOR W 38 22 9 18 50.0 0 0 - 4 4 100.0 1 18 19 7 0 2 2 1 7
+p416
+aVGerald Henderson CHA 01/20/2014 CHA vs. TOR W 34 16 4 11 36.4 0 1 0.0 8 10 80.0 0 4 4 5 0 1 3 1 5
+p417
+aVMichael Kidd-Gilchrist CHA 01/18/2014 CHA vs. MIA L 16 5 2 3 66.7 1 1 100.0 0 0 - 3 2 5 1 0 1 1 4 -8
+p418
+aVChris Douglas-Roberts CHA 01/18/2014 CHA vs. MIA L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 2
+p419
+aVRamon Sessions CHA 01/18/2014 CHA vs. MIA L 38 16 6 10 60.0 0 2 0.0 4 4 100.0 0 3 3 5 0 0 5 1 -6
+p420
+aVGerald Henderson CHA 01/18/2014 CHA vs. MIA L 40 11 4 11 36.4 0 0 - 3 3 100.0 0 3 3 5 1 1 2 5 -16
+p421
+aVAl Jefferson CHA 01/18/2014 CHA vs. MIA L 43 22 10 23 43.5 0 0 - 2 6 33.3 0 14 14 3 1 1 1 4 -11
+p422
+aVAnthony Tolliver CHA 01/18/2014 CHA vs. MIA L 37 11 4 7 57.1 3 6 50.0 0 0 - 0 2 2 1 1 1 1 0 0
+p423
+aVBismack Biyombo CHA 01/18/2014 CHA vs. MIA L 10 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 1 3
+p424
+aVJosh McRoberts CHA 01/18/2014 CHA vs. MIA L 38 10 3 6 50.0 2 4 50.0 2 2 100.0 0 2 2 6 1 0 1 4 -4
+p425
+aVKemba Walker CHA 01/18/2014 CHA vs. MIA L 22 6 1 7 14.3 0 3 0.0 4 5 80.0 0 1 1 8 2 1 1 1 4
+p426
+aVCody Zeller CHA 01/18/2014 CHA vs. MIA L 15 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 2 0 0 1 2 -4
+p427
+aVJosh McRoberts CHA 01/17/2014 CHA @ ORL W 36 17 6 8 75.0 5 7 71.4 0 0 - 0 2 2 5 1 1 1 2 17
+p428
+aVKemba Walker CHA 01/17/2014 CHA @ ORL W 43 19 7 16 43.8 1 3 33.3 4 6 66.7 0 2 2 10 0 0 0 0 14
+p429
+aVAl Jefferson CHA 01/17/2014 CHA @ ORL W 36 30 13 17 76.5 0 0 - 4 4 100.0 1 15 16 2 3 1 1 3 17
+p430
+aVCody Zeller CHA 01/17/2014 CHA @ ORL W 12 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 1 2 -7
+p431
+aVRamon Sessions CHA 01/17/2014 CHA @ ORL W 21 10 3 6 50.0 0 1 0.0 4 5 80.0 0 1 1 5 1 0 2 0 0
+p432
+aVGerald Henderson CHA 01/17/2014 CHA @ ORL W 35 17 3 11 27.3 0 2 0.0 11 12 91.7 0 3 3 1 0 2 3 2 10
+p433
+aVMichael Kidd-Gilchrist CHA 01/17/2014 CHA @ ORL W 28 9 4 8 50.0 0 0 - 1 6 16.7 1 3 4 0 1 1 1 2 5
+p434
+aVJeff Adrien CHA 01/17/2014 CHA @ ORL W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -6
+p435
+aVBismack Biyombo CHA 01/17/2014 CHA @ ORL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p436
+aVAnthony Tolliver CHA 01/17/2014 CHA @ ORL W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 1
+p437
+aVAl Jefferson CHA 01/15/2014 CHA @ PHI L 38 24 11 20 55.0 0 0 - 2 3 66.7 1 7 8 4 2 1 1 2 -3
+p438
+aVCody Zeller CHA 01/15/2014 CHA @ PHI L 19 5 2 4 50.0 0 0 - 1 2 50.0 2 4 6 0 1 1 2 3 4
+p439
+aVMichael Kidd-Gilchrist CHA 01/15/2014 CHA @ PHI L 17 1 0 2 0.0 0 1 0.0 1 2 50.0 1 0 1 3 2 0 0 3 -14
+p440
+aVRamon Sessions CHA 01/15/2014 CHA @ PHI L 25 11 5 11 45.5 0 1 0.0 1 2 50.0 2 2 4 5 1 0 0 0 -2
+p441
+aVGerald Henderson CHA 01/15/2014 CHA @ PHI L 31 8 2 14 14.3 0 1 0.0 4 5 80.0 0 1 1 3 1 0 2 1 -13
+p442
+aVJeff Adrien CHA 01/15/2014 CHA @ PHI L 9 1 0 1 0.0 0 0 - 1 4 25.0 1 4 5 1 0 1 3 3 4
+p443
+aVJosh McRoberts CHA 01/15/2014 CHA @ PHI L 30 10 4 8 50.0 2 4 50.0 0 0 - 0 6 6 1 0 2 2 3 -11
+p444
+aVKemba Walker CHA 01/15/2014 CHA @ PHI L 43 26 9 21 42.9 2 7 28.6 6 6 100.0 0 5 5 8 2 1 1 3 5
+p445
+aVAnthony Tolliver CHA 01/15/2014 CHA @ PHI L 26 6 2 7 28.6 1 6 16.7 1 2 50.0 1 4 5 0 0 0 1 1 13
+p446
+aVChris Douglas-Roberts CHA 01/15/2014 CHA @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 2
+p447
+aVCody Zeller CHA 01/14/2014 CHA vs. NYK W 15 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 5 9
+p448
+aVGerald Henderson CHA 01/14/2014 CHA vs. NYK W 36 17 6 13 46.2 1 3 33.3 4 4 100.0 0 3 3 3 0 0 1 1 6
+p449
+aVMichael Kidd-Gilchrist CHA 01/14/2014 CHA vs. NYK W 30 8 3 12 25.0 0 1 0.0 2 4 50.0 1 6 7 2 2 0 0 4 3
+p450
+aVRamon Sessions CHA 01/14/2014 CHA vs. NYK W 19 6 1 4 25.0 0 0 - 4 4 100.0 1 0 1 5 0 0 0 1 0
+p451
+aVKemba Walker CHA 01/14/2014 CHA vs. NYK W 40 25 9 15 60.0 2 5 40.0 5 7 71.4 1 6 7 5 1 1 3 2 18
+p452
+aVAl Jefferson CHA 01/14/2014 CHA vs. NYK W 39 35 14 20 70.0 0 0 - 7 8 87.5 2 6 8 2 1 1 1 3 19
+p453
+aVJosh McRoberts CHA 01/14/2014 CHA vs. NYK W 33 4 0 4 0.0 0 1 0.0 4 6 66.7 0 6 6 3 0 0 0 2 1
+p454
+aVChris Douglas-Roberts CHA 01/14/2014 CHA vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p455
+aVBismack Biyombo CHA 01/14/2014 CHA vs. NYK W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p456
+aVAnthony Tolliver CHA 01/14/2014 CHA vs. NYK W 18 9 3 3 100.0 3 3 100.0 0 0 - 0 1 1 0 0 0 0 2 7
+p457
+aVJeff Adrien CHA 01/14/2014 CHA vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p458
+aVJannero Pargo CHA 01/14/2014 CHA vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p459
+aVGerald Henderson CHA 01/11/2014 CHA @ CHI L 37 30 10 16 62.5 1 1 100.0 9 9 100.0 0 3 3 3 2 1 4 4 -2
+p460
+aVJosh McRoberts CHA 01/11/2014 CHA @ CHI L 39 9 4 11 36.4 1 5 20.0 0 0 - 2 4 6 4 1 3 0 5 1
+p461
+aVAl Jefferson CHA 01/11/2014 CHA @ CHI L 39 20 10 22 45.5 0 0 - 0 0 - 1 10 11 1 0 1 1 2 -3
+p462
+aVChris Douglas-Roberts CHA 01/11/2014 CHA @ CHI L 29 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -18
+p463
+aVAnthony Tolliver CHA 01/11/2014 CHA @ CHI L 14 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p464
+aVKemba Walker CHA 01/11/2014 CHA @ CHI L 44 29 10 20 50.0 2 5 40.0 7 8 87.5 1 5 6 5 1 0 2 4 4
+p465
+aVBismack Biyombo CHA 01/11/2014 CHA @ CHI L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -3
+p466
+aVJannero Pargo CHA 01/11/2014 CHA @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p467
+aVCody Zeller CHA 01/11/2014 CHA @ CHI L 9 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 0 1 1 0 0 -7
+p468
+aVRamon Sessions CHA 01/11/2014 CHA @ CHI L 20 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 4 0 0 1 3 1
+p469
+aVGerald Henderson CHA 01/10/2014 CHA @ MIN L 24 12 5 13 38.5 0 1 0.0 2 5 40.0 0 3 3 2 0 0 0 1 -17
+p470
+aVJannero Pargo CHA 01/10/2014 CHA @ MIN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 2 0 0 1 -4
+p471
+aVJeff Adrien CHA 01/10/2014 CHA @ MIN L 6 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 -4
+p472
+aVJosh McRoberts CHA 01/10/2014 CHA @ MIN L 27 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 4 4 1 2 2 -16
+p473
+aVAl Jefferson CHA 01/10/2014 CHA @ MIN L 28 8 3 9 33.3 0 0 - 2 2 100.0 1 6 7 2 0 1 2 3 -16
+p474
+aVAnthony Tolliver CHA 01/10/2014 CHA @ MIN L 27 21 8 9 88.9 5 5 100.0 0 0 - 0 3 3 0 0 0 0 0 -8
+p475
+aVBismack Biyombo CHA 01/10/2014 CHA @ MIN L 20 4 0 1 0.0 0 0 - 4 4 100.0 0 7 7 0 0 4 1 2 -11
+p476
+aVChris Douglas-Roberts CHA 01/10/2014 CHA @ MIN L 27 16 6 9 66.7 2 4 50.0 2 2 100.0 0 2 2 0 0 0 1 2 -25
+p477
+aVBen Gordon CHA 01/10/2014 CHA @ MIN L 10 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 1 0 0 2 1 -3
+p478
+aVKemba Walker CHA 01/10/2014 CHA @ MIN L 31 15 7 17 41.2 1 4 25.0 0 0 - 0 1 1 7 3 0 1 2 -18
+p479
+aVCody Zeller CHA 01/10/2014 CHA @ MIN L 16 2 1 3 33.3 0 0 - 0 0 - 2 4 6 2 1 1 0 3 -7
+p480
+aVRamon Sessions CHA 01/10/2014 CHA @ MIN L 21 4 2 7 28.6 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -6
+p481
+aVGerald Henderson CHA 01/07/2014 CHA vs. WAS L 35 27 10 19 52.6 1 2 50.0 6 8 75.0 1 6 7 1 0 0 2 1 -19
+p482
+aVCody Zeller CHA 01/07/2014 CHA vs. WAS L 11 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -12
+p483
+aVRamon Sessions CHA 01/07/2014 CHA vs. WAS L 30 10 4 8 50.0 0 0 - 2 2 100.0 0 0 0 3 1 0 4 2 5
+p484
+aVChris Douglas-Roberts CHA 01/07/2014 CHA vs. WAS L 30 6 2 4 50.0 2 3 66.7 0 0 - 0 6 6 1 1 0 1 0 -13
+p485
+aVKemba Walker CHA 01/07/2014 CHA vs. WAS L 39 19 7 17 41.2 2 7 28.6 3 6 50.0 0 3 3 8 0 0 5 2 -15
+p486
+aVJosh McRoberts CHA 01/07/2014 CHA vs. WAS L 26 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -8
+p487
+aVBismack Biyombo CHA 01/07/2014 CHA vs. WAS L 13 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 0 0 1 0 2 2
+p488
+aVAnthony Tolliver CHA 01/07/2014 CHA vs. WAS L 21 8 2 5 40.0 1 3 33.3 3 4 75.0 1 4 5 1 1 0 0 1 6
+p489
+aVAl Jefferson CHA 01/07/2014 CHA vs. WAS L 35 6 3 9 33.3 0 0 - 0 0 - 1 9 10 4 0 0 1 2 -16
+p490
+aVAnthony Tolliver CHA 01/04/2014 CHA @ SAC W 16 6 2 3 66.7 2 2 100.0 0 0 - 0 2 2 0 0 1 0 1 -3
+p491
+aVRamon Sessions CHA 01/04/2014 CHA @ SAC W 22 12 5 9 55.6 0 0 - 2 4 50.0 1 1 2 3 0 0 2 0 3
+p492
+aVChris Douglas-Roberts CHA 01/04/2014 CHA @ SAC W 35 10 4 9 44.4 1 3 33.3 1 2 50.0 0 4 4 2 0 1 1 1 4
+p493
+aVGerald Henderson CHA 01/04/2014 CHA @ SAC W 35 16 7 13 53.8 1 2 50.0 1 2 50.0 0 3 3 3 1 0 0 2 5
+p494
+aVAl Jefferson CHA 01/04/2014 CHA @ SAC W 39 27 11 21 52.4 0 0 - 5 7 71.4 1 8 9 2 2 1 2 4 3
+p495
+aVCody Zeller CHA 01/04/2014 CHA @ SAC W 11 6 2 2 100.0 0 0 - 2 3 66.7 1 1 2 2 0 0 1 2 1
+p496
+aVJosh McRoberts CHA 01/04/2014 CHA @ SAC W 37 5 2 6 33.3 1 2 50.0 0 0 - 3 8 11 4 1 1 2 2 9
+p497
+aVKemba Walker CHA 01/04/2014 CHA @ SAC W 36 30 12 19 63.2 4 6 66.7 2 3 66.7 0 4 4 6 1 0 2 1 21
+p498
+aVBismack Biyombo CHA 01/04/2014 CHA @ SAC W 9 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 6 7
+p499
+aVCody Zeller CHA 01/02/2014 CHA @ POR L 17 5 1 6 16.7 0 0 - 3 4 75.0 1 4 5 1 1 0 1 1 0
+p500
+aVAnthony Tolliver CHA 01/02/2014 CHA @ POR L 31 3 1 3 33.3 1 3 33.3 0 0 - 1 2 3 2 0 0 0 1 -30
+p501
+aVRamon Sessions CHA 01/02/2014 CHA @ POR L 29 14 3 8 37.5 0 0 - 8 10 80.0 0 0 0 3 1 0 1 1 -14
+p502
+aVAl Jefferson CHA 01/02/2014 CHA @ POR L 29 19 9 17 52.9 0 0 - 1 2 50.0 2 3 5 1 0 1 1 2 -17
+p503
+aVKemba Walker CHA 01/02/2014 CHA @ POR L 29 6 2 10 20.0 0 1 0.0 2 2 100.0 1 2 3 3 3 0 1 0 -17
+p504
+aVBismack Biyombo CHA 01/02/2014 CHA @ POR L 19 6 2 3 66.7 0 0 - 2 3 66.7 0 4 4 0 1 0 1 1 -13
+p505
+aVJannero Pargo CHA 01/02/2014 CHA @ POR L 7 8 2 5 40.0 2 5 40.0 2 2 100.0 0 1 1 1 0 0 0 1 2
+p506
+aVJeff Adrien CHA 01/02/2014 CHA @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -3
+p507
+aVChris Douglas-Roberts CHA 01/02/2014 CHA @ POR L 24 20 6 8 75.0 2 3 66.7 6 7 85.7 0 4 4 2 1 1 1 0 -6
+p508
+aVJosh McRoberts CHA 01/02/2014 CHA @ POR L 27 7 3 10 30.0 1 3 33.3 0 0 - 1 3 4 0 1 0 3 0 -27
+p509
+aVGerald Henderson CHA 01/02/2014 CHA @ POR L 24 16 5 9 55.6 1 1 100.0 5 6 83.3 0 1 1 2 1 0 0 2 -25
+p510
+aVBismack Biyombo CHA 01/01/2014 CHA @ LAC L 18 8 3 5 60.0 0 0 - 2 3 66.7 1 4 5 1 0 1 2 0 -9
+p511
+aVJosh McRoberts CHA 01/01/2014 CHA @ LAC L 28 10 4 8 50.0 2 4 50.0 0 0 - 0 3 3 4 1 0 0 2 -12
+p512
+aVGerald Henderson CHA 01/01/2014 CHA @ LAC L 32 12 3 11 27.3 0 1 0.0 6 6 100.0 0 0 0 1 0 0 0 3 -17
+p513
+aVRamon Sessions CHA 01/01/2014 CHA @ LAC L 22 8 3 9 33.3 0 2 0.0 2 2 100.0 1 1 2 4 1 0 2 3 -4
+p514
+aVAnthony Tolliver CHA 01/01/2014 CHA @ LAC L 37 11 4 11 36.4 3 10 30.0 0 0 - 0 3 3 1 0 0 0 1 -26
+p515
+aVChris Douglas-Roberts CHA 01/01/2014 CHA @ LAC L 17 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -6
+p516
+aVKemba Walker CHA 01/01/2014 CHA @ LAC L 33 14 4 10 40.0 1 4 25.0 5 5 100.0 0 7 7 3 2 0 5 1 -17
+p517
+aVCody Zeller CHA 01/01/2014 CHA @ LAC L 20 6 0 6 0.0 0 0 - 6 6 100.0 3 1 4 1 2 0 1 3 -15
+p518
+aVAl Jefferson CHA 01/01/2014 CHA @ LAC L 30 14 7 15 46.7 0 0 - 0 0 - 1 11 12 4 1 0 3 0 -18
+p519
+aVJannero Pargo CHA 01/01/2014 CHA @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p520
+aVCody Zeller CHA 12/30/2013 CHA @ UTA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p521
+aVChris Douglas-Roberts CHA 12/30/2013 CHA @ UTA L 25 5 2 4 50.0 1 3 33.3 0 0 - 1 2 3 0 0 0 2 1 -1
+p522
+aVBismack Biyombo CHA 12/30/2013 CHA @ UTA L 12 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 1 0 1 -2
+p523
+aVKemba Walker CHA 12/30/2013 CHA @ UTA L 42 18 6 17 35.3 1 1 100.0 5 5 100.0 1 5 6 4 1 0 3 2 2
+p524
+aVAl Jefferson CHA 12/30/2013 CHA @ UTA L 36 18 8 23 34.8 1 2 50.0 1 2 50.0 2 8 10 2 3 2 2 1 -1
+p525
+aVJosh McRoberts CHA 12/30/2013 CHA @ UTA L 32 5 2 6 33.3 1 3 33.3 0 0 - 4 4 8 2 0 0 0 4 -7
+p526
+aVRamon Sessions CHA 12/30/2013 CHA @ UTA L 25 8 4 13 30.8 0 1 0.0 0 0 - 1 3 4 2 2 0 1 0 0
+p527
+aVAnthony Tolliver CHA 12/30/2013 CHA @ UTA L 26 3 1 6 16.7 1 2 50.0 0 0 - 3 4 7 0 0 0 2 1 -3
+p528
+aVGerald Henderson CHA 12/30/2013 CHA @ UTA L 36 19 6 13 46.2 2 2 100.0 5 8 62.5 0 3 3 2 0 0 1 1 -1
+p529
+aVJosh McRoberts CHA 12/28/2013 CHA @ ATL L 33 5 2 8 25.0 1 6 16.7 0 0 - 1 4 5 9 0 1 1 4 12
+p530
+aVBen Gordon CHA 12/28/2013 CHA @ ATL L 12 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 5
+p531
+aVRamon Sessions CHA 12/28/2013 CHA @ ATL L 20 15 6 10 60.0 1 3 33.3 2 2 100.0 1 2 3 4 0 0 0 1 4
+p532
+aVAl Jefferson CHA 12/28/2013 CHA @ ATL L 39 24 10 18 55.6 0 0 - 4 6 66.7 4 19 23 1 1 0 3 4 0
+p533
+aVGerald Henderson CHA 12/28/2013 CHA @ ATL L 39 22 11 17 64.7 0 0 - 0 2 0.0 0 5 5 4 1 0 2 4 -2
+p534
+aVChris Douglas-Roberts CHA 12/28/2013 CHA @ ATL L 23 7 3 6 50.0 0 1 0.0 1 2 50.0 0 5 5 0 1 0 2 0 2
+p535
+aVBismack Biyombo CHA 12/28/2013 CHA @ ATL L 14 6 1 1 100.0 0 0 - 4 4 100.0 2 1 3 0 0 2 1 0 -2
+p536
+aVKemba Walker CHA 12/28/2013 CHA @ ATL L 35 16 4 20 20.0 3 6 50.0 5 6 83.3 0 1 1 5 0 1 1 3 -11
+p537
+aVAnthony Tolliver CHA 12/28/2013 CHA @ ATL L 38 12 4 10 40.0 4 9 44.4 0 0 - 2 5 7 1 1 0 0 5 -4
+p538
+aVCody Zeller CHA 12/28/2013 CHA @ ATL L 12 2 1 8 12.5 0 0 - 0 0 - 2 1 3 2 1 0 0 5 -14
+p539
+aVChris Douglas-Roberts CHA 12/27/2013 CHA vs. OKC L 13 2 0 3 0.0 0 2 0.0 2 2 100.0 1 2 3 0 0 0 1 3 -3
+p540
+aVJosh McRoberts CHA 12/27/2013 CHA vs. OKC L 32 13 5 13 38.5 3 7 42.9 0 0 - 1 5 6 7 2 2 1 3 9
+p541
+aVBismack Biyombo CHA 12/27/2013 CHA vs. OKC L 13 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 2 1 3 -5
+p542
+aVAnthony Tolliver CHA 12/27/2013 CHA vs. OKC L 35 6 2 5 40.0 2 5 40.0 0 0 - 0 3 3 2 1 0 0 1 -1
+p543
+aVGerald Henderson CHA 12/27/2013 CHA vs. OKC L 33 14 6 12 50.0 1 2 50.0 1 1 100.0 0 3 3 1 0 0 0 4 -7
+p544
+aVKemba Walker CHA 12/27/2013 CHA vs. OKC L 36 18 6 17 35.3 2 4 50.0 4 6 66.7 0 4 4 7 1 0 0 1 -4
+p545
+aVRamon Sessions CHA 12/27/2013 CHA vs. OKC L 15 9 2 3 66.7 1 1 100.0 4 5 80.0 0 3 3 2 0 0 0 0 3
+p546
+aVBen Gordon CHA 12/27/2013 CHA vs. OKC L 12 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 0 0
+p547
+aVAl Jefferson CHA 12/27/2013 CHA vs. OKC L 35 16 7 16 43.8 0 0 - 2 2 100.0 2 9 11 0 0 1 0 2 1
+p548
+aVCody Zeller CHA 12/27/2013 CHA vs. OKC L 16 3 0 5 0.0 0 0 - 3 4 75.0 2 2 4 1 1 0 4 1 -13
+p549
+aVCody Zeller CHA 12/23/2013 CHA vs. MIL W 22 12 6 12 50.0 0 0 - 0 0 - 3 4 7 4 0 2 1 2 3
+p550
+aVKemba Walker CHA 12/23/2013 CHA vs. MIL W 39 25 10 22 45.5 2 5 40.0 3 5 60.0 0 9 9 10 0 0 3 3 2
+p551
+aVAl Jefferson CHA 12/23/2013 CHA vs. MIL W 39 26 12 23 52.2 0 0 - 2 3 66.7 2 7 9 1 0 1 0 3 -8
+p552
+aVBen Gordon CHA 12/23/2013 CHA vs. MIL W 14 6 2 4 50.0 2 2 100.0 0 0 - 0 2 2 1 1 0 3 1 3
+p553
+aVRamon Sessions CHA 12/23/2013 CHA vs. MIL W 16 8 2 9 22.2 0 1 0.0 4 4 100.0 2 0 2 3 1 0 0 1 1
+p554
+aVAnthony Tolliver CHA 12/23/2013 CHA vs. MIL W 34 12 4 4 100.0 4 4 100.0 0 0 - 0 3 3 1 0 1 1 1 1
+p555
+aVBismack Biyombo CHA 12/23/2013 CHA vs. MIL W 14 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 9
+p556
+aVGerald Henderson CHA 12/23/2013 CHA vs. MIL W 37 8 2 10 20.0 0 0 - 4 4 100.0 0 4 4 6 0 0 0 1 -4
+p557
+aVJosh McRoberts CHA 12/23/2013 CHA vs. MIL W 31 9 3 8 37.5 2 4 50.0 1 2 50.0 1 2 3 2 0 0 0 5 -2
+p558
+aVChris Douglas-Roberts CHA 12/23/2013 CHA vs. MIL W 19 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 2 0 0 0
+p559
+aVAnthony Tolliver CHA 12/21/2013 CHA vs. UTA L 26 2 1 5 20.0 0 3 0.0 0 0 - 0 5 5 1 0 0 1 2 -4
+p560
+aVBismack Biyombo CHA 12/21/2013 CHA vs. UTA L 17 5 2 3 66.7 0 0 - 1 2 50.0 2 8 10 0 0 2 0 1 0
+p561
+aVKemba Walker CHA 12/21/2013 CHA vs. UTA L 34 20 9 16 56.3 1 2 50.0 1 2 50.0 3 2 5 4 1 1 5 1 -3
+p562
+aVJosh McRoberts CHA 12/21/2013 CHA vs. UTA L 29 2 1 5 20.0 0 1 0.0 0 0 - 2 3 5 3 0 2 2 2 -8
+p563
+aVAl Jefferson CHA 12/21/2013 CHA vs. UTA L 31 19 9 19 47.4 0 1 0.0 1 3 33.3 6 5 11 1 0 3 0 1 -3
+p564
+aVRamon Sessions CHA 12/21/2013 CHA vs. UTA L 24 13 4 10 40.0 1 2 50.0 4 5 80.0 0 3 3 3 0 0 0 0 5
+p565
+aVCody Zeller CHA 12/21/2013 CHA vs. UTA L 19 8 4 5 80.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 5
+p566
+aVChris Douglas-Roberts CHA 12/21/2013 CHA vs. UTA L 18 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 2
+p567
+aVBen Gordon CHA 12/21/2013 CHA vs. UTA L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 4 -4
+p568
+aVGerald Henderson CHA 12/21/2013 CHA vs. UTA L 30 12 4 14 28.6 0 1 0.0 4 4 100.0 1 4 5 2 0 0 1 2 -5
+p569
+aVAnthony Tolliver CHA 12/20/2013 CHA @ DET W 27 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 1 0 1 1 5 14
+p570
+aVRamon Sessions CHA 12/20/2013 CHA @ DET W 17 10 3 7 42.9 0 2 0.0 4 4 100.0 0 1 1 2 3 0 2 0 -1
+p571
+aVAl Jefferson CHA 12/20/2013 CHA @ DET W 33 24 11 24 45.8 0 0 - 2 3 66.7 4 10 14 2 2 1 1 3 9
+p572
+aVBen Gordon CHA 12/20/2013 CHA @ DET W 14 10 3 7 42.9 1 2 50.0 3 3 100.0 0 1 1 0 1 0 0 1 1
+p573
+aVGerald Henderson CHA 12/20/2013 CHA @ DET W 35 22 8 13 61.5 0 0 - 6 7 85.7 1 7 8 3 1 0 1 1 8
+p574
+aVJosh McRoberts CHA 12/20/2013 CHA @ DET W 28 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 7 1 1 0 1 11
+p575
+aVKemba Walker CHA 12/20/2013 CHA @ DET W 35 34 12 17 70.6 1 2 50.0 9 9 100.0 1 6 7 3 3 1 4 3 12
+p576
+aVCody Zeller CHA 12/20/2013 CHA @ DET W 20 6 3 7 42.9 0 0 - 0 0 - 2 2 4 1 1 2 2 2 -1
+p577
+aVJeff Taylor CHA 12/20/2013 CHA @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p578
+aVBismack Biyombo CHA 12/20/2013 CHA @ DET W 15 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 4 0 1 1
+p579
+aVChris Douglas-Roberts CHA 12/20/2013 CHA @ DET W 16 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p580
+aVRamon Sessions CHA 12/18/2013 CHA @ TOR W 34 11 4 12 33.3 0 2 0.0 3 4 75.0 2 3 5 3 1 0 3 0 -9
+p581
+aVBen Gordon CHA 12/18/2013 CHA @ TOR W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -10
+p582
+aVAl Jefferson CHA 12/18/2013 CHA @ TOR W 40 24 9 18 50.0 0 0 - 6 10 60.0 0 11 11 2 0 0 1 4 9
+p583
+aVBismack Biyombo CHA 12/18/2013 CHA @ TOR W 13 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 3 -7
+p584
+aVKemba Walker CHA 12/18/2013 CHA @ TOR W 44 29 10 18 55.6 4 7 57.1 5 7 71.4 1 4 5 1 3 0 6 5 9
+p585
+aVAnthony Tolliver CHA 12/18/2013 CHA @ TOR W 13 10 4 5 80.0 2 2 100.0 0 1 0.0 2 2 4 0 0 0 0 0 17
+p586
+aVCody Zeller CHA 12/18/2013 CHA @ TOR W 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -10
+p587
+aVJosh McRoberts CHA 12/18/2013 CHA @ TOR W 44 13 5 10 50.0 1 3 33.3 2 2 100.0 2 5 7 7 0 0 1 5 12
+p588
+aVJeff Taylor CHA 12/18/2013 CHA @ TOR W 23 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 1 1 1 3 3 -15
+p589
+aVGerald Henderson CHA 12/18/2013 CHA @ TOR W 37 11 3 8 37.5 0 0 - 5 8 62.5 0 4 4 4 2 0 0 3 14
+p590
+aVAl Jefferson CHA 12/17/2013 CHA vs. SAC W 28 10 5 13 38.5 0 0 - 0 1 0.0 1 8 9 1 3 0 1 6 -6
+p591
+aVRamon Sessions CHA 12/17/2013 CHA vs. SAC W 24 16 6 11 54.5 0 1 0.0 4 5 80.0 0 2 2 6 1 0 1 0 9
+p592
+aVCody Zeller CHA 12/17/2013 CHA vs. SAC W 23 7 3 7 42.9 0 0 - 1 1 100.0 0 5 5 2 0 1 3 4 3
+p593
+aVJosh McRoberts CHA 12/17/2013 CHA vs. SAC W 25 5 2 5 40.0 1 2 50.0 0 0 - 0 5 5 4 1 0 1 3 5
+p594
+aVBen Gordon CHA 12/17/2013 CHA vs. SAC W 26 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 4 2 5
+p595
+aVBismack Biyombo CHA 12/17/2013 CHA vs. SAC W 20 0 0 1 0.0 0 0 - 0 2 0.0 3 6 9 0 0 2 1 4 14
+p596
+aVGerald Henderson CHA 12/17/2013 CHA vs. SAC W 35 20 7 13 53.8 0 0 - 6 8 75.0 1 4 5 5 1 2 3 4 4
+p597
+aVKemba Walker CHA 12/17/2013 CHA vs. SAC W 33 24 7 13 53.8 4 8 50.0 6 7 85.7 0 3 3 5 1 1 1 0 3
+p598
+aVJeff Taylor CHA 12/17/2013 CHA vs. SAC W 26 8 3 9 33.3 2 4 50.0 0 0 - 0 3 3 2 1 0 0 3 3
+p599
+aVBismack Biyombo CHA 12/14/2013 CHA vs. LAL L 14 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 2 2 2 -6
+p600
+aVCody Zeller CHA 12/14/2013 CHA vs. LAL L 18 3 1 5 20.0 0 0 - 1 2 50.0 2 4 6 1 0 0 1 2 -7
+p601
+aVBen Gordon CHA 12/14/2013 CHA vs. LAL L 25 10 5 11 45.5 0 3 0.0 0 0 - 0 2 2 1 1 1 2 2 -9
+p602
+aVGerald Henderson CHA 12/14/2013 CHA vs. LAL L 34 13 6 13 46.2 0 0 - 1 2 50.0 1 5 6 0 1 2 0 1 1
+p603
+aVJeff Taylor CHA 12/14/2013 CHA vs. LAL L 28 7 3 13 23.1 0 4 0.0 1 2 50.0 2 3 5 0 3 1 0 2 3
+p604
+aVJosh McRoberts CHA 12/14/2013 CHA vs. LAL L 30 6 3 5 60.0 0 1 0.0 0 0 - 0 7 7 5 2 1 3 3 4
+p605
+aVKemba Walker CHA 12/14/2013 CHA vs. LAL L 35 24 10 13 76.9 2 4 50.0 2 2 100.0 2 1 3 8 1 0 2 2 0
+p606
+aVRamon Sessions CHA 12/14/2013 CHA vs. LAL L 23 2 1 7 14.3 0 1 0.0 0 0 - 1 2 3 3 1 0 3 1 -4
+p607
+aVAl Jefferson CHA 12/14/2013 CHA vs. LAL L 34 14 7 18 38.9 0 0 - 0 0 - 3 6 9 4 1 2 0 1 3
+p608
+aVCody Zeller CHA 12/13/2013 CHA @ IND L 19 7 2 5 40.0 0 0 - 3 3 100.0 1 4 5 2 0 1 2 1 7
+p609
+aVJeff Adrien CHA 12/13/2013 CHA @ IND L 3 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 2 2
+p610
+aVRamon Sessions CHA 12/13/2013 CHA @ IND L 23 13 5 9 55.6 2 2 100.0 1 2 50.0 0 3 3 0 1 0 1 1 2
+p611
+aVBen Gordon CHA 12/13/2013 CHA @ IND L 24 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 0
+p612
+aVKemba Walker CHA 12/13/2013 CHA @ IND L 35 13 5 14 35.7 1 3 33.3 2 2 100.0 1 4 5 4 0 0 3 1 -6
+p613
+aVGerald Henderson CHA 12/13/2013 CHA @ IND L 26 10 5 9 55.6 0 1 0.0 0 0 - 0 3 3 4 0 0 1 2 -10
+p614
+aVJosh McRoberts CHA 12/13/2013 CHA @ IND L 29 9 4 6 66.7 1 3 33.3 0 0 - 1 2 3 3 1 1 1 3 -12
+p615
+aVAl Jefferson CHA 12/13/2013 CHA @ IND L 28 21 9 18 50.0 0 0 - 3 4 75.0 3 6 9 2 0 2 0 2 -8
+p616
+aVJeff Taylor CHA 12/13/2013 CHA @ IND L 36 9 4 12 33.3 0 2 0.0 1 2 50.0 0 0 0 2 2 0 2 3 -1
+p617
+aVBismack Biyombo CHA 12/13/2013 CHA @ IND L 17 6 2 2 100.0 0 0 - 2 3 66.7 2 5 7 1 1 0 1 3 1
+p618
+aVJeff Taylor CHA 12/11/2013 CHA vs. ORL L 31 8 3 8 37.5 1 2 50.0 1 2 50.0 0 1 1 2 0 0 0 1 5
+p619
+aVKemba Walker CHA 12/11/2013 CHA vs. ORL L 36 10 4 18 22.2 0 4 0.0 2 2 100.0 1 1 2 4 3 4 5 2 -11
+p620
+aVCody Zeller CHA 12/11/2013 CHA vs. ORL L 15 10 5 7 71.4 0 0 - 0 0 - 1 5 6 2 1 1 0 2 -6
+p621
+aVRamon Sessions CHA 12/11/2013 CHA vs. ORL L 22 9 3 11 27.3 0 3 0.0 3 3 100.0 0 4 4 3 0 0 1 1 1
+p622
+aVAl Jefferson CHA 12/11/2013 CHA vs. ORL L 34 10 4 10 40.0 0 0 - 2 2 100.0 3 8 11 1 1 1 1 1 -13
+p623
+aVJeff Adrien CHA 12/11/2013 CHA vs. ORL L 14 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 1 4
+p624
+aVGerald Henderson CHA 12/11/2013 CHA vs. ORL L 30 12 3 14 21.4 1 3 33.3 5 5 100.0 0 4 4 3 0 1 0 3 -14
+p625
+aVBen Gordon CHA 12/11/2013 CHA vs. ORL L 25 9 3 8 37.5 1 2 50.0 2 2 100.0 1 5 6 5 0 0 1 1 -8
+p626
+aVJosh McRoberts CHA 12/11/2013 CHA vs. ORL L 33 11 5 7 71.4 1 3 33.3 0 0 - 3 2 5 3 0 0 2 2 -3
+p627
+aVCody Zeller CHA 12/09/2013 CHA vs. GSW W 14 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 2 -3
+p628
+aVJeff Adrien CHA 12/09/2013 CHA vs. GSW W 13 2 1 4 25.0 0 0 - 0 0 - 3 4 7 0 0 0 0 3 -1
+p629
+aVKemba Walker CHA 12/09/2013 CHA vs. GSW W 37 31 10 18 55.6 2 5 40.0 9 11 81.8 1 4 5 5 0 0 2 1 -3
+p630
+aVBen Gordon CHA 12/09/2013 CHA vs. GSW W 14 12 4 9 44.4 1 1 100.0 3 3 100.0 0 1 1 1 2 0 0 0 5
+p631
+aVAl Jefferson CHA 12/09/2013 CHA vs. GSW W 35 11 5 16 31.3 0 0 - 1 2 50.0 1 8 9 1 1 1 0 4 5
+p632
+aVAnthony Tolliver CHA 12/09/2013 CHA vs. GSW W 34 6 2 2 100.0 2 2 100.0 0 0 - 0 5 5 2 1 1 0 3 14
+p633
+aVJosh McRoberts CHA 12/09/2013 CHA vs. GSW W 34 11 4 7 57.1 1 2 50.0 2 3 66.7 1 9 10 6 1 1 1 1 7
+p634
+aVRamon Sessions CHA 12/09/2013 CHA vs. GSW W 21 13 4 10 40.0 0 1 0.0 5 5 100.0 0 3 3 5 1 0 1 0 2
+p635
+aVGerald Henderson CHA 12/09/2013 CHA vs. GSW W 37 24 11 23 47.8 0 1 0.0 2 3 66.7 1 2 3 1 0 1 2 2 -6
+p636
+aVRamon Sessions CHA 12/06/2013 CHA vs. PHI W 24 13 5 7 71.4 0 1 0.0 3 4 75.0 0 2 2 4 0 0 3 1 15
+p637
+aVAl Jefferson CHA 12/06/2013 CHA vs. PHI W 32 14 6 21 28.6 0 0 - 2 3 66.7 6 6 12 2 1 2 1 3 0
+p638
+aVGerald Henderson CHA 12/06/2013 CHA vs. PHI W 36 18 6 14 42.9 0 3 0.0 6 8 75.0 1 2 3 4 2 1 3 2 16
+p639
+aVJosh McRoberts CHA 12/06/2013 CHA vs. PHI W 33 4 2 8 25.0 0 4 0.0 0 0 - 1 9 10 4 2 1 0 2 11
+p640
+aVJeff Taylor CHA 12/06/2013 CHA vs. PHI W 37 20 8 16 50.0 2 7 28.6 2 2 100.0 3 5 8 1 1 1 0 1 3
+p641
+aVJeff Adrien CHA 12/06/2013 CHA vs. PHI W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 3
+p642
+aVBen Gordon CHA 12/06/2013 CHA vs. PHI W 10 4 2 4 50.0 0 2 0.0 0 1 0.0 0 1 1 3 0 0 0 0 9
+p643
+aVBismack Biyombo CHA 12/06/2013 CHA vs. PHI W 7 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 14
+p644
+aVCody Zeller CHA 12/06/2013 CHA vs. PHI W 12 10 5 6 83.3 0 0 - 0 1 0.0 0 5 5 0 0 0 1 2 6
+p645
+aVKemba Walker CHA 12/06/2013 CHA vs. PHI W 38 18 6 13 46.2 2 4 50.0 4 6 66.7 0 2 2 10 3 0 0 0 8
+p646
+aVAnthony Tolliver CHA 12/06/2013 CHA vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p647
+aVJeff Taylor CHA 12/03/2013 CHA @ DAL L 3 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 2 0
+p648
+aVKemba Walker CHA 12/03/2013 CHA @ DAL L 35 16 7 15 46.7 2 5 40.0 0 0 - 1 6 7 5 0 1 0 0 1
+p649
+aVMichael Kidd-Gilchrist CHA 12/03/2013 CHA @ DAL L 19 6 2 6 33.3 0 0 - 2 4 50.0 0 3 3 0 0 0 0 3 -1
+p650
+aVBen Gordon CHA 12/03/2013 CHA @ DAL L 13 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 0 2
+p651
+aVGerald Henderson CHA 12/03/2013 CHA @ DAL L 26 16 7 11 63.6 0 0 - 2 3 66.7 1 2 3 0 1 0 2 2 -7
+p652
+aVAl Jefferson CHA 12/03/2013 CHA @ DAL L 38 19 6 10 60.0 0 0 - 7 10 70.0 2 10 12 2 0 3 2 2 -3
+p653
+aVRamon Sessions CHA 12/03/2013 CHA @ DAL L 21 6 1 9 11.1 0 2 0.0 4 4 100.0 0 2 2 0 0 0 2 0 -10
+p654
+aVCody Zeller CHA 12/03/2013 CHA @ DAL L 18 2 1 5 20.0 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -6
+p655
+aVJosh McRoberts CHA 12/03/2013 CHA @ DAL L 30 10 3 6 50.0 0 2 0.0 4 4 100.0 1 7 8 3 3 0 1 5 -1
+p656
+aVAnthony Tolliver CHA 12/03/2013 CHA @ DAL L 26 3 1 5 20.0 1 5 20.0 0 0 - 0 3 3 0 0 0 0 2 -6
+p657
+aVBismack Biyombo CHA 12/03/2013 CHA @ DAL L 10 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 1 0 0 0 -4
+p658
+aVAl Jefferson CHA 12/01/2013 CHA @ MIA L 38 16 7 14 50.0 0 0 - 2 3 66.7 3 10 13 0 3 0 0 4 -3
+p659
+aVJeff Taylor CHA 12/01/2013 CHA @ MIA L 23 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 0 0 0 4 3 2
+p660
+aVBen Gordon CHA 12/01/2013 CHA @ MIA L 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -4
+p661
+aVMichael Kidd-Gilchrist CHA 12/01/2013 CHA @ MIA L 24 6 1 2 50.0 0 0 - 4 4 100.0 1 4 5 0 0 0 0 4 -6
+p662
+aVKemba Walker CHA 12/01/2013 CHA @ MIA L 42 27 10 22 45.5 2 8 25.0 5 6 83.3 1 1 2 6 2 0 6 0 6
+p663
+aVCody Zeller CHA 12/01/2013 CHA @ MIA L 19 2 1 6 16.7 0 0 - 0 0 - 0 2 2 3 0 0 0 1 1
+p664
+aVJosh McRoberts CHA 12/01/2013 CHA @ MIA L 29 10 4 8 50.0 1 3 33.3 1 2 50.0 0 3 3 1 0 0 1 4 -2
+p665
+aVRamon Sessions CHA 12/01/2013 CHA @ MIA L 15 10 2 6 33.3 0 1 0.0 6 6 100.0 0 1 1 1 1 0 0 0 -5
+p666
+aVGerald Henderson CHA 12/01/2013 CHA @ MIA L 33 17 6 12 50.0 0 1 0.0 5 5 100.0 1 5 6 4 2 1 3 3 4
+p667
+aVBismack Biyombo CHA 12/01/2013 CHA @ MIA L 10 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 1 0 0 2
+p668
+aVBismack Biyombo CHA 11/29/2013 CHA vs. MIL W 20 7 3 4 75.0 0 0 - 1 2 50.0 4 10 14 0 0 1 2 1 10
+p669
+aVJeff Adrien CHA 11/29/2013 CHA vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p670
+aVAl Jefferson CHA 11/29/2013 CHA vs. MIL W 26 23 11 18 61.1 0 0 - 1 3 33.3 6 6 12 3 1 0 0 5 9
+p671
+aVKemba Walker CHA 11/29/2013 CHA vs. MIL W 32 10 3 10 30.0 1 4 25.0 3 4 75.0 0 5 5 2 0 0 6 1 2
+p672
+aVJannero Pargo CHA 11/29/2013 CHA vs. MIL W 3 1 0 1 0.0 0 0 - 1 3 33.3 0 0 0 0 0 0 1 0 -3
+p673
+aVCody Zeller CHA 11/29/2013 CHA vs. MIL W 19 7 3 5 60.0 0 0 - 1 1 100.0 2 2 4 1 0 1 0 1 12
+p674
+aVJeff Taylor CHA 11/29/2013 CHA vs. MIL W 28 4 2 7 28.6 0 2 0.0 0 2 0.0 0 0 0 2 0 0 0 1 10
+p675
+aVGerald Henderson CHA 11/29/2013 CHA vs. MIL W 39 19 7 13 53.8 1 3 33.3 4 6 66.7 1 5 6 3 1 0 5 2 9
+p676
+aVJames Southerland CHA 11/29/2013 CHA vs. MIL W 3 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p677
+aVBen Gordon CHA 11/29/2013 CHA vs. MIL W 17 8 2 8 25.0 0 2 0.0 4 4 100.0 0 1 1 2 1 0 2 1 14
+p678
+aVJosh McRoberts CHA 11/29/2013 CHA vs. MIL W 29 2 1 4 25.0 0 1 0.0 0 0 - 0 6 6 4 2 0 0 3 4
+p679
+aVRamon Sessions CHA 11/29/2013 CHA vs. MIL W 22 11 3 6 50.0 1 2 50.0 4 6 66.7 2 2 4 3 0 2 1 2 19
+p680
+aVAnthony Tolliver CHA 11/27/2013 CHA vs. IND L 16 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -2
+p681
+aVMichael Kidd-Gilchrist CHA 11/27/2013 CHA vs. IND L 34 5 2 4 50.0 0 0 - 1 1 100.0 2 5 7 2 1 1 1 3 -8
+p682
+aVKemba Walker CHA 11/27/2013 CHA vs. IND L 36 15 3 17 17.6 2 4 50.0 7 7 100.0 0 5 5 3 2 0 3 0 -25
+p683
+aVCody Zeller CHA 11/27/2013 CHA vs. IND L 19 7 2 7 28.6 0 0 - 3 4 75.0 2 4 6 2 0 1 3 5 -9
+p684
+aVJosh McRoberts CHA 11/27/2013 CHA vs. IND L 18 4 2 4 50.0 0 1 0.0 0 4 0.0 1 2 3 2 0 0 1 5 -19
+p685
+aVJeff Taylor CHA 11/27/2013 CHA vs. IND L 20 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 0 0 0 0 5 -12
+p686
+aVJeff Adrien CHA 11/27/2013 CHA vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -9
+p687
+aVRamon Sessions CHA 11/27/2013 CHA vs. IND L 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p688
+aVAl Jefferson CHA 11/27/2013 CHA vs. IND L 32 16 7 15 46.7 0 0 - 2 4 50.0 3 6 9 2 0 3 3 2 -10
+p689
+aVJannero Pargo CHA 11/27/2013 CHA vs. IND L 5 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p690
+aVBismack Biyombo CHA 11/27/2013 CHA vs. IND L 11 4 1 1 100.0 0 0 - 2 4 50.0 2 2 4 0 0 0 0 0 -6
+p691
+aVGerald Henderson CHA 11/27/2013 CHA vs. IND L 31 10 3 15 20.0 0 0 - 4 4 100.0 0 4 4 1 0 1 2 3 -24
+p692
+aVGerald Henderson CHA 11/25/2013 CHA vs. BOS L 37 20 7 17 41.2 0 2 0.0 6 6 100.0 0 5 5 1 1 0 2 0 10
+p693
+aVJeff Adrien CHA 11/25/2013 CHA vs. BOS L 15 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 -9
+p694
+aVAl Jefferson CHA 11/25/2013 CHA vs. BOS L 33 14 6 14 42.9 0 0 - 2 2 100.0 1 2 3 1 0 2 2 1 -1
+p695
+aVJeff Taylor CHA 11/25/2013 CHA vs. BOS L 27 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 1 4 -22
+p696
+aVRamon Sessions CHA 11/25/2013 CHA vs. BOS L 19 5 1 7 14.3 0 1 0.0 3 4 75.0 0 0 0 3 0 0 4 0 -18
+p697
+aVJosh McRoberts CHA 11/25/2013 CHA vs. BOS L 34 5 2 6 33.3 1 2 50.0 0 0 - 3 4 7 5 1 1 0 2 11
+p698
+aVCody Zeller CHA 11/25/2013 CHA vs. BOS L 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -21
+p699
+aVKemba Walker CHA 11/25/2013 CHA vs. BOS L 34 28 11 17 64.7 1 2 50.0 5 6 83.3 2 4 6 5 0 0 3 2 10
+p700
+aVAnthony Tolliver CHA 11/25/2013 CHA vs. BOS L 11 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -9
+p701
+aVMichael Kidd-Gilchrist CHA 11/25/2013 CHA vs. BOS L 17 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 2 -1
+p702
+aVJeff Adrien CHA 11/23/2013 CHA @ MIL W 17 4 2 4 50.0 0 0 - 0 2 0.0 4 6 10 0 1 0 0 1 7
+p703
+aVAnthony Tolliver CHA 11/23/2013 CHA @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p704
+aVJannero Pargo CHA 11/23/2013 CHA @ MIL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -4
+p705
+aVMichael Kidd-Gilchrist CHA 11/23/2013 CHA @ MIL W 28 7 3 7 42.9 0 0 - 1 2 50.0 2 4 6 0 1 1 0 1 24
+p706
+aVCody Zeller CHA 11/23/2013 CHA @ MIL W 26 2 0 3 0.0 0 0 - 2 2 100.0 3 2 5 1 0 2 4 3 -1
+p707
+aVGerald Henderson CHA 11/23/2013 CHA @ MIL W 26 17 7 12 58.3 1 2 50.0 2 5 40.0 0 4 4 3 1 0 0 2 24
+p708
+aVKemba Walker CHA 11/23/2013 CHA @ MIL W 28 11 5 10 50.0 1 3 33.3 0 1 0.0 1 3 4 3 1 0 4 0 23
+p709
+aVJosh McRoberts CHA 11/23/2013 CHA @ MIL W 22 12 5 7 71.4 2 4 50.0 0 0 - 1 8 9 2 1 0 0 1 25
+p710
+aVRamon Sessions CHA 11/23/2013 CHA @ MIL W 24 13 4 8 50.0 0 1 0.0 5 6 83.3 0 1 1 6 1 0 0 1 0
+p711
+aVBismack Biyombo CHA 11/23/2013 CHA @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -4
+p712
+aVAl Jefferson CHA 11/23/2013 CHA @ MIL W 25 19 8 15 53.3 0 0 - 3 5 60.0 3 4 7 2 2 1 2 2 21
+p713
+aVJeff Taylor CHA 11/23/2013 CHA @ MIL W 27 9 3 9 33.3 1 4 25.0 2 4 50.0 0 1 1 1 1 0 1 1 7
+p714
+aVJeff Adrien CHA 11/22/2013 CHA vs. PHX L 16 5 1 3 33.3 0 0 - 3 3 100.0 1 2 3 0 1 0 1 1 -10
+p715
+aVJeff Taylor CHA 11/22/2013 CHA vs. PHX L 18 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 5 -12
+p716
+aVCody Zeller CHA 11/22/2013 CHA vs. PHX L 25 6 2 11 18.2 0 0 - 2 2 100.0 4 5 9 0 0 0 3 3 -8
+p717
+aVRamon Sessions CHA 11/22/2013 CHA vs. PHX L 28 15 6 10 60.0 1 2 50.0 2 6 33.3 1 3 4 0 2 0 3 1 -10
+p718
+aVMichael Kidd-Gilchrist CHA 11/22/2013 CHA vs. PHX L 18 9 1 2 50.0 0 0 - 7 8 87.5 0 3 3 0 1 0 2 2 -10
+p719
+aVJosh McRoberts CHA 11/22/2013 CHA vs. PHX L 31 10 4 10 40.0 2 6 33.3 0 0 - 3 3 6 5 1 0 0 4 13
+p720
+aVAl Jefferson CHA 11/22/2013 CHA vs. PHX L 25 9 3 6 50.0 0 0 - 3 5 60.0 2 4 6 3 2 3 3 4 -9
+p721
+aVAnthony Tolliver CHA 11/22/2013 CHA vs. PHX L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p722
+aVGerald Henderson CHA 11/22/2013 CHA vs. PHX L 34 17 6 12 50.0 0 1 0.0 5 6 83.3 0 4 4 3 1 1 1 4 7
+p723
+aVKemba Walker CHA 11/22/2013 CHA vs. PHX L 37 16 7 18 38.9 0 4 0.0 2 3 66.7 0 5 5 6 1 0 1 3 3
+p724
+aVJeff Adrien CHA 11/20/2013 CHA vs. BKN W 25 7 2 5 40.0 0 0 - 3 4 75.0 5 5 10 0 0 1 0 3 2
+p725
+aVJosh McRoberts CHA 11/20/2013 CHA vs. BKN W 29 6 2 6 33.3 0 1 0.0 2 4 50.0 3 4 7 5 1 2 1 0 -3
+p726
+aVRamon Sessions CHA 11/20/2013 CHA vs. BKN W 27 13 5 11 45.5 0 2 0.0 3 5 60.0 0 0 0 1 0 0 3 1 -3
+p727
+aVCody Zeller CHA 11/20/2013 CHA vs. BKN W 19 6 2 6 33.3 0 0 - 2 3 66.7 3 1 4 1 2 0 2 4 9
+p728
+aVKemba Walker CHA 11/20/2013 CHA vs. BKN W 35 31 12 20 60.0 4 7 57.1 3 4 75.0 2 3 5 2 1 1 2 1 10
+p729
+aVJeff Taylor CHA 11/20/2013 CHA vs. BKN W 17 0 0 4 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 2 4
+p730
+aVGerald Henderson CHA 11/20/2013 CHA vs. BKN W 31 13 4 12 33.3 1 2 50.0 4 5 80.0 2 0 2 5 2 0 1 2 -2
+p731
+aVBismack Biyombo CHA 11/20/2013 CHA vs. BKN W 23 9 4 6 66.7 0 0 - 1 3 33.3 1 5 6 0 0 0 0 4 0
+p732
+aVAnthony Tolliver CHA 11/20/2013 CHA vs. BKN W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p733
+aVMichael Kidd-Gilchrist CHA 11/20/2013 CHA vs. BKN W 26 8 4 10 40.0 0 1 0.0 0 2 0.0 1 3 4 1 0 0 5 3 -2
+p734
+aVBismack Biyombo CHA 11/18/2013 CHA @ CHI L 21 6 2 2 100.0 0 0 - 2 2 100.0 1 3 4 0 0 1 0 2 -13
+p735
+aVJeff Taylor CHA 11/18/2013 CHA @ CHI L 33 20 9 18 50.0 2 4 50.0 0 0 - 2 3 5 0 1 0 2 4 6
+p736
+aVJeff Adrien CHA 11/18/2013 CHA @ CHI L 27 6 3 4 75.0 0 0 - 0 2 0.0 3 3 6 3 0 4 0 3 8
+p737
+aVGerald Henderson CHA 11/18/2013 CHA @ CHI L 31 16 5 15 33.3 2 2 100.0 4 4 100.0 2 6 8 6 1 0 2 4 -7
+p738
+aVRamon Sessions CHA 11/18/2013 CHA @ CHI L 19 4 2 9 22.2 0 1 0.0 0 4 0.0 0 2 2 5 0 0 0 1 5
+p739
+aVJosh McRoberts CHA 11/18/2013 CHA @ CHI L 29 11 4 14 28.6 3 7 42.9 0 0 - 3 3 6 5 0 2 1 2 -5
+p740
+aVKemba Walker CHA 11/18/2013 CHA @ CHI L 35 8 3 14 21.4 0 2 0.0 2 2 100.0 0 3 3 3 2 0 0 2 -7
+p741
+aVMichael Kidd-Gilchrist CHA 11/18/2013 CHA @ CHI L 26 4 2 7 28.6 0 0 - 0 2 0.0 0 4 4 1 0 0 4 2 -12
+p742
+aVCody Zeller CHA 11/18/2013 CHA @ CHI L 19 6 3 8 37.5 0 0 - 0 0 - 1 5 6 2 2 1 0 3 0
+p743
+aVCody Zeller CHA 11/16/2013 CHA vs. MIA L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p744
+aVJeff Taylor CHA 11/16/2013 CHA vs. MIA L 30 14 5 14 35.7 2 4 50.0 2 5 40.0 1 0 1 1 1 0 0 4 -19
+p745
+aVBismack Biyombo CHA 11/16/2013 CHA vs. MIA L 21 4 1 2 50.0 0 0 - 2 2 100.0 2 6 8 0 0 0 0 2 -13
+p746
+aVMichael Kidd-Gilchrist CHA 11/16/2013 CHA vs. MIA L 26 8 3 8 37.5 0 0 - 2 2 100.0 3 2 5 0 1 0 1 3 -3
+p747
+aVJosh McRoberts CHA 11/16/2013 CHA vs. MIA L 37 6 3 10 30.0 0 6 0.0 0 0 - 3 4 7 8 1 0 2 1 -4
+p748
+aVKemba Walker CHA 11/16/2013 CHA vs. MIA L 34 22 7 18 38.9 3 5 60.0 5 6 83.3 0 3 3 2 1 1 1 1 -15
+p749
+aVGerald Henderson CHA 11/16/2013 CHA vs. MIA L 33 13 4 12 33.3 1 3 33.3 4 5 80.0 0 7 7 2 1 0 1 3 0
+p750
+aVAnthony Tolliver CHA 11/16/2013 CHA vs. MIA L 32 3 1 9 11.1 1 7 14.3 0 0 - 1 2 3 4 0 1 1 3 -9
+p751
+aVRamon Sessions CHA 11/16/2013 CHA vs. MIA L 22 11 5 8 62.5 1 2 50.0 0 0 - 0 2 2 3 0 1 1 1 -11
+p752
+aVKemba Walker CHA 11/15/2013 CHA @ CLE W 36 12 4 19 21.1 1 5 20.0 3 5 60.0 0 5 5 7 5 2 4 3 -6
+p753
+aVMichael Kidd-Gilchrist CHA 11/15/2013 CHA @ CLE W 29 16 6 9 66.7 0 1 0.0 4 5 80.0 4 4 8 0 0 1 2 0 4
+p754
+aVJeff Taylor CHA 11/15/2013 CHA @ CLE W 29 11 5 11 45.5 1 2 50.0 0 0 - 2 3 5 1 0 0 0 1 12
+p755
+aVAnthony Tolliver CHA 11/15/2013 CHA @ CLE W 11 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 3 0 1 1 3 3
+p756
+aVJosh McRoberts CHA 11/15/2013 CHA @ CLE W 31 13 4 12 33.3 3 8 37.5 2 3 66.7 1 4 5 4 0 0 2 2 -2
+p757
+aVRamon Sessions CHA 11/15/2013 CHA @ CLE W 19 12 4 7 57.1 1 1 100.0 3 4 75.0 0 2 2 7 3 0 4 1 21
+p758
+aVGerald Henderson CHA 11/15/2013 CHA @ CLE W 31 8 4 13 30.8 0 1 0.0 0 0 - 1 4 5 1 0 1 1 0 -13
+p759
+aVCody Zeller CHA 11/15/2013 CHA @ CLE W 22 8 3 6 50.0 0 0 - 2 3 66.7 0 4 4 0 0 0 0 1 17
+p760
+aVBismack Biyombo CHA 11/15/2013 CHA @ CLE W 32 0 0 1 0.0 0 0 - 0 0 - 4 8 12 0 0 3 2 2 -6
+p761
+aVBismack Biyombo CHA 11/13/2013 CHA @ BOS W 15 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -6
+p762
+aVGerald Henderson CHA 11/13/2013 CHA @ BOS W 35 13 5 14 35.7 0 0 - 3 5 60.0 3 6 9 5 1 0 2 2 2
+p763
+aVAl Jefferson CHA 11/13/2013 CHA @ BOS W 33 22 8 17 47.1 0 0 - 6 6 100.0 2 9 11 3 0 2 1 3 12
+p764
+aVCody Zeller CHA 11/13/2013 CHA @ BOS W 22 8 2 7 28.6 0 0 - 4 4 100.0 4 5 9 2 2 1 3 1 4
+p765
+aVKemba Walker CHA 11/13/2013 CHA @ BOS W 34 3 1 13 7.7 0 3 0.0 1 2 50.0 2 7 9 2 3 0 2 1 3
+p766
+aVJeff Taylor CHA 11/13/2013 CHA @ BOS W 29 12 4 8 50.0 0 1 0.0 4 4 100.0 0 1 1 1 0 0 0 2 -4
+p767
+aVMichael Kidd-Gilchrist CHA 11/13/2013 CHA @ BOS W 28 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 1 0 2 6 10
+p768
+aVRamon Sessions CHA 11/13/2013 CHA @ BOS W 18 10 2 7 28.6 0 2 0.0 6 7 85.7 0 3 3 1 0 0 0 0 7
+p769
+aVAnthony Tolliver CHA 11/13/2013 CHA @ BOS W 26 11 3 7 42.9 3 6 50.0 2 2 100.0 0 1 1 1 1 1 1 3 2
+p770
+aVGerald Henderson CHA 11/11/2013 CHA vs. ATL L 33 11 3 8 37.5 0 0 - 5 6 83.3 0 1 1 3 0 0 2 2 0
+p771
+aVJeff Taylor CHA 11/11/2013 CHA vs. ATL L 25 10 4 10 40.0 0 2 0.0 2 3 66.7 0 6 6 1 0 0 1 4 -13
+p772
+aVKemba Walker CHA 11/11/2013 CHA vs. ATL L 32 12 3 11 27.3 0 2 0.0 6 7 85.7 1 1 2 3 1 0 4 4 -4
+p773
+aVJosh McRoberts CHA 11/11/2013 CHA vs. ATL L 31 19 7 13 53.8 5 8 62.5 0 0 - 1 5 6 7 0 0 2 5 2
+p774
+aVRamon Sessions CHA 11/11/2013 CHA vs. ATL L 20 10 3 10 30.0 0 0 - 4 4 100.0 1 2 3 2 0 0 1 1 -4
+p775
+aVAl Jefferson CHA 11/11/2013 CHA vs. ATL L 28 10 5 11 45.5 0 0 - 0 0 - 1 6 7 3 1 0 0 3 4
+p776
+aVAnthony Tolliver CHA 11/11/2013 CHA vs. ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p777
+aVMichael Kidd-Gilchrist CHA 11/11/2013 CHA vs. ATL L 33 16 6 11 54.5 0 1 0.0 4 5 80.0 4 2 6 2 0 0 3 1 -6
+p778
+aVBismack Biyombo CHA 11/11/2013 CHA vs. ATL L 17 2 1 1 100.0 0 0 - 0 2 0.0 1 5 6 0 0 0 0 2 -4
+p779
+aVCody Zeller CHA 11/11/2013 CHA vs. ATL L 17 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 1 2 0 0 2 -14
+p780
+aVBismack Biyombo CHA 11/08/2013 CHA vs. NYK L 26 3 0 1 0.0 0 0 - 3 4 75.0 1 10 11 1 0 1 1 1 -8
+p781
+aVAnthony Tolliver CHA 11/08/2013 CHA vs. NYK L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 2 0 1 3 3
+p782
+aVKemba Walker CHA 11/08/2013 CHA vs. NYK L 38 25 8 22 36.4 1 5 20.0 8 8 100.0 1 2 3 5 0 1 0 0 -14
+p783
+aVJeff Adrien CHA 11/08/2013 CHA vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p784
+aVRamon Sessions CHA 11/08/2013 CHA vs. NYK L 15 15 4 4 100.0 0 0 - 7 7 100.0 1 0 1 2 0 1 1 1 -5
+p785
+aVJeff Taylor CHA 11/08/2013 CHA vs. NYK L 17 5 2 8 25.0 1 4 25.0 0 0 - 1 1 2 1 0 1 1 2 -6
+p786
+aVJosh McRoberts CHA 11/08/2013 CHA vs. NYK L 33 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 3 0 0 2 1 0
+p787
+aVMichael Kidd-Gilchrist CHA 11/08/2013 CHA vs. NYK L 34 14 6 11 54.5 0 1 0.0 2 4 50.0 4 4 8 0 1 3 3 2 -9
+p788
+aVCody Zeller CHA 11/08/2013 CHA vs. NYK L 23 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 1 1 3 -12
+p789
+aVGerald Henderson CHA 11/08/2013 CHA vs. NYK L 36 18 7 18 38.9 0 0 - 4 5 80.0 1 8 9 1 1 0 4 2 -1
+p790
+aVGerald Henderson CHA 11/06/2013 CHA vs. TOR W 34 23 10 17 58.8 0 2 0.0 3 4 75.0 1 2 3 4 2 0 2 4 1
+p791
+aVJeff Adrien CHA 11/06/2013 CHA vs. TOR W 8 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 2 0 1 2
+p792
+aVJosh McRoberts CHA 11/06/2013 CHA vs. TOR W 30 13 5 14 35.7 1 4 25.0 2 4 50.0 0 6 6 5 1 1 1 1 3
+p793
+aVBismack Biyombo CHA 11/06/2013 CHA vs. TOR W 40 8 3 4 75.0 0 0 - 2 6 33.3 4 7 11 0 0 3 0 2 0
+p794
+aVRamon Sessions CHA 11/06/2013 CHA vs. TOR W 15 8 1 4 25.0 0 0 - 6 8 75.0 0 1 1 3 0 0 2 2 -3
+p795
+aVJeff Taylor CHA 11/06/2013 CHA vs. TOR W 28 13 5 10 50.0 1 4 25.0 2 4 50.0 1 2 3 1 0 0 2 3 0
+p796
+aVKemba Walker CHA 11/06/2013 CHA vs. TOR W 39 5 2 13 15.4 1 5 20.0 0 0 - 0 4 4 7 1 1 0 0 9
+p797
+aVMichael Kidd-Gilchrist CHA 11/06/2013 CHA vs. TOR W 29 14 6 7 85.7 0 0 - 2 2 100.0 0 4 4 2 1 1 1 5 -1
+p798
+aVCody Zeller CHA 11/06/2013 CHA vs. TOR W 18 6 3 3 100.0 0 0 - 0 2 0.0 2 1 3 2 0 0 0 1 -1
+p799
+aVJeff Taylor CHA 11/05/2013 CHA @ NYK W 18 13 5 9 55.6 2 4 50.0 1 2 50.0 2 2 4 1 0 0 2 5 0
+p800
+aVGerald Henderson CHA 11/05/2013 CHA @ NYK W 36 18 5 13 38.5 1 1 100.0 7 8 87.5 1 7 8 2 2 0 2 0 1
+p801
+aVMichael Kidd-Gilchrist CHA 11/05/2013 CHA @ NYK W 26 16 5 7 71.4 0 1 0.0 6 8 75.0 4 4 8 1 1 3 3 4 11
+p802
+aVJosh McRoberts CHA 11/05/2013 CHA @ NYK W 22 2 0 4 0.0 0 3 0.0 2 2 100.0 1 0 1 1 1 0 2 3 4
+p803
+aVAnthony Tolliver CHA 11/05/2013 CHA @ NYK W 22 8 2 4 50.0 2 4 50.0 2 2 100.0 2 3 5 0 0 0 0 1 6
+p804
+aVCody Zeller CHA 11/05/2013 CHA @ NYK W 18 7 2 3 66.7 0 0 - 3 4 75.0 2 3 5 1 1 0 3 4 -5
+p805
+aVRamon Sessions CHA 11/05/2013 CHA @ NYK W 22 10 1 9 11.1 0 1 0.0 8 9 88.9 1 0 1 4 2 0 3 2 2
+p806
+aVKemba Walker CHA 11/05/2013 CHA @ NYK W 35 25 9 20 45.0 3 7 42.9 4 5 80.0 0 5 5 6 1 0 3 2 3
+p807
+aVJeff Adrien CHA 11/05/2013 CHA @ NYK W 22 2 1 1 100.0 0 0 - 0 0 - 2 6 8 1 1 1 0 2 6
+p808
+aVBismack Biyombo CHA 11/05/2013 CHA @ NYK W 19 1 0 1 0.0 0 0 - 1 2 50.0 1 5 6 0 0 1 4 2 -3
+p809
+aVGerald Henderson CHA 11/02/2013 CHA @ NOP L 27 7 3 10 30.0 0 1 0.0 1 2 50.0 0 2 2 1 1 1 2 4 -15
+p810
+aVAnthony Tolliver CHA 11/02/2013 CHA @ NOP L 24 6 2 5 40.0 2 5 40.0 0 0 - 2 3 5 1 0 0 1 1 -3
+p811
+aVKemba Walker CHA 11/02/2013 CHA @ NOP L 27 14 7 19 36.8 0 5 0.0 0 0 - 1 1 2 0 0 0 1 3 -24
+p812
+aVJannero Pargo CHA 11/02/2013 CHA @ NOP L 5 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 0 1 0 1 1 2
+p813
+aVJeff Taylor CHA 11/02/2013 CHA @ NOP L 25 5 1 9 11.1 0 3 0.0 3 7 42.9 0 0 0 1 0 0 0 1 -10
+p814
+aVBen Gordon CHA 11/02/2013 CHA @ NOP L 9 4 1 3 33.3 0 1 0.0 2 4 50.0 0 1 1 1 1 0 0 1 0
+p815
+aVMichael Kidd-Gilchrist CHA 11/02/2013 CHA @ NOP L 17 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 1 0 1 2 2 -5
+p816
+aVJeff Adrien CHA 11/02/2013 CHA @ NOP L 23 8 4 7 57.1 0 0 - 0 1 0.0 7 6 13 0 1 1 1 2 -4
+p817
+aVBismack Biyombo CHA 11/02/2013 CHA @ NOP L 26 0 0 0 - 0 0 - 0 2 0.0 1 5 6 0 0 1 0 1 -17
+p818
+aVCody Zeller CHA 11/02/2013 CHA @ NOP L 10 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 2 0 2 4 -9
+p819
+aVRamon Sessions CHA 11/02/2013 CHA @ NOP L 34 22 5 11 45.5 0 2 0.0 12 16 75.0 1 1 2 6 0 0 2 0 -11
+p820
+aVJosh McRoberts CHA 11/02/2013 CHA @ NOP L 15 9 3 4 75.0 1 1 100.0 2 2 100.0 1 5 6 2 2 0 1 2 -9
+p821
+aVCody Zeller CHA 11/01/2013 CHA vs. CLE W 19 9 4 9 44.4 0 0 - 1 2 50.0 0 5 5 0 0 0 0 2 2
+p822
+aVRamon Sessions CHA 11/01/2013 CHA vs. CLE W 20 9 4 10 40.0 0 1 0.0 1 3 33.3 0 1 1 4 0 0 3 1 4
+p823
+aVBismack Biyombo CHA 11/01/2013 CHA vs. CLE W 37 11 5 6 83.3 0 0 - 1 2 50.0 1 9 10 0 0 2 1 3 5
+p824
+aVMichael Kidd-Gilchrist CHA 11/01/2013 CHA vs. CLE W 37 15 6 12 50.0 0 0 - 3 4 75.0 2 4 6 0 1 1 0 3 -1
+p825
+aVJosh McRoberts CHA 11/01/2013 CHA vs. CLE W 29 0 0 3 0.0 0 1 0.0 0 0 - 2 2 4 8 2 1 2 5 4
+p826
+aVJeff Taylor CHA 11/01/2013 CHA vs. CLE W 22 8 3 8 37.5 0 4 0.0 2 4 50.0 0 1 1 1 0 0 2 0 -6
+p827
+aVJeff Adrien CHA 11/01/2013 CHA vs. CLE W 11 5 1 1 100.0 0 0 - 3 3 100.0 0 3 3 0 0 2 0 1 1
+p828
+aVKemba Walker CHA 11/01/2013 CHA vs. CLE W 38 23 8 14 57.1 3 6 50.0 4 8 50.0 0 4 4 7 3 2 4 2 16
+p829
+aVGerald Henderson CHA 11/01/2013 CHA vs. CLE W 28 10 2 10 20.0 0 0 - 6 8 75.0 0 3 3 1 1 0 3 3 5
+p830
+aVAnthony Tolliver CHA 10/30/2013 CHA @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p831
+aVRamon Sessions CHA 10/30/2013 CHA @ HOU L 19 14 5 11 45.5 1 1 100.0 3 4 75.0 1 1 2 1 1 0 2 2 -15
+p832
+aVBismack Biyombo CHA 10/30/2013 CHA @ HOU L 17 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -6
+p833
+aVKemba Walker CHA 10/30/2013 CHA @ HOU L 35 12 5 10 50.0 0 1 0.0 2 2 100.0 1 1 2 5 4 0 3 3 -1
+p834
+aVJosh McRoberts CHA 10/30/2013 CHA @ HOU L 30 15 5 9 55.6 3 4 75.0 2 2 100.0 1 3 4 3 1 1 1 3 -14
+p835
+aVCody Zeller CHA 10/30/2013 CHA @ HOU L 16 2 1 6 16.7 0 0 - 0 0 - 3 1 4 0 0 1 1 2 3
+p836
+aVAl Jefferson CHA 10/30/2013 CHA @ HOU L 30 13 6 19 31.6 0 0 - 1 2 50.0 4 4 8 1 0 2 0 2 -4
+p837
+aVGerald Henderson CHA 10/30/2013 CHA @ HOU L 32 11 5 16 31.3 0 2 0.0 1 1 100.0 0 2 2 2 0 0 0 2 -8
+p838
+aVJeff Taylor CHA 10/30/2013 CHA @ HOU L 28 5 1 6 16.7 0 2 0.0 3 4 75.0 0 2 2 0 1 1 0 0 -8
+p839
+aVJeff Adrien CHA 10/30/2013 CHA @ HOU L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p840
+aVMichael Kidd-Gilchrist CHA 10/30/2013 CHA @ HOU L 31 7 3 7 42.9 0 0 - 1 5 20.0 1 7 8 2 1 1 0 4 -7
+p841
+a.

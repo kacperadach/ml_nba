@@ -1,0 +1,1660 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSebastian Telfair BOS 04/18/2007 BOS vs. DET L 19 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 3 1 5
+p2
+aVLeon Powe BOS 04/18/2007 BOS vs. DET L 14 5 1 4 25.0 0 0 - 3 3 100.0 4 2 6 0 0 0 0 2 0
+p3
+aVRyan Gomes BOS 04/18/2007 BOS vs. DET L 42 19 7 15 46.7 2 5 40.0 3 3 100.0 1 2 3 1 1 1 1 1 -3
+p4
+aVKendrick Perkins BOS 04/18/2007 BOS vs. DET L 31 4 2 3 66.7 0 0 - 0 0 - 3 5 8 3 1 0 4 1 -6
+p5
+aVGerald Green BOS 04/18/2007 BOS vs. DET L 19 5 2 10 20.0 0 3 0.0 1 2 50.0 1 1 2 1 0 0 3 1 -2
+p6
+aVRajon Rondo BOS 04/18/2007 BOS vs. DET L 45 19 7 11 63.6 0 0 - 5 5 100.0 0 4 4 9 6 0 1 4 -4
+p7
+aVAl Jefferson BOS 04/18/2007 BOS vs. DET L 37 17 7 17 41.2 0 0 - 3 7 42.9 6 9 15 2 1 1 4 2 5
+p8
+aVAllan Ray BOS 04/18/2007 BOS vs. DET L 32 18 7 15 46.7 4 6 66.7 0 0 - 0 2 2 3 0 0 2 3 -5
+p9
+aVRajon Rondo BOS 04/16/2007 BOS @ MIA W 37 17 5 10 50.0 0 0 - 7 8 87.5 1 5 6 8 0 0 2 5 3
+p10
+aVRyan Gomes BOS 04/16/2007 BOS @ MIA W 43 11 2 9 22.2 1 3 33.3 6 8 75.0 2 6 8 3 0 0 4 4 5
+p11
+aVGerald Green BOS 04/16/2007 BOS @ MIA W 19 3 1 9 11.1 1 7 14.3 0 0 - 0 2 2 0 1 0 1 2 -4
+p12
+aVDelonte West BOS 04/16/2007 BOS @ MIA W 44 28 10 19 52.6 3 8 37.5 5 5 100.0 2 2 4 4 3 1 2 2 4
+p13
+aVAl Jefferson BOS 04/16/2007 BOS @ MIA W 38 20 9 13 69.2 0 0 - 2 2 100.0 2 11 13 1 2 3 0 1 2
+p14
+aVSebastian Telfair BOS 04/16/2007 BOS @ MIA W 18 3 1 5 20.0 1 5 20.0 0 0 - 0 0 0 3 1 1 1 2 -1
+p15
+aVLeon Powe BOS 04/16/2007 BOS @ MIA W 12 7 2 3 66.7 0 0 - 3 3 100.0 0 1 1 0 0 0 2 2 -4
+p16
+aVAllan Ray BOS 04/16/2007 BOS @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p17
+aVKendrick Perkins BOS 04/16/2007 BOS @ MIA W 26 2 1 2 50.0 0 0 - 0 0 - 2 7 9 0 0 0 2 3 7
+p18
+aVAllan Ray BOS 04/15/2007 BOS @ ORL L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 3 1 0 0 2 11
+p19
+aVSebastian Telfair BOS 04/15/2007 BOS @ ORL L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -2
+p20
+aVLeon Powe BOS 04/15/2007 BOS @ ORL L 21 3 1 4 25.0 0 0 - 1 1 100.0 4 1 5 0 0 0 1 1 -3
+p21
+aVAl Jefferson BOS 04/15/2007 BOS @ ORL L 38 28 14 20 70.0 0 0 - 0 2 0.0 0 6 6 3 1 1 1 5 7
+p22
+aVRyan Gomes BOS 04/15/2007 BOS @ ORL L 24 6 3 10 30.0 0 2 0.0 0 2 0.0 2 1 3 0 1 0 2 4 -20
+p23
+aVGerald Green BOS 04/15/2007 BOS @ ORL L 23 5 1 7 14.3 0 3 0.0 3 3 100.0 0 2 2 1 0 0 2 3 -4
+p24
+aVDelonte West BOS 04/15/2007 BOS @ ORL L 42 19 7 17 41.2 1 3 33.3 4 5 80.0 1 3 4 4 2 0 2 4 -2
+p25
+aVRajon Rondo BOS 04/15/2007 BOS @ ORL L 43 16 5 9 55.6 0 0 - 6 7 85.7 1 2 3 4 4 0 3 4 -1
+p26
+aVKendrick Perkins BOS 04/15/2007 BOS @ ORL L 25 6 3 4 75.0 0 0 - 0 0 - 1 7 8 0 3 4 4 5 4
+p27
+aVRyan Gomes BOS 04/13/2007 BOS vs. MIL L 25 13 5 8 62.5 0 2 0.0 3 3 100.0 1 6 7 1 1 1 1 4 -16
+p28
+aVGerald Green BOS 04/13/2007 BOS vs. MIL L 38 21 9 16 56.3 1 5 20.0 2 3 66.7 1 3 4 1 2 0 2 0 4
+p29
+aVKendrick Perkins BOS 04/13/2007 BOS vs. MIL L 30 9 4 9 44.4 0 0 - 1 1 100.0 4 2 6 3 0 0 6 3 -12
+p30
+aVLeon Powe BOS 04/13/2007 BOS vs. MIL L 24 18 8 12 66.7 0 0 - 2 2 100.0 3 5 8 3 0 1 2 1 12
+p31
+aVRajon Rondo BOS 04/13/2007 BOS vs. MIL L 27 5 2 7 28.6 0 0 - 1 1 100.0 0 3 3 3 1 0 0 2 -11
+p32
+aVAllan Ray BOS 04/13/2007 BOS vs. MIL L 24 10 3 6 50.0 2 4 50.0 2 2 100.0 2 2 4 1 1 0 2 3 3
+p33
+aVDelonte West BOS 04/13/2007 BOS vs. MIL L 34 13 5 12 41.7 1 4 25.0 2 3 66.7 0 0 0 4 0 1 3 3 -8
+p34
+aVSebastian Telfair BOS 04/13/2007 BOS vs. MIL L 21 6 2 8 25.0 2 5 40.0 0 0 - 0 2 2 3 1 0 1 4 9
+p35
+aVKevinn Pinkney BOS 04/13/2007 BOS vs. MIL L 17 7 3 10 30.0 0 0 - 1 2 50.0 4 3 7 3 0 0 1 3 9
+p36
+aVAllan Ray BOS 04/11/2007 BOS vs. PHI L 27 15 6 12 50.0 3 7 42.9 0 0 - 0 0 0 3 0 0 0 5 -6
+p37
+aVRajon Rondo BOS 04/11/2007 BOS vs. PHI L 38 12 4 8 50.0 0 1 0.0 4 4 100.0 1 2 3 5 1 0 2 5 -16
+p38
+aVRyan Gomes BOS 04/11/2007 BOS vs. PHI L 39 26 7 15 46.7 3 7 42.9 9 9 100.0 1 1 2 1 1 0 1 4 1
+p39
+aVKendrick Perkins BOS 04/11/2007 BOS vs. PHI L 35 5 2 5 40.0 0 0 - 1 2 50.0 5 6 11 2 0 1 4 2 0
+p40
+aVKevinn Pinkney BOS 04/11/2007 BOS vs. PHI L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -6
+p41
+aVLeon Powe BOS 04/11/2007 BOS vs. PHI L 21 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 1 0 1 2 5 -3
+p42
+aVSebastian Telfair BOS 04/11/2007 BOS vs. PHI L 26 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 6 1 0 1 3 11
+p43
+aVGerald Green BOS 04/11/2007 BOS vs. PHI L 43 22 10 21 47.6 0 5 0.0 2 2 100.0 1 4 5 2 2 0 3 4 -21
+p44
+aVGerald Green BOS 04/10/2007 BOS @ ATL L 45 33 12 22 54.5 4 5 80.0 5 6 83.3 0 4 4 3 0 0 0 5 -14
+p45
+aVKendrick Perkins BOS 04/10/2007 BOS @ ATL L 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 3 4 -12
+p46
+aVAllan Ray BOS 04/10/2007 BOS @ ATL L 38 8 3 9 33.3 2 4 50.0 0 0 - 1 2 3 2 2 0 1 4 -7
+p47
+aVRajon Rondo BOS 04/10/2007 BOS @ ATL L 35 16 8 11 72.7 0 0 - 0 1 0.0 3 2 5 8 2 0 0 1 6
+p48
+aVLeon Powe BOS 04/10/2007 BOS @ ATL L 30 19 4 14 28.6 0 0 - 11 13 84.6 6 1 7 0 0 0 1 3 2
+p49
+aVSebastian Telfair BOS 04/10/2007 BOS @ ATL L 26 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 2 1 1 3 3 -9
+p50
+aVKevinn Pinkney BOS 04/10/2007 BOS @ ATL L 24 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 1 1 0 1 2 -5
+p51
+aVRyan Gomes BOS 04/10/2007 BOS @ ATL L 26 7 3 10 30.0 1 3 33.3 0 0 - 0 3 3 1 1 0 2 0 -1
+p52
+aVKevinn Pinkney BOS 04/07/2007 BOS @ IND L 16 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 12
+p53
+aVRyan Gomes BOS 04/07/2007 BOS @ IND L 35 12 6 12 50.0 0 2 0.0 0 1 0.0 2 7 9 1 1 0 3 3 -16
+p54
+aVAllan Ray BOS 04/07/2007 BOS @ IND L 41 22 8 18 44.4 3 7 42.9 3 3 100.0 0 4 4 0 1 1 2 5 -1
+p55
+aVSebastian Telfair BOS 04/07/2007 BOS @ IND L 32 21 8 12 66.7 1 2 50.0 4 6 66.7 1 4 5 3 1 0 3 6 0
+p56
+aVLeon Powe BOS 04/07/2007 BOS @ IND L 28 15 6 9 66.7 0 1 0.0 3 5 60.0 3 1 4 0 1 0 1 3 8
+p57
+aVKendrick Perkins BOS 04/07/2007 BOS @ IND L 19 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 2 -11
+p58
+aVRajon Rondo BOS 04/07/2007 BOS @ IND L 40 14 6 12 50.0 0 1 0.0 2 5 40.0 2 6 8 8 7 0 2 5 -8
+p59
+aVGerald Green BOS 04/07/2007 BOS @ IND L 30 12 4 18 22.2 2 7 28.6 2 3 66.7 2 0 2 1 0 0 3 6 -19
+p60
+aVRyan Gomes BOS 04/06/2007 BOS vs. MIA L 33 24 8 14 57.1 4 5 80.0 4 5 80.0 1 4 5 0 0 0 2 4 -5
+p61
+aVAllan Ray BOS 04/06/2007 BOS vs. MIA L 41 13 4 13 30.8 3 9 33.3 2 3 66.7 0 4 4 3 0 1 1 3 7
+p62
+aVKevinn Pinkney BOS 04/06/2007 BOS vs. MIA L 10 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 1 1 0 2 -5
+p63
+aVSebastian Telfair BOS 04/06/2007 BOS vs. MIA L 26 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 5 1 0 1 3 0
+p64
+aVLeon Powe BOS 04/06/2007 BOS vs. MIA L 32 10 4 9 44.4 0 0 - 2 4 50.0 3 8 11 1 2 0 0 2 7
+p65
+aVKendrick Perkins BOS 04/06/2007 BOS vs. MIA L 28 4 2 5 40.0 0 0 - 0 0 - 1 4 5 2 0 2 1 5 -8
+p66
+aVRajon Rondo BOS 04/06/2007 BOS vs. MIA L 29 11 5 7 71.4 0 0 - 1 4 25.0 4 6 10 5 1 0 1 1 -11
+p67
+aVGerald Green BOS 04/06/2007 BOS vs. MIA L 40 21 10 25 40.0 1 6 16.7 0 0 - 1 3 4 2 0 1 1 4 0
+p68
+aVDelonte West BOS 04/04/2007 BOS @ MIL L 18 10 3 6 50.0 0 0 - 4 4 100.0 0 2 2 4 0 0 0 1 1
+p69
+aVKendrick Perkins BOS 04/04/2007 BOS @ MIL L 29 9 4 13 30.8 0 0 - 1 1 100.0 4 6 10 2 1 1 1 2 -10
+p70
+aVLeon Powe BOS 04/04/2007 BOS @ MIL L 19 2 1 9 11.1 0 0 - 0 0 - 3 8 11 0 0 1 2 6 4
+p71
+aVGerald Green BOS 04/04/2007 BOS @ MIL L 29 8 4 11 36.4 0 3 0.0 0 1 0.0 0 1 1 2 1 0 1 2 -14
+p72
+aVAllan Ray BOS 04/04/2007 BOS @ MIL L 26 15 5 9 55.6 1 5 20.0 4 5 80.0 2 1 3 3 0 0 3 3 1
+p73
+aVKevinn Pinkney BOS 04/04/2007 BOS @ MIL L 21 15 5 7 71.4 0 0 - 5 5 100.0 1 1 2 0 0 1 0 2 0
+p74
+aVRyan Gomes BOS 04/04/2007 BOS @ MIL L 27 13 4 14 28.6 3 5 60.0 2 2 100.0 2 3 5 6 1 0 2 0 -12
+p75
+aVRajon Rondo BOS 04/04/2007 BOS @ MIL L 40 16 8 13 61.5 0 1 0.0 0 1 0.0 3 4 7 1 0 0 4 2 -2
+p76
+aVSebastian Telfair BOS 04/04/2007 BOS @ MIL L 32 1 0 9 0.0 0 2 0.0 1 3 33.3 1 3 4 2 2 0 2 4 -13
+p77
+aVKendrick Perkins BOS 04/01/2007 BOS vs. CLE W 35 12 5 8 62.5 0 0 - 2 3 66.7 3 6 9 5 0 2 1 3 21
+p78
+aVRyan Gomes BOS 04/01/2007 BOS vs. CLE W 33 17 7 14 50.0 0 0 - 3 4 75.0 1 6 7 2 2 0 2 3 -3
+p79
+aVRajon Rondo BOS 04/01/2007 BOS vs. CLE W 35 4 2 6 33.3 0 0 - 0 0 - 0 9 9 4 3 0 4 1 20
+p80
+aVDelonte West BOS 04/01/2007 BOS vs. CLE W 26 11 4 10 40.0 0 1 0.0 3 3 100.0 0 4 4 1 0 0 1 0 -14
+p81
+aVSebastian Telfair BOS 04/01/2007 BOS vs. CLE W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -13
+p82
+aVAl Jefferson BOS 04/01/2007 BOS vs. CLE W 40 24 9 16 56.3 0 0 - 6 7 85.7 3 4 7 4 1 5 0 3 21
+p83
+aVGerald Green BOS 04/01/2007 BOS vs. CLE W 41 25 9 18 50.0 2 3 66.7 5 6 83.3 0 2 2 4 0 0 5 2 11
+p84
+aVLeon Powe BOS 04/01/2007 BOS vs. CLE W 11 5 1 2 50.0 0 0 - 3 4 75.0 1 0 1 0 0 0 3 2 -15
+p85
+aVAllan Ray BOS 04/01/2007 BOS vs. CLE W 10 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 2 0 0 2 -18
+p86
+aVKendrick Perkins BOS 03/30/2007 BOS @ PHI L 28 6 3 5 60.0 0 0 - 0 0 - 3 5 8 2 1 1 4 3 -9
+p87
+aVRajon Rondo BOS 03/30/2007 BOS @ PHI L 31 6 2 3 66.7 0 1 0.0 2 2 100.0 1 5 6 3 3 1 4 4 -13
+p88
+aVDelonte West BOS 03/30/2007 BOS @ PHI L 46 16 7 16 43.8 1 3 33.3 1 2 50.0 2 4 6 6 3 1 4 2 -4
+p89
+aVRyan Gomes BOS 03/30/2007 BOS @ PHI L 26 9 4 9 44.4 0 1 0.0 1 2 50.0 1 5 6 0 2 0 5 2 5
+p90
+aVSebastian Telfair BOS 03/30/2007 BOS @ PHI L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 5 0 0 2 2 9
+p91
+aVAllan Ray BOS 03/30/2007 BOS @ PHI L 22 7 1 6 16.7 1 4 25.0 4 4 100.0 0 0 0 0 1 0 2 4 -3
+p92
+aVAl Jefferson BOS 03/30/2007 BOS @ PHI L 35 20 7 17 41.2 0 0 - 6 6 100.0 1 7 8 1 0 0 0 3 -13
+p93
+aVLeon Powe BOS 03/30/2007 BOS @ PHI L 13 6 2 3 66.7 0 0 - 2 3 66.7 1 3 4 0 0 0 1 2 3
+p94
+aVGerald Green BOS 03/30/2007 BOS @ PHI L 20 12 4 9 44.4 1 3 33.3 3 4 75.0 2 1 3 0 0 0 2 4 -5
+p95
+aVRyan Gomes BOS 03/28/2007 BOS vs. ORL W 23 8 3 8 37.5 0 0 - 2 2 100.0 1 3 4 0 2 0 3 4 -2
+p96
+aVSebastian Telfair BOS 03/28/2007 BOS vs. ORL W 11 4 1 4 25.0 0 2 0.0 2 2 100.0 0 0 0 2 0 0 3 0 -5
+p97
+aVPaul Pierce BOS 03/28/2007 BOS vs. ORL W 53 32 11 26 42.3 1 7 14.3 9 11 81.8 0 7 7 5 0 1 1 2 9
+p98
+aVAl Jefferson BOS 03/28/2007 BOS vs. ORL W 37 23 9 17 52.9 0 0 - 5 7 71.4 2 11 13 0 1 1 3 5 0
+p99
+aVAllan Ray BOS 03/28/2007 BOS vs. ORL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p100
+aVLeon Powe BOS 03/28/2007 BOS vs. ORL W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 6 -1
+p101
+aVKendrick Perkins BOS 03/28/2007 BOS vs. ORL W 46 11 5 9 55.6 0 0 - 1 2 50.0 6 6 12 4 0 4 0 2 10
+p102
+aVGerald Green BOS 03/28/2007 BOS vs. ORL W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 4 -2
+p103
+aVRajon Rondo BOS 03/28/2007 BOS vs. ORL W 44 6 3 12 25.0 0 0 - 0 0 - 2 3 5 5 3 0 1 5 16
+p104
+aVDelonte West BOS 03/28/2007 BOS vs. ORL W 54 17 6 13 46.2 1 3 33.3 4 4 100.0 0 3 3 3 2 1 1 2 11
+p105
+aVDelonte West BOS 03/26/2007 BOS vs. TOR W 43 18 6 17 35.3 1 3 33.3 5 6 83.3 0 3 3 2 1 0 2 5 9
+p106
+aVAl Jefferson BOS 03/26/2007 BOS vs. TOR W 36 22 10 14 71.4 0 0 - 2 3 66.7 4 5 9 1 2 2 2 1 9
+p107
+aVLeon Powe BOS 03/26/2007 BOS vs. TOR W 13 4 0 3 0.0 0 0 - 4 4 100.0 2 3 5 0 1 0 0 2 -3
+p108
+aVAllan Ray BOS 03/26/2007 BOS vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p109
+aVPaul Pierce BOS 03/26/2007 BOS vs. TOR W 37 23 8 20 40.0 2 9 22.2 5 6 83.3 0 5 5 8 2 0 2 1 8
+p110
+aVSebastian Telfair BOS 03/26/2007 BOS vs. TOR W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 2 3 1
+p111
+aVRajon Rondo BOS 03/26/2007 BOS vs. TOR W 36 16 4 6 66.7 0 0 - 8 8 100.0 0 5 5 8 0 0 3 5 11
+p112
+aVRyan Gomes BOS 03/26/2007 BOS vs. TOR W 18 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 3 -1
+p113
+aVGerald Green BOS 03/26/2007 BOS vs. TOR W 17 10 5 11 45.5 0 2 0.0 0 0 - 2 3 5 0 0 1 1 0 -2
+p114
+aVKendrick Perkins BOS 03/26/2007 BOS vs. TOR W 26 2 1 2 50.0 0 0 - 0 0 - 3 3 6 2 0 1 3 5 8
+p115
+aVGerald Green BOS 03/23/2007 BOS vs. DAL L 31 19 7 10 70.0 2 2 100.0 3 5 60.0 2 2 4 1 1 0 1 4 7
+p116
+aVDelonte West BOS 03/23/2007 BOS vs. DAL L 35 9 2 7 28.6 0 2 0.0 5 6 83.3 0 4 4 2 0 2 1 2 -35
+p117
+aVPaul Pierce BOS 03/23/2007 BOS vs. DAL L 30 30 5 18 27.8 1 3 33.3 19 21 90.5 1 1 2 2 1 0 2 1 -15
+p118
+aVRajon Rondo BOS 03/23/2007 BOS vs. DAL L 28 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 3 3 0 1 2 0
+p119
+aVLeon Powe BOS 03/23/2007 BOS vs. DAL L 10 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 1 0 0 2 1 3
+p120
+aVKendrick Perkins BOS 03/23/2007 BOS vs. DAL L 15 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -21
+p121
+aVSebastian Telfair BOS 03/23/2007 BOS vs. DAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 9
+p122
+aVAllan Ray BOS 03/23/2007 BOS vs. DAL L 25 13 4 6 66.7 3 5 60.0 2 2 100.0 0 2 2 3 0 0 0 1 -2
+p123
+aVAl Jefferson BOS 03/23/2007 BOS vs. DAL L 31 4 1 11 9.1 0 0 - 2 2 100.0 5 6 11 1 2 0 0 2 -14
+p124
+aVRyan Gomes BOS 03/23/2007 BOS vs. DAL L 29 8 4 11 36.4 0 0 - 0 0 - 3 2 5 2 0 1 0 1 -2
+p125
+aVRajon Rondo BOS 03/21/2007 BOS vs. CHA L 26 0 0 2 0.0 0 0 - 0 0 - 1 5 6 5 2 1 2 5 -5
+p126
+aVAllan Ray BOS 03/21/2007 BOS vs. CHA L 18 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 1 1 1 2 1 -14
+p127
+aVRyan Gomes BOS 03/21/2007 BOS vs. CHA L 16 4 1 8 12.5 0 0 - 2 2 100.0 1 2 3 0 0 0 3 1 -16
+p128
+aVBrian Scalabrine BOS 03/21/2007 BOS vs. CHA L 20 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 0 -1
+p129
+aVGerald Green BOS 03/21/2007 BOS vs. CHA L 24 8 2 9 22.2 0 2 0.0 4 7 57.1 0 1 1 2 2 0 2 2 -21
+p130
+aVSebastian Telfair BOS 03/21/2007 BOS vs. CHA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p131
+aVPaul Pierce BOS 03/21/2007 BOS vs. CHA L 24 23 9 16 56.3 2 5 40.0 3 4 75.0 1 1 2 2 2 0 2 1 13
+p132
+aVAl Jefferson BOS 03/21/2007 BOS vs. CHA L 34 22 9 15 60.0 0 0 - 4 4 100.0 4 7 11 3 1 0 3 5 5
+p133
+aVKendrick Perkins BOS 03/21/2007 BOS vs. CHA L 24 13 3 5 60.0 0 0 - 7 8 87.5 3 8 11 2 0 2 0 0 19
+p134
+aVLeon Powe BOS 03/21/2007 BOS vs. CHA L 15 4 1 3 33.3 0 0 - 2 2 100.0 3 5 8 0 0 1 2 3 -15
+p135
+aVDelonte West BOS 03/21/2007 BOS vs. CHA L 34 10 5 13 38.5 0 2 0.0 0 0 - 1 3 4 5 1 1 3 1 7
+p136
+aVKendrick Perkins BOS 03/19/2007 BOS @ NOK L 22 3 1 2 50.0 0 0 - 1 1 100.0 1 2 3 1 0 0 2 3 -12
+p137
+aVAllan Ray BOS 03/19/2007 BOS @ NOK L 22 12 4 15 26.7 2 3 66.7 2 2 100.0 2 3 5 1 1 0 1 1 -4
+p138
+aVDelonte West BOS 03/19/2007 BOS @ NOK L 33 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 3 0 1 1 1 -25
+p139
+aVPaul Pierce BOS 03/19/2007 BOS @ NOK L 29 28 11 18 61.1 4 7 57.1 2 3 66.7 0 1 1 3 1 0 4 3 -21
+p140
+aVGerald Green BOS 03/19/2007 BOS @ NOK L 21 11 4 9 44.4 1 2 50.0 2 2 100.0 1 3 4 1 0 1 2 3 -3
+p141
+aVSebastian Telfair BOS 03/19/2007 BOS @ NOK L 16 7 3 6 50.0 1 1 100.0 0 0 - 1 1 2 0 1 0 1 0 3
+p142
+aVAl Jefferson BOS 03/19/2007 BOS @ NOK L 30 9 4 7 57.1 0 0 - 1 3 33.3 1 9 10 0 1 3 3 3 -22
+p143
+aVRajon Rondo BOS 03/19/2007 BOS @ NOK L 38 6 3 11 27.3 0 0 - 0 0 - 1 3 4 7 4 0 2 3 0
+p144
+aVLeon Powe BOS 03/19/2007 BOS @ NOK L 23 8 4 7 57.1 0 1 0.0 0 0 - 3 3 6 0 1 0 1 3 0
+p145
+aVMichael Olowokandi BOS 03/19/2007 BOS @ NOK L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -6
+p146
+aVAllan Ray BOS 03/17/2007 BOS @ SAS W 21 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 4 -11
+p147
+aVDelonte West BOS 03/17/2007 BOS @ SAS W 46 23 8 18 44.4 2 5 40.0 5 6 83.3 0 2 2 4 1 0 1 1 4
+p148
+aVPaul Pierce BOS 03/17/2007 BOS @ SAS W 39 30 10 21 47.6 2 8 25.0 8 12 66.7 0 5 5 0 2 1 2 3 15
+p149
+aVAl Jefferson BOS 03/17/2007 BOS @ SAS W 43 20 9 18 50.0 0 0 - 2 3 66.7 6 6 12 1 1 1 5 4 16
+p150
+aVRajon Rondo BOS 03/17/2007 BOS @ SAS W 34 2 1 6 16.7 0 1 0.0 0 0 - 1 13 14 6 1 0 1 2 11
+p151
+aVLeon Powe BOS 03/17/2007 BOS @ SAS W 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -7
+p152
+aVMichael Olowokandi BOS 03/17/2007 BOS @ SAS W 23 8 4 7 57.1 0 0 - 0 0 - 2 3 5 0 0 2 2 4 4
+p153
+aVKendrick Perkins BOS 03/17/2007 BOS @ SAS W 17 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 0 2 4 3 2
+p154
+aVGerald Green BOS 03/17/2007 BOS @ SAS W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p155
+aVDelonte West BOS 03/16/2007 BOS @ DAL L 41 10 3 12 25.0 0 2 0.0 4 4 100.0 1 1 2 7 1 0 2 4 -11
+p156
+aVGerald Green BOS 03/16/2007 BOS @ DAL L 31 25 9 20 45.0 2 5 40.0 5 5 100.0 4 1 5 2 3 0 1 4 -6
+p157
+aVKendrick Perkins BOS 03/16/2007 BOS @ DAL L 28 2 0 1 0.0 0 0 - 2 2 100.0 2 8 10 1 0 0 1 3 -5
+p158
+aVAllan Ray BOS 03/16/2007 BOS @ DAL L 22 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 2 0 0 1 2 1
+p159
+aVLeon Powe BOS 03/16/2007 BOS @ DAL L 20 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -1
+p160
+aVRajon Rondo BOS 03/16/2007 BOS @ DAL L 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 1 0 4 1 -12
+p161
+aVMichael Olowokandi BOS 03/16/2007 BOS @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p162
+aVPaul Pierce BOS 03/16/2007 BOS @ DAL L 32 29 11 20 55.0 5 7 71.4 2 2 100.0 2 3 5 8 1 0 1 3 1
+p163
+aVSebastian Telfair BOS 03/16/2007 BOS @ DAL L 12 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 1 1 0 1 1 11
+p164
+aVAl Jefferson BOS 03/16/2007 BOS @ DAL L 38 20 8 11 72.7 0 0 - 4 7 57.1 3 7 10 4 1 2 2 2 -6
+p165
+aVKendrick Perkins BOS 03/14/2007 BOS vs. ATL W 27 12 4 5 80.0 0 0 - 4 5 80.0 3 9 12 0 1 1 1 2 16
+p166
+aVDelonte West BOS 03/14/2007 BOS vs. ATL W 32 10 5 10 50.0 0 2 0.0 0 0 - 0 3 3 6 1 1 3 5 24
+p167
+aVBrian Scalabrine BOS 03/14/2007 BOS vs. ATL W 23 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 3 1 1 2 1 6
+p168
+aVLeon Powe BOS 03/14/2007 BOS vs. ATL W 19 8 1 6 16.7 0 0 - 6 7 85.7 0 4 4 0 0 0 0 4 -4
+p169
+aVRajon Rondo BOS 03/14/2007 BOS vs. ATL W 34 13 5 8 62.5 1 1 100.0 2 3 66.7 2 2 4 10 3 0 3 4 26
+p170
+aVAl Jefferson BOS 03/14/2007 BOS vs. ATL W 26 23 10 15 66.7 0 0 - 3 6 50.0 2 7 9 1 2 2 0 3 18
+p171
+aVSebastian Telfair BOS 03/14/2007 BOS vs. ATL W 12 7 3 5 60.0 0 1 0.0 1 1 100.0 0 0 0 1 1 0 1 0 -5
+p172
+aVAllan Ray BOS 03/14/2007 BOS vs. ATL W 17 10 4 8 50.0 2 2 100.0 0 0 - 1 1 2 1 1 0 2 6 -3
+p173
+aVPaul Pierce BOS 03/14/2007 BOS vs. ATL W 27 17 5 13 38.5 2 6 33.3 5 6 83.3 2 2 4 5 0 0 3 2 21
+p174
+aVGerald Green BOS 03/14/2007 BOS vs. ATL W 23 7 3 9 33.3 1 2 50.0 0 0 - 0 2 2 0 1 0 2 5 6
+p175
+aVKendrick Perkins BOS 03/13/2007 BOS @ CHI L 22 8 4 4 100.0 0 0 - 0 0 - 1 9 10 1 1 2 1 5 -3
+p176
+aVAl Jefferson BOS 03/13/2007 BOS @ CHI L 40 19 9 16 56.3 0 0 - 1 4 25.0 2 6 8 1 1 3 1 4 -2
+p177
+aVPaul Pierce BOS 03/13/2007 BOS @ CHI L 45 24 8 17 47.1 1 6 16.7 7 9 77.8 0 5 5 5 2 0 4 4 0
+p178
+aVGerald Green BOS 03/13/2007 BOS @ CHI L 16 6 2 7 28.6 0 3 0.0 2 2 100.0 1 2 3 1 0 0 0 1 -7
+p179
+aVRajon Rondo BOS 03/13/2007 BOS @ CHI L 37 3 1 5 20.0 0 0 - 1 4 25.0 1 3 4 7 2 0 3 4 5
+p180
+aVSebastian Telfair BOS 03/13/2007 BOS @ CHI L 9 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 0 0 0 1 3 -8
+p181
+aVAllan Ray BOS 03/13/2007 BOS @ CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p182
+aVDelonte West BOS 03/13/2007 BOS @ CHI L 43 19 8 14 57.1 3 5 60.0 0 2 0.0 0 0 0 2 1 1 3 2 -8
+p183
+aVBrian Scalabrine BOS 03/13/2007 BOS @ CHI L 22 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 3 1 0 0 4 -9
+p184
+aVLeon Powe BOS 03/13/2007 BOS @ CHI L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -8
+p185
+aVSebastian Telfair BOS 03/11/2007 BOS vs. CHI L 24 7 2 5 40.0 0 1 0.0 3 3 100.0 0 2 2 2 0 0 1 4 -16
+p186
+aVLeon Powe BOS 03/11/2007 BOS vs. CHI L 18 11 4 5 80.0 0 0 - 3 4 75.0 4 3 7 0 0 1 0 2 -4
+p187
+aVKendrick Perkins BOS 03/11/2007 BOS vs. CHI L 21 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 3 3 2 -7
+p188
+aVBrian Scalabrine BOS 03/11/2007 BOS vs. CHI L 20 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 0 2 0 2 2 -6
+p189
+aVGerald Green BOS 03/11/2007 BOS vs. CHI L 33 15 5 14 35.7 1 5 20.0 4 4 100.0 1 2 3 1 0 0 4 0 -11
+p190
+aVRajon Rondo BOS 03/11/2007 BOS vs. CHI L 47 12 5 15 33.3 0 0 - 2 7 28.6 2 5 7 8 3 0 2 4 -14
+p191
+aVAllan Ray BOS 03/11/2007 BOS vs. CHI L 13 7 3 5 60.0 1 1 100.0 0 0 - 2 2 4 1 1 0 3 1 8
+p192
+aVPaul Pierce BOS 03/11/2007 BOS vs. CHI L 35 8 2 14 14.3 0 2 0.0 4 5 80.0 1 4 5 5 1 0 1 0 -20
+p193
+aVAl Jefferson BOS 03/11/2007 BOS vs. CHI L 30 10 5 10 50.0 0 0 - 0 0 - 0 6 6 0 1 1 1 4 -10
+p194
+aVGerald Green BOS 03/09/2007 BOS vs. SEA W 33 19 7 13 53.8 3 7 42.9 2 2 100.0 1 2 3 1 0 0 3 4 11
+p195
+aVLeon Powe BOS 03/09/2007 BOS vs. SEA W 13 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 5
+p196
+aVKendrick Perkins BOS 03/09/2007 BOS vs. SEA W 24 6 3 3 100.0 0 0 - 0 0 - 1 2 3 3 0 2 3 2 7
+p197
+aVRajon Rondo BOS 03/09/2007 BOS vs. SEA W 27 20 6 9 66.7 1 2 50.0 7 9 77.8 1 1 2 3 2 0 1 2 10
+p198
+aVSebastian Telfair BOS 03/09/2007 BOS vs. SEA W 23 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 4 0 0 2 5 10
+p199
+aVPaul Pierce BOS 03/09/2007 BOS vs. SEA W 36 21 8 18 44.4 1 6 16.7 4 6 66.7 0 7 7 7 2 0 1 1 8
+p200
+aVBrian Scalabrine BOS 03/09/2007 BOS vs. SEA W 28 6 2 5 40.0 2 4 50.0 0 0 - 1 1 2 2 0 1 1 1 8
+p201
+aVAl Jefferson BOS 03/09/2007 BOS vs. SEA W 36 31 13 17 76.5 0 0 - 5 8 62.5 6 10 16 4 1 2 3 3 19
+p202
+aVAllan Ray BOS 03/09/2007 BOS vs. SEA W 20 4 2 5 40.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 2 -3
+p203
+aVMichael Olowokandi BOS 03/07/2007 BOS vs. HOU L 11 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 1 0 4 2 -4
+p204
+aVBrian Scalabrine BOS 03/07/2007 BOS vs. HOU L 21 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 3 -20
+p205
+aVRyan Gomes BOS 03/07/2007 BOS vs. HOU L 13 9 4 6 66.7 0 0 - 1 4 25.0 1 2 3 0 0 0 0 0 -3
+p206
+aVKendrick Perkins BOS 03/07/2007 BOS vs. HOU L 16 5 1 1 100.0 0 0 - 3 3 100.0 1 2 3 0 0 2 2 4 -17
+p207
+aVRajon Rondo BOS 03/07/2007 BOS vs. HOU L 26 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 1 0 2 1 -25
+p208
+aVSebastian Telfair BOS 03/07/2007 BOS vs. HOU L 12 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 1 2 0 1 0 -6
+p209
+aVGerald Green BOS 03/07/2007 BOS vs. HOU L 26 2 1 14 7.1 0 2 0.0 0 0 - 3 1 4 2 1 0 1 4 -18
+p210
+aVAl Jefferson BOS 03/07/2007 BOS vs. HOU L 34 20 8 19 42.1 0 0 - 4 7 57.1 4 9 13 3 1 0 4 1 -15
+p211
+aVLeon Powe BOS 03/07/2007 BOS vs. HOU L 17 9 2 3 66.7 0 0 - 5 8 62.5 4 1 5 0 0 0 2 0 -20
+p212
+aVDelonte West BOS 03/07/2007 BOS vs. HOU L 30 7 2 6 33.3 0 0 - 3 3 100.0 0 0 0 5 2 1 1 1 -14
+p213
+aVPaul Pierce BOS 03/07/2007 BOS vs. HOU L 33 20 6 14 42.9 1 3 33.3 7 7 100.0 1 1 2 2 1 0 3 0 -13
+p214
+aVKendrick Perkins BOS 03/04/2007 BOS vs. MIN W 22 5 2 5 40.0 0 0 - 1 2 50.0 2 0 2 1 0 1 1 3 -6
+p215
+aVPaul Pierce BOS 03/04/2007 BOS vs. MIN W 51 27 7 21 33.3 3 8 37.5 10 12 83.3 2 7 9 5 1 0 6 3 2
+p216
+aVAl Jefferson BOS 03/04/2007 BOS vs. MIN W 51 20 9 15 60.0 0 0 - 2 5 40.0 5 9 14 2 1 1 1 3 6
+p217
+aVRyan Gomes BOS 03/04/2007 BOS vs. MIN W 52 21 7 11 63.6 0 1 0.0 7 8 87.5 5 12 17 5 3 0 1 3 13
+p218
+aVGerald Green BOS 03/04/2007 BOS vs. MIN W 32 16 5 12 41.7 1 1 100.0 5 5 100.0 1 2 3 1 0 0 2 2 7
+p219
+aVRajon Rondo BOS 03/04/2007 BOS vs. MIN W 13 4 2 4 50.0 0 0 - 0 0 - 2 1 3 2 1 0 0 1 6
+p220
+aVDelonte West BOS 03/04/2007 BOS vs. MIN W 45 31 8 13 61.5 3 5 60.0 12 14 85.7 3 2 5 10 0 0 3 2 1
+p221
+aVBrian Scalabrine BOS 03/04/2007 BOS vs. MIN W 17 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 2 4 1
+p222
+aVLeon Powe BOS 03/04/2007 BOS vs. MIN W 7 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 5
+p223
+aVRyan Gomes BOS 03/03/2007 BOS @ NJN W 28 11 3 10 30.0 0 0 - 5 6 83.3 3 4 7 0 2 0 0 3 11
+p224
+aVDelonte West BOS 03/03/2007 BOS @ NJN W 39 15 6 10 60.0 1 1 100.0 2 2 100.0 0 3 3 6 2 0 1 3 16
+p225
+aVPaul Pierce BOS 03/03/2007 BOS @ NJN W 44 17 8 28 28.6 1 7 14.3 0 1 0.0 1 4 5 5 2 0 3 5 13
+p226
+aVSebastian Telfair BOS 03/03/2007 BOS @ NJN W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -9
+p227
+aVLeon Powe BOS 03/03/2007 BOS @ NJN W 5 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 2 0 0 1 -2
+p228
+aVAl Jefferson BOS 03/03/2007 BOS @ NJN W 45 32 13 23 56.5 0 0 - 6 8 75.0 6 12 18 2 1 2 0 2 14
+p229
+aVGerald Green BOS 03/03/2007 BOS @ NJN W 21 5 1 9 11.1 0 4 0.0 3 3 100.0 0 1 1 0 0 0 1 5 7
+p230
+aVRajon Rondo BOS 03/03/2007 BOS @ NJN W 18 6 0 4 0.0 0 0 - 6 8 75.0 2 2 4 0 1 0 2 3 -4
+p231
+aVBrian Scalabrine BOS 03/03/2007 BOS @ NJN W 35 5 2 10 20.0 0 4 0.0 1 1 100.0 1 4 5 0 1 1 1 3 -3
+p232
+aVKendrick Perkins BOS 03/03/2007 BOS @ NJN W 23 5 2 5 40.0 0 0 - 1 3 33.3 3 4 7 0 0 1 1 3 -3
+p233
+aVKendrick Perkins BOS 02/28/2007 BOS vs. NYK W 26 0 0 1 0.0 0 0 - 0 2 0.0 2 6 8 4 1 0 1 4 -2
+p234
+aVRyan Gomes BOS 02/28/2007 BOS vs. NYK W 24 7 3 5 60.0 0 0 - 1 1 100.0 0 2 2 1 0 0 1 1 2
+p235
+aVPaul Pierce BOS 02/28/2007 BOS vs. NYK W 42 24 7 15 46.7 2 4 50.0 8 10 80.0 0 5 5 4 2 0 2 1 2
+p236
+aVDelonte West BOS 02/28/2007 BOS vs. NYK W 24 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 2 0 0 2 4 -5
+p237
+aVRajon Rondo BOS 02/28/2007 BOS vs. NYK W 25 4 2 7 28.6 0 0 - 0 0 - 3 6 9 8 2 0 3 2 9
+p238
+aVGerald Green BOS 02/28/2007 BOS vs. NYK W 20 21 6 9 66.7 4 6 66.7 5 6 83.3 0 3 3 2 0 0 2 2 12
+p239
+aVBrian Scalabrine BOS 02/28/2007 BOS vs. NYK W 37 14 5 10 50.0 4 9 44.4 0 0 - 0 0 0 2 1 3 0 3 18
+p240
+aVAl Jefferson BOS 02/28/2007 BOS vs. NYK W 42 26 9 14 64.3 0 0 - 8 11 72.7 2 7 9 5 0 2 3 5 4
+p241
+aVDelonte West BOS 02/26/2007 BOS @ HOU W 43 16 4 13 30.8 0 1 0.0 8 8 100.0 1 5 6 4 1 1 4 0 12
+p242
+aVAl Jefferson BOS 02/26/2007 BOS @ HOU W 40 16 6 15 40.0 0 0 - 4 7 57.1 4 13 17 1 2 1 1 3 10
+p243
+aVLeon Powe BOS 02/26/2007 BOS @ HOU W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -5
+p244
+aVRyan Gomes BOS 02/26/2007 BOS @ HOU W 27 5 2 6 33.3 0 1 0.0 1 1 100.0 0 5 5 1 0 0 1 5 9
+p245
+aVMichael Olowokandi BOS 02/26/2007 BOS @ HOU W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p246
+aVRajon Rondo BOS 02/26/2007 BOS @ HOU W 12 4 2 4 50.0 0 1 0.0 0 2 0.0 2 2 4 0 1 0 0 3 -2
+p247
+aVBrian Scalabrine BOS 02/26/2007 BOS @ HOU W 24 4 1 7 14.3 1 6 16.7 1 2 50.0 0 4 4 2 0 0 2 3 -12
+p248
+aVSebastian Telfair BOS 02/26/2007 BOS @ HOU W 8 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 3 0 1 0 1 17
+p249
+aVKendrick Perkins BOS 02/26/2007 BOS @ HOU W 23 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 3 1 3 -6
+p250
+aVGerald Green BOS 02/26/2007 BOS @ HOU W 17 0 0 6 0.0 0 1 0.0 0 0 - 1 2 3 1 1 0 3 1 -5
+p251
+aVPaul Pierce BOS 02/26/2007 BOS @ HOU W 37 28 10 23 43.5 2 5 40.0 6 12 50.0 3 4 7 1 0 0 5 5 10
+p252
+aVSebastian Telfair BOS 02/24/2007 BOS @ UTA L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p253
+aVLeon Powe BOS 02/24/2007 BOS @ UTA L 25 10 3 3 100.0 0 0 - 4 4 100.0 1 8 9 1 0 0 1 2 -1
+p254
+aVRyan Gomes BOS 02/24/2007 BOS @ UTA L 30 9 4 9 44.4 0 0 - 1 2 50.0 1 0 1 1 0 0 2 2 -14
+p255
+aVKendrick Perkins BOS 02/24/2007 BOS @ UTA L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 2 4 -10
+p256
+aVGerald Green BOS 02/24/2007 BOS @ UTA L 15 10 3 6 50.0 2 4 50.0 2 2 100.0 0 2 2 2 1 2 3 3 -9
+p257
+aVRajon Rondo BOS 02/24/2007 BOS @ UTA L 21 2 1 6 16.7 0 0 - 0 0 - 1 3 4 3 1 0 1 2 -17
+p258
+aVPaul Pierce BOS 02/24/2007 BOS @ UTA L 36 19 5 18 27.8 1 5 20.0 8 9 88.9 1 2 3 2 1 0 1 4 -11
+p259
+aVDelonte West BOS 02/24/2007 BOS @ UTA L 42 16 7 13 53.8 0 2 0.0 2 3 66.7 1 0 1 6 2 0 4 4 -17
+p260
+aVAl Jefferson BOS 02/24/2007 BOS @ UTA L 30 12 5 9 55.6 0 0 - 2 2 100.0 6 7 13 2 1 5 8 3 -7
+p261
+aVBrian Scalabrine BOS 02/24/2007 BOS @ UTA L 22 9 3 6 50.0 3 5 60.0 0 0 - 0 1 1 1 0 1 1 3 -4
+p262
+aVAl Jefferson BOS 02/23/2007 BOS @ LAL L 29 18 7 9 77.8 0 0 - 4 4 100.0 3 5 8 2 1 2 0 2 -20
+p263
+aVRajon Rondo BOS 02/23/2007 BOS @ LAL L 15 0 0 6 0.0 0 1 0.0 0 0 - 1 2 3 1 2 0 2 2 -9
+p264
+aVBrian Scalabrine BOS 02/23/2007 BOS @ LAL L 25 10 4 7 57.1 2 2 100.0 0 0 - 0 5 5 1 0 0 2 4 -11
+p265
+aVLeon Powe BOS 02/23/2007 BOS @ LAL L 15 7 0 3 0.0 0 0 - 7 10 70.0 2 2 4 0 0 1 1 1 -4
+p266
+aVDelonte West BOS 02/23/2007 BOS @ LAL L 34 12 5 13 38.5 0 2 0.0 2 2 100.0 2 2 4 5 4 0 3 0 -24
+p267
+aVPaul Pierce BOS 02/23/2007 BOS @ LAL L 26 15 4 12 33.3 2 4 50.0 5 7 71.4 1 3 4 6 0 0 5 4 -18
+p268
+aVGerald Green BOS 02/23/2007 BOS @ LAL L 30 21 7 13 53.8 0 2 0.0 7 8 87.5 1 4 5 1 0 0 1 4 -9
+p269
+aVRyan Gomes BOS 02/23/2007 BOS @ LAL L 28 10 4 6 66.7 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -27
+p270
+aVKendrick Perkins BOS 02/23/2007 BOS @ LAL L 19 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 1 1 1 -6
+p271
+aVSebastian Telfair BOS 02/23/2007 BOS @ LAL L 18 3 1 7 14.3 1 1 100.0 0 0 - 0 1 1 3 0 0 3 1 -2
+p272
+aVBrian Scalabrine BOS 02/21/2007 BOS @ PHX L 25 8 3 5 60.0 2 3 66.7 0 0 - 1 1 2 0 1 0 0 2 -4
+p273
+aVPaul Pierce BOS 02/21/2007 BOS @ PHX L 41 24 7 20 35.0 2 5 40.0 8 9 88.9 2 3 5 4 0 0 2 2 -12
+p274
+aVKendrick Perkins BOS 02/21/2007 BOS @ PHX L 6 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 2 3 -5
+p275
+aVAl Jefferson BOS 02/21/2007 BOS @ PHX L 35 23 8 16 50.0 0 0 - 7 7 100.0 5 12 17 0 1 2 2 4 4
+p276
+aVGerald Green BOS 02/21/2007 BOS @ PHX L 17 8 3 6 50.0 2 4 50.0 0 0 - 0 4 4 0 1 0 0 0 -14
+p277
+aVRajon Rondo BOS 02/21/2007 BOS @ PHX L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -9
+p278
+aVDelonte West BOS 02/21/2007 BOS @ PHX L 42 17 7 14 50.0 3 5 60.0 0 0 - 0 5 5 8 1 1 0 3 -15
+p279
+aVSebastian Telfair BOS 02/21/2007 BOS @ PHX L 23 7 3 8 37.5 0 0 - 1 2 50.0 0 1 1 2 1 0 0 2 1
+p280
+aVRyan Gomes BOS 02/21/2007 BOS @ PHX L 41 21 7 15 46.7 0 0 - 7 8 87.5 4 3 7 1 0 0 3 5 4
+p281
+aVBrian Scalabrine BOS 02/20/2007 BOS @ SAC L 22 3 1 1 100.0 1 1 100.0 0 0 - 1 2 3 1 0 0 0 4 -14
+p282
+aVDelonte West BOS 02/20/2007 BOS @ SAC L 45 23 9 16 56.3 5 8 62.5 0 0 - 0 6 6 7 1 0 3 2 1
+p283
+aVRajon Rondo BOS 02/20/2007 BOS @ SAC L 27 6 2 6 33.3 0 1 0.0 2 8 25.0 1 1 2 1 3 0 3 2 16
+p284
+aVPaul Pierce BOS 02/20/2007 BOS @ SAC L 34 26 8 15 53.3 2 4 50.0 8 11 72.7 1 5 6 5 0 1 5 5 -1
+p285
+aVGerald Green BOS 02/20/2007 BOS @ SAC L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 5 -12
+p286
+aVAl Jefferson BOS 02/20/2007 BOS @ SAC L 32 15 7 16 43.8 0 0 - 1 2 50.0 5 10 15 1 0 0 4 3 -1
+p287
+aVWally Szczerbiak BOS 02/20/2007 BOS @ SAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -1
+p288
+aVLeon Powe BOS 02/20/2007 BOS @ SAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p289
+aVSebastian Telfair BOS 02/20/2007 BOS @ SAC L 18 9 3 7 42.9 2 3 66.7 1 2 50.0 0 0 0 3 0 0 0 3 9
+p290
+aVRyan Gomes BOS 02/20/2007 BOS @ SAC L 31 10 3 7 42.9 0 0 - 4 6 66.7 2 5 7 3 2 0 2 6 -13
+p291
+aVKendrick Perkins BOS 02/20/2007 BOS @ SAC L 15 5 2 3 66.7 0 0 - 1 2 50.0 0 5 5 1 0 1 1 3 1
+p292
+aVWally Szczerbiak BOS 02/14/2007 BOS vs. MIL W 26 14 6 12 50.0 2 3 66.7 0 0 - 1 1 2 1 1 0 0 1 23
+p293
+aVRajon Rondo BOS 02/14/2007 BOS vs. MIL W 28 9 3 7 42.9 0 3 0.0 3 3 100.0 0 2 2 11 2 0 2 1 19
+p294
+aVGerald Green BOS 02/14/2007 BOS vs. MIL W 20 21 8 9 88.9 5 5 100.0 0 0 - 0 0 0 1 0 0 0 1 14
+p295
+aVRyan Gomes BOS 02/14/2007 BOS vs. MIL W 32 11 4 9 44.4 1 1 100.0 2 2 100.0 1 3 4 0 1 0 0 4 -5
+p296
+aVLeon Powe BOS 02/14/2007 BOS vs. MIL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p297
+aVAl Jefferson BOS 02/14/2007 BOS vs. MIL W 27 17 7 12 58.3 0 0 - 3 4 75.0 1 9 10 0 0 1 1 3 10
+p298
+aVDelonte West BOS 02/14/2007 BOS vs. MIL W 28 6 3 8 37.5 0 0 - 0 0 - 1 4 5 6 3 2 1 1 6
+p299
+aVSebastian Telfair BOS 02/14/2007 BOS vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p300
+aVKendrick Perkins BOS 02/14/2007 BOS vs. MIL W 20 1 0 1 0.0 0 0 - 1 2 50.0 3 2 5 3 0 1 1 3 12
+p301
+aVBrian Scalabrine BOS 02/14/2007 BOS vs. MIL W 20 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 2 0 3 1 1
+p302
+aVPaul Pierce BOS 02/14/2007 BOS vs. MIL W 36 32 12 19 63.2 5 8 62.5 3 4 75.0 0 0 0 4 2 0 1 3 24
+p303
+aVKendrick Perkins BOS 02/11/2007 BOS @ MIN L 26 11 3 5 60.0 0 0 - 5 6 83.3 3 2 5 0 0 0 2 3 -7
+p304
+aVPaul Pierce BOS 02/11/2007 BOS @ MIN L 32 29 9 16 56.3 3 5 60.0 8 9 88.9 0 2 2 2 2 1 3 4 1
+p305
+aVRyan Gomes BOS 02/11/2007 BOS @ MIN L 43 17 6 12 50.0 0 0 - 5 8 62.5 0 5 5 2 3 0 1 1 4
+p306
+aVGerald Green BOS 02/11/2007 BOS @ MIN L 18 14 4 5 80.0 2 3 66.7 4 4 100.0 0 3 3 1 1 0 2 1 2
+p307
+aVAl Jefferson BOS 02/11/2007 BOS @ MIN L 24 9 3 5 60.0 0 0 - 3 4 75.0 2 5 7 0 1 2 0 5 3
+p308
+aVSebastian Telfair BOS 02/11/2007 BOS @ MIN L 4 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 0 0 0 1 1 2
+p309
+aVDelonte West BOS 02/11/2007 BOS @ MIN L 36 16 6 11 54.5 1 3 33.3 3 3 100.0 0 7 7 8 2 0 5 1 -9
+p310
+aVRajon Rondo BOS 02/11/2007 BOS @ MIN L 21 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 6 1 0 2 2 0
+p311
+aVBrian Scalabrine BOS 02/11/2007 BOS @ MIN L 37 0 0 1 0.0 0 1 0.0 0 0 - 1 4 5 4 0 0 0 5 -6
+p312
+aVRajon Rondo BOS 02/09/2007 BOS vs. NJN L 35 6 1 7 14.3 0 2 0.0 4 6 66.7 1 5 6 5 4 0 1 3 -15
+p313
+aVPaul Pierce BOS 02/09/2007 BOS vs. NJN L 20 9 4 16 25.0 1 2 50.0 0 0 - 3 1 4 1 1 0 2 2 -11
+p314
+aVDelonte West BOS 02/09/2007 BOS vs. NJN L 42 21 8 16 50.0 2 5 40.0 3 6 50.0 0 2 2 1 3 1 6 1 -1
+p315
+aVRyan Gomes BOS 02/09/2007 BOS vs. NJN L 35 9 2 8 25.0 0 0 - 5 5 100.0 1 2 3 2 0 0 0 2 -12
+p316
+aVBrian Scalabrine BOS 02/09/2007 BOS vs. NJN L 25 8 2 8 25.0 2 7 28.6 2 2 100.0 1 2 3 2 0 0 1 3 -12
+p317
+aVAllan Ray BOS 02/09/2007 BOS vs. NJN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p318
+aVGerald Green BOS 02/09/2007 BOS vs. NJN L 17 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 0 0 1 2 2 -1
+p319
+aVAl Jefferson BOS 02/09/2007 BOS vs. NJN L 38 13 5 13 38.5 0 0 - 3 3 100.0 2 15 17 2 1 2 2 4 -12
+p320
+aVKendrick Perkins BOS 02/09/2007 BOS vs. NJN L 17 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 1 0 1 3 -4
+p321
+aVSebastian Telfair BOS 02/09/2007 BOS vs. NJN L 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p322
+aVRyan Gomes BOS 02/07/2007 BOS vs. MIA L 35 15 6 19 31.6 1 2 50.0 2 2 100.0 4 2 6 0 0 1 1 0 5
+p323
+aVBrian Scalabrine BOS 02/07/2007 BOS vs. MIA L 13 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 0 0 0 1 3 -20
+p324
+aVSebastian Telfair BOS 02/07/2007 BOS vs. MIA L 16 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -15
+p325
+aVAllan Ray BOS 02/07/2007 BOS vs. MIA L 9 3 1 5 20.0 0 3 0.0 1 1 100.0 1 3 4 1 0 0 0 1 -6
+p326
+aVKendrick Perkins BOS 02/07/2007 BOS vs. MIA L 18 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 0 2 0 3 -3
+p327
+aVLeon Powe BOS 02/07/2007 BOS vs. MIA L 4 3 0 1 0.0 0 0 - 3 4 75.0 1 2 3 0 0 0 0 0 6
+p328
+aVGerald Green BOS 02/07/2007 BOS vs. MIA L 16 3 1 6 16.7 1 4 25.0 0 0 - 0 0 0 0 0 0 1 5 -6
+p329
+aVAl Jefferson BOS 02/07/2007 BOS vs. MIA L 36 13 6 17 35.3 0 0 - 1 2 50.0 7 9 16 3 1 1 1 1 -4
+p330
+aVMichael Olowokandi BOS 02/07/2007 BOS vs. MIA L 11 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -4
+p331
+aVDelonte West BOS 02/07/2007 BOS vs. MIA L 31 10 4 17 23.5 0 2 0.0 2 2 100.0 2 0 2 8 1 0 2 4 -16
+p332
+aVRajon Rondo BOS 02/07/2007 BOS vs. MIA L 37 8 4 10 40.0 0 0 - 0 0 - 2 6 8 7 2 0 4 3 7
+p333
+aVWally Szczerbiak BOS 02/07/2007 BOS vs. MIA L 14 14 5 11 45.5 3 4 75.0 1 1 100.0 0 1 1 1 0 0 0 1 -4
+p334
+aVAllan Ray BOS 02/06/2007 BOS @ DET L 2 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 5
+p335
+aVSebastian Telfair BOS 02/06/2007 BOS @ DET L 23 13 5 11 45.5 0 2 0.0 3 3 100.0 0 0 0 7 1 0 1 2 4
+p336
+aVGerald Green BOS 02/06/2007 BOS @ DET L 21 12 5 8 62.5 2 3 66.7 0 0 - 1 2 3 2 2 0 0 0 2
+p337
+aVKendrick Perkins BOS 02/06/2007 BOS @ DET L 21 8 4 5 80.0 0 0 - 0 0 - 2 1 3 1 0 3 1 2 -10
+p338
+aVWally Szczerbiak BOS 02/06/2007 BOS @ DET L 22 10 2 3 66.7 2 2 100.0 4 4 100.0 0 2 2 1 0 0 0 2 -11
+p339
+aVLeon Powe BOS 02/06/2007 BOS @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p340
+aVDelonte West BOS 02/06/2007 BOS @ DET L 32 10 5 11 45.5 0 2 0.0 0 2 0.0 0 1 1 2 0 0 1 0 -12
+p341
+aVRajon Rondo BOS 02/06/2007 BOS @ DET L 34 8 3 6 50.0 0 0 - 2 3 66.7 0 2 2 11 1 0 2 1 6
+p342
+aVBrian Scalabrine BOS 02/06/2007 BOS @ DET L 27 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 3 1 0 3 0 -15
+p343
+aVAl Jefferson BOS 02/06/2007 BOS @ DET L 31 10 4 9 44.4 0 0 - 2 2 100.0 3 6 9 0 1 2 2 5 6
+p344
+aVRyan Gomes BOS 02/06/2007 BOS @ DET L 27 19 9 16 56.3 0 0 - 1 2 50.0 1 3 4 2 1 0 0 4 -15
+p345
+aVSebastian Telfair BOS 02/02/2007 BOS vs. LAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -3
+p346
+aVRajon Rondo BOS 02/02/2007 BOS vs. LAC L 43 23 10 16 62.5 2 2 100.0 1 4 25.0 2 4 6 6 4 0 1 3 -8
+p347
+aVKendrick Perkins BOS 02/02/2007 BOS vs. LAC L 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -10
+p348
+aVGerald Green BOS 02/02/2007 BOS vs. LAC L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 3 -8
+p349
+aVAl Jefferson BOS 02/02/2007 BOS vs. LAC L 37 21 7 13 53.8 0 0 - 7 8 87.5 2 4 6 1 1 2 1 1 -5
+p350
+aVLeon Powe BOS 02/02/2007 BOS vs. LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p351
+aVBrian Scalabrine BOS 02/02/2007 BOS vs. LAC L 28 8 3 3 100.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 2 6 0
+p352
+aVDelonte West BOS 02/02/2007 BOS vs. LAC L 38 6 2 8 25.0 1 2 50.0 1 1 100.0 1 10 11 11 0 0 4 3 -3
+p353
+aVRyan Gomes BOS 02/02/2007 BOS vs. LAC L 40 16 7 14 50.0 0 0 - 2 4 50.0 3 4 7 1 0 0 1 1 -6
+p354
+aVAllan Ray BOS 02/02/2007 BOS vs. LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p355
+aVWally Szczerbiak BOS 02/02/2007 BOS vs. LAC L 22 13 5 10 50.0 3 4 75.0 0 1 0.0 0 2 2 1 0 0 3 4 -13
+p356
+aVAllan Ray BOS 01/31/2007 BOS vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p357
+aVKendrick Perkins BOS 01/31/2007 BOS vs. LAL L 23 9 4 8 50.0 0 0 - 1 2 50.0 2 1 3 1 0 3 2 1 -13
+p358
+aVRyan Gomes BOS 01/31/2007 BOS vs. LAL L 36 23 10 14 71.4 0 0 - 3 3 100.0 3 4 7 1 0 0 0 2 -27
+p359
+aVBrian Scalabrine BOS 01/31/2007 BOS vs. LAL L 26 17 5 7 71.4 3 4 75.0 4 4 100.0 0 1 1 2 0 0 0 4 -1
+p360
+aVGerald Green BOS 01/31/2007 BOS vs. LAL L 36 22 8 17 47.1 2 5 40.0 4 5 80.0 0 3 3 5 1 0 0 4 -6
+p361
+aVWally Szczerbiak BOS 01/31/2007 BOS vs. LAL L 20 5 1 5 20.0 1 2 50.0 2 2 100.0 0 3 3 2 1 0 2 1 4
+p362
+aVRajon Rondo BOS 01/31/2007 BOS vs. LAL L 19 2 1 5 20.0 0 0 - 0 0 - 1 2 3 4 1 0 1 2 5
+p363
+aVAl Jefferson BOS 01/31/2007 BOS vs. LAL L 37 10 3 11 27.3 0 0 - 4 8 50.0 4 10 14 1 1 1 1 4 -6
+p364
+aVDelonte West BOS 01/31/2007 BOS vs. LAL L 36 10 4 13 30.8 0 2 0.0 2 2 100.0 0 4 4 9 1 1 2 2 -21
+p365
+aVLeon Powe BOS 01/30/2007 BOS @ IND L 3 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -1
+p366
+aVRajon Rondo BOS 01/30/2007 BOS @ IND L 25 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 5 2 0 4 6 9
+p367
+aVBrian Scalabrine BOS 01/30/2007 BOS @ IND L 20 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 1 1 0 1 4 3
+p368
+aVAl Jefferson BOS 01/30/2007 BOS @ IND L 38 15 6 11 54.5 0 0 - 3 7 42.9 5 12 17 0 2 0 3 3 -11
+p369
+aVRyan Gomes BOS 01/30/2007 BOS @ IND L 31 13 6 10 60.0 0 0 - 1 1 100.0 2 2 4 1 2 0 0 2 -16
+p370
+aVDelonte West BOS 01/30/2007 BOS @ IND L 12 4 1 3 33.3 0 0 - 2 4 50.0 0 0 0 2 2 0 3 1 -6
+p371
+aVMichael Olowokandi BOS 01/30/2007 BOS @ IND L 14 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 0 0 2 4 -5
+p372
+aVAllan Ray BOS 01/30/2007 BOS @ IND L 15 8 2 4 50.0 1 3 33.3 3 4 75.0 0 3 3 0 0 0 1 6 8
+p373
+aVGerald Green BOS 01/30/2007 BOS @ IND L 25 14 6 10 60.0 1 1 100.0 1 3 33.3 1 1 2 2 0 0 2 3 6
+p374
+aVWally Szczerbiak BOS 01/30/2007 BOS @ IND L 25 8 3 13 23.1 0 1 0.0 2 2 100.0 0 0 0 2 1 0 1 1 -9
+p375
+aVKendrick Perkins BOS 01/30/2007 BOS @ IND L 12 4 1 2 50.0 0 0 - 2 3 66.7 1 2 3 1 0 1 1 4 -9
+p376
+aVSebastian Telfair BOS 01/30/2007 BOS @ IND L 14 11 4 11 36.4 1 2 50.0 2 3 66.7 0 0 0 1 1 0 2 5 -4
+p377
+aVBrian Scalabrine BOS 01/28/2007 BOS vs. WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -1
+p378
+aVKendrick Perkins BOS 01/28/2007 BOS vs. WAS L 28 7 2 7 28.6 0 0 - 3 5 60.0 3 4 7 4 0 1 0 4 -6
+p379
+aVRyan Gomes BOS 01/28/2007 BOS vs. WAS L 38 20 10 14 71.4 0 0 - 0 0 - 2 6 8 1 2 0 6 4 -21
+p380
+aVRajon Rondo BOS 01/28/2007 BOS vs. WAS L 21 9 2 6 33.3 0 0 - 5 6 83.3 1 2 3 4 3 0 4 4 -2
+p381
+aVMichael Olowokandi BOS 01/28/2007 BOS vs. WAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -1
+p382
+aVWally Szczerbiak BOS 01/28/2007 BOS vs. WAS L 20 9 3 12 25.0 1 5 20.0 2 2 100.0 1 2 3 1 0 0 0 1 -18
+p383
+aVAl Jefferson BOS 01/28/2007 BOS vs. WAS L 34 7 3 12 25.0 0 0 - 1 2 50.0 2 6 8 0 1 0 5 3 -15
+p384
+aVLeon Powe BOS 01/28/2007 BOS vs. WAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p385
+aVDelonte West BOS 01/28/2007 BOS vs. WAS L 42 22 7 14 50.0 1 2 50.0 7 8 87.5 1 3 4 11 3 0 1 3 -11
+p386
+aVAllan Ray BOS 01/28/2007 BOS vs. WAS L 7 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 1 0 0 0 0 2
+p387
+aVSebastian Telfair BOS 01/28/2007 BOS vs. WAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 7
+p388
+aVGerald Green BOS 01/28/2007 BOS vs. WAS L 32 14 4 12 33.3 1 4 25.0 5 5 100.0 1 2 3 0 0 1 1 1 -6
+p389
+aVBrian Scalabrine BOS 01/26/2007 BOS @ TOR L 20 0 0 1 0.0 0 0 - 0 0 - 1 3 4 2 0 1 1 4 -4
+p390
+aVDelonte West BOS 01/26/2007 BOS @ TOR L 42 15 6 14 42.9 1 3 33.3 2 4 50.0 1 5 6 4 2 1 2 4 -10
+p391
+aVAllan Ray BOS 01/26/2007 BOS @ TOR L 24 17 6 12 50.0 3 4 75.0 2 2 100.0 0 4 4 1 0 0 3 4 9
+p392
+aVLeon Powe BOS 01/26/2007 BOS @ TOR L 3 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 7
+p393
+aVRyan Gomes BOS 01/26/2007 BOS @ TOR L 39 12 4 7 57.1 0 0 - 4 5 80.0 0 4 4 2 0 0 4 3 -14
+p394
+aVRajon Rondo BOS 01/26/2007 BOS @ TOR L 12 8 4 7 57.1 0 0 - 0 1 0.0 0 3 3 4 1 0 1 1 8
+p395
+aVAl Jefferson BOS 01/26/2007 BOS @ TOR L 35 20 10 16 62.5 0 0 - 0 0 - 4 6 10 5 0 1 0 3 -14
+p396
+aVSebastian Telfair BOS 01/26/2007 BOS @ TOR L 5 3 1 2 50.0 1 1 100.0 0 0 - 2 0 2 2 0 0 1 1 0
+p397
+aVKendrick Perkins BOS 01/26/2007 BOS @ TOR L 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 3 4 -1
+p398
+aVMichael Olowokandi BOS 01/26/2007 BOS @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -4
+p399
+aVGerald Green BOS 01/26/2007 BOS @ TOR L 31 12 5 16 31.3 2 10 20.0 0 0 - 0 3 3 1 0 0 2 2 -7
+p400
+aVAllan Ray BOS 01/24/2007 BOS vs. ATL L 16 1 0 9 0.0 0 4 0.0 1 2 50.0 0 0 0 0 0 0 0 0 2
+p401
+aVGerald Green BOS 01/24/2007 BOS vs. ATL L 32 13 4 16 25.0 3 9 33.3 2 2 100.0 3 5 8 3 1 0 3 5 3
+p402
+aVAl Jefferson BOS 01/24/2007 BOS vs. ATL L 34 11 4 9 44.4 0 0 - 3 6 50.0 2 8 10 0 0 4 1 3 4
+p403
+aVRajon Rondo BOS 01/24/2007 BOS vs. ATL L 20 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 0 2 2 4 4 -14
+p404
+aVSebastian Telfair BOS 01/24/2007 BOS vs. ATL L 11 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p405
+aVRyan Gomes BOS 01/24/2007 BOS vs. ATL L 40 4 1 11 9.1 0 0 - 2 2 100.0 2 5 7 2 0 1 0 1 -8
+p406
+aVLeon Powe BOS 01/24/2007 BOS vs. ATL L 10 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 0 1 0 2 -9
+p407
+aVDelonte West BOS 01/24/2007 BOS vs. ATL L 39 18 5 14 35.7 0 2 0.0 8 9 88.9 0 4 4 6 1 0 3 4 1
+p408
+aVKendrick Perkins BOS 01/24/2007 BOS vs. ATL L 34 15 6 9 66.7 0 0 - 3 3 100.0 2 10 12 2 0 2 2 4 -4
+p409
+aVRyan Gomes BOS 01/22/2007 BOS vs. SAS L 45 20 8 20 40.0 0 0 - 4 4 100.0 2 5 7 0 1 0 2 1 -2
+p410
+aVSebastian Telfair BOS 01/22/2007 BOS vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -12
+p411
+aVKendrick Perkins BOS 01/22/2007 BOS vs. SAS L 23 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 1 0 2 3 -11
+p412
+aVRajon Rondo BOS 01/22/2007 BOS vs. SAS L 31 4 1 8 12.5 0 0 - 2 2 100.0 2 2 4 7 3 0 3 3 0
+p413
+aVAl Jefferson BOS 01/22/2007 BOS vs. SAS L 44 26 11 20 55.0 0 0 - 4 5 80.0 7 7 14 2 1 2 1 5 3
+p414
+aVGerald Green BOS 01/22/2007 BOS vs. SAS L 20 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -4
+p415
+aVLeon Powe BOS 01/22/2007 BOS vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p416
+aVAllan Ray BOS 01/22/2007 BOS vs. SAS L 21 6 2 7 28.6 2 2 100.0 0 0 - 0 3 3 2 0 0 1 1 10
+p417
+aVDelonte West BOS 01/22/2007 BOS vs. SAS L 45 27 11 17 64.7 1 4 25.0 4 4 100.0 0 3 3 2 2 1 3 3 3
+p418
+aVAllan Ray BOS 01/20/2007 BOS @ WAS L 32 20 7 13 53.8 4 6 66.7 2 2 100.0 0 1 1 1 1 0 2 2 14
+p419
+aVRajon Rondo BOS 01/20/2007 BOS @ WAS L 33 10 4 7 57.1 0 0 - 2 2 100.0 2 8 10 7 1 0 3 4 9
+p420
+aVDelonte West BOS 01/20/2007 BOS @ WAS L 48 13 5 11 45.5 1 4 25.0 2 2 100.0 0 4 4 11 3 1 5 3 -5
+p421
+aVGerald Green BOS 01/20/2007 BOS @ WAS L 17 9 4 10 40.0 1 2 50.0 0 0 - 2 0 2 1 0 1 2 3 -14
+p422
+aVLeon Powe BOS 01/20/2007 BOS @ WAS L 7 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 1 0 0 0 0 -2
+p423
+aVAl Jefferson BOS 01/20/2007 BOS @ WAS L 47 23 9 24 37.5 0 1 0.0 5 5 100.0 3 7 10 0 1 2 4 4 -3
+p424
+aVMichael Olowokandi BOS 01/20/2007 BOS @ WAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -7
+p425
+aVRyan Gomes BOS 01/20/2007 BOS @ WAS L 46 31 12 18 66.7 0 0 - 7 9 77.8 4 5 9 2 0 1 0 2 2
+p426
+aVKendrick Perkins BOS 01/20/2007 BOS @ WAS L 18 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 2 0 1 1 2 -12
+p427
+aVSebastian Telfair BOS 01/20/2007 BOS @ WAS L 6 1 0 1 0.0 0 1 0.0 1 1 100.0 0 1 1 2 0 0 0 2 -7
+p428
+aVRajon Rondo BOS 01/19/2007 BOS vs. SAC L 20 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 3 0 0 3 3 0
+p429
+aVLeon Powe BOS 01/19/2007 BOS vs. SAC L 8 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 0 1 0 1 3 -1
+p430
+aVMichael Olowokandi BOS 01/19/2007 BOS vs. SAC L 12 0 0 1 0.0 0 0 - 0 0 - 3 4 7 1 1 1 0 3 5
+p431
+aVDelonte West BOS 01/19/2007 BOS vs. SAC L 39 25 10 16 62.5 3 3 100.0 2 2 100.0 1 3 4 6 1 0 2 2 0
+p432
+aVAl Jefferson BOS 01/19/2007 BOS vs. SAC L 39 23 10 16 62.5 0 0 - 3 4 75.0 3 8 11 2 0 1 1 4 -5
+p433
+aVAllan Ray BOS 01/19/2007 BOS vs. SAC L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 1
+p434
+aVRyan Gomes BOS 01/19/2007 BOS vs. SAC L 48 17 7 16 43.8 0 0 - 3 3 100.0 1 9 10 3 0 0 2 3 -5
+p435
+aVKendrick Perkins BOS 01/19/2007 BOS vs. SAC L 23 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 1 2 2 2 -2
+p436
+aVSebastian Telfair BOS 01/19/2007 BOS vs. SAC L 11 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 2 0 0 1 0 -7
+p437
+aVGerald Green BOS 01/19/2007 BOS vs. SAC L 33 7 3 11 27.3 1 5 20.0 0 0 - 1 0 1 2 1 2 2 2 -11
+p438
+aVKendrick Perkins BOS 01/15/2007 BOS @ ATL L 12 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 2 2 -6
+p439
+aVRyan Gomes BOS 01/15/2007 BOS @ ATL L 45 12 5 12 41.7 0 0 - 2 2 100.0 2 2 4 2 0 0 4 2 -3
+p440
+aVAllan Ray BOS 01/15/2007 BOS @ ATL L 29 22 6 9 66.7 3 5 60.0 7 8 87.5 1 1 2 0 1 0 3 2 -1
+p441
+aVRajon Rondo BOS 01/15/2007 BOS @ ATL L 35 9 3 11 27.3 0 1 0.0 3 4 75.0 0 7 7 8 3 1 0 3 -2
+p442
+aVMichael Olowokandi BOS 01/15/2007 BOS @ ATL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -4
+p443
+aVSebastian Telfair BOS 01/15/2007 BOS @ ATL L 33 13 4 10 40.0 3 5 60.0 2 2 100.0 0 1 1 4 1 0 2 2 -5
+p444
+aVGerald Green BOS 01/15/2007 BOS @ ATL L 31 22 8 18 44.4 3 6 50.0 3 4 75.0 1 3 4 0 2 0 4 5 2
+p445
+aVLeon Powe BOS 01/15/2007 BOS @ ATL L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p446
+aVAl Jefferson BOS 01/15/2007 BOS @ ATL L 40 18 8 14 57.1 0 0 - 2 3 66.7 8 9 17 0 0 4 5 5 0
+p447
+aVLeon Powe BOS 01/13/2007 BOS @ DET L 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -10
+p448
+aVAl Jefferson BOS 01/13/2007 BOS @ DET L 40 12 5 16 31.3 0 0 - 2 3 66.7 4 18 22 1 0 2 3 2 -5
+p449
+aVRajon Rondo BOS 01/13/2007 BOS @ DET L 18 4 2 6 33.3 0 0 - 0 0 - 2 3 5 3 1 0 2 1 0
+p450
+aVKendrick Perkins BOS 01/13/2007 BOS @ DET L 23 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 1 1 2 3 4
+p451
+aVAllan Ray BOS 01/13/2007 BOS @ DET L 8 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 1 0 -1
+p452
+aVRyan Gomes BOS 01/13/2007 BOS @ DET L 47 17 6 16 37.5 0 2 0.0 5 5 100.0 3 5 8 2 3 0 1 0 -8
+p453
+aVSebastian Telfair BOS 01/13/2007 BOS @ DET L 31 9 4 14 28.6 1 4 25.0 0 0 - 0 1 1 5 0 2 2 3 -6
+p454
+aVMichael Olowokandi BOS 01/13/2007 BOS @ DET L 18 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 3 -9
+p455
+aVGerald Green BOS 01/13/2007 BOS @ DET L 41 24 10 20 50.0 2 4 50.0 2 2 100.0 0 1 1 0 0 1 2 4 -5
+p456
+aVRajon Rondo BOS 01/12/2007 BOS vs. TOR L 30 23 7 13 53.8 0 1 0.0 9 12 75.0 0 3 3 5 4 0 1 2 3
+p457
+aVGerald Green BOS 01/12/2007 BOS vs. TOR L 32 13 4 14 28.6 3 6 50.0 2 2 100.0 2 4 6 2 2 1 6 4 -5
+p458
+aVKendrick Perkins BOS 01/12/2007 BOS vs. TOR L 18 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 1 0 2 2 -12
+p459
+aVSebastian Telfair BOS 01/12/2007 BOS vs. TOR L 35 14 5 14 35.7 3 7 42.9 1 1 100.0 1 0 1 4 0 0 4 3 -13
+p460
+aVLeon Powe BOS 01/12/2007 BOS vs. TOR L 17 3 1 4 25.0 0 0 - 1 4 25.0 6 6 12 0 3 0 3 2 -4
+p461
+aVMichael Olowokandi BOS 01/12/2007 BOS vs. TOR L 19 3 1 2 50.0 0 0 - 1 1 100.0 1 4 5 2 0 1 1 2 -1
+p462
+aVRyan Gomes BOS 01/12/2007 BOS vs. TOR L 34 8 4 8 50.0 0 0 - 0 0 - 1 5 6 2 0 0 3 3 -12
+p463
+aVAl Jefferson BOS 01/12/2007 BOS vs. TOR L 29 9 4 8 50.0 0 0 - 1 2 50.0 1 5 6 0 0 0 1 5 -3
+p464
+aVAllan Ray BOS 01/12/2007 BOS vs. TOR L 26 11 4 13 30.8 0 4 0.0 3 5 60.0 0 2 2 1 0 0 0 3 2
+p465
+aVSebastian Telfair BOS 01/10/2007 BOS vs. IND L 37 15 5 10 50.0 0 2 0.0 5 5 100.0 0 5 5 7 1 0 3 1 -5
+p466
+aVBrian Scalabrine BOS 01/10/2007 BOS vs. IND L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p467
+aVKendrick Perkins BOS 01/10/2007 BOS vs. IND L 31 8 4 6 66.7 0 0 - 0 1 0.0 1 3 4 0 0 2 2 3 -7
+p468
+aVLeon Powe BOS 01/10/2007 BOS vs. IND L 12 7 2 2 100.0 0 0 - 3 4 75.0 2 5 7 0 0 1 3 3 6
+p469
+aVRajon Rondo BOS 01/10/2007 BOS vs. IND L 13 7 1 2 50.0 0 0 - 5 8 62.5 0 3 3 2 1 0 3 1 -6
+p470
+aVGerald Green BOS 01/10/2007 BOS vs. IND L 44 14 5 15 33.3 0 3 0.0 4 4 100.0 2 3 5 2 0 0 3 3 -13
+p471
+aVAllan Ray BOS 01/10/2007 BOS vs. IND L 10 3 1 7 14.3 1 3 33.3 0 0 - 0 0 0 1 2 0 0 2 -7
+p472
+aVAl Jefferson BOS 01/10/2007 BOS vs. IND L 32 4 2 11 18.2 0 0 - 0 0 - 3 10 13 2 0 0 2 2 -18
+p473
+aVRyan Gomes BOS 01/10/2007 BOS vs. IND L 21 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 2 -9
+p474
+aVTony Allen BOS 01/10/2007 BOS vs. IND L 33 19 7 12 58.3 0 3 0.0 5 7 71.4 1 1 2 3 5 0 3 2 -5
+p475
+aVSebastian Telfair BOS 01/07/2007 BOS @ ORL L 17 6 1 3 33.3 0 2 0.0 4 5 80.0 1 1 2 1 1 0 0 3 1
+p476
+aVWally Szczerbiak BOS 01/07/2007 BOS @ ORL L 36 15 4 15 26.7 1 3 33.3 6 7 85.7 0 0 0 0 1 0 3 2 -10
+p477
+aVDelonte West BOS 01/07/2007 BOS @ ORL L 36 13 3 9 33.3 2 4 50.0 5 7 71.4 0 2 2 3 0 0 2 4 -8
+p478
+aVGerald Green BOS 01/07/2007 BOS @ ORL L 20 4 2 8 25.0 0 4 0.0 0 0 - 1 0 1 0 1 0 1 2 1
+p479
+aVBrian Scalabrine BOS 01/07/2007 BOS @ ORL L 17 4 0 6 0.0 0 3 0.0 4 4 100.0 0 3 3 0 0 0 1 2 -7
+p480
+aVMichael Olowokandi BOS 01/07/2007 BOS @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p481
+aVKendrick Perkins BOS 01/07/2007 BOS @ ORL L 26 4 1 8 12.5 0 0 - 2 2 100.0 2 3 5 1 0 3 2 5 7
+p482
+aVTony Allen BOS 01/07/2007 BOS @ ORL L 44 21 7 14 50.0 1 2 50.0 6 6 100.0 1 8 9 3 7 1 6 2 -5
+p483
+aVAl Jefferson BOS 01/07/2007 BOS @ ORL L 32 12 5 8 62.5 0 0 - 2 3 66.7 1 6 7 1 0 2 2 4 -13
+p484
+aVRajon Rondo BOS 01/07/2007 BOS @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p485
+aVRyan Gomes BOS 01/07/2007 BOS @ ORL L 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -6
+p486
+aVDelonte West BOS 01/05/2007 BOS @ MEM W 36 16 5 7 71.4 1 1 100.0 5 7 71.4 0 3 3 11 0 0 3 2 2
+p487
+aVKendrick Perkins BOS 01/05/2007 BOS @ MEM W 19 10 4 6 66.7 0 0 - 2 6 33.3 3 3 6 0 3 2 3 5 13
+p488
+aVGerald Green BOS 01/05/2007 BOS @ MEM W 15 5 2 6 33.3 0 2 0.0 1 2 50.0 0 1 1 1 1 0 1 1 12
+p489
+aVWally Szczerbiak BOS 01/05/2007 BOS @ MEM W 32 26 9 14 64.3 4 7 57.1 4 4 100.0 1 2 3 1 0 0 1 1 -8
+p490
+aVAl Jefferson BOS 01/05/2007 BOS @ MEM W 29 12 4 9 44.4 0 0 - 4 5 80.0 2 7 9 2 1 2 0 4 -4
+p491
+aVTony Allen BOS 01/05/2007 BOS @ MEM W 36 20 7 13 53.8 0 0 - 6 9 66.7 2 0 2 6 3 0 4 4 0
+p492
+aVSebastian Telfair BOS 01/05/2007 BOS @ MEM W 19 7 3 5 60.0 0 1 0.0 1 1 100.0 0 1 1 2 0 0 1 3 15
+p493
+aVRajon Rondo BOS 01/05/2007 BOS @ MEM W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 7
+p494
+aVBrian Scalabrine BOS 01/05/2007 BOS @ MEM W 23 16 5 8 62.5 4 4 100.0 2 2 100.0 1 1 2 0 1 0 1 4 9
+p495
+aVRyan Gomes BOS 01/05/2007 BOS @ MEM W 25 16 7 12 58.3 0 0 - 2 3 66.7 1 4 5 1 0 0 1 1 -1
+p496
+aVBrian Scalabrine BOS 01/03/2007 BOS vs. CLE L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 1
+p497
+aVDelonte West BOS 01/03/2007 BOS vs. CLE L 32 10 4 9 44.4 1 3 33.3 1 1 100.0 0 1 1 8 2 0 1 1 4
+p498
+aVWally Szczerbiak BOS 01/03/2007 BOS vs. CLE L 29 13 4 13 30.8 1 5 20.0 4 4 100.0 0 5 5 0 0 1 3 1 2
+p499
+aVSebastian Telfair BOS 01/03/2007 BOS vs. CLE L 23 10 4 8 50.0 0 2 0.0 2 3 66.7 0 4 4 5 1 0 0 1 -3
+p500
+aVMichael Olowokandi BOS 01/03/2007 BOS vs. CLE L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -4
+p501
+aVKendrick Perkins BOS 01/03/2007 BOS vs. CLE L 13 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 1 0 0 0 2 -9
+p502
+aVAl Jefferson BOS 01/03/2007 BOS vs. CLE L 33 18 8 12 66.7 0 0 - 2 3 66.7 2 10 12 0 1 0 4 3 6
+p503
+aVTony Allen BOS 01/03/2007 BOS vs. CLE L 41 22 8 13 61.5 1 3 33.3 5 6 83.3 2 3 5 4 2 0 3 5 -4
+p504
+aVRajon Rondo BOS 01/03/2007 BOS vs. CLE L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 7
+p505
+aVRyan Gomes BOS 01/03/2007 BOS vs. CLE L 23 6 3 7 42.9 0 0 - 0 0 - 2 2 4 1 0 1 0 3 -9
+p506
+aVGerald Green BOS 01/03/2007 BOS vs. CLE L 20 21 8 13 61.5 2 5 40.0 3 4 75.0 2 0 2 0 0 0 2 4 -6
+p507
+aVRajon Rondo BOS 01/01/2007 BOS @ POR W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 5
+p508
+aVAl Jefferson BOS 01/01/2007 BOS @ POR W 35 14 5 13 38.5 0 0 - 4 4 100.0 5 6 11 1 0 1 2 4 3
+p509
+aVWally Szczerbiak BOS 01/01/2007 BOS @ POR W 37 15 4 14 28.6 0 1 0.0 7 10 70.0 0 3 3 2 1 0 0 3 9
+p510
+aVKendrick Perkins BOS 01/01/2007 BOS @ POR W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p511
+aVTony Allen BOS 01/01/2007 BOS @ POR W 32 22 9 13 69.2 2 2 100.0 2 2 100.0 1 7 8 1 3 0 4 5 6
+p512
+aVRyan Gomes BOS 01/01/2007 BOS @ POR W 37 18 7 9 77.8 0 0 - 4 4 100.0 2 8 10 1 1 0 3 2 4
+p513
+aVBrian Scalabrine BOS 01/01/2007 BOS @ POR W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 2
+p514
+aVSebastian Telfair BOS 01/01/2007 BOS @ POR W 17 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 0 0 3 1 4
+p515
+aVDelonte West BOS 01/01/2007 BOS @ POR W 31 8 2 8 25.0 0 0 - 4 4 100.0 0 3 3 4 0 0 1 2 6
+p516
+aVGerald Green BOS 01/01/2007 BOS @ POR W 16 6 3 7 42.9 0 1 0.0 0 1 0.0 2 2 4 0 0 0 2 0 2
+p517
+aVMichael Olowokandi BOS 01/01/2007 BOS @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p518
+aVTony Allen BOS 12/31/2006 BOS @ SEA L 42 23 8 15 53.3 1 4 25.0 6 7 85.7 0 6 6 2 1 1 5 0 -8
+p519
+aVRajon Rondo BOS 12/31/2006 BOS @ SEA L 28 12 6 9 66.7 0 0 - 0 0 - 3 4 7 3 4 1 4 3 13
+p520
+aVDelonte West BOS 12/31/2006 BOS @ SEA L 19 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -23
+p521
+aVBrian Scalabrine BOS 12/31/2006 BOS @ SEA L 19 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 3 2 1 1 2 1
+p522
+aVGerald Green BOS 12/31/2006 BOS @ SEA L 22 18 6 13 46.2 3 9 33.3 3 4 75.0 2 0 2 0 2 1 1 1 14
+p523
+aVWally Szczerbiak BOS 12/31/2006 BOS @ SEA L 22 13 5 12 41.7 0 2 0.0 3 3 100.0 0 2 2 0 1 0 2 1 -14
+p524
+aVRyan Gomes BOS 12/31/2006 BOS @ SEA L 15 2 1 6 16.7 0 0 - 0 0 - 2 0 2 3 0 0 0 0 -17
+p525
+aVAl Jefferson BOS 12/31/2006 BOS @ SEA L 36 21 8 15 53.3 0 0 - 5 7 71.4 5 5 10 0 0 1 2 6 -9
+p526
+aVKendrick Perkins BOS 12/31/2006 BOS @ SEA L 15 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 1 0 0 3 2
+p527
+aVSebastian Telfair BOS 12/31/2006 BOS @ SEA L 22 2 1 7 14.3 0 0 - 0 0 - 0 4 4 1 2 1 1 3 11
+p528
+aVBrian Scalabrine BOS 12/29/2006 BOS @ GSW L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p529
+aVAllan Ray BOS 12/29/2006 BOS @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p530
+aVGerald Green BOS 12/29/2006 BOS @ GSW L 16 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 3 0 0 1 2 -13
+p531
+aVAl Jefferson BOS 12/29/2006 BOS @ GSW L 34 18 6 9 66.7 0 0 - 6 7 85.7 3 4 7 2 0 2 6 1 -5
+p532
+aVRajon Rondo BOS 12/29/2006 BOS @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p533
+aVLeon Powe BOS 12/29/2006 BOS @ GSW L 3 5 2 4 50.0 0 0 - 1 1 100.0 2 2 4 0 0 0 0 0 1
+p534
+aVTony Allen BOS 12/29/2006 BOS @ GSW L 33 20 8 17 47.1 0 2 0.0 4 5 80.0 4 3 7 1 2 1 4 5 -11
+p535
+aVRyan Gomes BOS 12/29/2006 BOS @ GSW L 30 17 5 12 41.7 0 0 - 7 9 77.8 4 4 8 1 0 0 1 2 -5
+p536
+aVWally Szczerbiak BOS 12/29/2006 BOS @ GSW L 34 8 3 17 17.6 0 4 0.0 2 2 100.0 1 6 7 3 1 0 3 4 -4
+p537
+aVKendrick Perkins BOS 12/29/2006 BOS @ GSW L 11 1 0 0 - 0 0 - 1 4 25.0 1 1 2 2 0 1 0 0 -6
+p538
+aVDelonte West BOS 12/29/2006 BOS @ GSW L 31 18 7 11 63.6 2 4 50.0 2 2 100.0 1 5 6 5 2 1 1 4 -8
+p539
+aVSebastian Telfair BOS 12/29/2006 BOS @ GSW L 29 5 2 7 28.6 1 2 50.0 0 0 - 2 0 2 3 0 0 1 4 2
+p540
+aVLeon Powe BOS 12/27/2006 BOS @ LAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p541
+aVAl Jefferson BOS 12/27/2006 BOS @ LAC L 32 10 4 16 25.0 0 0 - 2 5 40.0 8 6 14 0 1 2 2 4 -29
+p542
+aVRajon Rondo BOS 12/27/2006 BOS @ LAC L 20 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -10
+p543
+aVRyan Gomes BOS 12/27/2006 BOS @ LAC L 27 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 1 1 0 0 3 -15
+p544
+aVKendrick Perkins BOS 12/27/2006 BOS @ LAC L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 2
+p545
+aVBrian Scalabrine BOS 12/27/2006 BOS @ LAC L 11 0 0 1 0.0 0 1 0.0 0 2 0.0 0 1 1 0 0 0 1 1 -6
+p546
+aVSebastian Telfair BOS 12/27/2006 BOS @ LAC L 36 18 6 17 35.3 1 3 33.3 5 5 100.0 1 1 2 3 0 0 2 3 -11
+p547
+aVGerald Green BOS 12/27/2006 BOS @ LAC L 33 17 6 13 46.2 5 8 62.5 0 0 - 1 6 7 1 1 0 2 5 -19
+p548
+aVMichael Olowokandi BOS 12/27/2006 BOS @ LAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 3
+p549
+aVWally Szczerbiak BOS 12/27/2006 BOS @ LAC L 28 9 2 8 25.0 1 2 50.0 4 4 100.0 0 6 6 2 1 0 1 2 -8
+p550
+aVTony Allen BOS 12/27/2006 BOS @ LAC L 26 13 1 1 100.0 0 0 - 11 13 84.6 2 5 7 5 2 0 3 4 -11
+p551
+aVAllan Ray BOS 12/27/2006 BOS @ LAC L 8 0 0 2 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 2 2 -11
+p552
+aVLeon Powe BOS 12/26/2006 BOS @ DEN L 12 5 2 4 50.0 0 0 - 1 2 50.0 3 0 3 0 1 1 0 1 5
+p553
+aVRajon Rondo BOS 12/26/2006 BOS @ DEN L 16 6 3 7 42.9 0 0 - 0 2 0.0 0 1 1 6 2 0 4 5 -2
+p554
+aVDelonte West BOS 12/26/2006 BOS @ DEN L 19 11 3 7 42.9 0 1 0.0 5 6 83.3 0 1 1 0 0 0 3 1 -15
+p555
+aVAl Jefferson BOS 12/26/2006 BOS @ DEN L 32 16 8 15 53.3 0 0 - 0 0 - 8 7 15 2 0 2 1 5 -16
+p556
+aVSebastian Telfair BOS 12/26/2006 BOS @ DEN L 25 7 2 4 50.0 0 0 - 3 3 100.0 1 1 2 3 0 0 2 5 3
+p557
+aVRyan Gomes BOS 12/26/2006 BOS @ DEN L 25 3 0 6 0.0 0 0 - 3 4 75.0 1 6 7 3 1 0 0 2 -8
+p558
+aVGerald Green BOS 12/26/2006 BOS @ DEN L 36 18 7 17 41.2 2 5 40.0 2 3 66.7 3 5 8 2 2 4 0 5 -15
+p559
+aVBrian Scalabrine BOS 12/26/2006 BOS @ DEN L 25 9 4 6 66.7 1 3 33.3 0 0 - 1 3 4 1 1 2 2 3 -1
+p560
+aVTony Allen BOS 12/26/2006 BOS @ DEN L 31 18 8 17 47.1 0 1 0.0 2 4 50.0 1 5 6 4 2 3 2 4 -13
+p561
+aVAllan Ray BOS 12/26/2006 BOS @ DEN L 19 12 5 10 50.0 1 3 33.3 1 3 33.3 0 1 1 0 1 0 2 1 7
+p562
+aVGerald Green BOS 12/22/2006 BOS vs. PHI L 40 20 7 17 41.2 3 6 50.0 3 3 100.0 3 6 9 1 2 0 1 2 -9
+p563
+aVLeon Powe BOS 12/22/2006 BOS vs. PHI L 4 1 0 0 - 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 -12
+p564
+aVAllan Ray BOS 12/22/2006 BOS vs. PHI L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -14
+p565
+aVRyan Gomes BOS 12/22/2006 BOS vs. PHI L 37 8 2 6 33.3 0 0 - 4 4 100.0 0 3 3 2 0 0 2 0 -1
+p566
+aVRajon Rondo BOS 12/22/2006 BOS vs. PHI L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 3 1 -18
+p567
+aVSebastian Telfair BOS 12/22/2006 BOS vs. PHI L 31 8 2 8 25.0 0 2 0.0 4 5 80.0 0 1 1 5 0 0 3 2 -5
+p568
+aVBrian Scalabrine BOS 12/22/2006 BOS vs. PHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 6
+p569
+aVTony Allen BOS 12/22/2006 BOS vs. PHI L 40 12 5 11 45.5 0 1 0.0 2 2 100.0 0 3 3 1 0 1 4 4 -11
+p570
+aVAl Jefferson BOS 12/22/2006 BOS vs. PHI L 40 20 8 17 47.1 0 0 - 4 5 80.0 5 9 14 3 0 1 2 2 -4
+p571
+aVDelonte West BOS 12/22/2006 BOS vs. PHI L 28 14 5 9 55.6 2 2 100.0 2 2 100.0 1 1 2 3 0 0 0 3 -7
+p572
+aVDelonte West BOS 12/20/2006 BOS vs. GSW L 33 10 4 12 33.3 1 4 25.0 1 2 50.0 0 4 4 2 2 1 1 4 9
+p573
+aVAllan Ray BOS 12/20/2006 BOS vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p574
+aVTony Allen BOS 12/20/2006 BOS vs. GSW L 39 17 7 14 50.0 0 2 0.0 3 3 100.0 3 4 7 2 3 2 5 3 2
+p575
+aVRajon Rondo BOS 12/20/2006 BOS vs. GSW L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 0
+p576
+aVPaul Pierce BOS 12/20/2006 BOS vs. GSW L 44 27 9 19 47.4 4 9 44.4 5 5 100.0 2 6 8 5 2 0 4 0 -4
+p577
+aVLeon Powe BOS 12/20/2006 BOS vs. GSW L 14 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 3 8
+p578
+aVGerald Green BOS 12/20/2006 BOS vs. GSW L 18 5 1 4 25.0 0 2 0.0 3 4 75.0 1 0 1 2 0 0 1 3 3
+p579
+aVSebastian Telfair BOS 12/20/2006 BOS vs. GSW L 22 5 2 5 40.0 1 4 25.0 0 0 - 0 4 4 5 0 1 1 2 -12
+p580
+aVRyan Gomes BOS 12/20/2006 BOS vs. GSW L 34 14 5 8 62.5 0 0 - 4 4 100.0 2 0 2 0 0 0 4 3 -1
+p581
+aVAl Jefferson BOS 12/20/2006 BOS vs. GSW L 29 13 5 7 71.4 0 0 - 3 7 42.9 2 9 11 0 0 3 4 4 -10
+p582
+aVPaul Pierce BOS 12/16/2006 BOS @ CHA W 39 35 11 20 55.0 4 6 66.7 9 9 100.0 1 10 11 4 0 1 2 3 21
+p583
+aVBrian Scalabrine BOS 12/16/2006 BOS @ CHA W 41 7 3 6 50.0 1 3 33.3 0 0 - 1 4 5 5 0 1 1 2 15
+p584
+aVTony Allen BOS 12/16/2006 BOS @ CHA W 37 11 2 10 20.0 0 1 0.0 7 8 87.5 2 5 7 2 2 0 3 3 6
+p585
+aVGerald Green BOS 12/16/2006 BOS @ CHA W 11 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 1 0 1 2 -8
+p586
+aVLeon Powe BOS 12/16/2006 BOS @ CHA W 10 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 0 1 2 1 3 -14
+p587
+aVAl Jefferson BOS 12/16/2006 BOS @ CHA W 38 22 10 21 47.6 0 0 - 2 3 66.7 4 6 10 1 1 1 0 3 15
+p588
+aVSebastian Telfair BOS 12/16/2006 BOS @ CHA W 24 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 3 2 0 2 1 13
+p589
+aVDelonte West BOS 12/16/2006 BOS @ CHA W 25 14 5 9 55.6 0 1 0.0 4 4 100.0 1 3 4 3 0 1 2 2 -6
+p590
+aVWally Szczerbiak BOS 12/16/2006 BOS @ CHA W 15 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -12
+p591
+aVBrian Scalabrine BOS 12/15/2006 BOS vs. DEN W 14 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 4 0 0 0 1 12
+p592
+aVLeon Powe BOS 12/15/2006 BOS vs. DEN W 6 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 1 3 -3
+p593
+aVWally Szczerbiak BOS 12/15/2006 BOS vs. DEN W 34 16 6 14 42.9 2 6 33.3 2 3 66.7 1 3 4 6 0 0 2 2 -7
+p594
+aVSebastian Telfair BOS 12/15/2006 BOS vs. DEN W 32 6 1 5 20.0 0 1 0.0 4 6 66.7 0 3 3 5 2 0 0 1 11
+p595
+aVTony Allen BOS 12/15/2006 BOS vs. DEN W 48 30 11 13 84.6 2 2 100.0 6 6 100.0 1 7 8 3 3 1 2 3 5
+p596
+aVAl Jefferson BOS 12/15/2006 BOS vs. DEN W 42 28 13 19 68.4 0 0 - 2 2 100.0 4 6 10 1 0 0 3 4 11
+p597
+aVGerald Green BOS 12/15/2006 BOS vs. DEN W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p598
+aVDelonte West BOS 12/15/2006 BOS vs. DEN W 16 0 0 3 0.0 0 0 - 0 0 - 0 0 0 4 0 0 2 2 -9
+p599
+aVPaul Pierce BOS 12/15/2006 BOS vs. DEN W 40 38 11 17 64.7 6 12 50.0 10 11 90.9 0 8 8 9 0 0 6 3 10
+p600
+aVAl Jefferson BOS 12/13/2006 BOS @ PHI W 29 6 3 7 42.9 0 0 - 0 3 0.0 2 11 13 4 0 3 1 2 5
+p601
+aVRajon Rondo BOS 12/13/2006 BOS @ PHI W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 2 0 0 0 5
+p602
+aVRyan Gomes BOS 12/13/2006 BOS @ PHI W 32 18 7 10 70.0 0 0 - 4 6 66.7 2 5 7 1 1 0 0 1 14
+p603
+aVTony Allen BOS 12/13/2006 BOS @ PHI W 25 16 6 12 50.0 0 1 0.0 4 8 50.0 1 4 5 4 1 0 1 0 4
+p604
+aVLeon Powe BOS 12/13/2006 BOS @ PHI W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 8
+p605
+aVBrian Scalabrine BOS 12/13/2006 BOS @ PHI W 15 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 5
+p606
+aVWally Szczerbiak BOS 12/13/2006 BOS @ PHI W 22 14 5 10 50.0 1 3 33.3 3 3 100.0 0 3 3 3 0 0 2 3 16
+p607
+aVSebastian Telfair BOS 12/13/2006 BOS @ PHI W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 3 1 0 0 4 10
+p608
+aVPaul Pierce BOS 12/13/2006 BOS @ PHI W 34 18 6 12 50.0 3 6 50.0 3 5 60.0 0 3 3 5 0 1 3 3 10
+p609
+aVGerald Green BOS 12/13/2006 BOS @ PHI W 17 8 2 3 66.7 0 1 0.0 4 6 66.7 0 1 1 1 1 0 1 4 12
+p610
+aVDelonte West BOS 12/13/2006 BOS @ PHI W 31 13 5 9 55.6 2 4 50.0 1 1 100.0 0 3 3 3 1 1 2 3 7
+p611
+aVAllan Ray BOS 12/13/2006 BOS @ PHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 4
+p612
+aVDelonte West BOS 12/11/2006 BOS @ NYK W 28 6 1 6 16.7 0 4 0.0 4 4 100.0 0 4 4 6 2 0 3 1 2
+p613
+aVPaul Pierce BOS 12/11/2006 BOS @ NYK W 42 31 11 22 50.0 3 8 37.5 6 7 85.7 1 6 7 3 0 0 3 3 6
+p614
+aVRyan Gomes BOS 12/11/2006 BOS @ NYK W 23 8 3 7 42.9 0 0 - 2 2 100.0 0 4 4 3 1 0 2 2 1
+p615
+aVBrian Scalabrine BOS 12/11/2006 BOS @ NYK W 23 9 3 5 60.0 3 4 75.0 0 0 - 0 2 2 0 1 0 2 6 2
+p616
+aVRajon Rondo BOS 12/11/2006 BOS @ NYK W 17 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 2 0 2 0 15
+p617
+aVTony Allen BOS 12/11/2006 BOS @ NYK W 23 8 4 6 66.7 0 1 0.0 0 0 - 1 4 5 1 0 1 1 4 7
+p618
+aVGerald Green BOS 12/11/2006 BOS @ NYK W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p619
+aVLeon Powe BOS 12/11/2006 BOS @ NYK W 14 7 3 4 75.0 0 0 - 1 1 100.0 2 2 4 0 0 2 0 2 12
+p620
+aVAl Jefferson BOS 12/11/2006 BOS @ NYK W 31 14 6 12 50.0 0 0 - 2 4 50.0 3 9 12 0 1 4 4 5 -3
+p621
+aVSebastian Telfair BOS 12/11/2006 BOS @ NYK W 31 8 3 10 30.0 0 0 - 2 2 100.0 0 1 1 4 2 0 1 4 -8
+p622
+aVAl Jefferson BOS 12/09/2006 BOS @ NJN W 39 29 12 19 63.2 0 0 - 5 7 71.4 5 9 14 1 2 1 2 4 14
+p623
+aVBrian Scalabrine BOS 12/09/2006 BOS @ NJN W 21 7 2 7 28.6 0 2 0.0 3 4 75.0 1 0 1 0 0 0 0 4 2
+p624
+aVRyan Gomes BOS 12/09/2006 BOS @ NJN W 29 9 3 10 30.0 0 0 - 3 4 75.0 3 6 9 1 1 0 0 0 -23
+p625
+aVGerald Green BOS 12/09/2006 BOS @ NJN W 26 7 3 6 50.0 1 1 100.0 0 0 - 0 2 2 3 0 0 1 3 -6
+p626
+aVPaul Pierce BOS 12/09/2006 BOS @ NJN W 37 17 4 18 22.2 0 3 0.0 9 10 90.0 1 5 6 4 0 1 3 2 -3
+p627
+aVSebastian Telfair BOS 12/09/2006 BOS @ NJN W 27 0 0 6 0.0 0 2 0.0 0 0 - 1 0 1 4 0 0 1 3 -11
+p628
+aVLeon Powe BOS 12/09/2006 BOS @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p629
+aVRajon Rondo BOS 12/09/2006 BOS @ NJN W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 13
+p630
+aVDelonte West BOS 12/09/2006 BOS @ NJN W 32 16 4 8 50.0 3 5 60.0 5 5 100.0 1 1 2 5 2 1 1 1 18
+p631
+aVTony Allen BOS 12/09/2006 BOS @ NJN W 15 5 2 5 40.0 0 2 0.0 1 3 33.3 1 2 3 0 0 0 3 5 6
+p632
+aVGerald Green BOS 12/08/2006 BOS vs. PHX L 17 6 3 9 33.3 0 3 0.0 0 1 0.0 3 2 5 0 0 0 1 2 1
+p633
+aVRajon Rondo BOS 12/08/2006 BOS vs. PHX L 14 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 2 0 0 1 2 -4
+p634
+aVDelonte West BOS 12/08/2006 BOS vs. PHX L 24 8 4 11 36.4 0 2 0.0 0 0 - 1 0 1 3 0 0 1 3 -5
+p635
+aVAl Jefferson BOS 12/08/2006 BOS vs. PHX L 23 6 2 6 33.3 0 0 - 2 5 40.0 1 6 7 2 1 1 0 4 0
+p636
+aVRyan Gomes BOS 12/08/2006 BOS vs. PHX L 33 18 7 12 58.3 0 0 - 4 4 100.0 1 4 5 1 0 0 1 3 -8
+p637
+aVPaul Pierce BOS 12/08/2006 BOS vs. PHX L 38 36 10 24 41.7 7 14 50.0 9 11 81.8 1 4 5 5 0 1 3 1 -1
+p638
+aVLeon Powe BOS 12/08/2006 BOS vs. PHX L 9 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 0
+p639
+aVTony Allen BOS 12/08/2006 BOS vs. PHX L 26 18 7 17 41.2 1 1 100.0 3 3 100.0 6 1 7 3 5 0 1 3 2
+p640
+aVSebastian Telfair BOS 12/08/2006 BOS vs. PHX L 31 14 7 12 58.3 0 1 0.0 0 0 - 0 1 1 5 2 0 1 3 -4
+p641
+aVBrian Scalabrine BOS 12/08/2006 BOS vs. PHX L 25 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 3 0 0 1 0 -6
+p642
+aVLeon Powe BOS 12/06/2006 BOS vs. MEM L 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 3
+p643
+aVRajon Rondo BOS 12/06/2006 BOS vs. MEM L 17 0 0 1 0.0 0 0 - 0 0 - 1 3 4 5 4 0 1 1 11
+p644
+aVDelonte West BOS 12/06/2006 BOS vs. MEM L 27 12 5 12 41.7 1 3 33.3 1 1 100.0 0 2 2 7 1 1 3 1 5
+p645
+aVTony Allen BOS 12/06/2006 BOS vs. MEM L 20 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 2 1 -5
+p646
+aVRyan Gomes BOS 12/06/2006 BOS vs. MEM L 22 12 6 8 75.0 0 0 - 0 0 - 0 1 1 2 0 0 0 4 -11
+p647
+aVSebastian Telfair BOS 12/06/2006 BOS vs. MEM L 25 5 1 7 14.3 0 3 0.0 3 4 75.0 0 1 1 2 2 0 1 2 4
+p648
+aVBrian Scalabrine BOS 12/06/2006 BOS vs. MEM L 23 10 4 5 80.0 2 3 66.7 0 0 - 2 6 8 1 0 0 0 6 -2
+p649
+aVPaul Pierce BOS 12/06/2006 BOS vs. MEM L 39 25 7 17 41.2 2 5 40.0 9 9 100.0 0 3 3 4 0 0 9 4 -6
+p650
+aVAl Jefferson BOS 12/06/2006 BOS vs. MEM L 33 9 2 5 40.0 0 0 - 5 6 83.3 5 7 12 0 0 2 1 5 -15
+p651
+aVGerald Green BOS 12/06/2006 BOS vs. MEM L 26 21 7 10 70.0 3 5 60.0 4 4 100.0 0 1 1 1 0 1 3 2 6
+p652
+aVGerald Green BOS 12/04/2006 BOS @ CHI L 19 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 0 0 2 4 3
+p653
+aVLeon Powe BOS 12/04/2006 BOS @ CHI L 15 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 0 0 2 2 0 9
+p654
+aVBrian Scalabrine BOS 12/04/2006 BOS @ CHI L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 1 0 4 -6
+p655
+aVDelonte West BOS 12/04/2006 BOS @ CHI L 22 4 0 1 0.0 0 0 - 4 4 100.0 0 2 2 1 0 1 4 1 -12
+p656
+aVRyan Gomes BOS 12/04/2006 BOS @ CHI L 29 19 7 10 70.0 0 0 - 5 6 83.3 2 5 7 1 1 0 3 2 -16
+p657
+aVSebastian Telfair BOS 12/04/2006 BOS @ CHI L 24 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 4 0 0 1 2 -13
+p658
+aVAllan Ray BOS 12/04/2006 BOS @ CHI L 11 9 4 6 66.7 1 2 50.0 0 1 0.0 1 1 2 0 1 0 1 3 1
+p659
+aVAl Jefferson BOS 12/04/2006 BOS @ CHI L 19 5 1 6 16.7 0 0 - 3 4 75.0 2 4 6 1 1 1 0 3 -15
+p660
+aVPaul Pierce BOS 12/04/2006 BOS @ CHI L 26 8 4 13 30.8 0 2 0.0 0 0 - 0 3 3 1 1 0 4 4 -23
+p661
+aVKendrick Perkins BOS 12/04/2006 BOS @ CHI L 16 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -14
+p662
+aVRajon Rondo BOS 12/04/2006 BOS @ CHI L 17 0 0 3 0.0 0 0 - 0 2 0.0 1 1 2 4 2 0 1 1 0
+p663
+aVTony Allen BOS 12/04/2006 BOS @ CHI L 30 20 5 8 62.5 0 1 0.0 10 13 76.9 1 1 2 3 1 1 1 3 -4
+p664
+aVGerald Green BOS 12/01/2006 BOS @ TOR L 12 6 2 3 66.7 2 3 66.7 0 0 - 0 4 4 2 0 2 0 1 8
+p665
+aVWally Szczerbiak BOS 12/01/2006 BOS @ TOR L 30 12 5 10 50.0 0 2 0.0 2 2 100.0 1 2 3 1 0 0 2 1 -14
+p666
+aVBrian Scalabrine BOS 12/01/2006 BOS @ TOR L 17 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 4 -8
+p667
+aVRyan Gomes BOS 12/01/2006 BOS @ TOR L 29 16 5 10 50.0 0 0 - 6 6 100.0 1 4 5 3 0 0 2 2 3
+p668
+aVKendrick Perkins BOS 12/01/2006 BOS @ TOR L 19 2 1 1 100.0 0 0 - 0 0 - 0 5 5 0 0 2 0 3 1
+p669
+aVTony Allen BOS 12/01/2006 BOS @ TOR L 14 7 3 5 60.0 0 0 - 1 1 100.0 0 3 3 1 1 0 0 2 9
+p670
+aVPaul Pierce BOS 12/01/2006 BOS @ TOR L 39 19 6 10 60.0 0 0 - 7 10 70.0 1 3 4 9 0 0 3 3 -11
+p671
+aVRajon Rondo BOS 12/01/2006 BOS @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p672
+aVSebastian Telfair BOS 12/01/2006 BOS @ TOR L 27 7 3 8 37.5 0 1 0.0 1 2 50.0 0 1 1 3 3 0 3 4 2
+p673
+aVDelonte West BOS 12/01/2006 BOS @ TOR L 23 14 5 9 55.6 2 5 40.0 2 2 100.0 0 1 1 0 1 0 4 4 -1
+p674
+aVAl Jefferson BOS 12/01/2006 BOS @ TOR L 27 14 4 11 36.4 0 0 - 6 7 85.7 3 3 6 1 1 1 1 2 -8
+p675
+aVTony Allen BOS 11/29/2006 BOS vs. NJN L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p676
+aVPaul Pierce BOS 11/29/2006 BOS vs. NJN L 40 31 8 19 42.1 4 9 44.4 11 12 91.7 0 2 2 5 3 1 3 5 -2
+p677
+aVGerald Green BOS 11/29/2006 BOS vs. NJN L 10 6 2 5 40.0 1 1 100.0 1 2 50.0 1 2 3 0 0 2 0 1 2
+p678
+aVBrian Scalabrine BOS 11/29/2006 BOS vs. NJN L 11 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 0 0 0 1 1 -8
+p679
+aVAl Jefferson BOS 11/29/2006 BOS vs. NJN L 19 11 5 6 83.3 0 0 - 1 1 100.0 3 5 8 0 0 2 2 3 -10
+p680
+aVSebastian Telfair BOS 11/29/2006 BOS vs. NJN L 36 13 6 11 54.5 0 1 0.0 1 1 100.0 1 2 3 5 1 0 1 2 -1
+p681
+aVKendrick Perkins BOS 11/29/2006 BOS vs. NJN L 26 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 2 1 5 1 4 12
+p682
+aVWally Szczerbiak BOS 11/29/2006 BOS vs. NJN L 35 25 10 19 52.6 2 5 40.0 3 4 75.0 1 5 6 0 2 0 4 1 0
+p683
+aVRyan Gomes BOS 11/29/2006 BOS vs. NJN L 34 5 1 6 16.7 0 0 - 3 4 75.0 2 7 9 6 0 0 2 0 -3
+p684
+aVDelonte West BOS 11/29/2006 BOS vs. NJN L 17 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 6 0 1 0 1 -4
+p685
+aVRajon Rondo BOS 11/25/2006 BOS @ MIL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p686
+aVBrian Scalabrine BOS 11/25/2006 BOS @ MIL W 12 2 1 4 25.0 0 1 0.0 0 0 - 2 2 4 0 0 0 0 0 1
+p687
+aVWally Szczerbiak BOS 11/25/2006 BOS @ MIL W 34 21 6 9 66.7 1 3 33.3 8 8 100.0 0 1 1 1 1 0 0 1 13
+p688
+aVSebastian Telfair BOS 11/25/2006 BOS @ MIL W 36 12 5 9 55.6 0 1 0.0 2 2 100.0 0 1 1 8 0 0 1 3 25
+p689
+aVPaul Pierce BOS 11/25/2006 BOS @ MIL W 40 34 9 15 60.0 4 6 66.7 12 14 85.7 1 6 7 7 2 0 5 4 17
+p690
+aVTony Allen BOS 11/25/2006 BOS @ MIL W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -5
+p691
+aVDelonte West BOS 11/25/2006 BOS @ MIL W 18 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 3 0 0 1 1 -6
+p692
+aVRyan Gomes BOS 11/25/2006 BOS @ MIL W 36 15 7 10 70.0 0 0 - 1 2 50.0 2 6 8 1 0 1 1 4 14
+p693
+aVKendrick Perkins BOS 11/25/2006 BOS @ MIL W 32 5 2 7 28.6 0 0 - 1 2 50.0 4 4 8 2 0 2 3 4 11
+p694
+aVAl Jefferson BOS 11/25/2006 BOS @ MIL W 16 10 3 5 60.0 0 0 - 4 6 66.7 1 5 6 0 0 1 2 2 2
+p695
+aVGerald Green BOS 11/25/2006 BOS @ MIL W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p696
+aVSebastian Telfair BOS 11/24/2006 BOS vs. NYK L 30 10 4 9 44.4 1 4 25.0 1 1 100.0 0 1 1 3 1 0 1 1 -20
+p697
+aVBrian Scalabrine BOS 11/24/2006 BOS vs. NYK L 14 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 3 0 0 1 2 -2
+p698
+aVWally Szczerbiak BOS 11/24/2006 BOS vs. NYK L 29 16 6 16 37.5 0 4 0.0 4 4 100.0 1 1 2 2 0 0 1 3 -18
+p699
+aVDelonte West BOS 11/24/2006 BOS vs. NYK L 19 9 4 13 30.8 1 3 33.3 0 0 - 1 1 2 0 0 0 1 1 -13
+p700
+aVRyan Gomes BOS 11/24/2006 BOS vs. NYK L 27 8 4 7 57.1 0 0 - 0 0 - 0 4 4 2 3 0 0 2 -18
+p701
+aVPaul Pierce BOS 11/24/2006 BOS vs. NYK L 32 12 4 10 40.0 1 6 16.7 3 5 60.0 1 1 2 3 0 1 6 3 -23
+p702
+aVAl Jefferson BOS 11/24/2006 BOS vs. NYK L 18 4 1 4 25.0 0 0 - 2 2 100.0 2 6 8 1 0 0 1 4 -12
+p703
+aVKendrick Perkins BOS 11/24/2006 BOS vs. NYK L 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 4 -2
+p704
+aVTony Allen BOS 11/24/2006 BOS vs. NYK L 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 3 0 -1
+p705
+aVRajon Rondo BOS 11/24/2006 BOS vs. NYK L 15 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 3 -2
+p706
+aVGerald Green BOS 11/24/2006 BOS vs. NYK L 22 9 3 6 50.0 1 3 33.3 2 2 100.0 1 2 3 0 0 0 0 1 -9
+p707
+aVLeon Powe BOS 11/24/2006 BOS vs. NYK L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 0
+p708
+aVRajon Rondo BOS 11/22/2006 BOS @ CHA L 17 6 3 5 60.0 0 1 0.0 0 2 0.0 1 3 4 1 0 0 0 1 0
+p709
+aVSebastian Telfair BOS 11/22/2006 BOS @ CHA L 31 7 3 10 30.0 1 5 20.0 0 0 - 0 1 1 7 2 1 4 4 -9
+p710
+aVKendrick Perkins BOS 11/22/2006 BOS @ CHA L 27 5 2 5 40.0 0 1 0.0 1 2 50.0 2 6 8 1 0 0 1 1 -3
+p711
+aVAllan Ray BOS 11/22/2006 BOS @ CHA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p712
+aVWally Szczerbiak BOS 11/22/2006 BOS @ CHA L 33 7 3 13 23.1 0 2 0.0 1 1 100.0 1 2 3 1 1 0 0 1 -18
+p713
+aVLeon Powe BOS 11/22/2006 BOS @ CHA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p714
+aVPaul Pierce BOS 11/22/2006 BOS @ CHA L 38 28 8 20 40.0 2 6 33.3 10 14 71.4 2 12 14 4 2 0 3 2 -16
+p715
+aVAl Jefferson BOS 11/22/2006 BOS @ CHA L 19 6 3 5 60.0 0 0 - 0 0 - 3 5 8 0 0 0 5 4 -3
+p716
+aVRyan Gomes BOS 11/22/2006 BOS @ CHA L 32 12 5 9 55.6 0 0 - 2 2 100.0 4 1 5 2 0 0 0 2 -20
+p717
+aVGerald Green BOS 11/22/2006 BOS @ CHA L 12 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 1 3 3 5
+p718
+aVTony Allen BOS 11/22/2006 BOS @ CHA L 16 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 4 10
+p719
+aVBrian Scalabrine BOS 11/22/2006 BOS @ CHA L 13 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 1 1 0 0 9
+p720
+aVLeon Powe BOS 11/18/2006 BOS @ NYK W 9 1 0 2 0.0 0 0 - 1 4 25.0 1 1 2 0 0 0 1 2 -5
+p721
+aVSebastian Telfair BOS 11/18/2006 BOS @ NYK W 35 19 5 10 50.0 1 2 50.0 8 9 88.9 0 6 6 4 0 0 2 5 13
+p722
+aVRajon Rondo BOS 11/18/2006 BOS @ NYK W 18 5 1 4 25.0 0 3 0.0 3 3 100.0 1 5 6 3 0 0 2 0 -20
+p723
+aVTony Allen BOS 11/18/2006 BOS @ NYK W 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -13
+p724
+aVBrian Scalabrine BOS 11/18/2006 BOS @ NYK W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 0 -7
+p725
+aVKendrick Perkins BOS 11/18/2006 BOS @ NYK W 26 3 1 2 50.0 0 0 - 1 2 50.0 1 7 8 2 1 4 0 4 24
+p726
+aVWally Szczerbiak BOS 11/18/2006 BOS @ NYK W 28 20 6 12 50.0 3 5 60.0 5 5 100.0 2 0 2 2 0 0 2 6 17
+p727
+aVDelonte West BOS 11/18/2006 BOS @ NYK W 27 4 1 8 12.5 0 2 0.0 2 2 100.0 0 0 0 0 1 0 0 6 -12
+p728
+aVRyan Gomes BOS 11/18/2006 BOS @ NYK W 32 22 6 10 60.0 0 0 - 10 13 76.9 6 8 14 0 0 0 5 3 26
+p729
+aVGerald Green BOS 11/18/2006 BOS @ NYK W 8 3 1 4 25.0 0 2 0.0 1 1 100.0 0 0 0 0 1 0 1 1 -10
+p730
+aVPaul Pierce BOS 11/18/2006 BOS @ NYK W 42 39 10 23 43.5 1 7 14.3 18 22 81.8 2 7 9 4 2 1 1 3 7
+p731
+aVSebastian Telfair BOS 11/17/2006 BOS vs. POR W 15 15 6 10 60.0 1 1 100.0 2 2 100.0 0 0 0 7 0 1 1 0 4
+p732
+aVGerald Green BOS 11/17/2006 BOS vs. POR W 14 9 3 5 60.0 2 3 66.7 1 2 50.0 2 1 3 3 1 0 0 0 16
+p733
+aVTony Allen BOS 11/17/2006 BOS vs. POR W 13 8 3 5 60.0 0 1 0.0 2 2 100.0 1 1 2 1 2 0 1 4 14
+p734
+aVDelonte West BOS 11/17/2006 BOS vs. POR W 10 17 7 12 58.3 2 2 100.0 1 1 100.0 0 6 6 2 0 2 1 1 22
+p735
+aVKendrick Perkins BOS 11/17/2006 BOS vs. POR W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 4 5 2 0 3 2 4 0
+p736
+aVRyan Gomes BOS 11/17/2006 BOS vs. POR W 10 2 0 5 0.0 0 0 - 2 4 50.0 0 2 2 1 0 0 0 3 -1
+p737
+aVLeon Powe BOS 11/17/2006 BOS vs. POR W 12 9 3 4 75.0 0 0 - 3 4 75.0 2 4 6 1 0 1 1 5 8
+p738
+aVAllan Ray BOS 11/17/2006 BOS vs. POR W 6 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 0 0
+p739
+aVPaul Pierce BOS 11/17/2006 BOS vs. POR W 12 29 10 19 52.6 4 6 66.7 5 6 83.3 0 6 6 2 2 1 1 1 14
+p740
+aVBrian Scalabrine BOS 11/17/2006 BOS vs. POR W 11 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 30
+p741
+aVWally Szczerbiak BOS 11/17/2006 BOS vs. POR W 9 19 6 10 60.0 3 6 50.0 4 5 80.0 0 3 3 2 0 1 0 0 9
+p742
+aVRajon Rondo BOS 11/17/2006 BOS vs. POR W 16 8 1 2 50.0 0 0 - 6 6 100.0 1 3 4 1 3 1 3 3 24
+p743
+aVKendrick Perkins BOS 11/15/2006 BOS vs. IND W 27 12 6 11 54.5 0 0 - 0 1 0.0 3 5 8 1 0 4 1 4 17
+p744
+aVTony Allen BOS 11/15/2006 BOS vs. IND W 8 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 1 0 1 0 4
+p745
+aVSebastian Telfair BOS 11/15/2006 BOS vs. IND W 19 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 6 0 1 3 3 4
+p746
+aVPaul Pierce BOS 11/15/2006 BOS vs. IND W 32 32 11 19 57.9 2 4 50.0 8 9 88.9 0 5 5 3 0 0 2 0 20
+p747
+aVLeon Powe BOS 11/15/2006 BOS vs. IND W 10 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 0 -2
+p748
+aVRyan Gomes BOS 11/15/2006 BOS vs. IND W 29 12 6 8 75.0 0 0 - 0 0 - 5 7 12 1 3 1 1 1 17
+p749
+aVWally Szczerbiak BOS 11/15/2006 BOS vs. IND W 30 20 7 19 36.8 2 3 66.7 4 5 80.0 1 3 4 2 0 0 2 2 29
+p750
+aVMichael Olowokandi BOS 11/15/2006 BOS vs. IND W 11 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 0 3 11
+p751
+aVDelonte West BOS 11/15/2006 BOS vs. IND W 25 2 1 5 20.0 0 1 0.0 0 0 - 0 5 5 3 3 0 1 4 7
+p752
+aVGerald Green BOS 11/15/2006 BOS vs. IND W 16 9 3 5 60.0 3 4 75.0 0 0 - 1 2 3 0 0 0 2 1 6
+p753
+aVRajon Rondo BOS 11/15/2006 BOS vs. IND W 28 5 2 6 33.3 0 0 - 1 4 25.0 1 4 5 7 3 0 4 3 22
+p754
+aVBrian Scalabrine BOS 11/15/2006 BOS vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -5
+p755
+aVBrian Scalabrine BOS 11/13/2006 BOS vs. ORL L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -4
+p756
+aVMichael Olowokandi BOS 11/13/2006 BOS vs. ORL L 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -1
+p757
+aVPaul Pierce BOS 11/13/2006 BOS vs. ORL L 42 21 6 20 30.0 3 6 50.0 6 6 100.0 0 4 4 2 1 0 5 1 2
+p758
+aVLeon Powe BOS 11/13/2006 BOS vs. ORL L 25 10 3 8 37.5 0 0 - 4 7 57.1 2 5 7 0 0 2 0 0 4
+p759
+aVDelonte West BOS 11/13/2006 BOS vs. ORL L 27 13 4 10 40.0 2 4 50.0 3 4 75.0 1 2 3 3 1 1 1 3 8
+p760
+aVSebastian Telfair BOS 11/13/2006 BOS vs. ORL L 25 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 5 0 0 1 2 -9
+p761
+aVWally Szczerbiak BOS 11/13/2006 BOS vs. ORL L 32 14 5 11 45.5 1 1 100.0 3 3 100.0 1 1 2 2 1 0 2 3 -3
+p762
+aVKendrick Perkins BOS 11/13/2006 BOS vs. ORL L 32 8 4 5 80.0 0 0 - 0 4 0.0 6 2 8 1 2 0 0 4 -7
+p763
+aVRajon Rondo BOS 11/13/2006 BOS vs. ORL L 21 0 0 5 0.0 0 0 - 0 0 - 1 1 2 7 2 0 1 1 3
+p764
+aVRyan Gomes BOS 11/13/2006 BOS vs. ORL L 17 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 -3
+p765
+aVGerald Green BOS 11/13/2006 BOS vs. ORL L 6 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 1 -5
+p766
+aVDelonte West BOS 11/11/2006 BOS @ CLE L 40 12 5 11 45.5 2 4 50.0 0 0 - 1 3 4 5 0 1 2 4 -4
+p767
+aVRajon Rondo BOS 11/11/2006 BOS @ CLE L 13 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 2 1 -9
+p768
+aVSebastian Telfair BOS 11/11/2006 BOS @ CLE L 35 15 5 16 31.3 0 3 0.0 5 7 71.4 1 1 2 5 1 0 0 3 6
+p769
+aVMichael Olowokandi BOS 11/11/2006 BOS @ CLE L 17 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 2 1 0 4 -3
+p770
+aVKendrick Perkins BOS 11/11/2006 BOS @ CLE L 27 12 5 7 71.4 0 0 - 2 4 50.0 4 7 11 0 0 2 1 5 -3
+p771
+aVTony Allen BOS 11/11/2006 BOS @ CLE L 16 9 3 4 75.0 0 0 - 3 3 100.0 0 3 3 0 1 0 2 3 -2
+p772
+aVBrian Scalabrine BOS 11/11/2006 BOS @ CLE L 14 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 0 0 3 8
+p773
+aVPaul Pierce BOS 11/11/2006 BOS @ CLE L 36 19 6 21 28.6 2 10 20.0 5 6 83.3 0 9 9 1 1 0 3 3 0
+p774
+aVGerald Green BOS 11/11/2006 BOS @ CLE L 14 8 2 3 66.7 2 2 100.0 2 2 100.0 0 0 0 0 0 0 1 1 0
+p775
+aVRyan Gomes BOS 11/11/2006 BOS @ CLE L 28 11 5 12 41.7 0 0 - 1 1 100.0 2 4 6 4 0 2 3 3 2
+p776
+aVPaul Pierce BOS 11/10/2006 BOS vs. UTA L 43 30 12 23 52.2 4 6 66.7 2 6 33.3 0 9 9 4 2 1 3 4 -3
+p777
+aVRyan Gomes BOS 11/10/2006 BOS vs. UTA L 29 11 5 8 62.5 0 0 - 1 2 50.0 4 5 9 3 0 0 2 2 -5
+p778
+aVTheo Ratliff BOS 11/10/2006 BOS vs. UTA L 17 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 1 0 1 -15
+p779
+aVKendrick Perkins BOS 11/10/2006 BOS vs. UTA L 22 10 5 5 100.0 0 0 - 0 2 0.0 1 3 4 1 0 4 2 2 5
+p780
+aVWally Szczerbiak BOS 11/10/2006 BOS vs. UTA L 35 14 5 15 33.3 1 2 50.0 3 3 100.0 0 5 5 6 1 1 2 3 -8
+p781
+aVRajon Rondo BOS 11/10/2006 BOS vs. UTA L 25 13 5 10 50.0 0 0 - 3 5 60.0 1 3 4 3 3 0 2 3 6
+p782
+aVDelonte West BOS 11/10/2006 BOS vs. UTA L 25 10 4 10 40.0 1 5 20.0 1 1 100.0 1 1 2 2 0 1 1 1 -8
+p783
+aVBrian Scalabrine BOS 11/10/2006 BOS vs. UTA L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 1 1 0 1 -5
+p784
+aVGerald Green BOS 11/10/2006 BOS vs. UTA L 8 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 3 -4
+p785
+aVTony Allen BOS 11/10/2006 BOS vs. UTA L 18 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 1 0 3 1 3
+p786
+aVSebastian Telfair BOS 11/10/2006 BOS vs. UTA L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p787
+aVTheo Ratliff BOS 11/08/2006 BOS vs. CHA W 26 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 1 2 1 5 -5
+p788
+aVPaul Pierce BOS 11/08/2006 BOS vs. CHA W 44 35 12 21 57.1 1 4 25.0 10 12 83.3 1 12 13 6 2 0 12 3 0
+p789
+aVWally Szczerbiak BOS 11/08/2006 BOS vs. CHA W 37 35 11 22 50.0 4 7 57.1 9 10 90.0 1 4 5 1 2 0 5 2 7
+p790
+aVTony Allen BOS 11/08/2006 BOS vs. CHA W 16 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 3 3 -4
+p791
+aVBrian Scalabrine BOS 11/08/2006 BOS vs. CHA W 17 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 4 -1
+p792
+aVDelonte West BOS 11/08/2006 BOS vs. CHA W 24 7 3 10 30.0 1 3 33.3 0 0 - 0 1 1 4 1 0 2 1 -5
+p793
+aVKendrick Perkins BOS 11/08/2006 BOS vs. CHA W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 5 8
+p794
+aVGerald Green BOS 11/08/2006 BOS vs. CHA W 9 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 0 1
+p795
+aVSebastian Telfair BOS 11/08/2006 BOS vs. CHA W 29 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 3 1 0 0 4 7
+p796
+aVRyan Gomes BOS 11/08/2006 BOS vs. CHA W 38 10 5 12 41.7 0 0 - 0 1 0.0 4 8 12 10 0 1 0 5 5
+p797
+aVMichael Olowokandi BOS 11/08/2006 BOS vs. CHA W 16 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 1 0 0 4 -3
+p798
+aVDelonte West BOS 11/04/2006 BOS @ WAS L 12 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 1 0 0 0 1 -7
+p799
+aVPaul Pierce BOS 11/04/2006 BOS @ WAS L 38 23 6 14 42.9 1 5 20.0 10 14 71.4 1 11 12 5 0 0 2 3 -4
+p800
+aVWally Szczerbiak BOS 11/04/2006 BOS @ WAS L 32 33 10 16 62.5 4 8 50.0 9 9 100.0 0 5 5 2 0 0 4 3 4
+p801
+aVRyan Gomes BOS 11/04/2006 BOS @ WAS L 35 6 2 5 40.0 0 0 - 2 2 100.0 2 5 7 1 1 0 2 4 1
+p802
+aVMichael Olowokandi BOS 11/04/2006 BOS @ WAS L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -2
+p803
+aVGerald Green BOS 11/04/2006 BOS @ WAS L 7 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 1 1 0 1 3 6
+p804
+aVSebastian Telfair BOS 11/04/2006 BOS @ WAS L 34 24 8 12 66.7 4 6 66.7 4 4 100.0 0 4 4 6 0 0 3 1 8
+p805
+aVRajon Rondo BOS 11/04/2006 BOS @ WAS L 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -14
+p806
+aVAl Jefferson BOS 11/04/2006 BOS @ WAS L 30 10 5 9 55.6 0 0 - 0 0 - 2 5 7 0 0 1 3 5 -15
+p807
+aVTony Allen BOS 11/04/2006 BOS @ WAS L 20 9 2 4 50.0 0 0 - 5 7 71.4 1 1 2 5 0 0 1 2 -14
+p808
+aVKendrick Perkins BOS 11/04/2006 BOS @ WAS L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 4 2
+p809
+aVSebastian Telfair BOS 11/03/2006 BOS vs. DET L 20 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 1 0 0 1 3 -12
+p810
+aVMichael Olowokandi BOS 11/03/2006 BOS vs. DET L 19 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 2 1 1 1 5
+p811
+aVTony Allen BOS 11/03/2006 BOS vs. DET L 10 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 1 -1
+p812
+aVRajon Rondo BOS 11/03/2006 BOS vs. DET L 31 7 3 7 42.9 0 0 - 1 2 50.0 0 5 5 6 0 0 1 3 2
+p813
+aVPaul Pierce BOS 11/03/2006 BOS vs. DET L 38 22 7 13 53.8 1 1 100.0 7 8 87.5 1 7 8 4 1 0 2 2 -15
+p814
+aVAl Jefferson BOS 11/03/2006 BOS vs. DET L 28 11 4 11 36.4 0 0 - 3 4 75.0 4 6 10 1 0 2 0 1 -7
+p815
+aVGerald Green BOS 11/03/2006 BOS vs. DET L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 0
+p816
+aVDelonte West BOS 11/03/2006 BOS vs. DET L 16 5 1 8 12.5 1 4 25.0 2 2 100.0 0 2 2 4 0 0 2 0 -6
+p817
+aVWally Szczerbiak BOS 11/03/2006 BOS vs. DET L 33 18 8 13 61.5 1 2 50.0 1 2 50.0 1 3 4 3 1 0 6 2 -8
+p818
+aVKendrick Perkins BOS 11/03/2006 BOS vs. DET L 17 4 2 2 100.0 0 0 - 0 0 - 0 8 8 1 0 1 1 2 -6
+p819
+aVRyan Gomes BOS 11/03/2006 BOS vs. DET L 26 6 3 8 37.5 0 0 - 0 0 - 1 1 2 3 0 0 1 3 -17
+p820
+aVWally Szczerbiak BOS 11/01/2006 BOS vs. NOK L 36 21 5 14 35.7 0 2 0.0 11 13 84.6 0 5 5 2 1 0 1 4 13
+p821
+aVRajon Rondo BOS 11/01/2006 BOS vs. NOK L 22 6 2 6 33.3 0 1 0.0 2 4 50.0 1 3 4 3 0 0 3 4 -9
+p822
+aVPaul Pierce BOS 11/01/2006 BOS vs. NOK L 39 29 10 23 43.5 2 8 25.0 7 15 46.7 1 18 19 4 1 0 3 3 0
+p823
+aVSebastian Telfair BOS 11/01/2006 BOS vs. NOK L 28 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 1 0 1 2 3 3
+p824
+aVKendrick Perkins BOS 11/01/2006 BOS vs. NOK L 22 2 1 2 50.0 0 0 - 0 0 - 1 5 6 1 0 2 3 3 -1
+p825
+aVTony Allen BOS 11/01/2006 BOS vs. NOK L 18 3 0 5 0.0 0 1 0.0 3 4 75.0 1 0 1 0 1 0 2 3 -9
+p826
+aVAl Jefferson BOS 11/01/2006 BOS vs. NOK L 22 13 6 8 75.0 0 0 - 1 3 33.3 2 2 4 0 0 1 1 6 1
+p827
+aVDelonte West BOS 11/01/2006 BOS vs. NOK L 22 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 5 1 1 3 3 -13
+p828
+aVRyan Gomes BOS 11/01/2006 BOS vs. NOK L 31 6 3 7 42.9 0 0 - 0 0 - 2 4 6 2 1 1 1 2 -5
+p829
+a.

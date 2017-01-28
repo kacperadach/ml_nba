@@ -1,0 +1,1626 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDorell Wright PHI 04/17/2013 PHI @ IND W 36 23 8 15 53.3 4 8 50.0 3 3 100.0 0 2 2 5 1 2 0 2 7
+p2
+aVDamien Wilkins PHI 04/17/2013 PHI @ IND W 36 15 6 11 54.5 0 2 0.0 3 3 100.0 0 2 2 2 1 1 4 5 3
+p3
+aVNick Young PHI 04/17/2013 PHI @ IND W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p4
+aVJustin Holiday PHI 04/17/2013 PHI @ IND W 27 8 3 8 37.5 1 2 50.0 1 2 50.0 0 0 0 3 2 2 3 2 -1
+p5
+aVEvan Turner PHI 04/17/2013 PHI @ IND W 40 16 7 18 38.9 1 3 33.3 1 2 50.0 1 5 6 5 2 0 2 4 11
+p6
+aVJrue Holiday PHI 04/17/2013 PHI @ IND W 9 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 10
+p7
+aVLavoy Allen PHI 04/17/2013 PHI @ IND W 32 11 4 9 44.4 0 0 - 3 4 75.0 3 8 11 0 0 0 3 1 4
+p8
+aVArnett Moultrie PHI 04/17/2013 PHI @ IND W 29 14 7 11 63.6 0 0 - 0 0 - 6 6 12 1 0 0 1 3 -1
+p9
+aVThaddeus Young PHI 04/17/2013 PHI @ IND W 21 10 5 7 71.4 0 0 - 0 0 - 0 8 8 0 3 0 1 4 14
+p10
+aVSpencer Hawes PHI 04/17/2013 PHI @ IND W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 1 0 2 9
+p11
+aVThaddeus Young PHI 04/15/2013 PHI @ DET L 23 11 5 8 62.5 0 0 - 1 2 50.0 2 1 3 1 2 0 0 2 1
+p12
+aVJustin Holiday PHI 04/15/2013 PHI @ DET L 28 11 3 9 33.3 1 5 20.0 4 4 100.0 0 2 2 2 0 2 1 0 -2
+p13
+aVArnett Moultrie PHI 04/15/2013 PHI @ DET L 25 9 4 5 80.0 0 0 - 1 1 100.0 3 2 5 0 1 1 1 4 -14
+p14
+aVJrue Holiday PHI 04/15/2013 PHI @ DET L 28 14 7 15 46.7 0 3 0.0 0 0 - 1 2 3 3 1 0 5 0 -7
+p15
+aVSpencer Hawes PHI 04/15/2013 PHI @ DET L 31 13 6 13 46.2 0 1 0.0 1 1 100.0 3 6 9 3 1 1 3 3 -8
+p16
+aVDorell Wright PHI 04/15/2013 PHI @ DET L 33 22 5 12 41.7 4 10 40.0 8 9 88.9 1 7 8 6 1 1 2 1 -4
+p17
+aVLavoy Allen PHI 04/15/2013 PHI @ DET L 13 4 2 6 33.3 0 0 - 0 0 - 3 0 3 0 2 0 0 2 0
+p18
+aVDamien Wilkins PHI 04/15/2013 PHI @ DET L 32 4 2 6 33.3 0 0 - 0 2 0.0 0 3 3 5 1 0 0 1 2
+p19
+aVEvan Turner PHI 04/15/2013 PHI @ DET L 29 13 5 13 38.5 1 3 33.3 2 2 100.0 0 3 3 5 1 0 0 2 -8
+p20
+aVArnett Moultrie PHI 04/14/2013 PHI vs. CLE W 24 10 5 6 83.3 0 0 - 0 0 - 3 3 6 0 0 0 3 2 -10
+p21
+aVDamien Wilkins PHI 04/14/2013 PHI vs. CLE W 30 11 5 9 55.6 1 2 50.0 0 0 - 1 3 4 2 1 0 0 1 10
+p22
+aVEvan Turner PHI 04/14/2013 PHI vs. CLE W 31 7 3 10 30.0 1 3 33.3 0 0 - 1 5 6 4 0 1 1 0 18
+p23
+aVThaddeus Young PHI 04/14/2013 PHI vs. CLE W 33 14 5 11 45.5 0 0 - 4 6 66.7 3 6 9 4 3 0 2 0 22
+p24
+aVSpencer Hawes PHI 04/14/2013 PHI vs. CLE W 36 14 6 11 54.5 1 2 50.0 1 2 50.0 0 5 5 6 2 4 2 4 20
+p25
+aVJrue Holiday PHI 04/14/2013 PHI vs. CLE W 32 14 6 17 35.3 1 3 33.3 1 1 100.0 2 3 5 4 1 0 2 2 21
+p26
+aVLavoy Allen PHI 04/14/2013 PHI vs. CLE W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -4
+p27
+aVJustin Holiday PHI 04/14/2013 PHI vs. CLE W 26 6 2 7 28.6 1 3 33.3 1 2 50.0 0 1 1 3 1 2 1 1 -3
+p28
+aVDorell Wright PHI 04/14/2013 PHI vs. CLE W 25 15 6 13 46.2 3 8 37.5 0 0 - 0 2 2 4 1 1 1 1 -4
+p29
+aVSpencer Hawes PHI 04/12/2013 PHI @ WAS W 36 15 7 16 43.8 1 4 25.0 0 0 - 3 5 8 4 1 2 3 2 6
+p30
+aVEvan Turner PHI 04/12/2013 PHI @ WAS W 24 0 0 11 0.0 0 0 - 0 0 - 0 4 4 7 1 1 0 2 -6
+p31
+aVArnett Moultrie PHI 04/12/2013 PHI @ WAS W 17 7 3 5 60.0 0 0 - 1 2 50.0 4 1 5 1 2 0 0 1 5
+p32
+aVThaddeus Young PHI 04/12/2013 PHI @ WAS W 34 18 8 9 88.9 0 0 - 2 2 100.0 2 11 13 1 4 0 1 2 15
+p33
+aVDorell Wright PHI 04/12/2013 PHI @ WAS W 25 13 5 12 41.7 2 7 28.6 1 1 100.0 1 5 6 3 1 0 1 0 13
+p34
+aVJrue Holiday PHI 04/12/2013 PHI @ WAS W 37 22 8 17 47.1 1 4 25.0 5 5 100.0 0 0 0 7 1 0 2 2 12
+p35
+aVJustin Holiday PHI 04/12/2013 PHI @ WAS W 20 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 3 0 0 1 0 13
+p36
+aVNick Young PHI 04/12/2013 PHI @ WAS W 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 2 -6
+p37
+aVDamien Wilkins PHI 04/12/2013 PHI @ WAS W 30 15 6 13 46.2 2 3 66.7 1 1 100.0 1 5 6 3 0 0 3 2 9
+p38
+aVLavoy Allen PHI 04/12/2013 PHI @ WAS W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p39
+aVNick Young PHI 04/10/2013 PHI vs. ATL L 26 19 6 9 66.7 3 5 60.0 4 5 80.0 1 2 3 2 0 0 1 2 -7
+p40
+aVLavoy Allen PHI 04/10/2013 PHI vs. ATL L 12 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -15
+p41
+aVEvan Turner PHI 04/10/2013 PHI vs. ATL L 39 9 4 12 33.3 0 1 0.0 1 2 50.0 1 4 5 7 0 0 5 4 -13
+p42
+aVJustin Holiday PHI 04/10/2013 PHI vs. ATL L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p43
+aVDorell Wright PHI 04/10/2013 PHI vs. ATL L 26 15 4 9 44.4 2 5 40.0 5 5 100.0 0 1 1 1 2 0 0 1 -16
+p44
+aVThaddeus Young PHI 04/10/2013 PHI vs. ATL L 32 28 14 20 70.0 0 0 - 0 0 - 2 6 8 2 1 0 2 2 -16
+p45
+aVArnett Moultrie PHI 04/10/2013 PHI vs. ATL L 22 7 3 5 60.0 0 0 - 1 1 100.0 3 4 7 0 0 0 1 1 -7
+p46
+aVRoyal Ivey PHI 04/10/2013 PHI vs. ATL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p47
+aVSpencer Hawes PHI 04/10/2013 PHI vs. ATL L 25 5 2 6 33.3 1 2 50.0 0 0 - 1 5 6 2 0 0 0 2 -10
+p48
+aVDamien Wilkins PHI 04/10/2013 PHI vs. ATL L 23 6 0 7 0.0 0 0 - 6 6 100.0 0 2 2 4 2 0 1 1 -9
+p49
+aVJrue Holiday PHI 04/10/2013 PHI vs. ATL L 27 12 4 14 28.6 1 5 20.0 3 3 100.0 2 3 5 1 0 0 5 3 -19
+p50
+aVNick Young PHI 04/09/2013 PHI @ BKN L 21 18 7 10 70.0 2 2 100.0 2 2 100.0 0 2 2 1 2 0 0 1 10
+p51
+aVJustin Holiday PHI 04/09/2013 PHI @ BKN L 16 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 0 3
+p52
+aVThaddeus Young PHI 04/09/2013 PHI @ BKN L 25 3 1 9 11.1 0 0 - 1 2 50.0 2 1 3 2 0 0 1 3 -12
+p53
+aVLavoy Allen PHI 04/09/2013 PHI @ BKN L 25 4 2 5 40.0 0 0 - 0 0 - 2 4 6 1 0 0 0 2 -7
+p54
+aVCharles Jenkins PHI 04/09/2013 PHI @ BKN L 10 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 2 1 0 0 0 5
+p55
+aVSpencer Hawes PHI 04/09/2013 PHI @ BKN L 23 7 3 9 33.3 0 1 0.0 1 2 50.0 1 5 6 0 1 0 3 3 -25
+p56
+aVEvan Turner PHI 04/09/2013 PHI @ BKN L 28 11 3 10 30.0 1 1 100.0 4 4 100.0 0 3 3 5 0 0 0 2 -20
+p57
+aVDamien Wilkins PHI 04/09/2013 PHI @ BKN L 22 5 1 5 20.0 0 0 - 3 4 75.0 0 0 0 1 0 0 0 0 -22
+p58
+aVDorell Wright PHI 04/09/2013 PHI @ BKN L 19 9 3 10 30.0 1 4 25.0 2 2 100.0 0 3 3 1 0 1 0 1 -8
+p59
+aVArnett Moultrie PHI 04/09/2013 PHI @ BKN L 24 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 1 1 1 5 2
+p60
+aVJrue Holiday PHI 04/09/2013 PHI @ BKN L 28 15 5 10 50.0 3 5 60.0 2 2 100.0 1 1 2 1 1 0 1 0 -31
+p61
+aVThaddeus Young PHI 04/06/2013 PHI @ MIA L 29 9 4 11 36.4 0 0 - 1 2 50.0 1 0 1 0 1 0 0 4 -13
+p62
+aVEvan Turner PHI 04/06/2013 PHI @ MIA L 32 14 6 10 60.0 0 2 0.0 2 4 50.0 1 4 5 5 0 0 1 1 -33
+p63
+aVNick Young PHI 04/06/2013 PHI @ MIA L 21 10 3 6 50.0 0 3 0.0 4 4 100.0 0 0 0 0 0 0 0 1 -1
+p64
+aVDamien Wilkins PHI 04/06/2013 PHI @ MIA L 32 7 3 10 30.0 0 1 0.0 1 1 100.0 1 2 3 0 2 0 1 3 -24
+p65
+aVJrue Holiday PHI 04/06/2013 PHI @ MIA L 39 18 7 17 41.2 3 4 75.0 1 1 100.0 1 4 5 6 2 1 5 1 -4
+p66
+aVJustin Holiday PHI 04/06/2013 PHI @ MIA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p67
+aVLavoy Allen PHI 04/06/2013 PHI @ MIA L 16 6 2 6 33.3 0 0 - 2 2 100.0 2 6 8 0 0 0 1 0 -4
+p68
+aVDorell Wright PHI 04/06/2013 PHI @ MIA L 29 10 3 11 27.3 1 7 14.3 3 4 75.0 3 4 7 0 0 0 0 3 -4
+p69
+aVArnett Moultrie PHI 04/06/2013 PHI @ MIA L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 5
+p70
+aVSpencer Hawes PHI 04/06/2013 PHI @ MIA L 28 11 4 9 44.4 2 3 66.7 1 2 50.0 3 8 11 0 1 0 1 1 -16
+p71
+aVEvan Turner PHI 04/05/2013 PHI @ ATL W 38 24 9 15 60.0 3 4 75.0 3 4 75.0 0 11 11 2 1 0 3 2 15
+p72
+aVDamien Wilkins PHI 04/05/2013 PHI @ ATL W 33 16 5 8 62.5 2 3 66.7 4 4 100.0 1 3 4 5 1 1 0 5 11
+p73
+aVSpencer Hawes PHI 04/05/2013 PHI @ ATL W 38 19 8 17 47.1 1 1 100.0 2 2 100.0 4 8 12 3 1 0 0 1 11
+p74
+aVRoyal Ivey PHI 04/05/2013 PHI @ ATL W 13 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 1 0 1 1 -4
+p75
+aVLavoy Allen PHI 04/05/2013 PHI @ ATL W 13 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 1 0 1 2
+p76
+aVNick Young PHI 04/05/2013 PHI @ ATL W 14 8 2 7 28.6 2 4 50.0 2 2 100.0 0 1 1 1 1 0 1 0 -1
+p77
+aVJustin Holiday PHI 04/05/2013 PHI @ ATL W 7 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 3 2
+p78
+aVThaddeus Young PHI 04/05/2013 PHI @ ATL W 37 14 6 9 66.7 0 0 - 2 4 50.0 5 8 13 2 1 1 4 4 14
+p79
+aVJrue Holiday PHI 04/05/2013 PHI @ ATL W 42 9 3 14 21.4 0 1 0.0 3 6 50.0 1 2 3 8 2 1 2 1 5
+p80
+aVArnett Moultrie PHI 04/05/2013 PHI @ ATL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p81
+aVRoyal Ivey PHI 04/03/2013 PHI @ CHA L 16 2 1 5 20.0 0 1 0.0 0 1 0.0 1 1 2 1 0 0 0 1 4
+p82
+aVDamien Wilkins PHI 04/03/2013 PHI @ CHA L 33 20 7 14 50.0 0 1 0.0 6 8 75.0 5 4 9 1 1 0 0 3 -7
+p83
+aVDorell Wright PHI 04/03/2013 PHI @ CHA L 19 14 5 9 55.6 4 7 57.1 0 0 - 0 1 1 0 1 0 0 0 12
+p84
+aVSpencer Hawes PHI 04/03/2013 PHI @ CHA L 33 12 5 9 55.6 0 1 0.0 2 2 100.0 2 5 7 1 1 1 0 2 -6
+p85
+aVEvan Turner PHI 04/03/2013 PHI @ CHA L 33 14 6 15 40.0 0 1 0.0 2 2 100.0 1 5 6 3 2 0 5 4 -12
+p86
+aVArnett Moultrie PHI 04/03/2013 PHI @ CHA L 9 4 2 2 100.0 0 0 - 0 0 - 3 0 3 0 0 0 2 0 1
+p87
+aVJrue Holiday PHI 04/03/2013 PHI @ CHA L 37 5 2 24 8.3 0 5 0.0 1 1 100.0 3 3 6 8 3 0 3 4 -10
+p88
+aVLavoy Allen PHI 04/03/2013 PHI @ CHA L 19 4 2 2 100.0 0 0 - 0 0 - 3 1 4 2 1 0 1 1 8
+p89
+aVJustin Holiday PHI 04/03/2013 PHI @ CHA L 7 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -1
+p90
+aVThaddeus Young PHI 04/03/2013 PHI @ CHA L 33 6 2 9 22.2 0 0 - 2 2 100.0 1 6 7 0 3 0 2 0 -14
+p91
+aVRoyal Ivey PHI 03/30/2013 PHI vs. CHA W 24 11 4 6 66.7 3 5 60.0 0 0 - 0 0 0 2 3 0 0 4 16
+p92
+aVThaddeus Young PHI 03/30/2013 PHI vs. CHA W 38 15 6 10 60.0 0 1 0.0 3 3 100.0 3 7 10 3 2 0 2 3 10
+p93
+aVEvan Turner PHI 03/30/2013 PHI vs. CHA W 32 22 8 14 57.1 1 3 33.3 5 6 83.3 0 7 7 3 0 0 2 2 -3
+p94
+aVJrue Holiday PHI 03/30/2013 PHI vs. CHA W 41 14 6 17 35.3 0 3 0.0 2 6 33.3 0 3 3 9 0 0 4 2 4
+p95
+aVLavoy Allen PHI 03/30/2013 PHI vs. CHA W 14 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 -8
+p96
+aVDamien Wilkins PHI 03/30/2013 PHI vs. CHA W 36 15 6 10 60.0 0 0 - 3 5 60.0 0 4 4 2 0 0 0 4 0
+p97
+aVDorell Wright PHI 03/30/2013 PHI vs. CHA W 20 3 0 4 0.0 0 2 0.0 3 3 100.0 0 2 2 3 1 0 0 3 6
+p98
+aVSpencer Hawes PHI 03/30/2013 PHI vs. CHA W 34 19 8 12 66.7 1 2 50.0 2 2 100.0 4 2 6 6 0 1 2 4 15
+p99
+aVRoyal Ivey PHI 03/29/2013 PHI @ CLE W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p100
+aVSpencer Hawes PHI 03/29/2013 PHI @ CLE W 36 16 7 17 41.2 2 3 66.7 0 0 - 3 8 11 5 0 2 1 1 15
+p101
+aVEvan Turner PHI 03/29/2013 PHI @ CLE W 38 23 9 17 52.9 2 6 33.3 3 4 75.0 2 11 13 4 0 0 1 3 10
+p102
+aVDorell Wright PHI 03/29/2013 PHI @ CLE W 21 3 1 6 16.7 1 5 20.0 0 0 - 1 2 3 1 0 1 0 1 -3
+p103
+aVDamien Wilkins PHI 03/29/2013 PHI @ CLE W 38 7 2 3 66.7 0 0 - 3 4 75.0 1 2 3 6 1 2 2 1 18
+p104
+aVThaddeus Young PHI 03/29/2013 PHI @ CLE W 41 18 9 13 69.2 0 0 - 0 2 0.0 3 3 6 1 1 0 1 2 10
+p105
+aVArnett Moultrie PHI 03/29/2013 PHI @ CLE W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -1
+p106
+aVLavoy Allen PHI 03/29/2013 PHI @ CLE W 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -6
+p107
+aVJrue Holiday PHI 03/29/2013 PHI @ CLE W 35 20 9 20 45.0 2 3 66.7 0 0 - 1 4 5 6 3 1 3 2 8
+p108
+aVJeremy Pargo PHI 03/29/2013 PHI @ CLE W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -2
+p109
+aVJrue Holiday PHI 03/27/2013 PHI vs. MIL W 37 18 6 17 35.3 2 3 66.7 4 4 100.0 2 2 4 6 0 0 6 4 -2
+p110
+aVEvan Turner PHI 03/27/2013 PHI vs. MIL W 38 13 6 11 54.5 1 2 50.0 0 0 - 0 7 7 4 0 0 2 1 22
+p111
+aVLavoy Allen PHI 03/27/2013 PHI vs. MIL W 16 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 1 2 2 9
+p112
+aVThaddeus Young PHI 03/27/2013 PHI vs. MIL W 37 14 7 12 58.3 0 0 - 0 0 - 4 3 7 2 2 2 2 2 1
+p113
+aVDorell Wright PHI 03/27/2013 PHI vs. MIL W 28 14 5 13 38.5 3 7 42.9 1 1 100.0 0 2 2 5 1 0 0 0 3
+p114
+aVDamien Wilkins PHI 03/27/2013 PHI vs. MIL W 26 18 7 15 46.7 1 3 33.3 3 4 75.0 3 2 5 4 2 0 3 2 -4
+p115
+aVArnett Moultrie PHI 03/27/2013 PHI vs. MIL W 6 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 0 0 4
+p116
+aVSpencer Hawes PHI 03/27/2013 PHI vs. MIL W 35 15 7 14 50.0 1 1 100.0 0 0 - 5 12 17 4 0 0 0 2 3
+p117
+aVRoyal Ivey PHI 03/27/2013 PHI vs. MIL W 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 4
+p118
+aVRoyal Ivey PHI 03/25/2013 PHI @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p119
+aVSpencer Hawes PHI 03/25/2013 PHI @ UTA L 29 14 4 7 57.1 0 0 - 6 7 85.7 2 6 8 0 0 3 1 4 -21
+p120
+aVEvan Turner PHI 03/25/2013 PHI @ UTA L 31 6 2 6 33.3 1 2 50.0 1 2 50.0 2 4 6 0 1 0 3 3 -16
+p121
+aVJrue Holiday PHI 03/25/2013 PHI @ UTA L 24 7 2 8 25.0 1 2 50.0 2 4 50.0 0 1 1 1 0 0 4 0 -28
+p122
+aVDamien Wilkins PHI 03/25/2013 PHI @ UTA L 23 13 5 9 55.6 0 2 0.0 3 4 75.0 0 0 0 1 1 0 2 2 -23
+p123
+aVThaddeus Young PHI 03/25/2013 PHI @ UTA L 17 6 3 7 42.9 0 0 - 0 0 - 3 1 4 1 0 0 1 2 -13
+p124
+aVJeremy Pargo PHI 03/25/2013 PHI @ UTA L 11 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -1
+p125
+aVCharles Jenkins PHI 03/25/2013 PHI @ UTA L 19 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 3
+p126
+aVArnett Moultrie PHI 03/25/2013 PHI @ UTA L 23 14 6 11 54.5 0 0 - 2 2 100.0 4 4 8 0 1 0 0 1 2
+p127
+aVDorell Wright PHI 03/25/2013 PHI @ UTA L 32 19 5 12 41.7 2 8 25.0 7 7 100.0 0 2 2 4 3 0 0 1 13
+p128
+aVLavoy Allen PHI 03/25/2013 PHI @ UTA L 27 6 3 14 21.4 0 0 - 0 0 - 3 5 8 1 0 2 2 3 0
+p129
+aVThaddeus Young PHI 03/24/2013 PHI @ SAC W 33 14 6 14 42.9 0 1 0.0 2 2 100.0 3 3 6 1 1 0 0 4 2
+p130
+aVEvan Turner PHI 03/24/2013 PHI @ SAC W 30 7 3 7 42.9 0 1 0.0 1 2 50.0 0 2 2 8 1 0 1 3 1
+p131
+aVArnett Moultrie PHI 03/24/2013 PHI @ SAC W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -3
+p132
+aVJrue Holiday PHI 03/24/2013 PHI @ SAC W 39 21 9 20 45.0 1 4 25.0 2 6 33.3 4 6 10 7 5 1 4 0 6
+p133
+aVDorell Wright PHI 03/24/2013 PHI @ SAC W 30 22 6 13 46.2 6 10 60.0 4 4 100.0 0 3 3 6 0 1 1 2 21
+p134
+aVSpencer Hawes PHI 03/24/2013 PHI @ SAC W 31 14 7 13 53.8 0 1 0.0 0 0 - 4 6 10 3 1 1 2 3 17
+p135
+aVRoyal Ivey PHI 03/24/2013 PHI @ SAC W 9 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 0 1
+p136
+aVLavoy Allen PHI 03/24/2013 PHI @ SAC W 22 20 9 13 69.2 0 0 - 2 2 100.0 3 4 7 1 0 0 0 1 12
+p137
+aVDamien Wilkins PHI 03/24/2013 PHI @ SAC W 40 17 6 13 46.2 1 3 33.3 4 5 80.0 2 4 6 3 1 1 0 2 13
+p138
+aVRoyal Ivey PHI 03/21/2013 PHI @ DEN L 17 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -12
+p139
+aVEvan Turner PHI 03/21/2013 PHI @ DEN L 31 12 6 12 50.0 0 2 0.0 0 2 0.0 0 4 4 0 2 0 6 3 7
+p140
+aVDorell Wright PHI 03/21/2013 PHI @ DEN L 15 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 2 1 -10
+p141
+aVArnett Moultrie PHI 03/21/2013 PHI @ DEN L 22 8 3 6 50.0 0 0 - 2 2 100.0 5 3 8 2 0 0 1 2 -11
+p142
+aVThaddeus Young PHI 03/21/2013 PHI @ DEN L 34 18 9 15 60.0 0 0 - 0 0 - 0 1 1 1 2 0 2 3 -5
+p143
+aVCharles Jenkins PHI 03/21/2013 PHI @ DEN L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p144
+aVDamien Wilkins PHI 03/21/2013 PHI @ DEN L 39 24 10 15 66.7 2 4 50.0 2 4 50.0 0 1 1 2 4 0 3 3 13
+p145
+aVSpencer Hawes PHI 03/21/2013 PHI @ DEN L 38 17 8 11 72.7 1 2 50.0 0 0 - 2 10 12 5 0 4 3 6 22
+p146
+aVJrue Holiday PHI 03/21/2013 PHI @ DEN L 38 18 6 12 50.0 3 5 60.0 3 3 100.0 0 6 6 15 4 1 5 3 5
+p147
+aVCharles Jenkins PHI 03/20/2013 PHI @ LAC L 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -6
+p148
+aVDamien Wilkins PHI 03/20/2013 PHI @ LAC L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -14
+p149
+aVJrue Holiday PHI 03/20/2013 PHI @ LAC L 33 2 1 8 12.5 0 2 0.0 0 0 - 1 5 6 4 3 0 4 2 -8
+p150
+aVEvan Turner PHI 03/20/2013 PHI @ LAC L 27 12 5 10 50.0 2 2 100.0 0 0 - 0 2 2 3 0 0 1 1 -9
+p151
+aVThaddeus Young PHI 03/20/2013 PHI @ LAC L 25 13 5 12 41.7 0 0 - 3 4 75.0 5 3 8 1 0 0 1 3 -4
+p152
+aVJeremy Pargo PHI 03/20/2013 PHI @ LAC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -11
+p153
+aVLavoy Allen PHI 03/20/2013 PHI @ LAC L 24 0 0 3 0.0 0 0 - 0 0 - 1 3 4 2 0 0 1 4 -23
+p154
+aVSpencer Hawes PHI 03/20/2013 PHI @ LAC L 32 16 5 13 38.5 1 3 33.3 5 6 83.3 1 6 7 7 2 4 4 3 -13
+p155
+aVNick Young PHI 03/20/2013 PHI @ LAC L 9 6 3 8 37.5 0 4 0.0 0 0 - 0 2 2 1 0 0 0 0 -8
+p156
+aVArnett Moultrie PHI 03/20/2013 PHI @ LAC L 15 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 1 0 2 0 -18
+p157
+aVDorell Wright PHI 03/20/2013 PHI @ LAC L 23 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 1 0 0 1 1 -19
+p158
+aVRoyal Ivey PHI 03/20/2013 PHI @ LAC L 19 7 3 8 37.5 1 5 20.0 0 0 - 0 0 0 0 0 0 2 4 -12
+p159
+aVDamien Wilkins PHI 03/18/2013 PHI vs. POR W 36 12 6 8 75.0 0 1 0.0 0 0 - 1 1 2 6 1 0 4 3 0
+p160
+aVJrue Holiday PHI 03/18/2013 PHI vs. POR W 41 27 11 21 52.4 3 6 50.0 2 2 100.0 3 5 8 6 1 1 1 1 -2
+p161
+aVArnett Moultrie PHI 03/18/2013 PHI vs. POR W 9 3 0 1 0.0 0 0 - 3 4 75.0 0 3 3 1 1 0 0 0 8
+p162
+aVLavoy Allen PHI 03/18/2013 PHI vs. POR W 5 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -4
+p163
+aVCharles Jenkins PHI 03/18/2013 PHI vs. POR W 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 7
+p164
+aVSpencer Hawes PHI 03/18/2013 PHI vs. POR W 40 18 9 14 64.3 0 1 0.0 0 0 - 1 12 13 4 0 2 4 3 8
+p165
+aVEvan Turner PHI 03/18/2013 PHI vs. POR W 25 2 1 8 12.5 0 0 - 0 0 - 0 3 3 4 0 0 0 2 -4
+p166
+aVDorell Wright PHI 03/18/2013 PHI vs. POR W 34 16 5 14 35.7 2 7 28.6 4 4 100.0 0 8 8 4 0 3 1 1 -1
+p167
+aVThaddeus Young PHI 03/18/2013 PHI vs. POR W 40 19 9 15 60.0 0 1 0.0 1 3 33.3 2 1 3 5 4 2 3 3 -7
+p168
+aVThaddeus Young PHI 03/16/2013 PHI vs. IND W 37 13 5 7 71.4 0 0 - 3 4 75.0 1 6 7 1 4 1 1 5 8
+p169
+aVCharles Jenkins PHI 03/16/2013 PHI vs. IND W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p170
+aVDamien Wilkins PHI 03/16/2013 PHI vs. IND W 33 12 4 11 36.4 0 2 0.0 4 6 66.7 1 0 1 3 0 3 1 1 1
+p171
+aVEvan Turner PHI 03/16/2013 PHI vs. IND W 34 11 5 11 45.5 0 2 0.0 1 2 50.0 0 4 4 2 1 0 2 4 7
+p172
+aVLavoy Allen PHI 03/16/2013 PHI vs. IND W 16 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 1 0 2 -4
+p173
+aVSpencer Hawes PHI 03/16/2013 PHI vs. IND W 34 18 7 14 50.0 1 1 100.0 3 4 75.0 2 14 16 8 0 7 3 4 12
+p174
+aVDorell Wright PHI 03/16/2013 PHI vs. IND W 29 13 4 6 66.7 3 5 60.0 2 2 100.0 0 2 2 1 1 0 1 1 10
+p175
+aVJrue Holiday PHI 03/16/2013 PHI vs. IND W 43 27 12 25 48.0 2 3 66.7 1 1 100.0 3 3 6 12 0 0 3 2 7
+p176
+aVArnett Moultrie PHI 03/16/2013 PHI vs. IND W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 2 0 2 -4
+p177
+aVLavoy Allen PHI 03/13/2013 PHI vs. MIA L 15 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 1 -1
+p178
+aVDorell Wright PHI 03/13/2013 PHI vs. MIA L 22 13 5 12 41.7 3 6 50.0 0 0 - 0 2 2 2 3 1 0 1 4
+p179
+aVArnett Moultrie PHI 03/13/2013 PHI vs. MIA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -3
+p180
+aVJrue Holiday PHI 03/13/2013 PHI vs. MIA L 43 21 9 18 50.0 3 5 60.0 0 2 0.0 4 3 7 7 3 1 3 1 -3
+p181
+aVCharles Jenkins PHI 03/13/2013 PHI vs. MIA L 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 4 0 0 0 0 -1
+p182
+aVSpencer Hawes PHI 03/13/2013 PHI vs. MIA L 23 6 2 5 40.0 0 0 - 2 2 100.0 1 4 5 2 0 0 2 5 -1
+p183
+aVNick Young PHI 03/13/2013 PHI vs. MIA L 6 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 1 0 1 1 2
+p184
+aVDamien Wilkins PHI 03/13/2013 PHI vs. MIA L 30 5 2 4 50.0 0 1 0.0 1 2 50.0 1 1 2 5 1 0 2 4 -7
+p185
+aVRoyal Ivey PHI 03/13/2013 PHI vs. MIA L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p186
+aVThaddeus Young PHI 03/13/2013 PHI vs. MIA L 37 24 11 20 55.0 0 0 - 2 2 100.0 5 10 15 3 0 1 1 4 -4
+p187
+aVEvan Turner PHI 03/13/2013 PHI vs. MIA L 38 15 7 13 53.8 0 2 0.0 1 2 50.0 0 3 3 5 1 0 2 4 -7
+p188
+aVArnett Moultrie PHI 03/11/2013 PHI vs. BKN W 10 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 2 1
+p189
+aVEvan Turner PHI 03/11/2013 PHI vs. BKN W 39 16 6 18 33.3 1 5 20.0 3 4 75.0 1 6 7 4 0 0 1 3 7
+p190
+aVCharles Jenkins PHI 03/11/2013 PHI vs. BKN W 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 1 0 0 0 7
+p191
+aVJrue Holiday PHI 03/11/2013 PHI vs. BKN W 38 15 4 8 50.0 1 1 100.0 6 8 75.0 0 0 0 11 1 0 1 3 1
+p192
+aVLavoy Allen PHI 03/11/2013 PHI vs. BKN W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 7
+p193
+aVRoyal Ivey PHI 03/11/2013 PHI vs. BKN W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 0 5
+p194
+aVDorell Wright PHI 03/11/2013 PHI vs. BKN W 20 15 6 10 60.0 3 5 60.0 0 0 - 0 1 1 2 1 0 2 0 6
+p195
+aVSpencer Hawes PHI 03/11/2013 PHI vs. BKN W 34 24 10 15 66.7 0 0 - 4 6 66.7 4 6 10 7 0 2 1 3 5
+p196
+aVThaddeus Young PHI 03/11/2013 PHI vs. BKN W 36 16 6 9 66.7 0 0 - 4 8 50.0 2 8 10 3 1 0 0 1 5
+p197
+aVDamien Wilkins PHI 03/11/2013 PHI vs. BKN W 26 13 5 8 62.5 2 3 66.7 1 1 100.0 0 0 0 2 0 2 1 0 1
+p198
+aVLavoy Allen PHI 03/10/2013 PHI @ ORL L 12 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 1 0 -11
+p199
+aVCharles Jenkins PHI 03/10/2013 PHI @ ORL L 13 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -5
+p200
+aVArnett Moultrie PHI 03/10/2013 PHI @ ORL L 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -1
+p201
+aVEvan Turner PHI 03/10/2013 PHI @ ORL L 28 6 2 5 40.0 2 2 100.0 0 0 - 0 2 2 2 0 0 2 0 7
+p202
+aVDamien Wilkins PHI 03/10/2013 PHI @ ORL L 37 16 6 12 50.0 1 3 33.3 3 3 100.0 0 1 1 6 0 3 4 1 -5
+p203
+aVDorell Wright PHI 03/10/2013 PHI @ ORL L 15 9 4 9 44.4 0 3 0.0 1 3 33.3 1 3 4 3 0 0 0 0 -2
+p204
+aVJrue Holiday PHI 03/10/2013 PHI @ ORL L 39 8 4 16 25.0 0 1 0.0 0 2 0.0 1 4 5 8 3 2 2 3 -6
+p205
+aVThaddeus Young PHI 03/10/2013 PHI @ ORL L 41 26 13 17 76.5 0 0 - 0 0 - 2 10 12 2 5 0 2 4 -10
+p206
+aVSpencer Hawes PHI 03/10/2013 PHI @ ORL L 32 15 6 12 50.0 1 1 100.0 2 2 100.0 1 6 7 4 0 0 0 2 4
+p207
+aVRoyal Ivey PHI 03/10/2013 PHI @ ORL L 13 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 2 -11
+p208
+aVArnett Moultrie PHI 03/08/2013 PHI @ MIA L 15 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 1 0 1 4
+p209
+aVDamien Wilkins PHI 03/08/2013 PHI @ MIA L 26 12 5 11 45.5 2 5 40.0 0 0 - 0 1 1 1 2 0 2 5 3
+p210
+aVDorell Wright PHI 03/08/2013 PHI @ MIA L 26 14 5 10 50.0 3 6 50.0 1 2 50.0 1 2 3 1 0 0 3 2 -18
+p211
+aVCharles Jenkins PHI 03/08/2013 PHI @ MIA L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 2 0 0 0 -1
+p212
+aVThaddeus Young PHI 03/08/2013 PHI @ MIA L 33 25 12 15 80.0 0 0 - 1 2 50.0 2 1 3 2 2 0 0 3 1
+p213
+aVJrue Holiday PHI 03/08/2013 PHI @ MIA L 41 9 3 11 27.3 1 3 33.3 2 2 100.0 0 4 4 13 1 0 4 2 4
+p214
+aVEvan Turner PHI 03/08/2013 PHI @ MIA L 37 10 4 13 30.8 2 4 50.0 0 0 - 1 4 5 3 2 0 2 1 -22
+p215
+aVSpencer Hawes PHI 03/08/2013 PHI @ MIA L 30 13 4 10 40.0 0 1 0.0 5 5 100.0 0 10 10 1 0 2 3 5 -10
+p216
+aVRoyal Ivey PHI 03/08/2013 PHI @ MIA L 16 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 1 0 1 1 -6
+p217
+aVArnett Moultrie PHI 03/06/2013 PHI @ ATL L 27 8 4 8 50.0 0 0 - 0 0 - 6 1 7 1 0 0 1 1 -5
+p218
+aVEvan Turner PHI 03/06/2013 PHI @ ATL L 23 2 1 7 14.3 0 1 0.0 0 0 - 0 3 3 4 0 0 0 0 -13
+p219
+aVJeremy Pargo PHI 03/06/2013 PHI @ ATL L 9 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 3 0 0 0 0 -11
+p220
+aVDamien Wilkins PHI 03/06/2013 PHI @ ATL L 22 21 8 11 72.7 2 2 100.0 3 4 75.0 3 3 6 1 0 0 1 2 -8
+p221
+aVJrue Holiday PHI 03/06/2013 PHI @ ATL L 38 11 3 12 25.0 1 3 33.3 4 5 80.0 2 2 4 12 1 1 4 0 7
+p222
+aVDorell Wright PHI 03/06/2013 PHI @ ATL L 32 20 6 16 37.5 3 8 37.5 5 6 83.3 0 9 9 1 3 0 2 2 -5
+p223
+aVSpencer Hawes PHI 03/06/2013 PHI @ ATL L 21 8 3 7 42.9 0 0 - 2 2 100.0 1 10 11 3 0 0 2 4 -6
+p224
+aVRoyal Ivey PHI 03/06/2013 PHI @ ATL L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 5 -14
+p225
+aVCharles Jenkins PHI 03/06/2013 PHI @ ATL L 29 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 5 2 1 1 0 2
+p226
+aVThaddeus Young PHI 03/06/2013 PHI @ ATL L 26 16 8 11 72.7 0 0 - 0 1 0.0 2 4 6 0 2 0 1 1 -2
+p227
+aVArnett Moultrie PHI 03/05/2013 PHI vs. BOS L 20 10 5 5 100.0 0 0 - 0 0 - 3 1 4 0 1 0 0 2 -13
+p228
+aVSpencer Hawes PHI 03/05/2013 PHI vs. BOS L 28 14 7 12 58.3 0 0 - 0 0 - 4 2 6 1 0 2 2 2 8
+p229
+aVEvan Turner PHI 03/05/2013 PHI vs. BOS L 44 18 6 19 31.6 1 4 25.0 5 5 100.0 3 6 9 7 2 0 2 5 -7
+p230
+aVDorell Wright PHI 03/05/2013 PHI vs. BOS L 23 10 3 13 23.1 2 7 28.6 2 2 100.0 0 7 7 2 2 0 2 2 -13
+p231
+aVThaddeus Young PHI 03/05/2013 PHI vs. BOS L 33 19 9 20 45.0 0 0 - 1 3 33.3 7 3 10 0 2 1 1 1 -11
+p232
+aVRoyal Ivey PHI 03/05/2013 PHI vs. BOS L 37 10 4 9 44.4 2 7 28.6 0 0 - 0 2 2 3 3 0 1 3 8
+p233
+aVDamien Wilkins PHI 03/05/2013 PHI vs. BOS L 11 2 1 4 25.0 0 0 - 0 2 0.0 0 1 1 1 0 0 1 1 -16
+p234
+aVJrue Holiday PHI 03/05/2013 PHI vs. BOS L 42 18 6 17 35.3 0 3 0.0 6 6 100.0 2 3 5 10 4 0 5 2 8
+p235
+aVLavoy Allen PHI 03/05/2013 PHI vs. BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p236
+aVLavoy Allen PHI 03/03/2013 PHI @ WAS L 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 0 2
+p237
+aVJrue Holiday PHI 03/03/2013 PHI @ WAS L 36 14 4 19 21.1 2 7 28.6 4 4 100.0 2 1 3 6 2 0 2 1 -2
+p238
+aVSpencer Hawes PHI 03/03/2013 PHI @ WAS L 39 14 6 11 54.5 1 2 50.0 1 2 50.0 2 9 11 3 0 1 1 4 -8
+p239
+aVJeremy Pargo PHI 03/03/2013 PHI @ WAS L 3 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -3
+p240
+aVThaddeus Young PHI 03/03/2013 PHI @ WAS L 34 14 5 12 41.7 0 0 - 4 6 66.7 2 4 6 2 3 0 1 2 2
+p241
+aVEvan Turner PHI 03/03/2013 PHI @ WAS L 34 11 4 13 30.8 0 0 - 3 4 75.0 1 9 10 4 0 0 1 4 8
+p242
+aVDorell Wright PHI 03/03/2013 PHI @ WAS L 26 15 5 10 50.0 3 6 50.0 2 2 100.0 0 3 3 2 1 1 0 2 -2
+p243
+aVArnett Moultrie PHI 03/03/2013 PHI @ WAS L 6 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p244
+aVRoyal Ivey PHI 03/03/2013 PHI @ WAS L 24 4 2 5 40.0 0 2 0.0 0 0 - 1 3 4 2 1 0 0 2 -12
+p245
+aVDamien Wilkins PHI 03/03/2013 PHI @ WAS L 22 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 0 1 1 3 3 2
+p246
+aVJrue Holiday PHI 03/02/2013 PHI vs. GSW W 42 27 11 20 55.0 3 5 60.0 2 2 100.0 2 3 5 7 4 0 8 2 9
+p247
+aVLavoy Allen PHI 03/02/2013 PHI vs. GSW W 28 4 2 7 28.6 0 0 - 0 0 - 1 4 5 4 2 0 1 4 15
+p248
+aVRoyal Ivey PHI 03/02/2013 PHI vs. GSW W 25 17 6 6 100.0 4 4 100.0 1 3 33.3 0 0 0 1 0 0 3 4 -7
+p249
+aVDorell Wright PHI 03/02/2013 PHI vs. GSW W 27 13 5 9 55.6 3 5 60.0 0 0 - 1 6 7 2 0 1 3 1 19
+p250
+aVThaddeus Young PHI 03/02/2013 PHI vs. GSW W 40 14 7 15 46.7 0 0 - 0 0 - 5 11 16 3 2 2 3 1 -3
+p251
+aVJeremy Pargo PHI 03/02/2013 PHI vs. GSW W 8 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 1 -3
+p252
+aVSpencer Hawes PHI 03/02/2013 PHI vs. GSW W 20 0 0 9 0.0 0 0 - 0 0 - 1 3 4 2 0 1 3 3 -8
+p253
+aVArnett Moultrie PHI 03/02/2013 PHI vs. GSW W 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 10
+p254
+aVEvan Turner PHI 03/02/2013 PHI vs. GSW W 43 22 10 15 66.7 2 3 66.7 0 2 0.0 1 9 10 9 1 1 2 1 3
+p255
+aVJrue Holiday PHI 02/28/2013 PHI @ CHI L 41 22 10 19 52.6 1 4 25.0 1 3 33.3 1 2 3 3 3 1 4 3 -13
+p256
+aVArnett Moultrie PHI 02/28/2013 PHI @ CHI L 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p257
+aVThaddeus Young PHI 02/28/2013 PHI @ CHI L 39 9 4 13 30.8 0 0 - 1 4 25.0 3 6 9 1 0 2 2 4 -21
+p258
+aVEvan Turner PHI 02/28/2013 PHI @ CHI L 39 12 6 16 37.5 0 1 0.0 0 1 0.0 0 8 8 4 2 0 3 5 -8
+p259
+aVLavoy Allen PHI 02/28/2013 PHI @ CHI L 14 2 1 4 25.0 0 0 - 0 0 - 2 3 5 1 0 1 1 4 4
+p260
+aVSpencer Hawes PHI 02/28/2013 PHI @ CHI L 37 20 7 18 38.9 0 1 0.0 6 6 100.0 5 10 15 1 0 2 0 5 -6
+p261
+aVDorell Wright PHI 02/28/2013 PHI @ CHI L 25 7 2 4 50.0 2 4 50.0 1 3 33.3 0 4 4 1 0 2 2 1 -7
+p262
+aVJeremy Pargo PHI 02/28/2013 PHI @ CHI L 13 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 0 -5
+p263
+aVNick Young PHI 02/28/2013 PHI @ CHI L 27 5 1 6 16.7 1 1 100.0 2 2 100.0 1 2 3 3 0 0 0 1 1
+p264
+aVEvan Turner PHI 02/26/2013 PHI vs. ORL L 28 10 2 7 28.6 0 0 - 6 10 60.0 1 7 8 2 0 0 2 0 -27
+p265
+aVDorell Wright PHI 02/26/2013 PHI vs. ORL L 16 11 4 11 36.4 3 8 37.5 0 0 - 0 7 7 3 0 0 0 1 3
+p266
+aVRoyal Ivey PHI 02/26/2013 PHI vs. ORL L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 1 -2
+p267
+aVSpencer Hawes PHI 02/26/2013 PHI vs. ORL L 21 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 1 0 1 2 1 -17
+p268
+aVJrue Holiday PHI 02/26/2013 PHI vs. ORL L 39 9 4 11 36.4 1 3 33.3 0 0 - 0 3 3 10 0 0 1 3 -12
+p269
+aVDamien Wilkins PHI 02/26/2013 PHI vs. ORL L 29 14 6 12 50.0 0 1 0.0 2 2 100.0 0 1 1 4 1 0 2 4 1
+p270
+aVArnett Moultrie PHI 02/26/2013 PHI vs. ORL L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p271
+aVJeremy Pargo PHI 02/26/2013 PHI vs. ORL L 21 14 5 8 62.5 2 3 66.7 2 3 66.7 0 0 0 3 0 0 3 1 2
+p272
+aVNick Young PHI 02/26/2013 PHI vs. ORL L 14 3 1 6 16.7 0 3 0.0 1 1 100.0 0 1 1 2 0 0 1 2 -9
+p273
+aVCharles Jenkins PHI 02/26/2013 PHI vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p274
+aVThaddeus Young PHI 02/26/2013 PHI vs. ORL L 34 8 4 11 36.4 0 0 - 0 0 - 5 5 10 0 3 0 0 1 -17
+p275
+aVLavoy Allen PHI 02/26/2013 PHI vs. ORL L 18 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 1 0 0 1 5
+p276
+aVThaddeus Young PHI 02/24/2013 PHI @ NYK L 36 11 5 12 41.7 0 0 - 1 3 33.3 3 7 10 1 4 0 0 5 9
+p277
+aVDorell Wright PHI 02/24/2013 PHI @ NYK L 14 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -20
+p278
+aVJrue Holiday PHI 02/24/2013 PHI @ NYK L 44 30 12 24 50.0 3 7 42.9 3 4 75.0 0 5 5 5 0 1 4 3 9
+p279
+aVLavoy Allen PHI 02/24/2013 PHI @ NYK L 22 10 5 6 83.3 0 0 - 0 0 - 2 6 8 0 1 0 1 4 -4
+p280
+aVJeremy Pargo PHI 02/24/2013 PHI @ NYK L 31 7 3 6 50.0 1 1 100.0 0 0 - 0 4 4 3 0 0 2 1 -5
+p281
+aVSpencer Hawes PHI 02/24/2013 PHI @ NYK L 29 10 3 11 27.3 0 0 - 4 4 100.0 5 4 9 1 0 1 2 2 -7
+p282
+aVEvan Turner PHI 02/24/2013 PHI @ NYK L 41 21 7 18 38.9 0 1 0.0 7 7 100.0 1 5 6 8 1 0 3 3 0
+p283
+aVDamien Wilkins PHI 02/24/2013 PHI @ NYK L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 -10
+p284
+aVNick Young PHI 02/24/2013 PHI @ NYK L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 2 -2
+p285
+aVJrue Holiday PHI 02/23/2013 PHI vs. MIA L 37 21 8 11 72.7 2 3 66.7 3 4 75.0 1 5 6 6 0 0 2 3 -16
+p286
+aVNick Young PHI 02/23/2013 PHI vs. MIA L 33 19 8 14 57.1 3 7 42.9 0 0 - 0 0 0 2 0 1 1 3 -17
+p287
+aVDamien Wilkins PHI 02/23/2013 PHI vs. MIA L 7 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -3
+p288
+aVSpencer Hawes PHI 02/23/2013 PHI vs. MIA L 25 2 1 5 20.0 0 0 - 0 0 - 0 2 2 3 0 1 2 2 -15
+p289
+aVJeremy Pargo PHI 02/23/2013 PHI vs. MIA L 22 7 2 4 50.0 1 3 33.3 2 2 100.0 0 2 2 5 0 0 1 0 -13
+p290
+aVLavoy Allen PHI 02/23/2013 PHI vs. MIA L 32 6 2 7 28.6 0 0 - 2 2 100.0 1 5 6 3 0 1 0 0 -14
+p291
+aVEvan Turner PHI 02/23/2013 PHI vs. MIA L 36 16 8 19 42.1 0 3 0.0 0 0 - 2 5 7 5 1 0 5 3 -17
+p292
+aVDorell Wright PHI 02/23/2013 PHI vs. MIA L 32 17 6 13 46.2 5 10 50.0 0 0 - 0 4 4 1 0 0 0 3 -16
+p293
+aVArnett Moultrie PHI 02/23/2013 PHI vs. MIA L 7 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -3
+p294
+aVRoyal Ivey PHI 02/23/2013 PHI vs. MIA L 8 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 1 -6
+p295
+aVJeremy Pargo PHI 02/20/2013 PHI @ MIN L 9 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 0
+p296
+aVJrue Holiday PHI 02/20/2013 PHI @ MIN L 35 16 7 17 41.2 0 1 0.0 2 4 50.0 1 2 3 5 5 0 4 6 -16
+p297
+aVKwame Brown PHI 02/20/2013 PHI @ MIN L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 3
+p298
+aVNick Young PHI 02/20/2013 PHI @ MIN L 32 6 1 7 14.3 0 1 0.0 4 9 44.4 2 3 5 3 0 0 0 3 -9
+p299
+aVEvan Turner PHI 02/20/2013 PHI @ MIN L 36 17 6 16 37.5 0 0 - 5 6 83.3 2 4 6 2 2 1 4 5 -8
+p300
+aVSpencer Hawes PHI 02/20/2013 PHI @ MIN L 32 9 3 9 33.3 0 1 0.0 3 4 75.0 2 6 8 3 0 1 2 4 -8
+p301
+aVDamien Wilkins PHI 02/20/2013 PHI @ MIN L 26 13 5 10 50.0 0 0 - 3 4 75.0 0 3 3 2 0 1 0 2 5
+p302
+aVDorell Wright PHI 02/20/2013 PHI @ MIN L 19 10 2 6 33.3 2 6 33.3 4 5 80.0 0 2 2 2 0 0 0 2 5
+p303
+aVRoyal Ivey PHI 02/20/2013 PHI @ MIN L 19 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 3 8
+p304
+aVLavoy Allen PHI 02/20/2013 PHI @ MIN L 26 8 4 9 44.4 0 0 - 0 0 - 2 4 6 1 1 2 0 3 -15
+p305
+aVArnett Moultrie PHI 02/13/2013 PHI @ MIL L 19 5 2 5 40.0 0 0 - 1 2 50.0 4 4 8 0 1 0 0 1 1
+p306
+aVDorell Wright PHI 02/13/2013 PHI @ MIL L 7 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 2
+p307
+aVNick Young PHI 02/13/2013 PHI @ MIL L 33 14 4 6 66.7 2 3 66.7 4 4 100.0 1 4 5 1 0 0 1 3 -2
+p308
+aVSpencer Hawes PHI 02/13/2013 PHI @ MIL L 41 19 7 14 50.0 0 1 0.0 5 6 83.3 2 7 9 2 0 1 1 3 -4
+p309
+aVJrue Holiday PHI 02/13/2013 PHI @ MIL L 39 16 6 17 35.3 1 2 50.0 3 4 75.0 1 4 5 12 2 1 5 4 0
+p310
+aVEvan Turner PHI 02/13/2013 PHI @ MIL L 41 20 8 19 42.1 0 2 0.0 4 4 100.0 0 3 3 1 0 0 4 2 1
+p311
+aVRoyal Ivey PHI 02/13/2013 PHI @ MIL L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 1 0 1 0
+p312
+aVLavoy Allen PHI 02/13/2013 PHI @ MIL L 26 7 3 7 42.9 0 1 0.0 1 2 50.0 3 4 7 0 0 1 0 5 -1
+p313
+aVJeremy Pargo PHI 02/13/2013 PHI @ MIL L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 1 0 3 2 -2
+p314
+aVDamien Wilkins PHI 02/13/2013 PHI @ MIL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p315
+aVJeremy Pargo PHI 02/11/2013 PHI vs. LAC L 24 10 4 12 33.3 1 3 33.3 1 4 25.0 0 1 1 0 0 0 1 3 -6
+p316
+aVSpencer Hawes PHI 02/11/2013 PHI vs. LAC L 29 5 2 7 28.6 0 0 - 1 2 50.0 4 6 10 3 0 0 4 3 -20
+p317
+aVJrue Holiday PHI 02/11/2013 PHI vs. LAC L 29 10 4 14 28.6 2 4 50.0 0 0 - 2 1 3 9 1 0 3 1 -22
+p318
+aVNick Young PHI 02/11/2013 PHI vs. LAC L 34 29 10 18 55.6 4 7 57.1 5 6 83.3 0 2 2 5 3 0 2 2 -12
+p319
+aVRoyal Ivey PHI 02/11/2013 PHI vs. LAC L 12 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 12
+p320
+aVDorell Wright PHI 02/11/2013 PHI vs. LAC L 15 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 3 0 0 1 0 1
+p321
+aVLavoy Allen PHI 02/11/2013 PHI vs. LAC L 29 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 -30
+p322
+aVDamien Wilkins PHI 02/11/2013 PHI vs. LAC L 10 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 3 1 0 0 2 13
+p323
+aVArnett Moultrie PHI 02/11/2013 PHI vs. LAC L 26 8 4 5 80.0 0 0 - 0 0 - 4 2 6 0 2 0 0 1 4
+p324
+aVEvan Turner PHI 02/11/2013 PHI vs. LAC L 32 10 4 14 28.6 0 1 0.0 2 2 100.0 3 2 5 3 0 0 1 2 -25
+p325
+aVJeremy Pargo PHI 02/09/2013 PHI vs. CHA W 29 12 4 9 44.4 1 2 50.0 3 3 100.0 1 3 4 6 0 0 1 5 -3
+p326
+aVEvan Turner PHI 02/09/2013 PHI vs. CHA W 40 16 7 17 41.2 0 1 0.0 2 2 100.0 1 9 10 4 0 0 4 4 22
+p327
+aVLavoy Allen PHI 02/09/2013 PHI vs. CHA W 41 14 7 16 43.8 0 0 - 0 0 - 11 11 22 3 0 1 1 2 18
+p328
+aVSpencer Hawes PHI 02/09/2013 PHI vs. CHA W 40 17 8 15 53.3 1 3 33.3 0 0 - 2 7 9 3 1 0 2 2 5
+p329
+aVNick Young PHI 02/09/2013 PHI vs. CHA W 19 5 2 8 25.0 0 5 0.0 1 2 50.0 0 2 2 1 0 0 0 4 14
+p330
+aVDorell Wright PHI 02/09/2013 PHI vs. CHA W 18 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 1 0 0 -11
+p331
+aVJrue Holiday PHI 02/09/2013 PHI vs. CHA W 39 20 10 23 43.5 0 3 0.0 0 0 - 0 3 3 7 0 0 3 1 11
+p332
+aVArnett Moultrie PHI 02/09/2013 PHI vs. CHA W 14 3 1 3 33.3 0 0 - 1 3 33.3 1 6 7 0 1 0 0 1 -1
+p333
+aVSpencer Hawes PHI 02/06/2013 PHI vs. IND L 34 6 3 13 23.1 0 0 - 0 0 - 6 4 10 3 0 2 0 3 -11
+p334
+aVEvan Turner PHI 02/06/2013 PHI vs. IND L 28 2 1 10 10.0 0 1 0.0 0 0 - 1 9 10 4 0 0 4 1 -22
+p335
+aVArnett Moultrie PHI 02/06/2013 PHI vs. IND L 21 12 6 9 66.7 0 0 - 0 0 - 3 0 3 0 2 1 0 2 -6
+p336
+aVDorell Wright PHI 02/06/2013 PHI vs. IND L 30 9 4 8 50.0 1 2 50.0 0 0 - 2 5 7 3 1 3 2 2 2
+p337
+aVRoyal Ivey PHI 02/06/2013 PHI vs. IND L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p338
+aVLavoy Allen PHI 02/06/2013 PHI vs. IND L 35 12 6 13 46.2 0 0 - 0 1 0.0 2 3 5 1 1 1 3 5 -15
+p339
+aVNick Young PHI 02/06/2013 PHI vs. IND L 40 9 4 12 33.3 0 2 0.0 1 1 100.0 2 3 5 3 1 0 0 3 -20
+p340
+aVJrue Holiday PHI 02/06/2013 PHI vs. IND L 40 19 7 22 31.8 1 2 50.0 4 5 80.0 0 6 6 4 3 1 5 1 -12
+p341
+aVKwame Brown PHI 02/06/2013 PHI vs. IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 0 1 0 -6
+p342
+aVSpencer Hawes PHI 02/04/2013 PHI vs. ORL W 37 21 9 17 52.9 1 3 33.3 2 3 66.7 1 13 14 3 0 1 2 3 20
+p343
+aVRoyal Ivey PHI 02/04/2013 PHI vs. ORL W 20 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 -5
+p344
+aVDorell Wright PHI 02/04/2013 PHI vs. ORL W 6 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 1 0 -3
+p345
+aVLavoy Allen PHI 02/04/2013 PHI vs. ORL W 30 10 5 9 55.6 0 0 - 0 0 - 1 5 6 0 1 3 0 0 -1
+p346
+aVNick Young PHI 02/04/2013 PHI vs. ORL W 36 15 7 15 46.7 1 7 14.3 0 0 - 1 5 6 2 4 2 2 2 19
+p347
+aVArnett Moultrie PHI 02/04/2013 PHI vs. ORL W 12 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 1 1 0 3
+p348
+aVDamien Wilkins PHI 02/04/2013 PHI vs. ORL W 9 0 0 2 0.0 0 1 0.0 0 0 - 2 0 2 0 0 0 1 2 7
+p349
+aVEvan Turner PHI 02/04/2013 PHI vs. ORL W 32 4 2 6 33.3 0 2 0.0 0 0 - 0 7 7 5 2 0 2 0 16
+p350
+aVThaddeus Young PHI 02/04/2013 PHI vs. ORL W 15 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 10
+p351
+aVShelvin Mack PHI 02/04/2013 PHI vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 1
+p352
+aVJrue Holiday PHI 02/04/2013 PHI vs. ORL W 41 13 6 15 40.0 0 1 0.0 1 2 50.0 0 4 4 14 1 0 1 1 18
+p353
+aVEvan Turner PHI 02/01/2013 PHI vs. SAC W 31 8 3 8 37.5 0 1 0.0 2 4 50.0 1 5 6 6 2 0 4 1 11
+p354
+aVRoyal Ivey PHI 02/01/2013 PHI vs. SAC W 19 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 3 13
+p355
+aVNick Young PHI 02/01/2013 PHI vs. SAC W 34 20 6 12 50.0 1 5 20.0 7 7 100.0 0 4 4 0 1 1 2 2 -7
+p356
+aVJrue Holiday PHI 02/01/2013 PHI vs. SAC W 44 21 9 18 50.0 1 2 50.0 2 2 100.0 1 5 6 7 1 2 8 4 13
+p357
+aVDorell Wright PHI 02/01/2013 PHI vs. SAC W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 5 5 1 0 0 1 3 -6
+p358
+aVThaddeus Young PHI 02/01/2013 PHI vs. SAC W 42 23 11 17 64.7 0 1 0.0 1 2 50.0 5 10 15 2 2 0 0 2 16
+p359
+aVLavoy Allen PHI 02/01/2013 PHI vs. SAC W 27 4 2 4 50.0 0 0 - 0 2 0.0 1 7 8 3 0 1 0 1 14
+p360
+aVSpencer Hawes PHI 02/01/2013 PHI vs. SAC W 26 10 4 13 30.8 0 1 0.0 2 2 100.0 0 1 1 1 0 0 3 2 -9
+p361
+aVJrue Holiday PHI 01/30/2013 PHI vs. WAS W 41 21 10 22 45.5 0 2 0.0 1 2 50.0 0 3 3 6 4 0 6 2 6
+p362
+aVDorell Wright PHI 01/30/2013 PHI vs. WAS W 16 7 3 6 50.0 1 2 50.0 0 0 - 2 5 7 5 2 0 0 0 10
+p363
+aVRoyal Ivey PHI 01/30/2013 PHI vs. WAS W 16 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 3 10
+p364
+aVNick Young PHI 01/30/2013 PHI vs. WAS W 36 18 7 17 41.2 3 6 50.0 1 2 50.0 1 3 4 4 2 0 1 3 0
+p365
+aVEvan Turner PHI 01/30/2013 PHI vs. WAS W 37 6 3 11 27.3 0 1 0.0 0 0 - 0 4 4 3 0 1 1 0 0
+p366
+aVSpencer Hawes PHI 01/30/2013 PHI vs. WAS W 38 12 4 13 30.8 1 1 100.0 3 4 75.0 2 9 11 4 0 4 0 1 -2
+p367
+aVThaddeus Young PHI 01/30/2013 PHI vs. WAS W 34 14 6 15 40.0 1 1 100.0 1 2 50.0 3 5 8 2 1 1 1 3 2
+p368
+aVLavoy Allen PHI 01/30/2013 PHI vs. WAS W 22 14 7 10 70.0 0 0 - 0 0 - 3 3 6 0 0 0 0 5 14
+p369
+aVArnett Moultrie PHI 01/30/2013 PHI vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p370
+aVEvan Turner PHI 01/28/2013 PHI vs. MEM L 40 27 12 18 66.7 0 0 - 3 4 75.0 0 3 3 7 1 0 1 2 5
+p371
+aVJrue Holiday PHI 01/28/2013 PHI vs. MEM L 40 18 9 19 47.4 0 1 0.0 0 0 - 1 2 3 10 1 0 4 1 -2
+p372
+aVRoyal Ivey PHI 01/28/2013 PHI vs. MEM L 17 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 3 1 0 1 2 -2
+p373
+aVShelvin Mack PHI 01/28/2013 PHI vs. MEM L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p374
+aVDamien Wilkins PHI 01/28/2013 PHI vs. MEM L 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -8
+p375
+aVThaddeus Young PHI 01/28/2013 PHI vs. MEM L 40 23 11 19 57.9 0 1 0.0 1 2 50.0 3 4 7 2 4 1 0 3 5
+p376
+aVLavoy Allen PHI 01/28/2013 PHI vs. MEM L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -2
+p377
+aVKwame Brown PHI 01/28/2013 PHI vs. MEM L 11 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 0 1
+p378
+aVNick Young PHI 01/28/2013 PHI vs. MEM L 33 13 5 13 38.5 2 4 50.0 1 1 100.0 0 2 2 1 1 1 1 0 -4
+p379
+aVSpencer Hawes PHI 01/28/2013 PHI vs. MEM L 36 8 4 7 57.1 0 1 0.0 0 0 - 0 4 4 1 0 1 2 3 -5
+p380
+aVJrue Holiday PHI 01/26/2013 PHI vs. NYK W 38 35 16 25 64.0 1 4 25.0 2 3 66.7 0 5 5 6 1 0 1 2 30
+p381
+aVSpencer Hawes PHI 01/26/2013 PHI vs. NYK W 29 4 2 4 50.0 0 1 0.0 0 2 0.0 1 4 5 1 0 4 2 3 16
+p382
+aVNick Young PHI 01/26/2013 PHI vs. NYK W 41 20 5 12 41.7 3 7 42.9 7 8 87.5 0 4 4 4 1 0 0 2 13
+p383
+aVThaddeus Young PHI 01/26/2013 PHI vs. NYK W 36 10 4 8 50.0 0 1 0.0 2 2 100.0 0 4 4 1 0 1 0 3 30
+p384
+aVLavoy Allen PHI 01/26/2013 PHI vs. NYK W 14 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 0 0 0 1 3 6
+p385
+aVShelvin Mack PHI 01/26/2013 PHI vs. NYK W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p386
+aVEvan Turner PHI 01/26/2013 PHI vs. NYK W 37 20 8 14 57.1 1 1 100.0 3 5 60.0 0 6 6 3 2 0 4 2 20
+p387
+aVRoyal Ivey PHI 01/26/2013 PHI vs. NYK W 18 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 2 -13
+p388
+aVDamien Wilkins PHI 01/26/2013 PHI vs. NYK W 21 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 1 2 0 2 4 -6
+p389
+aVArnett Moultrie PHI 01/26/2013 PHI vs. NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p390
+aVEvan Turner PHI 01/22/2013 PHI @ MIL L 45 23 8 19 42.1 4 7 57.1 3 4 75.0 0 6 6 7 1 1 2 4 -7
+p391
+aVJrue Holiday PHI 01/22/2013 PHI @ MIL L 40 9 3 12 25.0 0 1 0.0 3 4 75.0 3 3 6 12 0 1 8 5 -12
+p392
+aVRoyal Ivey PHI 01/22/2013 PHI @ MIL L 19 8 3 3 100.0 2 2 100.0 0 0 - 3 1 4 0 1 0 0 0 -11
+p393
+aVLavoy Allen PHI 01/22/2013 PHI @ MIL L 12 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 1 1 1 -1
+p394
+aVThaddeus Young PHI 01/22/2013 PHI @ MIL L 38 11 5 16 31.3 0 0 - 1 2 50.0 4 5 9 2 2 0 2 1 -2
+p395
+aVDamien Wilkins PHI 01/22/2013 PHI @ MIL L 14 6 3 6 50.0 0 0 - 0 0 - 0 1 1 2 2 0 0 2 0
+p396
+aVSpencer Hawes PHI 01/22/2013 PHI @ MIL L 36 21 10 16 62.5 0 1 0.0 1 1 100.0 6 6 12 2 0 0 1 4 -7
+p397
+aVDorell Wright PHI 01/22/2013 PHI @ MIL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p398
+aVNick Young PHI 01/22/2013 PHI @ MIL L 32 20 8 16 50.0 2 5 40.0 2 2 100.0 1 2 3 3 0 0 2 4 5
+p399
+aVSpencer Hawes PHI 01/21/2013 PHI vs. SAS L 35 16 7 12 58.3 1 2 50.0 1 2 50.0 1 5 6 4 1 3 1 1 14
+p400
+aVLavoy Allen PHI 01/21/2013 PHI vs. SAS L 17 2 1 3 33.3 0 0 - 0 0 - 3 5 8 0 1 0 0 2 -3
+p401
+aVJrue Holiday PHI 01/21/2013 PHI vs. SAS L 37 15 7 20 35.0 0 1 0.0 1 1 100.0 0 2 2 8 4 0 6 0 -16
+p402
+aVDamien Wilkins PHI 01/21/2013 PHI vs. SAS L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p403
+aVEvan Turner PHI 01/21/2013 PHI vs. SAS L 42 18 8 15 53.3 1 2 50.0 1 1 100.0 1 11 12 7 0 0 3 4 -10
+p404
+aVThaddeus Young PHI 01/21/2013 PHI vs. SAS L 39 14 7 14 50.0 0 0 - 0 2 0.0 1 5 6 2 0 3 3 3 -17
+p405
+aVDorell Wright PHI 01/21/2013 PHI vs. SAS L 16 3 1 5 20.0 0 3 0.0 1 2 50.0 0 4 4 3 0 0 0 1 -6
+p406
+aVShelvin Mack PHI 01/21/2013 PHI vs. SAS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p407
+aVNick Young PHI 01/21/2013 PHI vs. SAS L 31 12 4 10 40.0 1 4 25.0 3 3 100.0 0 3 3 1 0 0 1 4 8
+p408
+aVRoyal Ivey PHI 01/21/2013 PHI vs. SAS L 16 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 5
+p409
+aVNick Young PHI 01/18/2013 PHI vs. TOR W 29 9 4 11 36.4 1 5 20.0 0 0 - 0 4 4 1 0 0 0 0 13
+p410
+aVThaddeus Young PHI 01/18/2013 PHI vs. TOR W 45 27 13 19 68.4 0 0 - 1 2 50.0 4 10 14 2 3 1 3 1 8
+p411
+aVRoyal Ivey PHI 01/18/2013 PHI vs. TOR W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -11
+p412
+aVDamien Wilkins PHI 01/18/2013 PHI vs. TOR W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -6
+p413
+aVSpencer Hawes PHI 01/18/2013 PHI vs. TOR W 27 12 5 8 62.5 0 2 0.0 2 2 100.0 4 1 5 3 0 1 2 1 4
+p414
+aVLavoy Allen PHI 01/18/2013 PHI vs. TOR W 30 12 6 9 66.7 0 0 - 0 0 - 1 5 6 1 0 3 1 1 7
+p415
+aVJrue Holiday PHI 01/18/2013 PHI vs. TOR W 46 33 13 23 56.5 1 4 25.0 6 8 75.0 1 4 5 14 3 0 3 3 7
+p416
+aVJason Richardson PHI 01/18/2013 PHI vs. TOR W 28 7 3 11 27.3 1 6 16.7 0 0 - 0 2 2 1 0 0 0 3 13
+p417
+aVEvan Turner PHI 01/18/2013 PHI vs. TOR W 39 8 3 8 37.5 1 2 50.0 1 2 50.0 0 2 2 7 0 0 2 6 11
+p418
+aVDorell Wright PHI 01/18/2013 PHI vs. TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p419
+aVThaddeus Young PHI 01/15/2013 PHI vs. NOH L 39 12 6 18 33.3 0 0 - 0 1 0.0 4 2 6 3 1 2 1 2 -4
+p420
+aVJrue Holiday PHI 01/15/2013 PHI vs. NOH L 36 29 10 17 58.8 4 5 80.0 5 5 100.0 1 4 5 11 4 0 4 3 -22
+p421
+aVRoyal Ivey PHI 01/15/2013 PHI vs. NOH L 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -8
+p422
+aVJason Richardson PHI 01/15/2013 PHI vs. NOH L 20 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 2 0 0 0 2 -12
+p423
+aVEvan Turner PHI 01/15/2013 PHI vs. NOH L 35 14 5 12 41.7 1 2 50.0 3 4 75.0 2 5 7 3 0 0 2 3 -9
+p424
+aVKwame Brown PHI 01/15/2013 PHI vs. NOH L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 9
+p425
+aVSpencer Hawes PHI 01/15/2013 PHI vs. NOH L 21 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 2 1 -9
+p426
+aVLavoy Allen PHI 01/15/2013 PHI vs. NOH L 15 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 2 4 -9
+p427
+aVDorell Wright PHI 01/15/2013 PHI vs. NOH L 26 7 2 6 33.3 1 4 25.0 2 2 100.0 2 4 6 6 0 0 0 0 5
+p428
+aVDamien Wilkins PHI 01/15/2013 PHI vs. NOH L 19 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -7
+p429
+aVNick Young PHI 01/15/2013 PHI vs. NOH L 12 14 6 9 66.7 2 4 50.0 0 1 0.0 0 1 1 1 0 0 1 1 6
+p430
+aVDorell Wright PHI 01/12/2013 PHI vs. HOU W 26 8 3 6 50.0 2 5 40.0 0 0 - 1 4 5 3 1 1 0 0 13
+p431
+aVSpencer Hawes PHI 01/12/2013 PHI vs. HOU W 26 10 5 9 55.6 0 1 0.0 0 0 - 0 8 8 3 1 3 1 4 14
+p432
+aVJrue Holiday PHI 01/12/2013 PHI vs. HOU W 39 30 11 22 50.0 1 3 33.3 7 7 100.0 1 2 3 9 4 1 6 1 5
+p433
+aVJason Richardson PHI 01/12/2013 PHI vs. HOU W 32 16 7 15 46.7 2 7 28.6 0 0 - 1 3 4 1 0 0 0 2 7
+p434
+aVLavoy Allen PHI 01/12/2013 PHI vs. HOU W 21 3 1 6 16.7 0 0 - 1 2 50.0 2 2 4 1 0 0 0 3 -3
+p435
+aVDamien Wilkins PHI 01/12/2013 PHI vs. HOU W 11 7 1 3 33.3 0 0 - 5 6 83.3 0 0 0 0 0 0 1 1 -2
+p436
+aVEvan Turner PHI 01/12/2013 PHI vs. HOU W 34 12 6 10 60.0 0 1 0.0 0 0 - 0 7 7 6 0 0 2 1 -8
+p437
+aVThaddeus Young PHI 01/12/2013 PHI vs. HOU W 36 18 8 14 57.1 0 0 - 2 4 50.0 3 9 12 3 2 0 1 3 9
+p438
+aVRoyal Ivey PHI 01/12/2013 PHI vs. HOU W 15 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 0
+p439
+aVDamien Wilkins PHI 01/09/2013 PHI @ TOR L 18 4 2 6 33.3 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -8
+p440
+aVSpencer Hawes PHI 01/09/2013 PHI @ TOR L 28 6 2 8 25.0 0 0 - 2 2 100.0 2 7 9 2 0 2 2 4 -15
+p441
+aVRoyal Ivey PHI 01/09/2013 PHI @ TOR L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 1 1 2 -6
+p442
+aVThaddeus Young PHI 01/09/2013 PHI @ TOR L 38 16 6 12 50.0 0 0 - 4 6 66.7 2 5 7 3 0 0 0 1 -10
+p443
+aVJrue Holiday PHI 01/09/2013 PHI @ TOR L 39 16 7 18 38.9 0 3 0.0 2 4 50.0 1 2 3 4 0 0 3 1 -16
+p444
+aVLavoy Allen PHI 01/09/2013 PHI @ TOR L 20 8 4 6 66.7 0 0 - 0 1 0.0 2 2 4 1 0 1 0 1 -8
+p445
+aVEvan Turner PHI 01/09/2013 PHI @ TOR L 41 10 4 15 26.7 1 3 33.3 1 2 50.0 0 7 7 5 2 1 4 1 -10
+p446
+aVNick Young PHI 01/09/2013 PHI @ TOR L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 1 2 1 -3
+p447
+aVDorell Wright PHI 01/09/2013 PHI @ TOR L 32 7 2 4 50.0 0 1 0.0 3 4 75.0 0 2 2 0 1 0 0 2 -14
+p448
+aVThaddeus Young PHI 01/08/2013 PHI vs. BKN L 30 9 4 8 50.0 0 0 - 1 2 50.0 2 4 6 1 0 1 0 1 -21
+p449
+aVLavoy Allen PHI 01/08/2013 PHI vs. BKN L 23 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 0 0 2 2 -15
+p450
+aVDorell Wright PHI 01/08/2013 PHI vs. BKN L 20 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 3 0 0 0 2 -6
+p451
+aVMaalik Wayns PHI 01/08/2013 PHI vs. BKN L 9 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 1
+p452
+aVJason Richardson PHI 01/08/2013 PHI vs. BKN L 19 6 3 9 33.3 0 4 0.0 0 0 - 0 1 1 0 1 0 1 0 -12
+p453
+aVArnett Moultrie PHI 01/08/2013 PHI vs. BKN L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 1
+p454
+aVSpencer Hawes PHI 01/08/2013 PHI vs. BKN L 24 14 6 9 66.7 2 2 100.0 0 2 0.0 0 1 1 4 0 2 1 4 -5
+p455
+aVEvan Turner PHI 01/08/2013 PHI vs. BKN L 36 8 4 11 36.4 0 2 0.0 0 0 - 1 6 7 5 0 0 2 2 -10
+p456
+aVNick Young PHI 01/08/2013 PHI vs. BKN L 22 11 4 9 44.4 1 2 50.0 2 2 100.0 0 1 1 1 1 0 1 0 3
+p457
+aVDamien Wilkins PHI 01/08/2013 PHI vs. BKN L 21 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 0 0 1 1 -1
+p458
+aVJrue Holiday PHI 01/08/2013 PHI vs. BKN L 30 19 7 11 63.6 3 3 100.0 2 2 100.0 0 3 3 8 1 0 4 2 -25
+p459
+aVKwame Brown PHI 01/05/2013 PHI @ SAS L 8 0 0 0 - 0 0 - 0 2 0.0 1 2 3 0 0 0 1 2 -1
+p460
+aVDorell Wright PHI 01/05/2013 PHI @ SAS L 31 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 1 2 0 0 3 -7
+p461
+aVThaddeus Young PHI 01/05/2013 PHI @ SAS L 28 11 5 13 38.5 0 1 0.0 1 4 25.0 0 5 5 1 0 2 0 2 -18
+p462
+aVJason Richardson PHI 01/05/2013 PHI @ SAS L 25 11 4 10 40.0 2 4 50.0 1 2 50.0 0 2 2 2 1 1 1 3 -23
+p463
+aVJrue Holiday PHI 01/05/2013 PHI @ SAS L 33 11 5 15 33.3 1 2 50.0 0 0 - 2 6 8 8 0 1 5 1 -24
+p464
+aVNick Young PHI 01/05/2013 PHI @ SAS L 24 10 4 11 36.4 0 2 0.0 2 2 100.0 2 1 3 0 1 0 1 1 -7
+p465
+aVSpencer Hawes PHI 01/05/2013 PHI @ SAS L 28 22 10 13 76.9 0 0 - 2 2 100.0 0 6 6 1 1 0 2 2 -4
+p466
+aVMaalik Wayns PHI 01/05/2013 PHI @ SAS L 8 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -3
+p467
+aVDamien Wilkins PHI 01/05/2013 PHI @ SAS L 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 0 0 -1
+p468
+aVLavoy Allen PHI 01/05/2013 PHI @ SAS L 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 3 0 2 -14
+p469
+aVEvan Turner PHI 01/05/2013 PHI @ SAS L 31 12 4 13 30.8 0 4 0.0 4 4 100.0 0 7 7 5 3 0 3 1 -13
+p470
+aVJrue Holiday PHI 01/04/2013 PHI @ OKC L 32 15 7 13 53.8 1 6 16.7 0 0 - 0 1 1 9 0 0 4 3 -12
+p471
+aVDamien Wilkins PHI 01/04/2013 PHI @ OKC L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p472
+aVDorell Wright PHI 01/04/2013 PHI @ OKC L 25 11 4 8 50.0 3 6 50.0 0 0 - 0 1 1 2 3 0 2 2 -17
+p473
+aVMaalik Wayns PHI 01/04/2013 PHI @ OKC L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p474
+aVLavoy Allen PHI 01/04/2013 PHI @ OKC L 27 8 4 10 40.0 0 0 - 0 0 - 4 2 6 1 0 1 2 2 -19
+p475
+aVSpencer Hawes PHI 01/04/2013 PHI @ OKC L 31 6 3 11 27.3 0 1 0.0 0 0 - 5 8 13 0 0 2 3 3 -14
+p476
+aVJason Richardson PHI 01/04/2013 PHI @ OKC L 29 9 4 10 40.0 1 3 33.3 0 0 - 0 4 4 2 1 0 0 1 -8
+p477
+aVNick Young PHI 01/04/2013 PHI @ OKC L 28 21 5 12 41.7 5 7 71.4 6 8 75.0 1 3 4 1 1 0 3 2 -14
+p478
+aVEvan Turner PHI 01/04/2013 PHI @ OKC L 30 5 2 7 28.6 1 1 100.0 0 0 - 0 6 6 5 2 0 6 2 -14
+p479
+aVThaddeus Young PHI 01/04/2013 PHI @ OKC L 30 10 5 10 50.0 0 0 - 0 0 - 2 2 4 1 1 1 0 3 -11
+p480
+aVNick Young PHI 01/02/2013 PHI @ PHX L 20 12 3 7 42.9 2 3 66.7 4 4 100.0 0 0 0 1 1 0 1 0 2
+p481
+aVRoyal Ivey PHI 01/02/2013 PHI @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p482
+aVDorell Wright PHI 01/02/2013 PHI @ PHX L 30 14 6 9 66.7 2 4 50.0 0 0 - 0 3 3 2 0 0 2 2 -2
+p483
+aVThaddeus Young PHI 01/02/2013 PHI @ PHX L 36 14 6 10 60.0 0 0 - 2 2 100.0 2 8 10 2 2 0 0 4 -10
+p484
+aVLavoy Allen PHI 01/02/2013 PHI @ PHX L 35 10 5 11 45.5 0 0 - 0 0 - 3 6 9 2 0 0 0 1 4
+p485
+aVSpencer Hawes PHI 01/02/2013 PHI @ PHX L 24 6 3 11 27.3 0 1 0.0 0 0 - 2 5 7 3 0 1 3 2 -8
+p486
+aVJason Richardson PHI 01/02/2013 PHI @ PHX L 19 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -2
+p487
+aVEvan Turner PHI 01/02/2013 PHI @ PHX L 34 13 6 16 37.5 0 2 0.0 1 2 50.0 0 2 2 1 2 0 3 4 -4
+p488
+aVJrue Holiday PHI 01/02/2013 PHI @ PHX L 39 16 6 16 37.5 1 3 33.3 3 4 75.0 3 7 10 10 2 2 6 3 -3
+p489
+aVJrue Holiday PHI 01/01/2013 PHI @ LAL W 39 26 10 19 52.6 2 5 40.0 4 4 100.0 0 2 2 10 2 0 1 1 2
+p490
+aVKwame Brown PHI 01/01/2013 PHI @ LAL W 15 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 0 1 2 3 -4
+p491
+aVLavoy Allen PHI 01/01/2013 PHI @ LAL W 18 10 5 8 62.5 0 0 - 0 0 - 3 3 6 0 1 1 1 5 6
+p492
+aVSpencer Hawes PHI 01/01/2013 PHI @ LAL W 27 13 5 9 55.6 0 1 0.0 3 4 75.0 1 4 5 6 0 4 1 2 0
+p493
+aVNick Young PHI 01/01/2013 PHI @ LAL W 14 1 0 3 0.0 0 1 0.0 1 2 50.0 0 5 5 1 0 0 2 1 2
+p494
+aVJason Richardson PHI 01/01/2013 PHI @ LAL W 27 9 4 11 36.4 1 6 16.7 0 2 0.0 0 2 2 3 0 0 2 3 1
+p495
+aVThaddeus Young PHI 01/01/2013 PHI @ LAL W 36 12 6 15 40.0 0 0 - 0 0 - 0 5 5 2 1 0 0 5 6
+p496
+aVDorell Wright PHI 01/01/2013 PHI @ LAL W 23 10 3 6 50.0 3 6 50.0 1 1 100.0 0 7 7 0 0 0 0 1 4
+p497
+aVEvan Turner PHI 01/01/2013 PHI @ LAL W 41 22 8 14 57.1 2 3 66.7 4 7 57.1 1 12 13 5 2 1 1 1 3
+p498
+aVLavoy Allen PHI 12/29/2012 PHI @ POR L 31 8 4 9 44.4 0 0 - 0 1 0.0 3 5 8 1 1 1 0 2 -3
+p499
+aVJrue Holiday PHI 12/29/2012 PHI @ POR L 41 29 13 23 56.5 1 2 50.0 2 2 100.0 4 5 9 9 0 1 7 1 2
+p500
+aVNick Young PHI 12/29/2012 PHI @ POR L 24 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 0 1 1 0 0 -2
+p501
+aVThaddeus Young PHI 12/29/2012 PHI @ POR L 34 17 8 15 53.3 0 0 - 1 2 50.0 2 2 4 2 1 0 2 3 -6
+p502
+aVJason Richardson PHI 12/29/2012 PHI @ POR L 22 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 1 0 0 1 0 3
+p503
+aVSpencer Hawes PHI 12/29/2012 PHI @ POR L 25 10 2 10 20.0 0 2 0.0 6 6 100.0 4 7 11 1 0 0 1 2 -2
+p504
+aVEvan Turner PHI 12/29/2012 PHI @ POR L 35 4 2 7 28.6 0 2 0.0 0 0 - 0 4 4 3 2 0 2 2 -2
+p505
+aVDorell Wright PHI 12/29/2012 PHI @ POR L 21 2 1 7 14.3 0 4 0.0 0 0 - 0 5 5 2 0 0 0 2 -3
+p506
+aVRoyal Ivey PHI 12/29/2012 PHI @ POR L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p507
+aVKwame Brown PHI 12/28/2012 PHI @ GSW L 16 0 0 1 0.0 0 0 - 0 0 - 1 7 8 1 1 0 0 2 4
+p508
+aVDorell Wright PHI 12/28/2012 PHI @ GSW L 23 8 3 9 33.3 1 5 20.0 1 2 50.0 0 5 5 1 1 3 0 1 -5
+p509
+aVNick Young PHI 12/28/2012 PHI @ GSW L 26 13 5 17 29.4 2 7 28.6 1 2 50.0 2 2 4 3 0 0 0 1 2
+p510
+aVRoyal Ivey PHI 12/28/2012 PHI @ GSW L 25 5 1 2 50.0 1 2 50.0 2 4 50.0 1 0 1 0 1 0 0 2 9
+p511
+aVLavoy Allen PHI 12/28/2012 PHI @ GSW L 30 11 4 6 66.7 0 0 - 3 4 75.0 4 3 7 1 0 0 1 4 -6
+p512
+aVThaddeus Young PHI 12/28/2012 PHI @ GSW L 37 19 9 16 56.3 0 0 - 1 2 50.0 0 10 10 4 5 0 1 2 -10
+p513
+aVSpencer Hawes PHI 12/28/2012 PHI @ GSW L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 2 5 -7
+p514
+aVEvan Turner PHI 12/28/2012 PHI @ GSW L 33 10 5 14 35.7 0 1 0.0 0 2 0.0 0 5 5 4 4 0 3 1 -10
+p515
+aVJrue Holiday PHI 12/28/2012 PHI @ GSW L 40 21 7 19 36.8 1 4 25.0 6 7 85.7 1 1 2 10 2 0 2 1 -12
+p516
+aVJrue Holiday PHI 12/26/2012 PHI @ MEM W 37 13 5 16 31.3 1 2 50.0 2 2 100.0 1 3 4 9 0 0 5 2 6
+p517
+aVLavoy Allen PHI 12/26/2012 PHI @ MEM W 27 6 2 6 33.3 0 0 - 2 4 50.0 3 3 6 1 0 0 2 4 -8
+p518
+aVThaddeus Young PHI 12/26/2012 PHI @ MEM W 37 13 6 10 60.0 0 0 - 1 2 50.0 1 1 2 0 3 4 0 0 2
+p519
+aVEvan Turner PHI 12/26/2012 PHI @ MEM W 41 1 0 4 0.0 0 0 - 1 2 50.0 0 6 6 9 2 1 6 2 3
+p520
+aVRoyal Ivey PHI 12/26/2012 PHI @ MEM W 11 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 0 0 0 0 0 4
+p521
+aVNick Young PHI 12/26/2012 PHI @ MEM W 21 12 5 7 71.4 1 3 33.3 1 1 100.0 0 4 4 2 0 0 0 1 9
+p522
+aVSpencer Hawes PHI 12/26/2012 PHI @ MEM W 31 20 9 14 64.3 0 1 0.0 2 4 50.0 3 6 9 1 3 5 3 4 24
+p523
+aVDorell Wright PHI 12/26/2012 PHI @ MEM W 35 28 8 11 72.7 5 8 62.5 7 8 87.5 0 6 6 1 1 2 0 2 10
+p524
+aVLavoy Allen PHI 12/23/2012 PHI @ BKN L 30 12 6 11 54.5 0 0 - 0 0 - 5 4 9 1 0 0 0 2 6
+p525
+aVNick Young PHI 12/23/2012 PHI @ BKN L 12 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 0 -5
+p526
+aVThaddeus Young PHI 12/23/2012 PHI @ BKN L 37 18 8 14 57.1 0 0 - 2 2 100.0 4 6 10 1 1 0 1 3 -7
+p527
+aVEvan Turner PHI 12/23/2012 PHI @ BKN L 42 15 7 16 43.8 1 3 33.3 0 0 - 0 7 7 2 0 0 1 4 0
+p528
+aVJason Richardson PHI 12/23/2012 PHI @ BKN L 29 5 2 10 20.0 1 5 20.0 0 0 - 0 5 5 1 0 0 2 4 -14
+p529
+aVDamien Wilkins PHI 12/23/2012 PHI @ BKN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p530
+aVDorell Wright PHI 12/23/2012 PHI @ BKN L 29 8 2 8 25.0 2 6 33.3 2 2 100.0 1 5 6 2 3 1 2 1 16
+p531
+aVSpencer Hawes PHI 12/23/2012 PHI @ BKN L 20 5 2 9 22.2 0 0 - 1 2 50.0 2 2 4 3 0 0 0 1 -4
+p532
+aVJrue Holiday PHI 12/23/2012 PHI @ BKN L 38 24 9 16 56.3 3 3 100.0 3 4 75.0 2 4 6 9 0 1 2 5 0
+p533
+aVDorell Wright PHI 12/21/2012 PHI vs. ATL W 20 7 2 5 40.0 1 3 33.3 2 4 50.0 0 1 1 2 0 0 1 2 -4
+p534
+aVDamien Wilkins PHI 12/21/2012 PHI vs. ATL W 4 5 2 2 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 1 1 -7
+p535
+aVEvan Turner PHI 12/21/2012 PHI vs. ATL W 41 21 10 17 58.8 1 2 50.0 0 0 - 1 4 5 6 0 0 2 2 29
+p536
+aVJason Richardson PHI 12/21/2012 PHI vs. ATL W 33 17 7 12 58.3 3 6 50.0 0 2 0.0 0 8 8 7 2 1 0 1 30
+p537
+aVNick Young PHI 12/21/2012 PHI vs. ATL W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p538
+aVSpencer Hawes PHI 12/21/2012 PHI vs. ATL W 20 12 5 10 50.0 1 1 100.0 1 1 100.0 3 5 8 2 0 2 1 3 5
+p539
+aVJrue Holiday PHI 12/21/2012 PHI vs. ATL W 36 11 5 13 38.5 1 5 20.0 0 0 - 2 2 4 7 1 0 2 1 15
+p540
+aVLavoy Allen PHI 12/21/2012 PHI vs. ATL W 36 6 3 7 42.9 0 0 - 0 0 - 4 3 7 3 1 1 3 0 10
+p541
+aVThaddeus Young PHI 12/21/2012 PHI vs. ATL W 40 18 9 16 56.3 0 0 - 0 0 - 4 7 11 4 5 0 1 1 23
+p542
+aVThaddeus Young PHI 12/19/2012 PHI @ HOU L 35 17 7 12 58.3 0 0 - 3 4 75.0 0 6 6 5 1 1 3 1 -13
+p543
+aVNick Young PHI 12/19/2012 PHI @ HOU L 35 21 8 18 44.4 2 4 50.0 3 5 60.0 1 3 4 4 1 1 0 2 -11
+p544
+aVKwame Brown PHI 12/19/2012 PHI @ HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p545
+aVMaalik Wayns PHI 12/19/2012 PHI @ HOU L 14 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 0 2 0 1 0 -11
+p546
+aVJason Richardson PHI 12/19/2012 PHI @ HOU L 31 11 5 10 50.0 1 3 33.3 0 0 - 1 2 3 1 1 0 2 3 -17
+p547
+aVLavoy Allen PHI 12/19/2012 PHI @ HOU L 25 10 4 8 50.0 0 0 - 2 4 50.0 5 2 7 2 0 1 0 5 -5
+p548
+aVEvan Turner PHI 12/19/2012 PHI @ HOU L 21 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 3 0 0 1 1 -15
+p549
+aVArnett Moultrie PHI 12/19/2012 PHI @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p550
+aVDamien Wilkins PHI 12/19/2012 PHI @ HOU L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -11
+p551
+aVSpencer Hawes PHI 12/19/2012 PHI @ HOU L 24 14 4 11 36.4 0 1 0.0 6 7 85.7 5 1 6 0 0 0 4 5 -8
+p552
+aVDorell Wright PHI 12/19/2012 PHI @ HOU L 40 20 7 15 46.7 3 7 42.9 3 4 75.0 0 6 6 6 0 0 0 2 -10
+p553
+aVMaalik Wayns PHI 12/18/2012 PHI @ DAL L 21 3 1 7 14.3 1 5 20.0 0 0 - 0 1 1 9 0 0 0 3 2
+p554
+aVDorell Wright PHI 12/18/2012 PHI @ DAL L 30 25 8 18 44.4 7 13 53.8 2 2 100.0 3 2 5 2 0 0 3 3 -7
+p555
+aVLavoy Allen PHI 12/18/2012 PHI @ DAL L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 6
+p556
+aVDamien Wilkins PHI 12/18/2012 PHI @ DAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p557
+aVSpencer Hawes PHI 12/18/2012 PHI @ DAL L 27 18 5 7 71.4 0 0 - 8 8 100.0 4 3 7 0 0 1 2 2 4
+p558
+aVThaddeus Young PHI 12/18/2012 PHI @ DAL L 37 12 5 13 38.5 0 0 - 2 4 50.0 4 3 7 2 1 0 1 2 -14
+p559
+aVEvan Turner PHI 12/18/2012 PHI @ DAL L 38 17 7 16 43.8 3 6 50.0 0 0 - 0 5 5 5 1 1 4 2 -3
+p560
+aVNick Young PHI 12/18/2012 PHI @ DAL L 24 8 3 6 50.0 1 3 33.3 1 1 100.0 0 0 0 0 0 0 1 1 -9
+p561
+aVJason Richardson PHI 12/18/2012 PHI @ DAL L 30 11 5 14 35.7 1 7 14.3 0 0 - 1 5 6 4 3 0 1 1 7
+p562
+aVKwame Brown PHI 12/18/2012 PHI @ DAL L 19 4 2 3 66.7 0 0 - 0 0 - 1 6 7 1 1 0 1 3 -9
+p563
+aVRoyal Ivey PHI 12/18/2012 PHI @ DAL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p564
+aVMaalik Wayns PHI 12/16/2012 PHI vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p565
+aVEvan Turner PHI 12/16/2012 PHI vs. LAL L 43 16 6 16 37.5 0 1 0.0 4 4 100.0 0 4 4 6 0 1 2 3 -14
+p566
+aVSpencer Hawes PHI 12/16/2012 PHI vs. LAL L 24 16 7 12 58.3 2 3 66.7 0 0 - 3 3 6 1 0 0 3 5 -10
+p567
+aVDamien Wilkins PHI 12/16/2012 PHI vs. LAL L 11 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 2 2 0 0 1 1
+p568
+aVDorell Wright PHI 12/16/2012 PHI vs. LAL L 26 6 3 9 33.3 0 2 0.0 0 0 - 0 7 7 9 0 0 4 0 4
+p569
+aVKwame Brown PHI 12/16/2012 PHI vs. LAL L 22 2 1 2 50.0 0 0 - 0 0 - 3 5 8 1 1 3 1 4 -2
+p570
+aVJason Richardson PHI 12/16/2012 PHI vs. LAL L 29 9 3 8 37.5 2 6 33.3 1 3 33.3 0 1 1 0 1 2 2 1 -10
+p571
+aVThaddeus Young PHI 12/16/2012 PHI vs. LAL L 32 14 7 10 70.0 0 0 - 0 1 0.0 0 6 6 1 1 1 5 0 -12
+p572
+aVRoyal Ivey PHI 12/16/2012 PHI vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p573
+aVNick Young PHI 12/16/2012 PHI vs. LAL L 41 30 12 23 52.2 6 12 50.0 0 1 0.0 4 0 4 2 1 0 0 1 -9
+p574
+aVLavoy Allen PHI 12/16/2012 PHI vs. LAL L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -8
+p575
+aVEvan Turner PHI 12/14/2012 PHI @ IND L 42 22 9 16 56.3 2 2 100.0 2 2 100.0 0 10 10 5 1 0 5 1 -8
+p576
+aVSpencer Hawes PHI 12/14/2012 PHI @ IND L 24 18 8 15 53.3 0 0 - 2 2 100.0 2 1 3 1 0 0 2 4 5
+p577
+aVDamien Wilkins PHI 12/14/2012 PHI @ IND L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 8
+p578
+aVDorell Wright PHI 12/14/2012 PHI @ IND L 30 9 3 7 42.9 0 3 0.0 3 4 75.0 3 6 9 4 1 0 1 2 -1
+p579
+aVKwame Brown PHI 12/14/2012 PHI @ IND L 21 5 2 2 100.0 0 0 - 1 4 25.0 1 0 1 0 0 1 0 0 -11
+p580
+aVThaddeus Young PHI 12/14/2012 PHI @ IND L 37 12 5 12 41.7 0 0 - 2 2 100.0 0 7 7 1 3 3 0 4 -11
+p581
+aVMaalik Wayns PHI 12/14/2012 PHI @ IND L 11 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 2 0 0 2 2 0
+p582
+aVLavoy Allen PHI 12/14/2012 PHI @ IND L 13 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 0 0 0 3 -3
+p583
+aVNick Young PHI 12/14/2012 PHI @ IND L 37 8 4 14 28.6 0 2 0.0 0 0 - 0 1 1 5 0 0 2 2 -16
+p584
+aVJason Richardson PHI 12/14/2012 PHI @ IND L 20 3 1 6 16.7 1 2 50.0 0 0 - 1 1 2 1 0 0 0 1 -13
+p585
+aVEvan Turner PHI 12/12/2012 PHI vs. CHI L 42 16 7 15 46.7 0 1 0.0 2 2 100.0 2 6 8 3 2 0 3 3 -3
+p586
+aVSpencer Hawes PHI 12/12/2012 PHI vs. CHI L 29 10 5 12 41.7 0 2 0.0 0 0 - 6 4 10 0 0 1 1 5 -6
+p587
+aVArnett Moultrie PHI 12/12/2012 PHI vs. CHI L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p588
+aVJrue Holiday PHI 12/12/2012 PHI vs. CHI L 40 26 13 28 46.4 0 3 0.0 0 3 0.0 1 4 5 9 2 0 5 3 -7
+p589
+aVThaddeus Young PHI 12/12/2012 PHI vs. CHI L 33 13 6 10 60.0 0 0 - 1 4 25.0 3 6 9 3 0 4 2 2 -14
+p590
+aVNick Young PHI 12/12/2012 PHI vs. CHI L 28 10 4 10 40.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 4 -6
+p591
+aVLavoy Allen PHI 12/12/2012 PHI vs. CHI L 30 6 3 6 50.0 0 0 - 0 0 - 1 5 6 2 1 2 2 4 14
+p592
+aVMaalik Wayns PHI 12/12/2012 PHI vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p593
+aVJason Richardson PHI 12/12/2012 PHI vs. CHI L 32 6 2 9 22.2 2 6 33.3 0 0 - 0 4 4 2 0 1 0 3 -3
+p594
+aVDorell Wright PHI 12/12/2012 PHI vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p595
+aVThaddeus Young PHI 12/10/2012 PHI vs. DET W 37 20 9 13 69.2 0 0 - 2 6 33.3 3 1 4 1 5 0 2 3 9
+p596
+aVSpencer Hawes PHI 12/10/2012 PHI vs. DET W 32 15 7 14 50.0 0 1 0.0 1 2 50.0 4 4 8 2 0 3 1 4 -8
+p597
+aVArnett Moultrie PHI 12/10/2012 PHI vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p598
+aVJason Richardson PHI 12/10/2012 PHI vs. DET W 36 13 4 11 36.4 2 5 40.0 3 4 75.0 1 6 7 1 0 0 1 3 9
+p599
+aVEvan Turner PHI 12/10/2012 PHI vs. DET W 40 18 8 13 61.5 1 1 100.0 1 2 50.0 1 10 11 7 0 0 1 2 7
+p600
+aVLavoy Allen PHI 12/10/2012 PHI vs. DET W 17 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 2 0 4 16
+p601
+aVMaalik Wayns PHI 12/10/2012 PHI vs. DET W 4 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 1 2 -1
+p602
+aVDorell Wright PHI 12/10/2012 PHI vs. DET W 18 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 2 0 1 0 1 0
+p603
+aVJrue Holiday PHI 12/10/2012 PHI vs. DET W 37 25 11 20 55.0 1 4 25.0 2 4 50.0 1 4 5 8 2 1 3 4 8
+p604
+aVNick Young PHI 12/10/2012 PHI vs. DET W 18 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 2 -3
+p605
+aVJrue Holiday PHI 12/08/2012 PHI @ BOS L 41 11 4 13 30.8 1 4 25.0 2 2 100.0 2 3 5 8 0 0 2 3 -5
+p606
+aVDorell Wright PHI 12/08/2012 PHI @ BOS L 20 4 2 5 40.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 1 2
+p607
+aVSpencer Hawes PHI 12/08/2012 PHI @ BOS L 29 6 3 7 42.9 0 1 0.0 0 0 - 2 6 8 1 0 2 0 5 -11
+p608
+aVLavoy Allen PHI 12/08/2012 PHI @ BOS L 22 4 2 8 25.0 0 0 - 0 0 - 4 5 9 2 1 0 1 1 -5
+p609
+aVDamien Wilkins PHI 12/08/2012 PHI @ BOS L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p610
+aVArnett Moultrie PHI 12/08/2012 PHI @ BOS L 8 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 -3
+p611
+aVJason Richardson PHI 12/08/2012 PHI @ BOS L 28 8 2 7 28.6 2 5 40.0 2 2 100.0 1 2 3 0 1 0 2 2 -16
+p612
+aVMaalik Wayns PHI 12/08/2012 PHI @ BOS L 10 7 2 4 50.0 0 1 0.0 3 4 75.0 0 1 1 1 1 0 0 0 -3
+p613
+aVEvan Turner PHI 12/08/2012 PHI @ BOS L 40 13 6 16 37.5 1 3 33.3 0 0 - 1 2 3 3 0 0 1 3 -8
+p614
+aVThaddeus Young PHI 12/08/2012 PHI @ BOS L 35 22 9 15 60.0 0 0 - 4 6 66.7 0 3 3 1 1 1 1 4 -9
+p615
+aVArnett Moultrie PHI 12/07/2012 PHI vs. BOS W 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -2
+p616
+aVThaddeus Young PHI 12/07/2012 PHI vs. BOS W 45 17 7 18 38.9 0 0 - 3 4 75.0 8 4 12 2 2 0 0 4 1
+p617
+aVLavoy Allen PHI 12/07/2012 PHI vs. BOS W 32 8 2 5 40.0 0 0 - 4 4 100.0 2 9 11 1 0 0 2 5 4
+p618
+aVJason Richardson PHI 12/07/2012 PHI vs. BOS W 42 13 5 13 38.5 0 5 0.0 3 4 75.0 0 3 3 3 5 0 0 0 5
+p619
+aVJrue Holiday PHI 12/07/2012 PHI vs. BOS W 43 15 7 18 38.9 0 0 - 1 2 50.0 1 5 6 4 3 0 1 6 4
+p620
+aVDamien Wilkins PHI 12/07/2012 PHI vs. BOS W 14 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 3 1 1 0 3 -1
+p621
+aVDorell Wright PHI 12/07/2012 PHI vs. BOS W 16 2 0 5 0.0 0 3 0.0 2 2 100.0 0 4 4 0 0 0 0 1 -5
+p622
+aVSpencer Hawes PHI 12/07/2012 PHI vs. BOS W 22 10 5 10 50.0 0 0 - 0 0 - 3 3 6 1 1 1 2 2 -1
+p623
+aVEvan Turner PHI 12/07/2012 PHI vs. BOS W 45 26 10 26 38.5 2 3 66.7 4 6 66.7 2 8 10 5 0 1 4 4 0
+p624
+aVJrue Holiday PHI 12/04/2012 PHI vs. MIN L 31 13 5 13 38.5 0 4 0.0 3 4 75.0 1 4 5 9 1 0 3 1 -13
+p625
+aVSpencer Hawes PHI 12/04/2012 PHI vs. MIN L 22 6 2 6 33.3 1 2 50.0 1 2 50.0 2 2 4 2 0 0 1 0 -16
+p626
+aVThaddeus Young PHI 12/04/2012 PHI vs. MIN L 27 13 6 10 60.0 0 0 - 1 1 100.0 0 2 2 0 0 0 1 4 -8
+p627
+aVDorell Wright PHI 12/04/2012 PHI vs. MIN L 12 6 2 6 33.3 2 5 40.0 0 0 - 1 2 3 1 1 0 0 2 -10
+p628
+aVArnett Moultrie PHI 12/04/2012 PHI vs. MIN L 11 4 1 3 33.3 0 0 - 2 5 40.0 3 1 4 1 1 0 0 0 3
+p629
+aVRoyal Ivey PHI 12/04/2012 PHI vs. MIN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p630
+aVKwame Brown PHI 12/04/2012 PHI vs. MIN L 12 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -13
+p631
+aVDamien Wilkins PHI 12/04/2012 PHI vs. MIN L 19 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 1 0 1 1 -3
+p632
+aVMaalik Wayns PHI 12/04/2012 PHI vs. MIN L 14 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 2 0 0 1 1 -1
+p633
+aVLavoy Allen PHI 12/04/2012 PHI vs. MIN L 24 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 2 1 1 2 0
+p634
+aVJason Richardson PHI 12/04/2012 PHI vs. MIN L 30 14 6 10 60.0 0 3 0.0 2 4 50.0 2 5 7 4 2 1 2 1 -12
+p635
+aVEvan Turner PHI 12/04/2012 PHI vs. MIN L 36 19 8 20 40.0 2 4 50.0 1 3 33.3 1 4 5 2 1 0 3 3 -12
+p636
+aVMaalik Wayns PHI 12/01/2012 PHI @ CHI L 9 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -8
+p637
+aVLavoy Allen PHI 12/01/2012 PHI @ CHI L 33 10 4 8 50.0 0 0 - 2 2 100.0 3 5 8 0 0 1 0 4 -1
+p638
+aVThaddeus Young PHI 12/01/2012 PHI @ CHI L 40 22 10 16 62.5 0 0 - 2 5 40.0 1 6 7 1 4 4 1 2 -4
+p639
+aVDorell Wright PHI 12/01/2012 PHI @ CHI L 19 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 0 0 0 3 2 -9
+p640
+aVSpencer Hawes PHI 12/01/2012 PHI @ CHI L 22 6 2 7 28.6 0 0 - 2 2 100.0 3 3 6 0 0 0 3 3 -5
+p641
+aVJrue Holiday PHI 12/01/2012 PHI @ CHI L 39 23 9 17 52.9 1 3 33.3 4 6 66.7 1 2 3 7 2 0 1 2 3
+p642
+aVJason Richardson PHI 12/01/2012 PHI @ CHI L 34 8 3 12 25.0 1 6 16.7 1 1 100.0 2 4 6 2 1 0 1 3 3
+p643
+aVEvan Turner PHI 12/01/2012 PHI @ CHI L 43 12 6 17 35.3 0 1 0.0 0 0 - 0 4 4 7 3 0 1 1 -4
+p644
+aVLavoy Allen PHI 11/30/2012 PHI @ CHA W 35 10 5 10 50.0 0 0 - 0 0 - 6 4 10 1 0 1 0 3 -3
+p645
+aVSpencer Hawes PHI 11/30/2012 PHI @ CHA W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 0
+p646
+aVKwame Brown PHI 11/30/2012 PHI @ CHA W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 3
+p647
+aVJason Richardson PHI 11/30/2012 PHI @ CHA W 30 22 9 17 52.9 4 8 50.0 0 0 - 1 4 5 1 2 1 2 1 17
+p648
+aVMaalik Wayns PHI 11/30/2012 PHI @ CHA W 11 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 2 0 0 1 1 -8
+p649
+aVThaddeus Young PHI 11/30/2012 PHI @ CHA W 37 15 7 13 53.8 0 0 - 1 2 50.0 1 6 7 2 0 1 1 3 11
+p650
+aVEvan Turner PHI 11/30/2012 PHI @ CHA W 37 25 10 15 66.7 1 2 50.0 4 4 100.0 2 8 10 0 1 1 0 5 8
+p651
+aVJrue Holiday PHI 11/30/2012 PHI @ CHA W 38 13 6 15 40.0 0 1 0.0 1 2 50.0 2 0 2 15 0 1 3 2 11
+p652
+aVDorell Wright PHI 11/30/2012 PHI @ CHA W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 0 -3
+p653
+aVNick Young PHI 11/30/2012 PHI @ CHA W 21 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 2 1 1 1 0 -6
+p654
+aVDamien Wilkins PHI 11/27/2012 PHI vs. DAL W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p655
+aVNick Young PHI 11/27/2012 PHI vs. DAL W 21 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 0 0 4 1 2
+p656
+aVKwame Brown PHI 11/27/2012 PHI vs. DAL W 16 6 2 3 66.7 0 0 - 2 4 50.0 4 4 8 1 1 1 0 3 6
+p657
+aVEvan Turner PHI 11/27/2012 PHI vs. DAL W 36 22 8 12 66.7 2 4 50.0 4 5 80.0 0 4 4 4 0 0 2 1 -3
+p658
+aVJrue Holiday PHI 11/27/2012 PHI vs. DAL W 41 18 7 13 53.8 0 1 0.0 4 4 100.0 0 0 0 7 3 1 6 4 1
+p659
+aVJason Richardson PHI 11/27/2012 PHI vs. DAL W 31 6 2 8 25.0 2 3 66.7 0 0 - 0 8 8 1 3 0 1 3 13
+p660
+aVDorell Wright PHI 11/27/2012 PHI vs. DAL W 17 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 4 0 1 0 1 -7
+p661
+aVMaalik Wayns PHI 11/27/2012 PHI vs. DAL W 13 10 2 8 25.0 2 3 66.7 4 4 100.0 0 1 1 0 0 0 0 2 -5
+p662
+aVSpencer Hawes PHI 11/27/2012 PHI vs. DAL W 13 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -7
+p663
+aVLavoy Allen PHI 11/27/2012 PHI vs. DAL W 21 6 2 2 100.0 0 0 - 2 2 100.0 3 2 5 2 0 0 3 4 6
+p664
+aVThaddeus Young PHI 11/27/2012 PHI vs. DAL W 29 20 7 14 50.0 0 0 - 6 11 54.5 4 3 7 1 1 0 1 4 6
+p665
+aVThaddeus Young PHI 11/25/2012 PHI vs. PHX W 36 10 5 7 71.4 0 0 - 0 2 0.0 0 4 4 2 1 1 0 3 11
+p666
+aVDorell Wright PHI 11/25/2012 PHI vs. PHX W 20 8 1 4 25.0 1 1 100.0 5 5 100.0 0 4 4 1 2 0 0 0 -2
+p667
+aVJason Richardson PHI 11/25/2012 PHI vs. PHX W 34 8 3 7 42.9 2 6 33.3 0 0 - 0 4 4 1 0 0 0 0 5
+p668
+aVEvan Turner PHI 11/25/2012 PHI vs. PHX W 32 16 4 13 30.8 3 5 60.0 5 6 83.3 1 8 9 3 0 0 2 3 2
+p669
+aVKwame Brown PHI 11/25/2012 PHI vs. PHX W 6 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 2 2
+p670
+aVNick Young PHI 11/25/2012 PHI vs. PHX W 12 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 0 0 0 1 0 -3
+p671
+aVDamien Wilkins PHI 11/25/2012 PHI vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p672
+aVMaalik Wayns PHI 11/25/2012 PHI vs. PHX W 7 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 -4
+p673
+aVSpencer Hawes PHI 11/25/2012 PHI vs. PHX W 20 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 0 1 2 3 -3
+p674
+aVJrue Holiday PHI 11/25/2012 PHI vs. PHX W 39 33 13 21 61.9 1 2 50.0 6 8 75.0 1 2 3 13 0 0 2 1 11
+p675
+aVArnett Moultrie PHI 11/25/2012 PHI vs. PHX W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p676
+aVLavoy Allen PHI 11/25/2012 PHI vs. PHX W 26 11 5 9 55.6 0 0 - 1 1 100.0 2 4 6 1 0 2 0 5 2
+p677
+aVDorell Wright PHI 11/24/2012 PHI vs. OKC L 33 9 3 8 37.5 3 7 42.9 0 0 - 0 6 6 2 2 0 1 5 1
+p678
+aVKwame Brown PHI 11/24/2012 PHI vs. OKC L 8 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -9
+p679
+aVSpencer Hawes PHI 11/24/2012 PHI vs. OKC L 19 7 3 6 50.0 0 0 - 1 3 33.3 0 3 3 2 0 0 1 3 -3
+p680
+aVJrue Holiday PHI 11/24/2012 PHI vs. OKC L 37 6 3 11 27.3 0 3 0.0 0 0 - 1 2 3 13 0 0 2 4 -17
+p681
+aVThaddeus Young PHI 11/24/2012 PHI vs. OKC L 44 29 13 23 56.5 0 0 - 3 3 100.0 6 9 15 4 1 1 3 3 5
+p682
+aVEvan Turner PHI 11/24/2012 PHI vs. OKC L 41 26 10 17 58.8 0 2 0.0 6 7 85.7 1 4 5 4 2 0 2 4 -4
+p683
+aVMaalik Wayns PHI 11/24/2012 PHI vs. OKC L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p684
+aVNick Young PHI 11/24/2012 PHI vs. OKC L 25 9 4 10 40.0 1 3 33.3 0 0 - 1 3 4 3 0 1 0 1 7
+p685
+aVLavoy Allen PHI 11/24/2012 PHI vs. OKC L 28 8 3 4 75.0 0 0 - 2 2 100.0 2 2 4 3 1 2 2 4 -5
+p686
+aVDamien Wilkins PHI 11/24/2012 PHI vs. OKC L 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -3
+p687
+aVJason Richardson PHI 11/24/2012 PHI vs. OKC L 18 13 5 7 71.4 3 5 60.0 0 0 - 0 1 1 0 1 0 2 2 -3
+p688
+aVNick Young PHI 11/21/2012 PHI @ CLE L 32 13 4 13 30.8 0 2 0.0 5 6 83.3 1 4 5 0 2 1 0 0 -2
+p689
+aVJrue Holiday PHI 11/21/2012 PHI @ CLE L 39 16 6 16 37.5 2 3 66.7 2 2 100.0 1 0 1 5 1 1 4 3 -9
+p690
+aVEvan Turner PHI 11/21/2012 PHI @ CLE L 36 12 5 13 38.5 0 1 0.0 2 3 66.7 1 9 10 7 2 1 2 3 4
+p691
+aVDorell Wright PHI 11/21/2012 PHI @ CLE L 17 6 1 7 14.3 0 3 0.0 4 4 100.0 0 1 1 1 0 2 0 2 -7
+p692
+aVLavoy Allen PHI 11/21/2012 PHI @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p693
+aVThaddeus Young PHI 11/21/2012 PHI @ CLE L 36 11 5 12 41.7 0 0 - 1 2 50.0 3 8 11 2 2 1 1 2 0
+p694
+aVKwame Brown PHI 11/21/2012 PHI @ CLE L 21 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 1 1 1 0 2 -1
+p695
+aVDamien Wilkins PHI 11/21/2012 PHI @ CLE L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p696
+aVSpencer Hawes PHI 11/21/2012 PHI @ CLE L 19 4 2 5 40.0 0 1 0.0 0 1 0.0 3 2 5 2 1 2 0 0 -4
+p697
+aVRoyal Ivey PHI 11/21/2012 PHI @ CLE L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p698
+aVJason Richardson PHI 11/21/2012 PHI @ CLE L 28 16 6 13 46.2 2 6 33.3 2 2 100.0 1 1 2 0 3 2 0 2 -15
+p699
+aVSpencer Hawes PHI 11/20/2012 PHI vs. TOR W 16 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 2 0 2 1 2 -3
+p700
+aVLavoy Allen PHI 11/20/2012 PHI vs. TOR W 25 4 1 4 25.0 0 0 - 2 2 100.0 2 4 6 1 0 4 1 3 6
+p701
+aVJrue Holiday PHI 11/20/2012 PHI vs. TOR W 40 19 9 21 42.9 1 5 20.0 0 0 - 2 6 8 12 3 0 3 4 3
+p702
+aVRoyal Ivey PHI 11/20/2012 PHI vs. TOR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p703
+aVKwame Brown PHI 11/20/2012 PHI vs. TOR W 6 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -10
+p704
+aVDorell Wright PHI 11/20/2012 PHI vs. TOR W 14 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 0 0 0 0 1 17
+p705
+aVEvan Turner PHI 11/20/2012 PHI vs. TOR W 33 12 5 14 35.7 0 0 - 2 2 100.0 0 5 5 4 0 0 1 3 -5
+p706
+aVThaddeus Young PHI 11/20/2012 PHI vs. TOR W 39 18 8 13 61.5 0 0 - 2 4 50.0 2 5 7 2 2 2 2 2 10
+p707
+aVNick Young PHI 11/20/2012 PHI vs. TOR W 29 23 7 13 53.8 3 8 37.5 6 6 100.0 1 2 3 4 0 1 0 2 7
+p708
+aVJason Richardson PHI 11/20/2012 PHI vs. TOR W 32 21 7 14 50.0 4 9 44.4 3 3 100.0 0 3 3 0 1 1 0 4 15
+p709
+aVRoyal Ivey PHI 11/18/2012 PHI vs. CLE W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 3
+p710
+aVThaddeus Young PHI 11/18/2012 PHI vs. CLE W 37 7 3 9 33.3 0 0 - 1 2 50.0 0 6 6 0 1 0 1 3 1
+p711
+aVJrue Holiday PHI 11/18/2012 PHI vs. CLE W 37 14 6 14 42.9 2 4 50.0 0 0 - 1 3 4 9 1 0 2 1 5
+p712
+aVSpencer Hawes PHI 11/18/2012 PHI vs. CLE W 28 14 5 13 38.5 1 2 50.0 3 4 75.0 3 6 9 1 1 4 1 3 9
+p713
+aVEvan Turner PHI 11/18/2012 PHI vs. CLE W 40 19 8 12 66.7 1 2 50.0 2 2 100.0 0 6 6 9 1 1 2 1 10
+p714
+aVKwame Brown PHI 11/18/2012 PHI vs. CLE W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -8
+p715
+aVNick Young PHI 11/18/2012 PHI vs. CLE W 16 13 5 6 83.3 2 2 100.0 1 2 50.0 0 0 0 0 0 0 1 1 5
+p716
+aVJason Richardson PHI 11/18/2012 PHI vs. CLE W 34 12 5 14 35.7 2 6 33.3 0 0 - 2 7 9 3 2 1 2 1 5
+p717
+aVLavoy Allen PHI 11/18/2012 PHI vs. CLE W 22 2 0 5 0.0 0 0 - 2 2 100.0 1 2 3 3 0 2 2 0 12
+p718
+aVDorell Wright PHI 11/18/2012 PHI vs. CLE W 12 3 1 4 25.0 1 3 33.3 0 0 - 2 2 4 1 1 0 0 2 -7
+p719
+aVJason Richardson PHI 11/16/2012 PHI vs. UTA W 35 20 7 12 58.3 5 7 71.4 1 2 50.0 0 8 8 2 2 0 0 2 4
+p720
+aVDorell Wright PHI 11/16/2012 PHI vs. UTA W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p721
+aVJrue Holiday PHI 11/16/2012 PHI vs. UTA W 41 26 10 21 47.6 2 4 50.0 4 4 100.0 0 6 6 7 0 1 4 2 18
+p722
+aVLavoy Allen PHI 11/16/2012 PHI vs. UTA W 29 10 5 11 45.5 0 0 - 0 0 - 5 3 8 3 0 2 0 0 -5
+p723
+aVEvan Turner PHI 11/16/2012 PHI vs. UTA W 35 11 5 11 45.5 1 3 33.3 0 0 - 1 3 4 4 0 0 2 2 8
+p724
+aVKwame Brown PHI 11/16/2012 PHI vs. UTA W 24 2 1 5 20.0 0 0 - 0 0 - 2 4 6 2 0 1 0 3 12
+p725
+aVSpencer Hawes PHI 11/16/2012 PHI vs. UTA W 13 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 2 2 4 -20
+p726
+aVRoyal Ivey PHI 11/16/2012 PHI vs. UTA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -12
+p727
+aVNick Young PHI 11/16/2012 PHI vs. UTA W 20 12 3 5 60.0 2 3 66.7 4 4 100.0 0 0 0 1 1 0 0 1 8
+p728
+aVThaddeus Young PHI 11/16/2012 PHI vs. UTA W 31 14 7 14 50.0 0 0 - 0 0 - 2 6 8 0 2 1 0 2 24
+p729
+aVLavoy Allen PHI 11/14/2012 PHI vs. DET L 26 14 6 10 60.0 0 0 - 2 2 100.0 4 2 6 0 1 1 0 6 -20
+p730
+aVNick Young PHI 11/14/2012 PHI vs. DET L 24 9 2 9 22.2 0 3 0.0 5 6 83.3 0 3 3 2 1 1 0 1 -5
+p731
+aVRoyal Ivey PHI 11/14/2012 PHI vs. DET L 15 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 0 1 0 0 1 -10
+p732
+aVArnett Moultrie PHI 11/14/2012 PHI vs. DET L 7 2 0 1 0.0 0 0 - 2 4 50.0 2 0 2 0 0 0 0 0 4
+p733
+aVSpencer Hawes PHI 11/14/2012 PHI vs. DET L 15 5 1 5 20.0 0 1 0.0 3 4 75.0 1 1 2 1 0 0 1 1 -11
+p734
+aVThaddeus Young PHI 11/14/2012 PHI vs. DET L 28 4 2 11 18.2 0 0 - 0 0 - 2 6 8 0 1 0 1 3 -9
+p735
+aVJason Richardson PHI 11/14/2012 PHI vs. DET L 26 9 3 12 25.0 3 6 50.0 0 0 - 1 0 1 1 1 1 0 1 -7
+p736
+aVDamien Wilkins PHI 11/14/2012 PHI vs. DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 4
+p737
+aVJrue Holiday PHI 11/14/2012 PHI vs. DET L 33 12 4 13 30.8 0 0 - 4 9 44.4 0 6 6 7 3 0 1 2 -13
+p738
+aVKwame Brown PHI 11/14/2012 PHI vs. DET L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 -1
+p739
+aVDorell Wright PHI 11/14/2012 PHI vs. DET L 20 6 1 5 20.0 1 3 33.3 3 3 100.0 1 3 4 0 0 0 0 2 -15
+p740
+aVMaalik Wayns PHI 11/14/2012 PHI vs. DET L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 3
+p741
+aVEvan Turner PHI 11/14/2012 PHI vs. DET L 23 3 1 6 16.7 0 0 - 1 2 50.0 0 3 3 2 1 0 0 2 -10
+p742
+aVEvan Turner PHI 11/12/2012 PHI vs. MIL L 25 8 3 8 37.5 0 0 - 2 4 50.0 0 4 4 5 0 0 3 1 -16
+p743
+aVDorell Wright PHI 11/12/2012 PHI vs. MIL L 25 14 5 12 41.7 4 9 44.4 0 0 - 0 4 4 0 4 1 0 0 -17
+p744
+aVNick Young PHI 11/12/2012 PHI vs. MIL L 24 7 2 6 33.3 1 1 100.0 2 2 100.0 0 1 1 4 2 0 0 1 2
+p745
+aVSpencer Hawes PHI 11/12/2012 PHI vs. MIL L 26 6 3 11 27.3 0 1 0.0 0 0 - 1 4 5 1 0 0 1 3 1
+p746
+aVJrue Holiday PHI 11/12/2012 PHI vs. MIL L 37 25 10 18 55.6 1 2 50.0 4 4 100.0 0 1 1 6 1 0 8 3 -4
+p747
+aVLavoy Allen PHI 11/12/2012 PHI vs. MIL L 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -4
+p748
+aVJason Richardson PHI 11/12/2012 PHI vs. MIL L 36 20 8 16 50.0 3 8 37.5 1 2 50.0 0 4 4 2 2 0 0 0 12
+p749
+aVRoyal Ivey PHI 11/12/2012 PHI vs. MIL L 18 5 2 6 33.3 1 3 33.3 0 0 - 1 2 3 1 1 1 1 3 -14
+p750
+aVThaddeus Young PHI 11/12/2012 PHI vs. MIL L 35 11 4 6 66.7 0 0 - 3 4 75.0 1 6 7 2 3 1 1 2 -5
+p751
+aVThaddeus Young PHI 11/10/2012 PHI @ TOR W 34 16 5 11 45.5 0 0 - 6 6 100.0 1 7 8 2 1 0 2 2 4
+p752
+aVLavoy Allen PHI 11/10/2012 PHI @ TOR W 21 0 0 5 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 7
+p753
+aVDamien Wilkins PHI 11/10/2012 PHI @ TOR W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 9
+p754
+aVSpencer Hawes PHI 11/10/2012 PHI @ TOR W 23 12 5 10 50.0 0 0 - 2 4 50.0 2 9 11 3 0 1 1 1 14
+p755
+aVNick Young PHI 11/10/2012 PHI @ TOR W 32 16 7 12 58.3 1 4 25.0 1 2 50.0 0 2 2 0 0 1 0 3 25
+p756
+aVDorell Wright PHI 11/10/2012 PHI @ TOR W 27 15 5 12 41.7 4 8 50.0 1 1 100.0 3 3 6 0 1 0 2 1 -16
+p757
+aVEvan Turner PHI 11/10/2012 PHI @ TOR W 37 8 2 7 28.6 0 1 0.0 4 5 80.0 2 10 12 4 1 1 3 4 -3
+p758
+aVJrue Holiday PHI 11/10/2012 PHI @ TOR W 35 16 6 11 54.5 1 1 100.0 3 5 60.0 0 3 3 5 2 1 7 4 -12
+p759
+aVRoyal Ivey PHI 11/10/2012 PHI @ TOR W 19 8 3 3 100.0 0 0 - 2 2 100.0 1 2 3 5 3 0 0 1 22
+p760
+aVDorell Wright PHI 11/09/2012 PHI @ BOS W 36 15 4 9 44.4 2 3 66.7 5 5 100.0 1 3 4 3 4 0 2 1 9
+p761
+aVThaddeus Young PHI 11/09/2012 PHI @ BOS W 40 15 7 13 53.8 0 0 - 1 1 100.0 0 5 5 2 2 3 0 3 13
+p762
+aVRoyal Ivey PHI 11/09/2012 PHI @ BOS W 12 6 2 4 50.0 0 1 0.0 2 4 50.0 1 0 1 1 1 0 0 0 -8
+p763
+aVNick Young PHI 11/09/2012 PHI @ BOS W 18 10 4 9 44.4 2 3 66.7 0 0 - 0 1 1 1 1 0 2 3 1
+p764
+aVJrue Holiday PHI 11/09/2012 PHI @ BOS W 42 21 7 16 43.8 1 4 25.0 6 6 100.0 2 2 4 14 2 2 7 1 14
+p765
+aVSpencer Hawes PHI 11/09/2012 PHI @ BOS W 22 8 4 7 57.1 0 0 - 0 0 - 2 4 6 1 0 0 1 5 14
+p766
+aVLavoy Allen PHI 11/09/2012 PHI @ BOS W 23 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 0 1 0 5 -5
+p767
+aVEvan Turner PHI 11/09/2012 PHI @ BOS W 41 25 9 19 47.4 2 2 100.0 5 7 71.4 0 11 11 4 1 1 3 3 1
+p768
+aVArnett Moultrie PHI 11/09/2012 PHI @ BOS W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -9
+p769
+aVDorell Wright PHI 11/07/2012 PHI @ NOH W 25 7 2 10 20.0 2 7 28.6 1 2 50.0 1 5 6 2 2 1 2 0 9
+p770
+aVSpencer Hawes PHI 11/07/2012 PHI @ NOH W 23 11 5 13 38.5 1 2 50.0 0 0 - 1 5 6 0 0 3 0 4 2
+p771
+aVArnett Moultrie PHI 11/07/2012 PHI @ NOH W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p772
+aVEvan Turner PHI 11/07/2012 PHI @ NOH W 36 14 7 15 46.7 0 1 0.0 0 0 - 2 6 8 3 1 0 1 1 12
+p773
+aVJrue Holiday PHI 11/07/2012 PHI @ NOH W 39 14 6 14 42.9 0 3 0.0 2 3 66.7 1 4 5 12 1 1 7 2 18
+p774
+aVDamien Wilkins PHI 11/07/2012 PHI @ NOH W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p775
+aVThaddeus Young PHI 11/07/2012 PHI @ NOH W 37 12 6 8 75.0 0 0 - 0 0 - 3 7 10 1 0 0 2 2 16
+p776
+aVNick Young PHI 11/07/2012 PHI @ NOH W 18 2 1 7 14.3 0 5 0.0 0 0 - 0 0 0 1 1 0 1 0 2
+p777
+aVLavoy Allen PHI 11/07/2012 PHI @ NOH W 27 12 6 10 60.0 0 0 - 0 0 - 1 3 4 0 0 1 2 2 20
+p778
+aVRoyal Ivey PHI 11/07/2012 PHI @ NOH W 21 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 0 3 7
+p779
+aVMaalik Wayns PHI 11/07/2012 PHI @ NOH W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p780
+aVArnett Moultrie PHI 11/05/2012 PHI vs. NYK L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p781
+aVJrue Holiday PHI 11/05/2012 PHI vs. NYK L 35 17 4 12 33.3 3 6 50.0 6 6 100.0 1 2 3 8 2 0 4 3 -17
+p782
+aVDamien Wilkins PHI 11/05/2012 PHI vs. NYK L 12 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 -7
+p783
+aVDorell Wright PHI 11/05/2012 PHI vs. NYK L 34 14 4 14 28.6 2 7 28.6 4 5 80.0 1 8 9 1 0 1 0 1 -19
+p784
+aVThaddeus Young PHI 11/05/2012 PHI vs. NYK L 29 14 7 12 58.3 0 0 - 0 0 - 4 6 10 1 1 0 3 1 -16
+p785
+aVLavoy Allen PHI 11/05/2012 PHI vs. NYK L 16 4 1 7 14.3 0 0 - 2 2 100.0 2 1 3 0 0 1 1 2 -4
+p786
+aVMaalik Wayns PHI 11/05/2012 PHI vs. NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p787
+aVNick Young PHI 11/05/2012 PHI vs. NYK L 29 12 4 15 26.7 2 7 28.6 2 2 100.0 0 1 1 1 0 0 2 0 -9
+p788
+aVEvan Turner PHI 11/05/2012 PHI vs. NYK L 27 11 3 9 33.3 0 0 - 5 5 100.0 3 6 9 6 0 0 1 4 -18
+p789
+aVRoyal Ivey PHI 11/05/2012 PHI vs. NYK L 19 5 1 4 25.0 1 2 50.0 2 2 100.0 3 3 6 0 0 0 0 1 -2
+p790
+aVKwame Brown PHI 11/05/2012 PHI vs. NYK L 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 1 2
+p791
+aVSpencer Hawes PHI 11/05/2012 PHI vs. NYK L 21 2 1 4 25.0 0 0 - 0 2 0.0 3 4 7 2 0 0 1 2 -20
+p792
+aVThaddeus Young PHI 11/04/2012 PHI @ NYK L 36 16 7 14 50.0 0 0 - 2 3 66.7 6 0 6 1 3 0 2 6 -1
+p793
+aVJrue Holiday PHI 11/04/2012 PHI @ NYK L 40 27 11 18 61.1 5 6 83.3 0 0 - 0 2 2 7 1 0 6 1 -2
+p794
+aVNick Young PHI 11/04/2012 PHI @ NYK L 32 5 2 10 20.0 1 3 33.3 0 0 - 0 2 2 0 0 0 1 3 -29
+p795
+aVLavoy Allen PHI 11/04/2012 PHI @ NYK L 26 6 3 4 75.0 0 0 - 0 0 - 1 4 5 1 0 1 1 1 -9
+p796
+aVJason Richardson PHI 11/04/2012 PHI @ NYK L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p797
+aVDorell Wright PHI 11/04/2012 PHI @ NYK L 33 11 5 11 45.5 1 5 20.0 0 1 0.0 1 8 9 0 2 1 5 0 -7
+p798
+aVSpencer Hawes PHI 11/04/2012 PHI @ NYK L 15 8 4 6 66.7 0 0 - 0 0 - 0 5 5 2 0 0 0 4 -8
+p799
+aVMaalik Wayns PHI 11/04/2012 PHI @ NYK L 11 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -13
+p800
+aVEvan Turner PHI 11/04/2012 PHI @ NYK L 37 11 2 9 22.2 1 1 100.0 6 6 100.0 1 10 11 1 2 0 2 2 -9
+p801
+aVRoyal Ivey PHI 11/04/2012 PHI @ NYK L 9 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -2
+p802
+aVSpencer Hawes PHI 10/31/2012 PHI vs. DEN W 31 16 6 11 54.5 2 3 66.7 2 2 100.0 3 9 12 2 2 5 3 1 10
+p803
+aVThaddeus Young PHI 10/31/2012 PHI vs. DEN W 36 13 6 12 50.0 0 0 - 1 3 33.3 1 4 5 1 2 1 1 2 18
+p804
+aVDorell Wright PHI 10/31/2012 PHI vs. DEN W 28 14 3 12 25.0 2 8 25.0 6 6 100.0 2 5 7 0 2 1 2 1 -1
+p805
+aVNick Young PHI 10/31/2012 PHI vs. DEN W 19 9 3 9 33.3 1 3 33.3 2 2 100.0 0 3 3 0 1 0 1 0 -6
+p806
+aVEvan Turner PHI 10/31/2012 PHI vs. DEN W 28 5 2 7 28.6 0 1 0.0 1 1 100.0 0 6 6 2 0 0 3 4 10
+p807
+aVLavoy Allen PHI 10/31/2012 PHI vs. DEN W 17 3 1 5 20.0 0 0 - 1 2 50.0 4 0 4 0 0 1 1 0 -1
+p808
+aVMaalik Wayns PHI 10/31/2012 PHI vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p809
+aVJrue Holiday PHI 10/31/2012 PHI vs. DEN W 41 14 5 16 31.3 0 3 0.0 4 5 80.0 2 4 6 11 2 0 3 3 8
+p810
+aVDamien Wilkins PHI 10/31/2012 PHI vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p811
+aVJason Richardson PHI 10/31/2012 PHI vs. DEN W 37 10 4 13 30.8 2 7 28.6 0 0 - 2 2 4 2 4 3 0 3 7
+p812
+a.

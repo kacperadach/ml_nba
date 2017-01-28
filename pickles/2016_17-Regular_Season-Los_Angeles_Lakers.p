@@ -1,0 +1,1050 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMarcelo Huertas LAL 01/22/2017 LAL @ DAL L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -10
+p2
+aVTarik Black LAL 01/22/2017 LAL @ DAL L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p3
+aVJordan Clarkson LAL 01/22/2017 LAL @ DAL L 25 10 5 13 38.5 0 2 0.0 0 0 - 0 3 3 0 0 0 2 0 -36
+p4
+aVBrandon Ingram LAL 01/22/2017 LAL @ DAL L 36 6 2 12 16.7 0 3 0.0 2 3 66.7 0 1 1 0 1 0 3 5 -45
+p5
+aVTimofey Mozgov LAL 01/22/2017 LAL @ DAL L 20 4 1 5 20.0 0 0 - 2 2 100.0 3 5 8 1 0 0 2 3 -8
+p6
+aVLuol Deng LAL 01/22/2017 LAL @ DAL L 19 9 4 7 57.1 1 3 33.3 0 0 - 0 2 2 0 0 2 0 0 -14
+p7
+aVThomas Robinson LAL 01/22/2017 LAL @ DAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -8
+p8
+aVJose Calderon LAL 01/22/2017 LAL @ DAL L 18 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 0 -2
+p9
+aVNick Young LAL 01/22/2017 LAL @ DAL L 27 9 3 9 33.3 1 5 20.0 2 2 100.0 0 2 2 1 0 0 0 0 -23
+p10
+aVLou Williams LAL 01/22/2017 LAL @ DAL L 20 15 4 11 36.4 1 6 16.7 6 6 100.0 0 0 0 1 1 0 2 2 -34
+p11
+aVIvica Zubac LAL 01/22/2017 LAL @ DAL L 19 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 1 1 -29
+p12
+aVLarry Nance Jr. LAL 01/22/2017 LAL @ DAL L 10 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 1 1 2 -13
+p13
+aVJulius Randle LAL 01/22/2017 LAL @ DAL L 23 9 4 4 100.0 0 0 - 1 2 50.0 0 6 6 4 1 0 3 3 -13
+p14
+aVNick Young LAL 01/20/2017 LAL vs. IND W 26 15 5 13 38.5 5 11 45.5 0 0 - 1 2 3 1 1 0 1 3 15
+p15
+aVBrandon Ingram LAL 01/20/2017 LAL vs. IND W 33 15 6 14 42.9 3 6 50.0 0 0 - 2 5 7 2 3 0 3 1 14
+p16
+aVJordan Clarkson LAL 01/20/2017 LAL vs. IND W 33 12 5 12 41.7 1 4 25.0 1 1 100.0 1 4 5 3 5 0 7 0 5
+p17
+aVD'Angelo Russell LAL 01/20/2017 LAL vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p18
+aVLou Williams LAL 01/20/2017 LAL vs. IND W 30 27 7 15 46.7 4 8 50.0 9 10 90.0 0 4 4 3 1 1 3 2 4
+p19
+aVJulius Randle LAL 01/20/2017 LAL vs. IND W 35 16 7 13 53.8 0 0 - 2 3 66.7 1 4 5 4 1 1 2 5 1
+p20
+aVMetta World Peace LAL 01/20/2017 LAL vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p21
+aVJose Calderon LAL 01/20/2017 LAL vs. IND W 19 7 3 7 42.9 1 4 25.0 0 0 - 1 0 1 6 1 0 0 3 2
+p22
+aVIvica Zubac LAL 01/20/2017 LAL vs. IND W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p23
+aVThomas Robinson LAL 01/20/2017 LAL vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p24
+aVMarcelo Huertas LAL 01/20/2017 LAL vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p25
+aVTimofey Mozgov LAL 01/20/2017 LAL vs. IND W 25 4 2 5 40.0 0 0 - 0 0 - 4 7 11 4 2 2 4 1 10
+p26
+aVTarik Black LAL 01/20/2017 LAL vs. IND W 28 8 4 6 66.7 0 0 - 0 1 0.0 6 7 13 3 1 0 1 2 16
+p27
+aVJose Calderon LAL 01/17/2017 LAL vs. DEN L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -5
+p28
+aVNick Young LAL 01/17/2017 LAL vs. DEN L 31 22 8 16 50.0 4 11 36.4 2 2 100.0 2 0 2 1 3 0 1 2 -6
+p29
+aVIvica Zubac LAL 01/17/2017 LAL vs. DEN L 26 11 5 11 45.5 0 0 - 1 2 50.0 5 8 13 1 1 3 1 2 8
+p30
+aVD'Angelo Russell LAL 01/17/2017 LAL vs. DEN L 17 5 2 9 22.2 1 2 50.0 0 0 - 1 1 2 3 1 0 1 2 -18
+p31
+aVLou Williams LAL 01/17/2017 LAL vs. DEN L 31 24 8 17 47.1 2 6 33.3 6 6 100.0 1 3 4 7 0 1 0 0 12
+p32
+aVTimofey Mozgov LAL 01/17/2017 LAL vs. DEN L 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -11
+p33
+aVTarik Black LAL 01/17/2017 LAL vs. DEN L 20 14 7 13 53.8 0 0 - 0 0 - 6 2 8 0 0 1 1 3 -8
+p34
+aVJulius Randle LAL 01/17/2017 LAL vs. DEN L 25 7 2 8 25.0 0 0 - 3 3 100.0 3 4 7 7 1 0 5 4 -10
+p35
+aVJordan Clarkson LAL 01/17/2017 LAL vs. DEN L 36 19 7 16 43.8 2 5 40.0 3 3 100.0 0 0 0 3 2 0 1 5 9
+p36
+aVBrandon Ingram LAL 01/17/2017 LAL vs. DEN L 37 15 6 14 42.9 2 6 33.3 1 2 50.0 1 4 5 4 3 0 0 2 1
+p37
+aVThomas Robinson LAL 01/17/2017 LAL vs. DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p38
+aVTarik Black LAL 01/15/2017 LAL vs. DET L 11 6 2 2 100.0 0 0 - 2 3 66.7 0 2 2 0 0 0 0 3 -8
+p39
+aVLou Williams LAL 01/15/2017 LAL vs. DET L 27 26 7 14 50.0 5 9 55.6 7 8 87.5 0 3 3 4 0 0 1 2 -10
+p40
+aVLuol Deng LAL 01/15/2017 LAL vs. DET L 36 2 1 6 16.7 0 3 0.0 0 0 - 2 5 7 1 1 0 0 2 11
+p41
+aVNick Young LAL 01/15/2017 LAL vs. DET L 26 8 2 8 25.0 1 7 14.3 3 3 100.0 2 5 7 1 0 0 0 3 4
+p42
+aVD'Angelo Russell LAL 01/15/2017 LAL vs. DET L 26 20 9 17 52.9 0 4 0.0 2 2 100.0 1 6 7 3 1 0 5 3 2
+p43
+aVJordan Clarkson LAL 01/15/2017 LAL vs. DET L 24 16 7 12 58.3 0 2 0.0 2 2 100.0 0 2 2 2 0 0 2 3 -7
+p44
+aVBrandon Ingram LAL 01/15/2017 LAL vs. DET L 28 5 1 7 14.3 0 1 0.0 3 6 50.0 2 2 4 3 0 1 0 0 -19
+p45
+aVJulius Randle LAL 01/15/2017 LAL vs. DET L 31 2 1 6 16.7 0 0 - 0 0 - 1 9 10 4 0 0 3 2 -5
+p46
+aVTimofey Mozgov LAL 01/15/2017 LAL vs. DET L 22 8 4 7 57.1 0 0 - 0 0 - 0 3 3 0 0 1 2 0 6
+p47
+aVIvica Zubac LAL 01/15/2017 LAL vs. DET L 9 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 0 2 1 0 1
+p48
+aVJose Calderon LAL 01/14/2017 LAL @ LAC L 7 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p49
+aVTarik Black LAL 01/14/2017 LAL @ LAC L 21 8 3 4 75.0 0 0 - 2 3 66.7 1 5 6 0 0 1 2 4 -9
+p50
+aVTimofey Mozgov LAL 01/14/2017 LAL @ LAC L 21 8 4 6 66.7 0 0 - 0 1 0.0 2 3 5 2 0 1 2 2 -8
+p51
+aVIvica Zubac LAL 01/14/2017 LAL @ LAC L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p52
+aVBrandon Ingram LAL 01/14/2017 LAL @ LAC L 31 14 4 8 50.0 2 2 100.0 4 6 66.7 0 5 5 5 1 0 1 0 1
+p53
+aVMetta World Peace LAL 01/14/2017 LAL @ LAC L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 1
+p54
+aVD'Angelo Russell LAL 01/14/2017 LAL @ LAC L 28 5 1 7 14.3 0 1 0.0 3 5 60.0 1 4 5 5 0 0 2 1 -19
+p55
+aVThomas Robinson LAL 01/14/2017 LAL @ LAC L 9 2 1 4 25.0 0 0 - 0 2 0.0 0 3 3 0 0 0 0 1 -3
+p56
+aVLou Williams LAL 01/14/2017 LAL @ LAC L 22 13 4 12 33.3 2 5 40.0 3 4 75.0 0 2 2 1 1 0 1 1 -10
+p57
+aVJulius Randle LAL 01/14/2017 LAL @ LAC L 28 4 2 7 28.6 0 0 - 0 0 - 1 7 8 2 0 0 3 4 -9
+p58
+aVNick Young LAL 01/14/2017 LAL @ LAC L 29 11 4 8 50.0 2 5 40.0 1 2 50.0 0 0 0 0 1 0 0 2 -16
+p59
+aVJordan Clarkson LAL 01/14/2017 LAL @ LAC L 28 21 8 14 57.1 3 4 75.0 2 2 100.0 1 3 4 3 0 0 2 3 -12
+p60
+aVMarcelo Huertas LAL 01/14/2017 LAL @ LAC L 12 4 2 4 50.0 0 0 - 0 2 0.0 0 0 0 2 0 0 0 2 5
+p61
+aVLuol Deng LAL 01/12/2017 LAL @ SAS L 19 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 2 1 0 1 1 -27
+p62
+aVNick Young LAL 01/12/2017 LAL @ SAS L 14 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 1 0 0 0 2 -26
+p63
+aVLou Williams LAL 01/12/2017 LAL @ SAS L 18 10 2 7 28.6 1 4 25.0 5 6 83.3 1 1 2 2 0 0 2 2 1
+p64
+aVJose Calderon LAL 01/12/2017 LAL @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p65
+aVMarcelo Huertas LAL 01/12/2017 LAL @ SAS L 15 2 0 6 0.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 0 0 -12
+p66
+aVIvica Zubac LAL 01/12/2017 LAL @ SAS L 15 8 4 7 57.1 0 0 - 0 0 - 2 2 4 1 2 1 1 1 -12
+p67
+aVTimofey Mozgov LAL 01/12/2017 LAL @ SAS L 10 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 0 1 2 3 -11
+p68
+aVTarik Black LAL 01/12/2017 LAL @ SAS L 18 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 1 0 1 3 -6
+p69
+aVBrandon Ingram LAL 01/12/2017 LAL @ SAS L 32 9 3 7 42.9 1 3 33.3 2 4 50.0 0 2 2 1 0 1 1 2 -11
+p70
+aVJordan Clarkson LAL 01/12/2017 LAL @ SAS L 24 14 6 11 54.5 0 2 0.0 2 4 50.0 0 1 1 3 0 0 0 3 -11
+p71
+aVJulius Randle LAL 01/12/2017 LAL @ SAS L 34 22 8 13 61.5 0 0 - 6 7 85.7 0 6 6 5 1 0 0 3 -30
+p72
+aVD'Angelo Russell LAL 01/12/2017 LAL @ SAS L 27 9 4 13 30.8 1 3 33.3 0 0 - 0 1 1 3 1 0 1 3 -36
+p73
+aVThomas Robinson LAL 01/12/2017 LAL @ SAS L 10 4 2 2 100.0 0 0 - 0 0 - 1 2 3 2 0 0 0 2 -15
+p74
+aVLou Williams LAL 01/10/2017 LAL vs. POR L 16 10 4 10 40.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 1 -6
+p75
+aVMetta World Peace LAL 01/10/2017 LAL vs. POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p76
+aVTarik Black LAL 01/10/2017 LAL vs. POR L 17 2 0 0 - 0 0 - 2 4 50.0 1 3 4 1 0 0 1 1 -5
+p77
+aVJulius Randle LAL 01/10/2017 LAL vs. POR L 26 6 2 9 22.2 0 0 - 2 4 50.0 2 8 10 3 0 0 2 5 -8
+p78
+aVBrandon Ingram LAL 01/10/2017 LAL vs. POR L 26 11 3 6 50.0 2 2 100.0 3 6 50.0 0 4 4 2 0 1 1 0 -10
+p79
+aVTimofey Mozgov LAL 01/10/2017 LAL vs. POR L 20 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 0 1 2 3 -12
+p80
+aVThomas Robinson LAL 01/10/2017 LAL vs. POR L 16 8 4 6 66.7 0 0 - 0 0 - 1 1 2 2 0 1 1 2 -9
+p81
+aVMarcelo Huertas LAL 01/10/2017 LAL vs. POR L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p82
+aVJose Calderon LAL 01/10/2017 LAL vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p83
+aVD'Angelo Russell LAL 01/10/2017 LAL vs. POR L 30 9 4 14 28.6 0 7 0.0 1 4 25.0 0 8 8 6 3 1 2 3 -8
+p84
+aVNick Young LAL 01/10/2017 LAL vs. POR L 28 8 2 9 22.2 2 5 40.0 2 3 66.7 0 0 0 1 1 1 0 1 -6
+p85
+aVLuol Deng LAL 01/10/2017 LAL vs. POR L 30 14 5 10 50.0 1 2 50.0 3 4 75.0 4 2 6 0 1 0 0 0 -21
+p86
+aVJordan Clarkson LAL 01/10/2017 LAL vs. POR L 23 9 3 9 33.3 2 5 40.0 1 1 100.0 0 1 1 1 2 0 0 2 -12
+p87
+aVLuol Deng LAL 01/08/2017 LAL vs. ORL W 31 11 4 11 36.4 2 6 33.3 1 2 50.0 1 2 3 0 0 0 0 1 8
+p88
+aVTimofey Mozgov LAL 01/08/2017 LAL vs. ORL W 30 15 7 7 100.0 0 0 - 1 1 100.0 2 7 9 2 1 0 0 4 15
+p89
+aVJordan Clarkson LAL 01/08/2017 LAL vs. ORL W 29 9 3 9 33.3 1 5 20.0 2 2 100.0 0 4 4 4 1 0 0 0 12
+p90
+aVLou Williams LAL 01/08/2017 LAL vs. ORL W 17 10 3 12 25.0 0 7 0.0 4 4 100.0 0 1 1 3 0 0 2 0 8
+p91
+aVJulius Randle LAL 01/08/2017 LAL vs. ORL W 34 19 6 12 50.0 1 1 100.0 6 8 75.0 1 8 9 5 1 1 2 5 12
+p92
+aVD'Angelo Russell LAL 01/08/2017 LAL vs. ORL W 31 17 7 10 70.0 2 5 40.0 1 2 50.0 0 8 8 7 3 1 2 3 8
+p93
+aVTarik Black LAL 01/08/2017 LAL vs. ORL W 12 7 3 5 60.0 0 0 - 1 1 100.0 0 3 3 0 1 0 1 4 1
+p94
+aVNick Young LAL 01/08/2017 LAL vs. ORL W 19 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 0 0 1 2 0 4
+p95
+aVBrandon Ingram LAL 01/08/2017 LAL vs. ORL W 27 17 6 9 66.7 2 4 50.0 3 4 75.0 0 3 3 2 0 1 3 2 12
+p96
+aVThomas Robinson LAL 01/08/2017 LAL vs. ORL W 10 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 1 1 1 2 0
+p97
+aVThomas Robinson LAL 01/06/2017 LAL vs. MIA W 17 7 3 5 60.0 0 0 - 1 6 16.7 3 6 9 1 2 0 2 4 0
+p98
+aVD'Angelo Russell LAL 01/06/2017 LAL vs. MIA W 26 19 7 17 41.2 1 4 25.0 4 6 66.7 3 3 6 5 3 0 0 0 17
+p99
+aVTimofey Mozgov LAL 01/06/2017 LAL vs. MIA W 16 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 1 9
+p100
+aVLou Williams LAL 01/06/2017 LAL vs. MIA W 24 24 9 19 47.4 5 10 50.0 1 1 100.0 0 1 1 3 0 0 3 1 12
+p101
+aVJulius Randle LAL 01/06/2017 LAL vs. MIA W 25 15 6 9 66.7 0 0 - 3 3 100.0 0 6 6 3 1 1 0 2 11
+p102
+aVBrandon Ingram LAL 01/06/2017 LAL vs. MIA W 28 17 6 9 66.7 0 1 0.0 5 5 100.0 1 5 6 4 0 0 0 0 10
+p103
+aVJordan Clarkson LAL 01/06/2017 LAL vs. MIA W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p104
+aVLuol Deng LAL 01/06/2017 LAL vs. MIA W 30 19 8 12 66.7 3 4 75.0 0 0 - 3 11 14 2 0 0 3 3 32
+p105
+aVNick Young LAL 01/06/2017 LAL vs. MIA W 29 5 1 9 11.1 1 6 16.7 2 2 100.0 1 4 5 1 0 0 0 2 32
+p106
+aVJose Calderon LAL 01/06/2017 LAL vs. MIA W 5 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -2
+p107
+aVMarcelo Huertas LAL 01/06/2017 LAL vs. MIA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p108
+aVTarik Black LAL 01/06/2017 LAL vs. MIA W 25 10 3 5 60.0 0 0 - 4 4 100.0 6 5 11 2 0 1 1 4 17
+p109
+aVMetta World Peace LAL 01/06/2017 LAL vs. MIA W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 2
+p110
+aVJordan Clarkson LAL 01/05/2017 LAL @ POR L 32 21 8 14 57.1 4 7 57.1 1 2 50.0 1 2 3 1 2 0 0 2 5
+p111
+aVTarik Black LAL 01/05/2017 LAL @ POR L 15 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 0 2 1 4 9
+p112
+aVD'Angelo Russell LAL 01/05/2017 LAL @ POR L 35 22 6 18 33.3 0 8 0.0 10 11 90.9 1 3 4 2 2 0 3 2 -12
+p113
+aVThomas Robinson LAL 01/05/2017 LAL @ POR L 15 6 3 5 60.0 0 0 - 0 0 - 3 2 5 2 2 0 0 2 5
+p114
+aVTimofey Mozgov LAL 01/05/2017 LAL @ POR L 11 7 3 5 60.0 0 0 - 1 1 100.0 0 5 5 0 0 0 0 2 -9
+p115
+aVBrandon Ingram LAL 01/05/2017 LAL @ POR L 37 11 3 6 50.0 2 4 50.0 3 4 75.0 1 3 4 1 0 1 2 4 -6
+p116
+aVNick Young LAL 01/05/2017 LAL @ POR L 35 13 5 15 33.3 3 9 33.3 0 0 - 1 1 2 1 0 0 0 4 -18
+p117
+aVLou Williams LAL 01/05/2017 LAL @ POR L 24 10 3 8 37.5 1 2 50.0 3 4 75.0 0 3 3 2 0 0 3 0 -2
+p118
+aVJulius Randle LAL 01/05/2017 LAL @ POR L 37 17 4 13 30.8 0 1 0.0 9 11 81.8 2 7 9 5 1 0 2 5 -17
+p119
+aVD'Angelo Russell LAL 01/03/2017 LAL vs. MEM W 33 18 6 12 50.0 6 9 66.7 0 0 - 0 4 4 6 1 0 2 0 18
+p120
+aVJulius Randle LAL 01/03/2017 LAL vs. MEM W 37 19 9 15 60.0 0 0 - 1 4 25.0 2 12 14 11 1 0 2 3 21
+p121
+aVTarik Black LAL 01/03/2017 LAL vs. MEM W 10 6 1 4 25.0 0 0 - 4 6 66.7 1 2 3 0 1 0 0 3 -7
+p122
+aVThomas Robinson LAL 01/03/2017 LAL vs. MEM W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -7
+p123
+aVTimofey Mozgov LAL 01/03/2017 LAL vs. MEM W 38 14 7 12 58.3 0 0 - 0 0 - 1 4 5 1 1 1 1 6 18
+p124
+aVLuol Deng LAL 01/03/2017 LAL vs. MEM W 31 3 1 4 25.0 1 3 33.3 0 0 - 2 4 6 6 0 0 1 0 15
+p125
+aVLou Williams LAL 01/03/2017 LAL vs. MEM W 17 14 4 9 44.4 1 4 25.0 5 5 100.0 0 1 1 2 1 0 0 0 -1
+p126
+aVNick Young LAL 01/03/2017 LAL vs. MEM W 27 20 6 11 54.5 6 11 54.5 2 4 50.0 0 0 0 2 0 0 0 4 9
+p127
+aVBrandon Ingram LAL 01/03/2017 LAL vs. MEM W 25 6 2 4 50.0 0 0 - 2 6 33.3 0 3 3 2 0 1 1 2 -1
+p128
+aVJordan Clarkson LAL 01/03/2017 LAL vs. MEM W 18 16 6 9 66.7 3 6 50.0 1 3 33.3 3 4 7 3 0 0 1 3 5
+p129
+aVD'Angelo Russell LAL 01/01/2017 LAL vs. TOR L 31 28 9 18 50.0 6 12 50.0 4 6 66.7 1 3 4 5 1 0 0 2 -3
+p130
+aVTarik Black LAL 01/01/2017 LAL vs. TOR L 14 9 2 6 33.3 0 0 - 5 5 100.0 3 6 9 0 0 0 0 3 -7
+p131
+aVThomas Robinson LAL 01/01/2017 LAL vs. TOR L 17 12 6 9 66.7 0 0 - 0 0 - 7 2 9 2 1 0 1 2 -5
+p132
+aVTimofey Mozgov LAL 01/01/2017 LAL vs. TOR L 21 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 0 1 1 1 3 -7
+p133
+aVLou Williams LAL 01/01/2017 LAL vs. TOR L 17 8 3 11 27.3 2 4 50.0 0 2 0.0 0 0 0 1 0 0 0 1 -6
+p134
+aVJordan Clarkson LAL 01/01/2017 LAL vs. TOR L 17 2 1 5 20.0 0 2 0.0 0 1 0.0 0 1 1 1 0 0 1 0 -12
+p135
+aVNick Young LAL 01/01/2017 LAL vs. TOR L 30 26 8 14 57.1 7 9 77.8 3 3 100.0 0 2 2 0 2 0 2 3 1
+p136
+aVJulius Randle LAL 01/01/2017 LAL vs. TOR L 36 15 3 10 30.0 0 0 - 9 10 90.0 3 6 9 6 3 2 2 4 -7
+p137
+aVBrandon Ingram LAL 01/01/2017 LAL vs. TOR L 26 6 2 7 28.6 0 3 0.0 2 2 100.0 1 2 3 2 0 0 0 2 0
+p138
+aVLuol Deng LAL 01/01/2017 LAL vs. TOR L 30 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 2 0 0 0 1 1
+p139
+aVLuol Deng LAL 12/29/2016 LAL vs. DAL L 34 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 1 1 0 0 1 -1
+p140
+aVD'Angelo Russell LAL 12/29/2016 LAL vs. DAL L 31 15 5 15 33.3 1 5 20.0 4 4 100.0 0 4 4 6 2 0 3 3 -12
+p141
+aVNick Young LAL 12/29/2016 LAL vs. DAL L 30 17 6 8 75.0 5 6 83.3 0 0 - 0 2 2 1 1 0 0 0 -7
+p142
+aVTimofey Mozgov LAL 12/29/2016 LAL vs. DAL L 16 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -7
+p143
+aVLou Williams LAL 12/29/2016 LAL vs. DAL L 21 10 3 7 42.9 0 2 0.0 4 5 80.0 0 1 1 3 0 0 4 2 -3
+p144
+aVThomas Robinson LAL 12/29/2016 LAL vs. DAL L 19 8 4 5 80.0 0 0 - 0 0 - 4 6 10 0 1 1 2 3 -1
+p145
+aVJulius Randle LAL 12/29/2016 LAL vs. DAL L 28 18 5 10 50.0 0 1 0.0 8 10 80.0 1 3 4 3 0 0 4 3 -9
+p146
+aVBrandon Ingram LAL 12/29/2016 LAL vs. DAL L 32 3 1 5 20.0 0 1 0.0 1 2 50.0 1 5 6 1 0 0 0 3 -14
+p147
+aVJordan Clarkson LAL 12/29/2016 LAL vs. DAL L 30 15 7 11 63.6 1 3 33.3 0 2 0.0 0 1 1 0 3 0 2 2 -6
+p148
+aVNick Young LAL 12/27/2016 LAL vs. UTA L 23 4 2 8 25.0 0 4 0.0 0 0 - 0 2 2 1 2 0 1 2 -7
+p149
+aVTimofey Mozgov LAL 12/27/2016 LAL vs. UTA L 26 9 3 8 37.5 0 0 - 3 4 75.0 4 0 4 1 2 1 0 3 -5
+p150
+aVJordan Clarkson LAL 12/27/2016 LAL vs. UTA L 26 12 6 10 60.0 0 1 0.0 0 0 - 3 2 5 3 1 1 3 2 3
+p151
+aVJulius Randle LAL 12/27/2016 LAL vs. UTA L 31 25 9 12 75.0 1 1 100.0 6 8 75.0 6 6 12 3 1 0 2 2 -8
+p152
+aVD'Angelo Russell LAL 12/27/2016 LAL vs. UTA L 25 4 2 11 18.2 0 3 0.0 0 0 - 0 1 1 4 0 0 1 2 -8
+p153
+aVLuol Deng LAL 12/27/2016 LAL vs. UTA L 33 9 4 10 40.0 1 3 33.3 0 0 - 1 8 9 2 1 1 1 2 -1
+p154
+aVLou Williams LAL 12/27/2016 LAL vs. UTA L 27 22 6 13 46.2 2 4 50.0 8 8 100.0 0 2 2 3 0 0 3 2 8
+p155
+aVBrandon Ingram LAL 12/27/2016 LAL vs. UTA L 31 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 2 0 0 2 4 4
+p156
+aVThomas Robinson LAL 12/27/2016 LAL vs. UTA L 18 10 5 6 83.3 0 0 - 0 0 - 1 2 3 0 1 0 1 2 4
+p157
+aVTimofey Mozgov LAL 12/25/2016 LAL vs. LAC W 25 19 8 11 72.7 0 0 - 3 4 75.0 2 1 3 0 0 0 1 2 13
+p158
+aVD'Angelo Russell LAL 12/25/2016 LAL vs. LAC W 32 14 5 13 38.5 2 6 33.3 2 2 100.0 0 5 5 4 0 0 3 1 14
+p159
+aVLou Williams LAL 12/25/2016 LAL vs. LAC W 24 14 5 11 45.5 1 3 33.3 3 4 75.0 0 3 3 1 1 1 3 2 -3
+p160
+aVJulius Randle LAL 12/25/2016 LAL vs. LAC W 31 13 5 11 45.5 0 1 0.0 3 4 75.0 2 5 7 8 2 0 0 4 12
+p161
+aVNick Young LAL 12/25/2016 LAL vs. LAC W 30 19 6 9 66.7 5 7 71.4 2 2 100.0 0 2 2 2 1 0 1 3 25
+p162
+aVJordan Clarkson LAL 12/25/2016 LAL vs. LAC W 20 5 2 9 22.2 0 4 0.0 1 2 50.0 1 0 1 0 1 0 1 2 -9
+p163
+aVThomas Robinson LAL 12/25/2016 LAL vs. LAC W 16 4 2 3 66.7 0 0 - 0 0 - 2 7 9 1 0 0 3 3 -2
+p164
+aVBrandon Ingram LAL 12/25/2016 LAL vs. LAC W 28 10 3 8 37.5 0 1 0.0 4 5 80.0 1 5 6 0 0 0 1 3 -1
+p165
+aVLuol Deng LAL 12/25/2016 LAL vs. LAC W 34 13 4 9 44.4 0 3 0.0 5 7 71.4 5 7 12 2 2 2 0 1 -4
+p166
+aVBrandon Ingram LAL 12/23/2016 LAL @ ORL L 23 9 3 9 33.3 0 2 0.0 3 3 100.0 1 2 3 2 0 0 1 4 -15
+p167
+aVMetta World Peace LAL 12/23/2016 LAL @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p168
+aVMarcelo Huertas LAL 12/23/2016 LAL @ ORL L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 3 2 1 2 0 8
+p169
+aVLou Williams LAL 12/23/2016 LAL @ ORL L 21 13 3 11 27.3 1 3 33.3 6 7 85.7 0 2 2 1 2 0 0 0 -10
+p170
+aVThomas Robinson LAL 12/23/2016 LAL @ ORL L 19 7 3 5 60.0 0 0 - 1 2 50.0 5 6 11 1 0 1 1 1 -8
+p171
+aVNick Young LAL 12/23/2016 LAL @ ORL L 28 5 2 7 28.6 1 3 33.3 0 2 0.0 1 2 3 0 2 2 0 0 -11
+p172
+aVTimofey Mozgov LAL 12/23/2016 LAL @ ORL L 25 4 1 7 14.3 0 0 - 2 2 100.0 2 5 7 0 0 0 1 1 -9
+p173
+aVJordan Clarkson LAL 12/23/2016 LAL @ ORL L 27 18 7 14 50.0 4 8 50.0 0 0 - 1 4 5 2 0 0 5 1 -19
+p174
+aVIvica Zubac LAL 12/23/2016 LAL @ ORL L 17 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 1 0 0 1 1 -10
+p175
+aVLuol Deng LAL 12/23/2016 LAL @ ORL L 31 11 3 8 37.5 1 2 50.0 4 4 100.0 1 9 10 3 0 1 2 2 -9
+p176
+aVD'Angelo Russell LAL 12/23/2016 LAL @ ORL L 30 15 6 15 40.0 1 4 25.0 2 2 100.0 1 1 2 3 2 1 3 4 -12
+p177
+aVD'Angelo Russell LAL 12/22/2016 LAL @ MIA L 32 17 7 16 43.8 3 8 37.5 0 0 - 0 4 4 7 1 0 6 4 -11
+p178
+aVLuol Deng LAL 12/22/2016 LAL @ MIA L 34 13 5 10 50.0 3 6 50.0 0 0 - 0 7 7 2 2 0 2 1 -10
+p179
+aVThomas Robinson LAL 12/22/2016 LAL @ MIA L 18 8 3 4 75.0 0 0 - 2 2 100.0 5 7 12 2 0 1 1 2 -5
+p180
+aVLou Williams LAL 12/22/2016 LAL @ MIA L 28 27 8 17 47.1 3 7 42.9 8 8 100.0 0 2 2 1 0 0 1 1 -7
+p181
+aVBrandon Ingram LAL 12/22/2016 LAL @ MIA L 35 4 2 7 28.6 0 2 0.0 0 2 0.0 4 4 8 2 0 0 1 3 2
+p182
+aVNick Young LAL 12/22/2016 LAL @ MIA L 36 20 7 14 50.0 5 11 45.5 1 1 100.0 0 0 0 1 2 0 0 2 10
+p183
+aVJordan Clarkson LAL 12/22/2016 LAL @ MIA L 25 4 2 10 20.0 0 3 0.0 0 0 - 0 2 2 3 2 0 1 0 -9
+p184
+aVTimofey Mozgov LAL 12/22/2016 LAL @ MIA L 30 14 6 11 54.5 0 0 - 2 2 100.0 0 5 5 0 0 1 1 1 -3
+p185
+aVMetta World Peace LAL 12/22/2016 LAL @ MIA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p186
+aVNick Young LAL 12/20/2016 LAL @ CHA L 27 24 9 18 50.0 5 10 50.0 1 1 100.0 0 2 2 0 0 0 1 0 -22
+p187
+aVJordan Clarkson LAL 12/20/2016 LAL @ CHA L 31 25 9 13 69.2 7 9 77.8 0 0 - 0 3 3 5 1 1 1 2 6
+p188
+aVTimofey Mozgov LAL 12/20/2016 LAL @ CHA L 11 0 0 2 0.0 0 0 - 0 0 - 4 2 6 1 0 0 0 3 -6
+p189
+aVIvica Zubac LAL 12/20/2016 LAL @ CHA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p190
+aVLuol Deng LAL 12/20/2016 LAL @ CHA L 34 11 5 10 50.0 1 4 25.0 0 0 - 0 7 7 1 0 3 1 2 -8
+p191
+aVBrandon Ingram LAL 12/20/2016 LAL @ CHA L 28 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 3 0 0 0 3 10
+p192
+aVJulius Randle LAL 12/20/2016 LAL @ CHA L 31 8 4 12 33.3 0 0 - 0 0 - 1 5 6 4 0 5 3 5 -12
+p193
+aVD'Angelo Russell LAL 12/20/2016 LAL @ CHA L 26 15 6 13 46.2 1 4 25.0 2 2 100.0 1 4 5 5 0 2 2 0 -7
+p194
+aVLou Williams LAL 12/20/2016 LAL @ CHA L 28 16 5 12 41.7 1 4 25.0 5 6 83.3 1 1 2 8 2 1 2 1 18
+p195
+aVLarry Nance Jr. LAL 12/20/2016 LAL @ CHA L 21 10 4 5 80.0 1 1 100.0 1 2 50.0 2 2 4 2 2 0 2 4 1
+p196
+aVJordan Clarkson LAL 12/17/2016 LAL @ CLE L 31 20 7 12 58.3 4 7 57.1 2 2 100.0 2 3 5 1 0 0 2 3 -10
+p197
+aVLuol Deng LAL 12/17/2016 LAL @ CLE L 34 15 6 11 54.5 3 7 42.9 0 0 - 2 6 8 3 1 0 1 0 -1
+p198
+aVLou Williams LAL 12/17/2016 LAL @ CLE L 27 12 2 10 20.0 0 4 0.0 8 10 80.0 1 2 3 4 0 1 0 1 -14
+p199
+aVJulius Randle LAL 12/17/2016 LAL @ CLE L 28 16 8 15 53.3 0 0 - 0 1 0.0 1 3 4 7 0 0 5 1 -3
+p200
+aVLarry Nance Jr. LAL 12/17/2016 LAL @ CLE L 27 2 1 3 33.3 0 0 - 0 0 - 1 4 5 3 0 1 0 4 -16
+p201
+aVTimofey Mozgov LAL 12/17/2016 LAL @ CLE L 15 2 1 6 16.7 0 0 - 0 0 - 1 3 4 0 1 0 1 1 0
+p202
+aVBrandon Ingram LAL 12/17/2016 LAL @ CLE L 41 9 4 10 40.0 1 5 20.0 0 0 - 2 8 10 9 0 0 2 1 1
+p203
+aVNick Young LAL 12/17/2016 LAL @ CLE L 38 32 12 19 63.2 8 14 57.1 0 0 - 0 2 2 3 1 0 0 5 -12
+p204
+aVLou Williams LAL 12/16/2016 LAL @ PHI W 23 18 5 12 41.7 1 6 16.7 7 8 87.5 0 0 0 3 4 0 1 0 2
+p205
+aVNick Young LAL 12/16/2016 LAL @ PHI W 21 15 5 9 55.6 2 5 40.0 3 4 75.0 0 1 1 2 0 1 0 2 16
+p206
+aVJordan Clarkson LAL 12/16/2016 LAL @ PHI W 26 10 4 9 44.4 2 4 50.0 0 0 - 0 3 3 2 0 0 2 1 -9
+p207
+aVD'Angelo Russell LAL 12/16/2016 LAL @ PHI W 27 15 4 12 33.3 3 8 37.5 4 4 100.0 0 7 7 2 1 0 2 2 13
+p208
+aVBrandon Ingram LAL 12/16/2016 LAL @ PHI W 21 2 1 8 12.5 0 2 0.0 0 0 - 1 2 3 1 0 0 2 1 -7
+p209
+aVLuol Deng LAL 12/16/2016 LAL @ PHI W 32 7 3 8 37.5 1 5 20.0 0 0 - 1 5 6 3 1 0 0 0 16
+p210
+aVTimofey Mozgov LAL 12/16/2016 LAL @ PHI W 19 4 2 5 40.0 0 0 - 0 0 - 1 4 5 1 0 0 4 4 14
+p211
+aVTarik Black LAL 12/16/2016 LAL @ PHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -2
+p212
+aVJulius Randle LAL 12/16/2016 LAL @ PHI W 33 25 10 13 76.9 0 0 - 5 6 83.3 1 8 9 4 3 0 5 4 13
+p213
+aVLarry Nance Jr. LAL 12/16/2016 LAL @ PHI W 34 4 2 3 66.7 0 0 - 0 0 - 4 7 11 1 1 3 3 4 -1
+p214
+aVJordan Clarkson LAL 12/14/2016 LAL @ BKN L 19 12 6 12 50.0 0 2 0.0 0 0 - 1 3 4 1 1 0 3 2 -6
+p215
+aVLarry Nance Jr. LAL 12/14/2016 LAL @ BKN L 22 6 3 3 100.0 0 0 - 0 0 - 1 3 4 2 1 3 0 2 7
+p216
+aVNick Young LAL 12/14/2016 LAL @ BKN L 30 14 5 15 33.3 3 10 30.0 1 1 100.0 3 1 4 0 1 1 1 3 -7
+p217
+aVLou Williams LAL 12/14/2016 LAL @ BKN L 24 16 5 12 41.7 0 4 0.0 6 6 100.0 1 1 2 2 2 0 3 4 -4
+p218
+aVTimofey Mozgov LAL 12/14/2016 LAL @ BKN L 33 12 4 10 40.0 0 0 - 4 6 66.7 7 6 13 0 1 1 1 4 -15
+p219
+aVBrandon Ingram LAL 12/14/2016 LAL @ BKN L 26 9 3 9 33.3 0 2 0.0 3 6 50.0 0 1 1 1 0 0 0 0 -17
+p220
+aVJulius Randle LAL 12/14/2016 LAL @ BKN L 31 6 2 8 25.0 0 0 - 2 5 40.0 1 9 10 1 0 0 0 5 -7
+p221
+aVLuol Deng LAL 12/14/2016 LAL @ BKN L 32 11 5 12 41.7 1 4 25.0 0 2 0.0 3 5 8 2 1 1 0 2 2
+p222
+aVD'Angelo Russell LAL 12/14/2016 LAL @ BKN L 23 11 2 10 20.0 2 5 40.0 5 8 62.5 1 2 3 2 1 0 2 4 -3
+p223
+aVBrandon Ingram LAL 12/12/2016 LAL @ SAC L 26 5 2 7 28.6 0 1 0.0 1 2 50.0 1 4 5 2 0 0 0 2 -23
+p224
+aVMarcelo Huertas LAL 12/12/2016 LAL @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p225
+aVThomas Robinson LAL 12/12/2016 LAL @ SAC L 19 4 2 5 40.0 0 0 - 0 0 - 3 3 6 1 3 2 2 0 -6
+p226
+aVLuol Deng LAL 12/12/2016 LAL @ SAC L 26 16 7 11 63.6 2 3 66.7 0 1 0.0 1 3 4 4 2 0 1 0 -15
+p227
+aVLarry Nance Jr. LAL 12/12/2016 LAL @ SAC L 17 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 2 0 3 3 -1
+p228
+aVJordan Clarkson LAL 12/12/2016 LAL @ SAC L 22 15 4 11 36.4 1 2 50.0 6 6 100.0 1 1 2 4 1 0 1 2 -13
+p229
+aVIvica Zubac LAL 12/12/2016 LAL @ SAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p230
+aVLou Williams LAL 12/12/2016 LAL @ SAC L 26 14 3 12 25.0 2 5 40.0 6 8 75.0 0 1 1 2 1 1 2 0 -9
+p231
+aVMetta World Peace LAL 12/12/2016 LAL @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p232
+aVNick Young LAL 12/12/2016 LAL @ SAC L 26 8 3 10 30.0 2 7 28.6 0 0 - 0 2 2 1 1 0 2 1 -12
+p233
+aVTimofey Mozgov LAL 12/12/2016 LAL @ SAC L 23 8 4 7 57.1 0 0 - 0 0 - 5 1 6 0 1 0 1 4 -13
+p234
+aVJulius Randle LAL 12/12/2016 LAL @ SAC L 28 2 1 7 14.3 0 1 0.0 0 0 - 4 4 8 0 1 0 2 4 -18
+p235
+aVD'Angelo Russell LAL 12/12/2016 LAL @ SAC L 20 17 6 10 60.0 3 4 75.0 2 2 100.0 1 1 2 4 0 0 3 0 5
+p236
+aVNick Young LAL 12/11/2016 LAL vs. NYK L 20 15 6 11 54.5 1 6 16.7 2 3 66.7 2 2 4 0 0 0 0 2 0
+p237
+aVTimofey Mozgov LAL 12/11/2016 LAL vs. NYK L 22 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 1 1 2 2
+p238
+aVJordan Clarkson LAL 12/11/2016 LAL vs. NYK L 32 14 6 10 60.0 0 1 0.0 2 3 66.7 2 2 4 4 0 0 0 1 1
+p239
+aVD'Angelo Russell LAL 12/11/2016 LAL vs. NYK L 17 3 1 8 12.5 1 3 33.3 0 0 - 0 0 0 5 2 0 4 0 -6
+p240
+aVJulius Randle LAL 12/11/2016 LAL vs. NYK L 34 17 7 12 58.3 0 0 - 3 4 75.0 2 8 10 4 0 0 1 4 -1
+p241
+aVLou Williams LAL 12/11/2016 LAL vs. NYK L 26 24 6 13 46.2 2 7 28.6 10 10 100.0 0 6 6 5 2 0 5 2 -3
+p242
+aVLarry Nance Jr. LAL 12/11/2016 LAL vs. NYK L 20 6 3 5 60.0 0 0 - 0 0 - 2 0 2 3 1 0 1 2 -12
+p243
+aVBrandon Ingram LAL 12/11/2016 LAL vs. NYK L 26 3 1 8 12.5 1 3 33.3 0 0 - 0 2 2 2 0 0 0 6 -8
+p244
+aVLuol Deng LAL 12/11/2016 LAL vs. NYK L 32 22 8 13 61.5 5 8 62.5 1 1 100.0 0 5 5 2 2 0 1 1 -7
+p245
+aVThomas Robinson LAL 12/11/2016 LAL vs. NYK L 11 4 2 3 66.7 0 0 - 0 1 0.0 0 4 4 0 0 0 1 2 4
+p246
+aVLarry Nance Jr. LAL 12/09/2016 LAL vs. PHX L 21 10 4 8 50.0 0 1 0.0 2 3 66.7 1 4 5 0 1 2 0 3 9
+p247
+aVBrandon Ingram LAL 12/09/2016 LAL vs. PHX L 31 9 3 8 37.5 1 2 50.0 2 4 50.0 2 5 7 3 0 0 0 1 -5
+p248
+aVJulius Randle LAL 12/09/2016 LAL vs. PHX L 33 14 4 11 36.4 0 2 0.0 6 7 85.7 1 8 9 5 1 0 6 5 -2
+p249
+aVThomas Robinson LAL 12/09/2016 LAL vs. PHX L 11 5 1 1 100.0 0 0 - 3 4 75.0 2 3 5 1 0 0 0 1 -4
+p250
+aVJordan Clarkson LAL 12/09/2016 LAL vs. PHX L 34 14 6 17 35.3 0 5 0.0 2 3 66.7 1 1 2 3 0 0 4 4 -14
+p251
+aVMarcelo Huertas LAL 12/09/2016 LAL vs. PHX L 19 12 5 7 71.4 2 3 66.7 0 0 - 0 1 1 3 0 0 1 2 7
+p252
+aVTimofey Mozgov LAL 12/09/2016 LAL vs. PHX L 20 10 4 10 40.0 0 0 - 2 2 100.0 3 1 4 1 0 0 1 3 -17
+p253
+aVLuol Deng LAL 12/09/2016 LAL vs. PHX L 37 6 3 6 50.0 0 1 0.0 0 0 - 0 11 11 0 1 0 1 0 -6
+p254
+aVLou Williams LAL 12/09/2016 LAL vs. PHX L 35 35 10 19 52.6 6 12 50.0 9 11 81.8 0 5 5 2 1 0 2 2 12
+p255
+aVJulius Randle LAL 12/07/2016 LAL @ HOU L 29 21 9 19 47.4 0 1 0.0 3 4 75.0 5 5 10 1 0 0 3 2 -18
+p256
+aVMetta World Peace LAL 12/07/2016 LAL @ HOU L 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 1 0 0 -1
+p257
+aVJordan Clarkson LAL 12/07/2016 LAL @ HOU L 35 7 3 13 23.1 1 5 20.0 0 0 - 0 2 2 2 0 0 1 0 -26
+p258
+aVTimofey Mozgov LAL 12/07/2016 LAL @ HOU L 15 11 5 9 55.6 0 0 - 1 1 100.0 2 3 5 0 0 0 3 4 -19
+p259
+aVMarcelo Huertas LAL 12/07/2016 LAL @ HOU L 31 10 3 7 42.9 0 4 0.0 4 4 100.0 0 3 3 7 5 0 6 3 -20
+p260
+aVThomas Robinson LAL 12/07/2016 LAL @ HOU L 15 2 0 1 0.0 0 0 - 2 4 50.0 1 3 4 1 1 0 1 2 -18
+p261
+aVLou Williams LAL 12/07/2016 LAL @ HOU L 25 24 7 12 58.3 2 4 50.0 8 8 100.0 1 0 1 0 3 1 6 1 -26
+p262
+aVBrandon Ingram LAL 12/07/2016 LAL @ HOU L 33 12 5 13 38.5 2 4 50.0 0 2 0.0 3 4 7 1 1 1 5 4 -31
+p263
+aVLarry Nance Jr. LAL 12/07/2016 LAL @ HOU L 23 2 1 5 20.0 0 1 0.0 0 0 - 2 3 5 1 1 1 1 3 -25
+p264
+aVLuol Deng LAL 12/07/2016 LAL @ HOU L 22 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 2 0 1 3 -10
+p265
+aVIvica Zubac LAL 12/07/2016 LAL @ HOU L 5 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p266
+aVTarik Black LAL 12/05/2016 LAL vs. UTA L 12 7 3 5 60.0 0 0 - 1 2 50.0 4 1 5 0 2 0 1 2 0
+p267
+aVBrandon Ingram LAL 12/05/2016 LAL vs. UTA L 25 4 1 6 16.7 0 1 0.0 2 2 100.0 0 2 2 2 0 1 1 3 -8
+p268
+aVThomas Robinson LAL 12/05/2016 LAL vs. UTA L 16 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 1 1 0 1 4 11
+p269
+aVJulius Randle LAL 12/05/2016 LAL vs. UTA L 37 11 5 12 41.7 0 0 - 1 2 50.0 4 7 11 1 2 0 0 4 -8
+p270
+aVTimofey Mozgov LAL 12/05/2016 LAL vs. UTA L 20 10 4 7 57.1 0 0 - 2 3 66.7 2 2 4 0 0 0 0 1 -17
+p271
+aVMetta World Peace LAL 12/05/2016 LAL vs. UTA L 12 4 2 5 40.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -26
+p272
+aVJordan Clarkson LAL 12/05/2016 LAL vs. UTA L 38 17 7 13 53.8 1 2 50.0 2 2 100.0 1 4 5 0 0 0 3 1 12
+p273
+aVMarcelo Huertas LAL 12/05/2016 LAL vs. UTA L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 1 2 6
+p274
+aVLuol Deng LAL 12/05/2016 LAL vs. UTA L 27 5 2 7 28.6 0 1 0.0 1 1 100.0 2 0 2 0 2 0 0 3 -22
+p275
+aVLou Williams LAL 12/05/2016 LAL vs. UTA L 34 38 13 27 48.1 4 9 44.4 8 9 88.9 0 6 6 7 1 0 3 1 22
+p276
+aVJulius Randle LAL 12/03/2016 LAL @ MEM L 29 6 3 8 37.5 0 1 0.0 0 3 0.0 2 4 6 2 0 0 1 5 -10
+p277
+aVBrandon Ingram LAL 12/03/2016 LAL @ MEM L 39 9 2 5 40.0 1 2 50.0 4 4 100.0 1 4 5 1 0 3 5 0 -9
+p278
+aVMarcelo Huertas LAL 12/03/2016 LAL @ MEM L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 7 1 0 2 1 -2
+p279
+aVLuol Deng LAL 12/03/2016 LAL @ MEM L 36 18 8 15 53.3 2 7 28.6 0 1 0.0 2 3 5 0 4 1 2 2 7
+p280
+aVJordan Clarkson LAL 12/03/2016 LAL @ MEM L 28 8 4 16 25.0 0 2 0.0 0 0 - 3 1 4 2 0 0 2 3 -5
+p281
+aVTimofey Mozgov LAL 12/03/2016 LAL @ MEM L 27 13 4 6 66.7 0 0 - 5 7 71.4 3 2 5 2 0 0 2 3 -6
+p282
+aVTarik Black LAL 12/03/2016 LAL @ MEM L 15 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 0 1 1 3
+p283
+aVThomas Robinson LAL 12/03/2016 LAL @ MEM L 12 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 3
+p284
+aVLou Williams LAL 12/03/2016 LAL @ MEM L 32 40 11 20 55.0 4 8 50.0 14 14 100.0 0 2 2 1 2 0 2 0 1
+p285
+aVJose Calderon LAL 12/03/2016 LAL @ MEM L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 5 5 1 0 0 1 1 3
+p286
+aVThomas Robinson LAL 12/02/2016 LAL @ TOR L 10 4 2 4 50.0 0 0 - 0 4 0.0 2 2 4 0 0 0 1 0 -8
+p287
+aVBrandon Ingram LAL 12/02/2016 LAL @ TOR L 35 17 8 16 50.0 1 5 20.0 0 0 - 1 5 6 2 0 0 1 3 -24
+p288
+aVTimofey Mozgov LAL 12/02/2016 LAL @ TOR L 18 2 1 6 16.7 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -7
+p289
+aVTarik Black LAL 12/02/2016 LAL @ TOR L 20 6 2 8 25.0 0 0 - 2 3 66.7 6 0 6 2 0 0 1 3 -20
+p290
+aVMetta World Peace LAL 12/02/2016 LAL @ TOR L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 1 0 0 -7
+p291
+aVJordan Clarkson LAL 12/02/2016 LAL @ TOR L 31 14 4 15 26.7 3 9 33.3 3 3 100.0 1 0 1 1 2 0 1 2 -18
+p292
+aVLuol Deng LAL 12/02/2016 LAL @ TOR L 24 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 1 3 0 0 0 -14
+p293
+aVMarcelo Huertas LAL 12/02/2016 LAL @ TOR L 8 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 1 1 0 1 1 -8
+p294
+aVJose Calderon LAL 12/02/2016 LAL @ TOR L 18 5 2 7 28.6 1 2 50.0 0 0 - 1 4 5 2 0 0 1 0 -11
+p295
+aVLarry Nance Jr. LAL 12/02/2016 LAL @ TOR L 23 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 0 0 0 1 -16
+p296
+aVJulius Randle LAL 12/02/2016 LAL @ TOR L 22 8 4 8 50.0 0 0 - 0 0 - 2 6 8 2 0 1 5 3 -12
+p297
+aVLou Williams LAL 12/02/2016 LAL @ TOR L 25 13 4 14 28.6 1 6 16.7 4 5 80.0 0 1 1 4 0 0 4 3 -20
+p298
+aVBrandon Ingram LAL 11/30/2016 LAL @ CHI W 41 8 1 9 11.1 0 2 0.0 6 8 75.0 0 3 3 3 2 1 1 3 14
+p299
+aVLarry Nance Jr. LAL 11/30/2016 LAL @ CHI W 26 12 5 8 62.5 0 0 - 2 3 66.7 3 8 11 1 3 0 1 4 18
+p300
+aVTimofey Mozgov LAL 11/30/2016 LAL @ CHI W 17 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 4 4 -4
+p301
+aVJordan Clarkson LAL 11/30/2016 LAL @ CHI W 34 18 9 18 50.0 0 1 0.0 0 0 - 0 4 4 3 1 0 3 2 13
+p302
+aVLuol Deng LAL 11/30/2016 LAL @ CHI W 25 10 3 9 33.3 1 2 50.0 3 6 50.0 1 7 8 0 2 0 3 1 -12
+p303
+aVJulius Randle LAL 11/30/2016 LAL @ CHI W 31 13 4 13 30.8 0 0 - 5 8 62.5 9 11 20 2 2 0 5 4 -5
+p304
+aVLou Williams LAL 11/30/2016 LAL @ CHI W 28 18 4 12 33.3 1 3 33.3 9 11 81.8 0 5 5 5 1 1 2 0 20
+p305
+aVJose Calderon LAL 11/30/2016 LAL @ CHI W 17 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 1 0 0 3 0 -16
+p306
+aVTarik Black LAL 11/30/2016 LAL @ CHI W 12 6 2 2 100.0 0 0 - 2 4 50.0 1 0 1 0 0 1 1 5 -5
+p307
+aVThomas Robinson LAL 11/30/2016 LAL @ CHI W 9 2 1 2 50.0 0 0 - 0 0 - 3 3 6 1 1 0 0 1 7
+p308
+aVLuol Deng LAL 11/29/2016 LAL @ NOP L 22 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 1 1 0 0 0 -18
+p309
+aVMarcelo Huertas LAL 11/29/2016 LAL @ NOP L 11 0 0 1 0.0 0 1 0.0 0 4 0.0 0 1 1 1 0 0 0 2 -4
+p310
+aVLou Williams LAL 11/29/2016 LAL @ NOP L 22 16 5 14 35.7 2 7 28.6 4 5 80.0 1 2 3 4 1 0 2 0 -10
+p311
+aVLarry Nance Jr. LAL 11/29/2016 LAL @ NOP L 20 8 4 7 57.1 0 1 0.0 0 0 - 1 4 5 3 1 1 0 3 -6
+p312
+aVMetta World Peace LAL 11/29/2016 LAL @ NOP L 12 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 0 2 0 1 1 3
+p313
+aVNick Young LAL 11/29/2016 LAL @ NOP L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p314
+aVThomas Robinson LAL 11/29/2016 LAL @ NOP L 10 6 1 2 50.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 1 2
+p315
+aVBrandon Ingram LAL 11/29/2016 LAL @ NOP L 29 9 4 10 40.0 1 3 33.3 0 1 0.0 0 3 3 5 2 1 1 1 0
+p316
+aVTimofey Mozgov LAL 11/29/2016 LAL @ NOP L 21 10 5 8 62.5 0 0 - 0 0 - 4 5 9 0 0 2 2 2 -11
+p317
+aVJose Calderon LAL 11/29/2016 LAL @ NOP L 16 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 6 0 0 2 1 -9
+p318
+aVJulius Randle LAL 11/29/2016 LAL @ NOP L 22 12 6 9 66.7 0 1 0.0 0 2 0.0 0 10 10 3 0 0 2 3 -17
+p319
+aVJordan Clarkson LAL 11/29/2016 LAL @ NOP L 29 9 4 14 28.6 1 7 14.3 0 0 - 0 3 3 2 1 0 2 1 -9
+p320
+aVTarik Black LAL 11/29/2016 LAL @ NOP L 24 9 4 6 66.7 0 0 - 1 2 50.0 2 3 5 1 0 1 0 2 -2
+p321
+aVJose Calderon LAL 11/27/2016 LAL vs. ATL W 13 9 4 5 80.0 0 0 - 1 1 100.0 0 1 1 4 1 0 0 2 -4
+p322
+aVLarry Nance Jr. LAL 11/27/2016 LAL vs. ATL W 32 12 6 10 60.0 0 1 0.0 0 0 - 4 6 10 3 0 0 3 3 25
+p323
+aVMarcelo Huertas LAL 11/27/2016 LAL vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -4
+p324
+aVLou Williams LAL 11/27/2016 LAL vs. ATL W 27 21 5 13 38.5 2 6 33.3 9 9 100.0 0 4 4 3 0 0 1 2 25
+p325
+aVJordan Clarkson LAL 11/27/2016 LAL vs. ATL W 32 18 7 17 41.2 1 4 25.0 3 4 75.0 1 3 4 5 2 0 0 0 22
+p326
+aVTimofey Mozgov LAL 11/27/2016 LAL vs. ATL W 20 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 2 0 0 0 1 -12
+p327
+aVTarik Black LAL 11/27/2016 LAL vs. ATL W 28 7 3 7 42.9 0 0 - 1 1 100.0 2 6 8 1 2 2 1 1 27
+p328
+aVThomas Robinson LAL 11/27/2016 LAL vs. ATL W 15 9 4 11 36.4 0 0 - 1 2 50.0 5 3 8 0 0 0 1 1 -10
+p329
+aVLuol Deng LAL 11/27/2016 LAL vs. ATL W 19 4 2 5 40.0 0 2 0.0 0 0 - 0 4 4 1 1 0 1 0 -4
+p330
+aVBrandon Ingram LAL 11/27/2016 LAL vs. ATL W 29 7 3 10 30.0 1 2 50.0 0 0 - 0 8 8 0 0 0 1 3 12
+p331
+aVNick Young LAL 11/27/2016 LAL vs. ATL W 23 17 6 12 50.0 4 5 80.0 1 1 100.0 1 0 1 0 1 0 0 2 -2
+p332
+aVThomas Robinson LAL 11/25/2016 LAL vs. GSW L 16 6 3 8 37.5 0 0 - 0 2 0.0 3 7 10 0 1 1 1 3 -3
+p333
+aVLarry Nance Jr. LAL 11/25/2016 LAL vs. GSW L 20 11 5 8 62.5 0 0 - 1 2 50.0 2 5 7 0 1 0 0 4 -11
+p334
+aVLuol Deng LAL 11/25/2016 LAL vs. GSW L 22 4 2 9 22.2 0 2 0.0 0 0 - 1 3 4 4 0 0 1 0 -17
+p335
+aVJose Calderon LAL 11/25/2016 LAL vs. GSW L 28 7 3 6 50.0 1 3 33.3 0 0 - 1 0 1 6 1 1 4 4 -16
+p336
+aVMarcelo Huertas LAL 11/25/2016 LAL vs. GSW L 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -12
+p337
+aVJordan Clarkson LAL 11/25/2016 LAL vs. GSW L 38 20 6 15 40.0 4 9 44.4 4 5 80.0 0 2 2 0 5 0 3 1 -28
+p338
+aVTarik Black LAL 11/25/2016 LAL vs. GSW L 17 8 2 4 50.0 0 0 - 4 4 100.0 4 1 5 1 1 0 0 1 -3
+p339
+aVLou Williams LAL 11/25/2016 LAL vs. GSW L 26 13 5 13 38.5 0 4 0.0 3 4 75.0 1 2 3 2 1 0 4 0 1
+p340
+aVBrandon Ingram LAL 11/25/2016 LAL vs. GSW L 39 8 3 18 16.7 0 4 0.0 2 2 100.0 1 8 9 2 2 1 3 1 -19
+p341
+aVMetta World Peace LAL 11/25/2016 LAL vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p342
+aVTimofey Mozgov LAL 11/25/2016 LAL vs. GSW L 20 8 3 6 50.0 0 0 - 2 4 50.0 1 3 4 1 0 0 1 1 -14
+p343
+aVMarcelo Huertas LAL 11/23/2016 LAL @ GSW L 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 -15
+p344
+aVThomas Robinson LAL 11/23/2016 LAL @ GSW L 12 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 3 -19
+p345
+aVNick Young LAL 11/23/2016 LAL @ GSW L 19 8 3 8 37.5 2 3 66.7 0 0 - 0 1 1 1 0 0 0 1 -27
+p346
+aVLuol Deng LAL 11/23/2016 LAL @ GSW L 26 8 3 9 33.3 0 1 0.0 2 2 100.0 2 5 7 2 0 0 0 1 -11
+p347
+aVTimofey Mozgov LAL 11/23/2016 LAL @ GSW L 17 12 5 7 71.4 0 0 - 2 2 100.0 1 3 4 1 0 0 1 5 -4
+p348
+aVJose Calderon LAL 11/23/2016 LAL @ GSW L 20 7 3 7 42.9 1 3 33.3 0 0 - 2 2 4 6 0 0 2 1 -23
+p349
+aVTarik Black LAL 11/23/2016 LAL @ GSW L 15 9 2 9 22.2 0 1 0.0 5 6 83.3 1 4 5 0 1 0 0 4 -27
+p350
+aVMetta World Peace LAL 11/23/2016 LAL @ GSW L 14 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 2 0 0 0 3 -15
+p351
+aVLarry Nance Jr. LAL 11/23/2016 LAL @ GSW L 18 4 1 2 50.0 0 0 - 2 2 100.0 0 7 7 1 0 1 1 4 -14
+p352
+aVBrandon Ingram LAL 11/23/2016 LAL @ GSW L 34 16 6 12 50.0 2 4 50.0 2 2 100.0 0 3 3 1 0 0 3 0 -30
+p353
+aVLou Williams LAL 11/23/2016 LAL @ GSW L 22 16 6 11 54.5 1 2 50.0 3 5 60.0 0 0 0 2 1 0 2 1 -10
+p354
+aVJordan Clarkson LAL 11/23/2016 LAL @ GSW L 29 16 7 16 43.8 0 2 0.0 2 3 66.7 1 2 3 2 1 0 1 2 -20
+p355
+aVJordan Clarkson LAL 11/22/2016 LAL vs. OKC W 26 18 7 14 50.0 0 4 0.0 4 4 100.0 0 3 3 4 4 0 1 1 6
+p356
+aVJose Calderon LAL 11/22/2016 LAL vs. OKC W 23 12 4 5 80.0 4 5 80.0 0 0 - 0 6 6 4 2 0 2 3 2
+p357
+aVLou Williams LAL 11/22/2016 LAL vs. OKC W 23 13 4 12 33.3 2 6 33.3 3 3 100.0 0 1 1 5 0 0 0 1 0
+p358
+aVJulius Randle LAL 11/22/2016 LAL vs. OKC W 21 3 1 5 20.0 1 1 100.0 0 0 - 0 5 5 4 0 0 6 1 -2
+p359
+aVTimofey Mozgov LAL 11/22/2016 LAL vs. OKC W 31 16 6 10 60.0 0 0 - 4 4 100.0 2 1 3 2 0 2 0 3 -9
+p360
+aVLarry Nance Jr. LAL 11/22/2016 LAL vs. OKC W 27 8 4 7 57.1 0 0 - 0 0 - 1 3 4 2 2 1 0 0 4
+p361
+aVTarik Black LAL 11/22/2016 LAL vs. OKC W 16 5 2 3 66.7 0 0 - 1 1 100.0 2 4 6 0 0 2 1 2 9
+p362
+aVNick Young LAL 11/22/2016 LAL vs. OKC W 29 17 6 12 50.0 4 7 57.1 1 2 50.0 1 1 2 1 0 2 3 3 -9
+p363
+aVBrandon Ingram LAL 11/22/2016 LAL vs. OKC W 25 11 4 6 66.7 3 3 100.0 0 0 - 0 2 2 3 0 0 4 1 6
+p364
+aVLuol Deng LAL 11/22/2016 LAL vs. OKC W 19 8 4 9 44.4 0 1 0.0 0 2 0.0 0 3 3 0 0 0 0 2 3
+p365
+aVJulius Randle LAL 11/20/2016 LAL vs. CHI L 25 14 6 11 54.5 0 1 0.0 2 4 50.0 0 3 3 2 0 1 2 3 -7
+p366
+aVLuol Deng LAL 11/20/2016 LAL vs. CHI L 23 6 2 5 40.0 2 4 50.0 0 0 - 0 4 4 1 1 0 0 3 -9
+p367
+aVTarik Black LAL 11/20/2016 LAL vs. CHI L 16 4 1 3 33.3 0 0 - 2 2 100.0 3 3 6 1 1 1 1 3 0
+p368
+aVJordan Clarkson LAL 11/20/2016 LAL vs. CHI L 25 5 1 12 8.3 1 3 33.3 2 3 66.7 1 1 2 3 0 0 0 0 -12
+p369
+aVNick Young LAL 11/20/2016 LAL vs. CHI L 30 15 5 13 38.5 3 8 37.5 2 2 100.0 1 5 6 2 0 0 1 2 -6
+p370
+aVLarry Nance Jr. LAL 11/20/2016 LAL vs. CHI L 26 18 8 11 72.7 0 0 - 2 2 100.0 2 4 6 3 1 1 0 0 4
+p371
+aVD'Angelo Russell LAL 11/20/2016 LAL vs. CHI L 23 8 3 11 27.3 2 9 22.2 0 0 - 0 3 3 7 2 0 2 3 4
+p372
+aVTimofey Mozgov LAL 11/20/2016 LAL vs. CHI L 21 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 4 0 1 1 -14
+p373
+aVBrandon Ingram LAL 11/20/2016 LAL vs. CHI L 20 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 3 0 0 1 2 3
+p374
+aVLou Williams LAL 11/20/2016 LAL vs. CHI L 30 25 8 14 57.1 5 6 83.3 4 6 66.7 1 0 1 3 2 0 2 2 -3
+p375
+aVNick Young LAL 11/18/2016 LAL vs. SAS L 28 22 7 12 58.3 4 7 57.1 4 5 80.0 1 3 4 2 0 1 2 1 -9
+p376
+aVJulius Randle LAL 11/18/2016 LAL vs. SAS L 30 13 6 13 46.2 0 1 0.0 1 2 50.0 1 8 9 7 0 0 2 2 -10
+p377
+aVTimofey Mozgov LAL 11/18/2016 LAL vs. SAS L 14 0 0 3 0.0 0 0 - 0 0 - 3 1 4 0 0 0 1 1 -15
+p378
+aVTarik Black LAL 11/18/2016 LAL vs. SAS L 12 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 0 0 0 0 4 -5
+p379
+aVLuol Deng LAL 11/18/2016 LAL vs. SAS L 34 10 4 10 40.0 2 4 50.0 0 0 - 3 3 6 3 1 0 1 4 0
+p380
+aVLou Williams LAL 11/18/2016 LAL vs. SAS L 27 24 9 13 69.2 2 4 50.0 4 4 100.0 0 3 3 3 2 0 2 3 -1
+p381
+aVJordan Clarkson LAL 11/18/2016 LAL vs. SAS L 31 20 7 15 46.7 3 4 75.0 3 4 75.0 1 2 3 3 2 0 3 2 6
+p382
+aVJose Calderon LAL 11/18/2016 LAL vs. SAS L 13 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 3 0 0 0 2 -12
+p383
+aVBrandon Ingram LAL 11/18/2016 LAL vs. SAS L 27 4 1 9 11.1 0 3 0.0 2 2 100.0 1 4 5 2 1 0 1 2 3
+p384
+aVLarry Nance Jr. LAL 11/18/2016 LAL vs. SAS L 23 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 0 0 1 0 -2
+p385
+aVLuol Deng LAL 11/15/2016 LAL vs. BKN W 21 8 2 6 33.3 0 1 0.0 4 6 66.7 3 2 5 0 0 0 0 1 5
+p386
+aVD'Angelo Russell LAL 11/15/2016 LAL vs. BKN W 31 32 11 20 55.0 7 13 53.8 3 4 75.0 1 7 8 4 3 0 3 1 13
+p387
+aVJordan Clarkson LAL 11/15/2016 LAL vs. BKN W 28 13 4 12 33.3 1 5 20.0 4 6 66.7 2 1 3 3 5 0 2 4 4
+p388
+aVTimofey Mozgov LAL 11/15/2016 LAL vs. BKN W 29 20 7 11 63.6 0 0 - 6 6 100.0 2 4 6 1 0 0 0 3 13
+p389
+aVJulius Randle LAL 11/15/2016 LAL vs. BKN W 31 17 5 8 62.5 0 0 - 7 10 70.0 1 13 14 10 0 0 3 1 15
+p390
+aVBrandon Ingram LAL 11/15/2016 LAL vs. BKN W 24 8 2 5 40.0 0 1 0.0 4 4 100.0 0 3 3 0 0 2 1 1 -12
+p391
+aVTarik Black LAL 11/15/2016 LAL vs. BKN W 13 12 4 6 66.7 0 0 - 4 5 80.0 5 4 9 1 0 0 0 1 -8
+p392
+aVLou Williams LAL 11/15/2016 LAL vs. BKN W 17 6 2 11 18.2 0 2 0.0 2 2 100.0 0 2 2 1 0 0 2 0 -6
+p393
+aVLarry Nance Jr. LAL 11/15/2016 LAL vs. BKN W 18 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 1 0 0 4 -6
+p394
+aVNick Young LAL 11/15/2016 LAL vs. BKN W 28 5 2 8 25.0 1 6 16.7 0 0 - 0 1 1 3 0 0 0 1 17
+p395
+aVJulius Randle LAL 11/13/2016 LAL @ MIN L 28 14 5 8 62.5 1 1 100.0 3 5 60.0 1 5 6 3 1 0 4 2 -26
+p396
+aVIvica Zubac LAL 11/13/2016 LAL @ MIN L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 -4
+p397
+aVBrandon Ingram LAL 11/13/2016 LAL @ MIN L 27 10 3 5 60.0 1 2 50.0 3 4 75.0 0 1 1 1 1 1 1 4 -7
+p398
+aVThomas Robinson LAL 11/13/2016 LAL @ MIN L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p399
+aVLuol Deng LAL 11/13/2016 LAL @ MIN L 24 13 2 5 40.0 2 3 66.7 7 7 100.0 1 2 3 0 0 0 1 0 -17
+p400
+aVTimofey Mozgov LAL 11/13/2016 LAL @ MIN L 15 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 2 1 6 -7
+p401
+aVLarry Nance Jr. LAL 11/13/2016 LAL @ MIN L 22 8 4 5 80.0 0 1 0.0 0 0 - 0 4 4 0 0 0 1 4 -11
+p402
+aVNick Young LAL 11/13/2016 LAL @ MIN L 24 9 3 9 33.3 1 7 14.3 2 2 100.0 0 1 1 1 0 0 1 3 -7
+p403
+aVJordan Clarkson LAL 11/13/2016 LAL @ MIN L 22 14 6 10 60.0 0 0 - 2 2 100.0 0 3 3 1 1 0 0 2 -11
+p404
+aVLou Williams LAL 11/13/2016 LAL @ MIN L 18 17 5 10 50.0 2 4 50.0 5 5 100.0 0 5 5 4 0 0 3 1 -5
+p405
+aVJose Calderon LAL 11/13/2016 LAL @ MIN L 10 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 1 0 -9
+p406
+aVTarik Black LAL 11/13/2016 LAL @ MIN L 12 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 2 0 3 7
+p407
+aVD'Angelo Russell LAL 11/13/2016 LAL @ MIN L 26 7 3 10 30.0 1 5 20.0 0 1 0.0 0 4 4 4 3 0 3 3 -24
+p408
+aVThomas Robinson LAL 11/12/2016 LAL @ NOP W 7 4 2 2 100.0 0 0 - 0 0 - 2 2 4 1 0 0 0 0 1
+p409
+aVLarry Nance Jr. LAL 11/12/2016 LAL @ NOP W 22 6 3 5 60.0 0 0 - 0 0 - 1 7 8 3 2 0 0 5 16
+p410
+aVJose Calderon LAL 11/12/2016 LAL @ NOP W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 6
+p411
+aVD'Angelo Russell LAL 11/12/2016 LAL @ NOP W 28 22 9 16 56.3 4 7 57.1 0 0 - 0 2 2 6 0 1 3 3 13
+p412
+aVJordan Clarkson LAL 11/12/2016 LAL @ NOP W 25 23 8 12 66.7 4 6 66.7 3 3 100.0 0 3 3 1 1 0 3 0 16
+p413
+aVMarcelo Huertas LAL 11/12/2016 LAL @ NOP W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 6
+p414
+aVBrandon Ingram LAL 11/12/2016 LAL @ NOP W 22 10 4 7 57.1 0 0 - 2 3 66.7 0 0 0 4 1 0 0 1 9
+p415
+aVJulius Randle LAL 11/12/2016 LAL @ NOP W 28 8 4 11 36.4 0 0 - 0 0 - 2 9 11 8 2 2 1 3 17
+p416
+aVLou Williams LAL 11/12/2016 LAL @ NOP W 25 21 9 15 60.0 2 5 40.0 1 1 100.0 0 3 3 4 2 0 0 1 23
+p417
+aVTimofey Mozgov LAL 11/12/2016 LAL @ NOP W 21 8 4 4 100.0 0 0 - 0 0 - 1 4 5 1 0 1 3 2 7
+p418
+aVNick Young LAL 11/12/2016 LAL @ NOP W 20 15 5 9 55.6 5 8 62.5 0 0 - 1 0 1 2 0 0 0 2 5
+p419
+aVTarik Black LAL 11/12/2016 LAL @ NOP W 18 6 3 5 60.0 0 0 - 0 0 - 2 3 5 2 0 1 0 0 13
+p420
+aVLuol Deng LAL 11/12/2016 LAL @ NOP W 18 0 0 6 0.0 0 2 0.0 0 0 - 1 3 4 2 0 0 0 0 3
+p421
+aVLarry Nance Jr. LAL 11/10/2016 LAL @ SAC W 22 2 1 2 50.0 0 1 0.0 0 0 - 0 7 7 0 2 0 0 2 8
+p422
+aVNick Young LAL 11/10/2016 LAL @ SAC W 30 16 6 11 54.5 4 9 44.4 0 0 - 0 3 3 1 1 0 1 4 8
+p423
+aVLou Williams LAL 11/10/2016 LAL @ SAC W 23 21 6 12 50.0 3 6 50.0 6 8 75.0 0 2 2 1 3 0 5 0 13
+p424
+aVD'Angelo Russell LAL 11/10/2016 LAL @ SAC W 23 17 7 12 58.3 1 4 25.0 2 3 66.7 0 0 0 1 0 0 5 2 -5
+p425
+aVTimofey Mozgov LAL 11/10/2016 LAL @ SAC W 33 10 5 6 83.3 0 0 - 0 0 - 1 2 3 1 0 1 1 3 -1
+p426
+aVLuol Deng LAL 11/10/2016 LAL @ SAC W 23 2 1 5 20.0 0 2 0.0 0 0 - 0 6 6 1 1 0 1 0 -9
+p427
+aVBrandon Ingram LAL 11/10/2016 LAL @ SAC W 28 4 2 5 40.0 0 1 0.0 0 2 0.0 1 5 6 2 0 0 2 2 13
+p428
+aVTarik Black LAL 11/10/2016 LAL @ SAC W 11 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 2 10
+p429
+aVJulius Randle LAL 11/10/2016 LAL @ SAC W 26 15 4 10 40.0 0 1 0.0 7 7 100.0 1 7 8 5 0 1 2 2 7
+p430
+aVJordan Clarkson LAL 11/10/2016 LAL @ SAC W 22 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 5 1 0 3 2 6
+p431
+aVTimofey Mozgov LAL 11/08/2016 LAL vs. DAL L 20 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p432
+aVJose Calderon LAL 11/08/2016 LAL vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 2
+p433
+aVJordan Clarkson LAL 11/08/2016 LAL vs. DAL L 28 22 9 12 75.0 2 3 66.7 2 2 100.0 0 0 0 2 3 0 3 0 -6
+p434
+aVLou Williams LAL 11/08/2016 LAL vs. DAL L 23 15 5 15 33.3 2 8 25.0 3 4 75.0 1 3 4 3 1 0 0 2 -1
+p435
+aVBrandon Ingram LAL 11/08/2016 LAL vs. DAL L 26 5 2 5 40.0 1 2 50.0 0 0 - 0 4 4 1 1 1 1 1 -12
+p436
+aVTarik Black LAL 11/08/2016 LAL vs. DAL L 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 0 0 1 0
+p437
+aVMetta World Peace LAL 11/08/2016 LAL vs. DAL L 3 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -3
+p438
+aVJulius Randle LAL 11/08/2016 LAL vs. DAL L 31 15 6 12 50.0 0 0 - 3 4 75.0 5 5 10 1 1 0 6 4 -15
+p439
+aVNick Young LAL 11/08/2016 LAL vs. DAL L 29 20 7 12 58.3 3 6 50.0 3 3 100.0 0 2 2 0 0 0 0 3 -9
+p440
+aVLuol Deng LAL 11/08/2016 LAL vs. DAL L 30 2 1 5 20.0 0 2 0.0 0 0 - 1 4 5 3 0 0 1 2 -8
+p441
+aVThomas Robinson LAL 11/08/2016 LAL vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p442
+aVD'Angelo Russell LAL 11/08/2016 LAL vs. DAL L 26 12 5 9 55.6 2 4 50.0 0 1 0.0 0 5 5 7 0 0 3 4 -8
+p443
+aVLuol Deng LAL 11/06/2016 LAL vs. PHX W 21 7 2 5 40.0 2 4 50.0 1 2 50.0 0 7 7 0 1 0 0 2 1
+p444
+aVLarry Nance Jr. LAL 11/06/2016 LAL vs. PHX W 3 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 1 0 0 0 5
+p445
+aVD'Angelo Russell LAL 11/06/2016 LAL vs. PHX W 28 11 2 11 18.2 2 6 33.3 5 6 83.3 2 3 5 6 1 0 4 3 8
+p446
+aVLou Williams LAL 11/06/2016 LAL vs. PHX W 26 14 5 12 41.7 1 2 50.0 3 5 60.0 1 3 4 6 2 0 4 1 5
+p447
+aVThomas Robinson LAL 11/06/2016 LAL vs. PHX W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -5
+p448
+aVTarik Black LAL 11/06/2016 LAL vs. PHX W 17 4 2 6 33.3 0 0 - 0 0 - 3 4 7 1 0 2 3 1 7
+p449
+aVNick Young LAL 11/06/2016 LAL vs. PHX W 36 22 8 14 57.1 3 7 42.9 3 3 100.0 1 6 7 1 1 1 1 4 7
+p450
+aVJulius Randle LAL 11/06/2016 LAL vs. PHX W 28 18 6 9 66.7 0 0 - 6 6 100.0 0 5 5 4 1 0 1 4 7
+p451
+aVBrandon Ingram LAL 11/06/2016 LAL vs. PHX W 25 9 2 7 28.6 1 2 50.0 4 6 66.7 0 2 2 1 1 1 0 1 10
+p452
+aVTimofey Mozgov LAL 11/06/2016 LAL vs. PHX W 22 14 6 9 66.7 0 0 - 2 3 66.7 4 4 8 2 0 0 3 1 -2
+p453
+aVJordan Clarkson LAL 11/06/2016 LAL vs. PHX W 30 18 8 16 50.0 1 2 50.0 1 2 50.0 2 4 6 1 0 0 3 5 12
+p454
+aVJulius Randle LAL 11/04/2016 LAL vs. GSW W 30 20 10 18 55.6 0 1 0.0 0 0 - 6 8 14 2 1 1 5 3 9
+p455
+aVD'Angelo Russell LAL 11/04/2016 LAL vs. GSW W 22 17 5 11 45.5 3 7 42.9 4 4 100.0 0 2 2 4 1 0 1 2 2
+p456
+aVTarik Black LAL 11/04/2016 LAL vs. GSW W 15 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 0 0 2 3 11
+p457
+aVThomas Robinson LAL 11/04/2016 LAL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p458
+aVLou Williams LAL 11/04/2016 LAL vs. GSW W 26 20 7 14 50.0 2 6 33.3 4 5 80.0 0 2 2 4 3 1 2 0 18
+p459
+aVJordan Clarkson LAL 11/04/2016 LAL vs. GSW W 29 9 4 13 30.8 1 3 33.3 0 0 - 0 1 1 5 2 0 1 1 18
+p460
+aVLuol Deng LAL 11/04/2016 LAL vs. GSW W 19 3 1 6 16.7 1 3 33.3 0 0 - 1 3 4 3 0 0 2 1 5
+p461
+aVBrandon Ingram LAL 11/04/2016 LAL vs. GSW W 27 12 2 8 25.0 0 4 0.0 8 9 88.9 2 4 6 3 2 0 2 2 23
+p462
+aVIvica Zubac LAL 11/04/2016 LAL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p463
+aVNick Young LAL 11/04/2016 LAL vs. GSW W 24 12 4 11 36.4 1 6 16.7 3 3 100.0 1 2 3 2 0 1 0 4 -1
+p464
+aVLarry Nance Jr. LAL 11/04/2016 LAL vs. GSW W 30 12 6 6 100.0 0 0 - 0 0 - 2 7 9 2 0 1 0 1 18
+p465
+aVTimofey Mozgov LAL 11/04/2016 LAL vs. GSW W 16 4 2 2 100.0 0 0 - 0 0 - 3 2 5 1 0 1 1 2 -3
+p466
+aVNick Young LAL 11/02/2016 LAL @ ATL W 26 17 6 11 54.5 3 7 42.9 2 2 100.0 0 1 1 2 0 0 1 1 10
+p467
+aVTarik Black LAL 11/02/2016 LAL @ ATL W 16 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 1 0 5 -10
+p468
+aVJulius Randle LAL 11/02/2016 LAL @ ATL W 28 9 3 7 42.9 0 1 0.0 3 4 75.0 2 4 6 2 1 1 2 4 10
+p469
+aVJordan Clarkson LAL 11/02/2016 LAL @ ATL W 23 18 8 13 61.5 1 3 33.3 1 2 50.0 0 2 2 3 1 1 3 4 -5
+p470
+aVIvica Zubac LAL 11/02/2016 LAL @ ATL W 19 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 1 0 0 4 10
+p471
+aVBrandon Ingram LAL 11/02/2016 LAL @ ATL W 22 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 2 0 1 2 2 -3
+p472
+aVD'Angelo Russell LAL 11/02/2016 LAL @ ATL W 31 23 9 19 47.4 1 3 33.3 4 4 100.0 1 3 4 8 2 3 4 1 8
+p473
+aVLou Williams LAL 11/02/2016 LAL @ ATL W 23 18 6 11 54.5 2 5 40.0 4 4 100.0 0 3 3 4 2 0 1 2 3
+p474
+aVLarry Nance Jr. LAL 11/02/2016 LAL @ ATL W 26 12 6 8 75.0 0 1 0.0 0 0 - 1 6 7 1 2 1 1 1 0
+p475
+aVLuol Deng LAL 11/02/2016 LAL @ ATL W 26 13 4 11 36.4 1 1 100.0 4 4 100.0 3 7 10 2 2 1 1 1 12
+p476
+aVLarry Nance Jr. LAL 11/01/2016 LAL @ IND L 30 11 4 10 40.0 0 1 0.0 3 4 75.0 4 1 5 1 6 1 3 3 -7
+p477
+aVTarik Black LAL 11/01/2016 LAL @ IND L 19 6 1 2 50.0 0 0 - 4 4 100.0 2 6 8 1 0 1 1 3 -3
+p478
+aVMetta World Peace LAL 11/01/2016 LAL @ IND L 3 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 0 0 -1
+p479
+aVJordan Clarkson LAL 11/01/2016 LAL @ IND L 31 15 7 16 43.8 0 4 0.0 1 1 100.0 1 0 1 0 0 0 0 2 -12
+p480
+aVJose Calderon LAL 11/01/2016 LAL @ IND L 17 9 3 4 75.0 1 2 50.0 2 2 100.0 0 2 2 2 1 0 3 1 -10
+p481
+aVLuol Deng LAL 11/01/2016 LAL @ IND L 21 10 5 10 50.0 0 1 0.0 0 0 - 1 5 6 1 0 0 1 1 -2
+p482
+aVLou Williams LAL 11/01/2016 LAL @ IND L 27 19 7 14 50.0 3 8 37.5 2 2 100.0 0 0 0 5 0 0 4 0 3
+p483
+aVD'Angelo Russell LAL 11/01/2016 LAL @ IND L 19 11 3 10 30.0 0 4 0.0 5 5 100.0 0 0 0 3 0 0 2 2 3
+p484
+aVJulius Randle LAL 11/01/2016 LAL @ IND L 20 9 3 6 50.0 0 1 0.0 3 3 100.0 0 10 10 0 1 0 3 6 3
+p485
+aVTimofey Mozgov LAL 11/01/2016 LAL @ IND L 19 6 3 7 42.9 0 1 0.0 0 0 - 3 2 5 0 0 0 1 2 -4
+p486
+aVBrandon Ingram LAL 11/01/2016 LAL @ IND L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 0 0 1 2 -3
+p487
+aVNick Young LAL 11/01/2016 LAL @ IND L 21 8 3 6 50.0 2 4 50.0 0 0 - 0 4 4 0 0 0 0 3 -2
+p488
+aVLou Williams LAL 10/30/2016 LAL @ OKC L 20 7 2 7 28.6 0 2 0.0 3 4 75.0 0 1 1 2 1 0 2 1 -7
+p489
+aVD'Angelo Russell LAL 10/30/2016 LAL @ OKC L 32 20 7 20 35.0 4 9 44.4 2 2 100.0 1 4 5 5 2 0 3 1 -11
+p490
+aVTarik Black LAL 10/30/2016 LAL @ OKC L 11 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 1
+p491
+aVTimofey Mozgov LAL 10/30/2016 LAL @ OKC L 24 8 4 5 80.0 0 0 - 0 0 - 3 2 5 1 0 1 3 1 -4
+p492
+aVNick Young LAL 10/30/2016 LAL @ OKC L 30 16 4 11 36.4 3 10 30.0 5 5 100.0 0 3 3 1 2 0 2 5 -17
+p493
+aVLuol Deng LAL 10/30/2016 LAL @ OKC L 22 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 3 1 1 1 1 7
+p494
+aVJose Calderon LAL 10/30/2016 LAL @ OKC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -12
+p495
+aVJordan Clarkson LAL 10/30/2016 LAL @ OKC L 29 12 6 14 42.9 0 3 0.0 0 0 - 2 3 5 2 3 0 4 2 -13
+p496
+aVBrandon Ingram LAL 10/30/2016 LAL @ OKC L 21 9 3 10 30.0 0 3 0.0 3 4 75.0 1 4 5 2 1 0 1 1 -6
+p497
+aVMetta World Peace LAL 10/30/2016 LAL @ OKC L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p498
+aVJulius Randle LAL 10/30/2016 LAL @ OKC L 32 20 7 10 70.0 0 1 0.0 6 9 66.7 1 8 9 3 3 0 2 4 -10
+p499
+aVLarry Nance Jr. LAL 10/30/2016 LAL @ OKC L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 1 0 -11
+p500
+aVD'Angelo Russell LAL 10/28/2016 LAL @ UTA L 32 9 3 14 21.4 1 5 20.0 2 5 40.0 2 3 5 5 2 0 4 3 -17
+p501
+aVLou Williams LAL 10/28/2016 LAL @ UTA L 27 17 6 12 50.0 3 4 75.0 2 2 100.0 0 0 0 6 1 0 1 2 8
+p502
+aVThomas Robinson LAL 10/28/2016 LAL @ UTA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p503
+aVNick Young LAL 10/28/2016 LAL @ UTA L 24 13 3 7 42.9 1 2 50.0 6 6 100.0 0 0 0 0 0 1 0 5 -12
+p504
+aVLuol Deng LAL 10/28/2016 LAL @ UTA L 34 12 5 12 41.7 2 5 40.0 0 0 - 2 10 12 0 2 1 1 2 -16
+p505
+aVTarik Black LAL 10/28/2016 LAL @ UTA L 10 8 4 6 66.7 0 0 - 0 0 - 4 3 7 0 0 0 0 2 5
+p506
+aVMarcelo Huertas LAL 10/28/2016 LAL @ UTA L 15 4 2 6 33.3 0 0 - 0 0 - 1 3 4 3 0 0 2 0 13
+p507
+aVJordan Clarkson LAL 10/28/2016 LAL @ UTA L 25 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 0 0 1 3 2 -2
+p508
+aVBrandon Ingram LAL 10/28/2016 LAL @ UTA L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p509
+aVTimofey Mozgov LAL 10/28/2016 LAL @ UTA L 23 8 1 4 25.0 0 0 - 6 7 85.7 1 5 6 1 1 2 1 5 -14
+p510
+aVJulius Randle LAL 10/28/2016 LAL @ UTA L 27 7 3 7 42.9 1 1 100.0 0 0 - 1 3 4 1 0 2 2 4 -9
+p511
+aVLarry Nance Jr. LAL 10/28/2016 LAL @ UTA L 16 5 2 4 50.0 1 2 50.0 0 1 0.0 0 3 3 0 0 0 0 2 7
+p512
+aVJordan Clarkson LAL 10/26/2016 LAL vs. HOU W 25 25 8 12 66.7 2 3 66.7 7 7 100.0 1 2 3 1 3 0 4 3 6
+p513
+aVTarik Black LAL 10/26/2016 LAL vs. HOU W 12 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 1 0 1 4 1
+p514
+aVMetta World Peace LAL 10/26/2016 LAL vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p515
+aVJulius Randle LAL 10/26/2016 LAL vs. HOU W 29 18 9 11 81.8 0 1 0.0 0 1 0.0 0 7 7 6 0 1 2 4 -8
+p516
+aVTimofey Mozgov LAL 10/26/2016 LAL vs. HOU W 22 12 6 10 60.0 0 0 - 0 0 - 4 4 8 2 0 0 2 2 3
+p517
+aVNick Young LAL 10/26/2016 LAL vs. HOU W 27 8 3 12 25.0 2 9 22.2 0 0 - 0 3 3 1 0 1 0 5 -6
+p518
+aVBrandon Ingram LAL 10/26/2016 LAL vs. HOU W 24 9 4 6 66.7 1 2 50.0 0 0 - 0 3 3 0 0 0 1 0 10
+p519
+aVLarry Nance Jr. LAL 10/26/2016 LAL vs. HOU W 23 5 2 5 40.0 0 1 0.0 1 2 50.0 3 2 5 2 1 1 0 1 7
+p520
+aVD'Angelo Russell LAL 10/26/2016 LAL vs. HOU W 29 20 7 16 43.8 4 10 40.0 2 3 66.7 0 1 1 3 1 0 3 2 -5
+p521
+aVLuol Deng LAL 10/26/2016 LAL vs. HOU W 28 7 3 9 33.3 1 4 25.0 0 0 - 2 3 5 1 1 0 1 0 1
+p522
+aVMarcelo Huertas LAL 10/26/2016 LAL vs. HOU W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 1 0 0 5
+p523
+aVLou Williams LAL 10/26/2016 LAL vs. HOU W 14 12 2 5 40.0 2 4 50.0 6 7 85.7 0 0 0 2 3 0 1 0 17
+p524
+a.

@@ -1,0 +1,1630 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEddie Jones MIA 04/20/2005 MIA @ ORL W 12 8 3 4 75.0 2 2 100.0 0 0 - 1 1 2 2 1 0 2 2 0
+p2
+aVSteven Smith MIA 04/20/2005 MIA @ ORL W 20 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 3 0 0 0 2 2
+p3
+aVUdonis Haslem MIA 04/20/2005 MIA @ ORL W 24 12 5 5 100.0 0 0 - 2 2 100.0 0 4 4 0 1 0 1 2 4
+p4
+aVShandon Anderson MIA 04/20/2005 MIA @ ORL W 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 4 0 -1
+p5
+aVRasual Butler MIA 04/20/2005 MIA @ ORL W 28 8 3 13 23.1 1 3 33.3 1 1 100.0 2 3 5 1 0 2 1 3 10
+p6
+aVChristian Laettner MIA 04/20/2005 MIA @ ORL W 24 14 5 7 71.4 0 0 - 4 4 100.0 0 3 3 2 2 1 4 2 1
+p7
+aVAlonzo Mourning MIA 04/20/2005 MIA @ ORL W 19 9 3 3 100.0 0 0 - 3 6 50.0 0 4 4 1 0 2 0 1 5
+p8
+aVKeyon Dooling MIA 04/20/2005 MIA @ ORL W 31 19 7 9 77.8 1 1 100.0 4 4 100.0 0 0 0 5 2 0 4 3 3
+p9
+aVMichael Doleac MIA 04/20/2005 MIA @ ORL W 29 8 3 8 37.5 0 0 - 2 2 100.0 2 4 6 2 1 0 1 4 0
+p10
+aVDamon Jones MIA 04/20/2005 MIA @ ORL W 17 3 1 6 16.7 1 6 16.7 0 0 - 0 0 0 3 2 0 1 0 2
+p11
+aVDorell Wright MIA 04/20/2005 MIA @ ORL W 22 7 3 7 42.9 0 2 0.0 1 1 100.0 0 0 0 2 3 0 1 0 -1
+p12
+aVAlonzo Mourning MIA 04/19/2005 MIA vs. CHA W 19 11 3 7 42.9 0 0 - 5 7 71.4 0 3 3 1 0 1 0 3 5
+p13
+aVDamon Jones MIA 04/19/2005 MIA vs. CHA W 28 9 3 9 33.3 3 7 42.9 0 0 - 0 4 4 5 1 0 1 1 12
+p14
+aVEddie Jones MIA 04/19/2005 MIA vs. CHA W 24 10 2 8 25.0 2 6 33.3 4 6 66.7 1 2 3 2 0 2 2 3 11
+p15
+aVKeyon Dooling MIA 04/19/2005 MIA vs. CHA W 20 8 4 8 50.0 0 0 - 0 0 - 0 2 2 2 1 0 0 1 7
+p16
+aVMichael Doleac MIA 04/19/2005 MIA vs. CHA W 17 2 1 3 33.3 0 0 - 0 0 - 3 4 7 2 0 1 0 1 11
+p17
+aVRasual Butler MIA 04/19/2005 MIA vs. CHA W 28 25 11 14 78.6 3 4 75.0 0 0 - 0 6 6 0 1 0 1 4 10
+p18
+aVSteven Smith MIA 04/19/2005 MIA vs. CHA W 19 2 1 7 14.3 0 4 0.0 0 1 0.0 1 3 4 3 0 0 0 0 10
+p19
+aVDorell Wright MIA 04/19/2005 MIA vs. CHA W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 2 2
+p20
+aVDwyane Wade MIA 04/19/2005 MIA vs. CHA W 23 14 6 13 46.2 0 3 0.0 2 4 50.0 3 1 4 3 2 0 2 1 7
+p21
+aVUdonis Haslem MIA 04/19/2005 MIA vs. CHA W 26 10 2 5 40.0 0 0 - 6 6 100.0 3 7 10 1 2 2 1 2 8
+p22
+aVChristian Laettner MIA 04/19/2005 MIA vs. CHA W 19 6 3 6 50.0 0 0 - 0 1 0.0 1 4 5 1 0 0 3 3 11
+p23
+aVShandon Anderson MIA 04/19/2005 MIA vs. CHA W 14 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 1
+p24
+aVEddie Jones MIA 04/17/2005 MIA vs. IND W 40 17 6 12 50.0 3 9 33.3 2 3 66.7 0 10 10 3 2 0 3 3 11
+p25
+aVShaquille O'Neal MIA 04/17/2005 MIA vs. IND W 17 11 5 9 55.6 0 0 - 1 3 33.3 2 1 3 1 0 1 1 1 14
+p26
+aVRasual Butler MIA 04/17/2005 MIA vs. IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p27
+aVMichael Doleac MIA 04/17/2005 MIA vs. IND W 6 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 2 2
+p28
+aVDamon Jones MIA 04/17/2005 MIA vs. IND W 36 16 5 10 50.0 5 9 55.6 1 4 25.0 0 2 2 3 0 0 0 2 9
+p29
+aVChristian Laettner MIA 04/17/2005 MIA vs. IND W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p30
+aVAlonzo Mourning MIA 04/17/2005 MIA vs. IND W 25 8 3 5 60.0 0 0 - 2 2 100.0 2 7 9 0 0 3 1 3 -14
+p31
+aVUdonis Haslem MIA 04/17/2005 MIA vs. IND W 35 12 4 5 80.0 0 0 - 4 4 100.0 3 7 10 0 1 0 1 5 16
+p32
+aVShandon Anderson MIA 04/17/2005 MIA vs. IND W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -10
+p33
+aVKeyon Dooling MIA 04/17/2005 MIA vs. IND W 13 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p34
+aVDwyane Wade MIA 04/17/2005 MIA vs. IND W 42 13 4 15 26.7 0 0 - 5 7 71.4 2 3 5 8 1 1 7 4 6
+p35
+aVUdonis Haslem MIA 04/15/2005 MIA @ BOS L 42 13 4 10 40.0 0 1 0.0 5 6 83.3 3 12 15 5 2 3 0 1 3
+p36
+aVSteven Smith MIA 04/15/2005 MIA @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p37
+aVAlonzo Mourning MIA 04/15/2005 MIA @ BOS L 15 7 2 2 100.0 0 0 - 3 5 60.0 0 3 3 0 0 3 0 5 0
+p38
+aVShandon Anderson MIA 04/15/2005 MIA @ BOS L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 3 1 -15
+p39
+aVShaquille O'Neal MIA 04/15/2005 MIA @ BOS L 33 34 12 16 75.0 0 0 - 10 20 50.0 2 3 5 1 0 1 1 2 -2
+p40
+aVDamon Jones MIA 04/15/2005 MIA @ BOS L 37 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 8 3 0 3 1 11
+p41
+aVChristian Laettner MIA 04/15/2005 MIA @ BOS L 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 3 1 0 1 1 -5
+p42
+aVKeyon Dooling MIA 04/15/2005 MIA @ BOS L 11 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -13
+p43
+aVEddie Jones MIA 04/15/2005 MIA @ BOS L 20 5 2 3 66.7 1 1 100.0 0 2 0.0 0 5 5 2 0 0 2 5 4
+p44
+aVDwyane Wade MIA 04/15/2005 MIA @ BOS L 43 17 6 17 35.3 0 1 0.0 5 5 100.0 1 2 3 2 0 0 1 3 5
+p45
+aVRasual Butler MIA 04/15/2005 MIA @ BOS L 25 13 5 9 55.6 3 5 60.0 0 0 - 0 2 2 2 0 0 0 5 2
+p46
+aVShaquille O'Neal MIA 04/14/2005 MIA @ PHI L 35 13 5 9 55.6 0 0 - 3 11 27.3 2 10 12 3 3 1 9 4 -3
+p47
+aVUdonis Haslem MIA 04/14/2005 MIA @ PHI L 42 17 8 10 80.0 0 0 - 1 1 100.0 3 5 8 2 3 0 4 2 1
+p48
+aVKeyon Dooling MIA 04/14/2005 MIA @ PHI L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 -16
+p49
+aVMichael Doleac MIA 04/14/2005 MIA @ PHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -11
+p50
+aVAlonzo Mourning MIA 04/14/2005 MIA @ PHI L 13 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 1 3 0 1 7
+p51
+aVDwyane Wade MIA 04/14/2005 MIA @ PHI L 49 48 18 33 54.5 2 3 66.7 10 13 76.9 2 8 10 6 1 0 3 4 0
+p52
+aVChristian Laettner MIA 04/14/2005 MIA @ PHI L 10 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 1 0 0 1 -4
+p53
+aVDamon Jones MIA 04/14/2005 MIA @ PHI L 39 18 7 15 46.7 4 9 44.4 0 0 - 1 4 5 5 0 0 0 5 9
+p54
+aVShandon Anderson MIA 04/14/2005 MIA @ PHI L 16 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 -7
+p55
+aVEddie Jones MIA 04/14/2005 MIA @ PHI L 42 12 5 13 38.5 1 6 16.7 1 1 100.0 2 1 3 7 0 0 1 5 -9
+p56
+aVSteven Smith MIA 04/14/2005 MIA @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p57
+aVEddie Jones MIA 04/10/2005 MIA vs. DET L 42 19 8 17 47.1 2 5 40.0 1 1 100.0 1 6 7 0 1 1 1 4 -1
+p58
+aVSteven Smith MIA 04/10/2005 MIA vs. DET L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p59
+aVMichael Doleac MIA 04/10/2005 MIA vs. DET L 20 6 3 5 60.0 0 0 - 0 0 - 3 2 5 0 0 0 0 5 0
+p60
+aVKeyon Dooling MIA 04/10/2005 MIA vs. DET L 26 9 3 8 37.5 1 3 33.3 2 6 33.3 0 2 2 3 0 1 2 1 -3
+p61
+aVShandon Anderson MIA 04/10/2005 MIA vs. DET L 25 3 0 4 0.0 0 2 0.0 3 4 75.0 0 2 2 3 1 0 0 3 13
+p62
+aVUdonis Haslem MIA 04/10/2005 MIA vs. DET L 38 13 6 9 66.7 0 0 - 1 1 100.0 5 6 11 0 1 0 2 3 -11
+p63
+aVDamon Jones MIA 04/10/2005 MIA vs. DET L 26 5 2 15 13.3 1 8 12.5 0 0 - 0 5 5 3 1 0 2 0 -5
+p64
+aVDwyane Wade MIA 04/10/2005 MIA vs. DET L 21 5 1 6 16.7 0 0 - 3 6 50.0 0 1 1 1 1 0 4 6 -28
+p65
+aVAlonzo Mourning MIA 04/10/2005 MIA vs. DET L 37 10 3 12 25.0 0 0 - 4 8 50.0 7 7 14 0 1 5 0 2 -3
+p66
+aVShandon Anderson MIA 04/08/2005 MIA @ MEM L 14 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -7
+p67
+aVEddie Jones MIA 04/08/2005 MIA @ MEM L 38 13 6 13 46.2 1 5 20.0 0 0 - 0 2 2 1 2 1 2 2 -11
+p68
+aVAlonzo Mourning MIA 04/08/2005 MIA @ MEM L 26 7 3 5 60.0 0 0 - 1 3 33.3 0 4 4 0 0 4 3 4 -2
+p69
+aVDwyane Wade MIA 04/08/2005 MIA @ MEM L 38 16 5 17 29.4 0 1 0.0 6 7 85.7 2 2 4 7 1 0 5 2 -15
+p70
+aVWang Zhi-zhi MIA 04/08/2005 MIA @ MEM L 12 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 3 0 0 1 0 7
+p71
+aVDamon Jones MIA 04/08/2005 MIA @ MEM L 27 14 5 10 50.0 2 4 50.0 2 2 100.0 0 6 6 1 0 0 2 1 -18
+p72
+aVKeyon Dooling MIA 04/08/2005 MIA @ MEM L 21 13 3 7 42.9 1 3 33.3 6 6 100.0 0 2 2 0 1 0 0 0 2
+p73
+aVMichael Doleac MIA 04/08/2005 MIA @ MEM L 25 4 2 8 25.0 0 0 - 0 0 - 0 7 7 1 0 0 1 1 -19
+p74
+aVSteven Smith MIA 04/08/2005 MIA @ MEM L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 -1
+p75
+aVQyntel Woods MIA 04/08/2005 MIA @ MEM L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p76
+aVUdonis Haslem MIA 04/08/2005 MIA @ MEM L 29 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 3 0 1 1 3 -13
+p77
+aVKeyon Dooling MIA 04/05/2005 MIA vs. CHI W 24 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 2 3 -3
+p78
+aVShandon Anderson MIA 04/05/2005 MIA vs. CHI W 24 3 1 2 50.0 0 0 - 1 2 50.0 0 6 6 0 1 0 2 2 3
+p79
+aVDamon Jones MIA 04/05/2005 MIA vs. CHI W 32 17 5 9 55.6 5 7 71.4 2 2 100.0 0 0 0 3 0 0 1 0 17
+p80
+aVEddie Jones MIA 04/05/2005 MIA vs. CHI W 41 15 4 10 40.0 2 5 40.0 5 7 71.4 0 8 8 4 1 1 2 2 22
+p81
+aVWang Zhi-zhi MIA 04/05/2005 MIA vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p82
+aVAlonzo Mourning MIA 04/05/2005 MIA vs. CHI W 19 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 3 2 3 18
+p83
+aVUdonis Haslem MIA 04/05/2005 MIA vs. CHI W 39 16 8 12 66.7 0 0 - 0 0 - 5 10 15 1 1 1 1 4 7
+p84
+aVSteven Smith MIA 04/05/2005 MIA vs. CHI W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -1
+p85
+aVDwyane Wade MIA 04/05/2005 MIA vs. CHI W 33 39 13 20 65.0 0 2 0.0 13 17 76.5 2 2 4 7 1 1 6 4 23
+p86
+aVMichael Doleac MIA 04/05/2005 MIA vs. CHI W 21 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 1 0 2 4 6
+p87
+aVQyntel Woods MIA 04/02/2005 MIA @ NOH W 22 8 4 9 44.4 0 0 - 0 0 - 1 1 2 0 4 0 1 4 0
+p88
+aVUdonis Haslem MIA 04/02/2005 MIA @ NOH W 29 4 2 5 40.0 0 0 - 0 0 - 4 3 7 1 1 0 0 2 11
+p89
+aVDamon Jones MIA 04/02/2005 MIA @ NOH W 38 22 8 16 50.0 6 11 54.5 0 0 - 0 1 1 7 0 0 3 2 11
+p90
+aVDwyane Wade MIA 04/02/2005 MIA @ NOH W 36 33 11 17 64.7 0 0 - 11 15 73.3 1 1 2 9 1 0 4 2 11
+p91
+aVMichael Doleac MIA 04/02/2005 MIA @ NOH W 19 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 2 1
+p92
+aVAlonzo Mourning MIA 04/02/2005 MIA @ NOH W 12 2 0 1 0.0 0 0 - 2 4 50.0 1 3 4 1 0 1 0 2 -5
+p93
+aVShaquille O'Neal MIA 04/02/2005 MIA @ NOH W 36 34 15 21 71.4 0 0 - 4 7 57.1 4 11 15 3 1 1 3 4 17
+p94
+aVShandon Anderson MIA 04/02/2005 MIA @ NOH W 23 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 5 -11
+p95
+aVEddie Jones MIA 04/02/2005 MIA @ NOH W 25 0 0 1 0.0 0 1 0.0 0 0 - 0 5 5 4 4 0 2 2 25
+p96
+aVQyntel Woods MIA 03/31/2005 MIA @ IND L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 1
+p97
+aVKeyon Dooling MIA 03/31/2005 MIA @ IND L 27 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 2 3 0 0 4 -9
+p98
+aVSteven Smith MIA 03/31/2005 MIA @ IND L 17 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 0 1
+p99
+aVUdonis Haslem MIA 03/31/2005 MIA @ IND L 47 9 3 8 37.5 0 0 - 3 4 75.0 2 2 4 0 0 0 2 2 -5
+p100
+aVMichael Doleac MIA 03/31/2005 MIA @ IND L 10 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -5
+p101
+aVDamon Jones MIA 03/31/2005 MIA @ IND L 39 27 10 13 76.9 5 5 100.0 2 2 100.0 0 5 5 4 1 0 0 4 -3
+p102
+aVDwyane Wade MIA 03/31/2005 MIA @ IND L 44 37 14 30 46.7 3 6 50.0 6 10 60.0 2 7 9 6 4 0 5 4 -4
+p103
+aVAlonzo Mourning MIA 03/31/2005 MIA @ IND L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 4
+p104
+aVShandon Anderson MIA 03/31/2005 MIA @ IND L 21 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 2 0 1 5 -4
+p105
+aVShaquille O'Neal MIA 03/31/2005 MIA @ IND L 45 24 11 18 61.1 0 0 - 2 9 22.2 2 11 13 2 1 1 5 2 -6
+p106
+aVShandon Anderson MIA 03/29/2005 MIA vs. TOR W 15 8 4 6 66.7 0 0 - 0 0 - 2 3 5 0 0 0 1 4 -3
+p107
+aVShaquille O'Neal MIA 03/29/2005 MIA vs. TOR W 36 28 11 17 64.7 0 0 - 6 11 54.5 3 6 9 3 1 2 5 4 15
+p108
+aVKeyon Dooling MIA 03/29/2005 MIA vs. TOR W 15 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 2 1 0 0 0 -2
+p109
+aVDwyane Wade MIA 03/29/2005 MIA vs. TOR W 42 27 7 13 53.8 0 1 0.0 13 16 81.3 1 3 4 8 1 1 5 3 20
+p110
+aVMichael Doleac MIA 03/29/2005 MIA vs. TOR W 15 2 1 6 16.7 0 0 - 0 0 - 1 2 3 1 0 0 0 3 -6
+p111
+aVUdonis Haslem MIA 03/29/2005 MIA vs. TOR W 35 7 3 5 60.0 0 0 - 1 2 50.0 2 6 8 0 0 0 0 3 14
+p112
+aVSteven Smith MIA 03/29/2005 MIA vs. TOR W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p113
+aVDamon Jones MIA 03/29/2005 MIA vs. TOR W 33 14 6 10 60.0 2 3 66.7 0 0 - 0 3 3 5 1 0 0 2 14
+p114
+aVEddie Jones MIA 03/29/2005 MIA vs. TOR W 40 11 3 12 25.0 2 6 33.3 3 3 100.0 1 10 11 4 0 0 1 1 15
+p115
+aVMichael Doleac MIA 03/26/2005 MIA @ CHA L 38 8 4 12 33.3 0 0 - 0 0 - 2 6 8 0 1 0 2 3 1
+p116
+aVAlonzo Mourning MIA 03/26/2005 MIA @ CHA L 14 8 3 4 75.0 0 0 - 2 4 50.0 3 2 5 0 1 1 1 3 -8
+p117
+aVDamon Jones MIA 03/26/2005 MIA @ CHA L 34 13 5 10 50.0 3 7 42.9 0 2 0.0 0 3 3 6 0 0 2 2 6
+p118
+aVWang Zhi-zhi MIA 03/26/2005 MIA @ CHA L 7 2 1 6 16.7 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -5
+p119
+aVShandon Anderson MIA 03/26/2005 MIA @ CHA L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p120
+aVSteven Smith MIA 03/26/2005 MIA @ CHA L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p121
+aVDwyane Wade MIA 03/26/2005 MIA @ CHA L 42 19 7 20 35.0 0 1 0.0 5 8 62.5 3 2 5 4 1 3 2 2 -2
+p122
+aVEddie Jones MIA 03/26/2005 MIA @ CHA L 42 16 5 9 55.6 2 6 33.3 4 4 100.0 1 3 4 3 0 0 0 3 6
+p123
+aVKeyon Dooling MIA 03/26/2005 MIA @ CHA L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 0 -8
+p124
+aVShaquille O'Neal MIA 03/26/2005 MIA @ CHA L 36 26 12 20 60.0 0 0 - 2 7 28.6 6 10 16 3 1 4 3 3 5
+p125
+aVUdonis Haslem MIA 03/25/2005 MIA vs. PHX W 25 6 2 8 25.0 0 0 - 2 2 100.0 2 2 4 1 0 0 1 5 -3
+p126
+aVDwyane Wade MIA 03/25/2005 MIA vs. PHX W 40 35 12 25 48.0 1 1 100.0 10 12 83.3 0 7 7 9 2 1 6 3 8
+p127
+aVShaquille O'Neal MIA 03/25/2005 MIA vs. PHX W 26 25 12 16 75.0 0 0 - 1 2 50.0 6 2 8 1 1 1 2 4 0
+p128
+aVEddie Jones MIA 03/25/2005 MIA vs. PHX W 41 23 8 13 61.5 4 7 57.1 3 3 100.0 1 7 8 4 3 1 1 2 14
+p129
+aVDamon Jones MIA 03/25/2005 MIA vs. PHX W 25 0 0 0 - 0 0 - 0 0 - 0 2 2 3 1 0 0 3 10
+p130
+aVShandon Anderson MIA 03/25/2005 MIA vs. PHX W 23 10 5 7 71.4 0 0 - 0 0 - 1 4 5 1 1 0 1 1 13
+p131
+aVKeyon Dooling MIA 03/25/2005 MIA vs. PHX W 23 12 4 7 57.1 2 3 66.7 2 2 100.0 0 2 2 3 0 0 0 3 0
+p132
+aVSteven Smith MIA 03/25/2005 MIA vs. PHX W 15 6 2 6 33.3 2 3 66.7 0 0 - 0 3 3 4 1 0 1 2 -2
+p133
+aVMichael Doleac MIA 03/25/2005 MIA vs. PHX W 22 8 4 7 57.1 0 0 - 0 0 - 2 0 2 2 1 1 0 3 10
+p134
+aVMichael Doleac MIA 03/22/2005 MIA @ HOU L 24 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 0 3 2 -17
+p135
+aVShaquille O'Neal MIA 03/22/2005 MIA @ HOU L 39 23 9 15 60.0 0 0 - 5 10 50.0 6 10 16 2 1 3 5 4 -1
+p136
+aVEddie Jones MIA 03/22/2005 MIA @ HOU L 38 9 3 6 50.0 1 4 25.0 2 2 100.0 0 2 2 1 0 1 1 4 -4
+p137
+aVDwyane Wade MIA 03/22/2005 MIA @ HOU L 42 20 4 19 21.1 0 2 0.0 12 18 66.7 2 2 4 4 1 0 4 5 -4
+p138
+aVDamon Jones MIA 03/22/2005 MIA @ HOU L 35 16 6 11 54.5 3 5 60.0 1 1 100.0 0 7 7 2 0 0 1 1 -12
+p139
+aVAlonzo Mourning MIA 03/22/2005 MIA @ HOU L 8 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 1 0 2 -1
+p140
+aVShandon Anderson MIA 03/22/2005 MIA @ HOU L 22 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 1 0 1 5 6
+p141
+aVRasual Butler MIA 03/22/2005 MIA @ HOU L 18 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 1 0 1 1 1 18
+p142
+aVKeyon Dooling MIA 03/22/2005 MIA @ HOU L 14 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 3 0 0 2 2 5
+p143
+aVDwyane Wade MIA 03/19/2005 MIA vs. NYK W 41 30 12 21 57.1 0 0 - 6 9 66.7 1 1 2 4 5 0 3 2 7
+p144
+aVChristian Laettner MIA 03/19/2005 MIA vs. NYK W 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p145
+aVMichael Doleac MIA 03/19/2005 MIA vs. NYK W 12 5 2 3 66.7 0 0 - 1 2 50.0 3 2 5 0 0 1 0 0 8
+p146
+aVShandon Anderson MIA 03/19/2005 MIA vs. NYK W 28 2 0 5 0.0 0 1 0.0 2 2 100.0 1 2 3 3 0 0 0 3 16
+p147
+aVUdonis Haslem MIA 03/19/2005 MIA vs. NYK W 42 3 1 4 25.0 0 0 - 1 2 50.0 5 11 16 0 0 1 3 2 13
+p148
+aVDamon Jones MIA 03/19/2005 MIA vs. NYK W 25 3 1 7 14.3 1 7 14.3 0 1 0.0 1 2 3 5 0 0 1 3 6
+p149
+aVEddie Jones MIA 03/19/2005 MIA vs. NYK W 27 13 6 10 60.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 4 7
+p150
+aVShaquille O'Neal MIA 03/19/2005 MIA vs. NYK W 34 33 12 21 57.1 0 0 - 9 14 64.3 6 11 17 0 0 3 3 3 9
+p151
+aVAlonzo Mourning MIA 03/19/2005 MIA vs. NYK W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 2 0 0 -4
+p152
+aVKeyon Dooling MIA 03/19/2005 MIA vs. NYK W 23 6 2 7 28.6 0 1 0.0 2 2 100.0 0 3 3 2 2 0 1 1 9
+p153
+aVShaquille O'Neal MIA 03/17/2005 MIA vs. LAL W 37 25 11 19 57.9 0 0 - 3 9 33.3 4 8 12 2 1 4 2 1 0
+p154
+aVDamon Jones MIA 03/17/2005 MIA vs. LAL W 28 11 4 9 44.4 3 7 42.9 0 0 - 0 1 1 3 1 0 1 3 0
+p155
+aVShandon Anderson MIA 03/17/2005 MIA vs. LAL W 18 4 2 2 100.0 0 0 - 0 0 - 2 2 4 2 2 0 2 2 13
+p156
+aVDwyane Wade MIA 03/17/2005 MIA vs. LAL W 41 27 8 16 50.0 0 1 0.0 11 12 91.7 2 6 8 5 3 1 5 1 13
+p157
+aVUdonis Haslem MIA 03/17/2005 MIA vs. LAL W 37 2 0 6 0.0 0 0 - 2 2 100.0 2 6 8 2 1 0 1 3 6
+p158
+aVChristian Laettner MIA 03/17/2005 MIA vs. LAL W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 2 1 0 4 7
+p159
+aVMichael Doleac MIA 03/17/2005 MIA vs. LAL W 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 10
+p160
+aVEddie Jones MIA 03/17/2005 MIA vs. LAL W 41 12 5 15 33.3 1 6 16.7 1 2 50.0 1 5 6 3 0 0 0 1 3
+p161
+aVKeyon Dooling MIA 03/17/2005 MIA vs. LAL W 20 17 6 11 54.5 1 5 20.0 4 4 100.0 0 1 1 1 0 0 0 1 13
+p162
+aVKeyon Dooling MIA 03/15/2005 MIA @ NYK W 17 7 2 5 40.0 1 3 33.3 2 2 100.0 1 1 2 3 1 0 0 0 3
+p163
+aVMichael Doleac MIA 03/15/2005 MIA @ NYK W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -6
+p164
+aVChristian Laettner MIA 03/15/2005 MIA @ NYK W 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 0
+p165
+aVShandon Anderson MIA 03/15/2005 MIA @ NYK W 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 1 0 1 1 2
+p166
+aVDamon Jones MIA 03/15/2005 MIA @ NYK W 31 18 6 8 75.0 6 8 75.0 0 0 - 0 4 4 2 1 0 1 1 1
+p167
+aVShaquille O'Neal MIA 03/15/2005 MIA @ NYK W 37 23 10 15 66.7 0 0 - 3 14 21.4 2 5 7 1 1 0 4 4 8
+p168
+aVUdonis Haslem MIA 03/15/2005 MIA @ NYK W 31 6 3 5 60.0 0 0 - 0 1 0.0 1 4 5 1 1 1 3 3 0
+p169
+aVDwyane Wade MIA 03/15/2005 MIA @ NYK W 39 24 8 15 53.3 1 1 100.0 7 8 87.5 0 3 3 5 1 1 4 4 0
+p170
+aVEddie Jones MIA 03/15/2005 MIA @ NYK W 41 12 5 11 45.5 2 4 50.0 0 0 - 0 5 5 5 2 1 2 3 2
+p171
+aVChristian Laettner MIA 03/14/2005 MIA vs. MIL W 16 3 0 0 - 0 0 - 3 4 75.0 0 1 1 2 0 0 0 0 15
+p172
+aVShaquille O'Neal MIA 03/14/2005 MIA vs. MIL W 31 21 9 16 56.3 0 0 - 3 8 37.5 2 7 9 1 0 4 1 2 30
+p173
+aVAlonzo Mourning MIA 03/14/2005 MIA vs. MIL W 9 8 3 5 60.0 0 0 - 2 4 50.0 0 4 4 0 0 0 1 1 1
+p174
+aVRasual Butler MIA 03/14/2005 MIA vs. MIL W 12 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 0 0 0 0 0 3
+p175
+aVUdonis Haslem MIA 03/14/2005 MIA vs. MIL W 25 8 3 4 75.0 0 0 - 2 4 50.0 1 5 6 3 1 0 1 3 22
+p176
+aVKeyon Dooling MIA 03/14/2005 MIA vs. MIL W 18 2 1 5 20.0 0 0 - 0 0 - 0 2 2 3 1 1 2 3 5
+p177
+aVDamon Jones MIA 03/14/2005 MIA vs. MIL W 26 15 6 8 75.0 3 5 60.0 0 0 - 0 0 0 4 0 0 0 1 25
+p178
+aVSteven Smith MIA 03/14/2005 MIA vs. MIL W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p179
+aVShandon Anderson MIA 03/14/2005 MIA vs. MIL W 22 4 2 4 50.0 0 1 0.0 0 0 - 1 9 10 4 1 1 0 2 26
+p180
+aVEddie Jones MIA 03/14/2005 MIA vs. MIL W 33 10 4 9 44.4 0 4 0.0 2 2 100.0 1 3 4 2 2 0 0 2 31
+p181
+aVDwyane Wade MIA 03/14/2005 MIA vs. MIL W 26 29 10 12 83.3 1 1 100.0 8 9 88.9 0 3 3 4 2 0 2 2 25
+p182
+aVMichael Doleac MIA 03/14/2005 MIA vs. MIL W 15 5 1 4 25.0 0 0 - 3 4 75.0 2 2 4 1 1 0 1 2 10
+p183
+aVUdonis Haslem MIA 03/12/2005 MIA vs. NJN W 31 9 4 7 57.1 0 0 - 1 3 33.3 1 6 7 2 2 0 1 2 28
+p184
+aVAlonzo Mourning MIA 03/12/2005 MIA vs. NJN W 6 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 0 0 1 0 1 0
+p185
+aVMichael Doleac MIA 03/12/2005 MIA vs. NJN W 12 0 0 2 0.0 0 0 - 0 2 0.0 0 2 2 1 0 0 0 1 6
+p186
+aVDwyane Wade MIA 03/12/2005 MIA vs. NJN W 26 13 4 10 40.0 0 1 0.0 5 6 83.3 2 4 6 2 1 1 3 4 1
+p187
+aVDamon Jones MIA 03/12/2005 MIA vs. NJN W 27 15 6 10 60.0 3 7 42.9 0 0 - 0 2 2 5 2 0 2 1 18
+p188
+aVChristian Laettner MIA 03/12/2005 MIA vs. NJN W 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -6
+p189
+aVShaquille O'Neal MIA 03/12/2005 MIA vs. NJN W 30 15 6 12 50.0 0 0 - 3 5 60.0 2 9 11 3 0 0 2 2 19
+p190
+aVSteven Smith MIA 03/12/2005 MIA vs. NJN W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p191
+aVKeyon Dooling MIA 03/12/2005 MIA vs. NJN W 21 6 2 8 25.0 0 3 0.0 2 2 100.0 1 1 2 0 0 0 1 0 7
+p192
+aVShandon Anderson MIA 03/12/2005 MIA vs. NJN W 32 9 3 4 75.0 1 1 100.0 2 2 100.0 2 4 6 1 1 0 0 3 36
+p193
+aVEddie Jones MIA 03/12/2005 MIA vs. NJN W 35 18 6 9 66.7 2 4 50.0 4 4 100.0 0 5 5 2 1 0 2 3 19
+p194
+aVRasual Butler MIA 03/12/2005 MIA vs. NJN W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 2 -1
+p195
+aVShandon Anderson MIA 03/10/2005 MIA vs. MIN W 16 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 1 4
+p196
+aVShaquille O'Neal MIA 03/10/2005 MIA vs. MIN W 38 33 10 18 55.6 0 0 - 13 18 72.2 6 7 13 3 1 3 1 4 12
+p197
+aVChristian Laettner MIA 03/10/2005 MIA vs. MIN W 17 8 2 4 50.0 0 1 0.0 4 4 100.0 2 4 6 1 0 0 1 0 18
+p198
+aVDwyane Wade MIA 03/10/2005 MIA vs. MIN W 40 20 6 17 35.3 0 0 - 8 10 80.0 0 7 7 3 2 3 4 0 7
+p199
+aVDamon Jones MIA 03/10/2005 MIA vs. MIN W 35 7 3 6 50.0 1 4 25.0 0 0 - 0 1 1 6 0 2 2 2 6
+p200
+aVEddie Jones MIA 03/10/2005 MIA vs. MIN W 40 15 5 9 55.6 1 3 33.3 4 4 100.0 1 5 6 1 2 0 1 2 23
+p201
+aVMichael Doleac MIA 03/10/2005 MIA vs. MIN W 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p202
+aVKeyon Dooling MIA 03/10/2005 MIA vs. MIN W 13 7 3 4 75.0 0 0 - 1 1 100.0 0 1 1 2 3 0 1 0 11
+p203
+aVUdonis Haslem MIA 03/10/2005 MIA vs. MIN W 31 11 5 10 50.0 0 0 - 1 2 50.0 4 4 8 1 2 0 0 2 -1
+p204
+aVMichael Doleac MIA 03/07/2005 MIA vs. PHI W 17 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 1 0 0 3 0
+p205
+aVShaquille O'Neal MIA 03/07/2005 MIA vs. PHI W 26 25 11 14 78.6 0 0 - 3 8 37.5 2 3 5 0 0 2 1 3 12
+p206
+aVChristian Laettner MIA 03/07/2005 MIA vs. PHI W 16 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 0 0 1 1 -3
+p207
+aVAlonzo Mourning MIA 03/07/2005 MIA vs. PHI W 4 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 2 0 -6
+p208
+aVUdonis Haslem MIA 03/07/2005 MIA vs. PHI W 33 12 6 8 75.0 0 0 - 0 0 - 1 9 10 3 0 2 1 2 13
+p209
+aVKeyon Dooling MIA 03/07/2005 MIA vs. PHI W 17 11 4 5 80.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 1 2 4
+p210
+aVEddie Jones MIA 03/07/2005 MIA vs. PHI W 22 0 0 5 0.0 0 4 0.0 0 1 0.0 0 7 7 4 0 0 0 5 -1
+p211
+aVShandon Anderson MIA 03/07/2005 MIA vs. PHI W 33 13 5 7 71.4 1 1 100.0 2 2 100.0 2 2 4 2 1 1 2 2 11
+p212
+aVDamon Jones MIA 03/07/2005 MIA vs. PHI W 33 8 3 10 30.0 2 7 28.6 0 0 - 1 5 6 4 0 0 1 2 1
+p213
+aVDwyane Wade MIA 03/07/2005 MIA vs. PHI W 39 32 7 14 50.0 0 0 - 18 23 78.3 2 3 5 7 2 1 5 2 9
+p214
+aVDamon Jones MIA 03/06/2005 MIA @ CLE W 31 6 2 5 40.0 2 3 66.7 0 0 - 2 2 4 6 2 0 1 1 9
+p215
+aVWang Zhi-zhi MIA 03/06/2005 MIA @ CLE W 3 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 1
+p216
+aVMichael Doleac MIA 03/06/2005 MIA @ CLE W 18 6 3 7 42.9 0 0 - 0 0 - 3 3 6 1 0 0 1 1 4
+p217
+aVEddie Jones MIA 03/06/2005 MIA @ CLE W 35 19 6 14 42.9 3 10 30.0 4 5 80.0 1 4 5 1 1 0 0 3 20
+p218
+aVChristian Laettner MIA 03/06/2005 MIA @ CLE W 16 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 1 1 0 1 1 13
+p219
+aVAlonzo Mourning MIA 03/06/2005 MIA @ CLE W 3 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 1 0 1
+p220
+aVRasual Butler MIA 03/06/2005 MIA @ CLE W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 0
+p221
+aVUdonis Haslem MIA 03/06/2005 MIA @ CLE W 29 18 9 13 69.2 0 1 0.0 0 0 - 4 7 11 1 0 2 0 2 6
+p222
+aVShandon Anderson MIA 03/06/2005 MIA @ CLE W 17 6 3 5 60.0 0 0 - 0 0 - 0 6 6 2 0 0 1 4 15
+p223
+aVKeyon Dooling MIA 03/06/2005 MIA @ CLE W 17 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 3 1 0 0 2 11
+p224
+aVDwyane Wade MIA 03/06/2005 MIA @ CLE W 40 18 7 22 31.8 0 1 0.0 4 6 66.7 2 8 10 4 2 1 6 0 5
+p225
+aVShaquille O'Neal MIA 03/06/2005 MIA @ CLE W 27 13 5 12 41.7 0 0 - 3 5 60.0 3 2 5 6 0 1 1 4 15
+p226
+aVMichael Doleac MIA 03/04/2005 MIA vs. SAC W 13 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 2 0 0 4
+p227
+aVShaquille O'Neal MIA 03/04/2005 MIA vs. SAC W 31 18 8 17 47.1 0 0 - 2 9 22.2 2 5 7 5 1 2 2 0 15
+p228
+aVDwyane Wade MIA 03/04/2005 MIA vs. SAC W 33 22 8 16 50.0 1 2 50.0 5 6 83.3 2 5 7 7 0 0 2 0 6
+p229
+aVEddie Jones MIA 03/04/2005 MIA vs. SAC W 35 17 6 10 60.0 5 5 100.0 0 0 - 0 4 4 3 2 1 2 0 19
+p230
+aVChristian Laettner MIA 03/04/2005 MIA vs. SAC W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 3 0 0 2 3
+p231
+aVKeyon Dooling MIA 03/04/2005 MIA vs. SAC W 20 6 2 7 28.6 0 1 0.0 2 4 50.0 1 2 3 4 2 0 1 1 10
+p232
+aVUdonis Haslem MIA 03/04/2005 MIA vs. SAC W 39 11 5 7 71.4 0 0 - 1 2 50.0 3 10 13 1 1 0 0 2 18
+p233
+aVRasual Butler MIA 03/04/2005 MIA vs. SAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p234
+aVWang Zhi-zhi MIA 03/04/2005 MIA vs. SAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p235
+aVDamon Jones MIA 03/04/2005 MIA vs. SAC W 28 14 6 10 60.0 2 4 50.0 0 0 - 0 0 0 1 1 0 2 1 11
+p236
+aVAlonzo Mourning MIA 03/04/2005 MIA vs. SAC W 4 4 1 2 50.0 0 0 - 2 4 50.0 2 2 4 0 0 1 0 0 2
+p237
+aVShandon Anderson MIA 03/04/2005 MIA vs. SAC W 26 8 4 7 57.1 0 0 - 0 0 - 2 4 6 2 1 0 0 4 17
+p238
+aVRasual Butler MIA 03/03/2005 MIA @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p239
+aVShandon Anderson MIA 03/03/2005 MIA @ NJN W 27 8 2 5 40.0 0 0 - 4 4 100.0 1 2 3 3 0 1 1 4 7
+p240
+aVShaquille O'Neal MIA 03/03/2005 MIA @ NJN W 33 20 6 12 50.0 0 0 - 8 11 72.7 3 10 13 2 0 2 0 4 14
+p241
+aVUdonis Haslem MIA 03/03/2005 MIA @ NJN W 30 13 5 9 55.6 0 0 - 3 4 75.0 3 5 8 0 2 2 2 1 3
+p242
+aVKeyon Dooling MIA 03/03/2005 MIA @ NJN W 13 2 1 1 100.0 0 0 - 0 0 - 0 4 4 2 0 0 0 3 -2
+p243
+aVDamon Jones MIA 03/03/2005 MIA @ NJN W 35 5 1 7 14.3 1 5 20.0 2 2 100.0 1 2 3 2 1 0 0 0 18
+p244
+aVWang Zhi-zhi MIA 03/03/2005 MIA @ NJN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p245
+aVEddie Jones MIA 03/03/2005 MIA @ NJN W 28 15 5 11 45.5 3 7 42.9 2 3 66.7 1 6 7 3 1 0 2 6 11
+p246
+aVDwyane Wade MIA 03/03/2005 MIA @ NJN W 38 27 10 19 52.6 0 0 - 7 12 58.3 1 5 6 8 0 4 4 3 15
+p247
+aVChristian Laettner MIA 03/03/2005 MIA @ NJN W 16 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 3 0 0 2 1 12
+p248
+aVAlonzo Mourning MIA 03/03/2005 MIA @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p249
+aVMichael Doleac MIA 03/03/2005 MIA @ NJN W 13 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 5
+p250
+aVChristian Laettner MIA 02/27/2005 MIA @ ORL W 23 9 4 6 66.7 0 1 0.0 1 2 50.0 1 2 3 2 2 0 1 3 3
+p251
+aVShandon Anderson MIA 02/27/2005 MIA @ ORL W 20 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 3 3
+p252
+aVDwyane Wade MIA 02/27/2005 MIA @ ORL W 39 28 11 15 73.3 0 0 - 6 7 85.7 2 1 3 11 2 3 8 3 2
+p253
+aVMichael Doleac MIA 02/27/2005 MIA @ ORL W 18 5 1 3 33.3 0 0 - 3 4 75.0 0 5 5 3 0 0 2 4 3
+p254
+aVEddie Jones MIA 02/27/2005 MIA @ ORL W 44 24 9 18 50.0 4 9 44.4 2 2 100.0 0 4 4 5 2 0 0 5 13
+p255
+aVDamon Jones MIA 02/27/2005 MIA @ ORL W 31 22 8 15 53.3 6 10 60.0 0 0 - 1 2 3 3 0 0 2 1 9
+p256
+aVRasual Butler MIA 02/27/2005 MIA @ ORL W 10 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 3 0 0 0 5 1
+p257
+aVUdonis Haslem MIA 02/27/2005 MIA @ ORL W 37 10 4 9 44.4 0 0 - 2 2 100.0 4 8 12 1 4 1 1 3 13
+p258
+aVKeyon Dooling MIA 02/27/2005 MIA @ ORL W 18 6 2 7 28.6 0 1 0.0 2 2 100.0 2 1 3 0 0 0 1 2 -2
+p259
+aVKeyon Dooling MIA 02/26/2005 MIA vs. ORL W 14 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 2
+p260
+aVDwyane Wade MIA 02/26/2005 MIA vs. ORL W 33 25 8 13 61.5 0 0 - 9 12 75.0 0 3 3 4 0 1 2 5 -1
+p261
+aVShandon Anderson MIA 02/26/2005 MIA vs. ORL W 18 2 1 4 25.0 0 0 - 0 0 - 2 1 3 2 0 1 0 1 -3
+p262
+aVDamon Jones MIA 02/26/2005 MIA vs. ORL W 36 14 6 14 42.9 2 5 40.0 0 0 - 0 2 2 5 0 0 2 1 4
+p263
+aVEddie Jones MIA 02/26/2005 MIA vs. ORL W 34 15 5 10 50.0 1 3 33.3 4 4 100.0 2 4 6 2 1 0 0 4 4
+p264
+aVMichael Doleac MIA 02/26/2005 MIA vs. ORL W 25 10 5 16 31.3 0 0 - 0 0 - 3 5 8 0 1 1 1 2 -3
+p265
+aVRasual Butler MIA 02/26/2005 MIA vs. ORL W 27 12 4 11 36.4 0 4 0.0 4 4 100.0 1 4 5 1 0 0 0 0 9
+p266
+aVChristian Laettner MIA 02/26/2005 MIA vs. ORL W 20 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 0 1 0 1 3 6
+p267
+aVUdonis Haslem MIA 02/26/2005 MIA vs. ORL W 33 9 4 7 57.1 0 0 - 1 2 50.0 5 3 8 0 0 0 3 1 -3
+p268
+aVMalik Allen MIA 02/23/2005 MIA @ IND L 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -8
+p269
+aVWang Zhi-zhi MIA 02/23/2005 MIA @ IND L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p270
+aVDwyane Wade MIA 02/23/2005 MIA @ IND L 46 38 13 24 54.2 0 1 0.0 12 15 80.0 3 1 4 8 5 0 2 3 4
+p271
+aVMichael Doleac MIA 02/23/2005 MIA @ IND L 21 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 0 2 4 9
+p272
+aVShandon Anderson MIA 02/23/2005 MIA @ IND L 29 4 1 5 20.0 0 0 - 2 2 100.0 2 4 6 0 1 2 0 3 -10
+p273
+aVUdonis Haslem MIA 02/23/2005 MIA @ IND L 45 11 3 11 27.3 0 0 - 5 8 62.5 6 12 18 1 2 0 3 5 5
+p274
+aVEddie Jones MIA 02/23/2005 MIA @ IND L 46 11 3 12 25.0 1 6 16.7 4 4 100.0 0 9 9 2 0 0 0 3 6
+p275
+aVRasual Butler MIA 02/23/2005 MIA @ IND L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p276
+aVKeyon Dooling MIA 02/23/2005 MIA @ IND L 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -10
+p277
+aVDamon Jones MIA 02/23/2005 MIA @ IND L 42 17 7 15 46.7 2 6 33.3 1 2 50.0 1 2 3 1 0 0 2 1 8
+p278
+aVKeyon Dooling MIA 02/22/2005 MIA @ CHI L 12 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 2 1 0 2 1 5
+p279
+aVEddie Jones MIA 02/22/2005 MIA @ CHI L 43 15 5 11 45.5 2 5 40.0 3 3 100.0 1 8 9 5 1 1 2 3 -16
+p280
+aVUdonis Haslem MIA 02/22/2005 MIA @ CHI L 34 13 6 10 60.0 0 0 - 1 4 25.0 2 7 9 0 2 0 2 5 6
+p281
+aVShaquille O'Neal MIA 02/22/2005 MIA @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 0
+p282
+aVShandon Anderson MIA 02/22/2005 MIA @ CHI L 26 4 2 5 40.0 0 2 0.0 0 0 - 1 4 5 1 0 1 0 5 1
+p283
+aVWang Zhi-zhi MIA 02/22/2005 MIA @ CHI L 19 11 5 6 83.3 0 1 0.0 1 4 25.0 0 2 2 0 2 0 1 2 -3
+p284
+aVDwyane Wade MIA 02/22/2005 MIA @ CHI L 47 21 9 20 45.0 1 2 50.0 2 4 50.0 0 6 6 11 4 3 7 2 -5
+p285
+aVMalik Allen MIA 02/22/2005 MIA @ CHI L 20 6 1 6 16.7 0 0 - 4 4 100.0 3 3 6 1 0 1 0 2 -7
+p286
+aVDamon Jones MIA 02/22/2005 MIA @ CHI L 41 18 7 15 46.7 3 7 42.9 1 2 50.0 0 8 8 5 0 1 3 0 -9
+p287
+aVMichael Doleac MIA 02/22/2005 MIA @ CHI L 21 8 4 4 100.0 0 0 - 0 2 0.0 0 3 3 2 1 0 1 5 8
+p288
+aVKeyon Dooling MIA 02/16/2005 MIA vs. LAC W 17 11 4 7 57.1 0 2 0.0 3 3 100.0 0 0 0 1 0 0 1 1 5
+p289
+aVShaquille O'Neal MIA 02/16/2005 MIA vs. LAC W 32 14 5 8 62.5 0 0 - 4 9 44.4 2 6 8 5 1 2 1 2 14
+p290
+aVDamon Jones MIA 02/16/2005 MIA vs. LAC W 32 31 9 11 81.8 8 10 80.0 5 6 83.3 0 3 3 5 0 0 1 1 13
+p291
+aVRasual Butler MIA 02/16/2005 MIA vs. LAC W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p292
+aVEddie Jones MIA 02/16/2005 MIA vs. LAC W 19 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 1 4 0
+p293
+aVShandon Anderson MIA 02/16/2005 MIA vs. LAC W 32 11 3 6 50.0 0 0 - 5 6 83.3 2 5 7 0 0 3 1 3 18
+p294
+aVUdonis Haslem MIA 02/16/2005 MIA vs. LAC W 24 8 4 6 66.7 0 0 - 0 0 - 3 2 5 0 1 0 0 5 20
+p295
+aVMalik Allen MIA 02/16/2005 MIA vs. LAC W 11 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 1 0 1 1
+p296
+aVDwyane Wade MIA 02/16/2005 MIA vs. LAC W 42 28 10 17 58.8 0 0 - 8 9 88.9 0 3 3 12 1 4 3 3 20
+p297
+aVMichael Doleac MIA 02/16/2005 MIA vs. LAC W 24 4 2 7 28.6 0 0 - 0 0 - 1 3 4 2 1 1 0 3 7
+p298
+aVWang Zhi-zhi MIA 02/16/2005 MIA vs. LAC W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p299
+aVMichael Doleac MIA 02/13/2005 MIA vs. SAS W 16 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 0 0 1 2 0
+p300
+aVDamon Jones MIA 02/13/2005 MIA vs. SAS W 34 11 4 6 66.7 3 4 75.0 0 0 - 0 1 1 1 0 0 0 1 6
+p301
+aVDwyane Wade MIA 02/13/2005 MIA vs. SAS W 44 28 12 26 46.2 0 0 - 4 4 100.0 1 4 5 6 4 2 5 4 16
+p302
+aVShandon Anderson MIA 02/13/2005 MIA vs. SAS W 20 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 1 0 0 2 1 -2
+p303
+aVRasual Butler MIA 02/13/2005 MIA vs. SAS W 12 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 1 -4
+p304
+aVShaquille O'Neal MIA 02/13/2005 MIA vs. SAS W 36 27 8 12 66.7 0 0 - 11 19 57.9 2 5 7 3 0 2 3 2 8
+p305
+aVUdonis Haslem MIA 02/13/2005 MIA vs. SAS W 31 2 1 2 50.0 0 0 - 0 0 - 1 10 11 3 0 0 3 4 -3
+p306
+aVKeyon Dooling MIA 02/13/2005 MIA vs. SAS W 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p307
+aVEddie Jones MIA 02/13/2005 MIA vs. SAS W 33 12 4 10 40.0 1 3 33.3 3 3 100.0 0 6 6 0 2 1 1 4 1
+p308
+aVMalik Allen MIA 02/11/2005 MIA @ CHA W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p309
+aVDwyane Wade MIA 02/11/2005 MIA @ CHA W 41 11 5 15 33.3 0 0 - 1 3 33.3 1 8 9 7 1 1 7 0 4
+p310
+aVShandon Anderson MIA 02/11/2005 MIA @ CHA W 17 6 3 3 100.0 0 0 - 0 1 0.0 0 5 5 1 0 1 0 0 4
+p311
+aVKeyon Dooling MIA 02/11/2005 MIA @ CHA W 13 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 1 0 0 1 3 -5
+p312
+aVUdonis Haslem MIA 02/11/2005 MIA @ CHA W 35 4 2 6 33.3 0 0 - 0 0 - 4 9 13 1 0 0 1 4 6
+p313
+aVShaquille O'Neal MIA 02/11/2005 MIA @ CHA W 34 32 13 21 61.9 0 0 - 6 15 40.0 7 5 12 3 1 3 5 4 13
+p314
+aVEddie Jones MIA 02/11/2005 MIA @ CHA W 42 12 4 11 36.4 2 8 25.0 2 2 100.0 1 3 4 3 1 0 2 1 11
+p315
+aVDamon Jones MIA 02/11/2005 MIA @ CHA W 35 22 8 11 72.7 6 8 75.0 0 0 - 0 4 4 8 0 0 1 1 15
+p316
+aVRasual Butler MIA 02/11/2005 MIA @ CHA W 13 6 2 5 40.0 1 3 33.3 1 2 50.0 0 1 1 3 2 0 0 1 5
+p317
+aVWang Zhi-zhi MIA 02/11/2005 MIA @ CHA W 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -1
+p318
+aVShandon Anderson MIA 02/09/2005 MIA @ NYK W 15 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 3 0 0 0 7
+p319
+aVMichael Doleac MIA 02/09/2005 MIA @ NYK W 16 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 4 8
+p320
+aVKeyon Dooling MIA 02/09/2005 MIA @ NYK W 18 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 3 -7
+p321
+aVRasual Butler MIA 02/09/2005 MIA @ NYK W 6 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 4
+p322
+aVDwyane Wade MIA 02/09/2005 MIA @ NYK W 46 30 10 22 45.5 0 0 - 10 13 76.9 2 4 6 6 1 1 4 4 4
+p323
+aVUdonis Haslem MIA 02/09/2005 MIA @ NYK W 46 12 4 5 80.0 0 0 - 4 6 66.7 4 6 10 2 1 1 0 3 4
+p324
+aVShaquille O'Neal MIA 02/09/2005 MIA @ NYK W 42 16 5 16 31.3 0 0 - 6 8 75.0 5 8 13 3 1 3 2 2 -3
+p325
+aVEddie Jones MIA 02/09/2005 MIA @ NYK W 44 17 7 13 53.8 3 5 60.0 0 0 - 0 5 5 2 1 0 1 4 3
+p326
+aVDamon Jones MIA 02/09/2005 MIA @ NYK W 32 24 7 15 46.7 6 10 60.0 4 4 100.0 0 3 3 5 0 0 3 4 10
+p327
+aVRasual Butler MIA 02/07/2005 MIA vs. GSW W 11 6 2 3 66.7 1 1 100.0 1 1 100.0 0 2 2 0 0 1 0 1 -6
+p328
+aVDwyane Wade MIA 02/07/2005 MIA vs. GSW W 41 18 5 18 27.8 0 0 - 8 9 88.9 0 3 3 3 1 1 8 2 10
+p329
+aVEddie Jones MIA 02/07/2005 MIA vs. GSW W 40 22 9 12 75.0 1 3 33.3 3 5 60.0 0 5 5 2 0 0 2 1 16
+p330
+aVKeyon Dooling MIA 02/07/2005 MIA vs. GSW W 19 5 2 6 33.3 0 1 0.0 1 2 50.0 0 3 3 3 0 1 1 3 -10
+p331
+aVDamon Jones MIA 02/07/2005 MIA vs. GSW W 29 12 3 7 42.9 1 2 50.0 5 5 100.0 0 6 6 3 0 0 0 0 19
+p332
+aVShandon Anderson MIA 02/07/2005 MIA vs. GSW W 11 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -6
+p333
+aVMichael Doleac MIA 02/07/2005 MIA vs. GSW W 14 6 3 5 60.0 0 0 - 0 0 - 2 5 7 1 0 1 1 0 -11
+p334
+aVShaquille O'Neal MIA 02/07/2005 MIA vs. GSW W 37 27 13 22 59.1 0 0 - 1 7 14.3 3 11 14 6 0 2 3 3 19
+p335
+aVUdonis Haslem MIA 02/07/2005 MIA vs. GSW W 38 9 4 7 57.1 0 0 - 1 2 50.0 3 9 12 2 0 1 1 2 14
+p336
+aVShaquille O'Neal MIA 02/05/2005 MIA vs. CHI W 32 26 10 17 58.8 0 0 - 6 17 35.3 2 8 10 6 1 5 3 4 20
+p337
+aVRasual Butler MIA 02/05/2005 MIA vs. CHI W 22 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 1 0 3 5
+p338
+aVDorell Wright MIA 02/05/2005 MIA vs. CHI W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p339
+aVDamon Jones MIA 02/05/2005 MIA vs. CHI W 18 8 3 5 60.0 2 4 50.0 0 0 - 0 3 3 3 0 0 1 2 -9
+p340
+aVKeyon Dooling MIA 02/05/2005 MIA vs. CHI W 30 7 3 6 50.0 0 1 0.0 1 2 50.0 0 5 5 3 0 0 3 2 20
+p341
+aVUdonis Haslem MIA 02/05/2005 MIA vs. CHI W 31 4 1 5 20.0 0 0 - 2 2 100.0 1 5 6 2 1 1 1 5 -1
+p342
+aVDwyane Wade MIA 02/05/2005 MIA vs. CHI W 36 25 7 18 38.9 0 0 - 11 13 84.6 2 4 6 2 2 1 4 4 2
+p343
+aVWang Zhi-zhi MIA 02/05/2005 MIA vs. CHI W 7 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p344
+aVEddie Jones MIA 02/05/2005 MIA vs. CHI W 36 16 4 10 40.0 3 6 50.0 5 6 83.3 0 5 5 3 1 0 0 4 23
+p345
+aVMichael Doleac MIA 02/05/2005 MIA vs. CHI W 26 16 8 10 80.0 0 0 - 0 0 - 0 6 6 4 1 0 0 2 7
+p346
+aVShaquille O'Neal MIA 02/03/2005 MIA vs. CLE W 33 26 11 21 52.4 0 0 - 4 9 44.4 7 5 12 3 0 2 1 4 19
+p347
+aVMichael Doleac MIA 02/03/2005 MIA vs. CLE W 22 4 2 6 33.3 0 1 0.0 0 0 - 1 6 7 2 0 1 1 3 -3
+p348
+aVDwyane Wade MIA 02/03/2005 MIA vs. CLE W 36 20 6 11 54.5 0 0 - 8 10 80.0 0 5 5 3 1 1 4 1 1
+p349
+aVEddie Jones MIA 02/03/2005 MIA vs. CLE W 35 22 7 12 58.3 4 6 66.7 4 4 100.0 0 3 3 2 0 1 3 2 9
+p350
+aVRasual Butler MIA 02/03/2005 MIA vs. CLE W 16 6 2 6 33.3 1 2 50.0 1 1 100.0 0 1 1 0 0 1 0 0 4
+p351
+aVUdonis Haslem MIA 02/03/2005 MIA vs. CLE W 41 9 3 6 50.0 0 0 - 3 4 75.0 4 7 11 3 1 0 5 3 8
+p352
+aVKeyon Dooling MIA 02/03/2005 MIA vs. CLE W 19 13 6 8 75.0 1 2 50.0 0 1 0.0 0 3 3 1 0 1 1 1 9
+p353
+aVDamon Jones MIA 02/03/2005 MIA vs. CLE W 29 0 0 0 - 0 0 - 0 0 - 0 3 3 3 0 0 2 2 3
+p354
+aVShandon Anderson MIA 02/03/2005 MIA vs. CLE W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 10
+p355
+aVUdonis Haslem MIA 02/01/2005 MIA @ DAL L 39 14 6 10 60.0 0 0 - 2 2 100.0 3 6 9 0 0 0 1 3 11
+p356
+aVDamon Jones MIA 02/01/2005 MIA @ DAL L 31 4 1 7 14.3 1 7 14.3 1 1 100.0 0 2 2 7 1 0 0 0 -16
+p357
+aVRasual Butler MIA 02/01/2005 MIA @ DAL L 28 20 8 14 57.1 4 9 44.4 0 0 - 0 2 2 1 0 0 0 2 1
+p358
+aVShandon Anderson MIA 02/01/2005 MIA @ DAL L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -16
+p359
+aVShaquille O'Neal MIA 02/01/2005 MIA @ DAL L 38 25 11 18 61.1 0 0 - 3 5 60.0 3 10 13 5 0 3 3 3 -5
+p360
+aVMichael Doleac MIA 02/01/2005 MIA @ DAL L 10 0 0 3 0.0 0 0 - 0 0 - 0 4 4 0 0 1 0 1 0
+p361
+aVEddie Jones MIA 02/01/2005 MIA @ DAL L 28 9 3 7 42.9 3 5 60.0 0 0 - 0 3 3 2 1 1 0 6 1
+p362
+aVDwyane Wade MIA 02/01/2005 MIA @ DAL L 40 29 12 24 50.0 0 1 0.0 5 6 83.3 1 5 6 8 0 3 5 2 -17
+p363
+aVKeyon Dooling MIA 02/01/2005 MIA @ DAL L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 4 1 0 0 1 16
+p364
+aVKeyon Dooling MIA 01/30/2005 MIA vs. HOU W 14 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p365
+aVDwyane Wade MIA 01/30/2005 MIA vs. HOU W 39 30 8 18 44.4 0 1 0.0 14 16 87.5 1 7 8 6 0 1 2 2 7
+p366
+aVMichael Doleac MIA 01/30/2005 MIA vs. HOU W 21 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 0 5 1
+p367
+aVShaquille O'Neal MIA 01/30/2005 MIA vs. HOU W 27 15 6 11 54.5 0 0 - 3 5 60.0 1 4 5 2 0 1 3 5 8
+p368
+aVDamon Jones MIA 01/30/2005 MIA vs. HOU W 34 16 7 14 50.0 2 6 33.3 0 0 - 0 3 3 4 0 0 0 1 8
+p369
+aVEddie Jones MIA 01/30/2005 MIA vs. HOU W 39 11 3 10 30.0 2 5 40.0 3 4 75.0 1 4 5 4 1 0 1 1 11
+p370
+aVRasual Butler MIA 01/30/2005 MIA vs. HOU W 9 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 0 0 0 0 1 1
+p371
+aVShandon Anderson MIA 01/30/2005 MIA vs. HOU W 19 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 4 4
+p372
+aVUdonis Haslem MIA 01/30/2005 MIA vs. HOU W 38 16 7 9 77.8 0 0 - 2 2 100.0 3 5 8 1 1 1 3 0 4
+p373
+aVRasual Butler MIA 01/28/2005 MIA @ ATL W 21 3 1 5 20.0 1 2 50.0 0 0 - 0 3 3 0 0 0 2 5 6
+p374
+aVShaquille O'Neal MIA 01/28/2005 MIA @ ATL W 36 26 10 19 52.6 0 0 - 6 11 54.5 4 4 8 7 0 1 2 4 17
+p375
+aVKeyon Dooling MIA 01/28/2005 MIA @ ATL W 13 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 2 1 1 1 1 7
+p376
+aVChristian Laettner MIA 01/28/2005 MIA @ ATL W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -14
+p377
+aVDwyane Wade MIA 01/28/2005 MIA @ ATL W 33 19 5 13 38.5 0 0 - 9 13 69.2 2 3 5 5 1 2 5 2 6
+p378
+aVUdonis Haslem MIA 01/28/2005 MIA @ ATL W 38 17 7 9 77.8 0 0 - 3 3 100.0 5 7 12 2 3 1 1 4 24
+p379
+aVMichael Doleac MIA 01/28/2005 MIA @ ATL W 12 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -7
+p380
+aVShandon Anderson MIA 01/28/2005 MIA @ ATL W 42 21 7 11 63.6 0 2 0.0 7 8 87.5 1 7 8 2 1 0 0 1 8
+p381
+aVDamon Jones MIA 01/28/2005 MIA @ ATL W 35 18 7 14 50.0 4 9 44.4 0 0 - 0 5 5 8 2 0 4 2 3
+p382
+aVEddie Jones MIA 01/26/2005 MIA @ TOR W 39 23 8 11 72.7 1 2 50.0 6 7 85.7 0 4 4 1 1 0 0 1 13
+p383
+aVDamon Jones MIA 01/26/2005 MIA @ TOR W 28 8 3 7 42.9 2 4 50.0 0 0 - 1 1 2 5 2 0 1 3 10
+p384
+aVRasual Butler MIA 01/26/2005 MIA @ TOR W 27 14 5 11 45.5 1 3 33.3 3 4 75.0 0 7 7 1 0 1 1 3 12
+p385
+aVUdonis Haslem MIA 01/26/2005 MIA @ TOR W 32 11 4 7 57.1 0 0 - 3 4 75.0 5 4 9 0 0 1 1 6 4
+p386
+aVDwyane Wade MIA 01/26/2005 MIA @ TOR W 30 16 3 7 42.9 0 0 - 10 14 71.4 1 1 2 10 2 0 5 6 5
+p387
+aVKeyon Dooling MIA 01/26/2005 MIA @ TOR W 20 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 3 0 1 1 3 5
+p388
+aVShaquille O'Neal MIA 01/26/2005 MIA @ TOR W 39 33 13 19 68.4 0 0 - 7 20 35.0 3 15 18 3 0 1 5 4 13
+p389
+aVShandon Anderson MIA 01/26/2005 MIA @ TOR W 14 2 1 3 33.3 0 1 0.0 0 0 - 3 2 5 1 1 0 0 2 7
+p390
+aVMichael Doleac MIA 01/26/2005 MIA @ TOR W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 6
+p391
+aVShandon Anderson MIA 01/24/2005 MIA @ PHI L 14 8 4 4 100.0 0 0 - 0 0 - 1 3 4 0 3 0 1 3 4
+p392
+aVShaquille O'Neal MIA 01/24/2005 MIA @ PHI L 35 24 9 12 75.0 0 0 - 6 17 35.3 3 2 5 0 0 2 2 3 -11
+p393
+aVDwyane Wade MIA 01/24/2005 MIA @ PHI L 43 17 3 13 23.1 0 1 0.0 11 11 100.0 1 5 6 11 1 1 6 4 -8
+p394
+aVEddie Jones MIA 01/24/2005 MIA @ PHI L 37 14 3 12 25.0 3 7 42.9 5 5 100.0 0 6 6 2 0 2 2 4 -9
+p395
+aVKeyon Dooling MIA 01/24/2005 MIA @ PHI L 21 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 4 -4
+p396
+aVMichael Doleac MIA 01/24/2005 MIA @ PHI L 19 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 -1
+p397
+aVRasual Butler MIA 01/24/2005 MIA @ PHI L 17 9 3 7 42.9 3 6 50.0 0 0 - 0 0 0 2 2 0 1 1 2
+p398
+aVDamon Jones MIA 01/24/2005 MIA @ PHI L 27 5 2 6 33.3 1 5 20.0 0 0 - 0 5 5 4 0 1 1 1 -4
+p399
+aVUdonis Haslem MIA 01/24/2005 MIA @ PHI L 27 13 5 14 35.7 0 0 - 3 4 75.0 3 7 10 4 1 1 1 6 -9
+p400
+aVUdonis Haslem MIA 01/23/2005 MIA vs. NOH W 28 8 4 6 66.7 0 0 - 0 0 - 4 3 7 2 1 0 0 1 28
+p401
+aVShandon Anderson MIA 01/23/2005 MIA vs. NOH W 14 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -8
+p402
+aVRasual Butler MIA 01/23/2005 MIA vs. NOH W 23 3 1 9 11.1 1 4 25.0 0 0 - 1 5 6 1 2 0 2 0 -1
+p403
+aVMichael Doleac MIA 01/23/2005 MIA vs. NOH W 25 13 6 11 54.5 0 0 - 1 1 100.0 2 3 5 0 0 1 0 4 0
+p404
+aVEddie Jones MIA 01/23/2005 MIA vs. NOH W 24 6 3 7 42.9 0 2 0.0 0 0 - 0 6 6 1 0 1 1 1 30
+p405
+aVShaquille O'Neal MIA 01/23/2005 MIA vs. NOH W 23 12 5 8 62.5 0 0 - 2 2 100.0 1 7 8 1 2 2 2 1 29
+p406
+aVWesley Person MIA 01/23/2005 MIA vs. NOH W 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p407
+aVWang Zhi-zhi MIA 01/23/2005 MIA vs. NOH W 7 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 1 0 1 0 1 1
+p408
+aVDamon Jones MIA 01/23/2005 MIA vs. NOH W 25 13 5 8 62.5 3 6 50.0 0 0 - 0 2 2 5 0 0 0 1 28
+p409
+aVKeyon Dooling MIA 01/23/2005 MIA vs. NOH W 23 13 4 7 57.1 1 2 50.0 4 4 100.0 1 3 4 3 0 0 2 3 1
+p410
+aVChristian Laettner MIA 01/23/2005 MIA vs. NOH W 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 0 2 0 0
+p411
+aVDwyane Wade MIA 01/23/2005 MIA vs. NOH W 28 18 7 11 63.6 0 0 - 4 5 80.0 0 2 2 7 1 0 1 2 36
+p412
+aVEddie Jones MIA 01/21/2005 MIA vs. IND L 43 11 5 11 45.5 1 5 20.0 0 1 0.0 0 6 6 3 0 0 1 2 -10
+p413
+aVDamon Jones MIA 01/21/2005 MIA vs. IND L 36 7 2 7 28.6 2 7 28.6 1 3 33.3 0 3 3 5 0 0 3 2 -11
+p414
+aVDwyane Wade MIA 01/21/2005 MIA vs. IND L 43 30 11 27 40.7 0 0 - 8 12 66.7 3 6 9 3 2 2 5 3 -16
+p415
+aVChristian Laettner MIA 01/21/2005 MIA vs. IND L 11 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 3 9
+p416
+aVUdonis Haslem MIA 01/21/2005 MIA vs. IND L 42 16 6 10 60.0 0 0 - 4 7 57.1 6 5 11 2 3 1 2 3 -15
+p417
+aVMichael Doleac MIA 01/21/2005 MIA vs. IND L 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 0 3
+p418
+aVShaquille O'Neal MIA 01/21/2005 MIA vs. IND L 43 24 10 16 62.5 0 0 - 4 13 30.8 3 7 10 2 0 3 4 5 -9
+p419
+aVRasual Butler MIA 01/21/2005 MIA vs. IND L 20 6 2 5 40.0 2 5 40.0 0 0 - 0 3 3 0 0 0 0 1 14
+p420
+aVKeyon Dooling MIA 01/21/2005 MIA vs. IND L 17 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 5
+p421
+aVKeyon Dooling MIA 01/19/2005 MIA vs. ATL W 26 12 2 7 28.6 0 1 0.0 8 10 80.0 0 1 1 1 2 1 3 2 15
+p422
+aVEddie Jones MIA 01/19/2005 MIA vs. ATL W 37 16 4 10 40.0 3 8 37.5 5 6 83.3 1 7 8 1 0 1 1 3 19
+p423
+aVDamon Jones MIA 01/19/2005 MIA vs. ATL W 22 4 1 6 16.7 1 6 16.7 1 2 50.0 0 2 2 6 0 0 3 1 4
+p424
+aVShaquille O'Neal MIA 01/19/2005 MIA vs. ATL W 30 25 11 20 55.0 0 0 - 3 9 33.3 4 8 12 2 0 2 3 4 2
+p425
+aVRasual Butler MIA 01/19/2005 MIA vs. ATL W 24 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 3 0 1 1 2 9
+p426
+aVChristian Laettner MIA 01/19/2005 MIA vs. ATL W 18 5 2 2 100.0 0 0 - 1 2 50.0 2 3 5 2 2 1 0 1 15
+p427
+aVDwyane Wade MIA 01/19/2005 MIA vs. ATL W 35 25 10 17 58.8 0 0 - 5 8 62.5 1 1 2 7 0 1 3 3 10
+p428
+aVMichael Doleac MIA 01/19/2005 MIA vs. ATL W 14 8 4 4 100.0 0 0 - 0 0 - 1 2 3 0 0 2 0 2 13
+p429
+aVUdonis Haslem MIA 01/19/2005 MIA vs. ATL W 34 8 3 5 60.0 0 0 - 2 2 100.0 4 6 10 1 0 0 0 5 8
+p430
+aVKeyon Dooling MIA 01/14/2005 MIA @ LAC L 11 4 1 2 50.0 0 0 - 2 4 50.0 0 1 1 2 0 0 0 2 -11
+p431
+aVShandon Anderson MIA 01/14/2005 MIA @ LAC L 23 4 2 7 28.6 0 0 - 0 0 - 2 0 2 1 1 0 1 4 -8
+p432
+aVDamon Jones MIA 01/14/2005 MIA @ LAC L 46 9 4 14 28.6 1 11 9.1 0 0 - 0 4 4 7 0 0 2 0 9
+p433
+aVEddie Jones MIA 01/14/2005 MIA @ LAC L 50 18 5 12 41.7 4 6 66.7 4 5 80.0 1 10 11 6 2 0 1 5 3
+p434
+aVChristian Laettner MIA 01/14/2005 MIA @ LAC L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 2 0 0 2 -6
+p435
+aVUdonis Haslem MIA 01/14/2005 MIA @ LAC L 48 16 4 11 36.4 0 0 - 8 8 100.0 2 8 10 0 0 0 1 3 4
+p436
+aVWesley Person MIA 01/14/2005 MIA @ LAC L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p437
+aVMichael Doleac MIA 01/14/2005 MIA @ LAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -14
+p438
+aVShaquille O'Neal MIA 01/14/2005 MIA @ LAC L 51 39 12 25 48.0 0 0 - 15 28 53.6 5 5 10 5 0 0 4 4 12
+p439
+aVRasual Butler MIA 01/14/2005 MIA @ LAC L 39 18 7 14 50.0 4 4 100.0 0 0 - 2 3 5 2 0 0 0 3 6
+p440
+aVEddie Jones MIA 01/12/2005 MIA @ GSW W 40 13 5 11 45.5 1 3 33.3 2 2 100.0 0 2 2 8 0 1 2 2 7
+p441
+aVRasual Butler MIA 01/12/2005 MIA @ GSW W 11 3 1 4 25.0 0 2 0.0 1 2 50.0 0 2 2 0 0 1 1 0 -8
+p442
+aVUdonis Haslem MIA 01/12/2005 MIA @ GSW W 37 22 11 16 68.8 0 0 - 0 0 - 2 8 10 1 1 0 2 5 12
+p443
+aVChristian Laettner MIA 01/12/2005 MIA @ GSW W 11 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 -5
+p444
+aVDamon Jones MIA 01/12/2005 MIA @ GSW W 31 9 3 4 75.0 1 2 50.0 2 3 66.7 0 4 4 10 0 0 2 2 19
+p445
+aVMichael Doleac MIA 01/12/2005 MIA @ GSW W 12 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 3 -6
+p446
+aVShandon Anderson MIA 01/12/2005 MIA @ GSW W 33 8 3 5 60.0 0 0 - 2 2 100.0 0 7 7 3 2 1 1 4 15
+p447
+aVKeyon Dooling MIA 01/12/2005 MIA @ GSW W 17 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 5 0 1 1 2 -12
+p448
+aVShaquille O'Neal MIA 01/12/2005 MIA @ GSW W 36 26 9 15 60.0 0 0 - 8 20 40.0 3 9 12 2 0 2 5 3 13
+p449
+aVWesley Person MIA 01/12/2005 MIA @ GSW W 12 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 0
+p450
+aVUdonis Haslem MIA 01/11/2005 MIA @ PHX L 31 16 6 10 60.0 0 0 - 4 4 100.0 1 5 6 2 1 1 4 3 -14
+p451
+aVShaquille O'Neal MIA 01/11/2005 MIA @ PHX L 37 34 16 20 80.0 0 0 - 2 6 33.3 6 5 11 2 1 2 2 4 -9
+p452
+aVMichael Doleac MIA 01/11/2005 MIA @ PHX L 9 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p453
+aVDamon Jones MIA 01/11/2005 MIA @ PHX L 29 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 3 0 0 1 2 -7
+p454
+aVRasual Butler MIA 01/11/2005 MIA @ PHX L 19 11 4 5 80.0 3 4 75.0 0 0 - 0 6 6 1 0 2 1 0 7
+p455
+aVDwyane Wade MIA 01/11/2005 MIA @ PHX L 38 23 9 19 47.4 0 0 - 5 8 62.5 1 4 5 8 0 1 8 4 -20
+p456
+aVChristian Laettner MIA 01/11/2005 MIA @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p457
+aVEddie Jones MIA 01/11/2005 MIA @ PHX L 36 11 4 13 30.8 2 6 33.3 1 1 100.0 0 4 4 3 2 0 2 4 -18
+p458
+aVShandon Anderson MIA 01/11/2005 MIA @ PHX L 17 4 2 4 50.0 0 1 0.0 0 1 0.0 0 3 3 3 0 0 0 0 3
+p459
+aVKeyon Dooling MIA 01/11/2005 MIA @ PHX L 17 2 1 5 20.0 0 0 - 0 0 - 0 0 0 4 0 0 0 2 -6
+p460
+aVWesley Person MIA 01/11/2005 MIA @ PHX L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p461
+aVEddie Jones MIA 01/09/2005 MIA @ SEA L 43 19 7 11 63.6 3 5 60.0 2 3 66.7 0 7 7 2 1 0 1 6 -6
+p462
+aVDwyane Wade MIA 01/09/2005 MIA @ SEA L 42 16 7 19 36.8 0 0 - 2 3 66.7 0 2 2 6 4 1 4 5 -5
+p463
+aVRasual Butler MIA 01/09/2005 MIA @ SEA L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p464
+aVUdonis Haslem MIA 01/09/2005 MIA @ SEA L 37 6 2 6 33.3 0 0 - 2 2 100.0 7 5 12 1 1 0 1 3 -6
+p465
+aVShandon Anderson MIA 01/09/2005 MIA @ SEA L 11 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 3 -7
+p466
+aVChristian Laettner MIA 01/09/2005 MIA @ SEA L 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p467
+aVDamon Jones MIA 01/09/2005 MIA @ SEA L 38 12 4 12 33.3 2 10 20.0 2 2 100.0 0 0 0 7 0 0 2 1 -1
+p468
+aVKeyon Dooling MIA 01/09/2005 MIA @ SEA L 10 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 -9
+p469
+aVShaquille O'Neal MIA 01/09/2005 MIA @ SEA L 38 28 11 18 61.1 0 0 - 6 13 46.2 6 5 11 3 1 5 3 4 -1
+p470
+aVMichael Doleac MIA 01/09/2005 MIA @ SEA L 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -9
+p471
+aVMichael Doleac MIA 01/07/2005 MIA @ POR W 14 4 2 6 33.3 0 0 - 0 0 - 1 3 4 1 0 1 0 1 3
+p472
+aVEddie Jones MIA 01/07/2005 MIA @ POR W 44 16 6 12 50.0 4 8 50.0 0 0 - 0 8 8 4 2 0 3 3 12
+p473
+aVDwyane Wade MIA 01/07/2005 MIA @ POR W 42 25 8 15 53.3 0 0 - 9 10 90.0 1 3 4 12 0 1 4 4 13
+p474
+aVDamon Jones MIA 01/07/2005 MIA @ POR W 36 10 3 7 42.9 3 7 42.9 1 1 100.0 0 1 1 8 0 0 3 0 15
+p475
+aVUdonis Haslem MIA 01/07/2005 MIA @ POR W 34 16 7 12 58.3 0 0 - 2 2 100.0 3 5 8 1 0 0 0 5 24
+p476
+aVChristian Laettner MIA 01/07/2005 MIA @ POR W 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -13
+p477
+aVKeyon Dooling MIA 01/07/2005 MIA @ POR W 19 2 1 6 16.7 0 0 - 0 0 - 2 1 3 1 1 0 1 2 0
+p478
+aVRasual Butler MIA 01/07/2005 MIA @ POR W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p479
+aVShaquille O'Neal MIA 01/07/2005 MIA @ POR W 34 28 11 15 73.3 0 0 - 6 8 75.0 3 7 10 1 0 3 4 4 8
+p480
+aVUdonis Haslem MIA 01/05/2005 MIA vs. NYK W 31 10 5 7 71.4 0 0 - 0 0 - 3 4 7 2 0 1 0 3 8
+p481
+aVDwyane Wade MIA 01/05/2005 MIA vs. NYK W 41 21 8 19 42.1 0 0 - 5 8 62.5 4 2 6 9 2 0 6 3 5
+p482
+aVChristian Laettner MIA 01/05/2005 MIA vs. NYK W 17 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 1 0 1 0 0 0
+p483
+aVDamon Jones MIA 01/05/2005 MIA vs. NYK W 37 9 3 10 30.0 2 9 22.2 1 1 100.0 0 3 3 6 1 0 1 2 4
+p484
+aVShaquille O'Neal MIA 01/05/2005 MIA vs. NYK W 35 33 14 21 66.7 0 0 - 5 9 55.6 5 13 18 2 1 3 3 1 14
+p485
+aVKeyon Dooling MIA 01/05/2005 MIA vs. NYK W 11 4 2 8 25.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 4
+p486
+aVEddie Jones MIA 01/05/2005 MIA vs. NYK W 33 9 4 8 50.0 0 2 0.0 1 1 100.0 0 2 2 2 1 0 0 2 7
+p487
+aVMichael Doleac MIA 01/05/2005 MIA vs. NYK W 13 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -6
+p488
+aVShandon Anderson MIA 01/05/2005 MIA vs. NYK W 22 12 4 8 50.0 0 1 0.0 4 4 100.0 1 0 1 2 4 0 1 4 4
+p489
+aVKeyon Dooling MIA 01/03/2005 MIA vs. SEA L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -2
+p490
+aVEddie Jones MIA 01/03/2005 MIA vs. SEA L 40 14 5 11 45.5 1 3 33.3 3 6 50.0 1 3 4 0 2 0 0 4 5
+p491
+aVShaquille O'Neal MIA 01/03/2005 MIA vs. SEA L 39 25 8 13 61.5 0 0 - 9 15 60.0 5 9 14 4 2 7 3 5 -3
+p492
+aVDamon Jones MIA 01/03/2005 MIA vs. SEA L 36 9 3 9 33.3 3 8 37.5 0 0 - 0 1 1 3 0 0 1 4 0
+p493
+aVRasual Butler MIA 01/03/2005 MIA vs. SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p494
+aVChristian Laettner MIA 01/03/2005 MIA vs. SEA L 14 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 4 -8
+p495
+aVShandon Anderson MIA 01/03/2005 MIA vs. SEA L 13 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 2 -3
+p496
+aVDwyane Wade MIA 01/03/2005 MIA vs. SEA L 41 28 9 22 40.9 0 1 0.0 10 11 90.9 1 1 2 4 1 0 4 4 -6
+p497
+aVMichael Doleac MIA 01/03/2005 MIA vs. SEA L 10 8 4 5 80.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p498
+aVUdonis Haslem MIA 01/03/2005 MIA vs. SEA L 34 6 2 3 66.7 0 0 - 2 3 66.7 1 8 9 1 0 0 0 1 6
+p499
+aVDamon Jones MIA 01/01/2005 MIA vs. CHA W 31 12 4 8 50.0 4 8 50.0 0 0 - 0 1 1 5 1 1 0 1 25
+p500
+aVChristian Laettner MIA 01/01/2005 MIA vs. CHA W 23 10 4 4 100.0 0 0 - 2 2 100.0 2 2 4 3 0 0 2 1 16
+p501
+aVShaquille O'Neal MIA 01/01/2005 MIA vs. CHA W 23 16 7 13 53.8 0 0 - 2 5 40.0 0 3 3 0 1 1 3 5 6
+p502
+aVWang Zhi-zhi MIA 01/01/2005 MIA vs. CHA W 5 7 2 4 50.0 1 1 100.0 2 2 100.0 0 2 2 0 1 0 0 0 5
+p503
+aVShandon Anderson MIA 01/01/2005 MIA vs. CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p504
+aVDwyane Wade MIA 01/01/2005 MIA vs. CHA W 39 26 11 16 68.8 0 0 - 4 10 40.0 0 3 3 9 1 1 3 2 22
+p505
+aVUdonis Haslem MIA 01/01/2005 MIA vs. CHA W 32 11 5 7 71.4 0 0 - 1 3 33.3 1 8 9 1 1 0 0 4 9
+p506
+aVMichael Doleac MIA 01/01/2005 MIA vs. CHA W 13 4 1 1 100.0 0 0 - 2 4 50.0 0 5 5 0 0 0 0 4 10
+p507
+aVKeyon Dooling MIA 01/01/2005 MIA vs. CHA W 17 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 3 0 0 1 1 -2
+p508
+aVEddie Jones MIA 01/01/2005 MIA vs. CHA W 41 13 5 14 35.7 3 6 50.0 0 0 - 3 3 6 2 2 2 2 1 19
+p509
+aVRasual Butler MIA 01/01/2005 MIA vs. CHA W 14 10 4 5 80.0 1 1 100.0 1 2 50.0 0 3 3 0 0 0 0 1 1
+p510
+aVUdonis Haslem MIA 12/30/2004 MIA @ DET W 26 16 7 10 70.0 0 0 - 2 2 100.0 4 3 7 2 1 0 0 2 -3
+p511
+aVDwyane Wade MIA 12/30/2004 MIA @ DET W 42 31 12 18 66.7 0 0 - 7 10 70.0 3 7 10 10 1 1 4 4 18
+p512
+aVChristian Laettner MIA 12/30/2004 MIA @ DET W 22 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 14
+p513
+aVDamon Jones MIA 12/30/2004 MIA @ DET W 34 4 1 7 14.3 0 6 0.0 2 2 100.0 0 1 1 5 1 0 0 3 17
+p514
+aVEddie Jones MIA 12/30/2004 MIA @ DET W 41 11 4 10 40.0 1 4 25.0 2 5 40.0 0 9 9 3 3 0 3 2 10
+p515
+aVShaquille O'Neal MIA 12/30/2004 MIA @ DET W 36 21 9 21 42.9 0 0 - 3 4 75.0 2 5 7 0 1 1 0 3 12
+p516
+aVRasual Butler MIA 12/30/2004 MIA @ DET W 14 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 1 -6
+p517
+aVKeyon Dooling MIA 12/30/2004 MIA @ DET W 14 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 1 2 2 -6
+p518
+aVMichael Doleac MIA 12/30/2004 MIA @ DET W 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 2 0 0 0 -1
+p519
+aVDamon Jones MIA 12/27/2004 MIA vs. ATL W 32 10 3 9 33.3 2 8 25.0 2 2 100.0 0 2 2 7 1 0 0 1 18
+p520
+aVEddie Jones MIA 12/27/2004 MIA vs. ATL W 30 10 1 9 11.1 1 5 20.0 7 7 100.0 2 3 5 5 0 1 0 5 6
+p521
+aVShaquille O'Neal MIA 12/27/2004 MIA vs. ATL W 32 31 10 14 71.4 0 0 - 11 14 78.6 1 6 7 2 0 0 2 4 3
+p522
+aVDwyane Wade MIA 12/27/2004 MIA vs. ATL W 41 27 10 19 52.6 0 0 - 7 10 70.0 3 0 3 9 2 1 5 3 16
+p523
+aVMichael Doleac MIA 12/27/2004 MIA vs. ATL W 15 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 11
+p524
+aVKeyon Dooling MIA 12/27/2004 MIA vs. ATL W 17 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 3 -4
+p525
+aVChristian Laettner MIA 12/27/2004 MIA vs. ATL W 16 11 4 4 100.0 0 0 - 3 3 100.0 1 3 4 0 0 0 0 1 6
+p526
+aVUdonis Haslem MIA 12/27/2004 MIA vs. ATL W 32 8 4 9 44.4 0 0 - 0 0 - 2 8 10 0 1 1 3 2 8
+p527
+aVRasual Butler MIA 12/27/2004 MIA vs. ATL W 25 9 3 6 50.0 1 2 50.0 2 2 100.0 1 2 3 1 0 0 0 1 6
+p528
+aVMichael Doleac MIA 12/25/2004 MIA @ LAL W 6 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p529
+aVShaquille O'Neal MIA 12/25/2004 MIA @ LAL W 39 24 11 19 57.9 0 0 - 2 7 28.6 4 7 11 3 0 3 1 6 -3
+p530
+aVDamon Jones MIA 12/25/2004 MIA @ LAL W 43 11 4 7 57.1 3 6 50.0 0 0 - 0 5 5 4 1 0 0 0 5
+p531
+aVUdonis Haslem MIA 12/25/2004 MIA @ LAL W 36 11 5 9 55.6 0 0 - 1 2 50.0 3 8 11 1 1 1 1 3 0
+p532
+aVEddie Jones MIA 12/25/2004 MIA @ LAL W 49 18 6 14 42.9 4 5 80.0 2 2 100.0 0 7 7 0 2 0 0 5 0
+p533
+aVKeyon Dooling MIA 12/25/2004 MIA @ LAL W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -3
+p534
+aVShandon Anderson MIA 12/25/2004 MIA @ LAL W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 2
+p535
+aVChristian Laettner MIA 12/25/2004 MIA @ LAL W 25 7 2 4 50.0 0 0 - 3 4 75.0 1 3 4 1 2 0 0 1 7
+p536
+aVRasual Butler MIA 12/25/2004 MIA @ LAL W 5 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p537
+aVDwyane Wade MIA 12/25/2004 MIA @ LAL W 46 29 10 26 38.5 0 0 - 9 10 90.0 0 3 3 10 2 1 4 1 4
+p538
+aVShandon Anderson MIA 12/23/2004 MIA @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p539
+aVKeyon Dooling MIA 12/23/2004 MIA @ SAC W 13 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 1 0 0 3 -1
+p540
+aVRasual Butler MIA 12/23/2004 MIA @ SAC W 6 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -6
+p541
+aVUdonis Haslem MIA 12/23/2004 MIA @ SAC W 30 9 2 7 28.6 0 0 - 5 6 83.3 6 6 12 1 0 0 1 3 -8
+p542
+aVDamon Jones MIA 12/23/2004 MIA @ SAC W 36 18 6 11 54.5 4 8 50.0 2 2 100.0 0 4 4 4 1 0 1 3 3
+p543
+aVDwyane Wade MIA 12/23/2004 MIA @ SAC W 44 22 10 21 47.6 0 1 0.0 2 4 50.0 1 7 8 10 1 0 5 3 5
+p544
+aVMichael Doleac MIA 12/23/2004 MIA @ SAC W 7 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -7
+p545
+aVShaquille O'Neal MIA 12/23/2004 MIA @ SAC W 40 25 11 19 57.9 0 0 - 3 13 23.1 5 5 10 2 0 2 1 4 10
+p546
+aVEddie Jones MIA 12/23/2004 MIA @ SAC W 43 21 7 13 53.8 3 7 42.9 4 5 80.0 1 2 3 5 1 1 2 4 9
+p547
+aVChristian Laettner MIA 12/23/2004 MIA @ SAC W 19 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 3 0 1 0 2 9
+p548
+aVRasual Butler MIA 12/21/2004 MIA vs. BOS W 14 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p549
+aVUdonis Haslem MIA 12/21/2004 MIA vs. BOS W 41 18 7 16 43.8 0 0 - 4 4 100.0 8 9 17 1 1 0 1 2 4
+p550
+aVChristian Laettner MIA 12/21/2004 MIA vs. BOS W 15 8 4 6 66.7 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 3
+p551
+aVKeyon Dooling MIA 12/21/2004 MIA vs. BOS W 17 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 4 1 5
+p552
+aVDwyane Wade MIA 12/21/2004 MIA vs. BOS W 41 33 11 20 55.0 0 0 - 11 13 84.6 2 2 4 11 4 2 7 2 7
+p553
+aVEddie Jones MIA 12/21/2004 MIA vs. BOS W 38 17 6 9 66.7 2 3 66.7 3 3 100.0 0 3 3 2 1 1 0 4 2
+p554
+aVShandon Anderson MIA 12/21/2004 MIA vs. BOS W 13 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 1 8
+p555
+aVMichael Doleac MIA 12/21/2004 MIA vs. BOS W 28 8 4 8 50.0 0 0 - 0 0 - 0 5 5 1 1 0 1 2 10
+p556
+aVDamon Jones MIA 12/21/2004 MIA vs. BOS W 33 12 4 7 57.1 4 7 57.1 0 0 - 0 1 1 4 0 0 2 1 1
+p557
+aVUdonis Haslem MIA 12/19/2004 MIA vs. ORL W 28 10 4 7 57.1 0 1 0.0 2 2 100.0 3 6 9 0 0 0 0 2 -2
+p558
+aVShaquille O'Neal MIA 12/19/2004 MIA vs. ORL W 40 27 12 18 66.7 0 0 - 3 5 60.0 1 5 6 5 1 1 3 3 15
+p559
+aVMichael Doleac MIA 12/19/2004 MIA vs. ORL W 8 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -2
+p560
+aVDwyane Wade MIA 12/19/2004 MIA vs. ORL W 40 22 6 20 30.0 0 1 0.0 10 11 90.9 2 3 5 4 2 0 2 5 8
+p561
+aVDamon Jones MIA 12/19/2004 MIA vs. ORL W 25 9 3 7 42.9 3 6 50.0 0 0 - 0 1 1 3 0 0 0 2 -6
+p562
+aVRasual Butler MIA 12/19/2004 MIA vs. ORL W 16 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -5
+p563
+aVEddie Jones MIA 12/19/2004 MIA vs. ORL W 39 25 8 10 80.0 4 5 80.0 5 5 100.0 0 3 3 3 1 0 2 2 15
+p564
+aVKeyon Dooling MIA 12/19/2004 MIA vs. ORL W 23 10 4 8 50.0 1 3 33.3 1 2 50.0 0 0 0 6 0 0 1 3 15
+p565
+aVChristian Laettner MIA 12/19/2004 MIA vs. ORL W 21 10 4 7 57.1 0 0 - 2 2 100.0 0 6 6 1 1 0 0 2 7
+p566
+aVRasual Butler MIA 12/17/2004 MIA vs. DEN W 19 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 4
+p567
+aVDamon Jones MIA 12/17/2004 MIA vs. DEN W 37 12 3 13 23.1 2 11 18.2 4 6 66.7 0 3 3 8 1 0 2 2 5
+p568
+aVUdonis Haslem MIA 12/17/2004 MIA vs. DEN W 24 8 4 7 57.1 0 0 - 0 0 - 2 4 6 2 0 0 1 4 19
+p569
+aVKeyon Dooling MIA 12/17/2004 MIA vs. DEN W 11 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 1 0 1 1 0 2
+p570
+aVMichael Doleac MIA 12/17/2004 MIA vs. DEN W 9 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 7
+p571
+aVChristian Laettner MIA 12/17/2004 MIA vs. DEN W 22 14 6 8 75.0 0 0 - 2 2 100.0 2 2 4 2 2 0 3 4 -12
+p572
+aVEddie Jones MIA 12/17/2004 MIA vs. DEN W 40 16 7 13 53.8 1 3 33.3 1 1 100.0 0 7 7 2 3 2 0 2 12
+p573
+aVShaquille O'Neal MIA 12/17/2004 MIA vs. DEN W 41 20 9 14 64.3 0 0 - 2 9 22.2 5 6 11 7 1 3 3 2 0
+p574
+aVDwyane Wade MIA 12/17/2004 MIA vs. DEN W 37 25 9 17 52.9 0 0 - 7 9 77.8 2 3 5 4 1 2 5 5 -2
+p575
+aVUdonis Haslem MIA 12/15/2004 MIA @ WAS W 35 4 2 9 22.2 0 0 - 0 0 - 3 6 9 0 0 0 3 4 11
+p576
+aVKeyon Dooling MIA 12/15/2004 MIA @ WAS W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -1
+p577
+aVChristian Laettner MIA 12/15/2004 MIA @ WAS W 19 2 1 3 33.3 0 0 - 0 0 - 0 7 7 0 2 3 0 2 7
+p578
+aVShaquille O'Neal MIA 12/15/2004 MIA @ WAS W 36 13 6 9 66.7 0 0 - 1 8 12.5 3 9 12 4 0 0 1 6 -6
+p579
+aVDwyane Wade MIA 12/15/2004 MIA @ WAS W 46 29 11 23 47.8 0 1 0.0 7 10 70.0 2 3 5 9 2 0 5 3 3
+p580
+aVMichael Doleac MIA 12/15/2004 MIA @ WAS W 6 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 2 -2
+p581
+aVEddie Jones MIA 12/15/2004 MIA @ WAS W 19 9 4 7 57.1 1 3 33.3 0 1 0.0 0 3 3 2 0 0 1 4 -6
+p582
+aVDamon Jones MIA 12/15/2004 MIA @ WAS W 37 23 8 16 50.0 5 12 41.7 2 2 100.0 1 5 6 4 0 0 0 0 4
+p583
+aVRasual Butler MIA 12/15/2004 MIA @ WAS W 33 11 4 10 40.0 1 2 50.0 2 2 100.0 1 0 1 2 1 1 0 1 15
+p584
+aVMichael Doleac MIA 12/13/2004 MIA vs. WAS W 8 6 1 5 20.0 0 0 - 4 4 100.0 1 2 3 0 0 0 1 1 -3
+p585
+aVChristian Laettner MIA 12/13/2004 MIA vs. WAS W 14 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 0 0 0 3 10
+p586
+aVDwyane Wade MIA 12/13/2004 MIA vs. WAS W 18 0 0 4 0.0 0 0 - 0 0 - 1 2 3 3 2 0 0 2 8
+p587
+aVUdonis Haslem MIA 12/13/2004 MIA vs. WAS W 34 9 4 8 50.0 0 0 - 1 2 50.0 1 6 7 1 1 0 2 4 13
+p588
+aVDamon Jones MIA 12/13/2004 MIA vs. WAS W 37 12 3 7 42.9 2 6 33.3 4 4 100.0 1 5 6 9 1 0 1 1 18
+p589
+aVEddie Jones MIA 12/13/2004 MIA vs. WAS W 33 14 6 13 46.2 1 3 33.3 1 3 33.3 1 5 6 1 1 0 1 4 14
+p590
+aVWang Zhi-zhi MIA 12/13/2004 MIA vs. WAS W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p591
+aVShandon Anderson MIA 12/13/2004 MIA vs. WAS W 13 2 1 1 100.0 0 0 - 0 0 - 0 6 6 1 1 1 4 0 2
+p592
+aVShaquille O'Neal MIA 12/13/2004 MIA vs. WAS W 38 40 15 23 65.2 0 0 - 10 16 62.5 6 6 12 3 0 5 1 3 24
+p593
+aVKeyon Dooling MIA 12/13/2004 MIA vs. WAS W 13 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 5
+p594
+aVRasual Butler MIA 12/13/2004 MIA vs. WAS W 30 16 6 9 66.7 1 3 33.3 3 4 75.0 2 5 7 5 0 1 1 3 22
+p595
+aVMichael Doleac MIA 12/12/2004 MIA @ TOR W 11 2 1 5 20.0 0 0 - 0 2 0.0 2 2 4 1 1 0 0 2 8
+p596
+aVDamon Jones MIA 12/12/2004 MIA @ TOR W 34 16 4 9 44.4 3 7 42.9 5 6 83.3 0 4 4 2 2 0 0 1 2
+p597
+aVKeyon Dooling MIA 12/12/2004 MIA @ TOR W 15 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 2 1 0 1 2 6
+p598
+aVEddie Jones MIA 12/12/2004 MIA @ TOR W 41 3 1 5 20.0 0 3 0.0 1 3 33.3 0 4 4 7 1 0 4 4 4
+p599
+aVUdonis Haslem MIA 12/12/2004 MIA @ TOR W 35 17 6 8 75.0 0 0 - 5 7 71.4 4 4 8 0 1 2 1 0 0
+p600
+aVDwyane Wade MIA 12/12/2004 MIA @ TOR W 36 20 8 17 47.1 0 0 - 4 5 80.0 6 3 9 6 1 0 5 3 10
+p601
+aVShaquille O'Neal MIA 12/12/2004 MIA @ TOR W 37 20 9 13 69.2 0 0 - 2 6 33.3 2 7 9 4 1 4 3 3 0
+p602
+aVRasual Butler MIA 12/12/2004 MIA @ TOR W 18 11 5 8 62.5 1 3 33.3 0 1 0.0 0 1 1 0 0 0 0 2 2
+p603
+aVChristian Laettner MIA 12/12/2004 MIA @ TOR W 13 10 5 6 83.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 8
+p604
+aVChristian Laettner MIA 12/10/2004 MIA vs. MEM W 20 7 3 6 50.0 0 0 - 1 1 100.0 4 4 8 1 1 1 1 4 14
+p605
+aVEddie Jones MIA 12/10/2004 MIA vs. MEM W 39 5 2 14 14.3 1 8 12.5 0 0 - 0 4 4 4 2 0 1 2 6
+p606
+aVDwyane Wade MIA 12/10/2004 MIA vs. MEM W 42 26 8 13 61.5 0 0 - 10 12 83.3 2 7 9 9 2 2 4 3 12
+p607
+aVMichael Doleac MIA 12/10/2004 MIA vs. MEM W 12 7 3 3 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 2
+p608
+aVShaquille O'Neal MIA 12/10/2004 MIA vs. MEM W 36 20 7 11 63.6 0 0 - 6 9 66.7 0 5 5 5 1 3 3 5 6
+p609
+aVKeyon Dooling MIA 12/10/2004 MIA vs. MEM W 10 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -1
+p610
+aVRasual Butler MIA 12/10/2004 MIA vs. MEM W 15 0 0 4 0.0 0 2 0.0 0 0 - 0 4 4 0 0 0 1 0 -2
+p611
+aVUdonis Haslem MIA 12/10/2004 MIA vs. MEM W 28 11 4 4 100.0 0 0 - 3 4 75.0 1 2 3 0 0 0 2 5 -6
+p612
+aVDamon Jones MIA 12/10/2004 MIA vs. MEM W 38 15 5 7 71.4 5 7 71.4 0 0 - 0 4 4 2 0 0 1 1 9
+p613
+aVMichael Doleac MIA 12/08/2004 MIA @ MIL W 20 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 4 1
+p614
+aVRasual Butler MIA 12/08/2004 MIA @ MIL W 23 14 6 13 46.2 0 2 0.0 2 2 100.0 0 3 3 0 0 0 2 3 -2
+p615
+aVShandon Anderson MIA 12/08/2004 MIA @ MIL W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p616
+aVKeyon Dooling MIA 12/08/2004 MIA @ MIL W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -11
+p617
+aVDwyane Wade MIA 12/08/2004 MIA @ MIL W 42 17 5 15 33.3 0 0 - 7 10 70.0 2 2 4 10 2 2 5 3 11
+p618
+aVChristian Laettner MIA 12/08/2004 MIA @ MIL W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -4
+p619
+aVEddie Jones MIA 12/08/2004 MIA @ MIL W 31 5 2 9 22.2 1 5 20.0 0 0 - 0 6 6 1 0 0 0 5 -2
+p620
+aVUdonis Haslem MIA 12/08/2004 MIA @ MIL W 42 20 4 8 50.0 0 0 - 12 12 100.0 4 9 13 6 0 1 1 3 13
+p621
+aVShaquille O'Neal MIA 12/08/2004 MIA @ MIL W 21 18 7 13 53.8 0 0 - 4 5 80.0 2 4 6 1 1 0 4 5 9
+p622
+aVDamon Jones MIA 12/08/2004 MIA @ MIL W 36 17 6 9 66.7 3 6 50.0 2 2 100.0 0 4 4 5 1 0 1 1 16
+p623
+aVWang Zhi-zhi MIA 12/06/2004 MIA @ UTA W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p624
+aVDamon Jones MIA 12/06/2004 MIA @ UTA W 37 21 7 12 58.3 7 11 63.6 0 2 0.0 0 4 4 6 0 0 0 1 26
+p625
+aVShandon Anderson MIA 12/06/2004 MIA @ UTA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p626
+aVEddie Jones MIA 12/06/2004 MIA @ UTA W 27 9 3 8 37.5 1 2 50.0 2 2 100.0 1 1 2 3 1 0 1 4 0
+p627
+aVUdonis Haslem MIA 12/06/2004 MIA @ UTA W 30 6 2 4 50.0 0 0 - 2 2 100.0 2 7 9 2 1 2 3 2 29
+p628
+aVKeyon Dooling MIA 12/06/2004 MIA @ UTA W 12 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 0 1 -6
+p629
+aVRasual Butler MIA 12/06/2004 MIA @ UTA W 31 13 5 7 71.4 1 2 50.0 2 2 100.0 1 2 3 3 0 0 1 3 15
+p630
+aVShaquille O'Neal MIA 12/06/2004 MIA @ UTA W 31 21 8 14 57.1 0 0 - 5 12 41.7 1 12 13 5 0 0 5 4 23
+p631
+aVChristian Laettner MIA 12/06/2004 MIA @ UTA W 18 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 5 -7
+p632
+aVDwyane Wade MIA 12/06/2004 MIA @ UTA W 38 23 7 11 63.6 0 0 - 9 12 75.0 1 3 4 4 0 1 1 1 25
+p633
+aVMichael Doleac MIA 12/06/2004 MIA @ UTA W 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -3
+p634
+aVUdonis Haslem MIA 12/04/2004 MIA @ DEN L 27 14 6 10 60.0 0 0 - 2 3 66.7 1 5 6 3 1 1 1 4 -19
+p635
+aVDamon Jones MIA 12/04/2004 MIA @ DEN L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 4 0 0 3 1 -9
+p636
+aVRasual Butler MIA 12/04/2004 MIA @ DEN L 10 7 1 4 25.0 1 3 33.3 4 5 80.0 0 0 0 0 0 0 0 1 -5
+p637
+aVWesley Person MIA 12/04/2004 MIA @ DEN L 12 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -4
+p638
+aVMichael Doleac MIA 12/04/2004 MIA @ DEN L 16 10 5 6 83.3 0 0 - 0 0 - 0 2 2 1 2 0 3 4 2
+p639
+aVKeyon Dooling MIA 12/04/2004 MIA @ DEN L 22 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 0 3 2 -4
+p640
+aVShaquille O'Neal MIA 12/04/2004 MIA @ DEN L 32 12 5 10 50.0 0 0 - 2 8 25.0 2 8 10 3 1 3 5 5 -13
+p641
+aVDwyane Wade MIA 12/04/2004 MIA @ DEN L 33 26 9 16 56.3 1 3 33.3 7 9 77.8 1 5 6 8 1 0 5 4 6
+p642
+aVShandon Anderson MIA 12/04/2004 MIA @ DEN L 16 0 0 0 - 0 0 - 0 0 - 1 1 2 1 2 1 3 2 -6
+p643
+aVChristian Laettner MIA 12/04/2004 MIA @ DEN L 20 6 3 4 75.0 0 0 - 0 0 - 1 3 4 3 0 1 0 3 7
+p644
+aVEddie Jones MIA 12/04/2004 MIA @ DEN L 33 13 5 14 35.7 3 6 50.0 0 0 - 1 3 4 4 1 3 2 4 0
+p645
+aVEddie Jones MIA 12/03/2004 MIA @ CHI W 35 21 7 11 63.6 3 5 60.0 4 5 80.0 0 5 5 5 2 2 0 1 28
+p646
+aVDamon Jones MIA 12/03/2004 MIA @ CHI W 25 9 3 8 37.5 3 7 42.9 0 0 - 0 2 2 5 1 0 0 1 17
+p647
+aVWesley Person MIA 12/03/2004 MIA @ CHI W 35 10 4 11 36.4 2 4 50.0 0 0 - 1 6 7 4 1 0 2 0 8
+p648
+aVShandon Anderson MIA 12/03/2004 MIA @ CHI W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 10
+p649
+aVMichael Doleac MIA 12/03/2004 MIA @ CHI W 16 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 1 0 0 0 2 6
+p650
+aVKeyon Dooling MIA 12/03/2004 MIA @ CHI W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p651
+aVUdonis Haslem MIA 12/03/2004 MIA @ CHI W 23 5 2 4 50.0 0 0 - 1 1 100.0 3 8 11 2 0 0 1 4 8
+p652
+aVDwyane Wade MIA 12/03/2004 MIA @ CHI W 37 15 6 12 50.0 0 0 - 3 8 37.5 2 8 10 8 0 0 5 3 9
+p653
+aVChristian Laettner MIA 12/03/2004 MIA @ CHI W 27 23 10 13 76.9 1 1 100.0 2 2 100.0 1 2 3 0 0 2 1 3 19
+p654
+aVShaquille O'Neal MIA 12/03/2004 MIA @ CHI W 30 18 7 14 50.0 0 0 - 4 8 50.0 4 3 7 5 1 4 3 4 15
+p655
+aVDamon Jones MIA 11/30/2004 MIA vs. TOR L 28 3 1 6 16.7 1 6 16.7 0 0 - 0 3 3 5 1 0 0 1 0
+p656
+aVRasual Butler MIA 11/30/2004 MIA vs. TOR L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p657
+aVKeyon Dooling MIA 11/30/2004 MIA vs. TOR L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p658
+aVEddie Jones MIA 11/30/2004 MIA vs. TOR L 29 2 0 4 0.0 0 3 0.0 2 2 100.0 0 2 2 2 0 0 5 5 -2
+p659
+aVChristian Laettner MIA 11/30/2004 MIA vs. TOR L 9 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p660
+aVWesley Person MIA 11/30/2004 MIA vs. TOR L 28 3 1 7 14.3 1 4 25.0 0 0 - 0 3 3 2 4 0 0 3 6
+p661
+aVShaquille O'Neal MIA 11/30/2004 MIA vs. TOR L 41 34 12 15 80.0 0 0 - 10 13 76.9 7 10 17 2 0 1 1 5 0
+p662
+aVDwyane Wade MIA 11/30/2004 MIA vs. TOR L 44 22 8 16 50.0 1 2 50.0 5 8 62.5 2 7 9 4 0 1 5 1 -4
+p663
+aVMichael Doleac MIA 11/30/2004 MIA vs. TOR L 4 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -3
+p664
+aVUdonis Haslem MIA 11/30/2004 MIA vs. TOR L 41 16 6 16 37.5 0 0 - 4 4 100.0 4 6 10 2 0 1 3 5 -4
+p665
+aVShandon Anderson MIA 11/30/2004 MIA vs. TOR L 6 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -4
+p666
+aVRasual Butler MIA 11/28/2004 MIA vs. BOS W 14 5 2 8 25.0 0 2 0.0 1 2 50.0 0 3 3 2 0 2 0 0 6
+p667
+aVShaquille O'Neal MIA 11/28/2004 MIA vs. BOS W 40 21 9 9 100.0 0 0 - 3 10 30.0 3 10 13 0 0 2 0 4 8
+p668
+aVWesley Person MIA 11/28/2004 MIA vs. BOS W 29 9 3 7 42.9 1 4 25.0 2 2 100.0 0 3 3 2 0 0 1 0 -4
+p669
+aVShandon Anderson MIA 11/28/2004 MIA vs. BOS W 19 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 0 1 6 -11
+p670
+aVChristian Laettner MIA 11/28/2004 MIA vs. BOS W 15 7 2 9 22.2 0 0 - 3 4 75.0 2 1 3 1 1 2 0 1 -4
+p671
+aVDamon Jones MIA 11/28/2004 MIA vs. BOS W 22 16 6 10 60.0 4 6 66.7 0 0 - 0 0 0 1 0 0 1 2 -7
+p672
+aVUdonis Haslem MIA 11/28/2004 MIA vs. BOS W 23 9 4 9 44.4 0 0 - 1 1 100.0 2 4 6 2 0 2 3 6 13
+p673
+aVDwyane Wade MIA 11/28/2004 MIA vs. BOS W 40 25 7 18 38.9 0 0 - 11 12 91.7 2 3 5 9 2 1 2 4 10
+p674
+aVMichael Doleac MIA 11/28/2004 MIA vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p675
+aVEddie Jones MIA 11/28/2004 MIA vs. BOS W 36 12 5 15 33.3 2 7 28.6 0 0 - 0 8 8 6 3 0 1 5 0
+p676
+aVMichael Doleac MIA 11/26/2004 MIA @ DET L 10 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 1 0 3 -4
+p677
+aVShaquille O'Neal MIA 11/26/2004 MIA @ DET L 38 24 8 17 47.1 0 0 - 8 16 50.0 2 15 17 4 0 4 8 4 3
+p678
+aVEddie Jones MIA 11/26/2004 MIA @ DET L 43 6 2 6 33.3 1 3 33.3 1 1 100.0 0 5 5 1 1 1 0 4 -6
+p679
+aVRasual Butler MIA 11/26/2004 MIA @ DET L 23 7 3 7 42.9 1 4 25.0 0 0 - 0 1 1 3 0 1 0 2 5
+p680
+aVShandon Anderson MIA 11/26/2004 MIA @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p681
+aVChristian Laettner MIA 11/26/2004 MIA @ DET L 14 0 0 3 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 8
+p682
+aVUdonis Haslem MIA 11/26/2004 MIA @ DET L 34 15 5 9 55.6 0 0 - 5 6 83.3 3 5 8 3 0 0 1 4 -9
+p683
+aVDwyane Wade MIA 11/26/2004 MIA @ DET L 43 17 6 17 35.3 0 0 - 5 6 83.3 2 3 5 6 3 0 2 6 1
+p684
+aVDamon Jones MIA 11/26/2004 MIA @ DET L 29 6 2 8 25.0 2 7 28.6 0 0 - 0 2 2 1 1 0 2 1 -2
+p685
+aVEddie Jones MIA 11/24/2004 MIA @ ATL W 25 1 0 6 0.0 0 3 0.0 1 1 100.0 0 5 5 0 1 2 0 3 -8
+p686
+aVRasual Butler MIA 11/24/2004 MIA @ ATL W 15 0 0 6 0.0 0 2 0.0 0 2 0.0 0 3 3 1 1 1 0 3 -3
+p687
+aVMichael Doleac MIA 11/24/2004 MIA @ ATL W 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 1
+p688
+aVUdonis Haslem MIA 11/24/2004 MIA @ ATL W 35 21 8 12 66.7 0 0 - 5 6 83.3 0 5 5 2 1 1 2 4 4
+p689
+aVKeyon Dooling MIA 11/24/2004 MIA @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p690
+aVChristian Laettner MIA 11/24/2004 MIA @ ATL W 17 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 1 2 0 0 0 8
+p691
+aVShaquille O'Neal MIA 11/24/2004 MIA @ ATL W 38 21 8 10 80.0 0 0 - 5 9 55.6 2 7 9 1 0 2 2 5 -1
+p692
+aVDwyane Wade MIA 11/24/2004 MIA @ ATL W 43 31 12 17 70.6 0 1 0.0 7 8 87.5 1 7 8 11 0 2 2 3 6
+p693
+aVDamon Jones MIA 11/24/2004 MIA @ ATL W 29 9 3 8 37.5 3 7 42.9 0 0 - 0 3 3 6 0 0 1 3 11
+p694
+aVShandon Anderson MIA 11/24/2004 MIA @ ATL W 29 6 1 3 33.3 1 1 100.0 3 4 75.0 1 1 2 1 1 0 2 1 10
+p695
+aVKeyon Dooling MIA 11/23/2004 MIA vs. POR L 4 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 0
+p696
+aVUdonis Haslem MIA 11/23/2004 MIA vs. POR L 36 8 3 17 17.6 0 1 0.0 2 2 100.0 2 6 8 2 2 1 2 4 -1
+p697
+aVChristian Laettner MIA 11/23/2004 MIA vs. POR L 12 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -9
+p698
+aVRasual Butler MIA 11/23/2004 MIA vs. POR L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -5
+p699
+aVShandon Anderson MIA 11/23/2004 MIA vs. POR L 28 17 7 9 77.8 2 4 50.0 1 2 50.0 0 2 2 1 3 0 1 1 -10
+p700
+aVEddie Jones MIA 11/23/2004 MIA vs. POR L 36 12 5 10 50.0 2 4 50.0 0 0 - 1 4 5 2 0 1 3 5 1
+p701
+aVMichael Doleac MIA 11/23/2004 MIA vs. POR L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -7
+p702
+aVDwyane Wade MIA 11/23/2004 MIA vs. POR L 41 19 5 13 38.5 0 0 - 9 11 81.8 3 0 3 9 4 3 3 4 -3
+p703
+aVShaquille O'Neal MIA 11/23/2004 MIA vs. POR L 37 17 5 8 62.5 0 0 - 7 13 53.8 9 4 13 0 1 4 1 3 0
+p704
+aVWesley Person MIA 11/23/2004 MIA vs. POR L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p705
+aVWang Zhi-zhi MIA 11/23/2004 MIA vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p706
+aVDamon Jones MIA 11/23/2004 MIA vs. POR L 22 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 0 1 0 1 0 -20
+p707
+aVEddie Jones MIA 11/21/2004 MIA vs. PHI W 41 11 2 13 15.4 0 6 0.0 7 7 100.0 0 6 6 3 2 1 3 3 8
+p708
+aVDamon Jones MIA 11/21/2004 MIA vs. PHI W 26 17 5 8 62.5 5 8 62.5 2 2 100.0 0 1 1 3 1 0 3 1 14
+p709
+aVMichael Doleac MIA 11/21/2004 MIA vs. PHI W 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -5
+p710
+aVRasual Butler MIA 11/21/2004 MIA vs. PHI W 24 9 4 8 50.0 1 1 100.0 0 0 - 0 3 3 2 0 0 1 3 3
+p711
+aVWang Zhi-zhi MIA 11/21/2004 MIA vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p712
+aVShaquille O'Neal MIA 11/21/2004 MIA vs. PHI W 38 19 6 7 85.7 0 0 - 7 12 58.3 4 8 12 1 0 6 5 4 8
+p713
+aVShandon Anderson MIA 11/21/2004 MIA vs. PHI W 15 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 0 0 0 1 7
+p714
+aVUdonis Haslem MIA 11/21/2004 MIA vs. PHI W 39 10 4 13 30.8 0 0 - 2 3 66.7 7 7 14 0 2 0 2 5 15
+p715
+aVDwyane Wade MIA 11/21/2004 MIA vs. PHI W 40 25 7 13 53.8 0 0 - 11 13 84.6 1 2 3 7 2 1 5 5 1
+p716
+aVMalik Allen MIA 11/19/2004 MIA vs. UTA W 30 10 5 10 50.0 0 0 - 0 0 - 5 2 7 1 1 1 0 4 -5
+p717
+aVShaquille O'Neal MIA 11/19/2004 MIA vs. UTA W 38 22 10 17 58.8 0 0 - 2 10 20.0 5 6 11 6 0 5 0 6 0
+p718
+aVShandon Anderson MIA 11/19/2004 MIA vs. UTA W 24 0 0 4 0.0 0 2 0.0 0 0 - 0 4 4 3 1 0 0 5 1
+p719
+aVMichael Doleac MIA 11/19/2004 MIA vs. UTA W 11 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 2 4
+p720
+aVRasual Butler MIA 11/19/2004 MIA vs. UTA W 21 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 3 -8
+p721
+aVDwyane Wade MIA 11/19/2004 MIA vs. UTA W 47 39 12 22 54.5 0 0 - 15 21 71.4 0 4 4 8 3 2 5 4 2
+p722
+aVUdonis Haslem MIA 11/19/2004 MIA vs. UTA W 26 1 0 3 0.0 0 0 - 1 4 25.0 2 5 7 0 0 0 1 6 3
+p723
+aVEddie Jones MIA 11/19/2004 MIA vs. UTA W 41 17 5 12 41.7 4 6 66.7 3 7 42.9 0 3 3 1 3 0 0 4 14
+p724
+aVDamon Jones MIA 11/19/2004 MIA vs. UTA W 27 11 4 9 44.4 3 7 42.9 0 0 - 0 3 3 2 0 0 1 1 -1
+p725
+aVRasual Butler MIA 11/17/2004 MIA @ MIL W 19 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 1 1 1 1 1 7
+p726
+aVShandon Anderson MIA 11/17/2004 MIA @ MIL W 28 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 0 0 0 0 1 1
+p727
+aVUdonis Haslem MIA 11/17/2004 MIA @ MIL W 37 7 2 2 100.0 0 0 - 3 4 75.0 2 7 9 1 1 0 2 2 4
+p728
+aVShaquille O'Neal MIA 11/17/2004 MIA @ MIL W 37 26 9 11 81.8 0 0 - 8 16 50.0 2 5 7 6 1 1 2 4 7
+p729
+aVDamon Jones MIA 11/17/2004 MIA @ MIL W 25 17 3 8 37.5 3 7 42.9 8 8 100.0 0 1 1 3 0 0 2 2 8
+p730
+aVEddie Jones MIA 11/17/2004 MIA @ MIL W 39 27 8 14 57.1 2 7 28.6 9 11 81.8 1 3 4 3 1 0 1 3 7
+p731
+aVMichael Doleac MIA 11/17/2004 MIA @ MIL W 9 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 1 0 3 0
+p732
+aVDwyane Wade MIA 11/17/2004 MIA @ MIL W 33 18 6 10 60.0 0 0 - 6 12 50.0 0 5 5 7 1 3 6 6 -2
+p733
+aVMalik Allen MIA 11/17/2004 MIA @ MIL W 13 6 3 4 75.0 0 0 - 0 0 - 3 2 5 1 0 1 2 2 3
+p734
+aVDwyane Wade MIA 11/16/2004 MIA @ MIN L 36 25 9 15 60.0 0 0 - 7 9 77.8 2 0 2 6 1 1 3 3 -10
+p735
+aVRasual Butler MIA 11/16/2004 MIA @ MIN L 19 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 1 0 1 0 3 -11
+p736
+aVMichael Doleac MIA 11/16/2004 MIA @ MIN L 14 4 2 3 66.7 0 0 - 0 1 0.0 2 1 3 1 0 0 0 1 1
+p737
+aVKeyon Dooling MIA 11/16/2004 MIA @ MIN L 10 6 1 6 16.7 0 1 0.0 4 4 100.0 0 0 0 1 0 0 1 1 2
+p738
+aVMalik Allen MIA 11/16/2004 MIA @ MIN L 28 10 4 8 50.0 0 0 - 2 2 100.0 1 4 5 2 2 0 1 2 -16
+p739
+aVDamon Jones MIA 11/16/2004 MIA @ MIN L 22 11 4 7 57.1 3 4 75.0 0 0 - 0 0 0 2 0 0 1 2 -6
+p740
+aVEddie Jones MIA 11/16/2004 MIA @ MIN L 32 3 1 8 12.5 0 5 0.0 1 2 50.0 0 5 5 2 0 0 0 0 -21
+p741
+aVShandon Anderson MIA 11/16/2004 MIA @ MIN L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 1 3 5
+p742
+aVUdonis Haslem MIA 11/16/2004 MIA @ MIN L 21 13 5 5 100.0 0 0 - 3 3 100.0 2 4 6 0 1 1 2 5 5
+p743
+aVShaquille O'Neal MIA 11/16/2004 MIA @ MIN L 34 20 6 15 40.0 0 0 - 8 15 53.3 6 9 15 1 0 4 4 4 -12
+p744
+aVWesley Person MIA 11/16/2004 MIA @ MIN L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p745
+aVShaquille O'Neal MIA 11/14/2004 MIA vs. MIL W 43 19 7 14 50.0 0 0 - 5 17 29.4 6 12 18 4 0 4 4 6 6
+p746
+aVKeyon Dooling MIA 11/14/2004 MIA vs. MIL W 14 6 2 5 40.0 0 0 - 2 4 50.0 0 1 1 5 0 0 1 2 1
+p747
+aVDamon Jones MIA 11/14/2004 MIA vs. MIL W 44 14 5 15 33.3 4 11 36.4 0 0 - 0 2 2 8 1 0 3 3 3
+p748
+aVEddie Jones MIA 11/14/2004 MIA vs. MIL W 37 19 6 14 42.9 3 7 42.9 4 4 100.0 1 4 5 1 0 1 3 5 0
+p749
+aVWesley Person MIA 11/14/2004 MIA vs. MIL W 15 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 1 1 0 0 0 -2
+p750
+aVShandon Anderson MIA 11/14/2004 MIA vs. MIL W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 3 -1
+p751
+aVMalik Allen MIA 11/14/2004 MIA vs. MIL W 18 8 2 3 66.7 0 0 - 4 4 100.0 3 0 3 2 0 1 1 2 -2
+p752
+aVRasual Butler MIA 11/14/2004 MIA vs. MIL W 53 17 8 24 33.3 1 7 14.3 0 0 - 0 7 7 5 1 2 2 2 7
+p753
+aVUdonis Haslem MIA 11/14/2004 MIA vs. MIL W 41 14 7 12 58.3 0 0 - 0 0 - 4 7 11 1 0 0 1 3 1
+p754
+aVMichael Doleac MIA 11/14/2004 MIA vs. MIL W 14 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -3
+p755
+aVEddie Jones MIA 11/12/2004 MIA @ SAS L 18 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 6 -7
+p756
+aVMichael Doleac MIA 11/12/2004 MIA @ SAS L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -9
+p757
+aVShaquille O'Neal MIA 11/12/2004 MIA @ SAS L 40 23 9 21 42.9 0 0 - 5 7 71.4 8 13 21 4 0 2 3 5 0
+p758
+aVMalik Allen MIA 11/12/2004 MIA @ SAS L 25 10 5 11 45.5 0 0 - 0 0 - 2 2 4 0 0 1 3 2 0
+p759
+aVUdonis Haslem MIA 11/12/2004 MIA @ SAS L 23 11 3 10 30.0 0 0 - 5 5 100.0 3 4 7 0 0 0 4 2 -8
+p760
+aVWesley Person MIA 11/12/2004 MIA @ SAS L 20 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 3 0 -13
+p761
+aVWang Zhi-zhi MIA 11/12/2004 MIA @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p762
+aVKeyon Dooling MIA 11/12/2004 MIA @ SAS L 26 10 3 7 42.9 1 2 50.0 3 3 100.0 1 2 3 4 1 0 2 2 0
+p763
+aVDamon Jones MIA 11/12/2004 MIA @ SAS L 38 9 3 6 50.0 3 5 60.0 0 0 - 0 4 4 3 0 0 0 5 -3
+p764
+aVRasual Butler MIA 11/12/2004 MIA @ SAS L 42 11 4 10 40.0 3 5 60.0 0 0 - 0 4 4 2 2 0 4 4 -4
+p765
+aVEddie Jones MIA 11/11/2004 MIA vs. DAL L 27 3 1 11 9.1 0 4 0.0 1 2 50.0 2 3 5 1 1 0 1 0 -33
+p766
+aVRasual Butler MIA 11/11/2004 MIA vs. DAL L 36 11 4 14 28.6 2 6 33.3 1 1 100.0 1 1 2 1 0 1 2 3 -12
+p767
+aVKeyon Dooling MIA 11/11/2004 MIA vs. DAL L 23 14 4 7 57.1 1 3 33.3 5 5 100.0 0 2 2 4 3 1 0 3 16
+p768
+aVMalik Allen MIA 11/11/2004 MIA vs. DAL L 15 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 1 0 1 1 5
+p769
+aVMichael Doleac MIA 11/11/2004 MIA vs. DAL L 14 0 0 3 0.0 0 0 - 0 0 - 2 0 2 2 0 0 0 4 -6
+p770
+aVShaquille O'Neal MIA 11/11/2004 MIA vs. DAL L 30 22 8 13 61.5 0 0 - 6 14 42.9 6 4 10 1 0 3 2 5 -16
+p771
+aVUdonis Haslem MIA 11/11/2004 MIA vs. DAL L 33 8 3 5 60.0 0 0 - 2 2 100.0 4 3 7 0 0 1 1 3 -25
+p772
+aVDwyane Wade MIA 11/11/2004 MIA vs. DAL L 30 20 6 18 33.3 0 0 - 8 9 88.9 2 6 8 5 3 0 3 3 -19
+p773
+aVDamon Jones MIA 11/11/2004 MIA vs. DAL L 21 9 3 8 37.5 3 6 50.0 0 0 - 0 0 0 0 0 0 0 0 -14
+p774
+aVWang Zhi-zhi MIA 11/11/2004 MIA vs. DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p775
+aVWesley Person MIA 11/11/2004 MIA vs. DAL L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p776
+aVDamon Jones MIA 11/09/2004 MIA vs. WAS W 20 12 4 6 66.7 4 5 80.0 0 0 - 0 1 1 2 0 0 0 1 0
+p777
+aVUdonis Haslem MIA 11/09/2004 MIA vs. WAS W 31 18 8 9 88.9 0 0 - 2 2 100.0 2 8 10 2 0 0 0 2 11
+p778
+aVEddie Jones MIA 11/09/2004 MIA vs. WAS W 33 8 3 9 33.3 0 3 0.0 2 2 100.0 1 5 6 2 2 0 1 1 15
+p779
+aVWesley Person MIA 11/09/2004 MIA vs. WAS W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p780
+aVRasual Butler MIA 11/09/2004 MIA vs. WAS W 36 7 3 11 27.3 1 6 16.7 0 0 - 0 2 2 0 2 0 0 4 13
+p781
+aVKeyon Dooling MIA 11/09/2004 MIA vs. WAS W 18 8 4 10 40.0 0 1 0.0 0 0 - 1 0 1 5 2 0 1 2 -11
+p782
+aVMichael Doleac MIA 11/09/2004 MIA vs. WAS W 20 4 2 2 100.0 0 0 - 0 0 - 3 6 9 0 1 1 1 3 8
+p783
+aVMalik Allen MIA 11/09/2004 MIA vs. WAS W 17 4 2 6 33.3 0 0 - 0 0 - 0 3 3 1 0 1 0 1 -3
+p784
+aVDwyane Wade MIA 11/09/2004 MIA vs. WAS W 33 22 7 11 63.6 0 0 - 8 11 72.7 1 3 4 9 2 2 4 3 24
+p785
+aVShaquille O'Neal MIA 11/09/2004 MIA vs. WAS W 28 20 8 13 61.5 0 0 - 4 10 40.0 3 6 9 4 0 3 9 4 4
+p786
+aVShaquille O'Neal MIA 11/06/2004 MIA @ WAS W 27 13 5 10 50.0 0 0 - 3 12 25.0 1 7 8 1 1 2 3 4 1
+p787
+aVMalik Allen MIA 11/06/2004 MIA @ WAS W 18 9 4 7 57.1 0 0 - 1 2 50.0 2 3 5 0 0 1 1 4 3
+p788
+aVUdonis Haslem MIA 11/06/2004 MIA @ WAS W 34 11 3 4 75.0 0 0 - 5 6 83.3 3 6 9 5 1 0 2 5 15
+p789
+aVEddie Jones MIA 11/06/2004 MIA @ WAS W 26 24 9 12 75.0 5 7 71.4 1 2 50.0 0 2 2 4 2 1 2 5 15
+p790
+aVDwyane Wade MIA 11/06/2004 MIA @ WAS W 43 37 11 16 68.8 1 1 100.0 14 16 87.5 0 8 8 12 1 0 7 2 19
+p791
+aVWesley Person MIA 11/06/2004 MIA @ WAS W 10 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p792
+aVDamon Jones MIA 11/06/2004 MIA @ WAS W 32 7 3 7 42.9 1 5 20.0 0 0 - 2 6 8 6 1 0 1 1 14
+p793
+aVRasual Butler MIA 11/06/2004 MIA @ WAS W 36 9 4 13 30.8 1 6 16.7 0 0 - 0 2 2 0 1 2 0 3 -3
+p794
+aVMichael Doleac MIA 11/06/2004 MIA @ WAS W 14 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 1
+p795
+aVUdonis Haslem MIA 11/04/2004 MIA vs. CLE W 29 15 6 9 66.7 0 0 - 3 4 75.0 2 6 8 2 0 0 2 6 8
+p796
+aVDamon Jones MIA 11/04/2004 MIA vs. CLE W 33 5 2 8 25.0 1 6 16.7 0 0 - 1 2 3 2 0 0 2 0 0
+p797
+aVMalik Allen MIA 11/04/2004 MIA vs. CLE W 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 4 -1
+p798
+aVMichael Doleac MIA 11/04/2004 MIA vs. CLE W 19 3 1 6 16.7 0 0 - 1 2 50.0 1 4 5 0 0 0 0 2 -1
+p799
+aVRasual Butler MIA 11/04/2004 MIA vs. CLE W 27 11 5 5 100.0 1 1 100.0 0 0 - 0 2 2 1 1 0 0 4 -1
+p800
+aVDwyane Wade MIA 11/04/2004 MIA vs. CLE W 41 28 10 20 50.0 0 0 - 8 10 80.0 1 5 6 5 3 3 2 1 6
+p801
+aVWesley Person MIA 11/04/2004 MIA vs. CLE W 8 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 3
+p802
+aVShaquille O'Neal MIA 11/04/2004 MIA vs. CLE W 32 17 7 17 41.2 0 0 - 3 9 33.3 1 8 9 2 0 3 1 2 6
+p803
+aVEddie Jones MIA 11/04/2004 MIA vs. CLE W 35 4 2 6 33.3 0 3 0.0 0 0 - 1 2 3 3 1 1 0 1 10
+p804
+aVUdonis Haslem MIA 11/03/2004 MIA @ NJN W 24 10 5 9 55.6 0 0 - 0 0 - 2 6 8 1 0 0 1 3 8
+p805
+aVDamon Jones MIA 11/03/2004 MIA @ NJN W 28 15 6 8 75.0 3 5 60.0 0 0 - 0 3 3 3 3 0 1 3 11
+p806
+aVRasual Butler MIA 11/03/2004 MIA @ NJN W 43 16 6 13 46.2 3 6 50.0 1 2 50.0 0 6 6 3 0 1 3 3 16
+p807
+aVShaquille O'Neal MIA 11/03/2004 MIA @ NJN W 21 16 7 9 77.8 0 0 - 2 7 28.6 2 3 5 2 0 2 2 5 14
+p808
+aVEddie Jones MIA 11/03/2004 MIA @ NJN W 31 10 2 9 22.2 2 5 40.0 4 4 100.0 0 8 8 6 1 0 1 2 25
+p809
+aVDwyane Wade MIA 11/03/2004 MIA @ NJN W 36 21 7 14 50.0 0 0 - 7 10 70.0 2 3 5 6 1 0 3 2 21
+p810
+aVKeyon Dooling MIA 11/03/2004 MIA @ NJN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -4
+p811
+aVMalik Allen MIA 11/03/2004 MIA @ NJN W 21 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 1 0 2 0 3 11
+p812
+aVMichael Doleac MIA 11/03/2004 MIA @ NJN W 27 2 1 5 20.0 0 0 - 0 0 - 2 1 3 0 0 1 0 4 13
+p813
+aVWang Zhi-zhi MIA 11/03/2004 MIA @ NJN W 3 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 0
+p814
+a.

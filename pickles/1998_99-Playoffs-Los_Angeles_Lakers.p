@@ -1,0 +1,160 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKobe Bryant LAL 05/23/1999 LAL vs. SAS L 40 16 7 16 43.8 1 3 33.3 1 2 50.0 3 5 8 3 0 0 3 6 -16
+p2
+aVJ.R. Reid LAL 05/23/1999 LAL vs. SAS L 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 1 1 5 -13
+p3
+aVRobert Horry LAL 05/23/1999 LAL vs. SAS L 12 6 1 2 50.0 0 1 0.0 4 4 100.0 0 3 3 2 2 0 0 4 -1
+p4
+aVRuben Patterson LAL 05/23/1999 LAL vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p5
+aVDerek Fisher LAL 05/23/1999 LAL vs. SAS L 19 5 1 7 14.3 0 2 0.0 3 4 75.0 3 2 5 6 2 0 2 2 -13
+p6
+aVGlen Rice LAL 05/23/1999 LAL vs. SAS L 44 11 4 10 40.0 0 3 0.0 3 3 100.0 1 2 3 1 0 0 0 3 -11
+p7
+aVRick Fox LAL 05/23/1999 LAL vs. SAS L 26 17 8 14 57.1 1 6 16.7 0 0 - 4 2 6 4 0 0 1 6 8
+p8
+aVTyronn Lue LAL 05/23/1999 LAL vs. SAS L 29 12 6 16 37.5 0 2 0.0 0 0 - 0 2 2 6 2 0 4 2 1
+p9
+aVShaquille O'Neal LAL 05/23/1999 LAL vs. SAS L 45 36 12 23 52.2 0 0 - 12 23 52.2 8 6 14 0 1 1 1 5 -6
+p10
+aVTravis Knight LAL 05/23/1999 LAL vs. SAS L 6 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 3 6 -6
+p11
+aVShaquille O'Neal LAL 05/22/1999 LAL vs. SAS L 36 22 8 14 57.1 0 0 - 6 14 42.9 7 8 15 0 0 3 2 3 -16
+p12
+aVKobe Bryant LAL 05/22/1999 LAL vs. SAS L 44 20 7 18 38.9 2 5 40.0 4 6 66.7 0 4 4 1 4 1 4 4 -6
+p13
+aVRobert Horry LAL 05/22/1999 LAL vs. SAS L 26 6 2 3 66.7 1 2 50.0 1 2 50.0 2 2 4 2 2 1 3 6 -6
+p14
+aVGlen Rice LAL 05/22/1999 LAL vs. SAS L 45 24 6 19 31.6 2 6 33.3 10 10 100.0 0 4 4 2 3 0 2 4 -6
+p15
+aVJ.R. Reid LAL 05/22/1999 LAL vs. SAS L 18 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 1 0 3 4
+p16
+aVDerek Harper LAL 05/22/1999 LAL vs. SAS L 6 0 0 1 0.0 0 1 0.0 0 2 0.0 0 1 1 1 0 0 0 0 -11
+p17
+aVDerek Fisher LAL 05/22/1999 LAL vs. SAS L 41 13 5 11 45.5 1 5 20.0 2 2 100.0 0 3 3 9 0 0 1 2 -1
+p18
+aVRick Fox LAL 05/22/1999 LAL vs. SAS L 19 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 0 1 2 4 -14
+p19
+aVSean Rooks LAL 05/22/1999 LAL vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p20
+aVKobe Bryant LAL 05/19/1999 LAL @ SAS L 47 28 12 25 48.0 1 3 33.3 3 5 60.0 1 7 8 4 0 0 5 3 -3
+p21
+aVDerek Fisher LAL 05/19/1999 LAL @ SAS L 29 2 0 3 0.0 0 2 0.0 2 2 100.0 0 4 4 2 2 0 3 6 -6
+p22
+aVGlen Rice LAL 05/19/1999 LAL @ SAS L 44 16 4 13 30.8 2 5 40.0 6 7 85.7 1 6 7 1 0 0 2 1 -3
+p23
+aVShaquille O'Neal LAL 05/19/1999 LAL @ SAS L 34 16 7 11 63.6 0 0 - 2 10 20.0 4 4 8 2 2 2 4 4 -8
+p24
+aVRick Fox LAL 05/19/1999 LAL @ SAS L 27 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 2 2 2 2 4 10
+p25
+aVDerek Harper LAL 05/19/1999 LAL @ SAS L 18 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 0 0 0 2 0 3
+p26
+aVRuben Patterson LAL 05/19/1999 LAL @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p27
+aVSean Rooks LAL 05/19/1999 LAL @ SAS L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 1
+p28
+aVJ.R. Reid LAL 05/19/1999 LAL @ SAS L 25 4 2 6 33.3 0 0 - 0 0 - 2 6 8 0 0 1 0 2 -8
+p29
+aVRobert Horry LAL 05/19/1999 LAL @ SAS L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p30
+aVRobert Horry LAL 05/17/1999 LAL @ SAS L 21 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 4 -10
+p31
+aVJ.R. Reid LAL 05/17/1999 LAL @ SAS L 26 3 1 4 25.0 0 0 - 1 2 50.0 2 5 7 1 2 0 0 4 4
+p32
+aVShaquille O'Neal LAL 05/17/1999 LAL @ SAS L 39 21 6 19 31.6 0 0 - 9 14 64.3 7 8 15 0 1 1 2 5 1
+p33
+aVDerek Harper LAL 05/17/1999 LAL @ SAS L 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -5
+p34
+aVDerek Fisher LAL 05/17/1999 LAL @ SAS L 30 13 6 10 60.0 1 2 50.0 0 0 - 2 2 4 4 1 0 0 3 4
+p35
+aVSean Rooks LAL 05/17/1999 LAL @ SAS L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 0 4 -7
+p36
+aVKobe Bryant LAL 05/17/1999 LAL @ SAS L 35 21 8 17 47.1 0 1 0.0 5 6 83.3 2 4 6 6 3 1 7 2 -5
+p37
+aVGlen Rice LAL 05/17/1999 LAL @ SAS L 45 21 8 17 47.1 1 1 100.0 4 4 100.0 1 2 3 0 2 0 0 3 0
+p38
+aVRick Fox LAL 05/17/1999 LAL @ SAS L 16 0 0 5 0.0 0 4 0.0 0 0 - 0 2 2 0 1 0 1 0 -12
+p39
+aVShaquille O'Neal LAL 05/15/1999 LAL @ HOU W 43 37 14 22 63.6 0 0 - 9 18 50.0 5 6 11 3 0 3 2 2 11
+p40
+aVJ.R. Reid LAL 05/15/1999 LAL @ HOU W 36 0 0 1 0.0 0 0 - 0 0 - 0 9 9 1 1 1 0 5 13
+p41
+aVDerek Harper LAL 05/15/1999 LAL @ HOU W 28 13 5 9 55.6 0 1 0.0 3 4 75.0 1 4 5 7 0 0 2 0 14
+p42
+aVKobe Bryant LAL 05/15/1999 LAL @ HOU W 47 24 9 25 36.0 1 3 33.3 5 6 83.3 1 5 6 8 3 2 3 1 11
+p43
+aVSean Rooks LAL 05/15/1999 LAL @ HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p44
+aVRick Fox LAL 05/15/1999 LAL @ HOU W 32 9 4 10 40.0 1 4 25.0 0 0 - 3 2 5 1 1 0 4 3 -5
+p45
+aVTravis Knight LAL 05/15/1999 LAL @ HOU W 0 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p46
+aVRobert Horry LAL 05/15/1999 LAL @ HOU W 27 12 5 7 71.4 2 4 50.0 0 0 - 0 3 3 1 1 2 0 5 12
+p47
+aVTyronn Lue LAL 05/15/1999 LAL @ HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p48
+aVDerek Fisher LAL 05/15/1999 LAL @ HOU W 19 2 1 4 25.0 0 1 0.0 0 0 - 1 4 5 5 0 0 1 0 -4
+p49
+aVShaquille O'Neal LAL 05/13/1999 LAL @ HOU L 42 26 9 22 40.9 0 0 - 8 16 50.0 5 5 10 2 1 4 1 2 -6
+p50
+aVKobe Bryant LAL 05/13/1999 LAL @ HOU L 34 13 5 17 29.4 1 4 25.0 2 2 100.0 4 5 9 5 2 4 3 3 0
+p51
+aVDerek Fisher LAL 05/13/1999 LAL @ HOU L 33 7 3 8 37.5 0 5 0.0 1 3 33.3 0 5 5 6 0 0 2 3 -1
+p52
+aVJ.R. Reid LAL 05/13/1999 LAL @ HOU L 24 8 2 3 66.7 0 0 - 4 4 100.0 3 6 9 0 0 1 1 4 6
+p53
+aVSean Rooks LAL 05/13/1999 LAL @ HOU L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 4 -8
+p54
+aVRick Fox LAL 05/13/1999 LAL @ HOU L 18 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 1 0 0 1 5 -19
+p55
+aVGlen Rice LAL 05/13/1999 LAL @ HOU L 42 13 5 13 38.5 1 6 16.7 2 2 100.0 0 1 1 1 0 0 4 1 -13
+p56
+aVRobert Horry LAL 05/13/1999 LAL @ HOU L 24 8 1 5 20.0 1 3 33.3 5 6 83.3 1 5 6 0 0 0 2 3 -16
+p57
+aVDerek Harper LAL 05/13/1999 LAL @ HOU L 14 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -13
+p58
+aVJ.R. Reid LAL 05/11/1999 LAL vs. HOU W 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -4
+p59
+aVRick Fox LAL 05/11/1999 LAL vs. HOU W 15 9 4 8 50.0 1 2 50.0 0 0 - 0 3 3 0 0 1 2 2 -12
+p60
+aVDerek Fisher LAL 05/11/1999 LAL vs. HOU W 30 16 6 11 54.5 4 6 66.7 0 0 - 0 2 2 1 0 0 1 3 26
+p61
+aVTravis Knight LAL 05/11/1999 LAL vs. HOU W 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -4
+p62
+aVShaquille O'Neal LAL 05/11/1999 LAL vs. HOU W 33 28 12 21 57.1 0 0 - 4 9 44.4 2 7 9 7 0 5 2 4 20
+p63
+aVDerek Harper LAL 05/11/1999 LAL vs. HOU W 14 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 3 1 0 0 1 -10
+p64
+aVSean Rooks LAL 05/11/1999 LAL vs. HOU W 14 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 0 0 0 1 0 -8
+p65
+aVRobert Horry LAL 05/11/1999 LAL vs. HOU W 35 6 2 3 66.7 1 1 100.0 1 2 50.0 4 6 10 5 1 3 1 4 20
+p66
+aVGlen Rice LAL 05/11/1999 LAL vs. HOU W 39 14 6 12 50.0 2 4 50.0 0 0 - 0 6 6 2 0 0 1 1 14
+p67
+aVTyronn Lue LAL 05/11/1999 LAL vs. HOU W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p68
+aVKobe Bryant LAL 05/11/1999 LAL vs. HOU W 37 19 8 15 53.3 1 3 33.3 2 2 100.0 2 7 9 5 3 1 4 1 26
+p69
+aVRuben Patterson LAL 05/11/1999 LAL vs. HOU W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p70
+aVShaquille O'Neal LAL 05/09/1999 LAL vs. HOU W 40 27 11 23 47.8 0 0 - 5 14 35.7 6 5 11 4 2 4 4 4 6
+p71
+aVRobert Horry LAL 05/09/1999 LAL vs. HOU W 24 2 1 3 33.3 0 0 - 0 0 - 2 5 7 0 0 0 1 2 7
+p72
+aVGlen Rice LAL 05/09/1999 LAL vs. HOU W 43 29 12 17 70.6 2 3 66.7 3 3 100.0 1 2 3 4 0 1 0 2 6
+p73
+aVSean Rooks LAL 05/09/1999 LAL vs. HOU W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -5
+p74
+aVDerek Fisher LAL 05/09/1999 LAL vs. HOU W 34 20 6 13 46.2 4 6 66.7 4 4 100.0 0 1 1 6 3 0 1 1 11
+p75
+aVRick Fox LAL 05/09/1999 LAL vs. HOU W 23 3 1 5 20.0 0 1 0.0 1 1 100.0 1 0 1 2 0 1 1 2 -4
+p76
+aVJ.R. Reid LAL 05/09/1999 LAL vs. HOU W 23 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 1 0 0 0 6 -6
+p77
+aVDerek Harper LAL 05/09/1999 LAL vs. HOU W 13 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 2 1 0 0 1 -10
+p78
+aVKobe Bryant LAL 05/09/1999 LAL vs. HOU W 28 17 5 9 55.6 1 1 100.0 6 6 100.0 0 5 5 5 0 1 2 4 0
+p79
+a.

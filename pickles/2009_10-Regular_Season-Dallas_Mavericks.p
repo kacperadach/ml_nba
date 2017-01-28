@@ -1,0 +1,1626 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJ.J. Barea DAL 04/14/2010 DAL vs. SAS W 20 4 2 4 50.0 0 2 0.0 0 0 - 0 3 3 1 1 0 1 1 1
+p2
+aVRodrigue Beaubois DAL 04/14/2010 DAL vs. SAS W 7 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p3
+aVJason Terry DAL 04/14/2010 DAL vs. SAS W 26 10 3 11 27.3 2 4 50.0 2 2 100.0 0 1 1 2 3 0 1 3 8
+p4
+aVJason Kidd DAL 04/14/2010 DAL vs. SAS W 28 18 5 12 41.7 3 5 60.0 5 5 100.0 1 6 7 3 0 0 2 1 6
+p5
+aVBrendan Haywood DAL 04/14/2010 DAL vs. SAS W 28 8 3 6 50.0 0 0 - 2 5 40.0 5 10 15 1 0 5 1 3 11
+p6
+aVEduardo Najera DAL 04/14/2010 DAL vs. SAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p7
+aVErick Dampier DAL 04/14/2010 DAL vs. SAS W 18 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 2 0 1 0 3 -4
+p8
+aVShawn Marion DAL 04/14/2010 DAL vs. SAS W 31 8 3 13 23.1 0 0 - 2 4 50.0 1 5 6 4 1 0 3 0 6
+p9
+aVDirk Nowitzki DAL 04/14/2010 DAL vs. SAS W 33 19 8 20 40.0 1 2 50.0 2 2 100.0 0 5 5 5 0 0 1 2 8
+p10
+aVDeShawn Stevenson DAL 04/14/2010 DAL vs. SAS W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 11
+p11
+aVCaron Butler DAL 04/14/2010 DAL vs. SAS W 39 20 7 12 58.3 0 0 - 6 8 75.0 2 3 5 2 3 1 2 2 -6
+p12
+aVMatt Carroll DAL 04/12/2010 DAL @ LAC W 9 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -11
+p13
+aVShawn Marion DAL 04/12/2010 DAL @ LAC W 26 21 9 12 75.0 0 1 0.0 3 3 100.0 0 1 1 1 0 1 1 1 29
+p14
+aVDeShawn Stevenson DAL 04/12/2010 DAL @ LAC W 22 11 4 7 57.1 3 4 75.0 0 0 - 1 1 2 0 0 0 0 1 -6
+p15
+aVDirk Nowitzki DAL 04/12/2010 DAL @ LAC W 23 25 9 13 69.2 3 3 100.0 4 4 100.0 1 7 8 3 2 1 1 3 23
+p16
+aVErick Dampier DAL 04/12/2010 DAL @ LAC W 22 4 1 3 33.3 0 0 - 2 2 100.0 3 3 6 3 0 0 2 2 19
+p17
+aVEduardo Najera DAL 04/12/2010 DAL @ LAC W 25 5 2 6 33.3 1 5 20.0 0 0 - 0 7 7 1 0 1 1 2 0
+p18
+aVJ.J. Barea DAL 04/12/2010 DAL @ LAC W 19 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 7 1 0 0 0 -3
+p19
+aVJason Kidd DAL 04/12/2010 DAL @ LAC W 29 12 5 13 38.5 2 7 28.6 0 0 - 0 0 0 12 1 0 4 2 26
+p20
+aVRodrigue Beaubois DAL 04/12/2010 DAL @ LAC W 18 11 5 8 62.5 0 1 0.0 1 1 100.0 1 5 6 5 2 0 0 1 19
+p21
+aVBrendan Haywood DAL 04/12/2010 DAL @ LAC W 26 8 3 6 50.0 0 0 - 2 5 40.0 2 3 5 3 0 1 1 2 4
+p22
+aVJason Terry DAL 04/12/2010 DAL @ LAC W 21 12 4 7 57.1 2 5 40.0 2 2 100.0 0 1 1 2 0 0 0 1 15
+p23
+aVJ.J. Barea DAL 04/10/2010 DAL @ SAC W 19 10 4 9 44.4 0 1 0.0 2 3 66.7 0 2 2 3 1 0 0 2 -2
+p24
+aVDeShawn Stevenson DAL 04/10/2010 DAL @ SAC W 27 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 1 1 0 0 2 4
+p25
+aVEduardo Najera DAL 04/10/2010 DAL @ SAC W 23 8 3 6 50.0 1 3 33.3 1 2 50.0 1 3 4 1 1 2 2 4 7
+p26
+aVCaron Butler DAL 04/10/2010 DAL @ SAC W 35 15 5 10 50.0 2 3 66.7 3 4 75.0 0 3 3 1 1 0 2 2 26
+p27
+aVBrendan Haywood DAL 04/10/2010 DAL @ SAC W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -7
+p28
+aVRodrigue Beaubois DAL 04/10/2010 DAL @ SAC W 3 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 1
+p29
+aVErick Dampier DAL 04/10/2010 DAL @ SAC W 28 7 2 4 50.0 0 0 - 3 4 75.0 3 3 6 0 1 3 0 4 21
+p30
+aVJason Kidd DAL 04/10/2010 DAL @ SAC W 32 11 4 6 66.7 2 3 66.7 1 2 50.0 0 10 10 13 2 0 3 3 18
+p31
+aVJason Terry DAL 04/10/2010 DAL @ SAC W 27 25 8 14 57.1 3 4 75.0 6 6 100.0 0 2 2 6 2 1 2 1 4
+p32
+aVMatt Carroll DAL 04/10/2010 DAL @ SAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p33
+aVDirk Nowitzki DAL 04/10/2010 DAL @ SAC W 37 39 12 20 60.0 2 2 100.0 13 13 100.0 2 5 7 2 0 0 2 1 15
+p34
+aVErick Dampier DAL 04/09/2010 DAL @ POR W 18 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 1 1 1 -7
+p35
+aVBrendan Haywood DAL 04/09/2010 DAL @ POR W 26 6 1 4 25.0 0 0 - 4 6 66.7 3 1 4 0 0 1 0 1 15
+p36
+aVDirk Nowitzki DAL 04/09/2010 DAL @ POR W 42 40 11 24 45.8 1 2 50.0 17 17 100.0 2 8 10 0 1 0 3 2 0
+p37
+aVJ.J. Barea DAL 04/09/2010 DAL @ POR W 11 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 1 2 2
+p38
+aVJason Terry DAL 04/09/2010 DAL @ POR W 36 12 3 9 33.3 1 3 33.3 5 8 62.5 0 2 2 2 1 1 0 2 11
+p39
+aVDeShawn Stevenson DAL 04/09/2010 DAL @ POR W 17 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 4 -6
+p40
+aVCaron Butler DAL 04/09/2010 DAL @ POR W 38 18 6 16 37.5 2 7 28.6 4 4 100.0 3 4 7 2 2 0 3 5 4
+p41
+aVEduardo Najera DAL 04/09/2010 DAL @ POR W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 4
+p42
+aVJason Kidd DAL 04/09/2010 DAL @ POR W 42 2 1 8 12.5 0 3 0.0 0 0 - 1 11 12 6 3 1 4 1 7
+p43
+aVJ.J. Barea DAL 04/07/2010 DAL vs. MEM W 17 14 4 6 66.7 1 2 50.0 5 6 83.3 0 1 1 6 4 0 2 1 14
+p44
+aVJason Terry DAL 04/07/2010 DAL vs. MEM W 31 16 6 13 46.2 2 5 40.0 2 2 100.0 0 1 1 5 1 0 2 4 32
+p45
+aVJason Kidd DAL 04/07/2010 DAL vs. MEM W 30 12 4 9 44.4 4 5 80.0 0 0 - 1 3 4 10 1 0 1 1 5
+p46
+aVMatt Carroll DAL 04/07/2010 DAL vs. MEM W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p47
+aVRodrigue Beaubois DAL 04/07/2010 DAL vs. MEM W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p48
+aVEduardo Najera DAL 04/07/2010 DAL vs. MEM W 23 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 2 0 2 2 15
+p49
+aVErick Dampier DAL 04/07/2010 DAL vs. MEM W 15 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 2 2 3 -2
+p50
+aVDirk Nowitzki DAL 04/07/2010 DAL vs. MEM W 34 22 9 14 64.3 1 1 100.0 3 3 100.0 2 7 9 0 1 1 1 3 22
+p51
+aVBrendan Haywood DAL 04/07/2010 DAL vs. MEM W 24 11 4 5 80.0 0 0 - 3 4 75.0 0 7 7 1 0 0 0 1 17
+p52
+aVCaron Butler DAL 04/07/2010 DAL vs. MEM W 33 23 10 17 58.8 0 1 0.0 3 4 75.0 3 3 6 2 2 1 1 2 10
+p53
+aVDeShawn Stevenson DAL 04/07/2010 DAL vs. MEM W 26 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 3 0 0 1 3 13
+p54
+aVBrendan Haywood DAL 04/03/2010 DAL vs. OKC L 18 9 3 3 100.0 0 0 - 3 4 75.0 2 1 3 0 0 1 3 2 -19
+p55
+aVDeShawn Stevenson DAL 04/03/2010 DAL vs. OKC L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 0 1
+p56
+aVRodrigue Beaubois DAL 04/03/2010 DAL vs. OKC L 10 7 3 6 50.0 0 2 0.0 1 1 100.0 0 1 1 1 0 0 2 3 -6
+p57
+aVErick Dampier DAL 04/03/2010 DAL vs. OKC L 20 4 2 2 100.0 0 0 - 0 0 - 2 4 6 0 1 2 0 3 4
+p58
+aVJason Terry DAL 04/03/2010 DAL vs. OKC L 24 4 2 10 20.0 0 6 0.0 0 0 - 0 1 1 6 1 0 1 3 -13
+p59
+aVShawn Marion DAL 04/03/2010 DAL vs. OKC L 16 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 5
+p60
+aVJ.J. Barea DAL 04/03/2010 DAL vs. OKC L 19 10 3 6 50.0 0 2 0.0 4 5 80.0 0 0 0 1 0 0 0 4 1
+p61
+aVCaron Butler DAL 04/03/2010 DAL vs. OKC L 40 8 3 11 27.3 0 0 - 2 2 100.0 4 6 10 2 2 0 3 3 -6
+p62
+aVJason Kidd DAL 04/03/2010 DAL vs. OKC L 34 24 10 15 66.7 3 6 50.0 1 2 50.0 1 3 4 6 3 1 2 4 3
+p63
+aVEduardo Najera DAL 04/03/2010 DAL vs. OKC L 14 11 4 5 80.0 2 3 66.7 1 1 100.0 0 0 0 0 0 1 2 2 4
+p64
+aVDirk Nowitzki DAL 04/03/2010 DAL vs. OKC L 44 30 10 19 52.6 0 0 - 10 10 100.0 3 10 13 3 0 0 5 3 1
+p65
+aVJ.J. Barea DAL 04/01/2010 DAL vs. ORL L 17 16 7 9 77.8 2 2 100.0 0 0 - 0 1 1 1 2 0 2 1 -6
+p66
+aVJason Terry DAL 04/01/2010 DAL vs. ORL L 33 16 6 16 37.5 1 5 20.0 3 3 100.0 0 1 1 1 0 0 0 1 -7
+p67
+aVShawn Marion DAL 04/01/2010 DAL vs. ORL L 29 4 2 9 22.2 0 0 - 0 0 - 2 5 7 1 0 0 0 0 -9
+p68
+aVRodrigue Beaubois DAL 04/01/2010 DAL vs. ORL L 11 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 2 0 -3
+p69
+aVCaron Butler DAL 04/01/2010 DAL vs. ORL L 29 3 0 4 0.0 0 0 - 3 4 75.0 1 2 3 2 2 0 3 2 -8
+p70
+aVJason Kidd DAL 04/01/2010 DAL vs. ORL L 35 7 2 8 25.0 1 5 20.0 2 2 100.0 0 5 5 2 1 0 1 1 -17
+p71
+aVErick Dampier DAL 04/01/2010 DAL vs. ORL L 26 4 2 3 66.7 0 0 - 0 0 - 3 8 11 0 1 0 1 5 -6
+p72
+aVDirk Nowitzki DAL 04/01/2010 DAL vs. ORL L 36 24 9 22 40.9 0 1 0.0 6 6 100.0 0 6 6 0 1 1 0 3 -10
+p73
+aVBrendan Haywood DAL 04/01/2010 DAL vs. ORL L 22 6 3 7 42.9 0 0 - 0 0 - 4 3 7 0 2 1 1 4 -9
+p74
+aVCaron Butler DAL 03/31/2010 DAL @ MEM W 27 11 4 10 40.0 1 2 50.0 2 4 50.0 3 10 13 0 2 0 2 0 -13
+p75
+aVJason Terry DAL 03/31/2010 DAL @ MEM W 40 29 11 24 45.8 1 8 12.5 6 6 100.0 1 0 1 6 4 0 3 0 27
+p76
+aVBrendan Haywood DAL 03/31/2010 DAL @ MEM W 32 11 5 7 71.4 0 0 - 1 2 50.0 4 4 8 0 0 1 1 6 5
+p77
+aVErick Dampier DAL 03/31/2010 DAL @ MEM W 16 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 0 2 2 4 5
+p78
+aVRodrigue Beaubois DAL 03/31/2010 DAL @ MEM W 23 10 4 8 50.0 1 2 50.0 1 2 50.0 0 1 1 2 1 1 3 4 14
+p79
+aVJason Kidd DAL 03/31/2010 DAL @ MEM W 42 12 4 7 57.1 4 7 57.1 0 0 - 1 9 10 7 2 0 1 1 2
+p80
+aVShawn Marion DAL 03/31/2010 DAL @ MEM W 27 1 0 6 0.0 0 1 0.0 1 2 50.0 1 3 4 0 0 2 2 3 -18
+p81
+aVDirk Nowitzki DAL 03/31/2010 DAL @ MEM W 46 28 9 23 39.1 3 6 50.0 7 7 100.0 0 5 5 6 2 1 4 4 1
+p82
+aVEduardo Najera DAL 03/31/2010 DAL @ MEM W 12 3 1 3 33.3 1 2 50.0 0 0 - 2 0 2 0 0 0 0 2 -3
+p83
+aVCaron Butler DAL 03/29/2010 DAL vs. DEN W 36 10 4 11 36.4 2 2 100.0 0 0 - 0 7 7 1 2 0 1 3 12
+p84
+aVDeShawn Stevenson DAL 03/29/2010 DAL vs. DEN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p85
+aVErick Dampier DAL 03/29/2010 DAL vs. DEN W 9 4 2 4 50.0 0 0 - 0 0 - 4 1 5 0 0 0 0 1 -6
+p86
+aVJason Terry DAL 03/29/2010 DAL vs. DEN W 25 15 6 10 60.0 3 5 60.0 0 0 - 0 2 2 2 0 0 0 4 -2
+p87
+aVRodrigue Beaubois DAL 03/29/2010 DAL vs. DEN W 15 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 1 3 0 0 2 -3
+p88
+aVShawn Marion DAL 03/29/2010 DAL vs. DEN W 29 21 9 13 69.2 0 0 - 3 3 100.0 0 2 2 2 2 0 2 1 13
+p89
+aVBrendan Haywood DAL 03/29/2010 DAL vs. DEN W 34 10 5 7 71.4 0 0 - 0 2 0.0 2 5 7 1 0 4 1 5 29
+p90
+aVJason Kidd DAL 03/29/2010 DAL vs. DEN W 38 8 2 6 33.3 2 4 50.0 2 2 100.0 0 6 6 10 3 0 1 2 23
+p91
+aVDirk Nowitzki DAL 03/29/2010 DAL vs. DEN W 37 34 7 17 41.2 4 5 80.0 16 17 94.1 3 7 10 10 0 1 2 3 20
+p92
+aVEduardo Najera DAL 03/29/2010 DAL vs. DEN W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -4
+p93
+aVMatt Carroll DAL 03/29/2010 DAL vs. DEN W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -1
+p94
+aVJ.J. Barea DAL 03/27/2010 DAL @ GSW W 21 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 5 0 0 4 1 13
+p95
+aVCaron Butler DAL 03/27/2010 DAL @ GSW W 23 14 5 11 45.5 1 1 100.0 3 4 75.0 0 5 5 2 0 0 0 2 3
+p96
+aVJason Terry DAL 03/27/2010 DAL @ GSW W 23 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 6 2 0 0 1 22
+p97
+aVMatt Carroll DAL 03/27/2010 DAL @ GSW W 7 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 0 1 0 0 0 -9
+p98
+aVJason Kidd DAL 03/27/2010 DAL @ GSW W 30 0 0 5 0.0 0 3 0.0 0 0 - 1 5 6 11 2 0 2 1 18
+p99
+aVBrendan Haywood DAL 03/27/2010 DAL @ GSW W 9 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 0 0 1 2 0 -5
+p100
+aVRodrigue Beaubois DAL 03/27/2010 DAL @ GSW W 30 40 15 22 68.2 9 11 81.8 1 1 100.0 0 8 8 3 0 3 1 2 21
+p101
+aVShawn Marion DAL 03/27/2010 DAL @ GSW W 32 18 9 12 75.0 0 0 - 0 0 - 0 4 4 1 5 0 2 2 14
+p102
+aVDirk Nowitzki DAL 03/27/2010 DAL @ GSW W 30 13 6 14 42.9 1 2 50.0 0 1 0.0 0 10 10 3 2 1 1 0 22
+p103
+aVEduardo Najera DAL 03/27/2010 DAL @ GSW W 29 9 3 6 50.0 3 6 50.0 0 0 - 1 8 9 1 2 1 2 4 15
+p104
+aVDeShawn Stevenson DAL 03/27/2010 DAL @ GSW W 8 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 2 1 0 0 2 -9
+p105
+aVEduardo Najera DAL 03/25/2010 DAL @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p106
+aVJason Terry DAL 03/25/2010 DAL @ POR L 30 11 4 14 28.6 3 6 50.0 0 0 - 0 3 3 2 0 0 1 2 8
+p107
+aVCaron Butler DAL 03/25/2010 DAL @ POR L 36 25 11 19 57.9 1 4 25.0 2 3 66.7 2 7 9 2 2 0 2 2 -6
+p108
+aVShawn Marion DAL 03/25/2010 DAL @ POR L 30 15 7 12 58.3 1 2 50.0 0 0 - 0 4 4 0 0 0 1 1 -19
+p109
+aVRodrigue Beaubois DAL 03/25/2010 DAL @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p110
+aVErick Dampier DAL 03/25/2010 DAL @ POR L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 0 2 -7
+p111
+aVDeShawn Stevenson DAL 03/25/2010 DAL @ POR L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p112
+aVBrendan Haywood DAL 03/25/2010 DAL @ POR L 35 8 4 9 44.4 0 0 - 0 0 - 2 6 8 0 1 4 3 4 -10
+p113
+aVJ.J. Barea DAL 03/25/2010 DAL @ POR L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 6 0 0 0 2 -3
+p114
+aVJason Kidd DAL 03/25/2010 DAL @ POR L 39 11 3 7 42.9 3 6 50.0 2 2 100.0 2 5 7 7 1 0 2 2 -14
+p115
+aVDirk Nowitzki DAL 03/25/2010 DAL @ POR L 42 15 5 13 38.5 1 2 50.0 4 4 100.0 1 6 7 3 2 0 2 3 -10
+p116
+aVJ.J. Barea DAL 03/23/2010 DAL vs. LAC W 9 5 1 3 33.3 0 1 0.0 3 4 75.0 0 1 1 0 0 1 1 0 1
+p117
+aVJason Terry DAL 03/23/2010 DAL vs. LAC W 32 14 6 12 50.0 0 2 0.0 2 3 66.7 0 0 0 7 0 0 1 1 23
+p118
+aVShawn Marion DAL 03/23/2010 DAL vs. LAC W 27 12 6 13 46.2 0 0 - 0 0 - 2 4 6 1 1 1 0 3 -4
+p119
+aVDeShawn Stevenson DAL 03/23/2010 DAL vs. LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p120
+aVRodrigue Beaubois DAL 03/23/2010 DAL vs. LAC W 15 10 3 6 50.0 1 2 50.0 3 4 75.0 1 2 3 0 1 0 0 3 14
+p121
+aVDirk Nowitzki DAL 03/23/2010 DAL vs. LAC W 19 18 8 11 72.7 1 1 100.0 1 1 100.0 0 2 2 2 1 0 1 3 -4
+p122
+aVBrendan Haywood DAL 03/23/2010 DAL vs. LAC W 30 12 4 5 80.0 0 0 - 4 5 80.0 4 6 10 1 1 3 1 1 22
+p123
+aVErick Dampier DAL 03/23/2010 DAL vs. LAC W 18 3 1 5 20.0 0 0 - 1 2 50.0 5 1 6 0 0 2 1 1 -12
+p124
+aVCaron Butler DAL 03/23/2010 DAL vs. LAC W 33 4 2 9 22.2 0 1 0.0 0 0 - 1 5 6 1 2 0 1 1 6
+p125
+aVEduardo Najera DAL 03/23/2010 DAL vs. LAC W 13 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 0 2 0 0 1 6
+p126
+aVJason Kidd DAL 03/23/2010 DAL vs. LAC W 41 26 10 21 47.6 6 11 54.5 0 0 - 0 6 6 12 1 0 2 2 4
+p127
+aVDirk Nowitzki DAL 03/22/2010 DAL @ NOH L 35 16 8 12 66.7 0 0 - 0 0 - 1 4 5 3 0 0 5 3 -19
+p128
+aVShawn Marion DAL 03/22/2010 DAL @ NOH L 36 14 6 12 50.0 0 1 0.0 2 5 40.0 3 5 8 4 1 2 3 3 -1
+p129
+aVErick Dampier DAL 03/22/2010 DAL @ NOH L 10 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -10
+p130
+aVDeShawn Stevenson DAL 03/22/2010 DAL @ NOH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p131
+aVJ.J. Barea DAL 03/22/2010 DAL @ NOH L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -9
+p132
+aVJason Terry DAL 03/22/2010 DAL @ NOH L 29 24 9 16 56.3 5 8 62.5 1 1 100.0 0 2 2 4 0 0 2 1 -23
+p133
+aVRodrigue Beaubois DAL 03/22/2010 DAL @ NOH L 8 9 3 4 75.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 1 -4
+p134
+aVJason Kidd DAL 03/22/2010 DAL @ NOH L 32 6 2 8 25.0 2 4 50.0 0 0 - 0 4 4 6 1 0 3 1 -3
+p135
+aVEduardo Najera DAL 03/22/2010 DAL @ NOH L 17 6 3 4 75.0 0 1 0.0 0 1 0.0 0 0 0 1 2 0 0 2 -3
+p136
+aVMatt Carroll DAL 03/22/2010 DAL @ NOH L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p137
+aVBrendan Haywood DAL 03/22/2010 DAL @ NOH L 26 10 5 8 62.5 0 0 - 0 0 - 4 5 9 0 0 2 2 2 -2
+p138
+aVCaron Butler DAL 03/22/2010 DAL @ NOH L 33 12 5 13 38.5 0 1 0.0 2 4 50.0 2 4 6 3 0 1 1 1 -10
+p139
+aVEduardo Najera DAL 03/20/2010 DAL vs. BOS L 19 3 1 1 100.0 1 1 100.0 0 0 - 0 6 6 1 1 0 0 4 11
+p140
+aVShawn Marion DAL 03/20/2010 DAL vs. BOS L 32 16 7 13 53.8 0 0 - 2 2 100.0 3 1 4 0 1 0 1 3 -8
+p141
+aVRodrigue Beaubois DAL 03/20/2010 DAL vs. BOS L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p142
+aVDirk Nowitzki DAL 03/20/2010 DAL vs. BOS L 42 28 11 19 57.9 1 1 100.0 5 6 83.3 2 3 5 2 0 0 1 2 -12
+p143
+aVBrendan Haywood DAL 03/20/2010 DAL vs. BOS L 26 3 1 3 33.3 0 0 - 1 2 50.0 0 6 6 1 0 2 3 3 -7
+p144
+aVCaron Butler DAL 03/20/2010 DAL vs. BOS L 30 9 3 14 21.4 0 2 0.0 3 4 75.0 3 1 4 1 3 0 2 2 -6
+p145
+aVJason Terry DAL 03/20/2010 DAL vs. BOS L 32 18 8 16 50.0 1 4 25.0 1 1 100.0 0 1 1 2 3 0 3 3 -2
+p146
+aVJ.J. Barea DAL 03/20/2010 DAL vs. BOS L 12 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 4 0 0 2 1 7
+p147
+aVErick Dampier DAL 03/20/2010 DAL vs. BOS L 9 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 2 1 0 2 3 -10
+p148
+aVJason Kidd DAL 03/20/2010 DAL vs. BOS L 37 11 4 8 50.0 1 4 25.0 2 2 100.0 1 5 6 9 1 0 3 0 -16
+p149
+aVBrendan Haywood DAL 03/17/2010 DAL vs. CHI W 26 4 1 3 33.3 0 0 - 2 4 50.0 2 1 3 1 0 2 2 3 4
+p150
+aVErick Dampier DAL 03/17/2010 DAL vs. CHI W 20 9 4 6 66.7 0 0 - 1 1 100.0 1 4 5 1 1 2 1 5 6
+p151
+aVJason Terry DAL 03/17/2010 DAL vs. CHI W 25 9 4 10 40.0 1 4 25.0 0 0 - 0 0 0 2 1 1 0 1 -5
+p152
+aVDeShawn Stevenson DAL 03/17/2010 DAL vs. CHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 6
+p153
+aVCaron Butler DAL 03/17/2010 DAL vs. CHI W 35 27 6 11 54.5 1 2 50.0 14 16 87.5 1 4 5 3 1 0 0 4 7
+p154
+aVRodrigue Beaubois DAL 03/17/2010 DAL vs. CHI W 8 11 4 5 80.0 1 2 50.0 2 2 100.0 1 1 2 0 0 0 0 0 3
+p155
+aVShawn Marion DAL 03/17/2010 DAL vs. CHI W 35 12 6 12 50.0 0 1 0.0 0 2 0.0 3 4 7 0 0 0 3 0 2
+p156
+aVJ.J. Barea DAL 03/17/2010 DAL vs. CHI W 24 15 6 9 66.7 3 4 75.0 0 0 - 1 3 4 5 0 0 1 1 -1
+p157
+aVDirk Nowitzki DAL 03/17/2010 DAL vs. CHI W 37 26 10 16 62.5 0 0 - 6 8 75.0 1 6 7 5 3 0 2 2 5
+p158
+aVJason Kidd DAL 03/17/2010 DAL vs. CHI W 24 0 0 5 0.0 0 4 0.0 0 0 - 0 2 2 4 0 0 3 0 8
+p159
+aVJason Kidd DAL 03/13/2010 DAL vs. NYK L 37 15 5 12 41.7 4 7 57.1 1 2 50.0 2 3 5 6 0 0 4 1 -22
+p160
+aVDirk Nowitzki DAL 03/13/2010 DAL vs. NYK L 38 20 5 13 38.5 0 1 0.0 10 10 100.0 1 11 12 3 0 2 1 3 -24
+p161
+aVShawn Marion DAL 03/13/2010 DAL vs. NYK L 32 14 6 15 40.0 0 0 - 2 2 100.0 3 5 8 1 1 1 2 3 -19
+p162
+aVEduardo Najera DAL 03/13/2010 DAL vs. NYK L 19 4 2 6 33.3 0 2 0.0 0 0 - 2 1 3 0 0 0 0 1 -14
+p163
+aVCaron Butler DAL 03/13/2010 DAL vs. NYK L 30 7 2 6 33.3 0 1 0.0 3 6 50.0 1 2 3 1 3 0 2 2 -25
+p164
+aVMatt Carroll DAL 03/13/2010 DAL vs. NYK L 6 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 0 0 0 1 1 -6
+p165
+aVBrendan Haywood DAL 03/13/2010 DAL vs. NYK L 11 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 0 0 2 1 0 -10
+p166
+aVErick Dampier DAL 03/13/2010 DAL vs. NYK L 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -10
+p167
+aVRodrigue Beaubois DAL 03/13/2010 DAL vs. NYK L 24 13 6 11 54.5 1 4 25.0 0 2 0.0 0 0 0 0 1 0 2 3 -25
+p168
+aVJ.J. Barea DAL 03/13/2010 DAL vs. NYK L 23 14 6 10 60.0 2 4 50.0 0 0 - 0 2 2 3 0 0 2 0 -14
+p169
+aVDeShawn Stevenson DAL 03/13/2010 DAL vs. NYK L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p170
+aVDeShawn Stevenson DAL 03/10/2010 DAL vs. NJN W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p171
+aVJason Kidd DAL 03/10/2010 DAL vs. NJN W 44 20 6 13 46.2 5 8 62.5 3 4 75.0 0 4 4 9 4 1 2 1 11
+p172
+aVCaron Butler DAL 03/10/2010 DAL vs. NJN W 31 18 7 14 50.0 0 1 0.0 4 4 100.0 1 1 2 2 1 0 2 4 0
+p173
+aVRodrigue Beaubois DAL 03/10/2010 DAL vs. NJN W 26 16 6 12 50.0 1 3 33.3 3 3 100.0 0 1 1 3 0 0 1 6 3
+p174
+aVBrendan Haywood DAL 03/10/2010 DAL vs. NJN W 24 11 4 6 66.7 0 0 - 3 5 60.0 3 7 10 1 0 2 0 1 11
+p175
+aVShawn Marion DAL 03/10/2010 DAL vs. NJN W 40 14 5 10 50.0 0 0 - 4 4 100.0 2 11 13 0 1 3 1 1 8
+p176
+aVDirk Nowitzki DAL 03/10/2010 DAL vs. NJN W 40 12 3 16 18.8 0 1 0.0 6 7 85.7 0 5 5 4 0 1 5 3 6
+p177
+aVEduardo Najera DAL 03/10/2010 DAL vs. NJN W 16 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 1 0 0 1 1
+p178
+aVErick Dampier DAL 03/10/2010 DAL vs. NJN W 4 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 1 0 0 0 3
+p179
+aVJ.J. Barea DAL 03/08/2010 DAL @ MIN W 30 9 4 8 50.0 1 2 50.0 0 0 - 1 3 4 9 0 0 2 1 16
+p180
+aVMatt Carroll DAL 03/08/2010 DAL @ MIN W 8 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 3 9
+p181
+aVEduardo Najera DAL 03/08/2010 DAL @ MIN W 26 9 3 5 60.0 1 3 33.3 2 2 100.0 1 2 3 1 1 0 1 3 -2
+p182
+aVShawn Marion DAL 03/08/2010 DAL @ MIN W 38 29 14 25 56.0 0 0 - 1 2 50.0 5 9 14 0 3 0 0 3 12
+p183
+aVJason Kidd DAL 03/08/2010 DAL @ MIN W 36 12 4 8 50.0 2 5 40.0 2 2 100.0 0 4 4 9 3 0 3 3 4
+p184
+aVRodrigue Beaubois DAL 03/08/2010 DAL @ MIN W 22 11 4 12 33.3 0 3 0.0 3 4 75.0 1 4 5 4 1 1 1 2 -1
+p185
+aVDeShawn Stevenson DAL 03/08/2010 DAL @ MIN W 8 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 0 8
+p186
+aVCaron Butler DAL 03/08/2010 DAL @ MIN W 42 23 9 19 47.4 3 6 50.0 2 2 100.0 0 2 2 2 1 1 1 5 5
+p187
+aVDirk Nowitzki DAL 03/08/2010 DAL @ MIN W 30 24 8 15 53.3 0 0 - 8 10 80.0 1 5 6 3 1 1 0 4 14
+p188
+aVJason Kidd DAL 03/06/2010 DAL @ CHI W 39 6 2 6 33.3 2 5 40.0 0 0 - 2 9 11 15 1 0 2 2 19
+p189
+aVRodrigue Beaubois DAL 03/06/2010 DAL @ CHI W 35 24 10 17 58.8 1 6 16.7 3 3 100.0 1 4 5 5 1 1 0 1 -5
+p190
+aVDirk Nowitzki DAL 03/06/2010 DAL @ CHI W 37 27 11 22 50.0 0 2 0.0 5 6 83.3 1 4 5 2 1 2 3 3 -10
+p191
+aVDeShawn Stevenson DAL 03/06/2010 DAL @ CHI W 11 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p192
+aVShawn Marion DAL 03/06/2010 DAL @ CHI W 38 18 9 12 75.0 0 0 - 0 0 - 0 4 4 1 2 2 0 3 14
+p193
+aVJ.J. Barea DAL 03/06/2010 DAL @ CHI W 20 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 5 0 0 0 0 3
+p194
+aVEduardo Najera DAL 03/06/2010 DAL @ CHI W 20 11 3 6 50.0 3 6 50.0 2 2 100.0 1 0 1 1 0 1 0 1 8
+p195
+aVCaron Butler DAL 03/06/2010 DAL @ CHI W 39 24 10 17 58.8 3 4 75.0 1 2 50.0 1 4 5 2 0 0 1 3 10
+p196
+aVShawn Marion DAL 03/05/2010 DAL vs. SAC W 30 12 5 7 71.4 0 0 - 2 2 100.0 2 5 7 3 3 1 0 4 13
+p197
+aVEduardo Najera DAL 03/05/2010 DAL vs. SAC W 26 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 2 0 1 0 1 5
+p198
+aVRodrigue Beaubois DAL 03/05/2010 DAL vs. SAC W 24 22 9 14 64.3 3 6 50.0 1 1 100.0 0 2 2 1 1 0 1 1 3
+p199
+aVBrendan Haywood DAL 03/05/2010 DAL vs. SAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p200
+aVJason Kidd DAL 03/05/2010 DAL vs. SAC W 35 17 5 9 55.6 3 5 60.0 4 4 100.0 0 5 5 12 1 0 4 4 17
+p201
+aVDirk Nowitzki DAL 03/05/2010 DAL vs. SAC W 42 31 12 26 46.2 0 0 - 7 7 100.0 2 10 12 3 0 3 1 2 -3
+p202
+aVCaron Butler DAL 03/05/2010 DAL vs. SAC W 34 12 6 11 54.5 0 1 0.0 0 0 - 0 5 5 0 3 1 2 1 7
+p203
+aVJ.J. Barea DAL 03/05/2010 DAL vs. SAC W 30 8 3 9 33.3 0 2 0.0 2 2 100.0 2 0 2 7 1 0 0 0 2
+p204
+aVDeShawn Stevenson DAL 03/05/2010 DAL vs. SAC W 12 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 0 1 0 0 1 0
+p205
+aVCaron Butler DAL 03/03/2010 DAL vs. MIN W 34 14 6 15 40.0 0 1 0.0 2 2 100.0 0 5 5 4 2 0 2 4 4
+p206
+aVDirk Nowitzki DAL 03/03/2010 DAL vs. MIN W 39 22 6 14 42.9 0 0 - 10 10 100.0 2 3 5 3 1 0 1 4 1
+p207
+aVRodrigue Beaubois DAL 03/03/2010 DAL vs. MIN W 29 17 6 9 66.7 3 5 60.0 2 3 66.7 0 2 2 4 0 1 2 3 12
+p208
+aVShawn Marion DAL 03/03/2010 DAL vs. MIN W 31 17 8 14 57.1 1 1 100.0 0 0 - 3 4 7 0 1 1 2 1 4
+p209
+aVBrendan Haywood DAL 03/03/2010 DAL vs. MIN W 25 8 4 6 66.7 0 0 - 0 0 - 4 3 7 0 0 1 2 3 -12
+p210
+aVJason Terry DAL 03/03/2010 DAL vs. MIN W 34 26 9 18 50.0 5 8 62.5 3 3 100.0 0 0 0 5 2 0 2 2 8
+p211
+aVJ.J. Barea DAL 03/03/2010 DAL vs. MIN W 22 8 4 8 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 3 -11
+p212
+aVDeShawn Stevenson DAL 03/03/2010 DAL vs. MIN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -6
+p213
+aVEduardo Najera DAL 03/03/2010 DAL vs. MIN W 23 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 3 0 0 0 1 15
+p214
+aVShawn Marion DAL 03/01/2010 DAL @ CHA W 33 6 3 6 50.0 0 0 - 0 0 - 1 4 5 2 3 1 0 1 -4
+p215
+aVJason Kidd DAL 03/01/2010 DAL @ CHA W 38 5 1 9 11.1 1 7 14.3 2 4 50.0 0 5 5 7 1 1 3 4 3
+p216
+aVCaron Butler DAL 03/01/2010 DAL @ CHA W 33 22 10 16 62.5 0 3 0.0 2 2 100.0 0 2 2 2 3 0 2 2 5
+p217
+aVDirk Nowitzki DAL 03/01/2010 DAL @ CHA W 42 27 12 23 52.2 0 0 - 3 3 100.0 1 12 13 1 1 2 1 3 5
+p218
+aVEduardo Najera DAL 03/01/2010 DAL @ CHA W 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 2 0 3 1
+p219
+aVBrendan Haywood DAL 03/01/2010 DAL @ CHA W 33 7 2 5 40.0 0 0 - 3 4 75.0 2 4 6 1 0 1 2 4 4
+p220
+aVJ.J. Barea DAL 03/01/2010 DAL @ CHA W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 2 0 2 1 2
+p221
+aVJason Terry DAL 03/01/2010 DAL @ CHA W 34 20 8 17 47.1 2 6 33.3 2 2 100.0 1 1 2 4 1 1 2 2 9
+p222
+aVEduardo Najera DAL 02/28/2010 DAL vs. NOH W 15 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 5 2
+p223
+aVBrendan Haywood DAL 02/28/2010 DAL vs. NOH W 33 12 4 6 66.7 0 0 - 4 5 80.0 5 4 9 0 2 2 0 3 8
+p224
+aVJ.J. Barea DAL 02/28/2010 DAL vs. NOH W 17 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 9 0 0 2 1 -1
+p225
+aVCaron Butler DAL 02/28/2010 DAL vs. NOH W 40 19 9 18 50.0 0 1 0.0 1 2 50.0 1 4 5 1 4 1 0 2 13
+p226
+aVJason Terry DAL 02/28/2010 DAL vs. NOH W 33 11 5 10 50.0 1 5 20.0 0 0 - 0 1 1 6 0 0 1 3 8
+p227
+aVDeShawn Stevenson DAL 02/28/2010 DAL vs. NOH W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p228
+aVDirk Nowitzki DAL 02/28/2010 DAL vs. NOH W 39 36 14 25 56.0 0 0 - 8 9 88.9 1 7 8 7 1 0 0 3 5
+p229
+aVShawn Marion DAL 02/28/2010 DAL vs. NOH W 26 9 4 8 50.0 0 0 - 1 1 100.0 4 3 7 3 0 0 2 1 6
+p230
+aVJason Kidd DAL 02/28/2010 DAL vs. NOH W 31 13 5 12 41.7 3 7 42.9 0 0 - 1 8 9 5 2 0 7 1 9
+p231
+aVJ.J. Barea DAL 02/26/2010 DAL @ ATL W 20 8 4 8 50.0 0 3 0.0 0 0 - 0 5 5 6 0 0 2 4 17
+p232
+aVEduardo Najera DAL 02/26/2010 DAL @ ATL W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 4 -6
+p233
+aVJason Kidd DAL 02/26/2010 DAL @ ATL W 46 19 7 18 38.9 4 10 40.0 1 2 50.0 3 13 16 17 2 0 3 1 14
+p234
+aVDirk Nowitzki DAL 02/26/2010 DAL @ ATL W 46 37 15 26 57.7 2 2 100.0 5 5 100.0 1 8 9 4 1 1 2 2 14
+p235
+aVShawn Marion DAL 02/26/2010 DAL @ ATL W 33 14 7 11 63.6 0 0 - 0 0 - 2 3 5 0 1 2 3 2 -4
+p236
+aVDeShawn Stevenson DAL 02/26/2010 DAL @ ATL W 28 3 1 5 20.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 2 1 -23
+p237
+aVJason Terry DAL 02/26/2010 DAL @ ATL W 39 17 8 16 50.0 1 4 25.0 0 0 - 1 2 3 6 0 0 0 0 14
+p238
+aVBrendan Haywood DAL 02/26/2010 DAL @ ATL W 43 11 5 6 83.3 0 0 - 1 2 50.0 5 6 11 4 1 3 1 4 14
+p239
+aVDeShawn Stevenson DAL 02/24/2010 DAL vs. LAL W 24 3 1 5 20.0 0 3 0.0 1 2 50.0 1 2 3 1 1 0 0 4 4
+p240
+aVDirk Nowitzki DAL 02/24/2010 DAL vs. LAL W 42 31 10 19 52.6 0 0 - 11 11 100.0 1 8 9 1 1 0 1 2 10
+p241
+aVEduardo Najera DAL 02/24/2010 DAL vs. LAL W 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 3 -3
+p242
+aVJason Terry DAL 02/24/2010 DAL vs. LAL W 33 30 10 20 50.0 4 8 50.0 6 6 100.0 1 2 3 3 1 0 4 2 3
+p243
+aVBrendan Haywood DAL 02/24/2010 DAL vs. LAL W 39 11 4 6 66.7 0 0 - 3 4 75.0 4 5 9 2 1 5 1 3 6
+p244
+aVJ.J. Barea DAL 02/24/2010 DAL vs. LAL W 5 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 0 1
+p245
+aVRodrigue Beaubois DAL 02/24/2010 DAL vs. LAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 1 3 0 1
+p246
+aVJason Kidd DAL 02/24/2010 DAL vs. LAL W 40 14 4 12 33.3 4 9 44.4 2 2 100.0 2 5 7 13 1 0 2 3 1
+p247
+aVShawn Marion DAL 02/24/2010 DAL vs. LAL W 42 10 5 11 45.5 0 0 - 0 1 0.0 2 5 7 2 1 0 5 3 2
+p248
+aVJason Terry DAL 02/22/2010 DAL vs. IND W 23 14 5 10 50.0 1 1 100.0 3 4 75.0 0 1 1 2 3 0 1 3 1
+p249
+aVJ.J. Barea DAL 02/22/2010 DAL vs. IND W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -13
+p250
+aVJason Kidd DAL 02/22/2010 DAL vs. IND W 28 10 4 9 44.4 2 5 40.0 0 0 - 0 3 3 7 0 0 2 0 16
+p251
+aVEduardo Najera DAL 02/22/2010 DAL vs. IND W 15 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 0 0 0 0 2 -5
+p252
+aVCaron Butler DAL 02/22/2010 DAL vs. IND W 30 8 3 10 30.0 0 0 - 2 4 50.0 0 5 5 3 2 1 4 1 22
+p253
+aVMatt Carroll DAL 02/22/2010 DAL vs. IND W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p254
+aVShawn Marion DAL 02/22/2010 DAL vs. IND W 30 8 4 11 36.4 0 0 - 0 0 - 2 4 6 3 1 0 3 0 7
+p255
+aVRodrigue Beaubois DAL 02/22/2010 DAL vs. IND W 18 6 2 8 25.0 0 2 0.0 2 2 100.0 0 3 3 2 0 0 0 3 -4
+p256
+aVDirk Nowitzki DAL 02/22/2010 DAL vs. IND W 32 23 7 14 50.0 0 1 0.0 9 9 100.0 1 6 7 1 0 1 2 3 25
+p257
+aVDeShawn Stevenson DAL 02/22/2010 DAL vs. IND W 23 7 3 7 42.9 1 2 50.0 0 0 - 1 3 4 2 0 0 0 2 -8
+p258
+aVBrendan Haywood DAL 02/22/2010 DAL vs. IND W 33 13 3 6 50.0 0 1 0.0 7 12 58.3 2 18 20 0 0 3 1 1 14
+p259
+aVDeShawn Stevenson DAL 02/20/2010 DAL vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p260
+aVJason Terry DAL 02/20/2010 DAL vs. MIA W 27 4 0 10 0.0 0 6 0.0 4 4 100.0 0 2 2 4 0 0 1 3 -12
+p261
+aVJason Kidd DAL 02/20/2010 DAL vs. MIA W 40 21 5 8 62.5 3 5 60.0 8 9 88.9 1 4 5 11 3 1 1 1 14
+p262
+aVEduardo Najera DAL 02/20/2010 DAL vs. MIA W 11 2 1 2 50.0 0 1 0.0 0 0 - 2 2 4 0 1 0 0 2 6
+p263
+aVJ.J. Barea DAL 02/20/2010 DAL vs. MIA W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -8
+p264
+aVCaron Butler DAL 02/20/2010 DAL vs. MIA W 42 20 7 13 53.8 0 1 0.0 6 8 75.0 1 3 4 3 1 0 2 4 0
+p265
+aVShawn Marion DAL 02/20/2010 DAL vs. MIA W 34 11 5 6 83.3 0 0 - 1 2 50.0 0 5 5 0 1 0 0 2 17
+p266
+aVDirk Nowitzki DAL 02/20/2010 DAL vs. MIA W 40 28 10 21 47.6 0 2 0.0 8 8 100.0 0 5 5 2 1 1 1 1 9
+p267
+aVBrendan Haywood DAL 02/20/2010 DAL vs. MIA W 39 11 5 10 50.0 0 0 - 1 2 50.0 5 6 11 4 0 1 1 1 6
+p268
+aVEduardo Najera DAL 02/19/2010 DAL @ ORL W 13 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 0 1 1 1 2 -10
+p269
+aVDirk Nowitzki DAL 02/19/2010 DAL @ ORL W 39 23 10 24 41.7 1 1 100.0 2 2 100.0 0 4 4 5 2 3 1 3 4
+p270
+aVJason Terry DAL 02/19/2010 DAL @ ORL W 34 16 6 11 54.5 1 2 50.0 3 4 75.0 3 4 7 4 0 0 2 1 8
+p271
+aVShawn Marion DAL 02/19/2010 DAL @ ORL W 33 4 1 6 16.7 0 0 - 2 2 100.0 1 5 6 3 0 0 1 2 5
+p272
+aVJason Kidd DAL 02/19/2010 DAL @ ORL W 40 10 4 8 50.0 2 6 33.3 0 0 - 0 8 8 8 4 0 3 2 8
+p273
+aVJ.J. Barea DAL 02/19/2010 DAL @ ORL W 8 6 2 3 66.7 0 1 0.0 2 3 66.7 0 0 0 0 0 0 2 1 2
+p274
+aVBrendan Haywood DAL 02/19/2010 DAL @ ORL W 36 15 6 10 60.0 0 0 - 3 4 75.0 2 7 9 1 0 2 0 3 20
+p275
+aVCaron Butler DAL 02/19/2010 DAL @ ORL W 38 16 7 18 38.9 0 3 0.0 2 3 66.7 2 5 7 2 2 1 0 2 13
+p276
+aVCaron Butler DAL 02/17/2010 DAL vs. PHX W 39 15 6 16 37.5 0 0 - 3 4 75.0 0 5 5 2 1 0 2 2 10
+p277
+aVJason Terry DAL 02/17/2010 DAL vs. PHX W 34 17 6 15 40.0 1 6 16.7 4 4 100.0 1 2 3 3 2 0 1 2 5
+p278
+aVShawn Marion DAL 02/17/2010 DAL vs. PHX W 33 14 5 12 41.7 0 0 - 4 6 66.7 4 6 10 3 0 0 2 5 2
+p279
+aVJason Kidd DAL 02/17/2010 DAL vs. PHX W 42 18 6 11 54.5 4 8 50.0 2 2 100.0 2 5 7 10 7 0 1 4 14
+p280
+aVEduardo Najera DAL 02/17/2010 DAL vs. PHX W 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 1 1 1 4
+p281
+aVDirk Nowitzki DAL 02/17/2010 DAL vs. PHX W 41 28 11 24 45.8 0 1 0.0 6 7 85.7 3 4 7 3 1 1 2 2 14
+p282
+aVJ.J. Barea DAL 02/17/2010 DAL vs. PHX W 6 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -4
+p283
+aVBrendan Haywood DAL 02/17/2010 DAL vs. PHX W 34 10 5 7 71.4 0 0 - 0 2 0.0 5 4 9 2 0 5 2 2 5
+p284
+aVShawn Marion DAL 02/16/2010 DAL @ OKC L 33 8 3 11 27.3 0 0 - 2 2 100.0 3 3 6 1 0 0 1 2 6
+p285
+aVJason Terry DAL 02/16/2010 DAL @ OKC L 34 14 4 15 26.7 3 9 33.3 3 3 100.0 0 2 2 4 1 0 1 4 -9
+p286
+aVDirk Nowitzki DAL 02/16/2010 DAL @ OKC L 36 24 9 22 40.9 0 1 0.0 6 6 100.0 3 6 9 6 0 0 2 2 -18
+p287
+aVBrendan Haywood DAL 02/16/2010 DAL @ OKC L 15 7 3 7 42.9 0 0 - 1 4 25.0 3 3 6 0 0 1 0 0 -16
+p288
+aVDeShawn Stevenson DAL 02/16/2010 DAL @ OKC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p289
+aVJason Kidd DAL 02/16/2010 DAL @ OKC L 36 12 4 10 40.0 3 7 42.9 1 2 50.0 0 8 8 5 1 2 3 5 -4
+p290
+aVErick Dampier DAL 02/16/2010 DAL @ OKC L 31 4 2 4 50.0 0 0 - 0 0 - 2 11 13 3 0 3 0 1 6
+p291
+aVEduardo Najera DAL 02/16/2010 DAL @ OKC L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -3
+p292
+aVJ.J. Barea DAL 02/16/2010 DAL @ OKC L 12 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 2 -9
+p293
+aVCaron Butler DAL 02/16/2010 DAL @ OKC L 31 13 4 16 25.0 1 2 50.0 4 4 100.0 4 2 6 1 1 1 4 4 -13
+p294
+aVRodrigue Beaubois DAL 02/09/2010 DAL @ DEN L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -4
+p295
+aVQuinton Ross DAL 02/09/2010 DAL @ DEN L 17 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 1 1 0 1 1 0
+p296
+aVDrew Gooden DAL 02/09/2010 DAL @ DEN L 27 8 2 4 50.0 0 0 - 4 4 100.0 0 6 6 1 1 0 2 4 -21
+p297
+aVJames Singleton DAL 02/09/2010 DAL @ DEN L 22 11 4 9 44.4 1 3 33.3 2 2 100.0 3 2 5 2 2 0 1 2 -17
+p298
+aVJ.J. Barea DAL 02/09/2010 DAL @ DEN L 13 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 1 0 1 1 0 -18
+p299
+aVDirk Nowitzki DAL 02/09/2010 DAL @ DEN L 31 17 5 17 29.4 0 2 0.0 7 7 100.0 0 4 4 1 0 0 3 2 -22
+p300
+aVJason Kidd DAL 02/09/2010 DAL @ DEN L 29 9 3 5 60.0 3 4 75.0 0 0 - 0 1 1 5 1 0 4 1 -25
+p301
+aVJason Terry DAL 02/09/2010 DAL @ DEN L 28 16 3 8 37.5 1 2 50.0 9 9 100.0 0 0 0 2 1 0 1 2 -21
+p302
+aVMatt Carroll DAL 02/09/2010 DAL @ DEN L 14 4 2 6 33.3 0 3 0.0 0 0 - 1 1 2 1 1 0 2 0 -4
+p303
+aVEduardo Najera DAL 02/09/2010 DAL @ DEN L 16 3 1 2 50.0 0 1 0.0 1 2 50.0 1 2 3 0 0 0 0 0 -12
+p304
+aVJosh Howard DAL 02/09/2010 DAL @ DEN L 31 14 5 12 41.7 1 3 33.3 3 4 75.0 1 2 3 1 1 0 0 3 -36
+p305
+aVJosh Howard DAL 02/08/2010 DAL @ GSW W 37 25 7 12 58.3 1 2 50.0 10 12 83.3 0 3 3 1 0 0 1 4 14
+p306
+aVRodrigue Beaubois DAL 02/08/2010 DAL @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -4
+p307
+aVJason Kidd DAL 02/08/2010 DAL @ GSW W 40 17 5 9 55.6 4 6 66.7 3 4 75.0 0 4 4 12 3 0 1 3 8
+p308
+aVDrew Gooden DAL 02/08/2010 DAL @ GSW W 41 24 8 14 57.1 0 0 - 8 8 100.0 5 5 10 2 1 1 4 1 21
+p309
+aVJason Terry DAL 02/08/2010 DAL @ GSW W 42 36 9 17 52.9 6 9 66.7 12 13 92.3 0 6 6 9 3 0 3 1 17
+p310
+aVEduardo Najera DAL 02/08/2010 DAL @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p311
+aVShawn Marion DAL 02/08/2010 DAL @ GSW W 34 5 2 5 40.0 0 0 - 1 2 50.0 1 6 7 5 1 0 3 2 1
+p312
+aVDirk Nowitzki DAL 02/08/2010 DAL @ GSW W 29 15 4 9 44.4 0 2 0.0 7 7 100.0 0 8 8 1 0 0 0 5 1
+p313
+aVJ.J. Barea DAL 02/08/2010 DAL @ GSW W 12 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 0 0 2 1 -1
+p314
+aVShawn Marion DAL 02/05/2010 DAL vs. MIN L 32 10 4 13 30.8 0 0 - 2 2 100.0 4 2 6 2 0 2 2 3 -20
+p315
+aVDirk Nowitzki DAL 02/05/2010 DAL vs. MIN L 37 21 6 15 40.0 0 1 0.0 9 10 90.0 1 7 8 4 0 0 1 4 2
+p316
+aVQuinton Ross DAL 02/05/2010 DAL vs. MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p317
+aVJason Terry DAL 02/05/2010 DAL vs. MIN L 40 20 7 17 41.2 3 6 50.0 3 4 75.0 0 3 3 3 3 0 0 1 -12
+p318
+aVJason Kidd DAL 02/05/2010 DAL vs. MIN L 37 17 4 9 44.4 2 5 40.0 7 7 100.0 2 4 6 7 4 2 5 0 -9
+p319
+aVJosh Howard DAL 02/05/2010 DAL vs. MIN L 19 11 4 11 36.4 0 2 0.0 3 4 75.0 2 4 6 1 0 0 0 3 -3
+p320
+aVDrew Gooden DAL 02/05/2010 DAL vs. MIN L 18 7 2 3 66.7 0 0 - 3 4 75.0 2 0 2 0 0 1 1 3 -2
+p321
+aVRodrigue Beaubois DAL 02/05/2010 DAL vs. MIN L 24 17 6 10 60.0 4 5 80.0 1 2 50.0 1 0 1 2 2 0 4 4 4
+p322
+aVErick Dampier DAL 02/05/2010 DAL vs. MIN L 29 5 2 3 66.7 0 0 - 1 2 50.0 2 8 10 0 0 0 1 4 -5
+p323
+aVJason Terry DAL 02/03/2010 DAL vs. GSW W 38 21 8 17 47.1 1 4 25.0 4 5 80.0 0 1 1 6 1 0 3 2 -4
+p324
+aVDirk Nowitzki DAL 02/03/2010 DAL vs. GSW W 31 20 7 11 63.6 0 0 - 6 7 85.7 2 5 7 2 0 0 1 0 2
+p325
+aVJames Singleton DAL 02/03/2010 DAL vs. GSW W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p326
+aVRodrigue Beaubois DAL 02/03/2010 DAL vs. GSW W 16 8 2 5 40.0 1 1 100.0 3 3 100.0 0 2 2 2 0 0 1 4 10
+p327
+aVShawn Marion DAL 02/03/2010 DAL vs. GSW W 33 18 9 11 81.8 0 0 - 0 0 - 1 8 9 0 1 2 3 2 5
+p328
+aVDrew Gooden DAL 02/03/2010 DAL vs. GSW W 27 16 5 9 55.6 0 0 - 6 6 100.0 2 2 4 2 0 0 1 1 10
+p329
+aVEduardo Najera DAL 02/03/2010 DAL vs. GSW W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -2
+p330
+aVJosh Howard DAL 02/03/2010 DAL vs. GSW W 31 19 9 15 60.0 1 5 20.0 0 0 - 1 1 2 2 0 0 1 4 13
+p331
+aVQuinton Ross DAL 02/03/2010 DAL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p332
+aVJason Kidd DAL 02/03/2010 DAL vs. GSW W 34 6 2 8 25.0 2 7 28.6 0 0 - 0 3 3 16 6 0 4 1 5
+p333
+aVJ.J. Barea DAL 02/03/2010 DAL vs. GSW W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 2 0 0 1 0 7
+p334
+aVEduardo Najera DAL 02/01/2010 DAL @ UTA L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p335
+aVJosh Howard DAL 02/01/2010 DAL @ UTA L 11 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -5
+p336
+aVDrew Gooden DAL 02/01/2010 DAL @ UTA L 28 8 3 9 33.3 0 0 - 2 2 100.0 3 4 7 0 0 2 1 3 -19
+p337
+aVShawn Marion DAL 02/01/2010 DAL @ UTA L 33 10 5 8 62.5 0 0 - 0 0 - 1 6 7 0 1 1 1 1 -12
+p338
+aVJ.J. Barea DAL 02/01/2010 DAL @ UTA L 18 12 4 5 80.0 0 0 - 4 4 100.0 0 1 1 1 0 0 5 2 -10
+p339
+aVMatt Carroll DAL 02/01/2010 DAL @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p340
+aVJason Kidd DAL 02/01/2010 DAL @ UTA L 36 11 4 10 40.0 2 5 40.0 1 2 50.0 0 3 3 9 2 0 2 2 -6
+p341
+aVQuinton Ross DAL 02/01/2010 DAL @ UTA L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -1
+p342
+aVErick Dampier DAL 02/01/2010 DAL @ UTA L 20 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 1 7
+p343
+aVDirk Nowitzki DAL 02/01/2010 DAL @ UTA L 41 28 11 18 61.1 0 1 0.0 6 6 100.0 0 8 8 1 1 1 1 2 -10
+p344
+aVRodrigue Beaubois DAL 02/01/2010 DAL @ UTA L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -2
+p345
+aVJason Terry DAL 02/01/2010 DAL @ UTA L 39 19 7 19 36.8 2 4 50.0 3 4 75.0 1 0 1 8 4 1 2 2 -10
+p346
+aVJosh Howard DAL 01/30/2010 DAL vs. POR L 26 17 6 14 42.9 1 1 100.0 4 5 80.0 0 5 5 0 1 0 1 3 6
+p347
+aVJ.J. Barea DAL 01/30/2010 DAL vs. POR L 26 13 4 11 36.4 1 2 50.0 4 4 100.0 0 7 7 3 0 0 2 2 7
+p348
+aVJason Kidd DAL 01/30/2010 DAL vs. POR L 40 10 4 8 50.0 2 5 40.0 0 0 - 2 2 4 10 1 2 2 3 -11
+p349
+aVDrew Gooden DAL 01/30/2010 DAL vs. POR L 28 8 4 8 50.0 0 0 - 0 0 - 5 1 6 1 0 1 1 2 9
+p350
+aVRodrigue Beaubois DAL 01/30/2010 DAL vs. POR L 6 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 1 1 0 0 0 7
+p351
+aVShawn Marion DAL 01/30/2010 DAL vs. POR L 27 12 6 11 54.5 0 0 - 0 0 - 0 4 4 0 0 0 2 2 -9
+p352
+aVEduardo Najera DAL 01/30/2010 DAL vs. POR L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p353
+aVDirk Nowitzki DAL 01/30/2010 DAL vs. POR L 45 28 9 19 47.4 0 0 - 10 10 100.0 0 9 9 2 1 0 2 2 -7
+p354
+aVErick Dampier DAL 01/30/2010 DAL vs. POR L 25 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 1 1 3 -9
+p355
+aVJason Terry DAL 01/30/2010 DAL vs. POR L 40 18 7 14 50.0 2 5 40.0 2 2 100.0 1 3 4 5 1 0 2 2 -5
+p356
+aVJason Terry DAL 01/28/2010 DAL @ PHX L 36 21 8 15 53.3 1 5 20.0 4 4 100.0 0 2 2 5 2 2 2 2 -3
+p357
+aVJ.J. Barea DAL 01/28/2010 DAL @ PHX L 22 8 4 5 80.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 4 -7
+p358
+aVErick Dampier DAL 01/28/2010 DAL @ PHX L 23 12 5 6 83.3 0 0 - 2 2 100.0 0 4 4 2 1 0 0 1 5
+p359
+aVDirk Nowitzki DAL 01/28/2010 DAL @ PHX L 38 19 5 11 45.5 0 0 - 9 10 90.0 1 4 5 0 0 2 1 5 -3
+p360
+aVJason Kidd DAL 01/28/2010 DAL @ PHX L 37 13 5 10 50.0 3 6 50.0 0 0 - 0 4 4 6 2 0 4 1 1
+p361
+aVRodrigue Beaubois DAL 01/28/2010 DAL @ PHX L 5 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 4 -8
+p362
+aVShawn Marion DAL 01/28/2010 DAL @ PHX L 36 15 6 14 42.9 0 1 0.0 3 4 75.0 3 5 8 3 0 0 0 1 3
+p363
+aVJosh Howard DAL 01/28/2010 DAL @ PHX L 21 7 3 10 30.0 0 0 - 1 2 50.0 3 3 6 0 1 0 2 2 -9
+p364
+aVDrew Gooden DAL 01/28/2010 DAL @ PHX L 21 8 4 8 50.0 0 0 - 0 1 0.0 1 2 3 1 0 1 0 6 -9
+p365
+aVShawn Marion DAL 01/26/2010 DAL vs. MIL W 35 12 5 8 62.5 0 0 - 2 2 100.0 2 3 5 0 0 0 1 1 -6
+p366
+aVJason Terry DAL 01/26/2010 DAL vs. MIL W 32 21 8 15 53.3 4 6 66.7 1 2 50.0 1 0 1 4 1 0 2 2 -8
+p367
+aVDirk Nowitzki DAL 01/26/2010 DAL vs. MIL W 35 28 11 25 44.0 0 0 - 6 6 100.0 2 6 8 5 0 1 2 2 3
+p368
+aVDrew Gooden DAL 01/26/2010 DAL vs. MIL W 13 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 4 -4
+p369
+aVErick Dampier DAL 01/26/2010 DAL vs. MIL W 35 2 1 2 50.0 0 0 - 0 0 - 2 9 11 2 0 1 2 4 5
+p370
+aVQuinton Ross DAL 01/26/2010 DAL vs. MIL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p371
+aVRodrigue Beaubois DAL 01/26/2010 DAL vs. MIL W 12 8 3 6 50.0 2 2 100.0 0 0 - 0 2 2 2 1 0 1 1 0
+p372
+aVJason Kidd DAL 01/26/2010 DAL vs. MIL W 37 11 4 8 50.0 3 6 50.0 0 0 - 1 3 4 12 2 0 3 1 -3
+p373
+aVJosh Howard DAL 01/26/2010 DAL vs. MIL W 21 13 4 7 57.1 0 0 - 5 5 100.0 1 2 3 1 1 0 0 1 3
+p374
+aVJ.J. Barea DAL 01/26/2010 DAL vs. MIL W 16 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 4 1 0 1 2 11
+p375
+aVDirk Nowitzki DAL 01/24/2010 DAL @ NYK W 30 20 6 12 50.0 1 2 50.0 7 7 100.0 0 5 5 3 2 0 1 3 38
+p376
+aVJ.J. Barea DAL 01/24/2010 DAL @ NYK W 24 11 5 9 55.6 1 2 50.0 0 0 - 0 3 3 4 2 0 0 0 30
+p377
+aVDrew Gooden DAL 01/24/2010 DAL @ NYK W 34 15 6 11 54.5 0 0 - 3 3 100.0 5 13 18 1 1 2 0 2 41
+p378
+aVJosh Howard DAL 01/24/2010 DAL @ NYK W 15 7 3 6 50.0 1 2 50.0 0 0 - 1 0 1 2 0 0 0 3 18
+p379
+aVRodrigue Beaubois DAL 01/24/2010 DAL @ NYK W 24 13 5 8 62.5 3 6 50.0 0 1 0.0 0 6 6 5 3 0 5 4 20
+p380
+aVQuinton Ross DAL 01/24/2010 DAL @ NYK W 10 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 7
+p381
+aVJason Terry DAL 01/24/2010 DAL @ NYK W 34 20 8 12 66.7 4 6 66.7 0 0 - 0 0 0 4 1 0 0 0 40
+p382
+aVMatt Carroll DAL 01/24/2010 DAL @ NYK W 8 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 1
+p383
+aVShawn Marion DAL 01/24/2010 DAL @ NYK W 31 15 6 10 60.0 1 1 100.0 2 2 100.0 1 4 5 3 0 0 2 0 34
+p384
+aVTim Thomas DAL 01/24/2010 DAL @ NYK W 9 6 3 4 75.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 5
+p385
+aVJames Singleton DAL 01/24/2010 DAL @ NYK W 20 10 4 9 44.4 0 2 0.0 2 2 100.0 2 4 6 0 1 0 1 3 16
+p386
+aVJames Singleton DAL 01/22/2010 DAL @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p387
+aVJason Kidd DAL 01/22/2010 DAL @ PHI L 35 5 2 7 28.6 1 4 25.0 0 0 - 0 9 9 7 3 1 4 2 -8
+p388
+aVDirk Nowitzki DAL 01/22/2010 DAL @ PHI L 40 15 4 13 30.8 0 1 0.0 7 8 87.5 0 8 8 1 1 1 3 3 -10
+p389
+aVShawn Marion DAL 01/22/2010 DAL @ PHI L 25 12 5 9 55.6 0 0 - 2 2 100.0 2 5 7 0 2 0 2 0 -1
+p390
+aVDrew Gooden DAL 01/22/2010 DAL @ PHI L 22 14 6 10 60.0 1 1 100.0 1 1 100.0 5 2 7 0 1 0 2 2 -9
+p391
+aVJ.J. Barea DAL 01/22/2010 DAL @ PHI L 26 9 4 9 44.4 0 1 0.0 1 1 100.0 0 2 2 6 0 0 0 6 -15
+p392
+aVQuinton Ross DAL 01/22/2010 DAL @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p393
+aVRodrigue Beaubois DAL 01/22/2010 DAL @ PHI L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p394
+aVErick Dampier DAL 01/22/2010 DAL @ PHI L 26 11 4 7 57.1 0 0 - 3 5 60.0 2 3 5 0 0 0 0 1 -2
+p395
+aVJason Terry DAL 01/22/2010 DAL @ PHI L 35 4 2 12 16.7 0 5 0.0 0 0 - 0 1 1 4 0 3 1 2 -7
+p396
+aVJosh Howard DAL 01/22/2010 DAL @ PHI L 25 11 5 13 38.5 1 3 33.3 0 0 - 0 1 1 1 1 0 3 2 -15
+p397
+aVMatt Carroll DAL 01/22/2010 DAL @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p398
+aVJ.J. Barea DAL 01/20/2010 DAL @ WAS W 15 2 1 10 10.0 0 4 0.0 0 0 - 1 2 3 3 0 0 1 1 -7
+p399
+aVShawn Marion DAL 01/20/2010 DAL @ WAS W 35 12 6 12 50.0 0 0 - 0 0 - 4 8 12 1 0 2 0 4 -3
+p400
+aVMatt Carroll DAL 01/20/2010 DAL @ WAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p401
+aVErick Dampier DAL 01/20/2010 DAL @ WAS W 24 6 3 3 100.0 0 0 - 0 0 - 1 3 4 1 0 1 1 4 2
+p402
+aVJames Singleton DAL 01/20/2010 DAL @ WAS W 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 2 2 0 2
+p403
+aVQuinton Ross DAL 01/20/2010 DAL @ WAS W 15 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -2
+p404
+aVRodrigue Beaubois DAL 01/20/2010 DAL @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p405
+aVJason Kidd DAL 01/20/2010 DAL @ WAS W 39 6 2 10 20.0 1 7 14.3 1 1 100.0 1 4 5 15 2 0 1 3 1
+p406
+aVDrew Gooden DAL 01/20/2010 DAL @ WAS W 22 14 5 9 55.6 0 1 0.0 4 5 80.0 3 4 7 4 3 2 2 1 1
+p407
+aVJason Terry DAL 01/20/2010 DAL @ WAS W 41 21 9 16 56.3 2 5 40.0 1 1 100.0 1 2 3 2 3 0 1 0 12
+p408
+aVDirk Nowitzki DAL 01/20/2010 DAL @ WAS W 40 28 11 19 57.9 1 3 33.3 5 5 100.0 1 4 5 1 0 2 3 5 -1
+p409
+aVShawn Marion DAL 01/18/2010 DAL @ BOS W 43 16 7 9 77.8 0 1 0.0 2 2 100.0 0 8 8 1 0 2 1 2 15
+p410
+aVJ.J. Barea DAL 01/18/2010 DAL @ BOS W 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -6
+p411
+aVJosh Howard DAL 01/18/2010 DAL @ BOS W 31 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 4 0 1 1 3 3
+p412
+aVJason Kidd DAL 01/18/2010 DAL @ BOS W 42 13 5 7 71.4 3 3 100.0 0 0 - 1 3 4 17 1 0 3 2 15
+p413
+aVJason Terry DAL 01/18/2010 DAL @ BOS W 28 8 3 12 25.0 1 3 33.3 1 2 50.0 0 1 1 1 0 0 1 0 -4
+p414
+aVErick Dampier DAL 01/18/2010 DAL @ BOS W 22 11 5 6 83.3 0 0 - 1 2 50.0 1 6 7 0 0 2 4 2 15
+p415
+aVDrew Gooden DAL 01/18/2010 DAL @ BOS W 23 10 4 7 57.1 0 0 - 2 2 100.0 1 3 4 2 2 2 1 4 -3
+p416
+aVJames Singleton DAL 01/18/2010 DAL @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p417
+aVDirk Nowitzki DAL 01/18/2010 DAL @ BOS W 44 37 14 22 63.6 0 0 - 9 12 75.0 0 7 7 3 0 0 2 3 12
+p418
+aVJames Singleton DAL 01/17/2010 DAL @ TOR L 11 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -6
+p419
+aVJason Terry DAL 01/17/2010 DAL @ TOR L 30 18 7 15 46.7 2 4 50.0 2 2 100.0 0 3 3 0 0 1 1 2 -24
+p420
+aVQuinton Ross DAL 01/17/2010 DAL @ TOR L 5 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 1 0 0 1 1
+p421
+aVDrew Gooden DAL 01/17/2010 DAL @ TOR L 15 5 1 3 33.3 0 0 - 3 4 75.0 4 6 10 0 1 1 0 1 -13
+p422
+aVJason Kidd DAL 01/17/2010 DAL @ TOR L 32 12 4 8 50.0 2 4 50.0 2 2 100.0 0 5 5 9 0 0 2 2 -15
+p423
+aVShawn Marion DAL 01/17/2010 DAL @ TOR L 35 15 7 12 58.3 0 0 - 1 2 50.0 0 3 3 2 0 0 1 2 -8
+p424
+aVJ.J. Barea DAL 01/17/2010 DAL @ TOR L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -8
+p425
+aVRodrigue Beaubois DAL 01/17/2010 DAL @ TOR L 9 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 2 1 0 0 2 2
+p426
+aVErick Dampier DAL 01/17/2010 DAL @ TOR L 21 0 0 0 - 0 0 - 0 0 - 0 5 5 1 1 1 1 1 -3
+p427
+aVJosh Howard DAL 01/17/2010 DAL @ TOR L 31 8 3 12 25.0 0 2 0.0 2 2 100.0 1 5 6 2 0 0 2 3 -22
+p428
+aVDirk Nowitzki DAL 01/17/2010 DAL @ TOR L 36 19 9 15 60.0 0 1 0.0 1 4 25.0 0 3 3 4 1 1 1 5 -15
+p429
+aVMatt Carroll DAL 01/17/2010 DAL @ TOR L 5 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 1
+p430
+aVJason Kidd DAL 01/15/2010 DAL vs. OKC W 38 11 4 8 50.0 2 5 40.0 1 3 33.3 0 4 4 11 4 2 1 2 8
+p431
+aVJason Terry DAL 01/15/2010 DAL vs. OKC W 33 21 9 17 52.9 2 4 50.0 1 3 33.3 0 0 0 5 1 0 1 2 4
+p432
+aVJ.J. Barea DAL 01/15/2010 DAL vs. OKC W 10 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 1 0 1 2 -7
+p433
+aVDrew Gooden DAL 01/15/2010 DAL vs. OKC W 18 6 0 1 0.0 0 0 - 6 6 100.0 1 4 5 0 0 1 2 3 1
+p434
+aVQuinton Ross DAL 01/15/2010 DAL vs. OKC W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p435
+aVShawn Marion DAL 01/15/2010 DAL vs. OKC W 33 6 3 5 60.0 0 0 - 0 0 - 1 6 7 0 1 1 0 6 7
+p436
+aVDirk Nowitzki DAL 01/15/2010 DAL vs. OKC W 39 32 9 18 50.0 0 1 0.0 14 15 93.3 1 4 5 2 2 0 4 2 4
+p437
+aVJosh Howard DAL 01/15/2010 DAL vs. OKC W 30 11 2 14 14.3 0 4 0.0 7 8 87.5 0 1 1 1 2 1 1 4 -12
+p438
+aVErick Dampier DAL 01/15/2010 DAL vs. OKC W 27 6 2 4 50.0 0 0 - 2 2 100.0 3 6 9 0 0 2 4 3 4
+p439
+aVJames Singleton DAL 01/15/2010 DAL vs. OKC W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p440
+aVJason Terry DAL 01/13/2010 DAL vs. LAL L 31 7 2 12 16.7 1 7 14.3 2 2 100.0 0 2 2 3 0 1 0 4 -12
+p441
+aVDirk Nowitzki DAL 01/13/2010 DAL vs. LAL L 43 30 11 22 50.0 1 1 100.0 7 7 100.0 0 16 16 2 0 1 0 3 -3
+p442
+aVShawn Marion DAL 01/13/2010 DAL vs. LAL L 32 10 5 10 50.0 0 0 - 0 2 0.0 5 0 5 3 1 1 0 1 -4
+p443
+aVDrew Gooden DAL 01/13/2010 DAL vs. LAL L 20 8 3 5 60.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 2 -5
+p444
+aVJosh Howard DAL 01/13/2010 DAL vs. LAL L 36 18 7 16 43.8 3 6 50.0 1 2 50.0 2 3 5 3 1 1 1 2 2
+p445
+aVJames Singleton DAL 01/13/2010 DAL vs. LAL L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 2
+p446
+aVErick Dampier DAL 01/13/2010 DAL vs. LAL L 28 5 1 4 25.0 0 0 - 3 6 50.0 3 1 4 1 1 0 1 4 0
+p447
+aVJ.J. Barea DAL 01/13/2010 DAL vs. LAL L 13 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -3
+p448
+aVJason Kidd DAL 01/13/2010 DAL vs. LAL L 35 11 4 9 44.4 3 8 37.5 0 0 - 0 7 7 11 0 0 2 2 -2
+p449
+aVJason Kidd DAL 01/09/2010 DAL vs. UTA L 37 19 7 11 63.6 4 5 80.0 1 2 50.0 2 3 5 8 0 1 2 3 -5
+p450
+aVQuinton Ross DAL 01/09/2010 DAL vs. UTA L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p451
+aVJ.J. Barea DAL 01/09/2010 DAL vs. UTA L 15 8 3 8 37.5 1 3 33.3 1 2 50.0 1 0 1 2 0 0 1 1 -16
+p452
+aVDirk Nowitzki DAL 01/09/2010 DAL vs. UTA L 42 29 9 22 40.9 0 1 0.0 11 11 100.0 0 8 8 3 0 0 3 4 -16
+p453
+aVJason Terry DAL 01/09/2010 DAL vs. UTA L 37 16 5 14 35.7 2 7 28.6 4 4 100.0 0 3 3 3 0 0 0 4 -6
+p454
+aVJames Singleton DAL 01/09/2010 DAL vs. UTA L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 1 0
+p455
+aVTim Thomas DAL 01/09/2010 DAL vs. UTA L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 0 1 1 1 0 -18
+p456
+aVMatt Carroll DAL 01/09/2010 DAL vs. UTA L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -1
+p457
+aVRodrigue Beaubois DAL 01/09/2010 DAL vs. UTA L 7 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 1 0 -9
+p458
+aVErick Dampier DAL 01/09/2010 DAL vs. UTA L 29 2 1 4 25.0 0 0 - 0 0 - 6 7 13 1 0 0 1 5 -1
+p459
+aVShawn Marion DAL 01/09/2010 DAL vs. UTA L 34 10 5 10 50.0 0 0 - 0 2 0.0 3 6 9 3 0 2 3 0 -9
+p460
+aVJ.J. Barea DAL 01/08/2010 DAL @ SAS W 15 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p461
+aVShawn Marion DAL 01/08/2010 DAL @ SAS W 24 12 6 9 66.7 0 1 0.0 0 0 - 2 4 6 0 1 0 0 0 -7
+p462
+aVJosh Howard DAL 01/08/2010 DAL @ SAS W 28 12 3 7 42.9 0 0 - 6 8 75.0 0 4 4 2 1 0 1 4 21
+p463
+aVDrew Gooden DAL 01/08/2010 DAL @ SAS W 18 10 5 7 71.4 0 0 - 0 0 - 4 4 8 1 0 1 0 2 4
+p464
+aVErick Dampier DAL 01/08/2010 DAL @ SAS W 25 14 6 6 100.0 1 1 100.0 1 1 100.0 3 2 5 1 0 1 0 5 6
+p465
+aVJason Kidd DAL 01/08/2010 DAL @ SAS W 41 9 3 7 42.9 2 5 40.0 1 2 50.0 1 4 5 8 2 1 2 2 8
+p466
+aVJason Terry DAL 01/08/2010 DAL @ SAS W 35 21 7 13 53.8 2 4 50.0 5 5 100.0 0 4 4 8 2 0 2 2 14
+p467
+aVDirk Nowitzki DAL 01/08/2010 DAL @ SAS W 40 26 10 28 35.7 2 3 66.7 4 4 100.0 2 3 5 2 0 3 2 3 6
+p468
+aVTim Thomas DAL 01/08/2010 DAL @ SAS W 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -5
+p469
+aVRodrigue Beaubois DAL 01/08/2010 DAL @ SAS W 6 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 2
+p470
+aVJason Kidd DAL 01/05/2010 DAL vs. DET W 37 8 3 8 37.5 2 5 40.0 0 0 - 1 3 4 8 1 1 1 2 9
+p471
+aVJ.J. Barea DAL 01/05/2010 DAL vs. DET W 20 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 4 0 0 1 1 -6
+p472
+aVJosh Howard DAL 01/05/2010 DAL vs. DET W 30 12 5 10 50.0 2 5 40.0 0 0 - 0 3 3 2 0 0 1 2 -1
+p473
+aVShawn Marion DAL 01/05/2010 DAL vs. DET W 27 18 5 7 71.4 0 0 - 8 8 100.0 1 6 7 1 1 1 1 1 9
+p474
+aVKris Humphries DAL 01/05/2010 DAL vs. DET W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -7
+p475
+aVJason Terry DAL 01/05/2010 DAL vs. DET W 40 26 11 19 57.9 1 4 25.0 3 4 75.0 0 3 3 5 0 1 0 5 7
+p476
+aVDirk Nowitzki DAL 01/05/2010 DAL vs. DET W 45 22 9 20 45.0 0 0 - 4 4 100.0 2 10 12 4 1 0 3 0 8
+p477
+aVDrew Gooden DAL 01/05/2010 DAL vs. DET W 33 10 4 16 25.0 0 0 - 2 2 100.0 9 9 18 0 2 1 1 5 6
+p478
+aVQuinton Ross DAL 01/05/2010 DAL vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p479
+aVQuinton Ross DAL 01/03/2010 DAL @ LAL L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 5
+p480
+aVJ.J. Barea DAL 01/03/2010 DAL @ LAL L 19 10 5 9 55.6 0 1 0.0 0 0 - 0 1 1 3 0 0 1 1 -26
+p481
+aVRodrigue Beaubois DAL 01/03/2010 DAL @ LAL L 16 8 3 8 37.5 2 3 66.7 0 0 - 1 3 4 2 0 0 1 0 2
+p482
+aVJason Kidd DAL 01/03/2010 DAL @ LAL L 26 0 0 6 0.0 0 6 0.0 0 0 - 0 4 4 5 0 0 1 1 -32
+p483
+aVJason Terry DAL 01/03/2010 DAL @ LAL L 26 10 3 8 37.5 1 3 33.3 3 3 100.0 1 0 1 1 0 0 2 1 -19
+p484
+aVJames Singleton DAL 01/03/2010 DAL @ LAL L 8 4 2 3 66.7 0 0 - 0 0 - 2 0 2 2 0 0 0 0 5
+p485
+aVShawn Marion DAL 01/03/2010 DAL @ LAL L 22 6 2 6 33.3 0 0 - 2 4 50.0 3 0 3 1 2 0 1 3 -24
+p486
+aVDirk Nowitzki DAL 01/03/2010 DAL @ LAL L 32 22 7 18 38.9 0 0 - 8 10 80.0 3 5 8 1 0 0 2 1 -32
+p487
+aVKris Humphries DAL 01/03/2010 DAL @ LAL L 18 7 3 8 37.5 0 0 - 1 2 50.0 2 4 6 0 1 1 0 0 -2
+p488
+aVDrew Gooden DAL 01/03/2010 DAL @ LAL L 21 6 2 5 40.0 0 0 - 2 2 100.0 3 4 7 2 2 0 1 3 -29
+p489
+aVTim Thomas DAL 01/03/2010 DAL @ LAL L 20 12 3 6 50.0 2 5 40.0 4 4 100.0 0 0 0 0 1 0 0 0 -2
+p490
+aVJosh Howard DAL 01/03/2010 DAL @ LAL L 23 7 2 11 18.2 0 3 0.0 3 3 100.0 2 2 4 1 0 0 1 1 -21
+p491
+aVJosh Howard DAL 01/02/2010 DAL @ SAC W 31 16 6 13 46.2 0 2 0.0 4 6 66.7 0 3 3 1 1 0 3 1 9
+p492
+aVDrew Gooden DAL 01/02/2010 DAL @ SAC W 27 8 2 6 33.3 0 0 - 4 6 66.7 3 7 10 1 2 2 1 3 11
+p493
+aVJason Kidd DAL 01/02/2010 DAL @ SAC W 31 14 6 7 85.7 2 2 100.0 0 0 - 0 2 2 7 3 0 1 3 -3
+p494
+aVJason Terry DAL 01/02/2010 DAL @ SAC W 31 11 3 8 37.5 0 1 0.0 5 5 100.0 0 4 4 5 2 0 4 1 7
+p495
+aVErick Dampier DAL 01/02/2010 DAL @ SAC W 21 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 2 2 -3
+p496
+aVJ.J. Barea DAL 01/02/2010 DAL @ SAC W 33 17 7 13 53.8 1 2 50.0 2 2 100.0 0 1 1 3 1 0 4 2 12
+p497
+aVShawn Marion DAL 01/02/2010 DAL @ SAC W 27 6 3 8 37.5 0 0 - 0 0 - 0 5 5 3 0 1 1 1 10
+p498
+aVKris Humphries DAL 01/02/2010 DAL @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p499
+aVDirk Nowitzki DAL 01/02/2010 DAL @ SAC W 35 25 8 18 44.4 0 2 0.0 9 9 100.0 0 7 7 1 2 1 0 2 6
+p500
+aVJason Terry DAL 12/31/2009 DAL @ HOU L 33 20 7 12 58.3 1 3 33.3 5 7 71.4 0 1 1 4 2 0 1 1 2
+p501
+aVShawn Marion DAL 12/31/2009 DAL @ HOU L 39 16 8 12 66.7 0 0 - 0 0 - 1 8 9 1 1 1 1 1 -6
+p502
+aVDirk Nowitzki DAL 12/31/2009 DAL @ HOU L 31 11 3 12 25.0 1 2 50.0 4 4 100.0 1 6 7 1 0 4 3 3 -5
+p503
+aVErick Dampier DAL 12/31/2009 DAL @ HOU L 17 3 1 6 16.7 0 0 - 1 2 50.0 1 4 5 0 1 1 1 3 -1
+p504
+aVJ.J. Barea DAL 12/31/2009 DAL @ HOU L 20 4 1 6 16.7 0 2 0.0 2 2 100.0 0 4 4 3 1 1 1 3 -3
+p505
+aVJason Kidd DAL 12/31/2009 DAL @ HOU L 43 14 7 10 70.0 0 2 0.0 0 0 - 1 2 3 5 1 0 1 1 -5
+p506
+aVJosh Howard DAL 12/31/2009 DAL @ HOU L 33 16 5 14 35.7 0 3 0.0 6 7 85.7 2 3 5 1 2 1 3 1 5
+p507
+aVDrew Gooden DAL 12/31/2009 DAL @ HOU L 24 10 5 10 50.0 0 0 - 0 0 - 2 6 8 0 1 1 0 1 -2
+p508
+aVJosh Howard DAL 12/27/2009 DAL @ DEN W 30 17 5 15 33.3 0 2 0.0 7 10 70.0 2 7 9 4 1 0 3 3 5
+p509
+aVDirk Nowitzki DAL 12/27/2009 DAL @ DEN W 39 13 6 15 40.0 1 2 50.0 0 0 - 0 11 11 2 0 0 2 5 0
+p510
+aVShawn Marion DAL 12/27/2009 DAL @ DEN W 27 12 6 13 46.2 0 2 0.0 0 0 - 1 3 4 0 2 2 2 2 11
+p511
+aVErick Dampier DAL 12/27/2009 DAL @ DEN W 21 10 3 5 60.0 0 0 - 4 5 80.0 1 8 9 1 1 1 0 1 -3
+p512
+aVDrew Gooden DAL 12/27/2009 DAL @ DEN W 27 19 8 8 100.0 0 0 - 3 7 42.9 3 7 10 0 0 1 2 2 11
+p513
+aVJason Kidd DAL 12/27/2009 DAL @ DEN W 36 7 2 4 50.0 1 2 50.0 2 2 100.0 0 5 5 9 1 2 4 2 5
+p514
+aVJason Terry DAL 12/27/2009 DAL @ DEN W 32 13 5 12 41.7 1 3 33.3 2 2 100.0 0 1 1 5 0 0 0 3 7
+p515
+aVJ.J. Barea DAL 12/27/2009 DAL @ DEN W 28 13 6 10 60.0 1 2 50.0 0 0 - 1 1 2 4 0 0 2 1 4
+p516
+aVJ.J. Barea DAL 12/26/2009 DAL vs. MEM W 28 11 5 13 38.5 0 4 0.0 1 1 100.0 0 3 3 3 0 0 0 3 12
+p517
+aVDirk Nowitzki DAL 12/26/2009 DAL vs. MEM W 40 20 10 16 62.5 0 0 - 0 0 - 0 4 4 3 1 0 4 2 17
+p518
+aVShawn Marion DAL 12/26/2009 DAL vs. MEM W 25 10 4 7 57.1 0 0 - 2 3 66.7 3 4 7 2 0 0 0 3 13
+p519
+aVJason Terry DAL 12/26/2009 DAL vs. MEM W 32 23 7 18 38.9 3 5 60.0 6 6 100.0 1 0 1 5 2 2 1 3 -10
+p520
+aVErick Dampier DAL 12/26/2009 DAL vs. MEM W 35 13 6 6 100.0 0 0 - 1 2 50.0 1 9 10 1 0 3 0 4 14
+p521
+aVJosh Howard DAL 12/26/2009 DAL vs. MEM W 25 11 4 6 66.7 0 0 - 3 4 75.0 0 1 1 1 1 0 1 4 -18
+p522
+aVKris Humphries DAL 12/26/2009 DAL vs. MEM W 8 3 1 2 50.0 0 0 - 1 2 50.0 3 2 5 0 0 1 0 0 -3
+p523
+aVTim Thomas DAL 12/26/2009 DAL vs. MEM W 11 5 2 4 50.0 1 2 50.0 0 2 0.0 2 2 4 0 0 0 1 2 -8
+p524
+aVJason Kidd DAL 12/26/2009 DAL vs. MEM W 36 10 4 10 40.0 2 6 33.3 0 0 - 0 5 5 10 3 2 2 3 8
+p525
+aVDirk Nowitzki DAL 12/22/2009 DAL vs. POR L 41 27 10 13 76.9 2 2 100.0 5 7 71.4 1 8 9 1 2 1 6 3 -5
+p526
+aVShawn Marion DAL 12/22/2009 DAL vs. POR L 25 0 0 7 0.0 0 0 - 0 0 - 1 5 6 0 0 1 2 4 -3
+p527
+aVErick Dampier DAL 12/22/2009 DAL vs. POR L 31 8 3 7 42.9 0 1 0.0 2 8 25.0 6 9 15 2 0 0 1 0 10
+p528
+aVTim Thomas DAL 12/22/2009 DAL vs. POR L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 6
+p529
+aVDrew Gooden DAL 12/22/2009 DAL vs. POR L 15 5 2 7 28.6 0 0 - 1 2 50.0 2 4 6 2 0 1 0 2 -11
+p530
+aVJason Terry DAL 12/22/2009 DAL vs. POR L 28 8 2 13 15.4 1 5 20.0 3 4 75.0 0 1 1 4 0 0 1 2 -13
+p531
+aVJosh Howard DAL 12/22/2009 DAL vs. POR L 21 8 4 8 50.0 0 0 - 0 0 - 0 2 2 1 0 1 1 1 -10
+p532
+aVJ.J. Barea DAL 12/22/2009 DAL vs. POR L 35 22 9 16 56.3 3 4 75.0 1 1 100.0 0 1 1 5 1 0 2 2 8
+p533
+aVJason Kidd DAL 12/22/2009 DAL vs. POR L 37 3 1 6 16.7 1 6 16.7 0 0 - 1 5 6 6 0 0 0 0 -2
+p534
+aVDrew Gooden DAL 12/20/2009 DAL vs. CLE W 23 12 5 10 50.0 0 0 - 2 2 100.0 3 5 8 1 0 2 0 3 5
+p535
+aVJ.J. Barea DAL 12/20/2009 DAL vs. CLE W 25 5 2 8 25.0 1 2 50.0 0 0 - 0 1 1 4 1 0 1 0 1
+p536
+aVJosh Howard DAL 12/20/2009 DAL vs. CLE W 24 14 5 11 45.5 1 4 25.0 3 3 100.0 0 1 1 1 0 1 1 4 0
+p537
+aVTim Thomas DAL 12/20/2009 DAL vs. CLE W 36 22 7 14 50.0 2 6 33.3 6 7 85.7 1 6 7 2 0 0 1 2 3
+p538
+aVShawn Marion DAL 12/20/2009 DAL vs. CLE W 36 12 5 11 45.5 0 0 - 2 2 100.0 1 7 8 2 0 1 1 2 11
+p539
+aVJason Terry DAL 12/20/2009 DAL vs. CLE W 35 19 7 12 58.3 1 2 50.0 4 4 100.0 0 0 0 4 1 0 1 4 6
+p540
+aVJason Kidd DAL 12/20/2009 DAL vs. CLE W 37 10 3 8 37.5 2 5 40.0 2 2 100.0 0 4 4 11 1 0 1 0 7
+p541
+aVErick Dampier DAL 12/20/2009 DAL vs. CLE W 25 8 4 6 66.7 0 0 - 0 0 - 1 9 10 0 0 0 0 5 2
+p542
+aVShawn Marion DAL 12/18/2009 DAL vs. HOU L 35 17 7 14 50.0 0 0 - 3 4 75.0 5 4 9 2 1 2 2 4 13
+p543
+aVJason Terry DAL 12/18/2009 DAL vs. HOU L 33 14 6 15 40.0 2 5 40.0 0 0 - 0 2 2 2 0 0 3 3 -24
+p544
+aVTim Thomas DAL 12/18/2009 DAL vs. HOU L 12 10 3 8 37.5 2 4 50.0 2 2 100.0 0 0 0 0 0 0 1 3 -8
+p545
+aVKris Humphries DAL 12/18/2009 DAL vs. HOU L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -9
+p546
+aVErick Dampier DAL 12/18/2009 DAL vs. HOU L 32 9 3 6 50.0 0 0 - 3 6 50.0 7 7 14 0 0 3 3 4 6
+p547
+aVJ.J. Barea DAL 12/18/2009 DAL vs. HOU L 35 23 8 15 53.3 3 5 60.0 4 5 80.0 0 2 2 3 1 0 2 2 3
+p548
+aVJosh Howard DAL 12/18/2009 DAL vs. HOU L 40 17 7 16 43.8 1 2 50.0 2 2 100.0 1 2 3 2 1 1 2 2 -17
+p549
+aVJason Kidd DAL 12/18/2009 DAL vs. HOU L 43 8 3 11 27.3 0 4 0.0 2 2 100.0 0 11 11 10 4 2 0 3 6
+p550
+aVDrew Gooden DAL 12/18/2009 DAL vs. HOU L 20 4 1 5 20.0 0 0 - 2 2 100.0 4 3 7 0 0 0 3 2 -15
+p551
+aVDirk Nowitzki DAL 12/18/2009 DAL vs. HOU L 10 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 0 5
+p552
+aVJason Kidd DAL 12/16/2009 DAL @ OKC W 36 6 2 3 66.7 2 2 100.0 0 0 - 0 5 5 9 0 1 1 3 14
+p553
+aVJason Terry DAL 12/16/2009 DAL @ OKC W 33 7 2 12 16.7 1 5 20.0 2 2 100.0 0 3 3 5 2 0 1 1 14
+p554
+aVJosh Howard DAL 12/16/2009 DAL @ OKC W 29 15 5 12 41.7 1 2 50.0 4 4 100.0 1 2 3 0 1 0 3 2 13
+p555
+aVJ.J. Barea DAL 12/16/2009 DAL @ OKC W 27 9 4 10 40.0 1 2 50.0 0 0 - 0 3 3 2 0 0 1 0 0
+p556
+aVDirk Nowitzki DAL 12/16/2009 DAL @ OKC W 39 35 13 18 72.2 2 2 100.0 7 8 87.5 0 11 11 2 2 1 3 2 22
+p557
+aVDrew Gooden DAL 12/16/2009 DAL @ OKC W 19 6 2 4 50.0 0 0 - 2 4 50.0 1 4 5 0 0 0 0 4 -7
+p558
+aVShawn Marion DAL 12/16/2009 DAL @ OKC W 28 12 5 9 55.6 0 0 - 2 2 100.0 2 2 4 2 2 1 2 1 -7
+p559
+aVErick Dampier DAL 12/16/2009 DAL @ OKC W 30 10 3 5 60.0 0 0 - 4 6 66.7 3 3 6 0 0 2 1 3 21
+p560
+aVDrew Gooden DAL 12/14/2009 DAL vs. NOH W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p561
+aVDirk Nowitzki DAL 12/14/2009 DAL vs. NOH W 35 10 4 11 36.4 0 0 - 2 2 100.0 1 6 7 3 2 1 2 2 -4
+p562
+aVErick Dampier DAL 12/14/2009 DAL vs. NOH W 36 8 4 5 80.0 0 0 - 0 0 - 3 5 8 0 0 1 4 2 9
+p563
+aVShawn Marion DAL 12/14/2009 DAL vs. NOH W 28 10 5 9 55.6 0 0 - 0 0 - 0 2 2 1 1 1 1 0 15
+p564
+aVKris Humphries DAL 12/14/2009 DAL vs. NOH W 8 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -5
+p565
+aVJosh Howard DAL 12/14/2009 DAL vs. NOH W 29 14 5 10 50.0 1 3 33.3 3 4 75.0 1 7 8 2 0 1 5 2 4
+p566
+aVJason Terry DAL 12/14/2009 DAL vs. NOH W 33 12 4 9 44.4 1 2 50.0 3 3 100.0 0 1 1 3 1 0 4 0 -1
+p567
+aVJason Kidd DAL 12/14/2009 DAL vs. NOH W 36 13 4 9 44.4 3 8 37.5 2 2 100.0 0 5 5 13 1 0 3 1 9
+p568
+aVJ.J. Barea DAL 12/14/2009 DAL vs. NOH W 26 23 10 13 76.9 1 2 50.0 2 2 100.0 0 4 4 1 0 0 3 2 0
+p569
+aVJason Terry DAL 12/12/2009 DAL vs. CHA W 38 11 4 19 21.1 0 6 0.0 3 3 100.0 0 1 1 0 0 0 2 1 -3
+p570
+aVQuinton Ross DAL 12/12/2009 DAL vs. CHA W 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -11
+p571
+aVShawn Marion DAL 12/12/2009 DAL vs. CHA W 45 15 5 10 50.0 0 0 - 5 6 83.3 7 8 15 0 2 2 1 3 10
+p572
+aVJ.J. Barea DAL 12/12/2009 DAL vs. CHA W 26 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 5 1 1 2 1 -4
+p573
+aVDrew Gooden DAL 12/12/2009 DAL vs. CHA W 8 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 1 0 0 1 -13
+p574
+aVTim Thomas DAL 12/12/2009 DAL vs. CHA W 7 3 0 2 0.0 0 2 0.0 3 3 100.0 0 0 0 0 0 0 1 1 -1
+p575
+aVJason Kidd DAL 12/12/2009 DAL vs. CHA W 42 5 1 6 16.7 1 5 20.0 2 2 100.0 1 2 3 9 6 1 2 5 9
+p576
+aVDirk Nowitzki DAL 12/12/2009 DAL vs. CHA W 47 36 14 34 41.2 0 1 0.0 8 10 80.0 2 4 6 2 3 1 3 5 6
+p577
+aVErick Dampier DAL 12/12/2009 DAL vs. CHA W 40 14 7 7 100.0 0 0 - 0 2 0.0 7 11 18 1 1 3 2 4 12
+p578
+aVShawn Marion DAL 12/11/2009 DAL @ MIA W 27 12 4 10 40.0 0 0 - 4 4 100.0 2 2 4 1 0 0 0 2 20
+p579
+aVDrew Gooden DAL 12/11/2009 DAL @ MIA W 17 9 4 7 57.1 0 0 - 1 1 100.0 1 3 4 0 0 1 1 4 -15
+p580
+aVJosh Howard DAL 12/11/2009 DAL @ MIA W 23 5 2 8 25.0 0 4 0.0 1 2 50.0 0 1 1 4 0 0 0 4 -13
+p581
+aVJason Terry DAL 12/11/2009 DAL @ MIA W 31 16 6 14 42.9 3 8 37.5 1 2 50.0 0 1 1 4 1 0 1 1 -8
+p582
+aVDirk Nowitzki DAL 12/11/2009 DAL @ MIA W 38 25 10 18 55.6 2 2 100.0 3 3 100.0 0 5 5 1 0 1 2 5 20
+p583
+aVJason Kidd DAL 12/11/2009 DAL @ MIA W 37 7 2 6 33.3 2 6 33.3 1 2 50.0 0 6 6 11 2 0 3 3 25
+p584
+aVErick Dampier DAL 12/11/2009 DAL @ MIA W 32 20 7 9 77.8 0 0 - 6 7 85.7 3 14 17 0 0 2 1 3 26
+p585
+aVJ.J. Barea DAL 12/11/2009 DAL @ MIA W 34 12 4 8 50.0 3 5 60.0 1 2 50.0 1 3 4 9 2 0 1 4 10
+p586
+aVRodrigue Beaubois DAL 12/11/2009 DAL @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p587
+aVDirk Nowitzki DAL 12/08/2009 DAL vs. PHX W 41 33 12 20 60.0 0 0 - 9 9 100.0 3 5 8 3 0 1 0 1 2
+p588
+aVJason Terry DAL 12/08/2009 DAL vs. PHX W 36 15 5 12 41.7 1 5 20.0 4 6 66.7 0 1 1 3 2 0 3 5 1
+p589
+aVKris Humphries DAL 12/08/2009 DAL vs. PHX W 9 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 3 8
+p590
+aVJason Kidd DAL 12/08/2009 DAL vs. PHX W 38 7 3 9 33.3 1 7 14.3 0 0 - 1 5 6 11 1 0 1 3 -5
+p591
+aVShawn Marion DAL 12/08/2009 DAL vs. PHX W 38 10 5 15 33.3 0 2 0.0 0 0 - 3 4 7 1 1 2 1 1 -4
+p592
+aVRodrigue Beaubois DAL 12/08/2009 DAL vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p593
+aVJ.J. Barea DAL 12/08/2009 DAL vs. PHX W 30 14 6 8 75.0 2 4 50.0 0 0 - 0 2 2 6 1 0 3 4 6
+p594
+aVDrew Gooden DAL 12/08/2009 DAL vs. PHX W 15 2 1 7 14.3 0 0 - 0 0 - 3 4 7 1 0 1 4 3 -3
+p595
+aVErick Dampier DAL 12/08/2009 DAL vs. PHX W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p596
+aVJosh Howard DAL 12/08/2009 DAL vs. PHX W 26 20 6 13 46.2 2 5 40.0 6 6 100.0 0 6 6 1 3 1 1 2 2
+p597
+aVDirk Nowitzki DAL 12/05/2009 DAL vs. ATL L 44 32 11 24 45.8 2 6 33.3 8 10 80.0 1 8 9 2 1 4 2 3 3
+p598
+aVJ.J. Barea DAL 12/05/2009 DAL vs. ATL L 17 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 3 0 0 2 1 -9
+p599
+aVDrew Gooden DAL 12/05/2009 DAL vs. ATL L 15 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 0 0 3 1 4 -9
+p600
+aVJason Terry DAL 12/05/2009 DAL vs. ATL L 40 17 5 16 31.3 3 8 37.5 4 4 100.0 0 1 1 3 0 0 1 2 -4
+p601
+aVJason Kidd DAL 12/05/2009 DAL vs. ATL L 39 3 1 5 20.0 1 5 20.0 0 2 0.0 0 8 8 6 1 1 2 1 1
+p602
+aVShawn Marion DAL 12/05/2009 DAL vs. ATL L 32 8 3 6 50.0 0 0 - 2 4 50.0 2 3 5 2 0 2 2 4 4
+p603
+aVRodrigue Beaubois DAL 12/05/2009 DAL vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p604
+aVTim Thomas DAL 12/05/2009 DAL vs. ATL L 22 5 2 7 28.6 1 3 33.3 0 0 - 2 5 7 2 0 0 4 1 -16
+p605
+aVErick Dampier DAL 12/05/2009 DAL vs. ATL L 31 0 0 1 0.0 0 0 - 0 0 - 1 11 12 0 1 4 2 4 7
+p606
+aVErick Dampier DAL 12/04/2009 DAL @ MEM L 24 6 3 3 100.0 0 0 - 0 0 - 2 5 7 0 0 4 2 4 -7
+p607
+aVDirk Nowitzki DAL 12/04/2009 DAL @ MEM L 38 16 7 22 31.8 0 3 0.0 2 2 100.0 2 8 10 1 1 0 2 3 -6
+p608
+aVDrew Gooden DAL 12/04/2009 DAL @ MEM L 21 6 3 8 37.5 0 2 0.0 0 0 - 3 5 8 0 0 1 0 1 -16
+p609
+aVTim Thomas DAL 12/04/2009 DAL @ MEM L 16 6 2 5 40.0 0 2 0.0 2 2 100.0 1 1 2 1 0 0 0 3 -8
+p610
+aVJ.J. Barea DAL 12/04/2009 DAL @ MEM L 12 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 3 0 0 2 0 -6
+p611
+aVMatt Carroll DAL 12/04/2009 DAL @ MEM L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p612
+aVKris Humphries DAL 12/04/2009 DAL @ MEM L 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -7
+p613
+aVJames Singleton DAL 12/04/2009 DAL @ MEM L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p614
+aVRodrigue Beaubois DAL 12/04/2009 DAL @ MEM L 21 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 1 0 0 1 0 0
+p615
+aVShawn Marion DAL 12/04/2009 DAL @ MEM L 33 4 2 8 25.0 0 0 - 0 0 - 7 4 11 3 0 3 2 1 -12
+p616
+aVJason Terry DAL 12/04/2009 DAL @ MEM L 32 18 5 16 31.3 4 10 40.0 4 4 100.0 0 0 0 4 2 0 1 1 -11
+p617
+aVJason Kidd DAL 12/04/2009 DAL @ MEM L 30 13 4 12 33.3 3 7 42.9 2 2 100.0 2 1 3 7 1 0 4 1 -15
+p618
+aVErick Dampier DAL 12/02/2009 DAL @ NJN W 23 18 7 10 70.0 0 0 - 4 6 66.7 5 6 11 0 0 2 2 5 8
+p619
+aVShawn Marion DAL 12/02/2009 DAL @ NJN W 32 12 4 6 66.7 0 0 - 4 4 100.0 2 3 5 3 2 0 2 2 15
+p620
+aVDirk Nowitzki DAL 12/02/2009 DAL @ NJN W 35 24 9 15 60.0 1 4 25.0 5 5 100.0 1 6 7 8 1 1 3 3 30
+p621
+aVTim Thomas DAL 12/02/2009 DAL @ NJN W 23 10 4 7 57.1 2 3 66.7 0 0 - 0 3 3 0 2 0 0 5 -1
+p622
+aVJames Singleton DAL 12/02/2009 DAL @ NJN W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -9
+p623
+aVJason Kidd DAL 12/02/2009 DAL @ NJN W 34 16 5 6 83.3 2 2 100.0 4 4 100.0 1 7 8 10 5 1 4 1 24
+p624
+aVJason Terry DAL 12/02/2009 DAL @ NJN W 35 18 7 10 70.0 2 4 50.0 2 2 100.0 0 2 2 2 1 0 1 1 22
+p625
+aVRodrigue Beaubois DAL 12/02/2009 DAL @ NJN W 13 6 3 5 60.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 2 -6
+p626
+aVJ.J. Barea DAL 12/02/2009 DAL @ NJN W 18 7 2 6 33.3 1 2 50.0 2 2 100.0 0 2 2 2 0 0 1 2 -6
+p627
+aVKris Humphries DAL 12/02/2009 DAL @ NJN W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p628
+aVDrew Gooden DAL 12/02/2009 DAL @ NJN W 19 4 2 6 33.3 0 0 - 0 2 0.0 1 2 3 1 0 2 5 2 3
+p629
+aVJ.J. Barea DAL 11/30/2009 DAL vs. PHI W 31 11 4 10 40.0 3 6 50.0 0 0 - 1 2 3 6 1 0 3 2 2
+p630
+aVJames Singleton DAL 11/30/2009 DAL vs. PHI W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 2 7
+p631
+aVDrew Gooden DAL 11/30/2009 DAL vs. PHI W 29 15 5 10 50.0 0 0 - 5 6 83.3 6 4 10 0 1 2 0 4 4
+p632
+aVShawn Marion DAL 11/30/2009 DAL vs. PHI W 31 14 6 10 60.0 0 0 - 2 2 100.0 2 3 5 3 1 0 1 0 -1
+p633
+aVDirk Nowitzki DAL 11/30/2009 DAL vs. PHI W 40 28 11 26 42.3 1 2 50.0 5 5 100.0 1 5 6 4 0 0 0 2 2
+p634
+aVJason Kidd DAL 11/30/2009 DAL vs. PHI W 39 22 8 16 50.0 5 8 62.5 1 2 50.0 0 6 6 11 4 3 2 2 -2
+p635
+aVErick Dampier DAL 11/30/2009 DAL vs. PHI W 16 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 3 -9
+p636
+aVJason Terry DAL 11/30/2009 DAL vs. PHI W 33 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 4 1 0 1 2 9
+p637
+aVRodrigue Beaubois DAL 11/30/2009 DAL vs. PHI W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 3 1 0 2 1 -2
+p638
+aVDirk Nowitzki DAL 11/28/2009 DAL @ CLE L 42 27 10 19 52.6 0 0 - 7 9 77.8 2 7 9 2 1 1 2 3 -12
+p639
+aVKris Humphries DAL 11/28/2009 DAL @ CLE L 10 4 2 4 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 2 -7
+p640
+aVJason Terry DAL 11/28/2009 DAL @ CLE L 34 25 8 15 53.3 4 7 57.1 5 7 71.4 0 0 0 3 0 0 2 1 -11
+p641
+aVJames Singleton DAL 11/28/2009 DAL @ CLE L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 1 0 0 1 -4
+p642
+aVRodrigue Beaubois DAL 11/28/2009 DAL @ CLE L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p643
+aVJason Kidd DAL 11/28/2009 DAL @ CLE L 36 9 3 6 50.0 3 5 60.0 0 0 - 0 2 2 9 0 0 0 2 -7
+p644
+aVDrew Gooden DAL 11/28/2009 DAL @ CLE L 23 6 1 4 25.0 0 0 - 4 4 100.0 1 5 6 0 2 0 3 4 -4
+p645
+aVMatt Carroll DAL 11/28/2009 DAL @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p646
+aVShawn Marion DAL 11/28/2009 DAL @ CLE L 37 12 5 8 62.5 0 0 - 2 2 100.0 2 4 6 2 1 1 1 3 -4
+p647
+aVTim Thomas DAL 11/28/2009 DAL @ CLE L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -7
+p648
+aVJ.J. Barea DAL 11/28/2009 DAL @ CLE L 26 10 4 7 57.1 1 2 50.0 1 1 100.0 0 0 0 3 0 0 1 1 -18
+p649
+aVJason Kidd DAL 11/27/2009 DAL @ IND W 26 11 4 7 57.1 3 4 75.0 0 0 - 0 5 5 4 0 1 2 0 8
+p650
+aVKris Humphries DAL 11/27/2009 DAL @ IND W 23 12 3 10 30.0 0 0 - 6 9 66.7 5 6 11 1 0 1 1 4 8
+p651
+aVRodrigue Beaubois DAL 11/27/2009 DAL @ IND W 18 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 2 2 0 1 3 1
+p652
+aVJames Singleton DAL 11/27/2009 DAL @ IND W 23 6 2 9 22.2 0 2 0.0 2 2 100.0 4 6 10 2 1 1 1 5 9
+p653
+aVDirk Nowitzki DAL 11/27/2009 DAL @ IND W 30 31 10 14 71.4 0 0 - 11 13 84.6 0 4 4 2 1 2 2 1 18
+p654
+aVJ.J. Barea DAL 11/27/2009 DAL @ IND W 23 8 3 6 50.0 2 3 66.7 0 0 - 1 5 6 4 0 0 3 2 8
+p655
+aVShawn Marion DAL 11/27/2009 DAL @ IND W 30 13 6 15 40.0 0 2 0.0 1 2 50.0 4 4 8 0 0 1 0 3 10
+p656
+aVDrew Gooden DAL 11/27/2009 DAL @ IND W 20 4 2 6 33.3 0 0 - 0 0 - 2 5 7 1 0 0 2 2 3
+p657
+aVJason Terry DAL 11/27/2009 DAL @ IND W 29 17 7 14 50.0 1 4 25.0 2 2 100.0 0 0 0 3 2 0 0 0 25
+p658
+aVTim Thomas DAL 11/27/2009 DAL @ IND W 11 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 19
+p659
+aVMatt Carroll DAL 11/27/2009 DAL @ IND W 8 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 1 -4
+p660
+aVJason Terry DAL 11/25/2009 DAL @ HOU W 32 27 10 11 90.9 4 4 100.0 3 3 100.0 0 2 2 10 0 0 0 2 35
+p661
+aVJason Kidd DAL 11/25/2009 DAL @ HOU W 29 9 4 7 57.1 1 3 33.3 0 0 - 0 2 2 7 1 0 3 0 5
+p662
+aVTim Thomas DAL 11/25/2009 DAL @ HOU W 25 23 9 13 69.2 4 8 50.0 1 1 100.0 1 3 4 3 3 1 3 6 33
+p663
+aVKris Humphries DAL 11/25/2009 DAL @ HOU W 16 8 4 5 80.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 19
+p664
+aVJames Singleton DAL 11/25/2009 DAL @ HOU W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p665
+aVDrew Gooden DAL 11/25/2009 DAL @ HOU W 21 10 5 8 62.5 0 0 - 0 0 - 0 5 5 0 1 4 2 2 -4
+p666
+aVRodrigue Beaubois DAL 11/25/2009 DAL @ HOU W 17 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 1 1 1 2 1 -3
+p667
+aVJ.J. Barea DAL 11/25/2009 DAL @ HOU W 27 8 4 7 57.1 0 0 - 0 0 - 0 5 5 9 3 0 1 0 30
+p668
+aVShawn Marion DAL 11/25/2009 DAL @ HOU W 31 12 5 9 55.6 0 0 - 2 4 50.0 0 3 3 1 1 0 0 4 12
+p669
+aVMatt Carroll DAL 11/25/2009 DAL @ HOU W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 2 0 1 1 6
+p670
+aVDirk Nowitzki DAL 11/25/2009 DAL @ HOU W 36 25 10 16 62.5 0 0 - 5 6 83.3 2 6 8 1 2 2 0 1 16
+p671
+aVKris Humphries DAL 11/24/2009 DAL vs. GSW L 16 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 1 0 1 0 3 -2
+p672
+aVDrew Gooden DAL 11/24/2009 DAL vs. GSW L 32 14 6 11 54.5 0 0 - 2 2 100.0 4 8 12 0 1 3 0 3 -6
+p673
+aVJ.J. Barea DAL 11/24/2009 DAL vs. GSW L 29 8 3 9 33.3 1 4 25.0 1 1 100.0 0 3 3 5 1 0 2 5 0
+p674
+aVRodrigue Beaubois DAL 11/24/2009 DAL vs. GSW L 20 8 3 8 37.5 0 3 0.0 2 2 100.0 1 1 2 1 0 1 2 2 -8
+p675
+aVDirk Nowitzki DAL 11/24/2009 DAL vs. GSW L 40 28 9 18 50.0 0 0 - 10 12 83.3 2 8 10 3 2 1 5 3 -10
+p676
+aVTim Thomas DAL 11/24/2009 DAL vs. GSW L 14 9 3 3 100.0 1 1 100.0 2 2 100.0 0 1 1 0 1 0 2 2 -3
+p677
+aVJason Kidd DAL 11/24/2009 DAL vs. GSW L 36 5 1 4 25.0 1 2 50.0 2 2 100.0 0 10 10 13 1 0 3 0 -2
+p678
+aVQuinton Ross DAL 11/24/2009 DAL vs. GSW L 13 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 2 0 0 2 2
+p679
+aVJason Terry DAL 11/24/2009 DAL vs. GSW L 39 21 9 19 47.4 1 3 33.3 2 2 100.0 0 0 0 3 4 0 4 0 -11
+p680
+aVRodrigue Beaubois DAL 11/20/2009 DAL vs. SAC W 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 2 1 4
+p681
+aVDrew Gooden DAL 11/20/2009 DAL vs. SAC W 30 9 4 16 25.0 0 0 - 1 1 100.0 9 7 16 0 0 1 4 4 -5
+p682
+aVTim Thomas DAL 11/20/2009 DAL vs. SAC W 24 11 5 10 50.0 0 2 0.0 1 1 100.0 3 4 7 2 1 0 0 2 -2
+p683
+aVKris Humphries DAL 11/20/2009 DAL vs. SAC W 24 15 7 11 63.6 0 0 - 1 4 25.0 1 4 5 1 2 0 0 1 2
+p684
+aVJason Kidd DAL 11/20/2009 DAL vs. SAC W 32 15 5 13 38.5 5 9 55.6 0 0 - 1 3 4 11 3 0 2 1 -3
+p685
+aVJason Terry DAL 11/20/2009 DAL vs. SAC W 34 20 8 15 53.3 0 5 0.0 4 5 80.0 0 0 0 4 1 1 3 3 -2
+p686
+aVJ.J. Barea DAL 11/20/2009 DAL vs. SAC W 17 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 2 1 0 1 0 0
+p687
+aVQuinton Ross DAL 11/20/2009 DAL vs. SAC W 26 4 2 3 66.7 0 0 - 0 1 0.0 3 1 4 0 1 0 1 1 0
+p688
+aVDirk Nowitzki DAL 11/20/2009 DAL vs. SAC W 39 20 6 15 40.0 0 1 0.0 8 9 88.9 0 5 5 7 1 2 1 2 16
+p689
+aVTim Thomas DAL 11/18/2009 DAL vs. SAS W 13 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 2
+p690
+aVQuinton Ross DAL 11/18/2009 DAL vs. SAS W 19 2 1 5 20.0 0 2 0.0 0 1 0.0 2 2 4 1 1 0 0 1 -9
+p691
+aVJason Kidd DAL 11/18/2009 DAL vs. SAS W 45 2 1 6 16.7 0 4 0.0 0 0 - 0 11 11 8 4 0 1 3 4
+p692
+aVDirk Nowitzki DAL 11/18/2009 DAL vs. SAS W 45 41 15 29 51.7 1 1 100.0 10 12 83.3 3 9 12 0 0 1 0 3 4
+p693
+aVJ.J. Barea DAL 11/18/2009 DAL vs. SAS W 31 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 3 0 0 0 3 14
+p694
+aVRodrigue Beaubois DAL 11/18/2009 DAL vs. SAS W 17 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 1 -6
+p695
+aVJason Terry DAL 11/18/2009 DAL vs. SAS W 41 13 4 19 21.1 1 5 20.0 4 4 100.0 0 1 1 3 2 0 0 3 6
+p696
+aVKris Humphries DAL 11/18/2009 DAL vs. SAS W 19 5 2 7 28.6 0 0 - 1 2 50.0 5 0 5 0 0 2 1 2 15
+p697
+aVDrew Gooden DAL 11/18/2009 DAL vs. SAS W 36 17 8 13 61.5 0 0 - 1 2 50.0 5 6 11 0 1 3 1 6 -5
+p698
+aVKris Humphries DAL 11/16/2009 DAL @ MIL W 16 4 2 3 66.7 0 0 - 0 1 0.0 0 6 6 0 0 0 1 3 2
+p699
+aVShawn Marion DAL 11/16/2009 DAL @ MIL W 14 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p700
+aVJason Kidd DAL 11/16/2009 DAL @ MIL W 40 9 3 7 42.9 3 4 75.0 0 0 - 2 8 10 17 2 0 5 0 6
+p701
+aVRodrigue Beaubois DAL 11/16/2009 DAL @ MIL W 24 12 5 9 55.6 1 2 50.0 1 2 50.0 1 1 2 1 1 1 2 4 13
+p702
+aVQuinton Ross DAL 11/16/2009 DAL @ MIL W 20 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -4
+p703
+aVJames Singleton DAL 11/16/2009 DAL @ MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p704
+aVJ.J. Barea DAL 11/16/2009 DAL @ MIL W 27 11 4 8 50.0 3 5 60.0 0 0 - 0 0 0 4 0 0 2 2 -15
+p705
+aVDrew Gooden DAL 11/16/2009 DAL @ MIL W 40 22 9 13 69.2 0 0 - 4 5 80.0 4 10 14 0 0 0 1 4 -1
+p706
+aVJason Terry DAL 11/16/2009 DAL @ MIL W 37 19 6 14 42.9 2 6 33.3 5 6 83.3 1 2 3 2 0 1 4 1 -1
+p707
+aVDirk Nowitzki DAL 11/16/2009 DAL @ MIL W 43 32 12 25 48.0 1 2 50.0 7 8 87.5 0 11 11 3 2 1 0 2 13
+p708
+aVQuinton Ross DAL 11/15/2009 DAL @ DET W 15 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 1 0 2 -13
+p709
+aVDrew Gooden DAL 11/15/2009 DAL @ DET W 37 11 4 8 50.0 0 0 - 3 3 100.0 3 8 11 1 0 1 1 3 14
+p710
+aVJason Terry DAL 11/15/2009 DAL @ DET W 29 9 1 7 14.3 1 4 25.0 6 8 75.0 0 4 4 1 3 0 1 3 -8
+p711
+aVKris Humphries DAL 11/15/2009 DAL @ DET W 13 5 2 6 33.3 0 0 - 1 3 33.3 2 0 2 0 0 2 0 1 -11
+p712
+aVRodrigue Beaubois DAL 11/15/2009 DAL @ DET W 19 14 6 6 100.0 2 2 100.0 0 0 - 0 1 1 4 2 0 0 1 13
+p713
+aVJason Kidd DAL 11/15/2009 DAL @ DET W 36 10 4 8 50.0 2 4 50.0 0 0 - 1 3 4 7 2 0 3 1 14
+p714
+aVDirk Nowitzki DAL 11/15/2009 DAL @ DET W 39 25 11 27 40.7 0 2 0.0 3 3 100.0 1 5 6 5 1 2 1 2 8
+p715
+aVShawn Marion DAL 11/15/2009 DAL @ DET W 30 11 5 11 45.5 0 0 - 1 2 50.0 4 3 7 4 2 1 0 1 15
+p716
+aVJ.J. Barea DAL 11/15/2009 DAL @ DET W 21 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 3 1 0 1 1 -7
+p717
+aVDrew Gooden DAL 11/13/2009 DAL @ MIN W 21 9 3 8 37.5 0 0 - 3 6 50.0 1 4 5 0 0 3 0 5 4
+p718
+aVDirk Nowitzki DAL 11/13/2009 DAL @ MIN W 29 20 8 15 53.3 1 3 33.3 3 4 75.0 2 9 11 2 0 3 0 2 17
+p719
+aVErick Dampier DAL 11/13/2009 DAL @ MIN W 20 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 2 3 2 9
+p720
+aVRodrigue Beaubois DAL 11/13/2009 DAL @ MIN W 15 9 3 7 42.9 1 3 33.3 2 2 100.0 0 2 2 1 0 1 3 3 -6
+p721
+aVQuinton Ross DAL 11/13/2009 DAL @ MIN W 18 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 1 0 0 3 -7
+p722
+aVJason Kidd DAL 11/13/2009 DAL @ MIN W 27 6 2 5 40.0 2 5 40.0 0 0 - 0 7 7 6 1 1 4 1 16
+p723
+aVMatt Carroll DAL 11/13/2009 DAL @ MIN W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -5
+p724
+aVJason Terry DAL 11/13/2009 DAL @ MIN W 31 12 6 15 40.0 0 4 0.0 0 0 - 1 5 6 4 3 0 1 0 18
+p725
+aVShawn Marion DAL 11/13/2009 DAL @ MIN W 30 15 6 11 54.5 0 1 0.0 3 4 75.0 1 2 3 4 1 0 2 1 19
+p726
+aVJames Singleton DAL 11/13/2009 DAL @ MIN W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 1 0 1 3 3 -7
+p727
+aVJ.J. Barea DAL 11/13/2009 DAL @ MIN W 20 7 2 10 20.0 0 3 0.0 3 3 100.0 1 1 2 2 0 0 0 1 1
+p728
+aVKris Humphries DAL 11/13/2009 DAL @ MIN W 15 9 3 8 37.5 0 0 - 3 3 100.0 4 5 9 0 0 1 0 2 1
+p729
+aVShawn Marion DAL 11/11/2009 DAL @ SAS L 32 11 5 7 71.4 0 0 - 1 2 50.0 3 6 9 0 2 0 2 4 -11
+p730
+aVDirk Nowitzki DAL 11/11/2009 DAL @ SAS L 41 29 9 27 33.3 1 3 33.3 10 10 100.0 1 11 12 1 1 1 2 2 4
+p731
+aVJason Kidd DAL 11/11/2009 DAL @ SAS L 37 5 2 6 33.3 1 3 33.3 0 0 - 0 6 6 9 2 1 3 2 -15
+p732
+aVJosh Howard DAL 11/11/2009 DAL @ SAS L 19 8 2 11 18.2 1 2 50.0 3 4 75.0 3 2 5 0 0 0 1 1 -1
+p733
+aVQuinton Ross DAL 11/11/2009 DAL @ SAS L 19 3 1 1 100.0 1 1 100.0 0 0 - 1 2 3 1 0 0 0 3 4
+p734
+aVJames Singleton DAL 11/11/2009 DAL @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p735
+aVDrew Gooden DAL 11/11/2009 DAL @ SAS L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p736
+aVJason Terry DAL 11/11/2009 DAL @ SAS L 36 19 6 13 46.2 1 4 25.0 6 7 85.7 0 2 2 2 1 0 2 1 1
+p737
+aVErick Dampier DAL 11/11/2009 DAL @ SAS L 18 1 0 2 0.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 3 -11
+p738
+aVJ.J. Barea DAL 11/11/2009 DAL @ SAS L 27 5 2 9 22.2 0 2 0.0 1 2 50.0 0 5 5 2 0 0 1 2 -8
+p739
+aVJosh Howard DAL 11/10/2009 DAL vs. HOU W 23 14 6 14 42.9 2 4 50.0 0 0 - 0 2 2 0 1 0 1 2 15
+p740
+aVDirk Nowitzki DAL 11/10/2009 DAL vs. HOU W 34 23 6 15 40.0 1 2 50.0 10 10 100.0 0 6 6 4 1 1 1 2 26
+p741
+aVErick Dampier DAL 11/10/2009 DAL vs. HOU W 32 14 6 6 100.0 0 0 - 2 2 100.0 3 17 20 0 1 3 0 5 20
+p742
+aVDrew Gooden DAL 11/10/2009 DAL vs. HOU W 17 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 2 6 -8
+p743
+aVJason Terry DAL 11/10/2009 DAL vs. HOU W 25 24 7 8 87.5 1 1 100.0 9 9 100.0 0 0 0 3 1 0 3 2 0
+p744
+aVJason Kidd DAL 11/10/2009 DAL vs. HOU W 29 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 11 0 1 1 1 21
+p745
+aVJames Singleton DAL 11/10/2009 DAL vs. HOU W 6 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 0 0 0 0 0 -5
+p746
+aVJ.J. Barea DAL 11/10/2009 DAL vs. HOU W 23 14 6 9 66.7 2 2 100.0 0 0 - 0 2 2 5 0 0 3 3 2
+p747
+aVQuinton Ross DAL 11/10/2009 DAL vs. HOU W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 2
+p748
+aVKris Humphries DAL 11/10/2009 DAL vs. HOU W 2 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p749
+aVShawn Marion DAL 11/10/2009 DAL vs. HOU W 32 10 5 12 41.7 0 0 - 0 0 - 3 3 6 3 1 0 2 3 17
+p750
+aVRodrigue Beaubois DAL 11/10/2009 DAL vs. HOU W 3 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 0
+p751
+aVErick Dampier DAL 11/07/2009 DAL vs. TOR W 18 5 2 4 50.0 0 0 - 1 4 25.0 2 4 6 2 0 1 1 3 7
+p752
+aVJames Singleton DAL 11/07/2009 DAL vs. TOR W 18 10 4 5 80.0 2 3 66.7 0 0 - 0 2 2 0 2 1 1 4 18
+p753
+aVJ.J. Barea DAL 11/07/2009 DAL vs. TOR W 24 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 12 0 0 1 3 18
+p754
+aVJason Kidd DAL 11/07/2009 DAL vs. TOR W 26 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 6 1 0 2 1 6
+p755
+aVJosh Howard DAL 11/07/2009 DAL vs. TOR W 24 16 5 12 41.7 0 4 0.0 6 10 60.0 0 4 4 2 3 0 0 2 15
+p756
+aVMatt Carroll DAL 11/07/2009 DAL vs. TOR W 3 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 7
+p757
+aVRodrigue Beaubois DAL 11/07/2009 DAL vs. TOR W 4 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 7
+p758
+aVShawn Marion DAL 11/07/2009 DAL vs. TOR W 29 18 9 11 81.8 0 0 - 0 0 - 2 6 8 1 1 0 0 1 10
+p759
+aVDirk Nowitzki DAL 11/07/2009 DAL vs. TOR W 37 29 12 20 60.0 3 4 75.0 2 2 100.0 0 9 9 4 2 1 3 0 23
+p760
+aVKris Humphries DAL 11/07/2009 DAL vs. TOR W 13 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 1 1 0 0 3 7
+p761
+aVJason Terry DAL 11/07/2009 DAL vs. TOR W 32 19 8 12 66.7 3 5 60.0 0 1 0.0 0 2 2 4 1 0 1 1 16
+p762
+aVQuinton Ross DAL 11/07/2009 DAL vs. TOR W 10 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 6
+p763
+aVJason Kidd DAL 11/04/2009 DAL @ NOH L 44 9 3 12 25.0 3 7 42.9 0 0 - 1 4 5 10 0 0 2 1 -1
+p764
+aVErick Dampier DAL 11/04/2009 DAL @ NOH L 34 16 7 8 87.5 0 0 - 2 2 100.0 7 7 14 0 0 3 1 4 -12
+p765
+aVKris Humphries DAL 11/04/2009 DAL @ NOH L 19 7 2 4 50.0 0 0 - 3 3 100.0 0 3 3 0 0 0 2 3 5
+p766
+aVJames Singleton DAL 11/04/2009 DAL @ NOH L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 0 1 0 1 2 11
+p767
+aVRodrigue Beaubois DAL 11/04/2009 DAL @ NOH L 14 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 2 2 -5
+p768
+aVJ.J. Barea DAL 11/04/2009 DAL @ NOH L 28 8 3 10 30.0 2 6 33.3 0 2 0.0 0 1 1 3 0 1 1 4 -3
+p769
+aVDirk Nowitzki DAL 11/04/2009 DAL @ NOH L 37 12 4 15 26.7 0 1 0.0 4 5 80.0 0 5 5 2 1 0 2 6 -5
+p770
+aVJason Terry DAL 11/04/2009 DAL @ NOH L 39 35 12 18 66.7 4 8 50.0 7 10 70.0 0 2 2 3 1 0 1 2 -2
+p771
+aVShawn Marion DAL 11/04/2009 DAL @ NOH L 39 8 3 9 33.3 0 0 - 2 2 100.0 4 2 6 0 1 2 5 1 -23
+p772
+aVMatt Carroll DAL 11/03/2009 DAL vs. UTA W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -3
+p773
+aVJ.J. Barea DAL 11/03/2009 DAL vs. UTA W 19 8 3 9 33.3 1 3 33.3 1 1 100.0 0 0 0 0 0 1 1 2 1
+p774
+aVQuinton Ross DAL 11/03/2009 DAL vs. UTA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p775
+aVJason Kidd DAL 11/03/2009 DAL vs. UTA W 37 19 6 11 54.5 5 8 62.5 2 2 100.0 0 5 5 6 2 0 7 3 11
+p776
+aVErick Dampier DAL 11/03/2009 DAL vs. UTA W 38 4 2 5 40.0 0 0 - 0 0 - 4 8 12 0 0 6 1 3 19
+p777
+aVJason Terry DAL 11/03/2009 DAL vs. UTA W 34 10 4 13 30.8 0 3 0.0 2 2 100.0 1 4 5 4 2 0 2 1 11
+p778
+aVJames Singleton DAL 11/03/2009 DAL vs. UTA W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -9
+p779
+aVKris Humphries DAL 11/03/2009 DAL vs. UTA W 16 5 2 7 28.6 0 0 - 1 2 50.0 3 2 5 1 0 0 2 1 -16
+p780
+aVShawn Marion DAL 11/03/2009 DAL vs. UTA W 39 10 5 15 33.3 0 0 - 0 0 - 3 5 8 2 2 0 2 2 19
+p781
+aVDirk Nowitzki DAL 11/03/2009 DAL vs. UTA W 39 40 12 22 54.5 1 3 33.3 15 16 93.8 2 9 11 5 2 5 0 2 23
+p782
+aVErick Dampier DAL 10/31/2009 DAL @ LAC W 35 12 6 10 60.0 0 0 - 0 0 - 2 8 10 1 0 3 0 3 14
+p783
+aVQuinton Ross DAL 10/31/2009 DAL @ LAC W 10 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 0 -13
+p784
+aVDirk Nowitzki DAL 10/31/2009 DAL @ LAC W 42 24 9 19 47.4 0 3 0.0 6 8 75.0 0 9 9 3 2 1 5 1 9
+p785
+aVJason Kidd DAL 10/31/2009 DAL @ LAC W 40 3 1 6 16.7 1 5 20.0 0 0 - 2 4 6 10 3 1 2 4 6
+p786
+aVShawn Marion DAL 10/31/2009 DAL @ LAC W 38 16 7 19 36.8 0 0 - 2 2 100.0 2 9 11 0 1 2 0 0 9
+p787
+aVKris Humphries DAL 10/31/2009 DAL @ LAC W 20 9 4 8 50.0 0 0 - 1 2 50.0 2 4 6 1 0 0 0 3 -5
+p788
+aVJason Terry DAL 10/31/2009 DAL @ LAC W 35 16 5 13 38.5 1 4 25.0 5 5 100.0 1 1 2 6 4 0 3 3 22
+p789
+aVMatt Carroll DAL 10/31/2009 DAL @ LAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 7
+p790
+aVJ.J. Barea DAL 10/31/2009 DAL @ LAC W 15 9 2 5 40.0 1 2 50.0 4 4 100.0 0 0 0 4 1 0 1 0 -4
+p791
+aVJames Singleton DAL 10/30/2009 DAL @ LAL W 8 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 -10
+p792
+aVShawn Marion DAL 10/30/2009 DAL @ LAL W 34 18 8 15 53.3 0 0 - 2 2 100.0 4 2 6 1 1 1 1 2 37
+p793
+aVQuinton Ross DAL 10/30/2009 DAL @ LAL W 13 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -4
+p794
+aVDirk Nowitzki DAL 10/30/2009 DAL @ LAL W 38 21 5 14 35.7 1 4 25.0 10 11 90.9 0 10 10 1 1 1 1 2 32
+p795
+aVJason Terry DAL 10/30/2009 DAL @ LAL W 34 16 5 12 41.7 3 5 60.0 3 5 60.0 0 3 3 2 0 0 1 0 7
+p796
+aVJason Kidd DAL 10/30/2009 DAL @ LAL W 34 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 11 1 0 6 1 24
+p797
+aVRodrigue Beaubois DAL 10/30/2009 DAL @ LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p798
+aVErick Dampier DAL 10/30/2009 DAL @ LAL W 18 8 3 5 60.0 0 0 - 2 4 50.0 3 7 10 1 1 1 2 2 13
+p799
+aVMatt Carroll DAL 10/30/2009 DAL @ LAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p800
+aVJ.J. Barea DAL 10/30/2009 DAL @ LAL W 25 12 3 7 42.9 0 0 - 6 6 100.0 2 2 4 2 0 0 2 2 0
+p801
+aVKris Humphries DAL 10/30/2009 DAL @ LAL W 20 8 4 8 50.0 0 0 - 0 2 0.0 3 4 7 0 2 0 3 5 -14
+p802
+aVDrew Gooden DAL 10/30/2009 DAL @ LAL W 12 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -5
+p803
+aVDirk Nowitzki DAL 10/27/2009 DAL vs. WAS L 39 34 10 25 40.0 2 5 40.0 12 13 92.3 1 8 9 1 0 2 3 2 -3
+p804
+aVShawn Marion DAL 10/27/2009 DAL vs. WAS L 36 16 6 12 50.0 0 1 0.0 4 5 80.0 4 3 7 0 1 3 0 3 -17
+p805
+aVJason Kidd DAL 10/27/2009 DAL vs. WAS L 37 4 2 6 33.3 0 3 0.0 0 0 - 0 6 6 6 2 0 0 2 -9
+p806
+aVJason Terry DAL 10/27/2009 DAL vs. WAS L 37 12 4 15 26.7 1 6 16.7 3 5 60.0 1 3 4 4 1 0 0 2 -11
+p807
+aVErick Dampier DAL 10/27/2009 DAL vs. WAS L 29 8 2 2 100.0 0 0 - 4 6 66.7 3 3 6 0 0 1 1 3 -4
+p808
+aVJ.J. Barea DAL 10/27/2009 DAL vs. WAS L 23 13 4 8 50.0 1 2 50.0 4 5 80.0 0 6 6 4 0 0 3 2 -12
+p809
+aVDrew Gooden DAL 10/27/2009 DAL vs. WAS L 16 2 1 6 16.7 0 0 - 0 0 - 2 2 4 0 2 2 2 2 -9
+p810
+aVKris Humphries DAL 10/27/2009 DAL vs. WAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p811
+aVQuinton Ross DAL 10/27/2009 DAL vs. WAS L 19 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 4 7
+p812
+a.

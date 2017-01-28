@@ -1,0 +1,414 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKobe Bryant LAL 06/17/2008 LAL @ BOS L 43 22 7 22 31.8 3 9 33.3 5 5 100.0 1 2 3 1 1 0 4 1 -35
+p2
+aVLamar Odom LAL 06/17/2008 LAL @ BOS L 40 14 2 8 25.0 0 1 0.0 10 16 62.5 0 10 10 5 0 0 3 4 -34
+p3
+aVPau Gasol LAL 06/17/2008 LAL @ BOS L 32 11 4 7 57.1 0 0 - 3 4 75.0 0 8 8 2 0 0 5 3 -28
+p4
+aVVladimir Radmanovic LAL 06/17/2008 LAL @ BOS L 22 6 2 6 33.3 2 6 33.3 0 0 - 0 3 3 0 0 0 0 5 -10
+p5
+aVLuke Walton LAL 06/17/2008 LAL @ BOS L 14 8 2 4 50.0 1 2 50.0 3 4 75.0 0 0 0 2 1 0 0 2 -19
+p6
+aVRonny Turiaf LAL 06/17/2008 LAL @ BOS L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -9
+p7
+aVDerek Fisher LAL 06/17/2008 LAL @ BOS L 28 7 2 4 50.0 0 2 0.0 3 3 100.0 0 0 0 4 0 0 1 5 -15
+p8
+aVTrevor Ariza LAL 06/17/2008 LAL @ BOS L 9 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -7
+p9
+aVJordan Farmar LAL 06/17/2008 LAL @ BOS L 26 12 3 5 60.0 3 4 75.0 3 4 75.0 0 1 1 1 1 0 4 2 -27
+p10
+aVSasha Vujacic LAL 06/17/2008 LAL @ BOS L 15 7 3 4 75.0 1 2 50.0 0 0 - 1 1 2 1 1 0 2 0 -11
+p11
+aVLamar Odom LAL 06/15/2008 LAL vs. BOS W 41 20 8 10 80.0 1 1 100.0 3 3 100.0 2 9 11 2 0 4 4 3 9
+p12
+aVRonny Turiaf LAL 06/15/2008 LAL vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p13
+aVChris Mihm LAL 06/15/2008 LAL vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p14
+aVLuke Walton LAL 06/15/2008 LAL vs. BOS W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 5 0
+p15
+aVTrevor Ariza LAL 06/15/2008 LAL vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p16
+aVPau Gasol LAL 06/15/2008 LAL vs. BOS W 42 19 6 10 60.0 0 0 - 7 10 70.0 3 10 13 6 1 2 0 3 13
+p17
+aVDerek Fisher LAL 06/15/2008 LAL vs. BOS W 35 15 3 10 30.0 1 5 20.0 8 11 72.7 1 1 2 2 2 0 2 2 11
+p18
+aVSasha Vujacic LAL 06/15/2008 LAL vs. BOS W 20 4 2 10 20.0 0 5 0.0 0 0 - 1 0 1 0 1 0 0 2 -11
+p19
+aVKobe Bryant LAL 06/15/2008 LAL vs. BOS W 44 25 8 21 38.1 4 9 44.4 5 7 71.4 3 4 7 4 5 0 6 4 8
+p20
+aVVladimir Radmanovic LAL 06/15/2008 LAL vs. BOS W 19 7 3 6 50.0 1 2 50.0 0 0 - 0 5 5 2 1 0 3 2 20
+p21
+aVJordan Farmar LAL 06/15/2008 LAL vs. BOS W 22 11 5 9 55.6 1 4 25.0 0 0 - 0 1 1 1 1 1 0 3 -13
+p22
+aVDerek Fisher LAL 06/12/2008 LAL vs. BOS L 25 13 4 5 80.0 0 1 0.0 5 6 83.3 0 0 0 3 0 0 3 2 7
+p23
+aVLuke Walton LAL 06/12/2008 LAL vs. BOS L 4 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 1 1 -2
+p24
+aVSasha Vujacic LAL 06/12/2008 LAL vs. BOS L 24 3 1 9 11.1 1 5 20.0 0 0 - 1 2 3 1 1 0 1 3 -14
+p25
+aVRonny Turiaf LAL 06/12/2008 LAL vs. BOS L 10 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 1 0 2 0
+p26
+aVLamar Odom LAL 06/12/2008 LAL vs. BOS L 39 19 8 11 72.7 0 1 0.0 3 4 75.0 4 6 10 4 0 1 2 1 6
+p27
+aVTrevor Ariza LAL 06/12/2008 LAL vs. BOS L 9 6 2 2 100.0 1 1 100.0 1 2 50.0 3 2 5 0 1 1 0 2 -6
+p28
+aVKobe Bryant LAL 06/12/2008 LAL vs. BOS L 43 17 6 19 31.6 0 2 0.0 5 6 83.3 0 4 4 10 4 0 2 4 -9
+p29
+aVJordan Farmar LAL 06/12/2008 LAL vs. BOS L 21 3 1 6 16.7 1 3 33.3 0 0 - 0 3 3 1 0 0 0 0 -5
+p30
+aVVladimir Radmanovic LAL 06/12/2008 LAL vs. BOS L 27 10 3 8 37.5 2 5 40.0 2 2 100.0 1 4 5 2 0 0 0 3 -1
+p31
+aVPau Gasol LAL 06/12/2008 LAL vs. BOS L 38 17 6 13 46.2 0 0 - 5 7 71.4 1 9 10 2 0 0 3 5 -6
+p32
+aVSasha Vujacic LAL 06/10/2008 LAL vs. BOS W 28 20 7 10 70.0 3 5 60.0 3 4 75.0 0 4 4 1 0 1 0 2 15
+p33
+aVDerek Fisher LAL 06/10/2008 LAL vs. BOS W 28 6 1 6 16.7 0 1 0.0 4 4 100.0 1 2 3 1 1 0 1 1 -3
+p34
+aVKobe Bryant LAL 06/10/2008 LAL vs. BOS W 45 36 12 20 60.0 1 2 50.0 11 18 61.1 3 4 7 1 2 0 3 4 2
+p35
+aVJordan Farmar LAL 06/10/2008 LAL vs. BOS W 20 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 5 0 1 0 0 9
+p36
+aVTrevor Ariza LAL 06/10/2008 LAL vs. BOS W 9 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -6
+p37
+aVVladimir Radmanovic LAL 06/10/2008 LAL vs. BOS W 13 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 4 1
+p38
+aVPau Gasol LAL 06/10/2008 LAL vs. BOS W 39 9 3 9 33.3 0 0 - 3 8 37.5 3 9 12 2 0 0 3 3 -1
+p39
+aVLuke Walton LAL 06/10/2008 LAL vs. BOS W 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 0 1 0 1 12
+p40
+aVRonny Turiaf LAL 06/10/2008 LAL vs. BOS W 19 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 3 2
+p41
+aVLamar Odom LAL 06/10/2008 LAL vs. BOS W 28 4 2 9 22.2 0 1 0.0 0 0 - 1 8 9 4 1 1 5 5 -1
+p42
+aVVladimir Radmanovic LAL 06/08/2008 LAL @ BOS L 30 13 5 12 41.7 3 7 42.9 0 0 - 3 7 10 2 1 0 1 3 9
+p43
+aVTrevor Ariza LAL 06/08/2008 LAL @ BOS L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -6
+p44
+aVLuke Walton LAL 06/08/2008 LAL @ BOS L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -16
+p45
+aVDerek Fisher LAL 06/08/2008 LAL @ BOS L 30 9 3 8 37.5 1 4 25.0 2 2 100.0 0 0 0 3 3 0 0 5 10
+p46
+aVRonny Turiaf LAL 06/08/2008 LAL @ BOS L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -12
+p47
+aVSasha Vujacic LAL 06/08/2008 LAL @ BOS L 20 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 2 3 2
+p48
+aVLamar Odom LAL 06/08/2008 LAL @ BOS L 32 10 5 11 45.5 0 0 - 0 0 - 3 5 8 2 0 0 2 5 -13
+p49
+aVJordan Farmar LAL 06/08/2008 LAL @ BOS L 18 9 3 6 50.0 3 4 75.0 0 0 - 1 0 1 0 0 1 0 1 -16
+p50
+aVKobe Bryant LAL 06/08/2008 LAL @ BOS L 40 30 11 23 47.8 1 3 33.3 7 7 100.0 1 3 4 8 3 0 4 3 8
+p51
+aVPau Gasol LAL 06/08/2008 LAL @ BOS L 40 17 8 12 66.7 0 0 - 1 1 100.0 3 7 10 4 1 0 1 3 4
+p52
+aVDerek Fisher LAL 06/05/2008 LAL @ BOS L 41 15 4 9 44.4 1 3 33.3 6 8 75.0 0 4 4 6 3 0 2 2 -7
+p53
+aVRonny Turiaf LAL 06/05/2008 LAL @ BOS L 12 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 -3
+p54
+aVVladimir Radmanovic LAL 06/05/2008 LAL @ BOS L 17 5 2 5 40.0 1 4 25.0 0 0 - 2 3 5 2 2 0 0 5 1
+p55
+aVLamar Odom LAL 06/05/2008 LAL @ BOS L 39 14 6 11 54.5 0 1 0.0 2 5 40.0 2 4 6 1 1 0 0 5 -6
+p56
+aVSasha Vujacic LAL 06/05/2008 LAL @ BOS L 27 8 2 7 28.6 1 3 33.3 3 3 100.0 0 2 2 1 0 0 0 4 -9
+p57
+aVKobe Bryant LAL 06/05/2008 LAL @ BOS L 42 24 9 26 34.6 0 3 0.0 6 6 100.0 0 3 3 6 1 1 4 3 -13
+p58
+aVPau Gasol LAL 06/05/2008 LAL @ BOS L 41 15 6 11 54.5 0 0 - 3 4 75.0 2 6 8 4 1 1 1 3 -5
+p59
+aVLuke Walton LAL 06/05/2008 LAL @ BOS L 14 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -5
+p60
+aVJordan Farmar LAL 06/05/2008 LAL @ BOS L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p61
+aVDerek Fisher LAL 05/29/2008 LAL vs. SAS W 31 5 2 7 28.6 1 3 33.3 0 0 - 0 3 3 1 2 0 0 2 9
+p62
+aVJordan Farmar LAL 05/29/2008 LAL vs. SAS W 17 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 -1
+p63
+aVLuke Walton LAL 05/29/2008 LAL vs. SAS W 14 5 1 4 25.0 1 2 50.0 2 2 100.0 0 2 2 1 1 0 0 2 6
+p64
+aVRonny Turiaf LAL 05/29/2008 LAL vs. SAS W 5 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 1 0 0 2
+p65
+aVKobe Bryant LAL 05/29/2008 LAL vs. SAS W 43 39 16 30 53.3 2 6 33.3 5 5 100.0 0 3 3 3 2 0 2 2 6
+p66
+aVVladimir Radmanovic LAL 05/29/2008 LAL vs. SAS W 31 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 2 0 0 1 3 10
+p67
+aVLamar Odom LAL 05/29/2008 LAL vs. SAS W 34 13 5 10 50.0 0 1 0.0 3 3 100.0 2 6 8 1 0 1 2 4 -7
+p68
+aVSasha Vujacic LAL 05/29/2008 LAL vs. SAS W 23 9 2 5 40.0 2 4 50.0 3 4 75.0 0 3 3 0 3 0 1 2 9
+p69
+aVPau Gasol LAL 05/29/2008 LAL vs. SAS W 43 12 5 15 33.3 0 0 - 2 2 100.0 9 10 19 5 0 4 3 3 6
+p70
+aVLamar Odom LAL 05/27/2008 LAL @ SAS W 31 16 4 9 44.4 0 0 - 8 9 88.9 2 7 9 3 0 0 1 5 11
+p71
+aVKobe Bryant LAL 05/27/2008 LAL @ SAS W 41 28 14 29 48.3 0 1 0.0 0 0 - 2 8 10 1 1 0 2 1 5
+p72
+aVSasha Vujacic LAL 05/27/2008 LAL @ SAS W 19 4 1 6 16.7 1 4 25.0 1 1 100.0 1 0 1 0 0 0 2 4 -8
+p73
+aVRonny Turiaf LAL 05/27/2008 LAL @ SAS W 11 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 0 1 0 1 2
+p74
+aVDerek Fisher LAL 05/27/2008 LAL @ SAS W 24 9 4 7 57.1 1 1 100.0 0 0 - 0 3 3 1 2 0 1 4 0
+p75
+aVVladimir Radmanovic LAL 05/27/2008 LAL @ SAS W 31 11 5 8 62.5 1 4 25.0 0 0 - 2 4 6 2 1 0 2 2 3
+p76
+aVLuke Walton LAL 05/27/2008 LAL @ SAS W 20 9 4 10 40.0 0 2 0.0 1 3 33.3 2 3 5 1 0 0 3 1 -3
+p77
+aVPau Gasol LAL 05/27/2008 LAL @ SAS W 37 10 4 7 57.1 0 0 - 2 4 50.0 3 7 10 6 1 2 2 3 0
+p78
+aVJordan Farmar LAL 05/27/2008 LAL @ SAS W 23 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 2 0 0 1 3 -2
+p79
+aVTrevor Ariza LAL 05/27/2008 LAL @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p80
+aVTrevor Ariza LAL 05/25/2008 LAL @ SAS L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p81
+aVSasha Vujacic LAL 05/25/2008 LAL @ SAS L 23 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 0 2 -15
+p82
+aVDerek Fisher LAL 05/25/2008 LAL @ SAS L 29 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 -9
+p83
+aVJordan Farmar LAL 05/25/2008 LAL @ SAS L 19 10 4 9 44.4 2 3 66.7 0 0 - 1 2 3 0 0 0 1 0 -10
+p84
+aVPau Gasol LAL 05/25/2008 LAL @ SAS L 37 15 7 18 38.9 0 0 - 1 2 50.0 1 4 5 1 0 0 1 3 -7
+p85
+aVLamar Odom LAL 05/25/2008 LAL @ SAS L 36 7 2 11 18.2 0 0 - 3 8 37.5 3 8 11 6 1 0 5 2 -13
+p86
+aVRonny Turiaf LAL 05/25/2008 LAL @ SAS L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -12
+p87
+aVLuke Walton LAL 05/25/2008 LAL @ SAS L 16 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 1 -16
+p88
+aVVladimir Radmanovic LAL 05/25/2008 LAL @ SAS L 28 9 4 8 50.0 0 2 0.0 1 2 50.0 1 8 9 2 1 0 1 4 -5
+p89
+aVKobe Bryant LAL 05/25/2008 LAL @ SAS L 38 30 13 23 56.5 4 9 44.4 0 1 0.0 1 4 5 1 3 0 4 3 -10
+p90
+aVTrevor Ariza LAL 05/23/2008 LAL vs. SAS W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p91
+aVDerek Fisher LAL 05/23/2008 LAL vs. SAS W 23 11 4 5 80.0 0 0 - 3 3 100.0 0 1 1 3 1 0 0 2 11
+p92
+aVSasha Vujacic LAL 05/23/2008 LAL vs. SAS W 31 7 3 9 33.3 1 5 20.0 0 0 - 0 3 3 2 1 0 2 2 23
+p93
+aVRonny Turiaf LAL 05/23/2008 LAL vs. SAS W 16 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 1 0 2 2 2 8
+p94
+aVPau Gasol LAL 05/23/2008 LAL vs. SAS W 29 10 4 9 44.4 0 0 - 2 2 100.0 0 7 7 3 2 0 0 3 17
+p95
+aVVladimir Radmanovic LAL 05/23/2008 LAL vs. SAS W 18 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 7
+p96
+aVJordan Farmar LAL 05/23/2008 LAL vs. SAS W 25 14 5 7 71.4 2 4 50.0 2 2 100.0 0 2 2 0 1 1 2 1 19
+p97
+aVLuke Walton LAL 05/23/2008 LAL vs. SAS W 22 7 2 7 28.6 1 3 33.3 2 2 100.0 1 4 5 4 2 0 1 1 10
+p98
+aVKobe Bryant LAL 05/23/2008 LAL vs. SAS W 36 22 10 17 58.8 1 5 20.0 1 1 100.0 0 5 5 5 1 0 3 0 24
+p99
+aVDJ Mbenga LAL 05/23/2008 LAL vs. SAS W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p100
+aVLamar Odom LAL 05/23/2008 LAL vs. SAS W 32 20 7 10 70.0 0 0 - 6 8 75.0 1 11 12 2 0 4 3 2 22
+p101
+aVJordan Farmar LAL 05/21/2008 LAL vs. SAS W 18 8 2 5 40.0 1 2 50.0 3 3 100.0 0 1 1 0 0 0 0 1 11
+p102
+aVDerek Fisher LAL 05/21/2008 LAL vs. SAS W 30 4 1 9 11.1 0 0 - 2 2 100.0 0 3 3 0 2 0 1 5 -7
+p103
+aVKobe Bryant LAL 05/21/2008 LAL vs. SAS W 44 27 11 21 52.4 1 3 33.3 4 4 100.0 0 5 5 9 1 0 1 1 2
+p104
+aVPau Gasol LAL 05/21/2008 LAL vs. SAS W 39 19 9 16 56.3 0 0 - 1 1 100.0 0 7 7 3 2 2 2 1 7
+p105
+aVVladimir Radmanovic LAL 05/21/2008 LAL vs. SAS W 24 10 5 5 100.0 0 0 - 0 0 - 1 4 5 0 1 0 2 1 -2
+p106
+aVSasha Vujacic LAL 05/21/2008 LAL vs. SAS W 32 10 3 8 37.5 2 5 40.0 2 2 100.0 1 4 5 2 1 1 1 1 25
+p107
+aVLuke Walton LAL 05/21/2008 LAL vs. SAS W 10 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 0 0 0 1 -3
+p108
+aVRonny Turiaf LAL 05/21/2008 LAL vs. SAS W 9 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 1 0 3 -3
+p109
+aVLamar Odom LAL 05/21/2008 LAL vs. SAS W 35 8 3 12 25.0 0 0 - 2 4 50.0 2 6 8 2 0 2 3 2 -10
+p110
+aVPau Gasol LAL 05/16/2008 LAL @ UTA W 44 17 7 17 41.2 0 0 - 3 4 75.0 2 11 13 2 0 4 3 2 3
+p111
+aVDerek Fisher LAL 05/16/2008 LAL @ UTA W 37 16 4 5 80.0 1 1 100.0 7 8 87.5 0 2 2 2 3 0 0 3 11
+p112
+aVKobe Bryant LAL 05/16/2008 LAL @ UTA W 40 34 9 19 47.4 1 2 50.0 15 17 88.2 0 8 8 6 0 0 5 4 7
+p113
+aVSasha Vujacic LAL 05/16/2008 LAL @ UTA W 23 12 5 7 71.4 2 3 66.7 0 0 - 0 2 2 1 0 0 1 3 -9
+p114
+aVLuke Walton LAL 05/16/2008 LAL @ UTA W 12 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 2 0 1 0 2 -6
+p115
+aVJordan Farmar LAL 05/16/2008 LAL @ UTA W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -8
+p116
+aVVladimir Radmanovic LAL 05/16/2008 LAL @ UTA W 22 12 5 7 71.4 2 3 66.7 0 0 - 2 1 3 2 1 0 1 2 17
+p117
+aVLamar Odom LAL 05/16/2008 LAL @ UTA W 42 13 4 8 50.0 0 0 - 5 7 71.4 1 8 9 3 1 1 2 1 4
+p118
+aVRonny Turiaf LAL 05/16/2008 LAL @ UTA W 10 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 2 1 5 -4
+p119
+aVLamar Odom LAL 05/14/2008 LAL vs. UTA W 40 22 8 12 66.7 0 0 - 6 6 100.0 2 9 11 1 0 2 2 4 4
+p120
+aVDerek Fisher LAL 05/14/2008 LAL vs. UTA W 37 14 3 7 42.9 1 2 50.0 7 8 87.5 0 3 3 5 4 0 3 2 8
+p121
+aVLuke Walton LAL 05/14/2008 LAL vs. UTA W 13 1 0 1 0.0 0 1 0.0 1 2 50.0 1 1 2 0 1 0 1 2 4
+p122
+aVRonny Turiaf LAL 05/14/2008 LAL vs. UTA W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -7
+p123
+aVDJ Mbenga LAL 05/14/2008 LAL vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p124
+aVSasha Vujacic LAL 05/14/2008 LAL vs. UTA W 24 6 1 11 9.1 1 8 12.5 3 4 75.0 0 2 2 0 2 1 0 1 11
+p125
+aVVladimir Radmanovic LAL 05/14/2008 LAL vs. UTA W 21 15 6 11 54.5 3 5 60.0 0 0 - 0 2 2 3 0 0 0 2 2
+p126
+aVJordan Farmar LAL 05/14/2008 LAL vs. UTA W 11 6 2 5 40.0 1 2 50.0 1 1 100.0 1 0 1 0 0 0 0 2 -1
+p127
+aVKobe Bryant LAL 05/14/2008 LAL vs. UTA W 41 26 6 10 60.0 1 2 50.0 13 17 76.5 0 6 6 7 2 0 4 3 1
+p128
+aVPau Gasol LAL 05/14/2008 LAL vs. UTA W 44 21 9 17 52.9 0 0 - 3 4 75.0 6 0 6 8 0 4 4 3 13
+p129
+aVKobe Bryant LAL 05/11/2008 LAL @ UTA L 47 33 13 33 39.4 1 10 10.0 6 10 60.0 2 6 8 10 1 0 3 1 -7
+p130
+aVPau Gasol LAL 05/11/2008 LAL @ UTA L 48 23 11 16 68.8 0 0 - 1 2 50.0 6 4 10 4 1 1 2 5 0
+p131
+aVLamar Odom LAL 05/11/2008 LAL @ UTA L 51 26 10 18 55.6 1 2 50.0 5 10 50.0 3 10 13 2 1 3 0 4 -10
+p132
+aVLuke Walton LAL 05/11/2008 LAL @ UTA L 25 5 2 6 33.3 0 1 0.0 1 2 50.0 0 5 5 3 1 0 2 4 8
+p133
+aVVladimir Radmanovic LAL 05/11/2008 LAL @ UTA L 15 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 0 1 0 0 3 -10
+p134
+aVRonny Turiaf LAL 05/11/2008 LAL @ UTA L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 1 1 0
+p135
+aVJordan Farmar LAL 05/11/2008 LAL @ UTA L 19 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -19
+p136
+aVSasha Vujacic LAL 05/11/2008 LAL @ UTA L 26 11 4 6 66.7 3 5 60.0 0 0 - 0 2 2 1 0 0 1 5 3
+p137
+aVDJ Mbenga LAL 05/11/2008 LAL @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p138
+aVDerek Fisher LAL 05/11/2008 LAL @ UTA L 28 15 5 8 62.5 4 5 80.0 1 1 100.0 0 0 0 0 2 1 1 6 1
+p139
+aVVladimir Radmanovic LAL 05/09/2008 LAL @ UTA L 21 8 3 7 42.9 2 6 33.3 0 0 - 1 0 1 0 0 0 2 2 -3
+p140
+aVLuke Walton LAL 05/09/2008 LAL @ UTA L 23 11 3 6 50.0 1 2 50.0 4 4 100.0 1 1 2 0 2 0 1 4 0
+p141
+aVPau Gasol LAL 05/09/2008 LAL @ UTA L 40 12 6 10 60.0 0 0 - 0 0 - 3 3 6 1 2 2 5 3 -13
+p142
+aVJordan Farmar LAL 05/09/2008 LAL @ UTA L 16 0 0 6 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 2 1 -13
+p143
+aVLamar Odom LAL 05/09/2008 LAL @ UTA L 43 13 3 3 100.0 1 1 100.0 6 8 75.0 3 9 12 1 1 2 3 2 -1
+p144
+aVRonny Turiaf LAL 05/09/2008 LAL @ UTA L 13 8 4 5 80.0 0 0 - 0 1 0.0 0 1 1 1 0 1 0 5 4
+p145
+aVKobe Bryant LAL 05/09/2008 LAL @ UTA L 42 34 10 20 50.0 0 6 0.0 14 17 82.4 2 4 6 7 0 1 4 4 3
+p146
+aVDerek Fisher LAL 05/09/2008 LAL @ UTA L 32 13 3 6 50.0 1 3 33.3 6 7 85.7 0 2 2 2 3 0 0 2 8
+p147
+aVSasha Vujacic LAL 05/09/2008 LAL @ UTA L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 0 -10
+p148
+aVLamar Odom LAL 05/07/2008 LAL vs. UTA W 41 19 7 10 70.0 0 0 - 5 7 71.4 2 14 16 2 1 2 3 3 17
+p149
+aVDerek Fisher LAL 05/07/2008 LAL vs. UTA W 36 22 7 10 70.0 4 5 80.0 4 4 100.0 0 1 1 2 3 0 0 1 18
+p150
+aVLuke Walton LAL 05/07/2008 LAL vs. UTA W 19 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 3 1 1 1 3 -5
+p151
+aVPau Gasol LAL 05/07/2008 LAL vs. UTA W 44 20 6 11 54.5 0 0 - 8 12 66.7 0 5 5 5 0 5 2 3 7
+p152
+aVVladimir Radmanovic LAL 05/07/2008 LAL vs. UTA W 19 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 2 14
+p153
+aVKobe Bryant LAL 05/07/2008 LAL vs. UTA W 38 34 11 18 61.1 1 2 50.0 11 12 91.7 0 8 8 6 1 0 5 4 18
+p154
+aVJordan Farmar LAL 05/07/2008 LAL vs. UTA W 12 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 3 0 0 0 1 -8
+p155
+aVSasha Vujacic LAL 05/07/2008 LAL vs. UTA W 20 12 3 5 60.0 1 1 100.0 5 6 83.3 0 2 2 1 0 0 0 0 -7
+p156
+aVRonny Turiaf LAL 05/07/2008 LAL vs. UTA W 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 2 3 -4
+p157
+aVRonny Turiaf LAL 05/04/2008 LAL vs. UTA W 18 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 0 4 0 2 -2
+p158
+aVSasha Vujacic LAL 05/04/2008 LAL vs. UTA W 17 15 4 6 66.7 2 2 100.0 5 5 100.0 0 4 4 0 0 0 1 3 8
+p159
+aVDerek Fisher LAL 05/04/2008 LAL vs. UTA W 39 5 2 6 33.3 0 1 0.0 1 2 50.0 0 3 3 6 6 0 3 3 6
+p160
+aVPau Gasol LAL 05/04/2008 LAL vs. UTA W 37 18 8 13 61.5 0 0 - 2 4 50.0 4 6 10 5 0 2 1 4 16
+p161
+aVLamar Odom LAL 05/04/2008 LAL vs. UTA W 40 16 5 12 41.7 0 0 - 6 9 66.7 1 8 9 3 1 2 1 6 7
+p162
+aVJordan Farmar LAL 05/04/2008 LAL vs. UTA W 9 0 0 5 0.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 5
+p163
+aVVladimir Radmanovic LAL 05/04/2008 LAL vs. UTA W 27 10 4 8 50.0 2 4 50.0 0 0 - 1 2 3 0 2 0 1 2 -1
+p164
+aVKobe Bryant LAL 05/04/2008 LAL vs. UTA W 40 38 8 16 50.0 1 2 50.0 21 23 91.3 0 6 6 7 1 0 3 3 7
+p165
+aVDJ Mbenga LAL 05/04/2008 LAL vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p166
+aVLuke Walton LAL 05/04/2008 LAL vs. UTA W 13 5 1 2 50.0 0 0 - 3 3 100.0 0 3 3 2 0 0 2 3 9
+p167
+aVDJ Mbenga LAL 04/28/2008 LAL @ DEN W 10 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 5
+p168
+aVVladimir Radmanovic LAL 04/28/2008 LAL @ DEN W 27 12 4 13 30.8 2 5 40.0 2 2 100.0 3 3 6 2 1 0 2 2 -1
+p169
+aVJordan Farmar LAL 04/28/2008 LAL @ DEN W 13 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 1 1 3
+p170
+aVLuke Walton LAL 04/28/2008 LAL @ DEN W 20 7 3 5 60.0 1 1 100.0 0 0 - 1 3 4 0 0 0 1 3 -2
+p171
+aVPau Gasol LAL 04/28/2008 LAL @ DEN W 38 21 7 15 46.7 0 0 - 7 8 87.5 3 4 7 4 0 4 0 0 1
+p172
+aVLamar Odom LAL 04/28/2008 LAL @ DEN W 38 14 5 11 45.5 0 1 0.0 4 7 57.1 5 7 12 4 2 1 1 5 11
+p173
+aVSasha Vujacic LAL 04/28/2008 LAL @ DEN W 14 5 2 4 50.0 1 3 33.3 0 0 - 1 0 1 0 0 0 0 1 0
+p174
+aVDerek Fisher LAL 04/28/2008 LAL @ DEN W 38 7 3 9 33.3 1 3 33.3 0 1 0.0 0 3 3 3 1 1 1 2 3
+p175
+aVKobe Bryant LAL 04/28/2008 LAL @ DEN W 41 31 12 24 50.0 3 8 37.5 4 10 40.0 1 6 7 6 3 2 6 3 10
+p176
+aVLamar Odom LAL 04/26/2008 LAL @ DEN W 41 12 3 9 33.3 0 1 0.0 6 9 66.7 0 7 7 2 2 1 3 2 16
+p177
+aVDerek Fisher LAL 04/26/2008 LAL @ DEN W 32 14 5 8 62.5 4 5 80.0 0 1 0.0 0 3 3 0 2 0 1 4 21
+p178
+aVSasha Vujacic LAL 04/26/2008 LAL @ DEN W 19 9 2 5 40.0 2 3 66.7 3 4 75.0 0 3 3 2 1 0 0 2 -6
+p179
+aVVladimir Radmanovic LAL 04/26/2008 LAL @ DEN W 24 5 2 9 22.2 1 4 25.0 0 0 - 1 6 7 1 0 0 0 2 14
+p180
+aVPau Gasol LAL 04/26/2008 LAL @ DEN W 37 14 5 9 55.6 0 0 - 4 7 57.1 0 3 3 5 0 3 1 1 19
+p181
+aVLuke Walton LAL 04/26/2008 LAL @ DEN W 24 15 6 7 85.7 0 0 - 3 5 60.0 2 3 5 5 1 1 1 2 9
+p182
+aVRonny Turiaf LAL 04/26/2008 LAL @ DEN W 4 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 0
+p183
+aVKobe Bryant LAL 04/26/2008 LAL @ DEN W 36 22 9 19 47.4 1 8 12.5 3 5 60.0 1 6 7 8 1 1 2 2 21
+p184
+aVDJ Mbenga LAL 04/26/2008 LAL @ DEN W 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -1
+p185
+aVJordan Farmar LAL 04/26/2008 LAL @ DEN W 16 9 4 11 36.4 0 2 0.0 1 2 50.0 0 0 0 3 1 0 0 0 -3
+p186
+aVCoby Karl LAL 04/23/2008 LAL vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p187
+aVDerek Fisher LAL 04/23/2008 LAL vs. DEN W 29 10 4 8 50.0 0 2 0.0 2 2 100.0 0 5 5 3 2 1 0 3 11
+p188
+aVIra Newble LAL 04/23/2008 LAL vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p189
+aVVladimir Radmanovic LAL 04/23/2008 LAL vs. DEN W 27 8 3 10 30.0 2 7 28.6 0 0 - 3 1 4 2 0 0 0 1 -1
+p190
+aVLamar Odom LAL 04/23/2008 LAL vs. DEN W 22 4 2 9 22.2 0 0 - 0 0 - 2 2 4 6 0 0 1 5 0
+p191
+aVLuke Walton LAL 04/23/2008 LAL vs. DEN W 29 18 7 11 63.6 2 3 66.7 2 3 66.7 1 6 7 5 1 0 3 3 24
+p192
+aVPau Gasol LAL 04/23/2008 LAL vs. DEN W 41 18 6 11 54.5 0 0 - 6 10 60.0 3 7 10 3 0 1 2 3 14
+p193
+aVSasha Vujacic LAL 04/23/2008 LAL vs. DEN W 21 9 3 6 50.0 3 5 60.0 0 0 - 1 0 1 1 0 0 2 0 15
+p194
+aVDJ Mbenga LAL 04/23/2008 LAL vs. DEN W 7 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 1 0 0 3 1
+p195
+aVJordan Farmar LAL 04/23/2008 LAL vs. DEN W 19 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 4
+p196
+aVKobe Bryant LAL 04/23/2008 LAL vs. DEN W 42 49 18 27 66.7 5 9 55.6 8 9 88.9 1 3 4 10 1 1 2 4 13
+p197
+aVKobe Bryant LAL 04/20/2008 LAL vs. DEN W 37 32 9 26 34.6 1 5 20.0 13 14 92.9 0 3 3 1 1 2 1 5 3
+p198
+aVPau Gasol LAL 04/20/2008 LAL vs. DEN W 45 36 14 20 70.0 0 0 - 8 8 100.0 3 13 16 8 0 3 3 3 22
+p199
+aVRonny Turiaf LAL 04/20/2008 LAL vs. DEN W 3 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 0 -8
+p200
+aVDerek Fisher LAL 04/20/2008 LAL vs. DEN W 29 3 1 5 20.0 1 2 50.0 0 0 - 0 3 3 4 1 0 0 4 29
+p201
+aVVladimir Radmanovic LAL 04/20/2008 LAL vs. DEN W 20 8 3 6 50.0 2 3 66.7 0 0 - 1 0 1 6 1 1 2 4 20
+p202
+aVLuke Walton LAL 04/20/2008 LAL vs. DEN W 27 16 6 8 75.0 1 1 100.0 3 4 75.0 1 3 4 5 0 0 1 4 0
+p203
+aVJordan Farmar LAL 04/20/2008 LAL vs. DEN W 19 6 2 5 40.0 2 4 50.0 0 0 - 1 1 2 3 0 0 2 2 -15
+p204
+aVLamar Odom LAL 04/20/2008 LAL vs. DEN W 39 17 8 14 57.1 0 0 - 1 4 25.0 6 8 14 6 2 0 1 2 24
+p205
+aVSasha Vujacic LAL 04/20/2008 LAL vs. DEN W 21 8 3 6 50.0 2 5 40.0 0 0 - 0 0 0 0 1 1 1 4 -5
+p206
+a.

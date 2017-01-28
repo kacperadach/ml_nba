@@ -1,0 +1,1706 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLamar Odom LAL 04/18/2007 LAL @ SAC W 36 15 5 6 83.3 0 1 0.0 5 8 62.5 2 11 13 5 0 2 1 5 15
+p2
+aVMaurice Evans LAL 04/18/2007 LAL @ SAC W 23 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 1 0 0 1 2 -1
+p3
+aVSasha Vujacic LAL 04/18/2007 LAL @ SAC W 14 2 0 5 0.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 0 1 3
+p4
+aVSmush Parker LAL 04/18/2007 LAL @ SAC W 24 9 3 10 30.0 1 4 25.0 2 3 66.7 2 1 3 1 1 0 1 1 1
+p5
+aVKobe Bryant LAL 04/18/2007 LAL @ SAC W 34 34 12 19 63.2 0 2 0.0 10 12 83.3 1 6 7 6 1 0 1 4 8
+p6
+aVLuke Walton LAL 04/18/2007 LAL @ SAC W 29 10 5 8 62.5 0 2 0.0 0 0 - 4 7 11 2 1 0 5 2 13
+p7
+aVRonny Turiaf LAL 04/18/2007 LAL @ SAC W 11 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 2
+p8
+aVAndrew Bynum LAL 04/18/2007 LAL @ SAC W 14 9 4 5 80.0 0 0 - 1 1 100.0 1 2 3 0 0 2 1 3 0
+p9
+aVBrian Cook LAL 04/18/2007 LAL @ SAC W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p10
+aVVladimir Radmanovic LAL 04/18/2007 LAL @ SAC W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -2
+p11
+aVJordan Farmar LAL 04/18/2007 LAL @ SAC W 24 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 3 2 0 0 1 10
+p12
+aVKwame Brown LAL 04/18/2007 LAL @ SAC W 23 17 7 8 87.5 0 0 - 3 3 100.0 0 4 4 0 1 1 2 3 11
+p13
+aVBrian Cook LAL 04/15/2007 LAL vs. SEA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p14
+aVLuke Walton LAL 04/15/2007 LAL vs. SEA W 28 4 2 10 20.0 0 3 0.0 0 0 - 1 3 4 3 1 0 1 1 11
+p15
+aVLamar Odom LAL 04/15/2007 LAL vs. SEA W 40 14 5 9 55.6 1 1 100.0 3 6 50.0 1 4 5 5 3 0 0 3 10
+p16
+aVKobe Bryant LAL 04/15/2007 LAL vs. SEA W 42 50 18 25 72.0 3 6 50.0 11 13 84.6 2 6 8 3 2 0 1 2 6
+p17
+aVAndrew Bynum LAL 04/15/2007 LAL vs. SEA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -5
+p18
+aVKwame Brown LAL 04/15/2007 LAL vs. SEA W 27 3 1 3 33.3 0 0 - 1 5 20.0 1 3 4 2 1 2 1 4 16
+p19
+aVRonny Turiaf LAL 04/15/2007 LAL vs. SEA W 16 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 4 0 0 1 3 0
+p20
+aVSasha Vujacic LAL 04/15/2007 LAL vs. SEA W 10 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 1 1 0 0 0 0
+p21
+aVSmush Parker LAL 04/15/2007 LAL vs. SEA W 20 4 2 6 33.3 0 0 - 0 2 0.0 0 1 1 1 0 0 0 1 -7
+p22
+aVJordan Farmar LAL 04/15/2007 LAL vs. SEA W 28 9 3 6 50.0 2 3 66.7 1 2 50.0 1 1 2 3 0 0 0 3 18
+p23
+aVMaurice Evans LAL 04/15/2007 LAL vs. SEA W 14 10 5 10 50.0 0 2 0.0 0 0 - 4 0 4 0 0 0 0 0 0
+p24
+aVVladimir Radmanovic LAL 04/15/2007 LAL vs. SEA W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 1
+p25
+aVLamar Odom LAL 04/13/2007 LAL @ PHX L 37 16 7 19 36.8 1 4 25.0 1 4 25.0 3 10 13 0 1 1 2 3 -2
+p26
+aVLuke Walton LAL 04/13/2007 LAL @ PHX L 39 19 8 17 47.1 2 4 50.0 1 2 50.0 4 4 8 5 0 0 3 1 -4
+p27
+aVRonny Turiaf LAL 04/13/2007 LAL @ PHX L 29 10 4 6 66.7 0 0 - 2 2 100.0 1 5 6 1 2 2 0 3 -9
+p28
+aVAndrew Bynum LAL 04/13/2007 LAL @ PHX L 19 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 0 4 0 2 1
+p29
+aVJordan Farmar LAL 04/13/2007 LAL @ PHX L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 2 1 3
+p30
+aVSasha Vujacic LAL 04/13/2007 LAL @ PHX L 30 8 3 5 60.0 2 3 66.7 0 0 - 1 7 8 2 0 0 0 4 -2
+p31
+aVKobe Bryant LAL 04/13/2007 LAL @ PHX L 42 17 7 26 26.9 1 6 16.7 2 2 100.0 1 5 6 4 1 1 2 2 -19
+p32
+aVSmush Parker LAL 04/13/2007 LAL @ PHX L 16 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -11
+p33
+aVMaurice Evans LAL 04/13/2007 LAL @ PHX L 17 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 7
+p34
+aVBrian Cook LAL 04/13/2007 LAL @ PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p35
+aVLamar Odom LAL 04/12/2007 LAL vs. LAC L 41 9 4 11 36.4 1 4 25.0 0 0 - 1 6 7 2 1 1 3 3 -4
+p36
+aVMaurice Evans LAL 04/12/2007 LAL vs. LAC L 24 11 5 6 83.3 1 1 100.0 0 0 - 2 3 5 0 1 0 1 3 2
+p37
+aVJordan Farmar LAL 04/12/2007 LAL vs. LAC L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 0 3 0
+p38
+aVRonny Turiaf LAL 04/12/2007 LAL vs. LAC L 32 6 2 7 28.6 0 1 0.0 2 4 50.0 2 4 6 4 0 2 0 5 2
+p39
+aVBrian Cook LAL 04/12/2007 LAL vs. LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p40
+aVAndrew Bynum LAL 04/12/2007 LAL vs. LAC L 16 9 3 7 42.9 0 0 - 3 6 50.0 0 2 2 0 0 0 1 3 -10
+p41
+aVKobe Bryant LAL 04/12/2007 LAL vs. LAC L 48 50 17 33 51.5 1 4 25.0 15 15 100.0 0 9 9 1 2 0 3 3 -8
+p42
+aVLuke Walton LAL 04/12/2007 LAL vs. LAC L 30 3 1 6 16.7 1 4 25.0 0 2 0.0 2 6 8 8 2 0 1 3 -13
+p43
+aVVladimir Radmanovic LAL 04/12/2007 LAL vs. LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 5
+p44
+aVSasha Vujacic LAL 04/12/2007 LAL vs. LAC L 6 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 2 -6
+p45
+aVSmush Parker LAL 04/12/2007 LAL vs. LAC L 34 19 7 12 58.3 3 5 60.0 2 2 100.0 0 2 2 8 1 0 3 3 -8
+p46
+aVBrian Cook LAL 04/09/2007 LAL @ DEN L 14 10 3 8 37.5 3 5 60.0 1 2 50.0 0 2 2 1 0 0 0 4 6
+p47
+aVJordan Farmar LAL 04/09/2007 LAL @ DEN L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p48
+aVRonny Turiaf LAL 04/09/2007 LAL @ DEN L 24 6 3 9 33.3 0 0 - 0 0 - 2 4 6 2 0 1 0 6 -7
+p49
+aVAndrew Bynum LAL 04/09/2007 LAL @ DEN L 19 16 7 8 87.5 0 0 - 2 3 66.7 4 3 7 0 1 0 2 5 8
+p50
+aVLuke Walton LAL 04/09/2007 LAL @ DEN L 35 19 7 13 53.8 3 4 75.0 2 2 100.0 2 4 6 5 0 0 1 4 -11
+p51
+aVSasha Vujacic LAL 04/09/2007 LAL @ DEN L 22 6 2 3 66.7 0 1 0.0 2 2 100.0 2 1 3 3 3 0 0 3 9
+p52
+aVLamar Odom LAL 04/09/2007 LAL @ DEN L 36 18 5 8 62.5 0 1 0.0 8 12 66.7 2 3 5 3 0 0 1 5 -9
+p53
+aVKobe Bryant LAL 04/09/2007 LAL @ DEN L 46 23 9 30 30.0 1 5 20.0 4 5 80.0 0 5 5 10 1 0 4 1 0
+p54
+aVMaurice Evans LAL 04/09/2007 LAL @ DEN L 15 7 2 5 40.0 2 3 66.7 1 2 50.0 2 1 3 1 1 0 1 0 1
+p55
+aVSmush Parker LAL 04/09/2007 LAL @ DEN L 24 6 3 9 33.3 0 2 0.0 0 0 - 0 2 2 3 4 0 2 4 -12
+p56
+aVLuke Walton LAL 04/08/2007 LAL vs. PHX L 29 7 3 9 33.3 0 1 0.0 1 1 100.0 1 4 5 2 0 0 1 2 0
+p57
+aVSmush Parker LAL 04/08/2007 LAL vs. PHX L 38 25 10 19 52.6 2 6 33.3 3 6 50.0 1 4 5 6 2 0 2 6 -7
+p58
+aVBrian Cook LAL 04/08/2007 LAL vs. PHX L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -2
+p59
+aVAndrew Bynum LAL 04/08/2007 LAL vs. PHX L 23 7 3 6 50.0 0 0 - 1 2 50.0 3 4 7 1 0 2 2 4 -14
+p60
+aVRonny Turiaf LAL 04/08/2007 LAL vs. PHX L 25 19 8 10 80.0 0 0 - 3 3 100.0 7 8 15 1 0 1 2 5 6
+p61
+aVLamar Odom LAL 04/08/2007 LAL vs. PHX L 46 10 4 13 30.8 1 4 25.0 1 4 25.0 3 11 14 5 2 0 2 3 1
+p62
+aVJordan Farmar LAL 04/08/2007 LAL vs. PHX L 12 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 1 1 5 -2
+p63
+aVKobe Bryant LAL 04/08/2007 LAL vs. PHX L 44 34 14 25 56.0 1 5 20.0 5 5 100.0 0 3 3 7 1 1 5 2 -10
+p64
+aVMaurice Evans LAL 04/08/2007 LAL vs. PHX L 18 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -12
+p65
+aVKobe Bryant LAL 04/06/2007 LAL @ SEA W 41 46 13 27 48.1 1 4 25.0 19 24 79.2 1 4 5 6 3 1 1 2 -1
+p66
+aVLuke Walton LAL 04/06/2007 LAL @ SEA W 32 10 3 8 37.5 0 2 0.0 4 4 100.0 0 4 4 3 1 1 2 1 -1
+p67
+aVRonny Turiaf LAL 04/06/2007 LAL @ SEA W 26 10 5 6 83.3 0 0 - 0 0 - 2 2 4 1 1 4 0 6 15
+p68
+aVAndrew Bynum LAL 04/06/2007 LAL @ SEA W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 4 -8
+p69
+aVMaurice Evans LAL 04/06/2007 LAL @ SEA W 18 7 3 6 50.0 1 1 100.0 0 0 - 2 1 3 2 1 0 1 1 4
+p70
+aVShammond Williams LAL 04/06/2007 LAL @ SEA W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p71
+aVBrian Cook LAL 04/06/2007 LAL @ SEA W 22 11 4 10 40.0 3 6 50.0 0 1 0.0 2 4 6 0 1 1 1 4 -3
+p72
+aVJordan Farmar LAL 04/06/2007 LAL @ SEA W 14 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 1 0 0 0 9
+p73
+aVLamar Odom LAL 04/06/2007 LAL @ SEA W 44 20 9 11 81.8 0 0 - 2 4 50.0 0 4 4 7 1 0 2 1 7
+p74
+aVSmush Parker LAL 04/06/2007 LAL @ SEA W 24 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 3 1 0 5 1 -4
+p75
+aVSasha Vujacic LAL 04/04/2007 LAL @ LAC L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -10
+p76
+aVAndrew Bynum LAL 04/04/2007 LAL @ LAC L 29 6 3 9 33.3 0 0 - 0 0 - 4 3 7 0 0 1 1 4 -9
+p77
+aVBrian Cook LAL 04/04/2007 LAL @ LAC L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p78
+aVMaurice Evans LAL 04/04/2007 LAL @ LAC L 12 3 1 3 33.3 1 1 100.0 0 0 - 2 0 2 1 1 0 0 0 -8
+p79
+aVLuke Walton LAL 04/04/2007 LAL @ LAC L 36 13 5 8 62.5 1 4 25.0 2 3 66.7 1 3 4 5 2 0 2 0 2
+p80
+aVShammond Williams LAL 04/04/2007 LAL @ LAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p81
+aVLamar Odom LAL 04/04/2007 LAL @ LAC L 43 21 8 11 72.7 1 3 33.3 4 6 66.7 0 5 5 5 1 0 1 3 4
+p82
+aVJordan Farmar LAL 04/04/2007 LAL @ LAC L 17 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 1 2 8
+p83
+aVKobe Bryant LAL 04/04/2007 LAL @ LAC L 45 29 13 34 38.2 0 3 0.0 3 4 75.0 0 7 7 3 2 2 4 3 3
+p84
+aVRonny Turiaf LAL 04/04/2007 LAL @ LAC L 20 4 2 6 33.3 0 0 - 0 0 - 3 3 6 1 0 2 2 4 -4
+p85
+aVSmush Parker LAL 04/04/2007 LAL @ LAC L 24 6 2 3 66.7 1 1 100.0 1 2 50.0 0 1 1 1 3 0 3 1 -6
+p86
+aVJordan Farmar LAL 04/03/2007 LAL vs. DEN L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 1 -2
+p87
+aVMaurice Evans LAL 04/03/2007 LAL vs. DEN L 12 7 3 6 50.0 1 2 50.0 0 0 - 1 2 3 1 0 0 0 0 -5
+p88
+aVSmush Parker LAL 04/03/2007 LAL vs. DEN L 31 4 1 6 16.7 0 2 0.0 2 2 100.0 0 2 2 3 0 0 1 1 -3
+p89
+aVAndrew Bynum LAL 04/03/2007 LAL vs. DEN L 19 4 2 5 40.0 0 0 - 0 2 0.0 1 4 5 0 0 3 0 5 4
+p90
+aVShammond Williams LAL 04/03/2007 LAL vs. DEN L 5 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -1
+p91
+aVKwame Brown LAL 04/03/2007 LAL vs. DEN L 16 6 3 5 60.0 0 0 - 0 0 - 0 3 3 2 0 0 3 2 -1
+p92
+aVBrian Cook LAL 04/03/2007 LAL vs. DEN L 6 1 0 3 0.0 0 2 0.0 1 2 50.0 1 0 1 1 0 0 0 1 -2
+p93
+aVRonny Turiaf LAL 04/03/2007 LAL vs. DEN L 12 9 3 5 60.0 0 0 - 3 3 100.0 1 3 4 0 0 0 3 4 -8
+p94
+aVKobe Bryant LAL 04/03/2007 LAL vs. DEN L 45 39 14 31 45.2 0 5 0.0 11 11 100.0 0 3 3 4 0 3 3 3 -6
+p95
+aVSasha Vujacic LAL 04/03/2007 LAL vs. DEN L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p96
+aVLamar Odom LAL 04/03/2007 LAL vs. DEN L 43 17 6 13 46.2 1 2 50.0 4 4 100.0 0 14 14 12 0 0 4 6 -4
+p97
+aVLuke Walton LAL 04/03/2007 LAL vs. DEN L 34 14 6 10 60.0 1 2 50.0 1 2 50.0 2 3 5 2 2 0 0 1 -1
+p98
+aVAndrew Bynum LAL 04/01/2007 LAL vs. SAC W 22 14 7 7 100.0 0 0 - 0 1 0.0 3 1 4 2 0 1 2 3 14
+p99
+aVRonny Turiaf LAL 04/01/2007 LAL vs. SAC W 15 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 1 0 3 1 0 18
+p100
+aVBrian Cook LAL 04/01/2007 LAL vs. SAC W 14 5 2 5 40.0 1 2 50.0 0 0 - 0 4 4 0 0 1 0 0 5
+p101
+aVLamar Odom LAL 04/01/2007 LAL vs. SAC W 15 7 3 6 50.0 1 1 100.0 0 0 - 0 6 6 3 1 0 1 5 5
+p102
+aVKwame Brown LAL 04/01/2007 LAL vs. SAC W 26 10 4 4 100.0 0 0 - 2 3 66.7 2 5 7 3 0 0 1 3 9
+p103
+aVKobe Bryant LAL 04/01/2007 LAL vs. SAC W 38 19 6 14 42.9 1 2 50.0 6 6 100.0 0 2 2 13 3 1 4 1 13
+p104
+aVSasha Vujacic LAL 04/01/2007 LAL vs. SAC W 24 7 3 5 60.0 0 2 0.0 1 2 50.0 0 2 2 3 1 0 1 1 6
+p105
+aVLuke Walton LAL 04/01/2007 LAL vs. SAC W 24 18 8 11 72.7 1 2 50.0 1 2 50.0 1 4 5 1 1 0 0 3 -1
+p106
+aVJordan Farmar LAL 04/01/2007 LAL vs. SAC W 8 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 0 12
+p107
+aVMaurice Evans LAL 04/01/2007 LAL vs. SAC W 26 21 7 8 87.5 2 3 66.7 5 6 83.3 0 4 4 0 0 0 1 2 25
+p108
+aVSmush Parker LAL 04/01/2007 LAL vs. SAC W 29 13 5 12 41.7 3 9 33.3 0 0 - 0 0 0 8 2 0 3 3 9
+p109
+aVSmush Parker LAL 03/30/2007 LAL vs. HOU L 42 10 4 7 57.1 2 2 100.0 0 0 - 2 6 8 4 0 0 1 2 0
+p110
+aVKobe Bryant LAL 03/30/2007 LAL vs. HOU L 48 53 19 44 43.2 3 9 33.3 12 14 85.7 1 1 2 2 0 0 3 2 1
+p111
+aVKwame Brown LAL 03/30/2007 LAL vs. HOU L 40 15 5 8 62.5 0 0 - 5 8 62.5 2 5 7 1 3 2 0 5 -3
+p112
+aVAndrew Bynum LAL 03/30/2007 LAL vs. HOU L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 5 -1
+p113
+aVLamar Odom LAL 03/30/2007 LAL vs. HOU L 48 16 3 9 33.3 0 2 0.0 10 16 62.5 2 15 17 4 4 0 2 6 -2
+p114
+aVShammond Williams LAL 03/30/2007 LAL vs. HOU L 11 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 1 0 -3
+p115
+aVLuke Walton LAL 03/30/2007 LAL vs. HOU L 37 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 3 0 0 4 1 -11
+p116
+aVSasha Vujacic LAL 03/30/2007 LAL vs. HOU L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -1
+p117
+aVRonny Turiaf LAL 03/30/2007 LAL vs. HOU L 22 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 0 4 3 5 5
+p118
+aVSmush Parker LAL 03/27/2007 LAL vs. MEM L 29 14 6 15 40.0 2 7 28.6 0 0 - 1 1 2 3 1 0 2 0 -5
+p119
+aVLamar Odom LAL 03/27/2007 LAL vs. MEM L 39 3 1 7 14.3 0 3 0.0 1 2 50.0 2 14 16 11 2 0 3 5 -2
+p120
+aVKobe Bryant LAL 03/27/2007 LAL vs. MEM L 44 23 7 26 26.9 3 7 42.9 6 9 66.7 3 2 5 5 3 0 1 0 -1
+p121
+aVRonny Turiaf LAL 03/27/2007 LAL vs. MEM L 25 6 3 6 50.0 0 0 - 0 0 - 2 7 9 0 1 4 0 5 1
+p122
+aVJordan Farmar LAL 03/27/2007 LAL vs. MEM L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 1 0 -6
+p123
+aVShammond Williams LAL 03/27/2007 LAL vs. MEM L 16 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 0 1 0 0 1 4
+p124
+aVLuke Walton LAL 03/27/2007 LAL vs. MEM L 32 15 6 12 50.0 3 3 100.0 0 0 - 0 2 2 2 0 0 1 2 -8
+p125
+aVSasha Vujacic LAL 03/27/2007 LAL vs. MEM L 17 11 4 9 44.4 3 8 37.5 0 0 - 1 0 1 2 2 0 1 1 5
+p126
+aVAndrew Bynum LAL 03/27/2007 LAL vs. MEM L 23 4 2 7 28.6 0 0 - 0 0 - 4 3 7 2 0 3 2 1 -2
+p127
+aVBrian Cook LAL 03/27/2007 LAL vs. MEM L 9 5 2 8 25.0 1 3 33.3 0 0 - 1 1 2 1 0 2 0 2 4
+p128
+aVKwame Brown LAL 03/25/2007 LAL vs. GSW W 24 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 0 1 5 3 1
+p129
+aVSasha Vujacic LAL 03/25/2007 LAL vs. GSW W 15 7 2 5 40.0 2 5 40.0 1 1 100.0 2 3 5 3 0 1 0 1 -4
+p130
+aVLuke Walton LAL 03/25/2007 LAL vs. GSW W 32 6 2 7 28.6 2 4 50.0 0 0 - 1 5 6 8 0 0 2 2 -5
+p131
+aVSmush Parker LAL 03/25/2007 LAL vs. GSW W 28 13 4 7 57.1 0 0 - 5 7 71.4 0 3 3 5 2 0 3 4 0
+p132
+aVLamar Odom LAL 03/25/2007 LAL vs. GSW W 41 24 8 11 72.7 0 1 0.0 8 10 80.0 5 14 19 4 4 0 5 3 0
+p133
+aVShammond Williams LAL 03/25/2007 LAL vs. GSW W 20 3 1 5 20.0 1 3 33.3 0 0 - 2 1 3 3 1 0 0 1 2
+p134
+aVRonny Turiaf LAL 03/25/2007 LAL vs. GSW W 17 7 3 6 50.0 0 0 - 1 3 33.3 2 3 5 0 0 2 1 3 9
+p135
+aVBrian Cook LAL 03/25/2007 LAL vs. GSW W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 0 7
+p136
+aVAndrew Bynum LAL 03/25/2007 LAL vs. GSW W 12 8 3 5 60.0 0 0 - 2 6 33.3 4 3 7 0 0 1 1 2 -7
+p137
+aVKobe Bryant LAL 03/25/2007 LAL vs. GSW W 46 43 15 33 45.5 4 11 36.4 9 11 81.8 4 5 9 0 1 1 7 2 7
+p138
+aVSmush Parker LAL 03/23/2007 LAL @ NOK W 16 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 4 0 0 0 3 17
+p139
+aVJordan Farmar LAL 03/23/2007 LAL @ NOK W 12 2 1 5 20.0 0 3 0.0 0 0 - 0 5 5 1 0 1 2 1 3
+p140
+aVAndrew Bynum LAL 03/23/2007 LAL @ NOK W 18 8 4 5 80.0 0 0 - 0 0 - 2 5 7 0 0 0 1 1 8
+p141
+aVKwame Brown LAL 03/23/2007 LAL @ NOK W 21 10 5 7 71.4 0 0 - 0 1 0.0 0 0 0 1 2 1 2 5 2
+p142
+aVShammond Williams LAL 03/23/2007 LAL @ NOK W 20 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 0 0 0 0 2 -14
+p143
+aVRonny Turiaf LAL 03/23/2007 LAL @ NOK W 9 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 2 0 1 -4
+p144
+aVKobe Bryant LAL 03/23/2007 LAL @ NOK W 47 50 16 29 55.2 2 5 40.0 16 16 100.0 1 6 7 1 0 1 1 2 12
+p145
+aVSasha Vujacic LAL 03/23/2007 LAL @ NOK W 18 8 3 8 37.5 2 6 33.3 0 0 - 0 0 0 0 0 0 0 1 -8
+p146
+aVLuke Walton LAL 03/23/2007 LAL @ NOK W 38 7 3 10 30.0 1 2 50.0 0 0 - 0 5 5 8 2 1 1 2 4
+p147
+aVLamar Odom LAL 03/23/2007 LAL @ NOK W 42 15 6 9 66.7 0 1 0.0 3 4 75.0 1 9 10 6 0 1 3 5 10
+p148
+aVSmush Parker LAL 03/22/2007 LAL @ MEM W 33 6 2 6 33.3 0 3 0.0 2 2 100.0 0 2 2 7 1 0 2 5 -4
+p149
+aVSasha Vujacic LAL 03/22/2007 LAL @ MEM W 14 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 2 11
+p150
+aVRonny Turiaf LAL 03/22/2007 LAL @ MEM W 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -2
+p151
+aVKwame Brown LAL 03/22/2007 LAL @ MEM W 39 8 2 5 40.0 0 0 - 4 8 50.0 1 3 4 3 2 2 3 2 -6
+p152
+aVKobe Bryant LAL 03/22/2007 LAL @ MEM W 45 60 20 37 54.1 3 7 42.9 17 18 94.4 2 3 5 4 0 0 2 4 2
+p153
+aVShammond Williams LAL 03/22/2007 LAL @ MEM W 18 9 3 6 50.0 2 4 50.0 1 2 50.0 1 1 2 6 0 0 0 0 6
+p154
+aVAndrew Bynum LAL 03/22/2007 LAL @ MEM W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 1 3 8
+p155
+aVLuke Walton LAL 03/22/2007 LAL @ MEM W 34 11 4 7 57.1 1 2 50.0 2 2 100.0 0 2 2 4 1 1 1 1 -9
+p156
+aVLamar Odom LAL 03/22/2007 LAL @ MEM W 43 20 8 12 66.7 0 1 0.0 4 8 50.0 6 9 15 4 3 0 3 4 4
+p157
+aVLuke Walton LAL 03/18/2007 LAL vs. MIN W 36 10 4 9 44.4 1 4 25.0 1 2 50.0 2 6 8 11 3 0 3 3 17
+p158
+aVSasha Vujacic LAL 03/18/2007 LAL vs. MIN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p159
+aVSmush Parker LAL 03/18/2007 LAL vs. MIN W 36 19 8 10 80.0 3 4 75.0 0 0 - 4 3 7 9 0 0 3 1 19
+p160
+aVAndrew Bynum LAL 03/18/2007 LAL vs. MIN W 20 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 1 2 5 -18
+p161
+aVKobe Bryant LAL 03/18/2007 LAL vs. MIN W 45 50 17 35 48.6 4 9 44.4 12 14 85.7 1 5 6 3 3 0 3 1 12
+p162
+aVKwame Brown LAL 03/18/2007 LAL vs. MIN W 27 4 2 2 100.0 0 0 - 0 0 - 1 4 5 2 2 1 2 2 24
+p163
+aVRonny Turiaf LAL 03/18/2007 LAL vs. MIN W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 2 1 1
+p164
+aVLamar Odom LAL 03/18/2007 LAL vs. MIN W 40 16 7 12 58.3 0 4 0.0 2 4 50.0 0 9 9 8 0 2 3 3 8
+p165
+aVMaurice Evans LAL 03/18/2007 LAL vs. MIN W 15 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -13
+p166
+aVShammond Williams LAL 03/18/2007 LAL vs. MIN W 12 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 0 -12
+p167
+aVSmush Parker LAL 03/16/2007 LAL vs. POR W 41 8 4 12 33.3 0 1 0.0 0 0 - 0 4 4 3 3 0 3 3 0
+p168
+aVRonny Turiaf LAL 03/16/2007 LAL vs. POR W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 1 1 2 1
+p169
+aVKobe Bryant LAL 03/16/2007 LAL vs. POR W 50 65 23 39 59.0 8 12 66.7 11 12 91.7 1 6 7 3 3 0 2 3 4
+p170
+aVLamar Odom LAL 03/16/2007 LAL vs. POR W 45 15 7 14 50.0 0 2 0.0 1 4 25.0 2 7 9 6 0 2 0 4 3
+p171
+aVSasha Vujacic LAL 03/16/2007 LAL vs. POR W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 1 1 0 2 1 -6
+p172
+aVKwame Brown LAL 03/16/2007 LAL vs. POR W 41 6 3 6 50.0 0 0 - 0 0 - 4 3 7 2 0 2 1 5 11
+p173
+aVMaurice Evans LAL 03/16/2007 LAL vs. POR W 38 14 3 6 50.0 1 1 100.0 7 8 87.5 1 4 5 1 1 0 1 1 13
+p174
+aVJordan Farmar LAL 03/16/2007 LAL vs. POR W 12 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 2 1 5
+p175
+aVAndrew Bynum LAL 03/16/2007 LAL vs. POR W 12 6 2 2 100.0 0 0 - 2 4 50.0 0 5 5 0 0 2 1 1 -6
+p176
+aVRonny Turiaf LAL 03/15/2007 LAL @ DEN L 22 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 0 0 2 1 1 -12
+p177
+aVSasha Vujacic LAL 03/15/2007 LAL @ DEN L 13 4 1 5 20.0 1 3 33.3 1 2 50.0 0 1 1 1 0 0 0 1 -12
+p178
+aVKwame Brown LAL 03/15/2007 LAL @ DEN L 30 11 5 7 71.4 0 0 - 1 3 33.3 1 3 4 0 1 1 1 4 -10
+p179
+aVMaurice Evans LAL 03/15/2007 LAL @ DEN L 14 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 1 0 -12
+p180
+aVLamar Odom LAL 03/15/2007 LAL @ DEN L 32 9 4 11 36.4 0 3 0.0 1 2 50.0 2 5 7 3 0 1 3 1 -19
+p181
+aVSmush Parker LAL 03/15/2007 LAL @ DEN L 20 4 1 8 12.5 0 3 0.0 2 2 100.0 2 1 3 2 0 0 2 5 -6
+p182
+aVJordan Farmar LAL 03/15/2007 LAL @ DEN L 17 3 1 5 20.0 0 1 0.0 1 2 50.0 0 4 4 2 1 0 0 2 -8
+p183
+aVAndrew Bynum LAL 03/15/2007 LAL @ DEN L 14 9 4 6 66.7 0 1 0.0 1 2 50.0 2 0 2 0 0 1 0 4 -10
+p184
+aVLuke Walton LAL 03/15/2007 LAL @ DEN L 29 13 6 11 54.5 1 4 25.0 0 0 - 3 4 7 6 1 0 4 2 -11
+p185
+aVKobe Bryant LAL 03/15/2007 LAL @ DEN L 38 25 9 19 47.4 0 5 0.0 7 8 87.5 2 3 5 9 0 0 1 4 -22
+p186
+aVShammond Williams LAL 03/15/2007 LAL @ DEN L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p187
+aVMaurice Evans LAL 03/11/2007 LAL vs. DAL L 29 4 2 8 25.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 1 -26
+p188
+aVSasha Vujacic LAL 03/11/2007 LAL vs. DAL L 13 0 0 5 0.0 0 5 0.0 0 0 - 1 1 2 0 1 0 0 3 -24
+p189
+aVAaron McKie LAL 03/11/2007 LAL vs. DAL L 17 0 0 1 0.0 0 0 - 0 0 - 0 4 4 2 1 0 0 3 -10
+p190
+aVKwame Brown LAL 03/11/2007 LAL vs. DAL L 24 10 3 4 75.0 0 0 - 4 9 44.4 2 2 4 0 0 0 1 2 -18
+p191
+aVSmush Parker LAL 03/11/2007 LAL vs. DAL L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 2 0 3 2 -7
+p192
+aVJordan Farmar LAL 03/11/2007 LAL vs. DAL L 24 6 3 8 37.5 0 2 0.0 0 0 - 1 4 5 1 1 0 4 2 -17
+p193
+aVAndrew Bynum LAL 03/11/2007 LAL vs. DAL L 24 2 1 4 25.0 0 0 - 0 0 - 2 2 4 2 0 1 0 3 -18
+p194
+aVShammond Williams LAL 03/11/2007 LAL vs. DAL L 23 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 2 0 0 2 2 -22
+p195
+aVBrian Cook LAL 03/11/2007 LAL vs. DAL L 29 9 4 10 40.0 1 3 33.3 0 0 - 0 3 3 1 1 1 1 3 2
+p196
+aVKobe Bryant LAL 03/11/2007 LAL vs. DAL L 37 25 6 19 31.6 0 2 0.0 13 18 72.2 2 7 9 3 0 0 5 1 -12
+p197
+aVRonny Turiaf LAL 03/11/2007 LAL vs. DAL L 14 7 3 4 75.0 0 0 - 1 4 25.0 0 1 1 1 0 0 1 1 -28
+p198
+aVKobe Bryant LAL 03/09/2007 LAL @ PHI L 44 30 12 27 44.4 3 7 42.9 3 3 100.0 0 4 4 4 1 0 3 4 -21
+p199
+aVKwame Brown LAL 03/09/2007 LAL @ PHI L 35 11 5 7 71.4 0 0 - 1 2 50.0 1 9 10 4 0 2 2 4 -14
+p200
+aVSasha Vujacic LAL 03/09/2007 LAL @ PHI L 23 9 2 8 25.0 2 3 66.7 3 3 100.0 1 1 2 2 0 0 0 2 4
+p201
+aVBrian Cook LAL 03/09/2007 LAL @ PHI L 18 11 5 9 55.6 1 1 100.0 0 0 - 1 4 5 1 0 0 1 6 8
+p202
+aVSmush Parker LAL 03/09/2007 LAL @ PHI L 28 4 2 8 25.0 0 4 0.0 0 0 - 1 2 3 3 1 0 2 2 -22
+p203
+aVAndrew Bynum LAL 03/09/2007 LAL @ PHI L 33 2 0 4 0.0 0 0 - 2 4 50.0 2 3 5 3 1 4 4 5 -17
+p204
+aVAaron McKie LAL 03/09/2007 LAL @ PHI L 14 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -4
+p205
+aVMaurice Evans LAL 03/09/2007 LAL @ PHI L 25 9 3 7 42.9 1 3 33.3 2 2 100.0 2 1 3 0 0 0 3 1 -20
+p206
+aVShammond Williams LAL 03/09/2007 LAL @ PHI L 20 14 5 7 71.4 4 6 66.7 0 0 - 1 2 3 2 1 0 0 0 6
+p207
+aVKwame Brown LAL 03/07/2007 LAL @ MIL L 29 13 5 8 62.5 0 0 - 3 5 60.0 2 4 6 2 0 3 4 3 -17
+p208
+aVShammond Williams LAL 03/07/2007 LAL @ MIL L 22 8 2 4 50.0 2 3 66.7 2 2 100.0 0 6 6 2 1 0 4 0 -10
+p209
+aVSmush Parker LAL 03/07/2007 LAL @ MIL L 26 10 2 7 28.6 0 2 0.0 6 8 75.0 1 0 1 5 0 0 2 3 -10
+p210
+aVAndrew Bynum LAL 03/07/2007 LAL @ MIL L 27 7 2 6 33.3 0 0 - 3 4 75.0 0 6 6 1 0 0 0 3 -7
+p211
+aVBrian Cook LAL 03/07/2007 LAL @ MIL L 40 20 9 16 56.3 0 3 0.0 2 2 100.0 2 3 5 2 1 0 1 2 -16
+p212
+aVAaron McKie LAL 03/07/2007 LAL @ MIL L 20 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -9
+p213
+aVJordan Farmar LAL 03/07/2007 LAL @ MIL L 12 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -10
+p214
+aVMaurice Evans LAL 03/07/2007 LAL @ MIL L 37 22 9 16 56.3 1 2 50.0 3 3 100.0 1 0 1 2 2 0 0 0 -14
+p215
+aVSasha Vujacic LAL 03/07/2007 LAL @ MIL L 27 6 2 7 28.6 1 4 25.0 1 1 100.0 1 2 3 3 1 0 2 1 -7
+p216
+aVKobe Bryant LAL 03/06/2007 LAL @ MIN L 53 40 13 30 43.3 3 10 30.0 11 13 84.6 3 10 13 8 2 3 4 3 -1
+p217
+aVRonny Turiaf LAL 03/06/2007 LAL @ MIN L 6 8 3 4 75.0 0 0 - 2 3 66.7 2 1 3 0 0 0 0 0 3
+p218
+aVAndrew Bynum LAL 03/06/2007 LAL @ MIN L 39 10 4 7 57.1 0 0 - 2 4 50.0 2 4 6 1 1 0 1 4 5
+p219
+aVKwame Brown LAL 03/06/2007 LAL @ MIN L 21 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 1 0 0 3 -15
+p220
+aVShammond Williams LAL 03/06/2007 LAL @ MIN L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 3 0 0 1 1
+p221
+aVMaurice Evans LAL 03/06/2007 LAL @ MIN L 45 5 2 11 18.2 0 4 0.0 1 2 50.0 0 7 7 1 4 1 1 5 -9
+p222
+aVSmush Parker LAL 03/06/2007 LAL @ MIN L 43 24 8 14 57.1 2 4 50.0 6 10 60.0 2 2 4 3 4 0 3 3 -11
+p223
+aVAaron McKie LAL 03/06/2007 LAL @ MIN L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -8
+p224
+aVSasha Vujacic LAL 03/06/2007 LAL @ MIN L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -4
+p225
+aVBrian Cook LAL 03/06/2007 LAL @ MIN L 49 14 4 15 26.7 2 7 28.6 4 4 100.0 2 6 8 0 2 4 4 3 -11
+p226
+aVAaron McKie LAL 03/04/2007 LAL @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p227
+aVAndrew Bynum LAL 03/04/2007 LAL @ PHX L 20 6 3 3 100.0 0 0 - 0 0 - 2 4 6 0 1 3 3 1 9
+p228
+aVKwame Brown LAL 03/04/2007 LAL @ PHX L 28 6 3 5 60.0 0 0 - 0 0 - 2 6 8 1 0 1 3 3 -14
+p229
+aVShammond Williams LAL 03/04/2007 LAL @ PHX L 21 6 2 6 33.3 1 5 20.0 1 2 50.0 1 2 3 2 1 0 0 3 3
+p230
+aVSasha Vujacic LAL 03/04/2007 LAL @ PHX L 19 6 2 7 28.6 2 5 40.0 0 0 - 0 0 0 0 1 0 1 3 -1
+p231
+aVKobe Bryant LAL 03/04/2007 LAL @ PHX L 45 31 11 28 39.3 1 5 20.0 8 10 80.0 1 3 4 6 1 1 3 1 -3
+p232
+aVSmush Parker LAL 03/04/2007 LAL @ PHX L 27 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 0 0 0 2 4 -9
+p233
+aVMaurice Evans LAL 03/04/2007 LAL @ PHX L 29 6 3 7 42.9 0 0 - 0 0 - 0 2 2 2 1 0 2 2 -8
+p234
+aVRonny Turiaf LAL 03/04/2007 LAL @ PHX L 16 8 2 7 28.6 0 0 - 4 6 66.7 3 1 4 0 0 1 1 2 -5
+p235
+aVBrian Cook LAL 03/04/2007 LAL @ PHX L 31 22 8 15 53.3 4 6 66.7 2 2 100.0 5 9 14 0 1 1 2 2 4
+p236
+aVAaron McKie LAL 03/02/2007 LAL vs. SAC L 25 12 6 7 85.7 0 0 - 0 0 - 0 3 3 3 2 0 1 5 9
+p237
+aVKobe Bryant LAL 03/02/2007 LAL vs. SAC L 41 30 10 22 45.5 1 5 20.0 9 9 100.0 0 4 4 10 0 0 1 3 -14
+p238
+aVRonny Turiaf LAL 03/02/2007 LAL vs. SAC L 10 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 1 2 2 0
+p239
+aVSmush Parker LAL 03/02/2007 LAL vs. SAC L 24 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 3 2 0 3 3 -21
+p240
+aVKwame Brown LAL 03/02/2007 LAL vs. SAC L 20 0 0 0 - 0 0 - 0 0 - 1 2 3 3 0 1 0 2 9
+p241
+aVSasha Vujacic LAL 03/02/2007 LAL vs. SAC L 19 7 3 7 42.9 1 4 25.0 0 0 - 1 1 2 1 0 0 0 3 1
+p242
+aVShammond Williams LAL 03/02/2007 LAL vs. SAC L 12 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 1 0 1 1 7
+p243
+aVJordan Farmar LAL 03/02/2007 LAL vs. SAC L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p244
+aVBrian Cook LAL 03/02/2007 LAL vs. SAC L 21 7 3 5 60.0 1 2 50.0 0 0 - 1 6 7 1 0 0 6 5 -11
+p245
+aVAndrew Bynum LAL 03/02/2007 LAL vs. SAC L 28 11 5 7 71.4 0 0 - 1 2 50.0 0 6 6 2 0 2 4 2 -17
+p246
+aVLamar Odom LAL 03/02/2007 LAL vs. SAC L 38 26 8 19 42.1 1 4 25.0 9 10 90.0 3 10 13 6 1 0 1 4 -7
+p247
+aVBrian Cook LAL 02/26/2007 LAL @ UTA W 18 8 3 7 42.9 2 4 50.0 0 0 - 0 4 4 1 0 0 0 2 4
+p248
+aVRonny Turiaf LAL 02/26/2007 LAL @ UTA W 15 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 1 1 1 6 4
+p249
+aVAndrew Bynum LAL 02/26/2007 LAL @ UTA W 33 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 2 1 1 2
+p250
+aVSmush Parker LAL 02/26/2007 LAL @ UTA W 35 24 9 13 69.2 6 8 75.0 0 0 - 1 2 3 1 1 0 3 5 6
+p251
+aVLamar Odom LAL 02/26/2007 LAL @ UTA W 39 19 7 13 53.8 1 2 50.0 4 4 100.0 3 11 14 9 1 0 1 3 12
+p252
+aVAaron McKie LAL 02/26/2007 LAL @ UTA W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p253
+aVShammond Williams LAL 02/26/2007 LAL @ UTA W 13 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 2
+p254
+aVMaurice Evans LAL 02/26/2007 LAL @ UTA W 34 10 2 11 18.2 1 4 25.0 5 6 83.3 2 5 7 1 0 0 0 3 3
+p255
+aVKobe Bryant LAL 02/26/2007 LAL @ UTA W 44 35 7 21 33.3 0 4 0.0 21 24 87.5 2 6 8 4 2 0 4 3 6
+p256
+aVSasha Vujacic LAL 02/25/2007 LAL @ GSW W 7 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -6
+p257
+aVLamar Odom LAL 02/25/2007 LAL @ GSW W 38 8 4 13 30.8 0 1 0.0 0 0 - 3 5 8 5 1 0 2 1 15
+p258
+aVMaurice Evans LAL 02/25/2007 LAL @ GSW W 36 26 8 13 61.5 2 3 66.7 8 9 88.9 0 2 2 4 2 0 0 0 9
+p259
+aVAaron McKie LAL 02/25/2007 LAL @ GSW W 13 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 1 0 1 1 8
+p260
+aVRonny Turiaf LAL 02/25/2007 LAL @ GSW W 19 6 3 6 50.0 0 0 - 0 2 0.0 0 4 4 2 0 2 0 5 22
+p261
+aVKobe Bryant LAL 02/25/2007 LAL @ GSW W 36 26 9 23 39.1 2 8 25.0 6 7 85.7 1 5 6 6 3 0 4 2 17
+p262
+aVSmush Parker LAL 02/25/2007 LAL @ GSW W 19 5 2 6 33.3 1 5 20.0 0 2 0.0 0 4 4 1 0 0 1 3 1
+p263
+aVAndrew Bynum LAL 02/25/2007 LAL @ GSW W 26 9 4 6 66.7 0 0 - 1 2 50.0 3 7 10 2 0 1 2 2 -1
+p264
+aVJordan Farmar LAL 02/25/2007 LAL @ GSW W 10 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 3 1 2 1 -2
+p265
+aVBrian Cook LAL 02/25/2007 LAL @ GSW W 17 11 4 7 57.1 1 1 100.0 2 2 100.0 1 3 4 1 0 0 0 1 4
+p266
+aVShammond Williams LAL 02/25/2007 LAL @ GSW W 18 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 0 1 0 2 1 18
+p267
+aVAndrew Bynum LAL 02/23/2007 LAL vs. BOS W 32 16 6 7 85.7 0 0 - 4 4 100.0 4 0 4 2 0 1 3 3 12
+p268
+aVLamar Odom LAL 02/23/2007 LAL vs. BOS W 38 8 3 8 37.5 0 3 0.0 2 2 100.0 1 7 8 6 1 2 3 2 21
+p269
+aVAaron McKie LAL 02/23/2007 LAL vs. BOS W 12 4 2 2 100.0 0 0 - 0 0 - 0 3 3 3 0 0 2 0 6
+p270
+aVMaurice Evans LAL 02/23/2007 LAL vs. BOS W 30 11 4 11 36.4 0 0 - 3 3 100.0 3 3 6 2 1 1 0 3 13
+p271
+aVSasha Vujacic LAL 02/23/2007 LAL vs. BOS W 15 9 3 5 60.0 3 4 75.0 0 0 - 0 2 2 0 0 0 1 0 13
+p272
+aVKobe Bryant LAL 02/23/2007 LAL vs. BOS W 31 38 13 23 56.5 5 7 71.4 7 9 77.8 0 2 2 9 5 0 3 1 16
+p273
+aVJordan Farmar LAL 02/23/2007 LAL vs. BOS W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 1
+p274
+aVRonny Turiaf LAL 02/23/2007 LAL vs. BOS W 17 6 1 3 33.3 0 0 - 4 4 100.0 0 5 5 1 0 2 0 6 16
+p275
+aVShammond Williams LAL 02/23/2007 LAL vs. BOS W 20 6 3 5 60.0 0 2 0.0 0 0 - 0 2 2 4 1 0 0 0 10
+p276
+aVSmush Parker LAL 02/23/2007 LAL vs. BOS W 24 12 5 10 50.0 2 5 40.0 0 1 0.0 1 0 1 3 2 0 1 2 17
+p277
+aVBrian Cook LAL 02/23/2007 LAL vs. BOS W 13 10 4 7 57.1 2 3 66.7 0 0 - 0 2 2 1 1 0 1 6 5
+p278
+aVLamar Odom LAL 02/21/2007 LAL vs. POR L 40 16 6 10 60.0 2 3 66.7 2 2 100.0 3 4 7 3 0 0 2 3 -4
+p279
+aVMaurice Evans LAL 02/21/2007 LAL vs. POR L 30 23 9 12 75.0 2 3 66.7 3 3 100.0 1 0 1 2 1 1 1 3 -7
+p280
+aVRonny Turiaf LAL 02/21/2007 LAL vs. POR L 20 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 1 0 1 2 5 -6
+p281
+aVSmush Parker LAL 02/21/2007 LAL vs. POR L 35 18 7 14 50.0 3 6 50.0 1 2 50.0 0 4 4 8 3 0 1 1 13
+p282
+aVBrian Cook LAL 02/21/2007 LAL vs. POR L 23 7 3 13 23.1 1 2 50.0 0 0 - 2 0 2 0 0 0 1 3 8
+p283
+aVAndrew Bynum LAL 02/21/2007 LAL vs. POR L 31 8 2 3 66.7 0 0 - 4 4 100.0 2 5 7 2 0 2 2 3 -3
+p284
+aVJordan Farmar LAL 02/21/2007 LAL vs. POR L 12 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 2 0 0 0 1 -17
+p285
+aVKobe Bryant LAL 02/21/2007 LAL vs. POR L 40 25 8 22 36.4 0 3 0.0 9 11 81.8 3 5 8 6 2 1 1 3 10
+p286
+aVSasha Vujacic LAL 02/21/2007 LAL vs. POR L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p287
+aVAndrew Bynum LAL 02/15/2007 LAL vs. CLE L 28 12 5 7 71.4 0 0 - 2 3 66.7 3 6 9 0 1 1 1 6 1
+p288
+aVKobe Bryant LAL 02/15/2007 LAL vs. CLE L 41 34 9 22 40.9 2 7 28.6 14 15 93.3 1 5 6 5 2 0 6 3 -3
+p289
+aVSasha Vujacic LAL 02/15/2007 LAL vs. CLE L 27 14 4 7 57.1 2 3 66.7 4 5 80.0 0 4 4 1 3 0 0 3 -4
+p290
+aVLamar Odom LAL 02/15/2007 LAL vs. CLE L 41 20 7 14 50.0 1 4 25.0 5 8 62.5 4 4 8 3 1 1 4 5 -4
+p291
+aVVladimir Radmanovic LAL 02/15/2007 LAL vs. CLE L 21 9 4 11 36.4 0 4 0.0 1 3 33.3 2 2 4 4 0 0 0 4 -8
+p292
+aVRonny Turiaf LAL 02/15/2007 LAL vs. CLE L 15 2 1 2 50.0 0 0 - 0 4 0.0 3 2 5 1 0 1 1 5 -13
+p293
+aVBrian Cook LAL 02/15/2007 LAL vs. CLE L 11 4 1 5 20.0 0 1 0.0 2 2 100.0 1 3 4 2 0 0 0 2 10
+p294
+aVMaurice Evans LAL 02/15/2007 LAL vs. CLE L 12 1 0 6 0.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 2 -6
+p295
+aVSmush Parker LAL 02/15/2007 LAL vs. CLE L 35 12 5 11 45.5 2 2 100.0 0 0 - 0 2 2 4 2 1 1 1 -2
+p296
+aVJordan Farmar LAL 02/15/2007 LAL vs. CLE L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 2 -1
+p297
+aVSasha Vujacic LAL 02/13/2007 LAL vs. NYK L 10 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 2 0 0 0 2 -1
+p298
+aVMaurice Evans LAL 02/13/2007 LAL vs. NYK L 27 16 5 10 50.0 3 4 75.0 3 4 75.0 0 3 3 3 2 0 1 3 5
+p299
+aVRonny Turiaf LAL 02/13/2007 LAL vs. NYK L 19 11 5 5 100.0 0 0 - 1 2 50.0 2 1 3 2 1 2 1 4 1
+p300
+aVVladimir Radmanovic LAL 02/13/2007 LAL vs. NYK L 21 9 4 9 44.4 1 3 33.3 0 0 - 1 1 2 2 0 0 2 4 -6
+p301
+aVAndrew Bynum LAL 02/13/2007 LAL vs. NYK L 26 8 2 6 33.3 0 0 - 4 4 100.0 5 6 11 2 0 1 1 5 1
+p302
+aVSmush Parker LAL 02/13/2007 LAL vs. NYK L 33 9 3 13 23.1 2 7 28.6 1 2 50.0 1 1 2 3 1 0 2 4 3
+p303
+aVJordan Farmar LAL 02/13/2007 LAL vs. NYK L 15 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 3 0 0 0 0 -4
+p304
+aVBrian Cook LAL 02/13/2007 LAL vs. NYK L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 -2
+p305
+aVKobe Bryant LAL 02/13/2007 LAL vs. NYK L 38 31 9 20 45.0 2 4 50.0 11 11 100.0 3 4 7 4 2 0 1 1 0
+p306
+aVLamar Odom LAL 02/13/2007 LAL vs. NYK L 42 12 5 12 41.7 1 3 33.3 1 1 100.0 4 6 10 4 0 0 5 5 -2
+p307
+aVJordan Farmar LAL 02/11/2007 LAL @ CLE L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 0 -9
+p308
+aVAndrew Bynum LAL 02/11/2007 LAL @ CLE L 29 10 3 6 50.0 0 0 - 4 7 57.1 1 1 2 1 0 1 1 6 -10
+p309
+aVKobe Bryant LAL 02/11/2007 LAL @ CLE L 44 36 12 24 50.0 1 5 20.0 11 11 100.0 0 7 7 6 1 0 4 5 -4
+p310
+aVRonny Turiaf LAL 02/11/2007 LAL @ CLE L 20 6 1 3 33.3 0 0 - 4 4 100.0 1 2 3 0 0 1 1 5 -5
+p311
+aVSasha Vujacic LAL 02/11/2007 LAL @ CLE L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p312
+aVSmush Parker LAL 02/11/2007 LAL @ CLE L 36 6 3 10 30.0 0 4 0.0 0 0 - 2 2 4 4 1 0 2 2 -4
+p313
+aVVladimir Radmanovic LAL 02/11/2007 LAL @ CLE L 27 12 5 8 62.5 1 1 100.0 1 2 50.0 0 10 10 2 1 2 0 1 15
+p314
+aVMaurice Evans LAL 02/11/2007 LAL @ CLE L 23 6 1 9 11.1 0 1 0.0 4 4 100.0 3 2 5 1 1 1 2 3 -14
+p315
+aVBrian Cook LAL 02/11/2007 LAL @ CLE L 3 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p316
+aVLamar Odom LAL 02/11/2007 LAL @ CLE L 41 11 5 13 38.5 1 6 16.7 0 0 - 4 7 11 1 0 0 1 2 -10
+p317
+aVKobe Bryant LAL 02/09/2007 LAL @ TOR L 43 25 10 23 43.5 1 4 25.0 4 4 100.0 1 8 9 5 3 1 3 1 9
+p318
+aVRonny Turiaf LAL 02/09/2007 LAL @ TOR L 28 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 0 1 1 2 12
+p319
+aVAndrew Bynum LAL 02/09/2007 LAL @ TOR L 19 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 0 1 1 2 -7
+p320
+aVSasha Vujacic LAL 02/09/2007 LAL @ TOR L 10 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 0 1 0 0 3 -5
+p321
+aVLamar Odom LAL 02/09/2007 LAL @ TOR L 39 17 6 12 50.0 2 3 66.7 3 4 75.0 5 7 12 2 0 0 5 3 -21
+p322
+aVSmush Parker LAL 02/09/2007 LAL @ TOR L 33 18 7 14 50.0 2 7 28.6 2 2 100.0 0 3 3 0 0 0 2 6 -3
+p323
+aVJordan Farmar LAL 02/09/2007 LAL @ TOR L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 -9
+p324
+aVVladimir Radmanovic LAL 02/09/2007 LAL @ TOR L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 2 1 -10
+p325
+aVMaurice Evans LAL 02/09/2007 LAL @ TOR L 29 19 7 11 63.6 3 4 75.0 2 2 100.0 2 0 2 1 0 0 0 2 3
+p326
+aVBrian Cook LAL 02/09/2007 LAL @ TOR L 17 7 2 4 50.0 1 2 50.0 2 2 100.0 0 3 3 0 1 0 0 0 11
+p327
+aVJordan Farmar LAL 02/08/2007 LAL @ DET L 23 10 4 7 57.1 2 4 50.0 0 0 - 2 3 5 3 0 0 1 2 5
+p328
+aVLamar Odom LAL 02/08/2007 LAL @ DET L 41 12 6 17 35.3 0 4 0.0 0 2 0.0 2 7 9 2 0 1 2 5 -19
+p329
+aVKobe Bryant LAL 02/08/2007 LAL @ DET L 38 18 5 13 38.5 2 5 40.0 6 6 100.0 1 4 5 5 2 0 8 1 -25
+p330
+aVSasha Vujacic LAL 02/08/2007 LAL @ DET L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 10
+p331
+aVVladimir Radmanovic LAL 02/08/2007 LAL @ DET L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 2 2 -9
+p332
+aVAndrew Bynum LAL 02/08/2007 LAL @ DET L 29 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 3 0 1 1 4 -20
+p333
+aVRonny Turiaf LAL 02/08/2007 LAL @ DET L 26 13 5 9 55.6 0 0 - 3 5 60.0 6 5 11 1 0 2 0 1 3
+p334
+aVMaurice Evans LAL 02/08/2007 LAL @ DET L 28 7 1 9 11.1 0 2 0.0 5 7 71.4 4 2 6 1 1 0 0 2 0
+p335
+aVSmush Parker LAL 02/08/2007 LAL @ DET L 25 11 4 10 40.0 2 4 50.0 1 3 33.3 0 1 1 3 1 0 3 0 -20
+p336
+aVKobe Bryant LAL 02/05/2007 LAL @ ATL W 41 27 10 18 55.6 2 5 40.0 5 6 83.3 1 5 6 4 3 0 3 3 4
+p337
+aVMaurice Evans LAL 02/05/2007 LAL @ ATL W 29 6 3 7 42.9 0 0 - 0 0 - 3 1 4 0 0 1 1 3 5
+p338
+aVLamar Odom LAL 02/05/2007 LAL @ ATL W 42 15 4 17 23.5 0 2 0.0 7 8 87.5 5 13 18 6 0 0 4 5 12
+p339
+aVVladimir Radmanovic LAL 02/05/2007 LAL @ ATL W 25 7 3 6 50.0 0 2 0.0 1 2 50.0 1 1 2 2 1 0 1 1 -4
+p340
+aVSasha Vujacic LAL 02/05/2007 LAL @ ATL W 8 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 1
+p341
+aVAndrew Bynum LAL 02/05/2007 LAL @ ATL W 35 14 5 9 55.6 0 1 0.0 4 7 57.1 2 8 10 1 0 1 3 3 7
+p342
+aVRonny Turiaf LAL 02/05/2007 LAL @ ATL W 12 8 2 4 50.0 0 0 - 4 5 80.0 1 2 3 0 0 1 0 5 3
+p343
+aVJordan Farmar LAL 02/05/2007 LAL @ ATL W 18 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 2 2 1
+p344
+aVSmush Parker LAL 02/05/2007 LAL @ ATL W 30 3 1 8 12.5 1 5 20.0 0 0 - 0 2 2 5 6 0 2 4 6
+p345
+aVVladimir Radmanovic LAL 02/03/2007 LAL @ WAS W 30 12 4 8 50.0 1 4 25.0 3 3 100.0 2 3 5 4 0 0 1 3 4
+p346
+aVSasha Vujacic LAL 02/03/2007 LAL @ WAS W 4 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 0 1 0 0 0 2
+p347
+aVLamar Odom LAL 02/03/2007 LAL @ WAS W 42 19 6 13 46.2 4 5 80.0 3 4 75.0 1 10 11 5 2 0 3 3 15
+p348
+aVMaurice Evans LAL 02/03/2007 LAL @ WAS W 21 8 3 4 75.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 1 4 12
+p349
+aVBrian Cook LAL 02/03/2007 LAL @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 1
+p350
+aVShammond Williams LAL 02/03/2007 LAL @ WAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p351
+aVRonny Turiaf LAL 02/03/2007 LAL @ WAS W 12 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 5 5
+p352
+aVSmush Parker LAL 02/03/2007 LAL @ WAS W 35 20 8 16 50.0 2 6 33.3 2 3 66.7 0 3 3 3 1 0 0 2 9
+p353
+aVAndrew Bynum LAL 02/03/2007 LAL @ WAS W 36 12 5 9 55.6 0 0 - 2 2 100.0 2 11 13 2 1 1 0 4 11
+p354
+aVKobe Bryant LAL 02/03/2007 LAL @ WAS W 44 39 14 26 53.8 2 5 40.0 9 10 90.0 2 4 6 6 2 0 4 3 14
+p355
+aVJordan Farmar LAL 02/03/2007 LAL @ WAS W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 0 9
+p356
+aVKobe Bryant LAL 02/02/2007 LAL @ IND L 40 22 7 25 28.0 2 8 25.0 6 6 100.0 0 5 5 4 5 0 4 1 -1
+p357
+aVRonny Turiaf LAL 02/02/2007 LAL @ IND L 9 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 4 0
+p358
+aVSasha Vujacic LAL 02/02/2007 LAL @ IND L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -7
+p359
+aVMaurice Evans LAL 02/02/2007 LAL @ IND L 23 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 1 0 1 0 0 3
+p360
+aVVladimir Radmanovic LAL 02/02/2007 LAL @ IND L 29 11 4 8 50.0 0 3 0.0 3 4 75.0 1 6 7 2 2 0 3 5 -2
+p361
+aVSmush Parker LAL 02/02/2007 LAL @ IND L 33 20 8 15 53.3 2 6 33.3 2 2 100.0 1 2 3 1 6 0 3 6 -3
+p362
+aVJordan Farmar LAL 02/02/2007 LAL @ IND L 13 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 3 0 -6
+p363
+aVShammond Williams LAL 02/02/2007 LAL @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p364
+aVLamar Odom LAL 02/02/2007 LAL @ IND L 41 10 4 10 40.0 0 2 0.0 2 2 100.0 1 11 12 3 2 1 6 4 -20
+p365
+aVAndrew Bynum LAL 02/02/2007 LAL @ IND L 22 6 3 8 37.5 0 0 - 0 0 - 3 4 7 1 0 2 0 4 -9
+p366
+aVBrian Cook LAL 02/02/2007 LAL @ IND L 21 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 4 0 0 1 3 -8
+p367
+aVSasha Vujacic LAL 01/31/2007 LAL @ BOS W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p368
+aVMaurice Evans LAL 01/31/2007 LAL @ BOS W 29 6 2 5 40.0 0 2 0.0 2 3 66.7 1 2 3 1 0 1 1 1 1
+p369
+aVRonny Turiaf LAL 01/31/2007 LAL @ BOS W 25 9 3 3 100.0 0 0 - 3 4 75.0 2 8 10 2 0 0 0 4 11
+p370
+aVKobe Bryant LAL 01/31/2007 LAL @ BOS W 41 43 13 25 52.0 7 9 77.8 10 13 76.9 1 7 8 8 0 2 2 2 20
+p371
+aVSmush Parker LAL 01/31/2007 LAL @ BOS W 35 19 8 18 44.4 2 6 33.3 1 1 100.0 0 1 1 1 2 0 2 2 24
+p372
+aVAndrew Bynum LAL 01/31/2007 LAL @ BOS W 20 11 5 7 71.4 0 0 - 1 1 100.0 2 4 6 1 0 0 0 4 2
+p373
+aVLamar Odom LAL 01/31/2007 LAL @ BOS W 41 10 4 10 40.0 0 3 0.0 2 3 66.7 1 8 9 4 2 0 2 3 16
+p374
+aVJordan Farmar LAL 01/31/2007 LAL @ BOS W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -11
+p375
+aVShammond Williams LAL 01/31/2007 LAL @ BOS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 8
+p376
+aVVladimir Radmanovic LAL 01/31/2007 LAL @ BOS W 27 13 4 7 57.1 3 4 75.0 2 2 100.0 0 4 4 3 0 0 2 4 0
+p377
+aVSasha Vujacic LAL 01/30/2007 LAL @ NYK L 23 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 3 0 0 0 1
+p378
+aVVladimir Radmanovic LAL 01/30/2007 LAL @ NYK L 35 18 8 14 57.1 2 3 66.7 0 0 - 4 5 9 2 2 0 5 5 -12
+p379
+aVBrian Cook LAL 01/30/2007 LAL @ NYK L 13 6 2 6 33.3 1 4 25.0 1 2 50.0 1 1 2 2 0 0 0 2 9
+p380
+aVLamar Odom LAL 01/30/2007 LAL @ NYK L 41 25 9 20 45.0 3 8 37.5 4 5 80.0 1 8 9 6 1 0 0 2 -2
+p381
+aVMaurice Evans LAL 01/30/2007 LAL @ NYK L 26 10 4 12 33.3 0 2 0.0 2 2 100.0 2 0 2 1 0 0 0 2 -2
+p382
+aVShammond Williams LAL 01/30/2007 LAL @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p383
+aVJordan Farmar LAL 01/30/2007 LAL @ NYK L 18 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 1 -3
+p384
+aVRonny Turiaf LAL 01/30/2007 LAL @ NYK L 24 7 3 4 75.0 0 0 - 1 4 25.0 4 1 5 1 1 2 3 2 1
+p385
+aVSmush Parker LAL 01/30/2007 LAL @ NYK L 31 14 5 14 35.7 3 7 42.9 1 2 50.0 1 0 1 3 1 0 2 1 -9
+p386
+aVAndrew Bynum LAL 01/30/2007 LAL @ NYK L 23 9 4 9 44.4 0 0 - 1 2 50.0 1 3 4 1 0 1 0 5 -5
+p387
+aVKobe Bryant LAL 01/28/2007 LAL vs. SAS L 46 31 13 25 52.0 1 2 50.0 4 5 80.0 0 6 6 7 1 1 3 2 2
+p388
+aVBrian Cook LAL 01/28/2007 LAL vs. SAS L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p389
+aVAndrew Bynum LAL 01/28/2007 LAL vs. SAS L 43 14 4 12 33.3 0 0 - 6 8 75.0 2 9 11 3 0 1 2 4 -3
+p390
+aVSmush Parker LAL 01/28/2007 LAL vs. SAS L 41 10 4 12 33.3 1 2 50.0 1 2 50.0 1 2 3 0 2 0 5 3 -6
+p391
+aVJordan Farmar LAL 01/28/2007 LAL vs. SAS L 11 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 2 0 0 1 4
+p392
+aVSasha Vujacic LAL 01/28/2007 LAL vs. SAS L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p393
+aVLamar Odom LAL 01/28/2007 LAL vs. SAS L 47 18 6 12 50.0 2 6 33.3 4 10 40.0 0 10 10 6 1 0 0 4 -6
+p394
+aVVladimir Radmanovic LAL 01/28/2007 LAL vs. SAS L 34 13 5 9 55.6 2 6 33.3 1 2 50.0 2 7 9 0 1 0 0 4 -12
+p395
+aVMaurice Evans LAL 01/28/2007 LAL vs. SAS L 14 2 0 5 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 6
+p396
+aVRonny Turiaf LAL 01/28/2007 LAL vs. SAS L 9 0 0 0 - 0 0 - 0 2 0.0 0 2 2 1 0 0 0 1 1
+p397
+aVKobe Bryant LAL 01/26/2007 LAL vs. CHA L 50 32 10 24 41.7 2 5 40.0 10 12 83.3 2 4 6 5 0 0 9 3 -7
+p398
+aVJordan Farmar LAL 01/26/2007 LAL vs. CHA L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 0
+p399
+aVMaurice Evans LAL 01/26/2007 LAL vs. CHA L 32 11 4 13 30.8 0 3 0.0 3 4 75.0 2 5 7 2 0 1 0 2 -13
+p400
+aVBrian Cook LAL 01/26/2007 LAL vs. CHA L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p401
+aVAndrew Bynum LAL 01/26/2007 LAL vs. CHA L 38 11 5 9 55.6 0 0 - 1 3 33.3 7 9 16 1 0 7 2 4 -7
+p402
+aVLuke Walton LAL 01/26/2007 LAL vs. CHA L 17 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 2 0 0 1 2 2
+p403
+aVLamar Odom LAL 01/26/2007 LAL vs. CHA L 43 12 3 10 30.0 0 3 0.0 6 8 75.0 1 6 7 4 3 1 6 6 -5
+p404
+aVSasha Vujacic LAL 01/26/2007 LAL vs. CHA L 6 7 2 2 100.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 1 2 -3
+p405
+aVSmush Parker LAL 01/26/2007 LAL vs. CHA L 40 12 5 12 41.7 0 3 0.0 2 5 40.0 0 2 2 1 4 0 1 6 -9
+p406
+aVRonny Turiaf LAL 01/26/2007 LAL vs. CHA L 13 5 2 3 66.7 0 0 - 1 1 100.0 2 1 3 2 1 0 0 2 -1
+p407
+aVVladimir Radmanovic LAL 01/22/2007 LAL vs. GSW W 13 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 -17
+p408
+aVLuke Walton LAL 01/22/2007 LAL vs. GSW W 31 8 2 10 20.0 0 2 0.0 4 4 100.0 3 4 7 5 0 1 2 1 9
+p409
+aVSasha Vujacic LAL 01/22/2007 LAL vs. GSW W 13 6 1 6 16.7 1 3 33.3 3 3 100.0 1 4 5 1 2 0 1 1 -1
+p410
+aVAndrew Bynum LAL 01/22/2007 LAL vs. GSW W 32 10 4 4 100.0 0 0 - 2 5 40.0 4 11 15 4 0 4 3 3 0
+p411
+aVSmush Parker LAL 01/22/2007 LAL vs. GSW W 35 11 4 6 66.7 1 3 33.3 2 4 50.0 0 2 2 3 2 0 4 3 8
+p412
+aVRonny Turiaf LAL 01/22/2007 LAL vs. GSW W 15 0 0 0 - 0 0 - 0 0 - 2 3 5 1 0 0 1 3 9
+p413
+aVKobe Bryant LAL 01/22/2007 LAL vs. GSW W 39 42 11 22 50.0 4 7 57.1 16 19 84.2 1 7 8 1 2 1 5 1 7
+p414
+aVJordan Farmar LAL 01/22/2007 LAL vs. GSW W 13 4 1 4 25.0 1 2 50.0 1 2 50.0 2 1 3 2 2 0 2 1 -3
+p415
+aVBrian Cook LAL 01/22/2007 LAL vs. GSW W 21 13 6 9 66.7 1 3 33.3 0 0 - 0 3 3 1 0 1 1 4 11
+p416
+aVMaurice Evans LAL 01/22/2007 LAL vs. GSW W 27 14 5 14 35.7 1 3 33.3 3 4 75.0 2 0 2 0 2 0 2 0 2
+p417
+aVVladimir Radmanovic LAL 01/20/2007 LAL @ NOK L 9 4 1 3 33.3 0 2 0.0 2 2 100.0 2 0 2 2 0 0 0 3 -3
+p418
+aVMaurice Evans LAL 01/20/2007 LAL @ NOK L 28 23 8 9 88.9 2 2 100.0 5 5 100.0 4 3 7 0 0 0 1 2 6
+p419
+aVRonny Turiaf LAL 01/20/2007 LAL @ NOK L 23 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 2 1 0 1 3 5
+p420
+aVBrian Cook LAL 01/20/2007 LAL @ NOK L 16 8 4 6 66.7 0 1 0.0 0 0 - 1 2 3 0 0 0 1 4 -10
+p421
+aVJordan Farmar LAL 01/20/2007 LAL @ NOK L 17 4 1 5 20.0 0 3 0.0 2 4 50.0 1 0 1 1 0 0 1 0 -2
+p422
+aVSasha Vujacic LAL 01/20/2007 LAL @ NOK L 11 4 1 2 50.0 1 2 50.0 1 1 100.0 0 2 2 0 0 0 0 1 -4
+p423
+aVLuke Walton LAL 01/20/2007 LAL @ NOK L 32 9 4 13 30.8 1 5 20.0 0 0 - 1 1 2 2 0 0 0 3 -18
+p424
+aVKobe Bryant LAL 01/20/2007 LAL @ NOK L 38 23 7 22 31.8 3 7 42.9 6 8 75.0 2 4 6 7 2 1 1 2 -10
+p425
+aVAndrew Bynum LAL 01/20/2007 LAL @ NOK L 31 9 4 7 57.1 0 0 - 1 2 50.0 2 7 9 1 0 1 3 4 -6
+p426
+aVSmush Parker LAL 01/20/2007 LAL @ NOK L 30 13 4 10 40.0 3 5 60.0 2 2 100.0 0 1 1 2 1 0 1 2 -8
+p427
+aVLuke Walton LAL 01/18/2007 LAL @ DAL L 30 8 3 9 33.3 0 2 0.0 2 2 100.0 1 1 2 3 0 1 4 0 -13
+p428
+aVKobe Bryant LAL 01/18/2007 LAL @ DAL L 34 26 8 18 44.4 0 3 0.0 10 11 90.9 1 2 3 5 0 0 6 3 -17
+p429
+aVSmush Parker LAL 01/18/2007 LAL @ DAL L 21 5 2 6 33.3 1 3 33.3 0 0 - 2 3 5 1 0 0 0 1 -17
+p430
+aVSasha Vujacic LAL 01/18/2007 LAL @ DAL L 23 10 4 5 80.0 2 3 66.7 0 0 - 0 0 0 2 3 0 0 2 -6
+p431
+aVBrian Cook LAL 01/18/2007 LAL @ DAL L 21 9 4 7 57.1 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 1
+p432
+aVAndrew Bynum LAL 01/18/2007 LAL @ DAL L 22 9 3 4 75.0 0 0 - 3 4 75.0 1 4 5 2 0 0 1 1 -18
+p433
+aVRonny Turiaf LAL 01/18/2007 LAL @ DAL L 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -1
+p434
+aVMaurice Evans LAL 01/18/2007 LAL @ DAL L 28 6 3 10 30.0 0 2 0.0 0 0 - 2 2 4 0 1 0 1 1 -6
+p435
+aVJordan Farmar LAL 01/18/2007 LAL @ DAL L 27 17 6 10 60.0 2 3 66.7 3 4 75.0 0 4 4 4 5 0 0 0 -2
+p436
+aVVladimir Radmanovic LAL 01/18/2007 LAL @ DAL L 21 3 1 5 20.0 0 3 0.0 1 1 100.0 2 0 2 1 0 0 3 4 -16
+p437
+aVBrian Cook LAL 01/17/2007 LAL @ SAS W 18 8 4 9 44.4 0 2 0.0 0 0 - 0 3 3 1 2 1 1 3 1
+p438
+aVVladimir Radmanovic LAL 01/17/2007 LAL @ SAS W 15 13 5 7 71.4 3 3 100.0 0 0 - 0 2 2 0 2 0 1 2 10
+p439
+aVSmush Parker LAL 01/17/2007 LAL @ SAS W 33 7 2 6 33.3 1 3 33.3 2 2 100.0 0 5 5 1 2 0 2 4 -7
+p440
+aVAndrew Bynum LAL 01/17/2007 LAL @ SAS W 27 6 3 9 33.3 0 0 - 0 1 0.0 3 5 8 3 0 4 1 6 -3
+p441
+aVLuke Walton LAL 01/17/2007 LAL @ SAS W 32 8 4 10 40.0 0 1 0.0 0 0 - 1 2 3 5 2 0 3 3 -12
+p442
+aVJordan Farmar LAL 01/17/2007 LAL @ SAS W 14 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 11
+p443
+aVMaurice Evans LAL 01/17/2007 LAL @ SAS W 30 11 4 10 40.0 0 1 0.0 3 5 60.0 2 3 5 0 2 0 2 2 4
+p444
+aVKobe Bryant LAL 01/17/2007 LAL @ SAS W 36 34 12 19 63.2 0 2 0.0 10 11 90.9 0 6 6 8 1 0 7 2 10
+p445
+aVSasha Vujacic LAL 01/17/2007 LAL @ SAS W 15 4 0 2 0.0 0 0 - 4 4 100.0 0 0 0 1 0 0 0 1 1
+p446
+aVRonny Turiaf LAL 01/17/2007 LAL @ SAS W 17 4 2 7 28.6 0 0 - 0 0 - 1 5 6 0 0 1 0 4 5
+p447
+aVMaurice Evans LAL 01/15/2007 LAL vs. MIA W 26 12 5 8 62.5 1 2 50.0 1 2 50.0 1 2 3 4 0 0 0 1 5
+p448
+aVKobe Bryant LAL 01/15/2007 LAL vs. MIA W 44 25 11 24 45.8 0 2 0.0 3 3 100.0 1 3 4 8 0 1 1 2 2
+p449
+aVRonny Turiaf LAL 01/15/2007 LAL vs. MIA W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 1 0 5 5
+p450
+aVSasha Vujacic LAL 01/15/2007 LAL vs. MIA W 10 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 2 0 0 0 0 4
+p451
+aVLuke Walton LAL 01/15/2007 LAL vs. MIA W 35 10 4 12 33.3 0 2 0.0 2 5 40.0 3 7 10 6 0 1 2 4 -5
+p452
+aVJordan Farmar LAL 01/15/2007 LAL vs. MIA W 9 5 2 5 40.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 1 0 0
+p453
+aVBrian Cook LAL 01/15/2007 LAL vs. MIA W 35 25 10 16 62.5 4 6 66.7 1 2 50.0 4 6 10 4 0 3 3 2 10
+p454
+aVAndrew Bynum LAL 01/15/2007 LAL vs. MIA W 28 11 4 7 57.1 0 0 - 3 3 100.0 4 4 8 2 0 0 0 4 7
+p455
+aVSmush Parker LAL 01/15/2007 LAL vs. MIA W 43 17 5 14 35.7 5 7 71.4 2 2 100.0 0 5 5 4 2 0 2 1 6
+p456
+aVVladimir Radmanovic LAL 01/15/2007 LAL vs. MIA W 25 11 4 10 40.0 2 3 66.7 1 2 50.0 0 3 3 1 0 1 2 3 -4
+p457
+aVVladimir Radmanovic LAL 01/12/2007 LAL vs. ORL W 19 4 1 6 16.7 0 2 0.0 2 2 100.0 1 3 4 1 0 0 0 2 -5
+p458
+aVRonny Turiaf LAL 01/12/2007 LAL vs. ORL W 30 4 1 4 25.0 0 0 - 2 4 50.0 2 1 3 1 0 5 2 5 -3
+p459
+aVBrian Cook LAL 01/12/2007 LAL vs. ORL W 20 9 4 8 50.0 0 1 0.0 1 2 50.0 1 4 5 3 0 0 1 4 4
+p460
+aVSmush Parker LAL 01/12/2007 LAL vs. ORL W 32 26 9 16 56.3 5 8 62.5 3 6 50.0 0 4 4 5 3 0 0 2 3
+p461
+aVLuke Walton LAL 01/12/2007 LAL vs. ORL W 31 12 6 12 50.0 0 1 0.0 0 0 - 2 3 5 4 1 1 0 4 7
+p462
+aVMaurice Evans LAL 01/12/2007 LAL vs. ORL W 21 9 2 5 40.0 0 1 0.0 5 6 83.3 0 2 2 0 0 0 0 0 -2
+p463
+aVSasha Vujacic LAL 01/12/2007 LAL vs. ORL W 14 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 1 1
+p464
+aVJordan Farmar LAL 01/12/2007 LAL vs. ORL W 15 9 3 5 60.0 2 2 100.0 1 1 100.0 0 2 2 2 1 0 1 1 0
+p465
+aVKobe Bryant LAL 01/12/2007 LAL vs. ORL W 39 28 9 15 60.0 0 2 0.0 10 11 90.9 2 6 8 7 1 0 2 3 4
+p466
+aVAndrew Bynum LAL 01/12/2007 LAL vs. ORL W 19 8 3 4 75.0 0 0 - 2 3 66.7 0 5 5 1 0 4 2 5 6
+p467
+aVAndrew Bynum LAL 01/10/2007 LAL @ HOU L 29 11 5 11 45.5 0 0 - 1 1 100.0 1 10 11 0 0 1 0 0 -7
+p468
+aVSmush Parker LAL 01/10/2007 LAL @ HOU L 29 12 4 9 44.4 3 4 75.0 1 3 33.3 1 2 3 0 0 0 2 1 -6
+p469
+aVLuke Walton LAL 01/10/2007 LAL @ HOU L 35 9 3 9 33.3 0 1 0.0 3 3 100.0 0 3 3 6 1 0 4 2 -17
+p470
+aVBrian Cook LAL 01/10/2007 LAL @ HOU L 19 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 4 -1
+p471
+aVVladimir Radmanovic LAL 01/10/2007 LAL @ HOU L 19 0 0 3 0.0 0 3 0.0 0 0 - 0 5 5 1 1 0 1 1 -10
+p472
+aVJordan Farmar LAL 01/10/2007 LAL @ HOU L 19 11 2 5 40.0 0 2 0.0 7 7 100.0 1 0 1 0 0 0 1 1 -14
+p473
+aVKobe Bryant LAL 01/10/2007 LAL @ HOU L 34 20 6 18 33.3 0 3 0.0 8 9 88.9 1 5 6 1 1 0 2 2 -17
+p474
+aVSasha Vujacic LAL 01/10/2007 LAL @ HOU L 7 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 0 -12
+p475
+aVRonny Turiaf LAL 01/10/2007 LAL @ HOU L 19 0 0 1 0.0 0 0 - 0 0 - 1 6 7 0 0 2 1 1 -18
+p476
+aVMaurice Evans LAL 01/10/2007 LAL @ HOU L 30 10 4 12 33.3 0 1 0.0 2 2 100.0 2 1 3 3 0 0 1 0 -23
+p477
+aVSasha Vujacic LAL 01/09/2007 LAL @ MEM L 23 18 4 6 66.7 4 6 66.7 6 6 100.0 1 1 2 2 3 0 2 5 -1
+p478
+aVSmush Parker LAL 01/09/2007 LAL @ MEM L 24 9 3 9 33.3 0 1 0.0 3 4 75.0 2 2 4 0 1 2 0 1 -6
+p479
+aVMaurice Evans LAL 01/09/2007 LAL @ MEM L 21 21 6 7 85.7 3 3 100.0 6 7 85.7 0 4 4 0 0 0 2 1 -1
+p480
+aVAndrew Bynum LAL 01/09/2007 LAL @ MEM L 34 11 5 13 38.5 0 0 - 1 2 50.0 4 4 8 1 1 3 4 3 5
+p481
+aVBrian Cook LAL 01/09/2007 LAL @ MEM L 24 8 4 13 30.8 0 4 0.0 0 0 - 2 5 7 3 0 0 0 3 -7
+p482
+aVJordan Farmar LAL 01/09/2007 LAL @ MEM L 20 12 5 9 55.6 2 6 33.3 0 0 - 0 1 1 4 1 0 2 2 2
+p483
+aVVladimir Radmanovic LAL 01/09/2007 LAL @ MEM L 18 6 1 6 16.7 0 2 0.0 4 4 100.0 0 0 0 1 0 0 1 6 -10
+p484
+aVRonny Turiaf LAL 01/09/2007 LAL @ MEM L 13 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 6 -15
+p485
+aVKobe Bryant LAL 01/09/2007 LAL @ MEM L 30 25 7 15 46.7 2 6 33.3 9 9 100.0 0 3 3 6 3 2 3 2 -16
+p486
+aVLuke Walton LAL 01/09/2007 LAL @ MEM L 33 4 1 8 12.5 0 3 0.0 2 2 100.0 1 5 6 5 3 0 3 2 -1
+p487
+aVLuke Walton LAL 01/07/2007 LAL vs. DAL W 39 21 8 14 57.1 1 3 33.3 4 7 57.1 1 2 3 6 1 0 1 1 8
+p488
+aVSmush Parker LAL 01/07/2007 LAL vs. DAL W 28 11 5 7 71.4 1 3 33.3 0 1 0.0 0 3 3 1 1 1 2 4 9
+p489
+aVSasha Vujacic LAL 01/07/2007 LAL vs. DAL W 19 16 6 7 85.7 4 5 80.0 0 0 - 0 2 2 1 0 0 0 1 2
+p490
+aVBrian Cook LAL 01/07/2007 LAL vs. DAL W 20 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 3 2 -8
+p491
+aVKobe Bryant LAL 01/07/2007 LAL vs. DAL W 41 26 9 20 45.0 0 2 0.0 8 9 88.9 0 8 8 6 1 1 3 3 13
+p492
+aVRonny Turiaf LAL 01/07/2007 LAL vs. DAL W 28 13 5 9 55.6 0 0 - 3 4 75.0 0 3 3 4 1 2 1 2 1
+p493
+aVJordan Farmar LAL 01/07/2007 LAL vs. DAL W 11 2 1 2 50.0 0 0 - 0 0 - 0 5 5 2 0 0 1 0 -14
+p494
+aVVladimir Radmanovic LAL 01/07/2007 LAL vs. DAL W 19 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 1 1 2 2
+p495
+aVMaurice Evans LAL 01/07/2007 LAL vs. DAL W 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 1 1 2 0
+p496
+aVAndrew Bynum LAL 01/07/2007 LAL vs. DAL W 20 6 2 3 66.7 0 0 - 2 2 100.0 0 8 8 0 0 0 0 3 2
+p497
+aVMaurice Evans LAL 01/05/2007 LAL vs. DEN W 21 16 7 12 58.3 1 2 50.0 1 1 100.0 1 2 3 1 1 0 0 3 -1
+p498
+aVVladimir Radmanovic LAL 01/05/2007 LAL vs. DEN W 24 3 1 9 11.1 1 3 33.3 0 0 - 1 2 3 3 0 1 0 2 -7
+p499
+aVAaron McKie LAL 01/05/2007 LAL vs. DEN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p500
+aVSmush Parker LAL 01/05/2007 LAL vs. DEN W 29 23 9 14 64.3 3 4 75.0 2 2 100.0 0 3 3 4 2 0 1 3 20
+p501
+aVKobe Bryant LAL 01/05/2007 LAL vs. DEN W 27 8 2 9 22.2 1 4 25.0 3 4 75.0 1 4 5 10 0 0 3 3 19
+p502
+aVRonny Turiaf LAL 01/05/2007 LAL vs. DEN W 20 8 3 7 42.9 0 0 - 2 6 33.3 4 5 9 2 0 1 2 0 10
+p503
+aVJordan Farmar LAL 01/05/2007 LAL vs. DEN W 15 9 3 5 60.0 1 2 50.0 2 2 100.0 0 3 3 1 1 0 0 0 3
+p504
+aVAndrew Bynum LAL 01/05/2007 LAL vs. DEN W 28 19 8 9 88.9 0 0 - 3 4 75.0 4 6 10 3 1 6 1 2 9
+p505
+aVSasha Vujacic LAL 01/05/2007 LAL vs. DEN W 13 3 1 7 14.3 0 5 0.0 1 1 100.0 1 0 1 2 2 0 0 0 10
+p506
+aVShammond Williams LAL 01/05/2007 LAL vs. DEN W 7 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 2 0 -8
+p507
+aVBrian Cook LAL 01/05/2007 LAL vs. DEN W 24 16 6 10 60.0 2 2 100.0 2 2 100.0 1 3 4 3 0 0 1 2 24
+p508
+aVLuke Walton LAL 01/05/2007 LAL vs. DEN W 27 18 7 12 58.3 4 5 80.0 0 0 - 0 5 5 8 0 0 2 0 21
+p509
+aVKobe Bryant LAL 01/04/2007 LAL @ SAC W 48 42 11 21 52.4 3 5 60.0 17 20 85.0 3 7 10 9 0 0 4 5 6
+p510
+aVJordan Farmar LAL 01/04/2007 LAL @ SAC W 18 0 0 2 0.0 0 2 0.0 0 0 - 2 2 4 2 1 0 1 2 3
+p511
+aVRonny Turiaf LAL 01/04/2007 LAL @ SAC W 10 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 1 0 1 1 4 -9
+p512
+aVBrian Cook LAL 01/04/2007 LAL @ SAC W 35 26 10 19 52.6 2 3 66.7 4 7 57.1 2 2 4 2 1 0 1 5 7
+p513
+aVSmush Parker LAL 01/04/2007 LAL @ SAC W 31 10 4 10 40.0 1 5 20.0 1 2 50.0 1 1 2 2 2 0 1 4 -10
+p514
+aVSasha Vujacic LAL 01/04/2007 LAL @ SAC W 15 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 6 5
+p515
+aVMaurice Evans LAL 01/04/2007 LAL @ SAC W 30 5 2 6 33.3 1 3 33.3 0 2 0.0 0 3 3 1 0 0 2 3 -2
+p516
+aVVladimir Radmanovic LAL 01/04/2007 LAL @ SAC W 12 5 2 4 50.0 1 1 100.0 0 0 - 3 1 4 1 0 0 2 2 -2
+p517
+aVLuke Walton LAL 01/04/2007 LAL @ SAC W 32 16 7 12 58.3 0 1 0.0 2 3 66.7 1 7 8 2 0 0 2 6 17
+p518
+aVAndrew Bynum LAL 01/04/2007 LAL @ SAC W 34 15 5 6 83.3 0 0 - 5 8 62.5 4 7 11 2 0 3 4 5 5
+p519
+aVSasha Vujacic LAL 12/31/2006 LAL vs. PHI W 19 8 3 6 50.0 2 4 50.0 0 0 - 1 1 2 1 1 0 0 2 -9
+p520
+aVShammond Williams LAL 12/31/2006 LAL vs. PHI W 5 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 1
+p521
+aVMaurice Evans LAL 12/31/2006 LAL vs. PHI W 36 8 3 12 25.0 1 4 25.0 1 2 50.0 1 6 7 0 0 0 1 4 10
+p522
+aVKobe Bryant LAL 12/31/2006 LAL vs. PHI W 39 35 15 22 68.2 3 6 50.0 2 2 100.0 1 7 8 6 1 0 2 1 13
+p523
+aVLuke Walton LAL 12/31/2006 LAL vs. PHI W 34 11 4 8 50.0 0 1 0.0 3 4 75.0 2 5 7 3 1 0 2 3 13
+p524
+aVSmush Parker LAL 12/31/2006 LAL vs. PHI W 26 12 4 10 40.0 1 3 33.3 3 4 75.0 0 3 3 5 2 0 0 2 15
+p525
+aVBrian Cook LAL 12/31/2006 LAL vs. PHI W 7 4 2 2 100.0 0 0 - 0 0 - 0 4 4 1 0 0 0 0 8
+p526
+aVJordan Farmar LAL 12/31/2006 LAL vs. PHI W 14 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 3 0 0 2 3 -3
+p527
+aVKwame Brown LAL 12/31/2006 LAL vs. PHI W 17 6 3 5 60.0 0 0 - 0 2 0.0 5 3 8 0 0 1 1 0 5
+p528
+aVVladimir Radmanovic LAL 12/31/2006 LAL vs. PHI W 14 5 1 3 33.3 1 1 100.0 2 2 100.0 1 2 3 2 0 0 2 2 -3
+p529
+aVAndrew Bynum LAL 12/31/2006 LAL vs. PHI W 18 5 1 5 20.0 0 0 - 3 4 75.0 1 1 2 0 0 2 0 3 5
+p530
+aVRonny Turiaf LAL 12/31/2006 LAL vs. PHI W 11 2 0 2 0.0 0 0 - 2 4 50.0 0 2 2 2 0 1 1 1 -5
+p531
+aVKobe Bryant LAL 12/29/2006 LAL @ CHA L 54 58 22 45 48.9 4 11 36.4 10 12 83.3 0 5 5 4 0 0 4 6 5
+p532
+aVSmush Parker LAL 12/29/2006 LAL @ CHA L 46 12 5 10 50.0 0 2 0.0 2 2 100.0 0 2 2 3 1 1 2 2 -8
+p533
+aVAndrew Bynum LAL 12/29/2006 LAL @ CHA L 17 4 1 2 50.0 0 0 - 2 2 100.0 0 6 6 1 1 2 2 2 -5
+p534
+aVBrian Cook LAL 12/29/2006 LAL @ CHA L 23 9 4 7 57.1 1 1 100.0 0 0 - 1 5 6 2 0 1 1 4 4
+p535
+aVLuke Walton LAL 12/29/2006 LAL @ CHA L 50 14 5 10 50.0 0 0 - 4 4 100.0 7 4 11 5 5 1 2 0 -2
+p536
+aVKwame Brown LAL 12/29/2006 LAL @ CHA L 44 11 4 10 40.0 0 0 - 3 8 37.5 3 12 15 1 1 5 4 5 -1
+p537
+aVVladimir Radmanovic LAL 12/29/2006 LAL @ CHA L 20 2 0 5 0.0 0 2 0.0 2 2 100.0 0 3 3 0 0 0 2 1 -1
+p538
+aVMaurice Evans LAL 12/29/2006 LAL @ CHA L 38 8 2 6 33.3 0 2 0.0 4 6 66.7 1 4 5 0 0 1 0 4 -16
+p539
+aVSasha Vujacic LAL 12/29/2006 LAL @ CHA L 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p540
+aVJordan Farmar LAL 12/29/2006 LAL @ CHA L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p541
+aVRonny Turiaf LAL 12/29/2006 LAL @ CHA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -4
+p542
+aVVladimir Radmanovic LAL 12/27/2006 LAL @ ORL W 22 7 2 4 50.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 4 6
+p543
+aVKobe Bryant LAL 12/27/2006 LAL @ ORL W 36 27 8 22 36.4 0 3 0.0 11 12 91.7 0 3 3 7 2 1 3 4 11
+p544
+aVLuke Walton LAL 12/27/2006 LAL @ ORL W 30 10 4 7 57.1 1 2 50.0 1 2 50.0 1 1 2 4 0 1 1 1 7
+p545
+aVAndrew Bynum LAL 12/27/2006 LAL @ ORL W 14 13 6 8 75.0 0 0 - 1 1 100.0 1 3 4 2 0 1 1 2 2
+p546
+aVBrian Cook LAL 12/27/2006 LAL @ ORL W 21 9 3 4 75.0 1 2 50.0 2 2 100.0 0 6 6 0 0 0 0 3 2
+p547
+aVSasha Vujacic LAL 12/27/2006 LAL @ ORL W 18 7 2 6 33.3 1 4 25.0 2 2 100.0 0 3 3 2 2 0 1 1 8
+p548
+aVJordan Farmar LAL 12/27/2006 LAL @ ORL W 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 2 1 4
+p549
+aVKwame Brown LAL 12/27/2006 LAL @ ORL W 34 10 4 7 57.1 0 0 - 2 2 100.0 3 3 6 1 2 2 5 4 11
+p550
+aVSmush Parker LAL 12/27/2006 LAL @ ORL W 28 20 8 12 66.7 2 3 66.7 2 2 100.0 0 3 3 3 3 0 1 2 3
+p551
+aVMaurice Evans LAL 12/27/2006 LAL @ ORL W 23 3 1 5 20.0 1 2 50.0 0 0 - 1 3 4 1 1 0 1 2 11
+p552
+aVKobe Bryant LAL 12/25/2006 LAL @ MIA L 38 16 4 17 23.5 0 4 0.0 8 9 88.9 0 2 2 4 1 0 3 4 -19
+p553
+aVSasha Vujacic LAL 12/25/2006 LAL @ MIA L 16 9 3 7 42.9 2 6 33.3 1 1 100.0 2 0 2 1 1 0 0 2 7
+p554
+aVKwame Brown LAL 12/25/2006 LAL @ MIA L 21 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 2 1 0 1 3 -1
+p555
+aVRonny Turiaf LAL 12/25/2006 LAL @ MIA L 20 13 6 10 60.0 0 0 - 1 2 50.0 3 4 7 0 1 1 1 4 -9
+p556
+aVMaurice Evans LAL 12/25/2006 LAL @ MIA L 22 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 0 0 2 2 -1
+p557
+aVBrian Cook LAL 12/25/2006 LAL @ MIA L 18 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 2 1 1 1 1 -10
+p558
+aVAndrew Bynum LAL 12/25/2006 LAL @ MIA L 7 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 5 -6
+p559
+aVVladimir Radmanovic LAL 12/25/2006 LAL @ MIA L 20 6 2 7 28.6 0 4 0.0 2 2 100.0 0 6 6 1 0 0 2 3 -4
+p560
+aVSmush Parker LAL 12/25/2006 LAL @ MIA L 28 7 3 9 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 1 4 -21
+p561
+aVJordan Farmar LAL 12/25/2006 LAL @ MIA L 20 6 2 6 33.3 1 3 33.3 1 2 50.0 0 0 0 4 1 0 1 0 5
+p562
+aVLuke Walton LAL 12/25/2006 LAL @ MIA L 30 10 3 5 60.0 0 0 - 4 6 66.7 2 2 4 1 1 0 2 0 -21
+p563
+aVBrian Cook LAL 12/22/2006 LAL @ NJN W 18 11 4 7 57.1 3 4 75.0 0 0 - 3 8 11 2 0 0 1 3 0
+p564
+aVSasha Vujacic LAL 12/22/2006 LAL @ NJN W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 2 0 2
+p565
+aVSmush Parker LAL 12/22/2006 LAL @ NJN W 29 13 5 11 45.5 2 4 50.0 1 1 100.0 1 1 2 1 1 0 1 2 -7
+p566
+aVAndrew Bynum LAL 12/22/2006 LAL @ NJN W 25 10 4 6 66.7 0 0 - 2 4 50.0 0 6 6 4 0 3 5 5 8
+p567
+aVJordan Farmar LAL 12/22/2006 LAL @ NJN W 19 10 4 6 66.7 2 4 50.0 0 0 - 0 2 2 5 0 0 0 0 11
+p568
+aVLuke Walton LAL 12/22/2006 LAL @ NJN W 24 4 2 6 33.3 0 1 0.0 0 0 - 1 5 6 1 0 0 1 1 -8
+p569
+aVKwame Brown LAL 12/22/2006 LAL @ NJN W 20 8 4 5 80.0 0 0 - 0 1 0.0 1 1 2 0 0 0 3 3 -2
+p570
+aVVladimir Radmanovic LAL 12/22/2006 LAL @ NJN W 25 8 2 6 33.3 1 3 33.3 3 4 75.0 1 4 5 1 1 0 2 3 5
+p571
+aVKobe Bryant LAL 12/22/2006 LAL @ NJN W 40 21 4 13 30.8 2 5 40.0 11 12 91.7 0 6 6 11 0 0 3 4 2
+p572
+aVMaurice Evans LAL 12/22/2006 LAL @ NJN W 25 12 4 8 50.0 2 3 66.7 2 2 100.0 0 3 3 1 0 1 0 3 9
+p573
+aVSmush Parker LAL 12/20/2006 LAL @ MIN W 28 10 4 10 40.0 2 3 66.7 0 0 - 1 1 2 0 0 1 1 1 -6
+p574
+aVAndrew Bynum LAL 12/20/2006 LAL @ MIN W 25 7 3 5 60.0 0 0 - 1 3 33.3 1 8 9 2 0 4 0 3 31
+p575
+aVBrian Cook LAL 12/20/2006 LAL @ MIN W 28 11 5 11 45.5 1 3 33.3 0 0 - 3 2 5 0 1 0 2 2 -15
+p576
+aVKobe Bryant LAL 12/20/2006 LAL @ MIN W 30 24 10 17 58.8 0 1 0.0 4 6 66.7 0 3 3 6 2 1 2 2 -10
+p577
+aVSasha Vujacic LAL 12/20/2006 LAL @ MIN W 20 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 2 1 0 1 0 23
+p578
+aVJordan Farmar LAL 12/20/2006 LAL @ MIN W 18 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 7 1 0 0 2 27
+p579
+aVKwame Brown LAL 12/20/2006 LAL @ MIN W 23 6 3 7 42.9 0 0 - 0 1 0.0 3 1 4 2 0 0 1 0 -14
+p580
+aVMaurice Evans LAL 12/20/2006 LAL @ MIN W 22 15 7 9 77.8 0 1 0.0 1 2 50.0 1 2 3 1 1 0 2 2 31
+p581
+aVLuke Walton LAL 12/20/2006 LAL @ MIN W 26 9 3 4 75.0 0 0 - 3 4 75.0 2 2 4 1 0 0 2 2 -14
+p582
+aVVladimir Radmanovic LAL 12/20/2006 LAL @ MIN W 20 17 6 10 60.0 3 5 60.0 2 3 66.7 0 4 4 1 0 0 1 1 32
+p583
+aVAndrew Bynum LAL 12/19/2006 LAL @ CHI L 12 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 1 2 0 3 4
+p584
+aVKwame Brown LAL 12/19/2006 LAL @ CHI L 36 18 8 14 57.1 0 0 - 2 5 40.0 4 8 12 2 1 2 2 0 -9
+p585
+aVSasha Vujacic LAL 12/19/2006 LAL @ CHI L 9 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 1 0 0 1 -2
+p586
+aVSmush Parker LAL 12/19/2006 LAL @ CHI L 33 16 7 12 58.3 0 3 0.0 2 4 50.0 1 2 3 1 3 1 4 3 -7
+p587
+aVMaurice Evans LAL 12/19/2006 LAL @ CHI L 21 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 1 0 0 0 1 -3
+p588
+aVLuke Walton LAL 12/19/2006 LAL @ CHI L 43 9 3 7 42.9 1 3 33.3 2 2 100.0 0 4 4 7 1 1 3 2 0
+p589
+aVBrian Cook LAL 12/19/2006 LAL @ CHI L 7 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -1
+p590
+aVJordan Farmar LAL 12/19/2006 LAL @ CHI L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 1 3
+p591
+aVKobe Bryant LAL 12/19/2006 LAL @ CHI L 38 19 6 19 31.6 0 5 0.0 7 8 87.5 0 3 3 4 0 1 4 6 -6
+p592
+aVVladimir Radmanovic LAL 12/19/2006 LAL @ CHI L 26 5 2 5 40.0 1 4 25.0 0 2 0.0 0 3 3 1 3 0 4 1 -4
+p593
+aVBrian Cook LAL 12/17/2006 LAL vs. WAS L 12 5 2 5 40.0 1 2 50.0 0 0 - 1 5 6 0 1 1 1 3 12
+p594
+aVAndrew Bynum LAL 12/17/2006 LAL vs. WAS L 22 14 3 5 60.0 0 0 - 8 11 72.7 2 3 5 0 0 1 1 4 -6
+p595
+aVKwame Brown LAL 12/17/2006 LAL vs. WAS L 25 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 5 1 0 1 1 -8
+p596
+aVKobe Bryant LAL 12/17/2006 LAL vs. WAS L 46 45 15 24 62.5 7 11 63.6 8 10 80.0 2 6 8 10 1 1 4 5 6
+p597
+aVLuke Walton LAL 12/17/2006 LAL vs. WAS L 43 15 5 12 41.7 1 3 33.3 4 4 100.0 1 7 8 11 2 0 3 6 7
+p598
+aVSasha Vujacic LAL 12/17/2006 LAL vs. WAS L 14 6 2 7 28.6 2 5 40.0 0 0 - 2 1 3 0 0 0 0 3 3
+p599
+aVMaurice Evans LAL 12/17/2006 LAL vs. WAS L 17 4 1 5 20.0 0 3 0.0 2 2 100.0 0 1 1 3 0 1 0 1 -16
+p600
+aVVladimir Radmanovic LAL 12/17/2006 LAL vs. WAS L 38 27 11 16 68.8 5 9 55.6 0 0 - 0 3 3 0 1 2 0 6 -12
+p601
+aVJordan Farmar LAL 12/17/2006 LAL vs. WAS L 18 13 5 9 55.6 3 6 50.0 0 0 - 1 1 2 4 0 0 1 2 0
+p602
+aVSmush Parker LAL 12/17/2006 LAL vs. WAS L 27 9 4 14 28.6 0 5 0.0 1 1 100.0 1 1 2 3 0 0 3 3 -10
+p603
+aVRonny Turiaf LAL 12/17/2006 LAL vs. WAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p604
+aVBrian Cook LAL 12/15/2006 LAL vs. HOU W 34 10 4 10 40.0 1 3 33.3 1 2 50.0 3 4 7 0 2 2 1 3 9
+p605
+aVSmush Parker LAL 12/15/2006 LAL vs. HOU W 41 17 5 11 45.5 3 6 50.0 4 5 80.0 0 3 3 5 4 0 1 2 21
+p606
+aVLuke Walton LAL 12/15/2006 LAL vs. HOU W 48 8 3 7 42.9 0 1 0.0 2 4 50.0 2 3 5 9 2 0 1 0 10
+p607
+aVKobe Bryant LAL 12/15/2006 LAL vs. HOU W 54 53 17 38 44.7 5 8 62.5 14 16 87.5 0 10 10 8 2 1 5 1 20
+p608
+aVAndrew Bynum LAL 12/15/2006 LAL vs. HOU W 17 6 3 7 42.9 0 0 - 0 0 - 1 0 1 1 0 1 3 2 -11
+p609
+aVRonny Turiaf LAL 12/15/2006 LAL vs. HOU W 6 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 2
+p610
+aVJordan Farmar LAL 12/15/2006 LAL vs. HOU W 17 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -10
+p611
+aVKwame Brown LAL 12/15/2006 LAL vs. HOU W 40 7 3 6 50.0 0 1 0.0 1 5 20.0 4 6 10 2 3 3 2 5 22
+p612
+aVMaurice Evans LAL 12/15/2006 LAL vs. HOU W 18 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 0 1 2 1 0 -6
+p613
+aVVladimir Radmanovic LAL 12/15/2006 LAL vs. HOU W 15 8 4 7 57.1 0 1 0.0 0 0 - 0 3 3 0 0 0 2 1 -2
+p614
+aVMaurice Evans LAL 12/13/2006 LAL @ DAL L 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p615
+aVAndrew Bynum LAL 12/13/2006 LAL @ DAL L 11 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 0
+p616
+aVSmush Parker LAL 12/13/2006 LAL @ DAL L 24 12 3 8 37.5 2 5 40.0 4 6 66.7 0 1 1 2 1 0 2 4 -2
+p617
+aVKwame Brown LAL 12/13/2006 LAL @ DAL L 30 5 2 7 28.6 0 0 - 1 4 25.0 3 1 4 1 2 0 0 1 -19
+p618
+aVJordan Farmar LAL 12/13/2006 LAL @ DAL L 24 12 5 6 83.3 2 3 66.7 0 0 - 0 3 3 1 2 0 5 1 -7
+p619
+aVBrian Cook LAL 12/13/2006 LAL @ DAL L 11 4 2 4 50.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 3 11
+p620
+aVVladimir Radmanovic LAL 12/13/2006 LAL @ DAL L 18 11 5 9 55.6 1 2 50.0 0 0 - 1 2 3 0 0 0 1 5 -17
+p621
+aVLuke Walton LAL 12/13/2006 LAL @ DAL L 40 13 3 13 23.1 0 2 0.0 7 8 87.5 4 3 7 2 1 0 2 3 -24
+p622
+aVRonny Turiaf LAL 12/13/2006 LAL @ DAL L 15 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 1 0 0 0 2 7
+p623
+aVKobe Bryant LAL 12/13/2006 LAL @ DAL L 43 33 9 18 50.0 1 6 16.7 14 17 82.4 2 5 7 4 2 1 4 3 -4
+p624
+aVSasha Vujacic LAL 12/13/2006 LAL @ DAL L 10 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 3 3
+p625
+aVLuke Walton LAL 12/12/2006 LAL @ HOU W 34 18 7 10 70.0 1 1 100.0 3 3 100.0 1 4 5 7 1 0 1 0 21
+p626
+aVKobe Bryant LAL 12/12/2006 LAL @ HOU W 42 23 8 26 30.8 2 8 25.0 5 6 83.3 0 8 8 7 1 0 4 3 18
+p627
+aVBrian Cook LAL 12/12/2006 LAL @ HOU W 25 8 3 6 50.0 2 3 66.7 0 0 - 1 5 6 3 2 1 1 6 6
+p628
+aVVladimir Radmanovic LAL 12/12/2006 LAL @ HOU W 16 10 4 7 57.1 2 5 40.0 0 0 - 2 1 3 0 1 0 0 2 -2
+p629
+aVSmush Parker LAL 12/12/2006 LAL @ HOU W 35 14 6 10 60.0 1 2 50.0 1 2 50.0 0 1 1 2 2 0 3 0 4
+p630
+aVKwame Brown LAL 12/12/2006 LAL @ HOU W 27 12 6 7 85.7 0 0 - 0 0 - 1 3 4 4 2 0 2 3 18
+p631
+aVAndrew Bynum LAL 12/12/2006 LAL @ HOU W 13 5 2 3 66.7 0 0 - 1 3 33.3 1 4 5 0 0 2 3 4 -4
+p632
+aVSasha Vujacic LAL 12/12/2006 LAL @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p633
+aVJordan Farmar LAL 12/12/2006 LAL @ HOU W 15 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 -4
+p634
+aVLamar Odom LAL 12/12/2006 LAL @ HOU W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p635
+aVMaurice Evans LAL 12/12/2006 LAL @ HOU W 17 6 2 7 28.6 0 0 - 2 2 100.0 1 2 3 1 1 0 2 1 -3
+p636
+aVRonny Turiaf LAL 12/12/2006 LAL @ HOU W 11 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 1 0 1 0 0 -2
+p637
+aVBrian Cook LAL 12/10/2006 LAL vs. SAS W 14 4 2 6 33.3 0 1 0.0 0 0 - 2 0 2 0 0 0 0 0 -3
+p638
+aVLamar Odom LAL 12/10/2006 LAL vs. SAS W 39 18 6 12 50.0 3 4 75.0 3 3 100.0 1 10 11 9 1 0 6 3 11
+p639
+aVAndrew Bynum LAL 12/10/2006 LAL vs. SAS W 18 6 3 4 75.0 0 0 - 0 0 - 1 7 8 1 0 1 0 2 -1
+p640
+aVMaurice Evans LAL 12/10/2006 LAL vs. SAS W 17 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 3 0 0 0 2 1
+p641
+aVJordan Farmar LAL 12/10/2006 LAL vs. SAS W 19 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 4 0 0 1 0 0
+p642
+aVSmush Parker LAL 12/10/2006 LAL vs. SAS W 29 10 4 9 44.4 0 3 0.0 2 2 100.0 1 2 3 2 3 0 0 5 7
+p643
+aVLuke Walton LAL 12/10/2006 LAL vs. SAS W 34 17 7 15 46.7 1 2 50.0 2 2 100.0 1 2 3 2 2 0 2 1 10
+p644
+aVKwame Brown LAL 12/10/2006 LAL vs. SAS W 30 11 5 8 62.5 0 0 - 1 6 16.7 5 0 5 3 1 2 4 4 8
+p645
+aVKobe Bryant LAL 12/10/2006 LAL vs. SAS W 40 34 13 25 52.0 4 5 80.0 4 4 100.0 2 6 8 1 3 0 4 2 2
+p646
+aVVladimir Radmanovic LAL 12/08/2006 LAL vs. ATL W 12 5 1 5 20.0 1 2 50.0 2 2 100.0 3 1 4 0 0 0 0 0 0
+p647
+aVKwame Brown LAL 12/08/2006 LAL vs. ATL W 19 13 5 6 83.3 0 0 - 3 4 75.0 1 6 7 7 0 1 3 5 13
+p648
+aVLuke Walton LAL 12/08/2006 LAL vs. ATL W 24 25 10 13 76.9 1 1 100.0 4 4 100.0 1 3 4 6 1 1 2 3 16
+p649
+aVSasha Vujacic LAL 12/08/2006 LAL vs. ATL W 12 3 1 6 16.7 1 4 25.0 0 0 - 0 0 0 0 1 0 1 0 -7
+p650
+aVAndrew Bynum LAL 12/08/2006 LAL vs. ATL W 16 4 2 2 100.0 0 0 - 0 0 - 0 3 3 2 0 0 2 0 3
+p651
+aVSmush Parker LAL 12/08/2006 LAL vs. ATL W 14 11 4 8 50.0 1 2 50.0 2 3 66.7 0 1 1 1 0 0 3 0 4
+p652
+aVBrian Cook LAL 12/08/2006 LAL vs. ATL W 2 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -3
+p653
+aVLamar Odom LAL 12/08/2006 LAL vs. ATL W 30 6 3 9 33.3 0 4 0.0 0 0 - 0 15 15 7 1 2 5 1 4
+p654
+aVMaurice Evans LAL 12/08/2006 LAL vs. ATL W 28 22 8 14 57.1 1 3 33.3 5 7 71.4 1 0 1 2 0 0 3 4 19
+p655
+aVRonny Turiaf LAL 12/08/2006 LAL vs. ATL W 5 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 0 0 4 1
+p656
+aVJordan Farmar LAL 12/08/2006 LAL vs. ATL W 23 15 5 6 83.3 3 3 100.0 2 3 66.7 0 2 2 4 3 0 0 0 5
+p657
+aVRonny Turiaf LAL 12/06/2006 LAL vs. NOK L 9 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 1 1 2 0 1 3
+p658
+aVLamar Odom LAL 12/06/2006 LAL vs. NOK L 41 20 7 14 50.0 1 4 25.0 5 8 62.5 1 6 7 4 0 0 7 2 -23
+p659
+aVLuke Walton LAL 12/06/2006 LAL vs. NOK L 35 11 4 8 50.0 0 4 0.0 3 4 75.0 0 2 2 4 1 0 2 2 -14
+p660
+aVSmush Parker LAL 12/06/2006 LAL vs. NOK L 30 7 3 8 37.5 0 2 0.0 1 4 25.0 0 0 0 2 1 0 1 2 -17
+p661
+aVKwame Brown LAL 12/06/2006 LAL vs. NOK L 30 9 4 8 50.0 0 0 - 1 1 100.0 2 7 9 3 0 1 1 3 -15
+p662
+aVJordan Farmar LAL 12/06/2006 LAL vs. NOK L 19 6 3 5 60.0 0 1 0.0 0 1 0.0 0 3 3 3 2 0 1 4 -3
+p663
+aVAndrew Bynum LAL 12/06/2006 LAL vs. NOK L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 3 1 0 0
+p664
+aVKobe Bryant LAL 12/06/2006 LAL vs. NOK L 36 24 10 17 58.8 2 6 33.3 2 2 100.0 0 2 2 4 2 0 1 3 -8
+p665
+aVMaurice Evans LAL 12/06/2006 LAL vs. NOK L 18 5 2 5 40.0 0 1 0.0 1 2 50.0 1 2 3 1 2 0 1 1 -1
+p666
+aVSasha Vujacic LAL 12/06/2006 LAL vs. NOK L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -3
+p667
+aVVladimir Radmanovic LAL 12/06/2006 LAL vs. NOK L 7 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 1
+p668
+aVShammond Williams LAL 12/04/2006 LAL vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p669
+aVVladimir Radmanovic LAL 12/04/2006 LAL vs. IND W 19 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 2 2 1 0 4 -12
+p670
+aVLamar Odom LAL 12/04/2006 LAL vs. IND W 35 15 5 13 38.5 1 5 20.0 4 4 100.0 1 12 13 4 0 0 5 6 14
+p671
+aVMaurice Evans LAL 12/04/2006 LAL vs. IND W 16 4 1 3 33.3 0 1 0.0 2 2 100.0 2 1 3 1 0 0 1 4 -7
+p672
+aVRonny Turiaf LAL 12/04/2006 LAL vs. IND W 11 2 1 2 50.0 0 0 - 0 2 0.0 2 1 3 0 0 1 1 0 -4
+p673
+aVKobe Bryant LAL 12/04/2006 LAL vs. IND W 21 21 7 16 43.8 3 8 37.5 4 4 100.0 2 1 3 2 3 1 2 1 22
+p674
+aVLuke Walton LAL 12/04/2006 LAL vs. IND W 39 10 4 5 80.0 0 0 - 2 2 100.0 2 4 6 7 0 0 3 2 27
+p675
+aVKwame Brown LAL 12/04/2006 LAL vs. IND W 24 17 8 12 66.7 0 0 - 1 4 25.0 1 3 4 2 2 0 4 5 26
+p676
+aVAndrew Bynum LAL 12/04/2006 LAL vs. IND W 13 8 3 5 60.0 0 0 - 2 4 50.0 1 1 2 0 1 1 3 3 -8
+p677
+aVSasha Vujacic LAL 12/04/2006 LAL vs. IND W 14 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 2 1 0 1 0 -2
+p678
+aVJordan Farmar LAL 12/04/2006 LAL vs. IND W 25 9 4 7 57.1 1 3 33.3 0 1 0.0 0 4 4 1 1 0 1 2 -5
+p679
+aVSmush Parker LAL 12/04/2006 LAL vs. IND W 22 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 4 1 0 1 4 21
+p680
+aVJordan Farmar LAL 12/02/2006 LAL @ LAC W 14 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 8
+p681
+aVAndrew Bynum LAL 12/02/2006 LAL @ LAC W 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 1 0 3 -6
+p682
+aVKobe Bryant LAL 12/02/2006 LAL @ LAC W 40 29 11 23 47.8 0 4 0.0 7 8 87.5 1 4 5 3 1 0 7 3 2
+p683
+aVLamar Odom LAL 12/02/2006 LAL @ LAC W 31 18 8 13 61.5 2 5 40.0 0 1 0.0 1 7 8 2 1 3 0 6 6
+p684
+aVSmush Parker LAL 12/02/2006 LAL @ LAC W 34 11 5 10 50.0 1 4 25.0 0 2 0.0 2 4 6 4 0 0 1 2 -1
+p685
+aVRonny Turiaf LAL 12/02/2006 LAL @ LAC W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -5
+p686
+aVVladimir Radmanovic LAL 12/02/2006 LAL @ LAC W 12 10 4 7 57.1 2 3 66.7 0 0 - 1 2 3 0 0 0 1 1 7
+p687
+aVSasha Vujacic LAL 12/02/2006 LAL @ LAC W 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 9
+p688
+aVMaurice Evans LAL 12/02/2006 LAL @ LAC W 15 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 12
+p689
+aVKwame Brown LAL 12/02/2006 LAL @ LAC W 34 7 3 5 60.0 0 0 - 1 6 16.7 2 6 8 1 3 3 3 3 10
+p690
+aVLuke Walton LAL 12/02/2006 LAL @ LAC W 31 5 1 6 16.7 1 2 50.0 2 2 100.0 1 4 5 2 0 1 3 0 3
+p691
+aVSmush Parker LAL 11/30/2006 LAL vs. UTA W 24 7 2 6 33.3 0 2 0.0 3 3 100.0 0 1 1 3 2 0 3 3 13
+p692
+aVKwame Brown LAL 11/30/2006 LAL vs. UTA W 22 2 0 2 0.0 0 0 - 2 4 50.0 1 4 5 4 0 1 1 3 8
+p693
+aVLamar Odom LAL 11/30/2006 LAL vs. UTA W 39 14 5 9 55.6 1 2 50.0 3 4 75.0 2 9 11 8 2 1 2 0 31
+p694
+aVAndrew Bynum LAL 11/30/2006 LAL vs. UTA W 14 6 1 3 33.3 0 0 - 4 4 100.0 2 4 6 0 0 0 2 2 5
+p695
+aVSasha Vujacic LAL 11/30/2006 LAL vs. UTA W 10 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 2
+p696
+aVRonny Turiaf LAL 11/30/2006 LAL vs. UTA W 14 8 3 3 100.0 0 0 - 2 2 100.0 0 3 3 2 0 2 0 1 18
+p697
+aVKobe Bryant LAL 11/30/2006 LAL vs. UTA W 34 52 19 26 73.1 2 3 66.7 12 15 80.0 0 4 4 3 0 1 1 5 22
+p698
+aVJordan Farmar LAL 11/30/2006 LAL vs. UTA W 24 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 1 4 0 4 4 17
+p699
+aVVladimir Radmanovic LAL 11/30/2006 LAL vs. UTA W 10 3 1 2 50.0 0 0 - 1 3 33.3 1 4 5 3 1 0 0 2 2
+p700
+aVMaurice Evans LAL 11/30/2006 LAL vs. UTA W 24 17 6 9 66.7 1 3 33.3 4 6 66.7 4 1 5 0 0 0 0 2 17
+p701
+aVLuke Walton LAL 11/30/2006 LAL vs. UTA W 25 10 3 5 60.0 1 1 100.0 3 3 100.0 1 2 3 3 0 0 1 4 15
+p702
+aVKobe Bryant LAL 11/28/2006 LAL vs. MIL L 41 27 7 23 30.4 6 14 42.9 7 7 100.0 1 1 2 4 1 1 1 5 10
+p703
+aVRonny Turiaf LAL 11/28/2006 LAL vs. MIL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p704
+aVJordan Farmar LAL 11/28/2006 LAL vs. MIL L 27 10 4 12 33.3 2 8 25.0 0 0 - 2 3 5 7 0 0 1 0 5
+p705
+aVKwame Brown LAL 11/28/2006 LAL vs. MIL L 25 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 3 0 1 0 2 4
+p706
+aVVladimir Radmanovic LAL 11/28/2006 LAL vs. MIL L 5 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 0 2 2 3 -1
+p707
+aVSmush Parker LAL 11/28/2006 LAL vs. MIL L 21 14 6 9 66.7 1 2 50.0 1 1 100.0 0 1 1 2 1 0 3 1 -9
+p708
+aVLamar Odom LAL 11/28/2006 LAL vs. MIL L 41 21 8 16 50.0 0 3 0.0 5 6 83.3 3 10 13 8 0 1 4 3 -6
+p709
+aVMaurice Evans LAL 11/28/2006 LAL vs. MIL L 19 8 4 6 66.7 0 2 0.0 0 0 - 0 4 4 1 0 0 0 1 -10
+p710
+aVAndrew Bynum LAL 11/28/2006 LAL vs. MIL L 19 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 0 0 3 2 1 -11
+p711
+aVSasha Vujacic LAL 11/28/2006 LAL vs. MIL L 9 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 2 0 1 0 -1
+p712
+aVLuke Walton LAL 11/28/2006 LAL vs. MIL L 28 14 5 11 45.5 2 5 40.0 2 2 100.0 3 4 7 3 1 1 5 0 -4
+p713
+aVSmush Parker LAL 11/26/2006 LAL vs. NJN W 32 13 5 10 50.0 2 5 40.0 1 2 50.0 2 1 3 4 2 0 1 1 1
+p714
+aVVladimir Radmanovic LAL 11/26/2006 LAL vs. NJN W 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 3 2 5
+p715
+aVRonny Turiaf LAL 11/26/2006 LAL vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p716
+aVLuke Walton LAL 11/26/2006 LAL vs. NJN W 39 10 4 7 57.1 2 2 100.0 0 0 - 0 4 4 6 1 1 0 1 1
+p717
+aVKwame Brown LAL 11/26/2006 LAL vs. NJN W 25 13 5 6 83.3 0 0 - 3 5 60.0 3 6 9 1 1 2 2 4 10
+p718
+aVMaurice Evans LAL 11/26/2006 LAL vs. NJN W 13 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 4
+p719
+aVAndrew Bynum LAL 11/26/2006 LAL vs. NJN W 20 3 1 4 25.0 0 0 - 1 1 100.0 1 5 6 2 0 3 1 4 1
+p720
+aVKobe Bryant LAL 11/26/2006 LAL vs. NJN W 42 19 8 24 33.3 1 4 25.0 2 4 50.0 2 4 6 10 0 0 2 3 3
+p721
+aVLamar Odom LAL 11/26/2006 LAL vs. NJN W 41 21 6 16 37.5 3 8 37.5 6 8 75.0 2 4 6 4 1 2 3 3 5
+p722
+aVJordan Farmar LAL 11/26/2006 LAL vs. NJN W 16 11 4 8 50.0 3 5 60.0 0 0 - 0 1 1 1 1 0 0 1 5
+p723
+aVLuke Walton LAL 11/24/2006 LAL @ UTA L 33 13 4 12 33.3 1 3 33.3 4 4 100.0 1 1 2 3 0 0 1 5 -15
+p724
+aVMaurice Evans LAL 11/24/2006 LAL @ UTA L 12 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 0 9
+p725
+aVKwame Brown LAL 11/24/2006 LAL @ UTA L 32 15 6 10 60.0 0 0 - 3 4 75.0 3 2 5 2 3 3 0 3 4
+p726
+aVKobe Bryant LAL 11/24/2006 LAL @ UTA L 41 27 9 18 50.0 2 6 33.3 7 10 70.0 0 5 5 2 1 1 0 1 -12
+p727
+aVVladimir Radmanovic LAL 11/24/2006 LAL @ UTA L 18 3 1 3 33.3 0 2 0.0 1 1 100.0 0 3 3 0 0 1 2 2 2
+p728
+aVSasha Vujacic LAL 11/24/2006 LAL @ UTA L 9 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 0 0 0 2 3 4
+p729
+aVRonny Turiaf LAL 11/24/2006 LAL @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p730
+aVAndrew Bynum LAL 11/24/2006 LAL @ UTA L 15 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 -10
+p731
+aVSmush Parker LAL 11/24/2006 LAL @ UTA L 39 7 2 5 40.0 1 4 25.0 2 2 100.0 1 1 2 4 2 1 2 5 -10
+p732
+aVLamar Odom LAL 11/24/2006 LAL @ UTA L 39 26 7 14 50.0 1 3 33.3 11 14 78.6 1 5 6 3 1 0 3 4 -3
+p733
+aVVladimir Radmanovic LAL 11/21/2006 LAL vs. LAC W 17 1 0 5 0.0 0 2 0.0 1 2 50.0 1 4 5 3 0 1 0 0 -7
+p734
+aVSmush Parker LAL 11/21/2006 LAL vs. LAC W 33 15 5 11 45.5 2 3 66.7 3 4 75.0 2 1 3 4 0 0 2 2 6
+p735
+aVMaurice Evans LAL 11/21/2006 LAL vs. LAC W 20 3 1 7 14.3 1 4 25.0 0 0 - 3 3 6 0 0 0 0 2 -8
+p736
+aVSasha Vujacic LAL 11/21/2006 LAL vs. LAC W 15 0 0 4 0.0 0 3 0.0 0 0 - 1 1 2 0 0 0 0 2 -2
+p737
+aVAndrew Bynum LAL 11/21/2006 LAL vs. LAC W 19 6 1 4 25.0 0 0 - 4 4 100.0 2 3 5 1 0 0 2 2 6
+p738
+aVKwame Brown LAL 11/21/2006 LAL vs. LAC W 29 10 3 9 33.3 0 0 - 4 8 50.0 7 7 14 1 0 1 1 3 -2
+p739
+aVLuke Walton LAL 11/21/2006 LAL vs. LAC W 28 12 5 8 62.5 2 2 100.0 0 0 - 1 4 5 1 3 2 4 4 11
+p740
+aVKobe Bryant LAL 11/21/2006 LAL vs. LAC W 38 40 12 23 52.2 1 1 100.0 15 18 83.3 2 3 5 5 3 0 1 4 13
+p741
+aVLamar Odom LAL 11/21/2006 LAL vs. LAC W 41 18 6 18 33.3 2 5 40.0 4 10 40.0 3 3 6 2 1 0 4 4 3
+p742
+aVMaurice Evans LAL 11/19/2006 LAL vs. CHI W 15 6 2 3 66.7 2 2 100.0 0 0 - 1 2 3 0 0 0 0 0 11
+p743
+aVVladimir Radmanovic LAL 11/19/2006 LAL vs. CHI W 12 2 1 5 20.0 0 0 - 0 0 - 3 0 3 0 0 1 1 3 9
+p744
+aVSasha Vujacic LAL 11/19/2006 LAL vs. CHI W 5 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p745
+aVJordan Farmar LAL 11/19/2006 LAL vs. CHI W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 1 1 0 2
+p746
+aVLamar Odom LAL 11/19/2006 LAL vs. CHI W 44 23 8 17 47.1 0 3 0.0 7 9 77.8 2 8 10 4 0 0 7 2 5
+p747
+aVSmush Parker LAL 11/19/2006 LAL vs. CHI W 28 7 2 6 33.3 1 3 33.3 2 2 100.0 0 4 4 0 1 0 4 5 -3
+p748
+aVKwame Brown LAL 11/19/2006 LAL vs. CHI W 19 3 1 3 33.3 0 0 - 1 3 33.3 2 7 9 0 2 0 1 3 17
+p749
+aVBrian Cook LAL 11/19/2006 LAL vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p750
+aVShammond Williams LAL 11/19/2006 LAL vs. CHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 4
+p751
+aVKobe Bryant LAL 11/19/2006 LAL vs. CHI W 40 18 5 14 35.7 1 1 100.0 7 8 87.5 0 4 4 4 2 0 4 3 3
+p752
+aVLuke Walton LAL 11/19/2006 LAL vs. CHI W 31 6 2 5 40.0 1 2 50.0 1 2 50.0 1 2 3 4 0 0 2 1 4
+p753
+aVAndrew Bynum LAL 11/19/2006 LAL vs. CHI W 28 12 5 10 50.0 0 0 - 2 5 40.0 3 10 13 1 0 4 1 6 -7
+p754
+aVLamar Odom LAL 11/17/2006 LAL vs. TOR W 36 10 4 8 50.0 0 3 0.0 2 2 100.0 0 5 5 1 2 1 1 3 7
+p755
+aVMaurice Evans LAL 11/17/2006 LAL vs. TOR W 19 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 7
+p756
+aVKobe Bryant LAL 11/17/2006 LAL vs. TOR W 40 31 10 19 52.6 0 2 0.0 11 12 91.7 1 10 11 7 0 0 6 2 4
+p757
+aVSmush Parker LAL 11/17/2006 LAL vs. TOR W 33 11 5 11 45.5 1 3 33.3 0 0 - 1 2 3 3 1 0 3 3 2
+p758
+aVLuke Walton LAL 11/17/2006 LAL vs. TOR W 31 12 4 7 57.1 0 0 - 4 7 57.1 0 3 3 4 1 0 2 1 1
+p759
+aVAndrew Bynum LAL 11/17/2006 LAL vs. TOR W 22 7 2 6 33.3 0 0 - 3 4 75.0 0 5 5 1 0 0 1 1 6
+p760
+aVVladimir Radmanovic LAL 11/17/2006 LAL vs. TOR W 11 8 3 3 100.0 0 0 - 2 3 66.7 2 0 2 1 1 0 1 1 -1
+p761
+aVJordan Farmar LAL 11/17/2006 LAL vs. TOR W 15 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 4 0 0 1 0 5
+p762
+aVKwame Brown LAL 11/17/2006 LAL vs. TOR W 19 8 3 5 60.0 0 0 - 2 6 33.3 3 4 7 1 0 1 1 3 0
+p763
+aVSasha Vujacic LAL 11/17/2006 LAL vs. TOR W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 2
+p764
+aVBrian Cook LAL 11/17/2006 LAL vs. TOR W 11 6 3 6 50.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 2 2
+p765
+aVKobe Bryant LAL 11/12/2006 LAL vs. MEM W 38 21 7 17 41.2 1 3 33.3 6 7 85.7 1 5 6 6 0 0 5 2 9
+p766
+aVRonny Turiaf LAL 11/12/2006 LAL vs. MEM W 3 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p767
+aVAndrew Bynum LAL 11/12/2006 LAL vs. MEM W 29 11 5 10 50.0 0 0 - 1 1 100.0 2 5 7 0 0 1 2 1 4
+p768
+aVKwame Brown LAL 11/12/2006 LAL vs. MEM W 18 6 3 5 60.0 0 0 - 0 2 0.0 0 2 2 0 1 0 2 3 3
+p769
+aVJordan Farmar LAL 11/12/2006 LAL vs. MEM W 15 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 3 1 0 3 1 -2
+p770
+aVMaurice Evans LAL 11/12/2006 LAL vs. MEM W 17 9 4 5 80.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 1 -4
+p771
+aVBrian Cook LAL 11/12/2006 LAL vs. MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p772
+aVLamar Odom LAL 11/12/2006 LAL vs. MEM W 43 20 7 13 53.8 1 3 33.3 5 5 100.0 2 14 16 7 0 2 2 3 10
+p773
+aVSasha Vujacic LAL 11/12/2006 LAL vs. MEM W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 2
+p774
+aVVladimir Radmanovic LAL 11/12/2006 LAL vs. MEM W 5 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 3
+p775
+aVSmush Parker LAL 11/12/2006 LAL vs. MEM W 35 10 4 13 30.8 1 5 20.0 1 2 50.0 0 0 0 6 3 0 1 3 12
+p776
+aVLuke Walton LAL 11/12/2006 LAL vs. MEM W 31 6 2 6 33.3 0 0 - 2 2 100.0 1 4 5 2 2 0 1 5 10
+p777
+aVLamar Odom LAL 11/10/2006 LAL vs. DET L 42 16 6 14 42.9 2 4 50.0 2 2 100.0 1 7 8 7 0 1 4 3 -7
+p778
+aVMaurice Evans LAL 11/10/2006 LAL vs. DET L 20 2 1 4 25.0 0 2 0.0 0 3 0.0 1 1 2 1 0 0 0 1 9
+p779
+aVSmush Parker LAL 11/10/2006 LAL vs. DET L 26 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 2 1 1 3 3 -20
+p780
+aVKobe Bryant LAL 11/10/2006 LAL vs. DET L 36 19 5 11 45.5 1 4 25.0 8 9 88.9 0 3 3 2 4 0 3 2 -21
+p781
+aVRonny Turiaf LAL 11/10/2006 LAL vs. DET L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p782
+aVBrian Cook LAL 11/10/2006 LAL vs. DET L 19 10 5 11 45.5 0 1 0.0 0 0 - 4 1 5 0 1 0 1 1 -14
+p783
+aVVladimir Radmanovic LAL 11/10/2006 LAL vs. DET L 16 3 1 5 20.0 1 2 50.0 0 0 - 1 3 4 1 0 0 0 3 0
+p784
+aVLuke Walton LAL 11/10/2006 LAL vs. DET L 33 11 5 12 41.7 0 1 0.0 1 4 25.0 1 4 5 4 1 0 1 1 -16
+p785
+aVAndrew Bynum LAL 11/10/2006 LAL vs. DET L 18 6 3 4 75.0 0 0 - 0 0 - 0 2 2 2 0 2 2 1 -12
+p786
+aVJordan Farmar LAL 11/10/2006 LAL vs. DET L 23 9 4 8 50.0 1 3 33.3 0 0 - 1 0 1 5 0 0 0 1 6
+p787
+aVMaurice Evans LAL 11/08/2006 LAL @ POR L 12 4 0 2 0.0 0 0 - 4 4 100.0 0 0 0 0 1 0 0 2 1
+p788
+aVSasha Vujacic LAL 11/08/2006 LAL @ POR L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -9
+p789
+aVVladimir Radmanovic LAL 11/08/2006 LAL @ POR L 13 3 1 3 33.3 1 2 50.0 0 0 - 2 2 4 1 0 0 2 1 -4
+p790
+aVKobe Bryant LAL 11/08/2006 LAL @ POR L 36 32 12 19 63.2 1 5 20.0 7 9 77.8 1 2 3 1 1 0 6 4 -12
+p791
+aVSmush Parker LAL 11/08/2006 LAL @ POR L 26 10 4 9 44.4 2 5 40.0 0 0 - 0 2 2 1 0 1 2 2 7
+p792
+aVRonny Turiaf LAL 11/08/2006 LAL @ POR L 18 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 0 1 0 4 -6
+p793
+aVJordan Farmar LAL 11/08/2006 LAL @ POR L 14 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 2 -11
+p794
+aVLamar Odom LAL 11/08/2006 LAL @ POR L 43 11 5 9 55.6 0 3 0.0 1 2 50.0 1 4 5 3 0 1 6 1 -11
+p795
+aVBrian Cook LAL 11/08/2006 LAL @ POR L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p796
+aVAndrew Bynum LAL 11/08/2006 LAL @ POR L 21 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 0 0 1 1 6 0
+p797
+aVLuke Walton LAL 11/08/2006 LAL @ POR L 37 22 8 16 50.0 2 3 66.7 4 6 66.7 2 2 4 4 2 1 0 1 -11
+p798
+aVShammond Williams LAL 11/08/2006 LAL @ POR L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 3
+p799
+aVMaurice Evans LAL 11/07/2006 LAL vs. MIN W 13 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 0 0 0 1 2 -2
+p800
+aVRonny Turiaf LAL 11/07/2006 LAL vs. MIN W 12 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 2 0 3 5 -8
+p801
+aVSmush Parker LAL 11/07/2006 LAL vs. MIN W 33 11 4 11 36.4 2 5 40.0 1 4 25.0 0 1 1 2 1 0 1 2 15
+p802
+aVBrian Cook LAL 11/07/2006 LAL vs. MIN W 6 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p803
+aVJordan Farmar LAL 11/07/2006 LAL vs. MIN W 16 0 0 7 0.0 0 4 0.0 0 0 - 1 0 1 3 1 0 1 0 -8
+p804
+aVKobe Bryant LAL 11/07/2006 LAL vs. MIN W 36 17 5 7 71.4 0 0 - 7 7 100.0 1 3 4 6 2 0 5 3 9
+p805
+aVLuke Walton LAL 11/07/2006 LAL vs. MIN W 36 14 7 11 63.6 0 0 - 0 0 - 4 5 9 5 1 2 3 3 9
+p806
+aVLamar Odom LAL 11/07/2006 LAL vs. MIN W 43 15 5 13 38.5 2 7 28.6 3 4 75.0 1 8 9 4 0 2 4 3 11
+p807
+aVVladimir Radmanovic LAL 11/07/2006 LAL vs. MIN W 17 7 3 8 37.5 0 1 0.0 1 2 50.0 0 0 0 1 1 1 3 0 -6
+p808
+aVAndrew Bynum LAL 11/07/2006 LAL vs. MIN W 28 20 6 9 66.7 0 0 - 8 10 80.0 2 12 14 0 0 3 0 0 16
+p809
+aVJordan Farmar LAL 11/05/2006 LAL @ SEA L 18 14 5 6 83.3 1 2 50.0 3 3 100.0 1 0 1 1 0 0 0 2 4
+p810
+aVAndrew Bynum LAL 11/05/2006 LAL @ SEA L 18 13 5 5 100.0 0 0 - 3 4 75.0 1 2 3 1 0 0 2 1 -4
+p811
+aVLamar Odom LAL 11/05/2006 LAL @ SEA L 35 11 3 6 50.0 2 4 50.0 3 4 75.0 0 7 7 4 0 0 4 1 -15
+p812
+aVShammond Williams LAL 11/05/2006 LAL @ SEA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p813
+aVMaurice Evans LAL 11/05/2006 LAL @ SEA L 11 0 0 3 0.0 0 2 0.0 0 0 - 2 0 2 2 0 0 3 2 -11
+p814
+aVSasha Vujacic LAL 11/05/2006 LAL @ SEA L 10 7 2 4 50.0 1 1 100.0 2 2 100.0 1 1 2 0 0 0 1 2 7
+p815
+aVSmush Parker LAL 11/05/2006 LAL @ SEA L 27 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 0 0 0 1 2 -20
+p816
+aVLuke Walton LAL 11/05/2006 LAL @ SEA L 26 10 4 7 57.1 1 2 50.0 1 2 50.0 1 3 4 4 2 2 2 1 -14
+p817
+aVKobe Bryant LAL 11/05/2006 LAL @ SEA L 39 15 4 10 40.0 0 4 0.0 7 8 87.5 0 4 4 9 1 0 3 5 -2
+p818
+aVVladimir Radmanovic LAL 11/05/2006 LAL @ SEA L 23 10 4 7 57.1 2 4 50.0 0 0 - 1 3 4 2 1 2 3 1 -10
+p819
+aVRonny Turiaf LAL 11/05/2006 LAL @ SEA L 16 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 3 -11
+p820
+aVBrian Cook LAL 11/05/2006 LAL @ SEA L 14 11 4 10 40.0 0 1 0.0 3 5 60.0 4 2 6 1 1 2 3 4 -1
+p821
+aVMaurice Evans LAL 11/03/2006 LAL vs. SEA W 16 2 1 6 16.7 0 2 0.0 0 0 - 2 0 2 0 0 0 1 2 -16
+p822
+aVLamar Odom LAL 11/03/2006 LAL vs. SEA W 42 28 7 12 58.3 4 5 80.0 10 12 83.3 1 3 4 6 1 0 2 2 13
+p823
+aVBrian Cook LAL 11/03/2006 LAL vs. SEA W 7 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -4
+p824
+aVLuke Walton LAL 11/03/2006 LAL vs. SEA W 33 20 7 10 70.0 2 2 100.0 4 6 66.7 1 7 8 5 2 0 2 1 18
+p825
+aVJordan Farmar LAL 11/03/2006 LAL vs. SEA W 15 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 0 1 0 0 -12
+p826
+aVVladimir Radmanovic LAL 11/03/2006 LAL vs. SEA W 15 6 1 2 50.0 1 1 100.0 3 4 75.0 1 2 3 2 0 0 0 1 -12
+p827
+aVAndrew Bynum LAL 11/03/2006 LAL vs. SEA W 23 9 2 2 100.0 0 0 - 5 7 71.4 1 7 8 0 0 3 5 3 8
+p828
+aVSmush Parker LAL 11/03/2006 LAL vs. SEA W 33 11 4 9 44.4 2 4 50.0 1 1 100.0 0 3 3 1 0 0 1 1 18
+p829
+aVRonny Turiaf LAL 11/03/2006 LAL vs. SEA W 16 13 3 3 100.0 0 0 - 7 8 87.5 1 6 7 0 0 3 1 2 4
+p830
+aVKobe Bryant LAL 11/03/2006 LAL vs. SEA W 40 23 8 15 53.3 0 0 - 7 10 70.0 0 4 4 6 1 0 6 3 13
+p831
+aVShammond Williams LAL 11/01/2006 LAL @ GSW W 22 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 3 0 0 0 4 5
+p832
+aVRonny Turiaf LAL 11/01/2006 LAL @ GSW W 32 23 8 10 80.0 0 0 - 7 12 58.3 4 5 9 3 2 2 3 5 13
+p833
+aVSmush Parker LAL 11/01/2006 LAL @ GSW W 23 6 2 7 28.6 0 3 0.0 2 3 66.7 1 3 4 1 1 0 2 2 11
+p834
+aVLuke Walton LAL 11/01/2006 LAL @ GSW W 29 15 6 11 54.5 1 1 100.0 2 4 50.0 3 3 6 2 0 0 3 2 6
+p835
+aVJordan Farmar LAL 11/01/2006 LAL @ GSW W 25 9 3 6 50.0 1 2 50.0 2 3 66.7 0 1 1 4 0 0 2 1 1
+p836
+aVSasha Vujacic LAL 11/01/2006 LAL @ GSW W 7 0 0 3 0.0 0 2 0.0 0 2 0.0 1 2 3 0 0 0 0 1 1
+p837
+aVBrian Cook LAL 11/01/2006 LAL @ GSW W 17 8 4 11 36.4 0 2 0.0 0 0 - 2 6 8 1 1 1 0 5 5
+p838
+aVMaurice Evans LAL 11/01/2006 LAL @ GSW W 16 8 3 7 42.9 0 0 - 2 2 100.0 2 2 4 1 0 0 1 3 12
+p839
+aVVladimir Radmanovic LAL 11/01/2006 LAL @ GSW W 24 11 3 9 33.3 1 2 50.0 4 4 100.0 2 3 5 3 2 0 0 2 4
+p840
+aVLamar Odom LAL 11/01/2006 LAL @ GSW W 33 22 8 14 57.1 1 2 50.0 5 7 71.4 2 7 9 9 0 0 3 1 1
+p841
+aVAndrew Bynum LAL 11/01/2006 LAL @ GSW W 11 5 1 4 25.0 0 1 0.0 3 4 75.0 2 2 4 2 0 1 2 4 1
+p842
+aVMaurice Evans LAL 10/31/2006 LAL vs. PHX W 30 17 8 13 61.5 0 1 0.0 1 2 50.0 2 2 4 0 3 0 1 3 7
+p843
+aVLamar Odom LAL 10/31/2006 LAL vs. PHX W 43 34 12 24 50.0 3 4 75.0 7 7 100.0 3 10 13 6 3 0 5 3 11
+p844
+aVJordan Farmar LAL 10/31/2006 LAL vs. PHX W 14 6 3 3 100.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 13
+p845
+aVLuke Walton LAL 10/31/2006 LAL vs. PHX W 29 11 5 8 62.5 1 1 100.0 0 0 - 0 2 2 3 1 0 3 2 -5
+p846
+aVVladimir Radmanovic LAL 10/31/2006 LAL vs. PHX W 20 8 4 7 57.1 0 0 - 0 2 0.0 2 1 3 3 0 1 2 4 14
+p847
+aVAndrew Bynum LAL 10/31/2006 LAL vs. PHX W 24 18 7 11 63.6 0 0 - 4 5 80.0 3 6 9 5 0 0 1 2 -1
+p848
+aVSasha Vujacic LAL 10/31/2006 LAL vs. PHX W 25 0 0 4 0.0 0 4 0.0 0 0 - 0 3 3 3 0 0 2 1 -1
+p849
+aVRonny Turiaf LAL 10/31/2006 LAL vs. PHX W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p850
+aVBrian Cook LAL 10/31/2006 LAL vs. PHX W 16 9 4 7 57.1 1 1 100.0 0 0 - 1 0 1 1 1 0 2 1 12
+p851
+aVSmush Parker LAL 10/31/2006 LAL vs. PHX W 36 9 2 4 50.0 1 1 100.0 4 8 50.0 1 5 6 7 3 0 2 2 -9
+p852
+a.

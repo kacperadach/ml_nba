@@ -1,0 +1,974 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTony Snell MIL 01/23/2017 MIL vs. HOU W 24 9 3 3 100.0 3 3 100.0 0 0 - 0 2 2 1 2 0 1 4 13
+p2
+aVJabari Parker MIL 01/23/2017 MIL vs. HOU W 39 28 11 19 57.9 2 5 40.0 4 4 100.0 0 8 8 7 3 1 3 3 3
+p3
+aVGreg Monroe MIL 01/23/2017 MIL vs. HOU W 27 17 7 13 53.8 0 1 0.0 3 4 75.0 2 8 10 1 3 0 2 3 13
+p4
+aVJason Terry MIL 01/23/2017 MIL vs. HOU W 15 8 3 5 60.0 2 3 66.7 0 0 - 1 0 1 2 3 0 0 0 8
+p5
+aVGiannis Antetokounmpo MIL 01/23/2017 MIL vs. HOU W 36 31 11 17 64.7 2 3 66.7 7 8 87.5 3 4 7 3 0 4 5 3 12
+p6
+aVMiles Plumlee MIL 01/23/2017 MIL vs. HOU W 20 10 4 5 80.0 0 0 - 2 2 100.0 1 1 2 1 1 1 0 2 -3
+p7
+aVMatthew Dellavedova MIL 01/23/2017 MIL vs. HOU W 31 16 5 6 83.3 2 3 66.7 4 5 80.0 0 3 3 7 0 0 3 3 4
+p8
+aVMirza Teletovic MIL 01/23/2017 MIL vs. HOU W 18 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 0 1 0 1 1 12
+p9
+aVMalcolm Brogdon MIL 01/23/2017 MIL vs. HOU W 30 6 2 8 25.0 0 2 0.0 2 4 50.0 0 2 2 9 4 0 4 1 3
+p10
+aVMalcolm Brogdon MIL 01/21/2017 MIL @ MIA L 30 4 1 10 10.0 0 2 0.0 2 2 100.0 0 2 2 2 1 0 0 2 -13
+p11
+aVRashad Vaughn MIL 01/21/2017 MIL @ MIA L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -11
+p12
+aVGreg Monroe MIL 01/21/2017 MIL @ MIA L 17 9 3 7 42.9 0 0 - 3 4 75.0 3 3 6 0 0 0 2 1 -12
+p13
+aVThon Maker MIL 01/21/2017 MIL @ MIA L 18 6 1 3 33.3 1 2 50.0 3 4 75.0 1 0 1 0 1 0 0 2 7
+p14
+aVMichael Beasley MIL 01/21/2017 MIL @ MIA L 10 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -9
+p15
+aVTony Snell MIL 01/21/2017 MIL @ MIA L 25 7 2 2 100.0 1 1 100.0 2 2 100.0 0 2 2 1 0 0 1 3 -4
+p16
+aVMatthew Dellavedova MIL 01/21/2017 MIL @ MIA L 36 15 5 8 62.5 2 3 66.7 3 3 100.0 0 2 2 7 0 0 1 2 0
+p17
+aVJohn Henson MIL 01/21/2017 MIL @ MIA L 22 11 4 7 57.1 0 0 - 3 4 75.0 2 7 9 0 0 1 2 3 -1
+p18
+aVJabari Parker MIL 01/21/2017 MIL @ MIA L 32 16 7 18 38.9 0 4 0.0 2 3 66.7 2 5 7 4 1 1 2 1 -10
+p19
+aVGiannis Antetokounmpo MIL 01/21/2017 MIL @ MIA L 38 24 8 19 42.1 2 5 40.0 6 8 75.0 4 6 10 3 2 0 2 2 -7
+p20
+aVMalcolm Brogdon MIL 01/20/2017 MIL @ ORL L 35 16 6 11 54.5 4 6 66.7 0 0 - 0 2 2 5 1 0 1 3 9
+p21
+aVTony Snell MIL 01/20/2017 MIL @ ORL L 24 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 0 1 15
+p22
+aVJohn Henson MIL 01/20/2017 MIL @ ORL L 16 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 2 0 1 2 2 5
+p23
+aVMirza Teletovic MIL 01/20/2017 MIL @ ORL L 15 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 3 -16
+p24
+aVMatthew Dellavedova MIL 01/20/2017 MIL @ ORL L 13 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -25
+p25
+aVMichael Beasley MIL 01/20/2017 MIL @ ORL L 7 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -10
+p26
+aVJabari Parker MIL 01/20/2017 MIL @ ORL L 38 25 8 17 47.1 3 6 50.0 6 7 85.7 2 4 6 6 0 0 4 3 5
+p27
+aVRashad Vaughn MIL 01/20/2017 MIL @ ORL L 10 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 1 1 0 0 0 1
+p28
+aVJason Terry MIL 01/20/2017 MIL @ ORL L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -29
+p29
+aVMiles Plumlee MIL 01/20/2017 MIL @ ORL L 16 7 2 5 40.0 0 0 - 3 7 42.9 0 0 0 0 0 1 0 1 4
+p30
+aVThon Maker MIL 01/20/2017 MIL @ ORL L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -2
+p31
+aVGreg Monroe MIL 01/20/2017 MIL @ ORL L 14 7 2 7 28.6 0 0 - 3 6 50.0 4 1 5 1 1 0 0 2 -28
+p32
+aVGiannis Antetokounmpo MIL 01/20/2017 MIL @ ORL L 36 17 6 17 35.3 1 4 25.0 4 4 100.0 2 12 14 5 1 0 4 6 -9
+p33
+aVMirza Teletovic MIL 01/18/2017 MIL @ HOU L 8 0 0 5 0.0 0 4 0.0 0 0 - 0 0 0 1 1 0 0 1 -1
+p34
+aVGreg Monroe MIL 01/18/2017 MIL @ HOU L 18 2 1 4 25.0 0 0 - 0 0 - 2 2 4 2 0 1 4 1 -8
+p35
+aVJohn Henson MIL 01/18/2017 MIL @ HOU L 19 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 1 1 1 3 -6
+p36
+aVMichael Beasley MIL 01/18/2017 MIL @ HOU L 24 14 6 14 42.9 2 3 66.7 0 0 - 3 5 8 2 0 2 1 1 -13
+p37
+aVMiles Plumlee MIL 01/18/2017 MIL @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p38
+aVMalcolm Brogdon MIL 01/18/2017 MIL @ HOU L 35 7 3 12 25.0 1 4 25.0 0 0 - 6 2 8 8 1 0 3 1 -18
+p39
+aVJason Terry MIL 01/18/2017 MIL @ HOU L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p40
+aVGiannis Antetokounmpo MIL 01/18/2017 MIL @ HOU L 37 32 13 20 65.0 1 4 25.0 5 6 83.3 1 10 11 6 1 3 4 3 -11
+p41
+aVJabari Parker MIL 01/18/2017 MIL @ HOU L 31 15 5 15 33.3 0 2 0.0 5 7 71.4 2 5 7 2 0 1 2 2 -15
+p42
+aVTony Snell MIL 01/18/2017 MIL @ HOU L 32 8 3 6 50.0 2 3 66.7 0 0 - 0 4 4 3 2 0 1 1 -16
+p43
+aVRashad Vaughn MIL 01/18/2017 MIL @ HOU L 3 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 2
+p44
+aVThon Maker MIL 01/18/2017 MIL @ HOU L 3 3 1 2 50.0 0 1 0.0 1 1 100.0 0 2 2 0 0 0 0 0 2
+p45
+aVMatthew Dellavedova MIL 01/18/2017 MIL @ HOU L 17 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 2 1 0 2 1 -5
+p46
+aVMiles Plumlee MIL 01/16/2017 MIL vs. PHI L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p47
+aVMichael Beasley MIL 01/16/2017 MIL vs. PHI L 26 7 2 5 40.0 0 0 - 3 4 75.0 2 4 6 2 0 0 2 3 -5
+p48
+aVMirza Teletovic MIL 01/16/2017 MIL vs. PHI L 4 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 2 0
+p49
+aVJason Terry MIL 01/16/2017 MIL vs. PHI L 18 5 2 5 40.0 1 4 25.0 0 0 - 0 0 0 0 0 1 0 3 -2
+p50
+aVTony Snell MIL 01/16/2017 MIL vs. PHI L 29 5 2 2 100.0 1 1 100.0 0 0 - 0 4 4 1 0 0 0 2 -7
+p51
+aVJohn Henson MIL 01/16/2017 MIL vs. PHI L 26 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 4 0 2 0 3 2
+p52
+aVGiannis Antetokounmpo MIL 01/16/2017 MIL vs. PHI L 29 23 10 19 52.6 0 1 0.0 3 5 60.0 2 4 6 2 2 3 3 6 0
+p53
+aVMatthew Dellavedova MIL 01/16/2017 MIL vs. PHI L 21 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 4 1 0 1 0 -12
+p54
+aVGreg Monroe MIL 01/16/2017 MIL vs. PHI L 21 14 6 13 46.2 0 0 - 2 4 50.0 4 2 6 2 1 0 3 1 -12
+p55
+aVMalcolm Brogdon MIL 01/16/2017 MIL vs. PHI L 28 11 5 11 45.5 1 2 50.0 0 0 - 0 2 2 6 2 0 1 0 -1
+p56
+aVRashad Vaughn MIL 01/16/2017 MIL vs. PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p57
+aVJabari Parker MIL 01/16/2017 MIL vs. PHI L 35 23 9 17 52.9 2 4 50.0 3 5 60.0 0 5 5 1 2 0 2 3 -7
+p58
+aVTony Snell MIL 01/15/2017 MIL @ ATL L 22 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 2 1 0 0 1 9
+p59
+aVGreg Monroe MIL 01/15/2017 MIL @ ATL L 20 13 6 12 50.0 0 0 - 1 2 50.0 1 0 1 1 0 0 2 4 -13
+p60
+aVMichael Beasley MIL 01/15/2017 MIL @ ATL L 18 11 3 7 42.9 0 1 0.0 5 6 83.3 1 2 3 1 2 0 1 2 -9
+p61
+aVGiannis Antetokounmpo MIL 01/15/2017 MIL @ ATL L 40 33 13 22 59.1 0 2 0.0 7 7 100.0 5 2 7 6 2 3 4 4 -9
+p62
+aVJason Terry MIL 01/15/2017 MIL @ ATL L 22 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 0 2 0 2 2 -21
+p63
+aVMiles Plumlee MIL 01/15/2017 MIL @ ATL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -7
+p64
+aVThon Maker MIL 01/15/2017 MIL @ ATL L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p65
+aVMalcolm Brogdon MIL 01/15/2017 MIL @ ATL L 26 12 5 10 50.0 2 3 66.7 0 0 - 0 0 0 0 2 1 2 2 -2
+p66
+aVJohn Henson MIL 01/15/2017 MIL @ ATL L 22 4 2 4 50.0 0 0 - 0 0 - 1 4 5 3 1 0 1 3 7
+p67
+aVJabari Parker MIL 01/15/2017 MIL @ ATL L 32 8 4 9 44.4 0 3 0.0 0 0 - 3 7 10 9 1 0 2 3 -1
+p68
+aVMatthew Dellavedova MIL 01/15/2017 MIL @ ATL L 24 3 1 2 50.0 0 0 - 1 3 33.3 1 2 3 3 0 0 2 2 -11
+p69
+aVRashad Vaughn MIL 01/15/2017 MIL @ ATL L 7 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -8
+p70
+aVMatthew Dellavedova MIL 01/13/2017 MIL vs. MIA W 18 9 1 5 20.0 1 1 100.0 6 6 100.0 0 2 2 8 1 0 2 2 0
+p71
+aVJabari Parker MIL 01/13/2017 MIL vs. MIA W 35 24 9 20 45.0 3 5 60.0 3 6 50.0 1 4 5 2 0 1 2 2 9
+p72
+aVGreg Monroe MIL 01/13/2017 MIL vs. MIA W 25 16 5 13 38.5 0 0 - 6 6 100.0 5 6 11 0 0 0 1 1 0
+p73
+aVMalcolm Brogdon MIL 01/13/2017 MIL vs. MIA W 30 13 3 6 50.0 1 2 50.0 6 6 100.0 3 3 6 5 2 0 1 4 8
+p74
+aVMichael Beasley MIL 01/13/2017 MIL vs. MIA W 21 11 5 5 100.0 0 0 - 1 1 100.0 0 7 7 2 1 1 2 3 7
+p75
+aVJohn Henson MIL 01/13/2017 MIL vs. MIA W 19 2 1 5 20.0 0 0 - 0 0 - 3 2 5 0 1 2 0 2 4
+p76
+aVThon Maker MIL 01/13/2017 MIL vs. MIA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p77
+aVGiannis Antetokounmpo MIL 01/13/2017 MIL vs. MIA W 36 19 8 12 66.7 0 0 - 3 4 75.0 1 7 8 6 1 1 3 2 3
+p78
+aVTony Snell MIL 01/13/2017 MIL vs. MIA W 29 14 5 8 62.5 2 3 66.7 2 2 100.0 0 1 1 2 1 0 0 1 5
+p79
+aVJason Terry MIL 01/13/2017 MIL vs. MIA W 23 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 3 1 0 0 1 7
+p80
+aVJabari Parker MIL 01/10/2017 MIL @ SAS W 34 22 9 16 56.3 2 3 66.7 2 2 100.0 1 6 7 3 1 0 0 5 9
+p81
+aVMatthew Dellavedova MIL 01/10/2017 MIL @ SAS W 23 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 5 2 0 2 0 -5
+p82
+aVMichael Beasley MIL 01/10/2017 MIL @ SAS W 34 28 11 18 61.1 1 1 100.0 5 6 83.3 1 4 5 4 2 3 4 2 18
+p83
+aVGreg Monroe MIL 01/10/2017 MIL @ SAS W 28 14 7 13 53.8 0 0 - 0 0 - 4 5 9 4 0 0 3 4 2
+p84
+aVThon Maker MIL 01/10/2017 MIL @ SAS W 13 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 -1
+p85
+aVJohn Henson MIL 01/10/2017 MIL @ SAS W 17 6 3 6 50.0 0 0 - 0 0 - 2 4 6 3 0 0 1 0 -7
+p86
+aVJason Terry MIL 01/10/2017 MIL @ SAS W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 2 1 0 0 -5
+p87
+aVMirza Teletovic MIL 01/10/2017 MIL @ SAS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p88
+aVMiles Plumlee MIL 01/10/2017 MIL @ SAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p89
+aVGiannis Antetokounmpo MIL 01/10/2017 MIL @ SAS W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 1 1 1 -15
+p90
+aVMalcolm Brogdon MIL 01/10/2017 MIL @ SAS W 25 17 5 11 45.5 3 5 60.0 4 5 80.0 2 4 6 6 0 1 1 3 8
+p91
+aVTony Snell MIL 01/10/2017 MIL @ SAS W 31 8 3 6 50.0 2 5 40.0 0 0 - 0 1 1 3 1 0 0 0 7
+p92
+aVJabari Parker MIL 01/08/2017 MIL vs. WAS L 41 28 9 21 42.9 3 6 50.0 7 9 77.8 3 5 8 7 2 1 2 5 -5
+p93
+aVJason Terry MIL 01/08/2017 MIL vs. WAS L 18 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 2 1 0 2 1 2
+p94
+aVMalcolm Brogdon MIL 01/08/2017 MIL vs. WAS L 36 22 9 15 60.0 2 4 50.0 2 2 100.0 0 1 1 5 3 1 4 2 -5
+p95
+aVGreg Monroe MIL 01/08/2017 MIL vs. WAS L 33 12 5 12 41.7 0 0 - 2 2 100.0 2 10 12 3 4 1 3 1 4
+p96
+aVTony Snell MIL 01/08/2017 MIL vs. WAS L 34 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 2 -11
+p97
+aVMirza Teletovic MIL 01/08/2017 MIL vs. WAS L 31 5 2 8 25.0 1 5 20.0 0 0 - 0 4 4 2 1 0 1 2 -1
+p98
+aVMatthew Dellavedova MIL 01/08/2017 MIL vs. WAS L 18 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 4 1 0 1 2 1
+p99
+aVJohn Henson MIL 01/08/2017 MIL vs. WAS L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 2 4 -9
+p100
+aVMichael Beasley MIL 01/08/2017 MIL vs. WAS L 16 18 6 9 66.7 1 1 100.0 5 5 100.0 0 1 1 0 1 0 1 1 -6
+p101
+aVGreg Monroe MIL 01/06/2017 MIL vs. NYK L 28 19 6 11 54.5 0 0 - 7 10 70.0 2 5 7 4 2 1 1 2 1
+p102
+aVJabari Parker MIL 01/06/2017 MIL vs. NYK L 38 25 10 18 55.6 4 6 66.7 1 4 25.0 1 3 4 5 0 0 2 3 -6
+p103
+aVJohn Henson MIL 01/06/2017 MIL vs. NYK L 20 4 1 4 25.0 0 0 - 2 2 100.0 1 6 7 1 0 2 0 1 -6
+p104
+aVGiannis Antetokounmpo MIL 01/06/2017 MIL vs. NYK L 38 25 9 21 42.9 2 5 40.0 5 6 83.3 2 3 5 2 2 6 5 4 -2
+p105
+aVMirza Teletovic MIL 01/06/2017 MIL vs. NYK L 17 11 3 5 60.0 3 5 60.0 2 2 100.0 0 1 1 0 1 0 0 0 2
+p106
+aVJason Terry MIL 01/06/2017 MIL vs. NYK L 18 1 0 0 - 0 0 - 1 1 100.0 0 2 2 5 2 0 2 5 5
+p107
+aVTony Snell MIL 01/06/2017 MIL vs. NYK L 38 13 5 6 83.3 3 4 75.0 0 0 - 0 3 3 0 2 2 1 0 -4
+p108
+aVMichael Beasley MIL 01/06/2017 MIL vs. NYK L 12 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 2 0 0 2 2 -3
+p109
+aVMalcolm Brogdon MIL 01/06/2017 MIL vs. NYK L 31 10 4 9 44.4 0 1 0.0 2 2 100.0 0 6 6 5 0 0 1 2 -12
+p110
+aVTony Snell MIL 01/04/2017 MIL @ NYK W 20 3 1 5 20.0 1 5 20.0 0 0 - 0 3 3 1 0 0 2 1 -12
+p111
+aVGreg Monroe MIL 01/04/2017 MIL @ NYK W 31 18 7 10 70.0 0 0 - 4 10 40.0 3 6 9 4 3 1 3 1 7
+p112
+aVGiannis Antetokounmpo MIL 01/04/2017 MIL @ NYK W 39 27 10 18 55.6 1 4 25.0 6 7 85.7 1 12 13 4 1 3 3 2 -11
+p113
+aVJohn Henson MIL 01/04/2017 MIL @ NYK W 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -9
+p114
+aVJabari Parker MIL 01/04/2017 MIL @ NYK W 37 15 4 10 40.0 1 3 33.3 6 8 75.0 0 4 4 3 1 0 1 2 6
+p115
+aVMichael Beasley MIL 01/04/2017 MIL @ NYK W 10 7 2 3 66.7 1 1 100.0 2 2 100.0 0 0 0 0 0 1 1 3 -2
+p116
+aVMiles Plumlee MIL 01/04/2017 MIL @ NYK W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p117
+aVJason Terry MIL 01/04/2017 MIL @ NYK W 28 8 3 5 60.0 2 4 50.0 0 0 - 1 2 3 0 2 0 0 1 13
+p118
+aVMirza Teletovic MIL 01/04/2017 MIL @ NYK W 21 13 4 10 40.0 3 8 37.5 2 2 100.0 1 0 1 0 0 0 2 0 7
+p119
+aVMalcolm Brogdon MIL 01/04/2017 MIL @ NYK W 38 12 5 14 35.7 0 3 0.0 2 2 100.0 1 5 6 8 0 0 0 2 3
+p120
+aVJason Terry MIL 01/02/2017 MIL vs. OKC W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 3 0 0 1 1 12
+p121
+aVTony Snell MIL 01/02/2017 MIL vs. OKC W 31 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 1 0 1 2 -4
+p122
+aVMichael Beasley MIL 01/02/2017 MIL vs. OKC W 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 2
+p123
+aVJabari Parker MIL 01/02/2017 MIL vs. OKC W 41 19 7 17 41.2 2 4 50.0 3 4 75.0 2 4 6 2 0 1 4 2 1
+p124
+aVGiannis Antetokounmpo MIL 01/02/2017 MIL vs. OKC W 41 26 10 19 52.6 1 3 33.3 5 10 50.0 2 8 10 5 1 1 1 0 8
+p125
+aVJohn Henson MIL 01/02/2017 MIL vs. OKC W 27 12 6 7 85.7 0 0 - 0 0 - 2 3 5 1 1 1 0 3 -5
+p126
+aVMirza Teletovic MIL 01/02/2017 MIL vs. OKC W 16 9 3 7 42.9 2 5 40.0 1 1 100.0 0 2 2 2 0 0 0 1 1
+p127
+aVGreg Monroe MIL 01/02/2017 MIL vs. OKC W 27 15 7 10 70.0 0 0 - 1 4 25.0 1 7 8 2 1 1 1 2 10
+p128
+aVMalcolm Brogdon MIL 01/02/2017 MIL vs. OKC W 32 12 3 12 25.0 1 4 25.0 5 5 100.0 0 2 2 5 0 0 2 5 -5
+p129
+aVGreg Monroe MIL 12/31/2016 MIL @ CHI W 34 15 6 13 46.2 0 0 - 3 4 75.0 4 8 12 2 2 0 1 2 27
+p130
+aVMalcolm Brogdon MIL 12/31/2016 MIL @ CHI W 39 15 7 13 53.8 1 2 50.0 0 0 - 1 9 10 12 0 0 3 4 22
+p131
+aVMirza Teletovic MIL 12/31/2016 MIL @ CHI W 23 6 2 6 33.3 2 4 50.0 0 0 - 0 3 3 1 0 0 1 2 3
+p132
+aVGiannis Antetokounmpo MIL 12/31/2016 MIL @ CHI W 41 35 13 19 68.4 1 1 100.0 8 11 72.7 3 6 9 8 2 7 4 2 16
+p133
+aVTony Snell MIL 12/31/2016 MIL @ CHI W 24 8 2 3 66.7 2 2 100.0 2 2 100.0 0 0 0 1 1 0 1 1 12
+p134
+aVThon Maker MIL 12/31/2016 MIL @ CHI W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p135
+aVSteve Novak MIL 12/31/2016 MIL @ CHI W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p136
+aVJabari Parker MIL 12/31/2016 MIL @ CHI W 40 27 10 15 66.7 1 3 33.3 6 6 100.0 0 5 5 3 1 1 2 2 16
+p137
+aVJohn Henson MIL 12/31/2016 MIL @ CHI W 14 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 4 -7
+p138
+aVJason Terry MIL 12/31/2016 MIL @ CHI W 22 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 2 1 0 0 2 3
+p139
+aVThon Maker MIL 12/30/2016 MIL @ MIN L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p140
+aVMirza Teletovic MIL 12/30/2016 MIL @ MIN L 19 8 2 4 50.0 2 4 50.0 2 2 100.0 0 3 3 1 0 1 2 1 9
+p141
+aVJason Terry MIL 12/30/2016 MIL @ MIN L 23 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 3 0 0 0 0 -13
+p142
+aVJohn Henson MIL 12/30/2016 MIL @ MIN L 20 4 2 4 50.0 0 0 - 0 2 0.0 1 2 3 2 0 1 3 3 -6
+p143
+aVMichael Beasley MIL 12/30/2016 MIL @ MIN L 20 12 5 10 50.0 0 1 0.0 2 2 100.0 0 5 5 3 0 0 1 3 -9
+p144
+aVGiannis Antetokounmpo MIL 12/30/2016 MIL @ MIN L 32 25 11 14 78.6 0 0 - 3 4 75.0 2 4 6 5 1 1 3 3 -18
+p145
+aVJabari Parker MIL 12/30/2016 MIL @ MIN L 38 20 8 14 57.1 2 4 50.0 2 4 50.0 3 3 6 3 2 0 2 4 -8
+p146
+aVGreg Monroe MIL 12/30/2016 MIL @ MIN L 14 8 4 10 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -11
+p147
+aVTony Snell MIL 12/30/2016 MIL @ MIN L 29 5 2 7 28.6 1 5 20.0 0 1 0.0 0 0 0 1 0 0 0 2 -19
+p148
+aVMalcolm Brogdon MIL 12/30/2016 MIL @ MIN L 33 11 4 8 50.0 1 2 50.0 2 2 100.0 1 3 4 4 1 0 2 1 -7
+p149
+aVSteve Novak MIL 12/30/2016 MIL @ MIN L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p150
+aVMiles Plumlee MIL 12/30/2016 MIL @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -2
+p151
+aVMalcolm Brogdon MIL 12/28/2016 MIL @ DET W 28 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 8 1 0 2 1 20
+p152
+aVMichael Beasley MIL 12/28/2016 MIL @ DET W 22 7 3 8 37.5 0 0 - 1 2 50.0 0 3 3 3 1 2 0 0 8
+p153
+aVTony Snell MIL 12/28/2016 MIL @ DET W 28 11 4 4 100.0 3 3 100.0 0 0 - 0 6 6 1 0 0 0 0 20
+p154
+aVJason Terry MIL 12/28/2016 MIL @ DET W 20 3 1 3 33.3 1 3 33.3 0 0 - 2 2 4 0 1 0 0 1 5
+p155
+aVSteve Novak MIL 12/28/2016 MIL @ DET W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p156
+aVThon Maker MIL 12/28/2016 MIL @ DET W 3 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p157
+aVGiannis Antetokounmpo MIL 12/28/2016 MIL @ DET W 35 23 8 18 44.4 1 3 33.3 6 7 85.7 1 4 5 8 2 0 1 2 17
+p158
+aVGreg Monroe MIL 12/28/2016 MIL @ DET W 27 14 7 10 70.0 0 0 - 0 1 0.0 0 5 5 6 2 1 2 2 20
+p159
+aVMiles Plumlee MIL 12/28/2016 MIL @ DET W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p160
+aVMatthew Dellavedova MIL 12/28/2016 MIL @ DET W 20 11 4 7 57.1 2 2 100.0 1 1 100.0 0 2 2 2 0 0 1 2 5
+p161
+aVJohn Henson MIL 12/28/2016 MIL @ DET W 19 7 2 4 50.0 0 0 - 3 4 75.0 0 2 2 1 0 2 0 3 6
+p162
+aVJabari Parker MIL 12/28/2016 MIL @ DET W 34 31 13 18 72.2 4 7 57.1 1 1 100.0 0 9 9 7 1 0 1 2 27
+p163
+aVMatthew Dellavedova MIL 12/26/2016 MIL @ WAS L 30 8 1 9 11.1 0 5 0.0 6 8 75.0 1 2 3 11 2 0 1 4 3
+p164
+aVMalcolm Brogdon MIL 12/26/2016 MIL @ WAS L 23 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -1
+p165
+aVJabari Parker MIL 12/26/2016 MIL @ WAS L 40 14 7 18 38.9 0 3 0.0 0 0 - 1 5 6 4 0 1 4 3 -7
+p166
+aVJason Terry MIL 12/26/2016 MIL @ WAS L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p167
+aVGiannis Antetokounmpo MIL 12/26/2016 MIL @ WAS L 38 22 7 12 58.3 0 1 0.0 8 11 72.7 5 7 12 7 0 1 2 3 -3
+p168
+aVJohn Henson MIL 12/26/2016 MIL @ WAS L 25 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 0 0 1 3 7
+p169
+aVTony Snell MIL 12/26/2016 MIL @ WAS L 29 20 7 14 50.0 6 11 54.5 0 0 - 1 3 4 1 2 0 2 2 -18
+p170
+aVMichael Beasley MIL 12/26/2016 MIL @ WAS L 18 8 4 11 36.4 0 1 0.0 0 0 - 1 3 4 1 2 0 0 4 0
+p171
+aVGreg Monroe MIL 12/26/2016 MIL @ WAS L 22 16 7 10 70.0 0 0 - 2 4 50.0 1 4 5 1 1 0 2 0 -10
+p172
+aVThon Maker MIL 12/23/2016 MIL vs. WAS W 8 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 2 -1
+p173
+aVJohn Henson MIL 12/23/2016 MIL vs. WAS W 19 5 1 4 25.0 0 0 - 3 4 75.0 2 1 3 1 1 0 1 1 -1
+p174
+aVTony Snell MIL 12/23/2016 MIL vs. WAS W 27 11 5 8 62.5 1 4 25.0 0 0 - 0 3 3 2 0 1 0 1 4
+p175
+aVJabari Parker MIL 12/23/2016 MIL vs. WAS W 32 21 9 15 60.0 1 3 33.3 2 2 100.0 4 4 8 3 2 2 1 1 8
+p176
+aVMatthew Dellavedova MIL 12/23/2016 MIL vs. WAS W 22 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 4 0 0 1 2 5
+p177
+aVGreg Monroe MIL 12/23/2016 MIL vs. WAS W 21 12 5 7 71.4 0 0 - 2 2 100.0 1 10 11 4 1 1 2 1 29
+p178
+aVMirza Teletovic MIL 12/23/2016 MIL vs. WAS W 24 0 0 9 0.0 0 6 0.0 0 0 - 0 2 2 0 0 1 0 2 23
+p179
+aVMiles Plumlee MIL 12/23/2016 MIL vs. WAS W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -1
+p180
+aVJason Terry MIL 12/23/2016 MIL vs. WAS W 18 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 0 20
+p181
+aVGiannis Antetokounmpo MIL 12/23/2016 MIL vs. WAS W 33 39 12 19 63.2 0 1 0.0 15 17 88.2 1 7 8 6 2 1 1 1 25
+p182
+aVSteve Novak MIL 12/23/2016 MIL vs. WAS W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p183
+aVMalcolm Brogdon MIL 12/23/2016 MIL vs. WAS W 29 17 7 7 100.0 3 3 100.0 0 0 - 0 3 3 7 2 0 3 4 25
+p184
+aVMalcolm Brogdon MIL 12/21/2016 MIL @ CLE L 27 11 4 7 57.1 1 2 50.0 2 4 50.0 0 5 5 7 3 0 1 2 2
+p185
+aVMirza Teletovic MIL 12/21/2016 MIL @ CLE L 19 3 1 4 25.0 0 3 0.0 1 2 50.0 0 5 5 1 0 1 2 4 -7
+p186
+aVRashad Vaughn MIL 12/21/2016 MIL @ CLE L 16 8 3 7 42.9 2 3 66.7 0 0 - 0 1 1 1 0 0 1 1 7
+p187
+aVTony Snell MIL 12/21/2016 MIL @ CLE L 20 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 1 0 0 0 3 -23
+p188
+aVGiannis Antetokounmpo MIL 12/21/2016 MIL @ CLE L 32 28 7 13 53.8 1 4 25.0 13 14 92.9 1 4 5 5 2 1 1 1 -12
+p189
+aVGreg Monroe MIL 12/21/2016 MIL @ CLE L 18 8 3 7 42.9 0 1 0.0 2 4 50.0 1 6 7 0 0 1 1 1 -12
+p190
+aVJason Terry MIL 12/21/2016 MIL @ CLE L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 4
+p191
+aVSteve Novak MIL 12/21/2016 MIL @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p192
+aVJohn Henson MIL 12/21/2016 MIL @ CLE L 19 4 2 7 28.6 0 0 - 0 0 - 3 5 8 1 0 2 1 4 -4
+p193
+aVJabari Parker MIL 12/21/2016 MIL @ CLE L 29 27 11 20 55.0 4 5 80.0 1 1 100.0 0 1 1 2 0 1 1 1 -17
+p194
+aVThon Maker MIL 12/21/2016 MIL @ CLE L 8 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 0 2 0 0 10
+p195
+aVMatthew Dellavedova MIL 12/21/2016 MIL @ CLE L 25 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 3 2 0 0 2 -12
+p196
+aVMiles Plumlee MIL 12/21/2016 MIL @ CLE L 11 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 5
+p197
+aVMatthew Dellavedova MIL 12/20/2016 MIL vs. CLE L 39 8 3 10 30.0 2 7 28.6 0 0 - 1 2 3 5 1 0 4 3 -3
+p198
+aVJabari Parker MIL 12/20/2016 MIL vs. CLE L 46 30 13 25 52.0 0 2 0.0 4 7 57.1 3 6 9 3 0 0 1 3 3
+p199
+aVGreg Monroe MIL 12/20/2016 MIL vs. CLE L 18 6 3 5 60.0 0 0 - 0 1 0.0 1 3 4 1 0 0 1 1 1
+p200
+aVJohn Henson MIL 12/20/2016 MIL vs. CLE L 27 14 5 7 71.4 0 0 - 4 6 66.7 2 6 8 1 2 1 2 1 2
+p201
+aVMirza Teletovic MIL 12/20/2016 MIL vs. CLE L 19 9 4 9 44.4 1 5 20.0 0 0 - 1 4 5 0 0 0 1 2 -14
+p202
+aVGiannis Antetokounmpo MIL 12/20/2016 MIL vs. CLE L 44 25 5 13 38.5 2 3 66.7 13 15 86.7 2 11 13 2 2 3 2 6 3
+p203
+aVMalcolm Brogdon MIL 12/20/2016 MIL vs. CLE L 19 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 5 1 0 2 4 -11
+p204
+aVJason Terry MIL 12/20/2016 MIL vs. CLE L 12 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 1 0 0 0 0 -14
+p205
+aVTony Snell MIL 12/20/2016 MIL vs. CLE L 41 8 3 7 42.9 2 5 40.0 0 0 - 0 6 6 4 0 2 1 1 3
+p206
+aVJohn Henson MIL 12/16/2016 MIL @ CHI W 20 10 4 10 40.0 0 0 - 2 2 100.0 0 4 4 0 1 2 1 2 11
+p207
+aVGreg Monroe MIL 12/16/2016 MIL @ CHI W 23 14 6 14 42.9 0 0 - 2 3 66.7 4 8 12 3 0 0 3 2 14
+p208
+aVTony Snell MIL 12/16/2016 MIL @ CHI W 25 10 4 8 50.0 2 3 66.7 0 0 - 1 4 5 2 0 0 1 1 9
+p209
+aVGiannis Antetokounmpo MIL 12/16/2016 MIL @ CHI W 35 22 8 13 61.5 2 3 66.7 4 6 66.7 3 4 7 11 3 1 0 2 29
+p210
+aVRashad Vaughn MIL 12/16/2016 MIL @ CHI W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 1
+p211
+aVJason Terry MIL 12/16/2016 MIL @ CHI W 19 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 3 0 0 0 1 20
+p212
+aVMiles Plumlee MIL 12/16/2016 MIL @ CHI W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 1
+p213
+aVMatthew Dellavedova MIL 12/16/2016 MIL @ CHI W 21 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 3 2 0 1 1 12
+p214
+aVMirza Teletovic MIL 12/16/2016 MIL @ CHI W 27 13 5 10 50.0 3 8 37.5 0 0 - 0 8 8 2 0 1 0 2 18
+p215
+aVMalcolm Brogdon MIL 12/16/2016 MIL @ CHI W 27 7 3 8 37.5 1 4 25.0 0 0 - 0 2 2 1 0 0 2 1 14
+p216
+aVSteve Novak MIL 12/16/2016 MIL @ CHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p217
+aVThon Maker MIL 12/16/2016 MIL @ CHI W 4 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -3
+p218
+aVJabari Parker MIL 12/16/2016 MIL @ CHI W 27 12 6 8 75.0 0 0 - 0 0 - 2 5 7 1 1 0 1 2 7
+p219
+aVMirza Teletovic MIL 12/15/2016 MIL vs. CHI W 19 13 5 10 50.0 3 5 60.0 0 0 - 0 0 0 2 0 0 1 3 5
+p220
+aVMatthew Dellavedova MIL 12/15/2016 MIL vs. CHI W 29 9 4 7 57.1 1 1 100.0 0 0 - 1 0 1 9 0 0 2 1 11
+p221
+aVMalcolm Brogdon MIL 12/15/2016 MIL vs. CHI W 21 5 2 4 50.0 0 1 0.0 1 2 50.0 2 0 2 7 0 0 3 0 -3
+p222
+aVJohn Henson MIL 12/15/2016 MIL vs. CHI W 26 4 2 9 22.2 0 1 0.0 0 1 0.0 6 4 10 1 1 2 0 3 0
+p223
+aVJabari Parker MIL 12/15/2016 MIL vs. CHI W 35 28 11 19 57.9 3 5 60.0 3 7 42.9 1 4 5 3 2 0 0 2 5
+p224
+aVGreg Monroe MIL 12/15/2016 MIL vs. CHI W 22 7 3 7 42.9 0 0 - 1 1 100.0 0 5 5 3 2 1 0 1 11
+p225
+aVJason Terry MIL 12/15/2016 MIL vs. CHI W 17 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 3 0 1 0 4 9
+p226
+aVTony Snell MIL 12/15/2016 MIL vs. CHI W 31 9 4 10 40.0 1 2 50.0 0 0 - 0 4 4 1 0 0 0 2 2
+p227
+aVGiannis Antetokounmpo MIL 12/15/2016 MIL vs. CHI W 39 30 13 27 48.1 2 4 50.0 2 2 100.0 3 11 14 3 3 1 2 4 15
+p228
+aVJabari Parker MIL 12/12/2016 MIL @ TOR L 35 27 11 17 64.7 2 3 66.7 3 5 60.0 2 1 3 2 1 0 2 2 -3
+p229
+aVTony Snell MIL 12/12/2016 MIL @ TOR L 29 8 3 6 50.0 2 5 40.0 0 0 - 0 5 5 4 0 0 0 1 3
+p230
+aVMiles Plumlee MIL 12/12/2016 MIL @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p231
+aVMalcolm Brogdon MIL 12/12/2016 MIL @ TOR L 23 4 1 6 16.7 0 2 0.0 2 2 100.0 1 1 2 2 3 0 2 2 -19
+p232
+aVRashad Vaughn MIL 12/12/2016 MIL @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p233
+aVJason Terry MIL 12/12/2016 MIL @ TOR L 9 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 2 -17
+p234
+aVGiannis Antetokounmpo MIL 12/12/2016 MIL @ TOR L 39 30 13 23 56.5 0 3 0.0 4 6 66.7 5 4 9 5 3 0 0 4 -11
+p235
+aVJohn Henson MIL 12/12/2016 MIL @ TOR L 14 7 3 5 60.0 0 0 - 1 1 100.0 0 2 2 0 0 3 0 2 -3
+p236
+aVMatthew Dellavedova MIL 12/12/2016 MIL @ TOR L 28 2 1 8 12.5 0 2 0.0 0 0 - 0 0 0 10 0 0 0 2 -8
+p237
+aVMichael Beasley MIL 12/12/2016 MIL @ TOR L 16 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 2 0 0 2 0 -14
+p238
+aVThon Maker MIL 12/12/2016 MIL @ TOR L 6 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 -5
+p239
+aVMirza Teletovic MIL 12/12/2016 MIL @ TOR L 19 4 2 7 28.6 0 5 0.0 0 0 - 0 7 7 1 0 0 2 2 -18
+p240
+aVGreg Monroe MIL 12/12/2016 MIL @ TOR L 16 11 5 5 100.0 0 0 - 1 1 100.0 1 1 2 0 1 0 1 2 -11
+p241
+aVJohn Henson MIL 12/10/2016 MIL @ WAS L 25 14 7 10 70.0 0 0 - 0 0 - 2 2 4 1 0 2 3 2 -2
+p242
+aVJabari Parker MIL 12/10/2016 MIL @ WAS L 24 8 3 8 37.5 1 3 33.3 1 2 50.0 0 4 4 0 0 0 3 4 -3
+p243
+aVGiannis Antetokounmpo MIL 12/10/2016 MIL @ WAS L 41 28 11 18 61.1 1 2 50.0 5 7 71.4 3 10 13 7 0 0 7 3 1
+p244
+aVJason Terry MIL 12/10/2016 MIL @ WAS L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 6
+p245
+aVMichael Beasley MIL 12/10/2016 MIL @ WAS L 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -1
+p246
+aVMatthew Dellavedova MIL 12/10/2016 MIL @ WAS L 31 6 2 8 25.0 2 5 40.0 0 0 - 1 1 2 4 0 0 1 2 -15
+p247
+aVThon Maker MIL 12/10/2016 MIL @ WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p248
+aVGreg Monroe MIL 12/10/2016 MIL @ WAS L 23 6 2 5 40.0 0 0 - 2 2 100.0 0 7 7 5 0 0 2 3 -1
+p249
+aVTony Snell MIL 12/10/2016 MIL @ WAS L 33 2 1 6 16.7 0 4 0.0 0 0 - 0 6 6 2 0 0 1 2 -12
+p250
+aVMirza Teletovic MIL 12/10/2016 MIL @ WAS L 26 25 8 12 66.7 5 6 83.3 4 4 100.0 0 3 3 0 0 1 0 2 -4
+p251
+aVMalcolm Brogdon MIL 12/10/2016 MIL @ WAS L 20 11 4 7 57.1 3 3 100.0 0 0 - 0 0 0 2 1 0 1 3 8
+p252
+aVMatthew Dellavedova MIL 12/09/2016 MIL vs. ATL L 27 11 4 12 33.3 1 4 25.0 2 3 66.7 0 4 4 3 1 0 3 3 -13
+p253
+aVJohn Henson MIL 12/09/2016 MIL vs. ATL L 25 6 3 6 50.0 0 0 - 0 0 - 2 4 6 4 1 1 0 1 -8
+p254
+aVGiannis Antetokounmpo MIL 12/09/2016 MIL vs. ATL L 24 14 5 12 41.7 1 4 25.0 3 4 75.0 0 6 6 1 0 1 6 5 -1
+p255
+aVMichael Beasley MIL 12/09/2016 MIL vs. ATL L 23 14 6 7 85.7 1 1 100.0 1 1 100.0 2 4 6 2 0 3 0 6 2
+p256
+aVMalcolm Brogdon MIL 12/09/2016 MIL vs. ATL L 28 12 5 10 50.0 2 3 66.7 0 0 - 0 2 2 4 2 0 2 3 7
+p257
+aVJabari Parker MIL 12/09/2016 MIL vs. ATL L 39 27 11 24 45.8 3 7 42.9 2 4 50.0 2 2 4 4 3 0 2 3 -8
+p258
+aVTony Snell MIL 12/09/2016 MIL vs. ATL L 31 3 1 5 20.0 1 4 25.0 0 0 - 0 5 5 1 2 0 0 2 -11
+p259
+aVJason Terry MIL 12/09/2016 MIL vs. ATL L 20 9 3 5 60.0 3 5 60.0 0 0 - 1 3 4 2 0 0 1 1 8
+p260
+aVGreg Monroe MIL 12/09/2016 MIL vs. ATL L 23 14 6 13 46.2 0 0 - 2 2 100.0 2 4 6 5 2 0 1 1 4
+p261
+aVMichael Beasley MIL 12/07/2016 MIL vs. POR W 22 12 5 7 71.4 1 1 100.0 1 2 50.0 0 8 8 0 1 0 2 2 14
+p262
+aVMalcolm Brogdon MIL 12/07/2016 MIL vs. POR W 24 13 4 6 66.7 3 3 100.0 2 2 100.0 0 1 1 3 2 1 1 4 7
+p263
+aVJohn Henson MIL 12/07/2016 MIL vs. POR W 25 7 2 4 50.0 0 0 - 3 6 50.0 2 4 6 0 0 2 0 1 -3
+p264
+aVTony Snell MIL 12/07/2016 MIL vs. POR W 29 9 2 5 40.0 2 5 40.0 3 4 75.0 0 2 2 1 0 0 0 0 6
+p265
+aVJabari Parker MIL 12/07/2016 MIL vs. POR W 34 27 11 23 47.8 1 5 20.0 4 5 80.0 0 3 3 1 0 0 1 0 5
+p266
+aVMatthew Dellavedova MIL 12/07/2016 MIL vs. POR W 24 17 7 11 63.6 3 5 60.0 0 0 - 1 3 4 1 0 0 2 2 1
+p267
+aVGiannis Antetokounmpo MIL 12/07/2016 MIL vs. POR W 40 15 4 11 36.4 0 3 0.0 7 10 70.0 2 10 12 11 2 4 3 3 -3
+p268
+aVJason Terry MIL 12/07/2016 MIL vs. POR W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p269
+aVGreg Monroe MIL 12/07/2016 MIL vs. POR W 23 15 5 7 71.4 0 0 - 5 8 62.5 0 4 4 1 3 0 1 0 11
+p270
+aVRashad Vaughn MIL 12/07/2016 MIL vs. POR W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 4
+p271
+aVMatthew Dellavedova MIL 12/05/2016 MIL vs. SAS L 32 8 3 8 37.5 1 3 33.3 1 1 100.0 0 0 0 2 0 0 1 2 5
+p272
+aVJohn Henson MIL 12/05/2016 MIL vs. SAS L 26 8 1 3 33.3 0 0 - 6 8 75.0 0 5 5 1 1 3 3 3 -1
+p273
+aVMirza Teletovic MIL 12/05/2016 MIL vs. SAS L 20 11 4 10 40.0 3 8 37.5 0 0 - 0 2 2 1 0 1 2 1 5
+p274
+aVJabari Parker MIL 12/05/2016 MIL vs. SAS L 34 23 6 14 42.9 1 3 33.3 10 10 100.0 3 5 8 3 1 1 2 0 -5
+p275
+aVGreg Monroe MIL 12/05/2016 MIL vs. SAS L 21 10 5 9 55.6 0 0 - 0 1 0.0 2 11 13 2 0 0 2 2 2
+p276
+aVMalcolm Brogdon MIL 12/05/2016 MIL vs. SAS L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 5 0 0 0 1 -6
+p277
+aVMichael Beasley MIL 12/05/2016 MIL vs. SAS L 14 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 0 0 1 2 1 -1
+p278
+aVJason Terry MIL 12/05/2016 MIL vs. SAS L 13 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p279
+aVGiannis Antetokounmpo MIL 12/05/2016 MIL vs. SAS L 29 22 6 12 50.0 1 1 100.0 9 10 90.0 2 9 11 2 2 1 2 5 -3
+p280
+aVTony Snell MIL 12/05/2016 MIL vs. SAS L 35 4 1 6 16.7 0 5 0.0 2 2 100.0 0 2 2 0 0 0 0 1 -2
+p281
+aVMichael Beasley MIL 12/03/2016 MIL vs. BKN W 18 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 1 0 1 2 4 -8
+p282
+aVJason Terry MIL 12/03/2016 MIL vs. BKN W 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 2
+p283
+aVJabari Parker MIL 12/03/2016 MIL vs. BKN W 33 15 6 13 46.2 0 2 0.0 3 7 42.9 2 6 8 2 2 0 0 1 7
+p284
+aVMatthew Dellavedova MIL 12/03/2016 MIL vs. BKN W 27 18 6 10 60.0 0 2 0.0 6 6 100.0 1 1 2 6 0 0 1 2 15
+p285
+aVGreg Monroe MIL 12/03/2016 MIL vs. BKN W 21 13 5 10 50.0 0 0 - 3 3 100.0 2 5 7 1 4 1 2 4 -11
+p286
+aVMirza Teletovic MIL 12/03/2016 MIL vs. BKN W 15 7 2 6 33.3 2 6 33.3 1 2 50.0 0 3 3 2 0 0 1 1 3
+p287
+aVGiannis Antetokounmpo MIL 12/03/2016 MIL vs. BKN W 35 16 5 9 55.6 1 3 33.3 5 8 62.5 1 9 10 6 2 5 3 4 13
+p288
+aVJohn Henson MIL 12/03/2016 MIL vs. BKN W 27 20 7 11 63.6 0 0 - 6 7 85.7 1 6 7 2 1 2 1 3 20
+p289
+aVMalcolm Brogdon MIL 12/03/2016 MIL vs. BKN W 21 5 2 8 25.0 0 2 0.0 1 1 100.0 0 2 2 4 0 0 0 0 -4
+p290
+aVTony Snell MIL 12/03/2016 MIL vs. BKN W 27 10 4 10 40.0 2 7 28.6 0 0 - 0 3 3 1 0 1 1 4 8
+p291
+aVJason Terry MIL 12/01/2016 MIL @ BKN W 14 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 0 0 1 2 3 5
+p292
+aVMiles Plumlee MIL 12/01/2016 MIL @ BKN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p293
+aVMatthew Dellavedova MIL 12/01/2016 MIL @ BKN W 24 9 3 6 50.0 3 4 75.0 0 0 - 0 0 0 4 1 0 2 2 9
+p294
+aVTony Snell MIL 12/01/2016 MIL @ BKN W 28 13 3 7 42.9 3 6 50.0 4 4 100.0 2 3 5 1 0 0 0 2 18
+p295
+aVThon Maker MIL 12/01/2016 MIL @ BKN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -2
+p296
+aVGiannis Antetokounmpo MIL 12/01/2016 MIL @ BKN W 30 23 7 14 50.0 2 5 40.0 7 9 77.8 2 6 8 8 4 2 0 4 14
+p297
+aVJohn Henson MIL 12/01/2016 MIL @ BKN W 25 12 4 9 44.4 0 0 - 4 4 100.0 3 5 8 1 0 5 3 2 13
+p298
+aVJabari Parker MIL 12/01/2016 MIL @ BKN W 29 22 9 14 64.3 0 2 0.0 4 6 66.7 1 2 3 2 1 0 0 1 10
+p299
+aVGreg Monroe MIL 12/01/2016 MIL @ BKN W 20 2 1 4 25.0 0 0 - 0 0 - 3 3 6 2 1 1 3 2 8
+p300
+aVMichael Beasley MIL 12/01/2016 MIL @ BKN W 17 5 1 4 25.0 0 0 - 3 4 75.0 2 5 7 1 1 0 2 0 5
+p301
+aVMalcolm Brogdon MIL 12/01/2016 MIL @ BKN W 26 13 4 7 57.1 3 4 75.0 2 2 100.0 1 3 4 4 0 0 3 1 13
+p302
+aVMirza Teletovic MIL 12/01/2016 MIL @ BKN W 19 9 3 8 37.5 3 8 37.5 0 0 - 0 7 7 0 0 0 2 1 2
+p303
+aVRashad Vaughn MIL 12/01/2016 MIL @ BKN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p304
+aVJohn Henson MIL 11/29/2016 MIL vs. CLE W 21 7 3 7 42.9 0 0 - 1 1 100.0 4 5 9 2 0 2 0 1 -4
+p305
+aVMiles Plumlee MIL 11/29/2016 MIL vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p306
+aVMatthew Dellavedova MIL 11/29/2016 MIL vs. CLE W 25 3 1 5 20.0 0 1 0.0 1 1 100.0 0 3 3 7 2 0 2 3 17
+p307
+aVTony Snell MIL 11/29/2016 MIL vs. CLE W 25 8 3 8 37.5 1 6 16.7 1 2 50.0 0 3 3 1 0 0 1 2 2
+p308
+aVMalcolm Brogdon MIL 11/29/2016 MIL vs. CLE W 23 10 4 5 80.0 2 2 100.0 0 0 - 0 1 1 3 1 0 2 4 0
+p309
+aVJason Terry MIL 11/29/2016 MIL vs. CLE W 23 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 1 1 1 1 15
+p310
+aVGreg Monroe MIL 11/29/2016 MIL vs. CLE W 26 14 6 8 75.0 0 0 - 2 2 100.0 3 3 6 4 2 1 3 2 23
+p311
+aVSteve Novak MIL 11/29/2016 MIL vs. CLE W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p312
+aVGiannis Antetokounmpo MIL 11/29/2016 MIL vs. CLE W 35 34 13 19 68.4 1 2 50.0 7 10 70.0 1 11 12 5 5 2 6 4 20
+p313
+aVMichael Beasley MIL 11/29/2016 MIL vs. CLE W 26 17 7 10 70.0 1 1 100.0 2 2 100.0 1 1 2 2 2 0 2 3 23
+p314
+aVJabari Parker MIL 11/29/2016 MIL vs. CLE W 31 18 7 17 41.2 1 3 33.3 3 3 100.0 1 3 4 1 2 0 0 1 -2
+p315
+aVThon Maker MIL 11/29/2016 MIL vs. CLE W 3 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -5
+p316
+aVGreg Monroe MIL 11/27/2016 MIL @ ORL W 17 11 4 6 66.7 0 0 - 3 4 75.0 2 5 7 1 1 0 0 2 7
+p317
+aVMichael Beasley MIL 11/27/2016 MIL @ ORL W 17 13 6 9 66.7 0 0 - 1 1 100.0 1 5 6 1 0 0 2 0 5
+p318
+aVMatthew Dellavedova MIL 11/27/2016 MIL @ ORL W 31 8 3 13 23.1 2 7 28.6 0 0 - 0 1 1 8 1 0 1 2 4
+p319
+aVJohn Henson MIL 11/27/2016 MIL @ ORL W 29 20 8 13 61.5 0 0 - 4 6 66.7 2 5 7 1 1 3 0 0 1
+p320
+aVMiles Plumlee MIL 11/27/2016 MIL @ ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p321
+aVGiannis Antetokounmpo MIL 11/27/2016 MIL @ ORL W 31 18 7 11 63.6 1 1 100.0 3 4 75.0 1 8 9 4 1 3 6 4 9
+p322
+aVMirza Teletovic MIL 11/27/2016 MIL @ ORL W 15 6 2 5 40.0 2 5 40.0 0 0 - 1 2 3 1 0 0 0 2 -2
+p323
+aVMalcolm Brogdon MIL 11/27/2016 MIL @ ORL W 20 12 5 10 50.0 2 3 66.7 0 0 - 2 1 3 2 1 0 0 3 2
+p324
+aVJabari Parker MIL 11/27/2016 MIL @ ORL W 29 9 3 8 37.5 1 2 50.0 2 3 66.7 1 6 7 4 0 0 2 1 2
+p325
+aVTony Snell MIL 11/27/2016 MIL @ ORL W 35 7 3 7 42.9 0 4 0.0 1 2 50.0 0 8 8 0 1 0 0 1 9
+p326
+aVJason Terry MIL 11/27/2016 MIL @ ORL W 14 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 3
+p327
+aVMatthew Dellavedova MIL 11/25/2016 MIL vs. TOR L 29 11 4 9 44.4 3 5 60.0 0 1 0.0 1 2 3 8 1 0 2 2 -5
+p328
+aVMirza Teletovic MIL 11/25/2016 MIL vs. TOR L 13 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p329
+aVTony Snell MIL 11/25/2016 MIL vs. TOR L 33 16 6 12 50.0 4 10 40.0 0 0 - 0 3 3 0 0 0 0 2 -7
+p330
+aVMalcolm Brogdon MIL 11/25/2016 MIL vs. TOR L 19 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p331
+aVMichael Beasley MIL 11/25/2016 MIL vs. TOR L 16 2 1 7 14.3 0 1 0.0 0 0 - 0 8 8 2 0 1 1 3 -4
+p332
+aVMiles Plumlee MIL 11/25/2016 MIL vs. TOR L 20 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 1 2 0 1 1 -6
+p333
+aVGiannis Antetokounmpo MIL 11/25/2016 MIL vs. TOR L 35 29 12 17 70.6 0 1 0.0 5 6 83.3 0 6 6 11 1 0 4 4 -3
+p334
+aVGreg Monroe MIL 11/25/2016 MIL vs. TOR L 19 8 4 8 50.0 0 0 - 0 0 - 4 6 10 1 0 0 1 3 -1
+p335
+aVJabari Parker MIL 11/25/2016 MIL vs. TOR L 33 14 6 14 42.9 1 5 20.0 1 2 50.0 1 3 4 0 0 0 2 3 -4
+p336
+aVJason Terry MIL 11/25/2016 MIL vs. TOR L 23 0 0 1 0.0 0 1 0.0 0 1 0.0 0 1 1 2 0 1 0 1 2
+p337
+aVGreg Monroe MIL 11/21/2016 MIL vs. ORL W 8 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 1 0 1 9
+p338
+aVTony Snell MIL 11/21/2016 MIL vs. ORL W 25 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 1 1 1 0 0 -9
+p339
+aVJabari Parker MIL 11/21/2016 MIL vs. ORL W 35 22 8 17 47.1 5 7 71.4 1 5 20.0 0 3 3 3 3 0 0 0 -1
+p340
+aVMiles Plumlee MIL 11/21/2016 MIL vs. ORL W 10 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 1 0 1 3 -2
+p341
+aVJohn Henson MIL 11/21/2016 MIL vs. ORL W 22 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 0 3 0 3 -12
+p342
+aVMatthew Dellavedova MIL 11/21/2016 MIL vs. ORL W 27 7 3 7 42.9 1 5 20.0 0 0 - 0 1 1 4 1 0 6 4 -2
+p343
+aVMalcolm Brogdon MIL 11/21/2016 MIL vs. ORL W 21 5 1 6 16.7 0 3 0.0 3 3 100.0 1 1 2 3 1 0 2 1 6
+p344
+aVJason Terry MIL 11/21/2016 MIL vs. ORL W 20 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 1 2 1 0 1 7
+p345
+aVMichael Beasley MIL 11/21/2016 MIL vs. ORL W 20 14 7 14 50.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 2 5
+p346
+aVGiannis Antetokounmpo MIL 11/21/2016 MIL vs. ORL W 39 21 6 13 46.2 0 2 0.0 9 9 100.0 2 8 10 10 5 3 4 4 14
+p347
+aVMirza Teletovic MIL 11/21/2016 MIL vs. ORL W 13 7 2 6 33.3 1 5 20.0 2 4 50.0 0 5 5 0 1 0 0 3 5
+p348
+aVTony Snell MIL 11/19/2016 MIL vs. GSW L 29 9 4 7 57.1 1 2 50.0 0 0 - 0 6 6 1 0 0 2 3 -13
+p349
+aVMatthew Dellavedova MIL 11/19/2016 MIL vs. GSW L 34 10 4 7 57.1 1 1 100.0 1 1 100.0 0 3 3 5 1 0 1 3 0
+p350
+aVMirza Teletovic MIL 11/19/2016 MIL vs. GSW L 12 3 1 5 20.0 1 5 20.0 0 0 - 0 3 3 2 0 0 1 1 8
+p351
+aVMiles Plumlee MIL 11/19/2016 MIL vs. GSW L 15 9 3 4 75.0 0 0 - 3 3 100.0 5 0 5 3 0 0 0 4 0
+p352
+aVGiannis Antetokounmpo MIL 11/19/2016 MIL vs. GSW L 41 30 10 23 43.5 1 3 33.3 9 11 81.8 0 4 4 6 2 1 4 5 -4
+p353
+aVMalcolm Brogdon MIL 11/19/2016 MIL vs. GSW L 14 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 1 0 0 1 0 -3
+p354
+aVMichael Beasley MIL 11/19/2016 MIL vs. GSW L 20 9 4 9 44.4 1 1 100.0 0 2 0.0 2 1 3 0 0 0 0 1 3
+p355
+aVGreg Monroe MIL 11/19/2016 MIL vs. GSW L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p356
+aVJason Terry MIL 11/19/2016 MIL vs. GSW L 19 9 3 5 60.0 3 4 75.0 0 0 - 0 2 2 3 1 0 1 1 10
+p357
+aVJohn Henson MIL 11/19/2016 MIL vs. GSW L 18 7 3 3 100.0 0 0 - 1 2 50.0 0 6 6 0 1 0 1 4 -1
+p358
+aVJabari Parker MIL 11/19/2016 MIL vs. GSW L 37 28 11 18 61.1 1 2 50.0 5 6 83.3 3 2 5 5 2 0 2 1 -9
+p359
+aVGiannis Antetokounmpo MIL 11/17/2016 MIL @ MIA L 35 14 5 15 33.3 0 2 0.0 4 5 80.0 1 6 7 4 0 4 1 4 -20
+p360
+aVThon Maker MIL 11/17/2016 MIL @ MIA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p361
+aVMiles Plumlee MIL 11/17/2016 MIL @ MIA L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 2 3 -13
+p362
+aVMatthew Dellavedova MIL 11/17/2016 MIL @ MIA L 31 0 0 7 0.0 0 1 0.0 0 0 - 0 4 4 9 1 0 2 0 -19
+p363
+aVMalcolm Brogdon MIL 11/17/2016 MIL @ MIA L 17 0 0 7 0.0 0 1 0.0 0 0 - 1 3 4 1 0 0 1 2 -4
+p364
+aVJohn Henson MIL 11/17/2016 MIL @ MIA L 28 12 5 8 62.5 0 0 - 2 2 100.0 1 4 5 0 1 2 1 4 -2
+p365
+aVTony Snell MIL 11/17/2016 MIL @ MIA L 32 14 5 10 50.0 4 9 44.4 0 0 - 2 4 6 1 0 0 0 2 -13
+p366
+aVRashad Vaughn MIL 11/17/2016 MIL @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p367
+aVMirza Teletovic MIL 11/17/2016 MIL @ MIA L 12 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 1 1 1 -9
+p368
+aVJason Terry MIL 11/17/2016 MIL @ MIA L 16 4 1 1 100.0 1 1 100.0 1 1 100.0 1 0 1 2 1 0 1 0 -14
+p369
+aVJabari Parker MIL 11/17/2016 MIL @ MIA L 33 11 5 20 25.0 1 6 16.7 0 0 - 2 6 8 2 1 1 2 2 -23
+p370
+aVMichael Beasley MIL 11/17/2016 MIL @ MIA L 16 13 5 11 45.5 0 0 - 3 5 60.0 4 6 10 0 0 0 2 2 6
+p371
+aVGiannis Antetokounmpo MIL 11/16/2016 MIL @ ATL L 40 26 11 22 50.0 0 2 0.0 4 6 66.7 4 11 15 7 1 2 4 4 4
+p372
+aVMichael Beasley MIL 11/16/2016 MIL @ ATL L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -8
+p373
+aVMatthew Dellavedova MIL 11/16/2016 MIL @ ATL L 27 8 3 9 33.3 2 5 40.0 0 0 - 0 1 1 7 1 0 1 0 -3
+p374
+aVMalcolm Brogdon MIL 11/16/2016 MIL @ ATL L 21 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 3 0 0 1 3 -4
+p375
+aVGreg Monroe MIL 11/16/2016 MIL @ ATL L 7 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 -7
+p376
+aVJabari Parker MIL 11/16/2016 MIL @ ATL L 35 23 10 20 50.0 0 1 0.0 3 3 100.0 2 6 8 3 3 0 1 4 -8
+p377
+aVRashad Vaughn MIL 11/16/2016 MIL @ ATL L 14 0 0 6 0.0 0 4 0.0 0 0 - 0 1 1 0 1 0 0 0 1
+p378
+aVMirza Teletovic MIL 11/16/2016 MIL @ ATL L 26 14 5 10 50.0 4 9 44.4 0 0 - 0 4 4 0 1 0 2 5 11
+p379
+aVJason Terry MIL 11/16/2016 MIL @ ATL L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -11
+p380
+aVMiles Plumlee MIL 11/16/2016 MIL @ ATL L 5 3 1 2 50.0 0 0 - 1 1 100.0 2 0 2 0 0 0 1 2 -12
+p381
+aVJohn Henson MIL 11/16/2016 MIL @ ATL L 20 7 2 5 40.0 0 0 - 3 4 75.0 3 4 7 2 0 0 2 3 5
+p382
+aVTony Snell MIL 11/16/2016 MIL @ ATL L 31 11 4 10 40.0 2 7 28.6 1 2 50.0 2 2 4 3 2 0 0 1 -3
+p383
+aVGiannis Antetokounmpo MIL 11/12/2016 MIL vs. MEM W 38 27 9 13 69.2 0 1 0.0 9 13 69.2 0 6 6 5 4 4 5 5 3
+p384
+aVMichael Beasley MIL 11/12/2016 MIL vs. MEM W 19 19 6 8 75.0 1 1 100.0 6 7 85.7 1 3 4 1 1 0 1 1 6
+p385
+aVGreg Monroe MIL 11/12/2016 MIL vs. MEM W 21 7 2 3 66.7 0 0 - 3 4 75.0 1 6 7 3 2 0 2 3 8
+p386
+aVMiles Plumlee MIL 11/12/2016 MIL vs. MEM W 9 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 1 0 0 2 10
+p387
+aVMatthew Dellavedova MIL 11/12/2016 MIL vs. MEM W 26 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 2 10
+p388
+aVTony Snell MIL 11/12/2016 MIL vs. MEM W 26 9 3 8 37.5 3 7 42.9 0 0 - 0 1 1 1 0 0 0 0 7
+p389
+aVJohn Henson MIL 11/12/2016 MIL vs. MEM W 18 8 3 5 60.0 0 0 - 2 2 100.0 0 7 7 1 0 1 0 3 -8
+p390
+aVMirza Teletovic MIL 11/12/2016 MIL vs. MEM W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p391
+aVJason Terry MIL 11/12/2016 MIL vs. MEM W 22 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 3
+p392
+aVJabari Parker MIL 11/12/2016 MIL vs. MEM W 34 16 5 16 31.3 0 4 0.0 6 8 75.0 1 3 4 2 0 0 2 2 14
+p393
+aVMalcolm Brogdon MIL 11/12/2016 MIL vs. MEM W 22 12 5 9 55.6 2 3 66.7 0 0 - 1 0 1 3 0 0 2 2 0
+p394
+aVJohn Henson MIL 11/10/2016 MIL vs. NOP L 17 4 2 5 40.0 0 0 - 0 2 0.0 3 3 6 0 0 2 1 3 -1
+p395
+aVMirza Teletovic MIL 11/10/2016 MIL vs. NOP L 11 5 1 6 16.7 1 4 25.0 2 2 100.0 0 2 2 1 0 0 1 3 0
+p396
+aVGreg Monroe MIL 11/10/2016 MIL vs. NOP L 20 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 2 1 0 1 1 -5
+p397
+aVMichael Beasley MIL 11/10/2016 MIL vs. NOP L 12 9 3 6 50.0 1 1 100.0 2 2 100.0 0 4 4 2 0 0 0 1 6
+p398
+aVMiles Plumlee MIL 11/10/2016 MIL vs. NOP L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 0
+p399
+aVJabari Parker MIL 11/10/2016 MIL vs. NOP L 35 33 13 26 50.0 3 6 50.0 4 4 100.0 1 8 9 1 1 1 0 1 -9
+p400
+aVRashad Vaughn MIL 11/10/2016 MIL vs. NOP L 15 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -1
+p401
+aVGiannis Antetokounmpo MIL 11/10/2016 MIL vs. NOP L 35 17 7 16 43.8 0 0 - 3 4 75.0 4 6 10 1 1 2 3 5 -13
+p402
+aVMatthew Dellavedova MIL 11/10/2016 MIL vs. NOP L 29 7 2 7 28.6 0 2 0.0 3 5 60.0 1 4 5 12 0 0 2 1 0
+p403
+aVMalcolm Brogdon MIL 11/10/2016 MIL vs. NOP L 22 10 4 6 66.7 0 0 - 2 2 100.0 0 3 3 3 1 0 2 0 -1
+p404
+aVTony Snell MIL 11/10/2016 MIL vs. NOP L 33 7 2 6 33.3 1 4 25.0 2 2 100.0 1 3 4 1 0 0 1 2 -6
+p405
+aVJohn Henson MIL 11/06/2016 MIL @ DAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -13
+p406
+aVTony Snell MIL 11/06/2016 MIL @ DAL L 36 5 2 8 25.0 1 7 14.3 0 0 - 0 3 3 1 0 0 3 4 4
+p407
+aVMirza Teletovic MIL 11/06/2016 MIL @ DAL L 23 9 3 9 33.3 3 7 42.9 0 0 - 3 3 6 0 0 0 1 2 -10
+p408
+aVGiannis Antetokounmpo MIL 11/06/2016 MIL @ DAL L 26 11 4 12 33.3 1 5 20.0 2 4 50.0 2 5 7 2 3 2 5 5 -12
+p409
+aVGreg Monroe MIL 11/06/2016 MIL @ DAL L 29 14 5 10 50.0 0 0 - 4 4 100.0 1 11 12 1 3 0 5 2 -1
+p410
+aVMiles Plumlee MIL 11/06/2016 MIL @ DAL L 18 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 1 0 2 2 3
+p411
+aVJason Terry MIL 11/06/2016 MIL @ DAL L 24 0 0 6 0.0 0 3 0.0 0 0 - 0 3 3 3 0 0 0 0 -4
+p412
+aVJabari Parker MIL 11/06/2016 MIL @ DAL L 39 16 8 16 50.0 0 1 0.0 0 0 - 1 6 7 1 1 0 4 5 -19
+p413
+aVMichael Beasley MIL 11/06/2016 MIL @ DAL L 10 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 0 1 0 0 2 8
+p414
+aVMatthew Dellavedova MIL 11/06/2016 MIL @ DAL L 33 2 1 7 14.3 0 3 0.0 0 0 - 0 5 5 6 0 0 5 1 -21
+p415
+aVMalcolm Brogdon MIL 11/06/2016 MIL @ DAL L 20 7 2 7 28.6 0 2 0.0 3 4 75.0 0 1 1 0 2 0 1 3 10
+p416
+aVGiannis Antetokounmpo MIL 11/05/2016 MIL vs. SAC W 25 17 5 9 55.6 0 1 0.0 7 8 87.5 3 5 8 8 4 1 4 3 25
+p417
+aVGreg Monroe MIL 11/05/2016 MIL vs. SAC W 14 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 2 1 1 1 3 16
+p418
+aVMichael Beasley MIL 11/05/2016 MIL vs. SAC W 16 10 5 10 50.0 0 1 0.0 0 0 - 1 3 4 0 1 0 0 0 -7
+p419
+aVJohn Henson MIL 11/05/2016 MIL vs. SAC W 16 4 2 3 66.7 0 0 - 0 1 0.0 4 0 4 2 0 1 2 4 -4
+p420
+aVThon Maker MIL 11/05/2016 MIL vs. SAC W 9 3 1 2 50.0 0 1 0.0 1 2 50.0 2 4 6 0 0 0 0 2 -2
+p421
+aVSteve Novak MIL 11/05/2016 MIL vs. SAC W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p422
+aVMiles Plumlee MIL 11/05/2016 MIL vs. SAC W 15 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 0 0 3 0 3 14
+p423
+aVRashad Vaughn MIL 11/05/2016 MIL vs. SAC W 25 14 5 9 55.6 4 8 50.0 0 0 - 0 3 3 2 0 2 1 2 13
+p424
+aVTony Snell MIL 11/05/2016 MIL vs. SAC W 23 3 1 6 16.7 1 5 20.0 0 0 - 1 5 6 1 0 0 2 2 13
+p425
+aVMalcolm Brogdon MIL 11/05/2016 MIL vs. SAC W 27 3 1 6 16.7 0 2 0.0 1 1 100.0 1 4 5 6 0 0 3 1 3
+p426
+aVJabari Parker MIL 11/05/2016 MIL vs. SAC W 25 19 6 14 42.9 0 2 0.0 7 7 100.0 3 3 6 2 4 1 0 1 18
+p427
+aVMirza Teletovic MIL 11/05/2016 MIL vs. SAC W 21 22 7 9 77.8 7 9 77.8 1 2 50.0 0 0 0 1 0 1 0 1 18
+p428
+aVMatthew Dellavedova MIL 11/05/2016 MIL vs. SAC W 21 10 4 7 57.1 2 3 66.7 0 0 - 1 4 5 4 2 0 2 0 23
+p429
+aVJason Terry MIL 11/03/2016 MIL vs. IND W 18 7 2 3 66.7 1 2 50.0 2 2 100.0 0 0 0 0 0 0 1 2 3
+p430
+aVGiannis Antetokounmpo MIL 11/03/2016 MIL vs. IND W 34 27 11 18 61.1 0 2 0.0 5 7 71.4 2 5 7 9 2 2 4 1 20
+p431
+aVMirza Teletovic MIL 11/03/2016 MIL vs. IND W 15 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 3 -5
+p432
+aVMiles Plumlee MIL 11/03/2016 MIL vs. IND W 22 4 1 2 50.0 0 0 - 2 4 50.0 1 2 3 2 2 0 2 4 18
+p433
+aVGreg Monroe MIL 11/03/2016 MIL vs. IND W 26 16 6 11 54.5 0 0 - 4 5 80.0 6 10 16 7 0 1 1 2 0
+p434
+aVThon Maker MIL 11/03/2016 MIL vs. IND W 1 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p435
+aVTony Snell MIL 11/03/2016 MIL vs. IND W 29 14 6 9 66.7 2 5 40.0 0 0 - 0 1 1 2 2 0 2 0 11
+p436
+aVMalcolm Brogdon MIL 11/03/2016 MIL vs. IND W 24 12 3 5 60.0 2 3 66.7 4 4 100.0 0 2 2 4 3 1 0 1 17
+p437
+aVRashad Vaughn MIL 11/03/2016 MIL vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p438
+aVJabari Parker MIL 11/03/2016 MIL vs. IND W 33 27 11 17 64.7 4 6 66.7 1 1 100.0 3 5 8 3 0 1 4 2 9
+p439
+aVMatthew Dellavedova MIL 11/03/2016 MIL vs. IND W 24 5 2 6 33.3 0 3 0.0 1 1 100.0 0 2 2 4 1 0 5 5 1
+p440
+aVMichael Beasley MIL 11/03/2016 MIL vs. IND W 13 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 1 0 1 2 3 8
+p441
+aVJabari Parker MIL 11/01/2016 MIL @ NOP W 29 21 7 14 50.0 0 1 0.0 7 7 100.0 1 1 2 0 0 0 1 1 -5
+p442
+aVMirza Teletovic MIL 11/01/2016 MIL @ NOP W 13 8 3 7 42.9 2 6 33.3 0 0 - 0 0 0 1 0 0 0 0 12
+p443
+aVMalcolm Brogdon MIL 11/01/2016 MIL @ NOP W 24 14 6 10 60.0 1 2 50.0 1 1 100.0 1 1 2 4 4 0 3 1 9
+p444
+aVMatthew Dellavedova MIL 11/01/2016 MIL @ NOP W 29 11 4 8 50.0 2 4 50.0 1 1 100.0 0 4 4 8 2 0 1 3 -8
+p445
+aVMiles Plumlee MIL 11/01/2016 MIL @ NOP W 14 3 0 2 0.0 0 0 - 3 4 75.0 0 3 3 1 0 1 2 3 1
+p446
+aVGiannis Antetokounmpo MIL 11/01/2016 MIL @ NOP W 34 24 10 19 52.6 1 6 16.7 3 4 75.0 3 6 9 7 1 2 2 5 10
+p447
+aVGreg Monroe MIL 11/01/2016 MIL @ NOP W 18 6 2 6 33.3 0 0 - 2 2 100.0 4 8 12 6 0 1 2 4 1
+p448
+aVRashad Vaughn MIL 11/01/2016 MIL @ NOP W 17 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 1 1 0 1 -9
+p449
+aVJohn Henson MIL 11/01/2016 MIL @ NOP W 16 0 0 0 - 0 0 - 0 0 - 1 4 5 1 1 0 2 4 2
+p450
+aVMichael Beasley MIL 11/01/2016 MIL @ NOP W 13 12 5 9 55.6 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 1 -5
+p451
+aVTony Snell MIL 11/01/2016 MIL @ NOP W 33 13 5 12 41.7 3 9 33.3 0 0 - 1 9 10 2 0 0 1 2 12
+p452
+aVGreg Monroe MIL 10/30/2016 MIL @ DET L 18 11 4 9 44.4 0 0 - 3 3 100.0 1 4 5 0 2 0 1 2 -10
+p453
+aVMichael Beasley MIL 10/30/2016 MIL @ DET L 16 7 3 5 60.0 0 2 0.0 1 2 50.0 0 1 1 2 2 0 2 3 -8
+p454
+aVThon Maker MIL 10/30/2016 MIL @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p455
+aVMatthew Dellavedova MIL 10/30/2016 MIL @ DET L 31 10 4 7 57.1 2 3 66.7 0 0 - 1 1 2 5 0 0 2 0 -6
+p456
+aVGiannis Antetokounmpo MIL 10/30/2016 MIL @ DET L 35 17 5 16 31.3 1 3 33.3 6 6 100.0 0 8 8 8 0 3 2 0 -11
+p457
+aVMalcolm Brogdon MIL 10/30/2016 MIL @ DET L 17 6 3 7 42.9 0 1 0.0 0 1 0.0 0 2 2 1 1 0 0 0 -9
+p458
+aVMirza Teletovic MIL 10/30/2016 MIL @ DET L 16 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 1 0 1 -1
+p459
+aVTony Snell MIL 10/30/2016 MIL @ DET L 26 4 2 7 28.6 0 2 0.0 0 0 - 1 3 4 1 1 0 0 1 -1
+p460
+aVMiles Plumlee MIL 10/30/2016 MIL @ DET L 17 8 4 6 66.7 0 0 - 0 0 - 2 3 5 3 1 0 2 2 1
+p461
+aVJabari Parker MIL 10/30/2016 MIL @ DET L 29 13 6 16 37.5 0 1 0.0 1 2 50.0 3 3 6 1 0 0 0 1 -10
+p462
+aVJohn Henson MIL 10/30/2016 MIL @ DET L 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 2 5 -6
+p463
+aVRashad Vaughn MIL 10/30/2016 MIL @ DET L 22 5 2 8 25.0 1 4 25.0 0 0 - 0 1 1 0 3 0 1 1 -14
+p464
+aVMiles Plumlee MIL 10/29/2016 MIL vs. BKN W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 2 -13
+p465
+aVTony Snell MIL 10/29/2016 MIL vs. BKN W 21 6 3 7 42.9 0 3 0.0 0 0 - 1 1 2 0 0 0 1 4 -10
+p466
+aVRashad Vaughn MIL 10/29/2016 MIL vs. BKN W 27 22 8 17 47.1 6 12 50.0 0 0 - 0 2 2 0 0 1 0 2 15
+p467
+aVMalcolm Brogdon MIL 10/29/2016 MIL vs. BKN W 13 2 0 5 0.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 1 1 -11
+p468
+aVJabari Parker MIL 10/29/2016 MIL vs. BKN W 35 14 5 11 45.5 0 1 0.0 4 6 66.7 2 6 8 4 2 0 2 1 15
+p469
+aVGreg Monroe MIL 10/29/2016 MIL vs. BKN W 19 11 3 7 42.9 0 0 - 5 5 100.0 1 2 3 3 4 0 2 0 14
+p470
+aVMatthew Dellavedova MIL 10/29/2016 MIL vs. BKN W 36 14 5 10 50.0 0 1 0.0 4 4 100.0 1 2 3 9 3 0 1 4 11
+p471
+aVJohn Henson MIL 10/29/2016 MIL vs. BKN W 21 7 3 6 50.0 0 0 - 1 2 50.0 2 10 12 3 2 2 1 3 1
+p472
+aVGiannis Antetokounmpo MIL 10/29/2016 MIL vs. BKN W 35 21 10 18 55.6 0 1 0.0 1 1 100.0 1 9 10 3 2 2 4 2 16
+p473
+aVMichael Beasley MIL 10/29/2016 MIL vs. BKN W 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -16
+p474
+aVMirza Teletovic MIL 10/29/2016 MIL vs. BKN W 16 8 2 4 50.0 2 3 66.7 2 2 100.0 0 2 2 2 0 0 0 3 -12
+p475
+aVMichael Beasley MIL 10/26/2016 MIL vs. CHA L 19 2 1 5 20.0 0 0 - 0 2 0.0 1 1 2 1 1 0 0 1 2
+p476
+aVMatthew Dellavedova MIL 10/26/2016 MIL vs. CHA L 29 11 5 10 50.0 1 3 33.3 0 0 - 0 3 3 3 0 0 2 3 -13
+p477
+aVJohn Henson MIL 10/26/2016 MIL vs. CHA L 10 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -3
+p478
+aVJason Terry MIL 10/26/2016 MIL vs. CHA L 18 5 2 4 50.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 0 3 5
+p479
+aVMirza Teletovic MIL 10/26/2016 MIL vs. CHA L 27 6 3 12 25.0 0 5 0.0 0 0 - 0 2 2 1 0 0 1 1 -8
+p480
+aVGiannis Antetokounmpo MIL 10/26/2016 MIL vs. CHA L 39 31 13 21 61.9 1 2 50.0 4 6 66.7 1 8 9 5 1 1 1 5 -5
+p481
+aVMalcolm Brogdon MIL 10/26/2016 MIL vs. CHA L 21 8 3 9 33.3 0 3 0.0 2 2 100.0 0 6 6 5 0 0 0 2 0
+p482
+aVRashad Vaughn MIL 10/26/2016 MIL vs. CHA L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -13
+p483
+aVMiles Plumlee MIL 10/26/2016 MIL vs. CHA L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 1 0 0 -10
+p484
+aVGreg Monroe MIL 10/26/2016 MIL vs. CHA L 29 14 5 13 38.5 0 0 - 4 5 80.0 5 5 10 3 1 3 1 0 2
+p485
+aVJabari Parker MIL 10/26/2016 MIL vs. CHA L 30 13 4 9 44.4 1 1 100.0 4 4 100.0 2 4 6 3 0 0 3 3 -12
+p486
+a.

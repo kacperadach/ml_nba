@@ -1,0 +1,1710 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHilton Armstrong NOH 04/16/2008 NOH @ DAL L 16 0 0 1 0.0 0 0 - 0 0 - 5 1 6 1 0 2 0 4 -20
+p2
+aVBonzi Wells NOH 04/16/2008 NOH @ DAL L 23 16 6 10 60.0 0 1 0.0 4 8 50.0 1 3 4 1 0 1 2 4 -18
+p3
+aVJulian Wright NOH 04/16/2008 NOH @ DAL L 19 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 1 0 1 3 3 0
+p4
+aVDavid West NOH 04/16/2008 NOH @ DAL L 39 26 12 26 46.2 0 0 - 2 3 66.7 2 6 8 2 0 3 1 1 -18
+p5
+aVChris Paul NOH 04/16/2008 NOH @ DAL L 34 20 6 12 50.0 3 5 60.0 5 6 83.3 0 3 3 10 2 0 3 5 -11
+p6
+aVMorris Peterson NOH 04/16/2008 NOH @ DAL L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 2 0
+p7
+aVPeja Stojakovic NOH 04/16/2008 NOH @ DAL L 38 17 6 13 46.2 1 2 50.0 4 4 100.0 3 5 8 2 0 2 0 2 -3
+p8
+aVJannero Pargo NOH 04/16/2008 NOH @ DAL L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -1
+p9
+aVMike James NOH 04/16/2008 NOH @ DAL L 14 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 -1
+p10
+aVTyson Chandler NOH 04/16/2008 NOH @ DAL L 30 6 3 5 60.0 0 0 - 0 0 - 1 7 8 1 2 1 0 4 7
+p11
+aVMorris Peterson NOH 04/15/2008 NOH vs. LAC W 23 10 4 10 40.0 2 4 50.0 0 0 - 0 3 3 2 3 1 0 0 16
+p12
+aVTyson Chandler NOH 04/15/2008 NOH vs. LAC W 31 11 4 5 80.0 0 0 - 3 5 60.0 4 7 11 1 0 1 1 2 13
+p13
+aVDavid West NOH 04/15/2008 NOH vs. LAC W 33 32 12 17 70.6 0 0 - 8 8 100.0 1 4 5 2 1 0 0 4 16
+p14
+aVMike James NOH 04/15/2008 NOH vs. LAC W 22 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 1 0 0 0 0 7
+p15
+aVPeja Stojakovic NOH 04/15/2008 NOH vs. LAC W 36 7 2 14 14.3 2 11 18.2 1 1 100.0 0 4 4 2 1 1 1 3 26
+p16
+aVJannero Pargo NOH 04/15/2008 NOH vs. LAC W 15 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -4
+p17
+aVRyan Bowen NOH 04/15/2008 NOH vs. LAC W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 2 0 0 0 0
+p18
+aVMelvin Ely NOH 04/15/2008 NOH vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p19
+aVChris Paul NOH 04/15/2008 NOH vs. LAC W 37 22 10 13 76.9 0 1 0.0 2 2 100.0 0 4 4 12 2 1 3 0 25
+p20
+aVHilton Armstrong NOH 04/15/2008 NOH vs. LAC W 14 4 2 5 40.0 0 0 - 0 0 - 4 2 6 0 0 0 0 3 5
+p21
+aVJulian Wright NOH 04/15/2008 NOH vs. LAC W 18 14 3 3 100.0 1 1 100.0 7 7 100.0 0 3 3 0 1 1 0 2 6
+p22
+aVHilton Armstrong NOH 04/12/2008 NOH @ SAC L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -3
+p23
+aVJannero Pargo NOH 04/12/2008 NOH @ SAC L 12 4 2 9 22.2 0 3 0.0 0 0 - 0 0 0 0 0 0 1 1 -12
+p24
+aVChris Paul NOH 04/12/2008 NOH @ SAC L 42 14 4 13 30.8 0 2 0.0 6 7 85.7 1 5 6 12 6 0 2 3 2
+p25
+aVBonzi Wells NOH 04/12/2008 NOH @ SAC L 19 2 1 4 25.0 0 0 - 0 2 0.0 0 2 2 0 0 0 3 2 -12
+p26
+aVTyson Chandler NOH 04/12/2008 NOH @ SAC L 40 13 5 9 55.6 0 0 - 3 6 50.0 2 11 13 1 1 1 4 4 2
+p27
+aVPeja Stojakovic NOH 04/12/2008 NOH @ SAC L 39 18 6 16 37.5 2 11 18.2 4 4 100.0 2 2 4 1 1 0 0 3 8
+p28
+aVMorris Peterson NOH 04/12/2008 NOH @ SAC L 29 8 1 6 16.7 1 2 50.0 5 5 100.0 2 1 3 0 0 0 2 2 9
+p29
+aVDavid West NOH 04/12/2008 NOH @ SAC L 42 30 13 27 48.1 0 0 - 4 4 100.0 3 12 15 3 1 0 3 4 1
+p30
+aVJulian Wright NOH 04/12/2008 NOH @ SAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -5
+p31
+aVMike James NOH 04/12/2008 NOH @ SAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p32
+aVBonzi Wells NOH 04/11/2008 NOH @ LAL L 20 6 3 6 50.0 0 0 - 0 1 0.0 2 3 5 1 0 0 2 3 -15
+p33
+aVJannero Pargo NOH 04/11/2008 NOH @ LAL L 21 17 8 16 50.0 1 2 50.0 0 1 0.0 0 3 3 3 0 1 1 0 -7
+p34
+aVChris Paul NOH 04/11/2008 NOH @ LAL L 39 15 4 13 30.8 0 1 0.0 7 8 87.5 1 5 6 17 4 0 3 5 1
+p35
+aVTyson Chandler NOH 04/11/2008 NOH @ LAL L 34 18 8 8 100.0 0 0 - 2 2 100.0 3 5 8 0 0 0 0 5 17
+p36
+aVJulian Wright NOH 04/11/2008 NOH @ LAL L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 1 -6
+p37
+aVHilton Armstrong NOH 04/11/2008 NOH @ LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -14
+p38
+aVPeja Stojakovic NOH 04/11/2008 NOH @ LAL L 39 24 9 16 56.3 6 11 54.5 0 0 - 0 3 3 1 1 0 0 4 11
+p39
+aVMike James NOH 04/11/2008 NOH @ LAL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 10
+p40
+aVMorris Peterson NOH 04/11/2008 NOH @ LAL L 20 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 4
+p41
+aVDavid West NOH 04/11/2008 NOH @ LAL L 41 14 5 11 45.5 0 1 0.0 4 5 80.0 0 5 5 3 1 1 4 3 -10
+p42
+aVMelvin Ely NOH 04/11/2008 NOH @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -6
+p43
+aVMike James NOH 04/09/2008 NOH @ MIN W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p44
+aVChris Paul NOH 04/09/2008 NOH @ MIN W 33 19 6 11 54.5 2 4 50.0 5 5 100.0 1 4 5 16 1 0 1 3 27
+p45
+aVJulian Wright NOH 04/09/2008 NOH @ MIN W 20 9 3 8 37.5 0 3 0.0 3 4 75.0 2 5 7 2 1 0 0 2 9
+p46
+aVBonzi Wells NOH 04/09/2008 NOH @ MIN W 18 6 3 7 42.9 0 3 0.0 0 0 - 0 2 2 0 2 0 0 0 5
+p47
+aVHilton Armstrong NOH 04/09/2008 NOH @ MIN W 13 2 1 2 50.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -6
+p48
+aVMelvin Ely NOH 04/09/2008 NOH @ MIN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p49
+aVMorris Peterson NOH 04/09/2008 NOH @ MIN W 19 7 2 4 50.0 1 2 50.0 2 3 66.7 0 3 3 2 2 0 0 0 13
+p50
+aVRyan Bowen NOH 04/09/2008 NOH @ MIN W 10 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 0 1 1 0 0 8
+p51
+aVPeja Stojakovic NOH 04/09/2008 NOH @ MIN W 35 24 9 15 60.0 5 8 62.5 1 2 50.0 2 3 5 0 0 0 1 2 25
+p52
+aVJannero Pargo NOH 04/09/2008 NOH @ MIN W 18 12 4 12 33.3 3 5 60.0 1 2 50.0 0 2 2 2 0 0 0 1 18
+p53
+aVDavid West NOH 04/09/2008 NOH @ MIN W 37 22 10 13 76.9 0 1 0.0 2 2 100.0 1 5 6 3 1 1 2 2 19
+p54
+aVTyson Chandler NOH 04/09/2008 NOH @ MIN W 31 14 6 7 85.7 0 0 - 2 5 40.0 3 4 7 1 0 1 1 1 32
+p55
+aVChris Paul NOH 04/08/2008 NOH vs. UTA L 33 4 2 11 18.2 0 2 0.0 0 2 0.0 0 2 2 9 3 0 3 2 -22
+p56
+aVHilton Armstrong NOH 04/08/2008 NOH vs. UTA L 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 11
+p57
+aVPeja Stojakovic NOH 04/08/2008 NOH vs. UTA L 29 15 7 15 46.7 1 7 14.3 0 0 - 0 2 2 0 1 1 2 0 -21
+p58
+aVTyson Chandler NOH 04/08/2008 NOH vs. UTA L 37 3 1 3 33.3 0 0 - 1 2 50.0 3 6 9 0 0 1 0 2 -16
+p59
+aVRyan Bowen NOH 04/08/2008 NOH vs. UTA L 6 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 7
+p60
+aVDavid West NOH 04/08/2008 NOH vs. UTA L 38 14 5 14 35.7 0 0 - 4 4 100.0 1 6 7 4 0 2 4 2 -24
+p61
+aVJannero Pargo NOH 04/08/2008 NOH vs. UTA L 14 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 2 0 0 5 2 3
+p62
+aVMorris Peterson NOH 04/08/2008 NOH vs. UTA L 19 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 0 1 0 0 1 -3
+p63
+aVJulian Wright NOH 04/08/2008 NOH vs. UTA L 16 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 3 1 0 3 0 10
+p64
+aVBonzi Wells NOH 04/08/2008 NOH vs. UTA L 26 6 2 6 33.3 0 0 - 2 3 66.7 1 1 2 0 3 0 2 1 -3
+p65
+aVMike James NOH 04/08/2008 NOH vs. UTA L 7 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 3
+p66
+aVJulian Wright NOH 04/06/2008 NOH vs. GSW W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 4
+p67
+aVChris Paul NOH 04/06/2008 NOH vs. GSW W 41 16 7 16 43.8 1 2 50.0 1 1 100.0 3 7 10 13 5 0 5 2 8
+p68
+aVBonzi Wells NOH 04/06/2008 NOH vs. GSW W 20 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 3 2 0 3 2 4
+p69
+aVJannero Pargo NOH 04/06/2008 NOH vs. GSW W 29 15 5 12 41.7 3 7 42.9 2 2 100.0 0 4 4 7 3 0 2 2 23
+p70
+aVRyan Bowen NOH 04/06/2008 NOH vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p71
+aVTyson Chandler NOH 04/06/2008 NOH vs. GSW W 35 11 5 8 62.5 0 0 - 1 4 25.0 3 9 12 0 0 0 4 4 5
+p72
+aVMorris Peterson NOH 04/06/2008 NOH vs. GSW W 15 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 1 -8
+p73
+aVPeja Stojakovic NOH 04/06/2008 NOH vs. GSW W 43 25 9 20 45.0 3 10 30.0 4 4 100.0 1 3 4 4 1 0 0 0 10
+p74
+aVHilton Armstrong NOH 04/06/2008 NOH vs. GSW W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 3
+p75
+aVDavid West NOH 04/06/2008 NOH vs. GSW W 39 25 12 18 66.7 0 0 - 1 2 50.0 3 6 9 2 3 2 2 3 13
+p76
+aVChris Paul NOH 04/04/2008 NOH vs. NYK W 43 33 10 19 52.6 1 2 50.0 12 13 92.3 0 4 4 15 2 0 2 3 15
+p77
+aVPeja Stojakovic NOH 04/04/2008 NOH vs. NYK W 41 22 9 19 47.4 4 10 40.0 0 0 - 0 4 4 1 1 0 0 0 18
+p78
+aVMorris Peterson NOH 04/04/2008 NOH vs. NYK W 22 11 4 6 66.7 2 4 50.0 1 2 50.0 1 1 2 1 1 0 0 2 12
+p79
+aVTyson Chandler NOH 04/04/2008 NOH vs. NYK W 38 14 5 7 71.4 0 0 - 4 4 100.0 4 4 8 3 3 3 1 1 12
+p80
+aVJulian Wright NOH 04/04/2008 NOH vs. NYK W 6 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -8
+p81
+aVBonzi Wells NOH 04/04/2008 NOH vs. NYK W 21 8 4 7 57.1 0 0 - 0 1 0.0 2 3 5 1 1 0 0 1 -4
+p82
+aVDavid West NOH 04/04/2008 NOH vs. NYK W 40 17 6 13 46.2 0 0 - 5 6 83.3 1 6 7 4 3 4 1 2 6
+p83
+aVHilton Armstrong NOH 04/04/2008 NOH vs. NYK W 13 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 5 -8
+p84
+aVJannero Pargo NOH 04/04/2008 NOH vs. NYK W 16 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 0 -3
+p85
+aVChris Paul NOH 04/02/2008 NOH @ MIA W 30 14 6 12 50.0 1 2 50.0 1 2 50.0 0 5 5 10 1 0 1 0 9
+p86
+aVMike James NOH 04/02/2008 NOH @ MIA W 5 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 8
+p87
+aVPeja Stojakovic NOH 04/02/2008 NOH @ MIA W 35 12 4 13 30.8 4 9 44.4 0 0 - 0 3 3 0 1 0 0 4 20
+p88
+aVJulian Wright NOH 04/02/2008 NOH @ MIA W 19 11 3 6 50.0 0 2 0.0 5 8 62.5 4 5 9 2 3 0 0 0 21
+p89
+aVTyson Chandler NOH 04/02/2008 NOH @ MIA W 34 20 10 10 100.0 0 0 - 0 3 0.0 1 9 10 2 1 1 1 0 18
+p90
+aVBonzi Wells NOH 04/02/2008 NOH @ MIA W 19 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 10
+p91
+aVDavid West NOH 04/02/2008 NOH @ MIA W 34 22 8 17 47.1 0 0 - 6 6 100.0 3 3 6 0 0 0 1 2 12
+p92
+aVJannero Pargo NOH 04/02/2008 NOH @ MIA W 18 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 6 0 0 2 5 20
+p93
+aVChris Andersen NOH 04/02/2008 NOH @ MIA W 4 3 1 3 33.3 0 0 - 1 1 100.0 2 4 6 0 0 1 0 1 9
+p94
+aVMorris Peterson NOH 04/02/2008 NOH @ MIA W 22 5 2 8 25.0 1 4 25.0 0 0 - 2 2 4 1 0 0 0 0 10
+p95
+aVRyan Bowen NOH 04/02/2008 NOH @ MIA W 9 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 6
+p96
+aVHilton Armstrong NOH 04/02/2008 NOH @ MIA W 10 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 0 1 0 0 4 2
+p97
+aVJannero Pargo NOH 04/01/2008 NOH @ ORL W 22 6 3 11 27.3 0 0 - 0 0 - 2 5 7 1 1 0 2 1 -5
+p98
+aVMorris Peterson NOH 04/01/2008 NOH @ ORL W 32 19 7 9 77.8 5 6 83.3 0 0 - 2 4 6 0 1 1 0 1 5
+p99
+aVBonzi Wells NOH 04/01/2008 NOH @ ORL W 19 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 1 1 0 1 1 -4
+p100
+aVDavid West NOH 04/01/2008 NOH @ ORL W 36 18 6 16 37.5 0 1 0.0 6 6 100.0 4 7 11 2 0 1 1 2 12
+p101
+aVJulian Wright NOH 04/01/2008 NOH @ ORL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -5
+p102
+aVTyson Chandler NOH 04/01/2008 NOH @ ORL W 33 12 5 7 71.4 0 0 - 2 2 100.0 6 1 7 0 0 1 2 5 2
+p103
+aVHilton Armstrong NOH 04/01/2008 NOH @ ORL W 15 5 2 5 40.0 0 0 - 1 4 25.0 5 2 7 1 0 0 0 4 -1
+p104
+aVPeja Stojakovic NOH 04/01/2008 NOH @ ORL W 39 10 2 11 18.2 1 5 20.0 5 5 100.0 0 7 7 1 0 0 1 1 -3
+p105
+aVChris Paul NOH 04/01/2008 NOH @ ORL W 40 19 6 19 31.6 0 4 0.0 7 10 70.0 1 3 4 12 2 0 4 3 4
+p106
+aVChris Paul NOH 03/30/2008 NOH @ TOR W 35 20 8 15 53.3 1 3 33.3 3 3 100.0 1 5 6 16 2 0 2 1 16
+p107
+aVChris Andersen NOH 03/30/2008 NOH @ TOR W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p108
+aVPeja Stojakovic NOH 03/30/2008 NOH @ TOR W 43 25 9 13 69.2 5 7 71.4 2 3 66.7 1 3 4 2 0 0 2 0 13
+p109
+aVMike James NOH 03/30/2008 NOH @ TOR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p110
+aVTyson Chandler NOH 03/30/2008 NOH @ TOR W 42 17 8 9 88.9 0 0 - 1 1 100.0 4 6 10 1 1 1 1 3 5
+p111
+aVBonzi Wells NOH 03/30/2008 NOH @ TOR W 17 12 6 11 54.5 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p112
+aVJulian Wright NOH 03/30/2008 NOH @ TOR W 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 0 -6
+p113
+aVDavid West NOH 03/30/2008 NOH @ TOR W 42 32 13 21 61.9 0 1 0.0 6 8 75.0 0 7 7 3 1 2 0 4 14
+p114
+aVJannero Pargo NOH 03/30/2008 NOH @ TOR W 16 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 3 1 0 1 1 -10
+p115
+aVMorris Peterson NOH 03/30/2008 NOH @ TOR W 24 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 0 0 1 1 0 21
+p116
+aVJulian Wright NOH 03/28/2008 NOH @ BOS L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 5
+p117
+aVJannero Pargo NOH 03/28/2008 NOH @ BOS L 25 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 2 0 0 0 2 -6
+p118
+aVPeja Stojakovic NOH 03/28/2008 NOH @ BOS L 37 17 5 14 35.7 3 11 27.3 4 5 80.0 2 3 5 1 0 0 1 4 -18
+p119
+aVMike James NOH 03/28/2008 NOH @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p120
+aVTyson Chandler NOH 03/28/2008 NOH @ BOS L 34 11 3 5 60.0 0 0 - 5 9 55.6 1 7 8 0 0 1 1 3 -24
+p121
+aVBonzi Wells NOH 03/28/2008 NOH @ BOS L 25 13 6 10 60.0 1 2 50.0 0 2 0.0 2 5 7 1 0 0 0 2 -7
+p122
+aVChris Andersen NOH 03/28/2008 NOH @ BOS L 12 0 0 3 0.0 0 0 - 0 2 0.0 0 1 1 0 0 2 0 2 2
+p123
+aVChris Paul NOH 03/28/2008 NOH @ BOS L 40 22 7 16 43.8 2 4 50.0 6 8 75.0 1 0 1 10 3 0 1 2 -25
+p124
+aVDavid West NOH 03/28/2008 NOH @ BOS L 38 14 7 13 53.8 0 0 - 0 0 - 0 4 4 3 1 1 3 5 -13
+p125
+aVRyan Bowen NOH 03/28/2008 NOH @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p126
+aVMorris Peterson NOH 03/28/2008 NOH @ BOS L 16 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 -12
+p127
+aVDavid West NOH 03/26/2008 NOH @ CLE W 41 20 7 19 36.8 0 0 - 6 6 100.0 2 4 6 4 0 1 3 2 -3
+p128
+aVMorris Peterson NOH 03/26/2008 NOH @ CLE W 19 5 2 4 50.0 1 3 33.3 0 0 - 1 1 2 0 0 0 0 0 -2
+p129
+aVPeja Stojakovic NOH 03/26/2008 NOH @ CLE W 44 25 8 16 50.0 6 9 66.7 3 3 100.0 0 3 3 1 2 0 0 2 3
+p130
+aVChris Andersen NOH 03/26/2008 NOH @ CLE W 7 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 0
+p131
+aVJulian Wright NOH 03/26/2008 NOH @ CLE W 8 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 1 2 2
+p132
+aVChris Paul NOH 03/26/2008 NOH @ CLE W 42 15 5 17 29.4 1 4 25.0 4 4 100.0 2 1 3 20 2 1 1 2 5
+p133
+aVTyson Chandler NOH 03/26/2008 NOH @ CLE W 38 13 5 7 71.4 0 0 - 3 4 75.0 4 7 11 0 1 1 2 5 2
+p134
+aVBonzi Wells NOH 03/26/2008 NOH @ CLE W 17 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 0 1 1 0 2 -5
+p135
+aVJannero Pargo NOH 03/26/2008 NOH @ CLE W 24 13 4 11 36.4 3 5 60.0 2 2 100.0 2 2 4 1 0 0 1 1 3
+p136
+aVChris Paul NOH 03/25/2008 NOH @ IND W 40 31 9 19 47.4 2 5 40.0 11 14 78.6 0 3 3 14 3 0 1 3 18
+p137
+aVTyson Chandler NOH 03/25/2008 NOH @ IND W 35 15 5 7 71.4 0 0 - 5 7 71.4 4 3 7 1 1 0 1 5 12
+p138
+aVMelvin Ely NOH 03/25/2008 NOH @ IND W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 1 0 2 4
+p139
+aVJannero Pargo NOH 03/25/2008 NOH @ IND W 8 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 1 0 0 2 0 -10
+p140
+aVDavid West NOH 03/25/2008 NOH @ IND W 42 35 14 24 58.3 0 0 - 7 7 100.0 4 12 16 1 3 2 2 2 23
+p141
+aVJulian Wright NOH 03/25/2008 NOH @ IND W 25 5 1 5 20.0 0 2 0.0 3 4 75.0 0 1 1 0 2 1 1 1 -2
+p142
+aVBonzi Wells NOH 03/25/2008 NOH @ IND W 23 9 3 6 50.0 0 0 - 3 4 75.0 0 2 2 1 0 1 1 1 -10
+p143
+aVChris Andersen NOH 03/25/2008 NOH @ IND W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -8
+p144
+aVMorris Peterson NOH 03/25/2008 NOH @ IND W 12 0 0 2 0.0 0 1 0.0 0 2 0.0 0 2 2 0 0 0 0 1 2
+p145
+aVPeja Stojakovic NOH 03/25/2008 NOH @ IND W 42 16 6 13 46.2 4 7 57.1 0 0 - 0 4 4 1 1 0 0 3 11
+p146
+aVBonzi Wells NOH 03/22/2008 NOH vs. BOS W 26 12 3 8 37.5 1 2 50.0 5 7 71.4 0 3 3 2 8 0 2 2 21
+p147
+aVJulian Wright NOH 03/22/2008 NOH vs. BOS W 17 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 2 2 1 1 1 10
+p148
+aVMelvin Ely NOH 03/22/2008 NOH vs. BOS W 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 0 4
+p149
+aVJannero Pargo NOH 03/22/2008 NOH vs. BOS W 20 15 6 10 60.0 3 5 60.0 0 0 - 1 2 3 6 0 0 2 1 5
+p150
+aVMorris Peterson NOH 03/22/2008 NOH vs. BOS W 16 5 1 3 33.3 1 3 33.3 2 2 100.0 1 1 2 1 0 0 0 2 -9
+p151
+aVTyson Chandler NOH 03/22/2008 NOH vs. BOS W 43 9 4 4 100.0 0 0 - 1 2 50.0 4 5 9 0 0 1 0 5 8
+p152
+aVPeja Stojakovic NOH 03/22/2008 NOH vs. BOS W 37 13 3 13 23.1 2 9 22.2 5 5 100.0 0 2 2 1 1 0 0 2 -6
+p153
+aVDavid West NOH 03/22/2008 NOH vs. BOS W 43 37 15 25 60.0 0 0 - 7 7 100.0 0 4 4 0 0 0 1 3 1
+p154
+aVChris Paul NOH 03/22/2008 NOH vs. BOS W 29 19 6 10 60.0 2 3 66.7 5 6 83.3 1 2 3 7 2 0 2 5 1
+p155
+aVChris Paul NOH 03/19/2008 NOH vs. HOU W 34 21 9 13 69.2 2 4 50.0 1 3 33.3 1 3 4 10 4 0 5 1 12
+p156
+aVRyan Bowen NOH 03/19/2008 NOH vs. HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p157
+aVJannero Pargo NOH 03/19/2008 NOH vs. HOU W 14 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 1 0 2 1 9
+p158
+aVMelvin Ely NOH 03/19/2008 NOH vs. HOU W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -2
+p159
+aVHilton Armstrong NOH 03/19/2008 NOH vs. HOU W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p160
+aVMike James NOH 03/19/2008 NOH vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 5
+p161
+aVMorris Peterson NOH 03/19/2008 NOH vs. HOU W 16 0 0 6 0.0 0 4 0.0 0 0 - 3 1 4 0 0 0 1 2 0
+p162
+aVPeja Stojakovic NOH 03/19/2008 NOH vs. HOU W 34 11 5 11 45.5 1 4 25.0 0 0 - 1 2 3 2 3 0 0 1 5
+p163
+aVJulian Wright NOH 03/19/2008 NOH vs. HOU W 24 6 3 5 60.0 0 0 - 0 2 0.0 1 3 4 3 0 0 0 3 21
+p164
+aVTyson Chandler NOH 03/19/2008 NOH vs. HOU W 39 2 1 3 33.3 0 0 - 0 0 - 1 14 15 0 1 4 1 4 19
+p165
+aVBonzi Wells NOH 03/19/2008 NOH vs. HOU W 27 25 9 12 75.0 1 1 100.0 6 7 85.7 0 2 2 0 2 3 1 1 16
+p166
+aVDavid West NOH 03/19/2008 NOH vs. HOU W 41 23 6 18 33.3 0 0 - 11 13 84.6 2 9 11 1 2 1 2 3 18
+p167
+aVMelvin Ely NOH 03/17/2008 NOH vs. CHI W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 6
+p168
+aVPeja Stojakovic NOH 03/17/2008 NOH vs. CHI W 45 21 6 19 31.6 3 11 27.3 6 6 100.0 4 6 10 2 1 0 2 2 12
+p169
+aVMorris Peterson NOH 03/17/2008 NOH vs. CHI W 24 4 2 5 40.0 0 2 0.0 0 2 0.0 0 4 4 0 0 0 0 0 -7
+p170
+aVRyan Bowen NOH 03/17/2008 NOH vs. CHI W 11 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 0 3 3 -12
+p171
+aVJannero Pargo NOH 03/17/2008 NOH vs. CHI W 24 5 2 5 40.0 0 1 0.0 1 1 100.0 0 2 2 4 2 0 0 5 16
+p172
+aVChris Paul NOH 03/17/2008 NOH vs. CHI W 42 37 15 21 71.4 2 3 66.7 5 7 71.4 1 3 4 13 3 0 2 1 12
+p173
+aVBonzi Wells NOH 03/17/2008 NOH vs. CHI W 27 19 6 13 46.2 0 0 - 7 8 87.5 3 1 4 2 1 1 1 3 23
+p174
+aVTyson Chandler NOH 03/17/2008 NOH vs. CHI W 43 8 3 8 37.5 0 0 - 2 4 50.0 3 8 11 0 0 1 2 4 5
+p175
+aVJulian Wright NOH 03/17/2008 NOH vs. CHI W 19 14 6 8 75.0 1 1 100.0 1 1 100.0 1 3 4 0 0 1 1 4 0
+p176
+aVMike James NOH 03/16/2008 NOH @ DET L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p177
+aVMorris Peterson NOH 03/16/2008 NOH @ DET L 24 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 1 0 -6
+p178
+aVTyson Chandler NOH 03/16/2008 NOH @ DET L 40 8 4 9 44.4 0 0 - 0 2 0.0 4 2 6 0 0 1 1 1 -14
+p179
+aVChris Paul NOH 03/16/2008 NOH @ DET L 39 14 6 12 50.0 1 3 33.3 1 2 50.0 2 2 4 14 1 0 4 5 -8
+p180
+aVJannero Pargo NOH 03/16/2008 NOH @ DET L 18 4 1 8 12.5 0 4 0.0 2 2 100.0 1 1 2 1 1 0 1 3 -19
+p181
+aVJulian Wright NOH 03/16/2008 NOH @ DET L 22 10 4 12 33.3 0 3 0.0 2 2 100.0 1 4 5 1 4 0 0 1 -17
+p182
+aVBonzi Wells NOH 03/16/2008 NOH @ DET L 19 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 0 1 0 1 3 -11
+p183
+aVRyan Bowen NOH 03/16/2008 NOH @ DET L 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -7
+p184
+aVPeja Stojakovic NOH 03/16/2008 NOH @ DET L 38 21 8 15 53.3 2 6 33.3 3 3 100.0 4 5 9 0 0 0 1 3 -12
+p185
+aVMelvin Ely NOH 03/16/2008 NOH @ DET L 28 15 7 11 63.6 0 0 - 1 3 33.3 3 2 5 0 0 0 1 0 -7
+p186
+aVPeja Stojakovic NOH 03/14/2008 NOH vs. LAL W 36 15 5 16 31.3 5 9 55.6 0 0 - 1 3 4 2 1 0 1 0 9
+p187
+aVMelvin Ely NOH 03/14/2008 NOH vs. LAL W 12 6 3 3 100.0 0 0 - 0 0 - 2 2 4 1 0 0 0 2 10
+p188
+aVRyan Bowen NOH 03/14/2008 NOH vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p189
+aVChris Paul NOH 03/14/2008 NOH vs. LAL W 43 27 9 19 47.4 2 5 40.0 7 12 58.3 0 4 4 17 4 0 2 4 12
+p190
+aVDavid West NOH 03/14/2008 NOH vs. LAL W 38 12 4 10 40.0 0 0 - 4 4 100.0 2 12 14 2 1 2 4 2 13
+p191
+aVJannero Pargo NOH 03/14/2008 NOH vs. LAL W 23 11 3 8 37.5 2 5 40.0 3 4 75.0 0 2 2 2 0 0 1 1 5
+p192
+aVTyson Chandler NOH 03/14/2008 NOH vs. LAL W 36 14 7 9 77.8 0 0 - 0 2 0.0 9 11 20 2 0 2 3 3 0
+p193
+aVJulian Wright NOH 03/14/2008 NOH vs. LAL W 19 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 0 1 0 3 0 -1
+p194
+aVBonzi Wells NOH 03/14/2008 NOH vs. LAL W 17 7 3 7 42.9 0 0 - 1 2 50.0 3 3 6 1 0 0 1 4 2
+p195
+aVMorris Peterson NOH 03/14/2008 NOH vs. LAL W 13 7 3 6 50.0 1 4 25.0 0 0 - 0 1 1 1 1 0 1 4 1
+p196
+aVMelvin Ely NOH 03/12/2008 NOH vs. SAS W 15 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 5
+p197
+aVBonzi Wells NOH 03/12/2008 NOH vs. SAS W 15 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 4 14
+p198
+aVJannero Pargo NOH 03/12/2008 NOH vs. SAS W 18 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 2 1 0 2 2 8
+p199
+aVJulian Wright NOH 03/12/2008 NOH vs. SAS W 18 4 2 4 50.0 0 0 - 0 0 - 3 4 7 1 1 0 2 1 4
+p200
+aVDavid West NOH 03/12/2008 NOH vs. SAS W 36 29 14 22 63.6 1 2 50.0 0 0 - 0 10 10 3 1 0 1 4 25
+p201
+aVMorris Peterson NOH 03/12/2008 NOH vs. SAS W 24 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 1 5
+p202
+aVHilton Armstrong NOH 03/12/2008 NOH vs. SAS W 4 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 3
+p203
+aVChris Paul NOH 03/12/2008 NOH vs. SAS W 35 26 12 19 63.2 0 1 0.0 2 2 100.0 0 1 1 17 3 0 3 1 20
+p204
+aVPeja Stojakovic NOH 03/12/2008 NOH vs. SAS W 33 9 4 9 44.4 1 2 50.0 0 0 - 0 3 3 0 0 0 0 0 20
+p205
+aVMike James NOH 03/12/2008 NOH vs. SAS W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p206
+aVRyan Bowen NOH 03/12/2008 NOH vs. SAS W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 1
+p207
+aVTyson Chandler NOH 03/12/2008 NOH vs. SAS W 29 4 1 2 50.0 0 0 - 2 2 100.0 1 9 10 3 0 2 1 4 17
+p208
+aVMorris Peterson NOH 03/08/2008 NOH @ HOU L 31 12 5 10 50.0 2 3 66.7 0 0 - 2 1 3 1 0 0 1 2 -1
+p209
+aVChris Paul NOH 03/08/2008 NOH @ HOU L 38 37 15 26 57.7 3 5 60.0 4 4 100.0 1 2 3 11 2 0 4 3 -13
+p210
+aVRyan Bowen NOH 03/08/2008 NOH @ HOU L 21 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 1 0 0 2 -9
+p211
+aVMelvin Ely NOH 03/08/2008 NOH @ HOU L 7 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -7
+p212
+aVMike James NOH 03/08/2008 NOH @ HOU L 5 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -8
+p213
+aVPeja Stojakovic NOH 03/08/2008 NOH @ HOU L 43 13 5 14 35.7 3 5 60.0 0 0 - 3 7 10 1 0 0 1 1 -2
+p214
+aVJulian Wright NOH 03/08/2008 NOH @ HOU L 28 9 4 8 50.0 1 2 50.0 0 0 - 2 0 2 2 1 0 1 0 -2
+p215
+aVTyson Chandler NOH 03/08/2008 NOH @ HOU L 41 15 7 15 46.7 0 0 - 1 6 16.7 4 12 16 2 0 2 2 2 -3
+p216
+aVJannero Pargo NOH 03/08/2008 NOH @ HOU L 26 7 3 13 23.1 1 4 25.0 0 0 - 1 3 4 2 3 1 0 1 -5
+p217
+aVPeja Stojakovic NOH 03/07/2008 NOH vs. NJN W 36 15 5 14 35.7 1 5 20.0 4 4 100.0 1 4 5 1 1 1 3 1 12
+p218
+aVJannero Pargo NOH 03/07/2008 NOH vs. NJN W 22 2 1 5 20.0 0 0 - 0 0 - 1 2 3 3 0 0 1 0 6
+p219
+aVTyson Chandler NOH 03/07/2008 NOH vs. NJN W 37 19 6 9 66.7 0 0 - 7 8 87.5 4 6 10 0 1 1 3 0 10
+p220
+aVJulian Wright NOH 03/07/2008 NOH vs. NJN W 29 20 8 9 88.9 1 1 100.0 3 4 75.0 1 7 8 1 2 0 0 2 6
+p221
+aVChris Paul NOH 03/07/2008 NOH vs. NJN W 42 25 7 14 50.0 0 3 0.0 11 11 100.0 0 3 3 16 3 0 1 2 9
+p222
+aVMike James NOH 03/07/2008 NOH vs. NJN W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p223
+aVMelvin Ely NOH 03/07/2008 NOH vs. NJN W 17 8 3 6 50.0 0 0 - 2 4 50.0 1 4 5 1 0 0 3 1 7
+p224
+aVMorris Peterson NOH 03/07/2008 NOH vs. NJN W 26 9 4 7 57.1 1 3 33.3 0 0 - 0 2 2 0 0 0 1 1 5
+p225
+aVRyan Bowen NOH 03/07/2008 NOH vs. NJN W 25 9 4 7 57.1 0 0 - 1 2 50.0 1 3 4 0 1 0 1 2 -2
+p226
+aVPeja Stojakovic NOH 03/05/2008 NOH vs. ATL W 39 29 10 19 52.6 7 11 63.6 2 2 100.0 1 8 9 4 1 0 2 3 16
+p227
+aVChris Paul NOH 03/05/2008 NOH vs. ATL W 38 23 9 16 56.3 3 4 75.0 2 2 100.0 1 1 2 18 2 0 1 0 17
+p228
+aVMelvin Ely NOH 03/05/2008 NOH vs. ATL W 9 4 2 3 66.7 0 0 - 0 2 0.0 1 2 3 1 1 0 1 2 7
+p229
+aVJannero Pargo NOH 03/05/2008 NOH vs. ATL W 30 22 9 18 50.0 3 7 42.9 1 1 100.0 1 2 3 3 1 0 1 3 17
+p230
+aVMike James NOH 03/05/2008 NOH vs. ATL W 10 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -2
+p231
+aVMorris Peterson NOH 03/05/2008 NOH vs. ATL W 18 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 1 1 0 0 1 -2
+p232
+aVJulian Wright NOH 03/05/2008 NOH vs. ATL W 22 13 6 11 54.5 1 2 50.0 0 0 - 4 3 7 2 0 0 0 4 11
+p233
+aVTyson Chandler NOH 03/05/2008 NOH vs. ATL W 39 14 6 15 40.0 0 0 - 2 2 100.0 11 5 16 1 0 2 2 3 8
+p234
+aVRyan Bowen NOH 03/05/2008 NOH vs. ATL W 34 8 4 8 50.0 0 0 - 0 0 - 1 1 2 4 1 0 1 1 3
+p235
+aVMorris Peterson NOH 03/03/2008 NOH @ NYK W 26 11 3 5 60.0 3 4 75.0 2 2 100.0 0 2 2 0 0 0 0 4 17
+p236
+aVTyson Chandler NOH 03/03/2008 NOH @ NYK W 37 15 6 9 66.7 0 0 - 3 4 75.0 4 14 18 1 0 0 1 3 16
+p237
+aVPeja Stojakovic NOH 03/03/2008 NOH @ NYK W 35 9 3 13 23.1 3 10 30.0 0 0 - 0 3 3 3 0 0 1 0 10
+p238
+aVJannero Pargo NOH 03/03/2008 NOH @ NYK W 21 7 3 10 30.0 1 3 33.3 0 0 - 1 0 1 2 0 0 1 1 -8
+p239
+aVMelvin Ely NOH 03/03/2008 NOH @ NYK W 14 3 1 4 25.0 0 0 - 1 2 50.0 2 5 7 1 0 2 1 4 -1
+p240
+aVDavid West NOH 03/03/2008 NOH @ NYK W 38 19 8 21 38.1 0 0 - 3 6 50.0 5 3 8 2 1 4 1 4 4
+p241
+aVChris Paul NOH 03/03/2008 NOH @ NYK W 36 27 11 17 64.7 2 3 66.7 3 4 75.0 0 5 5 8 3 0 2 1 8
+p242
+aVRyan Bowen NOH 03/03/2008 NOH @ NYK W 12 0 0 0 - 0 0 - 0 0 - 1 3 4 0 1 0 0 2 4
+p243
+aVMike James NOH 03/03/2008 NOH @ NYK W 14 7 3 5 60.0 1 3 33.3 0 0 - 2 1 3 0 0 0 0 0 7
+p244
+aVRasual Butler NOH 03/03/2008 NOH @ NYK W 7 2 0 4 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 0 0 3
+p245
+aVChris Paul NOH 03/02/2008 NOH @ WAS L 35 16 7 10 70.0 0 0 - 2 3 66.7 1 3 4 8 3 0 6 3 -10
+p246
+aVMelvin Ely NOH 03/02/2008 NOH @ WAS L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p247
+aVHilton Armstrong NOH 03/02/2008 NOH @ WAS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p248
+aVRasual Butler NOH 03/02/2008 NOH @ WAS L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p249
+aVMorris Peterson NOH 03/02/2008 NOH @ WAS L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 -5
+p250
+aVJannero Pargo NOH 03/02/2008 NOH @ WAS L 21 4 2 11 18.2 0 3 0.0 0 0 - 0 1 1 2 0 0 0 2 2
+p251
+aVRyan Bowen NOH 03/02/2008 NOH @ WAS L 13 0 0 3 0.0 0 0 - 0 0 - 4 1 5 0 0 1 0 2 -7
+p252
+aVPeja Stojakovic NOH 03/02/2008 NOH @ WAS L 38 17 5 13 38.5 4 8 50.0 3 3 100.0 1 6 7 1 0 0 1 1 -5
+p253
+aVMike James NOH 03/02/2008 NOH @ WAS L 19 12 4 7 57.1 1 4 25.0 3 3 100.0 0 2 2 1 0 0 2 2 -21
+p254
+aVTyson Chandler NOH 03/02/2008 NOH @ WAS L 33 12 5 8 62.5 0 0 - 2 4 50.0 4 4 8 4 1 1 1 5 -12
+p255
+aVBonzi Wells NOH 03/02/2008 NOH @ WAS L 8 2 1 3 33.3 0 0 - 0 0 - 3 3 6 0 0 0 1 0 -10
+p256
+aVDavid West NOH 03/02/2008 NOH @ WAS L 38 14 5 17 29.4 0 0 - 4 4 100.0 3 6 9 1 0 1 4 4 -5
+p257
+aVMorris Peterson NOH 02/29/2008 NOH vs. UTA W 24 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 1 1 0 0 0 -5
+p258
+aVPeja Stojakovic NOH 02/29/2008 NOH vs. UTA W 42 20 8 16 50.0 3 7 42.9 1 1 100.0 0 4 4 0 1 1 0 2 11
+p259
+aVTyson Chandler NOH 02/29/2008 NOH vs. UTA W 37 10 3 6 50.0 0 0 - 4 6 66.7 2 5 7 1 1 0 2 2 10
+p260
+aVRasual Butler NOH 02/29/2008 NOH vs. UTA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 1
+p261
+aVHilton Armstrong NOH 02/29/2008 NOH vs. UTA W 11 6 1 2 50.0 0 0 - 4 4 100.0 1 1 2 1 0 1 0 2 2
+p262
+aVDavid West NOH 02/29/2008 NOH vs. UTA W 42 25 10 18 55.6 0 0 - 5 6 83.3 4 9 13 3 0 1 3 3 15
+p263
+aVRyan Bowen NOH 02/29/2008 NOH vs. UTA W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p264
+aVJannero Pargo NOH 02/29/2008 NOH vs. UTA W 24 15 6 12 50.0 3 6 50.0 0 0 - 0 2 2 2 0 0 0 3 17
+p265
+aVChris Paul NOH 02/29/2008 NOH vs. UTA W 42 24 5 15 33.3 1 2 50.0 13 14 92.9 0 4 4 16 5 0 1 3 10
+p266
+aVMike James NOH 02/29/2008 NOH vs. UTA W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p267
+aVPeja Stojakovic NOH 02/27/2008 NOH vs. PHX W 38 17 6 12 50.0 2 6 33.3 3 3 100.0 0 4 4 3 1 0 1 1 24
+p268
+aVMelvin Ely NOH 02/27/2008 NOH vs. PHX W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p269
+aVRyan Bowen NOH 02/27/2008 NOH vs. PHX W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -1
+p270
+aVJulian Wright NOH 02/27/2008 NOH vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p271
+aVMorris Peterson NOH 02/27/2008 NOH vs. PHX W 21 11 5 5 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 9
+p272
+aVJannero Pargo NOH 02/27/2008 NOH vs. PHX W 30 22 9 15 60.0 3 4 75.0 1 1 100.0 0 1 1 2 2 0 2 5 7
+p273
+aVChris Paul NOH 02/27/2008 NOH vs. PHX W 36 25 9 21 42.9 2 3 66.7 5 6 83.3 0 6 6 15 3 0 1 2 19
+p274
+aVMike James NOH 02/27/2008 NOH vs. PHX W 12 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 1 2 0 1 1 -2
+p275
+aVHilton Armstrong NOH 02/27/2008 NOH vs. PHX W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p276
+aVTyson Chandler NOH 02/27/2008 NOH vs. PHX W 31 12 6 7 85.7 0 0 - 0 0 - 4 11 15 2 2 1 2 5 20
+p277
+aVRasual Butler NOH 02/27/2008 NOH vs. PHX W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p278
+aVDavid West NOH 02/27/2008 NOH vs. PHX W 39 27 11 22 50.0 0 0 - 5 6 83.3 1 3 4 1 2 1 2 4 20
+p279
+aVDavid West NOH 02/25/2008 NOH vs. WAS L 40 13 4 11 36.4 0 0 - 5 6 83.3 0 8 8 4 1 0 5 2 -3
+p280
+aVHilton Armstrong NOH 02/25/2008 NOH vs. WAS L 14 4 1 2 50.0 0 0 - 2 5 40.0 1 2 3 0 0 0 2 2 -7
+p281
+aVPeja Stojakovic NOH 02/25/2008 NOH vs. WAS L 37 11 4 16 25.0 3 11 27.3 0 0 - 2 2 4 1 0 0 2 1 -2
+p282
+aVTyson Chandler NOH 02/25/2008 NOH vs. WAS L 33 4 2 4 50.0 0 0 - 0 2 0.0 4 7 11 2 0 1 1 6 5
+p283
+aVRyan Bowen NOH 02/25/2008 NOH vs. WAS L 8 0 0 1 0.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 1 2
+p284
+aVBonzi Wells NOH 02/25/2008 NOH vs. WAS L 13 5 2 6 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -4
+p285
+aVMike James NOH 02/25/2008 NOH vs. WAS L 10 7 3 5 60.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 1 2 -4
+p286
+aVJannero Pargo NOH 02/25/2008 NOH vs. WAS L 17 8 3 9 33.3 2 4 50.0 0 0 - 0 2 2 1 0 0 0 0 -4
+p287
+aVChris Paul NOH 02/25/2008 NOH vs. WAS L 41 22 10 14 71.4 2 3 66.7 0 1 0.0 1 4 5 8 2 0 4 1 -1
+p288
+aVMorris Peterson NOH 02/25/2008 NOH vs. WAS L 28 18 6 7 85.7 3 4 75.0 3 5 60.0 1 6 7 1 0 0 0 0 3
+p289
+aVMorris Peterson NOH 02/23/2008 NOH @ SAS L 20 9 3 7 42.9 3 3 100.0 0 0 - 0 1 1 0 0 0 0 2 -1
+p290
+aVMike James NOH 02/23/2008 NOH @ SAS L 16 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 0
+p291
+aVChris Paul NOH 02/23/2008 NOH @ SAS L 37 27 11 23 47.8 1 6 16.7 4 4 100.0 0 4 4 4 1 0 0 0 -11
+p292
+aVJannero Pargo NOH 02/23/2008 NOH @ SAS L 15 9 4 8 50.0 1 3 33.3 0 0 - 1 3 4 2 0 0 2 1 -1
+p293
+aVHilton Armstrong NOH 02/23/2008 NOH @ SAS L 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 6 2
+p294
+aVRyan Bowen NOH 02/23/2008 NOH @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p295
+aVDavid West NOH 02/23/2008 NOH @ SAS L 42 16 6 14 42.9 0 0 - 4 6 66.7 2 4 6 4 1 0 1 5 -6
+p296
+aVPeja Stojakovic NOH 02/23/2008 NOH @ SAS L 38 11 3 9 33.3 1 4 25.0 4 6 66.7 1 3 4 1 0 0 0 1 -8
+p297
+aVBonzi Wells NOH 02/23/2008 NOH @ SAS L 19 2 1 7 14.3 0 0 - 0 0 - 0 3 3 1 2 1 3 1 -6
+p298
+aVTyson Chandler NOH 02/23/2008 NOH @ SAS L 37 8 3 5 60.0 0 0 - 2 3 66.7 2 8 10 1 1 1 1 5 -11
+p299
+aVJannero Pargo NOH 02/22/2008 NOH vs. HOU L 16 2 1 9 11.1 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 -2
+p300
+aVMorris Peterson NOH 02/22/2008 NOH vs. HOU L 21 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 0 0 0 1 3 -16
+p301
+aVPeja Stojakovic NOH 02/22/2008 NOH vs. HOU L 31 8 3 10 30.0 1 3 33.3 1 1 100.0 1 0 1 1 0 0 0 0 -18
+p302
+aVChris Paul NOH 02/22/2008 NOH vs. HOU L 32 14 6 13 46.2 0 2 0.0 2 2 100.0 1 2 3 11 3 0 0 2 -18
+p303
+aVDavid West NOH 02/22/2008 NOH vs. HOU L 33 20 7 17 41.2 0 0 - 6 7 85.7 3 7 10 1 0 1 2 1 -24
+p304
+aVJulian Wright NOH 02/22/2008 NOH vs. HOU L 7 10 5 6 83.3 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 7
+p305
+aVHilton Armstrong NOH 02/22/2008 NOH vs. HOU L 16 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 1 2 1 1 1
+p306
+aVTyson Chandler NOH 02/22/2008 NOH vs. HOU L 32 9 4 6 66.7 0 0 - 1 4 25.0 1 8 9 2 0 1 4 5 -21
+p307
+aVRyan Bowen NOH 02/22/2008 NOH vs. HOU L 17 3 1 2 50.0 0 0 - 1 3 33.3 1 1 2 0 1 0 0 2 1
+p308
+aVRasual Butler NOH 02/22/2008 NOH vs. HOU L 20 6 2 6 33.3 1 2 50.0 1 2 50.0 0 1 1 0 0 3 0 3 -11
+p309
+aVMelvin Ely NOH 02/22/2008 NOH vs. HOU L 14 4 1 3 33.3 0 0 - 2 4 50.0 1 1 2 2 0 0 1 0 1
+p310
+aVJulian Wright NOH 02/20/2008 NOH vs. DAL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p311
+aVHilton Armstrong NOH 02/20/2008 NOH vs. DAL W 16 5 1 3 33.3 0 0 - 3 5 60.0 1 2 3 0 0 0 0 4 9
+p312
+aVJannero Pargo NOH 02/20/2008 NOH vs. DAL W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 4 1 -6
+p313
+aVBobby Jackson NOH 02/20/2008 NOH vs. DAL W 27 17 6 11 54.5 5 9 55.6 0 0 - 0 4 4 2 2 0 2 1 12
+p314
+aVRasual Butler NOH 02/20/2008 NOH vs. DAL W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p315
+aVTyson Chandler NOH 02/20/2008 NOH vs. DAL W 34 8 2 3 66.7 0 0 - 4 6 66.7 4 5 9 0 0 0 2 3 1
+p316
+aVPeja Stojakovic NOH 02/20/2008 NOH vs. DAL W 38 18 6 12 50.0 3 4 75.0 3 3 100.0 1 4 5 1 0 0 3 2 16
+p317
+aVMorris Peterson NOH 02/20/2008 NOH vs. DAL W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 1
+p318
+aVChris Paul NOH 02/20/2008 NOH vs. DAL W 41 31 11 20 55.0 2 3 66.7 7 7 100.0 0 5 5 11 9 0 1 1 20
+p319
+aVDavid West NOH 02/20/2008 NOH vs. DAL W 35 18 6 14 42.9 0 0 - 6 9 66.7 4 4 8 2 0 0 1 5 14
+p320
+aVRyan Bowen NOH 02/20/2008 NOH vs. DAL W 14 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 2 3
+p321
+aVPeja Stojakovic NOH 02/13/2008 NOH @ MIL W 35 19 7 11 63.6 3 3 100.0 2 2 100.0 1 3 4 0 0 0 1 1 5
+p322
+aVBobby Jackson NOH 02/13/2008 NOH @ MIL W 20 11 4 7 57.1 3 4 75.0 0 0 - 0 1 1 0 0 0 0 2 4
+p323
+aVChris Paul NOH 02/13/2008 NOH @ MIL W 35 21 8 17 47.1 2 4 50.0 3 4 75.0 1 3 4 10 3 0 3 1 5
+p324
+aVDavid West NOH 02/13/2008 NOH @ MIL W 42 22 9 20 45.0 0 0 - 4 4 100.0 1 7 8 3 0 1 5 4 4
+p325
+aVJannero Pargo NOH 02/13/2008 NOH @ MIL W 16 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 3 0 0 1 1 0
+p326
+aVHilton Armstrong NOH 02/13/2008 NOH @ MIL W 11 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 1 0 1 2 4
+p327
+aVRasual Butler NOH 02/13/2008 NOH @ MIL W 32 10 4 6 66.7 0 2 0.0 2 2 100.0 0 2 2 3 0 0 0 2 -4
+p328
+aVTyson Chandler NOH 02/13/2008 NOH @ MIL W 36 15 5 7 71.4 0 0 - 5 7 71.4 4 12 16 1 1 0 2 4 0
+p329
+aVRyan Bowen NOH 02/13/2008 NOH @ MIL W 12 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 2
+p330
+aVDavid West NOH 02/12/2008 NOH @ CHI W 44 27 11 20 55.0 0 2 0.0 5 7 71.4 3 4 7 3 1 2 6 3 16
+p331
+aVRasual Butler NOH 02/12/2008 NOH @ CHI W 24 7 2 6 33.3 1 2 50.0 2 2 100.0 2 2 4 0 0 0 0 1 18
+p332
+aVHilton Armstrong NOH 02/12/2008 NOH @ CHI W 13 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 2 1 1 -12
+p333
+aVTyson Chandler NOH 02/12/2008 NOH @ CHI W 39 4 2 5 40.0 0 0 - 0 4 0.0 4 12 16 1 3 3 0 2 24
+p334
+aVRyan Bowen NOH 02/12/2008 NOH @ CHI W 21 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 2 2 3 1
+p335
+aVPeja Stojakovic NOH 02/12/2008 NOH @ CHI W 38 27 9 15 60.0 6 9 66.7 3 3 100.0 0 3 3 0 2 0 1 3 21
+p336
+aVChris Paul NOH 02/12/2008 NOH @ CHI W 39 25 11 21 52.4 1 4 25.0 2 2 100.0 0 4 4 14 2 0 1 2 22
+p337
+aVJannero Pargo NOH 02/12/2008 NOH @ CHI W 13 4 1 6 16.7 0 1 0.0 2 2 100.0 1 1 2 1 1 0 0 1 -13
+p338
+aVBobby Jackson NOH 02/12/2008 NOH @ CHI W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p339
+aVHilton Armstrong NOH 02/09/2008 NOH vs. MEM W 32 11 5 8 62.5 0 0 - 1 2 50.0 1 2 3 1 1 2 1 5 31
+p340
+aVDavid West NOH 02/09/2008 NOH vs. MEM W 37 33 13 20 65.0 0 0 - 7 8 87.5 5 5 10 2 0 1 3 5 6
+p341
+aVMelvin Ely NOH 02/09/2008 NOH vs. MEM W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -12
+p342
+aVJulian Wright NOH 02/09/2008 NOH vs. MEM W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 2
+p343
+aVBobby Jackson NOH 02/09/2008 NOH vs. MEM W 17 6 2 4 50.0 0 2 0.0 2 2 100.0 2 3 5 2 1 1 1 0 9
+p344
+aVRasual Butler NOH 02/09/2008 NOH vs. MEM W 25 10 4 12 33.3 2 6 33.3 0 0 - 0 4 4 2 0 2 1 0 5
+p345
+aVJannero Pargo NOH 02/09/2008 NOH vs. MEM W 23 13 3 8 37.5 0 1 0.0 7 7 100.0 0 2 2 3 2 0 0 0 -2
+p346
+aVPeja Stojakovic NOH 02/09/2008 NOH vs. MEM W 40 26 10 19 52.6 6 12 50.0 0 0 - 1 4 5 3 3 0 1 2 17
+p347
+aVRyan Bowen NOH 02/09/2008 NOH vs. MEM W 23 9 3 3 100.0 0 0 - 3 4 75.0 3 1 4 0 2 0 0 2 1
+p348
+aVChris Paul NOH 02/09/2008 NOH vs. MEM W 34 2 1 10 10.0 0 4 0.0 0 0 - 0 4 4 16 1 0 4 5 8
+p349
+aVMorris Peterson NOH 02/06/2008 NOH @ PHX W 19 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 2 0 1 1 -6
+p350
+aVMelvin Ely NOH 02/06/2008 NOH @ PHX W 18 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 2 5 6
+p351
+aVRasual Butler NOH 02/06/2008 NOH @ PHX W 5 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -7
+p352
+aVHilton Armstrong NOH 02/06/2008 NOH @ PHX W 24 6 3 6 50.0 0 0 - 0 0 - 1 6 7 0 0 0 2 4 -2
+p353
+aVDavid West NOH 02/06/2008 NOH @ PHX W 53 21 8 24 33.3 0 1 0.0 5 5 100.0 4 9 13 0 2 2 3 3 6
+p354
+aVBobby Jackson NOH 02/06/2008 NOH @ PHX W 31 6 2 5 40.0 2 4 50.0 0 0 - 1 2 3 3 0 0 0 5 -5
+p355
+aVRyan Bowen NOH 02/06/2008 NOH @ PHX W 10 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 1 0 0 1 -6
+p356
+aVPeja Stojakovic NOH 02/06/2008 NOH @ PHX W 48 26 12 19 63.2 2 3 66.7 0 0 - 1 5 6 0 1 0 0 0 10
+p357
+aVJannero Pargo NOH 02/06/2008 NOH @ PHX W 31 22 8 14 57.1 0 3 0.0 6 6 100.0 1 3 4 0 0 0 0 2 3
+p358
+aVChris Paul NOH 02/06/2008 NOH @ PHX W 50 42 18 33 54.5 4 9 44.4 2 3 66.7 2 3 5 9 8 0 1 2 11
+p359
+aVRyan Bowen NOH 02/04/2008 NOH @ UTA L 13 2 0 0 - 0 0 - 2 2 100.0 2 2 4 0 0 0 0 1 -9
+p360
+aVBobby Jackson NOH 02/04/2008 NOH @ UTA L 14 4 1 3 33.3 1 1 100.0 1 2 50.0 1 1 2 2 0 0 1 1 3
+p361
+aVJannero Pargo NOH 02/04/2008 NOH @ UTA L 27 24 9 14 64.3 3 5 60.0 3 4 75.0 0 1 1 1 2 0 2 4 -11
+p362
+aVChris Paul NOH 02/04/2008 NOH @ UTA L 27 6 3 11 27.3 0 2 0.0 0 1 0.0 2 2 4 6 1 0 5 5 -23
+p363
+aVMelvin Ely NOH 02/04/2008 NOH @ UTA L 15 4 2 4 50.0 0 0 - 0 0 - 0 5 5 1 0 0 0 2 -2
+p364
+aVMorris Peterson NOH 02/04/2008 NOH @ UTA L 28 16 5 10 50.0 4 6 66.7 2 4 50.0 2 0 2 0 0 1 1 3 -13
+p365
+aVTyson Chandler NOH 02/04/2008 NOH @ UTA L 33 8 2 4 50.0 0 0 - 4 6 66.7 2 9 11 2 1 0 4 4 -20
+p366
+aVDavid West NOH 02/04/2008 NOH @ UTA L 35 12 4 12 33.3 0 0 - 4 4 100.0 0 4 4 1 1 3 3 3 -13
+p367
+aVJulian Wright NOH 02/04/2008 NOH @ UTA L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 2
+p368
+aVPeja Stojakovic NOH 02/04/2008 NOH @ UTA L 35 12 5 9 55.6 2 3 66.7 0 0 - 0 3 3 3 1 0 2 1 -13
+p369
+aVRasual Butler NOH 02/04/2008 NOH @ UTA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p370
+aVJannero Pargo NOH 02/01/2008 NOH @ SAC L 17 8 3 9 33.3 2 5 40.0 0 0 - 0 2 2 0 0 0 3 1 -9
+p371
+aVDavid West NOH 02/01/2008 NOH @ SAC L 45 12 4 10 40.0 0 0 - 4 4 100.0 0 4 4 3 2 3 5 4 -6
+p372
+aVBobby Jackson NOH 02/01/2008 NOH @ SAC L 9 3 1 5 20.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p373
+aVPeja Stojakovic NOH 02/01/2008 NOH @ SAC L 44 25 9 20 45.0 7 13 53.8 0 0 - 2 7 9 2 1 0 1 1 -2
+p374
+aVMelvin Ely NOH 02/01/2008 NOH @ SAC L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -14
+p375
+aVTyson Chandler NOH 02/01/2008 NOH @ SAC L 38 21 9 12 75.0 0 0 - 3 7 42.9 3 6 9 0 0 1 1 4 3
+p376
+aVHilton Armstrong NOH 02/01/2008 NOH @ SAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p377
+aVChris Paul NOH 02/01/2008 NOH @ SAC L 39 15 5 11 45.5 2 4 50.0 3 4 75.0 2 3 5 19 1 0 5 4 -5
+p378
+aVMorris Peterson NOH 02/01/2008 NOH @ SAC L 31 15 5 8 62.5 2 5 40.0 3 3 100.0 0 7 7 0 2 0 0 3 -2
+p379
+aVRyan Bowen NOH 02/01/2008 NOH @ SAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p380
+aVRyan Bowen NOH 01/30/2008 NOH vs. GSW L 13 2 1 1 100.0 0 0 - 0 0 - 2 3 5 1 1 0 0 1 1
+p381
+aVMelvin Ely NOH 01/30/2008 NOH vs. GSW L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 4
+p382
+aVHilton Armstrong NOH 01/30/2008 NOH vs. GSW L 2 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 6
+p383
+aVDavid West NOH 01/30/2008 NOH vs. GSW L 40 24 9 22 40.9 0 0 - 6 8 75.0 5 8 13 4 1 5 2 1 -23
+p384
+aVChris Paul NOH 01/30/2008 NOH vs. GSW L 46 28 12 24 50.0 1 5 20.0 3 4 75.0 1 1 2 12 2 0 1 5 -16
+p385
+aVTyson Chandler NOH 01/30/2008 NOH vs. GSW L 37 11 5 10 50.0 0 0 - 1 2 50.0 7 7 14 0 0 0 1 2 -14
+p386
+aVPeja Stojakovic NOH 01/30/2008 NOH vs. GSW L 41 20 6 15 40.0 3 7 42.9 5 6 83.3 3 7 10 2 0 0 0 4 -19
+p387
+aVJannero Pargo NOH 01/30/2008 NOH vs. GSW L 44 11 5 15 33.3 1 6 16.7 0 0 - 1 0 1 6 2 0 0 2 -17
+p388
+aVJulian Wright NOH 01/30/2008 NOH vs. GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p389
+aVRasual Butler NOH 01/30/2008 NOH vs. GSW L 11 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 7
+p390
+aVDavid West NOH 01/28/2008 NOH vs. DEN W 30 13 5 10 50.0 0 0 - 3 4 75.0 2 7 9 0 0 0 0 3 6
+p391
+aVPeja Stojakovic NOH 01/28/2008 NOH vs. DEN W 29 19 6 12 50.0 4 8 50.0 3 3 100.0 0 2 2 1 2 0 4 3 15
+p392
+aVRasual Butler NOH 01/28/2008 NOH vs. DEN W 10 0 0 3 0.0 0 3 0.0 0 0 - 1 0 1 0 1 0 0 0 1
+p393
+aVRyan Bowen NOH 01/28/2008 NOH vs. DEN W 18 8 4 7 57.1 0 0 - 0 1 0.0 2 1 3 1 3 0 0 1 18
+p394
+aVHilton Armstrong NOH 01/28/2008 NOH vs. DEN W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -1
+p395
+aVJulian Wright NOH 01/28/2008 NOH vs. DEN W 6 6 3 3 100.0 0 0 - 0 1 0.0 0 0 0 1 0 1 0 0 -1
+p396
+aVTyson Chandler NOH 01/28/2008 NOH vs. DEN W 31 10 4 5 80.0 0 0 - 2 2 100.0 8 8 16 3 0 1 0 1 21
+p397
+aVMelvin Ely NOH 01/28/2008 NOH vs. DEN W 22 16 7 9 77.8 0 0 - 2 2 100.0 0 9 9 1 0 0 1 3 15
+p398
+aVMorris Peterson NOH 01/28/2008 NOH vs. DEN W 18 5 1 3 33.3 1 3 33.3 2 2 100.0 0 0 0 1 0 0 3 5 -3
+p399
+aVChris Paul NOH 01/28/2008 NOH vs. DEN W 38 23 7 20 35.0 1 2 50.0 8 8 100.0 3 6 9 17 2 1 3 1 23
+p400
+aVJannero Pargo NOH 01/28/2008 NOH vs. DEN W 30 13 6 13 46.2 1 4 25.0 0 0 - 1 1 2 7 1 0 3 5 27
+p401
+aVMarcus Vinicius NOH 01/28/2008 NOH vs. DEN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p402
+aVRasual Butler NOH 01/26/2008 NOH @ SAS W 13 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p403
+aVHilton Armstrong NOH 01/26/2008 NOH @ SAS W 15 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 1 1 1 2 -7
+p404
+aVTyson Chandler NOH 01/26/2008 NOH @ SAS W 33 8 4 7 57.1 0 0 - 0 0 - 3 9 12 0 0 1 2 3 31
+p405
+aVMelvin Ely NOH 01/26/2008 NOH @ SAS W 9 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -6
+p406
+aVChris Paul NOH 01/26/2008 NOH @ SAS W 38 17 8 16 50.0 0 3 0.0 1 2 50.0 1 3 4 11 1 0 4 3 30
+p407
+aVDavid West NOH 01/26/2008 NOH @ SAS W 39 32 15 19 78.9 0 0 - 2 3 66.7 0 7 7 1 0 1 1 2 30
+p408
+aVRyan Bowen NOH 01/26/2008 NOH @ SAS W 13 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 2 0 0 0 9
+p409
+aVJulian Wright NOH 01/26/2008 NOH @ SAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p410
+aVPeja Stojakovic NOH 01/26/2008 NOH @ SAS W 32 22 9 14 64.3 4 6 66.7 0 0 - 0 5 5 1 0 0 0 0 17
+p411
+aVMorris Peterson NOH 01/26/2008 NOH @ SAS W 23 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 2 0 0 0 0 7
+p412
+aVJannero Pargo NOH 01/26/2008 NOH @ SAS W 22 8 3 9 33.3 2 6 33.3 0 0 - 0 1 1 2 0 0 1 1 16
+p413
+aVMorris Peterson NOH 01/25/2008 NOH vs. LAC W 22 11 4 8 50.0 1 3 33.3 2 3 66.7 1 1 2 4 0 0 2 4 -8
+p414
+aVChris Paul NOH 01/25/2008 NOH vs. LAC W 36 8 3 12 25.0 0 2 0.0 2 2 100.0 1 4 5 14 2 0 0 1 10
+p415
+aVJannero Pargo NOH 01/25/2008 NOH vs. LAC W 24 14 6 8 75.0 2 3 66.7 0 0 - 0 2 2 1 2 0 1 4 20
+p416
+aVDavid West NOH 01/25/2008 NOH vs. LAC W 36 14 4 15 26.7 0 1 0.0 6 6 100.0 3 8 11 4 3 0 2 1 19
+p417
+aVMelvin Ely NOH 01/25/2008 NOH vs. LAC W 16 2 1 4 25.0 0 0 - 0 0 - 0 5 5 0 0 0 2 3 9
+p418
+aVPeja Stojakovic NOH 01/25/2008 NOH vs. LAC W 34 26 10 16 62.5 6 9 66.7 0 0 - 1 2 3 2 0 0 1 0 11
+p419
+aVMarcus Vinicius NOH 01/25/2008 NOH vs. LAC W 3 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p420
+aVHilton Armstrong NOH 01/25/2008 NOH vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 2 1 1
+p421
+aVJulian Wright NOH 01/25/2008 NOH vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p422
+aVRasual Butler NOH 01/25/2008 NOH vs. LAC W 19 12 4 9 44.4 4 5 80.0 0 0 - 2 3 5 0 0 3 0 1 17
+p423
+aVRyan Bowen NOH 01/25/2008 NOH vs. LAC W 13 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 2 7
+p424
+aVTyson Chandler NOH 01/25/2008 NOH vs. LAC W 32 11 5 11 45.5 0 0 - 1 2 50.0 6 7 13 0 2 0 0 1 9
+p425
+aVMorris Peterson NOH 01/23/2008 NOH vs. POR W 17 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 4 1 0 2 2 -7
+p426
+aVMelvin Ely NOH 01/23/2008 NOH vs. POR W 15 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 1 0 1 9
+p427
+aVChris Paul NOH 01/23/2008 NOH vs. POR W 37 18 6 14 42.9 2 5 40.0 4 4 100.0 1 2 3 10 1 0 1 2 8
+p428
+aVPeja Stojakovic NOH 01/23/2008 NOH vs. POR W 33 12 5 11 45.5 1 4 25.0 1 2 50.0 0 6 6 0 0 0 0 0 7
+p429
+aVDavid West NOH 01/23/2008 NOH vs. POR W 37 22 7 15 46.7 0 0 - 8 9 88.9 1 4 5 3 1 0 1 5 13
+p430
+aVTyson Chandler NOH 01/23/2008 NOH vs. POR W 44 9 3 4 75.0 0 0 - 3 7 42.9 7 7 14 1 0 1 2 2 8
+p431
+aVRasual Butler NOH 01/23/2008 NOH vs. POR W 18 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 0 15
+p432
+aVRyan Bowen NOH 01/23/2008 NOH vs. POR W 15 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 8
+p433
+aVJannero Pargo NOH 01/23/2008 NOH vs. POR W 24 24 10 18 55.6 2 6 33.3 2 2 100.0 2 0 2 5 0 1 1 1 14
+p434
+aVRyan Bowen NOH 01/21/2008 NOH vs. MIL W 13 2 1 1 100.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 3 15
+p435
+aVChris Paul NOH 01/21/2008 NOH vs. MIL W 40 16 6 13 46.2 0 1 0.0 4 4 100.0 0 7 7 10 1 0 0 3 18
+p436
+aVDavid West NOH 01/21/2008 NOH vs. MIL W 38 16 5 16 31.3 0 0 - 6 6 100.0 3 5 8 5 2 2 2 1 7
+p437
+aVHilton Armstrong NOH 01/21/2008 NOH vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p438
+aVJannero Pargo NOH 01/21/2008 NOH vs. MIL W 23 9 3 11 27.3 1 5 20.0 2 2 100.0 0 1 1 6 1 0 1 1 11
+p439
+aVRasual Butler NOH 01/21/2008 NOH vs. MIL W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p440
+aVMelvin Ely NOH 01/21/2008 NOH vs. MIL W 17 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 14
+p441
+aVTyson Chandler NOH 01/21/2008 NOH vs. MIL W 36 20 9 11 81.8 0 0 - 2 5 40.0 8 7 15 1 1 0 2 3 17
+p442
+aVJulian Wright NOH 01/21/2008 NOH vs. MIL W 3 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -5
+p443
+aVMorris Peterson NOH 01/21/2008 NOH vs. MIL W 29 14 4 9 44.4 4 7 57.1 2 3 66.7 2 2 4 2 0 1 0 2 4
+p444
+aVPeja Stojakovic NOH 01/21/2008 NOH vs. MIL W 32 18 7 14 50.0 4 8 50.0 0 0 - 1 4 5 1 0 0 0 3 4
+p445
+aVMarcus Vinicius NOH 01/21/2008 NOH vs. MIL W 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 1 0 0 0 -5
+p446
+aVBobby Jackson NOH 01/18/2008 NOH vs. CHA W 12 7 3 6 50.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 0 2
+p447
+aVMarcus Vinicius NOH 01/18/2008 NOH vs. CHA W 6 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 6
+p448
+aVTyson Chandler NOH 01/18/2008 NOH vs. CHA W 30 13 5 8 62.5 0 0 - 3 5 60.0 1 9 10 2 0 1 2 2 24
+p449
+aVPeja Stojakovic NOH 01/18/2008 NOH vs. CHA W 28 17 5 8 62.5 5 7 71.4 2 2 100.0 0 3 3 3 3 0 0 1 18
+p450
+aVMorris Peterson NOH 01/18/2008 NOH vs. CHA W 27 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 1 0 0 2 21
+p451
+aVHilton Armstrong NOH 01/18/2008 NOH vs. CHA W 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 1 3 4 1 0
+p452
+aVJannero Pargo NOH 01/18/2008 NOH vs. CHA W 18 4 2 4 50.0 0 0 - 0 0 - 0 3 3 7 0 0 0 0 7
+p453
+aVMelvin Ely NOH 01/18/2008 NOH vs. CHA W 20 11 4 6 66.7 0 0 - 3 5 60.0 0 2 2 0 0 1 0 2 8
+p454
+aVDavid West NOH 01/18/2008 NOH vs. CHA W 32 28 13 18 72.2 0 0 - 2 3 66.7 1 6 7 1 0 1 0 0 25
+p455
+aVRyan Bowen NOH 01/18/2008 NOH vs. CHA W 17 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 3
+p456
+aVChris Paul NOH 01/18/2008 NOH vs. CHA W 30 14 7 11 63.6 0 1 0.0 0 0 - 1 3 4 13 1 0 4 1 21
+p457
+aVRasual Butler NOH 01/18/2008 NOH vs. CHA W 10 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 2 1 0 0 0 5
+p458
+aVMarcus Vinicius NOH 01/16/2008 NOH vs. SEA W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 8
+p459
+aVDavid West NOH 01/16/2008 NOH vs. SEA W 26 19 8 17 47.1 0 0 - 3 4 75.0 3 8 11 3 0 0 0 4 7
+p460
+aVTyson Chandler NOH 01/16/2008 NOH vs. SEA W 37 14 7 9 77.8 0 0 - 0 4 0.0 5 16 21 1 2 1 1 0 14
+p461
+aVMorris Peterson NOH 01/16/2008 NOH vs. SEA W 21 3 1 9 11.1 1 5 20.0 0 0 - 0 1 1 1 0 0 0 1 2
+p462
+aVMelvin Ely NOH 01/16/2008 NOH vs. SEA W 24 8 4 9 44.4 0 0 - 0 1 0.0 1 2 3 1 0 2 1 1 30
+p463
+aVRasual Butler NOH 01/16/2008 NOH vs. SEA W 8 8 2 4 50.0 0 0 - 4 4 100.0 0 4 4 1 1 0 1 2 11
+p464
+aVRyan Bowen NOH 01/16/2008 NOH vs. SEA W 13 2 1 1 100.0 0 0 - 0 0 - 2 0 2 2 0 0 0 0 8
+p465
+aVPeja Stojakovic NOH 01/16/2008 NOH vs. SEA W 30 23 6 11 54.5 4 6 66.7 7 7 100.0 1 3 4 1 0 0 1 1 15
+p466
+aVChris Paul NOH 01/16/2008 NOH vs. SEA W 30 12 6 13 46.2 0 2 0.0 0 0 - 1 2 3 11 1 0 4 1 15
+p467
+aVBobby Jackson NOH 01/16/2008 NOH vs. SEA W 20 13 5 9 55.6 3 4 75.0 0 0 - 0 1 1 6 0 0 0 0 18
+p468
+aVJannero Pargo NOH 01/16/2008 NOH vs. SEA W 18 18 7 9 77.8 3 3 100.0 1 1 100.0 0 1 1 4 2 1 3 2 16
+p469
+aVHilton Armstrong NOH 01/16/2008 NOH vs. SEA W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 2 1 0 11
+p470
+aVChris Paul NOH 01/13/2008 NOH @ HOU W 38 19 7 14 50.0 1 3 33.3 4 4 100.0 0 3 3 11 2 0 6 1 10
+p471
+aVMelvin Ely NOH 01/13/2008 NOH @ HOU W 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -12
+p472
+aVMorris Peterson NOH 01/13/2008 NOH @ HOU W 21 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 0 1 0 0 1 11
+p473
+aVTyson Chandler NOH 01/13/2008 NOH @ HOU W 40 7 3 9 33.3 0 0 - 1 2 50.0 5 9 14 2 2 1 1 6 12
+p474
+aVRyan Bowen NOH 01/13/2008 NOH @ HOU W 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 2 0 0 3 -13
+p475
+aVDavid West NOH 01/13/2008 NOH @ HOU W 39 26 12 27 44.4 0 0 - 2 2 100.0 4 8 12 2 1 1 1 1 4
+p476
+aVBobby Jackson NOH 01/13/2008 NOH @ HOU W 17 9 4 7 57.1 1 3 33.3 0 0 - 0 0 0 0 1 0 1 0 -9
+p477
+aVRasual Butler NOH 01/13/2008 NOH @ HOU W 6 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 9
+p478
+aVJannero Pargo NOH 01/13/2008 NOH @ HOU W 19 10 4 8 50.0 2 2 100.0 0 0 - 0 1 1 1 1 0 2 0 4
+p479
+aVPeja Stojakovic NOH 01/13/2008 NOH @ HOU W 26 2 0 5 0.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 3 9
+p480
+aVRasual Butler NOH 01/11/2008 NOH vs. MIA W 5 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 0 -4
+p481
+aVMorris Peterson NOH 01/11/2008 NOH vs. MIA W 13 3 1 4 25.0 1 4 25.0 0 0 - 1 0 1 0 0 0 1 2 -10
+p482
+aVBobby Jackson NOH 01/11/2008 NOH vs. MIA W 25 25 9 9 100.0 7 7 100.0 0 0 - 0 4 4 4 0 0 0 3 42
+p483
+aVPeja Stojakovic NOH 01/11/2008 NOH vs. MIA W 28 15 6 10 60.0 2 5 40.0 1 2 50.0 0 4 4 0 0 0 0 0 12
+p484
+aVMarcus Vinicius NOH 01/11/2008 NOH vs. MIA W 5 1 0 1 0.0 0 0 - 1 3 33.3 1 0 1 0 0 0 0 1 -4
+p485
+aVRyan Bowen NOH 01/11/2008 NOH vs. MIA W 20 6 3 4 75.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 14
+p486
+aVHilton Armstrong NOH 01/11/2008 NOH vs. MIA W 5 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 2 0 0 -4
+p487
+aVMelvin Ely NOH 01/11/2008 NOH vs. MIA W 21 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 1 0 1 3 29
+p488
+aVDavid West NOH 01/11/2008 NOH vs. MIA W 34 11 5 12 41.7 0 0 - 1 1 100.0 1 9 10 5 1 2 1 2 20
+p489
+aVJannero Pargo NOH 01/11/2008 NOH vs. MIA W 19 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 7 1 0 1 2 3
+p490
+aVTyson Chandler NOH 01/11/2008 NOH vs. MIA W 30 19 8 13 61.5 0 0 - 3 4 75.0 2 4 6 2 1 2 2 1 11
+p491
+aVChris Paul NOH 01/11/2008 NOH vs. MIA W 33 16 7 7 100.0 2 2 100.0 0 0 - 0 2 2 16 1 0 5 2 21
+p492
+aVMarcus Vinicius NOH 01/09/2008 NOH vs. LAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p493
+aVJulian Wright NOH 01/09/2008 NOH vs. LAL L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p494
+aVJannero Pargo NOH 01/09/2008 NOH vs. LAL L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 1 0 0 1 1 -17
+p495
+aVMorris Peterson NOH 01/09/2008 NOH vs. LAL L 23 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 2 -6
+p496
+aVHilton Armstrong NOH 01/09/2008 NOH vs. LAL L 6 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 3 2 -6
+p497
+aVBobby Jackson NOH 01/09/2008 NOH vs. LAL L 16 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 1 0 0 1 1 -4
+p498
+aVDavid West NOH 01/09/2008 NOH vs. LAL L 35 19 7 17 41.2 0 0 - 5 6 83.3 4 5 9 3 0 1 1 2 -8
+p499
+aVTyson Chandler NOH 01/09/2008 NOH vs. LAL L 37 11 4 8 50.0 0 0 - 3 4 75.0 3 4 7 0 0 0 2 3 -26
+p500
+aVPeja Stojakovic NOH 01/09/2008 NOH vs. LAL L 30 9 4 11 36.4 1 4 25.0 0 0 - 2 2 4 0 0 0 0 0 -13
+p501
+aVMelvin Ely NOH 01/09/2008 NOH vs. LAL L 13 3 1 3 33.3 0 0 - 1 4 25.0 1 4 5 1 0 0 2 0 -14
+p502
+aVRyan Bowen NOH 01/09/2008 NOH vs. LAL L 16 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 1 -14
+p503
+aVChris Paul NOH 01/09/2008 NOH vs. LAL L 38 32 13 23 56.5 0 1 0.0 6 8 75.0 1 2 3 5 1 0 1 3 -26
+p504
+aVMarcus Vinicius NOH 01/05/2008 NOH @ PHX W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p505
+aVTyson Chandler NOH 01/05/2008 NOH @ PHX W 38 19 8 17 47.1 0 0 - 3 4 75.0 6 5 11 0 2 0 1 3 9
+p506
+aVBobby Jackson NOH 01/05/2008 NOH @ PHX W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p507
+aVMorris Peterson NOH 01/05/2008 NOH @ PHX W 39 22 7 10 70.0 5 6 83.3 3 3 100.0 2 5 7 2 0 0 1 3 5
+p508
+aVHilton Armstrong NOH 01/05/2008 NOH @ PHX W 10 4 2 5 40.0 0 0 - 0 0 - 3 0 3 0 0 2 1 4 -4
+p509
+aVJannero Pargo NOH 01/05/2008 NOH @ PHX W 35 19 8 12 66.7 1 3 33.3 2 4 50.0 1 1 2 5 1 0 1 3 13
+p510
+aVRyan Bowen NOH 01/05/2008 NOH @ PHX W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -3
+p511
+aVPeja Stojakovic NOH 01/05/2008 NOH @ PHX W 43 23 10 20 50.0 3 8 37.5 0 0 - 0 6 6 1 1 0 1 2 13
+p512
+aVChris Paul NOH 01/05/2008 NOH @ PHX W 48 28 11 26 42.3 1 7 14.3 5 6 83.3 2 3 5 10 3 0 1 2 5
+p513
+aVChris Paul NOH 01/04/2008 NOH @ GSW W 36 24 10 20 50.0 2 5 40.0 2 3 66.7 0 0 0 13 5 0 2 4 18
+p514
+aVJannero Pargo NOH 01/04/2008 NOH @ GSW W 14 7 2 8 25.0 0 2 0.0 3 3 100.0 1 0 1 2 2 0 2 3 -14
+p515
+aVPeja Stojakovic NOH 01/04/2008 NOH @ GSW W 41 24 7 15 46.7 6 9 66.7 4 4 100.0 1 6 7 1 0 0 1 3 9
+p516
+aVMarcus Vinicius NOH 01/04/2008 NOH @ GSW W 7 4 1 3 33.3 1 2 50.0 1 2 50.0 0 3 3 0 0 0 0 0 3
+p517
+aVDavid West NOH 01/04/2008 NOH @ GSW W 33 20 8 14 57.1 0 0 - 4 5 80.0 0 4 4 3 0 0 3 3 14
+p518
+aVRyan Bowen NOH 01/04/2008 NOH @ GSW W 18 0 0 0 - 0 0 - 0 0 - 3 1 4 2 1 0 0 3 2
+p519
+aVHilton Armstrong NOH 01/04/2008 NOH @ GSW W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p520
+aVTyson Chandler NOH 01/04/2008 NOH @ GSW W 41 22 9 11 81.8 0 0 - 4 6 66.7 8 14 22 1 0 1 1 3 18
+p521
+aVBobby Jackson NOH 01/04/2008 NOH @ GSW W 17 0 0 6 0.0 0 2 0.0 0 0 - 1 0 1 1 1 0 0 1 0
+p522
+aVMorris Peterson NOH 01/04/2008 NOH @ GSW W 31 15 6 12 50.0 3 7 42.9 0 0 - 0 2 2 3 1 0 1 3 14
+p523
+aVMarcus Vinicius NOH 01/02/2008 NOH @ LAC W 16 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 1 3 0 -1
+p524
+aVPeja Stojakovic NOH 01/02/2008 NOH @ LAC W 34 16 5 15 33.3 4 10 40.0 2 2 100.0 0 6 6 1 0 1 0 2 12
+p525
+aVBobby Jackson NOH 01/02/2008 NOH @ LAC W 22 8 2 5 40.0 1 2 50.0 3 3 100.0 0 2 2 2 1 1 1 1 14
+p526
+aVDavid West NOH 01/02/2008 NOH @ LAC W 44 29 12 21 57.1 0 1 0.0 5 5 100.0 0 10 10 1 1 0 1 2 16
+p527
+aVHilton Armstrong NOH 01/02/2008 NOH @ LAC W 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 0
+p528
+aVChris Paul NOH 01/02/2008 NOH @ LAC W 39 16 3 10 30.0 0 1 0.0 10 10 100.0 0 4 4 13 1 0 1 3 12
+p529
+aVTyson Chandler NOH 01/02/2008 NOH @ LAC W 38 14 5 11 45.5 0 0 - 4 5 80.0 5 10 15 1 0 1 3 4 15
+p530
+aVMorris Peterson NOH 01/02/2008 NOH @ LAC W 35 7 3 9 33.3 1 4 25.0 0 0 - 1 6 7 1 1 0 0 2 2
+p531
+aVChris Paul NOH 12/31/2007 NOH vs. TOR L 44 23 8 16 50.0 0 1 0.0 7 11 63.6 1 6 7 16 2 0 1 4 0
+p532
+aVBobby Jackson NOH 12/31/2007 NOH vs. TOR L 19 2 1 4 25.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 0 -7
+p533
+aVTyson Chandler NOH 12/31/2007 NOH vs. TOR L 31 5 2 4 50.0 0 0 - 1 2 50.0 2 4 6 2 1 1 2 6 4
+p534
+aVJulian Wright NOH 12/31/2007 NOH vs. TOR L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p535
+aVMorris Peterson NOH 12/31/2007 NOH vs. TOR L 28 6 2 9 22.2 2 8 25.0 0 0 - 0 0 0 0 2 0 1 2 0
+p536
+aVDavid West NOH 12/31/2007 NOH vs. TOR L 43 33 15 21 71.4 0 0 - 3 3 100.0 5 6 11 4 0 0 6 3 -4
+p537
+aVRasual Butler NOH 12/31/2007 NOH vs. TOR L 14 2 1 6 16.7 0 4 0.0 0 0 - 1 3 4 1 0 0 0 0 3
+p538
+aVHilton Armstrong NOH 12/31/2007 NOH vs. TOR L 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 4 -9
+p539
+aVJannero Pargo NOH 12/31/2007 NOH vs. TOR L 6 2 1 7 14.3 0 3 0.0 0 0 - 0 0 0 0 1 0 1 0 -3
+p540
+aVPeja Stojakovic NOH 12/31/2007 NOH vs. TOR L 37 19 6 14 42.9 3 9 33.3 4 4 100.0 0 10 10 0 0 0 0 2 -6
+p541
+aVChris Paul NOH 12/29/2007 NOH vs. CLE W 40 20 6 18 33.3 0 3 0.0 8 10 80.0 2 4 6 9 7 0 3 2 17
+p542
+aVTyson Chandler NOH 12/29/2007 NOH vs. CLE W 42 11 4 4 100.0 0 0 - 3 4 75.0 3 9 12 1 0 2 2 3 15
+p543
+aVJannero Pargo NOH 12/29/2007 NOH vs. CLE W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -7
+p544
+aVRasual Butler NOH 12/29/2007 NOH vs. CLE W 15 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 0 0 1 0 2 -4
+p545
+aVPeja Stojakovic NOH 12/29/2007 NOH vs. CLE W 33 10 4 11 36.4 2 6 33.3 0 0 - 0 0 0 3 2 0 0 3 14
+p546
+aVDavid West NOH 12/29/2007 NOH vs. CLE W 43 27 11 19 57.9 0 0 - 5 6 83.3 5 10 15 1 1 1 1 2 20
+p547
+aVJulian Wright NOH 12/29/2007 NOH vs. CLE W 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -10
+p548
+aVBobby Jackson NOH 12/29/2007 NOH vs. CLE W 16 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 1 0 2 1 -2
+p549
+aVMorris Peterson NOH 12/29/2007 NOH vs. CLE W 32 9 3 11 27.3 3 10 30.0 0 0 - 0 5 5 1 0 0 0 2 12
+p550
+aVHilton Armstrong NOH 12/29/2007 NOH vs. CLE W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p551
+aVJannero Pargo NOH 12/28/2007 NOH @ CHA W 14 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -6
+p552
+aVBobby Jackson NOH 12/28/2007 NOH @ CHA W 21 11 4 10 40.0 2 5 40.0 1 1 100.0 0 2 2 2 2 0 1 0 -1
+p553
+aVRasual Butler NOH 12/28/2007 NOH @ CHA W 19 5 1 5 20.0 1 3 33.3 2 2 100.0 0 3 3 1 1 0 0 3 -7
+p554
+aVPeja Stojakovic NOH 12/28/2007 NOH @ CHA W 29 9 4 12 33.3 1 6 16.7 0 0 - 1 1 2 1 2 0 1 2 21
+p555
+aVHilton Armstrong NOH 12/28/2007 NOH @ CHA W 15 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 2 0 0 5 2 1
+p556
+aVJulian Wright NOH 12/28/2007 NOH @ CHA W 12 4 2 5 40.0 0 0 - 0 1 0.0 0 0 0 0 1 0 0 1 -4
+p557
+aVMorris Peterson NOH 12/28/2007 NOH @ CHA W 27 8 3 9 33.3 1 5 20.0 1 2 50.0 2 2 4 0 0 0 1 3 15
+p558
+aVChris Paul NOH 12/28/2007 NOH @ CHA W 34 17 4 12 33.3 1 1 100.0 8 9 88.9 0 2 2 11 1 0 0 1 20
+p559
+aVTyson Chandler NOH 12/28/2007 NOH @ CHA W 33 17 7 8 87.5 0 0 - 3 4 75.0 4 13 17 0 0 0 2 3 13
+p560
+aVDavid West NOH 12/28/2007 NOH @ CHA W 36 20 9 15 60.0 0 0 - 2 2 100.0 3 7 10 4 1 4 2 2 18
+p561
+aVRasual Butler NOH 12/26/2007 NOH @ MEM W 15 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 1 0 1 0 0 7
+p562
+aVTyson Chandler NOH 12/26/2007 NOH @ MEM W 41 12 5 7 71.4 0 0 - 2 2 100.0 3 10 13 2 1 1 1 2 13
+p563
+aVBobby Jackson NOH 12/26/2007 NOH @ MEM W 22 7 3 7 42.9 1 4 25.0 0 0 - 0 0 0 2 0 0 1 1 6
+p564
+aVJulian Wright NOH 12/26/2007 NOH @ MEM W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -2
+p565
+aVMarcus Vinicius NOH 12/26/2007 NOH @ MEM W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p566
+aVDavid West NOH 12/26/2007 NOH @ MEM W 36 20 9 13 69.2 0 0 - 2 2 100.0 4 5 9 3 0 3 4 4 19
+p567
+aVHilton Armstrong NOH 12/26/2007 NOH @ MEM W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 1 0 1 5
+p568
+aVPeja Stojakovic NOH 12/26/2007 NOH @ MEM W 36 21 7 14 50.0 5 11 45.5 2 3 66.7 0 2 2 1 1 1 2 1 10
+p569
+aVJannero Pargo NOH 12/26/2007 NOH @ MEM W 16 9 4 6 66.7 0 0 - 1 2 50.0 0 1 1 1 3 0 0 0 8
+p570
+aVMorris Peterson NOH 12/26/2007 NOH @ MEM W 19 0 0 5 0.0 0 5 0.0 0 0 - 0 2 2 1 1 0 0 2 6
+p571
+aVChris Paul NOH 12/26/2007 NOH @ MEM W 36 40 17 25 68.0 5 8 62.5 1 1 100.0 0 5 5 9 5 0 1 3 16
+p572
+aVTyson Chandler NOH 12/22/2007 NOH vs. MIN W 29 4 2 4 50.0 0 0 - 0 0 - 3 11 14 0 1 3 1 0 19
+p573
+aVJulian Wright NOH 12/22/2007 NOH vs. MIN W 17 8 4 4 100.0 0 0 - 0 0 - 0 7 7 1 1 2 0 0 3
+p574
+aVChris Paul NOH 12/22/2007 NOH vs. MIN W 30 19 6 11 54.5 0 1 0.0 7 8 87.5 0 2 2 15 5 0 1 0 32
+p575
+aVBobby Jackson NOH 12/22/2007 NOH vs. MIN W 19 9 3 7 42.9 0 2 0.0 3 4 75.0 1 1 2 3 2 0 1 0 6
+p576
+aVHilton Armstrong NOH 12/22/2007 NOH vs. MIN W 19 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 0 1 1 1 3 15
+p577
+aVDavid West NOH 12/22/2007 NOH vs. MIN W 31 22 9 12 75.0 0 0 - 4 4 100.0 3 4 7 0 0 1 1 3 31
+p578
+aVMorris Peterson NOH 12/22/2007 NOH vs. MIN W 26 10 4 13 30.8 1 4 25.0 1 1 100.0 0 0 0 2 1 0 1 1 22
+p579
+aVPeja Stojakovic NOH 12/22/2007 NOH vs. MIN W 26 11 5 8 62.5 1 4 25.0 0 0 - 0 2 2 1 2 0 1 3 21
+p580
+aVRasual Butler NOH 12/22/2007 NOH vs. MIN W 19 5 2 5 40.0 1 4 25.0 0 0 - 0 5 5 2 0 0 1 1 7
+p581
+aVMarcus Vinicius NOH 12/22/2007 NOH vs. MIN W 5 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 9
+p582
+aVJannero Pargo NOH 12/22/2007 NOH vs. MIN W 19 13 6 12 50.0 1 3 33.3 0 0 - 0 1 1 4 1 0 1 1 5
+p583
+aVDavid West NOH 12/19/2007 NOH @ SEA W 43 17 8 20 40.0 0 0 - 1 2 50.0 2 9 11 6 0 5 3 3 12
+p584
+aVChris Paul NOH 12/19/2007 NOH @ SEA W 37 21 10 19 52.6 1 2 50.0 0 0 - 1 2 3 15 4 0 3 2 15
+p585
+aVJannero Pargo NOH 12/19/2007 NOH @ SEA W 11 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -1
+p586
+aVTyson Chandler NOH 12/19/2007 NOH @ SEA W 37 16 8 10 80.0 0 0 - 0 1 0.0 7 10 17 2 2 1 2 5 16
+p587
+aVBobby Jackson NOH 12/19/2007 NOH @ SEA W 10 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 1 3 -7
+p588
+aVRasual Butler NOH 12/19/2007 NOH @ SEA W 40 17 7 17 41.2 3 9 33.3 0 0 - 1 1 2 0 2 1 0 2 17
+p589
+aVJulian Wright NOH 12/19/2007 NOH @ SEA W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -4
+p590
+aVMorris Peterson NOH 12/19/2007 NOH @ SEA W 38 25 9 14 64.3 7 10 70.0 0 0 - 1 2 3 1 2 0 1 2 21
+p591
+aVHilton Armstrong NOH 12/19/2007 NOH @ SEA W 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 1 0 1
+p592
+aVMorris Peterson NOH 12/17/2007 NOH @ POR L 25 6 2 7 28.6 0 5 0.0 2 4 50.0 0 4 4 1 0 0 0 4 -4
+p593
+aVJulian Wright NOH 12/17/2007 NOH @ POR L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 0 1 1 0 -5
+p594
+aVDavid West NOH 12/17/2007 NOH @ POR L 39 21 8 19 42.1 0 0 - 5 6 83.3 4 2 6 1 0 2 4 2 -11
+p595
+aVHilton Armstrong NOH 12/17/2007 NOH @ POR L 13 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 0 -5
+p596
+aVJannero Pargo NOH 12/17/2007 NOH @ POR L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 0 -4
+p597
+aVChris Paul NOH 12/17/2007 NOH @ POR L 41 11 5 15 33.3 1 5 20.0 0 0 - 0 4 4 8 3 0 4 4 -8
+p598
+aVRasual Butler NOH 12/17/2007 NOH @ POR L 35 10 4 11 36.4 2 9 22.2 0 0 - 0 4 4 1 0 1 1 5 -7
+p599
+aVTyson Chandler NOH 12/17/2007 NOH @ POR L 43 16 8 8 100.0 0 0 - 0 0 - 12 7 19 1 1 1 2 5 -8
+p600
+aVBobby Jackson NOH 12/17/2007 NOH @ POR L 23 3 1 7 14.3 1 6 16.7 0 0 - 1 2 3 2 1 0 0 1 -8
+p601
+aVJulian Wright NOH 12/15/2007 NOH vs. PHX W 19 0 0 5 0.0 0 0 - 0 0 - 0 5 5 3 0 0 1 1 14
+p602
+aVDavid West NOH 12/15/2007 NOH vs. PHX W 42 15 6 16 37.5 0 0 - 3 3 100.0 3 8 11 3 1 1 5 3 -2
+p603
+aVMorris Peterson NOH 12/15/2007 NOH vs. PHX W 30 21 6 14 42.9 4 6 66.7 5 6 83.3 1 2 3 1 1 0 0 1 9
+p604
+aVChris Paul NOH 12/15/2007 NOH vs. PHX W 38 21 8 20 40.0 3 6 50.0 2 2 100.0 0 2 2 10 2 0 1 0 0
+p605
+aVHilton Armstrong NOH 12/15/2007 NOH vs. PHX W 13 11 5 7 71.4 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -2
+p606
+aVBobby Jackson NOH 12/15/2007 NOH vs. PHX W 18 7 2 8 25.0 1 4 25.0 2 2 100.0 0 2 2 1 0 0 1 1 -6
+p607
+aVTyson Chandler NOH 12/15/2007 NOH vs. PHX W 35 14 6 12 50.0 0 0 - 2 3 66.7 8 10 18 1 1 0 2 2 5
+p608
+aVRasual Butler NOH 12/15/2007 NOH vs. PHX W 36 12 4 7 57.1 4 6 66.7 0 0 - 0 5 5 1 0 0 1 2 -6
+p609
+aVJannero Pargo NOH 12/15/2007 NOH vs. PHX W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 1 3
+p610
+aVJulian Wright NOH 12/14/2007 NOH @ DAL L 10 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 1 0 0 0 -1
+p611
+aVRasual Butler NOH 12/14/2007 NOH @ DAL L 23 7 2 7 28.6 1 4 25.0 2 2 100.0 0 1 1 1 0 0 0 2 -11
+p612
+aVJannero Pargo NOH 12/14/2007 NOH @ DAL L 15 3 0 6 0.0 0 1 0.0 3 4 75.0 1 1 2 1 0 0 1 3 -11
+p613
+aVTyson Chandler NOH 12/14/2007 NOH @ DAL L 38 15 7 12 58.3 0 0 - 1 1 100.0 4 7 11 0 0 0 3 3 -8
+p614
+aVDavid West NOH 12/14/2007 NOH @ DAL L 41 7 2 10 20.0 0 1 0.0 3 4 75.0 5 8 13 3 0 1 3 3 -5
+p615
+aVHilton Armstrong NOH 12/14/2007 NOH @ DAL L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -3
+p616
+aVPeja Stojakovic NOH 12/14/2007 NOH @ DAL L 25 10 4 11 36.4 2 5 40.0 0 0 - 1 4 5 1 1 0 0 2 1
+p617
+aVMorris Peterson NOH 12/14/2007 NOH @ DAL L 23 5 1 6 16.7 0 2 0.0 3 4 75.0 0 3 3 3 4 0 1 3 7
+p618
+aVChris Paul NOH 12/14/2007 NOH @ DAL L 40 22 9 21 42.9 1 4 25.0 3 3 100.0 2 2 4 3 1 0 2 4 -4
+p619
+aVBobby Jackson NOH 12/14/2007 NOH @ DAL L 19 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 0 2 0 1 1 -10
+p620
+aVRasual Butler NOH 12/12/2007 NOH @ DEN L 42 18 6 11 54.5 4 7 57.1 2 3 66.7 2 3 5 3 0 2 0 3 -6
+p621
+aVBobby Jackson NOH 12/12/2007 NOH @ DEN L 21 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 1 1 0 1 3 -8
+p622
+aVChris Paul NOH 12/12/2007 NOH @ DEN L 37 30 12 20 60.0 1 6 16.7 5 6 83.3 0 4 4 12 1 0 5 4 -5
+p623
+aVDavid West NOH 12/12/2007 NOH @ DEN L 42 25 12 23 52.2 0 2 0.0 1 1 100.0 3 13 16 5 0 1 5 3 -7
+p624
+aVJannero Pargo NOH 12/12/2007 NOH @ DEN L 38 10 4 17 23.5 1 3 33.3 1 1 100.0 0 2 2 2 0 0 2 4 1
+p625
+aVTyson Chandler NOH 12/12/2007 NOH @ DEN L 30 5 2 4 50.0 0 0 - 1 2 50.0 6 3 9 0 1 0 3 5 -14
+p626
+aVJulian Wright NOH 12/12/2007 NOH @ DEN L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 4
+p627
+aVHilton Armstrong NOH 12/12/2007 NOH @ DEN L 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 0
+p628
+aVMelvin Ely NOH 12/12/2007 NOH @ DEN L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 1 5
+p629
+aVMelvin Ely NOH 12/09/2007 NOH vs. SEA W 13 7 2 5 40.0 0 0 - 3 6 50.0 2 1 3 0 0 2 1 1 -2
+p630
+aVJulian Wright NOH 12/09/2007 NOH vs. SEA W 38 6 3 7 42.9 0 0 - 0 2 0.0 1 5 6 3 1 0 1 1 8
+p631
+aVChris Paul NOH 12/09/2007 NOH vs. SEA W 35 29 10 16 62.5 1 3 33.3 8 9 88.9 0 0 0 10 2 0 2 1 -4
+p632
+aVJannero Pargo NOH 12/09/2007 NOH vs. SEA W 13 5 2 7 28.6 0 0 - 1 3 33.3 0 2 2 4 1 0 2 1 9
+p633
+aVHilton Armstrong NOH 12/09/2007 NOH vs. SEA W 12 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 8
+p634
+aVTyson Chandler NOH 12/09/2007 NOH vs. SEA W 36 10 5 5 100.0 0 0 - 0 2 0.0 1 6 7 0 0 3 2 1 -5
+p635
+aVRasual Butler NOH 12/09/2007 NOH vs. SEA W 35 7 3 11 27.3 1 4 25.0 0 0 - 0 6 6 0 2 0 1 6 1
+p636
+aVDavid West NOH 12/09/2007 NOH vs. SEA W 35 15 7 18 38.9 0 0 - 1 3 33.3 1 9 10 0 0 2 2 4 5
+p637
+aVBobby Jackson NOH 12/09/2007 NOH vs. SEA W 23 6 2 8 25.0 0 4 0.0 2 2 100.0 3 3 6 1 0 0 0 1 -5
+p638
+aVBobby Jackson NOH 12/07/2007 NOH vs. MEM W 19 5 2 8 25.0 1 4 25.0 0 0 - 2 2 4 4 2 0 1 1 12
+p639
+aVMelvin Ely NOH 12/07/2007 NOH vs. MEM W 12 3 1 4 25.0 0 0 - 1 3 33.3 0 1 1 1 0 2 1 2 11
+p640
+aVRasual Butler NOH 12/07/2007 NOH vs. MEM W 18 4 2 5 40.0 0 2 0.0 0 0 - 1 0 1 2 1 1 0 2 7
+p641
+aVJannero Pargo NOH 12/07/2007 NOH vs. MEM W 30 6 3 8 37.5 0 0 - 0 0 - 0 1 1 5 2 0 2 4 -9
+p642
+aVChris Paul NOH 12/07/2007 NOH vs. MEM W 49 43 15 27 55.6 5 7 71.4 8 9 88.9 1 4 5 9 4 0 3 2 0
+p643
+aVPeja Stojakovic NOH 12/07/2007 NOH vs. MEM W 17 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 1 3
+p644
+aVDavid West NOH 12/07/2007 NOH vs. MEM W 41 27 9 19 47.4 1 2 50.0 8 9 88.9 4 5 9 1 1 1 3 5 -9
+p645
+aVHilton Armstrong NOH 12/07/2007 NOH vs. MEM W 9 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 3 6
+p646
+aVJulian Wright NOH 12/07/2007 NOH vs. MEM W 21 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 -12
+p647
+aVTyson Chandler NOH 12/07/2007 NOH vs. MEM W 44 13 6 10 60.0 0 0 - 1 2 50.0 7 12 19 1 1 0 1 3 -4
+p648
+aVMorris Peterson NOH 12/07/2007 NOH vs. MEM W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 5
+p649
+aVHilton Armstrong NOH 12/05/2007 NOH vs. DET L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p650
+aVTyson Chandler NOH 12/05/2007 NOH vs. DET L 44 17 7 9 77.8 0 0 - 3 5 60.0 8 14 22 0 0 1 3 1 -12
+p651
+aVChris Paul NOH 12/05/2007 NOH vs. DET L 39 14 4 14 28.6 0 2 0.0 6 6 100.0 0 3 3 7 2 1 3 4 -10
+p652
+aVJulian Wright NOH 12/05/2007 NOH vs. DET L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -3
+p653
+aVMorris Peterson NOH 12/05/2007 NOH vs. DET L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 0 0 1 3 3 -1
+p654
+aVDavid West NOH 12/05/2007 NOH vs. DET L 39 9 3 15 20.0 0 0 - 3 3 100.0 3 2 5 4 0 1 1 0 -13
+p655
+aVJannero Pargo NOH 12/05/2007 NOH vs. DET L 19 3 1 8 12.5 1 4 25.0 0 0 - 0 3 3 4 0 0 0 2 -7
+p656
+aVBobby Jackson NOH 12/05/2007 NOH vs. DET L 20 6 2 7 28.6 1 3 33.3 1 2 50.0 1 1 2 1 0 1 0 5 -12
+p657
+aVPeja Stojakovic NOH 12/05/2007 NOH vs. DET L 39 19 6 14 42.9 2 5 40.0 5 5 100.0 1 4 5 0 1 0 1 1 -12
+p658
+aVMelvin Ely NOH 12/05/2007 NOH vs. DET L 13 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -3
+p659
+aVJannero Pargo NOH 12/01/2007 NOH vs. DAL W 18 11 4 6 66.7 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 1 -9
+p660
+aVMelvin Ely NOH 12/01/2007 NOH vs. DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p661
+aVRasual Butler NOH 12/01/2007 NOH vs. DAL W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p662
+aVChris Paul NOH 12/01/2007 NOH vs. DAL W 49 33 11 25 44.0 1 3 33.3 10 10 100.0 1 8 9 12 3 0 2 5 13
+p663
+aVBobby Jackson NOH 12/01/2007 NOH vs. DAL W 16 4 1 4 25.0 0 2 0.0 2 2 100.0 2 0 2 1 1 0 1 1 -13
+p664
+aVJulian Wright NOH 12/01/2007 NOH vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p665
+aVTyson Chandler NOH 12/01/2007 NOH vs. DAL W 50 21 7 14 50.0 0 0 - 7 10 70.0 7 6 13 2 0 3 1 5 14
+p666
+aVDavid West NOH 12/01/2007 NOH vs. DAL W 47 11 4 14 28.6 0 1 0.0 3 4 75.0 3 11 14 3 0 1 1 4 21
+p667
+aVMorris Peterson NOH 12/01/2007 NOH vs. DAL W 25 10 4 7 57.1 0 2 0.0 2 2 100.0 0 2 2 2 0 0 1 1 7
+p668
+aVPeja Stojakovic NOH 12/01/2007 NOH vs. DAL W 45 22 7 14 50.0 4 6 66.7 4 4 100.0 1 4 5 1 1 0 1 2 12
+p669
+aVPeja Stojakovic NOH 11/30/2007 NOH @ ATL W 32 4 2 12 16.7 0 6 0.0 0 0 - 3 1 4 5 1 0 1 2 6
+p670
+aVDavid West NOH 11/30/2007 NOH @ ATL W 43 22 7 17 41.2 0 0 - 8 10 80.0 6 11 17 2 3 0 2 4 9
+p671
+aVHilton Armstrong NOH 11/30/2007 NOH @ ATL W 17 4 2 3 66.7 0 0 - 0 0 - 2 5 7 0 1 0 4 3 1
+p672
+aVChris Paul NOH 11/30/2007 NOH @ ATL W 36 20 8 13 61.5 2 3 66.7 2 2 100.0 0 1 1 4 2 0 2 2 7
+p673
+aVRasual Butler NOH 11/30/2007 NOH @ ATL W 17 5 2 8 25.0 0 2 0.0 1 1 100.0 0 0 0 0 0 1 0 1 -1
+p674
+aVMorris Peterson NOH 11/30/2007 NOH @ ATL W 24 12 5 11 45.5 2 5 40.0 0 0 - 2 3 5 0 1 0 0 1 8
+p675
+aVTyson Chandler NOH 11/30/2007 NOH @ ATL W 18 6 2 6 33.3 0 0 - 2 5 40.0 1 5 6 0 0 0 0 0 -7
+p676
+aVJulian Wright NOH 11/30/2007 NOH @ ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p677
+aVJannero Pargo NOH 11/30/2007 NOH @ ATL W 18 13 5 9 55.6 1 3 33.3 2 2 100.0 1 2 3 2 0 0 1 3 -3
+p678
+aVMelvin Ely NOH 11/30/2007 NOH @ ATL W 14 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 1 0 1 1 12
+p679
+aVBobby Jackson NOH 11/30/2007 NOH @ ATL W 18 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 0
+p680
+aVBobby Jackson NOH 11/26/2007 NOH vs. MIN L 26 14 4 11 36.4 0 4 0.0 6 8 75.0 0 4 4 3 2 0 2 4 -4
+p681
+aVMelvin Ely NOH 11/26/2007 NOH vs. MIN L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -12
+p682
+aVPeja Stojakovic NOH 11/26/2007 NOH vs. MIN L 37 17 7 14 50.0 3 6 50.0 0 0 - 1 3 4 1 0 0 2 1 5
+p683
+aVJannero Pargo NOH 11/26/2007 NOH vs. MIN L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -11
+p684
+aVTyson Chandler NOH 11/26/2007 NOH vs. MIN L 31 9 2 3 66.7 0 0 - 5 6 83.3 1 6 7 0 0 0 3 6 3
+p685
+aVChris Paul NOH 11/26/2007 NOH vs. MIN L 44 31 10 19 52.6 3 4 75.0 8 8 100.0 0 1 1 11 4 0 3 3 -1
+p686
+aVDavid West NOH 11/26/2007 NOH vs. MIN L 42 10 4 12 33.3 0 1 0.0 2 2 100.0 3 11 14 3 1 2 4 2 -6
+p687
+aVHilton Armstrong NOH 11/26/2007 NOH vs. MIN L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 -6
+p688
+aVRasual Butler NOH 11/26/2007 NOH vs. MIN L 15 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 2 -11
+p689
+aVMorris Peterson NOH 11/26/2007 NOH vs. MIN L 19 2 0 4 0.0 0 4 0.0 2 2 100.0 0 2 2 1 1 0 0 1 -2
+p690
+aVBobby Jackson NOH 11/24/2007 NOH @ LAC W 21 8 3 8 37.5 1 3 33.3 1 1 100.0 0 4 4 2 0 0 1 1 -4
+p691
+aVRasual Butler NOH 11/24/2007 NOH @ LAC W 16 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 2 1
+p692
+aVDavid West NOH 11/24/2007 NOH @ LAC W 38 18 8 17 47.1 1 1 100.0 1 1 100.0 2 6 8 4 0 2 2 2 6
+p693
+aVTyson Chandler NOH 11/24/2007 NOH @ LAC W 26 12 4 7 57.1 0 0 - 4 5 80.0 3 2 5 0 1 3 2 4 2
+p694
+aVHilton Armstrong NOH 11/24/2007 NOH @ LAC W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 7
+p695
+aVJannero Pargo NOH 11/24/2007 NOH @ LAC W 11 4 2 4 50.0 0 0 - 0 0 - 1 0 1 4 0 0 0 1 1
+p696
+aVPeja Stojakovic NOH 11/24/2007 NOH @ LAC W 39 22 7 12 58.3 3 4 75.0 5 5 100.0 0 5 5 1 1 0 1 3 5
+p697
+aVMelvin Ely NOH 11/24/2007 NOH @ LAC W 21 9 4 7 57.1 0 0 - 1 2 50.0 0 4 4 1 0 0 2 2 6
+p698
+aVChris Paul NOH 11/24/2007 NOH @ LAC W 37 11 5 15 33.3 0 2 0.0 1 2 50.0 1 2 3 10 2 0 0 2 8
+p699
+aVMorris Peterson NOH 11/24/2007 NOH @ LAC W 27 11 3 6 50.0 2 3 66.7 3 4 75.0 0 5 5 0 1 0 1 4 13
+p700
+aVDavid West NOH 11/23/2007 NOH @ UTA L 34 18 7 15 46.7 0 0 - 4 6 66.7 4 10 14 1 0 1 1 1 -16
+p701
+aVRasual Butler NOH 11/23/2007 NOH @ UTA L 10 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 2 -6
+p702
+aVRyan Bowen NOH 11/23/2007 NOH @ UTA L 14 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 1 1 2 -9
+p703
+aVTyson Chandler NOH 11/23/2007 NOH @ UTA L 31 12 5 13 38.5 0 0 - 2 3 66.7 3 4 7 1 1 1 5 4 -22
+p704
+aVChris Paul NOH 11/23/2007 NOH @ UTA L 35 15 5 12 41.7 0 2 0.0 5 5 100.0 4 2 6 6 2 0 4 2 -16
+p705
+aVHilton Armstrong NOH 11/23/2007 NOH @ UTA L 9 2 0 2 0.0 0 0 - 2 5 40.0 1 3 4 0 0 1 1 0 -5
+p706
+aVMelvin Ely NOH 11/23/2007 NOH @ UTA L 7 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 1 0 0 1 5 -3
+p707
+aVBobby Jackson NOH 11/23/2007 NOH @ UTA L 19 4 1 7 14.3 0 4 0.0 2 2 100.0 0 2 2 3 0 0 1 1 -11
+p708
+aVPeja Stojakovic NOH 11/23/2007 NOH @ UTA L 34 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 1 0 0 1 3 -16
+p709
+aVJulian Wright NOH 11/23/2007 NOH @ UTA L 5 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -7
+p710
+aVMorris Peterson NOH 11/23/2007 NOH @ UTA L 24 1 0 6 0.0 0 4 0.0 1 2 50.0 0 4 4 0 2 0 2 2 -13
+p711
+aVJannero Pargo NOH 11/23/2007 NOH @ UTA L 17 4 2 8 25.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 1 -16
+p712
+aVHilton Armstrong NOH 11/21/2007 NOH vs. IND L 25 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 5 -18
+p713
+aVRasual Butler NOH 11/21/2007 NOH vs. IND L 12 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 0 0 0 1 2 -4
+p714
+aVBobby Jackson NOH 11/21/2007 NOH vs. IND L 18 6 1 6 16.7 0 4 0.0 4 4 100.0 1 3 4 0 0 0 1 0 -7
+p715
+aVRyan Bowen NOH 11/21/2007 NOH vs. IND L 13 3 1 3 33.3 0 0 - 1 2 50.0 3 1 4 0 0 0 1 3 -10
+p716
+aVDavid West NOH 11/21/2007 NOH vs. IND L 35 23 10 17 58.8 0 1 0.0 3 3 100.0 2 6 8 0 0 4 1 1 -2
+p717
+aVMorris Peterson NOH 11/21/2007 NOH vs. IND L 30 9 3 9 33.3 3 7 42.9 0 0 - 0 4 4 4 0 0 0 1 -5
+p718
+aVChris Paul NOH 11/21/2007 NOH vs. IND L 35 8 3 12 25.0 0 3 0.0 2 3 66.7 1 3 4 10 2 0 1 1 -5
+p719
+aVMelvin Ely NOH 11/21/2007 NOH vs. IND L 23 11 4 6 66.7 0 0 - 3 4 75.0 2 9 11 0 0 0 1 2 6
+p720
+aVJannero Pargo NOH 11/21/2007 NOH vs. IND L 13 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 2 2 -7
+p721
+aVPeja Stojakovic NOH 11/21/2007 NOH vs. IND L 36 17 6 15 40.0 3 8 37.5 2 2 100.0 1 3 4 1 2 0 0 1 -8
+p722
+aVMelvin Ely NOH 11/19/2007 NOH vs. ORL L 16 10 5 7 71.4 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -3
+p723
+aVPeja Stojakovic NOH 11/19/2007 NOH vs. ORL L 36 21 8 15 53.3 2 4 50.0 3 4 75.0 0 3 3 1 1 0 2 0 -15
+p724
+aVHilton Armstrong NOH 11/19/2007 NOH vs. ORL L 13 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 2 1 0 0 3 14
+p725
+aVRasual Butler NOH 11/19/2007 NOH vs. ORL L 14 4 1 4 25.0 0 1 0.0 2 4 50.0 1 3 4 1 0 1 0 1 3
+p726
+aVMorris Peterson NOH 11/19/2007 NOH vs. ORL L 35 11 4 9 44.4 2 7 28.6 1 1 100.0 0 7 7 1 3 0 0 2 -2
+p727
+aVDavid West NOH 11/19/2007 NOH vs. ORL L 35 14 5 16 31.3 0 0 - 4 4 100.0 2 3 5 0 2 1 3 2 -1
+p728
+aVBobby Jackson NOH 11/19/2007 NOH vs. ORL L 21 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 4 0 0 1 1 -7
+p729
+aVJannero Pargo NOH 11/19/2007 NOH vs. ORL L 39 18 9 21 42.9 0 4 0.0 0 0 - 0 0 0 7 1 0 4 2 -5
+p730
+aVRyan Bowen NOH 11/19/2007 NOH vs. ORL L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -6
+p731
+aVTyson Chandler NOH 11/19/2007 NOH vs. ORL L 16 4 2 3 66.7 0 0 - 0 1 0.0 3 5 8 2 1 0 2 2 -13
+p732
+aVBobby Jackson NOH 11/17/2007 NOH @ MIN W 25 7 3 8 37.5 1 5 20.0 0 0 - 0 2 2 5 3 0 0 2 15
+p733
+aVDavid West NOH 11/17/2007 NOH @ MIN W 26 12 6 12 50.0 0 0 - 0 0 - 2 4 6 1 0 1 0 2 9
+p734
+aVMorris Peterson NOH 11/17/2007 NOH @ MIN W 35 18 6 12 50.0 3 8 37.5 3 3 100.0 3 4 7 3 0 0 1 3 6
+p735
+aVTyson Chandler NOH 11/17/2007 NOH @ MIN W 29 12 5 6 83.3 0 0 - 2 2 100.0 2 5 7 4 0 1 0 3 19
+p736
+aVMarcus Vinicius NOH 11/17/2007 NOH @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p737
+aVJulian Wright NOH 11/17/2007 NOH @ MIN W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p738
+aVHilton Armstrong NOH 11/17/2007 NOH @ MIN W 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 1 -6
+p739
+aVRyan Bowen NOH 11/17/2007 NOH @ MIN W 20 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 0 2 9
+p740
+aVJannero Pargo NOH 11/17/2007 NOH @ MIN W 33 15 5 11 45.5 1 2 50.0 4 4 100.0 0 2 2 7 1 0 1 2 17
+p741
+aVPeja Stojakovic NOH 11/17/2007 NOH @ MIN W 29 22 9 16 56.3 4 6 66.7 0 0 - 0 1 1 4 0 0 1 0 19
+p742
+aVRasual Butler NOH 11/17/2007 NOH @ MIN W 19 2 0 5 0.0 0 2 0.0 2 2 100.0 1 1 2 1 0 0 0 0 -1
+p743
+aVMelvin Ely NOH 11/17/2007 NOH @ MIN W 10 10 5 6 83.3 0 0 - 0 0 - 1 0 1 0 1 0 0 0 5
+p744
+aVRasual Butler NOH 11/16/2007 NOH @ MEM W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p745
+aVRyan Bowen NOH 11/16/2007 NOH @ MEM W 13 0 0 0 - 0 0 - 0 0 - 3 1 4 0 0 0 0 1 -12
+p746
+aVPeja Stojakovic NOH 11/16/2007 NOH @ MEM W 36 17 6 14 42.9 2 6 33.3 3 3 100.0 2 7 9 3 1 0 1 1 7
+p747
+aVBobby Jackson NOH 11/16/2007 NOH @ MEM W 31 14 5 8 62.5 4 5 80.0 0 0 - 1 7 8 0 0 0 0 1 -3
+p748
+aVDavid West NOH 11/16/2007 NOH @ MEM W 40 40 17 29 58.6 0 0 - 6 8 75.0 2 4 6 0 1 1 2 4 14
+p749
+aVTyson Chandler NOH 11/16/2007 NOH @ MEM W 42 12 5 7 71.4 0 0 - 2 4 50.0 6 11 17 5 0 4 4 4 15
+p750
+aVJannero Pargo NOH 11/16/2007 NOH @ MEM W 9 4 1 6 16.7 1 2 50.0 1 1 100.0 1 0 1 0 0 0 0 0 -9
+p751
+aVMorris Peterson NOH 11/16/2007 NOH @ MEM W 22 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 5
+p752
+aVHilton Armstrong NOH 11/16/2007 NOH @ MEM W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 2 2 -13
+p753
+aVChris Paul NOH 11/16/2007 NOH @ MEM W 44 28 10 21 47.6 1 4 25.0 7 7 100.0 0 2 2 13 5 0 7 1 11
+p754
+aVChris Paul NOH 11/14/2007 NOH vs. PHI W 34 13 6 10 60.0 1 2 50.0 0 0 - 2 3 5 10 4 0 5 2 14
+p755
+aVPeja Stojakovic NOH 11/14/2007 NOH vs. PHI W 27 7 2 8 25.0 1 2 50.0 2 2 100.0 0 0 0 1 1 0 0 2 6
+p756
+aVBobby Jackson NOH 11/14/2007 NOH vs. PHI W 15 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 2 0 0 0 0
+p757
+aVJannero Pargo NOH 11/14/2007 NOH vs. PHI W 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 4 0 0 2 1 11
+p758
+aVHilton Armstrong NOH 11/14/2007 NOH vs. PHI W 10 5 2 3 66.7 0 0 - 1 4 25.0 0 2 2 0 0 0 2 4 6
+p759
+aVDavid West NOH 11/14/2007 NOH vs. PHI W 32 16 8 15 53.3 0 1 0.0 0 0 - 4 2 6 5 1 1 1 3 12
+p760
+aVRasual Butler NOH 11/14/2007 NOH vs. PHI W 20 6 2 3 66.7 2 3 66.7 0 0 - 0 3 3 0 0 1 1 0 11
+p761
+aVMelvin Ely NOH 11/14/2007 NOH vs. PHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p762
+aVMorris Peterson NOH 11/14/2007 NOH vs. PHI W 34 27 7 12 58.3 6 9 66.7 7 7 100.0 0 6 6 0 2 0 1 2 13
+p763
+aVTyson Chandler NOH 11/14/2007 NOH vs. PHI W 38 14 5 11 45.5 0 0 - 4 9 44.4 4 6 10 0 0 1 2 4 13
+p764
+aVRyan Bowen NOH 11/14/2007 NOH vs. PHI W 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 4 5
+p765
+aVJulian Wright NOH 11/14/2007 NOH vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 1 0 0 2
+p766
+aVChris Paul NOH 11/12/2007 NOH @ NJN W 37 27 11 21 52.4 3 5 60.0 2 2 100.0 0 6 6 7 3 0 5 1 -1
+p767
+aVRyan Bowen NOH 11/12/2007 NOH @ NJN W 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 2 0 1 2 2
+p768
+aVBobby Jackson NOH 11/12/2007 NOH @ NJN W 19 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 1 -1
+p769
+aVJannero Pargo NOH 11/12/2007 NOH @ NJN W 11 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 1 0 3 0 3
+p770
+aVMorris Peterson NOH 11/12/2007 NOH @ NJN W 29 10 3 4 75.0 3 3 100.0 1 1 100.0 0 3 3 0 1 0 1 1 3
+p771
+aVRasual Butler NOH 11/12/2007 NOH @ NJN W 17 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 1 0 2 -6
+p772
+aVHilton Armstrong NOH 11/12/2007 NOH @ NJN W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -2
+p773
+aVDavid West NOH 11/12/2007 NOH @ NJN W 34 13 6 14 42.9 0 0 - 1 1 100.0 0 8 8 5 1 0 3 3 0
+p774
+aVPeja Stojakovic NOH 11/12/2007 NOH @ NJN W 31 12 4 12 33.3 4 7 57.1 0 0 - 1 2 3 1 1 0 1 4 8
+p775
+aVTyson Chandler NOH 11/12/2007 NOH @ NJN W 33 14 5 10 50.0 0 0 - 4 4 100.0 4 8 12 1 0 3 1 2 4
+p776
+aVRyan Bowen NOH 11/11/2007 NOH @ PHI W 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 1 1 2 10
+p777
+aVHilton Armstrong NOH 11/11/2007 NOH @ PHI W 19 6 2 6 33.3 0 0 - 2 2 100.0 3 3 6 2 1 0 3 5 -3
+p778
+aVMorris Peterson NOH 11/11/2007 NOH @ PHI W 21 8 3 5 60.0 2 2 100.0 0 0 - 1 1 2 1 0 0 0 1 15
+p779
+aVJulian Wright NOH 11/11/2007 NOH @ PHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p780
+aVBobby Jackson NOH 11/11/2007 NOH @ PHI W 25 12 4 9 44.4 2 6 33.3 2 2 100.0 0 6 6 2 2 0 0 1 10
+p781
+aVRasual Butler NOH 11/11/2007 NOH @ PHI W 22 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 2 1 0 0 1 8
+p782
+aVDavid West NOH 11/11/2007 NOH @ PHI W 28 16 7 16 43.8 0 0 - 2 4 50.0 1 3 4 1 0 0 1 3 11
+p783
+aVTyson Chandler NOH 11/11/2007 NOH @ PHI W 26 6 3 5 60.0 0 0 - 0 2 0.0 3 9 12 1 1 0 3 2 24
+p784
+aVMelvin Ely NOH 11/11/2007 NOH @ PHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p785
+aVPeja Stojakovic NOH 11/11/2007 NOH @ PHI W 27 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 1 0 0 2 3 9
+p786
+aVJannero Pargo NOH 11/11/2007 NOH @ PHI W 19 8 3 9 33.3 2 4 50.0 0 0 - 1 1 2 1 0 0 3 1 8
+p787
+aVChris Paul NOH 11/11/2007 NOH @ PHI W 30 16 6 10 60.0 1 2 50.0 3 3 100.0 2 1 3 9 3 0 3 0 13
+p788
+aVDavid West NOH 11/09/2007 NOH vs. SAS L 32 15 7 17 41.2 0 0 - 1 2 50.0 1 3 4 0 3 1 2 2 -27
+p789
+aVJannero Pargo NOH 11/09/2007 NOH vs. SAS L 14 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 13
+p790
+aVChris Paul NOH 11/09/2007 NOH vs. SAS L 34 18 8 15 53.3 1 1 100.0 1 1 100.0 0 1 1 7 2 0 2 2 -25
+p791
+aVTyson Chandler NOH 11/09/2007 NOH vs. SAS L 35 9 3 9 33.3 0 1 0.0 3 6 50.0 3 8 11 1 0 0 1 3 -15
+p792
+aVRyan Bowen NOH 11/09/2007 NOH vs. SAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p793
+aVHilton Armstrong NOH 11/09/2007 NOH vs. SAS L 15 10 4 4 100.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 0 8
+p794
+aVPeja Stojakovic NOH 11/09/2007 NOH vs. SAS L 25 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 1 1 0 1 2 -23
+p795
+aVMelvin Ely NOH 11/09/2007 NOH vs. SAS L 15 4 2 4 50.0 0 0 - 0 0 - 1 5 6 2 0 2 2 1 10
+p796
+aVBobby Jackson NOH 11/09/2007 NOH vs. SAS L 25 12 3 6 50.0 2 3 66.7 4 6 66.7 0 4 4 5 0 0 0 1 -2
+p797
+aVRasual Butler NOH 11/09/2007 NOH vs. SAS L 23 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 2 11
+p798
+aVMorris Peterson NOH 11/09/2007 NOH vs. SAS L 21 4 2 8 25.0 0 5 0.0 0 0 - 1 3 4 1 1 0 0 1 -11
+p799
+aVMelvin Ely NOH 11/07/2007 NOH @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p800
+aVPeja Stojakovic NOH 11/07/2007 NOH @ POR L 35 5 2 13 15.4 1 4 25.0 0 0 - 0 2 2 0 1 0 1 2 -4
+p801
+aVJannero Pargo NOH 11/07/2007 NOH @ POR L 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p802
+aVDavid West NOH 11/07/2007 NOH @ POR L 40 34 14 26 53.8 0 0 - 6 6 100.0 8 10 18 0 0 0 1 2 0
+p803
+aVBobby Jackson NOH 11/07/2007 NOH @ POR L 21 8 3 11 27.3 2 5 40.0 0 0 - 1 0 1 1 1 0 0 3 2
+p804
+aVHilton Armstrong NOH 11/07/2007 NOH @ POR L 9 7 2 4 50.0 0 0 - 3 4 75.0 2 1 3 1 1 1 1 3 2
+p805
+aVRyan Bowen NOH 11/07/2007 NOH @ POR L 8 1 0 0 - 0 0 - 1 2 50.0 2 1 3 0 0 0 0 0 -1
+p806
+aVJulian Wright NOH 11/07/2007 NOH @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -2
+p807
+aVMorris Peterson NOH 11/07/2007 NOH @ POR L 24 4 2 5 40.0 0 2 0.0 0 0 - 0 5 5 0 1 1 0 1 -7
+p808
+aVChris Paul NOH 11/07/2007 NOH @ POR L 35 18 7 15 46.7 0 1 0.0 4 4 100.0 1 4 5 12 3 0 4 3 5
+p809
+aVRasual Butler NOH 11/07/2007 NOH @ POR L 25 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p810
+aVTyson Chandler NOH 11/07/2007 NOH @ POR L 29 11 3 7 42.9 0 0 - 5 6 83.3 1 7 8 2 0 1 3 2 -8
+p811
+aVPeja Stojakovic NOH 11/06/2007 NOH @ LAL W 38 36 12 21 57.1 10 13 76.9 2 2 100.0 1 4 5 0 0 1 0 2 18
+p812
+aVChris Paul NOH 11/06/2007 NOH @ LAL W 35 19 7 18 38.9 0 3 0.0 5 5 100.0 1 2 3 21 3 0 2 1 17
+p813
+aVDavid West NOH 11/06/2007 NOH @ LAL W 33 22 6 13 46.2 2 2 100.0 8 8 100.0 3 5 8 1 1 0 2 2 11
+p814
+aVTyson Chandler NOH 11/06/2007 NOH @ LAL W 33 10 4 7 57.1 0 0 - 2 3 66.7 0 9 9 0 0 1 2 3 20
+p815
+aVMelvin Ely NOH 11/06/2007 NOH @ LAL W 15 4 1 6 16.7 0 0 - 2 2 100.0 1 6 7 1 0 0 1 3 0
+p816
+aVBobby Jackson NOH 11/06/2007 NOH @ LAL W 13 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 1 0 0 3 1 -3
+p817
+aVHilton Armstrong NOH 11/06/2007 NOH @ LAL W 15 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 1 1 0 0 -3
+p818
+aVJulian Wright NOH 11/06/2007 NOH @ LAL W 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 2 0 -4
+p819
+aVMorris Peterson NOH 11/06/2007 NOH @ LAL W 24 7 3 8 37.5 1 4 25.0 0 0 - 0 2 2 2 1 0 0 3 1
+p820
+aVRasual Butler NOH 11/06/2007 NOH @ LAL W 24 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 2 1 0 0 2 13
+p821
+aVJannero Pargo NOH 11/04/2007 NOH @ DEN W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 2 1 1 2 -3
+p822
+aVTyson Chandler NOH 11/04/2007 NOH @ DEN W 37 12 5 8 62.5 0 0 - 2 4 50.0 8 9 17 1 0 2 1 2 -5
+p823
+aVBobby Jackson NOH 11/04/2007 NOH @ DEN W 23 13 5 10 50.0 3 5 60.0 0 0 - 0 3 3 1 1 0 1 2 1
+p824
+aVMelvin Ely NOH 11/04/2007 NOH @ DEN W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -5
+p825
+aVChris Paul NOH 11/04/2007 NOH @ DEN W 38 15 3 11 27.3 0 1 0.0 9 12 75.0 1 7 8 11 4 0 5 2 8
+p826
+aVJulian Wright NOH 11/04/2007 NOH @ DEN W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 1
+p827
+aVRasual Butler NOH 11/04/2007 NOH @ DEN W 29 11 4 7 57.1 3 5 60.0 0 0 - 0 2 2 2 0 1 0 2 2
+p828
+aVPeja Stojakovic NOH 11/04/2007 NOH @ DEN W 25 5 1 10 10.0 1 8 12.5 2 2 100.0 1 2 3 1 0 1 1 2 4
+p829
+aVMorris Peterson NOH 11/04/2007 NOH @ DEN W 19 12 5 10 50.0 1 4 25.0 1 1 100.0 0 0 0 0 0 0 0 3 3
+p830
+aVRyan Bowen NOH 11/04/2007 NOH @ DEN W 10 2 1 2 50.0 0 0 - 0 0 - 2 0 2 2 1 1 0 2 8
+p831
+aVDavid West NOH 11/04/2007 NOH @ DEN W 38 17 7 23 30.4 0 1 0.0 3 5 60.0 0 13 13 3 2 2 3 2 11
+p832
+aVMorris Peterson NOH 11/02/2007 NOH vs. POR W 27 7 3 5 60.0 1 3 33.3 0 0 - 0 3 3 3 0 0 1 0 8
+p833
+aVBobby Jackson NOH 11/02/2007 NOH vs. POR W 18 14 6 9 66.7 2 5 40.0 0 0 - 0 3 3 2 0 0 1 2 5
+p834
+aVRasual Butler NOH 11/02/2007 NOH vs. POR W 16 11 4 9 44.4 3 6 50.0 0 0 - 0 1 1 1 0 0 0 1 13
+p835
+aVHilton Armstrong NOH 11/02/2007 NOH vs. POR W 16 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 0 0 2 3 0
+p836
+aVDavid West NOH 11/02/2007 NOH vs. POR W 26 14 6 9 66.7 0 0 - 2 2 100.0 1 1 2 0 3 1 1 1 17
+p837
+aVJulian Wright NOH 11/02/2007 NOH vs. POR W 11 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 1 -5
+p838
+aVPeja Stojakovic NOH 11/02/2007 NOH vs. POR W 32 18 7 17 41.2 4 10 40.0 0 0 - 1 5 6 3 1 0 0 0 27
+p839
+aVMelvin Ely NOH 11/02/2007 NOH vs. POR W 20 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 1 1 0 0 4 -10
+p840
+aVJannero Pargo NOH 11/02/2007 NOH vs. POR W 9 10 4 8 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 0 -4
+p841
+aVChris Paul NOH 11/02/2007 NOH vs. POR W 26 19 9 12 75.0 1 1 100.0 0 0 - 0 3 3 6 2 0 2 3 18
+p842
+aVTyson Chandler NOH 11/02/2007 NOH vs. POR W 28 10 2 2 100.0 0 0 - 6 6 100.0 4 7 11 1 0 1 1 2 23
+p843
+aVRyan Bowen NOH 11/02/2007 NOH vs. POR W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 1 0 3 8
+p844
+aVPeja Stojakovic NOH 10/31/2007 NOH vs. SAC W 31 19 7 12 58.3 4 7 57.1 1 1 100.0 0 1 1 0 1 0 0 3 19
+p845
+aVTyson Chandler NOH 10/31/2007 NOH vs. SAC W 37 15 6 9 66.7 0 0 - 3 4 75.0 5 8 13 0 0 2 4 4 25
+p846
+aVDavid West NOH 10/31/2007 NOH vs. SAC W 31 17 7 16 43.8 1 1 100.0 2 4 50.0 0 8 8 6 0 2 1 4 23
+p847
+aVMorris Peterson NOH 10/31/2007 NOH vs. SAC W 31 13 5 8 62.5 3 5 60.0 0 0 - 0 0 0 1 0 0 1 1 15
+p848
+aVMelvin Ely NOH 10/31/2007 NOH vs. SAC W 17 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 0 1 4 3 -9
+p849
+aVJannero Pargo NOH 10/31/2007 NOH vs. SAC W 11 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 3 2 -12
+p850
+aVRasual Butler NOH 10/31/2007 NOH vs. SAC W 17 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 2 0 1 0 0 -5
+p851
+aVBobby Jackson NOH 10/31/2007 NOH vs. SAC W 17 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 2 2 0 0 0 -1
+p852
+aVHilton Armstrong NOH 10/31/2007 NOH vs. SAC W 11 1 0 1 0.0 0 0 - 1 2 50.0 3 3 6 0 0 1 4 3 -11
+p853
+aVChris Paul NOH 10/31/2007 NOH vs. SAC W 37 22 7 13 53.8 1 2 50.0 7 8 87.5 1 7 8 12 3 0 2 4 26
+p854
+a.

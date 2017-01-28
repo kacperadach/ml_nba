@@ -1,0 +1,128 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKenyon Martin DEN 04/30/2010 DEN @ UTA L 38 4 2 6 33.3 0 0 - 0 2 0.0 1 3 4 2 2 1 1 5 -10
+p2
+aVArron Afflalo DEN 04/30/2010 DEN @ UTA L 18 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 1 0 1 1 4 7
+p3
+aVJoey Graham DEN 04/30/2010 DEN @ UTA L 25 21 9 14 64.3 1 1 100.0 2 4 50.0 4 6 10 0 2 1 1 6 1
+p4
+aVJohan Petro DEN 04/30/2010 DEN @ UTA L 12 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 0 0 0 0 5 -3
+p5
+aVChauncey Billups DEN 04/30/2010 DEN @ UTA L 38 30 8 19 42.1 3 6 50.0 11 12 91.7 0 1 1 8 0 1 2 2 -10
+p6
+aVTy Lawson DEN 04/30/2010 DEN @ UTA L 22 10 3 6 50.0 1 2 50.0 3 4 75.0 0 1 1 3 1 0 2 4 -5
+p7
+aVChris Andersen DEN 04/30/2010 DEN @ UTA L 15 6 3 3 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 4 -4
+p8
+aVCarmelo Anthony DEN 04/30/2010 DEN @ UTA L 46 20 6 22 27.3 0 4 0.0 8 10 80.0 3 9 12 5 2 0 2 5 -5
+p9
+aVMalik Allen DEN 04/30/2010 DEN @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 0
+p10
+aVJR Smith DEN 04/30/2010 DEN @ UTA L 20 3 1 4 25.0 0 3 0.0 1 2 50.0 0 2 2 0 1 0 0 3 -11
+p11
+aVJohan Petro DEN 04/28/2010 DEN vs. UTA W 20 4 2 5 40.0 0 0 - 0 0 - 1 5 6 1 1 1 3 4 6
+p12
+aVKenyon Martin DEN 04/28/2010 DEN vs. UTA W 35 18 6 9 66.7 0 0 - 6 8 75.0 3 6 9 2 2 0 3 5 15
+p13
+aVMalik Allen DEN 04/28/2010 DEN vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p14
+aVCarmelo Anthony DEN 04/28/2010 DEN vs. UTA W 45 26 7 19 36.8 0 2 0.0 12 15 80.0 2 9 11 3 2 0 1 2 15
+p15
+aVJR Smith DEN 04/28/2010 DEN vs. UTA W 31 17 5 9 55.6 4 5 80.0 3 4 75.0 0 1 1 3 0 0 1 2 7
+p16
+aVNene DEN 04/28/2010 DEN vs. UTA W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 0 0 0 1 0
+p17
+aVChauncey Billups DEN 04/28/2010 DEN vs. UTA W 28 21 6 13 46.2 2 5 40.0 7 8 87.5 0 1 1 4 3 1 2 4 7
+p18
+aVTy Lawson DEN 04/28/2010 DEN vs. UTA W 20 6 2 6 33.3 1 3 33.3 1 1 100.0 1 1 2 3 2 0 2 2 7
+p19
+aVChris Andersen DEN 04/28/2010 DEN vs. UTA W 27 10 3 5 60.0 0 0 - 4 6 66.7 2 5 7 0 0 3 0 3 9
+p20
+aVArron Afflalo DEN 04/28/2010 DEN vs. UTA W 20 12 5 5 100.0 2 2 100.0 0 0 - 0 2 2 0 0 0 1 2 6
+p21
+aVJoey Graham DEN 04/25/2010 DEN @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p22
+aVArron Afflalo DEN 04/25/2010 DEN @ UTA L 21 9 4 8 50.0 0 3 0.0 1 1 100.0 0 2 2 1 0 0 1 4 -1
+p23
+aVChris Andersen DEN 04/25/2010 DEN @ UTA L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -6
+p24
+aVKenyon Martin DEN 04/25/2010 DEN @ UTA L 35 14 5 11 45.5 0 0 - 4 5 80.0 4 5 9 0 2 1 2 5 -22
+p25
+aVNene DEN 04/25/2010 DEN @ UTA L 40 10 2 3 66.7 0 0 - 6 12 50.0 4 7 11 2 2 0 1 4 -2
+p26
+aVJohan Petro DEN 04/25/2010 DEN @ UTA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p27
+aVChauncey Billups DEN 04/25/2010 DEN @ UTA L 33 14 6 14 42.9 1 4 25.0 1 1 100.0 0 3 3 4 0 1 2 6 -11
+p28
+aVCarmelo Anthony DEN 04/25/2010 DEN @ UTA L 44 39 13 26 50.0 4 4 100.0 9 9 100.0 6 5 11 1 4 1 9 5 -7
+p29
+aVTy Lawson DEN 04/25/2010 DEN @ UTA L 17 8 3 7 42.9 0 1 0.0 2 4 50.0 0 0 0 3 2 0 2 3 0
+p30
+aVJR Smith DEN 04/25/2010 DEN @ UTA L 34 10 3 11 27.3 1 4 25.0 3 3 100.0 3 4 7 2 1 1 1 5 -5
+p31
+aVCarmelo Anthony DEN 04/23/2010 DEN @ UTA L 38 25 11 21 52.4 0 3 0.0 3 4 75.0 0 7 7 2 1 2 4 5 -9
+p32
+aVAnthony Carter DEN 04/23/2010 DEN @ UTA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -1
+p33
+aVKenyon Martin DEN 04/23/2010 DEN @ UTA L 31 2 1 7 14.3 0 1 0.0 0 0 - 1 12 13 0 0 1 2 3 -16
+p34
+aVNene DEN 04/23/2010 DEN @ UTA L 37 8 1 4 25.0 0 0 - 6 8 75.0 1 4 5 2 1 1 0 4 -4
+p35
+aVChris Andersen DEN 04/23/2010 DEN @ UTA L 22 5 1 4 25.0 0 0 - 3 4 75.0 4 2 6 0 0 0 1 1 -12
+p36
+aVArron Afflalo DEN 04/23/2010 DEN @ UTA L 14 8 2 2 100.0 1 1 100.0 3 4 75.0 1 2 3 1 0 1 1 5 -7
+p37
+aVChauncey Billups DEN 04/23/2010 DEN @ UTA L 40 25 7 14 50.0 2 5 40.0 9 11 81.8 1 4 5 3 1 0 4 3 -11
+p38
+aVJoey Graham DEN 04/23/2010 DEN @ UTA L 3 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 0 4
+p39
+aVTy Lawson DEN 04/23/2010 DEN @ UTA L 24 9 4 8 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 3 5
+p40
+aVJohan Petro DEN 04/23/2010 DEN @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 4
+p41
+aVJR Smith DEN 04/23/2010 DEN @ UTA L 17 8 3 9 33.3 1 3 33.3 1 1 100.0 0 1 1 1 0 0 1 0 -17
+p42
+aVMalik Allen DEN 04/23/2010 DEN @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p43
+aVTy Lawson DEN 04/19/2010 DEN vs. UTA L 14 3 0 0 - 0 0 - 3 4 75.0 2 0 2 1 0 0 1 3 -1
+p44
+aVJR Smith DEN 04/19/2010 DEN vs. UTA L 30 9 3 10 30.0 1 6 16.7 2 2 100.0 0 6 6 2 1 1 1 3 -2
+p45
+aVJohan Petro DEN 04/19/2010 DEN vs. UTA L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 0
+p46
+aVChris Andersen DEN 04/19/2010 DEN vs. UTA L 17 4 1 2 50.0 0 0 - 2 2 100.0 0 5 5 0 0 1 2 3 -5
+p47
+aVChauncey Billups DEN 04/19/2010 DEN vs. UTA L 37 17 4 11 36.4 2 7 28.6 7 8 87.5 0 3 3 11 0 0 5 5 -6
+p48
+aVCarmelo Anthony DEN 04/19/2010 DEN vs. UTA L 42 32 9 25 36.0 0 1 0.0 14 15 93.3 2 4 6 4 3 0 5 6 2
+p49
+aVNene DEN 04/19/2010 DEN vs. UTA L 42 18 7 10 70.0 0 0 - 4 7 57.1 0 6 6 0 2 0 2 5 1
+p50
+aVKenyon Martin DEN 04/19/2010 DEN vs. UTA L 32 15 7 10 70.0 0 0 - 1 2 50.0 2 1 3 2 2 3 1 5 -2
+p51
+aVArron Afflalo DEN 04/19/2010 DEN vs. UTA L 22 9 2 5 40.0 1 4 25.0 4 4 100.0 0 1 1 2 1 0 0 5 -2
+p52
+aVNene DEN 04/17/2010 DEN vs. UTA W 36 19 7 10 70.0 0 0 - 5 9 55.6 3 3 6 3 1 0 1 3 9
+p53
+aVArron Afflalo DEN 04/17/2010 DEN vs. UTA W 26 12 5 7 71.4 2 3 66.7 0 0 - 0 3 3 2 0 0 0 1 -8
+p54
+aVCarmelo Anthony DEN 04/17/2010 DEN vs. UTA W 38 42 18 25 72.0 2 5 40.0 4 4 100.0 1 3 4 5 0 0 0 3 17
+p55
+aVMalik Allen DEN 04/17/2010 DEN vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p56
+aVChauncey Billups DEN 04/17/2010 DEN vs. UTA W 30 15 6 12 50.0 1 4 25.0 2 2 100.0 0 1 1 8 2 0 3 4 3
+p57
+aVJohan Petro DEN 04/17/2010 DEN vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p58
+aVChris Andersen DEN 04/17/2010 DEN vs. UTA W 22 0 0 0 - 0 0 - 0 0 - 0 6 6 1 0 2 0 1 14
+p59
+aVKenyon Martin DEN 04/17/2010 DEN vs. UTA W 35 7 3 7 42.9 0 0 - 1 2 50.0 3 9 12 2 1 1 2 4 9
+p60
+aVTy Lawson DEN 04/17/2010 DEN vs. UTA W 22 11 3 8 37.5 2 3 66.7 3 4 75.0 1 2 3 6 1 0 0 3 16
+p61
+aVJoey Graham DEN 04/17/2010 DEN vs. UTA W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p62
+aVJR Smith DEN 04/17/2010 DEN vs. UTA W 27 20 6 14 42.9 4 10 40.0 4 4 100.0 2 4 6 2 1 0 2 4 14
+p63
+a.

@@ -1,0 +1,1660 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMike Bibby ATL 04/16/2008 ATL @ MIA L 27 17 6 15 40.0 1 4 25.0 4 4 100.0 0 4 4 5 0 0 0 1 -9
+p2
+aVJoe Johnson ATL 04/16/2008 ATL @ MIA L 29 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 5 2 1 2 2 -8
+p3
+aVJeremy Richardson ATL 04/16/2008 ATL @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p4
+aVMarvin Williams ATL 04/16/2008 ATL @ MIA L 38 11 5 12 41.7 0 0 - 1 2 50.0 0 5 5 1 2 1 2 1 -19
+p5
+aVAl Horford ATL 04/16/2008 ATL @ MIA L 32 8 3 8 37.5 0 0 - 2 2 100.0 5 7 12 2 0 2 1 3 -20
+p6
+aVSolomon Jones ATL 04/16/2008 ATL @ MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p7
+aVJosh Childress ATL 04/16/2008 ATL @ MIA L 28 10 3 7 42.9 0 0 - 4 5 80.0 2 4 6 3 1 1 1 0 -8
+p8
+aVJosh Smith ATL 04/16/2008 ATL @ MIA L 32 20 7 13 53.8 0 1 0.0 6 9 66.7 0 7 7 2 2 1 2 2 -2
+p9
+aVAcie Law ATL 04/16/2008 ATL @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p10
+aVSalim Stoudamire ATL 04/16/2008 ATL @ MIA L 19 14 6 11 54.5 1 3 33.3 1 1 100.0 1 4 5 0 0 0 2 2 -4
+p11
+aVZaza Pachulia ATL 04/16/2008 ATL @ MIA L 28 14 5 5 100.0 0 0 - 4 6 66.7 1 1 2 1 0 0 3 3 0
+p12
+aVMario West ATL 04/15/2008 ATL vs. ORL L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p13
+aVSalim Stoudamire ATL 04/15/2008 ATL vs. ORL L 28 16 5 13 38.5 4 8 50.0 2 3 66.7 0 2 2 1 1 0 2 2 5
+p14
+aVZaza Pachulia ATL 04/15/2008 ATL vs. ORL L 19 8 3 5 60.0 0 0 - 2 2 100.0 0 4 4 5 0 1 2 4 6
+p15
+aVJosh Childress ATL 04/15/2008 ATL vs. ORL L 34 15 5 8 62.5 1 1 100.0 4 5 80.0 5 1 6 2 1 0 2 1 -1
+p16
+aVMike Bibby ATL 04/15/2008 ATL vs. ORL L 17 9 4 9 44.4 1 4 25.0 0 0 - 0 2 2 4 1 0 2 0 -22
+p17
+aVJeremy Richardson ATL 04/15/2008 ATL vs. ORL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p18
+aVMarvin Williams ATL 04/15/2008 ATL vs. ORL L 36 16 7 14 50.0 0 0 - 2 2 100.0 1 2 3 1 1 0 2 2 -9
+p19
+aVJosh Smith ATL 04/15/2008 ATL vs. ORL L 31 10 3 9 33.3 0 0 - 4 7 57.1 1 7 8 2 1 1 2 4 -22
+p20
+aVAcie Law ATL 04/15/2008 ATL vs. ORL L 16 11 5 5 100.0 0 0 - 1 1 100.0 0 2 2 4 0 0 0 1 8
+p21
+aVJoe Johnson ATL 04/15/2008 ATL vs. ORL L 24 10 5 12 41.7 0 5 0.0 0 0 - 0 0 0 3 1 0 3 1 -21
+p22
+aVAl Horford ATL 04/15/2008 ATL vs. ORL L 26 8 3 11 27.3 0 0 - 2 2 100.0 4 7 11 6 0 0 0 1 -21
+p23
+aVSolomon Jones ATL 04/15/2008 ATL vs. ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p24
+aVJosh Childress ATL 04/12/2008 ATL vs. BOS L 30 5 2 5 40.0 0 0 - 1 3 33.3 3 1 4 0 0 1 0 2 -13
+p25
+aVMike Bibby ATL 04/12/2008 ATL vs. BOS L 37 16 6 19 31.6 4 12 33.3 0 0 - 2 6 8 7 3 0 4 2 -1
+p26
+aVZaza Pachulia ATL 04/12/2008 ATL vs. BOS L 15 2 1 1 100.0 0 0 - 0 0 - 2 0 2 1 1 0 1 3 0
+p27
+aVMarvin Williams ATL 04/12/2008 ATL vs. BOS L 31 11 4 8 50.0 0 0 - 3 5 60.0 0 5 5 1 0 0 1 3 -2
+p28
+aVJoe Johnson ATL 04/12/2008 ATL vs. BOS L 45 21 6 21 28.6 0 5 0.0 9 12 75.0 1 3 4 8 1 0 2 3 -17
+p29
+aVAl Horford ATL 04/12/2008 ATL vs. BOS L 44 17 8 12 66.7 0 0 - 1 2 50.0 6 5 11 2 0 0 3 2 -17
+p30
+aVSolomon Jones ATL 04/12/2008 ATL vs. BOS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p31
+aVJosh Smith ATL 04/12/2008 ATL vs. BOS L 26 17 8 15 53.3 0 1 0.0 1 2 50.0 3 3 6 4 1 4 3 6 11
+p32
+aVSalim Stoudamire ATL 04/12/2008 ATL vs. BOS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p33
+aVMarvin Williams ATL 04/11/2008 ATL @ NYK W 40 7 2 6 33.3 0 0 - 3 4 75.0 0 2 2 2 1 0 2 4 4
+p34
+aVZaza Pachulia ATL 04/11/2008 ATL @ NYK W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 11
+p35
+aVMario West ATL 04/11/2008 ATL @ NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p36
+aVJosh Childress ATL 04/11/2008 ATL @ NYK W 34 6 3 6 50.0 0 0 - 0 0 - 1 3 4 2 1 1 0 3 17
+p37
+aVJoe Johnson ATL 04/11/2008 ATL @ NYK W 43 34 13 21 61.9 6 9 66.7 2 4 50.0 1 3 4 6 2 1 0 0 6
+p38
+aVMike Bibby ATL 04/11/2008 ATL @ NYK W 43 24 10 19 52.6 3 6 50.0 1 1 100.0 0 6 6 4 2 0 5 0 7
+p39
+aVJosh Smith ATL 04/11/2008 ATL @ NYK W 39 24 7 12 58.3 0 0 - 10 12 83.3 1 5 6 4 1 2 2 2 7
+p40
+aVAl Horford ATL 04/11/2008 ATL @ NYK W 33 19 6 10 60.0 0 0 - 7 9 77.8 2 9 11 1 2 2 2 4 11
+p41
+aVZaza Pachulia ATL 04/08/2008 ATL @ IND L 23 4 0 4 0.0 0 0 - 4 6 66.7 2 3 5 0 0 0 1 4 -9
+p42
+aVSolomon Jones ATL 04/08/2008 ATL @ IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p43
+aVJoe Johnson ATL 04/08/2008 ATL @ IND L 44 30 13 24 54.2 2 6 33.3 2 3 66.7 0 6 6 4 2 1 2 2 -13
+p44
+aVAl Horford ATL 04/08/2008 ATL @ IND L 19 4 2 7 28.6 0 0 - 0 0 - 3 2 5 2 1 0 0 5 -12
+p45
+aVSalim Stoudamire ATL 04/08/2008 ATL @ IND L 14 6 2 4 50.0 2 3 66.7 0 1 0.0 0 0 0 0 1 0 1 0 18
+p46
+aVJosh Smith ATL 04/08/2008 ATL @ IND L 39 25 7 18 38.9 0 2 0.0 11 12 91.7 5 8 13 3 1 1 3 2 -1
+p47
+aVMike Bibby ATL 04/08/2008 ATL @ IND L 27 2 0 8 0.0 0 3 0.0 2 2 100.0 0 4 4 2 2 0 1 1 -25
+p48
+aVMarvin Williams ATL 04/08/2008 ATL @ IND L 33 11 5 14 35.7 0 0 - 1 1 100.0 2 3 5 3 2 0 1 3 -17
+p49
+aVJosh Childress ATL 04/08/2008 ATL @ IND L 39 16 6 14 42.9 0 3 0.0 4 4 100.0 8 4 12 0 0 1 2 2 -9
+p50
+aVAl Horford ATL 04/05/2008 ATL @ PHI W 34 10 5 8 62.5 0 0 - 0 0 - 5 7 12 0 0 0 2 2 9
+p51
+aVJosh Smith ATL 04/05/2008 ATL @ PHI W 40 18 6 14 42.9 0 0 - 6 10 60.0 4 6 10 2 1 3 2 2 1
+p52
+aVMike Bibby ATL 04/05/2008 ATL @ PHI W 35 10 4 13 30.8 2 8 25.0 0 0 - 0 2 2 5 0 0 6 4 -5
+p53
+aVMarvin Williams ATL 04/05/2008 ATL @ PHI W 35 18 5 9 55.6 0 0 - 8 8 100.0 1 4 5 1 0 0 0 4 15
+p54
+aVJoe Johnson ATL 04/05/2008 ATL @ PHI W 45 22 10 16 62.5 2 3 66.7 0 2 0.0 0 8 8 6 2 1 4 2 10
+p55
+aVZaza Pachulia ATL 04/05/2008 ATL @ PHI W 16 6 3 5 60.0 0 0 - 0 2 0.0 1 3 4 2 2 0 1 0 4
+p56
+aVSalim Stoudamire ATL 04/05/2008 ATL @ PHI W 10 6 1 3 33.3 1 2 50.0 3 3 100.0 0 0 0 2 0 0 1 2 -2
+p57
+aVJosh Childress ATL 04/05/2008 ATL @ PHI W 26 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 3
+p58
+aVMike Bibby ATL 04/04/2008 ATL vs. PHI L 40 3 1 11 9.1 1 4 25.0 0 0 - 0 3 3 11 1 0 0 3 4
+p59
+aVZaza Pachulia ATL 04/04/2008 ATL vs. PHI L 17 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 0 2 1 -2
+p60
+aVMarvin Williams ATL 04/04/2008 ATL vs. PHI L 39 19 7 10 70.0 0 0 - 5 6 83.3 1 5 6 2 1 0 2 1 -1
+p61
+aVJoe Johnson ATL 04/04/2008 ATL vs. PHI L 35 32 12 20 60.0 1 3 33.3 7 10 70.0 0 6 6 8 0 0 4 5 -13
+p62
+aVJosh Childress ATL 04/04/2008 ATL vs. PHI L 32 20 7 10 70.0 2 3 66.7 4 5 80.0 2 2 4 2 1 2 2 0 -4
+p63
+aVAcie Law ATL 04/04/2008 ATL vs. PHI L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -6
+p64
+aVAl Horford ATL 04/04/2008 ATL vs. PHI L 32 10 5 8 62.5 0 0 - 0 0 - 3 4 7 3 0 2 0 2 -3
+p65
+aVJosh Smith ATL 04/04/2008 ATL vs. PHI L 39 12 6 14 42.9 0 2 0.0 0 0 - 4 4 8 5 1 1 2 5 1
+p66
+aVMario West ATL 04/04/2008 ATL vs. PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p67
+aVJosh Smith ATL 04/02/2008 ATL vs. TOR W 43 24 8 17 47.1 3 3 100.0 5 6 83.3 1 8 9 4 2 2 1 4 4
+p68
+aVAl Horford ATL 04/02/2008 ATL vs. TOR W 35 14 6 11 54.5 0 0 - 2 3 66.7 2 10 12 0 0 0 2 1 1
+p69
+aVZaza Pachulia ATL 04/02/2008 ATL vs. TOR W 16 9 3 4 75.0 0 0 - 3 3 100.0 2 2 4 0 0 0 2 3 0
+p70
+aVMike Bibby ATL 04/02/2008 ATL vs. TOR W 48 26 10 18 55.6 5 10 50.0 1 1 100.0 0 6 6 12 3 0 3 3 12
+p71
+aVJosh Childress ATL 04/02/2008 ATL vs. TOR W 42 11 4 10 40.0 1 2 50.0 2 2 100.0 2 2 4 4 1 1 1 1 14
+p72
+aVAcie Law ATL 04/02/2008 ATL vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -6
+p73
+aVMarvin Williams ATL 04/02/2008 ATL vs. TOR W 28 15 5 11 45.5 0 0 - 5 6 83.3 3 1 4 2 0 0 0 4 -2
+p74
+aVJoe Johnson ATL 04/02/2008 ATL vs. TOR W 48 28 11 21 52.4 3 7 42.9 3 4 75.0 2 5 7 11 1 0 5 1 12
+p75
+aVAl Horford ATL 03/31/2008 ATL @ MEM W 31 19 6 13 46.2 0 0 - 7 7 100.0 1 5 6 1 0 0 1 3 29
+p76
+aVAcie Law ATL 03/31/2008 ATL @ MEM W 21 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 0 0 3 2 -19
+p77
+aVJeremy Richardson ATL 03/31/2008 ATL @ MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -10
+p78
+aVMarvin Williams ATL 03/31/2008 ATL @ MEM W 30 12 5 6 83.3 0 0 - 2 2 100.0 1 4 5 3 1 0 0 2 8
+p79
+aVMario West ATL 03/31/2008 ATL @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p80
+aVSolomon Jones ATL 03/31/2008 ATL @ MEM W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p81
+aVJoe Johnson ATL 03/31/2008 ATL @ MEM W 38 19 7 15 46.7 4 9 44.4 1 1 100.0 0 1 1 8 0 0 1 1 30
+p82
+aVMike Bibby ATL 03/31/2008 ATL @ MEM W 27 17 6 12 50.0 3 8 37.5 2 2 100.0 0 2 2 7 2 0 1 2 36
+p83
+aVJosh Smith ATL 03/31/2008 ATL @ MEM W 36 26 11 13 84.6 0 0 - 4 5 80.0 1 7 8 6 3 1 0 1 31
+p84
+aVJosh Childress ATL 03/31/2008 ATL @ MEM W 33 14 6 10 60.0 2 3 66.7 0 0 - 1 1 2 2 3 0 0 1 -6
+p85
+aVZaza Pachulia ATL 03/31/2008 ATL @ MEM W 16 4 0 2 0.0 0 0 - 4 4 100.0 0 5 5 0 0 0 4 3 -12
+p86
+aVMike Bibby ATL 03/30/2008 ATL vs. NYK W 39 16 7 14 50.0 2 5 40.0 0 0 - 1 3 4 9 0 0 4 3 11
+p87
+aVJosh Childress ATL 03/30/2008 ATL vs. NYK W 28 16 5 10 50.0 0 1 0.0 6 7 85.7 1 2 3 1 0 0 0 2 -8
+p88
+aVAcie Law ATL 03/30/2008 ATL vs. NYK W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -6
+p89
+aVZaza Pachulia ATL 03/30/2008 ATL vs. NYK W 12 4 1 1 100.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 2 3
+p90
+aVAl Horford ATL 03/30/2008 ATL vs. NYK W 38 18 9 15 60.0 0 0 - 0 1 0.0 4 9 13 3 2 0 2 2 3
+p91
+aVJosh Smith ATL 03/30/2008 ATL vs. NYK W 31 7 3 7 42.9 0 0 - 1 2 50.0 1 10 11 1 1 3 3 2 3
+p92
+aVMario West ATL 03/30/2008 ATL vs. NYK W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -8
+p93
+aVJoe Johnson ATL 03/30/2008 ATL vs. NYK W 41 25 8 21 38.1 1 7 14.3 8 8 100.0 2 2 4 13 2 2 5 2 16
+p94
+aVMarvin Williams ATL 03/30/2008 ATL vs. NYK W 41 27 11 16 68.8 0 0 - 5 7 71.4 5 6 11 2 1 2 1 3 11
+p95
+aVJosh Smith ATL 03/28/2008 ATL vs. CHI W 36 12 3 10 30.0 0 1 0.0 6 11 54.5 3 7 10 1 1 4 5 5 7
+p96
+aVJoe Johnson ATL 03/28/2008 ATL vs. CHI W 45 19 7 24 29.2 0 3 0.0 5 6 83.3 1 3 4 7 1 0 2 1 4
+p97
+aVMarvin Williams ATL 03/28/2008 ATL vs. CHI W 35 13 4 9 44.4 0 0 - 5 5 100.0 2 9 11 2 2 0 1 2 18
+p98
+aVMike Bibby ATL 03/28/2008 ATL vs. CHI W 41 30 11 15 73.3 6 8 75.0 2 2 100.0 0 3 3 8 1 0 0 3 13
+p99
+aVJosh Childress ATL 03/28/2008 ATL vs. CHI W 35 9 3 10 30.0 0 2 0.0 3 8 37.5 7 2 9 3 1 0 0 3 -17
+p100
+aVZaza Pachulia ATL 03/28/2008 ATL vs. CHI W 17 7 2 3 66.7 0 0 - 3 4 75.0 1 4 5 0 0 0 0 4 -8
+p101
+aVMario West ATL 03/28/2008 ATL vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p102
+aVAcie Law ATL 03/28/2008 ATL vs. CHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p103
+aVJeremy Richardson ATL 03/28/2008 ATL vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p104
+aVAl Horford ATL 03/28/2008 ATL vs. CHI W 24 16 4 7 57.1 0 0 - 8 8 100.0 1 2 3 0 0 2 2 5 8
+p105
+aVZaza Pachulia ATL 03/26/2008 ATL vs. MIL W 22 9 3 4 75.0 0 0 - 3 3 100.0 3 5 8 2 2 2 1 5 21
+p106
+aVJoe Johnson ATL 03/26/2008 ATL vs. MIL W 40 28 11 17 64.7 4 8 50.0 2 3 66.7 1 0 1 8 0 0 2 3 15
+p107
+aVMario West ATL 03/26/2008 ATL vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p108
+aVMike Bibby ATL 03/26/2008 ATL vs. MIL W 28 16 6 11 54.5 2 6 33.3 2 2 100.0 0 3 3 3 0 0 2 2 4
+p109
+aVSolomon Jones ATL 03/26/2008 ATL vs. MIL W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -1
+p110
+aVJosh Childress ATL 03/26/2008 ATL vs. MIL W 30 20 7 12 58.3 1 2 50.0 5 6 83.3 2 1 3 5 4 0 0 1 26
+p111
+aVSalim Stoudamire ATL 03/26/2008 ATL vs. MIL W 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p112
+aVAl Horford ATL 03/26/2008 ATL vs. MIL W 18 7 2 4 50.0 0 0 - 3 5 60.0 1 0 1 1 0 0 2 4 -1
+p113
+aVJeremy Richardson ATL 03/26/2008 ATL vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p114
+aVAcie Law ATL 03/26/2008 ATL vs. MIL W 16 10 4 4 100.0 0 0 - 2 3 66.7 0 0 0 3 0 0 0 1 9
+p115
+aVJosh Smith ATL 03/26/2008 ATL vs. MIL W 35 7 2 9 22.2 0 1 0.0 3 4 75.0 1 6 7 3 0 3 3 3 12
+p116
+aVMarvin Williams ATL 03/26/2008 ATL vs. MIL W 31 16 7 9 77.8 0 0 - 2 4 50.0 0 4 4 0 2 0 1 0 12
+p117
+aVZaza Pachulia ATL 03/25/2008 ATL @ CHI L 14 8 2 4 50.0 0 0 - 4 7 57.1 1 4 5 0 2 1 0 1 3
+p118
+aVAcie Law ATL 03/25/2008 ATL @ CHI L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p119
+aVJoe Johnson ATL 03/25/2008 ATL @ CHI L 48 15 7 17 41.2 0 5 0.0 1 2 50.0 2 3 5 5 1 0 4 1 -9
+p120
+aVJosh Childress ATL 03/25/2008 ATL @ CHI L 27 22 8 11 72.7 1 1 100.0 5 5 100.0 2 1 3 0 0 0 0 3 -1
+p121
+aVAl Horford ATL 03/25/2008 ATL @ CHI L 32 3 1 5 20.0 0 0 - 1 2 50.0 4 9 13 1 0 2 4 1 -4
+p122
+aVMike Bibby ATL 03/25/2008 ATL @ CHI L 43 18 7 18 38.9 4 7 57.1 0 0 - 0 3 3 7 3 0 3 1 -11
+p123
+aVMarvin Williams ATL 03/25/2008 ATL @ CHI L 36 10 3 14 21.4 0 0 - 4 4 100.0 3 6 9 2 1 0 2 3 -6
+p124
+aVJosh Smith ATL 03/25/2008 ATL @ CHI L 33 16 6 12 50.0 0 1 0.0 4 6 66.7 0 4 4 2 0 1 2 4 -20
+p125
+aVMario West ATL 03/25/2008 ATL @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p126
+aVJoe Johnson ATL 03/22/2008 ATL vs. ORL W 45 34 12 20 60.0 3 5 60.0 7 7 100.0 2 3 5 7 3 1 2 2 16
+p127
+aVMarvin Williams ATL 03/22/2008 ATL vs. ORL W 20 4 2 7 28.6 0 0 - 0 0 - 1 2 3 4 0 0 2 4 -1
+p128
+aVMario West ATL 03/22/2008 ATL vs. ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p129
+aVZaza Pachulia ATL 03/22/2008 ATL vs. ORL W 13 4 1 4 25.0 0 1 0.0 2 6 33.3 0 3 3 0 0 0 4 2 6
+p130
+aVJosh Childress ATL 03/22/2008 ATL vs. ORL W 33 6 3 3 100.0 0 0 - 0 0 - 1 7 8 2 0 2 2 1 6
+p131
+aVJosh Smith ATL 03/22/2008 ATL vs. ORL W 46 19 7 13 53.8 1 3 33.3 4 5 80.0 0 9 9 2 1 2 3 3 3
+p132
+aVMike Bibby ATL 03/22/2008 ATL vs. ORL W 43 20 7 21 33.3 3 8 37.5 3 4 75.0 0 6 6 8 2 0 2 1 10
+p133
+aVAl Horford ATL 03/22/2008 ATL vs. ORL W 35 11 4 7 57.1 0 0 - 3 3 100.0 5 5 10 3 1 1 2 3 2
+p134
+aVAcie Law ATL 03/22/2008 ATL vs. ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p135
+aVJosh Smith ATL 03/19/2008 ATL @ NJN L 39 20 7 14 50.0 0 2 0.0 6 8 75.0 1 3 4 3 1 3 4 6 -2
+p136
+aVMike Bibby ATL 03/19/2008 ATL @ NJN L 37 15 6 15 40.0 1 8 12.5 2 2 100.0 1 3 4 6 0 0 4 2 -2
+p137
+aVMarvin Williams ATL 03/19/2008 ATL @ NJN L 28 15 6 9 66.7 0 0 - 3 3 100.0 1 3 4 1 1 0 2 3 -16
+p138
+aVZaza Pachulia ATL 03/19/2008 ATL @ NJN L 14 11 4 7 57.1 0 0 - 3 5 60.0 5 2 7 0 0 0 0 2 -5
+p139
+aVJosh Childress ATL 03/19/2008 ATL @ NJN L 33 8 1 3 33.3 0 1 0.0 6 6 100.0 0 1 1 5 2 2 1 1 -3
+p140
+aVAcie Law ATL 03/19/2008 ATL @ NJN L 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -4
+p141
+aVAl Horford ATL 03/19/2008 ATL @ NJN L 40 20 9 11 81.8 0 0 - 2 2 100.0 6 9 15 6 0 1 0 3 -7
+p142
+aVJoe Johnson ATL 03/19/2008 ATL @ NJN L 38 24 7 18 38.9 4 7 57.1 6 7 85.7 0 4 4 4 0 0 2 5 1
+p143
+aVMario West ATL 03/19/2008 ATL @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p144
+aVAcie Law ATL 03/17/2008 ATL @ WAS W 11 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 2 2 -7
+p145
+aVZaza Pachulia ATL 03/17/2008 ATL @ WAS W 13 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -1
+p146
+aVMike Bibby ATL 03/17/2008 ATL @ WAS W 37 23 7 13 53.8 5 6 83.3 4 4 100.0 0 2 2 3 1 0 3 1 16
+p147
+aVJeremy Richardson ATL 03/17/2008 ATL @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p148
+aVJosh Childress ATL 03/17/2008 ATL @ WAS W 42 16 5 7 71.4 2 2 100.0 4 6 66.7 2 3 5 4 0 1 2 2 8
+p149
+aVJosh Smith ATL 03/17/2008 ATL @ WAS W 29 17 7 10 70.0 0 1 0.0 3 3 100.0 1 7 8 0 2 2 0 5 2
+p150
+aVAl Horford ATL 03/17/2008 ATL @ WAS W 38 12 6 9 66.7 0 0 - 0 0 - 6 9 15 6 1 2 3 2 7
+p151
+aVMarvin Williams ATL 03/17/2008 ATL @ WAS W 26 7 3 7 42.9 0 0 - 1 3 33.3 0 4 4 2 1 0 0 3 3
+p152
+aVMario West ATL 03/17/2008 ATL @ WAS W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 4
+p153
+aVJoe Johnson ATL 03/17/2008 ATL @ WAS W 44 18 8 20 40.0 1 6 16.7 1 1 100.0 1 3 4 10 0 1 0 3 12
+p154
+aVJosh Childress ATL 03/16/2008 ATL @ NYK W 26 22 6 8 75.0 1 1 100.0 9 10 90.0 4 5 9 0 3 0 1 2 17
+p155
+aVAl Horford ATL 03/16/2008 ATL @ NYK W 30 8 3 6 50.0 0 0 - 2 2 100.0 3 7 10 1 0 0 3 3 11
+p156
+aVMario West ATL 03/16/2008 ATL @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p157
+aVMike Bibby ATL 03/16/2008 ATL @ NYK W 31 4 2 11 18.2 0 4 0.0 0 0 - 0 3 3 7 1 0 3 1 7
+p158
+aVMarvin Williams ATL 03/16/2008 ATL @ NYK W 42 25 12 19 63.2 0 0 - 1 4 25.0 2 6 8 1 0 1 0 2 8
+p159
+aVJeremy Richardson ATL 03/16/2008 ATL @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p160
+aVJosh Smith ATL 03/16/2008 ATL @ NYK W 33 15 6 11 54.5 1 1 100.0 2 2 100.0 2 6 8 3 0 2 1 2 2
+p161
+aVSolomon Jones ATL 03/16/2008 ATL @ NYK W 5 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 1 1 -2
+p162
+aVZaza Pachulia ATL 03/16/2008 ATL @ NYK W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 1 1 0 3 -4
+p163
+aVAcie Law ATL 03/16/2008 ATL @ NYK W 17 2 0 3 0.0 0 0 - 2 4 50.0 0 1 1 1 0 0 2 3 4
+p164
+aVJoe Johnson ATL 03/16/2008 ATL @ NYK W 42 28 10 21 47.6 5 9 55.6 3 3 100.0 0 4 4 11 0 1 2 2 14
+p165
+aVSolomon Jones ATL 03/14/2008 ATL vs. LAC W 5 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -8
+p166
+aVMike Bibby ATL 03/14/2008 ATL vs. LAC W 24 14 6 9 66.7 2 2 100.0 0 0 - 0 0 0 14 0 0 1 1 20
+p167
+aVMario West ATL 03/14/2008 ATL vs. LAC W 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 4 -16
+p168
+aVMarvin Williams ATL 03/14/2008 ATL vs. LAC W 26 12 5 13 38.5 0 0 - 2 2 100.0 1 3 4 1 2 0 1 3 18
+p169
+aVAl Horford ATL 03/14/2008 ATL vs. LAC W 17 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 10
+p170
+aVAcie Law ATL 03/14/2008 ATL vs. LAC W 24 10 5 9 55.6 0 0 - 0 0 - 0 2 2 3 0 0 1 3 4
+p171
+aVJoe Johnson ATL 03/14/2008 ATL vs. LAC W 35 28 10 14 71.4 7 8 87.5 1 1 100.0 1 5 6 5 1 1 1 0 23
+p172
+aVJosh Smith ATL 03/14/2008 ATL vs. LAC W 34 25 10 15 66.7 0 0 - 5 7 71.4 2 6 8 1 1 1 0 2 31
+p173
+aVJeremy Richardson ATL 03/14/2008 ATL vs. LAC W 12 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 0 1 0 1 0 -3
+p174
+aVZaza Pachulia ATL 03/14/2008 ATL vs. LAC W 20 5 1 5 20.0 0 0 - 3 4 75.0 4 6 10 2 0 0 0 2 13
+p175
+aVJosh Childress ATL 03/14/2008 ATL vs. LAC W 31 14 6 9 66.7 0 0 - 2 3 66.7 3 6 9 2 3 3 4 2 28
+p176
+aVJoe Johnson ATL 03/12/2008 ATL vs. HOU L 46 28 9 25 36.0 3 7 42.9 7 8 87.5 2 6 8 2 2 0 2 3 -3
+p177
+aVMike Bibby ATL 03/12/2008 ATL vs. HOU L 41 8 3 12 25.0 1 4 25.0 1 2 50.0 0 2 2 4 0 0 2 1 2
+p178
+aVMario West ATL 03/12/2008 ATL vs. HOU L 8 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 2 -4
+p179
+aVJeremy Richardson ATL 03/12/2008 ATL vs. HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p180
+aVAl Horford ATL 03/12/2008 ATL vs. HOU L 38 11 4 8 50.0 0 0 - 3 4 75.0 1 8 9 4 1 2 0 1 1
+p181
+aVMarvin Williams ATL 03/12/2008 ATL vs. HOU L 33 8 4 8 50.0 0 0 - 0 0 - 0 5 5 1 1 1 2 5 -9
+p182
+aVJosh Smith ATL 03/12/2008 ATL vs. HOU L 39 16 7 17 41.2 0 2 0.0 2 3 66.7 9 13 22 2 2 1 4 4 -8
+p183
+aVSalim Stoudamire ATL 03/12/2008 ATL vs. HOU L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 2 0 0 0 1 2
+p184
+aVAcie Law ATL 03/12/2008 ATL vs. HOU L 10 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -9
+p185
+aVZaza Pachulia ATL 03/12/2008 ATL vs. HOU L 10 4 0 1 0.0 0 0 - 4 4 100.0 1 2 3 0 0 0 2 2 -9
+p186
+aVJosh Childress ATL 03/12/2008 ATL vs. HOU L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -3
+p187
+aVZaza Pachulia ATL 03/10/2008 ATL @ ORL L 19 0 0 4 0.0 0 0 - 0 0 - 0 5 5 2 1 0 0 3 -3
+p188
+aVSalim Stoudamire ATL 03/10/2008 ATL @ ORL L 17 16 5 9 55.6 4 6 66.7 2 3 66.7 0 1 1 0 0 0 0 4 10
+p189
+aVSolomon Jones ATL 03/10/2008 ATL @ ORL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 3 -4
+p190
+aVAl Horford ATL 03/10/2008 ATL @ ORL L 18 9 4 10 40.0 0 0 - 1 2 50.0 2 1 3 1 0 0 2 3 0
+p191
+aVJoe Johnson ATL 03/10/2008 ATL @ ORL L 46 27 11 20 55.0 2 3 66.7 3 4 75.0 0 1 1 11 0 0 4 1 -19
+p192
+aVJeremy Richardson ATL 03/10/2008 ATL @ ORL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p193
+aVJosh Smith ATL 03/10/2008 ATL @ ORL L 41 16 7 13 53.8 0 0 - 2 2 100.0 2 10 12 5 0 2 2 1 -22
+p194
+aVJosh Childress ATL 03/10/2008 ATL @ ORL L 22 6 3 7 42.9 0 1 0.0 0 0 - 3 1 4 1 0 1 1 1 -4
+p195
+aVMike Bibby ATL 03/10/2008 ATL @ ORL L 35 23 9 13 69.2 5 6 83.3 0 0 - 0 2 2 6 2 0 1 3 -25
+p196
+aVMarvin Williams ATL 03/10/2008 ATL @ ORL L 28 11 5 10 50.0 0 0 - 1 1 100.0 1 8 9 0 2 0 0 4 -2
+p197
+aVMario West ATL 03/10/2008 ATL @ ORL L 2 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 8
+p198
+aVJoe Johnson ATL 03/08/2008 ATL vs. MIA W 45 39 15 27 55.6 5 10 50.0 4 4 100.0 1 5 6 8 3 2 4 1 5
+p199
+aVMario West ATL 03/08/2008 ATL vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p200
+aVZaza Pachulia ATL 03/08/2008 ATL vs. MIA W 20 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 1 0 0 3 1
+p201
+aVAl Horford ATL 03/08/2008 ATL vs. MIA W 28 9 3 7 42.9 0 0 - 3 4 75.0 1 6 7 2 0 1 0 2 1
+p202
+aVSalim Stoudamire ATL 03/08/2008 ATL vs. MIA W 14 9 4 7 57.1 0 1 0.0 1 2 50.0 0 2 2 1 0 1 0 1 8
+p203
+aVMarvin Williams ATL 03/08/2008 ATL vs. MIA W 32 8 0 8 0.0 0 1 0.0 8 8 100.0 1 4 5 2 0 0 0 3 1
+p204
+aVJosh Smith ATL 03/08/2008 ATL vs. MIA W 37 13 5 11 45.5 0 1 0.0 3 4 75.0 0 8 8 0 0 3 1 1 -3
+p205
+aVMike Bibby ATL 03/08/2008 ATL vs. MIA W 34 8 3 12 25.0 0 4 0.0 2 4 50.0 0 3 3 5 1 0 1 3 -3
+p206
+aVJosh Childress ATL 03/08/2008 ATL vs. MIA W 30 7 3 5 60.0 0 1 0.0 1 2 50.0 3 2 5 3 1 1 2 3 5
+p207
+aVAl Horford ATL 03/07/2008 ATL @ CHA L 31 18 8 11 72.7 0 0 - 2 2 100.0 6 5 11 1 0 0 2 5 -12
+p208
+aVJosh Childress ATL 03/07/2008 ATL @ CHA L 22 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 0 2 1 0 1 -3
+p209
+aVMarvin Williams ATL 03/07/2008 ATL @ CHA L 34 17 8 14 57.1 0 0 - 1 2 50.0 1 7 8 1 0 0 2 0 -16
+p210
+aVMario West ATL 03/07/2008 ATL @ CHA L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 3
+p211
+aVSolomon Jones ATL 03/07/2008 ATL @ CHA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p212
+aVMike Bibby ATL 03/07/2008 ATL @ CHA L 40 11 4 15 26.7 1 5 20.0 2 2 100.0 0 2 2 10 2 0 4 2 -11
+p213
+aVJosh Smith ATL 03/07/2008 ATL @ CHA L 41 5 2 6 33.3 0 0 - 1 2 50.0 1 6 7 2 0 5 3 3 -19
+p214
+aVJoe Johnson ATL 03/07/2008 ATL @ CHA L 39 20 6 16 37.5 1 4 25.0 7 10 70.0 0 2 2 7 2 0 3 2 -14
+p215
+aVSalim Stoudamire ATL 03/07/2008 ATL @ CHA L 8 7 3 9 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -1
+p216
+aVZaza Pachulia ATL 03/07/2008 ATL @ CHA L 17 6 1 1 100.0 0 0 - 4 5 80.0 2 4 6 0 0 0 0 2 -2
+p217
+aVJosh Smith ATL 03/05/2008 ATL @ NOH L 29 12 6 10 60.0 0 0 - 0 2 0.0 3 4 7 3 0 2 2 2 -7
+p218
+aVJoe Johnson ATL 03/05/2008 ATL @ NOH L 41 24 11 20 55.0 2 4 50.0 0 1 0.0 1 2 3 4 2 0 1 1 -13
+p219
+aVJosh Childress ATL 03/05/2008 ATL @ NOH L 28 12 3 7 42.9 0 0 - 6 10 60.0 4 5 9 1 0 0 0 2 -16
+p220
+aVJeremy Richardson ATL 03/05/2008 ATL @ NOH L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p221
+aVMike Bibby ATL 03/05/2008 ATL @ NOH L 38 21 8 14 57.1 1 6 16.7 4 5 80.0 0 3 3 4 1 0 5 2 -8
+p222
+aVMario West ATL 03/05/2008 ATL @ NOH L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -1
+p223
+aVSolomon Jones ATL 03/05/2008 ATL @ NOH L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 4
+p224
+aVAl Horford ATL 03/05/2008 ATL @ NOH L 40 8 3 8 37.5 0 0 - 2 2 100.0 3 8 11 4 0 1 2 4 -11
+p225
+aVSalim Stoudamire ATL 03/05/2008 ATL @ NOH L 14 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 3 0 -7
+p226
+aVMarvin Williams ATL 03/05/2008 ATL @ NOH L 38 11 5 11 45.5 0 0 - 1 2 50.0 1 4 5 1 0 0 1 2 -7
+p227
+aVZaza Pachulia ATL 03/05/2008 ATL @ NOH L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -8
+p228
+aVJeremy Richardson ATL 03/04/2008 ATL vs. GSW L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p229
+aVAl Horford ATL 03/04/2008 ATL vs. GSW L 32 14 6 6 100.0 0 0 - 2 2 100.0 1 7 8 3 2 1 0 2 -8
+p230
+aVJosh Smith ATL 03/04/2008 ATL vs. GSW L 30 20 6 14 42.9 0 0 - 8 12 66.7 6 5 11 4 0 4 3 3 -8
+p231
+aVMario West ATL 03/04/2008 ATL vs. GSW L 7 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 -2
+p232
+aVJosh Childress ATL 03/04/2008 ATL vs. GSW L 34 8 2 3 66.7 1 1 100.0 3 4 75.0 1 3 4 2 1 1 1 0 -6
+p233
+aVSolomon Jones ATL 03/04/2008 ATL vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p234
+aVSalim Stoudamire ATL 03/04/2008 ATL vs. GSW L 13 12 2 7 28.6 1 4 25.0 7 7 100.0 0 0 0 1 1 0 1 1 -3
+p235
+aVJoe Johnson ATL 03/04/2008 ATL vs. GSW L 43 38 13 22 59.1 5 7 71.4 7 7 100.0 2 5 7 6 0 0 5 1 -10
+p236
+aVMike Bibby ATL 03/04/2008 ATL vs. GSW L 35 5 2 7 28.6 0 4 0.0 1 2 50.0 0 3 3 6 1 0 3 1 -14
+p237
+aVMarvin Williams ATL 03/04/2008 ATL vs. GSW L 36 20 8 17 47.1 0 0 - 4 4 100.0 1 2 3 1 1 1 4 2 -22
+p238
+aVMarvin Williams ATL 03/02/2008 ATL @ BOS L 21 8 2 4 50.0 0 0 - 4 4 100.0 1 4 5 1 1 2 1 2 -3
+p239
+aVJosh Smith ATL 03/02/2008 ATL @ BOS L 40 22 8 22 36.4 1 1 100.0 5 8 62.5 4 5 9 1 0 3 3 5 -16
+p240
+aVMike Bibby ATL 03/02/2008 ATL @ BOS L 38 14 5 14 35.7 2 7 28.6 2 2 100.0 0 4 4 9 0 0 3 0 -7
+p241
+aVZaza Pachulia ATL 03/02/2008 ATL @ BOS L 16 3 1 4 25.0 0 0 - 1 1 100.0 1 3 4 1 0 0 0 3 9
+p242
+aVJeremy Richardson ATL 03/02/2008 ATL @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p243
+aVMario West ATL 03/02/2008 ATL @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p244
+aVJoe Johnson ATL 03/02/2008 ATL @ BOS L 41 9 4 16 25.0 0 6 0.0 1 1 100.0 2 4 6 3 2 0 4 2 -10
+p245
+aVSolomon Jones ATL 03/02/2008 ATL @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p246
+aVSalim Stoudamire ATL 03/02/2008 ATL @ BOS L 10 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p247
+aVAl Horford ATL 03/02/2008 ATL @ BOS L 38 14 5 9 55.6 0 0 - 4 6 66.7 3 8 11 0 1 2 0 3 -9
+p248
+aVJosh Childress ATL 03/02/2008 ATL @ BOS L 33 12 4 8 50.0 0 1 0.0 4 6 66.7 1 3 4 2 0 0 1 1 -7
+p249
+aVJoe Johnson ATL 02/29/2008 ATL vs. NYK W 43 20 8 22 36.4 2 6 33.3 2 2 100.0 3 5 8 6 2 1 1 0 6
+p250
+aVZaza Pachulia ATL 02/29/2008 ATL vs. NYK W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -6
+p251
+aVJosh Smith ATL 02/29/2008 ATL vs. NYK W 36 25 11 19 57.9 1 2 50.0 2 3 66.7 1 8 9 1 0 2 2 2 11
+p252
+aVMike Bibby ATL 02/29/2008 ATL vs. NYK W 35 11 4 11 36.4 1 5 20.0 2 4 50.0 0 5 5 10 2 0 2 3 16
+p253
+aVMario West ATL 02/29/2008 ATL vs. NYK W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p254
+aVJosh Childress ATL 02/29/2008 ATL vs. NYK W 36 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 4 0 0 3 1 0
+p255
+aVSalim Stoudamire ATL 02/29/2008 ATL vs. NYK W 12 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 0 -8
+p256
+aVSolomon Jones ATL 02/29/2008 ATL vs. NYK W 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -3
+p257
+aVMarvin Williams ATL 02/29/2008 ATL vs. NYK W 22 9 2 8 25.0 0 0 - 5 6 83.3 1 3 4 3 1 0 1 0 11
+p258
+aVAl Horford ATL 02/29/2008 ATL vs. NYK W 37 20 8 14 57.1 0 0 - 4 4 100.0 4 7 11 1 1 1 1 5 5
+p259
+aVZaza Pachulia ATL 02/27/2008 ATL vs. SAC W 17 5 1 4 25.0 0 0 - 3 4 75.0 1 4 5 0 1 0 1 3 9
+p260
+aVSalim Stoudamire ATL 02/27/2008 ATL vs. SAC W 11 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 2 1
+p261
+aVMario West ATL 02/27/2008 ATL vs. SAC W 16 7 3 7 42.9 0 0 - 1 1 100.0 4 1 5 0 1 0 2 3 6
+p262
+aVJosh Childress ATL 02/27/2008 ATL vs. SAC W 30 25 7 10 70.0 1 1 100.0 10 11 90.9 2 3 5 2 1 0 1 1 -2
+p263
+aVJeremy Richardson ATL 02/27/2008 ATL vs. SAC W 6 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p264
+aVJoe Johnson ATL 02/27/2008 ATL vs. SAC W 44 26 8 17 47.1 5 7 71.4 5 5 100.0 0 2 2 6 1 0 5 3 8
+p265
+aVSolomon Jones ATL 02/27/2008 ATL vs. SAC W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 5
+p266
+aVAl Horford ATL 02/27/2008 ATL vs. SAC W 41 16 6 8 75.0 0 1 0.0 4 4 100.0 5 9 14 4 1 0 2 5 -6
+p267
+aVMike Bibby ATL 02/27/2008 ATL vs. SAC W 37 24 7 13 53.8 2 5 40.0 8 9 88.9 0 5 5 12 1 1 1 4 12
+p268
+aVJosh Smith ATL 02/27/2008 ATL vs. SAC W 32 14 5 14 35.7 0 0 - 4 6 66.7 1 9 10 2 2 2 2 4 0
+p269
+aVMario West ATL 02/25/2008 ATL @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p270
+aVJeremy Richardson ATL 02/25/2008 ATL @ SAS L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p271
+aVJoe Johnson ATL 02/25/2008 ATL @ SAS L 41 17 5 12 41.7 4 7 57.1 3 4 75.0 2 3 5 5 1 0 6 0 -10
+p272
+aVAl Horford ATL 02/25/2008 ATL @ SAS L 29 12 5 11 45.5 0 0 - 2 2 100.0 6 7 13 0 2 0 1 1 -15
+p273
+aVJosh Smith ATL 02/25/2008 ATL @ SAS L 35 6 2 12 16.7 0 1 0.0 2 2 100.0 2 11 13 4 3 1 8 4 -2
+p274
+aVMike Bibby ATL 02/25/2008 ATL @ SAS L 36 2 1 11 9.1 0 5 0.0 0 2 0.0 1 4 5 5 1 0 4 2 -8
+p275
+aVZaza Pachulia ATL 02/25/2008 ATL @ SAS L 19 14 4 6 66.7 0 0 - 6 8 75.0 0 3 3 1 0 0 1 5 0
+p276
+aVJosh Childress ATL 02/25/2008 ATL @ SAS L 30 7 3 6 50.0 0 0 - 1 2 50.0 5 1 6 1 1 0 2 3 -13
+p277
+aVMarvin Williams ATL 02/25/2008 ATL @ SAS L 31 4 2 9 22.2 0 0 - 0 0 - 1 5 6 1 2 1 0 1 -17
+p278
+aVSalim Stoudamire ATL 02/25/2008 ATL @ SAS L 12 9 2 6 33.3 2 2 100.0 3 4 75.0 1 0 1 0 0 0 0 1 -7
+p279
+aVJoe Johnson ATL 02/23/2008 ATL @ UTA L 39 14 6 14 42.9 2 3 66.7 0 0 - 1 9 10 9 3 0 4 2 21
+p280
+aVSalim Stoudamire ATL 02/23/2008 ATL @ UTA L 10 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 2 2 -17
+p281
+aVJosh Childress ATL 02/23/2008 ATL @ UTA L 22 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 2 -17
+p282
+aVAl Horford ATL 02/23/2008 ATL @ UTA L 38 4 2 7 28.6 0 0 - 0 0 - 2 7 9 1 0 1 2 2 6
+p283
+aVZaza Pachulia ATL 02/23/2008 ATL @ UTA L 14 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 1 0 2 4 -17
+p284
+aVMarvin Williams ATL 02/23/2008 ATL @ UTA L 38 16 6 11 54.5 0 1 0.0 4 4 100.0 1 4 5 1 1 0 4 2 -14
+p285
+aVJosh Smith ATL 02/23/2008 ATL @ UTA L 37 30 13 20 65.0 1 2 50.0 3 5 60.0 5 7 12 2 2 2 3 3 12
+p286
+aVSolomon Jones ATL 02/23/2008 ATL @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p287
+aVMike Bibby ATL 02/23/2008 ATL @ UTA L 34 18 6 14 42.9 4 7 57.1 2 2 100.0 0 1 1 9 0 0 3 5 12
+p288
+aVJeremy Richardson ATL 02/23/2008 ATL @ UTA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p289
+aVMarvin Williams ATL 02/22/2008 ATL @ GSW W 38 10 2 11 18.2 0 2 0.0 6 6 100.0 5 9 14 2 1 0 0 2 -6
+p290
+aVAl Horford ATL 02/22/2008 ATL @ GSW W 18 8 4 9 44.4 0 0 - 0 0 - 2 2 4 1 1 0 2 4 11
+p291
+aVJeremy Richardson ATL 02/22/2008 ATL @ GSW W 13 3 1 5 20.0 1 3 33.3 0 0 - 1 0 1 0 0 0 1 1 11
+p292
+aVJoe Johnson ATL 02/22/2008 ATL @ GSW W 42 27 10 22 45.5 3 4 75.0 4 6 66.7 5 3 8 8 0 0 2 1 2
+p293
+aVSalim Stoudamire ATL 02/22/2008 ATL @ GSW W 23 18 6 11 54.5 2 5 40.0 4 5 80.0 0 2 2 1 2 0 1 2 2
+p294
+aVZaza Pachulia ATL 02/22/2008 ATL @ GSW W 10 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 1 8
+p295
+aVJosh Smith ATL 02/22/2008 ATL @ GSW W 40 17 7 14 50.0 1 1 100.0 2 2 100.0 0 9 9 4 0 2 6 3 3
+p296
+aVMike Bibby ATL 02/22/2008 ATL @ GSW W 24 17 5 9 55.6 3 7 42.9 4 4 100.0 0 3 3 7 1 1 4 0 5
+p297
+aVJosh Childress ATL 02/22/2008 ATL @ GSW W 32 13 6 8 75.0 0 1 0.0 1 2 50.0 4 5 9 2 2 3 4 3 -1
+p298
+aVJosh Smith ATL 02/20/2008 ATL @ SAC L 27 11 4 12 33.3 1 2 50.0 2 4 50.0 3 3 6 3 1 3 5 5 -8
+p299
+aVZaza Pachulia ATL 02/20/2008 ATL @ SAC L 15 4 0 3 0.0 0 0 - 4 6 66.7 2 0 2 1 1 1 2 1 -2
+p300
+aVAcie Law ATL 02/20/2008 ATL @ SAC L 17 7 2 6 33.3 1 1 100.0 2 2 100.0 0 2 2 0 0 0 1 0 1
+p301
+aVMario West ATL 02/20/2008 ATL @ SAC L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p302
+aVMarvin Williams ATL 02/20/2008 ATL @ SAC L 29 13 5 8 62.5 0 0 - 3 4 75.0 2 4 6 2 1 1 2 2 -15
+p303
+aVJeremy Richardson ATL 02/20/2008 ATL @ SAC L 8 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 2 -2
+p304
+aVJosh Childress ATL 02/20/2008 ATL @ SAC L 37 18 4 8 50.0 1 3 33.3 9 10 90.0 2 1 3 1 0 2 2 1 -8
+p305
+aVMike Bibby ATL 02/20/2008 ATL @ SAC L 30 17 6 10 60.0 4 5 80.0 1 3 33.3 0 1 1 3 0 0 2 2 -14
+p306
+aVJoe Johnson ATL 02/20/2008 ATL @ SAC L 29 16 7 12 58.3 1 5 20.0 1 2 50.0 0 4 4 4 0 0 2 5 0
+p307
+aVSalim Stoudamire ATL 02/20/2008 ATL @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p308
+aVAl Horford ATL 02/20/2008 ATL @ SAC L 43 12 5 11 45.5 0 0 - 2 2 100.0 3 9 12 3 1 3 1 6 -13
+p309
+aVJoe Johnson ATL 02/19/2008 ATL @ LAL L 30 18 6 12 50.0 2 5 40.0 4 4 100.0 1 0 1 3 1 0 4 2 -22
+p310
+aVSolomon Jones ATL 02/19/2008 ATL @ LAL L 12 0 0 1 0.0 0 0 - 0 0 - 2 5 7 0 0 1 3 3 -7
+p311
+aVAl Horford ATL 02/19/2008 ATL @ LAL L 22 4 2 4 50.0 0 0 - 0 0 - 0 5 5 2 1 0 5 3 -11
+p312
+aVJosh Smith ATL 02/19/2008 ATL @ LAL L 37 8 4 13 30.8 0 1 0.0 0 2 0.0 1 6 7 6 1 4 2 1 -25
+p313
+aVMarvin Williams ATL 02/19/2008 ATL @ LAL L 23 4 2 8 25.0 0 0 - 0 0 - 0 2 2 1 0 0 2 2 -9
+p314
+aVJosh Childress ATL 02/19/2008 ATL @ LAL L 31 16 6 11 54.5 1 1 100.0 3 3 100.0 1 2 3 0 0 2 1 2 -28
+p315
+aVSalim Stoudamire ATL 02/19/2008 ATL @ LAL L 8 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p316
+aVAcie Law ATL 02/19/2008 ATL @ LAL L 32 16 6 10 60.0 0 0 - 4 4 100.0 0 1 1 3 3 0 2 2 -11
+p317
+aVJeremy Richardson ATL 02/19/2008 ATL @ LAL L 9 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 0 0 0 1 0 0
+p318
+aVMike Bibby ATL 02/19/2008 ATL @ LAL L 16 5 1 5 20.0 0 4 0.0 3 4 75.0 0 0 0 3 1 0 2 4 -18
+p319
+aVZaza Pachulia ATL 02/19/2008 ATL @ LAL L 21 12 3 8 37.5 0 0 - 6 10 60.0 6 6 12 1 0 0 1 4 -8
+p320
+aVZaza Pachulia ATL 02/13/2008 ATL @ CHA L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 0
+p321
+aVAcie Law ATL 02/13/2008 ATL @ CHA L 29 13 6 8 75.0 0 0 - 1 2 50.0 0 2 2 2 1 0 1 0 11
+p322
+aVJoe Johnson ATL 02/13/2008 ATL @ CHA L 48 23 9 19 47.4 3 3 100.0 2 3 66.7 0 4 4 4 1 0 2 0 -5
+p323
+aVTyronn Lue ATL 02/13/2008 ATL @ CHA L 35 19 8 14 57.1 3 4 75.0 0 2 0.0 1 1 2 2 1 0 0 0 0
+p324
+aVAnthony Johnson ATL 02/13/2008 ATL @ CHA L 23 6 2 8 25.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 2 -11
+p325
+aVLorenzen Wright ATL 02/13/2008 ATL @ CHA L 21 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 11
+p326
+aVJosh Smith ATL 02/13/2008 ATL @ CHA L 16 4 2 4 50.0 0 0 - 0 2 0.0 1 2 3 1 0 0 5 6 -3
+p327
+aVAl Horford ATL 02/13/2008 ATL @ CHA L 33 12 6 11 54.5 0 0 - 0 0 - 8 6 14 0 0 3 3 5 -13
+p328
+aVMarvin Williams ATL 02/13/2008 ATL @ CHA L 47 14 3 15 20.0 0 0 - 8 8 100.0 1 5 6 3 2 1 1 5 -7
+p329
+aVShelden Williams ATL 02/13/2008 ATL @ CHA L 7 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 9
+p330
+aVMario West ATL 02/13/2008 ATL @ CHA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p331
+aVJosh Childress ATL 02/12/2008 ATL vs. DET L 27 12 6 7 85.7 0 0 - 0 0 - 1 0 1 0 2 0 1 1 -8
+p332
+aVMarvin Williams ATL 02/12/2008 ATL vs. DET L 32 8 4 12 33.3 0 0 - 0 0 - 4 4 8 1 0 0 3 2 -4
+p333
+aVZaza Pachulia ATL 02/12/2008 ATL vs. DET L 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -4
+p334
+aVAcie Law ATL 02/12/2008 ATL vs. DET L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -6
+p335
+aVTyronn Lue ATL 02/12/2008 ATL vs. DET L 17 7 2 7 28.6 1 2 50.0 2 2 100.0 2 1 3 3 0 0 1 0 8
+p336
+aVAl Horford ATL 02/12/2008 ATL vs. DET L 36 12 3 9 33.3 0 0 - 6 7 85.7 7 9 16 1 0 1 2 5 0
+p337
+aVJoe Johnson ATL 02/12/2008 ATL vs. DET L 39 11 3 13 23.1 0 3 0.0 5 6 83.3 1 8 9 4 0 0 3 4 2
+p338
+aVLorenzen Wright ATL 02/12/2008 ATL vs. DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p339
+aVMario West ATL 02/12/2008 ATL vs. DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p340
+aVAnthony Johnson ATL 02/12/2008 ATL vs. DET L 25 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 2 -6
+p341
+aVJosh Smith ATL 02/12/2008 ATL vs. DET L 41 30 12 21 57.1 1 3 33.3 5 6 83.3 1 5 6 2 0 3 4 4 6
+p342
+aVJosh Childress ATL 02/09/2008 ATL @ HOU L 26 18 4 7 57.1 0 1 0.0 10 11 90.9 3 1 4 0 1 0 1 3 -3
+p343
+aVJosh Smith ATL 02/09/2008 ATL @ HOU L 27 7 3 9 33.3 0 1 0.0 1 5 20.0 0 5 5 4 2 0 3 3 -19
+p344
+aVJoe Johnson ATL 02/09/2008 ATL @ HOU L 32 8 3 12 25.0 0 2 0.0 2 2 100.0 1 2 3 4 0 0 2 2 -26
+p345
+aVMario West ATL 02/09/2008 ATL @ HOU L 13 4 1 2 50.0 0 0 - 2 3 66.7 1 1 2 0 1 2 0 1 9
+p346
+aVAnthony Johnson ATL 02/09/2008 ATL @ HOU L 17 8 4 8 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -12
+p347
+aVAl Horford ATL 02/09/2008 ATL @ HOU L 27 8 4 9 44.4 0 0 - 0 0 - 4 4 8 2 1 0 1 2 -22
+p348
+aVAcie Law ATL 02/09/2008 ATL @ HOU L 23 9 3 8 37.5 0 0 - 3 4 75.0 1 0 1 2 0 0 0 0 1
+p349
+aVZaza Pachulia ATL 02/09/2008 ATL @ HOU L 29 11 5 12 41.7 0 0 - 1 2 50.0 5 4 9 2 1 0 1 4 -4
+p350
+aVMarvin Williams ATL 02/09/2008 ATL @ HOU L 27 8 4 12 33.3 0 0 - 0 0 - 1 4 5 1 1 0 0 3 -20
+p351
+aVShelden Williams ATL 02/09/2008 ATL @ HOU L 14 8 1 5 20.0 0 0 - 6 6 100.0 0 2 2 1 2 0 0 0 9
+p352
+aVTyronn Lue ATL 02/09/2008 ATL @ HOU L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p353
+aVZaza Pachulia ATL 02/08/2008 ATL vs. CLE L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p354
+aVAcie Law ATL 02/08/2008 ATL vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p355
+aVTyronn Lue ATL 02/08/2008 ATL vs. CLE L 29 9 3 7 42.9 1 2 50.0 2 2 100.0 0 2 2 1 0 0 1 4 0
+p356
+aVMarvin Williams ATL 02/08/2008 ATL vs. CLE L 39 21 7 14 50.0 0 0 - 7 7 100.0 2 3 5 0 0 0 3 2 -2
+p357
+aVJoe Johnson ATL 02/08/2008 ATL vs. CLE L 43 23 8 20 40.0 2 6 33.3 5 5 100.0 1 5 6 8 2 0 8 0 6
+p358
+aVJosh Childress ATL 02/08/2008 ATL vs. CLE L 36 12 5 8 62.5 0 1 0.0 2 4 50.0 4 2 6 3 0 1 0 1 -9
+p359
+aVAl Horford ATL 02/08/2008 ATL vs. CLE L 25 9 4 10 40.0 0 0 - 1 2 50.0 4 3 7 0 0 0 0 2 -4
+p360
+aVAnthony Johnson ATL 02/08/2008 ATL vs. CLE L 18 4 2 3 66.7 0 1 0.0 0 0 - 0 4 4 4 1 0 2 3 -9
+p361
+aVJosh Smith ATL 02/08/2008 ATL vs. CLE L 38 15 5 13 38.5 0 1 0.0 5 9 55.6 0 8 8 4 3 3 2 1 -4
+p362
+aVMario West ATL 02/08/2008 ATL vs. CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p363
+aVTyronn Lue ATL 02/06/2008 ATL vs. LAL W 23 16 6 10 60.0 2 3 66.7 2 2 100.0 0 1 1 3 0 0 1 0 3
+p364
+aVJoe Johnson ATL 02/06/2008 ATL vs. LAL W 43 28 10 20 50.0 2 5 40.0 6 6 100.0 1 3 4 5 2 0 3 1 3
+p365
+aVJosh Childress ATL 02/06/2008 ATL vs. LAL W 32 8 4 7 57.1 0 0 - 0 0 - 1 4 5 1 0 1 0 2 2
+p366
+aVZaza Pachulia ATL 02/06/2008 ATL vs. LAL W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -2
+p367
+aVAnthony Johnson ATL 02/06/2008 ATL vs. LAL W 25 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 8 2 0 2 1 2
+p368
+aVJosh Smith ATL 02/06/2008 ATL vs. LAL W 33 17 7 11 63.6 1 2 50.0 2 3 66.7 1 8 9 9 2 5 2 3 8
+p369
+aVMarvin Williams ATL 02/06/2008 ATL vs. LAL W 35 12 5 17 29.4 0 0 - 2 2 100.0 0 1 1 1 0 0 2 3 2
+p370
+aVAl Horford ATL 02/06/2008 ATL vs. LAL W 39 15 6 13 46.2 0 0 - 3 3 100.0 7 13 20 1 1 0 1 1 -1
+p371
+aVMario West ATL 02/06/2008 ATL vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p372
+aVJosh Smith ATL 02/04/2008 ATL vs. PHI W 40 19 7 13 53.8 0 1 0.0 5 7 71.4 1 5 6 9 4 9 5 3 12
+p373
+aVAl Horford ATL 02/04/2008 ATL vs. PHI W 27 6 3 11 27.3 0 1 0.0 0 0 - 4 4 8 0 0 2 2 5 -17
+p374
+aVAcie Law ATL 02/04/2008 ATL vs. PHI W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p375
+aVJosh Childress ATL 02/04/2008 ATL vs. PHI W 35 21 9 11 81.8 0 0 - 3 4 75.0 2 4 6 2 0 1 1 1 10
+p376
+aVJoe Johnson ATL 02/04/2008 ATL vs. PHI W 38 18 7 17 41.2 2 3 66.7 2 3 66.7 1 2 3 4 1 0 1 1 0
+p377
+aVTyronn Lue ATL 02/04/2008 ATL vs. PHI W 27 11 4 8 50.0 1 2 50.0 2 2 100.0 0 3 3 3 0 0 0 1 23
+p378
+aVMarvin Williams ATL 02/04/2008 ATL vs. PHI W 31 9 4 11 36.4 0 0 - 1 2 50.0 1 3 4 0 1 1 1 3 -7
+p379
+aVZaza Pachulia ATL 02/04/2008 ATL vs. PHI W 20 7 3 5 60.0 0 0 - 1 2 50.0 2 5 7 2 0 1 1 3 19
+p380
+aVAnthony Johnson ATL 02/04/2008 ATL vs. PHI W 15 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 4 0 0 0 2 -8
+p381
+aVAnthony Johnson ATL 02/02/2008 ATL vs. NJN W 21 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 0 0 1 3 2
+p382
+aVMarvin Williams ATL 02/02/2008 ATL vs. NJN W 38 24 9 19 47.4 0 0 - 6 6 100.0 4 3 7 5 1 0 2 3 11
+p383
+aVAl Horford ATL 02/02/2008 ATL vs. NJN W 32 14 6 10 60.0 0 0 - 2 2 100.0 3 4 7 0 0 0 2 3 6
+p384
+aVTyronn Lue ATL 02/02/2008 ATL vs. NJN W 9 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 9
+p385
+aVJosh Smith ATL 02/02/2008 ATL vs. NJN W 39 23 9 14 64.3 0 0 - 5 6 83.3 1 7 8 5 0 3 1 1 2
+p386
+aVJosh Childress ATL 02/02/2008 ATL vs. NJN W 35 23 10 11 90.9 0 1 0.0 3 4 75.0 4 2 6 4 2 0 1 3 13
+p387
+aVAcie Law ATL 02/02/2008 ATL vs. NJN W 21 0 0 1 0.0 0 0 - 0 0 - 0 0 0 8 0 0 0 0 10
+p388
+aVZaza Pachulia ATL 02/02/2008 ATL vs. NJN W 7 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 1 6
+p389
+aVJoe Johnson ATL 02/02/2008 ATL vs. NJN W 38 10 4 15 26.7 0 2 0.0 2 2 100.0 1 1 2 3 2 0 3 3 1
+p390
+aVAl Horford ATL 01/30/2008 ATL @ LAC L 34 14 5 12 41.7 0 1 0.0 4 5 80.0 3 7 10 0 1 0 1 3 6
+p391
+aVMarvin Williams ATL 01/30/2008 ATL @ LAC L 28 11 3 9 33.3 0 0 - 5 5 100.0 1 2 3 2 0 0 4 3 -10
+p392
+aVAnthony Johnson ATL 01/30/2008 ATL @ LAC L 26 6 2 6 33.3 0 1 0.0 2 2 100.0 1 3 4 5 0 0 0 1 -1
+p393
+aVAcie Law ATL 01/30/2008 ATL @ LAC L 10 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 1 13
+p394
+aVTyronn Lue ATL 01/30/2008 ATL @ LAC L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 2 1 -17
+p395
+aVJosh Smith ATL 01/30/2008 ATL @ LAC L 43 21 10 21 47.6 0 2 0.0 1 2 50.0 3 7 10 8 3 1 3 3 0
+p396
+aVJosh Childress ATL 01/30/2008 ATL @ LAC L 36 14 7 14 50.0 0 0 - 0 0 - 4 0 4 2 2 3 2 3 -13
+p397
+aVJoe Johnson ATL 01/30/2008 ATL @ LAC L 41 17 6 14 42.9 1 2 50.0 4 5 80.0 1 4 5 4 1 0 2 4 -2
+p398
+aVZaza Pachulia ATL 01/30/2008 ATL @ LAC L 10 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 1 0 1 -11
+p399
+aVSolomon Jones ATL 01/29/2008 ATL @ PHX L 8 5 2 4 50.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 2 -4
+p400
+aVAnthony Johnson ATL 01/29/2008 ATL @ PHX L 19 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 2 0 1 1 -18
+p401
+aVJosh Childress ATL 01/29/2008 ATL @ PHX L 33 17 6 14 42.9 0 0 - 5 7 71.4 6 1 7 1 2 1 3 0 -23
+p402
+aVAcie Law ATL 01/29/2008 ATL @ PHX L 27 8 4 10 40.0 0 1 0.0 0 0 - 0 1 1 4 0 0 2 1 -15
+p403
+aVSalim Stoudamire ATL 01/29/2008 ATL @ PHX L 13 3 1 7 14.3 1 2 50.0 0 0 - 1 1 2 1 0 2 0 0 -1
+p404
+aVShelden Williams ATL 01/29/2008 ATL @ PHX L 5 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 0 1 0 0
+p405
+aVZaza Pachulia ATL 01/29/2008 ATL @ PHX L 20 12 4 10 40.0 0 0 - 4 4 100.0 5 0 5 1 0 1 1 1 -4
+p406
+aVAl Horford ATL 01/29/2008 ATL @ PHX L 20 5 2 7 28.6 0 0 - 1 1 100.0 0 3 3 0 2 1 3 5 -25
+p407
+aVTyronn Lue ATL 01/29/2008 ATL @ PHX L 15 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 -8
+p408
+aVJoe Johnson ATL 01/29/2008 ATL @ PHX L 25 9 3 14 21.4 0 2 0.0 3 3 100.0 5 3 8 1 0 0 3 2 -24
+p409
+aVMarvin Williams ATL 01/29/2008 ATL @ PHX L 32 18 7 15 46.7 0 0 - 4 5 80.0 3 5 8 1 0 0 2 3 -28
+p410
+aVJosh Smith ATL 01/29/2008 ATL @ PHX L 22 7 3 13 23.1 0 1 0.0 1 1 100.0 2 5 7 2 2 0 2 4 -15
+p411
+aVMarvin Williams ATL 01/27/2008 ATL @ POR L 35 17 7 10 70.0 0 0 - 3 3 100.0 2 3 5 1 0 1 1 2 -1
+p412
+aVMario West ATL 01/27/2008 ATL @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p413
+aVAl Horford ATL 01/27/2008 ATL @ POR L 36 9 3 5 60.0 0 0 - 3 6 50.0 4 8 12 1 0 0 1 2 6
+p414
+aVJosh Smith ATL 01/27/2008 ATL @ POR L 32 17 8 13 61.5 0 0 - 1 1 100.0 1 3 4 1 3 2 4 3 6
+p415
+aVTyronn Lue ATL 01/27/2008 ATL @ POR L 3 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p416
+aVAnthony Johnson ATL 01/27/2008 ATL @ POR L 32 12 5 9 55.6 2 3 66.7 0 0 - 0 0 0 11 1 0 0 1 3
+p417
+aVAcie Law ATL 01/27/2008 ATL @ POR L 16 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -4
+p418
+aVZaza Pachulia ATL 01/27/2008 ATL @ POR L 15 8 4 4 100.0 0 0 - 0 2 0.0 0 4 4 1 0 0 1 4 -9
+p419
+aVJoe Johnson ATL 01/27/2008 ATL @ POR L 45 19 9 24 37.5 0 6 0.0 1 1 100.0 2 5 7 6 1 0 4 3 2
+p420
+aVJosh Childress ATL 01/27/2008 ATL @ POR L 26 5 2 7 28.6 0 0 - 1 1 100.0 3 1 4 5 1 0 1 1 -2
+p421
+aVShelden Williams ATL 01/25/2008 ATL @ SEA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p422
+aVAl Horford ATL 01/25/2008 ATL @ SEA W 38 10 4 8 50.0 0 0 - 2 4 50.0 2 14 16 2 1 1 2 3 12
+p423
+aVMario West ATL 01/25/2008 ATL @ SEA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p424
+aVMarvin Williams ATL 01/25/2008 ATL @ SEA W 39 33 12 20 60.0 0 0 - 9 12 75.0 4 3 7 2 3 1 2 1 0
+p425
+aVAnthony Johnson ATL 01/25/2008 ATL @ SEA W 34 10 3 12 25.0 2 4 50.0 2 2 100.0 0 1 1 5 1 0 2 2 11
+p426
+aVJoe Johnson ATL 01/25/2008 ATL @ SEA W 35 13 4 12 33.3 1 3 33.3 4 4 100.0 1 5 6 7 0 0 2 1 18
+p427
+aVJosh Smith ATL 01/25/2008 ATL @ SEA W 34 14 5 13 38.5 0 0 - 4 4 100.0 0 5 5 2 3 5 2 6 17
+p428
+aVAcie Law ATL 01/25/2008 ATL @ SEA W 14 0 0 5 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -4
+p429
+aVZaza Pachulia ATL 01/25/2008 ATL @ SEA W 17 6 3 4 75.0 0 0 - 0 0 - 1 5 6 1 0 0 1 4 -7
+p430
+aVJosh Childress ATL 01/25/2008 ATL @ SEA W 25 13 5 8 62.5 0 1 0.0 3 4 75.0 3 3 6 0 0 0 3 1 2
+p431
+aVMarvin Williams ATL 01/23/2008 ATL @ DEN L 36 20 7 16 43.8 0 0 - 6 6 100.0 1 5 6 1 1 0 2 2 -2
+p432
+aVMario West ATL 01/23/2008 ATL @ DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p433
+aVSolomon Jones ATL 01/23/2008 ATL @ DEN L 9 0 0 2 0.0 0 0 - 0 2 0.0 3 2 5 0 0 0 0 2 -4
+p434
+aVAl Horford ATL 01/23/2008 ATL @ DEN L 29 14 6 8 75.0 0 0 - 2 5 40.0 5 6 11 2 5 1 0 4 7
+p435
+aVJosh Smith ATL 01/23/2008 ATL @ DEN L 41 22 8 23 34.8 0 1 0.0 6 7 85.7 2 10 12 10 3 5 7 4 -3
+p436
+aVAnthony Johnson ATL 01/23/2008 ATL @ DEN L 34 12 5 10 50.0 2 3 66.7 0 0 - 0 2 2 6 1 0 2 4 6
+p437
+aVTyronn Lue ATL 01/23/2008 ATL @ DEN L 18 9 4 9 44.4 1 3 33.3 0 0 - 1 1 2 2 1 0 1 3 -2
+p438
+aVJoe Johnson ATL 01/23/2008 ATL @ DEN L 40 14 5 17 29.4 2 4 50.0 2 2 100.0 1 4 5 5 2 0 2 3 -6
+p439
+aVJosh Childress ATL 01/23/2008 ATL @ DEN L 25 9 3 9 33.3 0 1 0.0 3 4 75.0 2 4 6 3 2 1 1 1 -11
+p440
+aVShelden Williams ATL 01/23/2008 ATL @ DEN L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p441
+aVAcie Law ATL 01/23/2008 ATL @ DEN L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -11
+p442
+aVJosh Smith ATL 01/21/2008 ATL vs. POR L 47 17 4 15 26.7 0 1 0.0 9 10 90.0 6 11 17 6 2 3 3 4 -2
+p443
+aVTyronn Lue ATL 01/21/2008 ATL vs. POR L 25 18 5 7 71.4 4 4 100.0 4 4 100.0 0 2 2 3 1 0 0 1 -8
+p444
+aVJoe Johnson ATL 01/21/2008 ATL vs. POR L 50 37 12 26 46.2 4 9 44.4 9 11 81.8 1 3 4 7 0 0 0 2 6
+p445
+aVMarvin Williams ATL 01/21/2008 ATL vs. POR L 40 11 4 13 30.8 0 1 0.0 3 4 75.0 2 2 4 1 0 1 2 2 -3
+p446
+aVZaza Pachulia ATL 01/21/2008 ATL vs. POR L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -1
+p447
+aVAl Horford ATL 01/21/2008 ATL vs. POR L 39 7 2 7 28.6 0 0 - 3 4 75.0 1 10 11 2 0 1 1 3 4
+p448
+aVMario West ATL 01/21/2008 ATL vs. POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p449
+aVAcie Law ATL 01/21/2008 ATL vs. POR L 20 7 3 4 75.0 1 1 100.0 0 0 - 2 3 5 5 0 0 0 3 5
+p450
+aVJosh Childress ATL 01/21/2008 ATL vs. POR L 36 11 5 8 62.5 0 1 0.0 1 1 100.0 2 1 3 1 1 0 4 2 -9
+p451
+aVJosh Smith ATL 01/18/2008 ATL @ TOR L 39 24 11 16 68.8 0 0 - 2 2 100.0 2 7 9 7 2 2 4 3 -11
+p452
+aVJoe Johnson ATL 01/18/2008 ATL @ TOR L 42 25 8 18 44.4 5 11 45.5 4 6 66.7 0 4 4 7 0 0 1 3 -12
+p453
+aVMarvin Williams ATL 01/18/2008 ATL @ TOR L 42 13 5 15 33.3 0 0 - 3 4 75.0 3 6 9 1 0 1 1 3 -10
+p454
+aVMario West ATL 01/18/2008 ATL @ TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p455
+aVAl Horford ATL 01/18/2008 ATL @ TOR L 38 8 4 11 36.4 0 0 - 0 1 0.0 2 7 9 4 0 2 2 3 -6
+p456
+aVTyronn Lue ATL 01/18/2008 ATL @ TOR L 13 5 2 4 50.0 1 3 33.3 0 0 - 1 0 1 3 1 0 1 2 -7
+p457
+aVJosh Childress ATL 01/18/2008 ATL @ TOR L 22 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 1 2 0 -8
+p458
+aVSolomon Jones ATL 01/18/2008 ATL @ TOR L 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 1
+p459
+aVAnthony Johnson ATL 01/18/2008 ATL @ TOR L 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 3 -3
+p460
+aVLorenzen Wright ATL 01/18/2008 ATL @ TOR L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p461
+aVAcie Law ATL 01/18/2008 ATL @ TOR L 18 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p462
+aVJosh Smith ATL 01/16/2008 ATL @ MIL L 39 19 7 20 35.0 0 2 0.0 5 7 71.4 4 5 9 1 0 7 2 2 -10
+p463
+aVShelden Williams ATL 01/16/2008 ATL @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p464
+aVAnthony Johnson ATL 01/16/2008 ATL @ MIL L 27 7 3 6 50.0 1 1 100.0 0 0 - 1 3 4 7 0 1 1 2 -1
+p465
+aVJosh Childress ATL 01/16/2008 ATL @ MIL L 21 6 1 3 33.3 0 0 - 4 6 66.7 2 2 4 0 2 1 0 2 -8
+p466
+aVAcie Law ATL 01/16/2008 ATL @ MIL L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 0 -5
+p467
+aVMarvin Williams ATL 01/16/2008 ATL @ MIL L 39 22 6 13 46.2 0 0 - 10 11 90.9 1 5 6 3 2 1 2 2 0
+p468
+aVJoe Johnson ATL 01/16/2008 ATL @ MIL L 39 12 4 16 25.0 1 5 20.0 3 4 75.0 0 7 7 1 2 0 2 3 -7
+p469
+aVSolomon Jones ATL 01/16/2008 ATL @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p470
+aVLorenzen Wright ATL 01/16/2008 ATL @ MIL L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 3 -2
+p471
+aVAl Horford ATL 01/16/2008 ATL @ MIL L 30 6 2 7 28.6 0 0 - 2 2 100.0 2 5 7 2 0 2 2 5 -3
+p472
+aVTyronn Lue ATL 01/16/2008 ATL @ MIL L 15 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 2 0 0 2 0 1
+p473
+aVJosh Smith ATL 01/15/2008 ATL vs. DEN W 31 10 5 10 50.0 0 1 0.0 0 0 - 2 2 4 4 1 2 3 4 7
+p474
+aVAcie Law ATL 01/15/2008 ATL vs. DEN W 22 6 3 9 33.3 0 2 0.0 0 0 - 0 1 1 5 0 0 1 0 9
+p475
+aVMario West ATL 01/15/2008 ATL vs. DEN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p476
+aVAnthony Johnson ATL 01/15/2008 ATL vs. DEN W 26 13 6 10 60.0 1 3 33.3 0 0 - 1 1 2 6 3 0 1 2 2
+p477
+aVJoe Johnson ATL 01/15/2008 ATL vs. DEN W 42 22 7 14 50.0 3 6 50.0 5 5 100.0 0 4 4 5 0 0 5 2 18
+p478
+aVAl Horford ATL 01/15/2008 ATL vs. DEN W 32 12 3 11 27.3 0 1 0.0 6 7 85.7 2 6 8 3 1 2 0 2 7
+p479
+aVTyronn Lue ATL 01/15/2008 ATL vs. DEN W 12 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 3 0 0 0 3 2
+p480
+aVMarvin Williams ATL 01/15/2008 ATL vs. DEN W 33 19 8 12 66.7 0 0 - 3 4 75.0 1 8 9 4 1 1 1 5 14
+p481
+aVSolomon Jones ATL 01/15/2008 ATL vs. DEN W 4 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 1 0 1 1 -2
+p482
+aVJosh Childress ATL 01/15/2008 ATL vs. DEN W 35 17 6 9 66.7 0 1 0.0 5 6 83.3 2 2 4 3 1 0 1 1 -1
+p483
+aVJosh Smith ATL 01/13/2008 ATL vs. CHI W 25 9 4 9 44.4 0 0 - 1 1 100.0 1 7 8 3 2 4 5 5 20
+p484
+aVAcie Law ATL 01/13/2008 ATL vs. CHI W 22 5 2 8 25.0 0 1 0.0 1 1 100.0 2 1 3 3 1 0 1 1 -5
+p485
+aVSolomon Jones ATL 01/13/2008 ATL vs. CHI W 19 6 2 6 33.3 0 0 - 2 2 100.0 6 1 7 0 0 0 0 4 3
+p486
+aVAnthony Johnson ATL 01/13/2008 ATL vs. CHI W 26 7 2 4 50.0 0 0 - 3 3 100.0 0 2 2 4 1 2 0 3 26
+p487
+aVJoe Johnson ATL 01/13/2008 ATL vs. CHI W 42 37 13 23 56.5 5 6 83.3 6 6 100.0 1 8 9 6 1 0 1 2 17
+p488
+aVAl Horford ATL 01/13/2008 ATL vs. CHI W 21 8 3 4 75.0 0 0 - 2 4 50.0 2 7 9 0 0 0 1 5 13
+p489
+aVMario West ATL 01/13/2008 ATL vs. CHI W 4 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 1 1 3
+p490
+aVJosh Childress ATL 01/13/2008 ATL vs. CHI W 33 14 6 11 54.5 0 0 - 2 2 100.0 3 6 9 2 1 1 3 3 9
+p491
+aVTyronn Lue ATL 01/13/2008 ATL vs. CHI W 11 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 13
+p492
+aVMarvin Williams ATL 01/13/2008 ATL vs. CHI W 37 11 3 11 27.3 0 0 - 5 6 83.3 0 4 4 3 2 4 4 3 6
+p493
+aVJosh Childress ATL 01/11/2008 ATL vs. WAS L 27 11 5 9 55.6 0 0 - 1 1 100.0 1 1 2 3 2 0 0 0 2
+p494
+aVLorenzen Wright ATL 01/11/2008 ATL vs. WAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -9
+p495
+aVAnthony Johnson ATL 01/11/2008 ATL vs. WAS L 43 5 2 7 28.6 1 2 50.0 0 0 - 1 3 4 9 0 0 0 2 2
+p496
+aVAcie Law ATL 01/11/2008 ATL vs. WAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -7
+p497
+aVMarvin Williams ATL 01/11/2008 ATL vs. WAS L 41 16 6 18 33.3 0 0 - 4 6 66.7 2 7 9 1 1 1 2 4 -7
+p498
+aVJosh Smith ATL 01/11/2008 ATL vs. WAS L 49 35 15 26 57.7 1 4 25.0 4 10 40.0 4 5 9 5 1 3 2 4 0
+p499
+aVJoe Johnson ATL 01/11/2008 ATL vs. WAS L 50 23 9 19 47.4 2 5 40.0 3 5 60.0 0 1 1 9 0 0 2 3 -4
+p500
+aVAl Horford ATL 01/11/2008 ATL vs. WAS L 43 8 4 7 57.1 0 0 - 0 0 - 6 13 19 2 1 0 2 3 7
+p501
+aVMario West ATL 01/11/2008 ATL vs. WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p502
+aVLorenzen Wright ATL 01/09/2008 ATL vs. CLE W 23 0 0 3 0.0 0 0 - 0 0 - 1 7 8 0 0 1 0 4 3
+p503
+aVMario West ATL 01/09/2008 ATL vs. CLE W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p504
+aVAnthony Johnson ATL 01/09/2008 ATL vs. CLE W 28 5 2 5 40.0 0 1 0.0 1 2 50.0 1 0 1 6 1 0 0 1 5
+p505
+aVAcie Law ATL 01/09/2008 ATL vs. CLE W 17 3 1 2 50.0 0 1 0.0 1 2 50.0 1 0 1 1 1 0 3 1 1
+p506
+aVShelden Williams ATL 01/09/2008 ATL vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p507
+aVTyronn Lue ATL 01/09/2008 ATL vs. CLE W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p508
+aVJosh Smith ATL 01/09/2008 ATL vs. CLE W 28 19 7 15 46.7 0 1 0.0 5 9 55.6 0 2 2 1 2 1 2 5 8
+p509
+aVJosh Childress ATL 01/09/2008 ATL vs. CLE W 26 12 4 4 100.0 0 0 - 4 5 80.0 2 3 5 3 0 0 3 4 5
+p510
+aVAl Horford ATL 01/09/2008 ATL vs. CLE W 33 10 5 10 50.0 0 0 - 0 0 - 4 11 15 1 0 2 2 5 9
+p511
+aVJoe Johnson ATL 01/09/2008 ATL vs. CLE W 45 29 9 19 47.4 0 0 - 11 14 78.6 0 7 7 5 0 1 5 1 9
+p512
+aVMarvin Williams ATL 01/09/2008 ATL vs. CLE W 38 12 5 13 38.5 0 0 - 2 2 100.0 5 3 8 3 2 0 2 3 3
+p513
+aVAnthony Johnson ATL 01/05/2008 ATL vs. NJN L 36 14 6 14 42.9 2 6 33.3 0 0 - 0 2 2 10 2 0 2 1 -13
+p514
+aVMarvin Williams ATL 01/05/2008 ATL vs. NJN L 28 18 5 7 71.4 0 1 0.0 8 12 66.7 2 6 8 0 1 0 2 6 -11
+p515
+aVJoe Johnson ATL 01/05/2008 ATL vs. NJN L 36 9 4 16 25.0 0 5 0.0 1 1 100.0 3 5 8 8 4 1 4 6 -13
+p516
+aVJosh Smith ATL 01/05/2008 ATL vs. NJN L 44 34 14 22 63.6 0 1 0.0 6 10 60.0 1 8 9 3 3 3 5 1 -5
+p517
+aVShelden Williams ATL 01/05/2008 ATL vs. NJN L 12 0 0 4 0.0 0 0 - 0 0 - 3 0 3 0 0 0 1 3 2
+p518
+aVAl Horford ATL 01/05/2008 ATL vs. NJN L 23 7 3 5 60.0 0 0 - 1 1 100.0 2 6 8 2 0 2 2 5 -2
+p519
+aVZaza Pachulia ATL 01/05/2008 ATL vs. NJN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -5
+p520
+aVMario West ATL 01/05/2008 ATL vs. NJN L 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 3 1 0 0 5 3
+p521
+aVAcie Law ATL 01/05/2008 ATL vs. NJN L 13 7 2 4 50.0 0 1 0.0 3 3 100.0 0 1 1 4 1 0 2 2 7
+p522
+aVJosh Childress ATL 01/05/2008 ATL vs. NJN L 33 16 6 9 66.7 0 0 - 4 6 66.7 2 5 7 1 1 1 1 1 7
+p523
+aVAnthony Johnson ATL 01/04/2008 ATL @ IND L 22 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -23
+p524
+aVMario West ATL 01/04/2008 ATL @ IND L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 2 0 0 3 4
+p525
+aVJosh Childress ATL 01/04/2008 ATL @ IND L 37 26 10 13 76.9 0 0 - 6 8 75.0 2 6 8 2 1 0 2 2 -14
+p526
+aVShelden Williams ATL 01/04/2008 ATL @ IND L 26 3 0 4 0.0 0 0 - 3 4 75.0 0 7 7 0 3 2 1 1 4
+p527
+aVJosh Smith ATL 01/04/2008 ATL @ IND L 33 20 7 13 53.8 0 1 0.0 6 8 75.0 1 3 4 1 0 5 6 3 -25
+p528
+aVJoe Johnson ATL 01/04/2008 ATL @ IND L 32 8 3 11 27.3 0 2 0.0 2 2 100.0 0 2 2 1 0 0 1 2 -26
+p529
+aVLorenzen Wright ATL 01/04/2008 ATL @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -10
+p530
+aVTyronn Lue ATL 01/04/2008 ATL @ IND L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 5
+p531
+aVMarvin Williams ATL 01/04/2008 ATL @ IND L 27 13 3 10 30.0 0 1 0.0 7 8 87.5 2 1 3 1 1 0 2 4 -11
+p532
+aVAcie Law ATL 01/04/2008 ATL @ IND L 24 11 4 9 44.4 1 3 33.3 2 2 100.0 0 0 0 2 0 0 1 3 2
+p533
+aVAl Horford ATL 01/04/2008 ATL @ IND L 15 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 1 0 3 4 -16
+p534
+aVTyronn Lue ATL 01/02/2008 ATL @ CLE L 15 8 2 4 50.0 0 2 0.0 4 4 100.0 0 0 0 2 0 0 0 3 1
+p535
+aVJoe Johnson ATL 01/02/2008 ATL @ CLE L 35 24 8 18 44.4 4 6 66.7 4 4 100.0 1 1 2 2 0 0 2 3 -4
+p536
+aVAnthony Johnson ATL 01/02/2008 ATL @ CLE L 24 5 2 8 25.0 1 2 50.0 0 0 - 1 4 5 2 1 0 3 2 0
+p537
+aVZaza Pachulia ATL 01/02/2008 ATL @ CLE L 4 0 0 5 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p538
+aVLorenzen Wright ATL 01/02/2008 ATL @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 7
+p539
+aVAl Horford ATL 01/02/2008 ATL @ CLE L 41 8 4 9 44.4 0 0 - 0 2 0.0 4 5 9 3 3 1 0 4 -5
+p540
+aVShelden Williams ATL 01/02/2008 ATL @ CLE L 12 0 0 3 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 -2
+p541
+aVJosh Childress ATL 01/02/2008 ATL @ CLE L 25 13 5 7 71.4 0 0 - 3 4 75.0 1 1 2 1 4 0 0 0 2
+p542
+aVJosh Smith ATL 01/02/2008 ATL @ CLE L 35 20 8 15 53.3 0 1 0.0 4 6 66.7 4 4 8 2 1 1 2 4 -9
+p543
+aVMarvin Williams ATL 01/02/2008 ATL @ CLE L 38 16 2 6 33.3 0 0 - 12 12 100.0 0 4 4 1 1 0 1 4 -6
+p544
+aVAcie Law ATL 01/02/2008 ATL @ CLE L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -4
+p545
+aVAl Horford ATL 12/29/2007 ATL @ DAL L 32 11 4 9 44.4 0 0 - 3 4 75.0 0 10 10 0 2 1 1 3 -12
+p546
+aVMarvin Williams ATL 12/29/2007 ATL @ DAL L 32 18 6 12 50.0 0 0 - 6 7 85.7 0 6 6 0 0 0 3 3 -13
+p547
+aVAnthony Johnson ATL 12/29/2007 ATL @ DAL L 19 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -17
+p548
+aVShelden Williams ATL 12/29/2007 ATL @ DAL L 7 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 5 3
+p549
+aVJosh Childress ATL 12/29/2007 ATL @ DAL L 29 3 1 2 50.0 0 0 - 1 2 50.0 3 3 6 0 1 0 2 3 0
+p550
+aVJosh Smith ATL 12/29/2007 ATL @ DAL L 42 13 4 11 36.4 0 0 - 5 8 62.5 2 6 8 3 3 6 3 2 -10
+p551
+aVMario West ATL 12/29/2007 ATL @ DAL L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p552
+aVJoe Johnson ATL 12/29/2007 ATL @ DAL L 46 17 6 18 33.3 1 5 20.0 4 5 80.0 0 2 2 5 0 0 4 4 -9
+p553
+aVZaza Pachulia ATL 12/29/2007 ATL @ DAL L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p554
+aVAcie Law ATL 12/29/2007 ATL @ DAL L 23 12 4 11 36.4 0 0 - 4 5 80.0 0 0 0 2 3 0 1 5 -1
+p555
+aVAcie Law ATL 12/26/2007 ATL vs. IND W 15 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p556
+aVAnthony Johnson ATL 12/26/2007 ATL vs. IND W 33 13 5 8 62.5 3 3 100.0 0 0 - 1 6 7 3 0 0 2 2 14
+p557
+aVAl Horford ATL 12/26/2007 ATL vs. IND W 30 12 5 13 38.5 0 0 - 2 2 100.0 3 4 7 1 1 3 2 4 3
+p558
+aVMarvin Williams ATL 12/26/2007 ATL vs. IND W 35 14 4 8 50.0 0 0 - 6 8 75.0 0 5 5 5 1 1 2 4 2
+p559
+aVJosh Childress ATL 12/26/2007 ATL vs. IND W 24 8 3 6 50.0 0 1 0.0 2 2 100.0 1 3 4 3 2 0 1 3 11
+p560
+aVJoe Johnson ATL 12/26/2007 ATL vs. IND W 44 26 8 20 40.0 1 3 33.3 9 9 100.0 1 3 4 11 1 1 2 1 22
+p561
+aVMario West ATL 12/26/2007 ATL vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p562
+aVZaza Pachulia ATL 12/26/2007 ATL vs. IND W 19 4 2 8 25.0 0 0 - 0 0 - 2 2 4 1 1 1 5 2 -1
+p563
+aVShelden Williams ATL 12/26/2007 ATL vs. IND W 19 10 3 7 42.9 0 0 - 4 4 100.0 4 6 10 0 1 1 2 3 -1
+p564
+aVJosh Smith ATL 12/26/2007 ATL vs. IND W 21 16 6 12 50.0 1 1 100.0 3 5 60.0 3 4 7 3 2 0 3 4 12
+p565
+aVJosh Smith ATL 12/21/2007 ATL @ WAS W 38 16 6 13 46.2 2 3 66.7 2 4 50.0 3 11 14 4 1 3 2 3 8
+p566
+aVMario West ATL 12/21/2007 ATL @ WAS W 4 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -6
+p567
+aVAl Horford ATL 12/21/2007 ATL @ WAS W 31 13 6 9 66.7 0 0 - 1 2 50.0 3 4 7 2 1 0 2 3 14
+p568
+aVMarvin Williams ATL 12/21/2007 ATL @ WAS W 35 22 8 12 66.7 0 0 - 6 7 85.7 0 3 3 1 0 0 1 6 -7
+p569
+aVJoe Johnson ATL 12/21/2007 ATL @ WAS W 46 32 10 22 45.5 4 6 66.7 8 9 88.9 3 2 5 8 1 0 1 2 13
+p570
+aVAnthony Johnson ATL 12/21/2007 ATL @ WAS W 40 5 1 7 14.3 1 1 100.0 2 2 100.0 0 1 1 8 1 1 3 2 8
+p571
+aVJosh Childress ATL 12/21/2007 ATL @ WAS W 23 4 2 5 40.0 0 1 0.0 0 0 - 3 8 11 0 0 0 1 0 9
+p572
+aVZaza Pachulia ATL 12/21/2007 ATL @ WAS W 17 3 0 2 0.0 0 0 - 3 4 75.0 4 2 6 0 0 1 4 2 -9
+p573
+aVAcie Law ATL 12/21/2007 ATL @ WAS W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -5
+p574
+aVAl Horford ATL 12/19/2007 ATL vs. MIA W 17 5 1 2 50.0 0 0 - 3 4 75.0 1 5 6 1 0 0 2 5 5
+p575
+aVAnthony Johnson ATL 12/19/2007 ATL vs. MIA W 37 19 8 14 57.1 1 3 33.3 2 2 100.0 0 2 2 9 1 0 2 4 2
+p576
+aVJosh Childress ATL 12/19/2007 ATL vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p577
+aVMike Bibby ATL 12/19/2007 ATL vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p578
+aVLorenzen Wright ATL 12/19/2007 ATL vs. MIA W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -6
+p579
+aVZaza Pachulia ATL 12/19/2007 ATL vs. MIA W 30 13 3 6 50.0 0 0 - 7 7 100.0 1 7 8 0 0 0 1 5 0
+p580
+aVShelden Williams ATL 12/19/2007 ATL vs. MIA W 14 8 3 4 75.0 0 0 - 2 2 100.0 2 2 4 1 0 0 0 2 6
+p581
+aVMarvin Williams ATL 12/19/2007 ATL vs. MIA W 50 26 9 17 52.9 0 0 - 8 10 80.0 4 5 9 2 2 0 6 4 6
+p582
+aVJosh Smith ATL 12/19/2007 ATL vs. MIA W 28 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 4 1 0 1 6 1
+p583
+aVJoe Johnson ATL 12/19/2007 ATL vs. MIA W 53 25 11 25 44.0 0 8 0.0 3 5 60.0 1 4 5 9 3 0 1 2 3
+p584
+aVAcie Law ATL 12/19/2007 ATL vs. MIA W 8 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 1 0 1 1 3
+p585
+aVMario West ATL 12/19/2007 ATL vs. MIA W 20 0 0 1 0.0 0 0 - 0 0 - 2 1 3 2 0 0 1 4 -5
+p586
+aVAnthony Johnson ATL 12/17/2007 ATL vs. UTA W 45 17 7 11 63.6 3 4 75.0 0 0 - 0 1 1 14 1 0 3 4 9
+p587
+aVMario West ATL 12/17/2007 ATL vs. UTA W 15 7 3 4 75.0 0 0 - 1 1 100.0 2 0 2 0 1 0 1 4 -6
+p588
+aVShelden Williams ATL 12/17/2007 ATL vs. UTA W 15 2 0 0 - 0 0 - 2 4 50.0 1 1 2 0 0 1 0 2 6
+p589
+aVZaza Pachulia ATL 12/17/2007 ATL vs. UTA W 25 8 2 2 100.0 0 0 - 4 8 50.0 0 5 5 0 1 0 4 5 13
+p590
+aVJosh Smith ATL 12/17/2007 ATL vs. UTA W 29 18 5 13 38.5 0 2 0.0 8 10 80.0 6 6 12 1 2 5 2 5 -6
+p591
+aVSolomon Jones ATL 12/17/2007 ATL vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p592
+aVAl Horford ATL 12/17/2007 ATL vs. UTA W 28 17 8 11 72.7 0 0 - 1 4 25.0 3 4 7 2 1 0 3 5 2
+p593
+aVJoe Johnson ATL 12/17/2007 ATL vs. UTA W 36 26 8 17 47.1 1 6 16.7 9 11 81.8 0 3 3 5 1 0 3 4 2
+p594
+aVMarvin Williams ATL 12/17/2007 ATL vs. UTA W 48 21 5 8 62.5 0 0 - 11 12 91.7 2 4 6 3 3 0 4 2 5
+p595
+aVMarvin Williams ATL 12/15/2007 ATL vs. CHA W 45 20 7 12 58.3 0 0 - 6 8 75.0 0 5 5 3 2 1 2 3 5
+p596
+aVAl Horford ATL 12/15/2007 ATL vs. CHA W 30 6 3 7 42.9 0 0 - 0 0 - 1 3 4 1 1 1 3 5 -8
+p597
+aVJoe Johnson ATL 12/15/2007 ATL vs. CHA W 43 31 12 24 50.0 5 9 55.6 2 2 100.0 1 3 4 6 2 0 5 1 8
+p598
+aVLorenzen Wright ATL 12/15/2007 ATL vs. CHA W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 8
+p599
+aVMario West ATL 12/15/2007 ATL vs. CHA W 19 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 1 0 0 4 12
+p600
+aVJosh Smith ATL 12/15/2007 ATL vs. CHA W 41 19 5 9 55.6 0 1 0.0 9 12 75.0 1 9 10 6 3 2 2 5 10
+p601
+aVSolomon Jones ATL 12/15/2007 ATL vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p602
+aVShelden Williams ATL 12/15/2007 ATL vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p603
+aVZaza Pachulia ATL 12/15/2007 ATL vs. CHA W 16 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 1 4
+p604
+aVAnthony Johnson ATL 12/15/2007 ATL vs. CHA W 38 11 4 9 44.4 0 2 0.0 3 4 75.0 1 1 2 7 1 0 1 2 7
+p605
+aVMarvin Williams ATL 12/14/2007 ATL @ DET L 38 15 4 7 57.1 0 0 - 7 10 70.0 0 4 4 2 1 0 0 3 -4
+p606
+aVAcie Law ATL 12/14/2007 ATL @ DET L 16 4 2 7 28.6 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -13
+p607
+aVJoe Johnson ATL 12/14/2007 ATL @ DET L 38 23 9 20 45.0 0 3 0.0 5 7 71.4 2 3 5 2 3 0 2 5 1
+p608
+aVShelden Williams ATL 12/14/2007 ATL @ DET L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -6
+p609
+aVJosh Smith ATL 12/14/2007 ATL @ DET L 38 14 4 15 26.7 0 1 0.0 6 6 100.0 3 6 9 3 1 1 5 4 -2
+p610
+aVMario West ATL 12/14/2007 ATL @ DET L 9 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 1 1 0 0 1 -8
+p611
+aVLorenzen Wright ATL 12/14/2007 ATL @ DET L 29 6 2 3 66.7 0 0 - 2 4 50.0 2 10 12 1 0 1 0 4 0
+p612
+aVSalim Stoudamire ATL 12/14/2007 ATL @ DET L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p613
+aVZaza Pachulia ATL 12/14/2007 ATL @ DET L 22 10 2 9 22.2 0 0 - 6 6 100.0 6 5 11 0 1 0 1 4 -15
+p614
+aVAnthony Johnson ATL 12/14/2007 ATL @ DET L 29 8 4 11 36.4 0 1 0.0 0 0 - 0 2 2 3 1 0 2 3 2
+p615
+aVSolomon Jones ATL 12/14/2007 ATL @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p616
+aVMarvin Williams ATL 12/11/2007 ATL vs. TOR L 34 23 8 15 53.3 0 0 - 7 8 87.5 0 6 6 1 0 0 1 1 -3
+p617
+aVSalim Stoudamire ATL 12/11/2007 ATL vs. TOR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p618
+aVAnthony Johnson ATL 12/11/2007 ATL vs. TOR L 24 6 2 7 28.6 0 0 - 2 2 100.0 0 4 4 5 2 0 0 2 -13
+p619
+aVMario West ATL 12/11/2007 ATL vs. TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p620
+aVShelden Williams ATL 12/11/2007 ATL vs. TOR L 25 6 2 6 33.3 0 0 - 2 4 50.0 3 6 9 3 1 1 0 2 9
+p621
+aVJoe Johnson ATL 12/11/2007 ATL vs. TOR L 35 23 7 18 38.9 5 8 62.5 4 4 100.0 1 3 4 5 0 0 1 1 -21
+p622
+aVAl Horford ATL 12/11/2007 ATL vs. TOR L 41 10 4 10 40.0 0 0 - 2 2 100.0 5 5 10 2 0 2 2 3 -16
+p623
+aVJosh Smith ATL 12/11/2007 ATL vs. TOR L 28 5 2 11 18.2 0 1 0.0 1 2 50.0 2 6 8 3 1 2 7 6 -15
+p624
+aVJosh Childress ATL 12/11/2007 ATL vs. TOR L 29 13 5 7 71.4 0 0 - 3 4 75.0 2 2 4 1 0 0 0 0 -5
+p625
+aVAcie Law ATL 12/11/2007 ATL vs. TOR L 22 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 6 0 0 0 2 6
+p626
+aVMario West ATL 12/10/2007 ATL @ ORL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p627
+aVAnthony Johnson ATL 12/10/2007 ATL @ ORL W 35 15 6 9 66.7 1 2 50.0 2 2 100.0 1 5 6 5 3 0 2 4 15
+p628
+aVSolomon Jones ATL 12/10/2007 ATL @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p629
+aVJoe Johnson ATL 12/10/2007 ATL @ ORL W 48 24 8 21 38.1 2 3 66.7 6 7 85.7 0 4 4 4 1 0 2 2 11
+p630
+aVShelden Williams ATL 12/10/2007 ATL @ ORL W 11 12 6 6 100.0 0 0 - 0 1 0.0 4 3 7 0 0 1 1 2 2
+p631
+aVAcie Law ATL 12/10/2007 ATL @ ORL W 16 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 1 0 1 2 -4
+p632
+aVLorenzen Wright ATL 12/10/2007 ATL @ ORL W 27 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 1 1 1 0 4 -2
+p633
+aVMarvin Williams ATL 12/10/2007 ATL @ ORL W 37 12 4 10 40.0 0 0 - 4 4 100.0 0 3 3 2 1 0 0 3 5
+p634
+aVSalim Stoudamire ATL 12/10/2007 ATL @ ORL W 6 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p635
+aVAl Horford ATL 12/10/2007 ATL @ ORL W 8 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 4 9
+p636
+aVJosh Smith ATL 12/10/2007 ATL @ ORL W 45 25 7 20 35.0 2 4 50.0 9 13 69.2 2 14 16 5 4 4 2 3 16
+p637
+aVAnthony Johnson ATL 12/08/2007 ATL vs. MEM W 31 5 2 4 50.0 1 1 100.0 0 0 - 1 4 5 8 2 0 4 1 28
+p638
+aVSolomon Jones ATL 12/08/2007 ATL vs. MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p639
+aVAcie Law ATL 12/08/2007 ATL vs. MEM W 17 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 3 1 0 2 4 -20
+p640
+aVMario West ATL 12/08/2007 ATL vs. MEM W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p641
+aVShelden Williams ATL 12/08/2007 ATL vs. MEM W 17 4 2 9 22.2 0 1 0.0 0 0 - 2 4 6 0 0 0 1 2 -7
+p642
+aVLorenzen Wright ATL 12/08/2007 ATL vs. MEM W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p643
+aVJoe Johnson ATL 12/08/2007 ATL vs. MEM W 39 17 7 17 41.2 1 6 16.7 2 4 50.0 2 2 4 4 0 1 1 1 19
+p644
+aVAl Horford ATL 12/08/2007 ATL vs. MEM W 31 8 2 9 22.2 0 0 - 4 4 100.0 4 10 14 0 1 1 2 4 21
+p645
+aVJosh Smith ATL 12/08/2007 ATL vs. MEM W 40 25 11 19 57.9 0 0 - 3 5 60.0 1 6 7 3 3 1 2 4 6
+p646
+aVSalim Stoudamire ATL 12/08/2007 ATL vs. MEM W 17 5 1 5 20.0 1 3 33.3 2 2 100.0 0 2 2 1 1 1 2 2 -13
+p647
+aVMarvin Williams ATL 12/08/2007 ATL vs. MEM W 43 17 7 16 43.8 0 0 - 3 4 75.0 4 6 10 3 3 0 3 3 19
+p648
+aVJosh Childress ATL 12/06/2007 ATL vs. MIN W 16 5 1 5 20.0 0 2 0.0 3 4 75.0 0 1 1 1 1 0 0 0 -14
+p649
+aVShelden Williams ATL 12/06/2007 ATL vs. MIN W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -19
+p650
+aVAcie Law ATL 12/06/2007 ATL vs. MIN W 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -6
+p651
+aVAl Horford ATL 12/06/2007 ATL vs. MIN W 35 8 2 5 40.0 0 0 - 4 4 100.0 3 12 15 0 1 2 2 4 22
+p652
+aVMario West ATL 12/06/2007 ATL vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p653
+aVSalim Stoudamire ATL 12/06/2007 ATL vs. MIN W 4 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p654
+aVJoe Johnson ATL 12/06/2007 ATL vs. MIN W 47 21 8 21 38.1 1 5 20.0 4 5 80.0 2 7 9 4 2 0 4 0 4
+p655
+aVAnthony Johnson ATL 12/06/2007 ATL vs. MIN W 30 6 2 3 66.7 0 1 0.0 2 2 100.0 1 1 2 6 1 2 0 1 13
+p656
+aVMarvin Williams ATL 12/06/2007 ATL vs. MIN W 34 20 5 11 45.5 0 0 - 10 15 66.7 2 2 4 1 1 0 1 1 16
+p657
+aVJosh Smith ATL 12/06/2007 ATL vs. MIN W 45 28 11 19 57.9 0 0 - 6 7 85.7 1 6 7 2 2 7 4 3 -4
+p658
+aVSolomon Jones ATL 12/04/2007 ATL vs. DET L 9 5 2 3 66.7 0 0 - 1 2 50.0 3 2 5 0 1 0 0 0 12
+p659
+aVJosh Smith ATL 12/04/2007 ATL vs. DET L 20 13 5 10 50.0 0 0 - 3 3 100.0 1 3 4 2 1 1 2 4 -19
+p660
+aVAcie Law ATL 12/04/2007 ATL vs. DET L 21 11 5 6 83.3 0 1 0.0 1 1 100.0 0 0 0 2 0 0 2 1 -22
+p661
+aVJosh Childress ATL 12/04/2007 ATL vs. DET L 33 18 5 7 71.4 1 1 100.0 7 7 100.0 1 1 2 2 2 0 2 1 2
+p662
+aVMario West ATL 12/04/2007 ATL vs. DET L 9 3 1 5 20.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 14
+p663
+aVSalim Stoudamire ATL 12/04/2007 ATL vs. DET L 15 15 4 9 44.4 3 6 50.0 4 4 100.0 1 1 2 3 1 0 1 0 11
+p664
+aVAl Horford ATL 12/04/2007 ATL vs. DET L 38 8 3 9 33.3 0 0 - 2 2 100.0 2 8 10 2 0 0 3 4 -22
+p665
+aVMarvin Williams ATL 12/04/2007 ATL vs. DET L 27 11 2 5 40.0 0 0 - 7 8 87.5 0 3 3 2 1 0 0 3 -11
+p666
+aVShelden Williams ATL 12/04/2007 ATL vs. DET L 29 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 1 1 0 1 10
+p667
+aVAnthony Johnson ATL 12/04/2007 ATL vs. DET L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 2 -5
+p668
+aVJoe Johnson ATL 12/04/2007 ATL vs. DET L 28 5 2 10 20.0 0 3 0.0 1 1 100.0 0 2 2 2 1 0 3 1 -25
+p669
+aVMario West ATL 12/03/2007 ATL @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p670
+aVShelden Williams ATL 12/03/2007 ATL @ PHI W 14 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 3 3
+p671
+aVJosh Smith ATL 12/03/2007 ATL @ PHI W 37 22 9 17 52.9 1 3 33.3 3 3 100.0 3 4 7 6 2 4 4 4 17
+p672
+aVAcie Law ATL 12/03/2007 ATL @ PHI W 24 0 0 8 0.0 0 3 0.0 0 0 - 0 5 5 5 2 0 2 3 16
+p673
+aVZaza Pachulia ATL 12/03/2007 ATL @ PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p674
+aVSalim Stoudamire ATL 12/03/2007 ATL @ PHI W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p675
+aVAl Horford ATL 12/03/2007 ATL @ PHI W 35 12 6 9 66.7 0 1 0.0 0 0 - 4 9 13 1 0 0 0 4 3
+p676
+aVAnthony Johnson ATL 12/03/2007 ATL @ PHI W 15 2 1 5 20.0 0 0 - 0 1 0.0 0 3 3 3 0 0 0 0 3
+p677
+aVMarvin Williams ATL 12/03/2007 ATL @ PHI W 41 16 8 17 47.1 0 0 - 0 1 0.0 1 2 3 1 0 0 2 3 5
+p678
+aVJoe Johnson ATL 12/03/2007 ATL @ PHI W 39 15 6 15 40.0 1 6 16.7 2 3 66.7 1 3 4 7 0 0 2 0 10
+p679
+aVJosh Childress ATL 12/03/2007 ATL @ PHI W 31 16 5 8 62.5 1 2 50.0 5 5 100.0 1 5 6 2 0 0 1 4 1
+p680
+aVAl Horford ATL 11/30/2007 ATL vs. NOH L 33 9 3 4 75.0 0 0 - 3 6 50.0 1 14 15 1 2 1 1 2 -8
+p681
+aVMarvin Williams ATL 11/30/2007 ATL vs. NOH L 35 18 6 13 46.2 0 0 - 6 6 100.0 1 3 4 0 0 0 1 2 -3
+p682
+aVMario West ATL 11/30/2007 ATL vs. NOH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p683
+aVJosh Smith ATL 11/30/2007 ATL vs. NOH L 34 16 6 10 60.0 1 1 100.0 3 5 60.0 1 8 9 2 1 2 5 5 -8
+p684
+aVShelden Williams ATL 11/30/2007 ATL vs. NOH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p685
+aVJosh Childress ATL 11/30/2007 ATL vs. NOH L 22 8 4 5 80.0 0 0 - 0 1 0.0 1 3 4 1 0 0 0 1 -8
+p686
+aVJoe Johnson ATL 11/30/2007 ATL vs. NOH L 41 17 5 20 25.0 2 8 25.0 5 5 100.0 1 2 3 9 0 0 6 1 -5
+p687
+aVTyronn Lue ATL 11/30/2007 ATL vs. NOH L 21 8 3 7 42.9 2 3 66.7 0 0 - 0 1 1 1 0 0 2 3 0
+p688
+aVZaza Pachulia ATL 11/30/2007 ATL vs. NOH L 21 6 3 6 50.0 0 1 0.0 0 0 - 1 3 4 0 1 0 2 1 0
+p689
+aVAnthony Johnson ATL 11/30/2007 ATL vs. NOH L 26 4 1 3 33.3 1 2 50.0 1 2 50.0 0 1 1 8 1 1 2 0 1
+p690
+aVAnthony Johnson ATL 11/28/2007 ATL vs. MIL W 30 6 2 6 33.3 2 2 100.0 0 0 - 1 0 1 6 1 0 1 3 -5
+p691
+aVJoe Johnson ATL 11/28/2007 ATL vs. MIL W 39 21 7 13 53.8 2 4 50.0 5 7 71.4 2 0 2 2 1 0 3 1 0
+p692
+aVTyronn Lue ATL 11/28/2007 ATL vs. MIL W 21 11 4 9 44.4 2 2 100.0 1 1 100.0 0 2 2 1 1 0 0 0 27
+p693
+aVJosh Childress ATL 11/28/2007 ATL vs. MIL W 31 12 4 7 57.1 0 1 0.0 4 4 100.0 1 5 6 0 0 0 1 3 17
+p694
+aVShelden Williams ATL 11/28/2007 ATL vs. MIL W 10 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 1 1 0 0 1 13
+p695
+aVMario West ATL 11/28/2007 ATL vs. MIL W 15 4 2 3 66.7 0 0 - 0 0 - 3 0 3 0 1 0 0 1 3
+p696
+aVJosh Smith ATL 11/28/2007 ATL vs. MIL W 41 10 4 14 28.6 0 1 0.0 2 2 100.0 2 6 8 7 3 5 5 3 14
+p697
+aVAl Horford ATL 11/28/2007 ATL vs. MIL W 26 12 6 10 60.0 0 0 - 0 2 0.0 1 5 6 1 2 0 2 3 -10
+p698
+aVZaza Pachulia ATL 11/28/2007 ATL vs. MIL W 28 14 4 9 44.4 0 1 0.0 6 6 100.0 3 5 8 0 0 0 1 2 21
+p699
+aVShelden Williams ATL 11/27/2007 ATL @ CHI L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p700
+aVSalim Stoudamire ATL 11/27/2007 ATL @ CHI L 10 10 4 6 66.7 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 1 9
+p701
+aVMario West ATL 11/27/2007 ATL @ CHI L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 4
+p702
+aVMarvin Williams ATL 11/27/2007 ATL @ CHI L 25 7 1 5 20.0 0 0 - 5 6 83.3 0 3 3 1 1 0 3 4 -18
+p703
+aVSolomon Jones ATL 11/27/2007 ATL @ CHI L 4 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 0 0 1 0 6
+p704
+aVJosh Childress ATL 11/27/2007 ATL @ CHI L 39 9 4 7 57.1 0 1 0.0 1 1 100.0 4 1 5 2 2 1 4 3 -18
+p705
+aVTyronn Lue ATL 11/27/2007 ATL @ CHI L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -14
+p706
+aVJoe Johnson ATL 11/27/2007 ATL @ CHI L 34 21 7 18 38.9 2 3 66.7 5 6 83.3 0 1 1 5 0 0 1 4 -2
+p707
+aVZaza Pachulia ATL 11/27/2007 ATL @ CHI L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p708
+aVAl Horford ATL 11/27/2007 ATL @ CHI L 34 8 4 7 57.1 0 0 - 0 1 0.0 4 10 14 0 1 1 1 3 0
+p709
+aVAnthony Johnson ATL 11/27/2007 ATL @ CHI L 22 7 3 4 75.0 0 0 - 1 2 50.0 0 3 3 1 3 1 3 4 -7
+p710
+aVJosh Smith ATL 11/27/2007 ATL @ CHI L 38 12 2 14 14.3 1 3 33.3 7 10 70.0 1 6 7 4 0 6 1 0 -10
+p711
+aVAnthony Johnson ATL 11/24/2007 ATL @ MIN W 23 6 3 8 37.5 0 1 0.0 0 0 - 2 1 3 2 1 0 0 2 -12
+p712
+aVAl Horford ATL 11/24/2007 ATL @ MIN W 30 6 3 4 75.0 0 0 - 0 0 - 4 3 7 2 0 0 0 4 0
+p713
+aVTyronn Lue ATL 11/24/2007 ATL @ MIN W 22 13 5 13 38.5 3 5 60.0 0 0 - 0 2 2 2 2 0 0 4 16
+p714
+aVShelden Williams ATL 11/24/2007 ATL @ MIN W 16 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 3 5
+p715
+aVJosh Childress ATL 11/24/2007 ATL @ MIN W 31 14 6 13 46.2 0 1 0.0 2 2 100.0 5 2 7 1 0 0 0 1 15
+p716
+aVJoe Johnson ATL 11/24/2007 ATL @ MIN W 43 25 9 21 42.9 2 5 40.0 5 6 83.3 0 2 2 5 1 0 6 1 4
+p717
+aVJosh Smith ATL 11/24/2007 ATL @ MIN W 43 16 5 9 55.6 1 1 100.0 5 5 100.0 3 5 8 5 3 5 3 0 10
+p718
+aVMarvin Williams ATL 11/24/2007 ATL @ MIN W 29 10 3 9 33.3 0 0 - 4 7 57.1 1 4 5 2 1 0 1 1 -4
+p719
+aVSolomon Jones ATL 11/24/2007 ATL @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p720
+aVAl Horford ATL 11/21/2007 ATL @ MIA W 27 6 3 10 30.0 0 0 - 0 0 - 5 3 8 2 2 0 0 4 -1
+p721
+aVJosh Childress ATL 11/21/2007 ATL @ MIA W 28 11 4 8 50.0 1 2 50.0 2 2 100.0 2 1 3 0 1 0 1 1 -2
+p722
+aVTyronn Lue ATL 11/21/2007 ATL @ MIA W 15 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 2 0 -1
+p723
+aVAnthony Johnson ATL 11/21/2007 ATL @ MIA W 27 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 3 0 2 4 -1
+p724
+aVMarvin Williams ATL 11/21/2007 ATL @ MIA W 29 13 4 8 50.0 0 0 - 5 6 83.3 2 8 10 1 3 1 2 3 11
+p725
+aVShelden Williams ATL 11/21/2007 ATL @ MIA W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p726
+aVMario West ATL 11/21/2007 ATL @ MIA W 6 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 5
+p727
+aVZaza Pachulia ATL 11/21/2007 ATL @ MIA W 21 4 2 7 28.6 0 0 - 0 0 - 1 2 3 0 1 0 1 5 4
+p728
+aVJosh Smith ATL 11/21/2007 ATL @ MIA W 37 16 4 17 23.5 0 2 0.0 8 12 66.7 4 7 11 4 0 2 3 4 7
+p729
+aVJoe Johnson ATL 11/21/2007 ATL @ MIA W 43 22 6 17 35.3 3 7 42.9 7 8 87.5 1 6 7 4 0 0 3 1 -2
+p730
+aVMario West ATL 11/20/2007 ATL vs. SAS L 8 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 0 2 0 0 6 -1
+p731
+aVJosh Childress ATL 11/20/2007 ATL vs. SAS L 33 9 3 7 42.9 0 1 0.0 3 4 75.0 4 1 5 0 0 0 1 0 0
+p732
+aVJosh Smith ATL 11/20/2007 ATL vs. SAS L 31 11 3 16 18.8 0 1 0.0 5 6 83.3 1 4 5 1 1 2 5 4 -15
+p733
+aVMarvin Williams ATL 11/20/2007 ATL vs. SAS L 36 16 7 13 53.8 0 0 - 2 2 100.0 1 5 6 2 4 2 1 1 -9
+p734
+aVShelden Williams ATL 11/20/2007 ATL vs. SAS L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -8
+p735
+aVAnthony Johnson ATL 11/20/2007 ATL vs. SAS L 41 2 1 5 20.0 0 3 0.0 0 0 - 1 3 4 7 0 0 0 2 -8
+p736
+aVJoe Johnson ATL 11/20/2007 ATL vs. SAS L 44 20 9 20 45.0 0 3 0.0 2 2 100.0 1 4 5 3 0 0 2 1 -15
+p737
+aVSolomon Jones ATL 11/20/2007 ATL vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p738
+aVAl Horford ATL 11/20/2007 ATL vs. SAS L 29 11 5 9 55.6 0 0 - 1 2 50.0 2 6 8 1 0 1 1 4 5
+p739
+aVZaza Pachulia ATL 11/20/2007 ATL vs. SAS L 12 6 2 6 33.3 0 0 - 2 4 50.0 1 1 2 1 0 0 0 0 -11
+p740
+aVAl Horford ATL 11/17/2007 ATL @ MIL L 28 8 4 5 80.0 0 0 - 0 2 0.0 1 7 8 0 0 2 1 2 -3
+p741
+aVJosh Smith ATL 11/17/2007 ATL @ MIL L 40 38 13 22 59.1 0 3 0.0 12 16 75.0 3 4 7 2 2 3 3 2 4
+p742
+aVTyronn Lue ATL 11/17/2007 ATL @ MIL L 16 10 5 7 71.4 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 -10
+p743
+aVMarvin Williams ATL 11/17/2007 ATL @ MIL L 35 10 5 16 31.3 0 0 - 0 1 0.0 3 5 8 1 1 0 2 2 -19
+p744
+aVZaza Pachulia ATL 11/17/2007 ATL @ MIL L 15 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 0 0 3 2 -8
+p745
+aVJoe Johnson ATL 11/17/2007 ATL @ MIL L 41 14 6 16 37.5 1 6 16.7 1 2 50.0 0 0 0 9 0 0 3 4 -3
+p746
+aVJosh Childress ATL 11/17/2007 ATL @ MIL L 38 9 4 8 50.0 1 2 50.0 0 0 - 1 2 3 3 0 0 3 3 -4
+p747
+aVShelden Williams ATL 11/17/2007 ATL @ MIL L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 2 -7
+p748
+aVSalim Stoudamire ATL 11/17/2007 ATL @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p749
+aVAnthony Johnson ATL 11/17/2007 ATL @ MIL L 19 2 1 4 25.0 0 1 0.0 0 0 - 1 4 5 3 0 0 1 0 7
+p750
+aVZaza Pachulia ATL 11/16/2007 ATL vs. SEA L 22 14 7 13 53.8 0 0 - 0 0 - 4 2 6 0 0 0 0 2 -12
+p751
+aVJosh Childress ATL 11/16/2007 ATL vs. SEA L 44 22 7 10 70.0 0 1 0.0 8 9 88.9 1 9 10 3 1 0 3 6 -5
+p752
+aVSolomon Jones ATL 11/16/2007 ATL vs. SEA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p753
+aVMario West ATL 11/16/2007 ATL vs. SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -15
+p754
+aVShelden Williams ATL 11/16/2007 ATL vs. SEA L 13 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 0 0 0 3 -7
+p755
+aVAl Horford ATL 11/16/2007 ATL vs. SEA L 53 7 2 8 25.0 0 0 - 3 4 75.0 2 12 14 2 1 5 4 5 13
+p756
+aVSalim Stoudamire ATL 11/16/2007 ATL vs. SEA L 37 11 3 12 25.0 1 8 12.5 4 5 80.0 0 2 2 3 0 0 1 2 3
+p757
+aVTyronn Lue ATL 11/16/2007 ATL vs. SEA L 19 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 4 0 0 1 1 0
+p758
+aVMarvin Williams ATL 11/16/2007 ATL vs. SEA L 44 18 6 13 46.2 0 0 - 6 8 75.0 3 4 7 4 4 2 2 6 18
+p759
+aVJoe Johnson ATL 11/16/2007 ATL vs. SEA L 52 39 15 34 44.1 5 13 38.5 4 5 80.0 2 3 5 6 0 0 1 5 -4
+p760
+aVMario West ATL 11/14/2007 ATL vs. CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p761
+aVSalim Stoudamire ATL 11/14/2007 ATL vs. CHA W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 4
+p762
+aVJoe Johnson ATL 11/14/2007 ATL vs. CHA W 44 34 11 18 61.1 2 3 66.7 10 11 90.9 1 4 5 10 1 0 3 1 6
+p763
+aVMarvin Williams ATL 11/14/2007 ATL vs. CHA W 37 19 9 15 60.0 0 0 - 1 2 50.0 2 4 6 1 0 1 1 4 -1
+p764
+aVJosh Smith ATL 11/14/2007 ATL vs. CHA W 19 15 6 10 60.0 0 1 0.0 3 5 60.0 1 2 3 3 1 5 2 2 11
+p765
+aVZaza Pachulia ATL 11/14/2007 ATL vs. CHA W 18 6 3 8 37.5 0 0 - 0 0 - 1 3 4 2 3 0 3 2 6
+p766
+aVTyronn Lue ATL 11/14/2007 ATL vs. CHA W 21 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 0 2 3 -2
+p767
+aVJosh Childress ATL 11/14/2007 ATL vs. CHA W 34 23 9 12 75.0 0 1 0.0 5 5 100.0 3 2 5 1 2 2 1 2 4
+p768
+aVAcie Law ATL 11/14/2007 ATL vs. CHA W 23 2 1 2 50.0 0 0 - 0 0 - 0 0 0 7 2 0 0 1 12
+p769
+aVAl Horford ATL 11/14/2007 ATL vs. CHA W 34 13 5 7 71.4 0 0 - 3 4 75.0 4 9 13 3 1 1 4 2 1
+p770
+aVZaza Pachulia ATL 11/11/2007 ATL vs. WAS L 7 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 3 2 -1
+p771
+aVTyronn Lue ATL 11/11/2007 ATL vs. WAS L 19 2 0 4 0.0 0 2 0.0 2 2 100.0 0 2 2 1 1 0 1 1 6
+p772
+aVAcie Law ATL 11/11/2007 ATL vs. WAS L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 5 1 0 0 2 -18
+p773
+aVJosh Childress ATL 11/11/2007 ATL vs. WAS L 36 10 5 6 83.3 0 0 - 0 0 - 0 2 2 0 1 0 1 1 1
+p774
+aVShelden Williams ATL 11/11/2007 ATL vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p775
+aVJoe Johnson ATL 11/11/2007 ATL vs. WAS L 42 22 8 24 33.3 2 11 18.2 4 4 100.0 4 3 7 5 1 0 0 2 -9
+p776
+aVSalim Stoudamire ATL 11/11/2007 ATL vs. WAS L 6 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p777
+aVAl Horford ATL 11/11/2007 ATL vs. WAS L 35 9 3 5 60.0 0 0 - 3 4 75.0 4 6 10 1 0 2 3 4 -13
+p778
+aVJosh Smith ATL 11/11/2007 ATL vs. WAS L 38 23 6 12 50.0 1 3 33.3 10 15 66.7 0 4 4 2 1 3 1 3 -10
+p779
+aVMarvin Williams ATL 11/11/2007 ATL vs. WAS L 43 20 6 16 37.5 0 1 0.0 8 10 80.0 4 8 12 6 0 1 1 2 -10
+p780
+aVSalim Stoudamire ATL 11/09/2007 ATL @ BOS L 11 5 1 4 25.0 0 2 0.0 3 4 75.0 0 1 1 1 0 0 1 1 -12
+p781
+aVSolomon Jones ATL 11/09/2007 ATL @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 0 -5
+p782
+aVTyronn Lue ATL 11/09/2007 ATL @ BOS L 19 9 3 7 42.9 1 1 100.0 2 2 100.0 0 2 2 1 0 0 0 3 -11
+p783
+aVJosh Smith ATL 11/09/2007 ATL @ BOS L 33 8 3 13 23.1 0 2 0.0 2 4 50.0 1 4 5 4 1 2 4 4 -14
+p784
+aVJosh Childress ATL 11/09/2007 ATL @ BOS L 34 7 3 6 50.0 1 1 100.0 0 0 - 1 6 7 0 0 0 3 2 -19
+p785
+aVShelden Williams ATL 11/09/2007 ATL @ BOS L 9 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 -5
+p786
+aVMario West ATL 11/09/2007 ATL @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -7
+p787
+aVJoe Johnson ATL 11/09/2007 ATL @ BOS L 37 16 6 14 42.9 3 5 60.0 1 1 100.0 0 1 1 5 5 1 3 3 -13
+p788
+aVAcie Law ATL 11/09/2007 ATL @ BOS L 26 7 3 5 60.0 0 0 - 1 1 100.0 1 1 2 5 1 0 2 1 -12
+p789
+aVMarvin Williams ATL 11/09/2007 ATL @ BOS L 28 14 6 9 66.7 0 0 - 2 3 66.7 1 0 1 0 0 0 1 5 -4
+p790
+aVAl Horford ATL 11/09/2007 ATL @ BOS L 35 16 5 12 41.7 0 0 - 6 8 75.0 4 3 7 1 2 1 2 1 -13
+p791
+aVJoe Johnson ATL 11/07/2007 ATL vs. PHX W 39 15 3 17 17.6 0 5 0.0 9 10 90.0 0 4 4 10 2 0 5 4 7
+p792
+aVShelden Williams ATL 11/07/2007 ATL vs. PHX W 6 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 0
+p793
+aVAl Horford ATL 11/07/2007 ATL vs. PHX W 28 8 3 5 60.0 0 0 - 2 2 100.0 4 11 15 0 1 2 5 2 0
+p794
+aVAcie Law ATL 11/07/2007 ATL vs. PHX W 24 6 3 7 42.9 0 2 0.0 0 2 0.0 1 0 1 1 1 0 1 4 1
+p795
+aVTyronn Lue ATL 11/07/2007 ATL vs. PHX W 11 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 4
+p796
+aVJosh Smith ATL 11/07/2007 ATL vs. PHX W 40 22 9 19 47.4 0 1 0.0 4 5 80.0 4 6 10 4 4 5 2 3 4
+p797
+aVSalim Stoudamire ATL 11/07/2007 ATL vs. PHX W 18 10 4 6 66.7 2 4 50.0 0 0 - 0 0 0 2 0 1 1 0 9
+p798
+aVMarvin Williams ATL 11/07/2007 ATL vs. PHX W 42 20 10 15 66.7 0 1 0.0 0 0 - 2 10 12 3 1 0 2 1 3
+p799
+aVMario West ATL 11/07/2007 ATL vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p800
+aVJosh Childress ATL 11/07/2007 ATL vs. PHX W 30 19 7 14 50.0 1 1 100.0 4 4 100.0 5 5 10 2 2 0 0 4 17
+p801
+aVMarvin Williams ATL 11/06/2007 ATL @ NJN L 26 13 3 6 50.0 0 0 - 7 8 87.5 0 1 1 1 1 0 2 5 10
+p802
+aVJosh Smith ATL 11/06/2007 ATL @ NJN L 36 18 6 14 42.9 2 2 100.0 4 7 57.1 0 7 7 6 5 4 3 4 3
+p803
+aVSolomon Jones ATL 11/06/2007 ATL @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p804
+aVShelden Williams ATL 11/06/2007 ATL @ NJN L 19 0 0 2 0.0 0 0 - 0 0 - 3 2 5 0 1 1 0 4 -6
+p805
+aVMario West ATL 11/06/2007 ATL @ NJN L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 1
+p806
+aVJoe Johnson ATL 11/06/2007 ATL @ NJN L 37 15 6 16 37.5 2 6 33.3 1 1 100.0 0 2 2 4 0 0 3 3 -1
+p807
+aVAcie Law ATL 11/06/2007 ATL @ NJN L 25 7 1 5 20.0 1 3 33.3 4 5 80.0 0 4 4 0 0 0 4 1 -3
+p808
+aVTyronn Lue ATL 11/06/2007 ATL @ NJN L 25 3 1 10 10.0 1 5 20.0 0 0 - 0 1 1 3 1 0 2 1 -8
+p809
+aVAl Horford ATL 11/06/2007 ATL @ NJN L 29 6 3 6 50.0 0 0 - 0 4 0.0 1 6 7 1 4 2 3 2 -8
+p810
+aVJosh Childress ATL 11/06/2007 ATL @ NJN L 37 18 5 8 62.5 1 2 50.0 7 7 100.0 3 4 7 0 0 0 2 2 -13
+p811
+aVAcie Law ATL 11/04/2007 ATL @ DET L 22 11 5 6 83.3 1 1 100.0 0 0 - 0 0 0 0 2 0 4 1 11
+p812
+aVAl Horford ATL 11/04/2007 ATL @ DET L 36 3 1 6 16.7 0 0 - 1 2 50.0 4 7 11 2 1 0 5 2 -10
+p813
+aVMarvin Williams ATL 11/04/2007 ATL @ DET L 39 22 8 12 66.7 1 1 100.0 5 6 83.3 2 4 6 2 1 0 2 5 3
+p814
+aVJosh Childress ATL 11/04/2007 ATL @ DET L 25 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 1 2 2 0 2 -2
+p815
+aVJoe Johnson ATL 11/04/2007 ATL @ DET L 40 23 9 17 52.9 2 5 40.0 3 4 75.0 1 4 5 4 0 0 1 2 0
+p816
+aVTyronn Lue ATL 11/04/2007 ATL @ DET L 26 6 2 7 28.6 0 1 0.0 2 2 100.0 1 0 1 3 0 0 1 0 -12
+p817
+aVShelden Williams ATL 11/04/2007 ATL @ DET L 14 6 1 2 50.0 0 0 - 4 6 66.7 1 6 7 1 0 0 1 2 11
+p818
+aVJosh Smith ATL 11/04/2007 ATL @ DET L 39 13 4 17 23.5 0 2 0.0 5 5 100.0 3 7 10 2 2 5 5 2 -6
+p819
+aVMarvin Williams ATL 11/02/2007 ATL vs. DAL W 37 16 5 10 50.0 0 0 - 6 8 75.0 2 3 5 3 0 1 0 3 9
+p820
+aVJosh Childress ATL 11/02/2007 ATL vs. DAL W 19 2 1 6 16.7 0 0 - 0 0 - 6 0 6 0 0 0 2 2 -2
+p821
+aVTyronn Lue ATL 11/02/2007 ATL vs. DAL W 26 14 5 10 50.0 3 4 75.0 1 2 50.0 2 1 3 4 1 0 0 0 14
+p822
+aVAl Horford ATL 11/02/2007 ATL vs. DAL W 23 9 3 4 75.0 0 0 - 3 4 75.0 1 9 10 1 0 1 0 5 4
+p823
+aVJoe Johnson ATL 11/02/2007 ATL vs. DAL W 46 28 12 22 54.5 1 7 14.3 3 3 100.0 0 7 7 4 1 0 4 0 7
+p824
+aVAcie Law ATL 11/02/2007 ATL vs. DAL W 14 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 3 0 0 2 4 -6
+p825
+aVMario West ATL 11/02/2007 ATL vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p826
+aVJosh Smith ATL 11/02/2007 ATL vs. DAL W 37 18 5 16 31.3 0 4 0.0 8 8 100.0 1 10 11 4 3 2 6 3 6
+p827
+aVAnthony Johnson ATL 11/02/2007 ATL vs. DAL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -3
+p828
+aVShelden Williams ATL 11/02/2007 ATL vs. DAL W 30 6 2 6 33.3 0 0 - 2 4 50.0 2 7 9 0 1 0 0 3 4
+p829
+a.

@@ -1,0 +1,1036 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJohnny Newman CLE 05/05/1999 CLE @ TOR L 26 18 7 12 58.3 1 4 25.0 3 4 75.0 0 1 1 2 1 1 2 4 -8
+p2
+aVCedric Henderson CLE 05/05/1999 CLE @ TOR L 38 8 4 13 30.8 0 1 0.0 0 0 - 2 6 8 5 3 2 1 2 -8
+p3
+aVMitchell Butler CLE 05/05/1999 CLE @ TOR L 37 21 8 16 50.0 3 5 60.0 2 2 100.0 0 4 4 5 2 1 4 2 1
+p4
+aVDanny Ferry CLE 05/05/1999 CLE @ TOR L 41 22 9 13 69.2 3 4 75.0 1 2 50.0 1 7 8 3 1 1 1 4 -4
+p5
+aVAndrew DeClercq CLE 05/05/1999 CLE @ TOR L 32 9 1 2 50.0 0 0 - 7 8 87.5 2 2 4 1 3 2 3 3 -12
+p6
+aVRyan Stack CLE 05/05/1999 CLE @ TOR L 23 0 0 0 - 0 0 - 0 0 - 3 0 3 1 0 1 1 2 -2
+p7
+aVEarl Boykins CLE 05/05/1999 CLE @ TOR L 34 2 1 10 10.0 0 2 0.0 0 0 - 1 1 2 7 2 0 2 0 -14
+p8
+aVBob Sura CLE 05/05/1999 CLE @ TOR L 9 7 3 8 37.5 0 4 0.0 1 1 100.0 2 1 3 0 0 0 2 0 2
+p9
+aVJohnny Newman CLE 05/04/1999 CLE @ IND L 24 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 1 0 1 1 3 -20
+p10
+aVWesley Person CLE 05/04/1999 CLE @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p11
+aVBob Sura CLE 05/04/1999 CLE @ IND L 33 16 4 9 44.4 2 4 50.0 6 8 75.0 2 1 3 4 1 2 2 3 -19
+p12
+aVAndrew DeClercq CLE 05/04/1999 CLE @ IND L 34 6 2 5 40.0 0 0 - 2 2 100.0 4 4 8 0 2 0 2 5 -27
+p13
+aVCedric Henderson CLE 05/04/1999 CLE @ IND L 42 14 6 15 40.0 0 1 0.0 2 2 100.0 0 4 4 1 0 1 3 3 -13
+p14
+aVRyan Stack CLE 05/04/1999 CLE @ IND L 19 3 0 2 0.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 4 -5
+p15
+aVEarl Boykins CLE 05/04/1999 CLE @ IND L 22 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 3 0 0 1 4 -7
+p16
+aVMitchell Butler CLE 05/04/1999 CLE @ IND L 33 19 7 18 38.9 1 4 25.0 4 6 66.7 2 1 3 1 4 0 1 3 -17
+p17
+aVDanny Ferry CLE 05/04/1999 CLE @ IND L 29 9 4 7 57.1 1 3 33.3 0 0 - 0 6 6 1 0 0 3 2 -9
+p18
+aVWesley Person CLE 05/02/1999 CLE vs. ATL L 35 8 4 11 36.4 0 0 - 0 0 - 0 5 5 3 1 2 1 2 -3
+p19
+aVEarl Boykins CLE 05/02/1999 CLE vs. ATL L 18 3 1 7 14.3 0 2 0.0 1 2 50.0 0 1 1 0 0 0 1 1 -7
+p20
+aVMitchell Butler CLE 05/02/1999 CLE vs. ATL L 20 9 4 8 50.0 1 2 50.0 0 0 - 1 2 3 4 0 0 0 1 -6
+p21
+aVDerek Anderson CLE 05/02/1999 CLE vs. ATL L 31 9 2 9 22.2 0 3 0.0 5 5 100.0 1 3 4 6 1 1 2 3 -4
+p22
+aVCedric Henderson CLE 05/02/1999 CLE vs. ATL L 30 6 3 9 33.3 0 0 - 0 0 - 2 3 5 3 1 0 3 2 -3
+p23
+aVJohnny Newman CLE 05/02/1999 CLE vs. ATL L 22 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 1 0 0 1 1 -11
+p24
+aVAndrew DeClercq CLE 05/02/1999 CLE vs. ATL L 25 10 4 12 33.3 0 0 - 2 4 50.0 4 2 6 1 4 2 0 4 -1
+p25
+aVDanny Ferry CLE 05/02/1999 CLE vs. ATL L 22 7 3 8 37.5 1 2 50.0 0 0 - 1 1 2 1 0 0 0 4 -2
+p26
+aVRyan Stack CLE 05/02/1999 CLE vs. ATL L 24 8 2 5 40.0 0 0 - 4 4 100.0 3 2 5 0 1 1 2 4 -10
+p27
+aVBob Sura CLE 05/02/1999 CLE vs. ATL L 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 1 0 2 1 -8
+p28
+aVBob Sura CLE 04/30/1999 CLE vs. TOR W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 1 1 2 5
+p29
+aVWesley Person CLE 04/30/1999 CLE vs. TOR W 34 11 5 11 45.5 0 0 - 1 2 50.0 2 3 5 3 2 0 4 2 6
+p30
+aVEarl Boykins CLE 04/30/1999 CLE vs. TOR W 13 9 4 5 80.0 1 1 100.0 0 0 - 1 1 2 2 0 0 2 0 2
+p31
+aVDanny Ferry CLE 04/30/1999 CLE vs. TOR W 36 18 6 10 60.0 2 4 50.0 4 4 100.0 1 4 5 4 1 1 0 4 3
+p32
+aVCedric Henderson CLE 04/30/1999 CLE vs. TOR W 34 4 1 4 25.0 0 0 - 2 2 100.0 0 7 7 2 1 1 2 2 5
+p33
+aVRyan Stack CLE 04/30/1999 CLE vs. TOR W 8 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 1 1 0 0 1 1
+p34
+aVJohnny Newman CLE 04/30/1999 CLE vs. TOR W 20 7 3 9 33.3 1 4 25.0 0 0 - 1 1 2 1 1 0 2 4 0
+p35
+aVMitchell Butler CLE 04/30/1999 CLE vs. TOR W 17 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 0 0 1 2 3 2
+p36
+aVAndrew DeClercq CLE 04/30/1999 CLE vs. TOR W 30 13 6 10 60.0 0 0 - 1 2 50.0 2 5 7 0 4 0 0 6 9
+p37
+aVDerek Anderson CLE 04/30/1999 CLE vs. TOR W 34 15 5 12 41.7 2 3 66.7 3 4 75.0 0 9 9 10 1 0 2 2 7
+p38
+aVWesley Person CLE 04/29/1999 CLE @ WAS L 34 6 3 10 30.0 0 0 - 0 0 - 0 2 2 4 2 0 1 0 -15
+p39
+aVDanny Ferry CLE 04/29/1999 CLE @ WAS L 39 18 8 12 66.7 2 4 50.0 0 0 - 1 1 2 1 1 1 1 3 -20
+p40
+aVRyan Stack CLE 04/29/1999 CLE @ WAS L 13 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -12
+p41
+aVMitchell Butler CLE 04/29/1999 CLE @ WAS L 18 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 1 0 0 2 3 -2
+p42
+aVCedric Henderson CLE 04/29/1999 CLE @ WAS L 42 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 5 1 2 4 1 -4
+p43
+aVDerek Anderson CLE 04/29/1999 CLE @ WAS L 32 16 3 7 42.9 1 1 100.0 9 12 75.0 0 5 5 7 5 0 4 3 5
+p44
+aVBob Sura CLE 04/29/1999 CLE @ WAS L 15 8 1 5 20.0 0 3 0.0 6 8 75.0 0 1 1 2 2 0 0 2 -16
+p45
+aVJohnny Newman CLE 04/29/1999 CLE @ WAS L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -2
+p46
+aVEarl Boykins CLE 04/29/1999 CLE @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p47
+aVAndrew DeClercq CLE 04/29/1999 CLE @ WAS L 30 14 5 8 62.5 0 0 - 4 5 80.0 0 7 7 2 0 1 1 4 11
+p48
+aVAndrew DeClercq CLE 04/27/1999 CLE @ PHI L 40 14 5 11 45.5 0 0 - 4 8 50.0 3 8 11 0 2 1 0 5 -7
+p49
+aVDanny Ferry CLE 04/27/1999 CLE @ PHI L 38 13 5 15 33.3 1 4 25.0 2 2 100.0 1 4 5 4 3 1 0 3 -5
+p50
+aVCedric Henderson CLE 04/27/1999 CLE @ PHI L 37 4 2 10 20.0 0 0 - 0 0 - 2 5 7 2 0 0 4 3 -7
+p51
+aVBob Sura CLE 04/27/1999 CLE @ PHI L 20 5 2 5 40.0 1 2 50.0 0 0 - 1 2 3 2 0 1 2 4 1
+p52
+aVRyan Stack CLE 04/27/1999 CLE @ PHI L 13 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 5 -3
+p53
+aVJohnny Newman CLE 04/27/1999 CLE @ PHI L 15 5 1 3 33.3 1 1 100.0 2 2 100.0 1 4 5 0 1 0 2 1 -5
+p54
+aVWesley Person CLE 04/27/1999 CLE @ PHI L 41 13 5 12 41.7 2 6 33.3 1 1 100.0 3 2 5 5 1 1 3 1 -7
+p55
+aVDerek Anderson CLE 04/27/1999 CLE @ PHI L 35 17 5 13 38.5 0 5 0.0 7 9 77.8 0 1 1 4 0 0 2 3 -12
+p56
+aVRyan Stack CLE 04/26/1999 CLE vs. MIA L 22 2 0 5 0.0 0 0 - 2 2 100.0 2 2 4 0 0 1 1 5 -11
+p57
+aVCorie Blount CLE 04/26/1999 CLE vs. MIA L 19 2 1 5 20.0 0 0 - 0 2 0.0 1 4 5 0 1 0 1 2 -4
+p58
+aVWesley Person CLE 04/26/1999 CLE vs. MIA L 32 9 4 8 50.0 0 1 0.0 1 1 100.0 0 1 1 1 0 0 0 1 -18
+p59
+aVDerek Anderson CLE 04/26/1999 CLE vs. MIA L 15 14 6 10 60.0 2 2 100.0 0 0 - 0 2 2 3 1 1 2 1 -13
+p60
+aVAndrew DeClercq CLE 04/26/1999 CLE vs. MIA L 15 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 1 1 0 2 4 -9
+p61
+aVEarl Boykins CLE 04/26/1999 CLE vs. MIA L 17 6 2 5 40.0 1 1 100.0 1 1 100.0 1 0 1 3 0 0 3 2 -8
+p62
+aVJohnny Newman CLE 04/26/1999 CLE vs. MIA L 26 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 1 1 1 1 2 -13
+p63
+aVCedric Henderson CLE 04/26/1999 CLE vs. MIA L 30 8 2 8 25.0 0 1 0.0 4 6 66.7 0 4 4 1 4 0 0 2 -15
+p64
+aVBob Sura CLE 04/26/1999 CLE vs. MIA L 20 0 0 2 0.0 0 0 - 0 4 0.0 1 2 3 3 0 0 2 3 -7
+p65
+aVDanny Ferry CLE 04/26/1999 CLE vs. MIA L 29 9 4 6 66.7 1 3 33.3 0 0 - 0 2 2 2 0 1 3 3 -20
+p66
+aVMitchell Butler CLE 04/26/1999 CLE vs. MIA L 16 5 2 8 25.0 0 2 0.0 1 2 50.0 2 1 3 1 2 0 1 0 -7
+p67
+aVBrevin Knight CLE 04/23/1999 CLE @ MIL L 25 9 2 6 33.3 0 0 - 5 6 83.3 0 3 3 9 3 0 3 1 8
+p68
+aVCedric Henderson CLE 04/23/1999 CLE @ MIL L 41 19 8 14 57.1 0 0 - 3 4 75.0 1 7 8 1 2 1 2 4 4
+p69
+aVEarl Boykins CLE 04/23/1999 CLE @ MIL L 19 4 2 8 25.0 0 3 0.0 0 0 - 1 1 2 1 1 0 1 4 -7
+p70
+aVMitchell Butler CLE 04/23/1999 CLE @ MIL L 17 0 0 4 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 1 0
+p71
+aVRyan Stack CLE 04/23/1999 CLE @ MIL L 22 6 2 6 33.3 0 0 - 2 2 100.0 4 2 6 0 0 3 1 2 -9
+p72
+aVWesley Person CLE 04/23/1999 CLE @ MIL L 42 19 7 13 53.8 5 9 55.6 0 0 - 1 4 5 4 1 0 1 2 -2
+p73
+aVJohnny Newman CLE 04/23/1999 CLE @ MIL L 10 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 -8
+p74
+aVDanny Ferry CLE 04/23/1999 CLE @ MIL L 31 6 2 9 22.2 1 6 16.7 1 1 100.0 0 0 0 2 0 0 0 5 -1
+p75
+aVAndrew DeClercq CLE 04/23/1999 CLE @ MIL L 27 12 5 11 45.5 0 0 - 2 4 50.0 3 2 5 2 1 0 0 0 2
+p76
+aVBob Sura CLE 04/23/1999 CLE @ MIL L 7 0 0 1 0.0 0 0 - 0 2 0.0 2 0 2 0 1 0 2 2 -7
+p77
+aVWesley Person CLE 04/21/1999 CLE @ MIA L 23 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 3 0 0 2 2 -22
+p78
+aVDanny Ferry CLE 04/21/1999 CLE @ MIA L 29 11 5 9 55.6 1 4 25.0 0 0 - 0 2 2 1 1 0 0 3 3
+p79
+aVCedric Henderson CLE 04/21/1999 CLE @ MIA L 25 9 4 11 36.4 0 0 - 1 2 50.0 3 1 4 2 2 0 1 1 -15
+p80
+aVEarl Boykins CLE 04/21/1999 CLE @ MIA L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 1 6
+p81
+aVBrevin Knight CLE 04/21/1999 CLE @ MIA L 23 8 4 6 66.7 0 0 - 0 0 - 0 0 0 4 1 0 4 3 -20
+p82
+aVAndrew DeClercq CLE 04/21/1999 CLE @ MIA L 24 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -19
+p83
+aVShawn Kemp CLE 04/21/1999 CLE @ MIA L 26 10 5 12 41.7 0 0 - 0 1 0.0 1 2 3 2 3 3 1 2 -20
+p84
+aVMitchell Butler CLE 04/21/1999 CLE @ MIA L 23 10 5 9 55.6 0 2 0.0 0 0 - 1 1 2 2 2 0 1 1 12
+p85
+aVRyan Stack CLE 04/21/1999 CLE @ MIA L 18 11 3 5 60.0 0 0 - 5 6 83.3 1 1 2 0 0 2 0 2 10
+p86
+aVBob Sura CLE 04/21/1999 CLE @ MIA L 16 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 5 0 0 0 2 -2
+p87
+aVJohnny Newman CLE 04/21/1999 CLE @ MIA L 23 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 0 2 0 1 4 2
+p88
+aVBrevin Knight CLE 04/19/1999 CLE vs. MIA L 36 7 2 8 25.0 0 0 - 3 4 75.0 0 2 2 11 0 0 5 4 -3
+p89
+aVBob Sura CLE 04/19/1999 CLE vs. MIA L 12 0 0 2 0.0 0 0 - 0 0 - 1 3 4 3 1 0 0 1 -4
+p90
+aVWesley Person CLE 04/19/1999 CLE vs. MIA L 26 9 3 8 37.5 3 5 60.0 0 0 - 0 1 1 4 1 0 1 2 -4
+p91
+aVAndrew DeClercq CLE 04/19/1999 CLE vs. MIA L 27 14 6 10 60.0 0 0 - 2 3 66.7 5 1 6 2 2 1 0 5 1
+p92
+aVRyan Stack CLE 04/19/1999 CLE vs. MIA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p93
+aVShawn Kemp CLE 04/19/1999 CLE vs. MIA L 43 32 14 29 48.3 0 0 - 4 5 80.0 8 2 10 3 1 0 2 4 2
+p94
+aVJohnny Newman CLE 04/19/1999 CLE vs. MIA L 11 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 2 -3
+p95
+aVDanny Ferry CLE 04/19/1999 CLE vs. MIA L 21 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 0 2 0 1 2 -8
+p96
+aVMitchell Butler CLE 04/19/1999 CLE vs. MIA L 22 11 5 7 71.4 1 2 50.0 0 0 - 1 2 3 0 1 0 2 1 -3
+p97
+aVCedric Henderson CLE 04/19/1999 CLE vs. MIA L 37 4 2 8 25.0 0 0 - 0 0 - 1 4 5 3 0 0 0 3 -4
+p98
+aVJohnny Newman CLE 04/17/1999 CLE vs. CHH L 14 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 1 1 2 15
+p99
+aVMitchell Butler CLE 04/17/1999 CLE vs. CHH L 32 18 7 8 87.5 2 2 100.0 2 2 100.0 0 2 2 1 1 0 5 2 4
+p100
+aVAndrew DeClercq CLE 04/17/1999 CLE vs. CHH L 21 4 1 4 25.0 0 0 - 2 3 66.7 2 3 5 2 2 2 1 3 -6
+p101
+aVEarl Boykins CLE 04/17/1999 CLE vs. CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p102
+aVWesley Person CLE 04/17/1999 CLE vs. CHH L 21 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 1 0 0 0 -27
+p103
+aVRyan Stack CLE 04/17/1999 CLE vs. CHH L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 2 0 1 4
+p104
+aVBrevin Knight CLE 04/17/1999 CLE vs. CHH L 27 10 4 12 33.3 0 0 - 2 4 50.0 1 3 4 6 0 0 3 4 -21
+p105
+aVDanny Ferry CLE 04/17/1999 CLE vs. CHH L 27 8 4 7 57.1 0 2 0.0 0 0 - 0 2 2 1 0 0 2 2 3
+p106
+aVShawn Kemp CLE 04/17/1999 CLE vs. CHH L 36 23 9 14 64.3 0 0 - 5 8 62.5 1 4 5 2 2 2 3 4 -2
+p107
+aVCedric Henderson CLE 04/17/1999 CLE vs. CHH L 33 12 4 8 50.0 0 0 - 4 4 100.0 1 2 3 3 0 0 2 2 -27
+p108
+aVBob Sura CLE 04/17/1999 CLE vs. CHH L 21 2 1 3 33.3 0 1 0.0 0 0 - 1 5 6 6 1 0 2 2 13
+p109
+aVMitchell Butler CLE 04/16/1999 CLE @ TOR W 24 14 5 11 45.5 1 4 25.0 3 4 75.0 0 2 2 2 1 0 1 4 -2
+p110
+aVJohnny Newman CLE 04/16/1999 CLE @ TOR W 12 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 2 -4
+p111
+aVWesley Person CLE 04/16/1999 CLE @ TOR W 35 13 5 11 45.5 3 4 75.0 0 2 0.0 1 2 3 1 2 0 2 3 4
+p112
+aVShawn Kemp CLE 04/16/1999 CLE @ TOR W 45 23 8 22 36.4 0 0 - 7 10 70.0 3 7 10 5 3 1 4 5 5
+p113
+aVAndrew DeClercq CLE 04/16/1999 CLE @ TOR W 43 8 2 6 33.3 0 0 - 4 4 100.0 3 7 10 0 1 1 1 2 4
+p114
+aVDanny Ferry CLE 04/16/1999 CLE @ TOR W 17 6 1 1 100.0 1 1 100.0 3 3 100.0 1 0 1 0 0 0 1 1 -5
+p115
+aVBob Sura CLE 04/16/1999 CLE @ TOR W 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 4 0 0 1 0 -9
+p116
+aVBrevin Knight CLE 04/16/1999 CLE @ TOR W 38 6 1 7 14.3 0 0 - 4 4 100.0 0 2 2 11 5 0 3 2 8
+p117
+aVCedric Henderson CLE 04/16/1999 CLE @ TOR W 36 13 6 11 54.5 0 0 - 1 1 100.0 1 2 3 1 3 1 2 6 4
+p118
+aVCorie Blount CLE 04/14/1999 CLE @ CHI W 24 2 1 5 20.0 0 0 - 0 0 - 4 4 8 0 0 0 0 5 6
+p119
+aVBob Sura CLE 04/14/1999 CLE @ CHI W 18 10 1 8 12.5 0 2 0.0 8 8 100.0 0 4 4 1 1 0 1 2 4
+p120
+aVMitchell Butler CLE 04/14/1999 CLE @ CHI W 22 10 4 7 57.1 1 1 100.0 1 1 100.0 2 2 4 0 1 1 1 3 6
+p121
+aVJohnny Newman CLE 04/14/1999 CLE @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 8
+p122
+aVCedric Henderson CLE 04/14/1999 CLE @ CHI W 41 4 2 8 25.0 0 0 - 0 0 - 0 4 4 4 0 1 1 4 0
+p123
+aVBrevin Knight CLE 04/14/1999 CLE @ CHI W 31 14 5 10 50.0 0 0 - 4 5 80.0 0 4 4 10 1 0 3 1 4
+p124
+aVShawn Kemp CLE 04/14/1999 CLE @ CHI W 33 27 10 16 62.5 1 1 100.0 6 8 75.0 1 6 7 4 1 0 1 4 9
+p125
+aVWesley Person CLE 04/14/1999 CLE @ CHI W 29 10 3 9 33.3 0 4 0.0 4 6 66.7 1 3 4 0 0 1 0 3 2
+p126
+aVDanny Ferry CLE 04/14/1999 CLE @ CHI W 15 4 1 3 33.3 0 1 0.0 2 2 100.0 0 4 4 0 0 0 1 0 -1
+p127
+aVAndrew DeClercq CLE 04/14/1999 CLE @ CHI W 24 8 4 4 100.0 0 0 - 0 0 - 1 6 7 0 0 0 2 3 2
+p128
+aVShawn Kemp CLE 04/13/1999 CLE vs. WAS W 38 32 9 24 37.5 0 0 - 14 15 93.3 9 8 17 1 2 2 2 3 9
+p129
+aVBob Sura CLE 04/13/1999 CLE vs. WAS W 24 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 6 1 0 2 4 -7
+p130
+aVWesley Person CLE 04/13/1999 CLE vs. WAS W 41 24 8 17 47.1 5 10 50.0 3 4 75.0 1 3 4 0 2 0 1 0 3
+p131
+aVAndrew DeClercq CLE 04/13/1999 CLE vs. WAS W 26 11 3 11 27.3 0 0 - 5 7 71.4 5 4 9 0 1 0 2 2 6
+p132
+aVBrevin Knight CLE 04/13/1999 CLE vs. WAS W 25 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 11 0 0 0 4 17
+p133
+aVJohnny Newman CLE 04/13/1999 CLE vs. WAS W 4 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 -5
+p134
+aVMitchell Butler CLE 04/13/1999 CLE vs. WAS W 12 0 0 5 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p135
+aVDanny Ferry CLE 04/13/1999 CLE vs. WAS W 11 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 0 -1
+p136
+aVCorie Blount CLE 04/13/1999 CLE vs. WAS W 21 2 1 1 100.0 0 0 - 0 0 - 1 5 6 0 2 2 1 2 3
+p137
+aVCedric Henderson CLE 04/13/1999 CLE vs. WAS W 39 10 4 8 50.0 0 0 - 2 2 100.0 0 4 4 4 4 0 2 4 15
+p138
+aVDerek Anderson CLE 04/12/1999 CLE @ BOS L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -6
+p139
+aVShawn Kemp CLE 04/12/1999 CLE @ BOS L 33 23 7 9 77.8 0 0 - 9 10 90.0 3 8 11 1 1 0 4 4 -23
+p140
+aVAndrew DeClercq CLE 04/12/1999 CLE @ BOS L 19 9 3 6 50.0 0 0 - 3 4 75.0 3 2 5 0 0 1 0 3 -20
+p141
+aVEarl Boykins CLE 04/12/1999 CLE @ BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p142
+aVMitchell Butler CLE 04/12/1999 CLE @ BOS L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 7
+p143
+aVWesley Person CLE 04/12/1999 CLE @ BOS L 28 3 1 8 12.5 1 4 25.0 0 0 - 0 3 3 3 1 1 1 1 -19
+p144
+aVJohnny Newman CLE 04/12/1999 CLE @ BOS L 22 8 3 9 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 2 3 -24
+p145
+aVDanny Ferry CLE 04/12/1999 CLE @ BOS L 23 9 4 8 50.0 1 2 50.0 0 0 - 0 5 5 0 0 0 1 2 6
+p146
+aVBrevin Knight CLE 04/12/1999 CLE @ BOS L 31 10 4 9 44.4 0 1 0.0 2 2 100.0 0 1 1 6 1 0 3 0 -8
+p147
+aVCedric Henderson CLE 04/12/1999 CLE @ BOS L 30 10 5 11 45.5 0 0 - 0 0 - 1 3 4 3 1 1 1 1 3
+p148
+aVCorie Blount CLE 04/12/1999 CLE @ BOS L 14 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 11
+p149
+aVBob Sura CLE 04/12/1999 CLE @ BOS L 16 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 3 1 0 1 3 -2
+p150
+aVMitchell Butler CLE 04/10/1999 CLE vs. ATL W 3 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p151
+aVDanny Ferry CLE 04/10/1999 CLE vs. ATL W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 4 3
+p152
+aVEarl Boykins CLE 04/10/1999 CLE vs. ATL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p153
+aVBob Sura CLE 04/10/1999 CLE vs. ATL W 16 4 1 2 50.0 0 0 - 2 5 40.0 1 5 6 3 0 0 1 4 -3
+p154
+aVBrevin Knight CLE 04/10/1999 CLE vs. ATL W 30 12 5 6 83.3 0 0 - 2 2 100.0 0 2 2 13 0 0 4 1 15
+p155
+aVCorie Blount CLE 04/10/1999 CLE vs. ATL W 27 4 1 7 14.3 0 0 - 2 2 100.0 5 7 12 1 2 2 2 3 8
+p156
+aVAndrew DeClercq CLE 04/10/1999 CLE vs. ATL W 15 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 0 0 5 1
+p157
+aVDerek Anderson CLE 04/10/1999 CLE vs. ATL W 16 4 1 8 12.5 0 1 0.0 2 4 50.0 0 0 0 2 0 0 1 2 1
+p158
+aVJohnny Newman CLE 04/10/1999 CLE vs. ATL W 26 2 1 5 20.0 0 2 0.0 0 1 0.0 0 1 1 0 1 1 0 2 16
+p159
+aVWesley Person CLE 04/10/1999 CLE vs. ATL W 30 14 7 10 70.0 0 1 0.0 0 0 - 1 4 5 0 0 0 0 1 16
+p160
+aVCedric Henderson CLE 04/10/1999 CLE vs. ATL W 23 10 5 9 55.6 0 0 - 0 0 - 2 1 3 1 0 0 0 1 2
+p161
+aVShawn Kemp CLE 04/10/1999 CLE vs. ATL W 39 24 10 18 55.6 0 0 - 4 5 80.0 3 9 12 3 3 4 2 3 15
+p162
+aVAndrew DeClercq CLE 04/08/1999 CLE vs. ORL L 24 11 3 8 37.5 0 0 - 5 5 100.0 3 3 6 1 1 2 0 2 -17
+p163
+aVDanny Ferry CLE 04/08/1999 CLE vs. ORL L 32 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 1 1 0 1 3 15
+p164
+aVJohnny Newman CLE 04/08/1999 CLE vs. ORL L 18 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 3 -9
+p165
+aVDerek Anderson CLE 04/08/1999 CLE vs. ORL L 24 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 3 1 0 4 4 7
+p166
+aVBrevin Knight CLE 04/08/1999 CLE vs. ORL L 38 14 6 13 46.2 0 1 0.0 2 2 100.0 2 5 7 6 0 0 4 5 -5
+p167
+aVWesley Person CLE 04/08/1999 CLE vs. ORL L 28 8 3 11 27.3 2 8 25.0 0 0 - 0 5 5 2 1 0 1 1 -15
+p168
+aVCedric Henderson CLE 04/08/1999 CLE vs. ORL L 30 2 0 6 0.0 0 0 - 2 2 100.0 0 4 4 2 0 1 1 5 5
+p169
+aVShawn Kemp CLE 04/08/1999 CLE vs. ORL L 38 17 4 13 30.8 0 0 - 9 10 90.0 3 6 9 1 1 3 8 3 1
+p170
+aVBob Sura CLE 04/08/1999 CLE vs. ORL L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 2 0 0 1 -2
+p171
+aVCedric Henderson CLE 04/07/1999 CLE @ MIL L 39 13 4 6 66.7 0 0 - 5 6 83.3 3 3 6 3 1 0 3 6 -4
+p172
+aVDanny Ferry CLE 04/07/1999 CLE @ MIL L 9 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -4
+p173
+aVShawn Kemp CLE 04/07/1999 CLE @ MIL L 34 23 8 11 72.7 0 0 - 7 8 87.5 4 6 10 5 1 0 4 4 -7
+p174
+aVCorie Blount CLE 04/07/1999 CLE @ MIL L 10 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -4
+p175
+aVWesley Person CLE 04/07/1999 CLE @ MIL L 37 14 5 14 35.7 4 11 36.4 0 1 0.0 0 0 0 1 2 1 1 0 0
+p176
+aVJohnny Newman CLE 04/07/1999 CLE @ MIL L 14 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 2 4 -7
+p177
+aVAndrew DeClercq CLE 04/07/1999 CLE @ MIL L 23 13 3 5 60.0 0 0 - 7 8 87.5 2 0 2 0 1 0 1 2 7
+p178
+aVBob Sura CLE 04/07/1999 CLE @ MIL L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 2 -4
+p179
+aVBrevin Knight CLE 04/07/1999 CLE @ MIL L 34 10 3 9 33.3 0 0 - 4 4 100.0 1 3 4 5 2 0 3 4 -3
+p180
+aVDerek Anderson CLE 04/07/1999 CLE @ MIL L 30 12 4 10 40.0 1 1 100.0 3 3 100.0 1 3 4 2 0 0 2 0 -14
+p181
+aVDanny Ferry CLE 04/06/1999 CLE vs. CHI W 14 4 1 5 20.0 0 1 0.0 2 3 66.7 1 0 1 1 0 0 1 2 -9
+p182
+aVDerek Anderson CLE 04/06/1999 CLE vs. CHI W 15 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -5
+p183
+aVAndrew DeClercq CLE 04/06/1999 CLE vs. CHI W 29 9 4 4 100.0 0 0 - 1 2 50.0 0 5 5 1 1 1 2 6 25
+p184
+aVWesley Person CLE 04/06/1999 CLE vs. CHI W 34 18 7 12 58.3 4 6 66.7 0 0 - 0 4 4 3 0 1 0 0 16
+p185
+aVCorie Blount CLE 04/06/1999 CLE vs. CHI W 14 0 0 2 0.0 0 0 - 0 2 0.0 3 1 4 0 0 0 2 2 -16
+p186
+aVCedric Henderson CLE 04/06/1999 CLE vs. CHI W 37 15 6 13 46.2 0 0 - 3 4 75.0 0 4 4 2 2 0 2 3 20
+p187
+aVShawn Kemp CLE 04/06/1999 CLE vs. CHI W 39 25 8 13 61.5 0 0 - 9 12 75.0 1 10 11 7 3 2 4 5 15
+p188
+aVBob Sura CLE 04/06/1999 CLE vs. CHI W 10 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 0 -10
+p189
+aVJohnny Newman CLE 04/06/1999 CLE vs. CHI W 11 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 0 0 1 1 -13
+p190
+aVBrevin Knight CLE 04/06/1999 CLE vs. CHI W 37 19 7 11 63.6 0 1 0.0 5 6 83.3 0 4 4 15 1 1 1 3 12
+p191
+aVEarl Boykins CLE 04/04/1999 CLE vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 0 1
+p192
+aVCorie Blount CLE 04/04/1999 CLE vs. MIL W 22 4 2 9 22.2 0 0 - 0 2 0.0 3 4 7 0 1 0 0 3 2
+p193
+aVBob Sura CLE 04/04/1999 CLE vs. MIL W 18 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 3 1 0 0 1 -1
+p194
+aVDanny Ferry CLE 04/04/1999 CLE vs. MIL W 19 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 1 0 0 2 3 1
+p195
+aVCedric Henderson CLE 04/04/1999 CLE vs. MIL W 32 15 5 9 55.6 0 0 - 5 5 100.0 2 3 5 2 1 0 1 2 21
+p196
+aVShawn Kemp CLE 04/04/1999 CLE vs. MIL W 18 10 4 5 80.0 0 0 - 2 3 66.7 2 4 6 1 0 1 3 4 19
+p197
+aVMitchell Butler CLE 04/04/1999 CLE vs. MIL W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 1
+p198
+aVJohnny Newman CLE 04/04/1999 CLE vs. MIL W 27 7 2 9 22.2 1 3 33.3 2 2 100.0 0 3 3 0 2 1 1 1 19
+p199
+aVBrevin Knight CLE 04/04/1999 CLE vs. MIL W 24 7 2 8 25.0 0 0 - 3 4 75.0 0 8 8 9 1 1 2 3 26
+p200
+aVAndrew DeClercq CLE 04/04/1999 CLE vs. MIL W 23 17 7 10 70.0 0 0 - 3 5 60.0 2 1 3 0 1 0 1 1 9
+p201
+aVDerek Anderson CLE 04/04/1999 CLE vs. MIL W 21 9 2 8 25.0 1 2 50.0 4 5 80.0 2 1 3 5 1 0 1 0 -3
+p202
+aVWesley Person CLE 04/04/1999 CLE vs. MIL W 29 20 8 13 61.5 4 7 57.1 0 0 - 0 6 6 1 0 0 1 0 25
+p203
+aVBrevin Knight CLE 04/02/1999 CLE @ PHI W 24 8 3 6 50.0 0 0 - 2 4 50.0 1 6 7 3 1 0 3 4 -7
+p204
+aVWesley Person CLE 04/02/1999 CLE @ PHI W 35 16 7 14 50.0 2 6 33.3 0 0 - 0 1 1 0 0 2 3 2 -4
+p205
+aVDanny Ferry CLE 04/02/1999 CLE @ PHI W 19 5 1 6 16.7 1 2 50.0 2 2 100.0 1 0 1 1 0 0 0 2 11
+p206
+aVCedric Henderson CLE 04/02/1999 CLE @ PHI W 26 9 2 8 25.0 0 0 - 5 6 83.3 0 1 1 2 2 0 2 3 -3
+p207
+aVMitchell Butler CLE 04/02/1999 CLE @ PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p208
+aVJohnny Newman CLE 04/02/1999 CLE @ PHI W 21 8 4 7 57.1 0 0 - 0 0 - 0 0 0 2 1 0 0 3 8
+p209
+aVBob Sura CLE 04/02/1999 CLE @ PHI W 18 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 6 2 0 1 2 4
+p210
+aVDerek Anderson CLE 04/02/1999 CLE @ PHI W 20 12 4 10 40.0 1 2 50.0 3 3 100.0 0 2 2 3 2 0 3 1 17
+p211
+aVShawn Kemp CLE 04/02/1999 CLE @ PHI W 33 17 4 10 40.0 0 0 - 9 10 90.0 2 8 10 2 3 1 1 5 0
+p212
+aVCorie Blount CLE 04/02/1999 CLE @ PHI W 20 5 1 3 33.3 0 0 - 3 7 42.9 2 4 6 0 5 1 1 2 4
+p213
+aVAndrew DeClercq CLE 04/02/1999 CLE @ PHI W 23 5 1 2 50.0 0 0 - 3 5 60.0 1 4 5 2 0 0 1 4 -5
+p214
+aVBrevin Knight CLE 04/01/1999 CLE @ NYK L 33 6 3 8 37.5 0 0 - 0 0 - 0 1 1 7 3 0 2 5 -9
+p215
+aVCorie Blount CLE 04/01/1999 CLE @ NYK L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 4 0
+p216
+aVJohnny Newman CLE 04/01/1999 CLE @ NYK L 17 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 2 0 1 2 2
+p217
+aVDerek Anderson CLE 04/01/1999 CLE @ NYK L 25 9 3 10 30.0 0 4 0.0 3 3 100.0 0 4 4 3 0 0 2 4 4
+p218
+aVWesley Person CLE 04/01/1999 CLE @ NYK L 31 10 4 8 50.0 2 5 40.0 0 0 - 0 3 3 2 1 0 1 2 -5
+p219
+aVBob Sura CLE 04/01/1999 CLE @ NYK L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 2
+p220
+aVCedric Henderson CLE 04/01/1999 CLE @ NYK L 28 10 5 10 50.0 0 0 - 0 1 0.0 1 2 3 1 3 0 3 4 -6
+p221
+aVDanny Ferry CLE 04/01/1999 CLE @ NYK L 18 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 0 0 1 1 2 -3
+p222
+aVAndrew DeClercq CLE 04/01/1999 CLE @ NYK L 32 8 3 10 30.0 0 0 - 2 6 33.3 4 7 11 0 2 0 0 5 0
+p223
+aVShawn Kemp CLE 04/01/1999 CLE @ NYK L 38 25 9 20 45.0 0 0 - 7 12 58.3 7 6 13 1 3 1 2 2 -5
+p224
+aVWesley Person CLE 03/30/1999 CLE vs. TOR L 42 4 2 5 40.0 0 1 0.0 0 0 - 0 7 7 4 1 0 0 3 -15
+p225
+aVDerek Anderson CLE 03/30/1999 CLE vs. TOR L 26 15 3 8 37.5 1 4 25.0 8 8 100.0 0 2 2 5 1 0 3 0 -12
+p226
+aVEarl Boykins CLE 03/30/1999 CLE vs. TOR L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p227
+aVBob Sura CLE 03/30/1999 CLE vs. TOR L 18 2 1 5 20.0 0 0 - 0 0 - 0 0 0 4 2 0 3 0 4
+p228
+aVDanny Ferry CLE 03/30/1999 CLE vs. TOR L 15 11 5 5 100.0 1 1 100.0 0 0 - 0 4 4 1 0 0 2 3 1
+p229
+aVCorie Blount CLE 03/30/1999 CLE vs. TOR L 26 4 2 3 66.7 0 0 - 0 2 0.0 0 3 3 2 1 0 0 2 -1
+p230
+aVShawn Kemp CLE 03/30/1999 CLE vs. TOR L 34 15 5 11 45.5 0 0 - 5 6 83.3 1 3 4 2 0 0 4 1 -14
+p231
+aVMitchell Butler CLE 03/30/1999 CLE vs. TOR L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 5
+p232
+aVCedric Henderson CLE 03/30/1999 CLE vs. TOR L 27 16 6 14 42.9 0 0 - 4 4 100.0 0 2 2 0 1 0 1 3 -2
+p233
+aVAndrew DeClercq CLE 03/30/1999 CLE vs. TOR L 21 8 4 7 57.1 0 0 - 0 3 0.0 0 5 5 1 0 0 0 4 -6
+p234
+aVJohnny Newman CLE 03/30/1999 CLE vs. TOR L 20 12 4 6 66.7 1 2 50.0 3 3 100.0 0 4 4 2 0 0 2 6 -10
+p235
+aVMitchell Butler CLE 03/28/1999 CLE @ CHH L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 -1
+p236
+aVShawn Kemp CLE 03/28/1999 CLE @ CHH L 27 14 5 10 50.0 0 0 - 4 5 80.0 3 1 4 6 0 1 3 4 -4
+p237
+aVCorie Blount CLE 03/28/1999 CLE @ CHH L 20 5 1 3 33.3 0 0 - 3 4 75.0 1 4 5 0 1 0 1 4 -9
+p238
+aVEarl Boykins CLE 03/28/1999 CLE @ CHH L 8 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -9
+p239
+aVDerek Anderson CLE 03/28/1999 CLE @ CHH L 32 4 2 8 25.0 0 2 0.0 0 0 - 1 7 8 6 1 0 5 3 -20
+p240
+aVDanny Ferry CLE 03/28/1999 CLE @ CHH L 29 12 4 7 57.1 2 4 50.0 2 2 100.0 0 2 2 2 0 0 0 3 -15
+p241
+aVCedric Henderson CLE 03/28/1999 CLE @ CHH L 31 6 3 7 42.9 0 0 - 0 0 - 1 6 7 1 0 0 3 0 -11
+p242
+aVAndrew DeClercq CLE 03/28/1999 CLE @ CHH L 16 5 2 5 40.0 0 0 - 1 2 50.0 3 0 3 1 2 0 0 3 -12
+p243
+aVWesley Person CLE 03/28/1999 CLE @ CHH L 34 20 8 15 53.3 2 6 33.3 2 2 100.0 2 1 3 1 2 1 1 1 -2
+p244
+aVBob Sura CLE 03/28/1999 CLE @ CHH L 21 6 2 10 20.0 0 4 0.0 2 4 50.0 0 1 1 5 2 0 1 0 -12
+p245
+aVJohnny Newman CLE 03/28/1999 CLE @ CHH L 17 7 2 5 40.0 1 1 100.0 2 2 100.0 1 3 4 0 0 0 2 3 -10
+p246
+aVJohnny Newman CLE 03/27/1999 CLE @ NJN W 23 11 3 5 60.0 1 2 50.0 4 9 44.4 2 3 5 0 0 0 0 4 6
+p247
+aVShawn Kemp CLE 03/27/1999 CLE @ NJN W 38 26 7 14 50.0 0 0 - 12 17 70.6 2 3 5 4 2 0 0 5 10
+p248
+aVBob Sura CLE 03/27/1999 CLE @ NJN W 11 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 3
+p249
+aVWesley Person CLE 03/27/1999 CLE @ NJN W 28 11 4 9 44.4 0 3 0.0 3 6 50.0 1 3 4 1 1 3 1 1 -3
+p250
+aVAndrew DeClercq CLE 03/27/1999 CLE @ NJN W 19 8 3 3 100.0 0 0 - 2 2 100.0 2 3 5 0 0 1 2 1 -3
+p251
+aVBrevin Knight CLE 03/27/1999 CLE @ NJN W 35 17 8 15 53.3 0 0 - 1 2 50.0 0 3 3 5 4 0 1 4 5
+p252
+aVDanny Ferry CLE 03/27/1999 CLE @ NJN W 17 9 3 5 60.0 2 3 66.7 1 1 100.0 0 1 1 0 0 0 0 3 6
+p253
+aVDerek Anderson CLE 03/27/1999 CLE @ NJN W 25 12 4 9 44.4 2 3 66.7 2 2 100.0 0 3 3 1 5 0 1 1 12
+p254
+aVCedric Henderson CLE 03/27/1999 CLE @ NJN W 26 6 1 4 25.0 0 0 - 4 4 100.0 0 5 5 3 1 0 2 2 -2
+p255
+aVCorie Blount CLE 03/27/1999 CLE @ NJN W 18 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 16
+p256
+aVDerek Anderson CLE 03/25/1999 CLE @ ORL L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 -3
+p257
+aVShawn Kemp CLE 03/25/1999 CLE @ ORL L 41 22 6 21 28.6 0 0 - 10 13 76.9 6 10 16 3 3 0 4 2 -11
+p258
+aVCedric Henderson CLE 03/25/1999 CLE @ ORL L 25 7 3 9 33.3 0 0 - 1 2 50.0 1 2 3 1 2 0 3 0 -12
+p259
+aVBrevin Knight CLE 03/25/1999 CLE @ ORL L 38 15 7 14 50.0 0 0 - 1 2 50.0 1 5 6 12 2 0 4 5 1
+p260
+aVAndrew DeClercq CLE 03/25/1999 CLE @ ORL L 22 10 4 7 57.1 0 0 - 2 2 100.0 1 3 4 0 1 0 2 3 -10
+p261
+aVJohnny Newman CLE 03/25/1999 CLE @ ORL L 23 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 2
+p262
+aVBob Sura CLE 03/25/1999 CLE @ ORL L 13 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 1 1 3 1 -8
+p263
+aVCorie Blount CLE 03/25/1999 CLE @ ORL L 18 1 0 0 - 0 0 - 1 1 100.0 0 6 6 0 0 1 1 3 0
+p264
+aVWesley Person CLE 03/25/1999 CLE @ ORL L 32 10 4 11 36.4 2 9 22.2 0 0 - 0 1 1 1 0 0 0 0 -10
+p265
+aVDanny Ferry CLE 03/25/1999 CLE @ ORL L 15 10 4 7 57.1 2 2 100.0 0 0 - 0 0 0 0 0 0 1 2 1
+p266
+aVCorie Blount CLE 03/23/1999 CLE vs. BOS W 23 11 3 5 60.0 0 0 - 5 6 83.3 4 7 11 4 2 2 2 1 20
+p267
+aVDanny Ferry CLE 03/23/1999 CLE vs. BOS W 23 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 2 0 0 0 2 17
+p268
+aVWesley Person CLE 03/23/1999 CLE vs. BOS W 30 19 8 16 50.0 3 8 37.5 0 0 - 0 4 4 2 0 1 2 0 10
+p269
+aVAndrew DeClercq CLE 03/23/1999 CLE vs. BOS W 22 16 7 10 70.0 0 0 - 2 3 66.7 4 2 6 1 1 1 1 3 7
+p270
+aVCedric Henderson CLE 03/23/1999 CLE vs. BOS W 16 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 0 1 2 4 -9
+p271
+aVMitchell Butler CLE 03/23/1999 CLE vs. BOS W 18 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 1 1 0 0 17
+p272
+aVShawn Kemp CLE 03/23/1999 CLE vs. BOS W 28 17 7 11 63.6 0 0 - 3 5 60.0 5 4 9 4 0 0 1 1 10
+p273
+aVJohnny Newman CLE 03/23/1999 CLE vs. BOS W 32 13 4 9 44.4 2 3 66.7 3 3 100.0 1 0 1 6 0 0 0 4 36
+p274
+aVBrevin Knight CLE 03/23/1999 CLE vs. BOS W 22 4 2 4 50.0 0 0 - 0 0 - 0 4 4 8 2 0 3 2 10
+p275
+aVEarl Boykins CLE 03/23/1999 CLE vs. BOS W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p276
+aVBob Sura CLE 03/23/1999 CLE vs. BOS W 21 8 3 6 50.0 0 0 - 2 5 40.0 1 2 3 5 3 0 2 2 16
+p277
+aVBrevin Knight CLE 03/21/1999 CLE vs. NJN W 28 8 3 7 42.9 0 1 0.0 2 2 100.0 0 4 4 5 1 0 2 0 2
+p278
+aVCorie Blount CLE 03/21/1999 CLE vs. NJN W 13 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 2 2 0
+p279
+aVCedric Henderson CLE 03/21/1999 CLE vs. NJN W 31 12 6 11 54.5 0 1 0.0 0 2 0.0 0 2 2 3 0 0 2 2 4
+p280
+aVDanny Ferry CLE 03/21/1999 CLE vs. NJN W 16 11 5 5 100.0 1 1 100.0 0 0 - 0 1 1 1 2 1 1 2 4
+p281
+aVJohnny Newman CLE 03/21/1999 CLE vs. NJN W 17 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 2 -1
+p282
+aVAndrew DeClercq CLE 03/21/1999 CLE vs. NJN W 29 14 6 12 50.0 0 0 - 2 4 50.0 3 7 10 2 1 1 1 2 -1
+p283
+aVBob Sura CLE 03/21/1999 CLE vs. NJN W 20 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 6 1 0 1 1 1
+p284
+aVWesley Person CLE 03/21/1999 CLE vs. NJN W 42 22 10 20 50.0 2 8 25.0 0 0 - 0 5 5 5 1 0 2 0 2
+p285
+aVMitchell Butler CLE 03/21/1999 CLE vs. NJN W 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p286
+aVShawn Kemp CLE 03/21/1999 CLE vs. NJN W 38 12 4 16 25.0 0 0 - 4 5 80.0 2 11 13 1 2 3 2 3 3
+p287
+aVRyan Stack CLE 03/20/1999 CLE @ WAS L 9 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -10
+p288
+aVCorie Blount CLE 03/20/1999 CLE @ WAS L 25 4 2 6 33.3 0 0 - 0 0 - 2 6 8 2 0 2 1 1 -12
+p289
+aVWesley Person CLE 03/20/1999 CLE @ WAS L 24 6 2 7 28.6 0 2 0.0 2 2 100.0 0 1 1 1 0 1 0 1 -23
+p290
+aVMitchell Butler CLE 03/20/1999 CLE @ WAS L 16 8 4 7 57.1 0 0 - 0 1 0.0 0 2 2 0 0 0 0 2 -5
+p291
+aVBob Sura CLE 03/20/1999 CLE @ WAS L 22 11 3 12 25.0 0 1 0.0 5 7 71.4 1 1 2 4 0 0 0 4 -5
+p292
+aVCedric Henderson CLE 03/20/1999 CLE @ WAS L 21 9 4 9 44.4 0 1 0.0 1 1 100.0 2 2 4 2 0 0 2 3 -19
+p293
+aVShawn Kemp CLE 03/20/1999 CLE @ WAS L 27 15 5 7 71.4 0 0 - 5 6 83.3 0 4 4 1 0 2 1 1 -19
+p294
+aVBrevin Knight CLE 03/20/1999 CLE @ WAS L 23 0 0 2 0.0 0 0 - 0 0 - 0 3 3 8 1 0 2 2 -19
+p295
+aVDanny Ferry CLE 03/20/1999 CLE @ WAS L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 3 0 1 3 -15
+p296
+aVAndrew DeClercq CLE 03/20/1999 CLE @ WAS L 17 8 3 5 60.0 0 0 - 2 5 40.0 0 3 3 0 0 0 0 4 -4
+p297
+aVDerek Anderson CLE 03/20/1999 CLE @ WAS L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -8
+p298
+aVJohnny Newman CLE 03/20/1999 CLE @ WAS L 27 18 8 11 72.7 2 2 100.0 0 2 0.0 1 1 2 0 0 0 2 1 -11
+p299
+aVAndrew DeClercq CLE 03/18/1999 CLE vs. LAL W 26 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 0 4 5 3
+p300
+aVBob Sura CLE 03/18/1999 CLE vs. LAL W 15 6 1 2 50.0 0 0 - 4 6 66.7 1 3 4 2 0 1 2 2 1
+p301
+aVDerek Anderson CLE 03/18/1999 CLE vs. LAL W 13 12 5 8 62.5 1 2 50.0 1 1 100.0 0 0 0 1 1 0 2 1 -5
+p302
+aVBrevin Knight CLE 03/18/1999 CLE vs. LAL W 33 20 6 11 54.5 0 0 - 8 8 100.0 0 3 3 6 0 0 1 1 6
+p303
+aVDanny Ferry CLE 03/18/1999 CLE vs. LAL W 15 5 2 7 28.6 1 2 50.0 0 0 - 0 4 4 1 0 0 0 2 9
+p304
+aVCedric Henderson CLE 03/18/1999 CLE vs. LAL W 38 11 5 11 45.5 0 2 0.0 1 2 50.0 1 7 8 3 0 1 0 1 12
+p305
+aVJohnny Newman CLE 03/18/1999 CLE vs. LAL W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 1 -8
+p306
+aVShawn Kemp CLE 03/18/1999 CLE vs. LAL W 41 20 7 15 46.7 0 1 0.0 6 8 75.0 3 6 9 4 2 2 4 4 3
+p307
+aVWesley Person CLE 03/18/1999 CLE vs. LAL W 35 18 6 10 60.0 3 7 42.9 3 4 75.0 0 2 2 6 2 0 0 1 12
+p308
+aVCorie Blount CLE 03/18/1999 CLE vs. LAL W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 4 2
+p309
+aVBob Sura CLE 03/16/1999 CLE vs. DET W 15 7 2 5 40.0 0 0 - 3 3 100.0 0 0 0 2 1 1 1 0 1
+p310
+aVJohnny Newman CLE 03/16/1999 CLE vs. DET W 21 4 1 7 14.3 0 0 - 2 2 100.0 1 0 1 0 1 1 0 2 13
+p311
+aVCedric Henderson CLE 03/16/1999 CLE vs. DET W 29 9 3 12 25.0 0 0 - 3 4 75.0 1 0 1 2 1 0 2 4 -17
+p312
+aVBrevin Knight CLE 03/16/1999 CLE vs. DET W 37 19 7 14 50.0 0 0 - 5 9 55.6 1 3 4 9 0 1 2 1 6
+p313
+aVAndrew DeClercq CLE 03/16/1999 CLE vs. DET W 30 8 2 5 40.0 0 0 - 4 4 100.0 6 11 17 1 0 0 1 1 -3
+p314
+aVWesley Person CLE 03/16/1999 CLE vs. DET W 36 14 5 12 41.7 3 8 37.5 1 4 25.0 0 4 4 2 0 0 0 2 -1
+p315
+aVShawn Kemp CLE 03/16/1999 CLE vs. DET W 26 20 6 15 40.0 0 0 - 8 10 80.0 4 5 9 3 0 0 5 5 0
+p316
+aVCorie Blount CLE 03/16/1999 CLE vs. DET W 20 2 0 5 0.0 0 0 - 2 4 50.0 3 5 8 0 3 0 1 0 3
+p317
+aVDanny Ferry CLE 03/16/1999 CLE vs. DET W 17 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 2 0 1 0 16
+p318
+aVEarl Boykins CLE 03/16/1999 CLE vs. DET W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 2
+p319
+aVAndrew DeClercq CLE 03/15/1999 CLE @ CHI W 33 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 2 3 1 5 10
+p320
+aVShawn Kemp CLE 03/15/1999 CLE @ CHI W 43 17 7 15 46.7 0 0 - 3 7 42.9 2 9 11 3 0 1 5 6 7
+p321
+aVDanny Ferry CLE 03/15/1999 CLE @ CHI W 13 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 2 -7
+p322
+aVCedric Henderson CLE 03/15/1999 CLE @ CHI W 38 22 10 17 58.8 1 1 100.0 1 1 100.0 3 4 7 2 2 1 1 3 2
+p323
+aVJohnny Newman CLE 03/15/1999 CLE @ CHI W 10 9 4 5 80.0 1 2 50.0 0 0 - 0 1 1 0 1 0 2 0 -5
+p324
+aVBrevin Knight CLE 03/15/1999 CLE @ CHI W 42 9 3 13 23.1 0 0 - 3 4 75.0 1 7 8 16 4 0 5 5 11
+p325
+aVWesley Person CLE 03/15/1999 CLE @ CHI W 42 21 9 16 56.3 3 6 50.0 0 0 - 1 1 2 3 0 0 1 1 2
+p326
+aVBob Sura CLE 03/15/1999 CLE @ CHI W 15 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 2 1 2 0
+p327
+aVEarl Boykins CLE 03/15/1999 CLE @ CHI W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -3
+p328
+aVCorie Blount CLE 03/15/1999 CLE @ CHI W 14 1 0 0 - 0 0 - 1 2 50.0 0 4 4 0 0 1 0 3 4
+p329
+aVDerek Anderson CLE 03/15/1999 CLE @ CHI W 13 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p330
+aVBrevin Knight CLE 03/13/1999 CLE @ HOU L 32 8 4 11 36.4 0 0 - 0 0 - 3 3 6 9 3 0 2 3 -5
+p331
+aVBob Sura CLE 03/13/1999 CLE @ HOU L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 1 1 3 -5
+p332
+aVCedric Henderson CLE 03/13/1999 CLE @ HOU L 30 10 5 11 45.5 0 0 - 0 2 0.0 2 4 6 5 1 0 2 3 2
+p333
+aVWesley Person CLE 03/13/1999 CLE @ HOU L 27 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 1 1 0 1 0 -8
+p334
+aVJohnny Newman CLE 03/13/1999 CLE @ HOU L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -11
+p335
+aVShawn Kemp CLE 03/13/1999 CLE @ HOU L 45 25 10 18 55.6 0 0 - 5 5 100.0 4 3 7 2 1 3 5 3 -8
+p336
+aVDanny Ferry CLE 03/13/1999 CLE @ HOU L 30 11 4 10 40.0 2 3 66.7 1 1 100.0 0 1 1 1 1 0 2 4 -5
+p337
+aVAndrew DeClercq CLE 03/13/1999 CLE @ HOU L 21 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -9
+p338
+aVDerek Anderson CLE 03/13/1999 CLE @ HOU L 27 23 8 16 50.0 3 6 50.0 4 6 66.7 0 2 2 5 0 0 1 3 -6
+p339
+aVBob Sura CLE 03/10/1999 CLE @ PHX W 12 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 4 0 0 0 0 -6
+p340
+aVRyan Stack CLE 03/10/1999 CLE @ PHX W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p341
+aVDanny Ferry CLE 03/10/1999 CLE @ PHX W 26 8 4 10 40.0 0 1 0.0 0 1 0.0 1 1 2 0 0 0 1 1 3
+p342
+aVDerek Anderson CLE 03/10/1999 CLE @ PHX W 21 7 2 7 28.6 1 2 50.0 2 2 100.0 2 2 4 5 2 0 0 2 1
+p343
+aVCedric Henderson CLE 03/10/1999 CLE @ PHX W 36 14 6 12 50.0 0 0 - 2 2 100.0 2 8 10 4 0 1 1 2 19
+p344
+aVJohnny Newman CLE 03/10/1999 CLE @ PHX W 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p345
+aVWesley Person CLE 03/10/1999 CLE @ PHX W 28 12 4 10 40.0 1 2 50.0 3 4 75.0 0 3 3 0 0 0 1 1 11
+p346
+aVShawn Kemp CLE 03/10/1999 CLE @ PHX W 32 18 8 12 66.7 0 0 - 2 4 50.0 2 9 11 1 0 0 2 5 17
+p347
+aVVitaly Potapenko CLE 03/10/1999 CLE @ PHX W 34 9 3 7 42.9 0 0 - 3 4 75.0 2 4 6 1 2 0 2 5 10
+p348
+aVBrevin Knight CLE 03/10/1999 CLE @ PHX W 34 14 5 9 55.6 0 0 - 4 4 100.0 0 4 4 9 6 0 5 2 20
+p349
+aVBob Sura CLE 03/09/1999 CLE @ UTA L 20 3 1 6 16.7 0 0 - 1 2 50.0 0 1 1 4 1 0 1 5 -5
+p350
+aVBrevin Knight CLE 03/09/1999 CLE @ UTA L 21 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 6 2 0 2 6 -6
+p351
+aVRyan Stack CLE 03/09/1999 CLE @ UTA L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p352
+aVAntonio Lang CLE 03/09/1999 CLE @ UTA L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -8
+p353
+aVVitaly Potapenko CLE 03/09/1999 CLE @ UTA L 25 5 2 5 40.0 0 0 - 1 2 50.0 2 4 6 0 1 0 2 6 -6
+p354
+aVMitchell Butler CLE 03/09/1999 CLE @ UTA L 16 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 1 0 0 2 2 5
+p355
+aVCedric Henderson CLE 03/09/1999 CLE @ UTA L 27 6 3 9 33.3 0 0 - 0 0 - 1 0 1 0 1 0 4 4 -15
+p356
+aVJohnny Newman CLE 03/09/1999 CLE @ UTA L 11 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 2 1
+p357
+aVWesley Person CLE 03/09/1999 CLE @ UTA L 29 10 3 7 42.9 1 3 33.3 3 3 100.0 0 4 4 2 1 0 2 2 -16
+p358
+aVDanny Ferry CLE 03/09/1999 CLE @ UTA L 29 10 4 8 50.0 1 2 50.0 1 1 100.0 0 2 2 0 0 0 1 0 -10
+p359
+aVDerek Anderson CLE 03/09/1999 CLE @ UTA L 22 9 2 10 20.0 1 3 33.3 4 4 100.0 0 0 0 1 1 0 1 3 -7
+p360
+aVShawn Kemp CLE 03/09/1999 CLE @ UTA L 29 16 3 11 27.3 0 0 - 10 11 90.9 3 5 8 1 0 1 1 6 0
+p361
+aVWesley Person CLE 03/06/1999 CLE vs. GSW W 28 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 3 0 0 0 1 4
+p362
+aVMitchell Butler CLE 03/06/1999 CLE vs. GSW W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 3
+p363
+aVAntonio Lang CLE 03/06/1999 CLE vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p364
+aVCedric Henderson CLE 03/06/1999 CLE vs. GSW W 19 4 2 7 28.6 0 0 - 0 0 - 0 0 0 0 1 0 1 4 2
+p365
+aVBob Sura CLE 03/06/1999 CLE vs. GSW W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 2 2 -7
+p366
+aVRyan Stack CLE 03/06/1999 CLE vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p367
+aVBrevin Knight CLE 03/06/1999 CLE vs. GSW W 32 10 3 7 42.9 0 0 - 4 6 66.7 0 8 8 10 5 1 3 2 16
+p368
+aVShawn Kemp CLE 03/06/1999 CLE vs. GSW W 42 31 8 18 44.4 0 0 - 15 17 88.2 4 10 14 3 0 3 3 5 21
+p369
+aVJohnny Newman CLE 03/06/1999 CLE vs. GSW W 29 16 3 5 60.0 2 2 100.0 8 10 80.0 1 1 2 1 0 3 1 4 15
+p370
+aVVitaly Potapenko CLE 03/06/1999 CLE vs. GSW W 28 13 4 6 66.7 0 0 - 5 7 71.4 0 4 4 0 0 2 1 5 10
+p371
+aVDerek Anderson CLE 03/06/1999 CLE vs. GSW W 24 11 3 5 60.0 0 2 0.0 5 6 83.3 0 2 2 3 2 0 1 2 18
+p372
+aVDanny Ferry CLE 03/06/1999 CLE vs. GSW W 22 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 2 0 0 1 3 6
+p373
+aVDerek Anderson CLE 03/04/1999 CLE vs. DET L 35 16 6 10 60.0 1 2 50.0 3 4 75.0 0 2 2 6 2 0 1 4 -12
+p374
+aVDanny Ferry CLE 03/04/1999 CLE vs. DET L 20 8 4 8 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -5
+p375
+aVMitchell Butler CLE 03/04/1999 CLE vs. DET L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -1
+p376
+aVCedric Henderson CLE 03/04/1999 CLE vs. DET L 27 14 6 10 60.0 0 0 - 2 2 100.0 0 1 1 2 1 0 4 4 -8
+p377
+aVRyan Stack CLE 03/04/1999 CLE vs. DET L 4 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 0 2
+p378
+aVAntonio Lang CLE 03/04/1999 CLE vs. DET L 22 4 2 2 100.0 0 0 - 0 1 0.0 4 2 6 0 1 0 2 5 -8
+p379
+aVShawn Kemp CLE 03/04/1999 CLE vs. DET L 33 15 4 6 66.7 0 0 - 7 10 70.0 2 5 7 7 1 0 2 3 -12
+p380
+aVVitaly Potapenko CLE 03/04/1999 CLE vs. DET L 25 2 1 7 14.3 0 0 - 0 0 - 0 3 3 2 0 1 0 2 -6
+p381
+aVWesley Person CLE 03/04/1999 CLE vs. DET L 27 9 4 8 50.0 1 2 50.0 0 0 - 1 0 1 1 0 1 0 0 -8
+p382
+aVJohnny Newman CLE 03/04/1999 CLE vs. DET L 19 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 1 -7
+p383
+aVBob Sura CLE 03/04/1999 CLE vs. DET L 23 7 2 6 33.3 1 2 50.0 2 4 50.0 1 1 2 7 1 0 4 6 -10
+p384
+aVJohnny Newman CLE 03/02/1999 CLE vs. BOS W 22 5 1 5 20.0 0 0 - 3 3 100.0 0 2 2 3 1 0 0 2 9
+p385
+aVVitaly Potapenko CLE 03/02/1999 CLE vs. BOS W 37 13 4 7 57.1 0 0 - 5 10 50.0 2 7 9 2 0 2 4 6 1
+p386
+aVMitchell Butler CLE 03/02/1999 CLE vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p387
+aVWesley Person CLE 03/02/1999 CLE vs. BOS W 26 17 6 9 66.7 4 6 66.7 1 1 100.0 1 4 5 0 2 0 1 3 13
+p388
+aVDanny Ferry CLE 03/02/1999 CLE vs. BOS W 26 12 5 7 71.4 2 2 100.0 0 0 - 0 2 2 1 1 0 2 3 18
+p389
+aVShawn Kemp CLE 03/02/1999 CLE vs. BOS W 33 22 5 8 62.5 0 0 - 12 15 80.0 4 6 10 2 0 0 2 5 13
+p390
+aVDerek Anderson CLE 03/02/1999 CLE vs. BOS W 37 16 3 6 50.0 0 1 0.0 10 12 83.3 1 2 3 9 0 1 3 2 13
+p391
+aVAntonio Lang CLE 03/02/1999 CLE vs. BOS W 0 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p392
+aVBob Sura CLE 03/02/1999 CLE vs. BOS W 30 19 7 11 63.6 0 1 0.0 5 6 83.3 0 3 3 7 0 1 2 3 5
+p393
+aVCedric Henderson CLE 03/02/1999 CLE vs. BOS W 26 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 5 1 2 4 2 8
+p394
+aVMitchell Butler CLE 03/01/1999 CLE @ NYK L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 2
+p395
+aVShawn Kemp CLE 03/01/1999 CLE @ NYK L 35 19 5 14 35.7 0 0 - 9 12 75.0 3 7 10 0 1 0 3 4 -13
+p396
+aVDerek Anderson CLE 03/01/1999 CLE @ NYK L 37 15 3 12 25.0 0 3 0.0 9 9 100.0 2 3 5 3 5 0 1 1 -6
+p397
+aVJohnny Newman CLE 03/01/1999 CLE @ NYK L 18 11 3 7 42.9 0 1 0.0 5 6 83.3 0 0 0 1 1 0 0 2 -5
+p398
+aVAntonio Lang CLE 03/01/1999 CLE @ NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p399
+aVBrevin Knight CLE 03/01/1999 CLE @ NYK L 34 10 4 11 36.4 0 0 - 2 4 50.0 0 1 1 6 3 0 2 3 -8
+p400
+aVCedric Henderson CLE 03/01/1999 CLE @ NYK L 30 11 3 8 37.5 0 0 - 5 6 83.3 1 3 4 0 0 1 1 4 -2
+p401
+aVBob Sura CLE 03/01/1999 CLE @ NYK L 16 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -3
+p402
+aVDanny Ferry CLE 03/01/1999 CLE @ NYK L 22 5 1 4 25.0 1 2 50.0 2 2 100.0 0 3 3 2 0 0 2 3 4
+p403
+aVVitaly Potapenko CLE 03/01/1999 CLE @ NYK L 35 7 2 9 22.2 0 0 - 3 4 75.0 2 8 10 1 1 1 2 2 -3
+p404
+aVBob Sura CLE 02/25/1999 CLE vs. IND L 20 5 1 3 33.3 1 1 100.0 2 2 100.0 0 3 3 1 2 1 0 2 8
+p405
+aVDerek Anderson CLE 02/25/1999 CLE vs. IND L 39 6 3 9 33.3 0 1 0.0 0 0 - 0 4 4 6 2 0 4 5 -11
+p406
+aVJohnny Newman CLE 02/25/1999 CLE vs. IND L 28 12 3 10 30.0 0 4 0.0 6 7 85.7 0 0 0 1 1 0 0 4 6
+p407
+aVAntonio Lang CLE 02/25/1999 CLE vs. IND L 4 2 0 0 - 0 0 - 2 4 50.0 2 1 3 0 0 0 0 1 2
+p408
+aVCedric Henderson CLE 02/25/1999 CLE vs. IND L 20 6 3 8 37.5 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -13
+p409
+aVVitaly Potapenko CLE 02/25/1999 CLE vs. IND L 38 13 6 10 60.0 0 0 - 1 2 50.0 1 8 9 2 1 0 4 3 -2
+p410
+aVShawn Kemp CLE 02/25/1999 CLE vs. IND L 31 16 3 13 23.1 0 0 - 10 10 100.0 3 3 6 0 1 0 2 2 -10
+p411
+aVDanny Ferry CLE 02/25/1999 CLE vs. IND L 22 8 4 8 50.0 0 2 0.0 0 0 - 3 3 6 2 0 0 0 2 -4
+p412
+aVBrevin Knight CLE 02/25/1999 CLE vs. IND L 37 6 3 8 37.5 0 0 - 0 0 - 1 3 4 7 1 0 2 4 -11
+p413
+aVMitchell Butler CLE 02/24/1999 CLE @ DET L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p414
+aVAntonio Lang CLE 02/24/1999 CLE @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -3
+p415
+aVBob Sura CLE 02/24/1999 CLE @ DET L 24 5 2 5 40.0 0 2 0.0 1 2 50.0 1 2 3 3 0 0 3 1 -4
+p416
+aVRyan Stack CLE 02/24/1999 CLE @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p417
+aVJohnny Newman CLE 02/24/1999 CLE @ DET L 18 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -14
+p418
+aVBrevin Knight CLE 02/24/1999 CLE @ DET L 27 2 1 6 16.7 0 0 - 0 0 - 0 4 4 4 1 0 2 3 -11
+p419
+aVDanny Ferry CLE 02/24/1999 CLE @ DET L 26 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 2 0 0 0 1 -9
+p420
+aVCedric Henderson CLE 02/24/1999 CLE @ DET L 29 12 4 11 36.4 0 1 0.0 4 4 100.0 0 4 4 2 3 0 3 3 0
+p421
+aVShawn Kemp CLE 02/24/1999 CLE @ DET L 38 24 7 14 50.0 0 0 - 10 13 76.9 2 9 11 4 2 0 4 3 -11
+p422
+aVDerek Anderson CLE 02/24/1999 CLE @ DET L 39 11 4 10 40.0 0 1 0.0 3 4 75.0 4 5 9 4 2 0 5 2 -10
+p423
+aVVitaly Potapenko CLE 02/24/1999 CLE @ DET L 26 9 4 10 40.0 0 0 - 1 1 100.0 2 7 9 0 0 0 1 3 -7
+p424
+aVMitchell Butler CLE 02/22/1999 CLE vs. PHI L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p425
+aVBob Sura CLE 02/22/1999 CLE vs. PHI L 20 6 2 4 50.0 0 0 - 2 4 50.0 0 0 0 0 1 0 0 3 2
+p426
+aVVitaly Potapenko CLE 02/22/1999 CLE vs. PHI L 23 2 0 6 0.0 0 0 - 2 2 100.0 1 1 2 1 1 2 1 2 -2
+p427
+aVDanny Ferry CLE 02/22/1999 CLE vs. PHI L 29 11 5 8 62.5 1 2 50.0 0 0 - 1 6 7 2 1 1 0 2 8
+p428
+aVShawn Kemp CLE 02/22/1999 CLE vs. PHI L 39 23 8 17 47.1 0 0 - 7 9 77.8 5 4 9 2 0 0 6 5 -19
+p429
+aVCedric Henderson CLE 02/22/1999 CLE vs. PHI L 22 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 2 -23
+p430
+aVBrevin Knight CLE 02/22/1999 CLE vs. PHI L 33 13 4 8 50.0 0 0 - 5 6 83.3 0 1 1 6 0 1 6 4 -16
+p431
+aVDerek Anderson CLE 02/22/1999 CLE vs. PHI L 41 28 7 11 63.6 0 0 - 14 15 93.3 1 2 3 10 1 0 3 3 2
+p432
+aVJohnny Newman CLE 02/22/1999 CLE vs. PHI L 30 10 4 7 57.1 0 2 0.0 2 3 66.7 2 4 6 0 1 0 0 6 9
+p433
+aVBrevin Knight CLE 02/20/1999 CLE vs. NJN W 30 12 2 7 28.6 0 0 - 8 8 100.0 1 1 2 8 3 1 2 4 1
+p434
+aVVitaly Potapenko CLE 02/20/1999 CLE vs. NJN W 33 6 2 9 22.2 0 0 - 2 4 50.0 2 1 3 2 0 0 2 1 8
+p435
+aVDerek Anderson CLE 02/20/1999 CLE vs. NJN W 36 19 5 9 55.6 0 0 - 9 11 81.8 0 4 4 5 3 1 4 2 12
+p436
+aVAntonio Lang CLE 02/20/1999 CLE vs. NJN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p437
+aVBob Sura CLE 02/20/1999 CLE vs. NJN W 17 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 4 1 0 2 1 7
+p438
+aVShawn Kemp CLE 02/20/1999 CLE vs. NJN W 39 24 10 19 52.6 0 0 - 4 6 66.7 2 9 11 1 2 1 6 5 1
+p439
+aVWesley Person CLE 02/20/1999 CLE vs. NJN W 9 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p440
+aVDanny Ferry CLE 02/20/1999 CLE vs. NJN W 18 6 1 3 33.3 0 1 0.0 4 4 100.0 0 1 1 0 0 0 1 1 2
+p441
+aVJohnny Newman CLE 02/20/1999 CLE vs. NJN W 26 7 2 4 50.0 0 1 0.0 3 4 75.0 0 3 3 1 0 0 2 5 3
+p442
+aVCedric Henderson CLE 02/20/1999 CLE vs. NJN W 27 2 1 6 16.7 0 0 - 0 0 - 1 7 8 3 0 0 1 2 1
+p443
+aVVitaly Potapenko CLE 02/18/1999 CLE vs. NYK W 38 17 8 15 53.3 0 0 - 1 3 33.3 5 7 12 1 1 3 1 2 32
+p444
+aVRyan Stack CLE 02/18/1999 CLE vs. NYK W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p445
+aVCedric Henderson CLE 02/18/1999 CLE vs. NYK W 25 13 6 10 60.0 1 2 50.0 0 0 - 3 2 5 4 1 1 4 1 18
+p446
+aVDanny Ferry CLE 02/18/1999 CLE vs. NYK W 11 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 1
+p447
+aVMitchell Butler CLE 02/18/1999 CLE vs. NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p448
+aVJohnny Newman CLE 02/18/1999 CLE vs. NYK W 24 5 2 5 40.0 0 1 0.0 1 1 100.0 0 0 0 1 1 0 0 4 4
+p449
+aVDerek Anderson CLE 02/18/1999 CLE vs. NYK W 24 12 3 7 42.9 0 0 - 6 7 85.7 0 1 1 6 2 0 0 2 21
+p450
+aVShawn Kemp CLE 02/18/1999 CLE vs. NYK W 37 20 5 8 62.5 0 0 - 10 10 100.0 1 8 9 1 0 0 4 4 38
+p451
+aVBrevin Knight CLE 02/18/1999 CLE vs. NYK W 26 4 1 4 25.0 0 1 0.0 2 4 50.0 1 3 4 11 2 1 2 0 26
+p452
+aVBob Sura CLE 02/18/1999 CLE vs. NYK W 13 4 1 4 25.0 0 0 - 2 4 50.0 0 2 2 3 0 1 2 2 -10
+p453
+aVAntonio Lang CLE 02/18/1999 CLE vs. NYK W 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -12
+p454
+aVWesley Person CLE 02/18/1999 CLE vs. NYK W 30 14 5 10 50.0 3 8 37.5 1 2 50.0 0 5 5 1 1 0 1 2 18
+p455
+aVDanny Ferry CLE 02/16/1999 CLE vs. ORL W 19 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 1 2 2 1 3 11
+p456
+aVVitaly Potapenko CLE 02/16/1999 CLE vs. ORL W 40 16 8 12 66.7 0 0 - 0 0 - 0 4 4 3 1 2 2 2 11
+p457
+aVAntonio Lang CLE 02/16/1999 CLE vs. ORL W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 6
+p458
+aVCedric Henderson CLE 02/16/1999 CLE vs. ORL W 32 4 2 7 28.6 0 0 - 0 0 - 0 3 3 4 2 1 2 4 -4
+p459
+aVWesley Person CLE 02/16/1999 CLE vs. ORL W 22 12 5 6 83.3 2 2 100.0 0 0 - 1 3 4 2 2 0 1 1 -2
+p460
+aVJohnny Newman CLE 02/16/1999 CLE vs. ORL W 14 15 5 6 83.3 3 3 100.0 2 2 100.0 0 0 0 0 1 0 0 5 16
+p461
+aVShawn Kemp CLE 02/16/1999 CLE vs. ORL W 32 18 6 10 60.0 0 0 - 6 6 100.0 2 6 8 0 0 2 6 4 -4
+p462
+aVDerek Anderson CLE 02/16/1999 CLE vs. ORL W 28 11 3 6 50.0 1 1 100.0 4 4 100.0 1 3 4 4 2 0 4 1 4
+p463
+aVBob Sura CLE 02/16/1999 CLE vs. ORL W 27 5 2 7 28.6 1 2 50.0 0 0 - 1 1 2 10 3 0 3 3 16
+p464
+aVBrevin Knight CLE 02/16/1999 CLE vs. ORL W 21 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 5 1 0 3 4 6
+p465
+aVBob Sura CLE 02/11/1999 CLE vs. SAS W 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 6 2 0 0 1 5
+p466
+aVJohnny Newman CLE 02/11/1999 CLE vs. SAS W 25 4 1 4 25.0 1 2 50.0 1 1 100.0 1 2 3 4 3 2 1 3 1
+p467
+aVShawn Kemp CLE 02/11/1999 CLE vs. SAS W 36 25 8 17 47.1 0 0 - 9 12 75.0 5 7 12 1 1 0 2 5 0
+p468
+aVVitaly Potapenko CLE 02/11/1999 CLE vs. SAS W 18 14 5 5 100.0 0 0 - 4 4 100.0 0 2 2 0 1 2 0 5 19
+p469
+aVDanny Ferry CLE 02/11/1999 CLE vs. SAS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p470
+aVCedric Henderson CLE 02/11/1999 CLE vs. SAS W 26 4 2 7 28.6 0 0 - 0 0 - 0 2 2 2 3 1 3 3 14
+p471
+aVBrevin Knight CLE 02/11/1999 CLE vs. SAS W 32 9 1 4 25.0 0 0 - 7 11 63.6 0 2 2 7 3 0 1 1 5
+p472
+aVWesley Person CLE 02/11/1999 CLE vs. SAS W 21 8 3 7 42.9 2 5 40.0 0 0 - 0 0 0 0 1 0 1 1 4
+p473
+aVZydrunas Ilgauskas CLE 02/11/1999 CLE vs. SAS W 35 17 6 12 50.0 0 0 - 5 8 62.5 2 3 5 0 0 2 0 6 0
+p474
+aVDerek Anderson CLE 02/11/1999 CLE vs. SAS W 27 14 5 11 45.5 1 1 100.0 3 3 100.0 1 2 3 2 0 0 1 2 6
+p475
+aVCedric Henderson CLE 02/10/1999 CLE @ CHH W 33 8 4 6 66.7 0 0 - 0 0 - 1 0 1 3 0 0 2 1 3
+p476
+aVBrevin Knight CLE 02/10/1999 CLE @ CHH W 29 14 5 11 45.5 0 0 - 4 6 66.7 1 1 2 5 3 0 2 4 4
+p477
+aVDerek Anderson CLE 02/10/1999 CLE @ CHH W 26 7 3 9 33.3 0 0 - 1 1 100.0 1 2 3 1 2 0 2 1 6
+p478
+aVShawn Kemp CLE 02/10/1999 CLE @ CHH W 39 20 4 7 57.1 0 0 - 12 15 80.0 4 9 13 3 1 1 3 4 17
+p479
+aVDanny Ferry CLE 02/10/1999 CLE @ CHH W 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p480
+aVBob Sura CLE 02/10/1999 CLE @ CHH W 21 15 6 9 66.7 1 2 50.0 2 2 100.0 1 3 4 2 3 0 2 2 2
+p481
+aVJohnny Newman CLE 02/10/1999 CLE @ CHH W 15 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 7
+p482
+aVZydrunas Ilgauskas CLE 02/10/1999 CLE @ CHH W 34 10 3 5 60.0 0 0 - 4 10 40.0 1 3 4 0 0 2 1 5 2
+p483
+aVWesley Person CLE 02/10/1999 CLE @ CHH W 21 4 2 7 28.6 0 1 0.0 0 1 0.0 0 4 4 2 0 0 0 2 10
+p484
+aVVitaly Potapenko CLE 02/10/1999 CLE @ CHH W 18 5 1 4 25.0 0 0 - 3 4 75.0 2 3 5 1 1 0 0 2 5
+p485
+aVVitaly Potapenko CLE 02/08/1999 CLE vs. IND L 15 8 4 7 57.1 0 0 - 0 0 - 1 3 4 0 0 0 1 3 -14
+p486
+aVBob Sura CLE 02/08/1999 CLE vs. IND L 14 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 3 0 0 1 2 -13
+p487
+aVShawn Kemp CLE 02/08/1999 CLE vs. IND L 38 26 6 13 46.2 0 0 - 14 17 82.4 3 5 8 2 1 2 2 3 2
+p488
+aVJohnny Newman CLE 02/08/1999 CLE vs. IND L 24 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 1 0 0 0 3
+p489
+aVZydrunas Ilgauskas CLE 02/08/1999 CLE vs. IND L 27 11 3 10 30.0 0 0 - 5 6 83.3 4 4 8 1 2 2 3 5 -6
+p490
+aVBrevin Knight CLE 02/08/1999 CLE vs. IND L 33 12 5 9 55.6 0 0 - 2 4 50.0 1 3 4 6 0 0 2 4 7
+p491
+aVCedric Henderson CLE 02/08/1999 CLE vs. IND L 18 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 3 0 2 0 3 -12
+p492
+aVWesley Person CLE 02/08/1999 CLE vs. IND L 26 12 5 12 41.7 1 7 14.3 1 1 100.0 1 3 4 0 1 0 2 0 -7
+p493
+aVDerek Anderson CLE 02/08/1999 CLE vs. IND L 28 13 4 6 66.7 0 0 - 5 6 83.3 1 5 6 2 1 0 3 2 4
+p494
+aVDanny Ferry CLE 02/08/1999 CLE vs. IND L 16 1 0 3 0.0 0 0 - 1 1 100.0 0 1 1 2 0 0 0 4 6
+p495
+aVBob Sura CLE 02/06/1999 CLE @ BOS L 18 0 0 2 0.0 0 1 0.0 0 2 0.0 0 2 2 3 4 1 2 1 -8
+p496
+aVWesley Person CLE 02/06/1999 CLE @ BOS L 31 6 2 11 18.2 1 6 16.7 1 4 25.0 1 4 5 1 1 0 0 0 5
+p497
+aVBrevin Knight CLE 02/06/1999 CLE @ BOS L 23 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 5 2 0 2 4 3
+p498
+aVJohnny Newman CLE 02/06/1999 CLE @ BOS L 15 9 3 5 60.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 3 3 -14
+p499
+aVZydrunas Ilgauskas CLE 02/06/1999 CLE @ BOS L 37 16 6 11 54.5 0 0 - 4 4 100.0 3 7 10 2 1 1 2 5 4
+p500
+aVShawn Kemp CLE 02/06/1999 CLE @ BOS L 34 18 6 8 75.0 0 0 - 6 8 75.0 2 5 7 1 1 3 2 5 9
+p501
+aVDanny Ferry CLE 02/06/1999 CLE @ BOS L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p502
+aVCedric Henderson CLE 02/06/1999 CLE @ BOS L 33 10 5 10 50.0 0 0 - 0 0 - 1 3 4 5 4 1 4 4 10
+p503
+aVDerek Anderson CLE 02/06/1999 CLE @ BOS L 25 6 2 7 28.6 0 2 0.0 2 4 50.0 0 1 1 2 1 0 3 2 -10
+p504
+aVVitaly Potapenko CLE 02/06/1999 CLE @ BOS L 14 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 1 4 1 -11
+p505
+aVShawn Kemp CLE 02/05/1999 CLE @ ATL L 25 13 3 11 27.3 0 0 - 7 10 70.0 4 5 9 1 0 0 2 4 -21
+p506
+aVMitchell Butler CLE 02/05/1999 CLE @ ATL L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p507
+aVBob Sura CLE 02/05/1999 CLE @ ATL L 19 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 2 0 2 4 6
+p508
+aVJohnny Newman CLE 02/05/1999 CLE @ ATL L 22 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 1 2 0 0 2 2
+p509
+aVZydrunas Ilgauskas CLE 02/05/1999 CLE @ ATL L 38 22 11 19 57.9 0 0 - 0 2 0.0 7 10 17 1 1 0 3 3 -12
+p510
+aVDerek Anderson CLE 02/05/1999 CLE @ ATL L 20 12 4 7 57.1 0 0 - 4 8 50.0 0 0 0 3 0 0 5 3 -2
+p511
+aVCedric Henderson CLE 02/05/1999 CLE @ ATL L 25 6 3 11 27.3 0 0 - 0 0 - 0 0 0 1 2 0 0 3 -14
+p512
+aVDanny Ferry CLE 02/05/1999 CLE @ ATL L 14 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 1
+p513
+aVLitterial Green CLE 02/05/1999 CLE @ ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p514
+aVWesley Person CLE 02/05/1999 CLE @ ATL L 25 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 1 2 0 0 3 -13
+p515
+aVVitaly Potapenko CLE 02/05/1999 CLE @ ATL L 19 4 1 4 25.0 0 1 0.0 2 2 100.0 1 3 4 0 0 0 1 3 -2
+p516
+aVBrevin Knight CLE 02/05/1999 CLE @ ATL L 30 9 3 8 37.5 0 0 - 3 6 50.0 0 1 1 3 2 0 4 3 -28
+p517
+a.

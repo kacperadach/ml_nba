@@ -1,0 +1,390 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEduardo Najera DAL 05/29/2003 DAL vs. SAS L 23 2 1 6 16.7 0 0 - 0 0 - 1 4 5 0 2 0 0 4 -7
+p2
+aVRaef LaFrentz DAL 05/29/2003 DAL vs. SAS L 27 12 6 13 46.2 0 2 0.0 0 0 - 3 9 12 1 1 4 1 5 -8
+p3
+aVMichael Finley DAL 05/29/2003 DAL vs. SAS L 47 13 5 12 41.7 1 4 25.0 2 2 100.0 0 6 6 4 0 3 4 1 -16
+p4
+aVSteve Nash DAL 05/29/2003 DAL vs. SAS L 40 6 3 10 30.0 0 1 0.0 0 0 - 0 4 4 11 0 0 2 1 -13
+p5
+aVTariq Abdul-Wahad DAL 05/29/2003 DAL vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p6
+aVNick Van Exel DAL 05/29/2003 DAL vs. SAS L 40 19 8 19 42.1 1 4 25.0 2 5 40.0 0 2 2 2 0 0 2 2 -12
+p7
+aVAdrian Griffin DAL 05/29/2003 DAL vs. SAS L 10 4 2 2 100.0 0 0 - 0 0 - 3 3 6 0 0 0 2 3 -4
+p8
+aVRaja Bell DAL 05/29/2003 DAL vs. SAS L 15 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 3 1 0 1 1 8
+p9
+aVWalt Williams DAL 05/29/2003 DAL vs. SAS L 37 17 7 15 46.7 3 7 42.9 0 0 - 1 3 4 0 0 3 5 3 -10
+p10
+aVRaef LaFrentz DAL 05/27/2003 DAL @ SAS W 24 9 4 12 33.3 1 4 25.0 0 0 - 2 0 2 0 0 0 0 5 5
+p11
+aVNick Van Exel DAL 05/27/2003 DAL @ SAS W 39 21 7 20 35.0 2 6 33.3 5 5 100.0 1 4 5 4 2 0 4 5 12
+p12
+aVTariq Abdul-Wahad DAL 05/27/2003 DAL @ SAS W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 10
+p13
+aVMichael Finley DAL 05/27/2003 DAL @ SAS W 44 31 9 14 64.3 1 3 33.3 12 12 100.0 1 7 8 3 5 2 2 3 9
+p14
+aVEduardo Najera DAL 05/27/2003 DAL @ SAS W 33 11 4 8 50.0 0 0 - 3 3 100.0 4 4 8 1 2 0 0 4 26
+p15
+aVRaja Bell DAL 05/27/2003 DAL @ SAS W 14 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 1 0 0 1 2 3
+p16
+aVSteve Nash DAL 05/27/2003 DAL @ SAS W 35 14 5 11 45.5 1 3 33.3 3 3 100.0 1 3 4 6 0 0 2 3 2
+p17
+aVAdrian Griffin DAL 05/27/2003 DAL @ SAS W 6 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 -6
+p18
+aVWalt Williams DAL 05/27/2003 DAL @ SAS W 32 12 5 13 38.5 2 4 50.0 0 0 - 1 7 8 1 0 0 2 1 -1
+p19
+aVRaef LaFrentz DAL 05/25/2003 DAL vs. SAS L 31 7 3 8 37.5 1 4 25.0 0 0 - 1 5 6 0 0 4 0 6 2
+p20
+aVWalt Williams DAL 05/25/2003 DAL vs. SAS L 31 7 2 9 22.2 1 7 14.3 2 2 100.0 2 6 8 3 2 3 3 4 -2
+p21
+aVMichael Finley DAL 05/25/2003 DAL vs. SAS L 47 25 10 19 52.6 4 9 44.4 1 1 100.0 2 4 6 2 0 0 1 2 -7
+p22
+aVRaja Bell DAL 05/25/2003 DAL vs. SAS L 13 5 2 3 66.7 0 0 - 1 3 33.3 2 3 5 1 0 0 0 4 -10
+p23
+aVAdrian Griffin DAL 05/25/2003 DAL vs. SAS L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 1 0 0 0 -6
+p24
+aVSteve Nash DAL 05/25/2003 DAL vs. SAS L 41 25 9 19 47.4 5 7 71.4 2 3 66.7 1 1 2 2 0 0 3 2 5
+p25
+aVEduardo Najera DAL 05/25/2003 DAL vs. SAS L 25 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 2 1 0 2 1 -2
+p26
+aVNick Van Exel DAL 05/25/2003 DAL vs. SAS L 42 22 10 22 45.5 1 4 25.0 1 2 50.0 4 4 8 3 1 0 4 3 -15
+p27
+aVNick Van Exel DAL 05/23/2003 DAL vs. SAS L 34 16 6 15 40.0 3 6 50.0 1 2 50.0 0 3 3 3 0 0 2 2 -14
+p28
+aVMichael Finley DAL 05/23/2003 DAL vs. SAS L 43 11 4 11 36.4 1 3 33.3 2 2 100.0 1 3 4 6 2 0 1 3 -18
+p29
+aVRaja Bell DAL 05/23/2003 DAL vs. SAS L 27 14 6 10 60.0 1 2 50.0 1 2 50.0 1 1 2 2 0 0 1 0 -7
+p30
+aVDirk Nowitzki DAL 05/23/2003 DAL vs. SAS L 40 15 7 20 35.0 1 4 25.0 0 0 - 0 9 9 2 1 1 3 2 -15
+p31
+aVRaef LaFrentz DAL 05/23/2003 DAL vs. SAS L 30 10 5 12 41.7 0 1 0.0 0 0 - 1 2 3 0 3 5 1 5 -18
+p32
+aVAdrian Griffin DAL 05/23/2003 DAL vs. SAS L 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p33
+aVWalt Williams DAL 05/23/2003 DAL vs. SAS L 5 5 2 2 100.0 1 1 100.0 0 0 - 1 3 4 0 0 0 0 3 -3
+p34
+aVTariq Abdul-Wahad DAL 05/23/2003 DAL vs. SAS L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 7
+p35
+aVEduardo Najera DAL 05/23/2003 DAL vs. SAS L 16 0 0 5 0.0 0 0 - 0 0 - 0 3 3 1 0 1 0 3 10
+p36
+aVShawn Bradley DAL 05/23/2003 DAL vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 0
+p37
+aVSteve Nash DAL 05/23/2003 DAL vs. SAS L 37 10 4 9 44.4 2 2 100.0 0 0 - 1 3 4 9 2 1 4 3 -14
+p38
+aVRaef LaFrentz DAL 05/21/2003 DAL @ SAS L 28 15 5 8 62.5 1 3 33.3 4 5 80.0 0 1 1 0 1 2 0 5 -13
+p39
+aVSteve Nash DAL 05/21/2003 DAL @ SAS L 38 12 4 11 36.4 2 3 66.7 2 3 66.7 0 4 4 8 2 0 3 4 -10
+p40
+aVShawn Bradley DAL 05/21/2003 DAL @ SAS L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -7
+p41
+aVAdrian Griffin DAL 05/21/2003 DAL @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 6
+p42
+aVNick Van Exel DAL 05/21/2003 DAL @ SAS L 34 13 5 16 31.3 2 6 33.3 1 1 100.0 0 3 3 3 1 0 2 2 -23
+p43
+aVWalt Williams DAL 05/21/2003 DAL @ SAS L 23 8 2 6 33.3 1 4 25.0 3 3 100.0 1 2 3 2 0 0 1 4 -7
+p44
+aVDirk Nowitzki DAL 05/21/2003 DAL @ SAS L 39 23 8 19 42.1 2 6 33.3 5 5 100.0 0 10 10 2 2 0 2 4 3
+p45
+aVRaja Bell DAL 05/21/2003 DAL @ SAS L 22 6 3 8 37.5 0 1 0.0 0 0 - 3 4 7 3 0 0 0 3 1
+p46
+aVMichael Finley DAL 05/21/2003 DAL @ SAS L 47 29 10 20 50.0 4 7 57.1 5 5 100.0 3 7 10 3 3 0 1 4 -15
+p47
+aVEduardo Najera DAL 05/19/2003 DAL @ SAS W 14 9 1 2 50.0 0 0 - 7 8 87.5 1 1 2 1 1 0 0 6 5
+p48
+aVAdrian Griffin DAL 05/19/2003 DAL @ SAS W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -6
+p49
+aVShawn Bradley DAL 05/19/2003 DAL @ SAS W 17 0 0 1 0.0 0 0 - 0 0 - 3 5 8 0 0 2 1 6 -13
+p50
+aVRaja Bell DAL 05/19/2003 DAL @ SAS W 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -5
+p51
+aVMichael Finley DAL 05/19/2003 DAL @ SAS W 47 26 7 14 50.0 2 5 40.0 10 10 100.0 0 4 4 2 1 0 2 1 5
+p52
+aVWalt Williams DAL 05/19/2003 DAL @ SAS W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 1 1 2 7
+p53
+aVNick Van Exel DAL 05/19/2003 DAL @ SAS W 41 14 3 12 25.0 1 3 33.3 7 7 100.0 1 4 5 1 0 0 3 4 7
+p54
+aVRaef LaFrentz DAL 05/19/2003 DAL @ SAS W 12 2 1 5 20.0 0 0 - 0 0 - 3 0 3 0 0 1 1 3 0
+p55
+aVSteve Nash DAL 05/19/2003 DAL @ SAS W 43 22 7 15 46.7 2 4 50.0 6 6 100.0 0 5 5 3 1 0 2 3 5
+p56
+aVDirk Nowitzki DAL 05/19/2003 DAL @ SAS W 44 38 10 19 52.6 1 4 25.0 17 17 100.0 1 14 15 2 1 1 4 4 10
+p57
+aVRaef LaFrentz DAL 05/17/2003 DAL vs. SAC W 15 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 0 0 2 0 4 4
+p58
+aVDirk Nowitzki DAL 05/17/2003 DAL vs. SAC W 45 30 12 20 60.0 3 4 75.0 3 4 75.0 1 18 19 2 1 1 0 4 7
+p59
+aVMichael Finley DAL 05/17/2003 DAL vs. SAC W 46 18 7 16 43.8 2 4 50.0 2 3 66.7 0 3 3 3 3 1 2 2 7
+p60
+aVSteve Nash DAL 05/17/2003 DAL vs. SAC W 39 18 7 15 46.7 1 3 33.3 3 3 100.0 1 6 7 13 0 0 3 1 6
+p61
+aVNick Van Exel DAL 05/17/2003 DAL vs. SAC W 35 23 8 18 44.4 4 7 57.1 3 6 50.0 2 3 5 4 1 0 1 2 4
+p62
+aVWalt Williams DAL 05/17/2003 DAL vs. SAC W 5 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 7
+p63
+aVRaja Bell DAL 05/17/2003 DAL vs. SAC W 33 12 6 9 66.7 0 0 - 0 0 - 1 1 2 2 0 0 0 3 26
+p64
+aVEduardo Najera DAL 05/17/2003 DAL vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 0
+p65
+aVShawn Bradley DAL 05/17/2003 DAL vs. SAC W 18 4 2 5 40.0 0 0 - 0 0 - 2 5 7 2 1 1 1 3 4
+p66
+aVSteve Nash DAL 05/15/2003 DAL @ SAC L 38 15 6 12 50.0 2 3 66.7 1 2 50.0 1 2 3 4 1 0 5 1 -11
+p67
+aVRaja Bell DAL 05/15/2003 DAL @ SAC L 23 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 4 13
+p68
+aVNick Van Exel DAL 05/15/2003 DAL @ SAC L 37 35 15 23 65.2 5 11 45.5 0 0 - 1 1 2 3 0 0 3 4 -12
+p69
+aVMichael Finley DAL 05/15/2003 DAL @ SAC L 47 21 7 15 46.7 2 6 33.3 5 6 83.3 1 6 7 4 0 1 1 3 -10
+p70
+aVDirk Nowitzki DAL 05/15/2003 DAL @ SAC L 47 21 5 14 35.7 0 3 0.0 11 12 91.7 0 12 12 3 3 0 3 3 -6
+p71
+aVRaef LaFrentz DAL 05/15/2003 DAL @ SAC L 27 15 6 12 50.0 1 2 50.0 2 2 100.0 0 4 4 1 0 6 1 5 -6
+p72
+aVWalt Williams DAL 05/15/2003 DAL @ SAC L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 2 0 2 9
+p73
+aVShawn Bradley DAL 05/15/2003 DAL @ SAC L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 0
+p74
+aVEduardo Najera DAL 05/15/2003 DAL @ SAC L 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -7
+p75
+aVNick Van Exel DAL 05/13/2003 DAL vs. SAC W 34 18 7 17 41.2 2 6 33.3 2 4 50.0 1 5 6 3 1 0 2 4 15
+p76
+aVEvan Eschmeyer DAL 05/13/2003 DAL vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p77
+aVRaef LaFrentz DAL 05/13/2003 DAL vs. SAC W 18 14 6 9 66.7 0 2 0.0 2 2 100.0 3 0 3 0 0 5 2 4 2
+p78
+aVShawn Bradley DAL 05/13/2003 DAL vs. SAC W 12 2 0 1 0.0 0 0 - 2 2 100.0 0 5 5 0 1 0 1 4 7
+p79
+aVSteve Nash DAL 05/13/2003 DAL vs. SAC W 39 25 5 12 41.7 0 1 0.0 15 16 93.8 3 4 7 4 0 0 1 2 19
+p80
+aVDirk Nowitzki DAL 05/13/2003 DAL vs. SAC W 45 16 5 15 33.3 1 6 16.7 5 6 83.3 0 15 15 9 0 3 3 3 16
+p81
+aVRaja Bell DAL 05/13/2003 DAL vs. SAC W 27 13 6 7 85.7 1 2 50.0 0 1 0.0 2 3 5 0 2 0 0 2 4
+p82
+aVMichael Finley DAL 05/13/2003 DAL vs. SAC W 44 16 6 16 37.5 3 6 50.0 1 2 50.0 0 9 9 6 3 3 2 2 25
+p83
+aVWalt Williams DAL 05/13/2003 DAL vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p84
+aVEduardo Najera DAL 05/13/2003 DAL vs. SAC W 17 8 3 9 33.3 0 0 - 2 3 66.7 6 2 8 1 1 0 0 3 2
+p85
+aVRaef LaFrentz DAL 05/11/2003 DAL @ SAC L 23 8 4 8 50.0 0 3 0.0 0 0 - 2 8 10 0 0 0 1 3 -9
+p86
+aVMichael Finley DAL 05/11/2003 DAL @ SAC L 39 16 7 18 38.9 1 5 20.0 1 2 50.0 2 5 7 4 1 0 3 4 -20
+p87
+aVTariq Abdul-Wahad DAL 05/11/2003 DAL @ SAC L 10 0 0 4 0.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 2
+p88
+aVNick Van Exel DAL 05/11/2003 DAL @ SAC L 29 5 2 11 18.2 1 4 25.0 0 2 0.0 0 2 2 3 0 0 2 2 -13
+p89
+aVDirk Nowitzki DAL 05/11/2003 DAL @ SAC L 36 11 4 14 28.6 0 1 0.0 3 5 60.0 1 10 11 1 0 1 3 2 -14
+p90
+aVShawn Bradley DAL 05/11/2003 DAL @ SAC L 9 7 3 4 75.0 0 1 0.0 1 2 50.0 1 2 3 1 0 1 1 0 1
+p91
+aVWalt Williams DAL 05/11/2003 DAL @ SAC L 14 5 2 7 28.6 1 3 33.3 0 0 - 1 1 2 0 0 1 1 2 -4
+p92
+aVSteve Nash DAL 05/11/2003 DAL @ SAC L 33 6 3 12 25.0 0 3 0.0 0 0 - 0 0 0 6 2 0 3 2 -13
+p93
+aVRaja Bell DAL 05/11/2003 DAL @ SAC L 27 16 7 11 63.6 0 0 - 2 2 100.0 2 4 6 1 0 0 0 5 -3
+p94
+aVEduardo Najera DAL 05/11/2003 DAL @ SAC L 18 9 4 6 66.7 0 0 - 1 2 50.0 5 2 7 0 0 0 2 1 -9
+p95
+aVEvan Eschmeyer DAL 05/11/2003 DAL @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p96
+aVNick Van Exel DAL 05/10/2003 DAL @ SAC W 48 40 14 26 53.8 6 12 50.0 6 7 85.7 1 6 7 7 1 0 1 4 7
+p97
+aVShawn Bradley DAL 05/10/2003 DAL @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p98
+aVEduardo Najera DAL 05/10/2003 DAL @ SAC W 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 2 3 -5
+p99
+aVDirk Nowitzki DAL 05/10/2003 DAL @ SAC W 58 25 9 21 42.9 1 3 33.3 6 6 100.0 2 18 20 2 1 1 2 5 4
+p100
+aVAdrian Griffin DAL 05/10/2003 DAL @ SAC W 12 6 3 4 75.0 0 0 - 0 0 - 2 2 4 2 1 0 1 1 0
+p101
+aVSteve Nash DAL 05/10/2003 DAL @ SAC W 51 31 12 20 60.0 5 10 50.0 2 2 100.0 3 2 5 11 1 0 1 5 9
+p102
+aVWalt Williams DAL 05/10/2003 DAL @ SAC W 16 10 4 8 50.0 2 5 40.0 0 0 - 0 0 0 2 1 0 0 1 13
+p103
+aVRaef LaFrentz DAL 05/10/2003 DAL @ SAC W 22 8 4 11 36.4 0 1 0.0 0 1 0.0 2 1 3 0 0 1 1 6 2
+p104
+aVMichael Finley DAL 05/10/2003 DAL @ SAC W 56 20 7 18 38.9 5 10 50.0 1 2 50.0 1 3 4 3 1 0 1 3 1
+p105
+aVRaja Bell DAL 05/10/2003 DAL @ SAC W 15 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 1 3 -12
+p106
+aVMichael Finley DAL 05/08/2003 DAL vs. SAC W 40 24 8 22 36.4 5 12 41.7 3 4 75.0 2 5 7 3 3 0 0 2 34
+p107
+aVNick Van Exel DAL 05/08/2003 DAL vs. SAC W 30 36 14 19 73.7 5 8 62.5 3 6 50.0 1 2 3 6 0 0 1 1 37
+p108
+aVTariq Abdul-Wahad DAL 05/08/2003 DAL vs. SAC W 10 0 0 5 0.0 0 1 0.0 0 0 - 2 1 3 1 0 0 0 2 -14
+p109
+aVAdrian Griffin DAL 05/08/2003 DAL vs. SAC W 19 15 7 12 58.3 1 2 50.0 0 0 - 2 1 3 1 0 0 4 5 -8
+p110
+aVSteve Nash DAL 05/08/2003 DAL vs. SAC W 25 19 8 11 72.7 2 2 100.0 1 2 50.0 1 0 1 7 0 0 1 2 14
+p111
+aVShawn Bradley DAL 05/08/2003 DAL vs. SAC W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -12
+p112
+aVRaef LaFrentz DAL 05/08/2003 DAL vs. SAC W 21 8 4 5 80.0 0 0 - 0 0 - 2 4 6 0 0 2 0 2 28
+p113
+aVEvan Eschmeyer DAL 05/08/2003 DAL vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p114
+aVRaja Bell DAL 05/08/2003 DAL vs. SAC W 28 0 0 1 0.0 0 1 0.0 0 0 - 0 6 6 3 1 0 0 2 13
+p115
+aVDirk Nowitzki DAL 05/08/2003 DAL vs. SAC W 30 24 8 14 57.1 4 4 100.0 4 4 100.0 2 10 12 1 0 2 2 2 23
+p116
+aVWalt Williams DAL 05/08/2003 DAL vs. SAC W 8 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 2 1 -7
+p117
+aVEduardo Najera DAL 05/08/2003 DAL vs. SAC W 19 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 4 6
+p118
+aVNick Van Exel DAL 05/06/2003 DAL vs. SAC L 34 20 9 19 47.4 1 5 20.0 1 1 100.0 1 1 2 5 0 0 2 1 -4
+p119
+aVMichael Finley DAL 05/06/2003 DAL vs. SAC L 37 20 8 17 47.1 3 6 50.0 1 3 33.3 1 4 5 3 0 0 3 1 -22
+p120
+aVAdrian Griffin DAL 05/06/2003 DAL vs. SAC L 15 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 1 0 0 2 -2
+p121
+aVSteve Nash DAL 05/06/2003 DAL vs. SAC L 32 20 8 15 53.3 3 7 42.9 1 1 100.0 1 3 4 7 0 0 3 2 -10
+p122
+aVRaja Bell DAL 05/06/2003 DAL vs. SAC L 12 7 2 5 40.0 1 2 50.0 2 4 50.0 0 4 4 4 1 0 0 2 11
+p123
+aVWalt Williams DAL 05/06/2003 DAL vs. SAC L 14 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 2 0 3 10
+p124
+aVRaef LaFrentz DAL 05/06/2003 DAL vs. SAC L 19 2 1 7 14.3 0 2 0.0 0 0 - 3 1 4 1 1 2 0 3 -7
+p125
+aVEduardo Najera DAL 05/06/2003 DAL vs. SAC L 19 8 4 6 66.7 0 0 - 0 1 0.0 2 1 3 1 0 0 2 3 -15
+p126
+aVDirk Nowitzki DAL 05/06/2003 DAL vs. SAC L 38 18 7 13 53.8 0 1 0.0 4 4 100.0 3 8 11 2 1 1 1 2 -21
+p127
+aVTariq Abdul-Wahad DAL 05/06/2003 DAL vs. SAC L 15 10 3 7 42.9 0 0 - 4 4 100.0 2 1 3 1 0 0 1 1 11
+p128
+aVShawn Bradley DAL 05/06/2003 DAL vs. SAC L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -6
+p129
+aVDirk Nowitzki DAL 05/04/2003 DAL vs. POR W 46 31 12 21 57.1 1 4 25.0 6 6 100.0 1 10 11 1 2 3 1 4 13
+p130
+aVSteve Nash DAL 05/04/2003 DAL vs. POR W 46 21 9 19 47.4 1 5 20.0 2 2 100.0 1 5 6 7 1 0 1 1 14
+p131
+aVNick Van Exel DAL 05/04/2003 DAL vs. POR W 31 26 10 15 66.7 3 5 60.0 3 4 75.0 1 2 3 3 1 0 2 2 16
+p132
+aVEduardo Najera DAL 05/04/2003 DAL vs. POR W 31 7 0 5 0.0 0 0 - 7 8 87.5 1 6 7 2 2 1 2 3 -2
+p133
+aVShawn Bradley DAL 05/04/2003 DAL vs. POR W 23 4 1 3 33.3 0 0 - 2 2 100.0 3 0 3 0 0 2 2 5 8
+p134
+aVRaja Bell DAL 05/04/2003 DAL vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p135
+aVAdrian Griffin DAL 05/04/2003 DAL vs. POR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p136
+aVMichael Finley DAL 05/04/2003 DAL vs. POR W 44 14 4 14 28.6 2 6 33.3 4 4 100.0 2 6 8 1 1 1 2 4 17
+p137
+aVRaef LaFrentz DAL 05/04/2003 DAL vs. POR W 15 4 2 5 40.0 0 0 - 0 0 - 4 0 4 0 0 2 1 5 -1
+p138
+aVAdrian Griffin DAL 05/02/2003 DAL @ POR L 20 4 2 7 28.6 0 0 - 0 0 - 4 4 8 1 0 0 2 3 5
+p139
+aVNick Van Exel DAL 05/02/2003 DAL @ POR L 17 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 3 0 0 2 1 -27
+p140
+aVTariq Abdul-Wahad DAL 05/02/2003 DAL @ POR L 17 9 4 8 50.0 0 1 0.0 1 2 50.0 2 4 6 4 0 0 0 0 9
+p141
+aVSteve Nash DAL 05/02/2003 DAL @ POR L 24 21 6 14 42.9 3 5 60.0 6 6 100.0 0 1 1 6 3 0 3 2 -15
+p142
+aVRaja Bell DAL 05/02/2003 DAL @ POR L 15 11 4 5 80.0 2 2 100.0 1 2 50.0 1 1 2 3 0 0 1 3 7
+p143
+aVShawn Bradley DAL 05/02/2003 DAL @ POR L 15 5 2 6 33.3 0 0 - 1 2 50.0 0 0 0 1 1 0 1 0 -11
+p144
+aVEduardo Najera DAL 05/02/2003 DAL @ POR L 22 8 3 6 50.0 0 0 - 2 4 50.0 2 0 2 1 0 0 1 1 -25
+p145
+aVMichael Finley DAL 05/02/2003 DAL @ POR L 33 20 7 16 43.8 3 5 60.0 3 3 100.0 3 2 5 1 1 1 0 2 -27
+p146
+aVWalt Williams DAL 05/02/2003 DAL @ POR L 12 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 4 0 0 0 0 9
+p147
+aVEvan Eschmeyer DAL 05/02/2003 DAL @ POR L 12 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 1 0 0 4 9
+p148
+aVDirk Nowitzki DAL 05/02/2003 DAL @ POR L 28 4 2 11 18.2 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 -27
+p149
+aVRaef LaFrentz DAL 05/02/2003 DAL @ POR L 25 4 2 7 28.6 0 1 0.0 0 0 - 2 0 2 0 0 1 0 4 -17
+p150
+aVShawn Bradley DAL 04/30/2003 DAL vs. POR L 31 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 1 1 3 -3
+p151
+aVDirk Nowitzki DAL 04/30/2003 DAL vs. POR L 48 35 12 20 60.0 0 0 - 11 12 91.7 1 10 11 0 2 0 4 3 -4
+p152
+aVNick Van Exel DAL 04/30/2003 DAL vs. POR L 33 25 9 18 50.0 2 5 40.0 5 6 83.3 0 0 0 5 1 0 2 3 -5
+p153
+aVEduardo Najera DAL 04/30/2003 DAL vs. POR L 30 8 3 5 60.0 0 0 - 2 3 66.7 4 1 5 1 0 0 0 4 -7
+p154
+aVMichael Finley DAL 04/30/2003 DAL vs. POR L 33 15 6 11 54.5 1 3 33.3 2 2 100.0 2 1 3 0 0 0 0 2 0
+p155
+aVSteve Nash DAL 04/30/2003 DAL vs. POR L 32 7 2 11 18.2 0 1 0.0 3 4 75.0 0 4 4 11 1 0 3 5 -4
+p156
+aVRaef LaFrentz DAL 04/30/2003 DAL vs. POR L 33 3 1 3 33.3 0 2 0.0 1 2 50.0 3 1 4 1 2 1 1 4 3
+p157
+aVRaef LaFrentz DAL 04/27/2003 DAL @ POR L 21 4 2 7 28.6 0 2 0.0 0 0 - 1 3 4 0 0 2 0 4 -3
+p158
+aVMichael Finley DAL 04/27/2003 DAL @ POR L 28 7 3 12 25.0 1 5 20.0 0 0 - 1 4 5 3 0 0 2 0 -18
+p159
+aVEduardo Najera DAL 04/27/2003 DAL @ POR L 24 7 2 3 66.7 0 0 - 3 4 75.0 0 0 0 1 0 1 2 4 -24
+p160
+aVShawn Bradley DAL 04/27/2003 DAL @ POR L 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 2 0 5 -6
+p161
+aVNick Van Exel DAL 04/27/2003 DAL @ POR L 27 18 7 16 43.8 2 5 40.0 2 2 100.0 1 2 3 7 1 0 1 1 -10
+p162
+aVSteve Nash DAL 04/27/2003 DAL @ POR L 21 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 3 2 0 4 1 -25
+p163
+aVTariq Abdul-Wahad DAL 04/27/2003 DAL @ POR L 11 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 3
+p164
+aVWalt Williams DAL 04/27/2003 DAL @ POR L 12 3 1 3 33.3 1 3 33.3 0 0 - 3 4 7 1 1 0 2 1 2
+p165
+aVRaja Bell DAL 04/27/2003 DAL @ POR L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 3 5
+p166
+aVEvan Eschmeyer DAL 04/27/2003 DAL @ POR L 15 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 1 0 4 2
+p167
+aVDirk Nowitzki DAL 04/27/2003 DAL @ POR L 36 26 10 20 50.0 1 3 33.3 5 5 100.0 1 10 11 1 1 0 3 3 -21
+p168
+aVAdrian Griffin DAL 04/27/2003 DAL @ POR L 12 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 0 0 2 0
+p169
+aVShawn Bradley DAL 04/25/2003 DAL @ POR W 24 4 2 4 50.0 0 0 - 0 0 - 5 4 9 0 0 0 0 5 9
+p170
+aVMichael Finley DAL 04/25/2003 DAL @ POR W 29 10 4 12 33.3 2 5 40.0 0 0 - 0 0 0 6 2 0 1 2 7
+p171
+aVNick Van Exel DAL 04/25/2003 DAL @ POR W 32 14 7 18 38.9 0 5 0.0 0 0 - 0 4 4 7 1 0 0 3 0
+p172
+aVAdrian Griffin DAL 04/25/2003 DAL @ POR W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 -4
+p173
+aVSteve Nash DAL 04/25/2003 DAL @ POR W 39 12 4 12 33.3 2 6 33.3 2 2 100.0 0 2 2 10 0 0 3 3 19
+p174
+aVEduardo Najera DAL 04/25/2003 DAL @ POR W 20 11 3 5 60.0 0 0 - 5 6 83.3 4 1 5 1 0 0 0 3 3
+p175
+aVDirk Nowitzki DAL 04/25/2003 DAL @ POR W 47 42 15 20 75.0 5 6 83.3 7 9 77.8 1 9 10 3 2 1 2 4 14
+p176
+aVRaef LaFrentz DAL 04/25/2003 DAL @ POR W 44 20 7 11 63.6 4 7 57.1 2 2 100.0 0 4 4 0 2 1 0 4 12
+p177
+aVRaef LaFrentz DAL 04/23/2003 DAL vs. POR W 20 6 2 4 50.0 0 1 0.0 2 2 100.0 1 2 3 0 1 0 3 6 6
+p178
+aVAdrian Griffin DAL 04/23/2003 DAL vs. POR W 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 2
+p179
+aVEduardo Najera DAL 04/23/2003 DAL vs. POR W 35 12 5 6 83.3 0 0 - 2 2 100.0 4 2 6 1 3 0 0 3 6
+p180
+aVDirk Nowitzki DAL 04/23/2003 DAL vs. POR W 48 25 8 25 32.0 3 6 50.0 6 7 85.7 0 9 9 3 3 0 4 2 4
+p181
+aVSteve Nash DAL 04/23/2003 DAL vs. POR W 41 28 10 14 71.4 5 6 83.3 3 4 75.0 0 2 2 8 0 0 3 3 2
+p182
+aVNick Van Exel DAL 04/23/2003 DAL vs. POR W 31 12 5 11 45.5 2 7 28.6 0 0 - 1 1 2 6 1 0 1 0 8
+p183
+aVMichael Finley DAL 04/23/2003 DAL vs. POR W 34 17 7 12 58.3 2 5 40.0 1 1 100.0 3 4 7 2 0 0 2 3 1
+p184
+aVShawn Bradley DAL 04/23/2003 DAL vs. POR W 24 3 1 5 20.0 0 0 - 1 2 50.0 1 5 6 0 0 0 1 6 -9
+p185
+aVEduardo Najera DAL 04/19/2003 DAL vs. POR W 28 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 1 1 1 2 6
+p186
+aVRaja Bell DAL 04/19/2003 DAL vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p187
+aVSteve Nash DAL 04/19/2003 DAL vs. POR W 35 10 3 11 27.3 1 3 33.3 3 4 75.0 1 3 4 9 1 0 1 1 6
+p188
+aVAdrian Griffin DAL 04/19/2003 DAL vs. POR W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p189
+aVNick Van Exel DAL 04/19/2003 DAL vs. POR W 24 8 3 8 37.5 1 3 33.3 1 2 50.0 1 0 1 4 0 0 2 1 -1
+p190
+aVRaef LaFrentz DAL 04/19/2003 DAL vs. POR W 36 7 2 6 33.3 0 2 0.0 3 3 100.0 2 5 7 1 0 2 1 3 17
+p191
+aVMichael Finley DAL 04/19/2003 DAL vs. POR W 37 13 5 12 41.7 2 5 40.0 1 2 50.0 0 7 7 1 0 0 1 2 11
+p192
+aVDirk Nowitzki DAL 04/19/2003 DAL vs. POR W 47 46 16 27 59.3 4 5 80.0 10 11 90.9 1 9 10 2 1 1 2 2 10
+p193
+aVShawn Bradley DAL 04/19/2003 DAL vs. POR W 26 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 1 0 5 2 4 2
+p194
+a.

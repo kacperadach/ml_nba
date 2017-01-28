@@ -1,0 +1,1674 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMarquis Daniels IND 04/16/2008 IND vs. NYK W 8 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 0 1 2 1 -2
+p2
+aVStephen Graham IND 04/16/2008 IND vs. NYK W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 1
+p3
+aVTroy Murphy IND 04/16/2008 IND vs. NYK W 37 19 6 11 54.5 1 1 100.0 6 6 100.0 2 10 12 7 2 0 1 2 16
+p4
+aVDanny Granger IND 04/16/2008 IND vs. NYK W 39 26 8 15 53.3 4 6 66.7 6 6 100.0 1 5 6 2 0 2 2 4 5
+p5
+aVAndre Owens IND 04/16/2008 IND vs. NYK W 18 12 5 7 71.4 0 1 0.0 2 3 66.7 0 1 1 2 0 0 1 3 11
+p6
+aVShawne Williams IND 04/16/2008 IND vs. NYK W 14 6 2 9 22.2 0 2 0.0 2 2 100.0 0 3 3 2 1 0 1 0 -5
+p7
+aVDavid Harrison IND 04/16/2008 IND vs. NYK W 23 13 3 4 75.0 0 0 - 7 10 70.0 2 1 3 0 0 3 3 3 9
+p8
+aVJermaine O'Neal IND 04/16/2008 IND vs. NYK W 12 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 0 1 2 1 0
+p9
+aVRonald Murray IND 04/16/2008 IND vs. NYK W 30 6 2 7 28.6 0 1 0.0 2 2 100.0 1 1 2 7 0 0 2 1 -2
+p10
+aVMike Dunleavy IND 04/16/2008 IND vs. NYK W 41 36 12 19 63.2 6 8 75.0 6 8 75.0 0 7 7 6 3 1 3 4 13
+p11
+aVIke Diogu IND 04/16/2008 IND vs. NYK W 10 6 2 7 28.6 0 0 - 2 2 100.0 1 2 3 1 0 0 0 0 -1
+p12
+aVDanny Granger IND 04/14/2008 IND @ WAS L 45 35 12 23 52.2 7 11 63.6 4 6 66.7 1 8 9 3 1 0 1 3 -2
+p13
+aVKareem Rush IND 04/14/2008 IND @ WAS L 25 2 1 4 25.0 0 3 0.0 0 0 - 1 3 4 3 1 0 0 1 -2
+p14
+aVDavid Harrison IND 04/14/2008 IND @ WAS L 9 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 0 3 6
+p15
+aVShawne Williams IND 04/14/2008 IND @ WAS L 3 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 0 -5
+p16
+aVMike Dunleavy IND 04/14/2008 IND @ WAS L 44 26 9 17 52.9 2 5 40.0 6 8 75.0 0 2 2 6 2 3 3 3 -4
+p17
+aVJermaine O'Neal IND 04/14/2008 IND @ WAS L 23 7 3 9 33.3 0 0 - 1 2 50.0 0 5 5 0 0 1 1 2 -7
+p18
+aVRonald Murray IND 04/14/2008 IND @ WAS L 25 11 2 7 28.6 0 1 0.0 7 8 87.5 0 1 1 7 1 0 4 1 -8
+p19
+aVTravis Diener IND 04/14/2008 IND @ WAS L 23 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 7 0 0 0 2 1
+p20
+aVTroy Murphy IND 04/14/2008 IND @ WAS L 17 14 5 6 83.3 3 3 100.0 1 3 33.3 2 1 3 2 0 0 1 4 -6
+p21
+aVMarquis Daniels IND 04/14/2008 IND @ WAS L 27 4 1 4 25.0 1 3 33.3 1 2 50.0 0 4 4 1 1 0 1 3 -8
+p22
+aVJeff Foster IND 04/12/2008 IND vs. CHA L 29 10 5 7 71.4 0 0 - 0 0 - 3 6 9 2 0 1 0 3 -6
+p23
+aVJermaine O'Neal IND 04/12/2008 IND vs. CHA L 20 7 2 6 33.3 0 1 0.0 3 4 75.0 0 5 5 0 1 3 2 2 -2
+p24
+aVTravis Diener IND 04/12/2008 IND vs. CHA L 27 10 3 9 33.3 3 7 42.9 1 2 50.0 2 3 5 6 2 0 0 5 1
+p25
+aVDanny Granger IND 04/12/2008 IND vs. CHA L 36 37 12 24 50.0 6 13 46.2 7 8 87.5 1 4 5 2 2 1 1 5 1
+p26
+aVRonald Murray IND 04/12/2008 IND vs. CHA L 21 9 4 9 44.4 0 2 0.0 1 2 50.0 1 2 3 4 0 0 3 2 -5
+p27
+aVMike Dunleavy IND 04/12/2008 IND vs. CHA L 41 22 8 23 34.8 3 10 30.0 3 5 60.0 2 1 3 7 0 0 1 4 -2
+p28
+aVTroy Murphy IND 04/12/2008 IND vs. CHA L 30 0 0 2 0.0 0 2 0.0 0 0 - 1 7 8 0 0 1 1 1 -9
+p29
+aVKareem Rush IND 04/12/2008 IND vs. CHA L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 2
+p30
+aVShawne Williams IND 04/12/2008 IND vs. CHA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p31
+aVMarquis Daniels IND 04/12/2008 IND vs. CHA L 24 6 2 9 22.2 1 3 33.3 1 4 25.0 1 2 3 3 0 0 3 3 -1
+p32
+aVJeff Foster IND 04/11/2008 IND @ PHI W 17 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 1 -1
+p33
+aVMarquis Daniels IND 04/11/2008 IND @ PHI W 35 5 2 10 20.0 0 2 0.0 1 1 100.0 1 7 8 3 0 2 3 2 9
+p34
+aVDanny Granger IND 04/11/2008 IND @ PHI W 44 30 13 25 52.0 3 9 33.3 1 2 50.0 1 11 12 0 1 2 4 4 11
+p35
+aVTravis Diener IND 04/11/2008 IND @ PHI W 28 6 3 8 37.5 0 4 0.0 0 0 - 2 4 6 8 0 0 1 0 7
+p36
+aVRonald Murray IND 04/11/2008 IND @ PHI W 20 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 6 1 0 7 2 2
+p37
+aVJermaine O'Neal IND 04/11/2008 IND @ PHI W 21 4 2 7 28.6 0 0 - 0 0 - 0 7 7 3 0 2 2 2 11
+p38
+aVTroy Murphy IND 04/11/2008 IND @ PHI W 30 9 4 8 50.0 1 3 33.3 0 0 - 0 9 9 3 1 1 0 3 -4
+p39
+aVMike Dunleavy IND 04/11/2008 IND @ PHI W 40 15 6 13 46.2 2 6 33.3 1 2 50.0 0 2 2 1 2 0 3 3 9
+p40
+aVShawne Williams IND 04/11/2008 IND @ PHI W 6 4 2 5 40.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 1
+p41
+aVJeff Foster IND 04/08/2008 IND vs. ATL W 22 10 4 4 100.0 0 0 - 2 2 100.0 2 4 6 1 1 0 1 3 3
+p42
+aVKareem Rush IND 04/08/2008 IND vs. ATL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p43
+aVTravis Diener IND 04/08/2008 IND vs. ATL W 18 2 1 5 20.0 0 4 0.0 0 0 - 0 0 0 4 1 0 2 2 -14
+p44
+aVDanny Granger IND 04/08/2008 IND vs. ATL W 37 16 5 11 45.5 2 3 66.7 4 4 100.0 1 7 8 2 1 2 2 5 9
+p45
+aVShawne Williams IND 04/08/2008 IND vs. ATL W 13 4 2 4 50.0 0 1 0.0 0 0 - 2 2 4 1 0 1 1 2 -6
+p46
+aVMike Dunleavy IND 04/08/2008 IND vs. ATL W 41 28 8 16 50.0 4 6 66.7 8 9 88.9 1 5 6 1 0 0 1 1 19
+p47
+aVRonald Murray IND 04/08/2008 IND vs. ATL W 30 20 7 11 63.6 1 1 100.0 5 8 62.5 0 3 3 10 0 0 3 0 28
+p48
+aVTroy Murphy IND 04/08/2008 IND vs. ATL W 20 7 3 6 50.0 0 2 0.0 1 1 100.0 0 9 9 0 1 1 0 2 16
+p49
+aVJermaine O'Neal IND 04/08/2008 IND vs. ATL W 19 10 4 10 40.0 0 0 - 2 2 100.0 1 3 4 1 0 4 2 4 1
+p50
+aVMarquis Daniels IND 04/08/2008 IND vs. ATL W 36 15 7 13 53.8 1 4 25.0 0 0 - 1 3 4 0 1 1 1 3 28
+p51
+aVMarquis Daniels IND 04/06/2008 IND vs. MIL W 28 5 2 7 28.6 1 3 33.3 0 0 - 1 1 2 4 1 1 2 4 6
+p52
+aVMike Dunleavy IND 04/06/2008 IND vs. MIL W 42 17 4 13 30.8 3 8 37.5 6 6 100.0 0 5 5 7 1 0 0 3 15
+p53
+aVTroy Murphy IND 04/06/2008 IND vs. MIL W 24 13 5 7 71.4 1 2 50.0 2 4 50.0 0 2 2 0 1 0 2 3 -4
+p54
+aVRonald Murray IND 04/06/2008 IND vs. MIL W 24 8 4 15 26.7 0 1 0.0 0 0 - 0 0 0 3 2 0 0 1 -9
+p55
+aVJeff Foster IND 04/06/2008 IND vs. MIL W 32 16 8 11 72.7 0 0 - 0 1 0.0 5 10 15 2 1 1 0 2 11
+p56
+aVShawne Williams IND 04/06/2008 IND vs. MIL W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p57
+aVJermaine O'Neal IND 04/06/2008 IND vs. MIL W 20 1 0 4 0.0 0 0 - 1 4 25.0 5 4 9 2 0 0 2 2 5
+p58
+aVTravis Diener IND 04/06/2008 IND vs. MIL W 24 18 6 11 54.5 6 8 75.0 0 0 - 1 4 5 5 1 0 0 0 17
+p59
+aVDanny Granger IND 04/06/2008 IND vs. MIL W 40 27 9 21 42.9 1 8 12.5 8 10 80.0 1 6 7 2 3 2 2 4 7
+p60
+aVRonald Murray IND 04/04/2008 IND @ MIL W 22 6 1 4 25.0 0 1 0.0 4 6 66.7 0 2 2 4 0 0 3 2 4
+p61
+aVMarquis Daniels IND 04/04/2008 IND @ MIL W 20 11 3 7 42.9 1 2 50.0 4 4 100.0 2 1 3 1 0 0 2 3 -5
+p62
+aVDanny Granger IND 04/04/2008 IND @ MIL W 38 13 5 8 62.5 1 1 100.0 2 2 100.0 0 2 2 2 1 0 0 3 5
+p63
+aVJermaine O'Neal IND 04/04/2008 IND @ MIL W 19 11 5 7 71.4 0 0 - 1 1 100.0 0 3 3 0 1 0 6 2 4
+p64
+aVTroy Murphy IND 04/04/2008 IND @ MIL W 37 17 6 15 40.0 0 4 0.0 5 5 100.0 0 3 3 6 0 0 2 2 5
+p65
+aVJeff Foster IND 04/04/2008 IND @ MIL W 33 9 3 7 42.9 0 0 - 3 4 75.0 2 14 16 1 0 3 1 6 4
+p66
+aVTravis Diener IND 04/04/2008 IND @ MIL W 26 11 3 7 42.9 2 5 40.0 3 3 100.0 1 1 2 5 2 0 2 4 0
+p67
+aVMike Dunleavy IND 04/04/2008 IND @ MIL W 45 27 8 17 47.1 4 6 66.7 7 10 70.0 1 10 11 4 3 0 5 4 3
+p68
+aVDanny Granger IND 04/02/2008 IND @ BOS L 37 14 4 15 26.7 2 7 28.6 4 7 57.1 1 6 7 1 3 0 3 4 -13
+p69
+aVRonald Murray IND 04/02/2008 IND @ BOS L 23 8 3 12 25.0 1 2 50.0 1 2 50.0 1 0 1 3 0 1 0 2 -9
+p70
+aVTravis Diener IND 04/02/2008 IND @ BOS L 25 4 1 6 16.7 0 5 0.0 2 2 100.0 0 2 2 4 1 0 0 3 -6
+p71
+aVTroy Murphy IND 04/02/2008 IND @ BOS L 32 11 4 7 57.1 2 3 66.7 1 3 33.3 3 7 10 0 1 0 2 2 -18
+p72
+aVKareem Rush IND 04/02/2008 IND @ BOS L 26 3 1 6 16.7 0 4 0.0 1 2 50.0 0 3 3 2 0 0 1 1 -2
+p73
+aVMike Dunleavy IND 04/02/2008 IND @ BOS L 29 12 4 10 40.0 0 5 0.0 4 5 80.0 0 2 2 1 1 1 8 0 -17
+p74
+aVJermaine O'Neal IND 04/02/2008 IND @ BOS L 20 12 3 6 50.0 0 0 - 6 8 75.0 0 3 3 0 0 1 3 3 -4
+p75
+aVStephen Graham IND 04/02/2008 IND @ BOS L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 2
+p76
+aVJeff Foster IND 04/02/2008 IND @ BOS L 24 4 2 3 66.7 0 0 - 0 2 0.0 7 1 8 1 4 0 1 1 -14
+p77
+aVIke Diogu IND 04/02/2008 IND @ BOS L 3 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 1 0 0 0 6
+p78
+aVShawne Williams IND 04/02/2008 IND @ BOS L 16 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 0 0 0 1 4 0
+p79
+aVRonald Murray IND 03/31/2008 IND vs. MIA W 24 10 4 7 57.1 0 0 - 2 2 100.0 2 0 2 1 1 0 2 0 1
+p80
+aVKareem Rush IND 03/31/2008 IND vs. MIA W 19 4 1 5 20.0 0 3 0.0 2 2 100.0 0 1 1 1 3 0 3 1 14
+p81
+aVIke Diogu IND 03/31/2008 IND vs. MIA W 6 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 2
+p82
+aVStephen Graham IND 03/31/2008 IND vs. MIA W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p83
+aVTravis Diener IND 03/31/2008 IND vs. MIA W 24 10 4 6 66.7 2 3 66.7 0 0 - 1 1 2 2 3 0 0 2 19
+p84
+aVJermaine O'Neal IND 03/31/2008 IND vs. MIA W 18 9 3 4 75.0 0 0 - 3 4 75.0 0 2 2 2 0 1 2 3 16
+p85
+aVTroy Murphy IND 03/31/2008 IND vs. MIA W 22 7 2 9 22.2 1 3 33.3 2 2 100.0 1 3 4 1 2 0 1 5 -2
+p86
+aVDanny Granger IND 03/31/2008 IND vs. MIA W 33 23 7 17 41.2 4 7 57.1 5 5 100.0 2 5 7 4 0 1 1 3 9
+p87
+aVShawne Williams IND 03/31/2008 IND vs. MIA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 4
+p88
+aVJeff Foster IND 03/31/2008 IND vs. MIA W 26 6 3 6 50.0 0 0 - 0 0 - 4 7 11 2 0 1 1 4 3
+p89
+aVMike Dunleavy IND 03/31/2008 IND vs. MIA W 35 18 5 16 31.3 2 6 33.3 6 6 100.0 0 6 6 4 0 0 0 0 10
+p90
+aVMarquis Daniels IND 03/31/2008 IND vs. MIA W 27 13 5 7 71.4 1 1 100.0 2 2 100.0 4 2 6 2 3 0 4 3 21
+p91
+aVTravis Diener IND 03/28/2008 IND vs. NJN W 26 9 2 5 40.0 1 3 33.3 4 4 100.0 0 2 2 5 0 0 1 0 10
+p92
+aVMarquis Daniels IND 03/28/2008 IND vs. NJN W 25 14 5 12 41.7 1 5 20.0 3 4 75.0 1 3 4 1 3 0 0 2 6
+p93
+aVRonald Murray IND 03/28/2008 IND vs. NJN W 22 12 5 11 45.5 0 0 - 2 4 50.0 0 2 2 1 0 0 2 2 -2
+p94
+aVJeff Foster IND 03/28/2008 IND vs. NJN W 12 5 1 2 50.0 0 0 - 3 3 100.0 1 2 3 0 0 0 0 5 -5
+p95
+aVDanny Granger IND 03/28/2008 IND vs. NJN W 36 26 9 20 45.0 1 3 33.3 7 7 100.0 0 7 7 6 0 2 0 6 1
+p96
+aVMike Dunleavy IND 03/28/2008 IND vs. NJN W 41 19 6 13 46.2 5 6 83.3 2 4 50.0 0 3 3 2 1 1 3 3 6
+p97
+aVKareem Rush IND 03/28/2008 IND vs. NJN W 26 11 3 8 37.5 2 3 66.7 3 4 75.0 0 2 2 5 0 1 1 2 -1
+p98
+aVTroy Murphy IND 03/28/2008 IND vs. NJN W 28 21 7 10 70.0 4 5 80.0 3 4 75.0 3 14 17 0 1 2 2 3 9
+p99
+aVDavid Harrison IND 03/28/2008 IND vs. NJN W 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p100
+aVShawne Williams IND 03/28/2008 IND vs. NJN W 16 4 2 6 33.3 0 0 - 0 0 - 1 3 4 3 0 0 0 2 12
+p101
+aVJeff Foster IND 03/26/2008 IND @ NJN L 17 0 0 0 - 0 0 - 0 0 - 2 7 9 1 0 0 0 5 4
+p102
+aVKareem Rush IND 03/26/2008 IND @ NJN L 28 7 3 10 30.0 1 5 20.0 0 0 - 0 4 4 2 2 0 0 0 9
+p103
+aVDanny Granger IND 03/26/2008 IND @ NJN L 30 19 7 16 43.8 2 6 33.3 3 3 100.0 1 4 5 2 1 2 2 6 -4
+p104
+aVTravis Diener IND 03/26/2008 IND @ NJN L 27 7 2 6 33.3 1 3 33.3 2 2 100.0 0 1 1 8 0 0 0 1 9
+p105
+aVMike Dunleavy IND 03/26/2008 IND @ NJN L 44 33 9 16 56.3 5 9 55.6 10 10 100.0 0 6 6 7 1 1 0 4 1
+p106
+aVRonald Murray IND 03/26/2008 IND @ NJN L 19 14 6 9 66.7 2 2 100.0 0 0 - 0 1 1 3 0 0 0 0 -19
+p107
+aVIke Diogu IND 03/26/2008 IND @ NJN L 23 16 6 8 75.0 0 0 - 4 4 100.0 5 2 7 2 0 0 2 3 3
+p108
+aVShawne Williams IND 03/26/2008 IND @ NJN L 24 9 4 12 33.3 1 2 50.0 0 0 - 1 2 3 1 0 0 2 3 -25
+p109
+aVDavid Harrison IND 03/26/2008 IND @ NJN L 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -14
+p110
+aVMarquis Daniels IND 03/26/2008 IND @ NJN L 20 12 4 9 44.4 2 3 66.7 2 4 50.0 1 2 3 4 1 1 0 1 1
+p111
+aVMarquis Daniels IND 03/25/2008 IND vs. NOH L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 1 14
+p112
+aVRonald Murray IND 03/25/2008 IND vs. NOH L 20 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 3 1 0 5 2 -13
+p113
+aVJeff Foster IND 03/25/2008 IND vs. NOH L 17 4 2 7 28.6 0 0 - 0 0 - 7 4 11 0 0 0 0 4 4
+p114
+aVMike Dunleavy IND 03/25/2008 IND vs. NOH L 39 17 7 12 58.3 0 2 0.0 3 4 75.0 1 3 4 1 1 0 4 0 -12
+p115
+aVDavid Harrison IND 03/25/2008 IND vs. NOH L 23 12 6 9 66.7 0 0 - 0 2 0.0 1 1 2 0 1 1 1 6 -10
+p116
+aVShawne Williams IND 03/25/2008 IND vs. NOH L 24 17 6 11 54.5 1 4 25.0 4 5 80.0 0 4 4 1 0 1 1 3 -5
+p117
+aVTravis Diener IND 03/25/2008 IND vs. NOH L 28 10 4 5 80.0 2 3 66.7 0 0 - 0 1 1 8 2 0 0 2 5
+p118
+aVTroy Murphy IND 03/25/2008 IND vs. NOH L 33 11 4 10 40.0 2 6 33.3 1 1 100.0 0 8 8 1 0 0 1 2 -21
+p119
+aVDanny Granger IND 03/25/2008 IND vs. NOH L 43 26 8 23 34.8 3 7 42.9 7 9 77.8 1 8 9 5 2 2 2 5 -2
+p120
+aVMarquis Daniels IND 03/22/2008 IND @ CHI W 17 7 3 9 33.3 1 2 50.0 0 1 0.0 2 0 2 1 2 0 3 2 -6
+p121
+aVRonald Murray IND 03/22/2008 IND @ CHI W 31 7 3 14 21.4 1 2 50.0 0 0 - 1 4 5 5 3 0 2 2 -2
+p122
+aVTroy Murphy IND 03/22/2008 IND @ CHI W 39 24 7 12 58.3 5 8 62.5 5 6 83.3 0 8 8 2 1 0 2 3 17
+p123
+aVDanny Granger IND 03/22/2008 IND @ CHI W 41 18 7 20 35.0 1 6 16.7 3 4 75.0 3 7 10 2 2 2 2 3 4
+p124
+aVDavid Harrison IND 03/22/2008 IND @ CHI W 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 1 1 3 -8
+p125
+aVKareem Rush IND 03/22/2008 IND @ CHI W 9 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 1 -10
+p126
+aVTravis Diener IND 03/22/2008 IND @ CHI W 18 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 1 0 0 0 1 9
+p127
+aVShawne Williams IND 03/22/2008 IND @ CHI W 12 10 3 5 60.0 1 2 50.0 3 4 75.0 0 3 3 1 1 1 0 0 13
+p128
+aVMike Dunleavy IND 03/22/2008 IND @ CHI W 39 25 8 13 61.5 3 3 100.0 6 6 100.0 1 3 4 4 1 1 3 5 20
+p129
+aVJeff Foster IND 03/22/2008 IND @ CHI W 22 4 2 3 66.7 0 0 - 0 2 0.0 4 1 5 1 1 0 0 2 -2
+p130
+aVTravis Diener IND 03/21/2008 IND vs. MIN W 27 9 4 7 57.1 1 4 25.0 0 0 - 1 2 3 7 1 0 1 3 18
+p131
+aVDavid Harrison IND 03/21/2008 IND vs. MIN W 27 10 3 8 37.5 0 0 - 4 6 66.7 1 4 5 0 2 3 0 4 9
+p132
+aVMarquis Daniels IND 03/21/2008 IND vs. MIN W 15 6 2 5 40.0 0 2 0.0 2 4 50.0 1 2 3 1 1 0 1 0 11
+p133
+aVTroy Murphy IND 03/21/2008 IND vs. MIN W 40 22 6 16 37.5 3 6 50.0 7 7 100.0 2 13 15 2 2 0 3 1 15
+p134
+aVRonald Murray IND 03/21/2008 IND vs. MIN W 21 10 4 8 50.0 0 0 - 2 2 100.0 0 0 0 4 2 0 2 2 -7
+p135
+aVMike Dunleavy IND 03/21/2008 IND vs. MIN W 41 25 8 13 61.5 6 7 85.7 3 3 100.0 1 3 4 7 0 1 1 2 16
+p136
+aVJeff Foster IND 03/21/2008 IND vs. MIN W 29 10 4 5 80.0 0 0 - 2 5 40.0 6 6 12 3 1 0 0 4 -2
+p137
+aVDanny Granger IND 03/21/2008 IND vs. MIN W 40 32 11 23 47.8 6 8 75.0 4 6 66.7 2 2 4 3 2 0 3 3 -5
+p138
+aVTravis Diener IND 03/19/2008 IND vs. CHA W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 1 1 0 -1
+p139
+aVDavid Harrison IND 03/19/2008 IND vs. CHA W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -11
+p140
+aVRonald Murray IND 03/19/2008 IND vs. CHA W 36 22 9 15 60.0 1 2 50.0 3 3 100.0 0 3 3 4 3 1 3 3 8
+p141
+aVIke Diogu IND 03/19/2008 IND vs. CHA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p142
+aVShawne Williams IND 03/19/2008 IND vs. CHA W 17 16 6 9 66.7 2 3 66.7 2 2 100.0 1 1 2 1 0 0 1 1 13
+p143
+aVKareem Rush IND 03/19/2008 IND vs. CHA W 24 7 3 10 30.0 1 4 25.0 0 0 - 1 1 2 3 0 0 1 1 0
+p144
+aVMike Dunleavy IND 03/19/2008 IND vs. CHA W 43 12 2 12 16.7 0 6 0.0 8 8 100.0 0 5 5 5 2 1 5 4 12
+p145
+aVTroy Murphy IND 03/19/2008 IND vs. CHA W 36 18 7 9 77.8 3 4 75.0 1 2 50.0 2 11 13 3 0 3 1 4 -12
+p146
+aVMarquis Daniels IND 03/19/2008 IND vs. CHA W 30 13 5 11 45.5 0 2 0.0 3 4 75.0 3 1 4 2 3 0 1 1 0
+p147
+aVJeff Foster IND 03/19/2008 IND vs. CHA W 27 10 5 9 55.6 0 0 - 0 1 0.0 4 5 9 1 1 1 1 3 28
+p148
+aVStephen Graham IND 03/17/2008 IND vs. NYK W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p149
+aVMike Dunleavy IND 03/17/2008 IND vs. NYK W 43 36 12 20 60.0 4 7 57.1 8 9 88.9 0 6 6 4 1 2 2 3 15
+p150
+aVDanny Granger IND 03/17/2008 IND vs. NYK W 44 26 10 21 47.6 2 7 28.6 4 6 66.7 2 9 11 4 2 1 3 1 15
+p151
+aVIke Diogu IND 03/17/2008 IND vs. NYK W 13 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 0 0 0 5 -3
+p152
+aVDavid Harrison IND 03/17/2008 IND vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -2
+p153
+aVKareem Rush IND 03/17/2008 IND vs. NYK W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 3
+p154
+aVTravis Diener IND 03/17/2008 IND vs. NYK W 18 0 0 6 0.0 0 4 0.0 0 0 - 1 1 2 4 1 0 0 1 -2
+p155
+aVRonald Murray IND 03/17/2008 IND vs. NYK W 30 14 5 12 41.7 1 4 25.0 3 4 75.0 0 3 3 4 0 1 2 3 14
+p156
+aVMarquis Daniels IND 03/17/2008 IND vs. NYK W 22 6 3 11 27.3 0 1 0.0 0 0 - 1 5 6 1 1 0 2 2 4
+p157
+aVJeff Foster IND 03/17/2008 IND vs. NYK W 27 7 3 5 60.0 0 0 - 1 1 100.0 4 4 8 0 0 3 1 4 5
+p158
+aVTroy Murphy IND 03/17/2008 IND vs. NYK W 32 13 5 12 41.7 0 2 0.0 3 3 100.0 0 10 10 3 1 0 1 1 13
+p159
+aVTravis Diener IND 03/15/2008 IND @ ORL L 28 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 5 1 0 2 3 -10
+p160
+aVJeff Foster IND 03/15/2008 IND @ ORL L 20 7 2 5 40.0 0 0 - 3 4 75.0 4 1 5 0 0 0 0 4 -4
+p161
+aVMarquis Daniels IND 03/15/2008 IND @ ORL L 23 14 6 9 66.7 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 -12
+p162
+aVKareem Rush IND 03/15/2008 IND @ ORL L 28 12 5 11 45.5 2 4 50.0 0 0 - 1 1 2 5 3 0 1 0 2
+p163
+aVMike Dunleavy IND 03/15/2008 IND @ ORL L 35 16 6 14 42.9 1 4 25.0 3 5 60.0 0 3 3 4 0 0 2 2 -8
+p164
+aVTroy Murphy IND 03/15/2008 IND @ ORL L 35 18 6 12 50.0 2 4 50.0 4 8 50.0 2 7 9 5 0 1 0 3 -15
+p165
+aVStephen Graham IND 03/15/2008 IND @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p166
+aVDanny Granger IND 03/15/2008 IND @ ORL L 38 24 9 16 56.3 2 5 40.0 4 5 80.0 1 5 6 3 4 1 3 2 -3
+p167
+aVRonald Murray IND 03/15/2008 IND @ ORL L 20 11 4 9 44.4 0 0 - 3 4 75.0 1 0 1 2 3 0 3 1 -1
+p168
+aVDavid Harrison IND 03/15/2008 IND @ ORL L 13 4 2 2 100.0 0 0 - 0 2 0.0 0 1 1 0 2 1 1 4 -4
+p169
+aVDavid Harrison IND 03/14/2008 IND @ DAL L 23 1 0 1 0.0 0 0 - 1 2 50.0 1 6 7 0 0 1 0 2 -8
+p170
+aVIke Diogu IND 03/14/2008 IND @ DAL L 8 8 4 5 80.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 0
+p171
+aVDanny Granger IND 03/14/2008 IND @ DAL L 27 11 3 7 42.9 0 2 0.0 5 6 83.3 2 3 5 2 0 1 1 6 -14
+p172
+aVTravis Diener IND 03/14/2008 IND @ DAL L 21 0 0 9 0.0 0 4 0.0 0 0 - 1 0 1 2 0 0 1 1 -11
+p173
+aVMike Dunleavy IND 03/14/2008 IND @ DAL L 36 18 5 16 31.3 2 3 66.7 6 8 75.0 2 3 5 5 1 0 0 1 -20
+p174
+aVJeff Foster IND 03/14/2008 IND @ DAL L 28 6 3 5 60.0 0 0 - 0 2 0.0 3 5 8 0 2 0 0 3 -10
+p175
+aVRonald Murray IND 03/14/2008 IND @ DAL L 27 22 8 19 42.1 2 4 50.0 4 4 100.0 1 1 2 1 1 0 2 3 -8
+p176
+aVStephen Graham IND 03/14/2008 IND @ DAL L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -1
+p177
+aVKareem Rush IND 03/14/2008 IND @ DAL L 19 5 2 6 33.3 1 2 50.0 0 0 - 2 4 6 1 0 1 1 0 -2
+p178
+aVMarquis Daniels IND 03/14/2008 IND @ DAL L 14 12 4 8 50.0 0 1 0.0 4 4 100.0 0 0 0 1 1 0 0 0 0
+p179
+aVTroy Murphy IND 03/14/2008 IND @ DAL L 34 14 5 11 45.5 0 3 0.0 4 7 57.1 3 2 5 2 0 0 1 1 -21
+p180
+aVTravis Diener IND 03/11/2008 IND vs. SEA W 34 11 4 12 33.3 1 6 16.7 2 2 100.0 1 2 3 9 1 0 0 3 9
+p181
+aVMike Dunleavy IND 03/11/2008 IND vs. SEA W 37 32 10 16 62.5 4 5 80.0 8 10 80.0 0 6 6 1 1 0 0 1 5
+p182
+aVRonald Murray IND 03/11/2008 IND vs. SEA W 14 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 1 1 0 2 1 -2
+p183
+aVJeff Foster IND 03/11/2008 IND vs. SEA W 33 9 3 6 50.0 0 0 - 3 4 75.0 5 6 11 3 2 1 2 6 -8
+p184
+aVDanny Granger IND 03/11/2008 IND vs. SEA W 39 23 8 19 42.1 2 6 33.3 5 6 83.3 0 7 7 2 0 0 2 2 13
+p185
+aVKareem Rush IND 03/11/2008 IND vs. SEA W 10 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p186
+aVDavid Harrison IND 03/11/2008 IND vs. SEA W 20 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 0 6 3 3 12
+p187
+aVMarquis Daniels IND 03/11/2008 IND vs. SEA W 13 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 4 -7
+p188
+aVTroy Murphy IND 03/11/2008 IND vs. SEA W 40 19 7 15 46.7 0 3 0.0 5 6 83.3 4 5 9 4 1 1 2 1 13
+p189
+aVDanny Granger IND 03/08/2008 IND @ CLE L 32 19 8 12 66.7 3 6 50.0 0 0 - 1 4 5 1 1 1 2 6 -10
+p190
+aVJeff Foster IND 03/08/2008 IND @ CLE L 33 6 3 4 75.0 0 0 - 0 0 - 3 4 7 2 0 1 2 4 -15
+p191
+aVStephen Graham IND 03/08/2008 IND @ CLE L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 1 1 3
+p192
+aVTroy Murphy IND 03/08/2008 IND @ CLE L 43 17 6 14 42.9 2 4 50.0 3 4 75.0 1 6 7 2 1 0 1 4 -11
+p193
+aVMike Dunleavy IND 03/08/2008 IND @ CLE L 41 11 5 12 41.7 1 2 50.0 0 0 - 0 3 3 3 0 1 4 2 -15
+p194
+aVRonald Murray IND 03/08/2008 IND @ CLE L 21 13 6 13 46.2 1 3 33.3 0 1 0.0 1 2 3 4 2 0 3 1 1
+p195
+aVMarquis Daniels IND 03/08/2008 IND @ CLE L 25 17 7 11 63.6 2 3 66.7 1 1 100.0 1 3 4 2 2 0 2 1 7
+p196
+aVIke Diogu IND 03/08/2008 IND @ CLE L 12 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 1 0 2 9
+p197
+aVTravis Diener IND 03/08/2008 IND @ CLE L 27 6 2 10 20.0 2 6 33.3 0 0 - 0 2 2 7 0 0 2 3 -9
+p198
+aVTroy Murphy IND 03/06/2008 IND @ SAS L 33 13 4 10 40.0 0 2 0.0 5 8 62.5 0 6 6 1 2 0 2 6 -13
+p199
+aVJeff Foster IND 03/06/2008 IND @ SAS L 33 5 2 3 66.7 0 0 - 1 4 25.0 4 2 6 2 2 4 1 5 -19
+p200
+aVMike Dunleavy IND 03/06/2008 IND @ SAS L 31 13 6 12 50.0 1 4 25.0 0 0 - 2 3 5 1 2 0 2 3 -12
+p201
+aVShawne Williams IND 03/06/2008 IND @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 10
+p202
+aVTravis Diener IND 03/06/2008 IND @ SAS L 29 11 5 10 50.0 1 3 33.3 0 0 - 0 2 2 3 0 0 1 3 -5
+p203
+aVDavid Harrison IND 03/06/2008 IND @ SAS L 19 9 4 5 80.0 0 0 - 1 2 50.0 1 0 1 0 0 1 1 5 3
+p204
+aVMarquis Daniels IND 03/06/2008 IND @ SAS L 14 5 2 4 50.0 0 1 0.0 1 2 50.0 0 1 1 1 2 0 4 0 -4
+p205
+aVDanny Granger IND 03/06/2008 IND @ SAS L 45 22 9 22 40.9 0 5 0.0 4 4 100.0 0 6 6 1 6 1 1 3 -13
+p206
+aVRonald Murray IND 03/06/2008 IND @ SAS L 19 11 4 12 33.3 1 3 33.3 2 2 100.0 0 3 3 0 2 0 1 0 -6
+p207
+aVStephen Graham IND 03/06/2008 IND @ SAS L 12 8 3 3 100.0 0 0 - 2 4 50.0 2 2 4 0 1 0 2 2 4
+p208
+aVJeff Foster IND 03/05/2008 IND @ HOU L 24 6 3 5 60.0 0 0 - 0 0 - 4 2 6 2 1 0 0 1 -13
+p209
+aVTroy Murphy IND 03/05/2008 IND @ HOU L 31 17 6 12 50.0 0 1 0.0 5 7 71.4 1 9 10 6 0 0 4 4 -6
+p210
+aVTravis Diener IND 03/05/2008 IND @ HOU L 26 11 4 6 66.7 3 4 75.0 0 0 - 0 2 2 4 0 0 2 2 -8
+p211
+aVStephen Graham IND 03/05/2008 IND @ HOU L 9 9 3 5 60.0 3 3 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p212
+aVAndre Owens IND 03/05/2008 IND @ HOU L 7 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 0 0 5
+p213
+aVDavid Harrison IND 03/05/2008 IND @ HOU L 12 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -2
+p214
+aVMike Dunleavy IND 03/05/2008 IND @ HOU L 32 13 4 9 44.4 3 4 75.0 2 3 66.7 0 2 2 6 2 0 3 4 -6
+p215
+aVRonald Murray IND 03/05/2008 IND @ HOU L 22 14 4 12 33.3 1 3 33.3 5 6 83.3 0 5 5 2 1 0 2 0 -10
+p216
+aVIke Diogu IND 03/05/2008 IND @ HOU L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 5
+p217
+aVMarquis Daniels IND 03/05/2008 IND @ HOU L 17 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -21
+p218
+aVDanny Granger IND 03/05/2008 IND @ HOU L 32 17 7 19 36.8 3 5 60.0 0 0 - 0 3 3 4 0 1 2 3 -14
+p219
+aVKareem Rush IND 03/05/2008 IND @ HOU L 20 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 2 0 0 0 -20
+p220
+aVIke Diogu IND 03/02/2008 IND vs. MIL W 6 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -3
+p221
+aVMarquis Daniels IND 03/02/2008 IND vs. MIL W 19 4 2 4 50.0 0 1 0.0 0 0 - 1 4 5 5 1 1 2 1 12
+p222
+aVKareem Rush IND 03/02/2008 IND vs. MIL W 26 13 5 11 45.5 3 4 75.0 0 0 - 0 3 3 1 0 0 1 1 -2
+p223
+aVDavid Harrison IND 03/02/2008 IND vs. MIL W 19 7 2 3 66.7 0 0 - 3 4 75.0 2 3 5 0 0 0 0 4 13
+p224
+aVMike Dunleavy IND 03/02/2008 IND vs. MIL W 34 36 11 17 64.7 4 6 66.7 10 12 83.3 1 4 5 3 2 1 0 3 30
+p225
+aVAndre Owens IND 03/02/2008 IND vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 0
+p226
+aVTravis Diener IND 03/02/2008 IND vs. MIL W 32 15 5 10 50.0 2 3 66.7 3 3 100.0 0 0 0 6 4 0 1 1 13
+p227
+aVJeff Foster IND 03/02/2008 IND vs. MIL W 26 3 1 4 25.0 0 0 - 1 2 50.0 5 11 16 3 0 2 1 3 17
+p228
+aVDanny Granger IND 03/02/2008 IND vs. MIL W 38 27 9 21 42.9 1 5 20.0 8 8 100.0 3 6 9 3 1 1 2 5 31
+p229
+aVStephen Graham IND 03/02/2008 IND vs. MIL W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p230
+aVTroy Murphy IND 03/02/2008 IND vs. MIL W 24 13 4 12 33.3 1 5 20.0 4 5 80.0 2 3 5 0 1 0 1 4 5
+p231
+aVRonald Murray IND 03/02/2008 IND vs. MIL W 8 4 2 3 66.7 0 0 - 0 1 0.0 0 0 0 1 1 0 0 0 -2
+p232
+aVStephen Graham IND 02/29/2008 IND @ TOR W 21 16 4 7 57.1 1 2 50.0 7 7 100.0 1 5 6 2 1 0 1 4 -5
+p233
+aVTravis Diener IND 02/29/2008 IND @ TOR W 42 10 5 14 35.7 0 4 0.0 0 0 - 1 1 2 10 0 0 1 2 20
+p234
+aVTroy Murphy IND 02/29/2008 IND @ TOR W 33 18 7 9 77.8 1 2 50.0 3 4 75.0 1 7 8 2 1 0 3 3 9
+p235
+aVJeff Foster IND 02/29/2008 IND @ TOR W 18 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 3 1 0 1 2 8
+p236
+aVMarquis Daniels IND 02/29/2008 IND @ TOR W 37 12 4 13 30.8 0 3 0.0 4 4 100.0 3 4 7 2 1 0 1 3 8
+p237
+aVAndre Owens IND 02/29/2008 IND @ TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -1
+p238
+aVMike Dunleavy IND 02/29/2008 IND @ TOR W 39 36 11 19 57.9 6 9 66.7 8 11 72.7 0 6 6 4 0 0 4 2 11
+p239
+aVKareem Rush IND 02/29/2008 IND @ TOR W 41 23 8 18 44.4 4 10 40.0 3 3 100.0 0 9 9 4 0 1 0 1 0
+p240
+aVDavid Harrison IND 02/29/2008 IND @ TOR W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 5
+p241
+aVStephen Graham IND 02/27/2008 IND vs. CHI L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p242
+aVKareem Rush IND 02/27/2008 IND vs. CHI L 17 8 3 5 60.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 1 3 -12
+p243
+aVTroy Murphy IND 02/27/2008 IND vs. CHI L 30 19 6 10 60.0 3 4 75.0 4 6 66.7 0 3 3 3 0 2 4 6 1
+p244
+aVJeff Foster IND 02/27/2008 IND vs. CHI L 35 5 2 7 28.6 0 0 - 1 2 50.0 4 11 15 0 0 1 2 2 -1
+p245
+aVShawne Williams IND 02/27/2008 IND vs. CHI L 6 0 0 4 0.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 1 1
+p246
+aVMike Dunleavy IND 02/27/2008 IND vs. CHI L 41 25 5 12 41.7 2 6 33.3 13 16 81.3 0 3 3 2 0 0 3 1 0
+p247
+aVTravis Diener IND 02/27/2008 IND vs. CHI L 36 22 6 10 60.0 0 4 0.0 10 10 100.0 2 1 3 9 0 0 2 5 -6
+p248
+aVDavid Harrison IND 02/27/2008 IND vs. CHI L 9 4 1 3 33.3 0 0 - 2 4 50.0 1 2 3 0 1 1 0 2 -6
+p249
+aVDanny Granger IND 02/27/2008 IND vs. CHI L 40 17 6 16 37.5 4 10 40.0 1 1 100.0 1 7 8 3 2 0 5 6 0
+p250
+aVMarquis Daniels IND 02/27/2008 IND vs. CHI L 24 7 3 10 30.0 0 0 - 1 2 50.0 3 4 7 2 2 1 1 2 -7
+p251
+aVTravis Diener IND 02/25/2008 IND vs. TOR L 39 7 2 10 20.0 2 4 50.0 1 2 50.0 0 4 4 5 0 1 0 2 -1
+p252
+aVJeff Foster IND 02/25/2008 IND vs. TOR L 22 0 0 3 0.0 0 0 - 0 0 - 4 3 7 1 1 2 0 2 0
+p253
+aVShawne Williams IND 02/25/2008 IND vs. TOR L 13 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 0 0 2 0 1 -10
+p254
+aVKareem Rush IND 02/25/2008 IND vs. TOR L 38 13 5 11 45.5 3 6 50.0 0 0 - 1 3 4 2 2 0 0 4 -2
+p255
+aVTroy Murphy IND 02/25/2008 IND vs. TOR L 31 17 5 9 55.6 0 1 0.0 7 7 100.0 0 4 4 7 0 0 2 4 3
+p256
+aVMarquis Daniels IND 02/25/2008 IND vs. TOR L 26 20 8 12 66.7 0 2 0.0 4 4 100.0 2 2 4 0 3 0 1 3 -4
+p257
+aVDavid Harrison IND 02/25/2008 IND vs. TOR L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p258
+aVDanny Granger IND 02/25/2008 IND vs. TOR L 30 20 7 14 50.0 4 8 50.0 2 2 100.0 2 8 10 0 0 0 2 5 -2
+p259
+aVMike Dunleavy IND 02/25/2008 IND vs. TOR L 35 17 8 19 42.1 1 5 20.0 0 0 - 1 1 2 3 0 0 3 6 1
+p260
+aVKareem Rush IND 02/23/2008 IND @ NJN L 29 10 4 10 40.0 2 4 50.0 0 0 - 0 3 3 1 1 1 1 2 -5
+p261
+aVTravis Diener IND 02/23/2008 IND @ NJN L 29 4 2 8 25.0 0 3 0.0 0 0 - 0 2 2 3 0 0 1 1 -10
+p262
+aVAndre Owens IND 02/23/2008 IND @ NJN L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p263
+aVShawne Williams IND 02/23/2008 IND @ NJN L 16 1 0 7 0.0 0 4 0.0 1 2 50.0 0 2 2 2 1 1 0 2 1
+p264
+aVDanny Granger IND 02/23/2008 IND @ NJN L 40 29 11 22 50.0 4 7 57.1 3 3 100.0 0 3 3 5 2 1 0 5 -12
+p265
+aVMarquis Daniels IND 02/23/2008 IND @ NJN L 26 5 2 8 25.0 1 1 100.0 0 2 0.0 0 5 5 3 1 0 2 2 -1
+p266
+aVJeff Foster IND 02/23/2008 IND @ NJN L 24 6 3 4 75.0 0 0 - 0 0 - 2 2 4 1 1 0 3 2 -11
+p267
+aVDavid Harrison IND 02/23/2008 IND @ NJN L 6 4 2 2 100.0 0 0 - 0 1 0.0 1 4 5 0 0 0 1 1 2
+p268
+aVStephen Graham IND 02/23/2008 IND @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p269
+aVTroy Murphy IND 02/23/2008 IND @ NJN L 32 13 2 6 33.3 1 3 33.3 8 10 80.0 0 5 5 4 0 1 1 6 -5
+p270
+aVMike Dunleavy IND 02/23/2008 IND @ NJN L 37 19 7 15 46.7 1 6 16.7 4 7 57.1 1 3 4 2 0 1 0 3 -10
+p271
+aVDavid Harrison IND 02/22/2008 IND vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p272
+aVJeff Foster IND 02/22/2008 IND vs. NJN W 28 10 3 5 60.0 0 0 - 4 6 66.7 5 9 14 4 1 0 3 3 10
+p273
+aVMike Dunleavy IND 02/22/2008 IND vs. NJN W 41 34 11 20 55.0 4 6 66.7 8 9 88.9 0 1 1 1 3 0 1 4 13
+p274
+aVMarquis Daniels IND 02/22/2008 IND vs. NJN W 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 3 1 0 1 0 5
+p275
+aVKareem Rush IND 02/22/2008 IND vs. NJN W 31 11 3 14 21.4 3 7 42.9 2 2 100.0 1 2 3 4 1 0 2 3 5
+p276
+aVTroy Murphy IND 02/22/2008 IND vs. NJN W 30 11 5 10 50.0 1 2 50.0 0 0 - 1 6 7 0 0 1 1 3 11
+p277
+aVDanny Granger IND 02/22/2008 IND vs. NJN W 35 16 6 16 37.5 2 7 28.6 2 3 66.7 1 1 2 1 0 0 4 5 2
+p278
+aVTravis Diener IND 02/22/2008 IND vs. NJN W 43 19 7 10 70.0 2 3 66.7 3 4 75.0 4 4 8 6 1 0 1 0 14
+p279
+aVShawne Williams IND 02/22/2008 IND vs. NJN W 12 10 3 8 37.5 0 3 0.0 4 5 80.0 3 3 6 2 1 1 2 2 -2
+p280
+aVIke Diogu IND 02/20/2008 IND vs. CLE L 5 4 0 3 0.0 0 0 - 4 4 100.0 1 0 1 0 0 0 0 0 -10
+p281
+aVTroy Murphy IND 02/20/2008 IND vs. CLE L 36 20 8 11 72.7 1 2 50.0 3 3 100.0 0 6 6 1 0 1 1 3 15
+p282
+aVMike Dunleavy IND 02/20/2008 IND vs. CLE L 39 9 4 13 30.8 0 4 0.0 1 1 100.0 0 3 3 5 0 1 1 1 -6
+p283
+aVJeff Foster IND 02/20/2008 IND vs. CLE L 42 9 4 7 57.1 0 0 - 1 2 50.0 5 10 15 2 1 0 1 0 2
+p284
+aVDanny Granger IND 02/20/2008 IND vs. CLE L 43 30 10 22 45.5 4 8 50.0 6 6 100.0 0 8 8 1 2 0 2 4 4
+p285
+aVMarquis Daniels IND 02/20/2008 IND vs. CLE L 19 9 3 7 42.9 1 2 50.0 2 2 100.0 2 3 5 0 0 0 4 0 -23
+p286
+aVShawne Williams IND 02/20/2008 IND vs. CLE L 10 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 2 0 0 1 2 -21
+p287
+aVTravis Diener IND 02/20/2008 IND vs. CLE L 29 3 1 7 14.3 1 4 25.0 0 0 - 0 0 0 9 1 0 1 4 14
+p288
+aVKareem Rush IND 02/20/2008 IND vs. CLE L 18 12 5 9 55.6 2 3 66.7 0 0 - 0 0 0 0 0 1 2 4 -20
+p289
+aVMarquis Daniels IND 02/13/2008 IND @ DET L 32 3 1 9 11.1 1 2 50.0 0 0 - 0 1 1 1 2 0 0 2 -5
+p290
+aVKareem Rush IND 02/13/2008 IND @ DET L 22 7 3 7 42.9 1 1 100.0 0 0 - 0 5 5 2 0 1 1 0 -15
+p291
+aVShawne Williams IND 02/13/2008 IND @ DET L 18 7 1 10 10.0 1 2 50.0 4 4 100.0 3 1 4 1 0 2 0 4 -8
+p292
+aVIke Diogu IND 02/13/2008 IND @ DET L 13 14 4 8 50.0 0 0 - 6 6 100.0 2 1 3 0 0 0 0 0 9
+p293
+aVAndre Owens IND 02/13/2008 IND @ DET L 23 10 3 9 33.3 1 3 33.3 3 4 75.0 0 6 6 1 2 0 1 3 -3
+p294
+aVTroy Murphy IND 02/13/2008 IND @ DET L 23 8 3 9 33.3 0 1 0.0 2 2 100.0 0 6 6 2 0 0 0 1 -13
+p295
+aVDanny Granger IND 02/13/2008 IND @ DET L 28 9 3 9 33.3 1 2 50.0 2 2 100.0 0 2 2 2 1 0 5 3 -21
+p296
+aVStephen Graham IND 02/13/2008 IND @ DET L 12 9 3 6 50.0 0 1 0.0 3 4 75.0 0 2 2 1 0 0 0 2 9
+p297
+aVDavid Harrison IND 02/13/2008 IND @ DET L 21 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 3 2 4 -2
+p298
+aVMike Dunleavy IND 02/13/2008 IND @ DET L 27 11 3 9 33.3 1 3 33.3 4 4 100.0 0 2 2 3 1 0 1 1 -15
+p299
+aVJeff Foster IND 02/13/2008 IND @ DET L 21 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 -16
+p300
+aVMarquis Daniels IND 02/12/2008 IND vs. BOS L 28 10 4 9 44.4 0 1 0.0 2 4 50.0 1 3 4 2 0 1 3 2 -2
+p301
+aVDanny Granger IND 02/12/2008 IND vs. BOS L 41 18 6 16 37.5 1 2 50.0 5 5 100.0 2 8 10 3 0 5 2 2 5
+p302
+aVShawne Williams IND 02/12/2008 IND vs. BOS L 22 14 6 10 60.0 2 5 40.0 0 0 - 1 4 5 2 0 2 0 4 2
+p303
+aVTravis Diener IND 02/12/2008 IND vs. BOS L 25 6 2 8 25.0 2 4 50.0 0 0 - 1 1 2 1 0 1 2 0 -11
+p304
+aVDavid Harrison IND 02/12/2008 IND vs. BOS L 12 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 5 -8
+p305
+aVIke Diogu IND 02/12/2008 IND vs. BOS L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p306
+aVJeff Foster IND 02/12/2008 IND vs. BOS L 21 3 1 1 100.0 0 0 - 1 2 50.0 2 7 9 3 0 1 3 5 -3
+p307
+aVMike Dunleavy IND 02/12/2008 IND vs. BOS L 36 13 6 13 46.2 1 6 16.7 0 1 0.0 0 4 4 4 2 0 3 3 -15
+p308
+aVKareem Rush IND 02/12/2008 IND vs. BOS L 24 13 5 12 41.7 1 5 20.0 2 2 100.0 0 3 3 2 0 0 2 1 -7
+p309
+aVTroy Murphy IND 02/12/2008 IND vs. BOS L 28 13 4 13 30.8 0 1 0.0 5 5 100.0 6 3 9 2 0 1 0 3 6
+p310
+aVKareem Rush IND 02/09/2008 IND vs. POR W 37 10 4 19 21.1 2 9 22.2 0 0 - 0 11 11 1 0 0 1 1 9
+p311
+aVMike Dunleavy IND 02/09/2008 IND vs. POR W 14 11 4 10 40.0 1 4 25.0 2 2 100.0 0 0 0 1 0 0 1 0 -1
+p312
+aVDavid Harrison IND 02/09/2008 IND vs. POR W 16 4 2 2 100.0 0 0 - 0 2 0.0 0 3 3 1 1 3 2 3 0
+p313
+aVJeff Foster IND 02/09/2008 IND vs. POR W 29 10 3 5 60.0 0 0 - 4 6 66.7 8 6 14 1 0 1 0 3 5
+p314
+aVMarquis Daniels IND 02/09/2008 IND vs. POR W 22 8 3 8 37.5 0 1 0.0 2 2 100.0 1 1 2 2 1 0 1 2 2
+p315
+aVTroy Murphy IND 02/09/2008 IND vs. POR W 31 13 3 7 42.9 0 1 0.0 7 8 87.5 4 4 8 3 0 1 0 3 7
+p316
+aVShawne Williams IND 02/09/2008 IND vs. POR W 9 1 0 3 0.0 0 1 0.0 1 2 50.0 1 3 4 0 2 0 0 2 -1
+p317
+aVDanny Granger IND 02/09/2008 IND vs. POR W 42 29 8 17 47.1 4 7 57.1 9 9 100.0 1 3 4 0 3 1 1 5 13
+p318
+aVTravis Diener IND 02/09/2008 IND vs. POR W 39 15 4 13 30.8 3 10 30.0 4 6 66.7 1 1 2 9 0 0 0 2 6
+p319
+aVDanny Granger IND 02/06/2008 IND @ NYK W 40 16 6 12 50.0 1 4 25.0 3 3 100.0 1 4 5 1 0 0 1 2 3
+p320
+aVMike Dunleavy IND 02/06/2008 IND @ NYK W 40 17 5 18 27.8 1 8 12.5 6 8 75.0 1 6 7 9 1 0 0 2 0
+p321
+aVDavid Harrison IND 02/06/2008 IND @ NYK W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 1 4 4
+p322
+aVTroy Murphy IND 02/06/2008 IND @ NYK W 31 15 5 14 35.7 2 5 40.0 3 4 75.0 3 4 7 3 2 0 1 4 -8
+p323
+aVTravis Diener IND 02/06/2008 IND @ NYK W 22 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 4 0 0 0 0 -9
+p324
+aVMarquis Daniels IND 02/06/2008 IND @ NYK W 26 13 4 8 50.0 2 5 40.0 3 4 75.0 0 1 1 3 3 0 1 1 12
+p325
+aVShawne Williams IND 02/06/2008 IND @ NYK W 5 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 1 1 0 1 -2
+p326
+aVJeff Foster IND 02/06/2008 IND @ NYK W 32 10 5 7 71.4 0 0 - 0 0 - 2 1 3 3 1 0 0 3 5
+p327
+aVIke Diogu IND 02/06/2008 IND @ NYK W 6 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 1 2
+p328
+aVKareem Rush IND 02/06/2008 IND @ NYK W 28 24 10 14 71.4 3 5 60.0 1 3 33.3 1 6 7 1 0 1 0 2 8
+p329
+aVMarquis Daniels IND 02/05/2008 IND vs. SAS L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 3 0 1 0 -3
+p330
+aVShawne Williams IND 02/05/2008 IND vs. SAS L 20 6 2 10 20.0 0 5 0.0 2 2 100.0 1 3 4 0 0 1 1 0 -5
+p331
+aVJeff Foster IND 02/05/2008 IND vs. SAS L 22 2 1 2 50.0 0 0 - 0 0 - 1 5 6 1 3 0 0 4 -7
+p332
+aVTravis Diener IND 02/05/2008 IND vs. SAS L 30 14 5 11 45.5 1 2 50.0 3 4 75.0 0 2 2 6 1 0 1 1 -17
+p333
+aVJamaal Tinsley IND 02/05/2008 IND vs. SAS L 18 8 3 7 42.9 1 2 50.0 1 2 50.0 0 0 0 2 0 1 1 0 -10
+p334
+aVMike Dunleavy IND 02/05/2008 IND vs. SAS L 36 14 6 11 54.5 1 3 33.3 1 2 50.0 0 2 2 4 2 1 1 2 -16
+p335
+aVKareem Rush IND 02/05/2008 IND vs. SAS L 17 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 -15
+p336
+aVDanny Granger IND 02/05/2008 IND vs. SAS L 31 16 5 9 55.6 1 2 50.0 5 5 100.0 0 2 2 2 0 5 3 2 -25
+p337
+aVTroy Murphy IND 02/05/2008 IND vs. SAS L 29 15 6 8 75.0 3 3 100.0 0 0 - 1 6 7 3 0 0 0 2 -13
+p338
+aVDavid Harrison IND 02/05/2008 IND vs. SAS L 11 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 1 2 3 -8
+p339
+aVStephen Graham IND 02/05/2008 IND vs. SAS L 7 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p340
+aVIke Diogu IND 02/05/2008 IND vs. SAS L 7 0 0 5 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -8
+p341
+aVDanny Granger IND 02/02/2008 IND vs. ORL L 38 29 7 17 41.2 3 6 50.0 12 12 100.0 1 3 4 1 2 0 0 2 3
+p342
+aVJeff Foster IND 02/02/2008 IND vs. ORL L 28 9 3 4 75.0 0 0 - 3 6 50.0 3 3 6 3 1 0 2 4 -14
+p343
+aVTroy Murphy IND 02/02/2008 IND vs. ORL L 20 17 7 12 58.3 3 4 75.0 0 0 - 3 3 6 2 0 0 1 4 8
+p344
+aVMarquis Daniels IND 02/02/2008 IND vs. ORL L 18 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 2 0 0 1 0 10
+p345
+aVShawne Williams IND 02/02/2008 IND vs. ORL L 25 12 5 8 62.5 1 4 25.0 1 2 50.0 0 3 3 0 0 1 0 1 1
+p346
+aVTravis Diener IND 02/02/2008 IND vs. ORL L 27 5 2 6 33.3 1 3 33.3 0 0 - 1 5 6 10 0 0 1 6 -11
+p347
+aVKareem Rush IND 02/02/2008 IND vs. ORL L 30 13 5 13 38.5 3 8 37.5 0 0 - 0 1 1 2 0 0 0 2 -14
+p348
+aVJamaal Tinsley IND 02/02/2008 IND vs. ORL L 21 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 5 1 0 1 2 3
+p349
+aVMike Dunleavy IND 02/02/2008 IND vs. ORL L 34 19 5 15 33.3 2 7 28.6 7 8 87.5 2 5 7 5 1 0 5 5 -16
+p350
+aVKareem Rush IND 02/01/2008 IND vs. HOU L 19 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 1 0 0 1 0 -2
+p351
+aVJeff Foster IND 02/01/2008 IND vs. HOU L 35 13 6 10 60.0 0 0 - 1 3 33.3 6 11 17 4 2 1 1 4 2
+p352
+aVShawne Williams IND 02/01/2008 IND vs. HOU L 20 17 7 9 77.8 3 3 100.0 0 1 0.0 0 2 2 3 1 1 0 3 3
+p353
+aVDanny Granger IND 02/01/2008 IND vs. HOU L 39 22 7 20 35.0 3 6 50.0 5 5 100.0 2 4 6 2 2 0 1 3 -1
+p354
+aVJamaal Tinsley IND 02/01/2008 IND vs. HOU L 21 2 1 3 33.3 0 0 - 0 0 - 0 1 1 8 1 0 5 1 -3
+p355
+aVTroy Murphy IND 02/01/2008 IND vs. HOU L 27 11 3 10 30.0 1 2 50.0 4 4 100.0 2 4 6 2 0 1 3 4 -6
+p356
+aVTravis Diener IND 02/01/2008 IND vs. HOU L 27 9 3 9 33.3 2 4 50.0 1 1 100.0 0 2 2 3 2 0 1 1 0
+p357
+aVMike Dunleavy IND 02/01/2008 IND vs. HOU L 38 14 6 16 37.5 1 5 20.0 1 1 100.0 0 5 5 5 0 0 1 2 -3
+p358
+aVDavid Harrison IND 02/01/2008 IND vs. HOU L 13 7 2 4 50.0 0 0 - 3 3 100.0 2 1 3 0 0 1 2 5 -5
+p359
+aVMarquis Daniels IND 01/29/2008 IND vs. DET L 7 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p360
+aVShawne Williams IND 01/29/2008 IND vs. DET L 7 2 1 2 50.0 0 1 0.0 0 2 0.0 0 1 1 1 0 0 2 0 -15
+p361
+aVTravis Diener IND 01/29/2008 IND vs. DET L 37 18 6 10 60.0 3 6 50.0 3 4 75.0 0 3 3 3 2 0 2 5 -4
+p362
+aVMike Dunleavy IND 01/29/2008 IND vs. DET L 41 25 9 15 60.0 4 4 100.0 3 3 100.0 1 6 7 7 2 0 0 3 8
+p363
+aVJeff Foster IND 01/29/2008 IND vs. DET L 37 11 5 8 62.5 0 0 - 1 4 25.0 6 7 13 3 0 0 2 4 6
+p364
+aVDavid Harrison IND 01/29/2008 IND vs. DET L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -6
+p365
+aVAndre Owens IND 01/29/2008 IND vs. DET L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -2
+p366
+aVStephen Graham IND 01/29/2008 IND vs. DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p367
+aVKareem Rush IND 01/29/2008 IND vs. DET L 29 9 3 9 33.3 3 5 60.0 0 0 - 1 1 2 0 0 0 2 0 -11
+p368
+aVDanny Granger IND 01/29/2008 IND vs. DET L 39 16 5 15 33.3 0 4 0.0 6 6 100.0 2 2 4 4 1 3 3 3 -11
+p369
+aVTroy Murphy IND 01/29/2008 IND vs. DET L 29 18 5 10 50.0 1 3 33.3 7 7 100.0 1 7 8 4 2 1 0 4 10
+p370
+aVDanny Granger IND 01/26/2008 IND @ MIA L 40 13 5 15 33.3 1 4 25.0 2 2 100.0 0 5 5 0 1 1 1 3 -2
+p371
+aVMike Dunleavy IND 01/26/2008 IND @ MIA L 38 25 8 14 57.1 1 4 25.0 8 8 100.0 1 5 6 3 1 0 4 4 -2
+p372
+aVAndre Owens IND 01/26/2008 IND @ MIA L 26 13 4 9 44.4 1 4 25.0 4 5 80.0 0 4 4 5 0 0 3 1 6
+p373
+aVJeff Foster IND 01/26/2008 IND @ MIA L 18 6 3 4 75.0 0 0 - 0 0 - 1 4 5 2 1 0 3 1 4
+p374
+aVKareem Rush IND 01/26/2008 IND @ MIA L 41 12 5 16 31.3 2 10 20.0 0 0 - 2 4 6 3 2 0 4 2 -2
+p375
+aVTroy Murphy IND 01/26/2008 IND @ MIA L 30 9 3 7 42.9 0 2 0.0 3 4 75.0 4 6 10 1 1 0 2 1 -6
+p376
+aVMarquis Daniels IND 01/26/2008 IND @ MIA L 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 3 -6
+p377
+aVTravis Diener IND 01/26/2008 IND @ MIA L 22 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 3 2 0 2 1 -8
+p378
+aVShawne Williams IND 01/26/2008 IND @ MIA L 11 6 2 3 66.7 2 2 100.0 0 0 - 0 2 2 0 0 0 0 3 6
+p379
+aVKareem Rush IND 01/24/2008 IND @ MIL L 35 14 5 11 45.5 4 5 80.0 0 0 - 0 4 4 1 0 0 2 2 -4
+p380
+aVJeff Foster IND 01/24/2008 IND @ MIL L 25 13 5 6 83.3 0 0 - 3 3 100.0 2 4 6 3 2 0 1 2 1
+p381
+aVAndre Owens IND 01/24/2008 IND @ MIL L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -6
+p382
+aVMarquis Daniels IND 01/24/2008 IND @ MIL L 18 2 1 7 14.3 0 2 0.0 0 0 - 2 2 4 1 0 0 1 3 -13
+p383
+aVTroy Murphy IND 01/24/2008 IND @ MIL L 23 4 2 5 40.0 0 1 0.0 0 0 - 2 4 6 2 0 0 2 5 -13
+p384
+aVStephen Graham IND 01/24/2008 IND @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p385
+aVDanny Granger IND 01/24/2008 IND @ MIL L 38 20 8 17 47.1 3 7 42.9 1 1 100.0 1 8 9 2 0 0 4 2 -3
+p386
+aVShawne Williams IND 01/24/2008 IND @ MIL L 10 0 0 6 0.0 0 3 0.0 0 0 - 1 3 4 0 0 0 2 2 -9
+p387
+aVTravis Diener IND 01/24/2008 IND @ MIL L 40 15 4 12 33.3 2 7 28.6 5 5 100.0 1 0 1 9 1 0 1 1 -8
+p388
+aVMike Dunleavy IND 01/24/2008 IND @ MIL L 39 22 6 11 54.5 2 4 50.0 8 8 100.0 0 6 6 5 0 1 2 2 -5
+p389
+aVMike Dunleavy IND 01/23/2008 IND @ CHI L 40 10 2 12 16.7 0 6 0.0 6 8 75.0 1 5 6 3 2 0 4 0 -17
+p390
+aVJamaal Tinsley IND 01/23/2008 IND @ CHI L 30 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 6 0 0 2 4 -7
+p391
+aVShawne Williams IND 01/23/2008 IND @ CHI L 14 8 3 11 27.3 0 4 0.0 2 2 100.0 1 2 3 2 0 0 0 3 -2
+p392
+aVKareem Rush IND 01/23/2008 IND @ CHI L 33 13 5 14 35.7 3 6 50.0 0 0 - 0 4 4 1 1 1 3 3 -5
+p393
+aVIke Diogu IND 01/23/2008 IND @ CHI L 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -14
+p394
+aVDanny Granger IND 01/23/2008 IND @ CHI L 35 33 11 18 61.1 4 7 57.1 7 7 100.0 1 6 7 4 2 1 2 3 -14
+p395
+aVJeff Foster IND 01/23/2008 IND @ CHI L 34 12 3 5 60.0 0 0 - 6 6 100.0 4 7 11 3 1 0 4 5 -7
+p396
+aVDavid Harrison IND 01/23/2008 IND @ CHI L 10 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 1 1 0 1 3
+p397
+aVMarquis Daniels IND 01/23/2008 IND @ CHI L 14 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 1 0 2 1 0
+p398
+aVAndre Owens IND 01/23/2008 IND @ CHI L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p399
+aVTravis Diener IND 01/23/2008 IND @ CHI L 18 10 4 10 40.0 2 6 33.3 0 0 - 0 1 1 1 0 0 1 0 -6
+p400
+aVStephen Graham IND 01/23/2008 IND @ CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p401
+aVShawne Williams IND 01/21/2008 IND @ PHI W 15 8 3 3 100.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 0 4 5
+p402
+aVKareem Rush IND 01/21/2008 IND @ PHI W 37 25 10 18 55.6 5 8 62.5 0 2 0.0 0 5 5 1 1 0 1 5 12
+p403
+aVJamaal Tinsley IND 01/21/2008 IND @ PHI W 33 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 12 1 0 3 5 4
+p404
+aVMarquis Daniels IND 01/21/2008 IND @ PHI W 15 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -1
+p405
+aVJeff Foster IND 01/21/2008 IND @ PHI W 23 6 1 4 25.0 0 0 - 4 6 66.7 3 7 10 3 1 0 1 2 -18
+p406
+aVMike Dunleavy IND 01/21/2008 IND @ PHI W 44 24 10 18 55.6 3 6 50.0 1 1 100.0 0 5 5 4 2 1 7 1 5
+p407
+aVTravis Diener IND 01/21/2008 IND @ PHI W 15 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 6 0 0 1 1 3
+p408
+aVTroy Murphy IND 01/21/2008 IND @ PHI W 16 13 4 5 80.0 1 2 50.0 4 4 100.0 1 3 4 2 1 0 1 0 19
+p409
+aVIke Diogu IND 01/21/2008 IND @ PHI W 9 6 3 5 60.0 0 0 - 0 0 - 3 1 4 2 0 0 1 3 6
+p410
+aVDanny Granger IND 01/21/2008 IND @ PHI W 34 18 7 13 53.8 2 2 100.0 2 3 66.7 1 3 4 4 2 1 1 4 0
+p411
+aVStephen Graham IND 01/19/2008 IND vs. SAC L 18 15 7 11 63.6 1 3 33.3 0 1 0.0 0 3 3 0 1 0 3 0 4
+p412
+aVKareem Rush IND 01/19/2008 IND vs. SAC L 30 22 10 17 58.8 2 6 33.3 0 0 - 0 4 4 1 1 0 1 3 -10
+p413
+aVMike Dunleavy IND 01/19/2008 IND vs. SAC L 38 15 5 16 31.3 2 7 28.6 3 4 75.0 1 6 7 1 0 0 3 4 -19
+p414
+aVJamaal Tinsley IND 01/19/2008 IND vs. SAC L 36 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 13 2 0 0 1 0
+p415
+aVDanny Granger IND 01/19/2008 IND vs. SAC L 39 26 7 18 38.9 3 7 42.9 9 10 90.0 1 3 4 2 4 2 2 6 1
+p416
+aVJeff Foster IND 01/19/2008 IND vs. SAC L 25 11 4 8 50.0 0 0 - 3 5 60.0 8 3 11 5 2 0 2 4 -2
+p417
+aVShawne Williams IND 01/19/2008 IND vs. SAC L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 4 2 11
+p418
+aVTravis Diener IND 01/19/2008 IND vs. SAC L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 -6
+p419
+aVTroy Murphy IND 01/19/2008 IND vs. SAC L 26 3 1 9 11.1 0 1 0.0 1 2 50.0 2 7 9 1 0 1 0 1 -9
+p420
+aVMike Dunleavy IND 01/16/2008 IND vs. GSW W 44 24 6 14 42.9 1 6 16.7 11 11 100.0 0 9 9 2 0 0 4 4 19
+p421
+aVTroy Murphy IND 01/16/2008 IND vs. GSW W 18 16 6 7 85.7 1 2 50.0 3 5 60.0 2 3 5 3 1 0 1 3 8
+p422
+aVShawne Williams IND 01/16/2008 IND vs. GSW W 11 11 4 11 36.4 1 2 50.0 2 2 100.0 3 0 3 0 0 0 1 2 1
+p423
+aVMarquis Daniels IND 01/16/2008 IND vs. GSW W 21 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 -5
+p424
+aVJermaine O'Neal IND 01/16/2008 IND vs. GSW W 9 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 4 2 -14
+p425
+aVKareem Rush IND 01/16/2008 IND vs. GSW W 28 19 7 11 63.6 5 7 71.4 0 0 - 1 2 3 0 2 0 3 3 16
+p426
+aVJeff Foster IND 01/16/2008 IND vs. GSW W 21 6 2 2 100.0 0 0 - 2 2 100.0 4 8 12 4 1 0 0 4 14
+p427
+aVDanny Granger IND 01/16/2008 IND vs. GSW W 40 29 7 15 46.7 3 6 50.0 12 12 100.0 1 8 9 2 0 2 4 3 -4
+p428
+aVTravis Diener IND 01/16/2008 IND vs. GSW W 32 11 2 12 16.7 1 5 20.0 6 6 100.0 0 2 2 6 0 0 4 3 15
+p429
+aVAndre Owens IND 01/16/2008 IND vs. GSW W 15 3 1 2 50.0 1 1 100.0 0 0 - 0 5 5 4 1 0 3 2 -10
+p430
+aVMarquis Daniels IND 01/13/2008 IND @ GSW L 27 12 6 8 75.0 0 0 - 0 0 - 1 2 3 3 4 0 4 3 -9
+p431
+aVDanny Granger IND 01/13/2008 IND @ GSW L 38 20 6 13 46.2 2 5 40.0 6 6 100.0 1 7 8 2 0 1 0 1 -2
+p432
+aVTravis Diener IND 01/13/2008 IND @ GSW L 10 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 1 1 0 1 1 -12
+p433
+aVJamaal Tinsley IND 01/13/2008 IND @ GSW L 38 8 3 8 37.5 1 3 33.3 1 2 50.0 0 5 5 11 2 0 5 3 7
+p434
+aVJermaine O'Neal IND 01/13/2008 IND @ GSW L 37 27 11 19 57.9 0 0 - 5 7 71.4 1 8 9 1 0 6 4 2 1
+p435
+aVTroy Murphy IND 01/13/2008 IND @ GSW L 11 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 1 0 1 2 -6
+p436
+aVKareem Rush IND 01/13/2008 IND @ GSW L 23 6 2 7 28.6 2 4 50.0 0 0 - 0 2 2 1 0 1 3 5 -5
+p437
+aVMike Dunleavy IND 01/13/2008 IND @ GSW L 41 18 6 11 54.5 2 5 40.0 4 5 80.0 1 9 10 7 1 1 3 3 2
+p438
+aVShawne Williams IND 01/13/2008 IND @ GSW L 15 4 1 3 33.3 1 1 100.0 1 2 50.0 0 4 4 2 0 1 2 2 -1
+p439
+aVKareem Rush IND 01/12/2008 IND @ SAC W 36 10 4 13 30.8 1 5 20.0 1 1 100.0 1 1 2 5 3 0 2 5 4
+p440
+aVJermaine O'Neal IND 01/12/2008 IND @ SAC W 35 12 2 8 25.0 0 0 - 8 10 80.0 2 5 7 5 1 2 5 3 -12
+p441
+aVTroy Murphy IND 01/12/2008 IND @ SAC W 13 6 2 3 66.7 0 0 - 2 2 100.0 1 4 5 0 2 0 1 2 18
+p442
+aVJamaal Tinsley IND 01/12/2008 IND @ SAC W 19 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 3 0 1 2 1
+p443
+aVTravis Diener IND 01/12/2008 IND @ SAC W 29 19 6 10 60.0 5 7 71.4 2 2 100.0 0 3 3 3 1 0 0 2 5
+p444
+aVShawne Williams IND 01/12/2008 IND @ SAC W 19 10 3 6 50.0 1 4 25.0 3 4 75.0 1 3 4 1 0 0 1 3 3
+p445
+aVMike Dunleavy IND 01/12/2008 IND @ SAC W 41 23 9 16 56.3 3 7 42.9 2 2 100.0 2 4 6 3 2 0 4 1 3
+p446
+aVJeff Foster IND 01/12/2008 IND @ SAC W 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 5
+p447
+aVDanny Granger IND 01/12/2008 IND @ SAC W 22 14 4 12 33.3 1 4 25.0 5 6 83.3 1 2 3 1 0 0 2 5 2
+p448
+aVMarquis Daniels IND 01/12/2008 IND @ SAC W 24 12 6 9 66.7 0 1 0.0 0 0 - 2 3 5 2 2 0 1 2 1
+p449
+aVJeff Foster IND 01/09/2008 IND @ PHX L 24 6 3 3 100.0 0 0 - 0 1 0.0 4 7 11 1 0 1 1 6 -2
+p450
+aVShawne Williams IND 01/09/2008 IND @ PHX L 29 22 9 12 75.0 1 3 33.3 3 3 100.0 1 4 5 1 1 0 2 6 -6
+p451
+aVTroy Murphy IND 01/09/2008 IND @ PHX L 29 9 3 11 27.3 2 4 50.0 1 2 50.0 5 10 15 2 1 0 1 3 -5
+p452
+aVJamaal Tinsley IND 01/09/2008 IND @ PHX L 39 19 8 26 30.8 0 7 0.0 3 6 50.0 2 2 4 11 2 2 3 3 -1
+p453
+aVMike Dunleavy IND 01/09/2008 IND @ PHX L 44 14 6 9 66.7 1 3 33.3 1 1 100.0 3 4 7 2 1 1 2 4 -5
+p454
+aVKareem Rush IND 01/09/2008 IND @ PHX L 27 14 5 15 33.3 2 6 33.3 2 2 100.0 1 0 1 0 0 1 2 4 10
+p455
+aVTravis Diener IND 01/09/2008 IND @ PHX L 14 12 5 10 50.0 1 5 20.0 1 1 100.0 0 1 1 1 0 0 1 3 -6
+p456
+aVDanny Granger IND 01/09/2008 IND @ PHX L 43 22 9 18 50.0 3 8 37.5 1 1 100.0 1 10 11 1 1 0 2 3 -3
+p457
+aVMarquis Daniels IND 01/09/2008 IND @ PHX L 16 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 3 0 0 0 -17
+p458
+aVJamaal Tinsley IND 01/08/2008 IND @ UTA L 29 13 5 10 50.0 0 3 0.0 3 5 60.0 0 0 0 5 1 0 6 3 -17
+p459
+aVJeff Foster IND 01/08/2008 IND @ UTA L 24 7 2 6 33.3 0 0 - 3 5 60.0 2 6 8 3 0 0 0 2 -13
+p460
+aVShawne Williams IND 01/08/2008 IND @ UTA L 8 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 2 0 1 1 8
+p461
+aVKareem Rush IND 01/08/2008 IND @ UTA L 23 4 1 8 12.5 1 5 20.0 1 2 50.0 0 5 5 1 2 1 2 1 -13
+p462
+aVDanny Granger IND 01/08/2008 IND @ UTA L 23 17 5 7 71.4 2 4 50.0 5 7 71.4 0 7 7 1 1 0 4 4 -25
+p463
+aVDavid Harrison IND 01/08/2008 IND @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 4 -10
+p464
+aVAndre Owens IND 01/08/2008 IND @ UTA L 19 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 2 1 1 4 4 -5
+p465
+aVMike Dunleavy IND 01/08/2008 IND @ UTA L 28 12 6 10 60.0 0 2 0.0 0 0 - 2 5 7 2 1 0 2 3 -18
+p466
+aVIke Diogu IND 01/08/2008 IND @ UTA L 9 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 1 3
+p467
+aVMarquis Daniels IND 01/08/2008 IND @ UTA L 18 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 1 2 0 2 1 11
+p468
+aVTroy Murphy IND 01/08/2008 IND @ UTA L 27 3 1 8 12.5 0 4 0.0 1 2 50.0 2 3 5 2 2 0 1 2 -24
+p469
+aVJermaine O'Neal IND 01/08/2008 IND @ UTA L 30 9 4 10 40.0 0 0 - 1 3 33.3 0 4 4 0 0 2 0 2 -7
+p470
+aVTravis Diener IND 01/06/2008 IND @ LAL L 11 5 2 6 33.3 1 4 25.0 0 0 - 1 3 4 4 0 0 4 1 -1
+p471
+aVShawne Williams IND 01/06/2008 IND @ LAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p472
+aVDavid Harrison IND 01/06/2008 IND @ LAL L 11 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 0 0 2 2 2
+p473
+aVJeff Foster IND 01/06/2008 IND @ LAL L 18 6 3 4 75.0 0 0 - 0 0 - 5 4 9 4 0 0 1 1 -4
+p474
+aVTroy Murphy IND 01/06/2008 IND @ LAL L 30 7 2 8 25.0 1 3 33.3 2 2 100.0 2 12 14 4 1 1 3 4 -5
+p475
+aVDanny Granger IND 01/06/2008 IND @ LAL L 24 14 6 14 42.9 1 4 25.0 1 2 50.0 1 5 6 0 2 0 1 5 -9
+p476
+aVMarquis Daniels IND 01/06/2008 IND @ LAL L 24 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 2 2 0 3 2 -14
+p477
+aVJermaine O'Neal IND 01/06/2008 IND @ LAL L 31 13 6 14 42.9 0 0 - 1 2 50.0 1 3 4 0 0 2 2 4 -25
+p478
+aVKareem Rush IND 01/06/2008 IND @ LAL L 22 12 5 12 41.7 2 4 50.0 0 0 - 0 2 2 2 0 0 1 4 -19
+p479
+aVMike Dunleavy IND 01/06/2008 IND @ LAL L 31 17 5 14 35.7 4 7 57.1 3 3 100.0 0 5 5 1 4 1 4 2 -11
+p480
+aVAndre Owens IND 01/06/2008 IND @ LAL L 31 9 3 7 42.9 2 3 66.7 1 2 50.0 1 1 2 2 0 0 0 3 -3
+p481
+aVIke Diogu IND 01/06/2008 IND @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p482
+aVMike Dunleavy IND 01/04/2008 IND vs. ATL W 35 23 9 12 75.0 4 6 66.7 1 2 50.0 0 12 12 3 1 0 4 2 32
+p483
+aVTroy Murphy IND 01/04/2008 IND vs. ATL W 18 3 1 4 25.0 1 1 100.0 0 0 - 2 7 9 4 0 0 2 2 10
+p484
+aVShawne Williams IND 01/04/2008 IND vs. ATL W 9 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 6 1
+p485
+aVAndre Owens IND 01/04/2008 IND vs. ATL W 22 5 1 6 16.7 1 2 50.0 2 2 100.0 1 1 2 4 0 0 1 3 6
+p486
+aVMarquis Daniels IND 01/04/2008 IND vs. ATL W 30 12 4 10 40.0 0 2 0.0 4 6 66.7 0 2 2 4 3 0 1 3 11
+p487
+aVIke Diogu IND 01/04/2008 IND vs. ATL W 9 3 1 5 20.0 0 0 - 1 2 50.0 3 0 3 0 0 0 1 0 -7
+p488
+aVTravis Diener IND 01/04/2008 IND vs. ATL W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p489
+aVDanny Granger IND 01/04/2008 IND vs. ATL W 30 32 10 15 66.7 5 6 83.3 7 10 70.0 2 7 9 0 2 0 4 3 18
+p490
+aVJeff Foster IND 01/04/2008 IND vs. ATL W 13 0 0 2 0.0 0 0 - 0 0 - 3 1 4 1 0 0 1 1 10
+p491
+aVKareem Rush IND 01/04/2008 IND vs. ATL W 29 20 8 14 57.1 2 5 40.0 2 2 100.0 1 2 3 2 1 0 1 1 8
+p492
+aVDavid Harrison IND 01/04/2008 IND vs. ATL W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p493
+aVJermaine O'Neal IND 01/04/2008 IND vs. ATL W 31 11 5 10 50.0 0 0 - 1 4 25.0 1 2 3 3 0 4 1 3 28
+p494
+aVJermaine O'Neal IND 01/02/2008 IND vs. MEM L 34 4 2 11 18.2 0 0 - 0 2 0.0 4 5 9 1 1 4 2 2 -17
+p495
+aVTroy Murphy IND 01/02/2008 IND vs. MEM L 29 10 4 12 33.3 2 5 40.0 0 0 - 4 11 15 1 1 0 1 3 -17
+p496
+aVTravis Diener IND 01/02/2008 IND vs. MEM L 3 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p497
+aVJeff Foster IND 01/02/2008 IND vs. MEM L 21 13 6 9 66.7 0 0 - 1 1 100.0 5 4 9 1 0 0 0 2 4
+p498
+aVAndre Owens IND 01/02/2008 IND vs. MEM L 35 11 3 10 30.0 2 7 28.6 3 4 75.0 2 1 3 1 2 0 3 2 -11
+p499
+aVMarquis Daniels IND 01/02/2008 IND vs. MEM L 17 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 3 1 0 4 0 0
+p500
+aVDanny Granger IND 01/02/2008 IND vs. MEM L 29 6 2 9 22.2 0 3 0.0 2 2 100.0 1 0 1 3 0 1 3 3 -10
+p501
+aVIke Diogu IND 01/02/2008 IND vs. MEM L 9 4 1 4 25.0 0 0 - 2 2 100.0 2 5 7 0 0 0 1 3 -4
+p502
+aVKareem Rush IND 01/02/2008 IND vs. MEM L 25 6 3 10 30.0 0 4 0.0 0 0 - 0 1 1 1 2 1 0 1 -7
+p503
+aVMike Dunleavy IND 01/02/2008 IND vs. MEM L 39 16 6 17 35.3 1 6 16.7 3 4 75.0 1 4 5 2 3 0 3 2 -26
+p504
+aVJeff Foster IND 12/31/2007 IND @ CHA L 12 4 1 4 25.0 0 1 0.0 2 2 100.0 0 5 5 0 1 0 0 1 -5
+p505
+aVAndre Owens IND 12/31/2007 IND @ CHA L 45 15 5 9 55.6 5 6 83.3 0 0 - 1 3 4 2 2 1 0 4 0
+p506
+aVMike Dunleavy IND 12/31/2007 IND @ CHA L 34 18 7 16 43.8 2 4 50.0 2 2 100.0 1 5 6 2 0 0 7 6 4
+p507
+aVIke Diogu IND 12/31/2007 IND @ CHA L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p508
+aVDanny Granger IND 12/31/2007 IND @ CHA L 46 15 4 9 44.4 0 3 0.0 7 9 77.8 3 5 8 3 0 1 4 3 4
+p509
+aVTravis Diener IND 12/31/2007 IND @ CHA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p510
+aVMarquis Daniels IND 12/31/2007 IND @ CHA L 29 14 7 11 63.6 0 2 0.0 0 0 - 0 3 3 2 0 0 5 3 -14
+p511
+aVJermaine O'Neal IND 12/31/2007 IND @ CHA L 43 20 10 26 38.5 0 1 0.0 0 0 - 4 9 13 5 0 3 4 3 6
+p512
+aVShawne Williams IND 12/31/2007 IND @ CHA L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -12
+p513
+aVTroy Murphy IND 12/31/2007 IND @ CHA L 36 17 6 10 60.0 3 6 50.0 2 2 100.0 2 7 9 5 2 0 2 6 6
+p514
+aVIke Diogu IND 12/29/2007 IND vs. DET L 12 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -11
+p515
+aVMike Dunleavy IND 12/29/2007 IND vs. DET L 31 18 5 8 62.5 2 2 100.0 6 6 100.0 0 5 5 2 1 0 2 3 -3
+p516
+aVJermaine O'Neal IND 12/29/2007 IND vs. DET L 37 20 7 18 38.9 0 0 - 6 6 100.0 2 9 11 5 1 2 2 2 0
+p517
+aVKareem Rush IND 12/29/2007 IND vs. DET L 27 10 3 9 33.3 2 3 66.7 2 4 50.0 0 3 3 0 0 0 1 1 -4
+p518
+aVDanny Granger IND 12/29/2007 IND vs. DET L 35 15 7 11 63.6 1 3 33.3 0 0 - 1 3 4 2 2 0 1 3 -2
+p519
+aVJeff Foster IND 12/29/2007 IND vs. DET L 11 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 1 -2
+p520
+aVAndre Owens IND 12/29/2007 IND vs. DET L 23 10 3 4 75.0 2 2 100.0 2 2 100.0 1 1 2 2 0 0 2 3 -3
+p521
+aVTroy Murphy IND 12/29/2007 IND vs. DET L 36 6 3 10 30.0 0 1 0.0 0 0 - 3 2 5 4 0 0 2 3 0
+p522
+aVMarquis Daniels IND 12/29/2007 IND vs. DET L 27 9 2 6 33.3 0 1 0.0 5 8 62.5 2 5 7 3 1 0 2 3 -5
+p523
+aVTroy Murphy IND 12/28/2007 IND @ DET L 21 12 6 7 85.7 0 1 0.0 0 0 - 1 4 5 1 0 0 0 2 -4
+p524
+aVMike Dunleavy IND 12/28/2007 IND @ DET L 26 9 4 4 100.0 1 1 100.0 0 0 - 0 3 3 3 0 1 4 0 -13
+p525
+aVJeff Foster IND 12/28/2007 IND @ DET L 16 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 1 0 1 3 -9
+p526
+aVJermaine O'Neal IND 12/28/2007 IND @ DET L 30 25 8 13 61.5 0 0 - 9 12 75.0 1 5 6 4 0 3 1 2 -15
+p527
+aVAndre Owens IND 12/28/2007 IND @ DET L 19 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 2 0 1 0 1 6
+p528
+aVKareem Rush IND 12/28/2007 IND @ DET L 30 10 4 11 36.4 2 5 40.0 0 0 - 1 3 4 0 0 2 1 0 -14
+p529
+aVDanny Granger IND 12/28/2007 IND @ DET L 24 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 3 0 0 1 2 -2
+p530
+aVMarquis Daniels IND 12/28/2007 IND @ DET L 13 2 0 3 0.0 0 0 - 2 4 50.0 1 1 2 2 1 0 3 4 -5
+p531
+aVIke Diogu IND 12/28/2007 IND @ DET L 22 9 2 10 20.0 0 0 - 5 8 62.5 6 4 10 1 0 0 0 2 -6
+p532
+aVJamaal Tinsley IND 12/28/2007 IND @ DET L 18 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 1 0 3 1 -16
+p533
+aVTravis Diener IND 12/28/2007 IND @ DET L 7 11 4 5 80.0 3 4 75.0 0 0 - 0 0 0 2 0 0 0 2 8
+p534
+aVShawne Williams IND 12/28/2007 IND @ DET L 14 9 3 7 42.9 0 1 0.0 3 4 75.0 0 0 0 1 2 1 1 1 5
+p535
+aVAndre Owens IND 12/26/2007 IND @ ATL L 8 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 1 0 2 0 -1
+p536
+aVTroy Murphy IND 12/26/2007 IND @ ATL L 27 19 7 9 77.8 3 3 100.0 2 3 66.7 0 3 3 1 0 0 1 2 -3
+p537
+aVIke Diogu IND 12/26/2007 IND @ ATL L 10 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 3 0 1 1 3
+p538
+aVJeff Foster IND 12/26/2007 IND @ ATL L 18 3 1 3 33.3 0 0 - 1 2 50.0 3 3 6 1 0 0 0 3 -5
+p539
+aVKareem Rush IND 12/26/2007 IND @ ATL L 25 12 5 10 50.0 2 5 40.0 0 0 - 0 0 0 1 0 0 0 3 -8
+p540
+aVJermaine O'Neal IND 12/26/2007 IND @ ATL L 38 16 6 14 42.9 0 0 - 4 4 100.0 2 8 10 1 1 2 3 2 -15
+p541
+aVShawne Williams IND 12/26/2007 IND @ ATL L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 3
+p542
+aVDanny Granger IND 12/26/2007 IND @ ATL L 35 9 3 10 30.0 1 6 16.7 2 4 50.0 2 3 5 1 0 0 3 4 -19
+p543
+aVMike Dunleavy IND 12/26/2007 IND @ ATL L 31 11 3 6 50.0 1 2 50.0 4 6 66.7 2 4 6 4 3 0 3 6 -4
+p544
+aVJamaal Tinsley IND 12/26/2007 IND @ ATL L 40 16 6 21 28.6 0 8 0.0 4 4 100.0 0 2 2 12 1 0 5 0 -11
+p545
+aVMike Dunleavy IND 12/22/2007 IND vs. WAS W 36 11 3 13 23.1 1 5 20.0 4 6 66.7 0 2 2 7 1 2 4 3 12
+p546
+aVKareem Rush IND 12/22/2007 IND vs. WAS W 22 15 6 10 60.0 2 4 50.0 1 2 50.0 0 2 2 1 1 0 0 0 7
+p547
+aVJeff Foster IND 12/22/2007 IND vs. WAS W 24 8 4 7 57.1 0 0 - 0 0 - 3 7 10 3 2 0 0 3 14
+p548
+aVJamaal Tinsley IND 12/22/2007 IND vs. WAS W 36 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 9 0 0 1 3 -1
+p549
+aVJermaine O'Neal IND 12/22/2007 IND vs. WAS W 34 18 6 18 33.3 0 0 - 6 7 85.7 4 4 8 3 1 6 1 4 3
+p550
+aVDanny Granger IND 12/22/2007 IND vs. WAS W 37 25 9 19 47.4 4 8 50.0 3 3 100.0 2 6 8 3 1 0 1 2 1
+p551
+aVMarquis Daniels IND 12/22/2007 IND vs. WAS W 14 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 1 1 0 0 6
+p552
+aVIke Diogu IND 12/22/2007 IND vs. WAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p553
+aVShawne Williams IND 12/22/2007 IND vs. WAS W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 3
+p554
+aVTroy Murphy IND 12/22/2007 IND vs. WAS W 31 13 6 12 50.0 0 2 0.0 1 2 50.0 1 7 8 1 0 0 1 3 -6
+p555
+aVAndre Owens IND 12/21/2007 IND @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p556
+aVJamaal Tinsley IND 12/21/2007 IND @ MIN L 32 8 3 10 30.0 2 7 28.6 0 0 - 0 6 6 10 1 2 2 4 -8
+p557
+aVTravis Diener IND 12/21/2007 IND @ MIN L 3 7 2 2 100.0 1 1 100.0 2 2 100.0 1 0 1 0 0 0 1 1 3
+p558
+aVIke Diogu IND 12/21/2007 IND @ MIN L 10 10 4 6 66.7 0 0 - 2 4 50.0 1 2 3 0 1 0 0 1 1
+p559
+aVJeff Foster IND 12/21/2007 IND @ MIN L 14 4 1 3 33.3 0 0 - 2 2 100.0 4 1 5 0 1 1 1 2 -15
+p560
+aVMike Dunleavy IND 12/21/2007 IND @ MIN L 38 30 10 18 55.6 2 6 33.3 8 10 80.0 1 5 6 3 0 0 1 0 -21
+p561
+aVDanny Granger IND 12/21/2007 IND @ MIN L 29 14 5 12 41.7 2 6 33.3 2 3 66.7 0 1 1 3 2 0 1 2 -10
+p562
+aVShawne Williams IND 12/21/2007 IND @ MIN L 12 7 3 3 100.0 1 1 100.0 0 0 - 2 0 2 2 0 0 0 1 7
+p563
+aVTroy Murphy IND 12/21/2007 IND @ MIN L 25 9 3 7 42.9 1 4 25.0 2 5 40.0 1 4 5 1 0 0 1 3 4
+p564
+aVJermaine O'Neal IND 12/21/2007 IND @ MIN L 34 8 3 11 27.3 0 0 - 2 2 100.0 1 4 5 6 0 2 1 2 -18
+p565
+aVMarquis Daniels IND 12/21/2007 IND @ MIN L 21 7 2 7 28.6 0 2 0.0 3 4 75.0 1 2 3 1 2 0 2 4 1
+p566
+aVKareem Rush IND 12/21/2007 IND @ MIN L 20 14 5 11 45.5 4 8 50.0 0 0 - 1 1 2 0 0 0 0 3 -12
+p567
+aVDanny Granger IND 12/19/2007 IND vs. PHI W 43 13 6 17 35.3 1 3 33.3 0 0 - 1 7 8 1 0 1 0 1 10
+p568
+aVKareem Rush IND 12/19/2007 IND vs. PHI W 30 7 3 10 30.0 1 4 25.0 0 0 - 0 3 3 1 2 2 0 1 20
+p569
+aVMarquis Daniels IND 12/19/2007 IND vs. PHI W 33 26 11 17 64.7 3 4 75.0 1 2 50.0 1 2 3 3 1 1 4 3 18
+p570
+aVJermaine O'Neal IND 12/19/2007 IND vs. PHI W 37 19 8 17 47.1 0 0 - 3 3 100.0 1 8 9 4 0 5 2 2 3
+p571
+aVMike Dunleavy IND 12/19/2007 IND vs. PHI W 30 19 7 14 50.0 2 4 50.0 3 4 75.0 1 3 4 5 0 0 1 5 8
+p572
+aVAndre Owens IND 12/19/2007 IND vs. PHI W 18 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 3 2 0 0 1 1
+p573
+aVJeff Foster IND 12/19/2007 IND vs. PHI W 16 2 1 3 33.3 0 0 - 0 0 - 3 5 8 5 0 0 0 5 14
+p574
+aVDavid Harrison IND 12/19/2007 IND vs. PHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 3
+p575
+aVTroy Murphy IND 12/19/2007 IND vs. PHI W 29 11 5 10 50.0 1 4 25.0 0 0 - 0 2 2 5 1 0 1 4 8
+p576
+aVShawne Williams IND 12/17/2007 IND @ NYK W 4 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 0 1
+p577
+aVMarquis Daniels IND 12/17/2007 IND @ NYK W 19 14 7 12 58.3 0 0 - 0 0 - 1 3 4 3 1 0 0 2 16
+p578
+aVJeff Foster IND 12/17/2007 IND @ NYK W 23 4 2 3 66.7 0 0 - 0 0 - 4 5 9 1 2 0 0 1 22
+p579
+aVDanny Granger IND 12/17/2007 IND @ NYK W 37 16 6 12 50.0 2 5 40.0 2 2 100.0 1 8 9 2 1 2 3 2 27
+p580
+aVDavid Harrison IND 12/17/2007 IND @ NYK W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 3 2
+p581
+aVJermaine O'Neal IND 12/17/2007 IND @ NYK W 27 22 11 16 68.8 0 0 - 0 0 - 2 2 4 2 1 2 3 6 11
+p582
+aVTroy Murphy IND 12/17/2007 IND @ NYK W 33 17 6 9 66.7 5 8 62.5 0 0 - 1 8 9 2 1 0 3 3 19
+p583
+aVMike Dunleavy IND 12/17/2007 IND @ NYK W 37 36 13 18 72.2 3 5 60.0 7 7 100.0 0 7 7 4 1 0 3 2 18
+p584
+aVAndre Owens IND 12/17/2007 IND @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 1
+p585
+aVKareem Rush IND 12/17/2007 IND @ NYK W 11 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 1 1 2 0
+p586
+aVJamaal Tinsley IND 12/17/2007 IND @ NYK W 32 2 1 8 12.5 0 1 0.0 0 0 - 0 1 1 12 3 0 6 2 18
+p587
+aVDavid Harrison IND 12/15/2007 IND @ MIA W 14 5 2 4 50.0 0 0 - 1 3 33.3 0 2 2 0 0 1 1 3 -1
+p588
+aVMike Dunleavy IND 12/15/2007 IND @ MIA W 30 6 2 9 22.2 0 4 0.0 2 4 50.0 0 1 1 4 0 0 4 2 3
+p589
+aVDanny Granger IND 12/15/2007 IND @ MIA W 39 16 5 9 55.6 2 5 40.0 4 5 80.0 1 5 6 4 3 0 5 6 1
+p590
+aVJamaal Tinsley IND 12/15/2007 IND @ MIA W 38 26 10 27 37.0 3 8 37.5 3 5 60.0 0 4 4 6 0 0 5 1 3
+p591
+aVTroy Murphy IND 12/15/2007 IND @ MIA W 32 5 2 7 28.6 1 3 33.3 0 0 - 3 6 9 1 1 2 0 4 18
+p592
+aVMarquis Daniels IND 12/15/2007 IND @ MIA W 20 6 1 5 20.0 0 2 0.0 4 6 66.7 1 2 3 2 0 0 1 1 -2
+p593
+aVKareem Rush IND 12/15/2007 IND @ MIA W 18 14 6 8 75.0 2 3 66.7 0 0 - 0 1 1 1 0 0 1 3 2
+p594
+aVJermaine O'Neal IND 12/15/2007 IND @ MIA W 29 24 9 12 75.0 0 0 - 6 7 85.7 4 3 7 2 2 1 0 5 1
+p595
+aVJeff Foster IND 12/15/2007 IND @ MIA W 20 4 1 4 25.0 0 0 - 2 2 100.0 4 5 9 1 0 0 1 4 -10
+p596
+aVDavid Harrison IND 12/14/2007 IND vs. TOR L 10 8 4 8 50.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 5
+p597
+aVKareem Rush IND 12/14/2007 IND vs. TOR L 21 6 2 5 40.0 2 2 100.0 0 0 - 1 3 4 1 1 0 0 0 -19
+p598
+aVMike Dunleavy IND 12/14/2007 IND vs. TOR L 41 23 10 21 47.6 2 5 40.0 1 1 100.0 2 4 6 5 2 0 2 1 -4
+p599
+aVJeff Foster IND 12/14/2007 IND vs. TOR L 17 2 1 2 50.0 0 0 - 0 0 - 1 1 2 3 0 0 1 3 -14
+p600
+aVDanny Granger IND 12/14/2007 IND vs. TOR L 32 15 6 10 60.0 1 1 100.0 2 3 66.7 1 8 9 2 0 1 3 4 6
+p601
+aVJamaal Tinsley IND 12/14/2007 IND vs. TOR L 39 19 8 16 50.0 3 5 60.0 0 2 0.0 2 3 5 10 2 0 3 4 -5
+p602
+aVJermaine O'Neal IND 12/14/2007 IND vs. TOR L 29 13 5 11 45.5 0 0 - 3 4 75.0 0 1 1 3 0 3 4 5 -3
+p603
+aVTroy Murphy IND 12/14/2007 IND vs. TOR L 33 3 1 9 11.1 1 6 16.7 0 0 - 2 8 10 2 2 2 1 2 -1
+p604
+aVShawne Williams IND 12/14/2007 IND vs. TOR L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 3 -9
+p605
+aVMarquis Daniels IND 12/14/2007 IND vs. TOR L 12 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -11
+p606
+aVMarquis Daniels IND 12/12/2007 IND vs. CHI W 34 18 8 10 80.0 1 2 50.0 1 2 50.0 1 6 7 3 0 1 0 1 14
+p607
+aVJermaine O'Neal IND 12/12/2007 IND vs. CHI W 36 18 7 11 63.6 0 0 - 4 5 80.0 2 7 9 0 1 4 2 3 26
+p608
+aVTravis Diener IND 12/12/2007 IND vs. CHI W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p609
+aVJamaal Tinsley IND 12/12/2007 IND vs. CHI W 42 18 7 14 50.0 2 4 50.0 2 2 100.0 0 3 3 8 3 1 3 3 21
+p610
+aVShawne Williams IND 12/12/2007 IND vs. CHI W 15 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 3 0 2 2 1 4
+p611
+aVDanny Granger IND 12/12/2007 IND vs. CHI W 24 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 4 1 0 2 5 -1
+p612
+aVCourtney Sims IND 12/12/2007 IND vs. CHI W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p613
+aVTroy Murphy IND 12/12/2007 IND vs. CHI W 15 8 2 4 50.0 0 1 0.0 4 4 100.0 0 3 3 2 0 0 2 2 3
+p614
+aVAndre Owens IND 12/12/2007 IND vs. CHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p615
+aVDavid Harrison IND 12/12/2007 IND vs. CHI W 10 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 1 2 -7
+p616
+aVMike Dunleavy IND 12/12/2007 IND vs. CHI W 27 17 5 9 55.6 3 5 60.0 4 4 100.0 1 8 9 6 0 0 4 3 3
+p617
+aVKareem Rush IND 12/12/2007 IND vs. CHI W 30 22 9 13 69.2 3 6 50.0 1 1 100.0 0 2 2 3 0 0 0 2 24
+p618
+aVDanny Granger IND 12/11/2007 IND @ CLE L 39 11 3 9 33.3 2 5 40.0 3 4 75.0 1 4 5 1 1 1 2 4 -19
+p619
+aVMike Dunleavy IND 12/11/2007 IND @ CLE L 31 23 7 11 63.6 2 3 66.7 7 8 87.5 2 4 6 5 0 0 0 4 6
+p620
+aVKareem Rush IND 12/11/2007 IND @ CLE L 25 2 1 8 12.5 0 4 0.0 0 0 - 0 3 3 1 1 0 1 2 -9
+p621
+aVJermaine O'Neal IND 12/11/2007 IND @ CLE L 26 18 8 14 57.1 0 0 - 2 3 66.7 2 2 4 1 0 1 1 1 -4
+p622
+aVJamaal Tinsley IND 12/11/2007 IND @ CLE L 32 10 4 12 33.3 2 5 40.0 0 2 0.0 0 4 4 9 3 0 4 1 -17
+p623
+aVAndre Owens IND 12/11/2007 IND @ CLE L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p624
+aVMarquis Daniels IND 12/11/2007 IND @ CLE L 15 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 1 -3
+p625
+aVStephen Graham IND 12/11/2007 IND @ CLE L 6 7 3 4 75.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 1 6
+p626
+aVTroy Murphy IND 12/11/2007 IND @ CLE L 40 14 4 8 50.0 1 2 50.0 5 6 83.3 1 11 12 2 2 1 1 4 -5
+p627
+aVShawne Williams IND 12/11/2007 IND @ CLE L 19 12 4 8 50.0 1 2 50.0 3 4 75.0 1 0 1 2 1 0 3 6 -24
+p628
+aVJamaal Tinsley IND 12/07/2007 IND @ ORL W 38 20 7 13 53.8 2 4 50.0 4 4 100.0 1 6 7 10 2 0 3 4 3
+p629
+aVShawne Williams IND 12/07/2007 IND @ ORL W 20 6 1 3 33.3 0 2 0.0 4 4 100.0 1 4 5 1 1 1 1 1 4
+p630
+aVJeff Foster IND 12/07/2007 IND @ ORL W 32 10 5 8 62.5 0 0 - 0 0 - 5 3 8 1 2 0 0 2 4
+p631
+aVMarquis Daniels IND 12/07/2007 IND @ ORL W 25 13 4 8 50.0 0 0 - 5 9 55.6 0 4 4 7 1 0 2 4 7
+p632
+aVTroy Murphy IND 12/07/2007 IND @ ORL W 18 12 4 9 44.4 2 4 50.0 2 2 100.0 0 6 6 0 0 1 0 1 8
+p633
+aVMike Dunleavy IND 12/07/2007 IND @ ORL W 33 12 3 7 42.9 1 3 33.3 5 6 83.3 1 2 3 6 2 0 4 4 8
+p634
+aVJermaine O'Neal IND 12/07/2007 IND @ ORL W 36 15 6 18 33.3 0 0 - 3 4 75.0 2 4 6 3 2 2 4 4 -1
+p635
+aVDanny Granger IND 12/07/2007 IND @ ORL W 38 27 9 20 45.0 6 7 85.7 3 4 75.0 1 3 4 1 4 2 2 3 -3
+p636
+aVJermaine O'Neal IND 12/04/2007 IND vs. PHX L 35 30 14 20 70.0 0 0 - 2 2 100.0 2 9 11 0 0 2 6 3 -10
+p637
+aVDavid Harrison IND 12/04/2007 IND vs. PHX L 15 10 4 4 100.0 0 0 - 2 2 100.0 2 2 4 0 1 0 3 3 6
+p638
+aVJeff Foster IND 12/04/2007 IND vs. PHX L 25 6 3 6 50.0 0 0 - 0 1 0.0 3 9 12 3 0 0 0 3 1
+p639
+aVMike Dunleavy IND 12/04/2007 IND vs. PHX L 42 22 8 17 47.1 2 4 50.0 4 4 100.0 1 6 7 4 1 1 1 4 -7
+p640
+aVDanny Granger IND 12/04/2007 IND vs. PHX L 28 6 2 11 18.2 0 5 0.0 2 2 100.0 3 4 7 1 0 0 1 2 -17
+p641
+aVMarquis Daniels IND 12/04/2007 IND vs. PHX L 25 13 5 11 45.5 0 1 0.0 3 3 100.0 1 0 1 3 0 0 1 2 7
+p642
+aVJamaal Tinsley IND 12/04/2007 IND vs. PHX L 40 19 8 19 42.1 2 5 40.0 1 2 50.0 0 4 4 12 2 0 4 3 0
+p643
+aVKareem Rush IND 12/04/2007 IND vs. PHX L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 3
+p644
+aVShawne Williams IND 12/04/2007 IND vs. PHX L 20 11 4 11 36.4 1 4 25.0 2 3 66.7 2 2 4 0 0 0 1 3 -3
+p645
+aVDanny Granger IND 12/02/2007 IND @ LAC W 40 10 4 11 36.4 2 5 40.0 0 0 - 0 3 3 1 3 3 2 3 4
+p646
+aVJeff Foster IND 12/02/2007 IND @ LAC W 18 4 2 2 100.0 0 0 - 0 1 0.0 0 3 3 1 0 0 1 3 8
+p647
+aVKareem Rush IND 12/02/2007 IND @ LAC W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 1 -5
+p648
+aVJermaine O'Neal IND 12/02/2007 IND @ LAC W 28 20 7 18 38.9 0 0 - 6 6 100.0 4 11 15 2 1 1 0 5 23
+p649
+aVMike Dunleavy IND 12/02/2007 IND @ LAC W 35 17 5 11 45.5 2 4 50.0 5 6 83.3 0 2 2 4 0 2 2 3 17
+p650
+aVDavid Harrison IND 12/02/2007 IND @ LAC W 12 6 3 4 75.0 0 0 - 0 2 0.0 0 0 0 1 0 0 1 5 -2
+p651
+aVShawne Williams IND 12/02/2007 IND @ LAC W 28 5 2 8 25.0 0 2 0.0 1 2 50.0 5 4 9 2 1 0 3 4 -2
+p652
+aVJamaal Tinsley IND 12/02/2007 IND @ LAC W 37 29 10 20 50.0 3 3 100.0 6 6 100.0 2 5 7 7 3 0 3 0 9
+p653
+aVTroy Murphy IND 12/02/2007 IND @ LAC W 19 5 2 8 25.0 1 4 25.0 0 0 - 2 2 4 2 0 0 2 2 -17
+p654
+aVMarquis Daniels IND 12/02/2007 IND @ LAC W 13 2 1 5 20.0 0 0 - 0 0 - 1 1 2 3 0 0 2 0 -5
+p655
+aVKareem Rush IND 11/30/2007 IND @ SEA L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -8
+p656
+aVJermaine O'Neal IND 11/30/2007 IND @ SEA L 27 12 4 10 40.0 0 0 - 4 4 100.0 4 6 10 2 1 1 1 3 -11
+p657
+aVAndre Owens IND 11/30/2007 IND @ SEA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p658
+aVDavid Harrison IND 11/30/2007 IND @ SEA L 18 10 5 9 55.6 0 0 - 0 1 0.0 0 1 1 0 0 3 1 5 10
+p659
+aVDanny Granger IND 11/30/2007 IND @ SEA L 41 21 4 18 22.2 1 7 14.3 12 15 80.0 1 6 7 0 1 1 2 3 0
+p660
+aVJamaal Tinsley IND 11/30/2007 IND @ SEA L 38 6 2 6 33.3 1 4 25.0 1 2 50.0 0 1 1 10 3 0 4 1 11
+p661
+aVTroy Murphy IND 11/30/2007 IND @ SEA L 24 9 4 13 30.8 1 5 20.0 0 0 - 0 6 6 3 2 1 0 2 -10
+p662
+aVMike Dunleavy IND 11/30/2007 IND @ SEA L 34 14 6 15 40.0 2 3 66.7 0 0 - 0 5 5 4 3 0 3 2 12
+p663
+aVJeff Foster IND 11/30/2007 IND @ SEA L 23 8 4 7 57.1 0 1 0.0 0 0 - 5 9 14 2 0 0 2 2 -1
+p664
+aVTravis Diener IND 11/30/2007 IND @ SEA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p665
+aVShawne Williams IND 11/30/2007 IND @ SEA L 17 13 4 10 40.0 1 5 20.0 4 6 66.7 2 1 3 0 0 1 1 1 0
+p666
+aVJamaal Tinsley IND 11/28/2007 IND @ POR W 41 15 4 16 25.0 1 8 12.5 6 6 100.0 1 5 6 10 5 0 6 2 10
+p667
+aVDavid Harrison IND 11/28/2007 IND @ POR W 15 3 1 2 50.0 0 0 - 1 4 25.0 1 1 2 0 0 1 1 4 -6
+p668
+aVTravis Diener IND 11/28/2007 IND @ POR W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -1
+p669
+aVShawne Williams IND 11/28/2007 IND @ POR W 20 6 3 5 60.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 3 -1
+p670
+aVKareem Rush IND 11/28/2007 IND @ POR W 21 9 4 10 40.0 1 3 33.3 0 0 - 0 3 3 2 0 0 1 1 17
+p671
+aVMike Dunleavy IND 11/28/2007 IND @ POR W 37 20 7 12 58.3 2 5 40.0 4 4 100.0 3 8 11 2 3 0 4 0 4
+p672
+aVJeff Foster IND 11/28/2007 IND @ POR W 37 11 5 9 55.6 0 0 - 1 4 25.0 8 9 17 3 0 1 0 2 13
+p673
+aVDanny Granger IND 11/28/2007 IND @ POR W 40 23 7 16 43.8 2 6 33.3 7 8 87.5 1 3 4 3 1 3 2 3 -9
+p674
+aVMarquis Daniels IND 11/28/2007 IND @ POR W 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -3
+p675
+aVTroy Murphy IND 11/28/2007 IND @ POR W 20 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 2 0 0 1 2 6
+p676
+aVJeff Foster IND 11/27/2007 IND @ DEN W 29 6 3 6 50.0 0 0 - 0 0 - 3 7 10 0 1 0 1 2 4
+p677
+aVDavid Harrison IND 11/27/2007 IND @ DEN W 18 4 2 6 33.3 0 0 - 0 2 0.0 1 2 3 3 1 1 2 2 5
+p678
+aVKareem Rush IND 11/27/2007 IND @ DEN W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 3
+p679
+aVJamaal Tinsley IND 11/27/2007 IND @ DEN W 39 15 5 11 45.5 1 2 50.0 4 6 66.7 0 8 8 11 4 1 6 4 11
+p680
+aVMike Dunleavy IND 11/27/2007 IND @ DEN W 33 30 12 19 63.2 2 5 40.0 4 6 66.7 0 4 4 3 0 0 2 3 6
+p681
+aVShawne Williams IND 11/27/2007 IND @ DEN W 32 21 6 12 50.0 2 7 28.6 7 10 70.0 1 10 11 3 0 1 1 2 4
+p682
+aVTroy Murphy IND 11/27/2007 IND @ DEN W 19 10 4 6 66.7 0 1 0.0 2 2 100.0 1 7 8 2 0 2 3 2 3
+p683
+aVMarquis Daniels IND 11/27/2007 IND @ DEN W 31 15 7 16 43.8 0 1 0.0 1 2 50.0 2 3 5 8 0 1 4 4 -9
+p684
+aVTravis Diener IND 11/27/2007 IND @ DEN W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -9
+p685
+aVDanny Granger IND 11/27/2007 IND @ DEN W 29 9 4 11 36.4 1 2 50.0 0 0 - 4 5 9 0 0 2 5 6 -8
+p686
+aVMarquis Daniels IND 11/25/2007 IND vs. CLE L 24 25 9 12 75.0 0 0 - 7 8 87.5 2 1 3 1 0 0 0 0 12
+p687
+aVDanny Granger IND 11/25/2007 IND vs. CLE L 42 21 7 15 46.7 1 4 25.0 6 8 75.0 1 3 4 3 1 1 4 5 8
+p688
+aVMike Dunleavy IND 11/25/2007 IND vs. CLE L 31 8 3 5 60.0 2 2 100.0 0 0 - 0 4 4 1 0 0 0 2 -22
+p689
+aVJamaal Tinsley IND 11/25/2007 IND vs. CLE L 40 24 7 20 35.0 1 4 25.0 9 11 81.8 1 8 9 10 1 1 8 1 -14
+p690
+aVTroy Murphy IND 11/25/2007 IND vs. CLE L 24 3 1 10 10.0 0 3 0.0 1 2 50.0 0 3 3 1 1 0 0 3 -9
+p691
+aVShawne Williams IND 11/25/2007 IND vs. CLE L 20 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 0 1 0 1 1 11
+p692
+aVJeff Foster IND 11/25/2007 IND vs. CLE L 35 9 3 6 50.0 0 0 - 3 4 75.0 3 6 9 1 1 1 2 2 -16
+p693
+aVDavid Harrison IND 11/25/2007 IND vs. CLE L 24 11 3 7 42.9 0 0 - 5 8 62.5 2 5 7 0 2 1 1 6 5
+p694
+aVTravis Diener IND 11/23/2007 IND vs. DAL W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 -2
+p695
+aVTroy Murphy IND 11/23/2007 IND vs. DAL W 37 18 6 15 40.0 2 4 50.0 4 4 100.0 2 6 8 1 0 0 2 5 7
+p696
+aVMike Dunleavy IND 11/23/2007 IND vs. DAL W 27 17 6 11 54.5 1 2 50.0 4 4 100.0 2 2 4 0 3 1 1 6 4
+p697
+aVDavid Harrison IND 11/23/2007 IND vs. DAL W 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 3 1 4 1
+p698
+aVJeff Foster IND 11/23/2007 IND vs. DAL W 42 10 5 9 55.6 0 1 0.0 0 0 - 5 6 11 0 0 0 2 3 -1
+p699
+aVJamaal Tinsley IND 11/23/2007 IND vs. DAL W 41 24 10 24 41.7 0 3 0.0 4 6 66.7 3 3 6 6 2 0 5 3 6
+p700
+aVShawne Williams IND 11/23/2007 IND vs. DAL W 18 10 3 6 50.0 2 3 66.7 2 4 50.0 0 3 3 0 1 0 0 1 5
+p701
+aVKareem Rush IND 11/23/2007 IND vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p702
+aVDanny Granger IND 11/23/2007 IND vs. DAL W 36 25 7 11 63.6 0 0 - 11 13 84.6 2 4 6 2 1 2 0 3 1
+p703
+aVMarquis Daniels IND 11/23/2007 IND vs. DAL W 18 5 1 5 20.0 0 0 - 3 4 75.0 0 3 3 1 1 0 0 1 0
+p704
+aVJamaal Tinsley IND 11/21/2007 IND @ NOH W 38 18 7 17 41.2 1 5 20.0 3 3 100.0 1 2 3 13 2 0 2 2 8
+p705
+aVDavid Harrison IND 11/21/2007 IND @ NOH W 22 10 4 6 66.7 0 0 - 2 5 40.0 0 4 4 1 1 1 0 3 17
+p706
+aVTroy Murphy IND 11/21/2007 IND @ NOH W 38 23 7 16 43.8 3 5 60.0 6 7 85.7 2 7 9 3 1 1 1 5 5
+p707
+aVJeff Foster IND 11/21/2007 IND @ NOH W 36 8 4 6 66.7 0 0 - 0 0 - 4 9 13 3 1 1 0 2 2
+p708
+aVKareem Rush IND 11/21/2007 IND @ NOH W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p709
+aVMike Dunleavy IND 11/21/2007 IND @ NOH W 37 18 8 16 50.0 2 5 40.0 0 0 - 1 6 7 4 0 0 1 0 7
+p710
+aVMarquis Daniels IND 11/21/2007 IND @ NOH W 12 4 1 4 25.0 0 1 0.0 2 4 50.0 1 1 2 0 1 0 2 0 5
+p711
+aVDanny Granger IND 11/21/2007 IND @ NOH W 35 22 9 17 52.9 3 7 42.9 1 1 100.0 2 7 9 1 0 1 0 3 14
+p712
+aVShawne Williams IND 11/21/2007 IND @ NOH W 16 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 0 0 0 1 0 6
+p713
+aVMike Dunleavy IND 11/20/2007 IND vs. LAL L 22 6 1 5 20.0 0 2 0.0 4 5 80.0 0 1 1 5 0 0 1 2 -1
+p714
+aVShawne Williams IND 11/20/2007 IND vs. LAL L 25 24 8 11 72.7 3 5 60.0 5 5 100.0 1 2 3 0 1 0 1 2 -16
+p715
+aVTroy Murphy IND 11/20/2007 IND vs. LAL L 25 7 3 11 27.3 1 6 16.7 0 0 - 1 11 12 3 0 0 0 2 -10
+p716
+aVMarquis Daniels IND 11/20/2007 IND vs. LAL L 18 11 4 13 30.8 0 1 0.0 3 5 60.0 2 0 2 2 1 0 0 2 -12
+p717
+aVJermaine O'Neal IND 11/20/2007 IND vs. LAL L 27 14 4 13 30.8 0 0 - 6 9 66.7 3 0 3 2 0 0 1 3 -24
+p718
+aVJamaal Tinsley IND 11/20/2007 IND vs. LAL L 34 10 5 12 41.7 0 4 0.0 0 1 0.0 0 2 2 10 1 0 2 2 -15
+p719
+aVJeff Foster IND 11/20/2007 IND vs. LAL L 16 6 2 6 33.3 0 0 - 2 2 100.0 6 6 12 0 0 0 0 2 -5
+p720
+aVDavid Harrison IND 11/20/2007 IND vs. LAL L 19 12 6 10 60.0 0 0 - 0 1 0.0 3 1 4 0 1 1 0 4 6
+p721
+aVDanny Granger IND 11/20/2007 IND vs. LAL L 29 17 6 11 54.5 1 3 33.3 4 4 100.0 2 4 6 3 0 1 1 3 -16
+p722
+aVKareem Rush IND 11/20/2007 IND vs. LAL L 13 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 1 1 1 0 0 -4
+p723
+aVCourtney Sims IND 11/20/2007 IND vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p724
+aVTravis Diener IND 11/20/2007 IND vs. LAL L 8 5 2 5 40.0 1 4 25.0 0 0 - 0 0 0 1 0 0 1 4 -1
+p725
+aVKareem Rush IND 11/17/2007 IND vs. UTA W 12 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 1 1 0 1 1 8
+p726
+aVJeff Foster IND 11/17/2007 IND vs. UTA W 26 5 2 2 100.0 0 0 - 1 2 50.0 2 7 9 3 1 0 0 3 22
+p727
+aVAndre Owens IND 11/17/2007 IND vs. UTA W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p728
+aVTravis Diener IND 11/17/2007 IND vs. UTA W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p729
+aVDanny Granger IND 11/17/2007 IND vs. UTA W 26 19 6 10 60.0 2 4 50.0 5 6 83.3 0 2 2 1 1 0 0 4 -10
+p730
+aVShawne Williams IND 11/17/2007 IND vs. UTA W 25 16 7 11 63.6 2 5 40.0 0 2 0.0 4 4 8 1 2 3 3 3 31
+p731
+aVJermaine O'Neal IND 11/17/2007 IND vs. UTA W 26 8 4 10 40.0 0 0 - 0 2 0.0 1 4 5 1 0 3 4 3 20
+p732
+aVDavid Harrison IND 11/17/2007 IND vs. UTA W 13 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 5 1
+p733
+aVJamaal Tinsley IND 11/17/2007 IND vs. UTA W 31 8 3 5 60.0 2 3 66.7 0 0 - 0 3 3 13 2 0 1 2 21
+p734
+aVTroy Murphy IND 11/17/2007 IND vs. UTA W 25 5 1 4 25.0 0 2 0.0 3 4 75.0 0 3 3 5 1 0 3 6 -5
+p735
+aVMike Dunleavy IND 11/17/2007 IND vs. UTA W 32 25 9 17 52.9 3 6 50.0 4 4 100.0 1 2 3 1 3 0 0 0 19
+p736
+aVMarquis Daniels IND 11/17/2007 IND vs. UTA W 15 17 7 8 87.5 1 1 100.0 2 2 100.0 0 1 1 1 0 1 3 0 2
+p737
+aVJamaal Tinsley IND 11/16/2007 IND @ TOR L 35 20 8 13 61.5 3 7 42.9 1 2 50.0 1 2 3 5 2 0 2 2 -1
+p738
+aVMike Dunleavy IND 11/16/2007 IND @ TOR L 37 13 4 14 28.6 1 6 16.7 4 4 100.0 2 5 7 2 1 0 1 1 -3
+p739
+aVKareem Rush IND 11/16/2007 IND @ TOR L 11 6 3 7 42.9 0 2 0.0 0 0 - 1 3 4 0 0 0 0 1 0
+p740
+aVTroy Murphy IND 11/16/2007 IND @ TOR L 26 20 7 10 70.0 3 4 75.0 3 4 75.0 2 5 7 1 0 0 1 2 -5
+p741
+aVJeff Foster IND 11/16/2007 IND @ TOR L 26 6 2 7 28.6 0 0 - 2 4 50.0 4 5 9 0 0 0 0 3 -2
+p742
+aVTravis Diener IND 11/16/2007 IND @ TOR L 14 10 3 5 60.0 2 3 66.7 2 2 100.0 0 2 2 3 0 0 2 3 -8
+p743
+aVShawne Williams IND 11/16/2007 IND @ TOR L 15 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 2 0 -12
+p744
+aVJermaine O'Neal IND 11/16/2007 IND @ TOR L 34 14 6 12 50.0 0 0 - 2 2 100.0 3 3 6 7 1 1 7 4 0
+p745
+aVDanny Granger IND 11/16/2007 IND @ TOR L 38 12 3 12 25.0 1 5 20.0 5 5 100.0 2 6 8 3 2 3 1 3 -5
+p746
+aVDavid Harrison IND 11/16/2007 IND @ TOR L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 2 0 1 -9
+p747
+aVDanny Granger IND 11/14/2007 IND @ WAS L 37 11 4 13 30.8 1 5 20.0 2 2 100.0 0 4 4 4 1 2 5 5 -17
+p748
+aVShawne Williams IND 11/14/2007 IND @ WAS L 24 10 3 10 30.0 1 3 33.3 3 4 75.0 2 1 3 1 0 0 1 3 -8
+p749
+aVJamaal Tinsley IND 11/14/2007 IND @ WAS L 23 15 5 12 41.7 2 4 50.0 3 3 100.0 0 1 1 3 1 0 5 3 -3
+p750
+aVDavid Harrison IND 11/14/2007 IND @ WAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p751
+aVJeff Foster IND 11/14/2007 IND @ WAS L 33 4 2 5 40.0 0 0 - 0 0 - 3 11 14 1 0 0 0 3 -16
+p752
+aVMike Dunleavy IND 11/14/2007 IND @ WAS L 30 11 3 7 42.9 1 3 33.3 4 5 80.0 1 4 5 3 1 0 0 3 -10
+p753
+aVKareem Rush IND 11/14/2007 IND @ WAS L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 5
+p754
+aVTravis Diener IND 11/14/2007 IND @ WAS L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 1 0 0 -4
+p755
+aVJermaine O'Neal IND 11/14/2007 IND @ WAS L 39 17 7 19 36.8 0 2 0.0 3 4 75.0 4 5 9 2 1 3 1 4 0
+p756
+aVMarquis Daniels IND 11/14/2007 IND @ WAS L 32 19 8 13 61.5 2 3 66.7 1 1 100.0 2 0 2 1 3 0 2 2 -4
+p757
+aVDavid Harrison IND 11/13/2007 IND vs. BOS L 7 5 2 3 66.7 0 0 - 1 4 25.0 2 1 3 0 0 0 1 3 -6
+p758
+aVShawne Williams IND 11/13/2007 IND vs. BOS L 24 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 2 0 0 1 6 -14
+p759
+aVMike Dunleavy IND 11/13/2007 IND vs. BOS L 24 8 3 12 25.0 0 3 0.0 2 2 100.0 3 4 7 0 0 0 2 5 0
+p760
+aVTravis Diener IND 11/13/2007 IND vs. BOS L 17 2 1 6 16.7 0 4 0.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p761
+aVKareem Rush IND 11/13/2007 IND vs. BOS L 21 5 1 6 16.7 1 3 33.3 2 2 100.0 0 1 1 0 1 0 2 3 -11
+p762
+aVJermaine O'Neal IND 11/13/2007 IND vs. BOS L 34 10 4 13 30.8 0 0 - 2 2 100.0 4 5 9 2 0 1 3 5 -1
+p763
+aVTroy Murphy IND 11/13/2007 IND vs. BOS L 21 6 0 7 0.0 0 2 0.0 6 6 100.0 4 2 6 2 0 0 3 3 -10
+p764
+aVDanny Granger IND 11/13/2007 IND vs. BOS L 34 24 8 10 80.0 5 5 100.0 3 4 75.0 1 6 7 0 0 1 5 5 -1
+p765
+aVAndre Owens IND 11/13/2007 IND vs. BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p766
+aVJamaal Tinsley IND 11/13/2007 IND vs. BOS L 31 14 5 12 41.7 1 4 25.0 3 4 75.0 1 3 4 8 0 0 4 4 -3
+p767
+aVJeff Foster IND 11/13/2007 IND vs. BOS L 25 7 3 6 50.0 0 0 - 1 2 50.0 1 6 7 2 1 0 0 0 -10
+p768
+aVStephen Graham IND 11/13/2007 IND vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p769
+aVTravis Diener IND 11/10/2007 IND vs. DEN L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p770
+aVMike Dunleavy IND 11/10/2007 IND vs. DEN L 32 17 7 11 63.6 2 4 50.0 1 2 50.0 1 5 6 4 1 1 3 2 -8
+p771
+aVDavid Harrison IND 11/10/2007 IND vs. DEN L 5 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 3 2 2
+p772
+aVDanny Granger IND 11/10/2007 IND vs. DEN L 32 13 6 18 33.3 0 6 0.0 1 1 100.0 2 2 4 2 0 0 1 6 -21
+p773
+aVJeff Foster IND 11/10/2007 IND vs. DEN L 22 9 4 6 66.7 0 0 - 1 4 25.0 2 5 7 3 1 0 0 1 4
+p774
+aVJamaal Tinsley IND 11/10/2007 IND vs. DEN L 35 11 5 15 33.3 1 5 20.0 0 0 - 3 4 7 10 3 0 5 4 0
+p775
+aVShawne Williams IND 11/10/2007 IND vs. DEN L 17 12 5 8 62.5 2 3 66.7 0 0 - 2 0 2 0 2 0 1 5 3
+p776
+aVMarquis Daniels IND 11/10/2007 IND vs. DEN L 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -5
+p777
+aVTroy Murphy IND 11/10/2007 IND vs. DEN L 30 18 5 10 50.0 3 7 42.9 5 7 71.4 1 9 10 3 0 1 0 2 -13
+p778
+aVJermaine O'Neal IND 11/10/2007 IND vs. DEN L 36 15 5 14 35.7 0 1 0.0 5 8 62.5 3 9 12 4 1 1 4 4 -7
+p779
+aVKareem Rush IND 11/10/2007 IND vs. DEN L 16 6 3 7 42.9 0 3 0.0 0 0 - 0 2 2 3 2 0 2 0 12
+p780
+aVDavid Harrison IND 11/09/2007 IND @ CHA L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 5 -5
+p781
+aVJeff Foster IND 11/09/2007 IND @ CHA L 27 6 2 4 50.0 0 0 - 2 2 100.0 6 6 12 1 0 1 1 3 15
+p782
+aVTroy Murphy IND 11/09/2007 IND @ CHA L 24 16 6 9 66.7 2 5 40.0 2 2 100.0 0 5 5 0 1 0 1 2 -8
+p783
+aVJermaine O'Neal IND 11/09/2007 IND @ CHA L 29 18 8 16 50.0 0 0 - 2 3 66.7 2 6 8 0 0 1 4 5 -21
+p784
+aVMike Dunleavy IND 11/09/2007 IND @ CHA L 29 10 3 8 37.5 1 1 100.0 3 3 100.0 0 3 3 1 1 0 2 2 3
+p785
+aVDanny Granger IND 11/09/2007 IND @ CHA L 37 15 6 15 40.0 0 4 0.0 3 6 50.0 1 4 5 3 0 1 2 3 -11
+p786
+aVShawne Williams IND 11/09/2007 IND @ CHA L 27 14 5 10 50.0 3 4 75.0 1 4 25.0 1 2 3 1 3 0 2 2 -7
+p787
+aVJamaal Tinsley IND 11/09/2007 IND @ CHA L 29 6 3 12 25.0 0 2 0.0 0 0 - 0 2 2 8 1 0 2 4 -3
+p788
+aVKareem Rush IND 11/09/2007 IND @ CHA L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p789
+aVTravis Diener IND 11/09/2007 IND @ CHA L 19 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 2 0 0 0 1 -6
+p790
+aVJeff Foster IND 11/07/2007 IND vs. LAC L 25 10 3 6 50.0 0 0 - 4 4 100.0 1 5 6 0 1 1 0 2 -11
+p791
+aVMarquis Daniels IND 11/07/2007 IND vs. LAC L 13 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 1 -9
+p792
+aVTroy Murphy IND 11/07/2007 IND vs. LAC L 22 10 3 10 30.0 2 5 40.0 2 2 100.0 0 4 4 0 0 0 0 1 -4
+p793
+aVKareem Rush IND 11/07/2007 IND vs. LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p794
+aVShawne Williams IND 11/07/2007 IND vs. LAC L 15 4 2 2 100.0 0 0 - 0 0 - 1 3 4 3 0 0 1 3 9
+p795
+aVAndre Owens IND 11/07/2007 IND vs. LAC L 6 4 1 3 33.3 0 0 - 2 4 50.0 1 1 2 0 0 0 2 0 5
+p796
+aVDanny Granger IND 11/07/2007 IND vs. LAC L 36 16 6 17 35.3 0 3 0.0 4 6 66.7 3 1 4 4 1 2 5 4 -17
+p797
+aVMike Dunleavy IND 11/07/2007 IND vs. LAC L 34 15 6 14 42.9 1 2 50.0 2 2 100.0 1 7 8 0 0 0 0 4 -17
+p798
+aVJermaine O'Neal IND 11/07/2007 IND vs. LAC L 28 13 6 14 42.9 0 0 - 1 1 100.0 1 4 5 5 0 0 2 2 -18
+p799
+aVDavid Harrison IND 11/07/2007 IND vs. LAC L 18 4 1 3 33.3 0 0 - 2 3 66.7 1 3 4 2 0 2 2 2 2
+p800
+aVJamaal Tinsley IND 11/07/2007 IND vs. LAC L 29 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 2 2 1 3 3 -22
+p801
+aVTravis Diener IND 11/07/2007 IND vs. LAC L 11 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 5 1 0 0 2 3
+p802
+aVDavid Harrison IND 11/03/2007 IND @ MEM W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 6 -4
+p803
+aVDanny Granger IND 11/03/2007 IND @ MEM W 34 23 6 16 37.5 1 5 20.0 10 11 90.9 1 3 4 1 2 0 1 4 6
+p804
+aVIke Diogu IND 11/03/2007 IND @ MEM W 22 12 4 5 80.0 0 0 - 4 4 100.0 1 3 4 2 1 0 2 5 -11
+p805
+aVTravis Diener IND 11/03/2007 IND @ MEM W 12 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 3 0 0 0 3 2
+p806
+aVJeff Foster IND 11/03/2007 IND @ MEM W 20 4 2 4 50.0 0 0 - 0 0 - 2 5 7 2 3 0 1 5 14
+p807
+aVJermaine O'Neal IND 11/03/2007 IND @ MEM W 25 13 6 14 42.9 0 0 - 1 2 50.0 2 3 5 1 0 1 2 2 20
+p808
+aVMarquis Daniels IND 11/03/2007 IND @ MEM W 20 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 1 0 2 1 3
+p809
+aVAndre Owens IND 11/03/2007 IND @ MEM W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 2 0 0 2 -5
+p810
+aVJamaal Tinsley IND 11/03/2007 IND @ MEM W 36 14 6 15 40.0 1 4 25.0 1 2 50.0 1 2 3 7 0 1 3 5 8
+p811
+aVStephen Graham IND 11/03/2007 IND @ MEM W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p812
+aVMike Dunleavy IND 11/03/2007 IND @ MEM W 36 27 11 17 64.7 0 4 0.0 5 6 83.3 1 7 8 4 0 1 2 3 13
+p813
+aVKareem Rush IND 11/03/2007 IND @ MEM W 15 12 4 4 100.0 2 2 100.0 2 2 100.0 0 2 2 1 0 0 2 2 2
+p814
+aVTravis Diener IND 11/02/2007 IND vs. MIA W 13 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 2 0 -7
+p815
+aVMarquis Daniels IND 11/02/2007 IND vs. MIA W 23 0 0 7 0.0 0 1 0.0 0 0 - 2 2 4 1 3 2 1 0 -6
+p816
+aVJamaal Tinsley IND 11/02/2007 IND vs. MIA W 33 5 2 12 16.7 0 1 0.0 1 2 50.0 2 4 6 10 0 0 2 1 10
+p817
+aVDavid Harrison IND 11/02/2007 IND vs. MIA W 21 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 0 0 4 0 5 -7
+p818
+aVDanny Granger IND 11/02/2007 IND vs. MIA W 34 25 10 13 76.9 4 6 66.7 1 2 50.0 0 9 9 0 1 2 1 1 12
+p819
+aVJeff Foster IND 11/02/2007 IND vs. MIA W 16 6 2 2 100.0 0 0 - 2 4 50.0 1 3 4 0 0 1 1 4 -4
+p820
+aVIke Diogu IND 11/02/2007 IND vs. MIA W 26 16 7 12 58.3 0 0 - 2 2 100.0 2 4 6 1 1 1 2 1 -6
+p821
+aVKareem Rush IND 11/02/2007 IND vs. MIA W 10 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 0 0 0 0 0 5
+p822
+aVJermaine O'Neal IND 11/02/2007 IND vs. MIA W 24 10 2 9 22.2 0 0 - 6 8 75.0 4 5 9 7 2 3 3 6 7
+p823
+aVAndre Owens IND 11/02/2007 IND vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p824
+aVMike Dunleavy IND 11/02/2007 IND vs. MIA W 38 15 7 17 41.2 1 1 100.0 0 1 0.0 0 7 7 3 2 0 2 0 7
+p825
+aVDavid Harrison IND 10/31/2007 IND vs. WAS W 31 13 4 5 80.0 0 0 - 5 5 100.0 3 2 5 1 4 3 3 5 28
+p826
+aVKareem Rush IND 10/31/2007 IND vs. WAS W 10 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 1 2
+p827
+aVJamaal Tinsley IND 10/31/2007 IND vs. WAS W 38 20 6 15 40.0 2 5 40.0 6 8 75.0 2 7 9 8 3 0 1 4 6
+p828
+aVMarquis Daniels IND 10/31/2007 IND vs. WAS W 20 9 3 8 37.5 1 3 33.3 2 2 100.0 1 1 2 1 0 1 1 2 8
+p829
+aVCourtney Sims IND 10/31/2007 IND vs. WAS W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 5
+p830
+aVAndre Owens IND 10/31/2007 IND vs. WAS W 10 5 0 1 0.0 0 0 - 5 6 83.3 1 2 3 2 0 0 0 1 5
+p831
+aVDanny Granger IND 10/31/2007 IND vs. WAS W 36 20 7 17 41.2 5 9 55.6 1 2 50.0 3 10 13 1 2 2 5 5 2
+p832
+aVJeff Foster IND 10/31/2007 IND vs. WAS W 29 6 3 8 37.5 0 0 - 0 0 - 2 4 6 1 1 0 2 6 -11
+p833
+aVIke Diogu IND 10/31/2007 IND vs. WAS W 23 13 5 11 45.5 0 0 - 3 3 100.0 1 2 3 0 0 0 2 4 -12
+p834
+aVTravis Diener IND 10/31/2007 IND vs. WAS W 15 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 2 1 0 2 2 3
+p835
+aVMike Dunleavy IND 10/31/2007 IND vs. WAS W 46 25 7 17 41.2 3 5 60.0 8 10 80.0 1 11 12 4 0 0 1 1 9
+p836
+a.

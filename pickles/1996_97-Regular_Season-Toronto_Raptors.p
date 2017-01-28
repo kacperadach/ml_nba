@@ -1,0 +1,1572 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPopeye Jones TOR 04/20/1997 TOR @ BOS W 37 17 7 9 77.8 0 0 - 3 6 50.0 5 7 12 3 1 2 1 5 32
+p2
+aVJohn Long TOR 04/20/1997 TOR @ BOS W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p3
+aVShawn Respert TOR 04/20/1997 TOR @ BOS W 11 5 2 2 100.0 1 1 100.0 0 0 - 1 1 2 4 2 0 2 0 10
+p4
+aVDoug Christie TOR 04/20/1997 TOR @ BOS W 39 27 8 19 42.1 3 9 33.3 8 8 100.0 0 1 1 5 3 1 0 2 30
+p5
+aVWalt Williams TOR 04/20/1997 TOR @ BOS W 29 7 3 9 33.3 1 2 50.0 0 0 - 0 3 3 2 2 1 1 5 20
+p6
+aVMarcus Camby TOR 04/20/1997 TOR @ BOS W 29 14 7 11 63.6 0 0 - 0 1 0.0 0 5 5 2 3 0 1 3 19
+p7
+aVReggie Slater TOR 04/20/1997 TOR @ BOS W 33 21 9 15 60.0 0 1 0.0 3 5 60.0 0 4 4 0 1 1 0 3 22
+p8
+aVClifford Rozier TOR 04/20/1997 TOR @ BOS W 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p9
+aVDamon Stoudamire TOR 04/20/1997 TOR @ BOS W 37 32 12 23 52.2 3 8 37.5 5 5 100.0 1 4 5 6 3 0 0 0 21
+p10
+aVSharone Wright TOR 04/20/1997 TOR @ BOS W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 2 0
+p11
+aVClifford Rozier TOR 04/18/1997 TOR @ CHH W 18 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 0 0 1 0 2 12
+p12
+aVSharone Wright TOR 04/18/1997 TOR @ CHH W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p13
+aVPopeye Jones TOR 04/18/1997 TOR @ CHH W 28 6 3 5 60.0 0 0 - 0 0 - 3 5 8 2 1 0 2 2 -8
+p14
+aVWalt Williams TOR 04/18/1997 TOR @ CHH W 31 11 5 11 45.5 1 5 20.0 0 0 - 0 1 1 2 1 0 4 4 9
+p15
+aVDoug Christie TOR 04/18/1997 TOR @ CHH W 45 23 9 19 47.4 4 9 44.4 1 2 50.0 3 2 5 1 6 0 1 4 11
+p16
+aVDamon Stoudamire TOR 04/18/1997 TOR @ CHH W 45 28 8 20 40.0 1 6 16.7 11 12 91.7 1 4 5 9 1 0 5 1 12
+p17
+aVReggie Slater TOR 04/18/1997 TOR @ CHH W 29 12 5 8 62.5 0 0 - 2 2 100.0 1 5 6 3 1 0 0 3 -3
+p18
+aVMarcus Camby TOR 04/18/1997 TOR @ CHH W 41 20 8 14 57.1 0 0 - 4 4 100.0 4 4 8 2 1 2 3 5 12
+p19
+aVShawn Respert TOR 04/15/1997 TOR @ MIL L 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 1 1 0 5
+p20
+aVReggie Slater TOR 04/15/1997 TOR @ MIL L 31 19 9 18 50.0 0 0 - 1 1 100.0 2 3 5 2 1 1 3 3 -12
+p21
+aVCarlos Rogers TOR 04/15/1997 TOR @ MIL L 26 4 2 4 50.0 0 0 - 0 0 - 4 2 6 0 0 0 0 4 -9
+p22
+aVDoug Christie TOR 04/15/1997 TOR @ MIL L 35 14 4 8 50.0 1 5 20.0 5 6 83.3 1 1 2 0 1 0 1 3 -8
+p23
+aVPopeye Jones TOR 04/15/1997 TOR @ MIL L 25 2 1 10 10.0 0 0 - 0 0 - 4 0 4 0 0 0 1 0 -4
+p24
+aVDamon Stoudamire TOR 04/15/1997 TOR @ MIL L 39 11 4 15 26.7 1 4 25.0 2 2 100.0 1 3 4 11 4 0 4 3 -7
+p25
+aVClifford Rozier TOR 04/15/1997 TOR @ MIL L 20 9 3 5 60.0 0 0 - 3 4 75.0 4 9 13 1 1 1 2 3 0
+p26
+aVWalt Williams TOR 04/15/1997 TOR @ MIL L 13 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 3 5
+p27
+aVMarcus Camby TOR 04/15/1997 TOR @ MIL L 41 18 8 18 44.4 0 0 - 2 3 66.7 3 3 6 1 1 0 2 2 -5
+p28
+aVPopeye Jones TOR 04/14/1997 TOR @ CHI L 28 9 4 9 44.4 0 0 - 1 2 50.0 6 4 10 2 0 0 3 1 -16
+p29
+aVJohn Long TOR 04/14/1997 TOR @ CHI L 12 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 1 0 1 0 4
+p30
+aVDoug Christie TOR 04/14/1997 TOR @ CHI L 32 15 5 11 45.5 2 5 40.0 3 3 100.0 0 2 2 1 1 0 2 1 -20
+p31
+aVClifford Rozier TOR 04/14/1997 TOR @ CHI L 21 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 1 1 0 1 -16
+p32
+aVMarcus Camby TOR 04/14/1997 TOR @ CHI L 21 4 1 8 12.5 0 0 - 2 2 100.0 0 4 4 2 0 1 1 2 -13
+p33
+aVDamon Stoudamire TOR 04/14/1997 TOR @ CHI L 40 29 10 24 41.7 1 5 20.0 8 8 100.0 3 4 7 12 1 0 2 2 -18
+p34
+aVReggie Slater TOR 04/14/1997 TOR @ CHI L 29 17 7 11 63.6 0 0 - 3 5 60.0 5 5 10 0 1 0 2 3 -5
+p35
+aVShawn Respert TOR 04/14/1997 TOR @ CHI L 29 9 3 8 37.5 1 2 50.0 2 2 100.0 0 2 2 0 0 0 0 0 2
+p36
+aVCarlos Rogers TOR 04/14/1997 TOR @ CHI L 26 11 4 10 40.0 0 2 0.0 3 6 50.0 4 8 12 2 1 2 1 1 -3
+p37
+aVSharone Wright TOR 04/12/1997 TOR vs. IND L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -11
+p38
+aVCarlos Rogers TOR 04/12/1997 TOR vs. IND L 32 17 5 10 50.0 0 3 0.0 7 9 77.8 3 4 7 0 0 4 2 5 -17
+p39
+aVClifford Rozier TOR 04/12/1997 TOR vs. IND L 18 5 2 6 33.3 0 0 - 1 1 100.0 5 6 11 1 0 1 0 3 -3
+p40
+aVDamon Stoudamire TOR 04/12/1997 TOR vs. IND L 45 22 6 16 37.5 3 10 30.0 7 8 87.5 3 3 6 11 2 0 6 0 -11
+p41
+aVDoug Christie TOR 04/12/1997 TOR vs. IND L 31 7 3 12 25.0 1 3 33.3 0 0 - 0 1 1 4 6 1 3 6 -14
+p42
+aVMarcus Camby TOR 04/12/1997 TOR vs. IND L 30 13 5 17 29.4 0 0 - 3 6 50.0 1 2 3 0 0 4 2 0 1
+p43
+aVPopeye Jones TOR 04/12/1997 TOR vs. IND L 41 11 4 11 36.4 0 0 - 3 6 50.0 5 6 11 3 1 2 1 3 -9
+p44
+aVShawn Respert TOR 04/12/1997 TOR vs. IND L 33 14 5 8 62.5 2 3 66.7 2 2 100.0 2 1 3 4 2 0 0 4 9
+p45
+aVSharone Wright TOR 04/10/1997 TOR vs. ORL L 27 17 6 14 42.9 0 1 0.0 5 8 62.5 5 2 7 0 0 4 1 2 -12
+p46
+aVMartin Lewis TOR 04/10/1997 TOR vs. ORL L 8 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -1
+p47
+aVJohn Long TOR 04/10/1997 TOR vs. ORL L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -5
+p48
+aVCarlos Rogers TOR 04/10/1997 TOR vs. ORL L 27 8 3 9 33.3 0 2 0.0 2 2 100.0 2 1 3 2 0 0 1 2 -29
+p49
+aVDoug Christie TOR 04/10/1997 TOR vs. ORL L 33 12 4 17 23.5 3 10 30.0 1 2 50.0 4 4 8 4 4 1 2 1 -25
+p50
+aVPopeye Jones TOR 04/10/1997 TOR vs. ORL L 29 4 2 6 33.3 0 2 0.0 0 0 - 2 10 12 1 1 0 1 5 -22
+p51
+aVClifford Rozier TOR 04/10/1997 TOR vs. ORL L 15 5 2 8 25.0 0 0 - 1 6 16.7 7 1 8 0 0 0 3 2 -14
+p52
+aVReggie Slater TOR 04/10/1997 TOR vs. ORL L 19 4 2 5 40.0 0 0 - 0 0 - 1 4 5 2 1 2 3 2 -14
+p53
+aVShawn Respert TOR 04/10/1997 TOR vs. ORL L 33 11 4 13 30.8 0 6 0.0 3 4 75.0 1 5 6 2 1 0 1 4 -27
+p54
+aVDamon Stoudamire TOR 04/10/1997 TOR vs. ORL L 36 6 1 7 14.3 0 4 0.0 4 4 100.0 2 2 4 5 1 0 3 0 -31
+p55
+aVDamon Stoudamire TOR 04/08/1997 TOR vs. WAS W 44 29 10 21 47.6 2 6 33.3 7 8 87.5 2 1 3 13 1 1 2 1 12
+p56
+aVDoug Christie TOR 04/08/1997 TOR vs. WAS W 46 11 3 12 25.0 0 4 0.0 5 7 71.4 1 4 5 10 4 0 4 2 5
+p57
+aVCarlos Rogers TOR 04/08/1997 TOR vs. WAS W 34 9 3 5 60.0 1 1 100.0 2 7 28.6 1 2 3 1 0 4 1 3 4
+p58
+aVClifford Rozier TOR 04/08/1997 TOR vs. WAS W 20 1 0 6 0.0 0 0 - 1 2 50.0 6 4 10 1 1 0 2 3 3
+p59
+aVShawn Respert TOR 04/08/1997 TOR vs. WAS W 14 9 4 6 66.7 1 1 100.0 0 0 - 0 3 3 0 1 0 0 0 3
+p60
+aVSharone Wright TOR 04/08/1997 TOR vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -1
+p61
+aVPopeye Jones TOR 04/08/1997 TOR vs. WAS W 43 17 7 13 53.8 0 0 - 3 3 100.0 3 5 8 2 0 0 2 5 6
+p62
+aVWalt Williams TOR 04/08/1997 TOR vs. WAS W 38 24 8 18 44.4 3 8 37.5 5 5 100.0 1 8 9 2 2 1 3 3 -2
+p63
+aVMarcus Camby TOR 04/05/1997 TOR @ MIA L 41 13 5 15 33.3 0 0 - 3 5 60.0 2 4 6 1 3 3 6 3 -21
+p64
+aVDoug Christie TOR 04/05/1997 TOR @ MIA L 39 12 5 12 41.7 1 4 25.0 1 2 50.0 1 4 5 1 3 0 0 4 -19
+p65
+aVPopeye Jones TOR 04/05/1997 TOR @ MIA L 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 2 2 2
+p66
+aVReggie Slater TOR 04/05/1997 TOR @ MIA L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p67
+aVSharone Wright TOR 04/05/1997 TOR @ MIA L 11 5 2 3 66.7 0 0 - 1 3 33.3 2 1 3 0 0 0 0 1 4
+p68
+aVClifford Rozier TOR 04/05/1997 TOR @ MIA L 21 2 1 3 33.3 0 1 0.0 0 0 - 2 4 6 2 1 1 0 4 -17
+p69
+aVCarlos Rogers TOR 04/05/1997 TOR @ MIA L 9 5 2 4 50.0 0 1 0.0 1 2 50.0 0 3 3 0 0 0 0 1 -1
+p70
+aVDamon Stoudamire TOR 04/05/1997 TOR @ MIA L 43 25 7 19 36.8 2 7 28.6 9 10 90.0 0 4 4 7 2 0 3 2 -18
+p71
+aVMartin Lewis TOR 04/05/1997 TOR @ MIA L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 4
+p72
+aVShawn Respert TOR 04/05/1997 TOR @ MIA L 19 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 1 5
+p73
+aVWalt Williams TOR 04/05/1997 TOR @ MIA L 38 12 4 12 33.3 1 3 33.3 3 4 75.0 1 3 4 1 0 0 2 3 -12
+p74
+aVMarcus Camby TOR 04/02/1997 TOR @ PHI W 28 13 6 10 60.0 0 0 - 1 3 33.3 1 3 4 3 1 2 5 5 20
+p75
+aVPopeye Jones TOR 04/02/1997 TOR @ PHI W 41 12 5 9 55.6 0 0 - 2 2 100.0 4 7 11 3 0 0 2 3 6
+p76
+aVSharone Wright TOR 04/02/1997 TOR @ PHI W 16 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 4 4 4
+p77
+aVClifford Rozier TOR 04/02/1997 TOR @ PHI W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p78
+aVCarlos Rogers TOR 04/02/1997 TOR @ PHI W 36 24 11 14 78.6 0 0 - 2 6 33.3 4 9 13 0 0 1 2 2 19
+p79
+aVReggie Slater TOR 04/02/1997 TOR @ PHI W 16 5 2 5 40.0 0 0 - 1 4 25.0 2 3 5 0 0 0 0 1 15
+p80
+aVDamon Stoudamire TOR 04/02/1997 TOR @ PHI W 48 23 8 23 34.8 1 6 16.7 6 6 100.0 0 5 5 15 4 0 0 2 22
+p81
+aVDoug Christie TOR 04/02/1997 TOR @ PHI W 48 29 12 24 50.0 3 11 27.3 2 2 100.0 3 12 15 7 8 1 3 4 22
+p82
+aVCarlos Rogers TOR 03/30/1997 TOR vs. MIA W 17 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 0 0 1 2 4
+p83
+aVClifford Rozier TOR 03/30/1997 TOR vs. MIA W 17 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 1 2 2 4 -10
+p84
+aVSharone Wright TOR 03/30/1997 TOR vs. MIA W 25 13 6 11 54.5 0 0 - 1 3 33.3 1 1 2 0 0 3 0 2 3
+p85
+aVPopeye Jones TOR 03/30/1997 TOR vs. MIA W 30 6 1 6 16.7 0 0 - 4 4 100.0 5 7 12 1 0 0 1 4 3
+p86
+aVDamon Stoudamire TOR 03/30/1997 TOR vs. MIA W 42 35 12 18 66.7 5 6 83.3 6 6 100.0 0 2 2 11 3 0 7 3 4
+p87
+aVReggie Slater TOR 03/30/1997 TOR vs. MIA W 9 3 1 3 33.3 0 0 - 1 1 100.0 1 0 1 2 1 0 0 0 5
+p88
+aVShawn Respert TOR 03/30/1997 TOR vs. MIA W 18 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 1 17
+p89
+aVMarcus Camby TOR 03/30/1997 TOR vs. MIA W 35 23 10 22 45.5 0 0 - 3 3 100.0 4 3 7 2 1 4 5 6 -7
+p90
+aVDoug Christie TOR 03/30/1997 TOR vs. MIA W 45 16 3 11 27.3 1 7 14.3 9 10 90.0 1 4 5 3 4 1 6 2 6
+p91
+aVShawn Respert TOR 03/28/1997 TOR @ WAS L 34 6 1 7 14.3 0 4 0.0 4 4 100.0 0 3 3 1 2 0 3 4 -12
+p92
+aVCarlos Rogers TOR 03/28/1997 TOR @ WAS L 28 8 3 7 42.9 1 1 100.0 1 2 50.0 1 3 4 1 2 1 0 4 -3
+p93
+aVReggie Slater TOR 03/28/1997 TOR @ WAS L 31 16 8 15 53.3 0 1 0.0 0 5 0.0 7 3 10 1 0 0 4 2 -12
+p94
+aVDamon Stoudamire TOR 03/28/1997 TOR @ WAS L 32 14 5 11 45.5 2 5 40.0 2 3 66.7 0 2 2 3 1 0 2 0 -24
+p95
+aVSharone Wright TOR 03/28/1997 TOR @ WAS L 27 6 3 8 37.5 0 0 - 0 0 - 1 3 4 1 0 2 8 2 -15
+p96
+aVClifford Rozier TOR 03/28/1997 TOR @ WAS L 6 3 1 1 100.0 0 0 - 1 1 100.0 1 1 2 1 0 0 0 0 -14
+p97
+aVMarcus Camby TOR 03/28/1997 TOR @ WAS L 33 12 5 13 38.5 0 0 - 2 2 100.0 2 3 5 1 0 1 2 4 -28
+p98
+aVMartin Lewis TOR 03/28/1997 TOR @ WAS L 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 1 2 -1
+p99
+aVDoug Christie TOR 03/28/1997 TOR @ WAS L 33 17 7 15 46.7 2 5 40.0 1 2 50.0 1 3 4 2 4 0 2 1 -26
+p100
+aVClifford Rozier TOR 03/27/1997 TOR vs. CHI L 34 9 4 7 57.1 0 0 - 1 2 50.0 4 6 10 1 3 2 1 5 -3
+p101
+aVDamon Stoudamire TOR 03/27/1997 TOR vs. CHI L 42 18 8 19 42.1 2 4 50.0 0 0 - 2 4 6 12 0 1 5 1 -14
+p102
+aVReggie Slater TOR 03/27/1997 TOR vs. CHI L 17 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -12
+p103
+aVCarlos Rogers TOR 03/27/1997 TOR vs. CHI L 24 13 4 7 57.1 0 2 0.0 5 6 83.3 2 1 3 2 0 1 1 1 -20
+p104
+aVSharone Wright TOR 03/27/1997 TOR vs. CHI L 30 15 7 16 43.8 0 0 - 1 2 50.0 3 4 7 0 1 3 2 5 1
+p105
+aVDoug Christie TOR 03/27/1997 TOR vs. CHI L 44 12 4 10 40.0 4 8 50.0 0 0 - 1 5 6 2 4 5 1 1 -13
+p106
+aVMartin Lewis TOR 03/27/1997 TOR vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p107
+aVOliver Miller TOR 03/27/1997 TOR vs. CHI L 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p108
+aVMarcus Camby TOR 03/27/1997 TOR vs. CHI L 33 8 4 14 28.6 0 0 - 0 0 - 2 5 7 3 1 2 6 4 3
+p109
+aVShawn Respert TOR 03/27/1997 TOR vs. CHI L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 1 -2
+p110
+aVReggie Slater TOR 03/25/1997 TOR vs. IND L 11 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -1
+p111
+aVMarcus Camby TOR 03/25/1997 TOR vs. IND L 36 15 5 18 27.8 0 0 - 5 8 62.5 3 7 10 2 0 2 3 5 -7
+p112
+aVMartin Lewis TOR 03/25/1997 TOR vs. IND L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 3
+p113
+aVClifford Rozier TOR 03/25/1997 TOR vs. IND L 15 0 0 3 0.0 0 0 - 0 0 - 3 3 6 0 1 0 1 1 -10
+p114
+aVCarlos Rogers TOR 03/25/1997 TOR vs. IND L 18 8 2 9 22.2 1 4 25.0 3 4 75.0 2 4 6 0 0 1 0 0 -3
+p115
+aVDamon Stoudamire TOR 03/25/1997 TOR vs. IND L 40 15 7 19 36.8 1 8 12.5 0 0 - 1 0 1 6 1 0 5 1 -20
+p116
+aVOliver Miller TOR 03/25/1997 TOR vs. IND L 16 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 2 0 1 0 1 -6
+p117
+aVDoug Christie TOR 03/25/1997 TOR vs. IND L 42 9 3 11 27.3 0 3 0.0 3 4 75.0 2 6 8 5 2 0 2 3 -16
+p118
+aVSharone Wright TOR 03/25/1997 TOR vs. IND L 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 2 0 0 3 0
+p119
+aVWalt Williams TOR 03/25/1997 TOR vs. IND L 34 16 5 11 45.5 3 6 50.0 3 4 75.0 3 3 6 1 2 1 1 2 -15
+p120
+aVShawn Respert TOR 03/25/1997 TOR vs. IND L 12 5 1 5 20.0 1 4 25.0 2 4 50.0 0 0 0 0 1 0 0 0 5
+p121
+aVCarlos Rogers TOR 03/23/1997 TOR vs. ATL L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 2
+p122
+aVMarcus Camby TOR 03/23/1997 TOR vs. ATL L 44 37 15 28 53.6 0 0 - 7 8 87.5 1 7 8 3 1 2 0 4 -4
+p123
+aVClifford Rozier TOR 03/23/1997 TOR vs. ATL L 14 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -4
+p124
+aVDoug Christie TOR 03/23/1997 TOR vs. ATL L 41 4 2 8 25.0 0 1 0.0 0 0 - 2 1 3 4 3 1 3 3 0
+p125
+aVDamon Stoudamire TOR 03/23/1997 TOR vs. ATL L 39 11 5 14 35.7 1 4 25.0 0 2 0.0 2 2 4 9 1 0 2 2 -21
+p126
+aVWalt Williams TOR 03/23/1997 TOR vs. ATL L 37 13 5 12 41.7 2 6 33.3 1 2 50.0 1 7 8 2 0 1 2 2 -24
+p127
+aVPopeye Jones TOR 03/23/1997 TOR vs. ATL L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -6
+p128
+aVOliver Miller TOR 03/23/1997 TOR vs. ATL L 27 4 2 4 50.0 0 0 - 0 1 0.0 1 5 6 2 1 0 2 3 1
+p129
+aVShawn Respert TOR 03/23/1997 TOR vs. ATL L 14 8 3 4 75.0 1 1 100.0 1 1 100.0 1 0 1 3 0 0 2 1 1
+p130
+aVMarcus Camby TOR 03/21/1997 TOR vs. CHH L 43 16 5 11 45.5 0 0 - 6 9 66.7 1 15 16 0 0 7 2 5 -7
+p131
+aVDoug Christie TOR 03/21/1997 TOR vs. CHH L 45 10 2 7 28.6 0 2 0.0 6 6 100.0 0 7 7 9 4 0 0 4 3
+p132
+aVDamon Stoudamire TOR 03/21/1997 TOR vs. CHH L 45 29 10 18 55.6 2 6 33.3 7 9 77.8 2 1 3 6 0 0 2 3 -5
+p133
+aVOliver Miller TOR 03/21/1997 TOR vs. CHH L 5 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -1
+p134
+aVHubert Davis TOR 03/21/1997 TOR vs. CHH L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 2
+p135
+aVShawn Respert TOR 03/21/1997 TOR vs. CHH L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p136
+aVClifford Rozier TOR 03/21/1997 TOR vs. CHH L 17 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 1 0 0 -2
+p137
+aVPopeye Jones TOR 03/21/1997 TOR vs. CHH L 12 6 3 7 42.9 0 0 - 0 0 - 3 1 4 1 0 0 0 3 0
+p138
+aVWalt Williams TOR 03/21/1997 TOR vs. CHH L 35 12 4 11 36.4 2 3 66.7 2 3 66.7 0 2 2 4 0 2 1 4 -7
+p139
+aVCarlos Rogers TOR 03/21/1997 TOR vs. CHH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p140
+aVSharone Wright TOR 03/21/1997 TOR vs. CHH L 25 14 6 13 46.2 0 0 - 2 3 66.7 2 1 3 1 0 0 3 3 0
+p141
+aVDamon Stoudamire TOR 03/19/1997 TOR @ DET W 44 9 3 12 25.0 1 5 20.0 2 4 50.0 0 1 1 4 1 0 2 1 7
+p142
+aVClifford Rozier TOR 03/19/1997 TOR @ DET W 20 8 3 5 60.0 0 0 - 2 6 33.3 2 2 4 1 1 0 2 2 -7
+p143
+aVShawn Respert TOR 03/19/1997 TOR @ DET W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 -5
+p144
+aVPopeye Jones TOR 03/19/1997 TOR @ DET W 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 1 5
+p145
+aVSharone Wright TOR 03/19/1997 TOR @ DET W 13 6 2 5 40.0 0 0 - 2 4 50.0 0 1 1 1 1 0 0 4 -2
+p146
+aVMarcus Camby TOR 03/19/1997 TOR @ DET W 44 28 11 22 50.0 1 1 100.0 5 8 62.5 6 8 14 3 0 0 0 2 0
+p147
+aVWalt Williams TOR 03/19/1997 TOR @ DET W 37 15 6 10 60.0 3 5 60.0 0 0 - 1 3 4 6 2 0 3 2 -4
+p148
+aVOliver Miller TOR 03/19/1997 TOR @ DET W 16 10 5 6 83.3 0 1 0.0 0 0 - 2 3 5 3 0 3 2 3 11
+p149
+aVDoug Christie TOR 03/19/1997 TOR @ DET W 45 18 6 13 46.2 6 8 75.0 0 0 - 0 3 3 7 3 0 1 5 5
+p150
+aVPopeye Jones TOR 03/18/1997 TOR vs. PHI W 18 6 1 2 50.0 0 0 - 4 4 100.0 0 4 4 2 0 1 0 4 -2
+p151
+aVMarcus Camby TOR 03/18/1997 TOR vs. PHI W 39 36 16 25 64.0 0 0 - 4 4 100.0 6 3 9 3 2 4 1 5 12
+p152
+aVSharone Wright TOR 03/18/1997 TOR vs. PHI W 14 6 2 4 50.0 0 0 - 2 6 33.3 1 2 3 0 0 1 1 1 0
+p153
+aVClifford Rozier TOR 03/18/1997 TOR vs. PHI W 27 8 4 7 57.1 0 0 - 0 0 - 3 4 7 3 3 3 0 4 14
+p154
+aVDamon Stoudamire TOR 03/18/1997 TOR vs. PHI W 43 30 9 16 56.3 1 3 33.3 11 12 91.7 1 9 10 12 1 0 7 3 9
+p155
+aVWalt Williams TOR 03/18/1997 TOR vs. PHI W 41 9 2 15 13.3 2 11 18.2 3 4 75.0 0 3 3 4 2 2 2 2 14
+p156
+aVOliver Miller TOR 03/18/1997 TOR vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p157
+aVDoug Christie TOR 03/18/1997 TOR vs. PHI W 43 20 6 13 46.2 4 8 50.0 4 4 100.0 1 9 10 3 3 0 2 3 18
+p158
+aVShawn Respert TOR 03/18/1997 TOR vs. PHI W 15 2 0 3 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 1 3 -7
+p159
+aVSharone Wright TOR 03/16/1997 TOR @ LAL L 25 12 4 7 57.1 0 0 - 4 8 50.0 4 1 5 1 0 1 2 6 3
+p160
+aVOliver Miller TOR 03/16/1997 TOR @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 0
+p161
+aVShawn Respert TOR 03/16/1997 TOR @ LAL L 10 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 2
+p162
+aVDamon Stoudamire TOR 03/16/1997 TOR @ LAL L 49 25 10 21 47.6 3 8 37.5 2 4 50.0 2 6 8 8 1 0 4 1 -3
+p163
+aVWalt Williams TOR 03/16/1997 TOR @ LAL L 45 4 2 12 16.7 0 6 0.0 0 3 0.0 3 7 10 2 0 0 3 5 -15
+p164
+aVReggie Slater TOR 03/16/1997 TOR @ LAL L 7 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 1 0 2 0 2
+p165
+aVMarcus Camby TOR 03/16/1997 TOR @ LAL L 38 20 8 18 44.4 0 1 0.0 4 6 66.7 5 6 11 1 2 2 2 5 -18
+p166
+aVDoug Christie TOR 03/16/1997 TOR @ LAL L 45 13 3 11 27.3 2 6 33.3 5 6 83.3 1 7 8 2 2 1 3 4 -8
+p167
+aVClifford Rozier TOR 03/16/1997 TOR @ LAL L 20 5 2 4 50.0 0 0 - 1 2 50.0 2 5 7 1 1 1 1 4 -11
+p168
+aVPopeye Jones TOR 03/16/1997 TOR @ LAL L 20 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 1 1 0 1 4 8
+p169
+aVWalt Williams TOR 03/15/1997 TOR @ GSW L 40 21 6 16 37.5 5 10 50.0 4 5 80.0 1 3 4 4 1 0 4 5 -13
+p170
+aVSharone Wright TOR 03/15/1997 TOR @ GSW L 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 1 1 0 -9
+p171
+aVDoug Christie TOR 03/15/1997 TOR @ GSW L 36 15 6 9 66.7 2 3 66.7 1 3 33.3 0 3 3 4 2 0 1 6 -6
+p172
+aVPopeye Jones TOR 03/15/1997 TOR @ GSW L 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p173
+aVDamon Stoudamire TOR 03/15/1997 TOR @ GSW L 42 18 6 16 37.5 2 5 40.0 4 4 100.0 0 2 2 14 1 0 4 2 -4
+p174
+aVHubert Davis TOR 03/15/1997 TOR @ GSW L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 3 0 0 0 2 12
+p175
+aVReggie Slater TOR 03/15/1997 TOR @ GSW L 11 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 1 -10
+p176
+aVClifford Rozier TOR 03/15/1997 TOR @ GSW L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p177
+aVShawn Respert TOR 03/15/1997 TOR @ GSW L 26 13 5 9 55.6 3 5 60.0 0 0 - 0 1 1 0 1 0 0 0 15
+p178
+aVMarcus Camby TOR 03/15/1997 TOR @ GSW L 45 27 12 20 60.0 0 0 - 3 3 100.0 4 5 9 0 2 5 2 2 -2
+p179
+aVShawn Respert TOR 03/13/1997 TOR @ SAC W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 1 0 1 0 5
+p180
+aVDoug Christie TOR 03/13/1997 TOR @ SAC W 46 17 7 10 70.0 2 4 50.0 1 1 100.0 0 2 2 2 1 0 3 0 11
+p181
+aVClifford Rozier TOR 03/13/1997 TOR @ SAC W 11 2 1 2 50.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 0 -7
+p182
+aVDamon Stoudamire TOR 03/13/1997 TOR @ SAC W 40 31 10 15 66.7 4 7 57.1 7 10 70.0 1 4 5 6 1 1 5 2 4
+p183
+aVPopeye Jones TOR 03/13/1997 TOR @ SAC W 30 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 1 1 0 0 2 24
+p184
+aVWalt Williams TOR 03/13/1997 TOR @ SAC W 37 13 3 8 37.5 2 6 33.3 5 6 83.3 1 5 6 2 2 0 4 5 2
+p185
+aVOliver Miller TOR 03/13/1997 TOR @ SAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -11
+p186
+aVSharone Wright TOR 03/13/1997 TOR @ SAC W 21 11 5 7 71.4 0 0 - 1 2 50.0 1 4 5 1 0 1 1 3 13
+p187
+aVMarcus Camby TOR 03/13/1997 TOR @ SAC W 40 23 8 15 53.3 0 0 - 7 9 77.8 1 5 6 1 1 4 5 1 -6
+p188
+aVDamon Stoudamire TOR 03/11/1997 TOR @ PHX W 44 22 8 20 40.0 2 4 50.0 4 5 80.0 3 2 5 9 0 1 2 4 7
+p189
+aVMarcus Camby TOR 03/11/1997 TOR @ PHX W 33 23 10 15 66.7 0 0 - 3 8 37.5 1 8 9 4 1 1 1 1 7
+p190
+aVShawn Respert TOR 03/11/1997 TOR @ PHX W 7 5 1 5 20.0 1 2 50.0 2 2 100.0 0 0 0 0 1 0 1 1 -4
+p191
+aVClifford Rozier TOR 03/11/1997 TOR @ PHX W 42 20 9 17 52.9 0 0 - 2 4 50.0 9 5 14 1 1 3 1 2 10
+p192
+aVWalt Williams TOR 03/11/1997 TOR @ PHX W 46 14 6 16 37.5 2 6 33.3 0 0 - 2 6 8 3 1 1 0 3 5
+p193
+aVDoug Christie TOR 03/11/1997 TOR @ PHX W 47 16 5 13 38.5 5 7 71.4 1 2 50.0 1 3 4 5 3 1 2 1 5
+p194
+aVPopeye Jones TOR 03/11/1997 TOR @ PHX W 15 2 1 7 14.3 0 0 - 0 0 - 7 4 11 3 0 0 3 4 -4
+p195
+aVSharone Wright TOR 03/11/1997 TOR @ PHX W 5 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -6
+p196
+aVDamon Stoudamire TOR 03/09/1997 TOR vs. VAN W 44 14 5 18 27.8 0 5 0.0 4 6 66.7 2 6 8 10 1 0 1 1 -4
+p197
+aVDoug Christie TOR 03/09/1997 TOR vs. VAN W 35 8 2 9 22.2 2 6 33.3 2 4 50.0 1 3 4 1 3 0 2 2 2
+p198
+aVWalt Williams TOR 03/09/1997 TOR vs. VAN W 45 16 6 19 31.6 3 12 25.0 1 4 25.0 4 4 8 1 1 0 1 3 5
+p199
+aVPopeye Jones TOR 03/09/1997 TOR vs. VAN W 11 4 2 4 50.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 3 -7
+p200
+aVOliver Miller TOR 03/09/1997 TOR vs. VAN W 10 6 3 3 100.0 0 0 - 0 2 0.0 1 1 2 0 0 1 1 1 -6
+p201
+aVHubert Davis TOR 03/09/1997 TOR vs. VAN W 10 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 6
+p202
+aVClifford Rozier TOR 03/09/1997 TOR vs. VAN W 25 1 0 2 0.0 0 0 - 1 2 50.0 6 4 10 0 1 2 2 4 7
+p203
+aVMarcus Camby TOR 03/09/1997 TOR vs. VAN W 37 13 5 14 35.7 0 0 - 3 6 50.0 6 6 12 3 1 0 2 4 9
+p204
+aVSharone Wright TOR 03/09/1997 TOR vs. VAN W 13 3 1 9 11.1 0 0 - 1 2 50.0 3 1 4 1 1 3 0 3 3
+p205
+aVShawn Respert TOR 03/09/1997 TOR vs. VAN W 9 11 4 6 66.7 1 2 50.0 2 2 100.0 2 0 2 0 1 0 1 2 5
+p206
+aVPopeye Jones TOR 03/07/1997 TOR vs. SAS L 21 4 2 6 33.3 0 0 - 0 0 - 3 2 5 1 0 1 1 3 -13
+p207
+aVSharone Wright TOR 03/07/1997 TOR vs. SAS L 15 7 2 6 33.3 0 0 - 3 7 42.9 2 0 2 1 0 1 0 1 -10
+p208
+aVClifford Rozier TOR 03/07/1997 TOR vs. SAS L 22 7 3 6 50.0 0 0 - 1 3 33.3 3 4 7 3 1 2 0 3 6
+p209
+aVWalt Williams TOR 03/07/1997 TOR vs. SAS L 32 15 6 17 35.3 3 9 33.3 0 0 - 2 5 7 4 2 1 1 3 5
+p210
+aVHubert Davis TOR 03/07/1997 TOR vs. SAS L 18 7 3 6 50.0 1 4 25.0 0 0 - 0 0 0 1 1 0 0 3 -2
+p211
+aVShawn Respert TOR 03/07/1997 TOR vs. SAS L 7 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 0 -4
+p212
+aVReggie Slater TOR 03/07/1997 TOR vs. SAS L 8 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p213
+aVDoug Christie TOR 03/07/1997 TOR vs. SAS L 41 8 3 8 37.5 1 2 50.0 1 2 50.0 1 5 6 9 2 0 3 3 0
+p214
+aVDamon Stoudamire TOR 03/07/1997 TOR vs. SAS L 42 25 7 15 46.7 3 4 75.0 8 9 88.9 1 1 2 7 1 0 2 3 1
+p215
+aVMarcus Camby TOR 03/07/1997 TOR vs. SAS L 35 21 9 12 75.0 0 0 - 3 4 75.0 3 6 9 1 2 2 3 3 4
+p216
+aVDoug Christie TOR 03/05/1997 TOR vs. NYK L 44 24 9 17 52.9 4 7 57.1 2 2 100.0 0 5 5 4 2 1 2 4 -6
+p217
+aVHubert Davis TOR 03/05/1997 TOR vs. NYK L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p218
+aVClifford Rozier TOR 03/05/1997 TOR vs. NYK L 24 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 2 1 1 1 6 -4
+p219
+aVDamon Stoudamire TOR 03/05/1997 TOR vs. NYK L 40 22 7 13 53.8 3 4 75.0 5 5 100.0 3 1 4 8 1 0 2 1 1
+p220
+aVWalt Williams TOR 03/05/1997 TOR vs. NYK L 23 5 2 11 18.2 0 5 0.0 1 1 100.0 0 4 4 3 1 1 3 6 0
+p221
+aVSharone Wright TOR 03/05/1997 TOR vs. NYK L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 2
+p222
+aVPopeye Jones TOR 03/05/1997 TOR vs. NYK L 22 5 1 9 11.1 0 0 - 3 4 75.0 4 3 7 0 1 0 0 3 0
+p223
+aVShawn Respert TOR 03/05/1997 TOR vs. NYK L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -7
+p224
+aVMarcus Camby TOR 03/05/1997 TOR vs. NYK L 31 24 7 17 41.2 0 1 0.0 10 13 76.9 5 4 9 0 3 2 3 5 -5
+p225
+aVCarlos Rogers TOR 03/05/1997 TOR vs. NYK L 28 6 2 7 28.6 0 0 - 2 4 50.0 4 1 5 1 0 4 1 3 -7
+p226
+aVDamon Stoudamire TOR 03/03/1997 TOR vs. BOS L 43 11 5 13 38.5 0 4 0.0 1 3 33.3 3 4 7 17 0 0 6 3 5
+p227
+aVHubert Davis TOR 03/03/1997 TOR vs. BOS L 16 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 1 0 0 1 1 7
+p228
+aVOliver Miller TOR 03/03/1997 TOR vs. BOS L 19 10 5 10 50.0 0 0 - 0 0 - 2 3 5 2 0 1 1 2 -4
+p229
+aVClifford Rozier TOR 03/03/1997 TOR vs. BOS L 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -6
+p230
+aVCarlos Rogers TOR 03/03/1997 TOR vs. BOS L 23 17 8 12 66.7 0 0 - 1 2 50.0 2 5 7 1 1 1 0 1 -3
+p231
+aVMarcus Camby TOR 03/03/1997 TOR vs. BOS L 24 12 6 10 60.0 0 1 0.0 0 0 - 2 2 4 2 0 2 2 1 -6
+p232
+aVShawn Respert TOR 03/03/1997 TOR vs. BOS L 13 4 2 5 40.0 0 1 0.0 0 1 0.0 0 0 0 2 0 0 2 2 -14
+p233
+aVDoug Christie TOR 03/03/1997 TOR vs. BOS L 44 14 6 14 42.9 2 5 40.0 0 0 - 1 3 4 2 3 0 2 4 5
+p234
+aVWalt Williams TOR 03/03/1997 TOR vs. BOS L 31 16 6 11 54.5 4 9 44.4 0 0 - 0 3 3 3 2 0 3 6 -2
+p235
+aVReggie Slater TOR 03/03/1997 TOR vs. BOS L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -5
+p236
+aVPopeye Jones TOR 03/03/1997 TOR vs. BOS L 17 5 1 3 33.3 0 0 - 3 4 75.0 1 3 4 1 0 1 0 0 3
+p237
+aVDamon Stoudamire TOR 02/28/1997 TOR @ LAC L 46 22 7 18 38.9 2 4 50.0 6 6 100.0 0 0 0 5 1 0 4 0 6
+p238
+aVShawn Respert TOR 02/28/1997 TOR @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -11
+p239
+aVPopeye Jones TOR 02/28/1997 TOR @ LAC L 23 4 2 9 22.2 0 1 0.0 0 0 - 4 4 8 0 1 0 3 2 -25
+p240
+aVWalt Williams TOR 02/28/1997 TOR @ LAC L 25 19 6 13 46.2 4 6 66.7 3 3 100.0 1 2 3 0 1 1 0 5 -6
+p241
+aVReggie Slater TOR 02/28/1997 TOR @ LAC L 4 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 0
+p242
+aVMarcus Camby TOR 02/28/1997 TOR @ LAC L 35 12 4 8 50.0 0 0 - 4 5 80.0 1 2 3 2 1 0 1 2 17
+p243
+aVCarlos Rogers TOR 02/28/1997 TOR @ LAC L 38 17 7 14 50.0 0 1 0.0 3 4 75.0 7 4 11 2 2 1 2 4 7
+p244
+aVDoug Christie TOR 02/28/1997 TOR @ LAC L 44 9 3 11 27.3 0 3 0.0 3 6 50.0 1 3 4 5 7 1 2 5 3
+p245
+aVOliver Miller TOR 02/28/1997 TOR @ LAC L 20 6 3 8 37.5 0 0 - 0 1 0.0 1 3 4 2 0 0 1 5 -1
+p246
+aVWalt Williams TOR 02/27/1997 TOR @ UTA L 44 32 10 19 52.6 5 9 55.6 7 9 77.8 2 4 6 3 1 1 3 3 4
+p247
+aVMarcus Camby TOR 02/27/1997 TOR @ UTA L 22 7 3 5 60.0 0 0 - 1 2 50.0 1 5 6 0 0 1 1 3 3
+p248
+aVOliver Miller TOR 02/27/1997 TOR @ UTA L 18 7 2 2 100.0 0 0 - 3 4 75.0 0 0 0 2 1 2 2 3 -10
+p249
+aVSharone Wright TOR 02/27/1997 TOR @ UTA L 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p250
+aVCarlos Rogers TOR 02/27/1997 TOR @ UTA L 24 19 8 10 80.0 1 1 100.0 2 4 50.0 7 1 8 1 3 1 3 3 2
+p251
+aVDoug Christie TOR 02/27/1997 TOR @ UTA L 44 17 8 16 50.0 1 4 25.0 0 2 0.0 2 1 3 2 4 0 2 3 1
+p252
+aVDamon Stoudamire TOR 02/27/1997 TOR @ UTA L 41 14 5 17 29.4 2 6 33.3 2 2 100.0 1 2 3 8 1 0 4 3 -10
+p253
+aVPopeye Jones TOR 02/27/1997 TOR @ UTA L 24 6 2 4 50.0 0 0 - 2 2 100.0 2 6 8 1 0 1 1 2 -4
+p254
+aVClifford Rozier TOR 02/27/1997 TOR @ UTA L 4 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -7
+p255
+aVShawn Respert TOR 02/27/1997 TOR @ UTA L 17 12 3 8 37.5 2 4 50.0 4 4 100.0 1 1 2 1 1 1 3 2 1
+p256
+aVMarcus Camby TOR 02/25/1997 TOR @ DEN W 18 0 0 4 0.0 0 0 - 0 0 - 0 3 3 2 0 1 1 3 -3
+p257
+aVDamon Stoudamire TOR 02/25/1997 TOR @ DEN W 43 35 12 22 54.5 3 9 33.3 8 8 100.0 0 4 4 5 2 0 3 2 2
+p258
+aVSharone Wright TOR 02/25/1997 TOR @ DEN W 6 7 2 2 100.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 1 1
+p259
+aVPopeye Jones TOR 02/25/1997 TOR @ DEN W 37 6 3 6 50.0 0 0 - 0 0 - 4 3 7 2 1 0 3 5 0
+p260
+aVShawn Respert TOR 02/25/1997 TOR @ DEN W 15 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 1 2 0 0 0 -8
+p261
+aVOliver Miller TOR 02/25/1997 TOR @ DEN W 28 11 4 5 80.0 0 0 - 3 3 100.0 1 2 3 0 1 1 1 4 9
+p262
+aVHubert Davis TOR 02/25/1997 TOR @ DEN W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 0
+p263
+aVCarlos Rogers TOR 02/25/1997 TOR @ DEN W 19 12 5 8 62.5 0 0 - 2 3 66.7 0 2 2 0 2 0 0 1 -7
+p264
+aVDoug Christie TOR 02/25/1997 TOR @ DEN W 46 27 9 16 56.3 4 9 44.4 5 6 83.3 0 5 5 3 9 0 4 2 8
+p265
+aVWalt Williams TOR 02/25/1997 TOR @ DEN W 36 13 6 10 60.0 1 4 25.0 0 0 - 0 2 2 1 1 2 3 3 10
+p266
+aVClifford Rozier TOR 02/25/1997 TOR @ DEN W 9 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -2
+p267
+aVCarlos Rogers TOR 02/22/1997 TOR @ DAL W 26 8 4 5 80.0 0 0 - 0 0 - 1 4 5 0 0 1 3 3 16
+p268
+aVPopeye Jones TOR 02/22/1997 TOR @ DAL W 24 12 6 12 50.0 0 0 - 0 0 - 3 3 6 1 0 0 0 2 -3
+p269
+aVDoug Christie TOR 02/22/1997 TOR @ DAL W 45 22 9 17 52.9 2 4 50.0 2 2 100.0 2 3 5 6 1 1 0 2 9
+p270
+aVShawn Respert TOR 02/22/1997 TOR @ DAL W 15 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 0 2 0 1 2 1
+p271
+aVClifford Rozier TOR 02/22/1997 TOR @ DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p272
+aVMarcus Camby TOR 02/22/1997 TOR @ DAL W 28 14 6 11 54.5 0 0 - 2 2 100.0 2 5 7 4 0 1 3 4 8
+p273
+aVWalt Williams TOR 02/22/1997 TOR @ DAL W 29 14 6 13 46.2 2 6 33.3 0 0 - 2 3 5 1 1 1 1 2 -6
+p274
+aVDamon Stoudamire TOR 02/22/1997 TOR @ DAL W 44 15 6 14 42.9 0 3 0.0 3 6 50.0 0 2 2 9 4 0 2 1 4
+p275
+aVOliver Miller TOR 02/22/1997 TOR @ DAL W 26 10 5 6 83.3 0 0 - 0 0 - 1 7 8 3 0 1 1 2 8
+p276
+aVReggie Slater TOR 02/20/1997 TOR @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p277
+aVHubert Davis TOR 02/20/1997 TOR @ HOU L 15 2 0 4 0.0 0 4 0.0 2 2 100.0 0 0 0 2 0 0 0 3 -10
+p278
+aVDoug Christie TOR 02/20/1997 TOR @ HOU L 40 15 5 11 45.5 3 7 42.9 2 2 100.0 0 2 2 4 3 0 3 1 1
+p279
+aVClifford Rozier TOR 02/20/1997 TOR @ HOU L 16 11 4 5 80.0 0 0 - 3 4 75.0 2 2 4 0 0 0 1 2 -1
+p280
+aVDamon Stoudamire TOR 02/20/1997 TOR @ HOU L 41 17 7 19 36.8 2 6 33.3 1 1 100.0 0 5 5 7 1 0 6 3 -11
+p281
+aVOliver Miller TOR 02/20/1997 TOR @ HOU L 25 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 4 1 0 1 2 -7
+p282
+aVCarlos Rogers TOR 02/20/1997 TOR @ HOU L 15 10 4 6 66.7 2 3 66.7 0 0 - 0 0 0 1 1 0 0 0 -3
+p283
+aVPopeye Jones TOR 02/20/1997 TOR @ HOU L 28 16 6 14 42.9 0 0 - 4 4 100.0 4 6 10 0 3 0 0 3 -8
+p284
+aVMarcus Camby TOR 02/20/1997 TOR @ HOU L 23 11 3 8 37.5 0 0 - 5 5 100.0 2 3 5 2 0 2 1 0 -6
+p285
+aVWalt Williams TOR 02/20/1997 TOR @ HOU L 36 7 3 12 25.0 1 5 20.0 0 0 - 1 6 7 3 5 2 1 5 -10
+p286
+aVHubert Davis TOR 02/19/1997 TOR @ SAS W 29 17 7 12 58.3 3 5 60.0 0 0 - 1 1 2 5 1 0 2 1 15
+p287
+aVAcie Earl TOR 02/19/1997 TOR @ SAS W 6 6 3 6 50.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 1
+p288
+aVWalt Williams TOR 02/19/1997 TOR @ SAS W 38 19 4 14 28.6 4 8 50.0 7 10 70.0 1 3 4 3 1 0 0 3 31
+p289
+aVDamon Stoudamire TOR 02/19/1997 TOR @ SAS W 33 21 8 9 88.9 4 4 100.0 1 2 50.0 0 4 4 9 2 0 3 2 18
+p290
+aVReggie Slater TOR 02/19/1997 TOR @ SAS W 5 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 0 1 0 3
+p291
+aVCarlos Rogers TOR 02/19/1997 TOR @ SAS W 27 18 8 12 66.7 2 3 66.7 0 1 0.0 3 6 9 0 1 1 1 2 19
+p292
+aVOliver Miller TOR 02/19/1997 TOR @ SAS W 20 4 2 3 66.7 0 0 - 0 1 0.0 1 6 7 2 1 1 1 5 18
+p293
+aVMarcus Camby TOR 02/19/1997 TOR @ SAS W 27 7 3 9 33.3 0 0 - 1 2 50.0 3 7 10 2 0 3 3 4 18
+p294
+aVDoug Christie TOR 02/19/1997 TOR @ SAS W 36 16 6 13 46.2 2 5 40.0 2 3 66.7 1 2 3 8 1 1 1 2 32
+p295
+aVPopeye Jones TOR 02/19/1997 TOR @ SAS W 20 15 7 10 70.0 0 0 - 1 2 50.0 5 6 11 0 0 1 2 4 10
+p296
+aVWalt Williams TOR 02/17/1997 TOR @ IND L 29 13 5 8 62.5 3 3 100.0 0 0 - 0 1 1 0 0 2 3 5 -14
+p297
+aVOliver Miller TOR 02/17/1997 TOR @ IND L 32 13 3 3 100.0 0 0 - 7 7 100.0 1 7 8 3 5 0 1 5 12
+p298
+aVHubert Davis TOR 02/17/1997 TOR @ IND L 23 12 6 9 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 5
+p299
+aVMarcus Camby TOR 02/17/1997 TOR @ IND L 14 7 2 3 66.7 0 0 - 3 6 50.0 1 1 2 0 0 1 1 6 -2
+p300
+aVDoug Christie TOR 02/17/1997 TOR @ IND L 46 21 6 13 46.2 3 6 50.0 6 6 100.0 1 5 6 4 3 1 4 4 2
+p301
+aVPopeye Jones TOR 02/17/1997 TOR @ IND L 32 11 5 9 55.6 0 0 - 1 1 100.0 2 4 6 1 1 1 3 6 4
+p302
+aVClifford Rozier TOR 02/17/1997 TOR @ IND L 18 3 1 4 25.0 0 0 - 1 4 25.0 2 2 4 1 0 0 0 4 -13
+p303
+aVCarlos Rogers TOR 02/17/1997 TOR @ IND L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p304
+aVDamon Stoudamire TOR 02/17/1997 TOR @ IND L 42 23 7 19 36.8 3 8 37.5 6 6 100.0 1 4 5 11 0 0 4 3 1
+p305
+aVClifford Rozier TOR 02/16/1997 TOR vs. DET L 20 7 3 4 75.0 0 0 - 1 2 50.0 5 6 11 3 1 0 1 4 9
+p306
+aVOliver Miller TOR 02/16/1997 TOR vs. DET L 11 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 3 -2
+p307
+aVWalt Williams TOR 02/16/1997 TOR vs. DET L 39 22 8 17 47.1 3 5 60.0 3 7 42.9 1 2 3 5 1 0 1 4 -6
+p308
+aVDoug Christie TOR 02/16/1997 TOR vs. DET L 30 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 2 0 2 1 0 4
+p309
+aVCarlos Rogers TOR 02/16/1997 TOR vs. DET L 17 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 2 1 0 1 -8
+p310
+aVDamon Stoudamire TOR 02/16/1997 TOR vs. DET L 46 14 6 18 33.3 0 3 0.0 2 2 100.0 1 1 2 15 0 0 3 4 3
+p311
+aVMarcus Camby TOR 02/16/1997 TOR vs. DET L 32 16 8 17 47.1 0 0 - 0 3 0.0 4 4 8 1 2 1 3 6 -8
+p312
+aVPopeye Jones TOR 02/16/1997 TOR vs. DET L 31 12 5 14 35.7 0 1 0.0 2 2 100.0 3 4 7 1 0 0 0 3 -3
+p313
+aVHubert Davis TOR 02/16/1997 TOR vs. DET L 16 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 1 1 1 -4
+p314
+aVSharone Wright TOR 02/14/1997 TOR vs. MIL L 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -9
+p315
+aVPopeye Jones TOR 02/14/1997 TOR vs. MIL L 25 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 1 1 3 1 4 -17
+p316
+aVOliver Miller TOR 02/14/1997 TOR vs. MIL L 28 13 6 11 54.5 0 0 - 1 1 100.0 7 5 12 2 3 1 3 5 8
+p317
+aVDoug Christie TOR 02/14/1997 TOR vs. MIL L 27 9 3 8 37.5 0 3 0.0 3 5 60.0 1 3 4 3 5 1 2 5 6
+p318
+aVMarcus Camby TOR 02/14/1997 TOR vs. MIL L 26 21 7 10 70.0 0 1 0.0 7 10 70.0 0 4 4 2 1 4 1 3 10
+p319
+aVReggie Slater TOR 02/14/1997 TOR vs. MIL L 13 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 0
+p320
+aVWalt Williams TOR 02/14/1997 TOR vs. MIL L 38 20 7 18 38.9 1 6 16.7 5 7 71.4 3 1 4 3 2 1 1 4 -8
+p321
+aVCarlos Rogers TOR 02/14/1997 TOR vs. MIL L 26 7 2 6 33.3 0 1 0.0 3 12 25.0 0 3 3 0 0 0 0 4 5
+p322
+aVDamon Stoudamire TOR 02/14/1997 TOR vs. MIL L 42 12 4 16 25.0 1 3 33.3 3 3 100.0 0 8 8 14 3 1 7 0 -9
+p323
+aVClifford Rozier TOR 02/14/1997 TOR vs. MIL L 13 6 3 5 60.0 0 0 - 0 1 0.0 3 3 6 1 0 0 0 3 -6
+p324
+aVDamon Stoudamire TOR 02/12/1997 TOR @ ATL L 36 15 5 11 45.5 5 9 55.6 0 0 - 0 1 1 3 2 0 4 1 -27
+p325
+aVJohn Long TOR 02/12/1997 TOR @ ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 6
+p326
+aVReggie Slater TOR 02/12/1997 TOR @ ATL L 5 7 2 2 100.0 0 0 - 3 4 75.0 1 1 2 0 0 0 0 0 4
+p327
+aVHubert Davis TOR 02/12/1997 TOR @ ATL L 5 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 6
+p328
+aVAcie Earl TOR 02/12/1997 TOR @ ATL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 2 0 0 6
+p329
+aVSharone Wright TOR 02/12/1997 TOR @ ATL L 16 7 3 4 75.0 0 0 - 1 2 50.0 0 3 3 0 1 0 3 1 2
+p330
+aVClifford Rozier TOR 02/12/1997 TOR @ ATL L 24 8 4 11 36.4 0 0 - 0 0 - 6 1 7 0 2 2 1 2 -7
+p331
+aVWalt Williams TOR 02/12/1997 TOR @ ATL L 39 15 4 8 50.0 2 3 66.7 5 6 83.3 1 4 5 2 0 0 2 2 -21
+p332
+aVDoug Christie TOR 02/12/1997 TOR @ ATL L 26 4 2 5 40.0 0 3 0.0 0 0 - 0 2 2 2 1 0 5 3 -10
+p333
+aVMarcus Camby TOR 02/12/1997 TOR @ ATL L 26 14 6 13 46.2 0 0 - 2 2 100.0 1 2 3 2 2 0 5 2 -16
+p334
+aVCarlos Rogers TOR 02/12/1997 TOR @ ATL L 27 2 1 5 20.0 0 0 - 0 2 0.0 0 4 4 1 0 0 0 3 -20
+p335
+aVPopeye Jones TOR 02/12/1997 TOR @ ATL L 30 8 4 6 66.7 0 0 - 0 0 - 2 1 3 1 2 0 2 3 -33
+p336
+aVCarlos Rogers TOR 02/11/1997 TOR @ MIL L 29 9 4 9 44.4 0 2 0.0 1 3 33.3 2 5 7 1 1 2 1 1 -12
+p337
+aVDoug Christie TOR 02/11/1997 TOR @ MIL L 34 17 5 12 41.7 2 5 40.0 5 6 83.3 0 3 3 5 2 0 2 3 4
+p338
+aVWalt Williams TOR 02/11/1997 TOR @ MIL L 44 27 9 18 50.0 5 9 55.6 4 5 80.0 0 2 2 4 2 1 1 2 3
+p339
+aVSharone Wright TOR 02/11/1997 TOR @ MIL L 6 5 2 3 66.7 0 0 - 1 4 25.0 1 2 3 0 0 0 1 1 -5
+p340
+aVHubert Davis TOR 02/11/1997 TOR @ MIL L 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p341
+aVPopeye Jones TOR 02/11/1997 TOR @ MIL L 39 16 7 12 58.3 0 0 - 2 2 100.0 5 9 14 2 0 0 2 2 4
+p342
+aVDamon Stoudamire TOR 02/11/1997 TOR @ MIL L 39 13 3 19 15.8 1 4 25.0 6 6 100.0 1 2 3 12 1 0 2 2 -6
+p343
+aVReggie Slater TOR 02/11/1997 TOR @ MIL L 11 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -10
+p344
+aVClifford Rozier TOR 02/11/1997 TOR @ MIL L 22 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 1 3 6 6
+p345
+aVReggie Slater TOR 02/05/1997 TOR vs. CLE W 19 5 1 4 25.0 0 0 - 3 8 37.5 2 4 6 2 0 0 2 3 1
+p346
+aVWalt Williams TOR 02/05/1997 TOR vs. CLE W 40 26 8 16 50.0 3 5 60.0 7 10 70.0 1 5 6 4 1 1 2 3 11
+p347
+aVJohn Long TOR 02/05/1997 TOR vs. CLE W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -2
+p348
+aVClifford Rozier TOR 02/05/1997 TOR vs. CLE W 42 19 6 12 50.0 0 1 0.0 7 10 70.0 4 5 9 1 1 6 0 5 5
+p349
+aVPopeye Jones TOR 02/05/1997 TOR vs. CLE W 41 6 3 9 33.3 0 1 0.0 0 0 - 4 4 8 5 3 0 1 3 8
+p350
+aVMarcus Camby TOR 02/05/1997 TOR vs. CLE W 39 14 6 11 54.5 0 0 - 2 2 100.0 1 5 6 3 1 1 0 4 2
+p351
+aVDamon Stoudamire TOR 02/05/1997 TOR vs. CLE W 43 19 4 15 26.7 2 7 28.6 9 9 100.0 0 4 4 10 2 0 4 2 0
+p352
+aVHubert Davis TOR 02/03/1997 TOR vs. BOS L 20 7 2 6 33.3 0 2 0.0 3 4 75.0 2 1 3 0 2 0 0 2 -8
+p353
+aVWalt Williams TOR 02/03/1997 TOR vs. BOS L 42 16 6 12 50.0 2 6 33.3 2 3 66.7 2 2 4 4 1 3 3 3 -10
+p354
+aVReggie Slater TOR 02/03/1997 TOR vs. BOS L 26 13 5 9 55.6 0 0 - 3 5 60.0 1 6 7 4 1 1 5 3 -2
+p355
+aVJohn Long TOR 02/03/1997 TOR vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p356
+aVPopeye Jones TOR 02/03/1997 TOR vs. BOS L 42 18 8 10 80.0 0 0 - 2 2 100.0 2 9 11 1 2 3 0 5 -9
+p357
+aVDoug Christie TOR 02/03/1997 TOR vs. BOS L 9 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 1 0 0 0 3 -6
+p358
+aVDamon Stoudamire TOR 02/03/1997 TOR vs. BOS L 46 26 9 20 45.0 3 10 30.0 5 6 83.3 1 2 3 10 1 0 8 1 -12
+p359
+aVMarcus Camby TOR 02/03/1997 TOR vs. BOS L 43 12 6 16 37.5 0 0 - 0 0 - 3 5 8 4 1 5 2 6 -10
+p360
+aVClifford Rozier TOR 02/03/1997 TOR vs. BOS L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 2 0 2 -1
+p361
+aVHubert Davis TOR 02/01/1997 TOR vs. PHX W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p362
+aVReggie Slater TOR 02/01/1997 TOR vs. PHX W 18 13 5 10 50.0 0 0 - 3 4 75.0 0 1 1 1 0 0 3 1 4
+p363
+aVWalt Williams TOR 02/01/1997 TOR vs. PHX W 40 33 12 19 63.2 6 9 66.7 3 3 100.0 4 8 12 6 2 4 2 3 15
+p364
+aVDoug Christie TOR 02/01/1997 TOR vs. PHX W 34 17 6 13 46.2 4 7 57.1 1 2 50.0 0 8 8 7 1 1 2 2 21
+p365
+aVAcie Earl TOR 02/01/1997 TOR vs. PHX W 2 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 0 1 0 0 1 1
+p366
+aVPopeye Jones TOR 02/01/1997 TOR vs. PHX W 41 16 7 12 58.3 0 0 - 2 4 50.0 7 7 14 3 2 1 3 4 21
+p367
+aVJohn Long TOR 02/01/1997 TOR vs. PHX W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p368
+aVClifford Rozier TOR 02/01/1997 TOR vs. PHX W 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 9
+p369
+aVDamon Stoudamire TOR 02/01/1997 TOR vs. PHX W 39 7 3 12 25.0 1 6 16.7 0 0 - 0 4 4 13 3 0 1 2 14
+p370
+aVMarcus Camby TOR 02/01/1997 TOR vs. PHX W 36 17 6 15 40.0 0 2 0.0 5 7 71.4 2 6 8 2 1 9 3 3 28
+p371
+aVWalt Williams TOR 01/29/1997 TOR @ PHI L 28 8 2 13 15.4 1 10 10.0 3 3 100.0 3 2 5 5 1 1 2 6 -3
+p372
+aVReggie Slater TOR 01/29/1997 TOR @ PHI L 19 10 3 5 60.0 0 0 - 4 11 36.4 3 1 4 0 1 0 1 0 7
+p373
+aVDoug Christie TOR 01/29/1997 TOR @ PHI L 35 13 5 12 41.7 1 6 16.7 2 2 100.0 0 3 3 6 8 0 6 5 -6
+p374
+aVJohn Long TOR 01/29/1997 TOR @ PHI L 27 8 3 8 37.5 2 4 50.0 0 0 - 1 3 4 1 0 0 3 1 4
+p375
+aVMarcus Camby TOR 01/29/1997 TOR @ PHI L 29 18 8 18 44.4 0 0 - 2 2 100.0 5 3 8 1 0 0 0 4 -6
+p376
+aVPopeye Jones TOR 01/29/1997 TOR @ PHI L 38 15 5 9 55.6 0 0 - 5 5 100.0 6 4 10 0 0 0 1 3 -6
+p377
+aVDamon Stoudamire TOR 01/29/1997 TOR @ PHI L 46 25 10 19 52.6 5 11 45.5 0 2 0.0 1 3 4 5 2 0 2 5 2
+p378
+aVAcie Earl TOR 01/29/1997 TOR @ PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p379
+aVClifford Rozier TOR 01/29/1997 TOR @ PHI L 16 2 1 4 25.0 0 0 - 0 0 - 1 7 8 1 0 3 0 1 0
+p380
+aVReggie Slater TOR 01/28/1997 TOR vs. POR W 28 15 6 15 40.0 0 0 - 3 8 37.5 3 3 6 0 0 1 1 3 20
+p381
+aVDoug Christie TOR 01/28/1997 TOR vs. POR W 33 33 10 13 76.9 2 4 50.0 11 11 100.0 0 5 5 5 1 0 3 2 23
+p382
+aVMarcus Camby TOR 01/28/1997 TOR vs. POR W 38 18 7 17 41.2 0 1 0.0 4 4 100.0 0 6 6 3 1 1 1 5 32
+p383
+aVMartin Lewis TOR 01/28/1997 TOR vs. POR W 8 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 0 0 1 2
+p384
+aVJohn Long TOR 01/28/1997 TOR vs. POR W 11 6 1 4 25.0 0 0 - 4 4 100.0 0 4 4 1 0 0 2 0 -5
+p385
+aVWalt Williams TOR 01/28/1997 TOR vs. POR W 33 24 8 15 53.3 6 9 66.7 2 3 66.7 0 3 3 6 2 5 1 2 32
+p386
+aVDamon Stoudamire TOR 01/28/1997 TOR vs. POR W 28 11 3 7 42.9 1 1 100.0 4 4 100.0 1 2 3 13 0 0 0 0 28
+p387
+aVAcie Earl TOR 01/28/1997 TOR vs. POR W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p388
+aVPopeye Jones TOR 01/28/1997 TOR vs. POR W 27 4 2 4 50.0 0 0 - 0 0 - 3 4 7 1 1 3 4 4 21
+p389
+aVClifford Rozier TOR 01/28/1997 TOR vs. POR W 28 4 2 4 50.0 0 0 - 0 0 - 3 8 11 2 1 6 3 2 25
+p390
+aVMarcus Camby TOR 01/25/1997 TOR @ CHI L 42 23 10 18 55.6 0 0 - 3 3 100.0 2 3 5 1 2 2 3 3 -8
+p391
+aVClifford Rozier TOR 01/25/1997 TOR @ CHI L 20 0 0 1 0.0 0 0 - 0 0 - 2 5 7 0 0 0 0 1 -7
+p392
+aVAcie Earl TOR 01/25/1997 TOR @ CHI L 15 6 3 5 60.0 0 0 - 0 2 0.0 1 0 1 1 0 0 0 0 -11
+p393
+aVJohn Long TOR 01/25/1997 TOR @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p394
+aVDoug Christie TOR 01/25/1997 TOR @ CHI L 35 7 1 9 11.1 1 4 25.0 4 6 66.7 3 1 4 0 0 0 5 3 -18
+p395
+aVDamon Stoudamire TOR 01/25/1997 TOR @ CHI L 42 26 8 18 44.4 3 8 37.5 7 7 100.0 3 2 5 11 4 0 12 2 3
+p396
+aVPopeye Jones TOR 01/25/1997 TOR @ CHI L 40 17 8 15 53.3 0 0 - 1 2 50.0 3 13 16 0 1 0 2 4 -11
+p397
+aVWalt Williams TOR 01/25/1997 TOR @ CHI L 43 19 7 16 43.8 3 9 33.3 2 2 100.0 2 7 9 4 2 1 2 2 2
+p398
+aVClifford Rozier TOR 01/23/1997 TOR vs. MIA L 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 1 0 3 -3
+p399
+aVMarcus Camby TOR 01/23/1997 TOR vs. MIA L 42 12 5 15 33.3 0 0 - 2 5 40.0 3 7 10 0 0 3 2 5 -10
+p400
+aVDamon Stoudamire TOR 01/23/1997 TOR vs. MIA L 47 22 7 20 35.0 3 8 37.5 5 6 83.3 2 3 5 11 2 0 2 1 -6
+p401
+aVAcie Earl TOR 01/23/1997 TOR vs. MIA L 6 4 2 4 50.0 0 0 - 0 0 - 3 0 3 0 0 0 1 0 1
+p402
+aVJohn Long TOR 01/23/1997 TOR vs. MIA L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -7
+p403
+aVDoug Christie TOR 01/23/1997 TOR vs. MIA L 38 14 5 13 38.5 0 2 0.0 4 4 100.0 0 6 6 2 1 0 2 5 -10
+p404
+aVPopeye Jones TOR 01/23/1997 TOR vs. MIA L 40 12 6 9 66.7 0 0 - 0 0 - 3 3 6 1 2 0 2 5 -13
+p405
+aVWalt Williams TOR 01/23/1997 TOR vs. MIA L 48 23 4 14 28.6 2 8 25.0 13 15 86.7 0 2 2 4 0 0 3 5 -12
+p406
+aVJohn Long TOR 01/21/1997 TOR vs. MIN W 5 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 0 -8
+p407
+aVDoug Christie TOR 01/21/1997 TOR vs. MIN W 42 17 7 12 58.3 1 3 33.3 2 2 100.0 2 7 9 7 3 1 2 2 20
+p408
+aVDamon Stoudamire TOR 01/21/1997 TOR vs. MIN W 38 12 4 9 44.4 2 3 66.7 2 2 100.0 1 1 2 17 0 0 3 2 16
+p409
+aVPopeye Jones TOR 01/21/1997 TOR vs. MIN W 40 4 2 5 40.0 0 0 - 0 0 - 1 9 10 2 1 4 0 2 28
+p410
+aVCarlos Rogers TOR 01/21/1997 TOR vs. MIN W 30 24 9 13 69.2 3 4 75.0 3 6 50.0 1 3 4 2 0 4 1 4 13
+p411
+aVJimmy Oliver TOR 01/21/1997 TOR vs. MIN W 4 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -12
+p412
+aVWalt Williams TOR 01/21/1997 TOR vs. MIN W 37 32 12 20 60.0 6 8 75.0 2 2 100.0 0 6 6 5 1 0 2 4 25
+p413
+aVMarcus Camby TOR 01/21/1997 TOR vs. MIN W 32 23 9 14 64.3 0 0 - 5 7 71.4 4 2 6 3 0 5 1 3 4
+p414
+aVZan Tabak TOR 01/21/1997 TOR vs. MIN W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 -11
+p415
+aVMartin Lewis TOR 01/21/1997 TOR vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -11
+p416
+aVAcie Earl TOR 01/21/1997 TOR vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p417
+aVDamon Stoudamire TOR 01/19/1997 TOR @ VAN L 44 34 10 20 50.0 6 11 54.5 8 8 100.0 0 3 3 6 1 0 4 1 -13
+p418
+aVDoug Christie TOR 01/19/1997 TOR @ VAN L 37 13 5 12 41.7 0 4 0.0 3 4 75.0 2 2 4 3 3 0 3 5 -5
+p419
+aVWalt Williams TOR 01/19/1997 TOR @ VAN L 38 15 4 14 28.6 0 5 0.0 7 10 70.0 3 5 8 4 0 2 2 2 -15
+p420
+aVJimmy Oliver TOR 01/19/1997 TOR @ VAN L 15 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p421
+aVAcie Earl TOR 01/19/1997 TOR @ VAN L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 2
+p422
+aVCarlos Rogers TOR 01/19/1997 TOR @ VAN L 28 14 7 10 70.0 0 1 0.0 0 0 - 2 1 3 0 0 4 0 1 0
+p423
+aVPopeye Jones TOR 01/19/1997 TOR @ VAN L 36 4 2 9 22.2 0 0 - 0 0 - 6 3 9 0 0 0 2 3 -9
+p424
+aVMarcus Camby TOR 01/19/1997 TOR @ VAN L 34 12 5 16 31.3 0 0 - 2 4 50.0 3 8 11 1 1 2 1 5 -1
+p425
+aVWalt Williams TOR 01/17/1997 TOR @ POR W 38 17 6 19 31.6 3 9 33.3 2 2 100.0 3 4 7 0 2 0 1 4 11
+p426
+aVDoug Christie TOR 01/17/1997 TOR @ POR W 40 9 4 11 36.4 0 2 0.0 1 2 50.0 0 5 5 8 1 1 0 4 2
+p427
+aVCarlos Rogers TOR 01/17/1997 TOR @ POR W 24 9 4 8 50.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 0 -15
+p428
+aVMarcus Camby TOR 01/17/1997 TOR @ POR W 37 16 7 18 38.9 0 1 0.0 2 4 50.0 3 4 7 2 3 4 2 3 12
+p429
+aVDamon Stoudamire TOR 01/17/1997 TOR @ POR W 41 24 10 17 58.8 1 6 16.7 3 3 100.0 0 1 1 3 1 0 2 3 3
+p430
+aVPopeye Jones TOR 01/17/1997 TOR @ POR W 42 13 6 9 66.7 0 0 - 1 1 100.0 3 9 12 1 2 0 2 2 8
+p431
+aVJimmy Oliver TOR 01/17/1997 TOR @ POR W 5 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -6
+p432
+aVAcie Earl TOR 01/17/1997 TOR @ POR W 12 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -5
+p433
+aVWalt Williams TOR 01/15/1997 TOR @ SEA L 37 12 4 13 30.8 1 7 14.3 3 3 100.0 3 4 7 6 1 0 2 3 -28
+p434
+aVCarlos Rogers TOR 01/15/1997 TOR @ SEA L 31 15 4 11 36.4 1 3 33.3 6 6 100.0 3 4 7 0 0 1 2 4 -22
+p435
+aVPopeye Jones TOR 01/15/1997 TOR @ SEA L 25 8 4 5 80.0 0 0 - 0 0 - 1 4 5 1 1 0 1 2 -22
+p436
+aVDamon Stoudamire TOR 01/15/1997 TOR @ SEA L 34 6 3 10 30.0 0 3 0.0 0 0 - 1 0 1 7 1 0 4 2 -33
+p437
+aVMarcus Camby TOR 01/15/1997 TOR @ SEA L 23 9 4 6 66.7 0 0 - 1 3 33.3 0 3 3 0 3 3 5 6 -31
+p438
+aVSharone Wright TOR 01/15/1997 TOR @ SEA L 19 2 1 6 16.7 0 0 - 0 0 - 1 1 2 1 1 1 4 3 -8
+p439
+aVJimmy Oliver TOR 01/15/1997 TOR @ SEA L 18 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 1 1 0 3 1 -21
+p440
+aVMartin Lewis TOR 01/15/1997 TOR @ SEA L 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 0
+p441
+aVJohn Long TOR 01/15/1997 TOR @ SEA L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 1 2 0 3 0 -10
+p442
+aVDoug Christie TOR 01/15/1997 TOR @ SEA L 29 15 6 14 42.9 3 7 42.9 0 0 - 1 5 6 3 2 1 5 3 -26
+p443
+aVAcie Earl TOR 01/15/1997 TOR @ SEA L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 3 1 -19
+p444
+aVDamon Stoudamire TOR 01/12/1997 TOR vs. ORL L 42 19 5 16 31.3 2 5 40.0 7 8 87.5 1 4 5 14 1 0 2 2 -5
+p445
+aVPopeye Jones TOR 01/12/1997 TOR vs. ORL L 36 13 6 8 75.0 0 0 - 1 1 100.0 2 8 10 1 1 0 0 5 12
+p446
+aVAcie Earl TOR 01/12/1997 TOR vs. ORL L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -2
+p447
+aVMarcus Camby TOR 01/12/1997 TOR vs. ORL L 26 4 2 6 33.3 0 0 - 0 2 0.0 1 2 3 2 1 1 2 0 -2
+p448
+aVCarlos Rogers TOR 01/12/1997 TOR vs. ORL L 29 9 3 4 75.0 0 0 - 3 4 75.0 1 5 6 2 1 2 0 3 -3
+p449
+aVDoug Christie TOR 01/12/1997 TOR vs. ORL L 37 7 3 9 33.3 0 3 0.0 1 4 25.0 1 6 7 5 2 0 1 6 -8
+p450
+aVSharone Wright TOR 01/12/1997 TOR vs. ORL L 18 9 4 8 50.0 0 0 - 1 4 25.0 3 2 5 0 0 1 1 4 -9
+p451
+aVWalt Williams TOR 01/12/1997 TOR vs. ORL L 43 22 8 19 42.1 3 6 50.0 3 5 60.0 1 5 6 2 1 4 4 2 2
+p452
+aVAcie Earl TOR 01/11/1997 TOR @ NJN W 11 8 1 1 100.0 0 0 - 6 10 60.0 0 0 0 0 0 1 1 2 -1
+p453
+aVWalt Williams TOR 01/11/1997 TOR @ NJN W 40 28 9 18 50.0 3 9 33.3 7 9 77.8 2 4 6 2 2 2 1 5 24
+p454
+aVJohn Long TOR 01/11/1997 TOR @ NJN W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -4
+p455
+aVDoug Christie TOR 01/11/1997 TOR @ NJN W 43 17 3 11 27.3 3 6 50.0 8 8 100.0 2 6 8 9 3 0 3 1 20
+p456
+aVCarlos Rogers TOR 01/11/1997 TOR @ NJN W 20 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 3 3 1
+p457
+aVDamon Stoudamire TOR 01/11/1997 TOR @ NJN W 40 28 9 19 47.4 6 10 60.0 4 4 100.0 2 2 4 9 3 1 5 2 18
+p458
+aVEarl Cureton TOR 01/11/1997 TOR @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p459
+aVSharone Wright TOR 01/11/1997 TOR @ NJN W 19 8 4 5 80.0 0 0 - 0 2 0.0 1 2 3 3 0 2 2 3 10
+p460
+aVPopeye Jones TOR 01/11/1997 TOR @ NJN W 35 12 5 6 83.3 0 0 - 2 2 100.0 3 6 9 1 0 2 3 5 19
+p461
+aVMartin Lewis TOR 01/11/1997 TOR @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p462
+aVMarcus Camby TOR 01/11/1997 TOR @ NJN W 28 19 7 11 63.6 0 0 - 5 9 55.6 4 5 9 1 1 3 2 5 5
+p463
+aVPopeye Jones TOR 01/09/1997 TOR vs. UTA W 39 12 5 11 45.5 0 0 - 2 2 100.0 5 9 14 1 0 0 1 3 18
+p464
+aVSharone Wright TOR 01/09/1997 TOR vs. UTA W 15 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 0 0 0 4 3 -3
+p465
+aVDoug Christie TOR 01/09/1997 TOR vs. UTA W 39 22 6 10 60.0 3 3 100.0 7 10 70.0 1 3 4 10 2 0 2 3 5
+p466
+aVMarcus Camby TOR 01/09/1997 TOR vs. UTA W 20 8 3 9 33.3 0 0 - 2 2 100.0 0 2 2 4 0 1 2 2 2
+p467
+aVDamon Stoudamire TOR 01/09/1997 TOR vs. UTA W 42 27 11 20 55.0 5 8 62.5 0 0 - 1 1 2 7 3 1 4 2 17
+p468
+aVJohn Long TOR 01/09/1997 TOR vs. UTA W 6 3 0 1 0.0 0 0 - 3 3 100.0 0 0 0 0 0 0 0 1 -3
+p469
+aVWalt Williams TOR 01/09/1997 TOR vs. UTA W 34 17 6 12 50.0 2 5 40.0 3 4 75.0 4 4 8 2 1 0 4 5 17
+p470
+aVCarlos Rogers TOR 01/09/1997 TOR vs. UTA W 36 13 4 6 66.7 2 3 66.7 3 3 100.0 0 6 6 1 0 1 1 2 15
+p471
+aVAcie Earl TOR 01/09/1997 TOR vs. UTA W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p472
+aVAcie Earl TOR 01/07/1997 TOR vs. LAC L 24 7 3 9 33.3 0 0 - 1 2 50.0 2 3 5 2 0 1 1 4 10
+p473
+aVEarl Cureton TOR 01/07/1997 TOR vs. LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p474
+aVDoug Christie TOR 01/07/1997 TOR vs. LAC L 42 19 5 15 33.3 4 8 50.0 5 6 83.3 1 10 11 5 2 3 5 2 -6
+p475
+aVPopeye Jones TOR 01/07/1997 TOR vs. LAC L 46 4 2 5 40.0 0 1 0.0 0 0 - 2 8 10 0 4 0 4 6 -7
+p476
+aVDamon Stoudamire TOR 01/07/1997 TOR vs. LAC L 46 25 11 27 40.7 3 10 30.0 0 2 0.0 1 5 6 9 0 0 2 4 -10
+p477
+aVSharone Wright TOR 01/07/1997 TOR vs. LAC L 24 6 2 11 18.2 0 0 - 2 2 100.0 2 2 4 3 0 1 3 5 -16
+p478
+aVCarlos Rogers TOR 01/07/1997 TOR vs. LAC L 48 14 6 12 50.0 1 1 100.0 1 1 100.0 6 3 9 1 2 3 1 4 -7
+p479
+aVJohn Long TOR 01/07/1997 TOR vs. LAC L 9 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 2 1 0 0 0 1
+p480
+aVJohn Long TOR 01/04/1997 TOR @ DET L 31 12 4 10 40.0 2 4 50.0 2 2 100.0 1 4 5 0 1 0 2 2 -26
+p481
+aVPopeye Jones TOR 01/04/1997 TOR @ DET L 27 10 4 9 44.4 0 0 - 2 3 66.7 3 4 7 0 1 0 4 2 -19
+p482
+aVDonald Whiteside TOR 01/04/1997 TOR @ DET L 36 2 1 9 11.1 0 7 0.0 0 0 - 0 0 0 2 0 0 4 1 -43
+p483
+aVDoug Christie TOR 01/04/1997 TOR @ DET L 33 20 7 12 58.3 3 7 42.9 3 5 60.0 2 4 6 0 2 0 5 2 -26
+p484
+aVCarlos Rogers TOR 01/04/1997 TOR @ DET L 33 18 5 10 50.0 1 3 33.3 7 7 100.0 2 1 3 0 1 3 1 4 -31
+p485
+aVSharone Wright TOR 01/04/1997 TOR @ DET L 22 3 1 6 16.7 0 0 - 1 2 50.0 0 1 1 0 1 0 2 6 -29
+p486
+aVEarl Cureton TOR 01/04/1997 TOR @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p487
+aVAcie Earl TOR 01/04/1997 TOR @ DET L 20 5 1 8 12.5 0 1 0.0 3 3 100.0 1 1 2 1 2 0 2 0 -15
+p488
+aVDamon Stoudamire TOR 01/04/1997 TOR @ DET L 32 4 1 10 10.0 0 5 0.0 2 4 50.0 2 2 4 5 2 0 2 4 -26
+p489
+aVWalt Williams TOR 01/02/1997 TOR @ ORL L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p490
+aVDoug Christie TOR 01/02/1997 TOR @ ORL L 50 14 6 12 50.0 2 3 66.7 0 0 - 3 5 8 2 1 0 1 4 5
+p491
+aVPopeye Jones TOR 01/02/1997 TOR @ ORL L 39 8 4 12 33.3 0 0 - 0 0 - 6 5 11 1 0 1 4 6 -8
+p492
+aVDamon Stoudamire TOR 01/02/1997 TOR @ ORL L 48 32 10 28 35.7 4 9 44.4 8 10 80.0 2 2 4 12 5 0 1 1 -4
+p493
+aVZan Tabak TOR 01/02/1997 TOR @ ORL L 22 6 2 3 66.7 0 0 - 2 4 50.0 0 3 3 1 1 1 5 4 -5
+p494
+aVSharone Wright TOR 01/02/1997 TOR @ ORL L 13 5 2 7 28.6 0 0 - 1 2 50.0 1 0 1 0 0 0 1 4 -15
+p495
+aVMarcus Camby TOR 01/02/1997 TOR @ ORL L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p496
+aVDonald Whiteside TOR 01/02/1997 TOR @ ORL L 31 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 3 9
+p497
+aVAcie Earl TOR 01/02/1997 TOR @ ORL L 34 23 8 11 72.7 0 0 - 7 11 63.6 2 4 6 2 2 6 2 4 17
+p498
+aVJohn Long TOR 01/02/1997 TOR @ ORL L 19 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -9
+p499
+aVDamon Stoudamire TOR 12/27/1996 TOR @ WAS L 43 16 6 18 33.3 2 10 20.0 2 3 66.7 0 5 5 8 0 1 5 3 -11
+p500
+aVJohn Long TOR 12/27/1996 TOR @ WAS L 13 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 2 0 -10
+p501
+aVDonald Whiteside TOR 12/27/1996 TOR @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p502
+aVPopeye Jones TOR 12/27/1996 TOR @ WAS L 34 3 1 2 50.0 0 1 0.0 1 2 50.0 3 6 9 0 0 0 4 4 -5
+p503
+aVAcie Earl TOR 12/27/1996 TOR @ WAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p504
+aVMarcus Camby TOR 12/27/1996 TOR @ WAS L 27 14 6 11 54.5 0 0 - 2 3 66.7 3 7 10 0 2 0 2 3 -16
+p505
+aVCarlos Rogers TOR 12/27/1996 TOR @ WAS L 14 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -11
+p506
+aVZan Tabak TOR 12/27/1996 TOR @ WAS L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -7
+p507
+aVSharone Wright TOR 12/27/1996 TOR @ WAS L 18 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 0 0 1 4 1
+p508
+aVWalt Williams TOR 12/27/1996 TOR @ WAS L 41 16 6 14 42.9 3 7 42.9 1 2 50.0 0 4 4 0 0 0 4 3 -19
+p509
+aVDoug Christie TOR 12/27/1996 TOR @ WAS L 37 20 6 13 46.2 3 6 50.0 5 6 83.3 0 7 7 1 1 1 1 2 -11
+p510
+aVEarl Cureton TOR 12/27/1996 TOR @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p511
+aVMarcus Camby TOR 12/26/1996 TOR vs. NJN W 24 13 6 12 50.0 0 1 0.0 1 2 50.0 2 7 9 4 0 3 2 3 5
+p512
+aVWalt Williams TOR 12/26/1996 TOR vs. NJN W 45 17 6 12 50.0 1 2 50.0 4 4 100.0 3 7 10 5 1 0 3 4 -2
+p513
+aVJohn Long TOR 12/26/1996 TOR vs. NJN W 21 15 6 12 50.0 1 3 33.3 2 2 100.0 0 0 0 1 0 1 0 4 7
+p514
+aVCarlos Rogers TOR 12/26/1996 TOR vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p515
+aVDoug Christie TOR 12/26/1996 TOR vs. NJN W 40 10 3 8 37.5 1 5 20.0 3 4 75.0 1 6 7 7 0 0 2 5 -4
+p516
+aVZan Tabak TOR 12/26/1996 TOR vs. NJN W 20 8 4 8 50.0 0 0 - 0 0 - 2 4 6 1 0 3 0 2 8
+p517
+aVSharone Wright TOR 12/26/1996 TOR vs. NJN W 19 5 2 6 33.3 0 0 - 1 1 100.0 2 5 7 1 0 1 2 1 -7
+p518
+aVDamon Stoudamire TOR 12/26/1996 TOR vs. NJN W 35 18 4 17 23.5 2 6 33.3 8 11 72.7 1 1 2 6 2 1 1 4 1
+p519
+aVPopeye Jones TOR 12/26/1996 TOR vs. NJN W 31 12 6 10 60.0 0 0 - 0 0 - 7 4 11 1 0 1 1 4 0
+p520
+aVDonald Whiteside TOR 12/22/1996 TOR @ IND L 10 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 2 0 0 0 1 4
+p521
+aVDamon Stoudamire TOR 12/22/1996 TOR @ IND L 38 8 4 16 25.0 0 5 0.0 0 0 - 3 2 5 3 0 0 4 2 -23
+p522
+aVWalt Williams TOR 12/22/1996 TOR @ IND L 41 13 5 11 45.5 1 6 16.7 2 2 100.0 3 3 6 3 2 1 4 5 -24
+p523
+aVCarlos Rogers TOR 12/22/1996 TOR @ IND L 28 15 7 12 58.3 0 1 0.0 1 5 20.0 2 1 3 0 3 0 1 2 -15
+p524
+aVEarl Cureton TOR 12/22/1996 TOR @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p525
+aVAcie Earl TOR 12/22/1996 TOR @ IND L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 5
+p526
+aVSharone Wright TOR 12/22/1996 TOR @ IND L 22 10 3 13 23.1 0 0 - 4 6 66.7 1 2 3 1 1 1 1 2 -4
+p527
+aVDoug Christie TOR 12/22/1996 TOR @ IND L 38 14 4 15 26.7 1 3 33.3 5 6 83.3 3 6 9 1 1 0 4 3 -19
+p528
+aVPopeye Jones TOR 12/22/1996 TOR @ IND L 23 5 2 4 50.0 0 1 0.0 1 2 50.0 4 7 11 1 1 0 0 2 -11
+p529
+aVZan Tabak TOR 12/22/1996 TOR @ IND L 15 10 5 10 50.0 0 0 - 0 0 - 4 2 6 2 1 0 0 3 -6
+p530
+aVJohn Long TOR 12/22/1996 TOR @ IND L 18 12 4 10 40.0 1 1 100.0 3 3 100.0 1 2 3 1 1 0 1 0 -3
+p531
+aVDamon Stoudamire TOR 12/20/1996 TOR @ CLE L 37 14 3 13 23.1 1 3 33.3 7 7 100.0 0 1 1 7 0 0 2 1 -19
+p532
+aVDoug Christie TOR 12/20/1996 TOR @ CLE L 37 9 3 13 23.1 1 6 16.7 2 4 50.0 1 7 8 3 2 0 4 3 -22
+p533
+aVWalt Williams TOR 12/20/1996 TOR @ CLE L 32 13 6 11 54.5 1 3 33.3 0 0 - 0 3 3 0 0 0 3 6 -23
+p534
+aVPopeye Jones TOR 12/20/1996 TOR @ CLE L 30 4 1 4 25.0 0 0 - 2 2 100.0 4 1 5 3 0 0 3 4 -1
+p535
+aVZan Tabak TOR 12/20/1996 TOR @ CLE L 18 4 2 5 40.0 0 0 - 0 0 - 1 3 4 2 2 1 1 1 -1
+p536
+aVJohn Long TOR 12/20/1996 TOR @ CLE L 19 7 3 8 37.5 1 2 50.0 0 0 - 1 1 2 2 1 0 1 2 11
+p537
+aVSharone Wright TOR 12/20/1996 TOR @ CLE L 20 8 4 6 66.7 0 0 - 0 0 - 0 4 4 2 1 0 3 1 -10
+p538
+aVCarlos Rogers TOR 12/20/1996 TOR @ CLE L 32 18 6 8 75.0 1 2 50.0 5 8 62.5 1 3 4 0 2 2 1 4 1
+p539
+aVEarl Cureton TOR 12/20/1996 TOR @ CLE L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 9
+p540
+aVDonald Whiteside TOR 12/20/1996 TOR @ CLE L 8 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 2 0 0 1 1 10
+p541
+aVPopeye Jones TOR 12/19/1996 TOR vs. MIL W 29 4 1 6 16.7 0 0 - 2 2 100.0 7 10 17 1 2 0 1 5 0
+p542
+aVSharone Wright TOR 12/19/1996 TOR vs. MIL W 32 15 7 13 53.8 0 0 - 1 6 16.7 2 2 4 0 0 2 2 4 4
+p543
+aVZan Tabak TOR 12/19/1996 TOR vs. MIL W 17 16 7 13 53.8 0 0 - 2 2 100.0 2 1 3 1 0 1 0 2 -2
+p544
+aVCarlos Rogers TOR 12/19/1996 TOR vs. MIL W 32 16 5 9 55.6 0 1 0.0 6 8 75.0 3 0 3 0 2 1 0 2 18
+p545
+aVDonald Whiteside TOR 12/19/1996 TOR vs. MIL W 7 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 1 -2
+p546
+aVJohn Long TOR 12/19/1996 TOR vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p547
+aVDamon Stoudamire TOR 12/19/1996 TOR vs. MIL W 41 19 8 21 38.1 2 4 50.0 1 2 50.0 2 3 5 12 3 1 3 2 4
+p548
+aVWalt Williams TOR 12/19/1996 TOR vs. MIL W 34 8 3 10 30.0 2 4 50.0 0 0 - 1 2 3 4 0 0 2 3 -10
+p549
+aVDoug Christie TOR 12/19/1996 TOR vs. MIL W 45 17 5 8 62.5 2 3 66.7 5 6 83.3 0 3 3 5 4 0 2 2 3
+p550
+aVPopeye Jones TOR 12/17/1996 TOR @ NJN W 37 2 1 5 20.0 0 0 - 0 0 - 4 8 12 3 2 0 0 5 6
+p551
+aVDamon Stoudamire TOR 12/17/1996 TOR @ NJN W 34 17 4 9 44.4 0 2 0.0 9 14 64.3 0 5 5 2 0 0 3 2 6
+p552
+aVWalt Williams TOR 12/17/1996 TOR @ NJN W 41 24 8 13 61.5 4 7 57.1 4 6 66.7 0 8 8 1 2 1 3 4 11
+p553
+aVSharone Wright TOR 12/17/1996 TOR @ NJN W 25 13 5 7 71.4 0 0 - 3 4 75.0 1 5 6 1 0 2 4 3 7
+p554
+aVCarlos Rogers TOR 12/17/1996 TOR @ NJN W 18 7 3 7 42.9 0 1 0.0 1 2 50.0 1 6 7 1 0 1 0 1 4
+p555
+aVDonald Whiteside TOR 12/17/1996 TOR @ NJN W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 4 2 3
+p556
+aVJohn Long TOR 12/17/1996 TOR @ NJN W 13 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 0 1
+p557
+aVZan Tabak TOR 12/17/1996 TOR @ NJN W 18 11 3 6 50.0 0 0 - 5 5 100.0 3 0 3 2 0 2 5 5 2
+p558
+aVDoug Christie TOR 12/17/1996 TOR @ NJN W 39 13 5 11 45.5 3 5 60.0 0 2 0.0 0 5 5 3 0 1 2 3 5
+p559
+aVDonald Whiteside TOR 12/16/1996 TOR vs. DET L 6 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 1 0 0 0 0 -2
+p560
+aVCarlos Rogers TOR 12/16/1996 TOR vs. DET L 30 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 2 1 1 1 4 -3
+p561
+aVPopeye Jones TOR 12/16/1996 TOR vs. DET L 40 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 1 0 1 2 2 -11
+p562
+aVSharone Wright TOR 12/16/1996 TOR vs. DET L 6 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 1 -5
+p563
+aVDamon Stoudamire TOR 12/16/1996 TOR vs. DET L 42 28 9 21 42.9 3 9 33.3 7 8 87.5 1 4 5 8 1 0 2 4 -4
+p564
+aVDoug Christie TOR 12/16/1996 TOR vs. DET L 46 20 7 12 58.3 4 7 57.1 2 4 50.0 1 5 6 7 1 0 5 5 -8
+p565
+aVWalt Williams TOR 12/16/1996 TOR vs. DET L 32 15 5 10 50.0 3 4 75.0 2 4 50.0 1 3 4 4 2 2 2 4 -6
+p566
+aVJohn Long TOR 12/16/1996 TOR vs. DET L 15 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 1
+p567
+aVAcie Earl TOR 12/16/1996 TOR vs. DET L 23 6 2 9 22.2 0 0 - 2 2 100.0 2 3 5 2 0 2 3 1 8
+p568
+aVDonald Whiteside TOR 12/14/1996 TOR @ MIA L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 4
+p569
+aVSharone Wright TOR 12/14/1996 TOR @ MIA L 25 12 5 12 41.7 0 0 - 2 2 100.0 3 4 7 1 1 4 2 3 -24
+p570
+aVHubert Davis TOR 12/14/1996 TOR @ MIA L 23 9 4 6 66.7 1 1 100.0 0 0 - 1 1 2 0 0 0 0 0 8
+p571
+aVDoug Christie TOR 12/14/1996 TOR @ MIA L 46 17 3 12 25.0 0 2 0.0 11 13 84.6 1 7 8 6 2 1 2 5 -2
+p572
+aVPopeye Jones TOR 12/14/1996 TOR @ MIA L 22 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 1 0 0 3 -13
+p573
+aVDamon Stoudamire TOR 12/14/1996 TOR @ MIA L 38 11 4 15 26.7 2 5 40.0 1 1 100.0 0 2 2 4 0 0 5 5 -7
+p574
+aVCarlos Rogers TOR 12/14/1996 TOR @ MIA L 35 15 6 10 60.0 0 0 - 3 3 100.0 5 3 8 1 4 2 2 4 21
+p575
+aVAcie Earl TOR 12/14/1996 TOR @ MIA L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 6
+p576
+aVWalt Williams TOR 12/14/1996 TOR @ MIA L 35 18 8 13 61.5 2 4 50.0 0 0 - 3 3 6 1 6 0 2 5 2
+p577
+aVHubert Davis TOR 12/11/1996 TOR @ BOS L 20 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 1 0 0 1 1 8
+p578
+aVDamon Stoudamire TOR 12/11/1996 TOR @ BOS L 54 31 11 37 29.7 2 9 22.2 7 9 77.8 1 4 5 12 1 1 3 0 -1
+p579
+aVSharone Wright TOR 12/11/1996 TOR @ BOS L 30 11 4 12 33.3 0 0 - 3 4 75.0 3 8 11 0 0 2 0 4 -5
+p580
+aVEarl Cureton TOR 12/11/1996 TOR @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p581
+aVDonald Whiteside TOR 12/11/1996 TOR @ BOS L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p582
+aVCarlos Rogers TOR 12/11/1996 TOR @ BOS L 42 9 3 9 33.3 1 3 33.3 2 4 50.0 4 9 13 1 1 3 2 4 -1
+p583
+aVAcie Earl TOR 12/11/1996 TOR @ BOS L 25 10 5 14 35.7 0 1 0.0 0 0 - 2 3 5 1 1 3 3 2 -6
+p584
+aVDoug Christie TOR 12/11/1996 TOR @ BOS L 49 16 4 8 50.0 2 3 66.7 6 7 85.7 2 5 7 2 1 1 2 1 -7
+p585
+aVWalt Williams TOR 12/11/1996 TOR @ BOS L 24 6 3 6 50.0 0 2 0.0 0 0 - 0 0 0 1 0 0 3 6 1
+p586
+aVJohn Long TOR 12/11/1996 TOR @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p587
+aVPopeye Jones TOR 12/11/1996 TOR @ BOS L 56 22 9 15 60.0 0 0 - 4 5 80.0 7 14 21 1 0 0 0 5 -4
+p588
+aVDamon Stoudamire TOR 12/10/1996 TOR vs. GSW L 40 19 8 17 47.1 2 8 25.0 1 1 100.0 0 4 4 10 2 0 7 2 -13
+p589
+aVDoug Christie TOR 12/10/1996 TOR vs. GSW L 38 13 5 10 50.0 2 4 50.0 1 1 100.0 0 7 7 4 3 1 1 6 -24
+p590
+aVDonald Whiteside TOR 12/10/1996 TOR vs. GSW L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 2 0 1 1 1
+p591
+aVJohn Long TOR 12/10/1996 TOR vs. GSW L 18 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 2 8
+p592
+aVAcie Earl TOR 12/10/1996 TOR vs. GSW L 9 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 2
+p593
+aVWalt Williams TOR 12/10/1996 TOR vs. GSW L 30 16 7 17 41.2 0 5 0.0 2 2 100.0 2 2 4 1 1 1 1 6 -11
+p594
+aVCarlos Rogers TOR 12/10/1996 TOR vs. GSW L 29 11 4 9 44.4 0 0 - 3 5 60.0 2 6 8 1 0 3 1 4 2
+p595
+aVSharone Wright TOR 12/10/1996 TOR vs. GSW L 26 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 1 0 1 3 3 -16
+p596
+aVPopeye Jones TOR 12/10/1996 TOR vs. GSW L 27 4 2 5 40.0 0 0 - 0 0 - 3 1 4 0 1 1 3 5 -17
+p597
+aVHubert Davis TOR 12/10/1996 TOR vs. GSW L 17 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 0 18
+p598
+aVAcie Earl TOR 12/08/1996 TOR vs. CHI W 10 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -5
+p599
+aVDoug Christie TOR 12/08/1996 TOR vs. CHI W 39 8 3 9 33.3 1 3 33.3 1 2 50.0 1 5 6 4 2 1 2 1 7
+p600
+aVWalt Williams TOR 12/08/1996 TOR vs. CHI W 40 18 6 16 37.5 2 7 28.6 4 5 80.0 4 4 8 2 0 0 4 2 11
+p601
+aVSharone Wright TOR 12/08/1996 TOR vs. CHI W 37 17 7 18 38.9 0 0 - 3 6 50.0 4 6 10 0 1 2 3 2 11
+p602
+aVDonald Whiteside TOR 12/08/1996 TOR vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p603
+aVJohn Long TOR 12/08/1996 TOR vs. CHI W 9 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 0 1
+p604
+aVDamon Stoudamire TOR 12/08/1996 TOR vs. CHI W 46 31 13 24 54.2 2 6 33.3 3 4 75.0 3 3 6 13 3 0 2 1 10
+p605
+aVPopeye Jones TOR 12/08/1996 TOR vs. CHI W 43 12 5 11 45.5 0 1 0.0 2 2 100.0 5 13 18 1 0 0 2 4 3
+p606
+aVCarlos Rogers TOR 12/08/1996 TOR vs. CHI W 13 5 2 3 66.7 0 1 0.0 1 4 25.0 0 4 4 0 0 0 0 2 4
+p607
+aVSharone Wright TOR 12/07/1996 TOR @ ATL L 25 6 2 10 20.0 0 0 - 2 3 66.7 1 2 3 1 0 0 3 3 -10
+p608
+aVPopeye Jones TOR 12/07/1996 TOR @ ATL L 35 10 5 6 83.3 0 0 - 0 0 - 4 6 10 1 0 0 0 5 -17
+p609
+aVHubert Davis TOR 12/07/1996 TOR @ ATL L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 2 0 0 0 -15
+p610
+aVAcie Earl TOR 12/07/1996 TOR @ ATL L 19 4 1 4 25.0 0 0 - 2 6 33.3 1 1 2 2 0 1 3 3 -14
+p611
+aVEarl Cureton TOR 12/07/1996 TOR @ ATL L 13 6 3 5 60.0 0 0 - 0 1 0.0 2 0 2 0 0 0 1 2 -9
+p612
+aVDoug Christie TOR 12/07/1996 TOR @ ATL L 35 7 3 9 33.3 0 2 0.0 1 4 25.0 0 5 5 3 1 1 3 4 -19
+p613
+aVDonald Whiteside TOR 12/07/1996 TOR @ ATL L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -1
+p614
+aVWalt Williams TOR 12/07/1996 TOR @ ATL L 38 17 6 17 35.3 3 6 50.0 2 2 100.0 2 4 6 2 2 0 5 2 -16
+p615
+aVDamon Stoudamire TOR 12/07/1996 TOR @ ATL L 32 14 5 16 31.3 2 6 33.3 2 2 100.0 0 1 1 3 2 0 2 1 -9
+p616
+aVJohn Long TOR 12/07/1996 TOR @ ATL L 19 7 2 6 33.3 1 2 50.0 2 2 100.0 1 3 4 2 1 0 3 2 -20
+p617
+aVWalt Williams TOR 12/05/1996 TOR vs. WAS W 42 29 10 23 43.5 6 15 40.0 3 3 100.0 1 3 4 4 0 0 3 3 7
+p618
+aVDoug Christie TOR 12/05/1996 TOR vs. WAS W 42 19 5 13 38.5 1 5 20.0 8 10 80.0 4 7 11 7 6 1 4 3 4
+p619
+aVSharone Wright TOR 12/05/1996 TOR vs. WAS W 27 8 4 13 30.8 0 0 - 0 0 - 2 4 6 0 0 1 1 2 -4
+p620
+aVMarcus Camby TOR 12/05/1996 TOR vs. WAS W 5 2 1 4 25.0 0 0 - 0 0 - 3 0 3 0 0 0 2 0 -2
+p621
+aVDamon Stoudamire TOR 12/05/1996 TOR vs. WAS W 40 12 5 14 35.7 1 5 20.0 1 3 33.3 1 3 4 9 1 0 6 2 3
+p622
+aVPopeye Jones TOR 12/05/1996 TOR vs. WAS W 46 0 0 5 0.0 0 1 0.0 0 0 - 6 7 13 1 0 2 0 4 4
+p623
+aVJohn Long TOR 12/05/1996 TOR vs. WAS W 7 4 2 3 66.7 0 1 0.0 0 0 - 1 3 4 0 0 0 0 0 12
+p624
+aVHubert Davis TOR 12/05/1996 TOR vs. WAS W 18 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 -8
+p625
+aVAcie Earl TOR 12/05/1996 TOR vs. WAS W 15 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 1 0 2 2 -6
+p626
+aVHubert Davis TOR 12/03/1996 TOR @ CLE L 25 4 2 3 66.7 0 1 0.0 0 0 - 0 4 4 2 0 0 0 2 -1
+p627
+aVJohn Long TOR 12/03/1996 TOR @ CLE L 13 6 1 4 25.0 1 2 50.0 3 4 75.0 0 1 1 1 0 0 0 3 -5
+p628
+aVWalt Williams TOR 12/03/1996 TOR @ CLE L 31 11 5 11 45.5 1 2 50.0 0 0 - 1 3 4 2 1 1 4 5 -20
+p629
+aVAcie Earl TOR 12/03/1996 TOR @ CLE L 35 16 7 13 53.8 0 0 - 2 6 33.3 1 3 4 0 0 3 1 2 -17
+p630
+aVMarcus Camby TOR 12/03/1996 TOR @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -5
+p631
+aVSharone Wright TOR 12/03/1996 TOR @ CLE L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p632
+aVDoug Christie TOR 12/03/1996 TOR @ CLE L 36 16 5 14 35.7 0 2 0.0 6 6 100.0 2 4 6 3 1 0 5 1 -16
+p633
+aVDonald Whiteside TOR 12/03/1996 TOR @ CLE L 6 7 2 4 50.0 2 3 66.7 1 2 50.0 0 0 0 0 1 0 0 0 1
+p634
+aVPopeye Jones TOR 12/03/1996 TOR @ CLE L 33 2 1 4 25.0 0 0 - 0 0 - 2 7 9 0 0 2 2 2 -11
+p635
+aVEarl Cureton TOR 12/03/1996 TOR @ CLE L 12 1 0 2 0.0 0 0 - 1 2 50.0 2 4 6 1 0 0 0 5 1
+p636
+aVDamon Stoudamire TOR 12/03/1996 TOR @ CLE L 39 11 3 12 25.0 1 3 33.3 4 5 80.0 0 2 2 11 0 0 2 0 -22
+p637
+aVHubert Davis TOR 12/02/1996 TOR vs. HOU W 24 6 2 7 28.6 1 4 25.0 1 1 100.0 0 0 0 4 0 0 1 1 2
+p638
+aVAcie Earl TOR 12/02/1996 TOR vs. HOU W 11 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 -4
+p639
+aVDamon Stoudamire TOR 12/02/1996 TOR vs. HOU W 41 27 9 21 42.9 4 9 44.4 5 10 50.0 2 6 8 11 0 0 1 4 14
+p640
+aVSharone Wright TOR 12/02/1996 TOR vs. HOU W 38 12 5 11 45.5 0 0 - 2 4 50.0 4 4 8 1 0 1 2 5 8
+p641
+aVDoug Christie TOR 12/02/1996 TOR vs. HOU W 44 14 5 13 38.5 2 4 50.0 2 2 100.0 0 10 10 3 3 2 3 5 13
+p642
+aVWalt Williams TOR 12/02/1996 TOR vs. HOU W 37 23 8 14 57.1 2 7 28.6 5 6 83.3 2 4 6 6 0 0 5 4 9
+p643
+aVPopeye Jones TOR 12/02/1996 TOR vs. HOU W 46 15 6 8 75.0 0 0 - 3 4 75.0 5 8 13 1 1 0 2 5 13
+p644
+aVSharone Wright TOR 11/30/1996 TOR @ MIN L 21 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 1 4 2 1
+p645
+aVAcie Earl TOR 11/30/1996 TOR @ MIN L 18 9 3 7 42.9 0 0 - 3 4 75.0 3 7 10 0 1 2 3 2 0
+p646
+aVJohn Long TOR 11/30/1996 TOR @ MIN L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p647
+aVPopeye Jones TOR 11/30/1996 TOR @ MIN L 43 8 4 6 66.7 0 0 - 0 0 - 6 9 15 1 0 0 3 5 -3
+p648
+aVWalt Williams TOR 11/30/1996 TOR @ MIN L 39 11 4 10 40.0 2 3 66.7 1 2 50.0 0 3 3 1 1 2 4 6 -1
+p649
+aVDoug Christie TOR 11/30/1996 TOR @ MIN L 46 16 5 12 41.7 0 2 0.0 6 10 60.0 2 1 3 4 2 0 1 1 -7
+p650
+aVHubert Davis TOR 11/30/1996 TOR @ MIN L 11 4 2 4 50.0 0 1 0.0 0 1 0.0 0 1 1 0 0 0 0 0 -10
+p651
+aVDonald Whiteside TOR 11/30/1996 TOR @ MIN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -8
+p652
+aVDamon Stoudamire TOR 11/30/1996 TOR @ MIN L 43 20 6 23 26.1 2 4 50.0 6 6 100.0 2 7 9 4 2 1 3 2 -1
+p653
+aVBrad Lohaus TOR 11/30/1996 TOR @ MIN L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p654
+aVZan Tabak TOR 11/30/1996 TOR @ MIN L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -15
+p655
+aVAcie Earl TOR 11/27/1996 TOR vs. CHH W 10 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 2 1 1 0 3 -8
+p656
+aVDonald Whiteside TOR 11/27/1996 TOR vs. CHH W 14 3 0 4 0.0 0 2 0.0 3 3 100.0 0 1 1 3 1 0 2 0 2
+p657
+aVPopeye Jones TOR 11/27/1996 TOR vs. CHH W 42 10 2 4 50.0 0 0 - 6 7 85.7 6 12 18 2 3 0 2 5 9
+p658
+aVSharone Wright TOR 11/27/1996 TOR vs. CHH W 38 16 8 18 44.4 0 0 - 0 0 - 4 4 8 0 1 1 1 3 12
+p659
+aVDamon Stoudamire TOR 11/27/1996 TOR vs. CHH W 35 10 4 13 30.8 0 5 0.0 2 4 50.0 1 2 3 6 2 0 3 1 3
+p660
+aVBrad Lohaus TOR 11/27/1996 TOR vs. CHH W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p661
+aVHubert Davis TOR 11/27/1996 TOR vs. CHH W 18 7 3 8 37.5 0 1 0.0 1 1 100.0 2 0 2 1 0 0 0 2 -1
+p662
+aVDoug Christie TOR 11/27/1996 TOR vs. CHH W 41 16 6 17 35.3 3 5 60.0 1 3 33.3 2 4 6 1 0 1 1 4 3
+p663
+aVWalt Williams TOR 11/27/1996 TOR vs. CHH W 37 23 8 18 44.4 4 6 66.7 3 4 75.0 2 2 4 2 2 0 2 3 5
+p664
+aVSharone Wright TOR 11/26/1996 TOR vs. SAC L 14 13 5 12 41.7 0 0 - 3 6 50.0 2 2 4 0 0 0 2 6 -13
+p665
+aVBrad Lohaus TOR 11/26/1996 TOR vs. SAC L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 -7
+p666
+aVDamon Stoudamire TOR 11/26/1996 TOR vs. SAC L 36 27 9 17 52.9 5 9 55.6 4 6 66.7 0 6 6 6 0 0 6 2 -5
+p667
+aVWalt Williams TOR 11/26/1996 TOR vs. SAC L 41 15 6 13 46.2 1 7 14.3 2 3 66.7 3 4 7 3 1 2 5 3 -9
+p668
+aVPopeye Jones TOR 11/26/1996 TOR vs. SAC L 45 15 6 10 60.0 1 1 100.0 2 2 100.0 5 11 16 1 1 1 0 3 -10
+p669
+aVDoug Christie TOR 11/26/1996 TOR vs. SAC L 38 7 1 9 11.1 0 2 0.0 5 6 83.3 0 6 6 2 1 0 2 6 -6
+p670
+aVDonald Whiteside TOR 11/26/1996 TOR vs. SAC L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -5
+p671
+aVAcie Earl TOR 11/26/1996 TOR vs. SAC L 28 8 3 9 33.3 0 0 - 2 2 100.0 2 1 3 0 0 2 3 4 8
+p672
+aVHubert Davis TOR 11/26/1996 TOR vs. SAC L 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -8
+p673
+aVMarcus Camby TOR 11/23/1996 TOR vs. ATL L 24 13 5 9 55.6 0 1 0.0 3 4 75.0 3 5 8 0 1 0 2 5 10
+p674
+aVSharone Wright TOR 11/23/1996 TOR vs. ATL L 15 8 4 9 44.4 0 0 - 0 0 - 1 0 1 0 0 1 1 2 -2
+p675
+aVPopeye Jones TOR 11/23/1996 TOR vs. ATL L 38 12 6 8 75.0 0 0 - 0 0 - 4 5 9 1 2 0 2 4 -6
+p676
+aVWalt Williams TOR 11/23/1996 TOR vs. ATL L 35 19 7 18 38.9 1 5 20.0 4 5 80.0 3 2 5 7 4 1 2 5 2
+p677
+aVBrad Lohaus TOR 11/23/1996 TOR vs. ATL L 17 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 2 -6
+p678
+aVDoug Christie TOR 11/23/1996 TOR vs. ATL L 35 8 3 10 30.0 2 5 40.0 0 0 - 1 2 3 1 1 1 5 1 3
+p679
+aVDonald Whiteside TOR 11/23/1996 TOR vs. ATL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 3 1 0 0 1 1
+p680
+aVDamon Stoudamire TOR 11/23/1996 TOR vs. ATL L 41 22 7 18 38.9 3 9 33.3 5 5 100.0 3 2 5 8 1 0 4 1 -4
+p681
+aVHubert Davis TOR 11/23/1996 TOR vs. ATL L 26 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -9
+p682
+aVAcie Earl TOR 11/23/1996 TOR vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p683
+aVPopeye Jones TOR 11/21/1996 TOR vs. CLE L 35 4 2 3 66.7 0 0 - 0 0 - 3 3 6 1 1 1 4 3 -11
+p684
+aVHubert Davis TOR 11/21/1996 TOR vs. CLE L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -2
+p685
+aVCarlos Rogers TOR 11/21/1996 TOR vs. CLE L 10 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 1 -3
+p686
+aVMarcus Camby TOR 11/21/1996 TOR vs. CLE L 36 19 9 14 64.3 0 0 - 1 2 50.0 2 2 4 1 4 0 3 2 -6
+p687
+aVAcie Earl TOR 11/21/1996 TOR vs. CLE L 22 8 2 8 25.0 0 0 - 4 4 100.0 5 3 8 1 0 0 1 2 4
+p688
+aVDoug Christie TOR 11/21/1996 TOR vs. CLE L 40 17 6 13 46.2 4 6 66.7 1 1 100.0 0 5 5 1 1 0 2 2 -8
+p689
+aVWalt Williams TOR 11/21/1996 TOR vs. CLE L 44 5 2 8 25.0 1 2 50.0 0 0 - 0 4 4 5 0 0 3 5 -9
+p690
+aVDamon Stoudamire TOR 11/21/1996 TOR vs. CLE L 46 24 6 18 33.3 2 6 33.3 10 12 83.3 0 5 5 6 3 0 3 5 -5
+p691
+aVMarcus Camby TOR 11/19/1996 TOR vs. SEA L 37 12 4 9 44.4 0 0 - 4 6 66.7 1 6 7 4 2 0 2 6 -6
+p692
+aVPopeye Jones TOR 11/19/1996 TOR vs. SEA L 39 11 3 8 37.5 0 0 - 5 5 100.0 7 4 11 3 1 0 2 3 13
+p693
+aVCarlos Rogers TOR 11/19/1996 TOR vs. SEA L 17 6 2 8 25.0 0 1 0.0 2 3 66.7 5 2 7 2 2 0 3 3 -16
+p694
+aVSharone Wright TOR 11/19/1996 TOR vs. SEA L 22 5 2 8 25.0 0 0 - 1 3 33.3 1 1 2 1 0 1 4 1 -1
+p695
+aVAcie Earl TOR 11/19/1996 TOR vs. SEA L 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p696
+aVDonald Whiteside TOR 11/19/1996 TOR vs. SEA L 19 3 1 7 14.3 1 6 16.7 0 0 - 1 1 2 3 1 0 1 2 -8
+p697
+aVHubert Davis TOR 11/19/1996 TOR vs. SEA L 14 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p698
+aVDoug Christie TOR 11/19/1996 TOR vs. SEA L 41 31 9 21 42.9 3 9 33.3 10 10 100.0 2 5 7 1 2 1 6 5 -7
+p699
+aVWalt Williams TOR 11/19/1996 TOR vs. SEA L 40 22 8 16 50.0 5 9 55.6 1 1 100.0 2 4 6 2 4 1 2 6 4
+p700
+aVBrad Lohaus TOR 11/19/1996 TOR vs. SEA L 9 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 0 1 0 0 0 -8
+p701
+aVWalt Williams TOR 11/16/1996 TOR @ ORL L 40 29 9 14 64.3 5 5 100.0 6 6 100.0 2 1 3 3 2 0 1 4 0
+p702
+aVSharone Wright TOR 11/16/1996 TOR @ ORL L 17 8 3 9 33.3 0 0 - 2 2 100.0 2 2 4 0 0 2 2 3 4
+p703
+aVMarcus Camby TOR 11/16/1996 TOR @ ORL L 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 1 1 0 0 -5
+p704
+aVDoug Christie TOR 11/16/1996 TOR @ ORL L 37 11 5 12 41.7 1 7 14.3 0 0 - 2 5 7 2 3 0 3 1 -7
+p705
+aVPopeye Jones TOR 11/16/1996 TOR @ ORL L 18 0 0 3 0.0 0 0 - 0 0 - 3 1 4 1 0 0 1 4 -9
+p706
+aVHubert Davis TOR 11/16/1996 TOR @ ORL L 26 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 0 1 0 1 1 1
+p707
+aVAcie Earl TOR 11/16/1996 TOR @ ORL L 16 10 5 7 71.4 0 1 0.0 0 0 - 1 1 2 0 0 0 1 4 -1
+p708
+aVDamon Stoudamire TOR 11/16/1996 TOR @ ORL L 39 17 7 14 50.0 1 6 16.7 2 2 100.0 0 2 2 5 3 0 5 0 -12
+p709
+aVCarlos Rogers TOR 11/16/1996 TOR @ ORL L 32 6 3 8 37.5 0 2 0.0 0 1 0.0 0 5 5 1 1 0 3 3 3
+p710
+aVDonald Whiteside TOR 11/16/1996 TOR @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p711
+aVBrad Lohaus TOR 11/14/1996 TOR @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p712
+aVMarcus Camby TOR 11/14/1996 TOR @ NYK L 36 29 9 14 64.3 0 2 0.0 11 13 84.6 1 1 2 0 4 4 1 4 -2
+p713
+aVWalt Williams TOR 11/14/1996 TOR @ NYK L 43 13 5 13 38.5 2 8 25.0 1 2 50.0 0 3 3 2 4 2 3 5 6
+p714
+aVHubert Davis TOR 11/14/1996 TOR @ NYK L 11 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 0
+p715
+aVAcie Earl TOR 11/14/1996 TOR @ NYK L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -6
+p716
+aVPopeye Jones TOR 11/14/1996 TOR @ NYK L 29 8 3 4 75.0 0 0 - 2 2 100.0 1 7 8 0 1 0 2 5 17
+p717
+aVDonald Whiteside TOR 11/14/1996 TOR @ NYK L 6 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p718
+aVCarlos Rogers TOR 11/14/1996 TOR @ NYK L 25 4 1 4 25.0 0 1 0.0 2 2 100.0 1 5 6 0 0 0 1 5 -19
+p719
+aVDoug Christie TOR 11/14/1996 TOR @ NYK L 40 10 4 7 57.1 1 2 50.0 1 2 50.0 0 6 6 4 2 2 2 3 -6
+p720
+aVDamon Stoudamire TOR 11/14/1996 TOR @ NYK L 42 26 10 25 40.0 3 10 30.0 3 3 100.0 1 3 4 13 4 0 4 3 8
+p721
+aVCarlos Rogers TOR 11/13/1996 TOR vs. PHI W 25 20 8 12 66.7 2 2 100.0 2 2 100.0 5 5 10 0 1 2 0 2 -2
+p722
+aVHubert Davis TOR 11/13/1996 TOR vs. PHI W 9 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 0 -9
+p723
+aVSharone Wright TOR 11/13/1996 TOR vs. PHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -5
+p724
+aVDoug Christie TOR 11/13/1996 TOR vs. PHI W 39 10 3 10 30.0 2 4 50.0 2 2 100.0 3 4 7 4 1 1 1 3 21
+p725
+aVDamon Stoudamire TOR 11/13/1996 TOR vs. PHI W 42 21 8 28 28.6 2 7 28.6 3 3 100.0 3 1 4 12 4 1 7 3 19
+p726
+aVPopeye Jones TOR 11/13/1996 TOR vs. PHI W 31 6 2 3 66.7 0 0 - 2 2 100.0 7 7 14 1 0 1 2 4 12
+p727
+aVMarcus Camby TOR 11/13/1996 TOR vs. PHI W 31 23 9 14 64.3 0 0 - 5 5 100.0 1 2 3 1 1 5 4 5 2
+p728
+aVAcie Earl TOR 11/13/1996 TOR vs. PHI W 11 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 1 1 1 1 2 10
+p729
+aVWalt Williams TOR 11/13/1996 TOR vs. PHI W 43 22 7 14 50.0 5 7 71.4 3 4 75.0 2 7 9 3 2 0 5 3 19
+p730
+aVDonald Whiteside TOR 11/13/1996 TOR vs. PHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -7
+p731
+aVDonald Whiteside TOR 11/11/1996 TOR vs. DEN L 12 4 1 3 33.3 1 2 50.0 1 2 50.0 0 2 2 3 1 0 0 1 3
+p732
+aVPopeye Jones TOR 11/11/1996 TOR vs. DEN L 19 3 1 3 33.3 0 0 - 1 1 100.0 1 1 2 1 0 0 2 4 -1
+p733
+aVDoug Christie TOR 11/11/1996 TOR vs. DEN L 34 11 3 11 27.3 0 2 0.0 5 5 100.0 3 1 4 4 3 0 3 3 -5
+p734
+aVSharone Wright TOR 11/11/1996 TOR vs. DEN L 7 6 2 4 50.0 0 0 - 2 4 50.0 1 0 1 0 0 0 0 1 -2
+p735
+aVBenoit Benjamin TOR 11/11/1996 TOR vs. DEN L 6 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -6
+p736
+aVWalt Williams TOR 11/11/1996 TOR vs. DEN L 37 2 0 8 0.0 0 1 0.0 2 2 100.0 0 6 6 4 1 1 2 5 -9
+p737
+aVAcie Earl TOR 11/11/1996 TOR vs. DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p738
+aVHubert Davis TOR 11/11/1996 TOR vs. DEN L 25 9 3 8 37.5 2 5 40.0 1 1 100.0 0 1 1 0 0 0 4 4 -7
+p739
+aVCarlos Rogers TOR 11/11/1996 TOR vs. DEN L 30 17 6 13 46.2 1 2 50.0 4 7 57.1 5 4 9 0 1 2 1 4 1
+p740
+aVDamon Stoudamire TOR 11/11/1996 TOR vs. DEN L 36 13 4 13 30.8 3 6 50.0 2 2 100.0 2 2 4 6 4 0 2 2 -14
+p741
+aVMarcus Camby TOR 11/11/1996 TOR vs. DEN L 33 26 10 19 52.6 0 0 - 6 8 75.0 3 4 7 0 1 2 6 3 -12
+p742
+aVDoug Christie TOR 11/08/1996 TOR vs. LAL W 33 11 5 10 50.0 1 2 50.0 0 0 - 1 4 5 5 3 1 2 1 -2
+p743
+aVSharone Wright TOR 11/08/1996 TOR vs. LAL W 5 0 0 3 0.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 2 1
+p744
+aVWalt Williams TOR 11/08/1996 TOR vs. LAL W 40 20 7 17 41.2 3 5 60.0 3 5 60.0 1 5 6 1 2 1 6 6 9
+p745
+aVHubert Davis TOR 11/08/1996 TOR vs. LAL W 20 3 1 6 16.7 0 3 0.0 1 2 50.0 0 1 1 2 0 0 1 1 -7
+p746
+aVZan Tabak TOR 11/08/1996 TOR vs. LAL W 6 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 1 0 0 2 4
+p747
+aVMarcus Camby TOR 11/08/1996 TOR vs. LAL W 28 15 4 7 57.1 1 1 100.0 6 9 66.7 2 3 5 1 0 2 2 5 -3
+p748
+aVDonald Whiteside TOR 11/08/1996 TOR vs. LAL W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p749
+aVDamon Stoudamire TOR 11/08/1996 TOR vs. LAL W 41 21 9 17 52.9 3 5 60.0 0 0 - 0 10 10 10 1 0 7 0 5
+p750
+aVPopeye Jones TOR 11/08/1996 TOR vs. LAL W 19 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 0 1 1 1 3 4
+p751
+aVCarlos Rogers TOR 11/08/1996 TOR vs. LAL W 22 7 3 4 75.0 1 1 100.0 0 0 - 2 3 5 0 0 4 0 3 -5
+p752
+aVBenoit Benjamin TOR 11/08/1996 TOR vs. LAL W 21 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 1 0 0 2 0
+p753
+aVDamon Stoudamire TOR 11/05/1996 TOR vs. DAL W 43 28 10 22 45.5 3 7 42.9 5 6 83.3 1 1 2 8 0 0 2 3 1
+p754
+aVWalt Williams TOR 11/05/1996 TOR vs. DAL W 34 34 13 21 61.9 3 6 50.0 5 5 100.0 4 5 9 2 3 0 1 6 18
+p755
+aVMarcus Camby TOR 11/05/1996 TOR vs. DAL W 28 7 2 6 33.3 0 0 - 3 4 75.0 1 2 3 0 0 5 2 4 5
+p756
+aVSharone Wright TOR 11/05/1996 TOR vs. DAL W 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 1 2 2 -4
+p757
+aVDoug Christie TOR 11/05/1996 TOR vs. DAL W 20 4 1 5 20.0 0 3 0.0 2 2 100.0 1 2 3 3 0 0 2 6 -1
+p758
+aVPopeye Jones TOR 11/05/1996 TOR vs. DAL W 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -1
+p759
+aVDonald Whiteside TOR 11/05/1996 TOR vs. DAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 8
+p760
+aVHubert Davis TOR 11/05/1996 TOR vs. DAL W 33 15 7 11 63.6 0 1 0.0 1 1 100.0 0 2 2 0 3 0 3 3 3
+p761
+aVBenoit Benjamin TOR 11/05/1996 TOR vs. DAL W 9 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 -4
+p762
+aVCarlos Rogers TOR 11/05/1996 TOR vs. DAL W 31 3 1 7 14.3 1 2 50.0 0 0 - 4 8 12 1 1 1 3 2 0
+p763
+aVZan Tabak TOR 11/05/1996 TOR vs. DAL W 22 6 2 6 33.3 0 0 - 2 2 100.0 1 7 8 0 1 0 2 4 -5
+p764
+aVDamon Stoudamire TOR 11/02/1996 TOR @ CHH L 36 19 8 16 50.0 3 7 42.9 0 3 0.0 0 4 4 5 1 0 4 2 -16
+p765
+aVMarcus Camby TOR 11/02/1996 TOR @ CHH L 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 1 0 2 0
+p766
+aVZan Tabak TOR 11/02/1996 TOR @ CHH L 32 14 5 14 35.7 0 0 - 4 4 100.0 3 2 5 1 0 1 2 3 -10
+p767
+aVSharone Wright TOR 11/02/1996 TOR @ CHH L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p768
+aVDonald Whiteside TOR 11/02/1996 TOR @ CHH L 12 9 3 3 100.0 2 2 100.0 1 2 50.0 0 0 0 2 1 0 1 0 5
+p769
+aVDoug Christie TOR 11/02/1996 TOR @ CHH L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 3 1 0 1 5 -4
+p770
+aVCarlos Rogers TOR 11/02/1996 TOR @ CHH L 29 13 6 7 85.7 1 1 100.0 0 0 - 2 6 8 2 1 2 1 4 2
+p771
+aVHubert Davis TOR 11/02/1996 TOR @ CHH L 32 8 2 13 15.4 0 6 0.0 4 6 66.7 1 2 3 2 0 0 0 3 -7
+p772
+aVBenoit Benjamin TOR 11/02/1996 TOR @ CHH L 6 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -1
+p773
+aVWalt Williams TOR 11/02/1996 TOR @ CHH L 34 14 4 10 40.0 1 4 25.0 5 6 83.3 1 2 3 1 0 1 1 4 -13
+p774
+aVPopeye Jones TOR 11/02/1996 TOR @ CHH L 21 6 3 4 75.0 0 0 - 0 0 - 3 4 7 0 0 0 0 3 -7
+p775
+aVDonald Whiteside TOR 11/01/1996 TOR vs. NYK L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p776
+aVWalt Williams TOR 11/01/1996 TOR vs. NYK L 21 6 2 7 28.6 2 5 40.0 0 0 - 0 1 1 0 0 0 3 6 0
+p777
+aVMarcus Camby TOR 11/01/1996 TOR vs. NYK L 15 5 2 5 40.0 0 0 - 1 2 50.0 0 4 4 0 1 1 0 6 0
+p778
+aVSharone Wright TOR 11/01/1996 TOR vs. NYK L 19 8 4 9 44.4 0 0 - 0 2 0.0 1 1 2 0 0 0 0 5 -7
+p779
+aVHubert Davis TOR 11/01/1996 TOR vs. NYK L 30 6 2 7 28.6 1 4 25.0 1 2 50.0 0 1 1 2 1 0 1 2 -9
+p780
+aVDoug Christie TOR 11/01/1996 TOR vs. NYK L 36 24 8 16 50.0 4 7 57.1 4 6 66.7 0 3 3 7 4 0 5 0 -2
+p781
+aVDamon Stoudamire TOR 11/01/1996 TOR vs. NYK L 38 28 9 17 52.9 4 7 57.1 6 7 85.7 0 2 2 10 2 0 7 6 -9
+p782
+aVCarlos Rogers TOR 11/01/1996 TOR vs. NYK L 31 12 5 10 50.0 1 2 50.0 1 2 50.0 5 3 8 2 1 0 2 6 -12
+p783
+aVZan Tabak TOR 11/01/1996 TOR vs. NYK L 22 3 0 1 0.0 0 0 - 3 8 37.5 3 4 7 2 0 2 4 4 4
+p784
+aVPopeye Jones TOR 11/01/1996 TOR vs. NYK L 28 7 2 5 40.0 0 0 - 3 3 100.0 2 7 9 1 2 0 2 3 -6
+p785
+a.

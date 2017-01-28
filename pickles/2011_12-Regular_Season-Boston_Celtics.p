@@ -1,0 +1,1432 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRajon Rondo BOS 04/26/2012 BOS vs. MIL W 25 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 15 4 0 1 0 6
+p2
+aVPaul Pierce BOS 04/26/2012 BOS vs. MIL W 7 12 5 7 71.4 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 8
+p3
+aVSasha Pavlovic BOS 04/26/2012 BOS vs. MIL W 17 6 3 9 33.3 0 3 0.0 0 0 - 0 3 3 1 1 1 2 2 5
+p4
+aVSean Williams BOS 04/26/2012 BOS vs. MIL W 19 6 1 1 100.0 0 0 - 4 4 100.0 2 5 7 1 1 1 1 2 5
+p5
+aVMickael Pietrus BOS 04/26/2012 BOS vs. MIL W 20 9 4 10 40.0 1 6 16.7 0 0 - 0 2 2 0 1 0 2 2 -5
+p6
+aVKevin Garnett BOS 04/26/2012 BOS vs. MIL W 11 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 3 1 0 0 1 10
+p7
+aVE'Twaun Moore BOS 04/26/2012 BOS vs. MIL W 25 8 3 10 30.0 2 4 50.0 0 0 - 0 4 4 5 3 0 6 3 12
+p8
+aVAvery Bradley BOS 04/26/2012 BOS vs. MIL W 25 14 6 14 42.9 1 6 16.7 1 2 50.0 0 1 1 1 1 0 2 1 10
+p9
+aVMarquis Daniels BOS 04/26/2012 BOS vs. MIL W 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 5
+p10
+aVJaJuan Johnson BOS 04/26/2012 BOS vs. MIL W 17 4 2 7 28.6 0 0 - 0 0 - 2 6 8 0 0 0 1 0 1
+p11
+aVKeyon Dooling BOS 04/26/2012 BOS vs. MIL W 11 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 0 1 0 0 1 1
+p12
+aVBrandon Bass BOS 04/26/2012 BOS vs. MIL W 24 5 2 8 25.0 0 0 - 1 2 50.0 1 8 9 0 0 1 0 2 1
+p13
+aVRyan Hollins BOS 04/26/2012 BOS vs. MIL W 23 9 4 6 66.7 0 0 - 1 1 100.0 1 4 5 0 0 4 0 4 6
+p14
+aVSasha Pavlovic BOS 04/24/2012 BOS vs. MIA W 23 16 7 10 70.0 2 4 50.0 0 0 - 0 1 1 2 1 1 0 3 9
+p15
+aVE'Twaun Moore BOS 04/24/2012 BOS vs. MIA W 24 7 3 6 50.0 1 2 50.0 0 0 - 0 7 7 1 0 0 1 2 13
+p16
+aVJaJuan Johnson BOS 04/24/2012 BOS vs. MIA W 23 6 3 9 33.3 0 0 - 0 0 - 0 3 3 0 1 2 2 1 16
+p17
+aVPaul Pierce BOS 04/24/2012 BOS vs. MIA W 18 8 4 7 57.1 0 2 0.0 0 0 - 0 2 2 1 0 0 6 0 -5
+p18
+aVMarquis Daniels BOS 04/24/2012 BOS vs. MIA W 30 13 5 11 45.5 0 0 - 3 4 75.0 1 4 5 4 2 1 0 0 15
+p19
+aVBrandon Bass BOS 04/24/2012 BOS vs. MIA W 28 8 4 8 50.0 0 0 - 0 0 - 0 8 8 0 2 0 1 0 -4
+p20
+aVAvery Bradley BOS 04/24/2012 BOS vs. MIA W 30 8 2 10 20.0 0 1 0.0 4 4 100.0 0 2 2 3 3 0 2 2 -1
+p21
+aVRyan Hollins BOS 04/24/2012 BOS vs. MIA W 25 0 0 3 0.0 0 0 - 0 4 0.0 0 3 3 0 0 0 1 0 -4
+p22
+aVKeyon Dooling BOS 04/24/2012 BOS vs. MIA W 19 7 3 5 60.0 1 3 33.3 0 1 0.0 1 2 3 2 0 0 0 1 5
+p23
+aVSean Williams BOS 04/24/2012 BOS vs. MIA W 20 5 1 5 20.0 0 0 - 3 3 100.0 2 2 4 2 2 2 2 2 16
+p24
+aVSasha Pavlovic BOS 04/20/2012 BOS @ ATL L 24 4 2 3 66.7 0 0 - 0 0 - 0 4 4 3 0 0 0 1 -7
+p25
+aVGreg Stiemsma BOS 04/20/2012 BOS @ ATL L 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -11
+p26
+aVSean Williams BOS 04/20/2012 BOS @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p27
+aVE'Twaun Moore BOS 04/20/2012 BOS @ ATL L 19 5 1 5 20.0 1 4 25.0 2 2 100.0 0 4 4 1 1 0 2 2 11
+p28
+aVMarquis Daniels BOS 04/20/2012 BOS @ ATL L 34 12 5 12 41.7 0 2 0.0 2 4 50.0 3 5 8 3 4 0 2 2 9
+p29
+aVJaJuan Johnson BOS 04/20/2012 BOS @ ATL L 15 4 2 7 28.6 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p30
+aVAvery Bradley BOS 04/20/2012 BOS @ ATL L 37 28 12 22 54.5 1 2 50.0 3 4 75.0 0 1 1 3 4 0 3 2 -5
+p31
+aVRyan Hollins BOS 04/20/2012 BOS @ ATL L 30 8 4 5 80.0 0 0 - 0 2 0.0 4 1 5 1 0 0 2 3 4
+p32
+aVKeyon Dooling BOS 04/20/2012 BOS @ ATL L 32 17 7 10 70.0 3 4 75.0 0 0 - 0 2 2 3 1 0 0 3 -15
+p33
+aVBrandon Bass BOS 04/20/2012 BOS @ ATL L 37 10 4 15 26.7 0 0 - 2 2 100.0 2 3 5 3 2 1 2 2 -8
+p34
+aVKeyon Dooling BOS 04/18/2012 BOS vs. ORL W 23 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 10
+p35
+aVMarquis Daniels BOS 04/18/2012 BOS vs. ORL W 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 1 0 0 2 -3
+p36
+aVE'Twaun Moore BOS 04/18/2012 BOS vs. ORL W 13 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 9
+p37
+aVKevin Garnett BOS 04/18/2012 BOS vs. ORL W 34 15 6 15 40.0 0 0 - 3 4 75.0 1 8 9 1 1 1 3 1 -12
+p38
+aVGreg Stiemsma BOS 04/18/2012 BOS vs. ORL W 24 2 1 3 33.3 0 0 - 0 0 - 0 5 5 1 1 4 0 5 16
+p39
+aVSasha Pavlovic BOS 04/18/2012 BOS vs. ORL W 24 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 1 2 3 -8
+p40
+aVBrandon Bass BOS 04/18/2012 BOS vs. ORL W 37 21 7 11 63.6 0 0 - 7 8 87.5 1 1 2 3 0 0 2 2 2
+p41
+aVAvery Bradley BOS 04/18/2012 BOS vs. ORL W 36 23 10 14 71.4 1 2 50.0 2 3 66.7 0 1 1 1 1 0 4 3 -1
+p42
+aVPaul Pierce BOS 04/18/2012 BOS vs. ORL W 35 29 9 14 64.3 0 2 0.0 11 12 91.7 0 5 5 14 2 0 3 2 7
+p43
+aVE'Twaun Moore BOS 04/17/2012 BOS @ NYK L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p44
+aVBrandon Bass BOS 04/17/2012 BOS @ NYK L 35 15 6 8 75.0 0 0 - 3 6 50.0 3 3 6 1 0 1 2 2 6
+p45
+aVKeyon Dooling BOS 04/17/2012 BOS @ NYK L 16 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 0 -12
+p46
+aVJaJuan Johnson BOS 04/17/2012 BOS @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p47
+aVRajon Rondo BOS 04/17/2012 BOS @ NYK L 39 13 5 8 62.5 2 4 50.0 1 2 50.0 1 5 6 13 1 0 3 1 1
+p48
+aVMarquis Daniels BOS 04/17/2012 BOS @ NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -11
+p49
+aVPaul Pierce BOS 04/17/2012 BOS @ NYK L 43 43 11 19 57.9 4 6 66.7 17 18 94.4 0 2 2 3 2 0 3 4 2
+p50
+aVRyan Hollins BOS 04/17/2012 BOS @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p51
+aVAvery Bradley BOS 04/17/2012 BOS @ NYK L 38 17 6 9 66.7 5 6 83.3 0 0 - 1 2 3 0 0 0 1 3 -4
+p52
+aVSasha Pavlovic BOS 04/17/2012 BOS @ NYK L 16 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 2 0 0 3 -11
+p53
+aVGreg Stiemsma BOS 04/17/2012 BOS @ NYK L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -11
+p54
+aVKevin Garnett BOS 04/17/2012 BOS @ NYK L 35 20 7 14 50.0 0 0 - 6 8 75.0 0 5 5 3 2 1 1 0 0
+p55
+aVAvery Bradley BOS 04/15/2012 BOS @ CHA W 35 22 9 14 64.3 2 3 66.7 2 2 100.0 1 2 3 2 0 0 1 2 8
+p56
+aVBrandon Bass BOS 04/15/2012 BOS @ CHA W 37 22 9 19 47.4 0 0 - 4 5 80.0 1 8 9 1 0 3 1 2 14
+p57
+aVGreg Stiemsma BOS 04/15/2012 BOS @ CHA W 28 8 4 4 100.0 0 0 - 0 0 - 2 3 5 1 4 6 1 4 6
+p58
+aVMarquis Daniels BOS 04/15/2012 BOS @ CHA W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p59
+aVRyan Hollins BOS 04/15/2012 BOS @ CHA W 20 2 1 1 100.0 0 0 - 0 1 0.0 0 4 4 0 1 0 2 2 6
+p60
+aVJaJuan Johnson BOS 04/15/2012 BOS @ CHA W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -1
+p61
+aVRajon Rondo BOS 04/15/2012 BOS @ CHA W 43 20 8 17 47.1 0 0 - 4 7 57.1 2 4 6 16 1 0 8 2 11
+p62
+aVMickael Pietrus BOS 04/15/2012 BOS @ CHA W 35 11 4 15 26.7 3 11 27.3 0 0 - 1 5 6 0 0 1 0 1 14
+p63
+aVKeyon Dooling BOS 04/15/2012 BOS @ CHA W 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p64
+aVSasha Pavlovic BOS 04/15/2012 BOS @ CHA W 15 1 0 1 0.0 0 1 0.0 1 2 50.0 0 7 7 0 0 0 1 0 5
+p65
+aVE'Twaun Moore BOS 04/15/2012 BOS @ CHA W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p66
+aVMickael Pietrus BOS 04/14/2012 BOS @ NJN W 26 5 2 5 40.0 0 2 0.0 1 2 50.0 0 1 1 0 1 0 1 1 -6
+p67
+aVJaJuan Johnson BOS 04/14/2012 BOS @ NJN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -5
+p68
+aVRajon Rondo BOS 04/14/2012 BOS @ NJN W 32 4 2 8 25.0 0 1 0.0 0 2 0.0 1 3 4 15 1 0 4 3 20
+p69
+aVE'Twaun Moore BOS 04/14/2012 BOS @ NJN W 4 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p70
+aVKevin Garnett BOS 04/14/2012 BOS @ NJN W 30 21 8 16 50.0 0 0 - 5 6 83.3 3 9 12 3 2 1 1 2 10
+p71
+aVBrandon Bass BOS 04/14/2012 BOS @ NJN W 29 18 7 12 58.3 0 0 - 4 5 80.0 2 9 11 2 0 2 1 1 12
+p72
+aVAvery Bradley BOS 04/14/2012 BOS @ NJN W 38 18 7 14 50.0 3 4 75.0 1 2 50.0 3 1 4 2 1 0 0 2 16
+p73
+aVSasha Pavlovic BOS 04/14/2012 BOS @ NJN W 13 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 1 0 2 -3
+p74
+aVGreg Stiemsma BOS 04/14/2012 BOS @ NJN W 29 6 3 4 75.0 0 0 - 0 0 - 0 9 9 0 2 2 2 2 12
+p75
+aVRyan Hollins BOS 04/14/2012 BOS @ NJN W 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 3 4 -5
+p76
+aVPaul Pierce BOS 04/14/2012 BOS @ NJN W 31 17 6 16 37.5 1 4 25.0 4 5 80.0 2 3 5 4 0 2 2 1 14
+p77
+aVRajon Rondo BOS 04/13/2012 BOS @ TOR L 37 8 3 7 42.9 0 1 0.0 2 2 100.0 0 0 0 12 4 0 0 3 -4
+p78
+aVKevin Garnett BOS 04/13/2012 BOS @ TOR L 32 13 5 16 31.3 0 1 0.0 3 3 100.0 2 8 10 3 0 1 1 1 -10
+p79
+aVSasha Pavlovic BOS 04/13/2012 BOS @ TOR L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 2 0
+p80
+aVBrandon Bass BOS 04/13/2012 BOS @ TOR L 32 10 5 11 45.5 0 0 - 0 0 - 0 3 3 0 0 1 2 3 -19
+p81
+aVAvery Bradley BOS 04/13/2012 BOS @ TOR L 37 15 7 14 50.0 0 1 0.0 1 2 50.0 4 2 6 2 1 1 1 5 -1
+p82
+aVMarquis Daniels BOS 04/13/2012 BOS @ TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p83
+aVMickael Pietrus BOS 04/13/2012 BOS @ TOR L 23 3 1 7 14.3 1 6 16.7 0 0 - 2 4 6 0 0 0 1 2 16
+p84
+aVRyan Hollins BOS 04/13/2012 BOS @ TOR L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 2 4
+p85
+aVPaul Pierce BOS 04/13/2012 BOS @ TOR L 34 18 6 15 40.0 3 7 42.9 3 3 100.0 2 6 8 4 0 1 2 4 -9
+p86
+aVKeyon Dooling BOS 04/13/2012 BOS @ TOR L 8 4 1 3 33.3 0 2 0.0 2 2 100.0 0 0 0 2 1 0 0 2 -2
+p87
+aVGreg Stiemsma BOS 04/13/2012 BOS @ TOR L 16 5 1 2 50.0 0 0 - 3 5 60.0 0 1 1 0 1 1 1 1 4
+p88
+aVBrandon Bass BOS 04/11/2012 BOS vs. ATL W 42 21 10 17 58.8 0 0 - 1 2 50.0 4 6 10 1 1 1 3 0 2
+p89
+aVAvery Bradley BOS 04/11/2012 BOS vs. ATL W 31 7 3 7 42.9 1 1 100.0 0 0 - 1 3 4 0 0 0 2 3 -13
+p90
+aVSasha Pavlovic BOS 04/11/2012 BOS vs. ATL W 14 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 12
+p91
+aVKevin Garnett BOS 04/11/2012 BOS vs. ATL W 33 22 9 20 45.0 0 0 - 4 4 100.0 3 9 12 2 3 0 1 6 0
+p92
+aVKeyon Dooling BOS 04/11/2012 BOS vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p93
+aVPaul Pierce BOS 04/11/2012 BOS vs. ATL W 41 14 6 19 31.6 1 8 12.5 1 1 100.0 0 5 5 4 2 0 4 3 -9
+p94
+aVRajon Rondo BOS 04/11/2012 BOS vs. ATL W 47 10 3 16 18.8 0 2 0.0 4 4 100.0 2 8 10 20 2 0 6 3 6
+p95
+aVMickael Pietrus BOS 04/11/2012 BOS vs. ATL W 29 8 3 5 60.0 1 2 50.0 1 2 50.0 1 5 6 0 0 1 1 2 11
+p96
+aVGreg Stiemsma BOS 04/11/2012 BOS vs. ATL W 24 6 3 5 60.0 0 0 - 0 0 - 4 4 8 0 1 1 2 6 0
+p97
+aVAvery Bradley BOS 04/10/2012 BOS @ MIA W 25 11 5 8 62.5 1 2 50.0 0 0 - 0 2 2 0 0 0 0 2 -1
+p98
+aVKevin Garnett BOS 04/10/2012 BOS @ MIA W 33 24 11 14 78.6 0 0 - 2 2 100.0 0 9 9 2 0 2 4 4 -2
+p99
+aVPaul Pierce BOS 04/10/2012 BOS @ MIA W 40 27 8 16 50.0 3 5 60.0 8 10 80.0 1 6 7 2 1 0 1 3 9
+p100
+aVRajon Rondo BOS 04/10/2012 BOS @ MIA W 40 18 6 11 54.5 1 1 100.0 5 8 62.5 1 3 4 15 0 0 3 2 9
+p101
+aVRay Allen BOS 04/10/2012 BOS @ MIA W 35 9 3 7 42.9 2 4 50.0 1 1 100.0 0 1 1 3 0 0 0 0 6
+p102
+aVGreg Stiemsma BOS 04/10/2012 BOS @ MIA W 20 8 4 5 80.0 0 0 - 0 0 - 1 6 7 1 1 2 2 4 10
+p103
+aVBrandon Bass BOS 04/10/2012 BOS @ MIA W 39 12 4 8 50.0 0 0 - 4 4 100.0 2 8 10 0 1 1 2 3 10
+p104
+aVSasha Pavlovic BOS 04/10/2012 BOS @ MIA W 8 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 1 0 3 -1
+p105
+aVSasha Pavlovic BOS 04/08/2012 BOS vs. PHI W 20 6 2 4 50.0 2 2 100.0 0 0 - 0 6 6 0 1 1 1 2 14
+p106
+aVE'Twaun Moore BOS 04/08/2012 BOS vs. PHI W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 2
+p107
+aVBrandon Bass BOS 04/08/2012 BOS vs. PHI W 33 18 8 10 80.0 0 0 - 2 2 100.0 0 6 6 1 0 1 2 2 1
+p108
+aVRyan Hollins BOS 04/08/2012 BOS vs. PHI W 8 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 2 -5
+p109
+aVRajon Rondo BOS 04/08/2012 BOS vs. PHI W 29 7 3 5 60.0 0 1 0.0 1 2 50.0 0 4 4 15 3 0 5 2 8
+p110
+aVPaul Pierce BOS 04/08/2012 BOS vs. PHI W 29 17 7 12 58.3 2 4 50.0 1 1 100.0 0 5 5 3 0 0 4 0 10
+p111
+aVGreg Stiemsma BOS 04/08/2012 BOS vs. PHI W 24 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 3 1 3 0 5 19
+p112
+aVRay Allen BOS 04/08/2012 BOS vs. PHI W 28 10 4 9 44.4 2 6 33.3 0 0 - 0 2 2 0 0 0 1 2 11
+p113
+aVKevin Garnett BOS 04/08/2012 BOS vs. PHI W 28 20 8 11 72.7 0 0 - 4 4 100.0 0 6 6 2 0 0 1 0 29
+p114
+aVJaJuan Johnson BOS 04/08/2012 BOS vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p115
+aVAvery Bradley BOS 04/08/2012 BOS vs. PHI W 35 18 6 12 50.0 1 1 100.0 5 6 83.3 0 4 4 5 1 0 2 1 27
+p116
+aVKevin Garnett BOS 04/07/2012 BOS @ IND W 34 15 6 15 40.0 0 0 - 3 3 100.0 0 7 7 4 1 0 1 5 21
+p117
+aVAvery Bradley BOS 04/07/2012 BOS @ IND W 30 4 2 7 28.6 0 0 - 0 0 - 3 2 5 3 2 0 5 1 18
+p118
+aVPaul Pierce BOS 04/07/2012 BOS @ IND W 33 24 8 16 50.0 2 4 50.0 6 6 100.0 0 4 4 2 1 0 1 3 1
+p119
+aVRajon Rondo BOS 04/07/2012 BOS @ IND W 35 4 2 6 33.3 0 0 - 0 0 - 2 5 7 12 2 1 5 2 0
+p120
+aVBrandon Bass BOS 04/07/2012 BOS @ IND W 34 2 0 6 0.0 0 0 - 2 2 100.0 1 3 4 2 0 0 1 2 -1
+p121
+aVRay Allen BOS 04/07/2012 BOS @ IND W 33 19 7 18 38.9 5 11 45.5 0 1 0.0 0 6 6 2 4 0 1 3 9
+p122
+aVSasha Pavlovic BOS 04/07/2012 BOS @ IND W 14 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 1 1 0 1 0 15
+p123
+aVGreg Stiemsma BOS 04/07/2012 BOS @ IND W 27 10 4 4 100.0 0 0 - 2 2 100.0 2 7 9 1 1 5 1 5 7
+p124
+aVKevin Garnett BOS 04/05/2012 BOS @ CHI L 38 12 5 16 31.3 0 0 - 2 2 100.0 1 13 14 4 0 0 3 4 -15
+p125
+aVSasha Pavlovic BOS 04/05/2012 BOS @ CHI L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p126
+aVGreg Stiemsma BOS 04/05/2012 BOS @ CHI L 11 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 3 -3
+p127
+aVKeyon Dooling BOS 04/05/2012 BOS @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p128
+aVRyan Hollins BOS 04/05/2012 BOS @ CHI L 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 0
+p129
+aVBrandon Bass BOS 04/05/2012 BOS @ CHI L 34 15 6 12 50.0 0 0 - 3 4 75.0 2 3 5 0 3 1 0 2 4
+p130
+aVPaul Pierce BOS 04/05/2012 BOS @ CHI L 40 22 8 21 38.1 3 7 42.9 3 5 60.0 1 7 8 4 2 0 1 3 -6
+p131
+aVAvery Bradley BOS 04/05/2012 BOS @ CHI L 27 9 4 8 50.0 1 1 100.0 0 0 - 1 0 1 1 1 0 3 5 -10
+p132
+aVRay Allen BOS 04/05/2012 BOS @ CHI L 31 14 5 10 50.0 1 4 25.0 3 3 100.0 0 2 2 1 1 0 1 3 -1
+p133
+aVRajon Rondo BOS 04/05/2012 BOS @ CHI L 37 10 4 8 50.0 0 1 0.0 2 2 100.0 1 3 4 12 1 0 4 2 -1
+p134
+aVKevin Garnett BOS 04/04/2012 BOS vs. SAS L 33 16 7 19 36.8 0 0 - 2 2 100.0 1 6 7 5 0 1 1 1 -7
+p135
+aVRay Allen BOS 04/04/2012 BOS vs. SAS L 35 5 2 6 33.3 1 2 50.0 0 0 - 0 7 7 2 2 0 0 0 3
+p136
+aVKeyon Dooling BOS 04/04/2012 BOS vs. SAS L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p137
+aVBrandon Bass BOS 04/04/2012 BOS vs. SAS L 29 9 3 6 50.0 0 0 - 3 6 50.0 2 5 7 0 2 3 2 1 3
+p138
+aVGreg Stiemsma BOS 04/04/2012 BOS vs. SAS L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -5
+p139
+aVPaul Pierce BOS 04/04/2012 BOS vs. SAS L 35 15 7 16 43.8 1 4 25.0 0 0 - 0 10 10 2 0 0 4 4 4
+p140
+aVSasha Pavlovic BOS 04/04/2012 BOS vs. SAS L 13 5 2 3 66.7 1 2 50.0 0 2 0.0 0 1 1 0 3 0 1 3 -5
+p141
+aVRajon Rondo BOS 04/04/2012 BOS vs. SAS L 44 17 8 15 53.3 1 2 50.0 0 2 0.0 0 3 3 11 4 0 3 2 0
+p142
+aVAvery Bradley BOS 04/04/2012 BOS vs. SAS L 34 19 9 16 56.3 0 0 - 1 1 100.0 1 0 1 0 1 0 0 1 2
+p143
+aVE'Twaun Moore BOS 04/01/2012 BOS vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p144
+aVSasha Pavlovic BOS 04/01/2012 BOS vs. MIA W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 5 5 1 0 0 0 1 -9
+p145
+aVKevin Garnett BOS 04/01/2012 BOS vs. MIA W 30 10 5 12 41.7 0 0 - 0 0 - 0 8 8 1 0 1 0 1 10
+p146
+aVRyan Hollins BOS 04/01/2012 BOS vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p147
+aVRajon Rondo BOS 04/01/2012 BOS vs. MIA W 37 16 7 13 53.8 1 2 50.0 1 3 33.3 2 9 11 14 0 0 2 2 28
+p148
+aVPaul Pierce BOS 04/01/2012 BOS vs. MIA W 34 23 8 17 47.1 2 4 50.0 5 5 100.0 0 7 7 3 2 0 3 2 28
+p149
+aVKeyon Dooling BOS 04/01/2012 BOS vs. MIA W 20 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 2 1 -3
+p150
+aVAvery Bradley BOS 04/01/2012 BOS vs. MIA W 36 13 5 10 50.0 1 3 33.3 2 2 100.0 0 1 1 0 2 1 2 2 13
+p151
+aVJaJuan Johnson BOS 04/01/2012 BOS vs. MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -2
+p152
+aVBrandon Bass BOS 04/01/2012 BOS vs. MIA W 35 16 3 5 60.0 0 0 - 10 10 100.0 3 7 10 1 1 0 2 1 24
+p153
+aVGreg Stiemsma BOS 04/01/2012 BOS vs. MIA W 24 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 0 2 1 1 6 6
+p154
+aVJaJuan Johnson BOS 03/30/2012 BOS @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p155
+aVPaul Pierce BOS 03/30/2012 BOS @ MIN W 34 21 9 20 45.0 2 6 33.3 1 3 33.3 1 8 9 2 1 0 2 4 17
+p156
+aVRajon Rondo BOS 03/30/2012 BOS @ MIN W 36 6 3 11 27.3 0 1 0.0 0 0 - 3 3 6 17 3 0 2 2 18
+p157
+aVMarquis Daniels BOS 03/30/2012 BOS @ MIN W 1 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 4
+p158
+aVAvery Bradley BOS 03/30/2012 BOS @ MIN W 38 17 6 9 66.7 0 0 - 5 6 83.3 1 2 3 1 3 0 1 1 14
+p159
+aVKevin Garnett BOS 03/30/2012 BOS @ MIN W 34 24 12 18 66.7 0 0 - 0 0 - 1 9 10 4 0 1 2 3 16
+p160
+aVKeyon Dooling BOS 03/30/2012 BOS @ MIN W 19 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 3 0 0 0 2 2
+p161
+aVSasha Pavlovic BOS 03/30/2012 BOS @ MIN W 14 0 0 5 0.0 0 1 0.0 0 0 - 1 2 3 1 1 0 1 1 4
+p162
+aVBrandon Bass BOS 03/30/2012 BOS @ MIN W 36 12 5 13 38.5 0 0 - 2 2 100.0 2 4 6 0 0 0 0 3 16
+p163
+aVE'Twaun Moore BOS 03/30/2012 BOS @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p164
+aVGreg Stiemsma BOS 03/30/2012 BOS @ MIN W 23 8 4 4 100.0 0 0 - 0 0 - 3 2 5 0 0 2 1 6 2
+p165
+aVRyan Hollins BOS 03/30/2012 BOS @ MIN W 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p166
+aVRyan Hollins BOS 03/28/2012 BOS vs. UTA W 7 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p167
+aVKeyon Dooling BOS 03/28/2012 BOS vs. UTA W 17 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 3 1 0 2 3 10
+p168
+aVRajon Rondo BOS 03/28/2012 BOS vs. UTA W 36 6 3 7 42.9 0 1 0.0 0 1 0.0 0 4 4 14 0 0 3 1 1
+p169
+aVAvery Bradley BOS 03/28/2012 BOS vs. UTA W 43 9 3 10 30.0 1 4 25.0 2 2 100.0 2 2 4 2 0 0 2 2 13
+p170
+aVGreg Stiemsma BOS 03/28/2012 BOS vs. UTA W 19 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 1 4 0 5 -4
+p171
+aVKevin Garnett BOS 03/28/2012 BOS vs. UTA W 34 23 10 16 62.5 0 0 - 3 3 100.0 0 10 10 4 2 1 1 2 23
+p172
+aVBrandon Bass BOS 03/28/2012 BOS vs. UTA W 35 19 7 17 41.2 0 0 - 5 6 83.3 0 4 4 0 0 0 1 3 1
+p173
+aVPaul Pierce BOS 03/28/2012 BOS vs. UTA W 36 20 6 16 37.5 1 6 16.7 7 7 100.0 0 6 6 1 2 1 2 2 1
+p174
+aVSasha Pavlovic BOS 03/28/2012 BOS vs. UTA W 12 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 1 0 1 11
+p175
+aVBrandon Bass BOS 03/26/2012 BOS @ CHA W 40 15 4 9 44.4 0 0 - 7 8 87.5 3 2 5 1 0 1 1 3 11
+p176
+aVPaul Pierce BOS 03/26/2012 BOS @ CHA W 38 36 10 20 50.0 1 6 16.7 15 18 83.3 0 10 10 4 3 3 4 3 18
+p177
+aVAvery Bradley BOS 03/26/2012 BOS @ CHA W 40 11 5 10 50.0 0 2 0.0 1 1 100.0 0 4 4 0 0 1 0 5 1
+p178
+aVSasha Pavlovic BOS 03/26/2012 BOS @ CHA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p179
+aVGreg Stiemsma BOS 03/26/2012 BOS @ CHA W 19 3 1 2 50.0 0 0 - 1 2 50.0 1 4 5 1 2 2 0 2 13
+p180
+aVRajon Rondo BOS 03/26/2012 BOS @ CHA W 40 7 1 7 14.3 0 2 0.0 5 8 62.5 2 4 6 13 2 0 3 2 21
+p181
+aVKevin Garnett BOS 03/26/2012 BOS @ CHA W 33 24 10 20 50.0 0 1 0.0 4 6 66.7 1 3 4 1 1 1 0 5 -10
+p182
+aVRyan Hollins BOS 03/26/2012 BOS @ CHA W 4 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 0
+p183
+aVKeyon Dooling BOS 03/26/2012 BOS @ CHA W 16 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 3 -8
+p184
+aVMarquis Daniels BOS 03/26/2012 BOS @ CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p185
+aVSasha Pavlovic BOS 03/25/2012 BOS vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p186
+aVMarquis Daniels BOS 03/25/2012 BOS vs. WAS W 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 1 2 0 1
+p187
+aVE'Twaun Moore BOS 03/25/2012 BOS vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p188
+aVRajon Rondo BOS 03/25/2012 BOS vs. WAS W 34 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 11 2 0 6 1 21
+p189
+aVGreg Stiemsma BOS 03/25/2012 BOS vs. WAS W 23 10 4 5 80.0 0 0 - 2 2 100.0 0 7 7 0 1 0 0 3 8
+p190
+aVBrandon Bass BOS 03/25/2012 BOS vs. WAS W 34 11 4 8 50.0 0 0 - 3 3 100.0 0 7 7 0 0 3 1 2 19
+p191
+aVKeyon Dooling BOS 03/25/2012 BOS vs. WAS W 17 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 2 11
+p192
+aVPaul Pierce BOS 03/25/2012 BOS vs. WAS W 31 21 8 17 47.1 2 6 33.3 3 3 100.0 0 8 8 3 1 0 3 3 11
+p193
+aVKevin Garnett BOS 03/25/2012 BOS vs. WAS W 24 10 3 10 30.0 0 0 - 4 4 100.0 0 5 5 6 2 0 2 1 10
+p194
+aVAvery Bradley BOS 03/25/2012 BOS vs. WAS W 40 23 9 14 64.3 1 2 50.0 4 4 100.0 0 3 3 1 1 0 0 4 8
+p195
+aVRyan Hollins BOS 03/25/2012 BOS vs. WAS W 13 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -5
+p196
+aVJaJuan Johnson BOS 03/25/2012 BOS vs. WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p197
+aVAvery Bradley BOS 03/23/2012 BOS @ PHI L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p198
+aVGreg Stiemsma BOS 03/23/2012 BOS @ PHI L 18 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -20
+p199
+aVKevin Garnett BOS 03/23/2012 BOS @ PHI L 30 20 10 19 52.6 0 0 - 0 0 - 1 7 8 4 0 1 1 2 9
+p200
+aVSasha Pavlovic BOS 03/23/2012 BOS @ PHI L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p201
+aVKeyon Dooling BOS 03/23/2012 BOS @ PHI L 20 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 0 1 1 1 -7
+p202
+aVBrandon Bass BOS 03/23/2012 BOS @ PHI L 31 18 8 18 44.4 0 0 - 2 2 100.0 1 3 4 1 1 0 2 2 -16
+p203
+aVMickael Pietrus BOS 03/23/2012 BOS @ PHI L 12 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 0 1 0 0 2 12
+p204
+aVJaJuan Johnson BOS 03/23/2012 BOS @ PHI L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 0
+p205
+aVRajon Rondo BOS 03/23/2012 BOS @ PHI L 39 6 3 5 60.0 0 0 - 0 0 - 1 4 5 17 0 0 3 1 -13
+p206
+aVRyan Hollins BOS 03/23/2012 BOS @ PHI L 3 1 0 0 - 0 0 - 1 4 25.0 0 0 0 0 0 0 0 1 -1
+p207
+aVE'Twaun Moore BOS 03/23/2012 BOS @ PHI L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p208
+aVMarquis Daniels BOS 03/23/2012 BOS @ PHI L 20 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 1 -16
+p209
+aVPaul Pierce BOS 03/23/2012 BOS @ PHI L 36 20 7 11 63.6 3 4 75.0 3 3 100.0 0 9 9 5 0 0 1 3 -15
+p210
+aVGreg Stiemsma BOS 03/22/2012 BOS @ MIL W 24 6 3 5 60.0 0 0 - 0 0 - 2 2 4 3 4 5 0 5 1
+p211
+aVJaJuan Johnson BOS 03/22/2012 BOS @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p212
+aVRajon Rondo BOS 03/22/2012 BOS @ MIL W 35 10 5 9 55.6 0 2 0.0 0 1 0.0 0 4 4 14 3 0 3 2 8
+p213
+aVE'Twaun Moore BOS 03/22/2012 BOS @ MIL W 1 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p214
+aVBrandon Bass BOS 03/22/2012 BOS @ MIL W 37 12 6 16 37.5 0 0 - 0 0 - 2 8 10 2 2 1 2 2 11
+p215
+aVMickael Pietrus BOS 03/22/2012 BOS @ MIL W 20 13 5 10 50.0 3 6 50.0 0 0 - 0 3 3 0 1 0 2 0 7
+p216
+aVSasha Pavlovic BOS 03/22/2012 BOS @ MIL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p217
+aVKeyon Dooling BOS 03/22/2012 BOS @ MIL W 14 8 4 4 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 3
+p218
+aVRay Allen BOS 03/22/2012 BOS @ MIL W 25 6 1 8 12.5 1 5 20.0 3 3 100.0 0 4 4 1 2 0 0 2 4
+p219
+aVAvery Bradley BOS 03/22/2012 BOS @ MIL W 17 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 2 1
+p220
+aVKevin Garnett BOS 03/22/2012 BOS @ MIL W 31 16 8 18 44.4 0 0 - 0 1 0.0 2 8 10 6 0 3 0 3 6
+p221
+aVPaul Pierce BOS 03/22/2012 BOS @ MIL W 34 25 10 15 66.7 3 3 100.0 2 3 66.7 0 9 9 2 1 2 3 1 10
+p222
+aVKevin Garnett BOS 03/19/2012 BOS @ ATL W 37 16 7 17 41.2 0 1 0.0 2 2 100.0 0 8 8 3 1 0 2 2 3
+p223
+aVRay Allen BOS 03/19/2012 BOS @ ATL W 37 19 5 9 55.6 4 6 66.7 5 5 100.0 0 3 3 1 0 0 2 3 5
+p224
+aVPaul Pierce BOS 03/19/2012 BOS @ ATL W 27 13 4 14 28.6 0 3 0.0 5 6 83.3 1 4 5 3 0 0 4 5 -6
+p225
+aVRajon Rondo BOS 03/19/2012 BOS @ ATL W 39 10 4 14 28.6 0 0 - 2 2 100.0 1 2 3 13 6 0 4 1 3
+p226
+aVMickael Pietrus BOS 03/19/2012 BOS @ ATL W 29 9 3 8 37.5 2 5 40.0 1 2 50.0 1 5 6 0 1 1 0 3 6
+p227
+aVAvery Bradley BOS 03/19/2012 BOS @ ATL W 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 0
+p228
+aVKeyon Dooling BOS 03/19/2012 BOS @ ATL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -3
+p229
+aVBrandon Bass BOS 03/19/2012 BOS @ ATL W 38 8 4 7 57.1 0 0 - 0 0 - 1 9 10 0 0 1 1 4 12
+p230
+aVGreg Stiemsma BOS 03/19/2012 BOS @ ATL W 19 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 4 1 4 -5
+p231
+aVKevin Garnett BOS 03/17/2012 BOS @ DEN L 33 22 9 12 75.0 0 0 - 4 4 100.0 1 8 9 5 1 0 3 1 -7
+p232
+aVGreg Stiemsma BOS 03/17/2012 BOS @ DEN L 9 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 3 1 2 1
+p233
+aVBrandon Bass BOS 03/17/2012 BOS @ DEN L 28 6 2 9 22.2 0 0 - 2 2 100.0 1 1 2 0 0 1 2 2 -14
+p234
+aVRajon Rondo BOS 03/17/2012 BOS @ DEN L 44 12 6 11 54.5 0 0 - 0 0 - 2 3 5 16 1 1 6 2 -3
+p235
+aVKeyon Dooling BOS 03/17/2012 BOS @ DEN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p236
+aVRay Allen BOS 03/17/2012 BOS @ DEN L 42 7 3 10 30.0 0 6 0.0 1 1 100.0 0 4 4 1 3 1 2 2 -2
+p237
+aVMarquis Daniels BOS 03/17/2012 BOS @ DEN L 20 8 3 5 60.0 0 0 - 2 3 66.7 0 2 2 1 0 0 1 1 8
+p238
+aVAvery Bradley BOS 03/17/2012 BOS @ DEN L 15 8 2 4 50.0 0 0 - 4 4 100.0 0 1 1 0 1 0 1 1 1
+p239
+aVMickael Pietrus BOS 03/17/2012 BOS @ DEN L 13 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 -8
+p240
+aVPaul Pierce BOS 03/17/2012 BOS @ DEN L 31 22 8 17 47.1 3 7 42.9 3 3 100.0 0 3 3 3 0 1 0 6 -7
+p241
+aVJaJuan Johnson BOS 03/16/2012 BOS @ SAC L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 1
+p242
+aVMickael Pietrus BOS 03/16/2012 BOS @ SAC L 15 9 3 3 100.0 1 1 100.0 2 3 66.7 0 1 1 1 0 0 1 2 -5
+p243
+aVBrandon Bass BOS 03/16/2012 BOS @ SAC L 32 16 7 11 63.6 0 0 - 2 2 100.0 1 0 1 1 2 1 0 2 -20
+p244
+aVKevin Garnett BOS 03/16/2012 BOS @ SAC L 28 10 5 10 50.0 0 0 - 0 0 - 0 9 9 3 1 2 4 4 -7
+p245
+aVRay Allen BOS 03/16/2012 BOS @ SAC L 33 26 9 16 56.3 5 10 50.0 3 3 100.0 0 4 4 1 1 0 1 0 -15
+p246
+aVMarquis Daniels BOS 03/16/2012 BOS @ SAC L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p247
+aVKeyon Dooling BOS 03/16/2012 BOS @ SAC L 14 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -3
+p248
+aVSasha Pavlovic BOS 03/16/2012 BOS @ SAC L 8 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -5
+p249
+aVGreg Stiemsma BOS 03/16/2012 BOS @ SAC L 16 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 1 0 3 2 2 -18
+p250
+aVRajon Rondo BOS 03/16/2012 BOS @ SAC L 33 4 2 9 22.2 0 0 - 0 0 - 3 0 3 12 1 0 4 2 -24
+p251
+aVAvery Bradley BOS 03/16/2012 BOS @ SAC L 15 5 2 7 28.6 0 0 - 1 2 50.0 0 1 1 1 1 0 1 1 -1
+p252
+aVPaul Pierce BOS 03/16/2012 BOS @ SAC L 35 19 5 15 33.3 0 5 0.0 9 9 100.0 0 3 3 2 1 0 2 2 -24
+p253
+aVRay Allen BOS 03/14/2012 BOS @ GSW W 32 7 2 7 28.6 1 3 33.3 2 2 100.0 0 1 1 0 4 0 1 0 -7
+p254
+aVBrandon Bass BOS 03/14/2012 BOS @ GSW W 41 22 8 18 44.4 0 0 - 6 6 100.0 3 6 9 0 1 1 2 2 -1
+p255
+aVAvery Bradley BOS 03/14/2012 BOS @ GSW W 13 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 0 0 0 1 9
+p256
+aVGreg Stiemsma BOS 03/14/2012 BOS @ GSW W 17 8 2 2 100.0 0 0 - 4 4 100.0 5 3 8 0 1 1 1 3 9
+p257
+aVKevin Garnett BOS 03/14/2012 BOS @ GSW W 34 24 11 15 73.3 0 0 - 2 3 66.7 0 7 7 5 1 1 3 1 2
+p258
+aVRajon Rondo BOS 03/14/2012 BOS @ GSW W 35 8 4 9 44.4 0 0 - 0 0 - 1 5 6 14 0 0 2 0 -7
+p259
+aVPaul Pierce BOS 03/14/2012 BOS @ GSW W 36 15 5 17 29.4 0 4 0.0 5 6 83.3 1 5 6 6 2 0 6 3 -9
+p260
+aVMickael Pietrus BOS 03/14/2012 BOS @ GSW W 25 15 5 6 83.3 5 6 83.3 0 0 - 0 0 0 3 1 0 2 3 3
+p261
+aVKeyon Dooling BOS 03/14/2012 BOS @ GSW W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 11
+p262
+aVKeyon Dooling BOS 03/12/2012 BOS @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p263
+aVRajon Rondo BOS 03/12/2012 BOS @ LAC W 41 12 4 8 50.0 0 0 - 4 4 100.0 0 2 2 10 3 0 6 2 6
+p264
+aVSasha Pavlovic BOS 03/12/2012 BOS @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p265
+aVGreg Stiemsma BOS 03/12/2012 BOS @ LAC W 22 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 2 2 0 2 -10
+p266
+aVAvery Bradley BOS 03/12/2012 BOS @ LAC W 7 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 7
+p267
+aVBrandon Bass BOS 03/12/2012 BOS @ LAC W 30 10 5 6 83.3 0 0 - 0 0 - 3 6 9 0 0 0 0 6 11
+p268
+aVMickael Pietrus BOS 03/12/2012 BOS @ LAC W 28 3 1 5 20.0 0 3 0.0 1 2 50.0 0 3 3 1 2 1 0 4 -9
+p269
+aVPaul Pierce BOS 03/12/2012 BOS @ LAC W 31 25 7 16 43.8 3 7 42.9 8 10 80.0 0 3 3 7 0 0 4 3 19
+p270
+aVRay Allen BOS 03/12/2012 BOS @ LAC W 40 15 5 12 41.7 2 3 66.7 3 4 75.0 2 2 4 1 1 0 1 2 8
+p271
+aVKevin Garnett BOS 03/12/2012 BOS @ LAC W 34 21 8 16 50.0 0 0 - 5 5 100.0 0 8 8 3 0 2 3 5 17
+p272
+aVPaul Pierce BOS 03/11/2012 BOS @ LAL L 39 13 4 14 28.6 1 3 33.3 4 4 100.0 0 0 0 9 3 0 2 3 1
+p273
+aVMickael Pietrus BOS 03/11/2012 BOS @ LAL L 11 5 2 7 28.6 1 3 33.3 0 0 - 2 1 3 0 1 1 0 0 -7
+p274
+aVRay Allen BOS 03/11/2012 BOS @ LAL L 39 17 6 14 42.9 3 8 37.5 2 2 100.0 0 4 4 6 0 1 0 5 3
+p275
+aVGreg Stiemsma BOS 03/11/2012 BOS @ LAL L 14 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 3 2 3 -4
+p276
+aVKeyon Dooling BOS 03/11/2012 BOS @ LAL L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p277
+aVKevin Garnett BOS 03/11/2012 BOS @ LAL L 35 14 7 11 63.6 0 0 - 0 0 - 2 9 11 5 3 1 1 4 -3
+p278
+aVRajon Rondo BOS 03/11/2012 BOS @ LAL L 40 24 10 18 55.6 1 2 50.0 3 4 75.0 0 2 2 10 1 0 4 3 2
+p279
+aVBrandon Bass BOS 03/11/2012 BOS @ LAL L 43 15 7 12 58.3 0 0 - 1 2 50.0 4 4 8 3 2 2 2 3 3
+p280
+aVSasha Pavlovic BOS 03/11/2012 BOS @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p281
+aVAvery Bradley BOS 03/11/2012 BOS @ LAL L 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -5
+p282
+aVSasha Pavlovic BOS 03/09/2012 BOS vs. POR W 22 10 4 8 50.0 1 3 33.3 1 2 50.0 0 0 0 2 2 0 1 2 3
+p283
+aVJaJuan Johnson BOS 03/09/2012 BOS vs. POR W 12 2 1 5 20.0 0 0 - 0 0 - 3 0 3 0 0 0 0 0 -16
+p284
+aVAvery Bradley BOS 03/09/2012 BOS vs. POR W 22 12 5 7 71.4 0 0 - 2 3 66.7 0 0 0 5 1 0 1 2 0
+p285
+aVBrandon Bass BOS 03/09/2012 BOS vs. POR W 31 8 4 11 36.4 0 0 - 0 0 - 1 3 4 0 1 1 0 2 18
+p286
+aVMarquis Daniels BOS 03/09/2012 BOS vs. POR W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -3
+p287
+aVGreg Stiemsma BOS 03/09/2012 BOS vs. POR W 27 1 0 9 0.0 0 0 - 1 2 50.0 2 5 7 3 3 2 2 6 1
+p288
+aVRay Allen BOS 03/09/2012 BOS vs. POR W 26 22 8 12 66.7 4 7 57.1 2 2 100.0 0 2 2 2 0 0 0 2 21
+p289
+aVRajon Rondo BOS 03/09/2012 BOS vs. POR W 26 8 4 9 44.4 0 0 - 0 1 0.0 0 2 2 5 2 0 1 0 18
+p290
+aVKevin Garnett BOS 03/09/2012 BOS vs. POR W 22 10 5 5 100.0 0 0 - 0 0 - 1 7 8 4 2 0 0 2 33
+p291
+aVKeyon Dooling BOS 03/09/2012 BOS vs. POR W 15 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 3 -3
+p292
+aVE'Twaun Moore BOS 03/09/2012 BOS vs. POR W 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p293
+aVPaul Pierce BOS 03/09/2012 BOS vs. POR W 26 22 7 13 53.8 2 5 40.0 6 7 85.7 2 2 4 2 2 0 2 3 21
+p294
+aVBrandon Bass BOS 03/07/2012 BOS @ PHI L 23 12 5 15 33.3 0 0 - 2 2 100.0 2 2 4 1 0 0 0 2 -23
+p295
+aVRajon Rondo BOS 03/07/2012 BOS @ PHI L 28 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 8 2 0 2 0 -28
+p296
+aVKeyon Dooling BOS 03/07/2012 BOS @ PHI L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -16
+p297
+aVChris Wilcox BOS 03/07/2012 BOS @ PHI L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -24
+p298
+aVJaJuan Johnson BOS 03/07/2012 BOS @ PHI L 13 10 4 8 50.0 0 0 - 2 2 100.0 2 3 5 0 0 1 0 0 -1
+p299
+aVMarquis Daniels BOS 03/07/2012 BOS @ PHI L 8 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 0 1 2 0 0
+p300
+aVPaul Pierce BOS 03/07/2012 BOS @ PHI L 26 16 5 13 38.5 0 3 0.0 6 8 75.0 2 2 4 0 1 0 1 1 -19
+p301
+aVSasha Pavlovic BOS 03/07/2012 BOS @ PHI L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 -3
+p302
+aVAvery Bradley BOS 03/07/2012 BOS @ PHI L 14 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 1 1 2 2 1
+p303
+aVRay Allen BOS 03/07/2012 BOS @ PHI L 28 2 0 5 0.0 0 2 0.0 2 2 100.0 0 4 4 2 2 1 1 0 -17
+p304
+aVMickael Pietrus BOS 03/07/2012 BOS @ PHI L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -13
+p305
+aVGreg Stiemsma BOS 03/07/2012 BOS @ PHI L 19 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 2 0 4 -6
+p306
+aVKevin Garnett BOS 03/07/2012 BOS @ PHI L 23 8 4 11 36.4 0 0 - 0 0 - 1 4 5 0 0 2 3 1 -11
+p307
+aVKevin Garnett BOS 03/06/2012 BOS vs. HOU W 38 13 4 7 57.1 0 0 - 5 8 62.5 2 11 13 3 2 2 2 3 16
+p308
+aVChris Wilcox BOS 03/06/2012 BOS vs. HOU W 21 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 5 -22
+p309
+aVGreg Stiemsma BOS 03/06/2012 BOS vs. HOU W 13 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p310
+aVMickael Pietrus BOS 03/06/2012 BOS vs. HOU W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 1 0 -15
+p311
+aVRay Allen BOS 03/06/2012 BOS vs. HOU W 41 21 7 15 46.7 3 8 37.5 4 5 80.0 0 3 3 4 2 0 1 0 19
+p312
+aVKeyon Dooling BOS 03/06/2012 BOS vs. HOU W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -3
+p313
+aVAvery Bradley BOS 03/06/2012 BOS vs. HOU W 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p314
+aVRajon Rondo BOS 03/06/2012 BOS vs. HOU W 45 9 4 12 33.3 0 0 - 1 4 25.0 0 3 3 12 3 0 4 2 4
+p315
+aVBrandon Bass BOS 03/06/2012 BOS vs. HOU W 34 8 4 8 50.0 0 0 - 0 0 - 1 3 4 3 1 0 0 4 17
+p316
+aVPaul Pierce BOS 03/06/2012 BOS vs. HOU W 41 30 9 21 42.9 1 3 33.3 11 12 91.7 0 6 6 2 2 0 2 3 9
+p317
+aVRajon Rondo BOS 03/04/2012 BOS vs. NYK W 48 18 7 20 35.0 0 0 - 4 7 57.1 4 13 17 20 1 1 4 3 5
+p318
+aVMickael Pietrus BOS 03/04/2012 BOS vs. NYK W 24 5 2 9 22.2 1 6 16.7 0 0 - 1 1 2 1 0 0 1 3 -10
+p319
+aVKeyon Dooling BOS 03/04/2012 BOS vs. NYK W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -8
+p320
+aVBrandon Bass BOS 03/04/2012 BOS vs. NYK W 30 18 6 11 54.5 0 0 - 6 6 100.0 1 2 3 0 0 4 2 3 2
+p321
+aVAvery Bradley BOS 03/04/2012 BOS vs. NYK W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p322
+aVChris Wilcox BOS 03/04/2012 BOS vs. NYK W 17 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -3
+p323
+aVKevin Garnett BOS 03/04/2012 BOS vs. NYK W 41 18 8 22 36.4 0 0 - 2 2 100.0 3 7 10 3 4 2 1 5 10
+p324
+aVPaul Pierce BOS 03/04/2012 BOS vs. NYK W 46 34 13 23 56.5 4 7 57.1 4 5 80.0 2 5 7 3 2 1 3 4 3
+p325
+aVRay Allen BOS 03/04/2012 BOS vs. NYK W 45 12 4 9 44.4 2 5 40.0 2 2 100.0 0 0 0 1 4 0 0 1 22
+p326
+aVE'Twaun Moore BOS 03/02/2012 BOS vs. NJN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p327
+aVBrandon Bass BOS 03/02/2012 BOS vs. NJN W 25 8 4 6 66.7 0 0 - 0 0 - 0 3 3 0 0 2 2 3 18
+p328
+aVKeyon Dooling BOS 03/02/2012 BOS vs. NJN W 26 4 2 10 20.0 0 5 0.0 0 0 - 0 0 0 5 1 0 1 2 -12
+p329
+aVMickael Pietrus BOS 03/02/2012 BOS vs. NJN W 23 11 4 9 44.4 1 4 25.0 2 2 100.0 0 5 5 2 1 0 1 2 23
+p330
+aVJaJuan Johnson BOS 03/02/2012 BOS vs. NJN W 3 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p331
+aVAvery Bradley BOS 03/02/2012 BOS vs. NJN W 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 1 0
+p332
+aVKevin Garnett BOS 03/02/2012 BOS vs. NJN W 27 20 10 13 76.9 0 0 - 0 0 - 0 10 10 3 1 0 2 3 23
+p333
+aVGreg Stiemsma BOS 03/02/2012 BOS vs. NJN W 13 0 0 3 0.0 0 0 - 0 0 - 2 4 6 0 1 1 0 3 -1
+p334
+aVChris Wilcox BOS 03/02/2012 BOS vs. NJN W 28 14 4 6 66.7 0 0 - 6 7 85.7 3 4 7 1 0 0 3 2 -10
+p335
+aVPaul Pierce BOS 03/02/2012 BOS vs. NJN W 32 27 10 14 71.4 3 4 75.0 4 4 100.0 0 4 4 8 0 1 3 2 25
+p336
+aVRajon Rondo BOS 03/02/2012 BOS vs. NJN W 32 14 7 16 43.8 0 0 - 0 2 0.0 1 1 2 13 5 0 2 1 20
+p337
+aVSasha Pavlovic BOS 03/02/2012 BOS vs. NJN W 16 3 1 3 33.3 0 2 0.0 1 2 50.0 0 3 3 0 2 0 0 2 -8
+p338
+aVKeyon Dooling BOS 02/29/2012 BOS vs. MIL W 14 8 2 6 33.3 1 4 25.0 3 4 75.0 0 1 1 1 0 0 1 1 3
+p339
+aVPaul Pierce BOS 02/29/2012 BOS vs. MIL W 35 10 5 12 41.7 0 2 0.0 0 0 - 2 4 6 5 0 0 4 2 5
+p340
+aVRajon Rondo BOS 02/29/2012 BOS vs. MIL W 35 15 7 13 53.8 0 1 0.0 1 2 50.0 3 8 11 10 0 0 3 0 8
+p341
+aVRay Allen BOS 02/29/2012 BOS vs. MIL W 32 15 5 10 50.0 2 4 50.0 3 4 75.0 0 2 2 1 1 1 0 1 9
+p342
+aVChris Wilcox BOS 02/29/2012 BOS vs. MIL W 26 7 3 5 60.0 0 0 - 1 2 50.0 6 7 13 0 2 1 1 3 6
+p343
+aVMickael Pietrus BOS 02/29/2012 BOS vs. MIL W 16 4 2 5 40.0 0 3 0.0 0 0 - 1 1 2 1 0 0 1 1 2
+p344
+aVJaJuan Johnson BOS 02/29/2012 BOS vs. MIL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p345
+aVAvery Bradley BOS 02/29/2012 BOS vs. MIL W 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -2
+p346
+aVBrandon Bass BOS 02/29/2012 BOS vs. MIL W 37 16 6 13 46.2 0 0 - 4 7 57.1 4 3 7 2 0 1 2 4 -3
+p347
+aVKevin Garnett BOS 02/29/2012 BOS vs. MIL W 31 25 9 18 50.0 0 2 0.0 7 9 77.8 2 8 10 3 2 2 1 3 8
+p348
+aVKevin Garnett BOS 02/28/2012 BOS @ CLE W 33 18 5 11 45.5 0 0 - 8 8 100.0 1 7 8 1 1 0 2 3 -3
+p349
+aVRajon Rondo BOS 02/28/2012 BOS @ CLE W 32 0 0 6 0.0 0 0 - 0 0 - 0 3 3 11 1 0 5 4 7
+p350
+aVRay Allen BOS 02/28/2012 BOS @ CLE W 35 22 8 13 61.5 4 8 50.0 2 2 100.0 0 1 1 2 0 0 1 3 8
+p351
+aVBrandon Bass BOS 02/28/2012 BOS @ CLE W 35 12 6 12 50.0 0 0 - 0 0 - 2 5 7 2 2 1 0 1 1
+p352
+aVKeyon Dooling BOS 02/28/2012 BOS @ CLE W 11 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -1
+p353
+aVMickael Pietrus BOS 02/28/2012 BOS @ CLE W 17 9 4 8 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 1 14
+p354
+aVPaul Pierce BOS 02/28/2012 BOS @ CLE W 35 12 4 11 36.4 2 7 28.6 2 2 100.0 1 1 2 6 2 0 6 2 -11
+p355
+aVChris Wilcox BOS 02/28/2012 BOS @ CLE W 23 5 2 4 50.0 0 0 - 1 2 50.0 1 10 11 1 0 0 2 3 8
+p356
+aVAvery Bradley BOS 02/28/2012 BOS @ CLE W 16 6 3 5 60.0 0 0 - 0 0 - 0 0 0 3 0 0 0 2 -6
+p357
+aVGreg Stiemsma BOS 02/28/2012 BOS @ CLE W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p358
+aVMickael Pietrus BOS 02/22/2012 BOS @ OKC L 44 16 5 11 45.5 2 5 40.0 4 4 100.0 1 6 7 2 0 1 3 4 -1
+p359
+aVPaul Pierce BOS 02/22/2012 BOS @ OKC L 38 23 5 15 33.3 1 4 25.0 12 16 75.0 0 5 5 8 1 0 2 4 3
+p360
+aVKevin Garnett BOS 02/22/2012 BOS @ OKC L 38 23 8 11 72.7 0 0 - 7 8 87.5 1 12 13 1 1 2 4 4 -9
+p361
+aVRay Allen BOS 02/22/2012 BOS @ OKC L 42 21 7 14 50.0 3 5 60.0 4 4 100.0 0 2 2 7 1 0 3 4 -13
+p362
+aVGreg Stiemsma BOS 02/22/2012 BOS @ OKC L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -12
+p363
+aVAvery Bradley BOS 02/22/2012 BOS @ OKC L 35 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 5 1 3 3 6 3
+p364
+aVJaJuan Johnson BOS 02/22/2012 BOS @ OKC L 15 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -12
+p365
+aVMarquis Daniels BOS 02/22/2012 BOS @ OKC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -17
+p366
+aVE'Twaun Moore BOS 02/22/2012 BOS @ OKC L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p367
+aVKeyon Dooling BOS 02/22/2012 BOS @ OKC L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 1 0 1 0 -13
+p368
+aVE'Twaun Moore BOS 02/20/2012 BOS @ DAL L 7 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 1 0 0 0 0 8
+p369
+aVKeyon Dooling BOS 02/20/2012 BOS @ DAL L 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 3 0 0 1 1 -1
+p370
+aVMickael Pietrus BOS 02/20/2012 BOS @ DAL L 34 6 2 8 25.0 2 6 33.3 0 0 - 1 11 12 4 0 0 2 2 -5
+p371
+aVAvery Bradley BOS 02/20/2012 BOS @ DAL L 33 12 6 11 54.5 0 0 - 0 0 - 1 3 4 2 1 0 1 2 -16
+p372
+aVPaul Pierce BOS 02/20/2012 BOS @ DAL L 33 20 7 13 53.8 1 3 33.3 5 7 71.4 0 4 4 2 4 0 5 3 -27
+p373
+aVGreg Stiemsma BOS 02/20/2012 BOS @ DAL L 17 1 0 2 0.0 0 0 - 1 2 50.0 2 3 5 1 0 1 2 3 -4
+p374
+aVMarquis Daniels BOS 02/20/2012 BOS @ DAL L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p375
+aVJermaine O'Neal BOS 02/20/2012 BOS @ DAL L 19 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 4 1 1 -14
+p376
+aVChris Wilcox BOS 02/20/2012 BOS @ DAL L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 4 -15
+p377
+aVRay Allen BOS 02/20/2012 BOS @ DAL L 37 15 6 15 40.0 1 5 20.0 2 2 100.0 0 5 5 3 0 0 2 1 -25
+p378
+aVJaJuan Johnson BOS 02/20/2012 BOS @ DAL L 16 8 4 7 57.1 0 0 - 0 0 - 1 4 5 1 0 0 0 1 11
+p379
+aVSasha Pavlovic BOS 02/20/2012 BOS @ DAL L 9 0 0 4 0.0 0 4 0.0 0 0 - 0 3 3 0 0 1 0 0 3
+p380
+aVJermaine O'Neal BOS 02/19/2012 BOS @ DET L 27 8 4 6 66.7 0 0 - 0 2 0.0 3 8 11 1 0 5 1 4 -8
+p381
+aVE'Twaun Moore BOS 02/19/2012 BOS @ DET L 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p382
+aVJaJuan Johnson BOS 02/19/2012 BOS @ DET L 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 2 2 3 -7
+p383
+aVKeyon Dooling BOS 02/19/2012 BOS @ DET L 14 4 1 4 25.0 1 3 33.3 1 2 50.0 0 0 0 1 1 0 0 2 -8
+p384
+aVSasha Pavlovic BOS 02/19/2012 BOS @ DET L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p385
+aVPaul Pierce BOS 02/19/2012 BOS @ DET L 34 18 6 11 54.5 2 4 50.0 4 4 100.0 1 3 4 4 2 1 5 2 -12
+p386
+aVAvery Bradley BOS 02/19/2012 BOS @ DET L 14 7 3 8 37.5 0 1 0.0 1 1 100.0 0 0 0 2 1 0 0 3 -2
+p387
+aVRay Allen BOS 02/19/2012 BOS @ DET L 36 13 5 11 45.5 3 4 75.0 0 0 - 1 5 6 4 1 0 4 4 -17
+p388
+aVMickael Pietrus BOS 02/19/2012 BOS @ DET L 20 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 1 0 3 -11
+p389
+aVGreg Stiemsma BOS 02/19/2012 BOS @ DET L 15 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 0 1 2 3 1
+p390
+aVMarquis Daniels BOS 02/19/2012 BOS @ DET L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 3
+p391
+aVRajon Rondo BOS 02/19/2012 BOS @ DET L 28 5 1 6 16.7 0 0 - 3 4 75.0 0 2 2 10 0 0 6 2 -8
+p392
+aVChris Wilcox BOS 02/19/2012 BOS @ DET L 27 14 6 10 60.0 0 0 - 2 2 100.0 0 6 6 0 0 1 2 4 -11
+p393
+aVRay Allen BOS 02/16/2012 BOS @ CHI L 37 12 4 13 30.8 3 8 37.5 1 1 100.0 0 3 3 0 1 0 0 1 -7
+p394
+aVMickael Pietrus BOS 02/16/2012 BOS @ CHI L 21 2 1 5 20.0 0 4 0.0 0 0 - 0 7 7 0 1 1 0 1 10
+p395
+aVPaul Pierce BOS 02/16/2012 BOS @ CHI L 35 14 6 16 37.5 0 3 0.0 2 3 66.7 0 2 2 3 1 1 1 0 -16
+p396
+aVChris Wilcox BOS 02/16/2012 BOS @ CHI L 27 9 4 7 57.1 0 0 - 1 2 50.0 1 2 3 2 2 2 3 4 5
+p397
+aVJermaine O'Neal BOS 02/16/2012 BOS @ CHI L 21 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 0 1 0 5 -18
+p398
+aVRajon Rondo BOS 02/16/2012 BOS @ CHI L 44 17 7 17 41.2 0 0 - 3 4 75.0 1 6 7 8 1 0 1 3 -7
+p399
+aVKeyon Dooling BOS 02/16/2012 BOS @ CHI L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -3
+p400
+aVAvery Bradley BOS 02/16/2012 BOS @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p401
+aVJaJuan Johnson BOS 02/16/2012 BOS @ CHI L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 5
+p402
+aVKevin Garnett BOS 02/16/2012 BOS @ CHI L 32 18 7 13 53.8 0 0 - 4 4 100.0 3 7 10 2 2 1 2 3 -10
+p403
+aVAvery Bradley BOS 02/15/2012 BOS vs. DET L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p404
+aVJaJuan Johnson BOS 02/15/2012 BOS vs. DET L 25 10 5 11 45.5 0 0 - 0 1 0.0 1 4 5 0 0 1 0 2 -15
+p405
+aVKeyon Dooling BOS 02/15/2012 BOS vs. DET L 15 4 2 4 50.0 0 0 - 0 3 0.0 0 0 0 0 0 0 0 2 -8
+p406
+aVMickael Pietrus BOS 02/15/2012 BOS vs. DET L 16 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 2 -9
+p407
+aVChris Wilcox BOS 02/15/2012 BOS vs. DET L 32 17 8 12 66.7 0 0 - 1 2 50.0 3 6 9 3 1 0 2 2 0
+p408
+aVRajon Rondo BOS 02/15/2012 BOS vs. DET L 39 35 15 27 55.6 1 1 100.0 4 9 44.4 2 3 5 6 4 0 2 1 -2
+p409
+aVGreg Stiemsma BOS 02/15/2012 BOS vs. DET L 13 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -10
+p410
+aVRay Allen BOS 02/15/2012 BOS vs. DET L 33 10 1 5 20.0 0 1 0.0 8 9 88.9 0 6 6 2 2 2 2 2 1
+p411
+aVJermaine O'Neal BOS 02/15/2012 BOS vs. DET L 22 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 2 1 5 5
+p412
+aVPaul Pierce BOS 02/15/2012 BOS vs. DET L 37 10 3 11 27.3 0 1 0.0 4 4 100.0 0 1 1 5 0 2 0 3 -4
+p413
+aVJaJuan Johnson BOS 02/12/2012 BOS vs. CHI W 33 12 6 13 46.2 0 0 - 0 0 - 3 1 4 1 2 1 3 4 -1
+p414
+aVChris Wilcox BOS 02/12/2012 BOS vs. CHI W 26 11 5 6 83.3 0 0 - 1 3 33.3 2 7 9 1 0 1 2 5 4
+p415
+aVKeyon Dooling BOS 02/12/2012 BOS vs. CHI W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p416
+aVKevin Garnett BOS 02/12/2012 BOS vs. CHI W 29 13 5 8 62.5 0 0 - 3 4 75.0 0 12 12 3 0 4 3 2 16
+p417
+aVAvery Bradley BOS 02/12/2012 BOS vs. CHI W 8 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -4
+p418
+aVGreg Stiemsma BOS 02/12/2012 BOS vs. CHI W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -5
+p419
+aVRajon Rondo BOS 02/12/2012 BOS vs. CHI W 40 32 11 22 50.0 0 2 0.0 10 13 76.9 2 8 10 15 2 0 5 3 8
+p420
+aVRay Allen BOS 02/12/2012 BOS vs. CHI W 35 11 3 9 33.3 1 5 20.0 4 4 100.0 0 0 0 2 1 0 1 1 3
+p421
+aVMickael Pietrus BOS 02/12/2012 BOS vs. CHI W 19 3 1 1 100.0 1 1 100.0 0 2 0.0 0 3 3 0 0 1 0 2 -4
+p422
+aVPaul Pierce BOS 02/12/2012 BOS vs. CHI W 37 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 2 4 0 4 4 9
+p423
+aVAvery Bradley BOS 02/10/2012 BOS @ TOR L 7 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 1 0 2 0 7
+p424
+aVJaJuan Johnson BOS 02/10/2012 BOS @ TOR L 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p425
+aVChris Wilcox BOS 02/10/2012 BOS @ TOR L 22 4 2 4 50.0 0 0 - 0 2 0.0 1 4 5 0 1 0 1 2 -16
+p426
+aVRajon Rondo BOS 02/10/2012 BOS @ TOR L 41 5 2 10 20.0 0 1 0.0 1 1 100.0 2 3 5 7 0 0 5 1 -16
+p427
+aVRay Allen BOS 02/10/2012 BOS @ TOR L 32 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 3 0 0 2 3 -17
+p428
+aVKevin Garnett BOS 02/10/2012 BOS @ TOR L 29 17 6 9 66.7 0 0 - 5 6 83.3 0 8 8 2 1 0 0 2 8
+p429
+aVMickael Pietrus BOS 02/10/2012 BOS @ TOR L 27 11 4 6 66.7 3 5 60.0 0 0 - 0 4 4 0 1 0 1 2 4
+p430
+aVBrandon Bass BOS 02/10/2012 BOS @ TOR L 30 10 4 8 50.0 0 0 - 2 2 100.0 2 5 7 0 0 2 1 1 -14
+p431
+aVPaul Pierce BOS 02/10/2012 BOS @ TOR L 35 12 4 11 36.4 0 3 0.0 4 5 80.0 0 1 1 5 1 0 3 1 -20
+p432
+aVMarquis Daniels BOS 02/10/2012 BOS @ TOR L 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 1 1 1 10
+p433
+aVJermaine O'Neal BOS 02/09/2012 BOS vs. LAL L 33 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 0 3 1 3 1
+p434
+aVMarquis Daniels BOS 02/09/2012 BOS vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p435
+aVRajon Rondo BOS 02/09/2012 BOS vs. LAL L 45 14 7 13 53.8 0 0 - 0 0 - 0 2 2 7 2 0 3 3 6
+p436
+aVKevin Garnett BOS 02/09/2012 BOS vs. LAL L 36 12 6 23 26.1 0 0 - 0 0 - 2 10 12 3 1 1 1 4 6
+p437
+aVChris Wilcox BOS 02/09/2012 BOS vs. LAL L 13 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 2 0 1 1 -3
+p438
+aVE'Twaun Moore BOS 02/09/2012 BOS vs. LAL L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -7
+p439
+aVBrandon Bass BOS 02/09/2012 BOS vs. LAL L 24 8 4 9 44.4 0 0 - 0 0 - 3 2 5 1 1 0 0 1 -6
+p440
+aVPaul Pierce BOS 02/09/2012 BOS vs. LAL L 48 18 7 18 38.9 1 5 20.0 3 3 100.0 3 6 9 7 1 0 2 4 2
+p441
+aVRay Allen BOS 02/09/2012 BOS vs. LAL L 39 22 9 20 45.0 2 6 33.3 2 2 100.0 1 5 6 2 0 1 1 3 0
+p442
+aVMickael Pietrus BOS 02/09/2012 BOS vs. LAL L 18 9 3 9 33.3 3 8 37.5 0 0 - 0 1 1 0 0 0 0 1 -4
+p443
+aVJaJuan Johnson BOS 02/07/2012 BOS vs. CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p444
+aVRajon Rondo BOS 02/07/2012 BOS vs. CHA W 33 10 4 8 50.0 0 1 0.0 2 2 100.0 0 0 0 14 1 0 0 0 20
+p445
+aVE'Twaun Moore BOS 02/07/2012 BOS vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p446
+aVPaul Pierce BOS 02/07/2012 BOS vs. CHA W 37 15 6 18 33.3 2 10 20.0 1 1 100.0 0 8 8 9 0 0 2 0 26
+p447
+aVSasha Pavlovic BOS 02/07/2012 BOS vs. CHA W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p448
+aVBrandon Bass BOS 02/07/2012 BOS vs. CHA W 28 13 5 8 62.5 0 0 - 3 3 100.0 1 2 3 1 1 0 0 1 16
+p449
+aVKevin Garnett BOS 02/07/2012 BOS vs. CHA W 27 22 10 15 66.7 0 1 0.0 2 2 100.0 0 7 7 1 0 1 1 1 0
+p450
+aVGreg Stiemsma BOS 02/07/2012 BOS vs. CHA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p451
+aVAvery Bradley BOS 02/07/2012 BOS vs. CHA W 15 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -7
+p452
+aVMickael Pietrus BOS 02/07/2012 BOS vs. CHA W 19 5 2 7 28.6 1 5 20.0 0 0 - 2 3 5 1 0 0 3 2 3
+p453
+aVRay Allen BOS 02/07/2012 BOS vs. CHA W 32 17 8 14 57.1 1 5 20.0 0 0 - 0 0 0 3 1 0 3 4 13
+p454
+aVChris Wilcox BOS 02/07/2012 BOS vs. CHA W 17 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 1 3 1
+p455
+aVJermaine O'Neal BOS 02/07/2012 BOS vs. CHA W 19 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 1 1 0 2 5
+p456
+aVSasha Pavlovic BOS 02/05/2012 BOS vs. MEM W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p457
+aVPaul Pierce BOS 02/05/2012 BOS vs. MEM W 31 21 5 12 41.7 1 4 25.0 10 10 100.0 1 5 6 6 1 0 2 4 28
+p458
+aVAvery Bradley BOS 02/05/2012 BOS vs. MEM W 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 2 1 0
+p459
+aVMickael Pietrus BOS 02/05/2012 BOS vs. MEM W 20 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 1 1 0 2 2 18
+p460
+aVJermaine O'Neal BOS 02/05/2012 BOS vs. MEM W 26 4 2 5 40.0 0 0 - 0 0 - 3 4 7 0 0 2 1 1 10
+p461
+aVJaJuan Johnson BOS 02/05/2012 BOS vs. MEM W 22 10 5 8 62.5 0 0 - 0 0 - 1 3 4 1 1 2 1 1 8
+p462
+aVKevin Garnett BOS 02/05/2012 BOS vs. MEM W 33 24 9 12 75.0 1 1 100.0 5 6 83.3 0 9 9 2 1 0 2 1 12
+p463
+aVRajon Rondo BOS 02/05/2012 BOS vs. MEM W 35 5 2 6 33.3 0 1 0.0 1 2 50.0 0 5 5 14 2 0 5 0 11
+p464
+aVRay Allen BOS 02/05/2012 BOS vs. MEM W 29 12 4 14 28.6 3 9 33.3 1 1 100.0 0 4 4 1 0 0 2 1 2
+p465
+aVGreg Stiemsma BOS 02/05/2012 BOS vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 1 0 1 -3
+p466
+aVE'Twaun Moore BOS 02/05/2012 BOS vs. MEM W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p467
+aVChris Wilcox BOS 02/05/2012 BOS vs. MEM W 12 12 5 5 100.0 0 0 - 2 2 100.0 2 3 5 0 1 0 0 2 9
+p468
+aVPaul Pierce BOS 02/03/2012 BOS vs. NYK W 43 30 8 21 38.1 4 10 40.0 10 12 83.3 3 4 7 5 1 1 3 3 4
+p469
+aVJermaine O'Neal BOS 02/03/2012 BOS vs. NYK W 20 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 1 2 2 -13
+p470
+aVBrandon Bass BOS 02/03/2012 BOS vs. NYK W 26 8 3 11 27.3 0 0 - 2 2 100.0 1 3 4 3 0 2 0 3 7
+p471
+aVRajon Rondo BOS 02/03/2012 BOS vs. NYK W 34 7 3 8 37.5 0 1 0.0 1 4 25.0 1 4 5 7 2 0 5 1 -8
+p472
+aVRay Allen BOS 02/03/2012 BOS vs. NYK W 33 14 5 10 50.0 3 5 60.0 1 1 100.0 1 4 5 2 0 1 1 4 4
+p473
+aVSasha Pavlovic BOS 02/03/2012 BOS vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p474
+aVMickael Pietrus BOS 02/03/2012 BOS vs. NYK W 15 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 2 4 3
+p475
+aVAvery Bradley BOS 02/03/2012 BOS vs. NYK W 16 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 1 1 1 3 9
+p476
+aVChris Wilcox BOS 02/03/2012 BOS vs. NYK W 17 6 1 4 25.0 0 0 - 4 4 100.0 4 0 4 1 0 0 1 1 6
+p477
+aVKevin Garnett BOS 02/03/2012 BOS vs. NYK W 33 15 7 13 53.8 1 1 100.0 0 0 - 2 6 8 3 0 0 2 3 3
+p478
+aVJermaine O'Neal BOS 02/01/2012 BOS vs. TOR W 14 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 1 0 4 8
+p479
+aVChris Wilcox BOS 02/01/2012 BOS vs. TOR W 18 0 0 2 0.0 0 0 - 0 0 - 0 5 5 1 0 0 0 2 13
+p480
+aVE'Twaun Moore BOS 02/01/2012 BOS vs. TOR W 22 8 3 8 37.5 1 3 33.3 1 1 100.0 1 1 2 3 0 0 1 1 9
+p481
+aVSasha Pavlovic BOS 02/01/2012 BOS vs. TOR W 21 6 2 7 28.6 2 5 40.0 0 0 - 0 2 2 1 0 2 2 2 4
+p482
+aVRay Allen BOS 02/01/2012 BOS vs. TOR W 23 12 5 9 55.6 2 3 66.7 0 0 - 0 1 1 5 1 0 1 2 23
+p483
+aVMarquis Daniels BOS 02/01/2012 BOS vs. TOR W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 6
+p484
+aVKevin Garnett BOS 02/01/2012 BOS vs. TOR W 17 7 3 5 60.0 1 1 100.0 0 0 - 0 5 5 4 0 2 0 0 13
+p485
+aVBrandon Bass BOS 02/01/2012 BOS vs. TOR W 31 12 4 8 50.0 0 0 - 4 4 100.0 1 8 9 2 0 0 2 2 24
+p486
+aVGreg Stiemsma BOS 02/01/2012 BOS vs. TOR W 7 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 0 0 1 2
+p487
+aVMickael Pietrus BOS 02/01/2012 BOS vs. TOR W 21 6 2 7 28.6 2 6 33.3 0 0 - 1 4 5 1 1 0 2 2 11
+p488
+aVAvery Bradley BOS 02/01/2012 BOS vs. TOR W 26 11 5 6 83.3 0 0 - 1 1 100.0 0 1 1 2 0 0 1 2 27
+p489
+aVPaul Pierce BOS 02/01/2012 BOS vs. TOR W 26 17 5 11 45.5 4 6 66.7 3 4 75.0 1 5 6 8 1 1 1 1 28
+p490
+aVJaJuan Johnson BOS 02/01/2012 BOS vs. TOR W 10 11 5 5 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 12
+p491
+aVBrandon Bass BOS 01/31/2012 BOS @ CLE W 29 13 6 9 66.7 0 0 - 1 2 50.0 1 5 6 2 1 0 2 3 -4
+p492
+aVSasha Pavlovic BOS 01/31/2012 BOS @ CLE W 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 0
+p493
+aVKevin Garnett BOS 01/31/2012 BOS @ CLE W 32 13 5 12 41.7 0 0 - 3 4 75.0 1 3 4 4 1 0 0 3 4
+p494
+aVE'Twaun Moore BOS 01/31/2012 BOS @ CLE W 11 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 2 1 1
+p495
+aVJermaine O'Neal BOS 01/31/2012 BOS @ CLE W 23 12 5 7 71.4 0 0 - 2 2 100.0 1 2 3 2 1 2 1 1 4
+p496
+aVChris Wilcox BOS 01/31/2012 BOS @ CLE W 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 2 5
+p497
+aVRay Allen BOS 01/31/2012 BOS @ CLE W 38 12 4 10 40.0 2 5 40.0 2 2 100.0 0 2 2 8 2 0 4 3 6
+p498
+aVPaul Pierce BOS 01/31/2012 BOS @ CLE W 34 20 7 14 50.0 0 2 0.0 6 9 66.7 0 4 4 6 3 0 1 1 -1
+p499
+aVMickael Pietrus BOS 01/31/2012 BOS @ CLE W 18 6 2 7 28.6 2 6 33.3 0 0 - 0 5 5 1 1 0 1 1 -2
+p500
+aVAvery Bradley BOS 01/31/2012 BOS @ CLE W 37 8 4 7 57.1 0 0 - 0 0 - 2 0 2 1 0 0 1 3 2
+p501
+aVMarquis Daniels BOS 01/29/2012 BOS vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -2
+p502
+aVChris Wilcox BOS 01/29/2012 BOS vs. CLE L 23 4 2 3 66.7 0 0 - 0 2 0.0 1 5 6 1 1 1 0 3 15
+p503
+aVRay Allen BOS 01/29/2012 BOS vs. CLE L 36 22 9 14 64.3 4 6 66.7 0 0 - 0 3 3 3 1 0 1 1 2
+p504
+aVBrandon Bass BOS 01/29/2012 BOS vs. CLE L 38 13 5 11 45.5 0 0 - 3 4 75.0 0 4 4 2 1 1 2 4 -6
+p505
+aVPaul Pierce BOS 01/29/2012 BOS vs. CLE L 35 18 8 12 66.7 1 1 100.0 1 2 50.0 0 6 6 5 0 0 7 2 -1
+p506
+aVAvery Bradley BOS 01/29/2012 BOS vs. CLE L 28 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 2 0 0 1 0 -4
+p507
+aVE'Twaun Moore BOS 01/29/2012 BOS vs. CLE L 20 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 0 0 0 4 3
+p508
+aVKevin Garnett BOS 01/29/2012 BOS vs. CLE L 30 14 5 10 50.0 0 0 - 4 4 100.0 2 5 7 3 1 1 4 0 -3
+p509
+aVMickael Pietrus BOS 01/29/2012 BOS vs. CLE L 15 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 1 0
+p510
+aVGreg Stiemsma BOS 01/29/2012 BOS vs. CLE L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 -8
+p511
+aVSasha Pavlovic BOS 01/29/2012 BOS vs. CLE L 8 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p512
+aVMarquis Daniels BOS 01/27/2012 BOS vs. IND W 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 1 1
+p513
+aVGreg Stiemsma BOS 01/27/2012 BOS vs. IND W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p514
+aVBrandon Bass BOS 01/27/2012 BOS vs. IND W 38 12 6 12 50.0 0 0 - 0 0 - 2 4 6 2 0 1 1 4 6
+p515
+aVE'Twaun Moore BOS 01/27/2012 BOS vs. IND W 16 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 2 3
+p516
+aVKevin Garnett BOS 01/27/2012 BOS vs. IND W 32 13 4 9 44.4 0 0 - 5 5 100.0 1 7 8 4 1 2 1 2 9
+p517
+aVChris Wilcox BOS 01/27/2012 BOS vs. IND W 22 14 6 8 75.0 0 0 - 2 3 66.7 2 4 6 0 0 0 2 2 1
+p518
+aVMickael Pietrus BOS 01/27/2012 BOS vs. IND W 33 13 5 13 38.5 2 5 40.0 1 2 50.0 2 6 8 0 0 0 1 4 8
+p519
+aVAvery Bradley BOS 01/27/2012 BOS vs. IND W 32 4 2 7 28.6 0 0 - 0 0 - 0 2 2 3 1 1 1 2 4
+p520
+aVSasha Pavlovic BOS 01/27/2012 BOS vs. IND W 12 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 1 0 1 0
+p521
+aVPaul Pierce BOS 01/27/2012 BOS vs. IND W 34 28 10 23 43.5 4 7 57.1 4 4 100.0 2 8 10 8 3 2 6 1 5
+p522
+aVChris Wilcox BOS 01/26/2012 BOS @ ORL W 19 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 4 4
+p523
+aVKevin Garnett BOS 01/26/2012 BOS @ ORL W 35 12 6 14 42.9 0 0 - 0 0 - 2 8 10 4 3 4 3 3 23
+p524
+aVMickael Pietrus BOS 01/26/2012 BOS @ ORL W 32 12 4 9 44.4 3 8 37.5 1 2 50.0 2 2 4 2 0 0 0 2 -1
+p525
+aVE'Twaun Moore BOS 01/26/2012 BOS @ ORL W 18 16 5 6 83.3 4 4 100.0 2 2 100.0 1 2 3 0 0 1 0 2 27
+p526
+aVAvery Bradley BOS 01/26/2012 BOS @ ORL W 25 6 3 7 42.9 0 1 0.0 0 0 - 2 2 4 2 0 0 5 2 -13
+p527
+aVMarquis Daniels BOS 01/26/2012 BOS @ ORL W 18 4 2 2 100.0 0 0 - 0 0 - 0 1 1 3 0 1 2 3 13
+p528
+aVGreg Stiemsma BOS 01/26/2012 BOS @ ORL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 2 1 4 -15
+p529
+aVKeyon Dooling BOS 01/26/2012 BOS @ ORL W 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p530
+aVPaul Pierce BOS 01/26/2012 BOS @ ORL W 44 24 7 18 38.9 2 6 33.3 8 11 72.7 0 6 6 10 0 1 5 3 9
+p531
+aVBrandon Bass BOS 01/26/2012 BOS @ ORL W 29 10 4 12 33.3 0 0 - 2 4 50.0 1 4 5 1 2 2 0 4 5
+p532
+aVSasha Pavlovic BOS 01/26/2012 BOS @ ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p533
+aVE'Twaun Moore BOS 01/23/2012 BOS vs. ORL W 19 6 2 7 28.6 0 4 0.0 2 2 100.0 0 0 0 3 1 1 1 1 12
+p534
+aVAvery Bradley BOS 01/23/2012 BOS vs. ORL W 29 6 2 7 28.6 0 1 0.0 2 2 100.0 0 4 4 3 3 1 0 0 21
+p535
+aVKevin Garnett BOS 01/23/2012 BOS vs. ORL W 29 14 5 9 55.6 0 0 - 4 4 100.0 3 7 10 2 5 2 3 2 26
+p536
+aVSasha Pavlovic BOS 01/23/2012 BOS vs. ORL W 34 9 4 9 44.4 1 5 20.0 0 0 - 1 3 4 0 2 2 3 2 20
+p537
+aVJaJuan Johnson BOS 01/23/2012 BOS vs. ORL W 4 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p538
+aVMarquis Daniels BOS 01/23/2012 BOS vs. ORL W 29 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 5 1 1 1 1 19
+p539
+aVPaul Pierce BOS 01/23/2012 BOS vs. ORL W 33 19 6 14 42.9 1 3 33.3 6 6 100.0 0 5 5 7 0 0 3 0 23
+p540
+aVGreg Stiemsma BOS 01/23/2012 BOS vs. ORL W 10 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 0 0 5 1
+p541
+aVJermaine O'Neal BOS 01/23/2012 BOS vs. ORL W 18 0 0 4 0.0 0 0 - 0 0 - 1 8 9 0 0 2 3 6 5
+p542
+aVBrandon Bass BOS 01/23/2012 BOS vs. ORL W 34 19 8 14 57.1 0 0 - 3 3 100.0 2 6 8 1 0 0 1 4 23
+p543
+aVGreg Stiemsma BOS 01/22/2012 BOS @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p544
+aVJermaine O'Neal BOS 01/22/2012 BOS @ WAS W 27 8 3 5 60.0 0 0 - 2 4 50.0 1 2 3 0 1 0 1 3 7
+p545
+aVMarquis Daniels BOS 01/22/2012 BOS @ WAS W 10 4 2 6 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -12
+p546
+aVKevin Garnett BOS 01/22/2012 BOS @ WAS W 32 17 7 10 70.0 0 0 - 3 4 75.0 0 5 5 2 0 1 2 1 -1
+p547
+aVRay Allen BOS 01/22/2012 BOS @ WAS W 11 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 8
+p548
+aVSasha Pavlovic BOS 01/22/2012 BOS @ WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p549
+aVPaul Pierce BOS 01/22/2012 BOS @ WAS W 36 34 10 15 66.7 2 5 40.0 12 15 80.0 1 7 8 10 3 0 5 5 17
+p550
+aVMickael Pietrus BOS 01/22/2012 BOS @ WAS W 35 14 5 8 62.5 2 4 50.0 2 2 100.0 0 1 1 0 2 0 1 3 7
+p551
+aVAvery Bradley BOS 01/22/2012 BOS @ WAS W 41 3 1 8 12.5 0 0 - 1 4 25.0 1 5 6 7 0 0 6 3 11
+p552
+aVBrandon Bass BOS 01/22/2012 BOS @ WAS W 35 13 6 13 46.2 0 0 - 1 1 100.0 3 6 9 0 0 0 2 1 6
+p553
+aVE'Twaun Moore BOS 01/22/2012 BOS @ WAS W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 1 0 2 -8
+p554
+aVJermaine O'Neal BOS 01/20/2012 BOS vs. PHX L 27 4 2 6 33.3 0 0 - 0 0 - 2 3 5 1 0 0 1 4 -4
+p555
+aVRay Allen BOS 01/20/2012 BOS vs. PHX L 38 14 4 8 50.0 2 3 66.7 4 4 100.0 2 4 6 5 2 0 5 3 1
+p556
+aVPaul Pierce BOS 01/20/2012 BOS vs. PHX L 38 12 5 14 35.7 0 2 0.0 2 2 100.0 0 3 3 6 2 2 3 2 -4
+p557
+aVMickael Pietrus BOS 01/20/2012 BOS vs. PHX L 22 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 -11
+p558
+aVAvery Bradley BOS 01/20/2012 BOS vs. PHX L 33 10 5 9 55.6 0 0 - 0 0 - 0 4 4 1 3 0 1 3 2
+p559
+aVBrandon Bass BOS 01/20/2012 BOS vs. PHX L 24 11 5 10 50.0 0 0 - 1 2 50.0 1 5 6 1 0 1 2 1 1
+p560
+aVE'Twaun Moore BOS 01/20/2012 BOS vs. PHX L 12 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 2 0 0 3 1 -8
+p561
+aVKevin Garnett BOS 01/20/2012 BOS vs. PHX L 33 10 5 13 38.5 0 0 - 0 1 0.0 1 4 5 3 0 1 2 3 -9
+p562
+aVGreg Stiemsma BOS 01/20/2012 BOS vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p563
+aVMarquis Daniels BOS 01/20/2012 BOS vs. PHX L 10 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -9
+p564
+aVMarquis Daniels BOS 01/18/2012 BOS vs. TOR W 12 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 3 1 0 1 2 -2
+p565
+aVBrandon Bass BOS 01/18/2012 BOS vs. TOR W 31 13 4 11 36.4 0 0 - 5 6 83.3 2 7 9 0 1 2 3 1 16
+p566
+aVJermaine O'Neal BOS 01/18/2012 BOS vs. TOR W 20 8 4 5 80.0 0 0 - 0 2 0.0 2 5 7 1 0 0 0 2 12
+p567
+aVAvery Bradley BOS 01/18/2012 BOS vs. TOR W 12 8 3 4 75.0 0 0 - 2 3 66.7 1 0 1 1 1 0 1 0 5
+p568
+aVMickael Pietrus BOS 01/18/2012 BOS vs. TOR W 23 12 4 7 57.1 4 7 57.1 0 0 - 0 3 3 0 1 0 0 1 6
+p569
+aVPaul Pierce BOS 01/18/2012 BOS vs. TOR W 23 8 3 10 30.0 0 2 0.0 2 2 100.0 0 4 4 7 0 1 1 2 19
+p570
+aVRay Allen BOS 01/18/2012 BOS vs. TOR W 28 6 2 7 28.6 2 5 40.0 0 0 - 1 2 3 1 1 0 0 2 24
+p571
+aVGreg Stiemsma BOS 01/18/2012 BOS vs. TOR W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 1 2 2 12
+p572
+aVJaJuan Johnson BOS 01/18/2012 BOS vs. TOR W 6 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 1 0 1 2
+p573
+aVE'Twaun Moore BOS 01/18/2012 BOS vs. TOR W 17 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 3 1 0 0 4 -7
+p574
+aVKevin Garnett BOS 01/18/2012 BOS vs. TOR W 25 15 5 7 71.4 0 0 - 5 6 83.3 1 6 7 2 0 0 0 1 4
+p575
+aVRajon Rondo BOS 01/18/2012 BOS vs. TOR W 28 21 7 8 87.5 0 0 - 7 11 63.6 0 3 3 2 0 0 1 2 24
+p576
+aVRay Allen BOS 01/16/2012 BOS vs. OKC L 39 6 2 7 28.6 1 2 50.0 1 1 100.0 0 2 2 2 1 0 3 0 2
+p577
+aVKevin Garnett BOS 01/16/2012 BOS vs. OKC L 31 12 5 19 26.3 0 0 - 2 2 100.0 5 7 12 5 0 1 5 3 -4
+p578
+aVGreg Stiemsma BOS 01/16/2012 BOS vs. OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p579
+aVMickael Pietrus BOS 01/16/2012 BOS vs. OKC L 21 14 5 9 55.6 3 6 50.0 1 2 50.0 0 2 2 0 0 1 0 1 -10
+p580
+aVRajon Rondo BOS 01/16/2012 BOS vs. OKC L 40 12 6 14 42.9 0 1 0.0 0 0 - 4 5 9 9 1 0 4 5 -6
+p581
+aVBrandon Bass BOS 01/16/2012 BOS vs. OKC L 22 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 2 -5
+p582
+aVMarquis Daniels BOS 01/16/2012 BOS vs. OKC L 12 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 0 0 3 1 0
+p583
+aVJermaine O'Neal BOS 01/16/2012 BOS vs. OKC L 26 12 5 11 45.5 0 0 - 2 3 66.7 4 7 11 0 2 1 0 1 -3
+p584
+aVE'Twaun Moore BOS 01/16/2012 BOS vs. OKC L 8 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -3
+p585
+aVPaul Pierce BOS 01/16/2012 BOS vs. OKC L 39 24 8 15 53.3 2 4 50.0 6 6 100.0 1 4 5 1 1 1 3 3 -12
+p586
+aVMickael Pietrus BOS 01/14/2012 BOS @ IND L 19 4 1 6 16.7 1 5 20.0 1 2 50.0 0 0 0 0 1 0 0 4 -2
+p587
+aVGreg Stiemsma BOS 01/14/2012 BOS @ IND L 9 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 2 0 3 -4
+p588
+aVPaul Pierce BOS 01/14/2012 BOS @ IND L 36 21 5 12 41.7 2 4 50.0 9 10 90.0 1 2 3 3 0 1 6 4 -6
+p589
+aVJaJuan Johnson BOS 01/14/2012 BOS @ IND L 3 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p590
+aVJermaine O'Neal BOS 01/14/2012 BOS @ IND L 25 3 0 6 0.0 0 0 - 3 4 75.0 3 9 12 1 0 3 0 3 -10
+p591
+aVKevin Garnett BOS 01/14/2012 BOS @ IND L 29 21 10 19 52.6 0 0 - 1 2 50.0 2 3 5 0 0 0 3 2 -8
+p592
+aVBrandon Bass BOS 01/14/2012 BOS @ IND L 23 10 5 12 41.7 0 0 - 0 0 - 4 4 8 2 0 0 1 2 -8
+p593
+aVAvery Bradley BOS 01/14/2012 BOS @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p594
+aVRajon Rondo BOS 01/14/2012 BOS @ IND L 36 6 3 9 33.3 0 0 - 0 0 - 3 0 3 9 0 0 4 3 -8
+p595
+aVRay Allen BOS 01/14/2012 BOS @ IND L 34 7 3 9 33.3 1 3 33.3 0 0 - 0 6 6 2 1 0 2 2 -19
+p596
+aVE'Twaun Moore BOS 01/14/2012 BOS @ IND L 20 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 3 2 0 1 1 -5
+p597
+aVPaul Pierce BOS 01/13/2012 BOS vs. CHI L 36 13 3 12 25.0 2 3 66.7 5 5 100.0 0 1 1 5 1 0 1 3 -18
+p598
+aVGreg Stiemsma BOS 01/13/2012 BOS vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 4
+p599
+aVMickael Pietrus BOS 01/13/2012 BOS vs. CHI L 17 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p600
+aVMarquis Daniels BOS 01/13/2012 BOS vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p601
+aVRajon Rondo BOS 01/13/2012 BOS vs. CHI L 40 14 5 10 50.0 0 0 - 4 6 66.7 1 6 7 11 4 0 4 4 -10
+p602
+aVE'Twaun Moore BOS 01/13/2012 BOS vs. CHI L 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p603
+aVChris Wilcox BOS 01/13/2012 BOS vs. CHI L 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p604
+aVKevin Garnett BOS 01/13/2012 BOS vs. CHI L 34 8 4 11 36.4 0 0 - 0 0 - 1 6 7 0 0 0 2 3 -15
+p605
+aVAvery Bradley BOS 01/13/2012 BOS vs. CHI L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 1
+p606
+aVBrandon Bass BOS 01/13/2012 BOS vs. CHI L 33 10 5 12 41.7 0 0 - 0 0 - 2 7 9 0 1 1 0 3 -17
+p607
+aVJermaine O'Neal BOS 01/13/2012 BOS vs. CHI L 22 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 0 1 0 2 6
+p608
+aVRay Allen BOS 01/13/2012 BOS vs. CHI L 41 16 6 13 46.2 2 6 33.3 2 2 100.0 0 3 3 3 0 0 1 1 -5
+p609
+aVJaJuan Johnson BOS 01/13/2012 BOS vs. CHI L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p610
+aVMickael Pietrus BOS 01/11/2012 BOS vs. DAL L 18 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 0 2 0 0 4 2
+p611
+aVGreg Stiemsma BOS 01/11/2012 BOS vs. DAL L 3 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 0
+p612
+aVAvery Bradley BOS 01/11/2012 BOS vs. DAL L 11 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 2 0 0 1 1 1
+p613
+aVRay Allen BOS 01/11/2012 BOS vs. DAL L 33 9 3 8 37.5 1 2 50.0 2 2 100.0 0 4 4 2 0 0 1 2 -7
+p614
+aVJermaine O'Neal BOS 01/11/2012 BOS vs. DAL L 22 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 2 2 2 3 -5
+p615
+aVPaul Pierce BOS 01/11/2012 BOS vs. DAL L 30 7 2 5 40.0 1 1 100.0 2 4 50.0 0 5 5 3 0 0 1 0 -7
+p616
+aVChris Wilcox BOS 01/11/2012 BOS vs. DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p617
+aVKeyon Dooling BOS 01/11/2012 BOS vs. DAL L 13 9 4 5 80.0 1 2 50.0 0 0 - 0 0 0 0 1 0 4 2 -2
+p618
+aVBrandon Bass BOS 01/11/2012 BOS vs. DAL L 31 8 3 6 50.0 0 0 - 2 4 50.0 0 4 4 2 1 1 1 3 -6
+p619
+aVRajon Rondo BOS 01/11/2012 BOS vs. DAL L 38 24 8 16 50.0 0 1 0.0 8 12 66.7 0 3 3 7 3 0 4 1 -6
+p620
+aVKevin Garnett BOS 01/11/2012 BOS vs. DAL L 37 16 4 11 36.4 0 0 - 8 8 100.0 1 9 10 3 0 1 1 1 15
+p621
+aVKevin Garnett BOS 01/06/2012 BOS vs. IND L 34 12 4 8 50.0 0 0 - 4 4 100.0 0 6 6 1 0 1 0 2 -15
+p622
+aVBrandon Bass BOS 01/06/2012 BOS vs. IND L 25 5 2 7 28.6 0 0 - 1 2 50.0 1 3 4 0 0 1 0 1 -10
+p623
+aVPaul Pierce BOS 01/06/2012 BOS vs. IND L 37 10 3 17 17.6 1 6 16.7 3 4 75.0 3 4 7 3 1 0 5 1 -8
+p624
+aVChris Wilcox BOS 01/06/2012 BOS vs. IND L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -6
+p625
+aVJaJuan Johnson BOS 01/06/2012 BOS vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p626
+aVJermaine O'Neal BOS 01/06/2012 BOS vs. IND L 26 4 1 3 33.3 0 0 - 2 2 100.0 0 7 7 0 0 5 0 3 4
+p627
+aVKeyon Dooling BOS 01/06/2012 BOS vs. IND L 13 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 1 0 1 1 2 -9
+p628
+aVGreg Stiemsma BOS 01/06/2012 BOS vs. IND L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 3 -1
+p629
+aVMarquis Daniels BOS 01/06/2012 BOS vs. IND L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p630
+aVSasha Pavlovic BOS 01/06/2012 BOS vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p631
+aVRajon Rondo BOS 01/06/2012 BOS vs. IND L 39 11 5 12 41.7 0 0 - 1 4 25.0 1 4 5 9 3 0 2 1 -2
+p632
+aVRay Allen BOS 01/06/2012 BOS vs. IND L 38 23 7 11 63.6 4 5 80.0 5 6 83.3 1 2 3 0 0 0 2 1 -9
+p633
+aVAvery Bradley BOS 01/06/2012 BOS vs. IND L 9 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -10
+p634
+aVGreg Stiemsma BOS 01/04/2012 BOS vs. NJN W 12 1 0 0 - 0 0 - 1 2 50.0 1 4 5 0 0 1 0 3 -1
+p635
+aVChris Wilcox BOS 01/04/2012 BOS vs. NJN W 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 12
+p636
+aVKevin Garnett BOS 01/04/2012 BOS vs. NJN W 26 14 6 7 85.7 0 0 - 2 2 100.0 2 10 12 1 0 0 3 2 15
+p637
+aVRajon Rondo BOS 01/04/2012 BOS vs. NJN W 32 8 4 8 50.0 0 0 - 0 3 0.0 0 0 0 12 3 0 3 1 14
+p638
+aVMarquis Daniels BOS 01/04/2012 BOS vs. NJN W 14 2 0 7 0.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 0 3
+p639
+aVSasha Pavlovic BOS 01/04/2012 BOS vs. NJN W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 0 -1
+p640
+aVPaul Pierce BOS 01/04/2012 BOS vs. NJN W 29 24 8 14 57.1 3 5 60.0 5 7 71.4 1 5 6 5 1 0 1 3 16
+p641
+aVBrandon Bass BOS 01/04/2012 BOS vs. NJN W 26 15 7 10 70.0 0 0 - 1 2 50.0 4 9 13 1 0 0 1 1 20
+p642
+aVJermaine O'Neal BOS 01/04/2012 BOS vs. NJN W 18 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 2 1 4 -5
+p643
+aVKeyon Dooling BOS 01/04/2012 BOS vs. NJN W 31 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 1 0 0 1 2 18
+p644
+aVE'Twaun Moore BOS 01/04/2012 BOS vs. NJN W 6 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p645
+aVAvery Bradley BOS 01/04/2012 BOS vs. NJN W 23 11 4 8 50.0 1 4 25.0 2 3 66.7 0 0 0 2 2 0 2 2 8
+p646
+aVJaJuan Johnson BOS 01/04/2012 BOS vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p647
+aVBrandon Bass BOS 01/02/2012 BOS vs. WAS W 31 14 7 13 53.8 0 0 - 0 0 - 0 6 6 1 0 0 0 5 5
+p648
+aVMarquis Daniels BOS 01/02/2012 BOS vs. WAS W 13 7 2 5 40.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 0 1 -1
+p649
+aVKevin Garnett BOS 01/02/2012 BOS vs. WAS W 34 10 3 8 37.5 0 0 - 4 6 66.7 2 4 6 6 0 1 3 4 16
+p650
+aVChris Wilcox BOS 01/02/2012 BOS vs. WAS W 10 0 0 2 0.0 0 0 - 0 2 0.0 2 2 4 0 0 1 0 2 -8
+p651
+aVAvery Bradley BOS 01/02/2012 BOS vs. WAS W 10 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 2
+p652
+aVGreg Stiemsma BOS 01/02/2012 BOS vs. WAS W 21 13 5 7 71.4 0 0 - 3 4 75.0 3 4 7 2 0 2 1 3 1
+p653
+aVRay Allen BOS 01/02/2012 BOS vs. WAS W 35 27 9 16 56.3 6 7 85.7 3 5 60.0 0 2 2 2 1 0 0 2 12
+p654
+aVPaul Pierce BOS 01/02/2012 BOS vs. WAS W 35 21 8 18 44.4 4 9 44.4 1 1 100.0 1 7 8 4 1 0 3 2 8
+p655
+aVRajon Rondo BOS 01/02/2012 BOS vs. WAS W 38 6 3 8 37.5 0 0 - 0 0 - 3 4 7 13 1 0 7 3 5
+p656
+aVKeyon Dooling BOS 01/02/2012 BOS vs. WAS W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p657
+aVJaJuan Johnson BOS 01/01/2012 BOS @ WAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p658
+aVKeyon Dooling BOS 01/01/2012 BOS @ WAS W 17 6 2 3 66.7 2 2 100.0 0 2 0.0 0 1 1 2 0 0 2 1 -8
+p659
+aVBrandon Bass BOS 01/01/2012 BOS @ WAS W 31 8 4 8 50.0 0 0 - 0 0 - 0 4 4 0 0 1 0 1 14
+p660
+aVRay Allen BOS 01/01/2012 BOS @ WAS W 35 13 5 10 50.0 2 5 40.0 1 2 50.0 1 2 3 1 1 0 2 1 16
+p661
+aVJermaine O'Neal BOS 01/01/2012 BOS @ WAS W 23 8 4 7 57.1 0 0 - 0 0 - 0 3 3 0 0 0 2 3 3
+p662
+aVMarquis Daniels BOS 01/01/2012 BOS @ WAS W 20 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 3 0 0 1 -5
+p663
+aVPaul Pierce BOS 01/01/2012 BOS @ WAS W 28 9 2 8 25.0 1 4 25.0 4 6 66.7 0 6 6 3 1 0 3 2 13
+p664
+aVAvery Bradley BOS 01/01/2012 BOS @ WAS W 10 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 3 -9
+p665
+aVRajon Rondo BOS 01/01/2012 BOS @ WAS W 34 18 7 10 70.0 0 0 - 4 7 57.1 4 7 11 14 1 0 3 2 26
+p666
+aVGreg Stiemsma BOS 01/01/2012 BOS @ WAS W 12 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 3 1 3 -11
+p667
+aVKevin Garnett BOS 01/01/2012 BOS @ WAS W 28 24 9 17 52.9 0 0 - 6 6 100.0 2 7 9 3 1 1 3 2 13
+p668
+aVE'Twaun Moore BOS 01/01/2012 BOS @ WAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p669
+aVPaul Pierce BOS 12/30/2011 BOS vs. DET W 23 12 4 8 50.0 2 3 66.7 2 2 100.0 0 4 4 5 1 0 1 0 14
+p670
+aVBrandon Bass BOS 12/30/2011 BOS vs. DET W 22 17 7 11 63.6 0 0 - 3 3 100.0 1 2 3 0 0 0 0 2 1
+p671
+aVKevin Garnett BOS 12/30/2011 BOS vs. DET W 26 8 4 6 66.7 0 0 - 0 0 - 0 3 3 3 1 1 1 0 11
+p672
+aVAvery Bradley BOS 12/30/2011 BOS vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p673
+aVKeyon Dooling BOS 12/30/2011 BOS vs. DET W 21 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 5 0 0 1 3 0
+p674
+aVRajon Rondo BOS 12/30/2011 BOS vs. DET W 28 9 4 8 50.0 1 2 50.0 0 0 - 1 2 3 5 0 0 2 2 12
+p675
+aVMarquis Daniels BOS 12/30/2011 BOS vs. DET W 22 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 0 2 1 1 4
+p676
+aVJaJuan Johnson BOS 12/30/2011 BOS vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p677
+aVSasha Pavlovic BOS 12/30/2011 BOS vs. DET W 14 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p678
+aVGreg Stiemsma BOS 12/30/2011 BOS vs. DET W 16 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 1 1 1 1 4 -8
+p679
+aVJermaine O'Neal BOS 12/30/2011 BOS vs. DET W 29 19 7 9 77.8 0 0 - 5 5 100.0 1 6 7 1 0 2 1 5 25
+p680
+aVE'Twaun Moore BOS 12/30/2011 BOS vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p681
+aVRay Allen BOS 12/30/2011 BOS vs. DET W 29 17 5 9 55.6 2 5 40.0 5 5 100.0 1 0 1 4 1 0 2 0 23
+p682
+aVMarquis Daniels BOS 12/28/2011 BOS @ NOH L 25 6 3 12 25.0 0 1 0.0 0 2 0.0 2 1 3 1 0 0 1 1 -7
+p683
+aVKeyon Dooling BOS 12/28/2011 BOS @ NOH L 23 10 2 6 33.3 1 4 25.0 5 5 100.0 1 2 3 0 0 0 3 4 -15
+p684
+aVAvery Bradley BOS 12/28/2011 BOS @ NOH L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -8
+p685
+aVRajon Rondo BOS 12/28/2011 BOS @ NOH L 34 13 5 8 62.5 1 1 100.0 2 4 50.0 1 1 2 6 1 0 4 3 -8
+p686
+aVE'Twaun Moore BOS 12/28/2011 BOS @ NOH L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p687
+aVRay Allen BOS 12/28/2011 BOS @ NOH L 30 15 5 10 50.0 4 8 50.0 1 1 100.0 0 2 2 3 1 0 3 3 -4
+p688
+aVBrandon Bass BOS 12/28/2011 BOS @ NOH L 24 11 4 13 30.8 0 0 - 3 4 75.0 1 3 4 0 0 1 0 1 -21
+p689
+aVKevin Garnett BOS 12/28/2011 BOS @ NOH L 27 8 4 10 40.0 0 0 - 0 0 - 2 5 7 4 0 2 0 2 -7
+p690
+aVJaJuan Johnson BOS 12/28/2011 BOS @ NOH L 3 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p691
+aVGreg Stiemsma BOS 12/28/2011 BOS @ NOH L 20 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 6 0 3 -9
+p692
+aVSasha Pavlovic BOS 12/28/2011 BOS @ NOH L 19 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 0 2 2 1 1 -9
+p693
+aVJermaine O'Neal BOS 12/28/2011 BOS @ NOH L 21 2 1 6 16.7 0 0 - 0 0 - 4 2 6 0 0 1 0 4 -2
+p694
+aVAvery Bradley BOS 12/27/2011 BOS @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p695
+aVKeyon Dooling BOS 12/27/2011 BOS @ MIA L 24 18 5 10 50.0 4 6 66.7 4 4 100.0 0 0 0 0 1 0 3 4 12
+p696
+aVMarquis Daniels BOS 12/27/2011 BOS @ MIA L 19 9 4 8 50.0 0 0 - 1 1 100.0 1 2 3 1 2 0 2 5 -10
+p697
+aVRajon Rondo BOS 12/27/2011 BOS @ MIA L 44 22 7 15 46.7 1 3 33.3 7 11 63.6 1 7 8 12 0 0 7 3 -5
+p698
+aVSasha Pavlovic BOS 12/27/2011 BOS @ MIA L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 2 4 -6
+p699
+aVBrandon Bass BOS 12/27/2011 BOS @ MIA L 32 13 5 10 50.0 0 0 - 3 5 60.0 1 4 5 1 0 2 2 3 1
+p700
+aVKevin Garnett BOS 12/27/2011 BOS @ MIA L 33 12 6 12 50.0 0 0 - 0 0 - 0 5 5 2 3 1 3 1 -12
+p701
+aVJermaine O'Neal BOS 12/27/2011 BOS @ MIA L 22 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 4 -5
+p702
+aVChris Wilcox BOS 12/27/2011 BOS @ MIA L 9 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 0 0
+p703
+aVRay Allen BOS 12/27/2011 BOS @ MIA L 40 28 8 12 66.7 6 8 75.0 6 6 100.0 0 3 3 4 2 0 3 2 -12
+p704
+aVBrandon Bass BOS 12/25/2011 BOS @ NYK L 28 20 9 13 69.2 0 0 - 2 2 100.0 5 6 11 0 1 0 1 3 -1
+p705
+aVE'Twaun Moore BOS 12/25/2011 BOS @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p706
+aVKeyon Dooling BOS 12/25/2011 BOS @ NYK L 11 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 3 0 0 2 2 -4
+p707
+aVAvery Bradley BOS 12/25/2011 BOS @ NYK L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p708
+aVJermaine O'Neal BOS 12/25/2011 BOS @ NYK L 17 6 2 5 40.0 0 0 - 2 3 66.7 0 2 2 0 0 2 1 5 5
+p709
+aVChris Wilcox BOS 12/25/2011 BOS @ NYK L 14 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 1 1 1 -4
+p710
+aVKevin Garnett BOS 12/25/2011 BOS @ NYK L 37 15 6 13 46.2 0 0 - 3 6 50.0 1 7 8 3 0 1 3 5 -4
+p711
+aVRay Allen BOS 12/25/2011 BOS @ NYK L 38 20 7 12 58.3 2 3 66.7 4 4 100.0 3 1 4 3 0 0 4 1 6
+p712
+aVSasha Pavlovic BOS 12/25/2011 BOS @ NYK L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 4 -4
+p713
+aVRajon Rondo BOS 12/25/2011 BOS @ NYK L 41 31 11 19 57.9 0 1 0.0 9 12 75.0 1 4 5 13 5 0 5 2 3
+p714
+aVMarquis Daniels BOS 12/25/2011 BOS @ NYK L 30 4 2 8 25.0 0 1 0.0 0 0 - 1 5 6 5 1 1 0 5 -2
+p715
+a.

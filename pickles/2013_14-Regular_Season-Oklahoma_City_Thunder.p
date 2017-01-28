@@ -1,0 +1,1788 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVNick Collison OKC 04/16/2014 OKC vs. DET W 15 4 2 3 66.7 0 0 - 0 0 - 3 0 3 2 0 0 1 3 -10
+p2
+aVThabo Sefolosha OKC 04/16/2014 OKC vs. DET W 26 7 3 7 42.9 0 4 0.0 1 2 50.0 1 3 4 3 2 0 0 0 9
+p3
+aVSteven Adams OKC 04/16/2014 OKC vs. DET W 11 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 0 -7
+p4
+aVKendrick Perkins OKC 04/16/2014 OKC vs. DET W 17 5 1 3 33.3 0 0 - 3 4 75.0 5 2 7 0 0 0 1 5 -2
+p5
+aVSerge Ibaka OKC 04/16/2014 OKC vs. DET W 32 10 5 9 55.6 0 0 - 0 1 0.0 7 8 15 1 0 6 5 5 15
+p6
+aVCaron Butler OKC 04/16/2014 OKC vs. DET W 18 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -8
+p7
+aVReggie Jackson OKC 04/16/2014 OKC vs. DET W 27 15 6 11 54.5 3 7 42.9 0 0 - 1 4 5 2 2 0 0 1 -4
+p8
+aVRussell Westbrook OKC 04/16/2014 OKC vs. DET W 34 22 5 15 33.3 0 3 0.0 12 15 80.0 3 3 6 8 6 0 4 3 7
+p9
+aVKevin Durant OKC 04/16/2014 OKC vs. DET W 45 42 14 30 46.7 1 5 20.0 13 15 86.7 2 2 4 6 0 0 3 3 3
+p10
+aVDerek Fisher OKC 04/16/2014 OKC vs. DET W 16 6 2 6 33.3 1 4 25.0 1 2 50.0 0 1 1 0 0 1 1 1 2
+p11
+aVSteven Adams OKC 04/14/2014 OKC @ NOP L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p12
+aVCaron Butler OKC 04/14/2014 OKC @ NOP L 27 19 6 9 66.7 3 5 60.0 4 4 100.0 0 3 3 1 2 0 2 4 -5
+p13
+aVDerek Fisher OKC 04/14/2014 OKC @ NOP L 29 6 2 8 25.0 2 7 28.6 0 0 - 0 1 1 1 1 0 0 5 -10
+p14
+aVKevin Durant OKC 04/14/2014 OKC @ NOP L 43 25 9 23 39.1 3 9 33.3 4 6 66.7 1 6 7 6 1 1 7 1 -15
+p15
+aVJeremy Lamb OKC 04/14/2014 OKC @ NOP L 12 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 1 4
+p16
+aVSerge Ibaka OKC 04/14/2014 OKC @ NOP L 40 22 7 13 53.8 0 2 0.0 8 10 80.0 6 10 16 5 1 1 0 2 -11
+p17
+aVKendrick Perkins OKC 04/14/2014 OKC @ NOP L 22 4 2 5 40.0 0 0 - 0 0 - 1 5 6 1 0 1 3 2 -7
+p18
+aVThabo Sefolosha OKC 04/14/2014 OKC @ NOP L 24 0 0 5 0.0 0 4 0.0 0 0 - 2 2 4 2 0 0 1 1 -5
+p19
+aVNick Collison OKC 04/14/2014 OKC @ NOP L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 1
+p20
+aVAndre Roberson OKC 04/14/2014 OKC @ NOP L 6 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 1 1 0 0 -4
+p21
+aVReggie Jackson OKC 04/14/2014 OKC @ NOP L 26 4 1 7 14.3 0 2 0.0 2 2 100.0 0 2 2 3 0 0 1 4 -8
+p22
+aVSerge Ibaka OKC 04/13/2014 OKC @ IND L 32 11 4 11 36.4 1 2 50.0 2 2 100.0 3 3 6 1 3 3 1 5 2
+p23
+aVSteven Adams OKC 04/13/2014 OKC @ IND L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 2 0 0 3 -5
+p24
+aVDerek Fisher OKC 04/13/2014 OKC @ IND L 15 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -4
+p25
+aVKendrick Perkins OKC 04/13/2014 OKC @ IND L 23 2 1 3 33.3 0 0 - 0 0 - 1 7 8 1 1 0 1 2 -15
+p26
+aVReggie Jackson OKC 04/13/2014 OKC @ IND L 15 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 3 0 0 2 2 -9
+p27
+aVNick Collison OKC 04/13/2014 OKC @ IND L 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 3 0 1 0 1 -7
+p28
+aVRussell Westbrook OKC 04/13/2014 OKC @ IND L 33 21 7 23 30.4 3 10 30.0 4 5 80.0 4 5 9 7 1 0 4 2 4
+p29
+aVKevin Durant OKC 04/13/2014 OKC @ IND L 42 38 13 27 48.1 2 11 18.2 10 10 100.0 0 4 4 1 1 0 1 1 3
+p30
+aVThabo Sefolosha OKC 04/13/2014 OKC @ IND L 21 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 5 2
+p31
+aVCaron Butler OKC 04/13/2014 OKC @ IND L 30 13 6 10 60.0 1 3 33.3 0 0 - 0 1 1 0 3 0 0 3 4
+p32
+aVSerge Ibaka OKC 04/11/2014 OKC vs. NOP W 30 16 6 8 75.0 0 0 - 4 4 100.0 2 8 10 0 0 8 2 3 19
+p33
+aVKevin Durant OKC 04/11/2014 OKC vs. NOP W 30 27 10 18 55.6 0 2 0.0 7 9 77.8 1 5 6 5 1 2 1 1 17
+p34
+aVThabo Sefolosha OKC 04/11/2014 OKC vs. NOP W 21 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 2 0 0 2 4 18
+p35
+aVNick Collison OKC 04/11/2014 OKC vs. NOP W 16 6 2 4 50.0 0 0 - 2 3 66.7 2 2 4 0 1 0 3 0 19
+p36
+aVJeremy Lamb OKC 04/11/2014 OKC vs. NOP W 9 9 3 6 50.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 2 -8
+p37
+aVRussell Westbrook OKC 04/11/2014 OKC vs. NOP W 28 24 10 17 58.8 0 2 0.0 4 4 100.0 2 3 5 7 0 1 1 2 14
+p38
+aVKendrick Perkins OKC 04/11/2014 OKC vs. NOP W 18 2 1 3 33.3 0 0 - 0 0 - 0 5 5 1 1 0 0 2 9
+p39
+aVHasheem Thabeet OKC 04/11/2014 OKC vs. NOP W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p40
+aVSteven Adams OKC 04/11/2014 OKC vs. NOP W 10 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 -3
+p41
+aVDerek Fisher OKC 04/11/2014 OKC vs. NOP W 17 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 2 2 0 0 1 11
+p42
+aVReggie Jackson OKC 04/11/2014 OKC vs. NOP W 24 11 3 8 37.5 1 2 50.0 4 4 100.0 0 4 4 8 1 1 1 3 13
+p43
+aVPerry Jones III OKC 04/11/2014 OKC vs. NOP W 15 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 0 0 -4
+p44
+aVCaron Butler OKC 04/11/2014 OKC vs. NOP W 20 5 2 5 40.0 1 2 50.0 0 0 - 0 4 4 2 2 0 0 1 14
+p45
+aVSerge Ibaka OKC 04/09/2014 OKC @ LAC W 30 15 5 12 41.7 1 1 100.0 4 4 100.0 1 6 7 1 0 4 1 4 10
+p46
+aVKevin Durant OKC 04/09/2014 OKC @ LAC W 41 27 8 26 30.8 1 7 14.3 10 11 90.9 1 2 3 4 2 0 2 3 5
+p47
+aVNick Collison OKC 04/09/2014 OKC @ LAC W 12 2 1 1 100.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 7
+p48
+aVSteven Adams OKC 04/09/2014 OKC @ LAC W 20 7 2 2 100.0 0 0 - 3 5 60.0 2 5 7 0 1 1 0 3 5
+p49
+aVKendrick Perkins OKC 04/09/2014 OKC @ LAC W 22 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 0 1 0 2 7
+p50
+aVCaron Butler OKC 04/09/2014 OKC @ LAC W 20 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 1 0 1 1 3 -19
+p51
+aVRussell Westbrook OKC 04/09/2014 OKC @ LAC W 33 30 12 24 50.0 0 3 0.0 6 8 75.0 3 8 11 6 2 0 1 2 15
+p52
+aVThabo Sefolosha OKC 04/09/2014 OKC @ LAC W 24 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 2 0 0 4 13
+p53
+aVDerek Fisher OKC 04/09/2014 OKC @ LAC W 15 4 1 6 16.7 0 2 0.0 2 2 100.0 0 1 1 1 1 0 1 1 -8
+p54
+aVReggie Jackson OKC 04/09/2014 OKC @ LAC W 24 9 3 8 37.5 2 5 40.0 1 2 50.0 0 3 3 2 0 1 1 0 -5
+p55
+aVKevin Durant OKC 04/08/2014 OKC @ SAC W 31 23 8 13 61.5 2 4 50.0 5 5 100.0 0 4 4 4 0 0 3 1 11
+p56
+aVReggie Jackson OKC 04/08/2014 OKC @ SAC W 25 13 5 11 45.5 2 3 66.7 1 2 50.0 1 3 4 5 1 0 0 0 8
+p57
+aVDerek Fisher OKC 04/08/2014 OKC @ SAC W 24 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 5 1 0 0 3 23
+p58
+aVThabo Sefolosha OKC 04/08/2014 OKC @ SAC W 15 2 0 2 0.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 1 1 -4
+p59
+aVPerry Jones III OKC 04/08/2014 OKC @ SAC W 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p60
+aVJeremy Lamb OKC 04/08/2014 OKC @ SAC W 17 10 4 9 44.4 2 4 50.0 0 0 - 0 0 0 1 1 1 1 1 4
+p61
+aVCaron Butler OKC 04/08/2014 OKC @ SAC W 26 23 8 10 80.0 6 6 100.0 1 2 50.0 0 5 5 2 1 0 0 2 28
+p62
+aVSerge Ibaka OKC 04/08/2014 OKC @ SAC W 28 19 8 16 50.0 0 1 0.0 3 4 75.0 0 4 4 1 0 0 0 3 9
+p63
+aVHasheem Thabeet OKC 04/08/2014 OKC @ SAC W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p64
+aVNick Collison OKC 04/08/2014 OKC @ SAC W 18 7 3 6 50.0 0 1 0.0 1 2 50.0 1 6 7 3 0 0 1 4 10
+p65
+aVSteven Adams OKC 04/08/2014 OKC @ SAC W 27 5 0 1 0.0 0 0 - 5 8 62.5 3 2 5 0 1 3 0 3 11
+p66
+aVAndre Roberson OKC 04/08/2014 OKC @ SAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p67
+aVKendrick Perkins OKC 04/08/2014 OKC @ SAC W 14 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 3 -2
+p68
+aVReggie Jackson OKC 04/06/2014 OKC @ PHX L 33 11 3 8 37.5 1 3 33.3 4 4 100.0 1 6 7 2 1 0 1 3 -3
+p69
+aVJeremy Lamb OKC 04/06/2014 OKC @ PHX L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 5 -4
+p70
+aVSerge Ibaka OKC 04/06/2014 OKC @ PHX L 35 11 3 5 60.0 0 0 - 5 6 83.3 1 5 6 1 1 0 1 5 -4
+p71
+aVDerek Fisher OKC 04/06/2014 OKC @ PHX L 27 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 3 0 0 1 4 -11
+p72
+aVAndre Roberson OKC 04/06/2014 OKC @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 5
+p73
+aVRussell Westbrook OKC 04/06/2014 OKC @ PHX L 33 33 12 26 46.2 2 9 22.2 7 8 87.5 1 3 4 8 0 2 5 6 -9
+p74
+aVKevin Durant OKC 04/06/2014 OKC @ PHX L 43 38 13 28 46.4 4 15 26.7 8 10 80.0 2 9 11 3 2 0 3 0 -4
+p75
+aVKendrick Perkins OKC 04/06/2014 OKC @ PHX L 13 4 2 3 66.7 0 0 - 0 2 0.0 1 2 3 0 0 0 0 2 -3
+p76
+aVCaron Butler OKC 04/06/2014 OKC @ PHX L 26 5 1 6 16.7 1 3 33.3 2 2 100.0 0 1 1 0 0 1 0 3 2
+p77
+aVNick Collison OKC 04/06/2014 OKC @ PHX L 15 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 1 1 1 -4
+p78
+aVKevin Durant OKC 04/04/2014 OKC @ HOU L 44 28 7 19 36.8 3 7 42.9 11 12 91.7 1 11 12 6 0 0 6 1 -1
+p79
+aVCaron Butler OKC 04/04/2014 OKC @ HOU L 35 13 4 10 40.0 3 5 60.0 2 2 100.0 0 4 4 2 0 0 0 4 -9
+p80
+aVSteven Adams OKC 04/04/2014 OKC @ HOU L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 0 5
+p81
+aVReggie Jackson OKC 04/04/2014 OKC @ HOU L 36 17 7 14 50.0 1 5 20.0 2 2 100.0 1 6 7 7 1 0 2 2 -7
+p82
+aVAndre Roberson OKC 04/04/2014 OKC @ HOU L 14 0 0 3 0.0 0 2 0.0 0 0 - 1 3 4 1 1 1 1 2 4
+p83
+aVDerek Fisher OKC 04/04/2014 OKC @ HOU L 25 3 1 6 16.7 1 3 33.3 0 0 - 0 2 2 2 1 0 0 4 -9
+p84
+aVNick Collison OKC 04/04/2014 OKC @ HOU L 15 5 2 5 40.0 1 1 100.0 0 0 - 2 2 4 0 0 0 2 2 -7
+p85
+aVJeremy Lamb OKC 04/04/2014 OKC @ HOU L 22 12 5 8 62.5 2 4 50.0 0 0 - 0 1 1 1 0 0 1 3 4
+p86
+aVSerge Ibaka OKC 04/04/2014 OKC @ HOU L 36 27 11 17 64.7 2 4 50.0 3 4 75.0 4 5 9 4 2 6 0 5 6
+p87
+aVHasheem Thabeet OKC 04/04/2014 OKC @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -6
+p88
+aVSerge Ibaka OKC 04/03/2014 OKC vs. SAS W 40 11 5 11 45.5 0 0 - 1 2 50.0 2 10 12 0 1 3 2 0 4
+p89
+aVKevin Durant OKC 04/03/2014 OKC vs. SAS W 39 28 11 26 42.3 0 4 0.0 6 6 100.0 0 7 7 3 0 1 4 1 13
+p90
+aVPerry Jones III OKC 04/03/2014 OKC vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p91
+aVRussell Westbrook OKC 04/03/2014 OKC vs. SAS W 31 27 10 20 50.0 1 4 25.0 6 6 100.0 0 1 1 6 4 0 2 1 2
+p92
+aVKendrick Perkins OKC 04/03/2014 OKC vs. SAS W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 1 3 2
+p93
+aVSteven Adams OKC 04/03/2014 OKC vs. SAS W 12 5 2 4 50.0 0 0 - 1 2 50.0 3 2 5 0 1 0 1 3 6
+p94
+aVCaron Butler OKC 04/03/2014 OKC vs. SAS W 30 4 1 5 20.0 1 4 25.0 1 2 50.0 0 2 2 2 5 0 0 1 10
+p95
+aVAndre Roberson OKC 04/03/2014 OKC vs. SAS W 15 5 2 2 100.0 1 1 100.0 0 0 - 2 3 5 0 0 0 1 2 1
+p96
+aVNick Collison OKC 04/03/2014 OKC vs. SAS W 13 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 2 1 0 1 2 8
+p97
+aVDerek Fisher OKC 04/03/2014 OKC vs. SAS W 15 6 1 3 33.3 1 3 33.3 3 3 100.0 0 1 1 0 1 0 0 3 1
+p98
+aVReggie Jackson OKC 04/03/2014 OKC vs. SAS W 30 14 6 8 75.0 2 2 100.0 0 0 - 1 3 4 4 1 0 1 0 13
+p99
+aVJeremy Lamb OKC 04/03/2014 OKC vs. SAS W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p100
+aVAndre Roberson OKC 03/30/2014 OKC vs. UTA W 18 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 15
+p101
+aVDerek Fisher OKC 03/30/2014 OKC vs. UTA W 18 4 1 4 25.0 1 2 50.0 1 2 50.0 0 3 3 5 1 0 2 2 3
+p102
+aVPerry Jones III OKC 03/30/2014 OKC vs. UTA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p103
+aVKevin Durant OKC 03/30/2014 OKC vs. UTA W 29 31 9 13 69.2 4 6 66.7 9 9 100.0 0 4 4 9 1 0 2 4 10
+p104
+aVHasheem Thabeet OKC 03/30/2014 OKC vs. UTA W 19 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 2 1 5 9
+p105
+aVNick Collison OKC 03/30/2014 OKC vs. UTA W 24 8 4 5 80.0 0 0 - 0 0 - 2 5 7 1 0 1 2 5 0
+p106
+aVCaron Butler OKC 03/30/2014 OKC vs. UTA W 26 15 5 8 62.5 5 5 100.0 0 0 - 0 2 2 1 0 0 0 2 1
+p107
+aVSerge Ibaka OKC 03/30/2014 OKC vs. UTA W 31 17 7 13 53.8 0 0 - 3 4 75.0 1 5 6 2 0 4 0 2 15
+p108
+aVRussell Westbrook OKC 03/30/2014 OKC vs. UTA W 25 19 5 11 45.5 0 2 0.0 9 9 100.0 0 5 5 4 1 0 2 3 19
+p109
+aVSteven Adams OKC 03/30/2014 OKC vs. UTA W 18 8 4 6 66.7 0 0 - 0 0 - 3 5 8 0 2 0 1 3 15
+p110
+aVReggie Williams OKC 03/30/2014 OKC vs. UTA W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -2
+p111
+aVJeremy Lamb OKC 03/30/2014 OKC vs. UTA W 22 8 3 8 37.5 1 2 50.0 1 2 50.0 0 3 3 4 0 0 1 0 14
+p112
+aVSerge Ibaka OKC 03/28/2014 OKC vs. SAC W 30 8 2 6 33.3 0 0 - 4 4 100.0 0 8 8 1 1 4 3 2 16
+p113
+aVSteven Adams OKC 03/28/2014 OKC vs. SAC W 15 5 1 2 50.0 0 0 - 3 6 50.0 0 2 2 1 0 0 2 4 -3
+p114
+aVKevin Durant OKC 03/28/2014 OKC vs. SAC W 29 29 9 11 81.8 3 4 75.0 8 8 100.0 0 1 1 6 2 2 2 0 27
+p115
+aVJeremy Lamb OKC 03/28/2014 OKC vs. SAC W 33 13 5 11 45.5 3 6 50.0 0 3 0.0 0 5 5 5 2 0 2 3 -4
+p116
+aVRussell Westbrook OKC 03/28/2014 OKC vs. SAC W 24 18 7 12 58.3 0 2 0.0 4 4 100.0 0 5 5 6 0 0 4 2 14
+p117
+aVNick Collison OKC 03/28/2014 OKC vs. SAC W 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 2 1 0 2 16
+p118
+aVReggie Williams OKC 03/28/2014 OKC vs. SAC W 7 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -7
+p119
+aVCaron Butler OKC 03/28/2014 OKC vs. SAC W 26 6 2 10 20.0 2 6 33.3 0 0 - 0 3 3 3 0 0 1 1 -2
+p120
+aVHasheem Thabeet OKC 03/28/2014 OKC vs. SAC W 20 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 1 0 0 4 12
+p121
+aVPerry Jones III OKC 03/28/2014 OKC vs. SAC W 8 0 0 3 0.0 0 1 0.0 0 0 - 2 2 4 1 0 0 0 0 -15
+p122
+aVDerek Fisher OKC 03/28/2014 OKC vs. SAC W 18 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 2 4
+p123
+aVAndre Roberson OKC 03/28/2014 OKC vs. SAC W 15 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 7
+p124
+aVAndre Roberson OKC 03/25/2014 OKC @ DAL L 13 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 3 -12
+p125
+aVDerek Fisher OKC 03/25/2014 OKC @ DAL L 27 13 5 9 55.6 3 6 50.0 0 0 - 0 0 0 0 0 0 1 3 13
+p126
+aVReggie Jackson OKC 03/25/2014 OKC @ DAL L 41 11 5 11 45.5 0 4 0.0 1 1 100.0 0 5 5 8 1 0 2 5 -9
+p127
+aVKevin Durant OKC 03/25/2014 OKC @ DAL L 51 43 15 27 55.6 5 11 45.5 8 8 100.0 1 4 5 6 1 0 5 3 -13
+p128
+aVRussell Westbrook OKC 03/25/2014 OKC @ DAL L 33 23 8 18 44.4 2 6 33.3 5 6 83.3 1 6 7 8 3 0 8 5 -16
+p129
+aVSerge Ibaka OKC 03/25/2014 OKC @ DAL L 33 10 5 9 55.6 0 0 - 0 2 0.0 2 3 5 1 0 1 1 5 -10
+p130
+aVSteven Adams OKC 03/25/2014 OKC @ DAL L 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 2 1 -3
+p131
+aVCaron Butler OKC 03/25/2014 OKC @ DAL L 34 10 4 10 40.0 2 6 33.3 0 0 - 0 4 4 1 2 1 0 2 0
+p132
+aVNick Collison OKC 03/25/2014 OKC @ DAL L 22 7 3 7 42.9 0 0 - 1 2 50.0 4 3 7 1 1 0 2 3 5
+p133
+aVPerry Jones III OKC 03/24/2014 OKC vs. DEN W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 -8
+p134
+aVMustafa Shakur OKC 03/24/2014 OKC vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 1
+p135
+aVAndre Roberson OKC 03/24/2014 OKC vs. DEN W 18 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 1 2 1 6 9
+p136
+aVReggie Jackson OKC 03/24/2014 OKC vs. DEN W 33 16 4 6 66.7 3 3 100.0 5 6 83.3 0 3 3 11 3 1 4 2 29
+p137
+aVDerek Fisher OKC 03/24/2014 OKC vs. DEN W 21 7 2 4 50.0 1 1 100.0 2 2 100.0 0 2 2 3 1 0 1 5 7
+p138
+aVSteven Adams OKC 03/24/2014 OKC vs. DEN W 23 10 4 6 66.7 0 0 - 2 4 50.0 2 4 6 1 6 0 1 4 2
+p139
+aVKevin Durant OKC 03/24/2014 OKC vs. DEN W 31 27 10 21 47.6 1 7 14.3 6 7 85.7 0 4 4 8 2 0 5 0 20
+p140
+aVJeremy Lamb OKC 03/24/2014 OKC vs. DEN W 20 2 1 8 12.5 0 1 0.0 0 0 - 0 3 3 2 0 0 0 3 -5
+p141
+aVSerge Ibaka OKC 03/24/2014 OKC vs. DEN W 33 15 7 15 46.7 1 1 100.0 0 0 - 1 6 7 1 0 3 0 3 23
+p142
+aVCaron Butler OKC 03/24/2014 OKC vs. DEN W 29 23 10 19 52.6 3 7 42.9 0 0 - 0 4 4 0 0 0 0 4 21
+p143
+aVNick Collison OKC 03/24/2014 OKC vs. DEN W 22 10 4 5 80.0 1 1 100.0 1 2 50.0 3 3 6 1 0 0 1 5 6
+p144
+aVNick Collison OKC 03/21/2014 OKC @ TOR W 19 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 3 8
+p145
+aVCaron Butler OKC 03/21/2014 OKC @ TOR W 36 4 1 9 11.1 1 4 25.0 1 2 50.0 1 1 2 2 5 1 0 6 1
+p146
+aVReggie Jackson OKC 03/21/2014 OKC @ TOR W 42 25 7 15 46.7 1 4 25.0 10 10 100.0 1 11 12 3 0 1 3 4 -2
+p147
+aVSerge Ibaka OKC 03/21/2014 OKC @ TOR W 44 13 6 15 40.0 0 3 0.0 1 1 100.0 3 2 5 0 0 0 1 5 -4
+p148
+aVSteven Adams OKC 03/21/2014 OKC @ TOR W 18 0 0 2 0.0 0 0 - 0 0 - 2 5 7 2 0 1 0 0 2
+p149
+aVRussell Westbrook OKC 03/21/2014 OKC @ TOR W 19 15 5 13 38.5 1 4 25.0 4 4 100.0 1 2 3 1 1 0 3 0 2
+p150
+aVHasheem Thabeet OKC 03/21/2014 OKC @ TOR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p151
+aVJeremy Lamb OKC 03/21/2014 OKC @ TOR W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -3
+p152
+aVDerek Fisher OKC 03/21/2014 OKC @ TOR W 35 8 3 9 33.3 2 8 25.0 0 0 - 0 2 2 0 1 0 1 3 -6
+p153
+aVAndre Roberson OKC 03/21/2014 OKC @ TOR W 14 0 0 0 - 0 0 - 0 0 - 0 4 4 1 1 0 0 6 1
+p154
+aVKevin Durant OKC 03/21/2014 OKC @ TOR W 52 51 15 32 46.9 7 12 58.3 14 19 73.7 1 11 12 7 1 1 5 3 4
+p155
+aVCaron Butler OKC 03/20/2014 OKC @ CLE W 26 8 3 10 30.0 2 6 33.3 0 0 - 1 4 5 2 2 0 0 1 24
+p156
+aVKevin Durant OKC 03/20/2014 OKC @ CLE W 36 35 12 21 57.1 3 8 37.5 8 9 88.9 2 9 11 6 0 1 1 2 12
+p157
+aVJeremy Lamb OKC 03/20/2014 OKC @ CLE W 26 10 4 10 40.0 1 3 33.3 1 1 100.0 1 2 3 2 0 2 2 2 5
+p158
+aVDerek Fisher OKC 03/20/2014 OKC @ CLE W 24 12 4 7 57.1 3 6 50.0 1 4 25.0 0 3 3 1 4 0 1 3 4
+p159
+aVPerry Jones III OKC 03/20/2014 OKC @ CLE W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p160
+aVAndre Roberson OKC 03/20/2014 OKC @ CLE W 17 4 2 8 25.0 0 2 0.0 0 0 - 3 1 4 0 0 0 1 3 -11
+p161
+aVHasheem Thabeet OKC 03/20/2014 OKC @ CLE W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 0
+p162
+aVNick Collison OKC 03/20/2014 OKC @ CLE W 21 0 0 1 0.0 0 0 - 0 0 - 2 3 5 3 1 0 0 2 12
+p163
+aVReggie Jackson OKC 03/20/2014 OKC @ CLE W 27 13 5 13 38.5 1 5 20.0 2 2 100.0 2 2 4 6 1 0 3 0 6
+p164
+aVSteven Adams OKC 03/20/2014 OKC @ CLE W 18 4 2 3 66.7 0 0 - 0 0 - 3 3 6 0 0 1 2 2 -13
+p165
+aVSerge Ibaka OKC 03/20/2014 OKC @ CLE W 34 16 6 13 46.2 0 0 - 4 4 100.0 4 7 11 1 0 3 3 3 16
+p166
+aVMustafa Shakur OKC 03/20/2014 OKC @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p167
+aVKevin Durant OKC 03/17/2014 OKC @ CHI W 42 35 11 21 52.4 3 4 75.0 10 12 83.3 1 11 12 5 0 0 0 2 22
+p168
+aVDerek Fisher OKC 03/17/2014 OKC @ CHI W 14 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 0 0 1 1 2 -1
+p169
+aVSerge Ibaka OKC 03/17/2014 OKC @ CHI W 34 15 6 11 54.5 1 1 100.0 2 4 50.0 0 4 4 2 0 2 1 2 23
+p170
+aVRussell Westbrook OKC 03/17/2014 OKC @ CHI W 28 17 5 14 35.7 3 7 42.9 4 6 66.7 0 9 9 9 0 0 2 4 22
+p171
+aVAndre Roberson OKC 03/17/2014 OKC @ CHI W 14 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 2 3 -1
+p172
+aVSteven Adams OKC 03/17/2014 OKC @ CHI W 21 0 0 0 - 0 0 - 0 0 - 1 5 6 0 0 2 1 3 -2
+p173
+aVReggie Jackson OKC 03/17/2014 OKC @ CHI W 32 11 3 9 33.3 2 2 100.0 3 3 100.0 0 5 5 3 1 1 1 3 6
+p174
+aVNick Collison OKC 03/17/2014 OKC @ CHI W 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 2 0 1 4 -7
+p175
+aVCaron Butler OKC 03/17/2014 OKC @ CHI W 29 12 3 8 37.5 3 6 50.0 3 3 100.0 2 3 5 0 0 0 1 2 5
+p176
+aVJeremy Lamb OKC 03/17/2014 OKC @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p177
+aVHasheem Thabeet OKC 03/17/2014 OKC @ CHI W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p178
+aVHasheem Thabeet OKC 03/16/2014 OKC vs. DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p179
+aVKevin Durant OKC 03/16/2014 OKC vs. DAL L 34 30 8 20 40.0 4 8 50.0 10 11 90.9 1 3 4 4 0 1 4 0 -16
+p180
+aVSteven Adams OKC 03/16/2014 OKC vs. DAL L 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -10
+p181
+aVSerge Ibaka OKC 03/16/2014 OKC vs. DAL L 32 19 8 19 42.1 0 0 - 3 4 75.0 3 3 6 2 0 2 0 1 -9
+p182
+aVDerek Fisher OKC 03/16/2014 OKC vs. DAL L 24 3 1 5 20.0 0 3 0.0 1 2 50.0 0 1 1 3 1 0 0 1 -22
+p183
+aVNick Collison OKC 03/16/2014 OKC vs. DAL L 19 1 0 1 0.0 0 0 - 1 2 50.0 3 4 7 1 0 0 2 3 -9
+p184
+aVReggie Jackson OKC 03/16/2014 OKC vs. DAL L 31 13 4 8 50.0 2 4 50.0 3 4 75.0 1 3 4 3 0 0 3 2 -11
+p185
+aVAndre Roberson OKC 03/16/2014 OKC vs. DAL L 24 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 0 2 0 1 5 -6
+p186
+aVMustafa Shakur OKC 03/16/2014 OKC vs. DAL L 6 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 2 0
+p187
+aVPerry Jones III OKC 03/16/2014 OKC vs. DAL L 19 6 2 5 40.0 2 5 40.0 0 2 0.0 0 0 0 1 0 0 2 3 -8
+p188
+aVJeremy Lamb OKC 03/16/2014 OKC vs. DAL L 11 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 0 2 0 0 0 -8
+p189
+aVCaron Butler OKC 03/16/2014 OKC vs. DAL L 22 7 3 10 30.0 1 5 20.0 0 0 - 0 2 2 1 0 1 0 1 -16
+p190
+aVRussell Westbrook OKC 03/13/2014 OKC vs. LAL W 23 29 9 17 52.9 4 7 57.1 7 9 77.8 1 1 2 9 3 1 3 2 17
+p191
+aVDerek Fisher OKC 03/13/2014 OKC vs. LAL W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 2 0 1 3 9
+p192
+aVSerge Ibaka OKC 03/13/2014 OKC vs. LAL W 29 15 6 9 66.7 1 1 100.0 2 2 100.0 5 8 13 0 2 7 1 2 21
+p193
+aVReggie Jackson OKC 03/13/2014 OKC vs. LAL W 22 8 3 8 37.5 0 0 - 2 2 100.0 0 8 8 6 0 0 0 1 1
+p194
+aVPerry Jones III OKC 03/13/2014 OKC vs. LAL W 23 7 2 5 40.0 1 2 50.0 2 2 100.0 2 3 5 0 0 0 2 1 22
+p195
+aVNick Collison OKC 03/13/2014 OKC vs. LAL W 12 6 2 2 100.0 0 0 - 2 2 100.0 2 4 6 0 1 0 1 3 0
+p196
+aVJeremy Lamb OKC 03/13/2014 OKC vs. LAL W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 0 0 1 0 8
+p197
+aVSteven Adams OKC 03/13/2014 OKC vs. LAL W 12 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 3 8
+p198
+aVAndre Roberson OKC 03/13/2014 OKC vs. LAL W 24 8 3 6 50.0 0 1 0.0 2 2 100.0 2 5 7 0 1 0 1 4 8
+p199
+aVCaron Butler OKC 03/13/2014 OKC vs. LAL W 29 11 4 10 40.0 3 9 33.3 0 0 - 0 6 6 2 0 0 1 3 19
+p200
+aVKevin Durant OKC 03/13/2014 OKC vs. LAL W 30 29 8 17 47.1 2 5 40.0 11 11 100.0 0 4 4 3 1 3 3 4 20
+p201
+aVReggie Williams OKC 03/13/2014 OKC vs. LAL W 5 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 4
+p202
+aVHasheem Thabeet OKC 03/13/2014 OKC vs. LAL W 7 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 8
+p203
+aVJeremy Lamb OKC 03/11/2014 OKC vs. HOU W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p204
+aVSerge Ibaka OKC 03/11/2014 OKC vs. HOU W 37 12 6 14 42.9 0 1 0.0 0 0 - 7 9 16 1 0 4 3 3 2
+p205
+aVNick Collison OKC 03/11/2014 OKC vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 0
+p206
+aVKevin Durant OKC 03/11/2014 OKC vs. HOU W 42 42 12 22 54.5 5 8 62.5 13 16 81.3 0 5 5 4 0 1 3 3 10
+p207
+aVCaron Butler OKC 03/11/2014 OKC vs. HOU W 29 11 4 10 40.0 3 7 42.9 0 0 - 0 5 5 0 0 0 1 3 5
+p208
+aVDerek Fisher OKC 03/11/2014 OKC vs. HOU W 23 6 1 4 25.0 1 3 33.3 3 4 75.0 0 2 2 5 0 0 0 1 0
+p209
+aVHasheem Thabeet OKC 03/11/2014 OKC vs. HOU W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p210
+aVReggie Jackson OKC 03/11/2014 OKC vs. HOU W 21 9 4 8 50.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 1 9
+p211
+aVPerry Jones III OKC 03/11/2014 OKC vs. HOU W 22 0 0 4 0.0 0 3 0.0 0 0 - 0 6 6 0 0 0 0 2 -2
+p212
+aVSteven Adams OKC 03/11/2014 OKC vs. HOU W 24 2 1 2 50.0 0 0 - 0 0 - 1 7 8 0 0 2 0 4 7
+p213
+aVRussell Westbrook OKC 03/11/2014 OKC vs. HOU W 30 24 6 14 42.9 1 4 25.0 11 14 78.6 0 4 4 7 4 0 5 2 5
+p214
+aVRussell Westbrook OKC 03/09/2014 OKC @ LAL L 31 20 7 23 30.4 2 10 20.0 4 5 80.0 3 4 7 8 3 0 8 4 -7
+p215
+aVPerry Jones III OKC 03/09/2014 OKC @ LAL L 17 7 3 6 50.0 1 3 33.3 0 0 - 1 3 4 0 0 0 0 2 -3
+p216
+aVKevin Durant OKC 03/09/2014 OKC @ LAL L 42 27 8 19 42.1 4 11 36.4 7 11 63.6 1 9 10 12 0 0 5 4 -5
+p217
+aVJeremy Lamb OKC 03/09/2014 OKC @ LAL L 13 3 1 5 20.0 1 2 50.0 0 0 - 1 3 4 0 0 0 1 2 -7
+p218
+aVSteven Adams OKC 03/09/2014 OKC @ LAL L 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 1 5
+p219
+aVCaron Butler OKC 03/09/2014 OKC @ LAL L 24 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 1 1 0 0 1 -15
+p220
+aVSerge Ibaka OKC 03/09/2014 OKC @ LAL L 34 21 9 18 50.0 0 0 - 3 5 60.0 8 7 15 1 2 2 0 4 -9
+p221
+aVHasheem Thabeet OKC 03/09/2014 OKC @ LAL L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -2
+p222
+aVReggie Jackson OKC 03/09/2014 OKC @ LAL L 30 14 6 12 50.0 2 3 66.7 0 0 - 3 6 9 1 2 0 0 2 4
+p223
+aVNick Collison OKC 03/09/2014 OKC @ LAL L 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 1
+p224
+aVDerek Fisher OKC 03/09/2014 OKC @ LAL L 22 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 3 2 0 1 4 18
+p225
+aVRussell Westbrook OKC 03/06/2014 OKC @ PHX L 30 36 13 22 59.1 4 9 44.4 6 6 100.0 2 7 9 9 4 0 3 1 16
+p226
+aVDerek Fisher OKC 03/06/2014 OKC @ PHX L 22 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 0 -3
+p227
+aVJeremy Lamb OKC 03/06/2014 OKC @ PHX L 13 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 3 -2
+p228
+aVCaron Butler OKC 03/06/2014 OKC @ PHX L 29 14 4 11 36.4 4 8 50.0 2 2 100.0 0 1 1 1 0 0 0 4 -23
+p229
+aVSerge Ibaka OKC 03/06/2014 OKC @ PHX L 37 18 7 11 63.6 0 0 - 4 4 100.0 1 4 5 2 1 3 1 4 3
+p230
+aVPerry Jones III OKC 03/06/2014 OKC @ PHX L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 13
+p231
+aVSteven Adams OKC 03/06/2014 OKC @ PHX L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 12
+p232
+aVKevin Durant OKC 03/06/2014 OKC @ PHX L 44 34 12 24 50.0 3 9 33.3 7 7 100.0 0 7 7 5 0 0 4 2 -4
+p233
+aVReggie Jackson OKC 03/06/2014 OKC @ PHX L 18 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 3 0 0 1 2 -22
+p234
+aVAndre Roberson OKC 03/06/2014 OKC @ PHX L 13 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 0 3 -11
+p235
+aVNick Collison OKC 03/06/2014 OKC @ PHX L 11 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 3 -9
+p236
+aVSerge Ibaka OKC 03/04/2014 OKC vs. PHI W 27 14 5 10 50.0 0 0 - 4 4 100.0 1 3 4 1 0 3 2 1 23
+p237
+aVNick Collison OKC 03/04/2014 OKC vs. PHI W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 5 5 4 1 0 0 2 5
+p238
+aVSteven Adams OKC 03/04/2014 OKC vs. PHI W 15 2 1 1 100.0 0 0 - 0 4 0.0 1 2 3 0 0 0 1 2 13
+p239
+aVHasheem Thabeet OKC 03/04/2014 OKC vs. PHI W 18 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 0 2 2 4 12
+p240
+aVPerry Jones III OKC 03/04/2014 OKC vs. PHI W 29 12 4 6 66.7 1 1 100.0 3 3 100.0 2 4 6 3 0 2 0 1 24
+p241
+aVAndre Roberson OKC 03/04/2014 OKC vs. PHI W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 3
+p242
+aVJeremy Lamb OKC 03/04/2014 OKC vs. PHI W 14 7 3 8 37.5 1 3 33.3 0 0 - 1 1 2 0 3 1 0 0 7
+p243
+aVKevin Durant OKC 03/04/2014 OKC vs. PHI W 33 42 14 20 70.0 2 6 33.3 12 18 66.7 0 9 9 3 2 1 3 1 24
+p244
+aVRussell Westbrook OKC 03/04/2014 OKC vs. PHI W 20 13 4 9 44.4 1 3 33.3 4 4 100.0 1 9 10 14 3 0 6 2 25
+p245
+aVReggie Jackson OKC 03/04/2014 OKC vs. PHI W 25 14 5 9 55.6 0 1 0.0 4 4 100.0 1 5 6 2 2 0 4 1 12
+p246
+aVCaron Butler OKC 03/04/2014 OKC vs. PHI W 26 2 1 4 25.0 0 2 0.0 0 0 - 0 5 5 1 1 1 1 4 4
+p247
+aVDerek Fisher OKC 03/04/2014 OKC vs. PHI W 12 8 2 4 50.0 2 4 50.0 2 2 100.0 1 1 2 2 0 0 2 1 13
+p248
+aVDerek Fisher OKC 03/02/2014 OKC vs. CHA W 19 6 2 3 66.7 1 2 50.0 1 2 50.0 0 1 1 2 4 0 0 3 11
+p249
+aVSteven Adams OKC 03/02/2014 OKC vs. CHA W 19 4 2 2 100.0 0 0 - 0 0 - 2 4 6 1 0 1 0 5 -1
+p250
+aVKevin Durant OKC 03/02/2014 OKC vs. CHA W 38 28 8 24 33.3 0 6 0.0 12 12 100.0 1 5 6 5 0 0 1 2 20
+p251
+aVHasheem Thabeet OKC 03/02/2014 OKC vs. CHA W 18 0 0 0 - 0 0 - 0 0 - 1 4 5 0 2 3 1 5 2
+p252
+aVSerge Ibaka OKC 03/02/2014 OKC vs. CHA W 27 15 5 8 62.5 1 1 100.0 4 6 66.7 2 8 10 1 0 2 3 4 18
+p253
+aVAndre Roberson OKC 03/02/2014 OKC vs. CHA W 6 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 1 0 0 0 -3
+p254
+aVPerry Jones III OKC 03/02/2014 OKC vs. CHA W 22 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 3
+p255
+aVNick Collison OKC 03/02/2014 OKC vs. CHA W 13 7 2 3 66.7 0 0 - 3 4 75.0 1 1 2 0 0 0 3 5 7
+p256
+aVRussell Westbrook OKC 03/02/2014 OKC vs. CHA W 25 26 10 12 83.3 4 5 80.0 2 2 100.0 0 2 2 5 2 0 5 2 17
+p257
+aVJeremy Lamb OKC 03/02/2014 OKC vs. CHA W 24 7 2 8 25.0 1 4 25.0 2 2 100.0 1 4 5 0 0 1 0 1 -2
+p258
+aVReggie Jackson OKC 03/02/2014 OKC vs. CHA W 27 17 7 14 50.0 1 2 50.0 2 2 100.0 0 3 3 3 1 0 2 1 13
+p259
+aVThabo Sefolosha OKC 02/28/2014 OKC vs. MEM W 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 3
+p260
+aVKevin Durant OKC 02/28/2014 OKC vs. MEM W 43 37 12 24 50.0 3 8 37.5 10 10 100.0 0 6 6 5 2 1 5 1 8
+p261
+aVPerry Jones III OKC 02/28/2014 OKC vs. MEM W 15 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 1 0 0 0 1
+p262
+aVDerek Fisher OKC 02/28/2014 OKC vs. MEM W 18 8 2 4 50.0 2 3 66.7 2 2 100.0 0 1 1 2 0 0 0 1 -8
+p263
+aVHasheem Thabeet OKC 02/28/2014 OKC vs. MEM W 17 2 1 2 50.0 0 0 - 0 2 0.0 2 2 4 0 1 1 0 3 -4
+p264
+aVRussell Westbrook OKC 02/28/2014 OKC vs. MEM W 29 21 7 12 58.3 1 2 50.0 6 7 85.7 0 2 2 6 3 0 1 1 4
+p265
+aVSerge Ibaka OKC 02/28/2014 OKC vs. MEM W 29 16 7 11 63.6 0 0 - 2 2 100.0 5 4 9 1 0 3 3 4 9
+p266
+aVJeremy Lamb OKC 02/28/2014 OKC vs. MEM W 11 3 1 5 20.0 1 3 33.3 0 0 - 1 0 1 0 0 0 2 1 3
+p267
+aVNick Collison OKC 02/28/2014 OKC vs. MEM W 15 0 0 2 0.0 0 1 0.0 0 0 - 2 3 5 1 0 1 1 3 0
+p268
+aVSteven Adams OKC 02/28/2014 OKC vs. MEM W 25 7 1 3 33.3 0 0 - 5 7 71.4 4 1 5 0 0 2 1 3 15
+p269
+aVReggie Jackson OKC 02/28/2014 OKC vs. MEM W 34 14 5 12 41.7 2 4 50.0 2 2 100.0 0 2 2 3 2 0 1 0 -1
+p270
+aVDerek Fisher OKC 02/26/2014 OKC vs. CLE L 17 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 2 0 2 2 -4
+p271
+aVKevin Durant OKC 02/26/2014 OKC vs. CLE L 41 28 10 16 62.5 4 9 44.4 4 6 66.7 0 10 10 9 1 0 2 3 -6
+p272
+aVReggie Jackson OKC 02/26/2014 OKC vs. CLE L 24 8 3 10 30.0 2 4 50.0 0 0 - 0 1 1 3 0 0 2 2 -7
+p273
+aVNick Collison OKC 02/26/2014 OKC vs. CLE L 17 5 2 3 66.7 0 0 - 1 2 50.0 3 1 4 0 1 1 3 2 -13
+p274
+aVPerry Jones III OKC 02/26/2014 OKC vs. CLE L 7 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 1 -3
+p275
+aVSerge Ibaka OKC 02/26/2014 OKC vs. CLE L 38 16 8 12 66.7 0 0 - 0 0 - 5 8 13 2 0 4 3 3 -1
+p276
+aVRussell Westbrook OKC 02/26/2014 OKC vs. CLE L 30 24 8 17 47.1 3 6 50.0 5 5 100.0 1 2 3 9 0 0 3 1 1
+p277
+aVThabo Sefolosha OKC 02/26/2014 OKC vs. CLE L 30 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 2 1 0 2 1 -15
+p278
+aVSteven Adams OKC 02/26/2014 OKC vs. CLE L 25 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 1 1 1 1
+p279
+aVJeremy Lamb OKC 02/26/2014 OKC vs. CLE L 11 4 1 4 25.0 1 3 33.3 1 2 50.0 0 2 2 0 1 0 1 1 -3
+p280
+aVSteven Adams OKC 02/23/2014 OKC vs. LAC L 16 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 0 0 1 1 3 -16
+p281
+aVPerry Jones III OKC 02/23/2014 OKC vs. LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p282
+aVDerek Fisher OKC 02/23/2014 OKC vs. LAC L 21 15 5 8 62.5 5 7 71.4 0 0 - 0 4 4 0 2 0 0 4 3
+p283
+aVReggie Jackson OKC 02/23/2014 OKC vs. LAC L 34 7 3 12 25.0 1 5 20.0 0 0 - 0 2 2 4 0 0 3 4 3
+p284
+aVKevin Durant OKC 02/23/2014 OKC vs. LAC L 46 42 15 30 50.0 2 6 33.3 10 12 83.3 0 3 3 10 2 0 5 3 1
+p285
+aVRussell Westbrook OKC 02/23/2014 OKC vs. LAC L 25 13 3 13 23.1 2 4 50.0 5 6 83.3 2 3 5 6 1 0 3 5 -14
+p286
+aVNick Collison OKC 02/23/2014 OKC vs. LAC L 20 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 3 0 0 1 3 9
+p287
+aVJeremy Lamb OKC 02/23/2014 OKC vs. LAC L 16 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 0 1 0 1 1 13
+p288
+aVThabo Sefolosha OKC 02/23/2014 OKC vs. LAC L 23 10 4 8 50.0 2 5 40.0 0 0 - 1 2 3 3 3 0 0 2 -14
+p289
+aVSerge Ibaka OKC 02/23/2014 OKC vs. LAC L 39 20 10 16 62.5 0 1 0.0 0 0 - 3 3 6 0 0 2 0 5 -23
+p290
+aVPerry Jones III OKC 02/20/2014 OKC vs. MIA L 21 8 3 5 60.0 1 1 100.0 1 1 100.0 1 4 5 1 0 0 2 3 -6
+p291
+aVReggie Jackson OKC 02/20/2014 OKC vs. MIA L 37 11 4 9 44.4 0 2 0.0 3 3 100.0 0 3 3 5 2 1 3 2 -2
+p292
+aVSteven Adams OKC 02/20/2014 OKC vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p293
+aVNick Collison OKC 02/20/2014 OKC vs. MIA L 11 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -3
+p294
+aVKevin Durant OKC 02/20/2014 OKC vs. MIA L 39 28 10 22 45.5 1 6 16.7 7 10 70.0 1 7 8 3 2 0 5 3 -10
+p295
+aVKendrick Perkins OKC 02/20/2014 OKC vs. MIA L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -12
+p296
+aVJeremy Lamb OKC 02/20/2014 OKC vs. MIA L 21 2 1 9 11.1 0 6 0.0 0 0 - 0 1 1 2 2 0 2 2 -13
+p297
+aVThabo Sefolosha OKC 02/20/2014 OKC vs. MIA L 26 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 0 1 3 -24
+p298
+aVDerek Fisher OKC 02/20/2014 OKC vs. MIA L 15 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 1 0 0 4 -7
+p299
+aVRussell Westbrook OKC 02/20/2014 OKC vs. MIA L 24 14 3 11 27.3 0 2 0.0 8 10 80.0 3 2 5 2 3 0 4 1 -10
+p300
+aVAndre Roberson OKC 02/20/2014 OKC vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p301
+aVSerge Ibaka OKC 02/20/2014 OKC vs. MIA L 35 14 5 11 45.5 0 1 0.0 4 6 66.7 5 3 8 1 0 1 2 4 -15
+p302
+aVThabo Sefolosha OKC 02/13/2014 OKC @ LAL W 29 7 3 4 75.0 1 2 50.0 0 0 - 1 3 4 3 3 0 1 1 -4
+p303
+aVSteven Adams OKC 02/13/2014 OKC @ LAL W 8 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -6
+p304
+aVKendrick Perkins OKC 02/13/2014 OKC @ LAL W 17 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 2 1 4 -9
+p305
+aVDerek Fisher OKC 02/13/2014 OKC @ LAL W 22 12 4 9 44.4 2 7 28.6 2 2 100.0 0 4 4 2 3 0 0 1 19
+p306
+aVJeremy Lamb OKC 02/13/2014 OKC @ LAL W 22 11 3 10 30.0 2 4 50.0 3 4 75.0 0 1 1 3 4 1 0 6 3
+p307
+aVReggie Jackson OKC 02/13/2014 OKC @ LAL W 30 16 7 15 46.7 0 2 0.0 2 2 100.0 1 4 5 3 0 0 3 0 -10
+p308
+aVAndre Roberson OKC 02/13/2014 OKC @ LAL W 13 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 4 13
+p309
+aVKevin Durant OKC 02/13/2014 OKC @ LAL W 42 43 14 33 42.4 3 13 23.1 12 12 100.0 0 12 12 7 3 0 6 2 3
+p310
+aVNick Collison OKC 02/13/2014 OKC @ LAL W 16 0 0 1 0.0 0 0 - 0 0 - 2 2 4 3 1 0 1 2 14
+p311
+aVPerry Jones III OKC 02/13/2014 OKC @ LAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p312
+aVSerge Ibaka OKC 02/13/2014 OKC @ LAL W 36 10 4 9 44.4 0 0 - 2 2 100.0 2 5 7 2 0 5 0 3 0
+p313
+aVPerry Jones III OKC 02/11/2014 OKC @ POR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p314
+aVKendrick Perkins OKC 02/11/2014 OKC @ POR W 27 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 4 -11
+p315
+aVNick Collison OKC 02/11/2014 OKC @ POR W 23 9 4 4 100.0 0 0 - 1 2 50.0 2 2 4 1 0 0 0 3 5
+p316
+aVKevin Durant OKC 02/11/2014 OKC @ POR W 38 36 15 28 53.6 1 3 33.3 5 5 100.0 2 8 10 2 1 0 8 4 2
+p317
+aVDerek Fisher OKC 02/11/2014 OKC @ POR W 15 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 3 3 0 1 1 8
+p318
+aVSteven Adams OKC 02/11/2014 OKC @ POR W 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 4
+p319
+aVSerge Ibaka OKC 02/11/2014 OKC @ POR W 34 7 3 11 27.3 1 2 50.0 0 0 - 4 7 11 0 1 2 2 5 8
+p320
+aVThabo Sefolosha OKC 02/11/2014 OKC @ POR W 23 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -3
+p321
+aVReggie Jackson OKC 02/11/2014 OKC @ POR W 33 17 7 19 36.8 1 4 25.0 2 2 100.0 0 6 6 5 2 0 1 2 -5
+p322
+aVJeremy Lamb OKC 02/11/2014 OKC @ POR W 31 19 8 11 72.7 2 2 100.0 1 1 100.0 1 4 5 2 1 0 2 1 6
+p323
+aVPerry Jones III OKC 02/09/2014 OKC vs. NYK W 17 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p324
+aVKevin Durant OKC 02/09/2014 OKC vs. NYK W 40 41 12 22 54.5 4 7 57.1 13 18 72.2 0 10 10 9 1 2 3 3 10
+p325
+aVDerek Fisher OKC 02/09/2014 OKC vs. NYK W 19 10 3 6 50.0 2 4 50.0 2 3 66.7 0 1 1 2 1 0 0 0 8
+p326
+aVKendrick Perkins OKC 02/09/2014 OKC vs. NYK W 24 5 2 2 100.0 0 0 - 1 2 50.0 0 11 11 1 0 0 1 3 3
+p327
+aVThabo Sefolosha OKC 02/09/2014 OKC vs. NYK W 29 12 4 7 57.1 2 3 66.7 2 2 100.0 2 0 2 2 4 0 1 1 10
+p328
+aVJeremy Lamb OKC 02/09/2014 OKC vs. NYK W 18 5 1 7 14.3 1 5 20.0 2 2 100.0 0 2 2 3 0 1 0 1 1
+p329
+aVReggie Jackson OKC 02/09/2014 OKC vs. NYK W 32 19 8 15 53.3 3 8 37.5 0 0 - 0 0 0 6 0 0 1 1 7
+p330
+aVSteven Adams OKC 02/09/2014 OKC vs. NYK W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p331
+aVNick Collison OKC 02/09/2014 OKC vs. NYK W 21 2 1 2 50.0 0 0 - 0 0 - 1 5 6 2 0 1 2 2 8
+p332
+aVSerge Ibaka OKC 02/09/2014 OKC vs. NYK W 35 16 8 11 72.7 0 0 - 0 0 - 2 7 9 3 0 1 2 5 13
+p333
+aVSteven Adams OKC 02/07/2014 OKC @ ORL L 11 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 3 2 5
+p334
+aVJeremy Lamb OKC 02/07/2014 OKC @ ORL L 26 8 3 6 50.0 2 2 100.0 0 0 - 0 4 4 4 0 1 2 2 1
+p335
+aVNick Collison OKC 02/07/2014 OKC @ ORL L 16 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 2 -5
+p336
+aVKendrick Perkins OKC 02/07/2014 OKC @ ORL L 19 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 1 1 2 3 -4
+p337
+aVThabo Sefolosha OKC 02/07/2014 OKC @ ORL L 29 8 3 7 42.9 2 4 50.0 0 0 - 0 4 4 2 1 0 1 2 -2
+p338
+aVSerge Ibaka OKC 02/07/2014 OKC @ ORL L 40 26 10 13 76.9 1 1 100.0 5 6 83.3 1 5 6 1 0 5 0 2 4
+p339
+aVPerry Jones III OKC 02/07/2014 OKC @ ORL L 11 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 -9
+p340
+aVReggie Jackson OKC 02/07/2014 OKC @ ORL L 33 12 4 14 28.6 0 3 0.0 4 4 100.0 0 2 2 4 3 0 1 2 -8
+p341
+aVDerek Fisher OKC 02/07/2014 OKC @ ORL L 15 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 1 1 0 0 1 7
+p342
+aVKevin Durant OKC 02/07/2014 OKC @ ORL L 40 29 10 22 45.5 2 6 33.3 7 7 100.0 0 5 5 12 0 1 6 3 6
+p343
+aVDerek Fisher OKC 02/05/2014 OKC vs. MIN W 17 13 5 7 71.4 3 5 60.0 0 1 0.0 0 2 2 2 0 0 1 2 -1
+p344
+aVThabo Sefolosha OKC 02/05/2014 OKC vs. MIN W 32 12 3 12 25.0 1 8 12.5 5 6 83.3 2 4 6 2 1 1 0 0 9
+p345
+aVPerry Jones III OKC 02/05/2014 OKC vs. MIN W 22 6 3 7 42.9 0 2 0.0 0 0 - 1 2 3 0 0 1 0 0 6
+p346
+aVKevin Durant OKC 02/05/2014 OKC vs. MIN W 37 26 11 20 55.0 3 5 60.0 1 1 100.0 2 7 9 7 1 0 4 2 11
+p347
+aVSerge Ibaka OKC 02/05/2014 OKC vs. MIN W 32 14 7 12 58.3 0 0 - 0 0 - 5 2 7 1 0 3 4 3 8
+p348
+aVJeremy Lamb OKC 02/05/2014 OKC vs. MIN W 17 7 3 10 30.0 1 4 25.0 0 0 - 1 2 3 1 3 0 1 5 -4
+p349
+aVNick Collison OKC 02/05/2014 OKC vs. MIN W 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 5
+p350
+aVKendrick Perkins OKC 02/05/2014 OKC vs. MIN W 21 6 2 7 28.6 0 0 - 2 3 66.7 5 7 12 2 1 0 2 4 7
+p351
+aVSteven Adams OKC 02/05/2014 OKC vs. MIN W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -9
+p352
+aVReggie Jackson OKC 02/05/2014 OKC vs. MIN W 36 20 9 14 64.3 2 3 66.7 0 0 - 1 2 3 9 2 0 1 4 17
+p353
+aVAndre Roberson OKC 02/05/2014 OKC vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p354
+aVNick Collison OKC 02/03/2014 OKC vs. MEM W 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 2 0 1 0 1 2
+p355
+aVSerge Ibaka OKC 02/03/2014 OKC vs. MEM W 37 21 10 17 58.8 0 1 0.0 1 1 100.0 3 9 12 1 0 1 1 3 7
+p356
+aVThabo Sefolosha OKC 02/03/2014 OKC vs. MEM W 30 7 2 5 40.0 1 3 33.3 2 3 66.7 0 2 2 2 1 0 1 0 14
+p357
+aVDerek Fisher OKC 02/03/2014 OKC vs. MEM W 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 2
+p358
+aVJeremy Lamb OKC 02/03/2014 OKC vs. MEM W 12 4 2 6 33.3 0 1 0.0 0 1 0.0 0 1 1 1 1 0 0 3 -6
+p359
+aVPerry Jones III OKC 02/03/2014 OKC vs. MEM W 13 2 0 4 0.0 0 2 0.0 2 2 100.0 0 1 1 0 1 0 1 0 -2
+p360
+aVAndre Roberson OKC 02/03/2014 OKC vs. MEM W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p361
+aVSteven Adams OKC 02/03/2014 OKC vs. MEM W 23 3 1 2 50.0 0 0 - 1 4 25.0 3 2 5 1 1 4 1 5 0
+p362
+aVReggie Jackson OKC 02/03/2014 OKC vs. MEM W 34 12 6 15 40.0 0 2 0.0 0 0 - 0 2 2 2 1 0 3 1 7
+p363
+aVKendrick Perkins OKC 02/03/2014 OKC vs. MEM W 25 1 0 1 0.0 0 0 - 1 2 50.0 0 8 8 0 1 2 3 4 9
+p364
+aVKevin Durant OKC 02/03/2014 OKC vs. MEM W 40 31 11 21 52.4 2 7 28.6 7 10 70.0 2 6 8 8 1 1 5 2 12
+p365
+aVNick Collison OKC 02/01/2014 OKC @ WAS L 18 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 2 2 -10
+p366
+aVKevin Durant OKC 02/01/2014 OKC @ WAS L 38 26 8 21 38.1 0 6 0.0 10 10 100.0 1 3 4 7 0 0 5 2 -16
+p367
+aVPerry Jones III OKC 02/01/2014 OKC @ WAS L 21 5 1 5 20.0 0 2 0.0 3 4 75.0 0 3 3 1 0 0 0 2 -9
+p368
+aVKendrick Perkins OKC 02/01/2014 OKC @ WAS L 20 0 0 3 0.0 0 0 - 0 0 - 3 3 6 1 0 0 3 2 -7
+p369
+aVThabo Sefolosha OKC 02/01/2014 OKC @ WAS L 28 8 3 5 60.0 2 2 100.0 0 0 - 2 6 8 3 1 0 1 0 1
+p370
+aVSerge Ibaka OKC 02/01/2014 OKC @ WAS L 31 14 6 12 50.0 0 2 0.0 2 2 100.0 1 7 8 1 1 4 0 1 -6
+p371
+aVJeremy Lamb OKC 02/01/2014 OKC @ WAS L 22 6 3 7 42.9 0 3 0.0 0 0 - 0 1 1 1 0 0 0 0 -9
+p372
+aVReggie Jackson OKC 02/01/2014 OKC @ WAS L 35 12 6 17 35.3 0 4 0.0 0 0 - 0 8 8 4 2 0 8 4 2
+p373
+aVDerek Fisher OKC 02/01/2014 OKC @ WAS L 13 6 2 5 40.0 2 5 40.0 0 1 0.0 0 2 2 1 0 0 0 2 -17
+p374
+aVSteven Adams OKC 02/01/2014 OKC @ WAS L 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 1 2 3 -4
+p375
+aVSerge Ibaka OKC 01/31/2014 OKC @ BKN W 31 25 12 12 100.0 0 0 - 1 2 50.0 4 5 9 1 1 1 1 1 21
+p376
+aVJeremy Lamb OKC 01/31/2014 OKC @ BKN W 22 12 5 6 83.3 0 0 - 2 2 100.0 0 1 1 2 0 1 3 0 5
+p377
+aVDerek Fisher OKC 01/31/2014 OKC @ BKN W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 1 6
+p378
+aVKevin Durant OKC 01/31/2014 OKC @ BKN W 30 26 10 12 83.3 3 3 100.0 3 3 100.0 1 2 3 7 1 0 3 3 25
+p379
+aVKendrick Perkins OKC 01/31/2014 OKC @ BKN W 23 8 4 9 44.4 0 0 - 0 0 - 1 7 8 1 0 1 2 2 14
+p380
+aVPerry Jones III OKC 01/31/2014 OKC @ BKN W 22 11 3 5 60.0 1 1 100.0 4 4 100.0 0 5 5 2 0 2 2 1 12
+p381
+aVNick Collison OKC 01/31/2014 OKC @ BKN W 16 4 1 3 33.3 0 0 - 2 2 100.0 3 3 6 2 1 0 0 2 9
+p382
+aVHasheem Thabeet OKC 01/31/2014 OKC @ BKN W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p383
+aVReggie Jackson OKC 01/31/2014 OKC @ BKN W 35 14 6 15 40.0 0 5 0.0 2 3 66.7 1 2 3 7 1 1 2 3 21
+p384
+aVSteven Adams OKC 01/31/2014 OKC @ BKN W 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 1 1 2 -5
+p385
+aVThabo Sefolosha OKC 01/31/2014 OKC @ BKN W 38 14 5 9 55.6 1 4 25.0 3 4 75.0 0 3 3 4 3 0 1 3 19
+p386
+aVReggie Jackson OKC 01/29/2014 OKC @ MIA W 30 9 2 7 28.6 1 3 33.3 4 6 66.7 0 3 3 4 2 0 3 3 -7
+p387
+aVThabo Sefolosha OKC 01/29/2014 OKC @ MIA W 34 9 3 7 42.9 1 3 33.3 2 4 50.0 1 4 5 4 6 0 1 1 12
+p388
+aVNick Collison OKC 01/29/2014 OKC @ MIA W 13 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 2 1 0 0 1 17
+p389
+aVJeremy Lamb OKC 01/29/2014 OKC @ MIA W 35 18 7 10 70.0 4 6 66.7 0 0 - 2 1 3 4 0 0 2 1 21
+p390
+aVSteven Adams OKC 01/29/2014 OKC @ MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p391
+aVSerge Ibaka OKC 01/29/2014 OKC @ MIA W 33 22 10 20 50.0 0 0 - 2 2 100.0 6 2 8 1 1 1 2 1 4
+p392
+aVDerek Fisher OKC 01/29/2014 OKC @ MIA W 18 15 5 7 71.4 5 5 100.0 0 0 - 0 3 3 1 1 0 0 1 24
+p393
+aVKendrick Perkins OKC 01/29/2014 OKC @ MIA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p394
+aVPerry Jones III OKC 01/29/2014 OKC @ MIA W 30 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 2 0 1 0 5 13
+p395
+aVKevin Durant OKC 01/29/2014 OKC @ MIA W 40 33 12 23 52.2 4 9 44.4 5 5 100.0 0 7 7 5 2 0 4 3 18
+p396
+aVSteven Adams OKC 01/27/2014 OKC vs. ATL W 10 2 1 2 50.0 0 0 - 0 2 0.0 3 1 4 0 1 0 0 1 1
+p397
+aVSerge Ibaka OKC 01/27/2014 OKC vs. ATL W 32 9 4 8 50.0 1 1 100.0 0 0 - 1 2 3 0 1 6 3 2 -3
+p398
+aVKevin Durant OKC 01/27/2014 OKC vs. ATL W 43 41 15 25 60.0 5 7 71.4 6 8 75.0 1 3 4 5 2 3 4 0 4
+p399
+aVReggie Jackson OKC 01/27/2014 OKC vs. ATL W 35 18 7 17 41.2 2 5 40.0 2 2 100.0 1 2 3 5 0 0 1 1 3
+p400
+aVDerek Fisher OKC 01/27/2014 OKC vs. ATL W 23 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 2 0 1 1 1 5
+p401
+aVKendrick Perkins OKC 01/27/2014 OKC vs. ATL W 19 6 2 2 100.0 0 0 - 2 4 50.0 1 6 7 1 0 0 2 1 -3
+p402
+aVNick Collison OKC 01/27/2014 OKC vs. ATL W 18 8 4 7 57.1 0 1 0.0 0 0 - 1 1 2 5 0 0 1 1 0
+p403
+aVPerry Jones III OKC 01/27/2014 OKC vs. ATL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -8
+p404
+aVJeremy Lamb OKC 01/27/2014 OKC vs. ATL W 18 14 5 8 62.5 2 4 50.0 2 2 100.0 0 2 2 1 1 0 1 2 4
+p405
+aVThabo Sefolosha OKC 01/27/2014 OKC vs. ATL W 36 5 2 6 33.3 1 3 33.3 0 0 - 2 2 4 3 3 0 0 1 7
+p406
+aVReggie Jackson OKC 01/25/2014 OKC @ PHI W 29 5 1 9 11.1 0 3 0.0 3 3 100.0 0 2 2 5 1 0 4 2 -4
+p407
+aVThabo Sefolosha OKC 01/25/2014 OKC @ PHI W 31 11 3 7 42.9 2 5 40.0 3 4 75.0 0 1 1 0 0 0 2 1 1
+p408
+aVSerge Ibaka OKC 01/25/2014 OKC @ PHI W 33 25 12 16 75.0 0 0 - 1 2 50.0 3 8 11 1 1 5 5 2 2
+p409
+aVSteven Adams OKC 01/25/2014 OKC @ PHI W 8 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 1 1 1 7
+p410
+aVPerry Jones III OKC 01/25/2014 OKC @ PHI W 7 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p411
+aVKendrick Perkins OKC 01/25/2014 OKC @ PHI W 21 3 1 4 25.0 0 0 - 1 2 50.0 2 5 7 1 0 0 3 3 0
+p412
+aVAndre Roberson OKC 01/25/2014 OKC @ PHI W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 1
+p413
+aVNick Collison OKC 01/25/2014 OKC @ PHI W 26 12 5 6 83.3 0 1 0.0 2 3 66.7 1 2 3 1 2 1 0 3 11
+p414
+aVDerek Fisher OKC 01/25/2014 OKC @ PHI W 21 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 3 2 0 2 2 17
+p415
+aVJeremy Lamb OKC 01/25/2014 OKC @ PHI W 20 5 2 9 22.2 1 5 20.0 0 0 - 0 2 2 1 1 0 0 3 10
+p416
+aVKevin Durant OKC 01/25/2014 OKC @ PHI W 44 32 12 17 70.6 1 4 25.0 7 7 100.0 1 13 14 10 2 1 3 4 14
+p417
+aVRoyal Ivey OKC 01/24/2014 OKC @ BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p418
+aVKendrick Perkins OKC 01/24/2014 OKC @ BOS W 22 6 2 5 40.0 0 0 - 2 4 50.0 2 7 9 1 0 0 2 1 9
+p419
+aVAndre Roberson OKC 01/24/2014 OKC @ BOS W 9 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 2 1 0 3 3
+p420
+aVHasheem Thabeet OKC 01/24/2014 OKC @ BOS W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p421
+aVSteven Adams OKC 01/24/2014 OKC @ BOS W 20 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 0 0 1 1 2 -2
+p422
+aVDerek Fisher OKC 01/24/2014 OKC @ BOS W 17 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 2 0 0 3 1 -1
+p423
+aVThabo Sefolosha OKC 01/24/2014 OKC @ BOS W 27 13 6 6 100.0 1 1 100.0 0 0 - 1 1 2 0 0 0 2 2 16
+p424
+aVJeremy Lamb OKC 01/24/2014 OKC @ BOS W 30 19 9 17 52.9 1 4 25.0 0 0 - 1 5 6 4 2 0 2 2 0
+p425
+aVPerry Jones III OKC 01/24/2014 OKC @ BOS W 32 10 4 6 66.7 0 1 0.0 2 2 100.0 0 4 4 2 3 0 0 2 19
+p426
+aVNick Collison OKC 01/24/2014 OKC @ BOS W 23 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 4 0 0 1 1 10
+p427
+aVReggie Jackson OKC 01/24/2014 OKC @ BOS W 29 14 5 14 35.7 1 3 33.3 3 3 100.0 0 4 4 8 1 0 4 0 20
+p428
+aVSerge Ibaka OKC 01/24/2014 OKC @ BOS W 28 21 9 13 69.2 1 1 100.0 2 2 100.0 2 5 7 2 0 0 0 3 20
+p429
+aVDerek Fisher OKC 01/22/2014 OKC @ SAS W 18 9 3 4 75.0 3 4 75.0 0 0 - 0 0 0 1 0 0 1 2 3
+p430
+aVKendrick Perkins OKC 01/22/2014 OKC @ SAS W 21 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 0 5 2
+p431
+aVReggie Jackson OKC 01/22/2014 OKC @ SAS W 38 27 12 17 70.6 3 3 100.0 0 0 - 0 2 2 8 2 0 0 4 6
+p432
+aVNick Collison OKC 01/22/2014 OKC @ SAS W 16 6 3 3 100.0 0 0 - 0 0 - 2 2 4 1 1 0 0 3 -2
+p433
+aVSteven Adams OKC 01/22/2014 OKC @ SAS W 14 1 0 2 0.0 0 0 - 1 2 50.0 4 3 7 0 1 0 2 3 0
+p434
+aVJeremy Lamb OKC 01/22/2014 OKC @ SAS W 24 9 4 11 36.4 1 4 25.0 0 0 - 1 1 2 5 0 0 0 1 1
+p435
+aVSerge Ibaka OKC 01/22/2014 OKC @ SAS W 37 14 7 14 50.0 0 1 0.0 0 0 - 2 7 9 0 2 5 1 2 7
+p436
+aVPerry Jones III OKC 01/22/2014 OKC @ SAS W 9 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p437
+aVKevin Durant OKC 01/22/2014 OKC @ SAS W 39 36 12 22 54.5 2 4 50.0 10 11 90.9 1 6 7 5 1 1 11 4 7
+p438
+aVThabo Sefolosha OKC 01/22/2014 OKC @ SAS W 24 2 1 4 25.0 0 0 - 0 3 0.0 1 2 3 0 1 1 0 0 7
+p439
+aVJeremy Lamb OKC 01/21/2014 OKC vs. POR W 21 9 4 10 40.0 0 2 0.0 1 4 25.0 2 2 4 1 1 0 0 0 0
+p440
+aVNick Collison OKC 01/21/2014 OKC vs. POR W 19 2 1 2 50.0 0 0 - 0 0 - 5 2 7 1 0 0 0 2 -1
+p441
+aVReggie Jackson OKC 01/21/2014 OKC vs. POR W 38 15 7 18 38.9 1 2 50.0 0 0 - 2 5 7 5 0 0 1 1 1
+p442
+aVSerge Ibaka OKC 01/21/2014 OKC vs. POR W 32 10 4 15 26.7 0 0 - 2 2 100.0 1 4 5 0 0 5 1 2 4
+p443
+aVDerek Fisher OKC 01/21/2014 OKC vs. POR W 18 10 3 7 42.9 2 3 66.7 2 4 50.0 0 1 1 2 1 0 0 1 4
+p444
+aVKendrick Perkins OKC 01/21/2014 OKC vs. POR W 27 4 2 4 50.0 0 0 - 0 0 - 3 5 8 2 1 1 1 4 10
+p445
+aVThabo Sefolosha OKC 01/21/2014 OKC vs. POR W 31 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 0 1 0 0 10
+p446
+aVKevin Durant OKC 01/21/2014 OKC vs. POR W 38 46 17 25 68.0 6 7 85.7 6 7 85.7 0 5 5 4 0 0 4 2 13
+p447
+aVSteven Adams OKC 01/21/2014 OKC vs. POR W 17 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 0 1 0 2 -1
+p448
+aVKendrick Perkins OKC 01/19/2014 OKC vs. SAC W 25 7 2 8 25.0 0 1 0.0 3 7 42.9 3 3 6 3 1 0 4 1 11
+p449
+aVRoyal Ivey OKC 01/19/2014 OKC vs. SAC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p450
+aVHasheem Thabeet OKC 01/19/2014 OKC vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p451
+aVAndre Roberson OKC 01/19/2014 OKC vs. SAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p452
+aVSerge Ibaka OKC 01/19/2014 OKC vs. SAC W 29 20 9 13 69.2 0 0 - 2 3 66.7 3 3 6 0 0 2 2 2 13
+p453
+aVPerry Jones III OKC 01/19/2014 OKC vs. SAC W 2 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -3
+p454
+aVThabo Sefolosha OKC 01/19/2014 OKC vs. SAC W 29 10 4 5 80.0 2 2 100.0 0 0 - 1 3 4 2 3 0 1 1 10
+p455
+aVReggie Jackson OKC 01/19/2014 OKC vs. SAC W 34 16 4 16 25.0 2 4 50.0 6 6 100.0 1 4 5 4 0 0 2 4 12
+p456
+aVSteven Adams OKC 01/19/2014 OKC vs. SAC W 19 0 0 2 0.0 0 0 - 0 0 - 3 4 7 1 2 0 2 6 6
+p457
+aVJeremy Lamb OKC 01/19/2014 OKC vs. SAC W 22 10 4 10 40.0 2 5 40.0 0 0 - 1 1 2 0 0 0 0 2 3
+p458
+aVKevin Durant OKC 01/19/2014 OKC vs. SAC W 32 30 10 15 66.7 3 5 60.0 7 9 77.8 1 5 6 9 4 2 3 1 23
+p459
+aVDerek Fisher OKC 01/19/2014 OKC vs. SAC W 25 4 2 9 22.2 0 3 0.0 0 0 - 0 0 0 2 3 0 0 3 5
+p460
+aVNick Collison OKC 01/19/2014 OKC vs. SAC W 17 10 4 6 66.7 0 0 - 2 3 66.7 3 4 7 2 0 0 1 3 3
+p461
+aVThabo Sefolosha OKC 01/17/2014 OKC vs. GSW W 30 4 1 3 33.3 1 2 50.0 1 2 50.0 1 3 4 0 2 1 3 0 6
+p462
+aVSerge Ibaka OKC 01/17/2014 OKC vs. GSW W 35 21 8 11 72.7 0 1 0.0 5 7 71.4 4 4 8 2 1 0 1 2 -2
+p463
+aVSteven Adams OKC 01/17/2014 OKC vs. GSW W 11 6 3 4 75.0 0 0 - 0 0 - 3 2 5 0 1 0 1 6 8
+p464
+aVReggie Jackson OKC 01/17/2014 OKC vs. GSW W 32 14 6 13 46.2 1 3 33.3 1 1 100.0 0 2 2 6 3 0 4 2 4
+p465
+aVDerek Fisher OKC 01/17/2014 OKC vs. GSW W 15 7 2 5 40.0 0 2 0.0 3 4 75.0 0 0 0 1 2 0 0 4 2
+p466
+aVKendrick Perkins OKC 01/17/2014 OKC vs. GSW W 24 6 3 5 60.0 0 0 - 0 2 0.0 2 10 12 2 2 0 2 3 7
+p467
+aVKevin Durant OKC 01/17/2014 OKC vs. GSW W 44 54 19 28 67.9 5 9 55.6 11 13 84.6 1 3 4 6 2 1 5 1 7
+p468
+aVJeremy Lamb OKC 01/17/2014 OKC vs. GSW W 26 12 5 9 55.6 2 4 50.0 0 0 - 0 3 3 3 0 1 0 1 -3
+p469
+aVPerry Jones III OKC 01/17/2014 OKC vs. GSW W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -1
+p470
+aVNick Collison OKC 01/17/2014 OKC vs. GSW W 16 3 0 1 0.0 0 0 - 3 4 75.0 1 0 1 3 0 1 1 5 2
+p471
+aVThabo Sefolosha OKC 01/16/2014 OKC @ HOU W 25 5 2 6 33.3 0 2 0.0 1 1 100.0 1 5 6 1 2 0 0 1 -2
+p472
+aVJeremy Lamb OKC 01/16/2014 OKC @ HOU W 22 5 2 9 22.2 1 6 16.7 0 0 - 0 1 1 0 0 0 1 1 2
+p473
+aVNick Collison OKC 01/16/2014 OKC @ HOU W 19 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 1 0 1 10
+p474
+aVKendrick Perkins OKC 01/16/2014 OKC @ HOU W 26 4 2 4 50.0 0 0 - 0 0 - 1 7 8 2 2 1 1 5 15
+p475
+aVDerek Fisher OKC 01/16/2014 OKC @ HOU W 18 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 3 7
+p476
+aVSteven Adams OKC 01/16/2014 OKC @ HOU W 10 5 1 2 50.0 0 0 - 3 4 75.0 2 2 4 1 0 0 2 6 -6
+p477
+aVPerry Jones III OKC 01/16/2014 OKC @ HOU W 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -8
+p478
+aVReggie Jackson OKC 01/16/2014 OKC @ HOU W 35 23 11 19 57.9 1 7 14.3 0 0 - 0 2 2 4 6 0 1 2 5
+p479
+aVKevin Durant OKC 01/16/2014 OKC @ HOU W 43 36 8 21 38.1 2 7 28.6 18 20 90.0 1 4 5 7 0 0 7 2 20
+p480
+aVSerge Ibaka OKC 01/16/2014 OKC @ HOU W 37 21 10 13 76.9 1 1 100.0 0 0 - 4 11 15 0 0 5 3 5 17
+p481
+aVThabo Sefolosha OKC 01/14/2014 OKC @ MEM L 19 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 2 2 -15
+p482
+aVDerek Fisher OKC 01/14/2014 OKC @ MEM L 21 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 1 1 0 0 1 10
+p483
+aVKevin Durant OKC 01/14/2014 OKC @ MEM L 41 37 15 28 53.6 0 4 0.0 7 9 77.8 0 4 4 4 1 0 4 2 -11
+p484
+aVSteven Adams OKC 01/14/2014 OKC @ MEM L 21 5 2 5 40.0 0 0 - 1 1 100.0 4 5 9 0 1 0 0 4 10
+p485
+aVNick Collison OKC 01/14/2014 OKC @ MEM L 18 3 0 1 0.0 0 0 - 3 4 75.0 1 4 5 1 0 0 1 2 16
+p486
+aVJeremy Lamb OKC 01/14/2014 OKC @ MEM L 29 9 3 9 33.3 0 4 0.0 3 4 75.0 1 6 7 1 0 0 1 3 12
+p487
+aVKendrick Perkins OKC 01/14/2014 OKC @ MEM L 17 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 1 3 4 -16
+p488
+aVSerge Ibaka OKC 01/14/2014 OKC @ MEM L 34 11 5 13 38.5 1 2 50.0 0 0 - 1 8 9 0 1 4 1 4 -17
+p489
+aVReggie Jackson OKC 01/14/2014 OKC @ MEM L 39 17 6 14 42.9 3 5 60.0 2 2 100.0 3 3 6 3 0 0 7 5 -4
+p490
+aVKevin Durant OKC 01/11/2014 OKC vs. MIL W 40 33 8 18 44.4 2 5 40.0 15 17 88.2 1 9 10 7 0 1 2 1 22
+p491
+aVPerry Jones III OKC 01/11/2014 OKC vs. MIL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p492
+aVThabo Sefolosha OKC 01/11/2014 OKC vs. MIL W 39 14 6 16 37.5 2 6 33.3 0 0 - 3 3 6 4 2 2 1 2 10
+p493
+aVDerek Fisher OKC 01/11/2014 OKC vs. MIL W 24 10 4 9 44.4 2 4 50.0 0 0 - 2 2 4 5 1 0 1 2 8
+p494
+aVJeremy Lamb OKC 01/11/2014 OKC vs. MIL W 28 17 6 10 60.0 3 5 60.0 2 2 100.0 2 1 3 2 1 1 3 2 18
+p495
+aVSerge Ibaka OKC 01/11/2014 OKC vs. MIL W 33 17 7 14 50.0 1 2 50.0 2 2 100.0 6 11 17 1 0 3 3 0 12
+p496
+aVKendrick Perkins OKC 01/11/2014 OKC vs. MIL W 21 3 1 5 20.0 0 0 - 1 2 50.0 3 5 8 0 0 0 4 3 -1
+p497
+aVSteven Adams OKC 01/11/2014 OKC vs. MIL W 11 1 0 2 0.0 0 0 - 1 4 25.0 2 3 5 1 0 0 0 1 4
+p498
+aVReggie Jackson OKC 01/11/2014 OKC vs. MIL W 24 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 3 2 0 2 2 8
+p499
+aVNick Collison OKC 01/11/2014 OKC vs. MIL W 14 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 0 3 2
+p500
+aVSteven Adams OKC 01/09/2014 OKC @ DEN L 19 3 1 1 100.0 0 0 - 1 2 50.0 0 5 5 1 0 0 1 2 -1
+p501
+aVAndre Roberson OKC 01/09/2014 OKC @ DEN L 13 5 2 3 66.7 0 1 0.0 1 2 50.0 2 4 6 0 1 1 0 3 8
+p502
+aVPerry Jones III OKC 01/09/2014 OKC @ DEN L 23 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 0 1 3 1 1 -3
+p503
+aVThabo Sefolosha OKC 01/09/2014 OKC @ DEN L 23 4 2 4 50.0 0 1 0.0 0 0 - 1 6 7 0 2 0 0 1 -12
+p504
+aVDerek Fisher OKC 01/09/2014 OKC @ DEN L 24 12 4 11 36.4 4 8 50.0 0 0 - 0 6 6 0 0 0 0 2 -1
+p505
+aVKendrick Perkins OKC 01/09/2014 OKC @ DEN L 21 6 3 5 60.0 0 0 - 0 1 0.0 1 0 1 0 0 0 1 2 -6
+p506
+aVSerge Ibaka OKC 01/09/2014 OKC @ DEN L 24 8 3 11 27.3 0 0 - 2 2 100.0 3 7 10 0 0 3 0 2 -10
+p507
+aVKevin Durant OKC 01/09/2014 OKC @ DEN L 28 30 7 18 38.9 1 7 14.3 15 16 93.8 0 3 3 4 2 0 2 1 -9
+p508
+aVReggie Jackson OKC 01/09/2014 OKC @ DEN L 26 13 5 12 41.7 1 2 50.0 2 2 100.0 1 3 4 5 2 0 4 3 -16
+p509
+aVJeremy Lamb OKC 01/09/2014 OKC @ DEN L 26 3 1 12 8.3 0 4 0.0 1 2 50.0 0 1 1 1 0 3 1 2 -4
+p510
+aVNick Collison OKC 01/09/2014 OKC @ DEN L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -11
+p511
+aVJeremy Lamb OKC 01/07/2014 OKC @ UTA L 27 9 4 14 28.6 1 8 12.5 0 0 - 0 4 4 0 2 0 0 4 5
+p512
+aVNick Collison OKC 01/07/2014 OKC @ UTA L 30 8 3 3 100.0 1 1 100.0 1 2 50.0 4 2 6 3 0 0 2 2 1
+p513
+aVThabo Sefolosha OKC 01/07/2014 OKC @ UTA L 20 4 2 7 28.6 0 2 0.0 0 0 - 1 1 2 1 0 0 0 2 -8
+p514
+aVAndre Roberson OKC 01/07/2014 OKC @ UTA L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 2 2 0 0 2 -5
+p515
+aVDerek Fisher OKC 01/07/2014 OKC @ UTA L 21 2 1 6 16.7 0 5 0.0 0 0 - 0 2 2 0 0 0 1 5 0
+p516
+aVPerry Jones III OKC 01/07/2014 OKC @ UTA L 15 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 3 -10
+p517
+aVSteven Adams OKC 01/07/2014 OKC @ UTA L 12 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 0 1 3 -10
+p518
+aVKendrick Perkins OKC 01/07/2014 OKC @ UTA L 16 6 3 7 42.9 0 0 - 0 0 - 4 1 5 1 1 0 2 3 -13
+p519
+aVKevin Durant OKC 01/07/2014 OKC @ UTA L 45 48 14 34 41.2 3 13 23.1 17 19 89.5 0 7 7 5 4 2 0 2 -12
+p520
+aVReggie Jackson OKC 01/07/2014 OKC @ UTA L 42 20 6 14 42.9 1 4 25.0 7 10 70.0 3 2 5 6 4 0 4 1 -3
+p521
+aVDerek Fisher OKC 01/05/2014 OKC vs. BOS W 19 8 2 4 50.0 2 3 66.7 2 2 100.0 0 2 2 3 1 0 3 1 6
+p522
+aVAndre Roberson OKC 01/05/2014 OKC vs. BOS W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 7
+p523
+aVHasheem Thabeet OKC 01/05/2014 OKC vs. BOS W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 4
+p524
+aVThabo Sefolosha OKC 01/05/2014 OKC vs. BOS W 24 3 1 8 12.5 1 5 20.0 0 0 - 1 2 3 0 1 1 1 0 23
+p525
+aVSerge Ibaka OKC 01/05/2014 OKC vs. BOS W 34 17 8 13 61.5 0 1 0.0 1 2 50.0 5 6 11 3 0 2 1 2 26
+p526
+aVKendrick Perkins OKC 01/05/2014 OKC vs. BOS W 26 12 5 9 55.6 0 0 - 2 2 100.0 3 3 6 2 1 1 1 2 18
+p527
+aVNick Collison OKC 01/05/2014 OKC vs. BOS W 19 8 3 4 75.0 0 0 - 2 4 50.0 2 1 3 1 0 0 0 1 -4
+p528
+aVJeremy Lamb OKC 01/05/2014 OKC vs. BOS W 23 13 5 10 50.0 3 5 60.0 0 0 - 0 3 3 6 0 0 0 2 -1
+p529
+aVPerry Jones III OKC 01/05/2014 OKC vs. BOS W 21 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 2 2 1 0 3 9
+p530
+aVSteven Adams OKC 01/05/2014 OKC vs. BOS W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p531
+aVReggie Jackson OKC 01/05/2014 OKC vs. BOS W 31 27 9 12 75.0 3 3 100.0 6 9 66.7 0 2 2 2 1 0 2 0 18
+p532
+aVKevin Durant OKC 01/05/2014 OKC vs. BOS W 27 21 6 13 46.2 0 1 0.0 9 10 90.0 0 7 7 8 3 0 0 2 14
+p533
+aVReggie Jackson OKC 01/04/2014 OKC @ MIN W 24 10 3 6 50.0 0 1 0.0 4 4 100.0 1 3 4 4 0 0 4 5 -7
+p534
+aVThabo Sefolosha OKC 01/04/2014 OKC @ MIN W 21 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 1 0 1 2 0 -10
+p535
+aVDerek Fisher OKC 01/04/2014 OKC @ MIN W 25 13 3 7 42.9 3 6 50.0 4 4 100.0 0 2 2 4 0 0 3 5 15
+p536
+aVPerry Jones III OKC 01/04/2014 OKC @ MIN W 10 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 10
+p537
+aVKevin Durant OKC 01/04/2014 OKC @ MIN W 43 48 16 32 50.0 4 9 44.4 12 13 92.3 0 7 7 7 2 1 3 2 0
+p538
+aVSerge Ibaka OKC 01/04/2014 OKC @ MIN W 32 12 6 13 46.2 0 2 0.0 0 0 - 0 3 3 0 2 1 3 4 -11
+p539
+aVJeremy Lamb OKC 01/04/2014 OKC @ MIN W 27 9 2 7 28.6 0 2 0.0 5 5 100.0 2 6 8 3 2 0 2 3 16
+p540
+aVKendrick Perkins OKC 01/04/2014 OKC @ MIN W 20 0 0 0 - 0 0 - 0 0 - 0 7 7 2 0 2 2 5 -11
+p541
+aVSteven Adams OKC 01/04/2014 OKC @ MIN W 16 10 4 5 80.0 0 0 - 2 2 100.0 4 5 9 0 0 2 2 2 1
+p542
+aVNick Collison OKC 01/04/2014 OKC @ MIN W 23 8 4 6 66.7 0 0 - 0 0 - 2 1 3 1 1 1 1 3 17
+p543
+aVKevin Durant OKC 01/02/2014 OKC vs. BKN L 34 24 8 13 61.5 3 7 42.9 5 5 100.0 0 4 4 4 0 2 5 5 -6
+p544
+aVNick Collison OKC 01/02/2014 OKC vs. BKN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p545
+aVSteven Adams OKC 01/02/2014 OKC vs. BKN L 14 7 2 3 66.7 0 0 - 3 4 75.0 1 0 1 2 2 0 2 3 -2
+p546
+aVReggie Jackson OKC 01/02/2014 OKC vs. BKN L 29 9 4 13 30.8 0 3 0.0 1 1 100.0 1 2 3 5 0 0 4 4 1
+p547
+aVJeremy Lamb OKC 01/02/2014 OKC vs. BKN L 20 9 3 7 42.9 1 2 50.0 2 2 100.0 0 3 3 2 1 1 2 2 14
+p548
+aVPerry Jones III OKC 01/02/2014 OKC vs. BKN L 30 11 4 7 57.1 3 5 60.0 0 0 - 0 1 1 2 1 1 1 2 1
+p549
+aVSerge Ibaka OKC 01/02/2014 OKC vs. BKN L 34 10 5 9 55.6 0 0 - 0 1 0.0 2 9 11 0 2 1 2 1 -1
+p550
+aVKendrick Perkins OKC 01/02/2014 OKC vs. BKN L 17 8 3 7 42.9 0 0 - 2 2 100.0 1 5 6 1 1 0 1 1 -4
+p551
+aVThabo Sefolosha OKC 01/02/2014 OKC vs. BKN L 32 8 2 3 66.7 1 2 50.0 3 4 75.0 1 3 4 1 1 1 4 1 -15
+p552
+aVDerek Fisher OKC 01/02/2014 OKC vs. BKN L 23 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 3 0 0 0 4 -2
+p553
+aVNick Collison OKC 12/31/2013 OKC vs. POR L 17 4 2 4 50.0 0 0 - 0 0 - 2 5 7 0 0 0 1 3 0
+p554
+aVKendrick Perkins OKC 12/31/2013 OKC vs. POR L 28 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 1 1 3 3
+p555
+aVThabo Sefolosha OKC 12/31/2013 OKC vs. POR L 28 4 1 2 50.0 0 0 - 2 2 100.0 0 5 5 0 1 0 0 1 0
+p556
+aVDerek Fisher OKC 12/31/2013 OKC vs. POR L 19 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 3 0 0 1 1 -6
+p557
+aVSteven Adams OKC 12/31/2013 OKC vs. POR L 20 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 0 0 3 3 -6
+p558
+aVKevin Durant OKC 12/31/2013 OKC vs. POR L 40 37 12 26 46.2 3 9 33.3 10 12 83.3 3 11 14 3 1 0 1 3 -8
+p559
+aVSerge Ibaka OKC 12/31/2013 OKC vs. POR L 31 17 8 14 57.1 0 1 0.0 1 2 50.0 2 2 4 0 0 3 1 3 -4
+p560
+aVPerry Jones III OKC 12/31/2013 OKC vs. POR L 8 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 4
+p561
+aVJeremy Lamb OKC 12/31/2013 OKC vs. POR L 21 10 5 11 45.5 0 2 0.0 0 0 - 0 6 6 1 0 0 1 0 -5
+p562
+aVReggie Jackson OKC 12/31/2013 OKC vs. POR L 29 12 5 13 38.5 0 0 - 2 4 50.0 2 5 7 6 1 0 1 2 2
+p563
+aVNick Collison OKC 12/29/2013 OKC vs. HOU W 13 4 2 5 40.0 0 0 - 0 0 - 1 4 5 3 0 0 1 1 5
+p564
+aVPerry Jones III OKC 12/29/2013 OKC vs. HOU W 21 8 4 5 80.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 5 6
+p565
+aVJeremy Lamb OKC 12/29/2013 OKC vs. HOU W 26 22 8 10 80.0 3 4 75.0 3 3 100.0 0 5 5 5 2 1 3 2 10
+p566
+aVDerek Fisher OKC 12/29/2013 OKC vs. HOU W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 2 0 0 1 6
+p567
+aVReggie Jackson OKC 12/29/2013 OKC vs. HOU W 26 16 7 12 58.3 2 4 50.0 0 0 - 1 2 3 8 0 0 0 2 17
+p568
+aVKendrick Perkins OKC 12/29/2013 OKC vs. HOU W 23 2 1 2 50.0 0 0 - 0 0 - 1 8 9 0 1 1 1 4 25
+p569
+aVThabo Sefolosha OKC 12/29/2013 OKC vs. HOU W 29 13 5 10 50.0 1 6 16.7 2 2 100.0 0 2 2 2 0 0 0 1 22
+p570
+aVRyan Gomes OKC 12/29/2013 OKC vs. HOU W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p571
+aVKevin Durant OKC 12/29/2013 OKC vs. HOU W 38 33 11 17 64.7 3 5 60.0 8 9 88.9 0 13 13 5 1 1 2 3 27
+p572
+aVAndre Roberson OKC 12/29/2013 OKC vs. HOU W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 7
+p573
+aVSerge Ibaka OKC 12/29/2013 OKC vs. HOU W 27 8 4 11 36.4 0 1 0.0 0 0 - 0 5 5 2 0 2 2 2 18
+p574
+aVSteven Adams OKC 12/29/2013 OKC vs. HOU W 6 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 6
+p575
+aVPerry Jones III OKC 12/27/2013 OKC @ CHA W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p576
+aVJeremy Lamb OKC 12/27/2013 OKC @ CHA W 24 10 4 10 40.0 1 4 25.0 1 2 50.0 0 2 2 1 0 0 1 0 -4
+p577
+aVSerge Ibaka OKC 12/27/2013 OKC @ CHA W 36 12 6 8 75.0 0 1 0.0 0 0 - 2 7 9 2 0 3 2 3 -1
+p578
+aVNick Collison OKC 12/27/2013 OKC @ CHA W 16 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 1 3 5
+p579
+aVThabo Sefolosha OKC 12/27/2013 OKC @ CHA W 24 12 3 5 60.0 3 5 60.0 3 4 75.0 0 3 3 2 0 0 0 1 8
+p580
+aVSteven Adams OKC 12/27/2013 OKC @ CHA W 16 6 1 1 100.0 0 0 - 4 6 66.7 2 1 3 1 0 1 0 3 1
+p581
+aVDerek Fisher OKC 12/27/2013 OKC @ CHA W 18 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 0 0 2 3 -1
+p582
+aVReggie Jackson OKC 12/27/2013 OKC @ CHA W 30 10 4 19 21.1 1 5 20.0 1 2 50.0 0 6 6 3 1 0 0 1 5
+p583
+aVKevin Durant OKC 12/27/2013 OKC @ CHA W 40 34 14 28 50.0 2 6 33.3 4 6 66.7 2 10 12 6 0 0 2 3 1
+p584
+aVKendrick Perkins OKC 12/27/2013 OKC @ CHA W 25 0 0 3 0.0 0 0 - 0 2 0.0 4 6 10 1 1 1 3 1 4
+p585
+aVRussell Westbrook OKC 12/25/2013 OKC @ NYK W 29 14 5 15 33.3 1 3 33.3 3 4 75.0 1 12 13 10 1 1 2 2 17
+p586
+aVNick Collison OKC 12/25/2013 OKC @ NYK W 19 5 2 4 50.0 0 0 - 1 2 50.0 3 1 4 3 0 1 0 3 14
+p587
+aVKendrick Perkins OKC 12/25/2013 OKC @ NYK W 21 4 2 2 100.0 0 0 - 0 0 - 0 4 4 1 1 0 0 1 13
+p588
+aVAndre Roberson OKC 12/25/2013 OKC @ NYK W 6 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p589
+aVSteven Adams OKC 12/25/2013 OKC @ NYK W 12 5 1 1 100.0 0 0 - 3 4 75.0 1 1 2 2 0 0 0 3 9
+p590
+aVJeremy Lamb OKC 12/25/2013 OKC @ NYK W 23 13 5 8 62.5 2 4 50.0 1 1 100.0 0 2 2 3 2 0 1 3 12
+p591
+aVDerek Fisher OKC 12/25/2013 OKC @ NYK W 15 4 1 1 100.0 1 1 100.0 1 2 50.0 0 2 2 0 0 0 1 1 16
+p592
+aVReggie Jackson OKC 12/25/2013 OKC @ NYK W 25 18 6 16 37.5 3 6 50.0 3 3 100.0 0 2 2 2 1 0 3 2 14
+p593
+aVSerge Ibaka OKC 12/25/2013 OKC @ NYK W 27 24 10 14 71.4 1 1 100.0 3 4 75.0 1 2 3 1 1 1 1 1 12
+p594
+aVPerry Jones III OKC 12/25/2013 OKC @ NYK W 9 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 1
+p595
+aVKevin Durant OKC 12/25/2013 OKC @ NYK W 32 29 10 16 62.5 4 6 66.7 5 6 83.3 0 7 7 6 2 0 2 3 22
+p596
+aVThabo Sefolosha OKC 12/25/2013 OKC @ NYK W 22 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 3 0 0 0 1 14
+p597
+aVRussell Westbrook OKC 12/22/2013 OKC vs. TOR L 35 27 8 17 47.1 1 2 50.0 10 11 90.9 1 8 9 5 2 0 5 2 -6
+p598
+aVReggie Jackson OKC 12/22/2013 OKC vs. TOR L 21 6 1 11 9.1 0 5 0.0 4 4 100.0 0 4 4 5 1 0 3 0 6
+p599
+aVThabo Sefolosha OKC 12/22/2013 OKC vs. TOR L 18 5 1 2 50.0 1 1 100.0 2 2 100.0 1 1 2 1 1 0 1 5 1
+p600
+aVSerge Ibaka OKC 12/22/2013 OKC vs. TOR L 32 9 4 9 44.4 1 1 100.0 0 0 - 2 4 6 1 1 2 1 4 -7
+p601
+aVNick Collison OKC 12/22/2013 OKC vs. TOR L 16 6 2 3 66.7 0 0 - 2 2 100.0 2 3 5 1 1 1 0 1 1
+p602
+aVKendrick Perkins OKC 12/22/2013 OKC vs. TOR L 19 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 4 -6
+p603
+aVKevin Durant OKC 12/22/2013 OKC vs. TOR L 37 24 5 16 31.3 2 7 28.6 12 12 100.0 1 7 8 3 0 0 6 2 -10
+p604
+aVDerek Fisher OKC 12/22/2013 OKC vs. TOR L 18 6 1 2 50.0 1 2 50.0 3 3 100.0 1 0 1 1 0 0 0 2 -4
+p605
+aVJeremy Lamb OKC 12/22/2013 OKC vs. TOR L 22 7 3 8 37.5 1 4 25.0 0 0 - 0 1 1 0 1 1 0 2 -8
+p606
+aVPerry Jones III OKC 12/22/2013 OKC vs. TOR L 12 8 3 4 75.0 0 1 0.0 2 2 100.0 2 1 3 0 0 1 0 1 -3
+p607
+aVSteven Adams OKC 12/22/2013 OKC vs. TOR L 11 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 0 2 1 5 6
+p608
+aVSerge Ibaka OKC 12/21/2013 OKC @ SAS W 33 14 6 14 42.9 2 4 50.0 0 0 - 3 11 14 1 1 3 2 4 9
+p609
+aVNick Collison OKC 12/21/2013 OKC @ SAS W 20 8 3 4 75.0 0 0 - 2 2 100.0 2 2 4 1 0 1 0 1 20
+p610
+aVThabo Sefolosha OKC 12/21/2013 OKC @ SAS W 20 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 1 0 0 0 2 -7
+p611
+aVDerek Fisher OKC 12/21/2013 OKC @ SAS W 16 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 1 0 0 1 9
+p612
+aVJeremy Lamb OKC 12/21/2013 OKC @ SAS W 16 6 2 8 25.0 2 5 40.0 0 0 - 0 2 2 2 0 0 0 2 9
+p613
+aVKendrick Perkins OKC 12/21/2013 OKC @ SAS W 15 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 1 0 2 2 5 -1
+p614
+aVSteven Adams OKC 12/21/2013 OKC @ SAS W 19 4 1 3 33.3 0 0 - 2 4 50.0 1 5 6 0 1 2 1 3 1
+p615
+aVReggie Jackson OKC 12/21/2013 OKC @ SAS W 30 21 8 14 57.1 2 4 50.0 3 4 75.0 1 2 3 4 1 0 1 1 19
+p616
+aVRussell Westbrook OKC 12/21/2013 OKC @ SAS W 34 31 13 22 59.1 2 5 40.0 3 3 100.0 2 2 4 8 0 0 3 1 5
+p617
+aVKevin Durant OKC 12/21/2013 OKC @ SAS W 38 17 6 14 42.9 2 6 33.3 3 3 100.0 0 5 5 3 2 1 3 3 1
+p618
+aVNick Collison OKC 12/19/2013 OKC vs. CHI W 20 9 4 6 66.7 0 0 - 1 1 100.0 1 2 3 0 0 0 0 2 10
+p619
+aVReggie Jackson OKC 12/19/2013 OKC vs. CHI W 28 18 8 12 66.7 2 2 100.0 0 0 - 0 5 5 2 0 0 6 1 5
+p620
+aVDerek Fisher OKC 12/19/2013 OKC vs. CHI W 12 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 2
+p621
+aVSteven Adams OKC 12/19/2013 OKC vs. CHI W 27 4 1 4 25.0 0 0 - 2 2 100.0 3 4 7 0 4 2 2 5 7
+p622
+aVJeremy Lamb OKC 12/19/2013 OKC vs. CHI W 23 7 3 11 27.3 1 2 50.0 0 0 - 1 1 2 2 1 0 0 3 -5
+p623
+aVPerry Jones III OKC 12/19/2013 OKC vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p624
+aVKendrick Perkins OKC 12/19/2013 OKC vs. CHI W 21 0 0 0 - 0 0 - 0 0 - 0 4 4 1 1 0 1 4 5
+p625
+aVAndre Roberson OKC 12/19/2013 OKC vs. CHI W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p626
+aVSerge Ibaka OKC 12/19/2013 OKC vs. CHI W 21 5 2 4 50.0 1 1 100.0 0 0 - 1 2 3 1 0 3 1 5 10
+p627
+aVThabo Sefolosha OKC 12/19/2013 OKC vs. CHI W 22 10 4 11 36.4 1 4 25.0 1 2 50.0 1 4 5 4 2 1 0 0 11
+p628
+aVKevin Durant OKC 12/19/2013 OKC vs. CHI W 33 32 13 20 65.0 4 5 80.0 2 2 100.0 0 9 9 6 3 1 1 2 17
+p629
+aVRussell Westbrook OKC 12/19/2013 OKC vs. CHI W 28 20 7 12 58.3 0 0 - 6 7 85.7 0 2 2 10 1 0 5 4 8
+p630
+aVThabo Sefolosha OKC 12/17/2013 OKC @ DEN W 23 2 1 4 25.0 0 2 0.0 0 0 - 2 2 4 0 1 1 1 2 6
+p631
+aVSerge Ibaka OKC 12/17/2013 OKC @ DEN W 31 17 7 11 63.6 0 0 - 3 4 75.0 5 5 10 0 0 1 1 3 -1
+p632
+aVKevin Durant OKC 12/17/2013 OKC @ DEN W 38 30 11 23 47.8 2 4 50.0 6 7 85.7 0 6 6 3 2 0 2 3 6
+p633
+aVPerry Jones III OKC 12/17/2013 OKC @ DEN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 5
+p634
+aVNick Collison OKC 12/17/2013 OKC @ DEN W 21 8 4 7 57.1 0 1 0.0 0 0 - 2 4 6 0 1 2 1 3 18
+p635
+aVReggie Jackson OKC 12/17/2013 OKC @ DEN W 20 8 4 10 40.0 0 2 0.0 0 0 - 0 2 2 2 2 0 2 1 7
+p636
+aVDerek Fisher OKC 12/17/2013 OKC @ DEN W 20 6 2 5 40.0 1 4 25.0 1 1 100.0 0 1 1 2 1 0 0 0 4
+p637
+aVKendrick Perkins OKC 12/17/2013 OKC @ DEN W 13 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 1 0 0 2 3 3
+p638
+aVRussell Westbrook OKC 12/17/2013 OKC @ DEN W 36 21 9 16 56.3 1 4 25.0 2 4 50.0 1 12 13 8 0 0 8 1 5
+p639
+aVSteven Adams OKC 12/17/2013 OKC @ DEN W 9 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 3 -1
+p640
+aVJeremy Lamb OKC 12/17/2013 OKC @ DEN W 22 9 4 9 44.4 1 5 20.0 0 0 - 0 6 6 3 2 1 0 3 8
+p641
+aVAndre Roberson OKC 12/17/2013 OKC @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p642
+aVJeremy Lamb OKC 12/15/2013 OKC vs. ORL W 23 16 7 10 70.0 2 3 66.7 0 0 - 1 2 3 3 1 0 0 2 12
+p643
+aVDerek Fisher OKC 12/15/2013 OKC vs. ORL W 17 5 1 3 33.3 1 3 33.3 2 2 100.0 0 0 0 0 0 0 1 0 -10
+p644
+aVRussell Westbrook OKC 12/15/2013 OKC vs. ORL W 33 20 7 22 31.8 0 5 0.0 6 6 100.0 3 9 12 6 2 1 5 1 -4
+p645
+aVThabo Sefolosha OKC 12/15/2013 OKC vs. ORL W 23 6 3 8 37.5 0 3 0.0 0 0 - 1 2 3 0 4 0 0 2 5
+p646
+aVKendrick Perkins OKC 12/15/2013 OKC vs. ORL W 26 4 1 4 25.0 0 0 - 2 3 66.7 2 3 5 1 0 1 1 5 1
+p647
+aVSteven Adams OKC 12/15/2013 OKC vs. ORL W 20 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 0 2 1 3 3 4
+p648
+aVReggie Jackson OKC 12/15/2013 OKC vs. ORL W 23 10 4 10 40.0 0 2 0.0 2 2 100.0 0 4 4 5 0 0 0 0 10
+p649
+aVKevin Durant OKC 12/15/2013 OKC vs. ORL W 37 28 11 18 61.1 2 3 66.7 4 5 80.0 0 9 9 5 1 2 2 1 -7
+p650
+aVNick Collison OKC 12/15/2013 OKC vs. ORL W 18 2 1 3 33.3 0 0 - 0 0 - 2 1 3 2 0 0 1 2 11
+p651
+aVSerge Ibaka OKC 12/15/2013 OKC vs. ORL W 21 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 2 0 3 -7
+p652
+aVReggie Jackson OKC 12/13/2013 OKC vs. LAL W 26 19 7 18 38.9 2 6 33.3 3 3 100.0 2 3 5 4 2 0 0 1 6
+p653
+aVSteven Adams OKC 12/13/2013 OKC vs. LAL W 15 1 0 0 - 0 0 - 1 2 50.0 3 2 5 3 0 2 0 5 24
+p654
+aVHasheem Thabeet OKC 12/13/2013 OKC vs. LAL W 7 2 1 2 50.0 0 0 - 0 0 - 3 1 4 1 0 0 0 1 -4
+p655
+aVDerek Fisher OKC 12/13/2013 OKC vs. LAL W 14 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 1 2 0 0 1 13
+p656
+aVSerge Ibaka OKC 12/13/2013 OKC vs. LAL W 25 19 8 13 61.5 0 0 - 3 4 75.0 4 6 10 1 1 1 1 2 13
+p657
+aVKevin Durant OKC 12/13/2013 OKC vs. LAL W 31 31 10 13 76.9 3 5 60.0 8 8 100.0 0 8 8 5 4 1 2 2 24
+p658
+aVPerry Jones III OKC 12/13/2013 OKC vs. LAL W 19 9 4 9 44.4 0 2 0.0 1 2 50.0 2 3 5 1 1 1 2 0 3
+p659
+aVAndre Roberson OKC 12/13/2013 OKC vs. LAL W 22 2 1 4 25.0 0 2 0.0 0 0 - 2 2 4 1 2 1 0 3 7
+p660
+aVJeremy Lamb OKC 12/13/2013 OKC vs. LAL W 27 11 5 10 50.0 1 3 33.3 0 0 - 1 3 4 1 0 1 1 2 8
+p661
+aVRussell Westbrook OKC 12/13/2013 OKC vs. LAL W 31 19 7 19 36.8 1 4 25.0 4 4 100.0 0 8 8 12 2 0 3 3 22
+p662
+aVNick Collison OKC 12/13/2013 OKC vs. LAL W 6 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 1 2 1 3
+p663
+aVKendrick Perkins OKC 12/13/2013 OKC vs. LAL W 17 6 3 4 75.0 0 0 - 0 0 - 1 2 3 4 0 0 3 4 6
+p664
+aVJeremy Lamb OKC 12/11/2013 OKC @ MEM W 28 18 7 9 77.8 3 4 75.0 1 1 100.0 0 2 2 1 0 0 2 2 -2
+p665
+aVSteven Adams OKC 12/11/2013 OKC @ MEM W 16 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 0 1 0 3 4 3
+p666
+aVReggie Jackson OKC 12/11/2013 OKC @ MEM W 23 17 6 10 60.0 1 4 25.0 4 4 100.0 0 3 3 2 0 0 1 2 -9
+p667
+aVRussell Westbrook OKC 12/11/2013 OKC @ MEM W 27 27 7 12 58.3 2 5 40.0 11 11 100.0 1 5 6 9 2 0 3 1 22
+p668
+aVNick Collison OKC 12/11/2013 OKC @ MEM W 17 5 2 2 100.0 0 0 - 1 2 50.0 0 4 4 1 0 2 1 1 8
+p669
+aVHasheem Thabeet OKC 12/11/2013 OKC @ MEM W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p670
+aVDerek Fisher OKC 12/11/2013 OKC @ MEM W 13 4 1 2 50.0 1 2 50.0 1 2 50.0 0 0 0 1 2 0 1 2 5
+p671
+aVPerry Jones III OKC 12/11/2013 OKC @ MEM W 12 5 2 4 50.0 0 0 - 1 4 25.0 1 1 2 0 0 0 0 0 7
+p672
+aVKendrick Perkins OKC 12/11/2013 OKC @ MEM W 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 4 4
+p673
+aVSerge Ibaka OKC 12/11/2013 OKC @ MEM W 32 12 6 14 42.9 0 1 0.0 0 0 - 0 7 7 3 0 2 3 3 29
+p674
+aVAndre Roberson OKC 12/11/2013 OKC @ MEM W 19 7 2 3 66.7 1 1 100.0 2 2 100.0 2 2 4 0 1 0 3 4 -1
+p675
+aVKevin Durant OKC 12/11/2013 OKC @ MEM W 34 18 6 12 50.0 1 1 100.0 5 5 100.0 1 5 6 3 2 1 3 3 21
+p676
+aVRussell Westbrook OKC 12/10/2013 OKC @ ATL W 35 14 6 21 28.6 1 6 16.7 1 2 50.0 0 9 9 11 4 0 4 1 8
+p677
+aVSteven Adams OKC 12/10/2013 OKC @ ATL W 11 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 1 0 1 -3
+p678
+aVSerge Ibaka OKC 12/10/2013 OKC @ ATL W 33 19 7 14 50.0 0 0 - 5 7 71.4 2 8 10 1 0 2 1 4 5
+p679
+aVKevin Durant OKC 12/10/2013 OKC @ ATL W 37 30 9 21 42.9 1 3 33.3 11 15 73.3 1 9 10 5 1 2 5 2 17
+p680
+aVNick Collison OKC 12/10/2013 OKC @ ATL W 21 4 2 3 66.7 0 0 - 0 0 - 2 4 6 2 0 0 0 3 2
+p681
+aVDerek Fisher OKC 12/10/2013 OKC @ ATL W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 3
+p682
+aVKendrick Perkins OKC 12/10/2013 OKC @ ATL W 24 4 1 1 100.0 0 0 - 2 2 100.0 2 2 4 2 1 1 1 3 6
+p683
+aVReggie Jackson OKC 12/10/2013 OKC @ ATL W 30 13 5 10 50.0 1 3 33.3 2 2 100.0 0 4 4 3 0 0 2 2 5
+p684
+aVJeremy Lamb OKC 12/10/2013 OKC @ ATL W 21 11 5 9 55.6 1 4 25.0 0 0 - 0 2 2 0 2 0 2 2 5
+p685
+aVAndre Roberson OKC 12/10/2013 OKC @ ATL W 12 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 1 0 1 -3
+p686
+aVPerry Jones III OKC 12/08/2013 OKC vs. IND W 4 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p687
+aVKevin Durant OKC 12/08/2013 OKC vs. IND W 35 36 14 23 60.9 2 3 66.7 6 6 100.0 2 8 10 5 1 0 3 1 26
+p688
+aVJeremy Lamb OKC 12/08/2013 OKC vs. IND W 16 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 0 0 0 0 1 6
+p689
+aVThabo Sefolosha OKC 12/08/2013 OKC vs. IND W 27 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 1 0 3 19
+p690
+aVRussell Westbrook OKC 12/08/2013 OKC vs. IND W 32 26 11 17 64.7 1 6 16.7 3 3 100.0 1 6 7 13 1 0 5 2 24
+p691
+aVReggie Jackson OKC 12/08/2013 OKC vs. IND W 26 15 6 11 54.5 1 2 50.0 2 2 100.0 0 4 4 3 1 0 2 3 3
+p692
+aVNick Collison OKC 12/08/2013 OKC vs. IND W 16 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 1 0 2 0 4 6
+p693
+aVSerge Ibaka OKC 12/08/2013 OKC vs. IND W 30 13 6 8 75.0 0 0 - 1 2 50.0 0 3 3 1 2 1 3 4 17
+p694
+aVDerek Fisher OKC 12/08/2013 OKC vs. IND W 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -4
+p695
+aVKendrick Perkins OKC 12/08/2013 OKC vs. IND W 22 6 2 2 100.0 0 0 - 2 2 100.0 2 5 7 0 0 2 1 1 19
+p696
+aVSteven Adams OKC 12/08/2013 OKC vs. IND W 18 5 1 1 100.0 0 0 - 3 3 100.0 2 2 4 2 1 2 2 4 0
+p697
+aVKevin Durant OKC 12/06/2013 OKC @ NOP W 36 29 11 17 64.7 2 5 40.0 5 5 100.0 0 8 8 4 2 3 2 1 16
+p698
+aVJeremy Lamb OKC 12/06/2013 OKC @ NOP W 15 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 1 0 1 0 5 -1
+p699
+aVDerek Fisher OKC 12/06/2013 OKC @ NOP W 13 4 1 2 50.0 1 2 50.0 1 1 100.0 0 3 3 3 0 0 0 5 -1
+p700
+aVRyan Gomes OKC 12/06/2013 OKC @ NOP W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p701
+aVSerge Ibaka OKC 12/06/2013 OKC @ NOP W 38 17 5 12 41.7 0 0 - 7 8 87.5 3 10 13 0 1 3 3 3 15
+p702
+aVSteven Adams OKC 12/06/2013 OKC @ NOP W 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -4
+p703
+aVThabo Sefolosha OKC 12/06/2013 OKC @ NOP W 27 9 4 5 80.0 0 0 - 1 2 50.0 0 3 3 1 0 1 0 1 -1
+p704
+aVNick Collison OKC 12/06/2013 OKC @ NOP W 24 6 2 4 50.0 0 1 0.0 2 5 40.0 0 2 2 1 0 2 3 3 21
+p705
+aVRussell Westbrook OKC 12/06/2013 OKC @ NOP W 34 25 8 16 50.0 3 8 37.5 6 7 85.7 0 1 1 4 4 0 4 2 14
+p706
+aVReggie Jackson OKC 12/06/2013 OKC @ NOP W 29 15 6 13 46.2 1 3 33.3 2 2 100.0 1 3 4 4 2 0 2 1 20
+p707
+aVKendrick Perkins OKC 12/06/2013 OKC @ NOP W 15 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 1 0 0 -10
+p708
+aVKendrick Perkins OKC 12/04/2013 OKC @ POR L 17 0 0 0 - 0 0 - 0 0 - 0 3 3 0 2 0 2 4 -9
+p709
+aVPerry Jones III OKC 12/04/2013 OKC @ POR L 5 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 3
+p710
+aVDerek Fisher OKC 12/04/2013 OKC @ POR L 9 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -1
+p711
+aVSerge Ibaka OKC 12/04/2013 OKC @ POR L 36 13 6 13 46.2 0 0 - 1 1 100.0 4 6 10 1 0 3 2 3 -5
+p712
+aVReggie Jackson OKC 12/04/2013 OKC @ POR L 29 12 4 11 36.4 2 2 100.0 2 2 100.0 0 2 2 1 0 1 0 1 -2
+p713
+aVNick Collison OKC 12/04/2013 OKC @ POR L 17 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 1 0 0 0 5 3
+p714
+aVSteven Adams OKC 12/04/2013 OKC @ POR L 13 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 1 0 0 1 3 -8
+p715
+aVRussell Westbrook OKC 12/04/2013 OKC @ POR L 30 21 7 17 41.2 2 4 50.0 5 5 100.0 1 2 3 5 0 0 3 2 -11
+p716
+aVJeremy Lamb OKC 12/04/2013 OKC @ POR L 26 10 5 10 50.0 0 1 0.0 0 0 - 0 2 2 1 1 1 0 3 5
+p717
+aVThabo Sefolosha OKC 12/04/2013 OKC @ POR L 20 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 3 0 1 0 -4
+p718
+aVKevin Durant OKC 12/04/2013 OKC @ POR L 39 33 11 23 47.8 1 3 33.3 10 12 83.3 1 6 7 0 1 2 4 1 -6
+p719
+aVThabo Sefolosha OKC 12/03/2013 OKC @ SAC W 18 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 0 0 0 1 3 -7
+p720
+aVKendrick Perkins OKC 12/03/2013 OKC @ SAC W 16 1 0 0 - 0 0 - 1 2 50.0 0 1 1 3 0 1 1 1 -16
+p721
+aVDerek Fisher OKC 12/03/2013 OKC @ SAC W 15 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 1 1 0 0 2 2
+p722
+aVSteven Adams OKC 12/03/2013 OKC @ SAC W 14 3 0 1 0.0 0 0 - 3 4 75.0 3 2 5 0 1 0 1 3 10
+p723
+aVKevin Durant OKC 12/03/2013 OKC @ SAC W 39 27 8 21 38.1 1 4 25.0 10 10 100.0 0 11 11 3 2 1 1 3 2
+p724
+aVJeremy Lamb OKC 12/03/2013 OKC @ SAC W 24 14 5 8 62.5 2 3 66.7 2 2 100.0 0 2 2 1 0 0 0 2 7
+p725
+aVReggie Jackson OKC 12/03/2013 OKC @ SAC W 31 13 5 10 50.0 1 3 33.3 2 2 100.0 0 4 4 4 0 0 2 3 16
+p726
+aVRussell Westbrook OKC 12/03/2013 OKC @ SAC W 32 15 7 19 36.8 1 5 20.0 0 0 - 3 5 8 7 1 0 7 1 -10
+p727
+aVNick Collison OKC 12/03/2013 OKC @ SAC W 17 6 3 3 100.0 0 0 - 0 0 - 1 2 3 1 0 1 1 1 14
+p728
+aVSerge Ibaka OKC 12/03/2013 OKC @ SAC W 34 13 6 14 42.9 1 1 100.0 0 0 - 3 6 9 1 0 2 1 1 -8
+p729
+aVSteven Adams OKC 12/01/2013 OKC vs. MIN W 9 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -3
+p730
+aVKendrick Perkins OKC 12/01/2013 OKC vs. MIN W 22 6 3 4 75.0 0 0 - 0 1 0.0 1 3 4 0 0 1 2 5 2
+p731
+aVReggie Jackson OKC 12/01/2013 OKC vs. MIN W 24 18 8 11 72.7 1 3 33.3 1 1 100.0 0 5 5 4 0 0 2 0 20
+p732
+aVDerek Fisher OKC 12/01/2013 OKC vs. MIN W 15 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 10
+p733
+aVNick Collison OKC 12/01/2013 OKC vs. MIN W 15 6 2 4 50.0 0 1 0.0 2 2 100.0 1 4 5 0 0 0 1 2 16
+p734
+aVAndre Roberson OKC 12/01/2013 OKC vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p735
+aVKevin Durant OKC 12/01/2013 OKC vs. MIN W 44 32 14 21 66.7 3 4 75.0 1 2 50.0 2 8 10 12 4 4 2 3 9
+p736
+aVJeremy Lamb OKC 12/01/2013 OKC vs. MIN W 17 9 4 8 50.0 1 3 33.3 0 0 - 0 2 2 2 0 0 1 2 14
+p737
+aVPerry Jones III OKC 12/01/2013 OKC vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p738
+aVThabo Sefolosha OKC 12/01/2013 OKC vs. MIN W 23 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 1 3 2 -8
+p739
+aVSerge Ibaka OKC 12/01/2013 OKC vs. MIN W 38 15 7 17 41.2 0 1 0.0 1 1 100.0 2 6 8 1 0 3 3 3 -4
+p740
+aVRussell Westbrook OKC 12/01/2013 OKC vs. MIN W 32 19 7 15 46.7 4 7 57.1 1 2 50.0 1 1 2 5 3 1 1 3 -6
+p741
+aVNick Collison OKC 11/29/2013 OKC vs. GSW W 17 4 2 5 40.0 0 2 0.0 0 0 - 1 2 3 1 0 0 1 2 3
+p742
+aVReggie Jackson OKC 11/29/2013 OKC vs. GSW W 24 8 3 10 30.0 1 3 33.3 1 1 100.0 0 2 2 1 0 0 0 1 5
+p743
+aVKevin Durant OKC 11/29/2013 OKC vs. GSW W 44 25 7 22 31.8 0 2 0.0 11 12 91.7 0 13 13 5 0 2 4 3 1
+p744
+aVKendrick Perkins OKC 11/29/2013 OKC vs. GSW W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 2 1 1 1 4
+p745
+aVThabo Sefolosha OKC 11/29/2013 OKC vs. GSW W 33 7 2 5 40.0 1 2 50.0 2 2 100.0 2 4 6 1 1 0 2 3 -4
+p746
+aVSerge Ibaka OKC 11/29/2013 OKC vs. GSW W 47 18 6 11 54.5 0 0 - 6 8 75.0 3 10 13 0 0 4 3 4 7
+p747
+aVRussell Westbrook OKC 11/29/2013 OKC vs. GSW W 42 34 10 25 40.0 2 5 40.0 12 15 80.0 0 1 1 7 5 0 1 2 1
+p748
+aVJeremy Lamb OKC 11/29/2013 OKC vs. GSW W 27 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 0 0 1 0 3 4
+p749
+aVDerek Fisher OKC 11/29/2013 OKC vs. GSW W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p750
+aVSteven Adams OKC 11/29/2013 OKC vs. GSW W 14 5 2 3 66.7 0 0 - 1 2 50.0 4 3 7 1 0 1 0 3 -13
+p751
+aVJeremy Lamb OKC 11/27/2013 OKC vs. SAS W 20 12 5 7 71.4 2 3 66.7 0 0 - 0 2 2 1 0 0 0 1 -1
+p752
+aVSteven Adams OKC 11/27/2013 OKC vs. SAS W 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -3
+p753
+aVThabo Sefolosha OKC 11/27/2013 OKC vs. SAS W 28 6 3 4 75.0 0 0 - 0 0 - 2 5 7 3 0 0 1 1 7
+p754
+aVKendrick Perkins OKC 11/27/2013 OKC vs. SAS W 17 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 1 0 0 1 3 7
+p755
+aVKevin Durant OKC 11/27/2013 OKC vs. SAS W 38 24 10 23 43.5 1 5 20.0 3 3 100.0 0 13 13 4 0 0 6 1 6
+p756
+aVDerek Fisher OKC 11/27/2013 OKC vs. SAS W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 0
+p757
+aVRussell Westbrook OKC 11/27/2013 OKC vs. SAS W 32 6 2 16 12.5 0 5 0.0 2 4 50.0 0 3 3 8 2 0 2 3 2
+p758
+aVReggie Jackson OKC 11/27/2013 OKC vs. SAS W 26 23 10 14 71.4 1 2 50.0 2 2 100.0 1 3 4 2 1 0 2 0 5
+p759
+aVSerge Ibaka OKC 11/27/2013 OKC vs. SAS W 38 17 7 15 46.7 0 0 - 3 4 75.0 2 9 11 2 1 5 0 1 9
+p760
+aVNick Collison OKC 11/27/2013 OKC vs. SAS W 19 0 0 1 0.0 0 0 - 0 0 - 3 0 3 2 1 1 2 2 -2
+p761
+aVAndre Roberson OKC 11/24/2013 OKC vs. UTA W 13 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 0 1 4 -13
+p762
+aVNick Collison OKC 11/24/2013 OKC vs. UTA W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 0 1
+p763
+aVKendrick Perkins OKC 11/24/2013 OKC vs. UTA W 21 4 2 4 50.0 0 0 - 0 0 - 1 0 1 2 0 1 0 5 26
+p764
+aVDerek Fisher OKC 11/24/2013 OKC vs. UTA W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 1 0 0 0 7
+p765
+aVRyan Gomes OKC 11/24/2013 OKC vs. UTA W 10 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p766
+aVThabo Sefolosha OKC 11/24/2013 OKC vs. UTA W 27 9 3 6 50.0 1 3 33.3 2 2 100.0 0 3 3 3 2 0 1 0 20
+p767
+aVJeremy Lamb OKC 11/24/2013 OKC vs. UTA W 25 15 7 13 53.8 0 2 0.0 1 1 100.0 0 2 2 2 1 0 2 3 -3
+p768
+aVReggie Jackson OKC 11/24/2013 OKC vs. UTA W 26 10 5 8 62.5 0 1 0.0 0 0 - 0 3 3 7 2 0 2 1 28
+p769
+aVSerge Ibaka OKC 11/24/2013 OKC vs. UTA W 30 17 8 13 61.5 0 0 - 1 2 50.0 2 9 11 0 0 3 1 1 31
+p770
+aVKevin Durant OKC 11/24/2013 OKC vs. UTA W 26 19 3 9 33.3 1 1 100.0 12 13 92.3 0 9 9 2 2 0 3 1 27
+p771
+aVPerry Jones III OKC 11/24/2013 OKC vs. UTA W 19 13 5 7 71.4 3 3 100.0 0 0 - 0 3 3 1 1 0 1 4 -3
+p772
+aVSteven Adams OKC 11/24/2013 OKC vs. UTA W 27 3 1 5 20.0 0 0 - 1 2 50.0 0 7 7 2 1 0 4 4 -4
+p773
+aVThabo Sefolosha OKC 11/21/2013 OKC vs. LAC W 22 7 2 6 33.3 1 3 33.3 2 2 100.0 1 4 5 1 0 0 1 1 3
+p774
+aVRussell Westbrook OKC 11/21/2013 OKC vs. LAC W 31 12 5 13 38.5 0 6 0.0 2 3 66.7 0 6 6 5 1 0 3 3 1
+p775
+aVAndre Roberson OKC 11/21/2013 OKC vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p776
+aVNick Collison OKC 11/21/2013 OKC vs. LAC W 12 4 1 1 100.0 0 0 - 2 3 66.7 1 2 3 1 2 0 0 1 1
+p777
+aVSerge Ibaka OKC 11/21/2013 OKC vs. LAC W 31 17 8 10 80.0 0 0 - 1 2 50.0 0 5 5 1 1 3 3 3 9
+p778
+aVSteven Adams OKC 11/21/2013 OKC vs. LAC W 24 6 2 5 40.0 0 0 - 2 4 50.0 3 4 7 2 0 3 1 4 10
+p779
+aVDerek Fisher OKC 11/21/2013 OKC vs. LAC W 18 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 2 0 2 1 11
+p780
+aVKevin Durant OKC 11/21/2013 OKC vs. LAC W 39 28 10 19 52.6 2 5 40.0 6 9 66.7 0 6 6 8 1 0 1 0 9
+p781
+aVJeremy Lamb OKC 11/21/2013 OKC vs. LAC W 20 11 5 10 50.0 1 5 20.0 0 0 - 1 3 4 2 0 1 1 0 9
+p782
+aVPerry Jones III OKC 11/21/2013 OKC vs. LAC W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 0
+p783
+aVReggie Jackson OKC 11/21/2013 OKC vs. LAC W 21 9 4 8 50.0 0 0 - 1 2 50.0 1 5 6 3 0 0 3 2 14
+p784
+aVKendrick Perkins OKC 11/21/2013 OKC vs. LAC W 20 6 3 6 50.0 0 0 - 0 0 - 2 2 4 1 0 0 1 1 3
+p785
+aVRussell Westbrook OKC 11/18/2013 OKC vs. DEN W 38 30 10 25 40.0 3 4 75.0 7 10 70.0 2 10 12 7 0 0 5 2 5
+p786
+aVPerry Jones III OKC 11/18/2013 OKC vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p787
+aVThabo Sefolosha OKC 11/18/2013 OKC vs. DEN W 22 8 3 6 50.0 2 3 66.7 0 0 - 2 1 3 1 1 1 0 2 -10
+p788
+aVNick Collison OKC 11/18/2013 OKC vs. DEN W 19 4 2 5 40.0 0 0 - 0 0 - 2 4 6 1 0 0 0 3 -1
+p789
+aVSteven Adams OKC 11/18/2013 OKC vs. DEN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -4
+p790
+aVJeremy Lamb OKC 11/18/2013 OKC vs. DEN W 20 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 0 2 0 0 3 0
+p791
+aVReggie Jackson OKC 11/18/2013 OKC vs. DEN W 24 14 4 11 36.4 2 6 33.3 4 4 100.0 2 5 7 2 1 0 2 1 7
+p792
+aVKevin Durant OKC 11/18/2013 OKC vs. DEN W 43 38 11 27 40.7 3 9 33.3 13 16 81.3 3 5 8 6 1 1 3 2 5
+p793
+aVKendrick Perkins OKC 11/18/2013 OKC vs. DEN W 15 2 1 4 25.0 0 0 - 0 0 - 3 2 5 2 0 0 2 3 -11
+p794
+aVDerek Fisher OKC 11/18/2013 OKC vs. DEN W 19 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 0 1 0 0 4 13
+p795
+aVSerge Ibaka OKC 11/18/2013 OKC vs. DEN W 31 6 3 7 42.9 0 0 - 0 0 - 5 2 7 4 0 3 0 5 4
+p796
+aVAndre Roberson OKC 11/16/2013 OKC @ MIL W 13 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p797
+aVSteven Adams OKC 11/16/2013 OKC @ MIL W 14 2 0 4 0.0 0 0 - 2 2 100.0 4 3 7 1 1 2 0 3 10
+p798
+aVKendrick Perkins OKC 11/16/2013 OKC @ MIL W 19 2 1 1 100.0 0 0 - 0 2 0.0 1 4 5 3 0 0 2 3 -5
+p799
+aVRussell Westbrook OKC 11/16/2013 OKC @ MIL W 33 26 10 20 50.0 1 4 25.0 5 8 62.5 0 3 3 4 1 0 3 1 8
+p800
+aVNick Collison OKC 11/16/2013 OKC @ MIL W 25 3 1 5 20.0 0 1 0.0 1 2 50.0 0 4 4 2 0 0 0 2 16
+p801
+aVSerge Ibaka OKC 11/16/2013 OKC @ MIL W 34 15 6 13 46.2 0 1 0.0 3 4 75.0 4 16 20 1 0 4 0 3 5
+p802
+aVKevin Durant OKC 11/16/2013 OKC @ MIL W 37 24 7 15 46.7 3 5 60.0 7 7 100.0 1 4 5 2 1 0 3 1 3
+p803
+aVJeremy Lamb OKC 11/16/2013 OKC @ MIL W 26 7 3 11 27.3 1 3 33.3 0 0 - 0 3 3 2 2 0 1 1 10
+p804
+aVDerek Fisher OKC 11/16/2013 OKC @ MIL W 20 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 3 5
+p805
+aVReggie Jackson OKC 11/16/2013 OKC @ MIL W 20 11 5 10 50.0 0 1 0.0 1 2 50.0 1 0 1 2 1 0 2 1 11
+p806
+aVKevin Durant OKC 11/14/2013 OKC @ GSW L 42 20 5 13 38.5 2 6 33.3 8 9 88.9 1 6 7 8 0 0 5 5 -2
+p807
+aVJeremy Lamb OKC 11/14/2013 OKC @ GSW L 18 9 3 9 33.3 3 7 42.9 0 0 - 0 0 0 1 0 0 0 1 -1
+p808
+aVSteven Adams OKC 11/14/2013 OKC @ GSW L 14 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -10
+p809
+aVHasheem Thabeet OKC 11/14/2013 OKC @ GSW L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 8
+p810
+aVReggie Jackson OKC 11/14/2013 OKC @ GSW L 22 12 5 9 55.6 0 1 0.0 2 2 100.0 1 4 5 3 0 0 3 0 10
+p811
+aVSerge Ibaka OKC 11/14/2013 OKC @ GSW L 42 27 9 14 64.3 0 0 - 9 9 100.0 5 8 13 0 0 3 3 3 -3
+p812
+aVThabo Sefolosha OKC 11/14/2013 OKC @ GSW L 34 9 3 8 37.5 2 3 66.7 1 1 100.0 2 7 9 1 0 0 0 0 1
+p813
+aVRussell Westbrook OKC 11/14/2013 OKC @ GSW L 36 31 13 20 65.0 2 5 40.0 3 5 60.0 2 7 9 5 3 0 5 3 -3
+p814
+aVNick Collison OKC 11/14/2013 OKC @ GSW L 21 2 1 5 20.0 0 0 - 0 0 - 2 2 4 1 1 0 1 1 -8
+p815
+aVPerry Jones III OKC 11/14/2013 OKC @ GSW L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p816
+aVJeremy Lamb OKC 11/13/2013 OKC @ LAC L 14 0 0 5 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 1 2 -2
+p817
+aVRussell Westbrook OKC 11/13/2013 OKC @ LAC L 35 19 7 18 38.9 2 4 50.0 3 5 60.0 2 2 4 10 2 0 5 2 -2
+p818
+aVSerge Ibaka OKC 11/13/2013 OKC @ LAC L 17 13 6 6 100.0 0 0 - 1 1 100.0 0 2 2 1 0 0 1 0 0
+p819
+aVKevin Durant OKC 11/13/2013 OKC @ LAC L 42 33 8 18 44.4 2 6 33.3 15 17 88.2 1 5 6 10 2 0 5 4 -9
+p820
+aVThabo Sefolosha OKC 11/13/2013 OKC @ LAC L 35 7 2 5 40.0 0 2 0.0 3 3 100.0 0 3 3 1 6 1 4 5 -4
+p821
+aVHasheem Thabeet OKC 11/13/2013 OKC @ LAC L 14 4 2 4 50.0 0 0 - 0 1 0.0 1 4 5 0 0 0 0 3 -11
+p822
+aVNick Collison OKC 11/13/2013 OKC @ LAC L 20 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 0 0 5 5
+p823
+aVRyan Gomes OKC 11/13/2013 OKC @ LAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -5
+p824
+aVReggie Jackson OKC 11/13/2013 OKC @ LAC L 25 9 2 6 33.3 1 1 100.0 4 4 100.0 0 3 3 4 1 0 2 2 -6
+p825
+aVDerek Fisher OKC 11/13/2013 OKC @ LAC L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -7
+p826
+aVPerry Jones III OKC 11/13/2013 OKC @ LAC L 6 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 1 0 0 6
+p827
+aVSteven Adams OKC 11/13/2013 OKC @ LAC L 21 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 2 -5
+p828
+aVSteven Adams OKC 11/10/2013 OKC vs. WAS W 20 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 0 0 2 1 2 0
+p829
+aVSerge Ibaka OKC 11/10/2013 OKC vs. WAS W 46 25 11 18 61.1 0 1 0.0 3 4 75.0 4 8 12 0 0 3 2 4 -1
+p830
+aVKevin Durant OKC 11/10/2013 OKC vs. WAS W 46 33 12 23 52.2 1 4 25.0 8 9 88.9 3 10 13 6 0 1 5 3 1
+p831
+aVRussell Westbrook OKC 11/10/2013 OKC vs. WAS W 30 13 4 16 25.0 3 7 42.9 2 2 100.0 3 1 4 4 1 0 5 3 -9
+p832
+aVDerek Fisher OKC 11/10/2013 OKC vs. WAS W 6 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -4
+p833
+aVReggie Jackson OKC 11/10/2013 OKC vs. WAS W 28 12 6 10 60.0 0 1 0.0 0 0 - 0 7 7 4 2 0 2 2 10
+p834
+aVThabo Sefolosha OKC 11/10/2013 OKC vs. WAS W 36 8 4 8 50.0 0 0 - 0 0 - 2 6 8 3 2 1 1 2 4
+p835
+aVPerry Jones III OKC 11/10/2013 OKC vs. WAS W 14 5 2 4 50.0 1 2 50.0 0 0 - 1 4 5 1 0 1 0 0 -1
+p836
+aVKendrick Perkins OKC 11/10/2013 OKC vs. WAS W 19 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 3 0 0 1 3 -8
+p837
+aVJeremy Lamb OKC 11/10/2013 OKC vs. WAS W 20 8 2 6 33.3 1 4 25.0 3 3 100.0 0 2 2 0 2 0 0 1 13
+p838
+aVJeremy Lamb OKC 11/08/2013 OKC @ DET W 16 10 3 6 50.0 2 3 66.7 2 2 100.0 0 0 0 0 0 0 0 3 17
+p839
+aVKevin Durant OKC 11/08/2013 OKC @ DET W 44 37 9 15 60.0 2 3 66.7 17 19 89.5 2 6 8 7 3 1 3 3 6
+p840
+aVReggie Jackson OKC 11/08/2013 OKC @ DET W 18 6 2 7 28.6 0 0 - 2 2 100.0 0 6 6 6 0 0 1 1 23
+p841
+aVThabo Sefolosha OKC 11/08/2013 OKC @ DET W 29 9 3 9 33.3 1 6 16.7 2 2 100.0 3 4 7 2 0 0 4 1 -8
+p842
+aVNick Collison OKC 11/08/2013 OKC @ DET W 21 9 3 3 100.0 0 0 - 3 3 100.0 0 4 4 1 1 0 0 0 20
+p843
+aVRussell Westbrook OKC 11/08/2013 OKC @ DET W 30 20 5 19 26.3 1 3 33.3 9 10 90.0 2 3 5 0 3 0 4 3 -10
+p844
+aVDerek Fisher OKC 11/08/2013 OKC @ DET W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 3
+p845
+aVKendrick Perkins OKC 11/08/2013 OKC @ DET W 17 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 2 1 4 -15
+p846
+aVSerge Ibaka OKC 11/08/2013 OKC @ DET W 27 11 5 9 55.6 0 1 0.0 1 2 50.0 4 5 9 2 0 3 0 1 -11
+p847
+aVSteven Adams OKC 11/08/2013 OKC @ DET W 31 17 7 10 70.0 0 0 - 3 4 75.0 5 5 10 3 1 3 0 5 20
+p848
+aVKendrick Perkins OKC 11/06/2013 OKC vs. DAL W 14 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 0 3 1 4
+p849
+aVReggie Jackson OKC 11/06/2013 OKC vs. DAL W 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 5 0 0 1 0 11
+p850
+aVSteven Adams OKC 11/06/2013 OKC vs. DAL W 20 6 2 3 66.7 0 0 - 2 2 100.0 2 7 9 0 2 1 0 1 8
+p851
+aVKevin Durant OKC 11/06/2013 OKC vs. DAL W 37 23 7 16 43.8 1 2 50.0 8 9 88.9 1 2 3 10 2 0 5 2 6
+p852
+aVNick Collison OKC 11/06/2013 OKC vs. DAL W 17 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 0 1 0 1 5 7
+p853
+aVThabo Sefolosha OKC 11/06/2013 OKC vs. DAL W 24 5 2 5 40.0 0 3 0.0 1 2 50.0 0 2 2 4 2 0 1 0 1
+p854
+aVSerge Ibaka OKC 11/06/2013 OKC vs. DAL W 36 17 8 10 80.0 1 1 100.0 0 0 - 3 10 13 1 1 3 2 2 8
+p855
+aVJeremy Lamb OKC 11/06/2013 OKC vs. DAL W 20 13 4 7 57.1 3 5 60.0 2 2 100.0 0 3 3 3 0 1 2 2 4
+p856
+aVPerry Jones III OKC 11/06/2013 OKC vs. DAL W 10 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 5
+p857
+aVDerek Fisher OKC 11/06/2013 OKC vs. DAL W 16 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 1 0 0 0 2 3
+p858
+aVRussell Westbrook OKC 11/06/2013 OKC vs. DAL W 33 22 10 20 50.0 0 1 0.0 2 5 40.0 0 1 1 4 2 0 5 2 11
+p859
+aVAndre Roberson OKC 11/06/2013 OKC vs. DAL W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 2
+p860
+aVThabo Sefolosha OKC 11/03/2013 OKC vs. PHX W 24 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 2 -6
+p861
+aVJeremy Lamb OKC 11/03/2013 OKC vs. PHX W 16 8 3 5 60.0 0 2 0.0 2 2 100.0 0 2 2 1 0 1 0 3 4
+p862
+aVDerek Fisher OKC 11/03/2013 OKC vs. PHX W 20 9 3 4 75.0 0 1 0.0 3 3 100.0 0 2 2 1 2 0 0 2 14
+p863
+aVRussell Westbrook OKC 11/03/2013 OKC vs. PHX W 33 21 5 16 31.3 0 2 0.0 11 14 78.6 1 3 4 7 1 0 4 3 1
+p864
+aVKevin Durant OKC 11/03/2013 OKC vs. PHX W 40 33 10 19 52.6 2 5 40.0 11 13 84.6 1 9 10 1 2 0 3 1 3
+p865
+aVSteven Adams OKC 11/03/2013 OKC vs. PHX W 9 2 1 3 33.3 0 0 - 0 0 - 4 0 4 0 0 1 1 2 -7
+p866
+aVNick Collison OKC 11/03/2013 OKC vs. PHX W 21 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 1 0 3 3 4
+p867
+aVSerge Ibaka OKC 11/03/2013 OKC vs. PHX W 25 9 4 12 33.3 0 1 0.0 1 1 100.0 4 6 10 0 0 0 1 3 4
+p868
+aVPerry Jones III OKC 11/03/2013 OKC vs. PHX W 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 6
+p869
+aVReggie Jackson OKC 11/03/2013 OKC vs. PHX W 28 10 5 12 41.7 0 4 0.0 0 0 - 0 4 4 5 1 1 2 1 12
+p870
+aVKendrick Perkins OKC 11/03/2013 OKC vs. PHX W 16 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 1 0 1 2 0
+p871
+aVNick Collison OKC 11/01/2013 OKC @ MIN L 16 7 2 3 66.7 1 1 100.0 2 2 100.0 0 0 0 0 0 0 2 3 -21
+p872
+aVJeremy Lamb OKC 11/01/2013 OKC @ MIN L 21 16 7 15 46.7 2 5 40.0 0 0 - 0 4 4 2 0 1 1 1 -2
+p873
+aVSteven Adams OKC 11/01/2013 OKC @ MIN L 23 8 2 5 40.0 0 0 - 4 6 66.7 5 3 8 1 0 1 0 5 -14
+p874
+aVReggie Jackson OKC 11/01/2013 OKC @ MIN L 24 8 3 9 33.3 0 5 0.0 2 2 100.0 0 3 3 4 1 0 7 2 -20
+p875
+aVKevin Durant OKC 11/01/2013 OKC @ MIN L 27 13 4 11 36.4 1 5 20.0 4 5 80.0 0 4 4 1 0 2 4 3 -20
+p876
+aVRyan Gomes OKC 11/01/2013 OKC @ MIN L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 12
+p877
+aVKendrick Perkins OKC 11/01/2013 OKC @ MIN L 17 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 1 1 2 3 -3
+p878
+aVAndre Roberson OKC 11/01/2013 OKC @ MIN L 9 0 0 2 0.0 0 1 0.0 0 0 - 4 1 5 0 0 0 1 0 13
+p879
+aVPerry Jones III OKC 11/01/2013 OKC @ MIN L 25 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 0 1 1 1 2 3
+p880
+aVDerek Fisher OKC 11/01/2013 OKC @ MIN L 18 7 3 6 50.0 1 4 25.0 0 0 - 0 2 2 4 0 0 2 3 -11
+p881
+aVSerge Ibaka OKC 11/01/2013 OKC @ MIN L 31 9 3 13 23.1 1 4 25.0 2 2 100.0 2 7 9 1 0 0 1 3 -13
+p882
+aVThabo Sefolosha OKC 11/01/2013 OKC @ MIN L 23 4 1 8 12.5 0 2 0.0 2 2 100.0 3 1 4 1 2 0 0 3 -19
+p883
+aVThabo Sefolosha OKC 10/30/2013 OKC @ UTA W 31 14 6 11 54.5 2 5 40.0 0 0 - 0 4 4 1 2 0 1 2 9
+p884
+aVDerek Fisher OKC 10/30/2013 OKC @ UTA W 17 4 1 3 33.3 0 1 0.0 2 2 100.0 0 3 3 2 1 0 0 1 0
+p885
+aVNick Collison OKC 10/30/2013 OKC @ UTA W 13 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 1 1 1 5 3
+p886
+aVKevin Durant OKC 10/30/2013 OKC @ UTA W 39 42 9 24 37.5 2 8 25.0 22 24 91.7 0 6 6 1 3 0 5 1 3
+p887
+aVPerry Jones III OKC 10/30/2013 OKC @ UTA W 7 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 1 2
+p888
+aVKendrick Perkins OKC 10/30/2013 OKC @ UTA W 27 4 2 4 50.0 0 0 - 0 0 - 2 6 8 1 1 0 1 4 9
+p889
+aVReggie Jackson OKC 10/30/2013 OKC @ UTA W 32 14 5 11 45.5 2 4 50.0 2 2 100.0 0 2 2 3 5 0 3 2 1
+p890
+aVSteven Adams OKC 10/30/2013 OKC @ UTA W 18 2 1 1 100.0 0 0 - 0 1 0.0 2 1 3 1 0 0 0 3 -7
+p891
+aVSerge Ibaka OKC 10/30/2013 OKC @ UTA W 38 8 4 15 26.7 0 0 - 0 0 - 4 6 10 0 1 2 1 3 1
+p892
+aVJeremy Lamb OKC 10/30/2013 OKC @ UTA W 17 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 0 1 0 0 2 -6
+p893
+a.

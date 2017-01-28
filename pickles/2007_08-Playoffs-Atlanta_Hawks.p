@@ -1,0 +1,154 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJosh Smith ATL 05/04/2008 ATL @ BOS L 28 7 3 11 27.3 0 0 - 1 2 50.0 1 3 4 2 2 1 5 3 -31
+p2
+aVAl Horford ATL 05/04/2008 ATL @ BOS L 44 8 3 12 25.0 0 0 - 2 3 66.7 5 7 12 3 0 2 3 2 -30
+p3
+aVSalim Stoudamire ATL 05/04/2008 ATL @ BOS L 15 10 4 6 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 1 1 -4
+p4
+aVJosh Childress ATL 05/04/2008 ATL @ BOS L 30 6 3 8 37.5 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -18
+p5
+aVJeremy Richardson ATL 05/04/2008 ATL @ BOS L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p6
+aVMike Bibby ATL 05/04/2008 ATL @ BOS L 25 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 0 0 1 0 -27
+p7
+aVJoe Johnson ATL 05/04/2008 ATL @ BOS L 36 16 5 17 29.4 4 8 50.0 2 2 100.0 1 2 3 1 0 0 2 2 -36
+p8
+aVZaza Pachulia ATL 05/04/2008 ATL @ BOS L 10 7 1 6 16.7 0 1 0.0 5 5 100.0 1 3 4 0 0 0 1 4 -4
+p9
+aVMario West ATL 05/04/2008 ATL @ BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p10
+aVAcie Law ATL 05/04/2008 ATL @ BOS L 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 0 -1
+p11
+aVSolomon Jones ATL 05/04/2008 ATL @ BOS L 13 2 1 4 25.0 0 0 - 0 2 0.0 4 2 6 0 0 2 0 1 -2
+p12
+aVMarvin Williams ATL 05/04/2008 ATL @ BOS L 21 7 3 11 27.3 0 0 - 1 2 50.0 4 3 7 0 0 0 1 3 -21
+p13
+aVJoe Johnson ATL 05/02/2008 ATL vs. BOS W 44 15 4 13 30.8 1 2 50.0 6 7 85.7 1 3 4 5 0 0 2 2 -8
+p14
+aVMarvin Williams ATL 05/02/2008 ATL vs. BOS W 28 18 6 9 66.7 0 0 - 6 6 100.0 1 3 4 2 0 1 1 4 -2
+p15
+aVAl Horford ATL 05/02/2008 ATL vs. BOS W 36 16 5 10 50.0 0 0 - 6 7 85.7 2 3 5 4 0 3 1 4 -9
+p16
+aVJosh Smith ATL 05/02/2008 ATL vs. BOS W 30 11 3 8 37.5 0 1 0.0 5 6 83.3 0 6 6 2 0 3 6 5 2
+p17
+aVMario West ATL 05/02/2008 ATL vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p18
+aVJosh Childress ATL 05/02/2008 ATL vs. BOS W 26 15 6 8 75.0 0 0 - 3 4 75.0 3 3 6 3 1 0 0 0 7
+p19
+aVZaza Pachulia ATL 05/02/2008 ATL vs. BOS W 28 9 3 4 75.0 0 0 - 3 7 42.9 4 2 6 0 2 0 1 4 11
+p20
+aVAcie Law ATL 05/02/2008 ATL vs. BOS W 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 1 1 5
+p21
+aVSolomon Jones ATL 05/02/2008 ATL vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p22
+aVMike Bibby ATL 05/02/2008 ATL vs. BOS W 41 17 6 17 35.3 0 4 0.0 5 8 62.5 2 4 6 7 1 0 0 3 8
+p23
+aVSalim Stoudamire ATL 04/30/2008 ATL @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p24
+aVAl Horford ATL 04/30/2008 ATL @ BOS L 41 14 7 11 63.6 0 0 - 0 2 0.0 2 8 10 5 1 1 3 4 -18
+p25
+aVJeremy Richardson ATL 04/30/2008 ATL @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p26
+aVZaza Pachulia ATL 04/30/2008 ATL @ BOS L 11 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -9
+p27
+aVJoe Johnson ATL 04/30/2008 ATL @ BOS L 34 21 6 11 54.5 2 4 50.0 7 7 100.0 1 2 3 2 1 0 1 3 -7
+p28
+aVJosh Childress ATL 04/30/2008 ATL @ BOS L 26 5 2 8 25.0 0 0 - 1 2 50.0 3 3 6 2 0 0 0 0 -19
+p29
+aVSolomon Jones ATL 04/30/2008 ATL @ BOS L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -7
+p30
+aVMarvin Williams ATL 04/30/2008 ATL @ BOS L 37 12 4 10 40.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 3 -22
+p31
+aVAcie Law ATL 04/30/2008 ATL @ BOS L 8 5 1 1 100.0 0 0 - 3 4 75.0 0 0 0 2 0 0 1 0 -10
+p32
+aVMike Bibby ATL 04/30/2008 ATL @ BOS L 39 6 2 8 25.0 2 5 40.0 0 0 - 0 2 2 1 0 1 3 3 -17
+p33
+aVJosh Smith ATL 04/30/2008 ATL @ BOS L 35 18 4 13 30.8 0 4 0.0 10 10 100.0 1 4 5 3 3 1 4 3 -16
+p34
+aVMario West ATL 04/28/2008 ATL vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p35
+aVMike Bibby ATL 04/28/2008 ATL vs. BOS W 40 18 5 8 62.5 2 4 50.0 6 8 75.0 0 3 3 2 1 0 4 3 2
+p36
+aVAcie Law ATL 04/28/2008 ATL vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p37
+aVAl Horford ATL 04/28/2008 ATL vs. BOS W 44 4 1 6 16.7 0 0 - 2 2 100.0 3 10 13 2 0 0 4 4 6
+p38
+aVZaza Pachulia ATL 04/28/2008 ATL vs. BOS W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 8
+p39
+aVJosh Smith ATL 04/28/2008 ATL vs. BOS W 37 28 8 16 50.0 0 6 0.0 12 13 92.3 0 6 6 2 2 7 1 3 -4
+p40
+aVSolomon Jones ATL 04/28/2008 ATL vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 0
+p41
+aVJoe Johnson ATL 04/28/2008 ATL vs. BOS W 46 35 14 24 58.3 2 6 33.3 5 6 83.3 0 1 1 6 0 0 4 2 6
+p42
+aVJosh Childress ATL 04/28/2008 ATL vs. BOS W 32 4 2 6 33.3 0 2 0.0 0 0 - 4 5 9 2 0 0 0 2 18
+p43
+aVMarvin Williams ATL 04/28/2008 ATL vs. BOS W 22 8 2 4 50.0 0 0 - 4 4 100.0 0 2 2 2 1 0 4 4 -10
+p44
+aVMario West ATL 04/26/2008 ATL vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p45
+aVMarvin Williams ATL 04/26/2008 ATL vs. BOS W 24 13 4 8 50.0 0 0 - 5 5 100.0 3 3 6 1 0 0 2 3 -9
+p46
+aVJosh Smith ATL 04/26/2008 ATL vs. BOS W 44 27 11 17 64.7 3 6 50.0 2 3 66.7 2 7 9 6 2 1 3 3 12
+p47
+aVSolomon Jones ATL 04/26/2008 ATL vs. BOS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p48
+aVJosh Childress ATL 04/26/2008 ATL vs. BOS W 31 6 3 4 75.0 0 0 - 0 1 0.0 1 1 2 1 0 2 0 2 13
+p49
+aVJoe Johnson ATL 04/26/2008 ATL vs. BOS W 41 23 7 18 38.9 5 8 62.5 4 4 100.0 2 5 7 6 1 0 0 3 14
+p50
+aVZaza Pachulia ATL 04/26/2008 ATL vs. BOS W 14 4 0 2 0.0 0 0 - 4 4 100.0 2 2 4 0 0 0 3 3 -6
+p51
+aVAl Horford ATL 04/26/2008 ATL vs. BOS W 35 17 7 14 50.0 0 0 - 3 4 75.0 2 12 14 6 1 0 1 3 18
+p52
+aVMike Bibby ATL 04/26/2008 ATL vs. BOS W 44 12 4 12 33.3 2 4 50.0 2 6 33.3 0 1 1 8 2 1 2 1 12
+p53
+aVAcie Law ATL 04/26/2008 ATL vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p54
+aVAcie Law ATL 04/23/2008 ATL @ BOS L 21 12 4 4 100.0 0 0 - 4 4 100.0 0 0 0 1 1 0 4 3 -4
+p55
+aVSolomon Jones ATL 04/23/2008 ATL @ BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p56
+aVMarvin Williams ATL 04/23/2008 ATL @ BOS L 33 13 3 9 33.3 0 0 - 7 9 77.8 2 2 4 0 1 0 1 2 -17
+p57
+aVMario West ATL 04/23/2008 ATL @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p58
+aVJosh Childress ATL 04/23/2008 ATL @ BOS L 28 4 2 3 66.7 0 0 - 0 1 0.0 0 6 6 1 0 1 1 1 -7
+p59
+aVAl Horford ATL 04/23/2008 ATL @ BOS L 37 9 4 9 44.4 0 0 - 1 2 50.0 1 8 9 3 0 0 2 6 -23
+p60
+aVJosh Smith ATL 04/23/2008 ATL @ BOS L 39 13 3 13 23.1 0 1 0.0 7 10 70.0 1 7 8 3 2 4 5 5 -20
+p61
+aVZaza Pachulia ATL 04/23/2008 ATL @ BOS L 18 3 1 4 25.0 0 0 - 1 1 100.0 0 1 1 0 0 0 2 2 4
+p62
+aVJoe Johnson ATL 04/23/2008 ATL @ BOS L 34 11 4 10 40.0 0 2 0.0 3 3 100.0 1 3 4 1 0 0 5 2 -18
+p63
+aVMike Bibby ATL 04/23/2008 ATL @ BOS L 28 12 2 7 28.6 0 2 0.0 8 10 80.0 0 3 3 1 0 0 1 1 -12
+p64
+aVSalim Stoudamire ATL 04/20/2008 ATL @ BOS L 11 2 0 3 0.0 0 3 0.0 2 2 100.0 0 1 1 0 1 0 1 1 -4
+p65
+aVJoe Johnson ATL 04/20/2008 ATL @ BOS L 41 19 7 22 31.8 2 6 33.3 3 4 75.0 3 2 5 7 0 0 2 2 -24
+p66
+aVMike Bibby ATL 04/20/2008 ATL @ BOS L 34 5 2 10 20.0 1 5 20.0 0 0 - 0 3 3 1 0 0 2 1 -15
+p67
+aVAcie Law ATL 04/20/2008 ATL @ BOS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -2
+p68
+aVAl Horford ATL 04/20/2008 ATL @ BOS L 40 20 7 10 70.0 0 0 - 6 7 85.7 7 3 10 2 1 1 1 3 -30
+p69
+aVZaza Pachulia ATL 04/20/2008 ATL @ BOS L 12 4 1 3 33.3 0 0 - 2 4 50.0 1 2 3 1 0 0 2 3 5
+p70
+aVJosh Smith ATL 04/20/2008 ATL @ BOS L 24 6 3 10 30.0 0 0 - 0 0 - 2 5 7 2 1 3 2 4 -18
+p71
+aVJeremy Richardson ATL 04/20/2008 ATL @ BOS L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p72
+aVMarvin Williams ATL 04/20/2008 ATL @ BOS L 34 9 2 7 28.6 0 0 - 5 6 83.3 0 3 3 0 0 2 4 2 -24
+p73
+aVSolomon Jones ATL 04/20/2008 ATL @ BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p74
+aVJosh Childress ATL 04/20/2008 ATL @ BOS L 33 10 4 5 80.0 0 0 - 2 4 50.0 2 5 7 1 0 2 1 1 -2
+p75
+aVMario West ATL 04/20/2008 ATL @ BOS L 3 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 0 -2
+p76
+a.

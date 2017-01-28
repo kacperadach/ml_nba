@@ -1,0 +1,1580 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJermaine O'Neal IND 04/17/2002 IND vs. PHI W 34 18 6 14 42.9 0 0 - 6 6 100.0 3 4 7 1 2 2 3 2 17
+p2
+aVRon Mercer IND 04/17/2002 IND vs. PHI W 15 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 1 5
+p3
+aVJonathan Bender IND 04/17/2002 IND vs. PHI W 23 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 6 7
+p4
+aVAustin Croshere IND 04/17/2002 IND vs. PHI W 10 3 0 3 0.0 0 1 0.0 3 4 75.0 2 5 7 2 0 0 2 0 0
+p5
+aVBruno Sundov IND 04/17/2002 IND vs. PHI W 5 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 2 4
+p6
+aVJeff Foster IND 04/17/2002 IND vs. PHI W 17 12 3 3 100.0 1 1 100.0 5 6 83.3 4 4 8 2 1 0 1 3 19
+p7
+aVBrad Miller IND 04/17/2002 IND vs. PHI W 26 19 7 13 53.8 1 2 50.0 4 5 80.0 3 4 7 4 1 0 3 4 7
+p8
+aVMetta World Peace IND 04/17/2002 IND vs. PHI W 29 11 5 11 45.5 0 4 0.0 1 1 100.0 1 6 7 3 3 0 1 4 13
+p9
+aVPrimoz Brezec IND 04/17/2002 IND vs. PHI W 4 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 0 0 0 0 1 1
+p10
+aVJamaal Tinsley IND 04/17/2002 IND vs. PHI W 23 6 3 4 75.0 0 1 0.0 0 0 - 1 0 1 5 0 1 4 1 3
+p11
+aVReggie Miller IND 04/17/2002 IND vs. PHI W 28 11 3 4 75.0 3 4 75.0 2 2 100.0 0 1 1 2 2 0 1 0 19
+p12
+aVKevin Ollie IND 04/17/2002 IND vs. PHI W 25 9 2 5 40.0 0 0 - 5 5 100.0 1 2 3 3 1 0 1 1 20
+p13
+aVJeff Foster IND 04/16/2002 IND @ CLE W 8 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 1 0 1 1 -11
+p14
+aVJamaal Tinsley IND 04/16/2002 IND @ CLE W 43 13 5 7 71.4 0 1 0.0 3 6 50.0 2 3 5 14 3 1 3 3 14
+p15
+aVReggie Miller IND 04/16/2002 IND @ CLE W 41 15 4 11 36.4 3 7 42.9 4 4 100.0 0 2 2 0 2 0 1 1 15
+p16
+aVRon Mercer IND 04/16/2002 IND @ CLE W 21 0 0 7 0.0 0 0 - 0 0 - 2 2 4 0 0 0 2 3 -6
+p17
+aVKevin Ollie IND 04/16/2002 IND @ CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -10
+p18
+aVJermaine O'Neal IND 04/16/2002 IND @ CLE W 39 34 11 19 57.9 0 0 - 12 16 75.0 1 6 7 3 0 2 2 5 17
+p19
+aVBrad Miller IND 04/16/2002 IND @ CLE W 38 13 5 10 50.0 0 0 - 3 4 75.0 1 7 8 3 2 0 0 5 -1
+p20
+aVMetta World Peace IND 04/16/2002 IND @ CLE W 32 19 5 14 35.7 0 1 0.0 9 10 90.0 5 5 10 1 3 0 2 5 14
+p21
+aVJonathan Bender IND 04/16/2002 IND @ CLE W 13 3 1 4 25.0 0 0 - 1 1 100.0 0 1 1 1 0 1 0 0 -12
+p22
+aVJeff Foster IND 04/14/2002 IND @ WAS W 18 4 2 2 100.0 0 0 - 0 0 - 0 5 5 1 0 0 2 2 -7
+p23
+aVJonathan Bender IND 04/14/2002 IND @ WAS W 22 6 2 5 40.0 1 1 100.0 1 1 100.0 0 1 1 0 0 1 0 2 -2
+p24
+aVAustin Croshere IND 04/14/2002 IND @ WAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p25
+aVRon Mercer IND 04/14/2002 IND @ WAS W 20 10 5 9 55.6 0 1 0.0 0 0 - 1 1 2 2 0 2 0 1 7
+p26
+aVMetta World Peace IND 04/14/2002 IND @ WAS W 11 5 2 5 40.0 0 1 0.0 1 2 50.0 1 1 2 0 2 0 2 4 4
+p27
+aVBrad Miller IND 04/14/2002 IND @ WAS W 38 17 7 13 53.8 0 0 - 3 5 60.0 3 8 11 2 1 0 2 3 9
+p28
+aVJamaal Tinsley IND 04/14/2002 IND @ WAS W 28 4 2 5 40.0 0 0 - 0 0 - 2 2 4 10 3 0 4 1 5
+p29
+aVJermaine O'Neal IND 04/14/2002 IND @ WAS W 44 26 10 18 55.6 0 0 - 6 9 66.7 0 8 8 3 1 1 3 5 6
+p30
+aVReggie Miller IND 04/14/2002 IND @ WAS W 37 10 4 8 50.0 2 3 66.7 0 0 - 0 1 1 2 1 0 2 1 9
+p31
+aVKevin Ollie IND 04/14/2002 IND @ WAS W 20 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 7 0 1 2 0 1
+p32
+aVAustin Croshere IND 04/12/2002 IND vs. MIL W 8 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 -2
+p33
+aVKevin Ollie IND 04/12/2002 IND vs. MIL W 29 7 2 2 100.0 0 0 - 3 3 100.0 0 1 1 4 0 0 1 1 0
+p34
+aVJonathan Bender IND 04/12/2002 IND vs. MIL W 41 16 6 9 66.7 2 3 66.7 2 2 100.0 1 3 4 3 0 0 1 3 8
+p35
+aVReggie Miller IND 04/12/2002 IND vs. MIL W 43 30 9 18 50.0 5 9 55.6 7 7 100.0 0 3 3 4 1 0 4 1 7
+p36
+aVBrad Miller IND 04/12/2002 IND vs. MIL W 44 24 8 12 66.7 0 0 - 8 10 80.0 0 8 8 3 2 1 1 2 5
+p37
+aVJamaal Tinsley IND 04/12/2002 IND vs. MIL W 25 4 1 6 16.7 0 2 0.0 2 2 100.0 1 2 3 9 1 1 1 2 3
+p38
+aVJermaine O'Neal IND 04/12/2002 IND vs. MIL W 45 20 8 14 57.1 0 0 - 4 6 66.7 1 12 13 3 0 0 3 4 3
+p39
+aVJeff Foster IND 04/12/2002 IND vs. MIL W 9 3 1 2 50.0 0 1 0.0 1 3 33.3 0 1 1 1 0 1 1 2 6
+p40
+aVMetta World Peace IND 04/12/2002 IND vs. MIL W 23 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 2 0 0 2 5 -5
+p41
+aVReggie Miller IND 04/10/2002 IND vs. TOR W 35 15 5 13 38.5 1 6 16.7 4 4 100.0 1 2 3 3 2 2 2 3 17
+p42
+aVMetta World Peace IND 04/10/2002 IND vs. TOR W 28 7 3 6 50.0 1 1 100.0 0 0 - 1 2 3 1 1 0 2 4 12
+p43
+aVJeff Foster IND 04/10/2002 IND vs. TOR W 12 4 2 3 66.7 0 0 - 0 2 0.0 2 0 2 0 0 0 1 3 -12
+p44
+aVRon Mercer IND 04/10/2002 IND vs. TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p45
+aVAustin Croshere IND 04/10/2002 IND vs. TOR W 4 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -3
+p46
+aVBrad Miller IND 04/10/2002 IND vs. TOR W 39 23 9 12 75.0 0 0 - 5 6 83.3 5 6 11 2 0 1 1 3 24
+p47
+aVJermaine O'Neal IND 04/10/2002 IND vs. TOR W 40 29 9 18 50.0 0 0 - 11 12 91.7 3 12 15 4 1 2 1 4 24
+p48
+aVJonathan Bender IND 04/10/2002 IND vs. TOR W 29 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 1 0 3 4 20
+p49
+aVJamaal Tinsley IND 04/10/2002 IND vs. TOR W 35 14 6 12 50.0 1 4 25.0 1 2 50.0 0 3 3 9 3 2 4 2 19
+p50
+aVKevin Ollie IND 04/10/2002 IND vs. TOR W 14 4 0 2 0.0 0 0 - 4 4 100.0 0 0 0 2 1 0 0 0 -7
+p51
+aVPrimoz Brezec IND 04/10/2002 IND vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p52
+aVBruno Sundov IND 04/10/2002 IND vs. TOR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p53
+aVJamaal Tinsley IND 04/08/2002 IND vs. CLE L 23 12 4 11 36.4 0 2 0.0 4 6 66.7 1 3 4 7 0 0 1 6 -7
+p54
+aVBrad Miller IND 04/08/2002 IND vs. CLE L 31 14 6 12 50.0 0 0 - 2 2 100.0 2 4 6 3 0 2 0 3 -4
+p55
+aVJeff Foster IND 04/08/2002 IND vs. CLE L 17 3 1 4 25.0 0 1 0.0 1 2 50.0 1 4 5 1 1 0 0 4 -4
+p56
+aVReggie Miller IND 04/08/2002 IND vs. CLE L 41 17 6 16 37.5 3 8 37.5 2 2 100.0 0 1 1 3 0 0 1 2 -14
+p57
+aVJonathan Bender IND 04/08/2002 IND vs. CLE L 29 20 7 11 63.6 1 2 50.0 5 7 71.4 1 5 6 0 0 0 1 1 -14
+p58
+aVKevin Ollie IND 04/08/2002 IND vs. CLE L 25 9 3 4 75.0 0 0 - 3 3 100.0 0 1 1 4 3 0 3 4 -5
+p59
+aVJermaine O'Neal IND 04/08/2002 IND vs. CLE L 43 18 5 13 38.5 0 0 - 8 8 100.0 0 6 6 2 0 4 2 5 -10
+p60
+aVRon Mercer IND 04/08/2002 IND vs. CLE L 31 6 1 5 20.0 0 0 - 4 4 100.0 0 3 3 2 0 0 0 5 -2
+p61
+aVBrad Miller IND 04/07/2002 IND @ TOR L 38 15 5 10 50.0 0 0 - 5 6 83.3 4 4 8 4 0 0 1 5 -9
+p62
+aVRon Mercer IND 04/07/2002 IND @ TOR L 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -7
+p63
+aVMetta World Peace IND 04/07/2002 IND @ TOR L 24 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 2 3 0 1 2 1
+p64
+aVJamaal Tinsley IND 04/07/2002 IND @ TOR L 24 0 0 2 0.0 0 0 - 0 0 - 0 1 1 5 2 0 3 3 -3
+p65
+aVKevin Ollie IND 04/07/2002 IND @ TOR L 24 1 0 3 0.0 0 0 - 1 1 100.0 0 0 0 8 1 0 2 0 -7
+p66
+aVJeff Foster IND 04/07/2002 IND @ TOR L 15 2 1 2 50.0 0 0 - 0 2 0.0 1 4 5 0 0 0 0 2 3
+p67
+aVJonathan Bender IND 04/07/2002 IND @ TOR L 20 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 0 0 1 2 4 0
+p68
+aVReggie Miller IND 04/07/2002 IND @ TOR L 38 26 8 12 66.7 6 7 85.7 4 4 100.0 0 1 1 2 2 0 2 1 -12
+p69
+aVJermaine O'Neal IND 04/07/2002 IND @ TOR L 43 24 10 20 50.0 0 2 0.0 4 9 44.4 1 6 7 1 0 2 3 5 -16
+p70
+aVJeff Foster IND 04/05/2002 IND vs. PHX W 15 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 1 0 2 0 -2
+p71
+aVKevin Ollie IND 04/05/2002 IND vs. PHX W 25 0 0 3 0.0 0 0 - 0 2 0.0 0 2 2 6 2 0 1 5 7
+p72
+aVMetta World Peace IND 04/05/2002 IND vs. PHX W 24 6 2 8 25.0 1 3 33.3 1 2 50.0 1 3 4 2 5 1 0 1 3
+p73
+aVJamaal Tinsley IND 04/05/2002 IND vs. PHX W 23 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 6 1 0 1 1 3
+p74
+aVBrad Miller IND 04/05/2002 IND vs. PHX W 41 25 10 19 52.6 0 0 - 5 7 71.4 3 6 9 4 0 0 0 2 10
+p75
+aVReggie Miller IND 04/05/2002 IND vs. PHX W 36 11 4 10 40.0 2 3 66.7 1 1 100.0 1 1 2 3 1 0 3 1 16
+p76
+aVJermaine O'Neal IND 04/05/2002 IND vs. PHX W 40 32 14 26 53.8 0 0 - 4 6 66.7 4 6 10 0 1 2 1 2 12
+p77
+aVJonathan Bender IND 04/05/2002 IND vs. PHX W 36 14 5 11 45.5 1 2 50.0 3 5 60.0 3 1 4 1 1 0 2 1 1
+p78
+aVJermaine O'Neal IND 04/04/2002 IND @ ATL L 44 22 5 15 33.3 0 0 - 12 13 92.3 3 11 14 0 1 1 2 3 -1
+p79
+aVMetta World Peace IND 04/04/2002 IND @ ATL L 26 7 2 8 25.0 1 4 25.0 2 2 100.0 1 1 2 0 0 3 2 4 -9
+p80
+aVJamaal Tinsley IND 04/04/2002 IND @ ATL L 21 2 1 7 14.3 0 4 0.0 0 0 - 0 3 3 4 3 0 2 1 -16
+p81
+aVJeff Foster IND 04/04/2002 IND @ ATL L 13 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 2 1
+p82
+aVReggie Miller IND 04/04/2002 IND @ ATL L 42 19 7 15 46.7 3 9 33.3 2 2 100.0 1 2 3 3 0 0 1 3 0
+p83
+aVKevin Ollie IND 04/04/2002 IND @ ATL L 27 6 1 2 50.0 0 0 - 4 6 66.7 0 5 5 5 4 0 0 1 15
+p84
+aVJonathan Bender IND 04/04/2002 IND @ ATL L 19 6 1 7 14.3 0 2 0.0 4 4 100.0 1 3 4 0 0 1 1 3 2
+p85
+aVBrad Miller IND 04/04/2002 IND @ ATL L 26 19 7 10 70.0 0 0 - 5 5 100.0 2 3 5 3 2 0 1 3 -15
+p86
+aVAustin Croshere IND 04/04/2002 IND @ ATL L 22 12 4 8 50.0 2 5 40.0 2 2 100.0 1 1 2 2 0 0 1 1 18
+p87
+aVJamaal Tinsley IND 04/02/2002 IND vs. BOS L 39 11 5 12 41.7 1 3 33.3 0 2 0.0 0 4 4 6 0 0 3 4 -1
+p88
+aVMetta World Peace IND 04/02/2002 IND vs. BOS L 37 15 7 16 43.8 1 3 33.3 0 0 - 3 4 7 6 2 2 4 6 -9
+p89
+aVJeff Foster IND 04/02/2002 IND vs. BOS L 8 3 1 2 50.0 0 0 - 1 2 50.0 4 0 4 1 1 0 3 2 -7
+p90
+aVReggie Miller IND 04/02/2002 IND vs. BOS L 38 26 7 14 50.0 3 8 37.5 9 10 90.0 0 1 1 2 2 0 2 3 -6
+p91
+aVKevin Ollie IND 04/02/2002 IND vs. BOS L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -10
+p92
+aVJermaine O'Neal IND 04/02/2002 IND vs. BOS L 44 18 8 14 57.1 0 0 - 2 3 66.7 4 8 12 3 0 0 1 4 -3
+p93
+aVJonathan Bender IND 04/02/2002 IND vs. BOS L 26 6 3 6 50.0 0 2 0.0 0 1 0.0 0 0 0 0 1 3 2 2 -17
+p94
+aVBrad Miller IND 04/02/2002 IND vs. BOS L 21 5 2 5 40.0 0 0 - 1 2 50.0 0 7 7 3 0 0 1 2 9
+p95
+aVAustin Croshere IND 04/02/2002 IND vs. BOS L 19 10 4 10 40.0 0 2 0.0 2 4 50.0 1 6 7 1 0 1 1 4 -11
+p96
+aVPrimoz Brezec IND 03/31/2002 IND vs. MIA W 7 0 0 2 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 2 -4
+p97
+aVKevin Ollie IND 03/31/2002 IND vs. MIA W 32 13 2 7 28.6 0 0 - 9 9 100.0 1 1 2 2 2 0 2 3 18
+p98
+aVBruno Sundov IND 03/31/2002 IND vs. MIA W 7 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -4
+p99
+aVJamaal Tinsley IND 03/31/2002 IND vs. MIA W 16 3 1 3 33.3 1 3 33.3 0 0 - 1 0 1 2 1 0 1 0 1
+p100
+aVReggie Miller IND 03/31/2002 IND vs. MIA W 26 14 6 12 50.0 1 2 50.0 1 1 100.0 0 1 1 3 0 1 2 1 5
+p101
+aVJeff Foster IND 03/31/2002 IND vs. MIA W 32 8 4 7 57.1 0 0 - 0 1 0.0 5 5 10 2 1 0 1 3 10
+p102
+aVAustin Croshere IND 03/31/2002 IND vs. MIA W 21 8 2 7 28.6 0 3 0.0 4 4 100.0 2 5 7 1 0 0 2 2 20
+p103
+aVJonathan Bender IND 03/31/2002 IND vs. MIA W 25 19 5 7 71.4 0 1 0.0 9 10 90.0 1 4 5 0 0 1 4 4 15
+p104
+aVBrad Miller IND 03/31/2002 IND vs. MIA W 28 7 2 6 33.3 0 0 - 3 4 75.0 4 7 11 1 0 0 1 2 16
+p105
+aVMetta World Peace IND 03/31/2002 IND vs. MIA W 45 24 10 18 55.6 1 4 25.0 3 4 75.0 0 9 9 9 8 2 2 2 18
+p106
+aVMetta World Peace IND 03/29/2002 IND @ ORL L 25 7 2 11 18.2 0 2 0.0 3 4 75.0 0 2 2 4 1 0 1 5 -12
+p107
+aVAustin Croshere IND 03/29/2002 IND @ ORL L 25 19 7 14 50.0 2 3 66.7 3 4 75.0 3 10 13 4 1 1 2 2 13
+p108
+aVBrad Miller IND 03/29/2002 IND @ ORL L 27 20 7 11 63.6 0 0 - 6 6 100.0 1 6 7 0 1 0 4 1 -24
+p109
+aVReggie Miller IND 03/29/2002 IND @ ORL L 43 16 5 12 41.7 3 7 42.9 3 4 75.0 0 2 2 6 0 2 0 0 -6
+p110
+aVJamaal Tinsley IND 03/29/2002 IND @ ORL L 34 12 4 10 40.0 2 5 40.0 2 2 100.0 0 4 4 4 4 0 8 6 7
+p111
+aVKevin Ollie IND 03/29/2002 IND @ ORL L 29 16 4 7 57.1 0 0 - 8 9 88.9 2 2 4 4 1 0 2 1 -4
+p112
+aVJeff Foster IND 03/29/2002 IND @ ORL L 28 10 4 7 57.1 0 0 - 2 2 100.0 5 3 8 2 2 0 3 2 -13
+p113
+aVRon Mercer IND 03/29/2002 IND @ ORL L 28 6 3 11 27.3 0 3 0.0 0 0 - 1 4 5 1 0 0 1 4 -1
+p114
+aVJonathan Bender IND 03/26/2002 IND vs. DET L 8 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 1 1 3 -3
+p115
+aVJeff Foster IND 03/26/2002 IND vs. DET L 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 1 1 1 -18
+p116
+aVMetta World Peace IND 03/26/2002 IND vs. DET L 33 11 4 15 26.7 0 6 0.0 3 4 75.0 1 7 8 0 4 0 2 5 -8
+p117
+aVAustin Croshere IND 03/26/2002 IND vs. DET L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p118
+aVJamaal Tinsley IND 03/26/2002 IND vs. DET L 25 5 2 7 28.6 1 4 25.0 0 0 - 2 1 3 6 0 0 6 2 -12
+p119
+aVRon Mercer IND 03/26/2002 IND vs. DET L 24 15 7 12 58.3 1 1 100.0 0 0 - 0 2 2 0 1 0 2 3 -16
+p120
+aVBrad Miller IND 03/26/2002 IND vs. DET L 35 18 8 14 57.1 0 0 - 2 3 66.7 8 7 15 1 0 0 4 5 -13
+p121
+aVKevin Ollie IND 03/26/2002 IND vs. DET L 18 0 0 1 0.0 0 0 - 0 0 - 0 3 3 6 0 0 0 2 -3
+p122
+aVReggie Miller IND 03/26/2002 IND vs. DET L 44 16 5 10 50.0 1 2 50.0 5 5 100.0 0 4 4 6 0 0 3 2 -16
+p123
+aVJermaine O'Neal IND 03/26/2002 IND vs. DET L 39 11 5 14 35.7 0 0 - 1 3 33.3 2 5 7 1 0 3 1 6 0
+p124
+aVAustin Croshere IND 03/24/2002 IND vs. CHH L 19 6 2 7 28.6 0 2 0.0 2 2 100.0 2 2 4 1 0 0 0 1 -21
+p125
+aVReggie Miller IND 03/24/2002 IND vs. CHH L 40 24 8 16 50.0 1 5 20.0 7 8 87.5 2 1 3 3 0 0 2 4 -12
+p126
+aVKevin Ollie IND 03/24/2002 IND vs. CHH L 22 6 2 9 22.2 0 0 - 2 2 100.0 0 2 2 2 2 0 0 3 -1
+p127
+aVJonathan Bender IND 03/24/2002 IND vs. CHH L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -6
+p128
+aVRon Mercer IND 03/24/2002 IND vs. CHH L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p129
+aVJamaal Tinsley IND 03/24/2002 IND vs. CHH L 26 9 4 11 36.4 1 3 33.3 0 0 - 3 2 5 6 4 0 3 6 -14
+p130
+aVJermaine O'Neal IND 03/24/2002 IND vs. CHH L 44 23 8 24 33.3 0 0 - 7 7 100.0 6 5 11 2 0 2 0 2 -12
+p131
+aVJeff Foster IND 03/24/2002 IND vs. CHH L 19 3 1 4 25.0 0 0 - 1 3 33.3 3 3 6 1 1 0 0 3 -5
+p132
+aVPrimoz Brezec IND 03/24/2002 IND vs. CHH L 10 2 0 3 0.0 0 0 - 2 2 100.0 4 1 5 0 0 0 1 4 11
+p133
+aVMetta World Peace IND 03/24/2002 IND vs. CHH L 39 11 5 13 38.5 1 4 25.0 0 0 - 2 7 9 1 4 0 2 6 -6
+p134
+aVJamaal Tinsley IND 03/22/2002 IND @ MIA W 33 5 2 4 50.0 0 2 0.0 1 1 100.0 0 2 2 7 0 1 4 2 13
+p135
+aVRon Mercer IND 03/22/2002 IND @ MIA W 19 17 6 9 66.7 0 0 - 5 5 100.0 0 2 2 0 0 0 1 1 9
+p136
+aVJeff Foster IND 03/22/2002 IND @ MIA W 12 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 1
+p137
+aVJonathan Bender IND 03/22/2002 IND @ MIA W 30 10 3 7 42.9 0 0 - 4 4 100.0 2 3 5 1 0 0 2 3 10
+p138
+aVReggie Miller IND 03/22/2002 IND @ MIA W 33 20 5 11 45.5 2 5 40.0 8 8 100.0 0 4 4 2 0 0 1 0 1
+p139
+aVJermaine O'Neal IND 03/22/2002 IND @ MIA W 38 21 7 15 46.7 0 0 - 7 9 77.8 2 6 8 1 2 3 0 4 12
+p140
+aVKevin Ollie IND 03/22/2002 IND @ MIA W 16 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 5 0 0 0 0 1
+p141
+aVAustin Croshere IND 03/22/2002 IND @ MIA W 12 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 2
+p142
+aVMetta World Peace IND 03/22/2002 IND @ MIA W 18 5 2 3 66.7 0 0 - 1 3 33.3 0 4 4 0 1 0 3 3 5
+p143
+aVBrad Miller IND 03/22/2002 IND @ MIA W 28 15 6 7 85.7 0 0 - 3 3 100.0 4 4 8 0 1 0 2 2 -4
+p144
+aVJonathan Bender IND 03/20/2002 IND @ CHH L 28 13 3 6 50.0 2 3 66.7 5 6 83.3 0 1 1 1 0 1 0 2 10
+p145
+aVAustin Croshere IND 03/20/2002 IND @ CHH L 28 16 7 13 53.8 2 3 66.7 0 0 - 1 4 5 2 0 3 1 3 7
+p146
+aVMetta World Peace IND 03/20/2002 IND @ CHH L 25 11 4 10 40.0 2 3 66.7 1 2 50.0 0 5 5 0 2 1 0 2 -22
+p147
+aVBrad Miller IND 03/20/2002 IND @ CHH L 19 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 2 2 0 1 3 -8
+p148
+aVKevin Ollie IND 03/20/2002 IND @ CHH L 17 4 1 1 100.0 0 0 - 2 4 50.0 0 1 1 3 0 0 1 0 6
+p149
+aVJermaine O'Neal IND 03/20/2002 IND @ CHH L 40 20 6 15 40.0 0 1 0.0 8 8 100.0 3 13 16 1 0 2 2 2 -11
+p150
+aVReggie Miller IND 03/20/2002 IND @ CHH L 35 12 6 13 46.2 0 6 0.0 0 0 - 0 2 2 3 1 0 0 2 1
+p151
+aVRon Mercer IND 03/20/2002 IND @ CHH L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p152
+aVJeff Foster IND 03/20/2002 IND @ CHH L 9 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 0 2
+p153
+aVJamaal Tinsley IND 03/20/2002 IND @ CHH L 31 4 1 9 11.1 0 1 0.0 2 2 100.0 2 0 2 8 1 0 4 2 -12
+p154
+aVKevin Ollie IND 03/17/2002 IND vs. ATL W 14 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 0 8
+p155
+aVBruno Sundov IND 03/17/2002 IND vs. ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p156
+aVJonathan Bender IND 03/17/2002 IND vs. ATL W 25 7 3 6 50.0 0 1 0.0 1 1 100.0 2 1 3 0 0 6 1 2 10
+p157
+aVBrad Miller IND 03/17/2002 IND vs. ATL W 21 9 3 7 42.9 0 0 - 3 4 75.0 0 5 5 1 1 0 1 4 6
+p158
+aVRon Mercer IND 03/17/2002 IND vs. ATL W 15 2 1 4 25.0 0 0 - 0 0 - 1 2 3 3 0 1 1 1 6
+p159
+aVReggie Miller IND 03/17/2002 IND vs. ATL W 23 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 3 0 0 1 1 7
+p160
+aVPrimoz Brezec IND 03/17/2002 IND vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p161
+aVJamaal Tinsley IND 03/17/2002 IND vs. ATL W 34 10 3 9 33.3 1 4 25.0 3 4 75.0 2 3 5 4 2 0 2 0 9
+p162
+aVJermaine O'Neal IND 03/17/2002 IND vs. ATL W 23 11 5 12 41.7 0 0 - 1 1 100.0 0 8 8 0 0 3 1 3 11
+p163
+aVMetta World Peace IND 03/17/2002 IND vs. ATL W 26 7 3 8 37.5 0 2 0.0 1 2 50.0 0 0 0 4 2 1 1 3 5
+p164
+aVAustin Croshere IND 03/17/2002 IND vs. ATL W 25 19 8 14 57.1 1 4 25.0 2 2 100.0 3 2 5 2 1 1 1 1 13
+p165
+aVJeff Foster IND 03/17/2002 IND vs. ATL W 29 4 1 7 14.3 0 0 - 2 4 50.0 2 9 11 1 3 0 4 1 14
+p166
+aVReggie Miller IND 03/15/2002 IND @ MIN W 34 14 5 15 33.3 4 10 40.0 0 0 - 1 5 6 5 1 0 3 1 9
+p167
+aVMetta World Peace IND 03/15/2002 IND @ MIN W 28 7 3 9 33.3 1 6 16.7 0 1 0.0 0 5 5 1 0 2 0 2 14
+p168
+aVJonathan Bender IND 03/15/2002 IND @ MIN W 19 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 0 1 0 1 0 3
+p169
+aVKevin Ollie IND 03/15/2002 IND @ MIN W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p170
+aVBrad Miller IND 03/15/2002 IND @ MIN W 32 23 9 12 75.0 0 1 0.0 5 6 83.3 4 4 8 2 0 0 1 3 8
+p171
+aVJermaine O'Neal IND 03/15/2002 IND @ MIN W 41 15 7 14 50.0 0 0 - 1 3 33.3 2 5 7 4 1 1 2 4 17
+p172
+aVAustin Croshere IND 03/15/2002 IND @ MIN W 17 11 4 6 66.7 3 4 75.0 0 0 - 0 1 1 2 1 0 2 1 5
+p173
+aVJamaal Tinsley IND 03/15/2002 IND @ MIN W 37 11 4 11 36.4 0 4 0.0 3 4 75.0 1 9 10 10 1 0 3 0 17
+p174
+aVJeff Foster IND 03/15/2002 IND @ MIN W 21 8 2 3 66.7 0 1 0.0 4 4 100.0 3 7 10 1 0 0 1 3 -4
+p175
+aVJamaal Tinsley IND 03/12/2002 IND vs. GSW W 35 15 6 16 37.5 0 4 0.0 3 4 75.0 0 3 3 8 2 1 2 2 -4
+p176
+aVKevin Ollie IND 03/12/2002 IND vs. GSW W 14 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 4 0 0 1 0 14
+p177
+aVJonathan Bender IND 03/12/2002 IND vs. GSW W 29 17 6 10 60.0 1 2 50.0 4 4 100.0 1 4 5 1 0 0 0 2 13
+p178
+aVReggie Miller IND 03/12/2002 IND vs. GSW W 35 14 4 10 40.0 1 1 100.0 5 5 100.0 1 3 4 6 4 0 1 2 1
+p179
+aVMetta World Peace IND 03/12/2002 IND vs. GSW W 21 13 5 9 55.6 1 3 33.3 2 2 100.0 1 3 4 0 3 1 3 5 9
+p180
+aVJeff Foster IND 03/12/2002 IND vs. GSW W 26 7 2 3 66.7 0 0 - 3 3 100.0 1 4 5 1 0 1 0 2 20
+p181
+aVAustin Croshere IND 03/12/2002 IND vs. GSW W 29 19 8 14 57.1 3 6 50.0 0 0 - 2 3 5 1 1 1 2 1 15
+p182
+aVJermaine O'Neal IND 03/12/2002 IND vs. GSW W 33 14 6 17 35.3 0 0 - 2 3 66.7 4 3 7 2 0 2 2 4 0
+p183
+aVPrimoz Brezec IND 03/12/2002 IND vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p184
+aVBrad Miller IND 03/12/2002 IND vs. GSW W 17 10 5 7 71.4 0 0 - 0 1 0.0 2 1 3 0 0 0 0 4 3
+p185
+aVBruno Sundov IND 03/12/2002 IND vs. GSW W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p186
+aVKevin Ollie IND 03/10/2002 IND @ DET W 11 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 1 -4
+p187
+aVReggie Miller IND 03/10/2002 IND @ DET W 38 5 2 8 25.0 0 5 0.0 1 1 100.0 0 4 4 4 1 0 3 0 8
+p188
+aVBrad Miller IND 03/10/2002 IND @ DET W 22 10 4 7 57.1 0 0 - 2 2 100.0 1 4 5 2 1 0 0 2 -1
+p189
+aVJermaine O'Neal IND 03/10/2002 IND @ DET W 39 23 8 21 38.1 0 0 - 7 8 87.5 4 10 14 1 1 3 3 5 10
+p190
+aVJeff Foster IND 03/10/2002 IND @ DET W 25 8 3 4 75.0 0 0 - 2 4 50.0 2 5 7 0 1 1 3 3 -6
+p191
+aVJamaal Tinsley IND 03/10/2002 IND @ DET W 40 15 5 12 41.7 1 2 50.0 4 4 100.0 2 2 4 4 0 0 2 3 11
+p192
+aVMetta World Peace IND 03/10/2002 IND @ DET W 37 16 6 14 42.9 1 3 33.3 3 4 75.0 1 2 3 0 4 1 3 3 10
+p193
+aVAustin Croshere IND 03/10/2002 IND @ DET W 12 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 4 4
+p194
+aVJonathan Bender IND 03/10/2002 IND @ DET W 18 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 2 4 -7
+p195
+aVKevin Ollie IND 03/08/2002 IND @ PHI L 23 8 2 5 40.0 0 0 - 4 5 80.0 0 2 2 5 0 0 2 4 1
+p196
+aVReggie Miller IND 03/08/2002 IND @ PHI L 40 15 5 11 45.5 1 2 50.0 4 6 66.7 0 3 3 1 1 0 2 3 -12
+p197
+aVAustin Croshere IND 03/08/2002 IND @ PHI L 19 6 2 6 33.3 0 2 0.0 2 2 100.0 3 2 5 1 2 0 1 2 3
+p198
+aVJonathan Bender IND 03/08/2002 IND @ PHI L 33 17 3 13 23.1 2 5 40.0 9 10 90.0 2 4 6 2 0 0 2 2 2
+p199
+aVJermaine O'Neal IND 03/08/2002 IND @ PHI L 38 25 10 14 71.4 0 0 - 5 6 83.3 4 8 12 3 0 1 3 4 -9
+p200
+aVJeff Foster IND 03/08/2002 IND @ PHI L 9 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 4 3
+p201
+aVBrad Miller IND 03/08/2002 IND @ PHI L 26 10 4 7 57.1 0 0 - 2 3 66.7 1 2 3 0 1 0 1 2 -14
+p202
+aVJamaal Tinsley IND 03/08/2002 IND @ PHI L 25 10 4 11 36.4 1 3 33.3 1 2 50.0 1 2 3 7 2 0 1 6 -10
+p203
+aVMetta World Peace IND 03/08/2002 IND @ PHI L 26 7 3 7 42.9 0 3 0.0 1 3 33.3 0 2 2 1 3 0 2 4 -9
+p204
+aVJamaal Tinsley IND 03/07/2002 IND @ MEM L 42 28 12 21 57.1 2 4 50.0 2 3 66.7 1 5 6 9 6 1 6 3 -7
+p205
+aVJeff Foster IND 03/07/2002 IND @ MEM L 7 5 2 2 100.0 0 0 - 1 2 50.0 3 0 3 1 0 0 0 0 -9
+p206
+aVKevin Ollie IND 03/07/2002 IND @ MEM L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p207
+aVAustin Croshere IND 03/07/2002 IND @ MEM L 17 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 0 0 0 1 2 3
+p208
+aVBruno Sundov IND 03/07/2002 IND @ MEM L 0 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p209
+aVMetta World Peace IND 03/07/2002 IND @ MEM L 37 12 5 13 38.5 1 4 25.0 1 2 50.0 4 5 9 5 4 0 0 4 -1
+p210
+aVJermaine O'Neal IND 03/07/2002 IND @ MEM L 43 31 13 20 65.0 0 0 - 5 10 50.0 6 6 12 0 0 0 4 5 -6
+p211
+aVJonathan Bender IND 03/07/2002 IND @ MEM L 14 9 2 4 50.0 1 2 50.0 4 4 100.0 0 1 1 1 0 0 0 0 -9
+p212
+aVBrad Miller IND 03/07/2002 IND @ MEM L 31 11 4 12 33.3 0 0 - 3 4 75.0 5 3 8 1 1 1 0 4 4
+p213
+aVRon Mercer IND 03/07/2002 IND @ MEM L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p214
+aVReggie Miller IND 03/07/2002 IND @ MEM L 36 10 4 12 33.3 1 6 16.7 1 2 50.0 0 1 1 3 2 0 0 4 -14
+p215
+aVJeff Foster IND 03/05/2002 IND vs. ORL W 10 2 1 1 100.0 0 0 - 0 0 - 2 4 6 2 0 0 1 1 -2
+p216
+aVAustin Croshere IND 03/05/2002 IND vs. ORL W 35 18 6 13 46.2 1 2 50.0 5 7 71.4 2 4 6 3 1 1 2 2 12
+p217
+aVMetta World Peace IND 03/05/2002 IND vs. ORL W 42 17 6 12 50.0 1 4 25.0 4 4 100.0 1 4 5 1 0 0 2 1 11
+p218
+aVJamaal Tinsley IND 03/05/2002 IND vs. ORL W 43 30 12 20 60.0 5 9 55.6 1 4 25.0 0 6 6 12 2 1 4 4 18
+p219
+aVJermaine O'Neal IND 03/05/2002 IND vs. ORL W 40 18 8 17 47.1 0 1 0.0 2 2 100.0 2 9 11 5 0 3 2 4 16
+p220
+aVBrad Miller IND 03/05/2002 IND vs. ORL W 25 14 3 8 37.5 0 0 - 8 8 100.0 1 2 3 0 2 2 3 4 0
+p221
+aVKevin Ollie IND 03/05/2002 IND vs. ORL W 15 5 1 2 50.0 0 0 - 3 4 75.0 0 2 2 3 1 0 1 0 -7
+p222
+aVJonathan Bender IND 03/05/2002 IND vs. ORL W 30 7 3 6 50.0 0 1 0.0 1 2 50.0 0 7 7 2 2 0 4 3 17
+p223
+aVBrad Miller IND 03/03/2002 IND @ SAC W 30 12 5 10 50.0 0 0 - 2 3 66.7 3 8 11 2 0 0 3 3 -2
+p224
+aVJermaine O'Neal IND 03/03/2002 IND @ SAC W 43 29 13 24 54.2 0 0 - 3 6 50.0 2 9 11 2 1 2 6 4 13
+p225
+aVAustin Croshere IND 03/03/2002 IND @ SAC W 28 19 4 11 36.4 1 5 20.0 10 10 100.0 1 4 5 0 0 0 2 3 10
+p226
+aVMetta World Peace IND 03/03/2002 IND @ SAC W 35 11 5 14 35.7 1 4 25.0 0 0 - 1 5 6 1 2 0 4 5 13
+p227
+aVJeff Foster IND 03/03/2002 IND @ SAC W 14 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 4 1
+p228
+aVBruno Sundov IND 03/03/2002 IND @ SAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p229
+aVJamaal Tinsley IND 03/03/2002 IND @ SAC W 23 5 2 5 40.0 1 1 100.0 0 0 - 1 3 4 5 1 0 2 5 -8
+p230
+aVKevin Ollie IND 03/03/2002 IND @ SAC W 27 5 0 5 0.0 0 0 - 5 6 83.3 0 8 8 9 2 0 2 1 19
+p231
+aVJonathan Bender IND 03/03/2002 IND @ SAC W 37 16 6 11 54.5 2 3 66.7 2 2 100.0 2 7 9 3 0 0 2 4 12
+p232
+aVJamaal Tinsley IND 03/01/2002 IND @ LAL L 28 16 5 13 38.5 1 5 20.0 5 6 83.3 0 2 2 1 4 0 5 3 -18
+p233
+aVKevin Ollie IND 03/01/2002 IND @ LAL L 22 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 1 0 0 1 -2
+p234
+aVJermaine O'Neal IND 03/01/2002 IND @ LAL L 32 18 7 22 31.8 0 0 - 4 8 50.0 5 6 11 0 1 0 4 5 -12
+p235
+aVJonathan Bender IND 03/01/2002 IND @ LAL L 16 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 1 3 2 -6
+p236
+aVReggie Miller IND 03/01/2002 IND @ LAL L 40 5 2 10 20.0 1 8 12.5 0 1 0.0 0 2 2 3 5 0 1 3 -21
+p237
+aVAustin Croshere IND 03/01/2002 IND @ LAL L 15 14 4 8 50.0 0 1 0.0 6 7 85.7 1 4 5 0 0 0 0 2 -2
+p238
+aVJeff Foster IND 03/01/2002 IND @ LAL L 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 3 11
+p239
+aVBrad Miller IND 03/01/2002 IND @ LAL L 37 9 3 10 30.0 0 0 - 3 3 100.0 4 6 10 2 2 0 2 3 -13
+p240
+aVJamison Brewer IND 03/01/2002 IND @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p241
+aVMetta World Peace IND 03/01/2002 IND @ LAL L 37 18 6 16 37.5 0 3 0.0 6 6 100.0 1 9 10 1 1 0 2 6 8
+p242
+aVJamaal Tinsley IND 02/28/2002 IND @ PHX L 35 14 6 10 60.0 1 5 20.0 1 4 25.0 1 1 2 6 0 1 3 4 -10
+p243
+aVJeff Foster IND 02/28/2002 IND @ PHX L 17 5 2 6 33.3 1 1 100.0 0 0 - 1 6 7 0 1 0 2 3 4
+p244
+aVKevin Ollie IND 02/28/2002 IND @ PHX L 18 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 5 1 0 0 1 -3
+p245
+aVJonathan Bender IND 02/28/2002 IND @ PHX L 41 13 3 9 33.3 0 2 0.0 7 8 87.5 2 6 8 1 1 1 4 4 0
+p246
+aVJermaine O'Neal IND 02/28/2002 IND @ PHX L 41 13 6 16 37.5 0 1 0.0 1 2 50.0 3 7 10 3 1 1 1 2 -5
+p247
+aVReggie Miller IND 02/28/2002 IND @ PHX L 42 19 5 15 33.3 1 8 12.5 8 9 88.9 0 3 3 5 1 0 3 4 -13
+p248
+aVMetta World Peace IND 02/28/2002 IND @ PHX L 24 7 3 6 50.0 0 0 - 1 2 50.0 2 2 4 1 1 0 3 5 -8
+p249
+aVBrad Miller IND 02/28/2002 IND @ PHX L 43 25 9 15 60.0 0 0 - 7 8 87.5 3 7 10 1 2 1 2 1 6
+p250
+aVAustin Croshere IND 02/28/2002 IND @ PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p251
+aVReggie Miller IND 02/25/2002 IND @ GSW W 43 23 6 19 31.6 3 9 33.3 8 8 100.0 0 5 5 3 3 0 3 1 5
+p252
+aVAustin Croshere IND 02/25/2002 IND @ GSW W 6 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 2
+p253
+aVMetta World Peace IND 02/25/2002 IND @ GSW W 29 17 5 11 45.5 1 4 25.0 6 8 75.0 3 2 5 2 1 1 1 6 -1
+p254
+aVJamaal Tinsley IND 02/25/2002 IND @ GSW W 35 9 2 9 22.2 0 3 0.0 5 6 83.3 0 7 7 8 1 1 5 3 3
+p255
+aVJeff Foster IND 02/25/2002 IND @ GSW W 16 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 0 1 0 1 2 -5
+p256
+aVBrad Miller IND 02/25/2002 IND @ GSW W 43 16 4 9 44.4 0 0 - 8 9 88.9 7 8 15 1 0 2 2 4 12
+p257
+aVJonathan Bender IND 02/25/2002 IND @ GSW W 34 13 5 14 35.7 0 6 0.0 3 5 60.0 4 5 9 0 1 0 2 4 -2
+p258
+aVKevin Ollie IND 02/25/2002 IND @ GSW W 18 10 1 1 100.0 0 0 - 8 10 80.0 1 1 2 0 0 0 0 1 1
+p259
+aVJermaine O'Neal IND 02/25/2002 IND @ GSW W 40 13 5 16 31.3 0 1 0.0 3 6 50.0 3 8 11 2 0 7 4 4 10
+p260
+aVAustin Croshere IND 02/23/2002 IND vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p261
+aVJermaine O'Neal IND 02/23/2002 IND vs. LAC W 31 22 10 18 55.6 0 1 0.0 2 2 100.0 3 5 8 0 0 4 1 5 15
+p262
+aVJamison Brewer IND 02/23/2002 IND vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p263
+aVReggie Miller IND 02/23/2002 IND vs. LAC W 33 28 8 13 61.5 2 2 100.0 10 12 83.3 0 2 2 2 2 0 1 1 21
+p264
+aVPrimoz Brezec IND 02/23/2002 IND vs. LAC W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 2
+p265
+aVJonathan Bender IND 02/23/2002 IND vs. LAC W 29 13 5 10 50.0 1 3 33.3 2 4 50.0 3 4 7 1 0 1 0 2 -3
+p266
+aVMetta World Peace IND 02/23/2002 IND vs. LAC W 32 13 4 10 40.0 2 4 50.0 3 4 75.0 1 5 6 0 3 0 1 3 16
+p267
+aVBruno Sundov IND 02/23/2002 IND vs. LAC W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p268
+aVBrad Miller IND 02/23/2002 IND vs. LAC W 33 14 5 7 71.4 0 0 - 4 5 80.0 2 5 7 2 0 0 1 3 22
+p269
+aVJeff Foster IND 02/23/2002 IND vs. LAC W 28 6 3 13 23.1 0 1 0.0 0 0 - 7 7 14 3 0 2 0 5 -4
+p270
+aVKevin Ollie IND 02/23/2002 IND vs. LAC W 26 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 1 1 0 2 1 3
+p271
+aVJamaal Tinsley IND 02/23/2002 IND vs. LAC W 22 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 9 1 0 4 5 15
+p272
+aVJonathan Bender IND 02/22/2002 IND vs. CLE L 38 12 4 11 36.4 0 2 0.0 4 4 100.0 1 1 2 0 0 1 2 4 -3
+p273
+aVJamaal Tinsley IND 02/22/2002 IND vs. CLE L 41 8 3 13 23.1 0 1 0.0 2 4 50.0 1 2 3 12 3 2 4 3 -10
+p274
+aVMetta World Peace IND 02/22/2002 IND vs. CLE L 25 13 6 7 85.7 0 1 0.0 1 1 100.0 1 3 4 2 3 1 1 4 -1
+p275
+aVAustin Croshere IND 02/22/2002 IND vs. CLE L 4 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p276
+aVJamison Brewer IND 02/22/2002 IND vs. CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p277
+aVJermaine O'Neal IND 02/22/2002 IND vs. CLE L 46 17 7 21 33.3 0 0 - 3 6 50.0 0 7 7 3 0 2 3 4 -8
+p278
+aVBrad Miller IND 02/22/2002 IND vs. CLE L 33 21 9 13 69.2 0 0 - 3 4 75.0 2 7 9 2 2 2 3 6 4
+p279
+aVJeff Foster IND 02/22/2002 IND vs. CLE L 19 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -18
+p280
+aVKevin Ollie IND 02/22/2002 IND vs. CLE L 33 16 5 7 71.4 0 0 - 6 8 75.0 0 2 2 2 2 0 0 0 -8
+p281
+aVBruno Sundov IND 02/17/2002 IND vs. PHI W 2 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -5
+p282
+aVJalen Rose IND 02/17/2002 IND vs. PHI W 36 17 6 14 42.9 2 3 66.7 3 4 75.0 0 3 3 8 0 2 2 2 9
+p283
+aVJermaine O'Neal IND 02/17/2002 IND vs. PHI W 37 15 7 14 50.0 0 0 - 1 3 33.3 3 10 13 2 0 3 5 3 8
+p284
+aVJonathan Bender IND 02/17/2002 IND vs. PHI W 32 13 4 8 50.0 1 2 50.0 4 4 100.0 0 7 7 3 0 0 0 2 8
+p285
+aVJamaal Tinsley IND 02/17/2002 IND vs. PHI W 28 9 4 10 40.0 1 4 25.0 0 0 - 3 2 5 9 1 1 3 3 -1
+p286
+aVReggie Miller IND 02/17/2002 IND vs. PHI W 17 9 3 8 37.5 1 3 33.3 2 2 100.0 0 0 0 0 0 0 0 2 4
+p287
+aVJeff Foster IND 02/17/2002 IND vs. PHI W 40 13 4 9 44.4 0 1 0.0 5 6 83.3 2 10 12 1 2 2 1 4 15
+p288
+aVPrimoz Brezec IND 02/17/2002 IND vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p289
+aVNorman Richardson IND 02/17/2002 IND vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p290
+aVTravis Best IND 02/17/2002 IND vs. PHI W 27 6 3 7 42.9 0 0 - 0 0 - 0 3 3 4 2 2 3 2 8
+p291
+aVAustin Croshere IND 02/17/2002 IND vs. PHI W 18 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 8
+p292
+aVJonathan Bender IND 02/15/2002 IND @ CHH L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -2
+p293
+aVJalen Rose IND 02/15/2002 IND @ CHH L 35 18 8 18 44.4 2 4 50.0 0 0 - 1 6 7 4 1 1 2 3 -14
+p294
+aVBruno Sundov IND 02/15/2002 IND @ CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p295
+aVReggie Miller IND 02/15/2002 IND @ CHH L 39 21 7 15 46.7 3 7 42.9 4 4 100.0 0 1 1 2 1 0 3 4 -13
+p296
+aVPrimoz Brezec IND 02/15/2002 IND @ CHH L 10 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 1
+p297
+aVJeff Foster IND 02/15/2002 IND @ CHH L 19 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 0 3 0 1 4 0
+p298
+aVTravis Best IND 02/15/2002 IND @ CHH L 25 18 6 13 46.2 1 2 50.0 5 6 83.3 0 1 1 2 0 0 2 3 2
+p299
+aVJermaine O'Neal IND 02/15/2002 IND @ CHH L 38 15 5 9 55.6 0 0 - 5 6 83.3 5 4 9 2 1 2 0 2 0
+p300
+aVAustin Croshere IND 02/15/2002 IND @ CHH L 37 23 8 15 53.3 1 2 50.0 6 8 75.0 6 5 11 3 1 0 0 1 -7
+p301
+aVJamaal Tinsley IND 02/15/2002 IND @ CHH L 23 3 1 4 25.0 0 2 0.0 1 2 50.0 0 0 0 6 1 0 1 5 -14
+p302
+aVJamaal Tinsley IND 02/12/2002 IND vs. UTA L 21 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 3 3 0 6 2 -19
+p303
+aVJalen Rose IND 02/12/2002 IND vs. UTA L 42 16 5 15 33.3 2 4 50.0 4 4 100.0 0 3 3 6 1 1 2 5 -12
+p304
+aVJeff Foster IND 02/12/2002 IND vs. UTA L 28 4 1 3 33.3 0 0 - 2 4 50.0 4 7 11 1 3 1 2 3 -9
+p305
+aVReggie Miller IND 02/12/2002 IND vs. UTA L 37 12 4 8 50.0 2 2 100.0 2 3 66.7 0 2 2 3 1 0 1 3 -8
+p306
+aVTravis Best IND 02/12/2002 IND vs. UTA L 27 18 7 12 58.3 0 0 - 4 4 100.0 0 1 1 4 3 0 2 4 3
+p307
+aVAustin Croshere IND 02/12/2002 IND vs. UTA L 26 8 3 10 30.0 2 5 40.0 0 0 - 0 2 2 0 1 0 1 0 -4
+p308
+aVJonathan Bender IND 02/12/2002 IND vs. UTA L 21 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 1 0 3 0 -14
+p309
+aVJermaine O'Neal IND 02/12/2002 IND vs. UTA L 39 14 6 15 40.0 0 0 - 2 2 100.0 2 10 12 1 1 1 5 6 -17
+p310
+aVJonathan Bender IND 02/05/2002 IND vs. DAL L 15 11 4 8 50.0 0 0 - 3 6 50.0 1 0 1 2 0 0 0 5 9
+p311
+aVJeff Foster IND 02/05/2002 IND vs. DAL L 32 11 5 7 71.4 0 0 - 1 4 25.0 3 10 13 1 3 0 4 6 -2
+p312
+aVJamaal Tinsley IND 02/05/2002 IND vs. DAL L 56 18 5 16 31.3 4 9 44.4 4 6 66.7 1 3 4 19 2 1 4 4 1
+p313
+aVReggie Miller IND 02/05/2002 IND vs. DAL L 44 23 6 16 37.5 5 11 45.5 6 7 85.7 0 4 4 1 1 0 3 1 1
+p314
+aVBruno Sundov IND 02/05/2002 IND vs. DAL L 22 2 1 3 33.3 0 0 - 0 0 - 1 6 7 0 0 2 0 2 3
+p315
+aVAustin Croshere IND 02/05/2002 IND vs. DAL L 37 32 12 18 66.7 4 5 80.0 4 4 100.0 3 9 12 1 0 1 1 4 -17
+p316
+aVTravis Best IND 02/05/2002 IND vs. DAL L 37 10 4 7 57.1 0 1 0.0 2 2 100.0 0 1 1 5 2 1 1 6 -14
+p317
+aVNorman Richardson IND 02/05/2002 IND vs. DAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p318
+aVJalen Rose IND 02/05/2002 IND vs. DAL L 44 33 12 25 48.0 1 7 14.3 8 8 100.0 1 4 5 7 0 0 2 6 13
+p319
+aVAustin Croshere IND 02/03/2002 IND @ WAS L 18 11 4 8 50.0 1 2 50.0 2 2 100.0 2 3 5 1 2 0 0 0 2
+p320
+aVJalen Rose IND 02/03/2002 IND @ WAS L 34 27 12 18 66.7 3 4 75.0 0 0 - 1 4 5 0 0 0 2 3 -14
+p321
+aVJeff Foster IND 02/03/2002 IND @ WAS L 17 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -16
+p322
+aVNorman Richardson IND 02/03/2002 IND @ WAS L 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -5
+p323
+aVReggie Miller IND 02/03/2002 IND @ WAS L 44 12 5 11 45.5 0 4 0.0 2 2 100.0 0 1 1 1 1 0 0 4 -21
+p324
+aVJonathan Bender IND 02/03/2002 IND @ WAS L 36 4 2 5 40.0 0 2 0.0 0 0 - 1 6 7 1 0 0 0 0 -18
+p325
+aVJamaal Tinsley IND 02/03/2002 IND @ WAS L 25 7 1 5 20.0 0 0 - 5 6 83.3 1 0 1 6 0 0 2 4 -1
+p326
+aVTravis Best IND 02/03/2002 IND @ WAS L 28 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 7 0 0 0 2 -13
+p327
+aVJermaine O'Neal IND 02/03/2002 IND @ WAS L 36 14 7 15 46.7 0 0 - 0 0 - 0 7 7 1 0 4 3 3 -14
+p328
+aVBruno Sundov IND 02/03/2002 IND @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p329
+aVReggie Miller IND 02/01/2002 IND vs. NYK W 39 20 5 11 45.5 2 6 33.3 8 9 88.9 0 3 3 3 2 0 2 5 4
+p330
+aVJamaal Tinsley IND 02/01/2002 IND vs. NYK W 19 7 3 7 42.9 1 2 50.0 0 0 - 2 3 5 5 0 1 3 1 7
+p331
+aVJermaine O'Neal IND 02/01/2002 IND vs. NYK W 45 18 9 16 56.3 0 0 - 0 0 - 2 11 13 3 0 1 0 1 7
+p332
+aVJeff Foster IND 02/01/2002 IND vs. NYK W 31 9 4 7 57.1 0 1 0.0 1 4 25.0 3 8 11 3 1 2 1 2 10
+p333
+aVAustin Croshere IND 02/01/2002 IND vs. NYK W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p334
+aVTravis Best IND 02/01/2002 IND vs. NYK W 25 11 5 9 55.6 1 2 50.0 0 0 - 1 2 3 6 1 0 0 1 -5
+p335
+aVJonathan Bender IND 02/01/2002 IND vs. NYK W 35 18 7 14 50.0 4 8 50.0 0 0 - 0 2 2 3 0 2 2 4 3
+p336
+aVJalen Rose IND 02/01/2002 IND vs. NYK W 41 9 3 5 60.0 0 0 - 3 4 75.0 0 5 5 3 0 0 7 3 1
+p337
+aVCarlos Rogers IND 01/30/2002 IND vs. MEM W 3 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -3
+p338
+aVJermaine O'Neal IND 01/30/2002 IND vs. MEM W 38 17 7 19 36.8 0 0 - 3 7 42.9 3 8 11 1 3 7 3 4 3
+p339
+aVTravis Best IND 01/30/2002 IND vs. MEM W 41 12 6 10 60.0 0 1 0.0 0 0 - 0 2 2 5 5 0 2 4 3
+p340
+aVJalen Rose IND 01/30/2002 IND vs. MEM W 44 25 9 19 47.4 1 2 50.0 6 6 100.0 0 7 7 6 0 1 2 2 0
+p341
+aVJeff Foster IND 01/30/2002 IND vs. MEM W 21 4 1 3 33.3 0 1 0.0 2 4 50.0 0 5 5 1 1 0 1 6 -7
+p342
+aVReggie Miller IND 01/30/2002 IND vs. MEM W 36 8 2 9 22.2 2 5 40.0 2 2 100.0 1 3 4 4 2 0 3 3 6
+p343
+aVJonathan Bender IND 01/30/2002 IND vs. MEM W 34 12 2 5 40.0 2 3 66.7 6 8 75.0 0 6 6 1 0 1 2 3 3
+p344
+aVAustin Croshere IND 01/30/2002 IND vs. MEM W 23 2 1 7 14.3 0 1 0.0 0 0 - 2 5 7 1 0 0 0 2 0
+p345
+aVJamaal Tinsley IND 01/26/2002 IND vs. SEA L 21 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 4 1 0 3 3 -4
+p346
+aVJalen Rose IND 01/26/2002 IND vs. SEA L 39 6 3 13 23.1 0 4 0.0 0 0 - 1 7 8 3 0 0 3 4 -13
+p347
+aVJermaine O'Neal IND 01/26/2002 IND vs. SEA L 37 19 9 13 69.2 0 0 - 1 4 25.0 1 8 9 3 0 1 2 3 -12
+p348
+aVJonathan Bender IND 01/26/2002 IND vs. SEA L 42 15 5 12 41.7 2 7 28.6 3 4 75.0 2 2 4 2 1 1 4 1 -16
+p349
+aVTravis Best IND 01/26/2002 IND vs. SEA L 19 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 5 0 0 0 2 1
+p350
+aVJeff Foster IND 01/26/2002 IND vs. SEA L 34 16 6 9 66.7 0 0 - 4 5 80.0 2 10 12 1 1 1 0 3 -1
+p351
+aVReggie Miller IND 01/26/2002 IND vs. SEA L 36 16 5 13 38.5 4 12 33.3 2 2 100.0 0 1 1 7 0 0 1 2 -4
+p352
+aVAustin Croshere IND 01/26/2002 IND vs. SEA L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 4
+p353
+aVJermaine O'Neal IND 01/25/2002 IND vs. CHH W 40 18 6 10 60.0 0 0 - 6 6 100.0 0 17 17 0 0 4 4 4 6
+p354
+aVJonathan Bender IND 01/25/2002 IND vs. CHH W 31 17 6 9 66.7 1 1 100.0 4 5 80.0 0 8 8 2 0 2 2 4 -2
+p355
+aVReggie Miller IND 01/25/2002 IND vs. CHH W 31 7 2 10 20.0 1 7 14.3 2 2 100.0 0 2 2 0 1 0 1 2 2
+p356
+aVJeff Foster IND 01/25/2002 IND vs. CHH W 24 5 2 4 50.0 0 0 - 1 2 50.0 4 2 6 1 0 1 0 3 3
+p357
+aVTravis Best IND 01/25/2002 IND vs. CHH W 21 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 6 1 0 3 4 1
+p358
+aVCarlos Rogers IND 01/25/2002 IND vs. CHH W 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 5
+p359
+aVJalen Rose IND 01/25/2002 IND vs. CHH W 41 23 8 17 47.1 3 5 60.0 4 4 100.0 1 4 5 3 0 0 4 3 8
+p360
+aVAustin Croshere IND 01/25/2002 IND vs. CHH W 20 7 2 4 50.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 2 1 12
+p361
+aVJamaal Tinsley IND 01/25/2002 IND vs. CHH W 26 11 4 9 44.4 0 3 0.0 3 4 75.0 2 3 5 6 1 1 3 2 10
+p362
+aVAl Harrington IND 01/23/2002 IND @ BOS L 30 7 3 10 30.0 0 0 - 1 2 50.0 2 3 5 2 1 0 1 4 -6
+p363
+aVJeff Foster IND 01/23/2002 IND @ BOS L 17 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 1 -7
+p364
+aVReggie Miller IND 01/23/2002 IND @ BOS L 37 26 7 17 41.2 5 12 41.7 7 7 100.0 1 4 5 5 1 0 2 1 -4
+p365
+aVJalen Rose IND 01/23/2002 IND @ BOS L 38 20 8 16 50.0 4 5 80.0 0 0 - 1 9 10 2 2 0 2 4 3
+p366
+aVAustin Croshere IND 01/23/2002 IND @ BOS L 13 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 2 1 0 1 0 -4
+p367
+aVJermaine O'Neal IND 01/23/2002 IND @ BOS L 34 19 7 15 46.7 0 2 0.0 5 10 50.0 3 9 12 0 0 0 1 2 1
+p368
+aVJamaal Tinsley IND 01/23/2002 IND @ BOS L 20 0 0 2 0.0 0 0 - 0 0 - 0 4 4 4 1 0 5 2 0
+p369
+aVTravis Best IND 01/23/2002 IND @ BOS L 28 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 6 0 0 2 3 -4
+p370
+aVJonathan Bender IND 01/23/2002 IND @ BOS L 22 9 4 9 44.4 1 5 20.0 0 2 0.0 1 4 5 0 0 1 1 5 1
+p371
+aVReggie Miller IND 01/21/2002 IND @ CHI W 27 20 7 15 46.7 1 7 14.3 5 5 100.0 0 1 1 3 2 0 0 0 9
+p372
+aVJalen Rose IND 01/21/2002 IND @ CHI W 38 16 5 12 41.7 1 4 25.0 5 5 100.0 0 5 5 5 2 0 2 1 8
+p373
+aVJamaal Tinsley IND 01/21/2002 IND @ CHI W 26 4 2 8 25.0 0 4 0.0 0 0 - 1 3 4 6 1 0 2 1 6
+p374
+aVJonathan Bender IND 01/21/2002 IND @ CHI W 46 18 5 10 50.0 1 3 33.3 7 8 87.5 2 8 10 1 0 3 4 3 10
+p375
+aVJeff Foster IND 01/21/2002 IND @ CHI W 28 2 1 9 11.1 0 0 - 0 2 0.0 3 5 8 1 1 0 2 2 9
+p376
+aVTravis Best IND 01/21/2002 IND @ CHI W 23 4 2 5 40.0 0 0 - 0 0 - 0 4 4 6 2 0 2 0 7
+p377
+aVAl Harrington IND 01/21/2002 IND @ CHI W 24 18 8 12 66.7 0 0 - 2 2 100.0 2 3 5 2 2 1 3 4 3
+p378
+aVAustin Croshere IND 01/21/2002 IND @ CHI W 29 11 5 9 55.6 1 3 33.3 0 0 - 0 2 2 3 1 1 0 4 8
+p379
+aVCarlos Rogers IND 01/19/2002 IND @ MIA L 7 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 -11
+p380
+aVJeff Foster IND 01/19/2002 IND @ MIA L 27 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 1 0 3 3 -16
+p381
+aVJalen Rose IND 01/19/2002 IND @ MIA L 37 21 10 21 47.6 1 4 25.0 0 0 - 0 4 4 5 1 2 1 3 -9
+p382
+aVAl Harrington IND 01/19/2002 IND @ MIA L 39 14 6 13 46.2 0 0 - 2 4 50.0 3 6 9 0 0 1 2 4 -4
+p383
+aVReggie Miller IND 01/19/2002 IND @ MIA L 38 14 5 13 38.5 2 7 28.6 2 2 100.0 0 2 2 1 1 0 2 0 -11
+p384
+aVTravis Best IND 01/19/2002 IND @ MIA L 33 9 3 7 42.9 0 1 0.0 3 4 75.0 0 3 3 4 2 0 1 5 2
+p385
+aVAustin Croshere IND 01/19/2002 IND @ MIA L 33 12 4 12 33.3 2 6 33.3 2 2 100.0 1 7 8 2 0 0 2 1 7
+p386
+aVJonathan Bender IND 01/19/2002 IND @ MIA L 26 9 3 5 60.0 0 0 - 3 4 75.0 2 2 4 1 0 0 2 2 -18
+p387
+aVJeff Foster IND 01/18/2002 IND vs. DET L 40 13 6 10 60.0 0 1 0.0 1 2 50.0 0 9 9 2 2 1 2 5 5
+p388
+aVAl Harrington IND 01/18/2002 IND vs. DET L 27 4 2 6 33.3 0 0 - 0 0 - 1 5 6 0 1 0 4 5 4
+p389
+aVCarlos Rogers IND 01/18/2002 IND vs. DET L 7 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 2 0 1 1 6
+p390
+aVTravis Best IND 01/18/2002 IND vs. DET L 28 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 4 0 0 3 6 -8
+p391
+aVPrimoz Brezec IND 01/18/2002 IND vs. DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 2
+p392
+aVJonathan Bender IND 01/18/2002 IND vs. DET L 20 7 3 5 60.0 0 1 0.0 1 2 50.0 0 2 2 0 0 1 2 2 -9
+p393
+aVReggie Miller IND 01/18/2002 IND vs. DET L 44 20 7 15 46.7 3 7 42.9 3 3 100.0 0 8 8 5 1 0 3 1 -1
+p394
+aVJamaal Tinsley IND 01/18/2002 IND vs. DET L 20 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 7 1 0 2 0 -13
+p395
+aVJalen Rose IND 01/18/2002 IND vs. DET L 43 31 12 17 70.6 0 0 - 7 9 77.8 0 3 3 5 1 1 1 3 4
+p396
+aVAustin Croshere IND 01/18/2002 IND vs. DET L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p397
+aVJeff Foster IND 01/16/2002 IND @ MIL L 36 11 4 9 44.4 0 0 - 3 5 60.0 6 7 13 2 2 1 1 5 -2
+p398
+aVCarlos Rogers IND 01/16/2002 IND @ MIL L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -5
+p399
+aVJalen Rose IND 01/16/2002 IND @ MIL L 33 17 7 16 43.8 3 8 37.5 0 0 - 2 3 5 4 2 0 3 2 -6
+p400
+aVAl Harrington IND 01/16/2002 IND @ MIL L 37 18 4 16 25.0 0 0 - 10 10 100.0 2 7 9 0 0 0 0 4 -1
+p401
+aVReggie Miller IND 01/16/2002 IND @ MIL L 38 27 8 15 53.3 5 9 55.6 6 7 85.7 0 2 2 3 0 0 2 1 -2
+p402
+aVPrimoz Brezec IND 01/16/2002 IND @ MIL L 17 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -7
+p403
+aVTravis Best IND 01/16/2002 IND @ MIL L 23 16 6 6 100.0 1 1 100.0 3 4 75.0 0 1 1 4 1 1 1 6 -1
+p404
+aVJamaal Tinsley IND 01/16/2002 IND @ MIL L 25 2 1 7 14.3 0 3 0.0 0 0 - 0 0 0 8 0 0 1 2 -4
+p405
+aVJonathan Bender IND 01/16/2002 IND @ MIL L 19 5 1 5 20.0 0 1 0.0 3 4 75.0 1 4 5 1 0 1 1 2 3
+p406
+aVBruno Sundov IND 01/16/2002 IND @ MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p407
+aVAustin Croshere IND 01/15/2002 IND vs. MIL L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -11
+p408
+aVAl Harrington IND 01/15/2002 IND vs. MIL L 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 1 5 -23
+p409
+aVTravis Best IND 01/15/2002 IND vs. MIL L 17 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 4 1 0 1 2 2
+p410
+aVJamaal Tinsley IND 01/15/2002 IND vs. MIL L 39 11 5 14 35.7 0 2 0.0 1 2 50.0 2 4 6 12 2 0 4 4 7
+p411
+aVJalen Rose IND 01/15/2002 IND vs. MIL L 35 26 10 18 55.6 4 7 57.1 2 4 50.0 1 2 3 2 1 2 1 3 4
+p412
+aVCarlos Rogers IND 01/15/2002 IND vs. MIL L 9 0 0 2 0.0 0 1 0.0 0 2 0.0 1 3 4 0 0 0 0 1 1
+p413
+aVPrimoz Brezec IND 01/15/2002 IND vs. MIL L 18 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 1 1 4 -6
+p414
+aVJonathan Bender IND 01/15/2002 IND vs. MIL L 21 14 2 9 22.2 1 4 25.0 9 10 90.0 1 7 8 0 0 0 2 3 5
+p415
+aVJermaine O'Neal IND 01/15/2002 IND vs. MIL L 16 7 3 7 42.9 0 0 - 1 3 33.3 3 5 8 2 1 1 1 0 1
+p416
+aVJeff Foster IND 01/15/2002 IND vs. MIL L 34 10 4 10 40.0 0 0 - 2 2 100.0 7 6 13 1 1 1 0 5 2
+p417
+aVReggie Miller IND 01/15/2002 IND vs. MIL L 32 24 7 13 53.8 0 2 0.0 10 10 100.0 0 1 1 1 1 0 2 1 -2
+p418
+aVAl Harrington IND 01/12/2002 IND @ DAL L 27 16 7 12 58.3 0 0 - 2 2 100.0 0 7 7 1 1 1 2 4 -7
+p419
+aVJeff Foster IND 01/12/2002 IND @ DAL L 27 4 2 8 25.0 0 2 0.0 0 0 - 5 4 9 1 3 0 1 2 1
+p420
+aVJonathan Bender IND 01/12/2002 IND @ DAL L 8 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 1 0 0 1 0 3
+p421
+aVTravis Best IND 01/12/2002 IND @ DAL L 15 4 1 5 20.0 1 1 100.0 1 1 100.0 0 0 0 1 0 0 0 3 -6
+p422
+aVAustin Croshere IND 01/12/2002 IND @ DAL L 18 9 4 8 50.0 1 4 25.0 0 0 - 1 3 4 2 0 1 1 3 -1
+p423
+aVJalen Rose IND 01/12/2002 IND @ DAL L 33 18 6 14 42.9 1 3 33.3 5 6 83.3 0 8 8 1 1 2 2 3 -3
+p424
+aVJermaine O'Neal IND 01/12/2002 IND @ DAL L 37 17 7 13 53.8 0 0 - 3 6 50.0 4 8 12 0 0 1 4 4 -14
+p425
+aVReggie Miller IND 01/12/2002 IND @ DAL L 38 18 6 12 50.0 5 10 50.0 1 2 50.0 0 2 2 3 0 0 1 1 -13
+p426
+aVJamaal Tinsley IND 01/12/2002 IND @ DAL L 38 12 5 13 38.5 1 5 20.0 1 2 50.0 0 4 4 16 2 1 4 5 -5
+p427
+aVJermaine O'Neal IND 01/11/2002 IND vs. CHI W 34 8 4 10 40.0 0 0 - 0 0 - 4 9 13 2 0 1 4 5 4
+p428
+aVReggie Miller IND 01/11/2002 IND vs. CHI W 35 10 2 3 66.7 0 1 0.0 6 6 100.0 0 1 1 3 0 0 1 4 2
+p429
+aVAl Harrington IND 01/11/2002 IND vs. CHI W 32 16 7 14 50.0 0 0 - 2 2 100.0 4 2 6 1 1 1 2 1 8
+p430
+aVJonathan Bender IND 01/11/2002 IND vs. CHI W 12 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 0 0 0 0 0 -1
+p431
+aVJalen Rose IND 01/11/2002 IND vs. CHI W 42 38 13 21 61.9 3 5 60.0 9 9 100.0 0 4 4 2 3 0 0 2 7
+p432
+aVTravis Best IND 01/11/2002 IND vs. CHI W 21 5 1 4 25.0 0 1 0.0 3 3 100.0 1 5 6 7 1 0 0 2 4
+p433
+aVJeff Foster IND 01/11/2002 IND vs. CHI W 22 8 2 5 40.0 0 0 - 4 5 80.0 3 3 6 1 0 1 1 2 -4
+p434
+aVAustin Croshere IND 01/11/2002 IND vs. CHI W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 1 2 10
+p435
+aVPrimoz Brezec IND 01/11/2002 IND vs. CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p436
+aVJamaal Tinsley IND 01/11/2002 IND vs. CHI W 30 10 4 12 33.3 1 5 20.0 1 2 50.0 0 2 2 9 3 2 7 2 5
+p437
+aVReggie Miller IND 01/09/2002 IND vs. LAL L 36 15 5 9 55.6 3 4 75.0 2 2 100.0 0 2 2 6 0 0 1 4 -13
+p438
+aVJonathan Bender IND 01/09/2002 IND vs. LAL L 16 10 5 11 45.5 0 3 0.0 0 0 - 3 2 5 0 0 0 0 0 3
+p439
+aVJermaine O'Neal IND 01/09/2002 IND vs. LAL L 42 18 3 14 21.4 0 0 - 12 18 66.7 3 15 18 1 2 4 1 4 -20
+p440
+aVBruno Sundov IND 01/09/2002 IND vs. LAL L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p441
+aVAl Harrington IND 01/09/2002 IND vs. LAL L 25 10 5 10 50.0 0 0 - 0 0 - 3 3 6 2 0 0 2 4 -21
+p442
+aVJalen Rose IND 01/09/2002 IND vs. LAL L 20 4 2 11 18.2 0 1 0.0 0 1 0.0 2 2 4 1 0 0 0 0 -6
+p443
+aVAustin Croshere IND 01/09/2002 IND vs. LAL L 13 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -14
+p444
+aVJamaal Tinsley IND 01/09/2002 IND vs. LAL L 34 14 6 18 33.3 1 3 33.3 1 1 100.0 3 3 6 7 0 0 5 3 -9
+p445
+aVJeff Foster IND 01/09/2002 IND vs. LAL L 18 8 3 8 37.5 0 0 - 2 3 66.7 4 3 7 0 0 0 0 4 -11
+p446
+aVTravis Best IND 01/09/2002 IND vs. LAL L 23 7 3 8 37.5 1 1 100.0 0 0 - 0 2 2 1 3 0 3 2 -5
+p447
+aVCarlos Rogers IND 01/09/2002 IND vs. LAL L 5 4 2 4 50.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -5
+p448
+aVPrimoz Brezec IND 01/09/2002 IND vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 0 3
+p449
+aVAl Harrington IND 01/05/2002 IND @ HOU W 27 7 2 5 40.0 0 0 - 3 3 100.0 1 5 6 1 1 0 1 3 3
+p450
+aVAustin Croshere IND 01/05/2002 IND @ HOU W 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 1 0 1 -5
+p451
+aVJalen Rose IND 01/05/2002 IND @ HOU W 23 7 3 10 30.0 1 1 100.0 0 0 - 0 3 3 3 0 0 0 1 -1
+p452
+aVReggie Miller IND 01/05/2002 IND @ HOU W 34 11 4 10 40.0 1 4 25.0 2 2 100.0 0 0 0 7 1 0 2 3 15
+p453
+aVJermaine O'Neal IND 01/05/2002 IND @ HOU W 44 28 12 22 54.5 0 1 0.0 4 5 80.0 3 12 15 1 1 3 3 2 9
+p454
+aVJonathan Bender IND 01/05/2002 IND @ HOU W 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p455
+aVCarlos Rogers IND 01/05/2002 IND @ HOU W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -7
+p456
+aVJamaal Tinsley IND 01/05/2002 IND @ HOU W 37 11 5 17 29.4 1 5 20.0 0 0 - 1 5 6 9 3 2 4 3 10
+p457
+aVTravis Best IND 01/05/2002 IND @ HOU W 15 3 1 4 25.0 0 0 - 1 3 33.3 0 1 1 2 0 0 2 2 -12
+p458
+aVJeff Foster IND 01/05/2002 IND @ HOU W 31 8 4 8 50.0 0 0 - 0 0 - 3 5 8 0 3 0 1 3 7
+p459
+aVJalen Rose IND 01/04/2002 IND @ SAS W 27 7 3 11 27.3 1 1 100.0 0 0 - 0 3 3 2 0 0 3 1 0
+p460
+aVCarlos Rogers IND 01/04/2002 IND @ SAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p461
+aVJamaal Tinsley IND 01/04/2002 IND @ SAS W 25 9 3 8 37.5 1 2 50.0 2 4 50.0 1 3 4 6 2 1 4 5 15
+p462
+aVReggie Miller IND 01/04/2002 IND @ SAS W 34 13 3 6 50.0 1 3 33.3 6 7 85.7 0 4 4 3 1 0 1 1 14
+p463
+aVJonathan Bender IND 01/04/2002 IND @ SAS W 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p464
+aVTravis Best IND 01/04/2002 IND @ SAS W 12 1 0 4 0.0 0 1 0.0 1 2 50.0 0 1 1 5 0 1 0 2 -2
+p465
+aVJermaine O'Neal IND 01/04/2002 IND @ SAS W 32 16 7 15 46.7 0 0 - 2 2 100.0 4 8 12 3 2 1 3 5 9
+p466
+aVAl Harrington IND 01/04/2002 IND @ SAS W 35 18 6 15 40.0 0 0 - 6 8 75.0 4 3 7 1 1 0 3 4 4
+p467
+aVJeff Foster IND 01/04/2002 IND @ SAS W 32 14 7 11 63.6 0 0 - 0 0 - 4 3 7 1 3 1 1 5 21
+p468
+aVAustin Croshere IND 01/04/2002 IND @ SAS W 24 10 4 8 50.0 1 3 33.3 1 3 33.3 3 11 14 1 1 1 1 2 3
+p469
+aVReggie Miller IND 12/31/2001 IND vs. MIA L 35 13 4 6 66.7 2 2 100.0 3 4 75.0 0 3 3 3 2 0 2 5 -6
+p470
+aVJeff Foster IND 12/31/2001 IND vs. MIA L 15 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 1 0 0 5 -15
+p471
+aVJonathan Bender IND 12/31/2001 IND vs. MIA L 34 20 7 8 87.5 3 4 75.0 3 4 75.0 1 3 4 0 0 1 1 1 9
+p472
+aVCarlos Rogers IND 12/31/2001 IND vs. MIA L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p473
+aVJamaal Tinsley IND 12/31/2001 IND vs. MIA L 31 4 2 11 18.2 0 3 0.0 0 2 0.0 0 0 0 8 1 0 1 1 -10
+p474
+aVTravis Best IND 12/31/2001 IND vs. MIA L 18 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 7 3 0 1 2 10
+p475
+aVAl Harrington IND 12/31/2001 IND vs. MIA L 27 8 3 16 18.8 0 0 - 2 2 100.0 3 4 7 1 7 3 2 2 9
+p476
+aVAustin Croshere IND 12/31/2001 IND vs. MIA L 18 4 1 4 25.0 1 2 50.0 1 2 50.0 1 5 6 1 0 2 0 1 15
+p477
+aVJermaine O'Neal IND 12/31/2001 IND vs. MIA L 24 8 3 13 23.1 0 0 - 2 2 100.0 2 4 6 0 0 1 3 5 -14
+p478
+aVJalen Rose IND 12/31/2001 IND vs. MIA L 33 20 7 18 38.9 1 3 33.3 5 5 100.0 0 3 3 1 1 1 2 5 -7
+p479
+aVJamaal Tinsley IND 12/29/2001 IND @ NJN L 24 4 2 5 40.0 0 0 - 0 0 - 0 1 1 7 4 0 5 1 -6
+p480
+aVCarlos Rogers IND 12/29/2001 IND @ NJN L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 5
+p481
+aVAl Harrington IND 12/29/2001 IND @ NJN L 45 18 7 17 41.2 0 0 - 4 6 66.7 5 11 16 1 2 2 4 3 -11
+p482
+aVAustin Croshere IND 12/29/2001 IND @ NJN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 0
+p483
+aVTravis Best IND 12/29/2001 IND @ NJN L 30 6 3 11 27.3 0 1 0.0 0 0 - 0 1 1 6 1 0 2 4 1
+p484
+aVJermaine O'Neal IND 12/29/2001 IND @ NJN L 46 25 11 20 55.0 0 0 - 3 4 75.0 1 10 11 4 2 7 4 3 -12
+p485
+aVJalen Rose IND 12/29/2001 IND @ NJN L 37 13 6 16 37.5 1 3 33.3 0 0 - 1 1 2 2 1 2 2 4 -9
+p486
+aVJonathan Bender IND 12/29/2001 IND @ NJN L 12 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 1 0 1 0 3
+p487
+aVReggie Miller IND 12/29/2001 IND @ NJN L 44 21 7 13 53.8 3 3 100.0 4 4 100.0 0 3 3 0 2 0 3 1 -7
+p488
+aVJeff Foster IND 12/29/2001 IND @ NJN L 19 0 0 1 0.0 0 0 - 0 0 - 2 4 6 0 1 1 1 1 11
+p489
+aVJalen Rose IND 12/27/2001 IND vs. WAS W 29 26 10 18 55.6 1 2 50.0 5 5 100.0 1 3 4 1 2 0 0 2 31
+p490
+aVJermaine O'Neal IND 12/27/2001 IND vs. WAS W 25 10 4 9 44.4 0 0 - 2 5 40.0 2 7 9 2 0 1 2 3 27
+p491
+aVBruno Sundov IND 12/27/2001 IND vs. WAS W 8 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 0
+p492
+aVReggie Miller IND 12/27/2001 IND vs. WAS W 19 5 2 2 100.0 1 1 100.0 0 0 - 0 4 4 3 2 0 0 2 22
+p493
+aVCarlos Rogers IND 12/27/2001 IND vs. WAS W 21 15 7 10 70.0 0 1 0.0 1 3 33.3 2 3 5 0 1 2 0 1 -4
+p494
+aVAl Harrington IND 12/27/2001 IND vs. WAS W 29 12 5 9 55.6 0 0 - 2 2 100.0 0 3 3 1 1 2 1 3 5
+p495
+aVTravis Best IND 12/27/2001 IND vs. WAS W 22 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 3 1 0 1 0 -3
+p496
+aVJamaal Tinsley IND 12/27/2001 IND vs. WAS W 28 16 6 12 50.0 1 1 100.0 3 4 75.0 1 1 2 12 2 1 0 1 32
+p497
+aVJamison Brewer IND 12/27/2001 IND vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 5
+p498
+aVJeff Foster IND 12/27/2001 IND vs. WAS W 21 7 2 4 50.0 0 0 - 3 5 60.0 4 5 9 0 0 1 0 2 25
+p499
+aVAustin Croshere IND 12/27/2001 IND vs. WAS W 12 0 0 4 0.0 0 4 0.0 0 0 - 0 4 4 1 0 1 0 0 -2
+p500
+aVJonathan Bender IND 12/27/2001 IND vs. WAS W 21 5 2 7 28.6 0 0 - 1 2 50.0 1 3 4 1 0 2 0 1 -3
+p501
+aVReggie Miller IND 12/26/2001 IND @ ORL W 38 16 6 14 42.9 0 6 0.0 4 4 100.0 1 2 3 2 1 1 2 0 7
+p502
+aVJeff Foster IND 12/26/2001 IND @ ORL W 28 8 3 4 75.0 0 0 - 2 2 100.0 4 5 9 1 1 0 1 4 9
+p503
+aVTravis Best IND 12/26/2001 IND @ ORL W 15 0 0 3 0.0 0 0 - 0 0 - 1 1 2 2 1 0 0 0 -7
+p504
+aVAl Harrington IND 12/26/2001 IND @ ORL W 26 23 9 15 60.0 0 0 - 5 6 83.3 4 3 7 1 0 0 3 4 2
+p505
+aVJermaine O'Neal IND 12/26/2001 IND @ ORL W 37 20 9 16 56.3 0 0 - 2 4 50.0 4 9 13 3 0 5 3 4 -1
+p506
+aVJamaal Tinsley IND 12/26/2001 IND @ ORL W 35 11 5 16 31.3 0 1 0.0 1 1 100.0 2 3 5 9 2 0 4 3 12
+p507
+aVJalen Rose IND 12/26/2001 IND @ ORL W 30 4 1 12 8.3 0 2 0.0 2 2 100.0 0 6 6 4 2 0 2 2 9
+p508
+aVAustin Croshere IND 12/26/2001 IND @ ORL W 17 5 2 6 33.3 1 1 100.0 0 0 - 1 4 5 0 1 0 0 1 9
+p509
+aVJonathan Bender IND 12/26/2001 IND @ ORL W 14 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 1 0 0 1 2 -5
+p510
+aVReggie Miller IND 12/22/2001 IND @ CLE W 31 18 5 7 71.4 4 5 80.0 4 5 80.0 0 0 0 5 1 0 2 0 2
+p511
+aVJamaal Tinsley IND 12/22/2001 IND @ CLE W 37 9 4 5 80.0 0 0 - 1 2 50.0 1 4 5 14 2 0 4 4 4
+p512
+aVJalen Rose IND 12/22/2001 IND @ CLE W 31 11 4 12 33.3 1 2 50.0 2 2 100.0 0 2 2 2 1 1 2 2 -2
+p513
+aVJonathan Bender IND 12/22/2001 IND @ CLE W 28 6 3 6 50.0 0 0 - 0 0 - 0 4 4 4 0 0 2 3 0
+p514
+aVAl Harrington IND 12/22/2001 IND @ CLE W 29 11 5 8 62.5 0 0 - 1 2 50.0 0 3 3 2 1 0 0 2 13
+p515
+aVJeff Foster IND 12/22/2001 IND @ CLE W 20 10 4 6 66.7 0 0 - 2 4 50.0 3 4 7 1 0 1 0 4 3
+p516
+aVCarlos Rogers IND 12/22/2001 IND @ CLE W 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 0 1 5
+p517
+aVJermaine O'Neal IND 12/22/2001 IND @ CLE W 42 38 15 20 75.0 0 0 - 8 9 88.9 0 4 4 3 2 1 3 4 7
+p518
+aVTravis Best IND 12/22/2001 IND @ CLE W 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p519
+aVReggie Miller IND 12/21/2001 IND vs. NJN W 37 16 5 10 50.0 1 2 50.0 5 7 71.4 0 4 4 2 2 0 0 2 13
+p520
+aVAustin Croshere IND 12/21/2001 IND vs. NJN W 12 6 2 4 50.0 1 1 100.0 1 1 100.0 1 1 2 0 0 0 0 0 -7
+p521
+aVJalen Rose IND 12/21/2001 IND vs. NJN W 35 10 4 14 28.6 0 2 0.0 2 2 100.0 0 6 6 5 2 0 2 2 3
+p522
+aVTravis Best IND 12/21/2001 IND vs. NJN W 20 4 1 6 16.7 0 2 0.0 2 2 100.0 0 0 0 3 3 0 2 4 -4
+p523
+aVJermaine O'Neal IND 12/21/2001 IND vs. NJN W 34 29 10 16 62.5 0 0 - 9 15 60.0 5 4 9 3 5 3 3 6 13
+p524
+aVJonathan Bender IND 12/21/2001 IND vs. NJN W 30 11 3 5 60.0 0 1 0.0 5 6 83.3 1 2 3 3 2 2 0 1 3
+p525
+aVJamaal Tinsley IND 12/21/2001 IND vs. NJN W 18 8 4 8 50.0 0 0 - 0 0 - 1 2 3 3 0 0 3 5 -1
+p526
+aVAl Harrington IND 12/21/2001 IND vs. NJN W 40 14 5 9 55.6 0 0 - 4 4 100.0 4 7 11 2 0 0 3 5 3
+p527
+aVJeff Foster IND 12/21/2001 IND vs. NJN W 14 2 0 0 - 0 0 - 2 4 50.0 1 1 2 0 0 0 0 1 7
+p528
+aVAustin Croshere IND 12/19/2001 IND vs. TOR L 17 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 3 0 1 0 0 -12
+p529
+aVJeff Foster IND 12/19/2001 IND vs. TOR L 27 7 3 8 37.5 0 0 - 1 2 50.0 4 3 7 2 0 1 4 5 -2
+p530
+aVJermaine O'Neal IND 12/19/2001 IND vs. TOR L 43 27 12 22 54.5 0 0 - 3 6 50.0 4 12 16 1 0 2 3 3 -13
+p531
+aVCarlos Rogers IND 12/19/2001 IND vs. TOR L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p532
+aVJalen Rose IND 12/19/2001 IND vs. TOR L 31 10 3 9 33.3 0 2 0.0 4 4 100.0 0 1 1 4 1 0 1 2 -9
+p533
+aVTravis Best IND 12/19/2001 IND vs. TOR L 17 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 3 0 0 0 0 -11
+p534
+aVAl Harrington IND 12/19/2001 IND vs. TOR L 38 12 5 14 35.7 0 0 - 2 2 100.0 2 3 5 2 0 2 4 4 -1
+p535
+aVReggie Miller IND 12/19/2001 IND vs. TOR L 36 19 5 11 45.5 4 9 44.4 5 5 100.0 1 2 3 2 0 0 0 1 -9
+p536
+aVJamaal Tinsley IND 12/19/2001 IND vs. TOR L 31 9 4 9 44.4 0 1 0.0 1 1 100.0 0 3 3 5 3 0 3 5 -1
+p537
+aVJonathan Bender IND 12/18/2001 IND @ ATL W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 2 0 -2
+p538
+aVAl Harrington IND 12/18/2001 IND @ ATL W 23 11 4 4 100.0 0 0 - 3 4 75.0 1 1 2 1 1 0 1 2 -6
+p539
+aVJermaine O'Neal IND 12/18/2001 IND @ ATL W 35 20 7 12 58.3 0 0 - 6 8 75.0 3 8 11 0 0 2 4 5 11
+p540
+aVAustin Croshere IND 12/18/2001 IND @ ATL W 18 10 3 10 30.0 2 5 40.0 2 2 100.0 0 5 5 0 0 0 0 2 -3
+p541
+aVJeff Foster IND 12/18/2001 IND @ ATL W 29 9 4 6 66.7 0 0 - 1 2 50.0 0 3 3 0 1 1 1 2 0
+p542
+aVJamaal Tinsley IND 12/18/2001 IND @ ATL W 36 7 3 8 37.5 0 0 - 1 2 50.0 4 1 5 9 1 0 4 2 5
+p543
+aVJalen Rose IND 12/18/2001 IND @ ATL W 36 14 6 16 37.5 0 2 0.0 2 2 100.0 0 5 5 4 2 2 2 4 12
+p544
+aVTravis Best IND 12/18/2001 IND @ ATL W 20 4 2 2 100.0 0 0 - 0 0 - 0 0 0 4 1 0 2 3 -2
+p545
+aVReggie Miller IND 12/18/2001 IND @ ATL W 37 26 8 15 53.3 4 8 50.0 6 6 100.0 0 2 2 3 2 0 2 1 0
+p546
+aVJonathan Bender IND 12/15/2001 IND @ MIL L 12 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 3
+p547
+aVAustin Croshere IND 12/15/2001 IND @ MIL L 20 10 5 7 71.4 0 1 0.0 0 0 - 3 4 7 1 0 0 2 0 -14
+p548
+aVReggie Miller IND 12/15/2001 IND @ MIL L 36 15 5 15 33.3 0 6 0.0 5 5 100.0 0 4 4 2 3 0 1 1 -24
+p549
+aVJeff Foster IND 12/15/2001 IND @ MIL L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 0 0 2 5
+p550
+aVJamaal Tinsley IND 12/15/2001 IND @ MIL L 25 11 5 7 71.4 0 0 - 1 4 25.0 2 3 5 8 1 1 4 6 -20
+p551
+aVBruno Sundov IND 12/15/2001 IND @ MIL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p552
+aVCarlos Rogers IND 12/15/2001 IND @ MIL L 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p553
+aVTravis Best IND 12/15/2001 IND @ MIL L 18 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 4 1 0 0 4 -5
+p554
+aVJermaine O'Neal IND 12/15/2001 IND @ MIL L 35 10 4 13 30.8 0 0 - 2 5 40.0 3 4 7 1 0 2 2 3 -25
+p555
+aVAl Harrington IND 12/15/2001 IND @ MIL L 35 26 9 18 50.0 1 1 100.0 7 11 63.6 3 3 6 3 3 0 2 4 -15
+p556
+aVJalen Rose IND 12/15/2001 IND @ MIL L 34 10 3 16 18.8 0 2 0.0 4 4 100.0 0 3 3 4 0 0 1 1 -14
+p557
+aVJamison Brewer IND 12/15/2001 IND @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 3
+p558
+aVReggie Miller IND 12/13/2001 IND vs. HOU W 42 25 8 15 53.3 4 9 44.4 5 6 83.3 0 3 3 3 0 0 2 1 8
+p559
+aVCarlos Rogers IND 12/13/2001 IND vs. HOU W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p560
+aVTravis Best IND 12/13/2001 IND vs. HOU W 20 11 4 10 40.0 0 1 0.0 3 4 75.0 0 0 0 3 0 0 1 0 4
+p561
+aVJamaal Tinsley IND 12/13/2001 IND vs. HOU W 35 4 1 5 20.0 0 1 0.0 2 2 100.0 0 6 6 18 1 0 4 5 -3
+p562
+aVAl Harrington IND 12/13/2001 IND vs. HOU W 47 23 10 21 47.6 0 0 - 3 3 100.0 2 13 15 1 2 0 0 5 -1
+p563
+aVJalen Rose IND 12/13/2001 IND vs. HOU W 28 20 9 17 52.9 0 0 - 2 2 100.0 2 3 5 0 0 1 2 2 -6
+p564
+aVJermaine O'Neal IND 12/13/2001 IND vs. HOU W 42 23 8 17 47.1 0 0 - 7 8 87.5 2 7 9 1 0 4 2 4 -3
+p565
+aVAustin Croshere IND 12/13/2001 IND vs. HOU W 13 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 7
+p566
+aVJonathan Bender IND 12/13/2001 IND vs. HOU W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 -4
+p567
+aVJeff Foster IND 12/13/2001 IND vs. HOU W 22 2 1 2 50.0 0 0 - 0 0 - 3 7 10 4 0 0 0 4 7
+p568
+aVJeff Foster IND 12/08/2001 IND @ NYK L 19 7 3 6 50.0 0 0 - 1 2 50.0 0 5 5 0 0 0 0 1 -7
+p569
+aVReggie Miller IND 12/08/2001 IND @ NYK L 38 15 6 17 35.3 3 6 50.0 0 0 - 1 0 1 6 2 0 1 3 8
+p570
+aVAl Harrington IND 12/08/2001 IND @ NYK L 36 19 6 14 42.9 0 0 - 7 8 87.5 6 5 11 1 0 0 1 5 -3
+p571
+aVJermaine O'Neal IND 12/08/2001 IND @ NYK L 41 22 8 15 53.3 0 0 - 6 10 60.0 2 10 12 0 1 2 5 2 2
+p572
+aVJamaal Tinsley IND 12/08/2001 IND @ NYK L 39 14 6 14 42.9 0 2 0.0 2 4 50.0 1 1 2 9 3 0 1 2 8
+p573
+aVBruno Sundov IND 12/08/2001 IND @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p574
+aVAustin Croshere IND 12/08/2001 IND @ NYK L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 2 0 1 0 -6
+p575
+aVTravis Best IND 12/08/2001 IND @ NYK L 17 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -18
+p576
+aVJalen Rose IND 12/08/2001 IND @ NYK L 40 18 7 16 43.8 0 3 0.0 4 4 100.0 1 4 5 3 0 1 0 5 6
+p577
+aVJalen Rose IND 12/07/2001 IND vs. CHI W 35 15 7 18 38.9 0 3 0.0 1 1 100.0 0 4 4 3 0 0 1 3 7
+p578
+aVAustin Croshere IND 12/07/2001 IND vs. CHI W 13 6 3 6 50.0 0 1 0.0 0 0 - 3 2 5 1 0 0 0 1 1
+p579
+aVJamaal Tinsley IND 12/07/2001 IND vs. CHI W 40 18 8 15 53.3 1 3 33.3 1 2 50.0 2 3 5 10 3 0 5 1 13
+p580
+aVAl Harrington IND 12/07/2001 IND vs. CHI W 33 15 6 10 60.0 0 0 - 3 4 75.0 2 5 7 1 1 2 1 3 5
+p581
+aVJermaine O'Neal IND 12/07/2001 IND vs. CHI W 34 22 9 15 60.0 0 0 - 4 6 66.7 3 8 11 1 1 0 1 4 12
+p582
+aVJamison Brewer IND 12/07/2001 IND vs. CHI W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 3 0 0 0 1 4
+p583
+aVReggie Miller IND 12/07/2001 IND vs. CHI W 33 15 4 6 66.7 3 5 60.0 4 4 100.0 0 2 2 6 0 0 1 2 16
+p584
+aVJeff Foster IND 12/07/2001 IND vs. CHI W 21 2 1 3 33.3 0 0 - 0 0 - 3 4 7 1 1 0 0 1 12
+p585
+aVBruno Sundov IND 12/07/2001 IND vs. CHI W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p586
+aVJonathan Bender IND 12/07/2001 IND vs. CHI W 24 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 1 2 1 4 2 2
+p587
+aVJeff Foster IND 12/04/2001 IND vs. DEN W 14 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 0 0 0 -3
+p588
+aVAl Harrington IND 12/04/2001 IND vs. DEN W 35 18 7 11 63.6 0 0 - 4 7 57.1 2 4 6 1 1 2 4 3 11
+p589
+aVJonathan Bender IND 12/04/2001 IND vs. DEN W 19 9 4 6 66.7 0 1 0.0 1 1 100.0 0 2 2 0 0 1 0 3 7
+p590
+aVAustin Croshere IND 12/04/2001 IND vs. DEN W 16 7 3 7 42.9 0 2 0.0 1 1 100.0 0 2 2 1 0 1 0 1 10
+p591
+aVJermaine O'Neal IND 12/04/2001 IND vs. DEN W 38 23 9 17 52.9 0 0 - 5 6 83.3 4 7 11 1 0 4 2 5 0
+p592
+aVReggie Miller IND 12/04/2001 IND vs. DEN W 39 11 4 12 33.3 1 5 20.0 2 4 50.0 0 6 6 6 1 0 1 2 9
+p593
+aVJalen Rose IND 12/04/2001 IND vs. DEN W 38 25 9 20 45.0 0 0 - 7 8 87.5 3 7 10 5 0 0 2 2 0
+p594
+aVJamison Brewer IND 12/04/2001 IND vs. DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p595
+aVJamaal Tinsley IND 12/04/2001 IND vs. DEN W 38 7 3 7 42.9 1 1 100.0 0 0 - 4 6 10 16 0 1 5 6 8
+p596
+aVAustin Croshere IND 12/02/2001 IND @ LAC L 19 12 5 8 62.5 1 1 100.0 1 1 100.0 3 1 4 1 0 0 3 1 -10
+p597
+aVBruno Sundov IND 12/02/2001 IND @ LAC L 13 4 2 6 33.3 0 0 - 0 0 - 1 0 1 1 0 1 2 2 -1
+p598
+aVJonathan Bender IND 12/02/2001 IND @ LAC L 27 2 1 9 11.1 0 2 0.0 0 4 0.0 2 1 3 2 1 0 1 2 -19
+p599
+aVJalen Rose IND 12/02/2001 IND @ LAC L 23 8 4 11 36.4 0 1 0.0 0 0 - 0 5 5 1 0 0 2 0 -13
+p600
+aVJeff Foster IND 12/02/2001 IND @ LAC L 27 6 2 7 28.6 0 0 - 2 2 100.0 2 4 6 2 1 2 1 6 -24
+p601
+aVJermaine O'Neal IND 12/02/2001 IND @ LAC L 31 8 4 13 30.8 0 0 - 0 0 - 4 8 12 1 1 4 3 3 -26
+p602
+aVAl Harrington IND 12/02/2001 IND @ LAC L 20 10 5 7 71.4 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -24
+p603
+aVReggie Miller IND 12/02/2001 IND @ LAC L 23 12 4 10 40.0 1 4 25.0 3 3 100.0 0 0 0 1 0 0 0 0 -14
+p604
+aVJamison Brewer IND 12/02/2001 IND @ LAC L 12 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 1 0 0 0 -1
+p605
+aVTravis Best IND 12/02/2001 IND @ LAC L 16 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 5 1 0 3 1 -16
+p606
+aVJamaal Tinsley IND 12/02/2001 IND @ LAC L 29 6 2 13 15.4 0 0 - 2 2 100.0 2 4 6 6 2 0 6 4 -7
+p607
+aVJonathan Bender IND 12/01/2001 IND @ UTA W 14 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 0 0 1 1 -1
+p608
+aVReggie Miller IND 12/01/2001 IND @ UTA W 36 18 6 12 50.0 2 4 50.0 4 4 100.0 1 1 2 3 0 0 2 0 -3
+p609
+aVTravis Best IND 12/01/2001 IND @ UTA W 22 12 6 9 66.7 0 1 0.0 0 0 - 0 0 0 4 3 0 2 3 -2
+p610
+aVJalen Rose IND 12/01/2001 IND @ UTA W 35 25 8 14 57.1 1 2 50.0 8 12 66.7 0 3 3 7 0 0 3 4 4
+p611
+aVAustin Croshere IND 12/01/2001 IND @ UTA W 29 8 2 5 40.0 0 1 0.0 4 4 100.0 3 5 8 0 1 3 1 2 17
+p612
+aVPrimoz Brezec IND 12/01/2001 IND @ UTA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 1 0 2
+p613
+aVAl Harrington IND 12/01/2001 IND @ UTA W 32 12 3 7 42.9 0 0 - 6 7 85.7 2 4 6 1 3 1 0 6 -3
+p614
+aVJeff Foster IND 12/01/2001 IND @ UTA W 23 5 2 2 100.0 0 0 - 1 4 25.0 2 4 6 0 1 0 0 6 -7
+p615
+aVJermaine O'Neal IND 12/01/2001 IND @ UTA W 23 15 6 12 50.0 0 0 - 3 12 25.0 4 8 12 1 0 0 2 5 -1
+p616
+aVJamaal Tinsley IND 12/01/2001 IND @ UTA W 19 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 1 1 3 5 9
+p617
+aVJamison Brewer IND 11/28/2001 IND @ DEN W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 2
+p618
+aVJonathan Bender IND 11/28/2001 IND @ DEN W 26 11 3 4 75.0 3 3 100.0 2 2 100.0 0 7 7 2 0 2 1 1 8
+p619
+aVJermaine O'Neal IND 11/28/2001 IND @ DEN W 37 14 4 13 30.8 0 0 - 6 7 85.7 3 10 13 2 0 5 1 3 25
+p620
+aVJamaal Tinsley IND 11/28/2001 IND @ DEN W 34 8 2 7 28.6 0 2 0.0 4 4 100.0 0 2 2 10 5 0 3 4 8
+p621
+aVJalen Rose IND 11/28/2001 IND @ DEN W 35 16 7 17 41.2 0 2 0.0 2 4 50.0 0 6 6 6 1 0 1 3 16
+p622
+aVReggie Miller IND 11/28/2001 IND @ DEN W 40 17 5 11 45.5 3 6 50.0 4 4 100.0 1 4 5 6 2 0 0 1 6
+p623
+aVJeff Foster IND 11/28/2001 IND @ DEN W 14 9 4 4 100.0 0 0 - 1 2 50.0 2 2 4 0 0 2 1 1 0
+p624
+aVAl Harrington IND 11/28/2001 IND @ DEN W 30 22 11 15 73.3 0 0 - 0 0 - 3 4 7 2 2 1 3 1 5
+p625
+aVAustin Croshere IND 11/28/2001 IND @ DEN W 16 0 0 5 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 0
+p626
+aVAustin Croshere IND 11/27/2001 IND @ POR L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -3
+p627
+aVJamison Brewer IND 11/27/2001 IND @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p628
+aVJalen Rose IND 11/27/2001 IND @ POR L 45 16 8 19 42.1 0 3 0.0 0 0 - 0 2 2 4 3 1 1 3 -2
+p629
+aVJermaine O'Neal IND 11/27/2001 IND @ POR L 37 17 8 17 47.1 0 0 - 1 3 33.3 1 9 10 3 1 2 2 4 4
+p630
+aVJeff Foster IND 11/27/2001 IND @ POR L 17 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 2 2
+p631
+aVJamaal Tinsley IND 11/27/2001 IND @ POR L 39 10 5 13 38.5 0 2 0.0 0 0 - 1 7 8 14 3 0 9 6 -9
+p632
+aVAl Harrington IND 11/27/2001 IND @ POR L 32 16 7 11 63.6 0 1 0.0 2 4 50.0 1 4 5 2 1 0 2 5 -14
+p633
+aVPrimoz Brezec IND 11/27/2001 IND @ POR L 15 6 2 3 66.7 0 0 - 2 3 66.7 1 0 1 0 0 1 1 2 -3
+p634
+aVJonathan Bender IND 11/27/2001 IND @ POR L 7 0 0 1 0.0 0 0 - 0 0 - 1 4 5 1 0 0 1 3 3
+p635
+aVReggie Miller IND 11/27/2001 IND @ POR L 42 24 8 13 61.5 6 9 66.7 2 3 66.7 1 4 5 5 2 0 1 1 -7
+p636
+aVAl Harrington IND 11/25/2001 IND @ SEA L 29 10 3 12 25.0 0 0 - 4 4 100.0 3 3 6 3 0 0 3 3 -16
+p637
+aVJermaine O'Neal IND 11/25/2001 IND @ SEA L 44 23 8 15 53.3 0 1 0.0 7 8 87.5 3 14 17 3 0 3 7 3 -11
+p638
+aVJamison Brewer IND 11/25/2001 IND @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p639
+aVJeff Foster IND 11/25/2001 IND @ SEA L 26 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 2 0 1 5 1
+p640
+aVAustin Croshere IND 11/25/2001 IND @ SEA L 5 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 1 0 0 -2
+p641
+aVJalen Rose IND 11/25/2001 IND @ SEA L 30 11 5 12 41.7 0 1 0.0 1 2 50.0 0 4 4 2 1 0 4 3 2
+p642
+aVReggie Miller IND 11/25/2001 IND @ SEA L 45 17 5 9 55.6 3 5 60.0 4 4 100.0 0 5 5 2 0 1 2 3 -10
+p643
+aVJonathan Bender IND 11/25/2001 IND @ SEA L 17 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 0 1 1 1 -10
+p644
+aVJamaal Tinsley IND 11/25/2001 IND @ SEA L 43 14 5 11 45.5 0 1 0.0 4 6 66.7 0 2 2 12 0 1 4 6 -7
+p645
+aVJamison Brewer IND 11/23/2001 IND vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p646
+aVAl Harrington IND 11/23/2001 IND vs. SAS L 25 6 3 11 27.3 0 0 - 0 0 - 1 3 4 0 0 0 0 6 -19
+p647
+aVJonathan Bender IND 11/23/2001 IND vs. SAS L 16 3 1 5 20.0 0 1 0.0 1 1 100.0 0 1 1 2 1 0 0 1 -9
+p648
+aVReggie Miller IND 11/23/2001 IND vs. SAS L 36 17 6 8 75.0 1 2 50.0 4 4 100.0 0 3 3 3 2 0 3 4 -11
+p649
+aVPrimoz Brezec IND 11/23/2001 IND vs. SAS L 9 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 0 -3
+p650
+aVJermaine O'Neal IND 11/23/2001 IND vs. SAS L 36 9 4 17 23.5 0 0 - 1 1 100.0 3 8 11 1 1 2 2 6 -15
+p651
+aVJeff Foster IND 11/23/2001 IND vs. SAS L 23 7 3 7 42.9 0 0 - 1 3 33.3 1 2 3 0 0 0 1 5 -7
+p652
+aVAustin Croshere IND 11/23/2001 IND vs. SAS L 16 8 3 8 37.5 2 5 40.0 0 0 - 1 6 7 0 0 2 1 1 -2
+p653
+aVJalen Rose IND 11/23/2001 IND vs. SAS L 40 17 8 19 42.1 1 2 50.0 0 0 - 1 5 6 10 0 1 2 2 -16
+p654
+aVBruno Sundov IND 11/23/2001 IND vs. SAS L 4 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p655
+aVJamaal Tinsley IND 11/23/2001 IND vs. SAS L 33 4 1 5 20.0 0 1 0.0 2 2 100.0 0 3 3 6 4 0 5 5 -10
+p656
+aVAustin Croshere IND 11/22/2001 IND vs. WAS W 19 12 5 6 83.3 1 2 50.0 1 2 50.0 1 1 2 0 2 1 0 3 -9
+p657
+aVJamaal Tinsley IND 11/22/2001 IND vs. WAS W 45 19 6 15 40.0 0 1 0.0 7 8 87.5 2 9 11 23 1 1 5 2 5
+p658
+aVJalen Rose IND 11/22/2001 IND vs. WAS W 33 15 7 15 46.7 0 0 - 1 2 50.0 0 2 2 3 0 1 2 4 4
+p659
+aVAl Harrington IND 11/22/2001 IND vs. WAS W 32 7 3 10 30.0 0 0 - 1 2 50.0 2 6 8 5 1 0 2 4 0
+p660
+aVJonathan Bender IND 11/22/2001 IND vs. WAS W 2 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -1
+p661
+aVJeff Foster IND 11/22/2001 IND vs. WAS W 29 12 6 14 42.9 0 1 0.0 0 0 - 4 7 11 0 2 1 1 1 18
+p662
+aVJermaine O'Neal IND 11/22/2001 IND vs. WAS W 43 27 12 19 63.2 0 0 - 3 5 60.0 2 6 8 0 0 1 0 3 7
+p663
+aVReggie Miller IND 11/22/2001 IND vs. WAS W 38 15 6 9 66.7 1 2 50.0 2 2 100.0 0 4 4 5 1 0 0 1 11
+p664
+aVJamison Brewer IND 11/20/2001 IND vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p665
+aVAl Harrington IND 11/20/2001 IND vs. ATL W 25 8 3 8 37.5 0 0 - 2 2 100.0 2 4 6 1 1 0 2 5 8
+p666
+aVJalen Rose IND 11/20/2001 IND vs. ATL W 43 18 8 18 44.4 1 3 33.3 1 4 25.0 0 5 5 5 0 1 1 1 9
+p667
+aVAustin Croshere IND 11/20/2001 IND vs. ATL W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p668
+aVJeff Foster IND 11/20/2001 IND vs. ATL W 26 11 4 8 50.0 0 1 0.0 3 4 75.0 5 6 11 2 1 1 0 0 -4
+p669
+aVReggie Miller IND 11/20/2001 IND vs. ATL W 45 22 7 13 53.8 4 7 57.1 4 5 80.0 0 7 7 5 0 0 1 2 7
+p670
+aVJamaal Tinsley IND 11/20/2001 IND vs. ATL W 46 29 9 19 47.4 2 4 50.0 9 11 81.8 0 3 3 11 2 0 4 3 11
+p671
+aVJonathan Bender IND 11/20/2001 IND vs. ATL W 6 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p672
+aVJermaine O'Neal IND 11/20/2001 IND vs. ATL W 38 16 6 10 60.0 0 0 - 4 4 100.0 3 6 9 1 1 4 1 5 6
+p673
+aVReggie Miller IND 11/17/2001 IND @ DET L 38 15 6 11 54.5 1 2 50.0 2 2 100.0 0 4 4 3 0 0 1 4 -11
+p674
+aVJalen Rose IND 11/17/2001 IND @ DET L 42 17 7 20 35.0 1 2 50.0 2 2 100.0 0 3 3 2 2 1 2 3 3
+p675
+aVJamaal Tinsley IND 11/17/2001 IND @ DET L 42 28 9 17 52.9 1 3 33.3 9 12 75.0 2 11 13 4 1 0 5 3 1
+p676
+aVAl Harrington IND 11/17/2001 IND @ DET L 24 4 2 10 20.0 0 0 - 0 0 - 2 2 4 0 0 0 3 3 -7
+p677
+aVJeff Foster IND 11/17/2001 IND @ DET L 28 7 3 5 60.0 0 0 - 1 2 50.0 4 9 13 1 0 1 3 5 2
+p678
+aVAustin Croshere IND 11/17/2001 IND @ DET L 22 9 3 7 42.9 0 2 0.0 3 4 75.0 1 6 7 0 0 0 1 3 -7
+p679
+aVJonathan Bender IND 11/17/2001 IND @ DET L 23 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 2 1 2 3 -11
+p680
+aVCarlos Rogers IND 11/17/2001 IND @ DET L 14 8 3 4 75.0 0 0 - 2 3 66.7 3 0 3 0 1 0 1 0 -3
+p681
+aVPrimoz Brezec IND 11/17/2001 IND @ DET L 6 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 3
+p682
+aVTravis Best IND 11/16/2001 IND vs. MIN L 3 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 1
+p683
+aVReggie Miller IND 11/16/2001 IND vs. MIN L 42 23 5 15 33.3 3 7 42.9 10 11 90.9 0 1 1 5 1 0 4 1 -10
+p684
+aVPrimoz Brezec IND 11/16/2001 IND vs. MIN L 25 3 1 1 100.0 0 0 - 1 2 50.0 3 0 3 3 0 3 0 5 -2
+p685
+aVJamaal Tinsley IND 11/16/2001 IND vs. MIN L 51 12 3 16 18.8 0 3 0.0 6 6 100.0 3 6 9 15 6 5 1 6 -2
+p686
+aVAustin Croshere IND 11/16/2001 IND vs. MIN L 9 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 0 1 2 0
+p687
+aVAl Harrington IND 11/16/2001 IND vs. MIN L 33 25 11 14 78.6 0 0 - 3 4 75.0 1 0 1 1 1 0 4 6 13
+p688
+aVJonathan Bender IND 11/16/2001 IND vs. MIN L 22 7 2 10 20.0 1 5 20.0 2 2 100.0 1 1 2 0 0 1 1 2 0
+p689
+aVJeff Foster IND 11/16/2001 IND vs. MIN L 49 4 1 5 20.0 0 0 - 2 4 50.0 3 11 14 3 1 0 0 4 -18
+p690
+aVJalen Rose IND 11/16/2001 IND vs. MIN L 47 31 13 27 48.1 1 3 33.3 4 5 80.0 0 3 3 1 0 0 2 5 -7
+p691
+aVCarlos Rogers IND 11/16/2001 IND vs. MIN L 8 4 1 2 50.0 0 0 - 2 2 100.0 2 1 3 0 0 1 1 1 -10
+p692
+aVAustin Croshere IND 11/14/2001 IND @ BOS L 11 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 0 0 0 1 1 -4
+p693
+aVJeff Foster IND 11/14/2001 IND @ BOS L 36 17 3 9 33.3 0 0 - 11 12 91.7 8 7 15 1 2 3 2 1 1
+p694
+aVJermaine O'Neal IND 11/14/2001 IND @ BOS L 39 14 6 15 40.0 0 0 - 2 4 50.0 1 12 13 1 1 0 3 3 -7
+p695
+aVAl Harrington IND 11/14/2001 IND @ BOS L 35 6 3 11 27.3 0 0 - 0 0 - 3 3 6 2 0 0 1 4 -7
+p696
+aVJalen Rose IND 11/14/2001 IND @ BOS L 39 24 10 21 47.6 3 5 60.0 1 4 25.0 1 5 6 3 0 1 3 4 -6
+p697
+aVReggie Miller IND 11/14/2001 IND @ BOS L 29 15 6 10 60.0 2 4 50.0 1 1 100.0 1 1 2 2 2 0 1 1 4
+p698
+aVJamaal Tinsley IND 11/14/2001 IND @ BOS L 15 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 1 0 2 1 -10
+p699
+aVJonathan Bender IND 11/14/2001 IND @ BOS L 11 3 1 5 20.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 1 -7
+p700
+aVPrimoz Brezec IND 11/14/2001 IND @ BOS L 9 8 3 4 75.0 0 0 - 2 4 50.0 3 2 5 0 0 0 0 2 -1
+p701
+aVTravis Best IND 11/14/2001 IND @ BOS L 16 2 1 6 16.7 0 0 - 0 0 - 1 1 2 4 1 0 0 1 -3
+p702
+aVTravis Best IND 11/13/2001 IND vs. NJN L 21 8 3 8 37.5 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 2 -6
+p703
+aVAl Harrington IND 11/13/2001 IND vs. NJN L 43 16 7 17 41.2 0 0 - 2 3 66.7 3 11 14 0 3 0 2 5 -14
+p704
+aVJonathan Bender IND 11/13/2001 IND vs. NJN L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -4
+p705
+aVJalen Rose IND 11/13/2001 IND vs. NJN L 46 21 7 21 33.3 0 1 0.0 7 7 100.0 0 7 7 7 0 1 3 4 0
+p706
+aVAustin Croshere IND 11/13/2001 IND vs. NJN L 16 2 0 3 0.0 0 2 0.0 2 2 100.0 0 3 3 1 0 0 0 1 -4
+p707
+aVJamaal Tinsley IND 11/13/2001 IND vs. NJN L 23 11 4 14 28.6 0 1 0.0 3 4 75.0 1 0 1 6 0 1 4 3 0
+p708
+aVCarlos Rogers IND 11/13/2001 IND vs. NJN L 14 6 2 3 66.7 0 0 - 2 4 50.0 1 5 6 0 1 2 0 1 6
+p709
+aVJeff Foster IND 11/13/2001 IND vs. NJN L 30 8 3 6 50.0 0 0 - 2 2 100.0 6 7 13 1 0 0 2 4 -7
+p710
+aVReggie Miller IND 11/13/2001 IND vs. NJN L 40 10 4 13 30.8 2 6 33.3 0 0 - 0 1 1 1 3 1 1 2 -16
+p711
+aVJeff Foster IND 11/10/2001 IND vs. POR W 16 2 1 4 25.0 0 0 - 0 0 - 6 5 11 0 1 0 0 1 -4
+p712
+aVAl Harrington IND 11/10/2001 IND vs. POR W 27 18 6 8 75.0 0 0 - 6 6 100.0 4 2 6 1 0 0 1 3 6
+p713
+aVJamaal Tinsley IND 11/10/2001 IND vs. POR W 16 4 2 8 25.0 0 1 0.0 0 0 - 0 0 0 4 0 1 2 1 -4
+p714
+aVReggie Miller IND 11/10/2001 IND vs. POR W 34 16 6 15 40.0 4 8 50.0 0 0 - 0 2 2 2 0 0 2 1 10
+p715
+aVTravis Best IND 11/10/2001 IND vs. POR W 30 15 3 7 42.9 1 1 100.0 8 9 88.9 1 1 2 6 2 0 1 1 12
+p716
+aVPrimoz Brezec IND 11/10/2001 IND vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p717
+aVJonathan Bender IND 11/10/2001 IND vs. POR W 20 15 6 9 66.7 3 3 100.0 0 0 - 1 1 2 1 0 1 0 1 2
+p718
+aVJermaine O'Neal IND 11/10/2001 IND vs. POR W 40 11 5 10 50.0 0 0 - 1 2 50.0 2 6 8 0 0 2 2 2 21
+p719
+aVJalen Rose IND 11/10/2001 IND vs. POR W 33 19 8 15 53.3 0 3 0.0 3 5 60.0 0 3 3 3 4 0 3 4 2
+p720
+aVAustin Croshere IND 11/10/2001 IND vs. POR W 21 5 1 7 14.3 1 4 25.0 2 3 66.7 1 4 5 5 0 0 2 2 6
+p721
+aVReggie Miller IND 11/09/2001 IND vs. NYK W 42 21 8 13 61.5 3 4 75.0 2 2 100.0 0 1 1 5 2 0 1 2 3
+p722
+aVJeff Foster IND 11/09/2001 IND vs. NYK W 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -19
+p723
+aVJonathan Bender IND 11/09/2001 IND vs. NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p724
+aVTravis Best IND 11/09/2001 IND vs. NYK W 20 13 5 7 71.4 0 1 0.0 3 3 100.0 0 3 3 4 2 1 2 3 7
+p725
+aVAustin Croshere IND 11/09/2001 IND vs. NYK W 16 2 1 5 20.0 0 1 0.0 0 0 - 1 4 5 0 1 0 1 1 -4
+p726
+aVJermaine O'Neal IND 11/09/2001 IND vs. NYK W 47 22 10 16 62.5 1 1 100.0 1 2 50.0 1 15 16 4 0 3 1 1 13
+p727
+aVJamaal Tinsley IND 11/09/2001 IND vs. NYK W 25 8 4 10 40.0 0 0 - 0 0 - 1 0 1 8 0 1 3 4 3
+p728
+aVAl Harrington IND 11/09/2001 IND vs. NYK W 34 13 4 10 40.0 0 0 - 5 6 83.3 2 6 8 0 0 0 1 3 16
+p729
+aVJalen Rose IND 11/09/2001 IND vs. NYK W 45 22 6 13 46.2 1 1 100.0 9 9 100.0 1 7 8 5 1 2 3 3 21
+p730
+aVReggie Miller IND 11/07/2001 IND vs. SAC W 35 20 5 11 45.5 3 6 50.0 7 7 100.0 1 1 2 6 1 0 2 3 7
+p731
+aVAustin Croshere IND 11/07/2001 IND vs. SAC W 25 11 5 8 62.5 1 2 50.0 0 0 - 0 3 3 5 1 1 2 3 7
+p732
+aVJeff Foster IND 11/07/2001 IND vs. SAC W 12 6 1 3 33.3 0 0 - 4 4 100.0 2 2 4 0 0 1 0 3 -8
+p733
+aVJonathan Bender IND 11/07/2001 IND vs. SAC W 10 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 0 0 1 0 1 -1
+p734
+aVJalen Rose IND 11/07/2001 IND vs. SAC W 40 18 8 14 57.1 0 1 0.0 2 2 100.0 1 4 5 6 1 0 1 4 14
+p735
+aVJermaine O'Neal IND 11/07/2001 IND vs. SAC W 32 16 5 17 29.4 0 0 - 6 6 100.0 1 8 9 2 2 6 1 5 9
+p736
+aVTravis Best IND 11/07/2001 IND vs. SAC W 19 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 4 0 1 2 19
+p737
+aVCarlos Rogers IND 11/07/2001 IND vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p738
+aVAl Harrington IND 11/07/2001 IND vs. SAC W 33 22 11 14 78.6 0 0 - 0 1 0.0 1 4 5 3 0 0 2 2 19
+p739
+aVJamaal Tinsley IND 11/07/2001 IND vs. SAC W 29 10 5 9 55.6 0 1 0.0 0 0 - 1 4 5 8 1 0 2 4 -4
+p740
+aVJermaine O'Neal IND 11/06/2001 IND @ PHI W 40 22 11 19 57.9 0 1 0.0 0 1 0.0 2 6 8 1 1 2 1 5 2
+p741
+aVAl Harrington IND 11/06/2001 IND @ PHI W 14 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 1 1 0 1 9
+p742
+aVJeff Foster IND 11/06/2001 IND @ PHI W 19 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 1 1 0 1 5 5
+p743
+aVTravis Best IND 11/06/2001 IND @ PHI W 24 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 6 0 0 3 2 14
+p744
+aVJalen Rose IND 11/06/2001 IND @ PHI W 43 26 10 20 50.0 1 4 25.0 5 7 71.4 2 3 5 5 0 0 4 2 11
+p745
+aVAustin Croshere IND 11/06/2001 IND @ PHI W 31 11 5 8 62.5 1 2 50.0 0 0 - 4 4 8 0 1 0 3 2 12
+p746
+aVJamaal Tinsley IND 11/06/2001 IND @ PHI W 26 4 0 8 0.0 0 2 0.0 4 4 100.0 0 2 2 7 3 0 2 1 -2
+p747
+aVReggie Miller IND 11/06/2001 IND @ PHI W 36 15 5 11 45.5 1 4 25.0 4 5 80.0 1 1 2 1 2 0 0 0 -2
+p748
+aVCarlos Rogers IND 11/06/2001 IND @ PHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p749
+aVAustin Croshere IND 11/04/2001 IND @ TOR L 22 13 2 9 22.2 2 3 66.7 7 8 87.5 0 3 3 0 1 1 4 3 -8
+p750
+aVPrimoz Brezec IND 11/04/2001 IND @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p751
+aVJamaal Tinsley IND 11/04/2001 IND @ TOR L 27 8 3 8 37.5 1 2 50.0 1 2 50.0 1 2 3 3 1 1 2 5 -1
+p752
+aVJalen Rose IND 11/04/2001 IND @ TOR L 41 17 7 22 31.8 1 5 20.0 2 3 66.7 1 3 4 5 1 0 4 2 -10
+p753
+aVJermaine O'Neal IND 11/04/2001 IND @ TOR L 27 21 8 13 61.5 0 1 0.0 5 6 83.3 2 5 7 1 1 1 3 5 -12
+p754
+aVJeff Foster IND 11/04/2001 IND @ TOR L 19 5 2 6 33.3 0 0 - 1 3 33.3 5 5 10 3 1 0 2 4 -1
+p755
+aVCarlos Rogers IND 11/04/2001 IND @ TOR L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p756
+aVReggie Miller IND 11/04/2001 IND @ TOR L 38 15 4 12 33.3 3 9 33.3 4 4 100.0 1 5 6 4 0 0 1 3 -6
+p757
+aVAl Harrington IND 11/04/2001 IND @ TOR L 22 9 3 9 33.3 0 0 - 3 4 75.0 4 1 5 2 1 1 1 4 -11
+p758
+aVTravis Best IND 11/04/2001 IND @ TOR L 25 8 3 6 50.0 0 1 0.0 2 2 100.0 1 2 3 4 3 0 0 3 -13
+p759
+aVBruno Sundov IND 11/04/2001 IND @ TOR L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p760
+aVJonathan Bender IND 11/04/2001 IND @ TOR L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p761
+aVJeff Foster IND 11/02/2001 IND vs. ORL W 16 13 4 7 57.1 0 0 - 5 9 55.6 1 5 6 1 1 0 0 3 -5
+p762
+aVTravis Best IND 11/02/2001 IND vs. ORL W 22 10 4 8 50.0 2 2 100.0 0 0 - 1 2 3 4 2 0 5 3 9
+p763
+aVJamaal Tinsley IND 11/02/2001 IND vs. ORL W 26 10 4 4 100.0 1 1 100.0 1 2 50.0 1 0 1 10 2 2 3 3 7
+p764
+aVJermaine O'Neal IND 11/02/2001 IND vs. ORL W 40 17 8 15 53.3 0 0 - 1 2 50.0 2 6 8 3 0 4 2 3 4
+p765
+aVAustin Croshere IND 11/02/2001 IND vs. ORL W 24 8 1 8 12.5 0 3 0.0 6 6 100.0 3 5 8 4 1 0 2 3 8
+p766
+aVReggie Miller IND 11/02/2001 IND vs. ORL W 36 17 4 7 57.1 2 4 50.0 7 7 100.0 0 4 4 5 1 0 0 1 6
+p767
+aVJonathan Bender IND 11/02/2001 IND vs. ORL W 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 1 2 -2
+p768
+aVJalen Rose IND 11/02/2001 IND vs. ORL W 43 24 9 16 56.3 1 4 25.0 5 5 100.0 2 5 7 6 3 0 0 2 13
+p769
+aVAl Harrington IND 11/02/2001 IND vs. ORL W 26 16 7 13 53.8 0 0 - 2 2 100.0 2 2 4 1 0 0 1 5 10
+p770
+aVJermaine O'Neal IND 10/31/2001 IND @ CHI W 35 25 9 15 60.0 0 0 - 7 10 70.0 5 5 10 1 1 3 2 3 16
+p771
+aVAl Harrington IND 10/31/2001 IND @ CHI W 22 6 2 7 28.6 0 1 0.0 2 2 100.0 1 4 5 1 0 0 1 6 22
+p772
+aVJamaal Tinsley IND 10/31/2001 IND @ CHI W 36 12 5 13 38.5 0 1 0.0 2 2 100.0 2 4 6 13 5 0 2 3 21
+p773
+aVJonathan Bender IND 10/31/2001 IND @ CHI W 15 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 2 2 12
+p774
+aVReggie Miller IND 10/31/2001 IND @ CHI W 33 11 3 9 33.3 2 6 33.3 3 4 75.0 3 4 7 3 0 0 1 3 15
+p775
+aVAustin Croshere IND 10/31/2001 IND @ CHI W 21 14 6 8 75.0 1 1 100.0 1 1 100.0 0 4 4 2 0 0 0 1 21
+p776
+aVJalen Rose IND 10/31/2001 IND @ CHI W 28 19 8 17 47.1 1 2 50.0 2 2 100.0 0 3 3 3 0 0 1 2 4
+p777
+aVTravis Best IND 10/31/2001 IND @ CHI W 12 0 0 4 0.0 0 0 - 0 0 - 0 5 5 7 1 0 0 0 6
+p778
+aVBruno Sundov IND 10/31/2001 IND @ CHI W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 6
+p779
+aVJeff Foster IND 10/31/2001 IND @ CHI W 34 4 1 6 16.7 0 1 0.0 2 2 100.0 1 8 9 1 2 1 1 2 12
+p780
+aVAl Harrington IND 10/30/2001 IND @ NJN L 13 6 2 3 66.7 0 0 - 2 3 66.7 0 2 2 0 0 0 2 4 -14
+p781
+aVJonathan Bender IND 10/30/2001 IND @ NJN L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p782
+aVJalen Rose IND 10/30/2001 IND @ NJN L 44 43 18 27 66.7 2 3 66.7 5 6 83.3 1 5 6 3 1 0 3 3 8
+p783
+aVJeff Foster IND 10/30/2001 IND @ NJN L 36 4 1 4 25.0 0 0 - 2 2 100.0 3 9 12 2 2 2 1 5 0
+p784
+aVReggie Miller IND 10/30/2001 IND @ NJN L 36 20 6 15 40.0 3 10 30.0 5 5 100.0 1 5 6 0 0 2 4 1 -6
+p785
+aVAustin Croshere IND 10/30/2001 IND @ NJN L 26 2 0 4 0.0 0 0 - 2 2 100.0 1 6 7 3 1 1 1 2 2
+p786
+aVTravis Best IND 10/30/2001 IND @ NJN L 30 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 4 2 0 2 1 -5
+p787
+aVJermaine O'Neal IND 10/30/2001 IND @ NJN L 26 9 4 14 28.6 0 0 - 1 2 50.0 3 3 6 1 0 1 5 5 -2
+p788
+aVJamaal Tinsley IND 10/30/2001 IND @ NJN L 24 4 2 5 40.0 0 0 - 0 0 - 0 1 1 8 2 0 2 3 -8
+p789
+a.

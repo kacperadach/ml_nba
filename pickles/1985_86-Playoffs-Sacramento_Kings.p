@@ -1,0 +1,72 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMike Bratz SAC 04/22/1986 SAC vs. HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p2
+aVMark Olberding SAC 04/22/1986 SAC vs. HOU L 32 5 1 3 33.3 0 0 - 3 4 75.0 1 5 6 2 0 0 3 3 -
+p3
+aVEddie Johnson SAC 04/22/1986 SAC vs. HOU L 41 33 13 25 52.0 0 0 - 7 8 87.5 4 4 8 2 0 1 2 1 -
+p4
+aVOtis Thorpe SAC 04/22/1986 SAC vs. HOU L 4 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 -
+p5
+aVReggie Theus SAC 04/22/1986 SAC vs. HOU L 34 8 3 14 21.4 0 0 - 2 2 100.0 1 2 3 8 2 1 6 5 -
+p6
+aVJoe Kleine SAC 04/22/1986 SAC vs. HOU L 16 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 0 0 1 2 3 -
+p7
+aVLarry Drew SAC 04/22/1986 SAC vs. HOU L 19 7 3 7 42.9 1 2 50.0 0 0 - 0 0 0 7 1 0 0 0 -
+p8
+aVMike Woodson SAC 04/22/1986 SAC vs. HOU L 40 25 9 21 42.9 0 1 0.0 7 7 100.0 4 4 8 0 2 0 5 5 -
+p9
+aVTerry Tyler SAC 04/22/1986 SAC vs. HOU L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 1 1 0 1 -
+p10
+aVRich Kelley SAC 04/22/1986 SAC vs. HOU L 12 5 1 5 20.0 0 0 - 3 4 75.0 2 0 2 2 1 0 0 1 -
+p11
+aVLaSalle Thompson SAC 04/22/1986 SAC vs. HOU L 32 8 3 8 37.5 0 0 - 2 3 66.7 4 4 8 0 0 3 0 5 -
+p12
+aVMike Woodson SAC 04/19/1986 SAC @ HOU L 35 15 5 14 35.7 0 1 0.0 5 5 100.0 2 0 2 4 1 1 3 4 -
+p13
+aVOtis Thorpe SAC 04/19/1986 SAC @ HOU L 11 5 1 4 25.0 0 0 - 3 5 60.0 2 0 2 0 0 1 0 1 -
+p14
+aVReggie Theus SAC 04/19/1986 SAC @ HOU L 30 19 8 12 66.7 0 1 0.0 3 4 75.0 1 3 4 7 1 0 5 3 -
+p15
+aVRich Kelley SAC 04/19/1986 SAC @ HOU L 20 6 2 2 100.0 0 0 - 2 2 100.0 3 5 8 2 1 0 2 4 -
+p16
+aVTerry Tyler SAC 04/19/1986 SAC @ HOU L 17 2 1 7 14.3 0 0 - 0 0 - 0 1 1 0 0 2 0 2 -
+p17
+aVLarry Drew SAC 04/19/1986 SAC @ HOU L 29 20 9 13 69.2 0 1 0.0 2 2 100.0 0 1 1 5 3 0 0 2 -
+p18
+aVLaSalle Thompson SAC 04/19/1986 SAC @ HOU L 29 10 4 11 36.4 0 0 - 2 3 66.7 2 8 10 0 2 3 2 3 -
+p19
+aVJoe Kleine SAC 04/19/1986 SAC @ HOU L 19 7 2 4 50.0 0 0 - 3 4 75.0 3 1 4 1 1 0 0 3 -
+p20
+aVEddie Johnson SAC 04/19/1986 SAC @ HOU L 31 17 8 19 42.1 0 2 0.0 1 1 100.0 2 5 7 2 3 0 1 3 -
+p21
+aVMike Bratz SAC 04/19/1986 SAC @ HOU L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p22
+aVMark Olberding SAC 04/19/1986 SAC @ HOU L 17 2 0 1 0.0 0 0 - 2 4 50.0 2 2 4 0 0 0 3 4 -
+p23
+aVMark Olberding SAC 04/17/1986 SAC @ HOU L 25 8 2 5 40.0 0 0 - 4 4 100.0 1 2 3 1 2 1 1 2 -
+p24
+aVMike Woodson SAC 04/17/1986 SAC @ HOU L 35 16 8 14 57.1 0 0 - 0 0 - 1 0 1 1 1 1 3 4 -
+p25
+aVMike Bratz SAC 04/17/1986 SAC @ HOU L 10 7 3 4 75.0 0 0 - 1 1 100.0 2 1 3 1 0 0 2 0 -
+p26
+aVLarry Drew SAC 04/17/1986 SAC @ HOU L 8 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -
+p27
+aVJoe Kleine SAC 04/17/1986 SAC @ HOU L 10 2 1 5 20.0 0 0 - 0 0 - 2 3 5 0 0 0 0 2 -
+p28
+aVRich Kelley SAC 04/17/1986 SAC @ HOU L 3 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p29
+aVEddie Johnson SAC 04/17/1986 SAC @ HOU L 24 6 3 11 27.3 0 1 0.0 0 0 - 4 2 6 0 0 0 3 3 -
+p30
+aVReggie Theus SAC 04/17/1986 SAC @ HOU L 38 18 7 20 35.0 0 0 - 4 6 66.7 1 0 1 4 0 1 3 1 -
+p31
+aVLaSalle Thompson SAC 04/17/1986 SAC @ HOU L 38 11 4 13 30.8 0 0 - 3 6 50.0 8 9 17 2 0 0 2 0 -
+p32
+aVCarl Henry SAC 04/17/1986 SAC @ HOU L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p33
+aVOtis Thorpe SAC 04/17/1986 SAC @ HOU L 20 6 2 8 25.0 0 0 - 2 6 33.3 5 3 8 0 0 0 0 3 -
+p34
+aVTerry Tyler SAC 04/17/1986 SAC @ HOU L 27 6 1 2 50.0 0 0 - 4 4 100.0 2 3 5 2 1 0 1 2 -
+p35
+a.

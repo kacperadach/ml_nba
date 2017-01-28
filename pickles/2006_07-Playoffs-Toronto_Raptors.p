@@ -1,0 +1,132 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChris Bosh TOR 05/04/2007 TOR @ NJN L 42 23 8 22 36.4 1 2 50.0 6 7 85.7 0 7 7 9 1 3 3 4 4
+p2
+aVJose Calderon TOR 05/04/2007 TOR @ NJN L 33 14 6 12 50.0 1 2 50.0 1 1 100.0 0 2 2 6 4 0 1 2 -2
+p3
+aVAnthony Parker TOR 05/04/2007 TOR @ NJN L 40 12 4 9 44.4 0 1 0.0 4 6 66.7 0 1 1 3 1 0 2 5 -10
+p4
+aVT.J. Ford TOR 05/04/2007 TOR @ NJN L 15 19 7 10 70.0 1 1 100.0 4 5 80.0 1 2 3 1 0 0 1 0 1
+p5
+aVMorris Peterson TOR 05/04/2007 TOR @ NJN L 45 9 4 5 80.0 0 0 - 1 2 50.0 1 7 8 0 2 1 1 4 2
+p6
+aVJoey Graham TOR 05/04/2007 TOR @ NJN L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p7
+aVAndrea Bargnani TOR 05/04/2007 TOR @ NJN L 40 17 6 11 54.5 2 2 100.0 3 4 75.0 0 7 7 1 1 1 1 3 -5
+p8
+aVJuan Dixon TOR 05/04/2007 TOR @ NJN L 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 2 0 2
+p9
+aVKris Humphries TOR 05/04/2007 TOR @ NJN L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 3
+p10
+aVLuke Jackson TOR 05/01/2007 TOR vs. NJN W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 3
+p11
+aVJose Calderon TOR 05/01/2007 TOR vs. NJN W 38 25 12 20 60.0 0 3 0.0 1 2 50.0 1 1 2 8 1 0 4 3 -5
+p12
+aVRasho Nesterovic TOR 05/01/2007 TOR vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p13
+aVMorris Peterson TOR 05/01/2007 TOR vs. NJN W 45 17 5 8 62.5 3 3 100.0 4 4 100.0 1 4 5 0 0 0 2 6 10
+p14
+aVJoey Graham TOR 05/01/2007 TOR vs. NJN W 25 4 2 3 66.7 0 0 - 0 0 - 0 10 10 0 0 0 0 4 1
+p15
+aVAnthony Parker TOR 05/01/2007 TOR vs. NJN W 46 18 5 12 41.7 0 2 0.0 8 8 100.0 0 6 6 2 0 1 0 1 4
+p16
+aVJuan Dixon TOR 05/01/2007 TOR vs. NJN W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p17
+aVT.J. Ford TOR 05/01/2007 TOR vs. NJN W 7 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 2 0 0 1 1 8
+p18
+aVChris Bosh TOR 05/01/2007 TOR vs. NJN W 25 11 3 11 27.3 0 0 - 5 6 83.3 3 5 8 0 0 4 1 4 -9
+p19
+aVDarrick Martin TOR 05/01/2007 TOR vs. NJN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p20
+aVKris Humphries TOR 05/01/2007 TOR vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p21
+aVAndrea Bargnani TOR 05/01/2007 TOR vs. NJN W 41 18 6 9 66.7 2 3 66.7 4 5 80.0 0 4 4 0 1 1 1 3 14
+p22
+aVChris Bosh TOR 04/29/2007 TOR @ NJN L 32 13 5 12 41.7 0 1 0.0 3 3 100.0 2 8 10 1 0 1 3 3 -32
+p23
+aVMorris Peterson TOR 04/29/2007 TOR @ NJN L 19 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -11
+p24
+aVKris Humphries TOR 04/29/2007 TOR @ NJN L 14 4 1 2 50.0 0 0 - 2 6 33.3 1 3 4 1 0 1 1 2 7
+p25
+aVT.J. Ford TOR 04/29/2007 TOR @ NJN L 23 13 6 16 37.5 1 2 50.0 0 0 - 1 1 2 5 3 1 4 1 -25
+p26
+aVAndrea Bargnani TOR 04/29/2007 TOR @ NJN L 40 16 5 8 62.5 2 4 50.0 4 4 100.0 1 3 4 4 1 0 3 4 -27
+p27
+aVLuke Jackson TOR 04/29/2007 TOR @ NJN L 6 4 0 0 - 0 0 - 4 4 100.0 1 4 5 0 0 0 1 1 8
+p28
+aVRasho Nesterovic TOR 04/29/2007 TOR @ NJN L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -19
+p29
+aVDarrick Martin TOR 04/29/2007 TOR @ NJN L 5 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 0 8
+p30
+aVAnthony Parker TOR 04/29/2007 TOR @ NJN L 28 5 1 6 16.7 0 2 0.0 3 4 75.0 1 2 3 0 0 0 1 2 -22
+p31
+aVJoey Graham TOR 04/29/2007 TOR @ NJN L 16 6 2 4 50.0 0 1 0.0 2 3 66.7 0 4 4 0 2 0 2 2 11
+p32
+aVJose Calderon TOR 04/29/2007 TOR @ NJN L 20 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 4 0 0 3 3 -4
+p33
+aVJuan Dixon TOR 04/29/2007 TOR @ NJN L 27 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 2 2 0 3 2 1
+p34
+aVJuan Dixon TOR 04/27/2007 TOR @ NJN L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 2 0 1 0 -8
+p35
+aVRasho Nesterovic TOR 04/27/2007 TOR @ NJN L 18 7 3 4 75.0 0 0 - 1 1 100.0 2 2 4 0 0 1 2 0 -6
+p36
+aVAnthony Parker TOR 04/27/2007 TOR @ NJN L 39 14 3 10 30.0 1 4 25.0 7 8 87.5 1 4 5 0 1 0 1 4 -13
+p37
+aVJose Calderon TOR 04/27/2007 TOR @ NJN L 16 12 6 6 100.0 0 0 - 0 0 - 0 1 1 3 0 0 6 1 -6
+p38
+aVChris Bosh TOR 04/27/2007 TOR @ NJN L 45 11 3 10 30.0 0 1 0.0 5 6 83.3 0 11 11 2 3 1 2 2 -12
+p39
+aVLuke Jackson TOR 04/27/2007 TOR @ NJN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p40
+aVJoey Graham TOR 04/27/2007 TOR @ NJN L 13 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 0 -16
+p41
+aVKris Humphries TOR 04/27/2007 TOR @ NJN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p42
+aVAndrea Bargnani TOR 04/27/2007 TOR @ NJN L 25 9 4 10 40.0 1 4 25.0 0 0 - 1 3 4 0 2 1 0 4 0
+p43
+aVMorris Peterson TOR 04/27/2007 TOR @ NJN L 34 7 3 7 42.9 1 4 25.0 0 0 - 1 6 7 0 0 0 0 5 7
+p44
+aVT.J. Ford TOR 04/27/2007 TOR @ NJN L 34 27 11 22 50.0 2 3 66.7 3 4 75.0 1 0 1 8 2 0 4 2 -9
+p45
+aVRasho Nesterovic TOR 04/24/2007 TOR vs. NJN W 23 6 2 5 40.0 0 0 - 2 2 100.0 4 4 8 0 0 0 0 1 7
+p46
+aVAndrea Bargnani TOR 04/24/2007 TOR vs. NJN W 18 3 0 4 0.0 0 2 0.0 3 4 75.0 1 2 3 0 0 0 0 0 -3
+p47
+aVAnthony Parker TOR 04/24/2007 TOR vs. NJN W 45 26 8 13 61.5 3 4 75.0 7 9 77.8 0 8 8 1 4 1 1 2 13
+p48
+aVMorris Peterson TOR 04/24/2007 TOR vs. NJN W 34 6 2 5 40.0 2 3 66.7 0 0 - 0 3 3 2 0 0 3 3 10
+p49
+aVKris Humphries TOR 04/24/2007 TOR vs. NJN W 11 0 0 2 0.0 0 0 - 0 0 - 3 2 5 0 0 0 1 1 -3
+p50
+aVJose Calderon TOR 04/24/2007 TOR vs. NJN W 18 8 4 11 36.4 0 3 0.0 0 0 - 0 1 1 3 0 0 0 2 2
+p51
+aVChris Bosh TOR 04/24/2007 TOR vs. NJN W 45 25 10 20 50.0 0 0 - 5 6 83.3 2 11 13 0 0 2 2 3 6
+p52
+aVT.J. Ford TOR 04/24/2007 TOR vs. NJN W 30 13 4 12 33.3 1 3 33.3 4 4 100.0 1 0 1 6 1 0 1 2 6
+p53
+aVJoey Graham TOR 04/24/2007 TOR vs. NJN W 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 2 0 1 1 -10
+p54
+aVJuan Dixon TOR 04/24/2007 TOR vs. NJN W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 2 0 1 2 2
+p55
+aVT.J. Ford TOR 04/21/2007 TOR vs. NJN L 27 21 8 13 61.5 0 1 0.0 5 6 83.3 1 1 2 2 1 1 3 1 -11
+p56
+aVChris Bosh TOR 04/21/2007 TOR vs. NJN L 34 22 7 16 43.8 0 1 0.0 8 10 80.0 0 5 5 3 1 0 1 3 14
+p57
+aVAnthony Parker TOR 04/21/2007 TOR vs. NJN L 42 16 5 12 41.7 4 7 57.1 2 4 50.0 1 8 9 0 3 0 2 4 2
+p58
+aVJoey Graham TOR 04/21/2007 TOR vs. NJN L 35 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 0 2 4 4
+p59
+aVJuan Dixon TOR 04/21/2007 TOR vs. NJN L 16 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 0 0 2 1 -11
+p60
+aVKris Humphries TOR 04/21/2007 TOR vs. NJN L 24 5 2 4 50.0 0 0 - 1 2 50.0 2 4 6 0 1 1 0 4 3
+p61
+aVAndrea Bargnani TOR 04/21/2007 TOR vs. NJN L 16 3 1 4 25.0 0 2 0.0 1 2 50.0 0 2 2 1 0 0 2 2 -17
+p62
+aVRasho Nesterovic TOR 04/21/2007 TOR vs. NJN L 19 2 1 5 20.0 0 0 - 0 0 - 4 6 10 3 0 1 1 0 -9
+p63
+aVJose Calderon TOR 04/21/2007 TOR vs. NJN L 21 13 5 14 35.7 2 3 66.7 1 1 100.0 1 2 3 8 0 0 1 1 6
+p64
+aVMorris Peterson TOR 04/21/2007 TOR vs. NJN L 7 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -6
+p65
+a.

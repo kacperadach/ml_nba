@@ -1,0 +1,1620 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEmanual Davis SEA 04/18/2001 SEA vs. SAS W 20 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 3 0 0 0 3 3
+p2
+aVDavid Wingate SEA 04/18/2001 SEA vs. SAS W 9 6 3 3 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 12
+p3
+aVRuben Wolkowyski SEA 04/18/2001 SEA vs. SAS W 29 3 1 6 16.7 0 0 - 1 1 100.0 0 4 4 0 0 2 1 3 13
+p4
+aVDesmond Mason SEA 04/18/2001 SEA vs. SAS W 28 25 11 19 57.9 0 2 0.0 3 4 75.0 2 1 3 3 0 1 0 0 35
+p5
+aVShammond Williams SEA 04/18/2001 SEA vs. SAS W 14 2 1 3 33.3 0 0 - 0 0 - 0 5 5 4 0 0 1 0 11
+p6
+aVOlumide Oyedeji SEA 04/18/2001 SEA vs. SAS W 30 4 2 5 40.0 0 0 - 0 0 - 3 11 14 2 1 2 0 2 29
+p7
+aVRashard Lewis SEA 04/18/2001 SEA vs. SAS W 39 18 7 13 53.8 3 6 50.0 1 1 100.0 2 4 6 3 3 1 3 1 32
+p8
+aVPatrick Ewing SEA 04/18/2001 SEA vs. SAS W 33 8 3 8 37.5 0 0 - 2 5 40.0 2 8 10 1 0 2 0 4 25
+p9
+aVGary Payton SEA 04/18/2001 SEA vs. SAS W 38 31 12 23 52.2 5 5 100.0 2 2 100.0 0 5 5 8 2 0 0 0 30
+p10
+aVRuben Wolkowyski SEA 04/15/2001 SEA vs. DAL L 18 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 2 2 -5
+p11
+aVShammond Williams SEA 04/15/2001 SEA vs. DAL L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 3 0
+p12
+aVPatrick Ewing SEA 04/15/2001 SEA vs. DAL L 42 13 5 16 31.3 0 0 - 3 5 60.0 2 4 6 1 1 1 1 2 -15
+p13
+aVBrent Barry SEA 04/15/2001 SEA vs. DAL L 38 15 6 12 50.0 3 5 60.0 0 0 - 0 6 6 3 2 0 3 4 -1
+p14
+aVDesmond Mason SEA 04/15/2001 SEA vs. DAL L 35 9 4 10 40.0 0 1 0.0 1 1 100.0 2 5 7 1 2 0 1 3 4
+p15
+aVGary Payton SEA 04/15/2001 SEA vs. DAL L 50 23 10 25 40.0 0 3 0.0 3 3 100.0 1 5 6 13 1 1 2 5 -8
+p16
+aVRashard Lewis SEA 04/15/2001 SEA vs. DAL L 33 17 5 12 41.7 3 5 60.0 4 6 66.7 2 5 7 1 1 1 4 6 7
+p17
+aVOlumide Oyedeji SEA 04/15/2001 SEA vs. DAL L 13 1 0 1 0.0 0 0 - 1 2 50.0 1 4 5 0 1 0 1 3 -8
+p18
+aVEmanual Davis SEA 04/15/2001 SEA vs. DAL L 28 15 6 11 54.5 3 6 50.0 0 0 - 0 4 4 0 1 1 1 0 -14
+p19
+aVShammond Williams SEA 04/13/2001 SEA @ PHX L 26 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 6 2 0 1 2 -8
+p20
+aVBrent Barry SEA 04/13/2001 SEA @ PHX L 27 6 2 2 100.0 1 1 100.0 1 2 50.0 0 3 3 5 1 1 2 3 1
+p21
+aVDesmond Mason SEA 04/13/2001 SEA @ PHX L 29 11 5 11 45.5 1 3 33.3 0 0 - 3 2 5 0 0 0 0 1 -2
+p22
+aVGary Payton SEA 04/13/2001 SEA @ PHX L 45 21 10 24 41.7 1 4 25.0 0 0 - 2 4 6 3 2 0 1 4 -10
+p23
+aVJelani McCoy SEA 04/13/2001 SEA @ PHX L 16 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 0 1 1 1 -8
+p24
+aVRuben Patterson SEA 04/13/2001 SEA @ PHX L 11 6 3 6 50.0 0 0 - 0 2 0.0 2 1 3 0 0 0 1 1 -2
+p25
+aVOlumide Oyedeji SEA 04/13/2001 SEA @ PHX L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 3
+p26
+aVEmanual Davis SEA 04/13/2001 SEA @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p27
+aVRashard Lewis SEA 04/13/2001 SEA @ PHX L 43 27 9 12 75.0 4 4 100.0 5 5 100.0 3 5 8 2 0 0 3 4 -4
+p28
+aVPatrick Ewing SEA 04/13/2001 SEA @ PHX L 29 21 8 18 44.4 0 0 - 5 9 55.6 3 5 8 1 0 0 1 5 -11
+p29
+aVVin Baker SEA 04/13/2001 SEA @ PHX L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -5
+p30
+aVGary Payton SEA 04/11/2001 SEA vs. GSW W 40 32 13 21 61.9 1 2 50.0 5 6 83.3 3 1 4 7 4 0 3 3 7
+p31
+aVRashard Lewis SEA 04/11/2001 SEA vs. GSW W 32 17 7 12 58.3 2 4 50.0 1 1 100.0 0 2 2 0 0 1 1 3 4
+p32
+aVBrent Barry SEA 04/11/2001 SEA vs. GSW W 26 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 5 2 0 1 0 -1
+p33
+aVDesmond Mason SEA 04/11/2001 SEA vs. GSW W 19 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 1
+p34
+aVPatrick Ewing SEA 04/11/2001 SEA vs. GSW W 29 13 5 8 62.5 0 0 - 3 6 50.0 0 5 5 0 1 0 3 3 2
+p35
+aVRuben Wolkowyski SEA 04/11/2001 SEA vs. GSW W 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 1 1 0 2 1
+p36
+aVJelani McCoy SEA 04/11/2001 SEA vs. GSW W 16 6 3 4 75.0 0 0 - 0 0 - 1 0 1 4 0 0 2 1 0
+p37
+aVEmanual Davis SEA 04/11/2001 SEA vs. GSW W 25 2 1 3 33.3 0 0 - 0 0 - 0 4 4 8 1 0 2 2 7
+p38
+aVOlumide Oyedeji SEA 04/11/2001 SEA vs. GSW W 7 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 3
+p39
+aVShammond Williams SEA 04/11/2001 SEA vs. GSW W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -1
+p40
+aVRuben Patterson SEA 04/11/2001 SEA vs. GSW W 28 14 6 8 75.0 0 0 - 2 4 50.0 3 3 6 4 1 0 3 4 7
+p41
+aVPatrick Ewing SEA 04/08/2001 SEA vs. MIL W 23 9 3 11 27.3 0 0 - 3 4 75.0 2 6 8 4 0 3 0 2 24
+p42
+aVRuben Patterson SEA 04/08/2001 SEA vs. MIL W 28 17 7 11 63.6 0 0 - 3 3 100.0 0 2 2 1 2 1 3 4 -2
+p43
+aVJelani McCoy SEA 04/08/2001 SEA vs. MIL W 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 5
+p44
+aVVin Baker SEA 04/08/2001 SEA vs. MIL W 20 13 5 9 55.6 0 0 - 3 4 75.0 0 4 4 0 0 0 1 3 -7
+p45
+aVDesmond Mason SEA 04/08/2001 SEA vs. MIL W 24 2 1 4 25.0 0 1 0.0 0 0 - 2 3 5 1 0 1 0 1 11
+p46
+aVEmanual Davis SEA 04/08/2001 SEA vs. MIL W 24 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 1 0 0 3 2
+p47
+aVBrent Barry SEA 04/08/2001 SEA vs. MIL W 26 8 3 7 42.9 2 5 40.0 0 0 - 1 3 4 3 1 1 2 1 0
+p48
+aVRashard Lewis SEA 04/08/2001 SEA vs. MIL W 33 20 10 20 50.0 0 4 0.0 0 0 - 3 4 7 0 1 0 0 3 8
+p49
+aVGary Payton SEA 04/08/2001 SEA vs. MIL W 44 26 12 24 50.0 2 5 40.0 0 0 - 2 5 7 15 1 0 0 2 24
+p50
+aVShammond Williams SEA 04/05/2001 SEA @ HOU L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p51
+aVEmanual Davis SEA 04/05/2001 SEA @ HOU L 27 4 2 6 33.3 0 1 0.0 0 0 - 3 1 4 6 1 0 0 1 0
+p52
+aVRashard Lewis SEA 04/05/2001 SEA @ HOU L 31 7 3 8 37.5 0 1 0.0 1 2 50.0 2 9 11 2 0 1 1 1 5
+p53
+aVBrent Barry SEA 04/05/2001 SEA @ HOU L 24 9 3 7 42.9 3 5 60.0 0 0 - 0 0 0 1 0 0 0 0 3
+p54
+aVVin Baker SEA 04/05/2001 SEA @ HOU L 27 20 10 16 62.5 0 0 - 0 0 - 2 2 4 1 0 0 1 4 -2
+p55
+aVDesmond Mason SEA 04/05/2001 SEA @ HOU L 17 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 0 1 0 0 0 -8
+p56
+aVGary Payton SEA 04/05/2001 SEA @ HOU L 45 20 10 21 47.6 0 2 0.0 0 0 - 1 4 5 6 0 0 4 2 -3
+p57
+aVPatrick Ewing SEA 04/05/2001 SEA @ HOU L 19 5 1 6 16.7 0 0 - 3 4 75.0 1 6 7 0 0 2 3 3 -3
+p58
+aVRuben Patterson SEA 04/05/2001 SEA @ HOU L 25 12 4 10 40.0 0 0 - 4 5 80.0 2 1 3 1 0 0 3 0 -15
+p59
+aVJelani McCoy SEA 04/05/2001 SEA @ HOU L 16 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 1 1 1 2 6
+p60
+aVGary Payton SEA 04/03/2001 SEA @ SAS L 42 23 10 20 50.0 1 2 50.0 2 5 40.0 0 3 3 10 3 1 1 2 -12
+p61
+aVVin Baker SEA 04/03/2001 SEA @ SAS L 32 10 4 12 33.3 0 0 - 2 4 50.0 1 5 6 2 0 0 1 5 -10
+p62
+aVBrent Barry SEA 04/03/2001 SEA @ SAS L 20 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 3 2 0 2 3 -19
+p63
+aVRuben Wolkowyski SEA 04/03/2001 SEA @ SAS L 6 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 1 1 0 2 -6
+p64
+aVRuben Patterson SEA 04/03/2001 SEA @ SAS L 30 14 6 10 60.0 0 0 - 2 4 50.0 0 2 2 1 1 0 3 1 -12
+p65
+aVRashard Lewis SEA 04/03/2001 SEA @ SAS L 43 23 9 15 60.0 2 4 50.0 3 4 75.0 1 3 4 1 1 0 1 2 -15
+p66
+aVDesmond Mason SEA 04/03/2001 SEA @ SAS L 9 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 0 1 0 0 1 -4
+p67
+aVOlumide Oyedeji SEA 04/03/2001 SEA @ SAS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p68
+aVShammond Williams SEA 04/03/2001 SEA @ SAS L 21 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 6 0 0 4 4 1
+p69
+aVEmanual Davis SEA 04/03/2001 SEA @ SAS L 28 4 1 7 14.3 0 3 0.0 2 2 100.0 2 3 5 0 1 0 2 0 -8
+p70
+aVDesmond Mason SEA 03/30/2001 SEA vs. LAC W 18 10 3 6 50.0 1 2 50.0 3 3 100.0 1 6 7 1 1 0 0 2 16
+p71
+aVEmanual Davis SEA 03/30/2001 SEA vs. LAC W 35 9 4 9 44.4 1 5 20.0 0 0 - 2 2 4 6 4 0 2 3 0
+p72
+aVRuben Patterson SEA 03/30/2001 SEA vs. LAC W 26 7 3 9 33.3 0 0 - 1 2 50.0 3 1 4 5 0 0 2 2 9
+p73
+aVJelani McCoy SEA 03/30/2001 SEA vs. LAC W 17 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 2 2 2 -4
+p74
+aVGary Payton SEA 03/30/2001 SEA vs. LAC W 39 28 9 20 45.0 5 6 83.3 5 5 100.0 3 2 5 5 4 1 3 3 6
+p75
+aVVin Baker SEA 03/30/2001 SEA vs. LAC W 31 13 5 10 50.0 0 0 - 3 4 75.0 2 4 6 1 0 3 0 2 14
+p76
+aVRashard Lewis SEA 03/30/2001 SEA vs. LAC W 34 12 5 13 38.5 2 5 40.0 0 1 0.0 2 4 6 6 0 0 0 1 -1
+p77
+aVPatrick Ewing SEA 03/30/2001 SEA vs. LAC W 17 4 1 6 16.7 0 0 - 2 2 100.0 0 6 6 0 2 0 1 0 -4
+p78
+aVBrent Barry SEA 03/30/2001 SEA vs. LAC W 23 5 2 8 25.0 1 3 33.3 0 0 - 0 4 4 3 2 0 2 1 14
+p79
+aVJelani McCoy SEA 03/28/2001 SEA vs. MIN W 16 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 -6
+p80
+aVRashard Lewis SEA 03/28/2001 SEA vs. MIN W 33 9 3 8 37.5 1 4 25.0 2 2 100.0 2 6 8 4 2 1 1 1 0
+p81
+aVEmanual Davis SEA 03/28/2001 SEA vs. MIN W 27 7 3 7 42.9 1 1 100.0 0 0 - 0 4 4 0 0 0 2 1 -5
+p82
+aVPatrick Ewing SEA 03/28/2001 SEA vs. MIN W 32 19 8 14 57.1 0 0 - 3 8 37.5 3 7 10 1 0 1 2 5 -5
+p83
+aVGary Payton SEA 03/28/2001 SEA vs. MIN W 45 23 9 17 52.9 1 2 50.0 4 5 80.0 0 4 4 11 2 0 4 1 0
+p84
+aVBrent Barry SEA 03/28/2001 SEA vs. MIN W 23 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 1 0 0 1 7
+p85
+aVRuben Patterson SEA 03/28/2001 SEA vs. MIN W 23 19 7 11 63.6 0 0 - 5 8 62.5 1 1 2 2 2 1 2 1 9
+p86
+aVDesmond Mason SEA 03/28/2001 SEA vs. MIN W 19 10 4 8 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 1 0 1 1
+p87
+aVVin Baker SEA 03/28/2001 SEA vs. MIN W 21 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 1 0 1 5 4
+p88
+aVJelani McCoy SEA 03/26/2001 SEA vs. CLE W 15 5 2 3 66.7 0 0 - 1 1 100.0 1 3 4 1 0 1 2 4 -11
+p89
+aVEmanual Davis SEA 03/26/2001 SEA vs. CLE W 24 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 1 2 0 3 1 -3
+p90
+aVDesmond Mason SEA 03/26/2001 SEA vs. CLE W 17 7 2 6 33.3 1 1 100.0 2 2 100.0 2 3 5 0 1 0 2 4 13
+p91
+aVOlumide Oyedeji SEA 03/26/2001 SEA vs. CLE W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p92
+aVRuben Wolkowyski SEA 03/26/2001 SEA vs. CLE W 3 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 0 -1
+p93
+aVRashard Lewis SEA 03/26/2001 SEA vs. CLE W 32 7 3 7 42.9 1 1 100.0 0 0 - 1 9 10 1 0 0 1 1 5
+p94
+aVPatrick Ewing SEA 03/26/2001 SEA vs. CLE W 21 12 3 6 50.0 0 0 - 6 10 60.0 1 2 3 3 1 3 2 2 1
+p95
+aVVin Baker SEA 03/26/2001 SEA vs. CLE W 24 7 3 6 50.0 0 0 - 1 2 50.0 2 5 7 0 0 7 3 3 16
+p96
+aVShammond Williams SEA 03/26/2001 SEA vs. CLE W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 5 0 0 2 1 6
+p97
+aVGary Payton SEA 03/26/2001 SEA vs. CLE W 32 21 9 12 75.0 1 1 100.0 2 2 100.0 0 2 2 8 1 0 3 2 16
+p98
+aVBrent Barry SEA 03/26/2001 SEA vs. CLE W 27 13 4 9 44.4 2 4 50.0 3 4 75.0 0 4 4 5 1 0 1 2 17
+p99
+aVRuben Patterson SEA 03/26/2001 SEA vs. CLE W 29 16 7 10 70.0 0 0 - 2 5 40.0 0 2 2 4 1 1 1 2 34
+p100
+aVEmanual Davis SEA 03/24/2001 SEA vs. HOU W 35 2 1 4 25.0 0 1 0.0 0 0 - 6 1 7 1 2 2 4 2 2
+p101
+aVRashard Lewis SEA 03/24/2001 SEA vs. HOU W 31 7 3 5 60.0 1 1 100.0 0 0 - 0 9 9 1 1 2 1 3 3
+p102
+aVVin Baker SEA 03/24/2001 SEA vs. HOU W 27 11 5 13 38.5 0 0 - 1 1 100.0 2 2 4 0 0 1 0 5 6
+p103
+aVRuben Patterson SEA 03/24/2001 SEA vs. HOU W 32 23 8 14 57.1 0 0 - 7 8 87.5 1 3 4 3 1 2 1 1 4
+p104
+aVBrent Barry SEA 03/24/2001 SEA vs. HOU W 25 6 2 5 40.0 2 4 50.0 0 0 - 2 0 2 2 1 0 0 4 -3
+p105
+aVOlumide Oyedeji SEA 03/24/2001 SEA vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -4
+p106
+aVShammond Williams SEA 03/24/2001 SEA vs. HOU W 8 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 2 0 0 2 1 -4
+p107
+aVDesmond Mason SEA 03/24/2001 SEA vs. HOU W 8 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p108
+aVGary Payton SEA 03/24/2001 SEA vs. HOU W 41 21 10 24 41.7 0 1 0.0 1 2 50.0 1 2 3 8 1 0 1 0 14
+p109
+aVJelani McCoy SEA 03/24/2001 SEA vs. HOU W 32 12 5 10 50.0 0 0 - 2 2 100.0 5 4 9 2 1 1 1 0 2
+p110
+aVJelani McCoy SEA 03/22/2001 SEA vs. PHX L 19 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -1
+p111
+aVPatrick Ewing SEA 03/22/2001 SEA vs. PHX L 17 9 4 6 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 1 3 1
+p112
+aVEmanual Davis SEA 03/22/2001 SEA vs. PHX L 20 5 2 4 50.0 0 1 0.0 1 2 50.0 0 0 0 1 3 0 2 4 1
+p113
+aVRashard Lewis SEA 03/22/2001 SEA vs. PHX L 37 14 5 13 38.5 2 6 33.3 2 2 100.0 1 6 7 2 0 0 2 3 -8
+p114
+aVRuben Patterson SEA 03/22/2001 SEA vs. PHX L 22 9 4 8 50.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 2 0
+p115
+aVShammond Williams SEA 03/22/2001 SEA vs. PHX L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 0 -2
+p116
+aVVin Baker SEA 03/22/2001 SEA vs. PHX L 31 19 3 14 21.4 0 1 0.0 13 13 100.0 4 8 12 3 0 2 3 5 -4
+p117
+aVGary Payton SEA 03/22/2001 SEA vs. PHX L 40 18 8 20 40.0 1 2 50.0 1 2 50.0 0 3 3 8 2 1 4 3 -1
+p118
+aVDesmond Mason SEA 03/22/2001 SEA vs. PHX L 19 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 3 3
+p119
+aVBrent Barry SEA 03/22/2001 SEA vs. PHX L 29 8 2 2 100.0 1 1 100.0 3 3 100.0 0 2 2 3 1 0 0 2 -4
+p120
+aVDesmond Mason SEA 03/19/2001 SEA vs. PHI W 21 13 6 9 66.7 1 1 100.0 0 0 - 2 2 4 0 0 0 0 1 5
+p121
+aVGary Payton SEA 03/19/2001 SEA vs. PHI W 44 29 11 23 47.8 4 6 66.7 3 4 75.0 0 3 3 8 3 1 1 2 4
+p122
+aVEmanual Davis SEA 03/19/2001 SEA vs. PHI W 24 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 1 0 1 0 1 1
+p123
+aVRuben Patterson SEA 03/19/2001 SEA vs. PHI W 27 11 5 7 71.4 0 0 - 1 3 33.3 5 1 6 5 2 0 4 3 18
+p124
+aVRashard Lewis SEA 03/19/2001 SEA vs. PHI W 33 10 3 7 42.9 1 1 100.0 3 4 75.0 1 6 7 0 0 0 1 1 -6
+p125
+aVShammond Williams SEA 03/19/2001 SEA vs. PHI W 12 8 2 4 50.0 0 1 0.0 4 4 100.0 0 0 0 2 2 0 0 1 3
+p126
+aVVin Baker SEA 03/19/2001 SEA vs. PHI W 26 18 8 15 53.3 0 0 - 2 2 100.0 2 5 7 2 0 2 1 5 -5
+p127
+aVJelani McCoy SEA 03/19/2001 SEA vs. PHI W 17 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 1 1 2 4 -1
+p128
+aVOlumide Oyedeji SEA 03/19/2001 SEA vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p129
+aVPatrick Ewing SEA 03/19/2001 SEA vs. PHI W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 0
+p130
+aVBrent Barry SEA 03/19/2001 SEA vs. PHI W 25 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 2 0 0 1 2
+p131
+aVRashard Lewis SEA 03/18/2001 SEA @ GSW W 32 19 6 13 46.2 3 4 75.0 4 4 100.0 4 4 8 2 0 1 0 4 5
+p132
+aVRuben Patterson SEA 03/18/2001 SEA @ GSW W 28 20 7 9 77.8 0 0 - 6 12 50.0 3 3 6 3 2 0 2 2 15
+p133
+aVDesmond Mason SEA 03/18/2001 SEA @ GSW W 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p134
+aVShammond Williams SEA 03/18/2001 SEA @ GSW W 13 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 3 1 0 1 1 -3
+p135
+aVJelani McCoy SEA 03/18/2001 SEA @ GSW W 13 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -13
+p136
+aVPatrick Ewing SEA 03/18/2001 SEA @ GSW W 30 12 3 6 50.0 0 0 - 6 6 100.0 0 6 6 1 1 3 1 3 0
+p137
+aVBrent Barry SEA 03/18/2001 SEA @ GSW W 31 13 4 7 57.1 2 4 50.0 3 4 75.0 0 2 2 5 2 0 1 0 18
+p138
+aVGary Payton SEA 03/18/2001 SEA @ GSW W 33 19 8 19 42.1 2 3 66.7 1 2 50.0 1 3 4 7 2 0 3 3 4
+p139
+aVVin Baker SEA 03/18/2001 SEA @ GSW W 21 5 2 10 20.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 1 2
+p140
+aVEmanual Davis SEA 03/18/2001 SEA @ GSW W 19 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 0 0 0 2 1 -9
+p141
+aVOlumide Oyedeji SEA 03/18/2001 SEA @ GSW W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 0 6
+p142
+aVRashard Lewis SEA 03/16/2001 SEA @ CHI W 35 10 4 13 30.8 0 2 0.0 2 2 100.0 2 6 8 0 0 0 0 0 6
+p143
+aVJelani McCoy SEA 03/16/2001 SEA @ CHI W 21 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 2 0 1 2 2 3
+p144
+aVEmanual Davis SEA 03/16/2001 SEA @ CHI W 27 9 3 7 42.9 1 3 33.3 2 2 100.0 0 3 3 3 1 0 2 1 8
+p145
+aVVin Baker SEA 03/16/2001 SEA @ CHI W 10 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 2 5
+p146
+aVDesmond Mason SEA 03/16/2001 SEA @ CHI W 13 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 0 6
+p147
+aVRuben Patterson SEA 03/16/2001 SEA @ CHI W 25 16 7 10 70.0 0 0 - 2 2 100.0 3 1 4 1 1 0 2 1 5
+p148
+aVBrent Barry SEA 03/16/2001 SEA @ CHI W 26 7 2 2 100.0 2 2 100.0 1 1 100.0 0 3 3 2 2 0 1 2 5
+p149
+aVGary Payton SEA 03/16/2001 SEA @ CHI W 43 24 9 19 47.4 2 2 100.0 4 4 100.0 0 2 2 3 2 0 7 2 7
+p150
+aVPatrick Ewing SEA 03/16/2001 SEA @ CHI W 35 14 5 8 62.5 0 0 - 4 8 50.0 2 7 9 2 1 3 0 0 6
+p151
+aVOlumide Oyedeji SEA 03/16/2001 SEA @ CHI W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p152
+aVRuben Patterson SEA 03/15/2001 SEA @ MIL W 29 9 3 12 25.0 0 1 0.0 3 4 75.0 2 3 5 3 2 0 1 3 7
+p153
+aVPatrick Ewing SEA 03/15/2001 SEA @ MIL W 25 15 6 7 85.7 0 0 - 3 6 50.0 1 4 5 4 0 1 1 3 0
+p154
+aVEmanual Davis SEA 03/15/2001 SEA @ MIL W 34 15 6 8 75.0 3 3 100.0 0 0 - 1 4 5 4 2 0 1 1 7
+p155
+aVBrent Barry SEA 03/15/2001 SEA @ MIL W 16 11 3 5 60.0 3 4 75.0 2 2 100.0 0 1 1 2 1 0 0 1 3
+p156
+aVRashard Lewis SEA 03/15/2001 SEA @ MIL W 41 21 6 14 42.9 2 5 40.0 7 7 100.0 3 5 8 6 1 1 0 5 11
+p157
+aVVin Baker SEA 03/15/2001 SEA @ MIL W 23 9 3 12 25.0 0 0 - 3 4 75.0 5 4 9 1 0 0 2 0 6
+p158
+aVGary Payton SEA 03/15/2001 SEA @ MIL W 42 22 10 21 47.6 1 3 33.3 1 2 50.0 1 3 4 5 1 0 2 1 0
+p159
+aVJelani McCoy SEA 03/15/2001 SEA @ MIL W 19 6 3 5 60.0 0 0 - 0 1 0.0 2 2 4 1 0 0 1 1 -1
+p160
+aVDesmond Mason SEA 03/15/2001 SEA @ MIL W 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -3
+p161
+aVEmanual Davis SEA 03/13/2001 SEA vs. POR W 28 11 4 5 80.0 3 4 75.0 0 0 - 2 1 3 2 0 0 3 1 -1
+p162
+aVVin Baker SEA 03/13/2001 SEA vs. POR W 32 6 2 7 28.6 0 0 - 2 3 66.7 1 2 3 1 2 4 2 4 4
+p163
+aVDesmond Mason SEA 03/13/2001 SEA vs. POR W 10 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 0 0 1 0 2 3
+p164
+aVBrent Barry SEA 03/13/2001 SEA vs. POR W 26 8 3 7 42.9 1 4 25.0 1 1 100.0 0 5 5 8 3 0 0 4 6
+p165
+aVGary Payton SEA 03/13/2001 SEA vs. POR W 42 31 11 20 55.0 5 6 83.3 4 5 80.0 0 3 3 7 1 0 1 2 13
+p166
+aVRuben Patterson SEA 03/13/2001 SEA vs. POR W 24 14 5 9 55.6 0 0 - 4 4 100.0 0 2 2 0 1 1 0 1 1
+p167
+aVPatrick Ewing SEA 03/13/2001 SEA vs. POR W 24 8 3 6 50.0 0 0 - 2 2 100.0 0 6 6 0 1 0 1 2 8
+p168
+aVJelani McCoy SEA 03/13/2001 SEA vs. POR W 19 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 1 1 1
+p169
+aVRashard Lewis SEA 03/13/2001 SEA vs. POR W 36 16 6 14 42.9 2 4 50.0 2 2 100.0 0 5 5 4 1 0 2 2 10
+p170
+aVJelani McCoy SEA 03/11/2001 SEA @ LAL W 15 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 1 1 2 -12
+p171
+aVRashard Lewis SEA 03/11/2001 SEA @ LAL W 36 21 7 11 63.6 5 7 71.4 2 4 50.0 3 4 7 1 2 1 1 4 23
+p172
+aVOlumide Oyedeji SEA 03/11/2001 SEA @ LAL W 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 1 0 3 12
+p173
+aVGary Payton SEA 03/11/2001 SEA @ LAL W 49 24 9 21 42.9 0 0 - 6 6 100.0 2 3 5 11 0 1 4 3 18
+p174
+aVBrent Barry SEA 03/11/2001 SEA @ LAL W 35 20 6 10 60.0 4 6 66.7 4 4 100.0 1 5 6 2 2 0 0 3 24
+p175
+aVVin Baker SEA 03/11/2001 SEA @ LAL W 38 17 6 15 40.0 0 2 0.0 5 5 100.0 2 4 6 4 1 0 4 4 24
+p176
+aVRuben Wolkowyski SEA 03/11/2001 SEA @ LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p177
+aVEmanual Davis SEA 03/11/2001 SEA @ LAL W 18 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 4 1 0 2 3 -12
+p178
+aVRuben Patterson SEA 03/11/2001 SEA @ LAL W 7 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -8
+p179
+aVShammond Williams SEA 03/11/2001 SEA @ LAL W 4 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -6
+p180
+aVPatrick Ewing SEA 03/11/2001 SEA @ LAL W 21 8 4 10 40.0 0 0 - 0 0 - 0 7 7 1 0 0 0 4 -10
+p181
+aVDesmond Mason SEA 03/11/2001 SEA @ LAL W 31 14 6 10 60.0 0 0 - 2 2 100.0 2 5 7 3 0 2 0 4 5
+p182
+aVPatrick Ewing SEA 03/09/2001 SEA vs. TOR L 23 12 5 10 50.0 0 0 - 2 3 66.7 1 2 3 2 1 1 1 3 -11
+p183
+aVRuben Patterson SEA 03/09/2001 SEA vs. TOR L 33 17 6 13 46.2 0 0 - 5 6 83.3 5 4 9 2 2 2 3 1 3
+p184
+aVJelani McCoy SEA 03/09/2001 SEA vs. TOR L 9 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 1 0 0 -5
+p185
+aVDesmond Mason SEA 03/09/2001 SEA vs. TOR L 35 6 2 5 40.0 2 3 66.7 0 0 - 0 5 5 0 0 0 0 4 -2
+p186
+aVRashard Lewis SEA 03/09/2001 SEA vs. TOR L 33 6 3 9 33.3 0 2 0.0 0 0 - 1 3 4 1 1 0 1 3 -21
+p187
+aVShammond Williams SEA 03/09/2001 SEA vs. TOR L 20 14 5 10 50.0 3 4 75.0 1 1 100.0 0 3 3 3 0 0 1 3 -4
+p188
+aVVin Baker SEA 03/09/2001 SEA vs. TOR L 30 24 8 13 61.5 0 0 - 8 10 80.0 2 5 7 3 1 0 1 5 -4
+p189
+aVEmanual Davis SEA 03/09/2001 SEA vs. TOR L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 0 8
+p190
+aVGary Payton SEA 03/09/2001 SEA vs. TOR L 41 19 8 20 40.0 0 3 0.0 3 4 75.0 1 0 1 6 0 0 6 5 -19
+p191
+aVShammond Williams SEA 03/07/2001 SEA @ UTA L 10 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 0 0 0 1 -5
+p192
+aVGary Payton SEA 03/07/2001 SEA @ UTA L 42 10 3 17 17.6 0 3 0.0 4 4 100.0 0 6 6 7 4 1 1 1 -2
+p193
+aVEmanual Davis SEA 03/07/2001 SEA @ UTA L 22 11 5 6 83.3 1 2 50.0 0 0 - 0 2 2 2 0 0 1 2 7
+p194
+aVPatrick Ewing SEA 03/07/2001 SEA @ UTA L 39 12 6 14 42.9 0 0 - 0 0 - 2 7 9 3 0 2 1 4 -4
+p195
+aVJelani McCoy SEA 03/07/2001 SEA @ UTA L 26 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 1 0 4 2 4 0
+p196
+aVRuben Patterson SEA 03/07/2001 SEA @ UTA L 36 10 4 10 40.0 0 0 - 2 2 100.0 2 2 4 3 2 0 2 1 -3
+p197
+aVDesmond Mason SEA 03/07/2001 SEA @ UTA L 34 12 6 10 60.0 0 2 0.0 0 0 - 1 2 3 1 1 1 1 2 -8
+p198
+aVVin Baker SEA 03/07/2001 SEA @ UTA L 31 16 4 12 33.3 1 2 50.0 7 10 70.0 1 1 2 1 0 1 4 4 -5
+p199
+aVDesmond Mason SEA 03/06/2001 SEA vs. SAS L 34 7 2 6 33.3 1 1 100.0 2 2 100.0 1 7 8 2 1 0 1 1 -23
+p200
+aVOlumide Oyedeji SEA 03/06/2001 SEA vs. SAS L 12 0 0 3 0.0 0 0 - 0 0 - 3 1 4 0 1 0 0 3 -12
+p201
+aVGary Payton SEA 03/06/2001 SEA vs. SAS L 43 28 12 25 48.0 1 3 33.3 3 3 100.0 3 2 5 4 0 0 0 3 -22
+p202
+aVPatrick Ewing SEA 03/06/2001 SEA vs. SAS L 26 8 3 9 33.3 0 0 - 2 3 66.7 0 4 4 2 3 1 2 3 -7
+p203
+aVVin Baker SEA 03/06/2001 SEA vs. SAS L 31 11 3 14 21.4 0 0 - 5 6 83.3 6 0 6 1 0 1 2 4 -5
+p204
+aVRuben Wolkowyski SEA 03/06/2001 SEA vs. SAS L 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p205
+aVRuben Patterson SEA 03/06/2001 SEA vs. SAS L 20 0 0 7 0.0 0 0 - 0 0 - 3 0 3 0 1 0 1 1 -13
+p206
+aVEmanual Davis SEA 03/06/2001 SEA vs. SAS L 27 5 1 7 14.3 0 1 0.0 3 3 100.0 0 2 2 2 1 0 0 4 -10
+p207
+aVShammond Williams SEA 03/06/2001 SEA vs. SAS L 26 8 3 8 37.5 2 2 100.0 0 0 - 0 2 2 3 0 0 4 2 -23
+p208
+aVJelani McCoy SEA 03/06/2001 SEA vs. SAS L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -19
+p209
+aVRuben Patterson SEA 03/04/2001 SEA @ MIN L 32 13 5 10 50.0 0 0 - 3 3 100.0 0 2 2 2 2 0 2 3 -9
+p210
+aVVin Baker SEA 03/04/2001 SEA @ MIN L 33 16 8 13 61.5 0 0 - 0 0 - 4 2 6 2 0 2 3 5 -13
+p211
+aVShammond Williams SEA 03/04/2001 SEA @ MIN L 33 9 3 10 30.0 1 3 33.3 2 2 100.0 1 1 2 4 0 0 4 4 -13
+p212
+aVJelani McCoy SEA 03/04/2001 SEA @ MIN L 23 7 2 8 25.0 0 0 - 3 3 100.0 5 1 6 0 0 1 0 2 6
+p213
+aVPatrick Ewing SEA 03/04/2001 SEA @ MIN L 21 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 2 0 0 3 2 1
+p214
+aVGary Payton SEA 03/04/2001 SEA @ MIN L 53 44 18 30 60.0 2 5 40.0 6 9 66.7 0 7 7 9 4 0 1 2 -8
+p215
+aVDesmond Mason SEA 03/04/2001 SEA @ MIN L 41 2 1 8 12.5 0 1 0.0 0 0 - 6 11 17 3 0 0 2 2 -8
+p216
+aVRashard Lewis SEA 03/04/2001 SEA @ MIN L 29 10 5 9 55.6 0 0 - 0 0 - 1 4 5 4 0 0 2 1 4
+p217
+aVRuben Patterson SEA 03/02/2001 SEA @ IND W 26 9 3 9 33.3 0 0 - 3 6 50.0 4 0 4 1 0 1 1 4 -20
+p218
+aVShammond Williams SEA 03/02/2001 SEA @ IND W 17 8 2 5 40.0 1 1 100.0 3 4 75.0 0 1 1 1 0 0 1 2 -4
+p219
+aVRuben Wolkowyski SEA 03/02/2001 SEA @ IND W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -5
+p220
+aVPatrick Ewing SEA 03/02/2001 SEA @ IND W 37 10 4 12 33.3 0 0 - 2 4 50.0 2 6 8 2 0 0 2 4 13
+p221
+aVGary Payton SEA 03/02/2001 SEA @ IND W 46 26 11 27 40.7 1 6 16.7 3 4 75.0 0 4 4 10 1 0 2 3 8
+p222
+aVJelani McCoy SEA 03/02/2001 SEA @ IND W 24 7 3 4 75.0 0 0 - 1 2 50.0 3 6 9 2 1 2 0 4 15
+p223
+aVDesmond Mason SEA 03/02/2001 SEA @ IND W 37 8 4 7 57.1 0 0 - 0 0 - 3 3 6 0 0 0 0 2 7
+p224
+aVRashard Lewis SEA 03/02/2001 SEA @ IND W 43 18 8 15 53.3 1 3 33.3 1 2 50.0 1 6 7 0 0 0 0 2 1
+p225
+aVOlumide Oyedeji SEA 03/01/2001 SEA @ CLE W 4 1 0 0 - 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 6
+p226
+aVJelani McCoy SEA 03/01/2001 SEA @ CLE W 22 11 5 5 100.0 0 0 - 1 6 16.7 0 5 5 0 0 1 0 5 -3
+p227
+aVDesmond Mason SEA 03/01/2001 SEA @ CLE W 41 3 0 8 0.0 0 3 0.0 3 4 75.0 2 6 8 4 2 1 0 4 11
+p228
+aVRashard Lewis SEA 03/01/2001 SEA @ CLE W 27 10 4 11 36.4 1 5 20.0 1 2 50.0 1 4 5 1 2 0 3 2 -1
+p229
+aVRuben Patterson SEA 03/01/2001 SEA @ CLE W 43 22 7 16 43.8 0 1 0.0 8 12 66.7 3 4 7 6 5 1 6 4 9
+p230
+aVVin Baker SEA 03/01/2001 SEA @ CLE W 7 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -7
+p231
+aVRuben Wolkowyski SEA 03/01/2001 SEA @ CLE W 7 1 0 0 - 0 0 - 1 2 50.0 2 0 2 0 0 0 0 0 7
+p232
+aVPatrick Ewing SEA 03/01/2001 SEA @ CLE W 23 7 3 6 50.0 0 0 - 1 2 50.0 0 4 4 0 1 2 1 2 -9
+p233
+aVGary Payton SEA 03/01/2001 SEA @ CLE W 51 27 12 21 57.1 2 3 66.7 1 2 50.0 2 0 2 8 1 1 2 3 0
+p234
+aVShammond Williams SEA 03/01/2001 SEA @ CLE W 40 19 6 17 35.3 3 8 37.5 4 4 100.0 2 5 7 5 0 0 1 3 -3
+p235
+aVPatrick Ewing SEA 02/27/2001 SEA @ NYK L 32 12 6 14 42.9 0 0 - 0 0 - 4 1 5 0 0 1 3 3 -21
+p236
+aVRashard Lewis SEA 02/27/2001 SEA @ NYK L 30 20 4 11 36.4 4 6 66.7 8 8 100.0 3 6 9 3 1 1 1 4 -3
+p237
+aVShammond Williams SEA 02/27/2001 SEA @ NYK L 31 7 1 7 14.3 1 3 33.3 4 4 100.0 2 2 4 4 3 0 1 3 -7
+p238
+aVJelani McCoy SEA 02/27/2001 SEA @ NYK L 13 2 1 2 50.0 0 0 - 0 0 - 1 8 9 0 2 0 0 3 9
+p239
+aVVin Baker SEA 02/27/2001 SEA @ NYK L 30 12 4 13 30.8 0 0 - 4 7 57.1 3 5 8 0 0 1 2 2 -4
+p240
+aVRuben Patterson SEA 02/27/2001 SEA @ NYK L 29 14 4 10 40.0 0 1 0.0 6 7 85.7 2 0 2 4 1 0 0 2 -3
+p241
+aVGary Payton SEA 02/27/2001 SEA @ NYK L 44 19 8 20 40.0 3 7 42.9 0 2 0.0 0 3 3 5 2 0 1 1 -11
+p242
+aVDesmond Mason SEA 02/27/2001 SEA @ NYK L 30 6 2 5 40.0 1 2 50.0 1 2 50.0 1 2 3 1 4 0 0 3 -5
+p243
+aVEmanual Davis SEA 02/26/2001 SEA @ BOS L 21 2 1 3 33.3 0 2 0.0 0 0 - 0 5 5 6 1 0 4 2 -4
+p244
+aVVin Baker SEA 02/26/2001 SEA @ BOS L 43 8 3 13 23.1 0 0 - 2 6 33.3 2 1 3 1 3 0 6 4 2
+p245
+aVPatrick Ewing SEA 02/26/2001 SEA @ BOS L 37 11 4 7 57.1 0 0 - 3 4 75.0 2 9 11 1 1 2 2 4 4
+p246
+aVGary Payton SEA 02/26/2001 SEA @ BOS L 47 20 9 21 42.9 1 4 25.0 1 4 25.0 1 7 8 6 4 1 2 2 -3
+p247
+aVRashard Lewis SEA 02/26/2001 SEA @ BOS L 33 15 5 11 45.5 3 5 60.0 2 4 50.0 1 3 4 1 3 0 0 5 9
+p248
+aVDesmond Mason SEA 02/26/2001 SEA @ BOS L 15 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 -11
+p249
+aVShammond Williams SEA 02/26/2001 SEA @ BOS L 28 21 7 9 77.8 3 4 75.0 4 5 80.0 3 2 5 3 1 1 3 2 1
+p250
+aVRuben Patterson SEA 02/26/2001 SEA @ BOS L 15 3 1 9 11.1 0 0 - 1 2 50.0 1 1 2 1 1 0 0 1 -13
+p251
+aVOlumide Oyedeji SEA 02/23/2001 SEA vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p252
+aVVin Baker SEA 02/23/2001 SEA vs. UTA L 21 6 3 8 37.5 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -16
+p253
+aVEmanual Davis SEA 02/23/2001 SEA vs. UTA L 15 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -2
+p254
+aVRashard Lewis SEA 02/23/2001 SEA vs. UTA L 38 16 4 10 40.0 2 5 40.0 6 6 100.0 0 8 8 2 0 1 1 2 -14
+p255
+aVDesmond Mason SEA 02/23/2001 SEA vs. UTA L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 3
+p256
+aVPatrick Ewing SEA 02/23/2001 SEA vs. UTA L 38 2 0 3 0.0 0 0 - 2 2 100.0 1 8 9 3 1 4 3 5 -13
+p257
+aVRuben Patterson SEA 02/23/2001 SEA vs. UTA L 32 17 5 9 55.6 1 1 100.0 6 9 66.7 4 4 8 3 3 2 4 5 4
+p258
+aVGary Payton SEA 02/23/2001 SEA vs. UTA L 42 19 7 17 41.2 2 4 50.0 3 6 50.0 0 5 5 8 2 0 5 4 -10
+p259
+aVBrent Barry SEA 02/23/2001 SEA vs. UTA L 29 12 4 9 44.4 3 8 37.5 1 1 100.0 1 2 3 3 0 1 3 4 -10
+p260
+aVShammond Williams SEA 02/23/2001 SEA vs. UTA L 12 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 0
+p261
+aVJelani McCoy SEA 02/21/2001 SEA vs. DEN W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -1
+p262
+aVRuben Wolkowyski SEA 02/21/2001 SEA vs. DEN W 5 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 1 1 0 1 -2
+p263
+aVVin Baker SEA 02/21/2001 SEA vs. DEN W 37 16 5 6 83.3 0 0 - 6 9 66.7 4 4 8 0 1 2 2 5 20
+p264
+aVEmanual Davis SEA 02/21/2001 SEA vs. DEN W 27 5 2 5 40.0 1 3 33.3 0 0 - 0 5 5 6 0 0 2 2 16
+p265
+aVBrent Barry SEA 02/21/2001 SEA vs. DEN W 18 3 1 6 16.7 0 4 0.0 1 2 50.0 0 1 1 2 0 0 0 1 14
+p266
+aVShammond Williams SEA 02/21/2001 SEA vs. DEN W 24 15 6 8 75.0 3 3 100.0 0 0 - 0 5 5 3 1 0 0 3 17
+p267
+aVOlumide Oyedeji SEA 02/21/2001 SEA vs. DEN W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -4
+p268
+aVRuben Patterson SEA 02/21/2001 SEA vs. DEN W 23 21 9 14 64.3 0 3 0.0 3 4 75.0 1 3 4 3 0 0 2 2 18
+p269
+aVPatrick Ewing SEA 02/21/2001 SEA vs. DEN W 26 13 4 7 57.1 0 0 - 5 5 100.0 1 4 5 2 3 4 1 3 24
+p270
+aVGary Payton SEA 02/21/2001 SEA vs. DEN W 36 30 14 20 70.0 2 3 66.7 0 1 0.0 1 3 4 12 1 0 1 1 28
+p271
+aVRashard Lewis SEA 02/21/2001 SEA vs. DEN W 34 20 9 14 64.3 2 4 50.0 0 2 0.0 0 4 4 3 0 1 1 3 15
+p272
+aVEmanual Davis SEA 02/17/2001 SEA vs. ATL L 14 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 1 1 0 0 -15
+p273
+aVShammond Williams SEA 02/17/2001 SEA vs. ATL L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -12
+p274
+aVGary Payton SEA 02/17/2001 SEA vs. ATL L 40 21 9 20 45.0 0 2 0.0 3 4 75.0 0 1 1 13 2 1 1 4 5
+p275
+aVBrent Barry SEA 02/17/2001 SEA vs. ATL L 34 11 3 4 75.0 2 3 66.7 3 3 100.0 0 2 2 1 1 0 4 3 8
+p276
+aVDesmond Mason SEA 02/17/2001 SEA vs. ATL L 18 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 1 0 0 2 -22
+p277
+aVVin Baker SEA 02/17/2001 SEA vs. ATL L 28 15 6 12 50.0 0 0 - 3 4 75.0 1 5 6 0 0 1 1 4 -15
+p278
+aVRashard Lewis SEA 02/17/2001 SEA vs. ATL L 31 7 3 10 30.0 1 2 50.0 0 0 - 0 5 5 0 0 1 0 1 13
+p279
+aVPatrick Ewing SEA 02/17/2001 SEA vs. ATL L 27 14 6 8 75.0 0 0 - 2 4 50.0 2 4 6 1 1 1 2 2 2
+p280
+aVRuben Patterson SEA 02/17/2001 SEA vs. ATL L 41 18 8 21 38.1 0 0 - 2 2 100.0 2 6 8 3 2 0 1 4 1
+p281
+aVGary Payton SEA 02/15/2001 SEA vs. BOS L 40 20 8 17 47.1 2 3 66.7 2 4 50.0 0 3 3 14 1 2 5 2 -8
+p282
+aVRuben Patterson SEA 02/15/2001 SEA vs. BOS L 31 10 4 9 44.4 0 0 - 2 8 25.0 4 1 5 1 1 1 3 4 -10
+p283
+aVJelani McCoy SEA 02/15/2001 SEA vs. BOS L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p284
+aVDesmond Mason SEA 02/15/2001 SEA vs. BOS L 24 8 3 7 42.9 0 2 0.0 2 3 66.7 0 5 5 1 1 0 0 4 -11
+p285
+aVBrent Barry SEA 02/15/2001 SEA vs. BOS L 28 7 1 3 33.3 1 3 33.3 4 4 100.0 0 1 1 5 3 0 1 2 -18
+p286
+aVVin Baker SEA 02/15/2001 SEA vs. BOS L 18 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -8
+p287
+aVOlumide Oyedeji SEA 02/15/2001 SEA vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p288
+aVShammond Williams SEA 02/15/2001 SEA vs. BOS L 23 9 4 7 57.1 0 2 0.0 1 2 50.0 0 0 0 2 1 1 4 0 -7
+p289
+aVEmanual Davis SEA 02/15/2001 SEA vs. BOS L 8 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 0 -7
+p290
+aVPatrick Ewing SEA 02/15/2001 SEA vs. BOS L 23 14 7 8 87.5 0 0 - 0 1 0.0 1 9 10 1 0 1 3 4 -9
+p291
+aVRashard Lewis SEA 02/15/2001 SEA vs. BOS L 35 17 7 12 58.3 1 3 33.3 2 2 100.0 0 4 4 0 2 2 2 3 -14
+p292
+aVJelani McCoy SEA 02/07/2001 SEA @ POR L 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 1 2 2 -4
+p293
+aVShammond Williams SEA 02/07/2001 SEA @ POR L 21 5 2 6 33.3 0 1 0.0 1 2 50.0 1 2 3 4 0 0 2 1 -10
+p294
+aVBrent Barry SEA 02/07/2001 SEA @ POR L 30 9 3 5 60.0 0 1 0.0 3 4 75.0 4 4 8 2 1 1 1 0 -14
+p295
+aVRashard Lewis SEA 02/07/2001 SEA @ POR L 38 21 7 13 53.8 2 3 66.7 5 6 83.3 1 3 4 2 3 1 1 2 -18
+p296
+aVDesmond Mason SEA 02/07/2001 SEA @ POR L 24 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -16
+p297
+aVPatrick Ewing SEA 02/07/2001 SEA @ POR L 34 11 4 8 50.0 0 0 - 3 4 75.0 1 10 11 1 0 1 2 5 -9
+p298
+aVVin Baker SEA 02/07/2001 SEA @ POR L 28 13 5 20 25.0 0 1 0.0 3 4 75.0 3 2 5 0 0 0 2 3 -3
+p299
+aVGary Payton SEA 02/07/2001 SEA @ POR L 27 11 5 10 50.0 1 2 50.0 0 1 0.0 1 2 3 4 1 0 4 1 -7
+p300
+aVEmanual Davis SEA 02/07/2001 SEA @ POR L 18 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -3
+p301
+aVOlumide Oyedeji SEA 02/07/2001 SEA @ POR L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p302
+aVRashard Lewis SEA 02/05/2001 SEA vs. VAN W 40 14 6 15 40.0 1 5 20.0 1 2 50.0 2 8 10 2 2 1 5 1 14
+p303
+aVDesmond Mason SEA 02/05/2001 SEA vs. VAN W 28 13 6 12 50.0 0 2 0.0 1 1 100.0 2 4 6 2 0 1 1 3 12
+p304
+aVVin Baker SEA 02/05/2001 SEA vs. VAN W 28 17 8 13 61.5 0 0 - 1 4 25.0 2 3 5 1 0 0 0 3 17
+p305
+aVJelani McCoy SEA 02/05/2001 SEA vs. VAN W 30 7 3 4 75.0 0 0 - 1 4 25.0 1 0 1 2 2 1 1 1 -6
+p306
+aVBrent Barry SEA 02/05/2001 SEA vs. VAN W 34 13 5 8 62.5 1 3 33.3 2 2 100.0 0 2 2 4 3 2 2 1 7
+p307
+aVShammond Williams SEA 02/05/2001 SEA vs. VAN W 29 17 6 13 46.2 2 3 66.7 3 3 100.0 4 1 5 8 2 0 2 2 13
+p308
+aVPatrick Ewing SEA 02/05/2001 SEA vs. VAN W 19 4 1 6 16.7 0 0 - 2 2 100.0 1 7 8 3 1 3 2 1 0
+p309
+aVEmanual Davis SEA 02/05/2001 SEA vs. VAN W 27 10 4 10 40.0 1 3 33.3 1 2 50.0 0 2 2 4 2 0 1 2 6
+p310
+aVOlumide Oyedeji SEA 02/05/2001 SEA vs. VAN W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 2
+p311
+aVDesmond Mason SEA 02/03/2001 SEA @ UTA L 27 8 4 6 66.7 0 0 - 0 2 0.0 0 4 4 0 0 0 2 2 0
+p312
+aVJelani McCoy SEA 02/03/2001 SEA @ UTA L 16 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 3 0 2 0 4 -13
+p313
+aVBrent Barry SEA 02/03/2001 SEA @ UTA L 36 10 3 5 60.0 1 3 33.3 3 3 100.0 0 2 2 3 4 0 4 1 -16
+p314
+aVPatrick Ewing SEA 02/03/2001 SEA @ UTA L 23 6 2 5 40.0 0 0 - 2 4 50.0 1 5 6 0 0 0 1 4 -18
+p315
+aVRashard Lewis SEA 02/03/2001 SEA @ UTA L 29 19 9 13 69.2 0 1 0.0 1 1 100.0 1 2 3 0 0 1 1 1 -29
+p316
+aVOlumide Oyedeji SEA 02/03/2001 SEA @ UTA L 22 8 3 5 60.0 0 0 - 2 2 100.0 4 4 8 0 0 0 1 1 4
+p317
+aVShammond Williams SEA 02/03/2001 SEA @ UTA L 22 9 2 7 28.6 0 0 - 5 5 100.0 1 1 2 6 1 0 2 1 1
+p318
+aVRuben Wolkowyski SEA 02/03/2001 SEA @ UTA L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p319
+aVEmanual Davis SEA 02/03/2001 SEA @ UTA L 33 13 3 9 33.3 3 3 100.0 4 6 66.7 1 2 3 3 2 0 3 5 -18
+p320
+aVVin Baker SEA 02/03/2001 SEA @ UTA L 30 17 8 14 57.1 0 0 - 1 6 16.7 1 4 5 1 0 0 3 3 -10
+p321
+aVShammond Williams SEA 02/01/2001 SEA vs. CHI W 16 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 2 2 0 1 0 -6
+p322
+aVPatrick Ewing SEA 02/01/2001 SEA vs. CHI W 35 14 7 14 50.0 0 0 - 0 0 - 3 7 10 1 2 0 4 3 13
+p323
+aVJelani McCoy SEA 02/01/2001 SEA vs. CHI W 14 0 0 4 0.0 0 0 - 0 2 0.0 1 0 1 3 0 0 2 5 -4
+p324
+aVOlumide Oyedeji SEA 02/01/2001 SEA vs. CHI W 10 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -5
+p325
+aVRashard Lewis SEA 02/01/2001 SEA vs. CHI W 40 12 5 11 45.5 0 1 0.0 2 2 100.0 1 4 5 1 0 0 1 1 10
+p326
+aVDesmond Mason SEA 02/01/2001 SEA vs. CHI W 5 2 0 2 0.0 0 0 - 2 4 50.0 0 1 1 0 2 0 0 0 3
+p327
+aVBrent Barry SEA 02/01/2001 SEA vs. CHI W 39 17 6 6 100.0 3 3 100.0 2 3 66.7 0 3 3 11 3 0 3 4 4
+p328
+aVVin Baker SEA 02/01/2001 SEA vs. CHI W 34 22 6 16 37.5 0 0 - 10 10 100.0 2 3 5 1 0 2 2 2 10
+p329
+aVGary Payton SEA 02/01/2001 SEA vs. CHI W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -4
+p330
+aVEmanual Davis SEA 02/01/2001 SEA vs. CHI W 37 19 7 12 58.3 2 3 66.7 3 4 75.0 2 2 4 5 3 0 2 2 9
+p331
+aVVin Baker SEA 01/30/2001 SEA vs. UTA L 31 8 4 11 36.4 0 0 - 0 1 0.0 5 3 8 2 0 0 4 4 -8
+p332
+aVOlumide Oyedeji SEA 01/30/2001 SEA vs. UTA L 3 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 10
+p333
+aVBrent Barry SEA 01/30/2001 SEA vs. UTA L 43 15 3 6 50.0 3 5 60.0 6 6 100.0 1 8 9 4 3 1 3 2 -17
+p334
+aVJelani McCoy SEA 01/30/2001 SEA vs. UTA L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p335
+aVGary Payton SEA 01/30/2001 SEA vs. UTA L 37 23 7 17 41.2 0 1 0.0 9 12 75.0 1 1 2 3 1 0 3 2 -17
+p336
+aVRuben Patterson SEA 01/30/2001 SEA vs. UTA L 19 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 3 3 0 4 2 -15
+p337
+aVRashard Lewis SEA 01/30/2001 SEA vs. UTA L 36 11 4 12 33.3 1 3 33.3 2 2 100.0 1 6 7 1 0 0 3 4 -3
+p338
+aVPatrick Ewing SEA 01/30/2001 SEA vs. UTA L 31 8 3 9 33.3 0 0 - 2 3 66.7 3 3 6 1 0 3 1 3 -18
+p339
+aVRuben Wolkowyski SEA 01/30/2001 SEA vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 10
+p340
+aVShammond Williams SEA 01/30/2001 SEA vs. UTA L 23 11 3 8 37.5 1 3 33.3 4 4 100.0 0 1 1 6 0 0 1 0 -2
+p341
+aVEmanual Davis SEA 01/30/2001 SEA vs. UTA L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p342
+aVBrent Barry SEA 01/27/2001 SEA vs. NJN W 40 17 6 8 75.0 4 6 66.7 1 2 50.0 0 2 2 6 0 0 4 1 9
+p343
+aVPatrick Ewing SEA 01/27/2001 SEA vs. NJN W 29 18 6 13 46.2 0 0 - 6 6 100.0 1 17 18 1 1 4 1 4 17
+p344
+aVGary Payton SEA 01/27/2001 SEA vs. NJN W 40 17 6 17 35.3 2 5 40.0 3 4 75.0 1 4 5 7 2 0 5 3 5
+p345
+aVDesmond Mason SEA 01/27/2001 SEA vs. NJN W 16 6 2 6 33.3 0 1 0.0 2 2 100.0 1 2 3 1 0 0 1 1 4
+p346
+aVRashard Lewis SEA 01/27/2001 SEA vs. NJN W 31 6 2 4 50.0 0 1 0.0 2 2 100.0 2 5 7 2 0 1 3 2 7
+p347
+aVRuben Patterson SEA 01/27/2001 SEA vs. NJN W 32 21 8 11 72.7 0 0 - 5 8 62.5 2 3 5 2 0 0 3 2 1
+p348
+aVVin Baker SEA 01/27/2001 SEA vs. NJN W 25 9 1 2 50.0 0 0 - 7 10 70.0 0 3 3 2 1 0 2 3 -8
+p349
+aVShammond Williams SEA 01/27/2001 SEA vs. NJN W 15 7 3 8 37.5 1 3 33.3 0 0 - 2 2 4 1 0 0 0 1 4
+p350
+aVJelani McCoy SEA 01/27/2001 SEA vs. NJN W 12 5 2 3 66.7 0 0 - 1 3 33.3 1 4 5 0 0 0 0 3 6
+p351
+aVDesmond Mason SEA 01/26/2001 SEA @ GSW W 9 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -2
+p352
+aVRuben Patterson SEA 01/26/2001 SEA @ GSW W 32 15 6 11 54.5 0 1 0.0 3 5 60.0 0 3 3 8 0 1 2 0 2
+p353
+aVPatrick Ewing SEA 01/26/2001 SEA @ GSW W 27 10 5 7 71.4 0 1 0.0 0 0 - 2 10 12 0 2 1 1 1 13
+p354
+aVRashard Lewis SEA 01/26/2001 SEA @ GSW W 36 15 6 11 54.5 1 3 33.3 2 2 100.0 0 5 5 2 1 1 4 3 9
+p355
+aVGary Payton SEA 01/26/2001 SEA @ GSW W 40 24 9 18 50.0 2 2 100.0 4 4 100.0 2 7 9 7 1 0 2 2 2
+p356
+aVBrent Barry SEA 01/26/2001 SEA @ GSW W 38 22 7 11 63.6 6 9 66.7 2 2 100.0 0 3 3 4 1 1 4 2 8
+p357
+aVJelani McCoy SEA 01/26/2001 SEA @ GSW W 15 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 1 1 1 1 3 -2
+p358
+aVVin Baker SEA 01/26/2001 SEA @ GSW W 26 8 3 8 37.5 0 0 - 2 3 66.7 1 5 6 0 1 0 4 1 -14
+p359
+aVShammond Williams SEA 01/26/2001 SEA @ GSW W 18 6 2 5 40.0 1 3 33.3 1 2 50.0 0 0 0 1 0 0 4 1 -6
+p360
+aVShammond Williams SEA 01/24/2001 SEA @ LAC W 15 8 3 5 60.0 1 2 50.0 1 1 100.0 0 1 1 4 1 0 1 1 14
+p361
+aVRuben Patterson SEA 01/24/2001 SEA @ LAC W 38 18 7 18 38.9 0 0 - 4 7 57.1 5 2 7 6 2 1 1 5 -7
+p362
+aVRashard Lewis SEA 01/24/2001 SEA @ LAC W 41 16 6 13 46.2 2 5 40.0 2 2 100.0 3 7 10 6 1 0 2 3 6
+p363
+aVBrent Barry SEA 01/24/2001 SEA @ LAC W 35 11 4 9 44.4 3 7 42.9 0 0 - 2 4 6 5 1 0 0 3 -3
+p364
+aVGary Payton SEA 01/24/2001 SEA @ LAC W 47 26 11 21 52.4 1 4 25.0 3 3 100.0 1 4 5 4 1 2 5 1 3
+p365
+aVPatrick Ewing SEA 01/24/2001 SEA @ LAC W 32 11 4 11 36.4 0 0 - 3 4 75.0 6 9 15 2 1 1 2 3 -2
+p366
+aVOlumide Oyedeji SEA 01/24/2001 SEA @ LAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 7
+p367
+aVDesmond Mason SEA 01/24/2001 SEA @ LAC W 22 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 1 2 1 2 3 2
+p368
+aVVin Baker SEA 01/24/2001 SEA @ LAC W 27 18 8 12 66.7 0 0 - 2 4 50.0 0 4 4 2 0 0 1 2 0
+p369
+aVShammond Williams SEA 01/23/2001 SEA vs. LAL W 17 3 0 3 0.0 0 0 - 3 4 75.0 0 2 2 3 1 0 4 0 8
+p370
+aVGary Payton SEA 01/23/2001 SEA vs. LAL W 43 34 11 19 57.9 1 2 50.0 11 14 78.6 0 6 6 6 0 0 3 2 9
+p371
+aVRashard Lewis SEA 01/23/2001 SEA vs. LAL W 36 6 2 6 33.3 0 1 0.0 2 3 66.7 3 9 12 1 1 0 4 1 4
+p372
+aVBrent Barry SEA 01/23/2001 SEA vs. LAL W 35 13 5 12 41.7 3 5 60.0 0 0 - 1 4 5 4 3 0 2 2 5
+p373
+aVDesmond Mason SEA 01/23/2001 SEA vs. LAL W 15 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 2 11
+p374
+aVOlumide Oyedeji SEA 01/23/2001 SEA vs. LAL W 14 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 1 2 4 1
+p375
+aVPatrick Ewing SEA 01/23/2001 SEA vs. LAL W 22 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 1 1 2 6 -1
+p376
+aVVin Baker SEA 01/23/2001 SEA vs. LAL W 22 8 3 5 60.0 0 0 - 2 3 66.7 1 5 6 4 0 0 1 5 15
+p377
+aVRuben Patterson SEA 01/23/2001 SEA vs. LAL W 36 19 5 14 35.7 0 1 0.0 9 11 81.8 3 6 9 1 2 1 2 1 3
+p378
+aVRuben Patterson SEA 01/21/2001 SEA vs. SAC W 30 21 8 14 57.1 0 0 - 5 10 50.0 7 4 11 2 3 0 4 2 9
+p379
+aVShammond Williams SEA 01/21/2001 SEA vs. SAC W 18 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 3 5
+p380
+aVBrent Barry SEA 01/21/2001 SEA vs. SAC W 34 13 4 11 36.4 2 5 40.0 3 4 75.0 2 1 3 7 1 0 1 1 11
+p381
+aVVin Baker SEA 01/21/2001 SEA vs. SAC W 29 13 3 10 30.0 0 0 - 7 8 87.5 4 4 8 1 1 0 3 4 -12
+p382
+aVDesmond Mason SEA 01/21/2001 SEA vs. SAC W 12 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -3
+p383
+aVGary Payton SEA 01/21/2001 SEA vs. SAC W 43 30 12 23 52.2 1 3 33.3 5 6 83.3 1 3 4 8 3 1 3 3 -10
+p384
+aVJelani McCoy SEA 01/21/2001 SEA vs. SAC W 12 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 1 0 2 2 -6
+p385
+aVRashard Lewis SEA 01/21/2001 SEA vs. SAC W 41 9 4 7 57.1 1 3 33.3 0 0 - 2 6 8 0 0 1 1 1 2
+p386
+aVOlumide Oyedeji SEA 01/21/2001 SEA vs. SAC W 21 10 4 6 66.7 0 0 - 2 2 100.0 2 7 9 0 0 1 3 4 14
+p387
+aVBrent Barry SEA 01/19/2001 SEA vs. MIN L 31 5 1 5 20.0 1 2 50.0 2 2 100.0 0 2 2 8 2 0 3 6 -7
+p388
+aVEmanual Davis SEA 01/19/2001 SEA vs. MIN L 26 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 2 -5
+p389
+aVJelani McCoy SEA 01/19/2001 SEA vs. MIN L 9 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -3
+p390
+aVDesmond Mason SEA 01/19/2001 SEA vs. MIN L 26 22 9 16 56.3 3 5 60.0 1 2 50.0 3 5 8 0 1 0 1 5 11
+p391
+aVShammond Williams SEA 01/19/2001 SEA vs. MIN L 21 10 4 10 40.0 1 4 25.0 1 1 100.0 1 2 3 6 0 0 2 0 1
+p392
+aVVin Baker SEA 01/19/2001 SEA vs. MIN L 37 16 4 10 40.0 0 1 0.0 8 12 66.7 6 1 7 2 1 1 2 2 -7
+p393
+aVPatrick Ewing SEA 01/19/2001 SEA vs. MIN L 15 4 2 5 40.0 0 0 - 0 0 - 0 4 4 0 0 0 3 0 -6
+p394
+aVRashard Lewis SEA 01/19/2001 SEA vs. MIN L 39 11 5 9 55.6 1 3 33.3 0 0 - 1 7 8 0 1 0 2 1 -15
+p395
+aVRuben Patterson SEA 01/19/2001 SEA vs. MIN L 35 23 8 17 47.1 0 1 0.0 7 11 63.6 3 2 5 3 3 0 0 1 6
+p396
+aVPatrick Ewing SEA 01/17/2001 SEA vs. PHX L 13 0 0 6 0.0 0 0 - 0 0 - 2 2 4 2 0 0 1 2 -11
+p397
+aVEmanual Davis SEA 01/17/2001 SEA vs. PHX L 35 9 3 10 30.0 2 4 50.0 1 1 100.0 0 2 2 2 1 0 0 3 -2
+p398
+aVBrent Barry SEA 01/17/2001 SEA vs. PHX L 30 19 5 6 83.3 2 2 100.0 7 8 87.5 0 6 6 2 2 1 2 3 2
+p399
+aVGary Payton SEA 01/17/2001 SEA vs. PHX L 43 15 6 24 25.0 0 3 0.0 3 4 75.0 1 4 5 6 2 0 4 3 -6
+p400
+aVVin Baker SEA 01/17/2001 SEA vs. PHX L 22 12 4 11 36.4 0 0 - 4 6 66.7 0 3 3 0 1 0 3 5 -10
+p401
+aVRuben Patterson SEA 01/17/2001 SEA vs. PHX L 40 19 7 11 63.6 0 0 - 5 8 62.5 3 3 6 0 2 0 4 2 -3
+p402
+aVRashard Lewis SEA 01/17/2001 SEA vs. PHX L 41 6 2 8 25.0 2 5 40.0 0 0 - 0 7 7 4 2 1 1 2 -3
+p403
+aVJelani McCoy SEA 01/17/2001 SEA vs. PHX L 8 0 0 0 - 0 0 - 0 2 0.0 1 3 4 0 0 1 0 0 -6
+p404
+aVDesmond Mason SEA 01/17/2001 SEA vs. PHX L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p405
+aVGary Payton SEA 01/15/2001 SEA @ DEN L 44 28 10 20 50.0 1 5 20.0 7 8 87.5 0 5 5 11 0 1 2 1 -7
+p406
+aVOlumide Oyedeji SEA 01/15/2001 SEA @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p407
+aVShammond Williams SEA 01/15/2001 SEA @ DEN L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p408
+aVVin Baker SEA 01/15/2001 SEA @ DEN L 29 16 5 10 50.0 0 0 - 6 6 100.0 2 3 5 1 1 1 0 2 -10
+p409
+aVBrent Barry SEA 01/15/2001 SEA @ DEN L 23 5 1 4 25.0 1 4 25.0 2 3 66.7 0 1 1 2 0 0 1 2 0
+p410
+aVRashard Lewis SEA 01/15/2001 SEA @ DEN L 40 22 8 16 50.0 2 6 33.3 4 4 100.0 3 6 9 3 1 0 1 1 -1
+p411
+aVEmanual Davis SEA 01/15/2001 SEA @ DEN L 29 15 5 9 55.6 5 6 83.3 0 0 - 0 1 1 7 2 1 1 3 -6
+p412
+aVDesmond Mason SEA 01/15/2001 SEA @ DEN L 11 0 0 4 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 -5
+p413
+aVRuben Wolkowyski SEA 01/15/2001 SEA @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 4
+p414
+aVJelani McCoy SEA 01/15/2001 SEA @ DEN L 5 2 1 1 100.0 0 0 - 0 1 0.0 1 0 1 0 0 1 1 0 -15
+p415
+aVPatrick Ewing SEA 01/15/2001 SEA @ DEN L 18 4 2 6 33.3 0 0 - 0 0 - 1 2 3 2 0 0 0 3 -4
+p416
+aVRuben Patterson SEA 01/15/2001 SEA @ DEN L 34 19 7 17 41.2 0 0 - 5 7 71.4 5 2 7 1 0 1 2 2 -4
+p417
+aVDesmond Mason SEA 01/14/2001 SEA @ PHX W 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 3 3 -9
+p418
+aVShammond Williams SEA 01/14/2001 SEA @ PHX W 12 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 1 -1
+p419
+aVRuben Patterson SEA 01/14/2001 SEA @ PHX W 35 25 8 13 61.5 0 0 - 9 12 75.0 7 3 10 4 4 0 1 3 29
+p420
+aVVin Baker SEA 01/14/2001 SEA @ PHX W 23 11 2 4 50.0 0 0 - 7 11 63.6 1 4 5 2 0 1 3 5 6
+p421
+aVBrent Barry SEA 01/14/2001 SEA @ PHX W 20 4 2 6 33.3 0 1 0.0 0 0 - 2 4 6 6 1 0 0 3 4
+p422
+aVPatrick Ewing SEA 01/14/2001 SEA @ PHX W 22 11 5 14 35.7 0 0 - 1 1 100.0 2 9 11 1 0 1 5 4 9
+p423
+aVEmanual Davis SEA 01/14/2001 SEA @ PHX W 27 7 1 2 50.0 1 1 100.0 4 5 80.0 0 2 2 3 1 1 0 2 21
+p424
+aVJelani McCoy SEA 01/14/2001 SEA @ PHX W 12 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -10
+p425
+aVGary Payton SEA 01/14/2001 SEA @ PHX W 39 22 9 22 40.9 2 3 66.7 2 3 66.7 4 5 9 6 3 0 2 1 18
+p426
+aVRashard Lewis SEA 01/14/2001 SEA @ PHX W 39 20 8 17 47.1 2 4 50.0 2 2 100.0 4 5 9 0 2 0 2 2 28
+p427
+aVBrent Barry SEA 01/12/2001 SEA vs. VAN W 24 6 2 2 100.0 2 2 100.0 0 0 - 0 3 3 6 4 0 0 0 24
+p428
+aVPatrick Ewing SEA 01/12/2001 SEA vs. VAN W 22 12 2 6 33.3 0 0 - 8 10 80.0 1 6 7 1 2 1 1 2 -14
+p429
+aVEmanual Davis SEA 01/12/2001 SEA vs. VAN W 24 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 5 2 0 2 3 7
+p430
+aVJelani McCoy SEA 01/12/2001 SEA vs. VAN W 16 8 4 6 66.7 0 0 - 0 1 0.0 1 3 4 2 0 0 0 1 13
+p431
+aVRuben Patterson SEA 01/12/2001 SEA vs. VAN W 32 26 12 15 80.0 0 0 - 2 2 100.0 1 5 6 2 1 2 4 3 0
+p432
+aVGary Payton SEA 01/12/2001 SEA vs. VAN W 38 21 7 18 38.9 2 3 66.7 5 6 83.3 0 5 5 10 2 0 1 1 0
+p433
+aVVin Baker SEA 01/12/2001 SEA vs. VAN W 26 10 4 8 50.0 0 0 - 2 4 50.0 1 6 7 2 0 2 0 4 27
+p434
+aVShammond Williams SEA 01/12/2001 SEA vs. VAN W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 0
+p435
+aVDesmond Mason SEA 01/12/2001 SEA vs. VAN W 20 16 7 9 77.8 0 1 0.0 2 6 33.3 1 2 3 2 0 0 2 3 12
+p436
+aVRashard Lewis SEA 01/12/2001 SEA vs. VAN W 24 14 6 11 54.5 2 3 66.7 0 0 - 1 3 4 0 0 1 1 2 -4
+p437
+aVOlumide Oyedeji SEA 01/10/2001 SEA @ WAS W 1 2 1 1 100.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -2
+p438
+aVRuben Patterson SEA 01/10/2001 SEA @ WAS W 40 19 8 18 44.4 0 0 - 3 3 100.0 6 6 12 4 1 0 4 3 -6
+p439
+aVRashard Lewis SEA 01/10/2001 SEA @ WAS W 37 8 2 7 28.6 0 0 - 4 4 100.0 1 0 1 3 1 1 4 4 4
+p440
+aVShammond Williams SEA 01/10/2001 SEA @ WAS W 19 11 4 7 57.1 3 3 100.0 0 0 - 0 1 1 2 0 0 0 2 -6
+p441
+aVEmanual Davis SEA 01/10/2001 SEA @ WAS W 16 9 4 5 80.0 1 2 50.0 0 0 - 0 4 4 3 2 0 2 1 6
+p442
+aVDesmond Mason SEA 01/10/2001 SEA @ WAS W 14 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 2 0 2 8
+p443
+aVVin Baker SEA 01/10/2001 SEA @ WAS W 28 16 6 9 66.7 0 0 - 4 5 80.0 0 2 2 2 1 0 1 3 -1
+p444
+aVPatrick Ewing SEA 01/10/2001 SEA @ WAS W 24 8 1 7 14.3 0 0 - 6 6 100.0 2 6 8 1 1 2 0 4 8
+p445
+aVBrent Barry SEA 01/10/2001 SEA @ WAS W 21 11 4 6 66.7 3 4 75.0 0 0 - 0 1 1 2 1 0 0 0 -1
+p446
+aVGary Payton SEA 01/10/2001 SEA @ WAS W 39 20 9 19 47.4 0 4 0.0 2 5 40.0 0 6 6 1 1 0 3 3 5
+p447
+aVRashard Lewis SEA 01/09/2001 SEA @ ATL W 33 15 5 14 35.7 1 5 20.0 4 4 100.0 4 4 8 1 1 0 2 4 -6
+p448
+aVBrent Barry SEA 01/09/2001 SEA @ ATL W 12 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 0 12
+p449
+aVJelani McCoy SEA 01/09/2001 SEA @ ATL W 17 4 1 5 20.0 0 0 - 2 4 50.0 1 2 3 1 1 0 0 2 4
+p450
+aVDesmond Mason SEA 01/09/2001 SEA @ ATL W 18 6 2 4 50.0 0 0 - 2 5 40.0 0 3 3 0 0 0 0 3 13
+p451
+aVRuben Patterson SEA 01/09/2001 SEA @ ATL W 31 15 6 10 60.0 0 0 - 3 5 60.0 4 4 8 3 1 1 2 1 11
+p452
+aVPatrick Ewing SEA 01/09/2001 SEA @ ATL W 24 6 3 7 42.9 0 0 - 0 0 - 1 5 6 2 1 1 1 1 -8
+p453
+aVShammond Williams SEA 01/09/2001 SEA @ ATL W 31 16 5 10 50.0 2 4 50.0 4 4 100.0 0 0 0 2 0 0 0 3 14
+p454
+aVGary Payton SEA 01/09/2001 SEA @ ATL W 36 16 6 13 46.2 1 3 33.3 3 5 60.0 0 6 6 5 0 0 4 1 -3
+p455
+aVVin Baker SEA 01/09/2001 SEA @ ATL W 21 5 1 10 10.0 0 0 - 3 4 75.0 7 6 13 2 1 0 1 5 13
+p456
+aVEmanual Davis SEA 01/09/2001 SEA @ ATL W 17 8 2 4 50.0 1 2 50.0 3 3 100.0 1 0 1 2 0 0 1 0 -5
+p457
+aVDesmond Mason SEA 01/07/2001 SEA @ TOR L 21 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 2 2 12
+p458
+aVRuben Patterson SEA 01/07/2001 SEA @ TOR L 28 18 7 13 53.8 0 0 - 4 4 100.0 5 2 7 0 0 0 2 3 0
+p459
+aVVin Baker SEA 01/07/2001 SEA @ TOR L 34 20 10 18 55.6 0 0 - 0 0 - 3 3 6 3 1 3 0 2 11
+p460
+aVRashard Lewis SEA 01/07/2001 SEA @ TOR L 33 21 7 13 53.8 3 4 75.0 4 6 66.7 1 4 5 1 0 0 1 2 -3
+p461
+aVBrent Barry SEA 01/07/2001 SEA @ TOR L 25 8 2 4 50.0 2 4 50.0 2 4 50.0 1 2 3 3 2 0 1 0 14
+p462
+aVJelani McCoy SEA 01/07/2001 SEA @ TOR L 14 2 1 6 16.7 0 0 - 0 0 - 4 1 5 1 0 0 0 1 -13
+p463
+aVGary Payton SEA 01/07/2001 SEA @ TOR L 43 13 6 20 30.0 0 5 0.0 1 1 100.0 2 1 3 6 1 1 3 2 -4
+p464
+aVPatrick Ewing SEA 01/07/2001 SEA @ TOR L 14 0 0 4 0.0 0 0 - 0 0 - 1 4 5 1 2 0 1 1 -13
+p465
+aVEmanual Davis SEA 01/07/2001 SEA @ TOR L 28 6 3 8 37.5 0 2 0.0 0 0 - 1 4 5 3 2 0 1 0 -14
+p466
+aVEmanual Davis SEA 01/05/2001 SEA @ PHI L 19 4 1 7 14.3 0 4 0.0 2 2 100.0 1 0 1 1 0 0 1 2 -17
+p467
+aVJelani McCoy SEA 01/05/2001 SEA @ PHI L 14 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 3 2 -8
+p468
+aVRuben Patterson SEA 01/05/2001 SEA @ PHI L 28 7 3 7 42.9 0 2 0.0 1 4 25.0 2 2 4 1 2 0 0 4 -24
+p469
+aVOlumide Oyedeji SEA 01/05/2001 SEA @ PHI L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 2 0 1 0
+p470
+aVBrent Barry SEA 01/05/2001 SEA @ PHI L 21 13 5 8 62.5 3 5 60.0 0 0 - 0 2 2 3 1 1 1 1 -7
+p471
+aVGary Payton SEA 01/05/2001 SEA @ PHI L 38 12 5 15 33.3 2 4 50.0 0 0 - 0 2 2 9 1 0 3 1 -25
+p472
+aVVin Baker SEA 01/05/2001 SEA @ PHI L 20 11 4 9 44.4 0 1 0.0 3 6 50.0 2 2 4 1 0 0 2 2 -20
+p473
+aVDesmond Mason SEA 01/05/2001 SEA @ PHI L 18 8 3 7 42.9 0 1 0.0 2 2 100.0 4 0 4 0 0 0 0 2 -18
+p474
+aVRashard Lewis SEA 01/05/2001 SEA @ PHI L 30 14 6 11 54.5 0 2 0.0 2 3 66.7 1 3 4 0 2 1 2 3 -14
+p475
+aVShammond Williams SEA 01/05/2001 SEA @ PHI L 18 0 0 4 0.0 0 0 - 0 0 - 0 3 3 3 0 0 1 0 -15
+p476
+aVRuben Wolkowyski SEA 01/05/2001 SEA @ PHI L 6 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 0
+p477
+aVPatrick Ewing SEA 01/05/2001 SEA @ PHI L 22 10 4 8 50.0 0 0 - 2 2 100.0 3 3 6 2 0 1 3 3 -12
+p478
+aVGary Payton SEA 01/04/2001 SEA @ MIN L 43 19 8 16 50.0 1 2 50.0 2 4 50.0 0 7 7 11 1 1 3 1 -5
+p479
+aVRashard Lewis SEA 01/04/2001 SEA @ MIN L 33 8 4 14 28.6 0 2 0.0 0 1 0.0 1 5 6 2 1 0 1 1 -1
+p480
+aVRuben Patterson SEA 01/04/2001 SEA @ MIN L 19 4 1 4 25.0 0 1 0.0 2 4 50.0 1 1 2 3 1 1 4 1 -9
+p481
+aVJelani McCoy SEA 01/04/2001 SEA @ MIN L 12 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 0 0 0 2 4 -4
+p482
+aVEmanual Davis SEA 01/04/2001 SEA @ MIN L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 4 -5
+p483
+aVVin Baker SEA 01/04/2001 SEA @ MIN L 33 17 7 12 58.3 0 0 - 3 4 75.0 3 2 5 2 1 1 4 5 -7
+p484
+aVPatrick Ewing SEA 01/04/2001 SEA @ MIN L 22 7 2 7 28.6 0 0 - 3 4 75.0 1 2 3 1 1 1 1 4 -7
+p485
+aVBrent Barry SEA 01/04/2001 SEA @ MIN L 28 9 3 6 50.0 3 5 60.0 0 0 - 0 6 6 0 2 0 2 2 -14
+p486
+aVRuben Wolkowyski SEA 01/04/2001 SEA @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p487
+aVShammond Williams SEA 01/04/2001 SEA @ MIN L 22 11 2 4 50.0 1 2 50.0 6 6 100.0 1 2 3 2 0 0 1 1 -2
+p488
+aVDesmond Mason SEA 01/04/2001 SEA @ MIN L 15 12 5 7 71.4 1 2 50.0 1 2 50.0 1 2 3 0 2 0 1 1 -2
+p489
+aVDesmond Mason SEA 01/02/2001 SEA vs. IND L 9 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 3 0
+p490
+aVPatrick Ewing SEA 01/02/2001 SEA vs. IND L 25 7 3 10 30.0 0 0 - 1 2 50.0 2 5 7 1 0 3 3 3 -3
+p491
+aVGary Payton SEA 01/02/2001 SEA vs. IND L 35 6 3 9 33.3 0 0 - 0 0 - 0 1 1 10 1 0 1 3 -13
+p492
+aVJelani McCoy SEA 01/02/2001 SEA vs. IND L 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 3 0 1 3 2 -6
+p493
+aVBrent Barry SEA 01/02/2001 SEA vs. IND L 42 13 4 10 40.0 2 5 40.0 3 5 60.0 1 6 7 3 1 0 1 1 -6
+p494
+aVRuben Patterson SEA 01/02/2001 SEA vs. IND L 27 9 3 8 37.5 0 1 0.0 3 4 75.0 4 5 9 1 1 1 1 2 0
+p495
+aVVin Baker SEA 01/02/2001 SEA vs. IND L 27 14 6 14 42.9 0 0 - 2 4 50.0 2 3 5 0 0 1 3 6 -4
+p496
+aVRashard Lewis SEA 01/02/2001 SEA vs. IND L 39 14 5 16 31.3 1 6 16.7 3 5 60.0 5 8 13 1 2 0 2 0 -8
+p497
+aVShammond Williams SEA 01/02/2001 SEA vs. IND L 20 14 4 7 57.1 2 3 66.7 4 6 66.7 0 2 2 2 0 0 0 2 0
+p498
+aVRuben Patterson SEA 12/30/2000 SEA vs. CHH W 23 8 4 6 66.7 0 0 - 0 2 0.0 1 3 4 4 1 2 2 4 -12
+p499
+aVJelani McCoy SEA 12/30/2000 SEA vs. CHH W 24 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 6
+p500
+aVVin Baker SEA 12/30/2000 SEA vs. CHH W 28 15 7 14 50.0 0 0 - 1 4 25.0 4 2 6 4 0 2 2 5 15
+p501
+aVDesmond Mason SEA 12/30/2000 SEA vs. CHH W 20 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 3 -8
+p502
+aVRashard Lewis SEA 12/30/2000 SEA vs. CHH W 33 14 4 9 44.4 2 3 66.7 4 4 100.0 2 3 5 2 2 0 1 4 9
+p503
+aVGary Payton SEA 12/30/2000 SEA vs. CHH W 43 21 9 20 45.0 3 3 100.0 0 0 - 0 3 3 10 1 0 1 2 -1
+p504
+aVShammond Williams SEA 12/30/2000 SEA vs. CHH W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 0 10
+p505
+aVPatrick Ewing SEA 12/30/2000 SEA vs. CHH W 21 15 5 13 38.5 0 0 - 5 6 83.3 3 2 5 1 0 0 0 2 -10
+p506
+aVBrent Barry SEA 12/30/2000 SEA vs. CHH W 41 18 7 10 70.0 3 5 60.0 1 2 50.0 0 7 7 10 0 0 2 5 1
+p507
+aVBrent Barry SEA 12/27/2000 SEA @ HOU W 37 18 6 11 54.5 3 4 75.0 3 3 100.0 2 5 7 2 1 1 1 1 5
+p508
+aVRuben Patterson SEA 12/27/2000 SEA @ HOU W 35 23 9 12 75.0 0 1 0.0 5 8 62.5 5 4 9 3 0 1 2 1 15
+p509
+aVVin Baker SEA 12/27/2000 SEA @ HOU W 21 11 4 8 50.0 0 0 - 3 6 50.0 3 4 7 1 1 2 2 3 8
+p510
+aVRashard Lewis SEA 12/27/2000 SEA @ HOU W 39 11 5 11 45.5 0 2 0.0 1 2 50.0 2 8 10 1 1 0 1 1 16
+p511
+aVDesmond Mason SEA 12/27/2000 SEA @ HOU W 20 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 9
+p512
+aVGary Payton SEA 12/27/2000 SEA @ HOU W 43 26 12 32 37.5 0 4 0.0 2 3 66.7 1 2 3 10 3 0 1 2 19
+p513
+aVShammond Williams SEA 12/27/2000 SEA @ HOU W 14 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 0 0 0 1 0 4
+p514
+aVJelani McCoy SEA 12/27/2000 SEA @ HOU W 5 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 0 1 -10
+p515
+aVPatrick Ewing SEA 12/27/2000 SEA @ HOU W 27 11 5 8 62.5 0 0 - 1 2 50.0 3 6 9 0 1 0 2 0 9
+p516
+aVBrent Barry SEA 12/26/2000 SEA @ DAL L 24 20 8 10 80.0 2 3 66.7 2 2 100.0 0 6 6 3 0 0 0 2 -7
+p517
+aVDesmond Mason SEA 12/26/2000 SEA @ DAL L 22 7 3 7 42.9 0 0 - 1 2 50.0 2 1 3 1 0 0 1 4 -14
+p518
+aVPatrick Ewing SEA 12/26/2000 SEA @ DAL L 21 10 4 6 66.7 0 0 - 2 3 66.7 0 5 5 0 1 0 3 1 -16
+p519
+aVOlumide Oyedeji SEA 12/26/2000 SEA @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p520
+aVJelani McCoy SEA 12/26/2000 SEA @ DAL L 24 9 4 8 50.0 0 0 - 1 2 50.0 2 5 7 1 0 0 3 4 -5
+p521
+aVRashard Lewis SEA 12/26/2000 SEA @ DAL L 16 3 1 4 25.0 1 2 50.0 0 0 - 2 6 8 0 3 0 1 3 1
+p522
+aVRuben Patterson SEA 12/26/2000 SEA @ DAL L 23 7 2 5 40.0 0 1 0.0 3 3 100.0 0 4 4 0 1 0 3 5 -4
+p523
+aVVin Baker SEA 12/26/2000 SEA @ DAL L 30 12 4 13 30.8 0 0 - 4 4 100.0 2 6 8 1 0 0 1 3 -16
+p524
+aVShammond Williams SEA 12/26/2000 SEA @ DAL L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 -17
+p525
+aVGary Payton SEA 12/26/2000 SEA @ DAL L 44 23 10 17 58.8 0 0 - 3 3 100.0 0 3 3 9 0 1 4 2 -14
+p526
+aVEmanual Davis SEA 12/26/2000 SEA @ DAL L 22 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 1 0 1 3 2 -8
+p527
+aVRashard Lewis SEA 12/23/2000 SEA @ SAC L 39 18 9 14 64.3 0 1 0.0 0 0 - 3 11 14 2 4 2 3 5 0
+p528
+aVBrent Barry SEA 12/23/2000 SEA @ SAC L 19 7 3 7 42.9 0 3 0.0 1 1 100.0 0 3 3 2 0 0 0 3 -1
+p529
+aVDesmond Mason SEA 12/23/2000 SEA @ SAC L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -5
+p530
+aVVin Baker SEA 12/23/2000 SEA @ SAC L 40 20 9 24 37.5 0 1 0.0 2 2 100.0 5 3 8 0 0 2 3 4 -3
+p531
+aVShammond Williams SEA 12/23/2000 SEA @ SAC L 33 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 5 1 0 5 1 -7
+p532
+aVRuben Patterson SEA 12/23/2000 SEA @ SAC L 27 11 4 11 36.4 0 1 0.0 3 6 50.0 1 2 3 4 1 0 1 4 3
+p533
+aVRuben Wolkowyski SEA 12/23/2000 SEA @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p534
+aVPatrick Ewing SEA 12/23/2000 SEA @ SAC L 24 8 3 10 30.0 0 0 - 2 2 100.0 2 5 7 1 0 0 3 5 -9
+p535
+aVGary Payton SEA 12/23/2000 SEA @ SAC L 43 20 10 22 45.5 0 4 0.0 0 1 0.0 2 2 4 9 2 0 3 5 -2
+p536
+aVOlumide Oyedeji SEA 12/23/2000 SEA @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p537
+aVDesmond Mason SEA 12/22/2000 SEA vs. WAS W 13 6 3 8 37.5 0 0 - 0 0 - 0 3 3 1 1 0 0 4 5
+p538
+aVPatrick Ewing SEA 12/22/2000 SEA vs. WAS W 25 5 2 7 28.6 0 0 - 1 2 50.0 1 6 7 2 1 0 1 4 6
+p539
+aVShammond Williams SEA 12/22/2000 SEA vs. WAS W 30 9 3 8 37.5 1 3 33.3 2 2 100.0 2 5 7 7 0 0 0 2 10
+p540
+aVVin Baker SEA 12/22/2000 SEA vs. WAS W 31 14 5 13 38.5 0 0 - 4 5 80.0 5 1 6 1 0 2 4 5 10
+p541
+aVGary Payton SEA 12/22/2000 SEA vs. WAS W 39 34 12 24 50.0 0 1 0.0 10 11 90.9 1 3 4 8 3 0 1 4 24
+p542
+aVRashard Lewis SEA 12/22/2000 SEA vs. WAS W 36 21 6 10 60.0 4 5 80.0 5 6 83.3 2 6 8 1 0 1 1 4 14
+p543
+aVBrent Barry SEA 12/22/2000 SEA vs. WAS W 23 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 2 0 0 3 0 9
+p544
+aVOlumide Oyedeji SEA 12/22/2000 SEA vs. WAS W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 1
+p545
+aVRuben Wolkowyski SEA 12/22/2000 SEA vs. WAS W 13 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 2 2
+p546
+aVRuben Patterson SEA 12/22/2000 SEA vs. WAS W 28 15 6 13 46.2 0 0 - 3 5 60.0 6 4 10 1 0 1 3 3 19
+p547
+aVBrent Barry SEA 12/20/2000 SEA vs. SAC W 19 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 6 2 0 1 3 -14
+p548
+aVRuben Patterson SEA 12/20/2000 SEA vs. SAC W 31 15 5 12 41.7 0 0 - 5 6 83.3 9 6 15 5 3 3 3 3 11
+p549
+aVRashard Lewis SEA 12/20/2000 SEA vs. SAC W 35 15 7 13 53.8 1 2 50.0 0 0 - 2 7 9 3 1 0 2 3 10
+p550
+aVShammond Williams SEA 12/20/2000 SEA vs. SAC W 32 11 4 10 40.0 2 6 33.3 1 1 100.0 1 2 3 2 0 0 1 1 14
+p551
+aVDesmond Mason SEA 12/20/2000 SEA vs. SAC W 15 4 2 6 33.3 0 1 0.0 0 0 - 2 0 2 0 0 0 2 1 -8
+p552
+aVPatrick Ewing SEA 12/20/2000 SEA vs. SAC W 26 12 5 12 41.7 0 0 - 2 2 100.0 4 7 11 1 2 0 3 2 6
+p553
+aVJelani McCoy SEA 12/20/2000 SEA vs. SAC W 17 4 2 7 28.6 0 0 - 0 0 - 3 2 5 2 0 1 1 0 -6
+p554
+aVVin Baker SEA 12/20/2000 SEA vs. SAC W 20 9 4 7 57.1 0 0 - 1 2 50.0 0 1 1 0 0 0 1 4 -1
+p555
+aVGary Payton SEA 12/20/2000 SEA vs. SAC W 45 19 9 30 30.0 0 6 0.0 1 1 100.0 4 8 12 10 1 1 2 2 8
+p556
+aVRuben Wolkowyski SEA 12/15/2000 SEA vs. MIA W 2 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 2
+p557
+aVEmanual Davis SEA 12/15/2000 SEA vs. MIA W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p558
+aVDesmond Mason SEA 12/15/2000 SEA vs. MIA W 13 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -5
+p559
+aVJelani McCoy SEA 12/15/2000 SEA vs. MIA W 22 4 2 2 100.0 0 0 - 0 0 - 3 5 8 0 0 0 3 3 21
+p560
+aVPatrick Ewing SEA 12/15/2000 SEA vs. MIA W 30 16 8 10 80.0 0 0 - 0 0 - 1 9 10 0 4 1 1 4 12
+p561
+aVGary Payton SEA 12/15/2000 SEA vs. MIA W 41 25 9 23 39.1 1 3 33.3 6 8 75.0 0 1 1 13 2 1 4 3 18
+p562
+aVPervis Ellison SEA 12/15/2000 SEA vs. MIA W 2 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 2
+p563
+aVBrent Barry SEA 12/15/2000 SEA vs. MIA W 22 8 3 7 42.9 1 3 33.3 1 1 100.0 2 1 3 3 0 0 1 3 5
+p564
+aVShammond Williams SEA 12/15/2000 SEA vs. MIA W 29 13 5 8 62.5 3 4 75.0 0 0 - 0 0 0 6 2 0 0 1 12
+p565
+aVRuben Patterson SEA 12/15/2000 SEA vs. MIA W 19 13 5 8 62.5 0 0 - 3 4 75.0 0 2 2 0 0 0 1 3 -5
+p566
+aVRashard Lewis SEA 12/15/2000 SEA vs. MIA W 35 16 6 10 60.0 2 2 100.0 2 3 66.7 2 6 8 0 1 3 3 1 23
+p567
+aVVin Baker SEA 12/15/2000 SEA vs. MIA W 20 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 2 2 5 4
+p568
+aVPatrick Ewing SEA 12/13/2000 SEA @ VAN W 34 10 3 8 37.5 0 0 - 4 7 57.1 3 6 9 1 1 1 2 4 1
+p569
+aVRashard Lewis SEA 12/13/2000 SEA @ VAN W 31 13 6 12 50.0 1 3 33.3 0 0 - 1 6 7 1 1 0 2 3 6
+p570
+aVDesmond Mason SEA 12/13/2000 SEA @ VAN W 19 11 5 7 71.4 1 2 50.0 0 0 - 1 2 3 3 1 0 0 0 -9
+p571
+aVEmanual Davis SEA 12/13/2000 SEA @ VAN W 26 6 3 4 75.0 0 0 - 0 0 - 0 7 7 2 1 3 3 3 13
+p572
+aVGary Payton SEA 12/13/2000 SEA @ VAN W 42 17 4 16 25.0 1 3 33.3 8 8 100.0 0 3 3 11 0 0 2 1 -5
+p573
+aVShammond Williams SEA 12/13/2000 SEA @ VAN W 6 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 6
+p574
+aVRuben Wolkowyski SEA 12/13/2000 SEA @ VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p575
+aVVin Baker SEA 12/13/2000 SEA @ VAN W 15 9 3 10 30.0 0 0 - 3 4 75.0 1 1 2 0 1 0 3 4 -3
+p576
+aVRuben Patterson SEA 12/13/2000 SEA @ VAN W 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 2 3 -1
+p577
+aVJelani McCoy SEA 12/13/2000 SEA @ VAN W 34 12 6 7 85.7 0 0 - 0 2 0.0 3 4 7 2 1 1 0 5 3
+p578
+aVBrent Barry SEA 12/13/2000 SEA @ VAN W 20 10 4 7 57.1 2 3 66.7 0 0 - 0 4 4 2 1 0 1 1 -8
+p579
+aVRuben Patterson SEA 12/12/2000 SEA vs. ORL W 23 18 5 9 55.6 0 0 - 8 9 88.9 1 3 4 2 3 0 4 1 5
+p580
+aVVin Baker SEA 12/12/2000 SEA vs. ORL W 29 8 2 7 28.6 0 0 - 4 4 100.0 2 8 10 0 0 2 1 4 -1
+p581
+aVRashard Lewis SEA 12/12/2000 SEA vs. ORL W 36 15 4 10 40.0 1 2 50.0 6 7 85.7 2 8 10 2 3 0 1 2 0
+p582
+aVJelani McCoy SEA 12/12/2000 SEA vs. ORL W 22 7 3 10 30.0 0 0 - 1 2 50.0 9 4 13 2 0 0 2 3 6
+p583
+aVShammond Williams SEA 12/12/2000 SEA vs. ORL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p584
+aVDesmond Mason SEA 12/12/2000 SEA vs. ORL W 12 4 2 7 28.6 0 0 - 0 0 - 2 1 3 1 0 0 1 1 0
+p585
+aVEmanual Davis SEA 12/12/2000 SEA vs. ORL W 31 5 2 5 40.0 1 2 50.0 0 2 0.0 0 3 3 5 2 0 2 1 8
+p586
+aVBrent Barry SEA 12/12/2000 SEA vs. ORL W 19 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 4 1 0 1 1 -4
+p587
+aVPatrick Ewing SEA 12/12/2000 SEA vs. ORL W 21 14 7 13 53.8 0 0 - 0 1 0.0 1 3 4 0 1 1 1 2 5
+p588
+aVGary Payton SEA 12/12/2000 SEA vs. ORL W 41 21 9 18 50.0 1 1 100.0 2 5 40.0 0 4 4 7 1 1 3 5 9
+p589
+aVVin Baker SEA 12/09/2000 SEA vs. HOU L 21 17 8 16 50.0 0 0 - 1 1 100.0 6 3 9 0 0 1 2 6 -11
+p590
+aVRuben Patterson SEA 12/09/2000 SEA vs. HOU L 37 15 5 7 71.4 0 1 0.0 5 6 83.3 2 5 7 2 0 0 3 2 3
+p591
+aVDesmond Mason SEA 12/09/2000 SEA vs. HOU L 30 14 6 11 54.5 0 1 0.0 2 2 100.0 1 2 3 1 0 0 0 0 -14
+p592
+aVShammond Williams SEA 12/09/2000 SEA vs. HOU L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -9
+p593
+aVGary Payton SEA 12/09/2000 SEA vs. HOU L 43 35 15 25 60.0 0 3 0.0 5 8 62.5 1 4 5 15 2 1 3 2 2
+p594
+aVBrent Barry SEA 12/09/2000 SEA vs. HOU L 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 0 2 1 -6
+p595
+aVPatrick Ewing SEA 12/09/2000 SEA vs. HOU L 27 6 2 5 40.0 0 0 - 2 2 100.0 0 7 7 0 0 2 2 5 0
+p596
+aVJelani McCoy SEA 12/09/2000 SEA vs. HOU L 22 8 4 4 100.0 0 0 - 0 0 - 1 4 5 0 1 0 1 4 7
+p597
+aVRashard Lewis SEA 12/09/2000 SEA vs. HOU L 40 5 2 8 25.0 1 3 33.3 0 2 0.0 0 4 4 2 0 2 2 5 -7
+p598
+aVPatrick Ewing SEA 12/08/2000 SEA @ LAL W 38 10 4 9 44.4 0 0 - 2 6 33.3 1 15 16 2 2 4 3 5 -3
+p599
+aVShammond Williams SEA 12/08/2000 SEA @ LAL W 15 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 2 0 0 1 0 2
+p600
+aVVin Baker SEA 12/08/2000 SEA @ LAL W 29 15 6 10 60.0 0 0 - 3 5 60.0 2 4 6 1 0 1 0 3 2
+p601
+aVRashard Lewis SEA 12/08/2000 SEA @ LAL W 33 20 8 10 80.0 2 3 66.7 2 3 66.7 2 4 6 2 0 0 1 2 3
+p602
+aVBrent Barry SEA 12/08/2000 SEA @ LAL W 18 4 1 4 25.0 1 3 33.3 1 2 50.0 1 0 1 2 0 0 2 1 11
+p603
+aVJelani McCoy SEA 12/08/2000 SEA @ LAL W 21 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 1 1 1 3 3 17
+p604
+aVGary Payton SEA 12/08/2000 SEA @ LAL W 38 25 8 18 44.4 0 3 0.0 9 13 69.2 1 5 6 10 0 1 2 2 0
+p605
+aVDesmond Mason SEA 12/08/2000 SEA @ LAL W 17 4 2 3 66.7 0 1 0.0 0 0 - 1 4 5 1 0 0 0 1 10
+p606
+aVRuben Patterson SEA 12/08/2000 SEA @ LAL W 31 11 4 9 44.4 0 0 - 3 3 100.0 3 4 7 1 1 2 1 2 -2
+p607
+aVJelani McCoy SEA 12/06/2000 SEA vs. DET L 20 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 0 1 1 -11
+p608
+aVPatrick Ewing SEA 12/06/2000 SEA vs. DET L 29 8 4 10 40.0 0 0 - 0 2 0.0 3 5 8 1 0 1 2 4 -12
+p609
+aVRuben Patterson SEA 12/06/2000 SEA vs. DET L 23 9 4 7 57.1 0 1 0.0 1 1 100.0 3 0 3 2 2 2 1 2 8
+p610
+aVGary Payton SEA 12/06/2000 SEA vs. DET L 38 29 10 22 45.5 2 5 40.0 7 9 77.8 0 1 1 9 1 0 3 3 -21
+p611
+aVDesmond Mason SEA 12/06/2000 SEA vs. DET L 8 6 1 3 33.3 0 0 - 4 4 100.0 0 0 0 0 0 0 1 0 -4
+p612
+aVVin Baker SEA 12/06/2000 SEA vs. DET L 19 12 4 8 50.0 0 0 - 4 4 100.0 0 5 5 0 1 0 1 3 -1
+p613
+aVShammond Williams SEA 12/06/2000 SEA vs. DET L 18 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 3 0 0 3 2 -8
+p614
+aVEmanual Davis SEA 12/06/2000 SEA vs. DET L 18 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 0 2 0 0 4 -7
+p615
+aVBrent Barry SEA 12/06/2000 SEA vs. DET L 27 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 4 0 0 1 4 2
+p616
+aVRashard Lewis SEA 12/06/2000 SEA vs. DET L 40 15 5 16 31.3 0 5 0.0 5 6 83.3 3 6 9 0 1 0 1 3 -11
+p617
+aVRuben Patterson SEA 12/03/2000 SEA vs. GSW W 29 24 8 12 66.7 0 0 - 8 8 100.0 3 5 8 1 4 0 1 5 10
+p618
+aVJelani McCoy SEA 12/03/2000 SEA vs. GSW W 32 13 6 6 100.0 0 0 - 1 3 33.3 1 2 3 1 0 2 0 4 10
+p619
+aVDesmond Mason SEA 12/03/2000 SEA vs. GSW W 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -1
+p620
+aVEmanual Davis SEA 12/03/2000 SEA vs. GSW W 32 10 3 6 50.0 1 3 33.3 3 4 75.0 0 3 3 6 3 0 3 1 13
+p621
+aVPatrick Ewing SEA 12/03/2000 SEA vs. GSW W 28 8 4 8 50.0 0 0 - 0 1 0.0 1 5 6 0 1 2 2 4 5
+p622
+aVRuben Wolkowyski SEA 12/03/2000 SEA vs. GSW W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 2 1 3
+p623
+aVGary Payton SEA 12/03/2000 SEA vs. GSW W 39 38 15 27 55.6 2 4 50.0 6 6 100.0 1 6 7 12 1 0 1 1 4
+p624
+aVRashard Lewis SEA 12/03/2000 SEA vs. GSW W 36 14 4 9 44.4 0 0 - 6 6 100.0 2 6 8 3 0 2 1 2 11
+p625
+aVBrent Barry SEA 12/03/2000 SEA vs. GSW W 20 7 2 4 50.0 1 1 100.0 2 2 100.0 0 2 2 3 1 1 1 1 9
+p626
+aVShammond Williams SEA 12/03/2000 SEA vs. GSW W 10 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 16
+p627
+aVRuben Patterson SEA 12/02/2000 SEA @ DEN L 12 10 4 7 57.1 0 0 - 2 5 40.0 2 2 4 1 1 2 1 2 0
+p628
+aVRuben Wolkowyski SEA 12/02/2000 SEA @ DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p629
+aVJelani McCoy SEA 12/02/2000 SEA @ DEN L 38 10 4 8 50.0 0 0 - 2 6 33.3 1 7 8 1 0 0 1 4 -13
+p630
+aVBrent Barry SEA 12/02/2000 SEA @ DEN L 24 4 1 3 33.3 1 3 33.3 1 2 50.0 0 3 3 0 1 0 1 0 -11
+p631
+aVPatrick Ewing SEA 12/02/2000 SEA @ DEN L 21 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 1 0 1 5 2 -9
+p632
+aVRashard Lewis SEA 12/02/2000 SEA @ DEN L 38 26 10 19 52.6 4 7 57.1 2 2 100.0 3 5 8 3 2 2 0 4 -10
+p633
+aVGary Payton SEA 12/02/2000 SEA @ DEN L 47 14 7 25 28.0 0 5 0.0 0 0 - 1 6 7 8 1 0 3 5 -9
+p634
+aVShammond Williams SEA 12/02/2000 SEA @ DEN L 25 8 3 8 37.5 1 2 50.0 1 1 100.0 2 2 4 4 1 0 1 0 6
+p635
+aVEmanual Davis SEA 12/02/2000 SEA @ DEN L 29 14 5 9 55.6 4 6 66.7 0 0 - 1 4 5 3 0 0 2 2 -3
+p636
+aVDesmond Mason SEA 12/02/2000 SEA @ DEN L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -6
+p637
+aVJelani McCoy SEA 11/30/2000 SEA vs. LAL W 18 10 5 8 62.5 0 0 - 0 1 0.0 1 4 5 0 0 2 0 5 4
+p638
+aVRuben Patterson SEA 11/30/2000 SEA vs. LAL W 22 9 3 7 42.9 0 1 0.0 3 3 100.0 0 2 2 1 3 1 2 1 16
+p639
+aVGary Payton SEA 11/30/2000 SEA vs. LAL W 34 27 10 18 55.6 3 5 60.0 4 4 100.0 0 3 3 6 2 0 3 2 19
+p640
+aVRashard Lewis SEA 11/30/2000 SEA vs. LAL W 36 12 5 6 83.3 2 2 100.0 0 0 - 0 4 4 1 4 0 0 1 18
+p641
+aVVin Baker SEA 11/30/2000 SEA vs. LAL W 34 20 8 13 61.5 0 0 - 4 6 66.7 2 7 9 1 1 2 2 5 25
+p642
+aVDesmond Mason SEA 11/30/2000 SEA vs. LAL W 19 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 2 1 0 0 1 21
+p643
+aVShammond Williams SEA 11/30/2000 SEA vs. LAL W 25 9 3 9 33.3 1 2 50.0 2 2 100.0 1 2 3 7 1 0 2 1 31
+p644
+aVBrent Barry SEA 11/30/2000 SEA vs. LAL W 20 9 4 6 66.7 1 2 50.0 0 0 - 2 1 3 6 0 0 0 1 20
+p645
+aVEmanual Davis SEA 11/30/2000 SEA vs. LAL W 18 6 1 4 25.0 0 1 0.0 4 4 100.0 0 3 3 3 1 0 2 2 3
+p646
+aVRuben Wolkowyski SEA 11/30/2000 SEA vs. LAL W 3 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 9
+p647
+aVPatrick Ewing SEA 11/30/2000 SEA vs. LAL W 11 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 5 -1
+p648
+aVRuben Patterson SEA 11/28/2000 SEA @ POR W 21 15 5 8 62.5 0 0 - 5 7 71.4 3 4 7 2 1 1 0 2 12
+p649
+aVDesmond Mason SEA 11/28/2000 SEA @ POR W 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 1 0 1 2 3
+p650
+aVJelani McCoy SEA 11/28/2000 SEA @ POR W 24 5 2 7 28.6 0 0 - 1 2 50.0 2 4 6 2 0 2 0 3 2
+p651
+aVPatrick Ewing SEA 11/28/2000 SEA @ POR W 20 6 2 7 28.6 0 0 - 2 2 100.0 1 9 10 1 0 0 2 0 5
+p652
+aVBrent Barry SEA 11/28/2000 SEA @ POR W 27 9 3 7 42.9 2 4 50.0 1 2 50.0 2 0 2 2 0 0 0 2 7
+p653
+aVShammond Williams SEA 11/28/2000 SEA @ POR W 18 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 4 2 1 1 2 8
+p654
+aVEmanual Davis SEA 11/28/2000 SEA @ POR W 21 11 4 9 44.4 2 4 50.0 1 2 50.0 1 4 5 1 0 0 0 2 5
+p655
+aVRashard Lewis SEA 11/28/2000 SEA @ POR W 36 18 6 12 50.0 2 3 66.7 4 4 100.0 4 3 7 0 1 0 1 1 7
+p656
+aVGary Payton SEA 11/28/2000 SEA @ POR W 38 24 9 17 52.9 1 5 20.0 5 6 83.3 2 3 5 10 2 0 2 2 4
+p657
+aVVin Baker SEA 11/28/2000 SEA @ POR W 28 10 5 10 50.0 0 0 - 0 0 - 2 2 4 1 0 2 5 4 7
+p658
+aVDesmond Mason SEA 11/25/2000 SEA @ SAC L 29 5 1 7 14.3 0 1 0.0 3 4 75.0 0 4 4 0 1 0 3 1 -8
+p659
+aVBrent Barry SEA 11/25/2000 SEA @ SAC L 32 10 3 10 30.0 2 5 40.0 2 2 100.0 1 1 2 2 2 1 2 2 -16
+p660
+aVRuben Wolkowyski SEA 11/25/2000 SEA @ SAC L 21 7 2 5 40.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 0 6
+p661
+aVPatrick Ewing SEA 11/25/2000 SEA @ SAC L 28 14 5 9 55.6 0 0 - 4 4 100.0 3 5 8 1 0 0 2 4 -13
+p662
+aVGary Payton SEA 11/25/2000 SEA @ SAC L 40 26 11 19 57.9 0 2 0.0 4 5 80.0 2 4 6 4 2 0 3 2 -27
+p663
+aVRuben Patterson SEA 11/25/2000 SEA @ SAC L 26 14 5 11 45.5 0 0 - 4 5 80.0 1 2 3 1 2 0 4 2 -19
+p664
+aVVin Baker SEA 11/25/2000 SEA @ SAC L 28 12 5 14 35.7 0 0 - 2 2 100.0 4 1 5 2 0 0 2 4 -26
+p665
+aVShammond Williams SEA 11/25/2000 SEA @ SAC L 12 3 0 5 0.0 0 2 0.0 3 3 100.0 2 2 4 2 0 0 0 1 -12
+p666
+aVEmanual Davis SEA 11/25/2000 SEA @ SAC L 20 9 1 2 50.0 1 1 100.0 6 6 100.0 0 4 4 2 1 0 2 5 -3
+p667
+aVJelani McCoy SEA 11/25/2000 SEA @ SAC L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 -2
+p668
+aVDesmond Mason SEA 11/24/2000 SEA vs. LAC W 30 8 3 6 50.0 1 1 100.0 1 2 50.0 0 3 3 3 3 3 0 2 10
+p669
+aVJelani McCoy SEA 11/24/2000 SEA vs. LAC W 28 9 4 9 44.4 0 0 - 1 2 50.0 3 2 5 0 0 2 1 4 10
+p670
+aVBrent Barry SEA 11/24/2000 SEA vs. LAC W 39 13 5 8 62.5 1 4 25.0 2 3 66.7 1 3 4 7 1 0 2 2 16
+p671
+aVPatrick Ewing SEA 11/24/2000 SEA vs. LAC W 30 8 4 8 50.0 0 1 0.0 0 0 - 0 9 9 1 0 0 0 2 7
+p672
+aVVin Baker SEA 11/24/2000 SEA vs. LAC W 34 14 6 12 50.0 0 0 - 2 2 100.0 0 3 3 1 0 2 2 4 13
+p673
+aVGary Payton SEA 11/24/2000 SEA vs. LAC W 38 23 9 22 40.9 2 4 50.0 3 3 100.0 1 7 8 11 5 0 2 3 13
+p674
+aVRuben Patterson SEA 11/24/2000 SEA vs. LAC W 24 16 6 12 50.0 0 1 0.0 4 4 100.0 0 4 4 0 0 1 1 1 12
+p675
+aVEmanual Davis SEA 11/24/2000 SEA vs. LAC W 17 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 1 3 0 1 1 4
+p676
+aVGary Payton SEA 11/22/2000 SEA @ SAS L 36 18 6 15 40.0 2 3 66.7 4 4 100.0 0 5 5 3 2 0 4 2 -26
+p677
+aVVin Baker SEA 11/22/2000 SEA @ SAS L 27 10 4 11 36.4 0 0 - 2 2 100.0 2 2 4 2 0 0 1 5 -20
+p678
+aVRashard Lewis SEA 11/22/2000 SEA @ SAS L 22 11 3 10 30.0 1 6 16.7 4 4 100.0 3 4 7 0 1 1 2 2 -15
+p679
+aVDesmond Mason SEA 11/22/2000 SEA @ SAS L 26 6 2 8 25.0 0 2 0.0 2 2 100.0 0 1 1 0 1 1 0 3 -12
+p680
+aVShammond Williams SEA 11/22/2000 SEA @ SAS L 9 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 6 0 0 0 1 3
+p681
+aVJelani McCoy SEA 11/22/2000 SEA @ SAS L 18 12 6 7 85.7 0 0 - 0 4 0.0 2 2 4 1 1 2 2 2 1
+p682
+aVPervis Ellison SEA 11/22/2000 SEA @ SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 2
+p683
+aVBrent Barry SEA 11/22/2000 SEA @ SAS L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 2 1 4 4 -21
+p684
+aVPatrick Ewing SEA 11/22/2000 SEA @ SAS L 30 6 2 8 25.0 0 0 - 2 2 100.0 3 6 9 0 0 1 2 3 -29
+p685
+aVRuben Patterson SEA 11/22/2000 SEA @ SAS L 20 7 3 8 37.5 0 0 - 1 2 50.0 2 2 4 1 0 1 0 3 -9
+p686
+aVRuben Wolkowyski SEA 11/22/2000 SEA @ SAS L 15 7 3 5 60.0 0 1 0.0 1 2 50.0 0 0 0 0 0 2 0 4 -8
+p687
+aVEmanual Davis SEA 11/22/2000 SEA @ SAS L 15 6 3 8 37.5 0 3 0.0 0 0 - 0 4 4 0 0 0 1 1 -1
+p688
+aVRashard Lewis SEA 11/21/2000 SEA @ DAL W 28 12 4 9 44.4 0 2 0.0 4 4 100.0 2 7 9 1 0 0 3 6 -9
+p689
+aVBrent Barry SEA 11/21/2000 SEA @ DAL W 18 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 2 6
+p690
+aVRuben Wolkowyski SEA 11/21/2000 SEA @ DAL W 12 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 0 -2
+p691
+aVGary Payton SEA 11/21/2000 SEA @ DAL W 39 28 10 25 40.0 0 1 0.0 8 8 100.0 4 4 8 9 1 2 2 5 0
+p692
+aVEmanual Davis SEA 11/21/2000 SEA @ DAL W 21 7 3 6 50.0 1 3 33.3 0 0 - 0 3 3 3 2 0 1 1 9
+p693
+aVRuben Patterson SEA 11/21/2000 SEA @ DAL W 43 23 9 15 60.0 1 4 25.0 4 6 66.7 3 8 11 2 1 1 2 3 14
+p694
+aVVin Baker SEA 11/21/2000 SEA @ DAL W 25 12 4 11 36.4 0 0 - 4 4 100.0 2 3 5 0 0 0 1 2 4
+p695
+aVDesmond Mason SEA 11/21/2000 SEA @ DAL W 34 14 5 9 55.6 1 2 50.0 3 3 100.0 1 1 2 0 0 1 2 1 8
+p696
+aVPatrick Ewing SEA 11/21/2000 SEA @ DAL W 21 9 4 8 50.0 0 0 - 1 2 50.0 5 2 7 0 1 0 2 2 0
+p697
+aVVin Baker SEA 11/18/2000 SEA @ LAC W 25 5 2 9 22.2 0 0 - 1 2 50.0 3 4 7 0 2 0 1 0 7
+p698
+aVRuben Wolkowyski SEA 11/18/2000 SEA @ LAC W 17 7 3 7 42.9 0 0 - 1 2 50.0 3 0 3 0 1 0 1 5 -1
+p699
+aVEmanual Davis SEA 11/18/2000 SEA @ LAC W 12 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 2 3
+p700
+aVPatrick Ewing SEA 11/18/2000 SEA @ LAC W 35 16 6 15 40.0 0 0 - 4 5 80.0 2 8 10 1 0 2 2 4 2
+p701
+aVBrent Barry SEA 11/18/2000 SEA @ LAC W 23 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p702
+aVRashard Lewis SEA 11/18/2000 SEA @ LAC W 42 13 3 13 23.1 2 6 33.3 5 6 83.3 4 6 10 3 5 0 3 3 10
+p703
+aVGary Payton SEA 11/18/2000 SEA @ LAC W 41 25 10 27 37.0 1 5 20.0 4 9 44.4 0 5 5 6 2 0 1 2 7
+p704
+aVRuben Patterson SEA 11/18/2000 SEA @ LAC W 34 14 5 14 35.7 0 1 0.0 4 6 66.7 5 2 7 1 2 0 3 6 -11
+p705
+aVJelani McCoy SEA 11/18/2000 SEA @ LAC W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 0 0
+p706
+aVEmanual Davis SEA 11/17/2000 SEA vs. DAL L 6 6 2 2 100.0 1 1 100.0 1 1 100.0 0 3 3 1 1 0 1 0 9
+p707
+aVDesmond Mason SEA 11/17/2000 SEA vs. DAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 3
+p708
+aVRuben Patterson SEA 11/17/2000 SEA vs. DAL L 38 13 6 11 54.5 0 1 0.0 1 2 50.0 3 2 5 4 4 0 3 3 -1
+p709
+aVBrent Barry SEA 11/17/2000 SEA vs. DAL L 21 3 1 9 11.1 1 8 12.5 0 0 - 0 0 0 2 1 0 0 1 2
+p710
+aVPervis Ellison SEA 11/17/2000 SEA vs. DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p711
+aVVin Baker SEA 11/17/2000 SEA vs. DAL L 36 18 5 13 38.5 0 1 0.0 8 9 88.9 7 1 8 2 1 0 5 3 -10
+p712
+aVJelani McCoy SEA 11/17/2000 SEA vs. DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p713
+aVRashard Lewis SEA 11/17/2000 SEA vs. DAL L 34 19 7 13 53.8 4 8 50.0 1 1 100.0 3 2 5 1 2 1 2 3 -16
+p714
+aVGary Payton SEA 11/17/2000 SEA vs. DAL L 44 22 8 25 32.0 2 7 28.6 4 5 80.0 3 5 8 9 1 0 3 2 -7
+p715
+aVRuben Wolkowyski SEA 11/17/2000 SEA vs. DAL L 18 7 1 2 50.0 0 0 - 5 5 100.0 1 2 3 1 0 0 0 4 6
+p716
+aVPatrick Ewing SEA 11/17/2000 SEA vs. DAL L 31 7 3 13 23.1 0 0 - 1 2 50.0 2 10 12 0 0 2 2 0 -9
+p717
+aVBrent Barry SEA 11/14/2000 SEA vs. NYK W 24 14 5 9 55.6 4 7 57.1 0 0 - 0 4 4 2 0 0 1 3 13
+p718
+aVJelani McCoy SEA 11/14/2000 SEA vs. NYK W 10 4 2 3 66.7 0 0 - 0 1 0.0 1 1 2 1 0 1 2 4 0
+p719
+aVShammond Williams SEA 11/14/2000 SEA vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p720
+aVVin Baker SEA 11/14/2000 SEA vs. NYK W 40 11 5 9 55.6 0 0 - 1 4 25.0 4 5 9 1 2 3 3 3 15
+p721
+aVEmanual Davis SEA 11/14/2000 SEA vs. NYK W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 1
+p722
+aVRuben Wolkowyski SEA 11/14/2000 SEA vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p723
+aVRuben Patterson SEA 11/14/2000 SEA vs. NYK W 34 10 4 10 40.0 0 1 0.0 2 7 28.6 2 2 4 4 0 0 2 2 24
+p724
+aVGary Payton SEA 11/14/2000 SEA vs. NYK W 46 25 8 16 50.0 3 4 75.0 6 6 100.0 0 8 8 13 3 0 3 2 16
+p725
+aVRashard Lewis SEA 11/14/2000 SEA vs. NYK W 38 22 6 12 50.0 4 7 57.1 6 7 85.7 1 4 5 3 1 1 2 0 14
+p726
+aVPervis Ellison SEA 11/14/2000 SEA vs. NYK W 12 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 2 2 2 9
+p727
+aVPatrick Ewing SEA 11/14/2000 SEA vs. NYK W 31 10 4 9 44.4 0 0 - 2 2 100.0 2 7 9 1 0 3 5 4 13
+p728
+aVJelani McCoy SEA 11/12/2000 SEA @ DET L 5 2 0 1 0.0 0 0 - 2 4 50.0 1 0 1 0 0 0 0 0 -9
+p729
+aVDesmond Mason SEA 11/12/2000 SEA @ DET L 21 8 3 8 37.5 0 0 - 2 2 100.0 1 3 4 2 0 0 0 4 -18
+p730
+aVRashard Lewis SEA 11/12/2000 SEA @ DET L 38 12 5 11 45.5 2 7 28.6 0 0 - 4 7 11 2 1 0 3 3 -5
+p731
+aVBrent Barry SEA 11/12/2000 SEA @ DET L 19 5 2 8 25.0 1 5 20.0 0 0 - 0 1 1 2 1 0 0 1 4
+p732
+aVPatrick Ewing SEA 11/12/2000 SEA @ DET L 36 7 3 9 33.3 0 0 - 1 3 33.3 3 7 10 0 2 0 4 2 -6
+p733
+aVPervis Ellison SEA 11/12/2000 SEA @ DET L 9 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 0
+p734
+aVGary Payton SEA 11/12/2000 SEA @ DET L 48 29 11 26 42.3 1 5 20.0 6 6 100.0 4 1 5 8 3 0 2 3 -9
+p735
+aVRuben Patterson SEA 11/12/2000 SEA @ DET L 23 11 3 6 50.0 0 0 - 5 6 83.3 2 5 7 2 3 0 1 3 6
+p736
+aVVin Baker SEA 11/12/2000 SEA @ DET L 41 16 6 17 35.3 0 0 - 4 4 100.0 4 3 7 1 0 0 3 3 -8
+p737
+aVPatrick Ewing SEA 11/11/2000 SEA @ NJN L 24 13 4 11 36.4 0 0 - 5 9 55.6 1 4 5 0 0 3 5 1 -28
+p738
+aVRuben Patterson SEA 11/11/2000 SEA @ NJN L 21 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 1 3 3 -18
+p739
+aVGary Payton SEA 11/11/2000 SEA @ NJN L 33 22 9 16 56.3 1 4 25.0 3 3 100.0 0 2 2 8 0 0 9 1 -24
+p740
+aVRashard Lewis SEA 11/11/2000 SEA @ NJN L 31 21 7 9 77.8 4 5 80.0 3 4 75.0 1 2 3 0 4 0 1 3 -20
+p741
+aVDesmond Mason SEA 11/11/2000 SEA @ NJN L 23 5 2 4 50.0 0 1 0.0 1 2 50.0 1 2 3 2 0 0 0 4 -21
+p742
+aVEmanual Davis SEA 11/11/2000 SEA @ NJN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -9
+p743
+aVJelani McCoy SEA 11/11/2000 SEA @ NJN L 19 8 2 4 50.0 0 0 - 4 6 66.7 1 3 4 0 0 0 3 0 -3
+p744
+aVBrent Barry SEA 11/11/2000 SEA @ NJN L 15 2 1 1 100.0 0 0 - 0 0 - 1 2 3 3 0 0 1 3 -7
+p745
+aVVin Baker SEA 11/11/2000 SEA @ NJN L 31 7 1 5 20.0 0 1 0.0 5 6 83.3 0 2 2 1 1 1 3 5 -27
+p746
+aVRuben Wolkowyski SEA 11/11/2000 SEA @ NJN L 20 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 1 1 2 3 1 -6
+p747
+aVShammond Williams SEA 11/11/2000 SEA @ NJN L 18 8 3 6 50.0 1 2 50.0 1 2 50.0 1 0 1 2 0 0 1 2 -12
+p748
+aVEmanual Davis SEA 11/09/2000 SEA @ CHH W 15 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 8
+p749
+aVDesmond Mason SEA 11/09/2000 SEA @ CHH W 20 7 3 7 42.9 0 0 - 1 2 50.0 3 0 3 3 1 0 1 2 -2
+p750
+aVVin Baker SEA 11/09/2000 SEA @ CHH W 42 22 8 14 57.1 0 1 0.0 6 6 100.0 2 6 8 5 0 1 1 4 7
+p751
+aVRashard Lewis SEA 11/09/2000 SEA @ CHH W 31 19 7 11 63.6 3 5 60.0 2 2 100.0 3 5 8 2 1 1 2 4 6
+p752
+aVRuben Patterson SEA 11/09/2000 SEA @ CHH W 17 9 3 5 60.0 0 1 0.0 3 4 75.0 3 1 4 1 2 0 2 1 2
+p753
+aVShammond Williams SEA 11/09/2000 SEA @ CHH W 20 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 4
+p754
+aVPatrick Ewing SEA 11/09/2000 SEA @ CHH W 32 13 4 15 26.7 0 0 - 5 5 100.0 2 8 10 2 0 0 1 4 13
+p755
+aVPervis Ellison SEA 11/09/2000 SEA @ CHH W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p756
+aVGary Payton SEA 11/09/2000 SEA @ CHH W 42 17 6 18 33.3 2 5 40.0 3 4 75.0 0 1 1 9 1 0 0 2 4
+p757
+aVJelani McCoy SEA 11/09/2000 SEA @ CHH W 17 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 3 5 -2
+p758
+aVRuben Wolkowyski SEA 11/08/2000 SEA @ MIA L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p759
+aVGary Payton SEA 11/08/2000 SEA @ MIA L 43 22 9 20 45.0 3 5 60.0 1 2 50.0 0 4 4 4 0 0 2 3 -3
+p760
+aVEmanual Davis SEA 11/08/2000 SEA @ MIA L 17 4 1 6 16.7 0 2 0.0 2 2 100.0 1 1 2 1 1 1 1 0 8
+p761
+aVRashard Lewis SEA 11/08/2000 SEA @ MIA L 33 16 6 11 54.5 3 6 50.0 1 3 33.3 2 6 8 1 1 1 5 1 -1
+p762
+aVVin Baker SEA 11/08/2000 SEA @ MIA L 43 8 4 11 36.4 0 1 0.0 0 0 - 3 6 9 3 2 1 4 3 -8
+p763
+aVShammond Williams SEA 11/08/2000 SEA @ MIA L 22 2 1 5 20.0 0 1 0.0 0 1 0.0 0 3 3 3 1 0 1 1 -3
+p764
+aVJelani McCoy SEA 11/08/2000 SEA @ MIA L 10 2 0 0 - 0 0 - 2 2 100.0 1 4 5 1 0 2 1 1 8
+p765
+aVRuben Patterson SEA 11/08/2000 SEA @ MIA L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -5
+p766
+aVPatrick Ewing SEA 11/08/2000 SEA @ MIA L 32 15 6 8 75.0 0 0 - 3 6 50.0 1 7 8 2 0 1 4 5 -12
+p767
+aVPervis Ellison SEA 11/08/2000 SEA @ MIA L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -2
+p768
+aVDesmond Mason SEA 11/08/2000 SEA @ MIA L 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -14
+p769
+aVJelani McCoy SEA 11/06/2000 SEA @ ORL L 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 0
+p770
+aVRashard Lewis SEA 11/06/2000 SEA @ ORL L 37 28 12 18 66.7 2 5 40.0 2 2 100.0 5 3 8 2 5 1 0 3 -9
+p771
+aVRuben Patterson SEA 11/06/2000 SEA @ ORL L 21 3 0 7 0.0 0 4 0.0 3 4 75.0 3 4 7 3 0 2 3 4 5
+p772
+aVEmanual Davis SEA 11/06/2000 SEA @ ORL L 6 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 1 0 0 2 0
+p773
+aVVin Baker SEA 11/06/2000 SEA @ ORL L 29 13 6 15 40.0 0 1 0.0 1 4 25.0 6 4 10 1 1 1 4 4 -14
+p774
+aVShammond Williams SEA 11/06/2000 SEA @ ORL L 27 10 4 9 44.4 2 5 40.0 0 0 - 0 2 2 4 2 0 2 2 -9
+p775
+aVPervis Ellison SEA 11/06/2000 SEA @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p776
+aVGary Payton SEA 11/06/2000 SEA @ ORL L 42 23 8 15 53.3 2 6 33.3 5 6 83.3 2 0 2 10 1 0 7 3 -11
+p777
+aVDesmond Mason SEA 11/06/2000 SEA @ ORL L 23 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 2 0 1 4 1 -5
+p778
+aVRuben Wolkowyski SEA 11/06/2000 SEA @ ORL L 16 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 -2
+p779
+aVPatrick Ewing SEA 11/06/2000 SEA @ ORL L 31 7 3 9 33.3 0 0 - 1 2 50.0 0 10 10 4 0 0 3 3 -10
+p780
+aVDesmond Mason SEA 11/04/2000 SEA vs. POR L 29 6 2 7 28.6 0 2 0.0 2 2 100.0 1 4 5 2 1 0 1 2 7
+p781
+aVRuben Wolkowyski SEA 11/04/2000 SEA vs. POR L 8 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 1 1 2 -8
+p782
+aVGary Payton SEA 11/04/2000 SEA vs. POR L 48 25 9 20 45.0 1 4 25.0 6 8 75.0 0 4 4 11 6 0 1 1 -7
+p783
+aVShammond Williams SEA 11/04/2000 SEA vs. POR L 15 3 1 3 33.3 0 2 0.0 1 2 50.0 1 0 1 1 0 1 0 0 -19
+p784
+aVRuben Patterson SEA 11/04/2000 SEA vs. POR L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 1 3 -9
+p785
+aVJelani McCoy SEA 11/04/2000 SEA vs. POR L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -15
+p786
+aVVin Baker SEA 11/04/2000 SEA vs. POR L 39 19 7 16 43.8 0 1 0.0 5 6 83.3 6 3 9 2 3 1 6 4 12
+p787
+aVPatrick Ewing SEA 11/04/2000 SEA vs. POR L 40 17 5 10 50.0 0 0 - 7 9 77.8 2 5 7 3 1 1 3 3 5
+p788
+aVRashard Lewis SEA 11/04/2000 SEA vs. POR L 38 17 6 11 54.5 1 5 20.0 4 4 100.0 1 3 4 0 2 0 2 1 -1
+p789
+aVVin Baker SEA 11/01/2000 SEA vs. DEN W 31 10 4 8 50.0 0 1 0.0 2 4 50.0 0 8 8 2 1 1 2 4 5
+p790
+aVPatrick Ewing SEA 11/01/2000 SEA vs. DEN W 33 11 5 11 45.5 0 0 - 1 1 100.0 2 6 8 3 1 1 4 2 11
+p791
+aVDesmond Mason SEA 11/01/2000 SEA vs. DEN W 20 0 0 3 0.0 0 0 - 0 0 - 0 6 6 0 0 0 2 4 9
+p792
+aVRashard Lewis SEA 11/01/2000 SEA vs. DEN W 33 18 7 13 53.8 1 4 25.0 3 3 100.0 3 2 5 3 0 1 3 1 1
+p793
+aVJelani McCoy SEA 11/01/2000 SEA vs. DEN W 17 9 4 6 66.7 0 0 - 1 2 50.0 3 3 6 2 0 1 2 1 7
+p794
+aVEmanual Davis SEA 11/01/2000 SEA vs. DEN W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 6
+p795
+aVPervis Ellison SEA 11/01/2000 SEA vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p796
+aVGary Payton SEA 11/01/2000 SEA vs. DEN W 35 35 13 16 81.3 1 1 100.0 8 10 80.0 0 4 4 10 2 0 3 4 4
+p797
+aVRuben Patterson SEA 11/01/2000 SEA vs. DEN W 23 9 4 10 40.0 0 0 - 1 1 100.0 2 2 4 3 2 0 2 1 8
+p798
+aVRuben Wolkowyski SEA 11/01/2000 SEA vs. DEN W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 1 3
+p799
+aVShammond Williams SEA 11/01/2000 SEA vs. DEN W 28 16 5 7 71.4 3 5 60.0 3 3 100.0 0 2 2 3 0 0 4 4 13
+p800
+aVRuben Patterson SEA 10/31/2000 SEA @ VAN L 19 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 1 2 1 -2
+p801
+aVVin Baker SEA 10/31/2000 SEA @ VAN L 37 19 7 16 43.8 0 0 - 5 6 83.3 2 5 7 1 1 4 3 3 0
+p802
+aVJelani McCoy SEA 10/31/2000 SEA @ VAN L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p803
+aVGary Payton SEA 10/31/2000 SEA @ VAN L 48 27 10 26 38.5 2 9 22.2 5 7 71.4 4 10 14 10 1 0 6 4 -6
+p804
+aVShammond Williams SEA 10/31/2000 SEA @ VAN L 31 18 6 8 75.0 4 6 66.7 2 3 66.7 0 4 4 3 1 0 1 2 14
+p805
+aVDesmond Mason SEA 10/31/2000 SEA @ VAN L 17 7 3 9 33.3 0 3 0.0 1 2 50.0 3 2 5 2 0 1 1 5 -15
+p806
+aVPatrick Ewing SEA 10/31/2000 SEA @ VAN L 37 2 1 6 16.7 0 0 - 0 0 - 2 10 12 2 0 2 3 4 -15
+p807
+aVRuben Wolkowyski SEA 10/31/2000 SEA @ VAN L 12 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -2
+p808
+aVRashard Lewis SEA 10/31/2000 SEA @ VAN L 35 11 3 10 30.0 2 5 40.0 3 4 75.0 1 4 5 1 1 0 3 5 -4
+p809
+a.

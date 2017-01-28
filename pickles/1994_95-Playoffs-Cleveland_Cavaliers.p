@@ -1,0 +1,84 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTony Campbell CLE 05/04/1995 CLE vs. NYK L 4 3 0 3 0.0 0 0 - 3 4 75.0 0 0 0 0 0 1 0 0 -
+p2
+aVBobby Phills CLE 05/04/1995 CLE vs. NYK L 35 20 8 15 53.3 3 5 60.0 1 4 25.0 1 3 4 2 1 0 0 1 -
+p3
+aVMichael Cage CLE 05/04/1995 CLE vs. NYK L 23 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 0 1 0 3 -
+p4
+aVChris Mills CLE 05/04/1995 CLE vs. NYK L 42 13 6 14 42.9 1 4 25.0 0 0 - 1 6 7 3 2 1 3 3 -
+p5
+aVDanny Ferry CLE 05/04/1995 CLE vs. NYK L 21 9 3 6 50.0 2 5 40.0 1 2 50.0 0 2 2 4 0 0 0 1 -
+p6
+aVSteve Colter CLE 05/04/1995 CLE vs. NYK L 7 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 1 -
+p7
+aVTyrone Hill CLE 05/04/1995 CLE vs. NYK L 34 4 1 5 20.0 0 0 - 2 2 100.0 0 3 3 1 1 0 2 6 -
+p8
+aVMark Price CLE 05/04/1995 CLE vs. NYK L 41 18 6 15 40.0 3 8 37.5 3 3 100.0 0 4 4 9 2 0 1 0 -
+p9
+aVHot Rod Williams CLE 05/04/1995 CLE vs. NYK L 33 6 3 12 25.0 0 0 - 0 2 0.0 0 7 7 1 0 1 1 3 -
+p10
+aVJohn Battle CLE 05/01/1995 CLE vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p11
+aVDanny Ferry CLE 05/01/1995 CLE vs. NYK L 11 9 3 8 37.5 2 5 40.0 1 2 50.0 0 1 1 0 0 0 0 3 -
+p12
+aVBobby Phills CLE 05/01/1995 CLE vs. NYK L 43 10 2 11 18.2 1 1 100.0 5 6 83.3 1 2 3 1 2 0 3 3 -
+p13
+aVChris Mills CLE 05/01/1995 CLE vs. NYK L 38 13 5 10 50.0 1 2 50.0 2 2 100.0 0 4 4 5 1 1 1 6 -
+p14
+aVMichael Cage CLE 05/01/1995 CLE vs. NYK L 16 2 1 2 50.0 0 0 - 0 2 0.0 3 5 8 0 0 2 0 2 -
+p15
+aVTyrone Hill CLE 05/01/1995 CLE vs. NYK L 40 13 3 10 30.0 0 1 0.0 7 9 77.8 4 3 7 1 4 1 1 5 -
+p16
+aVHot Rod Williams CLE 05/01/1995 CLE vs. NYK L 39 7 3 10 30.0 0 0 - 1 4 25.0 1 5 6 4 2 2 5 3 -
+p17
+aVTony Campbell CLE 05/01/1995 CLE vs. NYK L 4 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -
+p18
+aVSteve Colter CLE 05/01/1995 CLE vs. NYK L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p19
+aVMark Price CLE 05/01/1995 CLE vs. NYK L 39 21 2 9 22.2 1 5 20.0 16 16 100.0 2 1 3 6 1 0 2 3 -
+p20
+aVChris Mills CLE 04/29/1995 CLE @ NYK W 45 21 7 10 70.0 4 6 66.7 3 3 100.0 0 3 3 3 0 0 2 5 -
+p21
+aVTony Campbell CLE 04/29/1995 CLE @ NYK W 8 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 1 0 1 0 -
+p22
+aVDanny Ferry CLE 04/29/1995 CLE @ NYK W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p23
+aVMichael Cage CLE 04/29/1995 CLE @ NYK W 20 8 4 4 100.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -
+p24
+aVBobby Phills CLE 04/29/1995 CLE @ NYK W 40 21 6 9 66.7 0 1 0.0 9 10 90.0 1 3 4 1 4 0 4 2 -
+p25
+aVSteve Colter CLE 04/29/1995 CLE @ NYK W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p26
+aVMark Price CLE 04/29/1995 CLE @ NYK W 37 15 3 10 30.0 0 3 0.0 9 10 90.0 0 2 2 7 1 0 9 1 -
+p27
+aVHot Rod Williams CLE 04/29/1995 CLE @ NYK W 43 10 4 10 40.0 0 0 - 2 2 100.0 0 6 6 5 6 0 3 4 -
+p28
+aVTyrone Hill CLE 04/29/1995 CLE @ NYK W 33 10 3 4 75.0 0 0 - 4 8 50.0 1 4 5 0 1 0 4 5 -
+p29
+aVMichael Cage CLE 04/27/1995 CLE @ NYK L 22 4 2 7 28.6 0 1 0.0 0 0 - 3 0 3 2 2 1 0 2 -
+p30
+aVSteve Colter CLE 04/27/1995 CLE @ NYK L 16 3 1 3 33.3 0 1 0.0 1 2 50.0 1 0 1 1 0 0 0 0 -
+p31
+aVDanny Ferry CLE 04/27/1995 CLE @ NYK L 32 20 7 10 70.0 4 4 100.0 2 2 100.0 0 0 0 2 2 0 0 4 -
+p32
+aVFred Roberts CLE 04/27/1995 CLE @ NYK L 7 6 3 4 75.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 0 -
+p33
+aVJohn Battle CLE 04/27/1995 CLE @ NYK L 6 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p34
+aVHot Rod Williams CLE 04/27/1995 CLE @ NYK L 29 4 2 10 20.0 0 1 0.0 0 0 - 2 4 6 1 1 0 1 1 -
+p35
+aVChris Mills CLE 04/27/1995 CLE @ NYK L 14 6 2 3 66.7 2 2 100.0 0 0 - 1 1 2 0 0 0 0 4 -
+p36
+aVMark Price CLE 04/27/1995 CLE @ NYK L 26 6 1 6 16.7 0 1 0.0 4 4 100.0 0 3 3 4 2 0 6 1 -
+p37
+aVTony Campbell CLE 04/27/1995 CLE @ NYK L 21 13 4 7 57.1 0 0 - 5 6 83.3 1 0 1 1 0 0 2 2 -
+p38
+aVGreg Dreiling CLE 04/27/1995 CLE @ NYK L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p39
+aVBobby Phills CLE 04/27/1995 CLE @ NYK L 28 6 3 8 37.5 0 0 - 0 0 - 0 1 1 2 2 0 2 2 -
+p40
+aVTyrone Hill CLE 04/27/1995 CLE @ NYK L 32 7 2 10 20.0 0 0 - 3 6 50.0 3 5 8 1 1 0 3 2 -
+p41
+a.

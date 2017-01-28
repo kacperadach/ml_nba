@@ -1,0 +1,1712 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDan Majerle PHX 04/21/1991 PHX vs. POR W 36 20 7 13 53.8 2 3 66.7 4 5 80.0 5 3 8 2 1 1 1 3 -
+p2
+aVMark West PHX 04/21/1991 PHX vs. POR W 17 7 3 4 75.0 0 0 - 1 4 25.0 3 6 9 1 0 0 1 5 -
+p3
+aVCedric Ceballos PHX 04/21/1991 PHX vs. POR W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p4
+aVTom Chambers PHX 04/21/1991 PHX vs. POR W 20 11 2 9 22.2 0 0 - 7 8 87.5 1 3 4 0 2 0 1 6 -
+p5
+aVKurt Rambis PHX 04/21/1991 PHX vs. POR W 16 9 4 4 100.0 0 0 - 1 1 100.0 0 4 4 1 2 0 0 3 -
+p6
+aVKevin Johnson PHX 04/21/1991 PHX vs. POR W 29 23 5 11 45.5 0 0 - 13 15 86.7 0 2 2 14 2 0 2 4 -
+p7
+aVJeff Hornacek PHX 04/21/1991 PHX vs. POR W 36 22 9 12 75.0 0 0 - 4 6 66.7 0 3 3 3 1 1 1 2 -
+p8
+aVXavier McDaniel PHX 04/21/1991 PHX vs. POR W 28 18 7 13 53.8 0 0 - 4 5 80.0 1 2 3 1 0 1 3 4 -
+p9
+aVNegele Knight PHX 04/21/1991 PHX vs. POR W 20 7 3 5 60.0 0 1 0.0 1 3 33.3 0 2 2 3 0 0 1 1 -
+p10
+aVAndrew Lang PHX 04/21/1991 PHX vs. POR W 17 12 3 5 60.0 0 0 - 6 6 100.0 1 3 4 0 0 1 1 3 -
+p11
+aVJoe Barry Carroll PHX 04/21/1991 PHX vs. POR W 14 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 2 1 4 4 3 -
+p12
+aVKevin Johnson PHX 04/19/1991 PHX @ SEA L 33 26 6 15 40.0 0 0 - 14 17 82.4 0 2 2 2 3 0 5 3 -
+p13
+aVTim Perry PHX 04/19/1991 PHX @ SEA L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p14
+aVEd Nealy PHX 04/19/1991 PHX @ SEA L 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 2 0 1 2 -
+p15
+aVXavier McDaniel PHX 04/19/1991 PHX @ SEA L 27 9 3 11 27.3 0 0 - 3 6 50.0 6 7 13 1 1 1 3 3 -
+p16
+aVJeff Hornacek PHX 04/19/1991 PHX @ SEA L 36 12 5 13 38.5 1 2 50.0 1 2 50.0 0 3 3 4 1 0 0 1 -
+p17
+aVAndrew Lang PHX 04/19/1991 PHX @ SEA L 17 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -
+p18
+aVNegele Knight PHX 04/19/1991 PHX @ SEA L 10 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 4 1 0 1 1 -
+p19
+aVMark West PHX 04/19/1991 PHX @ SEA L 28 8 4 6 66.7 0 0 - 0 2 0.0 4 4 8 0 1 8 1 5 -
+p20
+aVTom Chambers PHX 04/19/1991 PHX @ SEA L 28 9 3 13 23.1 0 1 0.0 3 4 75.0 2 6 8 1 0 0 7 4 -
+p21
+aVDan Majerle PHX 04/19/1991 PHX @ SEA L 24 6 3 7 42.9 0 1 0.0 0 0 - 3 3 6 1 0 0 1 2 -
+p22
+aVCedric Ceballos PHX 04/19/1991 PHX @ SEA L 21 13 5 12 41.7 0 0 - 3 4 75.0 3 4 7 1 0 0 1 2 -
+p23
+aVKevin Johnson PHX 04/17/1991 PHX vs. LAC W 19 14 3 8 37.5 0 0 - 8 9 88.9 1 2 3 5 2 0 1 2 -
+p24
+aVCedric Ceballos PHX 04/17/1991 PHX vs. LAC W 8 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -
+p25
+aVDan Majerle PHX 04/17/1991 PHX vs. LAC W 26 8 3 10 30.0 0 3 0.0 2 2 100.0 2 2 4 0 1 2 1 2 -
+p26
+aVXavier McDaniel PHX 04/17/1991 PHX vs. LAC W 28 21 7 17 41.2 0 0 - 7 7 100.0 2 7 9 4 2 2 0 3 -
+p27
+aVJeff Hornacek PHX 04/17/1991 PHX vs. LAC W 41 20 9 18 50.0 0 3 0.0 2 2 100.0 2 5 7 4 0 0 0 3 -
+p28
+aVNegele Knight PHX 04/17/1991 PHX vs. LAC W 22 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 6 0 0 0 2 -
+p29
+aVTom Chambers PHX 04/17/1991 PHX vs. LAC W 39 29 8 20 40.0 0 1 0.0 13 17 76.5 3 8 11 2 0 1 2 5 -
+p30
+aVAndrew Lang PHX 04/17/1991 PHX vs. LAC W 17 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 0 0 1 0 2 -
+p31
+aVTim Perry PHX 04/17/1991 PHX vs. LAC W 9 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 1 -
+p32
+aVMark West PHX 04/17/1991 PHX vs. LAC W 31 4 2 5 40.0 0 0 - 0 2 0.0 2 6 8 1 0 3 1 5 -
+p33
+aVTim Perry PHX 04/16/1991 PHX @ DEN W 17 10 4 6 66.7 0 1 0.0 2 2 100.0 2 3 5 1 1 2 1 3 -
+p34
+aVNegele Knight PHX 04/16/1991 PHX @ DEN W 21 9 3 7 42.9 0 0 - 3 4 75.0 1 1 2 6 0 0 3 3 -
+p35
+aVJeff Hornacek PHX 04/16/1991 PHX @ DEN W 34 21 8 11 72.7 0 0 - 5 5 100.0 0 6 6 9 1 0 2 0 -
+p36
+aVAndrew Lang PHX 04/16/1991 PHX @ DEN W 22 3 1 5 20.0 0 0 - 1 1 100.0 2 8 10 0 0 5 0 2 -
+p37
+aVKurt Rambis PHX 04/16/1991 PHX @ DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -
+p38
+aVMark West PHX 04/16/1991 PHX @ DEN W 25 14 5 6 83.3 0 0 - 4 5 80.0 1 6 7 1 0 2 2 0 -
+p39
+aVKevin Johnson PHX 04/16/1991 PHX @ DEN W 28 16 7 8 87.5 0 0 - 2 5 40.0 0 1 1 5 1 0 2 3 -
+p40
+aVTom Chambers PHX 04/16/1991 PHX @ DEN W 18 13 6 8 75.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 3 -
+p41
+aVDan Majerle PHX 04/16/1991 PHX @ DEN W 13 14 6 9 66.7 0 0 - 2 2 100.0 2 2 4 2 0 0 1 3 -
+p42
+aVCedric Ceballos PHX 04/16/1991 PHX @ DEN W 32 34 13 22 59.1 0 0 - 8 11 72.7 4 4 8 3 1 0 3 1 -
+p43
+aVEd Nealy PHX 04/16/1991 PHX @ DEN W 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -
+p44
+aVXavier McDaniel PHX 04/16/1991 PHX @ DEN W 22 14 7 10 70.0 0 0 - 0 2 0.0 2 4 6 3 0 2 3 1 -
+p45
+aVAndrew Lang PHX 04/14/1991 PHX vs. SAN L 17 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 5 0 1 -
+p46
+aVTim Perry PHX 04/14/1991 PHX vs. SAN L 15 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -
+p47
+aVNegele Knight PHX 04/14/1991 PHX vs. SAN L 42 27 12 25 48.0 0 2 0.0 3 4 75.0 0 4 4 6 0 0 3 5 -
+p48
+aVMark West PHX 04/14/1991 PHX vs. SAN L 31 15 7 9 77.8 0 0 - 1 1 100.0 6 1 7 3 2 6 1 5 -
+p49
+aVEd Nealy PHX 04/14/1991 PHX vs. SAN L 5 2 1 2 50.0 0 1 0.0 0 1 0.0 1 0 1 0 0 0 0 0 -
+p50
+aVCedric Ceballos PHX 04/14/1991 PHX vs. SAN L 27 13 6 11 54.5 1 1 100.0 0 0 - 2 3 5 2 1 0 3 5 -
+p51
+aVXavier McDaniel PHX 04/14/1991 PHX vs. SAN L 32 14 5 10 50.0 0 0 - 4 6 66.7 2 6 8 0 0 1 4 3 -
+p52
+aVJeff Hornacek PHX 04/14/1991 PHX vs. SAN L 44 20 9 23 39.1 2 5 40.0 0 0 - 0 7 7 7 4 1 3 3 -
+p53
+aVTom Chambers PHX 04/14/1991 PHX vs. SAN L 21 4 2 15 13.3 0 1 0.0 0 0 - 1 5 6 0 0 1 0 1 -
+p54
+aVKurt Rambis PHX 04/14/1991 PHX vs. SAN L 6 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 0 -
+p55
+aVCedric Ceballos PHX 04/12/1991 PHX vs. DAL W 24 16 4 11 36.4 0 0 - 8 10 80.0 1 3 4 1 0 0 3 1 -
+p56
+aVTim Perry PHX 04/12/1991 PHX vs. DAL W 13 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 1 -
+p57
+aVMark West PHX 04/12/1991 PHX vs. DAL W 28 9 3 6 50.0 0 0 - 3 5 60.0 4 4 8 1 0 2 0 4 -
+p58
+aVJeff Hornacek PHX 04/12/1991 PHX vs. DAL W 39 28 12 22 54.5 0 3 0.0 4 4 100.0 1 5 6 8 2 0 0 3 -
+p59
+aVNegele Knight PHX 04/12/1991 PHX vs. DAL W 43 17 5 19 26.3 0 1 0.0 7 15 46.7 2 1 3 11 2 0 3 4 -
+p60
+aVKurt Rambis PHX 04/12/1991 PHX vs. DAL W 26 6 3 3 100.0 0 0 - 0 0 - 1 11 12 1 1 0 1 2 -
+p61
+aVXavier McDaniel PHX 04/12/1991 PHX vs. DAL W 24 10 5 11 45.5 0 0 - 0 0 - 1 3 4 0 1 1 1 2 -
+p62
+aVAndrew Lang PHX 04/12/1991 PHX vs. DAL W 20 6 2 3 66.7 0 0 - 2 2 100.0 5 1 6 0 0 2 2 1 -
+p63
+aVEd Nealy PHX 04/12/1991 PHX vs. DAL W 23 9 3 5 60.0 0 1 0.0 3 4 75.0 0 2 2 3 0 0 1 2 -
+p64
+aVEd Nealy PHX 04/09/1991 PHX vs. GOS W 20 5 2 4 50.0 1 2 50.0 0 0 - 2 8 10 1 1 0 1 1 -
+p65
+aVKurt Rambis PHX 04/09/1991 PHX vs. GOS W 20 10 3 3 100.0 0 0 - 4 6 66.7 1 8 9 2 0 0 2 3 -
+p66
+aVAndrew Lang PHX 04/09/1991 PHX vs. GOS W 11 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 3 1 4 -
+p67
+aVMark West PHX 04/09/1991 PHX vs. GOS W 24 11 1 4 25.0 0 0 - 9 9 100.0 2 7 9 1 1 0 2 3 -
+p68
+aVJeff Hornacek PHX 04/09/1991 PHX vs. GOS W 43 31 11 19 57.9 1 2 50.0 8 9 88.9 1 2 3 8 1 0 4 3 -
+p69
+aVXavier McDaniel PHX 04/09/1991 PHX vs. GOS W 36 14 5 10 50.0 0 0 - 4 8 50.0 2 3 5 2 1 1 2 4 -
+p70
+aVNegele Knight PHX 04/09/1991 PHX vs. GOS W 45 27 11 20 55.0 1 3 33.3 4 8 50.0 0 1 1 10 2 0 5 4 -
+p71
+aVCedric Ceballos PHX 04/09/1991 PHX vs. GOS W 26 16 6 11 54.5 0 0 - 4 7 57.1 1 1 2 2 1 1 1 4 -
+p72
+aVTim Perry PHX 04/09/1991 PHX vs. GOS W 15 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 5 0 0 -
+p73
+aVKurt Rambis PHX 04/07/1991 PHX @ LAL L 32 4 2 3 66.7 0 0 - 0 0 - 1 5 6 4 0 0 1 3 -
+p74
+aVEd Nealy PHX 04/07/1991 PHX @ LAL L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 1 0 0 2 -
+p75
+aVXavier McDaniel PHX 04/07/1991 PHX @ LAL L 44 16 8 14 57.1 0 0 - 0 0 - 2 1 3 0 0 0 5 5 -
+p76
+aVAndrew Lang PHX 04/07/1991 PHX @ LAL L 12 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 1 -
+p77
+aVJeff Hornacek PHX 04/07/1991 PHX @ LAL L 43 20 9 21 42.9 2 4 50.0 0 0 - 2 8 10 6 0 0 2 2 -
+p78
+aVMark West PHX 04/07/1991 PHX @ LAL L 34 10 5 5 100.0 0 0 - 0 0 - 2 8 10 0 1 5 3 1 -
+p79
+aVNegele Knight PHX 04/07/1991 PHX @ LAL L 44 25 9 20 45.0 0 1 0.0 7 8 87.5 0 5 5 9 1 1 2 3 -
+p80
+aVTim Perry PHX 04/07/1991 PHX @ LAL L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p81
+aVCedric Ceballos PHX 04/07/1991 PHX @ LAL L 13 2 0 4 0.0 0 0 - 2 4 50.0 1 0 1 1 0 0 3 2 -
+p82
+aVEd Nealy PHX 04/05/1991 PHX @ GOS L 26 3 1 7 14.3 0 1 0.0 1 2 50.0 4 4 8 2 1 0 2 1 -
+p83
+aVTom Chambers PHX 04/05/1991 PHX @ GOS L 11 8 4 5 80.0 0 0 - 0 0 - 0 3 3 1 0 1 1 2 -
+p84
+aVJeff Hornacek PHX 04/05/1991 PHX @ GOS L 38 19 8 13 61.5 1 1 100.0 2 2 100.0 0 2 2 5 3 0 3 2 -
+p85
+aVTim Perry PHX 04/05/1991 PHX @ GOS L 14 6 3 6 50.0 0 1 0.0 0 0 - 1 0 1 0 0 1 2 0 -
+p86
+aVNegele Knight PHX 04/05/1991 PHX @ GOS L 43 22 7 17 41.2 0 1 0.0 8 10 80.0 2 5 7 19 1 1 6 4 -
+p87
+aVCedric Ceballos PHX 04/05/1991 PHX @ GOS L 39 23 9 21 42.9 0 0 - 5 7 71.4 6 4 10 1 5 0 5 3 -
+p88
+aVMark West PHX 04/05/1991 PHX @ GOS L 28 9 4 7 57.1 0 0 - 1 2 50.0 4 4 8 0 0 3 3 3 -
+p89
+aVXavier McDaniel PHX 04/05/1991 PHX @ GOS L 21 8 4 10 40.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -
+p90
+aVAndrew Lang PHX 04/05/1991 PHX @ GOS L 20 3 0 1 0.0 0 0 - 3 4 75.0 0 2 2 0 1 3 3 4 -
+p91
+aVMark West PHX 04/04/1991 PHX vs. LAL L 18 0 0 4 0.0 0 0 - 0 0 - 1 3 4 2 1 0 0 1 -
+p92
+aVTom Chambers PHX 04/04/1991 PHX vs. LAL L 37 22 9 18 50.0 0 2 0.0 4 4 100.0 1 3 4 2 0 2 3 4 -
+p93
+aVKurt Rambis PHX 04/04/1991 PHX vs. LAL L 15 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 1 0 0 1 -
+p94
+aVKevin Johnson PHX 04/04/1991 PHX vs. LAL L 45 33 12 25 48.0 0 1 0.0 9 10 90.0 2 4 6 12 2 1 5 4 -
+p95
+aVAndrew Lang PHX 04/04/1991 PHX vs. LAL L 30 5 2 6 33.3 0 0 - 1 4 25.0 5 5 10 2 1 2 0 5 -
+p96
+aVNegele Knight PHX 04/04/1991 PHX vs. LAL L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p97
+aVJeff Hornacek PHX 04/04/1991 PHX vs. LAL L 36 10 5 13 38.5 0 2 0.0 0 0 - 0 1 1 6 0 0 0 3 -
+p98
+aVDan Majerle PHX 04/04/1991 PHX vs. LAL L 13 5 2 5 40.0 1 1 100.0 0 0 - 1 2 3 0 0 0 1 2 -
+p99
+aVXavier McDaniel PHX 04/04/1991 PHX vs. LAL L 42 23 11 18 61.1 0 0 - 1 1 100.0 3 6 9 0 0 1 3 5 -
+p100
+aVCedric Ceballos PHX 04/02/1991 PHX vs. UTH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p101
+aVNegele Knight PHX 04/02/1991 PHX vs. UTH W 3 0 0 0 - 0 0 - 0 2 0.0 0 1 1 2 0 0 1 1 -
+p102
+aVTom Chambers PHX 04/02/1991 PHX vs. UTH W 25 8 4 14 28.6 0 0 - 0 0 - 2 2 4 3 0 0 1 5 -
+p103
+aVXavier McDaniel PHX 04/02/1991 PHX vs. UTH W 37 28 11 16 68.8 0 0 - 6 6 100.0 2 10 12 1 1 0 1 5 -
+p104
+aVMark West PHX 04/02/1991 PHX vs. UTH W 20 9 3 3 100.0 0 0 - 3 3 100.0 4 1 5 0 0 2 2 4 -
+p105
+aVJeff Hornacek PHX 04/02/1991 PHX vs. UTH W 27 18 8 15 53.3 1 1 100.0 1 2 50.0 1 2 3 1 0 0 4 3 -
+p106
+aVEd Nealy PHX 04/02/1991 PHX vs. UTH W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p107
+aVAndrew Lang PHX 04/02/1991 PHX vs. UTH W 25 7 3 3 100.0 0 0 - 1 2 50.0 2 5 7 0 1 2 1 2 -
+p108
+aVTim Perry PHX 04/02/1991 PHX vs. UTH W 13 5 2 3 66.7 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -
+p109
+aVDan Majerle PHX 04/02/1991 PHX vs. UTH W 34 17 7 13 53.8 1 2 50.0 2 2 100.0 1 3 4 3 0 0 0 1 -
+p110
+aVKevin Johnson PHX 04/02/1991 PHX vs. UTH W 42 37 13 21 61.9 0 1 0.0 11 13 84.6 1 2 3 20 2 0 4 2 -
+p111
+aVTim Perry PHX 03/28/1991 PHX vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p112
+aVDan Majerle PHX 03/28/1991 PHX vs. MIL W 34 18 5 9 55.6 2 2 100.0 6 6 100.0 1 5 6 1 2 0 2 1 -
+p113
+aVKurt Rambis PHX 03/28/1991 PHX vs. MIL W 5 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p114
+aVMark West PHX 03/28/1991 PHX vs. MIL W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -
+p115
+aVXavier McDaniel PHX 03/28/1991 PHX vs. MIL W 21 12 5 11 45.5 0 1 0.0 2 2 100.0 0 0 0 2 0 0 2 2 -
+p116
+aVKevin Johnson PHX 03/28/1991 PHX vs. MIL W 33 12 4 13 30.8 0 2 0.0 4 4 100.0 0 3 3 11 2 0 3 2 -
+p117
+aVNegele Knight PHX 03/28/1991 PHX vs. MIL W 15 6 3 7 42.9 0 0 - 0 0 - 2 1 3 2 0 0 1 4 -
+p118
+aVAndrew Lang PHX 03/28/1991 PHX vs. MIL W 33 16 6 7 85.7 0 0 - 4 7 57.1 1 6 7 1 1 5 0 3 -
+p119
+aVEd Nealy PHX 03/28/1991 PHX vs. MIL W 19 2 1 4 25.0 0 1 0.0 0 0 - 2 4 6 1 0 0 0 2 -
+p120
+aVJeff Hornacek PHX 03/28/1991 PHX vs. MIL W 29 10 5 11 45.5 0 2 0.0 0 0 - 1 3 4 3 1 1 0 2 -
+p121
+aVTom Chambers PHX 03/28/1991 PHX vs. MIL W 29 18 7 17 41.2 0 0 - 4 4 100.0 3 8 11 4 0 1 1 2 -
+p122
+aVCedric Ceballos PHX 03/28/1991 PHX vs. MIL W 10 6 3 9 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p123
+aVDan Majerle PHX 03/26/1991 PHX vs. MIN W 32 10 5 14 35.7 0 1 0.0 0 0 - 2 4 6 5 0 2 2 3 -
+p124
+aVEd Nealy PHX 03/26/1991 PHX vs. MIN W 32 8 2 5 40.0 1 1 100.0 3 4 75.0 1 3 4 1 1 0 0 1 -
+p125
+aVXavier McDaniel PHX 03/26/1991 PHX vs. MIN W 32 22 11 21 52.4 0 0 - 0 0 - 2 7 9 3 1 0 3 3 -
+p126
+aVJeff Hornacek PHX 03/26/1991 PHX vs. MIN W 21 12 5 11 45.5 1 1 100.0 1 1 100.0 1 2 3 5 0 0 0 2 -
+p127
+aVKevin Johnson PHX 03/26/1991 PHX vs. MIN W 39 27 10 16 62.5 1 1 100.0 6 6 100.0 1 4 5 10 2 0 3 2 -
+p128
+aVNegele Knight PHX 03/26/1991 PHX vs. MIN W 4 2 0 1 0.0 0 0 - 2 4 50.0 0 1 1 1 0 0 1 0 -
+p129
+aVTim Perry PHX 03/26/1991 PHX vs. MIN W 4 3 0 0 - 0 0 - 3 4 75.0 0 2 2 0 1 0 1 0 -
+p130
+aVMark West PHX 03/26/1991 PHX vs. MIN W 24 12 6 8 75.0 0 0 - 0 2 0.0 4 9 13 0 0 3 1 4 -
+p131
+aVTom Chambers PHX 03/26/1991 PHX vs. MIN W 22 13 4 9 44.4 0 1 0.0 5 6 83.3 2 1 3 4 0 0 1 4 -
+p132
+aVCedric Ceballos PHX 03/26/1991 PHX vs. MIN W 6 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 2 0 0 1 0 -
+p133
+aVAndrew Lang PHX 03/26/1991 PHX vs. MIN W 24 4 1 2 50.0 0 0 - 2 2 100.0 2 6 8 0 0 5 1 0 -
+p134
+aVMark West PHX 03/25/1991 PHX @ LAC L 21 7 3 5 60.0 0 0 - 1 2 50.0 4 6 10 0 1 2 2 0 -
+p135
+aVKevin Johnson PHX 03/25/1991 PHX @ LAC L 43 22 8 15 53.3 1 2 50.0 5 6 83.3 0 1 1 13 3 0 5 3 -
+p136
+aVXavier McDaniel PHX 03/25/1991 PHX @ LAC L 29 16 8 12 66.7 0 0 - 0 2 0.0 1 4 5 4 0 0 3 4 -
+p137
+aVCedric Ceballos PHX 03/25/1991 PHX @ LAC L 9 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 0 1 0 2 1 -
+p138
+aVAndrew Lang PHX 03/25/1991 PHX @ LAC L 32 7 2 6 33.3 0 0 - 3 4 75.0 2 7 9 0 0 4 1 2 -
+p139
+aVTom Chambers PHX 03/25/1991 PHX @ LAC L 37 18 7 16 43.8 1 2 50.0 3 5 60.0 1 7 8 0 0 0 1 3 -
+p140
+aVDan Majerle PHX 03/25/1991 PHX @ LAC L 25 9 3 7 42.9 1 1 100.0 2 2 100.0 1 1 2 0 0 1 0 3 -
+p141
+aVEd Nealy PHX 03/25/1991 PHX @ LAC L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -
+p142
+aVJeff Hornacek PHX 03/25/1991 PHX @ LAC L 37 8 4 12 33.3 0 1 0.0 0 0 - 0 4 4 4 0 0 4 4 -
+p143
+aVKevin Johnson PHX 03/23/1991 PHX @ SAC W 41 22 8 13 61.5 0 1 0.0 6 8 75.0 1 1 2 15 1 0 1 3 -
+p144
+aVMark West PHX 03/23/1991 PHX @ SAC W 20 6 3 5 60.0 0 0 - 0 0 - 5 6 11 0 0 0 1 4 -
+p145
+aVTom Chambers PHX 03/23/1991 PHX @ SAC W 37 25 12 20 60.0 0 1 0.0 1 4 25.0 0 5 5 2 0 2 3 1 -
+p146
+aVTim Perry PHX 03/23/1991 PHX @ SAC W 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p147
+aVJeff Hornacek PHX 03/23/1991 PHX @ SAC W 40 14 6 12 50.0 0 0 - 2 3 66.7 2 2 4 5 2 0 3 3 -
+p148
+aVDan Majerle PHX 03/23/1991 PHX @ SAC W 31 9 4 14 28.6 0 1 0.0 1 2 50.0 1 5 6 1 1 0 2 1 -
+p149
+aVAndrew Lang PHX 03/23/1991 PHX @ SAC W 27 6 2 4 50.0 0 0 - 2 2 100.0 1 6 7 2 0 4 1 3 -
+p150
+aVEd Nealy PHX 03/23/1991 PHX @ SAC W 1 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p151
+aVXavier McDaniel PHX 03/23/1991 PHX @ SAC W 26 12 5 9 55.6 0 0 - 2 2 100.0 2 3 5 0 1 0 2 5 -
+p152
+aVCedric Ceballos PHX 03/23/1991 PHX @ SAC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p153
+aVKevin Johnson PHX 03/22/1991 PHX vs. SEA L 41 23 4 13 30.8 0 0 - 15 18 83.3 1 1 2 10 0 0 4 2 -
+p154
+aVCedric Ceballos PHX 03/22/1991 PHX vs. SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p155
+aVTom Chambers PHX 03/22/1991 PHX vs. SEA L 41 19 4 18 22.2 0 1 0.0 11 14 78.6 2 8 10 1 1 3 1 2 -
+p156
+aVDan Majerle PHX 03/22/1991 PHX vs. SEA L 35 23 10 13 76.9 1 1 100.0 2 2 100.0 1 3 4 4 0 0 4 1 -
+p157
+aVMark West PHX 03/22/1991 PHX vs. SEA L 22 7 3 3 100.0 0 0 - 1 2 50.0 1 3 4 1 0 1 0 3 -
+p158
+aVJeff Hornacek PHX 03/22/1991 PHX vs. SEA L 38 15 6 14 42.9 0 2 0.0 3 3 100.0 0 4 4 8 2 0 0 5 -
+p159
+aVXavier McDaniel PHX 03/22/1991 PHX vs. SEA L 29 11 4 11 36.4 0 0 - 3 3 100.0 1 4 5 2 1 0 2 2 -
+p160
+aVKurt Rambis PHX 03/22/1991 PHX vs. SEA L 6 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 1 0 0 1 1 -
+p161
+aVEd Nealy PHX 03/22/1991 PHX vs. SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p162
+aVAndrew Lang PHX 03/22/1991 PHX vs. SEA L 25 4 2 4 50.0 0 0 - 0 0 - 1 5 6 1 0 2 1 1 -
+p163
+aVNegele Knight PHX 03/22/1991 PHX vs. SEA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p164
+aVTom Chambers PHX 03/20/1991 PHX @ DAL W 33 22 6 14 42.9 0 1 0.0 10 12 83.3 2 7 9 6 0 0 2 2 -
+p165
+aVJeff Hornacek PHX 03/20/1991 PHX @ DAL W 32 20 7 14 50.0 2 2 100.0 4 4 100.0 0 0 0 2 1 0 2 4 -
+p166
+aVKevin Johnson PHX 03/20/1991 PHX @ DAL W 37 15 7 13 53.8 0 1 0.0 1 2 50.0 0 2 2 12 3 0 3 0 -
+p167
+aVKurt Rambis PHX 03/20/1991 PHX @ DAL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -
+p168
+aVMark West PHX 03/20/1991 PHX @ DAL W 20 9 3 3 100.0 0 0 - 3 4 75.0 3 7 10 0 2 1 2 3 -
+p169
+aVXavier McDaniel PHX 03/20/1991 PHX @ DAL W 40 24 11 17 64.7 0 0 - 2 3 66.7 2 4 6 2 0 0 2 3 -
+p170
+aVCedric Ceballos PHX 03/20/1991 PHX @ DAL W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p171
+aVAndrew Lang PHX 03/20/1991 PHX @ DAL W 24 10 4 4 100.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 1 -
+p172
+aVNegele Knight PHX 03/20/1991 PHX @ DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p173
+aVDan Majerle PHX 03/20/1991 PHX @ DAL W 40 10 5 12 41.7 0 1 0.0 0 0 - 2 7 9 4 1 0 1 0 -
+p174
+aVDan Majerle PHX 03/18/1991 PHX vs. IND W 40 19 7 13 53.8 0 2 0.0 5 5 100.0 1 5 6 3 2 0 2 2 -
+p175
+aVXavier McDaniel PHX 03/18/1991 PHX vs. IND W 34 14 7 11 63.6 0 0 - 0 0 - 3 11 14 3 1 2 4 3 -
+p176
+aVCedric Ceballos PHX 03/18/1991 PHX vs. IND W 18 8 4 8 50.0 0 1 0.0 0 4 0.0 2 0 2 0 1 0 2 1 -
+p177
+aVJeff Hornacek PHX 03/18/1991 PHX vs. IND W 37 20 8 12 66.7 2 2 100.0 2 3 66.7 0 3 3 4 3 0 1 2 -
+p178
+aVTom Chambers PHX 03/18/1991 PHX vs. IND W 24 21 8 15 53.3 0 0 - 5 6 83.3 1 1 2 1 0 1 2 3 -
+p179
+aVKevin Johnson PHX 03/18/1991 PHX vs. IND W 37 19 5 15 33.3 0 2 0.0 9 11 81.8 2 3 5 15 3 2 9 3 -
+p180
+aVAndrew Lang PHX 03/18/1991 PHX vs. IND W 24 5 2 2 100.0 0 0 - 1 1 100.0 2 7 9 0 0 3 2 4 -
+p181
+aVNegele Knight PHX 03/18/1991 PHX vs. IND W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 1 2 0 -
+p182
+aVMark West PHX 03/18/1991 PHX vs. IND W 20 3 1 2 50.0 0 0 - 1 2 50.0 0 5 5 1 1 0 1 3 -
+p183
+aVNegele Knight PHX 03/16/1991 PHX vs. ATL W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p184
+aVJeff Hornacek PHX 03/16/1991 PHX vs. ATL W 27 8 2 8 25.0 0 1 0.0 4 4 100.0 1 2 3 5 1 0 3 4 -
+p185
+aVKevin Johnson PHX 03/16/1991 PHX vs. ATL W 41 27 8 15 53.3 0 1 0.0 11 15 73.3 1 1 2 14 0 0 3 3 -
+p186
+aVMark West PHX 03/16/1991 PHX vs. ATL W 24 10 5 6 83.3 0 0 - 0 0 - 5 6 11 1 0 2 0 5 -
+p187
+aVDan Majerle PHX 03/16/1991 PHX vs. ATL W 39 22 9 14 64.3 0 1 0.0 4 6 66.7 5 4 9 5 0 0 0 4 -
+p188
+aVAndrew Lang PHX 03/16/1991 PHX vs. ATL W 24 12 4 5 80.0 0 0 - 4 5 80.0 1 6 7 0 1 4 0 3 -
+p189
+aVKurt Rambis PHX 03/16/1991 PHX vs. ATL W 8 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 1 0 1 0 -
+p190
+aVXavier McDaniel PHX 03/16/1991 PHX vs. ATL W 32 12 5 13 38.5 0 0 - 2 2 100.0 1 9 10 3 1 1 1 2 -
+p191
+aVTom Chambers PHX 03/16/1991 PHX vs. ATL W 31 24 9 18 50.0 0 1 0.0 6 6 100.0 0 3 3 2 1 1 2 2 -
+p192
+aVCedric Ceballos PHX 03/16/1991 PHX vs. ATL W 8 11 5 8 62.5 0 0 - 1 2 50.0 2 3 5 0 0 0 1 0 -
+p193
+aVJoe Barry Carroll PHX 03/15/1991 PHX vs. HOU L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -
+p194
+aVCedric Ceballos PHX 03/15/1991 PHX vs. HOU L 12 10 5 10 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 0 -
+p195
+aVKurt Rambis PHX 03/15/1991 PHX vs. HOU L 8 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -
+p196
+aVKevin Johnson PHX 03/15/1991 PHX vs. HOU L 42 36 16 23 69.6 1 2 50.0 3 4 75.0 0 2 2 12 2 0 4 2 -
+p197
+aVNegele Knight PHX 03/15/1991 PHX vs. HOU L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -
+p198
+aVMark West PHX 03/15/1991 PHX vs. HOU L 15 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 1 2 0 5 -
+p199
+aVXavier McDaniel PHX 03/15/1991 PHX vs. HOU L 27 13 6 16 37.5 0 0 - 1 2 50.0 4 4 8 2 0 0 0 3 -
+p200
+aVAndrew Lang PHX 03/15/1991 PHX vs. HOU L 22 6 3 3 100.0 0 0 - 0 2 0.0 2 3 5 1 0 1 0 4 -
+p201
+aVTom Chambers PHX 03/15/1991 PHX vs. HOU L 32 16 6 13 46.2 0 1 0.0 4 5 80.0 2 0 2 3 1 0 2 5 -
+p202
+aVDan Majerle PHX 03/15/1991 PHX vs. HOU L 31 19 8 13 61.5 2 2 100.0 1 2 50.0 6 5 11 2 1 0 3 4 -
+p203
+aVJeff Hornacek PHX 03/15/1991 PHX vs. HOU L 38 21 5 10 50.0 5 7 71.4 6 6 100.0 1 3 4 5 3 0 1 1 -
+p204
+aVDan Majerle PHX 03/13/1991 PHX vs. POR W 36 26 10 18 55.6 0 0 - 6 7 85.7 3 3 6 4 1 1 0 4 -
+p205
+aVTom Chambers PHX 03/13/1991 PHX vs. POR W 37 16 6 19 31.6 0 0 - 4 4 100.0 1 4 5 3 2 0 2 2 -
+p206
+aVXavier McDaniel PHX 03/13/1991 PHX vs. POR W 21 6 3 10 30.0 0 0 - 0 0 - 1 5 6 4 0 0 3 5 -
+p207
+aVKevin Johnson PHX 03/13/1991 PHX vs. POR W 36 22 9 14 64.3 1 2 50.0 3 4 75.0 0 5 5 9 0 1 4 2 -
+p208
+aVJeff Hornacek PHX 03/13/1991 PHX vs. POR W 36 15 6 11 54.5 1 3 33.3 2 2 100.0 2 3 5 4 2 1 1 3 -
+p209
+aVNegele Knight PHX 03/13/1991 PHX vs. POR W 12 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 2 0 0 2 1 -
+p210
+aVMark West PHX 03/13/1991 PHX vs. POR W 22 10 4 5 80.0 0 0 - 2 3 66.7 2 7 9 1 0 4 2 2 -
+p211
+aVAndrew Lang PHX 03/13/1991 PHX vs. POR W 29 4 2 4 50.0 0 0 - 0 2 0.0 3 4 7 0 0 4 1 5 -
+p212
+aVCedric Ceballos PHX 03/13/1991 PHX vs. POR W 11 11 3 4 75.0 0 0 - 5 6 83.3 1 1 2 1 0 0 2 2 -
+p213
+aVCedric Ceballos PHX 03/10/1991 PHX @ MIN W 16 5 1 3 33.3 0 0 - 3 4 75.0 2 3 5 3 0 0 1 3 -
+p214
+aVDan Majerle PHX 03/10/1991 PHX @ MIN W 31 23 9 14 64.3 1 3 33.3 4 4 100.0 2 6 8 3 1 0 5 3 -
+p215
+aVMark West PHX 03/10/1991 PHX @ MIN W 9 5 2 2 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 1 -
+p216
+aVKevin Johnson PHX 03/10/1991 PHX @ MIN W 38 17 8 9 88.9 0 0 - 1 1 100.0 0 1 1 12 1 0 2 2 -
+p217
+aVAndrew Lang PHX 03/10/1991 PHX @ MIN W 32 7 0 2 0.0 0 0 - 7 8 87.5 3 6 9 1 0 0 0 3 -
+p218
+aVXavier McDaniel PHX 03/10/1991 PHX @ MIN W 26 16 8 15 53.3 0 0 - 0 2 0.0 2 3 5 0 2 0 1 1 -
+p219
+aVJoe Barry Carroll PHX 03/10/1991 PHX @ MIN W 7 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 2 0 1 2 1 -
+p220
+aVEd Nealy PHX 03/10/1991 PHX @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p221
+aVTom Chambers PHX 03/10/1991 PHX @ MIN W 35 28 11 18 61.1 0 1 0.0 6 8 75.0 2 6 8 3 0 2 2 2 -
+p222
+aVJeff Hornacek PHX 03/10/1991 PHX @ MIN W 39 18 7 13 53.8 2 3 66.7 2 2 100.0 0 2 2 6 0 1 1 1 -
+p223
+aVNegele Knight PHX 03/10/1991 PHX @ MIN W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -
+p224
+aVNegele Knight PHX 03/08/1991 PHX @ WAS W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 1 0 0 -
+p225
+aVKevin Johnson PHX 03/08/1991 PHX @ WAS W 30 17 8 15 53.3 0 0 - 1 1 100.0 1 1 2 5 0 0 0 1 -
+p226
+aVAndrew Lang PHX 03/08/1991 PHX @ WAS W 26 6 2 5 40.0 0 0 - 2 2 100.0 4 8 12 1 0 2 2 0 -
+p227
+aVXavier McDaniel PHX 03/08/1991 PHX @ WAS W 32 12 6 12 50.0 0 1 0.0 0 0 - 2 6 8 6 0 3 1 3 -
+p228
+aVCedric Ceballos PHX 03/08/1991 PHX @ WAS W 26 20 8 17 47.1 0 1 0.0 4 4 100.0 3 2 5 0 1 0 4 1 -
+p229
+aVJeff Hornacek PHX 03/08/1991 PHX @ WAS W 31 20 8 12 66.7 2 3 66.7 2 2 100.0 1 4 5 3 1 0 0 2 -
+p230
+aVEd Nealy PHX 03/08/1991 PHX @ WAS W 7 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p231
+aVMark West PHX 03/08/1991 PHX @ WAS W 18 6 3 7 42.9 0 0 - 0 2 0.0 2 8 10 0 0 1 1 3 -
+p232
+aVTom Chambers PHX 03/08/1991 PHX @ WAS W 25 17 5 13 38.5 0 1 0.0 7 7 100.0 3 6 9 5 0 0 1 1 -
+p233
+aVDan Majerle PHX 03/08/1991 PHX @ WAS W 35 12 5 14 35.7 0 1 0.0 2 2 100.0 1 5 6 6 1 0 1 1 -
+p234
+aVKurt Rambis PHX 03/08/1991 PHX @ WAS W 4 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 0 -
+p235
+aVJoe Barry Carroll PHX 03/07/1991 PHX @ ATL W 13 3 1 2 50.0 0 0 - 1 2 50.0 0 7 7 0 0 1 2 2 -
+p236
+aVAndrew Lang PHX 03/07/1991 PHX @ ATL W 17 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 1 1 2 5 -
+p237
+aVCedric Ceballos PHX 03/07/1991 PHX @ ATL W 17 12 5 8 62.5 0 0 - 2 2 100.0 1 0 1 0 0 0 2 1 -
+p238
+aVXavier McDaniel PHX 03/07/1991 PHX @ ATL W 31 10 3 8 37.5 0 0 - 4 4 100.0 0 10 10 4 1 1 2 5 -
+p239
+aVMark West PHX 03/07/1991 PHX @ ATL W 20 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 3 0 3 -
+p240
+aVJeff Hornacek PHX 03/07/1991 PHX @ ATL W 31 16 7 13 53.8 0 2 0.0 2 3 66.7 2 5 7 3 1 0 1 2 -
+p241
+aVKevin Johnson PHX 03/07/1991 PHX @ ATL W 44 23 10 16 62.5 0 1 0.0 3 6 50.0 1 4 5 14 1 0 5 2 -
+p242
+aVTom Chambers PHX 03/07/1991 PHX @ ATL W 35 26 12 26 46.2 1 2 50.0 1 2 50.0 0 2 2 1 0 0 0 3 -
+p243
+aVDan Majerle PHX 03/07/1991 PHX @ ATL W 32 12 6 12 50.0 0 1 0.0 0 0 - 1 3 4 9 5 0 1 1 -
+p244
+aVJeff Hornacek PHX 03/05/1991 PHX @ NYK W 36 5 2 7 28.6 1 2 50.0 0 1 0.0 0 4 4 4 1 0 1 2 -
+p245
+aVCedric Ceballos PHX 03/05/1991 PHX @ NYK W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -
+p246
+aVJoe Barry Carroll PHX 03/05/1991 PHX @ NYK W 8 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p247
+aVKevin Johnson PHX 03/05/1991 PHX @ NYK W 43 29 10 16 62.5 0 0 - 9 10 90.0 0 6 6 12 4 0 6 3 -
+p248
+aVNegele Knight PHX 03/05/1991 PHX @ NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p249
+aVTom Chambers PHX 03/05/1991 PHX @ NYK W 41 32 9 20 45.0 1 2 50.0 13 14 92.9 4 9 13 2 1 0 0 2 -
+p250
+aVXavier McDaniel PHX 03/05/1991 PHX @ NYK W 26 14 6 9 66.7 0 0 - 2 2 100.0 3 5 8 1 0 0 1 3 -
+p251
+aVDan Majerle PHX 03/05/1991 PHX @ NYK W 33 12 5 10 50.0 0 1 0.0 2 4 50.0 2 5 7 3 0 0 3 2 -
+p252
+aVAndrew Lang PHX 03/05/1991 PHX @ NYK W 20 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 1 0 0 4 -
+p253
+aVMark West PHX 03/05/1991 PHX @ NYK W 17 3 1 1 100.0 0 0 - 1 4 25.0 0 1 1 0 0 0 1 5 -
+p254
+aVKurt Rambis PHX 03/05/1991 PHX @ NYK W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p255
+aVNegele Knight PHX 03/04/1991 PHX @ CHH W 19 10 5 7 71.4 0 0 - 0 2 0.0 1 2 3 1 2 0 1 2 -
+p256
+aVKurt Rambis PHX 03/04/1991 PHX @ CHH W 19 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 0 0 1 1 -
+p257
+aVDan Majerle PHX 03/04/1991 PHX @ CHH W 27 21 8 13 61.5 0 0 - 5 5 100.0 2 2 4 3 2 0 2 2 -
+p258
+aVMark West PHX 03/04/1991 PHX @ CHH W 22 7 2 3 66.7 0 0 - 3 3 100.0 2 1 3 0 0 3 1 3 -
+p259
+aVCedric Ceballos PHX 03/04/1991 PHX @ CHH W 25 20 8 17 47.1 0 0 - 4 6 66.7 3 4 7 1 0 1 0 2 -
+p260
+aVAndrew Lang PHX 03/04/1991 PHX @ CHH W 13 5 2 2 100.0 0 0 - 1 1 100.0 3 3 6 1 1 2 0 4 -
+p261
+aVJeff Hornacek PHX 03/04/1991 PHX @ CHH W 21 12 6 12 50.0 0 2 0.0 0 0 - 1 4 5 5 1 1 1 1 -
+p262
+aVTom Chambers PHX 03/04/1991 PHX @ CHH W 22 8 4 9 44.4 0 0 - 0 0 - 0 6 6 1 0 0 2 3 -
+p263
+aVJoe Barry Carroll PHX 03/04/1991 PHX @ CHH W 13 8 1 6 16.7 0 0 - 6 6 100.0 0 2 2 3 0 2 0 2 -
+p264
+aVEd Nealy PHX 03/04/1991 PHX @ CHH W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p265
+aVKevin Johnson PHX 03/04/1991 PHX @ CHH W 29 19 6 10 60.0 0 0 - 7 7 100.0 1 1 2 10 1 0 1 1 -
+p266
+aVXavier McDaniel PHX 03/04/1991 PHX @ CHH W 23 12 6 11 54.5 0 0 - 0 0 - 1 6 7 2 2 0 2 3 -
+p267
+aVAndrew Lang PHX 03/01/1991 PHX vs. SAC W 32 10 4 6 66.7 0 0 - 2 7 28.6 5 2 7 2 0 7 1 4 -
+p268
+aVJoe Barry Carroll PHX 03/01/1991 PHX vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p269
+aVNegele Knight PHX 03/01/1991 PHX vs. SAC W 21 13 5 8 62.5 0 0 - 3 6 50.0 2 0 2 4 1 1 1 0 -
+p270
+aVKurt Rambis PHX 03/01/1991 PHX vs. SAC W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p271
+aVCedric Ceballos PHX 03/01/1991 PHX vs. SAC W 15 15 4 6 66.7 0 0 - 7 9 77.8 0 1 1 0 1 0 4 0 -
+p272
+aVJeff Hornacek PHX 03/01/1991 PHX vs. SAC W 30 20 5 8 62.5 2 4 50.0 8 9 88.9 1 5 6 0 1 0 0 1 -
+p273
+aVXavier McDaniel PHX 03/01/1991 PHX vs. SAC W 25 4 2 7 28.6 0 0 - 0 2 0.0 2 10 12 3 1 0 1 3 -
+p274
+aVMark West PHX 03/01/1991 PHX vs. SAC W 21 3 1 2 50.0 0 0 - 1 2 50.0 2 8 10 0 0 2 1 4 -
+p275
+aVKevin Johnson PHX 03/01/1991 PHX vs. SAC W 27 18 5 7 71.4 0 0 - 8 10 80.0 1 2 3 5 1 0 4 4 -
+p276
+aVTom Chambers PHX 03/01/1991 PHX vs. SAC W 28 11 4 13 30.8 0 1 0.0 3 3 100.0 2 4 6 2 1 0 5 2 -
+p277
+aVDan Majerle PHX 03/01/1991 PHX vs. SAC W 34 18 6 11 54.5 0 0 - 6 10 60.0 1 2 3 2 0 2 2 5 -
+p278
+aVKurt Rambis PHX 02/27/1991 PHX vs. ORL L 15 8 3 3 100.0 0 0 - 2 2 100.0 1 2 3 3 0 0 1 3 -
+p279
+aVTom Chambers PHX 02/27/1991 PHX vs. ORL L 39 25 7 18 38.9 0 1 0.0 11 12 91.7 1 9 10 2 1 1 7 4 -
+p280
+aVNegele Knight PHX 02/27/1991 PHX vs. ORL L 5 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 0 0 -
+p281
+aVXavier McDaniel PHX 02/27/1991 PHX vs. ORL L 27 15 5 10 50.0 0 0 - 5 8 62.5 3 4 7 1 1 1 0 5 -
+p282
+aVKevin Johnson PHX 02/27/1991 PHX vs. ORL L 36 27 9 17 52.9 1 2 50.0 8 9 88.9 0 3 3 8 0 0 0 4 -
+p283
+aVDan Majerle PHX 02/27/1991 PHX vs. ORL L 36 12 6 14 42.9 0 3 0.0 0 1 0.0 2 1 3 4 0 1 1 2 -
+p284
+aVMark West PHX 02/27/1991 PHX vs. ORL L 8 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -
+p285
+aVJoe Barry Carroll PHX 02/27/1991 PHX vs. ORL L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -
+p286
+aVAndrew Lang PHX 02/27/1991 PHX vs. ORL L 27 8 2 2 100.0 0 0 - 4 5 80.0 3 4 7 0 0 7 0 6 -
+p287
+aVJeff Hornacek PHX 02/27/1991 PHX vs. ORL L 42 15 7 17 41.2 1 1 100.0 0 0 - 1 3 4 6 4 0 5 4 -
+p288
+aVJeff Hornacek PHX 02/25/1991 PHX vs. CHH W 31 16 5 12 41.7 2 3 66.7 4 4 100.0 1 2 3 7 1 1 2 1 -
+p289
+aVDan Majerle PHX 02/25/1991 PHX vs. CHH W 30 20 8 13 61.5 2 2 100.0 2 2 100.0 2 1 3 6 1 0 0 1 -
+p290
+aVNegele Knight PHX 02/25/1991 PHX vs. CHH W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -
+p291
+aVMark West PHX 02/25/1991 PHX vs. CHH W 24 4 2 2 100.0 0 0 - 0 0 - 2 7 9 2 0 5 0 1 -
+p292
+aVKurt Rambis PHX 02/25/1991 PHX vs. CHH W 16 7 3 4 75.0 0 0 - 1 4 25.0 1 3 4 1 1 0 0 2 -
+p293
+aVXavier McDaniel PHX 02/25/1991 PHX vs. CHH W 38 15 7 12 58.3 0 0 - 1 2 50.0 1 4 5 4 2 0 4 2 -
+p294
+aVCedric Ceballos PHX 02/25/1991 PHX vs. CHH W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -
+p295
+aVJoe Barry Carroll PHX 02/25/1991 PHX vs. CHH W 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p296
+aVKevin Johnson PHX 02/25/1991 PHX vs. CHH W 37 23 8 15 53.3 0 0 - 7 8 87.5 1 3 4 14 0 0 4 0 -
+p297
+aVTom Chambers PHX 02/25/1991 PHX vs. CHH W 30 30 12 19 63.2 0 0 - 6 7 85.7 2 5 7 1 0 1 2 5 -
+p298
+aVEd Nealy PHX 02/25/1991 PHX vs. CHH W 2 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 -
+p299
+aVAndrew Lang PHX 02/25/1991 PHX vs. CHH W 21 4 2 2 100.0 0 0 - 0 0 - 1 4 5 1 0 3 2 2 -
+p300
+aVMark West PHX 02/23/1991 PHX @ SEA W 23 4 1 1 100.0 0 0 - 2 2 100.0 0 8 8 0 0 4 0 3 -
+p301
+aVJeff Hornacek PHX 02/23/1991 PHX @ SEA W 38 22 10 12 83.3 2 3 66.7 0 0 - 0 3 3 2 1 0 4 4 -
+p302
+aVAndrew Lang PHX 02/23/1991 PHX @ SEA W 13 5 0 0 - 0 0 - 5 6 83.3 1 1 2 0 0 1 0 4 -
+p303
+aVDan Majerle PHX 02/23/1991 PHX @ SEA W 33 14 6 14 42.9 0 0 - 2 4 50.0 3 2 5 4 1 1 2 0 -
+p304
+aVKevin Johnson PHX 02/23/1991 PHX @ SEA W 42 23 9 15 60.0 1 2 50.0 4 4 100.0 0 4 4 9 3 0 2 1 -
+p305
+aVTom Chambers PHX 02/23/1991 PHX @ SEA W 41 35 12 21 57.1 1 2 50.0 10 11 90.9 2 5 7 4 1 1 4 3 -
+p306
+aVKurt Rambis PHX 02/23/1991 PHX @ SEA W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -
+p307
+aVNegele Knight PHX 02/23/1991 PHX @ SEA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p308
+aVXavier McDaniel PHX 02/23/1991 PHX @ SEA W 39 17 8 17 47.1 0 0 - 1 3 33.3 5 11 16 6 1 0 1 2 -
+p309
+aVJoe Barry Carroll PHX 02/22/1991 PHX @ POR L 14 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p310
+aVKurt Rambis PHX 02/22/1991 PHX @ POR L 17 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 1 0 1 2 -
+p311
+aVCedric Ceballos PHX 02/22/1991 PHX @ POR L 12 14 5 8 62.5 0 0 - 4 5 80.0 2 0 2 0 0 0 0 1 -
+p312
+aVKevin Johnson PHX 02/22/1991 PHX @ POR L 28 17 7 10 70.0 0 0 - 3 3 100.0 0 1 1 1 0 0 6 3 -
+p313
+aVEd Nealy PHX 02/22/1991 PHX @ POR L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p314
+aVMark West PHX 02/22/1991 PHX @ POR L 13 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -
+p315
+aVJeff Hornacek PHX 02/22/1991 PHX @ POR L 26 10 5 10 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 2 -
+p316
+aVTom Chambers PHX 02/22/1991 PHX @ POR L 29 11 2 10 20.0 0 2 0.0 7 8 87.5 0 10 10 2 0 1 3 2 -
+p317
+aVDan Majerle PHX 02/22/1991 PHX @ POR L 31 17 5 13 38.5 0 3 0.0 7 7 100.0 4 4 8 0 0 1 1 0 -
+p318
+aVNegele Knight PHX 02/22/1991 PHX @ POR L 20 11 4 7 57.1 1 3 33.3 2 3 66.7 0 1 1 8 0 0 1 1 -
+p319
+aVXavier McDaniel PHX 02/22/1991 PHX @ POR L 27 10 5 11 45.5 0 0 - 0 0 - 3 7 10 2 0 0 3 4 -
+p320
+aVAndrew Lang PHX 02/22/1991 PHX @ POR L 16 4 2 4 50.0 0 0 - 0 0 - 3 2 5 1 0 1 0 1 -
+p321
+aVKevin Johnson PHX 02/20/1991 PHX @ LAC W 33 11 5 9 55.6 0 0 - 1 2 50.0 1 2 3 12 2 0 1 2 -
+p322
+aVJoe Barry Carroll PHX 02/20/1991 PHX @ LAC W 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -
+p323
+aVNegele Knight PHX 02/20/1991 PHX @ LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p324
+aVJeff Hornacek PHX 02/20/1991 PHX @ LAC W 31 16 6 13 46.2 1 3 33.3 3 4 75.0 3 0 3 7 3 0 2 3 -
+p325
+aVXavier McDaniel PHX 02/20/1991 PHX @ LAC W 32 18 8 17 47.1 0 0 - 2 4 50.0 4 3 7 1 0 2 2 2 -
+p326
+aVAndrew Lang PHX 02/20/1991 PHX @ LAC W 20 5 2 2 100.0 0 0 - 1 2 50.0 1 5 6 1 0 1 0 5 -
+p327
+aVMark West PHX 02/20/1991 PHX @ LAC W 18 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 3 2 2 -
+p328
+aVKurt Rambis PHX 02/20/1991 PHX @ LAC W 23 7 1 3 33.3 0 0 - 5 6 83.3 5 6 11 1 0 0 1 2 -
+p329
+aVEd Nealy PHX 02/20/1991 PHX @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -
+p330
+aVDan Majerle PHX 02/20/1991 PHX @ LAC W 28 24 9 16 56.3 1 1 100.0 5 7 71.4 6 3 9 3 0 0 3 1 -
+p331
+aVCedric Ceballos PHX 02/20/1991 PHX @ LAC W 4 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 2 1 -
+p332
+aVTom Chambers PHX 02/20/1991 PHX @ LAC W 32 26 12 26 46.2 0 1 0.0 2 3 66.7 3 8 11 4 2 1 1 1 -
+p333
+aVAndrew Lang PHX 02/19/1991 PHX vs. BOS W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 2 1 2 -
+p334
+aVXavier McDaniel PHX 02/19/1991 PHX vs. BOS W 35 22 8 24 33.3 0 0 - 6 8 75.0 3 9 12 1 1 0 0 4 -
+p335
+aVMark West PHX 02/19/1991 PHX vs. BOS W 34 4 2 6 33.3 0 0 - 0 2 0.0 4 8 12 1 0 1 0 4 -
+p336
+aVKurt Rambis PHX 02/19/1991 PHX vs. BOS W 16 0 0 0 - 0 0 - 0 0 - 2 4 6 0 0 1 1 2 -
+p337
+aVJeff Hornacek PHX 02/19/1991 PHX vs. BOS W 37 19 9 16 56.3 0 1 0.0 1 2 50.0 3 4 7 2 1 0 2 3 -
+p338
+aVTom Chambers PHX 02/19/1991 PHX vs. BOS W 32 14 3 16 18.8 0 2 0.0 8 8 100.0 1 3 4 1 1 0 0 3 -
+p339
+aVKevin Johnson PHX 02/19/1991 PHX vs. BOS W 42 25 8 14 57.1 0 0 - 9 11 81.8 1 3 4 13 1 1 5 1 -
+p340
+aVDan Majerle PHX 02/19/1991 PHX vs. BOS W 31 23 7 17 41.2 0 0 - 9 10 90.0 3 5 8 2 3 0 0 3 -
+p341
+aVAndrew Lang PHX 02/16/1991 PHX @ HOU L 29 9 4 6 66.7 0 0 - 1 2 50.0 5 5 10 1 1 5 1 3 -
+p342
+aVXavier McDaniel PHX 02/16/1991 PHX @ HOU L 23 4 1 9 11.1 0 0 - 2 2 100.0 2 2 4 1 0 0 1 3 -
+p343
+aVTom Chambers PHX 02/16/1991 PHX @ HOU L 23 2 1 8 12.5 0 0 - 0 0 - 0 1 1 1 0 0 4 2 -
+p344
+aVEd Nealy PHX 02/16/1991 PHX @ HOU L 7 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 0 0 -
+p345
+aVNegele Knight PHX 02/16/1991 PHX @ HOU L 16 11 4 7 57.1 1 1 100.0 2 2 100.0 0 2 2 2 1 0 2 3 -
+p346
+aVCedric Ceballos PHX 02/16/1991 PHX @ HOU L 20 14 6 10 60.0 0 0 - 2 2 100.0 1 4 5 1 0 1 1 4 -
+p347
+aVKevin Johnson PHX 02/16/1991 PHX @ HOU L 31 14 6 16 37.5 0 1 0.0 2 3 66.7 0 0 0 5 2 0 2 0 -
+p348
+aVTim Perry PHX 02/16/1991 PHX @ HOU L 2 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 -
+p349
+aVKurt Rambis PHX 02/16/1991 PHX @ HOU L 13 0 0 1 0.0 0 0 - 0 0 - 2 3 5 2 0 0 0 0 -
+p350
+aVJeff Hornacek PHX 02/16/1991 PHX @ HOU L 32 16 6 9 66.7 0 2 0.0 4 4 100.0 0 1 1 4 3 0 2 2 -
+p351
+aVDan Majerle PHX 02/16/1991 PHX @ HOU L 25 10 4 11 36.4 0 1 0.0 2 2 100.0 1 0 1 2 1 0 3 1 -
+p352
+aVMark West PHX 02/16/1991 PHX @ HOU L 19 6 3 4 75.0 0 0 - 0 0 - 2 8 10 0 1 1 2 3 -
+p353
+aVTom Chambers PHX 02/14/1991 PHX @ SAN W 39 37 16 31 51.6 1 3 33.3 4 6 66.7 4 6 10 2 1 0 0 3 -
+p354
+aVKurt Rambis PHX 02/14/1991 PHX @ SAN W 5 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -
+p355
+aVKevin Johnson PHX 02/14/1991 PHX @ SAN W 42 19 8 19 42.1 0 1 0.0 3 4 75.0 2 3 5 12 2 0 4 4 -
+p356
+aVJeff Hornacek PHX 02/14/1991 PHX @ SAN W 35 8 4 8 50.0 0 1 0.0 0 0 - 1 0 1 6 2 0 1 1 -
+p357
+aVMark West PHX 02/14/1991 PHX @ SAN W 25 9 3 4 75.0 0 0 - 3 4 75.0 1 2 3 0 1 2 1 4 -
+p358
+aVAndrew Lang PHX 02/14/1991 PHX @ SAN W 19 9 3 5 60.0 0 0 - 3 4 75.0 5 2 7 0 1 0 2 5 -
+p359
+aVCedric Ceballos PHX 02/14/1991 PHX @ SAN W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -
+p360
+aVNegele Knight PHX 02/14/1991 PHX @ SAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p361
+aVXavier McDaniel PHX 02/14/1991 PHX @ SAN W 31 12 5 12 41.7 0 0 - 2 4 50.0 2 7 9 1 0 0 3 5 -
+p362
+aVEd Nealy PHX 02/14/1991 PHX @ SAN W 6 0 0 0 - 0 0 - 0 0 - 1 3 4 1 1 0 0 0 -
+p363
+aVDan Majerle PHX 02/14/1991 PHX @ SAN W 29 10 5 12 41.7 0 2 0.0 0 0 - 2 0 2 4 3 0 2 3 -
+p364
+aVKevin Johnson PHX 02/12/1991 PHX vs. LAL W 36 35 14 23 60.9 0 1 0.0 7 7 100.0 0 3 3 7 1 0 4 3 -
+p365
+aVTom Chambers PHX 02/12/1991 PHX vs. LAL W 37 18 7 17 41.2 0 1 0.0 4 4 100.0 1 5 6 1 3 0 2 3 -
+p366
+aVEd Nealy PHX 02/12/1991 PHX vs. LAL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p367
+aVJeff Hornacek PHX 02/12/1991 PHX vs. LAL W 36 23 8 11 72.7 2 2 100.0 5 5 100.0 1 1 2 7 1 0 0 1 -
+p368
+aVMark West PHX 02/12/1991 PHX vs. LAL W 32 8 4 5 80.0 0 0 - 0 1 0.0 3 10 13 1 1 2 0 1 -
+p369
+aVDan Majerle PHX 02/12/1991 PHX vs. LAL W 24 3 0 8 0.0 0 2 0.0 3 4 75.0 1 1 2 5 2 0 1 2 -
+p370
+aVXavier McDaniel PHX 02/12/1991 PHX vs. LAL W 39 6 3 11 27.3 0 0 - 0 0 - 2 2 4 0 1 0 3 2 -
+p371
+aVAndrew Lang PHX 02/12/1991 PHX vs. LAL W 13 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p372
+aVKurt Rambis PHX 02/12/1991 PHX vs. LAL W 19 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 2 2 -
+p373
+aVXavier McDaniel PHX 02/06/1991 PHX @ UTH L 32 6 2 9 22.2 0 0 - 2 2 100.0 0 2 2 1 2 1 2 5 -
+p374
+aVTom Chambers PHX 02/06/1991 PHX @ UTH L 35 14 7 17 41.2 0 1 0.0 0 0 - 1 5 6 1 1 0 2 2 -
+p375
+aVCedric Ceballos PHX 02/06/1991 PHX @ UTH L 17 7 3 8 37.5 0 0 - 1 2 50.0 2 3 5 3 0 0 0 0 -
+p376
+aVKevin Johnson PHX 02/06/1991 PHX @ UTH L 40 30 11 21 52.4 1 3 33.3 7 7 100.0 0 4 4 7 3 0 4 4 -
+p377
+aVAndrew Lang PHX 02/06/1991 PHX @ UTH L 14 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 0 1 1 5 -
+p378
+aVEd Nealy PHX 02/06/1991 PHX @ UTH L 18 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 -
+p379
+aVJeff Hornacek PHX 02/06/1991 PHX @ UTH L 30 25 10 21 47.6 1 1 100.0 4 4 100.0 2 3 5 5 1 1 1 3 -
+p380
+aVMark West PHX 02/06/1991 PHX @ UTH L 25 4 1 2 50.0 0 0 - 2 2 100.0 1 7 8 0 0 0 0 4 -
+p381
+aVDan Majerle PHX 02/06/1991 PHX @ UTH L 29 11 4 8 50.0 0 1 0.0 3 3 100.0 0 5 5 1 1 0 1 3 -
+p382
+aVDan Majerle PHX 02/05/1991 PHX vs. DEN W 27 19 6 13 46.2 0 0 - 7 10 70.0 3 2 5 3 3 0 1 1 -
+p383
+aVKevin Johnson PHX 02/05/1991 PHX vs. DEN W 28 21 7 13 53.8 0 0 - 7 7 100.0 2 1 3 12 2 0 5 1 -
+p384
+aVMark West PHX 02/05/1991 PHX vs. DEN W 21 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 0 2 1 2 -
+p385
+aVTim Perry PHX 02/05/1991 PHX vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p386
+aVJeff Hornacek PHX 02/05/1991 PHX vs. DEN W 27 15 7 13 53.8 0 0 - 1 1 100.0 1 5 6 1 2 0 2 1 -
+p387
+aVNegele Knight PHX 02/05/1991 PHX vs. DEN W 20 10 5 9 55.6 0 0 - 0 1 0.0 1 2 3 2 2 0 2 1 -
+p388
+aVTom Chambers PHX 02/05/1991 PHX vs. DEN W 28 14 5 12 41.7 0 1 0.0 4 6 66.7 0 2 2 7 2 1 0 2 -
+p389
+aVEd Nealy PHX 02/05/1991 PHX vs. DEN W 18 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 2 1 0 0 0 -
+p390
+aVCedric Ceballos PHX 02/05/1991 PHX vs. DEN W 17 14 7 10 70.0 0 0 - 0 2 0.0 2 1 3 1 2 0 0 3 -
+p391
+aVXavier McDaniel PHX 02/05/1991 PHX vs. DEN W 30 17 7 14 50.0 0 0 - 3 4 75.0 3 5 8 2 0 1 2 1 -
+p392
+aVAndrew Lang PHX 02/05/1991 PHX vs. DEN W 20 8 3 7 42.9 0 0 - 2 3 66.7 2 6 8 0 0 1 2 4 -
+p393
+aVCedric Ceballos PHX 02/03/1991 PHX @ DET W 3 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 0 -
+p394
+aVNegele Knight PHX 02/03/1991 PHX @ DET W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p395
+aVJeff Hornacek PHX 02/03/1991 PHX @ DET W 33 11 5 8 62.5 0 1 0.0 1 1 100.0 0 1 1 2 3 0 1 2 -
+p396
+aVKevin Johnson PHX 02/03/1991 PHX @ DET W 37 28 10 20 50.0 0 1 0.0 8 8 100.0 0 3 3 14 4 0 1 2 -
+p397
+aVEd Nealy PHX 02/03/1991 PHX @ DET W 25 6 2 4 50.0 0 0 - 2 2 100.0 3 5 8 1 1 0 0 4 -
+p398
+aVTom Chambers PHX 02/03/1991 PHX @ DET W 30 20 7 20 35.0 1 2 50.0 5 8 62.5 3 7 10 2 2 0 0 2 -
+p399
+aVXavier McDaniel PHX 02/03/1991 PHX @ DET W 28 20 7 11 63.6 0 0 - 6 7 85.7 1 2 3 1 1 0 3 6 -
+p400
+aVDan Majerle PHX 02/03/1991 PHX @ DET W 27 16 8 14 57.1 0 0 - 0 0 - 0 3 3 1 5 1 0 3 -
+p401
+aVTim Perry PHX 02/03/1991 PHX @ DET W 9 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -
+p402
+aVMark West PHX 02/03/1991 PHX @ DET W 18 0 0 3 0.0 0 0 - 0 0 - 0 5 5 1 0 0 0 5 -
+p403
+aVAndrew Lang PHX 02/03/1991 PHX @ DET W 27 5 2 4 50.0 0 0 - 1 2 50.0 2 0 2 1 0 4 0 4 -
+p404
+aVNegele Knight PHX 02/01/1991 PHX @ PHL L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 6 0 0 4 0 -
+p405
+aVJeff Hornacek PHX 02/01/1991 PHX @ PHL L 35 11 5 13 38.5 0 3 0.0 1 1 100.0 2 3 5 7 2 0 2 1 -
+p406
+aVMark West PHX 02/01/1991 PHX @ PHL L 25 8 3 3 100.0 0 0 - 2 2 100.0 4 4 8 0 0 2 1 1 -
+p407
+aVAndrew Lang PHX 02/01/1991 PHX @ PHL L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -
+p408
+aVXavier McDaniel PHX 02/01/1991 PHX @ PHL L 44 34 16 27 59.3 0 0 - 2 2 100.0 3 9 12 2 1 1 1 3 -
+p409
+aVTim Perry PHX 02/01/1991 PHX @ PHL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p410
+aVKevin Johnson PHX 02/01/1991 PHX @ PHL L 36 14 5 14 35.7 0 0 - 4 6 66.7 1 2 3 10 3 0 2 4 -
+p411
+aVDan Majerle PHX 02/01/1991 PHX @ PHL L 35 11 4 13 30.8 0 2 0.0 3 4 75.0 3 5 8 1 0 1 1 4 -
+p412
+aVTom Chambers PHX 02/01/1991 PHX @ PHL L 35 9 4 13 30.8 0 1 0.0 1 1 100.0 0 2 2 2 0 1 3 5 -
+p413
+aVCedric Ceballos PHX 02/01/1991 PHX @ PHL L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p414
+aVEd Nealy PHX 02/01/1991 PHX @ PHL L 6 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -
+p415
+aVJeff Hornacek PHX 01/30/1991 PHX @ MIA W 23 12 4 10 40.0 0 1 0.0 4 4 100.0 1 4 5 2 1 2 2 1 -
+p416
+aVXavier McDaniel PHX 01/30/1991 PHX @ MIA W 30 10 3 10 30.0 0 1 0.0 4 6 66.7 0 5 5 3 3 0 2 1 -
+p417
+aVDan Majerle PHX 01/30/1991 PHX @ MIA W 36 22 9 14 64.3 2 3 66.7 2 5 40.0 3 1 4 2 2 1 4 2 -
+p418
+aVAndrew Lang PHX 01/30/1991 PHX @ MIA W 16 8 2 2 100.0 0 0 - 4 4 100.0 3 3 6 1 1 2 1 4 -
+p419
+aVTom Chambers PHX 01/30/1991 PHX @ MIA W 34 21 9 17 52.9 0 1 0.0 3 6 50.0 2 6 8 3 3 0 2 4 -
+p420
+aVEd Nealy PHX 01/30/1991 PHX @ MIA W 22 0 0 2 0.0 0 0 - 0 0 - 0 5 5 2 2 0 3 0 -
+p421
+aVCedric Ceballos PHX 01/30/1991 PHX @ MIA W 23 19 8 15 53.3 0 1 0.0 3 7 42.9 3 3 6 0 2 0 1 1 -
+p422
+aVMark West PHX 01/30/1991 PHX @ MIA W 19 10 4 6 66.7 0 0 - 2 2 100.0 2 3 5 2 0 1 1 5 -
+p423
+aVKevin Johnson PHX 01/30/1991 PHX @ MIA W 37 13 3 8 37.5 0 0 - 7 9 77.8 0 0 0 11 3 0 6 2 -
+p424
+aVCedric Ceballos PHX 01/29/1991 PHX @ ORL L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p425
+aVMark West PHX 01/29/1991 PHX @ ORL L 17 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 1 0 2 4 -
+p426
+aVJeff Hornacek PHX 01/29/1991 PHX @ ORL L 33 20 7 13 53.8 2 3 66.7 4 4 100.0 1 2 3 7 3 0 1 4 -
+p427
+aVAndrew Lang PHX 01/29/1991 PHX @ ORL L 21 3 1 2 50.0 0 0 - 1 3 33.3 1 6 7 0 1 4 1 1 -
+p428
+aVEd Nealy PHX 01/29/1991 PHX @ ORL L 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p429
+aVTom Chambers PHX 01/29/1991 PHX @ ORL L 35 30 10 21 47.6 2 4 50.0 8 10 80.0 2 7 9 1 0 4 6 2 -
+p430
+aVXavier McDaniel PHX 01/29/1991 PHX @ ORL L 29 14 5 11 45.5 0 0 - 4 4 100.0 1 3 4 2 1 0 4 4 -
+p431
+aVKevin Johnson PHX 01/29/1991 PHX @ ORL L 35 14 5 12 41.7 0 0 - 4 6 66.7 1 3 4 9 2 0 3 2 -
+p432
+aVNegele Knight PHX 01/29/1991 PHX @ ORL L 13 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 -
+p433
+aVDan Majerle PHX 01/29/1991 PHX @ ORL L 33 20 7 12 58.3 2 3 66.7 4 5 80.0 3 1 4 1 0 3 1 2 -
+p434
+aVNegele Knight PHX 01/26/1991 PHX vs. NYK W 4 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p435
+aVEd Nealy PHX 01/26/1991 PHX vs. NYK W 16 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 3 -
+p436
+aVKevin Johnson PHX 01/26/1991 PHX vs. NYK W 36 25 10 17 58.8 0 1 0.0 5 5 100.0 3 2 5 9 3 0 4 1 -
+p437
+aVTom Chambers PHX 01/26/1991 PHX vs. NYK W 33 18 5 16 31.3 0 0 - 8 9 88.9 2 6 8 2 1 0 2 3 -
+p438
+aVDan Majerle PHX 01/26/1991 PHX vs. NYK W 32 7 2 5 40.0 0 0 - 3 4 75.0 4 3 7 6 2 0 3 1 -
+p439
+aVCedric Ceballos PHX 01/26/1991 PHX vs. NYK W 4 6 3 4 75.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 1 -
+p440
+aVAndrew Lang PHX 01/26/1991 PHX vs. NYK W 16 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 0 0 1 1 2 -
+p441
+aVMark West PHX 01/26/1991 PHX vs. NYK W 30 15 7 9 77.8 0 0 - 1 3 33.3 3 8 11 1 0 5 0 4 -
+p442
+aVTim Perry PHX 01/26/1991 PHX vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -
+p443
+aVJeff Hornacek PHX 01/26/1991 PHX vs. NYK W 33 15 7 12 58.3 0 1 0.0 1 1 100.0 0 2 2 5 1 0 0 1 -
+p444
+aVXavier McDaniel PHX 01/26/1991 PHX vs. NYK W 33 18 9 17 52.9 0 0 - 0 0 - 1 7 8 5 1 1 1 3 -
+p445
+aVTom Chambers PHX 01/25/1991 PHX vs. SEA W 37 28 9 11 81.8 0 0 - 10 11 90.9 1 7 8 7 1 1 3 5 -
+p446
+aVAndrew Lang PHX 01/25/1991 PHX vs. SEA W 20 9 4 4 100.0 0 0 - 1 1 100.0 2 2 4 0 1 2 0 5 -
+p447
+aVJeff Hornacek PHX 01/25/1991 PHX vs. SEA W 44 24 8 14 57.1 3 4 75.0 5 5 100.0 1 3 4 6 3 2 1 3 -
+p448
+aVKevin Johnson PHX 01/25/1991 PHX vs. SEA W 41 25 8 9 88.9 0 1 0.0 9 10 90.0 1 2 3 15 2 0 4 2 -
+p449
+aVXavier McDaniel PHX 01/25/1991 PHX vs. SEA W 33 16 6 12 50.0 0 0 - 4 4 100.0 2 3 5 3 1 2 1 3 -
+p450
+aVMark West PHX 01/25/1991 PHX vs. SEA W 24 8 3 4 75.0 0 0 - 2 6 33.3 3 4 7 2 0 3 2 5 -
+p451
+aVDan Majerle PHX 01/25/1991 PHX vs. SEA W 27 16 6 8 75.0 1 1 100.0 3 5 60.0 1 2 3 2 2 3 3 2 -
+p452
+aVTim Perry PHX 01/25/1991 PHX vs. SEA W 6 0 0 4 0.0 0 1 0.0 0 2 0.0 0 0 0 0 0 2 0 1 -
+p453
+aVNegele Knight PHX 01/25/1991 PHX vs. SEA W 8 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 3 1 -
+p454
+aVCedric Ceballos PHX 01/22/1991 PHX @ POR L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p455
+aVAndrew Lang PHX 01/22/1991 PHX @ POR L 13 11 4 4 100.0 0 0 - 3 5 60.0 2 2 4 1 0 1 2 4 -
+p456
+aVKevin Johnson PHX 01/22/1991 PHX @ POR L 32 19 6 21 28.6 0 0 - 7 11 63.6 0 1 1 9 3 0 1 5 -
+p457
+aVTom Chambers PHX 01/22/1991 PHX @ POR L 36 9 3 12 25.0 1 2 50.0 2 3 66.7 1 3 4 5 0 0 2 3 -
+p458
+aVDan Majerle PHX 01/22/1991 PHX @ POR L 24 9 3 7 42.9 1 2 50.0 2 3 66.7 1 1 2 1 1 0 1 3 -
+p459
+aVJeff Hornacek PHX 01/22/1991 PHX @ POR L 36 16 7 13 53.8 1 3 33.3 1 1 100.0 1 6 7 8 2 0 2 3 -
+p460
+aVXavier McDaniel PHX 01/22/1991 PHX @ POR L 28 14 6 15 40.0 0 0 - 2 2 100.0 1 4 5 2 1 0 1 1 -
+p461
+aVMark West PHX 01/22/1991 PHX @ POR L 31 17 8 8 100.0 0 0 - 1 2 50.0 3 4 7 0 0 0 1 5 -
+p462
+aVTim Perry PHX 01/22/1991 PHX @ POR L 17 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 2 1 1 6 -
+p463
+aVNegele Knight PHX 01/22/1991 PHX @ POR L 16 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 4 0 0 2 2 -
+p464
+aVKurt Rambis PHX 01/22/1991 PHX @ POR L 5 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 2 1 0 0 0 -
+p465
+aVEd Nealy PHX 01/22/1991 PHX @ POR L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p466
+aVTom Chambers PHX 01/19/1991 PHX @ SAC L 40 23 9 21 42.9 1 2 50.0 4 4 100.0 0 7 7 2 0 0 2 4 -
+p467
+aVMark West PHX 01/19/1991 PHX @ SAC L 19 8 4 8 50.0 0 0 - 0 1 0.0 1 3 4 1 0 2 0 3 -
+p468
+aVKurt Rambis PHX 01/19/1991 PHX @ SAC L 12 5 1 2 50.0 0 0 - 3 4 75.0 2 2 4 0 0 1 0 0 -
+p469
+aVTim Perry PHX 01/19/1991 PHX @ SAC L 14 8 3 5 60.0 0 0 - 2 2 100.0 4 0 4 1 1 0 0 0 -
+p470
+aVKevin Johnson PHX 01/19/1991 PHX @ SAC L 39 13 5 14 35.7 0 2 0.0 3 6 50.0 2 5 7 8 1 0 3 2 -
+p471
+aVJeff Hornacek PHX 01/19/1991 PHX @ SAC L 35 19 7 14 50.0 2 4 50.0 3 3 100.0 3 4 7 4 2 0 1 5 -
+p472
+aVDan Majerle PHX 01/19/1991 PHX @ SAC L 23 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 1 0 3 1 -
+p473
+aVEd Nealy PHX 01/19/1991 PHX @ SAC L 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p474
+aVAndrew Lang PHX 01/19/1991 PHX @ SAC L 8 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -
+p475
+aVXavier McDaniel PHX 01/19/1991 PHX @ SAC L 32 13 6 11 54.5 0 0 - 1 2 50.0 1 5 6 2 0 0 5 5 -
+p476
+aVNegele Knight PHX 01/19/1991 PHX @ SAC L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 3 0 -
+p477
+aVEd Nealy PHX 01/18/1991 PHX vs. DET W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p478
+aVTom Chambers PHX 01/18/1991 PHX vs. DET W 40 27 12 25 48.0 1 1 100.0 2 2 100.0 1 4 5 3 0 2 3 3 -
+p479
+aVDan Majerle PHX 01/18/1991 PHX vs. DET W 29 12 4 5 80.0 0 0 - 4 5 80.0 2 4 6 2 0 1 1 3 -
+p480
+aVJeff Hornacek PHX 01/18/1991 PHX vs. DET W 42 15 6 13 46.2 1 3 33.3 2 2 100.0 2 5 7 5 2 0 2 2 -
+p481
+aVXavier McDaniel PHX 01/18/1991 PHX vs. DET W 37 8 2 10 20.0 0 0 - 4 4 100.0 2 3 5 4 2 0 1 5 -
+p482
+aVMark West PHX 01/18/1991 PHX vs. DET W 39 12 5 7 71.4 0 0 - 2 2 100.0 5 4 9 0 1 1 0 1 -
+p483
+aVAndrew Lang PHX 01/18/1991 PHX vs. DET W 5 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -
+p484
+aVKevin Johnson PHX 01/18/1991 PHX vs. DET W 43 27 9 21 42.9 0 1 0.0 9 10 90.0 1 5 6 10 2 1 4 3 -
+p485
+aVNegele Knight PHX 01/15/1991 PHX vs. WAS W 18 3 1 7 14.3 0 0 - 1 2 50.0 0 2 2 6 1 0 1 1 -
+p486
+aVKevin Johnson PHX 01/15/1991 PHX vs. WAS W 30 20 9 15 60.0 0 0 - 2 3 66.7 0 1 1 10 3 0 1 0 -
+p487
+aVCedric Ceballos PHX 01/15/1991 PHX vs. WAS W 12 14 6 12 50.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -
+p488
+aVKurt Rambis PHX 01/15/1991 PHX vs. WAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p489
+aVTom Chambers PHX 01/15/1991 PHX vs. WAS W 35 23 7 18 38.9 1 1 100.0 8 8 100.0 1 2 3 5 1 0 1 2 -
+p490
+aVDan Majerle PHX 01/15/1991 PHX vs. WAS W 19 13 6 10 60.0 0 0 - 1 4 25.0 1 1 2 3 0 1 0 3 -
+p491
+aVAndrew Lang PHX 01/15/1991 PHX vs. WAS W 15 2 1 3 33.3 0 0 - 0 2 0.0 2 2 4 0 0 1 1 3 -
+p492
+aVTim Perry PHX 01/15/1991 PHX vs. WAS W 11 4 1 6 16.7 0 0 - 2 2 100.0 2 3 5 4 0 1 0 1 -
+p493
+aVJeff Hornacek PHX 01/15/1991 PHX vs. WAS W 23 15 6 12 50.0 1 2 50.0 2 2 100.0 0 4 4 4 3 1 1 0 -
+p494
+aVEd Nealy PHX 01/15/1991 PHX vs. WAS W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p495
+aVXavier McDaniel PHX 01/15/1991 PHX vs. WAS W 32 24 12 12 100.0 0 0 - 0 0 - 2 5 7 3 1 1 1 4 -
+p496
+aVMark West PHX 01/15/1991 PHX vs. WAS W 33 9 4 7 57.1 0 0 - 1 1 100.0 4 10 14 1 2 4 0 1 -
+p497
+aVKevin Johnson PHX 01/12/1991 PHX @ GOS W 42 35 15 23 65.2 1 1 100.0 4 6 66.7 1 4 5 11 2 1 4 2 -
+p498
+aVNegele Knight PHX 01/12/1991 PHX @ GOS W 15 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 2 -
+p499
+aVKurt Rambis PHX 01/12/1991 PHX @ GOS W 7 0 0 3 0.0 0 0 - 0 0 - 1 3 4 2 0 0 0 2 -
+p500
+aVMark West PHX 01/12/1991 PHX @ GOS W 24 11 3 7 42.9 0 0 - 5 7 71.4 0 4 4 0 1 2 0 5 -
+p501
+aVEd Nealy PHX 01/12/1991 PHX @ GOS W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p502
+aVTim Perry PHX 01/12/1991 PHX @ GOS W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p503
+aVXavier McDaniel PHX 01/12/1991 PHX @ GOS W 42 23 10 18 55.6 0 0 - 3 3 100.0 5 9 14 4 0 2 8 1 -
+p504
+aVTom Chambers PHX 01/12/1991 PHX @ GOS W 39 19 7 16 43.8 0 0 - 5 6 83.3 3 7 10 3 3 0 3 3 -
+p505
+aVJeff Hornacek PHX 01/12/1991 PHX @ GOS W 40 23 8 13 61.5 2 3 66.7 5 6 83.3 2 2 4 5 3 0 0 4 -
+p506
+aVDan Majerle PHX 01/12/1991 PHX @ GOS W 22 12 2 6 33.3 1 2 50.0 7 8 87.5 1 2 3 0 1 0 0 5 -
+p507
+aVKurt Rambis PHX 01/11/1991 PHX vs. HOU W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p508
+aVMark West PHX 01/11/1991 PHX vs. HOU W 38 8 4 6 66.7 0 0 - 0 1 0.0 1 3 4 1 1 6 0 2 -
+p509
+aVTom Chambers PHX 01/11/1991 PHX vs. HOU W 38 25 9 17 52.9 1 1 100.0 6 8 75.0 5 5 10 1 0 0 3 3 -
+p510
+aVAndrew Lang PHX 01/11/1991 PHX vs. HOU W 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p511
+aVKevin Johnson PHX 01/11/1991 PHX vs. HOU W 38 12 4 13 30.8 0 1 0.0 4 5 80.0 1 6 7 15 2 0 3 4 -
+p512
+aVXavier McDaniel PHX 01/11/1991 PHX vs. HOU W 38 33 15 20 75.0 0 0 - 3 5 60.0 2 1 3 3 0 0 3 4 -
+p513
+aVTim Perry PHX 01/11/1991 PHX vs. HOU W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 1 0 -
+p514
+aVJeff Hornacek PHX 01/11/1991 PHX vs. HOU W 33 21 6 16 37.5 0 2 0.0 9 9 100.0 0 5 5 6 2 0 2 5 -
+p515
+aVDan Majerle PHX 01/11/1991 PHX vs. HOU W 31 13 5 12 41.7 0 1 0.0 3 4 75.0 2 6 8 4 0 1 1 1 -
+p516
+aVDan Majerle PHX 01/09/1991 PHX vs. CLE W 21 14 5 7 71.4 0 1 0.0 4 8 50.0 2 4 6 1 0 0 0 3 -
+p517
+aVNegele Knight PHX 01/09/1991 PHX vs. CLE W 5 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p518
+aVTom Chambers PHX 01/09/1991 PHX vs. CLE W 42 22 8 20 40.0 0 0 - 6 8 75.0 2 4 6 2 0 1 3 3 -
+p519
+aVXavier McDaniel PHX 01/09/1991 PHX vs. CLE W 30 18 6 12 50.0 0 0 - 6 6 100.0 2 4 6 2 1 2 2 2 -
+p520
+aVTim Perry PHX 01/09/1991 PHX vs. CLE W 12 5 2 3 66.7 0 0 - 1 5 20.0 1 0 1 0 0 2 0 0 -
+p521
+aVCedric Ceballos PHX 01/09/1991 PHX vs. CLE W 6 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p522
+aVKevin Johnson PHX 01/09/1991 PHX vs. CLE W 35 16 6 14 42.9 0 0 - 4 6 66.7 1 4 5 12 6 0 1 0 -
+p523
+aVKurt Rambis PHX 01/09/1991 PHX vs. CLE W 9 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -
+p524
+aVJeff Hornacek PHX 01/09/1991 PHX vs. CLE W 42 23 9 18 50.0 0 0 - 5 6 83.3 1 1 2 6 0 0 0 1 -
+p525
+aVAndrew Lang PHX 01/09/1991 PHX vs. CLE W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -
+p526
+aVMark West PHX 01/09/1991 PHX vs. CLE W 32 9 4 6 66.7 0 0 - 1 2 50.0 2 8 10 0 0 2 0 5 -
+p527
+aVTom Chambers PHX 01/07/1991 PHX @ MIN W 39 25 12 28 42.9 0 1 0.0 1 1 100.0 1 10 11 4 0 0 2 3 -
+p528
+aVKevin Johnson PHX 01/07/1991 PHX @ MIN W 37 29 11 16 68.8 0 0 - 7 13 53.8 1 2 3 14 3 0 0 3 -
+p529
+aVCedric Ceballos PHX 01/07/1991 PHX @ MIN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p530
+aVTim Perry PHX 01/07/1991 PHX @ MIN W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -
+p531
+aVJeff Hornacek PHX 01/07/1991 PHX @ MIN W 38 21 9 17 52.9 2 4 50.0 1 1 100.0 1 3 4 4 0 1 2 1 -
+p532
+aVNegele Knight PHX 01/07/1991 PHX @ MIN W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 5 0 0 1 2 -
+p533
+aVKurt Rambis PHX 01/07/1991 PHX @ MIN W 10 4 0 0 - 0 0 - 4 4 100.0 1 2 3 0 0 0 1 3 -
+p534
+aVAndrew Lang PHX 01/07/1991 PHX @ MIN W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -
+p535
+aVDan Majerle PHX 01/07/1991 PHX @ MIN W 29 7 3 11 27.3 0 1 0.0 1 2 50.0 5 3 8 7 1 0 0 2 -
+p536
+aVXavier McDaniel PHX 01/07/1991 PHX @ MIN W 33 23 9 19 47.4 0 0 - 5 5 100.0 3 7 10 3 0 3 2 3 -
+p537
+aVMark West PHX 01/07/1991 PHX @ MIN W 24 8 3 4 75.0 0 0 - 2 4 50.0 2 6 8 0 0 5 0 5 -
+p538
+aVXavier McDaniel PHX 01/05/1991 PHX @ MIL L 42 20 8 16 50.0 0 0 - 4 4 100.0 0 2 2 3 0 0 3 3 -
+p539
+aVEd Nealy PHX 01/05/1991 PHX @ MIL L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p540
+aVKevin Johnson PHX 01/05/1991 PHX @ MIL L 45 34 13 24 54.2 0 1 0.0 8 10 80.0 2 2 4 5 2 0 5 2 -
+p541
+aVKurt Rambis PHX 01/05/1991 PHX @ MIL L 37 6 2 4 50.0 0 0 - 2 2 100.0 5 7 12 3 1 0 3 5 -
+p542
+aVDan Majerle PHX 01/05/1991 PHX @ MIL L 35 2 1 7 14.3 0 1 0.0 0 0 - 3 4 7 3 0 0 2 1 -
+p543
+aVMark West PHX 01/05/1991 PHX @ MIL L 34 10 5 11 45.5 0 0 - 0 0 - 3 9 12 1 1 1 1 5 -
+p544
+aVJeff Hornacek PHX 01/05/1991 PHX @ MIL L 39 14 6 12 50.0 0 1 0.0 2 2 100.0 2 1 3 3 2 0 5 2 -
+p545
+aVAndrew Lang PHX 01/05/1991 PHX @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p546
+aVNegele Knight PHX 01/05/1991 PHX @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p547
+aVCedric Ceballos PHX 01/04/1991 PHX @ BOS L 13 10 4 8 50.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 0 -
+p548
+aVDan Majerle PHX 01/04/1991 PHX @ BOS L 25 11 4 12 33.3 0 1 0.0 3 3 100.0 0 4 4 1 1 0 0 1 -
+p549
+aVNegele Knight PHX 01/04/1991 PHX @ BOS L 17 4 2 6 33.3 0 2 0.0 0 2 0.0 0 0 0 7 1 0 3 3 -
+p550
+aVXavier McDaniel PHX 01/04/1991 PHX @ BOS L 23 9 3 12 25.0 0 0 - 3 5 60.0 1 4 5 2 0 0 2 1 -
+p551
+aVAndrew Lang PHX 01/04/1991 PHX @ BOS L 28 4 2 6 33.3 0 0 - 0 0 - 3 3 6 0 1 1 1 3 -
+p552
+aVKevin Johnson PHX 01/04/1991 PHX @ BOS L 31 15 6 14 42.9 0 0 - 3 4 75.0 1 1 2 11 1 0 6 2 -
+p553
+aVMark West PHX 01/04/1991 PHX @ BOS L 23 4 2 3 66.7 0 0 - 0 0 - 1 8 9 0 0 2 1 3 -
+p554
+aVJeff Hornacek PHX 01/04/1991 PHX @ BOS L 29 22 9 15 60.0 0 0 - 4 4 100.0 0 2 2 6 3 0 3 2 -
+p555
+aVEd Nealy PHX 01/04/1991 PHX @ BOS L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 1 1 0 -
+p556
+aVKurt Rambis PHX 01/04/1991 PHX @ BOS L 19 8 2 6 33.3 0 0 - 4 4 100.0 2 1 3 2 2 0 0 2 -
+p557
+aVTim Perry PHX 01/04/1991 PHX @ BOS L 24 14 6 7 85.7 0 0 - 2 3 66.7 2 2 4 0 0 1 0 1 -
+p558
+aVAndrew Lang PHX 01/02/1991 PHX @ CLE W 21 6 3 6 50.0 0 0 - 0 0 - 3 3 6 0 0 5 1 5 -
+p559
+aVTim Perry PHX 01/02/1991 PHX @ CLE W 22 3 1 7 14.3 0 0 - 1 2 50.0 2 2 4 0 0 0 2 2 -
+p560
+aVKurt Rambis PHX 01/02/1991 PHX @ CLE W 14 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 4 0 0 0 2 -
+p561
+aVNegele Knight PHX 01/02/1991 PHX @ CLE W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p562
+aVXavier McDaniel PHX 01/02/1991 PHX @ CLE W 33 21 10 17 58.8 0 0 - 1 1 100.0 2 7 9 1 1 2 3 4 -
+p563
+aVCedric Ceballos PHX 01/02/1991 PHX @ CLE W 3 4 2 6 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p564
+aVKevin Johnson PHX 01/02/1991 PHX @ CLE W 38 29 12 22 54.5 0 0 - 5 5 100.0 1 3 4 8 1 0 4 1 -
+p565
+aVEd Nealy PHX 01/02/1991 PHX @ CLE W 9 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 2 1 0 1 0 -
+p566
+aVMark West PHX 01/02/1991 PHX @ CLE W 27 0 0 3 0.0 0 0 - 0 0 - 0 7 7 0 0 3 1 2 -
+p567
+aVDan Majerle PHX 01/02/1991 PHX @ CLE W 32 20 8 13 61.5 0 2 0.0 4 4 100.0 4 5 9 2 3 1 1 1 -
+p568
+aVJeff Hornacek PHX 01/02/1991 PHX @ CLE W 38 13 5 14 35.7 0 0 - 3 3 100.0 0 6 6 5 1 0 3 4 -
+p569
+aVKevin Johnson PHX 12/29/1990 PHX vs. MIA W 34 22 7 10 70.0 0 0 - 8 8 100.0 2 2 4 19 4 0 7 3 -
+p570
+aVTim Perry PHX 12/29/1990 PHX vs. MIA W 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 2 0 0 -
+p571
+aVXavier McDaniel PHX 12/29/1990 PHX vs. MIA W 33 24 10 12 83.3 0 0 - 4 7 57.1 1 5 6 4 0 0 5 4 -
+p572
+aVAndrew Lang PHX 12/29/1990 PHX vs. MIA W 24 10 3 6 50.0 0 0 - 4 6 66.7 5 4 9 1 0 3 1 4 -
+p573
+aVTom Chambers PHX 12/29/1990 PHX vs. MIA W 12 13 6 9 66.7 0 0 - 1 1 100.0 0 2 2 1 0 0 1 1 -
+p574
+aVKurt Rambis PHX 12/29/1990 PHX vs. MIA W 7 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -
+p575
+aVNegele Knight PHX 12/29/1990 PHX vs. MIA W 12 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 4 1 -
+p576
+aVEd Nealy PHX 12/29/1990 PHX vs. MIA W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 2 0 0 0 -
+p577
+aVCedric Ceballos PHX 12/29/1990 PHX vs. MIA W 12 7 2 8 25.0 0 1 0.0 3 3 100.0 1 3 4 0 0 0 1 1 -
+p578
+aVDan Majerle PHX 12/29/1990 PHX vs. MIA W 32 15 4 9 44.4 1 2 50.0 6 10 60.0 3 4 7 4 1 0 1 3 -
+p579
+aVMark West PHX 12/29/1990 PHX vs. MIA W 19 11 3 5 60.0 0 0 - 5 7 71.4 3 5 8 0 0 2 2 2 -
+p580
+aVJeff Hornacek PHX 12/29/1990 PHX vs. MIA W 31 22 9 14 64.3 0 1 0.0 4 4 100.0 1 5 6 7 3 0 1 1 -
+p581
+aVJeff Hornacek PHX 12/28/1990 PHX vs. PHL W 39 13 6 12 50.0 0 1 0.0 1 2 50.0 0 5 5 4 2 0 2 3 -
+p582
+aVAndrew Lang PHX 12/28/1990 PHX vs. PHL W 16 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 1 1 1 0 -
+p583
+aVNegele Knight PHX 12/28/1990 PHX vs. PHL W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -
+p584
+aVXavier McDaniel PHX 12/28/1990 PHX vs. PHL W 32 17 7 17 41.2 0 1 0.0 3 4 75.0 6 4 10 2 2 0 0 3 -
+p585
+aVDan Majerle PHX 12/28/1990 PHX vs. PHL W 23 16 7 14 50.0 2 3 66.7 0 0 - 2 3 5 3 2 0 2 4 -
+p586
+aVCedric Ceballos PHX 12/28/1990 PHX vs. PHL W 15 11 5 6 83.3 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -
+p587
+aVMark West PHX 12/28/1990 PHX vs. PHL W 21 11 4 5 80.0 0 0 - 3 4 75.0 4 6 10 0 0 3 0 3 -
+p588
+aVKevin Johnson PHX 12/28/1990 PHX vs. PHL W 38 21 9 13 69.2 0 0 - 3 4 75.0 0 4 4 7 4 1 2 2 -
+p589
+aVTom Chambers PHX 12/28/1990 PHX vs. PHL W 43 15 6 17 35.3 0 0 - 3 5 60.0 1 4 5 9 1 2 5 5 -
+p590
+aVKurt Rambis PHX 12/28/1990 PHX vs. PHL W 12 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 0 0 2 1 -
+p591
+aVXavier McDaniel PHX 12/26/1990 PHX vs. DAL W 33 14 7 17 41.2 0 0 - 0 0 - 3 3 6 3 1 0 1 2 -
+p592
+aVKevin Johnson PHX 12/26/1990 PHX vs. DAL W 32 19 8 13 61.5 0 0 - 3 3 100.0 0 3 3 9 0 0 0 0 -
+p593
+aVTom Chambers PHX 12/26/1990 PHX vs. DAL W 32 24 8 15 53.3 0 0 - 8 10 80.0 2 10 12 4 0 1 4 3 -
+p594
+aVEd Nealy PHX 12/26/1990 PHX vs. DAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p595
+aVAndrew Lang PHX 12/26/1990 PHX vs. DAL W 24 7 3 5 60.0 0 0 - 1 2 50.0 3 2 5 1 1 2 1 2 -
+p596
+aVCedric Ceballos PHX 12/26/1990 PHX vs. DAL W 4 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -
+p597
+aVTim Perry PHX 12/26/1990 PHX vs. DAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p598
+aVDan Majerle PHX 12/26/1990 PHX vs. DAL W 24 10 5 10 50.0 0 1 0.0 0 0 - 2 6 8 6 0 0 1 1 -
+p599
+aVMark West PHX 12/26/1990 PHX vs. DAL W 24 12 5 7 71.4 0 0 - 2 2 100.0 1 1 2 0 0 1 0 1 -
+p600
+aVNegele Knight PHX 12/26/1990 PHX vs. DAL W 5 8 3 4 75.0 0 0 - 2 4 50.0 0 0 0 2 0 0 0 2 -
+p601
+aVJeff Hornacek PHX 12/26/1990 PHX vs. DAL W 31 13 5 10 50.0 0 1 0.0 3 3 100.0 1 3 4 7 1 0 3 1 -
+p602
+aVKurt Rambis PHX 12/26/1990 PHX vs. DAL W 23 3 1 6 16.7 0 1 0.0 1 2 50.0 1 8 9 1 1 1 0 0 -
+p603
+aVDan Majerle PHX 12/22/1990 PHX @ HOU L 24 6 2 4 50.0 0 1 0.0 2 4 50.0 0 1 1 2 6 1 1 1 -
+p604
+aVXavier McDaniel PHX 12/22/1990 PHX @ HOU L 25 15 7 14 50.0 0 1 0.0 1 1 100.0 2 6 8 0 1 1 1 3 -
+p605
+aVMark West PHX 12/22/1990 PHX @ HOU L 24 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 0 1 1 3 -
+p606
+aVNegele Knight PHX 12/22/1990 PHX @ HOU L 17 9 3 10 30.0 1 2 50.0 2 2 100.0 0 0 0 5 0 0 1 0 -
+p607
+aVTom Chambers PHX 12/22/1990 PHX @ HOU L 28 18 6 15 40.0 0 0 - 6 7 85.7 0 7 7 2 0 1 4 4 -
+p608
+aVKurt Rambis PHX 12/22/1990 PHX @ HOU L 19 10 4 5 80.0 0 0 - 2 2 100.0 2 1 3 2 0 0 1 2 -
+p609
+aVKenny Battle PHX 12/22/1990 PHX @ HOU L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p610
+aVKevin Johnson PHX 12/22/1990 PHX @ HOU L 26 4 2 11 18.2 0 0 - 0 0 - 1 2 3 5 2 0 5 2 -
+p611
+aVCedric Ceballos PHX 12/22/1990 PHX @ HOU L 24 27 12 20 60.0 0 0 - 3 4 75.0 4 0 4 0 0 0 4 2 -
+p612
+aVTim Perry PHX 12/22/1990 PHX @ HOU L 18 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 3 1 0 3 1 -
+p613
+aVEd Nealy PHX 12/22/1990 PHX @ HOU L 6 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -
+p614
+aVJeff Hornacek PHX 12/22/1990 PHX @ HOU L 23 3 1 8 12.5 0 2 0.0 1 1 100.0 2 1 3 6 2 0 0 0 -
+p615
+aVEd Nealy PHX 12/21/1990 PHX vs. SAN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p616
+aVKurt Rambis PHX 12/21/1990 PHX vs. SAN L 1 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p617
+aVJeff Hornacek PHX 12/21/1990 PHX vs. SAN L 44 27 11 21 52.4 1 3 33.3 4 4 100.0 1 1 2 5 1 0 3 1 -
+p618
+aVXavier McDaniel PHX 12/21/1990 PHX vs. SAN L 47 18 8 17 47.1 0 0 - 2 6 33.3 1 4 5 5 5 1 4 6 -
+p619
+aVMark West PHX 12/21/1990 PHX vs. SAN L 31 4 2 2 100.0 0 0 - 0 2 0.0 0 7 7 0 1 1 0 6 -
+p620
+aVDan Majerle PHX 12/21/1990 PHX vs. SAN L 31 13 6 9 66.7 0 1 0.0 1 1 100.0 4 1 5 1 0 1 2 2 -
+p621
+aVNegele Knight PHX 12/21/1990 PHX vs. SAN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p622
+aVTom Chambers PHX 12/21/1990 PHX vs. SAN L 40 30 11 23 47.8 1 2 50.0 7 8 87.5 3 9 12 2 2 0 3 6 -
+p623
+aVKevin Johnson PHX 12/21/1990 PHX vs. SAN L 42 34 9 16 56.3 0 0 - 16 18 88.9 2 6 8 16 0 0 5 3 -
+p624
+aVTim Perry PHX 12/21/1990 PHX vs. SAN L 27 2 0 0 - 0 0 - 2 6 33.3 0 1 1 1 1 0 0 2 -
+p625
+aVJeff Hornacek PHX 12/19/1990 PHX vs. MIN W 40 23 8 17 47.1 1 1 100.0 6 6 100.0 2 2 4 16 1 0 3 1 -
+p626
+aVTom Chambers PHX 12/19/1990 PHX vs. MIN W 31 12 6 9 66.7 0 0 - 0 0 - 1 7 8 2 0 2 2 4 -
+p627
+aVTim Perry PHX 12/19/1990 PHX vs. MIN W 30 9 3 4 75.0 0 0 - 3 4 75.0 2 5 7 0 0 3 1 2 -
+p628
+aVKevin Johnson PHX 12/19/1990 PHX vs. MIN W 16 15 6 11 54.5 0 0 - 3 3 100.0 0 3 3 1 2 0 0 1 -
+p629
+aVMark West PHX 12/19/1990 PHX vs. MIN W 20 15 6 9 66.7 0 0 - 3 3 100.0 3 6 9 1 0 2 1 1 -
+p630
+aVKurt Rambis PHX 12/19/1990 PHX vs. MIN W 13 6 3 6 50.0 0 0 - 0 2 0.0 2 4 6 2 0 0 2 2 -
+p631
+aVNegele Knight PHX 12/19/1990 PHX vs. MIN W 5 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -
+p632
+aVXavier McDaniel PHX 12/19/1990 PHX vs. MIN W 45 18 8 13 61.5 0 0 - 2 2 100.0 2 6 8 3 0 1 3 5 -
+p633
+aVDan Majerle PHX 12/19/1990 PHX vs. MIN W 40 12 4 8 50.0 0 1 0.0 4 10 40.0 1 5 6 7 0 1 4 3 -
+p634
+aVEd Nealy PHX 12/18/1990 PHX @ DAL W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 -
+p635
+aVDan Majerle PHX 12/18/1990 PHX @ DAL W 30 24 9 15 60.0 3 4 75.0 3 3 100.0 2 2 4 5 3 0 2 0 -
+p636
+aVMark West PHX 12/18/1990 PHX @ DAL W 18 5 2 2 100.0 0 0 - 1 1 100.0 0 2 2 0 0 2 2 3 -
+p637
+aVKevin Johnson PHX 12/18/1990 PHX @ DAL W 35 19 6 15 40.0 0 0 - 7 8 87.5 1 3 4 6 5 0 6 1 -
+p638
+aVKurt Rambis PHX 12/18/1990 PHX @ DAL W 14 2 1 3 33.3 0 0 - 0 2 0.0 1 2 3 0 0 0 0 1 -
+p639
+aVTim Perry PHX 12/18/1990 PHX @ DAL W 20 4 2 6 33.3 0 0 - 0 0 - 1 2 3 2 2 1 1 4 -
+p640
+aVCedric Ceballos PHX 12/18/1990 PHX @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p641
+aVJeff Hornacek PHX 12/18/1990 PHX @ DAL W 35 20 7 12 58.3 2 2 100.0 4 4 100.0 1 3 4 8 0 0 0 1 -
+p642
+aVTom Chambers PHX 12/18/1990 PHX @ DAL W 28 15 4 13 30.8 0 2 0.0 7 7 100.0 4 6 10 2 2 3 1 4 -
+p643
+aVXavier McDaniel PHX 12/18/1990 PHX @ DAL W 45 23 10 17 58.8 0 0 - 3 4 75.0 2 9 11 5 0 0 2 4 -
+p644
+aVNegele Knight PHX 12/18/1990 PHX @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p645
+aVKenny Battle PHX 12/18/1990 PHX @ DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p646
+aVTom Chambers PHX 12/15/1990 PHX @ DEN W 39 28 13 24 54.2 0 1 0.0 2 3 66.7 1 10 11 6 1 0 6 1 -
+p647
+aVKevin Johnson PHX 12/15/1990 PHX @ DEN W 39 24 7 13 53.8 0 0 - 10 11 90.9 2 4 6 8 2 1 9 4 -
+p648
+aVKurt Rambis PHX 12/15/1990 PHX @ DEN W 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p649
+aVMark West PHX 12/15/1990 PHX @ DEN W 11 4 1 1 100.0 0 0 - 2 2 100.0 2 2 4 0 0 1 2 2 -
+p650
+aVNegele Knight PHX 12/15/1990 PHX @ DEN W 7 8 4 5 80.0 0 0 - 0 0 - 1 0 1 2 0 0 0 4 -
+p651
+aVTim Perry PHX 12/15/1990 PHX @ DEN W 25 19 8 11 72.7 0 0 - 3 5 60.0 3 7 10 1 2 0 2 4 -
+p652
+aVCedric Ceballos PHX 12/15/1990 PHX @ DEN W 6 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 0 -
+p653
+aVEd Nealy PHX 12/15/1990 PHX @ DEN W 8 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -
+p654
+aVXavier McDaniel PHX 12/15/1990 PHX @ DEN W 39 19 9 19 47.4 0 0 - 1 2 50.0 5 10 15 5 1 0 2 2 -
+p655
+aVDan Majerle PHX 12/15/1990 PHX @ DEN W 22 6 3 5 60.0 0 0 - 0 2 0.0 2 2 4 1 0 0 3 2 -
+p656
+aVJeff Hornacek PHX 12/15/1990 PHX @ DEN W 38 28 8 15 53.3 0 0 - 12 12 100.0 2 2 4 8 2 0 3 4 -
+p657
+aVNegele Knight PHX 12/13/1990 PHX vs. ORL W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -
+p658
+aVTom Chambers PHX 12/13/1990 PHX vs. ORL W 32 25 10 20 50.0 0 0 - 5 5 100.0 1 3 4 3 2 1 2 4 -
+p659
+aVKurt Rambis PHX 12/13/1990 PHX vs. ORL W 23 8 3 5 60.0 0 0 - 2 2 100.0 4 6 10 0 0 1 1 5 -
+p660
+aVMark West PHX 12/13/1990 PHX vs. ORL W 27 5 1 3 33.3 0 0 - 3 4 75.0 0 2 2 1 1 3 2 5 -
+p661
+aVXavier McDaniel PHX 12/13/1990 PHX vs. ORL W 28 16 6 11 54.5 0 0 - 4 6 66.7 2 3 5 2 0 0 1 4 -
+p662
+aVDan Majerle PHX 12/13/1990 PHX vs. ORL W 32 8 1 9 11.1 0 0 - 6 6 100.0 2 4 6 0 1 1 1 1 -
+p663
+aVKevin Johnson PHX 12/13/1990 PHX vs. ORL W 43 38 14 22 63.6 1 1 100.0 9 13 69.2 1 4 5 12 4 0 1 3 -
+p664
+aVJeff Hornacek PHX 12/13/1990 PHX vs. ORL W 37 23 9 12 75.0 0 0 - 5 6 83.3 0 4 4 2 0 0 2 3 -
+p665
+aVTim Perry PHX 12/13/1990 PHX vs. ORL W 13 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 1 1 1 1 -
+p666
+aVMark West PHX 12/11/1990 PHX vs. SAC W 18 6 2 4 50.0 0 0 - 2 4 50.0 3 1 4 0 1 0 1 3 -
+p667
+aVNegele Knight PHX 12/11/1990 PHX vs. SAC W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 4 0 0 1 1 -
+p668
+aVKurt Rambis PHX 12/11/1990 PHX vs. SAC W 21 6 3 5 60.0 0 0 - 0 0 - 0 9 9 2 0 0 2 3 -
+p669
+aVTom Chambers PHX 12/11/1990 PHX vs. SAC W 35 16 6 17 35.3 0 0 - 4 5 80.0 2 3 5 4 2 3 2 3 -
+p670
+aVEd Nealy PHX 12/11/1990 PHX vs. SAC W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p671
+aVTim Perry PHX 12/11/1990 PHX vs. SAC W 28 6 1 4 25.0 0 0 - 4 6 66.7 2 3 5 0 0 3 3 1 -
+p672
+aVKevin Johnson PHX 12/11/1990 PHX vs. SAC W 31 26 8 14 57.1 0 0 - 10 12 83.3 0 3 3 8 5 0 2 2 -
+p673
+aVCedric Ceballos PHX 12/11/1990 PHX vs. SAC W 5 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 0 1 0 0 2 -
+p674
+aVJeff Hornacek PHX 12/11/1990 PHX vs. SAC W 34 12 6 14 42.9 0 3 0.0 0 0 - 0 2 2 6 1 0 1 1 -
+p675
+aVXavier McDaniel PHX 12/11/1990 PHX vs. SAC W 30 20 10 15 66.7 0 0 - 0 0 - 3 5 8 1 0 2 2 2 -
+p676
+aVDan Majerle PHX 12/11/1990 PHX vs. SAC W 28 16 5 10 50.0 0 2 0.0 6 6 100.0 1 2 3 3 1 0 1 1 -
+p677
+aVXavier McDaniel PHX 12/08/1990 PHX @ ORL W 33 17 8 15 53.3 0 0 - 1 2 50.0 2 7 9 0 1 1 2 4 -
+p678
+aVTom Chambers PHX 12/08/1990 PHX @ ORL W 34 21 8 18 44.4 1 1 100.0 4 5 80.0 3 4 7 2 1 0 5 4 -
+p679
+aVMark West PHX 12/08/1990 PHX @ ORL W 34 11 5 8 62.5 0 0 - 1 2 50.0 3 6 9 2 1 1 1 4 -
+p680
+aVKurt Rambis PHX 12/08/1990 PHX @ ORL W 20 6 1 2 50.0 0 0 - 4 8 50.0 3 4 7 1 1 1 1 2 -
+p681
+aVDan Majerle PHX 12/08/1990 PHX @ ORL W 37 17 6 10 60.0 0 0 - 5 6 83.3 2 5 7 3 0 0 1 0 -
+p682
+aVTim Perry PHX 12/08/1990 PHX @ ORL W 7 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 3 0 0 0 0 -
+p683
+aVKevin Johnson PHX 12/08/1990 PHX @ ORL W 39 26 8 13 61.5 0 0 - 10 12 83.3 0 5 5 12 3 0 6 2 -
+p684
+aVJeff Hornacek PHX 12/08/1990 PHX @ ORL W 36 13 5 13 38.5 1 2 50.0 2 2 100.0 0 3 3 2 3 0 0 3 -
+p685
+aVNegele Knight PHX 12/07/1990 PHX @ NJN W 15 4 2 4 50.0 0 0 - 0 0 - 2 0 2 4 0 1 0 3 -
+p686
+aVKurt Rambis PHX 12/07/1990 PHX @ NJN W 29 9 4 9 44.4 0 0 - 1 1 100.0 3 8 11 1 0 2 1 4 -
+p687
+aVMark West PHX 12/07/1990 PHX @ NJN W 32 12 4 6 66.7 0 0 - 4 6 66.7 4 5 9 0 1 1 2 2 -
+p688
+aVTim Perry PHX 12/07/1990 PHX @ NJN W 23 16 7 11 63.6 0 0 - 2 2 100.0 4 1 5 0 2 1 1 2 -
+p689
+aVDan Majerle PHX 12/07/1990 PHX @ NJN W 28 17 5 11 45.5 1 1 100.0 6 8 75.0 4 5 9 0 3 0 1 5 -
+p690
+aVKenny Battle PHX 12/07/1990 PHX @ NJN W 13 2 1 6 16.7 0 0 - 0 0 - 0 4 4 1 0 0 0 2 -
+p691
+aVTom Chambers PHX 12/07/1990 PHX @ NJN W 31 18 5 14 35.7 0 0 - 8 11 72.7 1 5 6 3 0 2 0 3 -
+p692
+aVJeff Hornacek PHX 12/07/1990 PHX @ NJN W 30 28 12 16 75.0 3 3 100.0 1 2 50.0 0 3 3 3 1 1 3 0 -
+p693
+aVKevin Johnson PHX 12/07/1990 PHX @ NJN W 33 17 5 16 31.3 0 1 0.0 7 7 100.0 0 4 4 11 4 0 1 3 -
+p694
+aVCedric Ceballos PHX 12/07/1990 PHX @ NJN W 6 6 3 9 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p695
+aVEd Nealy PHX 12/05/1990 PHX @ IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p696
+aVJeff Hornacek PHX 12/05/1990 PHX @ IND L 34 14 6 10 60.0 0 0 - 2 2 100.0 0 0 0 9 1 0 2 6 -
+p697
+aVMark West PHX 12/05/1990 PHX @ IND L 21 7 3 7 42.9 0 0 - 1 2 50.0 0 4 4 0 0 0 1 5 -
+p698
+aVTim Perry PHX 12/05/1990 PHX @ IND L 26 14 7 7 100.0 0 0 - 0 2 0.0 3 2 5 0 1 2 1 0 -
+p699
+aVKevin Johnson PHX 12/05/1990 PHX @ IND L 40 33 10 16 62.5 0 0 - 13 14 92.9 1 4 5 5 3 0 3 2 -
+p700
+aVEddie Johnson PHX 12/05/1990 PHX @ IND L 23 10 4 12 33.3 0 2 0.0 2 2 100.0 1 2 3 1 1 0 1 2 -
+p701
+aVNegele Knight PHX 12/05/1990 PHX @ IND L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -
+p702
+aVDan Majerle PHX 12/05/1990 PHX @ IND L 36 20 4 8 50.0 0 1 0.0 12 13 92.3 2 5 7 2 2 2 4 4 -
+p703
+aVTom Chambers PHX 12/05/1990 PHX @ IND L 30 17 7 14 50.0 0 0 - 3 4 75.0 0 3 3 5 1 0 3 3 -
+p704
+aVKurt Rambis PHX 12/05/1990 PHX @ IND L 15 6 2 4 50.0 0 0 - 2 2 100.0 4 4 8 0 0 0 2 1 -
+p705
+aVEd Nealy PHX 12/04/1990 PHX @ CHI L 22 6 3 4 75.0 0 1 0.0 0 2 0.0 2 3 5 3 2 0 3 2 -
+p706
+aVNegele Knight PHX 12/04/1990 PHX @ CHI L 19 7 3 9 33.3 0 0 - 1 1 100.0 1 3 4 6 0 0 1 3 -
+p707
+aVCedric Ceballos PHX 12/04/1990 PHX @ CHI L 12 11 5 8 62.5 0 0 - 1 1 100.0 0 2 2 0 0 0 2 2 -
+p708
+aVKenny Battle PHX 12/04/1990 PHX @ CHI L 10 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 0 2 0 -
+p709
+aVEddie Johnson PHX 12/04/1990 PHX @ CHI L 24 17 7 17 41.2 1 3 33.3 2 2 100.0 3 0 3 4 0 0 0 2 -
+p710
+aVJeff Hornacek PHX 12/04/1990 PHX @ CHI L 37 8 4 10 40.0 0 0 - 0 0 - 2 1 3 2 0 0 0 2 -
+p711
+aVKurt Rambis PHX 12/04/1990 PHX @ CHI L 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 1 0 0 3 -
+p712
+aVTom Chambers PHX 12/04/1990 PHX @ CHI L 33 23 8 18 44.4 1 1 100.0 6 8 75.0 1 2 3 3 3 2 4 3 -
+p713
+aVMark West PHX 12/04/1990 PHX @ CHI L 17 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 1 0 0 0 4 -
+p714
+aVAndrew Lang PHX 12/04/1990 PHX @ CHI L 8 4 1 1 100.0 0 0 - 2 2 100.0 2 0 2 0 0 0 2 0 -
+p715
+aVKevin Johnson PHX 12/04/1990 PHX @ CHI L 29 25 11 18 61.1 0 1 0.0 3 4 75.0 0 2 2 6 1 0 2 0 -
+p716
+aVDan Majerle PHX 12/04/1990 PHX @ CHI L 12 17 6 12 50.0 1 1 100.0 4 6 66.7 5 2 7 0 0 1 1 2 -
+p717
+aVKenny Battle PHX 12/01/1990 PHX vs. LAL L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 2 0 0 2 -
+p718
+aVEd Nealy PHX 12/01/1990 PHX vs. LAL L 10 4 1 2 50.0 0 0 - 2 4 50.0 2 3 5 0 0 0 1 2 -
+p719
+aVTom Chambers PHX 12/01/1990 PHX vs. LAL L 41 15 6 17 35.3 0 1 0.0 3 3 100.0 1 5 6 4 2 0 0 4 -
+p720
+aVEddie Johnson PHX 12/01/1990 PHX vs. LAL L 23 10 5 10 50.0 0 1 0.0 0 0 - 0 4 4 0 0 0 2 3 -
+p721
+aVJeff Hornacek PHX 12/01/1990 PHX vs. LAL L 24 15 7 11 63.6 0 1 0.0 1 2 50.0 0 2 2 5 1 1 3 3 -
+p722
+aVKurt Rambis PHX 12/01/1990 PHX vs. LAL L 19 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 0 1 2 2 -
+p723
+aVMark West PHX 12/01/1990 PHX vs. LAL L 30 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 1 0 2 0 1 -
+p724
+aVKevin Johnson PHX 12/01/1990 PHX vs. LAL L 35 19 6 15 40.0 0 0 - 7 8 87.5 1 8 9 9 3 0 3 1 -
+p725
+aVDan Majerle PHX 12/01/1990 PHX vs. LAL L 32 18 9 16 56.3 0 1 0.0 0 0 - 2 0 2 1 2 1 1 2 -
+p726
+aVNegele Knight PHX 12/01/1990 PHX vs. LAL L 13 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 4 0 0 1 1 -
+p727
+aVKurt Rambis PHX 11/29/1990 PHX vs. SEA W 16 6 3 3 100.0 0 0 - 0 0 - 1 0 1 3 0 0 1 5 -
+p728
+aVMark West PHX 11/29/1990 PHX vs. SEA W 27 11 5 6 83.3 0 0 - 1 5 20.0 1 7 8 1 1 4 3 3 -
+p729
+aVNegele Knight PHX 11/29/1990 PHX vs. SEA W 23 21 7 10 70.0 0 0 - 7 8 87.5 0 0 0 4 2 1 3 2 -
+p730
+aVKenny Battle PHX 11/29/1990 PHX vs. SEA W 5 4 2 2 100.0 0 0 - 0 1 0.0 1 1 2 0 1 0 2 0 -
+p731
+aVEddie Johnson PHX 11/29/1990 PHX vs. SEA W 19 11 4 6 66.7 0 0 - 3 4 75.0 1 2 3 2 0 0 3 2 -
+p732
+aVDan Majerle PHX 11/29/1990 PHX vs. SEA W 27 17 7 13 53.8 0 0 - 3 3 100.0 1 3 4 0 6 0 2 2 -
+p733
+aVAndrew Lang PHX 11/29/1990 PHX vs. SEA W 20 3 1 1 100.0 0 0 - 1 1 100.0 0 3 3 4 0 4 0 6 -
+p734
+aVTom Chambers PHX 11/29/1990 PHX vs. SEA W 29 22 6 14 42.9 0 1 0.0 10 10 100.0 0 1 1 0 1 2 0 1 -
+p735
+aVKevin Johnson PHX 11/29/1990 PHX vs. SEA W 25 19 5 9 55.6 0 0 - 9 9 100.0 0 0 0 6 2 0 6 0 -
+p736
+aVEd Nealy PHX 11/29/1990 PHX vs. SEA W 21 2 0 0 - 0 0 - 2 2 100.0 1 4 5 1 0 1 0 1 -
+p737
+aVJeff Hornacek PHX 11/29/1990 PHX vs. SEA W 24 12 5 9 55.6 0 0 - 2 2 100.0 0 6 6 4 0 0 0 0 -
+p738
+aVCedric Ceballos PHX 11/29/1990 PHX vs. SEA W 4 0 0 7 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p739
+aVAndrew Lang PHX 11/27/1990 PHX @ POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p740
+aVEddie Johnson PHX 11/27/1990 PHX @ POR W 23 25 7 12 58.3 3 4 75.0 8 10 80.0 1 1 2 0 1 0 1 3 -
+p741
+aVMark West PHX 11/27/1990 PHX @ POR W 23 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 0 0 5 2 6 -
+p742
+aVKurt Rambis PHX 11/27/1990 PHX @ POR W 20 2 1 4 25.0 0 0 - 0 0 - 2 6 8 1 1 0 1 3 -
+p743
+aVNegele Knight PHX 11/27/1990 PHX @ POR W 18 11 5 6 83.3 0 0 - 1 2 50.0 0 1 1 6 1 0 1 0 -
+p744
+aVKevin Johnson PHX 11/27/1990 PHX @ POR W 30 16 3 12 25.0 0 0 - 10 12 83.3 0 2 2 11 1 0 1 1 -
+p745
+aVEd Nealy PHX 11/27/1990 PHX @ POR W 26 5 1 3 33.3 0 0 - 3 4 75.0 2 5 7 2 1 0 1 2 -
+p746
+aVDan Majerle PHX 11/27/1990 PHX @ POR W 30 11 5 11 45.5 0 0 - 1 2 50.0 4 4 8 4 0 2 0 1 -
+p747
+aVTom Chambers PHX 11/27/1990 PHX @ POR W 36 28 11 19 57.9 1 2 50.0 5 8 62.5 1 7 8 1 0 0 3 3 -
+p748
+aVJeff Hornacek PHX 11/27/1990 PHX @ POR W 31 17 8 13 61.5 1 3 33.3 0 0 - 0 5 5 9 1 0 1 2 -
+p749
+aVAndrew Lang PHX 11/23/1990 PHX vs. NJN L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -
+p750
+aVKurt Rambis PHX 11/23/1990 PHX vs. NJN L 20 6 2 4 50.0 0 0 - 2 3 66.7 2 3 5 0 2 1 1 3 -
+p751
+aVEddie Johnson PHX 11/23/1990 PHX vs. NJN L 27 17 8 19 42.1 1 3 33.3 0 0 - 2 2 4 2 1 1 2 5 -
+p752
+aVKevin Johnson PHX 11/23/1990 PHX vs. NJN L 35 21 3 10 30.0 0 0 - 15 16 93.8 0 5 5 10 1 0 6 4 -
+p753
+aVCedric Ceballos PHX 11/23/1990 PHX vs. NJN L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p754
+aVJeff Hornacek PHX 11/23/1990 PHX vs. NJN L 31 12 5 11 45.5 0 0 - 2 2 100.0 2 3 5 5 1 0 3 3 -
+p755
+aVKenny Battle PHX 11/23/1990 PHX vs. NJN L 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 2 1 1 0 -
+p756
+aVEd Nealy PHX 11/23/1990 PHX vs. NJN L 15 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 1 0 0 0 1 -
+p757
+aVTom Chambers PHX 11/23/1990 PHX vs. NJN L 42 39 12 23 52.2 2 3 66.7 13 16 81.3 2 8 10 1 2 0 3 2 -
+p758
+aVMark West PHX 11/23/1990 PHX vs. NJN L 17 6 2 4 50.0 0 0 - 2 3 66.7 2 4 6 0 0 0 3 4 -
+p759
+aVDan Majerle PHX 11/23/1990 PHX vs. NJN L 32 10 2 4 50.0 0 0 - 6 7 85.7 2 2 4 4 4 0 1 3 -
+p760
+aVNegele Knight PHX 11/23/1990 PHX vs. NJN L 2 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p761
+aVKevin Johnson PHX 11/21/1990 PHX vs. CHI W 28 18 4 11 36.4 0 0 - 10 11 90.9 1 2 3 10 2 0 4 3 -
+p762
+aVKenny Battle PHX 11/21/1990 PHX vs. CHI W 11 6 1 3 33.3 0 0 - 4 4 100.0 1 0 1 1 0 0 1 1 -
+p763
+aVTom Chambers PHX 11/21/1990 PHX vs. CHI W 31 17 7 18 38.9 0 1 0.0 3 4 75.0 1 3 4 1 1 0 2 3 -
+p764
+aVMark West PHX 11/21/1990 PHX vs. CHI W 27 3 1 2 50.0 0 0 - 1 2 50.0 0 7 7 0 1 2 0 1 -
+p765
+aVJeff Hornacek PHX 11/21/1990 PHX vs. CHI W 37 24 9 17 52.9 1 2 50.0 5 6 83.3 0 4 4 4 1 0 1 1 -
+p766
+aVNegele Knight PHX 11/21/1990 PHX vs. CHI W 15 8 1 5 20.0 0 1 0.0 6 10 60.0 1 0 1 3 1 0 0 3 -
+p767
+aVEddie Johnson PHX 11/21/1990 PHX vs. CHI W 21 10 4 11 36.4 0 1 0.0 2 2 100.0 4 4 8 0 1 0 3 4 -
+p768
+aVDan Majerle PHX 11/21/1990 PHX vs. CHI W 33 12 5 11 45.5 0 0 - 2 2 100.0 3 3 6 1 5 1 1 2 -
+p769
+aVKurt Rambis PHX 11/21/1990 PHX vs. CHI W 28 7 2 5 40.0 0 0 - 3 4 75.0 3 7 10 1 0 0 1 3 -
+p770
+aVEd Nealy PHX 11/21/1990 PHX vs. CHI W 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 1 0 2 -
+p771
+aVCedric Ceballos PHX 11/17/1990 PHX @ SAN L 15 8 2 7 28.6 0 0 - 4 7 57.1 0 3 3 2 1 0 4 3 -
+p772
+aVJeff Hornacek PHX 11/17/1990 PHX @ SAN L 37 12 6 14 42.9 0 1 0.0 0 0 - 0 5 5 7 1 0 2 3 -
+p773
+aVMark West PHX 11/17/1990 PHX @ SAN L 19 13 3 3 100.0 0 0 - 7 8 87.5 2 5 7 0 1 0 3 3 -
+p774
+aVDan Majerle PHX 11/17/1990 PHX @ SAN L 29 9 4 12 33.3 0 1 0.0 1 3 33.3 4 4 8 1 5 0 0 1 -
+p775
+aVKurt Rambis PHX 11/17/1990 PHX @ SAN L 16 3 1 3 33.3 0 0 - 1 2 50.0 1 5 6 2 1 0 1 3 -
+p776
+aVKenny Battle PHX 11/17/1990 PHX @ SAN L 17 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 2 0 2 -
+p777
+aVTom Chambers PHX 11/17/1990 PHX @ SAN L 23 26 11 21 52.4 0 2 0.0 4 7 57.1 0 2 2 1 0 1 2 2 -
+p778
+aVKevin Johnson PHX 11/17/1990 PHX @ SAN L 31 12 4 10 40.0 0 0 - 4 4 100.0 0 1 1 9 0 0 3 5 -
+p779
+aVTim Perry PHX 11/17/1990 PHX @ SAN L 16 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 0 1 3 3 4 -
+p780
+aVEd Nealy PHX 11/17/1990 PHX @ SAN L 10 7 3 6 50.0 0 2 0.0 1 1 100.0 4 3 7 0 0 0 1 0 -
+p781
+aVEddie Johnson PHX 11/17/1990 PHX @ SAN L 23 14 7 16 43.8 0 1 0.0 0 0 - 1 2 3 1 3 0 3 2 -
+p782
+aVAndrew Lang PHX 11/17/1990 PHX @ SAN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p783
+aVTom Chambers PHX 11/16/1990 PHX vs. LAC W 41 10 4 14 28.6 1 1 100.0 1 1 100.0 0 9 9 2 1 0 3 3 -
+p784
+aVKenny Battle PHX 11/16/1990 PHX vs. LAC W 30 12 5 8 62.5 0 0 - 2 3 66.7 3 3 6 2 2 1 0 3 -
+p785
+aVKevin Johnson PHX 11/16/1990 PHX vs. LAC W 45 32 9 24 37.5 0 1 0.0 14 16 87.5 1 7 8 11 1 1 10 2 -
+p786
+aVKurt Rambis PHX 11/16/1990 PHX vs. LAC W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 3 -
+p787
+aVMark West PHX 11/16/1990 PHX vs. LAC W 40 21 7 10 70.0 0 0 - 7 8 87.5 6 9 15 0 1 1 3 5 -
+p788
+aVCedric Ceballos PHX 11/16/1990 PHX vs. LAC W 11 7 2 7 28.6 0 0 - 3 4 75.0 4 2 6 0 0 0 0 0 -
+p789
+aVAndrew Lang PHX 11/16/1990 PHX vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 2 -
+p790
+aVEddie Johnson PHX 11/16/1990 PHX vs. LAC W 18 8 4 11 36.4 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p791
+aVJeff Hornacek PHX 11/16/1990 PHX vs. LAC W 42 27 13 20 65.0 0 1 0.0 1 5 20.0 3 7 10 6 1 0 2 2 -
+p792
+aVDan Majerle PHX 11/16/1990 PHX vs. LAC W 22 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 2 1 0 0 4 -
+p793
+aVTom Chambers PHX 11/14/1990 PHX @ LAC L 32 24 9 24 37.5 0 1 0.0 6 8 75.0 0 5 5 1 3 1 3 4 -
+p794
+aVMark West PHX 11/14/1990 PHX @ LAC L 33 8 2 6 33.3 0 0 - 4 6 66.7 5 6 11 0 0 5 4 2 -
+p795
+aVDan Majerle PHX 11/14/1990 PHX @ LAC L 24 5 1 9 11.1 1 1 100.0 2 2 100.0 3 2 5 1 0 2 1 0 -
+p796
+aVEd Nealy PHX 11/14/1990 PHX @ LAC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p797
+aVKenny Battle PHX 11/14/1990 PHX @ LAC L 13 7 2 6 33.3 0 0 - 3 4 75.0 2 0 2 0 0 0 0 0 -
+p798
+aVJeff Hornacek PHX 11/14/1990 PHX @ LAC L 35 13 5 11 45.5 0 3 0.0 3 3 100.0 2 4 6 3 1 0 1 5 -
+p799
+aVCedric Ceballos PHX 11/14/1990 PHX @ LAC L 13 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 2 -
+p800
+aVKevin Johnson PHX 11/14/1990 PHX @ LAC L 40 14 3 10 30.0 0 0 - 8 9 88.9 0 2 2 13 3 1 2 1 -
+p801
+aVTim Perry PHX 11/14/1990 PHX @ LAC L 9 2 1 5 20.0 0 0 - 0 0 - 3 3 6 1 0 0 2 1 -
+p802
+aVKurt Rambis PHX 11/14/1990 PHX @ LAC L 14 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 1 -
+p803
+aVEddie Johnson PHX 11/14/1990 PHX @ LAC L 21 13 6 13 46.2 1 2 50.0 0 1 0.0 1 3 4 1 0 1 1 0 -
+p804
+aVCedric Ceballos PHX 11/13/1990 PHX @ LAL W 7 10 5 9 55.6 0 0 - 0 0 - 4 0 4 2 1 1 1 1 -
+p805
+aVEddie Johnson PHX 11/13/1990 PHX @ LAL W 12 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -
+p806
+aVTom Chambers PHX 11/13/1990 PHX @ LAL W 34 20 9 17 52.9 0 0 - 2 3 66.7 2 2 4 3 2 0 3 5 -
+p807
+aVDan Majerle PHX 11/13/1990 PHX @ LAL W 33 10 5 7 71.4 0 0 - 0 0 - 1 6 7 4 2 1 3 2 -
+p808
+aVJeff Hornacek PHX 11/13/1990 PHX @ LAL W 25 18 8 14 57.1 2 3 66.7 0 0 - 2 1 3 6 0 0 2 5 -
+p809
+aVKenny Battle PHX 11/13/1990 PHX @ LAL W 18 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 -
+p810
+aVKevin Johnson PHX 11/13/1990 PHX @ LAL W 43 24 9 15 60.0 0 0 - 6 6 100.0 0 4 4 14 3 0 5 3 -
+p811
+aVMark West PHX 11/13/1990 PHX @ LAL W 29 16 7 10 70.0 0 0 - 2 2 100.0 0 6 6 1 0 5 4 3 -
+p812
+aVPHX 11/13/1990 PHX @ LAL W 0 2 1 3 33.3 - - - 0 0 - - - - 0 - - - 0 -
+p813
+aVTim Perry PHX 11/13/1990 PHX @ LAL W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -
+p814
+aVMark West PHX 11/10/1990 PHX vs. DEN W 16 16 8 8 100.0 0 0 - 0 0 - 1 4 5 0 1 2 2 4 -
+p815
+aVCedric Ceballos PHX 11/10/1990 PHX vs. DEN W 23 32 12 15 80.0 0 0 - 8 12 66.7 2 2 4 2 0 1 3 2 -
+p816
+aVKurt Rambis PHX 11/10/1990 PHX vs. DEN W 10 6 1 2 50.0 0 0 - 4 4 100.0 0 1 1 0 0 0 2 1 -
+p817
+aVKenny Battle PHX 11/10/1990 PHX vs. DEN W 26 23 8 14 57.1 0 1 0.0 7 8 87.5 2 8 10 5 5 0 2 5 -
+p818
+aVKevin Johnson PHX 11/10/1990 PHX vs. DEN W 34 23 8 11 72.7 0 0 - 7 8 87.5 1 4 5 17 5 0 4 3 -
+p819
+aVTim Perry PHX 11/10/1990 PHX vs. DEN W 22 8 3 4 75.0 0 0 - 2 4 50.0 3 7 10 3 4 3 3 3 -
+p820
+aVDan Majerle PHX 11/10/1990 PHX vs. DEN W 36 21 9 18 50.0 0 0 - 3 4 75.0 2 5 7 13 2 1 5 2 -
+p821
+aVEddie Johnson PHX 11/10/1990 PHX vs. DEN W 17 12 6 9 66.7 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -
+p822
+aVTom Chambers PHX 11/10/1990 PHX vs. DEN W 29 20 7 15 46.7 0 1 0.0 6 6 100.0 0 6 6 3 0 0 3 4 -
+p823
+aVJeff Hornacek PHX 11/10/1990 PHX vs. DEN W 27 12 5 8 62.5 0 0 - 2 2 100.0 1 3 4 7 1 0 2 1 -
+p824
+aVEddie Johnson PHX 11/07/1990 PHX vs. GOS W 32 35 16 25 64.0 0 1 0.0 3 6 50.0 1 2 3 3 1 0 5 4 -
+p825
+aVTim Perry PHX 11/07/1990 PHX vs. GOS W 14 7 2 2 100.0 0 0 - 3 4 75.0 2 2 4 0 0 2 0 4 -
+p826
+aVKenny Battle PHX 11/07/1990 PHX vs. GOS W 31 10 5 7 71.4 0 0 - 0 0 - 2 6 8 2 2 1 4 1 -
+p827
+aVKurt Rambis PHX 11/07/1990 PHX vs. GOS W 16 8 4 4 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -
+p828
+aVKevin Johnson PHX 11/07/1990 PHX vs. GOS W 40 22 7 17 41.2 0 0 - 8 8 100.0 1 6 7 14 3 0 2 3 -
+p829
+aVMark West PHX 11/07/1990 PHX vs. GOS W 28 13 4 4 100.0 0 0 - 5 7 71.4 2 1 3 0 0 1 2 3 -
+p830
+aVDan Majerle PHX 11/07/1990 PHX vs. GOS W 38 11 2 6 33.3 0 0 - 7 8 87.5 1 6 7 9 3 0 2 4 -
+p831
+aVCedric Ceballos PHX 11/07/1990 PHX vs. GOS W 8 5 2 6 33.3 0 0 - 1 2 50.0 3 2 5 0 0 0 1 0 -
+p832
+aVTom Chambers PHX 11/07/1990 PHX vs. GOS W 33 15 5 17 29.4 0 1 0.0 5 5 100.0 1 5 6 4 3 0 6 6 -
+p833
+aVKenny Battle PHX 11/03/1990 PHX vs. UTH L 31 11 5 9 55.6 0 0 - 1 3 33.3 4 0 4 1 1 0 2 4 -
+p834
+aVDan Majerle PHX 11/03/1990 PHX vs. UTH L 34 7 3 9 33.3 0 0 - 1 4 25.0 3 6 9 2 1 0 1 2 -
+p835
+aVEddie Johnson PHX 11/03/1990 PHX vs. UTH L 19 11 5 12 41.7 0 1 0.0 1 1 100.0 1 6 7 1 0 0 0 2 -
+p836
+aVKevin Johnson PHX 11/03/1990 PHX vs. UTH L 45 28 7 22 31.8 0 3 0.0 14 17 82.4 1 2 3 4 2 0 5 3 -
+p837
+aVCedric Ceballos PHX 11/03/1990 PHX vs. UTH L 11 6 2 5 40.0 0 0 - 2 6 33.3 2 0 2 0 0 0 0 0 -
+p838
+aVKurt Rambis PHX 11/03/1990 PHX vs. UTH L 23 8 4 5 80.0 0 0 - 0 0 - 2 4 6 2 1 0 0 6 -
+p839
+aVTim Perry PHX 11/03/1990 PHX vs. UTH L 8 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 0 0 1 0 1 -
+p840
+aVMark West PHX 11/03/1990 PHX vs. UTH L 26 7 3 3 100.0 0 0 - 1 1 100.0 1 4 5 0 0 0 0 5 -
+p841
+aVTom Chambers PHX 11/03/1990 PHX vs. UTH L 32 19 4 12 33.3 0 1 0.0 11 11 100.0 1 5 6 4 0 1 3 4 -
+p842
+aVEd Nealy PHX 11/03/1990 PHX vs. UTH L 11 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -
+p843
+aVJeff Hornacek PHX 11/02/1990 PHX @ UTH W 30 6 3 10 30.0 0 0 - 0 0 - 2 1 3 6 0 0 2 3 -
+p844
+aVTim Perry PHX 11/02/1990 PHX @ UTH W 6 0 0 1 0.0 0 0 - 0 0 - 0 4 4 2 0 2 0 2 -
+p845
+aVMark West PHX 11/02/1990 PHX @ UTH W 37 7 2 5 40.0 0 0 - 3 5 60.0 4 6 10 0 1 1 0 4 -
+p846
+aVEddie Johnson PHX 11/02/1990 PHX @ UTH W 10 8 4 8 50.0 0 1 0.0 0 1 0.0 0 0 0 2 0 0 1 2 -
+p847
+aVCedric Ceballos PHX 11/02/1990 PHX @ UTH W 2 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p848
+aVKenny Battle PHX 11/02/1990 PHX @ UTH W 28 7 3 8 37.5 0 0 - 1 4 25.0 2 1 3 2 3 0 3 4 -
+p849
+aVTom Chambers PHX 11/02/1990 PHX @ UTH W 38 38 14 24 58.3 0 1 0.0 10 13 76.9 1 9 10 3 2 0 1 2 -
+p850
+aVDan Majerle PHX 11/02/1990 PHX @ UTH W 28 16 5 10 50.0 0 1 0.0 6 6 100.0 0 3 3 2 3 0 1 3 -
+p851
+aVKevin Johnson PHX 11/02/1990 PHX @ UTH W 40 29 12 18 66.7 0 1 0.0 5 5 100.0 0 1 1 10 3 0 4 4 -
+p852
+aVIan Lockhart PHX 11/02/1990 PHX @ UTH W 2 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p853
+aVKurt Rambis PHX 11/02/1990 PHX @ UTH W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 2 0 0 1 -
+p854
+aVEd Nealy PHX 11/02/1990 PHX @ UTH W 5 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 1 0 0 0 -
+p855
+a.

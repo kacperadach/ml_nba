@@ -1,0 +1,130 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVYao Ming HOU 05/05/2007 HOU vs. UTA L 37 29 9 20 45.0 0 0 - 11 13 84.6 2 4 6 0 0 1 4 5 -6
+p2
+aVCharles Hayes HOU 05/05/2007 HOU vs. UTA L 28 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -9
+p3
+aVJuwan Howard HOU 05/05/2007 HOU vs. UTA L 27 2 1 3 33.3 0 0 - 0 2 0.0 3 4 7 2 0 0 0 2 6
+p4
+aVRafer Alston HOU 05/05/2007 HOU vs. UTA L 45 11 3 11 27.3 2 8 25.0 3 4 75.0 0 4 4 4 4 0 1 5 1
+p5
+aVLuther Head HOU 05/05/2007 HOU vs. UTA L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 4
+p6
+aVDikembe Mutombo HOU 05/05/2007 HOU vs. UTA L 3 3 1 1 100.0 0 0 - 1 1 100.0 1 2 3 0 0 1 0 0 1
+p7
+aVShane Battier HOU 05/05/2007 HOU vs. UTA L 42 16 4 7 57.1 4 7 57.1 4 4 100.0 2 2 4 3 3 2 1 3 -10
+p8
+aVTracy McGrady HOU 05/05/2007 HOU vs. UTA L 42 29 12 25 48.0 0 4 0.0 5 9 55.6 0 5 5 13 0 3 2 1 -7
+p9
+aVRafer Alston HOU 05/03/2007 HOU @ UTA L 43 13 5 14 35.7 3 8 37.5 0 0 - 0 5 5 3 1 0 0 2 -11
+p10
+aVDikembe Mutombo HOU 05/03/2007 HOU @ UTA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p11
+aVTracy McGrady HOU 05/03/2007 HOU @ UTA L 41 26 8 23 34.8 1 6 16.7 9 10 90.0 2 8 10 3 0 0 5 0 -16
+p12
+aVJuwan Howard HOU 05/03/2007 HOU @ UTA L 22 6 3 5 60.0 0 0 - 0 0 - 1 5 6 2 0 0 0 3 -2
+p13
+aVCharles Hayes HOU 05/03/2007 HOU @ UTA L 31 2 1 1 100.0 0 0 - 0 0 - 1 4 5 2 0 0 2 2 -13
+p14
+aVLuther Head HOU 05/03/2007 HOU @ UTA L 23 4 1 2 50.0 1 2 50.0 1 2 50.0 1 2 3 1 0 0 1 6 12
+p15
+aVYao Ming HOU 05/03/2007 HOU @ UTA L 37 25 9 16 56.3 0 0 - 7 9 77.8 2 4 6 1 0 0 8 4 -8
+p16
+aVJohn Lucas III HOU 05/03/2007 HOU @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p17
+aVShane Battier HOU 05/03/2007 HOU @ UTA L 39 4 1 5 20.0 1 5 20.0 1 2 50.0 0 2 2 4 3 1 3 4 -23
+p18
+aVLuther Head HOU 04/30/2007 HOU vs. UTA W 15 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 0 0 0 2 2 0
+p19
+aVTracy McGrady HOU 04/30/2007 HOU vs. UTA W 43 26 11 25 44.0 2 5 40.0 2 4 50.0 0 4 4 16 1 0 4 2 6
+p20
+aVJuwan Howard HOU 04/30/2007 HOU vs. UTA W 26 12 6 6 100.0 0 0 - 0 0 - 4 2 6 3 2 0 1 0 7
+p21
+aVRafer Alston HOU 04/30/2007 HOU vs. UTA W 44 14 4 10 40.0 3 7 42.9 3 4 75.0 1 5 6 4 4 0 3 4 0
+p22
+aVKirk Snyder HOU 04/30/2007 HOU vs. UTA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p23
+aVDikembe Mutombo HOU 04/30/2007 HOU vs. UTA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p24
+aVCharles Hayes HOU 04/30/2007 HOU vs. UTA W 27 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 3 2 1 3 -3
+p25
+aVShane Battier HOU 04/30/2007 HOU vs. UTA W 39 15 5 7 71.4 5 7 71.4 0 0 - 0 3 3 0 2 2 1 1 9
+p26
+aVYao Ming HOU 04/30/2007 HOU vs. UTA W 39 21 6 18 33.3 0 0 - 9 10 90.0 4 11 15 2 0 1 4 3 2
+p27
+aVVassilis Spanoulis HOU 04/28/2007 HOU @ UTA L 3 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 10
+p28
+aVJuwan Howard HOU 04/28/2007 HOU @ UTA L 19 5 2 7 28.6 0 0 - 1 3 33.3 2 1 3 0 0 0 0 2 -5
+p29
+aVJake Tsakalidis HOU 04/28/2007 HOU @ UTA L 3 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 0 0 0 0 10
+p30
+aVRafer Alston HOU 04/28/2007 HOU @ UTA L 40 12 5 14 35.7 2 7 28.6 0 0 - 1 8 9 6 1 1 2 4 -15
+p31
+aVShane Battier HOU 04/28/2007 HOU @ UTA L 38 10 4 8 50.0 2 5 40.0 0 0 - 0 0 0 5 0 0 1 2 -11
+p32
+aVCharles Hayes HOU 04/28/2007 HOU @ UTA L 28 4 2 3 66.7 0 1 0.0 0 1 0.0 0 4 4 0 3 0 1 4 -12
+p33
+aVJohn Lucas III HOU 04/28/2007 HOU @ UTA L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 2 0 2
+p34
+aVDikembe Mutombo HOU 04/28/2007 HOU @ UTA L 7 2 1 1 100.0 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -5
+p35
+aVTracy McGrady HOU 04/28/2007 HOU @ UTA L 37 18 6 18 33.3 1 3 33.3 5 6 83.3 0 4 4 4 0 0 2 5 -17
+p36
+aVYao Ming HOU 04/28/2007 HOU @ UTA L 36 20 8 15 53.3 0 0 - 4 4 100.0 4 5 9 2 0 1 5 5 -13
+p37
+aVLuther Head HOU 04/28/2007 HOU @ UTA L 21 8 3 7 42.9 1 3 33.3 1 2 50.0 1 1 2 0 1 0 2 3 -9
+p38
+aVJuwan Howard HOU 04/26/2007 HOU @ UTA L 14 0 0 5 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -15
+p39
+aVRafer Alston HOU 04/26/2007 HOU @ UTA L 45 6 2 5 40.0 2 4 50.0 0 0 - 1 6 7 5 1 1 5 2 -5
+p40
+aVLuther Head HOU 04/26/2007 HOU @ UTA L 24 0 0 5 0.0 0 3 0.0 0 0 - 0 3 3 0 1 1 0 3 -17
+p41
+aVYao Ming HOU 04/26/2007 HOU @ UTA L 39 26 6 14 42.9 0 0 - 14 16 87.5 3 11 14 1 0 1 8 3 -8
+p42
+aVCharles Hayes HOU 04/26/2007 HOU @ UTA L 29 0 0 2 0.0 0 0 - 0 2 0.0 3 4 7 1 1 0 2 4 3
+p43
+aVDikembe Mutombo HOU 04/26/2007 HOU @ UTA L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -6
+p44
+aVKirk Snyder HOU 04/26/2007 HOU @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p45
+aVShane Battier HOU 04/26/2007 HOU @ UTA L 41 11 4 10 40.0 3 7 42.9 0 0 - 0 5 5 1 1 2 0 2 -8
+p46
+aVTracy McGrady HOU 04/26/2007 HOU @ UTA L 39 24 9 23 39.1 1 5 20.0 5 8 62.5 1 3 4 3 1 1 4 2 -5
+p47
+aVKirk Snyder HOU 04/23/2007 HOU vs. UTA W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p48
+aVYao Ming HOU 04/23/2007 HOU vs. UTA W 37 27 9 24 37.5 0 0 - 9 9 100.0 4 5 9 0 0 0 0 5 8
+p49
+aVTracy McGrady HOU 04/23/2007 HOU vs. UTA W 38 31 9 29 31.0 1 8 12.5 12 14 85.7 2 8 10 5 2 0 0 2 3
+p50
+aVCharles Hayes HOU 04/23/2007 HOU vs. UTA W 27 12 5 5 100.0 0 0 - 2 2 100.0 7 5 12 0 1 0 1 1 5
+p51
+aVDikembe Mutombo HOU 04/23/2007 HOU vs. UTA W 7 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -3
+p52
+aVLuther Head HOU 04/23/2007 HOU vs. UTA W 17 1 0 3 0.0 0 3 0.0 1 2 50.0 0 4 4 4 0 0 2 0 3
+p53
+aVRafer Alston HOU 04/23/2007 HOU vs. UTA W 45 11 3 9 33.3 1 6 16.7 4 5 80.0 2 4 6 5 0 1 3 2 13
+p54
+aVShane Battier HOU 04/23/2007 HOU vs. UTA W 42 10 3 7 42.9 2 6 33.3 2 2 100.0 1 1 2 1 2 0 1 4 11
+p55
+aVJuwan Howard HOU 04/23/2007 HOU vs. UTA W 25 2 0 4 0.0 0 0 - 2 2 100.0 0 5 5 0 1 0 1 1 5
+p56
+aVCharles Hayes HOU 04/21/2007 HOU vs. UTA W 28 4 2 3 66.7 0 0 - 0 0 - 1 8 9 0 1 1 0 4 11
+p57
+aVLuther Head HOU 04/21/2007 HOU vs. UTA W 26 6 2 8 25.0 1 6 16.7 1 2 50.0 0 4 4 3 1 1 0 2 6
+p58
+aVShane Battier HOU 04/21/2007 HOU vs. UTA W 31 6 2 7 28.6 2 6 33.3 0 0 - 0 2 2 1 1 0 1 4 7
+p59
+aVTracy McGrady HOU 04/21/2007 HOU vs. UTA W 40 23 8 17 47.1 3 5 60.0 4 6 66.7 0 4 4 7 1 2 4 0 7
+p60
+aVYao Ming HOU 04/21/2007 HOU vs. UTA W 35 28 8 18 44.4 0 0 - 12 14 85.7 4 9 13 0 1 1 4 2 -1
+p61
+aVDikembe Mutombo HOU 04/21/2007 HOU vs. UTA W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 3
+p62
+aVRafer Alston HOU 04/21/2007 HOU vs. UTA W 47 9 3 11 27.3 3 10 30.0 0 0 - 1 10 11 8 2 0 3 4 10
+p63
+aVJuwan Howard HOU 04/21/2007 HOU vs. UTA W 24 8 2 5 40.0 0 0 - 4 4 100.0 0 3 3 0 1 0 2 0 2
+p64
+a.

@@ -1,0 +1,1712 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJaKarr Sampson PHI 04/15/2015 PHI vs. MIA L 35 22 8 15 53.3 0 5 0.0 6 7 85.7 1 4 5 6 3 1 5 4 -1
+p2
+aVThomas Robinson PHI 04/15/2015 PHI vs. MIA L 26 13 5 7 71.4 0 0 - 3 3 100.0 1 9 10 4 2 0 6 3 6
+p3
+aVGlenn Robinson PHI 04/15/2015 PHI vs. MIA L 36 10 5 9 55.6 0 2 0.0 0 0 - 4 4 8 3 1 0 1 3 -7
+p4
+aVRobert Covington PHI 04/15/2015 PHI vs. MIA L 29 19 4 14 28.6 2 9 22.2 9 10 90.0 2 2 4 2 1 2 1 3 -15
+p5
+aVHollis Thompson PHI 04/15/2015 PHI vs. MIA L 31 19 8 15 53.3 3 7 42.9 0 0 - 0 1 1 4 0 0 0 3 0
+p6
+aVJerami Grant PHI 04/15/2015 PHI vs. MIA L 41 8 3 13 23.1 0 6 0.0 2 5 40.0 1 5 6 4 0 1 2 1 -4
+p7
+aVHenry Sims PHI 04/15/2015 PHI vs. MIA L 40 10 5 10 50.0 0 0 - 0 0 - 4 7 11 3 0 1 1 4 1
+p8
+aVHollis Thompson PHI 04/13/2015 PHI vs. MIL L 36 19 7 18 38.9 3 10 30.0 2 2 100.0 3 1 4 0 0 0 2 5 -17
+p9
+aVGlenn Robinson PHI 04/13/2015 PHI vs. MIL L 20 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 1 -3
+p10
+aVThomas Robinson PHI 04/13/2015 PHI vs. MIL L 21 12 4 8 50.0 0 0 - 4 6 66.7 2 4 6 1 0 0 3 1 -6
+p11
+aVJerami Grant PHI 04/13/2015 PHI vs. MIL L 28 8 3 9 33.3 1 4 25.0 1 4 25.0 1 6 7 4 3 0 1 4 -7
+p12
+aVRobert Covington PHI 04/13/2015 PHI vs. MIL L 33 25 6 13 46.2 1 6 16.7 12 13 92.3 1 6 7 1 1 4 10 3 2
+p13
+aVIsh Smith PHI 04/13/2015 PHI vs. MIL L 34 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 9 3 0 5 2 -8
+p14
+aVJaKarr Sampson PHI 04/13/2015 PHI vs. MIL L 21 10 3 8 37.5 0 4 0.0 4 4 100.0 2 3 5 1 1 1 2 3 -1
+p15
+aVHenry Sims PHI 04/13/2015 PHI vs. MIL L 26 10 3 13 23.1 0 2 0.0 4 5 80.0 3 3 6 2 2 1 4 5 -7
+p16
+aVFurkan Aldemir PHI 04/13/2015 PHI vs. MIL L 22 2 1 2 50.0 0 0 - 0 0 - 2 3 5 3 0 0 1 4 -3
+p17
+aVRobert Covington PHI 04/11/2015 PHI @ CHI L 37 22 8 19 42.1 1 9 11.1 5 5 100.0 0 3 3 5 1 0 2 3 -3
+p18
+aVHollis Thompson PHI 04/11/2015 PHI @ CHI L 33 15 4 13 30.8 4 7 57.1 3 3 100.0 0 2 2 2 0 0 0 1 2
+p19
+aVJaKarr Sampson PHI 04/11/2015 PHI @ CHI L 28 18 7 13 53.8 1 5 20.0 3 4 75.0 3 4 7 4 0 0 2 2 -23
+p20
+aVJerami Grant PHI 04/11/2015 PHI @ CHI L 33 13 3 10 30.0 2 8 25.0 5 7 71.4 1 5 6 3 0 1 5 3 -14
+p21
+aVFurkan Aldemir PHI 04/11/2015 PHI @ CHI L 25 2 1 2 50.0 0 0 - 0 0 - 4 4 8 0 1 0 3 5 -13
+p22
+aVJason Richardson PHI 04/11/2015 PHI @ CHI L 25 19 7 13 53.8 4 8 50.0 1 2 50.0 0 4 4 2 1 0 1 4 8
+p23
+aVThomas Robinson PHI 04/11/2015 PHI @ CHI L 22 2 1 7 14.3 0 0 - 0 0 - 3 7 10 2 1 0 0 3 -5
+p24
+aVGlenn Robinson PHI 04/11/2015 PHI @ CHI L 25 10 3 7 42.9 1 4 25.0 3 4 75.0 1 2 3 1 0 0 2 3 2
+p25
+aVHenry Sims PHI 04/11/2015 PHI @ CHI L 13 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 1 2 0 5 11
+p26
+aVHenry Sims PHI 04/08/2015 PHI vs. WAS L 12 6 2 3 66.7 0 0 - 2 4 50.0 0 0 0 1 0 0 0 1 -8
+p27
+aVLuc Mbah a Moute PHI 04/08/2015 PHI vs. WAS L 24 7 3 10 30.0 1 3 33.3 0 0 - 1 3 4 1 1 0 1 1 -11
+p28
+aVFurkan Aldemir PHI 04/08/2015 PHI vs. WAS L 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 3 -17
+p29
+aVGlenn Robinson PHI 04/08/2015 PHI vs. WAS L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p30
+aVJason Richardson PHI 04/08/2015 PHI vs. WAS L 21 17 6 7 85.7 4 5 80.0 1 1 100.0 0 1 1 1 0 0 1 1 -13
+p31
+aVRobert Covington PHI 04/08/2015 PHI vs. WAS L 24 27 8 11 72.7 4 6 66.7 7 8 87.5 2 1 3 1 2 0 1 1 -12
+p32
+aVHollis Thompson PHI 04/08/2015 PHI vs. WAS L 17 4 2 7 28.6 0 3 0.0 0 0 - 2 0 2 0 0 0 0 2 -9
+p33
+aVJaKarr Sampson PHI 04/08/2015 PHI vs. WAS L 23 2 0 7 0.0 0 4 0.0 2 2 100.0 0 0 0 3 2 1 0 5 -17
+p34
+aVNerlens Noel PHI 04/08/2015 PHI vs. WAS L 24 5 2 8 25.0 0 0 - 1 2 50.0 3 5 8 1 1 0 0 1 -16
+p35
+aVJerami Grant PHI 04/08/2015 PHI vs. WAS L 27 6 1 9 11.1 0 4 0.0 4 6 66.7 0 2 2 0 2 0 1 2 -16
+p36
+aVIsh Smith PHI 04/08/2015 PHI vs. WAS L 25 3 1 9 11.1 0 2 0.0 1 2 50.0 0 0 0 6 1 0 3 3 -12
+p37
+aVThomas Robinson PHI 04/08/2015 PHI vs. WAS L 22 11 5 12 41.7 0 0 - 1 2 50.0 8 4 12 2 2 0 1 2 -7
+p38
+aVIsh Smith PHI 04/05/2015 PHI @ NYK L 32 17 8 18 44.4 1 4 25.0 0 1 0.0 0 1 1 7 2 0 1 3 -22
+p39
+aVJason Richardson PHI 04/05/2015 PHI @ NYK L 23 7 3 11 27.3 1 6 16.7 0 0 - 2 1 3 1 0 0 2 0 -11
+p40
+aVHollis Thompson PHI 04/05/2015 PHI @ NYK L 26 17 6 11 54.5 5 6 83.3 0 0 - 1 0 1 2 1 0 0 2 -10
+p41
+aVFurkan Aldemir PHI 04/05/2015 PHI @ NYK L 29 4 2 7 28.6 0 2 0.0 0 0 - 5 4 9 2 0 0 0 4 6
+p42
+aVJerami Grant PHI 04/05/2015 PHI @ NYK L 27 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 1 1 0 1 4 -5
+p43
+aVRobert Covington PHI 04/05/2015 PHI @ NYK L 29 14 4 13 30.8 3 10 30.0 3 4 75.0 2 1 3 2 1 0 3 3 0
+p44
+aVGlenn Robinson PHI 04/05/2015 PHI @ NYK L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p45
+aVNerlens Noel PHI 04/05/2015 PHI @ NYK L 37 14 7 14 50.0 0 0 - 0 1 0.0 5 4 9 4 1 2 1 3 -10
+p46
+aVHenry Sims PHI 04/05/2015 PHI @ NYK L 16 12 5 10 50.0 0 0 - 2 2 100.0 3 4 7 0 1 3 1 1 -13
+p47
+aVJaKarr Sampson PHI 04/05/2015 PHI @ NYK L 17 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 3 1 0 1 3 10
+p48
+aVIsh Smith PHI 04/04/2015 PHI @ CHA L 33 15 6 20 30.0 1 5 20.0 2 4 50.0 2 7 9 5 0 1 3 2 -1
+p49
+aVJerami Grant PHI 04/04/2015 PHI @ CHA L 29 10 3 7 42.9 2 3 66.7 2 4 50.0 0 4 4 2 2 6 2 4 3
+p50
+aVRobert Covington PHI 04/04/2015 PHI @ CHA L 30 15 4 10 40.0 3 6 50.0 4 4 100.0 1 5 6 1 1 0 3 3 -1
+p51
+aVHenry Sims PHI 04/04/2015 PHI @ CHA L 17 4 1 5 20.0 0 1 0.0 2 2 100.0 2 0 2 0 0 2 1 4 7
+p52
+aVFurkan Aldemir PHI 04/04/2015 PHI @ CHA L 29 8 2 4 50.0 0 0 - 4 6 66.7 2 4 6 2 0 2 0 4 -2
+p53
+aVLuc Mbah a Moute PHI 04/04/2015 PHI @ CHA L 31 8 1 7 14.3 1 3 33.3 5 8 62.5 2 3 5 0 0 1 2 2 -3
+p54
+aVJaKarr Sampson PHI 04/04/2015 PHI @ CHA L 17 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -2
+p55
+aVGlenn Robinson PHI 04/04/2015 PHI @ CHA L 19 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 1 0 1 2 1 2
+p56
+aVNerlens Noel PHI 04/04/2015 PHI @ CHA L 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 1 2 0 -4
+p57
+aVHollis Thompson PHI 04/04/2015 PHI @ CHA L 24 14 3 8 37.5 3 5 60.0 5 5 100.0 0 2 2 0 0 0 0 2 -4
+p58
+aVHenry Sims PHI 04/01/2015 PHI @ WAS L 6 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -5
+p59
+aVHollis Thompson PHI 04/01/2015 PHI @ WAS L 27 16 5 10 50.0 4 8 50.0 2 2 100.0 2 0 2 1 0 0 1 1 4
+p60
+aVJerami Grant PHI 04/01/2015 PHI @ WAS L 19 3 0 5 0.0 0 3 0.0 3 4 75.0 0 0 0 0 0 0 0 3 -14
+p61
+aVRobert Covington PHI 04/01/2015 PHI @ WAS L 26 6 2 10 20.0 1 5 20.0 1 1 100.0 1 4 5 3 1 0 1 1 -10
+p62
+aVJaKarr Sampson PHI 04/01/2015 PHI @ WAS L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 0
+p63
+aVIsh Smith PHI 04/01/2015 PHI @ WAS L 30 23 11 17 64.7 1 2 50.0 0 0 - 0 3 3 3 3 0 2 2 -9
+p64
+aVLuc Mbah a Moute PHI 04/01/2015 PHI @ WAS L 17 0 0 8 0.0 0 4 0.0 0 0 - 1 0 1 0 0 0 1 2 -16
+p65
+aVThomas Robinson PHI 04/01/2015 PHI @ WAS L 23 6 3 9 33.3 0 0 - 0 1 0.0 3 2 5 1 2 1 0 3 7
+p66
+aVJason Richardson PHI 04/01/2015 PHI @ WAS L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -5
+p67
+aVFurkan Aldemir PHI 04/01/2015 PHI @ WAS L 17 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 0 4 -9
+p68
+aVIsaiah Canaan PHI 04/01/2015 PHI @ WAS L 22 18 7 12 58.3 4 9 44.4 0 0 - 0 3 3 6 2 0 2 2 4
+p69
+aVNerlens Noel PHI 04/01/2015 PHI @ WAS L 38 14 5 9 55.6 0 0 - 4 7 57.1 4 6 10 3 2 2 1 1 -12
+p70
+aVIsh Smith PHI 03/30/2015 PHI vs. LAL L 32 17 8 20 40.0 1 3 33.3 0 0 - 1 4 5 3 1 0 0 2 0
+p71
+aVIsaiah Canaan PHI 03/30/2015 PHI vs. LAL L 27 18 4 9 44.4 3 7 42.9 7 7 100.0 0 0 0 3 3 0 3 1 -4
+p72
+aVNerlens Noel PHI 03/30/2015 PHI vs. LAL L 36 19 7 18 38.9 0 0 - 5 10 50.0 7 7 14 4 1 1 3 2 -8
+p73
+aVRobert Covington PHI 03/30/2015 PHI vs. LAL L 32 12 4 13 30.8 3 10 30.0 1 2 50.0 2 3 5 4 0 0 5 3 -10
+p74
+aVJaKarr Sampson PHI 03/30/2015 PHI vs. LAL L 25 7 2 4 50.0 2 4 50.0 1 2 50.0 0 1 1 2 2 0 0 1 -9
+p75
+aVHenry Sims PHI 03/30/2015 PHI vs. LAL L 25 8 4 9 44.4 0 1 0.0 0 0 - 2 5 7 2 1 0 2 0 6
+p76
+aVGlenn Robinson PHI 03/30/2015 PHI vs. LAL L 25 8 3 8 37.5 1 4 25.0 1 4 25.0 3 3 6 1 1 0 0 1 5
+p77
+aVThomas Robinson PHI 03/30/2015 PHI vs. LAL L 24 13 4 7 57.1 0 0 - 5 7 71.4 3 2 5 2 1 0 1 4 3
+p78
+aVHollis Thompson PHI 03/30/2015 PHI vs. LAL L 18 1 0 4 0.0 0 1 0.0 1 2 50.0 1 2 3 5 1 0 0 4 11
+p79
+aVFurkan Aldemir PHI 03/30/2015 PHI vs. LAL L 20 8 3 4 75.0 0 0 - 2 4 50.0 1 4 5 1 0 0 1 6 -4
+p80
+aVJerami Grant PHI 03/29/2015 PHI @ CLE L 22 2 0 4 0.0 0 2 0.0 2 4 50.0 0 2 2 0 0 0 2 2 -6
+p81
+aVJaKarr Sampson PHI 03/29/2015 PHI @ CLE L 17 9 4 7 57.1 1 2 50.0 0 0 - 0 3 3 1 0 0 0 1 -5
+p82
+aVHollis Thompson PHI 03/29/2015 PHI @ CLE L 24 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 0 2 0 0 2 0
+p83
+aVRobert Covington PHI 03/29/2015 PHI @ CLE L 31 19 7 13 53.8 5 9 55.6 0 2 0.0 0 4 4 1 1 0 1 5 4
+p84
+aVNerlens Noel PHI 03/29/2015 PHI @ CLE L 34 8 4 12 33.3 0 0 - 0 0 - 1 10 11 3 2 0 2 4 4
+p85
+aVIsaiah Canaan PHI 03/29/2015 PHI @ CLE L 17 8 3 11 27.3 2 7 28.6 0 0 - 0 1 1 5 1 0 3 2 2
+p86
+aVLuc Mbah a Moute PHI 03/29/2015 PHI @ CLE L 25 8 2 8 25.0 1 3 33.3 3 4 75.0 0 4 4 1 3 0 0 0 -1
+p87
+aVHenry Sims PHI 03/29/2015 PHI @ CLE L 13 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 1 3 -5
+p88
+aVFurkan Aldemir PHI 03/29/2015 PHI @ CLE L 27 11 5 6 83.3 0 1 0.0 1 2 50.0 7 3 10 0 1 0 0 2 5
+p89
+aVIsh Smith PHI 03/29/2015 PHI @ CLE L 31 11 5 16 31.3 0 4 0.0 1 1 100.0 1 4 5 7 1 0 4 0 -3
+p90
+aVJason Richardson PHI 03/27/2015 PHI vs. LAC L 13 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 0 1 0 0 0 -21
+p91
+aVGlenn Robinson PHI 03/27/2015 PHI vs. LAC L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 4
+p92
+aVLuc Mbah a Moute PHI 03/27/2015 PHI vs. LAC L 22 13 4 8 50.0 3 5 60.0 2 4 50.0 1 3 4 2 0 1 1 1 -13
+p93
+aVJaKarr Sampson PHI 03/27/2015 PHI vs. LAC L 15 3 1 9 11.1 1 3 33.3 0 0 - 1 2 3 0 1 0 0 1 -3
+p94
+aVIsh Smith PHI 03/27/2015 PHI vs. LAC L 32 18 8 14 57.1 2 2 100.0 0 1 0.0 0 2 2 9 2 0 3 3 -5
+p95
+aVHollis Thompson PHI 03/27/2015 PHI vs. LAC L 21 10 4 7 57.1 0 2 0.0 2 2 100.0 0 0 0 3 1 0 0 2 -15
+p96
+aVJerami Grant PHI 03/27/2015 PHI vs. LAC L 23 6 2 7 28.6 1 5 20.0 1 2 50.0 0 4 4 0 1 0 3 3 -8
+p97
+aVFurkan Aldemir PHI 03/27/2015 PHI vs. LAC L 12 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 1 0 0 1 5
+p98
+aVThomas Robinson PHI 03/27/2015 PHI vs. LAC L 12 2 0 5 0.0 0 0 - 2 6 33.3 0 3 3 0 0 0 0 4 -11
+p99
+aVNerlens Noel PHI 03/27/2015 PHI vs. LAC L 39 30 12 17 70.6 0 0 - 6 8 75.0 5 9 14 2 2 0 4 3 -8
+p100
+aVRobert Covington PHI 03/27/2015 PHI vs. LAC L 24 2 0 4 0.0 0 4 0.0 2 2 100.0 0 3 3 1 2 0 1 2 -8
+p101
+aVIsaiah Canaan PHI 03/27/2015 PHI vs. LAC L 20 9 3 7 42.9 3 7 42.9 0 0 - 0 2 2 0 0 0 0 4 -22
+p102
+aVJaKarr Sampson PHI 03/25/2015 PHI @ DEN W 16 6 2 4 50.0 1 3 33.3 1 2 50.0 3 3 6 2 0 0 2 4 -16
+p103
+aVFurkan Aldemir PHI 03/25/2015 PHI @ DEN W 14 4 2 4 50.0 0 0 - 0 0 - 4 2 6 1 2 0 0 3 -10
+p104
+aVHollis Thompson PHI 03/25/2015 PHI @ DEN W 24 8 3 9 33.3 2 4 50.0 0 0 - 0 1 1 1 1 0 4 3 8
+p105
+aVJason Richardson PHI 03/25/2015 PHI @ DEN W 25 8 3 13 23.1 1 6 16.7 1 2 50.0 1 3 4 3 0 1 1 1 15
+p106
+aVThomas Robinson PHI 03/25/2015 PHI @ DEN W 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 1 1 2 1 -10
+p107
+aVGlenn Robinson PHI 03/25/2015 PHI @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p108
+aVIsaiah Canaan PHI 03/25/2015 PHI @ DEN W 22 15 4 11 36.4 2 5 40.0 5 6 83.3 0 3 3 1 1 0 1 2 1
+p109
+aVRobert Covington PHI 03/25/2015 PHI @ DEN W 29 25 8 17 47.1 6 11 54.5 3 3 100.0 1 5 6 0 2 1 0 3 17
+p110
+aVIsh Smith PHI 03/25/2015 PHI @ DEN W 27 9 4 9 44.4 1 1 100.0 0 0 - 0 2 2 2 3 0 2 2 21
+p111
+aVJerami Grant PHI 03/25/2015 PHI @ DEN W 32 6 2 5 40.0 1 4 25.0 1 2 50.0 0 4 4 3 0 5 1 2 24
+p112
+aVNerlens Noel PHI 03/25/2015 PHI @ DEN W 33 14 5 8 62.5 0 0 - 4 7 57.1 4 11 15 2 4 4 2 1 22
+p113
+aVIsaiah Canaan PHI 03/24/2015 PHI @ SAC L 19 13 5 10 50.0 2 6 33.3 1 1 100.0 0 0 0 1 1 0 1 1 -7
+p114
+aVIsh Smith PHI 03/24/2015 PHI @ SAC L 29 13 5 14 35.7 1 2 50.0 2 2 100.0 0 8 8 7 1 0 7 2 3
+p115
+aVRobert Covington PHI 03/24/2015 PHI @ SAC L 27 21 7 9 77.8 5 6 83.3 2 4 50.0 0 3 3 1 1 1 4 5 11
+p116
+aVFurkan Aldemir PHI 03/24/2015 PHI @ SAC L 10 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 4 1
+p117
+aVLuc Mbah a Moute PHI 03/24/2015 PHI @ SAC L 28 5 1 5 20.0 1 3 33.3 2 2 100.0 0 6 6 1 2 2 0 0 6
+p118
+aVJaKarr Sampson PHI 03/24/2015 PHI @ SAC L 19 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 2 1
+p119
+aVThomas Robinson PHI 03/24/2015 PHI @ SAC L 21 16 7 12 58.3 0 0 - 2 4 50.0 2 6 8 2 0 1 1 3 -9
+p120
+aVJerami Grant PHI 03/24/2015 PHI @ SAC L 22 3 1 3 33.3 1 2 50.0 0 2 0.0 0 2 2 1 0 0 2 5 -6
+p121
+aVNerlens Noel PHI 03/24/2015 PHI @ SAC L 29 14 5 10 50.0 0 0 - 4 5 80.0 3 7 10 3 0 6 2 5 7
+p122
+aVHollis Thompson PHI 03/24/2015 PHI @ SAC L 27 11 5 11 45.5 1 5 20.0 0 1 0.0 1 1 2 1 0 1 2 1 -3
+p123
+aVHenry Sims PHI 03/24/2015 PHI @ SAC L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -9
+p124
+aVNerlens Noel PHI 03/22/2015 PHI @ LAL L 33 9 4 9 44.4 0 0 - 1 2 50.0 0 7 7 1 0 2 0 2 -13
+p125
+aVIsaiah Canaan PHI 03/22/2015 PHI @ LAL L 22 3 1 12 8.3 1 6 16.7 0 0 - 1 0 1 2 0 0 1 5 -1
+p126
+aVThomas Robinson PHI 03/22/2015 PHI @ LAL L 16 14 7 8 87.5 0 0 - 0 0 - 3 5 8 0 1 0 0 2 -5
+p127
+aVFurkan Aldemir PHI 03/22/2015 PHI @ LAL L 15 3 1 3 33.3 0 0 - 1 3 33.3 3 2 5 0 0 1 0 2 -1
+p128
+aVIsh Smith PHI 03/22/2015 PHI @ LAL L 29 9 3 14 21.4 0 1 0.0 3 3 100.0 2 0 2 9 0 0 4 2 -15
+p129
+aVJason Richardson PHI 03/22/2015 PHI @ LAL L 21 5 2 7 28.6 1 4 25.0 0 0 - 0 4 4 3 0 0 0 0 -6
+p130
+aVHollis Thompson PHI 03/22/2015 PHI @ LAL L 16 10 4 7 57.1 2 2 100.0 0 0 - 2 1 3 1 0 0 1 0 -6
+p131
+aVJaKarr Sampson PHI 03/22/2015 PHI @ LAL L 13 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 0 -7
+p132
+aVRobert Covington PHI 03/22/2015 PHI @ LAL L 25 11 3 9 33.3 2 6 33.3 3 3 100.0 1 2 3 0 0 1 0 2 -6
+p133
+aVJerami Grant PHI 03/22/2015 PHI @ LAL L 22 9 2 6 33.3 1 3 33.3 4 6 66.7 1 2 3 4 0 2 1 4 -3
+p134
+aVLuc Mbah a Moute PHI 03/22/2015 PHI @ LAL L 29 13 5 12 41.7 2 5 40.0 1 2 50.0 0 2 2 2 2 0 0 2 -7
+p135
+aVJerami Grant PHI 03/20/2015 PHI vs. NYK W 19 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 3 0 1 0 4 2
+p136
+aVIsh Smith PHI 03/20/2015 PHI vs. NYK W 28 15 7 16 43.8 1 3 33.3 0 0 - 0 4 4 9 2 0 4 0 1
+p137
+aVRobert Covington PHI 03/20/2015 PHI vs. NYK W 30 8 3 7 42.9 2 3 66.7 0 0 - 1 4 5 2 0 0 1 4 12
+p138
+aVLuc Mbah a Moute PHI 03/20/2015 PHI vs. NYK W 28 14 5 11 45.5 2 5 40.0 2 2 100.0 1 4 5 3 0 1 0 1 15
+p139
+aVJason Richardson PHI 03/20/2015 PHI vs. NYK W 18 6 2 8 25.0 1 5 20.0 1 2 50.0 1 2 3 3 2 0 1 0 10
+p140
+aVNerlens Noel PHI 03/20/2015 PHI vs. NYK W 32 23 9 14 64.3 0 0 - 5 7 71.4 7 7 14 1 5 3 1 2 7
+p141
+aVFurkan Aldemir PHI 03/20/2015 PHI vs. NYK W 16 4 2 3 66.7 0 0 - 0 0 - 2 7 9 0 0 0 1 3 9
+p142
+aVHollis Thompson PHI 03/20/2015 PHI vs. NYK W 22 6 2 9 22.2 0 2 0.0 2 2 100.0 2 1 3 0 1 1 0 3 4
+p143
+aVIsaiah Canaan PHI 03/20/2015 PHI vs. NYK W 20 12 4 11 36.4 4 8 50.0 0 0 - 0 0 0 2 1 0 1 0 17
+p144
+aVJaKarr Sampson PHI 03/20/2015 PHI vs. NYK W 26 6 2 6 33.3 0 2 0.0 2 2 100.0 0 3 3 0 0 1 2 3 3
+p145
+aVJason Richardson PHI 03/18/2015 PHI vs. DET W 25 14 4 7 57.1 3 5 60.0 3 4 75.0 1 4 5 2 1 0 1 2 1
+p146
+aVRobert Covington PHI 03/18/2015 PHI vs. DET W 22 3 1 6 16.7 1 5 20.0 0 0 - 0 2 2 3 1 0 0 2 9
+p147
+aVLuc Mbah a Moute PHI 03/18/2015 PHI vs. DET W 26 4 1 8 12.5 1 2 50.0 1 2 50.0 2 4 6 5 0 0 0 3 7
+p148
+aVHollis Thompson PHI 03/18/2015 PHI vs. DET W 24 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 1 2 2 1 0 13
+p149
+aVThomas Robinson PHI 03/18/2015 PHI vs. DET W 16 12 6 9 66.7 0 0 - 0 0 - 2 4 6 0 1 3 1 2 6
+p150
+aVJerami Grant PHI 03/18/2015 PHI vs. DET W 25 10 4 7 57.1 2 3 66.7 0 2 0.0 1 3 4 2 0 0 2 2 7
+p151
+aVFurkan Aldemir PHI 03/18/2015 PHI vs. DET W 9 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 1 0 2 1
+p152
+aVNerlens Noel PHI 03/18/2015 PHI vs. DET W 22 11 5 10 50.0 0 0 - 1 2 50.0 3 1 4 0 1 3 1 0 2
+p153
+aVJaKarr Sampson PHI 03/18/2015 PHI vs. DET W 22 6 3 8 37.5 0 2 0.0 0 0 - 1 5 6 0 2 0 3 3 -6
+p154
+aVIsh Smith PHI 03/18/2015 PHI vs. DET W 26 15 6 12 50.0 0 1 0.0 3 4 75.0 0 1 1 8 3 1 3 2 10
+p155
+aVIsaiah Canaan PHI 03/18/2015 PHI vs. DET W 22 9 2 10 20.0 2 6 33.3 3 4 75.0 0 3 3 4 1 0 3 3 5
+p156
+aVHollis Thompson PHI 03/16/2015 PHI @ BOS L 31 13 5 9 55.6 2 5 40.0 1 2 50.0 0 2 2 2 2 0 2 0 -7
+p157
+aVJerami Grant PHI 03/16/2015 PHI @ BOS L 25 6 2 5 40.0 1 3 33.3 1 2 50.0 2 2 4 1 0 0 2 1 -8
+p158
+aVIsh Smith PHI 03/16/2015 PHI @ BOS L 27 16 7 13 53.8 1 2 50.0 1 2 50.0 1 1 2 4 1 1 4 1 -8
+p159
+aVThomas Robinson PHI 03/16/2015 PHI @ BOS L 15 7 2 5 40.0 0 0 - 3 4 75.0 0 5 5 0 0 1 1 1 -5
+p160
+aVLuc Mbah a Moute PHI 03/16/2015 PHI @ BOS L 23 10 4 8 50.0 1 1 100.0 1 4 25.0 0 1 1 3 0 0 2 3 -18
+p161
+aVRobert Covington PHI 03/16/2015 PHI @ BOS L 23 4 1 8 12.5 1 4 25.0 1 2 50.0 1 5 6 3 2 0 0 4 -7
+p162
+aVHenry Sims PHI 03/16/2015 PHI @ BOS L 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -4
+p163
+aVNerlens Noel PHI 03/16/2015 PHI @ BOS L 34 18 7 15 46.7 0 0 - 4 6 66.7 1 6 7 1 2 1 1 5 -15
+p164
+aVJason Richardson PHI 03/16/2015 PHI @ BOS L 20 2 1 7 14.3 0 2 0.0 0 0 - 3 2 5 2 0 0 0 0 -15
+p165
+aVIsaiah Canaan PHI 03/16/2015 PHI @ BOS L 28 11 4 11 36.4 2 7 28.6 1 2 50.0 0 6 6 2 0 1 3 4 -8
+p166
+aVJaKarr Sampson PHI 03/14/2015 PHI vs. BKN L 20 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 0 0 0 2 2 -20
+p167
+aVIsaiah Canaan PHI 03/14/2015 PHI vs. BKN L 29 13 6 13 46.2 1 8 12.5 0 0 - 1 3 4 3 0 0 0 2 -24
+p168
+aVNerlens Noel PHI 03/14/2015 PHI vs. BKN L 30 17 7 10 70.0 0 0 - 3 3 100.0 1 6 7 2 1 2 5 6 -6
+p169
+aVIsh Smith PHI 03/14/2015 PHI vs. BKN L 23 9 3 10 30.0 1 3 33.3 2 2 100.0 0 2 2 5 2 0 2 0 16
+p170
+aVGlenn Robinson PHI 03/14/2015 PHI vs. BKN L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 10
+p171
+aVJerami Grant PHI 03/14/2015 PHI vs. BKN L 30 8 3 11 27.3 2 7 28.6 0 4 0.0 1 3 4 1 0 3 3 4 -11
+p172
+aVRobert Covington PHI 03/14/2015 PHI vs. BKN L 23 10 4 10 40.0 2 6 33.3 0 0 - 1 3 4 1 1 0 1 3 15
+p173
+aVThomas Robinson PHI 03/14/2015 PHI vs. BKN L 17 7 3 5 60.0 0 0 - 1 1 100.0 3 9 12 0 1 0 1 2 -1
+p174
+aVHenry Sims PHI 03/14/2015 PHI vs. BKN L 14 3 0 5 0.0 0 0 - 3 4 75.0 3 3 6 3 1 1 1 3 -5
+p175
+aVHollis Thompson PHI 03/14/2015 PHI vs. BKN L 28 12 5 12 41.7 2 6 33.3 0 0 - 0 4 4 1 1 1 0 1 -3
+p176
+aVJason Richardson PHI 03/14/2015 PHI vs. BKN L 19 6 3 11 27.3 0 4 0.0 0 0 - 2 1 3 4 0 1 1 2 -6
+p177
+aVIsaiah Canaan PHI 03/13/2015 PHI vs. SAC W 23 7 3 9 33.3 1 7 14.3 0 0 - 0 1 1 5 0 0 2 3 -4
+p178
+aVHollis Thompson PHI 03/13/2015 PHI vs. SAC W 22 10 4 9 44.4 2 5 40.0 0 1 0.0 1 1 2 2 2 1 3 2 -1
+p179
+aVNerlens Noel PHI 03/13/2015 PHI vs. SAC W 28 16 7 13 53.8 0 0 - 2 2 100.0 4 8 12 4 1 1 1 4 5
+p180
+aVLuc Mbah a Moute PHI 03/13/2015 PHI vs. SAC W 30 10 5 11 45.5 0 2 0.0 0 0 - 1 4 5 4 1 0 1 1 8
+p181
+aVJerami Grant PHI 03/13/2015 PHI vs. SAC W 29 13 5 7 71.4 0 2 0.0 3 6 50.0 0 2 2 1 2 4 1 4 17
+p182
+aVRobert Covington PHI 03/13/2015 PHI vs. SAC W 29 24 8 17 47.1 6 12 50.0 2 3 66.7 0 2 2 2 3 1 1 2 3
+p183
+aVIsh Smith PHI 03/13/2015 PHI vs. SAC W 25 10 3 11 27.3 0 2 0.0 4 6 66.7 0 5 5 9 1 0 3 2 9
+p184
+aVFurkan Aldemir PHI 03/13/2015 PHI vs. SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -9
+p185
+aVThomas Robinson PHI 03/13/2015 PHI vs. SAC W 20 6 2 7 28.6 0 1 0.0 2 2 100.0 5 6 11 0 0 1 1 3 -2
+p186
+aVHenry Sims PHI 03/13/2015 PHI vs. SAC W 12 8 4 5 80.0 0 0 - 0 0 - 2 2 4 0 1 0 0 3 12
+p187
+aVJaKarr Sampson PHI 03/13/2015 PHI vs. SAC W 17 10 4 6 66.7 0 1 0.0 2 3 66.7 1 1 2 3 0 0 1 2 -3
+p188
+aVJason Richardson PHI 03/11/2015 PHI vs. CHI L 19 4 2 9 22.2 0 6 0.0 0 0 - 1 1 2 2 2 0 0 1 -12
+p189
+aVJaKarr Sampson PHI 03/11/2015 PHI vs. CHI L 17 5 1 4 25.0 1 3 33.3 2 2 100.0 0 3 3 0 0 0 1 0 -12
+p190
+aVRobert Covington PHI 03/11/2015 PHI vs. CHI L 21 12 5 13 38.5 1 6 16.7 1 3 33.3 2 0 2 1 1 0 1 1 1
+p191
+aVFurkan Aldemir PHI 03/11/2015 PHI vs. CHI L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 1 5
+p192
+aVIsh Smith PHI 03/11/2015 PHI vs. CHI L 37 23 9 21 42.9 3 7 42.9 2 2 100.0 1 1 2 6 0 0 1 1 -3
+p193
+aVIsaiah Canaan PHI 03/11/2015 PHI vs. CHI L 30 20 7 15 46.7 4 8 50.0 2 2 100.0 0 3 3 0 0 0 2 0 -2
+p194
+aVHollis Thompson PHI 03/11/2015 PHI vs. CHI L 25 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 0 2 1 1 0 -3
+p195
+aVThomas Robinson PHI 03/11/2015 PHI vs. CHI L 18 7 3 10 30.0 0 0 - 1 4 25.0 7 8 15 2 1 1 1 3 7
+p196
+aVJerami Grant PHI 03/11/2015 PHI vs. CHI L 20 6 1 5 20.0 1 4 25.0 3 6 50.0 0 3 3 2 1 0 1 2 0
+p197
+aVNerlens Noel PHI 03/11/2015 PHI vs. CHI L 36 8 4 9 44.4 0 0 - 0 4 0.0 4 11 15 1 4 2 2 6 -16
+p198
+aVLuc Mbah a Moute PHI 03/11/2015 PHI vs. CHI L 35 3 1 10 10.0 0 4 0.0 1 2 50.0 1 7 8 2 1 0 0 0 -10
+p199
+aVJerami Grant PHI 03/07/2015 PHI vs. ATL W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -13
+p200
+aVHollis Thompson PHI 03/07/2015 PHI vs. ATL W 30 19 7 10 70.0 5 7 71.4 0 0 - 2 7 9 4 0 0 2 0 16
+p201
+aVIsh Smith PHI 03/07/2015 PHI vs. ATL W 22 9 4 13 30.8 1 3 33.3 0 1 0.0 0 2 2 6 1 0 1 1 7
+p202
+aVNerlens Noel PHI 03/07/2015 PHI vs. ATL W 32 11 4 12 33.3 0 0 - 3 6 50.0 7 10 17 0 5 1 2 1 8
+p203
+aVRobert Covington PHI 03/07/2015 PHI vs. ATL W 29 12 5 12 41.7 2 6 33.3 0 0 - 0 4 4 1 2 0 6 3 11
+p204
+aVFurkan Aldemir PHI 03/07/2015 PHI vs. ATL W 18 0 0 2 0.0 0 1 0.0 0 2 0.0 4 4 8 2 1 2 1 0 -8
+p205
+aVThomas Robinson PHI 03/07/2015 PHI vs. ATL W 18 10 5 8 62.5 0 0 - 0 0 - 1 1 2 1 1 0 1 1 0
+p206
+aVLuc Mbah a Moute PHI 03/07/2015 PHI vs. ATL W 29 19 8 16 50.0 3 7 42.9 0 0 - 0 3 3 1 1 0 1 0 9
+p207
+aVJaKarr Sampson PHI 03/07/2015 PHI vs. ATL W 21 0 0 7 0.0 0 4 0.0 0 0 - 3 1 4 1 1 0 0 2 3
+p208
+aVIsaiah Canaan PHI 03/07/2015 PHI vs. ATL W 37 12 2 13 15.4 2 9 22.2 6 8 75.0 0 5 5 8 1 0 1 4 7
+p209
+aVRobert Covington PHI 03/06/2015 PHI vs. UTA L 18 5 1 8 12.5 0 4 0.0 3 6 50.0 1 5 6 1 1 0 3 5 2
+p210
+aVFurkan Aldemir PHI 03/06/2015 PHI vs. UTA L 11 2 0 0 - 0 0 - 2 4 50.0 1 0 1 2 0 1 0 2 3
+p211
+aVIsh Smith PHI 03/06/2015 PHI vs. UTA L 23 14 6 13 46.2 0 1 0.0 2 2 100.0 0 1 1 7 1 1 1 0 3
+p212
+aVJaKarr Sampson PHI 03/06/2015 PHI vs. UTA L 22 3 1 5 20.0 1 3 33.3 0 2 0.0 1 0 1 0 0 1 1 2 -10
+p213
+aVIsaiah Canaan PHI 03/06/2015 PHI vs. UTA L 28 16 6 15 40.0 4 9 44.4 0 0 - 0 2 2 4 0 0 1 2 -3
+p214
+aVNerlens Noel PHI 03/06/2015 PHI vs. UTA L 37 10 5 12 41.7 0 0 - 0 0 - 5 6 11 1 6 0 1 5 -9
+p215
+aVJerami Grant PHI 03/06/2015 PHI vs. UTA L 18 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 1 0 0 2 2 0
+p216
+aVThomas Robinson PHI 03/06/2015 PHI vs. UTA L 15 11 5 8 62.5 0 1 0.0 1 2 50.0 4 8 12 0 0 0 1 1 0
+p217
+aVLuc Mbah a Moute PHI 03/06/2015 PHI vs. UTA L 29 14 5 10 50.0 3 6 50.0 1 2 50.0 0 2 2 3 4 0 2 5 -2
+p218
+aVHollis Thompson PHI 03/06/2015 PHI vs. UTA L 11 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 1 1 1 1 1 5
+p219
+aVJason Richardson PHI 03/06/2015 PHI vs. UTA L 27 0 0 10 0.0 0 4 0.0 0 0 - 0 3 3 2 0 0 0 4 -19
+p220
+aVJason Richardson PHI 03/04/2015 PHI @ OKC L 36 29 8 19 42.1 4 9 44.4 9 9 100.0 0 6 6 3 1 0 0 2 17
+p221
+aVThomas Robinson PHI 03/04/2015 PHI @ OKC L 21 2 0 6 0.0 0 0 - 2 2 100.0 3 6 9 2 1 0 0 2 -5
+p222
+aVNerlens Noel PHI 03/04/2015 PHI @ OKC L 40 8 3 10 30.0 0 0 - 2 4 50.0 2 11 13 1 4 5 5 4 12
+p223
+aVJerami Grant PHI 03/04/2015 PHI @ OKC L 28 14 2 7 28.6 2 4 50.0 8 10 80.0 1 1 2 1 0 2 4 6 15
+p224
+aVHenry Sims PHI 03/04/2015 PHI @ OKC L 10 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 0 0 0 0 2 -29
+p225
+aVHollis Thompson PHI 03/04/2015 PHI @ OKC L 19 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 0 0 0 2 2 -15
+p226
+aVJaKarr Sampson PHI 03/04/2015 PHI @ OKC L 15 7 2 3 66.7 0 1 0.0 3 3 100.0 0 2 2 1 1 0 1 4 -4
+p227
+aVIsh Smith PHI 03/04/2015 PHI @ OKC L 15 2 1 5 20.0 0 1 0.0 0 2 0.0 0 1 1 1 0 1 1 1 -25
+p228
+aVIsaiah Canaan PHI 03/04/2015 PHI @ OKC L 42 31 10 16 62.5 8 13 61.5 3 3 100.0 0 7 7 6 1 0 3 1 5
+p229
+aVLuc Mbah a Moute PHI 03/04/2015 PHI @ OKC L 40 18 6 21 28.6 0 3 0.0 6 9 66.7 7 7 14 5 0 0 1 2 4
+p230
+aVNerlens Noel PHI 03/02/2015 PHI vs. TOR L 32 17 7 7 100.0 0 0 - 3 4 75.0 0 7 7 3 2 1 3 3 -8
+p231
+aVThomas Robinson PHI 03/02/2015 PHI vs. TOR L 15 13 6 8 75.0 0 0 - 1 2 50.0 2 3 5 1 0 0 1 1 1
+p232
+aVFurkan Aldemir PHI 03/02/2015 PHI vs. TOR L 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 3 0 0 0 3 1
+p233
+aVHenry Sims PHI 03/02/2015 PHI vs. TOR L 23 10 5 10 50.0 0 0 - 0 1 0.0 1 3 4 3 0 0 2 2 -8
+p234
+aVIsh Smith PHI 03/02/2015 PHI vs. TOR L 27 19 8 13 61.5 1 2 50.0 2 3 66.7 0 5 5 9 0 0 2 1 -1
+p235
+aVIsaiah Canaan PHI 03/02/2015 PHI vs. TOR L 25 14 5 12 41.7 4 8 50.0 0 0 - 0 1 1 3 0 0 0 2 -6
+p236
+aVJerami Grant PHI 03/02/2015 PHI vs. TOR L 29 4 2 7 28.6 0 4 0.0 0 0 - 1 1 2 4 0 1 1 2 -6
+p237
+aVJaKarr Sampson PHI 03/02/2015 PHI vs. TOR L 21 7 2 7 28.6 1 2 50.0 2 2 100.0 2 1 3 4 2 3 1 2 -12
+p238
+aVLuc Mbah a Moute PHI 03/02/2015 PHI vs. TOR L 29 10 4 10 40.0 1 2 50.0 1 2 50.0 3 2 5 2 2 0 2 0 -11
+p239
+aVHollis Thompson PHI 03/02/2015 PHI vs. TOR L 24 7 1 3 33.3 1 2 50.0 4 5 80.0 1 1 2 0 0 1 3 2 -5
+p240
+aVNerlens Noel PHI 03/01/2015 PHI @ IND L 35 10 2 8 25.0 0 0 - 6 6 100.0 5 7 12 1 1 3 3 4 -15
+p241
+aVIsaiah Canaan PHI 03/01/2015 PHI @ IND L 22 5 2 8 25.0 1 5 20.0 0 0 - 0 2 2 1 2 1 0 3 -15
+p242
+aVJerami Grant PHI 03/01/2015 PHI @ IND L 18 4 1 5 20.0 0 3 0.0 2 2 100.0 1 6 7 1 2 0 0 3 -7
+p243
+aVRobert Covington PHI 03/01/2015 PHI @ IND L 24 12 5 11 45.5 2 5 40.0 0 0 - 0 3 3 0 0 0 2 3 -8
+p244
+aVJaVale McGee PHI 03/01/2015 PHI @ IND L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 0 -4
+p245
+aVJaKarr Sampson PHI 03/01/2015 PHI @ IND L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 1 0 4 -2
+p246
+aVLuc Mbah a Moute PHI 03/01/2015 PHI @ IND L 23 4 2 7 28.6 0 2 0.0 0 2 0.0 1 2 3 0 0 0 4 2 -17
+p247
+aVHollis Thompson PHI 03/01/2015 PHI @ IND L 23 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 1 1 0 2 0 -14
+p248
+aVIsh Smith PHI 03/01/2015 PHI @ IND L 25 11 5 13 38.5 1 1 100.0 0 0 - 1 3 4 5 0 0 2 1 -7
+p249
+aVThomas Robinson PHI 03/01/2015 PHI @ IND L 25 9 4 11 36.4 0 0 - 1 3 33.3 2 7 9 1 0 0 1 3 -3
+p250
+aVJason Richardson PHI 03/01/2015 PHI @ IND L 26 10 4 12 33.3 1 5 20.0 1 2 50.0 0 3 3 0 2 0 1 2 -8
+p251
+aVThomas Robinson PHI 02/27/2015 PHI vs. WAS W 13 9 2 7 28.6 0 0 - 5 6 83.3 5 4 9 1 1 0 1 3 0
+p252
+aVHollis Thompson PHI 02/27/2015 PHI vs. WAS W 22 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 -8
+p253
+aVLuc Mbah a Moute PHI 02/27/2015 PHI vs. WAS W 29 10 4 9 44.4 2 6 33.3 0 4 0.0 1 7 8 4 2 1 2 0 8
+p254
+aVJaVale McGee PHI 02/27/2015 PHI vs. WAS W 11 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 3
+p255
+aVHenry Sims PHI 02/27/2015 PHI vs. WAS W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 0
+p256
+aVNerlens Noel PHI 02/27/2015 PHI vs. WAS W 34 14 5 9 55.6 0 0 - 4 6 66.7 3 10 13 3 2 3 2 5 6
+p257
+aVIsh Smith PHI 02/27/2015 PHI vs. WAS W 26 6 2 10 20.0 0 0 - 2 6 33.3 0 4 4 6 0 0 2 0 10
+p258
+aVRobert Covington PHI 02/27/2015 PHI vs. WAS W 26 13 3 9 33.3 2 7 28.6 5 5 100.0 1 5 6 0 1 0 1 2 7
+p259
+aVJason Richardson PHI 02/27/2015 PHI vs. WAS W 26 12 4 9 44.4 4 7 57.1 0 0 - 0 2 2 5 0 0 1 3 14
+p260
+aVJerami Grant PHI 02/27/2015 PHI vs. WAS W 24 9 3 8 37.5 2 5 40.0 1 2 50.0 0 3 3 0 1 0 5 4 2
+p261
+aVIsaiah Canaan PHI 02/27/2015 PHI vs. WAS W 22 8 3 11 27.3 1 6 16.7 1 1 100.0 1 2 3 1 0 0 1 2 -2
+p262
+aVRobert Covington PHI 02/25/2015 PHI @ MIL L 19 13 4 6 66.7 3 4 75.0 2 2 100.0 1 2 3 1 1 0 3 3 -8
+p263
+aVJerami Grant PHI 02/25/2015 PHI @ MIL L 33 10 3 6 50.0 2 3 66.7 2 2 100.0 1 1 2 4 2 2 4 3 -5
+p264
+aVLuc Mbah a Moute PHI 02/25/2015 PHI @ MIL L 24 5 1 2 50.0 1 2 50.0 2 3 66.7 0 3 3 1 2 0 3 0 -9
+p265
+aVIsh Smith PHI 02/25/2015 PHI @ MIL L 15 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 3 1 0 5 2 -9
+p266
+aVNerlens Noel PHI 02/25/2015 PHI @ MIL L 30 8 2 9 22.2 0 0 - 4 4 100.0 1 7 8 1 1 1 5 4 -5
+p267
+aVJaKarr Sampson PHI 02/25/2015 PHI @ MIL L 14 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 1 -13
+p268
+aVThomas Robinson PHI 02/25/2015 PHI @ MIL L 13 7 3 6 50.0 0 0 - 1 3 33.3 3 3 6 0 0 0 2 2 -5
+p269
+aVHollis Thompson PHI 02/25/2015 PHI @ MIL L 19 2 1 6 16.7 0 0 - 0 0 - 2 1 3 1 1 0 0 0 -6
+p270
+aVIsaiah Canaan PHI 02/25/2015 PHI @ MIL L 33 11 3 10 30.0 1 5 20.0 4 5 80.0 1 1 2 6 1 0 5 4 -7
+p271
+aVJason Richardson PHI 02/25/2015 PHI @ MIL L 25 16 6 11 54.5 4 8 50.0 0 0 - 0 4 4 2 1 0 0 3 1
+p272
+aVHenry Sims PHI 02/25/2015 PHI @ MIL L 9 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 3 0 0 0 -10
+p273
+aVJaVale McGee PHI 02/25/2015 PHI @ MIL L 6 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -4
+p274
+aVFurkan Aldemir PHI 02/23/2015 PHI @ MIA L 2 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 3
+p275
+aVJaKarr Sampson PHI 02/23/2015 PHI @ MIA L 20 5 2 8 25.0 0 2 0.0 1 2 50.0 1 4 5 2 0 2 2 1 -5
+p276
+aVHenry Sims PHI 02/23/2015 PHI @ MIA L 18 12 5 6 83.3 0 0 - 2 3 66.7 0 3 3 3 0 1 1 1 -7
+p277
+aVTim Frazier PHI 02/23/2015 PHI @ MIA L 12 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 4 1 0 0 0 -1
+p278
+aVIsaiah Canaan PHI 02/23/2015 PHI @ MIA L 30 11 4 9 44.4 3 7 42.9 0 0 - 1 0 1 3 0 0 3 3 -8
+p279
+aVRobert Covington PHI 02/23/2015 PHI @ MIA L 34 16 6 15 40.0 3 8 37.5 1 3 33.3 2 2 4 2 5 0 0 4 -4
+p280
+aVNerlens Noel PHI 02/23/2015 PHI @ MIA L 31 18 5 10 50.0 0 0 - 8 10 80.0 2 5 7 2 0 4 0 4 0
+p281
+aVJaVale McGee PHI 02/23/2015 PHI @ MIA L 12 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -11
+p282
+aVIsh Smith PHI 02/23/2015 PHI @ MIA L 24 7 3 7 42.9 0 1 0.0 1 4 25.0 1 2 3 7 3 0 4 3 -11
+p283
+aVLuc Mbah a Moute PHI 02/23/2015 PHI @ MIA L 30 7 3 11 27.3 1 3 33.3 0 2 0.0 0 5 5 2 0 1 0 1 -4
+p284
+aVHollis Thompson PHI 02/23/2015 PHI @ MIA L 28 22 7 10 70.0 6 9 66.7 2 2 100.0 0 1 1 1 1 0 2 1 -7
+p285
+aVFurkan Aldemir PHI 02/22/2015 PHI @ ORL L 8 0 0 1 0.0 0 0 - 0 0 - 3 0 3 0 1 0 1 1 -6
+p286
+aVRobert Covington PHI 02/22/2015 PHI @ ORL L 33 16 6 13 46.2 3 9 33.3 1 1 100.0 0 9 9 2 2 0 4 6 -3
+p287
+aVTim Frazier PHI 02/22/2015 PHI @ ORL L 20 6 2 6 33.3 0 2 0.0 2 3 66.7 0 2 2 6 1 0 1 3 -4
+p288
+aVJaVale McGee PHI 02/22/2015 PHI @ ORL L 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 2 0 2
+p289
+aVNerlens Noel PHI 02/22/2015 PHI @ ORL L 35 10 3 7 42.9 0 0 - 4 6 66.7 0 3 3 5 2 2 1 3 -7
+p290
+aVJaKarr Sampson PHI 02/22/2015 PHI @ ORL L 21 16 6 9 66.7 2 4 50.0 2 2 100.0 0 1 1 0 1 1 1 1 6
+p291
+aVHollis Thompson PHI 02/22/2015 PHI @ ORL L 26 12 5 9 55.6 2 4 50.0 0 0 - 1 2 3 2 1 1 2 1 5
+p292
+aVJason Richardson PHI 02/22/2015 PHI @ ORL L 24 7 3 9 33.3 1 5 20.0 0 0 - 2 3 5 1 0 0 2 3 -11
+p293
+aVIsaiah Canaan PHI 02/22/2015 PHI @ ORL L 29 14 5 12 41.7 4 9 44.4 0 0 - 2 2 4 3 0 1 3 5 -2
+p294
+aVHenry Sims PHI 02/22/2015 PHI @ ORL L 19 8 3 8 37.5 0 0 - 2 2 100.0 3 5 8 1 0 0 4 3 -4
+p295
+aVJerami Grant PHI 02/22/2015 PHI @ ORL L 10 7 2 2 100.0 1 1 100.0 2 3 66.7 0 0 0 1 0 0 0 0 -1
+p296
+aVTim Frazier PHI 02/20/2015 PHI vs. IND L 33 13 5 9 55.6 2 3 66.7 1 3 33.3 0 3 3 7 1 0 4 4 7
+p297
+aVHenry Sims PHI 02/20/2015 PHI vs. IND L 13 3 0 4 0.0 0 0 - 3 3 100.0 0 2 2 0 0 1 3 1 -20
+p298
+aVJaVale McGee PHI 02/20/2015 PHI vs. IND L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -13
+p299
+aVNerlens Noel PHI 02/20/2015 PHI vs. IND L 33 12 5 9 55.6 0 0 - 2 4 50.0 5 4 9 0 4 9 1 3 -3
+p300
+aVRobert Covington PHI 02/20/2015 PHI vs. IND L 29 8 2 10 20.0 0 5 0.0 4 4 100.0 0 2 2 1 1 0 1 4 3
+p301
+aVJason Richardson PHI 02/20/2015 PHI vs. IND L 18 7 3 7 42.9 1 2 50.0 0 0 - 0 7 7 2 2 1 3 0 -10
+p302
+aVJerami Grant PHI 02/20/2015 PHI vs. IND L 28 16 5 11 45.5 1 4 25.0 5 10 50.0 2 3 5 3 1 0 0 1 -13
+p303
+aVFurkan Aldemir PHI 02/20/2015 PHI vs. IND L 4 2 1 1 100.0 0 0 - 0 0 - 3 1 4 0 0 0 0 1 5
+p304
+aVLuc Mbah a Moute PHI 02/20/2015 PHI vs. IND L 32 16 6 12 50.0 2 5 40.0 2 3 66.7 3 7 10 3 0 0 2 0 4
+p305
+aVHollis Thompson PHI 02/20/2015 PHI vs. IND L 20 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 -6
+p306
+aVJaKarr Sampson PHI 02/20/2015 PHI vs. IND L 20 11 4 12 33.3 1 3 33.3 2 2 100.0 1 1 2 1 2 0 1 4 -9
+p307
+aVHollis Thompson PHI 02/09/2015 PHI vs. GSW L 28 0 0 9 0.0 0 4 0.0 0 0 - 0 6 6 2 0 0 4 6 -1
+p308
+aVJerami Grant PHI 02/09/2015 PHI vs. GSW L 22 6 1 5 20.0 0 1 0.0 4 4 100.0 1 2 3 3 0 1 1 2 -6
+p309
+aVRobert Covington PHI 02/09/2015 PHI vs. GSW L 32 21 7 15 46.7 4 10 40.0 3 3 100.0 0 8 8 1 3 0 3 3 4
+p310
+aVKJ McDaniels PHI 02/09/2015 PHI vs. GSW L 17 5 2 6 33.3 0 1 0.0 1 1 100.0 1 1 2 1 1 1 2 1 -12
+p311
+aVTim Frazier PHI 02/09/2015 PHI vs. GSW L 36 10 4 11 36.4 1 2 50.0 1 2 50.0 3 3 6 7 0 0 7 3 -2
+p312
+aVJaKarr Sampson PHI 02/09/2015 PHI vs. GSW L 27 10 5 7 71.4 0 2 0.0 0 0 - 0 6 6 2 1 0 3 0 -3
+p313
+aVLuc Mbah a Moute PHI 02/09/2015 PHI vs. GSW L 35 13 5 13 38.5 2 4 50.0 1 2 50.0 1 8 9 1 2 1 5 0 2
+p314
+aVNerlens Noel PHI 02/09/2015 PHI vs. GSW L 32 11 5 8 62.5 0 0 - 1 2 50.0 3 4 7 4 1 1 1 3 -4
+p315
+aVHenry Sims PHI 02/09/2015 PHI vs. GSW L 12 8 4 5 80.0 0 0 - 0 0 - 1 4 5 0 1 0 1 1 -3
+p316
+aVJerami Grant PHI 02/07/2015 PHI vs. CHA W 15 4 1 5 20.0 0 1 0.0 2 2 100.0 2 3 5 1 0 1 1 2 -7
+p317
+aVKJ McDaniels PHI 02/07/2015 PHI vs. CHA W 17 8 2 4 50.0 0 0 - 4 6 66.7 1 7 8 2 0 1 3 3 5
+p318
+aVLuc Mbah a Moute PHI 02/07/2015 PHI vs. CHA W 34 13 4 13 30.8 1 3 33.3 4 5 80.0 0 7 7 1 0 0 3 3 12
+p319
+aVJaKarr Sampson PHI 02/07/2015 PHI vs. CHA W 22 4 1 5 20.0 0 1 0.0 2 4 50.0 0 3 3 1 1 0 0 4 3
+p320
+aVNerlens Noel PHI 02/07/2015 PHI vs. CHA W 34 12 5 9 55.6 0 0 - 2 2 100.0 0 7 7 1 3 2 1 0 9
+p321
+aVRobert Covington PHI 02/07/2015 PHI vs. CHA W 33 22 7 15 46.7 5 10 50.0 3 5 60.0 2 6 8 2 1 1 2 4 4
+p322
+aVHenry Sims PHI 02/07/2015 PHI vs. CHA W 14 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 2 0 0 1 1 -1
+p323
+aVHollis Thompson PHI 02/07/2015 PHI vs. CHA W 34 18 6 9 66.7 3 6 50.0 3 4 75.0 0 4 4 1 0 0 0 3 0
+p324
+aVTim Frazier PHI 02/07/2015 PHI vs. CHA W 37 0 0 7 0.0 0 2 0.0 0 0 - 0 3 3 8 1 0 4 2 15
+p325
+aVRobert Covington PHI 02/06/2015 PHI @ BOS L 33 16 6 13 46.2 3 8 37.5 1 1 100.0 0 6 6 1 0 0 2 3 -13
+p326
+aVLuc Mbah a Moute PHI 02/06/2015 PHI @ BOS L 35 18 7 14 50.0 3 6 50.0 1 3 33.3 1 2 3 4 0 0 1 1 -8
+p327
+aVJaKarr Sampson PHI 02/06/2015 PHI @ BOS L 13 5 2 4 50.0 0 1 0.0 1 3 33.3 0 1 1 1 0 1 1 3 -7
+p328
+aVHenry Sims PHI 02/06/2015 PHI @ BOS L 19 12 6 10 60.0 0 0 - 0 2 0.0 3 4 7 1 0 0 1 1 3
+p329
+aVNerlens Noel PHI 02/06/2015 PHI @ BOS L 26 8 1 5 20.0 0 0 - 6 8 75.0 1 6 7 0 1 1 4 3 -18
+p330
+aVTim Frazier PHI 02/06/2015 PHI @ BOS L 35 5 2 9 22.2 0 1 0.0 1 5 20.0 1 4 5 11 2 0 2 4 -9
+p331
+aVJerami Grant PHI 02/06/2015 PHI @ BOS L 19 1 0 4 0.0 0 1 0.0 1 4 25.0 2 2 4 1 1 1 2 1 6
+p332
+aVKJ McDaniels PHI 02/06/2015 PHI @ BOS L 23 15 5 9 55.6 1 3 33.3 4 5 80.0 1 2 3 1 1 0 3 1 -4
+p333
+aVHollis Thompson PHI 02/06/2015 PHI @ BOS L 38 16 6 11 54.5 4 5 80.0 0 0 - 2 6 8 2 1 0 1 2 -5
+p334
+aVLarry Drew II PHI 02/03/2015 PHI vs. DEN W 14 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 5 0 0 1 2 10
+p335
+aVLuc Mbah a Moute PHI 02/03/2015 PHI vs. DEN W 32 4 2 5 40.0 0 1 0.0 0 2 0.0 1 9 10 0 1 0 1 2 -3
+p336
+aVJaKarr Sampson PHI 02/03/2015 PHI vs. DEN W 18 11 3 4 75.0 2 2 100.0 3 4 75.0 0 0 0 0 3 0 1 2 -3
+p337
+aVRobert Covington PHI 02/03/2015 PHI vs. DEN W 29 17 4 12 33.3 2 7 28.6 7 8 87.5 2 6 8 2 2 1 3 5 -2
+p338
+aVMichael Carter-Williams PHI 02/03/2015 PHI vs. DEN W 34 15 4 12 33.3 1 4 25.0 6 10 60.0 0 8 8 12 2 1 4 0 -1
+p339
+aVKJ McDaniels PHI 02/03/2015 PHI vs. DEN W 18 11 4 8 50.0 1 3 33.3 2 2 100.0 2 1 3 1 0 1 3 1 8
+p340
+aVJerami Grant PHI 02/03/2015 PHI vs. DEN W 19 6 0 3 0.0 0 2 0.0 6 6 100.0 0 4 4 0 0 2 1 3 5
+p341
+aVHollis Thompson PHI 02/03/2015 PHI vs. DEN W 31 23 8 12 66.7 4 6 66.7 3 3 100.0 0 3 3 3 1 2 1 3 9
+p342
+aVNerlens Noel PHI 02/03/2015 PHI vs. DEN W 27 10 3 6 50.0 0 0 - 4 5 80.0 1 7 8 1 1 2 2 2 -8
+p343
+aVHenry Sims PHI 02/03/2015 PHI vs. DEN W 18 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 2 0 0 3 2 20
+p344
+aVLarry Drew II PHI 02/02/2015 PHI @ CLE L 24 4 2 7 28.6 0 4 0.0 0 0 - 0 1 1 5 2 0 4 2 0
+p345
+aVHollis Thompson PHI 02/02/2015 PHI @ CLE L 19 10 3 7 42.9 2 4 50.0 2 2 100.0 4 3 7 0 2 0 1 3 -9
+p346
+aVKJ McDaniels PHI 02/02/2015 PHI @ CLE L 24 3 1 7 14.3 0 4 0.0 1 2 50.0 0 2 2 0 0 1 2 1 -5
+p347
+aVJaKarr Sampson PHI 02/02/2015 PHI @ CLE L 18 10 4 5 80.0 2 2 100.0 0 0 - 0 0 0 1 2 1 3 2 2
+p348
+aVHenry Sims PHI 02/02/2015 PHI @ CLE L 11 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 3
+p349
+aVLuc Mbah a Moute PHI 02/02/2015 PHI @ CLE L 32 13 6 14 42.9 1 4 25.0 0 0 - 2 3 5 3 0 1 2 2 -13
+p350
+aVRobert Covington PHI 02/02/2015 PHI @ CLE L 34 18 6 13 46.2 4 8 50.0 2 3 66.7 2 1 3 4 7 1 2 4 -16
+p351
+aVNerlens Noel PHI 02/02/2015 PHI @ CLE L 33 4 2 5 40.0 0 0 - 0 0 - 0 4 4 2 2 3 3 3 -9
+p352
+aVMichael Carter-Williams PHI 02/02/2015 PHI @ CLE L 20 2 1 9 11.1 0 2 0.0 0 0 - 0 4 4 5 1 0 1 0 -14
+p353
+aVJerami Grant PHI 02/02/2015 PHI @ CLE L 26 18 5 7 71.4 3 5 60.0 5 7 71.4 3 4 7 2 0 0 3 3 -4
+p354
+aVLarry Drew II PHI 01/31/2015 PHI @ ATL L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 0 0 1 2 -1
+p355
+aVJerami Grant PHI 01/31/2015 PHI @ ATL L 26 13 4 4 100.0 3 3 100.0 2 2 100.0 0 3 3 1 0 0 0 2 -6
+p356
+aVNerlens Noel PHI 01/31/2015 PHI @ ATL L 29 11 5 8 62.5 0 0 - 1 2 50.0 2 8 10 0 0 2 2 3 -6
+p357
+aVHenry Sims PHI 01/31/2015 PHI @ ATL L 11 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 1 2 2 -8
+p358
+aVHollis Thompson PHI 01/31/2015 PHI @ ATL L 27 12 4 9 44.4 4 6 66.7 0 0 - 1 2 3 1 1 0 0 2 2
+p359
+aVKJ McDaniels PHI 01/31/2015 PHI @ ATL L 23 7 2 12 16.7 1 4 25.0 2 2 100.0 2 2 4 1 0 1 2 2 0
+p360
+aVLuc Mbah a Moute PHI 01/31/2015 PHI @ ATL L 32 13 5 12 41.7 2 7 28.6 1 4 25.0 2 3 5 1 2 0 0 2 -7
+p361
+aVRobert Covington PHI 01/31/2015 PHI @ ATL L 29 10 4 15 26.7 1 9 11.1 1 1 100.0 3 6 9 4 2 0 2 4 4
+p362
+aVFurkan Aldemir PHI 01/31/2015 PHI @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p363
+aVMichael Carter-Williams PHI 01/31/2015 PHI @ ATL L 37 13 5 13 38.5 2 4 50.0 1 2 50.0 0 6 6 8 2 0 3 4 -5
+p364
+aVJaKarr Sampson PHI 01/31/2015 PHI @ ATL L 13 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 2 0 0 2 3 -9
+p365
+aVJaKarr Sampson PHI 01/30/2015 PHI vs. MIN W 17 8 3 5 60.0 0 2 0.0 2 2 100.0 0 1 1 1 1 1 0 1 1
+p366
+aVMichael Carter-Williams PHI 01/30/2015 PHI vs. MIN W 35 17 6 13 46.2 0 1 0.0 5 6 83.3 2 8 10 10 1 1 5 1 0
+p367
+aVLarry Drew II PHI 01/30/2015 PHI vs. MIN W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 3 0 0 2 0 9
+p368
+aVHollis Thompson PHI 01/30/2015 PHI vs. MIN W 15 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 0 0 0 0 2 7
+p369
+aVLuc Mbah a Moute PHI 01/30/2015 PHI vs. MIN W 32 18 5 11 45.5 1 2 50.0 7 8 87.5 0 2 2 1 2 0 1 4 1
+p370
+aVKJ McDaniels PHI 01/30/2015 PHI vs. MIN W 23 11 4 4 100.0 0 0 - 3 3 100.0 1 2 3 1 0 0 4 1 9
+p371
+aVNerlens Noel PHI 01/30/2015 PHI vs. MIN W 31 14 7 8 87.5 0 0 - 0 0 - 3 3 6 3 4 6 1 4 6
+p372
+aVJerami Grant PHI 01/30/2015 PHI vs. MIN W 21 8 2 4 50.0 2 3 66.7 2 4 50.0 0 2 2 3 1 0 0 2 7
+p373
+aVRobert Covington PHI 01/30/2015 PHI vs. MIN W 34 14 4 15 26.7 4 11 36.4 2 2 100.0 0 4 4 3 2 0 1 1 2
+p374
+aVHenry Sims PHI 01/30/2015 PHI vs. MIN W 17 6 3 6 50.0 0 0 - 0 0 - 1 2 3 2 2 1 0 0 3
+p375
+aVJaKarr Sampson PHI 01/28/2015 PHI vs. DET W 24 13 5 6 83.3 2 2 100.0 1 2 50.0 0 8 8 0 2 0 2 2 26
+p376
+aVRobert Covington PHI 01/28/2015 PHI vs. DET W 25 19 7 11 63.6 4 5 80.0 1 1 100.0 3 2 5 3 1 0 1 5 22
+p377
+aVHenry Sims PHI 01/28/2015 PHI vs. DET W 18 10 5 7 71.4 0 0 - 0 0 - 2 4 6 1 0 2 4 3 -14
+p378
+aVJerami Grant PHI 01/28/2015 PHI vs. DET W 21 4 2 6 33.3 0 1 0.0 0 0 - 3 1 4 2 1 2 3 1 -12
+p379
+aVLarry Drew II PHI 01/28/2015 PHI vs. DET W 13 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 2 -14
+p380
+aVNerlens Noel PHI 01/28/2015 PHI vs. DET W 29 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 5 4 2 1 1 34
+p381
+aVKJ McDaniels PHI 01/28/2015 PHI vs. DET W 24 10 4 7 57.1 0 1 0.0 2 2 100.0 0 4 4 0 1 1 1 2 -6
+p382
+aVLuc Mbah a Moute PHI 01/28/2015 PHI vs. DET W 31 12 6 14 42.9 0 1 0.0 0 0 - 2 4 6 4 2 0 2 0 34
+p383
+aVHollis Thompson PHI 01/28/2015 PHI vs. DET W 20 2 1 9 11.1 0 6 0.0 0 0 - 1 0 1 1 0 1 0 2 -4
+p384
+aVMichael Carter-Williams PHI 01/28/2015 PHI vs. DET W 35 14 5 10 50.0 1 2 50.0 3 5 60.0 0 9 9 10 0 2 5 1 34
+p385
+aVHenry Sims PHI 01/26/2015 PHI @ NOP L 19 14 4 9 44.4 0 0 - 6 8 75.0 3 0 3 1 1 0 1 2 -14
+p386
+aVJaKarr Sampson PHI 01/26/2015 PHI @ NOP L 18 4 2 9 22.2 0 2 0.0 0 0 - 2 2 4 1 0 1 1 1 -13
+p387
+aVNerlens Noel PHI 01/26/2015 PHI @ NOP L 31 2 1 9 11.1 0 0 - 0 0 - 1 5 6 2 0 2 1 2 -14
+p388
+aVLarry Drew II PHI 01/26/2015 PHI @ NOP L 32 4 2 9 22.2 0 4 0.0 0 0 - 1 4 5 2 1 0 4 2 -17
+p389
+aVJerami Grant PHI 01/26/2015 PHI @ NOP L 26 10 4 8 50.0 1 2 50.0 1 2 50.0 0 2 2 2 0 4 2 2 -15
+p390
+aVKJ McDaniels PHI 01/26/2015 PHI @ NOP L 28 16 5 8 62.5 1 1 100.0 5 6 83.3 1 3 4 1 3 2 2 2 -10
+p391
+aVFurkan Aldemir PHI 01/26/2015 PHI @ NOP L 10 2 1 1 100.0 0 0 - 0 0 - 3 1 4 0 1 0 0 3 -4
+p392
+aVLuc Mbah a Moute PHI 01/26/2015 PHI @ NOP L 31 14 6 13 46.2 0 1 0.0 2 3 66.7 1 2 3 1 0 0 0 3 -16
+p393
+aVRobert Covington PHI 01/26/2015 PHI @ NOP L 30 6 2 11 18.2 0 4 0.0 2 2 100.0 1 5 6 5 1 0 0 1 -1
+p394
+aVHollis Thompson PHI 01/26/2015 PHI @ NOP L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -21
+p395
+aVNerlens Noel PHI 01/24/2015 PHI @ MEM L 24 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 0 1 1 0 2 -2
+p396
+aVJerami Grant PHI 01/24/2015 PHI @ MEM L 26 16 5 10 50.0 2 4 50.0 4 8 50.0 0 2 2 1 0 0 5 3 -7
+p397
+aVLuc Mbah a Moute PHI 01/24/2015 PHI @ MEM L 24 7 3 9 33.3 0 3 0.0 1 2 50.0 0 7 7 0 0 0 2 2 -15
+p398
+aVHenry Sims PHI 01/24/2015 PHI @ MEM L 8 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -15
+p399
+aVHollis Thompson PHI 01/24/2015 PHI @ MEM L 20 5 2 8 25.0 1 2 50.0 0 0 - 3 1 4 1 0 0 0 2 1
+p400
+aVMichael Carter-Williams PHI 01/24/2015 PHI @ MEM L 26 10 3 12 25.0 2 5 40.0 2 2 100.0 0 3 3 6 0 0 5 1 -20
+p401
+aVRobert Covington PHI 01/24/2015 PHI @ MEM L 22 8 2 6 33.3 2 3 66.7 2 3 66.7 0 1 1 0 1 0 2 1 -13
+p402
+aVMalcolm Thomas PHI 01/24/2015 PHI @ MEM L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -1
+p403
+aVJaKarr Sampson PHI 01/24/2015 PHI @ MEM L 17 9 4 9 44.4 1 3 33.3 0 0 - 1 2 3 1 0 0 1 3 1
+p404
+aVFurkan Aldemir PHI 01/24/2015 PHI @ MEM L 20 4 2 4 50.0 0 0 - 0 0 - 5 6 11 3 3 0 1 2 5
+p405
+aVKJ McDaniels PHI 01/24/2015 PHI @ MEM L 29 6 2 9 22.2 1 3 33.3 1 4 25.0 2 3 5 1 2 1 4 0 -15
+p406
+aVLarry Drew II PHI 01/24/2015 PHI @ MEM L 20 9 4 6 66.7 0 1 0.0 1 1 100.0 0 0 0 4 0 0 1 1 -9
+p407
+aVJaKarr Sampson PHI 01/23/2015 PHI vs. TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p408
+aVHollis Thompson PHI 01/23/2015 PHI vs. TOR L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 1 0 1 -11
+p409
+aVRobert Covington PHI 01/23/2015 PHI vs. TOR L 35 18 5 15 33.3 4 11 36.4 4 4 100.0 1 5 6 0 2 2 4 2 11
+p410
+aVKJ McDaniels PHI 01/23/2015 PHI vs. TOR L 30 14 6 13 46.2 2 7 28.6 0 0 - 2 3 5 5 0 1 1 3 17
+p411
+aVJerami Grant PHI 01/23/2015 PHI vs. TOR L 23 4 1 4 25.0 0 1 0.0 2 4 50.0 2 3 5 2 0 0 2 3 -22
+p412
+aVMichael Carter-Williams PHI 01/23/2015 PHI vs. TOR L 36 12 4 8 50.0 1 2 50.0 3 4 75.0 1 6 7 9 4 1 4 3 8
+p413
+aVLarry Drew II PHI 01/23/2015 PHI vs. TOR L 14 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -16
+p414
+aVNerlens Noel PHI 01/23/2015 PHI vs. TOR L 33 12 5 12 41.7 0 0 - 2 2 100.0 5 9 14 1 2 0 2 5 13
+p415
+aVLuc Mbah a Moute PHI 01/23/2015 PHI vs. TOR L 34 10 4 8 50.0 1 3 33.3 1 1 100.0 3 2 5 2 1 1 2 0 8
+p416
+aVHenry Sims PHI 01/23/2015 PHI vs. TOR L 19 11 4 11 36.4 0 1 0.0 3 3 100.0 1 3 4 0 0 0 2 2 -19
+p417
+aVMichael Carter-Williams PHI 01/21/2015 PHI vs. NYK L 38 27 10 26 38.5 0 1 0.0 7 8 87.5 3 3 6 7 5 0 3 1 0
+p418
+aVMalcolm Thomas PHI 01/21/2015 PHI vs. NYK L 18 6 1 4 25.0 0 2 0.0 4 7 57.1 2 5 7 0 0 0 1 2 -10
+p419
+aVKJ McDaniels PHI 01/21/2015 PHI vs. NYK L 25 12 4 13 30.8 2 3 66.7 2 2 100.0 2 3 5 1 0 0 1 2 -18
+p420
+aVHollis Thompson PHI 01/21/2015 PHI vs. NYK L 15 8 2 4 50.0 2 4 50.0 2 3 66.7 1 1 2 1 0 0 1 3 6
+p421
+aVRobert Covington PHI 01/21/2015 PHI vs. NYK L 39 17 5 11 45.5 3 8 37.5 4 4 100.0 0 3 3 4 1 2 3 4 -5
+p422
+aVJaKarr Sampson PHI 01/21/2015 PHI vs. NYK L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -9
+p423
+aVJerami Grant PHI 01/21/2015 PHI vs. NYK L 25 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 1 0 8 1 1 14
+p424
+aVLarry Drew II PHI 01/21/2015 PHI vs. NYK L 18 4 1 3 33.3 1 3 33.3 1 2 50.0 0 1 1 4 1 0 2 0 -5
+p425
+aVHenry Sims PHI 01/21/2015 PHI vs. NYK L 32 11 4 12 33.3 0 0 - 3 4 75.0 5 7 12 2 0 0 1 2 0
+p426
+aVFurkan Aldemir PHI 01/21/2015 PHI vs. NYK L 19 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 3 0 2 -8
+p427
+aVHenry Sims PHI 01/19/2015 PHI @ WAS L 21 13 5 10 50.0 0 0 - 3 3 100.0 1 2 3 2 0 1 1 1 -7
+p428
+aVFurkan Aldemir PHI 01/19/2015 PHI @ WAS L 19 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 1 0 0 2 -31
+p429
+aVKJ McDaniels PHI 01/19/2015 PHI @ WAS L 22 5 2 9 22.2 0 1 0.0 1 3 33.3 1 3 4 0 1 1 2 3 -25
+p430
+aVNerlens Noel PHI 01/19/2015 PHI @ WAS L 31 11 4 9 44.4 0 0 - 3 4 75.0 4 3 7 3 4 1 1 4 -4
+p431
+aVLarry Drew II PHI 01/19/2015 PHI @ WAS L 23 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 6 1 0 5 2 -20
+p432
+aVMichael Carter-Williams PHI 01/19/2015 PHI @ WAS L 29 7 2 13 15.4 0 1 0.0 3 6 50.0 0 1 1 5 2 0 4 2 -13
+p433
+aVJaKarr Sampson PHI 01/19/2015 PHI @ WAS L 11 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 1 -18
+p434
+aVJerami Grant PHI 01/19/2015 PHI @ WAS L 25 12 4 10 40.0 3 6 50.0 1 2 50.0 1 1 2 1 0 0 0 0 -13
+p435
+aVRobert Covington PHI 01/19/2015 PHI @ WAS L 26 10 4 10 40.0 1 5 20.0 1 1 100.0 0 4 4 1 0 0 2 1 -6
+p436
+aVHollis Thompson PHI 01/19/2015 PHI @ WAS L 22 9 3 9 33.3 1 5 20.0 2 4 50.0 0 4 4 1 1 1 0 1 -27
+p437
+aVMalcolm Thomas PHI 01/19/2015 PHI @ WAS L 12 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -11
+p438
+aVMichael Carter-Williams PHI 01/17/2015 PHI @ DET L 24 15 6 12 50.0 1 3 33.3 2 2 100.0 1 0 1 6 1 0 4 1 -14
+p439
+aVRobert Covington PHI 01/17/2015 PHI @ DET L 28 9 3 9 33.3 2 6 33.3 1 1 100.0 1 1 2 2 1 0 2 0 -18
+p440
+aVNerlens Noel PHI 01/17/2015 PHI @ DET L 24 7 3 7 42.9 0 0 - 1 2 50.0 2 5 7 0 1 2 2 2 -20
+p441
+aVJerami Grant PHI 01/17/2015 PHI @ DET L 21 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 1 2 1 3 1 -3
+p442
+aVLarry Drew II PHI 01/17/2015 PHI @ DET L 24 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 9 1 0 3 0 -4
+p443
+aVLuc Mbah a Moute PHI 01/17/2015 PHI @ DET L 22 11 5 8 62.5 1 3 33.3 0 0 - 1 5 6 1 0 0 1 0 -16
+p444
+aVMalcolm Thomas PHI 01/17/2015 PHI @ DET L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p445
+aVJaKarr Sampson PHI 01/17/2015 PHI @ DET L 16 9 4 5 80.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 2
+p446
+aVKJ McDaniels PHI 01/17/2015 PHI @ DET L 27 4 2 10 20.0 0 3 0.0 0 0 - 1 2 3 1 1 1 3 4 -12
+p447
+aVFurkan Aldemir PHI 01/17/2015 PHI @ DET L 12 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 1 0 0 2 1
+p448
+aVHollis Thompson PHI 01/17/2015 PHI @ DET L 19 7 3 7 42.9 1 4 25.0 0 0 - 0 3 3 0 1 1 1 3 -8
+p449
+aVHenry Sims PHI 01/17/2015 PHI @ DET L 17 12 5 6 83.3 0 0 - 2 2 100.0 3 7 10 1 1 0 3 2 -1
+p450
+aVJaKarr Sampson PHI 01/16/2015 PHI vs. NOP W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 3 -10
+p451
+aVNerlens Noel PHI 01/16/2015 PHI vs. NOP W 33 17 7 10 70.0 0 0 - 3 4 75.0 2 9 11 2 2 5 0 2 19
+p452
+aVMichael Carter-Williams PHI 01/16/2015 PHI vs. NOP W 34 22 9 19 47.4 1 3 33.3 3 7 42.9 1 5 6 7 3 0 3 1 21
+p453
+aVKJ McDaniels PHI 01/16/2015 PHI vs. NOP W 25 5 2 7 28.6 0 3 0.0 1 2 50.0 0 1 1 4 1 1 1 2 16
+p454
+aVRobert Covington PHI 01/16/2015 PHI vs. NOP W 33 18 5 14 35.7 2 8 25.0 6 7 85.7 1 5 6 3 1 2 0 2 32
+p455
+aVLuc Mbah a Moute PHI 01/16/2015 PHI vs. NOP W 31 13 6 10 60.0 1 2 50.0 0 0 - 2 2 4 1 1 0 0 3 18
+p456
+aVHollis Thompson PHI 01/16/2015 PHI vs. NOP W 21 8 2 5 40.0 1 3 33.3 3 5 60.0 3 3 6 2 0 1 0 1 -6
+p457
+aVFurkan Aldemir PHI 01/16/2015 PHI vs. NOP W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p458
+aVHenry Sims PHI 01/16/2015 PHI vs. NOP W 11 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 1 2 0 1 1 -7
+p459
+aVLarry Drew II PHI 01/16/2015 PHI vs. NOP W 14 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 -6
+p460
+aVJerami Grant PHI 01/16/2015 PHI vs. NOP W 25 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 0 2 1 1 4 -2
+p461
+aVJerami Grant PHI 01/14/2015 PHI @ TOR L 22 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 1 0 1 1 6 -3
+p462
+aVHollis Thompson PHI 01/14/2015 PHI @ TOR L 24 9 2 10 20.0 1 5 20.0 4 7 57.1 1 1 2 0 2 0 1 3 -4
+p463
+aVNerlens Noel PHI 01/14/2015 PHI @ TOR L 39 12 5 9 55.6 0 0 - 2 4 50.0 3 5 8 1 3 1 0 2 -19
+p464
+aVHenry Sims PHI 01/14/2015 PHI @ TOR L 24 8 4 9 44.4 0 0 - 0 0 - 2 5 7 2 0 1 1 2 -6
+p465
+aVKJ McDaniels PHI 01/14/2015 PHI @ TOR L 32 10 2 10 20.0 1 4 25.0 5 6 83.3 3 5 8 1 1 4 1 2 -14
+p466
+aVFurkan Aldemir PHI 01/14/2015 PHI @ TOR L 15 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 0 0 2 -3
+p467
+aVLuc Mbah a Moute PHI 01/14/2015 PHI @ TOR L 30 3 1 7 14.3 0 2 0.0 1 2 50.0 0 1 1 0 2 0 2 2 -16
+p468
+aVMichael Carter-Williams PHI 01/14/2015 PHI @ TOR L 41 29 12 25 48.0 1 6 16.7 4 8 50.0 0 7 7 4 2 0 4 3 -15
+p469
+aVJaKarr Sampson PHI 01/14/2015 PHI @ TOR L 13 4 1 5 20.0 0 2 0.0 2 2 100.0 0 3 3 3 0 1 2 0 0
+p470
+aVLuc Mbah a Moute PHI 01/13/2015 PHI vs. ATL L 20 7 1 5 20.0 1 3 33.3 4 6 66.7 0 0 0 1 1 0 1 1 1
+p471
+aVMichael Carter-Williams PHI 01/13/2015 PHI vs. ATL L 30 20 8 13 61.5 1 2 50.0 3 3 100.0 2 7 9 4 1 1 5 3 -16
+p472
+aVNerlens Noel PHI 01/13/2015 PHI vs. ATL L 31 2 1 4 25.0 0 0 - 0 2 0.0 3 3 6 1 2 1 1 3 -19
+p473
+aVHenry Sims PHI 01/13/2015 PHI vs. ATL L 8 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 1 1 1 1 1
+p474
+aVJerami Grant PHI 01/13/2015 PHI vs. ATL L 21 13 5 7 71.4 2 3 66.7 1 1 100.0 0 1 1 0 0 1 1 3 -13
+p475
+aVJaKarr Sampson PHI 01/13/2015 PHI vs. ATL L 14 5 2 4 50.0 1 2 50.0 0 2 0.0 0 2 2 3 0 0 2 2 2
+p476
+aVRobert Covington PHI 01/13/2015 PHI vs. ATL L 32 7 2 13 15.4 0 7 0.0 3 3 100.0 3 2 5 1 2 1 3 2 -20
+p477
+aVMalcolm Thomas PHI 01/13/2015 PHI vs. ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p478
+aVKJ McDaniels PHI 01/13/2015 PHI vs. ATL L 33 14 5 9 55.6 2 3 66.7 2 2 100.0 2 1 3 4 1 0 1 2 -20
+p479
+aVFurkan Aldemir PHI 01/13/2015 PHI vs. ATL L 9 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 1 0 1 0
+p480
+aVHollis Thompson PHI 01/13/2015 PHI vs. ATL L 17 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 -2
+p481
+aVTony Wroten PHI 01/13/2015 PHI vs. ATL L 21 10 4 12 33.3 1 4 25.0 1 4 25.0 0 1 1 4 0 0 2 3 -8
+p482
+aVMichael Carter-Williams PHI 01/10/2015 PHI vs. IND W 35 15 6 17 35.3 1 4 25.0 2 2 100.0 0 5 5 9 0 1 4 2 -3
+p483
+aVKJ McDaniels PHI 01/10/2015 PHI vs. IND W 33 10 3 7 42.9 1 3 33.3 3 4 75.0 1 2 3 1 0 2 1 2 13
+p484
+aVJerami Grant PHI 01/10/2015 PHI vs. IND W 18 6 2 4 50.0 2 2 100.0 0 0 - 2 5 7 0 1 3 2 4 0
+p485
+aVJaKarr Sampson PHI 01/10/2015 PHI vs. IND W 19 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 10
+p486
+aVLuc Mbah a Moute PHI 01/10/2015 PHI vs. IND W 25 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 4 -4
+p487
+aVTony Wroten PHI 01/10/2015 PHI vs. IND W 29 20 6 17 35.3 2 5 40.0 6 7 85.7 2 2 4 9 2 0 4 4 -3
+p488
+aVRobert Covington PHI 01/10/2015 PHI vs. IND W 26 16 6 13 46.2 4 8 50.0 0 1 0.0 0 2 2 0 0 0 0 4 -8
+p489
+aVHenry Sims PHI 01/10/2015 PHI vs. IND W 19 11 3 7 42.9 0 0 - 5 6 83.3 4 5 9 1 0 0 1 3 7
+p490
+aVNerlens Noel PHI 01/10/2015 PHI vs. IND W 31 6 2 5 40.0 0 0 - 2 5 40.0 2 7 9 0 0 5 1 4 -9
+p491
+aVFurkan Aldemir PHI 01/10/2015 PHI vs. IND W 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 1 2 3 2
+p492
+aVTony Wroten PHI 01/09/2015 PHI @ BKN W 28 12 5 13 38.5 0 3 0.0 2 4 50.0 0 2 2 4 3 1 0 1 12
+p493
+aVNerlens Noel PHI 01/09/2015 PHI @ BKN W 32 12 6 10 60.0 0 0 - 0 0 - 1 4 5 2 0 2 1 2 6
+p494
+aVJerami Grant PHI 01/09/2015 PHI @ BKN W 13 6 2 7 28.6 1 3 33.3 1 2 50.0 2 0 2 1 1 0 0 1 3
+p495
+aVRobert Covington PHI 01/09/2015 PHI @ BKN W 40 20 8 12 66.7 3 6 50.0 1 2 50.0 2 5 7 1 6 0 1 2 10
+p496
+aVJaKarr Sampson PHI 01/09/2015 PHI @ BKN W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p497
+aVMichael Carter-Williams PHI 01/09/2015 PHI @ BKN W 31 8 2 9 22.2 1 1 100.0 3 6 50.0 2 5 7 8 1 0 4 4 -2
+p498
+aVMalcolm Thomas PHI 01/09/2015 PHI @ BKN W 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -5
+p499
+aVFurkan Aldemir PHI 01/09/2015 PHI @ BKN W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 2 5 -3
+p500
+aVKJ McDaniels PHI 01/09/2015 PHI @ BKN W 23 6 2 4 50.0 1 1 100.0 1 1 100.0 0 2 2 3 0 0 1 2 3
+p501
+aVHenry Sims PHI 01/09/2015 PHI @ BKN W 18 8 4 10 40.0 0 0 - 0 0 - 2 1 3 2 0 0 0 1 -9
+p502
+aVLuc Mbah a Moute PHI 01/09/2015 PHI @ BKN W 36 16 6 10 60.0 2 3 66.7 2 2 100.0 1 3 4 0 3 1 3 1 -1
+p503
+aVMichael Carter-Williams PHI 01/07/2015 PHI vs. MIL L 31 5 1 13 7.7 0 4 0.0 3 4 75.0 1 4 5 5 1 1 4 3 -18
+p504
+aVNerlens Noel PHI 01/07/2015 PHI vs. MIL L 28 13 6 10 60.0 0 0 - 1 2 50.0 4 1 5 1 2 2 2 3 -17
+p505
+aVKJ McDaniels PHI 01/07/2015 PHI vs. MIL L 30 14 5 8 62.5 0 1 0.0 4 4 100.0 3 3 6 0 3 1 5 1 -14
+p506
+aVRobert Covington PHI 01/07/2015 PHI vs. MIL L 33 8 1 11 9.1 1 9 11.1 5 6 83.3 0 3 3 0 2 0 3 2 -17
+p507
+aVTony Wroten PHI 01/07/2015 PHI vs. MIL L 23 12 4 19 21.1 0 7 0.0 4 4 100.0 0 0 0 1 0 0 1 2 -22
+p508
+aVFurkan Aldemir PHI 01/07/2015 PHI vs. MIL L 18 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 0 0 1 3 2
+p509
+aVJaKarr Sampson PHI 01/07/2015 PHI vs. MIL L 24 11 5 7 71.4 1 2 50.0 0 0 - 2 5 7 5 1 0 4 3 16
+p510
+aVJerami Grant PHI 01/07/2015 PHI vs. MIL L 25 7 0 3 0.0 0 2 0.0 7 8 87.5 1 4 5 1 2 2 2 1 -7
+p511
+aVHenry Sims PHI 01/07/2015 PHI vs. MIL L 18 3 1 8 12.5 0 0 - 1 1 100.0 0 5 5 1 0 0 2 0 -11
+p512
+aVMalcolm Thomas PHI 01/07/2015 PHI vs. MIL L 10 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -12
+p513
+aVNerlens Noel PHI 01/05/2015 PHI vs. CLE W 26 6 2 9 22.2 0 0 - 2 2 100.0 1 5 6 0 0 2 2 2 -7
+p514
+aVKJ McDaniels PHI 01/05/2015 PHI vs. CLE W 32 12 5 8 62.5 2 3 66.7 0 0 - 0 3 3 4 0 2 3 5 11
+p515
+aVMichael Carter-Williams PHI 01/05/2015 PHI vs. CLE W 42 18 8 19 42.1 1 6 16.7 1 1 100.0 2 4 6 13 2 1 1 3 1
+p516
+aVJaKarr Sampson PHI 01/05/2015 PHI vs. CLE W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p517
+aVHenry Sims PHI 01/05/2015 PHI vs. CLE W 24 12 6 9 66.7 0 0 - 0 0 - 0 7 7 2 0 0 4 3 4
+p518
+aVRobert Covington PHI 01/05/2015 PHI vs. CLE W 39 16 4 9 44.4 4 7 57.1 4 5 80.0 1 5 6 1 1 0 0 3 3
+p519
+aVMalcolm Thomas PHI 01/05/2015 PHI vs. CLE W 11 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 1 0 0 0 -12
+p520
+aVFurkan Aldemir PHI 01/05/2015 PHI vs. CLE W 19 0 0 0 - 0 0 - 0 0 - 2 8 10 1 0 1 0 3 9
+p521
+aVTony Wroten PHI 01/05/2015 PHI vs. CLE W 28 20 8 18 44.4 0 6 0.0 4 6 66.7 1 0 1 8 0 0 5 1 11
+p522
+aVJerami Grant PHI 01/05/2015 PHI vs. CLE W 19 7 3 3 100.0 0 0 - 1 1 100.0 0 1 1 2 1 2 2 3 -3
+p523
+aVMalcolm Thomas PHI 01/03/2015 PHI @ LAC L 17 0 0 2 0.0 0 1 0.0 0 0 - 1 4 5 1 0 0 1 2 -17
+p524
+aVLuc Mbah a Moute PHI 01/03/2015 PHI @ LAC L 24 14 4 7 57.1 2 4 50.0 4 4 100.0 1 0 1 1 1 0 0 1 -15
+p525
+aVFurkan Aldemir PHI 01/03/2015 PHI @ LAC L 13 3 1 3 33.3 0 0 - 1 2 50.0 4 3 7 0 0 0 1 1 -15
+p526
+aVJaKarr Sampson PHI 01/03/2015 PHI @ LAC L 24 10 4 7 57.1 1 3 33.3 1 2 50.0 0 3 3 1 1 0 1 4 -16
+p527
+aVRobert Covington PHI 01/03/2015 PHI @ LAC L 32 23 9 15 60.0 4 7 57.1 1 2 50.0 0 3 3 0 1 0 1 3 -17
+p528
+aVJerami Grant PHI 01/03/2015 PHI @ LAC L 16 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 0 -17
+p529
+aVTony Wroten PHI 01/03/2015 PHI @ LAC L 39 27 8 21 38.1 2 8 25.0 9 10 90.0 1 3 4 7 1 0 6 1 -16
+p530
+aVNerlens Noel PHI 01/03/2015 PHI @ LAC L 34 7 3 12 25.0 0 0 - 1 2 50.0 6 6 12 4 0 1 6 3 -27
+p531
+aVHenry Sims PHI 01/03/2015 PHI @ LAC L 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 1 0 4 2 -6
+p532
+aVKJ McDaniels PHI 01/03/2015 PHI @ LAC L 26 4 2 10 20.0 0 2 0.0 0 2 0.0 2 4 6 1 1 0 1 2 -34
+p533
+aVTony Wroten PHI 01/02/2015 PHI @ PHX L 33 28 10 19 52.6 4 9 44.4 4 9 44.4 0 2 2 3 3 0 5 2 0
+p534
+aVJaKarr Sampson PHI 01/02/2015 PHI @ PHX L 2 2 1 2 50.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 1 0 0
+p535
+aVKJ McDaniels PHI 01/02/2015 PHI @ PHX L 26 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 3 0 0 0 0 -12
+p536
+aVNerlens Noel PHI 01/02/2015 PHI @ PHX L 22 4 2 6 33.3 0 0 - 0 0 - 4 2 6 0 0 2 0 2 -15
+p537
+aVJerami Grant PHI 01/02/2015 PHI @ PHX L 24 2 0 3 0.0 0 2 0.0 2 2 100.0 3 1 4 1 0 0 1 3 -2
+p538
+aVHenry Sims PHI 01/02/2015 PHI @ PHX L 18 16 6 7 85.7 0 0 - 4 4 100.0 3 2 5 2 0 2 1 0 1
+p539
+aVFurkan Aldemir PHI 01/02/2015 PHI @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p540
+aVMichael Carter-Williams PHI 01/02/2015 PHI @ PHX L 35 17 8 20 40.0 1 4 25.0 0 0 - 3 4 7 5 0 0 3 4 -20
+p541
+aVRobert Covington PHI 01/02/2015 PHI @ PHX L 34 10 3 7 42.9 2 5 40.0 2 2 100.0 1 4 5 2 5 1 3 4 -15
+p542
+aVMalcolm Thomas PHI 01/02/2015 PHI @ PHX L 11 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 2 1 0 0 0 -1
+p543
+aVLuc Mbah a Moute PHI 01/02/2015 PHI @ PHX L 32 12 5 12 41.7 0 2 0.0 2 4 50.0 2 6 8 2 3 1 2 0 -16
+p544
+aVMichael Carter-Williams PHI 12/30/2014 PHI @ GSW L 38 4 1 7 14.3 0 1 0.0 2 4 50.0 1 0 1 6 3 0 3 1 -32
+p545
+aVHenry Sims PHI 12/30/2014 PHI @ GSW L 23 19 9 13 69.2 0 0 - 1 2 50.0 4 3 7 0 0 0 3 2 -10
+p546
+aVNerlens Noel PHI 12/30/2014 PHI @ GSW L 26 8 3 13 23.1 0 0 - 2 3 66.7 2 5 7 1 1 0 2 1 -12
+p547
+aVJerami Grant PHI 12/30/2014 PHI @ GSW L 23 7 2 8 25.0 2 3 66.7 1 4 25.0 1 3 4 1 0 0 2 2 -18
+p548
+aVFurkan Aldemir PHI 12/30/2014 PHI @ GSW L 16 4 2 2 100.0 0 0 - 0 0 - 3 5 8 0 2 0 0 3 -23
+p549
+aVMalcolm Thomas PHI 12/30/2014 PHI @ GSW L 17 10 4 6 66.7 0 0 - 2 2 100.0 4 4 8 0 0 0 2 1 -16
+p550
+aVJaKarr Sampson PHI 12/30/2014 PHI @ GSW L 15 7 2 7 28.6 1 4 25.0 2 3 66.7 1 0 1 1 0 0 1 1 -10
+p551
+aVTony Wroten PHI 12/30/2014 PHI @ GSW L 20 10 4 13 30.8 1 5 20.0 1 1 100.0 0 1 1 3 2 1 5 0 -32
+p552
+aVKJ McDaniels PHI 12/30/2014 PHI @ GSW L 24 7 2 4 50.0 0 1 0.0 3 4 75.0 0 2 2 2 2 1 4 5 -26
+p553
+aVRobert Covington PHI 12/30/2014 PHI @ GSW L 38 10 4 13 30.8 2 6 33.3 0 0 - 2 7 9 2 1 0 5 0 -21
+p554
+aVFurkan Aldemir PHI 12/27/2014 PHI @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -2
+p555
+aVKJ McDaniels PHI 12/27/2014 PHI @ UTA L 26 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 1 1 1 3 3 -8
+p556
+aVHenry Sims PHI 12/27/2014 PHI @ UTA L 32 10 4 9 44.4 0 2 0.0 2 2 100.0 1 7 8 0 1 2 1 3 -8
+p557
+aVRobert Covington PHI 12/27/2014 PHI @ UTA L 36 17 5 10 50.0 2 6 33.3 5 8 62.5 2 7 9 0 1 2 1 3 -25
+p558
+aVMichael Carter-Williams PHI 12/27/2014 PHI @ UTA L 37 8 2 20 10.0 1 7 14.3 3 4 75.0 1 3 4 6 0 0 6 3 -14
+p559
+aVNerlens Noel PHI 12/27/2014 PHI @ UTA L 32 5 2 5 40.0 0 0 - 1 1 100.0 1 9 10 2 1 0 1 1 -14
+p560
+aVTony Wroten PHI 12/27/2014 PHI @ UTA L 32 20 8 17 47.1 1 6 16.7 3 5 60.0 2 4 6 0 2 0 3 2 2
+p561
+aVJerami Grant PHI 12/27/2014 PHI @ UTA L 20 4 0 1 0.0 0 0 - 4 6 66.7 2 1 3 1 2 0 0 1 1
+p562
+aVJaKarr Sampson PHI 12/27/2014 PHI @ UTA L 21 2 1 3 33.3 0 2 0.0 0 2 0.0 0 2 2 1 0 0 1 2 -17
+p563
+aVMalcolm Thomas PHI 12/26/2014 PHI @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p564
+aVRobert Covington PHI 12/26/2014 PHI @ POR L 29 8 3 10 30.0 2 6 33.3 0 2 0.0 0 3 3 2 1 0 5 2 -20
+p565
+aVKJ McDaniels PHI 12/26/2014 PHI @ POR L 25 12 3 8 37.5 0 1 0.0 6 8 75.0 1 3 4 0 0 3 1 1 -1
+p566
+aVJaKarr Sampson PHI 12/26/2014 PHI @ POR L 20 9 4 4 100.0 0 0 - 1 2 50.0 1 1 2 1 3 0 3 4 -15
+p567
+aVFurkan Aldemir PHI 12/26/2014 PHI @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p568
+aVHenry Sims PHI 12/26/2014 PHI @ POR L 15 8 4 6 66.7 0 0 - 0 0 - 4 4 8 1 0 1 0 0 -6
+p569
+aVJerami Grant PHI 12/26/2014 PHI @ POR L 25 0 0 4 0.0 0 0 - 0 2 0.0 0 2 2 0 1 1 0 1 -4
+p570
+aVLuc Mbah a Moute PHI 12/26/2014 PHI @ POR L 25 9 3 7 42.9 0 2 0.0 3 4 75.0 1 3 4 1 0 0 2 0 -16
+p571
+aVMichael Carter-Williams PHI 12/26/2014 PHI @ POR L 37 17 8 20 40.0 0 1 0.0 1 4 25.0 0 6 6 5 2 0 4 2 -13
+p572
+aVTony Wroten PHI 12/26/2014 PHI @ POR L 27 22 7 13 53.8 1 4 25.0 7 9 77.8 1 3 4 4 2 0 2 2 -12
+p573
+aVNerlens Noel PHI 12/26/2014 PHI @ POR L 28 8 4 9 44.4 0 0 - 0 2 0.0 1 6 7 2 4 2 1 1 -14
+p574
+aVJerami Grant PHI 12/23/2014 PHI @ MIA W 26 11 3 7 42.9 1 2 50.0 4 7 57.1 1 6 7 0 0 3 0 2 25
+p575
+aVHenry Sims PHI 12/23/2014 PHI @ MIA W 16 8 3 6 50.0 0 1 0.0 2 2 100.0 3 4 7 1 1 0 3 3 4
+p576
+aVLuc Mbah a Moute PHI 12/23/2014 PHI @ MIA W 39 19 8 16 50.0 0 2 0.0 3 4 75.0 1 5 6 0 2 1 3 3 4
+p577
+aVNerlens Noel PHI 12/23/2014 PHI @ MIA W 29 1 0 5 0.0 0 0 - 1 4 25.0 5 5 10 2 0 2 3 1 -7
+p578
+aVRobert Covington PHI 12/23/2014 PHI @ MIA W 35 11 3 11 27.3 1 5 20.0 4 4 100.0 1 4 5 3 2 1 1 5 -8
+p579
+aVKJ McDaniels PHI 12/23/2014 PHI @ MIA W 31 13 4 8 50.0 1 3 33.3 4 4 100.0 2 1 3 0 1 2 2 2 10
+p580
+aVJaKarr Sampson PHI 12/23/2014 PHI @ MIA W 20 8 3 6 50.0 0 2 0.0 2 2 100.0 0 1 1 0 1 1 1 3 -15
+p581
+aVMichael Carter-Williams PHI 12/23/2014 PHI @ MIA W 44 20 9 18 50.0 2 4 50.0 0 0 - 1 2 3 5 6 1 3 1 7
+p582
+aVKJ McDaniels PHI 12/21/2014 PHI @ ORL W 20 9 4 6 66.7 1 2 50.0 0 0 - 2 3 5 2 0 1 1 5 14
+p583
+aVJaKarr Sampson PHI 12/21/2014 PHI @ ORL W 17 5 2 5 40.0 1 1 100.0 0 0 - 2 0 2 0 0 0 2 1 1
+p584
+aVNerlens Noel PHI 12/21/2014 PHI @ ORL W 32 13 5 13 38.5 0 0 - 3 3 100.0 4 8 12 1 1 1 3 2 -8
+p585
+aVTony Wroten PHI 12/21/2014 PHI @ ORL W 31 10 3 11 27.3 1 6 16.7 3 5 60.0 0 1 1 7 3 0 3 0 9
+p586
+aVLuc Mbah a Moute PHI 12/21/2014 PHI @ ORL W 27 9 4 9 44.4 1 4 25.0 0 0 - 1 3 4 0 1 0 3 3 -5
+p587
+aVMichael Carter-Williams PHI 12/21/2014 PHI @ ORL W 36 21 7 12 58.3 1 2 50.0 6 8 75.0 0 4 4 6 1 1 6 5 -6
+p588
+aVJerami Grant PHI 12/21/2014 PHI @ ORL W 16 6 1 4 25.0 0 1 0.0 4 4 100.0 1 1 2 0 1 1 0 0 16
+p589
+aVRobert Covington PHI 12/21/2014 PHI @ ORL W 40 11 4 11 36.4 1 5 20.0 2 3 66.7 2 8 10 2 1 2 1 1 6
+p590
+aVHenry Sims PHI 12/21/2014 PHI @ ORL W 21 12 5 11 45.5 0 2 0.0 2 2 100.0 3 9 12 2 0 0 0 2 13
+p591
+aVKJ McDaniels PHI 12/19/2014 PHI vs. CHA L 27 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 1 0 2 4 3 -10
+p592
+aVRobert Covington PHI 12/19/2014 PHI vs. CHA L 27 19 6 10 60.0 6 8 75.0 1 2 50.0 0 2 2 1 0 2 4 3 -7
+p593
+aVLuc Mbah a Moute PHI 12/19/2014 PHI vs. CHA L 33 10 4 9 44.4 2 3 66.7 0 0 - 0 7 7 2 2 0 1 1 -5
+p594
+aVJaKarr Sampson PHI 12/19/2014 PHI vs. CHA L 20 8 2 2 100.0 0 0 - 4 4 100.0 1 4 5 0 0 1 3 2 -13
+p595
+aVJerami Grant PHI 12/19/2014 PHI vs. CHA L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 5
+p596
+aVTony Wroten PHI 12/19/2014 PHI vs. CHA L 24 19 5 10 50.0 4 6 66.7 5 6 83.3 0 1 1 3 0 1 3 4 -9
+p597
+aVHollis Thompson PHI 12/19/2014 PHI vs. CHA L 23 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 2 0 2 0 0 -17
+p598
+aVHenry Sims PHI 12/19/2014 PHI vs. CHA L 14 7 3 4 75.0 0 0 - 1 1 100.0 0 1 1 0 0 0 3 1 -14
+p599
+aVNerlens Noel PHI 12/19/2014 PHI vs. CHA L 31 6 3 7 42.9 0 0 - 0 0 - 1 8 9 3 3 3 2 1 -11
+p600
+aVMichael Carter-Williams PHI 12/19/2014 PHI vs. CHA L 30 14 6 17 35.3 0 3 0.0 2 2 100.0 0 5 5 10 1 1 4 2 -9
+p601
+aVJaKarr Sampson PHI 12/15/2014 PHI vs. BOS L 7 6 2 3 66.7 0 1 0.0 2 2 100.0 0 2 2 1 0 1 1 1 5
+p602
+aVAlexey Shved PHI 12/15/2014 PHI vs. BOS L 12 10 3 8 37.5 1 2 50.0 3 3 100.0 2 2 4 0 1 1 2 1 -19
+p603
+aVRobert Covington PHI 12/15/2014 PHI vs. BOS L 29 13 4 15 26.7 2 8 25.0 3 3 100.0 2 4 6 2 2 1 1 4 -3
+p604
+aVMichael Carter-Williams PHI 12/15/2014 PHI vs. BOS L 29 13 5 12 41.7 1 5 20.0 2 4 50.0 1 4 5 6 0 0 5 2 -4
+p605
+aVKJ McDaniels PHI 12/15/2014 PHI vs. BOS L 20 6 2 10 20.0 0 4 0.0 2 2 100.0 1 2 3 0 1 3 1 3 -20
+p606
+aVTony Wroten PHI 12/15/2014 PHI vs. BOS L 30 0 0 3 0.0 0 2 0.0 0 0 - 1 3 4 1 0 0 4 3 -14
+p607
+aVHollis Thompson PHI 12/15/2014 PHI vs. BOS L 21 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 1 1 0 0 3 -6
+p608
+aVLuc Mbah a Moute PHI 12/15/2014 PHI vs. BOS L 26 9 4 10 40.0 0 3 0.0 1 2 50.0 2 4 6 2 2 1 4 2 -4
+p609
+aVHenry Sims PHI 12/15/2014 PHI vs. BOS L 16 5 1 8 12.5 0 1 0.0 3 4 75.0 1 3 4 1 0 0 0 2 -21
+p610
+aVFurkan Aldemir PHI 12/15/2014 PHI vs. BOS L 10 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 1 2 1
+p611
+aVNerlens Noel PHI 12/15/2014 PHI vs. BOS L 29 19 9 12 75.0 0 0 - 1 1 100.0 3 5 8 4 3 2 3 4 -2
+p612
+aVJerami Grant PHI 12/15/2014 PHI vs. BOS L 11 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -3
+p613
+aVNerlens Noel PHI 12/13/2014 PHI vs. MEM L 31 4 1 4 25.0 0 0 - 2 4 50.0 0 5 5 1 4 2 3 4 -16
+p614
+aVJerami Grant PHI 12/13/2014 PHI vs. MEM L 10 0 0 3 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 4
+p615
+aVLuc Mbah a Moute PHI 12/13/2014 PHI vs. MEM L 34 10 4 11 36.4 0 4 0.0 2 4 50.0 2 3 5 0 1 1 1 5 -19
+p616
+aVHollis Thompson PHI 12/13/2014 PHI vs. MEM L 41 21 7 8 87.5 5 5 100.0 2 2 100.0 2 2 4 0 3 0 1 3 -2
+p617
+aVRobert Covington PHI 12/13/2014 PHI vs. MEM L 45 24 5 16 31.3 3 11 27.3 11 12 91.7 2 7 9 1 1 0 1 3 -7
+p618
+aVTony Wroten PHI 12/13/2014 PHI vs. MEM L 19 17 7 11 63.6 2 3 66.7 1 2 50.0 1 1 2 5 0 1 3 1 7
+p619
+aVMichael Carter-Williams PHI 12/13/2014 PHI vs. MEM L 38 16 7 18 38.9 1 4 25.0 1 2 50.0 2 9 11 11 0 0 6 4 -19
+p620
+aVJaKarr Sampson PHI 12/13/2014 PHI vs. MEM L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p621
+aVHenry Sims PHI 12/13/2014 PHI vs. MEM L 22 12 5 5 100.0 0 0 - 2 2 100.0 0 5 5 3 1 0 1 2 11
+p622
+aVAlexey Shved PHI 12/13/2014 PHI vs. MEM L 20 11 4 6 66.7 0 1 0.0 3 4 75.0 1 0 1 1 1 0 0 2 16
+p623
+aVHollis Thompson PHI 12/12/2014 PHI @ BKN L 28 2 1 6 16.7 0 4 0.0 0 0 - 0 2 2 0 0 1 0 2 -13
+p624
+aVAlexey Shved PHI 12/12/2014 PHI @ BKN L 11 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 1 -17
+p625
+aVMichael Carter-Williams PHI 12/12/2014 PHI @ BKN L 38 14 5 12 41.7 2 4 50.0 2 6 33.3 1 5 6 9 1 0 4 4 -1
+p626
+aVJaKarr Sampson PHI 12/12/2014 PHI @ BKN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p627
+aVLuc Mbah a Moute PHI 12/12/2014 PHI @ BKN L 33 8 2 7 28.6 2 3 66.7 2 2 100.0 0 4 4 3 2 0 1 1 4
+p628
+aVNerlens Noel PHI 12/12/2014 PHI @ BKN L 21 0 0 8 0.0 0 0 - 0 0 - 4 2 6 0 1 1 5 4 -4
+p629
+aVHenry Sims PHI 12/12/2014 PHI @ BKN L 24 14 6 8 75.0 0 0 - 2 2 100.0 4 0 4 0 1 0 2 2 -11
+p630
+aVJerami Grant PHI 12/12/2014 PHI @ BKN L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -16
+p631
+aVTony Wroten PHI 12/12/2014 PHI @ BKN L 22 12 2 10 20.0 1 4 25.0 7 8 87.5 0 3 3 3 1 0 4 0 -11
+p632
+aVKJ McDaniels PHI 12/12/2014 PHI @ BKN L 19 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 1 3 3 -16
+p633
+aVRobert Covington PHI 12/12/2014 PHI @ BKN L 30 20 6 10 60.0 6 10 60.0 2 2 100.0 0 6 6 2 3 1 3 2 -2
+p634
+aVLuc Mbah a Moute PHI 12/10/2014 PHI @ ATL L 29 12 5 9 55.6 2 4 50.0 0 1 0.0 0 2 2 0 5 1 1 1 -20
+p635
+aVRobert Covington PHI 12/10/2014 PHI @ ATL L 26 9 3 11 27.3 2 6 33.3 1 2 50.0 1 4 5 0 1 1 3 3 -10
+p636
+aVHenry Sims PHI 12/10/2014 PHI @ ATL L 13 1 0 3 0.0 0 0 - 1 2 50.0 0 4 4 0 0 0 1 0 -9
+p637
+aVKJ McDaniels PHI 12/10/2014 PHI @ ATL L 23 10 3 11 27.3 1 7 14.3 3 4 75.0 1 3 4 2 2 2 1 3 0
+p638
+aVHollis Thompson PHI 12/10/2014 PHI @ ATL L 36 8 3 7 42.9 1 3 33.3 1 1 100.0 1 4 5 4 0 0 0 0 -13
+p639
+aVMalcolm Lee PHI 12/10/2014 PHI @ ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p640
+aVJaKarr Sampson PHI 12/10/2014 PHI @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 2
+p641
+aVAlexey Shved PHI 12/10/2014 PHI @ ATL L 16 13 4 8 50.0 0 3 0.0 5 6 83.3 0 0 0 2 1 0 0 1 -8
+p642
+aVMichael Carter-Williams PHI 12/10/2014 PHI @ ATL L 38 8 4 7 57.1 0 1 0.0 0 0 - 2 8 10 9 0 2 9 4 -15
+p643
+aVNerlens Noel PHI 12/10/2014 PHI @ ATL L 34 8 3 7 42.9 0 0 - 2 4 50.0 0 5 5 3 0 3 2 3 -13
+p644
+aVJerami Grant PHI 12/10/2014 PHI @ ATL L 16 10 5 7 71.4 0 1 0.0 0 2 0.0 1 2 3 1 1 1 0 1 3
+p645
+aVMichael Carter-Williams PHI 12/06/2014 PHI @ DET W 45 20 8 12 66.7 0 0 - 4 5 80.0 1 7 8 15 3 2 7 3 16
+p646
+aVKJ McDaniels PHI 12/06/2014 PHI @ DET W 33 6 3 10 30.0 0 3 0.0 0 0 - 2 4 6 2 2 4 2 3 6
+p647
+aVJaKarr Sampson PHI 12/06/2014 PHI @ DET W 9 2 1 2 50.0 0 1 0.0 0 1 0.0 0 1 1 0 0 0 0 5 -4
+p648
+aVJerami Grant PHI 12/06/2014 PHI @ DET W 9 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 1 2 -9
+p649
+aVHollis Thompson PHI 12/06/2014 PHI @ DET W 26 13 5 9 55.6 3 6 50.0 0 2 0.0 0 2 2 1 0 0 1 2 10
+p650
+aVNerlens Noel PHI 12/06/2014 PHI @ DET W 37 9 3 7 42.9 0 0 - 3 4 75.0 2 6 8 2 1 1 3 3 10
+p651
+aVRobert Covington PHI 12/06/2014 PHI @ DET W 29 25 9 14 64.3 3 5 60.0 4 4 100.0 1 5 6 1 0 0 1 2 -5
+p652
+aVHenry Sims PHI 12/06/2014 PHI @ DET W 28 9 4 10 40.0 1 3 33.3 0 0 - 0 4 4 1 1 1 2 3 6
+p653
+aVLuc Mbah a Moute PHI 12/06/2014 PHI @ DET W 38 14 3 12 25.0 0 3 0.0 8 12 66.7 3 8 11 4 3 0 1 1 15
+p654
+aVBrandon Davies PHI 12/06/2014 PHI @ DET W 13 6 3 7 42.9 0 1 0.0 0 0 - 2 4 6 0 2 0 0 3 -10
+p655
+aVJaKarr Sampson PHI 12/05/2014 PHI vs. OKC L 8 3 1 3 33.3 0 1 0.0 1 2 50.0 1 2 3 1 0 0 0 0 -5
+p656
+aVNerlens Noel PHI 12/05/2014 PHI vs. OKC L 34 11 4 9 44.4 0 0 - 3 4 75.0 6 4 10 2 2 1 4 5 -16
+p657
+aVJerami Grant PHI 12/05/2014 PHI vs. OKC L 12 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 0 1 0 0 5 -4
+p658
+aVBrandon Davies PHI 12/05/2014 PHI vs. OKC L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 2 -3
+p659
+aVHollis Thompson PHI 12/05/2014 PHI vs. OKC L 27 5 1 7 14.3 1 6 16.7 2 2 100.0 2 3 5 1 3 0 0 3 2
+p660
+aVLuc Mbah a Moute PHI 12/05/2014 PHI vs. OKC L 27 11 4 9 44.4 2 2 100.0 1 3 33.3 1 1 2 1 2 0 1 1 -12
+p661
+aVHenry Sims PHI 12/05/2014 PHI vs. OKC L 23 10 4 10 40.0 0 3 0.0 2 4 50.0 1 1 2 1 0 0 2 0 -12
+p662
+aVRobert Covington PHI 12/05/2014 PHI vs. OKC L 28 21 8 13 61.5 3 6 50.0 2 2 100.0 3 3 6 2 1 0 3 2 -2
+p663
+aVMichael Carter-Williams PHI 12/05/2014 PHI vs. OKC L 42 16 6 19 31.6 1 4 25.0 3 5 60.0 0 7 7 14 3 1 4 4 -12
+p664
+aVKJ McDaniels PHI 12/05/2014 PHI vs. OKC L 33 11 3 9 33.3 1 5 20.0 4 6 66.7 2 3 5 3 1 0 2 2 4
+p665
+aVRobert Covington PHI 12/03/2014 PHI @ MIN W 31 17 5 13 38.5 3 6 50.0 4 4 100.0 1 3 4 1 1 0 0 2 11
+p666
+aVHollis Thompson PHI 12/03/2014 PHI @ MIN W 30 3 1 6 16.7 0 4 0.0 1 2 50.0 0 3 3 1 2 0 2 3 -11
+p667
+aVJaKarr Sampson PHI 12/03/2014 PHI @ MIN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p668
+aVNerlens Noel PHI 12/03/2014 PHI @ MIN W 25 8 4 8 50.0 0 0 - 0 0 - 0 3 3 0 2 1 1 4 -2
+p669
+aVHenry Sims PHI 12/03/2014 PHI @ MIN W 25 10 4 8 50.0 0 0 - 2 3 66.7 2 4 6 1 1 0 2 2 5
+p670
+aVMichael Carter-Williams PHI 12/03/2014 PHI @ MIN W 43 20 9 20 45.0 0 3 0.0 2 7 28.6 1 8 9 9 3 0 6 1 14
+p671
+aVJerami Grant PHI 12/03/2014 PHI @ MIN W 9 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 2 0 1 10
+p672
+aVKJ McDaniels PHI 12/03/2014 PHI @ MIN W 36 12 4 13 30.8 2 9 22.2 2 2 100.0 4 5 9 2 1 4 3 1 7
+p673
+aVLuc Mbah a Moute PHI 12/03/2014 PHI @ MIN W 28 12 4 9 44.4 0 1 0.0 4 5 80.0 2 7 9 1 1 0 1 1 6
+p674
+aVBrandon Davies PHI 12/03/2014 PHI @ MIN W 10 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 1 0 2 2 0
+p675
+aVMichael Carter-Williams PHI 12/01/2014 PHI vs. SAS L 35 24 9 19 47.4 2 3 66.7 4 5 80.0 1 10 11 7 0 0 4 4 -11
+p676
+aVBrandon Davies PHI 12/01/2014 PHI vs. SAS L 19 8 3 7 42.9 0 1 0.0 2 3 66.7 1 1 2 3 0 0 0 2 3
+p677
+aVJerami Grant PHI 12/01/2014 PHI vs. SAS L 13 4 2 6 33.3 0 2 0.0 0 2 0.0 1 2 3 0 1 1 0 1 -3
+p678
+aVHollis Thompson PHI 12/01/2014 PHI vs. SAS L 29 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 4 5
+p679
+aVDrew Gordon PHI 12/01/2014 PHI vs. SAS L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -3
+p680
+aVLuc Mbah a Moute PHI 12/01/2014 PHI vs. SAS L 22 6 3 10 30.0 0 2 0.0 0 0 - 0 1 1 3 3 0 1 1 -6
+p681
+aVJaKarr Sampson PHI 12/01/2014 PHI vs. SAS L 12 4 1 1 100.0 1 1 100.0 1 2 50.0 0 3 3 1 0 0 1 1 14
+p682
+aVRobert Covington PHI 12/01/2014 PHI vs. SAS L 17 9 3 6 50.0 3 3 100.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p683
+aVKJ McDaniels PHI 12/01/2014 PHI vs. SAS L 30 10 2 8 25.0 1 5 20.0 5 8 62.5 1 8 9 2 3 2 2 5 -17
+p684
+aVHenry Sims PHI 12/01/2014 PHI vs. SAS L 25 12 5 9 55.6 2 3 66.7 0 2 0.0 1 4 5 0 0 0 0 4 -10
+p685
+aVAlexey Shved PHI 12/01/2014 PHI vs. SAS L 28 19 7 16 43.8 2 6 33.3 3 3 100.0 2 2 4 4 2 0 0 3 1
+p686
+aVJaKarr Sampson PHI 11/29/2014 PHI vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 2
+p687
+aVKJ McDaniels PHI 11/29/2014 PHI vs. DAL L 32 21 8 17 47.1 2 3 66.7 3 3 100.0 9 4 13 1 1 2 5 3 -3
+p688
+aVBrandon Davies PHI 11/29/2014 PHI vs. DAL L 13 1 0 3 0.0 0 1 0.0 1 2 50.0 1 2 3 0 0 0 1 5 -11
+p689
+aVNerlens Noel PHI 11/29/2014 PHI vs. DAL L 37 10 5 10 50.0 0 0 - 0 0 - 3 6 9 0 1 1 2 3 -8
+p690
+aVMichael Carter-Williams PHI 11/29/2014 PHI vs. DAL L 35 18 4 13 30.8 0 3 0.0 10 12 83.3 2 8 10 16 1 0 5 4 -3
+p691
+aVJerami Grant PHI 11/29/2014 PHI vs. DAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 4
+p692
+aVHenry Sims PHI 11/29/2014 PHI vs. DAL L 24 13 5 8 62.5 0 0 - 3 4 75.0 3 2 5 1 1 0 2 2 -4
+p693
+aVHollis Thompson PHI 11/29/2014 PHI vs. DAL L 27 10 4 10 40.0 2 7 28.6 0 0 - 0 2 2 1 1 0 2 3 -8
+p694
+aVLuc Mbah a Moute PHI 11/29/2014 PHI vs. DAL L 29 8 4 10 40.0 0 1 0.0 0 0 - 2 3 5 0 3 0 3 2 -11
+p695
+aVAlexey Shved PHI 11/29/2014 PHI vs. DAL L 26 18 5 9 55.6 2 4 50.0 6 8 75.0 0 4 4 5 2 0 4 3 3
+p696
+aVRobert Covington PHI 11/29/2014 PHI vs. DAL L 13 4 1 5 20.0 0 2 0.0 2 2 100.0 1 0 1 1 0 0 0 1 4
+p697
+aVDrew Gordon PHI 11/26/2014 PHI vs. BKN L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 0
+p698
+aVHenry Sims PHI 11/26/2014 PHI vs. BKN L 27 12 6 13 46.2 0 0 - 0 0 - 2 7 9 0 2 0 2 2 -6
+p699
+aVLuc Mbah a Moute PHI 11/26/2014 PHI vs. BKN L 22 10 4 7 57.1 2 4 50.0 0 0 - 0 2 2 1 1 0 2 1 -11
+p700
+aVKJ McDaniels PHI 11/26/2014 PHI vs. BKN L 33 18 7 15 46.7 2 5 40.0 2 2 100.0 3 3 6 1 0 1 2 3 2
+p701
+aVBrandon Davies PHI 11/26/2014 PHI vs. BKN L 21 9 3 8 37.5 0 2 0.0 3 3 100.0 5 0 5 2 3 1 1 2 -4
+p702
+aVNerlens Noel PHI 11/26/2014 PHI vs. BKN L 37 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 0 3 1 2 2 -6
+p703
+aVTony Wroten PHI 11/26/2014 PHI vs. BKN L 35 18 6 18 33.3 0 4 0.0 6 8 75.0 0 2 2 11 2 0 8 5 -3
+p704
+aVHollis Thompson PHI 11/26/2014 PHI vs. BKN L 29 14 5 7 71.4 4 6 66.7 0 0 - 1 3 4 1 0 1 0 3 4
+p705
+aVRobert Covington PHI 11/26/2014 PHI vs. BKN L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p706
+aVMichael Carter-Williams PHI 11/26/2014 PHI vs. BKN L 27 4 1 9 11.1 1 1 100.0 1 2 50.0 1 5 6 7 0 1 3 6 -9
+p707
+aVHollis Thompson PHI 11/24/2014 PHI vs. POR L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 2 0 0 1 0 -6
+p708
+aVNerlens Noel PHI 11/24/2014 PHI vs. POR L 33 12 6 7 85.7 0 0 - 0 0 - 1 4 5 3 3 2 0 3 -18
+p709
+aVAlexey Shved PHI 11/24/2014 PHI vs. POR L 10 8 3 4 75.0 0 1 0.0 2 2 100.0 0 0 0 2 1 0 0 0 -4
+p710
+aVTony Wroten PHI 11/24/2014 PHI vs. POR L 38 20 7 18 38.9 0 3 0.0 6 9 66.7 1 1 2 9 3 1 3 3 -12
+p711
+aVKJ McDaniels PHI 11/24/2014 PHI vs. POR L 27 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 4 0 2 0 1 5
+p712
+aVDrew Gordon PHI 11/24/2014 PHI vs. POR L 7 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p713
+aVBrandon Davies PHI 11/24/2014 PHI vs. POR L 14 2 1 3 33.3 0 1 0.0 0 0 - 2 3 5 1 0 0 0 6 11
+p714
+aVRobert Covington PHI 11/24/2014 PHI vs. POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p715
+aVLuc Mbah a Moute PHI 11/24/2014 PHI vs. POR L 25 4 2 3 66.7 0 0 - 0 0 - 0 3 3 4 1 1 0 1 -9
+p716
+aVHenry Sims PHI 11/24/2014 PHI vs. POR L 34 22 8 14 57.1 0 1 0.0 6 6 100.0 1 3 4 1 1 0 3 3 -1
+p717
+aVMichael Carter-Williams PHI 11/24/2014 PHI vs. POR L 33 24 10 24 41.7 0 0 - 4 5 80.0 2 5 7 2 2 0 2 2 -11
+p718
+aVRobert Covington PHI 11/22/2014 PHI @ NYK L 14 14 4 6 66.7 4 4 100.0 2 2 100.0 0 4 4 0 0 0 0 2 12
+p719
+aVKJ McDaniels PHI 11/22/2014 PHI @ NYK L 20 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 0 1 0 2 3 2
+p720
+aVDrew Gordon PHI 11/22/2014 PHI @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p721
+aVHollis Thompson PHI 11/22/2014 PHI @ NYK L 22 10 4 7 57.1 2 5 40.0 0 1 0.0 1 4 5 1 1 0 2 3 7
+p722
+aVHenry Sims PHI 11/22/2014 PHI @ NYK L 18 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 0 2 0 1 4 -4
+p723
+aVLuc Mbah a Moute PHI 11/22/2014 PHI @ NYK L 30 7 3 9 33.3 0 4 0.0 1 2 50.0 2 1 3 0 1 0 3 3 -19
+p724
+aVNerlens Noel PHI 11/22/2014 PHI @ NYK L 39 17 6 11 54.5 0 0 - 5 10 50.0 3 9 12 2 1 1 2 0 -12
+p725
+aVMichael Carter-Williams PHI 11/22/2014 PHI @ NYK L 29 9 4 13 30.8 0 3 0.0 1 2 50.0 2 2 4 1 0 0 4 1 -6
+p726
+aVBrandon Davies PHI 11/22/2014 PHI @ NYK L 22 4 1 2 50.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 1 -12
+p727
+aVAlexey Shved PHI 11/22/2014 PHI @ NYK L 8 3 1 7 14.3 0 4 0.0 1 2 50.0 0 0 0 2 0 0 0 0 -4
+p728
+aVTony Wroten PHI 11/22/2014 PHI @ NYK L 37 5 2 9 22.2 0 3 0.0 1 2 50.0 0 2 2 7 2 0 4 4 -4
+p729
+aVAlexey Shved PHI 11/21/2014 PHI vs. PHX L 18 15 6 9 66.7 3 5 60.0 0 0 - 0 0 0 5 2 0 2 1 1
+p730
+aVDrew Gordon PHI 11/21/2014 PHI vs. PHX L 10 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -9
+p731
+aVNerlens Noel PHI 11/21/2014 PHI vs. PHX L 28 3 1 1 100.0 0 0 - 1 5 20.0 0 5 5 2 0 0 2 4 -9
+p732
+aVHenry Sims PHI 11/21/2014 PHI vs. PHX L 21 5 2 5 40.0 0 0 - 1 1 100.0 3 4 7 0 2 0 0 0 -11
+p733
+aVHollis Thompson PHI 11/21/2014 PHI vs. PHX L 18 5 2 5 40.0 0 2 0.0 1 2 50.0 0 3 3 0 0 0 1 1 -14
+p734
+aVMichael Carter-Williams PHI 11/21/2014 PHI vs. PHX L 28 18 6 18 33.3 0 4 0.0 6 11 54.5 1 5 6 6 1 0 5 4 -25
+p735
+aVLuc Mbah a Moute PHI 11/21/2014 PHI vs. PHX L 23 6 3 7 42.9 0 4 0.0 0 0 - 2 3 5 1 0 0 0 1 -12
+p736
+aVBrandon Davies PHI 11/21/2014 PHI vs. PHX L 28 8 2 5 40.0 0 1 0.0 4 6 66.7 2 3 5 3 1 1 3 3 -16
+p737
+aVRobert Covington PHI 11/21/2014 PHI vs. PHX L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 0 2 0 1 3 2
+p738
+aVTony Wroten PHI 11/21/2014 PHI vs. PHX L 25 13 6 8 75.0 0 1 0.0 1 2 50.0 1 1 2 1 0 0 2 3 -25
+p739
+aVKJ McDaniels PHI 11/21/2014 PHI vs. PHX L 28 17 5 12 41.7 1 4 25.0 6 6 100.0 1 2 3 0 2 0 0 2 -12
+p740
+aVDrew Gordon PHI 11/19/2014 PHI vs. BOS L 11 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 0 1 2 -5
+p741
+aVRobert Covington PHI 11/19/2014 PHI vs. BOS L 14 6 1 4 25.0 1 3 33.3 3 4 75.0 0 1 1 1 1 0 2 3 -11
+p742
+aVMichael Carter-Williams PHI 11/19/2014 PHI vs. BOS L 32 11 4 13 30.8 1 4 25.0 2 2 100.0 0 6 6 5 1 0 4 0 -6
+p743
+aVHenry Sims PHI 11/19/2014 PHI vs. BOS L 32 14 6 12 50.0 0 0 - 2 2 100.0 3 4 7 1 0 0 0 2 -3
+p744
+aVLuc Mbah a Moute PHI 11/19/2014 PHI vs. BOS L 34 11 5 11 45.5 1 2 50.0 0 2 0.0 1 5 6 1 3 0 2 2 -3
+p745
+aVNerlens Noel PHI 11/19/2014 PHI vs. BOS L 34 10 5 10 50.0 0 0 - 0 0 - 1 7 8 3 2 1 0 2 -15
+p746
+aVTony Wroten PHI 11/19/2014 PHI vs. BOS L 28 21 7 19 36.8 1 6 16.7 6 9 66.7 1 2 3 7 1 0 2 1 -4
+p747
+aVKJ McDaniels PHI 11/19/2014 PHI vs. BOS L 11 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 0 0 1 2 1 4
+p748
+aVBrandon Davies PHI 11/19/2014 PHI vs. BOS L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 4 -3
+p749
+aVHollis Thompson PHI 11/19/2014 PHI vs. BOS L 27 5 1 6 16.7 1 3 33.3 2 2 100.0 0 4 4 3 1 0 1 3 -9
+p750
+aVTony Wroten PHI 11/17/2014 PHI @ SAS L 30 8 4 14 28.6 0 3 0.0 0 0 - 1 0 1 3 1 0 4 0 -27
+p751
+aVAlexey Shved PHI 11/17/2014 PHI @ SAS L 12 4 1 4 25.0 0 3 0.0 2 2 100.0 0 0 0 1 1 0 0 0 -8
+p752
+aVNerlens Noel PHI 11/17/2014 PHI @ SAS L 25 4 2 8 25.0 0 0 - 0 0 - 1 5 6 0 1 1 0 4 -7
+p753
+aVKJ McDaniels PHI 11/17/2014 PHI @ SAS L 24 8 3 9 33.3 0 4 0.0 2 3 66.7 0 5 5 0 0 1 0 3 -5
+p754
+aVJaKarr Sampson PHI 11/17/2014 PHI @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p755
+aVHenry Sims PHI 11/17/2014 PHI @ SAS L 28 9 3 6 50.0 0 0 - 3 4 75.0 0 8 8 1 1 0 2 3 -15
+p756
+aVBrandon Davies PHI 11/17/2014 PHI @ SAS L 18 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 4 1 0 0 0 -19
+p757
+aVHollis Thompson PHI 11/17/2014 PHI @ SAS L 26 4 1 8 12.5 1 5 20.0 1 2 50.0 2 1 3 0 2 0 1 1 -33
+p758
+aVMichael Carter-Williams PHI 11/17/2014 PHI @ SAS L 30 16 7 14 50.0 1 5 20.0 1 3 33.3 0 5 5 4 2 0 3 2 -5
+p759
+aVRobert Covington PHI 11/17/2014 PHI @ SAS L 17 6 1 5 20.0 0 1 0.0 4 4 100.0 1 2 3 2 2 0 0 3 4
+p760
+aVLuc Mbah a Moute PHI 11/17/2014 PHI @ SAS L 25 13 4 10 40.0 2 4 50.0 3 4 75.0 0 4 4 0 0 2 2 2 -4
+p761
+aVDrew Gordon PHI 11/17/2014 PHI @ SAS L 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -3
+p762
+aVBrandon Davies PHI 11/14/2014 PHI @ HOU L 29 7 3 12 25.0 1 4 25.0 0 2 0.0 4 1 5 2 1 1 1 5 -2
+p763
+aVTony Wroten PHI 11/14/2014 PHI @ HOU L 35 19 7 16 43.8 2 6 33.3 3 6 50.0 2 2 4 8 1 0 4 3 -15
+p764
+aVMichael Carter-Williams PHI 11/14/2014 PHI @ HOU L 27 13 4 12 33.3 2 4 50.0 3 3 100.0 2 3 5 5 2 0 5 3 12
+p765
+aVDrew Gordon PHI 11/14/2014 PHI @ HOU L 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 2 1 0 3 0 3
+p766
+aVLuc Mbah a Moute PHI 11/14/2014 PHI @ HOU L 32 6 2 7 28.6 0 1 0.0 2 2 100.0 1 8 9 0 2 0 2 3 -15
+p767
+aVKJ McDaniels PHI 11/14/2014 PHI @ HOU L 16 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 2 0 2 3 8
+p768
+aVHollis Thompson PHI 11/14/2014 PHI @ HOU L 25 12 5 7 71.4 2 3 66.7 0 0 - 1 1 2 1 1 0 1 4 -5
+p769
+aVNerlens Noel PHI 11/14/2014 PHI @ HOU L 23 8 3 7 42.9 0 0 - 2 3 66.7 1 5 6 0 0 1 4 5 3
+p770
+aVChris Johnson PHI 11/14/2014 PHI @ HOU L 10 2 1 4 25.0 0 3 0.0 0 0 - 0 4 4 0 0 0 0 0 14
+p771
+aVHenry Sims PHI 11/14/2014 PHI @ HOU L 30 14 6 8 75.0 0 0 - 2 2 100.0 0 3 3 1 0 3 1 2 -8
+p772
+aVTony Wroten PHI 11/13/2014 PHI @ DAL L 25 11 3 7 42.9 2 5 40.0 3 6 50.0 1 3 4 2 0 0 5 4 -19
+p773
+aVHollis Thompson PHI 11/13/2014 PHI @ DAL L 24 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -35
+p774
+aVHenry Sims PHI 11/13/2014 PHI @ DAL L 16 4 1 3 33.3 0 0 - 2 4 50.0 2 3 5 0 1 1 0 1 -17
+p775
+aVJaKarr Sampson PHI 11/13/2014 PHI @ DAL L 22 8 3 8 37.5 1 2 50.0 1 2 50.0 0 2 2 0 0 1 0 1 -26
+p776
+aVKJ McDaniels PHI 11/13/2014 PHI @ DAL L 25 8 2 6 33.3 2 6 33.3 2 2 100.0 0 2 2 1 1 1 3 3 -17
+p777
+aVBrandon Davies PHI 11/13/2014 PHI @ DAL L 18 5 2 5 40.0 1 2 50.0 0 0 - 4 0 4 1 0 0 3 3 -14
+p778
+aVDrew Gordon PHI 11/13/2014 PHI @ DAL L 13 2 1 4 25.0 0 1 0.0 0 0 - 1 4 5 0 0 0 0 1 -9
+p779
+aVMichael Carter-Williams PHI 11/13/2014 PHI @ DAL L 30 19 6 19 31.6 1 4 25.0 6 10 60.0 3 5 8 5 0 0 6 4 -37
+p780
+aVChris Johnson PHI 11/13/2014 PHI @ DAL L 15 4 1 5 20.0 0 3 0.0 2 2 100.0 1 2 3 0 1 0 3 2 -28
+p781
+aVLuc Mbah a Moute PHI 11/13/2014 PHI @ DAL L 23 4 2 9 22.2 0 2 0.0 0 1 0.0 2 3 5 0 1 0 1 1 -24
+p782
+aVNerlens Noel PHI 11/13/2014 PHI @ DAL L 29 5 2 7 28.6 0 0 - 1 6 16.7 4 3 7 0 3 1 5 2 -39
+p783
+aVHenry Sims PHI 11/09/2014 PHI @ TOR L 29 12 5 11 45.5 0 0 - 2 2 100.0 5 3 8 3 1 0 1 2 -22
+p784
+aVAlexey Shved PHI 11/09/2014 PHI @ TOR L 16 14 5 11 45.5 3 7 42.9 1 1 100.0 1 1 2 3 0 0 2 1 -6
+p785
+aVChris Johnson PHI 11/09/2014 PHI @ TOR L 29 16 5 12 41.7 4 9 44.4 2 2 100.0 0 1 1 1 3 2 0 5 -9
+p786
+aVKJ McDaniels PHI 11/09/2014 PHI @ TOR L 28 11 5 10 50.0 1 4 25.0 0 1 0.0 1 0 1 1 2 4 4 1 -12
+p787
+aVJaKarr Sampson PHI 11/09/2014 PHI @ TOR L 20 4 1 8 12.5 0 2 0.0 2 4 50.0 1 2 3 3 0 0 0 5 -21
+p788
+aVBrandon Davies PHI 11/09/2014 PHI @ TOR L 29 3 1 6 16.7 1 3 33.3 0 0 - 1 6 7 3 1 0 5 2 -16
+p789
+aVHollis Thompson PHI 11/09/2014 PHI @ TOR L 30 2 1 5 20.0 0 3 0.0 0 1 0.0 0 2 2 0 3 0 1 3 -16
+p790
+aVLuc Mbah a Moute PHI 11/09/2014 PHI @ TOR L 29 8 4 8 50.0 0 2 0.0 0 0 - 2 2 4 0 0 0 1 1 -32
+p791
+aVTony Wroten PHI 11/09/2014 PHI @ TOR L 32 18 6 16 37.5 1 4 25.0 5 7 71.4 0 3 3 5 1 0 3 3 -26
+p792
+aVChris Johnson PHI 11/07/2014 PHI vs. CHI L 22 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 1 1 1 1 4 6
+p793
+aVLuc Mbah a Moute PHI 11/07/2014 PHI vs. CHI L 33 16 6 12 50.0 2 3 66.7 2 2 100.0 5 6 11 3 0 1 0 1 0
+p794
+aVAlexey Shved PHI 11/07/2014 PHI vs. CHI L 14 6 2 5 40.0 0 1 0.0 2 4 50.0 0 0 0 2 1 0 1 1 -3
+p795
+aVHenry Sims PHI 11/07/2014 PHI vs. CHI L 26 16 7 10 70.0 1 1 100.0 1 1 100.0 5 3 8 5 0 0 2 3 17
+p796
+aVKJ McDaniels PHI 11/07/2014 PHI vs. CHI L 28 6 2 7 28.6 0 2 0.0 2 2 100.0 2 3 5 4 2 0 3 5 -6
+p797
+aVBrandon Davies PHI 11/07/2014 PHI vs. CHI L 24 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 3 0 0 1 3 -18
+p798
+aVJaKarr Sampson PHI 11/07/2014 PHI vs. CHI L 27 4 2 3 66.7 0 0 - 0 0 - 1 4 5 3 1 0 1 2 -4
+p799
+aVTony Wroten PHI 11/07/2014 PHI vs. CHI L 34 31 11 27 40.7 3 10 30.0 6 8 75.0 2 3 5 7 1 0 2 6 0
+p800
+aVHollis Thompson PHI 11/07/2014 PHI vs. CHI L 32 21 7 14 50.0 3 6 50.0 4 8 50.0 1 2 3 1 1 0 1 4 -7
+p801
+aVChris Johnson PHI 11/05/2014 PHI vs. ORL L 13 0 0 5 0.0 0 4 0.0 0 0 - 0 1 1 0 0 1 0 1 2
+p802
+aVNerlens Noel PHI 11/05/2014 PHI vs. ORL L 17 4 2 4 50.0 0 0 - 0 0 - 1 1 2 3 0 1 3 0 8
+p803
+aVBrandon Davies PHI 11/05/2014 PHI vs. ORL L 29 20 9 11 81.8 1 1 100.0 1 4 25.0 1 3 4 1 1 0 1 3 -1
+p804
+aVHollis Thompson PHI 11/05/2014 PHI vs. ORL L 34 6 1 5 20.0 1 4 25.0 3 3 100.0 1 8 9 1 3 2 1 1 1
+p805
+aVTony Wroten PHI 11/05/2014 PHI vs. ORL L 35 27 9 16 56.3 4 6 66.7 5 7 71.4 0 3 3 8 5 2 8 4 5
+p806
+aVLuc Mbah a Moute PHI 11/05/2014 PHI vs. ORL L 26 4 2 7 28.6 0 4 0.0 0 2 0.0 1 4 5 4 0 1 2 2 -9
+p807
+aVJaKarr Sampson PHI 11/05/2014 PHI vs. ORL L 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 2 0 2 2
+p808
+aVKJ McDaniels PHI 11/05/2014 PHI vs. ORL L 29 12 5 10 50.0 1 2 50.0 1 1 100.0 0 2 2 0 0 3 1 1 0
+p809
+aVMalcolm Thomas PHI 11/05/2014 PHI vs. ORL L 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -3
+p810
+aVAlexey Shved PHI 11/05/2014 PHI vs. ORL L 19 9 2 9 22.2 1 4 25.0 4 4 100.0 0 0 0 3 0 0 0 1 -13
+p811
+aVHenry Sims PHI 11/05/2014 PHI vs. ORL L 24 3 1 5 20.0 0 0 - 1 2 50.0 2 6 8 2 3 0 3 2 -2
+p812
+aVLuc Mbah a Moute PHI 11/03/2014 PHI vs. HOU L 25 10 4 9 44.4 2 3 66.7 0 0 - 2 2 4 1 0 0 1 3 -15
+p813
+aVMalcolm Thomas PHI 11/03/2014 PHI vs. HOU L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -1
+p814
+aVHollis Thompson PHI 11/03/2014 PHI vs. HOU L 31 7 2 5 40.0 1 3 33.3 2 3 66.7 0 3 3 2 0 0 2 1 -9
+p815
+aVKJ McDaniels PHI 11/03/2014 PHI vs. HOU L 27 14 5 9 55.6 3 4 75.0 1 4 25.0 1 2 3 1 0 1 0 3 3
+p816
+aVHenry Sims PHI 11/03/2014 PHI vs. HOU L 13 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 0 1 0 2
+p817
+aVTony Wroten PHI 11/03/2014 PHI vs. HOU L 31 20 7 16 43.8 2 3 66.7 4 6 66.7 1 4 5 4 5 0 5 3 -9
+p818
+aVNerlens Noel PHI 11/03/2014 PHI vs. HOU L 30 10 5 8 62.5 0 0 - 0 0 - 0 1 1 5 6 1 3 3 -6
+p819
+aVJaKarr Sampson PHI 11/03/2014 PHI vs. HOU L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 2 -2
+p820
+aVAlexey Shved PHI 11/03/2014 PHI vs. HOU L 21 12 2 8 25.0 1 2 50.0 7 7 100.0 0 1 1 1 1 0 3 2 -1
+p821
+aVBrandon Davies PHI 11/03/2014 PHI vs. HOU L 24 13 5 10 50.0 1 3 33.3 2 3 66.7 2 2 4 3 0 1 0 2 -15
+p822
+aVChris Johnson PHI 11/03/2014 PHI vs. HOU L 16 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 0 0 0 0 0 -2
+p823
+aVMalcolm Thomas PHI 11/01/2014 PHI vs. MIA L 19 8 4 4 100.0 0 0 - 0 0 - 0 9 9 0 0 0 0 2 -6
+p824
+aVHollis Thompson PHI 11/01/2014 PHI vs. MIA L 32 10 4 8 50.0 2 5 40.0 0 0 - 0 1 1 2 0 3 2 2 -17
+p825
+aVAlexey Shved PHI 11/01/2014 PHI vs. MIA L 15 6 1 4 25.0 1 4 25.0 3 3 100.0 0 1 1 6 0 0 2 0 -7
+p826
+aVHenry Sims PHI 11/01/2014 PHI vs. MIA L 28 9 4 9 44.4 0 0 - 1 2 50.0 1 3 4 2 0 1 0 1 -10
+p827
+aVLuc Mbah a Moute PHI 11/01/2014 PHI vs. MIA L 19 9 4 10 40.0 0 2 0.0 1 2 50.0 3 4 7 3 1 0 6 3 -12
+p828
+aVChris Johnson PHI 11/01/2014 PHI vs. MIA L 21 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 0 3 0 2 5 3
+p829
+aVBrandon Davies PHI 11/01/2014 PHI vs. MIA L 24 18 7 9 77.8 1 2 50.0 3 4 75.0 0 3 3 0 3 0 3 3 -1
+p830
+aVKJ McDaniels PHI 11/01/2014 PHI vs. MIA L 21 8 2 4 50.0 1 3 33.3 3 4 75.0 0 1 1 2 0 3 2 3 -10
+p831
+aVTony Wroten PHI 11/01/2014 PHI vs. MIA L 33 21 6 11 54.5 1 4 25.0 8 11 72.7 0 3 3 10 1 1 4 1 -11
+p832
+aVNerlens Noel PHI 11/01/2014 PHI vs. MIA L 25 2 1 4 25.0 0 0 - 0 0 - 0 5 5 3 1 1 3 1 -19
+p833
+aVJaKarr Sampson PHI 11/01/2014 PHI vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 0
+p834
+aVKJ McDaniels PHI 10/31/2014 PHI @ MIL L 14 12 5 7 71.4 2 3 66.7 0 0 - 1 0 1 0 0 0 1 2 -10
+p835
+aVHollis Thompson PHI 10/31/2014 PHI @ MIL L 35 15 6 19 31.6 2 6 33.3 1 1 100.0 0 3 3 2 1 0 1 4 -4
+p836
+aVAlexey Shved PHI 10/31/2014 PHI @ MIL L 16 3 1 6 16.7 0 2 0.0 1 2 50.0 0 0 0 4 1 0 2 0 -11
+p837
+aVTony Wroten PHI 10/31/2014 PHI @ MIL L 35 14 4 11 36.4 0 2 0.0 6 11 54.5 2 1 3 6 3 0 8 4 -6
+p838
+aVChris Johnson PHI 10/31/2014 PHI @ MIL L 29 4 1 11 9.1 1 6 16.7 1 2 50.0 2 6 8 0 0 1 1 1 -1
+p839
+aVJaKarr Sampson PHI 10/31/2014 PHI @ MIL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 0 -6
+p840
+aVNerlens Noel PHI 10/31/2014 PHI @ MIL L 35 14 7 11 63.6 0 0 - 0 0 - 1 9 10 2 1 3 0 3 -4
+p841
+aVHenry Sims PHI 10/31/2014 PHI @ MIL L 26 7 3 8 37.5 0 0 - 1 2 50.0 3 5 8 1 0 0 1 2 7
+p842
+aVBrandon Davies PHI 10/31/2014 PHI @ MIL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 -6
+p843
+aVMalcolm Thomas PHI 10/31/2014 PHI @ MIL L 15 6 3 5 60.0 0 0 - 0 0 - 2 3 5 3 1 0 0 1 -6
+p844
+aVLuc Mbah a Moute PHI 10/31/2014 PHI @ MIL L 25 6 2 5 40.0 0 2 0.0 2 4 50.0 1 2 3 2 1 0 0 1 -13
+p845
+aVAlexey Shved PHI 10/29/2014 PHI @ IND L 24 18 5 11 45.5 3 6 50.0 5 6 83.3 1 2 3 5 0 0 0 4 -16
+p846
+aVMalcolm Thomas PHI 10/29/2014 PHI @ IND L 16 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 0 1 2 3 -12
+p847
+aVBrandon Davies PHI 10/29/2014 PHI @ IND L 18 12 5 11 45.5 0 2 0.0 2 2 100.0 4 1 5 1 1 0 1 3 1
+p848
+aVChris Johnson PHI 10/29/2014 PHI @ IND L 32 12 5 10 50.0 1 4 25.0 1 2 50.0 0 1 1 1 1 0 2 1 1
+p849
+aVJaKarr Sampson PHI 10/29/2014 PHI @ IND L 8 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -13
+p850
+aVHenry Sims PHI 10/29/2014 PHI @ IND L 23 10 4 9 44.4 0 0 - 2 2 100.0 1 3 4 0 0 0 1 4 -16
+p851
+aVTony Wroten PHI 10/29/2014 PHI @ IND L 35 22 9 21 42.9 1 4 25.0 3 8 37.5 1 7 8 7 3 0 1 2 8
+p852
+aVKJ McDaniels PHI 10/29/2014 PHI @ IND L 20 2 1 5 20.0 0 1 0.0 0 2 0.0 1 1 2 1 1 1 1 1 -15
+p853
+aVNerlens Noel PHI 10/29/2014 PHI @ IND L 35 6 2 11 18.2 0 0 - 2 6 33.3 4 6 10 0 0 3 2 4 2
+p854
+aVHollis Thompson PHI 10/29/2014 PHI @ IND L 29 5 2 5 40.0 1 2 50.0 0 0 - 1 2 3 2 4 0 0 5 0
+p855
+a.

@@ -1,0 +1,1706 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVErick Dampier GSW 04/18/1998 GSW vs. VAN W 38 23 8 16 50.0 0 0 - 7 10 70.0 5 8 13 1 3 2 2 4 6
+p2
+aVDuane Ferrell GSW 04/18/1998 GSW vs. VAN W 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 0 0 5
+p3
+aVJeff Grayer GSW 04/18/1998 GSW vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p4
+aVGerald Madkins GSW 04/18/1998 GSW vs. VAN W 11 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 3 0 0 0 0 4
+p5
+aVMuggsy Bogues GSW 04/18/1998 GSW vs. VAN W 37 8 2 4 50.0 1 1 100.0 3 4 75.0 1 1 2 10 1 0 0 1 8
+p6
+aVJim Jackson GSW 04/18/1998 GSW vs. VAN W 44 14 4 19 21.1 0 4 0.0 6 7 85.7 4 1 5 11 2 0 5 2 10
+p7
+aVFelton Spencer GSW 04/18/1998 GSW vs. VAN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 7
+p8
+aVJason Caffey GSW 04/18/1998 GSW vs. VAN W 31 18 9 15 60.0 0 0 - 0 0 - 3 4 7 1 1 0 1 3 12
+p9
+aVTodd Fuller GSW 04/18/1998 GSW vs. VAN W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p10
+aVAdonal Foyle GSW 04/18/1998 GSW vs. VAN W 14 5 1 2 50.0 0 0 - 3 4 75.0 1 6 7 0 0 2 0 0 11
+p11
+aVClar. Weatherspoon GSW 04/18/1998 GSW vs. VAN W 27 14 6 10 60.0 0 0 - 2 2 100.0 4 1 5 2 1 1 1 5 -4
+p12
+aVTony Delk GSW 04/18/1998 GSW vs. VAN W 27 23 11 17 64.7 0 0 - 1 1 100.0 1 0 1 2 0 0 2 1 1
+p13
+aVMuggsy Bogues GSW 04/16/1998 GSW vs. DAL W 37 10 5 10 50.0 0 1 0.0 0 0 - 0 2 2 6 1 0 0 1 7
+p14
+aVFelton Spencer GSW 04/16/1998 GSW vs. DAL W 13 2 1 5 20.0 0 0 - 0 0 - 3 1 4 0 0 0 2 2 -1
+p15
+aVErick Dampier GSW 04/16/1998 GSW vs. DAL W 35 16 5 12 41.7 0 0 - 6 7 85.7 3 7 10 2 1 3 2 2 7
+p16
+aVDuane Ferrell GSW 04/16/1998 GSW vs. DAL W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 0 0 1 0 5
+p17
+aVAdonal Foyle GSW 04/16/1998 GSW vs. DAL W 14 4 2 5 40.0 0 0 - 0 2 0.0 4 5 9 0 0 1 1 0 -2
+p18
+aVTony Delk GSW 04/16/1998 GSW vs. DAL W 41 22 9 19 47.4 1 5 20.0 3 4 75.0 0 3 3 4 2 1 1 1 2
+p19
+aVJim Jackson GSW 04/16/1998 GSW vs. DAL W 45 25 11 22 50.0 1 1 100.0 2 4 50.0 2 4 6 5 3 0 2 2 3
+p20
+aVClar. Weatherspoon GSW 04/16/1998 GSW vs. DAL W 34 6 3 11 27.3 0 0 - 0 0 - 4 6 10 4 2 1 1 2 7
+p21
+aVJeff Grayer GSW 04/16/1998 GSW vs. DAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 2 2
+p22
+aVGerald Madkins GSW 04/16/1998 GSW vs. DAL W 12 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 3 0 0 0 0 0
+p23
+aVClar. Weatherspoon GSW 04/15/1998 GSW @ LAC W 36 11 3 7 42.9 0 0 - 5 6 83.3 1 7 8 3 1 1 0 1 -5
+p24
+aVJason Caffey GSW 04/15/1998 GSW @ LAC W 39 19 9 16 56.3 0 0 - 1 2 50.0 3 3 6 1 1 1 2 5 15
+p25
+aVMuggsy Bogues GSW 04/15/1998 GSW @ LAC W 25 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 3 0 0 2 1 10
+p26
+aVTony Delk GSW 04/15/1998 GSW @ LAC W 21 6 1 10 10.0 0 2 0.0 4 4 100.0 1 3 4 2 2 0 1 0 18
+p27
+aVJim Jackson GSW 04/15/1998 GSW @ LAC W 44 27 11 24 45.8 1 3 33.3 4 5 80.0 1 5 6 3 1 0 4 1 12
+p28
+aVGerald Madkins GSW 04/15/1998 GSW @ LAC W 23 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 1 0 2 1 2
+p29
+aVFelton Spencer GSW 04/15/1998 GSW @ LAC W 10 7 1 2 50.0 0 0 - 5 5 100.0 2 1 3 1 0 1 0 4 11
+p30
+aVErick Dampier GSW 04/15/1998 GSW @ LAC W 33 10 3 8 37.5 0 0 - 4 4 100.0 0 9 9 2 0 2 2 3 -6
+p31
+aVAdonal Foyle GSW 04/15/1998 GSW @ LAC W 10 5 2 2 100.0 0 0 - 1 2 50.0 1 5 6 0 0 0 0 3 3
+p32
+aVErick Dampier GSW 04/13/1998 GSW vs. PHX L 31 4 2 8 25.0 0 0 - 0 0 - 1 5 6 0 0 1 2 2 0
+p33
+aVJim Jackson GSW 04/13/1998 GSW vs. PHX L 46 20 7 19 36.8 1 2 50.0 5 5 100.0 2 7 9 8 1 0 4 5 -5
+p34
+aVAdonal Foyle GSW 04/13/1998 GSW vs. PHX L 9 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -9
+p35
+aVJason Caffey GSW 04/13/1998 GSW vs. PHX L 36 28 11 19 57.9 0 0 - 6 9 66.7 5 7 12 3 2 0 1 3 -2
+p36
+aVDuane Ferrell GSW 04/13/1998 GSW vs. PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -12
+p37
+aVClar. Weatherspoon GSW 04/13/1998 GSW vs. PHX L 36 16 6 11 54.5 0 0 - 4 4 100.0 2 7 9 1 1 1 2 3 2
+p38
+aVGerald Madkins GSW 04/13/1998 GSW vs. PHX L 27 0 0 3 0.0 0 0 - 0 0 - 0 3 3 3 0 0 2 1 -9
+p39
+aVTony Delk GSW 04/13/1998 GSW vs. PHX L 37 21 8 18 44.4 1 5 20.0 4 6 66.7 0 1 1 5 3 1 2 3 -7
+p40
+aVJeff Grayer GSW 04/13/1998 GSW vs. PHX L 12 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 1 0 0 0 4 2
+p41
+aVMuggsy Bogues GSW 04/11/1998 GSW vs. LAL L 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 2 0 1 0 -17
+p42
+aVFelton Spencer GSW 04/11/1998 GSW vs. LAL L 7 4 0 0 - 0 0 - 4 4 100.0 1 1 2 0 0 0 0 4 -2
+p43
+aVClar. Weatherspoon GSW 04/11/1998 GSW vs. LAL L 35 9 3 5 60.0 0 0 - 3 5 60.0 0 6 6 0 3 0 2 2 -5
+p44
+aVTony Delk GSW 04/11/1998 GSW vs. LAL L 27 16 7 16 43.8 1 6 16.7 1 2 50.0 0 2 2 5 1 0 1 2 8
+p45
+aVGerald Madkins GSW 04/11/1998 GSW vs. LAL L 19 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 7 2 0 0 1 -3
+p46
+aVDuane Ferrell GSW 04/11/1998 GSW vs. LAL L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -5
+p47
+aVTodd Fuller GSW 04/11/1998 GSW vs. LAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -12
+p48
+aVAdonal Foyle GSW 04/11/1998 GSW vs. LAL L 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 1 1 0 3 11
+p49
+aVJim Jackson GSW 04/11/1998 GSW vs. LAL L 45 23 8 17 47.1 2 5 40.0 5 7 71.4 1 5 6 7 0 0 3 1 -17
+p50
+aVErick Dampier GSW 04/11/1998 GSW vs. LAL L 35 9 3 9 33.3 0 0 - 3 6 50.0 6 6 12 1 0 0 5 5 -9
+p51
+aVJason Caffey GSW 04/11/1998 GSW vs. LAL L 31 15 5 14 35.7 0 0 - 5 9 55.6 2 4 6 0 0 0 5 6 -9
+p52
+aVJason Caffey GSW 04/09/1998 GSW vs. HOU L 37 18 8 15 53.3 0 0 - 2 2 100.0 4 2 6 2 1 0 4 2 -12
+p53
+aVClar. Weatherspoon GSW 04/09/1998 GSW vs. HOU L 37 13 5 10 50.0 0 0 - 3 3 100.0 2 4 6 3 1 0 3 3 0
+p54
+aVMuggsy Bogues GSW 04/09/1998 GSW vs. HOU L 33 11 5 7 71.4 0 0 - 1 1 100.0 0 4 4 10 0 0 0 2 -2
+p55
+aVFelton Spencer GSW 04/09/1998 GSW vs. HOU L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p56
+aVErick Dampier GSW 04/09/1998 GSW vs. HOU L 39 13 6 15 40.0 0 0 - 1 1 100.0 2 12 14 0 0 2 4 4 -1
+p57
+aVTodd Fuller GSW 04/09/1998 GSW vs. HOU L 6 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 0 5
+p58
+aVDuane Ferrell GSW 04/09/1998 GSW vs. HOU L 18 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -7
+p59
+aVJeff Grayer GSW 04/09/1998 GSW vs. HOU L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 2
+p60
+aVGerald Madkins GSW 04/09/1998 GSW vs. HOU L 15 0 0 2 0.0 0 2 0.0 0 2 0.0 1 1 2 4 2 0 2 0 -2
+p61
+aVJim Jackson GSW 04/09/1998 GSW vs. HOU L 45 25 11 19 57.9 1 2 50.0 2 2 100.0 0 6 6 8 0 0 4 2 0
+p62
+aVFelton Spencer GSW 04/07/1998 GSW vs. UTA L 23 10 5 7 71.4 0 0 - 0 1 0.0 0 2 2 1 0 1 0 6 -5
+p63
+aVJason Caffey GSW 04/07/1998 GSW vs. UTA L 17 7 2 4 50.0 0 0 - 3 4 75.0 1 0 1 2 0 0 1 4 -3
+p64
+aVTodd Fuller GSW 04/07/1998 GSW vs. UTA L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -3
+p65
+aVClar. Weatherspoon GSW 04/07/1998 GSW vs. UTA L 28 6 2 4 50.0 0 0 - 2 4 50.0 2 4 6 2 2 0 3 4 5
+p66
+aVJim Jackson GSW 04/07/1998 GSW vs. UTA L 39 28 11 19 57.9 2 4 50.0 4 5 80.0 0 3 3 4 0 0 2 2 0
+p67
+aVMuggsy Bogues GSW 04/07/1998 GSW vs. UTA L 36 11 4 8 50.0 0 0 - 3 3 100.0 0 0 0 9 2 0 3 4 -1
+p68
+aVErick Dampier GSW 04/07/1998 GSW vs. UTA L 33 20 8 16 50.0 0 0 - 4 7 57.1 5 5 10 1 1 1 2 4 5
+p69
+aVDonyell Marshall GSW 04/07/1998 GSW vs. UTA L 29 13 5 12 41.7 3 3 100.0 0 0 - 2 5 7 3 0 0 1 2 1
+p70
+aVDuane Ferrell GSW 04/07/1998 GSW vs. UTA L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -1
+p71
+aVGerald Madkins GSW 04/07/1998 GSW vs. UTA L 17 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 5 0 1 2 1 -8
+p72
+aVGerald Madkins GSW 04/04/1998 GSW @ SAS L 10 10 3 4 75.0 1 1 100.0 3 3 100.0 0 0 0 0 0 0 0 1 10
+p73
+aVJason Caffey GSW 04/04/1998 GSW @ SAS L 26 11 3 8 37.5 0 0 - 5 7 71.4 2 3 5 1 2 0 1 6 -13
+p74
+aVTony Delk GSW 04/04/1998 GSW @ SAS L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 0 -14
+p75
+aVDonyell Marshall GSW 04/04/1998 GSW @ SAS L 38 12 6 20 30.0 0 4 0.0 0 0 - 3 5 8 1 0 2 3 5 -4
+p76
+aVJim Jackson GSW 04/04/1998 GSW @ SAS L 46 16 7 21 33.3 0 4 0.0 2 3 66.7 0 7 7 6 0 0 3 0 -13
+p77
+aVClar. Weatherspoon GSW 04/04/1998 GSW @ SAS L 39 7 3 9 33.3 0 0 - 1 2 50.0 1 4 5 0 2 1 2 4 9
+p78
+aVDuane Ferrell GSW 04/04/1998 GSW @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p79
+aVTodd Fuller GSW 04/04/1998 GSW @ SAS L 7 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 4 -12
+p80
+aVErick Dampier GSW 04/04/1998 GSW @ SAS L 30 14 5 11 45.5 0 1 0.0 4 4 100.0 1 2 3 0 0 5 1 6 11
+p81
+aVMuggsy Bogues GSW 04/04/1998 GSW @ SAS L 45 7 3 4 75.0 1 2 50.0 0 0 - 2 2 4 4 1 0 1 1 4
+p82
+aVFelton Spencer GSW 04/04/1998 GSW @ SAS L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p83
+aVTony Delk GSW 04/02/1998 GSW @ HOU W 19 11 5 12 41.7 0 2 0.0 1 1 100.0 0 3 3 1 0 0 1 0 8
+p84
+aVTodd Fuller GSW 04/02/1998 GSW @ HOU W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p85
+aVJim Jackson GSW 04/02/1998 GSW @ HOU W 41 33 11 16 68.8 3 3 100.0 8 10 80.0 0 3 3 11 1 1 3 2 0
+p86
+aVFelton Spencer GSW 04/02/1998 GSW @ HOU W 5 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -4
+p87
+aVDuane Ferrell GSW 04/02/1998 GSW @ HOU W 4 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -1
+p88
+aVClar. Weatherspoon GSW 04/02/1998 GSW @ HOU W 31 9 3 6 50.0 0 0 - 3 5 60.0 2 4 6 0 1 0 2 5 20
+p89
+aVJason Caffey GSW 04/02/1998 GSW @ HOU W 18 7 3 5 60.0 0 0 - 1 1 100.0 1 0 1 1 0 0 0 6 -10
+p90
+aVMuggsy Bogues GSW 04/02/1998 GSW @ HOU W 38 5 2 8 25.0 0 0 - 1 2 50.0 0 3 3 10 3 0 0 0 10
+p91
+aVErick Dampier GSW 04/02/1998 GSW @ HOU W 39 14 4 6 66.7 0 0 - 6 9 66.7 2 3 5 1 2 2 4 4 12
+p92
+aVDonyell Marshall GSW 04/02/1998 GSW @ HOU W 41 21 9 16 56.3 0 1 0.0 3 4 75.0 3 8 11 6 0 2 2 2 13
+p93
+aVMuggsy Bogues GSW 03/31/1998 GSW vs. MIL L 44 12 6 9 66.7 0 0 - 0 0 - 0 2 2 7 1 1 5 3 -7
+p94
+aVJason Caffey GSW 03/31/1998 GSW vs. MIL L 22 7 2 6 33.3 0 0 - 3 5 60.0 1 1 2 0 1 1 1 4 9
+p95
+aVClar. Weatherspoon GSW 03/31/1998 GSW vs. MIL L 32 7 2 4 50.0 0 0 - 3 4 75.0 6 7 13 1 1 0 3 6 -1
+p96
+aVFelton Spencer GSW 03/31/1998 GSW vs. MIL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p97
+aVJim Jackson GSW 03/31/1998 GSW vs. MIL L 39 14 6 13 46.2 0 2 0.0 2 3 66.7 2 5 7 5 1 0 6 4 -11
+p98
+aVTony Delk GSW 03/31/1998 GSW vs. MIL L 28 23 7 18 38.9 2 4 50.0 7 9 77.8 0 5 5 4 2 1 1 3 2
+p99
+aVDonyell Marshall GSW 03/31/1998 GSW vs. MIL L 43 12 6 19 31.6 0 2 0.0 0 0 - 4 10 14 5 2 0 1 3 -6
+p100
+aVGerald Madkins GSW 03/31/1998 GSW vs. MIL L 9 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 1 0 0 1 2
+p101
+aVTodd Fuller GSW 03/31/1998 GSW vs. MIL L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p102
+aVErick Dampier GSW 03/31/1998 GSW vs. MIL L 35 10 4 9 44.4 0 0 - 2 4 50.0 3 5 8 0 0 5 3 4 -11
+p103
+aVGerald Madkins GSW 03/29/1998 GSW vs. POR L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p104
+aVDuane Ferrell GSW 03/29/1998 GSW vs. POR L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p105
+aVErick Dampier GSW 03/29/1998 GSW vs. POR L 36 16 6 11 54.5 0 0 - 4 6 66.7 5 6 11 2 0 0 1 3 -17
+p106
+aVAdonal Foyle GSW 03/29/1998 GSW vs. POR L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 -5
+p107
+aVTony Delk GSW 03/29/1998 GSW vs. POR L 11 2 1 7 14.3 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -10
+p108
+aVMuggsy Bogues GSW 03/29/1998 GSW vs. POR L 37 6 3 7 42.9 0 0 - 0 0 - 0 0 0 6 0 0 1 0 -11
+p109
+aVClar. Weatherspoon GSW 03/29/1998 GSW vs. POR L 40 18 6 9 66.7 0 0 - 6 8 75.0 2 5 7 2 1 1 2 2 -12
+p110
+aVTodd Fuller GSW 03/29/1998 GSW vs. POR L 13 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 0 0 2 1
+p111
+aVJim Jackson GSW 03/29/1998 GSW vs. POR L 41 18 6 17 35.3 0 2 0.0 6 9 66.7 2 2 4 5 3 0 3 2 -10
+p112
+aVJason Caffey GSW 03/29/1998 GSW vs. POR L 36 16 7 14 50.0 0 0 - 2 5 40.0 4 5 9 3 0 0 8 4 -13
+p113
+aVErick Dampier GSW 03/27/1998 GSW @ DEN L 37 16 4 9 44.4 0 0 - 8 13 61.5 6 5 11 2 0 0 0 6 -3
+p114
+aVTony Delk GSW 03/27/1998 GSW @ DEN L 21 5 2 8 25.0 1 1 100.0 0 0 - 0 4 4 1 0 0 4 1 -7
+p115
+aVJason Caffey GSW 03/27/1998 GSW @ DEN L 25 9 3 8 37.5 0 0 - 3 4 75.0 1 1 2 2 0 0 2 2 -5
+p116
+aVDonyell Marshall GSW 03/27/1998 GSW @ DEN L 24 10 4 8 50.0 2 3 66.7 0 0 - 2 0 2 2 2 1 1 2 -3
+p117
+aVTodd Fuller GSW 03/27/1998 GSW @ DEN L 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p118
+aVClar. Weatherspoon GSW 03/27/1998 GSW @ DEN L 31 13 6 11 54.5 0 0 - 1 1 100.0 3 4 7 2 1 0 4 3 -6
+p119
+aVDuane Ferrell GSW 03/27/1998 GSW @ DEN L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 2 0 2 3
+p120
+aVJim Jackson GSW 03/27/1998 GSW @ DEN L 41 22 7 17 41.2 0 1 0.0 8 8 100.0 2 4 6 2 0 1 2 1 -5
+p121
+aVMuggsy Bogues GSW 03/27/1998 GSW @ DEN L 31 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 6 0 0 2 1 -3
+p122
+aVGerald Madkins GSW 03/27/1998 GSW @ DEN L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -7
+p123
+aVClar. Weatherspoon GSW 03/26/1998 GSW vs. SEA W 36 14 5 7 71.4 0 0 - 4 4 100.0 3 10 13 2 3 3 3 4 17
+p124
+aVGerald Madkins GSW 03/26/1998 GSW vs. SEA W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -2
+p125
+aVJim Jackson GSW 03/26/1998 GSW vs. SEA W 41 19 8 22 36.4 2 3 66.7 1 2 50.0 5 2 7 9 2 0 1 2 8
+p126
+aVErick Dampier GSW 03/26/1998 GSW vs. SEA W 30 5 2 7 28.6 0 0 - 1 2 50.0 3 3 6 1 0 4 2 2 13
+p127
+aVTony Delk GSW 03/26/1998 GSW vs. SEA W 18 13 6 11 54.5 0 2 0.0 1 2 50.0 1 1 2 2 0 0 3 3 -6
+p128
+aVFelton Spencer GSW 03/26/1998 GSW vs. SEA W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -7
+p129
+aVMuggsy Bogues GSW 03/26/1998 GSW vs. SEA W 34 12 4 7 57.1 0 0 - 4 4 100.0 0 1 1 6 1 0 1 0 6
+p130
+aVDonyell Marshall GSW 03/26/1998 GSW vs. SEA W 37 15 7 19 36.8 0 2 0.0 1 2 50.0 8 8 16 7 2 0 1 4 10
+p131
+aVJason Caffey GSW 03/26/1998 GSW vs. SEA W 26 14 5 8 62.5 0 0 - 4 9 44.4 2 6 8 0 1 0 2 5 -8
+p132
+aVTodd Fuller GSW 03/26/1998 GSW vs. SEA W 7 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 0 0 2 2 4
+p133
+aVJason Caffey GSW 03/24/1998 GSW vs. NYK L 21 6 3 5 60.0 0 0 - 0 0 - 3 3 6 1 0 0 2 0 -12
+p134
+aVAdonal Foyle GSW 03/24/1998 GSW vs. NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 6
+p135
+aVClar. Weatherspoon GSW 03/24/1998 GSW vs. NYK L 28 5 2 6 33.3 0 0 - 1 4 25.0 2 3 5 2 0 0 2 1 -8
+p136
+aVMuggsy Bogues GSW 03/24/1998 GSW vs. NYK L 26 7 3 5 60.0 0 0 - 1 1 100.0 1 3 4 2 2 0 1 2 -18
+p137
+aVTony Delk GSW 03/24/1998 GSW vs. NYK L 24 8 4 10 40.0 0 2 0.0 0 0 - 0 1 1 5 1 0 3 1 0
+p138
+aVErick Dampier GSW 03/24/1998 GSW vs. NYK L 33 8 3 11 27.3 0 0 - 2 2 100.0 4 4 8 2 0 0 3 1 -19
+p139
+aVTodd Fuller GSW 03/24/1998 GSW vs. NYK L 4 6 2 2 100.0 0 0 - 2 3 66.7 0 1 1 0 0 0 0 0 4
+p140
+aVDuane Ferrell GSW 03/24/1998 GSW vs. NYK L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p141
+aVGerald Madkins GSW 03/24/1998 GSW vs. NYK L 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 4 2 0 1 2 3
+p142
+aVFelton Spencer GSW 03/24/1998 GSW vs. NYK L 12 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 3 2
+p143
+aVDonyell Marshall GSW 03/24/1998 GSW vs. NYK L 38 10 5 11 45.5 0 0 - 0 0 - 1 5 6 1 1 0 3 2 -7
+p144
+aVJim Jackson GSW 03/24/1998 GSW vs. NYK L 35 19 7 17 41.2 1 1 100.0 4 4 100.0 1 3 4 3 1 0 5 1 -11
+p145
+aVFelton Spencer GSW 03/22/1998 GSW @ ORL L 10 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 2 1 3 -2
+p146
+aVGerald Madkins GSW 03/22/1998 GSW @ ORL L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 0 -1
+p147
+aVErick Dampier GSW 03/22/1998 GSW @ ORL L 38 20 7 12 58.3 0 0 - 6 7 85.7 4 3 7 0 0 2 1 4 -7
+p148
+aVClar. Weatherspoon GSW 03/22/1998 GSW @ ORL L 37 10 5 13 38.5 0 0 - 0 0 - 3 9 12 3 3 1 0 5 1
+p149
+aVTony Delk GSW 03/22/1998 GSW @ ORL L 13 2 0 5 0.0 0 2 0.0 2 3 66.7 1 1 2 3 0 0 4 5 -11
+p150
+aVDonyell Marshall GSW 03/22/1998 GSW @ ORL L 43 23 8 22 36.4 3 4 75.0 4 6 66.7 3 9 12 3 0 3 0 5 -13
+p151
+aVMuggsy Bogues GSW 03/22/1998 GSW @ ORL L 39 7 3 7 42.9 0 0 - 1 1 100.0 0 1 1 3 0 0 3 2 -8
+p152
+aVJason Caffey GSW 03/22/1998 GSW @ ORL L 13 7 2 5 40.0 0 0 - 3 3 100.0 1 0 1 0 0 0 2 4 -7
+p153
+aVDuane Ferrell GSW 03/22/1998 GSW @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p154
+aVJim Jackson GSW 03/22/1998 GSW @ ORL L 37 12 6 15 40.0 0 2 0.0 0 0 - 1 4 5 5 0 0 3 1 3
+p155
+aVErick Dampier GSW 03/20/1998 GSW @ MIA L 34 10 2 11 18.2 0 0 - 6 6 100.0 3 9 12 1 0 3 1 4 -3
+p156
+aVJim Jackson GSW 03/20/1998 GSW @ MIA L 36 19 8 23 34.8 0 3 0.0 3 3 100.0 5 2 7 3 2 0 4 4 -11
+p157
+aVFelton Spencer GSW 03/20/1998 GSW @ MIA L 6 2 1 2 50.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 1 -3
+p158
+aVGerald Madkins GSW 03/20/1998 GSW @ MIA L 23 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 4 1 0 1 5 12
+p159
+aVMuggsy Bogues GSW 03/20/1998 GSW @ MIA L 25 8 4 5 80.0 0 0 - 0 0 - 3 0 3 2 0 0 1 2 -18
+p160
+aVClar. Weatherspoon GSW 03/20/1998 GSW @ MIA L 34 8 3 6 50.0 0 0 - 2 2 100.0 5 8 13 2 0 0 0 2 -2
+p161
+aVTodd Fuller GSW 03/20/1998 GSW @ MIA L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p162
+aVJason Caffey GSW 03/20/1998 GSW @ MIA L 29 20 8 14 57.1 0 0 - 4 4 100.0 2 4 6 1 0 0 1 2 -2
+p163
+aVDonyell Marshall GSW 03/20/1998 GSW @ MIA L 27 10 4 17 23.5 1 3 33.3 1 1 100.0 3 5 8 4 0 1 1 3 -5
+p164
+aVDuane Ferrell GSW 03/20/1998 GSW @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p165
+aVTony Delk GSW 03/20/1998 GSW @ MIA L 16 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 7
+p166
+aVDonyell Marshall GSW 03/19/1998 GSW @ DAL L 40 13 4 18 22.2 1 5 20.0 4 4 100.0 7 5 12 1 0 3 3 3 -7
+p167
+aVGerald Madkins GSW 03/19/1998 GSW @ DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -5
+p168
+aVTony Delk GSW 03/19/1998 GSW @ DAL L 18 14 5 13 38.5 2 6 33.3 2 2 100.0 0 1 1 0 0 0 0 3 -7
+p169
+aVJim Jackson GSW 03/19/1998 GSW @ DAL L 43 18 8 23 34.8 0 4 0.0 2 2 100.0 6 6 12 7 6 0 4 2 -4
+p170
+aVFelton Spencer GSW 03/19/1998 GSW @ DAL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 3 2 -2
+p171
+aVClar. Weatherspoon GSW 03/19/1998 GSW @ DAL L 38 11 4 10 40.0 0 0 - 3 4 75.0 3 3 6 2 1 1 2 3 0
+p172
+aVErick Dampier GSW 03/19/1998 GSW @ DAL L 45 18 7 13 53.8 0 0 - 4 6 66.7 3 7 10 1 1 1 5 2 -3
+p173
+aVJason Caffey GSW 03/19/1998 GSW @ DAL L 21 6 3 10 30.0 0 0 - 0 0 - 3 4 7 0 0 0 1 2 -10
+p174
+aVMuggsy Bogues GSW 03/19/1998 GSW @ DAL L 41 0 0 7 0.0 0 0 - 0 0 - 1 4 5 8 1 1 1 2 4
+p175
+aVDuane Ferrell GSW 03/19/1998 GSW @ DAL L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 4
+p176
+aVErick Dampier GSW 03/17/1998 GSW vs. LAC L 38 17 4 11 36.4 0 0 - 9 13 69.2 6 6 12 2 0 2 2 4 -5
+p177
+aVGerald Madkins GSW 03/17/1998 GSW vs. LAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -5
+p178
+aVDuane Ferrell GSW 03/17/1998 GSW vs. LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p179
+aVMuggsy Bogues GSW 03/17/1998 GSW vs. LAC L 34 9 3 7 42.9 0 0 - 3 3 100.0 0 1 1 7 2 0 0 0 3
+p180
+aVDonyell Marshall GSW 03/17/1998 GSW vs. LAC L 40 28 10 18 55.6 1 2 50.0 7 10 70.0 3 5 8 3 0 2 4 1 -4
+p181
+aVClar. Weatherspoon GSW 03/17/1998 GSW vs. LAC L 40 20 9 16 56.3 0 0 - 2 2 100.0 5 5 10 1 1 3 1 3 -4
+p182
+aVJim Jackson GSW 03/17/1998 GSW vs. LAC L 36 10 4 14 28.6 0 2 0.0 2 2 100.0 4 1 5 5 1 0 4 2 -3
+p183
+aVJason Caffey GSW 03/17/1998 GSW vs. LAC L 9 2 1 5 20.0 0 0 - 0 0 - 3 2 5 0 0 0 3 5 -8
+p184
+aVTony Delk GSW 03/17/1998 GSW vs. LAC L 25 14 5 13 38.5 0 1 0.0 4 4 100.0 1 3 4 4 1 0 0 1 -2
+p185
+aVTodd Fuller GSW 03/17/1998 GSW vs. LAC L 13 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 2 2 3
+p186
+aVJim Jackson GSW 03/15/1998 GSW vs. TOR L 46 17 7 19 36.8 2 4 50.0 1 2 50.0 1 3 4 1 1 0 4 5 9
+p187
+aVJason Caffey GSW 03/15/1998 GSW vs. TOR L 11 1 0 6 0.0 0 0 - 1 2 50.0 2 1 3 3 1 0 1 1 -8
+p188
+aVTodd Fuller GSW 03/15/1998 GSW vs. TOR L 23 12 4 8 50.0 0 1 0.0 4 8 50.0 3 7 10 0 0 3 1 2 -2
+p189
+aVTony Delk GSW 03/15/1998 GSW vs. TOR L 21 10 3 8 37.5 1 2 50.0 3 4 75.0 0 2 2 0 0 0 1 0 -10
+p190
+aVDonyell Marshall GSW 03/15/1998 GSW vs. TOR L 46 19 7 22 31.8 0 2 0.0 5 6 83.3 4 11 15 4 2 1 3 4 -5
+p191
+aVDuane Ferrell GSW 03/15/1998 GSW vs. TOR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p192
+aVMuggsy Bogues GSW 03/15/1998 GSW vs. TOR L 39 6 3 6 50.0 0 0 - 0 0 - 2 4 6 5 1 0 2 1 -3
+p193
+aVClar. Weatherspoon GSW 03/15/1998 GSW vs. TOR L 43 18 6 13 46.2 0 0 - 6 10 60.0 10 10 20 3 1 1 2 2 10
+p194
+aVErick Dampier GSW 03/15/1998 GSW vs. TOR L 30 15 7 18 38.9 0 0 - 1 4 25.0 4 4 8 3 1 2 2 6 -2
+p195
+aVJason Caffey GSW 03/13/1998 GSW @ PHX L 19 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 0 0 0 1 4 -19
+p196
+aVGerald Madkins GSW 03/13/1998 GSW @ PHX L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p197
+aVMuggsy Bogues GSW 03/13/1998 GSW @ PHX L 35 7 3 6 50.0 0 0 - 1 1 100.0 0 3 3 5 3 0 2 1 -13
+p198
+aVClar. Weatherspoon GSW 03/13/1998 GSW @ PHX L 31 4 2 7 28.6 0 0 - 0 0 - 3 7 10 1 0 1 1 2 -14
+p199
+aVJim Jackson GSW 03/13/1998 GSW @ PHX L 38 21 8 16 50.0 2 4 50.0 3 4 75.0 2 3 5 3 0 0 5 2 -14
+p200
+aVErick Dampier GSW 03/13/1998 GSW @ PHX L 37 15 4 11 36.4 0 0 - 7 8 87.5 6 8 14 1 0 2 3 5 -18
+p201
+aVDonyell Marshall GSW 03/13/1998 GSW @ PHX L 37 10 4 12 33.3 0 2 0.0 2 3 66.7 2 7 9 4 1 0 2 3 -9
+p202
+aVTony Delk GSW 03/13/1998 GSW @ PHX L 26 11 4 12 33.3 1 2 50.0 2 2 100.0 0 2 2 1 1 1 1 0 -14
+p203
+aVTodd Fuller GSW 03/13/1998 GSW @ PHX L 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -11
+p204
+aVAdonal Foyle GSW 03/13/1998 GSW @ PHX L 6 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -5
+p205
+aVTony Delk GSW 03/11/1998 GSW vs. MIN L 22 12 5 12 41.7 0 2 0.0 2 2 100.0 0 5 5 2 1 0 2 3 -9
+p206
+aVMuggsy Bogues GSW 03/11/1998 GSW vs. MIN L 29 5 2 6 33.3 0 0 - 1 1 100.0 0 0 0 4 2 0 3 1 -29
+p207
+aVGerald Madkins GSW 03/11/1998 GSW vs. MIN L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 2
+p208
+aVAdonal Foyle GSW 03/11/1998 GSW vs. MIN L 7 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 1 0 2 1 1 -4
+p209
+aVClar. Weatherspoon GSW 03/11/1998 GSW vs. MIN L 26 8 3 8 37.5 0 0 - 2 4 50.0 3 3 6 1 0 2 3 3 -8
+p210
+aVTodd Fuller GSW 03/11/1998 GSW vs. MIN L 20 4 2 4 50.0 0 1 0.0 0 0 - 1 6 7 1 0 1 1 2 -2
+p211
+aVJim Jackson GSW 03/11/1998 GSW vs. MIN L 41 13 5 21 23.8 0 1 0.0 3 5 60.0 4 3 7 6 1 0 3 3 -28
+p212
+aVJason Caffey GSW 03/11/1998 GSW vs. MIN L 27 8 4 11 36.4 0 1 0.0 0 0 - 4 2 6 2 0 0 3 0 -10
+p213
+aVDonyell Marshall GSW 03/11/1998 GSW vs. MIN L 30 17 6 14 42.9 0 0 - 5 5 100.0 2 3 5 0 0 0 0 3 -27
+p214
+aVErick Dampier GSW 03/11/1998 GSW vs. MIN L 33 14 4 8 50.0 0 0 - 6 8 75.0 3 7 10 1 0 0 2 1 -30
+p215
+aVFelton Spencer GSW 03/09/1998 GSW @ SAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 4
+p216
+aVMuggsy Bogues GSW 03/09/1998 GSW @ SAC W 35 10 4 6 66.7 0 0 - 2 2 100.0 0 4 4 8 0 0 1 1 6
+p217
+aVTodd Fuller GSW 03/09/1998 GSW @ SAC W 6 2 0 1 0.0 0 0 - 2 4 50.0 1 0 1 0 0 0 0 0 2
+p218
+aVDonyell Marshall GSW 03/09/1998 GSW @ SAC W 39 21 8 21 38.1 0 4 0.0 5 6 83.3 3 10 13 2 1 3 1 3 1
+p219
+aVJason Caffey GSW 03/09/1998 GSW @ SAC W 23 7 3 9 33.3 0 0 - 1 2 50.0 8 5 13 1 0 0 0 2 -5
+p220
+aVJim Jackson GSW 03/09/1998 GSW @ SAC W 45 17 7 24 29.2 1 3 33.3 2 2 100.0 1 4 5 2 2 0 4 2 1
+p221
+aVTony Delk GSW 03/09/1998 GSW @ SAC W 16 8 4 7 57.1 0 0 - 0 1 0.0 1 0 1 1 3 0 2 1 5
+p222
+aVErick Dampier GSW 03/09/1998 GSW @ SAC W 35 22 6 13 46.2 0 0 - 10 14 71.4 6 6 12 0 0 2 0 6 -3
+p223
+aVClar. Weatherspoon GSW 03/09/1998 GSW @ SAC W 34 6 3 8 37.5 0 0 - 0 0 - 4 9 13 2 0 0 1 3 14
+p224
+aVJim Jackson GSW 03/06/1998 GSW vs. IND L 43 23 9 20 45.0 2 4 50.0 3 4 75.0 2 6 8 2 1 0 5 2 -11
+p225
+aVClar. Weatherspoon GSW 03/06/1998 GSW vs. IND L 23 7 2 10 20.0 0 0 - 3 4 75.0 3 3 6 1 1 1 0 2 -11
+p226
+aVFelton Spencer GSW 03/06/1998 GSW vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -1
+p227
+aVJason Caffey GSW 03/06/1998 GSW vs. IND L 28 21 7 12 58.3 0 0 - 7 8 87.5 7 4 11 1 0 1 2 2 -4
+p228
+aVTony Delk GSW 03/06/1998 GSW vs. IND L 25 10 4 8 50.0 0 1 0.0 2 2 100.0 0 4 4 3 2 0 2 2 7
+p229
+aVMuggsy Bogues GSW 03/06/1998 GSW vs. IND L 40 10 5 5 100.0 0 0 - 0 0 - 0 0 0 7 2 0 2 2 -16
+p230
+aVTodd Fuller GSW 03/06/1998 GSW vs. IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p231
+aVDonyell Marshall GSW 03/06/1998 GSW vs. IND L 31 4 1 9 11.1 0 3 0.0 2 3 66.7 2 6 8 4 0 0 6 2 -21
+p232
+aVErick Dampier GSW 03/06/1998 GSW vs. IND L 39 12 3 16 18.8 0 0 - 6 8 75.0 9 6 15 1 1 0 2 3 -6
+p233
+aVClar. Weatherspoon GSW 03/04/1998 GSW vs. SAS W 37 4 2 11 18.2 0 0 - 0 0 - 3 6 9 2 6 1 1 2 3
+p234
+aVDonyell Marshall GSW 03/04/1998 GSW vs. SAS W 38 17 6 19 31.6 2 5 40.0 3 4 75.0 3 6 9 2 4 3 2 5 7
+p235
+aVFelton Spencer GSW 03/04/1998 GSW vs. SAS W 18 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 0 0 2 1 2 1
+p236
+aVJim Jackson GSW 03/04/1998 GSW vs. SAS W 42 26 12 18 66.7 0 0 - 2 2 100.0 2 1 3 6 0 0 4 4 9
+p237
+aVTony Delk GSW 03/04/1998 GSW vs. SAS W 21 11 4 8 50.0 1 1 100.0 2 2 100.0 1 2 3 2 1 0 2 2 1
+p238
+aVMuggsy Bogues GSW 03/04/1998 GSW vs. SAS W 34 0 0 3 0.0 0 0 - 0 0 - 0 2 2 6 4 0 4 0 7
+p239
+aVErick Dampier GSW 03/04/1998 GSW vs. SAS W 30 17 6 10 60.0 0 0 - 5 6 83.3 0 4 4 1 1 1 3 4 6
+p240
+aVJason Caffey GSW 03/04/1998 GSW vs. SAS W 20 14 5 14 35.7 0 0 - 4 5 80.0 2 3 5 2 1 0 0 5 1
+p241
+aVErick Dampier GSW 03/02/1998 GSW @ CHH L 31 11 4 8 50.0 0 0 - 3 8 37.5 1 2 3 0 0 1 1 3 -21
+p242
+aVJim Jackson GSW 03/02/1998 GSW @ CHH L 39 24 10 21 47.6 1 2 50.0 3 3 100.0 1 1 2 3 2 0 5 2 -18
+p243
+aVTodd Fuller GSW 03/02/1998 GSW @ CHH L 16 4 1 5 20.0 0 0 - 2 2 100.0 2 4 6 0 0 1 1 2 -10
+p244
+aVAdonal Foyle GSW 03/02/1998 GSW @ CHH L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 1
+p245
+aVMuggsy Bogues GSW 03/02/1998 GSW @ CHH L 18 6 3 6 50.0 0 0 - 0 0 - 0 3 3 3 2 0 1 1 -14
+p246
+aVClar. Weatherspoon GSW 03/02/1998 GSW @ CHH L 34 14 5 6 83.3 0 0 - 4 4 100.0 0 6 6 3 1 0 3 1 -17
+p247
+aVJason Caffey GSW 03/02/1998 GSW @ CHH L 22 0 0 2 0.0 0 0 - 0 2 0.0 0 6 6 0 0 0 2 1 -15
+p248
+aVDonyell Marshall GSW 03/02/1998 GSW @ CHH L 19 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 2 0 0 3 5 -14
+p249
+aVFelton Spencer GSW 03/02/1998 GSW @ CHH L 12 4 1 1 100.0 0 0 - 2 4 50.0 1 2 3 1 1 2 0 1 -5
+p250
+aVBimbo Coles GSW 03/02/1998 GSW @ CHH L 25 6 1 8 12.5 0 3 0.0 4 4 100.0 0 3 3 4 0 0 2 2 -16
+p251
+aVTony Delk GSW 03/02/1998 GSW @ CHH L 21 10 4 11 36.4 2 5 40.0 0 0 - 1 0 1 4 2 0 1 1 -16
+p252
+aVClar. Weatherspoon GSW 03/01/1998 GSW @ CLE L 34 17 6 16 37.5 0 0 - 5 5 100.0 3 5 8 1 3 1 0 4 -13
+p253
+aVBrandon Williams GSW 03/01/1998 GSW @ CLE L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 2
+p254
+aVJim Jackson GSW 03/01/1998 GSW @ CLE L 36 18 8 21 38.1 0 1 0.0 2 2 100.0 2 7 9 3 1 0 5 1 -15
+p255
+aVMuggsy Bogues GSW 03/01/1998 GSW @ CLE L 25 0 0 3 0.0 0 1 0.0 0 1 0.0 0 1 1 11 0 0 2 0 -12
+p256
+aVAdonal Foyle GSW 03/01/1998 GSW @ CLE L 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p257
+aVTodd Fuller GSW 03/01/1998 GSW @ CLE L 6 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -1
+p258
+aVBimbo Coles GSW 03/01/1998 GSW @ CLE L 17 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 5 1 0 4 1 -6
+p259
+aVFelton Spencer GSW 03/01/1998 GSW @ CLE L 14 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 1 0 0 4 -8
+p260
+aVTony Delk GSW 03/01/1998 GSW @ CLE L 17 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -7
+p261
+aVDonyell Marshall GSW 03/01/1998 GSW @ CLE L 33 10 4 8 50.0 0 0 - 2 2 100.0 1 3 4 0 0 1 2 2 -16
+p262
+aVErick Dampier GSW 03/01/1998 GSW @ CLE L 25 7 3 11 27.3 0 0 - 1 2 50.0 2 4 6 0 1 0 2 4 -10
+p263
+aVJason Caffey GSW 03/01/1998 GSW @ CLE L 27 12 5 10 50.0 0 0 - 2 2 100.0 2 2 4 1 0 0 2 2 -16
+p264
+aVAdonal Foyle GSW 02/27/1998 GSW @ BOS L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p265
+aVErick Dampier GSW 02/27/1998 GSW @ BOS L 25 6 2 8 25.0 0 0 - 2 4 50.0 1 4 5 1 0 1 2 2 -21
+p266
+aVTony Delk GSW 02/27/1998 GSW @ BOS L 33 10 3 17 17.6 1 7 14.3 3 4 75.0 2 2 4 5 2 0 1 1 -9
+p267
+aVFelton Spencer GSW 02/27/1998 GSW @ BOS L 12 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 1 1 0 1 -5
+p268
+aVClar. Weatherspoon GSW 02/27/1998 GSW @ BOS L 28 12 4 9 44.4 0 0 - 4 5 80.0 2 3 5 1 1 0 1 0 -23
+p269
+aVJason Caffey GSW 02/27/1998 GSW @ BOS L 30 21 9 10 90.0 0 0 - 3 7 42.9 8 2 10 1 1 0 4 3 -15
+p270
+aVDonyell Marshall GSW 02/27/1998 GSW @ BOS L 31 15 6 16 37.5 1 5 20.0 2 2 100.0 2 3 5 2 0 1 2 2 -23
+p271
+aVBrandon Williams GSW 02/27/1998 GSW @ BOS L 6 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 1 0 -1
+p272
+aVTodd Fuller GSW 02/27/1998 GSW @ BOS L 11 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 -6
+p273
+aVJim Jackson GSW 02/27/1998 GSW @ BOS L 29 11 5 16 31.3 0 2 0.0 1 2 50.0 4 1 5 3 1 0 1 4 -31
+p274
+aVMuggsy Bogues GSW 02/27/1998 GSW @ BOS L 29 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 6 1 0 3 0 -25
+p275
+aVAdonal Foyle GSW 02/26/1998 GSW @ WAS L 4 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -3
+p276
+aVJason Caffey GSW 02/26/1998 GSW @ WAS L 23 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -10
+p277
+aVJim Jackson GSW 02/26/1998 GSW @ WAS L 40 18 7 18 38.9 0 1 0.0 4 7 57.1 2 4 6 6 3 0 4 1 -14
+p278
+aVClar. Weatherspoon GSW 02/26/1998 GSW @ WAS L 32 16 7 13 53.8 0 0 - 2 4 50.0 2 4 6 0 1 0 0 2 -16
+p279
+aVErick Dampier GSW 02/26/1998 GSW @ WAS L 30 6 3 5 60.0 0 0 - 0 0 - 2 4 6 2 0 1 2 5 3
+p280
+aVTodd Fuller GSW 02/26/1998 GSW @ WAS L 18 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -26
+p281
+aVBrandon Williams GSW 02/26/1998 GSW @ WAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p282
+aVMuggsy Bogues GSW 02/26/1998 GSW @ WAS L 24 3 1 6 16.7 0 0 - 1 1 100.0 2 3 5 8 1 0 2 4 0
+p283
+aVBimbo Coles GSW 02/26/1998 GSW @ WAS L 20 4 1 5 20.0 1 3 33.3 1 2 50.0 1 4 5 2 1 0 2 2 -20
+p284
+aVDonyell Marshall GSW 02/26/1998 GSW @ WAS L 32 17 6 13 46.2 2 4 50.0 3 4 75.0 0 5 5 1 3 2 5 3 -12
+p285
+aVTony Delk GSW 02/26/1998 GSW @ WAS L 15 10 3 10 30.0 1 3 33.3 3 4 75.0 0 1 1 0 1 0 1 2 -14
+p286
+aVTodd Fuller GSW 02/24/1998 GSW @ NYK W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p287
+aVJim Jackson GSW 02/24/1998 GSW @ NYK W 35 10 3 14 21.4 0 2 0.0 4 4 100.0 0 2 2 5 0 0 5 4 1
+p288
+aVFelton Spencer GSW 02/24/1998 GSW @ NYK W 2 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 5
+p289
+aVBimbo Coles GSW 02/24/1998 GSW @ NYK W 10 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 1 0 1 0 2
+p290
+aVMuggsy Bogues GSW 02/24/1998 GSW @ NYK W 34 8 3 5 60.0 0 0 - 2 2 100.0 0 5 5 6 3 0 2 0 6
+p291
+aVTony Delk GSW 02/24/1998 GSW @ NYK W 18 7 3 11 27.3 1 3 33.3 0 0 - 0 2 2 1 1 0 0 0 3
+p292
+aVClar. Weatherspoon GSW 02/24/1998 GSW @ NYK W 32 13 5 9 55.6 0 0 - 3 4 75.0 3 7 10 1 1 0 2 1 -1
+p293
+aVJason Caffey GSW 02/24/1998 GSW @ NYK W 25 10 4 7 57.1 0 0 - 2 2 100.0 5 2 7 0 0 0 0 2 1
+p294
+aVDonyell Marshall GSW 02/24/1998 GSW @ NYK W 39 19 8 17 47.1 0 4 0.0 3 3 100.0 3 9 12 0 3 2 1 2 10
+p295
+aVErick Dampier GSW 02/24/1998 GSW @ NYK W 41 15 7 14 50.0 0 0 - 1 2 50.0 1 4 5 2 0 4 1 4 4
+p296
+aVBimbo Coles GSW 02/22/1998 GSW vs. MIA L 19 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 0 0 -5
+p297
+aVTodd Fuller GSW 02/22/1998 GSW vs. MIA L 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -3
+p298
+aVClar. Weatherspoon GSW 02/22/1998 GSW vs. MIA L 25 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 2 4 -5
+p299
+aVFelton Spencer GSW 02/22/1998 GSW vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p300
+aVMuggsy Bogues GSW 02/22/1998 GSW vs. MIA L 29 4 2 4 50.0 0 0 - 0 1 0.0 1 3 4 6 2 0 3 2 -3
+p301
+aVErick Dampier GSW 02/22/1998 GSW vs. MIA L 39 22 6 8 75.0 0 0 - 10 15 66.7 4 7 11 3 0 1 1 5 -4
+p302
+aVJim Jackson GSW 02/22/1998 GSW vs. MIA L 39 10 5 14 35.7 0 4 0.0 0 0 - 1 4 5 4 1 0 6 5 -2
+p303
+aVDonyell Marshall GSW 02/22/1998 GSW vs. MIA L 40 28 10 16 62.5 3 5 60.0 5 6 83.3 2 3 5 0 0 0 2 1 -9
+p304
+aVJason Caffey GSW 02/22/1998 GSW vs. MIA L 23 4 2 4 50.0 0 0 - 0 1 0.0 3 8 11 1 0 0 3 4 -3
+p305
+aVTony Delk GSW 02/22/1998 GSW vs. MIA L 17 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -5
+p306
+aVTony Delk GSW 02/20/1998 GSW vs. DEN W 20 14 6 12 50.0 0 0 - 2 3 66.7 1 1 2 2 0 1 0 2 4
+p307
+aVJim Jackson GSW 02/20/1998 GSW vs. DEN W 42 15 3 13 23.1 0 3 0.0 9 10 90.0 1 3 4 7 1 0 5 3 5
+p308
+aVBimbo Coles GSW 02/20/1998 GSW vs. DEN W 20 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 4 1 0 2 3 5
+p309
+aVErick Dampier GSW 02/20/1998 GSW vs. DEN W 40 16 5 7 71.4 0 0 - 6 9 66.7 2 10 12 1 1 0 4 1 9
+p310
+aVTodd Fuller GSW 02/20/1998 GSW vs. DEN W 17 5 2 2 100.0 0 0 - 1 2 50.0 0 6 6 1 3 1 1 3 3
+p311
+aVDonyell Marshall GSW 02/20/1998 GSW vs. DEN W 38 18 7 13 53.8 3 6 50.0 1 1 100.0 1 3 4 3 4 2 1 5 4
+p312
+aVMuggsy Bogues GSW 02/20/1998 GSW vs. DEN W 25 12 3 8 37.5 0 1 0.0 6 7 85.7 1 0 1 6 0 0 2 1 5
+p313
+aVClar. Weatherspoon GSW 02/20/1998 GSW vs. DEN W 38 11 4 7 57.1 0 0 - 3 3 100.0 2 5 7 1 2 1 1 2 0
+p314
+aVDavid Vaughn GSW 02/18/1998 GSW vs. CHH W 15 7 1 4 25.0 0 0 - 5 6 83.3 1 3 4 1 0 0 1 0 4
+p315
+aVDonyell Marshall GSW 02/18/1998 GSW vs. CHH W 45 20 9 18 50.0 0 2 0.0 2 3 66.7 4 2 6 4 1 1 4 4 12
+p316
+aVAdonal Foyle GSW 02/18/1998 GSW vs. CHH W 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p317
+aVMuggsy Bogues GSW 02/18/1998 GSW vs. CHH W 32 6 2 7 28.6 0 0 - 2 2 100.0 0 4 4 9 2 0 5 1 14
+p318
+aVBimbo Coles GSW 02/18/1998 GSW vs. CHH W 16 5 0 3 0.0 0 1 0.0 5 6 83.3 0 1 1 1 0 0 1 3 -3
+p319
+aVErick Dampier GSW 02/18/1998 GSW vs. CHH W 39 18 4 8 50.0 0 0 - 10 13 76.9 4 5 9 0 2 2 2 5 16
+p320
+aVBrandon Williams GSW 02/18/1998 GSW vs. CHH W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 1
+p321
+aVFelton Spencer GSW 02/18/1998 GSW vs. CHH W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -7
+p322
+aVTony Delk GSW 02/18/1998 GSW vs. CHH W 43 20 9 17 52.9 1 4 25.0 1 3 33.3 1 3 4 4 4 0 1 0 10
+p323
+aVTodd Fuller GSW 02/18/1998 GSW vs. CHH W 31 10 4 7 57.1 0 1 0.0 2 2 100.0 2 12 14 0 1 0 2 3 12
+p324
+aVErick Dampier GSW 02/17/1998 GSW @ POR L 33 16 8 15 53.3 0 0 - 0 0 - 2 10 12 0 1 0 1 4 -18
+p325
+aVBimbo Coles GSW 02/17/1998 GSW @ POR L 18 2 1 7 14.3 0 1 0.0 0 0 - 0 5 5 5 0 0 0 1 -4
+p326
+aVAdonal Foyle GSW 02/17/1998 GSW @ POR L 16 0 0 4 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 1 3 -19
+p327
+aVTodd Fuller GSW 02/17/1998 GSW @ POR L 21 13 5 10 50.0 0 0 - 3 4 75.0 1 3 4 0 0 0 2 2 16
+p328
+aVDonyell Marshall GSW 02/17/1998 GSW @ POR L 36 9 3 14 21.4 0 2 0.0 3 3 100.0 2 4 6 0 5 0 2 3 -24
+p329
+aVFelton Spencer GSW 02/17/1998 GSW @ POR L 15 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 0 0 1 1 5 0
+p330
+aVDavid Vaughn GSW 02/17/1998 GSW @ POR L 23 6 2 10 20.0 0 0 - 2 3 66.7 3 0 3 1 1 0 2 3 -9
+p331
+aVTony Delk GSW 02/17/1998 GSW @ POR L 34 26 11 20 55.0 1 2 50.0 3 4 75.0 1 4 5 3 0 0 0 4 -9
+p332
+aVBrandon Williams GSW 02/17/1998 GSW @ POR L 21 0 0 6 0.0 0 2 0.0 0 2 0.0 0 1 1 0 0 0 0 4 -1
+p333
+aVMuggsy Bogues GSW 02/17/1998 GSW @ POR L 23 5 2 4 50.0 0 0 - 1 1 100.0 2 1 3 9 2 0 2 2 -22
+p334
+aVMuggsy Bogues GSW 02/15/1998 GSW vs. BOS W 20 0 0 1 0.0 0 0 - 0 0 - 0 2 2 6 1 0 1 1 3
+p335
+aVDonyell Marshall GSW 02/15/1998 GSW vs. BOS W 40 30 13 19 68.4 2 3 66.7 2 4 50.0 4 9 13 5 2 1 3 3 4
+p336
+aVTony Delk GSW 02/15/1998 GSW vs. BOS W 35 17 7 19 36.8 0 2 0.0 3 4 75.0 1 2 3 6 4 1 5 0 2
+p337
+aVDavid Vaughn GSW 02/15/1998 GSW vs. BOS W 16 5 2 3 66.7 0 0 - 1 4 25.0 2 6 8 4 0 0 0 4 3
+p338
+aVBrandon Williams GSW 02/15/1998 GSW vs. BOS W 25 11 5 9 55.6 1 1 100.0 0 0 - 0 4 4 0 2 0 2 2 9
+p339
+aVBimbo Coles GSW 02/15/1998 GSW vs. BOS W 16 5 0 2 0.0 0 0 - 5 6 83.3 0 0 0 6 1 0 1 3 14
+p340
+aVFelton Spencer GSW 02/15/1998 GSW vs. BOS W 9 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 0 0 2 9
+p341
+aVJoe Smith GSW 02/15/1998 GSW vs. BOS W 34 18 8 16 50.0 0 0 - 2 2 100.0 5 5 10 1 2 0 5 5 18
+p342
+aVAdonal Foyle GSW 02/15/1998 GSW vs. BOS W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 2 1 1 3
+p343
+aVErick Dampier GSW 02/15/1998 GSW vs. BOS W 36 13 4 9 44.4 0 0 - 5 5 100.0 6 2 8 2 0 3 3 2 5
+p344
+aVTodd Fuller GSW 02/15/1998 GSW vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p345
+aVDickey Simpkins GSW 02/13/1998 GSW vs. SAC L 13 7 2 2 100.0 0 0 - 3 4 75.0 0 1 1 1 1 0 2 0 1
+p346
+aVTony Delk GSW 02/13/1998 GSW vs. SAC L 47 12 6 19 31.6 0 5 0.0 0 0 - 1 7 8 13 1 0 1 2 -13
+p347
+aVJoe Smith GSW 02/13/1998 GSW vs. SAC L 23 8 4 17 23.5 0 0 - 0 0 - 2 6 8 1 0 1 0 0 -4
+p348
+aVDavid Vaughn GSW 02/13/1998 GSW vs. SAC L 21 8 4 8 50.0 0 0 - 0 0 - 3 2 5 1 1 1 3 2 -16
+p349
+aVErick Dampier GSW 02/13/1998 GSW vs. SAC L 32 15 7 11 63.6 0 0 - 1 4 25.0 6 5 11 2 0 2 1 2 -8
+p350
+aVDonyell Marshall GSW 02/13/1998 GSW vs. SAC L 36 19 8 17 47.1 2 4 50.0 1 2 50.0 3 4 7 2 1 1 2 4 -12
+p351
+aVTodd Fuller GSW 02/13/1998 GSW vs. SAC L 20 11 5 8 62.5 0 0 - 1 1 100.0 2 6 8 1 0 1 2 2 0
+p352
+aVDuane Ferrell GSW 02/13/1998 GSW vs. SAC L 17 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -9
+p353
+aVBrandon Williams GSW 02/13/1998 GSW vs. SAC L 23 10 5 10 50.0 0 0 - 0 0 - 0 0 0 1 0 2 0 4 -11
+p354
+aVFelton Spencer GSW 02/13/1998 GSW vs. SAC L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 2 0 1 1 -8
+p355
+aVAdonal Foyle GSW 02/13/1998 GSW vs. SAC L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -5
+p356
+aVJoe Smith GSW 02/11/1998 GSW @ LAL L 35 25 12 26 46.2 0 0 - 1 1 100.0 2 4 6 1 0 1 1 3 -9
+p357
+aVDavid Vaughn GSW 02/11/1998 GSW @ LAL L 19 10 4 7 57.1 0 0 - 2 2 100.0 2 10 12 2 1 0 4 2 8
+p358
+aVFelton Spencer GSW 02/11/1998 GSW @ LAL L 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 0
+p359
+aVDuane Ferrell GSW 02/11/1998 GSW @ LAL L 21 6 3 5 60.0 0 0 - 0 0 - 6 0 6 4 0 1 0 3 -15
+p360
+aVAdonal Foyle GSW 02/11/1998 GSW @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -7
+p361
+aVErick Dampier GSW 02/11/1998 GSW @ LAL L 29 4 1 9 11.1 0 0 - 2 2 100.0 2 3 5 2 0 2 2 5 -4
+p362
+aVTodd Fuller GSW 02/11/1998 GSW @ LAL L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -4
+p363
+aVTony Delk GSW 02/11/1998 GSW @ LAL L 45 22 8 21 38.1 4 10 40.0 2 2 100.0 1 3 4 7 4 1 1 0 0
+p364
+aVDonyell Marshall GSW 02/11/1998 GSW @ LAL L 35 17 6 14 42.9 0 1 0.0 5 5 100.0 1 5 6 3 1 3 3 5 -8
+p365
+aVDickey Simpkins GSW 02/11/1998 GSW @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 4
+p366
+aVBrandon Williams GSW 02/11/1998 GSW @ LAL L 31 9 4 13 30.8 1 3 33.3 0 0 - 3 0 3 0 1 0 1 3 5
+p367
+aVTony Delk GSW 02/10/1998 GSW vs. WAS L 41 14 6 19 31.6 1 3 33.3 1 4 25.0 1 4 5 11 3 0 7 4 -10
+p368
+aVErick Dampier GSW 02/10/1998 GSW vs. WAS L 35 11 5 9 55.6 0 0 - 1 3 33.3 4 7 11 2 0 2 3 2 -17
+p369
+aVDickey Simpkins GSW 02/10/1998 GSW vs. WAS L 15 3 1 2 50.0 0 0 - 1 4 25.0 3 2 5 2 0 0 1 2 -7
+p370
+aVDuane Ferrell GSW 02/10/1998 GSW vs. WAS L 27 5 2 4 50.0 0 0 - 1 4 25.0 1 2 3 2 1 1 2 4 2
+p371
+aVJoe Smith GSW 02/10/1998 GSW vs. WAS L 41 36 16 26 61.5 0 0 - 4 4 100.0 0 9 9 2 1 0 1 1 -7
+p372
+aVAdonal Foyle GSW 02/10/1998 GSW vs. WAS L 7 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 0 6
+p373
+aVTodd Fuller GSW 02/10/1998 GSW vs. WAS L 15 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 1 0 0 1 2 2
+p374
+aVDonyell Marshall GSW 02/10/1998 GSW vs. WAS L 33 12 4 12 33.3 0 2 0.0 4 6 66.7 2 5 7 1 1 0 3 4 -21
+p375
+aVBrandon Williams GSW 02/10/1998 GSW vs. WAS L 21 0 0 6 0.0 0 1 0.0 0 0 - 1 3 4 0 2 1 3 3 -8
+p376
+aVDavid Vaughn GSW 02/10/1998 GSW vs. WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p377
+aVErick Dampier GSW 02/03/1998 GSW vs. SAS L 31 16 6 10 60.0 0 0 - 4 4 100.0 3 3 6 1 0 3 0 3 -9
+p378
+aVTodd Fuller GSW 02/03/1998 GSW vs. SAS L 15 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 1 5 -2
+p379
+aVJoe Smith GSW 02/03/1998 GSW vs. SAS L 35 16 7 16 43.8 0 0 - 2 4 50.0 1 1 2 3 0 1 1 3 -3
+p380
+aVDavid Vaughn GSW 02/03/1998 GSW vs. SAS L 6 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 5
+p381
+aVDonyell Marshall GSW 02/03/1998 GSW vs. SAS L 41 23 9 20 45.0 0 0 - 5 7 71.4 3 8 11 2 2 1 1 2 -13
+p382
+aVDuane Ferrell GSW 02/03/1998 GSW vs. SAS L 39 8 3 9 33.3 0 1 0.0 2 2 100.0 1 2 3 2 4 0 1 3 -7
+p383
+aVTony Delk GSW 02/03/1998 GSW vs. SAS L 44 21 9 16 56.3 1 3 33.3 2 3 66.7 0 5 5 5 1 0 3 1 -13
+p384
+aVAdonal Foyle GSW 02/03/1998 GSW vs. SAS L 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 4 -5
+p385
+aVBrian Shaw GSW 02/03/1998 GSW vs. SAS L 13 4 2 2 100.0 0 0 - 0 0 - 0 0 0 4 1 0 0 0 2
+p386
+aVBimbo Coles GSW 02/01/1998 GSW vs. UTA L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 1 0 1 -7
+p387
+aVDonyell Marshall GSW 02/01/1998 GSW vs. UTA L 22 2 1 8 12.5 0 1 0.0 0 0 - 0 3 3 3 1 0 2 3 -16
+p388
+aVJoe Smith GSW 02/01/1998 GSW vs. UTA L 33 18 5 18 27.8 0 0 - 8 10 80.0 7 1 8 0 1 0 3 3 -22
+p389
+aVBrian Shaw GSW 02/01/1998 GSW vs. UTA L 32 10 4 10 40.0 2 3 66.7 0 0 - 2 3 5 6 1 0 4 4 -24
+p390
+aVDickey Simpkins GSW 02/01/1998 GSW vs. UTA L 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 5
+p391
+aVTony Delk GSW 02/01/1998 GSW vs. UTA L 34 20 4 13 30.8 0 2 0.0 12 14 85.7 1 2 3 5 1 0 2 2 -24
+p392
+aVDavid Vaughn GSW 02/01/1998 GSW vs. UTA L 12 4 1 1 100.0 0 0 - 2 4 50.0 1 1 2 1 1 1 4 2 -7
+p393
+aVFelton Spencer GSW 02/01/1998 GSW vs. UTA L 0 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p394
+aVTodd Fuller GSW 02/01/1998 GSW vs. UTA L 29 17 7 14 50.0 0 0 - 3 5 60.0 6 9 15 1 1 0 3 2 -7
+p395
+aVAdonal Foyle GSW 02/01/1998 GSW vs. UTA L 19 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 3 2 3 -13
+p396
+aVDuane Ferrell GSW 02/01/1998 GSW vs. UTA L 21 4 2 9 22.2 0 0 - 0 0 - 2 1 3 1 1 0 0 1 -1
+p397
+aVErick Dampier GSW 02/01/1998 GSW vs. UTA L 15 7 3 6 50.0 0 0 - 1 3 33.3 5 0 5 0 0 1 0 4 -19
+p398
+aVAdonal Foyle GSW 01/30/1998 GSW vs. CHI L 22 4 2 4 50.0 0 0 - 0 0 - 4 2 6 1 1 1 1 4 0
+p399
+aVDickey Simpkins GSW 01/30/1998 GSW vs. CHI L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p400
+aVBimbo Coles GSW 01/30/1998 GSW vs. CHI L 33 9 4 7 57.1 1 1 100.0 0 0 - 0 3 3 8 0 0 2 6 -8
+p401
+aVDonyell Marshall GSW 01/30/1998 GSW vs. CHI L 33 11 5 18 27.8 1 4 25.0 0 0 - 4 4 8 1 3 1 4 3 1
+p402
+aVTony Delk GSW 01/30/1998 GSW vs. CHI L 33 17 8 15 53.3 1 1 100.0 0 0 - 1 4 5 1 0 1 0 2 0
+p403
+aVJoe Smith GSW 01/30/1998 GSW vs. CHI L 38 18 6 21 28.6 0 1 0.0 6 6 100.0 2 4 6 1 0 0 3 3 -12
+p404
+aVBrian Shaw GSW 01/30/1998 GSW vs. CHI L 30 2 1 5 20.0 0 1 0.0 0 0 - 1 5 6 6 1 0 3 3 -8
+p405
+aVTodd Fuller GSW 01/30/1998 GSW vs. CHI L 23 11 4 7 57.1 0 0 - 3 3 100.0 4 8 12 0 0 2 3 1 -2
+p406
+aVErick Dampier GSW 01/30/1998 GSW vs. CHI L 25 6 2 5 40.0 0 0 - 2 4 50.0 3 0 3 1 0 0 3 3 -8
+p407
+aVBrian Shaw GSW 01/29/1998 GSW @ SEA L 27 10 5 14 35.7 0 2 0.0 0 1 0.0 0 2 2 4 2 0 6 4 -2
+p408
+aVDonyell Marshall GSW 01/29/1998 GSW @ SEA L 34 18 8 17 47.1 2 4 50.0 0 0 - 3 4 7 3 2 1 2 2 -11
+p409
+aVBimbo Coles GSW 01/29/1998 GSW @ SEA L 35 13 5 10 50.0 1 2 50.0 2 2 100.0 0 2 2 3 1 0 2 1 -24
+p410
+aVDickey Simpkins GSW 01/29/1998 GSW @ SEA L 8 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 1 1 0 0 0 0
+p411
+aVDavid Vaughn GSW 01/29/1998 GSW @ SEA L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 1 6
+p412
+aVTodd Fuller GSW 01/29/1998 GSW @ SEA L 17 8 3 5 60.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 3 13
+p413
+aVDuane Ferrell GSW 01/29/1998 GSW @ SEA L 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 8
+p414
+aVErick Dampier GSW 01/29/1998 GSW @ SEA L 25 13 4 7 57.1 0 0 - 5 5 100.0 4 1 5 1 0 0 3 5 -22
+p415
+aVJoe Smith GSW 01/29/1998 GSW @ SEA L 30 9 2 7 28.6 0 0 - 5 6 83.3 0 7 7 0 1 1 2 4 -16
+p416
+aVTony Delk GSW 01/29/1998 GSW @ SEA L 31 16 7 15 46.7 0 1 0.0 2 4 50.0 2 0 2 0 3 0 0 1 -6
+p417
+aVAdonal Foyle GSW 01/29/1998 GSW @ SEA L 23 2 1 2 50.0 0 0 - 0 0 - 0 7 7 2 0 3 2 4 -6
+p418
+aVBrian Shaw GSW 01/27/1998 GSW @ POR W 46 7 3 7 42.9 1 2 50.0 0 0 - 0 4 4 14 2 0 1 1 6
+p419
+aVTodd Fuller GSW 01/27/1998 GSW @ POR W 12 3 1 3 33.3 0 0 - 1 3 33.3 1 1 2 0 0 0 0 3 -1
+p420
+aVAdonal Foyle GSW 01/27/1998 GSW @ POR W 23 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 0 1 4 1 2 3
+p421
+aVBimbo Coles GSW 01/27/1998 GSW @ POR W 33 19 9 14 64.3 1 1 100.0 0 0 - 0 2 2 5 1 0 3 4 6
+p422
+aVJoe Smith GSW 01/27/1998 GSW @ POR W 38 23 9 19 47.4 0 0 - 5 8 62.5 1 4 5 1 0 1 1 4 6
+p423
+aVTony Delk GSW 01/27/1998 GSW @ POR W 17 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 -4
+p424
+aVErick Dampier GSW 01/27/1998 GSW @ POR W 36 10 5 12 41.7 0 0 - 0 0 - 4 5 9 1 0 1 3 3 5
+p425
+aVDonyell Marshall GSW 01/27/1998 GSW @ POR W 35 13 6 14 42.9 1 3 33.3 0 0 - 1 5 6 2 0 1 1 1 -1
+p426
+aVBrian Shaw GSW 01/24/1998 GSW @ VAN L 34 20 9 15 60.0 2 3 66.7 0 0 - 0 7 7 2 2 1 1 2 3
+p427
+aVDuane Ferrell GSW 01/24/1998 GSW @ VAN L 13 5 2 5 40.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 5
+p428
+aVDonyell Marshall GSW 01/24/1998 GSW @ VAN L 22 3 1 11 9.1 0 1 0.0 1 1 100.0 0 3 3 2 1 0 0 4 -6
+p429
+aVAdonal Foyle GSW 01/24/1998 GSW @ VAN L 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 -11
+p430
+aVErick Dampier GSW 01/24/1998 GSW @ VAN L 40 9 3 8 37.5 0 0 - 3 5 60.0 6 6 12 3 0 1 1 2 -13
+p431
+aVTony Delk GSW 01/24/1998 GSW @ VAN L 24 9 3 9 33.3 0 2 0.0 3 4 75.0 0 3 3 2 2 0 2 2 -12
+p432
+aVMuggsy Bogues GSW 01/24/1998 GSW @ VAN L 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p433
+aVTodd Fuller GSW 01/24/1998 GSW @ VAN L 20 10 3 6 50.0 0 0 - 4 4 100.0 2 1 3 0 0 2 1 3 3
+p434
+aVJoe Smith GSW 01/24/1998 GSW @ VAN L 36 32 10 19 52.6 0 1 0.0 12 12 100.0 1 0 1 0 2 0 1 3 -2
+p435
+aVFelton Spencer GSW 01/24/1998 GSW @ VAN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -1
+p436
+aVBimbo Coles GSW 01/24/1998 GSW @ VAN L 32 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 5 1 1 2 4 -17
+p437
+aVBimbo Coles GSW 01/23/1998 GSW vs. VAN L 34 2 1 6 16.7 0 1 0.0 0 0 - 0 6 6 5 0 0 1 2 -1
+p438
+aVJoe Smith GSW 01/23/1998 GSW vs. VAN L 38 23 9 19 47.4 0 0 - 5 10 50.0 2 1 3 1 0 2 1 3 -13
+p439
+aVBrian Shaw GSW 01/23/1998 GSW vs. VAN L 31 5 1 5 20.0 1 3 33.3 2 2 100.0 0 6 6 6 1 0 0 2 8
+p440
+aVDuane Ferrell GSW 01/23/1998 GSW vs. VAN L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -1
+p441
+aVTony Delk GSW 01/23/1998 GSW vs. VAN L 24 16 5 16 31.3 2 3 66.7 4 5 80.0 1 2 3 2 2 0 2 3 -8
+p442
+aVAdonal Foyle GSW 01/23/1998 GSW vs. VAN L 16 4 1 3 33.3 0 1 0.0 2 2 100.0 2 4 6 0 1 1 1 1 1
+p443
+aVDonyell Marshall GSW 01/23/1998 GSW vs. VAN L 33 14 4 14 28.6 1 4 25.0 5 9 55.6 1 5 6 1 4 1 0 5 -11
+p444
+aVMuggsy Bogues GSW 01/23/1998 GSW vs. VAN L 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 4 2 -7
+p445
+aVFelton Spencer GSW 01/23/1998 GSW vs. VAN L 10 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 1 0 0 2 -11
+p446
+aVErick Dampier GSW 01/23/1998 GSW vs. VAN L 38 10 4 9 44.4 0 0 - 2 4 50.0 4 9 13 4 0 1 2 2 3
+p447
+aVDonyell Marshall GSW 01/21/1998 GSW @ UTA L 34 13 6 15 40.0 0 4 0.0 1 2 50.0 2 4 6 0 3 1 1 1 -15
+p448
+aVBimbo Coles GSW 01/21/1998 GSW @ UTA L 35 8 4 12 33.3 0 2 0.0 0 0 - 0 3 3 7 0 0 0 3 -14
+p449
+aVTony Delk GSW 01/21/1998 GSW @ UTA L 31 15 5 11 45.5 0 2 0.0 5 6 83.3 2 0 2 0 3 1 1 0 -7
+p450
+aVJoe Smith GSW 01/21/1998 GSW @ UTA L 32 16 8 18 44.4 0 1 0.0 0 0 - 3 2 5 0 2 2 3 3 -2
+p451
+aVAdonal Foyle GSW 01/21/1998 GSW @ UTA L 14 4 1 1 100.0 0 0 - 2 3 66.7 0 3 3 0 0 1 1 2 -12
+p452
+aVBrian Shaw GSW 01/21/1998 GSW @ UTA L 30 4 2 8 25.0 0 0 - 0 0 - 0 4 4 8 0 1 3 4 -5
+p453
+aVDuane Ferrell GSW 01/21/1998 GSW @ UTA L 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 5
+p454
+aVTodd Fuller GSW 01/21/1998 GSW @ UTA L 8 2 1 1 100.0 0 0 - 0 2 0.0 1 2 3 0 1 2 0 1 -2
+p455
+aVErick Dampier GSW 01/21/1998 GSW @ UTA L 34 14 4 11 36.4 0 0 - 6 8 75.0 2 5 7 0 0 4 0 3 -11
+p456
+aVFelton Spencer GSW 01/21/1998 GSW @ UTA L 14 5 2 3 66.7 0 0 - 1 3 33.3 2 2 4 1 1 0 0 3 -2
+p457
+aVDuane Ferrell GSW 01/20/1998 GSW vs. PHX L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p458
+aVErick Dampier GSW 01/20/1998 GSW vs. PHX L 31 5 2 8 25.0 0 0 - 1 3 33.3 8 1 9 1 0 1 2 4 -14
+p459
+aVAdonal Foyle GSW 01/20/1998 GSW vs. PHX L 20 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 0 4 2 3 -10
+p460
+aVJoe Smith GSW 01/20/1998 GSW vs. PHX L 33 13 5 19 26.3 0 0 - 3 4 75.0 5 4 9 0 0 0 3 4 -13
+p461
+aVTony Delk GSW 01/20/1998 GSW vs. PHX L 16 2 1 10 10.0 0 3 0.0 0 0 - 2 1 3 1 0 0 1 1 -11
+p462
+aVBrian Shaw GSW 01/20/1998 GSW vs. PHX L 29 6 3 7 42.9 0 0 - 0 0 - 0 6 6 4 2 0 1 3 -9
+p463
+aVMuggsy Bogues GSW 01/20/1998 GSW vs. PHX L 18 3 1 3 33.3 0 0 - 1 1 100.0 0 4 4 4 1 0 2 1 -4
+p464
+aVDonyell Marshall GSW 01/20/1998 GSW vs. PHX L 41 23 10 23 43.5 1 6 16.7 2 4 50.0 4 6 10 0 0 1 2 3 -15
+p465
+aVBimbo Coles GSW 01/20/1998 GSW vs. PHX L 36 6 3 9 33.3 0 1 0.0 0 0 - 1 2 3 5 1 0 1 0 -19
+p466
+aVFelton Spencer GSW 01/20/1998 GSW vs. PHX L 16 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 0 0 1 0 2 -2
+p467
+aVFelton Spencer GSW 01/17/1998 GSW @ PHI L 15 10 3 3 100.0 0 0 - 4 5 80.0 4 3 7 1 1 0 3 3 -3
+p468
+aVTodd Fuller GSW 01/17/1998 GSW @ PHI L 4 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 0
+p469
+aVBrian Shaw GSW 01/17/1998 GSW @ PHI L 24 0 0 5 0.0 0 3 0.0 0 0 - 2 0 2 2 2 1 2 1 -20
+p470
+aVJoe Smith GSW 01/17/1998 GSW @ PHI L 31 11 5 14 35.7 0 0 - 1 2 50.0 3 0 3 1 1 1 0 3 -20
+p471
+aVErick Dampier GSW 01/17/1998 GSW @ PHI L 35 19 6 15 40.0 0 0 - 7 10 70.0 4 6 10 1 2 4 2 3 -25
+p472
+aVCarl Thomas GSW 01/17/1998 GSW @ PHI L 22 9 4 10 40.0 1 3 33.3 0 0 - 0 0 0 3 2 0 2 1 -5
+p473
+aVDickey Simpkins GSW 01/17/1998 GSW @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p474
+aVTony Delk GSW 01/17/1998 GSW @ PHI L 20 3 1 9 11.1 1 5 20.0 0 0 - 0 2 2 2 0 0 0 1 -21
+p475
+aVBimbo Coles GSW 01/17/1998 GSW @ PHI L 30 12 3 9 33.3 0 0 - 6 6 100.0 0 2 2 7 0 0 1 3 -10
+p476
+aVDuane Ferrell GSW 01/17/1998 GSW @ PHI L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 1 -19
+p477
+aVDonyell Marshall GSW 01/17/1998 GSW @ PHI L 31 10 3 13 23.1 0 0 - 4 4 100.0 3 8 11 2 1 1 0 2 -19
+p478
+aVAdonal Foyle GSW 01/17/1998 GSW @ PHI L 14 6 3 5 60.0 0 0 - 0 0 - 4 2 6 2 0 0 1 3 2
+p479
+aVDickey Simpkins GSW 01/16/1998 GSW @ ATL L 5 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 5
+p480
+aVTony Delk GSW 01/16/1998 GSW @ ATL L 18 8 3 7 42.9 0 1 0.0 2 2 100.0 0 2 2 2 0 1 2 0 -2
+p481
+aVFelton Spencer GSW 01/16/1998 GSW @ ATL L 15 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -10
+p482
+aVAdonal Foyle GSW 01/16/1998 GSW @ ATL L 22 6 2 8 25.0 0 0 - 2 6 33.3 7 0 7 0 1 3 1 2 1
+p483
+aVDuane Ferrell GSW 01/16/1998 GSW @ ATL L 17 6 3 5 60.0 0 0 - 0 0 - 0 3 3 2 0 0 0 3 5
+p484
+aVBrian Shaw GSW 01/16/1998 GSW @ ATL L 29 4 2 10 20.0 0 3 0.0 0 0 - 0 3 3 6 0 0 2 1 -13
+p485
+aVTodd Fuller GSW 01/16/1998 GSW @ ATL L 9 2 1 3 33.3 0 0 - 0 2 0.0 1 2 3 1 0 0 1 2 3
+p486
+aVErick Dampier GSW 01/16/1998 GSW @ ATL L 27 20 9 15 60.0 0 0 - 2 3 66.7 8 4 12 0 0 2 1 4 -12
+p487
+aVDonyell Marshall GSW 01/16/1998 GSW @ ATL L 32 12 5 15 33.3 0 3 0.0 2 2 100.0 4 4 8 0 2 0 1 2 -11
+p488
+aVCarl Thomas GSW 01/16/1998 GSW @ ATL L 20 10 4 11 36.4 0 3 0.0 2 2 100.0 0 0 0 4 1 1 0 2 -3
+p489
+aVBimbo Coles GSW 01/16/1998 GSW @ ATL L 29 13 6 14 42.9 0 1 0.0 1 1 100.0 1 2 3 2 2 0 1 1 -8
+p490
+aVJoe Smith GSW 01/16/1998 GSW @ ATL L 17 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 0 1 4 -20
+p491
+aVJoe Smith GSW 01/14/1998 GSW @ MIL L 41 19 8 15 53.3 0 0 - 3 4 75.0 2 3 5 3 3 0 4 3 -5
+p492
+aVDonyell Marshall GSW 01/14/1998 GSW @ MIL L 40 20 8 16 50.0 1 1 100.0 3 3 100.0 2 10 12 2 0 0 2 4 -9
+p493
+aVCarl Thomas GSW 01/14/1998 GSW @ MIL L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p494
+aVTony Delk GSW 01/14/1998 GSW @ MIL L 33 19 6 14 42.9 3 4 75.0 4 5 80.0 1 2 3 6 1 0 1 0 7
+p495
+aVAdonal Foyle GSW 01/14/1998 GSW @ MIL L 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -1
+p496
+aVDuane Ferrell GSW 01/14/1998 GSW @ MIL L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 3
+p497
+aVBrian Shaw GSW 01/14/1998 GSW @ MIL L 35 11 4 6 66.7 0 0 - 3 4 75.0 0 2 2 8 0 1 1 6 -1
+p498
+aVFelton Spencer GSW 01/14/1998 GSW @ MIL L 9 5 2 2 100.0 0 0 - 1 2 50.0 2 0 2 0 1 0 2 4 8
+p499
+aVBimbo Coles GSW 01/14/1998 GSW @ MIL L 18 6 2 7 28.6 0 1 0.0 2 2 100.0 2 1 3 1 0 0 2 1 -17
+p500
+aVErick Dampier GSW 01/14/1998 GSW @ MIL L 39 15 6 15 40.0 0 1 0.0 3 4 75.0 6 4 10 0 1 3 2 2 -12
+p501
+aVBimbo Coles GSW 01/12/1998 GSW @ MIN L 34 12 4 12 33.3 0 2 0.0 4 4 100.0 0 1 1 7 2 0 2 4 -11
+p502
+aVBrian Shaw GSW 01/12/1998 GSW @ MIN L 32 9 4 11 36.4 0 2 0.0 1 2 50.0 1 3 4 4 0 1 3 1 -5
+p503
+aVDuane Ferrell GSW 01/12/1998 GSW @ MIN L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 1 0 1 -3
+p504
+aVErick Dampier GSW 01/12/1998 GSW @ MIN L 28 13 3 9 33.3 0 0 - 7 12 58.3 4 3 7 0 2 1 3 4 -6
+p505
+aVTony Delk GSW 01/12/1998 GSW @ MIN L 18 12 5 10 50.0 2 3 66.7 0 0 - 1 2 3 1 1 0 1 1 -7
+p506
+aVCarl Thomas GSW 01/12/1998 GSW @ MIN L 11 6 2 4 50.0 1 1 100.0 1 1 100.0 0 0 0 1 0 0 0 1 -11
+p507
+aVJoe Smith GSW 01/12/1998 GSW @ MIN L 38 10 4 17 23.5 0 0 - 2 2 100.0 1 4 5 2 0 0 1 5 -5
+p508
+aVDickey Simpkins GSW 01/12/1998 GSW @ MIN L 14 2 0 3 0.0 0 0 - 2 2 100.0 2 1 3 0 0 1 1 1 -12
+p509
+aVDonyell Marshall GSW 01/12/1998 GSW @ MIN L 39 19 7 13 53.8 2 3 66.7 3 4 75.0 2 7 9 2 1 0 1 4 -12
+p510
+aVFelton Spencer GSW 01/12/1998 GSW @ MIN L 20 0 0 0 - 0 0 - 0 0 - 2 4 6 2 0 1 2 3 -8
+p511
+aVFelton Spencer GSW 01/10/1998 GSW @ CHI L 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 1 0 1 1 0
+p512
+aVCarl Thomas GSW 01/10/1998 GSW @ CHI L 17 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -9
+p513
+aVDickey Simpkins GSW 01/10/1998 GSW @ CHI L 15 5 2 5 40.0 0 0 - 1 2 50.0 4 2 6 2 1 0 2 2 -3
+p514
+aVDonyell Marshall GSW 01/10/1998 GSW @ CHI L 41 17 8 15 53.3 1 2 50.0 0 2 0.0 3 3 6 1 2 0 5 3 3
+p515
+aVTony Delk GSW 01/10/1998 GSW @ CHI L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 3
+p516
+aVBrian Shaw GSW 01/10/1998 GSW @ CHI L 34 10 4 9 44.4 2 4 50.0 0 0 - 1 9 10 5 0 0 1 5 -2
+p517
+aVJoe Smith GSW 01/10/1998 GSW @ CHI L 41 23 9 20 45.0 0 0 - 5 7 71.4 5 6 11 2 0 0 4 3 -10
+p518
+aVBimbo Coles GSW 01/10/1998 GSW @ CHI L 41 12 5 16 31.3 2 2 100.0 0 0 - 1 3 4 7 3 0 1 2 -2
+p519
+aVErick Dampier GSW 01/10/1998 GSW @ CHI L 39 6 3 10 30.0 0 0 - 0 0 - 2 4 6 5 0 3 1 4 -5
+p520
+aVTodd Fuller GSW 01/09/1998 GSW @ DET L 13 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -11
+p521
+aVJoe Smith GSW 01/09/1998 GSW @ DET L 33 16 7 12 58.3 0 0 - 2 2 100.0 1 6 7 0 0 1 0 2 -26
+p522
+aVDonyell Marshall GSW 01/09/1998 GSW @ DET L 29 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 3 4 -15
+p523
+aVBrian Shaw GSW 01/09/1998 GSW @ DET L 26 6 2 6 33.3 2 3 66.7 0 0 - 0 6 6 5 0 0 4 2 -10
+p524
+aVBimbo Coles GSW 01/09/1998 GSW @ DET L 35 9 4 10 40.0 0 0 - 1 2 50.0 0 2 2 6 1 0 3 4 -25
+p525
+aVCarl Thomas GSW 01/09/1998 GSW @ DET L 11 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 2 -4
+p526
+aVDuane Ferrell GSW 01/09/1998 GSW @ DET L 10 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 1 0 1 0 0 -7
+p527
+aVFelton Spencer GSW 01/09/1998 GSW @ DET L 11 0 0 0 - 0 0 - 0 2 0.0 1 0 1 2 0 0 1 0 -12
+p528
+aVAdonal Foyle GSW 01/09/1998 GSW @ DET L 19 3 1 3 33.3 0 0 - 1 4 25.0 3 2 5 0 0 1 2 0 -3
+p529
+aVErick Dampier GSW 01/09/1998 GSW @ DET L 29 11 5 11 45.5 0 0 - 1 2 50.0 1 7 8 1 1 1 3 2 -13
+p530
+aVTony Delk GSW 01/09/1998 GSW @ DET L 25 14 5 13 38.5 1 6 16.7 3 5 60.0 0 2 2 3 1 0 3 0 -19
+p531
+aVFelton Spencer GSW 01/07/1998 GSW vs. ATL L 8 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -6
+p532
+aVBimbo Coles GSW 01/07/1998 GSW vs. ATL L 37 16 6 13 46.2 0 2 0.0 4 4 100.0 0 3 3 6 4 0 1 2 -19
+p533
+aVJoe Smith GSW 01/07/1998 GSW vs. ATL L 37 23 9 19 47.4 0 0 - 5 5 100.0 4 6 10 4 1 1 3 3 0
+p534
+aVErick Dampier GSW 01/07/1998 GSW vs. ATL L 42 11 5 17 29.4 0 0 - 1 4 25.0 5 2 7 2 0 1 5 5 -14
+p535
+aVAdonal Foyle GSW 01/07/1998 GSW vs. ATL L 16 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 1 2 2 -14
+p536
+aVTony Delk GSW 01/07/1998 GSW vs. ATL L 27 10 4 8 50.0 1 3 33.3 1 2 50.0 0 1 1 2 1 0 1 1 -16
+p537
+aVDuane Ferrell GSW 01/07/1998 GSW vs. ATL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p538
+aVDonyell Marshall GSW 01/07/1998 GSW vs. ATL L 42 22 8 16 50.0 1 2 50.0 5 5 100.0 5 6 11 2 0 0 0 4 -26
+p539
+aVBrian Shaw GSW 01/07/1998 GSW vs. ATL L 32 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 6 0 1 1 4 -1
+p540
+aVFelton Spencer GSW 01/02/1998 GSW vs. LAC L 14 2 1 2 50.0 0 0 - 0 0 - 0 5 5 1 0 2 2 4 5
+p541
+aVDonyell Marshall GSW 01/02/1998 GSW vs. LAC L 40 15 7 16 43.8 0 3 0.0 1 3 33.3 5 11 16 2 4 1 1 4 -14
+p542
+aVBrian Shaw GSW 01/02/1998 GSW vs. LAC L 28 0 0 8 0.0 0 1 0.0 0 0 - 1 1 2 5 1 0 1 2 -14
+p543
+aVTony Delk GSW 01/02/1998 GSW vs. LAC L 31 17 6 15 40.0 1 1 100.0 4 4 100.0 0 2 2 4 0 0 3 1 -1
+p544
+aVJoe Smith GSW 01/02/1998 GSW vs. LAC L 30 8 2 14 14.3 0 0 - 4 6 66.7 5 3 8 1 2 0 3 3 -17
+p545
+aVDuane Ferrell GSW 01/02/1998 GSW vs. LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p546
+aVBimbo Coles GSW 01/02/1998 GSW vs. LAC L 37 14 6 14 42.9 0 2 0.0 2 2 100.0 0 3 3 4 2 0 1 3 -15
+p547
+aVDickey Simpkins GSW 01/02/1998 GSW vs. LAC L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 -3
+p548
+aVAdonal Foyle GSW 01/02/1998 GSW vs. LAC L 15 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 0 1 1 6 0 0
+p549
+aVErick Dampier GSW 01/02/1998 GSW vs. LAC L 38 16 4 7 57.1 0 0 - 8 10 80.0 5 7 12 1 1 1 2 2 -16
+p550
+aVDonyell Marshall GSW 12/30/1997 GSW vs. SEA L 42 18 8 19 42.1 1 3 33.3 1 1 100.0 4 1 5 4 4 1 1 2 -12
+p551
+aVFelton Spencer GSW 12/30/1997 GSW vs. SEA L 12 3 1 2 50.0 0 0 - 1 2 50.0 3 2 5 1 0 0 1 2 -9
+p552
+aVBrian Shaw GSW 12/30/1997 GSW vs. SEA L 37 14 6 11 54.5 2 3 66.7 0 0 - 0 4 4 8 0 0 3 2 -9
+p553
+aVJoe Smith GSW 12/30/1997 GSW vs. SEA L 41 23 11 19 57.9 0 0 - 1 2 50.0 4 8 12 1 2 4 8 3 -9
+p554
+aVAdonal Foyle GSW 12/30/1997 GSW vs. SEA L 10 2 1 3 33.3 0 0 - 0 2 0.0 0 5 5 0 0 1 0 2 -4
+p555
+aVErick Dampier GSW 12/30/1997 GSW vs. SEA L 39 9 4 8 50.0 0 0 - 1 3 33.3 2 7 9 3 1 3 4 1 -8
+p556
+aVBimbo Coles GSW 12/30/1997 GSW vs. SEA L 42 16 7 16 43.8 0 0 - 2 2 100.0 0 4 4 8 3 0 3 3 -8
+p557
+aVTony Delk GSW 12/30/1997 GSW vs. SEA L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 1 -11
+p558
+aVMuggsy Bogues GSW 12/27/1997 GSW vs. PHI L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -2
+p559
+aVErick Dampier GSW 12/27/1997 GSW vs. PHI L 36 14 5 9 55.6 0 0 - 4 8 50.0 2 9 11 2 0 3 2 4 -3
+p560
+aVFelton Spencer GSW 12/27/1997 GSW vs. PHI L 12 0 0 0 - 0 0 - 0 0 - 2 4 6 0 0 0 0 2 -4
+p561
+aVBrian Shaw GSW 12/27/1997 GSW vs. PHI L 35 4 2 8 25.0 0 4 0.0 0 0 - 0 5 5 7 0 0 1 4 -6
+p562
+aVBimbo Coles GSW 12/27/1997 GSW vs. PHI L 38 11 5 9 55.6 0 0 - 1 1 100.0 0 0 0 3 2 1 2 6 1
+p563
+aVDonyell Marshall GSW 12/27/1997 GSW vs. PHI L 40 20 9 16 56.3 2 5 40.0 0 1 0.0 5 9 14 3 1 3 6 3 -2
+p564
+aVTony Delk GSW 12/27/1997 GSW vs. PHI L 20 6 3 12 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 5 2 -7
+p565
+aVJoe Smith GSW 12/27/1997 GSW vs. PHI L 38 19 9 20 45.0 0 0 - 1 2 50.0 3 4 7 1 0 3 0 4 -6
+p566
+aVDickey Simpkins GSW 12/27/1997 GSW vs. PHI L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -1
+p567
+aVAdonal Foyle GSW 12/27/1997 GSW vs. PHI L 11 2 1 7 14.3 0 0 - 0 0 - 4 2 6 0 0 2 1 0 -5
+p568
+aVDickey Simpkins GSW 12/26/1997 GSW @ DEN W 10 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 4 2 -2
+p569
+aVJoe Smith GSW 12/26/1997 GSW @ DEN W 37 14 4 12 33.3 0 0 - 6 6 100.0 1 3 4 2 1 0 0 3 16
+p570
+aVTodd Fuller GSW 12/26/1997 GSW @ DEN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p571
+aVTony Delk GSW 12/26/1997 GSW @ DEN W 27 9 4 11 36.4 1 2 50.0 0 0 - 1 4 5 3 2 0 0 3 -3
+p572
+aVErick Dampier GSW 12/26/1997 GSW @ DEN W 30 19 7 12 58.3 0 0 - 5 8 62.5 4 8 12 0 0 3 2 3 18
+p573
+aVBimbo Coles GSW 12/26/1997 GSW @ DEN W 22 10 4 8 50.0 0 0 - 2 2 100.0 0 0 0 3 1 0 2 3 12
+p574
+aVFelton Spencer GSW 12/26/1997 GSW @ DEN W 13 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 3 -6
+p575
+aVAdonal Foyle GSW 12/26/1997 GSW @ DEN W 16 4 2 2 100.0 0 0 - 0 2 0.0 2 3 5 0 0 0 0 0 -8
+p576
+aVBrian Shaw GSW 12/26/1997 GSW @ DEN W 21 9 2 3 66.7 1 1 100.0 4 6 66.7 0 3 3 1 2 1 5 2 15
+p577
+aVMuggsy Bogues GSW 12/26/1997 GSW @ DEN W 26 8 4 8 50.0 0 0 - 0 0 - 1 0 1 4 1 0 5 0 0
+p578
+aVDonyell Marshall GSW 12/26/1997 GSW @ DEN W 33 8 2 6 33.3 2 3 66.7 2 2 100.0 0 9 9 1 0 3 3 4 18
+p579
+aVJoe Smith GSW 12/23/1997 GSW vs. DEN W 43 22 8 21 38.1 0 0 - 6 10 60.0 3 7 10 2 0 1 1 3 12
+p580
+aVErick Dampier GSW 12/23/1997 GSW vs. DEN W 21 4 2 5 40.0 0 0 - 0 2 0.0 2 5 7 1 0 1 2 3 -6
+p581
+aVAdonal Foyle GSW 12/23/1997 GSW vs. DEN W 11 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 2 0 4 -13
+p582
+aVTodd Fuller GSW 12/23/1997 GSW vs. DEN W 3 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p583
+aVFelton Spencer GSW 12/23/1997 GSW vs. DEN W 27 4 2 3 66.7 0 0 - 0 0 - 1 8 9 1 0 2 1 4 18
+p584
+aVMuggsy Bogues GSW 12/23/1997 GSW vs. DEN W 19 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 6 0 0 2 0 9
+p585
+aVBimbo Coles GSW 12/23/1997 GSW vs. DEN W 29 13 5 7 71.4 0 0 - 3 3 100.0 0 0 0 4 1 0 3 3 3
+p586
+aVTony Delk GSW 12/23/1997 GSW vs. DEN W 27 8 3 9 33.3 0 0 - 2 4 50.0 1 3 4 2 1 0 3 1 6
+p587
+aVDonyell Marshall GSW 12/23/1997 GSW vs. DEN W 39 20 9 12 75.0 2 5 40.0 0 0 - 0 7 7 4 0 1 3 3 27
+p588
+aVBrian Shaw GSW 12/23/1997 GSW vs. DEN W 21 5 2 7 28.6 0 2 0.0 1 1 100.0 0 3 3 7 1 0 1 2 6
+p589
+aVDickey Simpkins GSW 12/22/1997 GSW @ PHX L 22 4 2 4 50.0 0 0 - 0 2 0.0 0 3 3 1 0 0 3 4 -3
+p590
+aVMuggsy Bogues GSW 12/22/1997 GSW @ PHX L 20 4 2 4 50.0 0 0 - 0 0 - 0 2 2 4 2 0 2 1 -15
+p591
+aVAdonal Foyle GSW 12/22/1997 GSW @ PHX L 29 10 5 7 71.4 0 0 - 0 0 - 4 3 7 1 0 1 3 2 -4
+p592
+aVTodd Fuller GSW 12/22/1997 GSW @ PHX L 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 3 1 -6
+p593
+aVDuane Ferrell GSW 12/22/1997 GSW @ PHX L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -4
+p594
+aVBimbo Coles GSW 12/22/1997 GSW @ PHX L 28 12 5 8 62.5 2 3 66.7 0 0 - 0 0 0 6 1 0 3 1 0
+p595
+aVJoe Smith GSW 12/22/1997 GSW @ PHX L 22 13 6 11 54.5 0 0 - 1 1 100.0 3 3 6 1 0 1 4 5 -8
+p596
+aVErick Dampier GSW 12/22/1997 GSW @ PHX L 38 11 5 11 45.5 0 0 - 1 3 33.3 3 9 12 6 1 1 4 5 -2
+p597
+aVFelton Spencer GSW 12/22/1997 GSW @ PHX L 10 1 0 0 - 0 0 - 1 4 25.0 1 2 3 0 0 0 1 2 -11
+p598
+aVTony Delk GSW 12/22/1997 GSW @ PHX L 27 15 6 12 50.0 1 3 33.3 2 2 100.0 1 1 2 2 1 0 1 1 -12
+p599
+aVBrian Shaw GSW 12/22/1997 GSW @ PHX L 25 4 2 10 20.0 0 1 0.0 0 0 - 0 2 2 3 3 0 0 1 -10
+p600
+aVTodd Fuller GSW 12/20/1997 GSW @ SEA L 12 6 2 5 40.0 0 0 - 2 4 50.0 4 3 7 1 0 1 2 0 6
+p601
+aVDickey Simpkins GSW 12/20/1997 GSW @ SEA L 22 7 3 6 50.0 0 0 - 1 2 50.0 3 2 5 3 0 0 1 2 -2
+p602
+aVTony Delk GSW 12/20/1997 GSW @ SEA L 31 20 10 19 52.6 0 2 0.0 0 0 - 1 3 4 2 3 0 1 1 -1
+p603
+aVFelton Spencer GSW 12/20/1997 GSW @ SEA L 17 5 2 3 66.7 0 0 - 1 1 100.0 2 1 3 0 0 1 1 3 -4
+p604
+aVMuggsy Bogues GSW 12/20/1997 GSW @ SEA L 14 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 2 1 0 1 1 -9
+p605
+aVBimbo Coles GSW 12/20/1997 GSW @ SEA L 25 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 8 0 0 3 5 -8
+p606
+aVBrian Shaw GSW 12/20/1997 GSW @ SEA L 27 9 3 12 25.0 1 1 100.0 2 2 100.0 0 4 4 5 1 0 2 1 -20
+p607
+aVAdonal Foyle GSW 12/20/1997 GSW @ SEA L 16 12 6 9 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 5 3
+p608
+aVJoe Smith GSW 12/20/1997 GSW @ SEA L 28 5 2 12 16.7 0 0 - 1 2 50.0 2 3 5 2 1 1 4 5 -24
+p609
+aVDuane Ferrell GSW 12/20/1997 GSW @ SEA L 22 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 0 2 0 0 0 -16
+p610
+aVErick Dampier GSW 12/20/1997 GSW @ SEA L 27 15 6 11 54.5 0 0 - 3 7 42.9 2 6 8 1 1 1 2 2 -20
+p611
+aVBimbo Coles GSW 12/18/1997 GSW @ LAC L 21 2 1 6 16.7 0 0 - 0 0 - 1 4 5 4 1 0 0 2 -12
+p612
+aVDuane Ferrell GSW 12/18/1997 GSW @ LAC L 22 5 2 8 25.0 0 1 0.0 1 2 50.0 1 1 2 1 2 0 0 1 -13
+p613
+aVAdonal Foyle GSW 12/18/1997 GSW @ LAC L 21 6 2 4 50.0 0 0 - 2 4 50.0 0 2 2 1 0 2 0 2 20
+p614
+aVMuggsy Bogues GSW 12/18/1997 GSW @ LAC L 27 12 4 8 50.0 0 0 - 4 4 100.0 1 3 4 5 2 0 0 0 8
+p615
+aVBrian Shaw GSW 12/18/1997 GSW @ LAC L 23 6 3 11 27.3 0 2 0.0 0 0 - 2 3 5 0 0 0 3 6 -11
+p616
+aVJoe Smith GSW 12/18/1997 GSW @ LAC L 32 19 8 20 40.0 0 0 - 3 3 100.0 8 4 12 1 3 1 6 5 -18
+p617
+aVTony Delk GSW 12/18/1997 GSW @ LAC L 31 14 7 15 46.7 0 1 0.0 0 0 - 0 0 0 0 1 2 0 0 10
+p618
+aVFelton Spencer GSW 12/18/1997 GSW @ LAC L 15 2 0 1 0.0 0 0 - 2 4 50.0 2 3 5 0 1 0 2 2 -2
+p619
+aVDonyell Marshall GSW 12/18/1997 GSW @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p620
+aVErick Dampier GSW 12/18/1997 GSW @ LAC L 33 8 3 6 50.0 0 0 - 2 6 33.3 4 10 14 0 1 1 5 3 -2
+p621
+aVDickey Simpkins GSW 12/18/1997 GSW @ LAC L 10 4 2 3 66.7 0 0 - 0 2 0.0 0 4 4 0 0 0 0 2 9
+p622
+aVDavid Vaughn GSW 12/16/1997 GSW vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -2
+p623
+aVTony Delk GSW 12/16/1997 GSW vs. DAL W 24 13 5 14 35.7 1 1 100.0 2 4 50.0 0 3 3 1 1 0 0 1 5
+p624
+aVDonyell Marshall GSW 12/16/1997 GSW vs. DAL W 40 22 8 15 53.3 1 1 100.0 5 8 62.5 1 8 9 6 2 2 1 3 1
+p625
+aVDuane Ferrell GSW 12/16/1997 GSW vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p626
+aVBrian Shaw GSW 12/16/1997 GSW vs. DAL W 24 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 4 1 0 1 0 6
+p627
+aVAdonal Foyle GSW 12/16/1997 GSW vs. DAL W 14 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 2 2 1 8
+p628
+aVFelton Spencer GSW 12/16/1997 GSW vs. DAL W 20 2 0 1 0.0 0 0 - 2 4 50.0 6 7 13 0 1 0 0 0 16
+p629
+aVBimbo Coles GSW 12/16/1997 GSW vs. DAL W 25 9 4 7 57.1 0 0 - 1 2 50.0 0 3 3 6 0 0 1 3 0
+p630
+aVJoe Smith GSW 12/16/1997 GSW vs. DAL W 39 28 13 22 59.1 0 0 - 2 3 66.7 2 7 9 3 2 0 3 4 17
+p631
+aVMuggsy Bogues GSW 12/16/1997 GSW vs. DAL W 23 4 2 4 50.0 0 0 - 0 0 - 1 2 3 9 1 0 0 1 11
+p632
+aVErick Dampier GSW 12/16/1997 GSW vs. DAL W 28 17 7 9 77.8 0 0 - 3 4 75.0 1 6 7 1 1 3 1 3 -5
+p633
+aVFelton Spencer GSW 12/13/1997 GSW vs. SAC W 17 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -1
+p634
+aVDuane Ferrell GSW 12/13/1997 GSW vs. SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p635
+aVBimbo Coles GSW 12/13/1997 GSW vs. SAC W 32 9 2 8 25.0 0 0 - 5 5 100.0 1 1 2 5 0 0 2 1 -3
+p636
+aVMuggsy Bogues GSW 12/13/1997 GSW vs. SAC W 21 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 8 1 0 3 0 7
+p637
+aVTony Delk GSW 12/13/1997 GSW vs. SAC W 16 8 4 9 44.4 0 0 - 0 1 0.0 0 1 1 1 1 0 0 1 -3
+p638
+aVErick Dampier GSW 12/13/1997 GSW vs. SAC W 36 8 3 10 30.0 0 0 - 2 4 50.0 2 8 10 0 2 2 3 3 5
+p639
+aVJoe Smith GSW 12/13/1997 GSW vs. SAC W 37 25 11 18 61.1 0 0 - 3 4 75.0 6 5 11 2 3 0 4 6 -3
+p640
+aVDonyell Marshall GSW 12/13/1997 GSW vs. SAC W 43 16 6 16 37.5 0 0 - 4 5 80.0 2 10 12 2 4 3 1 3 4
+p641
+aVBrian Shaw GSW 12/13/1997 GSW vs. SAC W 37 12 5 15 33.3 0 2 0.0 2 4 50.0 1 1 2 3 0 1 3 2 7
+p642
+aVDavid Vaughn GSW 12/13/1997 GSW vs. SAC W 23 9 3 5 60.0 0 0 - 3 4 75.0 1 8 9 1 1 0 0 3 5
+p643
+aVBimbo Coles GSW 12/12/1997 GSW @ VAN L 30 10 4 9 44.4 0 1 0.0 2 2 100.0 1 1 2 6 1 0 2 1 -9
+p644
+aVTony Delk GSW 12/12/1997 GSW @ VAN L 15 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 3 0 0 1 1 5
+p645
+aVDonyell Marshall GSW 12/12/1997 GSW @ VAN L 37 14 6 15 40.0 0 1 0.0 2 2 100.0 3 2 5 1 2 1 0 3 -8
+p646
+aVJoe Smith GSW 12/12/1997 GSW @ VAN L 39 23 10 21 47.6 0 0 - 3 4 75.0 5 5 10 0 0 1 2 4 -4
+p647
+aVFelton Spencer GSW 12/12/1997 GSW @ VAN L 15 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 2 0 0 3 5
+p648
+aVBrian Shaw GSW 12/12/1997 GSW @ VAN L 33 10 4 13 30.8 0 0 - 2 2 100.0 2 7 9 4 3 2 5 4 -12
+p649
+aVAdonal Foyle GSW 12/12/1997 GSW @ VAN L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p650
+aVDavid Vaughn GSW 12/12/1997 GSW @ VAN L 13 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -2
+p651
+aVDuane Ferrell GSW 12/12/1997 GSW @ VAN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p652
+aVErick Dampier GSW 12/12/1997 GSW @ VAN L 33 14 4 7 57.1 0 0 - 6 10 60.0 1 5 6 0 1 1 2 4 -12
+p653
+aVMuggsy Bogues GSW 12/12/1997 GSW @ VAN L 18 7 3 7 42.9 0 0 - 1 1 100.0 1 1 2 8 1 0 1 1 2
+p654
+aVJoe Smith GSW 12/10/1997 GSW vs. LAL W 40 27 9 17 52.9 0 0 - 9 10 90.0 2 7 9 4 3 0 1 2 7
+p655
+aVBimbo Coles GSW 12/10/1997 GSW vs. LAL W 29 8 3 8 37.5 0 2 0.0 2 2 100.0 1 1 2 6 0 0 2 4 5
+p656
+aVDonyell Marshall GSW 12/10/1997 GSW vs. LAL W 38 10 5 10 50.0 0 0 - 0 0 - 1 4 5 1 0 1 0 3 4
+p657
+aVMuggsy Bogues GSW 12/10/1997 GSW vs. LAL W 19 0 0 4 0.0 0 0 - 0 0 - 0 1 1 6 1 0 1 2 -4
+p658
+aVDuane Ferrell GSW 12/10/1997 GSW vs. LAL W 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 2 -3
+p659
+aVErick Dampier GSW 12/10/1997 GSW vs. LAL W 33 19 6 16 37.5 0 0 - 7 8 87.5 4 12 16 2 0 3 2 5 1
+p660
+aVFelton Spencer GSW 12/10/1997 GSW vs. LAL W 15 3 1 1 100.0 0 0 - 1 1 100.0 3 2 5 0 0 2 1 5 0
+p661
+aVTony Delk GSW 12/10/1997 GSW vs. LAL W 24 18 8 14 57.1 0 0 - 2 3 66.7 1 2 3 2 1 0 2 3 2
+p662
+aVBrian Shaw GSW 12/10/1997 GSW vs. LAL W 25 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 4 3 1 2 1 -1
+p663
+aVDavid Vaughn GSW 12/10/1997 GSW vs. LAL W 8 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 0 2 0 3 1 -6
+p664
+aVBimbo Coles GSW 12/07/1997 GSW @ SAC L 35 6 2 11 18.2 0 2 0.0 2 2 100.0 0 2 2 1 0 1 0 4 -11
+p665
+aVTodd Fuller GSW 12/07/1997 GSW @ SAC L 7 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 4 -8
+p666
+aVFelton Spencer GSW 12/07/1997 GSW @ SAC L 14 6 3 3 100.0 0 0 - 0 2 0.0 4 3 7 0 0 2 1 5 2
+p667
+aVErick Dampier GSW 12/07/1997 GSW @ SAC L 27 18 7 11 63.6 0 0 - 4 7 57.1 1 6 7 2 0 2 4 3 -9
+p668
+aVDonyell Marshall GSW 12/07/1997 GSW @ SAC L 42 10 4 14 28.6 0 2 0.0 2 2 100.0 2 8 10 3 0 2 3 5 -17
+p669
+aVJoe Smith GSW 12/07/1997 GSW @ SAC L 38 24 9 20 45.0 0 0 - 6 8 75.0 4 5 9 0 1 1 3 4 -17
+p670
+aVMuggsy Bogues GSW 12/07/1997 GSW @ SAC L 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 3 0 0 1 1 2
+p671
+aVDavid Vaughn GSW 12/07/1997 GSW @ SAC L 15 5 2 8 25.0 0 0 - 1 1 100.0 1 2 3 0 1 1 1 1 4
+p672
+aVTony Delk GSW 12/07/1997 GSW @ SAC L 9 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 3 0 0 1 1 -10
+p673
+aVBrian Shaw GSW 12/07/1997 GSW @ SAC L 35 9 4 11 36.4 1 4 25.0 0 0 - 0 7 7 8 1 0 2 6 -11
+p674
+aVDavid Vaughn GSW 12/05/1997 GSW vs. ORL W 19 10 5 7 71.4 0 0 - 0 0 - 1 6 7 2 0 0 1 6 -11
+p675
+aVErick Dampier GSW 12/05/1997 GSW vs. ORL W 24 8 4 8 50.0 0 0 - 0 0 - 3 8 11 0 0 1 3 4 9
+p676
+aVMuggsy Bogues GSW 12/05/1997 GSW vs. ORL W 22 2 0 2 0.0 0 0 - 2 4 50.0 0 3 3 8 1 0 5 0 -1
+p677
+aVBrian Shaw GSW 12/05/1997 GSW vs. ORL W 38 15 5 10 50.0 3 4 75.0 2 2 100.0 0 4 4 5 0 0 3 2 11
+p678
+aVJoe Smith GSW 12/05/1997 GSW vs. ORL W 29 24 10 21 47.6 0 1 0.0 4 5 80.0 1 2 3 2 2 3 1 5 26
+p679
+aVFelton Spencer GSW 12/05/1997 GSW vs. ORL W 19 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 1 1 1 4 3
+p680
+aVTodd Fuller GSW 12/05/1997 GSW vs. ORL W 4 4 2 2 100.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 0 3
+p681
+aVDonyell Marshall GSW 12/05/1997 GSW vs. ORL W 38 28 11 20 55.0 2 4 50.0 4 5 80.0 3 8 11 5 2 1 1 1 14
+p682
+aVTony Delk GSW 12/05/1997 GSW vs. ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -2
+p683
+aVBimbo Coles GSW 12/05/1997 GSW vs. ORL W 32 6 1 7 14.3 0 1 0.0 4 5 80.0 2 6 8 7 0 1 0 2 22
+p684
+aVDuane Ferrell GSW 12/05/1997 GSW vs. ORL W 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 2 1
+p685
+aVDuane Ferrell GSW 12/03/1997 GSW vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p686
+aVJoe Smith GSW 12/03/1997 GSW vs. CLE L 24 6 3 11 27.3 0 0 - 0 0 - 1 4 5 3 1 2 5 2 -26
+p687
+aVBimbo Coles GSW 12/03/1997 GSW vs. CLE L 24 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 1 0 3 5 -5
+p688
+aVTodd Fuller GSW 12/03/1997 GSW vs. CLE L 6 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 7
+p689
+aVDonyell Marshall GSW 12/03/1997 GSW vs. CLE L 44 23 9 16 56.3 3 5 60.0 2 3 66.7 2 8 10 1 2 1 6 4 -16
+p690
+aVMuggsy Bogues GSW 12/03/1997 GSW vs. CLE L 28 8 2 6 33.3 0 0 - 4 4 100.0 1 2 3 6 0 0 2 0 -30
+p691
+aVFelton Spencer GSW 12/03/1997 GSW vs. CLE L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -12
+p692
+aVAdonal Foyle GSW 12/03/1997 GSW vs. CLE L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p693
+aVTony Delk GSW 12/03/1997 GSW vs. CLE L 20 4 2 7 28.6 0 0 - 0 0 - 0 1 1 1 0 0 3 0 3
+p694
+aVDavid Vaughn GSW 12/03/1997 GSW vs. CLE L 20 8 4 10 40.0 0 1 0.0 0 0 - 1 5 6 1 2 2 2 2 -16
+p695
+aVErick Dampier GSW 12/03/1997 GSW vs. CLE L 37 10 5 6 83.3 0 0 - 0 0 - 3 5 8 3 1 3 4 1 -11
+p696
+aVBrian Shaw GSW 12/03/1997 GSW vs. CLE L 25 2 1 6 16.7 0 0 - 0 0 - 0 5 5 3 0 0 2 2 -24
+p697
+aVFelton Spencer GSW 11/29/1997 GSW vs. HOU L 9 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 1
+p698
+aVDavid Vaughn GSW 11/29/1997 GSW vs. HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -9
+p699
+aVBimbo Coles GSW 11/29/1997 GSW vs. HOU L 20 6 3 7 42.9 0 1 0.0 0 0 - 1 0 1 4 1 1 3 4 -13
+p700
+aVLatrell Sprewell GSW 11/29/1997 GSW vs. HOU L 40 22 8 20 40.0 1 2 50.0 5 6 83.3 2 5 7 3 1 1 8 5 -8
+p701
+aVBrian Shaw GSW 11/29/1997 GSW vs. HOU L 19 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 3 9
+p702
+aVJoe Smith GSW 11/29/1997 GSW vs. HOU L 33 14 6 14 42.9 0 0 - 2 4 50.0 3 4 7 4 0 0 1 6 -13
+p703
+aVErick Dampier GSW 11/29/1997 GSW vs. HOU L 31 8 3 6 50.0 0 0 - 2 2 100.0 4 4 8 0 0 3 3 5 -13
+p704
+aVTodd Fuller GSW 11/29/1997 GSW vs. HOU L 17 8 2 5 40.0 0 0 - 4 4 100.0 2 4 6 1 0 0 0 5 15
+p705
+aVMuggsy Bogues GSW 11/29/1997 GSW vs. HOU L 24 7 3 7 42.9 0 1 0.0 1 1 100.0 2 0 2 7 4 0 2 1 9
+p706
+aVDonyell Marshall GSW 11/29/1997 GSW vs. HOU L 42 24 8 22 36.4 3 5 60.0 5 7 71.4 8 9 17 2 1 0 3 2 -13
+p707
+aVTodd Fuller GSW 11/28/1997 GSW @ UTA L 14 6 1 3 33.3 0 0 - 4 4 100.0 2 1 3 1 0 0 0 2 13
+p708
+aVLatrell Sprewell GSW 11/28/1997 GSW @ UTA L 37 30 11 29 37.9 2 6 33.3 6 7 85.7 1 2 3 3 2 0 3 0 -20
+p709
+aVDonyell Marshall GSW 11/28/1997 GSW @ UTA L 35 15 7 12 58.3 0 0 - 1 1 100.0 1 6 7 3 3 1 2 3 -22
+p710
+aVDavid Vaughn GSW 11/28/1997 GSW @ UTA L 9 1 0 3 0.0 0 0 - 1 2 50.0 3 0 3 0 0 0 0 2 -23
+p711
+aVBimbo Coles GSW 11/28/1997 GSW @ UTA L 34 5 1 7 14.3 1 1 100.0 2 2 100.0 0 0 0 4 2 1 0 1 -15
+p712
+aVTony Delk GSW 11/28/1997 GSW @ UTA L 7 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 4 0 -13
+p713
+aVMuggsy Bogues GSW 11/28/1997 GSW @ UTA L 14 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -14
+p714
+aVErick Dampier GSW 11/28/1997 GSW @ UTA L 24 7 3 6 50.0 0 0 - 1 1 100.0 3 3 6 2 0 1 1 3 -7
+p715
+aVFelton Spencer GSW 11/28/1997 GSW @ UTA L 21 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 0 0 2 4 -15
+p716
+aVAdonal Foyle GSW 11/28/1997 GSW @ UTA L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -11
+p717
+aVBrian Shaw GSW 11/28/1997 GSW @ UTA L 14 8 3 6 50.0 1 3 33.3 1 1 100.0 1 5 6 2 0 1 1 1 8
+p718
+aVJoe Smith GSW 11/28/1997 GSW @ UTA L 25 6 3 10 30.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -26
+p719
+aVLatrell Sprewell GSW 11/25/1997 GSW vs. NJN L 47 12 5 17 29.4 0 2 0.0 2 2 100.0 0 3 3 5 2 1 5 3 -13
+p720
+aVErick Dampier GSW 11/25/1997 GSW vs. NJN L 35 6 2 8 25.0 0 0 - 2 2 100.0 3 1 4 3 3 0 1 3 -18
+p721
+aVDonyell Marshall GSW 11/25/1997 GSW vs. NJN L 43 25 11 24 45.8 2 5 40.0 1 2 50.0 10 12 22 4 0 2 2 2 -6
+p722
+aVJoe Smith GSW 11/25/1997 GSW vs. NJN L 27 20 7 10 70.0 0 0 - 6 6 100.0 2 2 4 1 1 0 2 2 -24
+p723
+aVFelton Spencer GSW 11/25/1997 GSW vs. NJN L 13 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 1 3 4
+p724
+aVDavid Vaughn GSW 11/25/1997 GSW vs. NJN L 26 8 4 11 36.4 0 0 - 0 0 - 6 7 13 2 0 0 2 2 2
+p725
+aVMuggsy Bogues GSW 11/25/1997 GSW vs. NJN L 36 11 5 13 38.5 0 1 0.0 1 1 100.0 0 1 1 6 2 0 4 2 -3
+p726
+aVTony Delk GSW 11/25/1997 GSW vs. NJN L 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 1 2 -9
+p727
+aVBimbo Coles GSW 11/25/1997 GSW vs. NJN L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 2 0 2 1 -3
+p728
+aVLatrell Sprewell GSW 11/22/1997 GSW @ HOU L 40 28 10 22 45.5 0 2 0.0 8 11 72.7 0 5 5 6 2 1 2 1 2
+p729
+aVBrian Shaw GSW 11/22/1997 GSW @ HOU L 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -7
+p730
+aVTony Delk GSW 11/22/1997 GSW @ HOU L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p731
+aVDavid Vaughn GSW 11/22/1997 GSW @ HOU L 19 5 2 9 22.2 0 0 - 1 2 50.0 1 5 6 0 0 0 2 0 -14
+p732
+aVMuggsy Bogues GSW 11/22/1997 GSW @ HOU L 18 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 3 0 0 2 1 -20
+p733
+aVBimbo Coles GSW 11/22/1997 GSW @ HOU L 34 15 7 16 43.8 1 4 25.0 0 0 - 0 3 3 4 4 1 3 3 10
+p734
+aVJoe Smith GSW 11/22/1997 GSW @ HOU L 25 10 4 9 44.4 0 0 - 2 4 50.0 5 3 8 2 0 2 0 4 -2
+p735
+aVErick Dampier GSW 11/22/1997 GSW @ HOU L 36 6 2 5 40.0 0 0 - 2 2 100.0 3 7 10 0 0 1 1 4 9
+p736
+aVDonyell Marshall GSW 11/22/1997 GSW @ HOU L 38 14 6 13 46.2 1 5 20.0 1 2 50.0 3 7 10 2 0 1 1 3 4
+p737
+aVFelton Spencer GSW 11/22/1997 GSW @ HOU L 12 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 0 2 1 2 -15
+p738
+aVAdonal Foyle GSW 11/22/1997 GSW @ HOU L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 1 2 4
+p739
+aVBrian Shaw GSW 11/20/1997 GSW @ DAL W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 1 2 -10
+p740
+aVDonyell Marshall GSW 11/20/1997 GSW @ DAL W 47 15 5 17 29.4 1 5 20.0 4 6 66.7 4 12 16 1 0 1 7 4 18
+p741
+aVLatrell Sprewell GSW 11/20/1997 GSW @ DAL W 47 28 10 26 38.5 0 4 0.0 8 9 88.9 0 7 7 7 2 0 3 1 10
+p742
+aVDavid Vaughn GSW 11/20/1997 GSW @ DAL W 13 4 2 5 40.0 0 0 - 0 0 - 4 1 5 1 0 0 0 3 -14
+p743
+aVErick Dampier GSW 11/20/1997 GSW @ DAL W 35 13 5 12 41.7 0 0 - 3 3 100.0 4 6 10 0 2 2 3 6 8
+p744
+aVMuggsy Bogues GSW 11/20/1997 GSW @ DAL W 28 10 5 7 71.4 0 1 0.0 0 0 - 2 3 5 2 0 0 3 0 -7
+p745
+aVJoe Smith GSW 11/20/1997 GSW @ DAL W 42 17 6 13 46.2 0 0 - 5 6 83.3 5 5 10 0 1 0 3 3 9
+p746
+aVFelton Spencer GSW 11/20/1997 GSW @ DAL W 18 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 0 1 0 0 4 -4
+p747
+aVBimbo Coles GSW 11/20/1997 GSW @ DAL W 26 11 4 8 50.0 2 2 100.0 1 2 50.0 1 6 7 5 0 1 1 3 10
+p748
+aVTony Delk GSW 11/19/1997 GSW @ SAS L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p749
+aVLatrell Sprewell GSW 11/19/1997 GSW @ SAS L 30 20 9 20 45.0 0 3 0.0 2 4 50.0 0 1 1 4 1 0 0 1 -23
+p750
+aVMuggsy Bogues GSW 11/19/1997 GSW @ SAS L 22 9 3 5 60.0 1 2 50.0 2 2 100.0 1 1 2 6 1 0 1 1 -1
+p751
+aVAdonal Foyle GSW 11/19/1997 GSW @ SAS L 11 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 1 0 1 2 -3
+p752
+aVDonyell Marshall GSW 11/19/1997 GSW @ SAS L 32 16 7 11 63.6 0 2 0.0 2 3 66.7 2 1 3 1 4 0 0 3 -16
+p753
+aVDavid Vaughn GSW 11/19/1997 GSW @ SAS L 30 12 5 8 62.5 0 0 - 2 2 100.0 2 3 5 1 0 1 1 4 -11
+p754
+aVBrian Shaw GSW 11/19/1997 GSW @ SAS L 21 6 1 11 9.1 0 1 0.0 4 6 66.7 3 5 8 4 0 0 3 1 -1
+p755
+aVTodd Fuller GSW 11/19/1997 GSW @ SAS L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p756
+aVBimbo Coles GSW 11/19/1997 GSW @ SAS L 22 4 2 8 25.0 0 0 - 0 0 - 0 1 1 6 1 1 0 1 -17
+p757
+aVJoe Smith GSW 11/19/1997 GSW @ SAS L 18 7 3 10 30.0 0 0 - 1 2 50.0 1 2 3 0 0 0 3 4 -9
+p758
+aVErick Dampier GSW 11/19/1997 GSW @ SAS L 19 3 1 5 20.0 0 0 - 1 1 100.0 3 3 6 1 0 2 2 4 -12
+p759
+aVFelton Spencer GSW 11/19/1997 GSW @ SAS L 24 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 1 3 1 4 -6
+p760
+aVDuane Ferrell GSW 11/15/1997 GSW vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p761
+aVJoe Smith GSW 11/15/1997 GSW vs. POR L 34 26 10 21 47.6 0 0 - 6 7 85.7 2 8 10 0 1 0 0 3 -10
+p762
+aVFelton Spencer GSW 11/15/1997 GSW vs. POR L 20 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 2 0 3 -17
+p763
+aVTony Delk GSW 11/15/1997 GSW vs. POR L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p764
+aVAdonal Foyle GSW 11/15/1997 GSW vs. POR L 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 2 1 1 0 -1
+p765
+aVBimbo Coles GSW 11/15/1997 GSW vs. POR L 32 5 2 7 28.6 0 1 0.0 1 2 50.0 0 0 0 4 0 2 1 2 -10
+p766
+aVErick Dampier GSW 11/15/1997 GSW vs. POR L 25 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 0 5 1 1 3
+p767
+aVBrian Shaw GSW 11/15/1997 GSW vs. POR L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -9
+p768
+aVTodd Fuller GSW 11/15/1997 GSW vs. POR L 12 4 0 3 0.0 0 0 - 4 4 100.0 0 2 2 0 0 0 0 0 -1
+p769
+aVDonyell Marshall GSW 11/15/1997 GSW vs. POR L 39 15 6 14 42.9 1 1 100.0 2 4 50.0 1 7 8 0 2 0 1 4 -2
+p770
+aVLatrell Sprewell GSW 11/15/1997 GSW vs. POR L 43 25 7 19 36.8 1 4 25.0 10 12 83.3 1 4 5 6 1 0 4 4 -3
+p771
+aVMuggsy Bogues GSW 11/15/1997 GSW vs. POR L 16 4 2 2 100.0 0 0 - 0 0 - 0 1 1 6 1 1 1 0 -2
+p772
+aVLatrell Sprewell GSW 11/12/1997 GSW vs. DET L 36 14 5 12 41.7 1 3 33.3 3 4 75.0 0 2 2 5 1 1 3 2 -27
+p773
+aVFelton Spencer GSW 11/12/1997 GSW vs. DET L 14 2 1 1 100.0 0 0 - 0 2 0.0 3 2 5 0 0 0 2 3 -4
+p774
+aVBimbo Coles GSW 11/12/1997 GSW vs. DET L 26 9 3 9 33.3 0 1 0.0 3 3 100.0 0 2 2 4 1 0 1 4 -13
+p775
+aVDonyell Marshall GSW 11/12/1997 GSW vs. DET L 30 1 0 7 0.0 0 2 0.0 1 2 50.0 3 3 6 3 1 0 2 1 -17
+p776
+aVBrian Shaw GSW 11/12/1997 GSW vs. DET L 19 8 4 9 44.4 0 0 - 0 0 - 2 5 7 3 2 0 1 1 -6
+p777
+aVTodd Fuller GSW 11/12/1997 GSW vs. DET L 5 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -4
+p778
+aVDuane Ferrell GSW 11/12/1997 GSW vs. DET L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -7
+p779
+aVAdonal Foyle GSW 11/12/1997 GSW vs. DET L 12 4 2 4 50.0 0 0 - 0 1 0.0 1 1 2 0 0 1 2 3 -14
+p780
+aVTony Delk GSW 11/12/1997 GSW vs. DET L 9 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -8
+p781
+aVMuggsy Bogues GSW 11/12/1997 GSW vs. DET L 17 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -14
+p782
+aVErick Dampier GSW 11/12/1997 GSW vs. DET L 29 7 3 7 42.9 0 0 - 1 1 100.0 1 2 3 0 0 3 3 2 -23
+p783
+aVJoe Smith GSW 11/12/1997 GSW vs. DET L 38 14 6 12 50.0 0 0 - 2 4 50.0 1 4 5 1 1 0 1 5 -18
+p784
+aVDonyell Marshall GSW 11/09/1997 GSW @ LAL L 32 12 4 12 33.3 0 1 0.0 4 4 100.0 7 2 9 1 1 0 0 6 -27
+p785
+aVAdonal Foyle GSW 11/09/1997 GSW @ LAL L 16 2 0 11 0.0 0 0 - 2 4 50.0 4 2 6 2 1 0 1 3 -12
+p786
+aVBimbo Coles GSW 11/09/1997 GSW @ LAL L 27 9 4 7 57.1 0 0 - 1 2 50.0 0 3 3 6 1 0 3 3 -16
+p787
+aVTony Delk GSW 11/09/1997 GSW @ LAL L 12 14 6 11 54.5 1 1 100.0 1 2 50.0 2 1 3 1 1 0 0 0 -11
+p788
+aVFelton Spencer GSW 11/09/1997 GSW @ LAL L 13 4 2 3 66.7 0 0 - 0 3 0.0 1 1 2 0 1 1 0 6 -3
+p789
+aVJoe Smith GSW 11/09/1997 GSW @ LAL L 31 20 10 21 47.6 0 1 0.0 0 0 - 2 3 5 3 0 2 3 3 -28
+p790
+aVDuane Ferrell GSW 11/09/1997 GSW @ LAL L 14 4 2 3 66.7 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -1
+p791
+aVMuggsy Bogues GSW 11/09/1997 GSW @ LAL L 18 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 6 0 0 1 1 -11
+p792
+aVBrian Shaw GSW 11/09/1997 GSW @ LAL L 15 2 1 7 14.3 0 0 - 0 0 - 0 2 2 3 1 1 1 2 -12
+p793
+aVTodd Fuller GSW 11/09/1997 GSW @ LAL L 16 6 3 6 50.0 0 0 - 0 0 - 3 2 5 0 0 1 1 3 -12
+p794
+aVErick Dampier GSW 11/09/1997 GSW @ LAL L 21 9 3 7 42.9 0 0 - 3 4 75.0 1 6 7 0 1 0 1 3 -22
+p795
+aVLatrell Sprewell GSW 11/09/1997 GSW @ LAL L 24 10 4 12 33.3 0 3 0.0 2 4 50.0 0 1 1 4 1 0 2 1 -20
+p796
+aVJoe Smith GSW 11/08/1997 GSW vs. MIN L 34 11 5 15 33.3 0 0 - 1 2 50.0 4 3 7 0 1 0 1 4 2
+p797
+aVTony Delk GSW 11/08/1997 GSW vs. MIN L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p798
+aVAdonal Foyle GSW 11/08/1997 GSW vs. MIN L 18 9 3 8 37.5 0 0 - 3 5 60.0 4 2 6 0 0 2 1 2 -16
+p799
+aVBimbo Coles GSW 11/08/1997 GSW vs. MIN L 30 7 3 8 37.5 0 2 0.0 1 2 50.0 1 1 2 3 1 1 2 2 -14
+p800
+aVErick Dampier GSW 11/08/1997 GSW vs. MIN L 31 6 2 8 25.0 0 0 - 2 2 100.0 3 6 9 1 0 0 1 4 -2
+p801
+aVMuggsy Bogues GSW 11/08/1997 GSW vs. MIN L 18 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 5 0 0 1 0 7
+p802
+aVFelton Spencer GSW 11/08/1997 GSW vs. MIN L 17 6 3 7 42.9 0 0 - 0 0 - 6 6 12 0 0 0 0 3 -5
+p803
+aVLatrell Sprewell GSW 11/08/1997 GSW vs. MIN L 44 24 7 25 28.0 0 6 0.0 10 14 71.4 0 6 6 2 1 0 1 2 0
+p804
+aVDonyell Marshall GSW 11/08/1997 GSW vs. MIN L 37 18 8 19 42.1 1 5 20.0 1 1 100.0 7 11 18 2 0 0 4 3 -5
+p805
+aVDuane Ferrell GSW 11/08/1997 GSW vs. MIN L 7 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 5
+p806
+aVCarl Thomas GSW 11/05/1997 GSW @ NJN L 17 14 5 13 38.5 2 7 28.6 2 3 66.7 0 2 2 1 0 0 1 1 -1
+p807
+aVDonyell Marshall GSW 11/05/1997 GSW @ NJN L 34 21 8 17 47.1 3 6 50.0 2 4 50.0 4 5 9 1 0 1 1 1 0
+p808
+aVTodd Fuller GSW 11/05/1997 GSW @ NJN L 11 3 1 2 50.0 0 0 - 1 4 25.0 0 5 5 0 0 0 0 4 -3
+p809
+aVErick Dampier GSW 11/05/1997 GSW @ NJN L 20 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 0 1 0 4 -7
+p810
+aVDuane Ferrell GSW 11/05/1997 GSW @ NJN L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p811
+aVAdonal Foyle GSW 11/05/1997 GSW @ NJN L 12 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 2 0 5 -1
+p812
+aVLatrell Sprewell GSW 11/05/1997 GSW @ NJN L 41 4 2 11 18.2 0 1 0.0 0 2 0.0 2 1 3 6 2 0 4 2 -25
+p813
+aVFelton Spencer GSW 11/05/1997 GSW @ NJN L 22 6 1 2 50.0 0 0 - 4 6 66.7 1 5 6 0 0 1 1 5 -9
+p814
+aVJoe Smith GSW 11/05/1997 GSW @ NJN L 31 16 5 14 35.7 0 0 - 6 7 85.7 3 3 6 0 2 0 4 2 -12
+p815
+aVBimbo Coles GSW 11/05/1997 GSW @ NJN L 33 19 7 14 50.0 0 2 0.0 5 5 100.0 0 4 4 7 0 0 4 5 -6
+p816
+aVB.J. Armstrong GSW 11/05/1997 GSW @ NJN L 16 5 2 5 40.0 0 0 - 1 1 100.0 1 0 1 1 2 0 2 1 -10
+p817
+aVFelton Spencer GSW 11/04/1997 GSW @ TOR L 5 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 4 1 -10
+p818
+aVErick Dampier GSW 11/04/1997 GSW @ TOR L 23 14 6 8 75.0 0 0 - 2 3 66.7 6 4 10 0 0 1 2 0 -4
+p819
+aVCarl Thomas GSW 11/04/1997 GSW @ TOR L 17 8 4 9 44.4 0 2 0.0 0 2 0.0 2 0 2 0 1 0 1 3 -4
+p820
+aVDonyell Marshall GSW 11/04/1997 GSW @ TOR L 30 20 8 20 40.0 1 5 20.0 3 4 75.0 6 4 10 5 0 1 2 5 3
+p821
+aVTodd Fuller GSW 11/04/1997 GSW @ TOR L 12 4 2 7 28.6 0 0 - 0 0 - 1 7 8 0 0 1 0 0 3
+p822
+aVDuane Ferrell GSW 11/04/1997 GSW @ TOR L 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 -13
+p823
+aVB.J. Armstrong GSW 11/04/1997 GSW @ TOR L 15 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 1 0 0 2 3 -7
+p824
+aVBimbo Coles GSW 11/04/1997 GSW @ TOR L 33 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 5 3 -11
+p825
+aVJoe Smith GSW 11/04/1997 GSW @ TOR L 31 11 4 16 25.0 0 0 - 3 3 100.0 4 6 10 6 0 0 1 4 -11
+p826
+aVLatrell Sprewell GSW 11/04/1997 GSW @ TOR L 37 12 5 11 45.5 0 3 0.0 2 5 40.0 0 3 3 8 2 0 5 2 -22
+p827
+aVAdonal Foyle GSW 11/04/1997 GSW @ TOR L 9 2 0 1 0.0 0 0 - 2 4 50.0 0 1 1 1 0 0 1 1 -13
+p828
+aVDickey Simpkins GSW 11/04/1997 GSW @ TOR L 16 2 1 5 20.0 0 0 - 0 4 0.0 2 6 8 1 0 0 0 1 -1
+p829
+aVDonyell Marshall GSW 11/01/1997 GSW @ IND L 30 9 4 11 36.4 0 0 - 1 2 50.0 2 5 7 1 1 2 2 5 3
+p830
+aVLatrell Sprewell GSW 11/01/1997 GSW @ IND L 40 25 9 22 40.9 0 2 0.0 7 8 87.5 0 2 2 2 1 1 1 2 -15
+p831
+aVJoe Smith GSW 11/01/1997 GSW @ IND L 37 17 7 18 38.9 0 0 - 3 6 50.0 6 4 10 1 2 2 3 3 -14
+p832
+aVFelton Spencer GSW 11/01/1997 GSW @ IND L 18 1 0 3 0.0 0 0 - 1 2 50.0 2 4 6 0 1 1 1 3 -4
+p833
+aVB.J. Armstrong GSW 11/01/1997 GSW @ IND L 15 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 1 2 0 2 1 -5
+p834
+aVBimbo Coles GSW 11/01/1997 GSW @ IND L 33 8 4 8 50.0 0 0 - 0 0 - 0 2 2 6 1 0 1 3 -8
+p835
+aVCarl Thomas GSW 11/01/1997 GSW @ IND L 8 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 2
+p836
+aVDickey Simpkins GSW 11/01/1997 GSW @ IND L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 3
+p837
+aVDuane Ferrell GSW 11/01/1997 GSW @ IND L 16 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 0 0 1 1 -15
+p838
+aVAdonal Foyle GSW 11/01/1997 GSW @ IND L 11 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 0 2 2 2
+p839
+aVErick Dampier GSW 11/01/1997 GSW @ IND L 29 6 2 8 25.0 0 0 - 2 3 66.7 2 9 11 0 0 0 3 6 -14
+p840
+aVErick Dampier GSW 10/31/1997 GSW @ MIN L 30 5 2 5 40.0 0 0 - 1 2 50.0 3 5 8 1 1 3 1 4 -19
+p841
+aVJoe Smith GSW 10/31/1997 GSW @ MIN L 37 18 8 15 53.3 0 2 0.0 2 2 100.0 2 6 8 0 0 2 0 4 -11
+p842
+aVDuane Ferrell GSW 10/31/1997 GSW @ MIN L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p843
+aVB.J. Armstrong GSW 10/31/1997 GSW @ MIN L 14 6 2 7 28.6 0 1 0.0 2 2 100.0 1 1 2 3 0 0 1 1 0
+p844
+aVAdonal Foyle GSW 10/31/1997 GSW @ MIN L 9 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 2 0 1 -5
+p845
+aVFelton Spencer GSW 10/31/1997 GSW @ MIN L 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 3 2 6 -6
+p846
+aVBimbo Coles GSW 10/31/1997 GSW @ MIN L 34 12 6 15 40.0 0 0 - 0 0 - 2 3 5 9 3 0 1 1 -16
+p847
+aVDonyell Marshall GSW 10/31/1997 GSW @ MIN L 35 19 9 22 40.9 0 3 0.0 1 4 25.0 6 4 10 2 3 1 2 4 -13
+p848
+aVTodd Fuller GSW 10/31/1997 GSW @ MIN L 7 0 0 4 0.0 0 0 - 0 0 - 3 0 3 1 0 0 0 0 9
+p849
+aVDickey Simpkins GSW 10/31/1997 GSW @ MIN L 7 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p850
+aVLatrell Sprewell GSW 10/31/1997 GSW @ MIN L 41 45 18 31 58.1 4 7 57.1 5 6 83.3 1 2 3 7 0 0 3 0 -16
+p851
+aVCarl Thomas GSW 10/31/1997 GSW @ MIN L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 0
+p852
+a.

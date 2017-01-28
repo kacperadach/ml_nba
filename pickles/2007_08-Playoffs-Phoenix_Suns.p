@@ -1,0 +1,94 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBoris Diaw PHX 04/29/2008 PHX @ SAS L 43 22 11 17 64.7 0 2 0.0 0 2 0.0 1 7 8 8 2 1 2 5 2
+p2
+aVBrian Skinner PHX 04/29/2008 PHX @ SAS L 5 5 1 1 100.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 1 -1
+p3
+aVGordan Giricek PHX 04/29/2008 PHX @ SAS L 21 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 1 0 0 0 1 6
+p4
+aVShaquille O'Neal PHX 04/29/2008 PHX @ SAS L 29 13 2 8 25.0 0 0 - 9 20 45.0 2 7 9 1 0 3 2 5 -4
+p5
+aVSteve Nash PHX 04/29/2008 PHX @ SAS L 38 11 4 16 25.0 1 6 16.7 2 2 100.0 0 2 2 3 1 0 5 4 -7
+p6
+aVAmar'e Stoudemire PHX 04/29/2008 PHX @ SAS L 44 15 6 14 42.9 0 0 - 3 5 60.0 4 7 11 0 2 3 2 5 -6
+p7
+aVLeandro Barbosa PHX 04/29/2008 PHX @ SAS L 19 5 1 7 14.3 1 4 25.0 2 2 100.0 1 2 3 0 1 0 0 1 -7
+p8
+aVRaja Bell PHX 04/29/2008 PHX @ SAS L 41 14 5 8 62.5 3 5 60.0 1 2 50.0 2 6 8 1 0 0 2 5 -8
+p9
+aVBrian Skinner PHX 04/27/2008 PHX vs. SAS W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 2 -12
+p10
+aVLeandro Barbosa PHX 04/27/2008 PHX vs. SAS W 28 15 5 15 33.3 2 5 40.0 3 4 75.0 0 1 1 1 0 0 1 3 -1
+p11
+aVDJ Strawberry PHX 04/27/2008 PHX vs. SAS W 5 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -9
+p12
+aVAmar'e Stoudemire PHX 04/27/2008 PHX vs. SAS W 31 7 3 11 27.3 0 0 - 1 3 33.3 3 6 9 1 1 3 1 3 29
+p13
+aVEric Piatkowski PHX 04/27/2008 PHX vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p14
+aVRaja Bell PHX 04/27/2008 PHX vs. SAS W 40 27 8 11 72.7 5 7 71.4 6 6 100.0 1 5 6 5 0 0 0 2 23
+p15
+aVSteve Nash PHX 04/27/2008 PHX vs. SAS W 29 15 6 11 54.5 1 3 33.3 2 2 100.0 0 5 5 4 1 0 0 1 25
+p16
+aVShaquille O'Neal PHX 04/27/2008 PHX vs. SAS W 24 14 4 10 40.0 0 0 - 6 10 60.0 5 7 12 1 2 2 1 3 27
+p17
+aVGordan Giricek PHX 04/27/2008 PHX vs. SAS W 23 7 2 7 28.6 1 2 50.0 2 2 100.0 0 1 1 0 2 0 1 1 -3
+p18
+aVBoris Diaw PHX 04/27/2008 PHX vs. SAS W 45 20 10 19 52.6 0 2 0.0 0 0 - 3 7 10 8 0 2 4 6 19
+p19
+aVSean Marks PHX 04/27/2008 PHX vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p20
+aVLeandro Barbosa PHX 04/25/2008 PHX vs. SAS L 32 20 9 17 52.9 1 3 33.3 1 1 100.0 1 3 4 3 1 0 1 0 -3
+p21
+aVGordan Giricek PHX 04/25/2008 PHX vs. SAS L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 1
+p22
+aVBoris Diaw PHX 04/25/2008 PHX vs. SAS L 33 10 4 9 44.4 0 1 0.0 2 2 100.0 1 3 4 3 0 0 2 3 4
+p23
+aVGrant Hill PHX 04/25/2008 PHX vs. SAS L 20 6 3 6 50.0 0 0 - 0 0 - 1 3 4 2 0 0 0 2 -13
+p24
+aVBrian Skinner PHX 04/25/2008 PHX vs. SAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p25
+aVRaja Bell PHX 04/25/2008 PHX vs. SAS L 39 5 2 4 50.0 1 1 100.0 0 2 0.0 0 4 4 1 1 1 1 4 -19
+p26
+aVSteve Nash PHX 04/25/2008 PHX vs. SAS L 32 7 3 8 37.5 0 0 - 1 1 100.0 1 1 2 9 0 1 1 2 -26
+p27
+aVAmar'e Stoudemire PHX 04/25/2008 PHX vs. SAS L 41 28 13 23 56.5 0 1 0.0 2 4 50.0 3 8 11 0 1 1 2 2 -19
+p28
+aVShaquille O'Neal PHX 04/25/2008 PHX vs. SAS L 31 19 5 11 45.5 0 0 - 9 17 52.9 2 4 6 2 0 0 1 4 -5
+p29
+aVRaja Bell PHX 04/22/2008 PHX @ SAS L 40 8 2 7 28.6 2 4 50.0 2 2 100.0 1 4 5 1 1 0 0 4 0
+p30
+aVLeandro Barbosa PHX 04/22/2008 PHX @ SAS L 24 0 0 7 0.0 0 3 0.0 0 0 - 0 4 4 3 0 0 1 2 -18
+p31
+aVAmar'e Stoudemire PHX 04/22/2008 PHX @ SAS L 41 33 13 25 52.0 1 3 33.3 6 9 66.7 1 6 7 1 1 3 3 3 1
+p32
+aVSteve Nash PHX 04/22/2008 PHX @ SAS L 39 23 10 15 66.7 1 3 33.3 2 2 100.0 0 1 1 10 0 0 4 1 -3
+p33
+aVShaquille O'Neal PHX 04/22/2008 PHX @ SAS L 36 19 6 13 46.2 0 0 - 7 14 50.0 3 11 14 0 1 4 1 4 3
+p34
+aVGrant Hill PHX 04/22/2008 PHX @ SAS L 20 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 2 0 0 1 3
+p35
+aVBoris Diaw PHX 04/22/2008 PHX @ SAS L 25 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 1 0 0 1 3 -18
+p36
+aVGordan Giricek PHX 04/22/2008 PHX @ SAS L 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p37
+aVAmar'e Stoudemire PHX 04/19/2008 PHX @ SAS L 46 33 13 26 50.0 0 0 - 7 9 77.8 4 3 7 0 2 2 6 6 11
+p38
+aVBoris Diaw PHX 04/19/2008 PHX @ SAS L 32 12 6 11 54.5 0 2 0.0 0 0 - 1 3 4 3 1 1 2 5 1
+p39
+aVLeandro Barbosa PHX 04/19/2008 PHX @ SAS L 41 12 4 9 44.4 0 3 0.0 4 4 100.0 0 8 8 2 1 0 1 4 0
+p40
+aVRaja Bell PHX 04/19/2008 PHX @ SAS L 54 14 4 7 57.1 2 3 66.7 4 4 100.0 2 3 5 3 0 0 2 4 -2
+p41
+aVGrant Hill PHX 04/19/2008 PHX @ SAS L 28 5 2 4 50.0 0 0 - 1 1 100.0 2 5 7 1 0 1 0 0 -6
+p42
+aVGordan Giricek PHX 04/19/2008 PHX @ SAS L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p43
+aVShaquille O'Neal PHX 04/19/2008 PHX @ SAS L 30 11 5 8 62.5 0 0 - 1 3 33.3 1 4 5 1 2 4 4 5 -6
+p44
+aVBrian Skinner PHX 04/19/2008 PHX @ SAS L 2 1 0 1 0.0 0 0 - 1 4 25.0 0 1 1 0 0 0 0 1 -6
+p45
+aVSteve Nash PHX 04/19/2008 PHX @ SAS L 45 25 9 20 45.0 3 8 37.5 4 5 80.0 0 4 4 13 0 0 2 2 -3
+p46
+a.

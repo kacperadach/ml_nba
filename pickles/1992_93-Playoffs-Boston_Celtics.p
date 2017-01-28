@@ -1,0 +1,80 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDee Brown BOS 05/05/1993 BOS @ CHH L 23 5 2 7 28.6 0 1 0.0 1 1 100.0 0 0 0 1 0 0 1 3 -
+p2
+aVKevin McHale BOS 05/05/1993 BOS @ CHH L 33 19 8 14 57.1 0 0 - 3 4 75.0 3 3 6 1 1 3 1 2 -
+p3
+aVRick Fox BOS 05/05/1993 BOS @ CHH L 18 10 4 10 40.0 0 0 - 2 2 100.0 2 3 5 2 1 0 1 1 -
+p4
+aVJoe Kleine BOS 05/05/1993 BOS @ CHH L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p5
+aVSherman Douglas BOS 05/05/1993 BOS @ CHH L 40 11 4 12 33.3 0 0 - 3 6 50.0 2 4 6 9 2 0 6 3 -
+p6
+aVRobert Parish BOS 05/05/1993 BOS @ CHH L 37 24 11 16 68.8 0 0 - 2 2 100.0 5 4 9 2 0 3 2 3 -
+p7
+aVAlaa Abdelnaby BOS 05/05/1993 BOS @ CHH L 18 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 0 1 4 1 -
+p8
+aVXavier McDaniel BOS 05/05/1993 BOS @ CHH L 36 18 8 13 61.5 0 0 - 2 4 50.0 3 3 6 4 1 1 2 3 -
+p9
+aVKevin Gamble BOS 05/05/1993 BOS @ CHH L 30 14 6 6 100.0 2 2 100.0 0 0 - 0 2 2 2 1 0 0 5 -
+p10
+aVAlaa Abdelnaby BOS 05/03/1993 BOS @ CHH L 16 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 0 0 1 1 -
+p11
+aVDee Brown BOS 05/03/1993 BOS @ CHH L 38 11 4 11 36.4 1 3 33.3 2 2 100.0 0 0 0 2 1 1 4 4 -
+p12
+aVSherman Douglas BOS 05/03/1993 BOS @ CHH L 37 14 4 12 33.3 0 1 0.0 6 7 85.7 3 1 4 8 0 0 2 2 -
+p13
+aVRobert Parish BOS 05/03/1993 BOS @ CHH L 26 10 5 11 45.5 0 0 - 0 0 - 1 3 4 2 0 1 2 1 -
+p14
+aVKevin Gamble BOS 05/03/1993 BOS @ CHH L 37 19 8 16 50.0 3 6 50.0 0 0 - 2 0 2 4 1 1 1 2 -
+p15
+aVKevin McHale BOS 05/03/1993 BOS @ CHH L 24 15 6 12 50.0 0 0 - 3 3 100.0 2 3 5 1 0 2 2 1 -
+p16
+aVRick Fox BOS 05/03/1993 BOS @ CHH L 18 3 1 7 14.3 1 2 50.0 0 0 - 1 1 2 2 0 0 3 2 -
+p17
+aVLorenzo Williams BOS 05/03/1993 BOS @ CHH L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p18
+aVXavier McDaniel BOS 05/03/1993 BOS @ CHH L 29 7 3 8 37.5 0 1 0.0 1 2 50.0 0 5 5 3 0 1 2 4 -
+p19
+aVJoe Kleine BOS 05/03/1993 BOS @ CHH L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -
+p20
+aVAlaa Abdelnaby BOS 05/01/1993 BOS vs. CHH L 15 6 3 10 30.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -
+p21
+aVSherman Douglas BOS 05/01/1993 BOS vs. CHH L 46 6 3 10 30.0 0 1 0.0 0 0 - 4 3 7 10 2 0 2 2 -
+p22
+aVXavier McDaniel BOS 05/01/1993 BOS vs. CHH L 33 4 1 12 8.3 0 1 0.0 2 2 100.0 2 2 4 2 0 1 2 4 -
+p23
+aVDee Brown BOS 05/01/1993 BOS vs. CHH L 40 13 5 15 33.3 0 3 0.0 3 3 100.0 2 3 5 5 1 1 1 4 -
+p24
+aVRobert Parish BOS 05/01/1993 BOS vs. CHH L 48 19 8 18 44.4 0 0 - 3 3 100.0 6 10 16 0 1 1 1 5 -
+p25
+aVKevin Gamble BOS 05/01/1993 BOS vs. CHH L 45 16 6 14 42.9 0 3 0.0 4 4 100.0 1 2 3 2 2 0 1 1 -
+p26
+aVRick Fox BOS 05/01/1993 BOS vs. CHH L 20 2 1 6 16.7 0 0 - 0 0 - 5 1 6 0 0 0 0 2 -
+p27
+aVJoe Kleine BOS 05/01/1993 BOS vs. CHH L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p28
+aVKevin McHale BOS 05/01/1993 BOS vs. CHH L 36 30 13 18 72.2 0 0 - 4 5 80.0 2 8 10 0 0 1 1 0 -
+p29
+aVRick Fox BOS 04/29/1993 BOS vs. CHH W 15 2 1 2 50.0 0 1 0.0 0 0 - 0 6 6 1 1 1 0 2 -
+p30
+aVDee Brown BOS 04/29/1993 BOS vs. CHH W 32 16 4 8 50.0 0 0 - 8 8 100.0 0 1 1 7 0 2 0 0 -
+p31
+aVJoe Kleine BOS 04/29/1993 BOS vs. CHH W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p32
+aVXavier McDaniel BOS 04/29/1993 BOS vs. CHH W 28 21 10 20 50.0 0 0 - 1 1 100.0 1 2 3 0 0 0 1 5 -
+p33
+aVSherman Douglas BOS 04/29/1993 BOS vs. CHH W 43 13 6 11 54.5 0 1 0.0 1 2 50.0 3 6 9 11 0 0 2 3 -
+p34
+aVKevin Gamble BOS 04/29/1993 BOS vs. CHH W 30 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 2 2 0 3 3 -
+p35
+aVAlaa Abdelnaby BOS 04/29/1993 BOS vs. CHH W 19 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -
+p36
+aVRobert Parish BOS 04/29/1993 BOS vs. CHH W 35 15 7 12 58.3 0 0 - 1 2 50.0 1 8 9 1 0 1 1 5 -
+p37
+aVReggie Lewis BOS 04/29/1993 BOS vs. CHH W 13 17 7 11 63.6 0 1 0.0 3 4 75.0 2 0 2 1 0 1 1 1 -
+p38
+aVKevin McHale BOS 04/29/1993 BOS vs. CHH W 20 12 5 11 45.5 0 0 - 2 2 100.0 2 6 8 1 1 1 1 3 -
+p39
+a.

@@ -1,0 +1,1662 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDennis Scott PHX 04/19/1998 PHX @ HOU W 23 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 1 1 0 1 13
+p2
+aVClifford Robinson PHX 04/19/1998 PHX @ HOU W 35 32 14 21 66.7 0 2 0.0 4 5 80.0 2 5 7 0 4 1 0 2 20
+p3
+aVMark Bryant PHX 04/19/1998 PHX @ HOU W 15 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 2 1 1 0 4 23
+p4
+aVHot Rod Williams PHX 04/19/1998 PHX @ HOU W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 1 0 5
+p5
+aVKevin Johnson PHX 04/19/1998 PHX @ HOU W 21 2 0 2 0.0 0 0 - 2 3 66.7 0 2 2 5 0 0 2 2 16
+p6
+aVGeorge McCloud PHX 04/19/1998 PHX @ HOU W 31 12 5 13 38.5 2 6 33.3 0 0 - 2 2 4 1 0 0 1 2 14
+p7
+aVSteve Nash PHX 04/19/1998 PHX @ HOU W 28 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 12 1 0 4 4 16
+p8
+aVMarko Milic PHX 04/19/1998 PHX @ HOU W 8 8 4 5 80.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 2
+p9
+aVJason Kidd PHX 04/19/1998 PHX @ HOU W 36 27 13 17 76.5 1 2 50.0 0 0 - 2 6 8 7 4 0 1 2 30
+p10
+aVAntonio McDyess PHX 04/19/1998 PHX @ HOU W 25 13 5 11 45.5 0 0 - 3 5 60.0 2 2 4 4 1 0 3 4 7
+p11
+aVHoracio Llamas PHX 04/19/1998 PHX @ HOU W 8 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 5 4
+p12
+aVClifford Robinson PHX 04/17/1998 PHX vs. UTA L 42 24 6 12 50.0 0 0 - 12 17 70.6 2 5 7 1 2 0 3 3 6
+p13
+aVGeorge McCloud PHX 04/17/1998 PHX vs. UTA L 33 12 5 6 83.3 2 2 100.0 0 0 - 1 3 4 0 0 1 2 4 -1
+p14
+aVMark Bryant PHX 04/17/1998 PHX vs. UTA L 14 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 0 1 1 -4
+p15
+aVKevin Johnson PHX 04/17/1998 PHX vs. UTA L 27 13 4 11 36.4 1 2 50.0 4 4 100.0 3 3 6 4 1 1 3 2 -14
+p16
+aVRex Chapman PHX 04/17/1998 PHX vs. UTA L 35 25 9 20 45.0 2 7 28.6 5 6 83.3 1 1 2 0 1 0 1 3 -8
+p17
+aVDennis Scott PHX 04/17/1998 PHX vs. UTA L 17 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 2 1
+p18
+aVJason Kidd PHX 04/17/1998 PHX vs. UTA L 41 12 4 9 44.4 0 0 - 4 4 100.0 0 5 5 16 5 4 4 1 11
+p19
+aVAntonio McDyess PHX 04/17/1998 PHX vs. UTA L 31 8 4 9 44.4 0 0 - 0 3 0.0 1 3 4 0 3 1 4 4 -6
+p20
+aVAntonio McDyess PHX 04/15/1998 PHX vs. DEN W 39 25 11 17 64.7 0 0 - 3 4 75.0 2 3 5 2 0 1 1 4 -1
+p21
+aVKevin Johnson PHX 04/15/1998 PHX vs. DEN W 31 10 3 7 42.9 0 1 0.0 4 5 80.0 1 1 2 4 2 0 2 2 7
+p22
+aVClifford Robinson PHX 04/15/1998 PHX vs. DEN W 43 12 4 12 33.3 0 1 0.0 4 4 100.0 2 3 5 5 2 2 4 3 1
+p23
+aVJason Kidd PHX 04/15/1998 PHX vs. DEN W 46 14 5 11 45.5 0 1 0.0 4 6 66.7 3 8 11 11 3 0 3 0 5
+p24
+aVMark Bryant PHX 04/15/1998 PHX vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p25
+aVSteve Nash PHX 04/15/1998 PHX vs. DEN W 35 24 9 17 52.9 4 10 40.0 2 2 100.0 0 6 6 5 1 0 1 2 20
+p26
+aVDennis Scott PHX 04/15/1998 PHX vs. DEN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p27
+aVGeorge McCloud PHX 04/15/1998 PHX vs. DEN W 37 11 4 14 28.6 3 9 33.3 0 0 - 2 5 7 5 1 1 1 4 2
+p28
+aVJason Kidd PHX 04/13/1998 PHX @ GSW W 41 16 2 12 16.7 1 2 50.0 11 12 91.7 3 6 9 10 4 1 1 1 -1
+p29
+aVMark Bryant PHX 04/13/1998 PHX @ GSW W 10 2 0 0 - 0 0 - 2 2 100.0 0 2 2 1 0 0 1 3 14
+p30
+aVDennis Scott PHX 04/13/1998 PHX @ GSW W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 11
+p31
+aVAntonio McDyess PHX 04/13/1998 PHX @ GSW W 36 22 9 16 56.3 0 0 - 4 4 100.0 3 6 9 0 1 3 3 6 4
+p32
+aVHoracio Llamas PHX 04/13/1998 PHX @ GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p33
+aVSteve Nash PHX 04/13/1998 PHX @ GSW W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p34
+aVHot Rod Williams PHX 04/13/1998 PHX @ GSW W 22 2 0 1 0.0 0 0 - 2 2 100.0 0 6 6 1 0 0 0 2 2
+p35
+aVGeorge McCloud PHX 04/13/1998 PHX @ GSW W 36 23 8 13 61.5 5 7 71.4 2 2 100.0 0 4 4 1 3 0 4 3 -4
+p36
+aVClifford Robinson PHX 04/13/1998 PHX @ GSW W 37 21 8 20 40.0 0 2 0.0 5 8 62.5 2 6 8 4 1 0 2 4 4
+p37
+aVRex Chapman PHX 04/13/1998 PHX @ GSW W 17 7 3 9 33.3 1 2 50.0 0 0 - 0 1 1 3 0 0 0 0 -6
+p38
+aVKevin Johnson PHX 04/13/1998 PHX @ GSW W 27 9 3 5 60.0 0 0 - 3 3 100.0 0 2 2 4 1 0 1 1 17
+p39
+aVHoracio Llamas PHX 04/12/1998 PHX @ VAN W 8 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 0 1 2 3 3 -4
+p40
+aVHot Rod Williams PHX 04/12/1998 PHX @ VAN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 3
+p41
+aVJason Kidd PHX 04/12/1998 PHX @ VAN W 26 7 1 2 50.0 0 0 - 5 7 71.4 0 4 4 9 2 0 2 0 16
+p42
+aVAntonio McDyess PHX 04/12/1998 PHX @ VAN W 35 23 10 15 66.7 0 0 - 3 5 60.0 2 5 7 3 1 3 2 4 19
+p43
+aVRex Chapman PHX 04/12/1998 PHX @ VAN W 32 21 8 11 72.7 4 5 80.0 1 2 50.0 0 0 0 6 1 0 4 1 24
+p44
+aVKevin Johnson PHX 04/12/1998 PHX @ VAN W 13 4 2 2 100.0 0 0 - 0 0 - 0 2 2 4 0 0 1 1 8
+p45
+aVDennis Scott PHX 04/12/1998 PHX @ VAN W 26 15 7 11 63.6 1 2 50.0 0 0 - 0 5 5 4 1 0 1 1 6
+p46
+aVMarko Milic PHX 04/12/1998 PHX @ VAN W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 -2
+p47
+aVGeorge McCloud PHX 04/12/1998 PHX @ VAN W 38 25 11 15 73.3 3 5 60.0 0 0 - 1 7 8 6 2 0 1 4 13
+p48
+aVSteve Nash PHX 04/12/1998 PHX @ VAN W 22 11 4 8 50.0 3 4 75.0 0 0 - 0 3 3 4 3 0 1 0 9
+p49
+aVClifford Robinson PHX 04/12/1998 PHX @ VAN W 25 16 6 9 66.7 0 0 - 4 4 100.0 1 1 2 3 0 0 1 3 23
+p50
+aVHot Rod Williams PHX 04/10/1998 PHX @ LAL W 17 0 0 2 0.0 0 0 - 0 0 - 2 3 5 1 0 2 0 4 -1
+p51
+aVMark Bryant PHX 04/10/1998 PHX @ LAL W 16 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 1 0 0 4 12
+p52
+aVJason Kidd PHX 04/10/1998 PHX @ LAL W 30 10 5 9 55.6 0 0 - 0 0 - 1 1 2 10 1 1 1 1 2
+p53
+aVRex Chapman PHX 04/10/1998 PHX @ LAL W 41 27 10 18 55.6 4 6 66.7 3 3 100.0 2 0 2 4 1 0 3 1 13
+p54
+aVGeorge McCloud PHX 04/10/1998 PHX @ LAL W 19 3 0 3 0.0 0 0 - 3 4 75.0 0 1 1 2 0 0 0 2 -12
+p55
+aVHoracio Llamas PHX 04/10/1998 PHX @ LAL W 7 4 1 1 100.0 0 0 - 2 4 50.0 0 5 5 0 0 1 3 1 3
+p56
+aVKevin Johnson PHX 04/10/1998 PHX @ LAL W 28 15 5 7 71.4 0 1 0.0 5 6 83.3 0 4 4 8 1 0 4 3 14
+p57
+aVAntonio McDyess PHX 04/10/1998 PHX @ LAL W 45 37 15 23 65.2 0 0 - 7 11 63.6 3 9 12 3 5 2 2 4 8
+p58
+aVClifford Robinson PHX 04/10/1998 PHX @ LAL W 38 12 4 12 33.3 0 2 0.0 4 4 100.0 4 8 12 3 0 3 0 5 6
+p59
+aVJason Kidd PHX 04/07/1998 PHX @ SAC W 40 18 6 14 42.9 1 4 25.0 5 5 100.0 0 4 4 9 2 0 4 1 14
+p60
+aVDennis Scott PHX 04/07/1998 PHX @ SAC W 23 4 2 7 28.6 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -3
+p61
+aVDanny Manning PHX 04/07/1998 PHX @ SAC W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 10
+p62
+aVHot Rod Williams PHX 04/07/1998 PHX @ SAC W 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 2 0 1 -10
+p63
+aVAntonio McDyess PHX 04/07/1998 PHX @ SAC W 19 10 5 5 100.0 0 0 - 0 0 - 0 3 3 0 0 1 1 5 19
+p64
+aVKevin Johnson PHX 04/07/1998 PHX @ SAC W 23 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 5 2 0 0 0 -5
+p65
+aVRex Chapman PHX 04/07/1998 PHX @ SAC W 37 21 7 12 58.3 5 8 62.5 2 2 100.0 0 3 3 5 0 1 0 3 12
+p66
+aVClifford Robinson PHX 04/07/1998 PHX @ SAC W 38 33 12 24 50.0 1 2 50.0 8 11 72.7 1 9 10 1 2 2 2 1 10
+p67
+aVSteve Nash PHX 04/07/1998 PHX @ SAC W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -7
+p68
+aVMark Bryant PHX 04/07/1998 PHX @ SAC W 24 6 0 0 - 0 0 - 6 6 100.0 2 3 5 1 0 1 2 2 -8
+p69
+aVGeorge McCloud PHX 04/07/1998 PHX @ SAC W 16 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 0 1 2 0 -2
+p70
+aVHot Rod Williams PHX 04/06/1998 PHX @ SEA W 10 4 1 2 50.0 0 0 - 2 3 66.7 1 4 5 0 0 0 0 2 0
+p71
+aVDennis Scott PHX 04/06/1998 PHX @ SEA W 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 1 5
+p72
+aVMark Bryant PHX 04/06/1998 PHX @ SEA W 25 5 0 3 0.0 0 0 - 5 5 100.0 0 3 3 3 0 0 4 4 -1
+p73
+aVClifford Robinson PHX 04/06/1998 PHX @ SEA W 18 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 4 0 1 1 5 5
+p74
+aVKevin Johnson PHX 04/06/1998 PHX @ SEA W 30 9 2 5 40.0 1 2 50.0 4 5 80.0 0 3 3 5 0 0 2 3 6
+p75
+aVGeorge McCloud PHX 04/06/1998 PHX @ SEA W 15 10 3 4 75.0 2 3 66.7 2 2 100.0 1 3 4 0 0 0 1 2 0
+p76
+aVAntonio McDyess PHX 04/06/1998 PHX @ SEA W 28 13 5 6 83.3 0 0 - 3 5 60.0 2 5 7 1 1 2 1 4 12
+p77
+aVDanny Manning PHX 04/06/1998 PHX @ SEA W 29 23 9 12 75.0 0 0 - 5 6 83.3 2 5 7 3 0 0 4 2 12
+p78
+aVJason Kidd PHX 04/06/1998 PHX @ SEA W 37 12 5 12 41.7 1 5 20.0 1 2 50.0 0 5 5 9 2 0 2 2 4
+p79
+aVRex Chapman PHX 04/06/1998 PHX @ SEA W 34 15 6 15 40.0 2 9 22.2 1 4 25.0 1 2 3 2 0 1 2 2 7
+p80
+aVMark Bryant PHX 04/04/1998 PHX vs. POR W 22 7 1 5 20.0 0 0 - 5 6 83.3 2 3 5 0 0 0 3 3 1
+p81
+aVJason Kidd PHX 04/04/1998 PHX vs. POR W 40 11 4 7 57.1 1 2 50.0 2 2 100.0 0 1 1 7 0 0 4 2 6
+p82
+aVRex Chapman PHX 04/04/1998 PHX vs. POR W 31 12 6 13 46.2 0 1 0.0 0 0 - 0 1 1 4 1 0 1 0 2
+p83
+aVAntonio McDyess PHX 04/04/1998 PHX vs. POR W 39 23 10 17 58.8 0 1 0.0 3 5 60.0 5 8 13 0 5 6 1 4 3
+p84
+aVClifford Robinson PHX 04/04/1998 PHX vs. POR W 26 8 3 9 33.3 0 1 0.0 2 2 100.0 2 2 4 1 1 1 1 5 -4
+p85
+aVDennis Scott PHX 04/04/1998 PHX vs. POR W 19 7 2 4 50.0 2 3 66.7 1 2 50.0 0 2 2 0 0 3 0 2 14
+p86
+aVKevin Johnson PHX 04/04/1998 PHX vs. POR W 31 11 3 11 27.3 0 0 - 5 6 83.3 2 4 6 9 1 1 2 1 10
+p87
+aVDanny Manning PHX 04/04/1998 PHX vs. POR W 32 11 4 10 40.0 0 1 0.0 3 4 75.0 2 8 10 1 2 0 2 3 3
+p88
+aVSteve Nash PHX 03/31/1998 PHX @ HOU W 24 7 3 8 37.5 0 1 0.0 1 1 100.0 0 2 2 2 0 0 0 2 3
+p89
+aVHot Rod Williams PHX 03/31/1998 PHX @ HOU W 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p90
+aVMarko Milic PHX 03/31/1998 PHX @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p91
+aVJason Kidd PHX 03/31/1998 PHX @ HOU W 42 21 8 17 47.1 4 5 80.0 1 1 100.0 0 7 7 6 3 0 2 1 9
+p92
+aVKevin Johnson PHX 03/31/1998 PHX @ HOU W 31 7 2 9 22.2 0 0 - 3 4 75.0 2 2 4 5 0 0 1 2 7
+p93
+aVDanny Manning PHX 03/31/1998 PHX @ HOU W 33 8 4 7 57.1 0 0 - 0 1 0.0 2 0 2 6 1 0 0 2 3
+p94
+aVClifford Robinson PHX 03/31/1998 PHX @ HOU W 31 20 7 17 41.2 2 4 50.0 4 5 80.0 1 4 5 0 2 2 2 5 11
+p95
+aVMark Bryant PHX 03/31/1998 PHX @ HOU W 14 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 1 0 2 5 9
+p96
+aVDennis Scott PHX 03/31/1998 PHX @ HOU W 17 6 3 7 42.9 0 2 0.0 0 0 - 1 2 3 1 0 1 0 0 7
+p97
+aVAntonio McDyess PHX 03/31/1998 PHX @ HOU W 34 22 10 14 71.4 0 0 - 2 2 100.0 5 7 12 3 1 3 4 3 10
+p98
+aVJason Kidd PHX 03/29/1998 PHX vs. VAN W 36 7 2 6 33.3 1 3 33.3 2 4 50.0 0 3 3 5 0 0 3 1 3
+p99
+aVClifford Robinson PHX 03/29/1998 PHX vs. VAN W 42 20 7 12 58.3 0 0 - 6 9 66.7 3 7 10 4 3 3 1 3 9
+p100
+aVAntonio McDyess PHX 03/29/1998 PHX vs. VAN W 23 18 8 9 88.9 0 0 - 2 2 100.0 0 5 5 0 1 5 3 5 3
+p101
+aVDanny Manning PHX 03/29/1998 PHX vs. VAN W 34 13 5 9 55.6 0 0 - 3 3 100.0 0 1 1 4 5 4 2 3 1
+p102
+aVMark Bryant PHX 03/29/1998 PHX vs. VAN W 19 9 4 5 80.0 0 0 - 1 2 50.0 1 2 3 0 3 1 1 4 5
+p103
+aVSteve Nash PHX 03/29/1998 PHX vs. VAN W 31 15 5 15 33.3 2 11 18.2 3 3 100.0 0 0 0 8 0 0 1 2 5
+p104
+aVKevin Johnson PHX 03/29/1998 PHX vs. VAN W 29 15 4 8 50.0 0 0 - 7 7 100.0 3 4 7 11 2 0 2 1 8
+p105
+aVDennis Scott PHX 03/29/1998 PHX vs. VAN W 25 9 4 8 50.0 1 4 25.0 0 0 - 0 1 1 0 1 1 0 1 6
+p106
+aVDanny Manning PHX 03/27/1998 PHX vs. WAS W 27 18 7 12 58.3 0 0 - 4 5 80.0 0 7 7 0 0 0 3 4 9
+p107
+aVDennis Scott PHX 03/27/1998 PHX vs. WAS W 32 6 2 9 22.2 2 5 40.0 0 0 - 1 0 1 2 0 0 0 2 12
+p108
+aVClifford Robinson PHX 03/27/1998 PHX vs. WAS W 34 11 5 10 50.0 1 2 50.0 0 0 - 3 8 11 4 1 2 4 3 2
+p109
+aVAntonio McDyess PHX 03/27/1998 PHX vs. WAS W 27 14 6 9 66.7 0 0 - 2 2 100.0 1 4 5 1 1 1 1 5 -1
+p110
+aVHot Rod Williams PHX 03/27/1998 PHX vs. WAS W 24 2 1 1 100.0 0 0 - 0 0 - 3 7 10 0 0 0 0 1 -10
+p111
+aVKevin Johnson PHX 03/27/1998 PHX vs. WAS W 35 17 8 13 61.5 0 0 - 1 2 50.0 2 5 7 13 0 0 4 0 12
+p112
+aVSteve Nash PHX 03/27/1998 PHX vs. WAS W 24 8 3 8 37.5 1 4 25.0 1 1 100.0 1 0 1 2 0 0 6 1 -8
+p113
+aVJason Kidd PHX 03/27/1998 PHX vs. WAS W 37 13 5 14 35.7 1 4 25.0 2 2 100.0 0 8 8 5 1 0 2 1 4
+p114
+aVMark Bryant PHX 03/25/1998 PHX vs. MIN L 10 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 3
+p115
+aVKevin Johnson PHX 03/25/1998 PHX vs. MIN L 29 5 2 10 20.0 0 2 0.0 1 1 100.0 0 4 4 7 0 0 3 1 3
+p116
+aVHot Rod Williams PHX 03/25/1998 PHX vs. MIN L 16 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 2 2 1 0
+p117
+aVSteve Nash PHX 03/25/1998 PHX vs. MIN L 30 7 3 9 33.3 1 5 20.0 0 0 - 0 2 2 4 0 0 1 1 -5
+p118
+aVClifford Robinson PHX 03/25/1998 PHX vs. MIN L 22 17 6 12 50.0 1 1 100.0 4 4 100.0 0 5 5 1 0 1 2 2 -1
+p119
+aVGeorge McCloud PHX 03/25/1998 PHX vs. MIN L 6 6 2 2 100.0 1 1 100.0 1 1 100.0 1 2 3 1 0 1 1 1 5
+p120
+aVAntonio McDyess PHX 03/25/1998 PHX vs. MIN L 32 12 4 11 36.4 0 0 - 4 4 100.0 2 3 5 0 1 1 1 3 -11
+p121
+aVDennis Scott PHX 03/25/1998 PHX vs. MIN L 23 16 6 11 54.5 3 6 50.0 1 2 50.0 0 0 0 1 0 0 0 1 1
+p122
+aVJason Kidd PHX 03/25/1998 PHX vs. MIN L 36 11 4 8 50.0 1 2 50.0 2 2 100.0 2 4 6 7 2 1 3 2 -2
+p123
+aVDanny Manning PHX 03/25/1998 PHX vs. MIN L 34 18 8 16 50.0 0 0 - 2 2 100.0 5 7 12 4 1 0 1 4 -3
+p124
+aVClifford Robinson PHX 03/24/1998 PHX @ UTA L 25 2 0 6 0.0 0 0 - 2 2 100.0 0 3 3 0 1 1 0 0 -26
+p125
+aVDennis Scott PHX 03/24/1998 PHX @ UTA L 22 15 6 10 60.0 3 4 75.0 0 0 - 1 0 1 0 0 0 1 0 0
+p126
+aVSteve Nash PHX 03/24/1998 PHX @ UTA L 12 5 2 7 28.6 1 3 33.3 0 0 - 1 1 2 2 1 0 0 1 2
+p127
+aVMarko Milic PHX 03/24/1998 PHX @ UTA L 11 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 1 1 0 1 1 5
+p128
+aVGeorge McCloud PHX 03/24/1998 PHX @ UTA L 16 5 2 4 50.0 0 2 0.0 1 2 50.0 1 1 2 1 1 0 1 1 5
+p129
+aVRex Chapman PHX 03/24/1998 PHX @ UTA L 12 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 1 0 -13
+p130
+aVMark Bryant PHX 03/24/1998 PHX @ UTA L 21 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 1 0 3 9
+p131
+aVAntonio McDyess PHX 03/24/1998 PHX @ UTA L 24 9 4 10 40.0 0 0 - 1 2 50.0 0 6 6 0 1 0 1 2 -14
+p132
+aVKevin Johnson PHX 03/24/1998 PHX @ UTA L 25 6 3 8 37.5 0 1 0.0 0 0 - 1 1 2 4 0 0 0 2 -9
+p133
+aVHot Rod Williams PHX 03/24/1998 PHX @ UTA L 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -22
+p134
+aVDanny Manning PHX 03/24/1998 PHX @ UTA L 27 14 7 15 46.7 0 1 0.0 0 0 - 2 4 6 3 2 0 1 3 -10
+p135
+aVJason Kidd PHX 03/24/1998 PHX @ UTA L 31 7 3 8 37.5 1 2 50.0 0 0 - 0 1 1 5 1 0 1 1 -22
+p136
+aVJason Kidd PHX 03/22/1998 PHX @ SAS L 43 12 5 10 50.0 0 2 0.0 2 4 50.0 1 8 9 5 0 1 3 3 -5
+p137
+aVClifford Robinson PHX 03/22/1998 PHX @ SAS L 27 10 4 11 36.4 2 5 40.0 0 0 - 0 0 0 1 0 0 1 5 -9
+p138
+aVHot Rod Williams PHX 03/22/1998 PHX @ SAS L 27 0 0 3 0.0 0 0 - 0 2 0.0 1 2 3 1 1 1 1 1 -8
+p139
+aVAntonio McDyess PHX 03/22/1998 PHX @ SAS L 30 14 4 10 40.0 0 0 - 6 8 75.0 0 10 10 2 0 0 0 2 -15
+p140
+aVSteve Nash PHX 03/22/1998 PHX @ SAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p141
+aVRex Chapman PHX 03/22/1998 PHX @ SAS L 37 30 11 21 52.4 3 7 42.9 5 5 100.0 0 7 7 2 2 0 2 1 -10
+p142
+aVKevin Johnson PHX 03/22/1998 PHX @ SAS L 12 3 1 1 100.0 0 0 - 1 1 100.0 2 0 2 2 0 0 0 1 -3
+p143
+aVMark Bryant PHX 03/22/1998 PHX @ SAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p144
+aVDennis Scott PHX 03/22/1998 PHX @ SAS L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p145
+aVGeorge McCloud PHX 03/22/1998 PHX @ SAS L 17 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 0 1 0 1 3 4
+p146
+aVDanny Manning PHX 03/22/1998 PHX @ SAS L 21 10 4 11 36.4 0 0 - 2 3 66.7 3 4 7 1 3 1 2 0 -2
+p147
+aVAntonio McDyess PHX 03/21/1998 PHX vs. SEA W 25 10 5 7 71.4 0 0 - 0 0 - 2 6 8 2 0 2 1 4 8
+p148
+aVHot Rod Williams PHX 03/21/1998 PHX vs. SEA W 24 9 4 4 100.0 0 0 - 1 2 50.0 4 5 9 0 1 2 0 4 12
+p149
+aVMark Bryant PHX 03/21/1998 PHX vs. SEA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p150
+aVSteve Nash PHX 03/21/1998 PHX vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p151
+aVDanny Manning PHX 03/21/1998 PHX vs. SEA W 32 25 10 16 62.5 0 0 - 5 7 71.4 4 3 7 0 0 0 3 4 -8
+p152
+aVClifford Robinson PHX 03/21/1998 PHX vs. SEA W 41 29 11 18 61.1 2 2 100.0 5 5 100.0 0 5 5 6 1 2 1 4 8
+p153
+aVJason Kidd PHX 03/21/1998 PHX vs. SEA W 35 6 2 7 28.6 0 2 0.0 2 2 100.0 1 1 2 14 1 0 0 3 6
+p154
+aVKevin Johnson PHX 03/21/1998 PHX vs. SEA W 18 0 0 5 0.0 0 0 - 0 0 - 1 0 1 3 0 0 4 0 -7
+p155
+aVGeorge McCloud PHX 03/21/1998 PHX vs. SEA W 15 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 -2
+p156
+aVRex Chapman PHX 03/21/1998 PHX vs. SEA W 43 28 10 15 66.7 6 8 75.0 2 2 100.0 1 4 5 3 0 0 3 3 15
+p157
+aVGeorge McCloud PHX 03/18/1998 PHX @ LAL L 19 5 2 6 33.3 1 2 50.0 0 0 - 2 1 3 2 2 0 0 0 -11
+p158
+aVRex Chapman PHX 03/18/1998 PHX @ LAL L 31 14 4 15 26.7 3 7 42.9 3 6 50.0 0 3 3 0 3 0 1 3 5
+p159
+aVHot Rod Williams PHX 03/18/1998 PHX @ LAL L 21 4 2 4 50.0 0 0 - 0 0 - 3 6 9 2 1 2 1 3 -5
+p160
+aVJason Kidd PHX 03/18/1998 PHX @ LAL L 44 11 4 18 22.2 2 6 33.3 1 1 100.0 3 6 9 12 0 0 2 2 -7
+p161
+aVClifford Robinson PHX 03/18/1998 PHX @ LAL L 32 18 6 11 54.5 0 1 0.0 6 8 75.0 2 2 4 2 0 2 0 4 0
+p162
+aVSteve Nash PHX 03/18/1998 PHX @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p163
+aVDanny Manning PHX 03/18/1998 PHX @ LAL L 18 4 1 6 16.7 0 1 0.0 2 2 100.0 1 2 3 1 2 0 1 4 -5
+p164
+aVDennis Scott PHX 03/18/1998 PHX @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p165
+aVAntonio McDyess PHX 03/18/1998 PHX @ LAL L 35 20 9 18 50.0 0 0 - 2 2 100.0 2 5 7 1 1 2 1 3 -3
+p166
+aVKevin Johnson PHX 03/18/1998 PHX @ LAL L 21 9 3 7 42.9 0 0 - 3 3 100.0 0 1 1 1 0 0 4 2 -10
+p167
+aVMark Bryant PHX 03/18/1998 PHX @ LAL L 17 8 3 4 75.0 0 0 - 2 2 100.0 2 2 4 1 1 0 0 3 8
+p168
+aVAntonio McDyess PHX 03/17/1998 PHX vs. SAC W 32 19 7 9 77.8 0 0 - 5 5 100.0 2 5 7 1 1 0 3 2 8
+p169
+aVKevin Johnson PHX 03/17/1998 PHX vs. SAC W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 3 0 1 0 1 15
+p170
+aVJason Kidd PHX 03/17/1998 PHX vs. SAC W 29 10 5 10 50.0 0 0 - 0 0 - 0 2 2 11 2 0 3 1 9
+p171
+aVSteve Nash PHX 03/17/1998 PHX vs. SAC W 21 14 7 10 70.0 0 1 0.0 0 0 - 0 2 2 2 4 0 1 2 20
+p172
+aVDennis Scott PHX 03/17/1998 PHX vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p173
+aVGeorge McCloud PHX 03/17/1998 PHX vs. SAC W 18 6 3 7 42.9 0 2 0.0 0 0 - 1 4 5 2 2 0 1 3 23
+p174
+aVRex Chapman PHX 03/17/1998 PHX vs. SAC W 27 17 6 11 54.5 3 4 75.0 2 2 100.0 0 3 3 3 1 0 2 0 7
+p175
+aVHot Rod Williams PHX 03/17/1998 PHX vs. SAC W 21 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 1 0 2 1 5
+p176
+aVClifford Robinson PHX 03/17/1998 PHX vs. SAC W 30 18 8 14 57.1 0 0 - 2 2 100.0 0 3 3 5 1 3 2 3 6
+p177
+aVMarko Milic PHX 03/17/1998 PHX vs. SAC W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 2 0 11
+p178
+aVMark Bryant PHX 03/17/1998 PHX vs. SAC W 15 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 2 0 0 1 9
+p179
+aVDanny Manning PHX 03/17/1998 PHX vs. SAC W 21 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 5 1 2 1 2 19
+p180
+aVClifford Robinson PHX 03/15/1998 PHX vs. DAL W 19 10 5 9 55.6 0 1 0.0 0 0 - 1 3 4 1 2 2 2 0 5
+p181
+aVDanny Manning PHX 03/15/1998 PHX vs. DAL W 27 17 8 12 66.7 0 0 - 1 2 50.0 1 5 6 2 1 0 2 5 15
+p182
+aVHot Rod Williams PHX 03/15/1998 PHX vs. DAL W 19 8 2 5 40.0 0 0 - 4 5 80.0 2 2 4 0 0 1 0 4 5
+p183
+aVJason Kidd PHX 03/15/1998 PHX vs. DAL W 44 20 9 16 56.3 1 4 25.0 1 2 50.0 3 10 13 12 5 2 4 2 3
+p184
+aVDennis Scott PHX 03/15/1998 PHX vs. DAL W 10 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 3
+p185
+aVAntonio McDyess PHX 03/15/1998 PHX vs. DAL W 40 17 7 16 43.8 0 0 - 3 5 60.0 6 3 9 1 0 1 1 2 2
+p186
+aVGeorge McCloud PHX 03/15/1998 PHX vs. DAL W 21 5 2 6 33.3 1 5 20.0 0 0 - 1 5 6 2 3 0 1 2 -3
+p187
+aVRex Chapman PHX 03/15/1998 PHX vs. DAL W 39 14 5 15 33.3 2 3 66.7 2 2 100.0 0 3 3 2 2 0 2 1 13
+p188
+aVKevin Johnson PHX 03/15/1998 PHX vs. DAL W 23 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 8 1 1 2 0 7
+p189
+aVClifford Robinson PHX 03/13/1998 PHX vs. GSW W 30 22 10 18 55.6 1 1 100.0 1 3 33.3 1 4 5 4 1 2 0 2 14
+p190
+aVSteve Nash PHX 03/13/1998 PHX vs. GSW W 20 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 0 0 0 1 13
+p191
+aVKevin Johnson PHX 03/13/1998 PHX vs. GSW W 23 10 3 6 50.0 0 1 0.0 4 4 100.0 0 0 0 5 0 0 1 0 19
+p192
+aVGeorge McCloud PHX 03/13/1998 PHX vs. GSW W 25 6 2 9 22.2 1 4 25.0 1 2 50.0 1 2 3 4 1 0 2 1 13
+p193
+aVDennis Scott PHX 03/13/1998 PHX vs. GSW W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p194
+aVJason Kidd PHX 03/13/1998 PHX vs. GSW W 32 15 7 10 70.0 1 1 100.0 0 0 - 2 2 4 9 1 2 3 2 13
+p195
+aVRex Chapman PHX 03/13/1998 PHX vs. GSW W 25 4 2 8 25.0 0 0 - 0 0 - 0 4 4 3 2 0 0 0 -2
+p196
+aVAntonio McDyess PHX 03/13/1998 PHX vs. GSW W 29 20 8 15 53.3 0 0 - 4 4 100.0 3 4 7 1 3 1 0 4 9
+p197
+aVDanny Manning PHX 03/13/1998 PHX vs. GSW W 25 15 5 11 45.5 0 0 - 5 5 100.0 0 7 7 4 1 1 0 3 22
+p198
+aVMarko Milic PHX 03/13/1998 PHX vs. GSW W 5 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 1 0 1 1 3
+p199
+aVHot Rod Williams PHX 03/13/1998 PHX vs. GSW W 23 2 1 4 25.0 0 0 - 0 0 - 2 5 7 2 0 2 0 2 11
+p200
+aVMark Bryant PHX 03/10/1998 PHX @ DEN W 13 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 0 1 1 1 8
+p201
+aVMarko Milic PHX 03/10/1998 PHX @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p202
+aVHot Rod Williams PHX 03/10/1998 PHX @ DEN W 18 13 2 2 100.0 0 0 - 9 10 90.0 0 0 0 1 0 0 0 0 11
+p203
+aVClifford Robinson PHX 03/10/1998 PHX @ DEN W 28 13 6 14 42.9 1 2 50.0 0 0 - 3 3 6 4 1 0 5 3 14
+p204
+aVDennis Scott PHX 03/10/1998 PHX @ DEN W 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 1 1 0 1 4
+p205
+aVGeorge McCloud PHX 03/10/1998 PHX @ DEN W 18 8 2 5 40.0 1 3 33.3 3 4 75.0 0 3 3 0 2 0 0 4 9
+p206
+aVJason Kidd PHX 03/10/1998 PHX @ DEN W 38 17 7 11 63.6 1 1 100.0 2 3 66.7 0 5 5 6 5 0 3 1 17
+p207
+aVAntonio McDyess PHX 03/10/1998 PHX @ DEN W 34 18 8 12 66.7 0 0 - 2 2 100.0 2 6 8 2 1 2 2 5 14
+p208
+aVSteve Nash PHX 03/10/1998 PHX @ DEN W 29 10 4 9 44.4 1 3 33.3 1 1 100.0 2 1 3 4 0 1 2 2 16
+p209
+aVKevin Johnson PHX 03/10/1998 PHX @ DEN W 26 9 4 8 50.0 0 0 - 1 1 100.0 0 2 2 4 0 0 2 2 17
+p210
+aVDanny Manning PHX 03/10/1998 PHX @ DEN W 24 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 5 5 0 1 2 10
+p211
+aVHot Rod Williams PHX 03/09/1998 PHX vs. LAC W 22 16 6 6 100.0 0 0 - 4 5 80.0 2 3 5 1 2 0 1 1 28
+p212
+aVDennis Scott PHX 03/09/1998 PHX vs. LAC W 23 11 4 9 44.4 3 7 42.9 0 0 - 0 2 2 1 0 0 0 4 18
+p213
+aVGeorge McCloud PHX 03/09/1998 PHX vs. LAC W 28 21 7 9 77.8 5 7 71.4 2 2 100.0 0 3 3 3 4 0 0 3 5
+p214
+aVJason Kidd PHX 03/09/1998 PHX vs. LAC W 28 12 5 8 62.5 1 1 100.0 1 2 50.0 3 1 4 13 1 1 0 0 33
+p215
+aVKevin Johnson PHX 03/09/1998 PHX vs. LAC W 25 19 5 7 71.4 0 0 - 9 9 100.0 0 3 3 4 1 0 4 0 18
+p216
+aVMark Bryant PHX 03/09/1998 PHX vs. LAC W 26 10 4 9 44.4 0 0 - 2 2 100.0 2 7 9 1 1 0 2 3 1
+p217
+aVSteve Nash PHX 03/09/1998 PHX vs. LAC W 26 14 6 11 54.5 2 6 33.3 0 0 - 2 1 3 8 1 0 1 1 15
+p218
+aVMarko Milic PHX 03/09/1998 PHX vs. LAC W 13 13 6 9 66.7 1 2 50.0 0 1 0.0 0 1 1 0 1 0 2 2 -2
+p219
+aVClifford Robinson PHX 03/09/1998 PHX vs. LAC W 22 8 3 9 33.3 0 1 0.0 2 3 66.7 0 2 2 5 1 1 1 0 21
+p220
+aVDanny Manning PHX 03/09/1998 PHX vs. LAC W 26 10 5 9 55.6 0 1 0.0 0 0 - 2 3 5 4 1 0 1 1 8
+p221
+aVKevin Johnson PHX 03/07/1998 PHX vs. HOU L 40 19 5 15 33.3 0 0 - 9 10 90.0 0 4 4 10 0 0 1 0 -19
+p222
+aVJason Kidd PHX 03/07/1998 PHX vs. HOU L 39 18 7 15 46.7 2 6 33.3 2 2 100.0 1 3 4 7 0 0 2 2 -16
+p223
+aVDennis Scott PHX 03/07/1998 PHX vs. HOU L 15 5 2 5 40.0 0 3 0.0 1 2 50.0 0 1 1 0 0 0 1 1 -9
+p224
+aVAntonio McDyess PHX 03/07/1998 PHX vs. HOU L 27 13 6 12 50.0 0 0 - 1 2 50.0 1 5 6 2 1 0 2 5 -10
+p225
+aVMarko Milic PHX 03/07/1998 PHX vs. HOU L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p226
+aVGeorge McCloud PHX 03/07/1998 PHX vs. HOU L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p227
+aVDanny Manning PHX 03/07/1998 PHX vs. HOU L 20 7 2 5 40.0 0 0 - 3 6 50.0 0 4 4 0 0 2 2 0 -10
+p228
+aVHot Rod Williams PHX 03/07/1998 PHX vs. HOU L 22 1 0 4 0.0 0 0 - 1 2 50.0 5 7 12 0 1 0 0 1 -5
+p229
+aVMark Bryant PHX 03/07/1998 PHX vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p230
+aVSteve Nash PHX 03/07/1998 PHX vs. HOU L 33 11 5 11 45.5 1 2 50.0 0 0 - 0 4 4 2 1 0 1 2 -10
+p231
+aVClifford Robinson PHX 03/07/1998 PHX vs. HOU L 33 11 3 11 27.3 0 1 0.0 5 7 71.4 5 5 10 1 1 3 2 3 -15
+p232
+aVJason Kidd PHX 03/05/1998 PHX vs. DET W 38 3 1 6 16.7 1 4 25.0 0 0 - 0 3 3 12 1 0 6 1 7
+p233
+aVMark Bryant PHX 03/05/1998 PHX vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p234
+aVDanny Manning PHX 03/05/1998 PHX vs. DET W 22 11 4 8 50.0 0 0 - 3 3 100.0 1 9 10 3 1 0 1 4 12
+p235
+aVGeorge McCloud PHX 03/05/1998 PHX vs. DET W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -11
+p236
+aVHot Rod Williams PHX 03/05/1998 PHX vs. DET W 31 11 3 5 60.0 0 0 - 5 5 100.0 3 5 8 0 0 4 0 2 2
+p237
+aVMarko Milic PHX 03/05/1998 PHX vs. DET W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p238
+aVClifford Robinson PHX 03/05/1998 PHX vs. DET W 37 22 8 14 57.1 1 2 50.0 5 6 83.3 1 4 5 2 1 0 3 4 -4
+p239
+aVKevin Johnson PHX 03/05/1998 PHX vs. DET W 36 19 8 13 61.5 0 0 - 3 3 100.0 0 0 0 10 1 0 0 2 13
+p240
+aVSteve Nash PHX 03/05/1998 PHX vs. DET W 16 8 3 6 50.0 1 2 50.0 1 2 50.0 1 0 1 1 0 0 3 2 9
+p241
+aVAntonio McDyess PHX 03/05/1998 PHX vs. DET W 31 20 9 13 69.2 0 0 - 2 2 100.0 3 7 10 3 0 2 2 3 5
+p242
+aVDennis Scott PHX 03/05/1998 PHX vs. DET W 16 7 3 8 37.5 1 2 50.0 0 0 - 1 3 4 1 0 0 1 2 13
+p243
+aVHot Rod Williams PHX 03/03/1998 PHX @ POR L 24 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 0 1 1 0 2 -5
+p244
+aVSteve Nash PHX 03/03/1998 PHX @ POR L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 3 -9
+p245
+aVClifford Robinson PHX 03/03/1998 PHX @ POR L 31 11 3 12 25.0 0 1 0.0 5 5 100.0 3 5 8 2 0 3 2 3 2
+p246
+aVAntonio McDyess PHX 03/03/1998 PHX @ POR L 19 11 3 8 37.5 0 0 - 5 6 83.3 2 2 4 0 1 1 3 5 -5
+p247
+aVDanny Manning PHX 03/03/1998 PHX @ POR L 23 15 6 8 75.0 0 0 - 3 5 60.0 0 2 2 1 2 0 3 3 2
+p248
+aVDennis Scott PHX 03/03/1998 PHX @ POR L 33 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 2 3 0 1 1 -2
+p249
+aVKevin Johnson PHX 03/03/1998 PHX @ POR L 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -6
+p250
+aVRex Chapman PHX 03/03/1998 PHX @ POR L 36 14 5 15 33.3 1 4 25.0 3 3 100.0 1 3 4 3 1 0 2 3 3
+p251
+aVJason Kidd PHX 03/03/1998 PHX @ POR L 38 23 9 18 50.0 4 6 66.7 1 1 100.0 2 9 11 8 1 0 3 2 -1
+p252
+aVMark Bryant PHX 03/03/1998 PHX @ POR L 12 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -4
+p253
+aVGeorge McCloud PHX 03/01/1998 PHX @ SEA L 23 11 4 11 36.4 3 8 37.5 0 0 - 4 7 11 1 1 0 1 3 -2
+p254
+aVJason Kidd PHX 03/01/1998 PHX @ SEA L 45 5 2 13 15.4 0 4 0.0 1 2 50.0 3 5 8 13 1 0 7 3 1
+p255
+aVMark Bryant PHX 03/01/1998 PHX @ SEA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -12
+p256
+aVSteve Nash PHX 03/01/1998 PHX @ SEA L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p257
+aVHot Rod Williams PHX 03/01/1998 PHX @ SEA L 29 5 2 3 66.7 0 0 - 1 2 50.0 6 7 13 1 0 2 1 3 0
+p258
+aVDanny Manning PHX 03/01/1998 PHX @ SEA L 18 8 4 7 57.1 0 0 - 0 0 - 1 4 5 0 2 1 1 2 -6
+p259
+aVAntonio McDyess PHX 03/01/1998 PHX @ SEA L 36 24 9 17 52.9 0 0 - 6 9 66.7 5 6 11 1 2 2 1 5 6
+p260
+aVRex Chapman PHX 03/01/1998 PHX @ SEA L 36 13 5 19 26.3 2 8 25.0 1 1 100.0 1 2 3 3 0 0 1 1 -6
+p261
+aVKevin Johnson PHX 03/01/1998 PHX @ SEA L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 0 0 4
+p262
+aVDennis Scott PHX 03/01/1998 PHX @ SEA L 32 19 7 13 53.8 4 6 66.7 1 2 50.0 1 4 5 0 1 0 4 0 8
+p263
+aVDennis Scott PHX 02/27/1998 PHX @ LAC W 19 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 11
+p264
+aVClifford Robinson PHX 02/27/1998 PHX @ LAC W 25 8 4 5 80.0 0 0 - 0 0 - 0 4 4 4 1 0 2 0 -6
+p265
+aVHot Rod Williams PHX 02/27/1998 PHX @ LAC W 26 9 3 3 100.0 0 0 - 3 4 75.0 1 2 3 1 2 0 1 2 -1
+p266
+aVMark Bryant PHX 02/27/1998 PHX @ LAC W 21 11 4 6 66.7 0 0 - 3 6 50.0 1 4 5 0 0 1 1 3 4
+p267
+aVJason Kidd PHX 02/27/1998 PHX @ LAC W 39 15 6 8 75.0 1 2 50.0 2 2 100.0 1 7 8 12 2 1 6 1 5
+p268
+aVRex Chapman PHX 02/27/1998 PHX @ LAC W 34 9 3 13 23.1 1 4 25.0 2 2 100.0 1 1 2 4 0 0 2 2 1
+p269
+aVAntonio McDyess PHX 02/27/1998 PHX @ LAC W 31 22 9 16 56.3 0 0 - 4 4 100.0 3 5 8 0 1 0 1 2 17
+p270
+aVDanny Manning PHX 02/27/1998 PHX @ LAC W 21 9 4 8 50.0 0 0 - 1 3 33.3 2 2 4 0 1 1 4 2 -12
+p271
+aVSteve Nash PHX 02/27/1998 PHX @ LAC W 24 13 4 9 44.4 3 5 60.0 2 2 100.0 1 7 8 4 0 0 1 2 6
+p272
+aVMarko Milic PHX 02/26/1998 PHX @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p273
+aVClifford Robinson PHX 02/26/1998 PHX @ UTA L 30 10 4 12 33.3 0 1 0.0 2 2 100.0 1 4 5 1 1 3 0 3 5
+p274
+aVRex Chapman PHX 02/26/1998 PHX @ UTA L 34 16 5 12 41.7 1 3 33.3 5 6 83.3 0 1 1 2 2 0 3 2 0
+p275
+aVSteve Nash PHX 02/26/1998 PHX @ UTA L 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 5
+p276
+aVMark Bryant PHX 02/26/1998 PHX @ UTA L 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -8
+p277
+aVDanny Manning PHX 02/26/1998 PHX @ UTA L 25 11 4 10 40.0 0 0 - 3 3 100.0 4 1 5 0 0 0 2 4 -20
+p278
+aVAntonio McDyess PHX 02/26/1998 PHX @ UTA L 15 9 4 8 50.0 0 0 - 1 2 50.0 1 6 7 1 0 0 1 2 -4
+p279
+aVKevin Johnson PHX 02/26/1998 PHX @ UTA L 20 3 0 9 0.0 0 2 0.0 3 4 75.0 3 0 3 2 0 0 1 0 -17
+p280
+aVJason Kidd PHX 02/26/1998 PHX @ UTA L 41 23 10 14 71.4 2 3 66.7 1 1 100.0 0 2 2 6 2 0 2 3 -19
+p281
+aVHot Rod Williams PHX 02/26/1998 PHX @ UTA L 30 2 0 3 0.0 0 0 - 2 4 50.0 3 6 9 0 2 3 0 5 -1
+p282
+aVDennis Scott PHX 02/26/1998 PHX @ UTA L 25 18 6 14 42.9 6 10 60.0 0 0 - 1 3 4 0 1 0 1 1 1
+p283
+aVMark Bryant PHX 02/24/1998 PHX vs. PHI L 27 2 0 4 0.0 0 0 - 2 2 100.0 4 8 12 0 1 0 3 4 -15
+p284
+aVKevin Johnson PHX 02/24/1998 PHX vs. PHI L 24 8 3 5 60.0 0 0 - 2 2 100.0 0 4 4 2 0 0 3 2 4
+p285
+aVClifford Robinson PHX 02/24/1998 PHX vs. PHI L 42 21 8 19 42.1 0 3 0.0 5 8 62.5 3 1 4 3 1 1 3 3 6
+p286
+aVGeorge McCloud PHX 02/24/1998 PHX vs. PHI L 11 3 1 1 100.0 1 1 100.0 0 0 - 1 3 4 2 1 0 1 2 11
+p287
+aVDennis Scott PHX 02/24/1998 PHX vs. PHI L 12 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 -5
+p288
+aVJason Kidd PHX 02/24/1998 PHX vs. PHI L 31 6 2 7 28.6 0 2 0.0 2 2 100.0 1 3 4 10 0 1 4 0 -6
+p289
+aVDanny Manning PHX 02/24/1998 PHX vs. PHI L 28 15 4 9 44.4 0 0 - 7 8 87.5 1 4 5 1 0 2 2 3 -5
+p290
+aVSteve Nash PHX 02/24/1998 PHX vs. PHI L 17 8 4 6 66.7 0 1 0.0 0 0 - 0 2 2 4 2 0 0 2 5
+p291
+aVAntonio McDyess PHX 02/24/1998 PHX vs. PHI L 22 11 5 9 55.6 0 0 - 1 2 50.0 1 2 3 0 2 1 3 5 3
+p292
+aVRex Chapman PHX 02/24/1998 PHX vs. PHI L 25 8 3 7 42.9 2 4 50.0 0 1 0.0 0 2 2 4 1 0 4 0 -3
+p293
+aVDanny Manning PHX 02/22/1998 PHX vs. SAS W 29 17 8 13 61.5 0 0 - 1 4 25.0 0 6 6 6 1 1 1 1 31
+p294
+aVJason Kidd PHX 02/22/1998 PHX vs. SAS W 37 10 4 10 40.0 0 2 0.0 2 2 100.0 1 8 9 11 1 0 1 1 10
+p295
+aVMark Bryant PHX 02/22/1998 PHX vs. SAS W 17 10 5 6 83.3 0 0 - 0 0 - 1 0 1 0 1 0 1 2 -8
+p296
+aVClifford Robinson PHX 02/22/1998 PHX vs. SAS W 36 15 6 12 50.0 1 3 33.3 2 2 100.0 1 3 4 1 5 1 1 3 6
+p297
+aVAntonio McDyess PHX 02/22/1998 PHX vs. SAS W 32 14 6 13 46.2 0 0 - 2 2 100.0 2 5 7 1 0 2 4 4 -3
+p298
+aVGeorge McCloud PHX 02/22/1998 PHX vs. SAS W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 4
+p299
+aVDennis Scott PHX 02/22/1998 PHX vs. SAS W 16 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 2 0 0 1 1 21
+p300
+aVKevin Johnson PHX 02/22/1998 PHX vs. SAS W 24 9 4 8 50.0 0 0 - 1 2 50.0 2 3 5 6 1 0 1 0 12
+p301
+aVRex Chapman PHX 02/22/1998 PHX vs. SAS W 37 14 6 12 50.0 1 3 33.3 1 1 100.0 0 1 1 6 2 0 2 1 19
+p302
+aVHot Rod Williams PHX 02/22/1998 PHX vs. SAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p303
+aVMarko Milic PHX 02/22/1998 PHX vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p304
+aVMarko Milic PHX 02/20/1998 PHX vs. CHH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p305
+aVKevin Johnson PHX 02/20/1998 PHX vs. CHH W 17 10 3 6 50.0 0 0 - 4 4 100.0 0 2 2 3 1 1 2 0 -3
+p306
+aVMark Bryant PHX 02/20/1998 PHX vs. CHH W 25 10 4 5 80.0 0 0 - 2 2 100.0 0 5 5 1 2 0 2 2 21
+p307
+aVSteve Nash PHX 02/20/1998 PHX vs. CHH W 15 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 2 0 0 2 2 -5
+p308
+aVRex Chapman PHX 02/20/1998 PHX vs. CHH W 29 14 5 9 55.6 3 5 60.0 1 1 100.0 0 1 1 0 1 0 1 1 24
+p309
+aVGeorge McCloud PHX 02/20/1998 PHX vs. CHH W 14 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -4
+p310
+aVJason Kidd PHX 02/20/1998 PHX vs. CHH W 35 11 4 8 50.0 1 3 33.3 2 2 100.0 0 6 6 16 1 0 4 1 16
+p311
+aVHot Rod Williams PHX 02/20/1998 PHX vs. CHH W 15 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 1 0 0 1 -6
+p312
+aVDennis Scott PHX 02/20/1998 PHX vs. CHH W 4 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 1 -2
+p313
+aVAntonio McDyess PHX 02/20/1998 PHX vs. CHH W 29 14 6 9 66.7 0 0 - 2 2 100.0 2 9 11 1 0 3 1 3 24
+p314
+aVDanny Manning PHX 02/20/1998 PHX vs. CHH W 19 8 4 7 57.1 0 0 - 0 0 - 1 2 3 2 0 0 0 2 -3
+p315
+aVClifford Robinson PHX 02/20/1998 PHX vs. CHH W 34 36 14 22 63.6 1 1 100.0 7 8 87.5 2 3 5 4 0 0 3 5 18
+p316
+aVGeorge McCloud PHX 02/18/1998 PHX vs. LAL W 18 14 6 10 60.0 2 4 50.0 0 0 - 0 1 1 1 0 0 1 3 2
+p317
+aVMark Bryant PHX 02/18/1998 PHX vs. LAL W 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 6 1
+p318
+aVJason Kidd PHX 02/18/1998 PHX vs. LAL W 40 7 3 8 37.5 1 3 33.3 0 0 - 1 3 4 11 0 1 4 3 5
+p319
+aVRex Chapman PHX 02/18/1998 PHX vs. LAL W 34 26 9 19 47.4 5 6 83.3 3 3 100.0 1 1 2 4 1 0 0 1 5
+p320
+aVKevin Johnson PHX 02/18/1998 PHX vs. LAL W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 4 4 2 0 1 0 0 4
+p321
+aVAntonio McDyess PHX 02/18/1998 PHX vs. LAL W 39 20 8 21 38.1 0 0 - 4 5 80.0 4 7 11 3 1 5 3 4 4
+p322
+aVDanny Manning PHX 02/18/1998 PHX vs. LAL W 20 9 4 11 36.4 0 0 - 1 2 50.0 2 1 3 3 0 0 0 4 2
+p323
+aVClifford Robinson PHX 02/18/1998 PHX vs. LAL W 30 25 9 12 75.0 1 1 100.0 6 9 66.7 1 5 6 5 2 0 2 3 1
+p324
+aVHot Rod Williams PHX 02/18/1998 PHX vs. LAL W 22 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 0 1 1 5 7
+p325
+aVSteve Nash PHX 02/18/1998 PHX vs. LAL W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 2 1 0 2 1 4
+p326
+aVSteve Nash PHX 02/17/1998 PHX @ DAL W 25 6 3 6 50.0 0 2 0.0 0 0 - 1 5 6 4 0 0 1 0 17
+p327
+aVClifford Robinson PHX 02/17/1998 PHX @ DAL W 36 20 8 13 61.5 2 5 40.0 2 2 100.0 3 4 7 4 2 1 3 2 19
+p328
+aVMark Bryant PHX 02/17/1998 PHX @ DAL W 18 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 1 0 1 2 17
+p329
+aVKevin Johnson PHX 02/17/1998 PHX @ DAL W 22 9 4 7 57.1 0 0 - 1 1 100.0 1 3 4 2 1 0 3 1 4
+p330
+aVJason Kidd PHX 02/17/1998 PHX @ DAL W 40 17 7 17 41.2 3 9 33.3 0 0 - 2 12 14 3 2 0 5 2 17
+p331
+aVAntonio McDyess PHX 02/17/1998 PHX @ DAL W 40 18 5 15 33.3 0 0 - 8 9 88.9 5 8 13 2 0 1 3 4 14
+p332
+aVHot Rod Williams PHX 02/17/1998 PHX @ DAL W 8 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 2 0 1 4
+p333
+aVMarko Milic PHX 02/17/1998 PHX @ DAL W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 1
+p334
+aVGeorge McCloud PHX 02/17/1998 PHX @ DAL W 17 7 3 6 50.0 1 2 50.0 0 0 - 0 5 5 1 0 0 3 1 -2
+p335
+aVCedric Ceballos PHX 02/17/1998 PHX @ DAL W 5 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p336
+aVDanny Manning PHX 02/17/1998 PHX @ DAL W 25 8 4 8 50.0 0 0 - 0 0 - 1 7 8 4 0 0 3 2 2
+p337
+aVRex Chapman PHX 02/14/1998 PHX @ SAS W 15 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p338
+aVClifford Robinson PHX 02/14/1998 PHX @ SAS W 23 6 3 9 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 4 -9
+p339
+aVGeorge McCloud PHX 02/14/1998 PHX @ SAS W 23 11 4 8 50.0 3 6 50.0 0 0 - 0 1 1 0 1 0 1 2 2
+p340
+aVSteve Nash PHX 02/14/1998 PHX @ SAS W 30 6 2 5 40.0 2 3 66.7 0 0 - 2 3 5 5 1 0 1 2 9
+p341
+aVAntonio McDyess PHX 02/14/1998 PHX @ SAS W 34 10 3 14 21.4 0 0 - 4 6 66.7 3 9 12 3 2 4 0 5 13
+p342
+aVHot Rod Williams PHX 02/14/1998 PHX @ SAS W 12 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 1 0 2 0
+p343
+aVKevin Johnson PHX 02/14/1998 PHX @ SAS W 28 14 5 9 55.6 0 1 0.0 4 5 80.0 0 3 3 4 0 0 2 1 16
+p344
+aVDanny Manning PHX 02/14/1998 PHX @ SAS W 25 12 6 12 50.0 0 0 - 0 0 - 1 2 3 2 1 0 0 2 18
+p345
+aVMark Bryant PHX 02/14/1998 PHX @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p346
+aVJason Kidd PHX 02/14/1998 PHX @ SAS W 47 29 11 19 57.9 2 5 40.0 5 6 83.3 1 10 11 5 0 1 0 0 18
+p347
+aVJason Kidd PHX 02/12/1998 PHX vs. POR L 36 6 3 15 20.0 0 6 0.0 0 0 - 2 5 7 6 2 1 6 5 -2
+p348
+aVMark Bryant PHX 02/12/1998 PHX vs. POR L 24 4 2 5 40.0 0 0 - 0 0 - 4 6 10 1 0 0 0 3 -1
+p349
+aVClifford Robinson PHX 02/12/1998 PHX vs. POR L 43 31 11 17 64.7 1 1 100.0 8 10 80.0 7 8 15 1 1 1 3 3 1
+p350
+aVGeorge McCloud PHX 02/12/1998 PHX vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p351
+aVAntonio McDyess PHX 02/12/1998 PHX vs. POR L 22 6 3 9 33.3 0 0 - 0 0 - 0 3 3 0 1 4 0 4 -7
+p352
+aVRex Chapman PHX 02/12/1998 PHX vs. POR L 38 19 7 22 31.8 2 6 33.3 3 5 60.0 0 3 3 3 0 1 2 3 -5
+p353
+aVCedric Ceballos PHX 02/12/1998 PHX vs. POR L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p354
+aVDanny Manning PHX 02/12/1998 PHX vs. POR L 33 28 7 14 50.0 0 0 - 14 19 73.7 5 4 9 3 2 0 1 3 -5
+p355
+aVSteve Nash PHX 02/12/1998 PHX vs. POR L 14 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 3 1 0 0 6 5
+p356
+aVHot Rod Williams PHX 02/12/1998 PHX vs. POR L 7 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -2
+p357
+aVKevin Johnson PHX 02/12/1998 PHX vs. POR L 21 9 3 5 60.0 0 1 0.0 3 3 100.0 1 0 1 5 1 0 3 3 -8
+p358
+aVKevin Johnson PHX 02/10/1998 PHX vs. SAC W 18 6 2 6 33.3 0 0 - 2 4 50.0 0 2 2 4 0 0 2 0 10
+p359
+aVDanny Manning PHX 02/10/1998 PHX vs. SAC W 33 13 5 15 33.3 0 0 - 3 4 75.0 5 4 9 5 3 0 3 1 15
+p360
+aVMark Bryant PHX 02/10/1998 PHX vs. SAC W 19 4 2 6 33.3 0 0 - 0 0 - 3 3 6 1 0 0 1 4 -5
+p361
+aVRex Chapman PHX 02/10/1998 PHX vs. SAC W 33 16 6 17 35.3 0 3 0.0 4 5 80.0 0 1 1 3 0 0 0 1 -3
+p362
+aVAntonio McDyess PHX 02/10/1998 PHX vs. SAC W 39 16 7 12 58.3 0 0 - 2 2 100.0 7 7 14 1 5 4 2 3 6
+p363
+aVHot Rod Williams PHX 02/10/1998 PHX vs. SAC W 14 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 1 0 0 4 0
+p364
+aVJason Kidd PHX 02/10/1998 PHX vs. SAC W 38 21 8 17 47.1 0 2 0.0 5 5 100.0 0 8 8 7 1 0 4 1 -7
+p365
+aVSteve Nash PHX 02/10/1998 PHX vs. SAC W 7 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 1 1 5
+p366
+aVClifford Robinson PHX 02/10/1998 PHX vs. SAC W 39 7 3 11 27.3 0 1 0.0 1 2 50.0 3 1 4 3 2 1 1 4 -11
+p367
+aVHot Rod Williams PHX 02/05/1998 PHX @ NJN L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 0 0
+p368
+aVHoracio Llamas PHX 02/05/1998 PHX @ NJN L 6 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 2 14
+p369
+aVGeorge McCloud PHX 02/05/1998 PHX @ NJN L 16 8 3 6 50.0 0 1 0.0 2 2 100.0 0 4 4 0 0 0 1 3 11
+p370
+aVAntonio McDyess PHX 02/05/1998 PHX @ NJN L 28 4 2 8 25.0 0 0 - 0 0 - 0 6 6 2 0 2 1 1 -19
+p371
+aVRex Chapman PHX 02/05/1998 PHX @ NJN L 30 7 3 13 23.1 0 6 0.0 1 1 100.0 0 4 4 8 0 0 2 0 -27
+p372
+aVJason Kidd PHX 02/05/1998 PHX @ NJN L 38 12 6 12 50.0 0 4 0.0 0 0 - 2 6 8 4 2 1 6 3 -25
+p373
+aVDanny Manning PHX 02/05/1998 PHX @ NJN L 25 17 8 13 61.5 0 0 - 1 2 50.0 1 8 9 0 1 1 0 3 0
+p374
+aVMark Bryant PHX 02/05/1998 PHX @ NJN L 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 1 0 1 1 -9
+p375
+aVMarko Milic PHX 02/05/1998 PHX @ NJN L 6 7 3 3 100.0 1 1 100.0 0 0 - 1 1 2 0 0 0 1 0 14
+p376
+aVKevin Johnson PHX 02/05/1998 PHX @ NJN L 29 8 4 8 50.0 0 0 - 0 0 - 2 2 4 5 0 1 2 1 8
+p377
+aVSteve Nash PHX 02/05/1998 PHX @ NJN L 17 14 4 7 57.1 3 5 60.0 3 3 100.0 0 0 0 1 0 0 1 2 -6
+p378
+aVClifford Robinson PHX 02/05/1998 PHX @ NJN L 25 11 3 5 60.0 0 0 - 5 5 100.0 0 1 1 0 0 3 3 2 -21
+p379
+aVMark Bryant PHX 02/03/1998 PHX @ TOR W 24 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 2 1 2 2 7
+p380
+aVHot Rod Williams PHX 02/03/1998 PHX @ TOR W 20 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 3 3 3 -8
+p381
+aVSteve Nash PHX 02/03/1998 PHX @ TOR W 19 5 1 4 25.0 1 1 100.0 2 2 100.0 0 3 3 4 2 0 4 0 -8
+p382
+aVClifford Robinson PHX 02/03/1998 PHX @ TOR W 39 20 9 19 47.4 1 2 50.0 1 4 25.0 5 3 8 3 2 2 2 2 9
+p383
+aVRex Chapman PHX 02/03/1998 PHX @ TOR W 34 23 9 16 56.3 5 9 55.6 0 0 - 1 4 5 5 1 0 4 3 11
+p384
+aVJason Kidd PHX 02/03/1998 PHX @ TOR W 35 22 7 10 70.0 3 4 75.0 5 7 71.4 0 5 5 16 2 0 1 3 9
+p385
+aVKevin Johnson PHX 02/03/1998 PHX @ TOR W 9 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 2 0 0 1 0 3
+p386
+aVAntonio McDyess PHX 02/03/1998 PHX @ TOR W 38 24 9 14 64.3 0 0 - 6 7 85.7 5 9 14 0 3 2 3 5 3
+p387
+aVDanny Manning PHX 02/03/1998 PHX @ TOR W 22 10 4 10 40.0 0 0 - 2 4 50.0 0 5 5 1 0 1 0 4 -1
+p388
+aVJason Kidd PHX 02/02/1998 PHX @ PHI W 29 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 8 1 0 1 1 0
+p389
+aVMark Bryant PHX 02/02/1998 PHX @ PHI W 22 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 1 1 0 2 3 2
+p390
+aVAntonio McDyess PHX 02/02/1998 PHX @ PHI W 41 22 10 17 58.8 0 0 - 2 3 66.7 6 7 13 7 2 0 2 3 8
+p391
+aVSteve Nash PHX 02/02/1998 PHX @ PHI W 27 17 6 14 42.9 3 5 60.0 2 2 100.0 0 1 1 1 3 0 1 4 2
+p392
+aVRex Chapman PHX 02/02/1998 PHX @ PHI W 33 29 12 19 63.2 5 8 62.5 0 1 0.0 0 0 0 7 1 1 1 0 -4
+p393
+aVHot Rod Williams PHX 02/02/1998 PHX @ PHI W 11 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 0 2 12
+p394
+aVClifford Robinson PHX 02/02/1998 PHX @ PHI W 36 13 5 9 55.6 0 1 0.0 3 6 50.0 3 2 5 2 2 2 3 2 -1
+p395
+aVDanny Manning PHX 02/02/1998 PHX @ PHI W 22 12 5 9 55.6 0 0 - 2 2 100.0 2 1 3 0 0 0 3 2 10
+p396
+aVKevin Johnson PHX 02/02/1998 PHX @ PHI W 20 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 3 2 0 4 1 16
+p397
+aVJason Kidd PHX 01/31/1998 PHX @ ORL W 42 15 5 17 29.4 1 9 11.1 4 4 100.0 0 3 3 11 2 0 1 2 0
+p398
+aVDanny Manning PHX 01/31/1998 PHX @ ORL W 23 7 2 6 33.3 0 0 - 3 4 75.0 3 0 3 1 0 2 1 2 -9
+p399
+aVRex Chapman PHX 01/31/1998 PHX @ ORL W 38 19 6 13 46.2 2 2 100.0 5 6 83.3 0 3 3 0 0 0 1 2 6
+p400
+aVMark Bryant PHX 01/31/1998 PHX @ ORL W 21 6 2 3 66.7 0 0 - 2 2 100.0 3 4 7 1 1 1 0 3 9
+p401
+aVHot Rod Williams PHX 01/31/1998 PHX @ ORL W 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 2 -2
+p402
+aVGeorge McCloud PHX 01/31/1998 PHX @ ORL W 16 2 0 4 0.0 0 3 0.0 2 4 50.0 0 2 2 0 1 0 0 1 -8
+p403
+aVClifford Robinson PHX 01/31/1998 PHX @ ORL W 35 23 8 14 57.1 0 1 0.0 7 12 58.3 4 2 6 1 2 1 3 4 5
+p404
+aVAntonio McDyess PHX 01/31/1998 PHX @ ORL W 31 13 6 8 75.0 0 0 - 1 2 50.0 1 8 9 2 0 3 4 3 10
+p405
+aVSteve Nash PHX 01/31/1998 PHX @ ORL W 20 9 4 8 50.0 0 0 - 1 2 50.0 1 0 1 2 2 0 1 3 -1
+p406
+aVDanny Manning PHX 01/30/1998 PHX @ MIA W 30 11 3 9 33.3 0 0 - 5 6 83.3 4 4 8 1 0 1 0 1 8
+p407
+aVGeorge McCloud PHX 01/30/1998 PHX @ MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p408
+aVHot Rod Williams PHX 01/30/1998 PHX @ MIA W 28 6 3 5 60.0 0 0 - 0 0 - 2 4 6 1 0 1 0 2 1
+p409
+aVSteve Nash PHX 01/30/1998 PHX @ MIA W 23 10 3 7 42.9 2 3 66.7 2 2 100.0 0 2 2 2 1 0 2 2 3
+p410
+aVMark Bryant PHX 01/30/1998 PHX @ MIA W 20 4 2 6 33.3 0 0 - 0 0 - 2 3 5 1 1 0 0 3 -2
+p411
+aVAntonio McDyess PHX 01/30/1998 PHX @ MIA W 28 3 0 7 0.0 0 0 - 3 4 75.0 3 5 8 2 2 1 2 1 -4
+p412
+aVClifford Robinson PHX 01/30/1998 PHX @ MIA W 38 23 8 20 40.0 0 0 - 7 8 87.5 0 5 5 0 1 1 1 4 4
+p413
+aVRex Chapman PHX 01/30/1998 PHX @ MIA W 32 12 5 11 45.5 1 3 33.3 1 2 50.0 1 3 4 2 1 0 3 1 7
+p414
+aVJason Kidd PHX 01/30/1998 PHX @ MIA W 41 5 1 15 6.7 0 1 0.0 3 4 75.0 1 10 11 5 3 0 3 1 -2
+p415
+aVMark Bryant PHX 01/27/1998 PHX @ CHH L 34 7 2 7 28.6 0 0 - 3 5 60.0 4 8 12 0 1 0 1 6 -9
+p416
+aVDanny Manning PHX 01/27/1998 PHX @ CHH L 30 16 7 13 53.8 0 0 - 2 3 66.7 0 4 4 1 2 3 0 5 -7
+p417
+aVAntonio McDyess PHX 01/27/1998 PHX @ CHH L 40 30 14 20 70.0 0 0 - 2 3 66.7 7 5 12 2 1 5 2 6 0
+p418
+aVJason Kidd PHX 01/27/1998 PHX @ CHH L 41 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 10 0 0 4 4 -8
+p419
+aVRex Chapman PHX 01/27/1998 PHX @ CHH L 43 20 7 20 35.0 0 4 0.0 6 8 75.0 0 0 0 6 0 1 3 2 -6
+p420
+aVSteve Nash PHX 01/27/1998 PHX @ CHH L 37 18 8 13 61.5 2 4 50.0 0 0 - 2 2 4 4 1 0 3 3 -4
+p421
+aVGeorge McCloud PHX 01/27/1998 PHX @ CHH L 22 4 2 10 20.0 0 4 0.0 0 0 - 2 4 6 1 2 1 2 3 -7
+p422
+aVClifford Robinson PHX 01/27/1998 PHX @ CHH L 21 12 5 10 50.0 0 0 - 2 3 66.7 1 2 3 1 0 0 0 3 6
+p423
+aVHot Rod Williams PHX 01/27/1998 PHX @ CHH L 23 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 1 1 0 6 0
+p424
+aVMark Bryant PHX 01/26/1998 PHX @ ATL W 23 9 4 6 66.7 0 0 - 1 2 50.0 2 2 4 0 1 0 0 1 0
+p425
+aVSteve Nash PHX 01/26/1998 PHX @ ATL W 24 13 5 8 62.5 3 3 100.0 0 0 - 0 1 1 7 1 0 0 1 1
+p426
+aVHot Rod Williams PHX 01/26/1998 PHX @ ATL W 22 4 2 4 50.0 0 0 - 0 2 0.0 1 3 4 0 0 0 0 1 4
+p427
+aVGeorge McCloud PHX 01/26/1998 PHX @ ATL W 17 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 3
+p428
+aVAntonio McDyess PHX 01/26/1998 PHX @ ATL W 16 2 1 6 16.7 0 0 - 0 0 - 2 3 5 1 0 1 1 5 1
+p429
+aVRex Chapman PHX 01/26/1998 PHX @ ATL W 36 26 12 19 63.2 2 5 40.0 0 0 - 0 8 8 3 2 0 0 3 4
+p430
+aVJason Kidd PHX 01/26/1998 PHX @ ATL W 43 10 3 12 25.0 2 8 25.0 2 2 100.0 1 6 7 13 1 0 3 2 4
+p431
+aVClifford Robinson PHX 01/26/1998 PHX @ ATL W 27 9 4 14 28.6 0 1 0.0 1 1 100.0 2 1 3 2 3 1 1 6 4
+p432
+aVDanny Manning PHX 01/26/1998 PHX @ ATL W 32 19 9 14 64.3 0 0 - 1 2 50.0 1 3 4 1 0 2 2 2 4
+p433
+aVGeorge McCloud PHX 01/23/1998 PHX vs. DEN W 8 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 0 4
+p434
+aVBrooks Thompson PHX 01/23/1998 PHX vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p435
+aVMarko Milic PHX 01/23/1998 PHX vs. DEN W 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -1
+p436
+aVRex Chapman PHX 01/23/1998 PHX vs. DEN W 30 8 4 9 44.4 0 2 0.0 0 0 - 1 2 3 5 2 0 1 1 15
+p437
+aVJason Kidd PHX 01/23/1998 PHX vs. DEN W 32 7 2 8 25.0 1 4 25.0 2 2 100.0 0 0 0 10 2 0 3 0 4
+p438
+aVDanny Manning PHX 01/23/1998 PHX vs. DEN W 20 10 5 9 55.6 0 0 - 0 0 - 0 2 2 2 2 1 0 1 12
+p439
+aVAntonio McDyess PHX 01/23/1998 PHX vs. DEN W 39 24 9 15 60.0 0 0 - 6 7 85.7 3 4 7 2 1 1 0 1 4
+p440
+aVSteve Nash PHX 01/23/1998 PHX vs. DEN W 32 10 3 5 60.0 2 3 66.7 2 2 100.0 1 6 7 5 4 0 1 1 14
+p441
+aVClifford Robinson PHX 01/23/1998 PHX vs. DEN W 35 15 5 13 38.5 0 1 0.0 5 7 71.4 0 3 3 1 0 1 3 2 9
+p442
+aVMark Bryant PHX 01/23/1998 PHX vs. DEN W 28 10 5 9 55.6 0 0 - 0 0 - 8 1 9 1 1 0 1 3 12
+p443
+aVCedric Ceballos PHX 01/23/1998 PHX vs. DEN W 12 4 2 7 28.6 0 0 - 0 0 - 1 0 1 2 1 0 1 1 8
+p444
+aVBrooks Thompson PHX 01/21/1998 PHX vs. LAL L 2 5 2 5 40.0 1 3 33.3 0 1 0.0 0 0 0 0 0 0 0 0 4
+p445
+aVDanny Manning PHX 01/21/1998 PHX vs. LAL L 24 17 8 15 53.3 0 0 - 1 1 100.0 1 5 6 7 1 0 1 6 -10
+p446
+aVMark Bryant PHX 01/21/1998 PHX vs. LAL L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 14
+p447
+aVMarko Milic PHX 01/21/1998 PHX vs. LAL L 3 2 1 1 100.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 1 10
+p448
+aVAntonio McDyess PHX 01/21/1998 PHX vs. LAL L 28 16 6 10 60.0 0 0 - 4 6 66.7 2 12 14 3 0 2 0 6 -14
+p449
+aVClifford Robinson PHX 01/21/1998 PHX vs. LAL L 30 15 6 13 46.2 0 2 0.0 3 6 50.0 2 3 5 3 0 0 0 4 -3
+p450
+aVSteve Nash PHX 01/21/1998 PHX vs. LAL L 25 21 8 13 61.5 2 5 40.0 3 4 75.0 0 1 1 1 0 0 1 3 -19
+p451
+aVHot Rod Williams PHX 01/21/1998 PHX vs. LAL L 16 2 0 0 - 0 0 - 2 2 100.0 1 1 2 1 0 1 1 2 -15
+p452
+aVGeorge McCloud PHX 01/21/1998 PHX vs. LAL L 19 5 2 10 20.0 1 6 16.7 0 0 - 1 2 3 1 0 0 0 4 -4
+p453
+aVJason Kidd PHX 01/21/1998 PHX vs. LAL L 40 12 6 9 66.7 0 1 0.0 0 0 - 1 5 6 7 2 1 3 3 -9
+p454
+aVCedric Ceballos PHX 01/21/1998 PHX vs. LAL L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 9
+p455
+aVRex Chapman PHX 01/21/1998 PHX vs. LAL L 36 10 4 11 36.4 1 6 16.7 1 1 100.0 1 2 3 6 1 1 2 1 -13
+p456
+aVSteve Nash PHX 01/20/1998 PHX @ GSW W 31 7 3 6 50.0 1 1 100.0 0 0 - 0 4 4 7 1 1 2 2 19
+p457
+aVMark Bryant PHX 01/20/1998 PHX @ GSW W 20 5 1 4 25.0 0 0 - 3 4 75.0 3 1 4 0 1 0 0 3 0
+p458
+aVAntonio McDyess PHX 01/20/1998 PHX @ GSW W 35 12 3 11 27.3 0 0 - 6 8 75.0 3 2 5 0 1 2 3 4 9
+p459
+aVJason Kidd PHX 01/20/1998 PHX @ GSW W 44 13 4 11 36.4 0 2 0.0 5 5 100.0 3 6 9 11 3 0 3 2 24
+p460
+aVDanny Manning PHX 01/20/1998 PHX @ GSW W 24 16 8 16 50.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 14
+p461
+aVBrooks Thompson PHX 01/20/1998 PHX @ GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p462
+aVRex Chapman PHX 01/20/1998 PHX @ GSW W 37 22 10 20 50.0 1 1 100.0 1 2 50.0 0 3 3 5 3 0 0 1 11
+p463
+aVHot Rod Williams PHX 01/20/1998 PHX @ GSW W 23 1 0 4 0.0 0 0 - 1 2 50.0 3 5 8 0 0 0 0 1 16
+p464
+aVCedric Ceballos PHX 01/20/1998 PHX @ GSW W 25 11 5 13 38.5 0 3 0.0 1 2 50.0 4 5 9 0 0 0 2 3 4
+p465
+aVClifford Robinson PHX 01/18/1998 PHX vs. MIA W 23 7 2 4 50.0 0 0 - 3 4 75.0 2 2 4 2 0 2 1 6 13
+p466
+aVDanny Manning PHX 01/18/1998 PHX vs. MIA W 31 15 6 13 46.2 0 0 - 3 4 75.0 2 5 7 0 0 1 1 4 -3
+p467
+aVGeorge McCloud PHX 01/18/1998 PHX vs. MIA W 16 6 3 7 42.9 0 2 0.0 0 1 0.0 0 2 2 0 0 0 2 1 5
+p468
+aVCedric Ceballos PHX 01/18/1998 PHX vs. MIA W 18 13 4 6 66.7 1 3 33.3 4 5 80.0 0 4 4 1 0 0 1 1 -5
+p469
+aVJason Kidd PHX 01/18/1998 PHX vs. MIA W 43 9 2 5 40.0 1 1 100.0 4 4 100.0 0 10 10 13 3 0 1 2 14
+p470
+aVMark Bryant PHX 01/18/1998 PHX vs. MIA W 20 9 4 5 80.0 0 0 - 1 1 100.0 0 1 1 1 1 0 2 6 3
+p471
+aVSteve Nash PHX 01/18/1998 PHX vs. MIA W 29 4 2 8 25.0 0 2 0.0 0 0 - 1 2 3 9 1 0 4 3 0
+p472
+aVRex Chapman PHX 01/18/1998 PHX vs. MIA W 33 13 5 15 33.3 1 6 16.7 2 2 100.0 0 2 2 1 2 1 2 1 10
+p473
+aVAntonio McDyess PHX 01/18/1998 PHX vs. MIA W 28 20 7 12 58.3 0 0 - 6 8 75.0 2 4 6 1 3 1 0 4 8
+p474
+aVMark Bryant PHX 01/16/1998 PHX vs. ORL W 12 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 4 4
+p475
+aVCedric Ceballos PHX 01/16/1998 PHX vs. ORL W 16 9 3 4 75.0 1 1 100.0 2 2 100.0 2 4 6 2 1 1 2 2 1
+p476
+aVBrooks Thompson PHX 01/16/1998 PHX vs. ORL W 6 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 1 0 2 0 -8
+p477
+aVSteve Nash PHX 01/16/1998 PHX vs. ORL W 31 16 7 8 87.5 2 2 100.0 0 0 - 0 6 6 9 2 0 0 0 20
+p478
+aVHot Rod Williams PHX 01/16/1998 PHX vs. ORL W 14 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 1 1 14
+p479
+aVJason Kidd PHX 01/16/1998 PHX vs. ORL W 32 7 2 6 33.3 0 1 0.0 3 3 100.0 0 4 4 5 0 0 0 2 23
+p480
+aVMarko Milic PHX 01/16/1998 PHX vs. ORL W 10 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p481
+aVClifford Robinson PHX 01/16/1998 PHX vs. ORL W 33 17 4 12 33.3 1 1 100.0 8 12 66.7 3 2 5 1 3 0 3 3 17
+p482
+aVRex Chapman PHX 01/16/1998 PHX vs. ORL W 24 10 4 11 36.4 0 1 0.0 2 2 100.0 2 3 5 4 2 0 0 1 14
+p483
+aVAntonio McDyess PHX 01/16/1998 PHX vs. ORL W 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 0
+p484
+aVGeorge McCloud PHX 01/16/1998 PHX vs. ORL W 27 10 4 7 57.1 2 4 50.0 0 0 - 0 2 2 1 1 0 2 2 21
+p485
+aVDanny Manning PHX 01/16/1998 PHX vs. ORL W 28 23 10 16 62.5 0 0 - 3 4 75.0 4 3 7 4 1 1 1 3 26
+p486
+aVHot Rod Williams PHX 01/13/1998 PHX vs. CLE L 14 2 1 1 100.0 0 0 - 0 2 0.0 0 3 3 1 0 0 0 0 7
+p487
+aVMarko Milic PHX 01/13/1998 PHX vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p488
+aVClifford Robinson PHX 01/13/1998 PHX vs. CLE L 20 6 2 6 33.3 1 2 50.0 1 2 50.0 0 1 1 1 2 0 0 1 -9
+p489
+aVMark Bryant PHX 01/13/1998 PHX vs. CLE L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 1 -8
+p490
+aVBrooks Thompson PHX 01/13/1998 PHX vs. CLE L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p491
+aVDanny Manning PHX 01/13/1998 PHX vs. CLE L 18 5 2 13 15.4 0 0 - 1 2 50.0 1 0 1 0 2 0 1 3 4
+p492
+aVRex Chapman PHX 01/13/1998 PHX vs. CLE L 37 22 7 16 43.8 3 7 42.9 5 6 83.3 0 2 2 1 1 0 3 3 -17
+p493
+aVSteve Nash PHX 01/13/1998 PHX vs. CLE L 32 15 6 12 50.0 2 4 50.0 1 1 100.0 0 3 3 3 0 0 0 3 -6
+p494
+aVAntonio McDyess PHX 01/13/1998 PHX vs. CLE L 31 9 3 10 30.0 0 0 - 3 4 75.0 2 3 5 1 2 1 1 5 -24
+p495
+aVCedric Ceballos PHX 01/13/1998 PHX vs. CLE L 12 0 0 5 0.0 0 2 0.0 0 0 - 1 4 5 1 0 0 3 0 -7
+p496
+aVGeorge McCloud PHX 01/13/1998 PHX vs. CLE L 26 10 4 12 33.3 1 5 20.0 1 1 100.0 3 1 4 3 2 0 0 4 -4
+p497
+aVJason Kidd PHX 01/13/1998 PHX vs. CLE L 40 13 5 9 55.6 0 2 0.0 3 3 100.0 4 6 10 6 1 1 2 2 -24
+p498
+aVGeorge McCloud PHX 01/12/1998 PHX @ SAC L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p499
+aVCedric Ceballos PHX 01/12/1998 PHX @ SAC L 26 8 3 8 37.5 1 3 33.3 1 2 50.0 1 3 4 0 1 1 0 5 6
+p500
+aVDanny Manning PHX 01/12/1998 PHX @ SAC L 23 17 6 12 50.0 0 0 - 5 6 83.3 4 3 7 2 0 3 3 5 -11
+p501
+aVMark Bryant PHX 01/12/1998 PHX @ SAC L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -7
+p502
+aVRex Chapman PHX 01/12/1998 PHX @ SAC L 36 16 6 17 35.3 3 8 37.5 1 2 50.0 1 2 3 4 3 0 1 1 2
+p503
+aVJason Kidd PHX 01/12/1998 PHX @ SAC L 40 9 2 9 22.2 0 2 0.0 5 8 62.5 1 5 6 6 3 0 8 3 -12
+p504
+aVAntonio McDyess PHX 01/12/1998 PHX @ SAC L 44 12 5 11 45.5 0 0 - 2 2 100.0 6 10 16 1 4 3 5 4 -2
+p505
+aVSteve Nash PHX 01/12/1998 PHX @ SAC L 21 5 2 4 50.0 0 1 0.0 1 1 100.0 2 0 2 4 0 0 1 1 -1
+p506
+aVClifford Robinson PHX 01/12/1998 PHX @ SAC L 39 23 10 17 58.8 0 0 - 3 4 75.0 1 5 6 3 0 1 6 3 -4
+p507
+aVRex Chapman PHX 01/09/1998 PHX vs. SAS W 29 18 7 12 58.3 2 4 50.0 2 2 100.0 0 2 2 1 0 0 0 0 15
+p508
+aVCedric Ceballos PHX 01/09/1998 PHX vs. SAS W 26 14 6 14 42.9 0 2 0.0 2 2 100.0 3 5 8 3 1 1 0 2 10
+p509
+aVAntonio McDyess PHX 01/09/1998 PHX vs. SAS W 21 18 8 11 72.7 0 0 - 2 6 33.3 1 6 7 1 1 1 1 5 8
+p510
+aVJason Kidd PHX 01/09/1998 PHX vs. SAS W 35 10 4 9 44.4 0 1 0.0 2 4 50.0 3 4 7 12 2 1 0 2 19
+p511
+aVMarko Milic PHX 01/09/1998 PHX vs. SAS W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p512
+aVSteve Nash PHX 01/09/1998 PHX vs. SAS W 27 16 6 12 50.0 1 2 50.0 3 3 100.0 0 2 2 3 1 0 1 0 16
+p513
+aVGeorge McCloud PHX 01/09/1998 PHX vs. SAS W 29 13 5 8 62.5 3 5 60.0 0 0 - 0 3 3 1 2 0 2 3 17
+p514
+aVBrooks Thompson PHX 01/09/1998 PHX vs. SAS W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 2 0 1 1 -6
+p515
+aVClifford Robinson PHX 01/09/1998 PHX vs. SAS W 23 3 1 7 14.3 0 1 0.0 1 4 25.0 3 1 4 6 2 1 0 4 13
+p516
+aVMark Bryant PHX 01/09/1998 PHX vs. SAS W 12 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 2 9
+p517
+aVHot Rod Williams PHX 01/09/1998 PHX vs. SAS W 28 2 0 3 0.0 0 0 - 2 4 50.0 0 4 4 2 1 5 0 3 10
+p518
+aVMarko Milic PHX 01/07/1998 PHX @ MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p519
+aVClifford Robinson PHX 01/07/1998 PHX @ MIN W 32 10 5 10 50.0 0 0 - 0 0 - 3 0 3 0 0 0 1 4 17
+p520
+aVGeorge McCloud PHX 01/07/1998 PHX @ MIN W 22 13 4 8 50.0 3 5 60.0 2 2 100.0 0 5 5 2 0 1 1 4 15
+p521
+aVCedric Ceballos PHX 01/07/1998 PHX @ MIN W 25 12 6 12 50.0 0 3 0.0 0 0 - 1 6 7 1 0 0 1 3 1
+p522
+aVAntonio McDyess PHX 01/07/1998 PHX @ MIN W 42 22 9 15 60.0 0 0 - 4 8 50.0 4 3 7 3 2 1 2 3 15
+p523
+aVRex Chapman PHX 01/07/1998 PHX @ MIN W 31 15 7 17 41.2 0 2 0.0 1 4 25.0 0 4 4 5 3 0 1 1 9
+p524
+aVJason Kidd PHX 01/07/1998 PHX @ MIN W 41 5 1 10 10.0 1 4 25.0 2 4 50.0 1 8 9 15 1 1 0 2 20
+p525
+aVMark Bryant PHX 01/07/1998 PHX @ MIN W 23 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 2 0 3 3 -1
+p526
+aVSteve Nash PHX 01/07/1998 PHX @ MIN W 24 13 6 11 54.5 1 4 25.0 0 1 0.0 0 2 2 5 0 0 0 2 1
+p527
+aVCedric Ceballos PHX 01/06/1998 PHX @ IND W 30 9 4 12 33.3 1 3 33.3 0 0 - 1 6 7 1 1 0 2 5 -8
+p528
+aVSteve Nash PHX 01/06/1998 PHX @ IND W 17 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 2 0 0 1 4 -2
+p529
+aVGeorge McCloud PHX 01/06/1998 PHX @ IND W 17 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 1 1 1 0 1 11
+p530
+aVJason Kidd PHX 01/06/1998 PHX @ IND W 40 0 0 5 0.0 0 1 0.0 0 0 - 0 5 5 8 2 1 5 1 -3
+p531
+aVHot Rod Williams PHX 01/06/1998 PHX @ IND W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -3
+p532
+aVClifford Robinson PHX 01/06/1998 PHX @ IND W 36 15 6 11 54.5 0 1 0.0 3 13 23.1 2 6 8 2 0 1 2 4 -6
+p533
+aVMarko Milic PHX 01/06/1998 PHX @ IND W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p534
+aVRex Chapman PHX 01/06/1998 PHX @ IND W 35 18 5 13 38.5 0 1 0.0 8 11 72.7 1 3 4 3 0 2 0 4 1
+p535
+aVMark Bryant PHX 01/06/1998 PHX @ IND W 14 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 2 0 0 4 7
+p536
+aVAntonio McDyess PHX 01/06/1998 PHX @ IND W 40 16 7 15 46.7 0 0 - 2 3 66.7 3 4 7 1 1 0 2 4 5
+p537
+aVGeorge McCloud PHX 01/04/1998 PHX @ WAS L 16 7 3 6 50.0 1 3 33.3 0 1 0.0 1 2 3 1 1 1 1 5 -9
+p538
+aVBrooks Thompson PHX 01/04/1998 PHX @ WAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -1
+p539
+aVClifford Robinson PHX 01/04/1998 PHX @ WAS L 37 13 6 10 60.0 0 1 0.0 1 2 50.0 2 5 7 1 0 0 0 3 -11
+p540
+aVAntonio McDyess PHX 01/04/1998 PHX @ WAS L 23 16 6 10 60.0 0 0 - 4 6 66.7 2 4 6 2 0 0 1 3 -2
+p541
+aVMark Bryant PHX 01/04/1998 PHX @ WAS L 16 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 5 -5
+p542
+aVCedric Ceballos PHX 01/04/1998 PHX @ WAS L 24 8 3 8 37.5 1 3 33.3 1 1 100.0 0 4 4 2 0 0 1 1 -5
+p543
+aVJason Kidd PHX 01/04/1998 PHX @ WAS L 13 3 1 4 25.0 0 3 0.0 1 2 50.0 0 2 2 5 1 0 0 0 -10
+p544
+aVSteve Nash PHX 01/04/1998 PHX @ WAS L 33 11 5 11 45.5 0 1 0.0 1 1 100.0 0 5 5 5 0 0 4 4 -1
+p545
+aVRex Chapman PHX 01/04/1998 PHX @ WAS L 46 33 10 21 47.6 2 5 40.0 11 11 100.0 0 1 1 3 2 1 4 3 -5
+p546
+aVHot Rod Williams PHX 01/04/1998 PHX @ WAS L 26 2 0 0 - 0 0 - 2 2 100.0 2 2 4 0 0 2 0 3 -1
+p547
+aVJason Kidd PHX 01/02/1998 PHX vs. DAL W 44 20 7 22 31.8 2 8 25.0 4 6 66.7 4 8 12 14 3 0 7 2 0
+p548
+aVGeorge McCloud PHX 01/02/1998 PHX vs. DAL W 19 2 1 6 16.7 0 2 0.0 0 0 - 1 3 4 0 0 0 0 2 6
+p549
+aVRex Chapman PHX 01/02/1998 PHX vs. DAL W 40 18 8 17 47.1 2 3 66.7 0 0 - 0 2 2 6 2 0 6 0 5
+p550
+aVHot Rod Williams PHX 01/02/1998 PHX vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p551
+aVCedric Ceballos PHX 01/02/1998 PHX vs. DAL W 22 14 6 7 85.7 0 0 - 2 2 100.0 3 2 5 3 2 1 1 1 11
+p552
+aVAntonio McDyess PHX 01/02/1998 PHX vs. DAL W 35 15 7 12 58.3 0 0 - 1 2 50.0 4 6 10 2 2 1 0 4 6
+p553
+aVMark Bryant PHX 01/02/1998 PHX vs. DAL W 15 4 2 6 33.3 0 0 - 0 0 - 3 1 4 1 1 0 0 3 5
+p554
+aVSteve Nash PHX 01/02/1998 PHX vs. DAL W 30 6 3 9 33.3 0 4 0.0 0 0 - 0 4 4 2 2 0 1 2 1
+p555
+aVClifford Robinson PHX 01/02/1998 PHX vs. DAL W 35 13 5 9 55.6 1 2 50.0 2 2 100.0 1 2 3 1 1 0 4 6 -3
+p556
+aVMarko Milic PHX 12/30/1997 PHX vs. BOS W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p557
+aVAntonio McDyess PHX 12/30/1997 PHX vs. BOS W 26 13 6 10 60.0 0 0 - 1 2 50.0 4 7 11 4 0 3 2 3 9
+p558
+aVBrooks Thompson PHX 12/30/1997 PHX vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p559
+aVJason Kidd PHX 12/30/1997 PHX vs. BOS W 36 7 3 4 75.0 1 1 100.0 0 0 - 1 7 8 8 2 0 5 3 15
+p560
+aVClifford Robinson PHX 12/30/1997 PHX vs. BOS W 27 18 7 12 58.3 0 0 - 4 9 44.4 4 5 9 1 0 3 1 6 14
+p561
+aVRex Chapman PHX 12/30/1997 PHX vs. BOS W 39 10 5 13 38.5 0 2 0.0 0 0 - 0 3 3 1 1 0 1 2 2
+p562
+aVSteve Nash PHX 12/30/1997 PHX vs. BOS W 27 14 6 10 60.0 0 1 0.0 2 4 50.0 0 2 2 4 0 0 2 1 7
+p563
+aVGeorge McCloud PHX 12/30/1997 PHX vs. BOS W 28 7 2 6 33.3 0 1 0.0 3 4 75.0 0 6 6 5 1 0 2 2 4
+p564
+aVCedric Ceballos PHX 12/30/1997 PHX vs. BOS W 33 21 7 12 58.3 1 2 50.0 6 9 66.7 1 6 7 3 3 0 5 5 0
+p565
+aVMark Bryant PHX 12/30/1997 PHX vs. BOS W 17 10 5 9 55.6 0 0 - 0 0 - 4 1 5 1 0 3 5 1 5
+p566
+aVJason Kidd PHX 12/28/1997 PHX vs. SEA L 39 11 4 9 44.4 2 4 50.0 1 1 100.0 1 4 5 8 3 0 3 3 -6
+p567
+aVAntonio McDyess PHX 12/28/1997 PHX vs. SEA L 41 12 3 12 25.0 0 0 - 6 9 66.7 4 9 13 2 0 2 3 5 -1
+p568
+aVDanny Manning PHX 12/28/1997 PHX vs. SEA L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 7
+p569
+aVMark Bryant PHX 12/28/1997 PHX vs. SEA L 5 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -8
+p570
+aVSteve Nash PHX 12/28/1997 PHX vs. SEA L 24 16 5 10 50.0 1 2 50.0 5 5 100.0 1 0 1 1 1 0 2 2 -11
+p571
+aVClifford Robinson PHX 12/28/1997 PHX vs. SEA L 23 4 1 8 12.5 0 1 0.0 2 4 50.0 3 1 4 0 1 4 3 4 -10
+p572
+aVGeorge McCloud PHX 12/28/1997 PHX vs. SEA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p573
+aVCedric Ceballos PHX 12/28/1997 PHX vs. SEA L 36 18 5 16 31.3 0 2 0.0 8 11 72.7 7 4 11 2 0 0 1 3 -16
+p574
+aVHot Rod Williams PHX 12/28/1997 PHX vs. SEA L 24 4 2 3 66.7 0 0 - 0 0 - 5 3 8 1 0 1 1 4 1
+p575
+aVRex Chapman PHX 12/28/1997 PHX vs. SEA L 43 26 7 17 41.2 3 7 42.9 9 11 81.8 0 4 4 3 1 0 1 5 -2
+p576
+aVClifford Robinson PHX 12/26/1997 PHX @ VAN W 25 15 2 10 20.0 0 0 - 11 13 84.6 3 1 4 4 1 2 1 4 10
+p577
+aVJason Kidd PHX 12/26/1997 PHX @ VAN W 38 13 4 10 40.0 2 3 66.7 3 3 100.0 3 9 12 10 2 0 2 1 24
+p578
+aVDanny Manning PHX 12/26/1997 PHX @ VAN W 24 14 7 12 58.3 0 0 - 0 0 - 3 4 7 0 0 0 2 5 12
+p579
+aVSteve Nash PHX 12/26/1997 PHX @ VAN W 22 7 3 11 27.3 1 3 33.3 0 0 - 1 2 3 6 2 0 2 3 10
+p580
+aVCedric Ceballos PHX 12/26/1997 PHX @ VAN W 24 22 9 13 69.2 1 2 50.0 3 4 75.0 1 2 3 2 1 0 1 2 4
+p581
+aVRex Chapman PHX 12/26/1997 PHX @ VAN W 31 14 5 12 41.7 1 4 25.0 3 4 75.0 0 1 1 3 1 0 1 2 10
+p582
+aVHot Rod Williams PHX 12/26/1997 PHX @ VAN W 23 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 1 1 0 1 1 6
+p583
+aVMark Bryant PHX 12/26/1997 PHX @ VAN W 16 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 2 1 0 0 2 3
+p584
+aVMarko Milic PHX 12/26/1997 PHX @ VAN W 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -4
+p585
+aVAntonio McDyess PHX 12/26/1997 PHX @ VAN W 32 16 6 8 75.0 0 0 - 4 4 100.0 3 6 9 1 4 1 1 3 15
+p586
+aVClifford Robinson PHX 12/22/1997 PHX vs. GSW W 30 10 4 6 66.7 0 1 0.0 2 5 40.0 1 4 5 2 6 2 2 0 1
+p587
+aVJason Kidd PHX 12/22/1997 PHX vs. GSW W 41 10 5 7 71.4 0 0 - 0 0 - 5 4 9 10 3 0 3 0 11
+p588
+aVSteve Nash PHX 12/22/1997 PHX vs. GSW W 32 11 4 11 36.4 0 3 0.0 3 4 75.0 0 1 1 8 1 0 2 1 18
+p589
+aVHot Rod Williams PHX 12/22/1997 PHX vs. GSW W 25 2 1 2 50.0 0 0 - 0 0 - 2 5 7 3 1 0 0 3 2
+p590
+aVAntonio McDyess PHX 12/22/1997 PHX vs. GSW W 37 17 7 14 50.0 0 0 - 3 8 37.5 3 3 6 1 0 2 3 5 7
+p591
+aVRex Chapman PHX 12/22/1997 PHX vs. GSW W 29 14 5 13 38.5 2 5 40.0 2 2 100.0 0 1 1 1 1 0 3 1 2
+p592
+aVGeorge McCloud PHX 12/22/1997 PHX vs. GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p593
+aVDanny Manning PHX 12/22/1997 PHX vs. GSW W 26 10 4 12 33.3 0 1 0.0 2 2 100.0 0 4 4 2 1 1 0 3 17
+p594
+aVCedric Ceballos PHX 12/22/1997 PHX vs. GSW W 21 17 6 9 66.7 1 1 100.0 4 8 50.0 3 2 5 0 1 1 4 1 15
+p595
+aVSteve Nash PHX 12/20/1997 PHX @ DEN W 29 20 9 17 52.9 2 5 40.0 0 0 - 1 0 1 9 1 1 0 2 12
+p596
+aVBrooks Thompson PHX 12/20/1997 PHX @ DEN W 4 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p597
+aVDanny Manning PHX 12/20/1997 PHX @ DEN W 27 15 6 8 75.0 0 0 - 3 4 75.0 3 3 6 3 2 1 4 3 22
+p598
+aVAntonio McDyess PHX 12/20/1997 PHX @ DEN W 17 13 6 11 54.5 0 0 - 1 1 100.0 1 4 5 0 0 0 2 6 -1
+p599
+aVRex Chapman PHX 12/20/1997 PHX @ DEN W 30 12 6 14 42.9 0 3 0.0 0 0 - 1 3 4 3 1 1 0 1 22
+p600
+aVGeorge McCloud PHX 12/20/1997 PHX @ DEN W 18 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 0 0 1 0 1 -6
+p601
+aVHot Rod Williams PHX 12/20/1997 PHX @ DEN W 25 2 1 3 33.3 0 0 - 0 0 - 2 5 7 1 0 0 0 3 10
+p602
+aVJason Kidd PHX 12/20/1997 PHX @ DEN W 35 7 2 6 33.3 1 2 50.0 2 2 100.0 5 7 12 7 4 0 6 2 27
+p603
+aVClifford Robinson PHX 12/20/1997 PHX @ DEN W 26 14 5 12 41.7 0 0 - 4 7 57.1 3 3 6 2 1 1 0 5 15
+p604
+aVCedric Ceballos PHX 12/20/1997 PHX @ DEN W 26 12 3 12 25.0 1 3 33.3 5 5 100.0 4 5 9 2 2 1 2 4 8
+p605
+aVMarko Milic PHX 12/20/1997 PHX @ DEN W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p606
+aVHot Rod Williams PHX 12/18/1997 PHX @ DAL W 14 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 1 0 1 1 -7
+p607
+aVJason Kidd PHX 12/18/1997 PHX @ DAL W 31 10 4 13 30.8 0 2 0.0 2 4 50.0 3 2 5 3 3 0 2 3 14
+p608
+aVGeorge McCloud PHX 12/18/1997 PHX @ DAL W 22 10 4 11 36.4 2 6 33.3 0 0 - 0 3 3 0 1 0 1 1 11
+p609
+aVDanny Manning PHX 12/18/1997 PHX @ DAL W 25 13 6 11 54.5 0 0 - 1 4 25.0 2 6 8 1 2 0 0 1 22
+p610
+aVMarko Milic PHX 12/18/1997 PHX @ DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p611
+aVSteve Nash PHX 12/18/1997 PHX @ DAL W 31 12 5 14 35.7 1 3 33.3 1 2 50.0 1 3 4 4 1 0 2 2 15
+p612
+aVAntonio McDyess PHX 12/18/1997 PHX @ DAL W 36 14 7 16 43.8 0 0 - 0 0 - 6 8 14 1 3 3 0 2 10
+p613
+aVBrooks Thompson PHX 12/18/1997 PHX @ DAL W 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p614
+aVRex Chapman PHX 12/18/1997 PHX @ DAL W 33 9 4 7 57.1 1 2 50.0 0 0 - 3 3 6 4 0 0 2 0 12
+p615
+aVCedric Ceballos PHX 12/18/1997 PHX @ DAL W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 0 -6
+p616
+aVClifford Robinson PHX 12/18/1997 PHX @ DAL W 31 17 7 17 41.2 0 0 - 3 3 100.0 5 2 7 2 1 0 0 3 7
+p617
+aVSteve Nash PHX 12/16/1997 PHX @ CLE L 27 18 6 10 60.0 3 4 75.0 3 3 100.0 0 0 0 7 2 1 1 2 -21
+p618
+aVClifford Robinson PHX 12/16/1997 PHX @ CLE L 29 12 5 9 55.6 0 0 - 2 4 50.0 0 3 3 1 2 2 1 3 -9
+p619
+aVHot Rod Williams PHX 12/16/1997 PHX @ CLE L 17 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 1 0 0 2 10
+p620
+aVMark Bryant PHX 12/16/1997 PHX @ CLE L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -4
+p621
+aVAntonio McDyess PHX 12/16/1997 PHX @ CLE L 29 21 8 12 66.7 0 0 - 5 7 71.4 4 5 9 1 2 1 1 5 -9
+p622
+aVDanny Manning PHX 12/16/1997 PHX @ CLE L 26 12 5 11 45.5 0 0 - 2 2 100.0 1 3 4 0 0 1 4 5 -18
+p623
+aVRex Chapman PHX 12/16/1997 PHX @ CLE L 40 15 5 14 35.7 1 5 20.0 4 5 80.0 2 1 3 5 0 0 2 3 -3
+p624
+aVCedric Ceballos PHX 12/16/1997 PHX @ CLE L 17 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 2 0 2 2 1
+p625
+aVJason Kidd PHX 12/16/1997 PHX @ CLE L 38 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 12 2 0 6 2 -6
+p626
+aVGeorge McCloud PHX 12/16/1997 PHX @ CLE L 11 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 3 -6
+p627
+aVDanny Manning PHX 12/15/1997 PHX @ CHI L 26 11 4 10 40.0 0 0 - 3 3 100.0 2 3 5 4 0 1 1 4 4
+p628
+aVBrooks Thompson PHX 12/15/1997 PHX @ CHI L 5 8 3 5 60.0 1 3 33.3 1 2 50.0 0 0 0 1 1 0 1 3 11
+p629
+aVCedric Ceballos PHX 12/15/1997 PHX @ CHI L 31 22 8 18 44.4 0 2 0.0 6 9 66.7 5 5 10 0 0 0 3 3 -22
+p630
+aVClifford Robinson PHX 12/15/1997 PHX @ CHI L 22 4 2 7 28.6 0 1 0.0 0 1 0.0 2 2 4 1 1 2 2 2 -19
+p631
+aVAntonio McDyess PHX 12/15/1997 PHX @ CHI L 37 23 10 14 71.4 0 0 - 3 8 37.5 1 3 4 1 1 0 1 6 -9
+p632
+aVGeorge McCloud PHX 12/15/1997 PHX @ CHI L 29 7 3 10 30.0 0 3 0.0 1 2 50.0 1 4 5 3 2 0 3 6 -4
+p633
+aVSteve Nash PHX 12/15/1997 PHX @ CHI L 25 11 4 9 44.4 3 5 60.0 0 0 - 1 1 2 1 0 0 1 5 -9
+p634
+aVJason Kidd PHX 12/15/1997 PHX @ CHI L 36 9 4 10 40.0 1 4 25.0 0 1 0.0 0 3 3 3 3 0 6 5 -12
+p635
+aVHot Rod Williams PHX 12/15/1997 PHX @ CHI L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p636
+aVMark Bryant PHX 12/15/1997 PHX @ CHI L 11 5 1 3 33.3 0 0 - 3 3 100.0 2 3 5 1 0 0 1 0 8
+p637
+aVMarko Milic PHX 12/15/1997 PHX @ CHI L 7 4 2 4 50.0 0 1 0.0 0 0 - 2 4 6 4 2 0 0 0 23
+p638
+aVDanny Manning PHX 12/13/1997 PHX @ MIN L 32 15 7 14 50.0 0 0 - 1 1 100.0 1 7 8 1 2 0 3 3 -11
+p639
+aVSteve Nash PHX 12/13/1997 PHX @ MIN L 28 15 6 12 50.0 1 4 25.0 2 2 100.0 0 0 0 5 1 0 2 4 -18
+p640
+aVClifford Robinson PHX 12/13/1997 PHX @ MIN L 17 4 2 7 28.6 0 1 0.0 0 0 - 3 2 5 4 0 1 2 1 7
+p641
+aVHot Rod Williams PHX 12/13/1997 PHX @ MIN L 20 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -9
+p642
+aVJason Kidd PHX 12/13/1997 PHX @ MIN L 44 20 7 13 53.8 3 3 100.0 3 4 75.0 1 4 5 8 3 0 6 0 -9
+p643
+aVBrooks Thompson PHX 12/13/1997 PHX @ MIN L 1 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 0 0 1 1 -4
+p644
+aVAntonio McDyess PHX 12/13/1997 PHX @ MIN L 24 8 4 5 80.0 0 0 - 0 2 0.0 1 3 4 3 2 1 2 4 -4
+p645
+aVMark Bryant PHX 12/13/1997 PHX @ MIN L 4 1 0 0 - 0 0 - 1 2 50.0 2 0 2 0 0 0 1 3 -5
+p646
+aVGeorge McCloud PHX 12/13/1997 PHX @ MIN L 41 16 6 18 33.3 2 11 18.2 2 2 100.0 3 4 7 1 0 1 2 3 -5
+p647
+aVMarko Milic PHX 12/13/1997 PHX @ MIN L 4 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -2
+p648
+aVCedric Ceballos PHX 12/13/1997 PHX @ MIN L 25 20 9 13 69.2 2 5 40.0 0 0 - 2 2 4 1 0 0 0 1 5
+p649
+aVGeorge McCloud PHX 12/11/1997 PHX vs. ATL W 30 8 3 10 30.0 0 3 0.0 2 3 66.7 0 8 8 7 2 1 3 3 12
+p650
+aVBrooks Thompson PHX 12/11/1997 PHX vs. ATL W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p651
+aVHot Rod Williams PHX 12/11/1997 PHX vs. ATL W 23 0 0 1 0.0 0 0 - 0 0 - 1 6 7 1 4 1 1 1 7
+p652
+aVClifford Robinson PHX 12/11/1997 PHX vs. ATL W 26 13 6 12 50.0 0 0 - 1 1 100.0 3 2 5 2 1 1 1 5 5
+p653
+aVMarko Milic PHX 12/11/1997 PHX vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 2
+p654
+aVAntonio McDyess PHX 12/11/1997 PHX vs. ATL W 33 14 7 13 53.8 0 0 - 0 1 0.0 4 6 10 1 1 4 3 4 18
+p655
+aVCedric Ceballos PHX 12/11/1997 PHX vs. ATL W 23 17 7 10 70.0 1 2 50.0 2 5 40.0 0 0 0 1 0 0 0 2 -3
+p656
+aVDanny Manning PHX 12/11/1997 PHX vs. ATL W 29 15 5 10 50.0 0 0 - 5 6 83.3 2 6 8 3 1 1 1 2 7
+p657
+aVJason Kidd PHX 12/11/1997 PHX vs. ATL W 37 4 2 12 16.7 0 3 0.0 0 0 - 1 5 6 11 1 0 4 1 14
+p658
+aVMark Bryant PHX 12/11/1997 PHX vs. ATL W 12 2 0 2 0.0 0 0 - 2 4 50.0 1 1 2 1 0 0 1 2 0
+p659
+aVSteve Nash PHX 12/11/1997 PHX vs. ATL W 25 18 7 9 77.8 4 4 100.0 0 1 0.0 0 0 0 4 0 0 1 1 16
+p660
+aVRex Chapman PHX 12/09/1997 PHX vs. VAN W 22 9 3 8 37.5 1 3 33.3 2 4 50.0 0 2 2 7 1 0 1 0 14
+p661
+aVMark Bryant PHX 12/09/1997 PHX vs. VAN W 19 4 2 3 66.7 0 0 - 0 0 - 0 3 3 2 1 0 0 1 15
+p662
+aVCedric Ceballos PHX 12/09/1997 PHX vs. VAN W 24 21 9 13 69.2 1 2 50.0 2 3 66.7 1 6 7 3 1 0 2 4 2
+p663
+aVAntonio McDyess PHX 12/09/1997 PHX vs. VAN W 37 20 9 15 60.0 0 0 - 2 4 50.0 4 5 9 1 2 4 0 3 19
+p664
+aVClifford Robinson PHX 12/09/1997 PHX vs. VAN W 29 12 5 12 41.7 0 0 - 2 4 50.0 3 2 5 5 1 1 1 0 7
+p665
+aVHot Rod Williams PHX 12/09/1997 PHX vs. VAN W 24 9 2 3 66.7 0 0 - 5 6 83.3 2 3 5 2 1 2 2 1 19
+p666
+aVJason Kidd PHX 12/09/1997 PHX vs. VAN W 30 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 4 2 0 2 0 10
+p667
+aVSteve Nash PHX 12/09/1997 PHX vs. VAN W 27 10 4 8 50.0 2 3 66.7 0 0 - 0 4 4 8 1 0 2 2 16
+p668
+aVDanny Manning PHX 12/09/1997 PHX vs. VAN W 24 14 7 10 70.0 0 0 - 0 0 - 0 3 3 3 1 0 1 5 11
+p669
+aVMarko Milic PHX 12/09/1997 PHX vs. VAN W 5 4 2 3 66.7 0 0 - 0 1 0.0 1 0 1 1 0 0 0 0 -3
+p670
+aVCedric Ceballos PHX 12/07/1997 PHX vs. IND L 8 2 0 2 0.0 0 0 - 2 4 50.0 2 3 5 0 0 0 0 1 -8
+p671
+aVClifford Robinson PHX 12/07/1997 PHX vs. IND L 17 4 2 7 28.6 0 0 - 0 0 - 0 3 3 3 1 0 2 4 -7
+p672
+aVSteve Nash PHX 12/07/1997 PHX vs. IND L 29 9 4 11 36.4 1 2 50.0 0 0 - 0 1 1 3 0 0 1 4 -7
+p673
+aVHot Rod Williams PHX 12/07/1997 PHX vs. IND L 35 12 4 5 80.0 0 0 - 4 6 66.7 5 4 9 1 1 1 1 5 4
+p674
+aVRex Chapman PHX 12/07/1997 PHX vs. IND L 42 9 4 12 33.3 0 1 0.0 1 2 50.0 1 1 2 3 1 0 2 2 -5
+p675
+aVGeorge McCloud PHX 12/07/1997 PHX vs. IND L 36 18 7 17 41.2 4 9 44.4 0 0 - 3 8 11 1 3 0 1 3 3
+p676
+aVAntonio McDyess PHX 12/07/1997 PHX vs. IND L 18 5 2 9 22.2 0 0 - 1 2 50.0 1 0 1 3 1 0 1 0 -11
+p677
+aVJason Kidd PHX 12/07/1997 PHX vs. IND L 45 13 6 10 60.0 1 3 33.3 0 1 0.0 0 5 5 12 0 0 4 2 8
+p678
+aVDanny Manning PHX 12/07/1997 PHX vs. IND L 35 25 11 21 52.4 0 0 - 3 7 42.9 3 9 12 0 2 1 2 2 13
+p679
+aVRex Chapman PHX 12/05/1997 PHX vs. TOR W 31 16 6 13 46.2 4 8 50.0 0 0 - 1 1 2 3 3 0 4 1 6
+p680
+aVMarko Milic PHX 12/05/1997 PHX vs. TOR W 9 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 3 2
+p681
+aVSteve Nash PHX 12/05/1997 PHX vs. TOR W 23 6 1 4 25.0 0 1 0.0 4 4 100.0 1 0 1 3 1 0 1 1 14
+p682
+aVJason Kidd PHX 12/05/1997 PHX vs. TOR W 33 4 2 5 40.0 0 1 0.0 0 1 0.0 2 3 5 14 0 0 4 1 16
+p683
+aVDanny Manning PHX 12/05/1997 PHX vs. TOR W 27 9 4 8 50.0 0 0 - 1 2 50.0 0 7 7 6 2 1 4 2 1
+p684
+aVGeorge McCloud PHX 12/05/1997 PHX vs. TOR W 20 14 6 9 66.7 2 3 66.7 0 0 - 0 4 4 1 0 1 3 0 11
+p685
+aVClifford Robinson PHX 12/05/1997 PHX vs. TOR W 22 17 6 11 54.5 0 0 - 5 8 62.5 0 4 4 4 2 2 2 4 13
+p686
+aVAntonio McDyess PHX 12/05/1997 PHX vs. TOR W 32 19 6 9 66.7 0 0 - 7 7 100.0 1 4 5 3 3 0 2 5 9
+p687
+aVHot Rod Williams PHX 12/05/1997 PHX vs. TOR W 22 8 4 4 100.0 0 0 - 0 0 - 2 4 6 0 2 2 0 2 11
+p688
+aVCedric Ceballos PHX 12/05/1997 PHX vs. TOR W 21 13 5 7 71.4 1 1 100.0 2 2 100.0 2 2 4 0 1 0 1 1 12
+p689
+aVMark Bryant PHX 12/03/1997 PHX @ DET L 17 5 1 2 50.0 0 0 - 3 6 50.0 2 1 3 0 0 1 0 0 -3
+p690
+aVCedric Ceballos PHX 12/03/1997 PHX @ DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p691
+aVJason Kidd PHX 12/03/1997 PHX @ DET L 54 21 7 21 33.3 3 7 42.9 4 4 100.0 2 4 6 10 5 0 4 2 -3
+p692
+aVAntonio McDyess PHX 12/03/1997 PHX @ DET L 30 8 3 9 33.3 0 1 0.0 2 4 50.0 1 4 5 0 0 2 2 3 -4
+p693
+aVDanny Manning PHX 12/03/1997 PHX @ DET L 32 16 8 19 42.1 0 0 - 0 0 - 2 4 6 2 0 1 2 6 1
+p694
+aVGeorge McCloud PHX 12/03/1997 PHX @ DET L 51 15 6 17 35.3 3 9 33.3 0 0 - 3 7 10 8 6 0 0 5 -1
+p695
+aVHot Rod Williams PHX 12/03/1997 PHX @ DET L 49 7 3 8 37.5 0 0 - 1 2 50.0 6 8 14 1 3 0 0 4 -8
+p696
+aVRex Chapman PHX 12/03/1997 PHX @ DET L 54 22 8 24 33.3 4 10 40.0 2 2 100.0 0 4 4 2 2 0 0 2 -10
+p697
+aVClifford Robinson PHX 12/03/1997 PHX @ DET L 10 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 2 0 0 2 1 -2
+p698
+aVSteve Nash PHX 12/03/1997 PHX @ DET L 19 6 2 8 25.0 0 4 0.0 2 2 100.0 0 2 2 2 0 0 2 1 5
+p699
+aVJason Kidd PHX 12/02/1997 PHX @ MIL W 42 14 4 15 26.7 0 2 0.0 6 6 100.0 4 4 8 6 3 0 3 1 6
+p700
+aVRex Chapman PHX 12/02/1997 PHX @ MIL W 40 11 4 13 30.8 0 2 0.0 3 4 75.0 0 3 3 2 0 0 5 1 3
+p701
+aVHot Rod Williams PHX 12/02/1997 PHX @ MIL W 16 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 0 1 1 0 14
+p702
+aVAntonio McDyess PHX 12/02/1997 PHX @ MIL W 32 13 4 9 44.4 0 0 - 5 8 62.5 2 8 10 0 3 3 5 3 -4
+p703
+aVMark Bryant PHX 12/02/1997 PHX @ MIL W 23 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 1 0 0 3 4
+p704
+aVGeorge McCloud PHX 12/02/1997 PHX @ MIL W 26 16 6 12 50.0 1 7 14.3 3 4 75.0 2 2 4 2 1 0 2 2 -11
+p705
+aVClifford Robinson PHX 12/02/1997 PHX @ MIL W 21 12 4 4 100.0 0 0 - 4 6 66.7 5 4 9 3 3 1 3 6 -1
+p706
+aVSteve Nash PHX 12/02/1997 PHX @ MIL W 16 5 1 1 100.0 0 0 - 3 3 100.0 0 1 1 1 1 0 1 2 6
+p707
+aVDanny Manning PHX 12/02/1997 PHX @ MIL W 24 10 4 8 50.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 2 3 3
+p708
+aVMark Bryant PHX 11/29/1997 PHX @ NYK L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -4
+p709
+aVJason Kidd PHX 11/29/1997 PHX @ NYK L 36 10 3 14 21.4 2 5 40.0 2 2 100.0 2 1 3 11 3 0 7 2 -12
+p710
+aVKevin Johnson PHX 11/29/1997 PHX @ NYK L 15 6 3 6 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -18
+p711
+aVRex Chapman PHX 11/29/1997 PHX @ NYK L 23 7 3 10 30.0 1 6 16.7 0 0 - 0 2 2 0 1 0 3 1 -8
+p712
+aVSteve Nash PHX 11/29/1997 PHX @ NYK L 19 9 3 7 42.9 1 1 100.0 2 2 100.0 1 3 4 5 3 0 2 3 -12
+p713
+aVAntonio McDyess PHX 11/29/1997 PHX @ NYK L 24 10 4 7 57.1 0 0 - 2 3 66.7 1 3 4 0 0 0 2 3 -16
+p714
+aVHot Rod Williams PHX 11/29/1997 PHX @ NYK L 24 10 5 7 71.4 0 0 - 0 0 - 2 4 6 0 0 0 1 1 -6
+p715
+aVGeorge McCloud PHX 11/29/1997 PHX @ NYK L 25 5 2 12 16.7 1 8 12.5 0 0 - 3 6 9 2 1 0 0 2 -4
+p716
+aVCedric Ceballos PHX 11/29/1997 PHX @ NYK L 13 6 2 3 66.7 1 1 100.0 1 2 50.0 0 1 1 1 1 0 1 0 -3
+p717
+aVMarko Milic PHX 11/29/1997 PHX @ NYK L 13 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 -8
+p718
+aVClifford Robinson PHX 11/29/1997 PHX @ NYK L 18 2 1 6 16.7 0 3 0.0 0 0 - 1 0 1 1 0 2 3 3 -12
+p719
+aVDanny Manning PHX 11/29/1997 PHX @ NYK L 22 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 1 0 0 2 -7
+p720
+aVClifford Robinson PHX 11/28/1997 PHX @ BOS W 32 26 11 15 73.3 1 2 50.0 3 8 37.5 2 4 6 1 0 1 1 2 14
+p721
+aVJason Kidd PHX 11/28/1997 PHX @ BOS W 45 6 3 11 27.3 0 3 0.0 0 0 - 1 5 6 10 2 0 4 1 7
+p722
+aVSteve Nash PHX 11/28/1997 PHX @ BOS W 11 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 2 0 0 0 1 0
+p723
+aVGeorge McCloud PHX 11/28/1997 PHX @ BOS W 26 13 5 12 41.7 3 6 50.0 0 0 - 1 2 3 4 0 0 2 5 -11
+p724
+aVMark Bryant PHX 11/28/1997 PHX @ BOS W 16 2 1 3 33.3 0 0 - 0 0 - 2 4 6 3 0 0 2 1 4
+p725
+aVDanny Manning PHX 11/28/1997 PHX @ BOS W 27 14 6 12 50.0 0 0 - 2 2 100.0 1 6 7 2 0 0 1 4 11
+p726
+aVRex Chapman PHX 11/28/1997 PHX @ BOS W 40 24 9 15 60.0 4 8 50.0 2 2 100.0 1 2 3 2 1 0 2 2 -3
+p727
+aVCedric Ceballos PHX 11/28/1997 PHX @ BOS W 10 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 2 0 0 1 0 9
+p728
+aVAntonio McDyess PHX 11/28/1997 PHX @ BOS W 24 15 5 11 45.5 0 0 - 5 8 62.5 3 3 6 1 0 0 5 1 -3
+p729
+aVKevin Johnson PHX 11/28/1997 PHX @ BOS W 34 3 1 3 33.3 0 1 0.0 1 2 50.0 0 8 8 5 0 0 1 0 -8
+p730
+aVClifford Robinson PHX 11/26/1997 PHX vs. NJN W 21 9 2 8 25.0 0 1 0.0 5 5 100.0 2 3 5 0 0 0 4 2 7
+p731
+aVSteve Nash PHX 11/26/1997 PHX vs. NJN W 21 14 5 10 50.0 2 3 66.7 2 2 100.0 0 1 1 5 2 0 1 1 12
+p732
+aVKevin Johnson PHX 11/26/1997 PHX vs. NJN W 31 10 2 2 100.0 0 0 - 6 6 100.0 0 6 6 8 1 0 2 2 24
+p733
+aVAntonio McDyess PHX 11/26/1997 PHX vs. NJN W 33 20 8 10 80.0 0 0 - 4 4 100.0 2 8 10 1 1 2 1 4 5
+p734
+aVDanny Manning PHX 11/26/1997 PHX vs. NJN W 31 14 6 11 54.5 0 0 - 2 2 100.0 0 3 3 2 2 4 1 4 2
+p735
+aVMark Bryant PHX 11/26/1997 PHX vs. NJN W 21 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 0 0 1 1 4 12
+p736
+aVCedric Ceballos PHX 11/26/1997 PHX vs. NJN W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 2
+p737
+aVJason Kidd PHX 11/26/1997 PHX vs. NJN W 30 16 7 9 77.8 0 1 0.0 2 2 100.0 1 2 3 6 1 0 5 5 -6
+p738
+aVHot Rod Williams PHX 11/26/1997 PHX vs. NJN W 13 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 2 0 1 0 1 -2
+p739
+aVMarko Milic PHX 11/26/1997 PHX vs. NJN W 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -2
+p740
+aVRex Chapman PHX 11/26/1997 PHX vs. NJN W 29 14 6 13 46.2 2 6 33.3 0 0 - 0 1 1 1 0 1 0 0 6
+p741
+aVSteve Nash PHX 11/20/1997 PHX vs. CHI W 10 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 4 8
+p742
+aVAntonio McDyess PHX 11/20/1997 PHX vs. CHI W 28 10 4 10 40.0 0 0 - 2 2 100.0 0 1 1 0 1 1 2 2 -6
+p743
+aVJason Kidd PHX 11/20/1997 PHX vs. CHI W 40 8 1 5 20.0 0 0 - 6 6 100.0 1 5 6 11 4 0 7 4 3
+p744
+aVClifford Robinson PHX 11/20/1997 PHX vs. CHI W 17 13 5 7 71.4 1 1 100.0 2 2 100.0 1 1 2 0 0 0 1 1 14
+p745
+aVHot Rod Williams PHX 11/20/1997 PHX vs. CHI W 32 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 2 0 0 0 3 1
+p746
+aVMark Bryant PHX 11/20/1997 PHX vs. CHI W 18 3 0 1 0.0 0 0 - 3 4 75.0 2 1 3 0 0 1 2 3 9
+p747
+aVDanny Manning PHX 11/20/1997 PHX vs. CHI W 35 23 9 16 56.3 0 0 - 5 7 71.4 2 6 8 1 0 0 1 1 -8
+p748
+aVKevin Johnson PHX 11/20/1997 PHX vs. CHI W 32 16 5 7 71.4 0 0 - 6 6 100.0 2 3 5 3 1 1 3 2 11
+p749
+aVRex Chapman PHX 11/20/1997 PHX vs. CHI W 29 8 3 11 27.3 1 2 50.0 1 2 50.0 0 2 2 1 0 0 1 2 -12
+p750
+aVKevin Johnson PHX 11/18/1997 PHX vs. MIN L 43 27 10 18 55.6 0 2 0.0 7 9 77.8 1 2 3 8 3 0 4 1 -21
+p751
+aVDanny Manning PHX 11/18/1997 PHX vs. MIN L 29 20 7 12 58.3 0 1 0.0 6 8 75.0 1 10 11 1 0 0 1 5 -18
+p752
+aVSteve Nash PHX 11/18/1997 PHX vs. MIN L 28 6 3 11 27.3 0 3 0.0 0 0 - 1 0 1 4 1 0 4 1 -13
+p753
+aVRex Chapman PHX 11/18/1997 PHX vs. MIN L 41 19 8 17 47.1 3 8 37.5 0 0 - 0 1 1 1 1 0 0 4 -17
+p754
+aVAntonio McDyess PHX 11/18/1997 PHX vs. MIN L 19 4 2 6 33.3 0 0 - 0 0 - 3 2 5 0 1 1 1 2 0
+p755
+aVGeorge McCloud PHX 11/18/1997 PHX vs. MIN L 15 3 1 4 25.0 1 4 25.0 0 0 - 1 1 2 0 0 0 2 3 -3
+p756
+aVHot Rod Williams PHX 11/18/1997 PHX vs. MIN L 13 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 4
+p757
+aVClifford Robinson PHX 11/18/1997 PHX vs. MIN L 27 4 2 5 40.0 0 0 - 0 0 - 4 2 6 0 1 0 1 2 -14
+p758
+aVJason Kidd PHX 11/18/1997 PHX vs. MIN L 26 5 2 8 25.0 0 2 0.0 1 3 33.3 2 4 6 7 2 0 2 3 -8
+p759
+aVKevin Johnson PHX 11/16/1997 PHX vs. HOU W 42 30 12 16 75.0 0 1 0.0 6 6 100.0 1 9 10 6 0 0 3 1 10
+p760
+aVClifford Robinson PHX 11/16/1997 PHX vs. HOU W 25 7 3 7 42.9 1 2 50.0 0 0 - 1 4 5 1 0 0 1 3 11
+p761
+aVCedric Ceballos PHX 11/16/1997 PHX vs. HOU W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p762
+aVDanny Manning PHX 11/16/1997 PHX vs. HOU W 18 10 3 8 37.5 0 0 - 4 4 100.0 1 1 2 0 2 0 2 3 -2
+p763
+aVRex Chapman PHX 11/16/1997 PHX vs. HOU W 32 11 4 13 30.8 0 4 0.0 3 4 75.0 1 1 2 2 3 0 0 1 3
+p764
+aVAntonio McDyess PHX 11/16/1997 PHX vs. HOU W 21 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 1 1 1 1 -1
+p765
+aVJason Kidd PHX 11/16/1997 PHX vs. HOU W 39 21 8 18 44.4 2 6 33.3 3 6 50.0 2 5 7 7 3 0 1 2 0
+p766
+aVSteve Nash PHX 11/16/1997 PHX vs. HOU W 26 9 4 9 44.4 1 1 100.0 0 0 - 4 3 7 2 1 0 1 3 0
+p767
+aVMark Bryant PHX 11/16/1997 PHX vs. HOU W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -13
+p768
+aVHot Rod Williams PHX 11/16/1997 PHX vs. HOU W 23 4 1 6 16.7 0 0 - 2 4 50.0 3 4 7 0 0 1 0 4 5
+p769
+aVClifford Robinson PHX 11/14/1997 PHX @ POR W 43 15 6 9 66.7 1 1 100.0 2 4 50.0 3 2 5 4 2 2 5 3 -17
+p770
+aVMark Bryant PHX 11/14/1997 PHX @ POR W 17 5 1 1 100.0 0 0 - 3 4 75.0 2 3 5 0 0 0 0 3 4
+p771
+aVSteve Nash PHX 11/14/1997 PHX @ POR W 28 11 3 8 37.5 2 4 50.0 3 3 100.0 0 2 2 2 0 0 0 4 11
+p772
+aVAntonio McDyess PHX 11/14/1997 PHX @ POR W 35 17 7 14 50.0 0 0 - 3 4 75.0 1 6 7 0 4 2 1 6 9
+p773
+aVHot Rod Williams PHX 11/14/1997 PHX @ POR W 28 8 4 7 57.1 0 0 - 0 0 - 0 3 3 0 0 0 0 5 2
+p774
+aVJason Kidd PHX 11/14/1997 PHX @ POR W 56 6 2 8 25.0 1 3 33.3 1 1 100.0 1 6 7 16 5 0 6 1 -11
+p775
+aVKevin Johnson PHX 11/14/1997 PHX @ POR W 50 15 3 9 33.3 0 0 - 9 11 81.8 2 11 13 7 0 0 4 4 -4
+p776
+aVDanny Manning PHX 11/14/1997 PHX @ POR W 43 35 14 21 66.7 0 0 - 7 8 87.5 5 5 10 3 1 0 2 5 13
+p777
+aVRex Chapman PHX 11/14/1997 PHX @ POR W 39 28 11 25 44.0 3 10 30.0 3 4 75.0 0 0 0 1 1 1 3 4 -2
+p778
+aVHot Rod Williams PHX 11/12/1997 PHX vs. MIL W 22 4 2 3 66.7 0 0 - 0 1 0.0 2 3 5 1 0 0 0 2 5
+p779
+aVDanny Manning PHX 11/12/1997 PHX vs. MIL W 24 14 6 9 66.7 0 0 - 2 2 100.0 2 3 5 2 1 0 4 3 6
+p780
+aVRex Chapman PHX 11/12/1997 PHX vs. MIL W 33 21 7 15 46.7 3 5 60.0 4 4 100.0 1 3 4 4 2 0 2 0 7
+p781
+aVSteve Nash PHX 11/12/1997 PHX vs. MIL W 21 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 2 1 0 1 0 9
+p782
+aVJason Kidd PHX 11/12/1997 PHX vs. MIL W 43 16 6 11 54.5 0 1 0.0 4 5 80.0 3 10 13 8 4 0 3 1 7
+p783
+aVAntonio McDyess PHX 11/12/1997 PHX vs. MIL W 30 15 6 12 50.0 0 0 - 3 6 50.0 6 4 10 3 1 2 3 3 3
+p784
+aVKevin Johnson PHX 11/12/1997 PHX vs. MIL W 34 8 2 6 33.3 0 1 0.0 4 4 100.0 0 0 0 9 0 0 4 2 7
+p785
+aVClifford Robinson PHX 11/12/1997 PHX vs. MIL W 34 21 8 16 50.0 0 0 - 5 6 83.3 3 2 5 1 3 0 3 4 -4
+p786
+aVRex Chapman PHX 11/08/1997 PHX @ LAC W 28 20 6 13 46.2 2 3 66.7 6 8 75.0 1 2 3 1 0 1 0 0 7
+p787
+aVSteve Nash PHX 11/08/1997 PHX @ LAC W 26 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 1 0 0 2 3 18
+p788
+aVJason Kidd PHX 11/08/1997 PHX @ LAC W 41 29 11 15 73.3 4 6 66.7 3 4 75.0 0 2 2 8 1 1 2 0 19
+p789
+aVHot Rod Williams PHX 11/08/1997 PHX @ LAC W 15 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 8
+p790
+aVKevin Johnson PHX 11/08/1997 PHX @ LAC W 31 3 1 3 33.3 0 0 - 1 3 33.3 0 5 5 6 1 0 1 2 6
+p791
+aVAntonio McDyess PHX 11/08/1997 PHX @ LAC W 10 8 4 5 80.0 0 0 - 0 0 - 0 3 3 1 0 0 0 5 3
+p792
+aVHoracio Llamas PHX 11/08/1997 PHX @ LAC W 3 2 1 5 20.0 0 0 - 0 0 - 3 1 4 0 0 0 2 1 -4
+p793
+aVMark Bryant PHX 11/08/1997 PHX @ LAC W 29 7 3 6 50.0 0 0 - 1 2 50.0 5 2 7 2 0 0 2 5 19
+p794
+aVCedric Ceballos PHX 11/08/1997 PHX @ LAC W 3 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 0 1 0 0 0 -4
+p795
+aVDanny Manning PHX 11/08/1997 PHX @ LAC W 26 21 8 13 61.5 0 0 - 5 5 100.0 2 5 7 3 1 0 0 4 12
+p796
+aVGeorge McCloud PHX 11/08/1997 PHX @ LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -4
+p797
+aVClifford Robinson PHX 11/08/1997 PHX @ LAC W 25 17 6 9 66.7 0 0 - 5 8 62.5 2 2 4 2 2 0 1 4 10
+p798
+aVGeorge McCloud PHX 11/06/1997 PHX vs. NYK L 15 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 0 1 0 0 2 -12
+p799
+aVMark Bryant PHX 11/06/1997 PHX vs. NYK L 14 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 1 0 0 0 2 -3
+p800
+aVHot Rod Williams PHX 11/06/1997 PHX vs. NYK L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p801
+aVHoracio Llamas PHX 11/06/1997 PHX vs. NYK L 6 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 0 2
+p802
+aVDanny Manning PHX 11/06/1997 PHX vs. NYK L 26 16 7 12 58.3 0 0 - 2 4 50.0 1 7 8 2 1 1 1 2 -2
+p803
+aVRex Chapman PHX 11/06/1997 PHX vs. NYK L 17 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 2 3 -15
+p804
+aVSteve Nash PHX 11/06/1997 PHX vs. NYK L 27 4 0 8 0.0 0 3 0.0 4 4 100.0 1 2 3 5 1 0 1 0 -1
+p805
+aVJason Kidd PHX 11/06/1997 PHX vs. NYK L 29 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 2 0 0 2 2 -32
+p806
+aVClifford Robinson PHX 11/06/1997 PHX vs. NYK L 25 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 1 0 2 4 -30
+p807
+aVCedric Ceballos PHX 11/06/1997 PHX vs. NYK L 24 8 3 7 42.9 0 0 - 2 2 100.0 0 4 4 0 1 0 1 3 -1
+p808
+aVKevin Johnson PHX 11/06/1997 PHX vs. NYK L 27 8 2 10 20.0 0 2 0.0 4 5 80.0 0 1 1 3 0 0 1 1 -34
+p809
+aVAntonio McDyess PHX 11/06/1997 PHX vs. NYK L 29 19 7 14 50.0 0 0 - 5 8 62.5 5 3 8 0 0 1 1 1 -22
+p810
+aVHot Rod Williams PHX 11/04/1997 PHX vs. UTA W 10 4 2 2 100.0 0 0 - 0 0 - 1 1 2 2 0 0 0 6 5
+p811
+aVCedric Ceballos PHX 11/04/1997 PHX vs. UTA W 17 10 5 6 83.3 0 0 - 0 0 - 2 2 4 0 0 1 0 1 6
+p812
+aVDanny Manning PHX 11/04/1997 PHX vs. UTA W 19 9 4 10 40.0 0 0 - 1 2 50.0 0 7 7 1 0 1 0 3 15
+p813
+aVAntonio McDyess PHX 11/04/1997 PHX vs. UTA W 21 13 5 10 50.0 0 0 - 3 5 60.0 0 4 4 0 0 2 0 3 12
+p814
+aVGeorge McCloud PHX 11/04/1997 PHX vs. UTA W 10 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 6
+p815
+aVClifford Robinson PHX 11/04/1997 PHX vs. UTA W 25 13 5 6 83.3 0 0 - 3 4 75.0 0 5 5 1 1 1 1 3 8
+p816
+aVSteve Nash PHX 11/04/1997 PHX vs. UTA W 16 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 2 1 0 2 4 9
+p817
+aVMark Bryant PHX 11/04/1997 PHX vs. UTA W 13 5 2 2 100.0 0 0 - 1 1 100.0 1 3 4 0 0 0 0 2 0
+p818
+aVKevin Johnson PHX 11/04/1997 PHX vs. UTA W 33 23 3 9 33.3 1 2 50.0 16 16 100.0 0 2 2 2 1 0 3 3 7
+p819
+aVJason Kidd PHX 11/04/1997 PHX vs. UTA W 40 11 3 7 42.9 1 2 50.0 4 5 80.0 1 6 7 13 2 1 3 1 21
+p820
+aVHoracio Llamas PHX 11/04/1997 PHX vs. UTA W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 4
+p821
+aVRex Chapman PHX 11/04/1997 PHX vs. UTA W 32 8 4 10 40.0 0 2 0.0 0 0 - 0 1 1 2 1 0 5 2 17
+p822
+aVDanny Manning PHX 10/31/1997 PHX vs. LAC W 27 14 5 9 55.6 0 0 - 4 6 66.7 1 5 6 1 2 0 1 3 11
+p823
+aVJason Kidd PHX 10/31/1997 PHX vs. LAC W 44 6 2 8 25.0 0 0 - 2 2 100.0 4 10 14 16 6 0 3 2 10
+p824
+aVSteve Nash PHX 10/31/1997 PHX vs. LAC W 20 19 8 11 72.7 2 3 66.7 1 1 100.0 0 2 2 2 2 0 1 0 12
+p825
+aVAntonio McDyess PHX 10/31/1997 PHX vs. LAC W 28 17 4 7 57.1 0 0 - 9 10 90.0 3 3 6 0 0 4 3 4 8
+p826
+aVHot Rod Williams PHX 10/31/1997 PHX vs. LAC W 18 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 1 3 0 0 13
+p827
+aVKevin Johnson PHX 10/31/1997 PHX vs. LAC W 38 15 5 12 41.7 1 2 50.0 4 6 66.7 0 1 1 5 0 0 4 0 3
+p828
+aVClifford Robinson PHX 10/31/1997 PHX vs. LAC W 29 9 3 7 42.9 0 0 - 3 4 75.0 3 6 9 1 0 1 1 2 -7
+p829
+aVRex Chapman PHX 10/31/1997 PHX vs. LAC W 35 24 9 18 50.0 1 3 33.3 5 6 83.3 1 1 2 3 0 0 3 2 0
+p830
+a.

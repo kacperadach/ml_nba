@@ -1,0 +1,1384 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVNolan Smith POR 04/26/2012 POR @ UTA L 35 16 6 12 50.0 1 3 33.3 3 4 75.0 1 1 2 7 2 0 2 4 1
+p2
+aVKurt Thomas POR 04/26/2012 POR @ UTA L 26 10 5 7 71.4 0 0 - 0 0 - 0 6 6 4 3 1 1 2 7
+p3
+aVJonny Flynn POR 04/26/2012 POR @ UTA L 34 18 6 14 42.9 1 3 33.3 5 5 100.0 1 4 5 11 0 0 3 0 4
+p4
+aVLuke Babbitt POR 04/26/2012 POR @ UTA L 38 7 3 11 27.3 1 8 12.5 0 0 - 1 4 5 0 0 0 2 3 -5
+p5
+aVJoel Przybilla POR 04/26/2012 POR @ UTA L 17 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 4 -7
+p6
+aVWesley Matthews POR 04/26/2012 POR @ UTA L 44 14 4 18 22.2 3 11 27.3 3 3 100.0 0 4 4 2 1 0 1 2 -3
+p7
+aVJJ Hickson POR 04/26/2012 POR @ UTA L 39 20 10 13 76.9 0 0 - 0 2 0.0 2 7 9 0 2 2 4 3 -12
+p8
+aVCraig Smith POR 04/26/2012 POR @ UTA L 7 7 2 4 50.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 1 5
+p9
+aVWesley Matthews POR 04/23/2012 POR @ SAS L 45 24 9 24 37.5 3 6 50.0 3 3 100.0 3 3 6 2 4 0 0 2 -31
+p10
+aVLuke Babbitt POR 04/23/2012 POR @ SAS L 31 5 2 6 33.3 1 2 50.0 0 0 - 1 3 4 1 1 0 1 4 -18
+p11
+aVKurt Thomas POR 04/23/2012 POR @ SAS L 20 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 1 0 0 1 -24
+p12
+aVJonny Flynn POR 04/23/2012 POR @ SAS L 18 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 3 0 1 3 1 -8
+p13
+aVHasheem Thabeet POR 04/23/2012 POR @ SAS L 10 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 2 1 3 -8
+p14
+aVRaymond Felton POR 04/23/2012 POR @ SAS L 34 13 5 16 31.3 1 2 50.0 2 2 100.0 1 2 3 7 2 0 4 2 -29
+p15
+aVNolan Smith POR 04/23/2012 POR @ SAS L 34 10 5 12 41.7 0 3 0.0 0 0 - 2 4 6 5 1 0 2 0 -22
+p16
+aVCraig Smith POR 04/23/2012 POR @ SAS L 16 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -13
+p17
+aVJJ Hickson POR 04/23/2012 POR @ SAS L 32 14 5 15 33.3 0 0 - 4 6 66.7 3 7 10 1 1 2 2 4 -22
+p18
+aVWesley Matthews POR 04/21/2012 POR @ MEM L 43 16 7 17 41.2 2 8 25.0 0 0 - 1 6 7 0 1 0 1 2 0
+p19
+aVLuke Babbitt POR 04/21/2012 POR @ MEM L 41 10 3 10 30.0 2 6 33.3 2 2 100.0 1 6 7 2 2 0 3 1 -9
+p20
+aVJonny Flynn POR 04/21/2012 POR @ MEM L 13 2 0 5 0.0 0 2 0.0 2 2 100.0 1 2 3 3 0 0 0 2 -1
+p21
+aVCraig Smith POR 04/21/2012 POR @ MEM L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p22
+aVJamal Crawford POR 04/21/2012 POR @ MEM L 32 21 5 13 38.5 2 6 33.3 9 10 90.0 1 1 2 3 3 0 2 1 3
+p23
+aVHasheem Thabeet POR 04/21/2012 POR @ MEM L 20 3 1 5 20.0 0 0 - 1 4 25.0 4 4 8 0 1 0 1 2 -7
+p24
+aVKurt Thomas POR 04/21/2012 POR @ MEM L 16 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 2 -5
+p25
+aVNolan Smith POR 04/21/2012 POR @ MEM L 35 8 2 8 25.0 0 2 0.0 4 4 100.0 0 2 2 6 0 0 3 1 -2
+p26
+aVJJ Hickson POR 04/21/2012 POR @ MEM L 38 23 9 16 56.3 0 0 - 5 7 71.4 7 6 13 1 0 0 4 4 4
+p27
+aVWesley Matthews POR 04/18/2012 POR vs. UTA L 37 21 7 15 46.7 3 7 42.9 4 4 100.0 0 4 4 2 2 0 3 3 -21
+p28
+aVNolan Smith POR 04/18/2012 POR vs. UTA L 39 16 7 16 43.8 1 5 20.0 1 2 50.0 1 2 3 0 1 0 3 4 -18
+p29
+aVKurt Thomas POR 04/18/2012 POR vs. UTA L 19 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 0 0 0 1 3 -4
+p30
+aVCraig Smith POR 04/18/2012 POR vs. UTA L 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 3 0 0 0 2 -4
+p31
+aVJJ Hickson POR 04/18/2012 POR vs. UTA L 39 16 4 11 36.4 0 0 - 8 10 80.0 4 5 9 3 0 2 3 3 -18
+p32
+aVLuke Babbitt POR 04/18/2012 POR vs. UTA L 35 16 6 17 35.3 2 7 28.6 2 2 100.0 1 4 5 0 2 1 0 2 -5
+p33
+aVNicolas Batum POR 04/18/2012 POR vs. UTA L 15 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 3 2 0 2 0 -18
+p34
+aVHasheem Thabeet POR 04/18/2012 POR vs. UTA L 17 4 1 2 50.0 0 0 - 2 2 100.0 3 3 6 0 0 2 3 2 -17
+p35
+aVJonny Flynn POR 04/18/2012 POR vs. UTA L 25 11 3 7 42.9 0 0 - 5 7 71.4 1 1 2 7 0 0 2 1 0
+p36
+aVNolan Smith POR 04/16/2012 POR @ PHX L 33 14 6 14 42.9 1 2 50.0 1 1 100.0 1 2 3 5 2 0 0 4 -7
+p37
+aVLuke Babbitt POR 04/16/2012 POR @ PHX L 39 18 7 17 41.2 4 9 44.4 0 0 - 0 5 5 2 0 0 2 3 -11
+p38
+aVJJ Hickson POR 04/16/2012 POR @ PHX L 37 22 9 15 60.0 0 0 - 4 4 100.0 7 1 8 1 0 0 3 3 -23
+p39
+aVJamal Crawford POR 04/16/2012 POR @ PHX L 36 22 7 16 43.8 0 4 0.0 8 10 80.0 1 4 5 4 1 0 3 0 -10
+p40
+aVWesley Matthews POR 04/16/2012 POR @ PHX L 40 19 8 17 47.1 3 5 60.0 0 0 - 2 2 4 0 2 1 2 2 -25
+p41
+aVHasheem Thabeet POR 04/16/2012 POR @ PHX L 13 5 1 1 100.0 0 0 - 3 4 75.0 2 2 4 0 0 1 0 1 0
+p42
+aVJoel Przybilla POR 04/16/2012 POR @ PHX L 10 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -8
+p43
+aVCraig Smith POR 04/16/2012 POR @ PHX L 8 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 1 2 1 -2
+p44
+aVJonny Flynn POR 04/16/2012 POR @ PHX L 24 4 2 5 40.0 0 1 0.0 0 2 0.0 0 2 2 6 1 0 2 2 -4
+p45
+aVRaymond Felton POR 04/15/2012 POR @ SAC L 29 19 8 17 47.1 2 7 28.6 1 1 100.0 0 2 2 4 1 0 4 1 -3
+p46
+aVHasheem Thabeet POR 04/15/2012 POR @ SAC L 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 -12
+p47
+aVNolan Smith POR 04/15/2012 POR @ SAC L 21 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 2 0 1 0 2 -5
+p48
+aVNicolas Batum POR 04/15/2012 POR @ SAC L 36 14 6 11 54.5 2 5 40.0 0 0 - 1 3 4 3 0 1 2 2 3
+p49
+aVJJ Hickson POR 04/15/2012 POR @ SAC L 35 10 4 8 50.0 0 0 - 2 4 50.0 3 10 13 2 1 2 1 1 0
+p50
+aVWesley Matthews POR 04/15/2012 POR @ SAC L 38 31 10 16 62.5 8 10 80.0 3 3 100.0 1 2 3 3 1 1 4 2 -2
+p51
+aVJonny Flynn POR 04/15/2012 POR @ SAC L 19 9 4 9 44.4 1 4 25.0 0 0 - 0 4 4 5 0 0 3 0 2
+p52
+aVLuke Babbitt POR 04/15/2012 POR @ SAC L 22 9 3 7 42.9 2 5 40.0 1 2 50.0 1 2 3 2 0 0 1 0 2
+p53
+aVJoel Przybilla POR 04/15/2012 POR @ SAC L 26 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 2 2 3 10
+p54
+aVJJ Hickson POR 04/13/2012 POR vs. DAL L 41 13 5 12 41.7 0 0 - 3 6 50.0 5 5 10 2 1 0 0 2 1
+p55
+aVJonny Flynn POR 04/13/2012 POR vs. DAL L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 5 0 0 1 0 6
+p56
+aVHasheem Thabeet POR 04/13/2012 POR vs. DAL L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 -10
+p57
+aVNicolas Batum POR 04/13/2012 POR vs. DAL L 36 20 7 12 58.3 3 7 42.9 3 5 60.0 1 7 8 3 2 1 1 3 5
+p58
+aVLuke Babbitt POR 04/13/2012 POR vs. DAL L 19 8 3 8 37.5 2 4 50.0 0 0 - 1 3 4 0 0 0 2 3 -10
+p59
+aVJoel Przybilla POR 04/13/2012 POR vs. DAL L 16 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 1 0 1 2 -12
+p60
+aVWesley Matthews POR 04/13/2012 POR vs. DAL L 41 15 6 16 37.5 1 4 25.0 2 2 100.0 3 4 7 4 3 0 1 2 2
+p61
+aVJamal Crawford POR 04/13/2012 POR vs. DAL L 27 18 6 17 35.3 0 6 0.0 6 6 100.0 1 2 3 2 2 0 1 0 10
+p62
+aVRaymond Felton POR 04/13/2012 POR vs. DAL L 36 12 5 11 45.5 0 3 0.0 2 2 100.0 0 0 0 4 0 0 5 1 -9
+p63
+aVNolan Smith POR 04/13/2012 POR vs. DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p64
+aVCraig Smith POR 04/11/2012 POR vs. GSW W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 1 0 1 4
+p65
+aVHasheem Thabeet POR 04/11/2012 POR vs. GSW W 3 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -3
+p66
+aVLuke Babbitt POR 04/11/2012 POR vs. GSW W 18 6 2 7 28.6 1 3 33.3 1 2 50.0 1 2 3 0 0 0 0 1 -2
+p67
+aVJoel Przybilla POR 04/11/2012 POR vs. GSW W 27 2 1 2 50.0 0 0 - 0 2 0.0 1 13 14 1 0 0 1 5 4
+p68
+aVNolan Smith POR 04/11/2012 POR vs. GSW W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 2 0 1 0 -6
+p69
+aVWesley Matthews POR 04/11/2012 POR vs. GSW W 33 18 7 15 46.7 2 4 50.0 2 2 100.0 2 2 4 1 1 0 1 1 8
+p70
+aVJamal Crawford POR 04/11/2012 POR vs. GSW W 31 34 10 18 55.6 1 3 33.3 13 13 100.0 0 1 1 1 2 1 4 0 2
+p71
+aVJJ Hickson POR 04/11/2012 POR vs. GSW W 40 23 10 17 58.8 0 0 - 3 3 100.0 5 8 13 3 0 1 0 2 11
+p72
+aVRaymond Felton POR 04/11/2012 POR vs. GSW W 33 16 6 11 54.5 2 3 66.7 2 2 100.0 1 0 1 10 1 0 4 0 14
+p73
+aVNicolas Batum POR 04/11/2012 POR vs. GSW W 32 14 5 12 41.7 4 9 44.4 0 0 - 1 4 5 0 2 2 1 2 8
+p74
+aVJamal Crawford POR 04/09/2012 POR vs. HOU L 38 18 4 14 28.6 1 4 25.0 9 9 100.0 3 2 5 3 3 1 1 2 3
+p75
+aVHasheem Thabeet POR 04/09/2012 POR vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p76
+aVJJ Hickson POR 04/09/2012 POR vs. HOU L 32 12 5 11 45.5 0 1 0.0 2 2 100.0 5 5 10 3 0 2 2 3 -12
+p77
+aVLuke Babbitt POR 04/09/2012 POR vs. HOU L 22 8 3 7 42.9 1 4 25.0 1 2 50.0 0 3 3 0 1 0 1 1 -11
+p78
+aVJonny Flynn POR 04/09/2012 POR vs. HOU L 4 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 0 0 0 2 0 -5
+p79
+aVWesley Matthews POR 04/09/2012 POR vs. HOU L 35 7 3 12 25.0 1 6 16.7 0 0 - 2 5 7 0 0 0 1 1 5
+p80
+aVRaymond Felton POR 04/09/2012 POR vs. HOU L 32 14 6 11 54.5 2 3 66.7 0 0 - 0 2 2 8 2 0 3 3 14
+p81
+aVLaMarcus Aldridge POR 04/09/2012 POR vs. HOU L 38 20 7 15 46.7 1 1 100.0 5 6 83.3 1 5 6 2 2 2 1 2 6
+p82
+aVJoel Przybilla POR 04/09/2012 POR vs. HOU L 20 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 0 2 1 1 1
+p83
+aVNolan Smith POR 04/09/2012 POR vs. HOU L 16 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 2 3 -19
+p84
+aVJoel Przybilla POR 04/07/2012 POR @ MIL L 26 4 2 2 100.0 0 0 - 0 0 - 1 9 10 0 1 0 1 3 2
+p85
+aVLuke Babbitt POR 04/07/2012 POR @ MIL L 18 12 3 6 50.0 2 4 50.0 4 4 100.0 0 3 3 0 0 0 0 2 -21
+p86
+aVNicolas Batum POR 04/07/2012 POR @ MIL L 27 9 4 8 50.0 1 5 20.0 0 0 - 0 2 2 1 0 0 0 1 -11
+p87
+aVRaymond Felton POR 04/07/2012 POR @ MIL L 32 10 4 11 36.4 0 3 0.0 2 2 100.0 0 0 0 10 1 0 5 1 -9
+p88
+aVHasheem Thabeet POR 04/07/2012 POR @ MIL L 2 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -4
+p89
+aVJamal Crawford POR 04/07/2012 POR @ MIL L 27 11 3 11 27.3 1 2 50.0 4 4 100.0 0 2 2 3 2 0 2 1 -10
+p90
+aVJJ Hickson POR 04/07/2012 POR @ MIL L 21 9 3 7 42.9 0 0 - 3 4 75.0 3 2 5 0 0 1 1 0 -14
+p91
+aVWesley Matthews POR 04/07/2012 POR @ MIL L 36 14 4 12 33.3 2 7 28.6 4 4 100.0 0 2 2 2 3 0 1 1 -12
+p92
+aVJonny Flynn POR 04/07/2012 POR @ MIL L 12 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 3 1 -13
+p93
+aVNolan Smith POR 04/07/2012 POR @ MIL L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p94
+aVLaMarcus Aldridge POR 04/07/2012 POR @ MIL L 31 21 9 17 52.9 0 0 - 3 3 100.0 1 2 3 3 2 1 1 3 -14
+p95
+aVWesley Matthews POR 04/06/2012 POR @ DAL W 37 9 4 11 36.4 1 5 20.0 0 0 - 1 2 3 1 2 0 1 5 13
+p96
+aVJonny Flynn POR 04/06/2012 POR @ DAL W 10 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 1 -18
+p97
+aVJoel Przybilla POR 04/06/2012 POR @ DAL W 13 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -1
+p98
+aVLaMarcus Aldridge POR 04/06/2012 POR @ DAL W 44 25 11 24 45.8 0 0 - 3 4 75.0 6 6 12 2 0 1 1 1 3
+p99
+aVHasheem Thabeet POR 04/06/2012 POR @ DAL W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -1
+p100
+aVJJ Hickson POR 04/06/2012 POR @ DAL W 27 8 4 11 36.4 0 0 - 0 0 - 2 5 7 0 0 0 1 0 1
+p101
+aVJamal Crawford POR 04/06/2012 POR @ DAL W 29 14 4 14 28.6 1 4 25.0 5 6 83.3 1 3 4 3 0 0 3 2 -5
+p102
+aVNicolas Batum POR 04/06/2012 POR @ DAL W 40 6 3 9 33.3 0 3 0.0 0 0 - 1 8 9 5 0 0 1 0 20
+p103
+aVLuke Babbitt POR 04/06/2012 POR @ DAL W 13 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -22
+p104
+aVRaymond Felton POR 04/06/2012 POR @ DAL W 43 30 12 18 66.7 5 8 62.5 1 1 100.0 1 6 7 6 2 0 2 1 20
+p105
+aVJonny Flynn POR 04/04/2012 POR vs. NJN W 15 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 3 0 -25
+p106
+aVJamal Crawford POR 04/04/2012 POR vs. NJN W 19 7 3 10 30.0 1 2 50.0 0 0 - 0 0 0 1 2 0 0 1 -18
+p107
+aVLuke Babbitt POR 04/04/2012 POR vs. NJN W 18 6 2 5 40.0 2 5 40.0 0 0 - 1 2 3 2 0 0 2 1 -20
+p108
+aVNicolas Batum POR 04/04/2012 POR vs. NJN W 37 20 7 14 50.0 4 8 50.0 2 2 100.0 2 8 10 2 2 0 2 0 18
+p109
+aVRaymond Felton POR 04/04/2012 POR vs. NJN W 33 14 5 8 62.5 3 4 75.0 1 2 50.0 0 8 8 9 2 1 3 0 38
+p110
+aVJoel Przybilla POR 04/04/2012 POR vs. NJN W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 2 11
+p111
+aVNolan Smith POR 04/04/2012 POR vs. NJN W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -10
+p112
+aVJJ Hickson POR 04/04/2012 POR vs. NJN W 25 18 7 10 70.0 0 0 - 4 6 66.7 1 7 8 1 1 3 0 2 10
+p113
+aVWesley Matthews POR 04/04/2012 POR vs. NJN W 35 7 1 9 11.1 1 3 33.3 4 4 100.0 0 3 3 4 2 0 0 3 36
+p114
+aVLaMarcus Aldridge POR 04/04/2012 POR vs. NJN W 37 24 10 18 55.6 0 0 - 4 5 80.0 5 4 9 3 0 2 2 3 29
+p115
+aVHasheem Thabeet POR 04/04/2012 POR vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p116
+aVNicolas Batum POR 04/02/2012 POR vs. UTA L 44 16 6 17 35.3 4 9 44.4 0 0 - 1 9 10 2 2 3 2 3 -9
+p117
+aVRaymond Felton POR 04/02/2012 POR vs. UTA L 34 4 2 10 20.0 0 2 0.0 0 0 - 1 8 9 8 1 0 4 3 -4
+p118
+aVWesley Matthews POR 04/02/2012 POR vs. UTA L 40 33 10 12 83.3 5 6 83.3 8 10 80.0 0 1 1 3 2 0 2 3 -5
+p119
+aVJonny Flynn POR 04/02/2012 POR vs. UTA L 14 5 1 5 20.0 1 1 100.0 2 3 66.7 0 1 1 6 0 0 0 0 -1
+p120
+aVLuke Babbitt POR 04/02/2012 POR vs. UTA L 10 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 4
+p121
+aVJoel Przybilla POR 04/02/2012 POR vs. UTA L 22 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 1 1 4 -3
+p122
+aVNolan Smith POR 04/02/2012 POR vs. UTA L 8 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 1 0 0 1 2 6
+p123
+aVHasheem Thabeet POR 04/02/2012 POR vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p124
+aVLaMarcus Aldridge POR 04/02/2012 POR vs. UTA L 38 27 11 22 50.0 0 0 - 5 5 100.0 4 3 7 1 1 2 4 3 -9
+p125
+aVJJ Hickson POR 04/02/2012 POR vs. UTA L 28 4 2 8 25.0 0 0 - 0 0 - 3 2 5 2 0 0 2 0 -4
+p126
+aVLaMarcus Aldridge POR 04/01/2012 POR vs. MIN W 37 26 10 17 58.8 0 0 - 6 6 100.0 2 6 8 2 0 1 2 3 4
+p127
+aVLuke Babbitt POR 04/01/2012 POR vs. MIN W 18 8 3 6 50.0 2 3 66.7 0 0 - 1 3 4 0 0 0 0 3 -2
+p128
+aVWesley Matthews POR 04/01/2012 POR vs. MIN W 36 18 7 14 50.0 2 8 25.0 2 2 100.0 1 2 3 1 1 0 1 3 9
+p129
+aVJJ Hickson POR 04/01/2012 POR vs. MIN W 35 15 6 10 60.0 0 0 - 3 4 75.0 4 5 9 0 0 1 1 3 24
+p130
+aVJamal Crawford POR 04/01/2012 POR vs. MIN W 27 12 6 11 54.5 0 4 0.0 0 0 - 0 4 4 1 0 0 1 1 8
+p131
+aVNicolas Batum POR 04/01/2012 POR vs. MIN W 34 24 7 15 46.7 4 9 44.4 6 7 85.7 1 4 5 0 0 2 1 3 6
+p132
+aVRaymond Felton POR 04/01/2012 POR vs. MIN W 30 10 4 11 36.4 1 3 33.3 1 1 100.0 4 4 8 11 1 0 2 2 3
+p133
+aVCraig Smith POR 04/01/2012 POR vs. MIN W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p134
+aVJonny Flynn POR 04/01/2012 POR vs. MIN W 18 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 7 0 0 2 3 10
+p135
+aVHasheem Thabeet POR 03/30/2012 POR @ LAC L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 1
+p136
+aVKurt Thomas POR 03/30/2012 POR @ LAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 1 0 1 2 1
+p137
+aVJamal Crawford POR 03/30/2012 POR @ LAC L 29 14 5 12 41.7 2 3 66.7 2 2 100.0 0 1 1 3 0 0 0 1 7
+p138
+aVLuke Babbitt POR 03/30/2012 POR @ LAC L 21 8 3 5 60.0 2 4 50.0 0 0 - 0 3 3 1 0 0 0 4 15
+p139
+aVJoel Przybilla POR 03/30/2012 POR @ LAC L 16 0 0 1 0.0 0 0 - 0 0 - 3 4 7 0 1 1 0 2 -7
+p140
+aVNicolas Batum POR 03/30/2012 POR @ LAC L 38 18 7 13 53.8 2 5 40.0 2 2 100.0 1 5 6 2 1 0 2 2 -2
+p141
+aVJJ Hickson POR 03/30/2012 POR @ LAC L 36 29 13 19 68.4 0 0 - 3 7 42.9 5 8 13 2 0 0 3 2 -5
+p142
+aVRaymond Felton POR 03/30/2012 POR @ LAC L 33 9 3 9 33.3 1 2 50.0 2 2 100.0 2 0 2 8 1 0 4 3 -11
+p143
+aVWesley Matthews POR 03/30/2012 POR @ LAC L 36 12 5 13 38.5 0 3 0.0 2 2 100.0 0 2 2 1 2 0 2 1 -14
+p144
+aVJonny Flynn POR 03/30/2012 POR @ LAC L 15 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 3 0 0 1 1 10
+p145
+aVJJ Hickson POR 03/29/2012 POR vs. NOH W 29 12 6 10 60.0 0 0 - 0 0 - 3 3 6 0 2 1 1 3 3
+p146
+aVJamal Crawford POR 03/29/2012 POR vs. NOH W 22 2 0 6 0.0 0 5 0.0 2 2 100.0 0 0 0 2 1 1 0 0 0
+p147
+aVLaMarcus Aldridge POR 03/29/2012 POR vs. NOH W 36 25 11 18 61.1 0 0 - 3 4 75.0 4 8 12 5 1 0 2 4 4
+p148
+aVJonny Flynn POR 03/29/2012 POR vs. NOH W 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -4
+p149
+aVNicolas Batum POR 03/29/2012 POR vs. NOH W 30 14 5 11 45.5 3 7 42.9 1 1 100.0 1 3 4 3 0 2 2 2 6
+p150
+aVWesley Matthews POR 03/29/2012 POR vs. NOH W 41 18 7 15 46.7 3 7 42.9 1 2 50.0 0 0 0 2 0 2 0 2 11
+p151
+aVRaymond Felton POR 03/29/2012 POR vs. NOH W 33 12 5 10 50.0 2 3 66.7 0 2 0.0 0 4 4 10 3 0 2 1 10
+p152
+aVJoel Przybilla POR 03/29/2012 POR vs. NOH W 17 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 0 3 2
+p153
+aVLuke Babbitt POR 03/29/2012 POR vs. NOH W 17 16 5 8 62.5 4 6 66.7 2 2 100.0 1 2 3 1 1 1 1 3 -2
+p154
+aVHasheem Thabeet POR 03/27/2012 POR vs. OKC L 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 5
+p155
+aVWesley Matthews POR 03/27/2012 POR vs. OKC L 34 17 5 13 38.5 2 4 50.0 5 5 100.0 2 1 3 1 4 0 0 2 -9
+p156
+aVJJ Hickson POR 03/27/2012 POR vs. OKC L 26 21 9 10 90.0 0 0 - 3 6 50.0 1 3 4 0 3 1 1 2 -17
+p157
+aVLaMarcus Aldridge POR 03/27/2012 POR vs. OKC L 37 20 9 16 56.3 0 0 - 2 2 100.0 3 5 8 3 0 1 2 2 -5
+p158
+aVJamal Crawford POR 03/27/2012 POR vs. OKC L 20 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 1 1 0 2 1 -18
+p159
+aVKurt Thomas POR 03/27/2012 POR vs. OKC L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 2 2 -4
+p160
+aVJonny Flynn POR 03/27/2012 POR vs. OKC L 25 10 3 6 50.0 1 2 50.0 3 4 75.0 1 2 3 5 0 0 1 2 -5
+p161
+aVNicolas Batum POR 03/27/2012 POR vs. OKC L 31 13 4 11 36.4 1 3 33.3 4 4 100.0 1 0 1 1 0 1 1 2 -12
+p162
+aVJoel Przybilla POR 03/27/2012 POR vs. OKC L 15 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -2
+p163
+aVNolan Smith POR 03/27/2012 POR vs. OKC L 26 3 1 9 11.1 1 2 50.0 0 0 - 1 1 2 3 1 0 1 2 -4
+p164
+aVLuke Babbitt POR 03/27/2012 POR vs. OKC L 13 6 2 3 66.7 2 2 100.0 0 0 - 0 2 2 0 0 0 1 1 1
+p165
+aVLaMarcus Aldridge POR 03/25/2012 POR vs. GSW W 38 18 6 12 50.0 0 1 0.0 6 10 60.0 1 8 9 4 1 3 2 3 0
+p166
+aVJJ Hickson POR 03/25/2012 POR vs. GSW W 17 4 2 7 28.6 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -5
+p167
+aVNolan Smith POR 03/25/2012 POR vs. GSW W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -8
+p168
+aVJamal Crawford POR 03/25/2012 POR vs. GSW W 28 4 1 10 10.0 0 4 0.0 2 2 100.0 1 1 2 1 0 0 1 0 -8
+p169
+aVWesley Matthews POR 03/25/2012 POR vs. GSW W 36 10 2 12 16.7 2 8 25.0 4 6 66.7 1 3 4 2 3 0 0 2 0
+p170
+aVRaymond Felton POR 03/25/2012 POR vs. GSW W 34 24 9 17 52.9 4 7 57.1 2 4 50.0 2 3 5 7 2 1 1 1 15
+p171
+aVLuke Babbitt POR 03/25/2012 POR vs. GSW W 9 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 0 1 -1
+p172
+aVJoel Przybilla POR 03/25/2012 POR vs. GSW W 15 5 1 3 33.3 0 0 - 3 4 75.0 3 4 7 1 0 1 1 1 3
+p173
+aVKurt Thomas POR 03/25/2012 POR vs. GSW W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 4
+p174
+aVNicolas Batum POR 03/25/2012 POR vs. GSW W 36 17 7 16 43.8 2 6 33.3 1 1 100.0 3 5 8 3 1 3 1 1 15
+p175
+aVJamal Crawford POR 03/23/2012 POR @ LAL L 27 10 3 14 21.4 2 5 40.0 2 2 100.0 0 0 0 2 2 0 2 0 -3
+p176
+aVJoel Przybilla POR 03/23/2012 POR @ LAL L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p177
+aVNolan Smith POR 03/23/2012 POR @ LAL L 17 6 3 3 100.0 0 0 - 0 0 - 0 1 1 3 1 0 2 3 8
+p178
+aVNicolas Batum POR 03/23/2012 POR @ LAL L 33 9 3 9 33.3 1 5 20.0 2 2 100.0 1 2 3 1 2 0 0 0 -12
+p179
+aVLaMarcus Aldridge POR 03/23/2012 POR @ LAL L 41 29 12 18 66.7 0 0 - 5 5 100.0 2 7 9 2 2 0 3 4 -3
+p180
+aVLuke Babbitt POR 03/23/2012 POR @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 7
+p181
+aVJJ Hickson POR 03/23/2012 POR @ LAL L 22 14 6 9 66.7 0 0 - 2 5 40.0 1 1 2 2 1 0 1 2 -4
+p182
+aVKurt Thomas POR 03/23/2012 POR @ LAL L 13 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 2 0
+p183
+aVRaymond Felton POR 03/23/2012 POR @ LAL L 31 6 2 11 18.2 1 2 50.0 1 1 100.0 0 2 2 6 0 0 2 3 -15
+p184
+aVWesley Matthews POR 03/23/2012 POR @ LAL L 36 16 5 14 35.7 4 8 50.0 2 2 100.0 1 4 5 2 1 0 0 1 -11
+p185
+aVNolan Smith POR 03/22/2012 POR vs. MEM W 11 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 3 7
+p186
+aVRaymond Felton POR 03/22/2012 POR vs. MEM W 33 13 5 13 38.5 0 2 0.0 3 3 100.0 0 4 4 9 1 1 0 3 -4
+p187
+aVWesley Matthews POR 03/22/2012 POR vs. MEM W 38 18 5 12 41.7 4 8 50.0 4 4 100.0 1 8 9 1 3 1 2 1 2
+p188
+aVJoel Przybilla POR 03/22/2012 POR vs. MEM W 21 0 0 1 0.0 0 0 - 0 0 - 1 6 7 1 0 1 1 3 -3
+p189
+aVKurt Thomas POR 03/22/2012 POR vs. MEM W 16 2 0 2 0.0 0 0 - 2 2 100.0 1 5 6 3 0 1 0 5 3
+p190
+aVCraig Smith POR 03/22/2012 POR vs. MEM W 8 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 0 0 0 2 -3
+p191
+aVLuke Babbitt POR 03/22/2012 POR vs. MEM W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p192
+aVJonny Flynn POR 03/22/2012 POR vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 1
+p193
+aVLaMarcus Aldridge POR 03/22/2012 POR vs. MEM W 40 16 7 14 50.0 0 0 - 2 2 100.0 2 3 5 1 0 0 4 1 7
+p194
+aVJamal Crawford POR 03/22/2012 POR vs. MEM W 29 17 3 10 30.0 1 5 20.0 10 10 100.0 0 2 2 2 1 1 3 0 12
+p195
+aVNicolas Batum POR 03/22/2012 POR vs. MEM W 35 24 9 15 60.0 4 8 50.0 2 2 100.0 1 1 2 2 0 1 3 2 4
+p196
+aVKurt Thomas POR 03/20/2012 POR vs. MIL L 15 0 0 4 0.0 0 0 - 0 0 - 6 2 8 0 0 0 0 1 -13
+p197
+aVWesley Matthews POR 03/20/2012 POR vs. MIL L 35 21 6 13 46.2 5 7 71.4 4 4 100.0 2 7 9 1 2 1 2 2 -8
+p198
+aVRaymond Felton POR 03/20/2012 POR vs. MIL L 32 18 7 11 63.6 1 3 33.3 3 4 75.0 0 0 0 9 1 1 6 2 -9
+p199
+aVJoel Przybilla POR 03/20/2012 POR vs. MIL L 16 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 0 3 4 -8
+p200
+aVJonny Flynn POR 03/20/2012 POR vs. MIL L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -6
+p201
+aVJamal Crawford POR 03/20/2012 POR vs. MIL L 25 3 1 8 12.5 0 3 0.0 1 2 50.0 0 1 1 0 3 0 1 1 -19
+p202
+aVLuke Babbitt POR 03/20/2012 POR vs. MIL L 15 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 1 0 0 0 1 -22
+p203
+aVNicolas Batum POR 03/20/2012 POR vs. MIL L 34 12 4 14 28.6 0 4 0.0 4 4 100.0 0 5 5 1 1 0 1 1 -11
+p204
+aVHasheem Thabeet POR 03/20/2012 POR vs. MIL L 4 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -6
+p205
+aVLaMarcus Aldridge POR 03/20/2012 POR vs. MIL L 35 21 7 11 63.6 0 0 - 7 8 87.5 5 7 12 2 0 0 3 3 -6
+p206
+aVNolan Smith POR 03/20/2012 POR vs. MIL L 16 3 1 9 11.1 1 4 25.0 0 0 - 1 0 1 0 0 0 2 0 -20
+p207
+aVCraig Smith POR 03/20/2012 POR vs. MIL L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -17
+p208
+aVCraig Smith POR 03/18/2012 POR @ OKC L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -3
+p209
+aVJamal Crawford POR 03/18/2012 POR @ OKC L 29 23 10 22 45.5 3 9 33.3 0 0 - 1 1 2 1 1 0 1 0 -7
+p210
+aVLuke Babbitt POR 03/18/2012 POR @ OKC L 11 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 0
+p211
+aVWesley Matthews POR 03/18/2012 POR @ OKC L 35 16 6 12 50.0 3 3 100.0 1 2 50.0 1 0 1 1 4 0 0 3 -10
+p212
+aVKurt Thomas POR 03/18/2012 POR @ OKC L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -15
+p213
+aVNolan Smith POR 03/18/2012 POR @ OKC L 14 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 1
+p214
+aVLaMarcus Aldridge POR 03/18/2012 POR @ OKC L 38 15 6 19 31.6 0 0 - 3 5 60.0 1 5 6 2 1 1 3 2 -15
+p215
+aVNicolas Batum POR 03/18/2012 POR @ OKC L 40 6 3 7 42.9 0 3 0.0 0 0 - 2 4 6 2 0 0 2 1 -10
+p216
+aVRaymond Felton POR 03/18/2012 POR @ OKC L 34 19 6 10 60.0 2 3 66.7 5 7 71.4 1 2 3 7 2 0 4 0 -17
+p217
+aVJoel Przybilla POR 03/18/2012 POR @ OKC L 24 6 3 4 75.0 0 0 - 0 0 - 3 8 11 0 0 2 1 3 -4
+p218
+aVJamal Crawford POR 03/16/2012 POR @ CHI W 24 8 3 12 25.0 1 6 16.7 1 1 100.0 1 2 3 2 0 0 0 1 11
+p219
+aVNolan Smith POR 03/16/2012 POR @ CHI W 18 12 5 7 71.4 2 2 100.0 0 0 - 2 1 3 1 0 1 2 0 6
+p220
+aVNicolas Batum POR 03/16/2012 POR @ CHI W 33 15 6 11 54.5 3 4 75.0 0 0 - 0 9 9 3 2 0 1 1 6
+p221
+aVJoel Przybilla POR 03/16/2012 POR @ CHI W 25 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 1 3 -6
+p222
+aVLuke Babbitt POR 03/16/2012 POR @ CHI W 12 2 1 3 33.3 0 2 0.0 0 0 - 0 4 4 1 0 0 1 2 5
+p223
+aVCraig Smith POR 03/16/2012 POR @ CHI W 10 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 8
+p224
+aVLaMarcus Aldridge POR 03/16/2012 POR @ CHI W 38 21 9 18 50.0 0 0 - 3 3 100.0 2 3 5 2 1 0 0 3 3
+p225
+aVWesley Matthews POR 03/16/2012 POR @ CHI W 33 18 6 11 54.5 4 5 80.0 2 3 66.7 1 1 2 1 0 0 2 2 7
+p226
+aVKurt Thomas POR 03/16/2012 POR @ CHI W 16 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 2 10
+p227
+aVRaymond Felton POR 03/16/2012 POR @ CHI W 30 16 6 11 54.5 1 2 50.0 3 3 100.0 0 1 1 5 0 1 1 1 5
+p228
+aVMarcus Camby POR 03/14/2012 POR @ NYK L 25 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 2 0 2 3 -15
+p229
+aVChris Johnson POR 03/14/2012 POR @ NYK L 9 3 1 2 50.0 0 0 - 1 1 100.0 1 1 2 0 0 0 2 3 -17
+p230
+aVNolan Smith POR 03/14/2012 POR @ NYK L 15 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 2 -28
+p231
+aVLuke Babbitt POR 03/14/2012 POR @ NYK L 17 12 4 7 57.1 2 3 66.7 2 2 100.0 1 4 5 0 1 0 1 2 -17
+p232
+aVKurt Thomas POR 03/14/2012 POR @ NYK L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p233
+aVGerald Wallace POR 03/14/2012 POR @ NYK L 33 15 6 12 50.0 0 2 0.0 3 4 75.0 5 7 12 3 1 0 4 0 -17
+p234
+aVNicolas Batum POR 03/14/2012 POR @ NYK L 33 9 3 9 33.3 1 3 33.3 2 4 50.0 2 1 3 1 1 1 3 1 -39
+p235
+aVCraig Smith POR 03/14/2012 POR @ NYK L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p236
+aVRaymond Felton POR 03/14/2012 POR @ NYK L 33 9 2 10 20.0 0 3 0.0 5 6 83.3 1 2 3 3 6 1 5 2 -14
+p237
+aVWesley Matthews POR 03/14/2012 POR @ NYK L 26 8 3 9 33.3 2 4 50.0 0 0 - 0 0 0 1 3 0 2 3 -21
+p238
+aVLaMarcus Aldridge POR 03/14/2012 POR @ NYK L 36 15 5 15 33.3 0 0 - 5 6 83.3 4 3 7 2 0 2 2 1 -19
+p239
+aVJoel Przybilla POR 03/14/2012 POR @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p240
+aVRaymond Felton POR 03/13/2012 POR @ IND L 27 5 2 8 25.0 0 2 0.0 1 1 100.0 0 3 3 2 0 0 3 1 -12
+p241
+aVWesley Matthews POR 03/13/2012 POR @ IND L 38 9 1 5 20.0 1 4 25.0 6 8 75.0 0 2 2 1 1 1 0 2 -8
+p242
+aVChris Johnson POR 03/13/2012 POR @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 0
+p243
+aVCraig Smith POR 03/13/2012 POR @ IND L 10 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 8
+p244
+aVKurt Thomas POR 03/13/2012 POR @ IND L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -16
+p245
+aVLuke Babbitt POR 03/13/2012 POR @ IND L 7 3 1 5 20.0 1 3 33.3 0 0 - 2 1 3 0 0 0 2 0 10
+p246
+aVLaMarcus Aldridge POR 03/13/2012 POR @ IND L 34 17 5 15 33.3 0 1 0.0 7 9 77.8 1 4 5 1 0 0 2 2 -18
+p247
+aVNolan Smith POR 03/13/2012 POR @ IND L 11 10 3 3 100.0 2 2 100.0 2 2 100.0 0 2 2 1 0 0 1 0 3
+p248
+aVNicolas Batum POR 03/13/2012 POR @ IND L 30 9 3 11 27.3 0 4 0.0 3 4 75.0 0 3 3 0 1 0 0 0 -15
+p249
+aVGerald Wallace POR 03/13/2012 POR @ IND L 27 5 1 4 25.0 0 1 0.0 3 4 75.0 0 6 6 0 2 1 3 2 -9
+p250
+aVJamal Crawford POR 03/13/2012 POR @ IND L 22 9 2 7 28.6 1 5 20.0 4 4 100.0 0 0 0 0 0 0 2 1 -24
+p251
+aVJoel Przybilla POR 03/13/2012 POR @ IND L 15 4 1 1 100.0 0 0 - 2 2 100.0 1 5 6 0 1 0 1 1 1
+p252
+aVMarcus Camby POR 03/13/2012 POR @ IND L 6 0 0 0 - 0 0 - 0 2 0.0 2 2 4 0 0 1 0 0 -5
+p253
+aVGerald Wallace POR 03/10/2012 POR @ WAS W 42 15 5 12 41.7 0 2 0.0 5 5 100.0 2 6 8 2 0 2 0 2 10
+p254
+aVWesley Matthews POR 03/10/2012 POR @ WAS W 24 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 1 0 0 0 2 6
+p255
+aVKurt Thomas POR 03/10/2012 POR @ WAS W 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 0 1 2 3
+p256
+aVJoel Przybilla POR 03/10/2012 POR @ WAS W 16 0 0 0 - 0 0 - 0 0 - 1 8 9 0 0 0 1 4 0
+p257
+aVNicolas Batum POR 03/10/2012 POR @ WAS W 28 11 5 10 50.0 1 4 25.0 0 0 - 0 0 0 1 0 1 2 3 8
+p258
+aVJamal Crawford POR 03/10/2012 POR @ WAS W 28 23 7 13 53.8 3 6 50.0 6 6 100.0 0 0 0 5 0 0 2 0 6
+p259
+aVMarcus Camby POR 03/10/2012 POR @ WAS W 14 6 3 6 50.0 0 0 - 0 0 - 2 3 5 2 0 0 1 1 2
+p260
+aVLaMarcus Aldridge POR 03/10/2012 POR @ WAS W 40 30 12 15 80.0 0 0 - 6 6 100.0 3 7 10 3 1 2 0 2 12
+p261
+aVRaymond Felton POR 03/10/2012 POR @ WAS W 32 21 6 14 42.9 0 2 0.0 9 10 90.0 0 2 2 5 2 0 0 4 8
+p262
+aVLuke Babbitt POR 03/09/2012 POR @ BOS L 12 10 3 7 42.9 2 2 100.0 2 2 100.0 0 6 6 0 0 0 2 1 16
+p263
+aVRaymond Felton POR 03/09/2012 POR @ BOS L 27 8 2 5 40.0 2 3 66.7 2 2 100.0 0 1 1 4 1 0 5 3 -27
+p264
+aVChris Johnson POR 03/09/2012 POR @ BOS L 9 4 2 3 66.7 0 0 - 0 0 - 3 0 3 0 0 2 1 0 11
+p265
+aVMarcus Camby POR 03/09/2012 POR @ BOS L 20 5 2 7 28.6 0 0 - 1 3 33.3 3 7 10 2 1 2 2 0 -27
+p266
+aVNicolas Batum POR 03/09/2012 POR @ BOS L 26 9 3 8 37.5 1 2 50.0 2 2 100.0 2 3 5 0 0 0 4 1 -15
+p267
+aVCraig Smith POR 03/09/2012 POR @ BOS L 14 4 2 2 100.0 0 0 - 0 0 - 1 5 6 1 0 0 0 1 13
+p268
+aVWesley Matthews POR 03/09/2012 POR @ BOS L 29 10 3 11 27.3 0 5 0.0 4 4 100.0 2 1 3 1 0 0 2 1 -5
+p269
+aVKurt Thomas POR 03/09/2012 POR @ BOS L 13 0 0 3 0.0 0 0 - 0 0 - 2 4 6 0 1 1 0 4 9
+p270
+aVJamal Crawford POR 03/09/2012 POR @ BOS L 20 8 3 4 75.0 1 1 100.0 1 2 50.0 0 1 1 1 0 1 1 1 -17
+p271
+aVJoel Przybilla POR 03/09/2012 POR @ BOS L 6 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -11
+p272
+aVNolan Smith POR 03/09/2012 POR @ BOS L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 2 11
+p273
+aVLaMarcus Aldridge POR 03/09/2012 POR @ BOS L 32 22 8 11 72.7 0 0 - 6 8 75.0 0 4 4 1 0 1 5 2 -22
+p274
+aVGerald Wallace POR 03/09/2012 POR @ BOS L 24 2 1 7 14.3 0 2 0.0 0 0 - 2 2 4 1 1 0 5 3 -26
+p275
+aVLuke Babbitt POR 03/07/2012 POR @ MIN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p276
+aVNicolas Batum POR 03/07/2012 POR @ MIN L 32 9 4 10 40.0 1 4 25.0 0 0 - 0 5 5 1 0 2 3 4 -8
+p277
+aVElliot Williams POR 03/07/2012 POR @ MIN L 9 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 1 2 0 0 2 -7
+p278
+aVJamal Crawford POR 03/07/2012 POR @ MIN L 29 6 3 13 23.1 0 6 0.0 0 0 - 0 2 2 3 0 0 0 1 -2
+p279
+aVJoel Przybilla POR 03/07/2012 POR @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p280
+aVNolan Smith POR 03/07/2012 POR @ MIN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p281
+aVGerald Wallace POR 03/07/2012 POR @ MIN L 45 13 6 12 50.0 1 2 50.0 0 0 - 4 5 9 9 1 1 0 1 -11
+p282
+aVWesley Matthews POR 03/07/2012 POR @ MIN L 33 13 6 12 50.0 0 5 0.0 1 1 100.0 0 1 1 1 0 0 1 4 -2
+p283
+aVLaMarcus Aldridge POR 03/07/2012 POR @ MIN L 30 22 10 18 55.6 0 0 - 2 3 66.7 3 4 7 0 2 0 0 4 -6
+p284
+aVRaymond Felton POR 03/07/2012 POR @ MIN L 34 23 11 18 61.1 1 4 25.0 0 0 - 1 3 4 9 0 0 3 4 -15
+p285
+aVMarcus Camby POR 03/07/2012 POR @ MIN L 18 2 1 3 33.3 0 0 - 0 0 - 3 4 7 2 1 0 2 2 -6
+p286
+aVKurt Thomas POR 03/07/2012 POR @ MIN L 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 1 0 1 3
+p287
+aVKurt Thomas POR 03/05/2012 POR vs. NOH W 12 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -13
+p288
+aVCraig Smith POR 03/05/2012 POR vs. NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p289
+aVLuke Babbitt POR 03/05/2012 POR vs. NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p290
+aVRaymond Felton POR 03/05/2012 POR vs. NOH W 30 11 5 10 50.0 1 5 20.0 0 0 - 0 0 0 10 2 0 1 2 23
+p291
+aVWesley Matthews POR 03/05/2012 POR vs. NOH W 26 12 3 7 42.9 2 5 40.0 4 6 66.7 2 1 3 1 2 1 0 2 11
+p292
+aVLaMarcus Aldridge POR 03/05/2012 POR vs. NOH W 29 10 5 11 45.5 0 0 - 0 0 - 1 10 11 0 1 0 2 1 19
+p293
+aVElliot Williams POR 03/05/2012 POR vs. NOH W 7 4 2 4 50.0 0 1 0.0 0 2 0.0 0 0 0 1 0 0 0 2 -9
+p294
+aVNicolas Batum POR 03/05/2012 POR vs. NOH W 37 19 7 16 43.8 2 6 33.3 3 4 75.0 1 2 3 1 0 1 3 3 14
+p295
+aVGerald Wallace POR 03/05/2012 POR vs. NOH W 32 13 2 8 25.0 1 4 25.0 8 8 100.0 1 3 4 1 1 0 1 2 14
+p296
+aVJoel Przybilla POR 03/05/2012 POR vs. NOH W 14 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 1 3 -1
+p297
+aVJamal Crawford POR 03/05/2012 POR vs. NOH W 19 5 1 3 33.3 0 1 0.0 3 4 75.0 0 1 1 1 0 0 0 1 2
+p298
+aVMarcus Camby POR 03/05/2012 POR vs. NOH W 26 6 3 6 50.0 0 0 - 0 0 - 3 13 16 2 2 2 2 3 23
+p299
+aVNolan Smith POR 03/05/2012 POR vs. NOH W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p300
+aVLaMarcus Aldridge POR 03/03/2012 POR vs. MIN L 33 14 7 14 50.0 0 0 - 0 0 - 4 3 7 4 1 1 2 6 -20
+p301
+aVNicolas Batum POR 03/03/2012 POR vs. MIN L 40 29 9 17 52.9 3 7 42.9 8 8 100.0 1 2 3 0 2 1 2 2 -10
+p302
+aVRaymond Felton POR 03/03/2012 POR vs. MIN L 31 2 1 9 11.1 0 3 0.0 0 0 - 0 1 1 4 1 0 1 3 2
+p303
+aVJoel Przybilla POR 03/03/2012 POR vs. MIN L 18 3 1 1 100.0 0 0 - 1 4 25.0 1 5 6 0 0 2 1 5 -1
+p304
+aVMarcus Camby POR 03/03/2012 POR vs. MIN L 8 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -7
+p305
+aVGerald Wallace POR 03/03/2012 POR vs. MIN L 44 25 9 17 52.9 1 5 20.0 6 8 75.0 4 10 14 3 5 0 1 5 -3
+p306
+aVChris Johnson POR 03/03/2012 POR vs. MIN L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 0 -1
+p307
+aVWesley Matthews POR 03/03/2012 POR vs. MIN L 23 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 1 0 0 1 3 -7
+p308
+aVJamal Crawford POR 03/03/2012 POR vs. MIN L 33 23 8 14 57.1 3 5 60.0 4 6 66.7 1 2 3 2 0 0 2 3 -22
+p309
+aVElliot Williams POR 03/03/2012 POR vs. MIN L 9 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 1 2 9
+p310
+aVRaymond Felton POR 03/01/2012 POR vs. MIA L 16 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 3 1 0 1 2 5
+p311
+aVLaMarcus Aldridge POR 03/01/2012 POR vs. MIA L 41 20 10 18 55.6 0 1 0.0 0 0 - 1 5 6 4 1 0 2 4 -14
+p312
+aVWesley Matthews POR 03/01/2012 POR vs. MIA L 34 15 4 6 66.7 2 3 66.7 5 5 100.0 0 7 7 4 1 0 3 2 -6
+p313
+aVMarcus Camby POR 03/01/2012 POR vs. MIA L 21 2 1 6 16.7 0 0 - 0 0 - 2 5 7 1 0 2 0 1 -23
+p314
+aVJoel Przybilla POR 03/01/2012 POR vs. MIA L 19 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 1 0 2 0 2 10
+p315
+aVGerald Wallace POR 03/01/2012 POR vs. MIA L 36 12 4 9 44.4 1 1 100.0 3 4 75.0 1 2 3 2 0 0 3 3 -16
+p316
+aVCraig Smith POR 03/01/2012 POR vs. MIA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p317
+aVElliot Williams POR 03/01/2012 POR vs. MIA L 5 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p318
+aVJamal Crawford POR 03/01/2012 POR vs. MIA L 32 18 8 16 50.0 0 5 0.0 2 2 100.0 0 1 1 4 0 0 5 4 -17
+p319
+aVNicolas Batum POR 03/01/2012 POR vs. MIA L 31 17 6 11 54.5 1 3 33.3 4 6 66.7 3 2 5 2 3 2 2 2 -13
+p320
+aVLaMarcus Aldridge POR 02/29/2012 POR @ DEN L 42 20 7 16 43.8 0 1 0.0 6 6 100.0 1 8 9 0 0 1 3 2 -4
+p321
+aVKurt Thomas POR 02/29/2012 POR @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p322
+aVMarcus Camby POR 02/29/2012 POR @ DEN L 16 10 5 5 100.0 0 0 - 0 0 - 1 3 4 0 1 3 1 1 -6
+p323
+aVJamal Crawford POR 02/29/2012 POR @ DEN L 36 21 8 15 53.3 5 9 55.6 0 0 - 0 5 5 5 1 2 1 0 -9
+p324
+aVGerald Wallace POR 02/29/2012 POR @ DEN L 35 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 5 2 1 2 1 -14
+p325
+aVNicolas Batum POR 02/29/2012 POR @ DEN L 33 9 4 13 30.8 1 3 33.3 0 0 - 5 2 7 3 1 2 1 1 -12
+p326
+aVCraig Smith POR 02/29/2012 POR @ DEN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -9
+p327
+aVElliot Williams POR 02/29/2012 POR @ DEN L 11 10 4 10 40.0 2 4 50.0 0 0 - 2 0 2 1 0 0 0 1 -2
+p328
+aVWesley Matthews POR 02/29/2012 POR @ DEN L 28 11 4 11 36.4 1 5 20.0 2 3 66.7 0 3 3 2 0 0 2 4 3
+p329
+aVRaymond Felton POR 02/29/2012 POR @ DEN L 24 6 3 8 37.5 0 0 - 0 0 - 0 2 2 7 1 0 1 3 0
+p330
+aVChris Johnson POR 02/29/2012 POR @ DEN L 10 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 1 1 2 6
+p331
+aVWesley Matthews POR 02/21/2012 POR vs. SAS W 24 11 5 10 50.0 1 4 25.0 0 0 - 0 4 4 4 1 1 0 3 34
+p332
+aVNolan Smith POR 02/21/2012 POR vs. SAS W 10 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 3 0 0 1 1 -3
+p333
+aVJamal Crawford POR 02/21/2012 POR vs. SAS W 30 20 6 8 75.0 5 7 71.4 3 3 100.0 0 4 4 8 0 0 1 1 37
+p334
+aVKurt Thomas POR 02/21/2012 POR vs. SAS W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 16
+p335
+aVLuke Babbitt POR 02/21/2012 POR vs. SAS W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 1 0 0 1 -3
+p336
+aVNicolas Batum POR 02/21/2012 POR vs. SAS W 25 19 7 12 58.3 3 5 60.0 2 2 100.0 2 4 6 0 0 0 2 4 12
+p337
+aVCraig Smith POR 02/21/2012 POR vs. SAS W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p338
+aVMarcus Camby POR 02/21/2012 POR vs. SAS W 14 0 0 0 - 0 0 - 0 0 - 0 5 5 2 0 0 0 2 9
+p339
+aVLaMarcus Aldridge POR 02/21/2012 POR vs. SAS W 27 21 8 12 66.7 0 0 - 5 5 100.0 1 6 7 3 2 1 1 1 26
+p340
+aVGerald Wallace POR 02/21/2012 POR vs. SAS W 32 19 6 10 60.0 1 2 50.0 6 6 100.0 3 7 10 6 0 3 3 1 42
+p341
+aVRaymond Felton POR 02/21/2012 POR vs. SAS W 21 16 6 11 54.5 4 8 50.0 0 0 - 0 1 1 4 0 0 1 2 29
+p342
+aVChris Johnson POR 02/21/2012 POR vs. SAS W 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 2 0
+p343
+aVElliot Williams POR 02/21/2012 POR vs. SAS W 18 17 7 10 70.0 0 1 0.0 3 6 50.0 1 2 3 0 1 0 0 0 3
+p344
+aVRaymond Felton POR 02/20/2012 POR @ LAL L 19 9 3 4 75.0 2 2 100.0 1 2 50.0 0 0 0 4 2 0 4 2 -13
+p345
+aVWesley Matthews POR 02/20/2012 POR @ LAL L 27 9 3 9 33.3 3 5 60.0 0 0 - 1 2 3 1 0 0 1 4 -4
+p346
+aVKurt Thomas POR 02/20/2012 POR @ LAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -8
+p347
+aVElliot Williams POR 02/20/2012 POR @ LAL L 3 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 0 6
+p348
+aVLaMarcus Aldridge POR 02/20/2012 POR @ LAL L 38 18 6 19 31.6 0 0 - 6 8 75.0 2 6 8 1 1 1 1 4 -8
+p349
+aVMarcus Camby POR 02/20/2012 POR @ LAL L 26 5 2 4 50.0 0 0 - 1 1 100.0 2 11 13 1 0 0 0 2 -4
+p350
+aVChris Johnson POR 02/20/2012 POR @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 6
+p351
+aVJamal Crawford POR 02/20/2012 POR @ LAL L 27 15 5 11 45.5 2 5 40.0 3 4 75.0 1 3 4 5 0 0 3 2 -4
+p352
+aVCraig Smith POR 02/20/2012 POR @ LAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p353
+aVGerald Wallace POR 02/20/2012 POR @ LAL L 35 7 2 7 28.6 1 3 33.3 2 4 50.0 0 1 1 3 2 0 1 1 -7
+p354
+aVNicolas Batum POR 02/20/2012 POR @ LAL L 36 18 7 16 43.8 3 7 42.9 1 1 100.0 3 3 6 5 2 4 5 2 -9
+p355
+aVLuke Babbitt POR 02/20/2012 POR @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 6
+p356
+aVNolan Smith POR 02/20/2012 POR @ LAL L 7 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 -9
+p357
+aVKurt Thomas POR 02/18/2012 POR vs. ATL W 18 2 1 5 20.0 0 0 - 0 0 - 2 8 10 1 0 1 0 1 2
+p358
+aVElliot Williams POR 02/18/2012 POR vs. ATL W 2 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p359
+aVGerald Wallace POR 02/18/2012 POR vs. ATL W 34 9 2 7 28.6 1 3 33.3 4 4 100.0 0 5 5 3 1 0 2 0 15
+p360
+aVWesley Matthews POR 02/18/2012 POR vs. ATL W 28 13 6 13 46.2 1 3 33.3 0 0 - 1 0 1 1 2 0 1 3 7
+p361
+aVMarcus Camby POR 02/18/2012 POR vs. ATL W 20 8 3 5 60.0 0 0 - 2 4 50.0 3 5 8 1 0 2 0 4 14
+p362
+aVChris Johnson POR 02/18/2012 POR vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p363
+aVRaymond Felton POR 02/18/2012 POR vs. ATL W 33 14 6 11 54.5 2 5 40.0 0 0 - 0 3 3 8 0 0 2 0 13
+p364
+aVNolan Smith POR 02/18/2012 POR vs. ATL W 15 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 2 1 0 2 2 9
+p365
+aVCraig Smith POR 02/18/2012 POR vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p366
+aVLuke Babbitt POR 02/18/2012 POR vs. ATL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 3
+p367
+aVNicolas Batum POR 02/18/2012 POR vs. ATL W 35 22 9 15 60.0 3 6 50.0 1 2 50.0 4 4 8 1 1 1 2 2 17
+p368
+aVJamal Crawford POR 02/18/2012 POR vs. ATL W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 1 0 1
+p369
+aVLaMarcus Aldridge POR 02/18/2012 POR vs. ATL W 35 19 8 19 42.1 0 0 - 3 4 75.0 4 6 10 4 1 0 2 2 13
+p370
+aVGerald Wallace POR 02/16/2012 POR vs. LAC L 43 7 2 7 28.6 0 1 0.0 3 4 75.0 0 3 3 4 0 0 0 3 -4
+p371
+aVWesley Matthews POR 02/16/2012 POR vs. LAC L 34 16 6 13 46.2 2 5 40.0 2 4 50.0 3 2 5 0 2 0 2 3 -6
+p372
+aVRaymond Felton POR 02/16/2012 POR vs. LAC L 24 0 0 7 0.0 0 1 0.0 0 0 - 1 1 2 2 1 0 5 0 3
+p373
+aVNicolas Batum POR 02/16/2012 POR vs. LAC L 39 19 8 16 50.0 2 4 50.0 1 2 50.0 2 4 6 0 0 1 2 2 -6
+p374
+aVKurt Thomas POR 02/16/2012 POR vs. LAC L 26 2 1 4 25.0 0 0 - 0 0 - 0 6 6 0 0 2 1 2 -10
+p375
+aVMarcus Camby POR 02/16/2012 POR vs. LAC L 22 2 1 3 33.3 0 0 - 0 1 0.0 1 5 6 4 0 1 2 5 7
+p376
+aVJamal Crawford POR 02/16/2012 POR vs. LAC L 30 19 7 18 38.9 2 3 66.7 3 3 100.0 0 1 1 3 2 1 3 1 -4
+p377
+aVCraig Smith POR 02/16/2012 POR vs. LAC L 14 4 1 2 50.0 0 0 - 2 4 50.0 1 2 3 0 1 0 1 0 3
+p378
+aVElliot Williams POR 02/16/2012 POR vs. LAC L 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 2
+p379
+aVJamal Crawford POR 02/15/2012 POR @ GSW W 28 14 5 13 38.5 1 1 100.0 3 3 100.0 0 3 3 6 2 0 1 1 7
+p380
+aVWesley Matthews POR 02/15/2012 POR @ GSW W 34 9 4 12 33.3 1 6 16.7 0 0 - 0 3 3 4 0 0 1 1 0
+p381
+aVMarcus Camby POR 02/15/2012 POR @ GSW W 30 12 5 11 45.5 0 0 - 2 4 50.0 5 6 11 2 0 0 1 2 2
+p382
+aVRaymond Felton POR 02/15/2012 POR @ GSW W 39 10 4 15 26.7 2 5 40.0 0 0 - 2 1 3 6 1 0 2 1 5
+p383
+aVNicolas Batum POR 02/15/2012 POR @ GSW W 36 17 7 13 53.8 2 5 40.0 1 1 100.0 2 2 4 3 2 2 2 2 5
+p384
+aVCraig Smith POR 02/15/2012 POR @ GSW W 12 5 2 2 100.0 0 0 - 1 1 100.0 1 5 6 1 0 0 1 2 5
+p385
+aVGerald Wallace POR 02/15/2012 POR @ GSW W 39 24 6 13 46.2 4 4 100.0 8 8 100.0 3 3 6 0 2 1 3 3 -6
+p386
+aVKurt Thomas POR 02/15/2012 POR @ GSW W 12 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 1 2 4 6
+p387
+aVElliot Williams POR 02/15/2012 POR @ GSW W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 1 -6
+p388
+aVChris Johnson POR 02/15/2012 POR @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p389
+aVRaymond Felton POR 02/14/2012 POR vs. WAS L 28 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 6 1 0 2 3 1
+p390
+aVElliot Williams POR 02/14/2012 POR vs. WAS L 3 4 1 3 33.3 0 2 0.0 2 3 66.7 0 0 0 0 0 0 0 0 -1
+p391
+aVMarcus Camby POR 02/14/2012 POR vs. WAS L 35 13 6 10 60.0 0 0 - 1 2 50.0 6 6 12 3 2 0 0 3 -4
+p392
+aVGerald Wallace POR 02/14/2012 POR vs. WAS L 43 25 7 14 50.0 0 2 0.0 11 12 91.7 1 3 4 8 2 0 2 2 -2
+p393
+aVLaMarcus Aldridge POR 02/14/2012 POR vs. WAS L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p394
+aVWesley Matthews POR 02/14/2012 POR vs. WAS L 37 15 6 13 46.2 3 6 50.0 0 0 - 1 4 5 2 1 0 2 2 -18
+p395
+aVNicolas Batum POR 02/14/2012 POR vs. WAS L 42 33 12 24 50.0 3 8 37.5 6 6 100.0 2 2 4 1 1 1 2 1 -12
+p396
+aVKurt Thomas POR 02/14/2012 POR vs. WAS L 13 4 1 3 33.3 0 0 - 2 4 50.0 2 1 3 1 0 0 0 0 -11
+p397
+aVJamal Crawford POR 02/14/2012 POR vs. WAS L 23 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 5 0 0 1 2 -26
+p398
+aVNolan Smith POR 02/14/2012 POR vs. WAS L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 2 0 1 1 -5
+p399
+aVCraig Smith POR 02/14/2012 POR vs. WAS L 9 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 4
+p400
+aVWesley Matthews POR 02/11/2012 POR @ DAL L 33 9 3 10 30.0 1 2 50.0 2 3 66.7 0 6 6 1 2 0 0 1 -2
+p401
+aVKurt Thomas POR 02/11/2012 POR @ DAL L 13 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 2 -1
+p402
+aVLaMarcus Aldridge POR 02/11/2012 POR @ DAL L 52 33 14 26 53.8 0 1 0.0 5 5 100.0 6 6 12 1 1 0 1 4 1
+p403
+aVMarcus Camby POR 02/11/2012 POR @ DAL L 16 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 1 1 2 3 -9
+p404
+aVNicolas Batum POR 02/11/2012 POR @ DAL L 41 12 5 11 45.5 0 4 0.0 2 2 100.0 2 5 7 3 1 3 2 4 8
+p405
+aVRaymond Felton POR 02/11/2012 POR @ DAL L 39 9 4 17 23.5 1 6 16.7 0 1 0.0 0 2 2 2 2 0 3 0 -5
+p406
+aVJamal Crawford POR 02/11/2012 POR @ DAL L 43 19 6 23 26.1 1 7 14.3 6 6 100.0 0 3 3 2 0 0 3 4 6
+p407
+aVGerald Wallace POR 02/11/2012 POR @ DAL L 50 10 3 4 75.0 0 0 - 4 4 100.0 2 8 10 1 4 1 2 5 -6
+p408
+aVElliot Williams POR 02/11/2012 POR @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p409
+aVWesley Matthews POR 02/10/2012 POR @ NOH W 31 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 2 2 1 3 3 -11
+p410
+aVElliot Williams POR 02/10/2012 POR @ NOH W 5 0 0 3 0.0 0 1 0.0 0 2 0.0 0 0 0 1 0 0 0 2 -3
+p411
+aVGerald Wallace POR 02/10/2012 POR @ NOH W 41 14 6 9 66.7 0 1 0.0 2 4 50.0 1 5 6 1 0 3 3 2 18
+p412
+aVMarcus Camby POR 02/10/2012 POR @ NOH W 20 2 1 4 25.0 0 0 - 0 0 - 2 5 7 0 1 1 1 2 -5
+p413
+aVLaMarcus Aldridge POR 02/10/2012 POR @ NOH W 38 14 7 12 58.3 0 0 - 0 0 - 2 5 7 4 0 1 1 3 -3
+p414
+aVKurt Thomas POR 02/10/2012 POR @ NOH W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 6
+p415
+aVJamal Crawford POR 02/10/2012 POR @ NOH W 30 31 10 16 62.5 2 7 28.6 9 10 90.0 1 1 2 8 1 0 3 3 14
+p416
+aVNicolas Batum POR 02/10/2012 POR @ NOH W 27 9 2 6 33.3 1 4 25.0 4 4 100.0 0 5 5 2 5 2 0 1 17
+p417
+aVRaymond Felton POR 02/10/2012 POR @ NOH W 35 18 6 10 60.0 1 2 50.0 5 5 100.0 1 0 1 6 1 0 5 3 7
+p418
+aVRaymond Felton POR 02/08/2012 POR vs. HOU L 33 9 4 11 36.4 0 3 0.0 1 3 33.3 0 0 0 6 1 0 5 2 -2
+p419
+aVNicolas Batum POR 02/08/2012 POR vs. HOU L 25 10 3 5 60.0 2 3 66.7 2 2 100.0 1 1 2 1 0 1 2 4 -2
+p420
+aVMarcus Camby POR 02/08/2012 POR vs. HOU L 18 0 0 0 - 0 0 - 0 0 - 1 4 5 0 2 0 1 1 -9
+p421
+aVWesley Matthews POR 02/08/2012 POR vs. HOU L 36 17 4 10 40.0 1 5 20.0 8 8 100.0 1 1 2 1 2 0 1 3 -5
+p422
+aVJamal Crawford POR 02/08/2012 POR vs. HOU L 28 21 8 15 53.3 3 4 75.0 2 2 100.0 0 2 2 6 2 1 3 3 8
+p423
+aVCraig Smith POR 02/08/2012 POR vs. HOU L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -10
+p424
+aVLaMarcus Aldridge POR 02/08/2012 POR vs. HOU L 39 13 5 14 35.7 0 0 - 3 4 75.0 1 4 5 2 3 2 2 4 -2
+p425
+aVKurt Thomas POR 02/08/2012 POR vs. HOU L 15 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -4
+p426
+aVGerald Wallace POR 02/08/2012 POR vs. HOU L 41 20 8 11 72.7 1 3 33.3 3 3 100.0 2 7 9 5 1 0 4 3 -9
+p427
+aVKurt Thomas POR 02/06/2012 POR vs. OKC L 21 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 0 0 0 3 6
+p428
+aVWesley Matthews POR 02/06/2012 POR vs. OKC L 36 18 6 9 66.7 2 5 40.0 4 5 80.0 1 2 3 4 2 0 3 1 -1
+p429
+aVNolan Smith POR 02/06/2012 POR vs. OKC L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p430
+aVNicolas Batum POR 02/06/2012 POR vs. OKC L 32 13 5 15 33.3 1 6 16.7 2 4 50.0 2 1 3 1 3 1 0 2 -8
+p431
+aVCraig Smith POR 02/06/2012 POR vs. OKC L 9 2 1 1 100.0 0 0 - 0 3 0.0 1 1 2 0 0 0 0 2 0
+p432
+aVJamal Crawford POR 02/06/2012 POR vs. OKC L 45 17 6 18 33.3 2 6 33.3 3 3 100.0 0 2 2 5 1 1 3 1 0
+p433
+aVMarcus Camby POR 02/06/2012 POR vs. OKC L 32 8 4 11 36.4 0 0 - 0 0 - 7 8 15 3 0 0 0 2 -10
+p434
+aVGerald Wallace POR 02/06/2012 POR vs. OKC L 38 4 2 9 22.2 0 2 0.0 0 0 - 1 4 5 4 1 0 2 5 -1
+p435
+aVLaMarcus Aldridge POR 02/06/2012 POR vs. OKC L 44 39 14 28 50.0 0 1 0.0 11 11 100.0 2 4 6 3 1 1 4 0 -4
+p436
+aVKurt Thomas POR 02/04/2012 POR vs. DEN W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 1 1 1 4 13
+p437
+aVRaymond Felton POR 02/04/2012 POR vs. DEN W 24 6 2 6 33.3 1 3 33.3 1 1 100.0 0 0 0 4 1 0 1 1 1
+p438
+aVCraig Smith POR 02/04/2012 POR vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p439
+aVGerald Wallace POR 02/04/2012 POR vs. DEN W 33 17 8 17 47.1 1 6 16.7 0 0 - 1 4 5 4 1 0 1 4 6
+p440
+aVMarcus Camby POR 02/04/2012 POR vs. DEN W 30 4 2 6 33.3 0 0 - 0 0 - 7 13 20 2 2 2 2 3 11
+p441
+aVWesley Matthews POR 02/04/2012 POR vs. DEN W 30 11 4 8 50.0 2 4 50.0 1 2 50.0 0 2 2 5 1 0 0 1 29
+p442
+aVLuke Babbitt POR 02/04/2012 POR vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p443
+aVLaMarcus Aldridge POR 02/04/2012 POR vs. DEN W 41 29 13 18 72.2 0 0 - 3 3 100.0 1 8 9 5 2 1 4 4 27
+p444
+aVNicolas Batum POR 02/04/2012 POR vs. DEN W 25 33 11 19 57.9 9 15 60.0 2 3 66.7 0 0 0 0 3 1 1 1 19
+p445
+aVElliot Williams POR 02/04/2012 POR vs. DEN W 3 5 2 2 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 1 -5
+p446
+aVNolan Smith POR 02/04/2012 POR vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p447
+aVJamal Crawford POR 02/04/2012 POR vs. DEN W 30 8 3 7 42.9 1 4 25.0 1 1 100.0 0 0 0 8 0 0 2 0 17
+p448
+aVChris Johnson POR 02/04/2012 POR vs. DEN W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -4
+p449
+aVGerald Wallace POR 02/02/2012 POR @ SAC L 40 8 4 7 57.1 0 0 - 0 1 0.0 0 3 3 2 2 0 3 4 6
+p450
+aVWesley Matthews POR 02/02/2012 POR @ SAC L 38 9 4 12 33.3 1 4 25.0 0 0 - 2 0 2 1 3 0 0 4 -4
+p451
+aVCraig Smith POR 02/02/2012 POR @ SAC L 13 0 0 3 0.0 0 0 - 0 0 - 2 3 5 1 0 0 2 2 1
+p452
+aVMarcus Camby POR 02/02/2012 POR @ SAC L 25 2 1 4 25.0 0 0 - 0 2 0.0 1 3 4 4 2 5 0 1 -5
+p453
+aVJamal Crawford POR 02/02/2012 POR @ SAC L 28 17 6 17 35.3 1 5 20.0 4 5 80.0 0 4 4 3 2 0 4 1 -4
+p454
+aVLaMarcus Aldridge POR 02/02/2012 POR @ SAC L 35 28 12 19 63.2 0 0 - 4 8 50.0 7 7 14 2 0 0 2 2 -4
+p455
+aVKurt Thomas POR 02/02/2012 POR @ SAC L 18 10 5 7 71.4 0 0 - 0 0 - 1 4 5 0 0 1 1 4 2
+p456
+aVRaymond Felton POR 02/02/2012 POR @ SAC L 36 15 7 17 41.2 1 7 14.3 0 0 - 0 4 4 10 3 0 1 3 -13
+p457
+aVElliot Williams POR 02/02/2012 POR @ SAC L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 6
+p458
+aVRaymond Felton POR 02/01/2012 POR vs. CHA W 31 11 5 8 62.5 1 3 33.3 0 0 - 0 3 3 7 2 0 3 3 41
+p459
+aVElliot Williams POR 02/01/2012 POR vs. CHA W 18 7 3 6 50.0 0 1 0.0 1 2 50.0 1 1 2 0 2 0 2 2 7
+p460
+aVJamal Crawford POR 02/01/2012 POR vs. CHA W 21 24 9 14 64.3 4 6 66.7 2 2 100.0 0 1 1 1 2 0 0 1 20
+p461
+aVChris Johnson POR 02/01/2012 POR vs. CHA W 5 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 1 -2
+p462
+aVKurt Thomas POR 02/01/2012 POR vs. CHA W 17 2 1 1 100.0 0 0 - 0 0 - 1 5 6 0 2 2 3 3 18
+p463
+aVGerald Wallace POR 02/01/2012 POR vs. CHA W 28 23 7 14 50.0 1 2 50.0 8 9 88.9 0 5 5 2 3 1 1 0 38
+p464
+aVNolan Smith POR 02/01/2012 POR vs. CHA W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 2 0 0
+p465
+aVArmon Johnson POR 02/01/2012 POR vs. CHA W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -2
+p466
+aVWesley Matthews POR 02/01/2012 POR vs. CHA W 32 6 3 6 50.0 0 1 0.0 0 0 - 2 3 5 6 3 1 0 1 37
+p467
+aVLaMarcus Aldridge POR 02/01/2012 POR vs. CHA W 26 22 8 16 50.0 0 0 - 6 6 100.0 1 2 3 2 0 1 2 3 31
+p468
+aVCraig Smith POR 02/01/2012 POR vs. CHA W 14 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 2 0 1 2 8
+p469
+aVMarcus Camby POR 02/01/2012 POR vs. CHA W 26 4 2 3 66.7 0 0 - 0 0 - 1 6 7 5 1 5 0 2 28
+p470
+aVLuke Babbitt POR 02/01/2012 POR vs. CHA W 10 3 1 4 25.0 1 1 100.0 0 0 - 0 6 6 0 0 1 1 0 -4
+p471
+aVWesley Matthews POR 01/30/2012 POR @ UTA L 25 6 3 12 25.0 0 5 0.0 0 0 - 0 2 2 1 0 0 0 5 6
+p472
+aVMarcus Camby POR 01/30/2012 POR @ UTA L 28 6 3 4 75.0 0 0 - 0 0 - 0 5 5 2 1 4 1 4 0
+p473
+aVElliot Williams POR 01/30/2012 POR @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p474
+aVGerald Wallace POR 01/30/2012 POR @ UTA L 40 9 4 7 57.1 0 2 0.0 1 2 50.0 2 7 9 4 1 1 1 4 -7
+p475
+aVNicolas Batum POR 01/30/2012 POR @ UTA L 31 15 5 9 55.6 4 5 80.0 1 2 50.0 0 3 3 2 1 1 3 3 -11
+p476
+aVLaMarcus Aldridge POR 01/30/2012 POR @ UTA L 39 25 11 20 55.0 0 0 - 3 4 75.0 2 5 7 1 1 2 1 1 -7
+p477
+aVKurt Thomas POR 01/30/2012 POR @ UTA L 15 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 0 2 1 4 0
+p478
+aVCraig Smith POR 01/30/2012 POR @ UTA L 8 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p479
+aVJamal Crawford POR 01/30/2012 POR @ UTA L 24 14 6 12 50.0 0 3 0.0 2 2 100.0 0 0 0 2 0 0 4 1 3
+p480
+aVRaymond Felton POR 01/30/2012 POR @ UTA L 30 8 2 9 22.2 1 5 20.0 3 3 100.0 1 3 4 7 2 0 2 2 -4
+p481
+aVChris Johnson POR 01/27/2012 POR vs. PHX W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p482
+aVKurt Thomas POR 01/27/2012 POR vs. PHX W 18 8 3 6 50.0 0 0 - 2 2 100.0 0 9 9 1 1 0 1 3 15
+p483
+aVMarcus Camby POR 01/27/2012 POR vs. PHX W 24 0 0 4 0.0 0 0 - 0 0 - 2 18 20 3 2 2 1 2 21
+p484
+aVLuke Babbitt POR 01/27/2012 POR vs. PHX W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p485
+aVCraig Smith POR 01/27/2012 POR vs. PHX W 12 5 2 3 66.7 0 0 - 1 1 100.0 3 1 4 2 3 0 2 2 5
+p486
+aVElliot Williams POR 01/27/2012 POR vs. PHX W 9 8 4 8 50.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 0 0
+p487
+aVWesley Matthews POR 01/27/2012 POR vs. PHX W 29 16 6 13 46.2 4 7 57.1 0 0 - 0 4 4 4 0 1 1 0 30
+p488
+aVLaMarcus Aldridge POR 01/27/2012 POR vs. PHX W 33 23 10 16 62.5 0 0 - 3 5 60.0 2 5 7 3 0 1 0 0 30
+p489
+aVGerald Wallace POR 01/27/2012 POR vs. PHX W 28 17 6 11 54.5 1 4 25.0 4 4 100.0 0 1 1 0 3 1 0 2 29
+p490
+aVNolan Smith POR 01/27/2012 POR vs. PHX W 4 1 0 1 0.0 0 0 - 1 1 100.0 0 2 2 0 0 0 1 2 2
+p491
+aVRaymond Felton POR 01/27/2012 POR vs. PHX W 23 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 3 3 0 4 3 17
+p492
+aVJamal Crawford POR 01/27/2012 POR vs. PHX W 25 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 10 1 0 1 1 21
+p493
+aVNicolas Batum POR 01/27/2012 POR vs. PHX W 27 14 4 11 36.4 1 5 20.0 5 6 83.3 4 1 5 1 1 0 3 0 16
+p494
+aVKurt Thomas POR 01/25/2012 POR @ GSW L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -9
+p495
+aVJamal Crawford POR 01/25/2012 POR @ GSW L 29 16 5 14 35.7 4 10 40.0 2 2 100.0 0 2 2 3 0 0 6 1 -9
+p496
+aVRaymond Felton POR 01/25/2012 POR @ GSW L 30 5 2 10 20.0 1 4 25.0 0 0 - 0 0 0 7 1 1 1 4 6
+p497
+aVMarcus Camby POR 01/25/2012 POR @ GSW L 24 4 2 3 66.7 0 0 - 0 0 - 5 11 16 2 1 0 0 1 -4
+p498
+aVNolan Smith POR 01/25/2012 POR @ GSW L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p499
+aVLaMarcus Aldridge POR 01/25/2012 POR @ GSW L 37 18 7 17 41.2 0 1 0.0 4 4 100.0 1 6 7 5 1 1 4 1 0
+p500
+aVNicolas Batum POR 01/25/2012 POR @ GSW L 23 16 5 8 62.5 0 1 0.0 6 7 85.7 1 2 3 1 1 2 0 3 2
+p501
+aVCraig Smith POR 01/25/2012 POR @ GSW L 14 9 3 8 37.5 0 0 - 3 4 75.0 2 4 6 1 0 0 0 2 -7
+p502
+aVWesley Matthews POR 01/25/2012 POR @ GSW L 30 15 5 9 55.6 3 4 75.0 2 2 100.0 1 1 2 2 0 0 0 0 -11
+p503
+aVGerald Wallace POR 01/25/2012 POR @ GSW L 32 6 3 9 33.3 0 1 0.0 0 1 0.0 2 4 6 3 1 0 1 2 -5
+p504
+aVNicolas Batum POR 01/24/2012 POR vs. MEM W 20 10 2 4 50.0 1 2 50.0 5 5 100.0 0 2 2 2 1 1 1 0 -12
+p505
+aVElliot Williams POR 01/24/2012 POR vs. MEM W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p506
+aVLaMarcus Aldridge POR 01/24/2012 POR vs. MEM W 31 23 8 13 61.5 0 0 - 7 8 87.5 2 4 6 3 0 0 3 4 26
+p507
+aVRaymond Felton POR 01/24/2012 POR vs. MEM W 30 10 2 6 33.3 1 4 25.0 5 6 83.3 0 0 0 2 0 0 6 1 17
+p508
+aVWesley Matthews POR 01/24/2012 POR vs. MEM W 31 13 3 9 33.3 1 6 16.7 6 6 100.0 0 1 1 1 0 0 0 2 26
+p509
+aVJamal Crawford POR 01/24/2012 POR vs. MEM W 22 15 5 13 38.5 2 5 40.0 3 3 100.0 0 0 0 4 0 0 1 1 2
+p510
+aVLuke Babbitt POR 01/24/2012 POR vs. MEM W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p511
+aVKurt Thomas POR 01/24/2012 POR vs. MEM W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 2 0 0 2 -2
+p512
+aVGerald Wallace POR 01/24/2012 POR vs. MEM W 32 7 3 6 50.0 0 2 0.0 1 2 50.0 1 10 11 1 2 0 2 2 19
+p513
+aVMarcus Camby POR 01/24/2012 POR vs. MEM W 32 3 1 2 50.0 0 0 - 1 2 50.0 4 18 22 1 2 5 4 3 29
+p514
+aVChris Johnson POR 01/24/2012 POR vs. MEM W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p515
+aVCraig Smith POR 01/24/2012 POR vs. MEM W 13 8 3 8 37.5 0 0 - 2 2 100.0 2 1 3 0 0 0 1 1 -8
+p516
+aVNolan Smith POR 01/24/2012 POR vs. MEM W 9 2 1 6 16.7 0 3 0.0 0 2 0.0 1 1 2 1 1 0 1 0 -12
+p517
+aVLuke Babbitt POR 01/23/2012 POR vs. SAC W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p518
+aVNicolas Batum POR 01/23/2012 POR vs. SAC W 19 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -8
+p519
+aVKurt Thomas POR 01/23/2012 POR vs. SAC W 18 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 4 3
+p520
+aVGerald Wallace POR 01/23/2012 POR vs. SAC W 35 20 9 12 75.0 1 1 100.0 1 3 33.3 2 6 8 2 2 1 3 4 14
+p521
+aVLaMarcus Aldridge POR 01/23/2012 POR vs. SAC W 28 13 6 14 42.9 0 0 - 1 3 33.3 9 7 16 5 0 0 6 3 15
+p522
+aVWesley Matthews POR 01/23/2012 POR vs. SAC W 30 14 5 14 35.7 2 6 33.3 2 2 100.0 0 4 4 2 0 0 1 1 14
+p523
+aVChris Johnson POR 01/23/2012 POR vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p524
+aVJamal Crawford POR 01/23/2012 POR vs. SAC W 32 26 9 18 50.0 2 5 40.0 6 7 85.7 0 3 3 5 0 0 1 1 14
+p525
+aVRaymond Felton POR 01/23/2012 POR vs. SAC W 33 11 5 12 41.7 1 4 25.0 0 0 - 1 4 5 5 1 0 2 2 12
+p526
+aVCraig Smith POR 01/23/2012 POR vs. SAC W 22 10 4 8 50.0 0 0 - 2 4 50.0 1 6 7 1 1 0 0 4 -2
+p527
+aVElliot Williams POR 01/23/2012 POR vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p528
+aVNolan Smith POR 01/23/2012 POR vs. SAC W 8 0 0 3 0.0 0 2 0.0 0 2 0.0 1 0 1 1 0 0 0 0 5
+p529
+aVMarcus Camby POR 01/23/2012 POR vs. SAC W 13 2 1 3 33.3 0 0 - 0 0 - 4 2 6 1 1 1 2 3 2
+p530
+aVKurt Thomas POR 01/21/2012 POR @ DET L 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 1 2 1 2 -1
+p531
+aVJamal Crawford POR 01/21/2012 POR @ DET L 19 8 4 13 30.8 0 3 0.0 0 0 - 0 2 2 1 0 0 2 0 2
+p532
+aVRaymond Felton POR 01/21/2012 POR @ DET L 38 20 6 9 66.7 1 4 25.0 7 8 87.5 0 1 1 9 2 0 2 0 6
+p533
+aVChris Johnson POR 01/21/2012 POR @ DET L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p534
+aVNolan Smith POR 01/21/2012 POR @ DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p535
+aVWesley Matthews POR 01/21/2012 POR @ DET L 36 8 3 10 30.0 1 5 20.0 1 2 50.0 2 4 6 2 2 0 0 3 -12
+p536
+aVLuke Babbitt POR 01/21/2012 POR @ DET L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p537
+aVMarcus Camby POR 01/21/2012 POR @ DET L 26 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 0 1 0 5 -2
+p538
+aVLaMarcus Aldridge POR 01/21/2012 POR @ DET L 34 25 9 17 52.9 0 0 - 7 8 87.5 2 2 4 2 0 0 2 4 1
+p539
+aVNicolas Batum POR 01/21/2012 POR @ DET L 42 14 5 15 33.3 1 7 14.3 3 4 75.0 3 6 9 3 1 0 1 2 2
+p540
+aVCraig Smith POR 01/21/2012 POR @ DET L 18 10 4 7 57.1 0 0 - 2 2 100.0 3 2 5 0 1 0 0 3 -3
+p541
+aVMarcus Camby POR 01/20/2012 POR @ TOR W 28 3 1 5 20.0 0 0 - 1 1 100.0 2 8 10 3 1 2 2 3 8
+p542
+aVRaymond Felton POR 01/20/2012 POR @ TOR W 35 14 6 9 66.7 2 4 50.0 0 0 - 0 1 1 5 0 0 2 3 6
+p543
+aVNolan Smith POR 01/20/2012 POR @ TOR W 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 1 0 4
+p544
+aVGerald Wallace POR 01/20/2012 POR @ TOR W 34 8 3 10 30.0 0 1 0.0 2 2 100.0 2 8 10 3 1 1 1 2 6
+p545
+aVCraig Smith POR 01/20/2012 POR @ TOR W 9 7 2 3 66.7 0 0 - 3 4 75.0 1 3 4 0 0 0 1 2 5
+p546
+aVKurt Thomas POR 01/20/2012 POR @ TOR W 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p547
+aVNicolas Batum POR 01/20/2012 POR @ TOR W 21 9 3 6 50.0 1 4 25.0 2 4 50.0 0 2 2 0 1 0 1 0 2
+p548
+aVWesley Matthews POR 01/20/2012 POR @ TOR W 35 8 2 9 22.2 2 3 66.7 2 2 100.0 0 2 2 2 1 0 2 4 3
+p549
+aVLaMarcus Aldridge POR 01/20/2012 POR @ TOR W 39 33 12 25 48.0 0 0 - 9 14 64.3 9 14 23 5 2 0 6 4 7
+p550
+aVJamal Crawford POR 01/20/2012 POR @ TOR W 19 10 3 10 30.0 0 3 0.0 4 4 100.0 0 1 1 0 0 0 2 0 7
+p551
+aVWesley Matthews POR 01/18/2012 POR @ ATL L 26 10 2 13 15.4 1 7 14.3 5 5 100.0 1 2 3 2 5 0 2 4 8
+p552
+aVLaMarcus Aldridge POR 01/18/2012 POR @ ATL L 43 20 10 19 52.6 0 0 - 0 2 0.0 4 7 11 4 2 1 1 2 3
+p553
+aVGerald Wallace POR 01/18/2012 POR @ ATL L 43 8 4 12 33.3 0 2 0.0 0 2 0.0 2 7 9 0 0 2 3 2 1
+p554
+aVKurt Thomas POR 01/18/2012 POR @ ATL L 23 8 4 6 66.7 0 0 - 0 0 - 5 4 9 1 0 1 1 5 3
+p555
+aVJamal Crawford POR 01/18/2012 POR @ ATL L 30 22 8 22 36.4 2 4 50.0 4 4 100.0 0 3 3 5 1 1 0 2 -12
+p556
+aVNicolas Batum POR 01/18/2012 POR @ ATL L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 2 -2
+p557
+aVCraig Smith POR 01/18/2012 POR @ ATL L 24 9 3 6 50.0 0 1 0.0 3 5 60.0 1 2 3 0 0 0 1 2 -17
+p558
+aVNolan Smith POR 01/18/2012 POR @ ATL L 10 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 6
+p559
+aVRaymond Felton POR 01/18/2012 POR @ ATL L 30 9 3 9 33.3 1 2 50.0 2 2 100.0 0 1 1 8 1 0 1 2 -5
+p560
+aVGerald Wallace POR 01/16/2012 POR @ NOH W 32 14 5 11 45.5 1 2 50.0 3 6 50.0 1 6 7 3 1 0 0 2 6
+p561
+aVWesley Matthews POR 01/16/2012 POR @ NOH W 36 10 4 10 40.0 2 5 40.0 0 1 0.0 0 2 2 1 0 0 0 0 7
+p562
+aVJamal Crawford POR 01/16/2012 POR @ NOH W 23 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 7 1 0 4 3 0
+p563
+aVCraig Smith POR 01/16/2012 POR @ NOH W 14 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 1 0 2 1 4
+p564
+aVRaymond Felton POR 01/16/2012 POR @ NOH W 37 2 1 8 12.5 0 3 0.0 0 0 - 0 4 4 12 3 0 8 3 7
+p565
+aVLaMarcus Aldridge POR 01/16/2012 POR @ NOH W 40 22 10 17 58.8 0 1 0.0 2 2 100.0 1 8 9 1 2 1 2 4 3
+p566
+aVKurt Thomas POR 01/16/2012 POR @ NOH W 26 8 4 5 80.0 0 0 - 0 0 - 1 6 7 0 0 0 1 5 17
+p567
+aVNicolas Batum POR 01/16/2012 POR @ NOH W 32 19 6 11 54.5 2 5 40.0 5 6 83.3 0 6 6 0 1 0 0 2 -9
+p568
+aVKurt Thomas POR 01/14/2012 POR @ HOU L 20 4 2 5 40.0 0 0 - 0 0 - 1 6 7 0 1 1 0 2 3
+p569
+aVNolan Smith POR 01/14/2012 POR @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 3
+p570
+aVWesley Matthews POR 01/14/2012 POR @ HOU L 34 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 0 1 0 0 3 -13
+p571
+aVJamal Crawford POR 01/14/2012 POR @ HOU L 29 11 3 12 25.0 2 6 33.3 3 3 100.0 0 3 3 4 4 0 3 4 6
+p572
+aVRaymond Felton POR 01/14/2012 POR @ HOU L 40 13 6 12 50.0 0 6 0.0 1 2 50.0 1 3 4 5 0 2 2 4 2
+p573
+aVCraig Smith POR 01/14/2012 POR @ HOU L 16 11 4 5 80.0 0 0 - 3 6 50.0 1 2 3 1 1 1 0 1 -2
+p574
+aVLaMarcus Aldridge POR 01/14/2012 POR @ HOU L 47 22 7 21 33.3 0 0 - 8 10 80.0 7 3 10 5 1 2 2 2 -6
+p575
+aVNicolas Batum POR 01/14/2012 POR @ HOU L 42 29 9 15 60.0 6 7 85.7 5 6 83.3 4 4 8 1 1 4 3 4 1
+p576
+aVGerald Wallace POR 01/14/2012 POR @ HOU L 35 10 4 12 33.3 0 3 0.0 2 4 50.0 3 5 8 2 1 0 3 3 -4
+p577
+aVKurt Thomas POR 01/13/2012 POR @ SAS L 16 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 1 0 3 2 -1
+p578
+aVMarcus Camby POR 01/13/2012 POR @ SAS L 13 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 2 2 4 0 2
+p579
+aVWesley Matthews POR 01/13/2012 POR @ SAS L 34 12 5 11 45.5 1 3 33.3 1 2 50.0 1 2 3 2 2 0 2 3 -15
+p580
+aVRaymond Felton POR 01/13/2012 POR @ SAS L 36 13 6 17 35.3 1 4 25.0 0 0 - 0 1 1 7 5 1 1 3 1
+p581
+aVNolan Smith POR 01/13/2012 POR @ SAS L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 1
+p582
+aVNicolas Batum POR 01/13/2012 POR @ SAS L 22 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 3 -30
+p583
+aVLuke Babbitt POR 01/13/2012 POR @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p584
+aVJamal Crawford POR 01/13/2012 POR @ SAS L 24 5 2 11 18.2 1 4 25.0 0 0 - 0 0 0 2 0 0 1 1 -22
+p585
+aVChris Johnson POR 01/13/2012 POR @ SAS L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p586
+aVCraig Smith POR 01/13/2012 POR @ SAS L 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 1 1 -8
+p587
+aVGerald Wallace POR 01/13/2012 POR @ SAS L 40 12 4 11 36.4 1 4 25.0 3 5 60.0 2 10 12 5 4 1 4 3 -6
+p588
+aVElliot Williams POR 01/13/2012 POR @ SAS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 1
+p589
+aVLaMarcus Aldridge POR 01/13/2012 POR @ SAS L 33 29 12 21 57.1 0 0 - 5 5 100.0 2 5 7 2 2 1 1 5 -3
+p590
+aVJamal Crawford POR 01/11/2012 POR vs. ORL L 30 24 10 17 58.8 3 6 50.0 1 1 100.0 0 3 3 5 0 0 0 1 6
+p591
+aVNicolas Batum POR 01/11/2012 POR vs. ORL L 35 14 4 8 50.0 2 3 66.7 4 4 100.0 3 1 4 2 0 0 0 2 17
+p592
+aVMarcus Camby POR 01/11/2012 POR vs. ORL L 13 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 0 2 3 -20
+p593
+aVCraig Smith POR 01/11/2012 POR vs. ORL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p594
+aVKurt Thomas POR 01/11/2012 POR vs. ORL L 12 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -9
+p595
+aVLuke Babbitt POR 01/11/2012 POR vs. ORL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 3
+p596
+aVGerald Wallace POR 01/11/2012 POR vs. ORL L 37 15 6 12 50.0 1 4 25.0 2 2 100.0 1 3 4 5 3 0 2 1 0
+p597
+aVLaMarcus Aldridge POR 01/11/2012 POR vs. ORL L 40 23 10 17 58.8 1 1 100.0 2 2 100.0 2 6 8 2 2 0 0 5 4
+p598
+aVWesley Matthews POR 01/11/2012 POR vs. ORL L 36 17 7 13 53.8 2 7 28.6 1 2 50.0 0 1 1 0 2 0 1 1 2
+p599
+aVRaymond Felton POR 01/11/2012 POR vs. ORL L 30 7 2 11 18.2 1 3 33.3 2 2 100.0 0 2 2 8 0 0 2 1 -14
+p600
+aVLaMarcus Aldridge POR 01/10/2012 POR vs. LAC W 33 18 8 20 40.0 0 0 - 2 2 100.0 2 5 7 3 0 1 1 4 8
+p601
+aVCraig Smith POR 01/10/2012 POR vs. LAC W 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 2 0 0 0 1 -5
+p602
+aVNicolas Batum POR 01/10/2012 POR vs. LAC W 16 9 2 5 40.0 0 1 0.0 5 5 100.0 0 1 1 0 0 0 0 1 4
+p603
+aVGerald Wallace POR 01/10/2012 POR vs. LAC W 36 20 8 12 66.7 2 4 50.0 2 4 50.0 0 4 4 4 1 0 2 6 11
+p604
+aVJamal Crawford POR 01/10/2012 POR vs. LAC W 19 9 2 6 33.3 1 4 25.0 4 4 100.0 0 1 1 1 0 0 2 2 -1
+p605
+aVRaymond Felton POR 01/10/2012 POR vs. LAC W 38 17 5 10 50.0 1 2 50.0 6 8 75.0 0 1 1 8 3 0 3 3 3
+p606
+aVWesley Matthews POR 01/10/2012 POR vs. LAC W 40 18 5 7 71.4 1 3 33.3 7 7 100.0 2 1 3 1 1 0 1 4 16
+p607
+aVKurt Thomas POR 01/10/2012 POR vs. LAC W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 2 0 0 3 2
+p608
+aVMarcus Camby POR 01/10/2012 POR vs. LAC W 35 12 6 9 66.7 0 0 - 0 2 0.0 3 8 11 2 1 1 2 0 2
+p609
+aVNicolas Batum POR 01/08/2012 POR vs. CLE W 21 11 4 9 44.4 1 2 50.0 2 2 100.0 0 4 4 1 2 0 2 2 10
+p610
+aVWesley Matthews POR 01/08/2012 POR vs. CLE W 33 24 8 17 47.1 3 9 33.3 5 6 83.3 0 2 2 3 1 0 0 1 16
+p611
+aVRaymond Felton POR 01/08/2012 POR vs. CLE W 30 2 1 9 11.1 0 3 0.0 0 0 - 2 2 4 7 1 0 5 2 16
+p612
+aVJamal Crawford POR 01/08/2012 POR vs. CLE W 21 4 2 10 20.0 0 4 0.0 0 0 - 0 2 2 3 2 0 0 1 4
+p613
+aVElliot Williams POR 01/08/2012 POR vs. CLE W 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p614
+aVMarcus Camby POR 01/08/2012 POR vs. CLE W 25 0 0 0 - 0 0 - 0 0 - 1 8 9 1 0 1 0 4 13
+p615
+aVCraig Smith POR 01/08/2012 POR vs. CLE W 13 6 3 4 75.0 0 0 - 0 0 - 2 1 3 1 1 0 1 1 -4
+p616
+aVGerald Wallace POR 01/08/2012 POR vs. CLE W 34 16 7 13 53.8 1 3 33.3 1 2 50.0 0 6 6 4 3 1 1 1 21
+p617
+aVKurt Thomas POR 01/08/2012 POR vs. CLE W 20 2 1 5 20.0 0 0 - 0 0 - 1 3 4 3 0 2 2 2 6
+p618
+aVChris Johnson POR 01/08/2012 POR vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -2
+p619
+aVLaMarcus Aldridge POR 01/08/2012 POR vs. CLE W 35 28 10 21 47.6 0 0 - 8 8 100.0 3 5 8 4 4 1 2 3 24
+p620
+aVNolan Smith POR 01/08/2012 POR vs. CLE W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p621
+aVWesley Matthews POR 01/06/2012 POR @ PHX L 24 8 2 4 50.0 1 3 33.3 3 3 100.0 0 1 1 0 2 0 3 1 -16
+p622
+aVNolan Smith POR 01/06/2012 POR @ PHX L 14 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 3 3 -5
+p623
+aVNicolas Batum POR 01/06/2012 POR @ PHX L 29 12 4 13 30.8 0 5 0.0 4 6 66.7 1 2 3 2 1 2 0 2 -10
+p624
+aVCraig Smith POR 01/06/2012 POR @ PHX L 16 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 1 1 0 2 -8
+p625
+aVKurt Thomas POR 01/06/2012 POR @ PHX L 14 4 2 3 66.7 0 0 - 0 0 - 0 6 6 2 0 0 0 2 -1
+p626
+aVMarcus Camby POR 01/06/2012 POR @ PHX L 23 3 1 5 20.0 0 0 - 1 2 50.0 7 4 11 2 0 0 1 3 -20
+p627
+aVRaymond Felton POR 01/06/2012 POR @ PHX L 28 9 3 7 42.9 0 3 0.0 3 4 75.0 0 1 1 2 1 0 1 2 -19
+p628
+aVJamal Crawford POR 01/06/2012 POR @ PHX L 21 10 3 14 21.4 1 3 33.3 3 3 100.0 0 1 1 3 2 0 4 2 -3
+p629
+aVGerald Wallace POR 01/06/2012 POR @ PHX L 23 1 0 6 0.0 0 2 0.0 1 2 50.0 0 2 2 1 0 0 4 2 -17
+p630
+aVElliot Williams POR 01/06/2012 POR @ PHX L 10 4 2 5 40.0 0 2 0.0 0 3 0.0 0 1 1 0 0 1 0 1 -5
+p631
+aVLaMarcus Aldridge POR 01/06/2012 POR @ PHX L 30 14 6 14 42.9 0 0 - 2 4 50.0 3 4 7 1 0 0 1 1 -17
+p632
+aVChris Johnson POR 01/06/2012 POR @ PHX L 9 4 0 1 0.0 0 0 - 4 4 100.0 1 1 2 0 0 2 0 1 -4
+p633
+aVKurt Thomas POR 01/05/2012 POR vs. LAL W 24 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 0 1 2 0 3 11
+p634
+aVNicolas Batum POR 01/05/2012 POR vs. LAL W 19 2 0 5 0.0 0 1 0.0 2 2 100.0 2 0 2 0 0 1 0 2 0
+p635
+aVRaymond Felton POR 01/05/2012 POR vs. LAL W 41 8 3 14 21.4 0 3 0.0 2 2 100.0 0 4 4 10 0 0 1 1 11
+p636
+aVMarcus Camby POR 01/05/2012 POR vs. LAL W 22 0 0 2 0.0 0 0 - 0 0 - 2 3 5 4 0 2 1 2 4
+p637
+aVJamal Crawford POR 01/05/2012 POR vs. LAL W 23 17 6 15 40.0 1 2 50.0 4 5 80.0 0 2 2 3 1 2 0 0 6
+p638
+aVLaMarcus Aldridge POR 01/05/2012 POR vs. LAL W 33 28 11 20 55.0 0 0 - 6 7 85.7 1 9 10 0 1 0 1 5 5
+p639
+aVWesley Matthews POR 01/05/2012 POR vs. LAL W 29 16 6 11 54.5 3 4 75.0 1 1 100.0 1 0 1 2 0 0 0 3 6
+p640
+aVCraig Smith POR 01/05/2012 POR vs. LAL W 11 2 1 2 50.0 0 0 - 0 0 - 0 5 5 1 0 0 0 1 3
+p641
+aVGerald Wallace POR 01/05/2012 POR vs. LAL W 38 31 13 19 68.4 1 2 50.0 4 7 57.1 2 3 5 0 2 0 1 3 9
+p642
+aVCraig Smith POR 01/03/2012 POR @ OKC W 12 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 1 0 1 0 -1
+p643
+aVNicolas Batum POR 01/03/2012 POR @ OKC W 24 12 4 8 50.0 3 4 75.0 1 2 50.0 1 6 7 0 0 2 0 1 -1
+p644
+aVKurt Thomas POR 01/03/2012 POR @ OKC W 14 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 2 0 0 0 2 1
+p645
+aVWesley Matthews POR 01/03/2012 POR @ OKC W 39 16 7 12 58.3 0 2 0.0 2 3 66.7 1 5 6 2 4 1 3 1 7
+p646
+aVRaymond Felton POR 01/03/2012 POR @ OKC W 36 12 4 11 36.4 1 3 33.3 3 4 75.0 1 3 4 7 0 0 2 1 10
+p647
+aVGerald Wallace POR 01/03/2012 POR @ OKC W 33 13 4 14 28.6 1 5 20.0 4 4 100.0 2 8 10 2 0 0 0 2 11
+p648
+aVJamal Crawford POR 01/03/2012 POR @ OKC W 21 8 2 6 33.3 1 1 100.0 3 3 100.0 0 1 1 2 0 0 0 2 7
+p649
+aVLaMarcus Aldridge POR 01/03/2012 POR @ OKC W 42 30 10 19 52.6 0 0 - 10 12 83.3 3 5 8 1 0 1 3 5 11
+p650
+aVMarcus Camby POR 01/03/2012 POR @ OKC W 18 7 2 3 66.7 0 0 - 3 4 75.0 3 2 5 3 1 0 0 2 5
+p651
+aVGerald Wallace POR 01/01/2012 POR @ LAC L 30 0 0 5 0.0 0 0 - 0 0 - 1 6 7 0 3 0 2 4 -10
+p652
+aVJamal Crawford POR 01/01/2012 POR @ LAC L 28 23 7 16 43.8 1 5 20.0 8 9 88.9 2 2 4 4 0 0 5 1 8
+p653
+aVMarcus Camby POR 01/01/2012 POR @ LAC L 25 3 1 3 33.3 0 0 - 1 2 50.0 2 6 8 0 2 1 2 2 -16
+p654
+aVKurt Thomas POR 01/01/2012 POR @ LAC L 18 4 2 3 66.7 0 0 - 0 0 - 1 2 3 4 1 1 1 5 8
+p655
+aVRaymond Felton POR 01/01/2012 POR @ LAC L 38 12 4 10 40.0 0 4 0.0 4 4 100.0 0 1 1 8 0 0 6 3 1
+p656
+aVLaMarcus Aldridge POR 01/01/2012 POR @ LAC L 42 19 9 21 42.9 0 1 0.0 1 2 50.0 4 5 9 2 1 0 2 3 -2
+p657
+aVCraig Smith POR 01/01/2012 POR @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p658
+aVWesley Matthews POR 01/01/2012 POR @ LAC L 31 12 4 10 40.0 1 2 50.0 3 3 100.0 1 3 4 0 1 0 0 4 -20
+p659
+aVNicolas Batum POR 01/01/2012 POR @ LAC L 26 15 6 10 60.0 2 3 66.7 1 2 50.0 2 6 8 2 1 0 3 2 8
+p660
+aVJamal Crawford POR 12/29/2011 POR vs. DEN W 31 22 6 16 37.5 1 5 20.0 9 9 100.0 0 5 5 2 1 0 6 3 -6
+p661
+aVWesley Matthews POR 12/29/2011 POR vs. DEN W 39 25 9 15 60.0 5 8 62.5 2 2 100.0 1 4 5 2 1 0 3 3 17
+p662
+aVKurt Thomas POR 12/29/2011 POR vs. DEN W 12 7 3 3 100.0 0 0 - 1 2 50.0 1 5 6 0 0 0 0 3 -6
+p663
+aVGerald Wallace POR 12/29/2011 POR vs. DEN W 38 13 5 7 71.4 0 1 0.0 3 3 100.0 0 6 6 1 0 1 3 3 12
+p664
+aVMarcus Camby POR 12/29/2011 POR vs. DEN W 26 2 1 2 50.0 0 0 - 0 0 - 2 10 12 2 0 3 3 4 17
+p665
+aVNicolas Batum POR 12/29/2011 POR vs. DEN W 21 6 1 6 16.7 1 3 33.3 3 3 100.0 1 5 6 1 1 4 4 2 -6
+p666
+aVRaymond Felton POR 12/29/2011 POR vs. DEN W 34 23 10 16 62.5 1 3 33.3 2 2 100.0 1 4 5 6 0 0 4 3 7
+p667
+aVLaMarcus Aldridge POR 12/29/2011 POR vs. DEN W 39 13 6 14 42.9 0 0 - 1 2 50.0 1 4 5 6 0 1 2 4 10
+p668
+aVNolan Smith POR 12/27/2011 POR vs. SAC W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p669
+aVCraig Smith POR 12/27/2011 POR vs. SAC W 8 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 1 0 0 0 10
+p670
+aVNicolas Batum POR 12/27/2011 POR vs. SAC W 29 15 4 12 33.3 1 4 25.0 6 6 100.0 3 2 5 1 0 0 1 1 16
+p671
+aVWesley Matthews POR 12/27/2011 POR vs. SAC W 22 8 4 14 28.6 0 5 0.0 0 0 - 1 4 5 2 0 1 1 2 16
+p672
+aVGerald Wallace POR 12/27/2011 POR vs. SAC W 36 25 8 11 72.7 1 3 33.3 8 9 88.9 1 7 8 5 0 2 1 4 25
+p673
+aVChris Johnson POR 12/27/2011 POR vs. SAC W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p674
+aVLuke Babbitt POR 12/27/2011 POR vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p675
+aVRaymond Felton POR 12/27/2011 POR vs. SAC W 26 5 2 8 25.0 1 3 33.3 0 1 0.0 0 1 1 6 2 0 2 3 9
+p676
+aVJamal Crawford POR 12/27/2011 POR vs. SAC W 25 6 2 11 18.2 0 3 0.0 2 2 100.0 1 0 1 4 1 0 1 2 5
+p677
+aVLaMarcus Aldridge POR 12/27/2011 POR vs. SAC W 33 24 10 15 66.7 0 0 - 4 6 66.7 3 5 8 0 1 0 1 3 16
+p678
+aVKurt Thomas POR 12/27/2011 POR vs. SAC W 18 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 3 0 3 3
+p679
+aVMarcus Camby POR 12/27/2011 POR vs. SAC W 24 2 0 3 0.0 0 0 - 2 4 50.0 3 6 9 5 1 2 3 3 18
+p680
+aVElliot Williams POR 12/27/2011 POR vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p681
+aVJamal Crawford POR 12/26/2011 POR vs. PHI W 22 12 5 10 50.0 2 3 66.7 0 0 - 0 4 4 4 4 0 0 2 2
+p682
+aVKurt Thomas POR 12/26/2011 POR vs. PHI W 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p683
+aVRaymond Felton POR 12/26/2011 POR vs. PHI W 35 12 4 14 28.6 0 3 0.0 4 6 66.7 0 6 6 8 1 0 3 4 6
+p684
+aVNicolas Batum POR 12/26/2011 POR vs. PHI W 21 10 4 10 40.0 2 4 50.0 0 0 - 3 2 5 1 0 0 1 3 -5
+p685
+aVNolan Smith POR 12/26/2011 POR vs. PHI W 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p686
+aVMarcus Camby POR 12/26/2011 POR vs. PHI W 29 6 2 7 28.6 0 0 - 2 2 100.0 4 9 13 6 0 2 0 1 3
+p687
+aVLaMarcus Aldridge POR 12/26/2011 POR vs. PHI W 42 25 11 25 44.0 0 0 - 3 4 75.0 3 4 7 3 3 3 2 2 9
+p688
+aVChris Johnson POR 12/26/2011 POR vs. PHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p689
+aVGerald Wallace POR 12/26/2011 POR vs. PHI W 33 21 8 13 61.5 1 2 50.0 4 5 80.0 5 4 9 1 2 0 4 3 11
+p690
+aVWesley Matthews POR 12/26/2011 POR vs. PHI W 41 16 4 14 28.6 3 6 50.0 5 6 83.3 2 4 6 0 1 1 1 2 8
+p691
+a.

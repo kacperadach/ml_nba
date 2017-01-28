@@ -1,0 +1,1708 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChucky Brown CLE 04/18/2001 CLE vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -4
+p2
+aVClar. Weatherspoon CLE 04/18/2001 CLE vs. IND L 30 12 5 10 50.0 0 0 - 2 2 100.0 2 3 5 2 0 1 1 0 -19
+p3
+aVChris Gatling CLE 04/18/2001 CLE vs. IND L 18 10 3 7 42.9 0 0 - 4 4 100.0 1 3 4 0 2 0 1 1 14
+p4
+aVMatt Harpring CLE 04/18/2001 CLE vs. IND L 32 9 4 8 50.0 0 1 0.0 1 2 50.0 2 5 7 2 0 0 1 1 -14
+p5
+aVAndre Miller CLE 04/18/2001 CLE vs. IND L 39 19 5 16 31.3 1 2 50.0 8 10 80.0 1 0 1 11 1 1 1 5 -21
+p6
+aVWesley Person CLE 04/18/2001 CLE vs. IND L 16 6 2 8 25.0 0 0 - 2 2 100.0 0 4 4 0 1 0 2 1 -14
+p7
+aVLamond Murray CLE 04/18/2001 CLE vs. IND L 35 22 10 19 52.6 1 3 33.3 1 1 100.0 3 3 6 1 2 1 1 3 11
+p8
+aVAnthony Johnson CLE 04/18/2001 CLE vs. IND L 14 2 1 4 25.0 0 0 - 0 0 - 0 4 4 5 1 0 1 1 17
+p9
+aVChris Mihm CLE 04/18/2001 CLE vs. IND L 35 13 6 12 50.0 0 0 - 1 2 50.0 4 9 13 0 0 2 1 1 -18
+p10
+aVTrajan Langdon CLE 04/18/2001 CLE vs. IND L 22 6 2 8 25.0 0 3 0.0 2 2 100.0 0 0 0 1 2 0 0 1 9
+p11
+aVRobert Traylor CLE 04/18/2001 CLE vs. IND L 18 2 1 6 16.7 0 0 - 0 0 - 0 4 4 1 2 0 1 1 19
+p12
+aVClar. Weatherspoon CLE 04/16/2001 CLE vs. NYK W 39 14 7 11 63.6 0 0 - 0 0 - 4 10 14 1 1 1 2 3 6
+p13
+aVAnthony Johnson CLE 04/16/2001 CLE vs. NYK W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 0 -12
+p14
+aVLamond Murray CLE 04/16/2001 CLE vs. NYK W 27 11 5 12 41.7 1 4 25.0 0 0 - 1 2 3 1 1 0 0 1 -6
+p15
+aVChris Mihm CLE 04/16/2001 CLE vs. NYK W 30 15 5 9 55.6 0 0 - 5 7 71.4 2 4 6 2 1 4 2 4 15
+p16
+aVMatt Harpring CLE 04/16/2001 CLE vs. NYK W 37 14 5 12 41.7 0 1 0.0 4 4 100.0 0 4 4 2 0 1 0 0 7
+p17
+aVWesley Person CLE 04/16/2001 CLE vs. NYK W 19 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 1 2 2 2
+p18
+aVTrajan Langdon CLE 04/16/2001 CLE vs. NYK W 16 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 1 2 0 1 4 -5
+p19
+aVRobert Traylor CLE 04/16/2001 CLE vs. NYK W 16 3 1 5 20.0 0 0 - 1 2 50.0 5 4 9 0 0 1 2 2 -4
+p20
+aVAndre Miller CLE 04/16/2001 CLE vs. NYK W 40 19 8 15 53.3 0 0 - 3 3 100.0 2 3 5 11 2 0 4 2 14
+p21
+aVChris Gatling CLE 04/16/2001 CLE vs. NYK W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 1 0 2 1 -7
+p22
+aVChris Mihm CLE 04/15/2001 CLE @ WAS W 21 8 4 7 57.1 0 0 - 0 0 - 2 3 5 0 0 1 3 1 11
+p23
+aVRobert Traylor CLE 04/15/2001 CLE @ WAS W 26 17 7 9 77.8 0 0 - 3 5 60.0 5 4 9 3 1 6 3 5 -1
+p24
+aVWesley Person CLE 04/15/2001 CLE @ WAS W 24 8 3 8 37.5 0 0 - 2 4 50.0 1 3 4 0 1 0 1 2 9
+p25
+aVLamond Murray CLE 04/15/2001 CLE @ WAS W 35 12 5 11 45.5 1 2 50.0 1 2 50.0 3 3 6 3 0 0 4 3 1
+p26
+aVMatt Harpring CLE 04/15/2001 CLE @ WAS W 18 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 1 1 0 3 9
+p27
+aVAnthony Johnson CLE 04/15/2001 CLE @ WAS W 14 5 2 6 33.3 0 0 - 1 1 100.0 1 1 2 5 0 1 0 1 0
+p28
+aVAndre Miller CLE 04/15/2001 CLE @ WAS W 29 20 8 13 61.5 0 0 - 4 7 57.1 0 2 2 8 2 0 2 2 11
+p29
+aVClar. Weatherspoon CLE 04/15/2001 CLE @ WAS W 29 15 5 7 71.4 0 0 - 5 6 83.3 5 7 12 0 1 0 1 1 9
+p30
+aVChris Gatling CLE 04/15/2001 CLE @ WAS W 20 13 6 12 50.0 0 0 - 1 1 100.0 1 2 3 0 0 0 2 2 -3
+p31
+aVBimbo Coles CLE 04/15/2001 CLE @ WAS W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p32
+aVTrajan Langdon CLE 04/15/2001 CLE @ WAS W 19 5 1 5 20.0 1 3 33.3 2 3 66.7 0 1 1 2 0 0 2 2 -3
+p33
+aVMatt Harpring CLE 04/13/2001 CLE @ NJN W 20 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 1 0 1 0 -4
+p34
+aVRobert Traylor CLE 04/13/2001 CLE @ NJN W 16 5 1 1 100.0 0 0 - 3 4 75.0 3 2 5 0 0 0 3 2 -3
+p35
+aVClar. Weatherspoon CLE 04/13/2001 CLE @ NJN W 35 10 2 7 28.6 0 0 - 6 6 100.0 3 7 10 0 1 2 3 3 7
+p36
+aVLamond Murray CLE 04/13/2001 CLE @ NJN W 33 22 8 14 57.1 1 2 50.0 5 5 100.0 0 1 1 0 2 1 1 1 21
+p37
+aVChris Mihm CLE 04/13/2001 CLE @ NJN W 28 14 5 9 55.6 0 0 - 4 6 66.7 4 6 10 1 1 1 3 3 -3
+p38
+aVAndre Miller CLE 04/13/2001 CLE @ NJN W 35 26 12 16 75.0 0 1 0.0 2 4 50.0 1 3 4 5 1 0 2 3 5
+p39
+aVBimbo Coles CLE 04/13/2001 CLE @ NJN W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 4 1 1
+p40
+aVChucky Brown CLE 04/13/2001 CLE @ NJN W 18 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 1 0 0 2 9
+p41
+aVWesley Person CLE 04/13/2001 CLE @ NJN W 22 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 0 0 2 1 -14
+p42
+aVTrajan Langdon CLE 04/13/2001 CLE @ NJN W 21 4 2 8 25.0 0 3 0.0 0 0 - 1 0 1 2 3 0 2 3 11
+p43
+aVRobert Traylor CLE 04/11/2001 CLE @ ATL L 18 2 1 4 25.0 0 0 - 0 0 - 3 0 3 3 0 0 0 2 -10
+p44
+aVBimbo Coles CLE 04/11/2001 CLE @ ATL L 17 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 2 1 -10
+p45
+aVTrajan Langdon CLE 04/11/2001 CLE @ ATL L 26 14 5 9 55.6 1 3 33.3 3 4 75.0 0 2 2 0 1 1 1 3 -1
+p46
+aVChris Gatling CLE 04/11/2001 CLE @ ATL L 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 5
+p47
+aVMatt Harpring CLE 04/11/2001 CLE @ ATL L 28 14 7 13 53.8 0 3 0.0 0 0 - 3 3 6 0 0 0 1 1 2
+p48
+aVChris Mihm CLE 04/11/2001 CLE @ ATL L 28 9 2 7 28.6 0 0 - 5 5 100.0 1 4 5 0 0 0 0 3 -13
+p49
+aVWesley Person CLE 04/11/2001 CLE @ ATL L 22 9 3 6 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 -4
+p50
+aVClar. Weatherspoon CLE 04/11/2001 CLE @ ATL L 36 22 6 8 75.0 0 0 - 10 10 100.0 1 5 6 2 1 1 1 0 3
+p51
+aVAndre Miller CLE 04/11/2001 CLE @ ATL L 31 9 2 10 20.0 0 0 - 5 6 83.3 0 1 1 9 1 0 6 5 5
+p52
+aVLamond Murray CLE 04/11/2001 CLE @ ATL L 23 19 7 13 53.8 1 4 25.0 4 5 80.0 1 2 3 0 0 0 0 2 -2
+p53
+aVLamond Murray CLE 04/10/2001 CLE vs. ORL W 30 19 4 10 40.0 2 4 50.0 9 9 100.0 3 1 4 5 3 2 3 2 28
+p54
+aVChris Gatling CLE 04/10/2001 CLE vs. ORL W 25 12 5 14 35.7 0 1 0.0 2 2 100.0 2 7 9 1 2 0 0 2 6
+p55
+aVMatt Harpring CLE 04/10/2001 CLE vs. ORL W 18 10 4 7 57.1 1 1 100.0 1 2 50.0 2 3 5 0 0 0 2 2 -8
+p56
+aVChucky Brown CLE 04/10/2001 CLE vs. ORL W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p57
+aVChris Mihm CLE 04/10/2001 CLE vs. ORL W 21 6 2 6 33.3 0 0 - 2 2 100.0 1 4 5 0 0 2 2 3 23
+p58
+aVTrajan Langdon CLE 04/10/2001 CLE vs. ORL W 20 11 3 5 60.0 2 2 100.0 3 3 100.0 0 2 2 1 1 0 3 2 13
+p59
+aVRobert Traylor CLE 04/10/2001 CLE vs. ORL W 16 8 0 6 0.0 0 0 - 8 8 100.0 2 2 4 3 2 4 2 4 6
+p60
+aVClar. Weatherspoon CLE 04/10/2001 CLE vs. ORL W 32 10 4 7 57.1 0 0 - 2 3 66.7 4 10 14 1 1 1 2 1 17
+p61
+aVAnthony Johnson CLE 04/10/2001 CLE vs. ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p62
+aVBimbo Coles CLE 04/10/2001 CLE vs. ORL W 24 12 4 6 66.7 0 0 - 4 4 100.0 0 0 0 2 1 0 1 2 17
+p63
+aVAndre Miller CLE 04/10/2001 CLE vs. ORL W 21 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 12 0 1 1 0 9
+p64
+aVWesley Person CLE 04/10/2001 CLE vs. ORL W 28 2 1 3 33.3 0 0 - 0 0 - 0 5 5 2 0 1 0 2 10
+p65
+aVChris Mihm CLE 04/07/2001 CLE vs. PHX L 25 10 4 7 57.1 0 0 - 2 2 100.0 3 1 4 1 0 0 2 4 -6
+p66
+aVTrajan Langdon CLE 04/07/2001 CLE vs. PHX L 29 10 3 6 50.0 0 0 - 4 4 100.0 2 5 7 2 0 1 2 3 -3
+p67
+aVClar. Weatherspoon CLE 04/07/2001 CLE vs. PHX L 39 20 6 10 60.0 0 0 - 8 8 100.0 1 8 9 2 3 3 1 3 -11
+p68
+aVAndre Miller CLE 04/07/2001 CLE vs. PHX L 36 16 4 14 28.6 0 2 0.0 8 10 80.0 3 3 6 8 1 2 6 4 -1
+p69
+aVMatt Harpring CLE 04/07/2001 CLE vs. PHX L 43 20 6 16 37.5 1 4 25.0 7 8 87.5 3 2 5 1 0 1 1 4 -5
+p70
+aVWesley Person CLE 04/07/2001 CLE vs. PHX L 19 4 2 4 50.0 0 0 - 0 0 - 0 5 5 1 0 0 3 0 -1
+p71
+aVRobert Traylor CLE 04/07/2001 CLE vs. PHX L 15 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 1
+p72
+aVLamond Murray CLE 04/07/2001 CLE vs. PHX L 21 13 6 10 60.0 1 2 50.0 0 0 - 1 5 6 1 0 1 3 4 9
+p73
+aVBimbo Coles CLE 04/07/2001 CLE vs. PHX L 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 5 1 0 0 2 -3
+p74
+aVAnthony Johnson CLE 04/06/2001 CLE @ PHI L 9 7 3 4 75.0 1 1 100.0 0 0 - 1 0 1 1 1 0 1 2 -8
+p75
+aVAndre Miller CLE 04/06/2001 CLE @ PHI L 39 15 6 14 42.9 0 1 0.0 3 3 100.0 0 4 4 10 1 0 1 3 0
+p76
+aVRobert Traylor CLE 04/06/2001 CLE @ PHI L 14 4 2 5 40.0 0 0 - 0 0 - 5 0 5 2 2 1 3 4 -1
+p77
+aVWesley Person CLE 04/06/2001 CLE @ PHI L 22 4 2 7 28.6 0 0 - 0 0 - 0 2 2 1 1 1 0 0 -10
+p78
+aVTrajan Langdon CLE 04/06/2001 CLE @ PHI L 26 10 4 9 44.4 2 5 40.0 0 0 - 0 0 0 1 2 0 0 1 2
+p79
+aVChris Gatling CLE 04/06/2001 CLE @ PHI L 20 9 3 9 33.3 0 0 - 3 4 75.0 2 1 3 1 0 0 2 2 -15
+p80
+aVChris Mihm CLE 04/06/2001 CLE @ PHI L 14 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 2 0 4 3
+p81
+aVLamond Murray CLE 04/06/2001 CLE @ PHI L 28 16 6 13 46.2 2 3 66.7 2 2 100.0 2 1 3 2 2 0 3 0 -1
+p82
+aVClar. Weatherspoon CLE 04/06/2001 CLE @ PHI L 40 14 6 12 50.0 0 0 - 2 5 40.0 2 10 12 2 0 2 1 3 -3
+p83
+aVMatt Harpring CLE 04/06/2001 CLE @ PHI L 23 5 2 4 50.0 1 2 50.0 0 0 - 1 2 3 1 1 0 1 2 -4
+p84
+aVChucky Brown CLE 04/06/2001 CLE @ PHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p85
+aVAnthony Johnson CLE 04/04/2001 CLE vs. TOR L 12 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 4 0 0 0 1 -4
+p86
+aVAndre Miller CLE 04/04/2001 CLE vs. TOR L 37 11 5 12 41.7 0 1 0.0 1 1 100.0 0 2 2 13 2 0 2 4 1
+p87
+aVMatt Harpring CLE 04/04/2001 CLE vs. TOR L 32 8 2 9 22.2 0 1 0.0 4 4 100.0 2 4 6 2 0 0 2 4 4
+p88
+aVChris Mihm CLE 04/04/2001 CLE vs. TOR L 18 8 3 8 37.5 0 0 - 2 2 100.0 3 3 6 0 0 0 3 3 -2
+p89
+aVTrajan Langdon CLE 04/04/2001 CLE vs. TOR L 16 9 3 6 50.0 2 3 66.7 1 1 100.0 0 0 0 1 0 0 0 0 -2
+p90
+aVRobert Traylor CLE 04/04/2001 CLE vs. TOR L 11 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 0 2 1 2 -2
+p91
+aVLamond Murray CLE 04/04/2001 CLE vs. TOR L 16 7 3 9 33.3 0 2 0.0 1 2 50.0 0 2 2 0 1 0 1 4 -7
+p92
+aVChris Gatling CLE 04/04/2001 CLE vs. TOR L 30 10 5 13 38.5 0 0 - 0 3 0.0 3 9 12 1 0 1 2 1 -1
+p93
+aVClar. Weatherspoon CLE 04/04/2001 CLE vs. TOR L 37 22 8 12 66.7 0 0 - 6 8 75.0 2 10 12 3 0 2 2 3 -1
+p94
+aVWesley Person CLE 04/04/2001 CLE vs. TOR L 32 16 7 10 70.0 2 2 100.0 0 0 - 0 5 5 2 0 0 1 0 -1
+p95
+aVChris Mihm CLE 03/31/2001 CLE @ LAC L 24 10 4 8 50.0 0 0 - 2 2 100.0 0 3 3 0 1 0 0 5 -4
+p96
+aVTrajan Langdon CLE 03/31/2001 CLE @ LAC L 18 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 2 0 1 4 3
+p97
+aVAnthony Johnson CLE 03/31/2001 CLE @ LAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -3
+p98
+aVMatt Harpring CLE 03/31/2001 CLE @ LAC L 37 17 5 8 62.5 2 2 100.0 5 6 83.3 0 2 2 1 0 2 1 4 -5
+p99
+aVChucky Brown CLE 03/31/2001 CLE @ LAC L 13 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 1 6
+p100
+aVLamond Murray CLE 03/31/2001 CLE @ LAC L 24 18 7 17 41.2 2 5 40.0 2 3 66.7 3 3 6 0 0 0 1 2 -7
+p101
+aVAndre Miller CLE 03/31/2001 CLE @ LAC L 42 19 6 13 46.2 1 2 50.0 6 8 75.0 2 3 5 9 1 0 3 2 -4
+p102
+aVRobert Traylor CLE 03/31/2001 CLE @ LAC L 14 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 1 0 0 0 3 -4
+p103
+aVWesley Person CLE 03/31/2001 CLE @ LAC L 17 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -4
+p104
+aVClar. Weatherspoon CLE 03/31/2001 CLE @ LAC L 36 12 5 12 41.7 0 0 - 2 3 66.7 3 9 12 1 0 0 1 0 -11
+p105
+aVChris Gatling CLE 03/31/2001 CLE @ LAC L 8 5 2 5 40.0 0 0 - 1 3 33.3 1 3 4 0 0 0 0 2 -2
+p106
+aVChucky Brown CLE 03/30/2001 CLE @ UTA L 9 8 3 6 50.0 0 1 0.0 2 3 66.7 1 1 2 0 1 1 0 1 0
+p107
+aVWesley Person CLE 03/30/2001 CLE @ UTA L 31 15 5 7 71.4 2 3 66.7 3 3 100.0 0 3 3 2 2 1 2 1 -1
+p108
+aVMatt Harpring CLE 03/30/2001 CLE @ UTA L 30 10 4 10 40.0 0 0 - 2 4 50.0 2 2 4 2 0 0 0 4 2
+p109
+aVLamond Murray CLE 03/30/2001 CLE @ UTA L 18 3 1 4 25.0 0 1 0.0 1 2 50.0 0 3 3 0 1 0 2 1 -9
+p110
+aVAnthony Johnson CLE 03/30/2001 CLE @ UTA L 12 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 3 0 0 1 0 0
+p111
+aVRobert Traylor CLE 03/30/2001 CLE @ UTA L 14 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 0 1 2 4 0
+p112
+aVTrajan Langdon CLE 03/30/2001 CLE @ UTA L 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 4 -6
+p113
+aVChris Mihm CLE 03/30/2001 CLE @ UTA L 35 15 6 12 50.0 0 0 - 3 4 75.0 3 3 6 1 1 0 7 6 -4
+p114
+aVChris Gatling CLE 03/30/2001 CLE @ UTA L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p115
+aVAndre Miller CLE 03/30/2001 CLE @ UTA L 36 24 7 16 43.8 0 1 0.0 10 10 100.0 1 4 5 9 4 1 4 4 -7
+p116
+aVClar. Weatherspoon CLE 03/30/2001 CLE @ UTA L 30 6 2 7 28.6 0 0 - 2 4 50.0 2 8 10 0 2 2 5 5 -4
+p117
+aVBimbo Coles CLE 03/28/2001 CLE @ PHX L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p118
+aVAndre Miller CLE 03/28/2001 CLE @ PHX L 42 22 8 18 44.4 0 0 - 6 7 85.7 2 2 4 11 2 1 5 3 -9
+p119
+aVChris Gatling CLE 03/28/2001 CLE @ PHX L 30 14 5 12 41.7 0 1 0.0 4 6 66.7 2 7 9 1 0 0 0 4 6
+p120
+aVChris Mihm CLE 03/28/2001 CLE @ PHX L 18 6 3 7 42.9 0 0 - 0 2 0.0 1 3 4 0 0 2 2 2 -15
+p121
+aVWesley Person CLE 03/28/2001 CLE @ PHX L 16 5 2 5 40.0 1 2 50.0 0 0 - 1 4 5 2 0 0 3 1 -17
+p122
+aVAnthony Johnson CLE 03/28/2001 CLE @ PHX L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 1
+p123
+aVTrajan Langdon CLE 03/28/2001 CLE @ PHX L 17 8 2 3 66.7 0 1 0.0 4 6 66.7 0 2 2 1 0 1 1 3 4
+p124
+aVChucky Brown CLE 03/28/2001 CLE @ PHX L 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 3
+p125
+aVMatt Harpring CLE 03/28/2001 CLE @ PHX L 32 19 6 11 54.5 2 3 66.7 5 10 50.0 2 6 8 0 2 0 1 3 -15
+p126
+aVLamond Murray CLE 03/28/2001 CLE @ PHX L 32 10 5 14 35.7 0 3 0.0 0 0 - 0 2 2 1 2 1 2 3 10
+p127
+aVClar. Weatherspoon CLE 03/28/2001 CLE @ PHX L 40 6 3 7 42.9 0 0 - 0 1 0.0 5 6 11 0 0 1 1 3 -12
+p128
+aVTrajan Langdon CLE 03/26/2001 CLE @ SEA L 16 2 1 4 25.0 0 1 0.0 0 1 0.0 0 2 2 1 0 0 1 4 -16
+p129
+aVMatt Harpring CLE 03/26/2001 CLE @ SEA L 34 10 4 11 36.4 0 0 - 2 2 100.0 1 0 1 2 1 0 1 2 -12
+p130
+aVLamond Murray CLE 03/26/2001 CLE @ SEA L 23 8 3 9 33.3 0 2 0.0 2 2 100.0 2 2 4 2 1 1 2 5 -19
+p131
+aVBimbo Coles CLE 03/26/2001 CLE @ SEA L 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -18
+p132
+aVChris Mihm CLE 03/26/2001 CLE @ SEA L 20 6 3 6 50.0 0 0 - 0 0 - 2 5 7 0 3 0 2 3 2
+p133
+aVWesley Person CLE 03/26/2001 CLE @ SEA L 31 15 6 11 54.5 1 3 33.3 2 2 100.0 0 0 0 0 1 0 2 0 2
+p134
+aVClar. Weatherspoon CLE 03/26/2001 CLE @ SEA L 30 7 3 8 37.5 0 0 - 1 2 50.0 2 5 7 2 0 0 0 1 3
+p135
+aVAnthony Johnson CLE 03/26/2001 CLE @ SEA L 5 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 1
+p136
+aVCedric Henderson CLE 03/26/2001 CLE @ SEA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p137
+aVChucky Brown CLE 03/26/2001 CLE @ SEA L 9 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -14
+p138
+aVChris Gatling CLE 03/26/2001 CLE @ SEA L 24 11 5 10 50.0 0 2 0.0 1 2 50.0 0 2 2 2 2 0 3 4 -21
+p139
+aVAndre Miller CLE 03/26/2001 CLE @ SEA L 29 14 4 10 40.0 0 1 0.0 6 6 100.0 1 6 7 10 1 1 3 5 -1
+p140
+aVChris Gatling CLE 03/24/2001 CLE vs. DEN W 27 20 8 16 50.0 1 1 100.0 3 5 60.0 2 3 5 1 3 0 3 1 9
+p141
+aVTrajan Langdon CLE 03/24/2001 CLE vs. DEN W 21 10 4 8 50.0 2 3 66.7 0 0 - 0 1 1 2 0 1 0 3 -1
+p142
+aVLamond Murray CLE 03/24/2001 CLE vs. DEN W 27 16 5 14 35.7 2 4 50.0 4 4 100.0 4 4 8 0 0 0 0 3 6
+p143
+aVBimbo Coles CLE 03/24/2001 CLE vs. DEN W 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 2 0 1 1 5
+p144
+aVChris Mihm CLE 03/24/2001 CLE vs. DEN W 15 7 0 2 0.0 0 0 - 7 8 87.5 3 1 4 0 1 0 2 4 6
+p145
+aVClar. Weatherspoon CLE 03/24/2001 CLE vs. DEN W 38 15 6 11 54.5 0 0 - 3 5 60.0 3 10 13 2 0 2 1 1 12
+p146
+aVWesley Person CLE 03/24/2001 CLE vs. DEN W 30 12 5 13 38.5 0 3 0.0 2 2 100.0 0 11 11 6 0 0 1 3 4
+p147
+aVAndre Miller CLE 03/24/2001 CLE vs. DEN W 42 24 6 10 60.0 0 0 - 12 12 100.0 2 0 2 13 0 0 4 4 13
+p148
+aVAnthony Johnson CLE 03/24/2001 CLE vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p149
+aVMatt Harpring CLE 03/24/2001 CLE vs. DEN W 25 13 6 10 60.0 0 0 - 1 1 100.0 2 2 4 3 0 0 1 4 8
+p150
+aVAnthony Johnson CLE 03/22/2001 CLE vs. VAN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p151
+aVLamond Murray CLE 03/22/2001 CLE vs. VAN W 27 19 7 12 58.3 2 3 66.7 3 3 100.0 4 3 7 3 1 1 1 4 20
+p152
+aVTrajan Langdon CLE 03/22/2001 CLE vs. VAN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p153
+aVJim Jackson CLE 03/22/2001 CLE vs. VAN W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 2 2 -3
+p154
+aVChris Mihm CLE 03/22/2001 CLE vs. VAN W 26 10 5 10 50.0 0 0 - 0 0 - 2 5 7 0 1 0 1 4 5
+p155
+aVMatt Harpring CLE 03/22/2001 CLE vs. VAN W 21 7 2 6 33.3 0 0 - 3 4 75.0 1 0 1 0 0 0 2 4 -6
+p156
+aVWesley Person CLE 03/22/2001 CLE vs. VAN W 33 19 7 12 58.3 3 4 75.0 2 2 100.0 0 2 2 3 1 1 1 1 24
+p157
+aVAndre Miller CLE 03/22/2001 CLE vs. VAN W 36 15 5 11 45.5 0 0 - 5 7 71.4 2 2 4 16 0 0 5 1 18
+p158
+aVChucky Brown CLE 03/22/2001 CLE vs. VAN W 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p159
+aVChris Gatling CLE 03/22/2001 CLE vs. VAN W 25 16 7 12 58.3 0 1 0.0 2 4 50.0 1 3 4 2 0 0 0 3 2
+p160
+aVClar. Weatherspoon CLE 03/22/2001 CLE vs. VAN W 35 13 4 8 50.0 0 0 - 5 5 100.0 4 9 13 2 1 0 0 1 24
+p161
+aVBimbo Coles CLE 03/22/2001 CLE vs. VAN W 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 2 3
+p162
+aVMatt Harpring CLE 03/20/2001 CLE vs. NYK L 10 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 3 0 -12
+p163
+aVAnthony Johnson CLE 03/20/2001 CLE vs. NYK L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p164
+aVJim Jackson CLE 03/20/2001 CLE vs. NYK L 26 16 6 12 50.0 1 1 100.0 3 3 100.0 2 3 5 2 2 0 5 1 -21
+p165
+aVChris Gatling CLE 03/20/2001 CLE vs. NYK L 17 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 2 1 1 1 1 -12
+p166
+aVChris Mihm CLE 03/20/2001 CLE vs. NYK L 26 6 2 8 25.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 3 -18
+p167
+aVWesley Person CLE 03/20/2001 CLE vs. NYK L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 2 -6
+p168
+aVClar. Weatherspoon CLE 03/20/2001 CLE vs. NYK L 32 3 1 5 20.0 0 0 - 1 2 50.0 4 5 9 1 0 0 0 2 -37
+p169
+aVTrajan Langdon CLE 03/20/2001 CLE vs. NYK L 15 12 4 8 50.0 2 3 66.7 2 2 100.0 0 0 0 5 0 0 1 2 -8
+p170
+aVChucky Brown CLE 03/20/2001 CLE vs. NYK L 21 6 2 7 28.6 0 0 - 2 3 66.7 0 1 1 0 0 0 0 3 -3
+p171
+aVLamond Murray CLE 03/20/2001 CLE vs. NYK L 30 22 8 14 57.1 2 3 66.7 4 4 100.0 2 0 2 1 3 0 1 2 -23
+p172
+aVAndre Miller CLE 03/20/2001 CLE vs. NYK L 26 4 2 8 25.0 0 0 - 0 0 - 1 3 4 7 2 0 4 3 -19
+p173
+aVBimbo Coles CLE 03/20/2001 CLE vs. NYK L 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 3 0 1 2 5 -11
+p174
+aVChris Mihm CLE 03/18/2001 CLE @ MIN L 31 6 2 6 33.3 0 0 - 2 4 50.0 0 7 7 1 0 4 1 2 8
+p175
+aVAnthony Johnson CLE 03/18/2001 CLE @ MIN L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p176
+aVBimbo Coles CLE 03/18/2001 CLE @ MIN L 21 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 2 1 -22
+p177
+aVAndre Miller CLE 03/18/2001 CLE @ MIN L 22 12 4 11 36.4 0 1 0.0 4 4 100.0 1 0 1 6 0 0 2 2 4
+p178
+aVClar. Weatherspoon CLE 03/18/2001 CLE @ MIN L 31 12 5 8 62.5 0 0 - 2 2 100.0 1 5 6 3 0 0 1 3 -6
+p179
+aVWesley Person CLE 03/18/2001 CLE @ MIN L 32 13 5 14 35.7 1 4 25.0 2 2 100.0 3 3 6 0 2 0 0 1 -19
+p180
+aVJim Jackson CLE 03/18/2001 CLE @ MIN L 22 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 2 0 0 3 3 -13
+p181
+aVLamond Murray CLE 03/18/2001 CLE @ MIN L 12 3 1 4 25.0 1 2 50.0 0 2 0.0 0 2 2 1 1 0 0 0 4
+p182
+aVTrajan Langdon CLE 03/18/2001 CLE @ MIN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p183
+aVMatt Harpring CLE 03/18/2001 CLE @ MIN L 26 10 5 9 55.6 0 0 - 0 0 - 3 3 6 2 0 1 2 2 -2
+p184
+aVChris Gatling CLE 03/18/2001 CLE @ MIN L 27 8 3 9 33.3 0 2 0.0 2 4 50.0 3 4 7 1 1 0 5 1 -24
+p185
+aVRobert Traylor CLE 03/18/2001 CLE @ MIN L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -8
+p186
+aVJim Jackson CLE 03/16/2001 CLE vs. CHH W 31 10 4 8 50.0 0 1 0.0 2 3 66.7 1 1 2 6 2 1 3 2 -1
+p187
+aVWesley Person CLE 03/16/2001 CLE vs. CHH W 26 9 4 10 40.0 1 2 50.0 0 0 - 0 4 4 3 1 0 2 2 6
+p188
+aVAnthony Johnson CLE 03/16/2001 CLE vs. CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p189
+aVMatt Harpring CLE 03/16/2001 CLE vs. CHH W 32 28 9 16 56.3 0 0 - 10 12 83.3 3 3 6 7 3 0 1 3 10
+p190
+aVBimbo Coles CLE 03/16/2001 CLE vs. CHH W 27 14 5 12 41.7 0 0 - 4 4 100.0 1 1 2 5 1 0 2 2 0
+p191
+aVAndre Miller CLE 03/16/2001 CLE vs. CHH W 21 8 3 5 60.0 0 0 - 2 3 66.7 0 2 2 7 4 0 2 1 5
+p192
+aVChris Gatling CLE 03/16/2001 CLE vs. CHH W 23 11 3 6 50.0 0 2 0.0 5 6 83.3 1 1 2 1 0 0 0 5 5
+p193
+aVChris Mihm CLE 03/16/2001 CLE vs. CHH W 24 10 4 8 50.0 0 0 - 2 2 100.0 3 0 3 0 0 1 3 2 1
+p194
+aVLamond Murray CLE 03/16/2001 CLE vs. CHH W 8 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -5
+p195
+aVRobert Traylor CLE 03/16/2001 CLE vs. CHH W 11 6 2 3 66.7 0 0 - 2 3 66.7 2 0 2 2 1 0 1 1 -1
+p196
+aVClar. Weatherspoon CLE 03/16/2001 CLE vs. CHH W 37 14 7 8 87.5 0 0 - 0 0 - 4 7 11 0 0 2 1 2 6
+p197
+aVChris Gatling CLE 03/14/2001 CLE vs. ORL L 20 9 3 11 27.3 0 1 0.0 3 3 100.0 2 1 3 3 0 0 2 3 4
+p198
+aVClar. Weatherspoon CLE 03/14/2001 CLE vs. ORL L 41 7 3 7 42.9 0 0 - 1 3 33.3 2 4 6 3 2 0 4 2 -15
+p199
+aVRobert Traylor CLE 03/14/2001 CLE vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p200
+aVBimbo Coles CLE 03/14/2001 CLE vs. ORL L 18 6 1 5 20.0 0 0 - 4 4 100.0 0 3 3 3 0 0 2 1 4
+p201
+aVWesley Person CLE 03/14/2001 CLE vs. ORL L 29 10 5 6 83.3 0 0 - 0 0 - 0 1 1 2 0 0 0 2 0
+p202
+aVMatt Harpring CLE 03/14/2001 CLE vs. ORL L 28 19 9 14 64.3 0 1 0.0 1 1 100.0 1 3 4 0 1 0 3 3 -26
+p203
+aVTrajan Langdon CLE 03/14/2001 CLE vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p204
+aVJim Jackson CLE 03/14/2001 CLE vs. ORL L 19 11 4 8 50.0 1 1 100.0 2 2 100.0 2 2 4 2 0 1 0 1 -6
+p205
+aVLamond Murray CLE 03/14/2001 CLE vs. ORL L 19 6 2 7 28.6 0 1 0.0 2 2 100.0 0 4 4 0 5 0 2 3 14
+p206
+aVAndre Miller CLE 03/14/2001 CLE vs. ORL L 30 4 1 7 14.3 0 0 - 2 4 50.0 2 2 4 9 1 0 2 3 -14
+p207
+aVChris Mihm CLE 03/14/2001 CLE vs. ORL L 33 15 6 15 40.0 0 0 - 3 3 100.0 1 9 10 2 0 2 1 2 -11
+p208
+aVLamond Murray CLE 03/13/2001 CLE @ NYK L 20 4 2 8 25.0 0 2 0.0 0 0 - 0 3 3 0 0 1 1 0 -16
+p209
+aVJim Jackson CLE 03/13/2001 CLE @ NYK L 17 6 3 8 37.5 0 0 - 0 0 - 0 2 2 1 1 0 2 0 -5
+p210
+aVTrajan Langdon CLE 03/13/2001 CLE @ NYK L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p211
+aVChris Mihm CLE 03/13/2001 CLE @ NYK L 31 12 5 11 45.5 0 0 - 2 3 66.7 2 5 7 0 0 2 3 4 -10
+p212
+aVMatt Harpring CLE 03/13/2001 CLE @ NYK L 26 11 4 8 50.0 0 0 - 3 5 60.0 3 1 4 2 3 0 2 1 -3
+p213
+aVClar. Weatherspoon CLE 03/13/2001 CLE @ NYK L 34 7 2 7 28.6 0 0 - 3 4 75.0 2 5 7 1 1 1 1 1 -13
+p214
+aVWesley Person CLE 03/13/2001 CLE @ NYK L 27 10 4 8 50.0 2 2 100.0 0 0 - 0 3 3 3 1 1 0 2 -11
+p215
+aVBimbo Coles CLE 03/13/2001 CLE @ NYK L 20 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 3 -10
+p216
+aVRobert Traylor CLE 03/13/2001 CLE @ NYK L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 2 -18
+p217
+aVCedric Henderson CLE 03/13/2001 CLE @ NYK L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p218
+aVChris Gatling CLE 03/13/2001 CLE @ NYK L 22 13 5 11 45.5 1 1 100.0 2 2 100.0 1 5 6 1 2 0 0 1 3
+p219
+aVAndre Miller CLE 03/13/2001 CLE @ NYK L 28 12 5 11 45.5 0 1 0.0 2 2 100.0 1 1 2 6 0 0 2 0 -9
+p220
+aVBimbo Coles CLE 03/11/2001 CLE vs. MIL W 23 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 5 2 0 0 3 7
+p221
+aVJim Jackson CLE 03/11/2001 CLE vs. MIL W 22 8 3 9 33.3 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 2 12
+p222
+aVMatt Harpring CLE 03/11/2001 CLE vs. MIL W 26 16 4 9 44.4 0 0 - 8 8 100.0 1 1 2 2 1 0 3 4 -6
+p223
+aVChris Gatling CLE 03/11/2001 CLE vs. MIL W 23 12 4 12 33.3 0 0 - 4 4 100.0 3 4 7 2 0 2 2 2 10
+p224
+aVChris Mihm CLE 03/11/2001 CLE vs. MIL W 17 10 3 6 50.0 0 0 - 4 4 100.0 2 4 6 0 0 0 1 3 -2
+p225
+aVLamond Murray CLE 03/11/2001 CLE vs. MIL W 26 16 7 12 58.3 0 1 0.0 2 2 100.0 1 6 7 2 0 0 1 4 5
+p226
+aVAndre Miller CLE 03/11/2001 CLE vs. MIL W 35 19 7 9 77.8 1 1 100.0 4 6 66.7 0 7 7 13 0 0 0 2 22
+p227
+aVWesley Person CLE 03/11/2001 CLE vs. MIL W 37 24 9 15 60.0 5 7 71.4 1 2 50.0 1 3 4 6 3 0 2 3 14
+p228
+aVClar. Weatherspoon CLE 03/11/2001 CLE vs. MIL W 31 15 5 9 55.6 0 0 - 5 6 83.3 4 8 12 3 1 0 2 4 8
+p229
+aVAndre Miller CLE 03/09/2001 CLE @ IND L 34 15 6 16 37.5 0 0 - 3 5 60.0 0 1 1 11 1 0 2 5 -6
+p230
+aVMatt Harpring CLE 03/09/2001 CLE @ IND L 29 11 5 11 45.5 0 0 - 1 1 100.0 4 3 7 0 0 0 2 5 -5
+p231
+aVJim Jackson CLE 03/09/2001 CLE @ IND L 18 6 3 9 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 1 0 -10
+p232
+aVWesley Person CLE 03/09/2001 CLE @ IND L 32 4 1 7 14.3 0 4 0.0 2 2 100.0 0 3 3 6 0 0 0 2 -8
+p233
+aVClar. Weatherspoon CLE 03/09/2001 CLE @ IND L 37 13 6 8 75.0 0 0 - 1 2 50.0 2 8 10 2 0 1 2 1 -7
+p234
+aVChris Gatling CLE 03/09/2001 CLE @ IND L 21 12 5 8 62.5 0 0 - 2 4 50.0 3 6 9 1 1 0 1 3 -20
+p235
+aVBimbo Coles CLE 03/09/2001 CLE @ IND L 14 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -9
+p236
+aVLamond Murray CLE 03/09/2001 CLE @ IND L 19 6 2 8 25.0 0 1 0.0 2 2 100.0 1 0 1 1 1 0 0 2 -10
+p237
+aVRobert Traylor CLE 03/09/2001 CLE @ IND L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p238
+aVChris Mihm CLE 03/09/2001 CLE @ IND L 30 15 5 9 55.6 0 0 - 5 6 83.3 3 1 4 1 1 3 1 4 7
+p239
+aVClar. Weatherspoon CLE 03/07/2001 CLE vs. WAS L 31 7 3 8 37.5 0 0 - 1 2 50.0 2 5 7 2 1 2 2 3 -19
+p240
+aVChris Mihm CLE 03/07/2001 CLE vs. WAS L 15 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -11
+p241
+aVChris Gatling CLE 03/07/2001 CLE vs. WAS L 26 13 6 11 54.5 0 1 0.0 1 2 50.0 3 3 6 1 0 1 1 3 8
+p242
+aVAndre Miller CLE 03/07/2001 CLE vs. WAS L 34 11 4 9 44.4 1 2 50.0 2 2 100.0 0 1 1 6 2 0 2 2 -19
+p243
+aVLamond Murray CLE 03/07/2001 CLE vs. WAS L 31 21 9 17 52.9 2 6 33.3 1 1 100.0 2 0 2 1 2 0 1 4 2
+p244
+aVBimbo Coles CLE 03/07/2001 CLE vs. WAS L 14 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 5 0 0 1 3 12
+p245
+aVJim Jackson CLE 03/07/2001 CLE vs. WAS L 17 1 0 6 0.0 0 0 - 1 1 100.0 0 5 5 4 1 0 2 0 -7
+p246
+aVMatt Harpring CLE 03/07/2001 CLE vs. WAS L 20 6 3 8 37.5 0 0 - 0 0 - 2 0 2 1 1 0 0 2 -18
+p247
+aVWesley Person CLE 03/07/2001 CLE vs. WAS L 28 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 2 1 1 2 2 13
+p248
+aVRobert Traylor CLE 03/07/2001 CLE vs. WAS L 24 10 5 6 83.3 0 0 - 0 0 - 1 5 6 1 0 0 2 1 14
+p249
+aVWesley Person CLE 03/06/2001 CLE @ CHI L 14 0 0 3 0.0 0 1 0.0 0 1 0.0 0 1 1 2 1 1 1 0 -13
+p250
+aVJim Jackson CLE 03/06/2001 CLE @ CHI L 33 11 4 10 40.0 0 0 - 3 4 75.0 2 3 5 6 2 0 2 3 -2
+p251
+aVClar. Weatherspoon CLE 03/06/2001 CLE @ CHI L 33 8 4 9 44.4 0 0 - 0 0 - 5 11 16 1 0 1 2 2 -13
+p252
+aVChris Gatling CLE 03/06/2001 CLE @ CHI L 13 4 1 4 25.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 0 1 -12
+p253
+aVTrajan Langdon CLE 03/06/2001 CLE @ CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 2
+p254
+aVAndre Miller CLE 03/06/2001 CLE @ CHI L 29 12 3 13 23.1 1 1 100.0 5 6 83.3 0 2 2 3 1 0 1 1 0
+p255
+aVBimbo Coles CLE 03/06/2001 CLE @ CHI L 21 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 1 1 0 3 2 -14
+p256
+aVMatt Harpring CLE 03/06/2001 CLE @ CHI L 28 16 5 11 45.5 0 1 0.0 6 6 100.0 2 2 4 1 1 1 1 3 4
+p257
+aVLamond Murray CLE 03/06/2001 CLE @ CHI L 12 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -18
+p258
+aVCedric Henderson CLE 03/06/2001 CLE @ CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p259
+aVChris Mihm CLE 03/06/2001 CLE @ CHI L 32 13 6 13 46.2 0 0 - 1 2 50.0 3 4 7 1 1 1 3 4 1
+p260
+aVRobert Traylor CLE 03/06/2001 CLE @ CHI L 17 6 3 4 75.0 0 0 - 0 1 0.0 2 4 6 1 0 0 0 1 -2
+p261
+aVMatt Harpring CLE 03/04/2001 CLE vs. MIA L 20 6 1 5 20.0 0 0 - 4 4 100.0 0 2 2 2 0 0 0 2 -7
+p262
+aVJim Jackson CLE 03/04/2001 CLE vs. MIA L 25 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 4 1 0 3 1 -1
+p263
+aVChris Mihm CLE 03/04/2001 CLE vs. MIA L 22 5 2 5 40.0 0 0 - 1 1 100.0 0 2 2 0 0 1 1 2 -11
+p264
+aVWesley Person CLE 03/04/2001 CLE vs. MIA L 20 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 3 0 0 1 1 -3
+p265
+aVRobert Traylor CLE 03/04/2001 CLE vs. MIA L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 1 3 2 -4
+p266
+aVBimbo Coles CLE 03/04/2001 CLE vs. MIA L 16 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -6
+p267
+aVChris Gatling CLE 03/04/2001 CLE vs. MIA L 25 12 6 11 54.5 0 1 0.0 0 0 - 1 7 8 2 0 1 0 0 -1
+p268
+aVAndre Miller CLE 03/04/2001 CLE vs. MIA L 36 14 5 14 35.7 0 0 - 4 6 66.7 3 5 8 4 2 0 4 1 -7
+p269
+aVClar. Weatherspoon CLE 03/04/2001 CLE vs. MIA L 34 12 4 9 44.4 0 0 - 4 4 100.0 2 7 9 0 2 1 4 5 -7
+p270
+aVLamond Murray CLE 03/04/2001 CLE vs. MIA L 33 14 5 8 62.5 2 2 100.0 2 2 100.0 1 4 5 1 3 1 6 0 -13
+p271
+aVAndre Miller CLE 03/02/2001 CLE @ ORL L 33 22 7 13 53.8 1 1 100.0 7 7 100.0 2 2 4 9 1 1 4 4 -6
+p272
+aVRobert Traylor CLE 03/02/2001 CLE @ ORL L 18 4 2 6 33.3 0 0 - 0 2 0.0 1 2 3 0 0 0 3 4 -5
+p273
+aVChris Gatling CLE 03/02/2001 CLE @ ORL L 23 14 6 12 50.0 0 0 - 2 3 66.7 2 2 4 0 0 0 3 3 -24
+p274
+aVLamond Murray CLE 03/02/2001 CLE @ ORL L 17 4 2 5 40.0 0 0 - 0 2 0.0 0 3 3 2 0 1 0 0 -28
+p275
+aVClar. Weatherspoon CLE 03/02/2001 CLE @ ORL L 30 10 2 5 40.0 0 0 - 6 8 75.0 5 4 9 3 0 1 2 1 -18
+p276
+aVWesley Person CLE 03/02/2001 CLE @ ORL L 25 12 6 11 54.5 0 0 - 0 0 - 0 4 4 1 1 1 0 0 -22
+p277
+aVCedric Henderson CLE 03/02/2001 CLE @ ORL L 10 4 2 3 66.7 0 0 - 0 1 0.0 0 0 0 0 0 0 0 2 2
+p278
+aVMatt Harpring CLE 03/02/2001 CLE @ ORL L 19 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 2 1 0 1 3 -13
+p279
+aVTrajan Langdon CLE 03/02/2001 CLE @ ORL L 4 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 9
+p280
+aVBimbo Coles CLE 03/02/2001 CLE @ ORL L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 1 3 4 -20
+p281
+aVChris Mihm CLE 03/02/2001 CLE @ ORL L 22 6 2 10 20.0 0 0 - 2 4 50.0 3 2 5 1 2 0 0 5 5
+p282
+aVJim Jackson CLE 03/02/2001 CLE @ ORL L 24 7 3 10 30.0 0 1 0.0 1 2 50.0 1 3 4 0 2 0 1 4 -10
+p283
+aVJim Jackson CLE 03/01/2001 CLE vs. SEA L 36 12 6 11 54.5 0 0 - 0 0 - 0 2 2 3 0 0 1 0 6
+p284
+aVMatt Harpring CLE 03/01/2001 CLE vs. SEA L 30 11 4 9 44.4 0 0 - 3 5 60.0 1 5 6 4 0 1 2 4 -5
+p285
+aVChris Gatling CLE 03/01/2001 CLE vs. SEA L 12 2 1 6 16.7 0 1 0.0 0 0 - 1 4 5 1 0 0 1 2 -5
+p286
+aVWesley Person CLE 03/01/2001 CLE vs. SEA L 20 5 2 8 25.0 0 4 0.0 1 1 100.0 1 2 3 1 0 0 0 3 -1
+p287
+aVRobert Traylor CLE 03/01/2001 CLE vs. SEA L 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 2 5 2
+p288
+aVLamond Murray CLE 03/01/2001 CLE vs. SEA L 39 21 9 13 69.2 1 2 50.0 2 4 50.0 1 10 11 6 3 0 4 5 -9
+p289
+aVClar. Weatherspoon CLE 03/01/2001 CLE vs. SEA L 41 15 4 7 57.1 0 0 - 7 7 100.0 5 9 14 1 3 3 0 1 -3
+p290
+aVChris Mihm CLE 03/01/2001 CLE vs. SEA L 20 7 2 6 33.3 0 0 - 3 4 75.0 0 5 5 0 1 0 0 2 7
+p291
+aVBimbo Coles CLE 03/01/2001 CLE vs. SEA L 17 4 2 6 33.3 0 0 - 0 0 - 0 1 1 4 0 0 4 2 2
+p292
+aVAndre Miller CLE 03/01/2001 CLE vs. SEA L 36 18 6 16 37.5 0 0 - 6 7 85.7 1 2 3 7 0 0 2 4 -4
+p293
+aVChris Mihm CLE 02/27/2001 CLE @ TOR L 15 5 2 8 25.0 0 1 0.0 1 1 100.0 0 2 2 0 0 0 0 2 -12
+p294
+aVWesley Person CLE 02/27/2001 CLE @ TOR L 21 10 4 7 57.1 2 3 66.7 0 0 - 0 2 2 0 1 0 1 3 4
+p295
+aVMatt Harpring CLE 02/27/2001 CLE @ TOR L 6 2 0 3 0.0 0 2 0.0 2 2 100.0 1 0 1 0 0 0 0 1 -11
+p296
+aVChris Gatling CLE 02/27/2001 CLE @ TOR L 23 12 5 10 50.0 0 2 0.0 2 4 50.0 1 5 6 1 1 2 1 2 10
+p297
+aVCedric Henderson CLE 02/27/2001 CLE @ TOR L 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p298
+aVRobert Traylor CLE 02/27/2001 CLE @ TOR L 22 3 1 4 25.0 0 0 - 1 1 100.0 4 6 10 1 3 0 2 4 7
+p299
+aVClar. Weatherspoon CLE 02/27/2001 CLE @ TOR L 34 12 6 11 54.5 0 0 - 0 0 - 4 6 10 3 0 0 1 2 -25
+p300
+aVLamond Murray CLE 02/27/2001 CLE @ TOR L 32 16 7 13 53.8 2 3 66.7 0 2 0.0 1 2 3 1 1 0 1 2 5
+p301
+aVBimbo Coles CLE 02/27/2001 CLE @ TOR L 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 5 1 0 1 2 11
+p302
+aVAndre Miller CLE 02/27/2001 CLE @ TOR L 33 16 4 12 33.3 0 1 0.0 8 9 88.9 1 3 4 8 1 0 7 4 -24
+p303
+aVJim Jackson CLE 02/27/2001 CLE @ TOR L 29 11 5 11 45.5 0 1 0.0 1 3 33.3 1 6 7 1 3 0 3 2 -22
+p304
+aVChris Gatling CLE 02/25/2001 CLE @ DET W 25 13 5 10 50.0 1 2 50.0 2 2 100.0 1 4 5 1 2 0 2 3 11
+p305
+aVCedric Henderson CLE 02/25/2001 CLE @ DET W 17 10 5 10 50.0 0 0 - 0 0 - 1 4 5 2 0 0 0 1 -4
+p306
+aVBimbo Coles CLE 02/25/2001 CLE @ DET W 21 7 3 7 42.9 0 0 - 1 1 100.0 0 2 2 5 0 0 0 1 3
+p307
+aVClar. Weatherspoon CLE 02/25/2001 CLE @ DET W 38 13 4 11 36.4 0 0 - 5 6 83.3 3 5 8 0 4 3 2 2 2
+p308
+aVRobert Traylor CLE 02/25/2001 CLE @ DET W 10 0 0 0 - 0 0 - 0 0 - 1 2 3 2 1 1 1 5 5
+p309
+aVJim Jackson CLE 02/25/2001 CLE @ DET W 32 15 6 16 37.5 1 4 25.0 2 2 100.0 0 7 7 4 1 0 1 2 3
+p310
+aVAndre Miller CLE 02/25/2001 CLE @ DET W 30 10 4 8 50.0 0 1 0.0 2 4 50.0 2 4 6 8 0 1 3 2 6
+p311
+aVChris Mihm CLE 02/25/2001 CLE @ DET W 23 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 0 1 0 2 -4
+p312
+aVLamond Murray CLE 02/25/2001 CLE @ DET W 28 19 8 17 47.1 1 3 33.3 2 3 66.7 3 2 5 2 0 1 3 5 9
+p313
+aVWesley Person CLE 02/25/2001 CLE @ DET W 16 10 4 5 80.0 2 2 100.0 0 0 - 0 0 0 0 0 0 1 3 4
+p314
+aVChucky Brown CLE 02/23/2001 CLE vs. IND L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -5
+p315
+aVChris Gatling CLE 02/23/2001 CLE vs. IND L 18 14 5 6 83.3 0 0 - 4 5 80.0 1 3 4 1 1 0 0 4 5
+p316
+aVChris Mihm CLE 02/23/2001 CLE vs. IND L 27 7 3 8 37.5 0 0 - 1 2 50.0 3 4 7 0 0 2 2 3 -2
+p317
+aVBimbo Coles CLE 02/23/2001 CLE vs. IND L 18 10 5 8 62.5 0 1 0.0 0 0 - 0 0 0 2 0 0 0 3 -3
+p318
+aVClar. Weatherspoon CLE 02/23/2001 CLE vs. IND L 40 16 7 14 50.0 0 0 - 2 2 100.0 1 8 9 0 2 1 1 2 -2
+p319
+aVLamond Murray CLE 02/23/2001 CLE vs. IND L 27 8 3 10 30.0 0 0 - 2 2 100.0 1 3 4 2 0 0 1 2 5
+p320
+aVAndre Miller CLE 02/23/2001 CLE vs. IND L 31 9 4 11 36.4 0 0 - 1 1 100.0 2 3 5 11 0 1 2 1 1
+p321
+aVCedric Henderson CLE 02/23/2001 CLE vs. IND L 19 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -4
+p322
+aVWesley Person CLE 02/23/2001 CLE vs. IND L 17 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 0 0 1 -10
+p323
+aVJim Jackson CLE 02/23/2001 CLE vs. IND L 33 23 9 15 60.0 0 0 - 5 6 83.3 0 3 3 3 0 0 1 1 5
+p324
+aVAndre Miller CLE 02/21/2001 CLE vs. LAC L 35 16 6 15 40.0 0 0 - 4 4 100.0 1 4 5 8 1 0 1 1 -2
+p325
+aVTrajan Langdon CLE 02/21/2001 CLE vs. LAC L 12 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 0 1 0 1 1 -10
+p326
+aVWesley Person CLE 02/21/2001 CLE vs. LAC L 32 9 4 8 50.0 1 5 20.0 0 0 - 1 5 6 3 1 0 1 5 1
+p327
+aVCedric Henderson CLE 02/21/2001 CLE vs. LAC L 23 11 4 11 36.4 0 0 - 3 4 75.0 1 2 3 2 0 0 2 2 -13
+p328
+aVJim Jackson CLE 02/21/2001 CLE vs. LAC L 32 8 4 11 36.4 0 0 - 0 0 - 1 3 4 2 1 0 2 1 6
+p329
+aVChucky Brown CLE 02/21/2001 CLE vs. LAC L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 2 0 0 2 0
+p330
+aVChris Gatling CLE 02/21/2001 CLE vs. LAC L 21 12 4 9 44.4 0 0 - 4 4 100.0 2 3 5 2 0 0 2 2 -7
+p331
+aVClar. Weatherspoon CLE 02/21/2001 CLE vs. LAC L 33 18 8 13 61.5 0 0 - 2 2 100.0 3 3 6 2 0 2 2 3 -6
+p332
+aVChris Mihm CLE 02/21/2001 CLE vs. LAC L 24 10 4 7 57.1 0 0 - 2 2 100.0 2 4 6 2 1 0 1 4 5
+p333
+aVBimbo Coles CLE 02/21/2001 CLE vs. LAC L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -4
+p334
+aVTrajan Langdon CLE 02/19/2001 CLE vs. CHI W 24 8 4 9 44.4 0 2 0.0 0 0 - 1 1 2 2 0 0 2 2 -1
+p335
+aVRobert Traylor CLE 02/19/2001 CLE vs. CHI W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p336
+aVClar. Weatherspoon CLE 02/19/2001 CLE vs. CHI W 40 7 2 5 40.0 0 0 - 3 4 75.0 3 10 13 2 2 1 0 3 1
+p337
+aVWesley Person CLE 02/19/2001 CLE vs. CHI W 16 13 5 7 71.4 3 3 100.0 0 2 0.0 0 2 2 0 1 0 0 0 12
+p338
+aVAndre Miller CLE 02/19/2001 CLE vs. CHI W 33 13 5 9 55.6 0 0 - 3 4 75.0 0 9 9 5 2 0 3 1 -1
+p339
+aVChris Mihm CLE 02/19/2001 CLE vs. CHI W 19 12 5 8 62.5 0 0 - 2 2 100.0 1 3 4 1 0 2 2 4 -13
+p340
+aVCedric Henderson CLE 02/19/2001 CLE vs. CHI W 16 0 0 4 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -18
+p341
+aVLamond Murray CLE 02/19/2001 CLE vs. CHI W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 -11
+p342
+aVJim Jackson CLE 02/19/2001 CLE vs. CHI W 29 13 5 12 41.7 0 0 - 3 3 100.0 1 3 4 4 2 1 2 2 20
+p343
+aVBimbo Coles CLE 02/19/2001 CLE vs. CHI W 15 4 1 6 16.7 0 1 0.0 2 2 100.0 1 0 1 2 0 0 0 0 2
+p344
+aVChris Gatling CLE 02/19/2001 CLE vs. CHI W 29 15 6 12 50.0 1 1 100.0 2 2 100.0 2 6 8 0 1 1 2 5 14
+p345
+aVBimbo Coles CLE 02/17/2001 CLE @ HOU L 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 0 0 1 1 -17
+p346
+aVChris Mihm CLE 02/17/2001 CLE @ HOU L 26 8 4 8 50.0 0 0 - 0 0 - 3 4 7 0 1 3 3 0 -13
+p347
+aVAndre Miller CLE 02/17/2001 CLE @ HOU L 38 29 10 16 62.5 1 1 100.0 8 9 88.9 1 2 3 3 0 0 3 4 4
+p348
+aVChucky Brown CLE 02/17/2001 CLE @ HOU L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p349
+aVTrajan Langdon CLE 02/17/2001 CLE @ HOU L 25 10 4 10 40.0 1 4 25.0 1 1 100.0 1 2 3 0 1 0 0 3 -2
+p350
+aVClar. Weatherspoon CLE 02/17/2001 CLE @ HOU L 35 8 3 10 30.0 0 0 - 2 4 50.0 2 4 6 0 2 3 0 0 0
+p351
+aVJim Jackson CLE 02/17/2001 CLE @ HOU L 12 2 1 5 20.0 0 0 - 0 1 0.0 0 2 2 2 0 0 2 3 -10
+p352
+aVCedric Henderson CLE 02/17/2001 CLE @ HOU L 41 6 3 9 33.3 0 0 - 0 0 - 0 2 2 5 2 1 2 3 1
+p353
+aVLamond Murray CLE 02/17/2001 CLE @ HOU L 14 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 1 -12
+p354
+aVChris Gatling CLE 02/17/2001 CLE @ HOU L 28 11 5 14 35.7 1 2 50.0 0 0 - 1 6 7 3 2 1 1 3 -10
+p355
+aVWesley Person CLE 02/15/2001 CLE @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 1
+p356
+aVClar. Weatherspoon CLE 02/15/2001 CLE @ DAL L 34 5 2 7 28.6 0 0 - 1 1 100.0 2 6 8 0 0 1 2 2 -9
+p357
+aVAndre Miller CLE 02/15/2001 CLE @ DAL L 31 14 5 13 38.5 0 1 0.0 4 4 100.0 1 5 6 7 3 0 5 5 -5
+p358
+aVChris Gatling CLE 02/15/2001 CLE @ DAL L 17 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -24
+p359
+aVJim Jackson CLE 02/15/2001 CLE @ DAL L 31 14 6 10 60.0 0 0 - 2 5 40.0 2 2 4 3 2 0 2 2 3
+p360
+aVCedric Henderson CLE 02/15/2001 CLE @ DAL L 22 8 4 9 44.4 0 0 - 0 0 - 3 1 4 1 1 0 3 3 -4
+p361
+aVBimbo Coles CLE 02/15/2001 CLE @ DAL L 17 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 2 1 1 0 2 -16
+p362
+aVRobert Traylor CLE 02/15/2001 CLE @ DAL L 16 11 3 5 60.0 0 0 - 5 7 71.4 0 0 0 2 1 1 0 1 -12
+p363
+aVLamond Murray CLE 02/15/2001 CLE @ DAL L 16 2 1 7 14.3 0 0 - 0 0 - 1 2 3 1 0 0 2 2 -17
+p364
+aVTrajan Langdon CLE 02/15/2001 CLE @ DAL L 23 7 3 6 50.0 1 3 33.3 0 0 - 1 1 2 1 1 0 1 0 -25
+p365
+aVChris Mihm CLE 02/15/2001 CLE @ DAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 6
+p366
+aVChucky Brown CLE 02/15/2001 CLE @ DAL L 24 10 3 9 33.3 0 0 - 4 4 100.0 1 2 3 0 0 1 0 1 -3
+p367
+aVBimbo Coles CLE 02/13/2001 CLE vs. TOR L 11 2 1 5 20.0 0 1 0.0 0 2 0.0 0 0 0 3 0 0 2 1 -17
+p368
+aVRobert Traylor CLE 02/13/2001 CLE vs. TOR L 12 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 0 1 1 2 5 -2
+p369
+aVCedric Henderson CLE 02/13/2001 CLE vs. TOR L 17 11 5 7 71.4 0 0 - 1 2 50.0 0 1 1 2 0 0 1 2 -3
+p370
+aVTrajan Langdon CLE 02/13/2001 CLE vs. TOR L 21 16 5 7 71.4 3 3 100.0 3 3 100.0 0 3 3 2 0 0 1 1 -9
+p371
+aVClar. Weatherspoon CLE 02/13/2001 CLE vs. TOR L 40 21 8 11 72.7 0 0 - 5 5 100.0 2 8 10 0 1 4 2 3 -12
+p372
+aVJim Jackson CLE 02/13/2001 CLE vs. TOR L 32 10 4 9 44.4 0 1 0.0 2 2 100.0 2 2 4 4 0 1 2 2 -4
+p373
+aVChris Gatling CLE 02/13/2001 CLE vs. TOR L 16 10 3 8 37.5 2 2 100.0 2 2 100.0 0 3 3 0 1 0 1 1 -12
+p374
+aVAndre Miller CLE 02/13/2001 CLE vs. TOR L 37 18 5 8 62.5 0 0 - 8 10 80.0 0 5 5 11 1 0 2 4 2
+p375
+aVLamond Murray CLE 02/13/2001 CLE vs. TOR L 26 8 3 10 30.0 0 1 0.0 2 4 50.0 0 2 2 2 1 1 0 3 -14
+p376
+aVChucky Brown CLE 02/13/2001 CLE vs. TOR L 28 4 2 6 33.3 0 0 - 0 0 - 0 4 4 3 0 0 0 4 -4
+p377
+aVAndre Miller CLE 02/07/2001 CLE vs. SAS L 33 16 7 11 63.6 0 0 - 2 2 100.0 1 2 3 4 1 0 6 4 -6
+p378
+aVChucky Brown CLE 02/07/2001 CLE vs. SAS L 38 12 6 9 66.7 0 0 - 0 0 - 1 5 6 1 0 1 1 2 -12
+p379
+aVBimbo Coles CLE 02/07/2001 CLE vs. SAS L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 3 -13
+p380
+aVCedric Henderson CLE 02/07/2001 CLE vs. SAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 2
+p381
+aVAnthony Johnson CLE 02/07/2001 CLE vs. SAS L 4 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p382
+aVRobert Traylor CLE 02/07/2001 CLE vs. SAS L 16 12 6 7 85.7 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -5
+p383
+aVTrajan Langdon CLE 02/07/2001 CLE vs. SAS L 20 12 5 7 71.4 1 1 100.0 1 1 100.0 0 1 1 1 1 1 0 0 -3
+p384
+aVLamond Murray CLE 02/07/2001 CLE vs. SAS L 38 12 3 15 20.0 0 2 0.0 6 6 100.0 2 5 7 4 1 0 3 2 -19
+p385
+aVClar. Weatherspoon CLE 02/07/2001 CLE vs. SAS L 38 16 5 10 50.0 0 0 - 6 9 66.7 2 10 12 1 1 3 1 2 -18
+p386
+aVJim Jackson CLE 02/07/2001 CLE vs. SAS L 32 5 2 12 16.7 0 0 - 1 1 100.0 0 3 3 7 0 0 0 2 -16
+p387
+aVLamond Murray CLE 02/04/2001 CLE @ BOS L 25 9 4 11 36.4 1 2 50.0 0 2 0.0 2 1 3 3 4 0 2 1 -10
+p388
+aVAnthony Johnson CLE 02/04/2001 CLE @ BOS L 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p389
+aVTrajan Langdon CLE 02/04/2001 CLE @ BOS L 18 4 1 6 16.7 0 1 0.0 2 2 100.0 1 3 4 4 2 0 1 1 -4
+p390
+aVAndre Miller CLE 02/04/2001 CLE @ BOS L 28 17 6 6 100.0 0 0 - 5 6 83.3 1 1 2 1 3 1 4 1 -10
+p391
+aVChris Mihm CLE 02/04/2001 CLE @ BOS L 10 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -10
+p392
+aVJim Jackson CLE 02/04/2001 CLE @ BOS L 29 12 4 8 50.0 2 3 66.7 2 3 66.7 1 3 4 4 1 0 2 2 -17
+p393
+aVCedric Henderson CLE 02/04/2001 CLE @ BOS L 24 8 4 9 44.4 0 0 - 0 0 - 0 3 3 1 2 0 0 4 -11
+p394
+aVRobert Traylor CLE 02/04/2001 CLE @ BOS L 29 10 4 8 50.0 0 0 - 2 4 50.0 2 7 9 1 0 1 1 2 -14
+p395
+aVBimbo Coles CLE 02/04/2001 CLE @ BOS L 17 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 2 0 0 1 0 -16
+p396
+aVClar. Weatherspoon CLE 02/04/2001 CLE @ BOS L 38 9 4 9 44.4 0 0 - 1 2 50.0 2 12 14 0 0 0 5 1 -20
+p397
+aVChucky Brown CLE 02/04/2001 CLE @ BOS L 19 6 2 7 28.6 0 0 - 2 2 100.0 1 2 3 0 0 0 2 0 2
+p398
+aVChris Gatling CLE 02/03/2001 CLE vs. DET L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -7
+p399
+aVRobert Traylor CLE 02/03/2001 CLE vs. DET L 26 13 6 9 66.7 0 0 - 1 4 25.0 3 4 7 2 1 1 4 3 -1
+p400
+aVClar. Weatherspoon CLE 02/03/2001 CLE vs. DET L 34 7 2 7 28.6 0 0 - 3 4 75.0 2 7 9 1 0 1 2 3 -16
+p401
+aVCedric Henderson CLE 02/03/2001 CLE vs. DET L 33 8 4 10 40.0 0 0 - 0 0 - 1 1 2 2 1 0 0 1 -10
+p402
+aVBimbo Coles CLE 02/03/2001 CLE vs. DET L 20 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 2 0 0 2 1 1
+p403
+aVTrajan Langdon CLE 02/03/2001 CLE vs. DET L 9 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 3 -10
+p404
+aVAnthony Johnson CLE 02/03/2001 CLE vs. DET L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p405
+aVAndre Miller CLE 02/03/2001 CLE vs. DET L 39 14 6 16 37.5 0 0 - 2 2 100.0 2 4 6 5 2 0 4 4 -13
+p406
+aVChris Mihm CLE 02/03/2001 CLE vs. DET L 34 14 6 17 35.3 0 0 - 2 2 100.0 8 4 12 0 0 2 2 6 9
+p407
+aVJim Jackson CLE 02/03/2001 CLE vs. DET L 40 8 3 10 30.0 0 0 - 2 2 100.0 0 9 9 4 2 0 5 5 4
+p408
+aVChucky Brown CLE 02/03/2001 CLE vs. DET L 14 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 1 1 2 2 7
+p409
+aVRobert Traylor CLE 02/01/2001 CLE vs. MIN L 19 10 4 8 50.0 0 0 - 2 4 50.0 3 3 6 1 0 1 2 1 -14
+p410
+aVJim Jackson CLE 02/01/2001 CLE vs. MIN L 35 11 3 12 25.0 0 0 - 5 5 100.0 1 6 7 0 1 0 3 5 0
+p411
+aVTrajan Langdon CLE 02/01/2001 CLE vs. MIN L 39 7 3 12 25.0 0 4 0.0 1 1 100.0 1 6 7 1 0 1 2 2 -7
+p412
+aVChris Gatling CLE 02/01/2001 CLE vs. MIN L 28 15 6 12 50.0 1 1 100.0 2 5 40.0 2 2 4 0 1 0 3 5 -7
+p413
+aVBimbo Coles CLE 02/01/2001 CLE vs. MIN L 20 4 1 8 12.5 0 0 - 2 2 100.0 0 1 1 2 1 1 1 3 -5
+p414
+aVAndre Miller CLE 02/01/2001 CLE vs. MIN L 35 14 3 10 30.0 0 0 - 8 8 100.0 2 3 5 7 0 1 2 4 -11
+p415
+aVChris Mihm CLE 02/01/2001 CLE vs. MIN L 18 7 3 5 60.0 0 0 - 1 1 100.0 2 3 5 0 0 1 1 3 4
+p416
+aVCedric Henderson CLE 02/01/2001 CLE vs. MIN L 15 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 1 0 1 -4
+p417
+aVClar. Weatherspoon CLE 02/01/2001 CLE vs. MIN L 31 10 5 6 83.3 0 0 - 0 0 - 0 3 3 1 2 2 3 1 -1
+p418
+aVAnthony Johnson CLE 01/30/2001 CLE vs. LAL L 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -6
+p419
+aVTrajan Langdon CLE 01/30/2001 CLE vs. LAL L 17 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 3 1 0 0 4 -1
+p420
+aVAndre Miller CLE 01/30/2001 CLE vs. LAL L 40 25 7 16 43.8 0 1 0.0 11 12 91.7 3 2 5 7 3 0 2 3 -9
+p421
+aVChris Gatling CLE 01/30/2001 CLE vs. LAL L 22 12 5 8 62.5 0 1 0.0 2 4 50.0 1 5 6 0 1 0 4 5 -8
+p422
+aVJim Jackson CLE 01/30/2001 CLE vs. LAL L 31 9 4 13 30.8 0 1 0.0 1 1 100.0 3 0 3 2 1 0 2 3 -17
+p423
+aVCedric Henderson CLE 01/30/2001 CLE vs. LAL L 32 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 4 4 3
+p424
+aVClar. Weatherspoon CLE 01/30/2001 CLE vs. LAL L 30 11 4 7 57.1 0 0 - 3 4 75.0 3 5 8 0 1 1 1 0 -8
+p425
+aVChris Mihm CLE 01/30/2001 CLE vs. LAL L 15 1 0 6 0.0 0 0 - 1 2 50.0 3 0 3 0 1 0 0 2 2
+p426
+aVBimbo Coles CLE 01/30/2001 CLE vs. LAL L 22 16 6 12 50.0 0 1 0.0 4 4 100.0 2 1 3 3 2 0 0 3 12
+p427
+aVRobert Traylor CLE 01/30/2001 CLE vs. LAL L 21 7 3 5 60.0 0 1 0.0 1 3 33.3 3 4 7 0 4 1 1 5 6
+p428
+aVChucky Brown CLE 01/30/2001 CLE vs. LAL L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 2 0 1 -4
+p429
+aVRobert Traylor CLE 01/29/2001 CLE @ WAS L 29 9 4 6 66.7 0 0 - 1 3 33.3 5 4 9 2 2 2 3 4 1
+p430
+aVLamond Murray CLE 01/29/2001 CLE @ WAS L 25 4 2 10 20.0 0 0 - 0 0 - 0 1 1 0 1 1 3 0 -9
+p431
+aVChris Gatling CLE 01/29/2001 CLE @ WAS L 21 13 4 7 57.1 1 2 50.0 4 5 80.0 2 3 5 0 0 0 2 2 8
+p432
+aVClar. Weatherspoon CLE 01/29/2001 CLE @ WAS L 27 10 5 10 50.0 0 0 - 0 0 - 2 5 7 0 2 0 1 3 -7
+p433
+aVTrajan Langdon CLE 01/29/2001 CLE @ WAS L 17 10 3 4 75.0 1 2 50.0 3 3 100.0 0 1 1 1 0 0 1 2 9
+p434
+aVCedric Henderson CLE 01/29/2001 CLE @ WAS L 23 10 5 7 71.4 0 0 - 0 0 - 0 0 0 2 2 1 1 4 3
+p435
+aVChris Mihm CLE 01/29/2001 CLE @ WAS L 16 4 1 6 16.7 0 0 - 2 2 100.0 4 6 10 0 0 0 0 4 -9
+p436
+aVJim Jackson CLE 01/29/2001 CLE @ WAS L 31 14 7 15 46.7 0 2 0.0 0 0 - 0 3 3 2 0 0 2 2 -15
+p437
+aVBimbo Coles CLE 01/29/2001 CLE @ WAS L 14 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 4 0 1 1 3 -6
+p438
+aVChucky Brown CLE 01/29/2001 CLE @ WAS L 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -5
+p439
+aVAndre Miller CLE 01/29/2001 CLE @ WAS L 34 12 5 17 29.4 0 0 - 2 4 50.0 1 2 3 10 3 0 4 1 0
+p440
+aVEtdrick Bohannon CLE 01/27/2001 CLE vs. ATL L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 1 4
+p441
+aVTrajan Langdon CLE 01/27/2001 CLE vs. ATL L 8 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -5
+p442
+aVClar. Weatherspoon CLE 01/27/2001 CLE vs. ATL L 37 7 2 7 28.6 0 0 - 3 4 75.0 5 11 16 0 1 3 2 2 -12
+p443
+aVAndre Miller CLE 01/27/2001 CLE vs. ATL L 29 18 8 15 53.3 1 2 50.0 1 2 50.0 2 3 5 5 3 2 6 4 -12
+p444
+aVJim Jackson CLE 01/27/2001 CLE vs. ATL L 35 18 8 16 50.0 0 1 0.0 2 2 100.0 2 0 2 2 2 1 3 2 -18
+p445
+aVBimbo Coles CLE 01/27/2001 CLE vs. ATL L 23 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 4 1 0 1 4 5
+p446
+aVChris Gatling CLE 01/27/2001 CLE vs. ATL L 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -6
+p447
+aVCedric Henderson CLE 01/27/2001 CLE vs. ATL L 15 8 2 5 40.0 0 1 0.0 4 6 66.7 0 0 0 0 2 1 1 1 10
+p448
+aVRobert Traylor CLE 01/27/2001 CLE vs. ATL L 35 8 3 7 42.9 0 0 - 2 5 40.0 5 5 10 1 1 1 1 2 -8
+p449
+aVLamond Murray CLE 01/27/2001 CLE vs. ATL L 41 15 6 15 40.0 0 2 0.0 3 4 75.0 2 6 8 4 0 1 4 4 -13
+p450
+aVRobert Traylor CLE 01/24/2001 CLE vs. CHI W 21 6 3 3 100.0 0 0 - 0 0 - 1 5 6 0 1 4 3 4 10
+p451
+aVEtdrick Bohannon CLE 01/24/2001 CLE vs. CHI W 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 2
+p452
+aVAndre Miller CLE 01/24/2001 CLE vs. CHI W 34 13 3 8 37.5 0 0 - 7 8 87.5 0 7 7 9 2 1 3 3 13
+p453
+aVClar. Weatherspoon CLE 01/24/2001 CLE vs. CHI W 41 12 5 9 55.6 0 0 - 2 2 100.0 0 9 9 0 1 2 3 2 9
+p454
+aVLamond Murray CLE 01/24/2001 CLE vs. CHI W 36 26 8 16 50.0 1 3 33.3 9 11 81.8 1 3 4 1 1 0 2 1 5
+p455
+aVJim Jackson CLE 01/24/2001 CLE vs. CHI W 30 12 4 8 50.0 1 3 33.3 3 4 75.0 1 3 4 3 0 0 2 5 12
+p456
+aVTrajan Langdon CLE 01/24/2001 CLE vs. CHI W 17 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 1 0 -1
+p457
+aVCedric Henderson CLE 01/24/2001 CLE vs. CHI W 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 0
+p458
+aVChris Gatling CLE 01/24/2001 CLE vs. CHI W 30 16 6 12 50.0 0 1 0.0 4 6 66.7 0 6 6 0 0 1 1 5 -5
+p459
+aVBimbo Coles CLE 01/24/2001 CLE vs. CHI W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 0 0 5 2 -5
+p460
+aVLamond Murray CLE 01/22/2001 CLE vs. POR W 27 8 3 8 37.5 0 1 0.0 2 2 100.0 0 2 2 2 1 0 0 5 9
+p461
+aVAndre Miller CLE 01/22/2001 CLE vs. POR W 35 18 9 14 64.3 0 0 - 0 0 - 2 1 3 4 2 0 2 2 19
+p462
+aVRobert Traylor CLE 01/22/2001 CLE vs. POR W 30 5 2 11 18.2 0 0 - 1 2 50.0 1 8 9 1 2 0 3 1 15
+p463
+aVTrajan Langdon CLE 01/22/2001 CLE vs. POR W 28 13 3 7 42.9 2 4 50.0 5 5 100.0 0 5 5 1 1 0 1 5 21
+p464
+aVClar. Weatherspoon CLE 01/22/2001 CLE vs. POR W 33 6 2 4 50.0 0 0 - 2 2 100.0 3 6 9 4 0 2 1 1 19
+p465
+aVChris Gatling CLE 01/22/2001 CLE vs. POR W 33 15 4 12 33.3 0 3 0.0 7 9 77.8 0 7 7 1 1 1 0 1 18
+p466
+aVJim Jackson CLE 01/22/2001 CLE vs. POR W 33 15 6 13 46.2 0 1 0.0 3 3 100.0 3 5 8 5 1 0 0 1 22
+p467
+aVBimbo Coles CLE 01/22/2001 CLE vs. POR W 13 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 4 1 0 1 2 7
+p468
+aVCedric Henderson CLE 01/22/2001 CLE vs. POR W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 0
+p469
+aVCedric Henderson CLE 01/19/2001 CLE @ DEN L 18 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -6
+p470
+aVClar. Weatherspoon CLE 01/19/2001 CLE @ DEN L 36 9 3 11 27.3 0 0 - 3 3 100.0 3 9 12 1 0 3 0 2 -4
+p471
+aVChris Gatling CLE 01/19/2001 CLE @ DEN L 33 10 3 11 27.3 0 1 0.0 4 6 66.7 2 8 10 2 2 1 1 3 6
+p472
+aVAndre Miller CLE 01/19/2001 CLE @ DEN L 33 17 7 13 53.8 0 1 0.0 3 3 100.0 1 3 4 6 2 0 3 0 -16
+p473
+aVLamond Murray CLE 01/19/2001 CLE @ DEN L 30 15 6 17 35.3 2 4 50.0 1 4 25.0 3 6 9 1 0 0 1 4 1
+p474
+aVRobert Traylor CLE 01/19/2001 CLE @ DEN L 26 3 1 6 16.7 0 0 - 1 4 25.0 3 4 7 0 2 1 1 3 -6
+p475
+aVJim Jackson CLE 01/19/2001 CLE @ DEN L 29 14 5 15 33.3 0 2 0.0 4 5 80.0 0 2 2 2 0 1 2 3 -5
+p476
+aVTrajan Langdon CLE 01/19/2001 CLE @ DEN L 19 10 2 3 66.7 2 2 100.0 4 4 100.0 0 1 1 0 0 0 0 3 2
+p477
+aVAnthony Johnson CLE 01/19/2001 CLE @ DEN L 15 8 3 10 30.0 0 0 - 2 2 100.0 2 2 4 2 0 0 0 4 13
+p478
+aVEtdrick Bohannon CLE 01/16/2001 CLE @ POR L 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 0
+p479
+aVChris Gatling CLE 01/16/2001 CLE @ POR L 30 12 5 11 45.5 0 1 0.0 2 2 100.0 1 6 7 1 1 0 3 2 -15
+p480
+aVLamond Murray CLE 01/16/2001 CLE @ POR L 38 13 6 18 33.3 1 2 50.0 0 0 - 4 0 4 1 1 0 1 4 -17
+p481
+aVTrajan Langdon CLE 01/16/2001 CLE @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p482
+aVCedric Henderson CLE 01/16/2001 CLE @ POR L 14 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 4 -4
+p483
+aVRobert Traylor CLE 01/16/2001 CLE @ POR L 27 6 2 7 28.6 0 0 - 2 2 100.0 3 3 6 2 0 2 2 5 -20
+p484
+aVJim Jackson CLE 01/16/2001 CLE @ POR L 42 12 4 10 40.0 1 2 50.0 3 4 75.0 1 7 8 5 0 0 2 4 -21
+p485
+aVAndre Miller CLE 01/16/2001 CLE @ POR L 35 14 4 8 50.0 0 0 - 6 6 100.0 0 4 4 10 0 0 1 1 -10
+p486
+aVClar. Weatherspoon CLE 01/16/2001 CLE @ POR L 37 17 7 12 58.3 0 0 - 3 3 100.0 2 3 5 1 2 0 3 0 -5
+p487
+aVAnthony Johnson CLE 01/16/2001 CLE @ POR L 13 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 2 1 0 0 1 -10
+p488
+aVLamond Murray CLE 01/15/2001 CLE @ GSW W 32 19 7 12 58.3 2 3 66.7 3 4 75.0 0 1 1 1 1 0 5 4 -5
+p489
+aVClar. Weatherspoon CLE 01/15/2001 CLE @ GSW W 36 22 9 13 69.2 0 0 - 4 7 57.1 4 7 11 2 2 3 2 2 5
+p490
+aVCedric Henderson CLE 01/15/2001 CLE @ GSW W 28 4 1 8 12.5 0 0 - 2 2 100.0 1 4 5 2 0 3 1 3 14
+p491
+aVTrajan Langdon CLE 01/15/2001 CLE @ GSW W 31 8 3 6 50.0 1 3 33.3 1 1 100.0 0 2 2 4 1 0 1 4 17
+p492
+aVAnthony Johnson CLE 01/15/2001 CLE @ GSW W 20 16 7 9 77.8 0 0 - 2 2 100.0 0 1 1 6 2 0 1 3 6
+p493
+aVRobert Traylor CLE 01/15/2001 CLE @ GSW W 31 7 3 4 75.0 0 0 - 1 4 25.0 2 7 9 1 0 0 3 4 12
+p494
+aVJim Jackson CLE 01/15/2001 CLE @ GSW W 15 2 1 7 14.3 0 1 0.0 0 0 - 1 0 1 4 0 0 1 3 -11
+p495
+aVAndre Miller CLE 01/15/2001 CLE @ GSW W 29 17 5 9 55.6 0 0 - 7 10 70.0 1 4 5 7 1 0 2 2 0
+p496
+aVChris Gatling CLE 01/15/2001 CLE @ GSW W 17 12 4 7 57.1 0 0 - 4 4 100.0 2 4 6 0 0 0 3 2 -8
+p497
+aVCedric Henderson CLE 01/13/2001 CLE @ VAN L 26 6 3 8 37.5 0 0 - 0 1 0.0 0 4 4 1 1 3 0 3 -5
+p498
+aVRobert Traylor CLE 01/13/2001 CLE @ VAN L 16 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -5
+p499
+aVJim Jackson CLE 01/13/2001 CLE @ VAN L 31 14 6 10 60.0 1 1 100.0 1 2 50.0 0 1 1 3 0 0 2 5 -4
+p500
+aVAndre Miller CLE 01/13/2001 CLE @ VAN L 38 17 6 14 42.9 0 0 - 5 7 71.4 1 1 2 10 2 0 0 1 1
+p501
+aVTrajan Langdon CLE 01/13/2001 CLE @ VAN L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -4
+p502
+aVLamond Murray CLE 01/13/2001 CLE @ VAN L 40 23 8 19 42.1 0 4 0.0 7 8 87.5 2 6 8 2 0 2 0 2 -9
+p503
+aVChris Gatling CLE 01/13/2001 CLE @ VAN L 38 27 10 23 43.5 1 2 50.0 6 7 85.7 3 4 7 1 2 0 3 5 -10
+p504
+aVClar. Weatherspoon CLE 01/13/2001 CLE @ VAN L 33 10 5 6 83.3 0 0 - 0 0 - 1 4 5 0 1 0 0 3 -13
+p505
+aVEtdrick Bohannon CLE 01/13/2001 CLE @ VAN L 1 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 2
+p506
+aVAnthony Johnson CLE 01/13/2001 CLE @ VAN L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -13
+p507
+aVTrajan Langdon CLE 01/12/2001 CLE @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p508
+aVAndre Miller CLE 01/12/2001 CLE @ LAL L 41 23 9 19 47.4 0 2 0.0 5 9 55.6 2 6 8 7 3 1 0 3 4
+p509
+aVCedric Henderson CLE 01/12/2001 CLE @ LAL L 13 10 5 9 55.6 0 1 0.0 0 0 - 1 0 1 0 1 0 0 1 -3
+p510
+aVRobert Traylor CLE 01/12/2001 CLE @ LAL L 22 4 2 6 33.3 0 0 - 0 0 - 3 1 4 1 0 0 0 5 5
+p511
+aVChris Gatling CLE 01/12/2001 CLE @ LAL L 45 17 4 13 30.8 1 3 33.3 8 11 72.7 1 6 7 1 2 0 3 5 -3
+p512
+aVLamond Murray CLE 01/12/2001 CLE @ LAL L 37 25 10 22 45.5 1 3 33.3 4 7 57.1 5 6 11 1 1 1 3 4 0
+p513
+aVEtdrick Bohannon CLE 01/12/2001 CLE @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p514
+aVJim Jackson CLE 01/12/2001 CLE @ LAL L 42 15 5 13 38.5 1 2 50.0 4 4 100.0 3 3 6 1 1 0 2 3 -4
+p515
+aVClar. Weatherspoon CLE 01/12/2001 CLE @ LAL L 25 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 1 0 0 0 -6
+p516
+aVAnthony Johnson CLE 01/12/2001 CLE @ LAL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -7
+p517
+aVCedric Henderson CLE 01/10/2001 CLE @ SAC L 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -9
+p518
+aVClar. Weatherspoon CLE 01/10/2001 CLE @ SAC L 38 12 4 12 33.3 0 0 - 4 4 100.0 6 5 11 2 4 1 1 4 2
+p519
+aVLamond Murray CLE 01/10/2001 CLE @ SAC L 40 10 4 15 26.7 1 2 50.0 1 1 100.0 0 8 8 5 3 0 3 3 3
+p520
+aVTrajan Langdon CLE 01/10/2001 CLE @ SAC L 12 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 2
+p521
+aVJim Jackson CLE 01/10/2001 CLE @ SAC L 40 6 2 11 18.2 0 1 0.0 2 4 50.0 2 2 4 5 0 0 1 4 -6
+p522
+aVAnthony Johnson CLE 01/10/2001 CLE @ SAC L 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -9
+p523
+aVRobert Traylor CLE 01/10/2001 CLE @ SAC L 16 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 3 4 1 3 -16
+p524
+aVEtdrick Bohannon CLE 01/10/2001 CLE @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p525
+aVChris Gatling CLE 01/10/2001 CLE @ SAC L 41 38 17 25 68.0 3 4 75.0 1 1 100.0 1 6 7 1 1 0 4 2 4
+p526
+aVAndre Miller CLE 01/10/2001 CLE @ SAC L 40 29 10 20 50.0 0 3 0.0 9 9 100.0 2 3 5 7 3 0 5 1 4
+p527
+aVAnthony Johnson CLE 01/08/2001 CLE vs. NJN W 14 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 1 1 0 0 1 1
+p528
+aVJim Jackson CLE 01/08/2001 CLE vs. NJN W 40 11 5 15 33.3 1 2 50.0 0 0 - 1 1 2 3 1 0 2 5 6
+p529
+aVChris Gatling CLE 01/08/2001 CLE vs. NJN W 31 15 5 13 38.5 0 1 0.0 5 8 62.5 4 4 8 3 0 2 4 2 1
+p530
+aVRobert Traylor CLE 01/08/2001 CLE vs. NJN W 22 14 4 7 57.1 0 0 - 6 10 60.0 4 5 9 1 1 1 2 6 -6
+p531
+aVLamond Murray CLE 01/08/2001 CLE vs. NJN W 36 22 9 18 50.0 1 4 25.0 3 4 75.0 2 8 10 0 3 2 0 2 7
+p532
+aVTrajan Langdon CLE 01/08/2001 CLE vs. NJN W 26 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 2 1 0 0 1 -6
+p533
+aVClar. Weatherspoon CLE 01/08/2001 CLE vs. NJN W 36 9 3 8 37.5 0 0 - 3 4 75.0 4 10 14 1 2 4 0 1 6
+p534
+aVAndre Miller CLE 01/08/2001 CLE vs. NJN W 34 8 2 11 18.2 0 0 - 4 4 100.0 1 3 4 7 1 0 5 2 1
+p535
+aVLamond Murray CLE 01/06/2001 CLE vs. PHI L 41 19 8 16 50.0 0 2 0.0 3 3 100.0 1 2 3 3 3 1 2 1 1
+p536
+aVTrajan Langdon CLE 01/06/2001 CLE vs. PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p537
+aVCedric Henderson CLE 01/06/2001 CLE vs. PHI L 9 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 0 2 3 3 -6
+p538
+aVChris Gatling CLE 01/06/2001 CLE vs. PHI L 32 18 7 13 53.8 1 3 33.3 3 4 75.0 2 6 8 2 0 0 1 3 -4
+p539
+aVClar. Weatherspoon CLE 01/06/2001 CLE vs. PHI L 44 19 7 10 70.0 0 0 - 5 6 83.3 7 9 16 3 1 1 3 1 2
+p540
+aVAnthony Johnson CLE 01/06/2001 CLE vs. PHI L 10 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -9
+p541
+aVRobert Traylor CLE 01/06/2001 CLE vs. PHI L 16 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 0 4 2 0 6 -6
+p542
+aVAndre Miller CLE 01/06/2001 CLE vs. PHI L 40 22 9 16 56.3 0 2 0.0 4 5 80.0 0 2 2 14 1 0 0 5 4
+p543
+aVJim Jackson CLE 01/06/2001 CLE vs. PHI L 40 15 6 18 33.3 0 3 0.0 3 4 75.0 1 0 1 2 3 0 4 5 -1
+p544
+aVChris Mihm CLE 01/06/2001 CLE vs. PHI L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 0
+p545
+aVLarry Robinson CLE 01/03/2001 CLE @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p546
+aVAnthony Johnson CLE 01/03/2001 CLE @ MIL L 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 5
+p547
+aVChris Gatling CLE 01/03/2001 CLE @ MIL L 29 18 7 11 63.6 2 2 100.0 2 2 100.0 2 4 6 1 0 0 2 2 7
+p548
+aVChris Mihm CLE 01/03/2001 CLE @ MIL L 36 18 8 14 57.1 0 0 - 2 4 50.0 8 7 15 0 0 1 2 5 -7
+p549
+aVJim Jackson CLE 01/03/2001 CLE @ MIL L 34 7 3 9 33.3 0 2 0.0 1 1 100.0 0 4 4 2 0 0 6 4 7
+p550
+aVAndre Miller CLE 01/03/2001 CLE @ MIL L 38 11 4 7 57.1 0 0 - 3 3 100.0 0 3 3 4 4 0 6 5 -8
+p551
+aVLamond Murray CLE 01/03/2001 CLE @ MIL L 41 17 6 15 40.0 2 5 40.0 3 4 75.0 0 3 3 4 0 1 4 3 0
+p552
+aVCedric Henderson CLE 01/03/2001 CLE @ MIL L 19 0 0 4 0.0 0 0 - 0 0 - 0 0 0 2 0 1 2 2 -14
+p553
+aVClar. Weatherspoon CLE 01/03/2001 CLE @ MIL L 29 8 4 9 44.4 0 0 - 0 0 - 3 6 9 1 0 4 1 1 -10
+p554
+aVRobert Traylor CLE 01/02/2001 CLE vs. HOU L 12 3 1 4 25.0 0 0 - 1 2 50.0 2 0 2 1 0 0 0 0 5
+p555
+aVAndre Miller CLE 01/02/2001 CLE vs. HOU L 47 19 7 17 41.2 1 1 100.0 4 5 80.0 2 4 6 8 2 0 2 3 -5
+p556
+aVLamond Murray CLE 01/02/2001 CLE vs. HOU L 38 24 9 16 56.3 1 1 100.0 5 8 62.5 3 8 11 2 1 0 1 4 2
+p557
+aVCedric Henderson CLE 01/02/2001 CLE vs. HOU L 17 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 1 0 2 1 -11
+p558
+aVClar. Weatherspoon CLE 01/02/2001 CLE vs. HOU L 38 8 3 6 50.0 0 0 - 2 2 100.0 6 12 18 1 0 4 1 2 4
+p559
+aVChris Mihm CLE 01/02/2001 CLE vs. HOU L 28 17 7 15 46.7 0 0 - 3 4 75.0 3 4 7 0 0 5 1 0 -7
+p560
+aVMatt Harpring CLE 01/02/2001 CLE vs. HOU L 41 16 5 18 27.8 0 0 - 6 7 85.7 5 5 10 2 1 0 4 5 -2
+p561
+aVChris Gatling CLE 01/02/2001 CLE vs. HOU L 18 8 3 10 30.0 1 3 33.3 1 5 20.0 1 4 5 1 0 0 0 2 -11
+p562
+aVAndre Miller CLE 12/29/2000 CLE @ ATL W 33 19 6 10 60.0 1 1 100.0 6 6 100.0 1 5 6 5 2 0 3 4 14
+p563
+aVChris Gatling CLE 12/29/2000 CLE @ ATL W 28 13 6 15 40.0 0 1 0.0 1 1 100.0 0 2 2 0 1 0 2 1 3
+p564
+aVCedric Henderson CLE 12/29/2000 CLE @ ATL W 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 2 0
+p565
+aVBrevin Knight CLE 12/29/2000 CLE @ ATL W 16 4 0 2 0.0 0 0 - 4 4 100.0 0 1 1 6 2 0 1 3 -1
+p566
+aVClar. Weatherspoon CLE 12/29/2000 CLE @ ATL W 38 16 7 13 53.8 0 0 - 2 2 100.0 1 4 5 1 2 1 1 1 11
+p567
+aVJ.R. Reid CLE 12/29/2000 CLE @ ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p568
+aVMatt Harpring CLE 12/29/2000 CLE @ ATL W 45 13 5 12 41.7 0 1 0.0 3 3 100.0 0 2 2 1 0 0 1 3 15
+p569
+aVChris Mihm CLE 12/29/2000 CLE @ ATL W 26 8 4 6 66.7 0 0 - 0 0 - 3 3 6 0 1 0 3 5 9
+p570
+aVLamond Murray CLE 12/29/2000 CLE @ ATL W 38 22 8 15 53.3 2 3 66.7 4 5 80.0 3 8 11 0 3 0 2 2 9
+p571
+aVLamond Murray CLE 12/28/2000 CLE vs. MIL L 29 22 9 16 56.3 2 5 40.0 2 3 66.7 1 2 3 1 1 0 3 3 -15
+p572
+aVCedric Henderson CLE 12/28/2000 CLE vs. MIL L 30 2 1 6 16.7 0 0 - 0 0 - 1 3 4 4 0 1 4 3 -25
+p573
+aVRobert Traylor CLE 12/28/2000 CLE vs. MIL L 17 12 4 5 80.0 0 0 - 4 7 57.1 0 2 2 0 0 2 0 2 11
+p574
+aVBrevin Knight CLE 12/28/2000 CLE vs. MIL L 18 0 0 1 0.0 0 0 - 0 0 - 0 0 0 6 0 1 1 5 6
+p575
+aVJ.R. Reid CLE 12/28/2000 CLE vs. MIL L 14 5 0 2 0.0 0 0 - 5 6 83.3 2 1 3 0 1 0 1 1 -5
+p576
+aVTrajan Langdon CLE 12/28/2000 CLE vs. MIL L 36 12 5 16 31.3 1 6 16.7 1 1 100.0 0 2 2 2 2 1 3 3 -3
+p577
+aVClar. Weatherspoon CLE 12/28/2000 CLE vs. MIL L 32 15 5 10 50.0 0 0 - 5 8 62.5 4 11 15 0 1 0 3 3 -22
+p578
+aVAndre Miller CLE 12/28/2000 CLE vs. MIL L 32 11 4 7 57.1 0 1 0.0 3 3 100.0 1 4 5 7 2 1 4 2 -19
+p579
+aVChris Mihm CLE 12/28/2000 CLE vs. MIL L 32 10 2 8 25.0 0 0 - 6 6 100.0 2 4 6 0 0 1 1 3 -18
+p580
+aVAndre Miller CLE 12/26/2000 CLE @ CHH L 40 30 10 17 58.8 1 2 50.0 9 14 64.3 3 3 6 10 2 0 6 5 7
+p581
+aVTrajan Langdon CLE 12/26/2000 CLE @ CHH L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -11
+p582
+aVBrevin Knight CLE 12/26/2000 CLE @ CHH L 14 3 1 5 20.0 0 0 - 1 2 50.0 0 0 0 3 1 0 0 3 -12
+p583
+aVCedric Henderson CLE 12/26/2000 CLE @ CHH L 17 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 4 -22
+p584
+aVRobert Traylor CLE 12/26/2000 CLE @ CHH L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -10
+p585
+aVChris Gatling CLE 12/26/2000 CLE @ CHH L 36 15 6 17 35.3 0 2 0.0 3 5 60.0 3 8 11 0 0 1 1 3 -10
+p586
+aVMatt Harpring CLE 12/26/2000 CLE @ CHH L 39 25 9 16 56.3 0 0 - 7 8 87.5 4 2 6 2 1 0 3 6 13
+p587
+aVClar. Weatherspoon CLE 12/26/2000 CLE @ CHH L 43 11 3 8 37.5 0 0 - 5 6 83.3 2 8 10 3 1 0 1 4 5
+p588
+aVLamond Murray CLE 12/26/2000 CLE @ CHH L 40 18 7 17 41.2 1 1 100.0 3 4 75.0 3 5 8 2 1 0 5 0 10
+p589
+aVChris Mihm CLE 12/26/2000 CLE @ CHH L 17 8 4 6 66.7 0 0 - 0 1 0.0 1 5 6 0 0 2 0 4 5
+p590
+aVLamond Murray CLE 12/23/2000 CLE @ ORL L 26 8 3 11 27.3 1 3 33.3 1 2 50.0 2 0 2 4 0 0 2 0 -11
+p591
+aVMatt Harpring CLE 12/23/2000 CLE @ ORL L 33 22 9 16 56.3 1 2 50.0 3 4 75.0 3 2 5 1 2 0 3 5 -17
+p592
+aVClar. Weatherspoon CLE 12/23/2000 CLE @ ORL L 35 18 6 11 54.5 0 0 - 6 9 66.7 3 6 9 1 0 0 0 2 -14
+p593
+aVBrevin Knight CLE 12/23/2000 CLE @ ORL L 19 0 0 1 0.0 0 0 - 0 0 - 0 4 4 7 1 0 3 1 -1
+p594
+aVJ.R. Reid CLE 12/23/2000 CLE @ ORL L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -7
+p595
+aVCedric Henderson CLE 12/23/2000 CLE @ ORL L 26 8 4 14 28.6 0 1 0.0 0 0 - 1 0 1 2 1 0 2 4 -5
+p596
+aVRobert Traylor CLE 12/23/2000 CLE @ ORL L 19 4 2 3 66.7 0 0 - 0 0 - 0 5 5 2 1 1 3 4 -5
+p597
+aVMichael Hawkins CLE 12/23/2000 CLE @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p598
+aVTrajan Langdon CLE 12/23/2000 CLE @ ORL L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -6
+p599
+aVAndre Miller CLE 12/23/2000 CLE @ ORL L 35 8 2 10 20.0 0 1 0.0 4 4 100.0 1 5 6 10 1 0 0 2 -17
+p600
+aVChris Gatling CLE 12/23/2000 CLE @ ORL L 30 19 7 13 53.8 0 1 0.0 5 9 55.6 1 7 8 0 2 0 2 2 -12
+p601
+aVZydrunas Ilgauskas CLE 12/22/2000 CLE @ MIA L 22 14 5 8 62.5 0 0 - 4 4 100.0 0 3 3 0 0 1 2 1 -6
+p602
+aVRobert Traylor CLE 12/22/2000 CLE @ MIA L 17 8 2 2 100.0 0 0 - 4 5 80.0 4 3 7 2 0 0 1 6 3
+p603
+aVAndre Miller CLE 12/22/2000 CLE @ MIA L 39 28 11 18 61.1 1 2 50.0 5 6 83.3 2 6 8 7 2 1 7 5 8
+p604
+aVJ.R. Reid CLE 12/22/2000 CLE @ MIA L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p605
+aVClar. Weatherspoon CLE 12/22/2000 CLE @ MIA L 30 5 2 9 22.2 0 0 - 1 1 100.0 0 7 7 0 1 0 2 4 -11
+p606
+aVChris Gatling CLE 12/22/2000 CLE @ MIA L 25 9 4 12 33.3 0 2 0.0 1 2 50.0 1 3 4 0 0 0 2 1 -2
+p607
+aVCedric Henderson CLE 12/22/2000 CLE @ MIA L 18 6 1 2 50.0 0 0 - 4 4 100.0 0 1 1 1 1 1 2 4 4
+p608
+aVMichael Hawkins CLE 12/22/2000 CLE @ MIA L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -16
+p609
+aVTrajan Langdon CLE 12/22/2000 CLE @ MIA L 10 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 2 3
+p610
+aVMatt Harpring CLE 12/22/2000 CLE @ MIA L 37 15 6 9 66.7 1 4 25.0 2 2 100.0 1 2 3 1 0 0 0 4 -8
+p611
+aVLamond Murray CLE 12/22/2000 CLE @ MIA L 31 5 2 8 25.0 1 2 50.0 0 0 - 2 1 3 4 2 0 2 2 -15
+p612
+aVAndre Miller CLE 12/20/2000 CLE @ SAS L 37 14 5 16 31.3 0 1 0.0 4 4 100.0 1 4 5 10 4 2 4 5 -8
+p613
+aVRobert Traylor CLE 12/20/2000 CLE @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 1 1 -8
+p614
+aVLamond Murray CLE 12/20/2000 CLE @ SAS L 38 14 7 16 43.8 0 1 0.0 0 0 - 1 4 5 0 0 0 2 1 -14
+p615
+aVJ.R. Reid CLE 12/20/2000 CLE @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p616
+aVChris Gatling CLE 12/20/2000 CLE @ SAS L 25 18 8 12 66.7 0 2 0.0 2 3 66.7 0 3 3 0 0 0 0 4 -10
+p617
+aVMatt Harpring CLE 12/20/2000 CLE @ SAS L 34 9 3 11 27.3 0 0 - 3 4 75.0 4 6 10 0 2 0 1 3 -3
+p618
+aVMichael Hawkins CLE 12/20/2000 CLE @ SAS L 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -9
+p619
+aVZydrunas Ilgauskas CLE 12/20/2000 CLE @ SAS L 30 9 3 7 42.9 0 0 - 3 4 75.0 1 6 7 0 1 1 5 2 -4
+p620
+aVCedric Henderson CLE 12/20/2000 CLE @ SAS L 15 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 0 0 1 1 -11
+p621
+aVClar. Weatherspoon CLE 12/20/2000 CLE @ SAS L 32 9 4 9 44.4 0 0 - 1 2 50.0 2 4 6 2 1 0 0 4 -11
+p622
+aVTrajan Langdon CLE 12/20/2000 CLE @ SAS L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p623
+aVMichael Hawkins CLE 12/16/2000 CLE vs. UTA W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 2 3 -4
+p624
+aVMatt Harpring CLE 12/16/2000 CLE vs. UTA W 28 14 3 5 60.0 0 0 - 8 9 88.9 0 4 4 3 0 0 2 4 5
+p625
+aVCedric Henderson CLE 12/16/2000 CLE vs. UTA W 24 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 0 1 3 0 12
+p626
+aVJ.R. Reid CLE 12/16/2000 CLE vs. UTA W 10 0 0 0 - 0 0 - 0 0 - 2 0 2 1 1 1 0 1 -4
+p627
+aVAndre Miller CLE 12/16/2000 CLE vs. UTA W 38 22 7 12 58.3 0 2 0.0 8 9 88.9 0 5 5 8 3 1 2 1 11
+p628
+aVClar. Weatherspoon CLE 12/16/2000 CLE vs. UTA W 29 15 6 12 50.0 0 0 - 3 4 75.0 2 10 12 0 0 1 2 4 1
+p629
+aVLamond Murray CLE 12/16/2000 CLE vs. UTA W 23 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 2 1 0 2 2 -5
+p630
+aVWesley Person CLE 12/16/2000 CLE vs. UTA W 22 3 1 5 20.0 1 5 20.0 0 0 - 0 3 3 1 2 0 0 2 1
+p631
+aVChris Gatling CLE 12/16/2000 CLE vs. UTA W 19 11 3 11 27.3 1 4 25.0 4 4 100.0 1 3 4 2 1 1 2 2 6
+p632
+aVZydrunas Ilgauskas CLE 12/16/2000 CLE vs. UTA W 37 17 7 16 43.8 0 0 - 3 5 60.0 3 5 8 1 1 1 3 4 12
+p633
+aVTrajan Langdon CLE 12/15/2000 CLE @ IND W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 6
+p634
+aVZydrunas Ilgauskas CLE 12/15/2000 CLE @ IND W 36 24 10 17 58.8 0 0 - 4 6 66.7 8 1 9 2 0 1 5 3 4
+p635
+aVMichael Hawkins CLE 12/15/2000 CLE @ IND W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 1 0 0 3 3
+p636
+aVLamond Murray CLE 12/15/2000 CLE @ IND W 25 12 5 10 50.0 1 2 50.0 1 2 50.0 0 2 2 1 0 0 3 3 -6
+p637
+aVRobert Traylor CLE 12/15/2000 CLE @ IND W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 7
+p638
+aVChris Gatling CLE 12/15/2000 CLE @ IND W 23 10 4 9 44.4 0 3 0.0 2 3 66.7 2 4 6 0 2 0 1 4 1
+p639
+aVCedric Henderson CLE 12/15/2000 CLE @ IND W 24 11 4 8 50.0 0 0 - 3 5 60.0 2 1 3 3 1 0 1 3 18
+p640
+aVAndre Miller CLE 12/15/2000 CLE @ IND W 40 17 5 13 38.5 0 1 0.0 7 8 87.5 1 7 8 8 2 0 2 2 5
+p641
+aVWesley Person CLE 12/15/2000 CLE @ IND W 15 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 2 0 0 1 12
+p642
+aVClar. Weatherspoon CLE 12/15/2000 CLE @ IND W 32 9 3 7 42.9 0 0 - 3 4 75.0 2 7 9 1 1 1 0 4 3
+p643
+aVMatt Harpring CLE 12/15/2000 CLE @ IND W 27 13 6 11 54.5 0 2 0.0 1 2 50.0 1 4 5 2 1 0 1 3 -13
+p644
+aVChris Gatling CLE 12/12/2000 CLE vs. DAL W 14 6 3 8 37.5 0 1 0.0 0 0 - 0 5 5 0 0 0 1 4 -12
+p645
+aVZydrunas Ilgauskas CLE 12/12/2000 CLE vs. DAL W 35 24 10 17 58.8 0 0 - 4 7 57.1 7 5 12 0 0 3 3 3 15
+p646
+aVRobert Traylor CLE 12/12/2000 CLE vs. DAL W 12 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 1 0 4 3 -11
+p647
+aVCedric Henderson CLE 12/12/2000 CLE vs. DAL W 17 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 1 2 0 0 0 -10
+p648
+aVMichael Hawkins CLE 12/12/2000 CLE vs. DAL W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 1 -3
+p649
+aVClar. Weatherspoon CLE 12/12/2000 CLE vs. DAL W 34 6 2 5 40.0 0 0 - 2 4 50.0 7 9 16 1 0 1 1 1 16
+p650
+aVMatt Harpring CLE 12/12/2000 CLE vs. DAL W 32 13 4 12 33.3 0 1 0.0 5 6 83.3 3 7 10 3 0 3 3 2 12
+p651
+aVTrajan Langdon CLE 12/12/2000 CLE vs. DAL W 16 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -5
+p652
+aVLamond Murray CLE 12/12/2000 CLE vs. DAL W 31 12 5 12 41.7 1 2 50.0 1 1 100.0 0 2 2 2 1 1 1 4 15
+p653
+aVAndre Miller CLE 12/12/2000 CLE vs. DAL W 39 22 7 15 46.7 0 0 - 8 8 100.0 2 4 6 6 0 1 2 2 8
+p654
+aVLamond Murray CLE 12/09/2000 CLE vs. ATL W 39 18 8 18 44.4 0 3 0.0 2 3 66.7 2 2 4 1 2 0 2 1 7
+p655
+aVZydrunas Ilgauskas CLE 12/09/2000 CLE vs. ATL W 28 14 6 11 54.5 0 0 - 2 4 50.0 2 5 7 1 0 6 1 2 -2
+p656
+aVCedric Henderson CLE 12/09/2000 CLE vs. ATL W 23 15 5 5 100.0 0 0 - 5 5 100.0 0 2 2 2 1 0 2 3 3
+p657
+aVMatt Harpring CLE 12/09/2000 CLE vs. ATL W 28 15 4 9 44.4 0 1 0.0 7 9 77.8 2 5 7 2 2 1 2 1 1
+p658
+aVAndre Miller CLE 12/09/2000 CLE vs. ATL W 43 15 6 13 46.2 0 0 - 3 3 100.0 1 0 1 5 1 1 1 2 9
+p659
+aVRobert Traylor CLE 12/09/2000 CLE vs. ATL W 19 0 0 2 0.0 0 0 - 0 0 - 1 6 7 1 0 2 4 1 1
+p660
+aVChris Gatling CLE 12/09/2000 CLE vs. ATL W 19 6 2 8 25.0 0 0 - 2 2 100.0 2 6 8 2 0 0 2 4 6
+p661
+aVTrajan Langdon CLE 12/09/2000 CLE vs. ATL W 12 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 3 3
+p662
+aVClar. Weatherspoon CLE 12/09/2000 CLE vs. ATL W 31 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 4 1 1 1 2 7
+p663
+aVAndre Miller CLE 12/06/2000 CLE @ CHI W 45 20 5 13 38.5 0 3 0.0 10 11 90.9 2 5 7 14 1 1 3 2 11
+p664
+aVChris Mihm CLE 12/06/2000 CLE @ CHI W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p665
+aVTrajan Langdon CLE 12/06/2000 CLE @ CHI W 23 0 0 7 0.0 0 2 0.0 0 0 - 0 1 1 3 1 0 0 0 0
+p666
+aVCedric Henderson CLE 12/06/2000 CLE @ CHI W 34 7 3 6 50.0 0 0 - 1 2 50.0 1 0 1 3 2 1 2 3 7
+p667
+aVLamond Murray CLE 12/06/2000 CLE @ CHI W 11 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 0 1 3 1
+p668
+aVClar. Weatherspoon CLE 12/06/2000 CLE @ CHI W 35 23 10 14 71.4 0 0 - 3 3 100.0 3 5 8 0 4 2 1 3 0
+p669
+aVMatt Harpring CLE 12/06/2000 CLE @ CHI W 29 6 3 6 50.0 0 0 - 0 0 - 1 2 3 2 0 0 6 5 -3
+p670
+aVZydrunas Ilgauskas CLE 12/06/2000 CLE @ CHI W 15 6 2 3 66.7 0 0 - 2 4 50.0 0 2 2 0 1 0 3 4 -4
+p671
+aVRobert Traylor CLE 12/06/2000 CLE @ CHI W 19 9 4 7 57.1 0 0 - 1 2 50.0 4 3 7 0 0 1 1 0 9
+p672
+aVChris Gatling CLE 12/06/2000 CLE @ CHI W 24 19 9 15 60.0 1 1 100.0 0 0 - 2 3 5 0 0 1 1 5 5
+p673
+aVWesley Person CLE 12/06/2000 CLE @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p674
+aVLamond Murray CLE 12/05/2000 CLE vs. CHH W 36 9 3 12 25.0 0 1 0.0 3 4 75.0 1 5 6 1 0 0 1 0 0
+p675
+aVChris Gatling CLE 12/05/2000 CLE vs. CHH W 19 7 3 8 37.5 0 2 0.0 1 2 50.0 0 1 1 0 2 1 2 4 7
+p676
+aVZydrunas Ilgauskas CLE 12/05/2000 CLE vs. CHH W 30 11 5 13 38.5 0 0 - 1 3 33.3 4 6 10 0 0 2 2 2 -2
+p677
+aVRobert Traylor CLE 12/05/2000 CLE vs. CHH W 16 2 1 3 33.3 0 0 - 0 0 - 2 2 4 3 1 0 2 2 -3
+p678
+aVAndre Miller CLE 12/05/2000 CLE vs. CHH W 38 20 8 15 53.3 3 3 100.0 1 2 50.0 3 7 10 6 0 1 4 2 11
+p679
+aVMatt Harpring CLE 12/05/2000 CLE vs. CHH W 38 8 3 10 30.0 0 1 0.0 2 2 100.0 2 4 6 3 1 0 2 1 11
+p680
+aVBrevin Knight CLE 12/05/2000 CLE vs. CHH W 10 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -6
+p681
+aVClar. Weatherspoon CLE 12/05/2000 CLE vs. CHH W 31 6 2 8 25.0 0 0 - 2 2 100.0 0 7 7 0 2 2 0 3 8
+p682
+aVTrajan Langdon CLE 12/05/2000 CLE vs. CHH W 22 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 1 0 0 2 0 -1
+p683
+aVClar. Weatherspoon CLE 12/02/2000 CLE vs. PHI L 28 8 3 8 37.5 0 0 - 2 2 100.0 5 4 9 2 0 0 1 2 -14
+p684
+aVTrajan Langdon CLE 12/02/2000 CLE vs. PHI L 26 10 4 6 66.7 1 1 100.0 1 2 50.0 0 1 1 1 0 1 2 4 -26
+p685
+aVRobert Traylor CLE 12/02/2000 CLE vs. PHI L 10 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 -20
+p686
+aVChris Gatling CLE 12/02/2000 CLE vs. PHI L 19 13 6 11 54.5 1 2 50.0 0 2 0.0 3 4 7 1 1 1 0 1 -16
+p687
+aVMatt Harpring CLE 12/02/2000 CLE vs. PHI L 24 9 3 11 27.3 1 3 33.3 2 2 100.0 1 1 2 4 2 0 1 2 -13
+p688
+aVWesley Person CLE 12/02/2000 CLE vs. PHI L 9 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -8
+p689
+aVLamond Murray CLE 12/02/2000 CLE vs. PHI L 25 9 2 8 25.0 0 1 0.0 5 6 83.3 3 1 4 0 0 0 1 1 -18
+p690
+aVCedric Henderson CLE 12/02/2000 CLE vs. PHI L 17 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 4 0 2 3 3 -3
+p691
+aVZydrunas Ilgauskas CLE 12/02/2000 CLE vs. PHI L 19 9 4 12 33.3 0 0 - 1 1 100.0 3 2 5 0 0 0 2 2 -18
+p692
+aVAndre Miller CLE 12/02/2000 CLE vs. PHI L 43 10 5 17 29.4 0 1 0.0 0 0 - 2 4 6 5 1 0 1 2 -34
+p693
+aVChris Mihm CLE 12/02/2000 CLE vs. PHI L 21 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 0 0 2 2 2 0
+p694
+aVBrevin Knight CLE 12/01/2000 CLE @ DET L 17 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 2 0 2 2 -3
+p695
+aVWesley Person CLE 12/01/2000 CLE @ DET L 17 6 2 4 50.0 1 1 100.0 1 1 100.0 0 1 1 1 1 0 1 1 7
+p696
+aVChris Gatling CLE 12/01/2000 CLE @ DET L 16 8 4 9 44.4 0 0 - 0 0 - 1 2 3 0 0 0 3 1 -21
+p697
+aVZydrunas Ilgauskas CLE 12/01/2000 CLE @ DET L 32 17 6 14 42.9 0 1 0.0 5 5 100.0 4 4 8 2 0 1 5 4 8
+p698
+aVClar. Weatherspoon CLE 12/01/2000 CLE @ DET L 40 12 5 11 45.5 0 0 - 2 2 100.0 4 8 12 1 2 0 1 1 -9
+p699
+aVMatt Harpring CLE 12/01/2000 CLE @ DET L 37 15 6 14 42.9 0 1 0.0 3 3 100.0 3 4 7 3 1 1 2 3 -7
+p700
+aVLamond Murray CLE 12/01/2000 CLE @ DET L 36 10 5 18 27.8 0 5 0.0 0 0 - 4 4 8 3 0 0 0 2 -14
+p701
+aVAndre Miller CLE 12/01/2000 CLE @ DET L 31 16 4 11 36.4 0 0 - 8 10 80.0 0 2 2 7 0 0 3 2 -7
+p702
+aVRobert Traylor CLE 12/01/2000 CLE @ DET L 7 9 4 5 80.0 0 0 - 1 1 100.0 3 2 5 0 0 0 0 2 1
+p703
+aVTrajan Langdon CLE 12/01/2000 CLE @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -5
+p704
+aVChris Gatling CLE 11/28/2000 CLE vs. BOS L 8 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -13
+p705
+aVWesley Person CLE 11/28/2000 CLE vs. BOS L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -11
+p706
+aVAndre Miller CLE 11/28/2000 CLE vs. BOS L 43 12 5 17 29.4 0 1 0.0 2 2 100.0 2 4 6 11 0 0 7 4 -14
+p707
+aVMichael Hawkins CLE 11/28/2000 CLE vs. BOS L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 1 1 -1
+p708
+aVZydrunas Ilgauskas CLE 11/28/2000 CLE vs. BOS L 25 12 6 10 60.0 0 0 - 0 0 - 6 3 9 1 1 4 3 2 -8
+p709
+aVChris Mihm CLE 11/28/2000 CLE vs. BOS L 14 10 4 5 80.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 0 6
+p710
+aVClar. Weatherspoon CLE 11/28/2000 CLE vs. BOS L 30 11 4 8 50.0 0 0 - 3 4 75.0 0 8 8 2 1 1 1 3 -8
+p711
+aVMatt Harpring CLE 11/28/2000 CLE vs. BOS L 20 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 3 -10
+p712
+aVCedric Henderson CLE 11/28/2000 CLE vs. BOS L 11 7 3 6 50.0 1 1 100.0 0 0 - 0 4 4 0 1 0 0 0 1
+p713
+aVLamond Murray CLE 11/28/2000 CLE vs. BOS L 32 6 3 11 27.3 0 1 0.0 0 0 - 2 5 7 2 1 0 2 2 -6
+p714
+aVTrajan Langdon CLE 11/28/2000 CLE vs. BOS L 22 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 1 2 1 -4
+p715
+aVRobert Traylor CLE 11/28/2000 CLE vs. BOS L 16 6 3 6 50.0 0 1 0.0 0 0 - 2 0 2 1 1 1 0 5 -7
+p716
+aVZydrunas Ilgauskas CLE 11/25/2000 CLE @ CHH L 20 8 3 8 37.5 0 0 - 2 2 100.0 2 0 2 0 1 0 1 3 -6
+p717
+aVAndre Miller CLE 11/25/2000 CLE @ CHH L 43 17 6 12 50.0 0 0 - 5 7 71.4 1 4 5 9 2 0 5 5 2
+p718
+aVMatt Harpring CLE 11/25/2000 CLE @ CHH L 12 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 4 -4
+p719
+aVTrajan Langdon CLE 11/25/2000 CLE @ CHH L 40 7 3 8 37.5 1 4 25.0 0 0 - 1 1 2 5 0 0 1 2 -6
+p720
+aVMichael Hawkins CLE 11/25/2000 CLE @ CHH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -13
+p721
+aVChris Gatling CLE 11/25/2000 CLE @ CHH L 27 11 5 8 62.5 1 2 50.0 0 0 - 0 5 5 0 0 0 0 2 -9
+p722
+aVChris Mihm CLE 11/25/2000 CLE @ CHH L 18 10 3 5 60.0 0 0 - 4 4 100.0 2 2 4 0 1 0 3 3 3
+p723
+aVLamond Murray CLE 11/25/2000 CLE @ CHH L 41 30 10 18 55.6 3 3 100.0 7 7 100.0 2 1 3 4 1 2 1 3 -4
+p724
+aVClar. Weatherspoon CLE 11/25/2000 CLE @ CHH L 24 13 4 8 50.0 0 0 - 5 6 83.3 0 9 9 0 0 0 1 1 -1
+p725
+aVRobert Traylor CLE 11/25/2000 CLE @ CHH L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p726
+aVCedric Henderson CLE 11/25/2000 CLE @ CHH L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p727
+aVCedric Henderson CLE 11/24/2000 CLE vs. MIA W 25 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 3 0 0 1 1 17
+p728
+aVLamond Murray CLE 11/24/2000 CLE vs. MIA W 23 7 3 8 37.5 1 1 100.0 0 0 - 0 2 2 2 0 0 3 1 -12
+p729
+aVMichael Hawkins CLE 11/24/2000 CLE vs. MIA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 9
+p730
+aVClar. Weatherspoon CLE 11/24/2000 CLE vs. MIA W 36 16 4 9 44.4 0 0 - 8 10 80.0 4 8 12 1 2 1 1 3 -3
+p731
+aVAndre Miller CLE 11/24/2000 CLE vs. MIA W 42 10 2 10 20.0 0 0 - 6 7 85.7 1 5 6 8 2 0 4 2 -2
+p732
+aVMatt Harpring CLE 11/24/2000 CLE vs. MIA W 35 12 6 12 50.0 0 0 - 0 0 - 1 2 3 3 2 0 3 3 1
+p733
+aVZydrunas Ilgauskas CLE 11/24/2000 CLE vs. MIA W 26 14 7 11 63.6 0 0 - 0 0 - 2 5 7 1 2 6 1 2 7
+p734
+aVRobert Traylor CLE 11/24/2000 CLE vs. MIA W 12 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 1 1 1 5 6
+p735
+aVTrajan Langdon CLE 11/24/2000 CLE vs. MIA W 13 6 1 2 50.0 1 1 100.0 3 3 100.0 0 4 4 2 0 0 0 4 6
+p736
+aVChris Gatling CLE 11/24/2000 CLE vs. MIA W 22 15 6 11 54.5 0 2 0.0 3 5 60.0 3 3 6 0 2 1 3 2 -4
+p737
+aVClar. Weatherspoon CLE 11/22/2000 CLE @ MIA W 22 5 1 1 100.0 0 0 - 3 4 75.0 1 6 7 1 1 2 1 2 8
+p738
+aVTrajan Langdon CLE 11/22/2000 CLE @ MIA W 30 12 4 10 40.0 2 3 66.7 2 2 100.0 1 2 3 3 0 0 1 1 18
+p739
+aVChris Mihm CLE 11/22/2000 CLE @ MIA W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p740
+aVMatt Harpring CLE 11/22/2000 CLE @ MIA W 22 11 5 6 83.3 1 1 100.0 0 0 - 2 1 3 0 0 0 2 1 13
+p741
+aVLamond Murray CLE 11/22/2000 CLE @ MIA W 20 2 0 6 0.0 0 0 - 2 4 50.0 0 6 6 1 1 0 4 2 2
+p742
+aVRobert Traylor CLE 11/22/2000 CLE @ MIA W 28 11 5 10 50.0 0 0 - 1 4 25.0 0 3 3 1 3 3 0 2 5
+p743
+aVCedric Henderson CLE 11/22/2000 CLE @ MIA W 24 9 4 7 57.1 0 1 0.0 1 3 33.3 0 0 0 5 2 0 0 0 5
+p744
+aVMichael Hawkins CLE 11/22/2000 CLE @ MIA W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 7
+p745
+aVZydrunas Ilgauskas CLE 11/22/2000 CLE @ MIA W 26 10 5 9 55.6 0 1 0.0 0 0 - 2 10 12 0 0 2 3 3 15
+p746
+aVChris Gatling CLE 11/22/2000 CLE @ MIA W 18 6 2 7 28.6 2 3 66.7 0 0 - 1 7 8 0 2 0 1 4 8
+p747
+aVAndre Miller CLE 11/22/2000 CLE @ MIA W 38 13 5 8 62.5 0 0 - 3 3 100.0 0 2 2 6 1 0 4 3 12
+p748
+aVTrajan Langdon CLE 11/21/2000 CLE vs. DET W 35 31 11 13 84.6 6 6 100.0 3 3 100.0 0 4 4 4 2 0 1 4 16
+p749
+aVCedric Henderson CLE 11/21/2000 CLE vs. DET W 18 8 4 5 80.0 0 0 - 0 0 - 0 2 2 4 0 0 1 3 15
+p750
+aVLamond Murray CLE 11/21/2000 CLE vs. DET W 29 16 7 14 50.0 2 2 100.0 0 0 - 3 2 5 1 1 0 2 3 14
+p751
+aVChris Mihm CLE 11/21/2000 CLE vs. DET W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p752
+aVZydrunas Ilgauskas CLE 11/21/2000 CLE vs. DET W 20 6 2 4 50.0 0 0 - 2 4 50.0 4 3 7 3 0 2 2 2 9
+p753
+aVClar. Weatherspoon CLE 11/21/2000 CLE vs. DET W 24 10 5 8 62.5 0 0 - 0 0 - 0 6 6 0 1 1 2 0 4
+p754
+aVChris Gatling CLE 11/21/2000 CLE vs. DET W 23 8 3 11 27.3 1 3 33.3 1 2 50.0 1 8 9 2 0 3 1 1 14
+p755
+aVAndre Miller CLE 11/21/2000 CLE vs. DET W 44 13 6 11 54.5 0 1 0.0 1 2 50.0 0 4 4 17 2 1 3 4 17
+p756
+aVMatt Harpring CLE 11/21/2000 CLE vs. DET W 21 8 4 7 57.1 0 0 - 0 0 - 2 2 4 4 0 0 3 4 -7
+p757
+aVRobert Traylor CLE 11/21/2000 CLE vs. DET W 24 15 6 9 66.7 0 0 - 3 4 75.0 3 2 5 3 0 4 2 3 17
+p758
+aVZydrunas Ilgauskas CLE 11/17/2000 CLE @ MIL L 32 8 4 8 50.0 0 0 - 0 0 - 1 7 8 1 1 1 2 4 -9
+p759
+aVLamond Murray CLE 11/17/2000 CLE @ MIL L 26 19 8 14 57.1 1 1 100.0 2 4 50.0 1 1 2 0 1 0 3 5 0
+p760
+aVAndre Miller CLE 11/17/2000 CLE @ MIL L 33 15 6 16 37.5 1 2 50.0 2 4 50.0 0 3 3 7 1 0 6 3 9
+p761
+aVClar. Weatherspoon CLE 11/17/2000 CLE @ MIL L 37 8 3 4 75.0 0 0 - 2 2 100.0 3 15 18 5 0 1 1 2 -3
+p762
+aVCedric Henderson CLE 11/17/2000 CLE @ MIL L 16 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 0 1 1 -7
+p763
+aVMatt Harpring CLE 11/17/2000 CLE @ MIL L 35 6 3 10 30.0 0 1 0.0 0 0 - 1 3 4 2 2 0 2 2 -15
+p764
+aVTrajan Langdon CLE 11/17/2000 CLE @ MIL L 23 11 2 6 33.3 1 3 33.3 6 6 100.0 0 2 2 3 1 0 1 1 -2
+p765
+aVBimbo Coles CLE 11/17/2000 CLE @ MIL L 15 0 0 4 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -22
+p766
+aVChris Mihm CLE 11/17/2000 CLE @ MIL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p767
+aVRobert Traylor CLE 11/17/2000 CLE @ MIL L 21 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 1 5 4 -18
+p768
+aVRobert Traylor CLE 11/15/2000 CLE @ PHI L 22 17 7 9 77.8 0 0 - 3 6 50.0 4 2 6 0 0 3 2 5 -3
+p769
+aVCedric Henderson CLE 11/15/2000 CLE @ PHI L 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -8
+p770
+aVTrajan Langdon CLE 11/15/2000 CLE @ PHI L 18 10 4 8 50.0 2 5 40.0 0 0 - 0 0 0 1 0 0 1 3 2
+p771
+aVZydrunas Ilgauskas CLE 11/15/2000 CLE @ PHI L 31 16 6 11 54.5 0 0 - 4 4 100.0 7 6 13 2 3 0 3 5 -9
+p772
+aVChris Mihm CLE 11/15/2000 CLE @ PHI L 7 3 1 2 50.0 0 0 - 1 4 25.0 0 1 1 0 0 0 0 3 -3
+p773
+aVClar. Weatherspoon CLE 11/15/2000 CLE @ PHI L 35 24 9 15 60.0 0 0 - 6 7 85.7 3 6 9 1 2 0 1 2 -1
+p774
+aVAndre Miller CLE 11/15/2000 CLE @ PHI L 28 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 10 2 0 6 5 -5
+p775
+aVBimbo Coles CLE 11/15/2000 CLE @ PHI L 20 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 3 2 0 2 3 -4
+p776
+aVLamond Murray CLE 11/15/2000 CLE @ PHI L 33 10 5 10 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -9
+p777
+aVMatt Harpring CLE 11/15/2000 CLE @ PHI L 31 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 2 0 0 3 4 -5
+p778
+aVLamond Murray CLE 11/14/2000 CLE vs. GSW W 40 24 8 13 61.5 0 2 0.0 8 9 88.9 0 9 9 4 2 0 3 2 17
+p779
+aVRobert Traylor CLE 11/14/2000 CLE vs. GSW W 26 6 3 7 42.9 0 0 - 0 0 - 0 4 4 3 1 2 1 4 -1
+p780
+aVMatt Harpring CLE 11/14/2000 CLE vs. GSW W 25 8 4 7 57.1 0 1 0.0 0 1 0.0 2 6 8 2 0 0 3 4 2
+p781
+aVAndre Miller CLE 11/14/2000 CLE vs. GSW W 28 19 7 11 63.6 0 1 0.0 5 6 83.3 3 6 9 9 2 1 1 4 22
+p782
+aVClar. Weatherspoon CLE 11/14/2000 CLE vs. GSW W 24 9 3 6 50.0 0 0 - 3 4 75.0 3 6 9 3 1 1 0 2 9
+p783
+aVTrajan Langdon CLE 11/14/2000 CLE vs. GSW W 18 7 3 6 50.0 1 3 33.3 0 0 - 1 0 1 0 0 0 3 1 11
+p784
+aVChris Mihm CLE 11/14/2000 CLE vs. GSW W 19 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 1 2 4 7
+p785
+aVZydrunas Ilgauskas CLE 11/14/2000 CLE vs. GSW W 27 12 5 13 38.5 0 0 - 2 4 50.0 1 5 6 2 1 0 3 4 1
+p786
+aVBimbo Coles CLE 11/14/2000 CLE vs. GSW W 20 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 2 0 0 3 3 -8
+p787
+aVCedric Henderson CLE 11/14/2000 CLE vs. GSW W 13 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 2 -10
+p788
+aVChris Mihm CLE 11/11/2000 CLE vs. WAS W 5 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 9
+p789
+aVLamond Murray CLE 11/11/2000 CLE vs. WAS W 17 8 4 11 36.4 0 0 - 0 0 - 0 1 1 3 2 0 3 4 1
+p790
+aVChris Gatling CLE 11/11/2000 CLE vs. WAS W 18 9 2 6 33.3 1 3 33.3 4 4 100.0 1 3 4 0 0 0 3 3 -3
+p791
+aVMatt Harpring CLE 11/11/2000 CLE vs. WAS W 30 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 4 4 0 0 4 22
+p792
+aVCedric Henderson CLE 11/11/2000 CLE vs. WAS W 21 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 1 0 1 1 3 -4
+p793
+aVAndre Miller CLE 11/11/2000 CLE vs. WAS W 30 9 3 11 27.3 1 2 50.0 2 2 100.0 1 7 8 3 1 0 5 1 16
+p794
+aVBimbo Coles CLE 11/11/2000 CLE vs. WAS W 20 7 2 6 33.3 0 0 - 3 4 75.0 1 4 5 4 0 0 0 0 -4
+p795
+aVRobert Traylor CLE 11/11/2000 CLE vs. WAS W 22 10 5 5 100.0 0 0 - 0 4 0.0 2 3 5 0 2 2 2 5 10
+p796
+aVClar. Weatherspoon CLE 11/11/2000 CLE vs. WAS W 28 6 3 4 75.0 0 0 - 0 0 - 2 6 8 0 0 1 1 2 -10
+p797
+aVTrajan Langdon CLE 11/11/2000 CLE vs. WAS W 20 7 2 5 40.0 1 2 50.0 2 2 100.0 0 2 2 3 2 0 0 4 18
+p798
+aVZydrunas Ilgauskas CLE 11/11/2000 CLE vs. WAS W 27 21 6 9 66.7 0 0 - 9 12 75.0 2 2 4 1 0 1 2 4 10
+p799
+aVAndre Miller CLE 11/10/2000 CLE @ TOR L 28 13 5 11 45.5 0 2 0.0 3 3 100.0 4 2 6 7 2 0 2 1 -16
+p800
+aVBimbo Coles CLE 11/10/2000 CLE @ TOR L 20 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 1 0 2 1 -11
+p801
+aVLamond Murray CLE 11/10/2000 CLE @ TOR L 18 2 1 9 11.1 0 0 - 0 0 - 1 4 5 2 1 0 1 0 -10
+p802
+aVChris Gatling CLE 11/10/2000 CLE @ TOR L 26 17 7 16 43.8 0 2 0.0 3 3 100.0 1 3 4 1 2 0 1 1 -7
+p803
+aVZydrunas Ilgauskas CLE 11/10/2000 CLE @ TOR L 15 4 2 6 33.3 0 0 - 0 1 0.0 2 2 4 0 0 0 1 4 -14
+p804
+aVClar. Weatherspoon CLE 11/10/2000 CLE @ TOR L 22 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 4 1 0 -12
+p805
+aVCedric Henderson CLE 11/10/2000 CLE @ TOR L 26 10 5 10 50.0 0 1 0.0 0 1 0.0 0 2 2 0 1 2 2 2 -13
+p806
+aVTrajan Langdon CLE 11/10/2000 CLE @ TOR L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 1 1 3
+p807
+aVMatt Harpring CLE 11/10/2000 CLE @ TOR L 28 14 7 12 58.3 0 1 0.0 0 0 - 0 2 2 4 1 0 0 3 -21
+p808
+aVChris Mihm CLE 11/10/2000 CLE @ TOR L 9 10 5 5 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -7
+p809
+aVWesley Person CLE 11/10/2000 CLE @ TOR L 12 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -13
+p810
+aVRobert Traylor CLE 11/10/2000 CLE @ TOR L 23 7 3 5 60.0 0 0 - 1 3 33.3 2 1 3 0 0 1 0 3 -14
+p811
+aVCedric Henderson CLE 11/08/2000 CLE @ NYK W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 3 1 0 0 1 3
+p812
+aVWesley Person CLE 11/08/2000 CLE @ NYK W 23 12 5 6 83.3 2 2 100.0 0 0 - 0 3 3 5 0 0 2 2 8
+p813
+aVClar. Weatherspoon CLE 11/08/2000 CLE @ NYK W 29 3 1 5 20.0 0 0 - 1 2 50.0 5 4 9 2 2 0 1 1 -6
+p814
+aVChris Gatling CLE 11/08/2000 CLE @ NYK W 23 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 3 2 0 3 2 7
+p815
+aVMatt Harpring CLE 11/08/2000 CLE @ NYK W 38 16 7 10 70.0 1 2 50.0 1 2 50.0 0 6 6 2 1 0 3 3 -3
+p816
+aVLamond Murray CLE 11/08/2000 CLE @ NYK W 25 13 5 9 55.6 2 2 100.0 1 4 25.0 1 0 1 1 1 1 2 2 -4
+p817
+aVZydrunas Ilgauskas CLE 11/08/2000 CLE @ NYK W 24 7 2 7 28.6 0 0 - 3 6 50.0 2 1 3 1 1 0 0 5 -2
+p818
+aVRobert Traylor CLE 11/08/2000 CLE @ NYK W 19 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 2 1 3 8
+p819
+aVBimbo Coles CLE 11/08/2000 CLE @ NYK W 27 17 7 11 63.6 0 0 - 3 3 100.0 0 1 1 3 2 0 1 3 12
+p820
+aVAndre Miller CLE 11/08/2000 CLE @ NYK W 22 16 7 12 58.3 0 0 - 2 4 50.0 0 2 2 5 2 0 4 1 -13
+p821
+aVBimbo Coles CLE 11/04/2000 CLE vs. BOS W 22 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 6 3 0 1 2 -2
+p822
+aVZydrunas Ilgauskas CLE 11/04/2000 CLE vs. BOS W 18 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 0 0 1 3 3 -4
+p823
+aVRobert Traylor CLE 11/04/2000 CLE vs. BOS W 22 8 2 8 25.0 0 0 - 4 5 80.0 3 2 5 1 2 4 0 4 6
+p824
+aVLamond Murray CLE 11/04/2000 CLE vs. BOS W 32 3 0 8 0.0 0 3 0.0 3 4 75.0 1 7 8 1 0 0 2 3 4
+p825
+aVChris Mihm CLE 11/04/2000 CLE vs. BOS W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 2 -2
+p826
+aVClar. Weatherspoon CLE 11/04/2000 CLE vs. BOS W 31 7 3 4 75.0 0 0 - 1 2 50.0 1 6 7 3 1 3 3 4 -1
+p827
+aVWesley Person CLE 11/04/2000 CLE vs. BOS W 27 8 3 7 42.9 0 2 0.0 2 2 100.0 1 3 4 2 0 0 2 0 7
+p828
+aVMatt Harpring CLE 11/04/2000 CLE vs. BOS W 27 14 5 8 62.5 0 1 0.0 4 4 100.0 1 3 4 0 1 0 2 3 -18
+p829
+aVChris Gatling CLE 11/04/2000 CLE vs. BOS W 20 16 7 10 70.0 1 1 100.0 1 4 25.0 2 2 4 1 1 2 4 5 4
+p830
+aVAndre Miller CLE 11/04/2000 CLE vs. BOS W 26 15 3 7 42.9 0 1 0.0 9 12 75.0 1 3 4 7 1 1 6 5 5
+p831
+aVCedric Henderson CLE 11/04/2000 CLE vs. BOS W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 11
+p832
+aVAndre Miller CLE 11/01/2000 CLE vs. SAC W 34 17 4 9 44.4 0 1 0.0 9 10 90.0 1 0 1 8 1 0 5 4 1
+p833
+aVRobert Traylor CLE 11/01/2000 CLE vs. SAC W 19 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 1 0 2 2 5 3
+p834
+aVBimbo Coles CLE 11/01/2000 CLE vs. SAC W 24 6 3 6 50.0 0 0 - 0 0 - 0 1 1 8 0 0 1 0 1
+p835
+aVMatt Harpring CLE 11/01/2000 CLE vs. SAC W 49 7 3 9 33.3 0 0 - 1 2 50.0 3 4 7 5 1 1 2 2 0
+p836
+aVChris Mihm CLE 11/01/2000 CLE vs. SAC W 15 8 2 6 33.3 0 0 - 4 4 100.0 1 3 4 0 1 0 2 3 2
+p837
+aVClar. Weatherspoon CLE 11/01/2000 CLE vs. SAC W 39 14 5 10 50.0 0 0 - 4 5 80.0 4 7 11 2 1 1 0 5 -3
+p838
+aVLamond Murray CLE 11/01/2000 CLE vs. SAC W 44 18 8 15 53.3 0 2 0.0 2 4 50.0 1 4 5 2 2 0 1 1 -1
+p839
+aVZydrunas Ilgauskas CLE 11/01/2000 CLE vs. SAC W 27 10 5 10 50.0 0 0 - 0 0 - 1 7 8 0 2 3 3 5 0
+p840
+aVChris Gatling CLE 11/01/2000 CLE vs. SAC W 15 11 5 9 55.6 0 0 - 1 2 50.0 2 4 6 1 0 1 4 4 0
+p841
+aVWesley Person CLE 11/01/2000 CLE vs. SAC W 23 6 3 7 42.9 0 1 0.0 0 0 - 2 3 5 0 0 1 1 3 7
+p842
+aVWesley Person CLE 10/31/2000 CLE @ NJN W 22 6 3 10 30.0 0 3 0.0 0 0 - 0 6 6 1 1 0 0 2 -6
+p843
+aVZydrunas Ilgauskas CLE 10/31/2000 CLE @ NJN W 12 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 1 2 5 2
+p844
+aVRobert Traylor CLE 10/31/2000 CLE @ NJN W 17 5 1 4 25.0 0 0 - 3 4 75.0 2 5 7 1 0 2 3 2 -2
+p845
+aVClar. Weatherspoon CLE 10/31/2000 CLE @ NJN W 33 8 1 4 25.0 0 0 - 6 6 100.0 3 11 14 0 3 1 1 3 13
+p846
+aVCedric Henderson CLE 10/31/2000 CLE @ NJN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p847
+aVAndre Miller CLE 10/31/2000 CLE @ NJN W 27 8 3 5 60.0 0 0 - 2 2 100.0 0 4 4 6 0 0 6 3 4
+p848
+aVBimbo Coles CLE 10/31/2000 CLE @ NJN W 23 15 5 8 62.5 1 2 50.0 4 6 66.7 0 1 1 2 0 0 2 4 -1
+p849
+aVLamond Murray CLE 10/31/2000 CLE @ NJN W 32 17 8 17 47.1 1 1 100.0 0 3 0.0 1 1 2 2 1 0 1 2 10
+p850
+aVChris Mihm CLE 10/31/2000 CLE @ NJN W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -1
+p851
+aVChris Gatling CLE 10/31/2000 CLE @ NJN W 28 11 4 11 36.4 0 0 - 3 9 33.3 3 9 12 0 0 0 2 2 -3
+p852
+aVMatt Harpring CLE 10/31/2000 CLE @ NJN W 37 16 7 13 53.8 0 1 0.0 2 2 100.0 1 2 3 3 0 3 1 3 12
+p853
+a.

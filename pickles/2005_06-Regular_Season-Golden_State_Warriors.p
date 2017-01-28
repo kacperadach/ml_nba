@@ -1,0 +1,1674 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAndris Biedrins GSW 04/19/2006 GSW @ UTA L 24 7 3 5 60.0 0 0 - 1 5 20.0 7 4 11 0 1 1 0 3 -2
+p2
+aVDerek Fisher GSW 04/19/2006 GSW @ UTA L 39 20 7 18 38.9 3 8 37.5 3 3 100.0 1 2 3 2 1 0 2 2 12
+p3
+aVCalbert Cheaney GSW 04/19/2006 GSW @ UTA L 22 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 2 1 1 1 3 -8
+p4
+aVWill Bynum GSW 04/19/2006 GSW @ UTA L 14 5 2 3 66.7 0 1 0.0 1 1 100.0 0 0 0 1 0 0 1 1 -17
+p5
+aVAdonal Foyle GSW 04/19/2006 GSW @ UTA L 24 4 2 6 33.3 0 0 - 0 2 0.0 4 2 6 2 0 3 1 3 -14
+p6
+aVMike Dunleavy GSW 04/19/2006 GSW @ UTA L 38 15 3 12 25.0 2 5 40.0 7 8 87.5 2 1 3 3 1 0 1 4 13
+p7
+aVMonta Ellis GSW 04/19/2006 GSW @ UTA L 44 27 11 25 44.0 1 6 16.7 4 5 80.0 2 6 8 6 3 0 4 3 -2
+p8
+aVIke Diogu GSW 04/19/2006 GSW @ UTA L 35 20 6 16 37.5 0 0 - 8 9 88.9 5 6 11 0 1 0 2 6 3
+p9
+aVAdonal Foyle GSW 04/17/2006 GSW vs. POR W 22 6 3 8 37.5 0 0 - 0 0 - 3 3 6 1 1 0 1 3 11
+p10
+aVDerek Fisher GSW 04/17/2006 GSW vs. POR W 26 9 4 9 44.4 1 2 50.0 0 0 - 1 1 2 6 0 0 3 1 17
+p11
+aVTroy Murphy GSW 04/17/2006 GSW vs. POR W 26 10 5 6 83.3 0 0 - 0 0 - 5 6 11 3 0 0 0 1 12
+p12
+aVMonta Ellis GSW 04/17/2006 GSW vs. POR W 28 8 3 7 42.9 1 2 50.0 1 2 50.0 0 5 5 6 2 0 2 2 6
+p13
+aVWill Bynum GSW 04/17/2006 GSW vs. POR W 19 8 3 7 42.9 0 0 - 2 4 50.0 0 0 0 1 1 0 2 2 -1
+p14
+aVCalbert Cheaney GSW 04/17/2006 GSW vs. POR W 17 4 2 9 22.2 0 1 0.0 0 0 - 1 0 1 2 0 0 0 1 -4
+p15
+aVMike Dunleavy GSW 04/17/2006 GSW vs. POR W 34 20 7 14 50.0 2 7 28.6 4 4 100.0 0 2 2 3 3 0 1 1 11
+p16
+aVJason Richardson GSW 04/17/2006 GSW vs. POR W 23 3 1 6 16.7 0 3 0.0 1 2 50.0 1 3 4 1 2 0 2 1 6
+p17
+aVAndris Biedrins GSW 04/17/2006 GSW vs. POR W 25 9 4 8 50.0 0 0 - 1 2 50.0 4 7 11 2 0 1 3 2 7
+p18
+aVIke Diogu GSW 04/17/2006 GSW vs. POR W 20 16 5 8 62.5 0 0 - 6 7 85.7 2 3 5 1 1 1 2 2 5
+p19
+aVMonta Ellis GSW 04/15/2006 GSW @ POR W 45 11 3 16 18.8 0 5 0.0 5 6 83.3 1 4 5 4 1 0 2 1 5
+p20
+aVCalbert Cheaney GSW 04/15/2006 GSW @ POR W 18 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 1 2 -6
+p21
+aVDerek Fisher GSW 04/15/2006 GSW @ POR W 38 12 2 7 28.6 2 4 50.0 6 6 100.0 0 1 1 1 3 0 2 3 13
+p22
+aVAdonal Foyle GSW 04/15/2006 GSW @ POR W 20 4 2 6 33.3 0 0 - 0 0 - 4 4 8 0 1 0 2 2 4
+p23
+aVZarko Cabarkapa GSW 04/15/2006 GSW @ POR W 4 0 0 5 0.0 0 0 - 0 2 0.0 3 1 4 0 0 0 0 0 -10
+p24
+aVMike Dunleavy GSW 04/15/2006 GSW @ POR W 41 12 5 16 31.3 1 7 14.3 1 2 50.0 0 7 7 5 0 0 0 3 3
+p25
+aVWill Bynum GSW 04/15/2006 GSW @ POR W 21 14 5 7 71.4 0 1 0.0 4 6 66.7 1 3 4 2 1 0 1 0 -3
+p26
+aVIke Diogu GSW 04/15/2006 GSW @ POR W 32 15 4 7 57.1 0 0 - 7 8 87.5 0 8 8 0 2 0 2 3 18
+p27
+aVAndris Biedrins GSW 04/15/2006 GSW @ POR W 21 14 7 11 63.6 0 0 - 0 3 0.0 7 3 10 0 0 0 0 3 1
+p28
+aVCalbert Cheaney GSW 04/14/2006 GSW vs. PHX W 16 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -13
+p29
+aVMike Dunleavy GSW 04/14/2006 GSW vs. PHX W 35 18 6 14 42.9 2 6 33.3 4 4 100.0 0 4 4 1 0 1 1 1 17
+p30
+aVWill Bynum GSW 04/14/2006 GSW vs. PHX W 15 6 2 5 40.0 1 2 50.0 1 2 50.0 1 0 1 1 1 0 2 0 -5
+p31
+aVMonta Ellis GSW 04/14/2006 GSW vs. PHX W 35 12 5 10 50.0 2 3 66.7 0 0 - 0 2 2 3 0 0 2 2 18
+p32
+aVJason Richardson GSW 04/14/2006 GSW vs. PHX W 42 27 11 24 45.8 2 8 25.0 3 4 75.0 1 8 9 5 2 0 0 2 10
+p33
+aVAndris Biedrins GSW 04/14/2006 GSW vs. PHX W 13 0 0 3 0.0 0 0 - 0 0 - 0 5 5 0 0 0 0 1 4
+p34
+aVDerek Fisher GSW 04/14/2006 GSW vs. PHX W 36 19 7 12 58.3 1 2 50.0 4 5 80.0 0 3 3 7 5 2 3 2 14
+p35
+aVIke Diogu GSW 04/14/2006 GSW vs. PHX W 29 10 4 9 44.4 0 0 - 2 2 100.0 4 6 10 0 2 4 2 4 4
+p36
+aVZarko Cabarkapa GSW 04/14/2006 GSW vs. PHX W 18 12 5 8 62.5 0 1 0.0 2 2 100.0 1 2 3 1 1 0 0 2 -9
+p37
+aVWill Bynum GSW 04/12/2006 GSW vs. DAL W 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 1 0 0 0 9
+p38
+aVMickael Pietrus GSW 04/12/2006 GSW vs. DAL W 8 3 1 7 14.3 1 3 33.3 0 0 - 1 2 3 1 1 0 0 1 -14
+p39
+aVAdonal Foyle GSW 04/12/2006 GSW vs. DAL W 14 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 1 0 1 3
+p40
+aVTroy Murphy GSW 04/12/2006 GSW vs. DAL W 28 16 7 10 70.0 1 2 50.0 1 2 50.0 2 4 6 3 0 0 1 2 -8
+p41
+aVIke Diogu GSW 04/12/2006 GSW vs. DAL W 23 22 5 7 71.4 0 0 - 12 13 92.3 2 7 9 0 0 2 0 3 17
+p42
+aVJason Richardson GSW 04/12/2006 GSW vs. DAL W 34 25 7 15 46.7 1 4 25.0 10 12 83.3 2 3 5 1 2 0 6 3 23
+p43
+aVDerek Fisher GSW 04/12/2006 GSW vs. DAL W 37 11 4 8 50.0 0 1 0.0 3 4 75.0 0 0 0 9 2 0 4 4 2
+p44
+aVMike Dunleavy GSW 04/12/2006 GSW vs. DAL W 36 9 3 9 33.3 0 1 0.0 3 4 75.0 1 6 7 2 0 2 2 3 10
+p45
+aVMonta Ellis GSW 04/12/2006 GSW vs. DAL W 28 17 6 9 66.7 2 3 66.7 3 4 75.0 1 2 3 4 1 1 2 2 14
+p46
+aVAndris Biedrins GSW 04/12/2006 GSW vs. DAL W 20 7 2 4 50.0 0 0 - 3 4 75.0 3 2 5 0 0 1 1 3 4
+p47
+aVMonta Ellis GSW 04/11/2006 GSW @ LAL L 28 11 4 9 44.4 1 2 50.0 2 2 100.0 0 5 5 2 2 0 1 0 -6
+p48
+aVZarko Cabarkapa GSW 04/11/2006 GSW @ LAL L 8 3 1 3 33.3 0 1 0.0 1 2 50.0 0 3 3 2 1 2 0 2 13
+p49
+aVDerek Fisher GSW 04/11/2006 GSW @ LAL L 32 18 5 15 33.3 3 6 50.0 5 6 83.3 0 1 1 5 1 0 1 1 -9
+p50
+aVAndris Biedrins GSW 04/11/2006 GSW @ LAL L 14 0 0 2 0.0 0 0 - 0 0 - 3 3 6 3 1 1 0 4 -9
+p51
+aVMike Dunleavy GSW 04/11/2006 GSW @ LAL L 27 12 4 9 44.4 3 5 60.0 1 3 33.3 1 5 6 2 0 0 3 1 -14
+p52
+aVIke Diogu GSW 04/11/2006 GSW @ LAL L 19 10 4 5 80.0 0 0 - 2 2 100.0 2 4 6 0 0 0 1 3 1
+p53
+aVWill Bynum GSW 04/11/2006 GSW @ LAL L 16 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 1 -2
+p54
+aVAdonal Foyle GSW 04/11/2006 GSW @ LAL L 22 9 4 5 80.0 0 0 - 1 2 50.0 3 0 3 1 2 2 0 4 -9
+p55
+aVTroy Murphy GSW 04/11/2006 GSW @ LAL L 23 2 0 3 0.0 0 0 - 2 2 100.0 2 8 10 1 1 0 1 3 -6
+p56
+aVMickael Pietrus GSW 04/11/2006 GSW @ LAL L 22 7 2 8 25.0 0 2 0.0 3 4 75.0 2 2 4 0 1 0 2 4 1
+p57
+aVJason Richardson GSW 04/11/2006 GSW @ LAL L 29 20 7 17 41.2 2 5 40.0 4 8 50.0 1 1 2 0 1 0 4 0 -15
+p58
+aVWill Bynum GSW 04/08/2006 GSW @ DEN L 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -3
+p59
+aVIke Diogu GSW 04/08/2006 GSW @ DEN L 22 19 8 11 72.7 0 0 - 3 3 100.0 2 2 4 0 0 1 5 6 3
+p60
+aVMike Dunleavy GSW 04/08/2006 GSW @ DEN L 34 18 5 15 33.3 2 3 66.7 6 6 100.0 2 8 10 3 0 0 2 4 -1
+p61
+aVZarko Cabarkapa GSW 04/08/2006 GSW @ DEN L 7 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 0
+p62
+aVTroy Murphy GSW 04/08/2006 GSW @ DEN L 40 8 3 8 37.5 0 1 0.0 2 3 66.7 4 15 19 1 1 0 2 4 -3
+p63
+aVMickael Pietrus GSW 04/08/2006 GSW @ DEN L 21 6 3 9 33.3 0 3 0.0 0 1 0.0 1 0 1 1 0 0 0 1 -10
+p64
+aVAdonal Foyle GSW 04/08/2006 GSW @ DEN L 26 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 0 1 0 1 1 -6
+p65
+aVCalbert Cheaney GSW 04/08/2006 GSW @ DEN L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p66
+aVDerek Fisher GSW 04/08/2006 GSW @ DEN L 39 19 6 17 35.3 1 4 25.0 6 7 85.7 0 1 1 9 2 0 5 4 3
+p67
+aVMonta Ellis GSW 04/08/2006 GSW @ DEN L 30 13 5 14 35.7 2 4 50.0 1 2 50.0 1 4 5 5 1 1 0 1 9
+p68
+aVZarko Cabarkapa GSW 04/07/2006 GSW vs. HOU L 16 8 2 6 33.3 1 2 50.0 3 4 75.0 3 2 5 0 0 1 1 4 -11
+p69
+aVAdonal Foyle GSW 04/07/2006 GSW vs. HOU L 26 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 1 3 3 0 5 15
+p70
+aVMike Dunleavy GSW 04/07/2006 GSW vs. HOU L 35 9 4 16 25.0 1 4 25.0 0 0 - 0 6 6 9 0 0 1 2 3
+p71
+aVJason Richardson GSW 04/07/2006 GSW vs. HOU L 37 29 10 18 55.6 4 8 50.0 5 6 83.3 0 5 5 4 0 0 5 3 -2
+p72
+aVMonta Ellis GSW 04/07/2006 GSW vs. HOU L 16 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 4 0 0 0 0 -13
+p73
+aVTroy Murphy GSW 04/07/2006 GSW vs. HOU L 37 12 4 10 40.0 1 1 100.0 3 3 100.0 1 11 12 0 1 2 1 2 -6
+p74
+aVIke Diogu GSW 04/07/2006 GSW vs. HOU L 17 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 2 -12
+p75
+aVMickael Pietrus GSW 04/07/2006 GSW vs. HOU L 17 4 1 3 33.3 1 2 50.0 1 2 50.0 2 1 3 0 0 0 1 1 2
+p76
+aVDerek Fisher GSW 04/07/2006 GSW vs. HOU L 39 17 5 10 50.0 1 3 33.3 6 7 85.7 0 2 2 5 2 0 3 1 -11
+p77
+aVZarko Cabarkapa GSW 04/05/2006 GSW @ NOK L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p78
+aVMike Dunleavy GSW 04/05/2006 GSW @ NOK L 42 19 7 14 50.0 2 5 40.0 3 4 75.0 0 6 6 5 1 0 1 2 -7
+p79
+aVDerek Fisher GSW 04/05/2006 GSW @ NOK L 37 22 7 15 46.7 1 3 33.3 7 7 100.0 1 2 3 2 0 0 3 5 -6
+p80
+aVTroy Murphy GSW 04/05/2006 GSW @ NOK L 33 10 4 7 57.1 0 1 0.0 2 2 100.0 1 6 7 1 0 0 3 4 -3
+p81
+aVJason Richardson GSW 04/05/2006 GSW @ NOK L 45 24 8 21 38.1 3 9 33.3 5 7 71.4 1 5 6 8 0 0 1 5 -2
+p82
+aVMickael Pietrus GSW 04/05/2006 GSW @ NOK L 27 6 2 8 25.0 0 3 0.0 2 2 100.0 2 3 5 3 1 0 1 2 -6
+p83
+aVAdonal Foyle GSW 04/05/2006 GSW @ NOK L 37 6 3 4 75.0 0 0 - 0 0 - 1 6 7 0 0 5 2 2 -1
+p84
+aVMonta Ellis GSW 04/05/2006 GSW @ NOK L 24 11 5 6 83.3 1 1 100.0 0 0 - 1 4 5 3 2 1 4 5 6
+p85
+aVIke Diogu GSW 04/05/2006 GSW @ NOK L 15 9 2 4 50.0 0 0 - 5 8 62.5 3 3 6 0 0 0 2 1 -5
+p86
+aVMickael Pietrus GSW 04/04/2006 GSW @ MEM L 22 5 1 7 14.3 0 3 0.0 3 4 75.0 1 3 4 0 0 0 1 1 -13
+p87
+aVJason Richardson GSW 04/04/2006 GSW @ MEM L 33 9 4 15 26.7 1 3 33.3 0 2 0.0 1 3 4 4 1 0 1 2 -14
+p88
+aVMonta Ellis GSW 04/04/2006 GSW @ MEM L 15 3 1 7 14.3 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 2 -11
+p89
+aVMike Dunleavy GSW 04/04/2006 GSW @ MEM L 29 9 2 8 25.0 1 3 33.3 4 6 66.7 1 3 4 3 1 0 4 3 -11
+p90
+aVZarko Cabarkapa GSW 04/04/2006 GSW @ MEM L 15 5 1 5 20.0 0 2 0.0 3 4 75.0 3 2 5 0 1 0 2 3 -14
+p91
+aVWill Bynum GSW 04/04/2006 GSW @ MEM L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 1 -15
+p92
+aVAdonal Foyle GSW 04/04/2006 GSW @ MEM L 24 4 2 4 50.0 0 0 - 0 0 - 2 8 10 1 0 2 1 4 -8
+p93
+aVIke Diogu GSW 04/04/2006 GSW @ MEM L 26 10 3 7 42.9 0 0 - 4 4 100.0 2 3 5 0 1 0 2 4 -12
+p94
+aVTroy Murphy GSW 04/04/2006 GSW @ MEM L 31 13 5 10 50.0 0 1 0.0 3 4 75.0 4 6 10 0 0 0 2 1 -16
+p95
+aVDerek Fisher GSW 04/04/2006 GSW @ MEM L 36 17 7 11 63.6 3 5 60.0 0 0 - 0 1 1 1 2 0 2 1 -11
+p96
+aVDerek Fisher GSW 04/02/2006 GSW @ MIN L 46 22 7 19 36.8 3 9 33.3 5 5 100.0 1 2 3 6 1 0 4 4 0
+p97
+aVMonta Ellis GSW 04/02/2006 GSW @ MIN L 18 10 4 6 66.7 1 3 33.3 1 2 50.0 1 2 3 1 0 0 1 1 -14
+p98
+aVAndris Biedrins GSW 04/02/2006 GSW @ MIN L 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 1 2 -7
+p99
+aVIke Diogu GSW 04/02/2006 GSW @ MIN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -3
+p100
+aVJason Richardson GSW 04/02/2006 GSW @ MIN L 45 33 11 23 47.8 4 14 28.6 7 7 100.0 2 3 5 6 1 0 5 5 17
+p101
+aVMickael Pietrus GSW 04/02/2006 GSW @ MIN L 17 12 5 10 50.0 2 5 40.0 0 0 - 1 1 2 1 0 0 1 2 -12
+p102
+aVAdonal Foyle GSW 04/02/2006 GSW @ MIN L 37 4 2 5 40.0 0 0 - 0 1 0.0 3 6 9 0 1 0 3 3 2
+p103
+aVMike Dunleavy GSW 04/02/2006 GSW @ MIN L 37 5 2 13 15.4 0 6 0.0 1 2 50.0 2 2 4 6 0 1 3 4 2
+p104
+aVWill Bynum GSW 04/02/2006 GSW @ MIN L 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p105
+aVTroy Murphy GSW 04/02/2006 GSW @ MIN L 41 13 6 12 50.0 0 1 0.0 1 1 100.0 3 10 13 2 2 1 1 3 6
+p106
+aVZarko Cabarkapa GSW 04/02/2006 GSW @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 1 1 2
+p107
+aVAndris Biedrins GSW 03/31/2006 GSW vs. SAC L 15 0 0 1 0.0 0 0 - 0 2 0.0 0 6 6 0 0 1 1 4 12
+p108
+aVMike Dunleavy GSW 03/31/2006 GSW vs. SAC L 41 24 9 14 64.3 4 7 57.1 2 2 100.0 0 3 3 2 2 2 3 1 -2
+p109
+aVJason Richardson GSW 03/31/2006 GSW vs. SAC L 38 17 7 17 41.2 2 8 25.0 1 3 33.3 1 0 1 5 2 1 2 2 -7
+p110
+aVTroy Murphy GSW 03/31/2006 GSW vs. SAC L 30 7 2 9 22.2 0 2 0.0 3 4 75.0 2 10 12 2 0 0 2 2 4
+p111
+aVIke Diogu GSW 03/31/2006 GSW vs. SAC L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p112
+aVMickael Pietrus GSW 03/31/2006 GSW vs. SAC L 21 16 7 11 63.6 2 6 33.3 0 0 - 1 2 3 1 1 0 1 5 8
+p113
+aVZarko Cabarkapa GSW 03/31/2006 GSW vs. SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p114
+aVMonta Ellis GSW 03/31/2006 GSW vs. SAC L 19 8 4 11 36.4 0 2 0.0 0 0 - 0 1 1 4 0 1 3 1 -2
+p115
+aVDerek Fisher GSW 03/31/2006 GSW vs. SAC L 42 13 6 13 46.2 1 3 33.3 0 2 0.0 0 5 5 10 5 0 2 2 0
+p116
+aVAdonal Foyle GSW 03/31/2006 GSW vs. SAC L 27 8 4 5 80.0 0 0 - 0 0 - 0 4 4 2 0 1 0 3 -19
+p117
+aVAdonal Foyle GSW 03/29/2006 GSW vs. NOK L 31 6 3 3 100.0 0 0 - 0 0 - 4 4 8 2 0 2 1 2 13
+p118
+aVAndris Biedrins GSW 03/29/2006 GSW vs. NOK L 17 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 0 2 -14
+p119
+aVIke Diogu GSW 03/29/2006 GSW vs. NOK L 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 1 0 -12
+p120
+aVTroy Murphy GSW 03/29/2006 GSW vs. NOK L 34 12 4 15 26.7 1 4 25.0 3 3 100.0 4 8 12 2 1 0 2 1 14
+p121
+aVDerek Fisher GSW 03/29/2006 GSW vs. NOK L 37 16 6 15 40.0 1 5 20.0 3 3 100.0 1 5 6 5 2 0 3 3 6
+p122
+aVMonta Ellis GSW 03/29/2006 GSW vs. NOK L 21 9 3 8 37.5 1 3 33.3 2 5 40.0 0 2 2 1 1 0 3 3 -5
+p123
+aVMike Dunleavy GSW 03/29/2006 GSW vs. NOK L 37 19 6 11 54.5 3 5 60.0 4 6 66.7 3 3 6 4 1 1 0 2 5
+p124
+aVWill Bynum GSW 03/29/2006 GSW vs. NOK L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -8
+p125
+aVMickael Pietrus GSW 03/29/2006 GSW vs. NOK L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 1 -10
+p126
+aVJason Richardson GSW 03/29/2006 GSW vs. NOK L 41 19 6 19 31.6 2 6 33.3 5 6 83.3 2 5 7 5 1 1 3 3 6
+p127
+aVIke Diogu GSW 03/27/2006 GSW vs. WAS L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p128
+aVJason Richardson GSW 03/27/2006 GSW vs. WAS L 38 18 8 21 38.1 2 8 25.0 0 2 0.0 2 3 5 2 1 0 4 3 -14
+p129
+aVAndris Biedrins GSW 03/27/2006 GSW vs. WAS L 20 12 6 6 100.0 0 0 - 0 6 0.0 2 4 6 3 0 2 1 2 -2
+p130
+aVAdonal Foyle GSW 03/27/2006 GSW vs. WAS L 20 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 1 3 3 -2
+p131
+aVWill Bynum GSW 03/27/2006 GSW vs. WAS L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p132
+aVTroy Murphy GSW 03/27/2006 GSW vs. WAS L 33 6 2 9 22.2 1 1 100.0 1 2 50.0 7 9 16 1 0 0 1 1 -15
+p133
+aVMonta Ellis GSW 03/27/2006 GSW vs. WAS L 22 16 5 7 71.4 2 2 100.0 4 4 100.0 1 3 4 1 0 0 3 3 -7
+p134
+aVDerek Fisher GSW 03/27/2006 GSW vs. WAS L 38 16 6 13 46.2 4 7 57.1 0 0 - 1 1 2 10 2 0 2 5 -17
+p135
+aVMike Dunleavy GSW 03/27/2006 GSW vs. WAS L 37 11 4 12 33.3 1 5 20.0 2 4 50.0 1 3 4 4 0 0 4 2 -21
+p136
+aVMickael Pietrus GSW 03/27/2006 GSW vs. WAS L 24 13 5 10 50.0 2 4 50.0 1 3 33.3 0 2 2 2 0 0 2 2 -7
+p137
+aVIke Diogu GSW 03/26/2006 GSW @ SAC W 11 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 4 -11
+p138
+aVMike Dunleavy GSW 03/26/2006 GSW @ SAC W 37 17 7 11 63.6 3 6 50.0 0 0 - 0 5 5 2 1 0 1 2 17
+p139
+aVAdonal Foyle GSW 03/26/2006 GSW @ SAC W 35 18 8 11 72.7 0 0 - 2 3 66.7 3 2 5 0 0 2 1 2 12
+p140
+aVMonta Ellis GSW 03/26/2006 GSW @ SAC W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -5
+p141
+aVTroy Murphy GSW 03/26/2006 GSW @ SAC W 35 9 4 8 50.0 0 1 0.0 1 2 50.0 5 8 13 2 1 0 1 3 15
+p142
+aVJason Richardson GSW 03/26/2006 GSW @ SAC W 39 16 5 19 26.3 1 6 16.7 5 7 71.4 1 7 8 5 0 2 3 1 13
+p143
+aVWill Bynum GSW 03/26/2006 GSW @ SAC W 9 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -10
+p144
+aVAndris Biedrins GSW 03/26/2006 GSW @ SAC W 13 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 4 -5
+p145
+aVDerek Fisher GSW 03/26/2006 GSW @ SAC W 41 17 5 14 35.7 4 5 80.0 3 3 100.0 0 6 6 8 4 0 5 3 17
+p146
+aVMickael Pietrus GSW 03/26/2006 GSW @ SAC W 14 3 1 3 33.3 1 3 33.3 0 2 0.0 2 1 3 2 0 0 0 1 -8
+p147
+aVMike Dunleavy GSW 03/23/2006 GSW @ DAL W 41 21 8 17 47.1 1 4 25.0 4 4 100.0 3 5 8 5 0 0 2 5 2
+p148
+aVTroy Murphy GSW 03/23/2006 GSW @ DAL W 29 8 2 5 40.0 1 1 100.0 3 3 100.0 0 3 3 2 0 0 0 4 6
+p149
+aVAndris Biedrins GSW 03/23/2006 GSW @ DAL W 11 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 0 0 3 16
+p150
+aVWill Bynum GSW 03/23/2006 GSW @ DAL W 14 4 2 4 50.0 0 0 - 0 1 0.0 0 0 0 3 2 0 1 1 6
+p151
+aVDerek Fisher GSW 03/23/2006 GSW @ DAL W 38 17 4 16 25.0 2 6 33.3 7 8 87.5 2 3 5 7 6 0 3 3 -4
+p152
+aVAdonal Foyle GSW 03/23/2006 GSW @ DAL W 23 6 2 8 25.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 3 -22
+p153
+aVMonta Ellis GSW 03/23/2006 GSW @ DAL W 24 12 5 11 45.5 2 3 66.7 0 0 - 0 3 3 4 3 0 2 4 7
+p154
+aVJason Richardson GSW 03/23/2006 GSW @ DAL W 41 40 14 23 60.9 5 10 50.0 7 8 87.5 1 2 3 4 3 1 1 1 3
+p155
+aVMickael Pietrus GSW 03/23/2006 GSW @ DAL W 7 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 1 0 1 3 -5
+p156
+aVIke Diogu GSW 03/23/2006 GSW @ DAL W 12 8 3 4 75.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 3 -4
+p157
+aVTroy Murphy GSW 03/21/2006 GSW @ SAS L 41 15 6 14 42.9 0 1 0.0 3 4 75.0 2 5 7 1 0 0 3 4 0
+p158
+aVAndris Biedrins GSW 03/21/2006 GSW @ SAS L 17 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 1 3 -7
+p159
+aVMike Dunleavy GSW 03/21/2006 GSW @ SAS L 42 11 5 13 38.5 1 2 50.0 0 0 - 2 6 8 2 1 0 0 2 -6
+p160
+aVJason Richardson GSW 03/21/2006 GSW @ SAS L 39 20 5 18 27.8 1 5 20.0 9 11 81.8 2 3 5 3 0 0 2 3 -2
+p161
+aVAdonal Foyle GSW 03/21/2006 GSW @ SAS L 28 7 3 4 75.0 0 0 - 1 1 100.0 3 4 7 0 2 2 1 4 -4
+p162
+aVMickael Pietrus GSW 03/21/2006 GSW @ SAS L 11 0 0 6 0.0 0 3 0.0 0 0 - 1 1 2 0 0 0 1 1 -14
+p163
+aVDerek Fisher GSW 03/21/2006 GSW @ SAS L 36 27 9 17 52.9 0 3 0.0 9 9 100.0 0 2 2 1 1 0 1 2 -9
+p164
+aVIke Diogu GSW 03/21/2006 GSW @ SAS L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -6
+p165
+aVMonta Ellis GSW 03/21/2006 GSW @ SAS L 18 10 5 10 50.0 0 1 0.0 0 2 0.0 1 2 3 1 1 0 2 4 -9
+p166
+aVZarko Cabarkapa GSW 03/21/2006 GSW @ SAS L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p167
+aVWill Bynum GSW 03/21/2006 GSW @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p168
+aVWill Bynum GSW 03/19/2006 GSW vs. PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p169
+aVIke Diogu GSW 03/19/2006 GSW vs. PHI W 15 6 3 9 33.3 0 0 - 0 2 0.0 3 1 4 1 0 0 2 2 -5
+p170
+aVAdonal Foyle GSW 03/19/2006 GSW vs. PHI W 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 12
+p171
+aVMonta Ellis GSW 03/19/2006 GSW vs. PHI W 13 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 3 1 0 0 2 -3
+p172
+aVMike Dunleavy GSW 03/19/2006 GSW vs. PHI W 40 28 10 17 58.8 3 6 50.0 5 6 83.3 0 10 10 6 0 1 2 1 10
+p173
+aVMickael Pietrus GSW 03/19/2006 GSW vs. PHI W 24 14 6 7 85.7 1 1 100.0 1 3 33.3 1 4 5 1 2 0 0 4 2
+p174
+aVZarko Cabarkapa GSW 03/19/2006 GSW vs. PHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p175
+aVTroy Murphy GSW 03/19/2006 GSW vs. PHI W 35 12 5 11 45.5 0 5 0.0 2 3 66.7 5 11 16 1 1 1 2 4 13
+p176
+aVJason Richardson GSW 03/19/2006 GSW vs. PHI W 37 23 8 19 42.1 2 6 33.3 5 6 83.3 0 4 4 2 1 0 2 1 14
+p177
+aVAndris Biedrins GSW 03/19/2006 GSW vs. PHI W 16 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 0 3 0 2 -5
+p178
+aVDerek Fisher GSW 03/19/2006 GSW vs. PHI W 37 12 4 14 28.6 0 4 0.0 4 6 66.7 1 3 4 9 0 0 3 2 13
+p179
+aVMike Dunleavy GSW 03/16/2006 GSW vs. MIN W 32 24 7 9 77.8 3 5 60.0 7 7 100.0 1 5 6 4 0 0 1 3 11
+p180
+aVTroy Murphy GSW 03/16/2006 GSW vs. MIN W 33 10 5 11 45.5 0 2 0.0 0 2 0.0 4 13 17 1 0 1 1 1 7
+p181
+aVMickael Pietrus GSW 03/16/2006 GSW vs. MIN W 28 7 3 7 42.9 1 3 33.3 0 1 0.0 0 3 3 1 0 0 1 1 1
+p182
+aVAdonal Foyle GSW 03/16/2006 GSW vs. MIN W 18 10 5 5 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 9
+p183
+aVMonta Ellis GSW 03/16/2006 GSW vs. MIN W 16 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 1 10
+p184
+aVCalbert Cheaney GSW 03/16/2006 GSW vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p185
+aVAndris Biedrins GSW 03/16/2006 GSW vs. MIN W 15 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 4 3
+p186
+aVIke Diogu GSW 03/16/2006 GSW vs. MIN W 23 21 8 11 72.7 0 0 - 5 8 62.5 3 3 6 0 0 1 2 2 4
+p187
+aVJason Richardson GSW 03/16/2006 GSW vs. MIN W 40 15 5 16 31.3 2 5 40.0 3 7 42.9 2 5 7 3 1 0 5 2 6
+p188
+aVDerek Fisher GSW 03/16/2006 GSW vs. MIN W 31 16 3 14 21.4 0 1 0.0 10 12 83.3 1 1 2 13 2 0 2 5 -9
+p189
+aVMike Dunleavy GSW 03/11/2006 GSW @ ORL L 23 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 2 1 -10
+p190
+aVIke Diogu GSW 03/11/2006 GSW @ ORL L 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 1 1 2 -1
+p191
+aVDerek Fisher GSW 03/11/2006 GSW @ ORL L 32 20 7 14 50.0 3 5 60.0 3 3 100.0 0 4 4 6 0 0 2 3 -1
+p192
+aVBaron Davis GSW 03/11/2006 GSW @ ORL L 27 17 7 13 53.8 3 7 42.9 0 0 - 1 1 2 7 1 0 4 4 -10
+p193
+aVCalbert Cheaney GSW 03/11/2006 GSW @ ORL L 20 8 4 5 80.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 1
+p194
+aVAndris Biedrins GSW 03/11/2006 GSW @ ORL L 25 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 1 0 4 3
+p195
+aVMonta Ellis GSW 03/11/2006 GSW @ ORL L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -7
+p196
+aVTroy Murphy GSW 03/11/2006 GSW @ ORL L 26 14 6 11 54.5 2 2 100.0 0 0 - 1 6 7 2 1 0 1 1 -14
+p197
+aVAdonal Foyle GSW 03/11/2006 GSW @ ORL L 16 2 1 3 33.3 0 0 - 0 0 - 3 0 3 0 0 2 1 0 -11
+p198
+aVZarko Cabarkapa GSW 03/11/2006 GSW @ ORL L 9 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 1 -2
+p199
+aVJason Richardson GSW 03/11/2006 GSW @ ORL L 32 11 4 14 28.6 2 8 25.0 1 2 50.0 1 2 3 5 1 0 2 2 -3
+p200
+aVAndris Biedrins GSW 03/10/2006 GSW @ MIA W 9 2 1 3 33.3 0 0 - 0 2 0.0 2 1 3 0 1 0 0 4 11
+p201
+aVIke Diogu GSW 03/10/2006 GSW @ MIA W 19 7 2 5 40.0 0 0 - 3 4 75.0 2 1 3 0 1 0 1 4 2
+p202
+aVZarko Cabarkapa GSW 03/10/2006 GSW @ MIA W 14 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 3 3
+p203
+aVBaron Davis GSW 03/10/2006 GSW @ MIA W 27 13 4 12 33.3 2 4 50.0 3 6 50.0 0 3 3 6 1 0 3 3 3
+p204
+aVAdonal Foyle GSW 03/10/2006 GSW @ MIA W 22 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -4
+p205
+aVTroy Murphy GSW 03/10/2006 GSW @ MIA W 32 18 7 12 58.3 1 3 33.3 3 4 75.0 2 10 12 0 1 0 0 1 1
+p206
+aVJason Richardson GSW 03/10/2006 GSW @ MIA W 39 44 17 26 65.4 6 7 85.7 4 10 40.0 1 5 6 3 0 0 3 1 3
+p207
+aVMonta Ellis GSW 03/10/2006 GSW @ MIA W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 2 0 0 1 11
+p208
+aVMike Dunleavy GSW 03/10/2006 GSW @ MIA W 26 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 3 -7
+p209
+aVDerek Fisher GSW 03/10/2006 GSW @ MIA W 36 14 4 10 40.0 1 2 50.0 5 8 62.5 1 2 3 5 3 0 4 3 2
+p210
+aVIke Diogu GSW 03/08/2006 GSW @ CHA L 15 8 2 2 100.0 0 0 - 4 6 66.7 3 5 8 0 0 0 1 2 9
+p211
+aVMike Dunleavy GSW 03/08/2006 GSW @ CHA L 24 8 3 8 37.5 0 3 0.0 2 2 100.0 0 2 2 2 0 0 3 4 -8
+p212
+aVAndris Biedrins GSW 03/08/2006 GSW @ CHA L 15 2 1 1 100.0 0 0 - 0 2 0.0 1 3 4 1 1 2 1 4 6
+p213
+aVMonta Ellis GSW 03/08/2006 GSW @ CHA L 27 13 5 8 62.5 3 3 100.0 0 0 - 1 4 5 2 0 1 2 3 18
+p214
+aVJason Richardson GSW 03/08/2006 GSW @ CHA L 38 27 11 23 47.8 2 6 33.3 3 3 100.0 1 3 4 5 1 0 5 3 -3
+p215
+aVCalbert Cheaney GSW 03/08/2006 GSW @ CHA L 13 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 0 0 1 2 1
+p216
+aVAdonal Foyle GSW 03/08/2006 GSW @ CHA L 21 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 0 0 1 1 2 -1
+p217
+aVTroy Murphy GSW 03/08/2006 GSW @ CHA L 28 11 5 17 29.4 0 1 0.0 1 2 50.0 8 6 14 0 1 0 1 0 -17
+p218
+aVBaron Davis GSW 03/08/2006 GSW @ CHA L 29 10 3 9 33.3 0 2 0.0 4 6 66.7 2 4 6 7 3 0 2 3 3
+p219
+aVDerek Fisher GSW 03/08/2006 GSW @ CHA L 30 8 3 6 50.0 1 1 100.0 1 1 100.0 1 2 3 4 1 0 1 3 -23
+p220
+aVDerek Fisher GSW 03/07/2006 GSW @ ATL L 28 12 4 9 44.4 2 3 66.7 2 4 50.0 2 0 2 2 0 0 4 5 -17
+p221
+aVIke Diogu GSW 03/07/2006 GSW @ ATL L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 0
+p222
+aVMike Dunleavy GSW 03/07/2006 GSW @ ATL L 33 13 4 11 36.4 0 2 0.0 5 6 83.3 2 4 6 1 2 0 2 3 5
+p223
+aVMickael Pietrus GSW 03/07/2006 GSW @ ATL L 25 10 3 10 30.0 2 3 66.7 2 2 100.0 0 3 3 0 2 0 0 4 -5
+p224
+aVMonta Ellis GSW 03/07/2006 GSW @ ATL L 9 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 0 0 2 3 -6
+p225
+aVBaron Davis GSW 03/07/2006 GSW @ ATL L 22 9 3 10 30.0 3 5 60.0 0 0 - 0 1 1 6 0 0 1 1 12
+p226
+aVAndris Biedrins GSW 03/07/2006 GSW @ ATL L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 5 -2
+p227
+aVTroy Murphy GSW 03/07/2006 GSW @ ATL L 35 6 3 6 50.0 0 0 - 0 0 - 3 9 12 2 0 1 4 2 -7
+p228
+aVAdonal Foyle GSW 03/07/2006 GSW @ ATL L 32 6 3 6 50.0 0 0 - 0 0 - 1 4 5 0 0 3 1 3 -7
+p229
+aVJason Richardson GSW 03/07/2006 GSW @ ATL L 43 42 16 29 55.2 4 11 36.4 6 9 66.7 2 5 7 4 2 1 2 4 -8
+p230
+aVAndris Biedrins GSW 03/05/2006 GSW @ MIN L 21 9 4 6 66.7 0 0 - 1 2 50.0 3 2 5 0 0 2 2 5 -6
+p231
+aVMickael Pietrus GSW 03/05/2006 GSW @ MIN L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 1 -3
+p232
+aVIke Diogu GSW 03/05/2006 GSW @ MIN L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 3 1 -8
+p233
+aVMike Dunleavy GSW 03/05/2006 GSW @ MIN L 28 13 6 7 85.7 1 2 50.0 0 0 - 0 4 4 2 1 1 2 4 0
+p234
+aVTroy Murphy GSW 03/05/2006 GSW @ MIN L 34 7 3 8 37.5 0 2 0.0 1 2 50.0 2 1 3 1 0 1 0 5 2
+p235
+aVMonta Ellis GSW 03/05/2006 GSW @ MIN L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p236
+aVBaron Davis GSW 03/05/2006 GSW @ MIN L 40 12 5 14 35.7 0 2 0.0 2 3 66.7 0 5 5 8 0 0 2 2 -4
+p237
+aVJason Richardson GSW 03/05/2006 GSW @ MIN L 44 36 13 27 48.1 7 12 58.3 3 4 75.0 1 5 6 1 3 0 1 4 -14
+p238
+aVAdonal Foyle GSW 03/05/2006 GSW @ MIN L 20 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 1 3 3 1 -2
+p239
+aVDerek Fisher GSW 03/05/2006 GSW @ MIN L 34 9 3 11 27.3 1 4 25.0 2 2 100.0 1 2 3 4 0 0 3 3 -28
+p240
+aVBaron Davis GSW 03/03/2006 GSW vs. LAL L 26 10 4 12 33.3 2 6 33.3 0 0 - 2 3 5 3 0 0 1 4 -1
+p241
+aVTroy Murphy GSW 03/03/2006 GSW vs. LAL L 35 18 6 14 42.9 1 4 25.0 5 5 100.0 2 5 7 2 1 0 1 0 -11
+p242
+aVMickael Pietrus GSW 03/03/2006 GSW vs. LAL L 23 6 2 5 40.0 2 3 66.7 0 0 - 1 2 3 2 2 0 3 3 -12
+p243
+aVAdonal Foyle GSW 03/03/2006 GSW vs. LAL L 21 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 1 2 0 3 -5
+p244
+aVIke Diogu GSW 03/03/2006 GSW vs. LAL L 7 4 2 6 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 5 -5
+p245
+aVJason Richardson GSW 03/03/2006 GSW vs. LAL L 39 27 9 26 34.6 5 13 38.5 4 4 100.0 2 3 5 6 3 0 1 4 -7
+p246
+aVMonta Ellis GSW 03/03/2006 GSW vs. LAL L 16 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -7
+p247
+aVAndris Biedrins GSW 03/03/2006 GSW vs. LAL L 15 9 4 8 50.0 0 0 - 1 2 50.0 2 2 4 0 0 1 0 5 2
+p248
+aVDerek Fisher GSW 03/03/2006 GSW vs. LAL L 35 4 1 12 8.3 0 3 0.0 2 3 66.7 0 0 0 9 2 0 3 5 -9
+p249
+aVMike Dunleavy GSW 03/03/2006 GSW vs. LAL L 23 6 1 5 20.0 0 3 0.0 4 4 100.0 3 4 7 3 1 0 2 1 -5
+p250
+aVMickael Pietrus GSW 03/01/2006 GSW vs. ORL W 32 11 3 8 37.5 1 4 25.0 4 8 50.0 0 0 0 0 1 1 0 1 7
+p251
+aVIke Diogu GSW 03/01/2006 GSW vs. ORL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p252
+aVTroy Murphy GSW 03/01/2006 GSW vs. ORL W 40 14 6 16 37.5 0 3 0.0 2 3 66.7 6 14 20 4 0 0 0 1 9
+p253
+aVMonta Ellis GSW 03/01/2006 GSW vs. ORL W 19 6 2 6 33.3 1 2 50.0 1 2 50.0 0 0 0 1 0 0 2 2 -7
+p254
+aVDerek Fisher GSW 03/01/2006 GSW vs. ORL W 41 18 6 12 50.0 1 2 50.0 5 6 83.3 1 3 4 10 3 0 6 3 8
+p255
+aVAndris Biedrins GSW 03/01/2006 GSW vs. ORL W 22 8 3 5 60.0 0 0 - 2 6 33.3 2 5 7 1 0 2 0 2 0
+p256
+aVJason Richardson GSW 03/01/2006 GSW vs. ORL W 42 25 6 15 40.0 3 6 50.0 10 12 83.3 1 8 9 6 1 1 1 3 4
+p257
+aVAdonal Foyle GSW 03/01/2006 GSW vs. ORL W 22 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 1 2 4
+p258
+aVMike Dunleavy GSW 03/01/2006 GSW vs. ORL W 19 12 4 8 50.0 1 1 100.0 3 3 100.0 1 0 1 2 0 0 1 2 -3
+p259
+aVMonta Ellis GSW 02/27/2006 GSW vs. UTA L 28 12 5 13 38.5 1 2 50.0 1 3 33.3 2 0 2 0 2 0 3 3 8
+p260
+aVAdonal Foyle GSW 02/27/2006 GSW vs. UTA L 17 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 3 0 2 -24
+p261
+aVMike Dunleavy GSW 02/27/2006 GSW vs. UTA L 24 6 1 7 14.3 0 2 0.0 4 7 57.1 1 4 5 0 1 1 2 3 -10
+p262
+aVZarko Cabarkapa GSW 02/27/2006 GSW vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p263
+aVMickael Pietrus GSW 02/27/2006 GSW vs. UTA L 23 0 0 5 0.0 0 4 0.0 0 0 - 1 2 3 0 0 1 3 2 -17
+p264
+aVDerek Fisher GSW 02/27/2006 GSW vs. UTA L 49 21 5 15 33.3 0 6 0.0 11 16 68.8 0 2 2 10 0 0 1 6 -7
+p265
+aVAndris Biedrins GSW 02/27/2006 GSW vs. UTA L 26 14 6 8 75.0 0 0 - 2 5 40.0 5 5 10 0 1 1 1 6 18
+p266
+aVCalbert Cheaney GSW 02/27/2006 GSW vs. UTA L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p267
+aVIke Diogu GSW 02/27/2006 GSW vs. UTA L 23 16 6 9 66.7 0 0 - 4 6 66.7 3 2 5 0 0 2 3 6 8
+p268
+aVTroy Murphy GSW 02/27/2006 GSW vs. UTA L 23 4 2 6 33.3 0 0 - 0 0 - 1 1 2 3 2 0 1 1 -14
+p269
+aVJason Richardson GSW 02/27/2006 GSW vs. UTA L 46 35 14 23 60.9 4 8 50.0 3 4 75.0 0 7 7 6 0 1 2 2 -7
+p270
+aVZarko Cabarkapa GSW 02/25/2006 GSW @ SAS L 8 1 0 4 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 1 -5
+p271
+aVAndris Biedrins GSW 02/25/2006 GSW @ SAS L 28 2 1 2 50.0 0 0 - 0 0 - 5 2 7 0 0 1 0 3 -12
+p272
+aVMonta Ellis GSW 02/25/2006 GSW @ SAS L 23 16 5 13 38.5 0 3 0.0 6 6 100.0 0 4 4 3 1 0 2 1 -2
+p273
+aVMike Dunleavy GSW 02/25/2006 GSW @ SAS L 28 4 2 8 25.0 0 0 - 0 0 - 3 1 4 1 4 0 2 4 -7
+p274
+aVMickael Pietrus GSW 02/25/2006 GSW @ SAS L 32 5 2 12 16.7 1 2 50.0 0 0 - 0 1 1 0 0 0 4 1 -4
+p275
+aVIke Diogu GSW 02/25/2006 GSW @ SAS L 14 8 3 7 42.9 0 0 - 2 3 66.7 0 4 4 1 0 0 2 3 3
+p276
+aVJason Richardson GSW 02/25/2006 GSW @ SAS L 28 10 4 11 36.4 2 4 50.0 0 2 0.0 0 6 6 3 1 1 2 3 -20
+p277
+aVTroy Murphy GSW 02/25/2006 GSW @ SAS L 29 12 5 12 41.7 0 0 - 2 3 66.7 4 8 12 1 1 1 1 0 -18
+p278
+aVDerek Fisher GSW 02/25/2006 GSW @ SAS L 33 11 5 13 38.5 1 1 100.0 0 0 - 0 1 1 2 3 0 1 2 -18
+p279
+aVAdonal Foyle GSW 02/25/2006 GSW @ SAS L 17 6 3 7 42.9 0 0 - 0 0 - 3 1 4 0 0 4 0 0 -2
+p280
+aVAndris Biedrins GSW 02/24/2006 GSW @ HOU L 17 8 4 5 80.0 0 0 - 0 0 - 4 0 4 2 1 1 0 4 4
+p281
+aVDerek Fisher GSW 02/24/2006 GSW @ HOU L 43 16 6 22 27.3 3 6 50.0 1 2 50.0 0 4 4 4 5 0 3 2 -9
+p282
+aVMike Dunleavy GSW 02/24/2006 GSW @ HOU L 27 2 1 7 14.3 0 2 0.0 0 2 0.0 0 7 7 4 0 0 0 3 3
+p283
+aVIke Diogu GSW 02/24/2006 GSW @ HOU L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 1 0 2 -8
+p284
+aVMickael Pietrus GSW 02/24/2006 GSW @ HOU L 24 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -9
+p285
+aVMonta Ellis GSW 02/24/2006 GSW @ HOU L 22 3 1 4 25.0 0 2 0.0 1 2 50.0 0 1 1 3 0 1 3 0 3
+p286
+aVAdonal Foyle GSW 02/24/2006 GSW @ HOU L 20 2 1 1 100.0 0 0 - 0 1 0.0 0 2 2 0 1 1 0 3 1
+p287
+aVJason Richardson GSW 02/24/2006 GSW @ HOU L 41 39 14 26 53.8 7 11 63.6 4 8 50.0 3 5 8 4 2 0 2 2 3
+p288
+aVZarko Cabarkapa GSW 02/24/2006 GSW @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p289
+aVTroy Murphy GSW 02/24/2006 GSW @ HOU L 36 15 5 10 50.0 1 1 100.0 4 5 80.0 2 15 17 2 0 2 2 4 1
+p290
+aVCalbert Cheaney GSW 02/21/2006 GSW @ SAC L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 10
+p291
+aVTroy Murphy GSW 02/21/2006 GSW @ SAC L 22 5 2 9 22.2 0 0 - 1 2 50.0 4 1 5 0 1 0 0 2 -22
+p292
+aVAndris Biedrins GSW 02/21/2006 GSW @ SAC L 26 12 5 7 71.4 0 0 - 2 4 50.0 3 5 8 0 2 0 0 1 -16
+p293
+aVZarko Cabarkapa GSW 02/21/2006 GSW @ SAC L 8 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -12
+p294
+aVIke Diogu GSW 02/21/2006 GSW @ SAC L 22 10 3 10 30.0 0 0 - 4 5 80.0 2 2 4 0 0 1 1 1 -6
+p295
+aVMike Dunleavy GSW 02/21/2006 GSW @ SAC L 25 5 1 7 14.3 0 0 - 3 3 100.0 0 1 1 1 1 0 1 2 -18
+p296
+aVJason Richardson GSW 02/21/2006 GSW @ SAC L 32 15 6 20 30.0 2 6 33.3 1 2 50.0 0 5 5 2 1 1 2 1 -1
+p297
+aVAdonal Foyle GSW 02/21/2006 GSW @ SAC L 14 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 3 1 -19
+p298
+aVDerek Fisher GSW 02/21/2006 GSW @ SAC L 38 10 4 10 40.0 0 1 0.0 2 2 100.0 1 2 3 8 3 0 1 5 -18
+p299
+aVMonta Ellis GSW 02/21/2006 GSW @ SAC L 14 0 0 8 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 2 -14
+p300
+aVMickael Pietrus GSW 02/21/2006 GSW @ SAC L 31 16 6 12 50.0 1 5 20.0 3 4 75.0 3 3 6 1 1 0 3 3 -9
+p301
+aVMickael Pietrus GSW 02/15/2006 GSW vs. LAC W 39 16 7 19 36.8 1 6 16.7 1 2 50.0 5 1 6 1 1 0 5 2 13
+p302
+aVAdonal Foyle GSW 02/15/2006 GSW vs. LAC W 38 8 4 9 44.4 0 0 - 0 0 - 3 8 11 1 1 3 1 4 16
+p303
+aVJason Richardson GSW 02/15/2006 GSW vs. LAC W 42 20 7 19 36.8 0 3 0.0 6 13 46.2 3 7 10 2 3 1 3 1 3
+p304
+aVDerek Fisher GSW 02/15/2006 GSW vs. LAC W 42 21 5 11 45.5 2 4 50.0 9 11 81.8 0 4 4 9 3 0 2 3 15
+p305
+aVIke Diogu GSW 02/15/2006 GSW vs. LAC W 23 6 3 7 42.9 0 0 - 0 0 - 2 8 10 0 0 1 0 3 10
+p306
+aVZarko Cabarkapa GSW 02/15/2006 GSW vs. LAC W 9 5 1 3 33.3 0 0 - 3 4 75.0 2 0 2 1 0 0 2 3 -10
+p307
+aVMonta Ellis GSW 02/15/2006 GSW vs. LAC W 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 3 0 0 0 0 -4
+p308
+aVMike Dunleavy GSW 02/15/2006 GSW vs. LAC W 32 10 2 8 25.0 0 2 0.0 6 8 75.0 2 4 6 2 1 0 3 2 -8
+p309
+aVMike Dunleavy GSW 02/13/2006 GSW vs. MEM L 29 15 5 14 35.7 1 4 25.0 4 4 100.0 1 7 8 2 0 1 1 3 -5
+p310
+aVMonta Ellis GSW 02/13/2006 GSW vs. MEM L 16 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -9
+p311
+aVMickael Pietrus GSW 02/13/2006 GSW vs. MEM L 33 7 3 12 25.0 0 4 0.0 1 3 33.3 1 3 4 1 3 1 5 5 8
+p312
+aVIke Diogu GSW 02/13/2006 GSW vs. MEM L 24 10 2 7 28.6 0 0 - 6 6 100.0 3 2 5 1 0 1 2 3 3
+p313
+aVCalbert Cheaney GSW 02/13/2006 GSW vs. MEM L 7 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -7
+p314
+aVZarko Cabarkapa GSW 02/13/2006 GSW vs. MEM L 17 6 3 7 42.9 0 1 0.0 0 0 - 1 3 4 1 0 0 1 3 0
+p315
+aVDerek Fisher GSW 02/13/2006 GSW vs. MEM L 40 21 8 14 57.1 0 0 - 5 6 83.3 0 4 4 9 2 0 1 2 -2
+p316
+aVJason Richardson GSW 02/13/2006 GSW vs. MEM L 36 10 3 13 23.1 2 7 28.6 2 2 100.0 0 10 10 2 1 1 3 2 0
+p317
+aVAdonal Foyle GSW 02/13/2006 GSW vs. MEM L 38 4 1 3 33.3 0 0 - 2 2 100.0 2 8 10 1 0 5 3 4 2
+p318
+aVMonta Ellis GSW 02/11/2006 GSW @ CLE W 19 4 2 6 33.3 0 0 - 0 0 - 0 1 1 3 0 0 1 1 2
+p319
+aVMike Dunleavy GSW 02/11/2006 GSW @ CLE W 29 14 5 12 41.7 1 4 25.0 3 6 50.0 1 3 4 5 0 2 3 3 8
+p320
+aVMickael Pietrus GSW 02/11/2006 GSW @ CLE W 23 10 3 7 42.9 0 3 0.0 4 5 80.0 1 3 4 2 0 0 2 3 11
+p321
+aVBaron Davis GSW 02/11/2006 GSW @ CLE W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 1 3
+p322
+aVAdonal Foyle GSW 02/11/2006 GSW @ CLE W 20 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 2 -9
+p323
+aVJason Richardson GSW 02/11/2006 GSW @ CLE W 42 31 12 26 46.2 3 6 50.0 4 8 50.0 2 6 8 1 0 0 2 3 2
+p324
+aVIke Diogu GSW 02/11/2006 GSW @ CLE W 18 6 3 3 100.0 0 0 - 0 0 - 2 3 5 2 0 1 1 3 -3
+p325
+aVDerek Fisher GSW 02/11/2006 GSW @ CLE W 37 18 6 7 85.7 3 4 75.0 3 5 60.0 0 4 4 6 2 1 2 4 13
+p326
+aVAndris Biedrins GSW 02/11/2006 GSW @ CLE W 27 11 5 5 100.0 0 0 - 1 3 33.3 2 3 5 0 0 0 0 3 16
+p327
+aVCalbert Cheaney GSW 02/11/2006 GSW @ CLE W 14 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 0 0 0 1 -3
+p328
+aVMonta Ellis GSW 02/10/2006 GSW @ IND L 13 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 5
+p329
+aVAndris Biedrins GSW 02/10/2006 GSW @ IND L 20 7 3 4 75.0 0 0 - 1 2 50.0 3 2 5 0 0 0 0 5 -3
+p330
+aVDerek Fisher GSW 02/10/2006 GSW @ IND L 25 6 2 7 28.6 0 3 0.0 2 2 100.0 0 7 7 2 0 1 2 1 -2
+p331
+aVAdonal Foyle GSW 02/10/2006 GSW @ IND L 25 8 4 7 57.1 0 0 - 0 0 - 4 3 7 0 0 2 2 5 -10
+p332
+aVBaron Davis GSW 02/10/2006 GSW @ IND L 35 19 6 18 33.3 1 7 14.3 6 9 66.7 0 3 3 7 1 0 7 5 -13
+p333
+aVJason Richardson GSW 02/10/2006 GSW @ IND L 41 16 5 16 31.3 2 7 28.6 4 5 80.0 2 5 7 2 0 1 3 2 -16
+p334
+aVMickael Pietrus GSW 02/10/2006 GSW @ IND L 35 23 7 9 77.8 4 5 80.0 5 6 83.3 3 2 5 0 1 1 1 4 -18
+p335
+aVIke Diogu GSW 02/10/2006 GSW @ IND L 12 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -14
+p336
+aVMike Dunleavy GSW 02/10/2006 GSW @ IND L 31 8 1 11 9.1 0 4 0.0 6 7 85.7 2 5 7 4 2 0 0 2 10
+p337
+aVCalbert Cheaney GSW 02/10/2006 GSW @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p338
+aVIke Diogu GSW 02/08/2006 GSW @ WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -2
+p339
+aVMickael Pietrus GSW 02/08/2006 GSW @ WAS L 37 18 7 13 53.8 2 6 33.3 2 2 100.0 0 5 5 2 1 0 2 5 13
+p340
+aVAdonal Foyle GSW 02/08/2006 GSW @ WAS L 17 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 2 4 4
+p341
+aVTroy Murphy GSW 02/08/2006 GSW @ WAS L 35 14 5 6 83.3 0 0 - 4 5 80.0 4 8 12 3 1 0 4 4 5
+p342
+aVMonta Ellis GSW 02/08/2006 GSW @ WAS L 13 11 5 7 71.4 0 2 0.0 1 1 100.0 1 2 3 1 1 0 0 2 -3
+p343
+aVAndris Biedrins GSW 02/08/2006 GSW @ WAS L 25 2 1 1 100.0 0 0 - 0 0 - 3 1 4 0 1 0 0 6 -13
+p344
+aVDerek Fisher GSW 02/08/2006 GSW @ WAS L 15 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 0 0 0 3 3 -16
+p345
+aVZarko Cabarkapa GSW 02/08/2006 GSW @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p346
+aVJason Richardson GSW 02/08/2006 GSW @ WAS L 35 31 13 20 65.0 3 7 42.9 2 2 100.0 1 2 3 2 1 0 2 6 -1
+p347
+aVMike Dunleavy GSW 02/08/2006 GSW @ WAS L 19 13 5 8 62.5 1 2 50.0 2 2 100.0 0 3 3 2 2 0 0 4 -10
+p348
+aVBaron Davis GSW 02/08/2006 GSW @ WAS L 37 28 8 21 38.1 1 6 16.7 11 17 64.7 2 3 5 13 3 1 3 6 1
+p349
+aVAdonal Foyle GSW 02/06/2006 GSW vs. DEN W 21 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 1 1 -8
+p350
+aVMike Dunleavy GSW 02/06/2006 GSW vs. DEN W 37 17 7 18 38.9 2 6 33.3 1 1 100.0 5 3 8 4 0 0 0 2 8
+p351
+aVBaron Davis GSW 02/06/2006 GSW vs. DEN W 37 23 8 16 50.0 1 3 33.3 6 7 85.7 0 2 2 12 4 1 5 3 11
+p352
+aVMickael Pietrus GSW 02/06/2006 GSW vs. DEN W 31 16 5 9 55.6 3 5 60.0 3 3 100.0 1 5 6 3 2 0 3 4 12
+p353
+aVDerek Fisher GSW 02/06/2006 GSW vs. DEN W 20 14 5 6 83.3 1 1 100.0 3 4 75.0 0 1 1 4 1 0 2 5 -5
+p354
+aVTroy Murphy GSW 02/06/2006 GSW vs. DEN W 38 20 6 14 42.9 0 1 0.0 8 10 80.0 4 9 13 0 0 0 2 1 0
+p355
+aVAndris Biedrins GSW 02/06/2006 GSW vs. DEN W 18 2 1 1 100.0 0 0 - 0 2 0.0 1 5 6 0 0 6 0 4 25
+p356
+aVJason Richardson GSW 02/06/2006 GSW vs. DEN W 34 28 10 20 50.0 3 5 60.0 5 8 62.5 2 5 7 3 2 1 2 5 -7
+p357
+aVIke Diogu GSW 02/06/2006 GSW vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p358
+aVJason Richardson GSW 02/04/2006 GSW vs. MIN W 30 23 7 14 50.0 2 3 66.7 7 7 100.0 1 6 7 1 1 0 2 1 24
+p359
+aVAdonal Foyle GSW 02/04/2006 GSW vs. MIN W 24 8 4 4 100.0 0 0 - 0 0 - 1 3 4 1 2 2 1 2 13
+p360
+aVAndris Biedrins GSW 02/04/2006 GSW vs. MIN W 16 4 2 4 50.0 0 0 - 0 0 - 0 5 5 0 0 1 0 3 21
+p361
+aVMonta Ellis GSW 02/04/2006 GSW vs. MIN W 19 7 3 8 37.5 1 4 25.0 0 0 - 0 1 1 1 0 2 0 1 10
+p362
+aVMike Dunleavy GSW 02/04/2006 GSW vs. MIN W 23 14 4 6 66.7 2 2 100.0 4 4 100.0 1 5 6 4 1 1 0 1 21
+p363
+aVZarko Cabarkapa GSW 02/04/2006 GSW vs. MIN W 7 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 3 0 -4
+p364
+aVMickael Pietrus GSW 02/04/2006 GSW vs. MIN W 34 17 5 10 50.0 1 2 50.0 6 8 75.0 2 4 6 2 2 0 1 3 17
+p365
+aVCalbert Cheaney GSW 02/04/2006 GSW vs. MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p366
+aVTroy Murphy GSW 02/04/2006 GSW vs. MIN W 29 20 7 14 50.0 0 0 - 6 7 85.7 3 5 8 4 2 0 2 3 24
+p367
+aVBaron Davis GSW 02/04/2006 GSW vs. MIN W 20 2 1 3 33.3 0 1 0.0 0 0 - 0 5 5 6 0 2 2 0 12
+p368
+aVIke Diogu GSW 02/04/2006 GSW vs. MIN W 17 12 5 7 71.4 0 0 - 2 2 100.0 1 0 1 0 0 2 1 2 8
+p369
+aVDerek Fisher GSW 02/04/2006 GSW vs. MIN W 15 0 0 7 0.0 0 2 0.0 0 0 - 0 2 2 7 1 1 0 1 18
+p370
+aVBaron Davis GSW 02/02/2006 GSW vs. SAS L 41 17 5 17 29.4 2 3 66.7 5 9 55.6 0 8 8 8 2 1 1 2 0
+p371
+aVMickael Pietrus GSW 02/02/2006 GSW vs. SAS L 26 6 2 7 28.6 1 4 25.0 1 2 50.0 1 1 2 0 1 0 3 3 -4
+p372
+aVTroy Murphy GSW 02/02/2006 GSW vs. SAS L 39 22 7 11 63.6 0 1 0.0 8 9 88.9 3 4 7 0 0 0 1 3 -7
+p373
+aVMonta Ellis GSW 02/02/2006 GSW vs. SAS L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 11
+p374
+aVIke Diogu GSW 02/02/2006 GSW vs. SAS L 9 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 4
+p375
+aVMike Dunleavy GSW 02/02/2006 GSW vs. SAS L 38 13 6 12 50.0 0 0 - 1 1 100.0 0 7 7 5 0 0 2 1 -8
+p376
+aVZarko Cabarkapa GSW 02/02/2006 GSW vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p377
+aVAdonal Foyle GSW 02/02/2006 GSW vs. SAS L 18 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 1 1 0 2 -12
+p378
+aVAndris Biedrins GSW 02/02/2006 GSW vs. SAS L 30 8 4 4 100.0 0 0 - 0 2 0.0 4 5 9 2 1 1 4 2 9
+p379
+aVDerek Fisher GSW 02/02/2006 GSW vs. SAS L 28 12 5 12 41.7 1 3 33.3 1 2 50.0 0 1 1 2 1 0 2 5 -7
+p380
+aVAndris Biedrins GSW 02/01/2006 GSW @ SEA L 32 16 7 10 70.0 0 0 - 2 5 40.0 2 6 8 3 1 0 1 4 -4
+p381
+aVTroy Murphy GSW 02/01/2006 GSW @ SEA L 42 18 5 14 35.7 2 4 50.0 6 7 85.7 5 11 16 2 3 0 2 2 4
+p382
+aVIke Diogu GSW 02/01/2006 GSW @ SEA L 7 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 1 -6
+p383
+aVZarko Cabarkapa GSW 02/01/2006 GSW @ SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p384
+aVMickael Pietrus GSW 02/01/2006 GSW @ SEA L 36 15 5 11 45.5 3 5 60.0 2 2 100.0 0 3 3 2 0 0 0 4 -9
+p385
+aVAdonal Foyle GSW 02/01/2006 GSW @ SEA L 11 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 1 2 1 -6
+p386
+aVMike Dunleavy GSW 02/01/2006 GSW @ SEA L 27 2 1 7 14.3 0 2 0.0 0 0 - 2 4 6 4 1 1 2 4 4
+p387
+aVDerek Fisher GSW 02/01/2006 GSW @ SEA L 27 16 7 11 63.6 2 4 50.0 0 0 - 0 1 1 1 1 0 0 5 3
+p388
+aVMonta Ellis GSW 02/01/2006 GSW @ SEA L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p389
+aVBaron Davis GSW 02/01/2006 GSW @ SEA L 42 35 11 26 42.3 4 14 28.6 9 13 69.2 1 2 3 9 1 0 5 4 -10
+p390
+aVDerek Fisher GSW 01/28/2006 GSW vs. POR W 38 10 4 11 36.4 2 5 40.0 0 1 0.0 0 0 0 2 0 0 3 2 6
+p391
+aVIke Diogu GSW 01/28/2006 GSW vs. POR W 16 5 1 6 16.7 0 0 - 3 3 100.0 0 3 3 0 1 0 1 2 7
+p392
+aVAndris Biedrins GSW 01/28/2006 GSW vs. POR W 22 5 2 3 66.7 0 0 - 1 2 50.0 3 2 5 0 0 2 0 4 12
+p393
+aVAdonal Foyle GSW 01/28/2006 GSW vs. POR W 23 6 3 4 75.0 0 0 - 0 0 - 3 1 4 0 0 0 1 2 4
+p394
+aVBaron Davis GSW 01/28/2006 GSW vs. POR W 40 29 9 15 60.0 2 4 50.0 9 11 81.8 1 7 8 16 2 0 1 0 17
+p395
+aVZarko Cabarkapa GSW 01/28/2006 GSW vs. POR W 12 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -2
+p396
+aVMonta Ellis GSW 01/28/2006 GSW vs. POR W 27 14 7 10 70.0 0 0 - 0 0 - 2 3 5 0 2 1 1 1 13
+p397
+aVTroy Murphy GSW 01/28/2006 GSW vs. POR W 35 11 4 15 26.7 0 2 0.0 3 6 50.0 6 15 21 2 0 1 4 2 7
+p398
+aVMickael Pietrus GSW 01/28/2006 GSW vs. POR W 27 14 6 13 46.2 0 3 0.0 2 5 40.0 3 2 5 2 1 0 3 5 11
+p399
+aVMike Dunleavy GSW 01/27/2006 GSW @ LAL L 13 0 0 1 0.0 0 1 0.0 0 2 0.0 0 3 3 2 1 0 1 1 -1
+p400
+aVMickael Pietrus GSW 01/27/2006 GSW @ LAL L 37 20 7 17 41.2 3 8 37.5 3 4 75.0 3 7 10 2 1 1 2 5 5
+p401
+aVAdonal Foyle GSW 01/27/2006 GSW @ LAL L 28 4 2 4 50.0 0 0 - 0 1 0.0 2 2 4 0 2 1 3 5 5
+p402
+aVDerek Fisher GSW 01/27/2006 GSW @ LAL L 38 18 4 15 26.7 1 2 50.0 9 10 90.0 1 2 3 4 1 0 3 6 3
+p403
+aVTroy Murphy GSW 01/27/2006 GSW @ LAL L 40 15 6 11 54.5 1 2 50.0 2 2 100.0 5 9 14 1 1 0 3 6 -4
+p404
+aVAndris Biedrins GSW 01/27/2006 GSW @ LAL L 11 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 1 4 0
+p405
+aVZarko Cabarkapa GSW 01/27/2006 GSW @ LAL L 10 6 2 5 40.0 0 0 - 2 3 66.7 2 3 5 0 0 0 0 4 -1
+p406
+aVMonta Ellis GSW 01/27/2006 GSW @ LAL L 31 7 3 8 37.5 0 4 0.0 1 2 50.0 1 5 6 1 2 0 1 1 -10
+p407
+aVBaron Davis GSW 01/27/2006 GSW @ LAL L 44 29 12 29 41.4 3 9 33.3 2 2 100.0 1 0 1 10 3 0 4 6 -2
+p408
+aVIke Diogu GSW 01/27/2006 GSW @ LAL L 13 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p409
+aVJason Richardson GSW 01/25/2006 GSW vs. DAL L 36 17 6 14 42.9 2 5 40.0 3 8 37.5 2 4 6 4 0 0 1 3 2
+p410
+aVZarko Cabarkapa GSW 01/25/2006 GSW vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p411
+aVAndris Biedrins GSW 01/25/2006 GSW vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p412
+aVMickael Pietrus GSW 01/25/2006 GSW vs. DAL L 18 8 3 9 33.3 1 2 50.0 1 4 25.0 3 2 5 0 0 0 0 3 -12
+p413
+aVIke Diogu GSW 01/25/2006 GSW vs. DAL L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 2 1 -6
+p414
+aVAdonal Foyle GSW 01/25/2006 GSW vs. DAL L 33 6 3 5 60.0 0 0 - 0 0 - 3 6 9 1 1 1 1 4 0
+p415
+aVBaron Davis GSW 01/25/2006 GSW vs. DAL L 41 26 8 19 42.1 2 4 50.0 8 9 88.9 2 2 4 10 2 0 4 4 2
+p416
+aVMike Dunleavy GSW 01/25/2006 GSW vs. DAL L 37 8 2 8 25.0 0 1 0.0 4 6 66.7 1 5 6 0 0 1 0 1 -8
+p417
+aVTroy Murphy GSW 01/25/2006 GSW vs. DAL L 39 22 9 15 60.0 1 2 50.0 3 4 75.0 3 11 14 1 0 0 2 3 2
+p418
+aVDerek Fisher GSW 01/25/2006 GSW vs. DAL L 27 6 1 6 16.7 0 4 0.0 4 4 100.0 0 2 2 2 3 0 2 2 -16
+p419
+aVMickael Pietrus GSW 01/23/2006 GSW vs. LAC L 10 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 2 -9
+p420
+aVAndris Biedrins GSW 01/23/2006 GSW vs. LAC L 16 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 0 1 0 2 -7
+p421
+aVIke Diogu GSW 01/23/2006 GSW vs. LAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -5
+p422
+aVDerek Fisher GSW 01/23/2006 GSW vs. LAC L 18 6 3 5 60.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 4 -15
+p423
+aVAdonal Foyle GSW 01/23/2006 GSW vs. LAC L 28 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 3 2 5 11
+p424
+aVTroy Murphy GSW 01/23/2006 GSW vs. LAC L 41 16 7 16 43.8 1 3 33.3 1 2 50.0 9 11 20 2 1 1 2 2 2
+p425
+aVZarko Cabarkapa GSW 01/23/2006 GSW vs. LAC L 7 3 1 2 50.0 0 0 - 1 4 25.0 0 0 0 0 0 0 0 2 -5
+p426
+aVBaron Davis GSW 01/23/2006 GSW vs. LAC L 42 13 5 14 35.7 0 5 0.0 3 6 50.0 0 4 4 10 1 0 3 4 -1
+p427
+aVMike Dunleavy GSW 01/23/2006 GSW vs. LAC L 36 10 4 13 30.8 0 4 0.0 2 6 33.3 3 9 12 4 0 1 3 3 5
+p428
+aVJason Richardson GSW 01/23/2006 GSW vs. LAC L 39 30 11 20 55.0 4 6 66.7 4 5 80.0 2 3 5 4 1 1 1 1 9
+p429
+aVJason Richardson GSW 01/22/2006 GSW @ LAC L 39 23 8 16 50.0 4 6 66.7 3 4 75.0 1 4 5 2 1 0 3 2 -6
+p430
+aVMickael Pietrus GSW 01/22/2006 GSW @ LAC L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -19
+p431
+aVIke Diogu GSW 01/22/2006 GSW @ LAC L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -11
+p432
+aVMike Dunleavy GSW 01/22/2006 GSW @ LAC L 34 9 3 11 27.3 0 3 0.0 3 4 75.0 1 5 6 3 0 0 3 4 -11
+p433
+aVDerek Fisher GSW 01/22/2006 GSW @ LAC L 32 16 6 10 60.0 2 3 66.7 2 2 100.0 0 1 1 2 2 0 0 3 -2
+p434
+aVAndris Biedrins GSW 01/22/2006 GSW @ LAC L 13 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 1 0 3 0
+p435
+aVBaron Davis GSW 01/22/2006 GSW @ LAC L 40 22 6 16 37.5 1 3 33.3 9 10 90.0 0 4 4 5 4 0 2 1 0
+p436
+aVAdonal Foyle GSW 01/22/2006 GSW @ LAC L 30 7 3 6 50.0 0 0 - 1 1 100.0 1 4 5 1 1 1 1 4 -4
+p437
+aVTroy Murphy GSW 01/22/2006 GSW @ LAC L 32 13 3 10 30.0 1 5 20.0 6 6 100.0 0 2 2 3 0 0 1 0 -12
+p438
+aVAndris Biedrins GSW 01/20/2006 GSW vs. CLE W 13 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 1 0 5 2
+p439
+aVZarko Cabarkapa GSW 01/20/2006 GSW vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p440
+aVMickael Pietrus GSW 01/20/2006 GSW vs. CLE W 25 11 4 10 40.0 1 3 33.3 2 8 25.0 3 1 4 1 1 0 2 3 9
+p441
+aVJason Richardson GSW 01/20/2006 GSW vs. CLE W 39 22 7 17 41.2 3 3 100.0 5 7 71.4 1 4 5 5 3 0 4 2 10
+p442
+aVIke Diogu GSW 01/20/2006 GSW vs. CLE W 12 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 2 0 13
+p443
+aVMonta Ellis GSW 01/20/2006 GSW vs. CLE W 2 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 3
+p444
+aVAdonal Foyle GSW 01/20/2006 GSW vs. CLE W 26 2 1 4 25.0 0 0 - 0 1 0.0 0 5 5 0 0 2 1 3 18
+p445
+aVTroy Murphy GSW 01/20/2006 GSW vs. CLE W 38 16 5 9 55.6 1 2 50.0 5 6 83.3 1 10 11 3 0 1 0 4 9
+p446
+aVDerek Fisher GSW 01/20/2006 GSW vs. CLE W 42 17 7 15 46.7 2 4 50.0 1 2 50.0 0 5 5 9 6 0 3 1 19
+p447
+aVMike Dunleavy GSW 01/20/2006 GSW vs. CLE W 41 22 9 14 64.3 0 1 0.0 4 6 66.7 1 5 6 4 3 0 2 2 14
+p448
+aVZarko Cabarkapa GSW 01/16/2006 GSW vs. SEA W 8 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 4
+p449
+aVDerek Fisher GSW 01/16/2006 GSW vs. SEA W 23 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 4 0 0 0 2 0
+p450
+aVJason Richardson GSW 01/16/2006 GSW vs. SEA W 36 26 10 16 62.5 1 4 25.0 5 7 71.4 2 3 5 4 0 0 1 1 23
+p451
+aVMike Dunleavy GSW 01/16/2006 GSW vs. SEA W 42 22 9 16 56.3 2 4 50.0 2 2 100.0 1 3 4 3 1 0 0 1 22
+p452
+aVTroy Murphy GSW 01/16/2006 GSW vs. SEA W 31 12 4 11 36.4 1 4 25.0 3 4 75.0 3 4 7 3 1 0 1 2 10
+p453
+aVAndris Biedrins GSW 01/16/2006 GSW vs. SEA W 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 4
+p454
+aVIke Diogu GSW 01/16/2006 GSW vs. SEA W 9 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 3 -7
+p455
+aVBaron Davis GSW 01/16/2006 GSW vs. SEA W 38 25 10 17 58.8 2 5 40.0 3 6 50.0 1 8 9 10 1 0 6 4 13
+p456
+aVMickael Pietrus GSW 01/16/2006 GSW vs. SEA W 15 19 7 9 77.8 3 3 100.0 2 2 100.0 0 0 0 0 0 0 4 2 -1
+p457
+aVAdonal Foyle GSW 01/16/2006 GSW vs. SEA W 30 4 2 3 66.7 0 0 - 0 0 - 1 10 11 1 2 3 1 4 17
+p458
+aVMonta Ellis GSW 01/16/2006 GSW vs. SEA W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p459
+aVDerek Fisher GSW 01/14/2006 GSW vs. LAL L 29 9 3 8 37.5 1 4 25.0 2 2 100.0 1 1 2 6 2 0 0 4 5
+p460
+aVAndris Biedrins GSW 01/14/2006 GSW vs. LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p461
+aVTroy Murphy GSW 01/14/2006 GSW vs. LAL L 30 12 5 12 41.7 0 2 0.0 2 2 100.0 5 6 11 1 0 0 1 3 -7
+p462
+aVIke Diogu GSW 01/14/2006 GSW vs. LAL L 16 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 0 2 2 3 -7
+p463
+aVMickael Pietrus GSW 01/14/2006 GSW vs. LAL L 15 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 0 0 0 1 3 -10
+p464
+aVBaron Davis GSW 01/14/2006 GSW vs. LAL L 40 24 10 21 47.6 3 8 37.5 1 2 50.0 4 7 11 13 1 0 3 4 -1
+p465
+aVZarko Cabarkapa GSW 01/14/2006 GSW vs. LAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p466
+aVJason Richardson GSW 01/14/2006 GSW vs. LAL L 43 37 14 27 51.9 5 10 50.0 4 10 40.0 2 2 4 0 4 1 2 4 -9
+p467
+aVAdonal Foyle GSW 01/14/2006 GSW vs. LAL L 25 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 2 0 0 1 8
+p468
+aVMike Dunleavy GSW 01/14/2006 GSW vs. LAL L 34 13 5 14 35.7 1 4 25.0 2 2 100.0 0 4 4 0 1 1 1 3 -5
+p469
+aVDerek Fisher GSW 01/12/2006 GSW @ PHX L 32 15 5 12 41.7 3 5 60.0 2 4 50.0 0 5 5 1 1 0 0 3 3
+p470
+aVAndris Biedrins GSW 01/12/2006 GSW @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p471
+aVMike Dunleavy GSW 01/12/2006 GSW @ PHX L 38 15 7 14 50.0 1 4 25.0 0 0 - 2 7 9 5 0 2 1 1 -24
+p472
+aVIke Diogu GSW 01/12/2006 GSW @ PHX L 26 13 5 9 55.6 0 0 - 3 3 100.0 4 4 8 1 0 0 0 1 -12
+p473
+aVTroy Murphy GSW 01/12/2006 GSW @ PHX L 28 8 3 13 23.1 0 3 0.0 2 2 100.0 2 9 11 3 2 0 0 1 -16
+p474
+aVZarko Cabarkapa GSW 01/12/2006 GSW @ PHX L 22 10 4 10 40.0 0 1 0.0 2 2 100.0 4 7 11 1 1 0 1 4 4
+p475
+aVJason Richardson GSW 01/12/2006 GSW @ PHX L 39 12 5 14 35.7 1 5 20.0 1 3 33.3 1 6 7 4 1 2 1 0 -6
+p476
+aVBaron Davis GSW 01/12/2006 GSW @ PHX L 38 22 8 23 34.8 3 11 27.3 3 6 50.0 0 1 1 7 1 0 3 4 -7
+p477
+aVMonta Ellis GSW 01/12/2006 GSW @ PHX L 12 4 2 6 33.3 0 1 0.0 0 0 - 2 0 2 0 1 0 1 0 -5
+p478
+aVAdonal Foyle GSW 01/11/2006 GSW vs. MIA L 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -6
+p479
+aVMike Dunleavy GSW 01/11/2006 GSW vs. MIA L 41 21 8 19 42.1 2 5 40.0 3 4 75.0 0 3 3 4 3 0 2 3 -11
+p480
+aVZarko Cabarkapa GSW 01/11/2006 GSW vs. MIA L 15 5 2 6 33.3 0 1 0.0 1 3 33.3 1 3 4 1 0 1 0 2 -15
+p481
+aVChris Taft GSW 01/11/2006 GSW vs. MIA L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p482
+aVDerek Fisher GSW 01/11/2006 GSW vs. MIA L 27 12 4 13 30.8 2 4 50.0 2 2 100.0 0 3 3 4 2 0 1 2 -3
+p483
+aVMonta Ellis GSW 01/11/2006 GSW vs. MIA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p484
+aVBaron Davis GSW 01/11/2006 GSW vs. MIA L 35 26 9 20 45.0 4 9 44.4 4 4 100.0 0 2 2 6 1 0 0 3 -12
+p485
+aVJason Richardson GSW 01/11/2006 GSW vs. MIA L 34 15 4 13 30.8 1 4 25.0 6 8 75.0 1 4 5 4 0 0 1 1 -11
+p486
+aVTroy Murphy GSW 01/11/2006 GSW vs. MIA L 33 7 2 7 28.6 0 2 0.0 3 3 100.0 1 9 10 3 1 0 1 3 1
+p487
+aVAndris Biedrins GSW 01/11/2006 GSW vs. MIA L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -9
+p488
+aVIke Diogu GSW 01/11/2006 GSW vs. MIA L 25 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 0 1 0 0 3 -1
+p489
+aVBaron Davis GSW 01/05/2006 GSW vs. IND L 39 16 6 15 40.0 0 2 0.0 4 4 100.0 1 6 7 7 0 1 0 5 -3
+p490
+aVAndris Biedrins GSW 01/05/2006 GSW vs. IND L 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -11
+p491
+aVJason Richardson GSW 01/05/2006 GSW vs. IND L 33 17 6 14 42.9 1 6 16.7 4 8 50.0 1 2 3 1 1 2 2 5 -1
+p492
+aVMike Dunleavy GSW 01/05/2006 GSW vs. IND L 45 19 8 12 66.7 1 4 25.0 2 2 100.0 1 5 6 4 2 0 2 1 -10
+p493
+aVDerek Fisher GSW 01/05/2006 GSW vs. IND L 33 5 0 8 0.0 0 6 0.0 5 6 83.3 0 1 1 2 2 0 3 4 -5
+p494
+aVZarko Cabarkapa GSW 01/05/2006 GSW vs. IND L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -5
+p495
+aVIke Diogu GSW 01/05/2006 GSW vs. IND L 38 16 6 10 60.0 0 0 - 4 6 66.7 3 9 12 1 0 1 4 2 1
+p496
+aVTroy Murphy GSW 01/05/2006 GSW vs. IND L 27 8 3 11 27.3 1 2 50.0 1 2 50.0 2 3 5 1 0 1 0 3 -5
+p497
+aVCalbert Cheaney GSW 01/05/2006 GSW vs. IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -11
+p498
+aVMonta Ellis GSW 01/05/2006 GSW vs. IND L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p499
+aVCalbert Cheaney GSW 01/03/2006 GSW @ MEM L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p500
+aVMonta Ellis GSW 01/03/2006 GSW @ MEM L 8 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 1 0 1 0 2 8
+p501
+aVMike Dunleavy GSW 01/03/2006 GSW @ MEM L 31 10 5 11 45.5 0 1 0.0 0 0 - 2 5 7 5 1 0 1 2 -4
+p502
+aVJason Richardson GSW 01/03/2006 GSW @ MEM L 44 20 8 19 42.1 4 10 40.0 0 0 - 0 3 3 3 1 1 1 2 -7
+p503
+aVIke Diogu GSW 01/03/2006 GSW @ MEM L 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -18
+p504
+aVBaron Davis GSW 01/03/2006 GSW @ MEM L 35 7 3 9 33.3 0 2 0.0 1 2 50.0 0 3 3 7 2 0 5 1 -21
+p505
+aVTroy Murphy GSW 01/03/2006 GSW @ MEM L 32 17 8 18 44.4 0 2 0.0 1 1 100.0 1 6 7 1 2 0 0 3 -18
+p506
+aVAndris Biedrins GSW 01/03/2006 GSW @ MEM L 16 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 1 1 0 3 6
+p507
+aVChris Taft GSW 01/03/2006 GSW @ MEM L 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -3
+p508
+aVZarko Cabarkapa GSW 01/03/2006 GSW @ MEM L 15 7 1 5 20.0 0 1 0.0 5 6 83.3 0 2 2 1 1 0 1 5 10
+p509
+aVDerek Fisher GSW 01/03/2006 GSW @ MEM L 32 18 6 8 75.0 3 4 75.0 3 3 100.0 0 2 2 3 2 0 3 4 2
+p510
+aVMike Dunleavy GSW 12/31/2005 GSW @ HOU W 26 4 1 5 20.0 0 2 0.0 2 2 100.0 1 6 7 3 0 0 0 1 3
+p511
+aVZarko Cabarkapa GSW 12/31/2005 GSW @ HOU W 10 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 3 -1
+p512
+aVCalbert Cheaney GSW 12/31/2005 GSW @ HOU W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -9
+p513
+aVBaron Davis GSW 12/31/2005 GSW @ HOU W 44 23 8 22 36.4 4 9 44.4 3 7 42.9 1 4 5 7 2 0 2 3 10
+p514
+aVChris Taft GSW 12/31/2005 GSW @ HOU W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 7
+p515
+aVTroy Murphy GSW 12/31/2005 GSW @ HOU W 37 12 3 12 25.0 0 4 0.0 6 7 85.7 0 7 7 2 0 0 0 2 6
+p516
+aVJason Richardson GSW 12/31/2005 GSW @ HOU W 41 22 9 22 40.9 2 6 33.3 2 2 100.0 2 4 6 5 2 0 1 4 9
+p517
+aVAndris Biedrins GSW 12/31/2005 GSW @ HOU W 15 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 0 0 0 0 2 -8
+p518
+aVDerek Fisher GSW 12/31/2005 GSW @ HOU W 30 9 2 7 28.6 0 3 0.0 5 5 100.0 0 3 3 0 0 0 0 1 -7
+p519
+aVIke Diogu GSW 12/31/2005 GSW @ HOU W 22 13 4 4 100.0 0 0 - 5 6 83.3 2 0 2 0 0 0 0 5 15
+p520
+aVMike Dunleavy GSW 12/30/2005 GSW @ DAL W 22 6 2 8 25.0 0 1 0.0 2 2 100.0 2 1 3 0 0 1 1 3 -5
+p521
+aVAndris Biedrins GSW 12/30/2005 GSW @ DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p522
+aVTroy Murphy GSW 12/30/2005 GSW @ DAL W 40 18 7 12 58.3 0 1 0.0 4 6 66.7 5 9 14 1 1 0 3 4 6
+p523
+aVCalbert Cheaney GSW 12/30/2005 GSW @ DAL W 15 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -13
+p524
+aVJason Richardson GSW 12/30/2005 GSW @ DAL W 39 32 12 26 46.2 3 7 42.9 5 5 100.0 1 7 8 3 0 1 0 4 10
+p525
+aVZarko Cabarkapa GSW 12/30/2005 GSW @ DAL W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -5
+p526
+aVDerek Fisher GSW 12/30/2005 GSW @ DAL W 31 7 2 8 25.0 1 2 50.0 2 2 100.0 1 0 1 6 1 0 2 2 8
+p527
+aVBaron Davis GSW 12/30/2005 GSW @ DAL W 40 34 11 18 61.1 5 8 62.5 7 9 77.8 2 5 7 5 3 2 4 3 9
+p528
+aVAdonal Foyle GSW 12/30/2005 GSW @ DAL W 18 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 4 0 3 10
+p529
+aVIke Diogu GSW 12/30/2005 GSW @ DAL W 25 8 3 5 60.0 0 0 - 2 2 100.0 3 1 4 3 0 1 2 4 -6
+p530
+aVAndris Biedrins GSW 12/28/2005 GSW vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p531
+aVAdonal Foyle GSW 12/28/2005 GSW vs. BOS W 23 7 2 2 100.0 0 0 - 3 6 50.0 2 4 6 2 3 5 0 4 10
+p532
+aVMike Dunleavy GSW 12/28/2005 GSW vs. BOS W 37 15 7 14 50.0 1 5 20.0 0 0 - 1 5 6 7 1 0 1 3 7
+p533
+aVIke Diogu GSW 12/28/2005 GSW vs. BOS W 24 12 5 7 71.4 0 0 - 2 2 100.0 1 0 1 1 0 1 1 6 -8
+p534
+aVBaron Davis GSW 12/28/2005 GSW vs. BOS W 41 11 4 9 44.4 0 3 0.0 3 3 100.0 0 4 4 12 5 0 3 3 3
+p535
+aVJason Richardson GSW 12/28/2005 GSW vs. BOS W 42 36 16 24 66.7 3 6 50.0 1 1 100.0 1 3 4 4 5 1 2 2 4
+p536
+aVCalbert Cheaney GSW 12/28/2005 GSW vs. BOS W 7 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 2 -2
+p537
+aVTroy Murphy GSW 12/28/2005 GSW vs. BOS W 37 17 5 13 38.5 1 3 33.3 6 11 54.5 1 3 4 0 0 0 0 3 -5
+p538
+aVAaron Miles GSW 12/28/2005 GSW vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 2
+p539
+aVDerek Fisher GSW 12/28/2005 GSW vs. BOS W 26 9 4 11 36.4 1 5 20.0 0 0 - 1 1 2 3 3 0 1 1 1
+p540
+aVMike Dunleavy GSW 12/26/2005 GSW vs. DEN L 40 24 10 17 58.8 0 2 0.0 4 5 80.0 0 2 2 3 0 0 1 3 -20
+p541
+aVJason Richardson GSW 12/26/2005 GSW vs. DEN L 42 26 10 20 50.0 3 5 60.0 3 6 50.0 4 8 12 2 3 0 4 4 -1
+p542
+aVIke Diogu GSW 12/26/2005 GSW vs. DEN L 19 12 5 7 71.4 0 0 - 2 2 100.0 1 1 2 1 0 0 1 2 4
+p543
+aVDerek Fisher GSW 12/26/2005 GSW vs. DEN L 32 13 3 12 25.0 2 3 66.7 5 6 83.3 0 1 1 6 2 1 0 2 3
+p544
+aVCalbert Cheaney GSW 12/26/2005 GSW vs. DEN L 19 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 1 0 0 2 16
+p545
+aVAdonal Foyle GSW 12/26/2005 GSW vs. DEN L 13 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -11
+p546
+aVBaron Davis GSW 12/26/2005 GSW vs. DEN L 41 16 5 12 41.7 3 5 60.0 3 6 50.0 1 4 5 11 1 0 4 3 -5
+p547
+aVTroy Murphy GSW 12/26/2005 GSW vs. DEN L 30 21 8 12 66.7 3 4 75.0 2 2 100.0 2 4 6 1 0 1 4 4 -11
+p548
+aVZarko Cabarkapa GSW 12/26/2005 GSW vs. DEN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -5
+p549
+aVIke Diogu GSW 12/23/2005 GSW @ DET L 32 27 13 15 86.7 0 0 - 1 2 50.0 3 4 7 0 0 0 2 3 -2
+p550
+aVCalbert Cheaney GSW 12/23/2005 GSW @ DET L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p551
+aVZarko Cabarkapa GSW 12/23/2005 GSW @ DET L 18 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 2 3
+p552
+aVMike Dunleavy GSW 12/23/2005 GSW @ DET L 24 7 3 5 60.0 1 1 100.0 0 0 - 1 2 3 3 0 0 0 3 -14
+p553
+aVAdonal Foyle GSW 12/23/2005 GSW @ DET L 13 2 1 5 20.0 0 0 - 0 0 - 3 3 6 2 0 1 2 1 -12
+p554
+aVBaron Davis GSW 12/23/2005 GSW @ DET L 43 14 7 16 43.8 0 1 0.0 0 2 0.0 0 1 1 10 0 0 3 3 -5
+p555
+aVJason Richardson GSW 12/23/2005 GSW @ DET L 35 14 5 15 33.3 3 5 60.0 1 2 50.0 3 6 9 2 1 2 2 5 -9
+p556
+aVAndris Biedrins GSW 12/23/2005 GSW @ DET L 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p557
+aVTroy Murphy GSW 12/23/2005 GSW @ DET L 30 11 4 13 30.8 1 3 33.3 2 3 66.7 3 8 11 0 0 0 1 3 -15
+p558
+aVDerek Fisher GSW 12/23/2005 GSW @ DET L 31 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 0 1 0 0 4 -2
+p559
+aVJason Richardson GSW 12/21/2005 GSW @ PHI L 41 24 8 18 44.4 3 7 42.9 5 6 83.3 1 3 4 6 0 0 4 4 -13
+p560
+aVAndris Biedrins GSW 12/21/2005 GSW @ PHI L 18 8 4 4 100.0 0 0 - 0 0 - 1 2 3 0 0 2 1 1 -2
+p561
+aVIke Diogu GSW 12/21/2005 GSW @ PHI L 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -3
+p562
+aVDerek Fisher GSW 12/21/2005 GSW @ PHI L 30 7 3 9 33.3 1 5 20.0 0 0 - 0 4 4 3 0 1 0 0 -5
+p563
+aVBaron Davis GSW 12/21/2005 GSW @ PHI L 38 16 7 17 41.2 2 8 25.0 0 1 0.0 1 3 4 7 1 2 2 3 -3
+p564
+aVAdonal Foyle GSW 12/21/2005 GSW @ PHI L 28 4 2 3 66.7 0 0 - 0 0 - 4 5 9 1 0 0 3 5 -4
+p565
+aVCalbert Cheaney GSW 12/21/2005 GSW @ PHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p566
+aVMike Dunleavy GSW 12/21/2005 GSW @ PHI L 31 11 3 8 37.5 2 2 100.0 3 6 50.0 1 5 6 2 1 0 2 2 -12
+p567
+aVTroy Murphy GSW 12/21/2005 GSW @ PHI L 37 22 6 14 42.9 0 1 0.0 10 10 100.0 2 5 7 1 1 0 2 4 -14
+p568
+aVZarko Cabarkapa GSW 12/21/2005 GSW @ PHI L 8 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 1
+p569
+aVZarko Cabarkapa GSW 12/19/2005 GSW @ BOS L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p570
+aVAndris Biedrins GSW 12/19/2005 GSW @ BOS L 15 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 1 0 1 2 0
+p571
+aVJason Richardson GSW 12/19/2005 GSW @ BOS L 42 23 10 25 40.0 3 6 50.0 0 0 - 0 0 0 2 5 0 2 4 -1
+p572
+aVDerek Fisher GSW 12/19/2005 GSW @ BOS L 24 12 4 10 40.0 1 3 33.3 3 3 100.0 0 1 1 1 0 1 4 4 -20
+p573
+aVIke Diogu GSW 12/19/2005 GSW @ BOS L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p574
+aVTroy Murphy GSW 12/19/2005 GSW @ BOS L 42 27 9 20 45.0 1 5 20.0 8 10 80.0 2 10 12 1 1 0 0 1 -4
+p575
+aVAdonal Foyle GSW 12/19/2005 GSW @ BOS L 26 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 1 2 0 5 -3
+p576
+aVBaron Davis GSW 12/19/2005 GSW @ BOS L 38 24 8 19 42.1 0 5 0.0 8 13 61.5 2 3 5 9 1 0 3 3 -1
+p577
+aVMike Dunleavy GSW 12/19/2005 GSW @ BOS L 29 4 2 5 40.0 0 1 0.0 0 0 - 3 7 10 1 0 1 2 6 0
+p578
+aVAaron Miles GSW 12/19/2005 GSW @ BOS L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p579
+aVCalbert Cheaney GSW 12/19/2005 GSW @ BOS L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -13
+p580
+aVAndris Biedrins GSW 12/18/2005 GSW @ NJN L 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -2
+p581
+aVAaron Miles GSW 12/18/2005 GSW @ NJN L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 1 0 -4
+p582
+aVAdonal Foyle GSW 12/18/2005 GSW @ NJN L 23 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 1 1 0 2 -15
+p583
+aVIke Diogu GSW 12/18/2005 GSW @ NJN L 11 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 1 3 -11
+p584
+aVJason Richardson GSW 12/18/2005 GSW @ NJN L 29 12 4 12 33.3 1 4 25.0 3 4 75.0 0 2 2 2 1 0 0 2 -27
+p585
+aVMonta Ellis GSW 12/18/2005 GSW @ NJN L 14 8 3 8 37.5 2 3 66.7 0 0 - 0 1 1 0 1 0 0 0 1
+p586
+aVCalbert Cheaney GSW 12/18/2005 GSW @ NJN L 20 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -8
+p587
+aVZarko Cabarkapa GSW 12/18/2005 GSW @ NJN L 18 8 3 5 60.0 0 1 0.0 2 2 100.0 1 3 4 0 2 0 4 3 -6
+p588
+aVMike Dunleavy GSW 12/18/2005 GSW @ NJN L 24 9 1 6 16.7 0 4 0.0 7 8 87.5 0 1 1 3 2 0 2 2 -20
+p589
+aVBaron Davis GSW 12/18/2005 GSW @ NJN L 28 18 6 14 42.9 3 6 50.0 3 4 75.0 0 3 3 5 1 0 3 2 -20
+p590
+aVDerek Fisher GSW 12/18/2005 GSW @ NJN L 19 7 3 8 37.5 0 2 0.0 1 2 50.0 0 4 4 2 0 0 0 1 -6
+p591
+aVTroy Murphy GSW 12/18/2005 GSW @ NJN L 30 19 5 10 50.0 3 5 60.0 6 8 75.0 0 6 6 1 1 0 1 0 -22
+p592
+aVMike Dunleavy GSW 12/16/2005 GSW @ TOR W 24 1 0 5 0.0 0 3 0.0 1 2 50.0 0 0 0 1 1 0 0 2 -2
+p593
+aVAndris Biedrins GSW 12/16/2005 GSW @ TOR W 21 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 2 0 0 2 14
+p594
+aVBaron Davis GSW 12/16/2005 GSW @ TOR W 38 20 7 14 50.0 3 4 75.0 3 6 50.0 0 4 4 11 2 1 1 3 9
+p595
+aVDerek Fisher GSW 12/16/2005 GSW @ TOR W 31 21 8 13 61.5 4 6 66.7 1 2 50.0 1 2 3 6 3 0 2 3 19
+p596
+aVZarko Cabarkapa GSW 12/16/2005 GSW @ TOR W 19 13 4 7 57.1 3 4 75.0 2 2 100.0 1 2 3 1 0 0 3 2 1
+p597
+aVJason Richardson GSW 12/16/2005 GSW @ TOR W 35 23 7 16 43.8 4 7 57.1 5 8 62.5 1 0 1 3 0 0 2 4 5
+p598
+aVTroy Murphy GSW 12/16/2005 GSW @ TOR W 36 20 7 12 58.3 3 4 75.0 3 3 100.0 0 8 8 4 1 0 1 3 3
+p599
+aVAaron Miles GSW 12/16/2005 GSW @ TOR W 10 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 0 0 1 1
+p600
+aVCalbert Cheaney GSW 12/16/2005 GSW @ TOR W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 1 8
+p601
+aVAdonal Foyle GSW 12/16/2005 GSW @ TOR W 14 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -8
+p602
+aVAdonal Foyle GSW 12/14/2005 GSW vs. HOU L 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 4 9
+p603
+aVIke Diogu GSW 12/14/2005 GSW vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p604
+aVAndris Biedrins GSW 12/14/2005 GSW vs. HOU L 16 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 2 0 1 2 -3
+p605
+aVBaron Davis GSW 12/14/2005 GSW vs. HOU L 44 27 8 19 42.1 5 11 45.5 6 7 85.7 0 6 6 13 2 0 0 2 -7
+p606
+aVCalbert Cheaney GSW 12/14/2005 GSW vs. HOU L 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -7
+p607
+aVZarko Cabarkapa GSW 12/14/2005 GSW vs. HOU L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -2
+p608
+aVTroy Murphy GSW 12/14/2005 GSW vs. HOU L 42 19 5 15 33.3 3 10 30.0 6 11 54.5 0 2 2 2 0 1 3 3 -8
+p609
+aVJason Richardson GSW 12/14/2005 GSW vs. HOU L 44 28 12 26 46.2 4 8 50.0 0 0 - 3 6 9 4 1 0 1 5 -5
+p610
+aVMike Dunleavy GSW 12/14/2005 GSW vs. HOU L 48 6 2 10 20.0 1 5 20.0 1 2 50.0 1 3 4 6 1 1 1 4 0
+p611
+aVDerek Fisher GSW 12/14/2005 GSW vs. HOU L 36 15 5 10 50.0 2 3 66.7 3 3 100.0 1 3 4 2 1 0 0 2 -6
+p612
+aVCalbert Cheaney GSW 12/13/2005 GSW @ SEA W 17 10 4 5 80.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 3
+p613
+aVDerek Fisher GSW 12/13/2005 GSW @ SEA W 35 26 8 16 50.0 2 9 22.2 8 8 100.0 1 2 3 5 1 0 0 4 7
+p614
+aVTroy Murphy GSW 12/13/2005 GSW @ SEA W 40 14 4 9 44.4 2 3 66.7 4 4 100.0 2 12 14 0 1 1 1 1 5
+p615
+aVMike Dunleavy GSW 12/13/2005 GSW @ SEA W 41 16 5 9 55.6 1 3 33.3 5 5 100.0 1 6 7 1 0 0 0 3 1
+p616
+aVIke Diogu GSW 12/13/2005 GSW @ SEA W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 5 5
+p617
+aVZarko Cabarkapa GSW 12/13/2005 GSW @ SEA W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p618
+aVJason Richardson GSW 12/13/2005 GSW @ SEA W 42 16 7 17 41.2 1 5 20.0 1 3 33.3 2 3 5 2 2 0 5 3 -5
+p619
+aVBaron Davis GSW 12/13/2005 GSW @ SEA W 45 21 7 18 38.9 2 5 40.0 5 7 71.4 1 3 4 13 3 0 5 5 2
+p620
+aVAndris Biedrins GSW 12/13/2005 GSW @ SEA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 3
+p621
+aVAdonal Foyle GSW 12/13/2005 GSW @ SEA W 25 7 3 4 75.0 0 0 - 1 2 50.0 1 6 7 0 0 2 1 4 -10
+p622
+aVBaron Davis GSW 12/09/2005 GSW vs. DET L 41 14 5 18 27.8 0 5 0.0 4 4 100.0 1 4 5 14 1 0 2 5 0
+p623
+aVTroy Murphy GSW 12/09/2005 GSW vs. DET L 39 8 3 7 42.9 0 2 0.0 2 2 100.0 3 10 13 1 0 1 1 3 -7
+p624
+aVZarko Cabarkapa GSW 12/09/2005 GSW vs. DET L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 3
+p625
+aVAdonal Foyle GSW 12/09/2005 GSW vs. DET L 30 6 3 7 42.9 0 0 - 0 0 - 4 4 8 0 1 1 1 3 -2
+p626
+aVIke Diogu GSW 12/09/2005 GSW vs. DET L 17 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 1 2 2 5 -2
+p627
+aVCalbert Cheaney GSW 12/09/2005 GSW vs. DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p628
+aVMike Dunleavy GSW 12/09/2005 GSW vs. DET L 38 15 5 11 45.5 2 3 66.7 3 3 100.0 0 1 1 1 2 0 1 3 -7
+p629
+aVJason Richardson GSW 12/09/2005 GSW vs. DET L 42 36 15 26 57.7 2 5 40.0 4 4 100.0 2 4 6 1 1 2 3 1 1
+p630
+aVDerek Fisher GSW 12/09/2005 GSW vs. DET L 24 15 3 10 30.0 0 3 0.0 9 10 90.0 0 2 2 2 2 0 0 0 -1
+p631
+aVZarko Cabarkapa GSW 12/07/2005 GSW vs. PHX L 8 9 4 4 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 1
+p632
+aVDerek Fisher GSW 12/07/2005 GSW vs. PHX L 38 18 9 13 69.2 0 0 - 0 0 - 0 2 2 4 1 0 2 5 -3
+p633
+aVJason Richardson GSW 12/07/2005 GSW vs. PHX L 41 17 7 18 38.9 1 3 33.3 2 4 50.0 0 9 9 4 3 0 5 2 4
+p634
+aVAdonal Foyle GSW 12/07/2005 GSW vs. PHX L 20 2 1 5 20.0 0 0 - 0 2 0.0 1 4 5 0 0 1 2 3 -13
+p635
+aVMonta Ellis GSW 12/07/2005 GSW vs. PHX L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 1 0 1 1 -3
+p636
+aVAndris Biedrins GSW 12/07/2005 GSW vs. PHX L 16 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -4
+p637
+aVBaron Davis GSW 12/07/2005 GSW vs. PHX L 41 28 11 25 44.0 3 11 27.3 3 7 42.9 0 6 6 4 3 0 3 6 -11
+p638
+aVIke Diogu GSW 12/07/2005 GSW vs. PHX L 9 8 3 4 75.0 0 0 - 2 2 100.0 2 1 3 0 1 0 0 1 12
+p639
+aVMike Dunleavy GSW 12/07/2005 GSW vs. PHX L 42 21 7 13 53.8 2 4 50.0 5 6 83.3 0 9 9 4 0 0 3 3 -12
+p640
+aVCalbert Cheaney GSW 12/07/2005 GSW vs. PHX L 17 4 0 5 0.0 0 1 0.0 4 4 100.0 1 3 4 2 1 0 0 1 -11
+p641
+aVTroy Murphy GSW 12/02/2005 GSW vs. CHA W 31 18 5 15 33.3 2 6 33.3 6 6 100.0 1 11 12 0 0 0 1 5 12
+p642
+aVIke Diogu GSW 12/02/2005 GSW vs. CHA W 12 2 1 5 20.0 0 0 - 0 2 0.0 2 1 3 1 0 0 1 4 0
+p643
+aVBaron Davis GSW 12/02/2005 GSW vs. CHA W 45 21 6 18 33.3 3 9 33.3 6 8 75.0 3 2 5 14 1 1 5 4 13
+p644
+aVJason Richardson GSW 12/02/2005 GSW vs. CHA W 38 22 8 21 38.1 0 5 0.0 6 8 75.0 2 4 6 2 3 0 2 4 0
+p645
+aVAdonal Foyle GSW 12/02/2005 GSW vs. CHA W 29 12 5 8 62.5 0 0 - 2 2 100.0 3 9 12 1 0 5 1 4 -1
+p646
+aVZarko Cabarkapa GSW 12/02/2005 GSW vs. CHA W 8 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 4 -3
+p647
+aVCalbert Cheaney GSW 12/02/2005 GSW vs. CHA W 9 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 7
+p648
+aVAndris Biedrins GSW 12/02/2005 GSW vs. CHA W 14 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 1 2 1 2 2
+p649
+aVMike Dunleavy GSW 12/02/2005 GSW vs. CHA W 16 2 1 2 50.0 0 0 - 0 0 - 0 5 5 3 0 0 2 4 11
+p650
+aVAaron Miles GSW 12/02/2005 GSW vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p651
+aVDerek Fisher GSW 12/02/2005 GSW vs. CHA W 36 17 5 10 50.0 3 7 42.9 4 5 80.0 1 3 4 2 1 0 3 2 -2
+p652
+aVMike Dunleavy GSW 11/30/2005 GSW vs. SAC W 35 19 5 9 55.6 3 4 75.0 6 6 100.0 2 3 5 2 1 0 2 4 0
+p653
+aVAdonal Foyle GSW 11/30/2005 GSW vs. SAC W 32 10 5 5 100.0 0 0 - 0 0 - 4 9 13 2 2 1 0 6 1
+p654
+aVAndris Biedrins GSW 11/30/2005 GSW vs. SAC W 10 0 0 0 - 0 0 - 0 0 - 3 5 8 0 0 0 2 5 0
+p655
+aVBaron Davis GSW 11/30/2005 GSW vs. SAC W 45 25 9 22 40.9 6 12 50.0 1 2 50.0 4 1 5 16 0 0 5 1 2
+p656
+aVCalbert Cheaney GSW 11/30/2005 GSW vs. SAC W 3 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p657
+aVDerek Fisher GSW 11/30/2005 GSW vs. SAC W 19 10 3 10 30.0 1 5 20.0 3 3 100.0 1 1 2 0 0 0 1 4 8
+p658
+aVTroy Murphy GSW 11/30/2005 GSW vs. SAC W 43 14 5 14 35.7 1 4 25.0 3 7 42.9 3 7 10 1 2 0 3 4 9
+p659
+aVIke Diogu GSW 11/30/2005 GSW vs. SAC W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 2
+p660
+aVJason Richardson GSW 11/30/2005 GSW vs. SAC W 43 33 13 27 48.1 1 7 14.3 6 8 75.0 0 6 6 6 2 1 1 3 11
+p661
+aVAaron Miles GSW 11/30/2005 GSW vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p662
+aVCalbert Cheaney GSW 11/28/2005 GSW vs. NOK W 20 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 2 0 1 1 7
+p663
+aVAdonal Foyle GSW 11/28/2005 GSW vs. NOK W 17 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 0 2 1 3 13
+p664
+aVMike Dunleavy GSW 11/28/2005 GSW vs. NOK W 21 10 5 8 62.5 0 1 0.0 0 1 0.0 1 4 5 2 0 1 1 0 3
+p665
+aVBaron Davis GSW 11/28/2005 GSW vs. NOK W 34 17 7 16 43.8 1 9 11.1 2 2 100.0 0 1 1 9 3 0 3 4 15
+p666
+aVAndris Biedrins GSW 11/28/2005 GSW vs. NOK W 17 4 2 3 66.7 0 0 - 0 0 - 5 2 7 0 1 0 0 3 -1
+p667
+aVIke Diogu GSW 11/28/2005 GSW vs. NOK W 16 7 2 7 28.6 0 0 - 3 3 100.0 5 0 5 1 0 0 2 3 4
+p668
+aVAaron Miles GSW 11/28/2005 GSW vs. NOK W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 4 1 0 1 1 1
+p669
+aVChris Taft GSW 11/28/2005 GSW vs. NOK W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p670
+aVTroy Murphy GSW 11/28/2005 GSW vs. NOK W 31 16 5 13 38.5 1 3 33.3 5 5 100.0 3 7 10 0 0 0 1 2 12
+p671
+aVDerek Fisher GSW 11/28/2005 GSW vs. NOK W 28 17 6 10 60.0 5 6 83.3 0 0 - 0 4 4 0 1 0 2 3 21
+p672
+aVJason Richardson GSW 11/28/2005 GSW vs. NOK W 39 17 7 20 35.0 0 3 0.0 3 5 60.0 3 5 8 5 2 0 0 4 14
+p673
+aVZarko Cabarkapa GSW 11/28/2005 GSW vs. NOK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p674
+aVCalbert Cheaney GSW 11/26/2005 GSW vs. TOR W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p675
+aVTroy Murphy GSW 11/26/2005 GSW vs. TOR W 32 21 7 13 53.8 2 4 50.0 5 6 83.3 1 6 7 1 0 1 1 2 16
+p676
+aVZarko Cabarkapa GSW 11/26/2005 GSW vs. TOR W 7 4 1 2 50.0 0 0 - 2 3 66.7 0 2 2 2 0 0 0 1 6
+p677
+aVIke Diogu GSW 11/26/2005 GSW vs. TOR W 21 15 6 8 75.0 0 0 - 3 4 75.0 3 4 7 0 0 0 3 2 9
+p678
+aVAaron Miles GSW 11/26/2005 GSW vs. TOR W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 3 1 -8
+p679
+aVBaron Davis GSW 11/26/2005 GSW vs. TOR W 30 7 3 7 42.9 0 3 0.0 1 2 50.0 1 5 6 14 1 0 3 1 29
+p680
+aVAdonal Foyle GSW 11/26/2005 GSW vs. TOR W 19 7 3 6 50.0 0 0 - 1 1 100.0 1 3 4 2 0 1 0 2 15
+p681
+aVChris Taft GSW 11/26/2005 GSW vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 7
+p682
+aVAndris Biedrins GSW 11/26/2005 GSW vs. TOR W 13 8 4 4 100.0 0 0 - 0 1 0.0 2 2 4 0 1 1 2 2 3
+p683
+aVMike Dunleavy GSW 11/26/2005 GSW vs. TOR W 36 17 7 13 53.8 1 6 16.7 2 2 100.0 0 5 5 7 0 0 1 4 35
+p684
+aVJason Richardson GSW 11/26/2005 GSW vs. TOR W 33 25 10 18 55.6 1 5 20.0 4 5 80.0 2 4 6 2 0 0 0 2 22
+p685
+aVDerek Fisher GSW 11/26/2005 GSW vs. TOR W 26 9 4 6 66.7 1 3 33.3 0 0 - 0 2 2 6 2 0 3 2 5
+p686
+aVIke Diogu GSW 11/25/2005 GSW @ UTA W 18 11 4 6 66.7 0 0 - 3 4 75.0 1 1 2 0 0 2 3 2 -5
+p687
+aVBaron Davis GSW 11/25/2005 GSW @ UTA W 41 13 3 17 17.6 1 8 12.5 6 11 54.5 0 6 6 10 1 0 2 5 0
+p688
+aVCalbert Cheaney GSW 11/25/2005 GSW @ UTA W 14 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 2 1 1 1 2
+p689
+aVAdonal Foyle GSW 11/25/2005 GSW @ UTA W 21 6 3 4 75.0 0 0 - 0 1 0.0 2 3 5 0 0 0 1 2 -1
+p690
+aVJason Richardson GSW 11/25/2005 GSW @ UTA W 36 29 11 20 55.0 4 8 50.0 3 7 42.9 0 5 5 1 0 0 2 5 4
+p691
+aVAndris Biedrins GSW 11/25/2005 GSW @ UTA W 6 0 0 1 0.0 0 0 - 0 2 0.0 4 1 5 0 0 0 0 1 -3
+p692
+aVAaron Miles GSW 11/25/2005 GSW @ UTA W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 4
+p693
+aVDerek Fisher GSW 11/25/2005 GSW @ UTA W 28 11 4 11 36.4 3 7 42.9 0 0 - 0 0 0 2 2 0 0 0 15
+p694
+aVZarko Cabarkapa GSW 11/25/2005 GSW @ UTA W 4 4 1 1 100.0 0 0 - 2 3 66.7 0 2 2 0 0 0 0 0 0
+p695
+aVMike Dunleavy GSW 11/25/2005 GSW @ UTA W 32 11 4 7 57.1 1 3 33.3 2 2 100.0 1 3 4 3 1 0 0 3 4
+p696
+aVTroy Murphy GSW 11/25/2005 GSW @ UTA W 33 9 1 9 11.1 0 2 0.0 7 8 87.5 1 6 7 0 0 0 2 3 0
+p697
+aVMike Dunleavy GSW 11/23/2005 GSW vs. SAS L 29 6 2 9 22.2 0 2 0.0 2 2 100.0 1 2 3 2 1 0 1 2 -13
+p698
+aVZarko Cabarkapa GSW 11/23/2005 GSW vs. SAS L 21 8 3 9 33.3 0 0 - 2 2 100.0 1 4 5 1 1 0 1 2 -5
+p699
+aVAdonal Foyle GSW 11/23/2005 GSW vs. SAS L 18 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -20
+p700
+aVIke Diogu GSW 11/23/2005 GSW vs. SAS L 15 11 4 7 57.1 0 0 - 3 3 100.0 1 2 3 0 1 0 1 2 -10
+p701
+aVCalbert Cheaney GSW 11/23/2005 GSW vs. SAS L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 13
+p702
+aVJason Richardson GSW 11/23/2005 GSW vs. SAS L 29 10 3 10 30.0 0 3 0.0 4 4 100.0 0 2 2 3 0 0 1 2 -21
+p703
+aVAaron Miles GSW 11/23/2005 GSW vs. SAS L 17 4 0 4 0.0 0 0 - 4 4 100.0 0 1 1 2 0 0 0 1 1
+p704
+aVTroy Murphy GSW 11/23/2005 GSW vs. SAS L 32 27 8 13 61.5 1 1 100.0 10 10 100.0 0 4 4 0 2 0 1 2 -31
+p705
+aVBaron Davis GSW 11/23/2005 GSW vs. SAS L 28 6 2 9 22.2 1 3 33.3 1 2 50.0 0 2 2 5 0 1 2 1 -21
+p706
+aVAndris Biedrins GSW 11/23/2005 GSW vs. SAS L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p707
+aVDerek Fisher GSW 11/23/2005 GSW vs. SAS L 25 5 1 6 16.7 0 0 - 3 4 75.0 1 0 1 1 0 0 1 1 -27
+p708
+aVChris Taft GSW 11/23/2005 GSW vs. SAS L 6 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 1 0 1 1 10
+p709
+aVAaron Miles GSW 11/21/2005 GSW vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 4
+p710
+aVMickael Pietrus GSW 11/21/2005 GSW vs. NJN W 10 3 1 3 33.3 1 3 33.3 0 0 - 1 1 2 1 0 0 0 0 -5
+p711
+aVAdonal Foyle GSW 11/21/2005 GSW vs. NJN W 39 4 1 1 100.0 0 0 - 2 2 100.0 2 11 13 1 2 2 1 4 2
+p712
+aVJason Richardson GSW 11/21/2005 GSW vs. NJN W 36 25 8 15 53.3 5 10 50.0 4 6 66.7 1 3 4 2 1 0 2 5 -1
+p713
+aVMike Dunleavy GSW 11/21/2005 GSW vs. NJN W 29 6 2 6 33.3 0 2 0.0 2 2 100.0 1 4 5 3 0 0 1 5 -1
+p714
+aVAndris Biedrins GSW 11/21/2005 GSW vs. NJN W 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 1 5 1
+p715
+aVBaron Davis GSW 11/21/2005 GSW vs. NJN W 41 17 7 17 41.2 1 4 25.0 2 4 50.0 1 2 3 8 1 0 3 2 -4
+p716
+aVDerek Fisher GSW 11/21/2005 GSW vs. NJN W 32 22 8 15 53.3 3 5 60.0 3 3 100.0 0 2 2 1 1 0 2 3 0
+p717
+aVTroy Murphy GSW 11/21/2005 GSW vs. NJN W 30 21 5 13 38.5 2 3 66.7 9 10 90.0 2 8 10 1 1 2 5 3 14
+p718
+aVCalbert Cheaney GSW 11/21/2005 GSW vs. NJN W 10 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 1 5
+p719
+aVAdonal Foyle GSW 11/20/2005 GSW @ LAC L 29 8 3 5 60.0 0 0 - 2 2 100.0 5 5 10 1 0 1 2 4 0
+p720
+aVTroy Murphy GSW 11/20/2005 GSW @ LAC L 30 12 4 10 40.0 0 2 0.0 4 4 100.0 1 6 7 0 0 0 0 2 -20
+p721
+aVBaron Davis GSW 11/20/2005 GSW @ LAC L 43 21 7 21 33.3 2 10 20.0 5 5 100.0 2 3 5 13 2 0 3 4 -12
+p722
+aVMike Dunleavy GSW 11/20/2005 GSW @ LAC L 21 12 6 11 54.5 0 4 0.0 0 0 - 1 1 2 2 2 0 1 2 -9
+p723
+aVAndris Biedrins GSW 11/20/2005 GSW @ LAC L 13 4 2 2 100.0 0 0 - 0 0 - 1 3 4 2 0 0 0 5 -12
+p724
+aVJason Richardson GSW 11/20/2005 GSW @ LAC L 41 20 7 21 33.3 1 7 14.3 5 6 83.3 1 4 5 1 1 0 1 1 -15
+p725
+aVDerek Fisher GSW 11/20/2005 GSW @ LAC L 24 9 3 11 27.3 3 6 50.0 0 0 - 1 0 1 3 2 0 1 3 -2
+p726
+aVZarko Cabarkapa GSW 11/20/2005 GSW @ LAC L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p727
+aVChris Taft GSW 11/20/2005 GSW @ LAC L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p728
+aVMickael Pietrus GSW 11/20/2005 GSW @ LAC L 27 11 3 11 27.3 1 6 16.7 4 4 100.0 0 5 5 1 0 1 0 4 -3
+p729
+aVAaron Miles GSW 11/20/2005 GSW @ LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 5
+p730
+aVMickael Pietrus GSW 11/18/2005 GSW @ POR W 18 8 3 8 37.5 2 4 50.0 0 0 - 1 0 1 1 0 0 1 3 4
+p731
+aVAaron Miles GSW 11/18/2005 GSW @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p732
+aVDerek Fisher GSW 11/18/2005 GSW @ POR W 21 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 3 2
+p733
+aVChris Taft GSW 11/18/2005 GSW @ POR W 9 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -5
+p734
+aVAdonal Foyle GSW 11/18/2005 GSW @ POR W 30 4 2 5 40.0 0 0 - 0 3 0.0 5 6 11 0 0 2 2 3 21
+p735
+aVCalbert Cheaney GSW 11/18/2005 GSW @ POR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p736
+aVJason Richardson GSW 11/18/2005 GSW @ POR W 42 28 10 21 47.6 4 8 50.0 4 7 57.1 3 4 7 2 3 0 1 1 4
+p737
+aVMike Dunleavy GSW 11/18/2005 GSW @ POR W 31 11 4 10 40.0 0 3 0.0 3 4 75.0 0 0 0 3 1 0 2 2 10
+p738
+aVAndris Biedrins GSW 11/18/2005 GSW @ POR W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -1
+p739
+aVTroy Murphy GSW 11/18/2005 GSW @ POR W 40 13 6 14 42.9 0 1 0.0 1 1 100.0 2 8 10 1 0 0 2 3 14
+p740
+aVBaron Davis GSW 11/18/2005 GSW @ POR W 40 16 6 17 35.3 2 5 40.0 2 2 100.0 2 4 6 11 3 0 1 1 16
+p741
+aVAndris Biedrins GSW 11/16/2005 GSW vs. MIL L 8 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 -4
+p742
+aVChris Taft GSW 11/16/2005 GSW vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p743
+aVMike Dunleavy GSW 11/16/2005 GSW vs. MIL L 27 3 1 6 16.7 0 1 0.0 1 2 50.0 0 3 3 3 1 2 1 1 -10
+p744
+aVMickael Pietrus GSW 11/16/2005 GSW vs. MIL L 31 18 6 9 66.7 2 5 40.0 4 8 50.0 1 3 4 2 3 1 2 4 18
+p745
+aVDerek Fisher GSW 11/16/2005 GSW vs. MIL L 24 14 3 8 37.5 2 4 50.0 6 6 100.0 0 2 2 6 0 0 1 6 26
+p746
+aVCalbert Cheaney GSW 11/16/2005 GSW vs. MIL L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p747
+aVZarko Cabarkapa GSW 11/16/2005 GSW vs. MIL L 6 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 2
+p748
+aVAdonal Foyle GSW 11/16/2005 GSW vs. MIL L 25 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 5 1 4 -18
+p749
+aVJason Richardson GSW 11/16/2005 GSW vs. MIL L 41 21 8 17 47.1 1 7 14.3 4 4 100.0 1 7 8 2 2 0 2 2 1
+p750
+aVBaron Davis GSW 11/16/2005 GSW vs. MIL L 34 11 4 21 19.0 2 9 22.2 1 3 33.3 3 3 6 7 4 0 2 2 -15
+p751
+aVTroy Murphy GSW 11/16/2005 GSW vs. MIL L 37 14 5 9 55.6 2 3 66.7 2 2 100.0 2 8 10 1 0 2 1 3 -14
+p752
+aVMike Dunleavy GSW 11/14/2005 GSW vs. CHI W 33 15 5 9 55.6 2 2 100.0 3 5 60.0 0 6 6 2 0 0 3 1 18
+p753
+aVJason Richardson GSW 11/14/2005 GSW vs. CHI W 40 32 12 21 57.1 2 5 40.0 6 7 85.7 1 5 6 2 1 0 3 3 18
+p754
+aVBaron Davis GSW 11/14/2005 GSW vs. CHI W 34 10 3 11 27.3 2 6 33.3 2 2 100.0 0 1 1 6 3 1 5 3 12
+p755
+aVMickael Pietrus GSW 11/14/2005 GSW vs. CHI W 20 12 3 9 33.3 1 4 25.0 5 7 71.4 1 2 3 1 0 1 1 0 6
+p756
+aVDerek Fisher GSW 11/14/2005 GSW vs. CHI W 28 8 3 9 33.3 0 2 0.0 2 2 100.0 1 6 7 5 1 0 1 3 9
+p757
+aVZarko Cabarkapa GSW 11/14/2005 GSW vs. CHI W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 0
+p758
+aVAdonal Foyle GSW 11/14/2005 GSW vs. CHI W 31 2 1 2 50.0 0 0 - 0 0 - 3 9 12 2 3 2 3 4 17
+p759
+aVChris Taft GSW 11/14/2005 GSW vs. CHI W 9 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 4 2
+p760
+aVAndris Biedrins GSW 11/14/2005 GSW vs. CHI W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -1
+p761
+aVTroy Murphy GSW 11/14/2005 GSW vs. CHI W 32 15 6 10 60.0 1 3 33.3 2 2 100.0 2 5 7 2 0 1 2 3 9
+p762
+aVAaron Miles GSW 11/14/2005 GSW vs. CHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p763
+aVMike Dunleavy GSW 11/12/2005 GSW @ PHX L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 0 0 -15
+p764
+aVDerek Fisher GSW 11/12/2005 GSW @ PHX L 36 16 6 11 54.5 1 3 33.3 3 3 100.0 0 1 1 2 0 0 4 2 0
+p765
+aVAaron Miles GSW 11/12/2005 GSW @ PHX L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -5
+p766
+aVChris Taft GSW 11/12/2005 GSW @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -5
+p767
+aVAdonal Foyle GSW 11/12/2005 GSW @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p768
+aVTroy Murphy GSW 11/12/2005 GSW @ PHX L 35 10 4 13 30.8 0 1 0.0 2 2 100.0 6 11 17 1 0 0 1 2 -12
+p769
+aVMonta Ellis GSW 11/12/2005 GSW @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 1
+p770
+aVMickael Pietrus GSW 11/12/2005 GSW @ PHX L 34 16 5 13 38.5 1 5 20.0 5 8 62.5 4 5 9 0 0 0 2 4 -12
+p771
+aVJason Richardson GSW 11/12/2005 GSW @ PHX L 36 11 5 19 26.3 1 6 16.7 0 0 - 3 11 14 4 2 2 3 4 -13
+p772
+aVBaron Davis GSW 11/12/2005 GSW @ PHX L 39 23 7 19 36.8 3 8 37.5 6 10 60.0 0 8 8 3 3 0 3 4 -10
+p773
+aVCalbert Cheaney GSW 11/12/2005 GSW @ PHX L 21 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 7
+p774
+aVZarko Cabarkapa GSW 11/12/2005 GSW @ PHX L 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -2
+p775
+aVTroy Murphy GSW 11/11/2005 GSW vs. NYK W 41 19 7 11 63.6 3 5 60.0 2 2 100.0 2 9 11 2 0 0 2 3 6
+p776
+aVMickael Pietrus GSW 11/11/2005 GSW vs. NYK W 21 10 3 8 37.5 1 5 20.0 3 4 75.0 2 2 4 1 1 0 1 1 -9
+p777
+aVChris Taft GSW 11/11/2005 GSW vs. NYK W 13 2 1 4 25.0 0 0 - 0 0 - 3 3 6 0 0 0 0 1 0
+p778
+aVZarko Cabarkapa GSW 11/11/2005 GSW vs. NYK W 5 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 1 0 1 -3
+p779
+aVAdonal Foyle GSW 11/11/2005 GSW vs. NYK W 35 5 2 6 33.3 0 0 - 1 2 50.0 3 5 8 0 2 4 0 4 2
+p780
+aVBaron Davis GSW 11/11/2005 GSW vs. NYK W 34 12 3 12 25.0 1 4 25.0 5 7 71.4 0 6 6 12 0 0 3 5 4
+p781
+aVAaron Miles GSW 11/11/2005 GSW vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p782
+aVMike Dunleavy GSW 11/11/2005 GSW vs. NYK W 22 4 1 6 16.7 0 1 0.0 2 3 66.7 0 3 3 1 2 1 2 2 7
+p783
+aVDerek Fisher GSW 11/11/2005 GSW vs. NYK W 24 6 2 6 33.3 1 5 20.0 1 1 100.0 0 3 3 1 0 0 1 1 -1
+p784
+aVJason Richardson GSW 11/11/2005 GSW vs. NYK W 44 24 9 21 42.9 3 9 33.3 3 6 50.0 1 2 3 6 0 1 3 2 7
+p785
+aVDerek Fisher GSW 11/09/2005 GSW @ CHI L 26 15 5 11 45.5 3 5 60.0 2 3 66.7 2 5 7 5 2 0 2 1 10
+p786
+aVMickael Pietrus GSW 11/09/2005 GSW @ CHI L 27 13 4 8 50.0 3 6 50.0 2 3 66.7 0 3 3 1 0 0 2 4 1
+p787
+aVMike Dunleavy GSW 11/09/2005 GSW @ CHI L 25 6 2 9 22.2 1 7 14.3 1 2 50.0 1 5 6 2 1 1 0 2 -1
+p788
+aVAdonal Foyle GSW 11/09/2005 GSW @ CHI L 25 2 1 1 100.0 0 0 - 0 0 - 3 3 6 0 0 1 2 2 -8
+p789
+aVChris Taft GSW 11/09/2005 GSW @ CHI L 19 7 3 6 50.0 0 0 - 1 2 50.0 4 2 6 1 0 1 0 4 8
+p790
+aVZarko Cabarkapa GSW 11/09/2005 GSW @ CHI L 16 2 1 10 10.0 0 0 - 0 0 - 2 1 3 1 0 0 1 1 5
+p791
+aVCalbert Cheaney GSW 11/09/2005 GSW @ CHI L 12 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -6
+p792
+aVTroy Murphy GSW 11/09/2005 GSW @ CHI L 24 7 2 9 22.2 0 4 0.0 3 3 100.0 0 2 2 1 2 0 2 4 -8
+p793
+aVJason Richardson GSW 11/09/2005 GSW @ CHI L 35 15 6 19 31.6 1 5 20.0 2 2 100.0 2 3 5 3 1 1 2 2 1
+p794
+aVBaron Davis GSW 11/09/2005 GSW @ CHI L 31 17 6 16 37.5 1 4 25.0 4 5 80.0 0 2 2 5 3 0 4 4 -7
+p795
+aVMickael Pietrus GSW 11/08/2005 GSW @ MIL W 12 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 2 -14
+p796
+aVZarko Cabarkapa GSW 11/08/2005 GSW @ MIL W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 1 -7
+p797
+aVChris Taft GSW 11/08/2005 GSW @ MIL W 7 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p798
+aVAdonal Foyle GSW 11/08/2005 GSW @ MIL W 30 9 3 3 100.0 0 0 - 3 4 75.0 1 3 4 0 0 0 1 2 19
+p799
+aVBaron Davis GSW 11/08/2005 GSW @ MIL W 36 20 7 18 38.9 3 10 30.0 3 4 75.0 1 5 6 15 0 0 6 3 14
+p800
+aVMike Dunleavy GSW 11/08/2005 GSW @ MIL W 44 10 4 11 36.4 2 4 50.0 0 0 - 0 5 5 2 0 1 3 2 4
+p801
+aVJason Richardson GSW 11/08/2005 GSW @ MIL W 42 23 8 16 50.0 2 3 66.7 5 8 62.5 3 11 14 1 0 0 1 3 16
+p802
+aVDerek Fisher GSW 11/08/2005 GSW @ MIL W 23 14 4 9 44.4 2 2 100.0 4 5 80.0 0 3 3 4 1 0 4 4 0
+p803
+aVTroy Murphy GSW 11/08/2005 GSW @ MIL W 38 25 9 15 60.0 4 7 57.1 3 3 100.0 1 3 4 0 0 2 1 2 10
+p804
+aVMickael Pietrus GSW 11/06/2005 GSW @ NYK W 22 5 2 2 100.0 1 1 100.0 0 2 0.0 0 0 0 0 0 1 2 4 -4
+p805
+aVMike Dunleavy GSW 11/06/2005 GSW @ NYK W 35 2 1 8 12.5 0 4 0.0 0 0 - 1 3 4 2 1 0 1 0 -4
+p806
+aVBaron Davis GSW 11/06/2005 GSW @ NYK W 37 16 5 17 29.4 3 11 27.3 3 5 60.0 1 5 6 9 1 0 3 3 9
+p807
+aVJason Richardson GSW 11/06/2005 GSW @ NYK W 34 24 8 15 53.3 2 4 50.0 6 11 54.5 1 4 5 0 1 1 3 5 10
+p808
+aVAdonal Foyle GSW 11/06/2005 GSW @ NYK W 25 3 1 1 100.0 0 0 - 1 4 25.0 1 10 11 0 0 2 0 4 13
+p809
+aVTroy Murphy GSW 11/06/2005 GSW @ NYK W 42 17 5 15 33.3 2 7 28.6 5 8 62.5 2 8 10 3 2 0 1 5 7
+p810
+aVDerek Fisher GSW 11/06/2005 GSW @ NYK W 17 6 2 7 28.6 2 2 100.0 0 0 - 0 2 2 2 0 0 3 2 -6
+p811
+aVAaron Miles GSW 11/06/2005 GSW @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p812
+aVZarko Cabarkapa GSW 11/06/2005 GSW @ NYK W 11 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 2
+p813
+aVChris Taft GSW 11/06/2005 GSW @ NYK W 15 6 3 3 100.0 0 0 - 0 2 0.0 1 0 1 0 1 2 0 3 -13
+p814
+aVChris Taft GSW 11/04/2005 GSW vs. UTA L 13 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -8
+p815
+aVMickael Pietrus GSW 11/04/2005 GSW vs. UTA L 19 8 3 6 50.0 0 3 0.0 2 6 33.3 0 1 1 0 1 0 3 3 -5
+p816
+aVAdonal Foyle GSW 11/04/2005 GSW vs. UTA L 20 4 0 5 0.0 0 0 - 4 4 100.0 4 3 7 0 0 3 2 2 4
+p817
+aVTroy Murphy GSW 11/04/2005 GSW vs. UTA L 41 12 2 9 22.2 0 2 0.0 8 14 57.1 3 5 8 0 1 0 2 6 -7
+p818
+aVAaron Miles GSW 11/04/2005 GSW vs. UTA L 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 1 0 1 1 -5
+p819
+aVDerek Fisher GSW 11/04/2005 GSW vs. UTA L 37 18 7 16 43.8 1 2 50.0 3 5 60.0 1 3 4 6 2 0 1 4 2
+p820
+aVZarko Cabarkapa GSW 11/04/2005 GSW vs. UTA L 18 8 3 5 60.0 1 1 100.0 1 2 50.0 1 2 3 0 1 2 0 3 1
+p821
+aVJason Richardson GSW 11/04/2005 GSW vs. UTA L 42 18 8 20 40.0 1 5 20.0 1 3 33.3 3 4 7 1 0 2 4 5 -8
+p822
+aVMike Dunleavy GSW 11/04/2005 GSW vs. UTA L 33 13 4 13 30.8 2 8 25.0 3 4 75.0 1 3 4 4 0 2 1 5 -2
+p823
+aVCalbert Cheaney GSW 11/04/2005 GSW vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p824
+aVMickael Pietrus GSW 11/02/2005 GSW vs. ATL W 24 20 6 9 66.7 1 1 100.0 7 9 77.8 0 1 1 0 1 0 1 1 12
+p825
+aVAdonal Foyle GSW 11/02/2005 GSW vs. ATL W 21 4 2 2 100.0 0 0 - 0 1 0.0 3 3 6 1 0 3 0 2 3
+p826
+aVZarko Cabarkapa GSW 11/02/2005 GSW vs. ATL W 7 9 2 2 100.0 0 0 - 5 6 83.3 1 1 2 1 0 0 1 0 1
+p827
+aVTroy Murphy GSW 11/02/2005 GSW vs. ATL W 25 19 8 8 100.0 1 1 100.0 2 5 40.0 0 9 9 0 1 0 3 4 3
+p828
+aVCalbert Cheaney GSW 11/02/2005 GSW vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p829
+aVAaron Miles GSW 11/02/2005 GSW vs. ATL W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 5 0 0 2 1 6
+p830
+aVJason Richardson GSW 11/02/2005 GSW vs. ATL W 42 28 11 23 47.8 2 6 33.3 4 5 80.0 2 4 6 2 1 2 2 2 21
+p831
+aVChris Taft GSW 11/02/2005 GSW vs. ATL W 17 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 0 0 3 0 2 18
+p832
+aVAndris Biedrins GSW 11/02/2005 GSW vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 4
+p833
+aVDerek Fisher GSW 11/02/2005 GSW vs. ATL W 20 12 4 5 80.0 1 1 100.0 3 4 75.0 1 0 1 5 1 0 0 5 20
+p834
+aVMike Dunleavy GSW 11/02/2005 GSW vs. ATL W 38 11 3 10 30.0 1 5 20.0 4 6 66.7 2 3 5 3 1 0 7 2 29
+p835
+aVBaron Davis GSW 11/02/2005 GSW vs. ATL W 28 15 5 11 45.5 1 5 20.0 4 7 57.1 0 1 1 7 4 0 2 0 12
+p836
+a.

@@ -1,0 +1,58 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVOtis Birdsong NJN 04/22/1986 NJN vs. MIL L 45 28 11 17 64.7 0 1 0.0 6 9 66.7 2 3 5 3 3 1 2 5 -
+p2
+aVMickey Johnson NJN 04/22/1986 NJN vs. MIL L 12 4 1 4 25.0 0 0 - 2 3 66.7 0 3 3 1 1 0 1 2 -
+p3
+aVMike Gminski NJN 04/22/1986 NJN vs. MIL L 39 18 5 17 29.4 0 0 - 8 9 88.9 2 7 9 1 2 2 1 4 -
+p4
+aVKelvin Ransey NJN 04/22/1986 NJN vs. MIL L 33 14 4 7 57.1 0 1 0.0 6 7 85.7 2 3 5 4 1 0 3 4 -
+p5
+aVAlbert King NJN 04/22/1986 NJN vs. MIL L 30 12 6 10 60.0 0 0 - 0 0 - 3 3 6 3 1 0 3 6 -
+p6
+aVBuck Williams NJN 04/22/1986 NJN vs. MIL L 44 25 7 8 87.5 0 0 - 11 16 68.8 4 6 10 0 0 0 2 5 -
+p7
+aVDarwin Cook NJN 04/22/1986 NJN vs. MIL L 16 7 3 6 50.0 0 0 - 1 5 20.0 1 2 3 3 0 1 3 1 -
+p8
+aVJeff Turner NJN 04/22/1986 NJN vs. MIL L 7 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 2 4 -
+p9
+aVMike O'Koren NJN 04/22/1986 NJN vs. MIL L 14 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 2 2 1 3 5 -
+p10
+aVBuck Williams NJN 04/20/1986 NJN @ MIL L 40 10 2 4 50.0 0 0 - 6 6 100.0 2 5 7 1 4 1 2 6 -
+p11
+aVJeff Turner NJN 04/20/1986 NJN @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p12
+aVAlbert King NJN 04/20/1986 NJN @ MIL L 30 10 5 16 31.3 0 1 0.0 0 0 - 4 1 5 4 0 1 2 5 -
+p13
+aVOtis Birdsong NJN 04/20/1986 NJN @ MIL L 45 17 8 18 44.4 0 1 0.0 1 2 50.0 0 1 1 0 2 1 4 4 -
+p14
+aVDarryl Dawkins NJN 04/20/1986 NJN @ MIL L 17 10 4 6 66.7 0 0 - 2 3 66.7 1 2 3 3 0 2 2 4 -
+p15
+aVMike Gminski NJN 04/20/1986 NJN @ MIL L 36 28 8 14 57.1 0 0 - 12 12 100.0 6 7 13 1 2 0 3 3 -
+p16
+aVMickey Johnson NJN 04/20/1986 NJN @ MIL L 23 7 2 8 25.0 0 1 0.0 3 4 75.0 1 5 6 1 1 0 2 3 -
+p17
+aVDarwin Cook NJN 04/20/1986 NJN @ MIL L 29 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 7 0 0 1 6 -
+p18
+aVKelvin Ransey NJN 04/20/1986 NJN @ MIL L 19 9 4 10 40.0 1 2 50.0 0 1 0.0 1 1 2 3 0 0 1 3 -
+p19
+aVBuck Williams NJN 04/18/1986 NJN @ MIL L 42 27 12 17 70.6 0 0 - 3 4 75.0 6 8 14 1 2 0 2 4 -
+p20
+aVMickey Johnson NJN 04/18/1986 NJN @ MIL L 19 6 2 7 28.6 0 1 0.0 2 4 50.0 1 1 2 0 0 0 0 2 -
+p21
+aVJeff Turner NJN 04/18/1986 NJN @ MIL L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -
+p22
+aVAlbert King NJN 04/18/1986 NJN @ MIL L 38 19 7 16 43.8 1 3 33.3 4 4 100.0 1 1 2 3 1 0 0 4 -
+p23
+aVOtis Birdsong NJN 04/18/1986 NJN @ MIL L 42 24 10 20 50.0 0 1 0.0 4 8 50.0 3 3 6 7 1 1 3 5 -
+p24
+aVMike Gminski NJN 04/18/1986 NJN @ MIL L 34 12 3 12 25.0 0 0 - 6 6 100.0 3 5 8 3 0 0 5 4 -
+p25
+aVKelvin Ransey NJN 04/18/1986 NJN @ MIL L 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 5 0 0 0 2 -
+p26
+aVDarwin Cook NJN 04/18/1986 NJN @ MIL L 32 15 7 16 43.8 0 3 0.0 1 1 100.0 2 1 3 7 5 1 2 4 -
+p27
+aVMike O'Koren NJN 04/18/1986 NJN @ MIL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p28
+a.

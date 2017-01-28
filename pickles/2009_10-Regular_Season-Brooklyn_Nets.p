@@ -1,0 +1,1592 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJosh Boone NJN 04/14/2010 NJN @ MIA L 24 8 4 5 80.0 0 0 - 0 4 0.0 4 3 7 1 1 2 0 3 6
+p2
+aVCourtney Lee NJN 04/14/2010 NJN @ MIA L 51 17 5 16 31.3 3 8 37.5 4 4 100.0 2 4 6 2 1 0 1 1 -4
+p3
+aVTerrence Williams NJN 04/14/2010 NJN @ MIA L 28 2 0 4 0.0 0 1 0.0 2 2 100.0 0 5 5 3 1 0 2 1 -4
+p4
+aVYi Jianlian NJN 04/14/2010 NJN @ MIA L 50 23 7 17 41.2 0 2 0.0 9 11 81.8 6 9 15 0 0 2 3 5 -3
+p5
+aVChris Douglas-Roberts NJN 04/14/2010 NJN @ MIA L 33 9 4 7 57.1 0 0 - 1 2 50.0 0 3 3 1 0 0 4 1 -8
+p6
+aVChris Quinn NJN 04/14/2010 NJN @ MIA L 30 5 2 7 28.6 1 3 33.3 0 0 - 1 6 7 2 0 0 0 1 3
+p7
+aVBrook Lopez NJN 04/14/2010 NJN @ MIA L 43 12 3 12 25.0 0 0 - 6 8 75.0 2 5 7 0 0 1 6 2 -19
+p8
+aVDevin Harris NJN 04/14/2010 NJN @ MIA L 32 10 4 12 33.3 1 5 20.0 1 1 100.0 0 4 4 3 0 0 3 1 -11
+p9
+aVYi Jianlian NJN 04/12/2010 NJN vs. CHA L 36 14 6 8 75.0 0 0 - 2 2 100.0 3 7 10 1 0 3 0 2 -2
+p10
+aVChris Douglas-Roberts NJN 04/12/2010 NJN vs. CHA L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p11
+aVTerrence Williams NJN 04/12/2010 NJN vs. CHA L 44 21 10 19 52.6 0 3 0.0 1 1 100.0 3 10 13 6 1 0 4 3 -11
+p12
+aVCourtney Lee NJN 04/12/2010 NJN vs. CHA L 42 18 7 20 35.0 1 7 14.3 3 4 75.0 3 3 6 2 3 0 1 2 -8
+p13
+aVJosh Boone NJN 04/12/2010 NJN vs. CHA L 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p14
+aVKris Humphries NJN 04/12/2010 NJN vs. CHA L 9 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 1 0
+p15
+aVDevin Harris NJN 04/12/2010 NJN vs. CHA L 37 22 6 18 33.3 3 10 30.0 7 10 70.0 0 0 0 1 2 0 2 3 -8
+p16
+aVChris Quinn NJN 04/12/2010 NJN vs. CHA L 15 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 3 1 0 0 1 -5
+p17
+aVBrook Lopez NJN 04/12/2010 NJN vs. CHA L 39 16 4 15 26.7 0 1 0.0 8 8 100.0 5 3 8 3 0 1 4 3 -11
+p18
+aVTerrence Williams NJN 04/10/2010 NJN @ IND L 39 15 7 15 46.7 0 1 0.0 1 1 100.0 0 8 8 7 0 1 3 3 -11
+p19
+aVBrook Lopez NJN 04/10/2010 NJN @ IND L 33 20 8 16 50.0 0 0 - 4 6 66.7 2 3 5 2 2 0 2 1 -10
+p20
+aVJosh Boone NJN 04/10/2010 NJN @ IND L 12 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 -3
+p21
+aVYi Jianlian NJN 04/10/2010 NJN @ IND L 34 18 7 12 58.3 0 1 0.0 4 4 100.0 5 2 7 2 1 2 2 3 -6
+p22
+aVChris Douglas-Roberts NJN 04/10/2010 NJN @ IND L 19 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p23
+aVCourtney Lee NJN 04/10/2010 NJN @ IND L 37 15 7 11 63.6 0 3 0.0 1 1 100.0 2 1 3 2 2 1 3 2 -12
+p24
+aVDevin Harris NJN 04/10/2010 NJN @ IND L 36 12 5 13 38.5 1 4 25.0 1 1 100.0 1 4 5 5 1 0 2 1 -16
+p25
+aVKeyon Dooling NJN 04/10/2010 NJN @ IND L 13 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 2 3 1
+p26
+aVKris Humphries NJN 04/10/2010 NJN @ IND L 17 13 5 6 83.3 0 0 - 3 4 75.0 2 4 6 0 0 1 0 1 -7
+p27
+aVDevin Harris NJN 04/09/2010 NJN vs. CHI W 41 19 7 12 58.3 0 2 0.0 5 10 50.0 1 4 5 6 1 0 2 1 6
+p28
+aVChris Quinn NJN 04/09/2010 NJN vs. CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p29
+aVKris Humphries NJN 04/09/2010 NJN vs. CHI W 20 8 3 4 75.0 0 0 - 2 2 100.0 0 6 6 1 0 0 1 3 6
+p30
+aVCourtney Lee NJN 04/09/2010 NJN vs. CHI W 49 16 5 18 27.8 3 10 30.0 3 3 100.0 2 3 5 2 2 0 1 3 12
+p31
+aVYi Jianlian NJN 04/09/2010 NJN vs. CHI W 40 15 6 13 46.2 0 1 0.0 3 4 75.0 4 8 12 2 2 3 2 5 8
+p32
+aVJarvis Hayes NJN 04/09/2010 NJN vs. CHI W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -4
+p33
+aVBrook Lopez NJN 04/09/2010 NJN vs. CHI W 44 26 9 17 52.9 0 0 - 8 8 100.0 4 10 14 0 0 2 1 5 9
+p34
+aVChris Douglas-Roberts NJN 04/09/2010 NJN vs. CHI W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p35
+aVKeyon Dooling NJN 04/09/2010 NJN vs. CHI W 20 8 3 7 42.9 1 4 25.0 1 2 50.0 0 0 0 5 2 0 0 1 7
+p36
+aVJosh Boone NJN 04/09/2010 NJN vs. CHI W 11 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -1
+p37
+aVTerrence Williams NJN 04/09/2010 NJN vs. CHI W 49 27 12 25 48.0 1 3 33.3 2 3 66.7 2 11 13 10 1 0 3 3 15
+p38
+aVDevin Harris NJN 04/07/2010 NJN @ MIL L 31 25 9 15 60.0 3 4 75.0 4 5 80.0 0 1 1 4 0 1 4 5 -12
+p39
+aVYi Jianlian NJN 04/07/2010 NJN @ MIL L 34 11 2 8 25.0 0 1 0.0 7 8 87.5 1 7 8 0 2 1 0 2 -17
+p40
+aVKris Humphries NJN 04/07/2010 NJN @ MIL L 24 7 1 5 20.0 0 0 - 5 6 83.3 2 5 7 0 0 2 0 2 -5
+p41
+aVCourtney Lee NJN 04/07/2010 NJN @ MIL L 35 19 8 15 53.3 3 5 60.0 0 0 - 2 4 6 1 1 0 2 4 -12
+p42
+aVChris Quinn NJN 04/07/2010 NJN @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p43
+aVKeyon Dooling NJN 04/07/2010 NJN @ MIL L 14 8 3 4 75.0 1 1 100.0 1 1 100.0 0 1 1 2 0 0 1 1 -7
+p44
+aVJarvis Hayes NJN 04/07/2010 NJN @ MIL L 26 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 1
+p45
+aVJosh Boone NJN 04/07/2010 NJN @ MIL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p46
+aVTerrence Williams NJN 04/07/2010 NJN @ MIL L 24 6 2 13 15.4 0 1 0.0 2 2 100.0 0 4 4 0 1 0 0 1 -16
+p47
+aVChris Douglas-Roberts NJN 04/07/2010 NJN @ MIL L 11 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -11
+p48
+aVBrook Lopez NJN 04/07/2010 NJN @ MIL L 33 5 1 6 16.7 0 0 - 3 4 75.0 2 2 4 7 1 0 5 3 -17
+p49
+aVKeyon Dooling NJN 04/04/2010 NJN @ WAS L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 9
+p50
+aVYi Jianlian NJN 04/04/2010 NJN @ WAS L 30 3 1 8 12.5 0 1 0.0 1 2 50.0 3 4 7 2 1 2 2 4 -6
+p51
+aVKris Humphries NJN 04/04/2010 NJN @ WAS L 22 9 4 6 66.7 0 0 - 1 2 50.0 1 6 7 0 2 0 2 4 -6
+p52
+aVChris Douglas-Roberts NJN 04/04/2010 NJN @ WAS L 25 14 4 8 50.0 0 1 0.0 6 6 100.0 0 0 0 0 2 0 2 2 -3
+p53
+aVBrook Lopez NJN 04/04/2010 NJN @ WAS L 38 22 6 12 50.0 0 0 - 10 11 90.9 1 4 5 4 0 2 2 3 -8
+p54
+aVTerrence Williams NJN 04/04/2010 NJN @ WAS L 26 15 7 10 70.0 1 1 100.0 0 0 - 0 3 3 4 0 0 2 4 -12
+p55
+aVJarvis Hayes NJN 04/04/2010 NJN @ WAS L 23 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 0 1 0 0 1 -7
+p56
+aVCourtney Lee NJN 04/04/2010 NJN @ WAS L 21 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 0 2 0 1 0 -1
+p57
+aVDevin Harris NJN 04/04/2010 NJN @ WAS L 36 22 9 17 52.9 1 3 33.3 3 5 60.0 0 3 3 3 1 0 4 5 -16
+p58
+aVJosh Boone NJN 04/04/2010 NJN @ WAS L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 2 0
+p59
+aVJarvis Hayes NJN 04/03/2010 NJN vs. NOH W 20 10 4 6 66.7 2 3 66.7 0 0 - 0 3 3 2 2 0 0 1 2
+p60
+aVDevin Harris NJN 04/03/2010 NJN vs. NOH W 25 7 2 6 33.3 1 3 33.3 2 2 100.0 0 6 6 5 0 1 3 1 1
+p61
+aVJosh Boone NJN 04/03/2010 NJN vs. NOH W 18 12 5 5 100.0 0 0 - 2 2 100.0 2 5 7 0 1 1 1 1 26
+p62
+aVYi Jianlian NJN 04/03/2010 NJN vs. NOH W 23 10 5 9 55.6 0 0 - 0 0 - 2 2 4 1 1 0 1 4 6
+p63
+aVKeyon Dooling NJN 04/03/2010 NJN vs. NOH W 19 13 4 6 66.7 1 2 50.0 4 5 80.0 0 0 0 4 0 0 0 1 27
+p64
+aVKris Humphries NJN 04/03/2010 NJN vs. NOH W 28 10 5 8 62.5 0 0 - 0 0 - 3 9 12 0 4 5 5 2 29
+p65
+aVTerrence Williams NJN 04/03/2010 NJN vs. NOH W 30 14 7 13 53.8 0 1 0.0 0 0 - 1 3 4 14 0 0 2 1 26
+p66
+aVCourtney Lee NJN 04/03/2010 NJN vs. NOH W 20 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 2 0 1 0 1 1
+p67
+aVChris Quinn NJN 04/03/2010 NJN vs. NOH W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p68
+aVBrook Lopez NJN 04/03/2010 NJN vs. NOH W 27 12 4 10 40.0 0 0 - 4 5 80.0 0 3 3 3 1 2 2 2 -5
+p69
+aVChris Douglas-Roberts NJN 04/03/2010 NJN vs. NOH W 26 17 6 12 50.0 0 0 - 5 6 83.3 1 2 3 3 1 0 1 1 27
+p70
+aVTerrence Williams NJN 03/31/2010 NJN vs. PHX L 31 21 9 20 45.0 2 7 28.6 1 1 100.0 1 4 5 9 0 1 2 1 -3
+p71
+aVJarvis Hayes NJN 03/31/2010 NJN vs. PHX L 20 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 4 -6
+p72
+aVKris Humphries NJN 03/31/2010 NJN vs. PHX L 23 17 7 11 63.6 0 0 - 3 3 100.0 2 5 7 0 0 2 0 1 -1
+p73
+aVKeyon Dooling NJN 03/31/2010 NJN vs. PHX L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 0 1 -3
+p74
+aVBrook Lopez NJN 03/31/2010 NJN vs. PHX L 35 19 8 13 61.5 0 0 - 3 5 60.0 3 5 8 2 0 1 4 1 -12
+p75
+aVJosh Boone NJN 03/31/2010 NJN vs. PHX L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p76
+aVYi Jianlian NJN 03/31/2010 NJN vs. PHX L 34 11 5 13 38.5 0 0 - 1 1 100.0 4 2 6 1 0 1 2 3 -5
+p77
+aVDevin Harris NJN 03/31/2010 NJN vs. PHX L 37 9 2 10 20.0 0 3 0.0 5 5 100.0 0 3 3 9 2 0 1 5 -16
+p78
+aVCourtney Lee NJN 03/31/2010 NJN vs. PHX L 41 17 7 13 53.8 2 6 33.3 1 1 100.0 0 5 5 3 1 0 3 1 -5
+p79
+aVBrook Lopez NJN 03/29/2010 NJN vs. SAS W 38 22 7 14 50.0 0 0 - 8 9 88.9 6 6 12 3 1 0 0 3 11
+p80
+aVJarvis Hayes NJN 03/29/2010 NJN vs. SAS W 22 3 1 5 20.0 1 5 20.0 0 0 - 0 0 0 1 1 0 0 2 2
+p81
+aVYi Jianlian NJN 03/29/2010 NJN vs. SAS W 31 8 3 12 25.0 0 1 0.0 2 2 100.0 1 6 7 0 0 1 0 2 7
+p82
+aVKeyon Dooling NJN 03/29/2010 NJN vs. SAS W 14 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 1 0 0 1 2 3
+p83
+aVKris Humphries NJN 03/29/2010 NJN vs. SAS W 17 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 1 0 1 -4
+p84
+aVJosh Boone NJN 03/29/2010 NJN vs. SAS W 10 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 1 0 0 2 -5
+p85
+aVChris Douglas-Roberts NJN 03/29/2010 NJN vs. SAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -8
+p86
+aVDevin Harris NJN 03/29/2010 NJN vs. SAS W 38 17 6 16 37.5 1 4 25.0 4 6 66.7 0 2 2 9 1 0 0 2 3
+p87
+aVCourtney Lee NJN 03/29/2010 NJN vs. SAS W 36 19 7 13 53.8 2 3 66.7 3 3 100.0 1 5 6 0 1 0 1 2 14
+p88
+aVTerrence Williams NJN 03/29/2010 NJN vs. SAS W 26 13 4 13 30.8 1 3 33.3 4 4 100.0 1 6 7 3 1 0 2 2 7
+p89
+aVChris Quinn NJN 03/27/2010 NJN @ CHI L 5 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p90
+aVDevin Harris NJN 03/27/2010 NJN @ CHI L 29 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 9 0 0 1 3 -16
+p91
+aVCourtney Lee NJN 03/27/2010 NJN @ CHI L 22 6 2 5 40.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 1 -6
+p92
+aVChris Douglas-Roberts NJN 03/27/2010 NJN @ CHI L 22 13 4 9 44.4 0 2 0.0 5 6 83.3 0 2 2 0 0 1 1 3 -10
+p93
+aVBrook Lopez NJN 03/27/2010 NJN @ CHI L 30 7 2 11 18.2 0 0 - 3 4 75.0 1 5 6 1 0 1 2 3 -17
+p94
+aVTerrence Williams NJN 03/27/2010 NJN @ CHI L 31 16 6 15 40.0 1 1 100.0 3 3 100.0 2 4 6 2 0 1 0 0 -21
+p95
+aVJarvis Hayes NJN 03/27/2010 NJN @ CHI L 22 14 5 8 62.5 4 6 66.7 0 0 - 0 2 2 1 0 2 1 3 -9
+p96
+aVKris Humphries NJN 03/27/2010 NJN @ CHI L 26 4 2 6 33.3 0 0 - 0 0 - 2 6 8 0 1 2 1 4 -6
+p97
+aVYi Jianlian NJN 03/27/2010 NJN @ CHI L 17 7 3 9 33.3 1 3 33.3 0 0 - 3 5 8 0 0 0 1 3 -10
+p98
+aVJosh Boone NJN 03/27/2010 NJN @ CHI L 18 0 0 3 0.0 0 0 - 0 2 0.0 2 5 7 0 0 2 0 2 -11
+p99
+aVKeyon Dooling NJN 03/27/2010 NJN @ CHI L 19 6 1 6 16.7 0 2 0.0 4 6 66.7 0 1 1 2 1 0 1 2 -7
+p100
+aVBrook Lopez NJN 03/26/2010 NJN vs. DET W 41 37 14 17 82.4 0 0 - 9 9 100.0 6 4 10 1 0 1 1 2 5
+p101
+aVChris Douglas-Roberts NJN 03/26/2010 NJN vs. DET W 12 7 2 4 50.0 0 1 0.0 3 4 75.0 0 1 1 1 0 0 2 1 2
+p102
+aVJarvis Hayes NJN 03/26/2010 NJN vs. DET W 30 9 3 9 33.3 3 8 37.5 0 0 - 0 5 5 4 2 1 0 1 2
+p103
+aVCourtney Lee NJN 03/26/2010 NJN vs. DET W 26 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 0 0 0 0 0 4
+p104
+aVYi Jianlian NJN 03/26/2010 NJN vs. DET W 37 31 12 16 75.0 2 2 100.0 5 7 71.4 0 5 5 0 1 1 0 1 4
+p105
+aVKeyon Dooling NJN 03/26/2010 NJN vs. DET W 20 7 1 3 33.3 1 3 33.3 4 4 100.0 0 3 3 3 2 0 2 3 8
+p106
+aVJosh Boone NJN 03/26/2010 NJN vs. DET W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 1 1
+p107
+aVTerrence Williams NJN 03/26/2010 NJN vs. DET W 28 13 4 7 57.1 1 1 100.0 4 6 66.7 0 6 6 8 0 0 3 0 8
+p108
+aVDevin Harris NJN 03/26/2010 NJN vs. DET W 30 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 12 0 0 3 5 2
+p109
+aVKris Humphries NJN 03/26/2010 NJN vs. DET W 12 7 2 3 66.7 0 0 - 3 4 75.0 1 5 6 1 0 1 2 2 4
+p110
+aVDevin Harris NJN 03/24/2010 NJN vs. SAC W 33 24 6 13 46.2 2 5 40.0 10 11 90.9 1 3 4 9 1 0 4 3 19
+p111
+aVTrenton Hassell NJN 03/24/2010 NJN vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p112
+aVYi Jianlian NJN 03/24/2010 NJN vs. SAC W 27 5 2 7 28.6 0 0 - 1 1 100.0 1 5 6 2 2 0 1 5 7
+p113
+aVJarvis Hayes NJN 03/24/2010 NJN vs. SAC W 34 5 2 7 28.6 1 4 25.0 0 0 - 0 3 3 1 2 0 0 5 10
+p114
+aVKeyon Dooling NJN 03/24/2010 NJN vs. SAC W 14 9 2 5 40.0 2 3 66.7 3 4 75.0 0 1 1 1 0 0 0 0 -3
+p115
+aVChris Quinn NJN 03/24/2010 NJN vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p116
+aVJosh Boone NJN 03/24/2010 NJN vs. SAC W 12 0 0 3 0.0 0 0 - 0 0 - 4 2 6 0 1 1 0 1 2
+p117
+aVChris Douglas-Roberts NJN 03/24/2010 NJN vs. SAC W 22 10 3 9 33.3 1 2 50.0 3 4 75.0 1 2 3 0 1 0 0 1 5
+p118
+aVKris Humphries NJN 03/24/2010 NJN vs. SAC W 18 2 0 4 0.0 0 0 - 2 2 100.0 2 7 9 2 1 1 1 2 6
+p119
+aVCourtney Lee NJN 03/24/2010 NJN vs. SAC W 36 12 6 12 50.0 0 0 - 0 0 - 2 3 5 4 1 0 0 1 11
+p120
+aVBrook Lopez NJN 03/24/2010 NJN vs. SAC W 39 26 11 21 52.4 0 0 - 4 6 66.7 2 11 13 4 1 4 1 2 13
+p121
+aVJosh Boone NJN 03/22/2010 NJN vs. MIA L 20 2 0 2 0.0 0 0 - 2 4 50.0 2 6 8 0 3 1 0 4 -1
+p122
+aVBrook Lopez NJN 03/22/2010 NJN vs. MIA L 35 26 8 14 57.1 0 0 - 10 12 83.3 1 0 1 2 0 1 1 2 -6
+p123
+aVChris Quinn NJN 03/22/2010 NJN vs. MIA L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -6
+p124
+aVDevin Harris NJN 03/22/2010 NJN vs. MIA L 39 16 3 9 33.3 1 2 50.0 9 10 90.0 1 3 4 6 0 0 3 2 -4
+p125
+aVCourtney Lee NJN 03/22/2010 NJN vs. MIA L 30 15 6 11 54.5 2 3 66.7 1 1 100.0 1 0 1 1 0 0 0 3 -8
+p126
+aVTerrence Williams NJN 03/22/2010 NJN vs. MIA L 23 9 3 9 33.3 1 1 100.0 2 2 100.0 2 6 8 7 1 0 1 1 3
+p127
+aVJarvis Hayes NJN 03/22/2010 NJN vs. MIA L 27 7 3 8 37.5 1 2 50.0 0 0 - 0 4 4 1 0 0 2 0 -15
+p128
+aVKris Humphries NJN 03/22/2010 NJN vs. MIA L 17 6 1 6 16.7 0 0 - 4 7 57.1 4 5 9 1 0 1 2 1 -5
+p129
+aVChris Douglas-Roberts NJN 03/22/2010 NJN vs. MIA L 17 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 2 1 0
+p130
+aVYi Jianlian NJN 03/22/2010 NJN vs. MIA L 23 4 2 8 25.0 0 0 - 0 0 - 2 3 5 0 0 0 0 2 -8
+p131
+aVYi Jianlian NJN 03/20/2010 NJN vs. TOR L 38 9 3 10 30.0 0 0 - 3 5 60.0 1 4 5 2 0 2 1 4 -7
+p132
+aVChris Douglas-Roberts NJN 03/20/2010 NJN vs. TOR L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 6
+p133
+aVDevin Harris NJN 03/20/2010 NJN vs. TOR L 36 22 8 19 42.1 1 3 33.3 5 6 83.3 1 5 6 7 0 0 5 0 -2
+p134
+aVJosh Boone NJN 03/20/2010 NJN vs. TOR L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 0 -2
+p135
+aVKeyon Dooling NJN 03/20/2010 NJN vs. TOR L 12 0 0 4 0.0 0 4 0.0 0 0 - 0 0 0 1 0 0 1 0 -8
+p136
+aVKris Humphries NJN 03/20/2010 NJN vs. TOR L 10 6 2 5 40.0 0 0 - 2 4 50.0 1 2 3 0 0 0 1 2 -3
+p137
+aVTerrence Williams NJN 03/20/2010 NJN vs. TOR L 34 13 5 11 45.5 0 1 0.0 3 6 50.0 2 6 8 4 2 0 3 2 -15
+p138
+aVJarvis Hayes NJN 03/20/2010 NJN vs. TOR L 27 18 6 12 50.0 3 6 50.0 3 3 100.0 1 1 2 1 1 0 0 2 5
+p139
+aVCourtney Lee NJN 03/20/2010 NJN vs. TOR L 23 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 0 2 -16
+p140
+aVBrook Lopez NJN 03/20/2010 NJN vs. TOR L 40 18 7 15 46.7 0 0 - 4 4 100.0 9 4 13 5 2 1 1 1 -8
+p141
+aVKeyon Dooling NJN 03/17/2010 NJN @ PHI L 35 15 6 11 54.5 3 6 50.0 0 0 - 0 1 1 3 1 0 1 3 -11
+p142
+aVChris Quinn NJN 03/17/2010 NJN @ PHI L 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 0 1 9
+p143
+aVJosh Boone NJN 03/17/2010 NJN @ PHI L 22 6 3 6 50.0 0 0 - 0 0 - 3 5 8 1 1 0 2 1 -17
+p144
+aVTerrence Williams NJN 03/17/2010 NJN @ PHI L 33 13 4 16 25.0 0 0 - 5 6 83.3 1 6 7 3 1 0 3 2 -16
+p145
+aVCourtney Lee NJN 03/17/2010 NJN @ PHI L 31 2 1 8 12.5 0 3 0.0 0 0 - 3 1 4 2 0 0 1 3 -17
+p146
+aVJarvis Hayes NJN 03/17/2010 NJN @ PHI L 27 12 4 8 50.0 2 5 40.0 2 2 100.0 1 1 2 0 0 0 0 4 1
+p147
+aVChris Douglas-Roberts NJN 03/17/2010 NJN @ PHI L 26 23 9 15 60.0 1 2 50.0 4 4 100.0 0 2 2 2 1 0 1 4 7
+p148
+aVKris Humphries NJN 03/17/2010 NJN @ PHI L 23 10 3 7 42.9 0 0 - 4 4 100.0 0 7 7 1 1 0 1 3 -1
+p149
+aVBrook Lopez NJN 03/17/2010 NJN @ PHI L 36 12 2 9 22.2 0 0 - 8 8 100.0 2 3 5 2 0 0 2 2 -10
+p150
+aVJosh Boone NJN 03/16/2010 NJN vs. ATL L 32 13 5 7 71.4 0 0 - 3 5 60.0 4 16 20 0 0 1 2 2 -6
+p151
+aVTerrence Williams NJN 03/16/2010 NJN vs. ATL L 32 15 5 16 31.3 0 0 - 5 6 83.3 2 4 6 4 0 0 2 3 -20
+p152
+aVJarvis Hayes NJN 03/16/2010 NJN vs. ATL L 21 6 2 8 25.0 1 6 16.7 1 2 50.0 0 2 2 1 0 0 0 1 -27
+p153
+aVKeyon Dooling NJN 03/16/2010 NJN vs. ATL L 25 8 3 7 42.9 2 2 100.0 0 0 - 0 1 1 6 1 0 2 2 -12
+p154
+aVTrenton Hassell NJN 03/16/2010 NJN vs. ATL L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -2
+p155
+aVKris Humphries NJN 03/16/2010 NJN vs. ATL L 26 5 1 7 14.3 0 0 - 3 4 75.0 5 4 9 2 0 0 2 3 -22
+p156
+aVCourtney Lee NJN 03/16/2010 NJN vs. ATL L 29 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 1 3 -4
+p157
+aVChris Quinn NJN 03/16/2010 NJN vs. ATL L 11 5 2 5 40.0 0 3 0.0 1 1 100.0 0 0 0 1 1 0 1 2 -10
+p158
+aVBrook Lopez NJN 03/16/2010 NJN vs. ATL L 36 21 8 15 53.3 0 0 - 5 8 62.5 2 2 4 1 0 2 2 1 -15
+p159
+aVChris Douglas-Roberts NJN 03/16/2010 NJN vs. ATL L 14 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 0 -2
+p160
+aVDevin Harris NJN 03/13/2010 NJN @ HOU L 39 19 7 15 46.7 1 4 25.0 4 4 100.0 0 3 3 7 1 0 2 1 -5
+p161
+aVJosh Boone NJN 03/13/2010 NJN @ HOU L 31 5 1 3 33.3 0 0 - 3 6 50.0 0 6 6 1 2 3 1 1 -1
+p162
+aVTrenton Hassell NJN 03/13/2010 NJN @ HOU L 17 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 0
+p163
+aVBrook Lopez NJN 03/13/2010 NJN @ HOU L 37 22 8 16 50.0 0 0 - 6 9 66.7 6 4 10 3 0 1 7 5 -3
+p164
+aVTerrence Williams NJN 03/13/2010 NJN @ HOU L 28 14 6 10 60.0 0 0 - 2 4 50.0 0 2 2 4 1 0 2 1 -3
+p165
+aVKeyon Dooling NJN 03/13/2010 NJN @ HOU L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 3 1 0 2 4 -7
+p166
+aVJarvis Hayes NJN 03/13/2010 NJN @ HOU L 23 16 6 8 75.0 4 5 80.0 0 0 - 0 4 4 1 0 1 0 1 -4
+p167
+aVKris Humphries NJN 03/13/2010 NJN @ HOU L 14 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 1 1 0 0 2 -13
+p168
+aVCourtney Lee NJN 03/13/2010 NJN @ HOU L 40 24 10 14 71.4 3 4 75.0 1 1 100.0 0 3 3 1 1 0 0 3 -4
+p169
+aVCourtney Lee NJN 03/12/2010 NJN @ OKC L 30 6 2 9 22.2 0 2 0.0 2 3 66.7 1 1 2 0 1 0 1 1 -1
+p170
+aVJosh Boone NJN 03/12/2010 NJN @ OKC L 24 6 3 5 60.0 0 0 - 0 0 - 5 3 8 1 0 0 0 1 -2
+p171
+aVJarvis Hayes NJN 03/12/2010 NJN @ OKC L 25 16 6 10 60.0 4 8 50.0 0 0 - 0 1 1 1 1 0 0 3 15
+p172
+aVBrook Lopez NJN 03/12/2010 NJN @ OKC L 38 14 6 14 42.9 0 0 - 2 3 66.7 1 7 8 1 3 0 2 2 -4
+p173
+aVTerrence Williams NJN 03/12/2010 NJN @ OKC L 32 14 6 13 46.2 0 2 0.0 2 2 100.0 1 5 6 3 0 1 2 3 8
+p174
+aVDevin Harris NJN 03/12/2010 NJN @ OKC L 33 19 8 20 40.0 0 4 0.0 3 3 100.0 1 4 5 8 3 0 2 2 -7
+p175
+aVKeyon Dooling NJN 03/12/2010 NJN @ OKC L 15 15 4 5 80.0 2 2 100.0 5 5 100.0 0 2 2 7 0 0 0 3 5
+p176
+aVKris Humphries NJN 03/12/2010 NJN @ OKC L 24 8 3 7 42.9 0 0 - 2 3 66.7 0 2 2 0 0 1 1 1 -10
+p177
+aVTrenton Hassell NJN 03/12/2010 NJN @ OKC L 18 4 2 4 50.0 0 1 0.0 0 0 - 2 0 2 1 1 0 2 3 -14
+p178
+aVCourtney Lee NJN 03/10/2010 NJN @ DAL L 46 10 4 12 33.3 0 5 0.0 2 2 100.0 2 3 5 2 0 0 1 3 -6
+p179
+aVJarvis Hayes NJN 03/10/2010 NJN @ DAL L 18 11 4 10 40.0 3 6 50.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p180
+aVBrook Lopez NJN 03/10/2010 NJN @ DAL L 37 10 5 16 31.3 0 0 - 0 0 - 2 4 6 2 0 1 1 5 -9
+p181
+aVDevin Harris NJN 03/10/2010 NJN @ DAL L 38 21 7 14 50.0 3 7 42.9 4 4 100.0 0 2 2 7 3 0 6 5 -5
+p182
+aVJosh Boone NJN 03/10/2010 NJN @ DAL L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 6
+p183
+aVTrenton Hassell NJN 03/10/2010 NJN @ DAL L 23 2 1 3 33.3 0 0 - 0 0 - 2 7 9 1 1 0 2 2 -8
+p184
+aVKris Humphries NJN 03/10/2010 NJN @ DAL L 28 13 5 11 45.5 0 0 - 3 4 75.0 4 4 8 1 1 0 2 3 -7
+p185
+aVKeyon Dooling NJN 03/10/2010 NJN @ DAL L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p186
+aVTerrence Williams NJN 03/10/2010 NJN @ DAL L 31 18 7 12 58.3 0 1 0.0 4 8 50.0 3 10 13 3 1 1 1 1 -6
+p187
+aVTerrence Williams NJN 03/08/2010 NJN @ MEM L 26 14 6 11 54.5 1 2 50.0 1 2 50.0 0 6 6 6 0 0 2 1 -9
+p188
+aVJarvis Hayes NJN 03/08/2010 NJN @ MEM L 14 6 2 7 28.6 1 6 16.7 1 2 50.0 0 2 2 1 0 0 0 4 -11
+p189
+aVTrenton Hassell NJN 03/08/2010 NJN @ MEM L 18 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 3 9
+p190
+aVBrook Lopez NJN 03/08/2010 NJN @ MEM L 41 10 3 10 30.0 0 0 - 4 5 80.0 3 4 7 6 1 1 3 3 -5
+p191
+aVCourtney Lee NJN 03/08/2010 NJN @ MEM L 37 30 13 20 65.0 2 6 33.3 2 3 66.7 2 3 5 2 2 0 2 1 5
+p192
+aVKris Humphries NJN 03/08/2010 NJN @ MEM L 25 2 1 7 14.3 0 0 - 0 0 - 2 5 7 2 2 3 1 2 -10
+p193
+aVDevin Harris NJN 03/08/2010 NJN @ MEM L 39 28 9 18 50.0 2 6 33.3 8 10 80.0 0 4 4 5 1 1 4 4 0
+p194
+aVKeyon Dooling NJN 03/08/2010 NJN @ MEM L 10 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -11
+p195
+aVJosh Boone NJN 03/08/2010 NJN @ MEM L 18 6 3 5 60.0 0 0 - 0 2 0.0 5 4 9 0 0 2 1 2 12
+p196
+aVChris Douglas-Roberts NJN 03/08/2010 NJN @ MEM L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -10
+p197
+aVDevin Harris NJN 03/06/2010 NJN @ NYK W 32 31 13 21 61.9 4 7 57.1 1 1 100.0 0 2 2 4 1 0 2 3 17
+p198
+aVKeyon Dooling NJN 03/06/2010 NJN @ NYK W 16 6 2 6 33.3 2 2 100.0 0 0 - 1 0 1 3 1 0 0 0 3
+p199
+aVCourtney Lee NJN 03/06/2010 NJN @ NYK W 42 25 9 16 56.3 5 7 71.4 2 2 100.0 0 4 4 0 0 0 1 1 14
+p200
+aVTrenton Hassell NJN 03/06/2010 NJN @ NYK W 15 3 0 2 0.0 0 0 - 3 4 75.0 3 0 3 2 1 0 2 2 -10
+p201
+aVJarvis Hayes NJN 03/06/2010 NJN @ NYK W 30 9 3 7 42.9 3 6 50.0 0 0 - 1 2 3 2 2 2 1 1 32
+p202
+aVChris Douglas-Roberts NJN 03/06/2010 NJN @ NYK W 17 5 2 6 33.3 0 0 - 1 1 100.0 0 2 2 1 0 1 1 1 10
+p203
+aVTerrence Williams NJN 03/06/2010 NJN @ NYK W 32 3 1 4 25.0 0 2 0.0 1 2 50.0 0 11 11 7 0 0 1 2 30
+p204
+aVKris Humphries NJN 03/06/2010 NJN @ NYK W 15 10 5 7 71.4 0 0 - 0 2 0.0 0 4 4 2 0 1 1 1 10
+p205
+aVBrook Lopez NJN 03/06/2010 NJN @ NYK W 33 18 7 13 53.8 0 0 - 4 5 80.0 6 5 11 2 0 3 1 5 10
+p206
+aVYi Jianlian NJN 03/06/2010 NJN @ NYK W 9 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 0 1 0 1 0 -16
+p207
+aVTerrence Williams NJN 03/05/2010 NJN vs. ORL L 28 14 4 9 44.4 1 3 33.3 5 5 100.0 1 3 4 4 1 0 2 1 7
+p208
+aVTrenton Hassell NJN 03/05/2010 NJN vs. ORL L 18 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -13
+p209
+aVKris Humphries NJN 03/05/2010 NJN vs. ORL L 24 12 4 7 57.1 0 0 - 4 5 80.0 1 4 5 1 0 3 2 3 -3
+p210
+aVBrook Lopez NJN 03/05/2010 NJN vs. ORL L 39 18 7 15 46.7 0 0 - 4 4 100.0 4 4 8 1 1 1 3 3 -13
+p211
+aVKeyon Dooling NJN 03/05/2010 NJN vs. ORL L 16 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p212
+aVYi Jianlian NJN 03/05/2010 NJN vs. ORL L 34 2 1 5 20.0 0 0 - 0 0 - 1 6 7 4 0 2 0 5 -4
+p213
+aVJarvis Hayes NJN 03/05/2010 NJN vs. ORL L 16 5 2 6 33.3 1 2 50.0 0 0 - 1 4 5 1 0 0 2 3 -8
+p214
+aVDevin Harris NJN 03/05/2010 NJN vs. ORL L 40 17 7 21 33.3 1 4 25.0 2 2 100.0 0 4 4 10 2 0 2 5 -8
+p215
+aVChris Douglas-Roberts NJN 03/05/2010 NJN vs. ORL L 26 8 2 6 33.3 0 0 - 4 4 100.0 0 4 4 1 2 0 1 0 -4
+p216
+aVYi Jianlian NJN 03/03/2010 NJN vs. CLE L 42 14 5 11 45.5 2 3 66.7 2 2 100.0 2 8 10 1 3 2 2 4 -17
+p217
+aVDevin Harris NJN 03/03/2010 NJN vs. CLE L 36 11 4 13 30.8 1 4 25.0 2 2 100.0 0 0 0 1 1 1 2 4 -25
+p218
+aVJarvis Hayes NJN 03/03/2010 NJN vs. CLE L 22 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 1 1 0 1 1 0
+p219
+aVChris Douglas-Roberts NJN 03/03/2010 NJN vs. CLE L 27 10 3 10 30.0 0 2 0.0 4 4 100.0 1 1 2 1 0 0 0 0 -16
+p220
+aVKris Humphries NJN 03/03/2010 NJN vs. CLE L 17 7 3 3 100.0 0 0 - 1 2 50.0 2 3 5 0 1 0 0 2 7
+p221
+aVTerrence Williams NJN 03/03/2010 NJN vs. CLE L 32 21 8 16 50.0 2 3 66.7 3 6 50.0 2 3 5 7 0 0 5 1 -1
+p222
+aVBrook Lopez NJN 03/03/2010 NJN vs. CLE L 37 21 7 18 38.9 0 0 - 7 10 70.0 8 6 14 2 0 0 4 0 -28
+p223
+aVTrenton Hassell NJN 03/03/2010 NJN vs. CLE L 16 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -18
+p224
+aVKeyon Dooling NJN 03/03/2010 NJN vs. CLE L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 3 1 0 1 1 3
+p225
+aVKeyon Dooling NJN 02/28/2010 NJN vs. WAS L 17 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 1 2 0 0 1 -5
+p226
+aVBrook Lopez NJN 02/28/2010 NJN vs. WAS L 40 16 8 20 40.0 0 0 - 0 0 - 4 6 10 1 1 3 1 4 9
+p227
+aVTrenton Hassell NJN 02/28/2010 NJN vs. WAS L 35 7 1 4 25.0 0 0 - 5 6 83.3 1 1 2 0 1 0 0 2 -4
+p228
+aVChris Douglas-Roberts NJN 02/28/2010 NJN vs. WAS L 31 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 1 0 0 2 2 -5
+p229
+aVTerrence Williams NJN 02/28/2010 NJN vs. WAS L 15 11 4 5 80.0 1 1 100.0 2 2 100.0 0 1 1 1 0 1 0 1 -1
+p230
+aVKris Humphries NJN 02/28/2010 NJN vs. WAS L 14 4 1 4 25.0 0 0 - 2 4 50.0 2 2 4 0 0 1 0 2 -12
+p231
+aVDevin Harris NJN 02/28/2010 NJN vs. WAS L 36 18 7 24 29.2 1 5 20.0 3 4 75.0 0 7 7 14 0 1 4 2 5
+p232
+aVJarvis Hayes NJN 02/28/2010 NJN vs. WAS L 13 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 1 0 1 0 2 -4
+p233
+aVYi Jianlian NJN 02/28/2010 NJN vs. WAS L 40 20 7 17 41.2 0 0 - 6 8 75.0 12 7 19 2 1 0 3 5 -3
+p234
+aVCourtney Lee NJN 02/27/2010 NJN @ BOS W 30 21 7 12 58.3 2 3 66.7 5 5 100.0 1 1 2 1 1 0 1 1 6
+p235
+aVKeyon Dooling NJN 02/27/2010 NJN @ BOS W 21 11 4 7 57.1 3 5 60.0 0 0 - 0 0 0 1 0 0 2 2 10
+p236
+aVTrenton Hassell NJN 02/27/2010 NJN @ BOS W 22 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 2 1 0 2 0 -3
+p237
+aVDevin Harris NJN 02/27/2010 NJN @ BOS W 37 23 6 16 37.5 1 4 25.0 10 10 100.0 0 1 1 5 3 0 4 1 -4
+p238
+aVKris Humphries NJN 02/27/2010 NJN @ BOS W 24 11 2 4 50.0 0 0 - 7 10 70.0 1 9 10 0 4 2 3 3 3
+p239
+aVYi Jianlian NJN 02/27/2010 NJN @ BOS W 30 4 2 12 16.7 0 1 0.0 0 0 - 4 6 10 1 1 1 2 2 9
+p240
+aVChris Douglas-Roberts NJN 02/27/2010 NJN @ BOS W 27 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 9
+p241
+aVTerrence Williams NJN 02/27/2010 NJN @ BOS W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p242
+aVBrook Lopez NJN 02/27/2010 NJN @ BOS W 42 25 7 11 63.6 0 0 - 11 14 78.6 2 5 7 3 1 2 1 2 4
+p243
+aVCourtney Lee NJN 02/23/2010 NJN vs. POR L 42 28 11 18 61.1 4 4 100.0 2 2 100.0 2 4 6 2 0 0 0 1 -3
+p244
+aVTerrence Williams NJN 02/23/2010 NJN vs. POR L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p245
+aVDevin Harris NJN 02/23/2010 NJN vs. POR L 35 28 9 19 47.4 0 2 0.0 10 11 90.9 0 4 4 5 0 1 1 5 -5
+p246
+aVJosh Boone NJN 02/23/2010 NJN vs. POR L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p247
+aVBrook Lopez NJN 02/23/2010 NJN vs. POR L 43 17 6 11 54.5 0 0 - 5 5 100.0 2 8 10 2 0 0 1 3 -6
+p248
+aVTrenton Hassell NJN 02/23/2010 NJN vs. POR L 32 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 2 3 -2
+p249
+aVChris Douglas-Roberts NJN 02/23/2010 NJN vs. POR L 13 6 2 2 100.0 1 1 100.0 1 1 100.0 1 1 2 0 0 0 2 5 -5
+p250
+aVYi Jianlian NJN 02/23/2010 NJN vs. POR L 36 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 1 0 3 1 -7
+p251
+aVKris Humphries NJN 02/23/2010 NJN vs. POR L 13 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 1 -1
+p252
+aVKeyon Dooling NJN 02/23/2010 NJN vs. POR L 17 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 3 0 0 1 0 -7
+p253
+aVKeyon Dooling NJN 02/21/2010 NJN vs. MEM L 23 5 1 6 16.7 1 4 25.0 2 3 66.7 2 1 3 3 0 0 3 1 -12
+p254
+aVYi Jianlian NJN 02/21/2010 NJN vs. MEM L 21 15 6 9 66.7 1 1 100.0 2 2 100.0 2 2 4 1 0 0 1 5 -12
+p255
+aVBrook Lopez NJN 02/21/2010 NJN vs. MEM L 38 26 11 14 78.6 0 0 - 4 6 66.7 4 5 9 0 0 2 4 3 -4
+p256
+aVTerrence Williams NJN 02/21/2010 NJN vs. MEM L 19 6 3 10 30.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 1 -13
+p257
+aVJarvis Hayes NJN 02/21/2010 NJN vs. MEM L 22 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 1 1 0 0 2 5
+p258
+aVCourtney Lee NJN 02/21/2010 NJN vs. MEM L 39 12 6 16 37.5 0 5 0.0 0 0 - 4 1 5 1 1 0 2 2 -13
+p259
+aVDevin Harris NJN 02/21/2010 NJN vs. MEM L 41 17 6 17 35.3 2 8 25.0 3 6 50.0 0 1 1 13 2 2 8 2 1
+p260
+aVKris Humphries NJN 02/21/2010 NJN vs. MEM L 17 3 1 4 25.0 0 0 - 1 2 50.0 3 4 7 0 1 0 1 1 9
+p261
+aVJosh Boone NJN 02/21/2010 NJN vs. MEM L 19 8 4 7 57.1 0 0 - 0 0 - 5 4 9 0 2 1 0 2 -11
+p262
+aVKris Humphries NJN 02/19/2010 NJN vs. TOR L 8 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 0 0 2 3 1 -11
+p263
+aVCourtney Lee NJN 02/19/2010 NJN vs. TOR L 39 17 7 13 53.8 2 5 40.0 1 1 100.0 0 3 3 1 2 1 0 0 -10
+p264
+aVChris Douglas-Roberts NJN 02/19/2010 NJN vs. TOR L 6 2 1 2 50.0 0 0 - 0 2 0.0 1 0 1 1 0 0 0 0 -9
+p265
+aVYi Jianlian NJN 02/19/2010 NJN vs. TOR L 32 5 2 13 15.4 0 0 - 1 2 50.0 2 5 7 1 0 3 1 2 5
+p266
+aVKeyon Dooling NJN 02/19/2010 NJN vs. TOR L 19 8 3 9 33.3 2 3 66.7 0 0 - 0 1 1 2 2 0 2 2 -18
+p267
+aVTerrence Williams NJN 02/19/2010 NJN vs. TOR L 21 8 3 6 50.0 2 2 100.0 0 2 0.0 1 3 4 3 1 0 2 5 -4
+p268
+aVJosh Boone NJN 02/19/2010 NJN vs. TOR L 8 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -6
+p269
+aVJarvis Hayes NJN 02/19/2010 NJN vs. TOR L 29 5 2 10 20.0 1 8 12.5 0 0 - 0 3 3 0 0 0 0 1 -17
+p270
+aVBrook Lopez NJN 02/19/2010 NJN vs. TOR L 40 22 9 12 75.0 0 0 - 4 4 100.0 2 6 8 1 0 1 3 4 -9
+p271
+aVDevin Harris NJN 02/19/2010 NJN vs. TOR L 38 19 6 11 54.5 1 1 100.0 6 8 75.0 0 2 2 11 4 0 1 4 -6
+p272
+aVChris Douglas-Roberts NJN 02/17/2010 NJN vs. MIA L 19 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 1 1 0 1 1 11
+p273
+aVKeyon Dooling NJN 02/17/2010 NJN vs. MIA L 19 14 4 9 44.4 0 4 0.0 6 6 100.0 1 0 1 2 1 0 1 2 12
+p274
+aVDevin Harris NJN 02/17/2010 NJN vs. MIA L 32 18 6 15 40.0 1 4 25.0 5 8 62.5 1 2 3 6 0 0 3 3 -10
+p275
+aVYi Jianlian NJN 02/17/2010 NJN vs. MIA L 28 9 3 7 42.9 0 0 - 3 4 75.0 2 7 9 2 0 1 1 4 -10
+p276
+aVBrook Lopez NJN 02/17/2010 NJN vs. MIA L 37 26 10 20 50.0 0 0 - 6 7 85.7 6 4 10 2 0 2 1 3 -3
+p277
+aVJarvis Hayes NJN 02/17/2010 NJN vs. MIA L 28 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 2 -14
+p278
+aVJosh Boone NJN 02/17/2010 NJN vs. MIA L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 1 1 2
+p279
+aVTerrence Williams NJN 02/17/2010 NJN vs. MIA L 15 4 2 6 33.3 0 0 - 0 0 - 1 4 5 2 2 0 1 1 6
+p280
+aVCourtney Lee NJN 02/17/2010 NJN vs. MIA L 31 2 0 9 0.0 0 5 0.0 2 2 100.0 0 3 3 1 1 1 0 1 -14
+p281
+aVKris Humphries NJN 02/17/2010 NJN vs. MIA L 22 2 1 7 14.3 0 0 - 0 0 - 4 8 12 0 1 1 1 3 5
+p282
+aVJosh Boone NJN 02/16/2010 NJN @ CHA W 16 7 3 4 75.0 0 0 - 1 2 50.0 4 4 8 0 0 1 0 4 1
+p283
+aVKeyon Dooling NJN 02/16/2010 NJN @ CHA W 17 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 0 0 0 2 1 -4
+p284
+aVChris Douglas-Roberts NJN 02/16/2010 NJN @ CHA W 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -3
+p285
+aVBrook Lopez NJN 02/16/2010 NJN @ CHA W 29 16 8 11 72.7 0 0 - 0 0 - 2 1 3 2 0 3 3 6 14
+p286
+aVCourtney Lee NJN 02/16/2010 NJN @ CHA W 34 21 7 11 63.6 1 2 50.0 6 8 75.0 2 3 5 3 1 0 1 1 13
+p287
+aVYi Jianlian NJN 02/16/2010 NJN @ CHA W 28 6 1 4 25.0 0 0 - 4 5 80.0 1 3 4 0 0 1 1 3 14
+p288
+aVKris Humphries NJN 02/16/2010 NJN @ CHA W 22 13 6 11 54.5 0 0 - 1 2 50.0 2 6 8 0 0 0 0 1 -9
+p289
+aVTerrence Williams NJN 02/16/2010 NJN @ CHA W 16 4 2 4 50.0 0 0 - 0 0 - 0 5 5 1 0 1 2 0 -6
+p290
+aVDevin Harris NJN 02/16/2010 NJN @ CHA W 37 17 7 16 43.8 1 2 50.0 2 3 66.7 1 5 6 9 0 1 3 2 15
+p291
+aVJarvis Hayes NJN 02/16/2010 NJN @ CHA W 28 12 5 12 41.7 2 7 28.6 0 0 - 0 6 6 2 0 1 1 3 10
+p292
+aVYi Jianlian NJN 02/10/2010 NJN vs. MIL L 32 9 4 14 28.6 0 0 - 1 2 50.0 5 7 12 2 1 0 2 4 -3
+p293
+aVCourtney Lee NJN 02/10/2010 NJN vs. MIL L 35 11 5 11 45.5 1 2 50.0 0 0 - 1 4 5 1 1 0 1 3 -7
+p294
+aVJarvis Hayes NJN 02/10/2010 NJN vs. MIL L 33 9 4 8 50.0 1 2 50.0 0 0 - 0 3 3 0 1 0 0 2 3
+p295
+aVTerrence Williams NJN 02/10/2010 NJN vs. MIL L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 3 0 -8
+p296
+aVChris Douglas-Roberts NJN 02/10/2010 NJN vs. MIL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p297
+aVKeyon Dooling NJN 02/10/2010 NJN vs. MIL L 6 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p298
+aVTony Battie NJN 02/10/2010 NJN vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p299
+aVBrook Lopez NJN 02/10/2010 NJN vs. MIL L 37 9 3 6 50.0 0 0 - 3 6 50.0 1 5 6 2 0 1 2 4 -15
+p300
+aVDevin Harris NJN 02/10/2010 NJN vs. MIL L 35 27 9 17 52.9 1 1 100.0 8 10 80.0 0 3 3 9 1 0 5 2 -10
+p301
+aVTrenton Hassell NJN 02/10/2010 NJN vs. MIL L 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 -21
+p302
+aVChris Quinn NJN 02/10/2010 NJN vs. MIL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 2 0 1 0 -10
+p303
+aVKris Humphries NJN 02/10/2010 NJN vs. MIL L 20 7 3 8 37.5 0 0 - 1 2 50.0 2 5 7 0 0 0 0 1 -27
+p304
+aVKris Humphries NJN 02/09/2010 NJN @ CLE L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -22
+p305
+aVTerrence Williams NJN 02/09/2010 NJN @ CLE L 12 0 0 4 0.0 0 0 - 0 0 - 0 1 1 4 0 0 2 3 -23
+p306
+aVKeyon Dooling NJN 02/09/2010 NJN @ CLE L 30 11 4 10 40.0 1 3 33.3 2 2 100.0 0 0 0 7 0 0 1 2 12
+p307
+aVJarvis Hayes NJN 02/09/2010 NJN @ CLE L 41 19 8 13 61.5 3 6 50.0 0 1 0.0 0 0 0 2 1 0 0 0 5
+p308
+aVChris Quinn NJN 02/09/2010 NJN @ CLE L 12 1 0 0 - 0 0 - 1 1 100.0 0 0 0 2 0 0 0 1 -11
+p309
+aVYi Jianlian NJN 02/09/2010 NJN @ CLE L 36 11 5 9 55.6 0 0 - 1 2 50.0 2 6 8 1 0 0 2 5 15
+p310
+aVTrenton Hassell NJN 02/09/2010 NJN @ CLE L 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -14
+p311
+aVCourtney Lee NJN 02/09/2010 NJN @ CLE L 39 24 9 15 60.0 1 2 50.0 5 5 100.0 2 5 7 4 1 0 2 1 10
+p312
+aVBrook Lopez NJN 02/09/2010 NJN @ CLE L 38 23 8 15 53.3 0 0 - 7 9 77.8 8 6 14 3 0 1 4 4 12
+p313
+aVTony Battie NJN 02/09/2010 NJN @ CLE L 10 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -19
+p314
+aVKris Humphries NJN 02/06/2010 NJN @ DET L 28 14 6 14 42.9 0 0 - 2 4 50.0 6 3 9 0 1 0 1 2 -11
+p315
+aVKeyon Dooling NJN 02/06/2010 NJN @ DET L 21 11 4 7 57.1 3 5 60.0 0 0 - 0 0 0 4 1 0 2 1 -1
+p316
+aVDevin Harris NJN 02/06/2010 NJN @ DET L 40 21 7 12 58.3 3 5 60.0 4 5 80.0 0 5 5 7 1 2 1 3 -7
+p317
+aVCourtney Lee NJN 02/06/2010 NJN @ DET L 31 9 4 12 33.3 1 3 33.3 0 0 - 0 3 3 1 1 0 2 3 -6
+p318
+aVYi Jianlian NJN 02/06/2010 NJN @ DET L 24 6 1 7 14.3 0 0 - 4 4 100.0 0 5 5 1 0 1 0 2 -1
+p319
+aVChris Douglas-Roberts NJN 02/06/2010 NJN @ DET L 9 0 0 1 0.0 0 0 - 0 1 0.0 0 0 0 1 1 1 0 1 -5
+p320
+aVJarvis Hayes NJN 02/06/2010 NJN @ DET L 30 9 3 6 50.0 1 2 50.0 2 2 100.0 1 5 6 0 3 0 1 2 -4
+p321
+aVBrook Lopez NJN 02/06/2010 NJN @ DET L 44 20 8 12 66.7 0 0 - 4 5 80.0 3 2 5 5 0 1 4 2 -2
+p322
+aVTerrence Williams NJN 02/06/2010 NJN @ DET L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 1 2
+p323
+aVChris Douglas-Roberts NJN 02/05/2010 NJN @ BOS L 10 9 2 3 66.7 1 1 100.0 4 4 100.0 1 2 3 0 0 0 2 2 1
+p324
+aVDevin Harris NJN 02/05/2010 NJN @ BOS L 35 17 6 15 40.0 0 5 0.0 5 6 83.3 1 1 2 8 0 0 3 3 -1
+p325
+aVYi Jianlian NJN 02/05/2010 NJN @ BOS L 31 10 4 10 40.0 0 0 - 2 2 100.0 1 4 5 0 0 1 0 3 -11
+p326
+aVBrook Lopez NJN 02/05/2010 NJN @ BOS L 41 19 6 13 46.2 0 0 - 7 10 70.0 1 5 6 3 2 0 4 0 -9
+p327
+aVKeyon Dooling NJN 02/05/2010 NJN @ BOS L 13 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 1 -8
+p328
+aVJarvis Hayes NJN 02/05/2010 NJN @ BOS L 27 10 4 8 50.0 2 5 40.0 0 0 - 1 3 4 0 1 0 0 3 -5
+p329
+aVKris Humphries NJN 02/05/2010 NJN @ BOS L 24 3 1 6 16.7 0 0 - 1 2 50.0 3 5 8 1 1 0 1 2 4
+p330
+aVTerrence Williams NJN 02/05/2010 NJN @ BOS L 19 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -6
+p331
+aVCourtney Lee NJN 02/05/2010 NJN @ BOS L 39 12 4 8 50.0 1 4 25.0 3 3 100.0 0 3 3 0 1 1 2 2 -10
+p332
+aVKris Humphries NJN 02/03/2010 NJN @ TOR L 26 13 5 12 41.7 0 0 - 3 4 75.0 3 8 11 0 0 1 1 4 8
+p333
+aVBrook Lopez NJN 02/03/2010 NJN @ TOR L 32 12 5 10 50.0 0 0 - 2 2 100.0 2 1 3 1 0 0 2 3 -9
+p334
+aVChris Quinn NJN 02/03/2010 NJN @ TOR L 12 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 1 0 0 2 0 6
+p335
+aVJarvis Hayes NJN 02/03/2010 NJN @ TOR L 36 11 5 10 50.0 1 5 20.0 0 0 - 0 5 5 1 1 0 0 3 -22
+p336
+aVCourtney Lee NJN 02/03/2010 NJN @ TOR L 29 14 6 12 50.0 2 5 40.0 0 0 - 2 2 4 1 2 0 0 1 -16
+p337
+aVChris Douglas-Roberts NJN 02/03/2010 NJN @ TOR L 15 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 2 0 0 0 0 7
+p338
+aVYi Jianlian NJN 02/03/2010 NJN @ TOR L 33 15 7 14 50.0 0 0 - 1 1 100.0 3 4 7 2 1 1 2 4 -14
+p339
+aVDevin Harris NJN 02/03/2010 NJN @ TOR L 36 15 4 17 23.5 2 5 40.0 5 6 83.3 2 1 3 8 1 0 4 2 -15
+p340
+aVTerrence Williams NJN 02/03/2010 NJN @ TOR L 20 5 2 5 40.0 0 0 - 1 2 50.0 0 4 4 5 0 0 2 2 10
+p341
+aVBrook Lopez NJN 02/02/2010 NJN vs. DET L 40 27 11 16 68.8 0 0 - 5 8 62.5 3 4 7 2 0 2 4 4 -8
+p342
+aVYi Jianlian NJN 02/02/2010 NJN vs. DET L 32 3 1 12 8.3 0 3 0.0 1 1 100.0 2 3 5 0 0 1 0 1 8
+p343
+aVChris Quinn NJN 02/02/2010 NJN vs. DET L 9 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 1 0
+p344
+aVDevin Harris NJN 02/02/2010 NJN vs. DET L 39 24 7 14 50.0 0 3 0.0 10 11 90.9 1 4 5 14 0 1 3 3 -4
+p345
+aVKris Humphries NJN 02/02/2010 NJN vs. DET L 25 9 3 8 37.5 0 0 - 3 4 75.0 2 10 12 0 0 0 1 2 -8
+p346
+aVJarvis Hayes NJN 02/02/2010 NJN vs. DET L 33 11 5 10 50.0 1 3 33.3 0 0 - 0 3 3 1 0 0 2 5 -4
+p347
+aVTerrence Williams NJN 02/02/2010 NJN vs. DET L 20 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 5 0 0 1 1 1
+p348
+aVCourtney Lee NJN 02/02/2010 NJN vs. DET L 33 15 5 9 55.6 3 4 75.0 2 2 100.0 0 5 5 1 3 1 1 0 -1
+p349
+aVChris Douglas-Roberts NJN 02/02/2010 NJN vs. DET L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -4
+p350
+aVCourtney Lee NJN 01/31/2010 NJN vs. PHI L 30 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 1 2 0 1 3 -8
+p351
+aVJarvis Hayes NJN 01/31/2010 NJN vs. PHI L 23 18 7 13 53.8 4 8 50.0 0 0 - 2 6 8 1 0 0 1 0 2
+p352
+aVTerrence Williams NJN 01/31/2010 NJN vs. PHI L 27 6 3 9 33.3 0 2 0.0 0 0 - 1 10 11 3 1 0 1 3 3
+p353
+aVChris Douglas-Roberts NJN 01/31/2010 NJN vs. PHI L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 1 2 1 -5
+p354
+aVTrenton Hassell NJN 01/31/2010 NJN vs. PHI L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p355
+aVKeyon Dooling NJN 01/31/2010 NJN vs. PHI L 37 13 5 12 41.7 1 6 16.7 2 4 50.0 0 0 0 7 0 0 4 3 -1
+p356
+aVYi Jianlian NJN 01/31/2010 NJN vs. PHI L 36 15 7 15 46.7 1 2 50.0 0 0 - 2 10 12 2 3 1 4 4 -6
+p357
+aVBrook Lopez NJN 01/31/2010 NJN vs. PHI L 40 18 6 14 42.9 0 0 - 6 6 100.0 3 6 9 2 1 3 3 4 -1
+p358
+aVKris Humphries NJN 01/31/2010 NJN vs. PHI L 16 2 1 5 20.0 0 0 - 0 0 - 2 3 5 0 1 0 1 2 -2
+p359
+aVChris Quinn NJN 01/31/2010 NJN vs. PHI L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 0
+p360
+aVJarvis Hayes NJN 01/29/2010 NJN vs. WAS L 13 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -14
+p361
+aVTerrence Williams NJN 01/29/2010 NJN vs. WAS L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 0 -11
+p362
+aVKris Humphries NJN 01/29/2010 NJN vs. WAS L 26 8 1 8 12.5 0 0 - 6 7 85.7 2 1 3 1 1 0 4 5 -6
+p363
+aVKeyon Dooling NJN 01/29/2010 NJN vs. WAS L 37 7 3 6 50.0 1 1 100.0 0 0 - 1 3 4 6 2 0 2 3 5
+p364
+aVYi Jianlian NJN 01/29/2010 NJN vs. WAS L 29 9 4 9 44.4 0 0 - 1 4 25.0 1 3 4 1 0 0 2 3 5
+p365
+aVChris Quinn NJN 01/29/2010 NJN vs. WAS L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 1 0 2 2 -7
+p366
+aVBrook Lopez NJN 01/29/2010 NJN vs. WAS L 41 17 6 14 42.9 0 0 - 5 8 62.5 2 6 8 2 0 4 4 4 -3
+p367
+aVChris Douglas-Roberts NJN 01/29/2010 NJN vs. WAS L 29 8 3 7 42.9 0 0 - 2 3 66.7 0 9 9 2 1 0 1 3 15
+p368
+aVCourtney Lee NJN 01/29/2010 NJN vs. WAS L 38 19 8 12 66.7 0 1 0.0 3 3 100.0 1 2 3 0 1 0 0 1 6
+p369
+aVChris Douglas-Roberts NJN 01/27/2010 NJN vs. LAC W 24 5 2 7 28.6 0 1 0.0 1 1 100.0 1 4 5 2 0 0 2 1 -4
+p370
+aVJarvis Hayes NJN 01/27/2010 NJN vs. LAC W 30 9 3 8 37.5 1 5 20.0 2 2 100.0 0 2 2 0 1 0 2 0 14
+p371
+aVTony Battie NJN 01/27/2010 NJN vs. LAC W 9 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 1 0 1 3 0
+p372
+aVKris Humphries NJN 01/27/2010 NJN vs. LAC W 30 25 10 14 71.4 0 0 - 5 5 100.0 1 7 8 1 1 1 1 4 20
+p373
+aVYi Jianlian NJN 01/27/2010 NJN vs. LAC W 15 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 5 3
+p374
+aVChris Quinn NJN 01/27/2010 NJN vs. LAC W 12 8 2 2 100.0 2 2 100.0 2 2 100.0 0 1 1 2 0 1 0 0 6
+p375
+aVKeyon Dooling NJN 01/27/2010 NJN vs. LAC W 36 18 7 13 53.8 2 4 50.0 2 2 100.0 0 2 2 8 2 0 2 2 10
+p376
+aVTrenton Hassell NJN 01/27/2010 NJN vs. LAC W 11 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 3 0 1
+p377
+aVJosh Boone NJN 01/27/2010 NJN vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p378
+aVBrook Lopez NJN 01/27/2010 NJN vs. LAC W 40 19 9 14 64.3 0 1 0.0 1 3 33.3 1 8 9 4 3 3 3 2 8
+p379
+aVTerrence Williams NJN 01/27/2010 NJN vs. LAC W 31 7 3 7 42.9 0 0 - 1 1 100.0 3 6 9 8 1 0 1 2 21
+p380
+aVKeyon Dooling NJN 01/23/2010 NJN @ UTA L 19 3 1 7 14.3 1 5 20.0 0 0 - 0 2 2 1 0 0 3 1 -24
+p381
+aVBrook Lopez NJN 01/23/2010 NJN @ UTA L 33 14 5 7 71.4 0 0 - 4 5 80.0 1 4 5 3 1 2 2 2 -28
+p382
+aVTony Battie NJN 01/23/2010 NJN @ UTA L 7 0 0 1 0.0 0 1 0.0 0 2 0.0 0 2 2 2 0 0 0 2 3
+p383
+aVChris Quinn NJN 01/23/2010 NJN @ UTA L 19 9 3 6 50.0 3 4 75.0 0 0 - 0 1 1 3 0 0 0 2 -3
+p384
+aVKris Humphries NJN 01/23/2010 NJN @ UTA L 23 10 3 8 37.5 0 0 - 4 6 66.7 2 3 5 1 0 0 2 3 -22
+p385
+aVJarvis Hayes NJN 01/23/2010 NJN @ UTA L 26 7 3 12 25.0 1 6 16.7 0 0 - 1 2 3 3 0 0 1 4 -8
+p386
+aVTerrence Williams NJN 01/23/2010 NJN @ UTA L 28 13 5 10 50.0 1 1 100.0 2 2 100.0 1 5 6 3 2 0 4 1 -15
+p387
+aVChris Douglas-Roberts NJN 01/23/2010 NJN @ UTA L 23 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -23
+p388
+aVYi Jianlian NJN 01/23/2010 NJN @ UTA L 29 16 6 12 50.0 1 1 100.0 3 5 60.0 1 2 3 1 1 0 2 4 -20
+p389
+aVTrenton Hassell NJN 01/23/2010 NJN @ UTA L 10 2 1 3 33.3 0 0 - 0 2 0.0 1 0 1 1 1 0 0 2 -6
+p390
+aVCourtney Lee NJN 01/23/2010 NJN @ UTA L 19 5 2 5 40.0 0 1 0.0 1 1 100.0 0 1 1 2 0 0 1 0 -20
+p391
+aVJosh Boone NJN 01/23/2010 NJN @ UTA L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p392
+aVTrenton Hassell NJN 01/22/2010 NJN @ GSW L 9 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -14
+p393
+aVKris Humphries NJN 01/22/2010 NJN @ GSW L 22 9 3 8 37.5 0 0 - 3 5 60.0 2 3 5 2 1 0 1 3 -4
+p394
+aVJarvis Hayes NJN 01/22/2010 NJN @ GSW L 16 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 0 0 1 3 3 -20
+p395
+aVKeyon Dooling NJN 01/22/2010 NJN @ GSW L 15 4 1 4 25.0 0 2 0.0 2 5 40.0 0 1 1 1 0 0 1 2 -21
+p396
+aVBrook Lopez NJN 01/22/2010 NJN @ GSW L 32 21 6 12 50.0 0 0 - 9 12 75.0 2 4 6 2 2 1 1 5 -8
+p397
+aVDevin Harris NJN 01/22/2010 NJN @ GSW L 20 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 3 0 0 2 1 -3
+p398
+aVJosh Boone NJN 01/22/2010 NJN @ GSW L 6 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -8
+p399
+aVTerrence Williams NJN 01/22/2010 NJN @ GSW L 25 4 1 6 16.7 0 0 - 2 2 100.0 0 4 4 4 2 0 2 4 -13
+p400
+aVCourtney Lee NJN 01/22/2010 NJN @ GSW L 32 17 6 13 46.2 3 6 50.0 2 2 100.0 4 2 6 1 3 0 3 1 -9
+p401
+aVYi Jianlian NJN 01/22/2010 NJN @ GSW L 26 2 1 6 16.7 0 0 - 0 0 - 2 9 11 1 2 2 3 4 -30
+p402
+aVChris Quinn NJN 01/22/2010 NJN @ GSW L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p403
+aVChris Douglas-Roberts NJN 01/22/2010 NJN @ GSW L 29 10 4 9 44.4 0 0 - 2 2 100.0 1 3 4 3 0 0 1 0 -23
+p404
+aVTerrence Williams NJN 01/20/2010 NJN @ PHX L 19 4 2 3 66.7 0 0 - 0 0 - 2 5 7 1 1 1 1 3 6
+p405
+aVKris Humphries NJN 01/20/2010 NJN @ PHX L 25 9 4 9 44.4 0 0 - 1 3 33.3 1 6 7 2 0 1 2 4 -11
+p406
+aVDevin Harris NJN 01/20/2010 NJN @ PHX L 31 11 4 14 28.6 1 4 25.0 2 2 100.0 1 2 3 7 0 0 4 3 -28
+p407
+aVChris Douglas-Roberts NJN 01/20/2010 NJN @ PHX L 24 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 2 0 1 3 -28
+p408
+aVJarvis Hayes NJN 01/20/2010 NJN @ PHX L 23 11 5 11 45.5 1 3 33.3 0 0 - 0 1 1 2 0 0 1 0 -2
+p409
+aVCourtney Lee NJN 01/20/2010 NJN @ PHX L 30 10 3 8 37.5 0 2 0.0 4 4 100.0 0 2 2 1 1 1 3 3 -24
+p410
+aVYi Jianlian NJN 01/20/2010 NJN @ PHX L 35 14 5 10 50.0 0 0 - 4 6 66.7 2 4 6 3 0 0 1 4 -11
+p411
+aVKeyon Dooling NJN 01/20/2010 NJN @ PHX L 16 5 1 6 16.7 1 4 25.0 2 2 100.0 0 1 1 2 0 0 1 3 6
+p412
+aVChris Quinn NJN 01/20/2010 NJN @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p413
+aVBrook Lopez NJN 01/20/2010 NJN @ PHX L 36 26 12 22 54.5 0 0 - 2 3 66.7 8 5 13 3 1 1 1 2 -26
+p414
+aVChris Quinn NJN 01/18/2010 NJN @ LAC L 4 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 3 0 0 0 0 7
+p415
+aVBrook Lopez NJN 01/18/2010 NJN @ LAC L 34 23 10 13 76.9 0 0 - 3 4 75.0 5 3 8 2 0 4 2 5 -3
+p416
+aVChris Douglas-Roberts NJN 01/18/2010 NJN @ LAC L 29 8 3 7 42.9 0 0 - 2 2 100.0 2 1 3 3 3 0 2 1 -6
+p417
+aVJarvis Hayes NJN 01/18/2010 NJN @ LAC L 18 3 1 3 33.3 0 2 0.0 1 2 50.0 0 0 0 0 1 0 1 2 -5
+p418
+aVKris Humphries NJN 01/18/2010 NJN @ LAC L 28 21 9 14 64.3 0 0 - 3 4 75.0 2 5 7 0 0 1 0 2 -2
+p419
+aVKeyon Dooling NJN 01/18/2010 NJN @ LAC L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 4 2 0 1 2 -3
+p420
+aVJosh Boone NJN 01/18/2010 NJN @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p421
+aVDevin Harris NJN 01/18/2010 NJN @ LAC L 33 10 4 10 40.0 1 2 50.0 1 2 50.0 1 2 3 8 1 0 2 3 -15
+p422
+aVTerrence Williams NJN 01/18/2010 NJN @ LAC L 12 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 0 0 1 0 3
+p423
+aVYi Jianlian NJN 01/18/2010 NJN @ LAC L 31 13 3 13 23.1 1 1 100.0 6 6 100.0 1 2 3 1 0 2 0 3 -11
+p424
+aVCourtney Lee NJN 01/18/2010 NJN @ LAC L 35 11 5 10 50.0 1 4 25.0 0 0 - 0 1 1 4 3 0 2 3 -14
+p425
+aVKris Humphries NJN 01/15/2010 NJN vs. IND L 27 15 5 7 71.4 0 0 - 5 6 83.3 1 7 8 1 2 1 2 3 -26
+p426
+aVTerrence Williams NJN 01/15/2010 NJN vs. IND L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p427
+aVBrook Lopez NJN 01/15/2010 NJN vs. IND L 34 27 9 16 56.3 0 0 - 9 9 100.0 4 3 7 2 1 1 1 3 -1
+p428
+aVYi Jianlian NJN 01/15/2010 NJN vs. IND L 35 17 5 13 38.5 0 0 - 7 8 87.5 3 7 10 0 0 0 0 3 -5
+p429
+aVChris Quinn NJN 01/15/2010 NJN vs. IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 1
+p430
+aVDevin Harris NJN 01/15/2010 NJN vs. IND L 34 22 7 15 46.7 1 2 50.0 7 10 70.0 0 4 4 9 0 0 2 4 0
+p431
+aVCourtney Lee NJN 01/15/2010 NJN vs. IND L 30 3 1 6 16.7 0 1 0.0 1 2 50.0 0 2 2 2 0 1 0 0 5
+p432
+aVTrenton Hassell NJN 01/15/2010 NJN vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -16
+p433
+aVChris Douglas-Roberts NJN 01/15/2010 NJN vs. IND L 29 8 2 7 28.6 1 2 50.0 3 4 75.0 0 4 4 3 2 0 2 2 -7
+p434
+aVJarvis Hayes NJN 01/15/2010 NJN vs. IND L 19 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 1 0 0 1 2 -9
+p435
+aVKeyon Dooling NJN 01/15/2010 NJN vs. IND L 21 8 3 10 30.0 2 5 40.0 0 0 - 0 1 1 0 2 0 0 3 -16
+p436
+aVChris Quinn NJN 01/13/2010 NJN vs. BOS L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 0
+p437
+aVBrook Lopez NJN 01/13/2010 NJN vs. BOS L 38 18 5 12 41.7 0 0 - 8 8 100.0 2 8 10 2 0 4 3 1 -25
+p438
+aVJosh Boone NJN 01/13/2010 NJN vs. BOS L 4 0 0 0 - 0 0 - 0 2 0.0 0 3 3 0 0 0 0 0 -3
+p439
+aVChris Douglas-Roberts NJN 01/13/2010 NJN vs. BOS L 26 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 2 0 0 0 3 -11
+p440
+aVJarvis Hayes NJN 01/13/2010 NJN vs. BOS L 18 6 3 7 42.9 0 4 0.0 0 0 - 0 0 0 0 0 0 2 3 -9
+p441
+aVCourtney Lee NJN 01/13/2010 NJN vs. BOS L 22 9 3 4 75.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 3 3 -8
+p442
+aVYi Jianlian NJN 01/13/2010 NJN vs. BOS L 33 19 6 12 50.0 1 2 50.0 6 7 85.7 0 3 3 0 0 0 1 2 -21
+p443
+aVTerrence Williams NJN 01/13/2010 NJN vs. BOS L 20 1 0 4 0.0 0 0 - 1 2 50.0 0 4 4 1 0 0 1 2 -8
+p444
+aVKris Humphries NJN 01/13/2010 NJN vs. BOS L 17 9 1 8 12.5 0 1 0.0 7 10 70.0 5 3 8 0 0 1 1 4 0
+p445
+aVTrenton Hassell NJN 01/13/2010 NJN vs. BOS L 17 7 2 4 50.0 0 0 - 3 4 75.0 1 2 3 0 0 0 2 3 -13
+p446
+aVDevin Harris NJN 01/13/2010 NJN vs. BOS L 34 15 5 13 38.5 0 1 0.0 5 6 83.3 1 2 3 6 2 0 1 4 -22
+p447
+aVChris Quinn NJN 01/10/2010 NJN @ SAS L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -13
+p448
+aVYi Jianlian NJN 01/10/2010 NJN @ SAS L 38 16 4 17 23.5 0 1 0.0 8 10 80.0 4 4 8 1 0 0 1 3 -4
+p449
+aVTerrence Williams NJN 01/10/2010 NJN @ SAS L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p450
+aVBrook Lopez NJN 01/10/2010 NJN @ SAS L 42 28 10 17 58.8 0 0 - 8 8 100.0 2 9 11 2 1 3 2 6 -3
+p451
+aVTrenton Hassell NJN 01/10/2010 NJN @ SAS L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -3
+p452
+aVKeyon Dooling NJN 01/10/2010 NJN @ SAS L 37 10 4 10 40.0 2 5 40.0 0 0 - 0 4 4 5 0 0 0 2 1
+p453
+aVJosh Boone NJN 01/10/2010 NJN @ SAS L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -13
+p454
+aVJarvis Hayes NJN 01/10/2010 NJN @ SAS L 15 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 0 -16
+p455
+aVCourtney Lee NJN 01/10/2010 NJN @ SAS L 37 4 2 11 18.2 0 4 0.0 0 0 - 0 4 4 5 0 0 0 1 -4
+p456
+aVChris Douglas-Roberts NJN 01/10/2010 NJN @ SAS L 39 13 6 14 42.9 0 1 0.0 1 1 100.0 1 4 5 1 2 1 1 2 2
+p457
+aVDevin Harris NJN 01/08/2010 NJN @ NOH L 34 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 4 0 0 0 4 -13
+p458
+aVJarvis Hayes NJN 01/08/2010 NJN @ NOH L 20 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 1 0 2 3 1
+p459
+aVTony Battie NJN 01/08/2010 NJN @ NOH L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p460
+aVBrook Lopez NJN 01/08/2010 NJN @ NOH L 27 14 5 14 35.7 0 0 - 4 5 80.0 3 6 9 5 2 1 2 4 1
+p461
+aVChris Douglas-Roberts NJN 01/08/2010 NJN @ NOH L 30 10 3 10 30.0 0 1 0.0 4 4 100.0 1 5 6 3 0 0 1 0 -10
+p462
+aVCourtney Lee NJN 01/08/2010 NJN @ NOH L 37 28 8 14 57.1 5 7 71.4 7 7 100.0 1 1 2 6 2 0 1 4 -3
+p463
+aVTrenton Hassell NJN 01/08/2010 NJN @ NOH L 23 8 4 7 57.1 0 0 - 0 0 - 3 2 5 1 0 0 1 2 13
+p464
+aVKeyon Dooling NJN 01/08/2010 NJN @ NOH L 23 21 8 11 72.7 4 7 57.1 1 1 100.0 1 1 2 2 0 0 2 2 10
+p465
+aVJosh Boone NJN 01/08/2010 NJN @ NOH L 7 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -6
+p466
+aVYi Jianlian NJN 01/08/2010 NJN @ NOH L 32 8 4 10 40.0 0 0 - 0 0 - 3 7 10 1 0 2 4 3 -6
+p467
+aVCourtney Lee NJN 01/06/2010 NJN @ ATL L 30 9 4 9 44.4 1 2 50.0 0 0 - 2 1 3 0 2 0 1 1 -28
+p468
+aVChris Quinn NJN 01/06/2010 NJN @ ATL L 7 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 0
+p469
+aVYi Jianlian NJN 01/06/2010 NJN @ ATL L 36 19 7 17 41.2 0 1 0.0 5 6 83.3 5 6 11 1 1 1 4 3 -28
+p470
+aVChris Douglas-Roberts NJN 01/06/2010 NJN @ ATL L 29 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 1 2 1 0 2 -26
+p471
+aVTerrence Williams NJN 01/06/2010 NJN @ ATL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 4
+p472
+aVTony Battie NJN 01/06/2010 NJN @ ATL L 12 9 3 6 50.0 1 1 100.0 2 2 100.0 0 0 0 0 2 0 0 0 1
+p473
+aVSean Williams NJN 01/06/2010 NJN @ ATL L 7 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 2 2 0 0
+p474
+aVBrook Lopez NJN 01/06/2010 NJN @ ATL L 35 12 6 10 60.0 0 0 - 0 0 - 2 6 8 3 0 2 0 1 -27
+p475
+aVJarvis Hayes NJN 01/06/2010 NJN @ ATL L 20 6 3 11 27.3 0 5 0.0 0 0 - 0 1 1 3 1 0 0 4 -9
+p476
+aVTrenton Hassell NJN 01/06/2010 NJN @ ATL L 19 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 3 0 1 0 0 -7
+p477
+aVKeyon Dooling NJN 01/06/2010 NJN @ ATL L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 3 0 0 3 0 -12
+p478
+aVDevin Harris NJN 01/06/2010 NJN @ ATL L 29 15 3 8 37.5 0 1 0.0 9 11 81.8 2 0 2 8 4 0 3 3 -18
+p479
+aVBrook Lopez NJN 01/05/2010 NJN vs. MIL L 34 11 2 6 33.3 0 0 - 7 8 87.5 1 6 7 2 2 0 2 1 -13
+p480
+aVDevin Harris NJN 01/05/2010 NJN vs. MIL L 36 5 0 4 0.0 0 0 - 5 6 83.3 0 6 6 7 2 1 5 3 -9
+p481
+aVCourtney Lee NJN 01/05/2010 NJN vs. MIL L 38 6 3 12 25.0 0 1 0.0 0 0 - 1 4 5 2 1 0 1 0 -17
+p482
+aVTrenton Hassell NJN 01/05/2010 NJN vs. MIL L 6 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 0
+p483
+aVTony Battie NJN 01/05/2010 NJN vs. MIL L 10 0 0 3 0.0 0 2 0.0 0 0 - 2 1 3 0 0 0 0 0 -6
+p484
+aVEduardo Najera NJN 01/05/2010 NJN vs. MIL L 15 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 2 2 -22
+p485
+aVTerrence Williams NJN 01/05/2010 NJN vs. MIL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p486
+aVYi Jianlian NJN 01/05/2010 NJN vs. MIL L 31 22 7 12 58.3 0 0 - 8 10 80.0 1 1 2 0 2 2 2 5 -3
+p487
+aVJarvis Hayes NJN 01/05/2010 NJN vs. MIL L 14 7 3 5 60.0 1 2 50.0 0 0 - 0 6 6 0 0 0 1 4 -5
+p488
+aVBobby Simmons NJN 01/05/2010 NJN vs. MIL L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 0
+p489
+aVChris Douglas-Roberts NJN 01/05/2010 NJN vs. MIL L 27 12 5 8 62.5 0 0 - 2 2 100.0 0 3 3 2 0 0 1 3 -13
+p490
+aVKeyon Dooling NJN 01/05/2010 NJN vs. MIL L 18 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -22
+p491
+aVCourtney Lee NJN 01/02/2010 NJN vs. CLE L 30 9 3 9 33.3 0 2 0.0 3 4 75.0 2 4 6 1 0 0 1 1 -10
+p492
+aVJosh Boone NJN 01/02/2010 NJN vs. CLE L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p493
+aVTrenton Hassell NJN 01/02/2010 NJN vs. CLE L 11 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -7
+p494
+aVKeyon Dooling NJN 01/02/2010 NJN vs. CLE L 17 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 2 0 0 1 1 5
+p495
+aVYi Jianlian NJN 01/02/2010 NJN vs. CLE L 41 11 2 13 15.4 1 2 50.0 6 8 75.0 2 6 8 1 1 3 1 4 -8
+p496
+aVTony Battie NJN 01/02/2010 NJN vs. CLE L 9 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 -8
+p497
+aVTerrence Williams NJN 01/02/2010 NJN vs. CLE L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -6
+p498
+aVDevin Harris NJN 01/02/2010 NJN vs. CLE L 40 22 7 13 53.8 1 2 50.0 7 8 87.5 1 4 5 6 1 0 3 4 -8
+p499
+aVChris Douglas-Roberts NJN 01/02/2010 NJN vs. CLE L 41 16 8 14 57.1 0 1 0.0 0 0 - 1 2 3 1 2 0 1 3 2
+p500
+aVBrook Lopez NJN 01/02/2010 NJN vs. CLE L 37 20 6 13 46.2 0 0 - 8 10 80.0 1 6 7 4 1 0 3 5 -1
+p501
+aVChris Douglas-Roberts NJN 12/30/2009 NJN vs. NYK W 37 17 8 15 53.3 0 1 0.0 1 2 50.0 1 4 5 4 1 0 2 2 8
+p502
+aVTrenton Hassell NJN 12/30/2009 NJN vs. NYK W 17 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 1 0 1 2 0
+p503
+aVBrook Lopez NJN 12/30/2009 NJN vs. NYK W 41 21 9 15 60.0 0 0 - 3 4 75.0 7 7 14 2 2 4 1 2 5
+p504
+aVTerrence Williams NJN 12/30/2009 NJN vs. NYK W 12 4 2 4 50.0 0 0 - 0 1 0.0 0 1 1 1 1 0 0 2 6
+p505
+aVDevin Harris NJN 12/30/2009 NJN vs. NYK W 36 17 6 15 40.0 1 1 100.0 4 8 50.0 1 6 7 8 0 0 5 0 3
+p506
+aVKeyon Dooling NJN 12/30/2009 NJN vs. NYK W 19 12 4 6 66.7 1 2 50.0 3 4 75.0 0 1 1 1 2 0 0 3 11
+p507
+aVYi Jianlian NJN 12/30/2009 NJN vs. NYK W 42 22 9 16 56.3 0 1 0.0 4 6 66.7 3 3 6 0 2 2 1 2 13
+p508
+aVCourtney Lee NJN 12/30/2009 NJN vs. NYK W 35 10 5 12 41.7 0 2 0.0 0 0 - 0 6 6 1 2 0 0 2 -1
+p509
+aVTrenton Hassell NJN 12/28/2009 NJN vs. OKC L 31 14 6 8 75.0 0 0 - 2 3 66.7 2 1 3 5 2 0 0 4 -6
+p510
+aVTony Battie NJN 12/28/2009 NJN vs. OKC L 15 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 0 1 1 0 2 0
+p511
+aVBrook Lopez NJN 12/28/2009 NJN vs. OKC L 33 10 5 11 45.5 0 0 - 0 1 0.0 1 6 7 0 1 2 1 5 -11
+p512
+aVKeyon Dooling NJN 12/28/2009 NJN vs. OKC L 21 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 1 0 2 1 -14
+p513
+aVYi Jianlian NJN 12/28/2009 NJN vs. OKC L 42 29 11 20 55.0 0 1 0.0 7 9 77.8 3 4 7 0 2 0 3 4 -17
+p514
+aVRafer Alston NJN 12/28/2009 NJN vs. OKC L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 2 -3
+p515
+aVCourtney Lee NJN 12/28/2009 NJN vs. OKC L 35 17 7 13 53.8 1 4 25.0 2 2 100.0 1 3 4 4 1 0 4 4 -9
+p516
+aVTerrence Williams NJN 12/28/2009 NJN vs. OKC L 15 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 0 0 2 4 -7
+p517
+aVDevin Harris NJN 12/28/2009 NJN vs. OKC L 36 11 3 8 37.5 0 1 0.0 5 6 83.3 0 4 4 11 2 0 3 2 -13
+p518
+aVYi Jianlian NJN 12/26/2009 NJN vs. HOU L 36 17 6 13 46.2 0 2 0.0 5 6 83.3 0 6 6 0 1 0 1 4 -7
+p519
+aVBrook Lopez NJN 12/26/2009 NJN vs. HOU L 36 17 7 11 63.6 0 0 - 3 4 75.0 2 9 11 3 3 3 3 2 -15
+p520
+aVCourtney Lee NJN 12/26/2009 NJN vs. HOU L 42 10 3 8 37.5 1 2 50.0 3 4 75.0 0 5 5 2 0 0 0 1 -6
+p521
+aVKeyon Dooling NJN 12/26/2009 NJN vs. HOU L 28 11 4 12 33.3 2 7 28.6 1 1 100.0 1 6 7 6 0 0 0 2 11
+p522
+aVTrenton Hassell NJN 12/26/2009 NJN vs. HOU L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 1 0 0 -6
+p523
+aVDevin Harris NJN 12/26/2009 NJN vs. HOU L 40 19 9 22 40.9 1 5 20.0 0 0 - 0 4 4 6 1 0 3 5 -10
+p524
+aVJosh Boone NJN 12/26/2009 NJN vs. HOU L 21 8 4 6 66.7 0 0 - 0 0 - 2 2 4 1 0 2 0 3 10
+p525
+aVTony Battie NJN 12/26/2009 NJN vs. HOU L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p526
+aVTerrence Williams NJN 12/26/2009 NJN vs. HOU L 20 9 4 5 80.0 0 0 - 1 2 50.0 0 0 0 2 1 0 1 3 -4
+p527
+aVDevin Harris NJN 12/23/2009 NJN vs. MIN L 38 23 9 17 52.9 0 2 0.0 5 6 83.3 0 2 2 8 2 1 6 4 -8
+p528
+aVTony Battie NJN 12/23/2009 NJN vs. MIN L 8 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 12
+p529
+aVYi Jianlian NJN 12/23/2009 NJN vs. MIN L 30 22 7 12 58.3 4 6 66.7 4 4 100.0 1 8 9 0 0 0 2 3 12
+p530
+aVKeyon Dooling NJN 12/23/2009 NJN vs. MIN L 22 12 5 10 50.0 2 4 50.0 0 0 - 0 0 0 4 2 0 1 1 15
+p531
+aVCourtney Lee NJN 12/23/2009 NJN vs. MIN L 43 20 8 16 50.0 3 4 75.0 1 1 100.0 1 4 5 3 0 0 2 1 -4
+p532
+aVTerrence Williams NJN 12/23/2009 NJN vs. MIN L 15 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 2 2 1
+p533
+aVJosh Boone NJN 12/23/2009 NJN vs. MIN L 21 3 1 6 16.7 0 0 - 1 2 50.0 3 2 5 0 0 1 1 0 -19
+p534
+aVBrook Lopez NJN 12/23/2009 NJN vs. MIN L 37 9 2 8 25.0 0 0 - 5 10 50.0 3 7 10 7 0 1 2 3 -13
+p535
+aVTrenton Hassell NJN 12/23/2009 NJN vs. MIN L 26 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 0 0 1 1 0 -16
+p536
+aVBrook Lopez NJN 12/19/2009 NJN vs. LAL L 40 18 6 16 37.5 0 0 - 6 7 85.7 4 7 11 4 0 2 2 2 -22
+p537
+aVTrenton Hassell NJN 12/19/2009 NJN vs. LAL L 21 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -7
+p538
+aVKeyon Dooling NJN 12/19/2009 NJN vs. LAL L 5 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 5
+p539
+aVTerrence Williams NJN 12/19/2009 NJN vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p540
+aVSean Williams NJN 12/19/2009 NJN vs. LAL L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 4
+p541
+aVChris Douglas-Roberts NJN 12/19/2009 NJN vs. LAL L 38 20 8 20 40.0 0 1 0.0 4 4 100.0 2 3 5 1 2 0 3 2 -24
+p542
+aVDevin Harris NJN 12/19/2009 NJN vs. LAL L 37 21 7 11 63.6 1 4 25.0 6 6 100.0 0 5 5 3 1 1 1 2 -14
+p543
+aVCourtney Lee NJN 12/19/2009 NJN vs. LAL L 30 7 3 11 27.3 0 2 0.0 1 2 50.0 0 5 5 2 1 2 0 5 -15
+p544
+aVBobby Simmons NJN 12/19/2009 NJN vs. LAL L 11 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 0 1 0 1 3 0
+p545
+aVRafer Alston NJN 12/19/2009 NJN vs. LAL L 17 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -12
+p546
+aVJosh Boone NJN 12/19/2009 NJN vs. LAL L 34 6 3 8 37.5 0 0 - 0 4 0.0 4 5 9 1 1 4 2 2 -14
+p547
+aVEduardo Najera NJN 12/18/2009 NJN @ TOR L 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p548
+aVRafer Alston NJN 12/18/2009 NJN @ TOR L 25 13 4 13 30.8 3 10 30.0 2 2 100.0 1 3 4 2 3 0 1 1 -2
+p549
+aVTrenton Hassell NJN 12/18/2009 NJN @ TOR L 19 2 1 2 50.0 0 0 - 0 0 - 0 3 3 4 0 0 2 0 -21
+p550
+aVTerrence Williams NJN 12/18/2009 NJN @ TOR L 21 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 2 -4
+p551
+aVDevin Harris NJN 12/18/2009 NJN @ TOR L 26 8 4 12 33.3 0 2 0.0 0 0 - 1 4 5 4 1 0 0 1 -21
+p552
+aVJosh Boone NJN 12/18/2009 NJN @ TOR L 17 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 4 2 -1
+p553
+aVSean Williams NJN 12/18/2009 NJN @ TOR L 16 10 3 6 50.0 0 0 - 4 4 100.0 2 3 5 0 0 0 1 1 3
+p554
+aVChris Douglas-Roberts NJN 12/18/2009 NJN @ TOR L 30 16 7 12 58.3 0 0 - 2 2 100.0 2 1 3 4 0 0 1 0 -24
+p555
+aVBrook Lopez NJN 12/18/2009 NJN @ TOR L 28 14 4 7 57.1 0 0 - 6 6 100.0 2 6 8 3 0 1 5 3 -21
+p556
+aVCourtney Lee NJN 12/18/2009 NJN @ TOR L 30 11 5 12 41.7 1 3 33.3 0 0 - 0 1 1 1 2 0 3 2 -26
+p557
+aVBobby Simmons NJN 12/18/2009 NJN @ TOR L 16 9 2 4 50.0 1 2 50.0 4 6 66.7 2 1 3 0 1 0 1 1 3
+p558
+aVEduardo Najera NJN 12/16/2009 NJN vs. UTA L 15 4 2 5 40.0 0 2 0.0 0 2 0.0 0 2 2 0 1 0 0 2 -1
+p559
+aVTerrence Williams NJN 12/16/2009 NJN vs. UTA L 20 17 6 10 60.0 0 0 - 5 6 83.3 0 2 2 2 1 0 1 1 2
+p560
+aVCourtney Lee NJN 12/16/2009 NJN vs. UTA L 38 15 6 12 50.0 0 3 0.0 3 4 75.0 1 2 3 1 0 1 2 2 -18
+p561
+aVSean Williams NJN 12/16/2009 NJN vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 3
+p562
+aVJosh Boone NJN 12/16/2009 NJN vs. UTA L 28 6 3 6 50.0 0 0 - 0 1 0.0 4 7 11 0 1 0 0 3 0
+p563
+aVBrook Lopez NJN 12/16/2009 NJN vs. UTA L 38 23 9 18 50.0 0 0 - 5 5 100.0 5 5 10 3 0 0 1 1 -26
+p564
+aVRafer Alston NJN 12/16/2009 NJN vs. UTA L 23 7 3 10 30.0 1 3 33.3 0 0 - 0 2 2 5 0 1 4 3 -4
+p565
+aVTrenton Hassell NJN 12/16/2009 NJN vs. UTA L 32 8 4 7 57.1 0 0 - 0 0 - 3 0 3 1 1 0 0 1 -14
+p566
+aVBobby Simmons NJN 12/16/2009 NJN vs. UTA L 9 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 2 -1
+p567
+aVDevin Harris NJN 12/16/2009 NJN vs. UTA L 33 9 1 9 11.1 0 2 0.0 7 11 63.6 0 1 1 6 1 0 1 5 -21
+p568
+aVJosh Boone NJN 12/15/2009 NJN @ CLE L 28 7 3 4 75.0 0 0 - 1 2 50.0 3 2 5 1 1 0 0 0 -8
+p569
+aVDevin Harris NJN 12/15/2009 NJN @ CLE L 37 22 7 18 38.9 0 4 0.0 8 8 100.0 0 0 0 3 1 0 3 1 -16
+p570
+aVBrook Lopez NJN 12/15/2009 NJN @ CLE L 40 22 6 17 35.3 0 0 - 10 11 90.9 5 10 15 2 0 1 1 2 -3
+p571
+aVCourtney Lee NJN 12/15/2009 NJN @ CLE L 42 8 3 14 21.4 0 5 0.0 2 2 100.0 1 3 4 2 1 0 2 2 0
+p572
+aVRafer Alston NJN 12/15/2009 NJN @ CLE L 19 20 7 14 50.0 4 7 57.1 2 2 100.0 0 1 1 3 1 0 1 3 -6
+p573
+aVTerrence Williams NJN 12/15/2009 NJN @ CLE L 13 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 0
+p574
+aVTrenton Hassell NJN 12/15/2009 NJN @ CLE L 36 4 2 6 33.3 0 0 - 0 0 - 4 3 7 1 0 1 0 4 -9
+p575
+aVEduardo Najera NJN 12/15/2009 NJN @ CLE L 15 2 1 2 50.0 0 1 0.0 0 2 0.0 2 1 3 1 2 0 1 4 1
+p576
+aVBobby Simmons NJN 12/15/2009 NJN @ CLE L 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 4 -9
+p577
+aVEduardo Najera NJN 12/13/2009 NJN @ ATL L 14 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 2 -11
+p578
+aVBrook Lopez NJN 12/13/2009 NJN @ ATL L 38 19 8 12 66.7 0 0 - 3 3 100.0 5 7 12 1 0 1 3 2 -19
+p579
+aVBobby Simmons NJN 12/13/2009 NJN @ ATL L 22 7 3 9 33.3 1 2 50.0 0 0 - 1 0 1 0 3 0 2 4 -14
+p580
+aVSean Williams NJN 12/13/2009 NJN @ ATL L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 3 0 0 0
+p581
+aVJosh Boone NJN 12/13/2009 NJN @ ATL L 19 8 4 6 66.7 0 0 - 0 1 0.0 3 2 5 3 0 1 0 5 -3
+p582
+aVTrenton Hassell NJN 12/13/2009 NJN @ ATL L 22 13 6 6 100.0 0 0 - 1 2 50.0 0 3 3 2 1 0 0 3 -4
+p583
+aVCourtney Lee NJN 12/13/2009 NJN @ ATL L 33 13 5 10 50.0 1 2 50.0 2 2 100.0 0 2 2 3 2 0 0 1 -23
+p584
+aVDevin Harris NJN 12/13/2009 NJN @ ATL L 37 23 9 18 50.0 1 2 50.0 4 5 80.0 0 2 2 9 0 0 4 1 -11
+p585
+aVTerrence Williams NJN 12/13/2009 NJN @ ATL L 26 18 8 14 57.1 1 1 100.0 1 2 50.0 1 6 7 2 1 0 1 0 -6
+p586
+aVRafer Alston NJN 12/13/2009 NJN @ ATL L 23 2 0 8 0.0 0 2 0.0 2 2 100.0 0 3 3 3 2 0 3 3 -24
+p587
+aVTrenton Hassell NJN 12/11/2009 NJN @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p588
+aVCourtney Lee NJN 12/11/2009 NJN @ IND L 38 14 6 15 40.0 0 3 0.0 2 2 100.0 0 1 1 1 3 0 0 4 -5
+p589
+aVBrook Lopez NJN 12/11/2009 NJN @ IND L 42 25 8 23 34.8 0 0 - 9 10 90.0 8 6 14 2 2 3 3 3 -13
+p590
+aVRafer Alston NJN 12/11/2009 NJN @ IND L 28 17 7 16 43.8 1 4 25.0 2 3 66.7 0 2 2 3 2 1 0 1 -9
+p591
+aVJosh Boone NJN 12/11/2009 NJN @ IND L 31 4 2 8 25.0 0 0 - 0 2 0.0 8 4 12 1 2 2 0 3 -5
+p592
+aVDevin Harris NJN 12/11/2009 NJN @ IND L 26 18 6 16 37.5 2 5 40.0 4 4 100.0 0 3 3 3 2 0 4 1 -11
+p593
+aVChris Douglas-Roberts NJN 12/11/2009 NJN @ IND L 38 7 2 7 28.6 0 0 - 3 6 50.0 1 1 2 2 2 2 3 1 -7
+p594
+aVTony Battie NJN 12/11/2009 NJN @ IND L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -16
+p595
+aVTerrence Williams NJN 12/11/2009 NJN @ IND L 18 6 2 4 50.0 0 1 0.0 2 2 100.0 0 5 5 0 2 1 3 2 -8
+p596
+aVTrenton Hassell NJN 12/09/2009 NJN vs. GSW L 6 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -7
+p597
+aVRafer Alston NJN 12/09/2009 NJN vs. GSW L 30 12 6 14 42.9 0 2 0.0 0 1 0.0 2 3 5 2 1 0 3 2 6
+p598
+aVDevin Harris NJN 12/09/2009 NJN vs. GSW L 39 19 4 11 36.4 0 1 0.0 11 15 73.3 0 2 2 2 2 1 4 4 -25
+p599
+aVSean Williams NJN 12/09/2009 NJN vs. GSW L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 3 3
+p600
+aVTony Battie NJN 12/09/2009 NJN vs. GSW L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p601
+aVJosh Boone NJN 12/09/2009 NJN vs. GSW L 25 6 3 5 60.0 0 0 - 0 2 0.0 2 4 6 2 3 1 0 3 6
+p602
+aVCourtney Lee NJN 12/09/2009 NJN vs. GSW L 42 15 6 12 50.0 0 1 0.0 3 4 75.0 1 7 8 3 2 0 1 0 -17
+p603
+aVChris Douglas-Roberts NJN 12/09/2009 NJN vs. GSW L 39 10 5 13 38.5 0 2 0.0 0 0 - 3 4 7 1 0 0 5 3 -14
+p604
+aVKeyon Dooling NJN 12/09/2009 NJN vs. GSW L 11 6 2 5 40.0 1 4 25.0 1 2 50.0 0 0 0 0 0 0 1 2 -13
+p605
+aVBrook Lopez NJN 12/09/2009 NJN vs. GSW L 36 21 8 15 53.3 0 0 - 5 5 100.0 5 5 10 2 2 1 6 5 -7
+p606
+aVJosh Boone NJN 12/08/2009 NJN @ CHI W 29 6 3 4 75.0 0 0 - 0 0 - 5 5 10 0 0 2 0 2 -7
+p607
+aVTony Battie NJN 12/08/2009 NJN @ CHI W 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 5 -8
+p608
+aVRafer Alston NJN 12/08/2009 NJN @ CHI W 17 15 5 8 62.5 1 1 100.0 4 4 100.0 0 3 3 2 2 0 2 0 12
+p609
+aVChris Douglas-Roberts NJN 12/08/2009 NJN @ CHI W 37 20 10 20 50.0 0 3 0.0 0 1 0.0 0 3 3 1 1 3 3 1 1
+p610
+aVBobby Simmons NJN 12/08/2009 NJN @ CHI W 13 2 0 3 0.0 0 3 0.0 2 2 100.0 0 3 3 4 0 0 0 0 17
+p611
+aVCourtney Lee NJN 12/08/2009 NJN @ CHI W 34 12 3 13 23.1 0 4 0.0 6 6 100.0 0 4 4 3 2 1 0 3 1
+p612
+aVKeyon Dooling NJN 12/08/2009 NJN @ CHI W 14 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 0 3 0 1 1 -4
+p613
+aVDevin Harris NJN 12/08/2009 NJN @ CHI W 40 17 5 12 41.7 2 6 33.3 5 7 71.4 1 3 4 6 4 1 5 4 -4
+p614
+aVBrook Lopez NJN 12/08/2009 NJN @ CHI W 38 25 9 14 64.3 0 0 - 7 8 87.5 5 5 10 2 2 1 2 4 -1
+p615
+aVTrenton Hassell NJN 12/08/2009 NJN @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p616
+aVJosh Boone NJN 12/06/2009 NJN @ NYK L 21 6 3 4 75.0 0 0 - 0 0 - 1 6 7 0 0 2 0 3 -2
+p617
+aVChris Douglas-Roberts NJN 12/06/2009 NJN @ NYK L 43 26 12 19 63.2 2 4 50.0 0 0 - 1 1 2 4 3 1 3 2 -13
+p618
+aVTrenton Hassell NJN 12/06/2009 NJN @ NYK L 16 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 2 0 0 0 2 0
+p619
+aVRafer Alston NJN 12/06/2009 NJN @ NYK L 20 8 3 11 27.3 1 5 20.0 1 2 50.0 2 4 6 5 0 0 2 3 -2
+p620
+aVKeyon Dooling NJN 12/06/2009 NJN @ NYK L 12 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 1 0 0 1 2 7
+p621
+aVCourtney Lee NJN 12/06/2009 NJN @ NYK L 39 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 3 1 2 4 4 -13
+p622
+aVTerrence Williams NJN 12/06/2009 NJN @ NYK L 9 0 0 5 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p623
+aVBrook Lopez NJN 12/06/2009 NJN @ NYK L 38 19 7 9 77.8 0 0 - 5 7 71.4 2 4 6 2 1 3 2 3 -10
+p624
+aVDevin Harris NJN 12/06/2009 NJN @ NYK L 42 19 7 16 43.8 1 4 25.0 4 4 100.0 0 3 3 6 3 0 2 5 -8
+p625
+aVKeyon Dooling NJN 12/04/2009 NJN vs. CHA W 16 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 3 2 0 1 2 5
+p626
+aVBrook Lopez NJN 12/04/2009 NJN vs. CHA W 40 31 12 22 54.5 0 0 - 7 7 100.0 6 8 14 2 0 2 2 4 3
+p627
+aVBobby Simmons NJN 12/04/2009 NJN vs. CHA W 17 5 1 3 33.3 1 2 50.0 2 2 100.0 1 5 6 0 0 0 0 2 14
+p628
+aVChris Douglas-Roberts NJN 12/04/2009 NJN vs. CHA W 36 8 4 11 36.4 0 0 - 0 1 0.0 0 2 2 4 2 0 2 3 6
+p629
+aVTony Battie NJN 12/04/2009 NJN vs. CHA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p630
+aVCourtney Lee NJN 12/04/2009 NJN vs. CHA W 34 27 11 16 68.8 3 4 75.0 2 4 50.0 0 4 4 1 3 1 0 5 5
+p631
+aVTerrence Williams NJN 12/04/2009 NJN vs. CHA W 22 6 2 12 16.7 0 2 0.0 2 2 100.0 1 3 4 0 1 0 0 3 6
+p632
+aVJosh Boone NJN 12/04/2009 NJN vs. CHA W 33 2 1 4 25.0 0 0 - 0 0 - 1 6 7 2 0 3 1 4 -7
+p633
+aVDevin Harris NJN 12/04/2009 NJN vs. CHA W 36 16 2 14 14.3 1 6 16.7 11 13 84.6 0 1 1 8 1 0 1 0 -4
+p634
+aVBrook Lopez NJN 12/02/2009 NJN vs. DAL L 37 16 2 6 33.3 0 0 - 12 13 92.3 1 5 6 3 0 1 1 2 -7
+p635
+aVDevin Harris NJN 12/02/2009 NJN vs. DAL L 34 17 5 10 50.0 1 5 20.0 6 8 75.0 0 1 1 3 2 0 4 3 -21
+p636
+aVCourtney Lee NJN 12/02/2009 NJN vs. DAL L 32 13 5 14 35.7 2 7 28.6 1 2 50.0 1 5 6 1 4 0 0 0 5
+p637
+aVBobby Simmons NJN 12/02/2009 NJN vs. DAL L 18 10 4 7 57.1 2 2 100.0 0 0 - 1 1 2 2 3 0 0 1 0
+p638
+aVJosh Boone NJN 12/02/2009 NJN vs. DAL L 19 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 1 0 -19
+p639
+aVSean Williams NJN 12/02/2009 NJN vs. DAL L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -15
+p640
+aVTrenton Hassell NJN 12/02/2009 NJN vs. DAL L 25 7 2 5 40.0 0 0 - 3 3 100.0 2 3 5 0 0 0 1 4 -14
+p641
+aVTerrence Williams NJN 12/02/2009 NJN vs. DAL L 21 8 3 8 37.5 1 3 33.3 1 2 50.0 0 2 2 6 2 1 1 2 -2
+p642
+aVChris Douglas-Roberts NJN 12/02/2009 NJN vs. DAL L 40 24 10 21 47.6 0 1 0.0 4 4 100.0 0 3 3 1 2 0 5 2 -7
+p643
+aVCourtney Lee NJN 11/29/2009 NJN @ LAL L 26 15 6 9 66.7 1 1 100.0 2 4 50.0 1 4 5 3 0 1 1 2 -4
+p644
+aVRafer Alston NJN 11/29/2009 NJN @ LAL L 19 4 2 8 25.0 0 0 - 0 1 0.0 0 3 3 2 1 0 1 1 -8
+p645
+aVChris Douglas-Roberts NJN 11/29/2009 NJN @ LAL L 33 5 2 11 18.2 1 1 100.0 0 0 - 1 2 3 4 0 0 1 1 -15
+p646
+aVTerrence Williams NJN 11/29/2009 NJN @ LAL L 21 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 2 0 0 3 1 -6
+p647
+aVTrenton Hassell NJN 11/29/2009 NJN @ LAL L 21 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 3 1 -20
+p648
+aVSean Williams NJN 11/29/2009 NJN @ LAL L 15 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 1 1 0 2 -6
+p649
+aVBobby Simmons NJN 11/29/2009 NJN @ LAL L 16 2 1 4 25.0 0 3 0.0 0 0 - 1 3 4 0 2 0 1 1 8
+p650
+aVJosh Boone NJN 11/29/2009 NJN @ LAL L 22 9 4 6 66.7 0 0 - 1 2 50.0 1 2 3 1 0 1 1 2 -18
+p651
+aVDevin Harris NJN 11/29/2009 NJN @ LAL L 31 16 6 12 50.0 3 6 50.0 1 1 100.0 0 2 2 6 2 0 1 2 -12
+p652
+aVBrook Lopez NJN 11/29/2009 NJN @ LAL L 35 26 8 15 53.3 0 0 - 10 12 83.3 5 7 12 2 2 0 6 3 -14
+p653
+aVTrenton Hassell NJN 11/27/2009 NJN @ SAC L 40 8 4 10 40.0 0 1 0.0 0 0 - 1 1 2 1 1 1 1 2 -8
+p654
+aVBrook Lopez NJN 11/27/2009 NJN @ SAC L 45 24 9 19 47.4 0 0 - 6 6 100.0 5 6 11 2 2 1 2 3 -3
+p655
+aVTerrence Williams NJN 11/27/2009 NJN @ SAC L 17 6 2 6 33.3 1 1 100.0 1 2 50.0 1 3 4 1 0 0 1 3 -4
+p656
+aVJosh Boone NJN 11/27/2009 NJN @ SAC L 22 10 5 10 50.0 0 0 - 0 0 - 5 2 7 0 0 0 0 4 -3
+p657
+aVDevin Harris NJN 11/27/2009 NJN @ SAC L 38 25 6 22 27.3 0 5 0.0 13 17 76.5 0 3 3 3 1 0 2 3 0
+p658
+aVRafer Alston NJN 11/27/2009 NJN @ SAC L 20 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 1 0 2 1 -10
+p659
+aVSean Williams NJN 11/27/2009 NJN @ SAC L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 2 1 3 -11
+p660
+aVChris Douglas-Roberts NJN 11/27/2009 NJN @ SAC L 43 21 9 19 47.4 1 1 100.0 2 2 100.0 3 5 8 0 2 1 2 4 -18
+p661
+aVCourtney Lee NJN 11/27/2009 NJN @ SAC L 3 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -8
+p662
+aVBobby Simmons NJN 11/25/2009 NJN @ POR L 14 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 -14
+p663
+aVBrook Lopez NJN 11/25/2009 NJN @ POR L 40 32 13 25 52.0 0 0 - 6 8 75.0 10 4 14 2 1 2 2 3 -11
+p664
+aVCourtney Lee NJN 11/25/2009 NJN @ POR L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -8
+p665
+aVTrenton Hassell NJN 11/25/2009 NJN @ POR L 33 10 5 7 71.4 0 0 - 0 0 - 1 7 8 1 1 1 1 3 3
+p666
+aVSean Williams NJN 11/25/2009 NJN @ POR L 15 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 1 0 4 -4
+p667
+aVRafer Alston NJN 11/25/2009 NJN @ POR L 28 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 6 0 0 1 1 -5
+p668
+aVTerrence Williams NJN 11/25/2009 NJN @ POR L 19 4 2 7 28.6 0 0 - 0 0 - 0 3 3 1 1 0 3 1 -10
+p669
+aVJosh Boone NJN 11/25/2009 NJN @ POR L 20 6 3 7 42.9 0 0 - 0 0 - 2 3 5 0 1 0 1 5 1
+p670
+aVDevin Harris NJN 11/25/2009 NJN @ POR L 24 6 2 6 33.3 0 1 0.0 2 3 66.7 0 0 0 3 2 0 4 2 0
+p671
+aVChris Douglas-Roberts NJN 11/25/2009 NJN @ POR L 38 18 8 17 47.1 0 2 0.0 2 3 66.7 1 2 3 3 2 0 0 1 -2
+p672
+aVBobby Simmons NJN 11/24/2009 NJN @ DEN L 10 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 1 -7
+p673
+aVJosh Boone NJN 11/24/2009 NJN @ DEN L 22 7 3 5 60.0 0 0 - 1 2 50.0 3 9 12 1 1 0 3 2 -13
+p674
+aVTrenton Hassell NJN 11/24/2009 NJN @ DEN L 36 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 2 1 1 3 3 -16
+p675
+aVBrook Lopez NJN 11/24/2009 NJN @ DEN L 27 5 1 4 25.0 0 0 - 3 3 100.0 1 2 3 1 0 2 3 5 3
+p676
+aVTerrence Williams NJN 11/24/2009 NJN @ DEN L 22 14 5 11 45.5 1 5 20.0 3 4 75.0 0 2 2 1 0 0 1 2 -7
+p677
+aVCourtney Lee NJN 11/24/2009 NJN @ DEN L 22 7 2 7 28.6 1 2 50.0 2 2 100.0 1 2 3 2 6 0 2 1 3
+p678
+aVSean Williams NJN 11/24/2009 NJN @ DEN L 11 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 2 3 3 -13
+p679
+aVRafer Alston NJN 11/24/2009 NJN @ DEN L 31 19 7 14 50.0 3 8 37.5 2 4 50.0 0 2 2 3 2 1 2 4 -5
+p680
+aVChris Douglas-Roberts NJN 11/24/2009 NJN @ DEN L 30 4 1 6 16.7 0 1 0.0 2 2 100.0 0 3 3 2 0 2 3 5 -6
+p681
+aVDevin Harris NJN 11/24/2009 NJN @ DEN L 31 19 4 14 28.6 0 2 0.0 11 15 73.3 0 7 7 6 3 1 2 2 -9
+p682
+aVChris Douglas-Roberts NJN 11/21/2009 NJN vs. NYK L 43 24 11 19 57.9 0 2 0.0 2 4 50.0 1 3 4 1 1 0 1 0 -6
+p683
+aVTrenton Hassell NJN 11/21/2009 NJN vs. NYK L 36 9 4 10 40.0 0 0 - 1 2 50.0 5 4 9 0 0 0 1 2 -1
+p684
+aVSean Williams NJN 11/21/2009 NJN vs. NYK L 16 0 0 5 0.0 0 0 - 0 0 - 3 2 5 0 1 3 2 6 -3
+p685
+aVTerrence Williams NJN 11/21/2009 NJN vs. NYK L 31 17 6 15 40.0 3 7 42.9 2 3 66.7 0 3 3 3 0 0 1 1 -10
+p686
+aVBobby Simmons NJN 11/21/2009 NJN vs. NYK L 17 4 2 6 33.3 0 4 0.0 0 0 - 0 6 6 1 0 0 1 4 2
+p687
+aVBrook Lopez NJN 11/21/2009 NJN vs. NYK L 31 18 5 12 41.7 0 0 - 8 10 80.0 4 8 12 2 0 4 1 5 -4
+p688
+aVRafer Alston NJN 11/21/2009 NJN vs. NYK L 29 3 1 7 14.3 1 4 25.0 0 0 - 1 2 3 4 0 0 2 1 -2
+p689
+aVDevin Harris NJN 11/21/2009 NJN vs. NYK L 26 12 6 13 46.2 0 1 0.0 0 0 - 0 1 1 7 2 0 3 1 -6
+p690
+aVJosh Boone NJN 11/21/2009 NJN vs. NYK L 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -5
+p691
+aVJosh Boone NJN 11/18/2009 NJN @ MIL L 16 2 1 4 25.0 0 0 - 0 0 - 4 4 8 0 0 1 0 1 -19
+p692
+aVBrook Lopez NJN 11/18/2009 NJN @ MIL L 29 11 5 10 50.0 0 0 - 1 1 100.0 2 2 4 1 0 3 2 2 -25
+p693
+aVRafer Alston NJN 11/18/2009 NJN @ MIL L 33 5 1 10 10.0 0 4 0.0 3 4 75.0 1 2 3 1 3 0 1 3 -25
+p694
+aVChris Douglas-Roberts NJN 11/18/2009 NJN @ MIL L 45 31 9 20 45.0 1 1 100.0 12 14 85.7 4 6 10 3 3 0 4 2 -8
+p695
+aVTrenton Hassell NJN 11/18/2009 NJN @ MIL L 35 4 2 7 28.6 0 0 - 0 0 - 2 2 4 0 0 0 2 0 -11
+p696
+aVSean Williams NJN 11/18/2009 NJN @ MIL L 24 4 1 6 16.7 0 0 - 2 2 100.0 2 3 5 0 1 1 1 3 16
+p697
+aVBobby Simmons NJN 11/18/2009 NJN @ MIL L 25 8 3 6 50.0 2 5 40.0 0 0 - 0 1 1 4 2 0 3 2 -1
+p698
+aVTerrence Williams NJN 11/18/2009 NJN @ MIL L 33 20 8 15 53.3 0 3 0.0 4 4 100.0 1 9 10 3 4 0 5 1 3
+p699
+aVTerrence Williams NJN 11/17/2009 NJN vs. IND L 23 7 3 7 42.9 0 2 0.0 1 2 50.0 0 2 2 0 0 0 2 1 -17
+p700
+aVTrenton Hassell NJN 11/17/2009 NJN vs. IND L 38 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 2 0 0 1 5 -8
+p701
+aVBobby Simmons NJN 11/17/2009 NJN vs. IND L 21 3 1 4 25.0 1 3 33.3 0 0 - 0 4 4 0 0 0 1 2 5
+p702
+aVChris Douglas-Roberts NJN 11/17/2009 NJN vs. IND L 44 27 11 25 44.0 0 3 0.0 5 5 100.0 2 10 12 3 1 0 4 4 -1
+p703
+aVJosh Boone NJN 11/17/2009 NJN vs. IND L 13 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 2 2 -1
+p704
+aVSean Williams NJN 11/17/2009 NJN vs. IND L 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 3 -5
+p705
+aVRafer Alston NJN 11/17/2009 NJN vs. IND L 42 14 2 12 16.7 0 3 0.0 10 10 100.0 0 7 7 4 4 0 5 1 -7
+p706
+aVBrook Lopez NJN 11/17/2009 NJN vs. IND L 46 26 10 27 37.0 0 0 - 6 8 75.0 8 8 16 3 1 5 2 5 -6
+p707
+aVChris Douglas-Roberts NJN 11/14/2009 NJN @ MIA L 36 16 5 10 50.0 0 2 0.0 6 6 100.0 0 3 3 2 0 0 1 1 4
+p708
+aVTrenton Hassell NJN 11/14/2009 NJN @ MIA L 44 17 5 12 41.7 0 0 - 7 7 100.0 1 5 6 1 1 0 1 3 3
+p709
+aVBrook Lopez NJN 11/14/2009 NJN @ MIA L 41 17 8 18 44.4 0 0 - 1 2 50.0 3 6 9 1 0 3 3 2 -7
+p710
+aVEduardo Najera NJN 11/14/2009 NJN @ MIA L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 0 0 1 1 0 4
+p711
+aVSean Williams NJN 11/14/2009 NJN @ MIA L 15 12 6 7 85.7 0 0 - 0 0 - 2 2 4 0 0 1 1 3 3
+p712
+aVTerrence Williams NJN 11/14/2009 NJN @ MIA L 27 8 3 11 27.3 2 4 50.0 0 2 0.0 0 3 3 2 0 0 1 1 6
+p713
+aVRafer Alston NJN 11/14/2009 NJN @ MIA L 36 10 3 9 33.3 2 2 100.0 2 2 100.0 0 3 3 3 0 0 3 3 -13
+p714
+aVJosh Boone NJN 11/14/2009 NJN @ MIA L 26 0 0 1 0.0 0 0 - 0 2 0.0 3 3 6 2 1 0 1 2 -5
+p715
+aVSean Williams NJN 11/13/2009 NJN @ ORL L 17 3 1 3 33.3 0 1 0.0 1 2 50.0 3 1 4 0 2 1 1 2 10
+p716
+aVJosh Boone NJN 11/13/2009 NJN @ ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p717
+aVTrenton Hassell NJN 11/13/2009 NJN @ ORL L 41 13 6 11 54.5 0 0 - 1 1 100.0 0 2 2 0 0 0 2 4 -13
+p718
+aVEduardo Najera NJN 11/13/2009 NJN @ ORL L 13 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 1 1 0 2 -7
+p719
+aVChris Douglas-Roberts NJN 11/13/2009 NJN @ ORL L 18 5 2 6 33.3 0 0 - 1 1 100.0 0 2 2 0 2 0 0 0 -9
+p720
+aVTerrence Williams NJN 11/13/2009 NJN @ ORL L 37 11 3 17 17.6 1 5 20.0 4 4 100.0 0 12 12 1 0 0 1 2 -9
+p721
+aVBrook Lopez NJN 11/13/2009 NJN @ ORL L 31 4 1 12 8.3 0 0 - 2 3 66.7 2 3 5 0 0 3 2 5 -26
+p722
+aVRafer Alston NJN 11/13/2009 NJN @ ORL L 42 17 7 20 35.0 1 4 25.0 2 2 100.0 0 10 10 10 0 0 3 2 -10
+p723
+aVBobby Simmons NJN 11/13/2009 NJN @ ORL L 36 15 6 11 54.5 3 6 50.0 0 0 - 1 5 6 0 1 1 2 2 -13
+p724
+aVBrook Lopez NJN 11/11/2009 NJN vs. PHI L 43 23 8 17 47.1 0 0 - 7 8 87.5 2 12 14 1 1 1 4 2 -2
+p725
+aVRafer Alston NJN 11/11/2009 NJN vs. PHI L 43 11 5 13 38.5 1 4 25.0 0 0 - 0 2 2 5 1 0 2 1 -4
+p726
+aVJosh Boone NJN 11/11/2009 NJN vs. PHI L 28 6 3 6 50.0 0 0 - 0 2 0.0 3 5 8 1 0 3 0 2 -8
+p727
+aVTerrence Williams NJN 11/11/2009 NJN vs. PHI L 38 10 5 15 33.3 0 3 0.0 0 0 - 0 12 12 2 0 0 2 4 -10
+p728
+aVBobby Simmons NJN 11/11/2009 NJN vs. PHI L 27 11 4 8 50.0 1 5 20.0 2 2 100.0 0 3 3 0 0 0 2 5 2
+p729
+aVTrenton Hassell NJN 11/11/2009 NJN vs. PHI L 43 13 4 10 40.0 0 0 - 5 6 83.3 2 3 5 3 0 0 2 1 -2
+p730
+aVEduardo Najera NJN 11/11/2009 NJN vs. PHI L 19 5 1 6 16.7 1 2 50.0 2 2 100.0 1 2 3 4 0 0 2 4 9
+p731
+aVTrenton Hassell NJN 11/07/2009 NJN vs. BOS L 37 3 1 7 14.3 0 0 - 1 2 50.0 1 3 4 1 1 0 2 5 -20
+p732
+aVTerrence Williams NJN 11/07/2009 NJN vs. BOS L 30 8 4 14 28.6 0 1 0.0 0 3 0.0 1 8 9 2 1 0 4 2 -11
+p733
+aVJosh Boone NJN 11/07/2009 NJN vs. BOS L 37 8 4 10 40.0 0 0 - 0 0 - 4 8 12 1 1 0 3 3 1
+p734
+aVRafer Alston NJN 11/07/2009 NJN vs. BOS L 44 20 7 16 43.8 3 6 50.0 3 4 75.0 0 1 1 7 1 1 6 3 -2
+p735
+aVBobby Simmons NJN 11/07/2009 NJN vs. BOS L 34 10 3 6 50.0 2 3 66.7 2 2 100.0 0 5 5 2 0 0 2 3 1
+p736
+aVSean Williams NJN 11/07/2009 NJN vs. BOS L 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -1
+p737
+aVBrook Lopez NJN 11/07/2009 NJN vs. BOS L 41 23 10 16 62.5 0 0 - 3 3 100.0 2 5 7 1 0 2 3 4 -5
+p738
+aVEduardo Najera NJN 11/07/2009 NJN vs. BOS L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 2 0 2 3 -13
+p739
+aVRafer Alston NJN 11/06/2009 NJN @ PHI L 40 14 6 13 46.2 1 3 33.3 1 2 50.0 0 2 2 6 0 0 3 5 -3
+p740
+aVJosh Boone NJN 11/06/2009 NJN @ PHI L 17 8 4 5 80.0 0 0 - 0 0 - 2 5 7 1 1 1 1 1 -5
+p741
+aVBrook Lopez NJN 11/06/2009 NJN @ PHI L 44 22 8 18 44.4 0 0 - 6 9 66.7 1 10 11 2 1 3 3 4 3
+p742
+aVBobby Simmons NJN 11/06/2009 NJN @ PHI L 18 10 3 8 37.5 2 5 40.0 2 2 100.0 1 0 1 1 0 0 1 3 -13
+p743
+aVTerrence Williams NJN 11/06/2009 NJN @ PHI L 31 6 3 10 30.0 0 1 0.0 0 0 - 0 2 2 9 0 0 2 1 -3
+p744
+aVEduardo Najera NJN 11/06/2009 NJN @ PHI L 22 9 4 8 50.0 1 2 50.0 0 0 - 1 3 4 4 2 0 2 5 7
+p745
+aVTrenton Hassell NJN 11/06/2009 NJN @ PHI L 46 17 8 13 61.5 0 2 0.0 1 3 33.3 6 6 12 0 0 0 0 4 0
+p746
+aVCourtney Lee NJN 11/06/2009 NJN @ PHI L 22 8 3 8 37.5 0 1 0.0 2 3 66.7 1 1 2 2 2 0 1 1 -1
+p747
+aVEduardo Najera NJN 11/04/2009 NJN vs. DEN L 24 14 6 11 54.5 0 2 0.0 2 2 100.0 3 4 7 0 0 0 0 4 -25
+p748
+aVBobby Simmons NJN 11/04/2009 NJN vs. DEN L 17 2 1 9 11.1 0 5 0.0 0 0 - 2 4 6 0 0 0 0 3 -7
+p749
+aVRafer Alston NJN 11/04/2009 NJN vs. DEN L 30 7 2 8 25.0 0 2 0.0 3 3 100.0 0 2 2 4 0 0 3 2 -12
+p750
+aVChris Douglas-Roberts NJN 11/04/2009 NJN vs. DEN L 36 19 7 17 41.2 1 3 33.3 4 4 100.0 3 4 7 1 1 1 2 2 -36
+p751
+aVBrook Lopez NJN 11/04/2009 NJN vs. DEN L 29 12 5 9 55.6 0 0 - 2 2 100.0 2 6 8 1 0 0 3 2 -24
+p752
+aVSean Williams NJN 11/04/2009 NJN vs. DEN L 8 6 2 3 66.7 0 0 - 2 5 40.0 1 2 3 0 0 0 0 0 1
+p753
+aVJosh Boone NJN 11/04/2009 NJN vs. DEN L 29 11 4 8 50.0 0 0 - 3 5 60.0 4 4 8 2 2 1 2 4 -8
+p754
+aVTerrence Williams NJN 11/04/2009 NJN vs. DEN L 28 13 6 13 46.2 1 1 100.0 0 0 - 2 4 6 1 1 0 2 1 -19
+p755
+aVTrenton Hassell NJN 11/04/2009 NJN vs. DEN L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p756
+aVCourtney Lee NJN 11/04/2009 NJN vs. DEN L 32 10 2 11 18.2 0 2 0.0 6 7 85.7 0 1 1 2 3 0 0 2 -9
+p757
+aVJosh Boone NJN 11/02/2009 NJN @ CHA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p758
+aVBobby Simmons NJN 11/02/2009 NJN @ CHA L 24 0 0 5 0.0 0 2 0.0 0 0 - 1 6 7 0 1 2 0 5 -12
+p759
+aVChris Douglas-Roberts NJN 11/02/2009 NJN @ CHA L 40 20 7 17 41.2 2 2 100.0 4 5 80.0 3 3 6 1 2 1 4 2 -6
+p760
+aVCourtney Lee NJN 11/02/2009 NJN @ CHA L 41 13 4 10 40.0 0 3 0.0 5 5 100.0 0 2 2 3 3 1 3 2 -11
+p761
+aVRafer Alston NJN 11/02/2009 NJN @ CHA L 46 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 5 1 1 3 1 -13
+p762
+aVBrook Lopez NJN 11/02/2009 NJN @ CHA L 37 18 8 14 57.1 0 0 - 2 2 100.0 1 4 5 0 0 4 7 5 3
+p763
+aVYi Jianlian NJN 11/02/2009 NJN @ CHA L 17 4 1 4 25.0 0 0 - 2 3 66.7 2 4 6 1 1 1 4 3 8
+p764
+aVTerrence Williams NJN 11/02/2009 NJN @ CHA L 24 11 4 9 44.4 1 1 100.0 2 3 66.7 0 4 4 1 0 0 1 4 -10
+p765
+aVSean Williams NJN 11/02/2009 NJN @ CHA L 11 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 3 3 -14
+p766
+aVEduardo Najera NJN 10/31/2009 NJN @ WAS L 18 6 2 5 40.0 0 1 0.0 2 4 50.0 2 2 4 2 1 0 1 2 -2
+p767
+aVTerrence Williams NJN 10/31/2009 NJN @ WAS L 28 9 3 12 25.0 2 3 66.7 1 2 50.0 1 2 3 2 0 0 0 1 -13
+p768
+aVBrook Lopez NJN 10/31/2009 NJN @ WAS L 28 13 6 8 75.0 0 0 - 1 2 50.0 1 2 3 3 1 1 2 3 -7
+p769
+aVRafer Alston NJN 10/31/2009 NJN @ WAS L 31 20 8 11 72.7 3 3 100.0 1 2 50.0 0 2 2 8 1 0 4 3 -13
+p770
+aVCourtney Lee NJN 10/31/2009 NJN @ WAS L 41 17 5 13 38.5 0 2 0.0 7 8 87.5 2 2 4 1 2 1 1 3 -15
+p771
+aVSean Williams NJN 10/31/2009 NJN @ WAS L 7 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 1 3
+p772
+aVJosh Boone NJN 10/31/2009 NJN @ WAS L 13 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -15
+p773
+aVChris Douglas-Roberts NJN 10/31/2009 NJN @ WAS L 39 25 7 12 58.3 0 0 - 11 12 91.7 1 3 4 3 0 0 1 2 -14
+p774
+aVBobby Simmons NJN 10/31/2009 NJN @ WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p775
+aVYi Jianlian NJN 10/31/2009 NJN @ WAS L 32 6 2 10 20.0 0 0 - 2 2 100.0 1 6 7 0 0 0 1 4 -13
+p776
+aVRafer Alston NJN 10/30/2009 NJN vs. ORL L 17 10 3 9 33.3 2 4 50.0 2 2 100.0 2 0 2 3 0 0 1 0 6
+p777
+aVTerrence Williams NJN 10/30/2009 NJN vs. ORL L 20 8 3 8 37.5 1 4 25.0 1 2 50.0 0 3 3 1 2 0 2 2 -7
+p778
+aVBrook Lopez NJN 10/30/2009 NJN vs. ORL L 25 11 3 8 37.5 0 0 - 5 6 83.3 0 5 5 1 0 1 0 5 -5
+p779
+aVJosh Boone NJN 10/30/2009 NJN vs. ORL L 23 4 2 5 40.0 0 0 - 0 0 - 2 6 8 0 0 1 1 2 -5
+p780
+aVCourtney Lee NJN 10/30/2009 NJN vs. ORL L 40 18 6 17 35.3 2 3 66.7 4 5 80.0 0 1 1 2 2 0 0 4 -3
+p781
+aVDevin Harris NJN 10/30/2009 NJN vs. ORL L 34 16 6 18 33.3 0 3 0.0 4 8 50.0 0 5 5 7 2 0 0 3 -15
+p782
+aVEduardo Najera NJN 10/30/2009 NJN vs. ORL L 12 0 0 1 0.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 1 -7
+p783
+aVChris Douglas-Roberts NJN 10/30/2009 NJN vs. ORL L 36 6 3 7 42.9 0 0 - 0 0 - 2 4 6 1 1 1 1 0 -11
+p784
+aVYi Jianlian NJN 10/30/2009 NJN vs. ORL L 34 12 5 8 62.5 0 0 - 2 2 100.0 0 5 5 0 1 2 1 3 -3
+p785
+aVDevin Harris NJN 10/28/2009 NJN @ MIN L 29 14 4 13 30.8 0 1 0.0 6 6 100.0 3 3 6 8 1 0 4 5 6
+p786
+aVYi Jianlian NJN 10/28/2009 NJN @ MIN L 36 17 5 10 50.0 0 1 0.0 7 8 87.5 2 10 12 1 0 2 3 2 9
+p787
+aVRafer Alston NJN 10/28/2009 NJN @ MIN L 23 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 3 0 -6
+p788
+aVTerrence Williams NJN 10/28/2009 NJN @ MIN L 31 15 6 14 42.9 0 2 0.0 3 3 100.0 2 8 10 1 0 0 5 2 -2
+p789
+aVBobby Simmons NJN 10/28/2009 NJN @ MIN L 8 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 2
+p790
+aVBrook Lopez NJN 10/28/2009 NJN @ MIN L 38 27 11 19 57.9 0 0 - 5 7 71.4 5 10 15 4 1 5 4 4 4
+p791
+aVJosh Boone NJN 10/28/2009 NJN @ MIN L 10 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 1 0 1 0 3 -6
+p792
+aVCourtney Lee NJN 10/28/2009 NJN @ MIN L 38 5 2 11 18.2 0 4 0.0 1 1 100.0 1 2 3 2 1 2 1 2 -4
+p793
+aVJarvis Hayes NJN 10/28/2009 NJN @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 0
+p794
+aVChris Douglas-Roberts NJN 10/28/2009 NJN @ MIN L 24 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 0 0 2 4 -13
+p795
+a.

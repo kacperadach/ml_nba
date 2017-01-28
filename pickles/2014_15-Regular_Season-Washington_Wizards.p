@@ -1,0 +1,1834 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVOtto Porter WAS 04/15/2015 WAS @ CLE L 20 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 0 0 1 2 1 -2
+p2
+aVMarcin Gortat WAS 04/15/2015 WAS @ CLE L 14 8 4 11 36.4 0 0 - 0 0 - 1 5 6 4 1 0 0 1 8
+p3
+aVRamon Sessions WAS 04/15/2015 WAS @ CLE L 37 14 4 8 50.0 2 2 100.0 4 6 66.7 0 2 2 6 0 0 1 1 -7
+p4
+aVKris Humphries WAS 04/15/2015 WAS @ CLE L 29 12 4 7 57.1 0 1 0.0 4 4 100.0 3 2 5 2 0 0 0 1 0
+p5
+aVKevin Seraphin WAS 04/15/2015 WAS @ CLE L 39 12 6 13 46.2 0 0 - 0 1 0.0 3 9 12 2 1 3 5 3 -11
+p6
+aVMartell Webster WAS 04/15/2015 WAS @ CLE L 36 20 5 9 55.6 3 5 60.0 7 8 87.5 1 2 3 2 1 0 2 0 -4
+p7
+aVWill Bynum WAS 04/15/2015 WAS @ CLE L 21 11 5 15 33.3 0 5 0.0 1 2 50.0 2 2 4 8 0 0 1 1 -13
+p8
+aVDeJuan Blair WAS 04/15/2015 WAS @ CLE L 24 10 5 10 50.0 0 0 - 0 0 - 3 4 7 0 3 0 2 5 -5
+p9
+aVRasual Butler WAS 04/15/2015 WAS @ CLE L 45 17 7 19 36.8 3 8 37.5 0 0 - 1 6 7 2 2 1 0 0 9
+p10
+aVRamon Sessions WAS 04/14/2015 WAS @ IND L 14 7 2 7 28.6 1 2 50.0 2 2 100.0 1 3 4 3 0 0 2 3 9
+p11
+aVOtto Porter WAS 04/14/2015 WAS @ IND L 43 10 4 10 40.0 2 4 50.0 0 0 - 3 4 7 1 0 0 1 5 0
+p12
+aVJohn Wall WAS 04/14/2015 WAS @ IND L 44 16 7 23 30.4 0 5 0.0 2 3 66.7 0 2 2 11 2 0 5 2 -13
+p13
+aVPaul Pierce WAS 04/14/2015 WAS @ IND L 18 0 0 2 0.0 0 2 0.0 0 0 - 0 5 5 2 0 0 0 2 -7
+p14
+aVRasual Butler WAS 04/14/2015 WAS @ IND L 15 6 2 4 50.0 2 2 100.0 0 0 - 1 0 1 0 2 0 0 1 8
+p15
+aVWill Bynum WAS 04/14/2015 WAS @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p16
+aVBradley Beal WAS 04/14/2015 WAS @ IND L 42 19 7 24 29.2 2 9 22.2 3 4 75.0 1 8 9 1 1 0 1 2 -11
+p17
+aVDrew Gooden WAS 04/14/2015 WAS @ IND L 38 6 2 8 25.0 0 0 - 2 2 100.0 4 6 10 2 1 1 0 1 -4
+p18
+aVKevin Seraphin WAS 04/14/2015 WAS @ IND L 14 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 2 0 0 1 2 10
+p19
+aVKris Humphries WAS 04/14/2015 WAS @ IND L 19 6 3 8 37.5 0 0 - 0 0 - 2 7 9 0 1 1 1 2 -1
+p20
+aVMarcin Gortat WAS 04/14/2015 WAS @ IND L 44 19 8 13 61.5 0 0 - 3 4 75.0 1 9 10 0 1 0 0 2 -14
+p21
+aVKris Humphries WAS 04/12/2015 WAS vs. ATL W 15 3 0 2 0.0 0 0 - 3 6 50.0 1 3 4 0 0 0 1 2 0
+p22
+aVJohn Wall WAS 04/12/2015 WAS vs. ATL W 35 24 9 20 45.0 2 4 50.0 4 4 100.0 0 4 4 9 2 1 10 2 14
+p23
+aVNene WAS 04/12/2015 WAS vs. ATL W 27 14 6 8 75.0 0 0 - 2 2 100.0 4 6 10 0 0 0 3 2 4
+p24
+aVRamon Sessions WAS 04/12/2015 WAS vs. ATL W 17 7 2 5 40.0 0 1 0.0 3 3 100.0 0 4 4 4 0 0 0 0 -9
+p25
+aVPaul Pierce WAS 04/12/2015 WAS vs. ATL W 29 14 4 7 57.1 4 6 66.7 2 2 100.0 1 6 7 2 2 0 0 1 17
+p26
+aVOtto Porter WAS 04/12/2015 WAS vs. ATL W 26 9 4 7 57.1 1 2 50.0 0 0 - 0 4 4 1 1 2 2 3 2
+p27
+aVKevin Seraphin WAS 04/12/2015 WAS vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p28
+aVMarcin Gortat WAS 04/12/2015 WAS vs. ATL W 32 15 6 13 46.2 0 0 - 3 4 75.0 4 5 9 4 0 2 0 2 11
+p29
+aVBradley Beal WAS 04/12/2015 WAS vs. ATL W 37 17 6 17 35.3 2 7 28.6 3 4 75.0 2 1 3 1 3 1 2 3 3
+p30
+aVDrew Gooden WAS 04/12/2015 WAS vs. ATL W 21 5 2 6 33.3 0 1 0.0 1 2 50.0 2 4 6 1 0 0 1 4 2
+p31
+aVBradley Beal WAS 04/10/2015 WAS @ BKN L 32 24 10 19 52.6 3 4 75.0 1 2 50.0 0 3 3 1 1 1 3 2 -22
+p32
+aVPaul Pierce WAS 04/10/2015 WAS @ BKN L 20 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 3 0 0 1 0 3
+p33
+aVDrew Gooden WAS 04/10/2015 WAS @ BKN L 16 1 0 8 0.0 0 1 0.0 1 2 50.0 2 5 7 1 0 0 0 2 -26
+p34
+aVRasual Butler WAS 04/10/2015 WAS @ BKN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p35
+aVRamon Sessions WAS 04/10/2015 WAS @ BKN L 34 2 1 7 14.3 0 1 0.0 0 2 0.0 3 4 7 10 0 0 1 1 -1
+p36
+aVWill Bynum WAS 04/10/2015 WAS @ BKN L 18 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 4 3 -35
+p37
+aVDeJuan Blair WAS 04/10/2015 WAS @ BKN L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 3 -4
+p38
+aVNene WAS 04/10/2015 WAS @ BKN L 19 6 3 9 33.3 0 0 - 0 0 - 1 1 2 2 0 0 0 1 5
+p39
+aVKevin Seraphin WAS 04/10/2015 WAS @ BKN L 15 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 2 3 3 -30
+p40
+aVOtto Porter WAS 04/10/2015 WAS @ BKN L 28 9 4 7 57.1 1 4 25.0 0 0 - 1 1 2 2 0 0 2 0 -40
+p41
+aVMartell Webster WAS 04/10/2015 WAS @ BKN L 7 3 0 2 0.0 0 2 0.0 3 4 75.0 0 0 0 1 0 0 1 0 -7
+p42
+aVKris Humphries WAS 04/10/2015 WAS @ BKN L 14 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 1 0 1 3 -13
+p43
+aVMarcin Gortat WAS 04/10/2015 WAS @ BKN L 26 21 9 11 81.8 0 0 - 3 3 100.0 6 10 16 0 0 1 1 3 -6
+p44
+aVPaul Pierce WAS 04/08/2015 WAS @ PHI W 22 10 4 7 57.1 2 4 50.0 0 0 - 0 3 3 3 1 0 1 1 22
+p45
+aVMarcin Gortat WAS 04/08/2015 WAS @ PHI W 26 18 8 9 88.9 0 0 - 2 2 100.0 0 7 7 6 0 4 2 4 20
+p46
+aVRasual Butler WAS 04/08/2015 WAS @ PHI W 23 9 4 7 57.1 1 1 100.0 0 0 - 0 3 3 1 0 0 1 2 6
+p47
+aVKevin Seraphin WAS 04/08/2015 WAS @ PHI W 22 12 6 8 75.0 0 1 0.0 0 0 - 0 6 6 0 0 2 1 3 9
+p48
+aVBradley Beal WAS 04/08/2015 WAS @ PHI W 23 21 7 9 77.8 3 3 100.0 4 5 80.0 2 1 3 3 1 0 3 2 24
+p49
+aVDrew Gooden WAS 04/08/2015 WAS @ PHI W 25 4 2 4 50.0 0 0 - 0 0 - 2 3 5 5 0 0 0 0 24
+p50
+aVOtto Porter WAS 04/08/2015 WAS @ PHI W 24 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 1 0 1 1 3
+p51
+aVDeJuan Blair WAS 04/08/2015 WAS @ PHI W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 3
+p52
+aVWill Bynum WAS 04/08/2015 WAS @ PHI W 19 10 5 11 45.5 0 2 0.0 0 0 - 0 2 2 7 1 1 1 3 7
+p53
+aVMartell Webster WAS 04/08/2015 WAS @ PHI W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 3
+p54
+aVRamon Sessions WAS 04/08/2015 WAS @ PHI W 29 19 5 7 71.4 2 2 100.0 7 9 77.8 1 3 4 7 0 0 4 0 22
+p55
+aVKris Humphries WAS 04/08/2015 WAS @ PHI W 20 12 5 6 83.3 0 0 - 2 3 66.7 1 6 7 2 0 1 0 4 2
+p56
+aVKevin Seraphin WAS 04/04/2015 WAS @ MEM W 17 4 2 2 100.0 0 0 - 0 0 - 1 4 5 1 0 0 2 4 -2
+p57
+aVKris Humphries WAS 04/04/2015 WAS @ MEM W 18 2 1 4 25.0 0 1 0.0 0 2 0.0 0 3 3 1 1 0 0 1 3
+p58
+aVOtto Porter WAS 04/04/2015 WAS @ MEM W 29 7 3 7 42.9 1 3 33.3 0 0 - 2 4 6 0 3 0 2 2 5
+p59
+aVMarcin Gortat WAS 04/04/2015 WAS @ MEM W 31 6 2 5 40.0 0 0 - 2 2 100.0 1 7 8 1 1 0 0 4 11
+p60
+aVJohn Wall WAS 04/04/2015 WAS @ MEM W 36 18 7 15 46.7 1 3 33.3 3 3 100.0 0 6 6 14 0 0 5 0 13
+p61
+aVRasual Butler WAS 04/04/2015 WAS @ MEM W 19 10 4 9 44.4 2 3 66.7 0 0 - 0 2 2 0 0 0 1 2 4
+p62
+aVDrew Gooden WAS 04/04/2015 WAS @ MEM W 30 16 6 10 60.0 3 5 60.0 1 1 100.0 1 2 3 2 1 0 0 1 6
+p63
+aVBradley Beal WAS 04/04/2015 WAS @ MEM W 40 20 10 21 47.6 0 6 0.0 0 0 - 1 4 5 2 1 0 3 3 0
+p64
+aVRamon Sessions WAS 04/04/2015 WAS @ MEM W 20 9 3 6 50.0 1 1 100.0 2 2 100.0 0 2 2 3 2 0 2 1 5
+p65
+aVOtto Porter WAS 04/03/2015 WAS vs. NYK W 29 17 7 9 77.8 2 3 66.7 1 2 50.0 2 6 8 2 2 1 0 0 24
+p66
+aVRasual Butler WAS 04/03/2015 WAS vs. NYK W 20 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 0 0 1 1 2 -12
+p67
+aVDrew Gooden WAS 04/03/2015 WAS vs. NYK W 23 9 3 9 33.3 2 4 50.0 1 2 50.0 4 9 13 1 0 0 0 3 22
+p68
+aVJohn Wall WAS 04/03/2015 WAS vs. NYK W 29 6 3 13 23.1 0 1 0.0 0 0 - 0 2 2 18 2 0 4 2 24
+p69
+aVKevin Seraphin WAS 04/03/2015 WAS vs. NYK W 18 5 2 7 28.6 0 0 - 1 2 50.0 2 2 4 2 0 2 1 2 -8
+p70
+aVRamon Sessions WAS 04/03/2015 WAS vs. NYK W 27 12 4 5 80.0 0 1 0.0 4 4 100.0 0 3 3 2 2 0 2 1 -5
+p71
+aVWill Bynum WAS 04/03/2015 WAS vs. NYK W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p72
+aVKris Humphries WAS 04/03/2015 WAS vs. NYK W 25 8 4 10 40.0 0 1 0.0 0 0 - 1 6 7 2 0 0 1 3 -8
+p73
+aVMarcin Gortat WAS 04/03/2015 WAS vs. NYK W 30 19 9 13 69.2 0 0 - 1 2 50.0 2 4 6 0 0 3 0 2 22
+p74
+aVBradley Beal WAS 04/03/2015 WAS vs. NYK W 36 18 8 18 44.4 2 3 66.7 0 0 - 1 2 3 5 2 1 2 1 11
+p75
+aVBradley Beal WAS 04/01/2015 WAS vs. PHI W 32 20 9 18 50.0 0 3 0.0 2 4 50.0 0 5 5 5 0 1 0 1 29
+p76
+aVKevin Seraphin WAS 04/01/2015 WAS vs. PHI W 16 10 5 5 100.0 0 0 - 0 2 0.0 1 3 4 0 0 0 0 3 -11
+p77
+aVRasual Butler WAS 04/01/2015 WAS vs. PHI W 22 2 0 2 0.0 0 1 0.0 2 4 50.0 0 2 2 0 1 0 0 3 -8
+p78
+aVDeJuan Blair WAS 04/01/2015 WAS vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p79
+aVDrew Gooden WAS 04/01/2015 WAS vs. PHI W 21 10 4 6 66.7 2 2 100.0 0 0 - 1 3 4 2 1 0 2 3 7
+p80
+aVRamon Sessions WAS 04/01/2015 WAS vs. PHI W 17 3 0 1 0.0 0 0 - 3 4 75.0 0 0 0 4 0 0 2 0 -15
+p81
+aVOtto Porter WAS 04/01/2015 WAS vs. PHI W 38 15 5 12 41.7 1 4 25.0 4 4 100.0 3 4 7 1 2 0 3 2 15
+p82
+aVJohn Wall WAS 04/01/2015 WAS vs. PHI W 30 13 6 11 54.5 1 2 50.0 0 0 - 0 4 4 15 1 0 6 1 30
+p83
+aVKris Humphries WAS 04/01/2015 WAS vs. PHI W 15 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 1 1 0 3 -6
+p84
+aVMarcin Gortat WAS 04/01/2015 WAS vs. PHI W 31 23 10 11 90.9 0 0 - 3 4 75.0 3 11 14 3 0 2 1 3 26
+p85
+aVWill Bynum WAS 04/01/2015 WAS vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -11
+p86
+aVNene WAS 04/01/2015 WAS vs. PHI W 13 4 2 4 50.0 0 0 - 0 0 - 1 4 5 2 1 0 0 0 12
+p87
+aVMartell Webster WAS 04/01/2015 WAS vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p88
+aVMarcin Gortat WAS 03/29/2015 WAS vs. HOU L 29 6 3 10 30.0 0 0 - 0 0 - 4 6 10 0 1 2 0 5 -4
+p89
+aVKevin Seraphin WAS 03/29/2015 WAS vs. HOU L 8 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 3 2
+p90
+aVJohn Wall WAS 03/29/2015 WAS vs. HOU L 43 25 7 17 41.2 0 1 0.0 11 12 91.7 2 6 8 12 4 1 7 4 -3
+p91
+aVOtto Porter WAS 03/29/2015 WAS vs. HOU L 18 15 4 7 57.1 2 2 100.0 5 7 71.4 3 3 6 0 1 0 1 1 6
+p92
+aVRamon Sessions WAS 03/29/2015 WAS vs. HOU L 9 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 1 2 0 0 0 -3
+p93
+aVPaul Pierce WAS 03/29/2015 WAS vs. HOU L 22 2 1 6 16.7 0 3 0.0 0 0 - 1 0 1 1 1 0 2 2 -10
+p94
+aVRasual Butler WAS 03/29/2015 WAS vs. HOU L 14 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 0 0 -3
+p95
+aVDrew Gooden WAS 03/29/2015 WAS vs. HOU L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 5 5 1 0 0 0 2 -6
+p96
+aVNene WAS 03/29/2015 WAS vs. HOU L 34 10 4 8 50.0 0 0 - 2 5 40.0 0 7 7 1 3 0 2 1 -10
+p97
+aVBradley Beal WAS 03/29/2015 WAS vs. HOU L 38 15 4 11 36.4 1 4 25.0 6 7 85.7 0 4 4 0 1 1 3 3 -3
+p98
+aVMartell Webster WAS 03/29/2015 WAS vs. HOU L 8 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 1 1 -6
+p99
+aVRamon Sessions WAS 03/27/2015 WAS vs. CHA W 19 9 4 7 57.1 0 1 0.0 1 2 50.0 1 6 7 3 0 0 1 2 14
+p100
+aVDrew Gooden WAS 03/27/2015 WAS vs. CHA W 39 15 5 11 45.5 3 4 75.0 2 2 100.0 5 12 17 4 1 0 1 1 13
+p101
+aVMartell Webster WAS 03/27/2015 WAS vs. CHA W 12 2 0 4 0.0 0 3 0.0 2 4 50.0 0 0 0 0 0 0 0 0 7
+p102
+aVJohn Wall WAS 03/27/2015 WAS vs. CHA W 48 32 12 30 40.0 2 4 50.0 6 8 75.0 0 9 9 6 2 0 6 4 -5
+p103
+aVNene WAS 03/27/2015 WAS vs. CHA W 20 10 5 9 55.6 0 0 - 0 2 0.0 1 4 5 0 0 0 2 2 -12
+p104
+aVPaul Pierce WAS 03/27/2015 WAS vs. CHA W 23 6 2 9 22.2 0 6 0.0 2 4 50.0 1 3 4 2 0 3 0 2 -12
+p105
+aVKevin Seraphin WAS 03/27/2015 WAS vs. CHA W 13 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 1 1 3 11
+p106
+aVRasual Butler WAS 03/27/2015 WAS vs. CHA W 26 10 4 10 40.0 2 4 50.0 0 0 - 1 3 4 0 0 1 0 4 8
+p107
+aVBradley Beal WAS 03/27/2015 WAS vs. CHA W 43 16 7 18 38.9 2 3 66.7 0 0 - 2 4 6 6 3 0 5 2 -2
+p108
+aVMarcin Gortat WAS 03/27/2015 WAS vs. CHA W 44 8 4 9 44.4 0 0 - 0 0 - 5 11 16 3 3 4 0 5 -6
+p109
+aVWill Bynum WAS 03/27/2015 WAS vs. CHA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p110
+aVJohn Wall WAS 03/25/2015 WAS vs. IND L 41 34 11 21 52.4 2 4 50.0 10 11 90.9 0 4 4 6 2 1 2 5 -1
+p111
+aVRasual Butler WAS 03/25/2015 WAS vs. IND L 23 10 3 6 50.0 1 3 33.3 3 4 75.0 0 6 6 0 0 0 1 2 2
+p112
+aVRamon Sessions WAS 03/25/2015 WAS vs. IND L 19 7 1 5 20.0 0 2 0.0 5 6 83.3 0 2 2 2 0 0 0 2 4
+p113
+aVMarcin Gortat WAS 03/25/2015 WAS vs. IND L 30 16 7 10 70.0 0 0 - 2 2 100.0 1 6 7 0 1 2 2 1 2
+p114
+aVKevin Seraphin WAS 03/25/2015 WAS vs. IND L 21 5 2 6 33.3 0 0 - 1 1 100.0 1 6 7 1 0 1 1 4 5
+p115
+aVDrew Gooden WAS 03/25/2015 WAS vs. IND L 17 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 4 -2
+p116
+aVOtto Porter WAS 03/25/2015 WAS vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p117
+aVNene WAS 03/25/2015 WAS vs. IND L 28 10 3 8 37.5 0 0 - 4 6 66.7 1 4 5 0 0 0 2 2 -8
+p118
+aVMartell Webster WAS 03/25/2015 WAS vs. IND L 28 6 1 6 16.7 0 2 0.0 4 6 66.7 1 5 6 1 2 0 1 1 -2
+p119
+aVBradley Beal WAS 03/25/2015 WAS vs. IND L 11 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 1 0 1 0 4
+p120
+aVPaul Pierce WAS 03/25/2015 WAS vs. IND L 23 4 1 4 25.0 1 1 100.0 1 2 50.0 0 5 5 1 0 0 0 2 -10
+p121
+aVMarcin Gortat WAS 03/23/2015 WAS @ GSW L 24 4 2 7 28.6 0 0 - 0 0 - 1 6 7 1 2 1 1 1 -21
+p122
+aVDrew Gooden WAS 03/23/2015 WAS @ GSW L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 -9
+p123
+aVPaul Pierce WAS 03/23/2015 WAS @ GSW L 23 7 3 7 42.9 0 2 0.0 1 2 50.0 0 0 0 2 0 0 1 0 -8
+p124
+aVToure' Murry WAS 03/23/2015 WAS @ GSW L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 3
+p125
+aVBradley Beal WAS 03/23/2015 WAS @ GSW L 34 12 4 11 36.4 2 4 50.0 2 3 66.7 0 2 2 1 1 0 0 2 -16
+p126
+aVRamon Sessions WAS 03/23/2015 WAS @ GSW L 20 12 4 7 57.1 1 2 50.0 3 3 100.0 0 2 2 1 1 0 1 0 -4
+p127
+aVMartell Webster WAS 03/23/2015 WAS @ GSW L 22 6 1 4 25.0 0 0 - 4 5 80.0 1 0 1 1 0 0 1 2 -27
+p128
+aVKevin Seraphin WAS 03/23/2015 WAS @ GSW L 24 12 4 10 40.0 0 0 - 4 6 66.7 1 7 8 2 0 1 0 0 -10
+p129
+aVDeJuan Blair WAS 03/23/2015 WAS @ GSW L 7 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -2
+p130
+aVRasual Butler WAS 03/23/2015 WAS @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p131
+aVJohn Wall WAS 03/23/2015 WAS @ GSW L 33 11 4 16 25.0 0 3 0.0 3 3 100.0 0 5 5 5 0 0 0 4 -28
+p132
+aVOtto Porter WAS 03/23/2015 WAS @ GSW L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p133
+aVNene WAS 03/23/2015 WAS @ GSW L 29 7 3 9 33.3 0 0 - 1 2 50.0 2 5 7 1 1 0 5 2 -20
+p134
+aVJohn Wall WAS 03/22/2015 WAS @ SAC L 33 9 3 10 30.0 1 3 33.3 2 2 100.0 0 4 4 8 1 0 4 1 -21
+p135
+aVMartell Webster WAS 03/22/2015 WAS @ SAC L 12 6 2 5 40.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 1 0 -3
+p136
+aVNene WAS 03/22/2015 WAS @ SAC L 19 11 3 8 37.5 0 0 - 5 8 62.5 3 3 6 2 0 0 2 3 -15
+p137
+aVDrew Gooden WAS 03/22/2015 WAS @ SAC L 23 10 5 13 38.5 0 1 0.0 0 0 - 2 4 6 1 2 0 1 1 -2
+p138
+aVRasual Butler WAS 03/22/2015 WAS @ SAC L 20 4 1 6 16.7 0 3 0.0 2 2 100.0 1 2 3 2 0 0 1 0 -9
+p139
+aVOtto Porter WAS 03/22/2015 WAS @ SAC L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -3
+p140
+aVRamon Sessions WAS 03/22/2015 WAS @ SAC L 26 9 4 8 50.0 1 2 50.0 0 0 - 1 4 5 2 0 0 1 2 -7
+p141
+aVMarcin Gortat WAS 03/22/2015 WAS @ SAC L 23 6 3 5 60.0 0 0 - 0 2 0.0 5 2 7 2 1 0 0 3 -19
+p142
+aVPaul Pierce WAS 03/22/2015 WAS @ SAC L 17 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 4 -14
+p143
+aVDeJuan Blair WAS 03/22/2015 WAS @ SAC L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p144
+aVToure' Murry WAS 03/22/2015 WAS @ SAC L 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p145
+aVKevin Seraphin WAS 03/22/2015 WAS @ SAC L 21 6 3 9 33.3 0 0 - 0 0 - 0 4 4 0 1 3 1 3 -4
+p146
+aVBradley Beal WAS 03/22/2015 WAS @ SAC L 27 19 8 13 61.5 1 4 25.0 2 2 100.0 1 2 3 4 1 0 3 1 -12
+p147
+aVRasual Butler WAS 03/20/2015 WAS @ LAC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p148
+aVRamon Sessions WAS 03/20/2015 WAS @ LAC L 27 6 2 7 28.6 0 1 0.0 2 3 66.7 0 2 2 3 2 0 0 0 -6
+p149
+aVKevin Seraphin WAS 03/20/2015 WAS @ LAC L 15 10 5 9 55.6 0 0 - 0 0 - 0 1 1 1 0 0 0 2 11
+p150
+aVDrew Gooden WAS 03/20/2015 WAS @ LAC L 21 10 3 5 60.0 0 1 0.0 4 4 100.0 1 3 4 2 1 0 1 3 -4
+p151
+aVOtto Porter WAS 03/20/2015 WAS @ LAC L 11 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 6
+p152
+aVNene WAS 03/20/2015 WAS @ LAC L 26 14 6 14 42.9 0 0 - 2 4 50.0 2 5 7 1 1 1 2 3 -16
+p153
+aVJohn Wall WAS 03/20/2015 WAS @ LAC L 39 19 7 18 38.9 1 3 33.3 4 5 80.0 1 5 6 10 1 0 3 3 -21
+p154
+aVPaul Pierce WAS 03/20/2015 WAS @ LAC L 30 6 2 11 18.2 2 8 25.0 0 0 - 0 4 4 4 0 1 1 1 -20
+p155
+aVBradley Beal WAS 03/20/2015 WAS @ LAC L 37 18 5 10 50.0 3 5 60.0 5 5 100.0 1 1 2 4 0 0 1 2 -10
+p156
+aVMarcin Gortat WAS 03/20/2015 WAS @ LAC L 29 12 6 9 66.7 0 0 - 0 0 - 2 3 5 2 1 0 1 2 -18
+p157
+aVMartell Webster WAS 03/20/2015 WAS @ LAC L 2 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 5
+p158
+aVBradley Beal WAS 03/18/2015 WAS @ UTA W 40 9 4 10 40.0 0 2 0.0 1 1 100.0 2 2 4 2 0 0 4 2 -2
+p159
+aVPaul Pierce WAS 03/18/2015 WAS @ UTA W 28 18 6 10 60.0 4 5 80.0 2 2 100.0 1 2 3 4 2 0 1 3 4
+p160
+aVRamon Sessions WAS 03/18/2015 WAS @ UTA W 18 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 1 0 0 2 2 2
+p161
+aVKevin Seraphin WAS 03/18/2015 WAS @ UTA W 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -2
+p162
+aVRasual Butler WAS 03/18/2015 WAS @ UTA W 11 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 1 0 0 0 1
+p163
+aVOtto Porter WAS 03/18/2015 WAS @ UTA W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p164
+aVDrew Gooden WAS 03/18/2015 WAS @ UTA W 18 9 4 10 40.0 1 2 50.0 0 0 - 0 5 5 0 0 0 0 1 8
+p165
+aVJohn Wall WAS 03/18/2015 WAS @ UTA W 37 24 9 13 69.2 0 1 0.0 6 7 85.7 0 9 9 6 0 0 4 3 7
+p166
+aVNene WAS 03/18/2015 WAS @ UTA W 33 8 3 7 42.9 0 0 - 2 6 33.3 2 3 5 0 0 1 5 3 -4
+p167
+aVToure' Murry WAS 03/18/2015 WAS @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p168
+aVMarcin Gortat WAS 03/18/2015 WAS @ UTA W 36 7 2 4 50.0 0 0 - 3 5 60.0 1 8 9 1 1 1 4 3 8
+p169
+aVKevin Seraphin WAS 03/16/2015 WAS vs. POR W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 6
+p170
+aVPaul Pierce WAS 03/16/2015 WAS vs. POR W 32 16 4 9 44.4 2 5 40.0 6 8 75.0 0 5 5 1 2 0 1 3 5
+p171
+aVBradley Beal WAS 03/16/2015 WAS vs. POR W 39 23 8 13 61.5 4 4 100.0 3 6 50.0 1 3 4 7 1 0 0 2 19
+p172
+aVNene WAS 03/16/2015 WAS vs. POR W 31 12 5 13 38.5 0 0 - 2 4 50.0 2 5 7 2 0 1 2 5 3
+p173
+aVMarcin Gortat WAS 03/16/2015 WAS vs. POR W 38 16 8 10 80.0 0 0 - 0 0 - 2 7 9 0 0 1 1 2 3
+p174
+aVRamon Sessions WAS 03/16/2015 WAS vs. POR W 16 3 0 0 - 0 0 - 3 4 75.0 0 4 4 3 0 0 0 1 4
+p175
+aVJohn Wall WAS 03/16/2015 WAS vs. POR W 41 21 10 23 43.5 0 1 0.0 1 2 50.0 0 9 9 11 2 2 2 1 2
+p176
+aVRasual Butler WAS 03/16/2015 WAS vs. POR W 16 5 2 6 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -5
+p177
+aVDrew Gooden WAS 03/16/2015 WAS vs. POR W 21 9 4 7 57.1 1 1 100.0 0 0 - 1 1 2 1 0 0 0 1 3
+p178
+aVDrew Gooden WAS 03/14/2015 WAS vs. SAC W 26 2 1 5 20.0 0 1 0.0 0 0 - 3 6 9 1 3 0 1 3 13
+p179
+aVKevin Seraphin WAS 03/14/2015 WAS vs. SAC W 17 10 5 5 100.0 0 0 - 0 0 - 0 4 4 1 0 1 1 5 5
+p180
+aVRamon Sessions WAS 03/14/2015 WAS vs. SAC W 14 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 2 1 0 1 0 14
+p181
+aVPaul Pierce WAS 03/14/2015 WAS vs. SAC W 23 17 7 11 63.6 3 5 60.0 0 0 - 0 3 3 1 0 0 1 3 2
+p182
+aVBradley Beal WAS 03/14/2015 WAS vs. SAC W 34 14 4 13 30.8 2 6 33.3 4 5 80.0 2 3 5 7 0 1 2 3 16
+p183
+aVOtto Porter WAS 03/14/2015 WAS vs. SAC W 13 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 1 0 0 0 -7
+p184
+aVMarcin Gortat WAS 03/14/2015 WAS vs. SAC W 32 13 6 9 66.7 0 0 - 1 2 50.0 1 4 5 2 0 1 1 4 7
+p185
+aVJohn Wall WAS 03/14/2015 WAS vs. SAC W 39 31 9 15 60.0 4 5 80.0 9 10 90.0 0 2 2 12 1 1 5 2 9
+p186
+aVDeJuan Blair WAS 03/14/2015 WAS vs. SAC W 16 6 3 6 50.0 0 0 - 0 0 - 2 5 7 0 1 1 1 5 17
+p187
+aVRasual Butler WAS 03/14/2015 WAS vs. SAC W 27 14 6 10 60.0 2 4 50.0 0 0 - 1 4 5 2 1 1 0 0 4
+p188
+aVOtto Porter WAS 03/12/2015 WAS vs. MEM W 28 6 2 10 20.0 0 2 0.0 2 4 50.0 4 2 6 1 2 0 2 3 12
+p189
+aVRamon Sessions WAS 03/12/2015 WAS vs. MEM W 27 9 3 7 42.9 0 1 0.0 3 4 75.0 0 6 6 6 1 0 1 1 15
+p190
+aVJohn Wall WAS 03/12/2015 WAS vs. MEM W 30 21 8 11 72.7 1 2 50.0 4 5 80.0 0 7 7 6 1 2 2 1 24
+p191
+aVKevin Seraphin WAS 03/12/2015 WAS vs. MEM W 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -2
+p192
+aVRasual Butler WAS 03/12/2015 WAS vs. MEM W 10 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 1
+p193
+aVMarcin Gortat WAS 03/12/2015 WAS vs. MEM W 40 22 10 16 62.5 0 0 - 2 4 50.0 2 7 9 2 3 3 0 2 22
+p194
+aVToure' Murry WAS 03/12/2015 WAS vs. MEM W 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 2 2 1
+p195
+aVMartell Webster WAS 03/12/2015 WAS vs. MEM W 8 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 1 2
+p196
+aVDrew Gooden WAS 03/12/2015 WAS vs. MEM W 27 13 4 9 44.4 0 1 0.0 5 6 83.3 2 3 5 3 1 0 0 3 12
+p197
+aVPaul Pierce WAS 03/12/2015 WAS vs. MEM W 24 17 6 7 85.7 3 4 75.0 2 2 100.0 0 0 0 1 1 0 0 1 21
+p198
+aVBradley Beal WAS 03/12/2015 WAS vs. MEM W 27 9 4 11 36.4 0 3 0.0 1 2 50.0 0 3 3 4 1 0 3 3 -2
+p199
+aVDeJuan Blair WAS 03/12/2015 WAS vs. MEM W 10 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -6
+p200
+aVJohn Wall WAS 03/09/2015 WAS @ CHA W 29 15 7 11 63.6 1 2 50.0 0 0 - 0 5 5 9 3 1 3 1 20
+p201
+aVKevin Seraphin WAS 03/09/2015 WAS @ CHA W 20 12 6 9 66.7 0 0 - 0 0 - 2 5 7 0 1 0 0 4 8
+p202
+aVMarcin Gortat WAS 03/09/2015 WAS @ CHA W 28 20 9 11 81.8 0 0 - 2 2 100.0 2 5 7 0 2 0 0 1 18
+p203
+aVNene WAS 03/09/2015 WAS @ CHA W 19 9 4 5 80.0 0 0 - 1 1 100.0 0 1 1 0 2 0 3 4 19
+p204
+aVPaul Pierce WAS 03/09/2015 WAS @ CHA W 18 9 4 7 57.1 1 3 33.3 0 0 - 0 5 5 1 0 0 0 0 19
+p205
+aVDeJuan Blair WAS 03/09/2015 WAS @ CHA W 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p206
+aVOtto Porter WAS 03/09/2015 WAS @ CHA W 23 8 4 10 40.0 0 2 0.0 0 0 - 3 3 6 1 1 1 2 0 8
+p207
+aVBradley Beal WAS 03/09/2015 WAS @ CHA W 31 14 7 16 43.8 0 2 0.0 0 0 - 1 4 5 3 1 0 2 1 19
+p208
+aVRasual Butler WAS 03/09/2015 WAS @ CHA W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 4
+p209
+aVGarrett Temple WAS 03/09/2015 WAS @ CHA W 19 2 0 3 0.0 0 3 0.0 2 2 100.0 0 1 1 1 0 0 1 3 2
+p210
+aVRamon Sessions WAS 03/09/2015 WAS @ CHA W 19 4 2 5 40.0 0 0 - 0 0 - 0 3 3 3 0 0 2 1 6
+p211
+aVDrew Gooden WAS 03/09/2015 WAS @ CHA W 24 2 1 5 20.0 0 2 0.0 0 0 - 0 6 6 3 0 1 0 3 9
+p212
+aVMartell Webster WAS 03/07/2015 WAS @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p213
+aVMarcin Gortat WAS 03/07/2015 WAS @ MIL L 34 10 5 7 71.4 0 0 - 0 0 - 1 8 9 1 1 1 3 2 -6
+p214
+aVOtto Porter WAS 03/07/2015 WAS @ MIL L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 1 1 -8
+p215
+aVKevin Seraphin WAS 03/07/2015 WAS @ MIL L 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 1 2
+p216
+aVRasual Butler WAS 03/07/2015 WAS @ MIL L 36 9 3 11 27.3 1 7 14.3 2 2 100.0 0 3 3 1 0 1 4 3 -4
+p217
+aVRamon Sessions WAS 03/07/2015 WAS @ MIL L 16 10 4 7 57.1 1 1 100.0 1 1 100.0 0 2 2 1 0 0 0 0 2
+p218
+aVGarrett Temple WAS 03/07/2015 WAS @ MIL L 21 11 4 6 66.7 1 2 50.0 2 4 50.0 0 2 2 1 2 0 0 3 8
+p219
+aVNene WAS 03/07/2015 WAS @ MIL L 29 9 3 7 42.9 0 0 - 3 6 50.0 3 1 4 2 1 1 1 1 -6
+p220
+aVPaul Pierce WAS 03/07/2015 WAS @ MIL L 24 14 4 15 26.7 3 9 33.3 3 4 75.0 4 4 8 3 1 0 4 5 -8
+p221
+aVJohn Wall WAS 03/07/2015 WAS @ MIL L 36 11 3 14 21.4 2 6 33.3 3 5 60.0 2 7 9 6 2 0 3 1 -13
+p222
+aVDrew Gooden WAS 03/07/2015 WAS @ MIL L 22 5 2 8 25.0 1 2 50.0 0 0 - 4 6 10 1 0 0 0 2 6
+p223
+aVPaul Pierce WAS 03/06/2015 WAS vs. MIA W 22 10 4 9 44.4 2 6 33.3 0 0 - 0 3 3 1 0 0 3 0 3
+p224
+aVNene WAS 03/06/2015 WAS vs. MIA W 32 20 6 12 50.0 0 0 - 8 8 100.0 0 2 2 4 0 0 3 3 -6
+p225
+aVKevin Seraphin WAS 03/06/2015 WAS vs. MIA W 9 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 1 0 2 2 3
+p226
+aVGarrett Temple WAS 03/06/2015 WAS vs. MIA W 18 6 2 3 66.7 2 3 66.7 0 0 - 1 0 1 1 0 0 1 3 -12
+p227
+aVMarcin Gortat WAS 03/06/2015 WAS vs. MIA W 32 14 7 12 58.3 0 0 - 0 0 - 4 13 17 1 0 2 1 1 8
+p228
+aVJohn Wall WAS 03/06/2015 WAS vs. MIA W 35 6 2 7 28.6 0 3 0.0 2 2 100.0 1 6 7 12 3 2 0 1 5
+p229
+aVOtto Porter WAS 03/06/2015 WAS vs. MIA W 28 6 3 10 30.0 0 2 0.0 0 0 - 1 2 3 1 0 0 2 3 -3
+p230
+aVRamon Sessions WAS 03/06/2015 WAS vs. MIA W 13 5 2 5 40.0 0 2 0.0 1 1 100.0 0 3 3 2 2 0 2 2 -2
+p231
+aVBradley Beal WAS 03/06/2015 WAS vs. MIA W 33 17 6 11 54.5 2 4 50.0 3 5 60.0 0 2 2 1 0 0 1 4 12
+p232
+aVDrew Gooden WAS 03/06/2015 WAS vs. MIA W 17 11 4 9 44.4 1 3 33.3 2 2 100.0 2 2 4 0 0 0 0 2 2
+p233
+aVRamon Sessions WAS 03/03/2015 WAS @ CHI L 15 8 1 6 16.7 0 2 0.0 6 7 85.7 1 0 1 3 1 0 2 0 -5
+p234
+aVNene WAS 03/03/2015 WAS @ CHI L 20 0 0 4 0.0 0 0 - 0 0 - 1 5 6 2 2 0 0 6 -11
+p235
+aVOtto Porter WAS 03/03/2015 WAS @ CHI L 30 11 3 5 60.0 2 3 66.7 3 4 75.0 1 4 5 0 0 2 1 0 -1
+p236
+aVDrew Gooden WAS 03/03/2015 WAS @ CHI L 12 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 1 0 0 3 1
+p237
+aVBradley Beal WAS 03/03/2015 WAS @ CHI L 35 13 6 18 33.3 0 5 0.0 1 1 100.0 0 4 4 2 2 1 0 0 -2
+p238
+aVKevin Seraphin WAS 03/03/2015 WAS @ CHI L 15 6 3 8 37.5 0 0 - 0 0 - 2 1 3 0 1 2 1 4 3
+p239
+aVPaul Pierce WAS 03/03/2015 WAS @ CHI L 32 16 6 10 60.0 4 6 66.7 0 0 - 0 1 1 3 0 1 0 5 2
+p240
+aVGarrett Temple WAS 03/03/2015 WAS @ CHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -3
+p241
+aVMarcin Gortat WAS 03/03/2015 WAS @ CHI L 33 12 6 9 66.7 0 0 - 0 0 - 2 10 12 1 0 2 1 1 -7
+p242
+aVJohn Wall WAS 03/03/2015 WAS @ CHI L 39 21 8 20 40.0 1 4 25.0 4 7 57.1 2 2 4 11 2 2 6 1 0
+p243
+aVRasual Butler WAS 03/03/2015 WAS @ CHI L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 -2
+p244
+aVOtto Porter WAS 02/28/2015 WAS vs. DET W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -2
+p245
+aVKevin Seraphin WAS 02/28/2015 WAS vs. DET W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -9
+p246
+aVNene WAS 02/28/2015 WAS vs. DET W 30 21 8 14 57.1 0 0 - 5 6 83.3 3 4 7 1 2 0 0 3 7
+p247
+aVMarcin Gortat WAS 02/28/2015 WAS vs. DET W 39 16 7 12 58.3 0 0 - 2 2 100.0 4 13 17 2 3 1 0 2 15
+p248
+aVRamon Sessions WAS 02/28/2015 WAS vs. DET W 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 0 -11
+p249
+aVDrew Gooden WAS 02/28/2015 WAS vs. DET W 20 9 4 8 50.0 1 2 50.0 0 0 - 1 1 2 0 1 1 0 1 -5
+p250
+aVJohn Wall WAS 02/28/2015 WAS vs. DET W 38 22 8 14 57.1 0 3 0.0 6 7 85.7 1 0 1 6 2 0 5 1 15
+p251
+aVGarrett Temple WAS 02/28/2015 WAS vs. DET W 16 3 1 2 50.0 1 2 50.0 0 2 0.0 0 2 2 0 1 0 0 0 3
+p252
+aVPaul Pierce WAS 02/28/2015 WAS vs. DET W 34 14 5 12 41.7 4 8 50.0 0 2 0.0 0 5 5 5 1 0 2 5 6
+p253
+aVBradley Beal WAS 02/28/2015 WAS vs. DET W 33 8 2 10 20.0 1 4 25.0 3 4 75.0 2 4 6 5 3 0 2 2 1
+p254
+aVJohn Wall WAS 02/27/2015 WAS @ PHI L 38 21 7 26 26.9 0 2 0.0 7 8 87.5 1 4 5 11 2 1 4 4 -10
+p255
+aVOtto Porter WAS 02/27/2015 WAS @ PHI L 37 19 8 19 42.1 2 5 40.0 1 1 100.0 1 2 3 2 1 0 1 3 -7
+p256
+aVRamon Sessions WAS 02/27/2015 WAS @ PHI L 21 14 4 10 40.0 1 1 100.0 5 7 71.4 1 3 4 2 0 0 2 2 -2
+p257
+aVDeJuan Blair WAS 02/27/2015 WAS @ PHI L 1 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p258
+aVGarrett Temple WAS 02/27/2015 WAS @ PHI L 19 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 3 0 2 1 2 -3
+p259
+aVMartell Webster WAS 02/27/2015 WAS @ PHI L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p260
+aVMarcin Gortat WAS 02/27/2015 WAS @ PHI L 35 8 4 8 50.0 0 0 - 0 2 0.0 4 10 14 0 0 1 1 3 -6
+p261
+aVDrew Gooden WAS 02/27/2015 WAS @ PHI L 17 4 1 5 20.0 0 0 - 2 2 100.0 2 4 6 0 0 0 1 3 1
+p262
+aVRasual Butler WAS 02/27/2015 WAS @ PHI L 26 9 3 12 25.0 1 7 14.3 2 2 100.0 0 5 5 1 0 0 0 1 -14
+p263
+aVNene WAS 02/27/2015 WAS @ PHI L 20 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 1 0 1 4 5
+p264
+aVKevin Seraphin WAS 02/27/2015 WAS @ PHI L 18 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 1 2 3 -9
+p265
+aVNene WAS 02/25/2015 WAS @ MIN L 25 12 6 12 50.0 0 0 - 0 1 0.0 2 2 4 1 0 0 5 1 3
+p266
+aVKris Humphries WAS 02/25/2015 WAS @ MIN L 12 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -11
+p267
+aVRasual Butler WAS 02/25/2015 WAS @ MIN L 19 2 1 8 12.5 0 4 0.0 0 0 - 0 3 3 1 0 0 2 3 -15
+p268
+aVKevin Seraphin WAS 02/25/2015 WAS @ MIN L 18 8 4 8 50.0 0 0 - 0 0 - 2 1 3 2 0 2 1 4 -20
+p269
+aVMartell Webster WAS 02/25/2015 WAS @ MIN L 15 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 0 1 0 2 3 -13
+p270
+aVRamon Sessions WAS 02/25/2015 WAS @ MIN L 20 6 1 5 20.0 0 0 - 4 4 100.0 0 1 1 2 0 0 2 2 -4
+p271
+aVGarrett Temple WAS 02/25/2015 WAS @ MIN L 25 11 4 11 36.4 1 6 16.7 2 2 100.0 1 3 4 3 2 0 1 2 -7
+p272
+aVOtto Porter WAS 02/25/2015 WAS @ MIN L 29 13 6 11 54.5 1 2 50.0 0 0 - 1 0 1 1 0 0 1 3 -5
+p273
+aVJohn Wall WAS 02/25/2015 WAS @ MIN L 35 5 2 10 20.0 1 2 50.0 0 0 - 0 3 3 10 1 0 4 3 -16
+p274
+aVDeJuan Blair WAS 02/25/2015 WAS @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p275
+aVDrew Gooden WAS 02/25/2015 WAS @ MIN L 10 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 0 -11
+p276
+aVMarcin Gortat WAS 02/25/2015 WAS @ MIN L 28 9 4 9 44.4 0 0 - 1 1 100.0 2 13 15 0 0 1 0 5 -1
+p277
+aVMarcin Gortat WAS 02/24/2015 WAS vs. GSW L 29 16 8 11 72.7 0 0 - 0 0 - 1 10 11 3 0 1 2 1 -2
+p278
+aVRasual Butler WAS 02/24/2015 WAS vs. GSW L 22 9 4 7 57.1 1 3 33.3 0 0 - 2 1 3 1 0 0 0 1 -15
+p279
+aVPaul Pierce WAS 02/24/2015 WAS vs. GSW L 28 25 7 11 63.6 2 4 50.0 9 9 100.0 0 5 5 1 1 1 2 1 11
+p280
+aVKevin Seraphin WAS 02/24/2015 WAS vs. GSW L 18 10 5 9 55.6 0 0 - 0 0 - 1 2 3 1 0 0 4 2 -14
+p281
+aVGarrett Temple WAS 02/24/2015 WAS vs. GSW L 32 10 3 7 42.9 2 5 40.0 2 2 100.0 0 3 3 2 2 1 2 3 0
+p282
+aVRamon Sessions WAS 02/24/2015 WAS vs. GSW L 16 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 2 1 0 2 3 -9
+p283
+aVKris Humphries WAS 02/24/2015 WAS vs. GSW L 17 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 0 1 1 -1
+p284
+aVNene WAS 02/24/2015 WAS vs. GSW L 28 9 3 4 75.0 0 0 - 3 5 60.0 0 7 7 2 0 1 4 4 2
+p285
+aVMartell Webster WAS 02/24/2015 WAS vs. GSW L 16 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 1 -9
+p286
+aVJohn Wall WAS 02/24/2015 WAS vs. GSW L 34 16 8 18 44.4 0 4 0.0 0 1 0.0 2 1 3 11 0 0 8 3 2
+p287
+aVMartell Webster WAS 02/22/2015 WAS @ DET L 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p288
+aVOtto Porter WAS 02/22/2015 WAS @ DET L 21 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 1 0 0 1 3
+p289
+aVDeJuan Blair WAS 02/22/2015 WAS @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p290
+aVPaul Pierce WAS 02/22/2015 WAS @ DET L 24 8 2 5 40.0 2 5 40.0 2 2 100.0 0 3 3 1 0 0 1 4 -19
+p291
+aVGarrett Temple WAS 02/22/2015 WAS @ DET L 30 12 4 7 57.1 3 5 60.0 1 2 50.0 1 3 4 1 0 0 1 1 -27
+p292
+aVMarcin Gortat WAS 02/22/2015 WAS @ DET L 31 24 12 18 66.7 0 0 - 0 0 - 5 5 10 1 0 1 0 2 -8
+p293
+aVKevin Seraphin WAS 02/22/2015 WAS @ DET L 15 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 0 1 2 3 -11
+p294
+aVNene WAS 02/22/2015 WAS @ DET L 21 4 2 10 20.0 0 0 - 0 2 0.0 2 3 5 4 2 0 4 4 -9
+p295
+aVJohn Wall WAS 02/22/2015 WAS @ DET L 34 10 5 16 31.3 0 2 0.0 0 0 - 0 2 2 12 0 0 2 1 -8
+p296
+aVRasual Butler WAS 02/22/2015 WAS @ DET L 22 7 2 6 33.3 0 3 0.0 3 3 100.0 0 4 4 1 0 0 0 1 1
+p297
+aVRamon Sessions WAS 02/22/2015 WAS @ DET L 19 7 2 6 33.3 1 1 100.0 2 3 66.7 0 1 1 5 0 0 0 1 -9
+p298
+aVKris Humphries WAS 02/22/2015 WAS @ DET L 18 11 5 6 83.3 0 0 - 1 2 50.0 1 6 7 1 1 0 0 3 7
+p299
+aVPaul Pierce WAS 02/20/2015 WAS vs. CLE L 28 9 3 10 30.0 0 4 0.0 3 3 100.0 1 1 2 2 0 0 3 1 -6
+p300
+aVRamon Sessions WAS 02/20/2015 WAS vs. CLE L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -5
+p301
+aVMarcin Gortat WAS 02/20/2015 WAS vs. CLE L 27 8 4 8 50.0 0 0 - 0 0 - 3 3 6 0 0 1 2 2 -28
+p302
+aVDrew Gooden WAS 02/20/2015 WAS vs. CLE L 12 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 2 2 2 -8
+p303
+aVMartell Webster WAS 02/20/2015 WAS vs. CLE L 20 4 1 5 20.0 0 1 0.0 2 4 50.0 1 2 3 1 0 0 1 1 -32
+p304
+aVNene WAS 02/20/2015 WAS vs. CLE L 25 18 8 11 72.7 0 0 - 2 2 100.0 1 2 3 2 0 0 1 2 -5
+p305
+aVKris Humphries WAS 02/20/2015 WAS vs. CLE L 18 7 3 5 60.0 0 0 - 1 1 100.0 3 3 6 2 0 0 0 3 -17
+p306
+aVDeJuan Blair WAS 02/20/2015 WAS vs. CLE L 14 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 1 0 2 4 -18
+p307
+aVGarrett Temple WAS 02/20/2015 WAS vs. CLE L 9 2 1 4 25.0 0 0 - 0 2 0.0 0 4 4 1 0 0 1 1 -22
+p308
+aVRasual Butler WAS 02/20/2015 WAS vs. CLE L 18 2 1 6 16.7 0 4 0.0 0 0 - 0 2 2 2 0 0 0 2 -30
+p309
+aVJohn Wall WAS 02/20/2015 WAS vs. CLE L 32 18 8 16 50.0 0 2 0.0 2 2 100.0 2 3 5 9 1 2 4 2 -11
+p310
+aVOtto Porter WAS 02/20/2015 WAS vs. CLE L 30 9 3 8 37.5 1 5 20.0 2 2 100.0 0 5 5 1 4 2 0 3 -8
+p311
+aVPaul Pierce WAS 02/11/2015 WAS @ TOR L 30 17 7 12 58.3 2 4 50.0 1 2 50.0 1 2 3 2 0 1 1 1 3
+p312
+aVGarrett Temple WAS 02/11/2015 WAS @ TOR L 27 3 1 3 33.3 1 2 50.0 0 0 - 2 4 6 2 2 0 1 2 -6
+p313
+aVAndre Miller WAS 02/11/2015 WAS @ TOR L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 5
+p314
+aVDrew Gooden WAS 02/11/2015 WAS @ TOR L 29 10 5 12 41.7 0 1 0.0 0 0 - 5 7 12 3 0 0 2 1 -5
+p315
+aVMarcin Gortat WAS 02/11/2015 WAS @ TOR L 25 9 4 8 50.0 0 0 - 1 2 50.0 2 6 8 0 0 2 2 0 8
+p316
+aVRasual Butler WAS 02/11/2015 WAS @ TOR L 18 5 2 10 20.0 1 4 25.0 0 0 - 0 3 3 3 0 1 1 2 -5
+p317
+aVJohn Wall WAS 02/11/2015 WAS @ TOR L 36 21 7 15 46.7 1 6 16.7 6 8 75.0 1 3 4 8 1 0 5 2 -7
+p318
+aVKevin Seraphin WAS 02/11/2015 WAS @ TOR L 17 6 3 7 42.9 0 0 - 0 0 - 1 4 5 1 0 2 0 1 -4
+p319
+aVNene WAS 02/11/2015 WAS @ TOR L 25 14 7 8 87.5 0 0 - 0 2 0.0 2 2 4 3 4 0 2 3 -3
+p320
+aVOtto Porter WAS 02/11/2015 WAS @ TOR L 21 6 2 6 33.3 0 3 0.0 2 2 100.0 1 3 4 2 0 0 2 2 4
+p321
+aVDrew Gooden WAS 02/09/2015 WAS vs. ORL W 23 10 4 6 66.7 1 1 100.0 1 1 100.0 2 2 4 0 0 0 1 3 3
+p322
+aVGarrett Temple WAS 02/09/2015 WAS vs. ORL W 26 7 2 3 66.7 1 2 50.0 2 2 100.0 1 2 3 3 3 0 0 2 12
+p323
+aVPaul Pierce WAS 02/09/2015 WAS vs. ORL W 22 6 2 9 22.2 1 5 20.0 1 2 50.0 0 1 1 1 2 0 2 1 17
+p324
+aVKris Humphries WAS 02/09/2015 WAS vs. ORL W 4 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 0 0
+p325
+aVJohn Wall WAS 02/09/2015 WAS vs. ORL W 33 9 3 10 30.0 1 5 20.0 2 3 66.7 0 10 10 10 1 1 3 1 19
+p326
+aVMartell Webster WAS 02/09/2015 WAS vs. ORL W 11 6 2 7 28.6 0 3 0.0 2 2 100.0 1 2 3 1 1 0 2 0 -1
+p327
+aVOtto Porter WAS 02/09/2015 WAS vs. ORL W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p328
+aVMarcin Gortat WAS 02/09/2015 WAS vs. ORL W 31 14 5 6 83.3 0 0 - 4 4 100.0 0 14 14 3 0 1 2 2 27
+p329
+aVNene WAS 02/09/2015 WAS vs. ORL W 21 14 6 10 60.0 0 0 - 2 2 100.0 3 0 3 3 0 0 2 2 13
+p330
+aVAndre Miller WAS 02/09/2015 WAS vs. ORL W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 4 0 0 1 0 -3
+p331
+aVRasual Butler WAS 02/09/2015 WAS vs. ORL W 27 15 4 14 28.6 3 9 33.3 4 5 80.0 1 2 3 0 0 0 3 1 -1
+p332
+aVKevin Seraphin WAS 02/09/2015 WAS vs. ORL W 17 7 3 8 37.5 0 0 - 1 2 50.0 4 2 6 0 0 1 3 2 -11
+p333
+aVKevin Seraphin WAS 02/07/2015 WAS vs. BKN W 25 13 5 9 55.6 0 0 - 3 3 100.0 2 6 8 1 0 1 1 3 24
+p334
+aVDrew Gooden WAS 02/07/2015 WAS vs. BKN W 6 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 1 1 0 0 5
+p335
+aVKris Humphries WAS 02/07/2015 WAS vs. BKN W 21 9 4 8 50.0 0 0 - 1 2 50.0 4 7 11 2 1 0 0 2 20
+p336
+aVMarcin Gortat WAS 02/07/2015 WAS vs. BKN W 17 11 5 7 71.4 0 0 - 1 2 50.0 5 3 8 2 0 0 1 4 8
+p337
+aVGarrett Temple WAS 02/07/2015 WAS vs. BKN W 24 7 3 5 60.0 1 1 100.0 0 0 - 1 2 3 3 1 0 2 4 22
+p338
+aVDeJuan Blair WAS 02/07/2015 WAS vs. BKN W 6 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 5
+p339
+aVPaul Pierce WAS 02/07/2015 WAS vs. BKN W 22 2 1 8 12.5 0 3 0.0 0 0 - 0 3 3 1 1 0 1 2 10
+p340
+aVMartell Webster WAS 02/07/2015 WAS vs. BKN W 6 4 1 4 25.0 1 2 50.0 1 2 50.0 0 0 0 0 0 0 0 1 5
+p341
+aVRasual Butler WAS 02/07/2015 WAS vs. BKN W 23 15 6 11 54.5 3 6 50.0 0 0 - 0 2 2 4 2 0 0 0 19
+p342
+aVOtto Porter WAS 02/07/2015 WAS vs. BKN W 21 12 5 8 62.5 1 3 33.3 1 1 100.0 1 3 4 1 1 1 0 2 16
+p343
+aVJohn Wall WAS 02/07/2015 WAS vs. BKN W 26 17 6 12 50.0 3 5 60.0 2 3 66.7 0 2 2 7 0 0 5 1 15
+p344
+aVAndre Miller WAS 02/07/2015 WAS vs. BKN W 22 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 6 1 0 2 2 22
+p345
+aVNene WAS 02/07/2015 WAS vs. BKN W 20 10 4 7 57.1 0 0 - 2 4 50.0 1 4 5 4 1 0 2 2 14
+p346
+aVOtto Porter WAS 02/05/2015 WAS @ CHA L 18 7 3 5 60.0 1 1 100.0 0 1 0.0 2 0 2 1 0 0 0 3 4
+p347
+aVJohn Wall WAS 02/05/2015 WAS @ CHA L 38 15 6 13 46.2 0 1 0.0 3 4 75.0 0 3 3 13 1 0 4 1 10
+p348
+aVDeJuan Blair WAS 02/05/2015 WAS @ CHA L 15 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 0 0 2 3 -3
+p349
+aVNene WAS 02/05/2015 WAS @ CHA L 28 11 5 10 50.0 0 0 - 1 2 50.0 1 4 5 0 0 2 3 4 -3
+p350
+aVBradley Beal WAS 02/05/2015 WAS @ CHA L 11 1 0 5 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -7
+p351
+aVGarrett Temple WAS 02/05/2015 WAS @ CHA L 18 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 1 1 0 1 4 -19
+p352
+aVKris Humphries WAS 02/05/2015 WAS @ CHA L 22 4 2 9 22.2 0 0 - 0 0 - 1 4 5 1 0 0 0 1 -7
+p353
+aVMarcin Gortat WAS 02/05/2015 WAS @ CHA L 30 8 2 10 20.0 0 0 - 4 4 100.0 2 5 7 0 0 2 1 3 2
+p354
+aVRasual Butler WAS 02/05/2015 WAS @ CHA L 29 11 5 9 55.6 1 2 50.0 0 0 - 0 4 4 1 0 0 0 4 -2
+p355
+aVPaul Pierce WAS 02/05/2015 WAS @ CHA L 30 19 7 13 53.8 2 4 50.0 3 4 75.0 0 2 2 2 0 1 1 3 -10
+p356
+aVGarrett Temple WAS 02/04/2015 WAS @ ATL L 18 6 2 6 33.3 0 2 0.0 2 2 100.0 0 2 2 0 1 0 0 1 -15
+p357
+aVBradley Beal WAS 02/04/2015 WAS @ ATL L 39 23 8 19 42.1 0 4 0.0 7 10 70.0 1 1 2 2 2 0 1 2 -1
+p358
+aVJohn Wall WAS 02/04/2015 WAS @ ATL L 39 24 9 15 60.0 3 5 60.0 3 4 75.0 0 7 7 9 1 0 2 3 -6
+p359
+aVKevin Seraphin WAS 02/04/2015 WAS @ ATL L 18 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 0 0 2 1 1
+p360
+aVMarcin Gortat WAS 02/04/2015 WAS @ ATL L 29 14 4 5 80.0 0 0 - 6 6 100.0 2 7 9 2 0 1 3 6 -8
+p361
+aVKris Humphries WAS 02/04/2015 WAS @ ATL L 19 0 0 4 0.0 0 0 - 0 0 - 0 6 6 0 1 1 0 1 -14
+p362
+aVOtto Porter WAS 02/04/2015 WAS @ ATL L 20 3 1 7 14.3 0 2 0.0 1 1 100.0 0 3 3 1 0 0 1 1 -8
+p363
+aVNene WAS 02/04/2015 WAS @ ATL L 29 17 7 12 58.3 0 0 - 3 5 60.0 0 3 3 1 0 0 0 3 1
+p364
+aVRasual Butler WAS 02/04/2015 WAS @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p365
+aVPaul Pierce WAS 02/04/2015 WAS @ ATL L 25 4 1 5 20.0 0 2 0.0 2 2 100.0 1 3 4 2 1 0 2 5 2
+p366
+aVMartell Webster WAS 02/04/2015 WAS @ ATL L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 1 -1
+p367
+aVJohn Wall WAS 02/02/2015 WAS vs. CHA L 34 16 4 14 28.6 1 4 25.0 7 7 100.0 1 0 1 10 0 0 4 4 -7
+p368
+aVPaul Pierce WAS 02/02/2015 WAS vs. CHA L 24 11 4 7 57.1 3 5 60.0 0 0 - 0 3 3 1 1 0 2 3 -10
+p369
+aVKris Humphries WAS 02/02/2015 WAS vs. CHA L 26 13 4 8 50.0 0 0 - 5 6 83.3 3 2 5 1 1 0 0 0 6
+p370
+aVOtto Porter WAS 02/02/2015 WAS vs. CHA L 15 4 2 4 50.0 0 1 0.0 0 2 0.0 2 2 4 1 0 1 1 2 3
+p371
+aVNene WAS 02/02/2015 WAS vs. CHA L 28 8 4 10 40.0 0 0 - 0 0 - 2 5 7 1 0 0 1 3 -11
+p372
+aVKevin Seraphin WAS 02/02/2015 WAS vs. CHA L 19 6 2 7 28.6 0 0 - 2 2 100.0 1 4 5 1 1 0 0 2 9
+p373
+aVBradley Beal WAS 02/02/2015 WAS vs. CHA L 39 18 7 16 43.8 2 4 50.0 2 2 100.0 0 11 11 1 1 0 1 2 -7
+p374
+aVGarrett Temple WAS 02/02/2015 WAS vs. CHA L 26 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 1 3 0 0 3 5
+p375
+aVRasual Butler WAS 02/02/2015 WAS vs. CHA L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 3
+p376
+aVMarcin Gortat WAS 02/02/2015 WAS vs. CHA L 24 4 2 6 33.3 0 0 - 0 0 - 1 6 7 0 0 2 3 3 -11
+p377
+aVKris Humphries WAS 01/31/2015 WAS vs. TOR L 30 10 3 8 37.5 0 0 - 4 4 100.0 5 9 14 1 0 0 1 2 -2
+p378
+aVRasual Butler WAS 01/31/2015 WAS vs. TOR L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p379
+aVAndre Miller WAS 01/31/2015 WAS vs. TOR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -12
+p380
+aVBradley Beal WAS 01/31/2015 WAS vs. TOR L 45 26 9 17 52.9 5 10 50.0 3 3 100.0 1 2 3 4 2 0 3 3 4
+p381
+aVNene WAS 01/31/2015 WAS vs. TOR L 38 16 6 12 50.0 0 0 - 4 6 66.7 1 3 4 3 0 1 5 5 6
+p382
+aVMarcin Gortat WAS 01/31/2015 WAS vs. TOR L 24 2 0 3 0.0 0 0 - 2 4 50.0 1 1 2 2 2 2 4 2 2
+p383
+aVPaul Pierce WAS 01/31/2015 WAS vs. TOR L 35 19 6 10 60.0 3 7 42.9 4 5 80.0 0 5 5 2 1 1 2 0 4
+p384
+aVJohn Wall WAS 01/31/2015 WAS vs. TOR L 45 28 8 16 50.0 1 3 33.3 11 15 73.3 1 7 8 12 1 0 2 5 7
+p385
+aVOtto Porter WAS 01/31/2015 WAS vs. TOR L 20 9 2 5 40.0 1 2 50.0 4 4 100.0 1 0 1 0 0 0 2 4 -4
+p386
+aVKevin Seraphin WAS 01/31/2015 WAS vs. TOR L 12 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 2 1 1 -18
+p387
+aVGarrett Temple WAS 01/31/2015 WAS vs. TOR L 12 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 2 1 0 2 2 -3
+p388
+aVAndre Miller WAS 01/28/2015 WAS @ PHX L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p389
+aVBradley Beal WAS 01/28/2015 WAS @ PHX L 36 13 5 15 33.3 3 3 100.0 0 0 - 0 1 1 0 0 1 2 2 0
+p390
+aVKevin Seraphin WAS 01/28/2015 WAS @ PHX L 13 9 3 4 75.0 0 0 - 3 4 75.0 1 1 2 0 0 0 0 3 -2
+p391
+aVDrew Gooden WAS 01/28/2015 WAS @ PHX L 15 6 2 5 40.0 0 1 0.0 2 2 100.0 2 4 6 0 0 0 0 2 -8
+p392
+aVMartell Webster WAS 01/28/2015 WAS @ PHX L 8 3 0 1 0.0 0 1 0.0 3 3 100.0 0 4 4 1 0 0 0 0 0
+p393
+aVOtto Porter WAS 01/28/2015 WAS @ PHX L 24 14 5 8 62.5 3 4 75.0 1 2 50.0 1 0 1 2 0 0 0 1 -7
+p394
+aVKris Humphries WAS 01/28/2015 WAS @ PHX L 33 11 4 8 50.0 0 0 - 3 4 75.0 6 9 15 1 0 0 2 1 0
+p395
+aVJohn Wall WAS 01/28/2015 WAS @ PHX L 36 11 5 16 31.3 1 3 33.3 0 0 - 1 6 7 7 1 2 5 1 -6
+p396
+aVMarcin Gortat WAS 01/28/2015 WAS @ PHX L 34 14 6 12 50.0 0 0 - 2 4 50.0 2 6 8 0 0 0 0 2 -3
+p397
+aVPaul Pierce WAS 01/28/2015 WAS @ PHX L 24 9 3 11 27.3 1 4 25.0 2 4 50.0 1 3 4 1 0 0 3 1 -1
+p398
+aVGarrett Temple WAS 01/28/2015 WAS @ PHX L 7 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 3
+p399
+aVRasual Butler WAS 01/28/2015 WAS @ PHX L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -10
+p400
+aVAndre Miller WAS 01/27/2015 WAS @ LAL W 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p401
+aVGarrett Temple WAS 01/27/2015 WAS @ LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p402
+aVKris Humphries WAS 01/27/2015 WAS @ LAL W 26 8 2 5 40.0 0 0 - 4 4 100.0 3 8 11 0 1 0 1 1 1
+p403
+aVJohn Wall WAS 01/27/2015 WAS @ LAL W 36 21 8 12 66.7 0 0 - 5 12 41.7 1 8 9 13 3 0 4 2 9
+p404
+aVRasual Butler WAS 01/27/2015 WAS @ LAL W 20 5 2 7 28.6 1 6 16.7 0 0 - 0 3 3 0 1 0 1 2 2
+p405
+aVMarcin Gortat WAS 01/27/2015 WAS @ LAL W 29 11 5 7 71.4 0 0 - 1 1 100.0 2 5 7 0 1 2 0 2 8
+p406
+aVMartell Webster WAS 01/27/2015 WAS @ LAL W 6 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 1 0 0 1 1 -6
+p407
+aVKevin Seraphin WAS 01/27/2015 WAS @ LAL W 15 7 2 6 33.3 0 1 0.0 3 4 75.0 1 5 6 1 0 0 1 2 -6
+p408
+aVOtto Porter WAS 01/27/2015 WAS @ LAL W 30 12 5 9 55.6 1 1 100.0 1 1 100.0 1 3 4 0 1 0 2 5 6
+p409
+aVBradley Beal WAS 01/27/2015 WAS @ LAL W 38 19 9 18 50.0 1 6 16.7 0 0 - 1 3 4 2 0 0 3 2 8
+p410
+aVNene WAS 01/27/2015 WAS @ LAL W 26 6 2 7 28.6 0 0 - 2 3 66.7 0 6 6 2 1 0 2 0 9
+p411
+aVBradley Beal WAS 01/25/2015 WAS @ DEN W 28 14 6 11 54.5 1 2 50.0 1 1 100.0 0 1 1 1 1 0 3 6 2
+p412
+aVRasual Butler WAS 01/25/2015 WAS @ DEN W 28 7 3 8 37.5 1 4 25.0 0 0 - 0 5 5 0 0 1 0 3 8
+p413
+aVMartell Webster WAS 01/25/2015 WAS @ DEN W 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 0 3
+p414
+aVMarcin Gortat WAS 01/25/2015 WAS @ DEN W 28 7 3 7 42.9 0 0 - 1 2 50.0 2 9 11 2 1 0 2 3 11
+p415
+aVNene WAS 01/25/2015 WAS @ DEN W 30 14 7 9 77.8 0 0 - 0 0 - 0 5 5 1 2 0 5 5 3
+p416
+aVKris Humphries WAS 01/25/2015 WAS @ DEN W 33 21 9 13 69.2 0 0 - 3 4 75.0 4 10 14 1 0 0 1 3 0
+p417
+aVAndre Miller WAS 01/25/2015 WAS @ DEN W 11 2 1 4 25.0 0 0 - 0 0 - 2 1 3 2 0 0 1 1 -1
+p418
+aVOtto Porter WAS 01/25/2015 WAS @ DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p419
+aVJohn Wall WAS 01/25/2015 WAS @ DEN W 42 19 8 16 50.0 1 6 16.7 2 2 100.0 0 3 3 16 1 0 2 2 5
+p420
+aVPaul Pierce WAS 01/25/2015 WAS @ DEN W 33 19 4 9 44.4 1 2 50.0 10 14 71.4 0 3 3 3 0 1 2 0 -7
+p421
+aVKevin Seraphin WAS 01/25/2015 WAS @ DEN W 14 10 5 9 55.6 0 0 - 0 0 - 2 1 3 1 0 0 1 4 -9
+p422
+aVKris Humphries WAS 01/24/2015 WAS @ POR L 19 4 2 6 33.3 0 0 - 0 0 - 0 4 4 0 1 0 0 0 -12
+p423
+aVPaul Pierce WAS 01/24/2015 WAS @ POR L 30 19 7 10 70.0 3 4 75.0 2 2 100.0 0 6 6 2 0 0 0 0 -1
+p424
+aVGarrett Temple WAS 01/24/2015 WAS @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p425
+aVBradley Beal WAS 01/24/2015 WAS @ POR L 32 16 7 15 46.7 1 4 25.0 1 2 50.0 0 5 5 5 0 0 2 2 -4
+p426
+aVRasual Butler WAS 01/24/2015 WAS @ POR L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 0 -3
+p427
+aVKevin Seraphin WAS 01/24/2015 WAS @ POR L 17 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 2 1 1 3 -10
+p428
+aVNene WAS 01/24/2015 WAS @ POR L 28 15 7 11 63.6 0 0 - 1 3 33.3 0 4 4 4 1 1 1 6 4
+p429
+aVMarcin Gortat WAS 01/24/2015 WAS @ POR L 31 4 2 7 28.6 0 1 0.0 0 0 - 0 7 7 0 0 1 2 4 3
+p430
+aVJohn Wall WAS 01/24/2015 WAS @ POR L 35 25 10 17 58.8 0 1 0.0 5 5 100.0 1 3 4 9 1 0 3 4 4
+p431
+aVAndre Miller WAS 01/24/2015 WAS @ POR L 13 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 2 0 2 0 -9
+p432
+aVMartell Webster WAS 01/24/2015 WAS @ POR L 19 5 1 5 20.0 1 4 25.0 2 2 100.0 0 2 2 1 1 0 0 0 -7
+p433
+aVRasual Butler WAS 01/21/2015 WAS vs. OKC L 25 9 3 8 37.5 1 3 33.3 2 2 100.0 0 6 6 0 1 0 2 1 5
+p434
+aVAndre Miller WAS 01/21/2015 WAS vs. OKC L 9 0 0 4 0.0 0 0 - 0 2 0.0 0 4 4 2 0 0 0 0 -7
+p435
+aVOtto Porter WAS 01/21/2015 WAS vs. OKC L 7 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 0 4
+p436
+aVKris Humphries WAS 01/21/2015 WAS vs. OKC L 19 4 1 3 33.3 0 0 - 2 2 100.0 2 7 9 0 0 0 1 2 -2
+p437
+aVPaul Pierce WAS 01/21/2015 WAS vs. OKC L 37 14 5 13 38.5 2 9 22.2 2 2 100.0 4 8 12 2 2 0 0 2 -2
+p438
+aVMarcin Gortat WAS 01/21/2015 WAS vs. OKC L 37 10 5 9 55.6 0 1 0.0 0 0 - 1 5 6 0 0 3 0 3 -5
+p439
+aVKevin Seraphin WAS 01/21/2015 WAS vs. OKC L 11 9 4 9 44.4 0 0 - 1 1 100.0 2 0 2 0 0 0 0 3 -2
+p440
+aVBradley Beal WAS 01/21/2015 WAS vs. OKC L 42 14 5 21 23.8 2 9 22.2 2 2 100.0 4 4 8 2 1 0 3 1 -6
+p441
+aVJohn Wall WAS 01/21/2015 WAS vs. OKC L 44 18 6 17 35.3 2 6 33.3 4 4 100.0 0 6 6 13 4 0 3 5 5
+p442
+aVNene WAS 01/21/2015 WAS vs. OKC L 34 24 9 14 64.3 0 1 0.0 6 9 66.7 0 4 4 3 0 0 0 3 0
+p443
+aVGarrett Temple WAS 01/19/2015 WAS vs. PHI W 5 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 0 0 0 1 0 6
+p444
+aVPaul Pierce WAS 01/19/2015 WAS vs. PHI W 22 10 4 8 50.0 2 4 50.0 0 0 - 0 3 3 2 0 0 3 1 9
+p445
+aVOtto Porter WAS 01/19/2015 WAS vs. PHI W 26 10 4 9 44.4 0 1 0.0 2 2 100.0 2 4 6 4 1 2 1 3 26
+p446
+aVMarcin Gortat WAS 01/19/2015 WAS vs. PHI W 28 20 9 11 81.8 0 0 - 2 2 100.0 1 7 8 0 0 2 1 0 16
+p447
+aVKevin Seraphin WAS 01/19/2015 WAS vs. PHI W 19 14 7 9 77.8 0 0 - 0 0 - 6 3 9 0 0 0 3 3 19
+p448
+aVAndre Miller WAS 01/19/2015 WAS vs. PHI W 15 0 0 0 - 0 0 - 0 0 - 0 1 1 3 1 0 2 2 10
+p449
+aVKris Humphries WAS 01/19/2015 WAS vs. PHI W 25 6 2 7 28.6 0 0 - 2 4 50.0 2 7 9 1 1 0 2 3 20
+p450
+aVMartell Webster WAS 01/19/2015 WAS vs. PHI W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 8
+p451
+aVNene WAS 01/19/2015 WAS vs. PHI W 18 12 4 7 57.1 1 1 100.0 3 4 75.0 0 6 6 0 4 0 2 4 11
+p452
+aVRasual Butler WAS 01/19/2015 WAS vs. PHI W 19 8 3 7 42.9 1 2 50.0 1 1 100.0 0 2 2 2 0 0 1 1 22
+p453
+aVBradley Beal WAS 01/19/2015 WAS vs. PHI W 23 10 4 8 50.0 1 2 50.0 1 2 50.0 1 0 1 3 0 1 0 1 5
+p454
+aVJohn Wall WAS 01/19/2015 WAS vs. PHI W 29 11 4 9 44.4 0 0 - 3 3 100.0 1 3 4 10 1 0 5 2 19
+p455
+aVDrew Gooden WAS 01/19/2015 WAS vs. PHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 4
+p456
+aVMarcin Gortat WAS 01/17/2015 WAS @ BKN W 32 10 5 6 83.3 0 0 - 0 2 0.0 4 12 16 2 0 1 1 2 10
+p457
+aVBradley Beal WAS 01/17/2015 WAS @ BKN W 39 17 5 12 41.7 2 6 33.3 5 6 83.3 2 7 9 8 1 0 1 0 13
+p458
+aVPaul Pierce WAS 01/17/2015 WAS @ BKN W 26 7 2 9 22.2 2 6 33.3 1 2 50.0 0 4 4 1 0 0 4 1 4
+p459
+aVNene WAS 01/17/2015 WAS @ BKN W 28 20 8 12 66.7 0 0 - 4 8 50.0 3 3 6 2 2 2 2 3 8
+p460
+aVKevin Seraphin WAS 01/17/2015 WAS @ BKN W 16 12 5 7 71.4 0 0 - 2 4 50.0 0 1 1 0 0 1 1 4 -1
+p461
+aVAndre Miller WAS 01/17/2015 WAS @ BKN W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -2
+p462
+aVDeJuan Blair WAS 01/17/2015 WAS @ BKN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p463
+aVGarrett Temple WAS 01/17/2015 WAS @ BKN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p464
+aVRasual Butler WAS 01/17/2015 WAS @ BKN W 23 9 4 8 50.0 1 2 50.0 0 2 0.0 0 1 1 0 0 1 0 1 5
+p465
+aVOtto Porter WAS 01/17/2015 WAS @ BKN W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -4
+p466
+aVJohn Wall WAS 01/17/2015 WAS @ BKN W 36 11 5 15 33.3 0 2 0.0 1 2 50.0 1 5 6 6 3 0 3 1 10
+p467
+aVKris Humphries WAS 01/17/2015 WAS @ BKN W 19 13 6 7 85.7 0 0 - 1 1 100.0 2 2 4 0 0 0 0 2 0
+p468
+aVNene WAS 01/16/2015 WAS vs. BKN L 24 6 2 7 28.6 0 0 - 2 3 66.7 1 4 5 4 0 0 4 2 -16
+p469
+aVOtto Porter WAS 01/16/2015 WAS vs. BKN L 22 4 2 8 25.0 0 1 0.0 0 0 - 1 0 1 3 1 0 1 1 -10
+p470
+aVAndre Miller WAS 01/16/2015 WAS vs. BKN L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 3 0 1 1 0 3
+p471
+aVPaul Pierce WAS 01/16/2015 WAS vs. BKN L 25 8 2 5 40.0 2 5 40.0 2 2 100.0 0 6 6 1 2 0 2 3 -21
+p472
+aVKris Humphries WAS 01/16/2015 WAS vs. BKN L 19 12 5 8 62.5 0 0 - 2 2 100.0 2 6 8 1 0 0 0 1 -1
+p473
+aVMarcin Gortat WAS 01/16/2015 WAS vs. BKN L 25 9 4 7 57.1 0 0 - 1 2 50.0 3 2 5 0 0 1 1 4 -7
+p474
+aVJohn Wall WAS 01/16/2015 WAS vs. BKN L 31 13 5 10 50.0 1 3 33.3 2 2 100.0 0 3 3 6 2 0 3 4 -24
+p475
+aVBradley Beal WAS 01/16/2015 WAS vs. BKN L 26 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 4 0 0 1 5 -16
+p476
+aVMartell Webster WAS 01/16/2015 WAS vs. BKN L 7 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 1 1 -9
+p477
+aVGarrett Temple WAS 01/16/2015 WAS vs. BKN L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -1
+p478
+aVKevin Seraphin WAS 01/16/2015 WAS vs. BKN L 17 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 3 3 2 -9
+p479
+aVDeJuan Blair WAS 01/16/2015 WAS vs. BKN L 7 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -1
+p480
+aVRasual Butler WAS 01/16/2015 WAS vs. BKN L 19 7 3 8 37.5 0 2 0.0 1 1 100.0 0 3 3 0 1 0 2 1 2
+p481
+aVPaul Pierce WAS 01/14/2015 WAS @ CHI W 32 22 7 12 58.3 2 7 28.6 6 6 100.0 0 6 6 2 0 0 1 3 18
+p482
+aVMarcin Gortat WAS 01/14/2015 WAS @ CHI W 32 11 5 7 71.4 0 0 - 1 2 50.0 1 8 9 0 0 1 1 3 11
+p483
+aVNene WAS 01/14/2015 WAS @ CHI W 30 13 4 9 44.4 0 0 - 5 6 83.3 0 4 4 8 1 0 1 4 12
+p484
+aVMartell Webster WAS 01/14/2015 WAS @ CHI W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p485
+aVKris Humphries WAS 01/14/2015 WAS @ CHI W 18 8 3 5 60.0 0 0 - 2 2 100.0 4 5 9 0 0 1 2 3 -6
+p486
+aVRasual Butler WAS 01/14/2015 WAS @ CHI W 21 2 1 5 20.0 0 2 0.0 0 0 - 2 1 3 0 0 1 2 3 -8
+p487
+aVKevin Seraphin WAS 01/14/2015 WAS @ CHI W 16 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 1 1 3 -4
+p488
+aVBradley Beal WAS 01/14/2015 WAS @ CHI W 36 17 8 14 57.1 1 2 50.0 0 0 - 1 4 5 6 1 0 2 2 7
+p489
+aVJohn Wall WAS 01/14/2015 WAS @ CHI W 38 21 8 17 47.1 2 4 50.0 3 5 60.0 1 1 2 9 2 0 3 3 15
+p490
+aVAndre Miller WAS 01/14/2015 WAS @ CHI W 10 7 2 4 50.0 0 0 - 3 4 75.0 0 1 1 2 0 0 2 0 -9
+p491
+aVPaul Pierce WAS 01/13/2015 WAS vs. SAS W 27 13 4 8 50.0 3 4 75.0 2 2 100.0 0 2 2 2 0 0 3 2 3
+p492
+aVBradley Beal WAS 01/13/2015 WAS vs. SAS W 37 13 4 10 40.0 0 1 0.0 5 6 83.3 2 3 5 3 2 2 2 2 9
+p493
+aVMartell Webster WAS 01/13/2015 WAS vs. SAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p494
+aVRasual Butler WAS 01/13/2015 WAS vs. SAS W 25 7 3 7 42.9 1 4 25.0 0 0 - 1 2 3 1 0 1 2 2 3
+p495
+aVNene WAS 01/13/2015 WAS vs. SAS W 24 7 2 9 22.2 0 0 - 3 3 100.0 1 9 10 0 1 0 3 2 11
+p496
+aVMarcin Gortat WAS 01/13/2015 WAS vs. SAS W 28 7 3 6 50.0 0 0 - 1 2 50.0 0 11 11 0 0 0 1 1 7
+p497
+aVJohn Wall WAS 01/13/2015 WAS vs. SAS W 36 25 9 15 60.0 2 3 66.7 5 6 83.3 0 1 1 8 0 2 3 0 1
+p498
+aVAndre Miller WAS 01/13/2015 WAS vs. SAS W 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 7
+p499
+aVKevin Seraphin WAS 01/13/2015 WAS vs. SAS W 20 17 6 8 75.0 0 0 - 5 5 100.0 2 6 8 1 0 1 1 2 2
+p500
+aVKris Humphries WAS 01/13/2015 WAS vs. SAS W 24 10 5 10 50.0 0 0 - 0 0 - 2 6 8 1 1 1 0 2 -3
+p501
+aVOtto Porter WAS 01/11/2015 WAS @ ATL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 2 -15
+p502
+aVRasual Butler WAS 01/11/2015 WAS @ ATL L 22 8 3 7 42.9 2 6 33.3 0 0 - 0 3 3 3 1 0 1 0 -24
+p503
+aVPaul Pierce WAS 01/11/2015 WAS @ ATL L 25 11 5 10 50.0 1 3 33.3 0 0 - 2 3 5 3 0 0 0 2 -14
+p504
+aVMartell Webster WAS 01/11/2015 WAS @ ATL L 13 3 1 3 33.3 0 2 0.0 1 3 33.3 0 1 1 0 0 0 0 1 -11
+p505
+aVAndre Miller WAS 01/11/2015 WAS @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -18
+p506
+aVBradley Beal WAS 01/11/2015 WAS @ ATL L 34 12 4 12 33.3 2 5 40.0 2 2 100.0 1 4 5 4 0 1 2 1 -11
+p507
+aVJohn Wall WAS 01/11/2015 WAS @ ATL L 37 15 6 11 54.5 0 1 0.0 3 3 100.0 1 2 3 8 2 2 8 1 -8
+p508
+aVKevin Seraphin WAS 01/11/2015 WAS @ ATL L 24 13 6 9 66.7 0 0 - 1 1 100.0 0 6 6 4 0 3 3 2 -1
+p509
+aVNene WAS 01/11/2015 WAS @ ATL L 27 14 6 8 75.0 0 0 - 2 2 100.0 0 6 6 0 1 0 1 2 -8
+p510
+aVKris Humphries WAS 01/11/2015 WAS @ ATL L 13 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 0 1 1 0 2 -14
+p511
+aVGarrett Temple WAS 01/11/2015 WAS @ ATL L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -5
+p512
+aVDrew Gooden WAS 01/11/2015 WAS @ ATL L 5 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -8
+p513
+aVMarcin Gortat WAS 01/11/2015 WAS @ ATL L 19 10 4 5 80.0 0 0 - 2 3 66.7 1 1 2 1 0 0 3 2 -18
+p514
+aVJohn Wall WAS 01/09/2015 WAS vs. CHI W 35 16 6 15 40.0 0 1 0.0 4 4 100.0 0 4 4 12 2 1 3 1 25
+p515
+aVGarrett Temple WAS 01/09/2015 WAS vs. CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p516
+aVAndre Miller WAS 01/09/2015 WAS vs. CHI W 13 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 4 0 0 2 1 -9
+p517
+aVPaul Pierce WAS 01/09/2015 WAS vs. CHI W 29 7 2 6 33.3 2 4 50.0 1 2 50.0 0 4 4 2 1 1 1 3 15
+p518
+aVBradley Beal WAS 01/09/2015 WAS vs. CHI W 38 17 7 16 43.8 3 4 75.0 0 0 - 1 1 2 4 3 1 2 1 23
+p519
+aVKris Humphries WAS 01/09/2015 WAS vs. CHI W 19 9 2 7 28.6 0 0 - 5 6 83.3 1 6 7 0 1 1 1 3 -9
+p520
+aVOtto Porter WAS 01/09/2015 WAS vs. CHI W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p521
+aVKevin Seraphin WAS 01/09/2015 WAS vs. CHI W 10 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -2
+p522
+aVRasual Butler WAS 01/09/2015 WAS vs. CHI W 21 13 5 8 62.5 3 5 60.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p523
+aVMarcin Gortat WAS 01/09/2015 WAS vs. CHI W 38 21 10 16 62.5 0 0 - 1 5 20.0 3 10 13 1 0 2 2 2 18
+p524
+aVNene WAS 01/09/2015 WAS vs. CHI W 29 15 7 11 63.6 0 0 - 1 2 50.0 3 8 11 2 2 1 0 4 25
+p525
+aVOtto Porter WAS 01/07/2015 WAS vs. NYK W 24 6 3 6 50.0 0 2 0.0 0 0 - 2 2 4 1 1 0 0 1 11
+p526
+aVNene WAS 01/07/2015 WAS vs. NYK W 24 20 8 13 61.5 0 1 0.0 4 6 66.7 0 6 6 4 1 0 2 2 21
+p527
+aVDeJuan Blair WAS 01/07/2015 WAS vs. NYK W 2 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p528
+aVJohn Wall WAS 01/07/2015 WAS vs. NYK W 34 18 5 9 55.6 1 1 100.0 7 9 77.8 0 5 5 8 3 0 3 2 18
+p529
+aVMarcin Gortat WAS 01/07/2015 WAS vs. NYK W 29 12 5 9 55.6 0 0 - 2 4 50.0 5 6 11 2 1 1 2 2 19
+p530
+aVKris Humphries WAS 01/07/2015 WAS vs. NYK W 22 6 3 8 37.5 0 0 - 0 0 - 2 5 7 1 0 0 1 2 -4
+p531
+aVGarrett Temple WAS 01/07/2015 WAS vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p532
+aVRasual Butler WAS 01/07/2015 WAS vs. NYK W 24 14 6 11 54.5 2 4 50.0 0 0 - 0 1 1 2 1 2 1 1 10
+p533
+aVMartell Webster WAS 01/07/2015 WAS vs. NYK W 18 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 3 0 1 1 1 -11
+p534
+aVDrew Gooden WAS 01/07/2015 WAS vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -7
+p535
+aVAndre Miller WAS 01/07/2015 WAS vs. NYK W 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 5 1 0 1 0 -8
+p536
+aVBradley Beal WAS 01/07/2015 WAS vs. NYK W 29 12 4 10 40.0 4 6 66.7 0 0 - 0 2 2 2 1 0 1 0 17
+p537
+aVKevin Seraphin WAS 01/07/2015 WAS vs. NYK W 17 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -2
+p538
+aVAndre Miller WAS 01/05/2015 WAS @ NOP W 14 12 5 5 100.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 2 3
+p539
+aVOtto Porter WAS 01/05/2015 WAS @ NOP W 20 6 3 5 60.0 0 1 0.0 0 0 - 1 6 7 0 3 3 0 2 -3
+p540
+aVNene WAS 01/05/2015 WAS @ NOP W 27 6 3 5 60.0 0 0 - 0 0 - 1 6 7 1 0 0 2 2 13
+p541
+aVKevin Seraphin WAS 01/05/2015 WAS @ NOP W 16 4 1 2 50.0 0 0 - 2 2 100.0 0 5 5 1 0 2 1 2 -3
+p542
+aVPaul Pierce WAS 01/05/2015 WAS @ NOP W 25 14 6 8 75.0 2 2 100.0 0 0 - 1 1 2 0 0 0 0 1 8
+p543
+aVRasual Butler WAS 01/05/2015 WAS @ NOP W 17 9 2 7 28.6 0 0 - 5 6 83.3 1 2 3 1 0 0 0 1 4
+p544
+aVKris Humphries WAS 01/05/2015 WAS @ NOP W 25 10 5 11 45.5 0 0 - 0 0 - 3 2 5 1 0 1 1 3 -1
+p545
+aVJohn Wall WAS 01/05/2015 WAS @ NOP W 34 15 6 15 40.0 0 4 0.0 3 4 75.0 0 1 1 12 4 0 6 1 4
+p546
+aVBradley Beal WAS 01/05/2015 WAS @ NOP W 34 6 3 10 30.0 0 3 0.0 0 0 - 0 3 3 3 2 0 0 0 3
+p547
+aVMarcin Gortat WAS 01/05/2015 WAS @ NOP W 27 10 4 11 36.4 0 0 - 2 3 66.7 3 2 5 3 1 1 0 1 7
+p548
+aVPaul Pierce WAS 01/03/2015 WAS @ SAS L 17 5 1 4 25.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 1 1 -5
+p549
+aVMarcin Gortat WAS 01/03/2015 WAS @ SAS L 32 12 6 10 60.0 0 1 0.0 0 2 0.0 1 4 5 1 1 1 0 2 -4
+p550
+aVNene WAS 01/03/2015 WAS @ SAS L 26 12 5 9 55.6 0 0 - 2 2 100.0 1 0 1 1 2 1 2 5 -9
+p551
+aVRasual Butler WAS 01/03/2015 WAS @ SAS L 19 3 1 7 14.3 1 3 33.3 0 0 - 1 4 5 1 0 2 1 1 6
+p552
+aVJohn Wall WAS 01/03/2015 WAS @ SAS L 36 15 7 13 53.8 0 2 0.0 1 2 50.0 0 3 3 8 1 0 1 1 -8
+p553
+aVBradley Beal WAS 01/03/2015 WAS @ SAS L 33 15 6 12 50.0 2 3 66.7 1 2 50.0 1 0 1 3 0 0 1 3 -11
+p554
+aVKevin Seraphin WAS 01/03/2015 WAS @ SAS L 16 9 4 8 50.0 0 0 - 1 1 100.0 2 2 4 1 0 1 0 1 -5
+p555
+aVKris Humphries WAS 01/03/2015 WAS @ SAS L 20 10 5 8 62.5 0 0 - 0 0 - 1 7 8 0 1 0 0 1 1
+p556
+aVAndre Miller WAS 01/03/2015 WAS @ SAS L 12 0 0 3 0.0 0 0 - 0 0 - 1 1 2 4 1 0 0 1 -1
+p557
+aVOtto Porter WAS 01/03/2015 WAS @ SAS L 29 11 5 8 62.5 0 2 0.0 1 2 50.0 1 0 1 3 0 1 0 2 -9
+p558
+aVPaul Pierce WAS 01/02/2015 WAS @ OKC L 20 12 4 6 66.7 2 3 66.7 2 2 100.0 0 3 3 1 0 0 2 5 -1
+p559
+aVBradley Beal WAS 01/02/2015 WAS @ OKC L 37 21 7 15 46.7 3 5 60.0 4 4 100.0 1 9 10 6 0 0 3 3 1
+p560
+aVMartell Webster WAS 01/02/2015 WAS @ OKC L 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -8
+p561
+aVMarcin Gortat WAS 01/02/2015 WAS @ OKC L 32 6 3 6 50.0 0 0 - 0 0 - 2 5 7 0 1 0 1 0 3
+p562
+aVKris Humphries WAS 01/02/2015 WAS @ OKC L 24 8 4 8 50.0 0 0 - 0 1 0.0 4 3 7 3 0 0 1 1 -11
+p563
+aVNene WAS 01/02/2015 WAS @ OKC L 27 12 6 11 54.5 0 0 - 0 0 - 0 1 1 3 1 0 2 1 2
+p564
+aVJohn Wall WAS 01/02/2015 WAS @ OKC L 34 14 5 13 38.5 2 6 33.3 2 2 100.0 0 2 2 12 0 1 1 2 -3
+p565
+aVAndre Miller WAS 01/02/2015 WAS @ OKC L 20 15 5 9 55.6 1 1 100.0 4 4 100.0 1 2 3 2 1 0 1 1 -4
+p566
+aVDeJuan Blair WAS 01/02/2015 WAS @ OKC L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p567
+aVRasual Butler WAS 01/02/2015 WAS @ OKC L 30 11 4 12 33.3 3 6 50.0 0 0 - 0 1 1 0 0 0 1 3 -3
+p568
+aVKevin Seraphin WAS 01/02/2015 WAS @ OKC L 10 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -11
+p569
+aVBradley Beal WAS 12/30/2014 WAS @ DAL L 29 10 4 14 28.6 1 3 33.3 1 2 50.0 1 3 4 2 2 0 3 4 -15
+p570
+aVNene WAS 12/30/2014 WAS @ DAL L 16 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 1 0 0 2 1 -7
+p571
+aVDeJuan Blair WAS 12/30/2014 WAS @ DAL L 12 9 4 6 66.7 0 0 - 1 2 50.0 1 4 5 0 0 0 1 1 -2
+p572
+aVPaul Pierce WAS 12/30/2014 WAS @ DAL L 22 9 2 6 33.3 2 3 66.7 3 6 50.0 1 4 5 2 2 0 4 2 -16
+p573
+aVJohn Wall WAS 12/30/2014 WAS @ DAL L 31 11 4 7 57.1 0 1 0.0 3 4 75.0 1 3 4 8 0 1 3 2 -17
+p574
+aVMarcin Gortat WAS 12/30/2014 WAS @ DAL L 21 10 5 9 55.6 0 0 - 0 0 - 0 4 4 0 1 0 3 3 -12
+p575
+aVKris Humphries WAS 12/30/2014 WAS @ DAL L 22 11 4 5 80.0 0 0 - 3 4 75.0 2 5 7 3 0 0 0 3 -24
+p576
+aVKevin Seraphin WAS 12/30/2014 WAS @ DAL L 22 9 4 7 57.1 0 0 - 1 1 100.0 2 4 6 1 0 2 1 3 -9
+p577
+aVGarrett Temple WAS 12/30/2014 WAS @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p578
+aVOtto Porter WAS 12/30/2014 WAS @ DAL L 8 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 1 0 0 1 0 -2
+p579
+aVMartell Webster WAS 12/30/2014 WAS @ DAL L 14 3 0 4 0.0 0 1 0.0 3 5 60.0 0 1 1 0 0 0 1 3 -6
+p580
+aVAndre Miller WAS 12/30/2014 WAS @ DAL L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 4 0 0 2 0 -10
+p581
+aVRasual Butler WAS 12/30/2014 WAS @ DAL L 23 3 1 7 14.3 0 3 0.0 1 1 100.0 0 4 4 0 0 0 1 4 -13
+p582
+aVKris Humphries WAS 12/29/2014 WAS @ HOU W 12 0 0 6 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 4 -5
+p583
+aVNene WAS 12/29/2014 WAS @ HOU W 27 12 5 9 55.6 0 1 0.0 2 2 100.0 1 4 5 1 3 0 0 3 17
+p584
+aVBradley Beal WAS 12/29/2014 WAS @ HOU W 37 33 9 17 52.9 5 11 45.5 10 10 100.0 1 4 5 3 1 0 3 2 16
+p585
+aVJohn Wall WAS 12/29/2014 WAS @ HOU W 37 13 4 10 40.0 0 1 0.0 5 6 83.3 1 3 4 12 4 0 5 1 9
+p586
+aVDrew Gooden WAS 12/29/2014 WAS @ HOU W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -11
+p587
+aVAndre Miller WAS 12/29/2014 WAS @ HOU W 11 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -8
+p588
+aVKevin Seraphin WAS 12/29/2014 WAS @ HOU W 14 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 0 0 0 2 4 -15
+p589
+aVPaul Pierce WAS 12/29/2014 WAS @ HOU W 30 21 7 9 77.8 1 3 33.3 6 6 100.0 0 3 3 1 3 1 1 1 22
+p590
+aVMarcin Gortat WAS 12/29/2014 WAS @ HOU W 32 9 4 8 50.0 0 0 - 1 2 50.0 1 6 7 0 0 3 3 3 17
+p591
+aVRasual Butler WAS 12/29/2014 WAS @ HOU W 20 8 3 5 60.0 2 2 100.0 0 0 - 0 1 1 0 0 0 1 0 -22
+p592
+aVOtto Porter WAS 12/29/2014 WAS @ HOU W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -15
+p593
+aVMarcin Gortat WAS 12/27/2014 WAS vs. BOS W 27 7 3 6 50.0 0 0 - 1 2 50.0 2 8 10 2 1 1 2 3 13
+p594
+aVRasual Butler WAS 12/27/2014 WAS vs. BOS W 29 8 3 9 33.3 1 4 25.0 1 1 100.0 0 3 3 2 0 0 1 1 -3
+p595
+aVOtto Porter WAS 12/27/2014 WAS vs. BOS W 19 12 6 8 75.0 0 1 0.0 0 0 - 2 1 3 1 0 1 0 1 -6
+p596
+aVAndre Miller WAS 12/27/2014 WAS vs. BOS W 18 2 1 3 33.3 0 0 - 0 0 - 1 3 4 7 0 1 3 2 4
+p597
+aVKevin Seraphin WAS 12/27/2014 WAS vs. BOS W 19 10 5 9 55.6 0 0 - 0 0 - 0 1 1 0 0 0 3 3 9
+p598
+aVJohn Wall WAS 12/27/2014 WAS vs. BOS W 28 12 6 13 46.2 0 1 0.0 0 0 - 0 4 4 7 3 0 5 3 18
+p599
+aVGarrett Temple WAS 12/27/2014 WAS vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 3 3 -9
+p600
+aVNene WAS 12/27/2014 WAS vs. BOS W 20 4 1 5 20.0 0 0 - 2 3 66.7 0 5 5 2 1 0 0 1 13
+p601
+aVDrew Gooden WAS 12/27/2014 WAS vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -9
+p602
+aVPaul Pierce WAS 12/27/2014 WAS vs. BOS W 19 17 6 9 66.7 3 5 60.0 2 4 50.0 0 3 3 2 2 0 0 4 16
+p603
+aVKris Humphries WAS 12/27/2014 WAS vs. BOS W 24 18 9 14 64.3 0 0 - 0 0 - 3 6 9 3 2 0 0 3 9
+p604
+aVDeJuan Blair WAS 12/27/2014 WAS vs. BOS W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p605
+aVBradley Beal WAS 12/27/2014 WAS vs. BOS W 29 9 4 11 36.4 1 2 50.0 0 0 - 1 3 4 1 2 1 1 0 19
+p606
+aVNene WAS 12/25/2014 WAS @ NYK W 24 12 6 8 75.0 0 0 - 0 1 0.0 1 1 2 1 1 0 1 3 7
+p607
+aVKris Humphries WAS 12/25/2014 WAS @ NYK W 29 14 7 9 77.8 0 0 - 0 0 - 1 5 6 2 0 1 0 3 7
+p608
+aVKevin Seraphin WAS 12/25/2014 WAS @ NYK W 11 8 4 8 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p609
+aVPaul Pierce WAS 12/25/2014 WAS @ NYK W 23 3 1 5 20.0 1 3 33.3 0 0 - 0 4 4 2 0 0 0 2 8
+p610
+aVDrew Gooden WAS 12/25/2014 WAS @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p611
+aVJohn Wall WAS 12/25/2014 WAS @ NYK W 36 24 10 17 58.8 1 2 50.0 3 4 75.0 1 5 6 11 1 0 3 1 11
+p612
+aVGarrett Temple WAS 12/25/2014 WAS @ NYK W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p613
+aVRasual Butler WAS 12/25/2014 WAS @ NYK W 25 11 4 7 57.1 3 6 50.0 0 0 - 3 3 6 1 0 0 0 2 7
+p614
+aVMarcin Gortat WAS 12/25/2014 WAS @ NYK W 30 10 4 10 40.0 0 0 - 2 2 100.0 2 7 9 0 1 2 1 0 11
+p615
+aVAndre Miller WAS 12/25/2014 WAS @ NYK W 12 1 0 0 - 0 0 - 1 2 50.0 0 4 4 3 0 0 2 3 2
+p616
+aVBradley Beal WAS 12/25/2014 WAS @ NYK W 36 17 7 16 43.8 2 5 40.0 1 1 100.0 2 3 5 5 1 0 2 2 6
+p617
+aVOtto Porter WAS 12/25/2014 WAS @ NYK W 12 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 3
+p618
+aVMarcin Gortat WAS 12/23/2014 WAS vs. CHI L 38 14 5 15 33.3 0 0 - 4 4 100.0 4 7 11 1 1 3 1 2 -4
+p619
+aVRasual Butler WAS 12/23/2014 WAS vs. CHI L 25 4 1 7 14.3 1 2 50.0 1 1 100.0 0 4 4 1 0 0 0 2 -9
+p620
+aVJohn Wall WAS 12/23/2014 WAS vs. CHI L 37 18 9 16 56.3 0 0 - 0 0 - 0 5 5 9 2 0 4 5 3
+p621
+aVKris Humphries WAS 12/23/2014 WAS vs. CHI L 21 8 4 9 44.4 0 0 - 0 0 - 1 3 4 2 1 0 0 1 -2
+p622
+aVBradley Beal WAS 12/23/2014 WAS vs. CHI L 37 15 6 12 50.0 2 3 66.7 1 2 50.0 0 3 3 3 2 1 0 2 -1
+p623
+aVKevin Seraphin WAS 12/23/2014 WAS vs. CHI L 10 2 1 3 33.3 0 0 - 0 1 0.0 0 1 1 1 0 0 1 2 -4
+p624
+aVOtto Porter WAS 12/23/2014 WAS vs. CHI L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -8
+p625
+aVAndre Miller WAS 12/23/2014 WAS vs. CHI L 15 8 4 6 66.7 0 0 - 0 0 - 1 1 2 2 0 0 1 0 -10
+p626
+aVNene WAS 12/23/2014 WAS vs. CHI L 22 8 3 10 30.0 0 0 - 2 3 66.7 1 4 5 1 1 0 0 0 -9
+p627
+aVPaul Pierce WAS 12/23/2014 WAS vs. CHI L 29 12 4 10 40.0 2 4 50.0 2 5 40.0 0 5 5 1 0 1 0 3 4
+p628
+aVDrew Gooden WAS 12/21/2014 WAS vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p629
+aVNene WAS 12/21/2014 WAS vs. PHX L 22 2 1 8 12.5 0 0 - 0 0 - 1 4 5 2 1 0 1 1 -7
+p630
+aVOtto Porter WAS 12/21/2014 WAS vs. PHX L 15 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -4
+p631
+aVBradley Beal WAS 12/21/2014 WAS vs. PHX L 27 14 4 11 36.4 1 2 50.0 5 7 71.4 1 6 7 0 3 0 3 5 -10
+p632
+aVGarrett Temple WAS 12/21/2014 WAS vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p633
+aVKris Humphries WAS 12/21/2014 WAS vs. PHX L 20 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -1
+p634
+aVKevin Seraphin WAS 12/21/2014 WAS vs. PHX L 28 16 7 12 58.3 0 0 - 2 4 50.0 5 0 5 0 0 2 0 3 -6
+p635
+aVAndre Miller WAS 12/21/2014 WAS vs. PHX L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p636
+aVJohn Wall WAS 12/21/2014 WAS vs. PHX L 38 14 5 15 33.3 0 2 0.0 4 5 80.0 2 3 5 8 3 0 3 4 -9
+p637
+aVRasual Butler WAS 12/21/2014 WAS vs. PHX L 32 17 6 11 54.5 1 4 25.0 4 5 80.0 3 3 6 1 1 0 0 2 -12
+p638
+aVPaul Pierce WAS 12/21/2014 WAS vs. PHX L 27 12 4 13 30.8 1 5 20.0 3 4 75.0 1 2 3 0 1 0 2 3 -6
+p639
+aVMarcin Gortat WAS 12/21/2014 WAS vs. PHX L 20 9 3 4 75.0 0 0 - 3 4 75.0 1 6 7 0 0 2 1 2 -6
+p640
+aVRasual Butler WAS 12/19/2014 WAS @ MIA W 27 8 3 7 42.9 0 1 0.0 2 4 50.0 1 5 6 1 0 0 1 2 9
+p641
+aVGarrett Temple WAS 12/19/2014 WAS @ MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p642
+aVNene WAS 12/19/2014 WAS @ MIA W 26 20 8 10 80.0 0 0 - 4 7 57.1 2 4 6 2 1 0 0 3 19
+p643
+aVAndre Miller WAS 12/19/2014 WAS @ MIA W 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -1
+p644
+aVMarcin Gortat WAS 12/19/2014 WAS @ MIA W 22 4 2 5 40.0 0 0 - 0 0 - 1 6 7 2 1 1 0 2 -7
+p645
+aVKris Humphries WAS 12/19/2014 WAS @ MIA W 13 4 2 7 28.6 0 0 - 0 0 - 2 0 2 1 0 0 1 1 -12
+p646
+aVJohn Wall WAS 12/19/2014 WAS @ MIA W 38 20 6 10 60.0 0 2 0.0 8 10 80.0 0 1 1 10 0 0 2 0 3
+p647
+aVBradley Beal WAS 12/19/2014 WAS @ MIA W 35 16 4 15 26.7 1 5 20.0 7 8 87.5 3 4 7 2 2 0 2 3 -2
+p648
+aVOtto Porter WAS 12/19/2014 WAS @ MIA W 13 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 1 0 1 0 1 4
+p649
+aVKevin Seraphin WAS 12/19/2014 WAS @ MIA W 11 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 1 0 0 1 0 6
+p650
+aVPaul Pierce WAS 12/19/2014 WAS @ MIA W 32 14 6 13 46.2 1 5 20.0 1 2 50.0 2 1 3 2 0 1 0 1 -2
+p651
+aVDrew Gooden WAS 12/19/2014 WAS @ MIA W 13 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 2 0 0 2 -4
+p652
+aVKris Humphries WAS 12/16/2014 WAS vs. MIN W 27 6 2 3 66.7 0 0 - 2 2 100.0 1 9 10 0 0 2 0 3 8
+p653
+aVDrew Gooden WAS 12/16/2014 WAS vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p654
+aVGarrett Temple WAS 12/16/2014 WAS vs. MIN W 10 3 1 3 33.3 1 2 50.0 0 0 - 2 2 4 0 0 0 1 2 -6
+p655
+aVKevin Seraphin WAS 12/16/2014 WAS vs. MIN W 17 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 1 0 2 1 6 2
+p656
+aVDeJuan Blair WAS 12/16/2014 WAS vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p657
+aVMarcin Gortat WAS 12/16/2014 WAS vs. MIN W 28 15 7 12 58.3 0 0 - 1 2 50.0 3 2 5 2 0 2 0 3 16
+p658
+aVBradley Beal WAS 12/16/2014 WAS vs. MIN W 38 10 3 12 25.0 1 3 33.3 3 3 100.0 0 2 2 3 3 0 2 2 20
+p659
+aVRasual Butler WAS 12/16/2014 WAS vs. MIN W 28 23 9 15 60.0 4 5 80.0 1 2 50.0 1 4 5 2 1 1 0 1 1
+p660
+aVOtto Porter WAS 12/16/2014 WAS vs. MIN W 23 10 4 8 50.0 2 2 100.0 0 0 - 1 4 5 1 0 1 0 2 9
+p661
+aVAndre Miller WAS 12/16/2014 WAS vs. MIN W 7 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 -2
+p662
+aVNene WAS 12/16/2014 WAS vs. MIN W 21 11 4 7 57.1 0 0 - 3 5 60.0 1 6 7 2 1 0 2 5 6
+p663
+aVJohn Wall WAS 12/16/2014 WAS vs. MIN W 38 21 9 17 52.9 2 4 50.0 1 2 50.0 0 4 4 17 2 0 3 1 20
+p664
+aVKris Humphries WAS 12/14/2014 WAS vs. UTA W 26 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 1 0 3 9
+p665
+aVKevin Seraphin WAS 12/14/2014 WAS vs. UTA W 16 4 2 7 28.6 0 0 - 0 1 0.0 3 1 4 0 0 2 1 3 -2
+p666
+aVMarcin Gortat WAS 12/14/2014 WAS vs. UTA W 31 5 2 8 25.0 0 0 - 1 2 50.0 2 5 7 2 0 1 3 1 12
+p667
+aVPaul Pierce WAS 12/14/2014 WAS vs. UTA W 25 15 5 8 62.5 1 3 33.3 4 4 100.0 0 0 0 1 2 0 1 4 12
+p668
+aVRasual Butler WAS 12/14/2014 WAS vs. UTA W 23 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 1 1 1 1 4 -3
+p669
+aVBradley Beal WAS 12/14/2014 WAS vs. UTA W 37 22 9 17 52.9 2 5 40.0 2 2 100.0 0 7 7 4 2 0 2 0 9
+p670
+aVNene WAS 12/14/2014 WAS vs. UTA W 23 10 5 8 62.5 0 0 - 0 1 0.0 1 5 6 0 0 1 1 3 0
+p671
+aVJohn Wall WAS 12/14/2014 WAS vs. UTA W 36 16 8 15 53.3 0 2 0.0 0 2 0.0 2 4 6 8 5 3 5 1 5
+p672
+aVGarrett Temple WAS 12/14/2014 WAS vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p673
+aVOtto Porter WAS 12/14/2014 WAS vs. UTA W 11 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 0
+p674
+aVAndre Miller WAS 12/14/2014 WAS vs. UTA W 12 10 5 6 83.3 0 0 - 0 0 - 2 1 3 3 1 0 0 1 4
+p675
+aVJohn Wall WAS 12/12/2014 WAS vs. LAC W 38 10 4 10 40.0 2 2 100.0 0 0 - 0 1 1 11 1 2 3 4 6
+p676
+aVKris Humphries WAS 12/12/2014 WAS vs. LAC W 27 11 4 11 36.4 0 0 - 3 3 100.0 2 6 8 1 3 1 3 3 8
+p677
+aVMarcin Gortat WAS 12/12/2014 WAS vs. LAC W 22 18 8 10 80.0 0 0 - 2 2 100.0 0 2 2 0 0 2 0 3 9
+p678
+aVDeJuan Blair WAS 12/12/2014 WAS vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p679
+aVBradley Beal WAS 12/12/2014 WAS vs. LAC W 39 29 9 17 52.9 4 7 57.1 7 8 87.5 1 2 3 4 3 0 2 3 7
+p680
+aVRasual Butler WAS 12/12/2014 WAS vs. LAC W 25 8 3 6 50.0 2 4 50.0 0 0 - 1 1 2 1 0 0 2 2 -6
+p681
+aVKevin Seraphin WAS 12/12/2014 WAS vs. LAC W 15 4 2 6 33.3 0 0 - 0 0 - 1 6 7 0 0 0 1 3 -6
+p682
+aVGarrett Temple WAS 12/12/2014 WAS vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p683
+aVAndre Miller WAS 12/12/2014 WAS vs. LAC W 10 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 4 0 0 1 2 2
+p684
+aVNene WAS 12/12/2014 WAS vs. LAC W 23 9 4 8 50.0 0 0 - 1 2 50.0 2 3 5 2 2 0 1 3 4
+p685
+aVOtto Porter WAS 12/12/2014 WAS vs. LAC W 8 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 0 0
+p686
+aVPaul Pierce WAS 12/12/2014 WAS vs. LAC W 29 11 4 9 44.4 1 3 33.3 2 4 50.0 1 4 5 5 1 0 0 2 16
+p687
+aVKevin Seraphin WAS 12/10/2014 WAS @ ORL W 12 8 4 8 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 0
+p688
+aVOtto Porter WAS 12/10/2014 WAS @ ORL W 14 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 0 0 0 0 0 -3
+p689
+aVRasual Butler WAS 12/10/2014 WAS @ ORL W 27 6 2 6 33.3 1 3 33.3 1 2 50.0 2 2 4 1 0 1 0 0 0
+p690
+aVJohn Wall WAS 12/10/2014 WAS @ ORL W 35 21 10 17 58.8 1 1 100.0 0 1 0.0 0 6 6 11 1 0 2 4 2
+p691
+aVBradley Beal WAS 12/10/2014 WAS @ ORL W 34 9 4 8 50.0 1 3 33.3 0 0 - 1 2 3 3 0 1 2 0 5
+p692
+aVAndre Miller WAS 12/10/2014 WAS @ ORL W 13 1 0 0 - 0 0 - 1 2 50.0 0 1 1 3 1 0 1 2 2
+p693
+aVMarcin Gortat WAS 12/10/2014 WAS @ ORL W 28 10 5 9 55.6 0 0 - 0 0 - 0 5 5 0 1 2 0 1 -8
+p694
+aVPaul Pierce WAS 12/10/2014 WAS @ ORL W 29 8 3 10 30.0 2 5 40.0 0 0 - 3 3 6 5 0 0 2 0 8
+p695
+aVKris Humphries WAS 12/10/2014 WAS @ ORL W 28 11 5 12 41.7 0 0 - 1 2 50.0 1 2 3 1 2 0 1 2 2
+p696
+aVNene WAS 12/10/2014 WAS @ ORL W 21 12 6 8 75.0 0 0 - 0 0 - 0 6 6 1 0 1 1 2 2
+p697
+aVKris Humphries WAS 12/08/2014 WAS vs. BOS W 43 17 8 16 50.0 0 0 - 1 2 50.0 2 7 9 0 2 1 3 5 10
+p698
+aVPaul Pierce WAS 12/08/2014 WAS vs. BOS W 39 28 9 12 75.0 4 5 80.0 6 6 100.0 0 7 7 3 2 0 1 5 8
+p699
+aVGarrett Temple WAS 12/08/2014 WAS vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p700
+aVRasual Butler WAS 12/08/2014 WAS vs. BOS W 25 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 0 1 0 2 0 2
+p701
+aVAndre Miller WAS 12/08/2014 WAS vs. BOS W 14 7 2 4 50.0 0 1 0.0 3 4 75.0 0 0 0 2 0 0 1 1 -5
+p702
+aVOtto Porter WAS 12/08/2014 WAS vs. BOS W 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -1
+p703
+aVKevin Seraphin WAS 12/08/2014 WAS vs. BOS W 16 11 5 5 100.0 0 0 - 1 1 100.0 1 3 4 1 0 0 1 1 -7
+p704
+aVMarcin Gortat WAS 12/08/2014 WAS vs. BOS W 36 21 6 12 50.0 0 0 - 9 9 100.0 4 8 12 3 0 2 2 2 1
+p705
+aVJohn Wall WAS 12/08/2014 WAS vs. BOS W 44 26 10 17 58.8 1 3 33.3 5 8 62.5 1 6 7 17 3 0 9 4 6
+p706
+aVDrew Gooden WAS 12/08/2014 WAS vs. BOS W 15 2 1 7 14.3 0 2 0.0 0 0 - 1 1 2 1 0 0 0 4 -9
+p707
+aVBradley Beal WAS 12/08/2014 WAS vs. BOS W 46 14 5 12 41.7 1 2 50.0 3 4 75.0 0 3 3 5 2 0 3 4 0
+p708
+aVKevin Seraphin WAS 12/07/2014 WAS @ BOS L 10 4 1 1 100.0 0 0 - 2 2 100.0 2 4 6 1 0 0 1 3 -4
+p709
+aVAndre Miller WAS 12/07/2014 WAS @ BOS L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p710
+aVJohn Wall WAS 12/07/2014 WAS @ BOS L 42 17 5 13 38.5 0 2 0.0 7 8 87.5 0 8 8 14 3 3 6 3 0
+p711
+aVMarcin Gortat WAS 12/07/2014 WAS @ BOS L 26 7 3 12 25.0 0 0 - 1 1 100.0 3 5 8 3 0 1 2 1 -14
+p712
+aVBradley Beal WAS 12/07/2014 WAS @ BOS L 36 10 4 18 22.2 2 6 33.3 0 0 - 0 0 0 0 0 1 4 3 -13
+p713
+aVRasual Butler WAS 12/07/2014 WAS @ BOS L 30 22 8 17 47.1 6 10 60.0 0 0 - 1 3 4 0 1 0 1 0 8
+p714
+aVKris Humphries WAS 12/07/2014 WAS @ BOS L 32 8 4 10 40.0 0 1 0.0 0 0 - 5 9 14 1 1 1 2 4 -16
+p715
+aVNene WAS 12/07/2014 WAS @ BOS L 16 5 2 8 25.0 0 0 - 1 4 25.0 3 3 6 0 0 1 0 0 10
+p716
+aVPaul Pierce WAS 12/07/2014 WAS @ BOS L 30 16 6 10 60.0 3 6 50.0 1 2 50.0 1 2 3 1 0 1 2 4 -6
+p717
+aVOtto Porter WAS 12/07/2014 WAS @ BOS L 12 2 0 3 0.0 0 2 0.0 2 4 50.0 1 2 3 1 0 0 1 2 5
+p718
+aVGarrett Temple WAS 12/07/2014 WAS @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p719
+aVDeJuan Blair WAS 12/05/2014 WAS vs. DEN W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p720
+aVKevin Seraphin WAS 12/05/2014 WAS vs. DEN W 23 16 8 12 66.7 0 0 - 0 0 - 3 1 4 1 0 2 2 4 15
+p721
+aVAndre Miller WAS 12/05/2014 WAS vs. DEN W 16 4 2 2 100.0 0 0 - 0 0 - 0 3 3 7 0 0 1 2 20
+p722
+aVRasual Butler WAS 12/05/2014 WAS vs. DEN W 28 16 7 13 53.8 2 6 33.3 0 0 - 0 3 3 2 3 2 0 2 26
+p723
+aVKris Humphries WAS 12/05/2014 WAS vs. DEN W 26 20 7 11 63.6 0 0 - 6 8 75.0 3 1 4 0 1 1 1 2 15
+p724
+aVMarcin Gortat WAS 12/05/2014 WAS vs. DEN W 26 15 5 9 55.6 0 0 - 5 5 100.0 3 2 5 2 0 1 2 3 15
+p725
+aVJohn Wall WAS 12/05/2014 WAS vs. DEN W 28 9 3 7 42.9 1 3 33.3 2 2 100.0 0 8 8 12 1 2 4 3 11
+p726
+aVGarrett Temple WAS 12/05/2014 WAS vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -1
+p727
+aVNene WAS 12/05/2014 WAS vs. DEN W 18 8 2 4 50.0 0 0 - 4 6 66.7 3 5 8 0 2 1 0 0 16
+p728
+aVOtto Porter WAS 12/05/2014 WAS vs. DEN W 23 4 1 4 25.0 0 2 0.0 2 2 100.0 0 7 7 4 1 2 1 0 11
+p729
+aVPaul Pierce WAS 12/05/2014 WAS vs. DEN W 20 11 4 10 40.0 0 3 0.0 3 4 75.0 2 4 6 0 2 0 1 2 4
+p730
+aVBradley Beal WAS 12/05/2014 WAS vs. DEN W 25 14 5 10 50.0 4 6 66.7 0 0 - 0 2 2 4 1 0 2 1 19
+p731
+aVBradley Beal WAS 12/03/2014 WAS vs. LAL W 37 27 11 19 57.9 3 4 75.0 2 2 100.0 1 1 2 7 1 0 1 2 33
+p732
+aVKris Humphries WAS 12/03/2014 WAS vs. LAL W 30 6 3 7 42.9 0 0 - 0 0 - 4 16 20 1 2 1 1 3 25
+p733
+aVJohn Wall WAS 12/03/2014 WAS vs. LAL W 37 17 6 18 33.3 1 5 20.0 4 5 80.0 0 4 4 16 0 1 4 3 25
+p734
+aVPaul Pierce WAS 12/03/2014 WAS vs. LAL W 24 14 6 15 40.0 0 5 0.0 2 4 50.0 3 2 5 2 0 1 0 2 24
+p735
+aVRasual Butler WAS 12/03/2014 WAS vs. LAL W 24 14 5 7 71.4 2 3 66.7 2 2 100.0 0 4 4 1 2 0 0 1 -8
+p736
+aVMarcin Gortat WAS 12/03/2014 WAS vs. LAL W 34 21 9 13 69.2 0 0 - 3 3 100.0 3 8 11 2 1 0 0 2 26
+p737
+aVDrew Gooden WAS 12/03/2014 WAS vs. LAL W 17 0 0 2 0.0 0 2 0.0 0 0 - 0 5 5 0 0 0 1 1 -15
+p738
+aVOtto Porter WAS 12/03/2014 WAS vs. LAL W 12 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -11
+p739
+aVKevin Seraphin WAS 12/03/2014 WAS vs. LAL W 14 4 2 4 50.0 0 0 - 0 1 0.0 1 0 1 1 0 0 1 0 -10
+p740
+aVAndre Miller WAS 12/03/2014 WAS vs. LAL W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 0 0 3 0 -9
+p741
+aVGarrett Temple WAS 12/01/2014 WAS vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p742
+aVRasual Butler WAS 12/01/2014 WAS vs. MIA W 33 23 8 14 57.1 3 5 60.0 4 5 80.0 0 3 3 3 0 0 2 2 22
+p743
+aVKevin Seraphin WAS 12/01/2014 WAS vs. MIA W 20 6 2 4 50.0 0 0 - 2 4 50.0 1 7 8 1 0 0 1 4 10
+p744
+aVAndre Miller WAS 12/01/2014 WAS vs. MIA W 16 6 3 3 100.0 0 0 - 0 0 - 0 0 0 4 0 0 0 2 10
+p745
+aVKris Humphries WAS 12/01/2014 WAS vs. MIA W 24 8 3 7 42.9 0 0 - 2 2 100.0 1 4 5 1 1 0 1 1 6
+p746
+aVBradley Beal WAS 12/01/2014 WAS vs. MIA W 17 8 3 7 42.9 2 3 66.7 0 0 - 1 1 2 0 1 0 2 4 2
+p747
+aVOtto Porter WAS 12/01/2014 WAS vs. MIA W 24 7 2 4 50.0 1 3 33.3 2 2 100.0 2 3 5 2 1 0 1 0 14
+p748
+aVDrew Gooden WAS 12/01/2014 WAS vs. MIA W 21 10 4 6 66.7 2 3 66.7 0 0 - 1 0 1 3 2 0 0 4 12
+p749
+aVPaul Pierce WAS 12/01/2014 WAS vs. MIA W 20 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 2 7
+p750
+aVMarcin Gortat WAS 12/01/2014 WAS vs. MIA W 27 15 6 9 66.7 0 0 - 3 4 75.0 1 9 10 1 0 2 1 2 13
+p751
+aVJohn Wall WAS 12/01/2014 WAS vs. MIA W 32 18 6 10 60.0 2 4 50.0 4 5 80.0 0 5 5 13 2 1 2 1 11
+p752
+aVDeJuan Blair WAS 12/01/2014 WAS vs. MIA W 5 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p753
+aVJohn Wall WAS 11/29/2014 WAS vs. NOP W 34 11 5 14 35.7 0 1 0.0 1 2 50.0 0 3 3 7 3 0 3 3 6
+p754
+aVDrew Gooden WAS 11/29/2014 WAS vs. NOP W 17 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 1 1 0 2 3 2
+p755
+aVKevin Seraphin WAS 11/29/2014 WAS vs. NOP W 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -3
+p756
+aVAndre Miller WAS 11/29/2014 WAS vs. NOP W 14 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 5 0 0 0 2 -3
+p757
+aVPaul Pierce WAS 11/29/2014 WAS vs. NOP W 28 10 3 6 50.0 2 4 50.0 2 2 100.0 1 0 1 2 0 3 3 1 3
+p758
+aVOtto Porter WAS 11/29/2014 WAS vs. NOP W 16 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 2 0 1 -3
+p759
+aVMarcin Gortat WAS 11/29/2014 WAS vs. NOP W 41 24 12 20 60.0 0 0 - 0 0 - 2 11 13 2 2 4 1 2 6
+p760
+aVKris Humphries WAS 11/29/2014 WAS vs. NOP W 26 8 3 6 50.0 0 0 - 2 2 100.0 2 9 11 0 1 0 1 3 4
+p761
+aVBradley Beal WAS 11/29/2014 WAS vs. NOP W 35 12 5 11 45.5 2 4 50.0 0 2 0.0 1 0 1 3 2 0 2 2 4
+p762
+aVRasual Butler WAS 11/29/2014 WAS vs. NOP W 23 5 2 5 40.0 1 2 50.0 0 0 - 0 6 6 1 0 0 0 0 -1
+p763
+aVGarrett Temple WAS 11/26/2014 WAS @ CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p764
+aVPaul Pierce WAS 11/26/2014 WAS @ CLE L 24 15 4 5 80.0 0 1 0.0 7 10 70.0 1 2 3 3 0 0 3 4 -17
+p765
+aVRasual Butler WAS 11/26/2014 WAS @ CLE L 28 23 9 15 60.0 3 5 60.0 2 2 100.0 0 1 1 0 1 1 2 0 -2
+p766
+aVJohn Wall WAS 11/26/2014 WAS @ CLE L 33 6 2 6 33.3 2 3 66.7 0 0 - 0 4 4 7 0 0 5 2 -16
+p767
+aVKevin Seraphin WAS 11/26/2014 WAS @ CLE L 23 7 3 8 37.5 0 0 - 1 2 50.0 2 1 3 3 0 1 2 3 -11
+p768
+aVMarcin Gortat WAS 11/26/2014 WAS @ CLE L 25 12 5 10 50.0 0 0 - 2 2 100.0 1 1 2 1 1 1 3 3 -15
+p769
+aVAndre Miller WAS 11/26/2014 WAS @ CLE L 15 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 6 0 0 0 3 -10
+p770
+aVDeJuan Blair WAS 11/26/2014 WAS @ CLE L 14 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -11
+p771
+aVDrew Gooden WAS 11/26/2014 WAS @ CLE L 7 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 3 1
+p772
+aVBradley Beal WAS 11/26/2014 WAS @ CLE L 28 10 4 10 40.0 0 2 0.0 2 2 100.0 0 2 2 2 3 0 1 3 -19
+p773
+aVKris Humphries WAS 11/26/2014 WAS @ CLE L 23 3 1 7 14.3 0 0 - 1 2 50.0 0 3 3 1 0 1 1 3 -20
+p774
+aVOtto Porter WAS 11/26/2014 WAS @ CLE L 20 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 0 1 0 1 -13
+p775
+aVGarrett Temple WAS 11/25/2014 WAS vs. ATL L 14 5 2 3 66.7 1 2 50.0 0 1 0.0 2 0 2 3 1 0 1 1 -2
+p776
+aVDrew Gooden WAS 11/25/2014 WAS vs. ATL L 20 12 5 8 62.5 2 3 66.7 0 0 - 1 2 3 1 1 0 0 3 6
+p777
+aVRasual Butler WAS 11/25/2014 WAS vs. ATL L 8 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 0 0 1 0 3 3
+p778
+aVBradley Beal WAS 11/25/2014 WAS vs. ATL L 35 13 4 14 28.6 1 3 33.3 4 6 66.7 4 2 6 0 0 1 5 5 -2
+p779
+aVOtto Porter WAS 11/25/2014 WAS vs. ATL L 20 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -1
+p780
+aVAndre Miller WAS 11/25/2014 WAS vs. ATL L 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 4 0 0 1 2 -3
+p781
+aVKris Humphries WAS 11/25/2014 WAS vs. ATL L 22 7 2 7 28.6 0 0 - 3 6 50.0 3 7 10 0 0 0 0 1 -6
+p782
+aVMarcin Gortat WAS 11/25/2014 WAS vs. ATL L 30 12 4 10 40.0 0 0 - 4 6 66.7 3 8 11 1 0 0 1 3 -8
+p783
+aVJohn Wall WAS 11/25/2014 WAS vs. ATL L 38 21 6 15 40.0 2 5 40.0 7 7 100.0 1 6 7 13 0 0 7 3 -1
+p784
+aVKevin Seraphin WAS 11/25/2014 WAS vs. ATL L 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -3
+p785
+aVPaul Pierce WAS 11/25/2014 WAS vs. ATL L 28 14 6 14 42.9 1 4 25.0 1 1 100.0 0 3 3 3 0 1 3 3 -3
+p786
+aVGarrett Temple WAS 11/22/2014 WAS @ MIL W 18 1 0 3 0.0 0 2 0.0 1 2 50.0 1 1 2 1 2 0 0 1 6
+p787
+aVNene WAS 11/22/2014 WAS @ MIL W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -6
+p788
+aVBradley Beal WAS 11/22/2014 WAS @ MIL W 34 15 6 13 46.2 0 3 0.0 3 3 100.0 1 1 2 6 0 0 1 4 7
+p789
+aVPaul Pierce WAS 11/22/2014 WAS @ MIL W 28 25 8 16 50.0 4 5 80.0 5 7 71.4 2 8 10 2 0 0 0 6 14
+p790
+aVDrew Gooden WAS 11/22/2014 WAS @ MIL W 9 4 1 2 50.0 0 0 - 2 2 100.0 3 0 3 1 0 1 0 1 10
+p791
+aVAndre Miller WAS 11/22/2014 WAS @ MIL W 11 8 4 6 66.7 0 0 - 0 1 0.0 2 1 3 2 0 0 1 2 -1
+p792
+aVRasual Butler WAS 11/22/2014 WAS @ MIL W 28 8 3 6 50.0 2 5 40.0 0 0 - 0 2 2 2 0 0 1 3 5
+p793
+aVJohn Wall WAS 11/22/2014 WAS @ MIL W 37 21 7 17 41.2 2 3 66.7 5 6 83.3 0 4 4 9 5 1 4 2 12
+p794
+aVMarcin Gortat WAS 11/22/2014 WAS @ MIL W 35 10 5 12 41.7 0 0 - 0 0 - 6 7 13 2 0 3 1 1 11
+p795
+aVKris Humphries WAS 11/22/2014 WAS @ MIL W 20 12 6 9 66.7 0 0 - 0 0 - 3 6 9 1 0 1 2 1 -3
+p796
+aVKevin Seraphin WAS 11/22/2014 WAS @ MIL W 13 5 2 7 28.6 0 0 - 1 1 100.0 2 3 5 1 0 0 1 2 0
+p797
+aVJohn Wall WAS 11/21/2014 WAS vs. CLE W 37 28 12 20 60.0 1 4 25.0 3 5 60.0 0 6 6 7 4 0 4 3 12
+p798
+aVNene WAS 11/21/2014 WAS vs. CLE W 28 10 5 11 45.5 0 0 - 0 0 - 1 6 7 4 0 0 1 3 4
+p799
+aVPaul Pierce WAS 11/21/2014 WAS vs. CLE W 30 9 4 7 57.1 1 3 33.3 0 0 - 1 4 5 2 0 1 1 2 6
+p800
+aVKevin Seraphin WAS 11/21/2014 WAS vs. CLE W 23 12 5 11 45.5 0 0 - 2 4 50.0 2 4 6 1 1 3 2 3 9
+p801
+aVBradley Beal WAS 11/21/2014 WAS vs. CLE W 32 12 5 10 50.0 2 2 100.0 0 0 - 0 5 5 5 3 0 4 2 24
+p802
+aVGarrett Temple WAS 11/21/2014 WAS vs. CLE W 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 0 -11
+p803
+aVOtto Porter WAS 11/21/2014 WAS vs. CLE W 25 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 7
+p804
+aVAndre Miller WAS 11/21/2014 WAS vs. CLE W 11 6 3 3 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 1
+p805
+aVKris Humphries WAS 11/21/2014 WAS vs. CLE W 20 4 2 6 33.3 0 0 - 0 0 - 2 3 5 1 0 0 1 3 9
+p806
+aVRasual Butler WAS 11/21/2014 WAS vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p807
+aVMarcin Gortat WAS 11/21/2014 WAS vs. CLE W 25 4 2 6 33.3 0 0 - 0 0 - 2 4 6 1 1 1 3 2 4
+p808
+aVAndre Miller WAS 11/19/2014 WAS vs. DAL L 13 2 1 2 50.0 0 0 - 0 0 - 1 0 1 4 1 0 0 1 3
+p809
+aVKris Humphries WAS 11/19/2014 WAS vs. DAL L 21 9 1 5 20.0 0 1 0.0 7 8 87.5 2 4 6 1 0 0 0 2 -4
+p810
+aVRasual Butler WAS 11/19/2014 WAS vs. DAL L 6 6 2 3 66.7 2 2 100.0 0 0 - 0 2 2 0 1 0 0 2 2
+p811
+aVJohn Wall WAS 11/19/2014 WAS vs. DAL L 35 11 5 17 29.4 0 2 0.0 1 2 50.0 0 6 6 11 2 2 3 4 -6
+p812
+aVPaul Pierce WAS 11/19/2014 WAS vs. DAL L 26 17 6 10 60.0 3 5 60.0 2 2 100.0 0 5 5 1 0 0 1 3 -3
+p813
+aVOtto Porter WAS 11/19/2014 WAS vs. DAL L 25 6 2 5 40.0 2 4 50.0 0 0 - 2 3 5 1 1 1 0 1 -3
+p814
+aVKevin Seraphin WAS 11/19/2014 WAS vs. DAL L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -5
+p815
+aVMarcin Gortat WAS 11/19/2014 WAS vs. DAL L 30 17 7 12 58.3 0 0 - 3 4 75.0 1 5 6 1 0 0 1 1 -6
+p816
+aVNene WAS 11/19/2014 WAS vs. DAL L 34 9 3 9 33.3 0 0 - 3 3 100.0 1 4 5 2 0 0 3 3 7
+p817
+aVBradley Beal WAS 11/19/2014 WAS vs. DAL L 26 21 9 17 52.9 3 6 50.0 0 0 - 1 2 3 3 1 0 2 4 -2
+p818
+aVGarrett Temple WAS 11/19/2014 WAS vs. DAL L 13 2 0 3 0.0 0 2 0.0 2 2 100.0 1 0 1 0 2 0 2 3 2
+p819
+aVNene WAS 11/15/2014 WAS vs. ORL W 27 16 8 14 57.1 0 0 - 0 1 0.0 2 1 3 1 1 2 1 2 -2
+p820
+aVGarrett Temple WAS 11/15/2014 WAS vs. ORL W 23 1 0 3 0.0 0 1 0.0 1 2 50.0 0 3 3 4 1 1 0 3 5
+p821
+aVKris Humphries WAS 11/15/2014 WAS vs. ORL W 26 16 8 12 66.7 0 0 - 0 0 - 3 3 6 0 0 1 1 3 3
+p822
+aVMarcin Gortat WAS 11/15/2014 WAS vs. ORL W 26 8 4 9 44.4 0 0 - 0 0 - 1 6 7 0 2 2 0 2 5
+p823
+aVOtto Porter WAS 11/15/2014 WAS vs. ORL W 26 13 6 8 75.0 0 0 - 1 2 50.0 0 4 4 3 1 1 0 0 3
+p824
+aVAndre Miller WAS 11/15/2014 WAS vs. ORL W 15 4 2 3 66.7 0 0 - 0 0 - 0 0 0 5 0 0 3 1 3
+p825
+aVRasual Butler WAS 11/15/2014 WAS vs. ORL W 26 10 4 5 80.0 2 3 66.7 0 0 - 0 3 3 2 0 0 0 1 -1
+p826
+aVPaul Pierce WAS 11/15/2014 WAS vs. ORL W 22 10 2 7 28.6 0 4 0.0 6 6 100.0 1 5 6 4 0 0 1 2 3
+p827
+aVJohn Wall WAS 11/15/2014 WAS vs. ORL W 33 15 6 17 35.3 1 2 50.0 2 3 66.7 1 4 5 10 0 1 3 2 2
+p828
+aVKevin Seraphin WAS 11/15/2014 WAS vs. ORL W 16 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 2 0 0 2 0 4
+p829
+aVRasual Butler WAS 11/12/2014 WAS vs. DET W 27 18 7 8 87.5 2 2 100.0 2 2 100.0 0 1 1 1 1 0 1 2 10
+p830
+aVKevin Seraphin WAS 11/12/2014 WAS vs. DET W 17 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 5 -5
+p831
+aVMarcin Gortat WAS 11/12/2014 WAS vs. DET W 26 14 7 12 58.3 0 0 - 0 2 0.0 5 8 13 2 1 2 3 2 3
+p832
+aVKris Humphries WAS 11/12/2014 WAS vs. DET W 25 12 5 10 50.0 0 1 0.0 2 4 50.0 2 7 9 1 0 2 1 0 -6
+p833
+aVNene WAS 11/12/2014 WAS vs. DET W 27 8 4 9 44.4 0 0 - 0 1 0.0 1 3 4 1 1 0 2 2 13
+p834
+aVJohn Wall WAS 11/12/2014 WAS vs. DET W 37 27 7 19 36.8 0 1 0.0 13 16 81.3 0 3 3 11 3 1 1 3 6
+p835
+aVPaul Pierce WAS 11/12/2014 WAS vs. DET W 29 13 5 11 45.5 1 4 25.0 2 2 100.0 1 7 8 2 0 0 2 1 11
+p836
+aVGarrett Temple WAS 11/12/2014 WAS vs. DET W 22 6 1 5 20.0 0 2 0.0 4 4 100.0 2 1 3 1 2 0 0 4 -5
+p837
+aVOtto Porter WAS 11/12/2014 WAS vs. DET W 19 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 2 1 0 1 -7
+p838
+aVAndre Miller WAS 11/12/2014 WAS vs. DET W 11 1 0 0 - 0 0 - 1 2 50.0 0 0 0 7 0 0 0 2 0
+p839
+aVOtto Porter WAS 11/08/2014 WAS @ IND W 20 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -1
+p840
+aVRasual Butler WAS 11/08/2014 WAS @ IND W 18 9 4 7 57.1 1 3 33.3 0 0 - 0 3 3 2 0 0 1 1 -5
+p841
+aVMarcin Gortat WAS 11/08/2014 WAS @ IND W 26 12 6 8 75.0 0 0 - 0 0 - 3 4 7 0 2 0 0 4 5
+p842
+aVGarrett Temple WAS 11/08/2014 WAS @ IND W 31 3 1 4 25.0 1 3 33.3 0 0 - 1 5 6 2 0 1 1 4 12
+p843
+aVKris Humphries WAS 11/08/2014 WAS @ IND W 19 7 3 5 60.0 0 0 - 1 2 50.0 3 6 9 3 1 1 0 1 -3
+p844
+aVNene WAS 11/08/2014 WAS @ IND W 31 17 8 16 50.0 0 0 - 1 1 100.0 3 4 7 5 1 1 5 5 6
+p845
+aVKevin Seraphin WAS 11/08/2014 WAS @ IND W 20 13 6 8 75.0 0 0 - 1 2 50.0 1 5 6 0 0 1 1 5 4
+p846
+aVAndre Miller WAS 11/08/2014 WAS @ IND W 13 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 4 0 0 0 2 -1
+p847
+aVJohn Wall WAS 11/08/2014 WAS @ IND W 35 18 7 13 53.8 0 0 - 4 6 66.7 0 3 3 4 4 0 4 2 8
+p848
+aVPaul Pierce WAS 11/08/2014 WAS @ IND W 28 12 2 13 15.4 0 5 0.0 8 10 80.0 1 4 5 3 0 0 0 1 10
+p849
+aVOtto Porter WAS 11/07/2014 WAS @ TOR L 25 13 6 9 66.7 1 1 100.0 0 0 - 2 3 5 0 0 1 2 2 -1
+p850
+aVJohn Wall WAS 11/07/2014 WAS @ TOR L 30 8 3 13 23.1 0 3 0.0 2 2 100.0 1 2 3 7 0 0 2 3 -19
+p851
+aVGarrett Temple WAS 11/07/2014 WAS @ TOR L 29 3 0 6 0.0 0 5 0.0 3 4 75.0 0 2 2 3 2 1 0 3 -21
+p852
+aVAndre Miller WAS 11/07/2014 WAS @ TOR L 18 10 4 4 100.0 0 0 - 2 4 50.0 1 2 3 2 2 0 0 5 0
+p853
+aVGlen Rice WAS 11/07/2014 WAS @ TOR L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p854
+aVKevin Seraphin WAS 11/07/2014 WAS @ TOR L 18 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 0 0 0 3 -5
+p855
+aVNene WAS 11/07/2014 WAS @ TOR L 18 7 2 11 18.2 0 0 - 3 8 37.5 1 1 2 1 2 0 4 3 -13
+p856
+aVDeJuan Blair WAS 11/07/2014 WAS @ TOR L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 0
+p857
+aVKris Humphries WAS 11/07/2014 WAS @ TOR L 15 11 3 7 42.9 0 1 0.0 5 7 71.4 1 4 5 1 0 1 1 2 1
+p858
+aVPaul Pierce WAS 11/07/2014 WAS @ TOR L 23 8 3 11 27.3 1 4 25.0 1 1 100.0 2 6 8 1 0 0 1 0 -18
+p859
+aVRasual Butler WAS 11/07/2014 WAS @ TOR L 15 5 1 5 20.0 1 4 25.0 2 2 100.0 0 1 1 1 0 0 0 2 0
+p860
+aVMarcin Gortat WAS 11/07/2014 WAS @ TOR L 28 8 3 7 42.9 0 0 - 2 2 100.0 5 5 10 0 1 2 1 2 -17
+p861
+aVDrew Gooden WAS 11/07/2014 WAS @ TOR L 11 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 0 0 0 1 0 -4
+p862
+aVJohn Wall WAS 11/05/2014 WAS vs. IND W 43 31 11 21 52.4 1 3 33.3 8 9 88.9 1 5 6 10 3 1 5 2 7
+p863
+aVGarrett Temple WAS 11/05/2014 WAS vs. IND W 43 16 6 14 42.9 4 7 57.1 0 0 - 1 6 7 4 2 0 1 3 1
+p864
+aVAndre Miller WAS 11/05/2014 WAS vs. IND W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -5
+p865
+aVMarcin Gortat WAS 11/05/2014 WAS vs. IND W 39 14 4 10 40.0 0 0 - 6 7 85.7 1 9 10 1 1 2 0 2 1
+p866
+aVGlen Rice WAS 11/05/2014 WAS vs. IND W 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p867
+aVKevin Seraphin WAS 11/05/2014 WAS vs. IND W 14 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 1 3 3 2
+p868
+aVKris Humphries WAS 11/05/2014 WAS vs. IND W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p869
+aVNene WAS 11/05/2014 WAS vs. IND W 35 8 3 7 42.9 0 0 - 2 2 100.0 1 6 7 3 0 1 2 4 19
+p870
+aVOtto Porter WAS 11/05/2014 WAS vs. IND W 22 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 2 -11
+p871
+aVDrew Gooden WAS 11/05/2014 WAS vs. IND W 16 3 1 7 14.3 1 2 50.0 0 0 - 1 1 2 0 0 1 0 2 -15
+p872
+aVPaul Pierce WAS 11/05/2014 WAS vs. IND W 37 11 3 15 20.0 0 4 0.0 5 5 100.0 0 4 4 2 1 1 1 2 16
+p873
+aVGarrett Temple WAS 11/04/2014 WAS @ NYK W 30 17 5 10 50.0 4 7 57.1 3 4 75.0 1 4 5 2 1 1 2 3 20
+p874
+aVJohn Wall WAS 11/04/2014 WAS @ NYK W 30 11 5 11 45.5 0 0 - 1 4 25.0 0 1 1 7 2 0 3 1 10
+p875
+aVDrew Gooden WAS 11/04/2014 WAS @ NYK W 22 10 4 6 66.7 1 2 50.0 1 2 50.0 1 3 4 2 0 0 0 2 7
+p876
+aVKevin Seraphin WAS 11/04/2014 WAS @ NYK W 22 15 6 7 85.7 0 0 - 3 3 100.0 1 1 2 0 0 0 2 1 7
+p877
+aVGlen Rice WAS 11/04/2014 WAS @ NYK W 15 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 5 -1
+p878
+aVOtto Porter WAS 11/04/2014 WAS @ NYK W 28 4 2 5 40.0 0 1 0.0 0 0 - 3 4 7 4 0 0 0 1 4
+p879
+aVNene WAS 11/04/2014 WAS @ NYK W 24 6 3 10 30.0 0 0 - 0 1 0.0 2 5 7 2 2 1 2 3 8
+p880
+aVPaul Pierce WAS 11/04/2014 WAS @ NYK W 28 17 5 10 50.0 3 5 60.0 4 5 80.0 0 5 5 3 2 2 0 3 14
+p881
+aVAndre Miller WAS 11/04/2014 WAS @ NYK W 17 12 6 10 60.0 0 0 - 0 0 - 0 2 2 3 1 0 1 1 1
+p882
+aVMarcin Gortat WAS 11/04/2014 WAS @ NYK W 22 6 3 6 50.0 0 0 - 0 0 - 2 5 7 2 0 0 2 4 3
+p883
+aVDeJuan Blair WAS 11/04/2014 WAS @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p884
+aVKris Humphries WAS 11/01/2014 WAS vs. MIL W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 1 0 1 1 -4
+p885
+aVOtto Porter WAS 11/01/2014 WAS vs. MIL W 37 21 7 11 63.6 1 2 50.0 6 7 85.7 0 5 5 1 2 0 1 2 2
+p886
+aVPaul Pierce WAS 11/01/2014 WAS vs. MIL W 17 2 0 3 0.0 0 1 0.0 2 2 100.0 1 2 3 4 1 0 1 2 9
+p887
+aVGlen Rice WAS 11/01/2014 WAS vs. MIL W 5 4 1 3 33.3 0 1 0.0 2 3 66.7 0 0 0 0 0 0 0 1 -7
+p888
+aVMarcin Gortat WAS 11/01/2014 WAS vs. MIL W 38 20 9 14 64.3 0 0 - 2 4 50.0 1 8 9 2 1 3 4 4 26
+p889
+aVNene WAS 11/01/2014 WAS vs. MIL W 33 22 10 12 83.3 0 1 0.0 2 3 66.7 2 4 6 4 3 0 1 3 15
+p890
+aVGarrett Temple WAS 11/01/2014 WAS vs. MIL W 38 18 6 9 66.7 2 4 50.0 4 5 80.0 0 1 1 1 3 0 2 2 15
+p891
+aVDeJuan Blair WAS 11/01/2014 WAS vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -5
+p892
+aVDrew Gooden WAS 11/01/2014 WAS vs. MIL W 14 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 1 1 2 2 -7
+p893
+aVAndre Miller WAS 11/01/2014 WAS vs. MIL W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 3 0 -14
+p894
+aVJohn Wall WAS 11/01/2014 WAS vs. MIL W 38 19 6 14 42.9 1 4 25.0 6 9 66.7 0 6 6 10 5 1 4 3 25
+p895
+aVMarcin Gortat WAS 10/30/2014 WAS @ ORL W 37 20 10 13 76.9 0 0 - 0 2 0.0 2 10 12 1 0 0 2 1 15
+p896
+aVDrew Gooden WAS 10/30/2014 WAS @ ORL W 20 4 2 7 28.6 0 1 0.0 0 0 - 1 4 5 0 0 0 2 1 2
+p897
+aVGlen Rice WAS 10/30/2014 WAS @ ORL W 14 5 1 2 50.0 1 2 50.0 2 3 66.7 1 0 1 0 0 0 2 4 -13
+p898
+aVJohn Wall WAS 10/30/2014 WAS @ ORL W 37 30 10 21 47.6 2 5 40.0 8 9 88.9 0 5 5 12 2 0 2 2 16
+p899
+aVKevin Seraphin WAS 10/30/2014 WAS @ ORL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p900
+aVKris Humphries WAS 10/30/2014 WAS @ ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p901
+aVOtto Porter WAS 10/30/2014 WAS @ ORL W 18 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 3 0 1 5 5
+p902
+aVAndre Miller WAS 10/30/2014 WAS @ ORL W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 0 -7
+p903
+aVGarrett Temple WAS 10/30/2014 WAS @ ORL W 34 12 4 8 50.0 2 3 66.7 2 2 100.0 0 1 1 1 0 0 0 3 20
+p904
+aVPaul Pierce WAS 10/30/2014 WAS @ ORL W 30 16 6 13 46.2 2 2 100.0 2 2 100.0 1 3 4 1 2 0 1 4 2
+p905
+aVNene WAS 10/30/2014 WAS @ ORL W 34 12 5 10 50.0 0 0 - 2 4 50.0 0 4 4 5 3 0 0 3 2
+p906
+aVJohn Wall WAS 10/29/2014 WAS @ MIA L 37 16 6 13 46.2 0 2 0.0 4 4 100.0 0 3 3 11 2 0 6 3 2
+p907
+aVGarrett Temple WAS 10/29/2014 WAS @ MIA L 31 6 2 8 25.0 2 6 33.3 0 0 - 2 5 7 1 2 1 3 1 -2
+p908
+aVKris Humphries WAS 10/29/2014 WAS @ MIA L 13 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -9
+p909
+aVDrew Gooden WAS 10/29/2014 WAS @ MIA L 34 18 8 11 72.7 1 2 50.0 1 4 25.0 2 3 5 1 0 0 2 3 -2
+p910
+aVAndre Miller WAS 10/29/2014 WAS @ MIA L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -11
+p911
+aVKevin Seraphin WAS 10/29/2014 WAS @ MIA L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -15
+p912
+aVOtto Porter WAS 10/29/2014 WAS @ MIA L 24 13 4 7 57.1 1 3 33.3 4 6 66.7 1 3 4 0 1 0 0 1 -11
+p913
+aVPaul Pierce WAS 10/29/2014 WAS @ MIA L 33 17 6 10 60.0 1 3 33.3 4 5 80.0 0 6 6 5 2 0 1 3 -2
+p914
+aVMarcin Gortat WAS 10/29/2014 WAS @ MIA L 40 18 7 14 50.0 0 0 - 4 5 80.0 1 6 7 0 0 1 0 3 3
+p915
+aVRasual Butler WAS 10/29/2014 WAS @ MIA L 10 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 0 0 0 0 0 -13
+p916
+a.

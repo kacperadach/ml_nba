@@ -1,0 +1,1682 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrevin Knight CLE 04/18/1998 CLE vs. IND W 33 4 2 3 66.7 0 0 - 0 0 - 1 2 3 9 2 0 2 3 12
+p2
+aVWesley Person CLE 04/18/1998 CLE vs. IND W 29 7 3 7 42.9 1 2 50.0 0 0 - 0 3 3 5 0 1 0 2 3
+p3
+aVDanny Ferry CLE 04/18/1998 CLE vs. IND W 12 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 0 1 1 1 -4
+p4
+aVVitaly Potapenko CLE 04/18/1998 CLE vs. IND W 19 8 4 6 66.7 0 0 - 0 0 - 0 3 3 0 1 1 3 0 -2
+p5
+aVCedric Henderson CLE 04/18/1998 CLE vs. IND W 37 12 4 9 44.4 0 0 - 4 4 100.0 2 4 6 2 0 2 4 4 -3
+p6
+aVShawn Kemp CLE 04/18/1998 CLE vs. IND W 35 18 6 18 33.3 0 0 - 6 8 75.0 6 9 15 5 2 1 2 2 2
+p7
+aVBob Sura CLE 04/18/1998 CLE vs. IND W 19 11 4 5 80.0 1 2 50.0 2 4 50.0 1 3 4 2 0 0 2 5 -3
+p8
+aVScott Brooks CLE 04/18/1998 CLE vs. IND W 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -6
+p9
+aVDerek Anderson CLE 04/18/1998 CLE vs. IND W 18 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 3 2 0 1 0 9
+p10
+aVZydrunas Ilgauskas CLE 04/18/1998 CLE vs. IND W 31 26 11 19 57.9 0 0 - 4 6 66.7 3 2 5 0 1 3 1 4 12
+p11
+aVZydrunas Ilgauskas CLE 04/17/1998 CLE @ BOS L 34 26 11 15 73.3 0 0 - 4 4 100.0 3 3 6 0 0 0 1 2 4
+p12
+aVDerek Anderson CLE 04/17/1998 CLE @ BOS L 19 4 1 6 16.7 0 1 0.0 2 2 100.0 2 3 5 0 1 0 1 2 -10
+p13
+aVDanny Ferry CLE 04/17/1998 CLE @ BOS L 19 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 1 0 0 0 1 -14
+p14
+aVBob Sura CLE 04/17/1998 CLE @ BOS L 18 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 2 0 0 2 1 -11
+p15
+aVWesley Person CLE 04/17/1998 CLE @ BOS L 42 2 1 7 14.3 0 3 0.0 0 2 0.0 0 5 5 4 0 0 2 2 -5
+p16
+aVShawn Kemp CLE 04/17/1998 CLE @ BOS L 30 13 3 9 33.3 0 0 - 7 10 70.0 1 7 8 2 1 2 5 5 6
+p17
+aVCarl Thomas CLE 04/17/1998 CLE @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p18
+aVCedric Henderson CLE 04/17/1998 CLE @ BOS L 28 6 3 6 50.0 0 0 - 0 0 - 0 2 2 2 0 0 2 1 1
+p19
+aVVitaly Potapenko CLE 04/17/1998 CLE @ BOS L 13 8 4 7 57.1 0 0 - 0 0 - 2 3 5 1 0 1 0 4 -10
+p20
+aVBrevin Knight CLE 04/17/1998 CLE @ BOS L 32 8 3 10 30.0 0 0 - 2 2 100.0 1 5 6 7 1 0 2 2 5
+p21
+aVScott Brooks CLE 04/15/1998 CLE @ WAS L 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -11
+p22
+aVDerek Anderson CLE 04/15/1998 CLE @ WAS L 24 12 3 11 27.3 0 1 0.0 6 6 100.0 0 1 1 3 2 0 5 2 -15
+p23
+aVShawn Kemp CLE 04/15/1998 CLE @ WAS L 37 18 8 21 38.1 0 0 - 2 4 50.0 4 7 11 3 2 1 5 5 4
+p24
+aVCedric Henderson CLE 04/15/1998 CLE @ WAS L 24 8 4 8 50.0 0 0 - 0 0 - 0 5 5 1 0 1 0 4 7
+p25
+aVCarl Thomas CLE 04/15/1998 CLE @ WAS L 13 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 1 1 -19
+p26
+aVVitaly Potapenko CLE 04/15/1998 CLE @ WAS L 10 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 -2
+p27
+aVBrevin Knight CLE 04/15/1998 CLE @ WAS L 35 12 4 9 44.4 0 0 - 4 4 100.0 1 4 5 12 4 0 1 6 11
+p28
+aVZydrunas Ilgauskas CLE 04/15/1998 CLE @ WAS L 33 25 9 13 69.2 0 0 - 7 8 87.5 3 6 9 0 0 1 1 4 10
+p29
+aVWesley Person CLE 04/15/1998 CLE @ WAS L 45 8 3 8 37.5 2 5 40.0 0 0 - 0 4 4 1 5 4 4 3 -8
+p30
+aVDanny Ferry CLE 04/15/1998 CLE @ WAS L 10 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 0 0 0 0 1 -17
+p31
+aVDerek Anderson CLE 04/14/1998 CLE vs. BOS W 33 15 4 5 80.0 0 0 - 7 8 87.5 0 1 1 5 1 0 3 1 13
+p32
+aVDanny Ferry CLE 04/14/1998 CLE vs. BOS W 20 11 4 6 66.7 2 3 66.7 1 1 100.0 0 2 2 1 0 0 1 3 13
+p33
+aVBrevin Knight CLE 04/14/1998 CLE vs. BOS W 36 5 1 4 25.0 0 0 - 3 4 75.0 1 6 7 7 2 0 3 3 7
+p34
+aVCedric Henderson CLE 04/14/1998 CLE vs. BOS W 36 11 4 7 57.1 0 0 - 3 4 75.0 0 4 4 4 2 2 1 0 2
+p35
+aVBob Sura CLE 04/14/1998 CLE vs. BOS W 11 4 1 2 50.0 0 1 0.0 2 4 50.0 1 2 3 0 2 0 1 3 2
+p36
+aVCarl Thomas CLE 04/14/1998 CLE vs. BOS W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p37
+aVVitaly Potapenko CLE 04/14/1998 CLE vs. BOS W 12 7 2 4 50.0 0 0 - 3 4 75.0 1 1 2 0 0 0 3 2 0
+p38
+aVWesley Person CLE 04/14/1998 CLE vs. BOS W 35 8 3 8 37.5 2 4 50.0 0 0 - 0 8 8 1 3 0 3 1 7
+p39
+aVZydrunas Ilgauskas CLE 04/14/1998 CLE vs. BOS W 17 12 4 8 50.0 0 0 - 4 4 100.0 0 1 1 1 2 1 2 2 -7
+p40
+aVShawn Kemp CLE 04/14/1998 CLE vs. BOS W 37 22 7 12 58.3 0 0 - 8 11 72.7 6 4 10 3 1 1 6 5 9
+p41
+aVZydrunas Ilgauskas CLE 04/11/1998 CLE vs. PHI W 44 16 6 12 50.0 0 0 - 4 6 66.7 9 6 15 0 2 3 3 6 8
+p42
+aVBrevin Knight CLE 04/11/1998 CLE vs. PHI W 34 20 4 10 40.0 0 0 - 12 15 80.0 0 5 5 14 3 0 0 5 13
+p43
+aVVitaly Potapenko CLE 04/11/1998 CLE vs. PHI W 21 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 0 0 0 4 4
+p44
+aVBob Sura CLE 04/11/1998 CLE vs. PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p45
+aVShawn Kemp CLE 04/11/1998 CLE vs. PHI W 24 12 4 8 50.0 0 0 - 4 6 66.7 0 3 3 1 2 1 2 4 5
+p46
+aVDerek Anderson CLE 04/11/1998 CLE vs. PHI W 22 20 6 11 54.5 0 2 0.0 8 8 100.0 1 2 3 3 0 0 3 1 6
+p47
+aVCarl Thomas CLE 04/11/1998 CLE vs. PHI W 9 1 0 3 0.0 0 2 0.0 1 2 50.0 0 2 2 0 0 1 0 2 7
+p48
+aVCedric Henderson CLE 04/11/1998 CLE vs. PHI W 29 3 1 5 20.0 0 0 - 1 1 100.0 1 2 3 3 2 1 4 2 11
+p49
+aVWesley Person CLE 04/11/1998 CLE vs. PHI W 44 25 9 14 64.3 7 10 70.0 0 0 - 0 5 5 2 2 1 2 2 11
+p50
+aVDanny Ferry CLE 04/11/1998 CLE vs. PHI W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 0
+p51
+aVBob Sura CLE 04/09/1998 CLE vs. CHI W 19 9 3 5 60.0 2 2 100.0 1 2 50.0 1 1 2 5 0 0 6 3 5
+p52
+aVVitaly Potapenko CLE 04/09/1998 CLE vs. CHI W 23 8 4 7 57.1 0 0 - 0 0 - 2 0 2 4 2 0 2 3 9
+p53
+aVDanny Ferry CLE 04/09/1998 CLE vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p54
+aVCedric Henderson CLE 04/09/1998 CLE vs. CHI W 36 9 4 11 36.4 0 0 - 1 3 33.3 0 5 5 5 2 1 0 2 -3
+p55
+aVWesley Person CLE 04/09/1998 CLE vs. CHI W 43 12 5 10 50.0 2 7 28.6 0 0 - 0 4 4 1 0 1 1 3 11
+p56
+aVZydrunas Ilgauskas CLE 04/09/1998 CLE vs. CHI W 24 6 3 6 50.0 0 0 - 0 0 - 2 5 7 0 0 0 1 4 1
+p57
+aVBrevin Knight CLE 04/09/1998 CLE vs. CHI W 37 22 8 13 61.5 0 0 - 6 6 100.0 0 4 4 4 5 0 2 1 2
+p58
+aVShawn Kemp CLE 04/09/1998 CLE vs. CHI W 40 19 6 12 50.0 0 0 - 7 9 77.8 3 7 10 5 2 1 3 2 5
+p59
+aVCarl Thomas CLE 04/09/1998 CLE vs. CHI W 18 6 2 5 40.0 0 3 0.0 2 2 100.0 0 3 3 2 2 1 0 1 1
+p60
+aVShawn Kemp CLE 04/07/1998 CLE @ IND L 35 16 4 16 25.0 0 0 - 8 12 66.7 3 8 11 1 3 1 3 2 -8
+p61
+aVCedric Henderson CLE 04/07/1998 CLE @ IND L 30 12 5 9 55.6 0 0 - 2 2 100.0 0 1 1 1 0 0 2 1 -8
+p62
+aVVitaly Potapenko CLE 04/07/1998 CLE @ IND L 25 10 5 8 62.5 0 0 - 0 1 0.0 0 4 4 1 2 0 3 2 3
+p63
+aVBrevin Knight CLE 04/07/1998 CLE @ IND L 29 0 0 3 0.0 0 0 - 0 0 - 0 0 0 9 2 0 4 2 -10
+p64
+aVDanny Ferry CLE 04/07/1998 CLE @ IND L 13 2 0 3 0.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 2 1 6
+p65
+aVDerek Anderson CLE 04/07/1998 CLE @ IND L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 3 0 0 0 2 10
+p66
+aVCarl Thomas CLE 04/07/1998 CLE @ IND L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 6
+p67
+aVBob Sura CLE 04/07/1998 CLE @ IND L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 2 0 1 1 -1
+p68
+aVWesley Person CLE 04/07/1998 CLE @ IND L 45 18 5 9 55.6 4 6 66.7 4 4 100.0 1 5 6 2 0 0 0 2 -3
+p69
+aVZydrunas Ilgauskas CLE 04/07/1998 CLE @ IND L 23 17 6 9 66.7 0 0 - 5 7 71.4 2 5 7 0 1 1 0 2 -5
+p70
+aVZydrunas Ilgauskas CLE 04/05/1998 CLE vs. LAC W 36 11 2 7 28.6 0 0 - 7 8 87.5 3 7 10 0 0 2 2 3 16
+p71
+aVShawn Kemp CLE 04/05/1998 CLE vs. LAC W 28 25 7 12 58.3 0 0 - 11 17 64.7 0 3 3 3 2 1 3 6 2
+p72
+aVDerek Anderson CLE 04/05/1998 CLE vs. LAC W 22 9 3 8 37.5 0 0 - 3 5 60.0 2 1 3 4 0 0 1 1 -4
+p73
+aVDanny Ferry CLE 04/05/1998 CLE vs. LAC W 18 6 3 6 50.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 2 -5
+p74
+aVWesley Person CLE 04/05/1998 CLE vs. LAC W 41 16 7 14 50.0 2 6 33.3 0 0 - 1 7 8 1 0 0 1 1 0
+p75
+aVCedric Henderson CLE 04/05/1998 CLE vs. LAC W 37 11 3 6 50.0 0 0 - 5 6 83.3 0 3 3 2 2 1 1 2 3
+p76
+aVBob Sura CLE 04/05/1998 CLE vs. LAC W 16 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 3 1 0 2 1 -6
+p77
+aVVitaly Potapenko CLE 04/05/1998 CLE vs. LAC W 14 6 3 4 75.0 0 0 - 0 0 - 3 1 4 0 0 0 3 2 -4
+p78
+aVBrevin Knight CLE 04/05/1998 CLE vs. LAC W 29 7 2 7 28.6 0 0 - 3 4 75.0 0 2 2 8 0 0 1 4 3
+p79
+aVBrevin Knight CLE 04/03/1998 CLE vs. LAL L 27 9 3 10 30.0 0 0 - 3 4 75.0 1 1 2 3 1 0 2 6 -23
+p80
+aVDanny Ferry CLE 04/03/1998 CLE vs. LAL L 31 6 2 7 28.6 0 4 0.0 2 2 100.0 0 2 2 2 1 0 2 2 -3
+p81
+aVWesley Person CLE 04/03/1998 CLE vs. LAL L 42 10 3 7 42.9 2 4 50.0 2 2 100.0 0 4 4 1 1 1 0 1 -4
+p82
+aVCedric Henderson CLE 04/03/1998 CLE vs. LAL L 24 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 1 0 1 4 3 -23
+p83
+aVBob Sura CLE 04/03/1998 CLE vs. LAL L 40 11 3 11 27.3 2 4 50.0 3 4 75.0 0 2 2 13 3 0 2 2 -15
+p84
+aVScott Brooks CLE 04/03/1998 CLE vs. LAL L 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 6
+p85
+aVZydrunas Ilgauskas CLE 04/03/1998 CLE vs. LAL L 33 16 8 19 42.1 0 0 - 0 0 - 5 7 12 1 0 2 3 5 -4
+p86
+aVDerek Anderson CLE 04/03/1998 CLE vs. LAL L 29 30 11 15 73.3 2 2 100.0 6 6 100.0 1 2 3 4 0 0 1 2 6
+p87
+aVCarl Thomas CLE 04/03/1998 CLE vs. LAL L 10 2 1 1 100.0 0 0 - 0 1 0.0 1 1 2 1 0 0 0 0 0
+p88
+aVCarl Thomas CLE 04/01/1998 CLE @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p89
+aVDanny Ferry CLE 04/01/1998 CLE @ DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p90
+aVVitaly Potapenko CLE 04/01/1998 CLE @ DET W 13 7 2 4 50.0 0 0 - 3 6 50.0 2 2 4 0 0 0 1 1 -10
+p91
+aVBrevin Knight CLE 04/01/1998 CLE @ DET W 41 14 5 9 55.6 0 1 0.0 4 5 80.0 1 4 5 15 5 0 0 1 11
+p92
+aVWesley Person CLE 04/01/1998 CLE @ DET W 41 14 5 8 62.5 3 6 50.0 1 2 50.0 0 3 3 2 6 1 1 0 -2
+p93
+aVCedric Henderson CLE 04/01/1998 CLE @ DET W 35 6 2 10 20.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 4 4
+p94
+aVDerek Anderson CLE 04/01/1998 CLE @ DET W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -5
+p95
+aVBob Sura CLE 04/01/1998 CLE @ DET W 24 7 2 5 40.0 0 2 0.0 3 6 50.0 0 2 2 1 1 0 2 4 -6
+p96
+aVShawn Kemp CLE 04/01/1998 CLE @ DET W 43 26 8 19 42.1 0 1 0.0 10 14 71.4 6 8 14 2 1 1 4 1 13
+p97
+aVZydrunas Ilgauskas CLE 04/01/1998 CLE @ DET W 34 16 7 13 53.8 0 0 - 2 2 100.0 1 2 3 0 2 0 1 4 11
+p98
+aVWesley Person CLE 03/31/1998 CLE vs. ORL W 39 16 5 12 41.7 2 7 28.6 4 5 80.0 1 8 9 4 1 2 0 1 2
+p99
+aVDanny Ferry CLE 03/31/1998 CLE vs. ORL W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 3 1
+p100
+aVVitaly Potapenko CLE 03/31/1998 CLE vs. ORL W 15 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 5 7
+p101
+aVDerek Anderson CLE 03/31/1998 CLE vs. ORL W 13 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 3 3 0 1 0 0
+p102
+aVBrevin Knight CLE 03/31/1998 CLE vs. ORL W 35 8 3 6 50.0 0 0 - 2 3 66.7 1 3 4 10 3 0 3 3 7
+p103
+aVZydrunas Ilgauskas CLE 03/31/1998 CLE vs. ORL W 31 11 2 7 28.6 0 1 0.0 7 8 87.5 3 2 5 2 0 3 3 5 0
+p104
+aVShawnelle Scott CLE 03/31/1998 CLE vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p105
+aVCedric Henderson CLE 03/31/1998 CLE vs. ORL W 30 13 5 9 55.6 0 0 - 3 4 75.0 0 5 5 3 1 1 3 2 2
+p106
+aVBob Sura CLE 03/31/1998 CLE vs. ORL W 26 21 5 7 71.4 2 2 100.0 9 9 100.0 0 1 1 1 1 1 2 3 11
+p107
+aVShawn Kemp CLE 03/31/1998 CLE vs. ORL W 40 13 6 17 35.3 0 0 - 1 4 25.0 4 12 16 5 1 0 1 3 5
+p108
+aVDerek Anderson CLE 03/29/1998 CLE vs. CHH W 28 16 5 11 45.5 0 1 0.0 6 6 100.0 2 1 3 6 1 0 1 1 7
+p109
+aVCedric Henderson CLE 03/29/1998 CLE vs. CHH W 40 6 3 6 50.0 0 0 - 0 0 - 0 4 4 2 0 2 1 1 15
+p110
+aVShawn Kemp CLE 03/29/1998 CLE vs. CHH W 38 25 10 21 47.6 0 0 - 5 6 83.3 3 8 11 1 3 2 1 4 12
+p111
+aVVitaly Potapenko CLE 03/29/1998 CLE vs. CHH W 16 11 5 7 71.4 0 0 - 1 1 100.0 1 5 6 0 0 0 2 3 1
+p112
+aVWesley Person CLE 03/29/1998 CLE vs. CHH W 36 9 3 8 37.5 1 3 33.3 2 2 100.0 0 2 2 4 0 0 0 1 17
+p113
+aVBrevin Knight CLE 03/29/1998 CLE vs. CHH W 24 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 11 2 0 1 5 7
+p114
+aVZydrunas Ilgauskas CLE 03/29/1998 CLE vs. CHH W 35 18 8 13 61.5 0 0 - 2 2 100.0 1 6 7 2 0 2 1 2 16
+p115
+aVBob Sura CLE 03/29/1998 CLE vs. CHH W 13 3 1 4 25.0 1 2 50.0 0 2 0.0 0 0 0 2 0 0 0 3 5
+p116
+aVDanny Ferry CLE 03/29/1998 CLE vs. CHH W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 4
+p117
+aVScott Brooks CLE 03/29/1998 CLE vs. CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p118
+aVShawnelle Scott CLE 03/29/1998 CLE vs. CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p119
+aVCarl Thomas CLE 03/29/1998 CLE vs. CHH W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p120
+aVWesley Person CLE 03/27/1998 CLE vs. DET W 45 16 6 13 46.2 4 11 36.4 0 0 - 2 5 7 0 1 0 0 1 8
+p121
+aVBob Sura CLE 03/27/1998 CLE vs. DET W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 4 2 0 2 1 -8
+p122
+aVCedric Henderson CLE 03/27/1998 CLE vs. DET W 27 12 6 15 40.0 0 0 - 0 0 - 1 4 5 0 4 2 4 2 -2
+p123
+aVVitaly Potapenko CLE 03/27/1998 CLE vs. DET W 26 11 5 7 71.4 0 1 0.0 1 1 100.0 2 1 3 0 2 0 1 4 2
+p124
+aVCarl Thomas CLE 03/27/1998 CLE vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p125
+aVShawn Kemp CLE 03/27/1998 CLE vs. DET W 44 23 7 17 41.2 0 0 - 9 10 90.0 4 8 12 5 1 2 5 6 8
+p126
+aVBrevin Knight CLE 03/27/1998 CLE vs. DET W 40 10 5 11 45.5 0 1 0.0 0 0 - 2 3 5 14 0 1 1 3 8
+p127
+aVDanny Ferry CLE 03/27/1998 CLE vs. DET W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p128
+aVZydrunas Ilgauskas CLE 03/27/1998 CLE vs. DET W 27 8 4 7 57.1 0 0 - 0 0 - 1 6 7 0 0 0 0 5 5
+p129
+aVDerek Anderson CLE 03/27/1998 CLE vs. DET W 32 5 2 8 25.0 0 0 - 1 1 100.0 1 2 3 5 2 0 1 3 -6
+p130
+aVCarl Thomas CLE 03/26/1998 CLE @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p131
+aVShawn Kemp CLE 03/26/1998 CLE @ TOR W 32 19 5 15 33.3 0 1 0.0 9 16 56.3 3 2 5 4 0 1 3 3 7
+p132
+aVDanny Ferry CLE 03/26/1998 CLE @ TOR W 9 6 2 5 40.0 1 2 50.0 1 2 50.0 0 0 0 0 0 0 2 3 -6
+p133
+aVVitaly Potapenko CLE 03/26/1998 CLE @ TOR W 14 10 5 7 71.4 0 0 - 0 0 - 1 3 4 0 1 0 1 4 4
+p134
+aVZydrunas Ilgauskas CLE 03/26/1998 CLE @ TOR W 40 17 8 16 50.0 0 0 - 1 1 100.0 5 7 12 2 0 4 6 3 -6
+p135
+aVBrevin Knight CLE 03/26/1998 CLE @ TOR W 32 17 7 10 70.0 0 0 - 3 3 100.0 0 6 6 6 1 0 5 2 2
+p136
+aVWesley Person CLE 03/26/1998 CLE @ TOR W 41 9 4 6 66.7 1 2 50.0 0 1 0.0 0 5 5 6 4 2 1 2 9
+p137
+aVDerek Anderson CLE 03/26/1998 CLE @ TOR W 18 4 0 3 0.0 0 0 - 4 4 100.0 0 1 1 1 2 0 0 0 3
+p138
+aVCedric Henderson CLE 03/26/1998 CLE @ TOR W 26 2 1 5 20.0 0 0 - 0 0 - 0 4 4 2 0 0 0 2 2
+p139
+aVBob Sura CLE 03/26/1998 CLE @ TOR W 25 13 5 11 45.5 2 2 100.0 1 2 50.0 0 4 4 5 1 1 1 5 -4
+p140
+aVDerek Anderson CLE 03/24/1998 CLE vs. SAS L 25 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 5 1 0 3 1 2
+p141
+aVDanny Ferry CLE 03/24/1998 CLE vs. SAS L 16 13 5 8 62.5 3 5 60.0 0 0 - 0 1 1 0 0 0 0 3 -3
+p142
+aVCedric Henderson CLE 03/24/1998 CLE vs. SAS L 28 5 2 7 28.6 0 0 - 1 2 50.0 0 0 0 2 3 0 2 1 2
+p143
+aVWesley Person CLE 03/24/1998 CLE vs. SAS L 33 5 2 5 40.0 1 2 50.0 0 0 - 1 4 5 2 0 1 1 2 -13
+p144
+aVBrevin Knight CLE 03/24/1998 CLE vs. SAS L 30 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 6 2 0 1 4 -10
+p145
+aVVitaly Potapenko CLE 03/24/1998 CLE vs. SAS L 14 11 5 8 62.5 0 0 - 1 2 50.0 1 1 2 0 0 0 1 4 11
+p146
+aVShawn Kemp CLE 03/24/1998 CLE vs. SAS L 19 7 3 14 21.4 0 0 - 1 1 100.0 2 5 7 0 1 0 1 5 -13
+p147
+aVBob Sura CLE 03/24/1998 CLE vs. SAS L 27 7 2 3 66.7 0 1 0.0 3 4 75.0 0 1 1 7 1 1 1 2 16
+p148
+aVShawnelle Scott CLE 03/24/1998 CLE vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p149
+aVZydrunas Ilgauskas CLE 03/24/1998 CLE vs. SAS L 44 21 9 21 42.9 0 0 - 3 4 75.0 3 9 12 1 1 2 2 4 5
+p150
+aVCarl Thomas CLE 03/21/1998 CLE @ LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p151
+aVVitaly Potapenko CLE 03/21/1998 CLE @ LAC W 21 8 4 8 50.0 0 0 - 0 0 - 1 4 5 1 1 0 2 4 2
+p152
+aVZydrunas Ilgauskas CLE 03/21/1998 CLE @ LAC W 34 19 7 13 53.8 0 0 - 5 5 100.0 5 7 12 1 0 4 2 5 13
+p153
+aVCedric Henderson CLE 03/21/1998 CLE @ LAC W 38 20 10 13 76.9 0 0 - 0 0 - 1 3 4 0 2 0 4 3 13
+p154
+aVDerek Anderson CLE 03/21/1998 CLE @ LAC W 22 9 2 7 28.6 1 3 33.3 4 6 66.7 1 3 4 3 0 0 0 1 0
+p155
+aVShawn Kemp CLE 03/21/1998 CLE @ LAC W 33 27 10 19 52.6 0 0 - 7 8 87.5 7 6 13 4 3 0 5 3 30
+p156
+aVScott Brooks CLE 03/21/1998 CLE @ LAC W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p157
+aVWesley Person CLE 03/21/1998 CLE @ LAC W 38 9 4 13 30.8 1 2 50.0 0 0 - 0 4 4 3 3 0 0 1 29
+p158
+aVShawnelle Scott CLE 03/21/1998 CLE @ LAC W 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 1 0 3 -3
+p159
+aVBrevin Knight CLE 03/21/1998 CLE @ LAC W 20 2 1 3 33.3 0 0 - 0 0 - 0 2 2 9 1 0 0 4 18
+p160
+aVBob Sura CLE 03/21/1998 CLE @ LAC W 20 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 4 0 0 2 0 7
+p161
+aVDerek Anderson CLE 03/19/1998 CLE @ SAC W 32 18 5 9 55.6 0 0 - 8 10 80.0 1 4 5 2 0 0 0 1 17
+p162
+aVCedric Henderson CLE 03/19/1998 CLE @ SAC W 16 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -12
+p163
+aVVitaly Potapenko CLE 03/19/1998 CLE @ SAC W 21 2 0 5 0.0 0 0 - 2 6 33.3 1 2 3 1 1 1 1 4 13
+p164
+aVShawnelle Scott CLE 03/19/1998 CLE @ SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p165
+aVBob Sura CLE 03/19/1998 CLE @ SAC W 27 6 2 5 40.0 0 0 - 2 5 40.0 2 2 4 6 2 1 3 3 17
+p166
+aVShawn Kemp CLE 03/19/1998 CLE @ SAC W 40 19 8 18 44.4 0 0 - 3 5 60.0 3 11 14 1 1 0 6 6 -7
+p167
+aVWesley Person CLE 03/19/1998 CLE @ SAC W 45 16 5 14 35.7 4 7 57.1 2 2 100.0 0 5 5 1 3 1 2 0 9
+p168
+aVBrevin Knight CLE 03/19/1998 CLE @ SAC W 24 13 6 10 60.0 0 0 - 1 2 50.0 1 3 4 4 0 0 2 0 -15
+p169
+aVZydrunas Ilgauskas CLE 03/19/1998 CLE @ SAC W 32 12 5 7 71.4 0 0 - 2 2 100.0 5 7 12 2 0 1 3 4 -1
+p170
+aVCedric Henderson CLE 03/17/1998 CLE @ POR W 33 8 3 8 37.5 0 0 - 2 2 100.0 0 5 5 2 1 0 0 2 11
+p171
+aVBrevin Knight CLE 03/17/1998 CLE @ POR W 35 20 8 10 80.0 0 0 - 4 6 66.7 2 3 5 5 2 0 0 3 8
+p172
+aVDerek Anderson CLE 03/17/1998 CLE @ POR W 24 10 3 7 42.9 0 0 - 4 4 100.0 1 1 2 1 1 1 2 3 9
+p173
+aVWesley Person CLE 03/17/1998 CLE @ POR W 37 11 4 14 28.6 2 6 33.3 1 1 100.0 2 2 4 2 1 0 1 1 8
+p174
+aVShawn Kemp CLE 03/17/1998 CLE @ POR W 41 20 8 13 61.5 0 0 - 4 4 100.0 3 4 7 5 4 2 1 4 14
+p175
+aVBob Sura CLE 03/17/1998 CLE @ POR W 18 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 6 0 1 1 0 11
+p176
+aVVitaly Potapenko CLE 03/17/1998 CLE @ POR W 34 18 7 14 50.0 0 0 - 4 6 66.7 2 5 7 1 0 1 2 4 13
+p177
+aVZydrunas Ilgauskas CLE 03/17/1998 CLE @ POR W 17 6 3 6 50.0 0 0 - 0 0 - 0 3 3 0 0 1 1 4 -4
+p178
+aVZydrunas Ilgauskas CLE 03/14/1998 CLE vs. NYK W 36 18 7 12 58.3 0 0 - 4 5 80.0 1 6 7 0 0 2 0 3 7
+p179
+aVShawn Kemp CLE 03/14/1998 CLE vs. NYK W 45 22 7 12 58.3 0 0 - 8 12 66.7 0 10 10 6 1 0 6 4 3
+p180
+aVScott Brooks CLE 03/14/1998 CLE vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 2 0 0 0 10
+p181
+aVCedric Henderson CLE 03/14/1998 CLE vs. NYK W 34 6 3 9 33.3 0 0 - 0 0 - 0 4 4 2 1 2 3 5 -11
+p182
+aVBrevin Knight CLE 03/14/1998 CLE vs. NYK W 36 10 3 9 33.3 0 0 - 4 6 66.7 1 2 3 4 3 0 2 3 -2
+p183
+aVVitaly Potapenko CLE 03/14/1998 CLE vs. NYK W 22 2 1 2 50.0 0 0 - 0 0 - 0 5 5 3 0 1 2 2 -1
+p184
+aVBob Sura CLE 03/14/1998 CLE vs. NYK W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p185
+aVWesley Person CLE 03/14/1998 CLE vs. NYK W 45 13 4 9 44.4 4 7 57.1 1 2 50.0 0 6 6 2 0 0 1 3 8
+p186
+aVCarl Thomas CLE 03/14/1998 CLE vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p187
+aVDerek Anderson CLE 03/14/1998 CLE vs. NYK W 35 17 7 14 50.0 0 0 - 3 4 75.0 2 2 4 3 1 0 2 3 8
+p188
+aVVitaly Potapenko CLE 03/12/1998 CLE @ MIA L 26 8 4 9 44.4 0 0 - 0 2 0.0 2 3 5 2 0 0 2 5 -14
+p189
+aVBrevin Knight CLE 03/12/1998 CLE @ MIA L 18 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 4 0 0 3 4 -13
+p190
+aVScott Brooks CLE 03/12/1998 CLE @ MIA L 15 6 2 4 50.0 1 1 100.0 1 2 50.0 0 3 3 0 0 0 0 0 5
+p191
+aVShawn Kemp CLE 03/12/1998 CLE @ MIA L 31 8 4 14 28.6 0 0 - 0 0 - 3 2 5 0 0 0 0 1 -24
+p192
+aVWesley Person CLE 03/12/1998 CLE @ MIA L 28 10 2 8 25.0 2 3 66.7 4 4 100.0 0 3 3 1 1 0 1 1 -16
+p193
+aVDerek Anderson CLE 03/12/1998 CLE @ MIA L 34 16 6 16 37.5 2 4 50.0 2 2 100.0 1 2 3 3 2 0 3 0 -12
+p194
+aVShawnelle Scott CLE 03/12/1998 CLE @ MIA L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 1 1 0 1 5
+p195
+aVZydrunas Ilgauskas CLE 03/12/1998 CLE @ MIA L 23 11 5 8 62.5 0 0 - 1 2 50.0 3 3 6 0 0 2 1 2 -4
+p196
+aVCedric Henderson CLE 03/12/1998 CLE @ MIA L 28 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 0 0 1 3 2 -22
+p197
+aVCarl Thomas CLE 03/12/1998 CLE @ MIA L 19 3 1 6 16.7 1 4 25.0 0 0 - 1 0 1 0 1 0 2 1 -9
+p198
+aVBob Sura CLE 03/12/1998 CLE @ MIA L 8 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 0 -11
+p199
+aVBrevin Knight CLE 03/11/1998 CLE vs. MIL W 29 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 9 1 0 1 2 8
+p200
+aVCedric Henderson CLE 03/11/1998 CLE vs. MIL W 34 11 4 7 57.1 0 0 - 3 4 75.0 1 4 5 2 1 1 3 3 16
+p201
+aVShawn Kemp CLE 03/11/1998 CLE vs. MIL W 29 6 1 3 33.3 0 0 - 4 6 66.7 1 5 6 3 4 0 3 6 6
+p202
+aVShawnelle Scott CLE 03/11/1998 CLE vs. MIL W 8 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 0 0 0 0 3 6
+p203
+aVCarl Thomas CLE 03/11/1998 CLE vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p204
+aVDerek Anderson CLE 03/11/1998 CLE vs. MIL W 20 6 2 6 33.3 1 2 50.0 1 2 50.0 0 0 0 2 2 1 3 0 1
+p205
+aVVitaly Potapenko CLE 03/11/1998 CLE vs. MIL W 31 12 6 10 60.0 0 0 - 0 0 - 1 10 11 2 1 0 1 2 6
+p206
+aVBob Sura CLE 03/11/1998 CLE vs. MIL W 17 10 4 10 40.0 0 1 0.0 2 4 50.0 0 3 3 4 1 0 1 3 6
+p207
+aVWesley Person CLE 03/11/1998 CLE vs. MIL W 41 17 8 12 66.7 1 2 50.0 0 0 - 1 2 3 2 1 2 2 1 9
+p208
+aVScott Brooks CLE 03/11/1998 CLE vs. MIL W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p209
+aVZydrunas Ilgauskas CLE 03/11/1998 CLE vs. MIL W 27 18 6 10 60.0 0 0 - 6 6 100.0 3 1 4 0 0 2 2 4 6
+p210
+aVShawnelle Scott CLE 03/08/1998 CLE @ ATL L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 2
+p211
+aVBrevin Knight CLE 03/08/1998 CLE @ ATL L 29 16 6 11 54.5 0 0 - 4 6 66.7 0 3 3 7 3 0 2 4 -10
+p212
+aVWesley Person CLE 03/08/1998 CLE @ ATL L 36 26 9 16 56.3 6 11 54.5 2 2 100.0 0 3 3 1 1 2 0 3 -3
+p213
+aVZydrunas Ilgauskas CLE 03/08/1998 CLE @ ATL L 24 7 3 8 37.5 0 0 - 1 2 50.0 2 4 6 2 0 1 1 3 -13
+p214
+aVVitaly Potapenko CLE 03/08/1998 CLE @ ATL L 16 6 3 8 37.5 0 0 - 0 0 - 2 0 2 0 0 0 1 3 -11
+p215
+aVShawn Kemp CLE 03/08/1998 CLE @ ATL L 32 8 3 10 30.0 0 0 - 2 2 100.0 2 5 7 3 1 1 2 6 1
+p216
+aVDerek Anderson CLE 03/08/1998 CLE @ ATL L 30 14 6 17 35.3 0 2 0.0 2 4 50.0 0 1 1 4 1 0 2 2 -5
+p217
+aVCedric Henderson CLE 03/08/1998 CLE @ ATL L 36 9 4 8 50.0 0 0 - 1 2 50.0 1 5 6 5 4 2 0 4 7
+p218
+aVBob Sura CLE 03/08/1998 CLE @ ATL L 21 2 1 4 25.0 0 1 0.0 0 1 0.0 2 1 3 2 2 0 1 4 2
+p219
+aVCarl Thomas CLE 03/08/1998 CLE @ ATL L 11 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 0 0 0 0 3 5
+p220
+aVVitaly Potapenko CLE 03/06/1998 CLE @ ORL L 17 7 2 4 50.0 0 0 - 3 4 75.0 2 2 4 0 1 0 2 0 9
+p221
+aVWesley Person CLE 03/06/1998 CLE @ ORL L 47 11 4 11 36.4 3 8 37.5 0 0 - 0 3 3 1 2 0 1 3 0
+p222
+aVBrevin Knight CLE 03/06/1998 CLE @ ORL L 30 8 3 7 42.9 0 1 0.0 2 2 100.0 2 2 4 3 2 0 5 2 -16
+p223
+aVBob Sura CLE 03/06/1998 CLE @ ORL L 20 0 0 0 - 0 0 - 0 0 - 0 0 0 2 4 0 2 5 18
+p224
+aVZydrunas Ilgauskas CLE 03/06/1998 CLE @ ORL L 43 14 6 11 54.5 0 0 - 2 2 100.0 5 5 10 0 3 3 1 5 -10
+p225
+aVCedric Henderson CLE 03/06/1998 CLE @ ORL L 35 10 5 13 38.5 0 0 - 0 2 0.0 2 4 6 2 0 0 0 6 -16
+p226
+aVShawn Kemp CLE 03/06/1998 CLE @ ORL L 42 19 5 14 35.7 0 0 - 9 10 90.0 0 5 5 4 3 2 5 4 -10
+p227
+aVDerek Anderson CLE 03/06/1998 CLE @ ORL L 31 20 8 18 44.4 0 4 0.0 4 5 80.0 0 1 1 2 3 0 1 4 15
+p228
+aVScott Brooks CLE 03/04/1998 CLE vs. TOR W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 3
+p229
+aVShawnelle Scott CLE 03/04/1998 CLE vs. TOR W 12 2 1 2 50.0 0 0 - 0 0 - 0 6 6 1 0 1 0 2 -2
+p230
+aVBrevin Knight CLE 03/04/1998 CLE vs. TOR W 29 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 17 3 1 5 1 26
+p231
+aVZydrunas Ilgauskas CLE 03/04/1998 CLE vs. TOR W 34 21 9 17 52.9 0 0 - 3 3 100.0 6 11 17 3 1 3 2 2 34
+p232
+aVCarl Thomas CLE 03/04/1998 CLE vs. TOR W 4 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 3
+p233
+aVVitaly Potapenko CLE 03/04/1998 CLE vs. TOR W 22 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 2 0 2 2 2 9
+p234
+aVWesley Person CLE 03/04/1998 CLE vs. TOR W 31 33 11 15 73.3 6 7 85.7 5 7 71.4 0 3 3 0 0 1 0 2 29
+p235
+aVBob Sura CLE 03/04/1998 CLE vs. TOR W 20 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 4 1 0 3 3 11
+p236
+aVHenry James CLE 03/04/1998 CLE vs. TOR W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 3
+p237
+aVCedric Henderson CLE 03/04/1998 CLE vs. TOR W 34 18 8 12 66.7 0 0 - 2 2 100.0 1 3 4 2 1 0 0 2 23
+p238
+aVShawn Kemp CLE 03/04/1998 CLE vs. TOR W 28 10 3 9 33.3 0 0 - 4 7 57.1 2 5 7 3 1 0 0 4 27
+p239
+aVDerek Anderson CLE 03/04/1998 CLE vs. TOR W 17 13 4 7 57.1 2 3 66.7 3 4 75.0 0 1 1 3 1 0 0 3 4
+p240
+aVZydrunas Ilgauskas CLE 03/01/1998 CLE vs. GSW W 35 17 5 15 33.3 0 0 - 7 10 70.0 4 9 13 4 1 2 0 3 23
+p241
+aVShawnelle Scott CLE 03/01/1998 CLE vs. GSW W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 0
+p242
+aVWesley Person CLE 03/01/1998 CLE vs. GSW W 34 13 3 10 30.0 2 4 50.0 5 5 100.0 0 4 4 3 3 1 0 0 26
+p243
+aVShawn Kemp CLE 03/01/1998 CLE vs. GSW W 37 28 10 16 62.5 0 0 - 8 8 100.0 3 9 12 4 0 0 2 3 17
+p244
+aVScott Brooks CLE 03/01/1998 CLE vs. GSW W 2 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 2
+p245
+aVHenry James CLE 03/01/1998 CLE vs. GSW W 8 6 1 5 20.0 1 3 33.3 3 3 100.0 1 1 2 0 0 0 0 0 1
+p246
+aVCarl Thomas CLE 03/01/1998 CLE vs. GSW W 15 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 0 1 0 0 1 -1
+p247
+aVVitaly Potapenko CLE 03/01/1998 CLE vs. GSW W 20 6 3 9 33.3 0 0 - 0 0 - 2 2 4 0 1 2 2 2 0
+p248
+aVCedric Henderson CLE 03/01/1998 CLE vs. GSW W 30 12 5 14 35.7 0 0 - 2 2 100.0 2 1 3 1 0 1 2 2 7
+p249
+aVBrevin Knight CLE 03/01/1998 CLE vs. GSW W 33 10 5 8 62.5 0 0 - 0 0 - 1 2 3 5 5 0 4 2 15
+p250
+aVBob Sura CLE 03/01/1998 CLE vs. GSW W 22 1 0 0 - 0 0 - 1 2 50.0 0 1 1 10 0 0 2 2 10
+p251
+aVZydrunas Ilgauskas CLE 02/27/1998 CLE @ DET L 31 11 4 11 36.4 0 0 - 3 3 100.0 2 8 10 2 0 0 1 5 15
+p252
+aVShawnelle Scott CLE 02/27/1998 CLE @ DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p253
+aVVitaly Potapenko CLE 02/27/1998 CLE @ DET L 22 12 5 11 45.5 0 0 - 2 6 33.3 1 1 2 0 0 0 1 4 -9
+p254
+aVCarl Thomas CLE 02/27/1998 CLE @ DET L 21 10 3 4 75.0 2 2 100.0 2 2 100.0 0 2 2 1 3 0 0 4 3
+p255
+aVBob Sura CLE 02/27/1998 CLE @ DET L 25 4 1 4 25.0 0 1 0.0 2 4 50.0 0 1 1 7 3 0 2 4 4
+p256
+aVHenry James CLE 02/27/1998 CLE @ DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p257
+aVBrevin Knight CLE 02/27/1998 CLE @ DET L 23 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 4 2 0 2 4 -7
+p258
+aVWesley Person CLE 02/27/1998 CLE @ DET L 38 5 2 6 33.3 0 3 0.0 1 1 100.0 1 1 2 1 1 1 2 0 -15
+p259
+aVCedric Henderson CLE 02/27/1998 CLE @ DET L 37 13 5 13 38.5 0 0 - 3 4 75.0 1 3 4 4 1 0 0 6 6
+p260
+aVShawn Kemp CLE 02/27/1998 CLE @ DET L 38 26 9 20 45.0 0 0 - 8 13 61.5 2 9 11 2 2 1 4 4 -5
+p261
+aVCarl Thomas CLE 02/25/1998 CLE vs. VAN W 20 13 5 5 100.0 3 3 100.0 0 2 0.0 0 2 2 1 3 0 1 3 2
+p262
+aVZydrunas Ilgauskas CLE 02/25/1998 CLE vs. VAN W 39 22 10 17 58.8 0 0 - 2 3 66.7 1 10 11 3 2 2 2 5 18
+p263
+aVBob Sura CLE 02/25/1998 CLE vs. VAN W 6 4 2 6 33.3 0 0 - 0 2 0.0 0 2 2 0 0 0 1 0 -2
+p264
+aVVitaly Potapenko CLE 02/25/1998 CLE vs. VAN W 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p265
+aVWesley Person CLE 02/25/1998 CLE vs. VAN W 39 14 6 14 42.9 1 4 25.0 1 2 50.0 0 3 3 3 1 1 4 2 3
+p266
+aVCedric Henderson CLE 02/25/1998 CLE vs. VAN W 39 30 12 18 66.7 0 0 - 6 9 66.7 1 2 3 2 1 0 2 4 4
+p267
+aVShawn Kemp CLE 02/25/1998 CLE vs. VAN W 32 16 5 9 55.6 0 0 - 6 6 100.0 7 3 10 8 3 2 2 6 3
+p268
+aVBrevin Knight CLE 02/25/1998 CLE vs. VAN W 37 7 3 8 37.5 0 0 - 1 1 100.0 1 4 5 17 4 1 5 4 10
+p269
+aVScott Brooks CLE 02/25/1998 CLE vs. VAN W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 1 0 -3
+p270
+aVShawnelle Scott CLE 02/25/1998 CLE vs. VAN W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -5
+p271
+aVZydrunas Ilgauskas CLE 02/23/1998 CLE @ CHI L 28 15 4 8 50.0 0 0 - 7 8 87.5 2 3 5 0 0 0 1 2 -16
+p272
+aVShawnelle Scott CLE 02/23/1998 CLE @ CHI L 9 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 0
+p273
+aVCedric Henderson CLE 02/23/1998 CLE @ CHI L 21 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -13
+p274
+aVScott Brooks CLE 02/23/1998 CLE @ CHI L 11 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 1 0 -2
+p275
+aVVitaly Potapenko CLE 02/23/1998 CLE @ CHI L 20 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 4 -6
+p276
+aVBob Sura CLE 02/23/1998 CLE @ CHI L 30 10 2 8 25.0 0 4 0.0 6 11 54.5 3 3 6 3 0 0 2 1 -14
+p277
+aVShawn Kemp CLE 02/23/1998 CLE @ CHI L 34 13 5 17 29.4 0 0 - 3 4 75.0 2 6 8 1 0 1 3 4 -16
+p278
+aVWesley Person CLE 02/23/1998 CLE @ CHI L 20 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 1 2 0 2 1 -19
+p279
+aVDanny Ferry CLE 02/23/1998 CLE @ CHI L 12 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 0 1 0 0 1 -5
+p280
+aVCarl Thomas CLE 02/23/1998 CLE @ CHI L 30 9 3 9 33.3 2 5 40.0 1 2 50.0 0 6 6 1 3 1 2 1 -6
+p281
+aVBrevin Knight CLE 02/23/1998 CLE @ CHI L 26 8 1 4 25.0 0 0 - 6 6 100.0 0 1 1 6 1 0 3 3 -13
+p282
+aVWesley Person CLE 02/22/1998 CLE @ MIL L 37 4 2 5 40.0 0 2 0.0 0 1 0.0 1 3 4 0 1 0 1 1 -3
+p283
+aVShawn Kemp CLE 02/22/1998 CLE @ MIL L 42 20 6 20 30.0 0 0 - 8 10 80.0 7 3 10 1 2 1 3 2 -3
+p284
+aVBob Sura CLE 02/22/1998 CLE @ MIL L 35 12 5 8 62.5 1 1 100.0 1 2 50.0 0 2 2 6 2 0 3 5 -3
+p285
+aVCedric Henderson CLE 02/22/1998 CLE @ MIL L 30 4 1 8 12.5 0 0 - 2 4 50.0 2 2 4 1 1 0 3 3 -6
+p286
+aVBrevin Knight CLE 02/22/1998 CLE @ MIL L 28 8 3 11 27.3 0 0 - 2 2 100.0 0 1 1 6 4 0 1 3 -10
+p287
+aVCarl Thomas CLE 02/22/1998 CLE @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p288
+aVDanny Ferry CLE 02/22/1998 CLE @ MIL L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -6
+p289
+aVZydrunas Ilgauskas CLE 02/22/1998 CLE @ MIL L 43 15 7 16 43.8 0 0 - 1 2 50.0 5 8 13 1 2 2 3 3 1
+p290
+aVVitaly Potapenko CLE 02/22/1998 CLE @ MIL L 17 5 2 8 25.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 1 -7
+p291
+aVCedric Henderson CLE 02/20/1998 CLE @ NJN W 42 27 11 21 52.4 0 0 - 5 6 83.3 1 5 6 3 2 2 2 1 18
+p292
+aVBrevin Knight CLE 02/20/1998 CLE @ NJN W 25 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 5 1 1 1 6 16
+p293
+aVCarl Thomas CLE 02/20/1998 CLE @ NJN W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 -7
+p294
+aVScott Brooks CLE 02/20/1998 CLE @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 2
+p295
+aVZydrunas Ilgauskas CLE 02/20/1998 CLE @ NJN W 35 12 6 9 66.7 0 0 - 0 0 - 2 10 12 1 2 1 0 3 15
+p296
+aVVitaly Potapenko CLE 02/20/1998 CLE @ NJN W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -4
+p297
+aVBob Sura CLE 02/20/1998 CLE @ NJN W 25 14 3 6 50.0 1 2 50.0 7 10 70.0 1 1 2 5 1 0 4 5 1
+p298
+aVDanny Ferry CLE 02/20/1998 CLE @ NJN W 10 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 2
+p299
+aVShawn Kemp CLE 02/20/1998 CLE @ NJN W 40 27 11 23 47.8 0 0 - 5 6 83.3 4 9 13 8 4 1 3 5 10
+p300
+aVWesley Person CLE 02/20/1998 CLE @ NJN W 42 23 9 18 50.0 3 6 50.0 2 4 50.0 2 5 7 1 2 1 1 0 17
+p301
+aVShawn Kemp CLE 02/17/1998 CLE @ PHI L 31 20 7 16 43.8 0 0 - 6 8 75.0 2 7 9 3 3 1 2 6 9
+p302
+aVBob Sura CLE 02/17/1998 CLE @ PHI L 19 3 1 4 25.0 1 1 100.0 0 2 0.0 0 1 1 5 0 0 2 3 -12
+p303
+aVCarl Thomas CLE 02/17/1998 CLE @ PHI L 16 3 1 4 25.0 1 4 25.0 0 0 - 0 3 3 1 1 1 3 2 10
+p304
+aVZydrunas Ilgauskas CLE 02/17/1998 CLE @ PHI L 34 24 7 10 70.0 0 0 - 10 13 76.9 3 7 10 1 1 4 1 4 11
+p305
+aVBrevin Knight CLE 02/17/1998 CLE @ PHI L 38 15 2 8 25.0 0 0 - 11 12 91.7 2 4 6 10 1 0 3 5 11
+p306
+aVCedric Henderson CLE 02/17/1998 CLE @ PHI L 26 0 0 7 0.0 0 0 - 0 0 - 0 2 2 2 0 1 2 1 -18
+p307
+aVWesley Person CLE 02/17/1998 CLE @ PHI L 46 28 10 12 83.3 8 10 80.0 0 1 0.0 0 0 0 1 4 1 3 1 4
+p308
+aVVitaly Potapenko CLE 02/17/1998 CLE @ PHI L 25 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 0 0 1 4 -12
+p309
+aVShawnelle Scott CLE 02/17/1998 CLE @ PHI L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -8
+p310
+aVDanny Ferry CLE 02/15/1998 CLE @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p311
+aVZydrunas Ilgauskas CLE 02/15/1998 CLE @ NYK L 25 12 3 8 37.5 1 1 100.0 5 7 71.4 4 4 8 0 1 0 2 2 -11
+p312
+aVWesley Person CLE 02/15/1998 CLE @ NYK L 16 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -16
+p313
+aVShawn Kemp CLE 02/15/1998 CLE @ NYK L 43 30 11 22 50.0 0 0 - 8 10 80.0 5 12 17 6 1 0 3 4 -16
+p314
+aVVitaly Potapenko CLE 02/15/1998 CLE @ NYK L 8 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 1 -8
+p315
+aVCarl Thomas CLE 02/15/1998 CLE @ NYK L 29 9 3 8 37.5 1 4 25.0 2 2 100.0 1 1 2 0 1 0 0 2 14
+p316
+aVShawnelle Scott CLE 02/15/1998 CLE @ NYK L 15 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 1 1 0 2 5 10
+p317
+aVBob Sura CLE 02/15/1998 CLE @ NYK L 34 9 3 9 33.3 2 5 40.0 1 4 25.0 0 2 2 10 1 0 0 0 -3
+p318
+aVCedric Henderson CLE 02/15/1998 CLE @ NYK L 37 23 11 21 52.4 0 0 - 1 3 33.3 0 4 4 1 1 0 1 4 -8
+p319
+aVScott Brooks CLE 02/15/1998 CLE @ NYK L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 2
+p320
+aVBrevin Knight CLE 02/15/1998 CLE @ NYK L 19 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 0 0 4 2 -24
+p321
+aVCedric Henderson CLE 02/14/1998 CLE vs. MIL L 20 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 3 -6
+p322
+aVDanny Ferry CLE 02/14/1998 CLE vs. MIL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p323
+aVZydrunas Ilgauskas CLE 02/14/1998 CLE vs. MIL L 37 11 4 8 50.0 0 0 - 3 6 50.0 4 6 10 1 0 5 3 4 -7
+p324
+aVWesley Person CLE 02/14/1998 CLE vs. MIL L 45 17 5 10 50.0 2 5 40.0 5 6 83.3 0 2 2 0 1 2 3 1 -8
+p325
+aVBob Sura CLE 02/14/1998 CLE vs. MIL L 30 30 10 17 58.8 2 2 100.0 8 11 72.7 1 2 3 1 1 0 4 3 -4
+p326
+aVCarl Thomas CLE 02/14/1998 CLE vs. MIL L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 5
+p327
+aVVitaly Potapenko CLE 02/14/1998 CLE vs. MIL L 24 8 4 6 66.7 0 0 - 0 0 - 6 5 11 2 0 0 4 6 8
+p328
+aVScott Brooks CLE 02/14/1998 CLE vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 3
+p329
+aVShawn Kemp CLE 02/14/1998 CLE vs. MIL L 31 11 4 10 40.0 0 0 - 3 4 75.0 2 4 6 1 0 1 1 4 -8
+p330
+aVBrevin Knight CLE 02/14/1998 CLE vs. MIL L 34 16 6 15 40.0 0 0 - 4 6 66.7 2 5 7 6 2 0 3 4 -8
+p331
+aVDanny Ferry CLE 02/12/1998 CLE @ TOR W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 2
+p332
+aVBob Sura CLE 02/12/1998 CLE @ TOR W 26 6 3 4 75.0 0 0 - 0 0 - 1 4 5 3 1 0 3 4 2
+p333
+aVZydrunas Ilgauskas CLE 02/12/1998 CLE @ TOR W 41 24 10 14 71.4 0 0 - 4 5 80.0 5 9 14 5 0 2 5 1 9
+p334
+aVVitaly Potapenko CLE 02/12/1998 CLE @ TOR W 11 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 1 4 4
+p335
+aVCarl Thomas CLE 02/12/1998 CLE @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p336
+aVBrevin Knight CLE 02/12/1998 CLE @ TOR W 31 7 3 6 50.0 0 1 0.0 1 2 50.0 0 1 1 9 3 0 2 5 18
+p337
+aVScott Brooks CLE 02/12/1998 CLE @ TOR W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p338
+aVCedric Henderson CLE 02/12/1998 CLE @ TOR W 37 5 1 7 14.3 0 0 - 3 4 75.0 0 5 5 2 3 1 1 6 -3
+p339
+aVWesley Person CLE 02/12/1998 CLE @ TOR W 45 28 8 20 40.0 5 11 45.5 7 7 100.0 2 3 5 2 3 0 3 2 12
+p340
+aVShawn Kemp CLE 02/12/1998 CLE @ TOR W 36 27 10 17 58.8 0 0 - 7 7 100.0 6 1 7 2 2 1 3 5 7
+p341
+aVVitaly Potapenko CLE 02/10/1998 CLE vs. MIA L 13 9 4 8 50.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 1 -4
+p342
+aVShawn Kemp CLE 02/10/1998 CLE vs. MIA L 32 14 4 15 26.7 0 0 - 6 8 75.0 4 2 6 0 0 0 4 5 -7
+p343
+aVZydrunas Ilgauskas CLE 02/10/1998 CLE vs. MIA L 26 8 3 12 25.0 0 0 - 2 7 28.6 4 3 7 1 0 1 1 5 -14
+p344
+aVCarl Thomas CLE 02/10/1998 CLE vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p345
+aVBob Sura CLE 02/10/1998 CLE vs. MIA L 25 6 0 2 0.0 0 2 0.0 6 8 75.0 2 3 5 5 2 0 2 4 1
+p346
+aVCedric Henderson CLE 02/10/1998 CLE vs. MIA L 42 18 7 14 50.0 0 0 - 4 4 100.0 1 8 9 2 4 1 4 5 0
+p347
+aVDanny Ferry CLE 02/10/1998 CLE vs. MIA L 18 2 1 5 20.0 0 2 0.0 0 1 0.0 0 0 0 2 0 1 2 1 3
+p348
+aVWesley Person CLE 02/10/1998 CLE vs. MIA L 42 15 4 12 33.3 2 7 28.6 5 6 83.3 2 2 4 1 1 0 2 1 -14
+p349
+aVBrevin Knight CLE 02/10/1998 CLE vs. MIA L 29 9 3 7 42.9 0 0 - 3 4 75.0 2 1 3 8 4 0 0 4 -6
+p350
+aVScott Brooks CLE 02/10/1998 CLE vs. MIA L 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 3 0 1 1 -5
+p351
+aVBob Sura CLE 02/05/1998 CLE vs. ATL L 17 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 4 -9
+p352
+aVCedric Henderson CLE 02/05/1998 CLE vs. ATL L 34 16 6 13 46.2 0 0 - 4 4 100.0 2 4 6 4 1 0 1 4 -11
+p353
+aVBrevin Knight CLE 02/05/1998 CLE vs. ATL L 27 11 4 9 44.4 0 1 0.0 3 3 100.0 0 0 0 9 2 1 1 2 -6
+p354
+aVHenry James CLE 02/05/1998 CLE vs. ATL L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -7
+p355
+aVShawnelle Scott CLE 02/05/1998 CLE vs. ATL L 1 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 1 0 0 3
+p356
+aVScott Brooks CLE 02/05/1998 CLE vs. ATL L 21 10 4 7 57.1 2 2 100.0 0 1 0.0 0 1 1 6 1 0 1 2 -8
+p357
+aVZydrunas Ilgauskas CLE 02/05/1998 CLE vs. ATL L 39 20 9 18 50.0 0 0 - 2 2 100.0 5 6 11 1 1 2 2 6 -16
+p358
+aVDanny Ferry CLE 02/05/1998 CLE vs. ATL L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 3 -8
+p359
+aVVitaly Potapenko CLE 02/05/1998 CLE vs. ATL L 9 0 0 3 0.0 0 0 - 0 0 - 1 0 1 2 1 0 2 2 2
+p360
+aVShawn Kemp CLE 02/05/1998 CLE vs. ATL L 33 13 5 11 45.5 0 0 - 3 4 75.0 0 3 3 2 1 1 6 6 -9
+p361
+aVWesley Person CLE 02/05/1998 CLE vs. ATL L 37 13 5 8 62.5 3 6 50.0 0 3 0.0 2 4 6 1 0 0 1 1 -1
+p362
+aVZydrunas Ilgauskas CLE 02/04/1998 CLE @ WAS L 27 18 8 13 61.5 0 0 - 2 3 66.7 3 0 3 0 0 1 3 4 -4
+p363
+aVBrevin Knight CLE 02/04/1998 CLE @ WAS L 32 8 2 6 33.3 0 0 - 4 5 80.0 0 4 4 7 2 0 4 2 -9
+p364
+aVWesley Person CLE 02/04/1998 CLE @ WAS L 37 15 4 11 36.4 2 3 66.7 5 6 83.3 1 3 4 1 0 2 1 2 -14
+p365
+aVCarl Thomas CLE 02/04/1998 CLE @ WAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p366
+aVBob Sura CLE 02/04/1998 CLE @ WAS L 10 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 2 -4
+p367
+aVCedric Henderson CLE 02/04/1998 CLE @ WAS L 39 13 4 12 33.3 0 0 - 5 5 100.0 2 4 6 2 2 0 3 3 -5
+p368
+aVHenry James CLE 02/04/1998 CLE @ WAS L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p369
+aVScott Brooks CLE 02/04/1998 CLE @ WAS L 16 8 4 5 80.0 0 0 - 0 0 - 0 3 3 3 0 0 1 1 -7
+p370
+aVVitaly Potapenko CLE 02/04/1998 CLE @ WAS L 20 9 4 10 40.0 0 0 - 1 1 100.0 2 1 3 1 0 0 2 2 -13
+p371
+aVShawnelle Scott CLE 02/04/1998 CLE @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p372
+aVShawn Kemp CLE 02/04/1998 CLE @ WAS L 29 14 5 9 55.6 0 0 - 4 4 100.0 0 8 8 1 1 0 1 3 4
+p373
+aVDanny Ferry CLE 02/04/1998 CLE @ WAS L 20 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 0 1 0 1 0 -22
+p374
+aVVitaly Potapenko CLE 02/02/1998 CLE vs. MIN W 20 8 2 7 28.6 0 0 - 4 4 100.0 4 5 9 0 0 0 4 1 3
+p375
+aVZydrunas Ilgauskas CLE 02/02/1998 CLE vs. MIN W 28 19 8 16 50.0 0 0 - 3 3 100.0 7 3 10 1 0 1 1 6 11
+p376
+aVBrevin Knight CLE 02/02/1998 CLE vs. MIN W 31 9 4 12 33.3 0 0 - 1 1 100.0 0 3 3 14 0 1 3 6 -1
+p377
+aVWesley Person CLE 02/02/1998 CLE vs. MIN W 42 18 6 13 46.2 3 4 75.0 3 4 75.0 4 4 8 1 1 0 1 3 3
+p378
+aVCedric Henderson CLE 02/02/1998 CLE vs. MIN W 40 24 12 17 70.6 0 0 - 0 0 - 1 5 6 4 2 0 5 1 14
+p379
+aVBob Sura CLE 02/02/1998 CLE vs. MIN W 14 6 2 4 50.0 0 0 - 2 3 66.7 0 2 2 1 0 0 1 0 3
+p380
+aVShawn Kemp CLE 02/02/1998 CLE vs. MIN W 27 16 5 8 62.5 0 0 - 6 10 60.0 2 10 12 1 2 0 1 6 -3
+p381
+aVScott Brooks CLE 02/02/1998 CLE vs. MIN W 17 6 1 2 50.0 0 0 - 4 4 100.0 0 0 0 3 0 0 1 2 11
+p382
+aVDanny Ferry CLE 02/02/1998 CLE vs. MIN W 21 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 3 1 0 3 9
+p383
+aVScott Brooks CLE 01/31/1998 CLE vs. DET W 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 1 1 0 -6
+p384
+aVBrevin Knight CLE 01/31/1998 CLE vs. DET W 36 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 10 0 0 3 4 7
+p385
+aVZydrunas Ilgauskas CLE 01/31/1998 CLE vs. DET W 34 32 12 14 85.7 0 0 - 8 9 88.9 0 13 13 0 0 0 2 3 10
+p386
+aVWesley Person CLE 01/31/1998 CLE vs. DET W 39 14 5 13 38.5 1 7 14.3 3 3 100.0 2 4 6 7 0 1 1 2 6
+p387
+aVHenry James CLE 01/31/1998 CLE vs. DET W 10 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -8
+p388
+aVBob Sura CLE 01/31/1998 CLE vs. DET W 17 0 0 3 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 5 -11
+p389
+aVDanny Ferry CLE 01/31/1998 CLE vs. DET W 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -5
+p390
+aVCedric Henderson CLE 01/31/1998 CLE vs. DET W 33 2 1 8 12.5 0 0 - 0 0 - 2 5 7 5 0 0 3 3 7
+p391
+aVShawn Kemp CLE 01/31/1998 CLE vs. DET W 39 27 11 17 64.7 0 0 - 5 6 83.3 3 12 15 2 0 2 7 2 5
+p392
+aVVitaly Potapenko CLE 01/31/1998 CLE vs. DET W 10 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 1 0 0 0 0
+p393
+aVScott Brooks CLE 01/30/1998 CLE @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p394
+aVShawn Kemp CLE 01/30/1998 CLE @ IND L 26 17 7 13 53.8 0 0 - 3 4 75.0 2 6 8 1 0 0 5 3 -14
+p395
+aVVitaly Potapenko CLE 01/30/1998 CLE @ IND L 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -10
+p396
+aVDerek Anderson CLE 01/30/1998 CLE @ IND L 8 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p397
+aVCedric Henderson CLE 01/30/1998 CLE @ IND L 41 2 1 9 11.1 0 0 - 0 0 - 1 4 5 1 1 0 3 3 -7
+p398
+aVWesley Person CLE 01/30/1998 CLE @ IND L 46 17 5 14 35.7 4 6 66.7 3 3 100.0 0 3 3 0 3 1 1 1 -2
+p399
+aVZydrunas Ilgauskas CLE 01/30/1998 CLE @ IND L 39 25 8 11 72.7 0 0 - 9 10 90.0 5 7 12 4 1 1 1 3 -1
+p400
+aVBrevin Knight CLE 01/30/1998 CLE @ IND L 36 9 3 7 42.9 0 0 - 3 3 100.0 0 3 3 10 2 1 3 6 1
+p401
+aVDanny Ferry CLE 01/30/1998 CLE @ IND L 22 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 4 0 0 0 0 13
+p402
+aVShawnelle Scott CLE 01/30/1998 CLE @ IND L 1 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 2
+p403
+aVBob Sura CLE 01/30/1998 CLE @ IND L 8 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 2 1 -7
+p404
+aVCedric Henderson CLE 01/27/1998 CLE @ DAL L 42 6 3 7 42.9 0 1 0.0 0 0 - 2 3 5 2 0 1 3 5 -4
+p405
+aVScott Brooks CLE 01/27/1998 CLE @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p406
+aVDerek Anderson CLE 01/27/1998 CLE @ DAL L 23 8 4 12 33.3 0 2 0.0 0 0 - 1 3 4 4 3 0 2 1 -1
+p407
+aVTony Dumas CLE 01/27/1998 CLE @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p408
+aVZydrunas Ilgauskas CLE 01/27/1998 CLE @ DAL L 23 4 2 12 16.7 0 0 - 0 0 - 4 6 10 0 1 1 4 5 -6
+p409
+aVShawn Kemp CLE 01/27/1998 CLE @ DAL L 35 22 9 21 42.9 0 0 - 4 6 66.7 6 6 12 6 1 0 2 6 -4
+p410
+aVDanny Ferry CLE 01/27/1998 CLE @ DAL L 16 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 1 0 1 4 -3
+p411
+aVWesley Person CLE 01/27/1998 CLE @ DAL L 50 14 6 13 46.2 0 4 0.0 2 2 100.0 0 8 8 1 0 0 3 0 -5
+p412
+aVVitaly Potapenko CLE 01/27/1998 CLE @ DAL L 32 12 6 13 46.2 0 0 - 0 0 - 1 4 5 0 0 0 3 1 4
+p413
+aVBrevin Knight CLE 01/27/1998 CLE @ DAL L 40 8 4 9 44.4 0 0 - 0 0 - 2 3 5 8 1 1 4 3 -8
+p414
+aVCedric Henderson CLE 01/26/1998 CLE @ MIA W 46 8 2 6 33.3 0 0 - 4 4 100.0 0 4 4 2 1 3 2 3 4
+p415
+aVScott Brooks CLE 01/26/1998 CLE @ MIA W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p416
+aVVitaly Potapenko CLE 01/26/1998 CLE @ MIA W 28 18 6 10 60.0 0 0 - 6 6 100.0 0 4 4 2 1 0 2 4 7
+p417
+aVZydrunas Ilgauskas CLE 01/26/1998 CLE @ MIA W 28 23 8 10 80.0 0 0 - 7 11 63.6 1 4 5 2 1 2 2 4 -5
+p418
+aVDanny Ferry CLE 01/26/1998 CLE @ MIA W 16 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 2
+p419
+aVDerek Anderson CLE 01/26/1998 CLE @ MIA W 28 9 3 8 37.5 1 2 50.0 2 2 100.0 1 2 3 7 0 0 2 3 8
+p420
+aVWesley Person CLE 01/26/1998 CLE @ MIA W 45 16 5 13 38.5 1 4 25.0 5 6 83.3 2 4 6 3 2 2 2 1 1
+p421
+aVBrevin Knight CLE 01/26/1998 CLE @ MIA W 19 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 2 1 0 0 5 -6
+p422
+aVShawn Kemp CLE 01/26/1998 CLE @ MIA W 23 10 2 8 25.0 0 0 - 6 6 100.0 1 3 4 1 2 2 5 6 -3
+p423
+aVScott Brooks CLE 01/24/1998 CLE vs. PHI W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p424
+aVTony Dumas CLE 01/24/1998 CLE vs. PHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -4
+p425
+aVShawnelle Scott CLE 01/24/1998 CLE vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p426
+aVShawn Kemp CLE 01/24/1998 CLE vs. PHI W 33 12 5 11 45.5 0 0 - 2 5 40.0 2 3 5 1 0 2 0 2 17
+p427
+aVWesley Person CLE 01/24/1998 CLE vs. PHI W 39 17 7 11 63.6 3 4 75.0 0 0 - 0 6 6 5 1 0 2 1 18
+p428
+aVDerek Anderson CLE 01/24/1998 CLE vs. PHI W 24 12 3 9 33.3 0 1 0.0 6 6 100.0 0 5 5 5 2 1 0 1 19
+p429
+aVVitaly Potapenko CLE 01/24/1998 CLE vs. PHI W 20 10 4 8 50.0 0 0 - 2 2 100.0 1 4 5 2 1 0 3 3 17
+p430
+aVZydrunas Ilgauskas CLE 01/24/1998 CLE vs. PHI W 20 16 7 13 53.8 0 0 - 2 2 100.0 5 2 7 1 0 2 0 4 -3
+p431
+aVCedric Henderson CLE 01/24/1998 CLE vs. PHI W 32 16 8 13 61.5 0 0 - 0 0 - 1 2 3 4 0 0 1 3 10
+p432
+aVDanny Ferry CLE 01/24/1998 CLE vs. PHI W 20 13 5 7 71.4 3 3 100.0 0 0 - 1 4 5 4 2 2 0 3 11
+p433
+aVHenry James CLE 01/24/1998 CLE vs. PHI W 3 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p434
+aVBrevin Knight CLE 01/24/1998 CLE vs. PHI W 36 8 1 5 20.0 0 0 - 6 6 100.0 0 1 1 11 8 0 2 2 26
+p435
+aVDerek Anderson CLE 01/22/1998 CLE vs. SAC W 21 9 4 8 50.0 1 3 33.3 0 1 0.0 1 0 1 5 1 0 0 2 10
+p436
+aVCedric Henderson CLE 01/22/1998 CLE vs. SAC W 41 16 8 16 50.0 0 0 - 0 0 - 0 4 4 5 4 1 3 2 17
+p437
+aVZydrunas Ilgauskas CLE 01/22/1998 CLE vs. SAC W 35 14 5 11 45.5 0 0 - 4 4 100.0 7 6 13 2 2 1 3 2 14
+p438
+aVWesley Person CLE 01/22/1998 CLE vs. SAC W 35 15 6 12 50.0 3 3 100.0 0 0 - 2 1 3 3 0 0 3 3 6
+p439
+aVHenry James CLE 01/22/1998 CLE vs. SAC W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p440
+aVVitaly Potapenko CLE 01/22/1998 CLE vs. SAC W 13 14 5 9 55.6 0 0 - 4 4 100.0 3 3 6 0 0 0 3 4 4
+p441
+aVBrevin Knight CLE 01/22/1998 CLE vs. SAC W 35 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 16 5 0 3 5 13
+p442
+aVShawn Kemp CLE 01/22/1998 CLE vs. SAC W 37 29 10 15 66.7 0 0 - 9 9 100.0 1 9 10 1 0 1 5 4 11
+p443
+aVShawnelle Scott CLE 01/22/1998 CLE vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p444
+aVDanny Ferry CLE 01/22/1998 CLE vs. SAC W 11 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 1 1 3
+p445
+aVScott Brooks CLE 01/22/1998 CLE vs. SAC W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p446
+aVShawn Kemp CLE 01/20/1998 CLE vs. POR L 43 31 13 27 48.1 0 0 - 5 6 83.3 6 14 20 3 0 3 3 2 2
+p447
+aVDerek Anderson CLE 01/20/1998 CLE vs. POR L 26 7 2 9 22.2 0 1 0.0 3 3 100.0 1 1 2 2 1 0 2 4 5
+p448
+aVVitaly Potapenko CLE 01/20/1998 CLE vs. POR L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 2 0 -10
+p449
+aVDanny Ferry CLE 01/20/1998 CLE vs. POR L 15 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 0 0 1 1 1 8
+p450
+aVBrevin Knight CLE 01/20/1998 CLE vs. POR L 39 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 8 7 0 4 2 1
+p451
+aVZydrunas Ilgauskas CLE 01/20/1998 CLE vs. POR L 27 14 5 12 41.7 0 0 - 4 4 100.0 5 3 8 2 0 1 3 1 -6
+p452
+aVScott Brooks CLE 01/20/1998 CLE vs. POR L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p453
+aVHenry James CLE 01/20/1998 CLE vs. POR L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p454
+aVWesley Person CLE 01/20/1998 CLE vs. POR L 32 6 2 7 28.6 2 4 50.0 0 0 - 0 2 2 3 0 1 1 1 -10
+p455
+aVCedric Henderson CLE 01/20/1998 CLE vs. POR L 39 12 4 12 33.3 0 0 - 4 6 66.7 3 6 9 5 0 0 2 1 2
+p456
+aVScott Brooks CLE 01/17/1998 CLE @ SEA L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 -9
+p457
+aVDanny Ferry CLE 01/17/1998 CLE @ SEA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -9
+p458
+aVCedric Henderson CLE 01/17/1998 CLE @ SEA L 45 23 10 15 66.7 0 0 - 3 5 60.0 2 3 5 2 2 1 1 5 -2
+p459
+aVZydrunas Ilgauskas CLE 01/17/1998 CLE @ SEA L 18 6 3 5 60.0 0 0 - 0 0 - 2 5 7 1 0 3 2 5 1
+p460
+aVVitaly Potapenko CLE 01/17/1998 CLE @ SEA L 27 10 5 8 62.5 0 0 - 0 0 - 2 0 2 1 0 0 2 1 -7
+p461
+aVBrevin Knight CLE 01/17/1998 CLE @ SEA L 35 5 2 10 20.0 0 0 - 1 2 50.0 3 3 6 11 3 0 4 5 -2
+p462
+aVHenry James CLE 01/17/1998 CLE @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p463
+aVTony Dumas CLE 01/17/1998 CLE @ SEA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p464
+aVShawn Kemp CLE 01/17/1998 CLE @ SEA L 30 17 5 11 45.5 0 0 - 7 10 70.0 0 7 7 3 2 2 4 4 4
+p465
+aVWesley Person CLE 01/17/1998 CLE @ SEA L 39 16 6 11 54.5 2 4 50.0 2 2 100.0 1 4 5 2 1 1 1 3 1
+p466
+aVDerek Anderson CLE 01/17/1998 CLE @ SEA L 28 14 4 7 57.1 0 1 0.0 6 6 100.0 1 1 2 3 1 0 5 2 -12
+p467
+aVDanny Ferry CLE 01/16/1998 CLE @ DEN W 8 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -9
+p468
+aVShawn Kemp CLE 01/16/1998 CLE @ DEN W 35 19 6 14 42.9 0 0 - 7 9 77.8 5 6 11 5 1 2 4 5 31
+p469
+aVCedric Henderson CLE 01/16/1998 CLE @ DEN W 36 15 5 11 45.5 0 0 - 5 6 83.3 2 4 6 1 1 1 3 4 18
+p470
+aVHenry James CLE 01/16/1998 CLE @ DEN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 1
+p471
+aVZydrunas Ilgauskas CLE 01/16/1998 CLE @ DEN W 21 10 5 7 71.4 0 0 - 0 2 0.0 3 8 11 0 0 1 1 4 4
+p472
+aVScott Brooks CLE 01/16/1998 CLE @ DEN W 12 3 1 3 33.3 0 1 0.0 1 1 100.0 1 1 2 4 2 0 1 2 1
+p473
+aVBrevin Knight CLE 01/16/1998 CLE @ DEN W 30 2 1 5 20.0 0 0 - 0 0 - 0 2 2 5 3 0 2 2 29
+p474
+aVWesley Person CLE 01/16/1998 CLE @ DEN W 37 20 7 15 46.7 2 4 50.0 4 7 57.1 0 4 4 1 1 0 1 0 13
+p475
+aVDerek Anderson CLE 01/16/1998 CLE @ DEN W 33 20 5 11 45.5 1 3 33.3 9 9 100.0 1 1 2 2 2 0 1 2 19
+p476
+aVVitaly Potapenko CLE 01/16/1998 CLE @ DEN W 22 6 2 5 40.0 0 0 - 2 6 33.3 1 5 6 1 1 1 1 4 17
+p477
+aVShawnelle Scott CLE 01/16/1998 CLE @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 0 1 1
+p478
+aVShawn Kemp CLE 01/13/1998 CLE @ PHX W 40 12 4 13 30.8 0 0 - 4 4 100.0 3 6 9 6 1 0 3 3 18
+p479
+aVShawnelle Scott CLE 01/13/1998 CLE @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p480
+aVZydrunas Ilgauskas CLE 01/13/1998 CLE @ PHX W 32 23 10 14 71.4 0 0 - 3 3 100.0 1 15 16 0 1 1 2 5 20
+p481
+aVVitaly Potapenko CLE 01/13/1998 CLE @ PHX W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 4 4 0 0 0 2 0 -7
+p482
+aVWesley Person CLE 01/13/1998 CLE @ PHX W 42 17 7 12 58.3 1 4 25.0 2 2 100.0 2 3 5 1 0 1 3 0 17
+p483
+aVScott Brooks CLE 01/13/1998 CLE @ PHX W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p484
+aVDerek Anderson CLE 01/13/1998 CLE @ PHX W 27 14 3 9 33.3 0 0 - 8 8 100.0 0 0 0 2 2 1 2 2 8
+p485
+aVBrevin Knight CLE 01/13/1998 CLE @ PHX W 35 15 6 10 60.0 0 1 0.0 3 4 75.0 0 3 3 8 0 0 3 2 16
+p486
+aVTony Dumas CLE 01/13/1998 CLE @ PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p487
+aVCedric Henderson CLE 01/13/1998 CLE @ PHX W 35 17 6 10 60.0 0 0 - 5 5 100.0 1 8 9 4 3 1 1 5 26
+p488
+aVDanny Ferry CLE 01/13/1998 CLE @ PHX W 5 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p489
+aVDerek Anderson CLE 01/12/1998 CLE @ UTA L 36 12 3 15 20.0 0 0 - 6 7 85.7 1 3 4 6 5 0 3 2 -6
+p490
+aVZydrunas Ilgauskas CLE 01/12/1998 CLE @ UTA L 41 26 12 21 57.1 0 1 0.0 2 2 100.0 9 9 18 0 0 3 2 1 -8
+p491
+aVShawn Kemp CLE 01/12/1998 CLE @ UTA L 35 18 6 15 40.0 0 0 - 6 10 60.0 1 6 7 1 1 1 6 5 -1
+p492
+aVDanny Ferry CLE 01/12/1998 CLE @ UTA L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p493
+aVVitaly Potapenko CLE 01/12/1998 CLE @ UTA L 10 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 1 1 2 3
+p494
+aVWesley Person CLE 01/12/1998 CLE @ UTA L 40 14 5 9 55.6 4 7 57.1 0 0 - 0 3 3 1 3 1 1 4 -6
+p495
+aVShawnelle Scott CLE 01/12/1998 CLE @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p496
+aVScott Brooks CLE 01/12/1998 CLE @ UTA L 15 7 2 2 100.0 1 1 100.0 2 2 100.0 0 1 1 2 0 0 0 3 1
+p497
+aVCedric Henderson CLE 01/12/1998 CLE @ UTA L 32 10 5 7 71.4 0 0 - 0 0 - 0 0 0 1 1 1 3 5 -14
+p498
+aVBrevin Knight CLE 01/12/1998 CLE @ UTA L 22 7 2 4 50.0 0 0 - 3 5 60.0 1 1 2 12 0 0 1 4 1
+p499
+aVWesley Person CLE 01/10/1998 CLE vs. TOR L 37 6 3 16 18.8 0 4 0.0 0 0 - 4 5 9 3 1 0 1 1 -7
+p500
+aVVitaly Potapenko CLE 01/10/1998 CLE vs. TOR L 17 4 2 7 28.6 0 0 - 0 0 - 3 2 5 1 0 1 0 2 -1
+p501
+aVBrevin Knight CLE 01/10/1998 CLE vs. TOR L 36 11 5 10 50.0 0 0 - 1 2 50.0 3 0 3 10 5 1 3 4 0
+p502
+aVHenry James CLE 01/10/1998 CLE vs. TOR L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p503
+aVDerek Anderson CLE 01/10/1998 CLE vs. TOR L 37 24 8 15 53.3 0 1 0.0 8 10 80.0 2 3 5 0 1 1 5 4 -6
+p504
+aVCedric Henderson CLE 01/10/1998 CLE vs. TOR L 34 19 8 15 53.3 0 0 - 3 3 100.0 2 2 4 4 1 0 2 4 -8
+p505
+aVZydrunas Ilgauskas CLE 01/10/1998 CLE vs. TOR L 18 10 5 7 71.4 0 0 - 0 0 - 3 5 8 0 0 0 1 3 -15
+p506
+aVScott Brooks CLE 01/10/1998 CLE vs. TOR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 1
+p507
+aVDanny Ferry CLE 01/10/1998 CLE vs. TOR L 14 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 3 0 2 0 0 -2
+p508
+aVShawn Kemp CLE 01/10/1998 CLE vs. TOR L 39 16 5 16 31.3 0 0 - 6 9 66.7 2 4 6 3 1 0 3 3 -5
+p509
+aVVitaly Potapenko CLE 01/08/1998 CLE vs. SEA L 15 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 2 0 0 0 6 -6
+p510
+aVBrevin Knight CLE 01/08/1998 CLE vs. SEA L 24 4 1 3 33.3 0 0 - 2 3 66.7 2 0 2 5 0 1 3 4 -11
+p511
+aVDanny Ferry CLE 01/08/1998 CLE vs. SEA L 18 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 1 0 1 1 2 9
+p512
+aVCedric Henderson CLE 01/08/1998 CLE vs. SEA L 31 11 5 10 50.0 0 0 - 1 2 50.0 3 6 9 2 3 0 3 3 -30
+p513
+aVZydrunas Ilgauskas CLE 01/08/1998 CLE vs. SEA L 19 10 5 7 71.4 0 0 - 0 0 - 3 0 3 1 0 2 1 3 -18
+p514
+aVScott Brooks CLE 01/08/1998 CLE vs. SEA L 12 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 3 2 0 0 2 9
+p515
+aVDerek Anderson CLE 01/08/1998 CLE vs. SEA L 23 4 1 7 14.3 0 1 0.0 2 2 100.0 0 1 1 6 2 1 4 1 -23
+p516
+aVTony Dumas CLE 01/08/1998 CLE vs. SEA L 16 4 2 5 40.0 0 1 0.0 0 3 0.0 1 2 3 1 0 0 3 1 -9
+p517
+aVShawnelle Scott CLE 01/08/1998 CLE vs. SEA L 11 2 0 3 0.0 0 0 - 2 2 100.0 2 2 4 1 0 2 0 1 8
+p518
+aVShawn Kemp CLE 01/08/1998 CLE vs. SEA L 29 9 2 11 18.2 0 0 - 5 8 62.5 3 3 6 3 2 0 3 2 -36
+p519
+aVWesley Person CLE 01/08/1998 CLE vs. SEA L 29 15 6 13 46.2 3 7 42.9 0 0 - 0 1 1 1 1 1 1 3 -27
+p520
+aVHenry James CLE 01/08/1998 CLE vs. SEA L 12 11 3 6 50.0 1 1 100.0 4 4 100.0 0 2 2 0 0 0 0 0 9
+p521
+aVVitaly Potapenko CLE 01/06/1998 CLE vs. HOU W 17 6 3 3 100.0 0 0 - 0 0 - 1 2 3 1 1 2 2 2 14
+p522
+aVWesley Person CLE 01/06/1998 CLE vs. HOU W 37 15 6 12 50.0 3 4 75.0 0 0 - 0 2 2 5 2 0 1 2 18
+p523
+aVCedric Henderson CLE 01/06/1998 CLE vs. HOU W 35 10 4 10 40.0 0 0 - 2 4 50.0 0 4 4 3 4 1 3 3 15
+p524
+aVTony Dumas CLE 01/06/1998 CLE vs. HOU W 14 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 2 0 0 0 2 14
+p525
+aVBrevin Knight CLE 01/06/1998 CLE vs. HOU W 26 12 6 8 75.0 0 0 - 0 0 - 1 3 4 8 2 0 4 2 14
+p526
+aVZydrunas Ilgauskas CLE 01/06/1998 CLE vs. HOU W 28 8 3 7 42.9 0 0 - 2 2 100.0 3 4 7 1 0 0 1 2 12
+p527
+aVHenry James CLE 01/06/1998 CLE vs. HOU W 3 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 5
+p528
+aVDanny Ferry CLE 01/06/1998 CLE vs. HOU W 18 6 2 2 100.0 0 0 - 2 2 100.0 2 3 5 1 0 1 0 2 16
+p529
+aVShawn Kemp CLE 01/06/1998 CLE vs. HOU W 30 14 5 10 50.0 0 0 - 4 5 80.0 1 11 12 2 1 1 5 1 13
+p530
+aVShawnelle Scott CLE 01/06/1998 CLE vs. HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 5
+p531
+aVDerek Anderson CLE 01/06/1998 CLE vs. HOU W 25 19 6 12 50.0 0 1 0.0 7 11 63.6 0 1 1 3 2 1 2 2 19
+p532
+aVScott Brooks CLE 01/06/1998 CLE vs. HOU W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 1 0 0 1 5
+p533
+aVDerek Anderson CLE 01/03/1998 CLE vs. NJN W 30 18 6 9 66.7 0 1 0.0 6 7 85.7 2 4 6 7 1 1 1 2 2
+p534
+aVCedric Henderson CLE 01/03/1998 CLE vs. NJN W 38 17 8 14 57.1 0 0 - 1 2 50.0 0 2 2 4 1 1 6 1 16
+p535
+aVVitaly Potapenko CLE 01/03/1998 CLE vs. NJN W 14 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 1 0 1 2 -5
+p536
+aVZydrunas Ilgauskas CLE 01/03/1998 CLE vs. NJN W 26 8 4 11 36.4 0 0 - 0 0 - 4 9 13 0 0 2 2 2 19
+p537
+aVShawn Kemp CLE 01/03/1998 CLE vs. NJN W 35 21 10 14 71.4 0 0 - 1 3 33.3 2 8 10 2 1 5 4 3 15
+p538
+aVBrevin Knight CLE 01/03/1998 CLE vs. NJN W 27 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 10 2 1 3 5 9
+p539
+aVTony Dumas CLE 01/03/1998 CLE vs. NJN W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 4
+p540
+aVDanny Ferry CLE 01/03/1998 CLE vs. NJN W 20 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 3 -2
+p541
+aVWesley Person CLE 01/03/1998 CLE vs. NJN W 45 13 5 19 26.3 3 7 42.9 0 0 - 1 3 4 4 1 1 1 1 14
+p542
+aVScott Brooks CLE 01/03/1998 CLE vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p543
+aVWesley Person CLE 01/02/1998 CLE @ ORL W 39 10 4 12 33.3 2 4 50.0 0 0 - 0 8 8 3 1 0 0 0 5
+p544
+aVCedric Henderson CLE 01/02/1998 CLE @ ORL W 18 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -1
+p545
+aVDanny Ferry CLE 01/02/1998 CLE @ ORL W 38 13 6 9 66.7 1 1 100.0 0 0 - 2 7 9 1 1 1 1 4 12
+p546
+aVVitaly Potapenko CLE 01/02/1998 CLE @ ORL W 16 10 3 11 27.3 0 0 - 4 4 100.0 6 0 6 0 2 1 3 3 -2
+p547
+aVBrevin Knight CLE 01/02/1998 CLE @ ORL W 37 6 2 8 25.0 0 0 - 2 2 100.0 2 0 2 4 1 0 3 3 16
+p548
+aVDerek Anderson CLE 01/02/1998 CLE @ ORL W 28 13 2 8 25.0 0 2 0.0 9 12 75.0 1 1 2 3 1 0 1 4 8
+p549
+aVZydrunas Ilgauskas CLE 01/02/1998 CLE @ ORL W 22 10 5 11 45.5 0 0 - 0 0 - 3 8 11 0 0 1 1 3 6
+p550
+aVShawn Kemp CLE 01/02/1998 CLE @ ORL W 40 17 7 15 46.7 0 0 - 3 4 75.0 3 6 9 2 1 1 6 5 9
+p551
+aVScott Brooks CLE 01/02/1998 CLE @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p552
+aVDerek Anderson CLE 12/30/1997 CLE vs. MIA L 30 12 4 13 30.8 0 2 0.0 4 4 100.0 0 2 2 5 2 0 2 2 -18
+p553
+aVShawn Kemp CLE 12/30/1997 CLE vs. MIA L 35 15 6 12 50.0 0 0 - 3 6 50.0 1 9 10 3 1 3 3 2 -15
+p554
+aVShawnelle Scott CLE 12/30/1997 CLE vs. MIA L 8 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 2 0 1
+p555
+aVCedric Henderson CLE 12/30/1997 CLE vs. MIA L 37 12 5 8 62.5 0 0 - 2 2 100.0 1 7 8 0 1 0 0 2 -19
+p556
+aVDanny Ferry CLE 12/30/1997 CLE vs. MIA L 17 3 1 4 25.0 0 0 - 1 1 100.0 0 3 3 2 0 0 1 1 8
+p557
+aVVitaly Potapenko CLE 12/30/1997 CLE vs. MIA L 9 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 5 -2
+p558
+aVWesley Person CLE 12/30/1997 CLE vs. MIA L 42 7 3 9 33.3 1 5 20.0 0 0 - 1 1 2 3 0 0 1 0 -6
+p559
+aVZydrunas Ilgauskas CLE 12/30/1997 CLE vs. MIA L 27 6 2 5 40.0 0 0 - 2 3 66.7 0 3 3 1 0 3 1 5 -16
+p560
+aVScott Brooks CLE 12/30/1997 CLE vs. MIA L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 3
+p561
+aVHenry James CLE 12/30/1997 CLE vs. MIA L 6 7 1 1 100.0 1 1 100.0 4 4 100.0 0 0 0 0 0 0 0 0 8
+p562
+aVBrevin Knight CLE 12/30/1997 CLE vs. MIA L 18 8 4 5 80.0 0 0 - 0 0 - 0 2 2 3 1 2 2 1 -4
+p563
+aVDanny Ferry CLE 12/26/1997 CLE @ CHH L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 1 1 1 0 2
+p564
+aVVitaly Potapenko CLE 12/26/1997 CLE @ CHH L 21 9 3 4 75.0 0 0 - 3 3 100.0 0 0 0 1 1 0 3 4 -8
+p565
+aVShawnelle Scott CLE 12/26/1997 CLE @ CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p566
+aVWesley Person CLE 12/26/1997 CLE @ CHH L 42 18 7 11 63.6 4 7 57.1 0 2 0.0 0 6 6 2 1 2 3 1 -4
+p567
+aVScott Brooks CLE 12/26/1997 CLE @ CHH L 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p568
+aVDerek Anderson CLE 12/26/1997 CLE @ CHH L 27 13 3 7 42.9 1 3 33.3 6 6 100.0 1 2 3 4 1 0 2 3 -8
+p569
+aVZydrunas Ilgauskas CLE 12/26/1997 CLE @ CHH L 31 11 4 6 66.7 0 0 - 3 4 75.0 2 6 8 3 1 2 4 4 -5
+p570
+aVCedric Henderson CLE 12/26/1997 CLE @ CHH L 40 10 5 8 62.5 0 0 - 0 0 - 0 0 0 4 3 0 2 5 -3
+p571
+aVShawn Kemp CLE 12/26/1997 CLE @ CHH L 28 12 4 5 80.0 0 0 - 4 4 100.0 1 8 9 2 1 0 5 6 -3
+p572
+aVBrevin Knight CLE 12/26/1997 CLE @ CHH L 24 9 4 9 44.4 0 0 - 1 2 50.0 0 0 0 7 1 0 5 3 -7
+p573
+aVWesley Person CLE 12/23/1997 CLE vs. DAL W 35 9 4 8 50.0 1 3 33.3 0 0 - 0 5 5 3 1 0 2 1 -7
+p574
+aVVitaly Potapenko CLE 12/23/1997 CLE vs. DAL W 19 8 4 8 50.0 0 0 - 0 0 - 0 3 3 2 0 0 2 3 -3
+p575
+aVBrevin Knight CLE 12/23/1997 CLE vs. DAL W 35 14 4 8 50.0 0 0 - 6 8 75.0 2 4 6 15 2 1 3 4 18
+p576
+aVShawn Kemp CLE 12/23/1997 CLE vs. DAL W 36 14 4 11 36.4 0 0 - 6 6 100.0 3 8 11 4 0 1 4 1 15
+p577
+aVZydrunas Ilgauskas CLE 12/23/1997 CLE vs. DAL W 21 8 3 7 42.9 0 0 - 2 3 66.7 0 7 7 1 1 4 4 2 17
+p578
+aVScott Brooks CLE 12/23/1997 CLE vs. DAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 0
+p579
+aVDanny Ferry CLE 12/23/1997 CLE vs. DAL W 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p580
+aVDerek Anderson CLE 12/23/1997 CLE vs. DAL W 37 24 9 19 47.4 1 3 33.3 5 5 100.0 1 3 4 0 1 1 0 2 18
+p581
+aVCedric Henderson CLE 12/23/1997 CLE vs. DAL W 41 20 10 14 71.4 0 0 - 0 0 - 3 4 7 1 2 0 1 4 16
+p582
+aVCedric Henderson CLE 12/21/1997 CLE vs. UTA W 23 4 2 7 28.6 0 0 - 0 0 - 0 3 3 1 1 0 1 4 0
+p583
+aVScott Brooks CLE 12/21/1997 CLE vs. UTA W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p584
+aVShawnelle Scott CLE 12/21/1997 CLE vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p585
+aVZydrunas Ilgauskas CLE 12/21/1997 CLE vs. UTA W 26 16 6 9 66.7 0 0 - 4 6 66.7 3 7 10 1 1 4 2 3 -2
+p586
+aVDanny Ferry CLE 12/21/1997 CLE vs. UTA W 23 7 2 8 25.0 1 3 33.3 2 2 100.0 2 1 3 2 3 2 0 0 4
+p587
+aVDerek Anderson CLE 12/21/1997 CLE vs. UTA W 31 23 3 6 50.0 1 3 33.3 16 16 100.0 2 3 5 5 1 0 0 4 5
+p588
+aVBrevin Knight CLE 12/21/1997 CLE vs. UTA W 37 15 4 9 44.4 0 0 - 7 9 77.8 1 0 1 7 4 0 1 4 9
+p589
+aVVitaly Potapenko CLE 12/21/1997 CLE vs. UTA W 11 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 3 1 3
+p590
+aVWesley Person CLE 12/21/1997 CLE vs. UTA W 45 11 5 15 33.3 1 8 12.5 0 0 - 0 0 0 2 1 1 0 2 1
+p591
+aVShawn Kemp CLE 12/21/1997 CLE vs. UTA W 39 24 7 13 53.8 0 0 - 10 14 71.4 0 11 11 2 2 3 5 4 2
+p592
+aVHenry James CLE 12/19/1997 CLE vs. NYK L 10 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 2
+p593
+aVZydrunas Ilgauskas CLE 12/19/1997 CLE vs. NYK L 29 16 7 14 50.0 0 1 0.0 2 2 100.0 5 8 13 2 0 2 4 4 -26
+p594
+aVShawnelle Scott CLE 12/19/1997 CLE vs. NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p595
+aVDerek Anderson CLE 12/19/1997 CLE vs. NYK L 28 16 5 9 55.6 0 0 - 6 7 85.7 0 1 1 1 0 0 2 1 -13
+p596
+aVBrevin Knight CLE 12/19/1997 CLE vs. NYK L 30 2 1 5 20.0 0 0 - 0 0 - 3 0 3 11 2 0 4 1 -17
+p597
+aVScott Brooks CLE 12/19/1997 CLE vs. NYK L 11 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 2 0 1 1 1
+p598
+aVVitaly Potapenko CLE 12/19/1997 CLE vs. NYK L 17 9 3 6 50.0 0 0 - 3 3 100.0 1 7 8 1 0 1 0 2 2
+p599
+aVCedric Henderson CLE 12/19/1997 CLE vs. NYK L 32 4 2 8 25.0 0 0 - 0 0 - 0 2 2 1 3 1 3 2 -25
+p600
+aVWesley Person CLE 12/19/1997 CLE vs. NYK L 34 9 4 9 44.4 1 4 25.0 0 1 0.0 0 1 1 1 0 0 2 3 -32
+p601
+aVDanny Ferry CLE 12/19/1997 CLE vs. NYK L 15 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 1 1 0 2 0 3
+p602
+aVShawn Kemp CLE 12/19/1997 CLE vs. NYK L 31 10 2 9 22.2 0 0 - 6 8 75.0 1 4 5 1 0 0 1 6 -29
+p603
+aVShawnelle Scott CLE 12/17/1997 CLE @ ATL L 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p604
+aVZydrunas Ilgauskas CLE 12/17/1997 CLE @ ATL L 31 10 5 11 45.5 0 0 - 0 0 - 7 7 14 3 1 3 4 3 -11
+p605
+aVVitaly Potapenko CLE 12/17/1997 CLE @ ATL L 12 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 2 1 0
+p606
+aVScott Brooks CLE 12/17/1997 CLE @ ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p607
+aVBrevin Knight CLE 12/17/1997 CLE @ ATL L 30 4 2 7 28.6 0 0 - 0 0 - 2 1 3 3 0 0 1 5 -5
+p608
+aVDanny Ferry CLE 12/17/1997 CLE @ ATL L 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 2 0 1 2
+p609
+aVHenry James CLE 12/17/1997 CLE @ ATL L 9 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 0 0 0 2 1 4
+p610
+aVDerek Anderson CLE 12/17/1997 CLE @ ATL L 34 20 7 12 58.3 0 1 0.0 6 6 100.0 1 3 4 3 1 1 3 1 0
+p611
+aVShawn Kemp CLE 12/17/1997 CLE @ ATL L 35 20 6 16 37.5 0 0 - 8 10 80.0 3 2 5 1 1 1 2 1 -13
+p612
+aVWesley Person CLE 12/17/1997 CLE @ ATL L 35 6 3 11 27.3 0 3 0.0 0 0 - 1 6 7 0 1 0 1 0 -21
+p613
+aVCedric Henderson CLE 12/17/1997 CLE @ ATL L 36 10 4 10 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 4 -17
+p614
+aVCedric Henderson CLE 12/16/1997 CLE vs. PHX W 21 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -6
+p615
+aVZydrunas Ilgauskas CLE 12/16/1997 CLE vs. PHX W 23 10 5 12 41.7 0 0 - 0 0 - 3 6 9 2 2 3 0 3 -12
+p616
+aVScott Brooks CLE 12/16/1997 CLE vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p617
+aVBrevin Knight CLE 12/16/1997 CLE vs. PHX W 33 16 6 7 85.7 0 0 - 4 4 100.0 0 2 2 12 4 0 2 4 20
+p618
+aVDanny Ferry CLE 12/16/1997 CLE vs. PHX W 18 2 0 2 0.0 0 1 0.0 2 3 66.7 0 1 1 1 0 0 1 1 12
+p619
+aVShawn Kemp CLE 12/16/1997 CLE vs. PHX W 34 21 6 17 35.3 0 0 - 9 14 64.3 3 8 11 3 0 0 6 4 19
+p620
+aVVitaly Potapenko CLE 12/16/1997 CLE vs. PHX W 20 10 3 4 75.0 0 0 - 4 8 50.0 2 2 4 2 0 1 0 3 7
+p621
+aVWesley Person CLE 12/16/1997 CLE vs. PHX W 43 13 5 11 45.5 3 5 60.0 0 0 - 0 4 4 2 4 0 3 1 -4
+p622
+aVDerek Anderson CLE 12/16/1997 CLE vs. PHX W 37 19 8 13 61.5 0 1 0.0 3 3 100.0 1 3 4 6 4 0 4 3 18
+p623
+aVHenry James CLE 12/16/1997 CLE vs. PHX W 11 6 1 2 50.0 1 1 100.0 3 3 100.0 0 1 1 1 0 0 1 1 11
+p624
+aVShawn Kemp CLE 12/13/1997 CLE vs. CHH L 39 25 9 16 56.3 0 0 - 7 8 87.5 1 6 7 0 0 2 4 3 -1
+p625
+aVHenry James CLE 12/13/1997 CLE vs. CHH L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p626
+aVCedric Henderson CLE 12/13/1997 CLE vs. CHH L 36 14 5 6 83.3 0 1 0.0 4 4 100.0 0 8 8 4 2 0 3 4 -2
+p627
+aVDerek Anderson CLE 12/13/1997 CLE vs. CHH L 36 13 5 9 55.6 0 1 0.0 3 3 100.0 2 3 5 4 0 0 5 3 -15
+p628
+aVBrevin Knight CLE 12/13/1997 CLE vs. CHH L 24 6 3 8 37.5 0 0 - 0 1 0.0 2 1 3 7 2 0 0 4 10
+p629
+aVWesley Person CLE 12/13/1997 CLE vs. CHH L 44 6 2 9 22.2 1 6 16.7 1 4 25.0 1 8 9 4 1 2 0 3 4
+p630
+aVDanny Ferry CLE 12/13/1997 CLE vs. CHH L 14 3 0 5 0.0 0 3 0.0 3 3 100.0 1 1 2 1 0 0 0 2 4
+p631
+aVVitaly Potapenko CLE 12/13/1997 CLE vs. CHH L 13 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 0 0 2 0 -11
+p632
+aVZydrunas Ilgauskas CLE 12/13/1997 CLE vs. CHH L 29 15 6 12 50.0 0 0 - 3 3 100.0 2 6 8 1 1 0 0 2 8
+p633
+aVZydrunas Ilgauskas CLE 12/11/1997 CLE @ MIL W 18 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 1 1 3 3 -8
+p634
+aVDerek Anderson CLE 12/11/1997 CLE @ MIL W 28 12 3 8 37.5 0 1 0.0 6 9 66.7 0 3 3 2 3 0 2 3 16
+p635
+aVBrevin Knight CLE 12/11/1997 CLE @ MIL W 40 6 3 10 30.0 0 0 - 0 0 - 0 2 2 6 7 0 4 3 -6
+p636
+aVVitaly Potapenko CLE 12/11/1997 CLE @ MIL W 18 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 0 1 1 3 2 3
+p637
+aVHenry James CLE 12/11/1997 CLE @ MIL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p638
+aVWesley Person CLE 12/11/1997 CLE @ MIL W 44 27 8 13 61.5 3 6 50.0 8 9 88.9 0 3 3 2 1 0 0 1 2
+p639
+aVDanny Ferry CLE 12/11/1997 CLE @ MIL W 21 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 2 2 15
+p640
+aVShawn Kemp CLE 12/11/1997 CLE @ MIL W 39 18 7 13 53.8 0 0 - 4 11 36.4 2 3 5 1 3 0 2 3 -4
+p641
+aVCedric Henderson CLE 12/11/1997 CLE @ MIL W 27 2 1 4 25.0 0 0 - 0 0 - 2 0 2 5 1 0 1 3 -10
+p642
+aVWesley Person CLE 12/10/1997 CLE vs. DEN W 40 18 7 14 50.0 3 5 60.0 1 2 50.0 1 2 3 6 1 0 0 1 27
+p643
+aVVitaly Potapenko CLE 12/10/1997 CLE vs. DEN W 13 5 1 5 20.0 0 0 - 3 4 75.0 2 1 3 0 0 1 1 1 -1
+p644
+aVCedric Henderson CLE 12/10/1997 CLE vs. DEN W 36 9 2 9 22.2 0 0 - 5 6 83.3 1 1 2 3 0 0 2 3 24
+p645
+aVDerek Anderson CLE 12/10/1997 CLE vs. DEN W 24 7 2 5 40.0 1 1 100.0 2 2 100.0 0 4 4 6 0 0 3 0 4
+p646
+aVZydrunas Ilgauskas CLE 12/10/1997 CLE vs. DEN W 22 12 4 9 44.4 0 0 - 4 6 66.7 3 4 7 0 1 0 1 3 9
+p647
+aVShawn Kemp CLE 12/10/1997 CLE vs. DEN W 37 17 7 14 50.0 0 0 - 3 5 60.0 2 10 12 4 3 2 1 4 24
+p648
+aVHenry James CLE 12/10/1997 CLE vs. DEN W 15 14 5 8 62.5 2 5 40.0 2 2 100.0 1 1 2 0 1 0 2 0 -8
+p649
+aVShawnelle Scott CLE 12/10/1997 CLE vs. DEN W 3 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -3
+p650
+aVDanny Ferry CLE 12/10/1997 CLE vs. DEN W 24 7 3 8 37.5 0 2 0.0 1 1 100.0 0 1 1 2 2 0 1 1 8
+p651
+aVBrevin Knight CLE 12/10/1997 CLE vs. DEN W 27 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 7 3 0 1 3 11
+p652
+aVHenry James CLE 12/07/1997 CLE @ LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p653
+aVShawn Kemp CLE 12/07/1997 CLE @ LAL W 29 11 4 14 28.6 0 0 - 3 4 75.0 3 10 13 0 0 2 5 6 21
+p654
+aVBrevin Knight CLE 12/07/1997 CLE @ LAL W 31 6 2 8 25.0 0 0 - 2 2 100.0 0 4 4 7 2 1 3 4 13
+p655
+aVVitaly Potapenko CLE 12/07/1997 CLE @ LAL W 15 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 0 0 0 1 3 -10
+p656
+aVCedric Henderson CLE 12/07/1997 CLE @ LAL W 31 14 5 9 55.6 0 0 - 4 6 66.7 2 3 5 0 1 2 1 5 20
+p657
+aVDanny Ferry CLE 12/07/1997 CLE @ LAL W 27 9 3 9 33.3 0 2 0.0 3 4 75.0 1 3 4 3 0 0 2 3 -12
+p658
+aVMitchell Butler CLE 12/07/1997 CLE @ LAL W 10 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 3 -7
+p659
+aVDerek Anderson CLE 12/07/1997 CLE @ LAL W 27 8 4 11 36.4 0 1 0.0 0 1 0.0 0 2 2 1 0 0 0 2 -11
+p660
+aVWesley Person CLE 12/07/1997 CLE @ LAL W 43 22 8 14 57.1 3 6 50.0 3 3 100.0 2 6 8 4 2 0 1 1 18
+p661
+aVZydrunas Ilgauskas CLE 12/07/1997 CLE @ LAL W 25 12 5 9 55.6 0 0 - 2 3 66.7 4 6 10 1 2 0 1 6 21
+p662
+aVShawn Kemp CLE 12/05/1997 CLE @ VAN W 39 25 11 22 50.0 0 0 - 3 5 60.0 5 6 11 3 3 2 4 3 20
+p663
+aVDerek Anderson CLE 12/05/1997 CLE @ VAN W 20 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 1 1 0 2 2 -1
+p664
+aVCedric Henderson CLE 12/05/1997 CLE @ VAN W 28 11 4 9 44.4 0 1 0.0 3 4 75.0 1 5 6 3 2 0 0 4 11
+p665
+aVBrevin Knight CLE 12/05/1997 CLE @ VAN W 43 16 3 9 33.3 0 0 - 10 12 83.3 1 3 4 10 5 0 4 3 6
+p666
+aVShawnelle Scott CLE 12/05/1997 CLE @ VAN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p667
+aVDanny Ferry CLE 12/05/1997 CLE @ VAN W 26 15 6 8 75.0 3 3 100.0 0 0 - 2 2 4 2 0 0 4 5 3
+p668
+aVVitaly Potapenko CLE 12/05/1997 CLE @ VAN W 15 4 1 7 14.3 0 0 - 2 3 66.7 2 2 4 0 0 0 1 4 -4
+p669
+aVWesley Person CLE 12/05/1997 CLE @ VAN W 40 30 11 16 68.8 7 11 63.6 1 1 100.0 2 1 3 3 1 1 3 2 11
+p670
+aVHenry James CLE 12/05/1997 CLE @ VAN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 1
+p671
+aVMitchell Butler CLE 12/05/1997 CLE @ VAN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p672
+aVZydrunas Ilgauskas CLE 12/05/1997 CLE @ VAN W 19 2 1 6 16.7 0 0 - 0 1 0.0 4 8 12 0 0 1 3 5 10
+p673
+aVWesley Person CLE 12/03/1997 CLE @ GSW W 36 24 10 17 58.8 2 5 40.0 2 2 100.0 2 4 6 2 3 0 1 0 13
+p674
+aVBrevin Knight CLE 12/03/1997 CLE @ GSW W 35 10 5 10 50.0 0 0 - 0 0 - 1 4 5 8 5 0 2 4 23
+p675
+aVCedric Henderson CLE 12/03/1997 CLE @ GSW W 28 11 5 9 55.6 0 0 - 1 2 50.0 1 3 4 4 2 1 4 2 3
+p676
+aVMitchell Butler CLE 12/03/1997 CLE @ GSW W 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 16
+p677
+aVDerek Anderson CLE 12/03/1997 CLE @ GSW W 30 13 2 6 33.3 0 0 - 9 9 100.0 0 3 3 6 4 0 2 1 24
+p678
+aVHenry James CLE 12/03/1997 CLE @ GSW W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 5
+p679
+aVDanny Ferry CLE 12/03/1997 CLE @ GSW W 22 12 5 9 55.6 2 3 66.7 0 0 - 1 3 4 3 1 0 1 4 23
+p680
+aVVitaly Potapenko CLE 12/03/1997 CLE @ GSW W 21 13 6 11 54.5 0 0 - 1 3 33.3 1 7 8 1 2 0 2 0 22
+p681
+aVShawnelle Scott CLE 12/03/1997 CLE @ GSW W 1 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p682
+aVShawn Kemp CLE 12/03/1997 CLE @ GSW W 30 6 2 17 11.8 0 1 0.0 2 2 100.0 2 2 4 2 0 0 0 1 3
+p683
+aVZydrunas Ilgauskas CLE 12/03/1997 CLE @ GSW W 22 4 1 10 10.0 0 0 - 2 4 50.0 8 2 10 1 1 2 0 1 3
+p684
+aVCedric Henderson CLE 11/29/1997 CLE vs. BOS W 42 15 4 9 44.4 0 0 - 7 9 77.8 2 3 5 4 1 0 6 2 5
+p685
+aVWesley Person CLE 11/29/1997 CLE vs. BOS W 41 14 5 7 71.4 4 5 80.0 0 0 - 1 2 3 3 2 0 0 0 2
+p686
+aVVitaly Potapenko CLE 11/29/1997 CLE vs. BOS W 16 11 3 6 50.0 0 0 - 5 6 83.3 0 3 3 1 0 0 3 2 0
+p687
+aVDanny Ferry CLE 11/29/1997 CLE vs. BOS W 26 11 5 7 71.4 1 2 50.0 0 0 - 0 0 0 1 2 0 2 2 5
+p688
+aVMitchell Butler CLE 11/29/1997 CLE vs. BOS W 13 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 2 5
+p689
+aVShawn Kemp CLE 11/29/1997 CLE vs. BOS W 29 18 6 9 66.7 0 0 - 6 9 66.7 3 8 11 2 1 2 10 2 0
+p690
+aVZydrunas Ilgauskas CLE 11/29/1997 CLE vs. BOS W 24 16 4 5 80.0 0 0 - 8 8 100.0 1 6 7 0 0 3 3 5 6
+p691
+aVGreg Graham CLE 11/29/1997 CLE vs. BOS W 11 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 3 2 -1
+p692
+aVDerek Anderson CLE 11/29/1997 CLE vs. BOS W 38 12 2 5 40.0 0 0 - 8 10 80.0 1 6 7 9 0 0 2 3 8
+p693
+aVDerek Anderson CLE 11/28/1997 CLE @ CHH W 40 12 4 10 40.0 0 0 - 4 6 66.7 3 2 5 14 2 0 3 2 2
+p694
+aVWesley Person CLE 11/28/1997 CLE @ CHH W 46 33 14 23 60.9 3 10 30.0 2 4 50.0 2 4 6 5 4 0 1 3 8
+p695
+aVDanny Ferry CLE 11/28/1997 CLE @ CHH W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p696
+aVCedric Henderson CLE 11/28/1997 CLE @ CHH W 27 12 6 9 66.7 0 0 - 0 2 0.0 0 1 1 3 2 0 4 4 -3
+p697
+aVGreg Graham CLE 11/28/1997 CLE @ CHH W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 4
+p698
+aVZydrunas Ilgauskas CLE 11/28/1997 CLE @ CHH W 28 15 6 9 66.7 0 0 - 3 7 42.9 6 4 10 1 0 1 2 4 4
+p699
+aVShawn Kemp CLE 11/28/1997 CLE @ CHH W 42 13 6 15 40.0 0 0 - 1 2 50.0 2 9 11 0 2 2 4 4 5
+p700
+aVMitchell Butler CLE 11/28/1997 CLE @ CHH W 19 3 1 5 20.0 0 0 - 1 2 50.0 0 3 3 2 0 0 0 2 12
+p701
+aVHenry James CLE 11/28/1997 CLE @ CHH W 5 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 3 -5
+p702
+aVVitaly Potapenko CLE 11/28/1997 CLE @ CHH W 19 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 0 3 4
+p703
+aVZydrunas Ilgauskas CLE 11/26/1997 CLE @ PHI W 26 10 5 10 50.0 0 0 - 0 0 - 6 5 11 1 2 3 3 3 -1
+p704
+aVShawnelle Scott CLE 11/26/1997 CLE @ PHI W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 6
+p705
+aVDanny Ferry CLE 11/26/1997 CLE @ PHI W 13 8 3 5 60.0 1 1 100.0 1 3 33.3 1 1 2 0 1 1 1 1 -2
+p706
+aVShawn Kemp CLE 11/26/1997 CLE @ PHI W 28 18 7 15 46.7 0 1 0.0 4 6 66.7 4 4 8 2 1 1 1 5 10
+p707
+aVWesley Person CLE 11/26/1997 CLE @ PHI W 43 18 5 15 33.3 3 10 30.0 5 6 83.3 1 8 9 6 6 0 4 2 5
+p708
+aVMitchell Butler CLE 11/26/1997 CLE @ PHI W 13 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 3 0 0 2 2 1
+p709
+aVVitaly Potapenko CLE 11/26/1997 CLE @ PHI W 24 12 5 8 62.5 0 0 - 2 2 100.0 1 2 3 1 0 0 1 4 -3
+p710
+aVDerek Anderson CLE 11/26/1997 CLE @ PHI W 33 12 4 9 44.4 0 0 - 4 4 100.0 0 2 2 6 2 0 5 1 4
+p711
+aVCedric Henderson CLE 11/26/1997 CLE @ PHI W 30 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 0 1 0 4 5 14
+p712
+aVBrevin Knight CLE 11/26/1997 CLE @ PHI W 18 8 3 6 50.0 0 0 - 2 4 50.0 0 1 1 3 1 0 3 1 7
+p713
+aVGreg Graham CLE 11/26/1997 CLE @ PHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -11
+p714
+aVZydrunas Ilgauskas CLE 11/22/1997 CLE vs. WAS W 29 9 4 7 57.1 0 0 - 1 2 50.0 2 3 5 0 2 1 0 4 15
+p715
+aVBrevin Knight CLE 11/22/1997 CLE vs. WAS W 37 13 4 6 66.7 0 0 - 5 6 83.3 0 2 2 20 4 0 3 4 12
+p716
+aVDerek Anderson CLE 11/22/1997 CLE vs. WAS W 16 12 3 4 75.0 0 0 - 6 6 100.0 0 0 0 0 0 0 2 4 -5
+p717
+aVDanny Ferry CLE 11/22/1997 CLE vs. WAS W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -4
+p718
+aVCedric Henderson CLE 11/22/1997 CLE vs. WAS W 41 13 5 8 62.5 0 0 - 3 4 75.0 1 6 7 1 1 1 4 4 9
+p719
+aVGreg Graham CLE 11/22/1997 CLE vs. WAS W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p720
+aVWesley Person CLE 11/22/1997 CLE vs. WAS W 43 31 9 15 60.0 5 8 62.5 8 9 88.9 0 3 3 5 2 1 1 2 13
+p721
+aVMitchell Butler CLE 11/22/1997 CLE vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p722
+aVShawn Kemp CLE 11/22/1997 CLE vs. WAS W 36 24 11 17 64.7 0 0 - 2 3 66.7 0 10 10 3 1 2 6 5 14
+p723
+aVShawnelle Scott CLE 11/22/1997 CLE vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p724
+aVVitaly Potapenko CLE 11/22/1997 CLE vs. WAS W 18 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 1 2 1 2 -2
+p725
+aVDanny Ferry CLE 11/21/1997 CLE @ MIN W 19 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 1 0 0 1 4
+p726
+aVMitchell Butler CLE 11/21/1997 CLE @ MIN W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 2 1 0 1 0 0
+p727
+aVDerek Anderson CLE 11/21/1997 CLE @ MIN W 17 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 0 1 -10
+p728
+aVZydrunas Ilgauskas CLE 11/21/1997 CLE @ MIN W 18 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 1 0 4 21
+p729
+aVCedric Henderson CLE 11/21/1997 CLE @ MIN W 28 19 8 10 80.0 0 0 - 3 5 60.0 0 4 4 0 2 0 2 3 33
+p730
+aVWesley Person CLE 11/21/1997 CLE @ MIN W 35 22 8 15 53.3 2 5 40.0 4 4 100.0 1 0 1 4 1 1 3 1 27
+p731
+aVShawnelle Scott CLE 11/21/1997 CLE @ MIN W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 0
+p732
+aVBrevin Knight CLE 11/21/1997 CLE @ MIN W 38 9 3 9 33.3 0 0 - 3 3 100.0 2 6 8 13 5 0 7 4 33
+p733
+aVVitaly Potapenko CLE 11/21/1997 CLE @ MIN W 23 18 7 12 58.3 0 0 - 4 6 66.7 2 2 4 0 0 0 3 0 -2
+p734
+aVHenry James CLE 11/21/1997 CLE @ MIN W 9 7 2 3 66.7 1 1 100.0 2 3 66.7 0 0 0 0 0 0 0 3 -4
+p735
+aVShawn Kemp CLE 11/21/1997 CLE @ MIN W 33 19 8 11 72.7 0 0 - 3 4 75.0 0 8 8 2 1 2 1 5 23
+p736
+aVGreg Graham CLE 11/21/1997 CLE @ MIN W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 2 -10
+p737
+aVCedric Henderson CLE 11/19/1997 CLE vs. ORL L 23 13 6 7 85.7 0 0 - 1 1 100.0 0 4 4 5 2 1 2 1 4
+p738
+aVMitchell Butler CLE 11/19/1997 CLE vs. ORL L 8 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p739
+aVDanny Ferry CLE 11/19/1997 CLE vs. ORL L 11 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 0
+p740
+aVWesley Person CLE 11/19/1997 CLE vs. ORL L 39 17 7 19 36.8 2 6 33.3 1 1 100.0 1 3 4 2 6 1 4 1 -6
+p741
+aVShawn Kemp CLE 11/19/1997 CLE vs. ORL L 44 18 8 25 32.0 0 1 0.0 2 5 40.0 5 7 12 2 2 3 2 3 -6
+p742
+aVDerek Anderson CLE 11/19/1997 CLE vs. ORL L 38 2 1 5 20.0 0 0 - 0 0 - 2 5 7 3 1 1 3 3 -5
+p743
+aVBrevin Knight CLE 11/19/1997 CLE vs. ORL L 37 4 2 6 33.3 0 0 - 0 0 - 1 1 2 8 0 1 3 4 -10
+p744
+aVGreg Graham CLE 11/19/1997 CLE vs. ORL L 14 10 4 5 80.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 2 1 3
+p745
+aVVitaly Potapenko CLE 11/19/1997 CLE vs. ORL L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 1 1 4 6
+p746
+aVZydrunas Ilgauskas CLE 11/19/1997 CLE vs. ORL L 42 21 9 16 56.3 0 0 - 3 6 50.0 6 9 15 0 1 5 1 5 -2
+p747
+aVBob Sura CLE 11/16/1997 CLE vs. NJN L 14 5 1 4 25.0 1 1 100.0 2 4 50.0 0 1 1 1 0 0 3 1 -6
+p748
+aVVitaly Potapenko CLE 11/16/1997 CLE vs. NJN L 19 10 3 5 60.0 0 0 - 4 4 100.0 1 6 7 1 0 1 4 3 -10
+p749
+aVBrevin Knight CLE 11/16/1997 CLE vs. NJN L 34 4 2 5 40.0 0 0 - 0 0 - 0 2 2 8 2 1 1 4 1
+p750
+aVWesley Person CLE 11/16/1997 CLE vs. NJN L 42 14 6 12 50.0 0 5 0.0 2 2 100.0 1 3 4 0 1 0 2 1 -3
+p751
+aVShawn Kemp CLE 11/16/1997 CLE vs. NJN L 30 14 5 11 45.5 0 0 - 4 8 50.0 2 9 11 0 1 3 3 5 3
+p752
+aVMitchell Butler CLE 11/16/1997 CLE vs. NJN L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p753
+aVDerek Anderson CLE 11/16/1997 CLE vs. NJN L 41 8 2 8 25.0 0 2 0.0 4 4 100.0 1 4 5 4 1 0 3 5 2
+p754
+aVZydrunas Ilgauskas CLE 11/16/1997 CLE vs. NJN L 32 13 4 9 44.4 0 0 - 5 6 83.3 3 7 10 1 0 3 2 3 6
+p755
+aVDanny Ferry CLE 11/16/1997 CLE vs. NJN L 14 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 1 0 0 0 0 -6
+p756
+aVCedric Henderson CLE 11/16/1997 CLE vs. NJN L 6 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 1 -5
+p757
+aVVitaly Potapenko CLE 11/15/1997 CLE @ CHI L 21 4 1 4 25.0 0 0 - 2 4 50.0 6 6 12 1 0 0 0 2 3
+p758
+aVDerek Anderson CLE 11/15/1997 CLE @ CHI L 33 12 5 11 45.5 0 3 0.0 2 2 100.0 1 1 2 2 1 0 5 4 -1
+p759
+aVMitchell Butler CLE 11/15/1997 CLE @ CHI L 10 2 1 8 12.5 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p760
+aVWesley Person CLE 11/15/1997 CLE @ CHI L 31 8 3 11 27.3 1 3 33.3 1 1 100.0 0 5 5 2 1 0 1 0 -17
+p761
+aVShawnelle Scott CLE 11/15/1997 CLE @ CHI L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p762
+aVShawn Kemp CLE 11/15/1997 CLE @ CHI L 38 11 5 12 41.7 0 1 0.0 1 2 50.0 3 12 15 1 1 1 3 2 -11
+p763
+aVZydrunas Ilgauskas CLE 11/15/1997 CLE @ CHI L 26 10 5 10 50.0 0 0 - 0 2 0.0 6 2 8 0 0 0 2 2 -3
+p764
+aVBob Sura CLE 11/15/1997 CLE @ CHI L 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 0 6 2 -5
+p765
+aVCedric Henderson CLE 11/15/1997 CLE @ CHI L 18 6 3 8 37.5 0 0 - 0 4 0.0 2 2 4 1 1 0 1 3 4
+p766
+aVBrevin Knight CLE 11/15/1997 CLE @ CHI L 37 10 3 8 37.5 0 0 - 4 4 100.0 0 1 1 5 5 0 5 4 -3
+p767
+aVDanny Ferry CLE 11/15/1997 CLE @ CHI L 11 1 0 1 0.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 1 1 -9
+p768
+aVVitaly Potapenko CLE 11/13/1997 CLE @ NJN W 14 10 4 6 66.7 0 0 - 2 2 100.0 3 0 3 0 0 1 4 3 -1
+p769
+aVDanny Ferry CLE 11/13/1997 CLE @ NJN W 13 3 0 2 0.0 0 1 0.0 3 3 100.0 0 3 3 0 0 0 1 4 1
+p770
+aVDerek Anderson CLE 11/13/1997 CLE @ NJN W 40 11 3 8 37.5 0 0 - 5 5 100.0 2 1 3 3 1 0 4 1 15
+p771
+aVMitchell Butler CLE 11/13/1997 CLE @ NJN W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -9
+p772
+aVBrevin Knight CLE 11/13/1997 CLE @ NJN W 35 12 5 13 38.5 0 0 - 2 4 50.0 1 3 4 9 6 0 2 4 10
+p773
+aVWesley Person CLE 11/13/1997 CLE @ NJN W 41 20 8 13 61.5 3 6 50.0 1 1 100.0 1 3 4 3 2 0 0 0 14
+p774
+aVCedric Henderson CLE 11/13/1997 CLE @ NJN W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p775
+aVBob Sura CLE 11/13/1997 CLE @ NJN W 19 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 4 1 0 1 3 6
+p776
+aVShawn Kemp CLE 11/13/1997 CLE @ NJN W 22 7 3 9 33.3 0 0 - 1 2 50.0 2 3 5 0 0 1 3 5 5
+p777
+aVZydrunas Ilgauskas CLE 11/13/1997 CLE @ NJN W 35 20 7 12 58.3 0 0 - 6 7 85.7 2 6 8 0 1 2 3 4 6
+p778
+aVShawnelle Scott CLE 11/13/1997 CLE @ NJN W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 9
+p779
+aVShawn Kemp CLE 11/11/1997 CLE vs. CHI W 31 21 8 13 61.5 1 1 100.0 4 5 80.0 2 7 9 1 1 1 3 4 17
+p780
+aVShawnelle Scott CLE 11/11/1997 CLE vs. CHI W 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 -4
+p781
+aVDanny Ferry CLE 11/11/1997 CLE vs. CHI W 13 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 3 1
+p782
+aVZydrunas Ilgauskas CLE 11/11/1997 CLE vs. CHI W 25 11 4 11 36.4 0 0 - 3 4 75.0 3 2 5 0 0 1 2 1 17
+p783
+aVBob Sura CLE 11/11/1997 CLE vs. CHI W 24 6 1 4 25.0 0 2 0.0 4 7 57.1 0 2 2 7 0 1 3 1 11
+p784
+aVWesley Person CLE 11/11/1997 CLE vs. CHI W 33 17 8 13 61.5 1 4 25.0 0 0 - 2 4 6 3 3 0 0 0 9
+p785
+aVDerek Anderson CLE 11/11/1997 CLE vs. CHI W 21 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 4 8
+p786
+aVMitchell Butler CLE 11/11/1997 CLE vs. CHI W 22 11 5 5 100.0 1 1 100.0 0 0 - 0 1 1 1 4 0 0 3 13
+p787
+aVBrevin Knight CLE 11/11/1997 CLE vs. CHI W 26 10 5 8 62.5 0 0 - 0 0 - 1 6 7 7 4 0 2 3 14
+p788
+aVCedric Henderson CLE 11/11/1997 CLE vs. CHI W 13 10 4 5 80.0 0 0 - 2 2 100.0 0 2 2 2 0 0 2 2 12
+p789
+aVHenry James CLE 11/11/1997 CLE vs. CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p790
+aVVitaly Potapenko CLE 11/11/1997 CLE vs. CHI W 22 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 1 2 3 11
+p791
+aVHenry James CLE 11/08/1997 CLE vs. ATL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p792
+aVShawn Kemp CLE 11/08/1997 CLE vs. ATL L 38 28 13 24 54.2 1 1 100.0 1 2 50.0 2 3 5 2 3 1 3 6 -4
+p793
+aVWesley Person CLE 11/08/1997 CLE vs. ATL L 39 15 6 16 37.5 3 9 33.3 0 0 - 1 3 4 2 3 0 0 0 0
+p794
+aVVitaly Potapenko CLE 11/08/1997 CLE vs. ATL L 35 16 8 17 47.1 0 0 - 0 0 - 8 6 14 2 0 1 1 3 6
+p795
+aVDanny Ferry CLE 11/08/1997 CLE vs. ATL L 22 6 2 7 28.6 2 5 40.0 0 0 - 0 1 1 2 1 0 0 2 1
+p796
+aVCedric Henderson CLE 11/08/1997 CLE vs. ATL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p797
+aVBrevin Knight CLE 11/08/1997 CLE vs. ATL L 40 12 4 11 36.4 0 0 - 4 6 66.7 2 3 5 10 1 1 1 3 2
+p798
+aVDerek Anderson CLE 11/08/1997 CLE vs. ATL L 47 12 4 11 36.4 0 2 0.0 4 4 100.0 1 3 4 5 2 0 2 3 -9
+p799
+aVMitchell Butler CLE 11/08/1997 CLE vs. ATL L 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 2 3
+p800
+aVZydrunas Ilgauskas CLE 11/08/1997 CLE vs. ATL L 11 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -6
+p801
+aVVitaly Potapenko CLE 11/07/1997 CLE @ BOS W 11 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 0 2 3 -9
+p802
+aVBrevin Knight CLE 11/07/1997 CLE @ BOS W 33 9 2 6 33.3 0 0 - 5 8 62.5 0 0 0 11 3 0 3 3 15
+p803
+aVMitchell Butler CLE 11/07/1997 CLE @ BOS W 21 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -10
+p804
+aVCedric Henderson CLE 11/07/1997 CLE @ BOS W 12 6 3 5 60.0 0 0 - 0 2 0.0 0 0 0 0 0 1 2 3 -3
+p805
+aVShawn Kemp CLE 11/07/1997 CLE @ BOS W 39 28 8 13 61.5 0 0 - 12 13 92.3 6 9 15 2 1 0 5 4 10
+p806
+aVWesley Person CLE 11/07/1997 CLE @ BOS W 41 26 7 17 41.2 5 12 41.7 7 8 87.5 0 3 3 3 3 0 2 1 10
+p807
+aVDanny Ferry CLE 11/07/1997 CLE @ BOS W 26 6 1 6 16.7 0 2 0.0 4 4 100.0 0 5 5 0 0 0 1 1 -2
+p808
+aVZydrunas Ilgauskas CLE 11/07/1997 CLE @ BOS W 14 2 1 5 20.0 0 0 - 0 1 0.0 2 1 3 0 1 0 0 5 6
+p809
+aVDerek Anderson CLE 11/07/1997 CLE @ BOS W 43 17 5 11 45.5 0 2 0.0 7 10 70.0 2 4 6 4 1 0 2 4 3
+p810
+aVBob Sura CLE 11/04/1997 CLE vs. IND W 25 2 1 4 25.0 0 0 - 0 1 0.0 1 2 3 6 1 1 6 3 5
+p811
+aVCedric Henderson CLE 11/04/1997 CLE vs. IND W 14 6 3 8 37.5 0 0 - 0 0 - 1 1 2 0 1 1 0 2 6
+p812
+aVDanny Ferry CLE 11/04/1997 CLE vs. IND W 16 9 4 7 57.1 1 2 50.0 0 0 - 0 4 4 0 0 0 1 4 1
+p813
+aVWesley Person CLE 11/04/1997 CLE vs. IND W 36 12 5 6 83.3 0 1 0.0 2 3 66.7 2 2 4 2 1 1 1 2 -3
+p814
+aVMitchell Butler CLE 11/04/1997 CLE vs. IND W 11 2 1 3 33.3 0 0 - 0 0 - 2 2 4 2 0 0 1 1 6
+p815
+aVShawn Kemp CLE 11/04/1997 CLE vs. IND W 33 18 8 19 42.1 0 0 - 2 3 66.7 4 4 8 2 1 2 4 1 2
+p816
+aVDerek Anderson CLE 11/04/1997 CLE vs. IND W 38 13 5 12 41.7 1 3 33.3 2 4 50.0 1 1 2 2 3 1 1 3 -2
+p817
+aVVitaly Potapenko CLE 11/04/1997 CLE vs. IND W 17 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 2 0
+p818
+aVBrevin Knight CLE 11/04/1997 CLE vs. IND W 24 4 2 8 25.0 0 1 0.0 0 0 - 1 4 5 9 2 0 1 3 0
+p819
+aVZydrunas Ilgauskas CLE 11/04/1997 CLE vs. IND W 27 8 3 9 33.3 0 0 - 2 2 100.0 3 2 5 0 2 0 2 2 0
+p820
+aVZydrunas Ilgauskas CLE 11/01/1997 CLE @ SAS L 26 13 5 11 45.5 0 0 - 3 4 75.0 5 4 9 0 1 1 1 5 4
+p821
+aVVitaly Potapenko CLE 11/01/1997 CLE @ SAS L 13 10 3 5 60.0 0 0 - 4 6 66.7 1 2 3 0 0 0 1 0 4
+p822
+aVBob Sura CLE 11/01/1997 CLE @ SAS L 38 5 2 7 28.6 0 2 0.0 1 4 25.0 2 1 3 4 2 0 2 3 -2
+p823
+aVDanny Ferry CLE 11/01/1997 CLE @ SAS L 19 2 1 7 14.3 0 4 0.0 0 0 - 0 0 0 0 0 0 0 4 -9
+p824
+aVDerek Anderson CLE 11/01/1997 CLE @ SAS L 31 13 2 11 18.2 1 4 25.0 8 8 100.0 2 4 6 2 3 0 2 1 -17
+p825
+aVCedric Henderson CLE 11/01/1997 CLE @ SAS L 15 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 4 0 0 1 0 10
+p826
+aVBrevin Knight CLE 11/01/1997 CLE @ SAS L 24 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 3 3 0 1 3 4
+p827
+aVShawnelle Scott CLE 11/01/1997 CLE @ SAS L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 1
+p828
+aVShawn Kemp CLE 11/01/1997 CLE @ SAS L 35 26 10 25 40.0 0 0 - 6 7 85.7 4 6 10 1 3 1 6 5 -6
+p829
+aVMitchell Butler CLE 11/01/1997 CLE @ SAS L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 2
+p830
+aVWesley Person CLE 11/01/1997 CLE @ SAS L 31 6 2 7 28.6 2 5 40.0 0 0 - 2 4 6 4 3 0 1 1 -6
+p831
+aVBrevin Knight CLE 10/31/1997 CLE @ HOU L 24 18 5 9 55.6 0 0 - 8 10 80.0 1 1 2 2 3 0 1 5 0
+p832
+aVMitchell Butler CLE 10/31/1997 CLE @ HOU L 20 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 3 -3
+p833
+aVShawnelle Scott CLE 10/31/1997 CLE @ HOU L 15 5 2 2 100.0 0 0 - 1 4 25.0 5 2 7 0 0 0 2 2 -11
+p834
+aVWesley Person CLE 10/31/1997 CLE @ HOU L 36 10 5 14 35.7 0 7 0.0 0 0 - 2 5 7 1 2 0 2 1 -12
+p835
+aVDanny Ferry CLE 10/31/1997 CLE @ HOU L 31 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 2 2 -7
+p836
+aVBob Sura CLE 10/31/1997 CLE @ HOU L 39 11 5 20 25.0 0 4 0.0 1 2 50.0 1 1 2 6 5 0 2 5 3
+p837
+aVCedric Henderson CLE 10/31/1997 CLE @ HOU L 21 10 4 7 57.1 0 0 - 2 6 33.3 4 0 4 0 1 0 1 2 -5
+p838
+aVZydrunas Ilgauskas CLE 10/31/1997 CLE @ HOU L 35 16 5 13 38.5 0 0 - 6 10 60.0 8 8 16 0 0 2 4 4 -3
+p839
+aVDerek Anderson CLE 10/31/1997 CLE @ HOU L 20 6 1 7 14.3 0 0 - 4 4 100.0 1 2 3 0 1 1 2 3 -2
+p840
+a.

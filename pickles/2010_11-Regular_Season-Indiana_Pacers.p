@@ -1,0 +1,1728 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVA.J. Price IND 04/13/2011 IND @ ORL L 19 7 2 6 33.3 1 4 25.0 2 2 100.0 0 1 1 7 1 0 0 1 7
+p2
+aVPaul George IND 04/13/2011 IND @ ORL L 23 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 0 0 0 3 1 -7
+p3
+aVJames Posey IND 04/13/2011 IND @ ORL L 20 3 1 8 12.5 1 7 14.3 0 1 0.0 0 2 2 1 0 0 1 4 -18
+p4
+aVRoy Hibbert IND 04/13/2011 IND @ ORL L 10 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 5 -4
+p5
+aVTyler Hansbrough IND 04/13/2011 IND @ ORL L 22 9 4 10 40.0 0 0 - 1 1 100.0 2 4 6 1 1 0 3 2 -14
+p6
+aVBrandon Rush IND 04/13/2011 IND @ ORL L 25 16 5 16 31.3 5 9 55.6 1 2 50.0 1 0 1 0 2 0 0 1 -11
+p7
+aVDarren Collison IND 04/13/2011 IND @ ORL L 12 4 2 5 40.0 0 0 - 0 0 - 1 1 2 2 3 0 1 0 -14
+p8
+aVT.J. Ford IND 04/13/2011 IND @ ORL L 17 2 1 6 16.7 0 1 0.0 0 0 - 2 0 2 2 2 0 1 0 -11
+p9
+aVDahntay Jones IND 04/13/2011 IND @ ORL L 24 7 3 8 37.5 0 0 - 1 2 50.0 0 0 0 2 0 0 2 0 -19
+p10
+aVMike Dunleavy IND 04/13/2011 IND @ ORL L 24 16 5 10 50.0 2 3 66.7 4 5 80.0 0 5 5 0 0 0 3 2 1
+p11
+aVJosh McRoberts IND 04/13/2011 IND @ ORL L 18 7 3 4 75.0 0 0 - 1 1 100.0 0 5 5 0 0 1 1 2 -4
+p12
+aVSolomon Jones IND 04/13/2011 IND @ ORL L 26 1 0 6 0.0 0 0 - 1 2 50.0 2 4 6 1 2 0 2 5 4
+p13
+aVJosh McRoberts IND 04/10/2011 IND vs. NYK L 21 9 4 5 80.0 0 0 - 1 1 100.0 1 4 5 3 0 1 2 1 3
+p14
+aVA.J. Price IND 04/10/2011 IND vs. NYK L 10 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 1 1 0 1 2 5
+p15
+aVDanny Granger IND 04/10/2011 IND vs. NYK L 36 20 7 21 33.3 4 7 57.1 2 2 100.0 2 4 6 3 0 0 1 4 -8
+p16
+aVPaul George IND 04/10/2011 IND vs. NYK L 19 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 9
+p17
+aVJeff Foster IND 04/10/2011 IND vs. NYK L 14 0 0 2 0.0 0 0 - 0 0 - 3 4 7 0 0 0 0 4 2
+p18
+aVTyler Hansbrough IND 04/10/2011 IND vs. NYK L 27 14 5 10 50.0 0 0 - 4 7 57.1 1 3 4 0 0 0 0 3 -4
+p19
+aVDahntay Jones IND 04/10/2011 IND vs. NYK L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 1 0 2 0
+p20
+aVRoy Hibbert IND 04/10/2011 IND vs. NYK L 34 19 5 10 50.0 0 0 - 9 11 81.8 0 10 10 4 0 1 4 2 -3
+p21
+aVBrandon Rush IND 04/10/2011 IND vs. NYK L 11 5 2 4 50.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 0 -14
+p22
+aVDarren Collison IND 04/10/2011 IND vs. NYK L 34 16 5 14 35.7 0 1 0.0 6 6 100.0 2 3 5 5 0 1 4 3 -7
+p23
+aVT.J. Ford IND 04/10/2011 IND vs. NYK L 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 0 3
+p24
+aVMike Dunleavy IND 04/10/2011 IND vs. NYK L 19 14 6 11 54.5 0 2 0.0 2 2 100.0 1 1 2 3 1 0 1 0 9
+p25
+aVBrandon Rush IND 04/08/2011 IND vs. ATL W 20 4 1 4 25.0 0 1 0.0 2 2 100.0 0 3 3 0 0 2 1 4 9
+p26
+aVDanny Granger IND 04/08/2011 IND vs. ATL W 32 28 9 18 50.0 2 3 66.7 8 11 72.7 4 3 7 2 1 0 1 0 9
+p27
+aVJeff Foster IND 04/08/2011 IND vs. ATL W 13 8 4 4 100.0 0 0 - 0 0 - 3 3 6 0 1 0 0 1 1
+p28
+aVDahntay Jones IND 04/08/2011 IND vs. ATL W 10 8 1 4 25.0 0 0 - 6 6 100.0 0 1 1 1 1 0 0 2 -1
+p29
+aVDarren Collison IND 04/08/2011 IND vs. ATL W 33 16 7 10 70.0 0 1 0.0 2 2 100.0 0 4 4 10 2 0 3 2 14
+p30
+aVA.J. Price IND 04/08/2011 IND vs. ATL W 15 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 4 1 0 1 1 -2
+p31
+aVTyler Hansbrough IND 04/08/2011 IND vs. ATL W 26 13 6 11 54.5 0 0 - 1 2 50.0 2 2 4 0 0 0 0 3 6
+p32
+aVPaul George IND 04/08/2011 IND vs. ATL W 19 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 3 3
+p33
+aVJosh McRoberts IND 04/08/2011 IND vs. ATL W 24 8 3 7 42.9 0 0 - 2 2 100.0 2 6 8 2 2 0 0 3 3
+p34
+aVMike Dunleavy IND 04/08/2011 IND vs. ATL W 15 8 3 5 60.0 1 3 33.3 1 1 100.0 0 2 2 1 0 0 1 1 4
+p35
+aVRoy Hibbert IND 04/08/2011 IND vs. ATL W 33 14 5 12 41.7 0 0 - 4 7 57.1 4 7 11 3 1 0 3 3 14
+p36
+aVDahntay Jones IND 04/06/2011 IND vs. WAS W 10 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 1 1 1 1 -2
+p37
+aVTyler Hansbrough IND 04/06/2011 IND vs. WAS W 27 15 5 10 50.0 0 0 - 5 6 83.3 3 2 5 3 0 0 1 2 18
+p38
+aVJosh McRoberts IND 04/06/2011 IND vs. WAS W 23 10 5 8 62.5 0 0 - 0 0 - 0 4 4 0 1 1 2 3 5
+p39
+aVDanny Granger IND 04/06/2011 IND vs. WAS W 24 25 7 11 63.6 3 5 60.0 8 9 88.9 1 2 3 2 1 1 1 2 30
+p40
+aVDarren Collison IND 04/06/2011 IND vs. WAS W 28 15 7 10 70.0 0 2 0.0 1 3 33.3 1 3 4 11 2 2 6 2 23
+p41
+aVMike Dunleavy IND 04/06/2011 IND vs. WAS W 22 14 4 6 66.7 2 4 50.0 4 5 80.0 0 0 0 2 0 0 1 0 -3
+p42
+aVRoy Hibbert IND 04/06/2011 IND vs. WAS W 29 16 6 8 75.0 0 0 - 4 4 100.0 0 6 6 2 1 0 0 3 28
+p43
+aVA.J. Price IND 04/06/2011 IND vs. WAS W 20 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 6 0 0 1 2 1
+p44
+aVBrandon Rush IND 04/06/2011 IND vs. WAS W 15 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 1 1 2 1 -4
+p45
+aVJeff Foster IND 04/06/2011 IND vs. WAS W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 0
+p46
+aVJames Posey IND 04/06/2011 IND vs. WAS W 10 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 0 1 0 2 3 -3
+p47
+aVPaul George IND 04/06/2011 IND vs. WAS W 26 23 9 15 60.0 5 6 83.3 0 0 - 1 5 6 4 2 1 1 2 27
+p48
+aVPaul George IND 04/03/2011 IND @ NOH L 24 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 0 -18
+p49
+aVJames Posey IND 04/03/2011 IND @ NOH L 12 4 1 5 20.0 0 4 0.0 2 2 100.0 0 3 3 0 0 0 0 3 12
+p50
+aVDahntay Jones IND 04/03/2011 IND @ NOH L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 7
+p51
+aVJeff Foster IND 04/03/2011 IND @ NOH L 15 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 0 0 1 3 1 -4
+p52
+aVDanny Granger IND 04/03/2011 IND @ NOH L 31 15 5 11 45.5 1 4 25.0 4 6 66.7 2 2 4 0 1 2 2 2 -23
+p53
+aVRoy Hibbert IND 04/03/2011 IND @ NOH L 21 10 5 13 38.5 0 1 0.0 0 0 - 2 4 6 0 0 0 1 4 -20
+p54
+aVA.J. Price IND 04/03/2011 IND @ NOH L 23 12 5 12 41.7 2 7 28.6 0 0 - 1 2 3 6 2 0 1 2 11
+p55
+aVMike Dunleavy IND 04/03/2011 IND @ NOH L 21 15 4 7 57.1 2 3 66.7 5 6 83.3 0 0 0 1 1 2 1 3 12
+p56
+aVJosh McRoberts IND 04/03/2011 IND @ NOH L 24 5 2 4 50.0 0 0 - 1 1 100.0 1 2 3 5 0 1 1 6 8
+p57
+aVTyler Hansbrough IND 04/03/2011 IND @ NOH L 24 9 4 7 57.1 0 0 - 1 4 25.0 2 3 5 2 0 0 2 1 -20
+p58
+aVBrandon Rush IND 04/03/2011 IND @ NOH L 16 8 3 4 75.0 2 2 100.0 0 0 - 1 0 1 1 2 0 1 1 -2
+p59
+aVDarren Collison IND 04/03/2011 IND @ NOH L 25 10 5 9 55.6 0 1 0.0 0 0 - 1 2 3 5 0 0 0 0 -23
+p60
+aVTyler Hansbrough IND 04/01/2011 IND vs. MIL W 31 11 4 10 40.0 0 0 - 3 5 60.0 4 3 7 0 0 0 1 0 1
+p61
+aVBrandon Rush IND 04/01/2011 IND vs. MIL W 25 12 5 8 62.5 2 4 50.0 0 0 - 0 3 3 1 0 0 2 1 -4
+p62
+aVMike Dunleavy IND 04/01/2011 IND vs. MIL W 15 2 1 4 25.0 0 2 0.0 0 0 - 0 5 5 1 0 0 0 2 -7
+p63
+aVDanny Granger IND 04/01/2011 IND vs. MIL W 33 17 5 13 38.5 1 3 33.3 6 6 100.0 2 3 5 3 1 0 2 3 8
+p64
+aVJosh McRoberts IND 04/01/2011 IND vs. MIL W 17 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 0
+p65
+aVA.J. Price IND 04/01/2011 IND vs. MIL W 11 7 3 5 60.0 0 0 - 1 3 33.3 0 0 0 2 0 0 0 0 5
+p66
+aVPaul George IND 04/01/2011 IND vs. MIL W 23 6 3 7 42.9 0 1 0.0 0 0 - 2 3 5 0 0 1 1 3 5
+p67
+aVJeff Foster IND 04/01/2011 IND vs. MIL W 16 4 2 4 50.0 0 0 - 0 0 - 4 2 6 1 0 0 0 2 0
+p68
+aVDarren Collison IND 04/01/2011 IND vs. MIL W 37 11 5 9 55.6 0 1 0.0 1 1 100.0 0 3 3 7 1 1 3 1 -4
+p69
+aVRoy Hibbert IND 04/01/2011 IND vs. MIL W 32 15 7 13 53.8 0 0 - 1 2 50.0 1 10 11 0 0 4 4 5 1
+p70
+aVBrandon Rush IND 03/30/2011 IND vs. DET W 23 8 3 8 37.5 2 6 33.3 0 0 - 0 3 3 1 0 0 1 2 4
+p71
+aVMike Dunleavy IND 03/30/2011 IND vs. DET W 19 9 3 9 33.3 1 6 16.7 2 2 100.0 0 2 2 2 0 0 1 2 -10
+p72
+aVDarren Collison IND 03/30/2011 IND vs. DET W 26 20 9 11 81.8 0 0 - 2 2 100.0 0 2 2 3 2 0 4 2 8
+p73
+aVA.J. Price IND 03/30/2011 IND vs. DET W 22 8 3 8 37.5 2 5 40.0 0 0 - 1 1 2 3 1 1 4 1 2
+p74
+aVTyler Hansbrough IND 03/30/2011 IND vs. DET W 23 7 2 6 33.3 0 0 - 3 4 75.0 1 1 2 2 0 1 1 2 1
+p75
+aVDanny Granger IND 03/30/2011 IND vs. DET W 29 17 7 17 41.2 1 5 20.0 2 2 100.0 1 3 4 2 4 0 1 1 20
+p76
+aVRoy Hibbert IND 03/30/2011 IND vs. DET W 31 12 3 5 60.0 0 0 - 6 7 85.7 1 3 4 2 0 2 2 3 4
+p77
+aVJeff Foster IND 03/30/2011 IND vs. DET W 14 7 3 6 50.0 0 0 - 1 1 100.0 3 4 7 1 0 0 0 0 12
+p78
+aVPaul George IND 03/30/2011 IND vs. DET W 26 8 2 7 28.6 0 3 0.0 4 4 100.0 0 3 3 2 1 0 0 1 8
+p79
+aVJosh McRoberts IND 03/30/2011 IND vs. DET W 28 15 6 9 66.7 0 0 - 3 3 100.0 7 6 13 2 1 2 1 0 1
+p80
+aVDahntay Jones IND 03/28/2011 IND vs. BOS W 15 8 2 5 40.0 0 0 - 4 4 100.0 0 2 2 0 1 0 1 1 14
+p81
+aVDanny Granger IND 03/28/2011 IND vs. BOS W 33 18 6 12 50.0 2 6 33.3 4 5 80.0 0 3 3 4 3 1 4 3 -7
+p82
+aVBrandon Rush IND 03/28/2011 IND vs. BOS W 34 8 3 8 37.5 2 4 50.0 0 0 - 0 4 4 1 0 0 1 2 19
+p83
+aVJosh McRoberts IND 03/28/2011 IND vs. BOS W 28 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 3 1 0 1 3 24
+p84
+aVPaul George IND 03/28/2011 IND vs. BOS W 14 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 4 -12
+p85
+aVDarren Collison IND 03/28/2011 IND vs. BOS W 28 17 8 9 88.9 0 1 0.0 1 1 100.0 1 3 4 3 2 1 0 3 -12
+p86
+aVTyler Hansbrough IND 03/28/2011 IND vs. BOS W 21 5 2 7 28.6 0 0 - 1 2 50.0 2 2 4 1 0 0 0 3 -16
+p87
+aVJeff Foster IND 03/28/2011 IND vs. BOS W 15 4 1 2 50.0 0 0 - 2 2 100.0 2 5 7 0 0 1 1 2 13
+p88
+aVRoy Hibbert IND 03/28/2011 IND vs. BOS W 33 26 12 17 70.6 0 0 - 2 2 100.0 2 2 4 2 0 1 3 1 -7
+p89
+aVA.J. Price IND 03/28/2011 IND vs. BOS W 20 15 6 9 66.7 2 3 66.7 1 4 25.0 0 2 2 3 0 0 1 0 19
+p90
+aVBrandon Rush IND 03/26/2011 IND @ DET L 36 19 7 10 70.0 4 6 66.7 1 2 50.0 1 3 4 3 0 0 1 0 -14
+p91
+aVPaul George IND 03/26/2011 IND @ DET L 12 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 2 0 2 4 2
+p92
+aVDanny Granger IND 03/26/2011 IND @ DET L 34 14 5 14 35.7 2 5 40.0 2 3 66.7 2 5 7 3 2 2 4 1 -15
+p93
+aVA.J. Price IND 03/26/2011 IND @ DET L 24 6 2 8 25.0 1 3 33.3 1 6 16.7 0 1 1 5 3 0 1 0 -2
+p94
+aVRoy Hibbert IND 03/26/2011 IND @ DET L 31 6 3 10 30.0 0 0 - 0 0 - 4 2 6 3 1 2 4 3 -16
+p95
+aVJeff Foster IND 03/26/2011 IND @ DET L 17 6 3 3 100.0 0 0 - 0 0 - 3 2 5 0 0 1 1 2 4
+p96
+aVDahntay Jones IND 03/26/2011 IND @ DET L 14 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 1 0 0 1 1 3
+p97
+aVJosh McRoberts IND 03/26/2011 IND @ DET L 21 8 4 5 80.0 0 0 - 0 2 0.0 1 7 8 5 0 2 1 1 7
+p98
+aVDarren Collison IND 03/26/2011 IND @ DET L 24 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 6 0 1 2 0 -10
+p99
+aVTyler Hansbrough IND 03/26/2011 IND @ DET L 27 16 7 12 58.3 0 0 - 2 4 50.0 3 5 8 0 0 0 2 2 -19
+p100
+aVRoy Hibbert IND 03/25/2011 IND vs. SAC L 32 11 4 9 44.4 0 0 - 3 3 100.0 3 2 5 0 0 2 2 1 -7
+p101
+aVJeff Foster IND 03/25/2011 IND vs. SAC L 11 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -12
+p102
+aVLance Stephenson IND 03/25/2011 IND vs. SAC L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 2
+p103
+aVPaul George IND 03/25/2011 IND vs. SAC L 25 12 5 9 55.6 1 3 33.3 1 4 25.0 4 4 8 1 0 1 1 1 1
+p104
+aVA.J. Price IND 03/25/2011 IND vs. SAC L 20 9 4 15 26.7 1 9 11.1 0 0 - 3 0 3 3 0 0 0 1 -15
+p105
+aVDanny Granger IND 03/25/2011 IND vs. SAC L 32 20 4 13 30.8 1 3 33.3 11 12 91.7 1 4 5 2 1 1 4 2 -14
+p106
+aVTyler Hansbrough IND 03/25/2011 IND vs. SAC L 25 8 3 13 23.1 0 0 - 2 2 100.0 1 7 8 3 1 0 2 1 -5
+p107
+aVBrandon Rush IND 03/25/2011 IND vs. SAC L 31 5 1 7 14.3 1 7 14.3 2 2 100.0 1 7 8 1 1 1 3 1 -16
+p108
+aVJosh McRoberts IND 03/25/2011 IND vs. SAC L 21 6 2 6 33.3 0 0 - 2 2 100.0 3 2 5 1 1 1 1 2 -12
+p109
+aVDarren Collison IND 03/25/2011 IND vs. SAC L 28 9 4 12 33.3 0 1 0.0 1 2 50.0 0 6 6 3 0 0 1 4 -2
+p110
+aVDahntay Jones IND 03/25/2011 IND vs. SAC L 11 11 4 6 66.7 0 2 0.0 3 3 100.0 0 1 1 0 0 0 0 1 -5
+p111
+aVTyler Hansbrough IND 03/23/2011 IND @ CHA W 31 24 8 10 80.0 0 0 - 8 9 88.9 1 4 5 1 1 0 1 3 14
+p112
+aVJeff Foster IND 03/23/2011 IND @ CHA W 16 2 1 1 100.0 0 0 - 0 2 0.0 1 3 4 1 0 0 0 5 5
+p113
+aVJosh McRoberts IND 03/23/2011 IND @ CHA W 17 4 2 3 66.7 0 1 0.0 0 0 - 1 2 3 0 0 0 2 1 9
+p114
+aVA.J. Price IND 03/23/2011 IND @ CHA W 19 2 1 7 14.3 0 2 0.0 0 0 - 0 0 0 3 0 0 1 1 5
+p115
+aVBrandon Rush IND 03/23/2011 IND @ CHA W 27 11 4 8 50.0 3 4 75.0 0 0 - 0 1 1 2 1 0 0 0 20
+p116
+aVLance Stephenson IND 03/23/2011 IND @ CHA W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p117
+aVDahntay Jones IND 03/23/2011 IND @ CHA W 12 7 2 4 50.0 1 2 50.0 2 4 50.0 0 1 1 0 2 0 0 1 -5
+p118
+aVRoy Hibbert IND 03/23/2011 IND @ CHA W 29 13 5 7 71.4 0 0 - 3 3 100.0 2 12 14 4 1 2 3 4 18
+p119
+aVDanny Granger IND 03/23/2011 IND @ CHA W 34 33 11 19 57.9 2 4 50.0 9 11 81.8 1 4 5 3 2 1 1 0 28
+p120
+aVDarren Collison IND 03/23/2011 IND @ CHA W 29 7 2 7 28.6 0 0 - 3 3 100.0 0 0 0 4 1 0 0 3 18
+p121
+aVPaul George IND 03/23/2011 IND @ CHA W 23 8 3 5 60.0 0 1 0.0 2 2 100.0 0 3 3 1 1 0 2 5 3
+p122
+aVRoy Hibbert IND 03/21/2011 IND @ NJN W 32 24 10 14 71.4 0 0 - 4 7 57.1 1 4 5 0 1 3 4 5 11
+p123
+aVDanny Granger IND 03/21/2011 IND @ NJN W 34 20 7 17 41.2 2 7 28.6 4 4 100.0 0 3 3 3 1 0 2 0 5
+p124
+aVPaul George IND 03/21/2011 IND @ NJN W 19 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 1 0 2 9
+p125
+aVTyler Hansbrough IND 03/21/2011 IND @ NJN W 26 7 3 6 50.0 0 0 - 1 1 100.0 3 6 9 1 0 0 3 1 14
+p126
+aVDahntay Jones IND 03/21/2011 IND @ NJN W 14 8 2 6 33.3 0 1 0.0 4 4 100.0 0 3 3 1 0 0 1 0 -1
+p127
+aVLance Stephenson IND 03/21/2011 IND @ NJN W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 1 -5
+p128
+aVDarren Collison IND 03/21/2011 IND @ NJN W 40 15 3 9 33.3 0 1 0.0 9 9 100.0 0 6 6 12 0 0 4 0 9
+p129
+aVJeff Foster IND 03/21/2011 IND @ NJN W 16 0 0 0 - 0 0 - 0 0 - 0 4 4 0 1 0 0 1 -6
+p130
+aVJosh McRoberts IND 03/21/2011 IND @ NJN W 22 14 6 7 85.7 1 1 100.0 1 1 100.0 2 1 3 1 0 0 2 3 -12
+p131
+aVBrandon Rush IND 03/21/2011 IND @ NJN W 29 10 3 10 30.0 2 6 33.3 2 2 100.0 0 7 7 0 0 2 2 0 -4
+p132
+aVRoy Hibbert IND 03/19/2011 IND @ MEM L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 5 -27
+p133
+aVLance Stephenson IND 03/19/2011 IND @ MEM L 4 1 0 4 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -2
+p134
+aVJosh McRoberts IND 03/19/2011 IND @ MEM L 21 4 2 3 66.7 0 0 - 0 0 - 0 6 6 1 0 2 1 2 1
+p135
+aVJeff Foster IND 03/19/2011 IND @ MEM L 17 4 2 2 100.0 0 0 - 0 0 - 4 5 9 1 0 0 0 0 17
+p136
+aVDahntay Jones IND 03/19/2011 IND @ MEM L 24 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 2 4 0 0 3 -15
+p137
+aVDanny Granger IND 03/19/2011 IND @ MEM L 31 17 5 15 33.3 2 6 33.3 5 7 71.4 1 4 5 2 2 0 7 4 -14
+p138
+aVA.J. Price IND 03/19/2011 IND @ MEM L 19 7 2 8 25.0 2 7 28.6 1 2 50.0 0 0 0 1 0 0 0 1 -4
+p139
+aVPaul George IND 03/19/2011 IND @ MEM L 36 6 2 8 25.0 0 5 0.0 2 3 66.7 0 5 5 2 0 4 2 0 -25
+p140
+aVTyler Hansbrough IND 03/19/2011 IND @ MEM L 34 14 6 13 46.2 0 0 - 2 3 66.7 2 3 5 1 1 0 3 3 -29
+p141
+aVDarren Collison IND 03/19/2011 IND @ MEM L 29 17 5 8 62.5 2 3 66.7 5 5 100.0 0 1 1 0 1 0 3 1 -17
+p142
+aVBrandon Rush IND 03/19/2011 IND @ MEM L 14 4 1 4 25.0 1 3 33.3 1 2 50.0 0 1 1 0 1 0 1 1 10
+p143
+aVDanny Granger IND 03/18/2011 IND vs. CHI W 31 19 4 11 36.4 3 4 75.0 8 9 88.9 0 6 6 3 1 1 3 6 12
+p144
+aVJosh McRoberts IND 03/18/2011 IND vs. CHI W 17 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 1 0 0 0 1 4
+p145
+aVRoy Hibbert IND 03/18/2011 IND vs. CHI W 30 15 5 9 55.6 0 1 0.0 5 7 71.4 2 5 7 2 0 2 0 5 26
+p146
+aVBrandon Rush IND 03/18/2011 IND vs. CHI W 26 6 1 6 16.7 0 3 0.0 4 4 100.0 1 1 2 1 1 1 0 1 -7
+p147
+aVPaul George IND 03/18/2011 IND vs. CHI W 27 6 2 6 33.3 0 1 0.0 2 2 100.0 0 7 7 2 2 0 1 2 16
+p148
+aVDahntay Jones IND 03/18/2011 IND vs. CHI W 21 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 3 -7
+p149
+aVDarren Collison IND 03/18/2011 IND vs. CHI W 38 17 7 18 38.9 0 0 - 3 3 100.0 0 1 1 8 0 0 4 3 11
+p150
+aVJeff Foster IND 03/18/2011 IND vs. CHI W 23 4 2 4 50.0 0 0 - 0 2 0.0 6 3 9 0 0 0 0 5 -19
+p151
+aVTyler Hansbrough IND 03/18/2011 IND vs. CHI W 36 29 12 19 63.2 0 0 - 5 5 100.0 4 8 12 1 2 0 0 6 3
+p152
+aVA.J. Price IND 03/18/2011 IND vs. CHI W 15 8 3 8 37.5 1 1 100.0 1 1 100.0 0 0 0 1 1 0 1 1 -4
+p153
+aVDanny Granger IND 03/16/2011 IND @ BOS L 36 15 5 16 31.3 2 5 40.0 3 4 75.0 1 3 4 3 0 0 2 4 -7
+p154
+aVDahntay Jones IND 03/16/2011 IND @ BOS L 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -8
+p155
+aVJeff Foster IND 03/16/2011 IND @ BOS L 15 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 0 0 1 -14
+p156
+aVPaul George IND 03/16/2011 IND @ BOS L 33 15 6 13 46.2 3 5 60.0 0 0 - 1 6 7 1 3 1 3 3 1
+p157
+aVJosh McRoberts IND 03/16/2011 IND @ BOS L 22 14 6 10 60.0 0 0 - 2 3 66.7 5 6 11 3 0 1 2 2 -3
+p158
+aVDarren Collison IND 03/16/2011 IND @ BOS L 31 10 4 11 36.4 0 1 0.0 2 2 100.0 1 1 2 9 1 0 1 1 -7
+p159
+aVRoy Hibbert IND 03/16/2011 IND @ BOS L 23 6 3 7 42.9 0 0 - 0 0 - 5 2 7 2 1 1 4 5 0
+p160
+aVBrandon Rush IND 03/16/2011 IND @ BOS L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 -10
+p161
+aVA.J. Price IND 03/16/2011 IND @ BOS L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 -10
+p162
+aVLance Stephenson IND 03/16/2011 IND @ BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p163
+aVTyler Hansbrough IND 03/16/2011 IND @ BOS L 36 10 4 14 28.6 0 0 - 2 4 50.0 3 8 11 0 0 0 1 4 -7
+p164
+aVBrandon Rush IND 03/15/2011 IND vs. NYK W 20 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 1 0 2 0 -16
+p165
+aVTyler Hansbrough IND 03/15/2011 IND vs. NYK W 37 30 12 17 70.6 0 0 - 6 8 75.0 1 2 3 0 2 0 2 3 9
+p166
+aVDarren Collison IND 03/15/2011 IND vs. NYK W 32 24 9 13 69.2 1 1 100.0 5 5 100.0 0 3 3 9 0 0 4 1 17
+p167
+aVRoy Hibbert IND 03/15/2011 IND vs. NYK W 31 15 5 13 38.5 0 0 - 5 6 83.3 6 6 12 5 0 3 3 3 2
+p168
+aVPaul George IND 03/15/2011 IND vs. NYK W 28 5 2 5 40.0 0 1 0.0 1 2 50.0 0 4 4 3 3 0 2 3 18
+p169
+aVJeff Foster IND 03/15/2011 IND vs. NYK W 16 3 1 1 100.0 0 0 - 1 2 50.0 3 7 10 0 0 0 0 1 -2
+p170
+aVDahntay Jones IND 03/15/2011 IND vs. NYK W 13 7 3 8 37.5 1 2 50.0 0 0 - 0 0 0 1 0 0 1 2 -2
+p171
+aVJosh McRoberts IND 03/15/2011 IND vs. NYK W 12 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 3 1 1 1 0 -5
+p172
+aVDanny Granger IND 03/15/2011 IND vs. NYK W 35 26 10 20 50.0 2 5 40.0 4 5 80.0 1 6 7 3 1 2 1 5 4
+p173
+aVA.J. Price IND 03/15/2011 IND vs. NYK W 16 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -15
+p174
+aVDarren Collison IND 03/13/2011 IND @ NYK W 38 16 6 10 60.0 1 1 100.0 3 4 75.0 1 2 3 8 1 0 4 1 23
+p175
+aVBrandon Rush IND 03/13/2011 IND @ NYK W 35 8 3 6 50.0 1 1 100.0 1 2 50.0 0 6 6 2 1 0 0 1 6
+p176
+aVDahntay Jones IND 03/13/2011 IND @ NYK W 30 18 5 11 45.5 1 3 33.3 7 8 87.5 0 1 1 2 1 0 1 5 14
+p177
+aVJosh McRoberts IND 03/13/2011 IND @ NYK W 15 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 2 2 3 8
+p178
+aVRoy Hibbert IND 03/13/2011 IND @ NYK W 28 12 5 7 71.4 0 0 - 2 2 100.0 3 5 8 3 1 5 3 5 14
+p179
+aVJeff Foster IND 03/13/2011 IND @ NYK W 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -9
+p180
+aVPaul George IND 03/13/2011 IND @ NYK W 13 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 1 0 1 4 7
+p181
+aVA.J. Price IND 03/13/2011 IND @ NYK W 10 7 3 6 50.0 0 2 0.0 1 2 50.0 0 0 0 2 0 0 2 1 -10
+p182
+aVJames Posey IND 03/13/2011 IND @ NYK W 18 6 2 5 40.0 2 5 40.0 0 0 - 0 4 4 0 0 0 1 1 -1
+p183
+aVTyler Hansbrough IND 03/13/2011 IND @ NYK W 40 29 12 20 60.0 0 0 - 5 7 71.4 1 7 8 0 0 0 1 3 13
+p184
+aVDahntay Jones IND 03/11/2011 IND @ TOR L 12 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 1 1 0 0 0 -9
+p185
+aVDanny Granger IND 03/11/2011 IND @ TOR L 36 25 7 17 41.2 3 5 60.0 8 8 100.0 2 5 7 1 2 0 3 2 -1
+p186
+aVJosh McRoberts IND 03/11/2011 IND @ TOR L 23 7 3 4 75.0 0 0 - 1 1 100.0 3 0 3 2 1 0 3 1 -2
+p187
+aVRoy Hibbert IND 03/11/2011 IND @ TOR L 21 4 2 5 40.0 0 0 - 0 1 0.0 0 3 3 1 0 0 2 5 -1
+p188
+aVDarren Collison IND 03/11/2011 IND @ TOR L 33 13 5 11 45.5 1 1 100.0 2 3 66.7 0 2 2 7 2 1 1 3 -2
+p189
+aVA.J. Price IND 03/11/2011 IND @ TOR L 15 7 2 7 28.6 1 2 50.0 2 2 100.0 0 1 1 3 0 0 1 2 -8
+p190
+aVJeff Foster IND 03/11/2011 IND @ TOR L 14 2 1 1 100.0 0 0 - 0 2 0.0 2 0 2 0 0 0 1 4 -11
+p191
+aVPaul George IND 03/11/2011 IND @ TOR L 31 10 4 10 40.0 1 3 33.3 1 1 100.0 3 4 7 1 1 0 3 2 -7
+p192
+aVTyler Hansbrough IND 03/11/2011 IND @ TOR L 38 20 7 15 46.7 0 0 - 6 8 75.0 3 4 7 1 2 0 0 3 -4
+p193
+aVBrandon Rush IND 03/11/2011 IND @ TOR L 17 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 1 0 0 0 2 -5
+p194
+aVDahntay Jones IND 03/09/2011 IND @ MIN L 12 1 0 3 0.0 0 0 - 1 2 50.0 0 3 3 1 1 0 0 3 -15
+p195
+aVSolomon Jones IND 03/09/2011 IND @ MIN L 15 4 2 3 66.7 0 0 - 0 1 0.0 0 2 2 0 0 1 1 5 -12
+p196
+aVPaul George IND 03/09/2011 IND @ MIN L 24 8 2 8 25.0 0 2 0.0 4 6 66.7 1 3 4 0 3 1 1 4 -8
+p197
+aVJames Posey IND 03/09/2011 IND @ MIN L 16 3 1 5 20.0 1 4 25.0 0 0 - 0 4 4 0 0 0 2 3 -17
+p198
+aVDarren Collison IND 03/09/2011 IND @ MIN L 23 3 1 5 20.0 0 1 0.0 1 1 100.0 0 2 2 1 1 0 4 1 -17
+p199
+aVTyler Hansbrough IND 03/09/2011 IND @ MIN L 36 21 6 12 50.0 0 0 - 9 12 75.0 4 6 10 0 3 0 1 2 -12
+p200
+aVLance Stephenson IND 03/09/2011 IND @ MIN L 9 6 3 3 100.0 0 0 - 0 1 0.0 0 1 1 1 0 0 2 2 1
+p201
+aVDanny Granger IND 03/09/2011 IND @ MIN L 31 10 2 19 10.5 0 9 0.0 6 9 66.7 0 4 4 1 1 3 1 4 -11
+p202
+aVRoy Hibbert IND 03/09/2011 IND @ MIN L 20 0 0 6 0.0 0 0 - 0 0 - 1 8 9 1 1 1 1 4 -11
+p203
+aVA.J. Price IND 03/09/2011 IND @ MIN L 25 13 4 10 40.0 3 5 60.0 2 2 100.0 1 3 4 1 1 0 3 2 -9
+p204
+aVJosh McRoberts IND 03/09/2011 IND @ MIN L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -1
+p205
+aVBrandon Rush IND 03/09/2011 IND @ MIN L 24 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 1 1 2 0 0 -18
+p206
+aVLance Stephenson IND 03/08/2011 IND vs. PHI L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 3 1 -3
+p207
+aVTyler Hansbrough IND 03/08/2011 IND vs. PHI L 30 26 11 14 78.6 0 0 - 4 4 100.0 1 5 6 0 3 0 1 3 3
+p208
+aVBrandon Rush IND 03/08/2011 IND vs. PHI L 21 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 1 1 1 0 -12
+p209
+aVJosh McRoberts IND 03/08/2011 IND vs. PHI L 23 5 1 7 14.3 0 0 - 3 4 75.0 1 4 5 2 1 1 1 1 -20
+p210
+aVPaul George IND 03/08/2011 IND vs. PHI L 26 6 2 4 50.0 0 0 - 2 3 66.7 1 9 10 0 2 1 4 1 2
+p211
+aVA.J. Price IND 03/08/2011 IND vs. PHI L 20 12 3 10 30.0 1 4 25.0 5 6 83.3 1 1 2 2 1 0 1 6 8
+p212
+aVDahntay Jones IND 03/08/2011 IND vs. PHI L 22 11 4 6 66.7 1 2 50.0 2 2 100.0 0 2 2 4 0 0 0 5 -3
+p213
+aVDanny Granger IND 03/08/2011 IND vs. PHI L 38 11 4 11 36.4 0 3 0.0 3 3 100.0 1 3 4 1 0 0 2 1 -7
+p214
+aVDarren Collison IND 03/08/2011 IND vs. PHI L 21 10 4 7 57.1 1 1 100.0 1 1 100.0 0 2 2 1 1 0 2 2 -16
+p215
+aVRoy Hibbert IND 03/08/2011 IND vs. PHI L 29 13 3 8 37.5 0 0 - 7 8 87.5 2 2 4 2 0 1 4 2 -2
+p216
+aVJosh McRoberts IND 03/05/2011 IND @ HOU L 29 12 6 11 54.5 0 0 - 0 0 - 2 6 8 1 0 0 3 1 -8
+p217
+aVDahntay Jones IND 03/05/2011 IND @ HOU L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 2 1 -11
+p218
+aVPaul George IND 03/05/2011 IND @ HOU L 26 8 3 4 75.0 0 0 - 2 2 100.0 1 5 6 2 2 1 4 1 -4
+p219
+aVRoy Hibbert IND 03/05/2011 IND @ HOU L 27 15 6 14 42.9 0 0 - 3 4 75.0 2 4 6 1 2 3 1 2 -15
+p220
+aVDarren Collison IND 03/05/2011 IND @ HOU L 22 6 2 7 28.6 0 2 0.0 2 3 66.7 2 1 3 0 0 0 4 3 -19
+p221
+aVA.J. Price IND 03/05/2011 IND @ HOU L 11 8 3 5 60.0 1 2 50.0 1 2 50.0 0 0 0 1 0 0 1 2 13
+p222
+aVJeff Foster IND 03/05/2011 IND @ HOU L 12 2 1 4 25.0 0 0 - 0 0 - 5 5 10 0 0 1 0 2 -11
+p223
+aVTyler Hansbrough IND 03/05/2011 IND @ HOU L 25 17 8 18 44.4 0 0 - 1 2 50.0 5 5 10 0 0 1 1 2 0
+p224
+aVLance Stephenson IND 03/05/2011 IND @ HOU L 22 5 2 7 28.6 0 0 - 1 1 100.0 0 2 2 5 1 0 2 3 0
+p225
+aVBrandon Rush IND 03/05/2011 IND @ HOU L 21 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 2 0 0 1 -14
+p226
+aVDanny Granger IND 03/05/2011 IND @ HOU L 30 16 4 13 30.8 0 1 0.0 8 8 100.0 2 2 4 3 1 0 2 0 -16
+p227
+aVDarren Collison IND 03/04/2011 IND @ DAL L 28 17 5 11 45.5 2 4 50.0 5 5 100.0 1 1 2 6 1 0 2 1 -6
+p228
+aVDahntay Jones IND 03/04/2011 IND @ DAL L 12 6 3 5 60.0 0 0 - 0 1 0.0 0 3 3 1 0 0 0 1 -3
+p229
+aVRoy Hibbert IND 03/04/2011 IND @ DAL L 31 11 5 9 55.6 0 0 - 1 2 50.0 0 8 8 1 1 0 5 4 -5
+p230
+aVLance Stephenson IND 03/04/2011 IND @ DAL L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 6 0 0 2 3 -1
+p231
+aVPaul George IND 03/04/2011 IND @ DAL L 22 8 3 5 60.0 1 1 100.0 1 1 100.0 0 1 1 0 1 0 2 1 1
+p232
+aVTyler Hansbrough IND 03/04/2011 IND @ DAL L 28 13 5 13 38.5 0 0 - 3 5 60.0 2 5 7 1 2 0 1 0 -5
+p233
+aVJosh McRoberts IND 03/04/2011 IND @ DAL L 19 15 5 5 100.0 0 0 - 5 5 100.0 1 2 3 1 1 0 3 3 -4
+p234
+aVBrandon Rush IND 03/04/2011 IND @ DAL L 20 10 3 4 75.0 3 3 100.0 1 2 50.0 0 1 1 1 0 0 1 0 -1
+p235
+aVJeff Foster IND 03/04/2011 IND @ DAL L 17 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 2 0 0 4 -3
+p236
+aVA.J. Price IND 03/04/2011 IND @ DAL L 15 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 0 2 0 0 2 -8
+p237
+aVDanny Granger IND 03/04/2011 IND @ DAL L 36 22 6 15 40.0 3 7 42.9 7 7 100.0 0 3 3 1 1 0 1 4 -5
+p238
+aVJames Posey IND 03/02/2011 IND @ OKC L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p239
+aVA.J. Price IND 03/02/2011 IND @ OKC L 13 8 3 5 60.0 1 3 33.3 1 1 100.0 0 1 1 0 0 0 0 1 -14
+p240
+aVBrandon Rush IND 03/02/2011 IND @ OKC L 24 4 1 7 14.3 1 3 33.3 1 2 50.0 1 1 2 0 1 0 0 1 -16
+p241
+aVDanny Granger IND 03/02/2011 IND @ OKC L 18 9 3 11 27.3 0 1 0.0 3 3 100.0 0 0 0 1 0 0 3 3 -20
+p242
+aVTyler Hansbrough IND 03/02/2011 IND @ OKC L 32 13 4 16 25.0 0 1 0.0 5 7 71.4 3 4 7 0 0 0 1 4 -14
+p243
+aVLance Stephenson IND 03/02/2011 IND @ OKC L 20 11 3 7 42.9 0 1 0.0 5 6 83.3 0 6 6 2 1 0 2 1 -1
+p244
+aVRoy Hibbert IND 03/02/2011 IND @ OKC L 27 9 3 7 42.9 0 0 - 3 4 75.0 3 9 12 1 3 2 5 2 -23
+p245
+aVJosh McRoberts IND 03/02/2011 IND @ OKC L 22 0 0 2 0.0 0 0 - 0 0 - 2 4 6 5 1 1 2 4 3
+p246
+aVJeff Foster IND 03/02/2011 IND @ OKC L 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -12
+p247
+aVDahntay Jones IND 03/02/2011 IND @ OKC L 18 12 4 5 80.0 0 0 - 4 6 66.7 0 2 2 1 0 1 0 4 -1
+p248
+aVDarren Collison IND 03/02/2011 IND @ OKC L 23 11 2 11 18.2 1 1 100.0 6 7 85.7 1 0 1 3 1 0 2 1 -10
+p249
+aVPaul George IND 03/02/2011 IND @ OKC L 28 8 3 6 50.0 0 2 0.0 2 3 66.7 0 3 3 3 2 1 2 2 -10
+p250
+aVDanny Granger IND 03/01/2011 IND vs. GSW W 33 27 5 11 45.5 1 2 50.0 16 16 100.0 1 6 7 2 0 1 3 4 10
+p251
+aVPaul George IND 03/01/2011 IND vs. GSW W 17 12 6 12 50.0 0 2 0.0 0 0 - 1 3 4 0 1 0 0 1 11
+p252
+aVTyler Hansbrough IND 03/01/2011 IND vs. GSW W 22 14 5 10 50.0 0 0 - 4 5 80.0 3 3 6 0 0 0 0 3 8
+p253
+aVJosh McRoberts IND 03/01/2011 IND vs. GSW W 25 8 4 8 50.0 0 1 0.0 0 0 - 1 6 7 4 3 0 0 1 0
+p254
+aVJeff Foster IND 03/01/2011 IND vs. GSW W 14 0 0 2 0.0 0 0 - 0 0 - 2 5 7 1 0 0 0 2 2
+p255
+aVLance Stephenson IND 03/01/2011 IND vs. GSW W 14 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 2 1 0 1 1 -2
+p256
+aVDahntay Jones IND 03/01/2011 IND vs. GSW W 15 10 3 6 50.0 1 2 50.0 3 4 75.0 0 1 1 0 0 1 1 2 -1
+p257
+aVBrandon Rush IND 03/01/2011 IND vs. GSW W 25 8 3 7 42.9 1 3 33.3 1 1 100.0 0 3 3 1 1 0 0 1 8
+p258
+aVA.J. Price IND 03/01/2011 IND vs. GSW W 15 1 0 4 0.0 0 3 0.0 1 2 50.0 0 1 1 2 0 0 1 0 -8
+p259
+aVRoy Hibbert IND 03/01/2011 IND vs. GSW W 33 12 5 12 41.7 0 0 - 2 2 100.0 3 6 9 4 1 4 2 3 5
+p260
+aVDarren Collison IND 03/01/2011 IND vs. GSW W 27 13 4 7 57.1 0 1 0.0 5 6 83.3 0 0 0 1 0 0 1 2 12
+p261
+aVJeff Foster IND 02/27/2011 IND vs. PHX L 23 4 2 4 50.0 0 0 - 0 0 - 4 8 12 0 1 0 0 3 6
+p262
+aVJosh McRoberts IND 02/27/2011 IND vs. PHX L 30 6 2 4 50.0 1 1 100.0 1 1 100.0 0 3 3 0 0 1 2 1 0
+p263
+aVA.J. Price IND 02/27/2011 IND vs. PHX L 25 18 6 12 50.0 4 6 66.7 2 2 100.0 1 4 5 1 1 0 4 1 6
+p264
+aVDahntay Jones IND 02/27/2011 IND vs. PHX L 13 7 3 10 30.0 1 2 50.0 0 0 - 0 2 2 0 0 1 2 2 -5
+p265
+aVDanny Granger IND 02/27/2011 IND vs. PHX L 40 25 8 17 47.1 3 7 42.9 6 7 85.7 0 4 4 6 3 1 1 3 3
+p266
+aVTyler Hansbrough IND 02/27/2011 IND vs. PHX L 23 13 5 11 45.5 0 0 - 3 4 75.0 3 2 5 0 1 1 1 1 -2
+p267
+aVLance Stephenson IND 02/27/2011 IND vs. PHX L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 1 0 5
+p268
+aVBrandon Rush IND 02/27/2011 IND vs. PHX L 33 11 3 9 33.3 1 3 33.3 4 6 66.7 1 7 8 1 0 2 1 0 -5
+p269
+aVRoy Hibbert IND 02/27/2011 IND vs. PHX L 30 8 4 8 50.0 0 0 - 0 0 - 2 4 6 1 0 4 2 2 -8
+p270
+aVDarren Collison IND 02/27/2011 IND vs. PHX L 24 7 3 5 60.0 0 0 - 1 1 100.0 0 3 3 5 1 0 2 0 -13
+p271
+aVPaul George IND 02/27/2011 IND vs. PHX L 20 7 3 7 42.9 1 4 25.0 0 0 - 1 2 3 3 0 0 1 2 3
+p272
+aVJeff Foster IND 02/25/2011 IND vs. UTA L 19 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 1 2 0 1 3
+p273
+aVDarren Collison IND 02/25/2011 IND vs. UTA L 32 16 7 14 50.0 0 1 0.0 2 3 66.7 1 0 1 3 0 0 3 1 -20
+p274
+aVRoy Hibbert IND 02/25/2011 IND vs. UTA L 31 14 6 16 37.5 0 0 - 2 2 100.0 5 3 8 2 0 2 3 3 -18
+p275
+aVA.J. Price IND 02/25/2011 IND vs. UTA L 16 9 3 10 30.0 0 4 0.0 3 4 75.0 1 2 3 0 2 0 0 1 9
+p276
+aVJosh McRoberts IND 02/25/2011 IND vs. UTA L 25 9 3 8 37.5 0 0 - 3 4 75.0 3 2 5 2 1 3 1 1 -2
+p277
+aVDahntay Jones IND 02/25/2011 IND vs. UTA L 13 5 1 4 25.0 0 0 - 3 5 60.0 0 1 1 1 0 0 1 2 -6
+p278
+aVTyler Hansbrough IND 02/25/2011 IND vs. UTA L 20 3 1 11 9.1 0 0 - 1 2 50.0 6 0 6 0 1 1 1 1 -6
+p279
+aVPaul George IND 02/25/2011 IND vs. UTA L 21 4 0 4 0.0 0 1 0.0 4 4 100.0 0 5 5 0 1 0 0 2 -4
+p280
+aVBrandon Rush IND 02/25/2011 IND vs. UTA L 28 5 2 5 40.0 1 4 25.0 0 0 - 2 2 4 0 0 2 0 3 -4
+p281
+aVDanny Granger IND 02/25/2011 IND vs. UTA L 36 17 7 14 50.0 1 4 25.0 2 2 100.0 0 9 9 1 0 0 4 2 -7
+p282
+aVDarren Collison IND 02/23/2011 IND vs. DET W 32 11 4 11 36.4 0 1 0.0 3 3 100.0 1 0 1 6 3 0 1 2 3
+p283
+aVDahntay Jones IND 02/23/2011 IND vs. DET W 13 8 4 7 57.1 0 2 0.0 0 0 - 0 0 0 1 0 0 3 2 4
+p284
+aVTyler Hansbrough IND 02/23/2011 IND vs. DET W 32 21 8 17 47.1 0 0 - 5 6 83.3 8 4 12 0 2 1 2 2 2
+p285
+aVBrandon Rush IND 02/23/2011 IND vs. DET W 34 9 4 8 50.0 1 2 50.0 0 0 - 1 3 4 1 1 0 0 2 -2
+p286
+aVJeff Foster IND 02/23/2011 IND vs. DET W 18 4 2 5 40.0 0 0 - 0 0 - 4 3 7 1 0 0 1 2 3
+p287
+aVRoy Hibbert IND 02/23/2011 IND vs. DET W 30 7 2 3 66.7 0 0 - 3 5 60.0 1 7 8 0 0 0 1 5 0
+p288
+aVDanny Granger IND 02/23/2011 IND vs. DET W 27 18 5 11 45.5 2 5 40.0 6 6 100.0 1 5 6 3 0 0 2 3 -5
+p289
+aVJosh McRoberts IND 02/23/2011 IND vs. DET W 16 10 4 5 80.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 1 -1
+p290
+aVPaul George IND 02/23/2011 IND vs. DET W 22 10 5 11 45.5 0 2 0.0 0 0 - 0 5 5 1 2 0 3 1 3
+p291
+aVA.J. Price IND 02/23/2011 IND vs. DET W 16 4 0 8 0.0 0 4 0.0 4 4 100.0 0 1 1 3 0 0 1 1 -2
+p292
+aVJosh McRoberts IND 02/22/2011 IND @ WAS W 29 9 2 2 100.0 0 0 - 5 8 62.5 0 3 3 2 3 0 1 2 6
+p293
+aVA.J. Price IND 02/22/2011 IND @ WAS W 24 6 3 9 33.3 0 3 0.0 0 0 - 0 0 0 1 1 0 0 1 6
+p294
+aVDarren Collison IND 02/22/2011 IND @ WAS W 24 11 5 11 45.5 0 2 0.0 1 1 100.0 0 5 5 6 1 0 0 1 11
+p295
+aVRoy Hibbert IND 02/22/2011 IND @ WAS W 29 16 5 9 55.6 0 0 - 6 9 66.7 1 5 6 0 1 4 2 2 11
+p296
+aVPaul George IND 02/22/2011 IND @ WAS W 25 11 5 11 45.5 0 3 0.0 1 1 100.0 2 7 9 2 1 2 3 4 3
+p297
+aVJames Posey IND 02/22/2011 IND @ WAS W 6 2 0 2 0.0 0 1 0.0 2 3 66.7 0 2 2 0 1 0 1 1 11
+p298
+aVDanny Granger IND 02/22/2011 IND @ WAS W 31 21 7 17 41.2 2 4 50.0 5 7 71.4 1 9 10 2 0 0 4 2 17
+p299
+aVMike Dunleavy IND 02/22/2011 IND @ WAS W 23 8 2 5 40.0 1 2 50.0 3 4 75.0 1 3 4 0 1 1 0 3 14
+p300
+aVBrandon Rush IND 02/22/2011 IND @ WAS W 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p301
+aVTyler Hansbrough IND 02/22/2011 IND @ WAS W 22 17 4 10 40.0 0 0 - 9 10 90.0 3 2 5 1 0 1 1 2 -4
+p302
+aVJeff Foster IND 02/22/2011 IND @ WAS W 9 4 2 4 50.0 0 0 - 0 0 - 5 2 7 0 0 1 0 0 10
+p303
+aVDahntay Jones IND 02/22/2011 IND @ WAS W 11 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 1 0 2 4 1
+p304
+aVDanny Granger IND 02/16/2011 IND @ DET L 41 28 11 16 68.8 2 5 40.0 4 7 57.1 2 3 5 3 0 0 4 5 -3
+p305
+aVSolomon Jones IND 02/16/2011 IND @ DET L 12 0 0 3 0.0 0 0 - 0 0 - 3 2 5 1 0 1 0 4 -1
+p306
+aVDahntay Jones IND 02/16/2011 IND @ DET L 14 11 5 6 83.3 1 2 50.0 0 2 0.0 0 2 2 1 0 0 0 1 -5
+p307
+aVPaul George IND 02/16/2011 IND @ DET L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -3
+p308
+aVMike Dunleavy IND 02/16/2011 IND @ DET L 22 3 1 4 25.0 1 3 33.3 0 0 - 0 5 5 0 0 0 1 2 -3
+p309
+aVTyler Hansbrough IND 02/16/2011 IND @ DET L 21 8 4 9 44.4 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -9
+p310
+aVBrandon Rush IND 02/16/2011 IND @ DET L 18 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 1 0 2 0 0 2
+p311
+aVDarren Collison IND 02/16/2011 IND @ DET L 35 6 3 11 27.3 0 2 0.0 0 0 - 1 1 2 9 1 0 3 5 -1
+p312
+aVA.J. Price IND 02/16/2011 IND @ DET L 18 3 1 4 25.0 0 1 0.0 1 2 50.0 1 0 1 4 1 0 1 1 -5
+p313
+aVRoy Hibbert IND 02/16/2011 IND @ DET L 41 29 12 23 52.2 0 0 - 5 5 100.0 4 5 9 3 0 2 3 3 -4
+p314
+aVJosh McRoberts IND 02/16/2011 IND @ DET L 31 15 7 8 87.5 1 1 100.0 0 0 - 6 6 12 3 2 0 2 1 2
+p315
+aVDanny Granger IND 02/15/2011 IND vs. MIA L 36 14 5 13 38.5 1 5 20.0 3 5 60.0 3 6 9 0 2 0 4 3 -17
+p316
+aVBrandon Rush IND 02/15/2011 IND vs. MIA L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 9
+p317
+aVDahntay Jones IND 02/15/2011 IND vs. MIA L 12 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 10
+p318
+aVJosh McRoberts IND 02/15/2011 IND vs. MIA L 21 6 3 5 60.0 0 0 - 0 0 - 1 4 5 3 0 0 0 2 -4
+p319
+aVA.J. Price IND 02/15/2011 IND vs. MIA L 17 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 5 1 0 0 1 9
+p320
+aVDarren Collison IND 02/15/2011 IND vs. MIA L 31 7 1 11 9.1 0 2 0.0 5 7 71.4 0 3 3 5 2 0 3 1 -16
+p321
+aVPaul George IND 02/15/2011 IND vs. MIA L 31 14 4 7 57.1 3 4 75.0 3 3 100.0 0 5 5 2 1 0 1 3 -2
+p322
+aVRoy Hibbert IND 02/15/2011 IND vs. MIA L 33 18 7 16 43.8 0 0 - 4 6 66.7 3 4 7 3 0 2 2 2 -15
+p323
+aVMike Dunleavy IND 02/15/2011 IND vs. MIA L 9 5 2 6 33.3 1 2 50.0 0 0 - 1 0 1 0 0 0 0 2 -14
+p324
+aVTyler Hansbrough IND 02/15/2011 IND vs. MIA L 27 16 6 11 54.5 0 0 - 4 4 100.0 1 4 5 0 0 0 1 2 -3
+p325
+aVJeff Foster IND 02/15/2011 IND vs. MIA L 15 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 0 1 0 0 2 8
+p326
+aVRoy Hibbert IND 02/12/2011 IND @ MIL W 33 13 5 9 55.6 0 0 - 3 4 75.0 0 8 8 6 0 1 3 2 12
+p327
+aVTyler Hansbrough IND 02/12/2011 IND @ MIL W 23 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 2 0 1 2 7
+p328
+aVDanny Granger IND 02/12/2011 IND @ MIL W 35 30 8 15 53.3 4 6 66.7 10 13 76.9 2 2 4 2 1 1 3 1 8
+p329
+aVA.J. Price IND 02/12/2011 IND @ MIL W 11 3 1 4 25.0 0 1 0.0 1 2 50.0 1 2 3 2 0 0 2 2 -1
+p330
+aVPaul George IND 02/12/2011 IND @ MIL W 24 11 3 6 50.0 1 3 33.3 4 8 50.0 0 7 7 0 0 0 1 3 2
+p331
+aVDarren Collison IND 02/12/2011 IND @ MIL W 37 22 6 13 46.2 1 2 50.0 9 11 81.8 0 3 3 3 0 1 4 2 7
+p332
+aVJosh McRoberts IND 02/12/2011 IND @ MIL W 25 9 4 4 100.0 1 1 100.0 0 0 - 3 4 7 3 0 0 3 3 -1
+p333
+aVMike Dunleavy IND 02/12/2011 IND @ MIL W 24 4 2 6 33.3 0 3 0.0 0 0 - 0 5 5 0 2 0 0 0 1
+p334
+aVDahntay Jones IND 02/12/2011 IND @ MIL W 13 7 2 4 50.0 0 1 0.0 3 3 100.0 0 2 2 0 0 0 1 1 -2
+p335
+aVJeff Foster IND 02/12/2011 IND @ MIL W 14 2 1 3 33.3 0 0 - 0 0 - 4 1 5 1 0 0 0 2 -3
+p336
+aVJeff Foster IND 02/11/2011 IND vs. MIN W 18 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 3
+p337
+aVPaul George IND 02/11/2011 IND vs. MIN W 28 11 5 10 50.0 1 3 33.3 0 0 - 1 3 4 4 1 1 0 0 0
+p338
+aVJosh McRoberts IND 02/11/2011 IND vs. MIN W 26 12 6 9 66.7 0 0 - 0 0 - 2 1 3 2 1 1 1 2 21
+p339
+aVA.J. Price IND 02/11/2011 IND vs. MIN W 16 8 3 6 50.0 0 2 0.0 2 2 100.0 0 8 8 1 0 0 1 0 12
+p340
+aVDanny Granger IND 02/11/2011 IND vs. MIN W 30 19 7 12 58.3 0 2 0.0 5 7 71.4 2 4 6 0 3 1 3 2 7
+p341
+aVDahntay Jones IND 02/11/2011 IND vs. MIN W 19 19 6 7 85.7 2 2 100.0 5 6 83.3 0 1 1 2 0 0 1 3 11
+p342
+aVDarren Collison IND 02/11/2011 IND vs. MIN W 32 8 3 11 27.3 0 2 0.0 2 4 50.0 0 5 5 6 4 1 4 2 -1
+p343
+aVRoy Hibbert IND 02/11/2011 IND vs. MIN W 29 6 1 4 25.0 0 0 - 4 4 100.0 2 3 5 1 1 1 3 3 6
+p344
+aVTyler Hansbrough IND 02/11/2011 IND vs. MIN W 22 14 4 12 33.3 0 0 - 6 6 100.0 2 3 5 0 0 0 1 3 -10
+p345
+aVMike Dunleavy IND 02/11/2011 IND vs. MIN W 19 15 4 6 66.7 3 4 75.0 4 6 66.7 1 2 3 1 0 0 1 4 6
+p346
+aVTyler Hansbrough IND 02/09/2011 IND vs. CHA W 16 2 1 5 20.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 3 3
+p347
+aVRoy Hibbert IND 02/09/2011 IND vs. CHA W 34 29 12 19 63.2 0 0 - 5 7 71.4 3 7 10 2 0 2 1 2 2
+p348
+aVMike Dunleavy IND 02/09/2011 IND vs. CHA W 31 5 1 4 25.0 1 3 33.3 2 2 100.0 2 3 5 1 0 0 3 1 -3
+p349
+aVPaul George IND 02/09/2011 IND vs. CHA W 17 7 3 7 42.9 0 2 0.0 1 1 100.0 2 1 3 2 0 0 1 4 3
+p350
+aVDanny Granger IND 02/09/2011 IND vs. CHA W 40 25 9 17 52.9 3 3 100.0 4 4 100.0 0 3 3 4 2 1 3 2 0
+p351
+aVA.J. Price IND 02/09/2011 IND vs. CHA W 15 7 2 5 40.0 0 2 0.0 3 4 75.0 2 4 6 2 3 0 2 1 4
+p352
+aVJosh McRoberts IND 02/09/2011 IND vs. CHA W 32 12 4 8 50.0 0 0 - 4 5 80.0 2 7 9 7 0 0 0 2 -2
+p353
+aVDahntay Jones IND 02/09/2011 IND vs. CHA W 8 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 1
+p354
+aVJeff Foster IND 02/09/2011 IND vs. CHA W 14 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 3 0
+p355
+aVDarren Collison IND 02/09/2011 IND vs. CHA W 33 15 7 14 50.0 1 1 100.0 0 0 - 0 2 2 5 2 2 3 1 -3
+p356
+aVJosh McRoberts IND 02/08/2011 IND @ MIA L 24 12 6 7 85.7 0 1 0.0 0 0 - 0 3 3 3 1 1 1 4 -1
+p357
+aVMike Dunleavy IND 02/08/2011 IND @ MIA L 16 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 3 12
+p358
+aVDarren Collison IND 02/08/2011 IND @ MIA L 36 15 5 15 33.3 2 6 33.3 3 3 100.0 1 4 5 8 0 0 3 1 -9
+p359
+aVTyler Hansbrough IND 02/08/2011 IND @ MIA L 24 18 6 6 100.0 0 0 - 6 7 85.7 1 1 2 0 0 0 1 3 -4
+p360
+aVPaul George IND 02/08/2011 IND @ MIA L 22 8 3 10 30.0 0 4 0.0 2 2 100.0 1 2 3 0 1 0 1 0 -14
+p361
+aVJeff Foster IND 02/08/2011 IND @ MIA L 17 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 0 0 0 2 4
+p362
+aVA.J. Price IND 02/08/2011 IND @ MIA L 12 5 2 4 50.0 1 3 33.3 0 0 - 1 2 3 0 0 0 2 0 4
+p363
+aVDahntay Jones IND 02/08/2011 IND @ MIA L 20 11 4 9 44.4 1 1 100.0 2 2 100.0 0 2 2 1 1 0 0 2 4
+p364
+aVRoy Hibbert IND 02/08/2011 IND @ MIA L 31 20 8 14 57.1 0 0 - 4 6 66.7 4 6 10 1 3 1 3 6 -7
+p365
+aVDanny Granger IND 02/08/2011 IND @ MIA L 38 19 8 16 50.0 3 6 50.0 0 0 - 0 1 1 3 1 0 0 3 -14
+p366
+aVA.J. Price IND 02/06/2011 IND @ NJN W 19 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 0 0 0 1 2 11
+p367
+aVTyler Hansbrough IND 02/06/2011 IND @ NJN W 24 8 2 6 33.3 0 0 - 4 4 100.0 1 5 6 1 0 0 2 3 9
+p368
+aVPaul George IND 02/06/2011 IND @ NJN W 28 14 5 12 41.7 0 2 0.0 4 5 80.0 3 3 6 1 2 0 1 1 17
+p369
+aVJeff Foster IND 02/06/2011 IND @ NJN W 19 5 2 5 40.0 0 0 - 1 2 50.0 5 3 8 1 1 0 0 0 9
+p370
+aVDahntay Jones IND 02/06/2011 IND @ NJN W 20 18 7 10 70.0 0 1 0.0 4 6 66.7 1 3 4 1 1 0 1 1 6
+p371
+aVJosh McRoberts IND 02/06/2011 IND @ NJN W 27 8 3 7 42.9 0 1 0.0 2 2 100.0 3 7 10 1 0 2 0 2 8
+p372
+aVDanny Granger IND 02/06/2011 IND @ NJN W 27 11 4 13 30.8 1 5 20.0 2 2 100.0 0 3 3 4 1 0 3 1 12
+p373
+aVMike Dunleavy IND 02/06/2011 IND @ NJN W 22 17 6 8 75.0 5 6 83.3 0 0 - 0 4 4 1 0 0 2 2 3
+p374
+aVRoy Hibbert IND 02/06/2011 IND @ NJN W 26 11 5 10 50.0 0 0 - 1 1 100.0 1 2 3 4 0 2 0 3 12
+p375
+aVDarren Collison IND 02/06/2011 IND @ NJN W 29 10 4 8 50.0 2 4 50.0 0 0 - 0 0 0 4 1 0 5 0 8
+p376
+aVDahntay Jones IND 02/04/2011 IND vs. POR W 14 7 3 4 75.0 0 0 - 1 1 100.0 0 3 3 0 1 0 1 3 -1
+p377
+aVRoy Hibbert IND 02/04/2011 IND vs. POR W 21 15 6 13 46.2 0 0 - 3 4 75.0 2 4 6 0 0 1 1 5 16
+p378
+aVJames Posey IND 02/04/2011 IND vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p379
+aVJeff Foster IND 02/04/2011 IND vs. POR W 22 0 0 4 0.0 0 0 - 0 0 - 8 5 13 0 0 1 1 1 4
+p380
+aVA.J. Price IND 02/04/2011 IND vs. POR W 21 7 3 11 27.3 1 4 25.0 0 2 0.0 0 0 0 1 0 0 1 3 0
+p381
+aVTyler Hansbrough IND 02/04/2011 IND vs. POR W 29 13 1 8 12.5 0 0 - 11 12 91.7 2 6 8 0 0 1 4 2 4
+p382
+aVMike Dunleavy IND 02/04/2011 IND vs. POR W 24 8 3 7 42.9 2 5 40.0 0 0 - 0 6 6 0 1 1 1 1 18
+p383
+aVJosh McRoberts IND 02/04/2011 IND vs. POR W 20 8 3 4 75.0 0 0 - 2 4 50.0 1 4 5 3 0 1 3 2 -4
+p384
+aVDanny Granger IND 02/04/2011 IND vs. POR W 34 25 7 13 53.8 2 2 100.0 9 10 90.0 1 8 9 1 1 0 2 0 14
+p385
+aVDarren Collison IND 02/04/2011 IND vs. POR W 27 11 4 7 57.1 0 0 - 3 4 75.0 0 4 4 7 1 0 1 1 13
+p386
+aVPaul George IND 02/04/2011 IND vs. POR W 24 6 1 6 16.7 0 3 0.0 4 6 66.7 0 4 4 0 0 0 1 1 -7
+p387
+aVTyler Hansbrough IND 02/02/2011 IND @ CLE W 22 13 5 12 41.7 0 0 - 3 5 60.0 4 4 8 1 0 0 4 4 1
+p388
+aVJeff Foster IND 02/02/2011 IND @ CLE W 17 4 2 3 66.7 0 0 - 0 1 0.0 4 4 8 2 0 0 0 3 5
+p389
+aVDanny Granger IND 02/02/2011 IND @ CLE W 34 23 5 13 38.5 1 5 20.0 12 13 92.3 0 5 5 4 1 3 4 3 6
+p390
+aVMike Dunleavy IND 02/02/2011 IND @ CLE W 30 15 6 8 75.0 2 3 66.7 1 1 100.0 0 4 4 2 1 0 1 2 0
+p391
+aVPaul George IND 02/02/2011 IND @ CLE W 21 13 4 6 66.7 3 4 75.0 2 2 100.0 0 2 2 2 1 0 1 2 2
+p392
+aVRoy Hibbert IND 02/02/2011 IND @ CLE W 31 13 5 13 38.5 0 0 - 3 3 100.0 3 7 10 2 0 2 2 4 0
+p393
+aVA.J. Price IND 02/02/2011 IND @ CLE W 12 5 2 4 50.0 1 2 50.0 0 1 0.0 1 1 2 3 1 0 1 5 2
+p394
+aVJosh McRoberts IND 02/02/2011 IND @ CLE W 26 6 2 8 25.0 0 0 - 2 2 100.0 3 3 6 1 0 0 0 4 4
+p395
+aVDahntay Jones IND 02/02/2011 IND @ CLE W 12 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 0 0 0 2 0 2
+p396
+aVDarren Collison IND 02/02/2011 IND @ CLE W 36 22 9 17 52.9 2 4 50.0 2 2 100.0 1 3 4 9 4 0 3 0 3
+p397
+aVTyler Hansbrough IND 01/31/2011 IND vs. TOR W 15 14 6 13 46.2 0 0 - 2 2 100.0 1 5 6 0 0 0 2 4 9
+p398
+aVJosh McRoberts IND 01/31/2011 IND vs. TOR W 33 4 2 4 50.0 0 0 - 0 0 - 1 5 6 2 1 0 1 3 2
+p399
+aVDahntay Jones IND 01/31/2011 IND vs. TOR W 10 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 1 0 0 1 0 7
+p400
+aVA.J. Price IND 01/31/2011 IND vs. TOR W 16 8 2 4 50.0 1 2 50.0 3 3 100.0 0 2 2 1 1 0 2 1 1
+p401
+aVRoy Hibbert IND 01/31/2011 IND vs. TOR W 30 24 9 19 47.4 0 0 - 6 9 66.7 5 6 11 1 2 2 5 4 -1
+p402
+aVPaul George IND 01/31/2011 IND vs. TOR W 25 16 4 8 50.0 1 3 33.3 7 8 87.5 1 3 4 1 1 2 2 0 16
+p403
+aVJeff Foster IND 01/31/2011 IND vs. TOR W 18 0 0 0 - 0 0 - 0 0 - 3 5 8 2 0 1 0 0 12
+p404
+aVMike Dunleavy IND 01/31/2011 IND vs. TOR W 26 8 2 6 33.3 2 4 50.0 2 2 100.0 0 3 3 0 2 0 2 1 -3
+p405
+aVDarren Collison IND 01/31/2011 IND vs. TOR W 32 16 7 9 77.8 2 3 66.7 0 0 - 0 4 4 6 0 0 6 0 10
+p406
+aVDanny Granger IND 01/31/2011 IND vs. TOR W 36 11 3 15 20.0 1 6 16.7 4 4 100.0 4 5 9 5 1 0 4 2 2
+p407
+aVDarren Collison IND 01/29/2011 IND @ CHI L 33 11 5 12 41.7 1 2 50.0 0 0 - 0 3 3 8 1 0 3 1 -5
+p408
+aVPaul George IND 01/29/2011 IND @ CHI L 26 8 3 10 30.0 0 3 0.0 2 4 50.0 0 3 3 0 0 0 1 1 -24
+p409
+aVJosh McRoberts IND 01/29/2011 IND @ CHI L 27 20 8 11 72.7 2 3 66.7 2 2 100.0 2 6 8 0 1 2 2 3 -3
+p410
+aVRoy Hibbert IND 01/29/2011 IND @ CHI L 21 2 1 5 20.0 0 0 - 0 0 - 1 4 5 2 0 5 2 3 4
+p411
+aVA.J. Price IND 01/29/2011 IND @ CHI L 15 12 4 10 40.0 1 5 20.0 3 3 100.0 0 0 0 0 0 0 0 1 -16
+p412
+aVJames Posey IND 01/29/2011 IND @ CHI L 18 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 1 0 1 4 -18
+p413
+aVDanny Granger IND 01/29/2011 IND @ CHI L 41 19 6 15 40.0 2 5 40.0 5 7 71.4 1 5 6 1 0 1 1 2 -8
+p414
+aVMike Dunleavy IND 01/29/2011 IND @ CHI L 35 13 4 9 44.4 2 3 66.7 3 6 50.0 0 4 4 2 2 0 1 1 -18
+p415
+aVJeff Foster IND 01/29/2011 IND @ CHI L 24 4 2 6 33.3 0 0 - 0 2 0.0 4 6 10 1 1 1 1 3 -17
+p416
+aVJames Posey IND 01/28/2011 IND vs. NJN W 18 5 1 3 33.3 1 3 33.3 2 2 100.0 0 2 2 1 0 0 0 2 9
+p417
+aVMike Dunleavy IND 01/28/2011 IND vs. NJN W 31 30 12 16 75.0 6 7 85.7 0 0 - 0 4 4 5 1 1 0 2 33
+p418
+aVDanny Granger IND 01/28/2011 IND vs. NJN W 24 18 7 12 58.3 4 6 66.7 0 0 - 0 5 5 2 0 1 0 3 30
+p419
+aVJosh McRoberts IND 01/28/2011 IND vs. NJN W 30 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 5 0 1 0 2 23
+p420
+aVDarren Collison IND 01/28/2011 IND vs. NJN W 25 7 3 6 50.0 0 1 0.0 1 2 50.0 1 3 4 8 1 0 3 2 16
+p421
+aVDahntay Jones IND 01/28/2011 IND vs. NJN W 6 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 3
+p422
+aVPaul George IND 01/28/2011 IND vs. NJN W 24 15 6 7 85.7 1 2 50.0 2 4 50.0 1 2 3 3 1 1 2 1 2
+p423
+aVSolomon Jones IND 01/28/2011 IND vs. NJN W 10 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 1 2 0 0 0 12
+p424
+aVJeff Foster IND 01/28/2011 IND vs. NJN W 13 6 3 4 75.0 0 0 - 0 1 0.0 3 3 6 2 0 0 1 3 0
+p425
+aVA.J. Price IND 01/28/2011 IND vs. NJN W 24 8 4 8 50.0 0 2 0.0 0 2 0.0 0 0 0 2 2 0 0 3 16
+p426
+aVT.J. Ford IND 01/28/2011 IND vs. NJN W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p427
+aVRoy Hibbert IND 01/28/2011 IND vs. NJN W 25 20 7 12 58.3 0 0 - 6 7 85.7 1 5 6 2 0 2 2 4 20
+p428
+aVJames Posey IND 01/26/2011 IND vs. ORL L 15 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 2 1 0 0 0 4
+p429
+aVMike Dunleavy IND 01/26/2011 IND vs. ORL L 32 10 4 7 57.1 2 4 50.0 0 0 - 1 3 4 1 1 1 1 1 -9
+p430
+aVDanny Granger IND 01/26/2011 IND vs. ORL L 40 27 6 19 31.6 3 11 27.3 12 13 92.3 1 4 5 1 0 1 3 2 -11
+p431
+aVJeff Foster IND 01/26/2011 IND vs. ORL L 24 4 2 4 50.0 0 0 - 0 2 0.0 2 6 8 2 0 2 0 2 16
+p432
+aVA.J. Price IND 01/26/2011 IND vs. ORL L 11 4 1 5 20.0 1 2 50.0 1 2 50.0 0 1 1 2 0 0 0 1 -17
+p433
+aVDarren Collison IND 01/26/2011 IND vs. ORL L 37 21 10 18 55.6 0 3 0.0 1 3 33.3 0 2 2 4 0 0 2 0 2
+p434
+aVBrandon Rush IND 01/26/2011 IND vs. ORL L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p435
+aVTyler Hansbrough IND 01/26/2011 IND vs. ORL L 19 8 4 8 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 3 -23
+p436
+aVSolomon Jones IND 01/26/2011 IND vs. ORL L 9 2 1 3 33.3 0 0 - 0 0 - 3 3 6 0 0 1 0 3 -9
+p437
+aVPaul George IND 01/26/2011 IND vs. ORL L 33 10 3 9 33.3 0 4 0.0 4 4 100.0 0 7 7 2 2 0 2 4 -4
+p438
+aVRoy Hibbert IND 01/26/2011 IND vs. ORL L 15 4 2 6 33.3 0 0 - 0 2 0.0 0 2 2 0 0 0 2 2 -22
+p439
+aVJames Posey IND 01/23/2011 IND @ DEN L 14 3 1 4 25.0 1 4 25.0 0 0 - 1 2 3 0 1 0 0 1 -4
+p440
+aVBrandon Rush IND 01/23/2011 IND @ DEN L 21 9 3 4 75.0 3 3 100.0 0 0 - 0 5 5 2 0 0 1 0 -5
+p441
+aVMike Dunleavy IND 01/23/2011 IND @ DEN L 27 10 3 6 50.0 2 3 66.7 2 2 100.0 0 3 3 4 0 0 3 4 -9
+p442
+aVPaul George IND 01/23/2011 IND @ DEN L 27 17 7 10 70.0 2 3 66.7 1 2 50.0 0 0 0 0 2 1 0 4 -2
+p443
+aVSolomon Jones IND 01/23/2011 IND @ DEN L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 2 7
+p444
+aVDarren Collison IND 01/23/2011 IND @ DEN L 21 5 2 10 20.0 0 3 0.0 1 1 100.0 0 1 1 2 1 0 3 1 -12
+p445
+aVTyler Hansbrough IND 01/23/2011 IND @ DEN L 30 27 10 17 58.8 0 0 - 7 9 77.8 5 5 10 1 0 0 1 4 -2
+p446
+aVDanny Granger IND 01/23/2011 IND @ DEN L 25 8 2 10 20.0 0 2 0.0 4 4 100.0 1 1 2 3 0 0 0 3 -20
+p447
+aVJeff Foster IND 01/23/2011 IND @ DEN L 19 8 2 3 66.7 0 0 - 4 4 100.0 4 5 9 3 1 0 1 1 -4
+p448
+aVRoy Hibbert IND 01/23/2011 IND @ DEN L 22 12 6 15 40.0 0 0 - 0 2 0.0 1 5 6 1 0 0 1 2 -17
+p449
+aVA.J. Price IND 01/23/2011 IND @ DEN L 27 6 1 6 16.7 1 3 33.3 3 3 100.0 0 0 0 8 0 0 4 0 -2
+p450
+aVTyler Hansbrough IND 01/22/2011 IND @ POR L 22 6 3 6 50.0 0 0 - 0 0 - 1 6 7 0 2 0 2 4 13
+p451
+aVSolomon Jones IND 01/22/2011 IND @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p452
+aVA.J. Price IND 01/22/2011 IND @ POR L 10 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 0 -6
+p453
+aVBrandon Rush IND 01/22/2011 IND @ POR L 24 0 0 2 0.0 0 1 0.0 0 2 0.0 0 1 1 1 1 0 0 1 -14
+p454
+aVDanny Granger IND 01/22/2011 IND @ POR L 34 24 9 15 60.0 1 3 33.3 5 6 83.3 1 4 5 0 0 1 3 2 -3
+p455
+aVJames Posey IND 01/22/2011 IND @ POR L 20 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 0 0 2 1 3 -9
+p456
+aVMike Dunleavy IND 01/22/2011 IND @ POR L 37 14 5 7 71.4 2 4 50.0 2 2 100.0 0 4 4 4 1 0 3 2 -3
+p457
+aVJeff Foster IND 01/22/2011 IND @ POR L 15 6 0 1 0.0 0 0 - 6 6 100.0 3 2 5 1 0 2 1 5 4
+p458
+aVRoy Hibbert IND 01/22/2011 IND @ POR L 29 11 5 13 38.5 0 0 - 1 2 50.0 4 6 10 3 1 0 2 1 -1
+p459
+aVDarren Collison IND 01/22/2011 IND @ POR L 38 14 7 18 38.9 0 1 0.0 0 0 - 1 2 3 7 2 0 5 2 1
+p460
+aVPaul George IND 01/22/2011 IND @ POR L 7 7 3 5 60.0 1 3 33.3 0 0 - 1 2 3 0 0 0 0 1 0
+p461
+aVDarren Collison IND 01/19/2011 IND @ GSW L 32 14 5 11 45.5 1 2 50.0 3 3 100.0 1 0 1 5 1 0 4 2 -22
+p462
+aVMike Dunleavy IND 01/19/2011 IND @ GSW L 29 14 5 13 38.5 2 6 33.3 2 2 100.0 1 4 5 4 0 0 0 1 17
+p463
+aVTyler Hansbrough IND 01/19/2011 IND @ GSW L 24 16 5 12 41.7 0 1 0.0 6 6 100.0 4 1 5 1 0 0 1 3 -12
+p464
+aVJeff Foster IND 01/19/2011 IND @ GSW L 30 3 1 8 12.5 0 1 0.0 1 2 50.0 4 11 15 2 1 0 1 5 11
+p465
+aVJosh McRoberts IND 01/19/2011 IND @ GSW L 18 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 1 0 1 1 0 -13
+p466
+aVDanny Granger IND 01/19/2011 IND @ GSW L 42 32 11 19 57.9 4 7 57.1 6 8 75.0 4 9 13 6 3 1 7 1 -7
+p467
+aVA.J. Price IND 01/19/2011 IND @ GSW L 16 7 2 3 66.7 1 2 50.0 2 2 100.0 0 0 0 1 0 0 3 2 20
+p468
+aVBrandon Rush IND 01/19/2011 IND @ GSW L 36 7 3 7 42.9 1 2 50.0 0 0 - 0 3 3 0 1 1 0 1 -18
+p469
+aVPaul George IND 01/19/2011 IND @ GSW L 12 8 2 4 50.0 0 1 0.0 4 4 100.0 1 4 5 1 1 0 1 4 14
+p470
+aVPaul George IND 01/17/2011 IND @ LAC L 11 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 1 1 0 2 -1
+p471
+aVRoy Hibbert IND 01/17/2011 IND @ LAC L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 1 0 2 1 5 -6
+p472
+aVJeff Foster IND 01/17/2011 IND @ LAC L 29 4 2 4 50.0 0 0 - 0 0 - 3 5 8 5 1 1 1 3 1
+p473
+aVJames Posey IND 01/17/2011 IND @ LAC L 14 10 3 5 60.0 3 5 60.0 1 2 50.0 0 2 2 0 1 0 1 2 10
+p474
+aVT.J. Ford IND 01/17/2011 IND @ LAC L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 -5
+p475
+aVDarren Collison IND 01/17/2011 IND @ LAC L 39 30 10 17 58.8 2 4 50.0 8 8 100.0 0 1 1 8 3 0 2 0 -2
+p476
+aVSolomon Jones IND 01/17/2011 IND @ LAC L 7 3 0 2 0.0 0 0 - 3 4 75.0 3 0 3 0 0 1 0 1 -2
+p477
+aVDanny Granger IND 01/17/2011 IND @ LAC L 41 32 9 16 56.3 4 6 66.7 10 11 90.9 0 2 2 5 2 0 1 5 2
+p478
+aVTyler Hansbrough IND 01/17/2011 IND @ LAC L 16 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 0 3 2 -11
+p479
+aVMike Dunleavy IND 01/17/2011 IND @ LAC L 22 2 1 10 10.0 0 5 0.0 0 0 - 0 3 3 2 1 1 1 1 -14
+p480
+aVBrandon Rush IND 01/17/2011 IND @ LAC L 39 10 3 8 37.5 2 4 50.0 2 2 100.0 1 6 7 2 0 0 3 3 -7
+p481
+aVTyler Hansbrough IND 01/14/2011 IND vs. CHI L 18 12 4 9 44.4 0 0 - 4 5 80.0 1 2 3 2 0 2 1 2 -4
+p482
+aVJosh McRoberts IND 01/14/2011 IND vs. CHI L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -6
+p483
+aVPaul George IND 01/14/2011 IND vs. CHI L 25 8 3 7 42.9 1 1 100.0 1 2 50.0 0 3 3 0 0 1 0 2 -1
+p484
+aVT.J. Ford IND 01/14/2011 IND vs. CHI L 13 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 2 0 0 0 1 -4
+p485
+aVBrandon Rush IND 01/14/2011 IND vs. CHI L 18 4 1 4 25.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 1 3 -15
+p486
+aVDanny Granger IND 01/14/2011 IND vs. CHI L 38 22 8 23 34.8 1 3 33.3 5 6 83.3 3 3 6 3 1 1 0 2 -3
+p487
+aVDarren Collison IND 01/14/2011 IND vs. CHI L 35 10 4 16 25.0 1 3 33.3 1 1 100.0 2 3 5 5 0 0 0 4 -9
+p488
+aVRoy Hibbert IND 01/14/2011 IND vs. CHI L 22 2 1 8 12.5 0 0 - 0 0 - 2 5 7 0 0 3 3 1 -5
+p489
+aVJames Posey IND 01/14/2011 IND vs. CHI L 8 3 1 4 25.0 1 4 25.0 0 0 - 0 4 4 0 0 1 0 1 0
+p490
+aVMike Dunleavy IND 01/14/2011 IND vs. CHI L 33 13 5 10 50.0 3 6 50.0 0 0 - 0 4 4 1 1 0 1 0 -10
+p491
+aVJeff Foster IND 01/14/2011 IND vs. CHI L 26 6 2 6 33.3 0 0 - 2 4 50.0 7 8 15 0 2 0 1 2 -8
+p492
+aVDanny Granger IND 01/12/2011 IND vs. DAL W 34 17 5 13 38.5 1 3 33.3 6 6 100.0 1 1 2 6 0 1 1 2 3
+p493
+aVBrandon Rush IND 01/12/2011 IND vs. DAL W 32 20 7 16 43.8 2 5 40.0 4 4 100.0 1 2 3 0 0 0 0 2 6
+p494
+aVPaul George IND 01/12/2011 IND vs. DAL W 18 16 6 9 66.7 4 6 66.7 0 0 - 0 4 4 0 2 0 0 4 9
+p495
+aVRoy Hibbert IND 01/12/2011 IND vs. DAL W 16 9 4 8 50.0 0 0 - 1 2 50.0 1 6 7 1 0 1 0 3 3
+p496
+aVDarren Collison IND 01/12/2011 IND vs. DAL W 31 17 6 9 66.7 0 2 0.0 5 6 83.3 1 4 5 4 3 0 2 0 12
+p497
+aVTyler Hansbrough IND 01/12/2011 IND vs. DAL W 17 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 0 0 0 1 0 4
+p498
+aVSolomon Jones IND 01/12/2011 IND vs. DAL W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -2
+p499
+aVJames Posey IND 01/12/2011 IND vs. DAL W 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 10
+p500
+aVJeff Foster IND 01/12/2011 IND vs. DAL W 23 2 1 5 20.0 0 1 0.0 0 0 - 6 2 8 3 1 0 1 1 12
+p501
+aVMike Dunleavy IND 01/12/2011 IND vs. DAL W 30 4 1 6 16.7 0 4 0.0 2 2 100.0 0 11 11 0 1 0 0 0 9
+p502
+aVT.J. Ford IND 01/12/2011 IND vs. DAL W 19 8 4 7 57.1 0 2 0.0 0 0 - 1 0 1 2 1 0 2 3 -1
+p503
+aVDanny Granger IND 01/11/2011 IND @ PHI W 42 27 10 17 58.8 3 4 75.0 4 4 100.0 1 4 5 7 0 1 4 3 21
+p504
+aVMike Dunleavy IND 01/11/2011 IND @ PHI W 43 20 8 16 50.0 4 8 50.0 0 0 - 0 2 2 2 0 1 1 3 8
+p505
+aVBrandon Rush IND 01/11/2011 IND @ PHI W 31 9 4 10 40.0 1 4 25.0 0 0 - 1 5 6 0 0 1 0 3 7
+p506
+aVRoy Hibbert IND 01/11/2011 IND @ PHI W 24 8 4 12 33.3 0 0 - 0 0 - 2 6 8 1 0 2 1 2 -9
+p507
+aVDarren Collison IND 01/11/2011 IND @ PHI W 37 21 8 15 53.3 0 0 - 5 5 100.0 1 0 1 13 3 0 1 0 6
+p508
+aVPaul George IND 01/11/2011 IND @ PHI W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p509
+aVT.J. Ford IND 01/11/2011 IND @ PHI W 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 3 2
+p510
+aVJeff Foster IND 01/11/2011 IND @ PHI W 24 10 4 5 80.0 0 0 - 2 2 100.0 3 5 8 1 1 0 2 3 17
+p511
+aVTyler Hansbrough IND 01/11/2011 IND @ PHI W 25 12 6 11 54.5 0 0 - 0 0 - 4 5 9 2 1 0 3 4 -14
+p512
+aVRoy Hibbert IND 01/08/2011 IND @ ATL L 19 8 3 8 37.5 0 0 - 2 2 100.0 2 5 7 0 0 1 4 1 -12
+p513
+aVMike Dunleavy IND 01/08/2011 IND @ ATL L 30 6 2 5 40.0 0 0 - 2 2 100.0 0 7 7 0 0 0 2 4 -17
+p514
+aVJames Posey IND 01/08/2011 IND @ ATL L 15 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 0 0 1 0 1 -2
+p515
+aVBrandon Rush IND 01/08/2011 IND @ ATL L 20 8 2 8 25.0 1 3 33.3 3 4 75.0 0 0 0 1 0 0 0 2 -2
+p516
+aVA.J. Price IND 01/08/2011 IND @ ATL L 6 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -2
+p517
+aVT.J. Ford IND 01/08/2011 IND @ ATL L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 6 0 0 2 2 -6
+p518
+aVJeff Foster IND 01/08/2011 IND @ ATL L 20 6 3 5 60.0 0 0 - 0 0 - 3 3 6 1 0 0 0 2 -1
+p519
+aVDarren Collison IND 01/08/2011 IND @ ATL L 28 13 5 14 35.7 0 1 0.0 3 3 100.0 1 1 2 4 1 1 3 2 -7
+p520
+aVTyler Hansbrough IND 01/08/2011 IND @ ATL L 23 10 4 7 57.1 0 0 - 2 2 100.0 1 4 5 1 1 0 1 3 -12
+p521
+aVSolomon Jones IND 01/08/2011 IND @ ATL L 7 6 1 1 100.0 0 0 - 4 4 100.0 1 1 2 0 0 1 0 1 0
+p522
+aVPaul George IND 01/08/2011 IND @ ATL L 21 10 5 10 50.0 0 3 0.0 0 0 - 1 5 6 0 2 0 0 2 4
+p523
+aVDanny Granger IND 01/08/2011 IND @ ATL L 37 16 6 12 50.0 2 3 66.7 2 4 50.0 2 2 4 3 0 1 3 2 -18
+p524
+aVJames Posey IND 01/07/2011 IND vs. SAS L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p525
+aVTyler Hansbrough IND 01/07/2011 IND vs. SAS L 36 23 10 19 52.6 0 0 - 3 4 75.0 4 8 12 1 1 2 1 4 4
+p526
+aVJeff Foster IND 01/07/2011 IND vs. SAS L 12 0 0 1 0.0 0 0 - 0 2 0.0 2 1 3 2 0 1 0 3 -9
+p527
+aVDanny Granger IND 01/07/2011 IND vs. SAS L 37 15 6 14 42.9 3 5 60.0 0 2 0.0 1 3 4 1 1 0 3 5 4
+p528
+aVBrandon Rush IND 01/07/2011 IND vs. SAS L 29 7 2 5 40.0 1 1 100.0 2 2 100.0 0 1 1 1 0 1 3 3 -1
+p529
+aVRoy Hibbert IND 01/07/2011 IND vs. SAS L 36 10 5 17 29.4 0 0 - 0 0 - 4 10 14 2 0 2 3 1 6
+p530
+aVT.J. Ford IND 01/07/2011 IND vs. SAS L 19 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 2 0 0 0 3 -3
+p531
+aVDarren Collison IND 01/07/2011 IND vs. SAS L 30 12 3 11 27.3 0 2 0.0 6 6 100.0 0 3 3 6 0 0 1 0 -7
+p532
+aVPaul George IND 01/07/2011 IND vs. SAS L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -8
+p533
+aVMike Dunleavy IND 01/07/2011 IND vs. SAS L 30 14 4 9 44.4 1 3 33.3 5 5 100.0 0 5 5 2 1 2 0 1 -1
+p534
+aVSolomon Jones IND 01/02/2011 IND @ NYK L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 3 2 -7
+p535
+aVJames Posey IND 01/02/2011 IND @ NYK L 19 3 1 5 20.0 1 5 20.0 0 0 - 0 6 6 0 0 0 0 1 0
+p536
+aVT.J. Ford IND 01/02/2011 IND @ NYK L 25 3 1 9 11.1 0 1 0.0 1 2 50.0 1 0 1 5 2 0 2 1 -13
+p537
+aVDarren Collison IND 01/02/2011 IND @ NYK L 32 22 9 17 52.9 3 3 100.0 1 1 100.0 3 2 5 6 2 0 2 0 -1
+p538
+aVPaul George IND 01/02/2011 IND @ NYK L 9 5 2 4 50.0 1 2 50.0 0 0 - 2 1 3 0 0 2 0 5 -6
+p539
+aVDanny Granger IND 01/02/2011 IND @ NYK L 39 25 9 23 39.1 2 4 50.0 5 6 83.3 7 10 17 0 0 0 4 3 -2
+p540
+aVJeff Foster IND 01/02/2011 IND @ NYK L 23 2 1 2 50.0 0 0 - 0 0 - 4 2 6 2 3 1 1 6 7
+p541
+aVRoy Hibbert IND 01/02/2011 IND @ NYK L 16 10 4 9 44.4 0 0 - 2 4 50.0 1 3 4 2 0 0 0 2 -6
+p542
+aVJosh McRoberts IND 01/02/2011 IND @ NYK L 11 4 1 4 25.0 0 0 - 2 5 40.0 2 3 5 0 0 0 0 0 2
+p543
+aVBrandon Rush IND 01/02/2011 IND @ NYK L 34 12 6 17 35.3 0 5 0.0 0 0 - 0 7 7 1 3 0 2 5 2
+p544
+aVMike Dunleavy IND 01/02/2011 IND @ NYK L 26 4 2 7 28.6 0 4 0.0 0 1 0.0 1 2 3 2 0 1 0 1 -6
+p545
+aVRoy Hibbert IND 12/31/2010 IND vs. WAS W 31 17 6 13 46.2 0 0 - 5 6 83.3 5 3 8 2 0 2 7 2 19
+p546
+aVBrandon Rush IND 12/31/2010 IND vs. WAS W 28 11 4 9 44.4 1 6 16.7 2 3 66.7 0 2 2 0 1 0 2 3 -7
+p547
+aVPaul George IND 12/31/2010 IND vs. WAS W 18 13 5 8 62.5 0 1 0.0 3 3 100.0 1 6 7 1 5 0 1 3 7
+p548
+aVTyler Hansbrough IND 12/31/2010 IND vs. WAS W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p549
+aVDarren Collison IND 12/31/2010 IND vs. WAS W 30 18 8 14 57.1 2 3 66.7 0 0 - 0 4 4 6 1 0 2 2 2
+p550
+aVMike Dunleavy IND 12/31/2010 IND vs. WAS W 25 3 1 6 16.7 1 3 33.3 0 0 - 0 5 5 0 2 1 0 1 8
+p551
+aVJosh McRoberts IND 12/31/2010 IND vs. WAS W 21 2 1 3 33.3 0 1 0.0 0 0 - 1 7 8 2 1 0 2 0 4
+p552
+aVSolomon Jones IND 12/31/2010 IND vs. WAS W 17 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 3 4 -10
+p553
+aVT.J. Ford IND 12/31/2010 IND vs. WAS W 18 9 4 6 66.7 0 0 - 1 1 100.0 0 1 1 4 3 0 1 1 7
+p554
+aVDanny Granger IND 12/31/2010 IND vs. WAS W 25 18 8 12 66.7 0 1 0.0 2 3 66.7 1 2 3 2 1 0 4 5 10
+p555
+aVJames Posey IND 12/31/2010 IND vs. WAS W 23 3 1 4 25.0 1 4 25.0 0 0 - 1 3 4 2 1 1 0 1 9
+p556
+aVDarren Collison IND 12/29/2010 IND @ WAS L 32 9 4 12 33.3 0 0 - 1 1 100.0 0 4 4 5 0 0 3 2 -6
+p557
+aVMike Dunleavy IND 12/29/2010 IND @ WAS L 32 20 6 10 60.0 4 7 57.1 4 4 100.0 0 6 6 2 1 0 3 3 -13
+p558
+aVRoy Hibbert IND 12/29/2010 IND @ WAS L 15 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 1 0 2 0 5 -3
+p559
+aVTyler Hansbrough IND 12/29/2010 IND @ WAS L 21 7 2 9 22.2 0 0 - 3 4 75.0 5 2 7 0 0 0 0 2 0
+p560
+aVA.J. Price IND 12/29/2010 IND @ WAS L 2 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p561
+aVSolomon Jones IND 12/29/2010 IND @ WAS L 19 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 1 2 3 2 -8
+p562
+aVJames Posey IND 12/29/2010 IND @ WAS L 12 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 2 -12
+p563
+aVDanny Granger IND 12/29/2010 IND @ WAS L 33 15 7 18 38.9 1 4 25.0 0 3 0.0 2 7 9 3 2 2 2 3 -12
+p564
+aVJosh McRoberts IND 12/29/2010 IND @ WAS L 27 13 5 9 55.6 0 3 0.0 3 4 75.0 3 5 8 2 1 1 1 2 -4
+p565
+aVT.J. Ford IND 12/29/2010 IND @ WAS L 14 8 4 8 50.0 0 0 - 0 0 - 0 1 1 3 0 0 2 2 -7
+p566
+aVBrandon Rush IND 12/29/2010 IND @ WAS L 29 8 3 5 60.0 2 2 100.0 0 0 - 0 4 4 0 0 0 2 2 -3
+p567
+aVPaul George IND 12/29/2010 IND @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -1
+p568
+aVMike Dunleavy IND 12/28/2010 IND vs. BOS L 18 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 -1
+p569
+aVDarren Collison IND 12/28/2010 IND vs. BOS L 33 10 4 10 40.0 0 2 0.0 2 3 66.7 0 3 3 3 0 0 1 1 -2
+p570
+aVSolomon Jones IND 12/28/2010 IND vs. BOS L 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -7
+p571
+aVJames Posey IND 12/28/2010 IND vs. BOS L 18 8 3 5 60.0 2 4 50.0 0 0 - 1 3 4 1 0 0 2 2 -5
+p572
+aVRoy Hibbert IND 12/28/2010 IND vs. BOS L 24 8 3 9 33.3 0 0 - 2 2 100.0 0 8 8 2 0 0 2 4 -3
+p573
+aVJeff Foster IND 12/28/2010 IND vs. BOS L 18 7 3 6 50.0 0 0 - 1 2 50.0 4 1 5 0 1 0 0 2 0
+p574
+aVBrandon Rush IND 12/28/2010 IND vs. BOS L 36 17 3 9 33.3 2 3 66.7 9 10 90.0 1 6 7 1 1 0 1 2 -21
+p575
+aVT.J. Ford IND 12/28/2010 IND vs. BOS L 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 3 0 2 3 -10
+p576
+aVDanny Granger IND 12/28/2010 IND vs. BOS L 41 15 5 21 23.8 0 6 0.0 5 5 100.0 2 2 4 4 2 1 2 2 -7
+p577
+aVDahntay Jones IND 12/28/2010 IND vs. BOS L 2 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 0
+p578
+aVJosh McRoberts IND 12/28/2010 IND vs. BOS L 24 5 2 3 66.7 0 0 - 1 3 33.3 0 3 3 2 0 0 3 4 -4
+p579
+aVDanny Granger IND 12/26/2010 IND vs. MEM L 39 29 8 20 40.0 3 9 33.3 10 12 83.3 1 4 5 3 2 1 3 3 -17
+p580
+aVSolomon Jones IND 12/26/2010 IND vs. MEM L 12 8 4 6 66.7 0 0 - 0 0 - 1 1 2 1 0 0 2 2 3
+p581
+aVTyler Hansbrough IND 12/26/2010 IND vs. MEM L 9 6 2 5 40.0 0 0 - 2 4 50.0 3 1 4 0 0 0 0 2 -3
+p582
+aVMike Dunleavy IND 12/26/2010 IND vs. MEM L 29 10 4 12 33.3 2 5 40.0 0 0 - 0 8 8 2 2 0 0 4 1
+p583
+aVJosh McRoberts IND 12/26/2010 IND vs. MEM L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -5
+p584
+aVJames Posey IND 12/26/2010 IND vs. MEM L 18 0 0 4 0.0 0 4 0.0 0 0 - 0 3 3 2 0 0 0 1 -5
+p585
+aVT.J. Ford IND 12/26/2010 IND vs. MEM L 21 4 2 6 33.3 0 1 0.0 0 0 - 2 6 8 4 1 1 2 0 -2
+p586
+aVJeff Foster IND 12/26/2010 IND vs. MEM L 18 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 1 1 2 0 5 -2
+p587
+aVBrandon Rush IND 12/26/2010 IND vs. MEM L 29 7 2 6 33.3 2 4 50.0 1 2 50.0 0 3 3 2 3 1 3 2 -12
+p588
+aVDarren Collison IND 12/26/2010 IND vs. MEM L 28 6 3 8 37.5 0 1 0.0 0 0 - 1 4 5 4 0 0 2 2 -12
+p589
+aVRoy Hibbert IND 12/26/2010 IND vs. MEM L 31 14 5 17 29.4 0 0 - 4 7 57.1 3 7 10 0 0 0 0 2 -16
+p590
+aVT.J. Ford IND 12/20/2010 IND vs. NOH W 20 6 3 4 75.0 0 0 - 0 0 - 0 1 1 5 1 1 2 2 -3
+p591
+aVMike Dunleavy IND 12/20/2010 IND vs. NOH W 27 8 3 11 27.3 0 4 0.0 2 2 100.0 1 2 3 4 2 1 1 3 1
+p592
+aVJames Posey IND 12/20/2010 IND vs. NOH W 19 15 5 7 71.4 5 7 71.4 0 0 - 0 4 4 1 1 0 1 2 -1
+p593
+aVBrandon Rush IND 12/20/2010 IND vs. NOH W 30 6 2 7 28.6 2 4 50.0 0 0 - 0 3 3 2 1 1 1 1 -3
+p594
+aVRoy Hibbert IND 12/20/2010 IND vs. NOH W 25 2 1 10 10.0 0 0 - 0 0 - 1 2 3 0 1 2 3 2 3
+p595
+aVDanny Granger IND 12/20/2010 IND vs. NOH W 36 27 8 22 36.4 4 8 50.0 7 8 87.5 1 5 6 2 0 1 1 5 6
+p596
+aVJeff Foster IND 12/20/2010 IND vs. NOH W 22 7 3 4 75.0 0 0 - 1 1 100.0 3 8 11 2 0 4 1 3 5
+p597
+aVTyler Hansbrough IND 12/20/2010 IND vs. NOH W 9 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 3 -4
+p598
+aVDarren Collison IND 12/20/2010 IND vs. NOH W 35 18 8 11 72.7 0 0 - 2 2 100.0 1 4 5 5 2 0 4 2 1
+p599
+aVSolomon Jones IND 12/20/2010 IND vs. NOH W 16 4 1 2 50.0 0 0 - 2 4 50.0 1 1 2 1 0 1 0 0 0
+p600
+aVMike Dunleavy IND 12/19/2010 IND @ BOS L 30 10 4 6 66.7 2 3 66.7 0 0 - 1 2 3 3 1 0 1 2 -8
+p601
+aVJames Posey IND 12/19/2010 IND @ BOS L 18 3 1 4 25.0 1 4 25.0 0 0 - 1 1 2 1 1 0 0 1 -6
+p602
+aVJeff Foster IND 12/19/2010 IND @ BOS L 17 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 1 0 0 3 -8
+p603
+aVDarren Collison IND 12/19/2010 IND @ BOS L 30 15 5 14 35.7 0 2 0.0 5 5 100.0 2 0 2 2 2 0 4 1 -11
+p604
+aVRoy Hibbert IND 12/19/2010 IND @ BOS L 33 17 8 23 34.8 0 0 - 1 1 100.0 5 9 14 2 0 2 1 2 -12
+p605
+aVT.J. Ford IND 12/19/2010 IND @ BOS L 18 13 6 11 54.5 0 1 0.0 1 1 100.0 0 1 1 3 1 0 1 2 0
+p606
+aVTyler Hansbrough IND 12/19/2010 IND @ BOS L 12 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 1 0 0 2 3
+p607
+aVSolomon Jones IND 12/19/2010 IND @ BOS L 15 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 2 0 0 1 2 1
+p608
+aVBrandon Rush IND 12/19/2010 IND @ BOS L 24 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 -7
+p609
+aVDanny Granger IND 12/19/2010 IND @ BOS L 42 19 5 20 25.0 1 7 14.3 8 9 88.9 2 4 6 2 3 1 4 2 -7
+p610
+aVSolomon Jones IND 12/17/2010 IND vs. CLE W 12 7 3 5 60.0 0 1 0.0 1 4 25.0 0 4 4 0 0 0 1 4 2
+p611
+aVMike Dunleavy IND 12/17/2010 IND vs. CLE W 35 15 4 12 33.3 2 3 66.7 5 7 71.4 1 2 3 1 2 1 1 4 -5
+p612
+aVJosh McRoberts IND 12/17/2010 IND vs. CLE W 18 9 4 5 80.0 0 0 - 1 1 100.0 1 3 4 2 0 0 0 5 10
+p613
+aVDanny Granger IND 12/17/2010 IND vs. CLE W 39 30 12 22 54.5 4 7 57.1 2 2 100.0 2 10 12 0 2 3 4 2 11
+p614
+aVJames Posey IND 12/17/2010 IND vs. CLE W 24 6 2 5 40.0 2 5 40.0 0 0 - 0 8 8 2 1 0 1 3 5
+p615
+aVBrandon Rush IND 12/17/2010 IND vs. CLE W 28 15 4 9 44.4 1 4 25.0 6 6 100.0 0 7 7 0 0 1 4 4 6
+p616
+aVT.J. Ford IND 12/17/2010 IND vs. CLE W 20 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 6 0 0 2 3 8
+p617
+aVRoy Hibbert IND 12/17/2010 IND vs. CLE W 36 15 6 13 46.2 0 0 - 3 5 60.0 2 4 6 3 0 6 4 2 7
+p618
+aVDarren Collison IND 12/17/2010 IND vs. CLE W 28 5 1 4 25.0 0 2 0.0 3 4 75.0 1 4 5 6 0 0 0 0 1
+p619
+aVRoy Hibbert IND 12/15/2010 IND vs. LAL L 31 12 6 14 42.9 0 1 0.0 0 1 0.0 2 4 6 2 0 3 0 5 -15
+p620
+aVDanny Granger IND 12/15/2010 IND vs. LAL L 33 13 5 13 38.5 1 4 25.0 2 2 100.0 0 3 3 2 0 1 4 3 -21
+p621
+aVMike Dunleavy IND 12/15/2010 IND vs. LAL L 28 11 5 9 55.6 1 3 33.3 0 0 - 0 4 4 3 1 1 0 0 11
+p622
+aVSolomon Jones IND 12/15/2010 IND vs. LAL L 13 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 1 1 0 0 1 5
+p623
+aVDahntay Jones IND 12/15/2010 IND vs. LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p624
+aVBrandon Rush IND 12/15/2010 IND vs. LAL L 32 16 6 13 46.2 2 6 33.3 2 2 100.0 1 3 4 2 0 0 0 2 -20
+p625
+aVT.J. Ford IND 12/15/2010 IND vs. LAL L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -3
+p626
+aVTyler Hansbrough IND 12/15/2010 IND vs. LAL L 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 0 6
+p627
+aVJosh McRoberts IND 12/15/2010 IND vs. LAL L 14 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 2 1 -19
+p628
+aVJeff Foster IND 12/15/2010 IND vs. LAL L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -1
+p629
+aVJames Posey IND 12/15/2010 IND vs. LAL L 19 8 3 5 60.0 2 4 50.0 0 1 0.0 0 7 7 2 0 0 0 2 -6
+p630
+aVDarren Collison IND 12/15/2010 IND vs. LAL L 34 17 7 12 58.3 0 1 0.0 3 4 75.0 0 0 0 6 0 0 0 0 -12
+p631
+aVT.J. Ford IND 12/13/2010 IND @ CHI L 27 13 5 10 50.0 0 1 0.0 3 5 60.0 0 2 2 4 2 0 3 2 2
+p632
+aVMike Dunleavy IND 12/13/2010 IND @ CHI L 35 12 5 14 35.7 1 7 14.3 1 2 50.0 3 5 8 2 1 2 3 0 -23
+p633
+aVBrandon Rush IND 12/13/2010 IND @ CHI L 41 13 5 17 29.4 1 3 33.3 2 2 100.0 2 3 5 2 0 2 3 0 -17
+p634
+aVRoy Hibbert IND 12/13/2010 IND @ CHI L 20 6 2 7 28.6 0 0 - 2 2 100.0 0 3 3 0 0 0 2 3 -18
+p635
+aVJames Posey IND 12/13/2010 IND @ CHI L 33 5 2 10 20.0 1 7 14.3 0 0 - 1 4 5 1 0 0 0 3 -10
+p636
+aVJosh McRoberts IND 12/13/2010 IND @ CHI L 15 6 3 4 75.0 0 1 0.0 0 0 - 2 2 4 0 0 0 1 3 -9
+p637
+aVDarren Collison IND 12/13/2010 IND @ CHI L 21 9 4 12 33.3 0 0 - 1 2 50.0 0 3 3 0 0 0 1 0 -21
+p638
+aVDahntay Jones IND 12/13/2010 IND @ CHI L 20 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 3 2
+p639
+aVSolomon Jones IND 12/13/2010 IND @ CHI L 28 2 1 4 25.0 0 0 - 0 0 - 4 3 7 3 2 1 0 5 -1
+p640
+aVTyler Hansbrough IND 12/11/2010 IND @ ATL L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 2
+p641
+aVJosh McRoberts IND 12/11/2010 IND @ ATL L 17 7 3 7 42.9 1 4 25.0 0 0 - 1 4 5 0 0 1 2 5 -4
+p642
+aVBrandon Rush IND 12/11/2010 IND @ ATL L 32 14 5 9 55.6 2 4 50.0 2 2 100.0 0 2 2 1 1 0 1 2 -10
+p643
+aVA.J. Price IND 12/11/2010 IND @ ATL L 10 3 1 5 20.0 0 3 0.0 1 1 100.0 0 0 0 3 2 0 0 1 2
+p644
+aVJames Posey IND 12/11/2010 IND @ ATL L 14 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 4 -16
+p645
+aVMike Dunleavy IND 12/11/2010 IND @ ATL L 39 16 6 8 75.0 4 6 66.7 0 0 - 0 9 9 3 1 2 4 2 1
+p646
+aVRoy Hibbert IND 12/11/2010 IND @ ATL L 34 6 3 14 21.4 0 0 - 0 0 - 3 5 8 2 0 1 0 1 -15
+p647
+aVJeff Foster IND 12/11/2010 IND @ ATL L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p648
+aVSolomon Jones IND 12/11/2010 IND @ ATL L 14 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 1
+p649
+aVDanny Granger IND 12/11/2010 IND @ ATL L 35 14 3 14 21.4 0 5 0.0 8 8 100.0 0 3 3 2 1 0 4 4 -16
+p650
+aVDarren Collison IND 12/11/2010 IND @ ATL L 24 8 3 7 42.9 1 2 50.0 1 1 100.0 0 3 3 5 1 0 2 1 -6
+p651
+aVT.J. Ford IND 12/11/2010 IND @ ATL L 13 10 4 8 50.0 0 1 0.0 2 2 100.0 0 1 1 3 2 0 1 2 -10
+p652
+aVDarren Collison IND 12/10/2010 IND vs. CHA W 31 10 5 11 45.5 0 2 0.0 0 0 - 0 3 3 7 1 0 2 1 -1
+p653
+aVMike Dunleavy IND 12/10/2010 IND vs. CHA W 31 15 6 13 46.2 3 6 50.0 0 0 - 1 5 6 3 0 2 1 3 12
+p654
+aVBrandon Rush IND 12/10/2010 IND vs. CHA W 28 16 6 13 46.2 4 8 50.0 0 0 - 1 3 4 0 0 0 2 1 7
+p655
+aVJames Posey IND 12/10/2010 IND vs. CHA W 27 9 3 7 42.9 3 6 50.0 0 0 - 0 4 4 0 1 0 0 1 14
+p656
+aVRoy Hibbert IND 12/10/2010 IND vs. CHA W 27 13 6 11 54.5 0 0 - 1 1 100.0 2 12 14 6 1 3 3 5 -2
+p657
+aVSolomon Jones IND 12/10/2010 IND vs. CHA W 21 5 2 3 66.7 0 0 - 1 4 25.0 3 0 3 1 1 2 0 2 10
+p658
+aVT.J. Ford IND 12/10/2010 IND vs. CHA W 17 3 0 2 0.0 0 0 - 3 4 75.0 1 2 3 3 3 0 3 1 9
+p659
+aVJosh McRoberts IND 12/10/2010 IND vs. CHA W 21 11 3 7 42.9 2 4 50.0 3 4 75.0 0 1 1 3 1 1 3 1 -6
+p660
+aVDanny Granger IND 12/10/2010 IND vs. CHA W 37 18 7 19 36.8 1 5 20.0 3 5 60.0 0 2 2 2 1 1 1 4 -3
+p661
+aVBrandon Rush IND 12/08/2010 IND @ MIL L 29 5 2 9 22.2 1 3 33.3 0 0 - 0 2 2 0 1 0 2 3 -12
+p662
+aVDarren Collison IND 12/08/2010 IND @ MIL L 32 17 7 16 43.8 1 2 50.0 2 2 100.0 0 3 3 1 1 0 2 1 1
+p663
+aVSolomon Jones IND 12/08/2010 IND @ MIL L 6 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -3
+p664
+aVT.J. Ford IND 12/08/2010 IND @ MIL L 16 5 1 3 33.3 0 1 0.0 3 4 75.0 0 1 1 2 0 0 0 1 -3
+p665
+aVRoy Hibbert IND 12/08/2010 IND @ MIL L 31 13 5 8 62.5 0 0 - 3 7 42.9 0 5 5 1 1 2 3 4 1
+p666
+aVJames Posey IND 12/08/2010 IND @ MIL L 23 8 3 6 50.0 2 5 40.0 0 0 - 0 4 4 0 0 0 0 3 -8
+p667
+aVMike Dunleavy IND 12/08/2010 IND @ MIL L 30 9 2 7 28.6 1 5 20.0 4 5 80.0 1 5 6 3 1 0 1 1 4
+p668
+aVJosh McRoberts IND 12/08/2010 IND @ MIL L 25 8 3 4 75.0 1 1 100.0 1 2 50.0 1 6 7 5 0 2 0 5 8
+p669
+aVJeff Foster IND 12/08/2010 IND @ MIL L 11 0 0 0 - 0 0 - 0 0 - 1 2 3 2 0 2 1 3 -2
+p670
+aVDanny Granger IND 12/08/2010 IND @ MIL L 37 26 7 18 38.9 3 7 42.9 9 11 81.8 0 4 4 2 1 1 2 4 4
+p671
+aVJosh McRoberts IND 12/06/2010 IND vs. TOR W 26 12 4 11 36.4 1 4 25.0 3 4 75.0 2 5 7 6 2 3 1 0 19
+p672
+aVA.J. Price IND 12/06/2010 IND vs. TOR W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 2
+p673
+aVDahntay Jones IND 12/06/2010 IND vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p674
+aVTyler Hansbrough IND 12/06/2010 IND vs. TOR W 6 4 0 0 - 0 0 - 4 4 100.0 0 1 1 1 1 0 0 1 1
+p675
+aVDarren Collison IND 12/06/2010 IND vs. TOR W 25 17 6 7 85.7 0 0 - 5 5 100.0 0 3 3 1 1 0 2 2 14
+p676
+aVMike Dunleavy IND 12/06/2010 IND vs. TOR W 29 11 5 7 71.4 1 1 100.0 0 0 - 0 5 5 2 2 1 0 4 19
+p677
+aVBrandon Rush IND 12/06/2010 IND vs. TOR W 32 26 10 18 55.6 6 8 75.0 0 0 - 1 3 4 1 2 0 1 1 13
+p678
+aVSolomon Jones IND 12/06/2010 IND vs. TOR W 16 5 2 5 40.0 0 0 - 1 2 50.0 3 3 6 2 0 0 1 1 8
+p679
+aVDanny Granger IND 12/06/2010 IND vs. TOR W 31 21 9 16 56.3 2 5 40.0 1 2 50.0 1 8 9 5 1 1 4 1 14
+p680
+aVRoy Hibbert IND 12/06/2010 IND vs. TOR W 28 13 6 9 66.7 0 0 - 1 1 100.0 2 4 6 6 0 2 5 2 14
+p681
+aVJames Posey IND 12/06/2010 IND vs. TOR W 20 11 4 8 50.0 3 7 42.9 0 0 - 0 3 3 2 0 0 0 2 6
+p682
+aVT.J. Ford IND 12/06/2010 IND vs. TOR W 19 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 6 1 0 2 1 8
+p683
+aVDarren Collison IND 12/03/2010 IND @ PHX L 23 5 1 3 33.3 0 0 - 3 3 100.0 0 2 2 4 2 0 5 2 -6
+p684
+aVJames Posey IND 12/03/2010 IND @ PHX L 21 8 3 7 42.9 2 6 33.3 0 0 - 2 5 7 1 1 0 1 6 6
+p685
+aVT.J. Ford IND 12/03/2010 IND @ PHX L 26 10 4 10 40.0 0 0 - 2 3 66.7 0 2 2 9 0 0 2 2 -2
+p686
+aVJosh McRoberts IND 12/03/2010 IND @ PHX L 30 16 6 9 66.7 4 6 66.7 0 0 - 1 8 9 3 0 1 8 5 -2
+p687
+aVBrandon Rush IND 12/03/2010 IND @ PHX L 36 21 9 16 56.3 3 6 50.0 0 0 - 1 3 4 1 0 0 2 3 -11
+p688
+aVDanny Granger IND 12/03/2010 IND @ PHX L 36 8 2 13 15.4 0 3 0.0 4 6 66.7 1 4 5 1 1 1 2 4 -7
+p689
+aVMike Dunleavy IND 12/03/2010 IND @ PHX L 30 16 6 11 54.5 2 5 40.0 2 2 100.0 2 6 8 0 0 2 0 1 -6
+p690
+aVRoy Hibbert IND 12/03/2010 IND @ PHX L 18 8 4 6 66.7 0 0 - 0 0 - 0 1 1 3 0 1 0 4 -11
+p691
+aVSolomon Jones IND 12/03/2010 IND @ PHX L 22 5 2 4 50.0 0 0 - 1 2 50.0 2 4 6 2 1 2 4 3 -1
+p692
+aVT.J. Ford IND 12/01/2010 IND @ UTA L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 3 1 -13
+p693
+aVMike Dunleavy IND 12/01/2010 IND @ UTA L 16 11 4 6 66.7 1 2 50.0 2 4 50.0 0 1 1 0 0 1 1 0 -26
+p694
+aVJosh McRoberts IND 12/01/2010 IND @ UTA L 26 8 2 4 50.0 2 3 66.7 2 2 100.0 2 2 4 5 0 1 1 1 1
+p695
+aVBrandon Rush IND 12/01/2010 IND @ UTA L 42 15 5 9 55.6 3 5 60.0 2 3 66.7 0 2 2 1 0 1 2 2 -12
+p696
+aVJames Posey IND 12/01/2010 IND @ UTA L 17 2 0 4 0.0 0 4 0.0 2 2 100.0 0 2 2 0 1 0 2 3 -20
+p697
+aVRoy Hibbert IND 12/01/2010 IND @ UTA L 32 15 6 8 75.0 0 0 - 3 4 75.0 1 4 5 2 0 0 1 2 -17
+p698
+aVSolomon Jones IND 12/01/2010 IND @ UTA L 16 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 3 0 1 -5
+p699
+aVDahntay Jones IND 12/01/2010 IND @ UTA L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -3
+p700
+aVDanny Granger IND 12/01/2010 IND @ UTA L 30 14 6 16 37.5 1 6 16.7 1 1 100.0 1 6 7 2 0 1 1 3 -3
+p701
+aVTyler Hansbrough IND 12/01/2010 IND @ UTA L 5 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 2 0 0 -3
+p702
+aVDarren Collison IND 12/01/2010 IND @ UTA L 34 16 5 12 41.7 2 4 50.0 4 5 80.0 2 3 5 5 0 0 6 1 -9
+p703
+aVJames Posey IND 11/30/2010 IND @ SAC W 15 3 1 6 16.7 1 6 16.7 0 0 - 0 1 1 2 1 0 0 3 -2
+p704
+aVDarren Collison IND 11/30/2010 IND @ SAC W 30 17 5 10 50.0 0 0 - 7 8 87.5 0 4 4 6 2 0 2 1 9
+p705
+aVTyler Hansbrough IND 11/30/2010 IND @ SAC W 12 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 2 2 -6
+p706
+aVT.J. Ford IND 11/30/2010 IND @ SAC W 18 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 0 0 3 1 0
+p707
+aVRoy Hibbert IND 11/30/2010 IND @ SAC W 32 16 8 13 61.5 0 0 - 0 1 0.0 2 6 8 4 0 1 1 5 5
+p708
+aVBrandon Rush IND 11/30/2010 IND @ SAC W 22 6 2 8 25.0 1 4 25.0 1 2 50.0 0 3 3 0 2 1 0 2 -4
+p709
+aVJosh McRoberts IND 11/30/2010 IND @ SAC W 21 7 1 3 33.3 0 0 - 5 6 83.3 0 3 3 4 1 2 0 4 17
+p710
+aVSolomon Jones IND 11/30/2010 IND @ SAC W 16 12 4 7 57.1 0 0 - 4 4 100.0 2 2 4 1 0 1 0 5 4
+p711
+aVMike Dunleavy IND 11/30/2010 IND @ SAC W 34 7 3 10 30.0 1 4 25.0 0 0 - 0 6 6 0 0 0 0 0 22
+p712
+aVDanny Granger IND 11/30/2010 IND @ SAC W 40 37 12 19 63.2 3 5 60.0 10 11 90.9 1 6 7 2 2 1 4 3 0
+p713
+aVBrandon Rush IND 11/28/2010 IND @ LAL W 32 11 5 13 38.5 0 5 0.0 1 2 50.0 2 1 3 3 1 0 1 2 -4
+p714
+aVT.J. Ford IND 11/28/2010 IND @ LAL W 23 5 2 9 22.2 1 1 100.0 0 0 - 0 1 1 5 0 0 2 0 1
+p715
+aVTyler Hansbrough IND 11/28/2010 IND @ LAL W 13 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 0 0 0 -4
+p716
+aVMike Dunleavy IND 11/28/2010 IND @ LAL W 24 3 1 5 20.0 0 3 0.0 1 1 100.0 0 5 5 3 1 1 2 2 2
+p717
+aVJosh McRoberts IND 11/28/2010 IND @ LAL W 20 4 2 2 100.0 0 0 - 0 0 - 3 3 6 2 1 4 0 5 -1
+p718
+aVDanny Granger IND 11/28/2010 IND @ LAL W 40 18 7 16 43.8 2 6 33.3 2 2 100.0 0 4 4 2 1 0 2 1 8
+p719
+aVJames Posey IND 11/28/2010 IND @ LAL W 15 3 1 6 16.7 1 6 16.7 0 0 - 1 3 4 0 1 0 0 1 8
+p720
+aVSolomon Jones IND 11/28/2010 IND @ LAL W 14 9 3 4 75.0 0 0 - 3 4 75.0 5 2 7 2 0 1 1 5 -3
+p721
+aVDarren Collison IND 11/28/2010 IND @ LAL W 25 14 6 14 42.9 0 2 0.0 2 2 100.0 0 1 1 3 1 0 3 2 2
+p722
+aVRoy Hibbert IND 11/28/2010 IND @ LAL W 34 24 9 13 69.2 0 0 - 6 8 75.0 2 10 12 6 1 0 3 4 6
+p723
+aVT.J. Ford IND 11/26/2010 IND vs. OKC L 28 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 2 1 0 2 3 12
+p724
+aVSolomon Jones IND 11/26/2010 IND vs. OKC L 16 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 11
+p725
+aVDarren Collison IND 11/26/2010 IND vs. OKC L 25 10 5 11 45.5 0 0 - 0 1 0.0 0 3 3 5 0 0 1 6 -16
+p726
+aVRoy Hibbert IND 11/26/2010 IND vs. OKC L 37 19 9 21 42.9 0 0 - 1 2 50.0 4 6 10 2 1 1 2 3 -16
+p727
+aVJames Posey IND 11/26/2010 IND vs. OKC L 29 9 3 6 50.0 3 6 50.0 0 0 - 0 7 7 1 1 1 0 4 5
+p728
+aVDanny Granger IND 11/26/2010 IND vs. OKC L 44 30 11 24 45.8 2 9 22.2 6 7 85.7 2 2 4 2 2 1 7 5 -16
+p729
+aVJosh McRoberts IND 11/26/2010 IND vs. OKC L 24 13 5 9 55.6 1 3 33.3 2 3 66.7 1 7 8 2 1 2 0 2 -9
+p730
+aVMike Dunleavy IND 11/26/2010 IND vs. OKC L 33 12 4 8 50.0 2 4 50.0 2 3 66.7 1 9 10 4 0 0 2 1 9
+p731
+aVBrandon Rush IND 11/26/2010 IND vs. OKC L 29 7 1 4 25.0 0 0 - 5 6 83.3 2 3 5 4 0 0 0 2 0
+p732
+aVDarren Collison IND 11/23/2010 IND vs. CLE W 34 18 5 11 45.5 1 1 100.0 7 8 87.5 1 5 6 7 1 0 0 2 20
+p733
+aVBrandon Rush IND 11/23/2010 IND vs. CLE W 30 16 7 10 70.0 2 3 66.7 0 2 0.0 0 3 3 0 0 1 1 2 -4
+p734
+aVJosh McRoberts IND 11/23/2010 IND vs. CLE W 29 9 3 6 50.0 1 3 33.3 2 2 100.0 3 4 7 4 2 2 1 1 10
+p735
+aVT.J. Ford IND 11/23/2010 IND vs. CLE W 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -9
+p736
+aVSolomon Jones IND 11/23/2010 IND vs. CLE W 15 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 0 1 0 0 3 1
+p737
+aVTyler Hansbrough IND 11/23/2010 IND vs. CLE W 20 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 0 0 0 3 4 -9
+p738
+aVPaul George IND 11/23/2010 IND vs. CLE W 9 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -15
+p739
+aVRoy Hibbert IND 11/23/2010 IND vs. CLE W 21 6 3 6 50.0 0 0 - 0 0 - 1 6 7 1 0 2 2 2 26
+p740
+aVDanny Granger IND 11/23/2010 IND vs. CLE W 32 24 7 17 41.2 5 9 55.6 5 5 100.0 0 5 5 3 2 1 3 4 24
+p741
+aVJames Posey IND 11/23/2010 IND vs. CLE W 11 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 2 0 0 0 0 -6
+p742
+aVMike Dunleavy IND 11/23/2010 IND vs. CLE W 25 10 4 8 50.0 2 5 40.0 0 0 - 0 6 6 2 1 0 2 2 17
+p743
+aVTyler Hansbrough IND 11/22/2010 IND @ MIA W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p744
+aVT.J. Ford IND 11/22/2010 IND @ MIA W 26 13 5 10 50.0 1 2 50.0 2 2 100.0 1 5 6 5 1 0 1 1 26
+p745
+aVBrandon Rush IND 11/22/2010 IND @ MIA W 38 20 9 15 60.0 0 2 0.0 2 4 50.0 2 5 7 4 1 0 1 3 17
+p746
+aVDarren Collison IND 11/22/2010 IND @ MIA W 22 4 2 8 25.0 0 0 - 0 0 - 0 2 2 3 1 0 2 1 -10
+p747
+aVDanny Granger IND 11/22/2010 IND @ MIA W 39 20 6 21 28.6 4 9 44.4 4 4 100.0 1 10 11 6 3 1 3 3 -3
+p748
+aVJosh McRoberts IND 11/22/2010 IND @ MIA W 26 0 0 3 0.0 0 0 - 0 0 - 2 1 3 4 1 0 2 5 1
+p749
+aVRoy Hibbert IND 11/22/2010 IND @ MIA W 22 9 4 11 36.4 0 0 - 1 1 100.0 3 2 5 1 0 0 1 5 -8
+p750
+aVSolomon Jones IND 11/22/2010 IND @ MIA W 21 4 2 4 50.0 0 0 - 0 0 - 3 7 10 0 1 1 2 3 21
+p751
+aVJames Posey IND 11/22/2010 IND @ MIA W 23 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 2 1 0 1 3 15
+p752
+aVMike Dunleavy IND 11/22/2010 IND @ MIA W 17 11 4 8 50.0 1 4 25.0 2 2 100.0 0 3 3 1 0 0 0 1 16
+p753
+aVA.J. Price IND 11/20/2010 IND vs. ORL L 13 4 1 3 33.3 1 2 50.0 1 2 50.0 0 1 1 1 0 0 1 0 -3
+p754
+aVDanny Granger IND 11/20/2010 IND vs. ORL L 36 13 5 18 27.8 1 5 20.0 2 2 100.0 1 1 2 4 2 1 2 4 -9
+p755
+aVRoy Hibbert IND 11/20/2010 IND vs. ORL L 29 19 8 16 50.0 0 0 - 3 5 60.0 5 5 10 3 0 1 1 5 -6
+p756
+aVJames Posey IND 11/20/2010 IND vs. ORL L 21 5 1 6 16.7 1 6 16.7 2 2 100.0 0 2 2 0 2 0 3 4 -1
+p757
+aVBrandon Rush IND 11/20/2010 IND vs. ORL L 29 14 6 11 54.5 1 4 25.0 1 3 33.3 0 3 3 1 1 0 0 5 4
+p758
+aVJeff Foster IND 11/20/2010 IND vs. ORL L 19 4 2 2 100.0 0 0 - 0 0 - 3 5 8 0 1 3 3 4 2
+p759
+aVMike Dunleavy IND 11/20/2010 IND vs. ORL L 31 10 4 12 33.3 1 5 20.0 1 3 33.3 2 4 6 2 0 0 0 0 -3
+p760
+aVTyler Hansbrough IND 11/20/2010 IND vs. ORL L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 2
+p761
+aVT.J. Ford IND 11/20/2010 IND vs. ORL L 35 10 5 14 35.7 0 3 0.0 0 0 - 2 7 9 5 2 0 2 1 -1
+p762
+aVJosh McRoberts IND 11/20/2010 IND vs. ORL L 15 6 3 6 50.0 0 2 0.0 0 0 - 3 6 9 0 1 0 0 0 -5
+p763
+aVDanny Granger IND 11/18/2010 IND vs. LAC W 34 22 6 14 42.9 4 6 66.7 6 7 85.7 0 7 7 5 2 2 0 3 21
+p764
+aVDahntay Jones IND 11/18/2010 IND vs. LAC W 9 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 3 6
+p765
+aVT.J. Ford IND 11/18/2010 IND vs. LAC W 27 11 4 11 36.4 0 1 0.0 3 4 75.0 0 3 3 5 0 1 1 3 11
+p766
+aVA.J. Price IND 11/18/2010 IND vs. LAC W 21 14 6 10 60.0 2 6 33.3 0 0 - 0 2 2 6 0 0 1 0 16
+p767
+aVRoy Hibbert IND 11/18/2010 IND vs. LAC W 31 18 9 13 69.2 0 0 - 0 0 - 1 7 8 1 1 3 6 0 16
+p768
+aVTyler Hansbrough IND 11/18/2010 IND vs. LAC W 20 7 3 4 75.0 0 0 - 1 2 50.0 2 6 8 1 0 0 0 4 10
+p769
+aVBrandon Rush IND 11/18/2010 IND vs. LAC W 28 14 4 7 57.1 4 5 80.0 2 2 100.0 0 5 5 1 2 5 4 2 18
+p770
+aVJosh McRoberts IND 11/18/2010 IND vs. LAC W 24 3 1 4 25.0 0 0 - 1 2 50.0 0 5 5 0 2 1 0 4 2
+p771
+aVJeff Foster IND 11/18/2010 IND vs. LAC W 12 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 2 1 1 9
+p772
+aVJames Posey IND 11/18/2010 IND vs. LAC W 18 12 4 7 57.1 4 7 57.1 0 0 - 0 3 3 1 0 0 0 1 23
+p773
+aVPaul George IND 11/18/2010 IND vs. LAC W 16 3 1 4 25.0 0 1 0.0 1 1 100.0 1 1 2 3 0 0 1 4 3
+p774
+aVBrandon Rush IND 11/16/2010 IND vs. ATL L 26 5 1 5 20.0 0 1 0.0 3 4 75.0 0 2 2 1 0 2 1 1 -2
+p775
+aVJames Posey IND 11/16/2010 IND vs. ATL L 25 8 3 7 42.9 2 6 33.3 0 0 - 1 3 4 1 1 0 1 4 -2
+p776
+aVJosh McRoberts IND 11/16/2010 IND vs. ATL L 23 2 1 3 33.3 0 0 - 0 0 - 1 6 7 1 0 0 0 3 -8
+p777
+aVA.J. Price IND 11/16/2010 IND vs. ATL L 11 7 2 3 66.7 0 1 0.0 3 3 100.0 0 0 0 2 0 0 1 2 -6
+p778
+aVDanny Granger IND 11/16/2010 IND vs. ATL L 40 22 7 14 50.0 1 4 25.0 7 8 87.5 0 6 6 3 1 2 2 0 -15
+p779
+aVT.J. Ford IND 11/16/2010 IND vs. ATL L 37 6 3 10 30.0 0 2 0.0 0 0 - 3 1 4 5 0 0 0 2 -4
+p780
+aVMike Dunleavy IND 11/16/2010 IND vs. ATL L 32 14 4 8 50.0 1 4 25.0 5 5 100.0 0 1 1 2 2 0 4 4 -4
+p781
+aVSolomon Jones IND 11/16/2010 IND vs. ATL L 13 10 4 4 100.0 0 0 - 2 2 100.0 0 3 3 0 0 1 3 4 -11
+p782
+aVRoy Hibbert IND 11/16/2010 IND vs. ATL L 33 18 6 16 37.5 0 0 - 6 8 75.0 7 8 15 3 1 1 3 4 2
+p783
+aVTyler Hansbrough IND 11/13/2010 IND @ CLE W 7 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 -7
+p784
+aVSolomon Jones IND 11/13/2010 IND @ CLE W 12 4 0 3 0.0 0 0 - 4 4 100.0 0 2 2 0 0 1 0 0 -2
+p785
+aVJames Posey IND 11/13/2010 IND @ CLE W 22 0 0 4 0.0 0 4 0.0 0 0 - 0 5 5 1 0 0 1 4 9
+p786
+aVDanny Granger IND 11/13/2010 IND @ CLE W 39 34 13 21 61.9 5 8 62.5 3 3 100.0 0 2 2 2 1 0 3 1 21
+p787
+aVJosh McRoberts IND 11/13/2010 IND @ CLE W 27 4 1 3 33.3 0 0 - 2 2 100.0 2 4 6 4 2 0 3 4 13
+p788
+aVBrandon Rush IND 11/13/2010 IND @ CLE W 21 7 3 5 60.0 1 3 33.3 0 0 - 1 2 3 0 0 0 1 3 -4
+p789
+aVMike Dunleavy IND 11/13/2010 IND @ CLE W 37 20 6 14 42.9 4 9 44.4 4 4 100.0 0 5 5 2 0 0 1 3 11
+p790
+aVT.J. Ford IND 11/13/2010 IND @ CLE W 24 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 5 1 3 2 3 2
+p791
+aVDarren Collison IND 11/13/2010 IND @ CLE W 24 8 4 7 57.1 0 0 - 0 0 - 0 0 0 5 0 1 1 1 12
+p792
+aVRoy Hibbert IND 11/13/2010 IND @ CLE W 28 16 7 16 43.8 0 0 - 2 2 100.0 4 9 13 2 1 2 1 3 15
+p793
+aVTyler Hansbrough IND 11/12/2010 IND vs. HOU L 11 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 0 -12
+p794
+aVDarren Collison IND 11/12/2010 IND vs. HOU L 33 13 6 13 46.2 0 1 0.0 1 1 100.0 0 3 3 0 1 0 1 1 -22
+p795
+aVDanny Granger IND 11/12/2010 IND vs. HOU L 38 17 7 18 38.9 1 6 16.7 2 2 100.0 3 2 5 4 0 1 2 2 -8
+p796
+aVT.J. Ford IND 11/12/2010 IND vs. HOU L 15 9 3 6 50.0 1 1 100.0 2 4 50.0 1 2 3 4 1 0 1 5 19
+p797
+aVMike Dunleavy IND 11/12/2010 IND vs. HOU L 32 15 6 9 66.7 2 4 50.0 1 2 50.0 1 3 4 6 0 0 2 3 -11
+p798
+aVJames Posey IND 11/12/2010 IND vs. HOU L 26 19 7 12 58.3 5 8 62.5 0 0 - 0 5 5 0 1 0 0 1 16
+p799
+aVBrandon Rush IND 11/12/2010 IND vs. HOU L 26 2 1 7 14.3 0 2 0.0 0 0 - 2 1 3 1 0 1 1 3 13
+p800
+aVRoy Hibbert IND 11/12/2010 IND vs. HOU L 29 18 8 14 57.1 0 0 - 2 2 100.0 1 7 8 3 0 2 4 3 1
+p801
+aVJosh McRoberts IND 11/12/2010 IND vs. HOU L 30 2 1 6 16.7 0 0 - 0 0 - 2 6 8 2 1 0 3 4 -11
+p802
+aVJosh McRoberts IND 11/09/2010 IND vs. DEN W 30 2 1 4 25.0 0 2 0.0 0 2 0.0 0 10 10 5 0 1 1 2 25
+p803
+aVDanny Granger IND 11/09/2010 IND vs. DEN W 27 19 8 10 80.0 3 4 75.0 0 0 - 0 3 3 5 2 0 1 4 23
+p804
+aVT.J. Ford IND 11/09/2010 IND vs. DEN W 17 2 1 1 100.0 0 0 - 0 0 - 0 3 3 6 0 0 2 4 18
+p805
+aVSolomon Jones IND 11/09/2010 IND vs. DEN W 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 1 2 1 -6
+p806
+aVDarren Collison IND 11/09/2010 IND vs. DEN W 31 29 12 14 85.7 4 5 80.0 1 1 100.0 1 2 3 6 1 0 2 1 13
+p807
+aVDahntay Jones IND 11/09/2010 IND vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p808
+aVPaul George IND 11/09/2010 IND vs. DEN W 13 4 1 4 25.0 1 4 25.0 1 2 50.0 0 2 2 3 1 0 0 0 1
+p809
+aVMike Dunleavy IND 11/09/2010 IND vs. DEN W 24 31 9 13 69.2 6 10 60.0 7 8 87.5 0 1 1 3 0 1 0 1 34
+p810
+aVTyler Hansbrough IND 11/09/2010 IND vs. DEN W 29 20 9 12 75.0 0 0 - 2 2 100.0 6 3 9 3 0 1 1 3 20
+p811
+aVBrandon Rush IND 11/09/2010 IND vs. DEN W 30 16 6 11 54.5 2 5 40.0 2 2 100.0 1 6 7 2 1 0 2 2 9
+p812
+aVRoy Hibbert IND 11/09/2010 IND vs. DEN W 24 17 7 13 53.8 0 0 - 3 4 75.0 2 4 6 2 2 3 3 2 23
+p813
+aVJosh McRoberts IND 11/05/2010 IND vs. MIL L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 4 -4
+p814
+aVSolomon Jones IND 11/05/2010 IND vs. MIL L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -3
+p815
+aVRoy Hibbert IND 11/05/2010 IND vs. MIL L 35 14 4 11 36.4 0 0 - 6 7 85.7 3 9 12 4 0 6 6 4 -1
+p816
+aVT.J. Ford IND 11/05/2010 IND vs. MIL L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 3 0 0 0 1 -5
+p817
+aVTyler Hansbrough IND 11/05/2010 IND vs. MIL L 10 6 3 3 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -7
+p818
+aVMike Dunleavy IND 11/05/2010 IND vs. MIL L 38 11 3 8 37.5 0 2 0.0 5 6 83.3 1 8 9 0 1 0 1 1 -4
+p819
+aVJames Posey IND 11/05/2010 IND vs. MIL L 28 9 3 7 42.9 3 7 42.9 0 0 - 0 4 4 1 0 0 0 3 4
+p820
+aVDarren Collison IND 11/05/2010 IND vs. MIL L 33 19 5 13 38.5 1 3 33.3 8 9 88.9 0 1 1 2 5 1 3 1 1
+p821
+aVDanny Granger IND 11/05/2010 IND vs. MIL L 42 19 6 17 35.3 0 4 0.0 7 8 87.5 0 9 9 0 0 2 7 3 3
+p822
+aVPaul George IND 11/05/2010 IND vs. MIL L 14 10 4 9 44.4 2 5 40.0 0 0 - 0 3 3 0 0 0 0 1 -4
+p823
+aVJosh McRoberts IND 11/03/2010 IND @ PHI L 20 10 4 6 66.7 2 3 66.7 0 0 - 0 4 4 2 3 1 2 4 -11
+p824
+aVSolomon Jones IND 11/03/2010 IND @ PHI L 17 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -22
+p825
+aVTyler Hansbrough IND 11/03/2010 IND @ PHI L 18 6 2 6 33.3 0 0 - 2 6 33.3 2 1 3 1 0 0 0 1 -16
+p826
+aVT.J. Ford IND 11/03/2010 IND @ PHI L 16 7 3 10 30.0 1 3 33.3 0 0 - 0 2 2 1 1 0 2 2 -11
+p827
+aVJames Posey IND 11/03/2010 IND @ PHI L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 1 1 0 0 0 -5
+p828
+aVDanny Granger IND 11/03/2010 IND @ PHI L 39 7 2 14 14.3 1 4 25.0 2 2 100.0 0 7 7 3 0 0 2 3 -18
+p829
+aVMike Dunleavy IND 11/03/2010 IND @ PHI L 31 6 2 11 18.2 2 4 50.0 0 0 - 2 5 7 1 0 1 1 1 -18
+p830
+aVDarren Collison IND 11/03/2010 IND @ PHI L 32 11 4 16 25.0 0 2 0.0 3 3 100.0 2 2 4 3 0 0 3 1 -15
+p831
+aVDahntay Jones IND 11/03/2010 IND @ PHI L 11 8 2 3 66.7 0 0 - 4 4 100.0 0 4 4 2 0 0 1 1 0
+p832
+aVRoy Hibbert IND 11/03/2010 IND @ PHI L 27 9 4 12 33.3 0 1 0.0 1 2 50.0 5 3 8 3 0 3 1 3 2
+p833
+aVPaul George IND 11/03/2010 IND @ PHI L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 1 0 1 1 -16
+p834
+aVTyler Hansbrough IND 10/30/2010 IND vs. PHI W 23 9 3 8 37.5 0 0 - 3 3 100.0 3 4 7 2 2 0 3 2 13
+p835
+aVDanny Granger IND 10/30/2010 IND vs. PHI W 39 22 8 16 50.0 2 7 28.6 4 5 80.0 0 4 4 1 2 2 1 1 13
+p836
+aVJames Posey IND 10/30/2010 IND vs. PHI W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 -13
+p837
+aVPaul George IND 10/30/2010 IND vs. PHI W 20 8 3 6 50.0 2 4 50.0 0 0 - 1 3 4 2 0 0 2 1 -9
+p838
+aVMike Dunleavy IND 10/30/2010 IND vs. PHI W 37 16 6 13 46.2 1 7 14.3 3 3 100.0 1 8 9 0 0 1 0 3 22
+p839
+aVDarren Collison IND 10/30/2010 IND vs. PHI W 25 15 6 13 46.2 0 1 0.0 3 3 100.0 0 3 3 4 4 0 2 1 16
+p840
+aVSolomon Jones IND 10/30/2010 IND vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -12
+p841
+aVT.J. Ford IND 10/30/2010 IND vs. PHI W 23 6 2 6 33.3 1 1 100.0 1 2 50.0 0 0 0 4 0 1 4 0 -3
+p842
+aVJosh McRoberts IND 10/30/2010 IND vs. PHI W 30 9 4 12 33.3 1 3 33.3 0 3 0.0 5 4 9 0 1 1 2 3 13
+p843
+aVRoy Hibbert IND 10/30/2010 IND vs. PHI W 33 14 5 13 38.5 0 0 - 4 6 66.7 5 8 13 5 0 1 3 3 25
+p844
+aVRoy Hibbert IND 10/29/2010 IND @ CHA W 38 13 3 8 37.5 0 0 - 7 8 87.5 2 6 8 6 0 4 0 3 12
+p845
+aVJames Posey IND 10/29/2010 IND @ CHA W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 2 -10
+p846
+aVPaul George IND 10/29/2010 IND @ CHA W 21 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 2 0 1 0 4 -9
+p847
+aVTyler Hansbrough IND 10/29/2010 IND @ CHA W 20 12 3 4 75.0 0 0 - 6 6 100.0 1 3 4 0 2 1 0 3 12
+p848
+aVJosh McRoberts IND 10/29/2010 IND @ CHA W 17 8 4 5 80.0 0 0 - 0 0 - 5 2 7 1 0 1 0 2 2
+p849
+aVSolomon Jones IND 10/29/2010 IND @ CHA W 10 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 4 -9
+p850
+aVDanny Granger IND 10/29/2010 IND @ CHA W 38 33 12 23 52.2 6 11 54.5 3 4 75.0 0 5 5 3 1 2 3 6 7
+p851
+aVMike Dunleavy IND 10/29/2010 IND @ CHA W 34 10 4 13 30.8 2 9 22.2 0 0 - 0 4 4 3 0 1 1 2 7
+p852
+aVT.J. Ford IND 10/29/2010 IND @ CHA W 24 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 4 2 1 2 1 3
+p853
+aVDarren Collison IND 10/29/2010 IND @ CHA W 24 7 2 10 20.0 1 2 50.0 2 2 100.0 1 1 2 6 0 0 3 1 0
+p854
+aVJames Posey IND 10/27/2010 IND @ SAS L 24 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 1 1 0 1 3 -9
+p855
+aVRoy Hibbert IND 10/27/2010 IND @ SAS L 33 28 10 17 58.8 0 0 - 8 8 100.0 4 5 9 3 0 3 3 5 -6
+p856
+aVSolomon Jones IND 10/27/2010 IND @ SAS L 15 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 1 4 -7
+p857
+aVMike Dunleavy IND 10/27/2010 IND @ SAS L 34 8 3 7 42.9 1 3 33.3 1 4 25.0 1 6 7 1 0 0 3 2 -8
+p858
+aVPaul George IND 10/27/2010 IND @ SAS L 23 4 1 5 20.0 0 3 0.0 2 2 100.0 1 2 3 2 2 1 3 2 -1
+p859
+aVDarren Collison IND 10/27/2010 IND @ SAS L 32 19 7 13 53.8 1 2 50.0 4 5 80.0 0 2 2 7 0 0 3 1 -13
+p860
+aVJosh McRoberts IND 10/27/2010 IND @ SAS L 24 11 5 6 83.3 1 2 50.0 0 0 - 1 5 6 1 1 2 2 4 -4
+p861
+aVT.J. Ford IND 10/27/2010 IND @ SAS L 18 9 4 4 100.0 1 1 100.0 0 2 0.0 1 0 1 1 3 0 3 2 -8
+p862
+aVDanny Granger IND 10/27/2010 IND @ SAS L 37 26 10 19 52.6 3 6 50.0 3 5 60.0 1 3 4 2 2 0 4 3 -9
+p863
+a.

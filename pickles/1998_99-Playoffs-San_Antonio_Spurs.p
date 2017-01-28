@@ -1,0 +1,362 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTim Duncan SAS 06/25/1999 SAS @ NYK W 46 31 12 22 54.5 0 1 0.0 7 9 77.8 0 9 9 2 0 1 2 2 5
+p2
+aVSteve Kerr SAS 06/25/1999 SAS @ NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p3
+aVMalik Rose SAS 06/25/1999 SAS @ NYK W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 1 3 -3
+p4
+aVAntonio Daniels SAS 06/25/1999 SAS @ NYK W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p5
+aVAvery Johnson SAS 06/25/1999 SAS @ NYK W 39 8 4 10 40.0 0 1 0.0 0 0 - 0 2 2 9 0 0 6 3 1
+p6
+aVJaren Jackson SAS 06/25/1999 SAS @ NYK W 24 11 4 9 44.4 3 6 50.0 0 0 - 0 3 3 0 2 0 2 1 -1
+p7
+aVSean Elliott SAS 06/25/1999 SAS @ NYK W 36 2 0 4 0.0 0 2 0.0 2 2 100.0 4 2 6 5 0 0 0 4 12
+p8
+aVMario Elie SAS 06/25/1999 SAS @ NYK W 35 10 2 6 33.3 2 3 66.7 4 4 100.0 1 5 6 3 2 0 1 2 -9
+p9
+aVDavid Robinson SAS 06/25/1999 SAS @ NYK W 38 15 5 14 35.7 0 0 - 5 8 62.5 4 8 12 0 2 1 2 1 0
+p10
+aVDavid Robinson SAS 06/23/1999 SAS @ NYK W 36 14 6 15 40.0 0 0 - 2 2 100.0 9 8 17 0 0 4 1 5 21
+p11
+aVSteve Kerr SAS 06/23/1999 SAS @ NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p12
+aVMario Elie SAS 06/23/1999 SAS @ NYK W 39 18 6 9 66.7 1 2 50.0 5 6 83.3 1 5 6 4 2 0 3 4 7
+p13
+aVJaren Jackson SAS 06/23/1999 SAS @ NYK W 15 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 1 1 0 2 4 -4
+p14
+aVTim Duncan SAS 06/23/1999 SAS @ NYK W 46 28 9 19 47.4 0 0 - 10 12 83.3 3 15 18 3 0 3 5 4 3
+p15
+aVAvery Johnson SAS 06/23/1999 SAS @ NYK W 43 14 6 10 60.0 0 0 - 2 4 50.0 0 2 2 10 1 0 3 3 10
+p16
+aVSean Elliott SAS 06/23/1999 SAS @ NYK W 40 14 4 11 36.4 2 5 40.0 4 4 100.0 0 2 2 4 1 1 1 3 9
+p17
+aVMalik Rose SAS 06/23/1999 SAS @ NYK W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 2 2 -10
+p18
+aVJerome Kersey SAS 06/23/1999 SAS @ NYK W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p19
+aVGerard King SAS 06/21/1999 SAS @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p20
+aVDavid Robinson SAS 06/21/1999 SAS @ NYK L 38 25 6 12 50.0 0 0 - 13 17 76.5 1 9 10 1 0 2 2 3 -6
+p21
+aVSean Elliott SAS 06/21/1999 SAS @ NYK L 38 7 3 9 33.3 1 5 20.0 0 0 - 0 1 1 2 1 0 1 2 -11
+p22
+aVTim Duncan SAS 06/21/1999 SAS @ NYK L 46 20 8 16 50.0 0 1 0.0 4 4 100.0 3 9 12 2 3 1 5 3 -11
+p23
+aVAntonio Daniels SAS 06/21/1999 SAS @ NYK L 16 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 3 1 0 2 2 -2
+p24
+aVSteve Kerr SAS 06/21/1999 SAS @ NYK L 14 5 2 4 50.0 1 1 100.0 0 0 - 2 0 2 0 0 0 1 3 -3
+p25
+aVMario Elie SAS 06/21/1999 SAS @ NYK L 26 6 2 6 33.3 1 3 33.3 1 1 100.0 0 0 0 1 0 0 1 5 -2
+p26
+aVJaren Jackson SAS 06/21/1999 SAS @ NYK L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 4 -1
+p27
+aVMalik Rose SAS 06/21/1999 SAS @ NYK L 10 0 0 3 0.0 0 0 - 0 0 - 2 4 6 0 0 0 1 2 1
+p28
+aVAvery Johnson SAS 06/21/1999 SAS @ NYK L 39 10 5 9 55.6 0 0 - 0 0 - 2 2 4 4 1 0 6 3 -5
+p29
+aVSteve Kerr SAS 06/18/1999 SAS vs. NYK W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 0
+p30
+aVSean Elliott SAS 06/18/1999 SAS vs. NYK W 38 10 4 12 33.3 1 4 25.0 1 5 20.0 0 3 3 1 0 0 2 3 7
+p31
+aVDavid Robinson SAS 06/18/1999 SAS vs. NYK W 34 16 5 8 62.5 0 0 - 6 9 66.7 0 11 11 4 0 5 0 4 12
+p32
+aVGerard King SAS 06/18/1999 SAS vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p33
+aVMario Elie SAS 06/18/1999 SAS vs. NYK W 36 15 4 10 40.0 0 3 0.0 7 8 87.5 0 4 4 2 1 0 2 2 11
+p34
+aVMalik Rose SAS 06/18/1999 SAS vs. NYK W 14 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 2 0 1 2 -3
+p35
+aVTim Duncan SAS 06/18/1999 SAS vs. NYK W 44 25 9 17 52.9 0 0 - 7 9 77.8 5 10 15 3 0 4 4 0 15
+p36
+aVJaren Jackson SAS 06/18/1999 SAS vs. NYK W 21 3 1 5 20.0 1 5 20.0 0 0 - 0 1 1 0 1 0 0 0 9
+p37
+aVAntonio Daniels SAS 06/18/1999 SAS vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p38
+aVAvery Johnson SAS 06/18/1999 SAS vs. NYK W 35 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 5 1 0 2 2 12
+p39
+aVAntonio Daniels SAS 06/16/1999 SAS vs. NYK W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p40
+aVSteve Kerr SAS 06/16/1999 SAS vs. NYK W 8 0 0 2 0.0 0 1 0.0 0 1 0.0 0 0 0 0 0 0 0 0 -6
+p41
+aVDavid Robinson SAS 06/16/1999 SAS vs. NYK W 37 13 3 10 30.0 0 0 - 7 12 58.3 0 9 9 7 3 3 3 3 17
+p42
+aVAvery Johnson SAS 06/16/1999 SAS vs. NYK W 38 6 2 3 66.7 0 0 - 2 4 50.0 0 2 2 8 0 0 3 0 20
+p43
+aVJerome Kersey SAS 06/16/1999 SAS vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p44
+aVMalik Rose SAS 06/16/1999 SAS vs. NYK W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 4 -5
+p45
+aVSean Elliott SAS 06/16/1999 SAS vs. NYK W 29 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 3 2 0 2 2 7
+p46
+aVTim Duncan SAS 06/16/1999 SAS vs. NYK W 43 33 13 21 61.9 0 0 - 7 10 70.0 3 13 16 2 2 2 1 3 12
+p47
+aVMario Elie SAS 06/16/1999 SAS vs. NYK W 37 9 3 7 42.9 0 2 0.0 3 4 75.0 0 4 4 3 1 0 1 1 9
+p48
+aVJaren Jackson SAS 06/16/1999 SAS vs. NYK W 24 17 6 13 46.2 5 10 50.0 0 0 - 1 1 2 2 1 0 4 4 4
+p49
+aVMalik Rose SAS 06/06/1999 SAS @ POR W 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -3
+p50
+aVGerard King SAS 06/06/1999 SAS @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p51
+aVJaren Jackson SAS 06/06/1999 SAS @ POR W 23 11 4 9 44.4 3 8 37.5 0 0 - 0 6 6 4 1 0 0 3 14
+p52
+aVJerome Kersey SAS 06/06/1999 SAS @ POR W 9 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 4 -8
+p53
+aVDavid Robinson SAS 06/06/1999 SAS @ POR W 41 20 6 12 50.0 0 0 - 8 9 88.9 3 7 10 3 3 2 5 3 11
+p54
+aVAntonio Daniels SAS 06/06/1999 SAS @ POR W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p55
+aVWill Perdue SAS 06/06/1999 SAS @ POR W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 5
+p56
+aVMario Elie SAS 06/06/1999 SAS @ POR W 28 2 1 3 33.3 0 0 - 0 0 - 1 1 2 4 0 0 0 1 1
+p57
+aVAvery Johnson SAS 06/06/1999 SAS @ POR W 33 15 6 12 50.0 0 0 - 3 4 75.0 0 2 2 6 3 0 2 1 12
+p58
+aVSean Elliott SAS 06/06/1999 SAS @ POR W 34 16 6 10 60.0 2 5 40.0 2 3 66.7 0 3 3 2 1 0 2 4 21
+p59
+aVSteve Kerr SAS 06/06/1999 SAS @ POR W 15 6 2 3 66.7 1 2 50.0 1 1 100.0 0 0 0 2 0 0 1 2 2
+p60
+aVTim Duncan SAS 06/06/1999 SAS @ POR W 43 18 7 15 46.7 0 0 - 4 6 66.7 3 5 8 4 0 2 0 2 17
+p61
+aVDavid Robinson SAS 06/04/1999 SAS @ POR W 35 15 3 7 42.9 0 0 - 9 10 90.0 0 9 9 5 2 7 7 3 33
+p62
+aVMalik Rose SAS 06/04/1999 SAS @ POR W 15 2 0 5 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 5 3
+p63
+aVSean Elliott SAS 06/04/1999 SAS @ POR W 31 10 3 5 60.0 1 3 33.3 3 4 75.0 1 4 5 0 0 0 0 4 22
+p64
+aVJaren Jackson SAS 06/04/1999 SAS @ POR W 27 19 6 14 42.9 6 11 54.5 1 1 100.0 0 5 5 1 1 0 3 0 14
+p65
+aVGerard King SAS 06/04/1999 SAS @ POR W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -4
+p66
+aVMario Elie SAS 06/04/1999 SAS @ POR W 28 6 3 7 42.9 0 1 0.0 0 0 - 2 1 3 3 1 0 1 2 14
+p67
+aVJerome Kersey SAS 06/04/1999 SAS @ POR W 8 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 1 1 1 0 0 -6
+p68
+aVAvery Johnson SAS 06/04/1999 SAS @ POR W 32 14 7 13 53.8 0 0 - 0 0 - 0 1 1 8 1 1 1 3 23
+p69
+aVAntonio Daniels SAS 06/04/1999 SAS @ POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p70
+aVWill Perdue SAS 06/04/1999 SAS @ POR W 21 3 1 1 100.0 0 0 - 1 2 50.0 2 4 6 0 0 0 0 2 11
+p71
+aVSteve Kerr SAS 06/04/1999 SAS @ POR W 11 5 2 5 40.0 1 3 33.3 0 0 - 1 3 4 1 1 0 1 0 3
+p72
+aVTim Duncan SAS 06/04/1999 SAS @ POR W 19 5 2 7 28.6 0 0 - 1 2 50.0 3 5 8 1 0 2 3 5 1
+p73
+aVMario Elie SAS 05/31/1999 SAS vs. POR W 24 11 4 7 57.1 1 3 33.3 2 2 100.0 1 1 2 4 2 0 1 4 14
+p74
+aVMalik Rose SAS 05/31/1999 SAS vs. POR W 7 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 0 1 1 0 3 -4
+p75
+aVJerome Kersey SAS 05/31/1999 SAS vs. POR W 16 4 1 4 25.0 0 0 - 2 4 50.0 1 3 4 0 0 0 2 2 -2
+p76
+aVJaren Jackson SAS 05/31/1999 SAS vs. POR W 23 0 0 5 0.0 0 3 0.0 0 0 - 2 2 4 4 0 0 0 3 -13
+p77
+aVTim Duncan SAS 05/31/1999 SAS vs. POR W 46 23 8 11 72.7 0 0 - 7 13 53.8 3 7 10 2 0 5 4 4 6
+p78
+aVDavid Robinson SAS 05/31/1999 SAS vs. POR W 40 14 6 10 60.0 0 0 - 2 4 50.0 2 5 7 2 3 3 4 2 3
+p79
+aVSean Elliott SAS 05/31/1999 SAS vs. POR W 31 22 8 10 80.0 6 7 85.7 0 0 - 0 2 2 2 1 0 2 3 3
+p80
+aVWill Perdue SAS 05/31/1999 SAS vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p81
+aVSteve Kerr SAS 05/31/1999 SAS vs. POR W 11 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 3 0 0 0 0 -1
+p82
+aVAvery Johnson SAS 05/31/1999 SAS vs. POR W 36 10 5 17 29.4 0 0 - 0 0 - 0 2 2 7 0 0 3 2 2
+p83
+aVSean Elliott SAS 05/29/1999 SAS vs. POR W 32 12 4 11 36.4 0 4 0.0 4 4 100.0 1 2 3 2 0 1 0 1 -1
+p84
+aVAvery Johnson SAS 05/29/1999 SAS vs. POR W 43 9 4 12 33.3 0 1 0.0 1 1 100.0 0 1 1 9 0 0 2 0 9
+p85
+aVWill Perdue SAS 05/29/1999 SAS vs. POR W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -4
+p86
+aVTim Duncan SAS 05/29/1999 SAS vs. POR W 46 21 8 15 53.3 0 0 - 5 9 55.6 5 8 13 3 1 5 3 2 8
+p87
+aVMalik Rose SAS 05/29/1999 SAS vs. POR W 5 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -9
+p88
+aVJaren Jackson SAS 05/29/1999 SAS vs. POR W 19 5 2 7 28.6 0 3 0.0 1 1 100.0 0 0 0 0 0 0 0 0 2
+p89
+aVAntonio Daniels SAS 05/29/1999 SAS vs. POR W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p90
+aVMario Elie SAS 05/29/1999 SAS vs. POR W 34 8 2 6 33.3 1 2 50.0 3 4 75.0 1 2 3 2 3 0 1 3 7
+p91
+aVDavid Robinson SAS 05/29/1999 SAS vs. POR W 38 21 9 16 56.3 0 0 - 3 3 100.0 3 7 10 2 1 1 1 3 13
+p92
+aVJerome Kersey SAS 05/29/1999 SAS vs. POR W 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p93
+aVMalik Rose SAS 05/23/1999 SAS @ LAL W 13 8 2 2 100.0 0 0 - 4 5 80.0 1 1 2 0 0 0 0 3 3
+p94
+aVWill Perdue SAS 05/23/1999 SAS @ LAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -7
+p95
+aVSean Elliott SAS 05/23/1999 SAS @ LAL W 33 14 2 3 66.7 0 0 - 10 15 66.7 1 3 4 7 1 0 3 2 6
+p96
+aVAvery Johnson SAS 05/23/1999 SAS @ LAL W 41 19 6 15 40.0 1 1 100.0 6 7 85.7 0 1 1 10 2 0 5 2 14
+p97
+aVJaren Jackson SAS 05/23/1999 SAS @ LAL W 37 20 7 12 58.3 6 11 54.5 0 2 0.0 0 1 1 1 0 0 2 2 11
+p98
+aVJerome Kersey SAS 05/23/1999 SAS @ LAL W 10 9 4 5 80.0 0 0 - 1 1 100.0 0 3 3 0 0 0 1 3 4
+p99
+aVGerard King SAS 05/23/1999 SAS @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p100
+aVDavid Robinson SAS 05/23/1999 SAS @ LAL W 30 12 4 7 57.1 0 0 - 4 6 66.7 0 7 7 3 3 2 2 6 14
+p101
+aVMario Elie SAS 05/23/1999 SAS @ LAL W 15 3 0 0 - 0 0 - 3 4 75.0 1 1 2 3 0 0 3 4 1
+p102
+aVTim Duncan SAS 05/23/1999 SAS @ LAL W 43 33 11 14 78.6 0 0 - 11 14 78.6 1 13 14 4 0 1 3 5 15
+p103
+aVAntonio Daniels SAS 05/23/1999 SAS @ LAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p104
+aVAntonio Daniels SAS 05/22/1999 SAS @ LAL W 11 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 17
+p105
+aVJerome Kersey SAS 05/22/1999 SAS @ LAL W 10 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 3 12
+p106
+aVGerard King SAS 05/22/1999 SAS @ LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p107
+aVSean Elliott SAS 05/22/1999 SAS @ LAL W 31 12 4 9 44.4 2 4 50.0 2 2 100.0 0 4 4 4 0 0 2 3 2
+p108
+aVJaren Jackson SAS 05/22/1999 SAS @ LAL W 28 22 9 15 60.0 2 6 33.3 2 2 100.0 0 5 5 1 2 0 1 4 20
+p109
+aVDavid Robinson SAS 05/22/1999 SAS @ LAL W 24 10 3 6 50.0 0 0 - 4 4 100.0 0 4 4 2 1 0 2 5 23
+p110
+aVAvery Johnson SAS 05/22/1999 SAS @ LAL W 36 8 4 8 50.0 0 0 - 0 2 0.0 0 3 3 7 1 0 3 0 -5
+p111
+aVMario Elie SAS 05/22/1999 SAS @ LAL W 29 8 4 9 44.4 0 2 0.0 0 0 - 0 4 4 3 1 0 2 2 -14
+p112
+aVMalik Rose SAS 05/22/1999 SAS @ LAL W 11 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 1 0 1 5 2
+p113
+aVWill Perdue SAS 05/22/1999 SAS @ LAL W 10 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 -3
+p114
+aVTim Duncan SAS 05/22/1999 SAS @ LAL W 45 37 9 19 47.4 0 0 - 19 23 82.6 5 9 14 4 3 1 4 6 4
+p115
+aVTim Duncan SAS 05/19/1999 SAS vs. LAL W 43 21 8 19 42.1 0 0 - 5 6 83.3 2 6 8 2 1 0 5 4 9
+p116
+aVWill Perdue SAS 05/19/1999 SAS vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -11
+p117
+aVJerome Kersey SAS 05/19/1999 SAS vs. LAL W 10 0 0 2 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 0
+p118
+aVSean Elliott SAS 05/19/1999 SAS vs. LAL W 38 19 7 15 46.7 2 4 50.0 3 3 100.0 0 3 3 3 0 0 1 3 1
+p119
+aVJaren Jackson SAS 05/19/1999 SAS vs. LAL W 10 1 0 3 0.0 0 2 0.0 1 1 100.0 0 0 0 0 0 0 2 2 -14
+p120
+aVAntonio Daniels SAS 05/19/1999 SAS vs. LAL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p121
+aVMalik Rose SAS 05/19/1999 SAS vs. LAL W 19 13 4 4 100.0 0 0 - 5 5 100.0 2 3 5 0 0 1 0 4 -1
+p122
+aVDavid Robinson SAS 05/19/1999 SAS vs. LAL W 29 16 7 14 50.0 0 0 - 2 2 100.0 1 6 7 2 1 1 2 4 11
+p123
+aVMario Elie SAS 05/19/1999 SAS vs. LAL W 37 5 2 6 33.3 0 0 - 1 1 100.0 1 4 5 5 1 0 3 4 17
+p124
+aVAvery Johnson SAS 05/19/1999 SAS vs. LAL W 40 4 2 5 40.0 0 0 - 0 0 - 0 6 6 10 5 0 3 2 2
+p125
+aVWill Perdue SAS 05/17/1999 SAS vs. LAL W 16 6 3 6 50.0 0 0 - 0 0 - 3 6 9 0 0 0 1 3 8
+p126
+aVDavid Robinson SAS 05/17/1999 SAS vs. LAL W 28 15 3 7 42.9 0 0 - 9 14 64.3 2 6 8 0 1 1 2 5 1
+p127
+aVMario Elie SAS 05/17/1999 SAS vs. LAL W 30 8 2 6 33.3 0 0 - 4 7 57.1 0 6 6 1 2 1 0 3 -4
+p128
+aVSean Elliott SAS 05/17/1999 SAS vs. LAL W 32 10 3 9 33.3 0 2 0.0 4 5 80.0 2 4 6 2 0 1 0 3 -1
+p129
+aVAvery Johnson SAS 05/17/1999 SAS vs. LAL W 39 12 5 11 45.5 0 0 - 2 4 50.0 2 0 2 8 1 0 2 0 -4
+p130
+aVTim Duncan SAS 05/17/1999 SAS vs. LAL W 44 25 11 24 45.8 0 0 - 3 4 75.0 2 5 7 3 0 6 6 1 3
+p131
+aVJaren Jackson SAS 05/17/1999 SAS vs. LAL W 18 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 0 0 1 2 10
+p132
+aVAntonio Daniels SAS 05/17/1999 SAS vs. LAL W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 1 0 1 0 10
+p133
+aVMalik Rose SAS 05/17/1999 SAS vs. LAL W 6 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 3 0
+p134
+aVJerome Kersey SAS 05/17/1999 SAS vs. LAL W 15 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 1 7
+p135
+aVMalik Rose SAS 05/15/1999 SAS @ MIN W 14 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 2 0 2 2 -2
+p136
+aVWill Perdue SAS 05/15/1999 SAS @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p137
+aVJaren Jackson SAS 05/15/1999 SAS @ MIN W 19 10 3 11 27.3 1 7 14.3 3 4 75.0 1 5 6 1 1 0 0 2 8
+p138
+aVAvery Johnson SAS 05/15/1999 SAS @ MIN W 40 17 6 13 46.2 0 0 - 5 5 100.0 0 4 4 6 0 0 2 3 5
+p139
+aVAntonio Daniels SAS 05/15/1999 SAS @ MIN W 7 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 3 0 0 1 0 2
+p140
+aVMario Elie SAS 05/15/1999 SAS @ MIN W 28 6 1 5 20.0 0 2 0.0 4 4 100.0 0 2 2 4 3 0 0 2 -1
+p141
+aVJerome Kersey SAS 05/15/1999 SAS @ MIN W 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 12
+p142
+aVTim Duncan SAS 05/15/1999 SAS @ MIN W 38 16 5 15 33.3 0 0 - 6 9 66.7 3 5 8 0 0 3 1 4 -3
+p143
+aVSean Elliott SAS 05/15/1999 SAS @ MIN W 34 14 5 8 62.5 2 4 50.0 2 2 100.0 1 3 4 1 0 0 1 2 -5
+p144
+aVDavid Robinson SAS 05/15/1999 SAS @ MIN W 39 19 5 13 38.5 0 0 - 9 14 64.3 3 8 11 3 1 4 0 5 19
+p145
+aVGerard King SAS 05/15/1999 SAS @ MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p146
+aVJerome Kersey SAS 05/13/1999 SAS @ MIN W 19 4 2 6 33.3 0 1 0.0 0 0 - 2 5 7 0 0 0 1 1 7
+p147
+aVGerard King SAS 05/13/1999 SAS @ MIN W 1 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p148
+aVMario Elie SAS 05/13/1999 SAS @ MIN W 34 9 3 9 33.3 1 3 33.3 2 2 100.0 0 6 6 2 0 0 4 1 13
+p149
+aVMalik Rose SAS 05/13/1999 SAS @ MIN W 11 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 0 0 0 3 -12
+p150
+aVDavid Robinson SAS 05/13/1999 SAS @ MIN W 36 17 7 12 58.3 0 0 - 3 4 75.0 4 14 18 7 3 3 3 2 24
+p151
+aVJaren Jackson SAS 05/13/1999 SAS @ MIN W 18 3 1 5 20.0 1 4 25.0 0 0 - 1 2 3 1 3 0 1 0 6
+p152
+aVSteve Kerr SAS 05/13/1999 SAS @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p153
+aVSean Elliott SAS 05/13/1999 SAS @ MIN W 22 7 3 7 42.9 1 1 100.0 0 0 - 0 0 0 2 1 0 0 5 9
+p154
+aVTim Duncan SAS 05/13/1999 SAS @ MIN W 44 15 6 17 35.3 0 0 - 3 3 100.0 3 4 7 7 1 5 2 3 19
+p155
+aVWill Perdue SAS 05/13/1999 SAS @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p156
+aVAvery Johnson SAS 05/13/1999 SAS @ MIN W 37 24 12 15 80.0 0 0 - 0 0 - 3 2 5 6 1 0 3 2 23
+p157
+aVAntonio Daniels SAS 05/13/1999 SAS @ MIN W 10 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 1 0 3 0 -9
+p158
+aVWill Perdue SAS 05/11/1999 SAS vs. MIN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p159
+aVJerome Kersey SAS 05/11/1999 SAS vs. MIN L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -1
+p160
+aVDavid Robinson SAS 05/11/1999 SAS vs. MIN L 39 11 3 6 50.0 0 0 - 5 6 83.3 4 6 10 1 2 0 2 2 -16
+p161
+aVAvery Johnson SAS 05/11/1999 SAS vs. MIN L 41 16 6 11 54.5 0 0 - 4 8 50.0 0 0 0 3 1 0 3 3 -9
+p162
+aVJaren Jackson SAS 05/11/1999 SAS vs. MIN L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p163
+aVTim Duncan SAS 05/11/1999 SAS vs. MIN L 44 18 9 15 60.0 0 0 - 0 2 0.0 5 11 16 2 2 3 4 1 -8
+p164
+aVSteve Kerr SAS 05/11/1999 SAS vs. MIN L 10 4 0 5 0.0 0 3 0.0 4 4 100.0 0 0 0 0 1 0 0 0 5
+p165
+aVAntonio Daniels SAS 05/11/1999 SAS vs. MIN L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 1 1 0
+p166
+aVSean Elliott SAS 05/11/1999 SAS vs. MIN L 36 13 4 10 40.0 0 1 0.0 5 6 83.3 1 5 6 1 0 1 2 3 -6
+p167
+aVMalik Rose SAS 05/11/1999 SAS vs. MIN L 8 3 1 1 100.0 0 0 - 1 4 25.0 0 1 1 0 0 0 0 2 7
+p168
+aVMario Elie SAS 05/11/1999 SAS vs. MIN L 31 6 2 12 16.7 0 3 0.0 2 2 100.0 0 1 1 4 2 0 1 1 -12
+p169
+aVMalik Rose SAS 05/09/1999 SAS vs. MIN W 11 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 2 4 -4
+p170
+aVAvery Johnson SAS 05/09/1999 SAS vs. MIN W 35 21 8 15 53.3 0 0 - 5 6 83.3 2 0 2 10 2 0 1 1 13
+p171
+aVTim Duncan SAS 05/09/1999 SAS vs. MIN W 43 26 9 16 56.3 0 1 0.0 8 8 100.0 6 6 12 4 0 1 0 1 16
+p172
+aVSean Elliott SAS 05/09/1999 SAS vs. MIN W 31 14 5 14 35.7 1 2 50.0 3 4 75.0 0 3 3 4 1 0 2 3 14
+p173
+aVMario Elie SAS 05/09/1999 SAS vs. MIN W 28 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 2 1 1 1 1 8
+p174
+aVSteve Kerr SAS 05/09/1999 SAS vs. MIN W 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p175
+aVWill Perdue SAS 05/09/1999 SAS vs. MIN W 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 1 0 0
+p176
+aVAntonio Daniels SAS 05/09/1999 SAS vs. MIN W 12 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 0
+p177
+aVDavid Robinson SAS 05/09/1999 SAS vs. MIN W 32 12 6 11 54.5 0 0 - 0 2 0.0 0 8 8 1 2 1 2 5 14
+p178
+aVJaren Jackson SAS 05/09/1999 SAS vs. MIN W 18 10 4 7 57.1 1 2 50.0 1 2 50.0 1 1 2 0 0 0 0 1 7
+p179
+aVJerome Kersey SAS 05/09/1999 SAS vs. MIN W 16 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 2 0 0 1 -1
+p180
+a.

@@ -1,0 +1,1664 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDahntay Jones MEM 04/20/2005 MEM vs. DAL L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 2 2 -8
+p2
+aVShane Battier MEM 04/20/2005 MEM vs. DAL L 21 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 0 2 0 4 -6
+p3
+aVPau Gasol MEM 04/20/2005 MEM vs. DAL L 25 18 8 9 88.9 0 0 - 2 2 100.0 2 2 4 2 0 0 2 2 -1
+p4
+aVLorenzen Wright MEM 04/20/2005 MEM vs. DAL L 26 7 3 8 37.5 0 0 - 1 2 50.0 1 8 9 2 0 1 1 2 -28
+p5
+aVJames Posey MEM 04/20/2005 MEM vs. DAL L 26 12 3 10 30.0 0 4 0.0 6 6 100.0 3 1 4 1 1 0 0 2 -5
+p6
+aVStromile Swift MEM 04/20/2005 MEM vs. DAL L 28 11 4 12 33.3 0 0 - 3 3 100.0 3 1 4 1 1 1 2 5 -12
+p7
+aVAntonio Burks MEM 04/20/2005 MEM vs. DAL L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 2 0 0 0 2
+p8
+aVJason Williams MEM 04/20/2005 MEM vs. DAL L 21 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 2 0 -21
+p9
+aVBonzi Wells MEM 04/20/2005 MEM vs. DAL L 29 13 4 7 57.1 0 1 0.0 5 6 83.3 0 0 0 1 0 1 2 4 1
+p10
+aVMike Miller MEM 04/20/2005 MEM vs. DAL L 24 12 5 9 55.6 1 3 33.3 1 1 100.0 0 3 3 3 2 0 0 1 -21
+p11
+aVEarl Watson MEM 04/20/2005 MEM vs. DAL L 20 9 2 6 33.3 1 3 33.3 4 6 66.7 0 2 2 0 1 0 3 0 -1
+p12
+aVMike Miller MEM 04/18/2005 MEM vs. SAS W 34 28 12 21 57.1 4 8 50.0 0 3 0.0 2 7 9 2 0 0 0 2 14
+p13
+aVShane Battier MEM 04/18/2005 MEM vs. SAS W 30 6 1 7 14.3 0 1 0.0 4 4 100.0 3 4 7 0 1 0 0 0 7
+p14
+aVJames Posey MEM 04/18/2005 MEM vs. SAS W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 2 -12
+p15
+aVBrian Cardinal MEM 04/18/2005 MEM vs. SAS W 14 6 2 6 33.3 0 1 0.0 2 2 100.0 1 1 2 0 0 1 2 3 -11
+p16
+aVLorenzen Wright MEM 04/18/2005 MEM vs. SAS W 28 6 1 6 16.7 0 0 - 4 4 100.0 0 5 5 2 1 1 1 1 5
+p17
+aVBonzi Wells MEM 04/18/2005 MEM vs. SAS W 18 8 3 5 60.0 0 0 - 2 3 66.7 0 2 2 2 0 1 1 2 -5
+p18
+aVJason Williams MEM 04/18/2005 MEM vs. SAS W 29 2 1 5 20.0 0 3 0.0 0 1 0.0 0 1 1 8 0 0 2 1 10
+p19
+aVEarl Watson MEM 04/18/2005 MEM vs. SAS W 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -8
+p20
+aVStromile Swift MEM 04/18/2005 MEM vs. SAS W 23 16 5 7 71.4 0 0 - 6 10 60.0 2 4 6 1 2 1 0 4 4
+p21
+aVPau Gasol MEM 04/18/2005 MEM vs. SAS W 31 20 8 12 66.7 0 0 - 4 4 100.0 1 5 6 1 1 2 1 3 6
+p22
+aVJames Posey MEM 04/16/2005 MEM @ SAS L 14 2 0 3 0.0 0 2 0.0 2 2 100.0 0 4 4 1 1 1 2 1 -9
+p23
+aVBrian Cardinal MEM 04/16/2005 MEM @ SAS L 24 7 2 7 28.6 0 2 0.0 3 5 60.0 0 2 2 1 4 0 2 2 -16
+p24
+aVPau Gasol MEM 04/16/2005 MEM @ SAS L 34 17 5 12 41.7 0 0 - 7 8 87.5 1 5 6 2 1 2 1 2 -20
+p25
+aVLorenzen Wright MEM 04/16/2005 MEM @ SAS L 17 5 1 10 10.0 0 0 - 3 4 75.0 2 1 3 0 1 0 3 4 -6
+p26
+aVDahntay Jones MEM 04/16/2005 MEM @ SAS L 7 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 0 4
+p27
+aVStromile Swift MEM 04/16/2005 MEM @ SAS L 21 15 5 10 50.0 0 0 - 5 6 83.3 3 1 4 0 2 0 2 3 -2
+p28
+aVBonzi Wells MEM 04/16/2005 MEM @ SAS L 24 4 2 7 28.6 0 0 - 0 0 - 1 1 2 0 4 0 1 0 -12
+p29
+aVEarl Watson MEM 04/16/2005 MEM @ SAS L 20 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 3 0 0 1 2 -22
+p30
+aVShane Battier MEM 04/16/2005 MEM @ SAS L 22 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 1 0 0 2 -8
+p31
+aVJason Williams MEM 04/16/2005 MEM @ SAS L 21 2 1 4 25.0 0 2 0.0 0 0 - 2 2 4 1 1 0 1 1 -4
+p32
+aVMike Miller MEM 04/16/2005 MEM @ SAS L 29 6 3 9 33.3 0 2 0.0 0 0 - 0 3 3 2 0 1 2 1 -19
+p33
+aVAntonio Burks MEM 04/16/2005 MEM @ SAS L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 4
+p34
+aVAntonio Burks MEM 04/15/2005 MEM @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 2 8
+p35
+aVJames Posey MEM 04/15/2005 MEM @ DEN L 23 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 1 1 1 1 2 -10
+p36
+aVShane Battier MEM 04/15/2005 MEM @ DEN L 17 11 4 7 57.1 0 0 - 3 4 75.0 0 1 1 0 3 0 0 5 -1
+p37
+aVDahntay Jones MEM 04/15/2005 MEM @ DEN L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p38
+aVMike Miller MEM 04/15/2005 MEM @ DEN L 35 17 6 13 46.2 3 4 75.0 2 3 66.7 0 1 1 5 0 0 2 2 -3
+p39
+aVStromile Swift MEM 04/15/2005 MEM @ DEN L 12 2 1 3 33.3 0 0 - 0 2 0.0 0 3 3 0 1 0 1 4 1
+p40
+aVPau Gasol MEM 04/15/2005 MEM @ DEN L 18 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 0 0 1 1 3 -6
+p41
+aVBonzi Wells MEM 04/15/2005 MEM @ DEN L 23 10 5 8 62.5 0 1 0.0 0 0 - 0 3 3 0 2 0 1 2 -7
+p42
+aVEarl Watson MEM 04/15/2005 MEM @ DEN L 21 5 2 5 40.0 0 2 0.0 1 2 50.0 0 2 2 10 2 0 2 2 -3
+p43
+aVJason Williams MEM 04/15/2005 MEM @ DEN L 24 10 4 14 28.6 2 4 50.0 0 0 - 1 0 1 5 1 0 2 0 -12
+p44
+aVBrian Cardinal MEM 04/15/2005 MEM @ DEN L 29 16 6 11 54.5 0 2 0.0 4 4 100.0 1 4 5 3 2 1 2 5 -6
+p45
+aVLorenzen Wright MEM 04/15/2005 MEM @ DEN L 33 16 6 9 66.7 0 0 - 4 6 66.7 4 7 11 3 1 1 1 3 -9
+p46
+aVJames Posey MEM 04/13/2005 MEM @ HOU L 23 10 3 5 60.0 2 3 66.7 2 2 100.0 2 2 4 3 2 0 0 5 -9
+p47
+aVLorenzen Wright MEM 04/13/2005 MEM @ HOU L 27 9 4 10 40.0 0 0 - 1 2 50.0 5 5 10 2 1 1 0 2 -7
+p48
+aVMike Miller MEM 04/13/2005 MEM @ HOU L 38 37 15 24 62.5 5 8 62.5 2 2 100.0 0 1 1 5 1 1 1 5 10
+p49
+aVBrian Cardinal MEM 04/13/2005 MEM @ HOU L 20 5 2 7 28.6 1 1 100.0 0 0 - 0 1 1 1 1 1 1 3 -6
+p50
+aVStromile Swift MEM 04/13/2005 MEM @ HOU L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p51
+aVJason Williams MEM 04/13/2005 MEM @ HOU L 35 5 2 10 20.0 0 5 0.0 1 2 50.0 1 6 7 4 2 1 1 2 5
+p52
+aVPau Gasol MEM 04/13/2005 MEM @ HOU L 37 20 8 14 57.1 0 0 - 4 6 66.7 2 6 8 1 0 4 2 3 7
+p53
+aVBonzi Wells MEM 04/13/2005 MEM @ HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p54
+aVEarl Watson MEM 04/13/2005 MEM @ HOU L 13 0 0 5 0.0 0 1 0.0 0 0 - 1 2 3 3 0 0 3 1 -13
+p55
+aVShane Battier MEM 04/13/2005 MEM @ HOU L 36 4 2 7 28.6 0 1 0.0 0 0 - 2 6 8 1 1 3 1 1 -5
+p56
+aVStromile Swift MEM 04/11/2005 MEM @ DAL L 12 8 2 7 28.6 0 0 - 4 6 66.7 0 0 0 1 1 0 1 4 -7
+p57
+aVDahntay Jones MEM 04/11/2005 MEM @ DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p58
+aVJames Posey MEM 04/11/2005 MEM @ DAL L 19 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 1 3 0 2 2 -12
+p59
+aVLorenzen Wright MEM 04/11/2005 MEM @ DAL L 31 18 7 12 58.3 0 0 - 4 6 66.7 0 7 7 2 0 0 1 3 -5
+p60
+aVPau Gasol MEM 04/11/2005 MEM @ DAL L 31 14 5 15 33.3 0 0 - 4 6 66.7 4 4 8 3 0 2 1 3 -14
+p61
+aVAntonio Burks MEM 04/11/2005 MEM @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p62
+aVBrian Cardinal MEM 04/11/2005 MEM @ DAL L 15 2 1 7 14.3 0 2 0.0 0 0 - 2 0 2 1 1 0 0 1 -8
+p63
+aVShane Battier MEM 04/11/2005 MEM @ DAL L 29 11 4 5 80.0 1 1 100.0 2 2 100.0 2 1 3 0 1 1 1 4 -9
+p64
+aVEarl Watson MEM 04/11/2005 MEM @ DAL L 25 5 2 8 25.0 1 3 33.3 0 0 - 2 1 3 3 1 1 1 0 -8
+p65
+aVBonzi Wells MEM 04/11/2005 MEM @ DAL L 19 8 4 9 44.4 0 0 - 0 0 - 2 1 3 0 0 1 0 3 -23
+p66
+aVMike Miller MEM 04/11/2005 MEM @ DAL L 33 13 5 9 55.6 2 3 66.7 1 2 50.0 2 3 5 4 0 1 3 1 -5
+p67
+aVJason Williams MEM 04/11/2005 MEM @ DAL L 20 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 0 0 2 1 -12
+p68
+aVBrian Cardinal MEM 04/10/2005 MEM vs. CHA W 35 5 1 5 20.0 0 0 - 3 4 75.0 2 6 8 5 2 2 1 5 13
+p69
+aVJason Williams MEM 04/10/2005 MEM vs. CHA W 22 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 6 0 0 1 1 7
+p70
+aVShane Battier MEM 04/10/2005 MEM vs. CHA W 36 25 8 13 61.5 0 1 0.0 9 10 90.0 3 8 11 2 3 3 0 1 -1
+p71
+aVDahntay Jones MEM 04/10/2005 MEM vs. CHA W 13 9 3 5 60.0 2 2 100.0 1 2 50.0 0 0 0 0 2 0 1 4 2
+p72
+aVBonzi Wells MEM 04/10/2005 MEM vs. CHA W 13 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 1 2 1 5
+p73
+aVMike Miller MEM 04/10/2005 MEM vs. CHA W 34 21 8 15 53.3 5 8 62.5 0 0 - 0 5 5 2 1 0 2 4 8
+p74
+aVPau Gasol MEM 04/10/2005 MEM vs. CHA W 28 16 5 10 50.0 0 0 - 6 6 100.0 2 2 4 2 0 2 4 5 -7
+p75
+aVLorenzen Wright MEM 04/10/2005 MEM vs. CHA W 33 16 5 9 55.6 0 0 - 6 7 85.7 1 9 10 1 0 2 1 2 10
+p76
+aVEarl Watson MEM 04/10/2005 MEM vs. CHA W 26 7 3 8 37.5 0 2 0.0 1 2 50.0 0 0 0 3 1 1 4 3 -2
+p77
+aVBrian Cardinal MEM 04/08/2005 MEM vs. MIA W 24 4 2 4 50.0 0 0 - 0 0 - 1 6 7 4 1 0 1 4 6
+p78
+aVEarl Watson MEM 04/08/2005 MEM vs. MIA W 23 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 4 0 1 2 1 3
+p79
+aVShane Battier MEM 04/08/2005 MEM vs. MIA W 27 2 1 5 20.0 0 0 - 0 0 - 0 5 5 2 0 0 1 1 11
+p80
+aVBonzi Wells MEM 04/08/2005 MEM vs. MIA W 16 15 7 13 53.8 0 1 0.0 1 2 50.0 1 3 4 0 1 0 0 2 3
+p81
+aVMike Miller MEM 04/08/2005 MEM vs. MIA W 37 30 10 16 62.5 5 10 50.0 5 6 83.3 0 6 6 0 2 1 1 2 13
+p82
+aVJason Williams MEM 04/08/2005 MEM vs. MIA W 25 13 3 7 42.9 3 6 50.0 4 4 100.0 0 1 1 6 1 0 2 0 13
+p83
+aVPau Gasol MEM 04/08/2005 MEM vs. MIA W 38 17 7 11 63.6 0 0 - 3 3 100.0 0 6 6 4 3 6 1 5 11
+p84
+aVDahntay Jones MEM 04/08/2005 MEM vs. MIA W 16 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 3 5
+p85
+aVLorenzen Wright MEM 04/08/2005 MEM vs. MIA W 34 7 3 10 30.0 0 0 - 1 2 50.0 2 6 8 1 2 0 4 2 15
+p86
+aVEarl Watson MEM 04/06/2005 MEM @ TOR W 25 10 4 5 80.0 0 0 - 2 2 100.0 0 3 3 4 2 0 1 1 7
+p87
+aVBrian Cardinal MEM 04/06/2005 MEM @ TOR W 28 2 1 2 50.0 0 0 - 0 0 - 0 4 4 3 0 0 1 3 11
+p88
+aVLorenzen Wright MEM 04/06/2005 MEM @ TOR W 31 10 5 11 45.5 0 0 - 0 0 - 3 7 10 3 1 1 1 4 25
+p89
+aVPau Gasol MEM 04/06/2005 MEM @ TOR W 28 26 10 14 71.4 0 0 - 6 6 100.0 1 8 9 3 1 3 2 2 25
+p90
+aVDahntay Jones MEM 04/06/2005 MEM @ TOR W 12 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p91
+aVMike Miller MEM 04/06/2005 MEM @ TOR W 22 8 3 9 33.3 2 6 33.3 0 0 - 0 3 3 0 2 0 2 3 28
+p92
+aVJake Tsakalidis MEM 04/06/2005 MEM @ TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 2 1 0 5
+p93
+aVShane Battier MEM 04/06/2005 MEM @ TOR W 34 16 6 9 66.7 0 1 0.0 4 4 100.0 4 3 7 3 1 0 2 3 27
+p94
+aVAntonio Burks MEM 04/06/2005 MEM @ TOR W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p95
+aVBonzi Wells MEM 04/06/2005 MEM @ TOR W 28 21 6 11 54.5 0 0 - 9 10 90.0 0 9 9 1 1 2 0 1 8
+p96
+aVJason Williams MEM 04/06/2005 MEM @ TOR W 21 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 4 0 0 1 1 20
+p97
+aVEarl Watson MEM 04/05/2005 MEM vs. DEN L 19 10 3 7 42.9 1 1 100.0 3 4 75.0 0 3 3 1 2 0 0 1 12
+p98
+aVBrian Cardinal MEM 04/05/2005 MEM vs. DEN L 28 6 1 8 12.5 1 4 25.0 3 4 75.0 1 5 6 2 1 0 3 2 3
+p99
+aVJason Williams MEM 04/05/2005 MEM vs. DEN L 30 13 6 12 50.0 1 6 16.7 0 0 - 0 2 2 5 2 0 0 4 -12
+p100
+aVShane Battier MEM 04/05/2005 MEM vs. DEN L 40 8 3 4 75.0 1 1 100.0 1 2 50.0 2 7 9 1 3 1 1 2 0
+p101
+aVPau Gasol MEM 04/05/2005 MEM vs. DEN L 36 18 7 11 63.6 0 1 0.0 4 6 66.7 2 5 7 2 1 1 3 2 -5
+p102
+aVBonzi Wells MEM 04/05/2005 MEM vs. DEN L 17 6 2 7 28.6 0 2 0.0 2 4 50.0 0 3 3 0 1 1 4 2 -3
+p103
+aVLorenzen Wright MEM 04/05/2005 MEM vs. DEN L 32 14 5 11 45.5 0 0 - 4 5 80.0 4 8 12 1 0 0 2 2 -4
+p104
+aVMike Miller MEM 04/05/2005 MEM vs. DEN L 38 16 7 16 43.8 0 5 0.0 2 4 50.0 0 2 2 2 0 0 2 2 -6
+p105
+aVLorenzen Wright MEM 04/03/2005 MEM vs. LAL W 25 16 6 12 50.0 0 0 - 4 5 80.0 1 6 7 1 1 1 1 2 -1
+p106
+aVAntonio Burks MEM 04/03/2005 MEM vs. LAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p107
+aVShane Battier MEM 04/03/2005 MEM vs. LAL W 34 7 3 10 30.0 0 0 - 1 2 50.0 5 1 6 3 0 2 0 1 11
+p108
+aVMike Miller MEM 04/03/2005 MEM vs. LAL W 35 22 7 14 50.0 2 6 33.3 6 7 85.7 3 3 6 3 1 0 2 3 22
+p109
+aVPau Gasol MEM 04/03/2005 MEM vs. LAL W 30 13 6 14 42.9 0 0 - 1 4 25.0 3 7 10 2 1 3 1 2 15
+p110
+aVEarl Watson MEM 04/03/2005 MEM vs. LAL W 16 4 2 4 50.0 0 2 0.0 0 0 - 0 3 3 6 1 0 2 2 1
+p111
+aVBrian Cardinal MEM 04/03/2005 MEM vs. LAL W 33 15 4 7 57.1 0 0 - 7 9 77.8 0 6 6 4 2 1 3 2 17
+p112
+aVDahntay Jones MEM 04/03/2005 MEM vs. LAL W 20 10 4 5 80.0 0 0 - 2 2 100.0 2 2 4 0 0 3 0 1 5
+p113
+aVJason Williams MEM 04/03/2005 MEM vs. LAL W 29 5 2 9 22.2 0 4 0.0 1 1 100.0 1 5 6 6 0 0 1 0 19
+p114
+aVBonzi Wells MEM 04/03/2005 MEM vs. LAL W 16 10 5 9 55.6 0 0 - 0 0 - 1 4 5 1 3 0 0 3 11
+p115
+aVLorenzen Wright MEM 04/01/2005 MEM @ MIL W 16 5 2 7 28.6 0 0 - 1 2 50.0 2 2 4 0 0 0 1 1 -1
+p116
+aVBrian Cardinal MEM 04/01/2005 MEM @ MIL W 22 4 1 6 16.7 0 1 0.0 2 2 100.0 0 3 3 1 1 0 2 2 2
+p117
+aVPau Gasol MEM 04/01/2005 MEM @ MIL W 34 20 7 12 58.3 0 0 - 6 6 100.0 1 6 7 6 1 3 4 3 18
+p118
+aVAntonio Burks MEM 04/01/2005 MEM @ MIL W 21 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 1 1 0 3 -3
+p119
+aVBonzi Wells MEM 04/01/2005 MEM @ MIL W 29 13 4 9 44.4 1 3 33.3 4 4 100.0 1 3 4 2 0 0 1 5 5
+p120
+aVMike Miller MEM 04/01/2005 MEM @ MIL W 33 14 5 10 50.0 2 4 50.0 2 2 100.0 0 4 4 1 0 0 1 4 10
+p121
+aVShane Battier MEM 04/01/2005 MEM @ MIL W 40 18 6 14 42.9 1 5 20.0 5 6 83.3 3 3 6 2 2 0 5 4 19
+p122
+aVEarl Watson MEM 04/01/2005 MEM @ MIL W 31 8 4 6 66.7 0 2 0.0 0 0 - 0 6 6 8 2 0 2 4 14
+p123
+aVStromile Swift MEM 04/01/2005 MEM @ MIL W 14 5 1 3 33.3 0 0 - 3 4 75.0 0 3 3 1 1 0 1 3 -9
+p124
+aVBonzi Wells MEM 03/29/2005 MEM vs. SEA L 22 17 7 12 58.3 0 2 0.0 3 4 75.0 0 4 4 0 1 1 2 4 -2
+p125
+aVJason Williams MEM 03/29/2005 MEM vs. SEA L 23 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 10 0 0 3 2 3
+p126
+aVStromile Swift MEM 03/29/2005 MEM vs. SEA L 22 15 7 9 77.8 0 0 - 1 2 50.0 1 2 3 0 0 2 1 4 0
+p127
+aVLorenzen Wright MEM 03/29/2005 MEM vs. SEA L 12 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 1 1 1 4 13
+p128
+aVShane Battier MEM 03/29/2005 MEM vs. SEA L 40 16 7 10 70.0 2 4 50.0 0 0 - 3 0 3 0 0 3 1 1 3
+p129
+aVBrian Cardinal MEM 03/29/2005 MEM vs. SEA L 21 1 0 4 0.0 0 1 0.0 1 2 50.0 3 0 3 1 2 1 0 3 -11
+p130
+aVMike Miller MEM 03/29/2005 MEM vs. SEA L 39 3 1 7 14.3 0 3 0.0 1 2 50.0 2 2 4 3 0 0 0 2 -11
+p131
+aVPau Gasol MEM 03/29/2005 MEM vs. SEA L 31 24 9 16 56.3 0 0 - 6 7 85.7 1 7 8 1 2 0 0 4 0
+p132
+aVAntonio Burks MEM 03/29/2005 MEM vs. SEA L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p133
+aVEarl Watson MEM 03/29/2005 MEM vs. SEA L 29 15 6 9 66.7 1 4 25.0 2 3 66.7 2 3 5 5 2 0 3 4 -7
+p134
+aVPau Gasol MEM 03/28/2005 MEM @ CHI L 15 8 4 10 40.0 0 0 - 0 1 0.0 0 0 0 0 0 0 3 1 -10
+p135
+aVBrian Cardinal MEM 03/28/2005 MEM @ CHI L 26 10 4 5 80.0 1 2 50.0 1 1 100.0 0 4 4 2 2 0 2 5 -4
+p136
+aVBonzi Wells MEM 03/28/2005 MEM @ CHI L 35 30 12 20 60.0 2 4 50.0 4 5 80.0 1 6 7 1 2 0 2 4 0
+p137
+aVStromile Swift MEM 03/28/2005 MEM @ CHI L 16 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 7
+p138
+aVShane Battier MEM 03/28/2005 MEM @ CHI L 26 8 2 8 25.0 0 1 0.0 4 4 100.0 3 5 8 3 2 2 1 6 -1
+p139
+aVEarl Watson MEM 03/28/2005 MEM @ CHI L 25 4 1 3 33.3 1 1 100.0 1 2 50.0 0 2 2 8 0 0 2 0 3
+p140
+aVJason Williams MEM 03/28/2005 MEM @ CHI L 24 4 2 8 25.0 0 5 0.0 0 0 - 1 2 3 4 1 0 0 0 -15
+p141
+aVLorenzen Wright MEM 03/28/2005 MEM @ CHI L 32 7 2 9 22.2 0 0 - 3 6 50.0 1 3 4 1 0 0 1 2 -15
+p142
+aVMike Miller MEM 03/28/2005 MEM @ CHI L 41 11 5 10 50.0 1 5 20.0 0 0 - 1 8 9 2 0 1 1 2 -5
+p143
+aVShane Battier MEM 03/26/2005 MEM vs. NOH L 30 9 2 5 40.0 0 2 0.0 5 5 100.0 1 1 2 2 1 3 1 3 -4
+p144
+aVJason Williams MEM 03/26/2005 MEM vs. NOH L 31 11 4 11 36.4 1 4 25.0 2 3 66.7 0 0 0 2 1 0 2 0 -10
+p145
+aVMike Miller MEM 03/26/2005 MEM vs. NOH L 28 13 5 12 41.7 0 3 0.0 3 3 100.0 1 7 8 1 0 0 1 2 -6
+p146
+aVPau Gasol MEM 03/26/2005 MEM vs. NOH L 17 9 2 3 66.7 0 0 - 5 6 83.3 1 1 2 0 1 2 2 1 -3
+p147
+aVEarl Watson MEM 03/26/2005 MEM vs. NOH L 17 3 1 6 16.7 0 3 0.0 1 2 50.0 1 1 2 1 2 0 2 2 -1
+p148
+aVStromile Swift MEM 03/26/2005 MEM vs. NOH L 8 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 2 3 -5
+p149
+aVLorenzen Wright MEM 03/26/2005 MEM vs. NOH L 41 12 5 9 55.6 0 0 - 2 3 66.7 5 7 12 0 0 2 0 4 -6
+p150
+aVJames Posey MEM 03/26/2005 MEM vs. NOH L 22 4 0 1 0.0 0 0 - 4 4 100.0 2 2 4 0 0 1 1 2 -12
+p151
+aVBrian Cardinal MEM 03/26/2005 MEM vs. NOH L 31 17 5 13 38.5 1 3 33.3 6 6 100.0 1 7 8 1 3 0 4 2 -8
+p152
+aVBonzi Wells MEM 03/26/2005 MEM vs. NOH L 15 4 2 5 40.0 0 2 0.0 0 2 0.0 0 1 1 2 1 0 1 2 0
+p153
+aVBonzi Wells MEM 03/24/2005 MEM @ NJN W 10 11 5 7 71.4 1 1 100.0 0 0 - 1 1 2 0 0 0 2 3 -13
+p154
+aVLorenzen Wright MEM 03/24/2005 MEM @ NJN W 33 20 8 8 100.0 0 0 - 4 7 57.1 0 10 10 1 1 1 0 4 17
+p155
+aVPau Gasol MEM 03/24/2005 MEM @ NJN W 24 10 3 6 50.0 0 0 - 4 5 80.0 2 0 2 2 0 1 2 5 -7
+p156
+aVJames Posey MEM 03/24/2005 MEM @ NJN W 28 12 2 6 33.3 2 5 40.0 6 6 100.0 0 7 7 2 1 0 1 2 1
+p157
+aVEarl Watson MEM 03/24/2005 MEM @ NJN W 21 10 4 7 57.1 1 2 50.0 1 1 100.0 0 3 3 4 0 0 3 3 -6
+p158
+aVMike Miller MEM 03/24/2005 MEM @ NJN W 36 8 2 7 28.6 2 6 33.3 2 2 100.0 1 3 4 1 0 1 2 5 16
+p159
+aVStromile Swift MEM 03/24/2005 MEM @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p160
+aVShane Battier MEM 03/24/2005 MEM @ NJN W 30 5 1 2 50.0 0 0 - 3 4 75.0 1 5 6 2 1 0 0 3 10
+p161
+aVBrian Cardinal MEM 03/24/2005 MEM @ NJN W 29 9 4 13 30.8 1 4 25.0 0 0 - 0 4 4 6 0 0 1 1 12
+p162
+aVJason Williams MEM 03/24/2005 MEM @ NJN W 27 20 8 9 88.9 3 3 100.0 1 1 100.0 0 2 2 5 0 0 4 0 20
+p163
+aVMike Miller MEM 03/20/2005 MEM vs. PHX L 38 15 5 16 31.3 3 8 37.5 2 3 66.7 0 4 4 2 0 0 1 2 -7
+p164
+aVEarl Watson MEM 03/20/2005 MEM vs. PHX L 11 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 1 0 0 5 2 4
+p165
+aVShane Battier MEM 03/20/2005 MEM vs. PHX L 34 20 8 10 80.0 0 0 - 4 4 100.0 1 4 5 3 2 1 1 0 5
+p166
+aVJames Posey MEM 03/20/2005 MEM vs. PHX L 36 5 2 10 20.0 0 5 0.0 1 1 100.0 2 4 6 4 2 1 0 5 -3
+p167
+aVJason Williams MEM 03/20/2005 MEM vs. PHX L 33 14 5 9 55.6 3 6 50.0 1 2 50.0 0 2 2 4 2 0 2 1 -7
+p168
+aVPau Gasol MEM 03/20/2005 MEM vs. PHX L 12 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 1 1 0 0 1
+p169
+aVLorenzen Wright MEM 03/20/2005 MEM vs. PHX L 35 19 9 13 69.2 0 0 - 1 2 50.0 1 7 8 2 0 1 2 1 -4
+p170
+aVBonzi Wells MEM 03/20/2005 MEM vs. PHX L 13 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 2 0 1 2 1
+p171
+aVBrian Cardinal MEM 03/20/2005 MEM vs. PHX L 24 2 1 6 16.7 0 3 0.0 0 0 - 1 0 1 3 1 0 2 2 -15
+p172
+aVAntonio Burks MEM 03/20/2005 MEM vs. PHX L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p173
+aVMike Miller MEM 03/18/2005 MEM vs. MIN W 30 14 7 12 58.3 0 2 0.0 0 0 - 0 2 2 2 1 0 0 1 -9
+p174
+aVJake Tsakalidis MEM 03/18/2005 MEM vs. MIN W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 15
+p175
+aVLorenzen Wright MEM 03/18/2005 MEM vs. MIN W 38 16 7 12 58.3 0 1 0.0 2 4 50.0 1 6 7 0 0 1 1 5 -2
+p176
+aVBonzi Wells MEM 03/18/2005 MEM vs. MIN W 23 16 6 10 60.0 1 2 50.0 3 4 75.0 1 5 6 1 2 1 2 5 16
+p177
+aVBrian Cardinal MEM 03/18/2005 MEM vs. MIN W 31 3 1 9 11.1 1 3 33.3 0 0 - 3 2 5 1 1 0 1 1 -11
+p178
+aVShane Battier MEM 03/18/2005 MEM vs. MIN W 21 4 2 8 25.0 0 0 - 0 0 - 2 2 4 1 1 1 0 1 4
+p179
+aVJames Posey MEM 03/18/2005 MEM vs. MIN W 40 12 3 11 27.3 1 5 20.0 5 6 83.3 2 8 10 4 0 1 0 1 7
+p180
+aVEarl Watson MEM 03/18/2005 MEM vs. MIN W 17 4 2 7 28.6 0 2 0.0 0 0 - 3 2 5 3 0 1 1 1 0
+p181
+aVJason Williams MEM 03/18/2005 MEM vs. MIN W 30 17 6 10 60.0 2 4 50.0 3 5 60.0 0 1 1 3 0 0 2 0 5
+p182
+aVJake Tsakalidis MEM 03/16/2005 MEM @ NOH W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 7
+p183
+aVEarl Watson MEM 03/16/2005 MEM @ NOH W 32 16 7 11 63.6 2 3 66.7 0 0 - 0 3 3 8 1 0 3 2 4
+p184
+aVJames Posey MEM 03/16/2005 MEM @ NOH W 39 20 7 12 58.3 2 4 50.0 4 7 57.1 1 6 7 3 3 0 1 2 -3
+p185
+aVShane Battier MEM 03/16/2005 MEM @ NOH W 24 10 3 8 37.5 0 1 0.0 4 6 66.7 1 2 3 0 2 2 2 5 -2
+p186
+aVDahntay Jones MEM 03/16/2005 MEM @ NOH W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 6
+p187
+aVMike Miller MEM 03/16/2005 MEM @ NOH W 21 9 4 8 50.0 1 1 100.0 0 2 0.0 0 3 3 4 0 0 2 5 11
+p188
+aVBrian Cardinal MEM 03/16/2005 MEM @ NOH W 41 14 6 14 42.9 1 4 25.0 1 1 100.0 1 7 8 2 1 0 0 2 10
+p189
+aVRyan Humphrey MEM 03/16/2005 MEM @ NOH W 8 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 1 -4
+p190
+aVAntonio Burks MEM 03/16/2005 MEM @ NOH W 17 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 2 0 0 2 2
+p191
+aVLorenzen Wright MEM 03/16/2005 MEM @ NOH W 45 11 5 12 41.7 0 0 - 1 2 50.0 2 6 8 1 1 2 2 4 -1
+p192
+aVLorenzen Wright MEM 03/14/2005 MEM vs. POR W 41 19 7 9 77.8 0 0 - 5 6 83.3 1 8 9 0 1 2 0 3 23
+p193
+aVBrian Cardinal MEM 03/14/2005 MEM vs. POR W 29 12 3 13 23.1 0 5 0.0 6 7 85.7 0 3 3 2 4 1 1 2 12
+p194
+aVRyan Humphrey MEM 03/14/2005 MEM vs. POR W 8 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 0 1 0 1 0 -2
+p195
+aVAntonio Burks MEM 03/14/2005 MEM vs. POR W 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 3 0 1 0 1
+p196
+aVJames Posey MEM 03/14/2005 MEM vs. POR W 34 5 2 5 40.0 1 4 25.0 0 0 - 0 3 3 2 2 1 0 4 21
+p197
+aVDahntay Jones MEM 03/14/2005 MEM vs. POR W 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -2
+p198
+aVJake Tsakalidis MEM 03/14/2005 MEM vs. POR W 3 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 0
+p199
+aVMike Miller MEM 03/14/2005 MEM vs. POR W 36 27 8 12 66.7 3 6 50.0 8 8 100.0 0 2 2 4 1 0 0 0 17
+p200
+aVEarl Watson MEM 03/14/2005 MEM vs. POR W 30 16 7 12 58.3 2 3 66.7 0 0 - 2 3 5 7 0 0 5 3 20
+p201
+aVShane Battier MEM 03/14/2005 MEM vs. POR W 38 14 6 11 54.5 0 0 - 2 4 50.0 2 2 4 4 0 0 1 3 15
+p202
+aVMike Miller MEM 03/12/2005 MEM @ POR L 41 8 3 11 27.3 2 5 40.0 0 0 - 0 5 5 7 3 0 4 3 -9
+p203
+aVBrian Cardinal MEM 03/12/2005 MEM @ POR L 36 11 4 10 40.0 3 6 50.0 0 0 - 2 4 6 3 3 0 1 4 -6
+p204
+aVShane Battier MEM 03/12/2005 MEM @ POR L 36 11 5 12 41.7 0 1 0.0 1 3 33.3 3 1 4 1 1 0 2 3 -10
+p205
+aVJames Posey MEM 03/12/2005 MEM @ POR L 23 2 1 9 11.1 0 2 0.0 0 0 - 1 2 3 0 0 1 1 0 -14
+p206
+aVEarl Watson MEM 03/12/2005 MEM @ POR L 26 7 3 8 37.5 0 1 0.0 1 1 100.0 0 0 0 3 2 1 4 4 -7
+p207
+aVAntonio Burks MEM 03/12/2005 MEM @ POR L 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 2 -9
+p208
+aVJason Williams MEM 03/12/2005 MEM @ POR L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 3 2 6
+p209
+aVJake Tsakalidis MEM 03/12/2005 MEM @ POR L 10 0 0 3 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -4
+p210
+aVAndre Emmett MEM 03/12/2005 MEM @ POR L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p211
+aVRyan Humphrey MEM 03/12/2005 MEM @ POR L 3 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 0 1 0 3
+p212
+aVLorenzen Wright MEM 03/12/2005 MEM @ POR L 39 21 9 14 64.3 0 0 - 3 5 60.0 4 8 12 1 1 3 2 4 -15
+p213
+aVJake Tsakalidis MEM 03/11/2005 MEM @ UTA W 21 7 2 3 66.7 0 0 - 3 4 75.0 0 1 1 2 0 1 0 1 17
+p214
+aVEarl Watson MEM 03/11/2005 MEM @ UTA W 17 9 3 9 33.3 1 1 100.0 2 4 50.0 1 3 4 3 1 0 2 2 -1
+p215
+aVAndre Emmett MEM 03/11/2005 MEM @ UTA W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p216
+aVJames Posey MEM 03/11/2005 MEM @ UTA W 23 10 3 6 50.0 2 4 50.0 2 2 100.0 0 4 4 1 2 1 3 4 2
+p217
+aVMike Miller MEM 03/11/2005 MEM @ UTA W 36 24 9 13 69.2 4 6 66.7 2 3 66.7 0 7 7 3 2 0 3 2 9
+p218
+aVLorenzen Wright MEM 03/11/2005 MEM @ UTA W 26 10 4 8 50.0 0 0 - 2 2 100.0 4 4 8 0 1 1 2 5 -5
+p219
+aVJason Williams MEM 03/11/2005 MEM @ UTA W 31 7 3 5 60.0 1 3 33.3 0 0 - 0 3 3 8 0 0 3 0 13
+p220
+aVBrian Cardinal MEM 03/11/2005 MEM @ UTA W 34 14 5 10 50.0 2 4 50.0 2 2 100.0 0 3 3 4 3 0 3 5 13
+p221
+aVShane Battier MEM 03/11/2005 MEM @ UTA W 41 11 2 7 28.6 0 1 0.0 7 7 100.0 0 4 4 2 1 0 4 3 16
+p222
+aVRyan Humphrey MEM 03/11/2005 MEM @ UTA W 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -3
+p223
+aVEarl Watson MEM 03/08/2005 MEM @ SAC L 24 9 4 9 44.4 0 2 0.0 1 2 50.0 0 0 0 2 2 0 0 1 6
+p224
+aVLorenzen Wright MEM 03/08/2005 MEM @ SAC L 28 11 5 11 45.5 0 0 - 1 1 100.0 2 4 6 0 0 2 2 3 -5
+p225
+aVMike Miller MEM 03/08/2005 MEM @ SAC L 38 9 4 9 44.4 1 4 25.0 0 0 - 0 8 8 3 0 1 3 1 -4
+p226
+aVRyan Humphrey MEM 03/08/2005 MEM @ SAC L 14 8 4 8 50.0 0 0 - 0 0 - 4 3 7 0 1 0 3 2 0
+p227
+aVAndre Emmett MEM 03/08/2005 MEM @ SAC L 5 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p228
+aVBrian Cardinal MEM 03/08/2005 MEM @ SAC L 33 15 5 6 83.3 2 2 100.0 3 3 100.0 0 1 1 6 3 0 2 4 -2
+p229
+aVJason Williams MEM 03/08/2005 MEM @ SAC L 24 7 3 8 37.5 0 3 0.0 1 1 100.0 0 0 0 4 0 0 1 1 -9
+p230
+aVShane Battier MEM 03/08/2005 MEM @ SAC L 36 7 3 10 30.0 0 2 0.0 1 2 50.0 2 5 7 2 1 1 1 2 -1
+p231
+aVJames Posey MEM 03/08/2005 MEM @ SAC L 24 11 5 14 35.7 1 5 20.0 0 0 - 0 5 5 1 2 0 1 4 1
+p232
+aVJake Tsakalidis MEM 03/08/2005 MEM @ SAC L 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 4 -2
+p233
+aVRyan Humphrey MEM 03/07/2005 MEM @ LAC W 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p234
+aVBrian Cardinal MEM 03/07/2005 MEM @ LAC W 37 20 6 12 50.0 2 5 40.0 6 7 85.7 1 2 3 5 2 1 2 3 16
+p235
+aVShane Battier MEM 03/07/2005 MEM @ LAC W 28 14 3 8 37.5 1 2 50.0 7 8 87.5 2 4 6 2 1 0 0 4 6
+p236
+aVJake Tsakalidis MEM 03/07/2005 MEM @ LAC W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 2 -5
+p237
+aVEarl Watson MEM 03/07/2005 MEM @ LAC W 17 3 1 6 16.7 0 2 0.0 1 2 50.0 0 1 1 1 1 0 0 2 2
+p238
+aVJason Williams MEM 03/07/2005 MEM @ LAC W 36 12 4 8 50.0 2 4 50.0 2 3 66.7 0 1 1 5 1 0 1 0 -1
+p239
+aVMike Miller MEM 03/07/2005 MEM @ LAC W 40 17 6 9 66.7 2 3 66.7 3 5 60.0 0 5 5 5 1 1 3 4 8
+p240
+aVLorenzen Wright MEM 03/07/2005 MEM @ LAC W 37 23 8 12 66.7 0 0 - 7 7 100.0 1 4 5 1 2 0 1 2 5
+p241
+aVAndre Emmett MEM 03/07/2005 MEM @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p242
+aVJames Posey MEM 03/07/2005 MEM @ LAC W 26 10 3 10 30.0 2 6 33.3 2 2 100.0 0 3 3 1 0 0 0 4 -10
+p243
+aVLorenzen Wright MEM 03/04/2005 MEM vs. TOR W 44 20 10 14 71.4 0 0 - 0 2 0.0 4 11 15 1 2 3 3 2 14
+p244
+aVEarl Watson MEM 03/04/2005 MEM vs. TOR W 29 7 2 7 28.6 0 1 0.0 3 6 50.0 2 3 5 2 2 1 3 3 17
+p245
+aVBrian Cardinal MEM 03/04/2005 MEM vs. TOR W 39 13 3 13 23.1 2 5 40.0 5 5 100.0 1 8 9 5 0 0 4 2 10
+p246
+aVMike Miller MEM 03/04/2005 MEM vs. TOR W 31 6 3 10 30.0 0 3 0.0 0 0 - 0 4 4 2 0 0 2 3 -7
+p247
+aVJason Williams MEM 03/04/2005 MEM vs. TOR W 19 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 3 1 0 1 2 -6
+p248
+aVRyan Humphrey MEM 03/04/2005 MEM vs. TOR W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p249
+aVJames Posey MEM 03/04/2005 MEM vs. TOR W 26 1 0 3 0.0 0 1 0.0 1 2 50.0 0 4 4 2 0 0 0 4 15
+p250
+aVShane Battier MEM 03/04/2005 MEM vs. TOR W 41 33 10 17 58.8 4 5 80.0 9 11 81.8 4 2 6 2 3 1 5 3 14
+p251
+aVShane Battier MEM 03/01/2005 MEM vs. GSW W 38 25 10 17 58.8 1 3 33.3 4 5 80.0 2 8 10 0 0 0 3 2 7
+p252
+aVRyan Humphrey MEM 03/01/2005 MEM vs. GSW W 13 4 2 3 66.7 0 0 - 0 0 - 3 1 4 0 0 0 4 4 -6
+p253
+aVMike Miller MEM 03/01/2005 MEM vs. GSW W 36 19 6 10 60.0 3 4 75.0 4 4 100.0 1 8 9 3 1 0 2 3 2
+p254
+aVEarl Watson MEM 03/01/2005 MEM vs. GSW W 21 9 4 7 57.1 0 1 0.0 1 2 50.0 1 0 1 0 1 0 1 0 -12
+p255
+aVLorenzen Wright MEM 03/01/2005 MEM vs. GSW W 33 9 3 8 37.5 0 0 - 3 6 50.0 2 7 9 1 1 1 3 4 6
+p256
+aVJason Williams MEM 03/01/2005 MEM vs. GSW W 35 9 4 10 40.0 1 4 25.0 0 0 - 0 1 1 7 1 0 2 2 7
+p257
+aVBonzi Wells MEM 03/01/2005 MEM vs. GSW W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -2
+p258
+aVBrian Cardinal MEM 03/01/2005 MEM vs. GSW W 40 20 6 13 46.2 3 6 50.0 5 5 100.0 0 3 3 2 3 0 6 6 11
+p259
+aVJames Posey MEM 03/01/2005 MEM vs. GSW W 18 4 1 2 50.0 1 1 100.0 1 2 50.0 0 1 1 0 1 0 2 1 -3
+p260
+aVEarl Watson MEM 02/26/2005 MEM @ SAS W 25 11 5 10 50.0 0 1 0.0 1 1 100.0 0 4 4 5 2 0 2 3 8
+p261
+aVRyan Humphrey MEM 02/26/2005 MEM @ SAS W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 2 1 0 2 6
+p262
+aVJake Tsakalidis MEM 02/26/2005 MEM @ SAS W 4 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 1
+p263
+aVLorenzen Wright MEM 02/26/2005 MEM @ SAS W 41 19 9 18 50.0 0 0 - 1 2 50.0 1 5 6 2 2 0 2 5 4
+p264
+aVBrian Cardinal MEM 02/26/2005 MEM @ SAS W 38 10 3 14 21.4 1 5 20.0 3 4 75.0 2 5 7 3 3 0 3 2 -7
+p265
+aVMike Miller MEM 02/26/2005 MEM @ SAS W 32 12 4 7 57.1 0 1 0.0 4 4 100.0 1 6 7 2 0 0 1 3 3
+p266
+aVShane Battier MEM 02/26/2005 MEM @ SAS W 27 5 2 7 28.6 0 1 0.0 1 2 50.0 1 5 6 0 1 0 1 5 0
+p267
+aVBonzi Wells MEM 02/26/2005 MEM @ SAS W 19 9 3 9 33.3 1 3 33.3 2 2 100.0 0 1 1 1 3 1 0 2 -1
+p268
+aVJames Posey MEM 02/26/2005 MEM @ SAS W 21 9 2 5 40.0 0 1 0.0 5 7 71.4 1 2 3 1 2 0 4 3 2
+p269
+aVJason Williams MEM 02/26/2005 MEM @ SAS W 23 7 3 10 30.0 1 4 25.0 0 0 - 1 0 1 3 0 0 0 0 -6
+p270
+aVLorenzen Wright MEM 02/25/2005 MEM vs. DEN L 42 7 2 12 16.7 0 0 - 3 4 75.0 9 9 18 2 1 1 3 5 6
+p271
+aVRyan Humphrey MEM 02/25/2005 MEM vs. DEN L 14 7 3 5 60.0 0 0 - 1 1 100.0 1 2 3 0 0 0 1 3 -9
+p272
+aVBonzi Wells MEM 02/25/2005 MEM vs. DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p273
+aVBrian Cardinal MEM 02/25/2005 MEM vs. DEN L 44 28 10 20 50.0 5 10 50.0 3 4 75.0 1 6 7 3 3 0 3 5 12
+p274
+aVEarl Watson MEM 02/25/2005 MEM vs. DEN L 16 1 0 4 0.0 0 1 0.0 1 2 50.0 0 1 1 3 1 0 4 3 -20
+p275
+aVAntonio Burks MEM 02/25/2005 MEM vs. DEN L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p276
+aVShane Battier MEM 02/25/2005 MEM vs. DEN L 33 17 6 11 54.5 0 1 0.0 5 7 71.4 2 7 9 1 4 1 2 6 8
+p277
+aVJames Posey MEM 02/25/2005 MEM vs. DEN L 22 5 1 6 16.7 1 4 25.0 2 2 100.0 1 1 2 1 1 0 0 3 -18
+p278
+aVJason Williams MEM 02/25/2005 MEM vs. DEN L 41 13 6 13 46.2 1 5 20.0 0 2 0.0 0 1 1 7 1 1 3 4 11
+p279
+aVJake Tsakalidis MEM 02/25/2005 MEM vs. DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p280
+aVMike Miller MEM 02/25/2005 MEM vs. DEN L 37 12 3 8 37.5 2 5 40.0 4 4 100.0 0 1 1 3 2 0 2 6 19
+p281
+aVJake Tsakalidis MEM 02/23/2005 MEM @ WAS L 18 10 5 5 100.0 0 0 - 0 0 - 1 2 3 0 0 1 1 3 -4
+p282
+aVJason Williams MEM 02/23/2005 MEM @ WAS L 30 10 4 11 36.4 2 6 33.3 0 0 - 1 3 4 7 1 0 2 4 2
+p283
+aVRyan Humphrey MEM 02/23/2005 MEM @ WAS L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p284
+aVShane Battier MEM 02/23/2005 MEM @ WAS L 38 14 4 15 26.7 3 7 42.9 3 4 75.0 5 3 8 1 2 1 1 1 -8
+p285
+aVBonzi Wells MEM 02/23/2005 MEM @ WAS L 18 8 2 6 33.3 0 1 0.0 4 5 80.0 3 3 6 1 0 0 3 2 -7
+p286
+aVEarl Watson MEM 02/23/2005 MEM @ WAS L 15 2 1 8 12.5 0 4 0.0 0 0 - 0 0 0 2 0 1 1 3 -17
+p287
+aVLorenzen Wright MEM 02/23/2005 MEM @ WAS L 30 6 3 8 37.5 0 0 - 0 0 - 2 6 8 1 0 1 1 4 -6
+p288
+aVAntonio Burks MEM 02/23/2005 MEM @ WAS L 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 5
+p289
+aVBrian Cardinal MEM 02/23/2005 MEM @ WAS L 31 14 3 9 33.3 2 5 40.0 6 6 100.0 2 1 3 1 1 0 1 3 -7
+p290
+aVDahntay Jones MEM 02/23/2005 MEM @ WAS L 9 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 1 3 -7
+p291
+aVMike Miller MEM 02/23/2005 MEM @ WAS L 39 16 6 15 40.0 1 5 20.0 3 5 60.0 1 7 8 7 1 0 3 1 -3
+p292
+aVRyan Humphrey MEM 02/16/2005 MEM @ BOS L 4 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 1 0 0 0 -10
+p293
+aVStromile Swift MEM 02/16/2005 MEM @ BOS L 25 19 5 10 50.0 0 0 - 9 10 90.0 0 4 4 1 2 3 3 2 1
+p294
+aVDahntay Jones MEM 02/16/2005 MEM @ BOS L 11 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 4 5
+p295
+aVBonzi Wells MEM 02/16/2005 MEM @ BOS L 18 3 1 6 16.7 0 1 0.0 1 2 50.0 0 3 3 0 2 1 2 4 4
+p296
+aVLorenzen Wright MEM 02/16/2005 MEM @ BOS L 34 6 2 6 33.3 0 0 - 2 3 66.7 2 8 10 1 0 0 2 2 -16
+p297
+aVShane Battier MEM 02/16/2005 MEM @ BOS L 29 5 2 6 33.3 1 4 25.0 0 0 - 1 4 5 2 2 1 2 3 2
+p298
+aVMike Miller MEM 02/16/2005 MEM @ BOS L 21 11 3 7 42.9 3 6 50.0 2 2 100.0 0 4 4 6 0 0 2 4 -7
+p299
+aVBrian Cardinal MEM 02/16/2005 MEM @ BOS L 29 17 3 8 37.5 1 2 50.0 10 10 100.0 1 3 4 1 4 1 1 3 12
+p300
+aVEarl Watson MEM 02/16/2005 MEM @ BOS L 30 8 4 14 28.6 0 6 0.0 0 0 - 2 2 4 2 2 0 3 5 2
+p301
+aVJason Williams MEM 02/16/2005 MEM @ BOS L 35 14 6 14 42.9 2 9 22.2 0 1 0.0 1 0 1 6 1 0 4 1 2
+p302
+aVAntonio Burks MEM 02/16/2005 MEM @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p303
+aVBonzi Wells MEM 02/13/2005 MEM @ IND L 26 11 2 8 25.0 0 1 0.0 7 10 70.0 2 5 7 0 2 0 0 1 6
+p304
+aVAntonio Burks MEM 02/13/2005 MEM @ IND L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -1
+p305
+aVStromile Swift MEM 02/13/2005 MEM @ IND L 28 9 3 10 30.0 0 0 - 3 4 75.0 1 5 6 1 1 0 3 1 -4
+p306
+aVRyan Humphrey MEM 02/13/2005 MEM @ IND L 6 0 0 3 0.0 0 0 - 0 0 - 3 0 3 1 0 0 1 0 -4
+p307
+aVBrian Cardinal MEM 02/13/2005 MEM @ IND L 25 9 3 8 37.5 2 4 50.0 1 2 50.0 3 2 5 2 0 1 0 6 -8
+p308
+aVDahntay Jones MEM 02/13/2005 MEM @ IND L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 2 1 -2
+p309
+aVLorenzen Wright MEM 02/13/2005 MEM @ IND L 29 18 7 14 50.0 0 0 - 4 4 100.0 3 10 13 2 0 1 0 4 4
+p310
+aVShane Battier MEM 02/13/2005 MEM @ IND L 33 2 1 7 14.3 0 3 0.0 0 0 - 3 2 5 2 0 1 0 2 -4
+p311
+aVEarl Watson MEM 02/13/2005 MEM @ IND L 37 16 7 13 53.8 1 4 25.0 1 1 100.0 0 1 1 3 1 2 4 2 -2
+p312
+aVMike Miller MEM 02/13/2005 MEM @ IND L 30 8 3 9 33.3 2 5 40.0 0 0 - 0 2 2 1 1 1 2 0 0
+p313
+aVBonzi Wells MEM 02/11/2005 MEM vs. POR W 32 13 4 16 25.0 0 3 0.0 5 8 62.5 6 8 14 0 3 2 2 1 24
+p314
+aVBrian Cardinal MEM 02/11/2005 MEM vs. POR W 25 9 2 8 25.0 2 4 50.0 3 4 75.0 3 5 8 5 4 0 0 3 23
+p315
+aVJason Williams MEM 02/11/2005 MEM vs. POR W 17 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 4 1 0 0 0 -18
+p316
+aVEarl Watson MEM 02/11/2005 MEM vs. POR W 31 9 3 7 42.9 1 4 25.0 2 2 100.0 1 1 2 7 0 0 1 2 24
+p317
+aVDahntay Jones MEM 02/11/2005 MEM vs. POR W 12 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 2 0 1 2 -17
+p318
+aVStromile Swift MEM 02/11/2005 MEM vs. POR W 37 23 7 15 46.7 0 0 - 9 10 90.0 3 5 8 1 0 3 4 1 -5
+p319
+aVMike Miller MEM 02/11/2005 MEM vs. POR W 33 22 9 14 64.3 4 8 50.0 0 1 0.0 0 4 4 1 1 0 2 3 20
+p320
+aVShane Battier MEM 02/11/2005 MEM vs. POR W 22 3 1 8 12.5 0 1 0.0 1 2 50.0 2 1 3 0 2 0 0 0 -17
+p321
+aVLorenzen Wright MEM 02/11/2005 MEM vs. POR W 31 4 2 6 33.3 0 1 0.0 0 0 - 1 5 6 0 0 0 1 3 -4
+p322
+aVBrian Cardinal MEM 02/09/2005 MEM @ PHI W 16 7 2 7 28.6 1 4 25.0 2 2 100.0 1 4 5 3 1 0 3 3 3
+p323
+aVRyan Humphrey MEM 02/09/2005 MEM @ PHI W 15 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 1
+p324
+aVEarl Watson MEM 02/09/2005 MEM @ PHI W 27 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 4 1 0 3 4 0
+p325
+aVBonzi Wells MEM 02/09/2005 MEM @ PHI W 22 12 5 9 55.6 2 2 100.0 0 0 - 3 3 6 1 1 1 0 1 9
+p326
+aVShane Battier MEM 02/09/2005 MEM @ PHI W 34 4 1 6 16.7 0 3 0.0 2 2 100.0 2 3 5 2 0 3 0 0 -1
+p327
+aVStromile Swift MEM 02/09/2005 MEM @ PHI W 23 17 5 12 41.7 0 0 - 7 7 100.0 1 3 4 1 1 1 3 4 0
+p328
+aVMike Miller MEM 02/09/2005 MEM @ PHI W 27 5 2 5 40.0 1 3 33.3 0 0 - 3 3 6 5 0 1 1 2 5
+p329
+aVJason Williams MEM 02/09/2005 MEM @ PHI W 21 4 1 7 14.3 0 4 0.0 2 2 100.0 0 2 2 4 2 0 2 4 3
+p330
+aVLorenzen Wright MEM 02/09/2005 MEM @ PHI W 27 12 6 12 50.0 0 1 0.0 0 0 - 2 6 8 0 1 0 1 4 -1
+p331
+aVDahntay Jones MEM 02/09/2005 MEM @ PHI W 28 23 6 11 54.5 3 6 50.0 8 9 88.9 0 2 2 2 0 0 1 2 -4
+p332
+aVDahntay Jones MEM 02/08/2005 MEM vs. MIN W 37 12 4 8 50.0 1 2 50.0 3 4 75.0 0 4 4 3 0 0 1 4 14
+p333
+aVJason Williams MEM 02/08/2005 MEM vs. MIN W 27 15 5 13 38.5 3 8 37.5 2 4 50.0 1 1 2 8 2 0 1 1 21
+p334
+aVRyan Humphrey MEM 02/08/2005 MEM vs. MIN W 4 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 0
+p335
+aVBonzi Wells MEM 02/08/2005 MEM vs. MIN W 12 2 1 7 14.3 0 2 0.0 0 1 0.0 0 0 0 0 1 0 0 2 -6
+p336
+aVAntonio Burks MEM 02/08/2005 MEM vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p337
+aVLorenzen Wright MEM 02/08/2005 MEM vs. MIN W 40 18 9 11 81.8 0 0 - 0 0 - 8 4 12 2 3 1 1 4 20
+p338
+aVShane Battier MEM 02/08/2005 MEM vs. MIN W 38 14 4 8 50.0 2 3 66.7 4 6 66.7 3 2 5 4 0 1 3 1 16
+p339
+aVEarl Watson MEM 02/08/2005 MEM vs. MIN W 19 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 4 0 0 0 2 -6
+p340
+aVBrian Cardinal MEM 02/08/2005 MEM vs. MIN W 24 14 3 8 37.5 1 2 50.0 7 7 100.0 1 1 2 1 1 0 0 3 3
+p341
+aVMike Miller MEM 02/08/2005 MEM vs. MIN W 13 8 3 4 75.0 1 1 100.0 1 1 100.0 1 2 3 0 0 0 0 4 -8
+p342
+aVStromile Swift MEM 02/08/2005 MEM vs. MIN W 24 18 9 15 60.0 0 1 0.0 0 2 0.0 1 2 3 0 4 3 3 2 5
+p343
+aVMike Miller MEM 02/03/2005 MEM vs. LAC L 30 16 6 10 60.0 1 2 50.0 3 5 60.0 1 1 2 5 0 1 3 6 3
+p344
+aVShane Battier MEM 02/03/2005 MEM vs. LAC L 43 13 5 9 55.6 2 3 66.7 1 2 50.0 1 4 5 4 2 0 1 2 -3
+p345
+aVDahntay Jones MEM 02/03/2005 MEM vs. LAC L 22 7 2 5 40.0 2 3 66.7 1 3 33.3 0 1 1 1 0 1 0 4 -4
+p346
+aVRyan Humphrey MEM 02/03/2005 MEM vs. LAC L 4 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p347
+aVStromile Swift MEM 02/03/2005 MEM vs. LAC L 37 13 2 11 18.2 0 0 - 9 12 75.0 3 2 5 3 1 4 1 5 1
+p348
+aVLorenzen Wright MEM 02/03/2005 MEM vs. LAC L 34 14 6 9 66.7 0 0 - 2 4 50.0 4 6 10 0 1 0 1 5 -6
+p349
+aVJason Williams MEM 02/03/2005 MEM vs. LAC L 33 15 6 11 54.5 3 6 50.0 0 0 - 0 2 2 6 2 0 1 1 -3
+p350
+aVAntonio Burks MEM 02/03/2005 MEM vs. LAC L 15 10 3 7 42.9 1 3 33.3 3 4 75.0 0 1 1 1 0 0 0 1 0
+p351
+aVBrian Cardinal MEM 02/03/2005 MEM vs. LAC L 22 13 6 12 50.0 1 3 33.3 0 0 - 1 4 5 0 1 0 1 3 -1
+p352
+aVRyan Humphrey MEM 02/01/2005 MEM vs. PHX W 18 4 1 6 16.7 0 0 - 2 4 50.0 4 2 6 3 1 0 0 1 -6
+p353
+aVMike Miller MEM 02/01/2005 MEM vs. PHX W 25 11 4 7 57.1 2 3 66.7 1 1 100.0 0 5 5 4 0 0 1 1 4
+p354
+aVStromile Swift MEM 02/01/2005 MEM vs. PHX W 25 16 7 14 50.0 0 0 - 2 4 50.0 2 4 6 2 1 2 0 1 10
+p355
+aVAntonio Burks MEM 02/01/2005 MEM vs. PHX W 11 10 3 6 50.0 2 2 100.0 2 2 100.0 0 0 0 1 1 0 1 4 6
+p356
+aVShane Battier MEM 02/01/2005 MEM vs. PHX W 38 10 4 11 36.4 2 6 33.3 0 0 - 1 5 6 3 1 1 0 1 4
+p357
+aVBrian Cardinal MEM 02/01/2005 MEM vs. PHX W 24 9 3 5 60.0 0 0 - 3 3 100.0 2 3 5 2 0 0 0 2 19
+p358
+aVDahntay Jones MEM 02/01/2005 MEM vs. PHX W 33 17 6 12 50.0 4 4 100.0 1 2 50.0 0 2 2 0 1 0 2 3 14
+p359
+aVLorenzen Wright MEM 02/01/2005 MEM vs. PHX W 29 12 6 11 54.5 0 0 - 0 0 - 5 8 13 2 2 0 1 2 -1
+p360
+aVJason Williams MEM 02/01/2005 MEM vs. PHX W 37 19 7 18 38.9 2 7 28.6 3 4 75.0 0 2 2 8 1 0 2 0 5
+p361
+aVJake Tsakalidis MEM 01/31/2005 MEM @ NOH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p362
+aVMike Miller MEM 01/31/2005 MEM @ NOH W 23 13 5 8 62.5 1 2 50.0 2 2 100.0 0 2 2 1 0 0 5 3 0
+p363
+aVJason Williams MEM 01/31/2005 MEM @ NOH W 26 14 5 14 35.7 2 5 40.0 2 2 100.0 1 2 3 6 0 0 3 0 -1
+p364
+aVBonzi Wells MEM 01/31/2005 MEM @ NOH W 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 2 0 1 1 -2
+p365
+aVBrian Cardinal MEM 01/31/2005 MEM @ NOH W 18 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 0 1 -4
+p366
+aVShane Battier MEM 01/31/2005 MEM @ NOH W 39 12 3 6 50.0 3 4 75.0 3 4 75.0 0 2 2 4 2 0 2 2 9
+p367
+aVRyan Humphrey MEM 01/31/2005 MEM @ NOH W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -1
+p368
+aVStromile Swift MEM 01/31/2005 MEM @ NOH W 36 19 5 8 62.5 0 0 - 9 9 100.0 1 4 5 1 1 0 2 3 6
+p369
+aVEarl Watson MEM 01/31/2005 MEM @ NOH W 27 11 4 7 57.1 3 5 60.0 0 2 0.0 0 2 2 10 1 0 1 1 11
+p370
+aVLorenzen Wright MEM 01/31/2005 MEM @ NOH W 42 19 7 10 70.0 0 0 - 5 6 83.3 2 9 11 2 1 2 0 2 13
+p371
+aVDahntay Jones MEM 01/31/2005 MEM @ NOH W 10 4 1 4 25.0 0 1 0.0 2 3 66.7 0 3 3 0 0 0 1 2 8
+p372
+aVEarl Watson MEM 01/29/2005 MEM vs. ATL W 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 4 1 0 0 1 -19
+p373
+aVStromile Swift MEM 01/29/2005 MEM vs. ATL W 29 4 2 8 25.0 0 0 - 0 0 - 3 3 6 2 1 0 1 1 8
+p374
+aVRyan Humphrey MEM 01/29/2005 MEM vs. ATL W 16 0 0 2 0.0 0 0 - 0 0 - 5 1 6 0 2 0 0 1 10
+p375
+aVBrian Cardinal MEM 01/29/2005 MEM vs. ATL W 17 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 6 -9
+p376
+aVDahntay Jones MEM 01/29/2005 MEM vs. ATL W 14 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 0 -14
+p377
+aVJason Williams MEM 01/29/2005 MEM vs. ATL W 35 23 9 14 64.3 1 5 20.0 4 4 100.0 1 1 2 8 1 0 4 1 20
+p378
+aVShane Battier MEM 01/29/2005 MEM vs. ATL W 40 15 6 9 66.7 2 3 66.7 1 2 50.0 2 5 7 0 0 0 0 3 11
+p379
+aVBonzi Wells MEM 01/29/2005 MEM vs. ATL W 10 2 1 6 16.7 0 0 - 0 2 0.0 0 0 0 0 0 0 1 2 -7
+p380
+aVJake Tsakalidis MEM 01/29/2005 MEM vs. ATL W 12 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 0 1 4 12
+p381
+aVMike Miller MEM 01/29/2005 MEM vs. ATL W 38 21 10 21 47.6 1 6 16.7 0 0 - 1 4 5 5 1 0 4 2 8
+p382
+aVLorenzen Wright MEM 01/29/2005 MEM vs. ATL W 16 4 2 6 33.3 0 0 - 0 2 0.0 3 6 9 0 1 4 0 1 -15
+p383
+aVBrian Cardinal MEM 01/26/2005 MEM @ CLE L 23 14 3 7 42.9 1 2 50.0 7 8 87.5 2 5 7 2 1 0 2 2 -11
+p384
+aVEarl Watson MEM 01/26/2005 MEM @ CLE L 23 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 6 1 1 3 2 -1
+p385
+aVDahntay Jones MEM 01/26/2005 MEM @ CLE L 22 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -5
+p386
+aVStromile Swift MEM 01/26/2005 MEM @ CLE L 23 10 5 9 55.6 0 0 - 0 0 - 2 3 5 0 0 2 1 4 13
+p387
+aVLorenzen Wright MEM 01/26/2005 MEM @ CLE L 19 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 2 -19
+p388
+aVRyan Humphrey MEM 01/26/2005 MEM @ CLE L 8 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -1
+p389
+aVMike Miller MEM 01/26/2005 MEM @ CLE L 32 28 11 16 68.8 5 8 62.5 1 1 100.0 2 3 5 3 0 0 3 3 11
+p390
+aVShane Battier MEM 01/26/2005 MEM @ CLE L 37 10 2 8 25.0 1 4 25.0 5 6 83.3 1 4 5 4 2 0 0 3 0
+p391
+aVJake Tsakalidis MEM 01/26/2005 MEM @ CLE L 11 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 4
+p392
+aVBonzi Wells MEM 01/26/2005 MEM @ CLE L 13 11 3 5 60.0 2 3 66.7 3 3 100.0 0 0 0 1 0 0 1 2 -10
+p393
+aVJason Williams MEM 01/26/2005 MEM @ CLE L 29 20 7 12 58.3 1 3 33.3 5 5 100.0 0 0 0 7 2 0 3 0 4
+p394
+aVLorenzen Wright MEM 01/25/2005 MEM vs. ORL W 30 12 4 9 44.4 0 0 - 4 6 66.7 3 5 8 1 0 0 1 4 6
+p395
+aVRyan Humphrey MEM 01/25/2005 MEM vs. ORL W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p396
+aVMike Miller MEM 01/25/2005 MEM vs. ORL W 21 9 3 4 75.0 2 3 66.7 1 4 25.0 2 3 5 2 0 0 1 2 11
+p397
+aVJason Williams MEM 01/25/2005 MEM vs. ORL W 24 10 3 9 33.3 1 4 25.0 3 3 100.0 0 3 3 7 1 1 2 2 3
+p398
+aVShane Battier MEM 01/25/2005 MEM vs. ORL W 34 11 4 11 36.4 1 2 50.0 2 2 100.0 4 3 7 4 0 0 1 5 12
+p399
+aVDahntay Jones MEM 01/25/2005 MEM vs. ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p400
+aVEarl Watson MEM 01/25/2005 MEM vs. ORL W 24 11 3 11 27.3 1 4 25.0 4 4 100.0 0 1 1 3 2 1 1 1 9
+p401
+aVJames Posey MEM 01/25/2005 MEM vs. ORL W 44 12 4 10 40.0 2 6 33.3 2 2 100.0 2 6 8 3 1 0 2 3 22
+p402
+aVBrian Cardinal MEM 01/25/2005 MEM vs. ORL W 17 10 3 7 42.9 2 3 66.7 2 2 100.0 0 0 0 0 1 0 3 5 -7
+p403
+aVStromile Swift MEM 01/25/2005 MEM vs. ORL W 38 18 8 16 50.0 0 0 - 2 3 66.7 1 8 9 0 2 3 1 3 15
+p404
+aVStromile Swift MEM 01/22/2005 MEM @ UTA W 17 9 4 8 50.0 0 0 - 1 1 100.0 1 4 5 0 0 2 2 4 4
+p405
+aVLorenzen Wright MEM 01/22/2005 MEM @ UTA W 24 9 4 6 66.7 0 0 - 1 2 50.0 2 5 7 0 0 2 2 5 5
+p406
+aVDahntay Jones MEM 01/22/2005 MEM @ UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p407
+aVShane Battier MEM 01/22/2005 MEM @ UTA W 39 16 4 6 66.7 4 6 66.7 4 6 66.7 1 5 6 1 2 1 1 2 17
+p408
+aVAndre Emmett MEM 01/22/2005 MEM @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p409
+aVEarl Watson MEM 01/22/2005 MEM @ UTA W 23 12 5 5 100.0 2 2 100.0 0 0 - 0 1 1 6 2 0 1 5 17
+p410
+aVPau Gasol MEM 01/22/2005 MEM @ UTA W 27 23 7 12 58.3 0 0 - 9 10 90.0 1 2 3 1 1 0 1 3 10
+p411
+aVBrian Cardinal MEM 01/22/2005 MEM @ UTA W 23 14 3 5 60.0 1 1 100.0 7 8 87.5 1 4 5 2 2 0 2 5 19
+p412
+aVBonzi Wells MEM 01/22/2005 MEM @ UTA W 23 10 3 6 50.0 1 2 50.0 3 4 75.0 0 3 3 2 1 0 1 2 20
+p413
+aVJames Posey MEM 01/22/2005 MEM @ UTA W 34 8 3 6 50.0 2 4 50.0 0 0 - 0 4 4 4 0 0 3 2 -1
+p414
+aVJason Williams MEM 01/22/2005 MEM @ UTA W 25 9 4 11 36.4 1 4 25.0 0 0 - 0 2 2 3 0 0 1 2 -1
+p415
+aVDahntay Jones MEM 01/21/2005 MEM @ DEN L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p416
+aVJames Posey MEM 01/21/2005 MEM @ DEN L 35 15 5 7 71.4 5 5 100.0 0 0 - 0 4 4 3 1 0 0 2 -2
+p417
+aVEarl Watson MEM 01/21/2005 MEM @ DEN L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -19
+p418
+aVBrian Cardinal MEM 01/21/2005 MEM @ DEN L 15 4 1 3 33.3 0 1 0.0 2 4 50.0 0 1 1 1 1 0 0 4 -5
+p419
+aVAndre Emmett MEM 01/21/2005 MEM @ DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p420
+aVBonzi Wells MEM 01/21/2005 MEM @ DEN L 23 6 3 9 33.3 0 3 0.0 0 0 - 1 0 1 0 0 1 0 0 -19
+p421
+aVLorenzen Wright MEM 01/21/2005 MEM @ DEN L 33 17 7 10 70.0 0 0 - 3 6 50.0 2 5 7 0 0 1 2 3 -1
+p422
+aVPau Gasol MEM 01/21/2005 MEM @ DEN L 26 8 4 12 33.3 0 0 - 0 0 - 1 3 4 3 0 0 0 3 4
+p423
+aVStromile Swift MEM 01/21/2005 MEM @ DEN L 18 10 3 8 37.5 0 0 - 4 4 100.0 0 4 4 0 0 1 3 3 -11
+p424
+aVJason Williams MEM 01/21/2005 MEM @ DEN L 35 4 1 8 12.5 1 6 16.7 1 3 33.3 0 1 1 15 2 0 0 2 9
+p425
+aVShane Battier MEM 01/21/2005 MEM @ DEN L 37 13 5 9 55.6 2 3 66.7 1 2 50.0 1 0 1 1 1 0 1 2 -13
+p426
+aVPau Gasol MEM 01/19/2005 MEM @ PHX W 32 5 2 6 33.3 0 0 - 1 4 25.0 2 2 4 2 1 1 3 4 1
+p427
+aVLorenzen Wright MEM 01/19/2005 MEM @ PHX W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -13
+p428
+aVEarl Watson MEM 01/19/2005 MEM @ PHX W 24 9 4 8 50.0 0 2 0.0 1 2 50.0 1 3 4 5 2 0 2 3 14
+p429
+aVBrian Cardinal MEM 01/19/2005 MEM @ PHX W 26 13 3 13 23.1 1 3 33.3 6 6 100.0 3 2 5 0 3 1 0 4 15
+p430
+aVStromile Swift MEM 01/19/2005 MEM @ PHX W 25 14 5 9 55.6 0 0 - 4 6 66.7 1 3 4 1 1 3 2 2 14
+p431
+aVDahntay Jones MEM 01/19/2005 MEM @ PHX W 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 2 3
+p432
+aVBonzi Wells MEM 01/19/2005 MEM @ PHX W 30 16 7 14 50.0 0 2 0.0 2 2 100.0 1 8 9 2 1 1 0 0 9
+p433
+aVShane Battier MEM 01/19/2005 MEM @ PHX W 38 9 1 9 11.1 1 4 25.0 6 6 100.0 4 10 14 0 2 2 0 0 10
+p434
+aVJames Posey MEM 01/19/2005 MEM @ PHX W 26 5 2 10 20.0 1 4 25.0 0 0 - 1 8 9 0 1 0 3 3 -3
+p435
+aVJason Williams MEM 01/19/2005 MEM @ PHX W 24 11 4 9 44.4 3 7 42.9 0 0 - 1 0 1 4 0 0 1 1 -5
+p436
+aVLorenzen Wright MEM 01/17/2005 MEM vs. HOU W 20 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 2 0 0 1 2 2
+p437
+aVPau Gasol MEM 01/17/2005 MEM vs. HOU W 37 14 5 9 55.6 0 1 0.0 4 7 57.1 3 6 9 1 0 2 4 2 15
+p438
+aVJake Tsakalidis MEM 01/17/2005 MEM vs. HOU W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 0
+p439
+aVBonzi Wells MEM 01/17/2005 MEM vs. HOU W 20 7 3 6 50.0 1 2 50.0 0 0 - 0 5 5 3 2 0 2 1 9
+p440
+aVJames Posey MEM 01/17/2005 MEM vs. HOU W 29 10 2 8 25.0 1 6 16.7 5 6 83.3 0 1 1 1 0 0 1 4 6
+p441
+aVAndre Emmett MEM 01/17/2005 MEM vs. HOU W 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 0
+p442
+aVShane Battier MEM 01/17/2005 MEM vs. HOU W 34 10 4 8 50.0 2 5 40.0 0 0 - 2 3 5 2 1 1 1 1 17
+p443
+aVJason Williams MEM 01/17/2005 MEM vs. HOU W 28 16 5 10 50.0 3 5 60.0 3 3 100.0 0 4 4 4 1 0 0 0 6
+p444
+aVBrian Cardinal MEM 01/17/2005 MEM vs. HOU W 13 5 1 5 20.0 0 2 0.0 3 4 75.0 0 0 0 1 0 0 0 3 -2
+p445
+aVDahntay Jones MEM 01/17/2005 MEM vs. HOU W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 6
+p446
+aVStromile Swift MEM 01/17/2005 MEM vs. HOU W 25 18 6 9 66.7 0 0 - 6 8 75.0 3 3 6 1 1 1 2 5 21
+p447
+aVEarl Watson MEM 01/17/2005 MEM vs. HOU W 19 7 3 5 60.0 1 3 33.3 0 2 0.0 0 2 2 6 3 0 0 3 15
+p448
+aVBrian Cardinal MEM 01/15/2005 MEM vs. MIL W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p449
+aVEarl Watson MEM 01/15/2005 MEM vs. MIL W 16 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 1 -11
+p450
+aVLorenzen Wright MEM 01/15/2005 MEM vs. MIL W 22 0 0 4 0.0 0 0 - 0 0 - 2 5 7 0 1 2 0 2 10
+p451
+aVJason Williams MEM 01/15/2005 MEM vs. MIL W 32 25 9 17 52.9 7 13 53.8 0 0 - 1 1 2 8 5 0 0 1 30
+p452
+aVDahntay Jones MEM 01/15/2005 MEM vs. MIL W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p453
+aVStromile Swift MEM 01/15/2005 MEM vs. MIL W 18 11 4 7 57.1 0 0 - 3 4 75.0 2 2 4 1 0 1 1 3 -15
+p454
+aVPau Gasol MEM 01/15/2005 MEM vs. MIL W 30 22 8 19 42.1 0 0 - 6 7 85.7 1 7 8 4 0 2 4 2 27
+p455
+aVShane Battier MEM 01/15/2005 MEM vs. MIL W 35 8 3 12 25.0 2 5 40.0 0 0 - 2 4 6 5 2 2 0 1 28
+p456
+aVJames Posey MEM 01/15/2005 MEM vs. MIL W 37 14 5 9 55.6 4 7 57.1 0 0 - 2 4 6 3 0 0 0 3 27
+p457
+aVBonzi Wells MEM 01/15/2005 MEM vs. MIL W 33 21 8 14 57.1 0 1 0.0 5 5 100.0 1 3 4 3 2 0 0 4 12
+p458
+aVShane Battier MEM 01/14/2005 MEM @ CHA W 36 15 6 10 60.0 3 4 75.0 0 0 - 2 1 3 1 0 1 1 4 17
+p459
+aVPau Gasol MEM 01/14/2005 MEM @ CHA W 31 19 6 17 35.3 0 1 0.0 7 10 70.0 4 1 5 4 0 2 0 2 7
+p460
+aVEarl Watson MEM 01/14/2005 MEM @ CHA W 21 10 3 6 50.0 0 2 0.0 4 5 80.0 1 2 3 3 2 0 2 2 12
+p461
+aVAndre Emmett MEM 01/14/2005 MEM @ CHA W 2 1 0 1 0.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 3
+p462
+aVStromile Swift MEM 01/14/2005 MEM @ CHA W 20 10 5 6 83.3 0 0 - 0 0 - 1 2 3 0 1 1 1 5 14
+p463
+aVLorenzen Wright MEM 01/14/2005 MEM @ CHA W 18 6 3 3 100.0 0 0 - 0 0 - 1 4 5 0 0 0 0 5 2
+p464
+aVJames Posey MEM 01/14/2005 MEM @ CHA W 36 17 5 12 41.7 3 6 50.0 4 5 80.0 1 6 7 2 4 1 2 1 16
+p465
+aVBonzi Wells MEM 01/14/2005 MEM @ CHA W 19 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 3 0 0 1 4 3
+p466
+aVDahntay Jones MEM 01/14/2005 MEM @ CHA W 29 9 3 11 27.3 0 4 0.0 3 4 75.0 1 3 4 4 1 0 0 4 16
+p467
+aVJason Williams MEM 01/14/2005 MEM @ CHA W 27 14 5 10 50.0 3 7 42.9 1 1 100.0 1 3 4 5 1 0 1 2 8
+p468
+aVJake Tsakalidis MEM 01/14/2005 MEM @ CHA W 1 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p469
+aVEarl Watson MEM 01/11/2005 MEM vs. IND L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 4 0 1 3 2 -4
+p470
+aVJason Williams MEM 01/11/2005 MEM vs. IND L 30 11 3 6 50.0 2 4 50.0 3 3 100.0 0 0 0 5 0 0 3 1 3
+p471
+aVPau Gasol MEM 01/11/2005 MEM vs. IND L 43 31 12 19 63.2 1 1 100.0 6 12 50.0 2 5 7 2 2 4 2 2 4
+p472
+aVMike Miller MEM 01/11/2005 MEM vs. IND L 27 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 4 1 0 4 4 11
+p473
+aVBonzi Wells MEM 01/11/2005 MEM vs. IND L 34 20 7 12 58.3 2 3 66.7 4 5 80.0 1 5 6 0 1 0 1 0 -7
+p474
+aVShane Battier MEM 01/11/2005 MEM vs. IND L 28 7 3 5 60.0 0 2 0.0 1 2 50.0 1 1 2 2 0 3 1 4 0
+p475
+aVDahntay Jones MEM 01/11/2005 MEM vs. IND L 12 3 1 4 25.0 0 2 0.0 1 3 33.3 1 1 2 0 0 0 0 0 -3
+p476
+aVStromile Swift MEM 01/11/2005 MEM vs. IND L 15 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 4 -6
+p477
+aVLorenzen Wright MEM 01/11/2005 MEM vs. IND L 34 6 3 8 37.5 0 0 - 0 0 - 4 5 9 2 2 0 3 4 -3
+p478
+aVBonzi Wells MEM 01/07/2005 MEM vs. NOH W 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 3 3 -15
+p479
+aVDahntay Jones MEM 01/07/2005 MEM vs. NOH W 17 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 0 1 1 0 2 -19
+p480
+aVEarl Watson MEM 01/07/2005 MEM vs. NOH W 17 9 3 8 37.5 3 5 60.0 0 0 - 1 1 2 2 0 0 0 2 -7
+p481
+aVLorenzen Wright MEM 01/07/2005 MEM vs. NOH W 36 2 1 7 14.3 0 0 - 0 0 - 3 7 10 1 0 1 1 5 25
+p482
+aVShane Battier MEM 01/07/2005 MEM vs. NOH W 39 19 7 11 63.6 3 6 50.0 2 2 100.0 3 7 10 1 0 5 0 2 15
+p483
+aVMike Miller MEM 01/07/2005 MEM vs. NOH W 28 16 8 13 61.5 0 4 0.0 0 0 - 0 4 4 4 0 0 2 2 18
+p484
+aVJason Williams MEM 01/07/2005 MEM vs. NOH W 34 7 2 9 22.2 2 5 40.0 1 1 100.0 0 2 2 7 1 0 1 1 20
+p485
+aVStromile Swift MEM 01/07/2005 MEM vs. NOH W 15 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 2 -14
+p486
+aVPau Gasol MEM 01/07/2005 MEM vs. NOH W 38 20 6 12 50.0 0 0 - 8 8 100.0 2 9 11 2 1 3 5 4 17
+p487
+aVStromile Swift MEM 01/06/2005 MEM @ DET W 22 11 5 10 50.0 0 0 - 1 4 25.0 1 4 5 1 0 1 2 5 3
+p488
+aVEarl Watson MEM 01/06/2005 MEM @ DET W 26 8 3 7 42.9 2 3 66.7 0 0 - 0 0 0 6 2 0 2 3 12
+p489
+aVLorenzen Wright MEM 01/06/2005 MEM @ DET W 31 10 4 8 50.0 0 0 - 2 4 50.0 5 3 8 0 2 2 1 3 22
+p490
+aVJake Tsakalidis MEM 01/06/2005 MEM @ DET W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 1 3 -6
+p491
+aVMike Miller MEM 01/06/2005 MEM @ DET W 21 17 7 9 77.8 3 4 75.0 0 0 - 0 4 4 3 2 0 2 4 10
+p492
+aVDahntay Jones MEM 01/06/2005 MEM @ DET W 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p493
+aVBonzi Wells MEM 01/06/2005 MEM @ DET W 27 23 9 15 60.0 2 4 50.0 3 4 75.0 1 2 3 3 2 0 2 4 12
+p494
+aVPau Gasol MEM 01/06/2005 MEM @ DET W 29 12 5 15 33.3 0 0 - 2 2 100.0 3 3 6 2 1 4 0 2 16
+p495
+aVShane Battier MEM 01/06/2005 MEM @ DET W 34 12 4 6 66.7 3 3 100.0 1 2 50.0 0 3 3 4 2 0 3 3 24
+p496
+aVJason Williams MEM 01/06/2005 MEM @ DET W 22 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 11 3 0 1 0 10
+p497
+aVJames Posey MEM 01/06/2005 MEM @ DET W 20 2 1 3 33.3 0 2 0.0 0 0 - 0 6 6 2 1 0 2 2 9
+p498
+aVEarl Watson MEM 01/03/2005 MEM vs. UTA W 19 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 4 3 1 0 0 11
+p499
+aVBonzi Wells MEM 01/03/2005 MEM vs. UTA W 19 13 4 7 57.1 1 2 50.0 4 6 66.7 0 1 1 0 3 0 1 1 8
+p500
+aVMike Miller MEM 01/03/2005 MEM vs. UTA W 29 8 1 10 10.0 1 7 14.3 5 8 62.5 0 3 3 5 0 1 0 3 0
+p501
+aVPau Gasol MEM 01/03/2005 MEM vs. UTA W 36 25 9 15 60.0 0 0 - 7 10 70.0 5 5 10 3 1 1 5 2 8
+p502
+aVJames Posey MEM 01/03/2005 MEM vs. UTA W 33 9 3 7 42.9 1 3 33.3 2 2 100.0 0 2 2 1 0 1 3 4 9
+p503
+aVShane Battier MEM 01/03/2005 MEM vs. UTA W 30 18 6 9 66.7 1 1 100.0 5 5 100.0 2 2 4 0 4 2 0 4 2
+p504
+aVStromile Swift MEM 01/03/2005 MEM vs. UTA W 14 4 2 5 40.0 0 1 0.0 0 0 - 2 1 3 0 0 0 1 3 0
+p505
+aVLorenzen Wright MEM 01/03/2005 MEM vs. UTA W 31 2 1 7 14.3 0 0 - 0 0 - 1 11 12 3 2 3 0 3 13
+p506
+aVJason Williams MEM 01/03/2005 MEM vs. UTA W 29 6 2 5 40.0 2 3 66.7 0 0 - 0 4 4 6 0 0 4 1 -1
+p507
+aVLorenzen Wright MEM 01/01/2005 MEM @ MIN W 22 12 5 7 71.4 0 0 - 2 2 100.0 2 3 5 0 0 1 0 2 -14
+p508
+aVBonzi Wells MEM 01/01/2005 MEM @ MIN W 33 18 7 13 53.8 3 5 60.0 1 1 100.0 0 8 8 3 3 2 3 4 26
+p509
+aVBrian Cardinal MEM 01/01/2005 MEM @ MIN W 22 4 2 4 50.0 0 0 - 0 0 - 1 0 1 2 3 1 0 3 20
+p510
+aVMike Miller MEM 01/01/2005 MEM @ MIN W 19 5 2 5 40.0 1 3 33.3 0 2 0.0 1 4 5 0 0 0 1 3 -13
+p511
+aVEarl Watson MEM 01/01/2005 MEM @ MIN W 32 20 7 10 70.0 5 5 100.0 1 2 50.0 0 3 3 8 1 0 6 2 20
+p512
+aVPau Gasol MEM 01/01/2005 MEM @ MIN W 35 23 9 10 90.0 0 0 - 5 7 71.4 2 2 4 3 1 3 2 3 7
+p513
+aVShane Battier MEM 01/01/2005 MEM @ MIN W 37 9 3 10 30.0 1 5 20.0 2 4 50.0 1 2 3 4 0 1 1 3 25
+p514
+aVJason Williams MEM 01/01/2005 MEM @ MIN W 16 8 3 6 50.0 0 2 0.0 2 2 100.0 0 1 1 2 1 0 2 2 -11
+p515
+aVJames Posey MEM 01/01/2005 MEM @ MIN W 24 5 1 8 12.5 0 4 0.0 3 4 75.0 1 0 1 4 0 0 0 2 -15
+p516
+aVEarl Watson MEM 12/29/2004 MEM vs. BOS W 21 11 3 3 100.0 1 1 100.0 4 4 100.0 0 0 0 2 1 0 4 5 10
+p517
+aVJason Williams MEM 12/29/2004 MEM vs. BOS W 27 9 3 12 25.0 1 6 16.7 2 2 100.0 1 2 3 6 0 0 0 1 -2
+p518
+aVJames Posey MEM 12/29/2004 MEM vs. BOS W 37 8 2 6 33.3 2 6 33.3 2 2 100.0 2 5 7 7 0 1 2 4 13
+p519
+aVDahntay Jones MEM 12/29/2004 MEM vs. BOS W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p520
+aVShane Battier MEM 12/29/2004 MEM vs. BOS W 21 10 2 6 33.3 2 3 66.7 4 6 66.7 0 3 3 2 0 2 0 4 -10
+p521
+aVPau Gasol MEM 12/29/2004 MEM vs. BOS W 33 24 6 13 46.2 0 0 - 12 13 92.3 4 7 11 5 1 1 4 3 6
+p522
+aVBonzi Wells MEM 12/29/2004 MEM vs. BOS W 18 18 8 13 61.5 2 3 66.7 0 0 - 1 1 2 0 4 1 1 3 -6
+p523
+aVMike Miller MEM 12/29/2004 MEM vs. BOS W 25 12 4 7 57.1 3 5 60.0 1 2 50.0 0 0 0 4 1 1 1 5 14
+p524
+aVRyan Humphrey MEM 12/29/2004 MEM vs. BOS W 12 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 3
+p525
+aVStromile Swift MEM 12/29/2004 MEM vs. BOS W 20 10 5 9 55.6 0 0 - 0 1 0.0 3 1 4 0 1 4 1 1 13
+p526
+aVLorenzen Wright MEM 12/29/2004 MEM vs. BOS W 23 9 3 6 50.0 0 0 - 3 4 75.0 1 2 3 0 0 0 1 2 -2
+p527
+aVJames Posey MEM 12/27/2004 MEM vs. LAC W 30 5 2 8 25.0 1 4 25.0 0 0 - 4 6 10 2 2 1 0 3 18
+p528
+aVMike Miller MEM 12/27/2004 MEM vs. LAC W 24 8 3 8 37.5 2 5 40.0 0 0 - 0 0 0 2 2 0 2 1 15
+p529
+aVShane Battier MEM 12/27/2004 MEM vs. LAC W 31 9 4 8 50.0 1 3 33.3 0 0 - 3 2 5 0 1 2 1 3 8
+p530
+aVStromile Swift MEM 12/27/2004 MEM vs. LAC W 22 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 1 2 0 1 4
+p531
+aVBonzi Wells MEM 12/27/2004 MEM vs. LAC W 24 18 7 17 41.2 1 2 50.0 3 3 100.0 0 2 2 0 0 1 1 4 5
+p532
+aVDahntay Jones MEM 12/27/2004 MEM vs. LAC W 6 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 -1
+p533
+aVJake Tsakalidis MEM 12/27/2004 MEM vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p534
+aVEarl Watson MEM 12/27/2004 MEM vs. LAC W 23 9 4 8 50.0 0 3 0.0 1 2 50.0 0 2 2 7 0 0 4 3 7
+p535
+aVJason Williams MEM 12/27/2004 MEM vs. LAC W 25 6 2 7 28.6 1 4 25.0 1 1 100.0 0 2 2 7 1 0 2 2 13
+p536
+aVRyan Humphrey MEM 12/27/2004 MEM vs. LAC W 4 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 1
+p537
+aVPau Gasol MEM 12/27/2004 MEM vs. LAC W 26 24 9 13 69.2 0 0 - 6 7 85.7 0 8 8 2 0 0 1 3 24
+p538
+aVLorenzen Wright MEM 12/27/2004 MEM vs. LAC W 22 4 2 5 40.0 0 0 - 0 0 - 2 4 6 1 0 0 2 3 7
+p539
+aVShane Battier MEM 12/23/2004 MEM @ PHX L 39 10 5 13 38.5 0 2 0.0 0 0 - 2 8 10 3 1 0 0 4 3
+p540
+aVStromile Swift MEM 12/23/2004 MEM @ PHX L 18 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 1 1 1 0 1 -8
+p541
+aVJake Tsakalidis MEM 12/23/2004 MEM @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p542
+aVDahntay Jones MEM 12/23/2004 MEM @ PHX L 10 3 1 1 100.0 1 1 100.0 0 2 0.0 0 0 0 0 0 0 0 2 -6
+p543
+aVEarl Watson MEM 12/23/2004 MEM @ PHX L 14 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 8 0 0 2 3 6
+p544
+aVRyan Humphrey MEM 12/23/2004 MEM @ PHX L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p545
+aVJason Williams MEM 12/23/2004 MEM @ PHX L 33 21 8 15 53.3 3 5 60.0 2 2 100.0 0 0 0 9 2 0 2 2 -13
+p546
+aVPau Gasol MEM 12/23/2004 MEM @ PHX L 35 19 8 14 57.1 0 0 - 3 4 75.0 1 6 7 1 0 2 3 1 -4
+p547
+aVJames Posey MEM 12/23/2004 MEM @ PHX L 44 18 6 11 54.5 4 7 57.1 2 3 66.7 1 5 6 5 1 2 4 4 -11
+p548
+aVMike Miller MEM 12/23/2004 MEM @ PHX L 42 22 10 16 62.5 2 5 40.0 0 0 - 0 7 7 1 1 1 3 1 2
+p549
+aVStromile Swift MEM 12/22/2004 MEM @ GSW L 25 18 7 12 58.3 0 0 - 4 5 80.0 2 6 8 1 0 5 1 4 -3
+p550
+aVDahntay Jones MEM 12/22/2004 MEM @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p551
+aVJason Williams MEM 12/22/2004 MEM @ GSW L 34 13 6 11 54.5 1 4 25.0 0 0 - 0 2 2 11 3 0 2 2 -10
+p552
+aVLorenzen Wright MEM 12/22/2004 MEM @ GSW L 17 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 1 1 4 3
+p553
+aVEarl Watson MEM 12/22/2004 MEM @ GSW L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 0 1 4 2 0
+p554
+aVShane Battier MEM 12/22/2004 MEM @ GSW L 20 4 1 3 33.3 1 3 33.3 1 2 50.0 2 2 4 1 0 1 0 3 -18
+p555
+aVJames Posey MEM 12/22/2004 MEM @ GSW L 43 22 7 16 43.8 1 7 14.3 7 7 100.0 2 5 7 0 1 1 1 3 -14
+p556
+aVBonzi Wells MEM 12/22/2004 MEM @ GSW L 10 5 1 3 33.3 0 0 - 3 3 100.0 0 1 1 0 0 0 3 0 4
+p557
+aVPau Gasol MEM 12/22/2004 MEM @ GSW L 30 19 6 10 60.0 0 0 - 7 9 77.8 2 4 6 2 0 0 3 2 -9
+p558
+aVRyan Humphrey MEM 12/22/2004 MEM @ GSW L 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 3 1 13
+p559
+aVMike Miller MEM 12/22/2004 MEM @ GSW L 33 8 3 7 42.9 0 2 0.0 2 2 100.0 0 2 2 2 1 0 2 5 -12
+p560
+aVRyan Humphrey MEM 12/20/2004 MEM @ LAL W 18 6 3 5 60.0 0 0 - 0 2 0.0 2 2 4 0 0 0 1 0 4
+p561
+aVLorenzen Wright MEM 12/20/2004 MEM @ LAL W 20 0 0 6 0.0 0 0 - 0 0 - 2 5 7 1 0 1 0 4 2
+p562
+aVPau Gasol MEM 12/20/2004 MEM @ LAL W 36 14 5 18 27.8 0 0 - 4 4 100.0 5 6 11 2 1 5 3 3 3
+p563
+aVShane Battier MEM 12/20/2004 MEM @ LAL W 31 17 5 10 50.0 3 4 75.0 4 4 100.0 3 0 3 2 1 1 0 1 7
+p564
+aVStromile Swift MEM 12/20/2004 MEM @ LAL W 17 6 3 8 37.5 0 0 - 0 0 - 3 5 8 0 0 2 0 5 3
+p565
+aVJames Posey MEM 12/20/2004 MEM @ LAL W 31 6 3 10 30.0 0 2 0.0 0 0 - 1 9 10 2 0 0 0 4 9
+p566
+aVEarl Watson MEM 12/20/2004 MEM @ LAL W 20 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 6 1 0 1 0 7
+p567
+aVMike Miller MEM 12/20/2004 MEM @ LAL W 22 10 4 5 80.0 2 3 66.7 0 0 - 1 3 4 1 0 1 1 4 6
+p568
+aVDahntay Jones MEM 12/20/2004 MEM @ LAL W 16 6 2 6 33.3 0 2 0.0 2 3 66.7 0 2 2 1 0 0 1 1 3
+p569
+aVJason Williams MEM 12/20/2004 MEM @ LAL W 29 12 4 10 40.0 3 8 37.5 1 1 100.0 0 0 0 5 1 0 4 0 6
+p570
+aVBonzi Wells MEM 12/19/2004 MEM @ LAC W 14 7 3 10 30.0 0 0 - 1 4 25.0 2 1 3 1 1 0 2 3 1
+p571
+aVJason Williams MEM 12/19/2004 MEM @ LAC W 31 17 6 11 54.5 3 7 42.9 2 2 100.0 1 1 2 7 1 0 1 1 13
+p572
+aVStromile Swift MEM 12/19/2004 MEM @ LAC W 17 3 1 6 16.7 0 0 - 1 2 50.0 1 4 5 0 1 1 2 2 -13
+p573
+aVShane Battier MEM 12/19/2004 MEM @ LAC W 22 2 0 4 0.0 0 0 - 2 2 100.0 3 2 5 0 3 0 0 2 -3
+p574
+aVRyan Humphrey MEM 12/19/2004 MEM @ LAC W 12 5 2 6 33.3 0 0 - 1 4 25.0 4 2 6 0 0 0 1 1 9
+p575
+aVEarl Watson MEM 12/19/2004 MEM @ LAC W 17 6 3 6 50.0 0 0 - 0 2 0.0 1 1 2 3 1 0 0 3 -3
+p576
+aVPau Gasol MEM 12/19/2004 MEM @ LAC W 38 20 6 11 54.5 0 0 - 8 9 88.9 4 4 8 3 1 2 1 2 17
+p577
+aVLorenzen Wright MEM 12/19/2004 MEM @ LAC W 26 12 5 7 71.4 0 0 - 2 5 40.0 0 6 6 2 1 0 0 4 1
+p578
+aVMike Miller MEM 12/19/2004 MEM @ LAC W 35 14 5 9 55.6 4 5 80.0 0 0 - 0 1 1 3 0 0 3 2 13
+p579
+aVJames Posey MEM 12/19/2004 MEM @ LAC W 28 6 2 6 33.3 2 4 50.0 0 0 - 0 2 2 3 3 1 6 5 15
+p580
+aVStromile Swift MEM 12/17/2004 MEM vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p581
+aVEarl Watson MEM 12/17/2004 MEM vs. NJN W 12 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 1 0 0 2 1 3
+p582
+aVJames Posey MEM 12/17/2004 MEM vs. NJN W 41 13 3 8 37.5 1 5 20.0 6 6 100.0 4 5 9 4 1 0 1 2 3
+p583
+aVBonzi Wells MEM 12/17/2004 MEM vs. NJN W 19 8 3 8 37.5 0 2 0.0 2 2 100.0 0 1 1 1 2 0 1 4 2
+p584
+aVRyan Humphrey MEM 12/17/2004 MEM vs. NJN W 16 7 3 5 60.0 0 0 - 1 3 33.3 1 3 4 0 0 0 1 0 8
+p585
+aVLorenzen Wright MEM 12/17/2004 MEM vs. NJN W 32 3 1 6 16.7 0 0 - 1 2 50.0 2 6 8 2 1 2 2 4 -5
+p586
+aVJason Williams MEM 12/17/2004 MEM vs. NJN W 35 27 9 14 64.3 5 9 55.6 4 4 100.0 0 0 0 6 2 0 4 0 2
+p587
+aVPau Gasol MEM 12/17/2004 MEM vs. NJN W 42 16 6 12 50.0 0 0 - 4 6 66.7 3 9 12 3 0 0 4 3 2
+p588
+aVMike Miller MEM 12/17/2004 MEM vs. NJN W 36 12 4 15 26.7 2 8 25.0 2 2 100.0 1 5 6 3 0 1 1 4 5
+p589
+aVDahntay Jones MEM 12/17/2004 MEM vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p590
+aVLorenzen Wright MEM 12/15/2004 MEM vs. CHI L 35 9 4 8 50.0 0 0 - 1 2 50.0 1 6 7 2 2 0 2 3 3
+p591
+aVJames Posey MEM 12/15/2004 MEM vs. CHI L 41 10 3 7 42.9 1 3 33.3 3 4 75.0 1 6 7 1 1 1 3 3 2
+p592
+aVBonzi Wells MEM 12/15/2004 MEM vs. CHI L 20 10 2 6 33.3 0 2 0.0 6 6 100.0 0 2 2 1 3 0 0 2 -11
+p593
+aVPau Gasol MEM 12/15/2004 MEM vs. CHI L 39 24 9 14 64.3 0 1 0.0 6 6 100.0 1 1 2 5 1 2 2 3 -3
+p594
+aVEarl Watson MEM 12/15/2004 MEM vs. CHI L 24 9 3 8 37.5 2 4 50.0 1 2 50.0 0 3 3 4 1 0 2 2 -5
+p595
+aVStromile Swift MEM 12/15/2004 MEM vs. CHI L 20 4 2 8 25.0 0 0 - 0 0 - 1 0 1 0 0 2 1 3 -11
+p596
+aVMike Miller MEM 12/15/2004 MEM vs. CHI L 34 12 4 11 36.4 2 7 28.6 2 2 100.0 1 5 6 5 0 0 3 0 -7
+p597
+aVJason Williams MEM 12/15/2004 MEM vs. CHI L 24 10 4 7 57.1 2 4 50.0 0 1 0.0 0 1 1 3 0 0 3 1 -3
+p598
+aVRyan Humphrey MEM 12/15/2004 MEM vs. CHI L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p599
+aVJames Posey MEM 12/13/2004 MEM vs. CLE L 18 5 2 7 28.6 1 2 50.0 0 0 - 2 1 3 0 2 0 2 3 6
+p600
+aVJake Tsakalidis MEM 12/13/2004 MEM vs. CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p601
+aVDahntay Jones MEM 12/13/2004 MEM vs. CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p602
+aVMike Miller MEM 12/13/2004 MEM vs. CLE L 38 16 6 11 54.5 3 3 100.0 1 1 100.0 0 3 3 6 0 1 0 2 -6
+p603
+aVShane Battier MEM 12/13/2004 MEM vs. CLE L 37 5 1 4 25.0 1 2 50.0 2 3 66.7 0 1 1 3 1 2 0 3 -4
+p604
+aVEarl Watson MEM 12/13/2004 MEM vs. CLE L 34 5 2 9 22.2 1 2 50.0 0 0 - 1 3 4 7 1 1 3 3 -15
+p605
+aVPau Gasol MEM 12/13/2004 MEM vs. CLE L 39 19 8 14 57.1 0 0 - 3 9 33.3 1 6 7 5 0 0 7 1 -7
+p606
+aVStromile Swift MEM 12/13/2004 MEM vs. CLE L 26 13 4 10 40.0 0 0 - 5 6 83.3 1 1 2 1 1 1 2 3 -2
+p607
+aVAntonio Burks MEM 12/13/2004 MEM vs. CLE L 14 7 3 3 100.0 0 0 - 1 1 100.0 0 1 1 3 2 0 1 2 9
+p608
+aVLorenzen Wright MEM 12/13/2004 MEM vs. CLE L 28 16 8 11 72.7 0 0 - 0 0 - 2 8 10 0 1 0 2 5 5
+p609
+aVJames Posey MEM 12/11/2004 MEM vs. DET W 21 1 0 3 0.0 0 2 0.0 1 1 100.0 0 3 3 0 0 0 0 2 -16
+p610
+aVShane Battier MEM 12/11/2004 MEM vs. DET W 27 8 1 6 16.7 0 3 0.0 6 6 100.0 4 4 8 0 1 2 1 0 20
+p611
+aVLorenzen Wright MEM 12/11/2004 MEM vs. DET W 38 9 4 12 33.3 0 0 - 1 4 25.0 3 7 10 0 1 1 3 3 8
+p612
+aVBonzi Wells MEM 12/11/2004 MEM vs. DET W 17 5 2 6 33.3 0 1 0.0 1 2 50.0 1 2 3 1 2 1 0 1 -13
+p613
+aVStromile Swift MEM 12/11/2004 MEM vs. DET W 19 8 3 9 33.3 0 0 - 2 2 100.0 2 1 3 2 0 0 0 4 -9
+p614
+aVEarl Watson MEM 12/11/2004 MEM vs. DET W 39 11 4 7 57.1 1 1 100.0 2 2 100.0 0 0 0 5 2 2 4 5 17
+p615
+aVAntonio Burks MEM 12/11/2004 MEM vs. DET W 9 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 0 0 0 1 1 -13
+p616
+aVMike Miller MEM 12/11/2004 MEM vs. DET W 31 8 3 9 33.3 2 7 28.6 0 0 - 0 2 2 2 2 0 4 0 17
+p617
+aVPau Gasol MEM 12/11/2004 MEM vs. DET W 39 20 9 17 52.9 0 0 - 2 2 100.0 1 7 8 4 0 2 3 3 9
+p618
+aVBonzi Wells MEM 12/10/2004 MEM @ MIA L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 4 1
+p619
+aVShane Battier MEM 12/10/2004 MEM @ MIA L 23 7 3 7 42.9 1 1 100.0 0 2 0.0 5 4 9 0 1 1 0 0 3
+p620
+aVAntonio Burks MEM 12/10/2004 MEM @ MIA L 13 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 1 1 -5
+p621
+aVMike Miller MEM 12/10/2004 MEM @ MIA L 38 13 5 12 41.7 3 4 75.0 0 0 - 1 2 3 2 2 0 2 3 -9
+p622
+aVStromile Swift MEM 12/10/2004 MEM @ MIA L 17 6 2 6 33.3 0 1 0.0 2 2 100.0 2 3 5 0 1 0 1 4 0
+p623
+aVEarl Watson MEM 12/10/2004 MEM @ MIA L 35 12 4 16 25.0 0 3 0.0 4 4 100.0 1 1 2 12 0 0 2 3 -3
+p624
+aVLorenzen Wright MEM 12/10/2004 MEM @ MIA L 34 18 7 17 41.2 0 0 - 4 4 100.0 6 5 11 0 1 0 1 4 -4
+p625
+aVJake Tsakalidis MEM 12/10/2004 MEM @ MIA L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p626
+aVPau Gasol MEM 12/10/2004 MEM @ MIA L 38 12 5 15 33.3 0 0 - 2 2 100.0 6 5 11 1 1 1 2 3 -5
+p627
+aVJames Posey MEM 12/10/2004 MEM @ MIA L 25 10 4 10 40.0 2 6 33.3 0 0 - 0 3 3 3 1 0 0 3 -11
+p628
+aVLorenzen Wright MEM 12/08/2004 MEM @ ATL W 16 11 4 8 50.0 0 0 - 3 4 75.0 1 4 5 0 2 0 1 4 3
+p629
+aVShane Battier MEM 12/08/2004 MEM @ ATL W 27 4 1 4 25.0 0 1 0.0 2 2 100.0 0 3 3 2 2 0 1 5 9
+p630
+aVEarl Watson MEM 12/08/2004 MEM @ ATL W 37 11 3 8 37.5 0 2 0.0 5 6 83.3 0 3 3 7 4 0 5 4 12
+p631
+aVBonzi Wells MEM 12/08/2004 MEM @ ATL W 17 8 3 9 33.3 0 0 - 2 2 100.0 1 4 5 0 2 0 2 4 -10
+p632
+aVAntonio Burks MEM 12/08/2004 MEM @ ATL W 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -4
+p633
+aVJames Posey MEM 12/08/2004 MEM @ ATL W 26 7 2 10 20.0 1 4 25.0 2 2 100.0 1 2 3 1 0 0 1 3 -3
+p634
+aVJake Tsakalidis MEM 12/08/2004 MEM @ ATL W 11 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 1 0 0 -6
+p635
+aVPau Gasol MEM 12/08/2004 MEM @ ATL W 37 24 7 13 53.8 0 0 - 10 13 76.9 4 3 7 1 1 1 2 2 16
+p636
+aVStromile Swift MEM 12/08/2004 MEM @ ATL W 27 13 5 6 83.3 0 0 - 3 3 100.0 1 5 6 1 0 5 1 4 5
+p637
+aVMike Miller MEM 12/08/2004 MEM @ ATL W 31 13 5 7 71.4 2 2 100.0 1 4 25.0 0 3 3 5 0 0 1 1 18
+p638
+aVPau Gasol MEM 12/07/2004 MEM vs. NYK W 37 16 5 13 38.5 0 0 - 6 7 85.7 4 4 8 7 0 2 3 3 13
+p639
+aVAntonio Burks MEM 12/07/2004 MEM vs. NYK W 19 4 2 5 40.0 0 2 0.0 0 2 0.0 0 0 0 6 0 0 3 3 -1
+p640
+aVBonzi Wells MEM 12/07/2004 MEM vs. NYK W 17 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -1
+p641
+aVStromile Swift MEM 12/07/2004 MEM vs. NYK W 18 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 6 3 4 -12
+p642
+aVJames Posey MEM 12/07/2004 MEM vs. NYK W 26 11 3 7 42.9 0 0 - 5 5 100.0 0 7 7 3 0 3 1 2 -11
+p643
+aVMike Miller MEM 12/07/2004 MEM vs. NYK W 30 20 8 13 61.5 4 4 100.0 0 0 - 0 1 1 2 1 0 1 1 10
+p644
+aVLorenzen Wright MEM 12/07/2004 MEM vs. NYK W 20 2 1 8 12.5 0 0 - 0 0 - 1 4 5 1 0 0 1 6 15
+p645
+aVEarl Watson MEM 12/07/2004 MEM vs. NYK W 29 22 9 10 90.0 3 4 75.0 1 3 33.3 1 2 3 5 2 0 1 2 9
+p646
+aVShane Battier MEM 12/07/2004 MEM vs. NYK W 25 7 3 4 75.0 1 1 100.0 0 0 - 0 4 4 2 0 1 0 3 16
+p647
+aVJake Tsakalidis MEM 12/07/2004 MEM vs. NYK W 19 8 4 8 50.0 0 0 - 0 0 - 3 1 4 0 0 2 0 2 2
+p648
+aVJames Posey MEM 12/04/2004 MEM @ ORL L 30 15 5 10 50.0 2 5 40.0 3 3 100.0 1 3 4 0 1 1 2 3 -1
+p649
+aVPau Gasol MEM 12/04/2004 MEM @ ORL L 40 20 8 17 47.1 0 0 - 4 5 80.0 0 6 6 4 1 2 6 4 0
+p650
+aVMike Miller MEM 12/04/2004 MEM @ ORL L 35 3 1 6 16.7 0 3 0.0 1 2 50.0 1 2 3 7 1 1 4 3 2
+p651
+aVBonzi Wells MEM 12/04/2004 MEM @ ORL L 30 12 4 11 36.4 0 2 0.0 4 4 100.0 1 6 7 1 1 0 2 1 -17
+p652
+aVShane Battier MEM 12/04/2004 MEM @ ORL L 25 7 1 7 14.3 0 0 - 5 5 100.0 4 1 5 0 1 0 1 2 -13
+p653
+aVEarl Watson MEM 12/04/2004 MEM @ ORL L 30 12 5 8 62.5 2 2 100.0 0 2 0.0 0 4 4 10 2 0 3 5 1
+p654
+aVStromile Swift MEM 12/04/2004 MEM @ ORL L 29 16 5 7 71.4 0 0 - 6 10 60.0 2 3 5 0 2 2 5 4 6
+p655
+aVDahntay Jones MEM 12/04/2004 MEM @ ORL L 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p656
+aVLorenzen Wright MEM 12/04/2004 MEM @ ORL L 19 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 2 1 0 0 0 -4
+p657
+aVPau Gasol MEM 12/03/2004 MEM vs. PHI W 39 34 12 19 63.2 0 0 - 10 11 90.9 5 10 15 2 1 3 2 1 7
+p658
+aVShane Battier MEM 12/03/2004 MEM vs. PHI W 31 12 5 10 50.0 0 5 0.0 2 2 100.0 1 3 4 3 0 0 0 0 12
+p659
+aVJames Posey MEM 12/03/2004 MEM vs. PHI W 17 5 2 5 40.0 0 2 0.0 1 2 50.0 0 2 2 0 0 1 0 2 -4
+p660
+aVStromile Swift MEM 12/03/2004 MEM vs. PHI W 20 4 2 6 33.3 0 0 - 0 0 - 0 3 3 0 0 2 0 0 -3
+p661
+aVMike Miller MEM 12/03/2004 MEM vs. PHI W 31 19 7 12 58.3 5 10 50.0 0 0 - 0 5 5 3 2 0 3 3 3
+p662
+aVEarl Watson MEM 12/03/2004 MEM vs. PHI W 15 3 1 3 33.3 0 1 0.0 1 1 100.0 0 2 2 3 0 0 2 2 -7
+p663
+aVLorenzen Wright MEM 12/03/2004 MEM vs. PHI W 37 6 3 7 42.9 0 0 - 0 2 0.0 3 5 8 3 0 2 4 3 12
+p664
+aVJason Williams MEM 12/03/2004 MEM vs. PHI W 33 5 2 11 18.2 1 8 12.5 0 0 - 0 0 0 12 3 0 2 4 15
+p665
+aVBonzi Wells MEM 12/03/2004 MEM vs. PHI W 17 6 2 7 28.6 0 2 0.0 2 2 100.0 1 4 5 0 1 0 1 3 5
+p666
+aVJason Williams MEM 12/01/2004 MEM @ NYK L 31 9 3 4 75.0 3 3 100.0 0 0 - 0 1 1 9 0 0 2 1 4
+p667
+aVJames Posey MEM 12/01/2004 MEM @ NYK L 21 8 3 9 33.3 0 4 0.0 2 2 100.0 0 3 3 1 0 1 0 0 -10
+p668
+aVMike Miller MEM 12/01/2004 MEM @ NYK L 24 11 5 11 45.5 1 4 25.0 0 0 - 0 3 3 2 0 0 0 1 -5
+p669
+aVJake Tsakalidis MEM 12/01/2004 MEM @ NYK L 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -7
+p670
+aVShane Battier MEM 12/01/2004 MEM @ NYK L 31 6 2 4 50.0 0 1 0.0 2 2 100.0 2 0 2 0 0 1 1 3 4
+p671
+aVBonzi Wells MEM 12/01/2004 MEM @ NYK L 28 16 6 12 50.0 0 2 0.0 4 6 66.7 0 4 4 2 1 0 3 2 -2
+p672
+aVLorenzen Wright MEM 12/01/2004 MEM @ NYK L 27 12 6 11 54.5 0 0 - 0 0 - 1 3 4 0 0 0 1 4 3
+p673
+aVPau Gasol MEM 12/01/2004 MEM @ NYK L 31 11 4 12 33.3 0 0 - 3 4 75.0 4 10 14 1 1 2 5 6 -11
+p674
+aVEarl Watson MEM 12/01/2004 MEM @ NYK L 17 1 0 5 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 2 -12
+p675
+aVStromile Swift MEM 12/01/2004 MEM @ NYK L 18 6 2 7 28.6 0 0 - 2 2 100.0 4 4 8 1 0 0 2 3 -4
+p676
+aVMike Miller MEM 11/30/2004 MEM vs. SAC L 32 25 10 14 71.4 3 5 60.0 2 2 100.0 1 2 3 2 0 2 4 1 -3
+p677
+aVShane Battier MEM 11/30/2004 MEM vs. SAC L 30 4 2 6 33.3 0 2 0.0 0 1 0.0 2 4 6 3 1 2 0 1 8
+p678
+aVBonzi Wells MEM 11/30/2004 MEM vs. SAC L 21 10 5 8 62.5 0 0 - 0 0 - 0 4 4 1 0 0 1 3 -10
+p679
+aVDahntay Jones MEM 11/30/2004 MEM vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p680
+aVPau Gasol MEM 11/30/2004 MEM vs. SAC L 41 22 10 24 41.7 0 0 - 2 4 50.0 8 5 13 2 0 1 1 2 6
+p681
+aVJames Posey MEM 11/30/2004 MEM vs. SAC L 16 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 1 -12
+p682
+aVStromile Swift MEM 11/30/2004 MEM vs. SAC L 18 4 2 8 25.0 0 0 - 0 0 - 0 1 1 1 0 3 1 3 -8
+p683
+aVLorenzen Wright MEM 11/30/2004 MEM vs. SAC L 37 7 3 9 33.3 0 0 - 1 1 100.0 5 4 9 3 3 0 1 5 -8
+p684
+aVEarl Watson MEM 11/30/2004 MEM vs. SAC L 42 19 6 15 40.0 0 3 0.0 7 11 63.6 2 2 4 9 3 1 5 3 11
+p685
+aVEarl Watson MEM 11/27/2004 MEM vs. DAL L 12 3 1 7 14.3 0 2 0.0 1 2 50.0 0 0 0 4 2 0 0 3 -7
+p686
+aVShane Battier MEM 11/27/2004 MEM vs. DAL L 33 13 5 11 45.5 1 4 25.0 2 2 100.0 2 6 8 1 1 0 2 5 -10
+p687
+aVBonzi Wells MEM 11/27/2004 MEM vs. DAL L 41 15 5 15 33.3 3 5 60.0 2 2 100.0 2 4 6 0 0 0 1 1 -14
+p688
+aVRyan Humphrey MEM 11/27/2004 MEM vs. DAL L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 2 1
+p689
+aVMike Miller MEM 11/27/2004 MEM vs. DAL L 41 20 8 14 57.1 2 6 33.3 2 2 100.0 0 4 4 7 0 0 0 3 -6
+p690
+aVPau Gasol MEM 11/27/2004 MEM vs. DAL L 37 16 4 13 30.8 0 0 - 8 10 80.0 5 8 13 2 0 0 3 4 -12
+p691
+aVDahntay Jones MEM 11/27/2004 MEM vs. DAL L 15 1 0 4 0.0 0 2 0.0 1 2 50.0 1 1 2 0 0 0 1 2 -6
+p692
+aVLorenzen Wright MEM 11/27/2004 MEM vs. DAL L 17 8 4 7 57.1 0 0 - 0 0 - 2 1 3 0 1 0 0 1 -5
+p693
+aVJason Williams MEM 11/27/2004 MEM vs. DAL L 34 9 4 10 40.0 1 6 16.7 0 1 0.0 0 2 2 6 1 0 4 5 -6
+p694
+aVJake Tsakalidis MEM 11/26/2004 MEM @ MIN L 16 2 1 5 20.0 0 0 - 0 0 - 3 1 4 0 0 1 0 2 -2
+p695
+aVRyan Humphrey MEM 11/26/2004 MEM @ MIN L 16 10 2 7 28.6 0 0 - 6 6 100.0 2 1 3 0 0 0 0 3 -4
+p696
+aVBrian Cardinal MEM 11/26/2004 MEM @ MIN L 13 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 2 2 -14
+p697
+aVJason Williams MEM 11/26/2004 MEM @ MIN L 24 9 4 11 36.4 1 5 20.0 0 0 - 0 0 0 3 2 0 2 1 -30
+p698
+aVEarl Watson MEM 11/26/2004 MEM @ MIN L 24 9 4 10 40.0 0 2 0.0 1 1 100.0 1 2 3 8 0 0 1 2 5
+p699
+aVDahntay Jones MEM 11/26/2004 MEM @ MIN L 20 6 1 7 14.3 0 2 0.0 4 4 100.0 2 4 6 1 1 0 2 4 -10
+p700
+aVShane Battier MEM 11/26/2004 MEM @ MIN L 27 7 2 5 40.0 1 3 33.3 2 2 100.0 2 2 4 0 1 1 0 2 -19
+p701
+aVPau Gasol MEM 11/26/2004 MEM @ MIN L 29 17 7 11 63.6 0 0 - 3 4 75.0 3 4 7 1 0 0 2 2 -18
+p702
+aVMike Miller MEM 11/26/2004 MEM @ MIN L 28 19 7 9 77.8 3 3 100.0 2 4 50.0 0 3 3 2 1 0 0 1 0
+p703
+aVLorenzen Wright MEM 11/26/2004 MEM @ MIN L 17 6 3 8 37.5 0 0 - 0 0 - 1 2 3 1 1 1 0 2 -15
+p704
+aVBonzi Wells MEM 11/26/2004 MEM @ MIN L 26 5 2 12 16.7 0 2 0.0 1 2 50.0 1 2 3 2 2 0 1 3 -18
+p705
+aVEarl Watson MEM 11/24/2004 MEM vs. SEA L 25 7 2 4 50.0 0 1 0.0 3 6 50.0 0 1 1 5 0 1 1 3 6
+p706
+aVMike Miller MEM 11/24/2004 MEM vs. SEA L 20 10 4 10 40.0 0 1 0.0 2 2 100.0 0 3 3 2 0 0 1 3 -8
+p707
+aVRyan Humphrey MEM 11/24/2004 MEM vs. SEA L 13 5 1 5 20.0 0 1 0.0 3 6 50.0 4 1 5 0 0 0 1 3 -6
+p708
+aVBrian Cardinal MEM 11/24/2004 MEM vs. SEA L 35 9 3 9 33.3 0 1 0.0 3 4 75.0 2 1 3 5 0 0 1 3 -3
+p709
+aVDahntay Jones MEM 11/24/2004 MEM vs. SEA L 14 6 3 7 42.9 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -6
+p710
+aVLorenzen Wright MEM 11/24/2004 MEM vs. SEA L 31 10 3 6 50.0 0 0 - 4 6 66.7 0 5 5 1 1 2 1 2 -17
+p711
+aVJake Tsakalidis MEM 11/24/2004 MEM vs. SEA L 17 6 2 3 66.7 0 0 - 2 2 100.0 3 4 7 0 1 1 1 3 8
+p712
+aVBonzi Wells MEM 11/24/2004 MEM vs. SEA L 29 10 3 10 30.0 0 1 0.0 4 4 100.0 0 8 8 2 1 1 2 3 -1
+p713
+aVShane Battier MEM 11/24/2004 MEM vs. SEA L 33 12 5 11 45.5 1 2 50.0 1 1 100.0 4 1 5 1 0 1 1 3 -3
+p714
+aVJason Williams MEM 11/24/2004 MEM vs. SEA L 23 9 3 10 30.0 1 5 20.0 2 2 100.0 0 0 0 4 0 0 0 0 -15
+p715
+aVLorenzen Wright MEM 11/22/2004 MEM vs. SAS W 33 10 4 8 50.0 0 0 - 2 4 50.0 1 9 10 1 1 2 0 2 -3
+p716
+aVBrian Cardinal MEM 11/22/2004 MEM vs. SAS W 32 13 6 14 42.9 1 1 100.0 0 0 - 5 2 7 2 2 0 4 5 5
+p717
+aVMike Miller MEM 11/22/2004 MEM vs. SAS W 26 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 4 2 1 0 2 0
+p718
+aVJason Williams MEM 11/22/2004 MEM vs. SAS W 28 9 4 6 66.7 1 3 33.3 0 0 - 0 0 0 4 1 0 3 1 -1
+p719
+aVDahntay Jones MEM 11/22/2004 MEM vs. SAS W 16 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 1 0 1 1 0 3
+p720
+aVBonzi Wells MEM 11/22/2004 MEM vs. SAS W 32 26 10 17 58.8 2 3 66.7 4 6 66.7 2 0 2 1 3 0 4 4 0
+p721
+aVShane Battier MEM 11/22/2004 MEM vs. SAS W 22 6 2 4 50.0 0 0 - 2 2 100.0 3 3 6 0 0 0 2 4 3
+p722
+aVJake Tsakalidis MEM 11/22/2004 MEM vs. SAS W 15 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 1 0 0 1 6
+p723
+aVRyan Humphrey MEM 11/22/2004 MEM vs. SAS W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p724
+aVStromile Swift MEM 11/22/2004 MEM vs. SAS W 13 6 3 7 42.9 0 0 - 0 0 - 0 0 0 1 0 1 1 3 -2
+p725
+aVEarl Watson MEM 11/22/2004 MEM vs. SAS W 20 8 3 8 37.5 0 2 0.0 2 2 100.0 0 0 0 4 4 0 2 3 4
+p726
+aVShane Battier MEM 11/20/2004 MEM @ GSW W 24 5 2 4 50.0 1 2 50.0 0 0 - 2 4 6 0 2 1 2 1 11
+p727
+aVLorenzen Wright MEM 11/20/2004 MEM @ GSW W 28 8 3 7 42.9 0 0 - 2 2 100.0 2 9 11 0 1 0 2 2 18
+p728
+aVStromile Swift MEM 11/20/2004 MEM @ GSW W 32 20 6 17 35.3 0 0 - 8 10 80.0 5 7 12 1 2 2 3 3 7
+p729
+aVBrian Cardinal MEM 11/20/2004 MEM @ GSW W 22 9 1 7 14.3 0 0 - 7 8 87.5 2 4 6 1 1 0 3 2 2
+p730
+aVEarl Watson MEM 11/20/2004 MEM @ GSW W 20 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 4 0 0 4 3 4
+p731
+aVBonzi Wells MEM 11/20/2004 MEM @ GSW W 35 17 5 9 55.6 2 3 66.7 5 8 62.5 0 4 4 3 1 1 0 4 14
+p732
+aVDahntay Jones MEM 11/20/2004 MEM @ GSW W 13 9 3 4 75.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 1 1 -1
+p733
+aVJake Tsakalidis MEM 11/20/2004 MEM @ GSW W 14 5 2 2 100.0 0 0 - 1 2 50.0 0 5 5 1 0 0 3 4 -1
+p734
+aVMike Miller MEM 11/20/2004 MEM @ GSW W 24 13 3 6 50.0 2 4 50.0 5 7 71.4 0 3 3 3 3 0 0 3 2
+p735
+aVJason Williams MEM 11/20/2004 MEM @ GSW W 28 7 3 10 30.0 1 5 20.0 0 0 - 1 1 2 8 1 0 1 3 9
+p736
+aVMike Miller MEM 11/19/2004 MEM @ SAC L 22 13 5 7 71.4 3 5 60.0 0 1 0.0 0 6 6 2 0 0 1 4 8
+p737
+aVShane Battier MEM 11/19/2004 MEM @ SAC L 32 2 1 5 20.0 0 1 0.0 0 2 0.0 1 1 2 1 0 0 1 3 -15
+p738
+aVStromile Swift MEM 11/19/2004 MEM @ SAC L 30 23 9 11 81.8 0 1 0.0 5 6 83.3 1 3 4 1 0 1 2 4 15
+p739
+aVJason Williams MEM 11/19/2004 MEM @ SAC L 27 17 5 14 35.7 3 7 42.9 4 4 100.0 0 0 0 3 1 0 3 0 -10
+p740
+aVBrian Cardinal MEM 11/19/2004 MEM @ SAC L 13 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 1
+p741
+aVDahntay Jones MEM 11/19/2004 MEM @ SAC L 12 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 2 3 18
+p742
+aVPau Gasol MEM 11/19/2004 MEM @ SAC L 34 17 5 13 38.5 0 0 - 7 10 70.0 6 12 18 0 1 2 6 4 -6
+p743
+aVEarl Watson MEM 11/19/2004 MEM @ SAC L 21 12 5 8 62.5 1 4 25.0 1 1 100.0 0 2 2 5 0 0 1 2 9
+p744
+aVLorenzen Wright MEM 11/19/2004 MEM @ SAC L 18 2 1 4 25.0 0 0 - 0 0 - 2 3 5 2 0 0 1 5 -15
+p745
+aVBonzi Wells MEM 11/19/2004 MEM @ SAC L 31 10 4 9 44.4 1 1 100.0 1 2 50.0 1 4 5 4 1 0 2 2 -15
+p746
+aVRyan Humphrey MEM 11/17/2004 MEM @ POR W 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p747
+aVStromile Swift MEM 11/17/2004 MEM @ POR W 17 7 2 5 40.0 0 0 - 3 5 60.0 3 5 8 2 0 0 2 5 -3
+p748
+aVBrian Cardinal MEM 11/17/2004 MEM @ POR W 18 7 2 3 66.7 0 0 - 3 3 100.0 0 3 3 2 0 1 1 2 7
+p749
+aVJason Williams MEM 11/17/2004 MEM @ POR W 25 4 1 6 16.7 1 4 25.0 1 1 100.0 0 0 0 7 1 0 1 1 9
+p750
+aVDahntay Jones MEM 11/17/2004 MEM @ POR W 18 6 2 5 40.0 1 1 100.0 1 2 50.0 0 3 3 0 1 0 2 4 -9
+p751
+aVJake Tsakalidis MEM 11/17/2004 MEM @ POR W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 2 1 0 -15
+p752
+aVPau Gasol MEM 11/17/2004 MEM @ POR W 28 15 5 5 100.0 0 0 - 5 6 83.3 4 6 10 4 0 0 1 2 22
+p753
+aVBonzi Wells MEM 11/17/2004 MEM @ POR W 30 25 11 18 61.1 2 2 100.0 1 1 100.0 1 1 2 3 0 0 2 1 28
+p754
+aVMike Miller MEM 11/17/2004 MEM @ POR W 19 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 3 3
+p755
+aVLorenzen Wright MEM 11/17/2004 MEM @ POR W 28 9 4 10 40.0 0 0 - 1 1 100.0 2 8 10 3 0 1 6 3 27
+p756
+aVEarl Watson MEM 11/17/2004 MEM @ POR W 23 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 7 2 0 2 2 10
+p757
+aVShane Battier MEM 11/17/2004 MEM @ POR W 25 12 5 6 83.3 2 2 100.0 0 2 0.0 0 3 3 2 1 1 0 3 25
+p758
+aVShane Battier MEM 11/14/2004 MEM @ SEA L 29 4 2 4 50.0 0 1 0.0 0 0 - 2 4 6 2 3 0 1 4 -1
+p759
+aVMike Miller MEM 11/14/2004 MEM @ SEA L 22 18 7 8 87.5 2 3 66.7 2 3 66.7 0 1 1 3 1 0 0 5 -15
+p760
+aVEarl Watson MEM 11/14/2004 MEM @ SEA L 19 13 4 7 57.1 1 2 50.0 4 4 100.0 0 1 1 4 0 0 3 4 0
+p761
+aVBrian Cardinal MEM 11/14/2004 MEM @ SEA L 13 7 2 3 66.7 1 2 50.0 2 2 100.0 0 1 1 1 1 1 0 1 4
+p762
+aVBonzi Wells MEM 11/14/2004 MEM @ SEA L 36 12 4 12 33.3 0 1 0.0 4 4 100.0 0 1 1 6 1 1 2 5 6
+p763
+aVJason Williams MEM 11/14/2004 MEM @ SEA L 29 11 3 8 37.5 3 5 60.0 2 3 66.7 0 3 3 7 1 0 0 2 -5
+p764
+aVPau Gasol MEM 11/14/2004 MEM @ SEA L 34 25 9 17 52.9 0 0 - 7 9 77.8 0 3 3 5 0 0 2 0 -9
+p765
+aVDahntay Jones MEM 11/14/2004 MEM @ SEA L 11 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -1
+p766
+aVStromile Swift MEM 11/14/2004 MEM @ SEA L 23 12 4 7 57.1 0 0 - 4 4 100.0 1 5 6 1 0 0 1 5 -1
+p767
+aVLorenzen Wright MEM 11/14/2004 MEM @ SEA L 24 6 3 6 50.0 0 0 - 0 0 - 3 2 5 0 0 1 2 3 -3
+p768
+aVEarl Watson MEM 11/12/2004 MEM vs. GSW W 20 7 2 7 28.6 0 1 0.0 3 6 50.0 1 2 3 3 2 0 3 2 14
+p769
+aVLorenzen Wright MEM 11/12/2004 MEM vs. GSW W 24 10 3 8 37.5 0 0 - 4 6 66.7 3 7 10 2 0 0 0 4 13
+p770
+aVDahntay Jones MEM 11/12/2004 MEM vs. GSW W 25 8 4 8 50.0 0 1 0.0 0 0 - 1 3 4 0 1 1 1 2 24
+p771
+aVStromile Swift MEM 11/12/2004 MEM vs. GSW W 24 9 3 12 25.0 0 0 - 3 5 60.0 5 6 11 0 0 3 2 5 16
+p772
+aVJason Williams MEM 11/12/2004 MEM vs. GSW W 25 12 5 8 62.5 1 3 33.3 1 2 50.0 0 4 4 5 1 2 2 1 15
+p773
+aVPau Gasol MEM 11/12/2004 MEM vs. GSW W 27 14 6 8 75.0 0 0 - 2 4 50.0 0 11 11 1 0 5 3 2 25
+p774
+aVBrian Cardinal MEM 11/12/2004 MEM vs. GSW W 16 4 2 2 100.0 0 0 - 0 0 - 2 2 4 1 1 1 1 3 3
+p775
+aVShane Battier MEM 11/12/2004 MEM vs. GSW W 28 7 3 5 60.0 0 0 - 1 1 100.0 0 4 4 2 2 2 1 2 11
+p776
+aVJake Tsakalidis MEM 11/12/2004 MEM vs. GSW W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 1 1 1
+p777
+aVMike Miller MEM 11/12/2004 MEM vs. GSW W 19 10 5 8 62.5 0 0 - 0 1 0.0 1 5 6 1 1 0 1 4 17
+p778
+aVBonzi Wells MEM 11/12/2004 MEM vs. GSW W 23 10 3 11 27.3 0 0 - 4 4 100.0 1 4 5 2 0 2 4 2 5
+p779
+aVRyan Humphrey MEM 11/12/2004 MEM vs. GSW W 4 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p780
+aVPau Gasol MEM 11/10/2004 MEM vs. LAL W 25 22 6 11 54.5 0 0 - 10 13 76.9 3 4 7 4 2 1 0 3 12
+p781
+aVMike Miller MEM 11/10/2004 MEM vs. LAL W 26 13 4 11 36.4 1 4 25.0 4 4 100.0 1 6 7 4 2 1 0 2 21
+p782
+aVShane Battier MEM 11/10/2004 MEM vs. LAL W 41 18 6 10 60.0 2 3 66.7 4 6 66.7 3 3 6 0 0 2 2 1 19
+p783
+aVJason Williams MEM 11/10/2004 MEM vs. LAL W 24 17 6 11 54.5 3 8 37.5 2 2 100.0 0 0 0 6 1 0 2 2 10
+p784
+aVDahntay Jones MEM 11/10/2004 MEM vs. LAL W 24 12 5 7 71.4 1 1 100.0 1 2 50.0 1 3 4 1 0 1 1 4 11
+p785
+aVBonzi Wells MEM 11/10/2004 MEM vs. LAL W 5 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -5
+p786
+aVStromile Swift MEM 11/10/2004 MEM vs. LAL W 25 9 3 10 30.0 0 0 - 3 3 100.0 2 8 10 2 2 3 3 3 16
+p787
+aVBrian Cardinal MEM 11/10/2004 MEM vs. LAL W 23 4 2 4 50.0 0 0 - 0 2 0.0 3 4 7 0 1 1 1 0 11
+p788
+aVEarl Watson MEM 11/10/2004 MEM vs. LAL W 24 9 4 8 50.0 1 2 50.0 0 0 - 0 0 0 6 1 0 0 3 13
+p789
+aVLorenzen Wright MEM 11/10/2004 MEM vs. LAL W 23 6 3 8 37.5 0 0 - 0 0 - 3 5 8 3 0 3 1 2 7
+p790
+aVPau Gasol MEM 11/09/2004 MEM @ HOU L 32 15 4 7 57.1 0 1 0.0 7 10 70.0 0 6 6 3 2 0 2 3 -7
+p791
+aVJason Williams MEM 11/09/2004 MEM @ HOU L 29 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 7 3 0 4 2 -12
+p792
+aVBonzi Wells MEM 11/09/2004 MEM @ HOU L 32 13 6 13 46.2 1 1 100.0 0 0 - 2 4 6 1 4 0 2 3 -3
+p793
+aVStromile Swift MEM 11/09/2004 MEM @ HOU L 23 18 3 9 33.3 0 0 - 12 13 92.3 1 2 3 1 1 1 1 2 3
+p794
+aVDahntay Jones MEM 11/09/2004 MEM @ HOU L 16 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 2 0
+p795
+aVLorenzen Wright MEM 11/09/2004 MEM @ HOU L 25 5 2 7 28.6 0 0 - 1 2 50.0 1 2 3 2 0 0 2 4 -7
+p796
+aVMike Miller MEM 11/09/2004 MEM @ HOU L 23 6 2 5 40.0 0 2 0.0 2 2 100.0 0 5 5 2 1 0 0 2 4
+p797
+aVShane Battier MEM 11/09/2004 MEM @ HOU L 25 6 2 4 50.0 0 2 0.0 2 2 100.0 0 2 2 0 1 0 0 3 -6
+p798
+aVEarl Watson MEM 11/09/2004 MEM @ HOU L 19 10 3 5 60.0 2 2 100.0 2 2 100.0 0 1 1 3 0 0 3 3 9
+p799
+aVBrian Cardinal MEM 11/09/2004 MEM @ HOU L 16 3 0 5 0.0 0 0 - 3 3 100.0 0 2 2 0 2 1 0 2 4
+p800
+aVShane Battier MEM 11/06/2004 MEM @ DAL L 24 6 1 2 50.0 0 1 0.0 4 4 100.0 2 2 4 0 3 1 2 4 -8
+p801
+aVStromile Swift MEM 11/06/2004 MEM @ DAL L 23 16 6 15 40.0 0 0 - 4 6 66.7 4 7 11 1 0 3 2 4 -6
+p802
+aVDahntay Jones MEM 11/06/2004 MEM @ DAL L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p803
+aVMike Miller MEM 11/06/2004 MEM @ DAL L 26 10 4 10 40.0 1 1 100.0 1 1 100.0 0 0 0 3 1 0 3 2 -13
+p804
+aVBonzi Wells MEM 11/06/2004 MEM @ DAL L 22 5 2 9 22.2 1 1 100.0 0 0 - 0 3 3 6 0 0 1 5 -11
+p805
+aVJason Williams MEM 11/06/2004 MEM @ DAL L 19 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 2 2 0 1 1 -14
+p806
+aVPau Gasol MEM 11/06/2004 MEM @ DAL L 26 18 7 14 50.0 0 0 - 4 6 66.7 1 3 4 0 0 0 4 2 -18
+p807
+aVBrian Cardinal MEM 11/06/2004 MEM @ DAL L 19 6 1 5 20.0 0 0 - 4 4 100.0 1 1 2 1 3 1 0 5 -5
+p808
+aVJames Posey MEM 11/06/2004 MEM @ DAL L 24 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 2 1 -16
+p809
+aVEarl Watson MEM 11/06/2004 MEM @ DAL L 29 14 6 12 50.0 1 1 100.0 1 1 100.0 4 3 7 6 0 0 2 1 -10
+p810
+aVLorenzen Wright MEM 11/06/2004 MEM @ DAL L 24 4 2 7 28.6 0 0 - 0 0 - 2 1 3 2 1 1 0 3 -16
+p811
+aVShane Battier MEM 11/05/2004 MEM vs. HOU L 28 3 1 3 33.3 1 1 100.0 0 0 - 1 3 4 3 0 0 0 2 12
+p812
+aVStromile Swift MEM 11/05/2004 MEM vs. HOU L 22 9 3 10 30.0 0 0 - 3 3 100.0 4 4 8 0 1 1 1 0 11
+p813
+aVLorenzen Wright MEM 11/05/2004 MEM vs. HOU L 26 2 1 9 11.1 0 0 - 0 0 - 2 7 9 1 1 0 1 3 -19
+p814
+aVPau Gasol MEM 11/05/2004 MEM vs. HOU L 31 21 7 14 50.0 0 0 - 7 9 77.8 1 5 6 2 2 4 5 1 -17
+p815
+aVEarl Watson MEM 11/05/2004 MEM vs. HOU L 17 4 1 3 33.3 0 2 0.0 2 3 66.7 0 0 0 2 0 0 2 3 4
+p816
+aVJames Posey MEM 11/05/2004 MEM vs. HOU L 20 3 1 4 25.0 1 2 50.0 0 0 - 3 1 4 0 0 0 6 4 -20
+p817
+aVBonzi Wells MEM 11/05/2004 MEM vs. HOU L 26 15 4 10 40.0 0 1 0.0 7 10 70.0 1 0 1 1 4 0 1 2 -19
+p818
+aVMike Miller MEM 11/05/2004 MEM vs. HOU L 22 7 3 7 42.9 1 4 25.0 0 0 - 1 4 5 2 1 1 2 1 11
+p819
+aVJason Williams MEM 11/05/2004 MEM vs. HOU L 31 11 3 10 30.0 3 8 37.5 2 2 100.0 1 2 3 5 0 0 0 3 -12
+p820
+aVBrian Cardinal MEM 11/05/2004 MEM vs. HOU L 17 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 3 9
+p821
+aVPau Gasol MEM 11/03/2004 MEM vs. WAS L 33 17 4 8 50.0 0 0 - 9 14 64.3 4 5 9 5 0 0 1 3 -19
+p822
+aVJason Williams MEM 11/03/2004 MEM vs. WAS L 26 10 4 11 36.4 1 6 16.7 1 2 50.0 0 3 3 2 3 0 5 3 -16
+p823
+aVJake Tsakalidis MEM 11/03/2004 MEM vs. WAS L 15 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 3
+p824
+aVJames Posey MEM 11/03/2004 MEM vs. WAS L 24 3 1 3 33.3 1 3 33.3 0 0 - 1 1 2 3 1 0 1 3 -1
+p825
+aVEarl Watson MEM 11/03/2004 MEM vs. WAS L 22 2 1 8 12.5 0 1 0.0 0 0 - 1 2 3 8 0 0 2 3 4
+p826
+aVMike Miller MEM 11/03/2004 MEM vs. WAS L 13 3 1 3 33.3 0 1 0.0 1 2 50.0 1 2 3 0 1 0 3 4 -10
+p827
+aVBrian Cardinal MEM 11/03/2004 MEM vs. WAS L 15 13 4 7 57.1 0 1 0.0 5 6 83.3 2 3 5 2 2 0 2 2 7
+p828
+aVBonzi Wells MEM 11/03/2004 MEM vs. WAS L 35 19 9 17 52.9 1 3 33.3 0 3 0.0 2 2 4 2 2 1 2 4 -2
+p829
+aVStromile Swift MEM 11/03/2004 MEM vs. WAS L 33 15 7 15 46.7 0 0 - 1 2 50.0 3 5 8 2 1 4 2 3 -15
+p830
+aVShane Battier MEM 11/03/2004 MEM vs. WAS L 24 7 3 7 42.9 1 2 50.0 0 0 - 4 1 5 1 0 0 1 3 -11
+p831
+a.

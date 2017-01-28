@@ -1,0 +1,80 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSamaki Walker SAS 05/02/2000 SAS @ PHX L 26 9 4 7 57.1 0 0 - 1 2 50.0 2 6 8 0 0 1 2 4 -8
+p2
+aVSean Elliott SAS 05/02/2000 SAS @ PHX L 23 7 2 6 33.3 0 2 0.0 3 6 50.0 0 4 4 2 0 0 1 4 -1
+p3
+aVTerry Porter SAS 05/02/2000 SAS @ PHX L 27 2 1 7 14.3 0 3 0.0 0 0 - 0 0 0 2 2 0 1 3 -9
+p4
+aVMario Elie SAS 05/02/2000 SAS @ PHX L 33 12 3 10 30.0 0 2 0.0 6 6 100.0 2 5 7 2 0 0 4 2 -1
+p5
+aVDerrick Dial SAS 05/02/2000 SAS @ PHX L 7 5 2 4 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 3
+p6
+aVAntonio Daniels SAS 05/02/2000 SAS @ PHX L 23 7 2 6 33.3 0 2 0.0 3 5 60.0 0 4 4 2 2 0 3 2 -13
+p7
+aVAvery Johnson SAS 05/02/2000 SAS @ PHX L 36 9 4 9 44.4 0 0 - 1 2 50.0 0 1 1 5 1 0 3 2 -15
+p8
+aVDavid Robinson SAS 05/02/2000 SAS @ PHX L 41 21 7 19 36.8 0 0 - 7 10 70.0 5 11 16 2 3 3 2 2 -7
+p9
+aVJaren Jackson SAS 05/02/2000 SAS @ PHX L 12 2 0 1 0.0 0 0 - 2 4 50.0 0 1 1 2 1 0 0 1 2
+p10
+aVMalik Rose SAS 05/02/2000 SAS @ PHX L 8 4 2 4 50.0 0 0 - 0 2 0.0 0 0 0 0 2 1 1 1 -6
+p11
+aVAvery Johnson SAS 04/29/2000 SAS @ PHX L 37 4 2 10 20.0 0 0 - 0 0 - 1 1 2 6 1 0 3 5 -5
+p12
+aVMario Elie SAS 04/29/2000 SAS @ PHX L 28 12 2 3 66.7 1 2 50.0 7 8 87.5 1 1 2 1 2 0 1 1 -4
+p13
+aVJaren Jackson SAS 04/29/2000 SAS @ PHX L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 10
+p14
+aVSean Elliott SAS 04/29/2000 SAS @ PHX L 28 5 1 5 20.0 1 2 50.0 2 2 100.0 0 5 5 2 0 0 1 2 -4
+p15
+aVSamaki Walker SAS 04/29/2000 SAS @ PHX L 26 10 3 8 37.5 0 0 - 4 4 100.0 5 7 12 1 0 0 2 4 -12
+p16
+aVTerry Porter SAS 04/29/2000 SAS @ PHX L 24 11 4 9 44.4 3 6 50.0 0 0 - 0 1 1 0 2 0 3 1 -2
+p17
+aVAntonio Daniels SAS 04/29/2000 SAS @ PHX L 21 7 3 9 33.3 0 2 0.0 1 2 50.0 2 1 3 2 2 0 1 2 -15
+p18
+aVDavid Robinson SAS 04/29/2000 SAS @ PHX L 43 37 12 27 44.4 0 1 0.0 13 18 72.2 6 7 13 0 2 4 3 3 -4
+p19
+aVMalik Rose SAS 04/29/2000 SAS @ PHX L 23 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 3 1
+p20
+aVDerrick Dial SAS 04/25/2000 SAS vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p21
+aVSean Elliott SAS 04/25/2000 SAS vs. PHX W 36 13 6 15 40.0 1 4 25.0 0 0 - 1 9 10 1 0 0 1 3 11
+p22
+aVAntonio Daniels SAS 04/25/2000 SAS vs. PHX W 21 10 2 3 66.7 1 2 50.0 5 6 83.3 0 2 2 2 3 0 1 1 5
+p23
+aVAvery Johnson SAS 04/25/2000 SAS vs. PHX W 38 21 7 12 58.3 0 0 - 7 8 87.5 1 2 3 6 0 0 1 1 14
+p24
+aVMalik Rose SAS 04/25/2000 SAS vs. PHX W 21 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 0 0 1 2 5 7
+p25
+aVSamaki Walker SAS 04/25/2000 SAS vs. PHX W 31 4 2 8 25.0 0 0 - 0 0 - 2 7 9 0 1 8 1 2 6
+p26
+aVDavid Robinson SAS 04/25/2000 SAS vs. PHX W 40 25 9 25 36.0 0 0 - 7 7 100.0 4 11 15 5 1 3 3 5 21
+p27
+aVMario Elie SAS 04/25/2000 SAS vs. PHX W 23 5 1 4 25.0 0 1 0.0 3 3 100.0 1 2 3 0 1 0 3 1 13
+p28
+aVTerry Porter SAS 04/25/2000 SAS vs. PHX W 16 3 1 8 12.5 1 3 33.3 0 0 - 0 0 0 2 1 0 1 0 8
+p29
+aVJerome Kersey SAS 04/25/2000 SAS vs. PHX W 10 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 1 0 0 3 -10
+p30
+aVMario Elie SAS 04/22/2000 SAS vs. PHX L 31 1 0 5 0.0 0 2 0.0 1 1 100.0 1 4 5 4 2 0 4 0 -7
+p31
+aVDavid Robinson SAS 04/22/2000 SAS vs. PHX L 30 11 3 12 25.0 0 0 - 5 7 71.4 2 9 11 3 1 2 0 5 3
+p32
+aVAntonio Daniels SAS 04/22/2000 SAS vs. PHX L 14 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -1
+p33
+aVAvery Johnson SAS 04/22/2000 SAS vs. PHX L 33 14 6 11 54.5 0 0 - 2 4 50.0 0 3 3 4 2 0 3 2 -1
+p34
+aVTerry Porter SAS 04/22/2000 SAS vs. PHX L 19 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 1 1 0 2 0 6
+p35
+aVSean Elliott SAS 04/22/2000 SAS vs. PHX L 31 15 6 14 42.9 3 5 60.0 0 0 - 0 3 3 0 0 2 1 4 -4
+p36
+aVJerome Kersey SAS 04/22/2000 SAS vs. PHX L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 1 1 2 1
+p37
+aVMalik Rose SAS 04/22/2000 SAS vs. PHX L 29 7 3 8 37.5 0 0 - 1 3 33.3 2 8 10 1 0 1 3 3 -5
+p38
+aVSamaki Walker SAS 04/22/2000 SAS vs. PHX L 36 13 5 8 62.5 0 0 - 3 6 50.0 4 12 16 1 0 3 3 3 -2
+p39
+a.

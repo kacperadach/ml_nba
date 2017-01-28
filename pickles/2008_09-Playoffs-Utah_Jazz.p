@@ -1,0 +1,108 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCJ Miles UTA 04/27/2009 UTA @ LAL L 4 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -10
+p2
+aVAndrei Kirilenko UTA 04/27/2009 UTA @ LAL L 31 14 6 13 46.2 0 2 0.0 2 2 100.0 0 0 0 1 4 0 0 2 -9
+p3
+aVRonnie Price UTA 04/27/2009 UTA @ LAL L 14 8 3 9 33.3 0 2 0.0 2 2 100.0 3 0 3 5 1 0 0 4 10
+p4
+aVMatt Harpring UTA 04/27/2009 UTA @ LAL L 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -1
+p5
+aVKyle Korver UTA 04/27/2009 UTA @ LAL L 22 11 4 10 40.0 3 6 50.0 0 0 - 1 4 5 3 1 0 0 2 -2
+p6
+aVCarlos Boozer UTA 04/27/2009 UTA @ LAL L 30 10 3 8 37.5 0 0 - 4 6 66.7 1 8 9 1 0 0 1 2 -11
+p7
+aVPaul Millsap UTA 04/27/2009 UTA @ LAL L 31 16 6 11 54.5 0 0 - 4 7 57.1 2 4 6 2 2 0 0 1 -8
+p8
+aVBrevin Knight UTA 04/27/2009 UTA @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -10
+p9
+aVMehmet Okur UTA 04/27/2009 UTA @ LAL L 30 8 2 9 22.2 1 2 50.0 3 4 75.0 1 7 8 2 0 1 2 4 -2
+p10
+aVDeron Williams UTA 04/27/2009 UTA @ LAL L 33 14 4 12 33.3 1 4 25.0 5 6 83.3 0 2 2 6 0 0 4 3 -16
+p11
+aVRonnie Brewer UTA 04/27/2009 UTA @ LAL L 35 10 5 10 50.0 0 0 - 0 0 - 3 3 6 2 1 0 3 3 4
+p12
+aVMehmet Okur UTA 04/25/2009 UTA vs. LAL L 13 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 2 -8
+p13
+aVMatt Harpring UTA 04/25/2009 UTA vs. LAL L 9 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 1 1 2 1 -1
+p14
+aVCarlos Boozer UTA 04/25/2009 UTA vs. LAL L 42 23 7 13 53.8 0 0 - 9 12 75.0 1 15 16 5 3 1 5 3 -13
+p15
+aVRonnie Brewer UTA 04/25/2009 UTA vs. LAL L 30 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 2 2 0 2 2 -9
+p16
+aVBrevin Knight UTA 04/25/2009 UTA vs. LAL L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p17
+aVAndrei Kirilenko UTA 04/25/2009 UTA vs. LAL L 35 15 7 15 46.7 0 1 0.0 1 4 25.0 2 2 4 2 3 1 1 1 -4
+p18
+aVPaul Millsap UTA 04/25/2009 UTA vs. LAL L 26 8 4 8 50.0 0 0 - 0 3 0.0 3 2 5 0 0 0 0 3 -9
+p19
+aVCJ Miles UTA 04/25/2009 UTA vs. LAL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -10
+p20
+aVDeron Williams UTA 04/25/2009 UTA vs. LAL L 46 23 6 14 42.9 2 4 50.0 9 9 100.0 1 4 5 13 2 0 3 4 -11
+p21
+aVKyle Korver UTA 04/25/2009 UTA vs. LAL L 28 12 4 7 57.1 2 4 50.0 2 2 100.0 0 2 2 3 1 0 0 1 -2
+p22
+aVCarlos Boozer UTA 04/23/2009 UTA vs. LAL W 35 23 9 17 52.9 0 0 - 5 6 83.3 5 17 22 2 1 1 2 4 -2
+p23
+aVKyle Korver UTA 04/23/2009 UTA vs. LAL W 27 11 4 13 30.8 3 7 42.9 0 0 - 0 3 3 3 0 0 0 2 9
+p24
+aVCJ Miles UTA 04/23/2009 UTA vs. LAL W 9 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 2 6
+p25
+aVDeron Williams UTA 04/23/2009 UTA vs. LAL W 45 13 3 7 42.9 0 2 0.0 7 12 58.3 0 5 5 9 1 0 4 3 7
+p26
+aVAndrei Kirilenko UTA 04/23/2009 UTA vs. LAL W 27 8 4 6 66.7 0 0 - 0 0 - 0 0 0 3 1 1 2 0 -9
+p27
+aVBrevin Knight UTA 04/23/2009 UTA vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p28
+aVMatt Harpring UTA 04/23/2009 UTA vs. LAL W 13 10 5 8 62.5 0 1 0.0 0 0 - 0 2 2 0 1 0 0 4 7
+p29
+aVPaul Millsap UTA 04/23/2009 UTA vs. LAL W 37 7 3 9 33.3 0 0 - 1 2 50.0 6 8 14 2 0 3 3 3 -6
+p30
+aVJarron Collins UTA 04/23/2009 UTA vs. LAL W 7 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 1 0 0 3 4
+p31
+aVRonnie Brewer UTA 04/23/2009 UTA vs. LAL W 37 12 4 12 33.3 0 1 0.0 4 6 66.7 2 5 7 4 0 1 3 1 -1
+p32
+aVKyle Korver UTA 04/21/2009 UTA @ LAL L 26 12 4 10 40.0 2 5 40.0 2 3 66.7 0 0 0 3 0 1 1 1 -10
+p33
+aVRonnie Price UTA 04/21/2009 UTA @ LAL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p34
+aVCJ Miles UTA 04/21/2009 UTA @ LAL L 20 5 2 3 66.7 0 1 0.0 1 2 50.0 0 2 2 0 1 0 2 3 1
+p35
+aVMatt Harpring UTA 04/21/2009 UTA @ LAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 -1
+p36
+aVBrevin Knight UTA 04/21/2009 UTA @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 1 5
+p37
+aVAndrei Kirilenko UTA 04/21/2009 UTA @ LAL L 17 10 2 3 66.7 0 0 - 6 6 100.0 1 1 2 0 2 1 1 1 -2
+p38
+aVJarron Collins UTA 04/21/2009 UTA @ LAL L 13 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 4 -6
+p39
+aVDeron Williams UTA 04/21/2009 UTA @ LAL L 42 35 12 23 52.2 6 11 54.5 5 6 83.3 2 2 4 9 4 2 7 4 -8
+p40
+aVPaul Millsap UTA 04/21/2009 UTA @ LAL L 36 13 6 8 75.0 0 0 - 1 2 50.0 2 5 7 3 2 2 2 5 -4
+p41
+aVCarlos Boozer UTA 04/21/2009 UTA @ LAL L 40 20 8 18 44.4 0 0 - 4 5 80.0 4 6 10 1 2 0 3 4 -9
+p42
+aVRonnie Brewer UTA 04/21/2009 UTA @ LAL L 33 14 5 12 41.7 0 1 0.0 4 5 80.0 0 1 1 4 2 0 1 0 -9
+p43
+aVCJ Miles UTA 04/19/2009 UTA @ LAL L 17 6 2 9 22.2 0 3 0.0 2 2 100.0 2 1 3 1 1 0 0 1 -8
+p44
+aVDeron Williams UTA 04/19/2009 UTA @ LAL L 45 16 4 14 28.6 0 4 0.0 8 8 100.0 1 2 3 17 2 0 3 3 -8
+p45
+aVKyle Korver UTA 04/19/2009 UTA @ LAL L 33 7 2 6 33.3 2 4 50.0 1 2 50.0 1 0 1 1 1 0 1 3 -8
+p46
+aVRonnie Brewer UTA 04/19/2009 UTA @ LAL L 22 6 2 7 28.6 0 0 - 2 3 66.7 1 6 7 1 2 0 2 3 -2
+p47
+aVJarron Collins UTA 04/19/2009 UTA @ LAL L 15 7 1 5 20.0 0 0 - 5 6 83.3 3 4 7 0 0 0 0 2 2
+p48
+aVCarlos Boozer UTA 04/19/2009 UTA @ LAL L 39 27 11 16 68.8 0 0 - 5 6 83.3 1 8 9 2 2 0 4 5 -5
+p49
+aVAndrei Kirilenko UTA 04/19/2009 UTA @ LAL L 26 8 3 10 30.0 1 2 50.0 1 2 50.0 4 4 8 4 1 0 1 2 -21
+p50
+aVPaul Millsap UTA 04/19/2009 UTA @ LAL L 25 15 6 13 46.2 0 0 - 3 4 75.0 7 1 8 1 0 0 1 5 -6
+p51
+aVMatt Harpring UTA 04/19/2009 UTA @ LAL L 15 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 4 -4
+p52
+aVBrevin Knight UTA 04/19/2009 UTA @ LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -5
+p53
+a.

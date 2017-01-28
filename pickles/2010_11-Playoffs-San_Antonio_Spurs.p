@@ -1,0 +1,122 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMatt Bonner SAS 04/29/2011 SAS @ MEM L 20 9 3 4 75.0 2 3 66.7 1 2 50.0 1 1 2 1 0 1 0 5 8
+p2
+aVTim Duncan SAS 04/29/2011 SAS @ MEM L 35 12 5 13 38.5 0 0 - 2 2 100.0 5 5 10 3 1 3 5 3 -12
+p3
+aVAntonio McDyess SAS 04/29/2011 SAS @ MEM L 26 10 4 7 57.1 0 0 - 2 2 100.0 2 0 2 2 0 0 0 2 -15
+p4
+aVDanny Green SAS 04/29/2011 SAS @ MEM L 0 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p5
+aVGary Neal SAS 04/29/2011 SAS @ MEM L 22 8 3 12 25.0 0 5 0.0 2 2 100.0 0 5 5 1 1 0 1 3 6
+p6
+aVTony Parker SAS 04/29/2011 SAS @ MEM L 39 23 10 17 58.8 0 1 0.0 3 4 75.0 0 1 1 4 0 0 2 1 -10
+p7
+aVGeorge Hill SAS 04/29/2011 SAS @ MEM L 39 6 3 10 30.0 0 2 0.0 0 0 - 0 7 7 2 2 1 0 6 0
+p8
+aVTiago Splitter SAS 04/29/2011 SAS @ MEM L 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 2 0 1 2 4
+p9
+aVManu Ginobili SAS 04/29/2011 SAS @ MEM L 34 16 6 14 42.9 2 8 25.0 2 2 100.0 0 2 2 2 3 0 1 3 -7
+p10
+aVRichard Jefferson SAS 04/29/2011 SAS @ MEM L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 -13
+p11
+aVTim Duncan SAS 04/27/2011 SAS vs. MEM W 40 13 5 13 38.5 0 0 - 3 4 75.0 3 9 12 3 1 1 3 0 4
+p12
+aVRichard Jefferson SAS 04/27/2011 SAS vs. MEM W 33 6 2 7 28.6 1 4 25.0 1 1 100.0 1 4 5 1 1 0 1 3 0
+p13
+aVGeorge Hill SAS 04/27/2011 SAS vs. MEM W 30 12 3 7 42.9 0 1 0.0 6 6 100.0 1 4 5 2 0 0 2 1 8
+p14
+aVMatt Bonner SAS 04/27/2011 SAS vs. MEM W 20 5 2 6 33.3 1 4 25.0 0 0 - 0 3 3 0 0 0 0 1 0
+p15
+aVGary Neal SAS 04/27/2011 SAS vs. MEM W 10 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 2 6
+p16
+aVManu Ginobili SAS 04/27/2011 SAS vs. MEM W 42 33 10 18 55.6 4 9 44.4 9 10 90.0 1 5 6 6 4 0 6 4 10
+p17
+aVTiago Splitter SAS 04/27/2011 SAS vs. MEM W 15 6 3 3 100.0 0 0 - 0 2 0.0 0 3 3 1 1 1 0 0 1
+p18
+aVAntonio McDyess SAS 04/27/2011 SAS vs. MEM W 32 4 2 6 33.3 0 0 - 0 0 - 3 5 8 1 1 1 2 3 11
+p19
+aVTony Parker SAS 04/27/2011 SAS vs. MEM W 44 24 9 20 45.0 0 2 0.0 6 9 66.7 0 2 2 9 1 1 1 4 -5
+p20
+aVTim Duncan SAS 04/25/2011 SAS @ MEM L 29 6 3 7 42.9 0 0 - 0 0 - 0 7 7 2 0 1 2 2 -13
+p21
+aVAntonio McDyess SAS 04/25/2011 SAS @ MEM L 19 4 2 5 40.0 0 0 - 0 1 0.0 1 3 4 1 0 0 1 3 -5
+p22
+aVTiago Splitter SAS 04/25/2011 SAS @ MEM L 22 10 5 9 55.6 0 0 - 0 1 0.0 6 3 9 0 0 0 1 2 -14
+p23
+aVGary Neal SAS 04/25/2011 SAS @ MEM L 19 11 3 6 50.0 1 2 50.0 4 4 100.0 0 2 2 2 0 0 0 0 -8
+p24
+aVManu Ginobili SAS 04/25/2011 SAS @ MEM L 29 14 5 13 38.5 2 6 33.3 2 2 100.0 0 2 2 4 2 0 2 1 -6
+p25
+aVTony Parker SAS 04/25/2011 SAS @ MEM L 32 23 9 12 75.0 1 2 50.0 4 4 100.0 0 3 3 1 1 0 7 0 -9
+p26
+aVDanny Green SAS 04/25/2011 SAS @ MEM L 6 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 1 1 1 0 2
+p27
+aVDeJuan Blair SAS 04/25/2011 SAS @ MEM L 6 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 2
+p28
+aVSteve Novak SAS 04/25/2011 SAS @ MEM L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p29
+aVGeorge Hill SAS 04/25/2011 SAS @ MEM L 29 10 4 7 57.1 1 3 33.3 1 2 50.0 0 1 1 2 1 0 2 2 -26
+p30
+aVMatt Bonner SAS 04/25/2011 SAS @ MEM L 16 4 2 4 50.0 0 2 0.0 0 0 - 1 1 2 0 0 0 1 2 -3
+p31
+aVRichard Jefferson SAS 04/25/2011 SAS @ MEM L 27 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 2 1 1 0 3 -12
+p32
+aVMatt Bonner SAS 04/23/2011 SAS @ MEM L 22 5 2 4 50.0 0 2 0.0 1 2 50.0 3 2 5 0 0 0 0 2 -10
+p33
+aVTim Duncan SAS 04/23/2011 SAS @ MEM L 36 13 5 11 45.5 0 0 - 3 6 50.0 1 10 11 6 0 5 0 3 -2
+p34
+aVGeorge Hill SAS 04/23/2011 SAS @ MEM L 27 11 5 10 50.0 1 4 25.0 0 0 - 1 4 5 1 0 1 2 1 -2
+p35
+aVDeJuan Blair SAS 04/23/2011 SAS @ MEM L 10 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p36
+aVGary Neal SAS 04/23/2011 SAS @ MEM L 16 4 2 9 22.2 0 4 0.0 0 0 - 1 2 3 1 0 0 0 1 -8
+p37
+aVManu Ginobili SAS 04/23/2011 SAS @ MEM L 35 23 5 12 41.7 1 2 50.0 12 14 85.7 0 3 3 5 0 2 3 2 6
+p38
+aVRichard Jefferson SAS 04/23/2011 SAS @ MEM L 36 4 1 4 25.0 0 2 0.0 2 2 100.0 1 4 5 0 1 1 1 2 0
+p39
+aVTony Parker SAS 04/23/2011 SAS @ MEM L 30 16 5 14 35.7 0 1 0.0 6 8 75.0 1 4 5 5 2 0 6 3 -5
+p40
+aVAntonio McDyess SAS 04/23/2011 SAS @ MEM L 28 8 4 7 57.1 0 0 - 0 0 - 3 7 10 1 1 1 1 5 5
+p41
+aVGeorge Hill SAS 04/20/2011 SAS vs. MEM W 24 16 3 9 33.3 2 2 100.0 8 9 88.9 3 2 5 4 2 0 1 2 -5
+p42
+aVMatt Bonner SAS 04/20/2011 SAS vs. MEM W 20 3 1 3 33.3 1 3 33.3 0 0 - 1 3 4 1 1 0 0 5 3
+p43
+aVDanny Green SAS 04/20/2011 SAS vs. MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p44
+aVGary Neal SAS 04/20/2011 SAS vs. MEM W 18 6 2 4 50.0 1 2 50.0 1 1 100.0 0 4 4 1 0 0 1 2 -2
+p45
+aVRichard Jefferson SAS 04/20/2011 SAS vs. MEM W 34 16 5 8 62.5 3 6 50.0 3 4 75.0 0 4 4 0 0 0 2 2 4
+p46
+aVAntonio McDyess SAS 04/20/2011 SAS vs. MEM W 27 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 2 0 3 1 3 0
+p47
+aVTim Duncan SAS 04/20/2011 SAS vs. MEM W 35 16 7 12 58.3 0 0 - 2 2 100.0 2 8 10 0 1 3 5 6 7
+p48
+aVDeJuan Blair SAS 04/20/2011 SAS vs. MEM W 13 2 1 4 25.0 0 0 - 0 1 0.0 2 3 5 2 0 0 1 0 1
+p49
+aVManu Ginobili SAS 04/20/2011 SAS vs. MEM W 34 17 5 13 38.5 0 3 0.0 7 13 53.8 1 6 7 4 4 1 5 3 16
+p50
+aVTony Parker SAS 04/20/2011 SAS vs. MEM W 36 12 6 14 42.9 0 1 0.0 0 0 - 0 4 4 7 1 1 2 0 4
+p51
+aVTony Parker SAS 04/17/2011 SAS vs. MEM L 41 20 4 16 25.0 0 1 0.0 12 16 75.0 0 1 1 5 3 0 2 2 6
+p52
+aVAntonio McDyess SAS 04/17/2011 SAS vs. MEM L 13 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 5 -2
+p53
+aVDanny Green SAS 04/17/2011 SAS vs. MEM L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p54
+aVMatt Bonner SAS 04/17/2011 SAS vs. MEM L 24 12 2 4 50.0 2 4 50.0 6 6 100.0 1 2 3 0 0 0 0 3 -10
+p55
+aVGary Neal SAS 04/17/2011 SAS vs. MEM L 25 10 4 10 40.0 2 4 50.0 0 0 - 0 3 3 0 0 1 0 3 -16
+p56
+aVRichard Jefferson SAS 04/17/2011 SAS vs. MEM L 37 13 4 6 66.7 2 3 66.7 3 4 75.0 0 6 6 2 0 0 1 3 0
+p57
+aVTim Duncan SAS 04/17/2011 SAS vs. MEM L 36 16 8 13 61.5 0 0 - 0 2 0.0 5 8 13 2 0 2 3 3 -2
+p58
+aVGeorge Hill SAS 04/17/2011 SAS vs. MEM L 41 15 2 7 28.6 0 3 0.0 11 13 84.6 0 7 7 3 4 0 1 3 1
+p59
+aVDeJuan Blair SAS 04/17/2011 SAS vs. MEM L 22 9 3 9 33.3 0 0 - 3 4 75.0 5 1 6 0 0 0 1 5 8
+p60
+a.

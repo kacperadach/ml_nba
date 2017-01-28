@@ -1,0 +1,1638 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChris Johnson MIN 04/17/2013 MIN @ SAS W 9 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 0 0 0 0 2 -5
+p2
+aVDerrick Williams MIN 04/17/2013 MIN @ SAS W 33 21 7 15 46.7 2 4 50.0 5 6 83.3 0 6 6 4 1 0 2 3 17
+p3
+aVDante Cunningham MIN 04/17/2013 MIN @ SAS W 21 10 4 7 57.1 0 0 - 2 2 100.0 1 5 6 0 0 0 1 2 2
+p4
+aVAlexey Shved MIN 04/17/2013 MIN @ SAS W 22 6 2 5 40.0 1 2 50.0 1 2 50.0 0 2 2 3 1 1 0 1 2
+p5
+aVJ.J. Barea MIN 04/17/2013 MIN @ SAS W 26 10 4 13 30.8 1 7 14.3 1 1 100.0 0 4 4 5 0 0 1 1 1
+p6
+aVGreg Stiemsma MIN 04/17/2013 MIN @ SAS W 33 12 6 8 75.0 0 0 - 0 0 - 1 8 9 0 5 1 0 3 12
+p7
+aVAndrei Kirilenko MIN 04/17/2013 MIN @ SAS W 20 5 2 6 33.3 0 0 - 1 1 100.0 3 3 6 4 2 0 0 0 13
+p8
+aVRicky Rubio MIN 04/17/2013 MIN @ SAS W 26 12 4 10 40.0 3 5 60.0 1 2 50.0 0 3 3 3 2 0 4 1 11
+p9
+aVChase Budinger MIN 04/17/2013 MIN @ SAS W 24 15 6 13 46.2 3 7 42.9 0 0 - 1 3 4 1 0 0 1 1 6
+p10
+aVMickael Gelabale MIN 04/17/2013 MIN @ SAS W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p11
+aVLuke Ridnour MIN 04/17/2013 MIN @ SAS W 22 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 6 0 0 2 3 12
+p12
+aVDerrick Williams MIN 04/15/2013 MIN vs. UTA L 40 18 7 13 53.8 0 2 0.0 4 6 66.7 1 5 6 0 1 0 0 3 -16
+p13
+aVRicky Rubio MIN 04/15/2013 MIN vs. UTA L 29 6 2 9 22.2 0 2 0.0 2 2 100.0 1 3 4 4 2 0 1 1 -16
+p14
+aVLuke Ridnour MIN 04/15/2013 MIN vs. UTA L 21 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 3 2 0 1 0 -8
+p15
+aVChris Johnson MIN 04/15/2013 MIN vs. UTA L 3 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 1 4
+p16
+aVAlexey Shved MIN 04/15/2013 MIN vs. UTA L 19 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 4 0 0 2 2 0
+p17
+aVAndrei Kirilenko MIN 04/15/2013 MIN vs. UTA L 23 7 2 7 28.6 0 2 0.0 3 4 75.0 1 6 7 4 1 1 2 1 -9
+p18
+aVDante Cunningham MIN 04/15/2013 MIN vs. UTA L 29 12 5 8 62.5 0 0 - 2 2 100.0 0 5 5 0 0 1 2 4 -11
+p19
+aVMickael Gelabale MIN 04/15/2013 MIN vs. UTA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p20
+aVGreg Stiemsma MIN 04/15/2013 MIN vs. UTA L 24 6 3 7 42.9 0 0 - 0 0 - 0 8 8 0 0 0 1 4 -9
+p21
+aVJ.J. Barea MIN 04/15/2013 MIN vs. UTA L 23 11 4 11 36.4 2 6 33.3 1 2 50.0 0 0 0 5 0 0 3 2 -10
+p22
+aVChase Budinger MIN 04/15/2013 MIN vs. UTA L 25 6 3 8 37.5 0 3 0.0 0 0 - 0 2 2 1 1 0 0 0 -7
+p23
+aVLuke Ridnour MIN 04/13/2013 MIN vs. PHX W 30 12 3 8 37.5 1 1 100.0 5 5 100.0 0 0 0 4 2 0 0 2 8
+p24
+aVJ.J. Barea MIN 04/13/2013 MIN vs. PHX W 23 16 7 9 77.8 2 3 66.7 0 0 - 2 0 2 2 0 0 3 1 12
+p25
+aVDante Cunningham MIN 04/13/2013 MIN vs. PHX W 34 13 6 12 50.0 0 0 - 1 2 50.0 4 4 8 1 2 1 2 3 6
+p26
+aVChase Budinger MIN 04/13/2013 MIN vs. PHX W 18 2 0 4 0.0 0 2 0.0 2 2 100.0 0 2 2 1 0 0 1 1 10
+p27
+aVAndrei Kirilenko MIN 04/13/2013 MIN vs. PHX W 38 14 6 9 66.7 0 2 0.0 2 3 66.7 0 7 7 1 2 1 4 0 5
+p28
+aVDerrick Williams MIN 04/13/2013 MIN vs. PHX W 23 15 7 12 58.3 1 2 50.0 0 0 - 2 4 6 0 4 0 3 1 -2
+p29
+aVAlexey Shved MIN 04/13/2013 MIN vs. PHX W 8 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 0 0
+p30
+aVGreg Stiemsma MIN 04/13/2013 MIN vs. PHX W 31 6 3 7 42.9 0 0 - 0 0 - 1 4 5 0 2 4 1 4 17
+p31
+aVRicky Rubio MIN 04/13/2013 MIN vs. PHX W 36 24 8 18 44.4 1 3 33.3 7 7 100.0 1 4 5 10 5 0 4 2 4
+p32
+aVChase Budinger MIN 04/12/2013 MIN @ UTA L 25 12 5 11 45.5 2 5 40.0 0 0 - 1 2 3 0 1 0 0 1 -5
+p33
+aVAndrei Kirilenko MIN 04/12/2013 MIN @ UTA L 24 8 3 6 50.0 0 1 0.0 2 2 100.0 1 2 3 3 0 0 0 2 -6
+p34
+aVDante Cunningham MIN 04/12/2013 MIN @ UTA L 26 8 4 9 44.4 0 1 0.0 0 0 - 3 1 4 2 1 0 0 0 -2
+p35
+aVJ.J. Barea MIN 04/12/2013 MIN @ UTA L 27 23 6 14 42.9 2 6 33.3 9 10 90.0 0 4 4 3 0 0 2 2 -8
+p36
+aVRicky Rubio MIN 04/12/2013 MIN @ UTA L 25 13 4 7 57.1 2 3 66.7 3 3 100.0 0 2 2 3 2 0 2 4 1
+p37
+aVChris Johnson MIN 04/12/2013 MIN @ UTA L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 1
+p38
+aVGreg Stiemsma MIN 04/12/2013 MIN @ UTA L 41 10 4 9 44.4 0 0 - 2 2 100.0 1 6 7 1 3 2 1 4 -4
+p39
+aVLuke Ridnour MIN 04/12/2013 MIN @ UTA L 24 10 4 7 57.1 0 1 0.0 2 2 100.0 0 1 1 4 2 0 4 1 0
+p40
+aVAlexey Shved MIN 04/12/2013 MIN @ UTA L 19 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 5 1 0 0 1 -7
+p41
+aVDerrick Williams MIN 04/12/2013 MIN @ UTA L 22 11 4 9 44.4 1 2 50.0 2 2 100.0 3 3 6 0 0 0 1 1 -5
+p42
+aVAlexey Shved MIN 04/10/2013 MIN @ LAC L 24 12 5 10 50.0 1 3 33.3 1 1 100.0 0 1 1 3 2 0 0 0 2
+p43
+aVAndrei Kirilenko MIN 04/10/2013 MIN @ LAC L 30 8 3 10 30.0 0 2 0.0 2 4 50.0 3 4 7 3 1 2 1 1 -9
+p44
+aVRicky Rubio MIN 04/10/2013 MIN @ LAC L 23 6 2 8 25.0 0 1 0.0 2 2 100.0 0 2 2 7 1 0 1 3 -13
+p45
+aVLuke Ridnour MIN 04/10/2013 MIN @ LAC L 27 11 4 9 44.4 1 2 50.0 2 2 100.0 0 0 0 3 1 0 0 3 -15
+p46
+aVNikola Pekovic MIN 04/10/2013 MIN @ LAC L 25 20 7 13 53.8 0 0 - 6 7 85.7 3 2 5 0 0 0 1 1 -13
+p47
+aVDerrick Williams MIN 04/10/2013 MIN @ LAC L 36 13 3 12 25.0 1 4 25.0 6 6 100.0 4 6 10 1 3 1 1 1 -16
+p48
+aVChase Budinger MIN 04/10/2013 MIN @ LAC L 27 7 3 10 30.0 1 5 20.0 0 0 - 0 1 1 2 0 1 1 1 -13
+p49
+aVMickael Gelabale MIN 04/10/2013 MIN @ LAC L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 6
+p50
+aVGreg Stiemsma MIN 04/10/2013 MIN @ LAC L 23 4 2 4 50.0 0 0 - 0 0 - 1 7 8 1 3 0 1 2 -3
+p51
+aVJ.J. Barea MIN 04/10/2013 MIN @ LAC L 19 12 5 12 41.7 2 6 33.3 0 0 - 1 2 3 2 0 0 3 2 -12
+p52
+aVChris Johnson MIN 04/10/2013 MIN @ LAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 6
+p53
+aVGreg Stiemsma MIN 04/09/2013 MIN @ GSW L 22 6 3 7 42.9 0 0 - 0 0 - 0 9 9 3 0 2 0 1 4
+p54
+aVChase Budinger MIN 04/09/2013 MIN @ GSW L 27 17 7 15 46.7 2 4 50.0 1 2 50.0 3 3 6 1 0 0 1 2 1
+p55
+aVAlexey Shved MIN 04/09/2013 MIN @ GSW L 27 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 9 1 0 1 2 4
+p56
+aVJ.J. Barea MIN 04/09/2013 MIN @ GSW L 20 13 4 10 40.0 3 7 42.9 2 3 66.7 0 3 3 4 1 0 2 1 3
+p57
+aVAndrei Kirilenko MIN 04/09/2013 MIN @ GSW L 21 15 4 7 57.1 1 1 100.0 6 6 100.0 0 4 4 2 0 2 1 2 -17
+p58
+aVRicky Rubio MIN 04/09/2013 MIN @ GSW L 22 5 0 10 0.0 0 3 0.0 5 6 83.3 0 5 5 6 1 0 2 2 -18
+p59
+aVLuke Ridnour MIN 04/09/2013 MIN @ GSW L 21 8 4 6 66.7 0 0 - 0 0 - 1 2 3 3 1 0 0 1 -20
+p60
+aVChris Johnson MIN 04/09/2013 MIN @ GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p61
+aVNikola Pekovic MIN 04/09/2013 MIN @ GSW L 26 5 2 8 25.0 0 0 - 1 2 50.0 1 6 7 0 1 2 1 3 -20
+p62
+aVDerrick Williams MIN 04/09/2013 MIN @ GSW L 20 5 2 8 25.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -21
+p63
+aVMickael Gelabale MIN 04/09/2013 MIN @ GSW L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p64
+aVDante Cunningham MIN 04/09/2013 MIN @ GSW L 24 11 5 10 50.0 0 0 - 1 1 100.0 1 2 3 1 1 0 2 2 2
+p65
+aVAndrei Kirilenko MIN 04/06/2013 MIN vs. DET W 43 13 4 10 40.0 1 2 50.0 4 4 100.0 2 4 6 3 7 2 2 0 8
+p66
+aVChase Budinger MIN 04/06/2013 MIN vs. DET W 24 10 3 8 37.5 2 3 66.7 2 3 66.7 0 2 2 1 0 1 0 0 -11
+p67
+aVDante Cunningham MIN 04/06/2013 MIN vs. DET W 30 13 5 7 71.4 0 1 0.0 3 4 75.0 2 2 4 1 1 2 0 2 11
+p68
+aVAlexey Shved MIN 04/06/2013 MIN vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -5
+p69
+aVJ.J. Barea MIN 04/06/2013 MIN vs. DET W 21 20 9 13 69.2 2 3 66.7 0 3 0.0 0 1 1 6 1 0 4 2 -6
+p70
+aVDerrick Williams MIN 04/06/2013 MIN vs. DET W 18 14 6 9 66.7 1 2 50.0 1 1 100.0 0 2 2 0 0 0 1 4 -6
+p71
+aVLuke Ridnour MIN 04/06/2013 MIN vs. DET W 20 5 1 6 16.7 0 1 0.0 3 4 75.0 1 0 1 3 2 0 2 2 16
+p72
+aVRicky Rubio MIN 04/06/2013 MIN vs. DET W 32 10 1 13 7.7 0 2 0.0 8 9 88.9 1 4 5 6 5 0 3 2 17
+p73
+aVGreg Stiemsma MIN 04/06/2013 MIN vs. DET W 12 2 0 2 0.0 0 0 - 2 2 100.0 3 1 4 0 0 1 0 4 -14
+p74
+aVNikola Pekovic MIN 04/06/2013 MIN vs. DET W 36 20 7 15 46.7 0 0 - 6 8 75.0 6 7 13 2 0 0 1 2 20
+p75
+aVGreg Stiemsma MIN 04/05/2013 MIN vs. TOR L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p76
+aVNikola Pekovic MIN 04/05/2013 MIN vs. TOR L 41 24 6 12 50.0 0 0 - 12 16 75.0 2 6 8 0 1 0 1 2 -1
+p77
+aVJ.J. Barea MIN 04/05/2013 MIN vs. TOR L 15 0 0 5 0.0 0 2 0.0 0 0 - 1 2 3 2 0 0 1 0 -7
+p78
+aVDante Cunningham MIN 04/05/2013 MIN vs. TOR L 28 8 4 8 50.0 0 0 - 0 0 - 0 6 6 2 4 1 0 5 -13
+p79
+aVAndrei Kirilenko MIN 04/05/2013 MIN vs. TOR L 35 20 8 10 80.0 1 3 33.3 3 6 50.0 0 6 6 1 3 1 1 1 2
+p80
+aVRicky Rubio MIN 04/05/2013 MIN vs. TOR L 37 13 3 10 30.0 1 3 33.3 6 8 75.0 0 5 5 12 1 0 4 3 5
+p81
+aVLuke Ridnour MIN 04/05/2013 MIN vs. TOR L 23 8 3 6 50.0 0 1 0.0 2 2 100.0 0 1 1 4 0 0 2 3 9
+p82
+aVAlexey Shved MIN 04/05/2013 MIN vs. TOR L 8 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 0 0 1 1 1 -4
+p83
+aVChase Budinger MIN 04/05/2013 MIN vs. TOR L 27 8 3 6 50.0 1 3 33.3 1 2 50.0 1 1 2 1 0 0 1 1 -11
+p84
+aVDerrick Williams MIN 04/05/2013 MIN vs. TOR L 20 8 1 4 25.0 0 1 0.0 6 6 100.0 2 3 5 1 0 0 2 0 11
+p85
+aVJ.J. Barea MIN 04/03/2013 MIN @ MIL W 15 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 3 1 -3
+p86
+aVLuke Ridnour MIN 04/03/2013 MIN @ MIL W 35 13 5 8 62.5 0 0 - 3 3 100.0 1 1 2 2 0 0 0 1 12
+p87
+aVGreg Stiemsma MIN 04/03/2013 MIN @ MIL W 11 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 2 3 1 2 -13
+p88
+aVAndrei Kirilenko MIN 04/03/2013 MIN @ MIL W 34 12 5 9 55.6 1 1 100.0 1 4 25.0 1 3 4 4 0 0 1 0 15
+p89
+aVNikola Pekovic MIN 04/03/2013 MIN @ MIL W 37 27 11 14 78.6 0 0 - 5 7 71.4 3 5 8 3 1 0 1 1 22
+p90
+aVAlexey Shved MIN 04/03/2013 MIN @ MIL W 14 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 2 0 0 1 2 -5
+p91
+aVDante Cunningham MIN 04/03/2013 MIN @ MIL W 29 8 3 11 27.3 0 0 - 2 2 100.0 2 6 8 1 1 0 1 1 1
+p92
+aVRicky Rubio MIN 04/03/2013 MIN @ MIL W 34 19 7 12 58.3 5 6 83.3 0 0 - 0 4 4 12 8 0 8 3 12
+p93
+aVDerrick Williams MIN 04/03/2013 MIN @ MIL W 19 15 7 12 58.3 1 2 50.0 0 0 - 3 3 6 3 0 0 1 2 8
+p94
+aVChase Budinger MIN 04/03/2013 MIN @ MIL W 12 2 1 7 14.3 0 1 0.0 0 0 - 1 3 4 1 0 0 1 2 -4
+p95
+aVDerrick Williams MIN 04/01/2013 MIN vs. BOS W 25 11 5 9 55.6 1 2 50.0 0 0 - 0 3 3 2 1 3 0 1 20
+p96
+aVJ.J. Barea MIN 04/01/2013 MIN vs. BOS W 30 11 5 10 50.0 1 4 25.0 0 0 - 0 4 4 7 0 0 1 0 4
+p97
+aVAndrei Kirilenko MIN 04/01/2013 MIN vs. BOS W 27 17 6 7 85.7 1 1 100.0 4 4 100.0 2 7 9 5 2 0 2 2 2
+p98
+aVChase Budinger MIN 04/01/2013 MIN vs. BOS W 17 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 7
+p99
+aVRicky Rubio MIN 04/01/2013 MIN vs. BOS W 35 9 2 11 18.2 0 2 0.0 5 6 83.3 0 3 3 10 2 0 2 4 12
+p100
+aVLuke Ridnour MIN 04/01/2013 MIN vs. BOS W 20 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 1 2 0 2 1 7
+p101
+aVAlexey Shved MIN 04/01/2013 MIN vs. BOS W 22 9 4 8 50.0 1 3 33.3 0 0 - 0 1 1 3 0 0 1 0 2
+p102
+aVDante Cunningham MIN 04/01/2013 MIN vs. BOS W 24 19 7 12 58.3 0 0 - 5 6 83.3 1 4 5 0 2 0 0 1 -2
+p103
+aVNikola Pekovic MIN 04/01/2013 MIN vs. BOS W 41 29 9 15 60.0 0 0 - 11 11 100.0 1 4 5 1 1 1 0 2 -2
+p104
+aVMickael Gelabale MIN 03/30/2013 MIN vs. MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p105
+aVChris Johnson MIN 03/30/2013 MIN vs. MEM L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p106
+aVRicky Rubio MIN 03/30/2013 MIN vs. MEM L 40 23 6 12 50.0 1 2 50.0 10 12 83.3 3 7 10 9 1 0 5 5 -9
+p107
+aVGreg Stiemsma MIN 03/30/2013 MIN vs. MEM L 40 12 5 7 71.4 0 0 - 2 2 100.0 3 4 7 1 2 2 2 3 -6
+p108
+aVLuke Ridnour MIN 03/30/2013 MIN vs. MEM L 33 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 4 0 0 3 3 -11
+p109
+aVDerrick Williams MIN 03/30/2013 MIN vs. MEM L 37 19 6 16 37.5 0 4 0.0 7 12 58.3 1 3 4 1 0 0 2 3 -15
+p110
+aVJ.J. Barea MIN 03/30/2013 MIN vs. MEM L 17 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -10
+p111
+aVDante Cunningham MIN 03/30/2013 MIN vs. MEM L 16 4 2 8 25.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -9
+p112
+aVAndrei Kirilenko MIN 03/30/2013 MIN vs. MEM L 28 5 1 3 33.3 0 1 0.0 3 6 50.0 0 4 4 1 0 0 2 1 2
+p113
+aVChase Budinger MIN 03/30/2013 MIN vs. MEM L 20 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -13
+p114
+aVAlexey Shved MIN 03/30/2013 MIN vs. MEM L 7 9 3 3 100.0 2 2 100.0 1 2 50.0 1 0 1 0 0 0 0 0 5
+p115
+aVRicky Rubio MIN 03/29/2013 MIN vs. OKC W 30 17 4 11 36.4 1 1 100.0 8 8 100.0 0 2 2 7 4 0 2 3 4
+p116
+aVJ.J. Barea MIN 03/29/2013 MIN vs. OKC W 23 6 3 9 33.3 0 3 0.0 0 0 - 0 1 1 2 0 0 0 0 8
+p117
+aVAlexey Shved MIN 03/29/2013 MIN vs. OKC W 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 2 0 0 2 1 2
+p118
+aVAndrei Kirilenko MIN 03/29/2013 MIN vs. OKC W 32 12 5 11 45.5 1 3 33.3 1 2 50.0 3 1 4 3 2 1 1 2 1
+p119
+aVChase Budinger MIN 03/29/2013 MIN vs. OKC W 23 13 4 8 50.0 2 3 66.7 3 4 75.0 0 3 3 0 1 0 2 1 9
+p120
+aVGreg Stiemsma MIN 03/29/2013 MIN vs. OKC W 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -2
+p121
+aVLuke Ridnour MIN 03/29/2013 MIN vs. OKC W 28 11 3 7 42.9 0 2 0.0 5 7 71.4 1 0 1 2 0 0 1 3 2
+p122
+aVNikola Pekovic MIN 03/29/2013 MIN vs. OKC W 36 22 10 16 62.5 0 0 - 2 2 100.0 7 8 15 1 0 0 1 1 10
+p123
+aVDante Cunningham MIN 03/29/2013 MIN vs. OKC W 19 8 4 9 44.4 0 0 - 0 0 - 1 6 7 1 2 0 1 1 3
+p124
+aVDerrick Williams MIN 03/29/2013 MIN vs. OKC W 26 6 2 8 25.0 1 2 50.0 1 2 50.0 1 8 9 2 0 0 0 2 3
+p125
+aVJ.J. Barea MIN 03/27/2013 MIN vs. LAL L 23 11 4 9 44.4 0 3 0.0 3 4 75.0 1 1 2 7 1 0 1 2 1
+p126
+aVRicky Rubio MIN 03/27/2013 MIN vs. LAL L 29 13 5 13 38.5 0 1 0.0 3 4 75.0 0 3 3 7 3 0 2 4 -4
+p127
+aVAlexey Shved MIN 03/27/2013 MIN vs. LAL L 13 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 2 0 1 3 1
+p128
+aVNikola Pekovic MIN 03/27/2013 MIN vs. LAL L 41 19 6 14 42.9 0 0 - 7 8 87.5 7 9 16 1 2 1 4 3 1
+p129
+aVDante Cunningham MIN 03/27/2013 MIN vs. LAL L 19 18 9 15 60.0 0 0 - 0 0 - 2 2 4 1 2 0 1 3 4
+p130
+aVChase Budinger MIN 03/27/2013 MIN vs. LAL L 24 14 6 12 50.0 1 5 20.0 1 1 100.0 2 7 9 1 2 1 1 4 4
+p131
+aVDerrick Williams MIN 03/27/2013 MIN vs. LAL L 29 15 6 12 50.0 1 2 50.0 2 5 40.0 3 3 6 0 0 0 3 0 -7
+p132
+aVLuke Ridnour MIN 03/27/2013 MIN vs. LAL L 27 11 4 7 57.1 2 2 100.0 1 1 100.0 1 1 2 2 0 0 1 3 -1
+p133
+aVAndrei Kirilenko MIN 03/27/2013 MIN vs. LAL L 27 11 3 8 37.5 0 1 0.0 5 7 71.4 0 2 2 3 3 0 1 1 -10
+p134
+aVGreg Stiemsma MIN 03/27/2013 MIN vs. LAL L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 3 -4
+p135
+aVDante Cunningham MIN 03/26/2013 MIN @ DET W 27 8 4 10 40.0 0 1 0.0 0 0 - 1 6 7 0 2 0 0 1 9
+p136
+aVDerrick Williams MIN 03/26/2013 MIN @ DET W 17 6 2 3 66.7 2 3 66.7 0 0 - 0 5 5 0 0 0 1 3 18
+p137
+aVLuke Ridnour MIN 03/26/2013 MIN @ DET W 26 15 6 7 85.7 2 3 66.7 1 1 100.0 1 0 1 3 3 0 1 1 16
+p138
+aVNikola Pekovic MIN 03/26/2013 MIN @ DET W 30 18 7 10 70.0 0 0 - 4 5 80.0 3 8 11 2 0 1 2 1 28
+p139
+aVJ.J. Barea MIN 03/26/2013 MIN @ DET W 21 21 8 11 72.7 5 7 71.4 0 0 - 1 1 2 1 0 0 3 1 -3
+p140
+aVAndrei Kirilenko MIN 03/26/2013 MIN @ DET W 24 9 4 9 44.4 1 2 50.0 0 0 - 0 1 1 2 1 0 0 0 23
+p141
+aVGreg Stiemsma MIN 03/26/2013 MIN @ DET W 18 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 1 0 0 3 -5
+p142
+aVChris Johnson MIN 03/26/2013 MIN @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -4
+p143
+aVAlexey Shved MIN 03/26/2013 MIN @ DET W 21 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 7 1 0 2 2 -3
+p144
+aVRicky Rubio MIN 03/26/2013 MIN @ DET W 27 14 6 9 66.7 2 2 100.0 0 0 - 0 4 4 9 2 0 3 1 26
+p145
+aVMickael Gelabale MIN 03/26/2013 MIN @ DET W 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -2
+p146
+aVChase Budinger MIN 03/26/2013 MIN @ DET W 23 7 2 9 22.2 1 4 25.0 2 2 100.0 1 2 3 2 0 1 0 1 12
+p147
+aVRicky Rubio MIN 03/24/2013 MIN vs. CHI L 32 15 4 8 50.0 0 0 - 7 10 70.0 2 3 5 8 1 0 1 3 -7
+p148
+aVLuke Ridnour MIN 03/24/2013 MIN vs. CHI L 28 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 4 0 0 0 2 2
+p149
+aVGreg Stiemsma MIN 03/24/2013 MIN vs. CHI L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p150
+aVChase Budinger MIN 03/24/2013 MIN vs. CHI L 19 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 2 1 0 1 1 -9
+p151
+aVMickael Gelabale MIN 03/24/2013 MIN vs. CHI L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p152
+aVDerrick Williams MIN 03/24/2013 MIN vs. CHI L 38 28 11 18 61.1 3 5 60.0 3 4 75.0 0 5 5 0 2 2 3 3 -3
+p153
+aVAndrei Kirilenko MIN 03/24/2013 MIN vs. CHI L 26 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 1 0 3 0 -3
+p154
+aVNikola Pekovic MIN 03/24/2013 MIN vs. CHI L 31 15 6 9 66.7 0 0 - 3 3 100.0 2 6 8 1 0 1 1 2 -3
+p155
+aVDante Cunningham MIN 03/24/2013 MIN vs. CHI L 21 10 5 10 50.0 0 0 - 0 0 - 0 0 0 1 2 1 1 2 -5
+p156
+aVAlexey Shved MIN 03/24/2013 MIN vs. CHI L 18 3 1 5 20.0 1 2 50.0 0 2 0.0 0 0 0 6 1 0 2 1 -2
+p157
+aVJ.J. Barea MIN 03/24/2013 MIN vs. CHI L 17 9 4 9 44.4 1 2 50.0 0 0 - 0 4 4 4 0 0 0 3 -5
+p158
+aVChris Johnson MIN 03/24/2013 MIN vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p159
+aVNikola Pekovic MIN 03/22/2013 MIN @ PHX W 14 11 5 7 71.4 0 0 - 1 4 25.0 1 1 2 0 1 0 0 5 14
+p160
+aVMickael Gelabale MIN 03/22/2013 MIN @ PHX W 7 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 1
+p161
+aVAlexey Shved MIN 03/22/2013 MIN @ PHX W 14 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 5 1 0 1 0 6
+p162
+aVRicky Rubio MIN 03/22/2013 MIN @ PHX W 29 12 3 7 42.9 0 0 - 6 7 85.7 2 4 6 8 5 0 4 3 21
+p163
+aVChase Budinger MIN 03/22/2013 MIN @ PHX W 16 11 4 9 44.4 1 3 33.3 2 4 50.0 0 2 2 0 1 0 0 1 18
+p164
+aVAndrei Kirilenko MIN 03/22/2013 MIN @ PHX W 25 20 6 10 60.0 0 2 0.0 8 10 80.0 1 6 7 1 0 1 1 1 12
+p165
+aVDerrick Williams MIN 03/22/2013 MIN @ PHX W 14 4 0 2 0.0 0 1 0.0 4 4 100.0 0 6 6 1 0 0 1 0 9
+p166
+aVChris Johnson MIN 03/22/2013 MIN @ PHX W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p167
+aVLuke Ridnour MIN 03/22/2013 MIN @ PHX W 30 12 4 8 50.0 0 1 0.0 4 4 100.0 0 2 2 7 0 0 1 2 22
+p168
+aVJ.J. Barea MIN 03/22/2013 MIN @ PHX W 23 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 4 0 0 3 0 13
+p169
+aVGreg Stiemsma MIN 03/22/2013 MIN @ PHX W 34 14 6 10 60.0 0 0 - 2 3 66.7 3 7 10 1 0 3 3 5 17
+p170
+aVDante Cunningham MIN 03/22/2013 MIN @ PHX W 30 18 8 11 72.7 0 0 - 2 2 100.0 2 6 8 1 2 0 0 0 22
+p171
+aVRicky Rubio MIN 03/21/2013 MIN @ SAC L 32 12 4 13 30.8 0 3 0.0 4 4 100.0 0 7 7 9 3 0 1 4 -6
+p172
+aVAndrei Kirilenko MIN 03/21/2013 MIN @ SAC L 27 6 3 9 33.3 0 2 0.0 0 0 - 1 3 4 3 0 0 1 4 -3
+p173
+aVLuke Ridnour MIN 03/21/2013 MIN @ SAC L 30 4 1 7 14.3 0 1 0.0 2 2 100.0 1 1 2 4 1 0 1 1 -3
+p174
+aVDerrick Williams MIN 03/21/2013 MIN @ SAC L 26 12 6 16 37.5 0 3 0.0 0 0 - 2 1 3 1 0 1 0 0 -8
+p175
+aVChase Budinger MIN 03/21/2013 MIN @ SAC L 17 9 3 7 42.9 1 3 33.3 2 2 100.0 1 3 4 0 1 0 0 1 -2
+p176
+aVDante Cunningham MIN 03/21/2013 MIN @ SAC L 25 12 6 11 54.5 0 1 0.0 0 0 - 2 3 5 0 1 0 3 3 10
+p177
+aVAlexey Shved MIN 03/21/2013 MIN @ SAC L 16 6 3 8 37.5 0 4 0.0 0 0 - 0 2 2 4 0 0 3 2 4
+p178
+aVJ.J. Barea MIN 03/21/2013 MIN @ SAC L 21 11 5 11 45.5 0 2 0.0 1 2 50.0 1 3 4 6 0 0 2 3 1
+p179
+aVGreg Stiemsma MIN 03/21/2013 MIN @ SAC L 12 8 4 4 100.0 0 0 - 0 0 - 2 0 2 0 0 1 0 1 -1
+p180
+aVNikola Pekovic MIN 03/21/2013 MIN @ SAC L 34 18 6 12 50.0 0 0 - 6 8 75.0 7 5 12 0 1 0 1 4 -7
+p181
+aVRicky Rubio MIN 03/18/2013 MIN @ MEM L 21 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 3 1 0 0 2 -15
+p182
+aVAndrei Kirilenko MIN 03/18/2013 MIN @ MEM L 16 8 4 6 66.7 0 1 0.0 0 1 0.0 0 1 1 0 0 0 1 0 -12
+p183
+aVGreg Stiemsma MIN 03/18/2013 MIN @ MEM L 24 4 1 7 14.3 0 0 - 2 2 100.0 1 6 7 0 3 1 1 1 7
+p184
+aVLuke Ridnour MIN 03/18/2013 MIN @ MEM L 24 6 2 10 20.0 1 3 33.3 1 2 50.0 2 3 5 3 0 1 2 1 -19
+p185
+aVMickael Gelabale MIN 03/18/2013 MIN @ MEM L 32 11 4 5 80.0 1 2 50.0 2 2 100.0 2 5 7 1 2 0 2 1 -3
+p186
+aVDante Cunningham MIN 03/18/2013 MIN @ MEM L 22 6 3 9 33.3 0 0 - 0 0 - 5 2 7 2 0 0 0 2 1
+p187
+aVJ.J. Barea MIN 03/18/2013 MIN @ MEM L 27 11 3 13 23.1 2 9 22.2 3 5 60.0 0 3 3 2 0 0 3 2 0
+p188
+aVNikola Pekovic MIN 03/18/2013 MIN @ MEM L 24 9 3 9 33.3 0 0 - 3 4 75.0 3 2 5 0 0 1 0 2 -22
+p189
+aVAlexey Shved MIN 03/18/2013 MIN @ MEM L 24 12 5 9 55.6 1 3 33.3 1 1 100.0 0 2 2 2 1 1 0 0 4
+p190
+aVDerrick Williams MIN 03/18/2013 MIN @ MEM L 26 8 3 12 25.0 1 5 20.0 1 1 100.0 1 5 6 1 0 0 2 1 -16
+p191
+aVAlexey Shved MIN 03/17/2013 MIN vs. NOH W 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 3 1 0 2 0 -4
+p192
+aVRicky Rubio MIN 03/17/2013 MIN vs. NOH W 35 16 7 11 63.6 1 1 100.0 1 1 100.0 0 2 2 6 2 2 3 4 5
+p193
+aVAndrei Kirilenko MIN 03/17/2013 MIN vs. NOH W 25 8 3 6 50.0 0 2 0.0 2 3 66.7 0 5 5 1 1 2 3 0 -11
+p194
+aVNikola Pekovic MIN 03/17/2013 MIN vs. NOH W 24 13 5 8 62.5 0 0 - 3 6 50.0 4 2 6 0 0 2 2 4 -14
+p195
+aVChris Johnson MIN 03/17/2013 MIN vs. NOH W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p196
+aVGreg Stiemsma MIN 03/17/2013 MIN vs. NOH W 15 5 1 1 100.0 0 0 - 3 3 100.0 0 2 2 0 1 0 1 4 15
+p197
+aVJ.J. Barea MIN 03/17/2013 MIN vs. NOH W 15 6 1 3 33.3 0 1 0.0 4 4 100.0 0 1 1 1 0 0 1 0 -3
+p198
+aVLuke Ridnour MIN 03/17/2013 MIN vs. NOH W 32 10 5 8 62.5 0 2 0.0 0 0 - 0 0 0 6 1 0 1 3 6
+p199
+aVMickael Gelabale MIN 03/17/2013 MIN vs. NOH W 18 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 12
+p200
+aVDante Cunningham MIN 03/17/2013 MIN vs. NOH W 21 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 1 2 0 0 -6
+p201
+aVDerrick Williams MIN 03/17/2013 MIN vs. NOH W 37 28 9 16 56.3 3 5 60.0 7 10 70.0 2 5 7 0 1 1 5 3 12
+p202
+aVAlexey Shved MIN 03/15/2013 MIN @ HOU L 19 8 2 7 28.6 1 5 20.0 3 4 75.0 0 3 3 4 0 0 2 1 9
+p203
+aVJ.J. Barea MIN 03/15/2013 MIN @ HOU L 27 19 8 12 66.7 2 5 40.0 1 1 100.0 1 1 2 3 2 0 1 2 0
+p204
+aVLuke Ridnour MIN 03/15/2013 MIN @ HOU L 29 10 4 8 50.0 1 4 25.0 1 1 100.0 0 6 6 3 0 0 3 5 -17
+p205
+aVRicky Rubio MIN 03/15/2013 MIN @ HOU L 39 14 4 13 30.8 0 3 0.0 6 8 75.0 1 6 7 7 2 1 3 3 -7
+p206
+aVMickael Gelabale MIN 03/15/2013 MIN @ HOU L 31 10 5 8 62.5 0 2 0.0 0 0 - 3 4 7 5 1 0 0 2 -9
+p207
+aVDerrick Williams MIN 03/15/2013 MIN @ HOU L 31 19 7 14 50.0 2 5 40.0 3 4 75.0 3 1 4 1 0 0 4 3 -12
+p208
+aVGreg Stiemsma MIN 03/15/2013 MIN @ HOU L 32 12 6 7 85.7 0 0 - 0 0 - 1 4 5 1 0 4 0 4 -5
+p209
+aVDante Cunningham MIN 03/15/2013 MIN @ HOU L 22 6 3 10 30.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 1
+p210
+aVChris Johnson MIN 03/15/2013 MIN @ HOU L 11 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 2 0 3 0
+p211
+aVChris Johnson MIN 03/13/2013 MIN @ IND L 9 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 5 3
+p212
+aVAlexey Shved MIN 03/13/2013 MIN @ IND L 28 7 2 8 25.0 1 4 25.0 2 2 100.0 1 6 7 2 0 0 2 1 9
+p213
+aVDante Cunningham MIN 03/13/2013 MIN @ IND L 24 12 5 6 83.3 0 0 - 2 2 100.0 2 1 3 0 0 0 0 3 5
+p214
+aVDerrick Williams MIN 03/13/2013 MIN @ IND L 28 10 4 9 44.4 1 1 100.0 1 2 50.0 1 4 5 1 0 1 0 3 -17
+p215
+aVMickael Gelabale MIN 03/13/2013 MIN @ IND L 16 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -15
+p216
+aVLuke Ridnour MIN 03/13/2013 MIN @ IND L 37 17 8 15 53.3 1 4 25.0 0 0 - 0 3 3 0 0 0 1 4 -18
+p217
+aVRicky Rubio MIN 03/13/2013 MIN @ IND L 37 21 6 14 42.9 2 3 66.7 7 8 87.5 2 4 6 10 3 0 4 1 -18
+p218
+aVJ.J. Barea MIN 03/13/2013 MIN @ IND L 26 5 2 9 22.2 1 5 20.0 0 0 - 0 2 2 6 0 0 3 2 -6
+p219
+aVGreg Stiemsma MIN 03/13/2013 MIN @ IND L 35 13 5 13 38.5 0 0 - 3 4 75.0 4 5 9 0 1 2 2 5 -23
+p220
+aVGreg Stiemsma MIN 03/12/2013 MIN vs. SAS W 24 6 3 5 60.0 0 0 - 0 0 - 1 6 7 0 1 1 2 4 -4
+p221
+aVDante Cunningham MIN 03/12/2013 MIN vs. SAS W 26 9 4 11 36.4 0 0 - 1 2 50.0 2 2 4 1 3 0 0 2 31
+p222
+aVJ.J. Barea MIN 03/12/2013 MIN vs. SAS W 26 17 6 14 42.9 5 7 71.4 0 0 - 0 5 5 5 0 0 0 3 21
+p223
+aVLuke Ridnour MIN 03/12/2013 MIN vs. SAS W 27 14 6 9 66.7 2 2 100.0 0 0 - 0 1 1 2 0 0 1 0 -3
+p224
+aVRicky Rubio MIN 03/12/2013 MIN vs. SAS W 35 21 9 17 52.9 1 5 20.0 2 3 66.7 1 12 13 12 0 1 4 4 23
+p225
+aVMickael Gelabale MIN 03/12/2013 MIN vs. SAS W 26 5 2 5 40.0 1 1 100.0 0 0 - 3 2 5 2 0 1 0 3 9
+p226
+aVDerrick Williams MIN 03/12/2013 MIN vs. SAS W 24 13 5 10 50.0 0 1 0.0 3 7 42.9 1 4 5 0 0 1 3 0 -2
+p227
+aVChris Johnson MIN 03/12/2013 MIN vs. SAS W 22 6 3 3 100.0 0 0 - 0 4 0.0 2 4 6 1 1 6 3 2 21
+p228
+aVAlexey Shved MIN 03/12/2013 MIN vs. SAS W 30 16 6 8 75.0 3 4 75.0 1 2 50.0 1 2 3 7 1 1 3 3 24
+p229
+aVDante Cunningham MIN 03/10/2013 MIN vs. DAL L 20 2 1 5 20.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -18
+p230
+aVRicky Rubio MIN 03/10/2013 MIN vs. DAL L 31 7 3 12 25.0 1 4 25.0 0 0 - 3 2 5 5 2 0 2 2 -17
+p231
+aVJ.J. Barea MIN 03/10/2013 MIN vs. DAL L 32 16 6 15 40.0 0 3 0.0 4 4 100.0 0 4 4 4 0 0 0 2 -26
+p232
+aVLuke Ridnour MIN 03/10/2013 MIN vs. DAL L 31 7 3 9 33.3 1 3 33.3 0 0 - 1 4 5 5 1 0 0 2 -2
+p233
+aVChris Johnson MIN 03/10/2013 MIN vs. DAL L 11 4 1 3 33.3 0 0 - 2 4 50.0 1 0 1 0 0 3 0 0 -14
+p234
+aVMickael Gelabale MIN 03/10/2013 MIN vs. DAL L 28 13 6 10 60.0 0 2 0.0 1 1 100.0 0 3 3 2 1 1 0 5 -3
+p235
+aVDerrick Williams MIN 03/10/2013 MIN vs. DAL L 37 18 7 17 41.2 0 2 0.0 4 5 80.0 1 8 9 3 0 0 2 2 -9
+p236
+aVGreg Stiemsma MIN 03/10/2013 MIN vs. DAL L 31 10 5 10 50.0 0 0 - 0 0 - 1 6 7 0 2 0 1 2 -1
+p237
+aVAlexey Shved MIN 03/10/2013 MIN vs. DAL L 19 0 0 7 0.0 0 4 0.0 0 0 - 0 2 2 1 0 0 3 2 -25
+p238
+aVLuke Ridnour MIN 03/09/2013 MIN @ DEN L 30 7 2 7 28.6 0 4 0.0 3 3 100.0 0 3 3 3 1 2 2 0 -15
+p239
+aVDerrick Williams MIN 03/09/2013 MIN @ DEN L 29 13 4 14 28.6 0 1 0.0 5 9 55.6 1 5 6 1 0 0 1 2 -11
+p240
+aVMickael Gelabale MIN 03/09/2013 MIN @ DEN L 31 19 8 10 80.0 2 2 100.0 1 1 100.0 1 3 4 3 0 1 0 4 -7
+p241
+aVGreg Stiemsma MIN 03/09/2013 MIN @ DEN L 29 8 4 7 57.1 0 0 - 0 0 - 2 2 4 2 1 2 3 2 -11
+p242
+aVDante Cunningham MIN 03/09/2013 MIN @ DEN L 24 8 4 8 50.0 0 0 - 0 0 - 3 1 4 0 0 0 3 2 -14
+p243
+aVJ.J. Barea MIN 03/09/2013 MIN @ DEN L 27 15 6 14 42.9 3 6 50.0 0 0 - 0 2 2 4 3 0 3 5 -17
+p244
+aVRicky Rubio MIN 03/09/2013 MIN @ DEN L 29 11 4 9 44.4 0 1 0.0 3 4 75.0 0 4 4 6 0 0 3 3 -14
+p245
+aVAlexey Shved MIN 03/09/2013 MIN @ DEN L 23 5 2 11 18.2 0 4 0.0 1 2 50.0 2 3 5 3 0 0 3 2 -16
+p246
+aVChris Johnson MIN 03/09/2013 MIN @ DEN L 18 2 1 4 25.0 0 0 - 0 0 - 1 7 8 1 0 2 4 1 -10
+p247
+aVGreg Stiemsma MIN 03/06/2013 MIN vs. WAS W 22 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -4
+p248
+aVJ.J. Barea MIN 03/06/2013 MIN vs. WAS W 23 12 5 12 41.7 2 4 50.0 0 0 - 0 2 2 0 0 0 1 0 5
+p249
+aVChris Johnson MIN 03/06/2013 MIN vs. WAS W 16 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 0
+p250
+aVAlexey Shved MIN 03/06/2013 MIN vs. WAS W 21 4 1 6 16.7 0 2 0.0 2 4 50.0 1 0 1 1 0 0 1 0 -1
+p251
+aVLuke Ridnour MIN 03/06/2013 MIN vs. WAS W 37 15 5 13 38.5 1 3 33.3 4 4 100.0 0 0 0 2 0 0 4 2 -4
+p252
+aVRicky Rubio MIN 03/06/2013 MIN vs. WAS W 38 15 4 15 26.7 0 2 0.0 7 10 70.0 0 7 7 11 6 0 3 3 15
+p253
+aVDante Cunningham MIN 03/06/2013 MIN vs. WAS W 21 11 5 7 71.4 0 0 - 1 2 50.0 3 2 5 1 2 0 1 2 6
+p254
+aVDerrick Williams MIN 03/06/2013 MIN vs. WAS W 37 16 4 12 33.3 1 3 33.3 7 11 63.6 0 8 8 0 2 0 2 2 8
+p255
+aVMickael Gelabale MIN 03/06/2013 MIN vs. WAS W 25 6 3 4 75.0 0 0 - 0 0 - 4 3 7 1 0 0 1 1 0
+p256
+aVGreg Stiemsma MIN 03/04/2013 MIN vs. MIA L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -6
+p257
+aVAlexey Shved MIN 03/04/2013 MIN vs. MIA L 23 13 5 8 62.5 1 3 33.3 2 2 100.0 1 1 2 1 1 2 2 2 -3
+p258
+aVRicky Rubio MIN 03/04/2013 MIN vs. MIA L 39 14 6 11 54.5 2 4 50.0 0 3 0.0 2 3 5 8 6 0 6 2 -12
+p259
+aVJ.J. Barea MIN 03/04/2013 MIN vs. MIA L 22 4 1 11 9.1 1 4 25.0 1 2 50.0 1 3 4 4 0 0 0 1 0
+p260
+aVChris Johnson MIN 03/04/2013 MIN vs. MIA L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p261
+aVMickael Gelabale MIN 03/04/2013 MIN vs. MIA L 24 6 2 8 25.0 0 2 0.0 2 2 100.0 1 2 3 1 3 0 0 0 -10
+p262
+aVDerrick Williams MIN 03/04/2013 MIN vs. MIA L 45 25 10 22 45.5 1 3 33.3 4 4 100.0 3 7 10 1 0 0 3 3 -15
+p263
+aVLuke Ridnour MIN 03/04/2013 MIN vs. MIA L 34 9 4 14 28.6 0 4 0.0 1 1 100.0 1 1 2 5 3 0 2 3 -23
+p264
+aVDante Cunningham MIN 03/04/2013 MIN vs. MIA L 39 8 4 10 40.0 0 0 - 0 1 0.0 6 5 11 2 1 1 4 3 -10
+p265
+aVChris Johnson MIN 03/02/2013 MIN @ POR L 14 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 1 -12
+p266
+aVDante Cunningham MIN 03/02/2013 MIN @ POR L 28 16 6 14 42.9 0 0 - 4 6 66.7 3 5 8 1 2 1 1 0 -1
+p267
+aVRicky Rubio MIN 03/02/2013 MIN @ POR L 38 12 3 10 30.0 0 1 0.0 6 6 100.0 2 7 9 9 3 0 5 4 -20
+p268
+aVLuke Ridnour MIN 03/02/2013 MIN @ POR L 38 18 7 15 46.7 0 1 0.0 4 6 66.7 0 2 2 6 0 0 0 3 -8
+p269
+aVGreg Stiemsma MIN 03/02/2013 MIN @ POR L 14 0 0 2 0.0 0 0 - 0 0 - 4 2 6 0 1 0 1 4 -8
+p270
+aVDerrick Williams MIN 03/02/2013 MIN @ POR L 40 23 9 20 45.0 0 4 0.0 5 8 62.5 1 7 8 0 0 3 1 2 -9
+p271
+aVJ.J. Barea MIN 03/02/2013 MIN @ POR L 27 14 5 14 35.7 1 3 33.3 3 4 75.0 0 5 5 2 2 0 0 0 0
+p272
+aVMickael Gelabale MIN 03/02/2013 MIN @ POR L 23 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 -15
+p273
+aVAlexey Shved MIN 03/02/2013 MIN @ POR L 18 2 0 3 0.0 0 2 0.0 2 4 50.0 2 2 4 1 0 0 0 1 -2
+p274
+aVJ.J. Barea MIN 02/28/2013 MIN @ LAL L 25 20 8 14 57.1 2 3 66.7 2 2 100.0 1 3 4 5 0 0 2 1 -18
+p275
+aVNikola Pekovic MIN 02/28/2013 MIN @ LAL L 9 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -3
+p276
+aVRicky Rubio MIN 02/28/2013 MIN @ LAL L 33 13 5 11 45.5 1 3 33.3 2 2 100.0 3 5 8 13 1 0 4 2 -16
+p277
+aVDerrick Williams MIN 02/28/2013 MIN @ LAL L 39 15 6 14 42.9 1 4 25.0 2 2 100.0 0 8 8 1 0 1 3 2 -26
+p278
+aVDante Cunningham MIN 02/28/2013 MIN @ LAL L 33 5 2 7 28.6 0 0 - 1 2 50.0 0 3 3 0 2 1 0 2 -8
+p279
+aVGreg Stiemsma MIN 02/28/2013 MIN @ LAL L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 5 -6
+p280
+aVMickael Gelabale MIN 02/28/2013 MIN @ LAL L 16 2 1 3 33.3 0 2 0.0 0 0 - 1 3 4 0 2 0 0 1 -9
+p281
+aVAlexey Shved MIN 02/28/2013 MIN @ LAL L 20 5 1 8 12.5 1 5 20.0 2 2 100.0 0 1 1 1 2 0 1 2 -7
+p282
+aVChris Johnson MIN 02/28/2013 MIN @ LAL L 18 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 1 1 1 0 3 -2
+p283
+aVLuke Ridnour MIN 02/28/2013 MIN @ LAL L 33 19 7 10 70.0 2 4 50.0 3 3 100.0 0 1 1 4 1 3 0 1 -15
+p284
+aVNikola Pekovic MIN 02/26/2013 MIN @ PHX L 40 18 6 11 54.5 0 0 - 6 6 100.0 5 7 12 2 3 3 1 4 11
+p285
+aVRicky Rubio MIN 02/26/2013 MIN @ PHX L 39 5 2 12 16.7 0 0 - 1 2 50.0 0 5 5 10 4 0 6 4 10
+p286
+aVMickael Gelabale MIN 02/26/2013 MIN @ PHX L 22 2 1 4 25.0 0 3 0.0 0 0 - 1 3 4 0 1 1 1 1 -7
+p287
+aVJ.J. Barea MIN 02/26/2013 MIN @ PHX L 28 16 7 17 41.2 2 7 28.6 0 0 - 1 1 2 3 0 0 2 2 -5
+p288
+aVDerrick Williams MIN 02/26/2013 MIN @ PHX L 40 21 8 16 50.0 2 6 33.3 3 10 30.0 1 11 12 0 2 1 3 3 2
+p289
+aVDante Cunningham MIN 02/26/2013 MIN @ PHX L 21 6 2 8 25.0 0 0 - 2 3 66.7 2 3 5 0 1 1 0 1 -2
+p290
+aVAlexey Shved MIN 02/26/2013 MIN @ PHX L 23 5 2 9 22.2 1 2 50.0 0 0 - 1 0 1 1 1 0 1 0 -4
+p291
+aVGreg Stiemsma MIN 02/26/2013 MIN @ PHX L 13 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 0 1 0 1 -12
+p292
+aVLuke Ridnour MIN 02/26/2013 MIN @ PHX L 29 10 3 11 27.3 0 1 0.0 4 4 100.0 1 3 4 4 1 0 1 0 4
+p293
+aVAndrei Kirilenko MIN 02/26/2013 MIN @ PHX L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 1 1 -2
+p294
+aVAlexey Shved MIN 02/24/2013 MIN vs. GSW L 16 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -9
+p295
+aVAndrei Kirilenko MIN 02/24/2013 MIN vs. GSW L 41 14 5 10 50.0 0 2 0.0 4 5 80.0 1 4 5 3 3 0 1 2 2
+p296
+aVDante Cunningham MIN 02/24/2013 MIN vs. GSW L 21 2 0 4 0.0 0 0 - 2 4 50.0 2 1 3 0 0 0 0 1 -16
+p297
+aVGreg Stiemsma MIN 02/24/2013 MIN vs. GSW L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 -6
+p298
+aVLuke Ridnour MIN 02/24/2013 MIN vs. GSW L 32 14 6 14 42.9 1 3 33.3 1 1 100.0 0 2 2 5 1 0 1 5 4
+p299
+aVRicky Rubio MIN 02/24/2013 MIN vs. GSW L 39 16 3 10 30.0 0 2 0.0 10 11 90.9 1 7 8 11 6 0 6 1 9
+p300
+aVNikola Pekovic MIN 02/24/2013 MIN vs. GSW L 33 21 10 18 55.6 0 0 - 1 3 33.3 5 3 8 1 2 1 3 5 8
+p301
+aVJ.J. Barea MIN 02/24/2013 MIN vs. GSW L 16 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 2 0 0 3 0 -9
+p302
+aVDerrick Williams MIN 02/24/2013 MIN vs. GSW L 38 23 9 15 60.0 0 1 0.0 5 5 100.0 4 8 12 0 0 1 1 3 12
+p303
+aVAndrei Kirilenko MIN 02/22/2013 MIN @ OKC L 24 15 5 9 55.6 2 3 66.7 3 4 75.0 2 1 3 0 1 0 1 2 -20
+p304
+aVDerrick Williams MIN 02/22/2013 MIN @ OKC L 23 9 3 14 21.4 0 2 0.0 3 3 100.0 3 2 5 2 1 0 1 2 -16
+p305
+aVMickael Gelabale MIN 02/22/2013 MIN @ OKC L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 -5
+p306
+aVNikola Pekovic MIN 02/22/2013 MIN @ OKC L 22 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 0 2 0 0 1 -20
+p307
+aVGreg Stiemsma MIN 02/22/2013 MIN @ OKC L 26 13 4 5 80.0 0 0 - 5 6 83.3 0 6 6 0 1 4 1 1 4
+p308
+aVChris Johnson MIN 02/22/2013 MIN @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p309
+aVAlexey Shved MIN 02/22/2013 MIN @ OKC L 25 17 7 12 58.3 1 5 20.0 2 2 100.0 0 4 4 2 1 1 2 2 0
+p310
+aVRicky Rubio MIN 02/22/2013 MIN @ OKC L 33 13 5 12 41.7 0 0 - 3 4 75.0 2 3 5 9 5 0 1 4 -5
+p311
+aVDante Cunningham MIN 02/22/2013 MIN @ OKC L 25 15 7 9 77.8 0 0 - 1 2 50.0 0 3 3 2 0 0 0 4 2
+p312
+aVLuke Ridnour MIN 02/22/2013 MIN @ OKC L 27 10 3 8 37.5 1 2 50.0 3 3 100.0 0 0 0 6 0 0 2 1 -15
+p313
+aVJ.J. Barea MIN 02/22/2013 MIN @ OKC L 25 14 6 10 60.0 2 4 50.0 0 1 0.0 0 3 3 4 0 0 1 6 -2
+p314
+aVJ.J. Barea MIN 02/20/2013 MIN vs. PHI W 20 6 2 7 28.6 0 2 0.0 2 2 100.0 0 3 3 2 0 0 1 1 -2
+p315
+aVAlexey Shved MIN 02/20/2013 MIN vs. PHI W 19 6 2 9 22.2 1 2 50.0 1 1 100.0 1 3 4 1 1 0 0 2 -1
+p316
+aVDante Cunningham MIN 02/20/2013 MIN vs. PHI W 19 2 1 6 16.7 0 0 - 0 0 - 0 4 4 1 0 0 0 2 4
+p317
+aVMickael Gelabale MIN 02/20/2013 MIN vs. PHI W 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 7
+p318
+aVRicky Rubio MIN 02/20/2013 MIN vs. PHI W 29 11 1 4 25.0 0 0 - 9 12 75.0 1 5 6 6 3 0 6 5 10
+p319
+aVLuke Ridnour MIN 02/20/2013 MIN vs. PHI W 31 8 2 8 25.0 1 4 25.0 3 4 75.0 1 1 2 5 1 0 2 3 7
+p320
+aVDerrick Williams MIN 02/20/2013 MIN vs. PHI W 36 17 7 12 58.3 2 4 50.0 1 2 50.0 0 8 8 1 1 0 2 0 0
+p321
+aVAndrei Kirilenko MIN 02/20/2013 MIN vs. PHI W 37 15 4 8 50.0 1 1 100.0 6 6 100.0 0 5 5 5 2 3 2 4 0
+p322
+aVNikola Pekovic MIN 02/20/2013 MIN vs. PHI W 41 27 9 16 56.3 0 0 - 9 15 60.0 7 11 18 0 1 2 2 5 10
+p323
+aVNikola Pekovic MIN 02/13/2013 MIN vs. UTA L 40 19 7 16 43.8 0 0 - 5 8 62.5 7 6 13 0 1 1 1 2 10
+p324
+aVMickael Gelabale MIN 02/13/2013 MIN vs. UTA L 24 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 1 2 4
+p325
+aVAlexey Shved MIN 02/13/2013 MIN vs. UTA L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -16
+p326
+aVLuke Ridnour MIN 02/13/2013 MIN vs. UTA L 37 18 7 15 46.7 2 6 33.3 2 2 100.0 1 2 3 2 0 0 1 6 14
+p327
+aVJ.J. Barea MIN 02/13/2013 MIN vs. UTA L 24 6 2 10 20.0 1 5 20.0 1 2 50.0 0 1 1 6 1 0 2 0 -3
+p328
+aVRicky Rubio MIN 02/13/2013 MIN vs. UTA L 40 18 3 13 23.1 0 3 0.0 12 13 92.3 2 7 9 10 4 1 2 1 0
+p329
+aVDante Cunningham MIN 02/13/2013 MIN vs. UTA L 20 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 0 2 0 1 4 -22
+p330
+aVGreg Stiemsma MIN 02/13/2013 MIN vs. UTA L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -11
+p331
+aVChris Johnson MIN 02/13/2013 MIN vs. UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p332
+aVDerrick Williams MIN 02/13/2013 MIN vs. UTA L 37 24 7 17 41.2 2 5 40.0 8 11 72.7 4 12 16 0 0 1 1 3 6
+p333
+aVDerrick Williams MIN 02/11/2013 MIN @ CLE W 16 13 4 9 44.4 1 2 50.0 4 5 80.0 0 5 5 1 0 1 1 4 1
+p334
+aVGreg Stiemsma MIN 02/11/2013 MIN @ CLE W 7 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 0 0 -4
+p335
+aVAlexey Shved MIN 02/11/2013 MIN @ CLE W 30 11 5 9 55.6 1 3 33.3 0 0 - 0 0 0 3 0 2 2 2 5
+p336
+aVRicky Rubio MIN 02/11/2013 MIN @ CLE W 33 13 5 9 55.6 1 1 100.0 2 2 100.0 0 3 3 10 5 0 7 5 3
+p337
+aVLuke Ridnour MIN 02/11/2013 MIN @ CLE W 37 21 9 14 64.3 1 2 50.0 2 2 100.0 1 3 4 3 1 0 3 2 6
+p338
+aVDante Cunningham MIN 02/11/2013 MIN @ CLE W 32 8 4 9 44.4 0 0 - 0 0 - 1 3 4 1 1 2 1 2 7
+p339
+aVJ.J. Barea MIN 02/11/2013 MIN @ CLE W 15 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 3 1 0 3 0 -6
+p340
+aVNikola Pekovic MIN 02/11/2013 MIN @ CLE W 40 16 6 14 42.9 0 0 - 4 6 66.7 5 5 10 2 2 0 2 0 12
+p341
+aVMickael Gelabale MIN 02/11/2013 MIN @ CLE W 28 11 3 4 75.0 3 3 100.0 2 2 100.0 2 4 6 2 0 0 1 2 16
+p342
+aVRicky Rubio MIN 02/10/2013 MIN @ MEM L 28 17 6 11 54.5 0 1 0.0 5 8 62.5 0 1 1 4 0 0 3 1 -10
+p343
+aVDante Cunningham MIN 02/10/2013 MIN @ MEM L 31 9 4 8 50.0 0 0 - 1 2 50.0 2 3 5 2 0 0 0 3 -6
+p344
+aVChris Johnson MIN 02/10/2013 MIN @ MEM L 12 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 0 1 0 5
+p345
+aVMickael Gelabale MIN 02/10/2013 MIN @ MEM L 36 14 5 7 71.4 2 3 66.7 2 2 100.0 1 2 3 1 0 0 1 3 -19
+p346
+aVAlexey Shved MIN 02/10/2013 MIN @ MEM L 31 10 4 8 50.0 0 3 0.0 2 4 50.0 0 1 1 9 2 0 5 0 -8
+p347
+aVDerrick Williams MIN 02/10/2013 MIN @ MEM L 25 9 4 11 36.4 0 3 0.0 1 2 50.0 0 6 6 1 2 0 1 3 -15
+p348
+aVNikola Pekovic MIN 02/10/2013 MIN @ MEM L 30 8 2 5 40.0 0 0 - 4 6 66.7 1 5 6 2 1 0 3 3 -18
+p349
+aVGreg Stiemsma MIN 02/10/2013 MIN @ MEM L 13 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 1 2 1 6 0
+p350
+aVLuke Ridnour MIN 02/10/2013 MIN @ MEM L 34 17 7 13 53.8 2 6 33.3 1 1 100.0 3 1 4 4 1 0 4 1 -14
+p351
+aVJ.J. Barea MIN 02/08/2013 MIN vs. NYK L 22 5 2 6 33.3 0 2 0.0 1 1 100.0 0 3 3 1 0 0 3 3 -9
+p352
+aVAlexey Shved MIN 02/08/2013 MIN vs. NYK L 26 8 3 10 30.0 0 2 0.0 2 3 66.7 1 3 4 0 1 0 0 0 -3
+p353
+aVRicky Rubio MIN 02/08/2013 MIN vs. NYK L 39 18 6 14 42.9 1 1 100.0 5 9 55.6 0 2 2 11 1 0 1 0 -3
+p354
+aVNikola Pekovic MIN 02/08/2013 MIN vs. NYK L 36 16 6 10 60.0 0 0 - 4 5 80.0 6 5 11 1 1 0 3 1 -11
+p355
+aVLuke Ridnour MIN 02/08/2013 MIN vs. NYK L 36 20 9 15 60.0 0 2 0.0 2 2 100.0 1 1 2 3 1 0 1 2 -7
+p356
+aVDerrick Williams MIN 02/08/2013 MIN vs. NYK L 33 19 8 17 47.1 0 6 0.0 3 4 75.0 1 5 6 1 1 1 0 5 4
+p357
+aVMickael Gelabale MIN 02/08/2013 MIN vs. NYK L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 -5
+p358
+aVGreg Stiemsma MIN 02/08/2013 MIN vs. NYK L 12 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 1 1 2 5
+p359
+aVChris Johnson MIN 02/08/2013 MIN vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p360
+aVDante Cunningham MIN 02/08/2013 MIN vs. NYK L 19 8 3 7 42.9 0 0 - 2 3 66.7 1 7 8 0 0 0 0 5 -7
+p361
+aVLuke Ridnour MIN 02/06/2013 MIN vs. SAS L 28 10 4 7 57.1 0 0 - 2 2 100.0 0 5 5 1 2 0 2 3 -8
+p362
+aVRicky Rubio MIN 02/06/2013 MIN vs. SAS L 37 9 3 13 23.1 0 1 0.0 3 4 75.0 0 4 4 11 3 0 3 4 -5
+p363
+aVNikola Pekovic MIN 02/06/2013 MIN vs. SAS L 35 21 5 9 55.6 0 0 - 11 12 91.7 4 6 10 0 0 1 4 2 -6
+p364
+aVGreg Stiemsma MIN 02/06/2013 MIN vs. SAS L 11 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 2 1 2 1
+p365
+aVDante Cunningham MIN 02/06/2013 MIN vs. SAS L 26 4 2 7 28.6 0 0 - 0 0 - 2 4 6 0 1 1 1 2 -15
+p366
+aVDerrick Williams MIN 02/06/2013 MIN vs. SAS L 28 15 5 12 41.7 2 5 40.0 3 4 75.0 1 11 12 0 0 0 1 1 -4
+p367
+aVMickael Gelabale MIN 02/06/2013 MIN vs. SAS L 34 10 4 7 57.1 2 3 66.7 0 0 - 2 1 3 0 0 0 0 2 0
+p368
+aVJ.J. Barea MIN 02/06/2013 MIN vs. SAS L 25 15 6 15 40.0 3 5 60.0 0 0 - 0 4 4 2 1 0 1 3 -10
+p369
+aVAlexey Shved MIN 02/06/2013 MIN vs. SAS L 18 7 3 9 33.3 1 4 25.0 0 0 - 2 2 4 2 0 1 2 0 -3
+p370
+aVRicky Rubio MIN 02/04/2013 MIN vs. POR L 33 15 4 9 44.4 0 0 - 7 8 87.5 0 2 2 14 1 0 4 3 9
+p371
+aVAlexey Shved MIN 02/04/2013 MIN vs. POR L 27 8 3 10 30.0 1 4 25.0 1 2 50.0 0 2 2 3 1 0 3 2 6
+p372
+aVLuke Ridnour MIN 02/04/2013 MIN vs. POR L 24 10 5 9 55.6 0 2 0.0 0 0 - 1 0 1 2 1 0 0 1 -15
+p373
+aVDante Cunningham MIN 02/04/2013 MIN vs. POR L 29 23 11 17 64.7 0 0 - 1 2 50.0 0 2 2 0 3 0 0 0 4
+p374
+aVAndrei Kirilenko MIN 02/04/2013 MIN vs. POR L 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -9
+p375
+aVMickael Gelabale MIN 02/04/2013 MIN vs. POR L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p376
+aVJ.J. Barea MIN 02/04/2013 MIN vs. POR L 27 17 7 13 53.8 1 4 25.0 2 2 100.0 1 2 3 3 1 0 1 3 6
+p377
+aVDerrick Williams MIN 02/04/2013 MIN vs. POR L 19 1 0 5 0.0 0 1 0.0 1 2 50.0 2 2 4 0 3 0 1 3 -6
+p378
+aVNikola Pekovic MIN 02/04/2013 MIN vs. POR L 35 13 5 11 45.5 0 0 - 3 3 100.0 4 7 11 1 1 0 2 3 -8
+p379
+aVGreg Stiemsma MIN 02/04/2013 MIN vs. POR L 13 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 1 2 0 2 6
+p380
+aVDante Cunningham MIN 02/02/2013 MIN vs. NOH W 26 18 9 9 100.0 0 0 - 0 0 - 2 2 4 1 2 0 1 2 27
+p381
+aVLuke Ridnour MIN 02/02/2013 MIN vs. NOH W 24 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 4 2 0 3 1 8
+p382
+aVNikola Pekovic MIN 02/02/2013 MIN vs. NOH W 24 14 5 10 50.0 0 0 - 4 5 80.0 3 4 7 0 1 1 3 4 13
+p383
+aVAlexey Shved MIN 02/02/2013 MIN vs. NOH W 25 12 4 11 36.4 1 5 20.0 3 4 75.0 1 3 4 8 0 1 2 1 21
+p384
+aVRicky Rubio MIN 02/02/2013 MIN vs. NOH W 23 9 3 5 60.0 0 0 - 3 4 75.0 2 1 3 7 1 0 1 3 8
+p385
+aVChris Johnson MIN 02/02/2013 MIN vs. NOH W 8 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 1 1 0 5 -4
+p386
+aVLou Amundson MIN 02/02/2013 MIN vs. NOH W 8 8 4 5 80.0 0 0 - 0 2 0.0 2 1 3 1 0 0 0 2 -4
+p387
+aVGreg Stiemsma MIN 02/02/2013 MIN vs. NOH W 16 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 1 2 0 3 20
+p388
+aVDerrick Williams MIN 02/02/2013 MIN vs. NOH W 14 5 1 3 33.3 0 1 0.0 3 4 75.0 1 2 3 0 1 0 1 1 6
+p389
+aVJ.J. Barea MIN 02/02/2013 MIN vs. NOH W 24 5 2 7 28.6 1 2 50.0 0 0 - 0 4 4 6 0 0 3 1 21
+p390
+aVMickael Gelabale MIN 02/02/2013 MIN vs. NOH W 21 11 4 5 80.0 1 2 50.0 2 2 100.0 1 4 5 0 1 0 1 3 14
+p391
+aVAndrei Kirilenko MIN 02/02/2013 MIN vs. NOH W 27 12 4 7 57.1 1 2 50.0 3 6 50.0 1 5 6 3 2 0 3 1 15
+p392
+aVMickael Gelabale MIN 02/01/2013 MIN vs. LAL L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -12
+p393
+aVJ.J. Barea MIN 02/01/2013 MIN vs. LAL L 23 14 6 10 60.0 2 4 50.0 0 1 0.0 0 1 1 3 0 0 4 4 -6
+p394
+aVLuke Ridnour MIN 02/01/2013 MIN vs. LAL L 25 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 2 1 1 0 4 -5
+p395
+aVDerrick Williams MIN 02/01/2013 MIN vs. LAL L 32 15 6 14 42.9 2 4 50.0 1 4 25.0 2 7 9 0 1 0 1 2 -4
+p396
+aVNikola Pekovic MIN 02/01/2013 MIN vs. LAL L 34 14 6 13 46.2 0 0 - 2 5 40.0 1 8 9 0 1 1 0 1 -10
+p397
+aVAndrei Kirilenko MIN 02/01/2013 MIN vs. LAL L 32 12 5 8 62.5 1 2 50.0 1 2 50.0 0 0 0 3 1 1 0 1 1
+p398
+aVChris Johnson MIN 02/01/2013 MIN vs. LAL L 11 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 2 1 0 1 1 6
+p399
+aVRicky Rubio MIN 02/01/2013 MIN vs. LAL L 29 9 4 9 44.4 0 0 - 1 2 50.0 0 4 4 7 2 0 3 3 -12
+p400
+aVAlexey Shved MIN 02/01/2013 MIN vs. LAL L 27 18 6 16 37.5 5 11 45.5 1 2 50.0 1 3 4 6 0 0 3 0 -5
+p401
+aVDante Cunningham MIN 02/01/2013 MIN vs. LAL L 21 6 3 8 37.5 0 0 - 0 0 - 1 5 6 0 1 1 1 1 -8
+p402
+aVDante Cunningham MIN 01/30/2013 MIN vs. LAC L 35 7 3 7 42.9 0 0 - 1 2 50.0 4 5 9 2 1 1 1 4 5
+p403
+aVAlexey Shved MIN 01/30/2013 MIN vs. LAC L 21 12 5 13 38.5 1 6 16.7 1 1 100.0 1 1 2 3 0 0 3 4 12
+p404
+aVDerrick Williams MIN 01/30/2013 MIN vs. LAC L 13 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 1 5 -11
+p405
+aVAndrei Kirilenko MIN 01/30/2013 MIN vs. LAC L 32 14 3 10 30.0 1 4 25.0 7 8 87.5 0 4 4 4 2 1 1 0 -10
+p406
+aVRicky Rubio MIN 01/30/2013 MIN vs. LAC L 27 9 4 9 44.4 0 1 0.0 1 2 50.0 1 2 3 4 2 0 2 3 -18
+p407
+aVGreg Stiemsma MIN 01/30/2013 MIN vs. LAC L 11 4 1 2 50.0 0 0 - 2 4 50.0 0 3 3 0 0 0 0 1 8
+p408
+aVNikola Pekovic MIN 01/30/2013 MIN vs. LAC L 37 17 8 15 53.3 0 0 - 1 2 50.0 2 10 12 1 0 1 1 3 -14
+p409
+aVJ.J. Barea MIN 01/30/2013 MIN vs. LAC L 24 14 4 8 50.0 1 3 33.3 5 7 71.4 0 1 1 4 1 0 1 3 5
+p410
+aVMickael Gelabale MIN 01/30/2013 MIN vs. LAC L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 3 0 0 0 4
+p411
+aVLuke Ridnour MIN 01/30/2013 MIN vs. LAC L 24 8 3 7 42.9 1 2 50.0 1 1 100.0 0 2 2 2 0 0 3 2 -11
+p412
+aVMickael Gelabale MIN 01/26/2013 MIN @ CHA L 21 4 1 4 25.0 1 3 33.3 1 1 100.0 1 1 2 0 0 0 2 3 -4
+p413
+aVAndrei Kirilenko MIN 01/26/2013 MIN @ CHA L 33 10 2 6 33.3 0 1 0.0 6 6 100.0 1 2 3 2 2 1 1 4 -7
+p414
+aVChris Johnson MIN 01/26/2013 MIN @ CHA L 13 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -11
+p415
+aVLuke Ridnour MIN 01/26/2013 MIN @ CHA L 41 22 9 14 64.3 3 5 60.0 1 1 100.0 0 7 7 7 1 1 3 1 7
+p416
+aVDante Cunningham MIN 01/26/2013 MIN @ CHA L 30 10 5 11 45.5 0 0 - 0 2 0.0 1 1 2 1 0 0 1 2 -11
+p417
+aVJ.J. Barea MIN 01/26/2013 MIN @ CHA L 32 19 7 18 38.9 4 7 57.1 1 1 100.0 0 5 5 4 0 0 2 4 -18
+p418
+aVGreg Stiemsma MIN 01/26/2013 MIN @ CHA L 24 11 4 4 100.0 0 0 - 3 4 75.0 2 5 7 0 0 2 2 3 5
+p419
+aVDerrick Williams MIN 01/26/2013 MIN @ CHA L 18 5 2 8 25.0 1 2 50.0 0 2 0.0 0 2 2 1 0 0 2 0 11
+p420
+aVRicky Rubio MIN 01/26/2013 MIN @ CHA L 29 14 4 9 44.4 1 2 50.0 5 6 83.3 1 0 1 8 5 0 2 4 23
+p421
+aVLou Amundson MIN 01/25/2013 MIN @ WAS L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 3 2
+p422
+aVAndrei Kirilenko MIN 01/25/2013 MIN @ WAS L 29 17 5 9 55.6 1 3 33.3 6 8 75.0 2 2 4 2 0 1 3 3 -13
+p423
+aVDante Cunningham MIN 01/25/2013 MIN @ WAS L 29 8 3 9 33.3 0 0 - 2 4 50.0 3 2 5 2 0 0 0 2 -10
+p424
+aVChris Johnson MIN 01/25/2013 MIN @ WAS L 21 9 3 6 50.0 0 0 - 3 6 50.0 3 2 5 0 1 1 2 4 -5
+p425
+aVGreg Stiemsma MIN 01/25/2013 MIN @ WAS L 19 2 1 3 33.3 0 0 - 0 0 - 1 1 2 6 2 0 1 3 -4
+p426
+aVJ.J. Barea MIN 01/25/2013 MIN @ WAS L 21 13 6 13 46.2 1 4 25.0 0 1 0.0 1 2 3 5 0 0 2 1 -1
+p427
+aVRicky Rubio MIN 01/25/2013 MIN @ WAS L 31 4 1 8 12.5 0 2 0.0 2 2 100.0 3 2 5 6 1 0 5 1 -14
+p428
+aVDerrick Williams MIN 01/25/2013 MIN @ WAS L 31 18 6 17 35.3 1 3 33.3 5 8 62.5 3 8 11 1 1 0 0 1 0
+p429
+aVMickael Gelabale MIN 01/25/2013 MIN @ WAS L 26 15 7 10 70.0 0 2 0.0 1 2 50.0 3 4 7 1 1 0 2 1 -4
+p430
+aVLuke Ridnour MIN 01/25/2013 MIN @ WAS L 30 14 7 12 58.3 0 0 - 0 0 - 3 1 4 4 2 0 0 1 -16
+p431
+aVRicky Rubio MIN 01/23/2013 MIN vs. BKN L 24 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 6 3 0 4 1 -8
+p432
+aVDerrick Williams MIN 01/23/2013 MIN vs. BKN L 24 9 4 11 36.4 0 0 - 1 1 100.0 2 4 6 0 0 0 0 0 -2
+p433
+aVChris Johnson MIN 01/23/2013 MIN vs. BKN L 24 12 6 10 60.0 0 0 - 0 0 - 1 5 6 2 0 3 0 2 -6
+p434
+aVGreg Stiemsma MIN 01/23/2013 MIN vs. BKN L 17 2 1 5 20.0 0 0 - 0 0 - 1 3 4 1 0 2 1 3 -11
+p435
+aVMickael Gelabale MIN 01/23/2013 MIN vs. BKN L 25 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 0 0 1 1 0
+p436
+aVAndrei Kirilenko MIN 01/23/2013 MIN vs. BKN L 41 15 6 10 60.0 1 3 33.3 2 3 66.7 1 5 6 4 1 0 2 1 -8
+p437
+aVJ.J. Barea MIN 01/23/2013 MIN vs. BKN L 24 11 5 11 45.5 1 4 25.0 0 0 - 1 3 4 8 1 0 3 5 0
+p438
+aVDante Cunningham MIN 01/23/2013 MIN vs. BKN L 31 14 7 12 58.3 0 1 0.0 0 0 - 0 3 3 0 2 1 1 0 3
+p439
+aVLuke Ridnour MIN 01/23/2013 MIN vs. BKN L 31 13 6 15 40.0 1 4 25.0 0 0 - 0 4 4 3 0 1 1 4 -8
+p440
+aVJ.J. Barea MIN 01/21/2013 MIN @ ATL L 23 14 6 11 54.5 2 5 40.0 0 0 - 2 1 3 7 2 0 3 1 6
+p441
+aVAndrei Kirilenko MIN 01/21/2013 MIN @ ATL L 35 13 3 8 37.5 1 3 33.3 6 6 100.0 2 4 6 5 2 0 6 1 -6
+p442
+aVRicky Rubio MIN 01/21/2013 MIN @ ATL L 25 5 1 4 25.0 0 0 - 3 4 75.0 0 2 2 6 2 0 2 1 -14
+p443
+aVChris Johnson MIN 01/21/2013 MIN @ ATL L 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 5 0
+p444
+aVDerrick Williams MIN 01/21/2013 MIN @ ATL L 37 17 7 14 50.0 1 4 25.0 2 2 100.0 2 2 4 0 1 1 1 3 -16
+p445
+aVMickael Gelabale MIN 01/21/2013 MIN @ ATL L 16 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p446
+aVLuke Ridnour MIN 01/21/2013 MIN @ ATL L 34 12 5 13 38.5 0 1 0.0 2 4 50.0 2 1 3 2 3 0 3 4 -6
+p447
+aVGreg Stiemsma MIN 01/21/2013 MIN @ ATL L 28 11 3 7 42.9 0 0 - 5 8 62.5 1 4 5 1 0 2 0 2 5
+p448
+aVDante Cunningham MIN 01/21/2013 MIN @ ATL L 26 13 6 10 60.0 0 0 - 1 2 50.0 1 3 4 2 2 2 1 1 -8
+p449
+aVLou Amundson MIN 01/21/2013 MIN @ ATL L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 2
+p450
+aVDerrick Williams MIN 01/19/2013 MIN vs. HOU W 29 11 3 9 33.3 1 3 33.3 4 4 100.0 0 5 5 1 1 0 3 1 12
+p451
+aVAndrei Kirilenko MIN 01/19/2013 MIN vs. HOU W 42 21 8 11 72.7 0 2 0.0 5 8 62.5 5 6 11 2 3 0 3 0 19
+p452
+aVGreg Stiemsma MIN 01/19/2013 MIN vs. HOU W 22 0 0 4 0.0 0 0 - 0 0 - 0 5 5 0 0 2 0 2 20
+p453
+aVLou Amundson MIN 01/19/2013 MIN vs. HOU W 16 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -15
+p454
+aVJ.J. Barea MIN 01/19/2013 MIN vs. HOU W 25 11 5 13 38.5 1 3 33.3 0 0 - 0 0 0 3 0 0 3 2 -4
+p455
+aVRicky Rubio MIN 01/19/2013 MIN vs. HOU W 30 7 1 3 33.3 0 1 0.0 5 6 83.3 0 1 1 6 0 0 2 2 16
+p456
+aVLuke Ridnour MIN 01/19/2013 MIN vs. HOU W 37 16 6 13 46.2 1 3 33.3 3 3 100.0 0 2 2 1 0 1 3 4 21
+p457
+aVChris Johnson MIN 01/19/2013 MIN vs. HOU W 18 15 4 4 100.0 0 0 - 7 8 87.5 3 3 6 0 0 1 0 4 0
+p458
+aVMickael Gelabale MIN 01/19/2013 MIN vs. HOU W 21 11 3 6 50.0 0 2 0.0 5 7 71.4 0 4 4 1 0 0 0 2 -4
+p459
+aVNikola Pekovic MIN 01/17/2013 MIN vs. LAC L 26 4 1 8 12.5 0 0 - 2 4 50.0 3 6 9 0 0 0 1 1 -3
+p460
+aVRicky Rubio MIN 01/17/2013 MIN vs. LAC L 27 4 2 9 22.2 0 1 0.0 0 0 - 1 2 3 6 1 0 2 0 -5
+p461
+aVDante Cunningham MIN 01/17/2013 MIN vs. LAC L 32 7 2 9 22.2 0 0 - 3 4 75.0 4 3 7 1 0 1 1 2 -9
+p462
+aVAndrei Kirilenko MIN 01/17/2013 MIN vs. LAC L 36 15 7 12 58.3 1 5 20.0 0 2 0.0 1 4 5 2 4 0 3 2 -7
+p463
+aVGreg Stiemsma MIN 01/17/2013 MIN vs. LAC L 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 1 0 1 -6
+p464
+aVDerrick Williams MIN 01/17/2013 MIN vs. LAC L 31 10 3 9 33.3 0 2 0.0 4 4 100.0 3 4 7 1 1 2 2 4 -15
+p465
+aVAlexey Shved MIN 01/17/2013 MIN vs. LAC L 20 8 2 7 28.6 0 2 0.0 4 6 66.7 1 2 3 2 1 0 2 2 -5
+p466
+aVLuke Ridnour MIN 01/17/2013 MIN vs. LAC L 34 21 9 17 52.9 3 6 50.0 0 0 - 0 4 4 5 1 1 1 1 -9
+p467
+aVJ.J. Barea MIN 01/17/2013 MIN vs. LAC L 19 4 2 10 20.0 0 3 0.0 0 0 - 0 1 1 2 0 0 2 4 -6
+p468
+aVGreg Stiemsma MIN 01/14/2013 MIN @ DAL L 16 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 0 0 0 3 2 9
+p469
+aVDerrick Williams MIN 01/14/2013 MIN @ DAL L 26 9 4 10 40.0 0 3 0.0 1 2 50.0 2 2 4 0 2 0 1 1 1
+p470
+aVDante Cunningham MIN 01/14/2013 MIN @ DAL L 39 12 6 18 33.3 0 0 - 0 0 - 3 3 6 0 0 0 1 0 -9
+p471
+aVNikola Pekovic MIN 01/14/2013 MIN @ DAL L 32 20 8 11 72.7 0 0 - 4 10 40.0 4 8 12 0 1 0 1 3 -24
+p472
+aVRicky Rubio MIN 01/14/2013 MIN @ DAL L 26 6 2 3 66.7 0 0 - 2 2 100.0 3 2 5 6 0 0 2 2 7
+p473
+aVAndrei Kirilenko MIN 01/14/2013 MIN @ DAL L 32 10 3 9 33.3 0 3 0.0 4 4 100.0 6 3 9 3 1 1 1 0 -22
+p474
+aVAlexey Shved MIN 01/14/2013 MIN @ DAL L 22 7 1 7 14.3 1 3 33.3 4 4 100.0 0 1 1 3 0 1 1 3 -22
+p475
+aVJ.J. Barea MIN 01/14/2013 MIN @ DAL L 26 21 6 13 46.2 4 7 57.1 5 5 100.0 0 3 3 5 0 0 3 2 3
+p476
+aVLuke Ridnour MIN 01/14/2013 MIN @ DAL L 22 7 3 9 33.3 1 4 25.0 0 0 - 0 1 1 2 0 0 2 2 -18
+p477
+aVLazar Hayward MIN 01/13/2013 MIN @ SAS L 9 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 2 0 0 0 -2
+p478
+aVLou Amundson MIN 01/13/2013 MIN @ SAS L 5 2 1 4 25.0 0 0 - 0 0 - 3 2 5 0 0 0 1 2 -1
+p479
+aVGreg Stiemsma MIN 01/13/2013 MIN @ SAS L 19 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 0 0 1 2 2 -15
+p480
+aVRicky Rubio MIN 01/13/2013 MIN @ SAS L 22 4 0 6 0.0 0 1 0.0 4 4 100.0 0 0 0 2 3 0 2 0 -24
+p481
+aVAndrei Kirilenko MIN 01/13/2013 MIN @ SAS L 33 9 4 8 50.0 1 2 50.0 0 0 - 4 7 11 2 3 1 0 1 -13
+p482
+aVLuke Ridnour MIN 01/13/2013 MIN @ SAS L 26 13 6 11 54.5 1 2 50.0 0 1 0.0 0 1 1 6 1 0 1 2 6
+p483
+aVDante Cunningham MIN 01/13/2013 MIN @ SAS L 29 11 5 11 45.5 0 0 - 1 2 50.0 3 2 5 1 1 0 0 2 -3
+p484
+aVDerrick Williams MIN 01/13/2013 MIN @ SAS L 24 8 3 9 33.3 1 3 33.3 1 2 50.0 2 2 4 0 0 0 0 1 -17
+p485
+aVNikola Pekovic MIN 01/13/2013 MIN @ SAS L 29 14 6 12 50.0 0 0 - 2 2 100.0 1 3 4 0 0 2 2 0 -3
+p486
+aVJ.J. Barea MIN 01/13/2013 MIN @ SAS L 20 15 4 11 36.4 1 5 20.0 6 6 100.0 0 2 2 6 0 0 5 0 -12
+p487
+aVAlexey Shved MIN 01/13/2013 MIN @ SAS L 25 2 0 7 0.0 0 2 0.0 2 4 50.0 0 1 1 5 2 1 0 0 -6
+p488
+aVLou Amundson MIN 01/11/2013 MIN @ NOH L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p489
+aVDerrick Williams MIN 01/11/2013 MIN @ NOH L 25 9 3 7 42.9 0 2 0.0 3 3 100.0 0 3 3 0 1 0 0 2 -12
+p490
+aVGreg Stiemsma MIN 01/11/2013 MIN @ NOH L 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 1 3 0
+p491
+aVNikola Pekovic MIN 01/11/2013 MIN @ NOH L 29 18 7 13 53.8 0 0 - 4 7 57.1 2 4 6 2 0 2 1 1 -10
+p492
+aVRicky Rubio MIN 01/11/2013 MIN @ NOH L 22 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 3 1 0 4 1 -6
+p493
+aVAlexey Shved MIN 01/11/2013 MIN @ NOH L 37 11 4 12 33.3 1 5 20.0 2 2 100.0 0 0 0 7 2 1 1 0 -4
+p494
+aVAndrei Kirilenko MIN 01/11/2013 MIN @ NOH L 37 17 4 8 50.0 1 4 25.0 8 10 80.0 0 5 5 2 2 1 3 1 -9
+p495
+aVLuke Ridnour MIN 01/11/2013 MIN @ NOH L 35 20 6 12 50.0 2 6 33.3 6 7 85.7 0 4 4 4 0 0 1 3 -6
+p496
+aVDante Cunningham MIN 01/11/2013 MIN @ NOH L 39 12 5 12 41.7 0 0 - 2 2 100.0 2 7 9 1 1 0 3 2 -12
+p497
+aVNikola Pekovic MIN 01/09/2013 MIN @ OKC L 27 17 6 10 60.0 0 0 - 5 6 83.3 5 5 10 0 0 0 0 1 -3
+p498
+aVRicky Rubio MIN 01/09/2013 MIN @ OKC L 22 0 0 3 0.0 0 0 - 0 0 - 0 2 2 7 0 0 2 1 -12
+p499
+aVLuke Ridnour MIN 01/09/2013 MIN @ OKC L 31 11 4 9 44.4 0 1 0.0 3 4 75.0 0 2 2 6 4 0 3 3 -11
+p500
+aVAndrei Kirilenko MIN 01/09/2013 MIN @ OKC L 30 10 3 9 33.3 1 4 25.0 3 4 75.0 2 3 5 4 0 2 3 2 -2
+p501
+aVDante Cunningham MIN 01/09/2013 MIN @ OKC L 33 4 2 6 33.3 0 0 - 0 1 0.0 2 3 5 1 1 1 2 1 -7
+p502
+aVGreg Stiemsma MIN 01/09/2013 MIN @ OKC L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 6 -12
+p503
+aVLou Amundson MIN 01/09/2013 MIN @ OKC L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p504
+aVLazar Hayward MIN 01/09/2013 MIN @ OKC L 10 8 2 4 50.0 0 1 0.0 4 4 100.0 0 0 0 0 0 0 0 2 -14
+p505
+aVAlexey Shved MIN 01/09/2013 MIN @ OKC L 39 18 6 13 46.2 2 5 40.0 4 5 80.0 0 1 1 3 2 0 7 1 -19
+p506
+aVDerrick Williams MIN 01/09/2013 MIN @ OKC L 28 14 7 15 46.7 0 1 0.0 0 0 - 2 9 11 0 1 0 1 1 -23
+p507
+aVRicky Rubio MIN 01/08/2013 MIN vs. ATL W 19 4 0 0 - 0 0 - 4 6 66.7 0 1 1 8 4 0 2 4 10
+p508
+aVLuke Ridnour MIN 01/08/2013 MIN vs. ATL W 30 10 4 11 36.4 0 0 - 2 2 100.0 2 3 5 4 0 0 1 2 -4
+p509
+aVGreg Stiemsma MIN 01/08/2013 MIN vs. ATL W 13 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 1 0 0 0 3 1
+p510
+aVNikola Pekovic MIN 01/08/2013 MIN vs. ATL W 35 25 9 15 60.0 0 0 - 7 8 87.5 6 12 18 1 0 1 1 2 4
+p511
+aVAlexey Shved MIN 01/08/2013 MIN vs. ATL W 42 15 6 15 40.0 2 5 40.0 1 3 33.3 0 2 2 7 2 2 3 2 0
+p512
+aVJ.J. Barea MIN 01/08/2013 MIN vs. ATL W 19 5 2 10 20.0 1 3 33.3 0 0 - 1 1 2 1 0 0 1 0 2
+p513
+aVDerrick Williams MIN 01/08/2013 MIN vs. ATL W 21 17 7 13 53.8 3 5 60.0 0 0 - 0 1 1 1 0 0 0 1 5
+p514
+aVAndrei Kirilenko MIN 01/08/2013 MIN vs. ATL W 34 21 7 11 63.6 2 2 100.0 5 5 100.0 1 5 6 5 0 0 0 0 7
+p515
+aVDante Cunningham MIN 01/08/2013 MIN vs. ATL W 27 6 3 9 33.3 0 0 - 0 0 - 2 3 5 1 3 0 1 2 0
+p516
+aVDerrick Williams MIN 01/05/2013 MIN vs. POR L 18 18 6 10 60.0 2 3 66.7 4 5 80.0 1 5 6 0 2 0 3 0 4
+p517
+aVJ.J. Barea MIN 01/05/2013 MIN vs. POR L 26 14 5 13 38.5 2 5 40.0 2 2 100.0 0 3 3 7 0 0 2 4 7
+p518
+aVGreg Stiemsma MIN 01/05/2013 MIN vs. POR L 14 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 2 1 1 -14
+p519
+aVDante Cunningham MIN 01/05/2013 MIN vs. POR L 42 10 5 13 38.5 0 0 - 0 0 - 4 8 12 2 2 3 0 1 4
+p520
+aVLuke Ridnour MIN 01/05/2013 MIN vs. POR L 35 15 4 11 36.4 0 3 0.0 7 8 87.5 1 1 2 4 1 0 2 3 1
+p521
+aVAlexey Shved MIN 01/05/2013 MIN vs. POR L 30 2 1 11 9.1 0 3 0.0 0 0 - 1 2 3 7 0 1 3 1 -11
+p522
+aVLazar Hayward MIN 01/05/2013 MIN vs. POR L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p523
+aVLou Amundson MIN 01/05/2013 MIN vs. POR L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p524
+aVAndrei Kirilenko MIN 01/05/2013 MIN vs. POR L 42 15 7 13 53.8 1 1 100.0 0 0 - 3 4 7 2 1 0 2 0 4
+p525
+aVNikola Pekovic MIN 01/05/2013 MIN vs. POR L 22 21 9 14 64.3 0 0 - 3 3 100.0 8 7 15 0 0 2 0 2 -4
+p526
+aVAlexey Shved MIN 01/03/2013 MIN @ DEN W 34 17 7 13 53.8 1 4 25.0 2 2 100.0 2 2 4 5 0 0 5 1 -7
+p527
+aVJ.J. Barea MIN 01/03/2013 MIN @ DEN W 25 17 6 10 60.0 2 3 66.7 3 4 75.0 0 4 4 5 0 0 3 2 20
+p528
+aVDante Cunningham MIN 01/03/2013 MIN @ DEN W 27 6 2 5 40.0 0 0 - 2 4 50.0 4 4 8 4 0 0 0 2 22
+p529
+aVAndrei Kirilenko MIN 01/03/2013 MIN @ DEN W 33 14 4 9 44.4 1 2 50.0 5 8 62.5 0 4 4 3 0 3 1 1 -1
+p530
+aVGreg Stiemsma MIN 01/03/2013 MIN @ DEN W 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 2 11
+p531
+aVDerrick Williams MIN 01/03/2013 MIN @ DEN W 18 8 3 7 42.9 0 1 0.0 2 2 100.0 1 3 4 0 0 0 1 1 6
+p532
+aVNikola Pekovic MIN 01/03/2013 MIN @ DEN W 29 11 4 9 44.4 0 0 - 3 5 60.0 3 3 6 0 0 0 0 5 -13
+p533
+aVLuke Ridnour MIN 01/03/2013 MIN @ DEN W 37 14 6 14 42.9 2 4 50.0 0 0 - 1 3 4 2 1 0 2 2 -6
+p534
+aVKevin Love MIN 01/03/2013 MIN @ DEN W 24 12 4 13 30.8 0 2 0.0 4 5 80.0 5 12 17 2 0 0 1 1 -12
+p535
+aVLou Amundson MIN 01/02/2013 MIN @ UTA L 13 8 4 8 50.0 0 0 - 0 3 0.0 5 1 6 0 1 1 1 1 -10
+p536
+aVJ.J. Barea MIN 01/02/2013 MIN @ UTA L 20 4 1 8 12.5 0 1 0.0 2 2 100.0 0 1 1 4 0 0 1 0 -15
+p537
+aVNikola Pekovic MIN 01/02/2013 MIN @ UTA L 30 11 4 9 44.4 0 0 - 3 4 75.0 3 1 4 0 1 4 1 1 -1
+p538
+aVDerrick Williams MIN 01/02/2013 MIN @ UTA L 18 7 2 5 40.0 0 1 0.0 3 4 75.0 1 1 2 1 2 2 1 2 -18
+p539
+aVKevin Love MIN 01/02/2013 MIN @ UTA L 30 13 4 14 28.6 0 4 0.0 5 5 100.0 4 6 10 3 1 2 1 1 -4
+p540
+aVLazar Hayward MIN 01/02/2013 MIN @ UTA L 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 1 -3
+p541
+aVAndrei Kirilenko MIN 01/02/2013 MIN @ UTA L 30 12 4 7 57.1 0 1 0.0 4 4 100.0 3 4 7 2 0 2 0 1 -2
+p542
+aVGreg Stiemsma MIN 01/02/2013 MIN @ UTA L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 6 -15
+p543
+aVLuke Ridnour MIN 01/02/2013 MIN @ UTA L 31 8 4 11 36.4 0 1 0.0 0 0 - 0 3 3 2 0 0 2 3 -14
+p544
+aVAlexey Shved MIN 01/02/2013 MIN @ UTA L 36 13 3 10 30.0 2 7 28.6 5 6 83.3 0 3 3 2 0 1 2 1 -17
+p545
+aVDante Cunningham MIN 01/02/2013 MIN @ UTA L 18 4 2 9 22.2 0 1 0.0 0 0 - 0 3 3 1 1 0 1 1 -11
+p546
+aVAlexey Shved MIN 12/29/2012 MIN vs. PHX W 34 12 3 6 50.0 1 4 25.0 5 6 83.3 0 4 4 10 0 0 3 4 3
+p547
+aVAndrei Kirilenko MIN 12/29/2012 MIN vs. PHX W 34 20 10 13 76.9 0 0 - 0 0 - 2 3 5 4 0 0 1 2 9
+p548
+aVJ.J. Barea MIN 12/29/2012 MIN vs. PHX W 27 10 5 13 38.5 0 3 0.0 0 2 0.0 0 1 1 5 0 0 2 2 2
+p549
+aVKevin Love MIN 12/29/2012 MIN vs. PHX W 41 23 8 20 40.0 2 6 33.3 5 7 71.4 2 16 18 1 0 0 2 3 6
+p550
+aVLuke Ridnour MIN 12/29/2012 MIN vs. PHX W 31 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 4 0 0 1 1 8
+p551
+aVGreg Stiemsma MIN 12/29/2012 MIN vs. PHX W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -1
+p552
+aVDante Cunningham MIN 12/29/2012 MIN vs. PHX W 18 2 0 2 0.0 0 0 - 2 4 50.0 0 7 7 1 1 0 0 1 -7
+p553
+aVDerrick Williams MIN 12/29/2012 MIN vs. PHX W 14 10 3 6 50.0 2 3 66.7 2 3 66.7 1 0 1 1 0 1 1 0 -5
+p554
+aVNikola Pekovic MIN 12/29/2012 MIN vs. PHX W 34 28 13 20 65.0 0 0 - 2 4 50.0 6 5 11 1 1 1 0 1 5
+p555
+aVDante Cunningham MIN 12/26/2012 MIN vs. HOU L 37 8 4 6 66.7 0 0 - 0 0 - 2 7 9 2 3 2 0 2 -5
+p556
+aVDerrick Williams MIN 12/26/2012 MIN vs. HOU L 17 9 3 7 42.9 2 3 66.7 1 2 50.0 1 3 4 0 0 0 0 1 4
+p557
+aVNikola Pekovic MIN 12/26/2012 MIN vs. HOU L 23 2 1 7 14.3 0 0 - 0 0 - 2 5 7 0 0 0 1 1 3
+p558
+aVKevin Love MIN 12/26/2012 MIN vs. HOU L 36 7 3 14 21.4 0 7 0.0 1 1 100.0 3 9 12 3 0 1 5 1 -4
+p559
+aVJ.J. Barea MIN 12/26/2012 MIN vs. HOU L 28 18 7 14 50.0 2 6 33.3 2 2 100.0 1 6 7 3 1 0 4 2 0
+p560
+aVLuke Ridnour MIN 12/26/2012 MIN vs. HOU L 19 8 3 10 30.0 1 3 33.3 1 2 50.0 1 3 4 4 1 0 1 0 -1
+p561
+aVAlexey Shved MIN 12/26/2012 MIN vs. HOU L 30 16 7 15 46.7 2 7 28.6 0 0 - 0 2 2 3 2 0 1 2 -1
+p562
+aVAndrei Kirilenko MIN 12/26/2012 MIN vs. HOU L 29 8 2 6 33.3 0 1 0.0 4 6 66.7 2 3 5 1 2 1 2 0 -2
+p563
+aVRicky Rubio MIN 12/26/2012 MIN vs. HOU L 21 8 2 5 40.0 0 1 0.0 4 4 100.0 0 0 0 2 1 0 0 3 -9
+p564
+aVAlexey Shved MIN 12/23/2012 MIN @ NYK L 39 18 7 16 43.8 4 9 44.4 0 0 - 1 4 5 4 1 0 5 2 -2
+p565
+aVJ.J. Barea MIN 12/23/2012 MIN @ NYK L 38 12 4 14 28.6 1 5 20.0 3 3 100.0 1 4 5 4 0 0 2 2 1
+p566
+aVDante Cunningham MIN 12/23/2012 MIN @ NYK L 28 12 6 10 60.0 0 0 - 0 0 - 3 7 10 1 1 0 0 3 -1
+p567
+aVLuke Ridnour MIN 12/23/2012 MIN @ NYK L 38 14 5 13 38.5 1 5 20.0 3 3 100.0 0 1 1 5 0 0 0 2 -4
+p568
+aVGreg Stiemsma MIN 12/23/2012 MIN @ NYK L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 2 1 1 -4
+p569
+aVNikola Pekovic MIN 12/23/2012 MIN @ NYK L 40 21 7 16 43.8 0 0 - 7 8 87.5 6 11 17 2 0 0 1 2 1
+p570
+aVDerrick Williams MIN 12/23/2012 MIN @ NYK L 12 5 1 3 33.3 1 2 50.0 2 2 100.0 1 4 5 0 0 0 1 0 -4
+p571
+aVAndrei Kirilenko MIN 12/23/2012 MIN @ NYK L 20 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 2 2 0 1 6 -2
+p572
+aVRicky Rubio MIN 12/23/2012 MIN @ NYK L 18 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 2 0 0 5 4 0
+p573
+aVDante Cunningham MIN 12/20/2012 MIN vs. OKC W 15 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -3
+p574
+aVGreg Stiemsma MIN 12/20/2012 MIN vs. OKC W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p575
+aVLuke Ridnour MIN 12/20/2012 MIN vs. OKC W 23 4 1 4 25.0 0 1 0.0 2 2 100.0 0 3 3 1 2 0 1 2 11
+p576
+aVAlexey Shved MIN 12/20/2012 MIN vs. OKC W 33 12 5 10 50.0 2 4 50.0 0 0 - 2 5 7 12 1 0 1 4 6
+p577
+aVKevin Love MIN 12/20/2012 MIN vs. OKC W 40 28 9 20 45.0 4 9 44.4 6 8 75.0 2 9 11 7 0 2 1 1 2
+p578
+aVRicky Rubio MIN 12/20/2012 MIN vs. OKC W 18 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 3 1 0 2 0 0
+p579
+aVJ.J. Barea MIN 12/20/2012 MIN vs. OKC W 23 18 7 13 53.8 3 4 75.0 1 3 33.3 2 2 4 2 1 0 2 3 -3
+p580
+aVNikola Pekovic MIN 12/20/2012 MIN vs. OKC W 38 24 10 18 55.6 0 0 - 4 4 100.0 2 8 10 0 1 2 2 2 12
+p581
+aVAndrei Kirilenko MIN 12/20/2012 MIN vs. OKC W 40 9 3 10 30.0 0 1 0.0 3 4 75.0 3 1 4 2 0 0 5 6 9
+p582
+aVDerrick Williams MIN 12/20/2012 MIN vs. OKC W 5 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -3
+p583
+aVJ.J. Barea MIN 12/18/2012 MIN @ MIA L 25 10 3 9 33.3 1 3 33.3 3 3 100.0 0 4 4 3 0 0 3 2 -3
+p584
+aVGreg Stiemsma MIN 12/18/2012 MIN @ MIA L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 8
+p585
+aVLou Amundson MIN 12/18/2012 MIN @ MIA L 7 6 3 3 100.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 0 8
+p586
+aVLuke Ridnour MIN 12/18/2012 MIN @ MIA L 33 13 6 13 46.2 0 4 0.0 1 1 100.0 1 2 3 1 1 0 3 4 -8
+p587
+aVAndrei Kirilenko MIN 12/18/2012 MIN @ MIA L 30 22 10 16 62.5 2 3 66.7 0 0 - 1 3 4 2 1 0 0 0 -7
+p588
+aVNikola Pekovic MIN 12/18/2012 MIN @ MIA L 33 18 9 19 47.4 0 0 - 0 0 - 9 3 12 0 1 0 6 2 -20
+p589
+aVDante Cunningham MIN 12/18/2012 MIN @ MIA L 19 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -6
+p590
+aVDerrick Williams MIN 12/18/2012 MIN @ MIA L 22 8 2 6 33.3 1 3 33.3 3 4 75.0 0 3 3 0 1 0 1 4 -8
+p591
+aVKevin Love MIN 12/18/2012 MIN @ MIA L 33 11 2 10 20.0 0 0 - 7 8 87.5 3 15 18 3 0 0 3 3 -15
+p592
+aVAlexey Shved MIN 12/18/2012 MIN @ MIA L 31 2 1 7 14.3 0 4 0.0 0 2 0.0 1 0 1 8 0 0 3 4 -4
+p593
+aVGreg Stiemsma MIN 12/17/2012 MIN @ ORL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 2 2
+p594
+aVAlexey Shved MIN 12/17/2012 MIN @ ORL L 28 3 1 8 12.5 1 6 16.7 0 0 - 0 0 0 5 0 0 4 2 0
+p595
+aVLuke Ridnour MIN 12/17/2012 MIN @ ORL L 32 11 4 7 57.1 2 3 66.7 1 1 100.0 0 2 2 3 0 0 2 2 5
+p596
+aVNikola Pekovic MIN 12/17/2012 MIN @ ORL L 36 19 8 18 44.4 0 0 - 3 5 60.0 7 5 12 0 0 0 4 4 -6
+p597
+aVDante Cunningham MIN 12/17/2012 MIN @ ORL L 16 10 5 10 50.0 0 0 - 0 0 - 2 2 4 1 0 0 0 0 -10
+p598
+aVJ.J. Barea MIN 12/17/2012 MIN @ ORL L 22 10 4 13 30.8 2 5 40.0 0 0 - 0 0 0 6 0 0 0 1 -18
+p599
+aVRicky Rubio MIN 12/17/2012 MIN @ ORL L 16 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 4 1 0 3 2 -8
+p600
+aVAndrei Kirilenko MIN 12/17/2012 MIN @ ORL L 35 13 5 13 38.5 0 3 0.0 3 4 75.0 2 2 4 6 2 0 2 1 -6
+p601
+aVKevin Love MIN 12/17/2012 MIN @ ORL L 38 23 10 20 50.0 2 6 33.3 1 2 50.0 2 13 15 0 3 0 2 0 -4
+p602
+aVDerrick Williams MIN 12/17/2012 MIN @ ORL L 10 4 2 3 66.7 0 1 0.0 0 0 - 0 4 4 0 1 0 0 1 0
+p603
+aVLuke Ridnour MIN 12/15/2012 MIN vs. DAL W 40 15 7 17 41.2 1 7 14.3 0 0 - 1 5 6 4 1 0 2 3 3
+p604
+aVDante Cunningham MIN 12/15/2012 MIN vs. DAL W 26 4 2 7 28.6 0 0 - 0 0 - 2 3 5 0 3 0 1 2 -15
+p605
+aVAndrei Kirilenko MIN 12/15/2012 MIN vs. DAL W 41 14 4 10 40.0 0 3 0.0 6 7 85.7 3 7 10 3 2 2 2 1 0
+p606
+aVDerrick Williams MIN 12/15/2012 MIN vs. DAL W 19 16 5 9 55.6 0 2 0.0 6 6 100.0 2 4 6 0 0 0 1 0 16
+p607
+aVRicky Rubio MIN 12/15/2012 MIN vs. DAL W 18 8 1 4 25.0 0 3 0.0 6 8 75.0 1 3 4 9 3 0 2 2 1
+p608
+aVNikola Pekovic MIN 12/15/2012 MIN vs. DAL W 43 21 10 21 47.6 0 0 - 1 1 100.0 7 2 9 3 0 0 1 0 -5
+p609
+aVGreg Stiemsma MIN 12/15/2012 MIN vs. DAL W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 2 3 1 3 13
+p610
+aVJ.J. Barea MIN 12/15/2012 MIN vs. DAL W 24 14 5 12 41.7 2 3 66.7 2 2 100.0 1 4 5 3 2 0 3 3 15
+p611
+aVAlexey Shved MIN 12/15/2012 MIN vs. DAL W 44 18 6 12 50.0 3 5 60.0 3 6 50.0 0 2 2 6 2 0 3 4 12
+p612
+aVAlexey Shved MIN 12/14/2012 MIN @ NOH W 35 13 5 8 62.5 3 4 75.0 0 1 0.0 0 2 2 8 2 0 2 2 7
+p613
+aVJosh Howard MIN 12/14/2012 MIN @ NOH W 7 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 1 4
+p614
+aVDerrick Williams MIN 12/14/2012 MIN @ NOH W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -2
+p615
+aVLuke Ridnour MIN 12/14/2012 MIN @ NOH W 38 15 5 6 83.3 3 3 100.0 2 2 100.0 1 2 3 10 4 0 1 2 9
+p616
+aVDante Cunningham MIN 12/14/2012 MIN @ NOH W 20 2 1 6 16.7 0 0 - 0 0 - 3 0 3 0 0 0 1 0 -3
+p617
+aVGreg Stiemsma MIN 12/14/2012 MIN @ NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 1 2 2
+p618
+aVAndrei Kirilenko MIN 12/14/2012 MIN @ NOH W 39 21 10 16 62.5 0 2 0.0 1 1 100.0 2 9 11 2 1 1 1 0 13
+p619
+aVNikola Pekovic MIN 12/14/2012 MIN @ NOH W 32 31 14 18 77.8 0 0 - 3 4 75.0 4 1 5 1 1 0 2 3 14
+p620
+aVJ.J. Barea MIN 12/14/2012 MIN @ NOH W 23 12 6 12 50.0 0 2 0.0 0 0 - 1 4 5 5 1 0 1 0 2
+p621
+aVKevin Love MIN 12/14/2012 MIN @ NOH W 36 14 4 18 22.2 1 4 25.0 5 7 71.4 3 6 9 3 0 0 1 1 9
+p622
+aVDerrick Williams MIN 12/12/2012 MIN vs. DEN W 13 6 2 6 33.3 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 1 8
+p623
+aVMalcolm Lee MIN 12/12/2012 MIN vs. DEN W 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 2 1 0 0 1
+p624
+aVKevin Love MIN 12/12/2012 MIN vs. DEN W 31 8 3 17 17.6 0 3 0.0 2 4 50.0 5 9 14 1 0 0 2 5 1
+p625
+aVAndrei Kirilenko MIN 12/12/2012 MIN vs. DEN W 35 18 6 12 50.0 0 2 0.0 6 6 100.0 1 3 4 2 4 1 3 3 -5
+p626
+aVAlexey Shved MIN 12/12/2012 MIN vs. DEN W 31 8 3 10 30.0 0 3 0.0 2 2 100.0 2 0 2 5 2 0 0 2 -2
+p627
+aVGreg Stiemsma MIN 12/12/2012 MIN vs. DEN W 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 2 1 2 -4
+p628
+aVJ.J. Barea MIN 12/12/2012 MIN vs. DEN W 27 17 6 12 50.0 0 2 0.0 5 7 71.4 0 5 5 8 2 0 1 2 -1
+p629
+aVDante Cunningham MIN 12/12/2012 MIN vs. DEN W 23 12 5 5 100.0 0 0 - 2 4 50.0 2 1 3 2 0 0 1 2 3
+p630
+aVNikola Pekovic MIN 12/12/2012 MIN vs. DEN W 32 22 7 10 70.0 0 0 - 8 8 100.0 5 6 11 2 0 2 2 2 8
+p631
+aVLuke Ridnour MIN 12/12/2012 MIN vs. DEN W 28 15 5 12 41.7 2 3 66.7 3 4 75.0 0 1 1 4 1 0 3 3 6
+p632
+aVJosh Howard MIN 12/07/2012 MIN vs. CLE W 19 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 0 1 0 1 1 -2
+p633
+aVNikola Pekovic MIN 12/07/2012 MIN vs. CLE W 25 4 0 3 0.0 0 0 - 4 4 100.0 1 0 1 1 0 1 2 4 15
+p634
+aVLuke Ridnour MIN 12/07/2012 MIN vs. CLE W 31 12 6 12 50.0 0 1 0.0 0 0 - 1 4 5 7 1 0 1 3 15
+p635
+aVAndrei Kirilenko MIN 12/07/2012 MIN vs. CLE W 31 8 4 5 80.0 0 1 0.0 0 0 - 3 4 7 6 4 3 3 1 23
+p636
+aVJ.J. Barea MIN 12/07/2012 MIN vs. CLE W 20 10 3 5 60.0 2 3 66.7 2 2 100.0 0 3 3 2 1 0 2 1 9
+p637
+aVMalcolm Lee MIN 12/07/2012 MIN vs. CLE W 20 6 1 5 20.0 0 3 0.0 4 6 66.7 0 8 8 0 1 1 2 2 5
+p638
+aVDante Cunningham MIN 12/07/2012 MIN vs. CLE W 23 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 0 3 0 1 2 9
+p639
+aVKevin Love MIN 12/07/2012 MIN vs. CLE W 35 36 10 19 52.6 2 5 40.0 14 18 77.8 6 7 13 0 1 1 3 0 18
+p640
+aVGreg Stiemsma MIN 12/07/2012 MIN vs. CLE W 14 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 0 -6
+p641
+aVAlexey Shved MIN 12/07/2012 MIN vs. CLE W 24 7 3 8 37.5 0 4 0.0 1 3 33.3 0 4 4 2 1 1 5 3 4
+p642
+aVKevin Love MIN 12/05/2012 MIN @ BOS L 35 19 6 15 40.0 1 5 20.0 6 12 50.0 4 9 13 4 0 0 5 2 -9
+p643
+aVJ.J. Barea MIN 12/05/2012 MIN @ BOS L 23 10 4 8 50.0 0 2 0.0 2 4 50.0 0 2 2 3 0 0 4 3 -5
+p644
+aVGreg Stiemsma MIN 12/05/2012 MIN @ BOS L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 2 0 2 -10
+p645
+aVDerrick Williams MIN 12/05/2012 MIN @ BOS L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 4
+p646
+aVAlexey Shved MIN 12/05/2012 MIN @ BOS L 27 11 4 11 36.4 2 5 40.0 1 4 25.0 1 1 2 2 2 0 2 4 -2
+p647
+aVLuke Ridnour MIN 12/05/2012 MIN @ BOS L 25 11 5 8 62.5 1 1 100.0 0 0 - 0 1 1 5 1 0 2 2 -10
+p648
+aVLou Amundson MIN 12/05/2012 MIN @ BOS L 3 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 1 0 0 0 7
+p649
+aVDante Cunningham MIN 12/05/2012 MIN @ BOS L 18 7 3 5 60.0 0 0 - 1 2 50.0 3 4 7 1 0 0 0 2 -9
+p650
+aVJosh Howard MIN 12/05/2012 MIN @ BOS L 33 12 5 14 35.7 1 3 33.3 1 2 50.0 0 0 0 0 3 0 0 1 -5
+p651
+aVNikola Pekovic MIN 12/05/2012 MIN @ BOS L 32 14 6 13 46.2 0 0 - 2 2 100.0 4 5 9 1 2 0 0 1 -10
+p652
+aVMalcolm Lee MIN 12/05/2012 MIN @ BOS L 24 6 2 5 40.0 1 2 50.0 1 2 50.0 1 1 2 3 2 1 0 1 -1
+p653
+aVDerrick Williams MIN 12/04/2012 MIN @ PHI W 16 10 3 5 60.0 3 4 75.0 1 4 25.0 0 4 4 0 0 0 0 2 5
+p654
+aVLuke Ridnour MIN 12/04/2012 MIN @ PHI W 21 10 4 8 50.0 0 1 0.0 2 2 100.0 0 0 0 4 2 0 1 3 5
+p655
+aVNikola Pekovic MIN 12/04/2012 MIN @ PHI W 27 6 3 7 42.9 0 0 - 0 0 - 1 4 5 2 0 0 2 1 11
+p656
+aVJosh Howard MIN 12/04/2012 MIN @ PHI W 29 16 7 12 58.3 2 3 66.7 0 2 0.0 2 8 10 0 1 0 4 2 10
+p657
+aVJ.J. Barea MIN 12/04/2012 MIN @ PHI W 27 11 5 10 50.0 1 3 33.3 0 0 - 0 2 2 10 1 0 2 1 12
+p658
+aVKevin Love MIN 12/04/2012 MIN @ PHI W 26 6 2 10 20.0 1 5 20.0 1 2 50.0 2 8 10 5 0 0 1 0 9
+p659
+aVDante Cunningham MIN 12/04/2012 MIN @ PHI W 25 13 6 10 60.0 0 0 - 1 2 50.0 0 4 4 1 1 0 0 2 10
+p660
+aVAlexey Shved MIN 12/04/2012 MIN @ PHI W 29 17 5 8 62.5 4 7 57.1 3 3 100.0 0 3 3 4 0 1 3 3 9
+p661
+aVGreg Stiemsma MIN 12/04/2012 MIN @ PHI W 18 6 2 2 100.0 0 0 - 2 2 100.0 0 5 5 1 1 1 2 3 9
+p662
+aVMalcolm Lee MIN 12/04/2012 MIN @ PHI W 19 10 4 4 100.0 2 2 100.0 0 0 - 1 1 2 1 0 0 0 1 8
+p663
+aVLou Amundson MIN 12/04/2012 MIN @ PHI W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p664
+aVDerrick Williams MIN 11/30/2012 MIN vs. MIL W 15 7 2 4 50.0 1 3 33.3 2 4 50.0 2 8 10 0 0 1 2 0 -2
+p665
+aVJosh Howard MIN 11/30/2012 MIN vs. MIL W 24 8 3 8 37.5 0 0 - 2 2 100.0 1 3 4 2 1 0 1 5 2
+p666
+aVGreg Stiemsma MIN 11/30/2012 MIN vs. MIL W 11 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p667
+aVJ.J. Barea MIN 11/30/2012 MIN vs. MIL W 31 15 6 10 60.0 1 1 100.0 2 2 100.0 1 0 1 5 0 0 3 0 1
+p668
+aVNikola Pekovic MIN 11/30/2012 MIN vs. MIL W 36 14 5 12 41.7 0 0 - 4 6 66.7 5 11 16 1 2 3 2 2 8
+p669
+aVLuke Ridnour MIN 11/30/2012 MIN vs. MIL W 36 16 6 13 46.2 1 2 50.0 3 4 75.0 0 4 4 2 0 0 2 0 10
+p670
+aVDante Cunningham MIN 11/30/2012 MIN vs. MIL W 24 4 2 9 22.2 0 0 - 0 0 - 2 0 2 0 0 2 1 4 3
+p671
+aVAlexey Shved MIN 11/30/2012 MIN vs. MIL W 32 16 5 9 55.6 4 6 66.7 2 2 100.0 0 3 3 5 2 0 3 1 10
+p672
+aVKevin Love MIN 11/30/2012 MIN vs. MIL W 30 15 5 19 26.3 1 7 14.3 4 7 57.1 4 10 14 0 1 0 1 1 14
+p673
+aVDerrick Williams MIN 11/28/2012 MIN @ LAC L 12 4 2 5 40.0 0 3 0.0 0 0 - 1 4 5 0 0 1 2 2 3
+p674
+aVDante Cunningham MIN 11/28/2012 MIN @ LAC L 17 6 2 7 28.6 0 0 - 2 2 100.0 3 2 5 1 0 0 0 2 5
+p675
+aVGreg Stiemsma MIN 11/28/2012 MIN @ LAC L 8 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -1
+p676
+aVNikola Pekovic MIN 11/28/2012 MIN @ LAC L 33 11 5 13 38.5 0 0 - 1 2 50.0 4 6 10 2 2 1 2 4 -11
+p677
+aVLuke Ridnour MIN 11/28/2012 MIN @ LAC L 32 13 5 9 55.6 0 1 0.0 3 4 75.0 0 1 1 7 1 0 4 1 -11
+p678
+aVJosh Howard MIN 11/28/2012 MIN @ LAC L 26 7 3 9 33.3 1 2 50.0 0 0 - 1 2 3 1 0 2 1 1 -2
+p679
+aVJ.J. Barea MIN 11/28/2012 MIN @ LAC L 17 8 2 8 25.0 0 4 0.0 4 5 80.0 2 4 6 2 1 0 0 1 3
+p680
+aVAlexey Shved MIN 11/28/2012 MIN @ LAC L 36 17 5 12 41.7 3 6 50.0 4 4 100.0 1 1 2 0 0 0 4 5 -11
+p681
+aVMalcolm Lee MIN 11/28/2012 MIN @ LAC L 25 10 4 7 57.1 1 1 100.0 1 2 50.0 5 2 7 1 1 1 1 6 4
+p682
+aVKevin Love MIN 11/28/2012 MIN @ LAC L 35 19 3 12 25.0 1 5 20.0 12 16 75.0 3 9 12 3 0 1 3 3 -9
+p683
+aVMalcolm Lee MIN 11/27/2012 MIN @ SAC W 21 10 4 6 66.7 2 3 66.7 0 0 - 0 0 0 1 1 1 2 1 2
+p684
+aVJosh Howard MIN 11/27/2012 MIN @ SAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 0
+p685
+aVAlexey Shved MIN 11/27/2012 MIN @ SAC W 27 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 2 2 0 1 0 6
+p686
+aVNikola Pekovic MIN 11/27/2012 MIN @ SAC W 36 16 6 13 46.2 0 0 - 4 6 66.7 3 5 8 4 0 1 4 4 10
+p687
+aVAndrei Kirilenko MIN 11/27/2012 MIN @ SAC W 41 14 5 12 41.7 0 1 0.0 4 4 100.0 1 5 6 5 0 3 4 2 8
+p688
+aVDante Cunningham MIN 11/27/2012 MIN @ SAC W 16 6 3 7 42.9 0 0 - 0 0 - 3 3 6 0 2 0 0 0 -4
+p689
+aVLuke Ridnour MIN 11/27/2012 MIN @ SAC W 30 18 8 13 61.5 0 3 0.0 2 2 100.0 1 1 2 5 1 1 2 3 3
+p690
+aVKevin Love MIN 11/27/2012 MIN @ SAC W 44 23 8 17 47.1 2 8 25.0 5 6 83.3 3 21 24 2 2 1 2 4 10
+p691
+aVJ.J. Barea MIN 11/27/2012 MIN @ SAC W 18 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 6 0 0 1 2 5
+p692
+aVLuke Ridnour MIN 11/24/2012 MIN @ GSW L 24 2 1 7 14.3 0 3 0.0 0 0 - 0 0 0 4 0 0 0 2 -7
+p693
+aVJosh Howard MIN 11/24/2012 MIN @ GSW L 13 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 1 2 -4
+p694
+aVDerrick Williams MIN 11/24/2012 MIN @ GSW L 11 10 4 6 66.7 2 4 50.0 0 0 - 0 0 0 0 1 2 1 3 2
+p695
+aVNikola Pekovic MIN 11/24/2012 MIN @ GSW L 30 17 7 13 53.8 0 0 - 3 4 75.0 1 5 6 0 0 0 0 3 -11
+p696
+aVAndrei Kirilenko MIN 11/24/2012 MIN @ GSW L 35 11 4 13 30.8 0 5 0.0 3 4 75.0 1 5 6 3 3 0 1 1 -7
+p697
+aVMalcolm Lee MIN 11/24/2012 MIN @ GSW L 15 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 0 1 0 1 2 -1
+p698
+aVKevin Love MIN 11/24/2012 MIN @ GSW L 34 15 6 20 30.0 1 5 20.0 2 4 50.0 6 9 15 2 0 0 2 1 -15
+p699
+aVGreg Stiemsma MIN 11/24/2012 MIN @ GSW L 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 0
+p700
+aVAlexey Shved MIN 11/24/2012 MIN @ GSW L 25 9 3 7 42.9 1 5 20.0 2 2 100.0 1 0 1 5 1 0 2 1 -3
+p701
+aVDante Cunningham MIN 11/24/2012 MIN @ GSW L 15 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 2 0 0 2 2
+p702
+aVJ.J. Barea MIN 11/24/2012 MIN @ GSW L 31 8 2 6 33.3 1 3 33.3 3 3 100.0 0 5 5 10 0 0 2 5 -11
+p703
+aVJ.J. Barea MIN 11/23/2012 MIN @ POR L 18 4 2 7 28.6 0 4 0.0 0 0 - 0 2 2 1 1 0 3 0 -10
+p704
+aVNikola Pekovic MIN 11/23/2012 MIN @ POR L 33 18 4 13 30.8 0 0 - 10 12 83.3 7 3 10 2 1 0 3 4 0
+p705
+aVAlexey Shved MIN 11/23/2012 MIN @ POR L 16 4 1 5 20.0 0 3 0.0 2 2 100.0 0 2 2 3 1 0 1 1 -8
+p706
+aVKevin Love MIN 11/23/2012 MIN @ POR L 36 24 6 15 40.0 0 2 0.0 12 16 75.0 2 11 13 1 3 0 1 3 -2
+p707
+aVJosh Howard MIN 11/23/2012 MIN @ POR L 22 10 5 8 62.5 0 1 0.0 0 0 - 2 5 7 0 0 0 1 2 -15
+p708
+aVDante Cunningham MIN 11/23/2012 MIN @ POR L 19 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 3 1 1 1 -13
+p709
+aVLuke Ridnour MIN 11/23/2012 MIN @ POR L 33 14 6 10 60.0 1 4 25.0 1 3 33.3 1 1 2 2 0 0 0 3 6
+p710
+aVMalcolm Lee MIN 11/23/2012 MIN @ POR L 19 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 1 0 0 2 3 3
+p711
+aVLou Amundson MIN 11/23/2012 MIN @ POR L 8 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 2 -1
+p712
+aVAndrei Kirilenko MIN 11/23/2012 MIN @ POR L 36 10 3 9 33.3 1 2 50.0 3 4 75.0 2 4 6 5 1 0 1 2 0
+p713
+aVGreg Stiemsma MIN 11/21/2012 MIN vs. DEN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p714
+aVLou Amundson MIN 11/21/2012 MIN vs. DEN L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -2
+p715
+aVLuke Ridnour MIN 11/21/2012 MIN vs. DEN L 31 8 3 8 37.5 1 2 50.0 1 1 100.0 0 0 0 6 0 0 3 4 1
+p716
+aVKevin Love MIN 11/21/2012 MIN vs. DEN L 35 34 12 25 48.0 2 9 22.2 8 14 57.1 5 9 14 2 2 1 3 4 7
+p717
+aVAndrei Kirilenko MIN 11/21/2012 MIN vs. DEN L 35 7 2 7 28.6 0 1 0.0 3 4 75.0 3 5 8 2 3 1 2 2 -1
+p718
+aVAlexey Shved MIN 11/21/2012 MIN vs. DEN L 21 8 3 9 33.3 2 5 40.0 0 0 - 0 2 2 3 0 0 1 2 -5
+p719
+aVJosh Howard MIN 11/21/2012 MIN vs. DEN L 13 7 2 6 33.3 1 2 50.0 2 2 100.0 1 2 3 0 2 0 0 2 -6
+p720
+aVMalcolm Lee MIN 11/21/2012 MIN vs. DEN L 25 2 1 8 12.5 0 2 0.0 0 2 0.0 2 1 3 3 2 0 0 1 1
+p721
+aVNikola Pekovic MIN 11/21/2012 MIN vs. DEN L 30 10 4 8 50.0 0 0 - 2 2 100.0 2 5 7 0 0 1 2 2 -3
+p722
+aVJ.J. Barea MIN 11/21/2012 MIN vs. DEN L 20 12 4 12 33.3 4 7 57.1 0 0 - 2 2 4 3 1 0 3 3 -11
+p723
+aVDante Cunningham MIN 11/21/2012 MIN vs. DEN L 22 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 0 -11
+p724
+aVDerrick Williams MIN 11/16/2012 MIN vs. GSW L 37 23 8 16 50.0 1 2 50.0 6 6 100.0 1 6 7 2 0 4 3 1 -8
+p725
+aVLou Amundson MIN 11/16/2012 MIN vs. GSW L 14 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 1 1 1 0 0 3
+p726
+aVLuke Ridnour MIN 11/16/2012 MIN vs. GSW L 39 9 3 11 27.3 1 4 25.0 2 3 66.7 0 3 3 5 2 0 1 5 -21
+p727
+aVMalcolm Lee MIN 11/16/2012 MIN vs. GSW L 19 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 3 12
+p728
+aVJosh Howard MIN 11/16/2012 MIN vs. GSW L 14 6 3 10 30.0 0 1 0.0 0 0 - 2 0 2 0 2 0 0 1 1
+p729
+aVAlexey Shved MIN 11/16/2012 MIN vs. GSW L 33 22 8 17 47.1 3 8 37.5 3 4 75.0 1 2 3 7 0 1 2 5 -4
+p730
+aVAndrei Kirilenko MIN 11/16/2012 MIN vs. GSW L 39 18 5 9 55.6 2 3 66.7 6 8 75.0 3 3 6 0 0 4 3 2 -12
+p731
+aVGreg Stiemsma MIN 11/16/2012 MIN vs. GSW L 17 5 1 3 33.3 0 0 - 3 4 75.0 1 3 4 1 0 1 2 3 -5
+p732
+aVDante Cunningham MIN 11/16/2012 MIN vs. GSW L 28 14 6 9 66.7 0 0 - 2 2 100.0 2 4 6 1 1 1 0 3 -6
+p733
+aVLou Amundson MIN 11/14/2012 MIN vs. CHA L 23 3 1 2 50.0 0 0 - 1 4 25.0 4 3 7 0 1 3 1 3 2
+p734
+aVGreg Stiemsma MIN 11/14/2012 MIN vs. CHA L 22 1 0 6 0.0 0 0 - 1 4 25.0 1 6 7 0 1 2 3 2 0
+p735
+aVWill Conroy MIN 11/14/2012 MIN vs. CHA L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p736
+aVAlexey Shved MIN 11/14/2012 MIN vs. CHA L 23 13 5 10 50.0 1 3 33.3 2 2 100.0 2 0 2 2 0 0 5 0 -2
+p737
+aVLuke Ridnour MIN 11/14/2012 MIN vs. CHA L 37 16 6 16 37.5 1 6 16.7 3 5 60.0 2 3 5 10 2 0 0 3 0
+p738
+aVDerrick Williams MIN 11/14/2012 MIN vs. CHA L 23 10 3 12 25.0 0 1 0.0 4 7 57.1 3 6 9 2 0 1 2 1 -6
+p739
+aVDante Cunningham MIN 11/14/2012 MIN vs. CHA L 28 8 4 9 44.4 0 0 - 0 0 - 2 5 7 1 1 3 1 2 0
+p740
+aVMalcolm Lee MIN 11/14/2012 MIN vs. CHA L 35 10 3 12 25.0 0 5 0.0 4 6 66.7 2 2 4 3 1 0 0 2 -2
+p741
+aVAndrei Kirilenko MIN 11/14/2012 MIN vs. CHA L 44 26 9 12 75.0 3 3 100.0 5 9 55.6 3 9 12 2 1 2 5 1 8
+p742
+aVAndrei Kirilenko MIN 11/12/2012 MIN @ DAL W 44 16 7 12 58.3 1 2 50.0 1 2 50.0 2 9 11 2 2 2 4 2 12
+p743
+aVWill Conroy MIN 11/12/2012 MIN @ DAL W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p744
+aVAlexey Shved MIN 11/12/2012 MIN @ DAL W 33 16 3 12 25.0 1 6 16.7 9 11 81.8 0 4 4 5 0 3 2 1 -1
+p745
+aVLuke Ridnour MIN 11/12/2012 MIN @ DAL W 41 15 3 9 33.3 2 5 40.0 7 8 87.5 0 8 8 7 4 0 3 3 13
+p746
+aVNikola Pekovic MIN 11/12/2012 MIN @ DAL W 28 20 8 13 61.5 0 0 - 4 5 80.0 2 4 6 3 1 0 1 1 21
+p747
+aVLou Amundson MIN 11/12/2012 MIN @ DAL W 15 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 3
+p748
+aVDerrick Williams MIN 11/12/2012 MIN @ DAL W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 5 5 0 0 2 3 1 2
+p749
+aVGreg Stiemsma MIN 11/12/2012 MIN @ DAL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -13
+p750
+aVMalcolm Lee MIN 11/12/2012 MIN @ DAL W 23 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 1 1 0 1 2 5
+p751
+aVDante Cunningham MIN 11/12/2012 MIN @ DAL W 33 14 6 9 66.7 0 0 - 2 2 100.0 2 6 8 2 0 0 1 5 2
+p752
+aVLuke Ridnour MIN 11/10/2012 MIN @ CHI L 36 10 4 12 33.3 1 2 50.0 1 1 100.0 1 0 1 3 2 0 1 3 0
+p753
+aVDerrick Williams MIN 11/10/2012 MIN @ CHI L 21 2 0 10 0.0 0 1 0.0 2 2 100.0 1 5 6 0 0 0 1 1 -6
+p754
+aVAndrei Kirilenko MIN 11/10/2012 MIN @ CHI L 42 11 3 9 33.3 0 3 0.0 5 6 83.3 4 8 12 6 2 1 3 1 -8
+p755
+aVNikola Pekovic MIN 11/10/2012 MIN @ CHI L 35 18 8 13 61.5 0 0 - 2 4 50.0 3 5 8 0 0 0 1 4 1
+p756
+aVChase Budinger MIN 11/10/2012 MIN @ CHI L 28 9 4 8 50.0 1 3 33.3 0 0 - 0 3 3 4 3 0 3 2 -10
+p757
+aVGreg Stiemsma MIN 11/10/2012 MIN @ CHI L 13 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p758
+aVDante Cunningham MIN 11/10/2012 MIN @ CHI L 27 14 7 12 58.3 0 0 - 0 0 - 2 2 4 1 0 1 1 4 -1
+p759
+aVAlexey Shved MIN 11/10/2012 MIN @ CHI L 26 7 3 11 27.3 0 3 0.0 1 2 50.0 2 3 5 6 0 0 1 2 4
+p760
+aVMalcolm Lee MIN 11/10/2012 MIN @ CHI L 12 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 3 0 1 0 2 -7
+p761
+aVBrandon Roy MIN 11/09/2012 MIN vs. IND W 15 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -3
+p762
+aVChase Budinger MIN 11/09/2012 MIN vs. IND W 27 18 4 6 66.7 1 3 33.3 9 10 90.0 2 2 4 2 1 1 1 1 5
+p763
+aVDerrick Williams MIN 11/09/2012 MIN vs. IND W 26 15 6 9 66.7 1 2 50.0 2 2 100.0 0 1 1 1 0 0 3 1 7
+p764
+aVAndrei Kirilenko MIN 11/09/2012 MIN vs. IND W 33 6 2 5 40.0 0 0 - 2 3 66.7 1 5 6 4 3 1 2 0 0
+p765
+aVGreg Stiemsma MIN 11/09/2012 MIN vs. IND W 11 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 2 0 0 2 5 9
+p766
+aVNikola Pekovic MIN 11/09/2012 MIN vs. IND W 36 13 4 10 40.0 0 0 - 5 6 83.3 1 7 8 2 2 1 2 3 -6
+p767
+aVDante Cunningham MIN 11/09/2012 MIN vs. IND W 21 11 5 6 83.3 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 -5
+p768
+aVLuke Ridnour MIN 11/09/2012 MIN vs. IND W 35 8 4 12 33.3 0 1 0.0 0 0 - 0 3 3 4 0 1 1 2 2
+p769
+aVMalcolm Lee MIN 11/09/2012 MIN vs. IND W 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 2 0
+p770
+aVAlexey Shved MIN 11/09/2012 MIN vs. IND W 21 11 4 8 50.0 0 3 0.0 3 3 100.0 0 3 3 7 0 1 1 1 1
+p771
+aVDante Cunningham MIN 11/07/2012 MIN vs. ORL W 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 0
+p772
+aVLuke Ridnour MIN 11/07/2012 MIN vs. ORL W 31 19 6 9 66.7 3 4 75.0 4 5 80.0 1 4 5 3 1 1 3 1 18
+p773
+aVMalcolm Lee MIN 11/07/2012 MIN vs. ORL W 5 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -12
+p774
+aVNikola Pekovic MIN 11/07/2012 MIN vs. ORL W 25 11 5 9 55.6 0 0 - 1 2 50.0 1 4 5 0 1 2 5 3 10
+p775
+aVJ.J. Barea MIN 11/07/2012 MIN vs. ORL W 12 1 0 3 0.0 0 1 0.0 1 2 50.0 2 0 2 5 1 0 3 1 9
+p776
+aVAndrei Kirilenko MIN 11/07/2012 MIN vs. ORL W 31 7 3 5 60.0 0 1 0.0 1 2 50.0 2 3 5 0 3 2 3 1 19
+p777
+aVDerrick Williams MIN 11/07/2012 MIN vs. ORL W 30 14 5 10 50.0 2 5 40.0 2 2 100.0 2 4 6 1 2 0 0 0 24
+p778
+aVChase Budinger MIN 11/07/2012 MIN vs. ORL W 17 10 3 9 33.3 1 4 25.0 3 5 60.0 0 1 1 1 1 1 1 2 8
+p779
+aVGreg Stiemsma MIN 11/07/2012 MIN vs. ORL W 21 12 6 7 85.7 0 0 - 0 0 - 1 4 5 0 1 2 1 4 6
+p780
+aVWill Conroy MIN 11/07/2012 MIN vs. ORL W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -12
+p781
+aVBrandon Roy MIN 11/07/2012 MIN vs. ORL W 26 3 1 6 16.7 0 1 0.0 1 2 50.0 1 4 5 9 0 0 1 2 19
+p782
+aVLou Amundson MIN 11/07/2012 MIN vs. ORL W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -10
+p783
+aVAlexey Shved MIN 11/07/2012 MIN vs. ORL W 17 7 3 6 50.0 1 3 33.3 0 0 - 0 4 4 3 1 1 0 0 -4
+p784
+aVDante Cunningham MIN 11/05/2012 MIN @ BKN W 26 11 5 11 45.5 0 0 - 1 2 50.0 4 7 11 2 2 1 0 1 18
+p785
+aVDerrick Williams MIN 11/05/2012 MIN @ BKN W 18 8 3 12 25.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 0 0 -12
+p786
+aVGreg Stiemsma MIN 11/05/2012 MIN @ BKN W 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p787
+aVChase Budinger MIN 11/05/2012 MIN @ BKN W 26 16 7 10 70.0 2 5 40.0 0 0 - 0 5 5 1 1 0 1 0 21
+p788
+aVBrandon Roy MIN 11/05/2012 MIN @ BKN W 29 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 7 0 0 0 1 -2
+p789
+aVAndrei Kirilenko MIN 11/05/2012 MIN @ BKN W 33 16 7 11 63.6 1 2 50.0 1 2 50.0 3 7 10 6 1 4 2 0 4
+p790
+aVNikola Pekovic MIN 11/05/2012 MIN @ BKN W 26 21 9 14 64.3 0 0 - 3 3 100.0 6 1 7 1 1 2 3 4 3
+p791
+aVLou Amundson MIN 11/05/2012 MIN @ BKN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -6
+p792
+aVLuke Ridnour MIN 11/05/2012 MIN @ BKN W 19 9 2 4 50.0 2 3 66.7 3 4 75.0 0 2 2 2 2 0 1 4 -5
+p793
+aVAlexey Shved MIN 11/05/2012 MIN @ BKN W 18 10 3 8 37.5 2 5 40.0 2 2 100.0 1 1 2 4 1 0 1 0 16
+p794
+aVJ.J. Barea MIN 11/05/2012 MIN @ BKN W 30 6 3 8 37.5 0 2 0.0 0 0 - 1 2 3 6 0 0 2 4 17
+p795
+aVChase Budinger MIN 11/04/2012 MIN @ TOR L 21 9 3 5 60.0 2 3 66.7 1 2 50.0 0 3 3 1 0 0 4 3 -9
+p796
+aVWill Conroy MIN 11/04/2012 MIN @ TOR L 8 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -14
+p797
+aVGreg Stiemsma MIN 11/04/2012 MIN @ TOR L 17 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 4 1 1 -9
+p798
+aVLou Amundson MIN 11/04/2012 MIN @ TOR L 4 1 0 1 0.0 0 0 - 1 4 25.0 0 1 1 0 1 0 0 0 -6
+p799
+aVNikola Pekovic MIN 11/04/2012 MIN @ TOR L 29 15 6 11 54.5 0 0 - 3 4 75.0 1 2 3 1 1 1 3 1 -5
+p800
+aVLuke Ridnour MIN 11/04/2012 MIN @ TOR L 32 8 3 5 60.0 0 2 0.0 2 2 100.0 0 5 5 5 3 0 4 2 -4
+p801
+aVBrandon Roy MIN 11/04/2012 MIN @ TOR L 22 4 0 3 0.0 0 1 0.0 4 4 100.0 0 1 1 0 1 0 5 2 -4
+p802
+aVDante Cunningham MIN 11/04/2012 MIN @ TOR L 19 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -12
+p803
+aVAlexey Shved MIN 11/04/2012 MIN @ TOR L 22 8 2 6 33.3 1 4 25.0 3 4 75.0 2 2 4 4 1 0 3 1 -10
+p804
+aVMalcolm Lee MIN 11/04/2012 MIN @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p805
+aVDerrick Williams MIN 11/04/2012 MIN @ TOR L 26 9 3 7 42.9 1 1 100.0 2 4 50.0 1 7 8 1 0 0 1 1 -5
+p806
+aVAndrei Kirilenko MIN 11/04/2012 MIN @ TOR L 29 17 6 7 85.7 1 1 100.0 4 5 80.0 1 5 6 3 1 3 2 1 -10
+p807
+aVJ.J. Barea MIN 11/04/2012 MIN @ TOR L 8 9 3 5 60.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 0 0 -1
+p808
+aVChase Budinger MIN 11/02/2012 MIN vs. SAC W 21 9 3 12 25.0 0 5 0.0 3 3 100.0 2 3 5 0 0 1 2 1 14
+p809
+aVBrandon Roy MIN 11/02/2012 MIN vs. SAC W 30 10 4 14 28.6 0 5 0.0 2 4 50.0 2 3 5 6 1 0 1 0 -4
+p810
+aVGreg Stiemsma MIN 11/02/2012 MIN vs. SAC W 16 9 3 7 42.9 0 0 - 3 4 75.0 2 5 7 0 1 4 0 3 7
+p811
+aVAndrei Kirilenko MIN 11/02/2012 MIN vs. SAC W 31 10 4 7 57.1 0 0 - 2 3 66.7 2 5 7 5 0 1 2 0 7
+p812
+aVJ.J. Barea MIN 11/02/2012 MIN vs. SAC W 28 21 6 11 54.5 1 2 50.0 8 8 100.0 1 3 4 5 1 0 1 1 26
+p813
+aVDante Cunningham MIN 11/02/2012 MIN vs. SAC W 25 7 3 6 50.0 0 0 - 1 2 50.0 1 8 9 0 0 0 1 5 21
+p814
+aVDerrick Williams MIN 11/02/2012 MIN vs. SAC W 21 8 3 12 25.0 0 1 0.0 2 4 50.0 4 3 7 0 0 1 0 1 -11
+p815
+aVLuke Ridnour MIN 11/02/2012 MIN vs. SAC W 20 9 4 7 57.1 1 2 50.0 0 0 - 0 3 3 1 1 1 2 2 -14
+p816
+aVAlexey Shved MIN 11/02/2012 MIN vs. SAC W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 1 2 9
+p817
+aVNikola Pekovic MIN 11/02/2012 MIN vs. SAC W 32 9 2 8 25.0 0 0 - 5 8 62.5 3 2 5 0 0 1 1 2 5
+p818
+a.

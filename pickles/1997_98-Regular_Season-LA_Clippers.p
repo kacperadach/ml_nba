@@ -1,0 +1,1662 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPooh Richardson LAC 04/18/1998 LAC vs. SAC W 24 0 0 6 0.0 0 0 - 0 0 - 1 1 2 4 0 0 0 2 -14
+p2
+aVIke Austin LAC 04/18/1998 LAC vs. SAC W 38 13 4 17 23.5 0 1 0.0 5 6 83.3 5 10 15 2 2 3 4 1 -4
+p3
+aVRodney Rogers LAC 04/18/1998 LAC vs. SAC W 42 13 5 13 38.5 1 3 33.3 2 2 100.0 2 4 6 2 2 1 2 4 -5
+p4
+aVLorenzen Wright LAC 04/18/1998 LAC vs. SAC W 24 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 0 2 0 4 14
+p5
+aVCharles Smith LAC 04/18/1998 LAC vs. SAC W 11 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 0 1 0 2 0 6
+p6
+aVLamond Murray LAC 04/18/1998 LAC vs. SAC W 39 7 3 13 23.1 0 3 0.0 1 1 100.0 3 4 7 1 4 1 4 3 13
+p7
+aVDarrick Martin LAC 04/18/1998 LAC vs. SAC W 24 17 5 8 62.5 2 4 50.0 5 7 71.4 1 0 1 2 1 0 0 2 20
+p8
+aVJames Robinson LAC 04/18/1998 LAC vs. SAC W 37 20 8 15 53.3 3 10 30.0 1 1 100.0 0 6 6 2 3 1 1 1 0
+p9
+aVLorenzen Wright LAC 04/16/1998 LAC @ POR L 28 6 3 4 75.0 0 0 - 0 0 - 2 8 10 2 1 2 2 5 6
+p10
+aVStojko Vrankovic LAC 04/16/1998 LAC @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p11
+aVLamond Murray LAC 04/16/1998 LAC @ POR L 33 22 9 17 52.9 1 1 100.0 3 3 100.0 0 6 6 0 2 1 4 4 -19
+p12
+aVRodney Rogers LAC 04/16/1998 LAC @ POR L 37 14 6 14 42.9 1 4 25.0 1 3 33.3 0 3 3 3 2 1 2 2 -4
+p13
+aVCharles Smith LAC 04/16/1998 LAC @ POR L 19 4 2 10 20.0 0 5 0.0 0 2 0.0 1 2 3 3 0 0 0 0 4
+p14
+aVDarrick Martin LAC 04/16/1998 LAC @ POR L 18 10 4 6 66.7 2 4 50.0 0 0 - 0 0 0 3 1 0 1 3 0
+p15
+aVJames Robinson LAC 04/16/1998 LAC @ POR L 29 3 1 8 12.5 0 4 0.0 1 2 50.0 0 2 2 5 0 0 0 4 -13
+p16
+aVIke Austin LAC 04/16/1998 LAC @ POR L 42 23 10 16 62.5 0 0 - 3 4 75.0 5 6 11 6 1 1 4 3 -7
+p17
+aVPooh Richardson LAC 04/16/1998 LAC @ POR L 30 8 4 8 50.0 0 2 0.0 0 0 - 1 1 2 7 0 0 0 1 -9
+p18
+aVLamond Murray LAC 04/15/1998 LAC vs. GSW L 30 12 5 12 41.7 0 2 0.0 2 2 100.0 0 4 4 0 2 0 1 3 -16
+p19
+aVCharles Smith LAC 04/15/1998 LAC vs. GSW L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p20
+aVJames Robinson LAC 04/15/1998 LAC vs. GSW L 36 16 6 10 60.0 4 7 57.1 0 0 - 0 2 2 1 1 1 1 1 -3
+p21
+aVRodney Rogers LAC 04/15/1998 LAC vs. GSW L 31 17 6 13 46.2 0 3 0.0 5 6 83.3 2 2 4 3 1 1 2 5 -4
+p22
+aVDarrick Martin LAC 04/15/1998 LAC vs. GSW L 22 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 5 2 0 0 2 -4
+p23
+aVMaurice Taylor LAC 04/15/1998 LAC vs. GSW L 22 13 5 15 33.3 0 0 - 3 4 75.0 4 5 9 1 0 0 2 6 -4
+p24
+aVLorenzen Wright LAC 04/15/1998 LAC vs. GSW L 20 6 2 6 33.3 0 0 - 2 2 100.0 1 8 9 0 0 0 1 5 -5
+p25
+aVPooh Richardson LAC 04/15/1998 LAC vs. GSW L 26 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 4 0 0 0 0 -8
+p26
+aVJames Collins LAC 04/15/1998 LAC vs. GSW L 0 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 0
+p27
+aVIke Austin LAC 04/15/1998 LAC vs. GSW L 41 13 6 16 37.5 0 1 0.0 1 1 100.0 2 5 7 5 2 1 4 3 -7
+p28
+aVMaurice Taylor LAC 04/13/1998 LAC vs. MIN L 19 4 2 8 25.0 0 0 - 0 0 - 2 1 3 1 0 0 1 4 -13
+p29
+aVJames Robinson LAC 04/13/1998 LAC vs. MIN L 27 11 3 11 27.3 1 4 25.0 4 4 100.0 1 1 2 1 0 0 1 1 -6
+p30
+aVRodney Rogers LAC 04/13/1998 LAC vs. MIN L 40 18 7 15 46.7 2 4 50.0 2 2 100.0 3 2 5 3 0 0 1 2 -20
+p31
+aVJames Collins LAC 04/13/1998 LAC vs. MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p32
+aVCharles Smith LAC 04/13/1998 LAC vs. MIN L 21 11 5 7 71.4 1 3 33.3 0 0 - 0 2 2 2 0 0 0 2 -13
+p33
+aVLamond Murray LAC 04/13/1998 LAC vs. MIN L 43 23 9 18 50.0 1 2 50.0 4 4 100.0 7 10 17 4 3 1 6 2 -11
+p34
+aVPooh Richardson LAC 04/13/1998 LAC vs. MIN L 27 6 2 9 22.2 0 2 0.0 2 2 100.0 0 1 1 4 0 0 2 3 -4
+p35
+aVDarrick Martin LAC 04/13/1998 LAC vs. MIN L 21 5 2 6 33.3 0 3 0.0 1 2 50.0 0 3 3 4 0 0 3 1 -15
+p36
+aVStojko Vrankovic LAC 04/13/1998 LAC vs. MIN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p37
+aVLorenzen Wright LAC 04/13/1998 LAC vs. MIN L 37 10 5 9 55.6 0 0 - 0 0 - 1 10 11 0 0 2 3 1 -10
+p38
+aVJames Collins LAC 04/10/1998 LAC @ UTA L 13 5 1 4 25.0 1 1 100.0 2 2 100.0 1 0 1 1 0 0 2 2 -14
+p39
+aVLorenzen Wright LAC 04/10/1998 LAC @ UTA L 33 8 2 4 50.0 0 0 - 4 4 100.0 1 9 10 0 0 0 2 3 -18
+p40
+aVLamond Murray LAC 04/10/1998 LAC @ UTA L 33 19 8 15 53.3 1 3 33.3 2 2 100.0 1 3 4 1 1 0 3 3 -11
+p41
+aVPooh Richardson LAC 04/10/1998 LAC @ UTA L 25 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 8 1 1 1 2 -12
+p42
+aVKeith Closs LAC 04/10/1998 LAC @ UTA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p43
+aVRodney Rogers LAC 04/10/1998 LAC @ UTA L 29 15 5 9 55.6 1 3 33.3 4 4 100.0 1 1 2 0 1 0 3 3 -20
+p44
+aVCharles Smith LAC 04/10/1998 LAC @ UTA L 25 16 6 12 50.0 4 6 66.7 0 0 - 0 0 0 2 0 1 2 3 3
+p45
+aVJames Robinson LAC 04/10/1998 LAC @ UTA L 10 7 3 4 75.0 1 2 50.0 0 1 0.0 0 0 0 0 0 0 1 1 -8
+p46
+aVStojko Vrankovic LAC 04/10/1998 LAC @ UTA L 14 0 0 1 0.0 0 0 - 0 0 - 0 4 4 3 0 0 0 6 -2
+p47
+aVMaurice Taylor LAC 04/10/1998 LAC @ UTA L 31 22 8 14 57.1 0 0 - 6 7 85.7 2 2 4 0 0 0 2 2 -2
+p48
+aVDarrick Martin LAC 04/10/1998 LAC @ UTA L 23 11 3 4 75.0 2 3 66.7 3 4 75.0 0 1 1 8 0 1 1 2 -5
+p49
+aVLorenzen Wright LAC 04/09/1998 LAC vs. POR L 29 3 1 4 25.0 0 0 - 1 4 25.0 4 10 14 0 2 1 0 4 -4
+p50
+aVJames Robinson LAC 04/09/1998 LAC vs. POR L 30 20 8 16 50.0 4 7 57.1 0 0 - 0 2 2 0 1 1 2 2 -8
+p51
+aVMaurice Taylor LAC 04/09/1998 LAC vs. POR L 29 13 4 13 30.8 0 0 - 5 10 50.0 2 1 3 0 1 0 2 6 11
+p52
+aVRodney Rogers LAC 04/09/1998 LAC vs. POR L 29 17 6 15 40.0 0 3 0.0 5 6 83.3 2 1 3 0 3 0 1 5 -14
+p53
+aVPooh Richardson LAC 04/09/1998 LAC vs. POR L 35 14 5 9 55.6 1 1 100.0 3 4 75.0 0 0 0 9 2 0 3 2 -9
+p54
+aVJames Collins LAC 04/09/1998 LAC vs. POR L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -2
+p55
+aVStojko Vrankovic LAC 04/09/1998 LAC vs. POR L 18 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 0 1 0 3 -1
+p56
+aVCharles Smith LAC 04/09/1998 LAC vs. POR L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 0 0 6
+p57
+aVLamond Murray LAC 04/09/1998 LAC vs. POR L 39 20 7 17 41.2 2 3 66.7 4 4 100.0 4 4 8 1 1 1 2 1 -5
+p58
+aVDarrick Martin LAC 04/09/1998 LAC vs. POR L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 3 0 1 1 2 6
+p59
+aVJames Collins LAC 04/07/1998 LAC vs. VAN L 9 15 5 7 71.4 4 4 100.0 1 3 33.3 0 1 1 0 0 0 0 1 -1
+p60
+aVLamond Murray LAC 04/07/1998 LAC vs. VAN L 35 13 5 14 35.7 0 0 - 3 6 50.0 3 5 8 1 1 2 3 2 -12
+p61
+aVCharles Smith LAC 04/07/1998 LAC vs. VAN L 15 4 2 5 40.0 0 0 - 0 0 - 1 0 1 3 0 0 2 2 6
+p62
+aVDarrick Martin LAC 04/07/1998 LAC vs. VAN L 17 3 1 5 20.0 0 3 0.0 1 1 100.0 0 0 0 2 1 0 3 2 -13
+p63
+aVRodney Rogers LAC 04/07/1998 LAC vs. VAN L 24 9 4 11 36.4 0 4 0.0 1 1 100.0 2 3 5 0 1 0 1 2 -12
+p64
+aVLorenzen Wright LAC 04/07/1998 LAC vs. VAN L 34 10 3 9 33.3 0 0 - 4 4 100.0 2 6 8 2 1 4 2 2 -7
+p65
+aVPooh Richardson LAC 04/07/1998 LAC vs. VAN L 26 4 1 4 25.0 0 0 - 2 4 50.0 0 1 1 5 0 0 0 1 -8
+p66
+aVStojko Vrankovic LAC 04/07/1998 LAC vs. VAN L 17 6 2 2 100.0 0 0 - 2 2 100.0 0 5 5 0 0 5 1 0 -15
+p67
+aVKeith Closs LAC 04/07/1998 LAC vs. VAN L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 2 0 0
+p68
+aVJames Robinson LAC 04/07/1998 LAC vs. VAN L 31 14 7 16 43.8 0 5 0.0 0 0 - 1 3 4 4 2 1 2 4 -12
+p69
+aVIke Austin LAC 04/07/1998 LAC vs. VAN L 23 16 6 10 60.0 0 1 0.0 4 5 80.0 1 9 10 3 0 2 3 2 -6
+p70
+aVLamond Murray LAC 04/05/1998 LAC @ CLE L 44 23 8 17 47.1 1 3 33.3 6 6 100.0 3 4 7 5 3 0 2 4 -8
+p71
+aVPooh Richardson LAC 04/05/1998 LAC @ CLE L 24 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 6 1 0 1 2 8
+p72
+aVJames Robinson LAC 04/05/1998 LAC @ CLE L 41 26 10 18 55.6 5 9 55.6 1 3 33.3 1 2 3 5 0 0 3 2 12
+p73
+aVStojko Vrankovic LAC 04/05/1998 LAC @ CLE L 15 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 3 0 4 6
+p74
+aVDarrick Martin LAC 04/05/1998 LAC @ CLE L 24 4 1 11 9.1 0 3 0.0 2 2 100.0 0 0 0 6 1 0 1 3 -9
+p75
+aVIke Austin LAC 04/05/1998 LAC @ CLE L 37 24 10 17 58.8 0 0 - 4 5 80.0 4 4 8 1 1 0 5 5 -8
+p76
+aVLorenzen Wright LAC 04/05/1998 LAC @ CLE L 44 8 3 9 33.3 0 0 - 2 4 50.0 4 11 15 1 3 0 4 5 -3
+p77
+aVCharles Smith LAC 04/05/1998 LAC @ CLE L 12 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 0 -3
+p78
+aVDarrick Martin LAC 04/03/1998 LAC @ PHI L 24 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 4 1 0 2 1 -8
+p79
+aVPooh Richardson LAC 04/03/1998 LAC @ PHI L 24 12 4 10 40.0 1 2 50.0 3 6 50.0 1 4 5 5 2 0 2 2 -7
+p80
+aVStojko Vrankovic LAC 04/03/1998 LAC @ PHI L 24 9 3 5 60.0 0 0 - 3 8 37.5 7 8 15 0 0 5 2 1 -1
+p81
+aVLorenzen Wright LAC 04/03/1998 LAC @ PHI L 26 6 3 7 42.9 0 0 - 0 0 - 3 3 6 0 1 0 2 4 -13
+p82
+aVIke Austin LAC 04/03/1998 LAC @ PHI L 29 6 2 12 16.7 0 0 - 2 5 40.0 3 6 9 2 1 0 2 3 -20
+p83
+aVJames Collins LAC 04/03/1998 LAC @ PHI L 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p84
+aVKeith Closs LAC 04/03/1998 LAC @ PHI L 22 0 0 6 0.0 0 0 - 0 0 - 2 5 7 0 0 4 1 2 -7
+p85
+aVJames Robinson LAC 04/03/1998 LAC @ PHI L 31 13 5 12 41.7 3 3 100.0 0 0 - 1 1 2 4 1 0 5 1 -15
+p86
+aVLamond Murray LAC 04/03/1998 LAC @ PHI L 36 13 4 15 26.7 0 3 0.0 5 6 83.3 2 9 11 2 1 0 1 4 -5
+p87
+aVCharles Smith LAC 04/03/1998 LAC @ PHI L 17 13 5 10 50.0 0 3 0.0 3 5 60.0 1 0 1 0 1 1 1 1 0
+p88
+aVLamond Murray LAC 04/02/1998 LAC @ NYK L 42 14 5 15 33.3 2 8 25.0 2 2 100.0 0 4 4 3 3 1 4 1 -13
+p89
+aVJames Collins LAC 04/02/1998 LAC @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p90
+aVIke Austin LAC 04/02/1998 LAC @ NYK L 39 18 6 11 54.5 0 0 - 6 8 75.0 2 10 12 2 0 1 4 2 -7
+p91
+aVPooh Richardson LAC 04/02/1998 LAC @ NYK L 21 7 3 7 42.9 0 2 0.0 1 2 50.0 0 3 3 2 2 0 4 0 2
+p92
+aVJames Robinson LAC 04/02/1998 LAC @ NYK L 33 9 3 10 30.0 2 2 100.0 1 1 100.0 2 1 3 2 0 1 1 0 -13
+p93
+aVKeith Closs LAC 04/02/1998 LAC @ NYK L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -5
+p94
+aVCharles Smith LAC 04/02/1998 LAC @ NYK L 21 5 2 8 25.0 1 3 33.3 0 0 - 0 3 3 0 3 2 1 4 4
+p95
+aVLorenzen Wright LAC 04/02/1998 LAC @ NYK L 42 8 4 10 40.0 0 1 0.0 0 0 - 2 9 11 0 0 1 1 4 -10
+p96
+aVDarrick Martin LAC 04/02/1998 LAC @ NYK L 27 7 1 7 14.3 0 4 0.0 5 5 100.0 0 2 2 2 1 0 3 1 -13
+p97
+aVCharles Smith LAC 03/31/1998 LAC @ IND L 16 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 0 0 0 1 2 1
+p98
+aVDarrick Martin LAC 03/31/1998 LAC @ IND L 26 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 3 1 0 1 2 -25
+p99
+aVMaurice Taylor LAC 03/31/1998 LAC @ IND L 24 20 7 14 50.0 0 0 - 6 6 100.0 2 4 6 1 0 0 2 2 6
+p100
+aVLorenzen Wright LAC 03/31/1998 LAC @ IND L 23 10 3 5 60.0 0 0 - 4 4 100.0 2 4 6 0 0 0 0 2 -12
+p101
+aVIke Austin LAC 03/31/1998 LAC @ IND L 28 13 5 5 100.0 0 0 - 3 4 75.0 1 5 6 4 0 0 3 1 -22
+p102
+aVLamond Murray LAC 03/31/1998 LAC @ IND L 33 21 9 17 52.9 1 3 33.3 2 2 100.0 2 1 3 2 1 0 2 2 -23
+p103
+aVStojko Vrankovic LAC 03/31/1998 LAC @ IND L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 4
+p104
+aVKeith Closs LAC 03/31/1998 LAC @ IND L 8 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 1 0 0 1 0 8
+p105
+aVPooh Richardson LAC 03/31/1998 LAC @ IND L 24 9 4 8 50.0 1 2 50.0 0 0 - 2 2 4 6 3 0 1 1 -4
+p106
+aVRodney Rogers LAC 03/31/1998 LAC @ IND L 19 7 2 7 28.6 0 2 0.0 3 4 75.0 0 3 3 1 1 0 2 2 -23
+p107
+aVJames Robinson LAC 03/31/1998 LAC @ IND L 27 6 2 6 33.3 0 3 0.0 2 2 100.0 0 1 1 1 0 0 0 0 -27
+p108
+aVJames Collins LAC 03/31/1998 LAC @ IND L 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 7
+p109
+aVStojko Vrankovic LAC 03/29/1998 LAC vs. DAL W 2 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p110
+aVJames Robinson LAC 03/29/1998 LAC vs. DAL W 42 24 9 16 56.3 2 4 50.0 4 5 80.0 2 6 8 4 2 0 2 4 24
+p111
+aVIke Austin LAC 03/29/1998 LAC vs. DAL W 32 14 7 11 63.6 0 0 - 0 0 - 3 3 6 6 0 1 4 2 19
+p112
+aVDarrick Martin LAC 03/29/1998 LAC vs. DAL W 31 11 4 7 57.1 2 2 100.0 1 1 100.0 0 0 0 4 2 0 0 1 11
+p113
+aVPooh Richardson LAC 03/29/1998 LAC vs. DAL W 19 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 3 0 0 1 3 8
+p114
+aVLamond Murray LAC 03/29/1998 LAC vs. DAL W 41 27 11 18 61.1 3 4 75.0 2 5 40.0 3 3 6 3 6 0 4 1 26
+p115
+aVMaurice Taylor LAC 03/29/1998 LAC vs. DAL W 21 8 3 10 30.0 0 0 - 2 2 100.0 1 2 3 1 1 2 2 1 10
+p116
+aVCharles Smith LAC 03/29/1998 LAC vs. DAL W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p117
+aVLorenzen Wright LAC 03/29/1998 LAC vs. DAL W 14 2 1 4 25.0 0 0 - 0 0 - 1 5 6 0 0 0 0 5 4
+p118
+aVRodney Rogers LAC 03/29/1998 LAC vs. DAL W 30 10 4 11 36.4 1 2 50.0 1 2 50.0 1 8 9 2 2 0 1 1 8
+p119
+aVJames Collins LAC 03/29/1998 LAC vs. DAL W 2 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 0 -1
+p120
+aVKeith Closs LAC 03/29/1998 LAC vs. DAL W 3 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 1
+p121
+aVDarrick Martin LAC 03/27/1998 LAC vs. MIN L 41 13 4 11 36.4 1 4 25.0 4 5 80.0 0 4 4 8 0 0 2 4 4
+p122
+aVRodney Rogers LAC 03/27/1998 LAC vs. MIN L 38 16 7 12 58.3 2 2 100.0 0 1 0.0 2 6 8 2 1 0 3 3 -3
+p123
+aVLamond Murray LAC 03/27/1998 LAC vs. MIN L 29 20 8 12 66.7 1 1 100.0 3 3 100.0 3 7 10 0 0 1 3 2 7
+p124
+aVLorenzen Wright LAC 03/27/1998 LAC vs. MIN L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 3 0 2 -9
+p125
+aVIke Austin LAC 03/27/1998 LAC vs. MIN L 37 16 5 11 45.5 0 0 - 6 11 54.5 3 9 12 3 1 2 4 4 5
+p126
+aVJames Robinson LAC 03/27/1998 LAC vs. MIN L 41 15 7 15 46.7 0 3 0.0 1 2 50.0 4 0 4 5 0 0 2 1 -4
+p127
+aVPooh Richardson LAC 03/27/1998 LAC vs. MIN L 14 0 0 3 0.0 0 0 - 0 0 - 1 1 2 2 1 0 1 1 -4
+p128
+aVMaurice Taylor LAC 03/27/1998 LAC vs. MIN L 24 14 5 7 71.4 0 0 - 4 4 100.0 1 2 3 0 2 0 2 1 -6
+p129
+aVEric Piatkowski LAC 03/25/1998 LAC vs. NYK L 25 1 0 7 0.0 0 4 0.0 1 2 50.0 3 3 6 0 1 1 4 0 -12
+p130
+aVPooh Richardson LAC 03/25/1998 LAC vs. NYK L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 0 3
+p131
+aVLamond Murray LAC 03/25/1998 LAC vs. NYK L 18 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 2 1 1 0 -3
+p132
+aVIke Austin LAC 03/25/1998 LAC vs. NYK L 35 15 7 11 63.6 0 0 - 1 4 25.0 2 9 11 1 0 1 3 1 -8
+p133
+aVLorenzen Wright LAC 03/25/1998 LAC vs. NYK L 22 13 6 11 54.5 0 0 - 1 1 100.0 2 4 6 0 0 0 0 2 4
+p134
+aVRodney Rogers LAC 03/25/1998 LAC vs. NYK L 39 14 4 11 36.4 1 3 33.3 5 6 83.3 2 8 10 4 2 0 3 3 2
+p135
+aVMaurice Taylor LAC 03/25/1998 LAC vs. NYK L 30 4 2 11 18.2 0 0 - 0 1 0.0 0 4 4 4 0 3 0 0 2
+p136
+aVDarrick Martin LAC 03/25/1998 LAC vs. NYK L 38 10 4 14 28.6 1 5 20.0 1 1 100.0 1 2 3 3 1 0 2 3 -4
+p137
+aVJames Robinson LAC 03/25/1998 LAC vs. NYK L 23 15 6 8 75.0 3 3 100.0 0 0 - 1 2 3 2 0 0 3 0 11
+p138
+aVLamond Murray LAC 03/23/1998 LAC @ VAN L 25 12 3 8 37.5 1 2 50.0 5 8 62.5 1 4 5 1 2 0 2 5 -12
+p139
+aVLorenzen Wright LAC 03/23/1998 LAC @ VAN L 17 4 2 8 25.0 0 0 - 0 2 0.0 6 4 10 0 1 1 0 4 0
+p140
+aVCharles Smith LAC 03/23/1998 LAC @ VAN L 14 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 1 3 1 2 0 -4
+p141
+aVIke Austin LAC 03/23/1998 LAC @ VAN L 31 14 4 13 30.8 0 0 - 6 8 75.0 3 4 7 5 2 1 2 3 -11
+p142
+aVEric Piatkowski LAC 03/23/1998 LAC @ VAN L 34 20 6 11 54.5 4 7 57.1 4 5 80.0 0 3 3 1 0 1 2 5 -7
+p143
+aVKeith Closs LAC 03/23/1998 LAC @ VAN L 3 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 3
+p144
+aVMaurice Taylor LAC 03/23/1998 LAC @ VAN L 29 12 5 12 41.7 0 0 - 2 3 66.7 1 5 6 4 2 1 0 3 -2
+p145
+aVPooh Richardson LAC 03/23/1998 LAC @ VAN L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 3 1 0 0 0 -11
+p146
+aVRodney Rogers LAC 03/23/1998 LAC @ VAN L 38 18 8 14 57.1 2 4 50.0 0 0 - 2 4 6 4 1 4 1 3 -13
+p147
+aVDarrick Martin LAC 03/23/1998 LAC @ VAN L 32 7 2 12 16.7 1 4 25.0 2 2 100.0 1 2 3 6 1 0 5 0 2
+p148
+aVIke Austin LAC 03/21/1998 LAC vs. CLE L 30 7 2 12 16.7 0 0 - 3 4 75.0 2 2 4 2 0 0 5 4 -17
+p149
+aVRodney Rogers LAC 03/21/1998 LAC vs. CLE L 36 13 5 11 45.5 1 3 33.3 2 2 100.0 0 3 3 2 2 0 2 3 -17
+p150
+aVEric Piatkowski LAC 03/21/1998 LAC vs. CLE L 36 13 5 13 38.5 1 6 16.7 2 2 100.0 1 0 1 0 0 0 1 0 -29
+p151
+aVJames Robinson LAC 03/21/1998 LAC vs. CLE L 17 10 3 11 27.3 1 4 25.0 3 4 75.0 0 1 1 2 0 0 0 0 12
+p152
+aVLorenzen Wright LAC 03/21/1998 LAC vs. CLE L 23 5 1 4 25.0 0 0 - 3 4 75.0 4 2 6 0 0 1 1 3 -9
+p153
+aVDarrick Martin LAC 03/21/1998 LAC vs. CLE L 16 4 1 5 20.0 1 2 50.0 1 2 50.0 0 2 2 2 0 1 2 1 -20
+p154
+aVMaurice Taylor LAC 03/21/1998 LAC vs. CLE L 29 17 7 17 41.2 0 0 - 3 4 75.0 6 5 11 0 1 0 2 3 -16
+p155
+aVKeith Closs LAC 03/21/1998 LAC vs. CLE L 13 7 3 6 50.0 0 0 - 1 1 100.0 1 2 3 2 1 2 0 2 4
+p156
+aVPooh Richardson LAC 03/21/1998 LAC vs. CLE L 32 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 6 4 0 0 1 -1
+p157
+aVStojko Vrankovic LAC 03/21/1998 LAC vs. CLE L 5 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 1 0 1 2 -8
+p158
+aVCharles Smith LAC 03/21/1998 LAC vs. CLE L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -4
+p159
+aVDarrick Martin LAC 03/18/1998 LAC @ SEA L 30 13 4 10 40.0 0 2 0.0 5 6 83.3 0 3 3 5 3 0 0 4 -12
+p160
+aVLorenzen Wright LAC 03/18/1998 LAC @ SEA L 27 4 1 4 25.0 0 0 - 2 4 50.0 2 7 9 1 1 2 1 4 -20
+p161
+aVCharles Smith LAC 03/18/1998 LAC @ SEA L 11 2 1 6 16.7 0 3 0.0 0 0 - 1 0 1 1 0 0 4 0 -11
+p162
+aVMaurice Taylor LAC 03/18/1998 LAC @ SEA L 24 10 5 8 62.5 0 0 - 0 2 0.0 2 1 3 0 2 1 1 4 -14
+p163
+aVLamond Murray LAC 03/18/1998 LAC @ SEA L 25 12 4 9 44.4 0 2 0.0 4 5 80.0 3 2 5 2 2 0 2 1 -4
+p164
+aVRodney Rogers LAC 03/18/1998 LAC @ SEA L 42 15 6 13 46.2 1 5 20.0 2 2 100.0 1 7 8 2 0 2 3 4 -15
+p165
+aVPooh Richardson LAC 03/18/1998 LAC @ SEA L 18 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -5
+p166
+aVEric Piatkowski LAC 03/18/1998 LAC @ SEA L 37 17 6 12 50.0 2 7 28.6 3 4 75.0 1 5 6 2 0 0 1 0 -8
+p167
+aVKeith Closs LAC 03/18/1998 LAC @ SEA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p168
+aVIke Austin LAC 03/18/1998 LAC @ SEA L 27 3 1 5 20.0 0 1 0.0 1 2 50.0 2 4 6 3 0 0 5 5 -4
+p169
+aVEric Piatkowski LAC 03/17/1998 LAC @ GSW W 40 14 5 11 45.5 0 2 0.0 4 4 100.0 0 3 3 3 2 0 1 5 8
+p170
+aVMaurice Taylor LAC 03/17/1998 LAC @ GSW W 20 14 6 11 54.5 0 0 - 2 2 100.0 1 2 3 1 0 0 0 2 -5
+p171
+aVDarrick Martin LAC 03/17/1998 LAC @ GSW W 31 10 3 4 75.0 2 3 66.7 2 2 100.0 0 1 1 2 3 0 1 1 11
+p172
+aVLamond Murray LAC 03/17/1998 LAC @ GSW W 38 20 8 20 40.0 1 4 25.0 3 4 75.0 2 1 3 5 2 0 4 3 3
+p173
+aVRodney Rogers LAC 03/17/1998 LAC @ GSW W 38 30 12 17 70.6 4 5 80.0 2 3 66.7 3 9 12 7 1 0 3 4 5
+p174
+aVIke Austin LAC 03/17/1998 LAC @ GSW W 34 11 4 15 26.7 0 0 - 3 4 75.0 2 3 5 4 0 0 2 2 -2
+p175
+aVPooh Richardson LAC 03/17/1998 LAC @ GSW W 17 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 5 0 0 1 1 -6
+p176
+aVLorenzen Wright LAC 03/17/1998 LAC @ GSW W 16 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 1 2 0 2 8
+p177
+aVCharles Smith LAC 03/17/1998 LAC @ GSW W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p178
+aVPooh Richardson LAC 03/15/1998 LAC @ POR L 17 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 1 0 1 2 -7
+p179
+aVLamond Murray LAC 03/15/1998 LAC @ POR L 37 14 5 10 50.0 0 3 0.0 4 5 80.0 3 0 3 0 5 0 1 2 -8
+p180
+aVRodney Rogers LAC 03/15/1998 LAC @ POR L 36 13 5 14 35.7 2 5 40.0 1 4 25.0 2 4 6 0 0 1 1 1 -6
+p181
+aVDarrick Martin LAC 03/15/1998 LAC @ POR L 31 16 5 12 41.7 4 8 50.0 2 2 100.0 0 0 0 6 0 0 1 3 -4
+p182
+aVCharles Smith LAC 03/15/1998 LAC @ POR L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p183
+aVLorenzen Wright LAC 03/15/1998 LAC @ POR L 17 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 3 1 0
+p184
+aVEric Piatkowski LAC 03/15/1998 LAC @ POR L 37 16 5 10 50.0 4 8 50.0 2 2 100.0 3 1 4 3 3 0 0 4 -7
+p185
+aVIke Austin LAC 03/15/1998 LAC @ POR L 38 18 8 18 44.4 0 1 0.0 2 4 50.0 5 4 9 4 1 1 3 4 -13
+p186
+aVMaurice Taylor LAC 03/15/1998 LAC @ POR L 20 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 1 0 0 2 4 -7
+p187
+aVEric Piatkowski LAC 03/13/1998 LAC vs. TOR W 26 18 8 12 66.7 2 5 40.0 0 0 - 1 1 2 3 0 1 0 1 25
+p188
+aVRodney Rogers LAC 03/13/1998 LAC vs. TOR W 29 24 8 11 72.7 1 4 25.0 7 9 77.8 2 3 5 4 1 0 2 3 21
+p189
+aVLamond Murray LAC 03/13/1998 LAC vs. TOR W 29 25 11 17 64.7 3 5 60.0 0 0 - 1 2 3 1 0 0 0 1 25
+p190
+aVCharles Smith LAC 03/13/1998 LAC vs. TOR W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p191
+aVKeith Closs LAC 03/13/1998 LAC vs. TOR W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 2 0 2 -1
+p192
+aVJames Robinson LAC 03/13/1998 LAC vs. TOR W 18 7 3 8 37.5 0 4 0.0 1 2 50.0 1 1 2 5 0 0 0 1 8
+p193
+aVStojko Vrankovic LAC 03/13/1998 LAC vs. TOR W 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 1 1 1 -3
+p194
+aVMaurice Taylor LAC 03/13/1998 LAC vs. TOR W 26 18 9 11 81.8 0 0 - 0 1 0.0 2 4 6 2 0 1 1 5 13
+p195
+aVLorenzen Wright LAC 03/13/1998 LAC vs. TOR W 21 16 6 10 60.0 0 0 - 4 5 80.0 3 4 7 1 3 1 0 3 20
+p196
+aVPooh Richardson LAC 03/13/1998 LAC vs. TOR W 15 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 2 0 0 0 1 2
+p197
+aVIke Austin LAC 03/13/1998 LAC vs. TOR W 28 12 5 7 71.4 0 0 - 2 3 66.7 2 8 10 6 0 0 3 1 21
+p198
+aVDarrick Martin LAC 03/13/1998 LAC vs. TOR W 33 21 7 8 87.5 1 2 50.0 6 6 100.0 0 2 2 8 1 0 0 3 30
+p199
+aVCharles Smith LAC 03/12/1998 LAC vs. LAL L 12 9 4 7 57.1 1 3 33.3 0 0 - 3 1 4 0 1 0 0 2 -6
+p200
+aVKeith Closs LAC 03/12/1998 LAC vs. LAL L 13 4 2 6 33.3 0 0 - 0 0 - 3 2 5 0 0 3 0 2 -2
+p201
+aVLamond Murray LAC 03/12/1998 LAC vs. LAL L 36 13 5 12 41.7 1 2 50.0 2 4 50.0 3 3 6 1 2 4 3 6 -14
+p202
+aVEric Piatkowski LAC 03/12/1998 LAC vs. LAL L 26 2 1 7 14.3 0 2 0.0 0 0 - 0 3 3 1 1 0 0 1 -9
+p203
+aVDarrick Martin LAC 03/12/1998 LAC vs. LAL L 29 10 3 8 37.5 2 4 50.0 2 2 100.0 0 1 1 1 1 0 0 3 -9
+p204
+aVStojko Vrankovic LAC 03/12/1998 LAC vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 0 0 5
+p205
+aVRodney Rogers LAC 03/12/1998 LAC vs. LAL L 37 16 6 16 37.5 1 6 16.7 3 6 50.0 3 6 9 2 3 0 2 2 -15
+p206
+aVMaurice Taylor LAC 03/12/1998 LAC vs. LAL L 21 10 4 9 44.4 0 0 - 2 3 66.7 0 4 4 0 0 1 1 6 -21
+p207
+aVJames Robinson LAC 03/12/1998 LAC vs. LAL L 18 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 0 0 0 1 0 -17
+p208
+aVIke Austin LAC 03/12/1998 LAC vs. LAL L 34 13 5 22 22.7 0 0 - 3 6 50.0 5 8 13 1 3 1 2 3 -22
+p209
+aVPooh Richardson LAC 03/12/1998 LAC vs. LAL L 12 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p210
+aVStojko Vrankovic LAC 03/09/1998 LAC @ PHX L 7 0 0 0 - 0 0 - 0 0 - 0 6 6 0 0 0 0 1 -1
+p211
+aVPooh Richardson LAC 03/09/1998 LAC @ PHX L 27 6 3 8 37.5 0 0 - 0 0 - 1 2 3 1 1 0 1 2 -6
+p212
+aVMaurice Taylor LAC 03/09/1998 LAC @ PHX L 24 15 6 9 66.7 0 0 - 3 3 100.0 3 1 4 2 0 0 2 2 -10
+p213
+aVDarrick Martin LAC 03/09/1998 LAC @ PHX L 23 4 2 7 28.6 0 0 - 0 0 - 1 1 2 3 0 0 4 2 -19
+p214
+aVEric Piatkowski LAC 03/09/1998 LAC @ PHX L 25 23 8 11 72.7 7 8 87.5 0 0 - 0 1 1 3 2 0 0 5 -26
+p215
+aVCharles Smith LAC 03/09/1998 LAC @ PHX L 13 10 4 9 44.4 2 3 66.7 0 0 - 0 1 1 1 0 0 3 0 4
+p216
+aVIke Austin LAC 03/09/1998 LAC @ PHX L 38 21 6 10 60.0 0 0 - 9 12 75.0 3 2 5 5 0 1 6 2 -25
+p217
+aVKeith Closs LAC 03/09/1998 LAC @ PHX L 11 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 1 1 1 2 0 -3
+p218
+aVRodney Rogers LAC 03/09/1998 LAC @ PHX L 25 2 0 5 0.0 0 1 0.0 2 2 100.0 2 2 4 3 2 0 3 2 -29
+p219
+aVJames Collins LAC 03/09/1998 LAC @ PHX L 9 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 1 0 0 1 0
+p220
+aVJames Robinson LAC 03/09/1998 LAC @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p221
+aVLamond Murray LAC 03/09/1998 LAC @ PHX L 32 20 7 11 63.6 3 4 75.0 3 4 75.0 0 6 6 7 0 0 1 1 -19
+p222
+aVKeith Closs LAC 03/08/1998 LAC @ DEN W 11 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 0 0 1 1 2
+p223
+aVJames Robinson LAC 03/08/1998 LAC @ DEN W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -14
+p224
+aVLamond Murray LAC 03/08/1998 LAC @ DEN W 34 19 6 11 54.5 1 3 33.3 6 7 85.7 2 2 4 2 4 0 1 4 26
+p225
+aVRodney Rogers LAC 03/08/1998 LAC @ DEN W 28 9 3 7 42.9 1 2 50.0 2 2 100.0 1 1 2 3 2 1 3 5 14
+p226
+aVMaurice Taylor LAC 03/08/1998 LAC @ DEN W 22 8 2 6 33.3 0 0 - 4 6 66.7 1 2 3 0 0 0 2 3 0
+p227
+aVIke Austin LAC 03/08/1998 LAC @ DEN W 36 18 6 10 60.0 0 0 - 6 10 60.0 2 5 7 3 0 0 2 3 4
+p228
+aVDarrick Martin LAC 03/08/1998 LAC @ DEN W 33 11 2 9 22.2 1 6 16.7 6 7 85.7 0 2 2 6 2 0 2 3 12
+p229
+aVEric Piatkowski LAC 03/08/1998 LAC @ DEN W 47 29 10 15 66.7 3 4 75.0 6 6 100.0 1 6 7 4 2 2 1 2 14
+p230
+aVPooh Richardson LAC 03/08/1998 LAC @ DEN W 15 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 2 1
+p231
+aVCharles Smith LAC 03/08/1998 LAC @ DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p232
+aVDarrick Martin LAC 03/05/1998 LAC @ DAL L 26 7 2 4 50.0 0 2 0.0 3 3 100.0 0 1 1 1 2 0 0 1 -29
+p233
+aVLamond Murray LAC 03/05/1998 LAC @ DAL L 34 24 9 13 69.2 2 3 66.7 4 6 66.7 5 4 9 1 3 0 3 6 -8
+p234
+aVMaurice Taylor LAC 03/05/1998 LAC @ DAL L 28 21 7 12 58.3 0 0 - 7 9 77.8 3 2 5 1 0 0 3 4 -12
+p235
+aVPooh Richardson LAC 03/05/1998 LAC @ DAL L 22 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 1 1 1 0 19
+p236
+aVEric Piatkowski LAC 03/05/1998 LAC @ DAL L 27 9 2 5 40.0 0 2 0.0 5 5 100.0 1 3 4 1 1 0 4 0 -20
+p237
+aVIke Austin LAC 03/05/1998 LAC @ DAL L 39 16 8 16 50.0 0 0 - 0 0 - 2 5 7 2 1 1 7 3 -20
+p238
+aVJames Robinson LAC 03/05/1998 LAC @ DAL L 21 12 5 13 38.5 1 5 20.0 1 3 33.3 0 2 2 3 1 0 0 1 10
+p239
+aVRodney Rogers LAC 03/05/1998 LAC @ DAL L 26 9 3 7 42.9 1 2 50.0 2 5 40.0 0 5 5 4 0 1 2 3 -9
+p240
+aVKeith Closs LAC 03/05/1998 LAC @ DAL L 17 7 3 4 75.0 0 0 - 1 2 50.0 3 1 4 2 0 2 1 3 17
+p241
+aVCharles Smith LAC 03/05/1998 LAC @ DAL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p242
+aVDarrick Martin LAC 03/03/1998 LAC @ HOU L 39 13 4 12 33.3 1 5 20.0 4 5 80.0 0 2 2 3 1 0 1 4 -8
+p243
+aVPooh Richardson LAC 03/03/1998 LAC @ HOU L 9 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 -2
+p244
+aVJames Robinson LAC 03/03/1998 LAC @ HOU L 18 4 1 6 16.7 1 3 33.3 1 1 100.0 1 0 1 3 0 0 1 2 -10
+p245
+aVStojko Vrankovic LAC 03/03/1998 LAC @ HOU L 13 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -8
+p246
+aVJames Collins LAC 03/03/1998 LAC @ HOU L 1 0 0 0 - 0 0 - 0 1 0.0 0 0 0 1 0 0 0 0 4
+p247
+aVMaurice Taylor LAC 03/03/1998 LAC @ HOU L 14 10 4 10 40.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 4 0
+p248
+aVEric Piatkowski LAC 03/03/1998 LAC @ HOU L 29 5 2 7 28.6 1 3 33.3 0 0 - 1 4 5 5 1 0 2 2 -4
+p249
+aVLamond Murray LAC 03/03/1998 LAC @ HOU L 38 17 7 18 38.9 1 4 25.0 2 2 100.0 5 7 12 2 2 0 2 2 -14
+p250
+aVRodney Rogers LAC 03/03/1998 LAC @ HOU L 41 27 11 23 47.8 5 9 55.6 0 0 - 2 5 7 3 4 0 1 1 -9
+p251
+aVCharles Smith LAC 03/03/1998 LAC @ HOU L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p252
+aVIke Austin LAC 03/03/1998 LAC @ HOU L 37 16 6 15 40.0 0 0 - 4 4 100.0 7 5 12 5 0 1 4 2 -3
+p253
+aVLorenzen Wright LAC 02/27/1998 LAC vs. PHX L 22 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 6
+p254
+aVRodney Rogers LAC 02/27/1998 LAC vs. PHX L 38 17 7 14 50.0 1 4 25.0 2 2 100.0 2 7 9 2 2 0 5 2 -21
+p255
+aVJames Robinson LAC 02/27/1998 LAC vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -6
+p256
+aVEric Piatkowski LAC 02/27/1998 LAC vs. PHX L 45 22 8 15 53.3 5 9 55.6 1 2 50.0 2 3 5 3 0 0 1 3 1
+p257
+aVIke Austin LAC 02/27/1998 LAC vs. PHX L 39 24 10 18 55.6 0 0 - 4 7 57.1 2 6 8 5 2 0 1 4 -1
+p258
+aVMaurice Taylor LAC 02/27/1998 LAC vs. PHX L 12 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 1 -9
+p259
+aVDarrick Martin LAC 02/27/1998 LAC vs. PHX L 39 14 5 14 35.7 2 6 33.3 2 2 100.0 1 4 5 4 4 0 1 4 7
+p260
+aVLamond Murray LAC 02/27/1998 LAC vs. PHX L 32 15 4 11 36.4 2 4 50.0 5 6 83.3 1 1 2 2 6 1 1 2 10
+p261
+aVPooh Richardson LAC 02/27/1998 LAC vs. PHX L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -12
+p262
+aVMaurice Taylor LAC 02/25/1998 LAC vs. PHI W 26 20 7 11 63.6 0 0 - 6 7 85.7 1 4 5 0 3 1 1 1 7
+p263
+aVStojko Vrankovic LAC 02/25/1998 LAC vs. PHI W 4 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 4 -9
+p264
+aVJames Robinson LAC 02/25/1998 LAC vs. PHI W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 3 1 -12
+p265
+aVDarrick Martin LAC 02/25/1998 LAC vs. PHI W 41 14 3 11 27.3 2 6 33.3 6 8 75.0 0 3 3 6 0 0 3 3 11
+p266
+aVPooh Richardson LAC 02/25/1998 LAC vs. PHI W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 -2
+p267
+aVLamond Murray LAC 02/25/1998 LAC vs. PHI W 32 9 3 7 42.9 0 1 0.0 3 4 75.0 1 5 6 0 1 1 3 3 2
+p268
+aVRodney Rogers LAC 02/25/1998 LAC vs. PHI W 26 19 6 11 54.5 1 3 33.3 6 6 100.0 0 2 2 4 0 0 1 4 19
+p269
+aVIke Austin LAC 02/25/1998 LAC vs. PHI W 37 19 8 12 66.7 0 0 - 3 4 75.0 4 8 12 3 1 2 0 3 21
+p270
+aVLorenzen Wright LAC 02/25/1998 LAC vs. PHI W 20 3 1 5 20.0 0 0 - 1 2 50.0 3 2 5 1 0 0 2 4 -13
+p271
+aVEric Piatkowski LAC 02/25/1998 LAC vs. PHI W 39 27 7 13 53.8 5 8 62.5 8 8 100.0 1 6 7 2 0 0 2 2 21
+p272
+aVLorenzen Wright LAC 02/23/1998 LAC vs. SEA L 26 3 1 3 33.3 0 0 - 1 4 25.0 2 7 9 2 1 1 1 2 -3
+p273
+aVDarrick Martin LAC 02/23/1998 LAC vs. SEA L 48 11 4 11 36.4 3 6 50.0 0 0 - 0 3 3 7 2 0 1 2 -1
+p274
+aVJames Robinson LAC 02/23/1998 LAC vs. SEA L 6 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -5
+p275
+aVIke Austin LAC 02/23/1998 LAC vs. SEA L 38 17 7 17 41.2 0 0 - 3 6 50.0 2 3 5 2 0 2 7 2 0
+p276
+aVMaurice Taylor LAC 02/23/1998 LAC vs. SEA L 16 13 5 8 62.5 0 0 - 3 5 60.0 3 2 5 1 0 0 3 4 -9
+p277
+aVEric Piatkowski LAC 02/23/1998 LAC vs. SEA L 42 19 6 14 42.9 3 7 42.9 4 4 100.0 2 3 5 4 1 0 1 3 4
+p278
+aVRodney Rogers LAC 02/23/1998 LAC vs. SEA L 29 13 5 8 62.5 1 2 50.0 2 2 100.0 2 6 8 3 1 3 2 2 10
+p279
+aVLamond Murray LAC 02/23/1998 LAC vs. SEA L 34 24 9 12 75.0 3 4 75.0 3 6 50.0 2 7 9 2 1 1 2 0 -1
+p280
+aVIke Austin LAC 02/21/1998 LAC vs. CHH L 29 16 6 12 50.0 0 0 - 4 8 50.0 6 4 10 3 0 0 0 1 -20
+p281
+aVPooh Richardson LAC 02/21/1998 LAC vs. CHH L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p282
+aVRodney Rogers LAC 02/21/1998 LAC vs. CHH L 27 11 4 7 57.1 0 1 0.0 3 7 42.9 1 2 3 1 1 0 1 4 -8
+p283
+aVJames Robinson LAC 02/21/1998 LAC vs. CHH L 17 9 3 7 42.9 1 3 33.3 2 2 100.0 2 1 3 1 0 0 2 2 -10
+p284
+aVLorenzen Wright LAC 02/21/1998 LAC vs. CHH L 21 2 0 2 0.0 0 0 - 2 2 100.0 0 5 5 0 0 1 1 1 -2
+p285
+aVMaurice Taylor LAC 02/21/1998 LAC vs. CHH L 26 17 8 13 61.5 0 0 - 1 2 50.0 0 3 3 1 1 0 3 3 10
+p286
+aVEric Piatkowski LAC 02/21/1998 LAC vs. CHH L 38 16 6 13 46.2 3 7 42.9 1 1 100.0 2 2 4 2 3 0 0 3 -17
+p287
+aVLamond Murray LAC 02/21/1998 LAC vs. CHH L 40 11 5 12 41.7 1 2 50.0 0 2 0.0 1 1 2 2 1 0 4 3 -17
+p288
+aVDarrick Martin LAC 02/21/1998 LAC vs. CHH L 36 16 5 12 41.7 1 4 25.0 5 6 83.3 1 1 2 3 1 0 0 4 7
+p289
+aVLamond Murray LAC 02/19/1998 LAC vs. MIA L 42 15 6 13 46.2 0 0 - 3 4 75.0 3 8 11 2 1 0 1 0 -11
+p290
+aVLorenzen Wright LAC 02/19/1998 LAC vs. MIA L 40 7 3 13 23.1 0 0 - 1 2 50.0 5 10 15 0 0 0 0 4 -6
+p291
+aVJames Robinson LAC 02/19/1998 LAC vs. MIA L 22 10 4 8 50.0 1 1 100.0 1 4 25.0 0 1 1 2 0 0 0 2 4
+p292
+aVPooh Richardson LAC 02/19/1998 LAC vs. MIA L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 1 1 11
+p293
+aVEric Piatkowski LAC 02/19/1998 LAC vs. MIA L 36 16 5 12 41.7 2 3 66.7 4 4 100.0 1 3 4 1 0 0 2 1 -12
+p294
+aVMaurice Taylor LAC 02/19/1998 LAC vs. MIA L 27 17 7 17 41.2 0 0 - 3 4 75.0 3 3 6 0 1 0 1 4 -22
+p295
+aVStojko Vrankovic LAC 02/19/1998 LAC vs. MIA L 4 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 1 1 0 12
+p296
+aVKeith Closs LAC 02/19/1998 LAC vs. MIA L 26 2 1 4 25.0 0 0 - 0 2 0.0 1 1 2 1 0 5 1 3 -2
+p297
+aVDarrick Martin LAC 02/19/1998 LAC vs. MIA L 32 9 4 9 44.4 1 2 50.0 0 0 - 0 3 3 5 0 0 2 3 -19
+p298
+aVStojko Vrankovic LAC 02/16/1998 LAC vs. HOU L 15 6 2 7 28.6 0 0 - 2 2 100.0 5 1 6 0 0 0 0 0 -6
+p299
+aVMaurice Taylor LAC 02/16/1998 LAC vs. HOU L 24 12 4 11 36.4 0 0 - 4 4 100.0 2 0 2 0 0 0 0 5 -16
+p300
+aVDarrick Martin LAC 02/16/1998 LAC vs. HOU L 29 12 5 12 41.7 2 6 33.3 0 1 0.0 1 1 2 4 1 0 3 1 -13
+p301
+aVJames Robinson LAC 02/16/1998 LAC vs. HOU L 20 8 3 10 30.0 1 3 33.3 1 2 50.0 2 1 3 1 0 0 0 3 -11
+p302
+aVLorenzen Wright LAC 02/16/1998 LAC vs. HOU L 38 12 6 13 46.2 0 0 - 0 0 - 4 6 10 1 2 1 2 3 -11
+p303
+aVKeith Closs LAC 02/16/1998 LAC vs. HOU L 19 7 3 6 50.0 0 0 - 1 2 50.0 2 3 5 0 1 2 2 3 -1
+p304
+aVPooh Richardson LAC 02/16/1998 LAC vs. HOU L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 2 0 4
+p305
+aVBrent Barry LAC 02/16/1998 LAC vs. HOU L 18 9 3 8 37.5 2 5 40.0 1 1 100.0 0 0 0 0 1 0 1 1 9
+p306
+aVLamond Murray LAC 02/16/1998 LAC vs. HOU L 39 18 8 16 50.0 1 2 50.0 1 1 100.0 3 7 10 1 2 0 2 0 -27
+p307
+aVEric Piatkowski LAC 02/16/1998 LAC vs. HOU L 25 13 5 6 83.3 0 1 0.0 3 4 75.0 1 1 2 1 0 0 1 3 -29
+p308
+aVJames Collins LAC 02/16/1998 LAC vs. HOU L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -9
+p309
+aVBrent Barry LAC 02/13/1998 LAC vs. BOS L 22 3 0 5 0.0 0 2 0.0 3 4 75.0 0 1 1 3 1 1 1 1 -8
+p310
+aVDarrick Martin LAC 02/13/1998 LAC vs. BOS L 30 13 3 10 30.0 2 5 40.0 5 5 100.0 0 3 3 2 0 0 3 4 3
+p311
+aVLorenzen Wright LAC 02/13/1998 LAC vs. BOS L 44 16 6 10 60.0 0 0 - 4 8 50.0 6 11 17 3 1 0 2 2 -1
+p312
+aVMaurice Taylor LAC 02/13/1998 LAC vs. BOS L 27 17 5 11 45.5 0 0 - 7 9 77.8 3 7 10 1 1 0 1 4 8
+p313
+aVLamond Murray LAC 02/13/1998 LAC vs. BOS L 41 20 8 17 47.1 1 4 25.0 3 4 75.0 5 2 7 2 0 1 4 0 -8
+p314
+aVRodney Rogers LAC 02/13/1998 LAC vs. BOS L 28 12 4 8 50.0 0 3 0.0 4 6 66.7 1 2 3 2 1 0 4 4 -8
+p315
+aVJames Robinson LAC 02/13/1998 LAC vs. BOS L 25 13 4 9 44.4 1 2 50.0 4 4 100.0 0 1 1 5 1 0 3 1 7
+p316
+aVEric Piatkowski LAC 02/13/1998 LAC vs. BOS L 23 2 0 4 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 2 2 2
+p317
+aVLamond Murray LAC 02/11/1998 LAC vs. WAS L 44 28 11 18 61.1 1 4 25.0 5 6 83.3 2 2 4 2 1 2 3 2 3
+p318
+aVEric Piatkowski LAC 02/11/1998 LAC vs. WAS L 24 4 2 7 28.6 0 3 0.0 0 0 - 0 2 2 0 1 0 1 1 2
+p319
+aVMaurice Taylor LAC 02/11/1998 LAC vs. WAS L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -12
+p320
+aVLorenzen Wright LAC 02/11/1998 LAC vs. WAS L 46 12 4 11 36.4 0 0 - 4 5 80.0 6 16 22 1 1 1 0 5 -5
+p321
+aVPooh Richardson LAC 02/11/1998 LAC vs. WAS L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p322
+aVBrent Barry LAC 02/11/1998 LAC vs. WAS L 13 9 2 2 100.0 1 1 100.0 4 4 100.0 0 1 1 2 0 1 0 0 6
+p323
+aVDarrick Martin LAC 02/11/1998 LAC vs. WAS L 30 9 2 7 28.6 1 3 33.3 4 4 100.0 1 2 3 9 1 0 2 2 -3
+p324
+aVRodney Rogers LAC 02/11/1998 LAC vs. WAS L 43 34 12 20 60.0 2 6 33.3 8 12 66.7 2 7 9 4 1 0 1 3 -3
+p325
+aVJames Robinson LAC 02/11/1998 LAC vs. WAS L 24 6 3 12 25.0 0 5 0.0 0 0 - 1 0 1 2 1 0 4 3 -8
+p326
+aVStojko Vrankovic LAC 02/11/1998 LAC vs. WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p327
+aVJames Robinson LAC 02/10/1998 LAC @ UTA L 25 22 7 15 46.7 3 9 33.3 5 6 83.3 1 1 2 3 2 0 1 1 10
+p328
+aVJames Collins LAC 02/10/1998 LAC @ UTA L 3 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 1 0 0 4
+p329
+aVEric Piatkowski LAC 02/10/1998 LAC @ UTA L 38 18 6 15 40.0 1 5 20.0 5 5 100.0 2 3 5 2 1 0 1 4 -7
+p330
+aVBrent Barry LAC 02/10/1998 LAC @ UTA L 14 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 2 0 2 2 12
+p331
+aVStojko Vrankovic LAC 02/10/1998 LAC @ UTA L 23 3 1 7 14.3 0 0 - 1 3 33.3 2 1 3 1 0 2 0 1 2
+p332
+aVRodney Rogers LAC 02/10/1998 LAC @ UTA L 25 10 2 7 28.6 0 2 0.0 6 8 75.0 0 3 3 0 3 1 3 6 -12
+p333
+aVDarrick Martin LAC 02/10/1998 LAC @ UTA L 19 5 1 4 25.0 0 2 0.0 3 3 100.0 0 0 0 3 0 0 4 1 -21
+p334
+aVLorenzen Wright LAC 02/10/1998 LAC @ UTA L 25 8 4 5 80.0 0 0 - 0 0 - 0 6 6 1 1 2 1 5 -25
+p335
+aVPooh Richardson LAC 02/10/1998 LAC @ UTA L 22 13 6 9 66.7 1 1 100.0 0 0 - 0 0 0 7 0 0 0 1 5
+p336
+aVLamond Murray LAC 02/10/1998 LAC @ UTA L 41 15 5 13 38.5 1 2 50.0 4 4 100.0 2 9 11 3 2 1 2 1 -17
+p337
+aVKeith Closs LAC 02/10/1998 LAC @ UTA L 7 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 2 0 0 0 0 9
+p338
+aVLorenzen Wright LAC 02/03/1998 LAC vs. UTA W 45 17 8 11 72.7 0 0 - 1 2 50.0 6 9 15 5 0 3 3 4 10
+p339
+aVStojko Vrankovic LAC 02/03/1998 LAC vs. UTA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p340
+aVEric Piatkowski LAC 02/03/1998 LAC vs. UTA W 23 15 5 9 55.6 4 5 80.0 1 2 50.0 1 4 5 1 0 0 1 3 -7
+p341
+aVDarrick Martin LAC 02/03/1998 LAC vs. UTA W 40 11 4 15 26.7 0 5 0.0 3 3 100.0 0 3 3 7 2 0 2 6 13
+p342
+aVRodney Rogers LAC 02/03/1998 LAC vs. UTA W 46 22 8 10 80.0 3 3 100.0 3 5 60.0 4 5 9 5 0 0 2 5 11
+p343
+aVJames Robinson LAC 02/03/1998 LAC vs. UTA W 27 25 9 16 56.3 5 9 55.6 2 4 50.0 1 0 1 1 1 0 0 2 16
+p344
+aVMaurice Taylor LAC 02/03/1998 LAC vs. UTA W 30 12 5 12 41.7 0 0 - 2 2 100.0 2 5 7 1 0 0 1 4 20
+p345
+aVLamond Murray LAC 02/03/1998 LAC vs. UTA W 18 4 1 6 16.7 0 1 0.0 2 2 100.0 2 1 3 2 0 0 2 4 -13
+p346
+aVPooh Richardson LAC 02/03/1998 LAC vs. UTA W 8 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 1 -4
+p347
+aVKeith Closs LAC 02/01/1998 LAC vs. IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p348
+aVPooh Richardson LAC 02/01/1998 LAC vs. IND L 11 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -6
+p349
+aVEric Piatkowski LAC 02/01/1998 LAC vs. IND L 27 15 6 10 60.0 3 5 60.0 0 0 - 0 2 2 2 1 0 0 2 -3
+p350
+aVRodney Rogers LAC 02/01/1998 LAC vs. IND L 34 19 8 16 50.0 0 2 0.0 3 4 75.0 5 6 11 1 1 0 4 3 -7
+p351
+aVLamond Murray LAC 02/01/1998 LAC vs. IND L 28 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 1 1 1 3 2 -6
+p352
+aVJames Robinson LAC 02/01/1998 LAC vs. IND L 22 12 4 9 44.4 2 5 40.0 2 2 100.0 1 5 6 3 1 0 1 3 -5
+p353
+aVDarrick Martin LAC 02/01/1998 LAC vs. IND L 37 12 2 11 18.2 1 6 16.7 7 7 100.0 1 2 3 3 0 0 3 4 -1
+p354
+aVStojko Vrankovic LAC 02/01/1998 LAC vs. IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p355
+aVMaurice Taylor LAC 02/01/1998 LAC vs. IND L 34 14 5 15 33.3 0 0 - 4 4 100.0 2 3 5 2 0 0 2 4 -1
+p356
+aVLorenzen Wright LAC 02/01/1998 LAC vs. IND L 41 10 3 10 30.0 0 0 - 4 8 50.0 5 12 17 2 0 3 1 3 0
+p357
+aVStojko Vrankovic LAC 01/30/1998 LAC vs. SAS L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 8
+p358
+aVRodney Rogers LAC 01/30/1998 LAC vs. SAS L 36 19 5 10 50.0 2 3 66.7 7 7 100.0 1 6 7 4 5 1 2 5 -5
+p359
+aVMaurice Taylor LAC 01/30/1998 LAC vs. SAS L 19 5 1 5 20.0 0 0 - 3 4 75.0 2 3 5 0 0 2 4 3 -15
+p360
+aVLamond Murray LAC 01/30/1998 LAC vs. SAS L 44 26 10 14 71.4 0 2 0.0 6 8 75.0 2 7 9 2 2 1 2 3 -6
+p361
+aVEric Piatkowski LAC 01/30/1998 LAC vs. SAS L 34 9 4 10 40.0 1 4 25.0 0 0 - 0 2 2 1 2 0 3 3 -3
+p362
+aVDarrick Martin LAC 01/30/1998 LAC vs. SAS L 29 14 5 16 31.3 2 6 33.3 2 2 100.0 1 0 1 3 0 0 1 1 -2
+p363
+aVJames Robinson LAC 01/30/1998 LAC vs. SAS L 16 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -10
+p364
+aVLorenzen Wright LAC 01/30/1998 LAC vs. SAS L 35 12 6 12 50.0 0 0 - 0 5 0.0 2 6 8 1 0 2 2 4 -9
+p365
+aVPooh Richardson LAC 01/30/1998 LAC vs. SAS L 19 2 1 7 14.3 0 0 - 0 0 - 0 0 0 1 2 0 0 0 -8
+p366
+aVMaurice Taylor LAC 01/28/1998 LAC @ SAS L 28 18 8 15 53.3 0 0 - 2 4 50.0 2 4 6 1 1 1 0 2 -14
+p367
+aVStojko Vrankovic LAC 01/28/1998 LAC @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -4
+p368
+aVDarrick Martin LAC 01/28/1998 LAC @ SAS L 21 7 2 5 40.0 0 3 0.0 3 3 100.0 0 0 0 4 1 0 2 4 -11
+p369
+aVRodney Rogers LAC 01/28/1998 LAC @ SAS L 33 8 3 15 20.0 1 5 20.0 1 2 50.0 2 2 4 2 0 0 4 1 -22
+p370
+aVLorenzen Wright LAC 01/28/1998 LAC @ SAS L 26 10 5 11 45.5 0 0 - 0 1 0.0 4 5 9 0 1 2 0 4 -2
+p371
+aVPooh Richardson LAC 01/28/1998 LAC @ SAS L 22 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 5 0 0 0 1 -8
+p372
+aVKeith Closs LAC 01/28/1998 LAC @ SAS L 19 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 6 1 2 -6
+p373
+aVJames Robinson LAC 01/28/1998 LAC @ SAS L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p374
+aVLamond Murray LAC 01/28/1998 LAC @ SAS L 32 5 0 11 0.0 0 1 0.0 5 8 62.5 1 1 2 1 2 0 1 3 -21
+p375
+aVJames Collins LAC 01/28/1998 LAC @ SAS L 12 11 4 4 100.0 2 2 100.0 1 2 50.0 0 1 1 0 0 1 0 1 4
+p376
+aVEric Piatkowski LAC 01/28/1998 LAC @ SAS L 36 17 6 11 54.5 1 4 25.0 4 4 100.0 2 2 4 1 2 0 1 0 -27
+p377
+aVRodney Rogers LAC 01/27/1998 LAC @ HOU L 34 10 4 7 57.1 2 4 50.0 0 0 - 1 2 3 3 0 0 0 6 -11
+p378
+aVPooh Richardson LAC 01/27/1998 LAC @ HOU L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 5 0 0 0 1 -5
+p379
+aVEric Piatkowski LAC 01/27/1998 LAC @ HOU L 30 22 9 14 64.3 3 7 42.9 1 1 100.0 0 1 1 3 2 1 3 2 -5
+p380
+aVDarrick Martin LAC 01/27/1998 LAC @ HOU L 35 15 6 10 60.0 1 2 50.0 2 3 66.7 0 1 1 10 1 0 4 4 -1
+p381
+aVJames Robinson LAC 01/27/1998 LAC @ HOU L 19 9 3 9 33.3 3 5 60.0 0 0 - 0 2 2 2 1 0 4 2 4
+p382
+aVMaurice Taylor LAC 01/27/1998 LAC @ HOU L 27 21 8 16 50.0 0 1 0.0 5 6 83.3 3 2 5 1 0 0 1 0 -5
+p383
+aVLamond Murray LAC 01/27/1998 LAC @ HOU L 27 14 6 10 60.0 0 2 0.0 2 4 50.0 5 5 10 2 1 0 4 5 -2
+p384
+aVStojko Vrankovic LAC 01/27/1998 LAC @ HOU L 20 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 1 1
+p385
+aVLorenzen Wright LAC 01/27/1998 LAC @ HOU L 25 8 4 5 80.0 0 0 - 0 0 - 1 6 7 0 1 0 2 2 -5
+p386
+aVKeith Closs LAC 01/27/1998 LAC @ HOU L 11 6 2 3 66.7 0 0 - 2 4 50.0 1 2 3 0 0 2 1 3 -1
+p387
+aVDarrick Martin LAC 01/24/1998 LAC vs. DEN L 31 14 5 11 45.5 0 2 0.0 4 4 100.0 0 0 0 4 2 0 5 5 -8
+p388
+aVEric Piatkowski LAC 01/24/1998 LAC vs. DEN L 35 13 3 8 37.5 2 4 50.0 5 6 83.3 1 2 3 0 2 0 3 2 -16
+p389
+aVJames Robinson LAC 01/24/1998 LAC vs. DEN L 17 11 3 6 50.0 1 2 50.0 4 4 100.0 0 1 1 0 0 0 3 4 -3
+p390
+aVKeith Closs LAC 01/24/1998 LAC vs. DEN L 10 5 1 2 50.0 0 0 - 3 4 75.0 1 2 3 0 0 1 0 1 -8
+p391
+aVStojko Vrankovic LAC 01/24/1998 LAC vs. DEN L 17 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 2 0 3 -4
+p392
+aVLorenzen Wright LAC 01/24/1998 LAC vs. DEN L 25 7 2 5 40.0 0 0 - 3 4 75.0 3 5 8 1 0 1 0 2 -7
+p393
+aVPooh Richardson LAC 01/24/1998 LAC vs. DEN L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 1 0 1 3 -7
+p394
+aVMaurice Taylor LAC 01/24/1998 LAC vs. DEN L 21 11 4 11 36.4 0 0 - 3 5 60.0 4 1 5 0 0 0 0 5 -3
+p395
+aVRodney Rogers LAC 01/24/1998 LAC vs. DEN L 37 10 3 10 30.0 0 1 0.0 4 4 100.0 4 1 5 3 0 0 0 0 -19
+p396
+aVLamond Murray LAC 01/24/1998 LAC vs. DEN L 30 4 2 9 22.2 0 0 - 0 0 - 1 3 4 2 1 0 4 3 -16
+p397
+aVJames Collins LAC 01/24/1998 LAC vs. DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p398
+aVStojko Vrankovic LAC 01/22/1998 LAC vs. DET L 22 9 4 4 100.0 0 0 - 1 2 50.0 2 6 8 0 0 2 1 2 3
+p399
+aVLorenzen Wright LAC 01/22/1998 LAC vs. DET L 23 7 3 8 37.5 0 0 - 1 1 100.0 3 1 4 0 0 0 0 4 -19
+p400
+aVJames Collins LAC 01/22/1998 LAC vs. DET L 3 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -2
+p401
+aVEric Piatkowski LAC 01/22/1998 LAC vs. DET L 23 3 1 4 25.0 1 4 25.0 0 0 - 2 3 5 0 0 1 0 3 -15
+p402
+aVDarrick Martin LAC 01/22/1998 LAC vs. DET L 28 9 2 10 20.0 1 4 25.0 4 4 100.0 0 3 3 3 1 0 2 3 -5
+p403
+aVLamond Murray LAC 01/22/1998 LAC vs. DET L 35 16 6 14 42.9 0 2 0.0 4 6 66.7 1 4 5 0 0 1 1 4 -7
+p404
+aVMaurice Taylor LAC 01/22/1998 LAC vs. DET L 22 13 3 8 37.5 0 0 - 7 8 87.5 2 0 2 1 0 1 2 3 -18
+p405
+aVRodney Rogers LAC 01/22/1998 LAC vs. DET L 37 6 3 14 21.4 0 3 0.0 0 0 - 2 4 6 5 2 0 3 5 -9
+p406
+aVJames Robinson LAC 01/22/1998 LAC vs. DET L 15 6 3 5 60.0 0 2 0.0 0 0 - 1 0 1 2 0 0 2 4 -11
+p407
+aVBrent Barry LAC 01/22/1998 LAC vs. DET L 32 3 1 9 11.1 0 5 0.0 1 2 50.0 2 3 5 1 0 1 1 1 -7
+p408
+aVKeith Closs LAC 01/19/1998 LAC @ MIN L 12 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -18
+p409
+aVDarrick Martin LAC 01/19/1998 LAC @ MIN L 30 12 4 11 36.4 1 5 20.0 3 3 100.0 0 2 2 6 3 0 3 2 -2
+p410
+aVJames Robinson LAC 01/19/1998 LAC @ MIN L 18 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 6 2 0 2 1 -6
+p411
+aVLorenzen Wright LAC 01/19/1998 LAC @ MIN L 22 6 3 7 42.9 0 0 - 0 0 - 2 6 8 1 1 0 0 3 -3
+p412
+aVStojko Vrankovic LAC 01/19/1998 LAC @ MIN L 13 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 0 5 3
+p413
+aVRodney Rogers LAC 01/19/1998 LAC @ MIN L 45 24 11 23 47.8 2 6 33.3 0 2 0.0 4 3 7 4 1 1 2 3 1
+p414
+aVLamond Murray LAC 01/19/1998 LAC @ MIN L 31 21 6 10 60.0 1 1 100.0 8 9 88.9 3 5 8 1 0 0 2 1 -4
+p415
+aVBrent Barry LAC 01/19/1998 LAC @ MIN L 30 11 3 10 30.0 1 3 33.3 4 4 100.0 0 1 1 2 1 2 2 2 -2
+p416
+aVEric Piatkowski LAC 01/19/1998 LAC @ MIN L 18 17 5 9 55.6 4 5 80.0 3 4 75.0 1 1 2 0 0 2 1 3 -6
+p417
+aVMaurice Taylor LAC 01/19/1998 LAC @ MIN L 21 7 3 10 30.0 0 0 - 1 2 50.0 4 2 6 1 1 1 2 5 -3
+p418
+aVKeith Closs LAC 01/17/1998 LAC @ WAS L 3 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -3
+p419
+aVMaurice Taylor LAC 01/17/1998 LAC @ WAS L 24 10 5 10 50.0 0 0 - 0 1 0.0 1 4 5 0 0 1 4 3 -9
+p420
+aVJames Robinson LAC 01/17/1998 LAC @ WAS L 24 20 7 11 63.6 4 8 50.0 2 2 100.0 0 4 4 4 1 1 4 2 -3
+p421
+aVLamond Murray LAC 01/17/1998 LAC @ WAS L 37 10 4 14 28.6 0 0 - 2 4 50.0 2 4 6 3 1 1 3 2 -10
+p422
+aVStojko Vrankovic LAC 01/17/1998 LAC @ WAS L 45 4 2 2 100.0 0 0 - 0 2 0.0 3 9 12 2 0 2 1 2 -5
+p423
+aVDarrick Martin LAC 01/17/1998 LAC @ WAS L 24 13 4 10 40.0 3 6 50.0 2 2 100.0 0 0 0 5 0 0 1 2 -6
+p424
+aVRodney Rogers LAC 01/17/1998 LAC @ WAS L 24 22 8 14 57.1 0 3 0.0 6 7 85.7 1 2 3 4 0 0 2 2 0
+p425
+aVBrent Barry LAC 01/17/1998 LAC @ WAS L 43 16 6 9 66.7 3 4 75.0 1 2 50.0 0 2 2 6 4 2 3 2 -7
+p426
+aVEric Piatkowski LAC 01/17/1998 LAC @ WAS L 17 3 1 4 25.0 0 1 0.0 1 1 100.0 2 1 3 1 1 0 2 5 -2
+p427
+aVJames Robinson LAC 01/15/1998 LAC @ NJN W 15 10 4 6 66.7 1 2 50.0 1 3 33.3 0 0 0 4 1 0 1 4 0
+p428
+aVBrent Barry LAC 01/15/1998 LAC @ NJN W 41 13 5 12 41.7 1 3 33.3 2 2 100.0 2 3 5 7 2 0 5 2 0
+p429
+aVRodney Rogers LAC 01/15/1998 LAC @ NJN W 30 29 11 17 64.7 2 2 100.0 5 7 71.4 1 2 3 4 1 0 2 5 0
+p430
+aVLamond Murray LAC 01/15/1998 LAC @ NJN W 46 24 10 16 62.5 2 3 66.7 2 2 100.0 3 7 10 3 0 2 4 5 -2
+p431
+aVStojko Vrankovic LAC 01/15/1998 LAC @ NJN W 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -10
+p432
+aVDarrick Martin LAC 01/15/1998 LAC @ NJN W 33 20 6 10 60.0 2 4 50.0 6 9 66.7 0 1 1 5 1 0 0 1 4
+p433
+aVKeith Closs LAC 01/15/1998 LAC @ NJN W 28 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 1 2 0 2 11
+p434
+aVEric Piatkowski LAC 01/15/1998 LAC @ NJN W 17 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 0 1 0 2 3 11
+p435
+aVMaurice Taylor LAC 01/15/1998 LAC @ NJN W 18 12 3 6 50.0 0 0 - 6 8 75.0 1 3 4 1 0 1 0 4 1
+p436
+aVMaurice Taylor LAC 01/14/1998 LAC @ TOR L 22 17 8 13 61.5 0 0 - 1 1 100.0 0 2 2 1 1 0 0 3 -4
+p437
+aVBrent Barry LAC 01/14/1998 LAC @ TOR L 40 16 5 9 55.6 4 6 66.7 2 2 100.0 1 2 3 3 1 1 3 4 -2
+p438
+aVRodney Rogers LAC 01/14/1998 LAC @ TOR L 39 16 7 19 36.8 0 4 0.0 2 3 66.7 4 3 7 6 0 2 4 2 -8
+p439
+aVJames Robinson LAC 01/14/1998 LAC @ TOR L 20 9 4 11 36.4 1 4 25.0 0 0 - 1 0 1 3 0 0 2 1 -7
+p440
+aVEric Piatkowski LAC 01/14/1998 LAC @ TOR L 18 6 1 3 33.3 0 1 0.0 4 4 100.0 0 3 3 2 1 0 1 3 -2
+p441
+aVStojko Vrankovic LAC 01/14/1998 LAC @ TOR L 23 4 2 4 50.0 0 0 - 0 0 - 2 6 8 0 0 1 1 3 1
+p442
+aVDarrick Martin LAC 01/14/1998 LAC @ TOR L 24 5 2 9 22.2 1 4 25.0 0 0 - 0 3 3 4 1 0 4 2 -3
+p443
+aVKeith Closs LAC 01/14/1998 LAC @ TOR L 21 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 1 1 3 0 -14
+p444
+aVLamond Murray LAC 01/14/1998 LAC @ TOR L 34 23 10 18 55.6 1 4 25.0 2 2 100.0 3 7 10 5 1 1 1 0 -1
+p445
+aVPooh Richardson LAC 01/12/1998 LAC @ MIL L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 2 1 2
+p446
+aVJames Collins LAC 01/12/1998 LAC @ MIL L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p447
+aVEric Piatkowski LAC 01/12/1998 LAC @ MIL L 27 11 2 7 28.6 0 3 0.0 7 8 87.5 0 6 6 2 0 1 0 1 -3
+p448
+aVKeith Closs LAC 01/12/1998 LAC @ MIL L 31 6 3 5 60.0 0 0 - 0 2 0.0 0 5 5 0 0 3 2 1 -4
+p449
+aVRodney Rogers LAC 01/12/1998 LAC @ MIL L 30 19 6 12 50.0 0 1 0.0 7 10 70.0 1 1 2 0 1 0 2 2 -15
+p450
+aVBrent Barry LAC 01/12/1998 LAC @ MIL L 30 14 5 12 41.7 3 6 50.0 1 1 100.0 0 1 1 2 0 1 1 4 -14
+p451
+aVMaurice Taylor LAC 01/12/1998 LAC @ MIL L 27 19 7 15 46.7 0 0 - 5 6 83.3 3 0 3 2 2 1 4 4 -3
+p452
+aVDarrick Martin LAC 01/12/1998 LAC @ MIL L 31 4 1 9 11.1 0 2 0.0 2 4 50.0 0 5 5 7 0 0 3 0 -13
+p453
+aVLamond Murray LAC 01/12/1998 LAC @ MIL L 35 20 8 13 61.5 0 1 0.0 4 4 100.0 4 6 10 0 1 1 0 2 -14
+p454
+aVStojko Vrankovic LAC 01/12/1998 LAC @ MIL L 16 2 1 1 100.0 0 0 - 0 4 0.0 1 3 4 1 0 0 2 0 -11
+p455
+aVJames Collins LAC 01/11/1998 LAC @ DET L 9 3 1 4 25.0 0 2 0.0 1 2 50.0 0 0 0 0 1 0 2 1 -3
+p456
+aVLorenzen Wright LAC 01/11/1998 LAC @ DET L 26 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 -17
+p457
+aVMaurice Taylor LAC 01/11/1998 LAC @ DET L 25 14 5 10 50.0 0 0 - 4 6 66.7 3 2 5 3 2 1 3 3 -9
+p458
+aVJames Robinson LAC 01/11/1998 LAC @ DET L 17 14 3 8 37.5 2 5 40.0 6 7 85.7 1 1 2 0 3 0 3 2 -7
+p459
+aVRodney Rogers LAC 01/11/1998 LAC @ DET L 24 8 3 10 30.0 1 3 33.3 1 1 100.0 2 0 2 1 1 1 4 5 -20
+p460
+aVDarrick Martin LAC 01/11/1998 LAC @ DET L 27 9 3 6 50.0 1 1 100.0 2 2 100.0 0 1 1 5 3 0 0 3 -18
+p461
+aVEric Piatkowski LAC 01/11/1998 LAC @ DET L 24 6 1 5 20.0 0 3 0.0 4 4 100.0 3 4 7 2 1 0 0 3 -14
+p462
+aVStojko Vrankovic LAC 01/11/1998 LAC @ DET L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p463
+aVBrent Barry LAC 01/11/1998 LAC @ DET L 31 17 7 13 53.8 3 5 60.0 0 0 - 0 3 3 2 1 0 1 0 -12
+p464
+aVKeith Closs LAC 01/11/1998 LAC @ DET L 21 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 5 2 1 -16
+p465
+aVLamond Murray LAC 01/11/1998 LAC @ DET L 30 10 5 17 29.4 0 0 - 0 2 0.0 3 4 7 1 2 1 3 1 -22
+p466
+aVBrent Barry LAC 01/09/1998 LAC vs. LAL L 30 14 4 6 66.7 1 2 50.0 5 7 71.4 0 6 6 3 0 0 4 5 -17
+p467
+aVPooh Richardson LAC 01/09/1998 LAC vs. LAL L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -16
+p468
+aVRodney Rogers LAC 01/09/1998 LAC vs. LAL L 41 15 4 14 28.6 0 3 0.0 7 14 50.0 4 4 8 2 2 2 6 3 0
+p469
+aVLamond Murray LAC 01/09/1998 LAC vs. LAL L 32 20 7 13 53.8 0 1 0.0 6 8 75.0 3 2 5 1 2 0 1 4 -2
+p470
+aVStojko Vrankovic LAC 01/09/1998 LAC vs. LAL L 18 0 0 0 - 0 0 - 0 0 - 0 5 5 0 0 2 1 6 -3
+p471
+aVMaurice Taylor LAC 01/09/1998 LAC vs. LAL L 24 26 11 16 68.8 0 0 - 4 6 66.7 3 2 5 0 1 0 0 6 -6
+p472
+aVEric Piatkowski LAC 01/09/1998 LAC vs. LAL L 28 14 4 10 40.0 2 5 40.0 4 4 100.0 2 4 6 0 0 0 1 3 -1
+p473
+aVKeith Closs LAC 01/09/1998 LAC vs. LAL L 18 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 1 0 1 -8
+p474
+aVDarrick Martin LAC 01/09/1998 LAC vs. LAL L 40 18 3 10 30.0 1 2 50.0 11 11 100.0 0 5 5 6 1 1 2 2 3
+p475
+aVDarrick Martin LAC 01/07/1998 LAC vs. VAN W 32 9 3 9 33.3 1 5 20.0 2 2 100.0 0 2 2 4 0 0 0 3 -6
+p476
+aVStojko Vrankovic LAC 01/07/1998 LAC vs. VAN W 24 2 1 4 25.0 0 0 - 0 0 - 1 6 7 2 0 1 0 0 -13
+p477
+aVLamond Murray LAC 01/07/1998 LAC vs. VAN W 26 4 2 9 22.2 0 1 0.0 0 0 - 0 3 3 0 0 2 1 1 -3
+p478
+aVRodney Rogers LAC 01/07/1998 LAC vs. VAN W 39 19 9 17 52.9 1 2 50.0 0 0 - 2 6 8 4 3 1 3 4 5
+p479
+aVBrent Barry LAC 01/07/1998 LAC vs. VAN W 43 22 7 13 53.8 3 4 75.0 5 6 83.3 0 5 5 9 3 1 4 2 1
+p480
+aVEric Piatkowski LAC 01/07/1998 LAC vs. VAN W 21 17 6 9 66.7 3 4 75.0 2 2 100.0 1 1 2 0 0 0 1 3 21
+p481
+aVKeith Closs LAC 01/07/1998 LAC vs. VAN W 24 12 6 6 100.0 0 0 - 0 0 - 2 1 3 1 1 2 1 1 21
+p482
+aVMaurice Taylor LAC 01/07/1998 LAC vs. VAN W 31 25 9 18 50.0 0 0 - 7 10 70.0 1 5 6 2 3 0 0 1 14
+p483
+aVMaurice Taylor LAC 01/06/1998 LAC @ SAC L 17 5 2 12 16.7 0 0 - 1 1 100.0 4 1 5 0 0 0 4 5 -6
+p484
+aVBrent Barry LAC 01/06/1998 LAC @ SAC L 39 12 3 6 50.0 1 3 33.3 5 5 100.0 0 3 3 2 2 0 3 2 -15
+p485
+aVLamond Murray LAC 01/06/1998 LAC @ SAC L 32 17 8 15 53.3 0 1 0.0 1 4 25.0 2 6 8 1 3 0 2 4 -7
+p486
+aVDarrick Martin LAC 01/06/1998 LAC @ SAC L 29 12 5 14 35.7 1 2 50.0 1 2 50.0 0 0 0 1 1 0 0 0 -23
+p487
+aVRodney Rogers LAC 01/06/1998 LAC @ SAC L 39 18 8 20 40.0 0 0 - 2 4 50.0 4 6 10 6 1 0 4 4 -15
+p488
+aVPooh Richardson LAC 01/06/1998 LAC @ SAC L 12 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 3 1 0 2 0 4
+p489
+aVKeith Closs LAC 01/06/1998 LAC @ SAC L 20 5 0 3 0.0 0 0 - 5 6 83.3 4 6 10 0 0 4 1 0 -2
+p490
+aVStojko Vrankovic LAC 01/06/1998 LAC @ SAC L 28 2 1 5 20.0 0 0 - 0 0 - 1 10 11 1 1 3 2 3 -14
+p491
+aVJames Collins LAC 01/06/1998 LAC @ SAC L 4 6 2 6 33.3 2 3 66.7 0 0 - 0 1 1 0 1 0 0 0 5
+p492
+aVEric Piatkowski LAC 01/06/1998 LAC @ SAC L 20 8 2 8 25.0 2 3 66.7 2 2 100.0 4 1 5 0 0 0 3 4 -7
+p493
+aVLamond Murray LAC 01/03/1998 LAC vs. DAL W 43 21 8 14 57.1 0 1 0.0 5 7 71.4 4 6 10 2 3 1 2 4 9
+p494
+aVBrent Barry LAC 01/03/1998 LAC vs. DAL W 36 21 9 20 45.0 3 11 27.3 0 2 0.0 1 1 2 2 1 0 3 1 15
+p495
+aVRodney Rogers LAC 01/03/1998 LAC vs. DAL W 36 11 5 14 35.7 0 3 0.0 1 1 100.0 5 5 10 1 2 1 0 1 6
+p496
+aVMaurice Taylor LAC 01/03/1998 LAC vs. DAL W 26 15 7 11 63.6 0 0 - 1 4 25.0 4 5 9 2 2 3 6 2 13
+p497
+aVPooh Richardson LAC 01/03/1998 LAC vs. DAL W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -11
+p498
+aVEric Piatkowski LAC 01/03/1998 LAC vs. DAL W 24 5 2 11 18.2 1 4 25.0 0 0 - 2 4 6 1 0 0 1 1 11
+p499
+aVKeith Closs LAC 01/03/1998 LAC vs. DAL W 21 9 4 7 57.1 0 0 - 1 2 50.0 3 3 6 0 0 3 1 1 -11
+p500
+aVStojko Vrankovic LAC 01/03/1998 LAC vs. DAL W 19 8 4 4 100.0 0 0 - 0 0 - 1 7 8 2 0 3 0 3 10
+p501
+aVDarrick Martin LAC 01/03/1998 LAC vs. DAL W 30 7 3 13 23.1 1 2 50.0 0 0 - 0 0 0 3 2 0 1 3 3
+p502
+aVEric Piatkowski LAC 01/02/1998 LAC @ GSW W 17 8 3 6 50.0 2 4 50.0 0 0 - 0 4 4 1 0 0 2 1 0
+p503
+aVJames Robinson LAC 01/02/1998 LAC @ GSW W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p504
+aVJames Collins LAC 01/02/1998 LAC @ GSW W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -1
+p505
+aVPooh Richardson LAC 01/02/1998 LAC @ GSW W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 1 0 0 0 2
+p506
+aVRodney Rogers LAC 01/02/1998 LAC @ GSW W 34 9 3 14 21.4 0 3 0.0 3 4 75.0 1 4 5 6 1 1 0 3 21
+p507
+aVKeith Closs LAC 01/02/1998 LAC @ GSW W 15 4 2 6 33.3 0 0 - 0 0 - 2 0 2 1 0 2 0 1 2
+p508
+aVLamond Murray LAC 01/02/1998 LAC @ GSW W 26 16 7 12 58.3 0 1 0.0 2 2 100.0 1 1 2 2 0 0 2 4 -7
+p509
+aVDarrick Martin LAC 01/02/1998 LAC @ GSW W 32 14 5 9 55.6 4 6 66.7 0 0 - 1 4 5 6 0 0 4 1 18
+p510
+aVLorenzen Wright LAC 01/02/1998 LAC @ GSW W 45 23 11 14 78.6 0 0 - 1 3 33.3 3 12 15 0 3 3 3 4 23
+p511
+aVBrent Barry LAC 01/02/1998 LAC @ GSW W 29 12 5 10 50.0 0 2 0.0 2 2 100.0 2 2 4 9 1 0 3 3 16
+p512
+aVStojko Vrankovic LAC 01/02/1998 LAC @ GSW W 10 0 0 1 0.0 0 0 - 0 0 - 0 6 6 1 0 1 1 5 14
+p513
+aVMaurice Taylor LAC 01/02/1998 LAC @ GSW W 13 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 2 -8
+p514
+aVLorenzen Wright LAC 12/27/1997 LAC vs. DEN W 40 15 6 12 50.0 0 0 - 3 5 60.0 5 8 13 3 0 0 1 4 10
+p515
+aVPooh Richardson LAC 12/27/1997 LAC vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p516
+aVDarrick Martin LAC 12/27/1997 LAC vs. DEN W 34 10 3 12 25.0 2 5 40.0 2 2 100.0 1 4 5 7 1 0 3 3 -12
+p517
+aVEric Piatkowski LAC 12/27/1997 LAC vs. DEN W 11 4 1 2 50.0 1 2 50.0 1 2 50.0 1 0 1 1 0 1 1 0 7
+p518
+aVMaurice Taylor LAC 12/27/1997 LAC vs. DEN W 8 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 0 -8
+p519
+aVJames Robinson LAC 12/27/1997 LAC vs. DEN W 14 13 3 10 30.0 2 7 28.6 5 5 100.0 0 0 0 1 3 0 1 2 14
+p520
+aVKeith Closs LAC 12/27/1997 LAC vs. DEN W 19 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 0 1 1 1 4 3
+p521
+aVBrent Barry LAC 12/27/1997 LAC vs. DEN W 39 22 7 15 46.7 4 6 66.7 4 4 100.0 0 5 5 4 2 1 6 3 7
+p522
+aVStojko Vrankovic LAC 12/27/1997 LAC vs. DEN W 24 2 1 6 16.7 0 0 - 0 0 - 4 2 6 2 1 1 0 0 -12
+p523
+aVLamond Murray LAC 12/27/1997 LAC vs. DEN W 6 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -11
+p524
+aVRodney Rogers LAC 12/27/1997 LAC vs. DEN W 45 29 11 16 68.8 1 2 50.0 6 9 66.7 5 0 5 5 0 1 3 1 12
+p525
+aVDarrick Martin LAC 12/26/1997 LAC @ LAL L 27 18 6 11 54.5 4 6 66.7 2 2 100.0 1 0 1 2 0 0 1 2 3
+p526
+aVEric Piatkowski LAC 12/26/1997 LAC @ LAL L 33 20 5 10 50.0 4 5 80.0 6 8 75.0 4 6 10 2 1 0 4 3 1
+p527
+aVJames Robinson LAC 12/26/1997 LAC @ LAL L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p528
+aVPooh Richardson LAC 12/26/1997 LAC @ LAL L 27 0 0 2 0.0 0 0 - 0 0 - 1 3 4 5 2 0 0 0 -4
+p529
+aVKeith Closs LAC 12/26/1997 LAC @ LAL L 24 12 6 10 60.0 0 0 - 0 0 - 3 3 6 2 0 5 0 3 -6
+p530
+aVRodney Rogers LAC 12/26/1997 LAC @ LAL L 39 21 9 17 52.9 2 3 66.7 1 2 50.0 3 1 4 9 2 2 7 3 -2
+p531
+aVMaurice Taylor LAC 12/26/1997 LAC @ LAL L 16 2 1 10 10.0 0 0 - 0 2 0.0 2 2 4 1 0 0 0 2 -4
+p532
+aVStojko Vrankovic LAC 12/26/1997 LAC @ LAL L 26 4 2 4 50.0 0 0 - 0 0 - 0 4 4 1 2 1 1 6 4
+p533
+aVBrent Barry LAC 12/26/1997 LAC @ LAL L 20 5 2 4 50.0 0 1 0.0 1 1 100.0 0 2 2 4 0 1 0 2 -5
+p534
+aVLorenzen Wright LAC 12/26/1997 LAC @ LAL L 52 32 12 20 60.0 0 0 - 8 10 80.0 3 12 15 1 1 1 2 5 -7
+p535
+aVKeith Closs LAC 12/23/1997 LAC @ CHI L 21 7 3 5 60.0 0 0 - 1 2 50.0 3 3 6 0 0 1 1 5 -4
+p536
+aVBrent Barry LAC 12/23/1997 LAC @ CHI L 33 7 1 10 10.0 0 6 0.0 5 5 100.0 0 3 3 2 0 1 2 3 -7
+p537
+aVPooh Richardson LAC 12/23/1997 LAC @ CHI L 14 7 3 6 50.0 0 1 0.0 1 2 50.0 0 2 2 3 2 0 0 1 4
+p538
+aVStojko Vrankovic LAC 12/23/1997 LAC @ CHI L 26 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 0 1 3 0
+p539
+aVMaurice Taylor LAC 12/23/1997 LAC @ CHI L 19 9 3 8 37.5 0 0 - 3 6 50.0 1 0 1 0 0 1 1 2 1
+p540
+aVDarrick Martin LAC 12/23/1997 LAC @ CHI L 35 19 6 13 46.2 2 5 40.0 5 5 100.0 1 3 4 2 1 0 1 4 -10
+p541
+aVRodney Rogers LAC 12/23/1997 LAC @ CHI L 33 20 5 11 45.5 0 2 0.0 10 12 83.3 3 3 6 3 0 1 3 6 -5
+p542
+aVLorenzen Wright LAC 12/23/1997 LAC @ CHI L 44 7 1 10 10.0 0 0 - 5 6 83.3 5 11 16 0 1 0 0 1 -7
+p543
+aVEric Piatkowski LAC 12/23/1997 LAC @ CHI L 16 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 3
+p544
+aVStojko Vrankovic LAC 12/21/1997 LAC @ BOS L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -7
+p545
+aVLorenzen Wright LAC 12/21/1997 LAC @ BOS L 40 14 4 11 36.4 0 0 - 6 8 75.0 3 16 19 2 1 2 3 3 -21
+p546
+aVDarrick Martin LAC 12/21/1997 LAC @ BOS L 29 5 1 3 33.3 0 1 0.0 3 5 60.0 0 2 2 3 0 0 4 2 -10
+p547
+aVJames Collins LAC 12/21/1997 LAC @ BOS L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p548
+aVRodney Rogers LAC 12/21/1997 LAC @ BOS L 34 20 8 13 61.5 1 3 33.3 3 3 100.0 1 2 3 1 2 0 4 1 -12
+p549
+aVBrent Barry LAC 12/21/1997 LAC @ BOS L 32 10 4 12 33.3 1 2 50.0 1 2 50.0 0 6 6 1 0 0 2 2 -14
+p550
+aVMaurice Taylor LAC 12/21/1997 LAC @ BOS L 18 6 3 6 50.0 0 0 - 0 0 - 0 3 3 2 0 1 3 6 -14
+p551
+aVLamond Murray LAC 12/21/1997 LAC @ BOS L 23 9 2 7 28.6 0 0 - 5 6 83.3 1 3 4 3 2 0 2 1 1
+p552
+aVEric Piatkowski LAC 12/21/1997 LAC @ BOS L 21 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 5 0 0 2 2 -4
+p553
+aVPooh Richardson LAC 12/21/1997 LAC @ BOS L 19 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -12
+p554
+aVJames Robinson LAC 12/21/1997 LAC @ BOS L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -6
+p555
+aVKeith Closs LAC 12/21/1997 LAC @ BOS L 8 3 1 5 20.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 0 -8
+p556
+aVRodney Rogers LAC 12/20/1997 LAC @ MIN L 26 15 6 14 42.9 3 5 60.0 0 0 - 0 3 3 4 1 0 4 3 -9
+p557
+aVLorenzen Wright LAC 12/20/1997 LAC @ MIN L 43 15 6 16 37.5 0 0 - 3 3 100.0 12 10 22 3 2 1 2 1 -3
+p558
+aVBrent Barry LAC 12/20/1997 LAC @ MIN L 35 7 2 13 15.4 1 6 16.7 2 2 100.0 0 5 5 4 0 1 0 2 4
+p559
+aVEric Piatkowski LAC 12/20/1997 LAC @ MIN L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p560
+aVStojko Vrankovic LAC 12/20/1997 LAC @ MIN L 20 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 0 0 1 2 15
+p561
+aVKeith Closs LAC 12/20/1997 LAC @ MIN L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p562
+aVLamond Murray LAC 12/20/1997 LAC @ MIN L 36 15 5 10 50.0 0 1 0.0 5 5 100.0 1 4 5 0 1 0 5 4 -1
+p563
+aVDarrick Martin LAC 12/20/1997 LAC @ MIN L 34 16 6 15 40.0 3 7 42.9 1 1 100.0 1 1 2 7 4 0 2 3 10
+p564
+aVMaurice Taylor LAC 12/20/1997 LAC @ MIN L 14 11 5 8 62.5 0 0 - 1 2 50.0 2 2 4 1 0 0 1 3 -2
+p565
+aVPooh Richardson LAC 12/20/1997 LAC @ MIN L 14 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 4 1 0 1 1 -11
+p566
+aVLamond Murray LAC 12/18/1997 LAC vs. GSW W 41 19 6 13 46.2 1 2 50.0 6 8 75.0 1 6 7 2 0 2 6 3 11
+p567
+aVDarrick Martin LAC 12/18/1997 LAC vs. GSW W 41 12 4 9 44.4 2 4 50.0 2 3 66.7 0 2 2 3 3 1 2 3 18
+p568
+aVJames Robinson LAC 12/18/1997 LAC vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -5
+p569
+aVEric Piatkowski LAC 12/18/1997 LAC vs. GSW W 15 3 1 6 16.7 0 1 0.0 1 2 50.0 1 0 1 0 1 0 0 1 -13
+p570
+aVKeith Closs LAC 12/18/1997 LAC vs. GSW W 10 4 2 6 33.3 0 0 - 0 2 0.0 1 1 2 0 0 0 0 2 0
+p571
+aVBrent Barry LAC 12/18/1997 LAC vs. GSW W 38 23 9 17 52.9 4 6 66.7 1 1 100.0 2 4 6 4 3 0 4 0 8
+p572
+aVMaurice Taylor LAC 12/18/1997 LAC vs. GSW W 15 7 3 5 60.0 0 0 - 1 1 100.0 1 4 5 0 0 0 1 2 -8
+p573
+aVLorenzen Wright LAC 12/18/1997 LAC vs. GSW W 36 13 5 14 35.7 0 0 - 3 4 75.0 4 13 17 0 0 5 0 2 9
+p574
+aVRodney Rogers LAC 12/18/1997 LAC vs. GSW W 20 1 0 6 0.0 0 0 - 1 4 25.0 0 1 1 2 3 0 3 4 -12
+p575
+aVStojko Vrankovic LAC 12/18/1997 LAC vs. GSW W 23 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 0 12
+p576
+aVDarrick Martin LAC 12/16/1997 LAC vs. SEA L 32 15 5 13 38.5 3 8 37.5 2 2 100.0 0 4 4 2 2 0 8 5 -2
+p577
+aVEric Piatkowski LAC 12/16/1997 LAC vs. SEA L 22 8 3 11 27.3 0 5 0.0 2 4 50.0 1 2 3 0 2 0 0 2 -23
+p578
+aVStojko Vrankovic LAC 12/16/1997 LAC vs. SEA L 19 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 0 1 2 0 1 -11
+p579
+aVRodney Rogers LAC 12/16/1997 LAC vs. SEA L 21 10 4 9 44.4 0 2 0.0 2 2 100.0 3 4 7 0 0 0 2 4 -7
+p580
+aVLamond Murray LAC 12/16/1997 LAC vs. SEA L 39 6 3 10 30.0 0 1 0.0 0 0 - 4 3 7 5 0 0 2 2 -21
+p581
+aVLorenzen Wright LAC 12/16/1997 LAC vs. SEA L 41 17 5 16 31.3 0 0 - 7 14 50.0 7 7 14 4 1 1 3 4 -5
+p582
+aVPooh Richardson LAC 12/16/1997 LAC vs. SEA L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p583
+aVKeith Closs LAC 12/16/1997 LAC vs. SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -2
+p584
+aVBrent Barry LAC 12/16/1997 LAC vs. SEA L 42 21 8 14 57.1 5 8 62.5 0 2 0.0 0 0 0 0 1 0 4 3 -3
+p585
+aVJames Robinson LAC 12/16/1997 LAC vs. SEA L 1 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p586
+aVMaurice Taylor LAC 12/16/1997 LAC vs. SEA L 18 12 5 5 100.0 0 0 - 2 3 66.7 0 1 1 0 2 1 1 3 3
+p587
+aVDarrick Martin LAC 12/14/1997 LAC @ SEA L 29 12 4 6 66.7 1 3 33.3 3 4 75.0 0 3 3 4 2 0 1 6 6
+p588
+aVLorenzen Wright LAC 12/14/1997 LAC @ SEA L 32 12 6 12 50.0 0 0 - 0 2 0.0 1 9 10 3 0 1 0 5 -5
+p589
+aVMaurice Taylor LAC 12/14/1997 LAC @ SEA L 25 6 3 5 60.0 0 0 - 0 0 - 0 4 4 1 0 1 2 3 -9
+p590
+aVJames Robinson LAC 12/14/1997 LAC @ SEA L 1 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 2
+p591
+aVKeith Closs LAC 12/14/1997 LAC @ SEA L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -15
+p592
+aVBrent Barry LAC 12/14/1997 LAC @ SEA L 32 18 6 13 46.2 4 7 57.1 2 3 66.7 2 2 4 5 0 0 5 0 -3
+p593
+aVEric Piatkowski LAC 12/14/1997 LAC @ SEA L 36 18 7 12 58.3 3 6 50.0 1 2 50.0 1 5 6 3 1 0 4 0 -13
+p594
+aVLamond Murray LAC 12/14/1997 LAC @ SEA L 40 21 9 16 56.3 1 2 50.0 2 2 100.0 0 6 6 6 4 1 4 4 -4
+p595
+aVStojko Vrankovic LAC 12/14/1997 LAC @ SEA L 30 6 2 5 40.0 0 0 - 2 2 100.0 1 6 7 2 0 1 2 5 13
+p596
+aVPooh Richardson LAC 12/14/1997 LAC @ SEA L 8 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p597
+aVRodney Rogers LAC 12/12/1997 LAC vs. ATL L 15 4 1 4 25.0 1 2 50.0 1 2 50.0 0 2 2 0 0 1 3 1 -7
+p598
+aVLamond Murray LAC 12/12/1997 LAC vs. ATL L 33 12 6 10 60.0 0 1 0.0 0 1 0.0 2 7 9 3 0 1 1 2 -2
+p599
+aVLorenzen Wright LAC 12/12/1997 LAC vs. ATL L 32 12 5 11 45.5 0 0 - 2 2 100.0 1 8 9 0 2 0 0 2 -4
+p600
+aVDarrick Martin LAC 12/12/1997 LAC vs. ATL L 27 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 3 3 7
+p601
+aVStojko Vrankovic LAC 12/12/1997 LAC vs. ATL L 10 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -9
+p602
+aVMaurice Taylor LAC 12/12/1997 LAC vs. ATL L 20 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 2 0 0 6 0
+p603
+aVPooh Richardson LAC 12/12/1997 LAC vs. ATL L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -14
+p604
+aVBrent Barry LAC 12/12/1997 LAC vs. ATL L 28 3 1 8 12.5 0 6 0.0 1 2 50.0 0 0 0 3 2 1 2 3 -16
+p605
+aVJames Collins LAC 12/12/1997 LAC vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p606
+aVEric Piatkowski LAC 12/12/1997 LAC vs. ATL L 21 9 4 8 50.0 1 4 25.0 0 0 - 0 2 2 1 1 0 3 1 6
+p607
+aVKeith Closs LAC 12/12/1997 LAC vs. ATL L 33 15 7 13 53.8 0 0 - 1 4 25.0 2 3 5 1 2 0 2 0 -4
+p608
+aVJames Robinson LAC 12/12/1997 LAC vs. ATL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 4 0 -2
+p609
+aVDarrick Martin LAC 12/10/1997 LAC @ SAS L 32 10 4 10 40.0 2 4 50.0 0 0 - 2 4 6 5 1 0 2 4 -1
+p610
+aVStojko Vrankovic LAC 12/10/1997 LAC @ SAS L 15 5 2 5 40.0 0 0 - 1 2 50.0 3 3 6 0 0 0 1 3 0
+p611
+aVPooh Richardson LAC 12/10/1997 LAC @ SAS L 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -12
+p612
+aVLamond Murray LAC 12/10/1997 LAC @ SAS L 26 7 3 13 23.1 1 3 33.3 0 1 0.0 0 2 2 3 1 0 0 2 -6
+p613
+aVJames Robinson LAC 12/10/1997 LAC @ SAS L 20 5 2 5 40.0 0 1 0.0 1 2 50.0 1 4 5 3 1 0 1 2 -4
+p614
+aVMaurice Taylor LAC 12/10/1997 LAC @ SAS L 21 10 4 11 36.4 0 0 - 2 4 50.0 2 2 4 1 0 0 2 2 -10
+p615
+aVBrent Barry LAC 12/10/1997 LAC @ SAS L 22 11 2 5 40.0 0 2 0.0 7 7 100.0 1 2 3 2 2 0 1 1 4
+p616
+aVLorenzen Wright LAC 12/10/1997 LAC @ SAS L 29 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 1 0 6 -1
+p617
+aVRodney Rogers LAC 12/10/1997 LAC @ SAS L 25 12 5 9 55.6 0 1 0.0 2 4 50.0 4 5 9 1 1 0 1 1 -17
+p618
+aVEric Piatkowski LAC 12/10/1997 LAC @ SAS L 27 11 4 8 50.0 3 4 75.0 0 0 - 0 4 4 1 0 0 2 0 -17
+p619
+aVJames Collins LAC 12/10/1997 LAC @ SAS L 1 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p620
+aVKeith Closs LAC 12/10/1997 LAC @ SAS L 15 10 5 11 45.5 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -9
+p621
+aVJames Robinson LAC 12/09/1997 LAC @ DAL W 19 7 2 8 25.0 1 6 16.7 2 4 50.0 1 1 2 3 0 2 1 3 0
+p622
+aVLorenzen Wright LAC 12/09/1997 LAC @ DAL W 39 13 6 8 75.0 0 0 - 1 2 50.0 5 6 11 0 1 3 4 4 20
+p623
+aVPooh Richardson LAC 12/09/1997 LAC @ DAL W 23 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 2 0 0 0 0 -7
+p624
+aVEric Piatkowski LAC 12/09/1997 LAC @ DAL W 38 11 3 13 23.1 0 7 0.0 5 6 83.3 1 7 8 1 2 0 0 1 6
+p625
+aVDarrick Martin LAC 12/09/1997 LAC @ DAL W 25 18 6 12 50.0 5 7 71.4 1 2 50.0 0 4 4 2 0 0 3 1 14
+p626
+aVRodney Rogers LAC 12/09/1997 LAC @ DAL W 37 14 6 11 54.5 0 0 - 2 2 100.0 4 6 10 5 1 2 1 2 2
+p627
+aVLamond Murray LAC 12/09/1997 LAC @ DAL W 37 17 5 13 38.5 0 1 0.0 7 8 87.5 2 7 9 1 1 0 0 2 4
+p628
+aVMaurice Taylor LAC 12/09/1997 LAC @ DAL W 20 11 4 12 33.3 0 0 - 3 5 60.0 4 2 6 0 0 0 1 1 -4
+p629
+aVPooh Richardson LAC 12/07/1997 LAC @ DEN L 25 12 5 9 55.6 0 1 0.0 2 2 100.0 1 2 3 7 2 0 1 3 2
+p630
+aVJames Robinson LAC 12/07/1997 LAC @ DEN L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 2 0 -12
+p631
+aVKeith Closs LAC 12/07/1997 LAC @ DEN L 14 4 1 6 16.7 0 0 - 2 2 100.0 3 3 6 0 0 2 3 2 4
+p632
+aVLorenzen Wright LAC 12/07/1997 LAC @ DEN L 29 10 3 5 60.0 0 0 - 4 6 66.7 1 4 5 1 0 1 1 5 5
+p633
+aVEric Piatkowski LAC 12/07/1997 LAC @ DEN L 39 18 7 17 41.2 4 8 50.0 0 0 - 3 2 5 0 0 0 0 2 4
+p634
+aVLamond Murray LAC 12/07/1997 LAC @ DEN L 24 13 5 11 45.5 0 1 0.0 3 4 75.0 3 4 7 1 2 0 2 3 -8
+p635
+aVStojko Vrankovic LAC 12/07/1997 LAC @ DEN L 28 5 1 4 25.0 0 0 - 3 4 75.0 0 8 8 0 0 3 0 3 -5
+p636
+aVMaurice Taylor LAC 12/07/1997 LAC @ DEN L 15 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 2 -15
+p637
+aVDarrick Martin LAC 12/07/1997 LAC @ DEN L 23 5 2 7 28.6 0 2 0.0 1 1 100.0 0 2 2 5 2 2 2 1 -10
+p638
+aVRodney Rogers LAC 12/07/1997 LAC @ DEN L 33 18 6 12 50.0 2 3 66.7 4 6 66.7 2 4 6 1 1 0 5 3 -5
+p639
+aVJames Robinson LAC 12/06/1997 LAC vs. ORL L 11 3 1 3 33.3 1 2 50.0 0 2 0.0 0 1 1 0 0 0 2 0 -10
+p640
+aVPooh Richardson LAC 12/06/1997 LAC vs. ORL L 32 6 3 8 37.5 0 0 - 0 0 - 1 1 2 4 0 0 0 4 -9
+p641
+aVDarrick Martin LAC 12/06/1997 LAC vs. ORL L 17 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 2 0 0 1 5 9
+p642
+aVLamond Murray LAC 12/06/1997 LAC vs. ORL L 22 14 5 11 45.5 1 3 33.3 3 4 75.0 5 4 9 1 1 0 3 1 4
+p643
+aVEric Piatkowski LAC 12/06/1997 LAC vs. ORL L 37 15 5 11 45.5 3 6 50.0 2 2 100.0 1 5 6 4 2 1 1 2 6
+p644
+aVKeith Closs LAC 12/06/1997 LAC vs. ORL L 12 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 0 0 1 0 0 5
+p645
+aVStojko Vrankovic LAC 12/06/1997 LAC vs. ORL L 20 4 2 5 40.0 0 0 - 0 0 - 1 4 5 1 1 1 2 1 -11
+p646
+aVRodney Rogers LAC 12/06/1997 LAC vs. ORL L 26 10 4 7 57.1 1 2 50.0 1 2 50.0 2 5 7 3 1 1 5 1 -8
+p647
+aVMaurice Taylor LAC 12/06/1997 LAC vs. ORL L 31 12 5 12 41.7 0 0 - 2 4 50.0 1 3 4 0 0 0 2 4 13
+p648
+aVLorenzen Wright LAC 12/06/1997 LAC vs. ORL L 32 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 1 1 1 4 -19
+p649
+aVLorenzen Wright LAC 12/04/1997 LAC vs. SAS W 44 17 6 9 66.7 0 0 - 5 6 83.3 2 7 9 0 1 3 1 4 -3
+p650
+aVLamond Murray LAC 12/04/1997 LAC vs. SAS W 36 12 5 10 50.0 0 0 - 2 6 33.3 2 5 7 1 1 1 1 3 11
+p651
+aVMaurice Taylor LAC 12/04/1997 LAC vs. SAS W 30 17 7 15 46.7 0 0 - 3 4 75.0 1 6 7 1 0 3 2 6 12
+p652
+aVJames Robinson LAC 12/04/1997 LAC vs. SAS W 9 7 2 3 66.7 1 1 100.0 2 2 100.0 1 0 1 2 0 0 0 1 -7
+p653
+aVStojko Vrankovic LAC 12/04/1997 LAC vs. SAS W 20 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 2 0 3 -5
+p654
+aVEric Piatkowski LAC 12/04/1997 LAC vs. SAS W 45 24 9 14 64.3 3 4 75.0 3 4 75.0 0 4 4 1 1 0 3 1 14
+p655
+aVPooh Richardson LAC 12/04/1997 LAC vs. SAS W 23 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 5 1 0 1 0 -10
+p656
+aVDarrick Martin LAC 12/04/1997 LAC vs. SAS W 30 13 4 8 50.0 3 4 75.0 2 4 50.0 0 5 5 3 2 0 2 4 15
+p657
+aVRodney Rogers LAC 12/04/1997 LAC vs. SAS W 23 4 2 11 18.2 0 2 0.0 0 0 - 1 4 5 0 0 0 2 3 -8
+p658
+aVKeith Closs LAC 12/04/1997 LAC vs. SAS W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 1 3 1
+p659
+aVMaurice Taylor LAC 11/29/1997 LAC vs. UTA L 18 8 4 7 57.1 0 0 - 0 2 0.0 0 1 1 0 0 1 1 5 3
+p660
+aVJames Robinson LAC 11/29/1997 LAC vs. UTA L 7 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 2 -4
+p661
+aVPooh Richardson LAC 11/29/1997 LAC vs. UTA L 40 9 4 10 40.0 0 1 0.0 1 2 50.0 1 3 4 8 3 0 1 2 2
+p662
+aVLorenzen Wright LAC 11/29/1997 LAC vs. UTA L 28 10 4 10 40.0 0 0 - 2 2 100.0 2 5 7 0 2 2 2 4 -4
+p663
+aVEric Piatkowski LAC 11/29/1997 LAC vs. UTA L 42 20 7 17 41.2 2 5 40.0 4 5 80.0 4 9 13 1 1 0 2 5 1
+p664
+aVStojko Vrankovic LAC 11/29/1997 LAC vs. UTA L 35 7 3 6 50.0 0 0 - 1 4 25.0 1 3 4 3 1 1 2 2 -1
+p665
+aVDarrick Martin LAC 11/29/1997 LAC vs. UTA L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -5
+p666
+aVRodney Rogers LAC 11/29/1997 LAC vs. UTA L 39 19 8 14 57.1 1 2 50.0 2 2 100.0 1 2 3 2 0 0 3 3 -3
+p667
+aVLamond Murray LAC 11/29/1997 LAC vs. UTA L 25 18 7 14 50.0 0 0 - 4 4 100.0 4 2 6 2 2 0 2 0 -4
+p668
+aVEric Piatkowski LAC 11/28/1997 LAC vs. NJN L 16 8 3 4 75.0 1 2 50.0 1 1 100.0 2 1 3 0 0 0 0 2 -13
+p669
+aVDarrick Martin LAC 11/28/1997 LAC vs. NJN L 22 10 4 7 57.1 2 4 50.0 0 0 - 0 1 1 2 0 0 2 2 -5
+p670
+aVMaurice Taylor LAC 11/28/1997 LAC vs. NJN L 27 15 6 11 54.5 0 0 - 3 4 75.0 2 3 5 0 0 1 2 3 -14
+p671
+aVJames Robinson LAC 11/28/1997 LAC vs. NJN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p672
+aVPooh Richardson LAC 11/28/1997 LAC vs. NJN L 26 9 4 10 40.0 1 3 33.3 0 0 - 0 6 6 3 1 0 1 3 -7
+p673
+aVBrent Barry LAC 11/28/1997 LAC vs. NJN L 38 16 5 11 45.5 2 6 33.3 4 5 80.0 1 6 7 5 1 0 4 0 5
+p674
+aVLorenzen Wright LAC 11/28/1997 LAC vs. NJN L 37 13 4 9 44.4 0 0 - 5 6 83.3 5 1 6 3 0 4 1 0 -7
+p675
+aVLamond Murray LAC 11/28/1997 LAC vs. NJN L 33 10 4 13 30.8 0 2 0.0 2 2 100.0 0 4 4 1 1 2 1 1 -9
+p676
+aVRodney Rogers LAC 11/28/1997 LAC vs. NJN L 29 9 3 10 30.0 0 3 0.0 3 4 75.0 3 2 5 1 0 0 5 4 -5
+p677
+aVStojko Vrankovic LAC 11/28/1997 LAC vs. NJN L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p678
+aVEric Piatkowski LAC 11/26/1997 LAC vs. SAC W 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 3
+p679
+aVStojko Vrankovic LAC 11/26/1997 LAC vs. SAC W 17 7 2 2 100.0 0 0 - 3 4 75.0 2 2 4 0 1 2 1 1 4
+p680
+aVMaurice Taylor LAC 11/26/1997 LAC vs. SAC W 24 12 4 9 44.4 0 0 - 4 6 66.7 1 3 4 1 0 1 1 3 3
+p681
+aVLamond Murray LAC 11/26/1997 LAC vs. SAC W 41 18 8 16 50.0 0 0 - 2 3 66.7 3 2 5 2 2 1 1 0 -1
+p682
+aVPooh Richardson LAC 11/26/1997 LAC vs. SAC W 22 4 2 9 22.2 0 0 - 0 0 - 0 1 1 4 1 0 1 1 -1
+p683
+aVRodney Rogers LAC 11/26/1997 LAC vs. SAC W 34 20 7 9 77.8 1 1 100.0 5 10 50.0 3 9 12 3 1 0 3 3 -6
+p684
+aVBrent Barry LAC 11/26/1997 LAC vs. SAC W 42 19 7 13 53.8 3 4 75.0 2 3 66.7 1 6 7 1 0 0 2 2 -1
+p685
+aVLorenzen Wright LAC 11/26/1997 LAC vs. SAC W 15 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 1 0 5 3
+p686
+aVDarrick Martin LAC 11/26/1997 LAC vs. SAC W 26 15 7 13 53.8 0 2 0.0 1 1 100.0 0 3 3 1 0 0 1 0 3
+p687
+aVKeith Closs LAC 11/26/1997 LAC vs. SAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 0 0
+p688
+aVJames Robinson LAC 11/26/1997 LAC vs. SAC W 6 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 1 1 1 0 3
+p689
+aVRodney Rogers LAC 11/23/1997 LAC @ LAL L 33 24 8 14 57.1 3 4 75.0 5 10 50.0 2 2 4 6 2 0 4 3 -8
+p690
+aVBrent Barry LAC 11/23/1997 LAC @ LAL L 27 10 3 10 30.0 2 7 28.6 2 2 100.0 0 1 1 3 0 0 3 2 -2
+p691
+aVMaurice Taylor LAC 11/23/1997 LAC @ LAL L 19 13 4 5 80.0 0 0 - 5 5 100.0 1 2 3 0 1 1 4 5 -16
+p692
+aVEric Piatkowski LAC 11/23/1997 LAC @ LAL L 16 4 0 7 0.0 0 3 0.0 4 4 100.0 1 1 2 2 1 0 2 3 -16
+p693
+aVLorenzen Wright LAC 11/23/1997 LAC @ LAL L 28 14 6 10 60.0 0 0 - 2 3 66.7 1 3 4 0 0 0 1 5 -3
+p694
+aVLamond Murray LAC 11/23/1997 LAC @ LAL L 37 18 7 14 50.0 0 3 0.0 4 7 57.1 3 5 8 3 1 2 3 3 -13
+p695
+aVStojko Vrankovic LAC 11/23/1997 LAC @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -6
+p696
+aVJames Robinson LAC 11/23/1997 LAC @ LAL L 17 5 2 4 50.0 0 2 0.0 1 3 33.3 0 1 1 3 0 0 2 2 -3
+p697
+aVPooh Richardson LAC 11/23/1997 LAC @ LAL L 33 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 3 1 1 1 1 -13
+p698
+aVKeith Closs LAC 11/23/1997 LAC @ LAL L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 2 -3
+p699
+aVDarrick Martin LAC 11/23/1997 LAC @ LAL L 12 5 2 3 66.7 1 1 100.0 0 2 0.0 0 0 0 4 2 1 1 0 -2
+p700
+aVLorenzen Wright LAC 11/21/1997 LAC vs. CHI L 55 16 8 17 47.1 0 1 0.0 0 2 0.0 3 6 9 0 3 2 3 5 -9
+p701
+aVKeith Closs LAC 11/21/1997 LAC vs. CHI L 3 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 2 0 0 -2
+p702
+aVJames Robinson LAC 11/21/1997 LAC vs. CHI L 8 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p703
+aVDarrick Martin LAC 11/21/1997 LAC vs. CHI L 4 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p704
+aVMaurice Taylor LAC 11/21/1997 LAC vs. CHI L 27 16 8 14 57.1 0 0 - 0 1 0.0 4 6 10 1 0 2 2 5 -13
+p705
+aVEric Piatkowski LAC 11/21/1997 LAC vs. CHI L 16 7 2 6 33.3 1 3 33.3 2 4 50.0 0 1 1 0 1 0 0 2 -5
+p706
+aVLamond Murray LAC 11/21/1997 LAC vs. CHI L 54 24 8 16 50.0 0 2 0.0 8 12 66.7 1 8 9 4 2 2 3 6 -5
+p707
+aVBrent Barry LAC 11/21/1997 LAC vs. CHI L 43 17 4 11 36.4 1 3 33.3 8 9 88.9 0 2 2 1 0 1 0 4 0
+p708
+aVRodney Rogers LAC 11/21/1997 LAC vs. CHI L 28 6 3 10 30.0 0 2 0.0 0 2 0.0 3 2 5 1 0 1 3 6 4
+p709
+aVPooh Richardson LAC 11/21/1997 LAC vs. CHI L 52 8 3 12 25.0 1 3 33.3 1 2 50.0 0 4 4 7 0 0 0 1 4
+p710
+aVLoy Vaught LAC 11/19/1997 LAC @ MIA L 21 7 3 8 37.5 0 1 0.0 1 2 50.0 0 6 6 0 0 0 1 0 -13
+p711
+aVLamond Murray LAC 11/19/1997 LAC @ MIA L 33 32 14 18 77.8 3 3 100.0 1 1 100.0 3 5 8 2 2 0 2 0 17
+p712
+aVKeith Closs LAC 11/19/1997 LAC @ MIA L 10 2 0 0 - 0 0 - 2 4 50.0 1 2 3 0 0 0 0 2 2
+p713
+aVJames Robinson LAC 11/19/1997 LAC @ MIA L 16 16 6 9 66.7 3 6 50.0 1 2 50.0 1 1 2 0 1 0 1 3 13
+p714
+aVRodney Rogers LAC 11/19/1997 LAC @ MIA L 33 15 6 11 54.5 0 0 - 3 4 75.0 3 2 5 4 1 0 0 1 -17
+p715
+aVDarrick Martin LAC 11/19/1997 LAC @ MIA L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -21
+p716
+aVPooh Richardson LAC 11/19/1997 LAC @ MIA L 33 5 2 9 22.2 0 2 0.0 1 1 100.0 1 1 2 15 0 0 3 2 8
+p717
+aVEric Piatkowski LAC 11/19/1997 LAC @ MIA L 18 14 5 7 71.4 1 2 50.0 3 6 50.0 0 1 1 1 0 0 2 1 2
+p718
+aVBrent Barry LAC 11/19/1997 LAC @ MIA L 28 9 3 9 33.3 2 5 40.0 1 1 100.0 0 0 0 4 1 1 5 2 -23
+p719
+aVLorenzen Wright LAC 11/19/1997 LAC @ MIA L 35 11 5 8 62.5 0 0 - 1 2 50.0 2 6 8 1 3 4 1 5 5
+p720
+aVStojko Vrankovic LAC 11/19/1997 LAC @ MIA L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -18
+p721
+aVLoy Vaught LAC 11/18/1997 LAC @ ORL L 28 6 3 8 37.5 0 0 - 0 0 - 1 5 6 0 0 0 0 4 -15
+p722
+aVLorenzen Wright LAC 11/18/1997 LAC @ ORL L 24 11 3 5 60.0 0 0 - 5 6 83.3 1 5 6 0 0 2 0 4 -2
+p723
+aVEric Piatkowski LAC 11/18/1997 LAC @ ORL L 13 10 5 6 83.3 0 1 0.0 0 1 0.0 0 0 0 0 1 0 0 0 -10
+p724
+aVBrent Barry LAC 11/18/1997 LAC @ ORL L 35 21 9 17 52.9 2 5 40.0 1 1 100.0 1 2 3 4 6 0 0 1 -8
+p725
+aVLamond Murray LAC 11/18/1997 LAC @ ORL L 22 15 6 12 50.0 1 1 100.0 2 2 100.0 2 0 2 1 0 1 2 1 -1
+p726
+aVKeith Closs LAC 11/18/1997 LAC @ ORL L 16 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 2 0 1 1 0 6
+p727
+aVStojko Vrankovic LAC 11/18/1997 LAC @ ORL L 18 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 0 0 2 2 4 -14
+p728
+aVMaurice Taylor LAC 11/18/1997 LAC @ ORL L 5 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 2 1 -8
+p729
+aVDarrick Martin LAC 11/18/1997 LAC @ ORL L 31 4 2 9 22.2 0 1 0.0 0 0 - 0 1 1 5 2 0 3 1 -10
+p730
+aVPooh Richardson LAC 11/18/1997 LAC @ ORL L 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 0 1 1 -8
+p731
+aVRodney Rogers LAC 11/18/1997 LAC @ ORL L 30 11 5 12 41.7 1 1 100.0 0 0 - 3 0 3 1 1 0 2 4 -20
+p732
+aVJames Robinson LAC 11/16/1997 LAC @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p733
+aVStojko Vrankovic LAC 11/16/1997 LAC @ ATL L 19 4 2 7 28.6 0 0 - 0 0 - 2 4 6 2 0 1 3 5 7
+p734
+aVDarrick Martin LAC 11/16/1997 LAC @ ATL L 26 19 8 13 61.5 3 7 42.9 0 0 - 0 2 2 3 0 0 2 5 -2
+p735
+aVKeith Closs LAC 11/16/1997 LAC @ ATL L 20 10 3 7 42.9 0 0 - 4 4 100.0 2 3 5 0 0 4 0 5 -6
+p736
+aVRodney Rogers LAC 11/16/1997 LAC @ ATL L 40 10 4 15 26.7 1 2 50.0 1 3 33.3 3 3 6 1 0 0 5 3 -1
+p737
+aVLamond Murray LAC 11/16/1997 LAC @ ATL L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -5
+p738
+aVPooh Richardson LAC 11/16/1997 LAC @ ATL L 22 2 1 4 25.0 0 0 - 0 0 - 0 1 1 6 0 0 2 2 -6
+p739
+aVLoy Vaught LAC 11/16/1997 LAC @ ATL L 43 10 5 11 45.5 0 0 - 0 0 - 3 6 9 0 2 0 1 4 -2
+p740
+aVLorenzen Wright LAC 11/16/1997 LAC @ ATL L 13 5 2 7 28.6 0 0 - 1 4 25.0 3 3 6 0 0 0 0 3 -5
+p741
+aVEric Piatkowski LAC 11/16/1997 LAC @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p742
+aVBrent Barry LAC 11/16/1997 LAC @ ATL L 45 21 6 14 42.9 2 7 28.6 7 7 100.0 0 2 2 5 2 0 1 3 -1
+p743
+aVKeith Closs LAC 11/15/1997 LAC @ CHH L 12 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 0 -6
+p744
+aVLorenzen Wright LAC 11/15/1997 LAC @ CHH L 27 12 2 5 40.0 0 0 - 8 10 80.0 2 4 6 2 0 1 2 4 -13
+p745
+aVPooh Richardson LAC 11/15/1997 LAC @ CHH L 18 5 1 2 50.0 0 0 - 3 4 75.0 0 3 3 0 1 0 0 3 -20
+p746
+aVJames Robinson LAC 11/15/1997 LAC @ CHH L 14 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 2 1 0 2 0 -7
+p747
+aVDarrick Martin LAC 11/15/1997 LAC @ CHH L 24 11 4 8 50.0 3 4 75.0 0 0 - 0 2 2 5 0 1 3 2 -13
+p748
+aVLamond Murray LAC 11/15/1997 LAC @ CHH L 24 10 5 8 62.5 0 0 - 0 1 0.0 1 1 2 0 0 0 1 5 -29
+p749
+aVRodney Rogers LAC 11/15/1997 LAC @ CHH L 33 24 7 16 43.8 0 1 0.0 10 12 83.3 2 3 5 0 2 0 4 4 -19
+p750
+aVEric Piatkowski LAC 11/15/1997 LAC @ CHH L 11 1 0 5 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 1 -6
+p751
+aVStojko Vrankovic LAC 11/15/1997 LAC @ CHH L 15 6 1 5 20.0 0 0 - 4 4 100.0 2 1 3 1 0 0 0 2 -19
+p752
+aVLoy Vaught LAC 11/15/1997 LAC @ CHH L 26 6 3 8 37.5 0 0 - 0 2 0.0 1 7 8 2 0 0 5 4 -10
+p753
+aVBrent Barry LAC 11/15/1997 LAC @ CHH L 35 12 4 9 44.4 2 6 33.3 2 2 100.0 1 2 3 1 0 2 2 0 -28
+p754
+aVLoy Vaught LAC 11/13/1997 LAC vs. MIL L 24 6 3 8 37.5 0 0 - 0 0 - 2 6 8 0 0 0 2 2 -13
+p755
+aVRodney Rogers LAC 11/13/1997 LAC vs. MIL L 42 18 5 11 45.5 0 0 - 8 12 66.7 0 3 3 3 2 1 2 3 -14
+p756
+aVJames Robinson LAC 11/13/1997 LAC vs. MIL L 13 3 0 4 0.0 0 1 0.0 3 4 75.0 1 0 1 1 1 1 1 1 -16
+p757
+aVBrent Barry LAC 11/13/1997 LAC vs. MIL L 26 5 2 8 25.0 0 2 0.0 1 2 50.0 1 2 3 1 0 0 2 5 -4
+p758
+aVLorenzen Wright LAC 11/13/1997 LAC vs. MIL L 28 8 2 6 33.3 0 0 - 4 4 100.0 3 6 9 0 2 3 3 2 8
+p759
+aVStojko Vrankovic LAC 11/13/1997 LAC vs. MIL L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -4
+p760
+aVEric Piatkowski LAC 11/13/1997 LAC vs. MIL L 22 10 3 5 60.0 2 4 50.0 2 2 100.0 0 1 1 1 1 0 1 3 -6
+p761
+aVLamond Murray LAC 11/13/1997 LAC vs. MIL L 31 25 10 13 76.9 2 2 100.0 3 4 75.0 3 4 7 3 2 0 2 3 11
+p762
+aVKeith Closs LAC 11/13/1997 LAC vs. MIL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -8
+p763
+aVDarrick Martin LAC 11/13/1997 LAC vs. MIL L 36 17 5 13 38.5 1 1 100.0 6 8 75.0 0 5 5 6 0 0 4 2 6
+p764
+aVLamond Murray LAC 11/11/1997 LAC @ VAN L 29 13 4 10 40.0 1 1 100.0 4 4 100.0 1 0 1 1 1 1 1 2 0
+p765
+aVEric Piatkowski LAC 11/11/1997 LAC @ VAN L 14 13 4 5 80.0 2 2 100.0 3 4 75.0 0 1 1 0 2 0 0 1 10
+p766
+aVStojko Vrankovic LAC 11/11/1997 LAC @ VAN L 20 5 2 5 40.0 0 0 - 1 1 100.0 1 6 7 1 0 2 0 2 6
+p767
+aVJames Robinson LAC 11/11/1997 LAC @ VAN L 17 5 1 7 14.3 1 5 20.0 2 2 100.0 2 1 3 4 0 0 1 1 -11
+p768
+aVLorenzen Wright LAC 11/11/1997 LAC @ VAN L 20 11 4 4 100.0 0 0 - 3 4 75.0 0 5 5 0 0 1 0 6 -7
+p769
+aVDarrick Martin LAC 11/11/1997 LAC @ VAN L 35 13 5 14 35.7 1 4 25.0 2 3 66.7 0 3 3 6 2 0 2 4 2
+p770
+aVMaurice Taylor LAC 11/11/1997 LAC @ VAN L 10 6 3 3 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 4 -6
+p771
+aVRodney Rogers LAC 11/11/1997 LAC @ VAN L 43 26 12 21 57.1 2 4 50.0 0 1 0.0 3 6 9 6 2 1 2 5 -8
+p772
+aVKeith Closs LAC 11/11/1997 LAC @ VAN L 7 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p773
+aVLoy Vaught LAC 11/11/1997 LAC @ VAN L 13 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 2 0 0 0 5 1
+p774
+aVBrent Barry LAC 11/11/1997 LAC @ VAN L 31 13 5 13 38.5 3 6 50.0 0 0 - 1 4 5 3 1 0 1 5 -11
+p775
+aVLamond Murray LAC 11/08/1997 LAC vs. PHX L 29 14 7 13 53.8 0 2 0.0 0 0 - 6 3 9 1 0 1 0 4 -2
+p776
+aVPooh Richardson LAC 11/08/1997 LAC vs. PHX L 16 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 2 0 2 0 -12
+p777
+aVBrent Barry LAC 11/08/1997 LAC vs. PHX L 31 18 6 11 54.5 1 5 20.0 5 5 100.0 1 4 5 2 0 0 2 4 -8
+p778
+aVKeith Closs LAC 11/08/1997 LAC vs. PHX L 8 9 3 3 100.0 0 0 - 3 4 75.0 0 2 2 0 0 3 2 0 -6
+p779
+aVLoy Vaught LAC 11/08/1997 LAC vs. PHX L 11 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 1 1 2 -1
+p780
+aVEric Piatkowski LAC 11/08/1997 LAC vs. PHX L 12 6 2 4 50.0 0 1 0.0 2 4 50.0 3 0 3 0 0 0 0 0 -5
+p781
+aVLorenzen Wright LAC 11/08/1997 LAC vs. PHX L 22 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -16
+p782
+aVStojko Vrankovic LAC 11/08/1997 LAC vs. PHX L 17 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 3 4
+p783
+aVDarrick Martin LAC 11/08/1997 LAC vs. PHX L 26 13 3 11 27.3 1 5 20.0 6 6 100.0 0 1 1 2 1 0 0 1 0
+p784
+aVJames Robinson LAC 11/08/1997 LAC vs. PHX L 23 0 0 8 0.0 0 5 0.0 0 0 - 2 0 2 2 2 0 0 1 -16
+p785
+aVMaurice Taylor LAC 11/08/1997 LAC vs. PHX L 12 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 3 -13
+p786
+aVRodney Rogers LAC 11/08/1997 LAC vs. PHX L 32 23 6 15 40.0 2 5 40.0 9 12 75.0 2 4 6 3 1 0 2 3 -15
+p787
+aVStojko Vrankovic LAC 11/07/1997 LAC @ SAC W 16 3 1 5 20.0 0 0 - 1 3 33.3 5 3 8 0 0 1 4 2 -3
+p788
+aVDarrick Martin LAC 11/07/1997 LAC @ SAC W 23 12 5 9 55.6 1 3 33.3 1 1 100.0 0 2 2 2 2 0 5 2 13
+p789
+aVEric Piatkowski LAC 11/07/1997 LAC @ SAC W 19 3 1 3 33.3 0 1 0.0 1 1 100.0 0 4 4 0 0 0 0 5 -1
+p790
+aVJames Robinson LAC 11/07/1997 LAC @ SAC W 25 12 5 12 41.7 2 2 100.0 0 0 - 1 1 2 7 1 0 3 1 0
+p791
+aVLamond Murray LAC 11/07/1997 LAC @ SAC W 29 14 6 10 60.0 1 2 50.0 1 2 50.0 3 4 7 3 3 2 3 5 7
+p792
+aVBrent Barry LAC 11/07/1997 LAC @ SAC W 37 17 7 13 53.8 3 6 50.0 0 0 - 1 3 4 4 3 1 3 1 18
+p793
+aVPooh Richardson LAC 11/07/1997 LAC @ SAC W 9 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p794
+aVLorenzen Wright LAC 11/07/1997 LAC @ SAC W 32 10 3 4 75.0 0 0 - 4 5 80.0 2 6 8 0 4 1 2 3 18
+p795
+aVKeith Closs LAC 11/07/1997 LAC @ SAC W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p796
+aVMaurice Taylor LAC 11/07/1997 LAC @ SAC W 16 8 4 6 66.7 0 0 - 0 0 - 0 4 4 0 0 0 1 5 13
+p797
+aVRodney Rogers LAC 11/07/1997 LAC @ SAC W 33 11 3 10 30.0 0 1 0.0 5 6 83.3 3 7 10 3 0 1 4 5 4
+p798
+aVJames Robinson LAC 11/05/1997 LAC vs. HOU L 20 14 5 12 41.7 1 6 16.7 3 4 75.0 0 1 1 4 0 0 2 4 5
+p799
+aVDarrick Martin LAC 11/05/1997 LAC vs. HOU L 22 13 4 10 40.0 1 3 33.3 4 4 100.0 1 1 2 3 0 0 2 0 -18
+p800
+aVLorenzen Wright LAC 11/05/1997 LAC vs. HOU L 19 5 2 6 33.3 0 0 - 1 1 100.0 2 6 8 0 2 1 0 3 6
+p801
+aVLoy Vaught LAC 11/05/1997 LAC vs. HOU L 23 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 0 0 3 -23
+p802
+aVMaurice Taylor LAC 11/05/1997 LAC vs. HOU L 23 15 5 8 62.5 0 0 - 5 5 100.0 0 4 4 0 0 1 0 2 8
+p803
+aVEric Piatkowski LAC 11/05/1997 LAC vs. HOU L 21 12 5 9 55.6 1 4 25.0 1 2 50.0 2 2 4 1 0 0 0 3 7
+p804
+aVStojko Vrankovic LAC 11/05/1997 LAC vs. HOU L 17 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 2 2 3 -20
+p805
+aVKeith Closs LAC 11/05/1997 LAC vs. HOU L 14 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 1 0 2 0 2 1
+p806
+aVBrent Barry LAC 11/05/1997 LAC vs. HOU L 33 26 10 19 52.6 5 8 62.5 1 2 50.0 2 7 9 5 2 0 4 3 -22
+p807
+aVRodney Rogers LAC 11/05/1997 LAC vs. HOU L 21 6 3 7 42.9 0 0 - 0 2 0.0 2 0 2 0 1 0 1 5 -19
+p808
+aVLamond Murray LAC 11/05/1997 LAC vs. HOU L 27 8 4 8 50.0 0 0 - 0 0 - 2 4 6 1 0 3 0 2 5
+p809
+aVDarrick Martin LAC 11/01/1997 LAC vs. POR L 25 8 3 10 30.0 2 5 40.0 0 0 - 1 0 1 5 0 0 1 4 8
+p810
+aVLoy Vaught LAC 11/01/1997 LAC vs. POR L 37 12 6 15 40.0 0 0 - 0 0 - 1 6 7 0 2 1 0 5 -4
+p811
+aVRodney Rogers LAC 11/01/1997 LAC vs. POR L 35 9 2 10 20.0 1 4 25.0 4 8 50.0 2 2 4 1 3 0 1 4 -5
+p812
+aVJames Robinson LAC 11/01/1997 LAC vs. POR L 19 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 3 3 -14
+p813
+aVMaurice Taylor LAC 11/01/1997 LAC vs. POR L 10 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 1 2 1 0
+p814
+aVStojko Vrankovic LAC 11/01/1997 LAC vs. POR L 23 7 3 5 60.0 0 0 - 1 2 50.0 1 5 6 1 0 0 1 4 -2
+p815
+aVLorenzen Wright LAC 11/01/1997 LAC vs. POR L 19 5 1 7 14.3 0 0 - 3 4 75.0 1 4 5 0 1 1 2 5 -4
+p816
+aVBrent Barry LAC 11/01/1997 LAC vs. POR L 45 18 5 16 31.3 1 6 16.7 7 8 87.5 3 6 9 1 2 2 2 2 -7
+p817
+aVKeith Closs LAC 11/01/1997 LAC vs. POR L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -1
+p818
+aVPooh Richardson LAC 11/01/1997 LAC vs. POR L 8 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p819
+aVLamond Murray LAC 11/01/1997 LAC vs. POR L 13 8 3 6 50.0 0 1 0.0 2 3 66.7 3 2 5 0 0 1 0 2 -7
+p820
+aVLorenzen Wright LAC 10/31/1997 LAC @ PHX L 25 12 5 8 62.5 0 0 - 2 2 100.0 3 5 8 2 1 2 1 5 -10
+p821
+aVMaurice Taylor LAC 10/31/1997 LAC @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p822
+aVRodney Rogers LAC 10/31/1997 LAC @ PHX L 27 14 5 10 50.0 2 4 50.0 2 2 100.0 1 1 2 2 3 0 4 6 -1
+p823
+aVLamond Murray LAC 10/31/1997 LAC @ PHX L 24 14 6 9 66.7 2 3 66.7 0 0 - 0 5 5 0 2 1 4 4 -15
+p824
+aVStojko Vrankovic LAC 10/31/1997 LAC @ PHX L 26 8 4 9 44.4 0 0 - 0 0 - 4 6 10 0 0 2 2 2 0
+p825
+aVPooh Richardson LAC 10/31/1997 LAC @ PHX L 19 6 3 8 37.5 0 0 - 0 0 - 1 0 1 2 0 0 1 1 -9
+p826
+aVBrent Barry LAC 10/31/1997 LAC @ PHX L 33 20 7 12 58.3 4 7 57.1 2 2 100.0 0 5 5 7 2 1 1 3 -2
+p827
+aVLoy Vaught LAC 10/31/1997 LAC @ PHX L 38 14 7 12 58.3 0 1 0.0 0 2 0.0 4 6 10 2 0 0 3 4 -6
+p828
+aVJames Robinson LAC 10/31/1997 LAC @ PHX L 20 10 3 10 30.0 2 5 40.0 2 2 100.0 0 0 0 4 0 0 3 1 -5
+p829
+aVDarrick Martin LAC 10/31/1997 LAC @ PHX L 26 2 0 9 0.0 0 2 0.0 2 2 100.0 0 1 1 6 1 1 0 1 -2
+p830
+a.

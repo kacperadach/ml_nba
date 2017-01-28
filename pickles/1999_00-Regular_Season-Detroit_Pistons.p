@@ -1,0 +1,1704 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJohn Crotty DET 04/19/2000 DET vs. CHI W 24 11 5 7 71.4 1 1 100.0 0 0 - 0 3 3 7 1 0 1 1 14
+p2
+aVTerry Mills DET 04/19/2000 DET vs. CHI W 12 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 4 5
+p3
+aVJermaine Jackson DET 04/19/2000 DET vs. CHI W 18 4 0 2 0.0 0 0 - 4 6 66.7 0 1 1 1 2 0 1 1 11
+p4
+aVMikki Moore DET 04/19/2000 DET vs. CHI W 22 12 4 6 66.7 0 0 - 4 6 66.7 0 3 3 2 1 1 1 2 20
+p5
+aVEric Montross DET 04/19/2000 DET vs. CHI W 7 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -4
+p6
+aVJerry Stackhouse DET 04/19/2000 DET vs. CHI W 28 21 10 12 83.3 1 1 100.0 0 0 - 0 2 2 7 1 0 2 0 10
+p7
+aVJerome Williams DET 04/19/2000 DET vs. CHI W 20 13 4 6 66.7 0 0 - 5 8 62.5 2 6 8 0 1 0 5 5 15
+p8
+aVLoy Vaught DET 04/19/2000 DET vs. CHI W 7 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 0 1 0
+p9
+aVJud Buechler DET 04/19/2000 DET vs. CHI W 22 14 5 8 62.5 4 6 66.7 0 0 - 0 1 1 0 2 1 0 0 20
+p10
+aVMichael Curry DET 04/19/2000 DET vs. CHI W 26 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 1 0 2 3 1
+p11
+aVLindsey Hunter DET 04/19/2000 DET vs. CHI W 25 8 3 7 42.9 0 3 0.0 2 2 100.0 1 2 3 2 1 0 1 3 9
+p12
+aVChristian Laettner DET 04/19/2000 DET vs. CHI W 28 12 5 7 71.4 0 1 0.0 2 3 66.7 0 0 0 3 1 0 3 4 4
+p13
+aVTerry Mills DET 04/18/2000 DET @ NYK L 19 7 2 5 40.0 1 3 33.3 2 2 100.0 0 1 1 0 0 0 1 3 -18
+p14
+aVChristian Laettner DET 04/18/2000 DET @ NYK L 23 3 1 4 25.0 0 0 - 1 2 50.0 1 5 6 1 1 1 2 3 -25
+p15
+aVJud Buechler DET 04/18/2000 DET @ NYK L 24 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 2 11
+p16
+aVLindsey Hunter DET 04/18/2000 DET @ NYK L 30 2 1 7 14.3 0 0 - 0 0 - 0 3 3 4 1 0 2 2 -14
+p17
+aVMikki Moore DET 04/18/2000 DET @ NYK L 17 14 7 9 77.8 0 0 - 0 0 - 2 4 6 0 0 2 1 3 4
+p18
+aVLoy Vaught DET 04/18/2000 DET @ NYK L 9 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 1 5
+p19
+aVJerome Williams DET 04/18/2000 DET @ NYK L 25 6 1 6 16.7 0 1 0.0 4 4 100.0 1 3 4 1 3 0 1 2 10
+p20
+aVEric Montross DET 04/18/2000 DET @ NYK L 9 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 1 0 0 2 1
+p21
+aVJohn Crotty DET 04/18/2000 DET @ NYK L 27 12 3 6 50.0 2 4 50.0 4 6 66.7 1 1 2 5 0 0 4 0 6
+p22
+aVJerry Stackhouse DET 04/18/2000 DET @ NYK L 27 24 10 17 58.8 0 2 0.0 4 5 80.0 2 4 6 1 1 0 6 2 -20
+p23
+aVMichael Curry DET 04/18/2000 DET @ NYK L 31 9 1 4 25.0 0 0 - 7 7 100.0 0 0 0 0 0 0 1 4 -20
+p24
+aVEric Montross DET 04/16/2000 DET vs. IND L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -3
+p25
+aVJud Buechler DET 04/16/2000 DET vs. IND L 21 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 0 2 1 -5
+p26
+aVTerry Mills DET 04/16/2000 DET vs. IND L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p27
+aVJohn Crotty DET 04/16/2000 DET vs. IND L 13 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 1 4 -4
+p28
+aVMikki Moore DET 04/16/2000 DET vs. IND L 21 12 4 9 44.4 0 0 - 4 5 80.0 5 1 6 0 1 2 1 1 6
+p29
+aVChristian Laettner DET 04/16/2000 DET vs. IND L 31 8 4 9 44.4 0 0 - 0 0 - 1 4 5 5 2 1 0 2 -5
+p30
+aVLoy Vaught DET 04/16/2000 DET vs. IND L 12 1 0 2 0.0 0 0 - 1 2 50.0 1 5 6 1 0 0 0 0 -10
+p31
+aVJerry Stackhouse DET 04/16/2000 DET vs. IND L 36 26 10 22 45.5 0 0 - 6 6 100.0 3 2 5 5 0 0 4 2 -14
+p32
+aVLindsey Hunter DET 04/16/2000 DET vs. IND L 39 8 3 12 25.0 2 5 40.0 0 0 - 1 5 6 6 3 1 4 2 -7
+p33
+aVJerome Williams DET 04/16/2000 DET vs. IND L 22 12 5 9 55.6 0 0 - 2 2 100.0 3 2 5 1 0 0 2 2 -10
+p34
+aVMichael Curry DET 04/16/2000 DET vs. IND L 28 23 11 12 91.7 0 0 - 1 2 50.0 1 1 2 4 1 0 1 5 1
+p35
+aVGrant Hill DET 04/15/2000 DET @ PHI L 16 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 4 1 0 2 3 -3
+p36
+aVLindsey Hunter DET 04/15/2000 DET @ PHI L 31 9 4 11 36.4 1 3 33.3 0 2 0.0 1 3 4 7 0 0 1 2 -10
+p37
+aVEric Montross DET 04/15/2000 DET @ PHI L 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 1 1 0 1 8
+p38
+aVMikki Moore DET 04/15/2000 DET @ PHI L 16 4 2 6 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -3
+p39
+aVMichael Curry DET 04/15/2000 DET @ PHI L 21 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 2 0 0 2 2 -6
+p40
+aVJerry Stackhouse DET 04/15/2000 DET @ PHI L 33 15 5 18 27.8 1 5 20.0 4 5 80.0 0 0 0 4 4 0 3 4 -12
+p41
+aVTerry Mills DET 04/15/2000 DET @ PHI L 23 9 4 7 57.1 1 2 50.0 0 0 - 1 5 6 0 0 0 1 3 -11
+p42
+aVJerome Williams DET 04/15/2000 DET @ PHI L 26 12 4 8 50.0 0 0 - 4 9 44.4 2 10 12 2 1 0 1 2 -7
+p43
+aVJud Buechler DET 04/15/2000 DET @ PHI L 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 1 0 0 1 2
+p44
+aVChristian Laettner DET 04/15/2000 DET @ PHI L 18 10 5 6 83.3 0 0 - 0 0 - 0 1 1 0 0 1 2 3 -8
+p45
+aVJohn Crotty DET 04/15/2000 DET @ PHI L 22 11 5 9 55.6 1 5 20.0 0 0 - 1 4 5 5 1 0 2 2 11
+p46
+aVLoy Vaught DET 04/15/2000 DET @ PHI L 11 10 5 5 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 6
+p47
+aVJerome Williams DET 04/12/2000 DET vs. MIA W 24 6 2 6 33.3 0 0 - 2 3 66.7 8 7 15 3 0 0 0 3 17
+p48
+aVJohn Crotty DET 04/12/2000 DET vs. MIA W 17 11 4 5 80.0 3 3 100.0 0 0 - 0 1 1 1 0 0 1 0 4
+p49
+aVLindsey Hunter DET 04/12/2000 DET vs. MIA W 31 17 6 9 66.7 4 5 80.0 1 2 50.0 0 4 4 2 1 0 4 4 13
+p50
+aVJud Buechler DET 04/12/2000 DET vs. MIA W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 2 0 0 0 -2
+p51
+aVMichael Curry DET 04/12/2000 DET vs. MIA W 23 0 0 7 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 1 3 -5
+p52
+aVMikki Moore DET 04/12/2000 DET vs. MIA W 27 7 2 2 100.0 0 0 - 3 4 75.0 1 5 6 0 0 1 2 3 1
+p53
+aVTerry Mills DET 04/12/2000 DET vs. MIA W 11 3 1 3 33.3 1 3 33.3 0 0 - 1 3 4 1 0 0 1 4 7
+p54
+aVJerry Stackhouse DET 04/12/2000 DET vs. MIA W 38 29 9 23 39.1 2 4 50.0 9 10 90.0 3 4 7 3 0 0 5 2 19
+p55
+aVEric Montross DET 04/12/2000 DET vs. MIA W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 3
+p56
+aVChristian Laettner DET 04/12/2000 DET vs. MIA W 28 3 0 6 0.0 0 0 - 3 4 75.0 3 4 7 2 1 1 2 2 6
+p57
+aVGrant Hill DET 04/12/2000 DET vs. MIA W 31 12 4 9 44.4 0 1 0.0 4 4 100.0 0 6 6 2 1 0 1 3 22
+p58
+aVJerome Williams DET 04/10/2000 DET @ MIN L 26 11 4 6 66.7 0 0 - 3 4 75.0 0 5 5 0 0 0 0 4 -3
+p59
+aVMikki Moore DET 04/10/2000 DET @ MIN L 11 5 2 4 50.0 0 0 - 1 2 50.0 2 0 2 2 0 2 1 6 -3
+p60
+aVGrant Hill DET 04/10/2000 DET @ MIN L 39 36 9 18 50.0 1 1 100.0 17 18 94.4 0 7 7 4 0 1 3 4 3
+p61
+aVChristian Laettner DET 04/10/2000 DET @ MIN L 33 12 4 11 36.4 0 0 - 4 4 100.0 3 7 10 5 0 1 2 5 3
+p62
+aVMichael Curry DET 04/10/2000 DET @ MIN L 22 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 2 0 2 4 -6
+p63
+aVEric Montross DET 04/10/2000 DET @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p64
+aVLindsey Hunter DET 04/10/2000 DET @ MIN L 33 8 3 8 37.5 2 4 50.0 0 0 - 1 2 3 2 0 0 0 3 -8
+p65
+aVJohn Crotty DET 04/10/2000 DET @ MIN L 15 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 0 1 0 0 6
+p66
+aVJerry Stackhouse DET 04/10/2000 DET @ MIN L 39 10 2 15 13.3 0 4 0.0 6 10 60.0 0 5 5 3 1 2 0 3 -11
+p67
+aVTerry Mills DET 04/10/2000 DET @ MIN L 22 9 3 6 50.0 1 3 33.3 2 2 100.0 3 2 5 1 0 0 1 1 7
+p68
+aVChristian Laettner DET 04/08/2000 DET @ CLE L 17 8 4 9 44.4 0 0 - 0 0 - 3 1 4 2 0 0 0 4 -15
+p69
+aVEric Montross DET 04/08/2000 DET @ CLE L 7 2 0 2 0.0 0 0 - 2 4 50.0 1 0 1 0 0 0 0 5 -8
+p70
+aVMikki Moore DET 04/08/2000 DET @ CLE L 18 6 3 4 75.0 0 0 - 0 0 - 2 4 6 0 0 1 1 6 -3
+p71
+aVJohn Crotty DET 04/08/2000 DET @ CLE L 25 11 3 9 33.3 2 4 50.0 3 4 75.0 0 2 2 2 0 0 0 2 -8
+p72
+aVJerome Williams DET 04/08/2000 DET @ CLE L 26 19 6 10 60.0 0 0 - 7 8 87.5 4 7 11 1 0 1 1 2 6
+p73
+aVTerry Mills DET 04/08/2000 DET @ CLE L 20 4 2 5 40.0 0 2 0.0 0 0 - 2 6 8 3 3 1 0 3 -9
+p74
+aVGrant Hill DET 04/08/2000 DET @ CLE L 29 11 4 18 22.2 1 2 50.0 2 6 33.3 2 5 7 5 0 1 1 1 -9
+p75
+aVMichael Curry DET 04/08/2000 DET @ CLE L 22 13 4 6 66.7 0 0 - 5 6 83.3 0 0 0 0 0 1 1 4 -11
+p76
+aVLindsey Hunter DET 04/08/2000 DET @ CLE L 23 10 3 9 33.3 2 4 50.0 2 2 100.0 1 1 2 3 3 1 1 2 -11
+p77
+aVJerry Stackhouse DET 04/08/2000 DET @ CLE L 31 14 3 14 21.4 1 3 33.3 7 8 87.5 1 1 2 2 1 0 5 0 -8
+p78
+aVLoy Vaught DET 04/08/2000 DET @ CLE L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -5
+p79
+aVJud Buechler DET 04/08/2000 DET @ CLE L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -14
+p80
+aVJohn Crotty DET 04/07/2000 DET @ CHH W 24 14 5 8 62.5 2 4 50.0 2 2 100.0 0 0 0 5 1 0 1 3 -2
+p81
+aVJud Buechler DET 04/07/2000 DET @ CHH W 13 3 1 5 20.0 1 4 25.0 0 0 - 1 0 1 1 1 0 0 0 -6
+p82
+aVMikki Moore DET 04/07/2000 DET @ CHH W 14 8 2 5 40.0 0 0 - 4 4 100.0 3 2 5 0 0 1 1 1 0
+p83
+aVMichael Curry DET 04/07/2000 DET @ CHH W 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 7
+p84
+aVChristian Laettner DET 04/07/2000 DET @ CHH W 23 6 3 7 42.9 0 0 - 0 0 - 2 6 8 1 2 0 0 3 17
+p85
+aVTerry Mills DET 04/07/2000 DET @ CHH W 23 7 3 6 50.0 1 4 25.0 0 0 - 1 9 10 0 0 1 0 2 21
+p86
+aVEric Montross DET 04/07/2000 DET @ CHH W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -6
+p87
+aVLindsey Hunter DET 04/07/2000 DET @ CHH W 33 12 4 11 36.4 1 4 25.0 3 5 60.0 0 1 1 1 2 0 3 2 9
+p88
+aVLoy Vaught DET 04/07/2000 DET @ CHH W 4 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -6
+p89
+aVGrant Hill DET 04/07/2000 DET @ CHH W 29 13 5 11 45.5 0 1 0.0 3 3 100.0 2 5 7 5 2 0 3 3 18
+p90
+aVJerome Williams DET 04/07/2000 DET @ CHH W 26 5 2 4 50.0 0 0 - 1 3 33.3 1 10 11 2 1 0 2 3 2
+p91
+aVJerry Stackhouse DET 04/07/2000 DET @ CHH W 29 23 7 16 43.8 6 8 75.0 3 4 75.0 0 1 1 7 1 1 5 5 21
+p92
+aVChristian Laettner DET 04/05/2000 DET vs. BOS W 25 11 3 5 60.0 0 0 - 5 6 83.3 1 5 6 0 0 2 4 6 5
+p93
+aVLindsey Hunter DET 04/05/2000 DET vs. BOS W 33 18 6 8 75.0 4 5 80.0 2 2 100.0 0 4 4 2 2 0 0 2 -1
+p94
+aVMichael Curry DET 04/05/2000 DET vs. BOS W 15 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 3 6
+p95
+aVTerry Mills DET 04/05/2000 DET vs. BOS W 24 11 4 7 57.1 2 2 100.0 1 2 50.0 0 3 3 2 0 1 0 3 3
+p96
+aVGrant Hill DET 04/05/2000 DET vs. BOS W 37 27 10 17 58.8 0 1 0.0 7 13 53.8 0 9 9 3 1 2 3 2 5
+p97
+aVEric Montross DET 04/05/2000 DET vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p98
+aVMikki Moore DET 04/05/2000 DET vs. BOS W 18 9 1 1 100.0 0 0 - 7 8 87.5 2 2 4 1 0 2 1 4 1
+p99
+aVJud Buechler DET 04/05/2000 DET vs. BOS W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 2
+p100
+aVJerry Stackhouse DET 04/05/2000 DET vs. BOS W 39 22 5 19 26.3 0 5 0.0 12 13 92.3 1 0 1 3 1 0 4 2 -2
+p101
+aVJerome Williams DET 04/05/2000 DET vs. BOS W 27 7 1 3 33.3 0 0 - 5 8 62.5 2 5 7 2 4 2 1 3 -2
+p102
+aVJohn Crotty DET 04/05/2000 DET vs. BOS W 15 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 3 7
+p103
+aVLindsey Hunter DET 04/04/2000 DET @ TOR W 34 8 3 6 50.0 0 1 0.0 2 4 50.0 0 5 5 2 3 0 1 1 14
+p104
+aVJerry Stackhouse DET 04/04/2000 DET @ TOR W 39 28 10 21 47.6 2 6 33.3 6 8 75.0 0 2 2 3 0 1 3 2 16
+p105
+aVTerry Mills DET 04/04/2000 DET @ TOR W 21 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -7
+p106
+aVJud Buechler DET 04/04/2000 DET @ TOR W 0 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p107
+aVMikki Moore DET 04/04/2000 DET @ TOR W 26 12 4 7 57.1 0 0 - 4 4 100.0 4 3 7 1 1 1 0 3 22
+p108
+aVChristian Laettner DET 04/04/2000 DET @ TOR W 18 6 3 4 75.0 0 0 - 0 0 - 2 3 5 2 2 0 1 4 0
+p109
+aVJohn Crotty DET 04/04/2000 DET @ TOR W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p110
+aVGrant Hill DET 04/04/2000 DET @ TOR W 39 32 12 25 48.0 0 0 - 8 11 72.7 2 7 9 2 3 1 3 4 5
+p111
+aVMichael Curry DET 04/04/2000 DET @ TOR W 18 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 0 11
+p112
+aVJerome Williams DET 04/04/2000 DET @ TOR W 31 11 3 7 42.9 0 0 - 5 10 50.0 0 6 6 2 2 1 2 4 14
+p113
+aVMichael Curry DET 04/02/2000 DET @ NJN W 15 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 5
+p114
+aVJerry Stackhouse DET 04/02/2000 DET @ NJN W 37 34 14 27 51.9 2 5 40.0 4 5 80.0 5 3 8 7 1 0 0 1 15
+p115
+aVTerry Mills DET 04/02/2000 DET @ NJN W 21 0 0 2 0.0 0 0 - 0 0 - 2 3 5 2 1 0 0 2 10
+p116
+aVLindsey Hunter DET 04/02/2000 DET @ NJN W 34 13 6 13 46.2 1 5 20.0 0 0 - 0 5 5 6 0 0 1 3 13
+p117
+aVJohn Crotty DET 04/02/2000 DET @ NJN W 17 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 3 0 0 0 1 7
+p118
+aVGrant Hill DET 04/02/2000 DET @ NJN W 35 32 13 18 72.2 2 3 66.7 4 6 66.7 0 12 12 8 2 1 4 3 18
+p119
+aVEric Montross DET 04/02/2000 DET @ NJN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p120
+aVChristian Laettner DET 04/02/2000 DET @ NJN W 32 4 2 8 25.0 0 0 - 0 0 - 2 2 4 5 2 0 1 3 21
+p121
+aVJud Buechler DET 04/02/2000 DET @ NJN W 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 0 5
+p122
+aVJerome Williams DET 04/02/2000 DET @ NJN W 21 13 5 5 100.0 0 0 - 3 4 75.0 1 6 7 0 0 0 1 2 9
+p123
+aVMikki Moore DET 04/02/2000 DET @ NJN W 18 6 2 8 25.0 0 0 - 2 3 66.7 1 5 6 1 0 1 1 3 2
+p124
+aVEric Montross DET 03/31/2000 DET vs. PHX L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p125
+aVMichael Curry DET 03/31/2000 DET vs. PHX L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p126
+aVLindsey Hunter DET 03/31/2000 DET vs. PHX L 32 15 5 9 55.6 3 5 60.0 2 2 100.0 2 6 8 3 0 1 4 2 2
+p127
+aVTerry Mills DET 03/31/2000 DET vs. PHX L 21 9 4 5 80.0 1 2 50.0 0 0 - 1 5 6 0 0 0 2 3 -4
+p128
+aVChristian Laettner DET 03/31/2000 DET vs. PHX L 31 12 5 13 38.5 0 0 - 2 2 100.0 6 1 7 1 0 0 2 2 0
+p129
+aVMikki Moore DET 03/31/2000 DET vs. PHX L 13 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 9
+p130
+aVJerome Williams DET 03/31/2000 DET vs. PHX L 24 4 2 3 66.7 0 0 - 0 0 - 5 7 12 2 1 0 1 1 -3
+p131
+aVGrant Hill DET 03/31/2000 DET vs. PHX L 38 28 8 20 40.0 0 0 - 12 13 92.3 2 5 7 4 2 1 2 3 2
+p132
+aVJud Buechler DET 03/31/2000 DET vs. PHX L 11 0 0 3 0.0 0 3 0.0 0 0 - 2 0 2 0 0 0 0 1 -3
+p133
+aVJohn Crotty DET 03/31/2000 DET vs. PHX L 16 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 3 -3
+p134
+aVJerry Stackhouse DET 03/31/2000 DET vs. PHX L 40 19 5 21 23.8 2 7 28.6 7 8 87.5 1 1 2 4 1 2 4 1 -2
+p135
+aVChristian Laettner DET 03/29/2000 DET vs. CHH L 32 15 5 9 55.6 0 0 - 5 6 83.3 3 3 6 1 1 1 0 4 -10
+p136
+aVMichael Curry DET 03/29/2000 DET vs. CHH L 15 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p137
+aVJud Buechler DET 03/29/2000 DET vs. CHH L 14 8 3 5 60.0 1 3 33.3 1 2 50.0 0 2 2 1 0 0 1 4 -6
+p138
+aVLindsey Hunter DET 03/29/2000 DET vs. CHH L 28 5 2 12 16.7 1 5 20.0 0 0 - 0 2 2 4 2 0 1 1 -5
+p139
+aVMikki Moore DET 03/29/2000 DET vs. CHH L 10 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 3 -1
+p140
+aVJohn Crotty DET 03/29/2000 DET vs. CHH L 13 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 3 2
+p141
+aVJerome Williams DET 03/29/2000 DET vs. CHH L 18 3 1 3 33.3 0 0 - 1 4 25.0 5 6 11 1 0 0 0 2 2
+p142
+aVEric Montross DET 03/29/2000 DET vs. CHH L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p143
+aVGrant Hill DET 03/29/2000 DET vs. CHH L 35 26 11 23 47.8 0 1 0.0 4 4 100.0 2 5 7 3 2 0 6 3 -4
+p144
+aVTerry Mills DET 03/29/2000 DET vs. CHH L 31 8 4 9 44.4 0 2 0.0 0 0 - 2 8 10 1 0 0 1 5 -8
+p145
+aVJerry Stackhouse DET 03/29/2000 DET vs. CHH L 40 19 7 18 38.9 0 3 0.0 5 6 83.3 2 0 2 6 1 0 2 3 -6
+p146
+aVLindsey Hunter DET 03/25/2000 DET @ LAC W 31 20 8 11 72.7 4 6 66.7 0 0 - 0 6 6 1 0 0 2 2 11
+p147
+aVJohn Crotty DET 03/25/2000 DET @ LAC W 17 11 4 5 80.0 0 0 - 3 3 100.0 0 1 1 1 0 0 0 3 6
+p148
+aVTerry Mills DET 03/25/2000 DET @ LAC W 17 9 4 6 66.7 1 2 50.0 0 0 - 1 5 6 2 1 0 0 1 7
+p149
+aVJud Buechler DET 03/25/2000 DET @ LAC W 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 10
+p150
+aVMikki Moore DET 03/25/2000 DET @ LAC W 21 14 6 8 75.0 0 0 - 2 2 100.0 1 4 5 1 0 0 1 4 15
+p151
+aVEric Montross DET 03/25/2000 DET @ LAC W 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -5
+p152
+aVLoy Vaught DET 03/25/2000 DET @ LAC W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -11
+p153
+aVJerry Stackhouse DET 03/25/2000 DET @ LAC W 33 31 12 21 57.1 3 6 50.0 4 4 100.0 1 1 2 7 1 0 3 3 4
+p154
+aVJerome Williams DET 03/25/2000 DET @ LAC W 22 4 2 3 66.7 0 0 - 0 0 - 3 8 11 3 0 0 1 1 19
+p155
+aVChristian Laettner DET 03/25/2000 DET @ LAC W 24 7 3 6 50.0 1 1 100.0 0 0 - 3 1 4 6 0 0 0 3 13
+p156
+aVGrant Hill DET 03/25/2000 DET @ LAC W 32 19 7 11 63.6 1 1 100.0 4 9 44.4 1 6 7 5 0 0 6 3 22
+p157
+aVMichael Curry DET 03/25/2000 DET @ LAC W 20 8 3 4 75.0 0 0 - 2 3 66.7 0 2 2 2 0 0 1 2 4
+p158
+aVLoy Vaught DET 03/24/2000 DET @ SAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p159
+aVEric Montross DET 03/24/2000 DET @ SAC L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -6
+p160
+aVJohn Crotty DET 03/24/2000 DET @ SAC L 17 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 2 0 0 0 1 0
+p161
+aVLindsey Hunter DET 03/24/2000 DET @ SAC L 31 11 4 10 40.0 2 6 33.3 1 3 33.3 0 4 4 5 4 0 1 5 -10
+p162
+aVJerome Williams DET 03/24/2000 DET @ SAC L 27 9 4 9 44.4 0 0 - 1 3 33.3 3 4 7 0 0 0 1 2 -5
+p163
+aVJerry Stackhouse DET 03/24/2000 DET @ SAC L 39 24 8 20 40.0 2 6 33.3 6 6 100.0 2 2 4 3 0 0 4 0 -11
+p164
+aVGrant Hill DET 03/24/2000 DET @ SAC L 41 35 14 28 50.0 1 4 25.0 6 7 85.7 1 8 9 5 4 0 2 5 -9
+p165
+aVMikki Moore DET 03/24/2000 DET @ SAC L 16 9 4 6 66.7 0 0 - 1 2 50.0 5 1 6 0 0 2 1 4 10
+p166
+aVMichael Curry DET 03/24/2000 DET @ SAC L 21 4 1 7 14.3 0 0 - 2 2 100.0 1 0 1 2 0 0 1 3 0
+p167
+aVChristian Laettner DET 03/24/2000 DET @ SAC L 29 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 1 1 3 5 -13
+p168
+aVTerry Mills DET 03/24/2000 DET @ SAC L 14 0 0 3 0.0 0 2 0.0 0 0 - 1 3 4 0 0 0 0 3 -6
+p169
+aVJohn Crotty DET 03/22/2000 DET @ POR W 17 4 1 2 50.0 1 1 100.0 1 2 50.0 0 1 1 2 0 0 3 2 -9
+p170
+aVJerome Williams DET 03/22/2000 DET @ POR W 29 9 3 4 75.0 0 0 - 3 4 75.0 4 9 13 1 1 1 1 3 5
+p171
+aVTerry Mills DET 03/22/2000 DET @ POR W 26 16 6 9 66.7 4 6 66.7 0 0 - 1 4 5 2 2 0 0 3 12
+p172
+aVJud Buechler DET 03/22/2000 DET @ POR W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -4
+p173
+aVMichael Curry DET 03/22/2000 DET @ POR W 17 7 2 5 40.0 0 0 - 3 5 60.0 0 1 1 0 0 0 1 1 -4
+p174
+aVEric Montross DET 03/22/2000 DET @ POR W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p175
+aVJerry Stackhouse DET 03/22/2000 DET @ POR W 38 23 7 18 38.9 0 3 0.0 9 11 81.8 1 2 3 1 2 0 6 0 13
+p176
+aVGrant Hill DET 03/22/2000 DET @ POR W 33 24 11 18 61.1 0 0 - 2 3 66.7 0 6 6 6 0 0 2 3 13
+p177
+aVChristian Laettner DET 03/22/2000 DET @ POR W 25 8 4 7 57.1 0 0 - 0 0 - 1 5 6 2 2 0 0 5 7
+p178
+aVMikki Moore DET 03/22/2000 DET @ POR W 12 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 1 2 0 2 0
+p179
+aVLindsey Hunter DET 03/22/2000 DET @ POR W 31 8 3 7 42.9 1 3 33.3 1 1 100.0 0 0 0 5 1 0 1 3 18
+p180
+aVLindsey Hunter DET 03/21/2000 DET @ SEA W 35 10 4 8 50.0 2 5 40.0 0 0 - 1 2 3 0 1 0 7 5 2
+p181
+aVMichael Curry DET 03/21/2000 DET @ SEA W 16 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 7
+p182
+aVJerome Williams DET 03/21/2000 DET @ SEA W 26 12 4 9 44.4 0 1 0.0 4 6 66.7 3 11 14 0 1 0 0 2 -1
+p183
+aVJerry Stackhouse DET 03/21/2000 DET @ SEA W 37 21 6 15 40.0 0 3 0.0 9 11 81.8 1 0 1 4 1 1 3 0 1
+p184
+aVGrant Hill DET 03/21/2000 DET @ SEA W 43 33 14 26 53.8 0 3 0.0 5 6 83.3 6 5 11 8 0 0 5 1 12
+p185
+aVEric Montross DET 03/21/2000 DET @ SEA W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -8
+p186
+aVJohn Crotty DET 03/21/2000 DET @ SEA W 13 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 3 0 0 0 1 10
+p187
+aVMikki Moore DET 03/21/2000 DET @ SEA W 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 2 1 2 11
+p188
+aVChristian Laettner DET 03/21/2000 DET @ SEA W 33 6 3 5 60.0 0 0 - 0 0 - 2 6 8 3 2 0 1 3 13
+p189
+aVTerry Mills DET 03/21/2000 DET @ SEA W 21 5 2 7 28.6 1 3 33.3 0 0 - 2 5 7 1 1 0 1 5 3
+p190
+aVJohn Crotty DET 03/19/2000 DET @ VAN W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 2 -5
+p191
+aVChristian Laettner DET 03/19/2000 DET @ VAN W 37 10 4 11 36.4 0 1 0.0 2 2 100.0 1 4 5 5 4 1 2 4 5
+p192
+aVTerry Mills DET 03/19/2000 DET @ VAN W 15 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 0 0 0 0 2 -3
+p193
+aVJerry Stackhouse DET 03/19/2000 DET @ VAN W 41 23 7 16 43.8 1 5 20.0 8 9 88.9 0 1 1 3 0 0 2 1 0
+p194
+aVMikki Moore DET 03/19/2000 DET @ VAN W 12 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 1 1 1 2 -13
+p195
+aVLindsey Hunter DET 03/19/2000 DET @ VAN W 36 14 5 8 62.5 4 5 80.0 0 0 - 0 0 0 2 6 0 1 2 7
+p196
+aVGrant Hill DET 03/19/2000 DET @ VAN W 41 31 12 23 52.2 0 1 0.0 7 7 100.0 1 4 5 4 3 1 3 2 4
+p197
+aVEric Montross DET 03/19/2000 DET @ VAN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 6
+p198
+aVMichael Curry DET 03/19/2000 DET @ VAN W 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 2 0 3 1 0
+p199
+aVJerome Williams DET 03/19/2000 DET @ VAN W 26 12 4 8 50.0 0 0 - 4 5 80.0 7 4 11 0 3 0 5 3 9
+p200
+aVJerome Williams DET 03/17/2000 DET vs. LAL L 18 10 5 11 45.5 0 0 - 0 2 0.0 7 6 13 0 0 0 0 1 -11
+p201
+aVJerry Stackhouse DET 03/17/2000 DET vs. LAL L 34 18 4 16 25.0 1 4 25.0 9 10 90.0 0 0 0 2 2 0 3 1 -18
+p202
+aVLindsey Hunter DET 03/17/2000 DET vs. LAL L 28 1 0 9 0.0 0 5 0.0 1 2 50.0 0 2 2 5 0 0 3 2 -21
+p203
+aVMichael Curry DET 03/17/2000 DET vs. LAL L 25 10 3 8 37.5 0 1 0.0 4 6 66.7 0 4 4 0 0 0 2 2 -9
+p204
+aVJud Buechler DET 03/17/2000 DET vs. LAL L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 1
+p205
+aVTerry Mills DET 03/17/2000 DET vs. LAL L 20 5 2 7 28.6 1 4 25.0 0 0 - 0 6 6 0 1 0 0 5 -8
+p206
+aVEric Montross DET 03/17/2000 DET vs. LAL L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -8
+p207
+aVLoy Vaught DET 03/17/2000 DET vs. LAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 2
+p208
+aVChristian Laettner DET 03/17/2000 DET vs. LAL L 25 12 5 9 55.6 0 0 - 2 2 100.0 3 7 10 1 1 0 2 3 -19
+p209
+aVJohn Crotty DET 03/17/2000 DET vs. LAL L 20 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 4 0 0 3 0 -7
+p210
+aVGrant Hill DET 03/17/2000 DET vs. LAL L 26 12 5 12 41.7 0 0 - 2 5 40.0 0 4 4 3 0 0 3 3 -30
+p211
+aVMikki Moore DET 03/17/2000 DET vs. LAL L 15 12 5 5 100.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 5 -12
+p212
+aVChristian Laettner DET 03/15/2000 DET vs. ORL W 35 22 9 15 60.0 0 0 - 4 5 80.0 8 9 17 4 0 0 4 3 20
+p213
+aVJerome Williams DET 03/15/2000 DET vs. ORL W 15 5 2 4 50.0 0 0 - 1 1 100.0 3 0 3 0 1 0 1 2 7
+p214
+aVEric Montross DET 03/15/2000 DET vs. ORL W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 1
+p215
+aVMikki Moore DET 03/15/2000 DET vs. ORL W 17 5 0 1 0.0 0 0 - 5 6 83.3 1 1 2 0 0 1 3 3 5
+p216
+aVGrant Hill DET 03/15/2000 DET vs. ORL W 35 24 9 22 40.9 0 1 0.0 6 7 85.7 3 6 9 2 1 0 1 4 13
+p217
+aVJerry Stackhouse DET 03/15/2000 DET vs. ORL W 37 32 12 22 54.5 2 5 40.0 6 6 100.0 2 2 4 6 2 0 3 3 22
+p218
+aVJohn Crotty DET 03/15/2000 DET vs. ORL W 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 0 0 3 1 2
+p219
+aVMichael Curry DET 03/15/2000 DET vs. ORL W 20 12 5 6 83.3 0 0 - 2 2 100.0 1 1 2 0 1 0 3 5 5
+p220
+aVLoy Vaught DET 03/15/2000 DET vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p221
+aVLindsey Hunter DET 03/15/2000 DET vs. ORL W 37 9 3 10 30.0 1 4 25.0 2 2 100.0 0 5 5 4 1 0 1 2 21
+p222
+aVTerry Mills DET 03/15/2000 DET vs. ORL W 19 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 2 0 0 1 4 9
+p223
+aVJud Buechler DET 03/15/2000 DET vs. ORL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 0 3
+p224
+aVJohn Crotty DET 03/13/2000 DET vs. BOS W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 3 2 -2
+p225
+aVJerry Stackhouse DET 03/13/2000 DET vs. BOS W 41 36 10 22 45.5 3 9 33.3 13 16 81.3 0 2 2 5 1 1 4 2 6
+p226
+aVJerome Williams DET 03/13/2000 DET vs. BOS W 27 13 2 3 66.7 0 0 - 9 14 64.3 4 4 8 1 1 0 1 3 -1
+p227
+aVJud Buechler DET 03/13/2000 DET vs. BOS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p228
+aVTerry Mills DET 03/13/2000 DET vs. BOS W 10 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 1 0 0 1 2 1
+p229
+aVChristian Laettner DET 03/13/2000 DET vs. BOS W 30 12 6 9 66.7 0 1 0.0 0 0 - 2 8 10 4 1 1 1 5 8
+p230
+aVMichael Curry DET 03/13/2000 DET vs. BOS W 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 1 0 2 5 -3
+p231
+aVGrant Hill DET 03/13/2000 DET vs. BOS W 38 14 4 11 36.4 0 1 0.0 6 9 66.7 0 7 7 4 1 0 2 3 13
+p232
+aVMikki Moore DET 03/13/2000 DET vs. BOS W 19 11 5 5 100.0 0 0 - 1 2 50.0 0 4 4 0 1 0 0 3 7
+p233
+aVEric Montross DET 03/13/2000 DET vs. BOS W 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 3
+p234
+aVLindsey Hunter DET 03/13/2000 DET vs. BOS W 39 25 7 12 58.3 3 4 75.0 8 8 100.0 0 2 2 8 4 2 3 5 11
+p235
+aVTerry Mills DET 03/11/2000 DET vs. POR L 22 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 2 0 0 0 2 -5
+p236
+aVLindsey Hunter DET 03/11/2000 DET vs. POR L 37 10 4 10 40.0 2 6 33.3 0 0 - 0 1 1 2 1 0 1 3 -12
+p237
+aVJerry Stackhouse DET 03/11/2000 DET vs. POR L 33 22 8 17 47.1 3 6 50.0 3 3 100.0 1 3 4 4 0 0 3 4 -3
+p238
+aVJerome Williams DET 03/11/2000 DET vs. POR L 19 0 0 3 0.0 0 1 0.0 0 0 - 2 2 4 0 0 1 1 3 -4
+p239
+aVJohn Crotty DET 03/11/2000 DET vs. POR L 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 4 7
+p240
+aVGrant Hill DET 03/11/2000 DET vs. POR L 41 30 11 17 64.7 1 2 50.0 7 10 70.0 0 6 6 4 1 0 2 1 -4
+p241
+aVChristian Laettner DET 03/11/2000 DET vs. POR L 32 15 5 8 62.5 0 0 - 5 6 83.3 4 4 8 4 0 0 5 5 -3
+p242
+aVMikki Moore DET 03/11/2000 DET vs. POR L 15 9 3 3 100.0 0 0 - 3 4 75.0 1 2 3 0 0 2 0 5 3
+p243
+aVMichael Curry DET 03/11/2000 DET vs. POR L 23 4 1 3 33.3 0 0 - 2 3 66.7 1 2 3 1 1 0 0 3 -3
+p244
+aVEric Montross DET 03/11/2000 DET vs. POR L 7 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 0 1 1 -1
+p245
+aVJohn Crotty DET 03/10/2000 DET vs. VAN W 18 8 2 3 66.7 0 0 - 4 4 100.0 0 2 2 1 1 0 0 1 11
+p246
+aVGrant Hill DET 03/10/2000 DET vs. VAN W 35 27 12 20 60.0 0 1 0.0 3 3 100.0 2 7 9 6 2 1 0 3 34
+p247
+aVEric Montross DET 03/10/2000 DET vs. VAN W 15 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 -3
+p248
+aVChristian Laettner DET 03/10/2000 DET vs. VAN W 25 10 2 6 33.3 0 0 - 6 6 100.0 2 2 4 4 2 2 1 6 1
+p249
+aVJud Buechler DET 03/10/2000 DET vs. VAN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p250
+aVMichael Curry DET 03/10/2000 DET vs. VAN W 20 16 6 8 75.0 0 0 - 4 4 100.0 0 0 0 1 2 0 1 3 -11
+p251
+aVJerry Stackhouse DET 03/10/2000 DET vs. VAN W 38 27 11 17 64.7 0 1 0.0 5 5 100.0 1 2 3 2 3 1 5 3 13
+p252
+aVLoy Vaught DET 03/10/2000 DET vs. VAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p253
+aVTerry Mills DET 03/10/2000 DET vs. VAN W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -7
+p254
+aVJerome Williams DET 03/10/2000 DET vs. VAN W 29 10 5 9 55.6 0 0 - 0 4 0.0 6 6 12 1 0 0 1 2 30
+p255
+aVMikki Moore DET 03/10/2000 DET vs. VAN W 15 6 3 4 75.0 0 0 - 0 0 - 1 1 2 2 1 1 2 6 7
+p256
+aVLindsey Hunter DET 03/10/2000 DET vs. VAN W 30 6 2 12 16.7 2 8 25.0 0 0 - 0 3 3 5 0 0 1 1 3
+p257
+aVEric Montross DET 03/08/2000 DET vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p258
+aVJerry Stackhouse DET 03/08/2000 DET vs. DEN W 34 40 13 21 61.9 6 10 60.0 8 8 100.0 0 1 1 4 0 1 1 1 14
+p259
+aVJud Buechler DET 03/08/2000 DET vs. DEN W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -11
+p260
+aVJerome Williams DET 03/08/2000 DET vs. DEN W 23 11 5 6 83.3 0 0 - 1 3 33.3 2 6 8 0 2 0 1 4 22
+p261
+aVMichael Curry DET 03/08/2000 DET vs. DEN W 25 8 2 5 40.0 0 0 - 4 4 100.0 0 0 0 1 0 0 1 2 10
+p262
+aVLindsey Hunter DET 03/08/2000 DET vs. DEN W 31 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 6 1 1 1 2 11
+p263
+aVMikki Moore DET 03/08/2000 DET vs. DEN W 21 15 5 8 62.5 0 0 - 5 6 83.3 3 5 8 0 0 1 0 6 1
+p264
+aVLoy Vaught DET 03/08/2000 DET vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p265
+aVJohn Crotty DET 03/08/2000 DET vs. DEN W 17 3 0 4 0.0 0 1 0.0 3 3 100.0 0 1 1 4 1 0 1 3 3
+p266
+aVTerry Mills DET 03/08/2000 DET vs. DEN W 12 7 3 3 100.0 1 1 100.0 0 0 - 2 1 3 0 0 0 2 4 4
+p267
+aVChristian Laettner DET 03/08/2000 DET vs. DEN W 33 11 4 7 57.1 0 0 - 3 3 100.0 1 5 6 6 1 0 2 4 16
+p268
+aVGrant Hill DET 03/08/2000 DET vs. DEN W 33 27 9 21 42.9 0 0 - 9 11 81.8 1 1 2 10 4 1 2 2 15
+p269
+aVTerry Mills DET 03/04/2000 DET @ WAS L 29 5 2 8 25.0 1 4 25.0 0 0 - 2 4 6 4 1 0 0 4 -10
+p270
+aVGrant Hill DET 03/04/2000 DET @ WAS L 40 24 8 17 47.1 0 0 - 8 10 80.0 2 6 8 6 0 0 2 2 3
+p271
+aVChristian Laettner DET 03/04/2000 DET @ WAS L 32 15 7 13 53.8 1 1 100.0 0 2 0.0 3 6 9 3 1 0 0 4 4
+p272
+aVLindsey Hunter DET 03/04/2000 DET @ WAS L 38 14 6 9 66.7 2 4 50.0 0 0 - 0 2 2 3 1 0 4 4 2
+p273
+aVMichael Curry DET 03/04/2000 DET @ WAS L 16 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -6
+p274
+aVMikki Moore DET 03/04/2000 DET @ WAS L 19 6 3 6 50.0 0 0 - 0 0 - 0 4 4 1 0 1 2 3 4
+p275
+aVJerry Stackhouse DET 03/04/2000 DET @ WAS L 41 26 7 16 43.8 2 5 40.0 10 12 83.3 1 0 1 4 2 0 7 2 -9
+p276
+aVJerome Williams DET 03/04/2000 DET @ WAS L 16 4 2 2 100.0 0 0 - 0 0 - 0 6 6 0 0 0 3 3 -10
+p277
+aVJohn Crotty DET 03/04/2000 DET @ WAS L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 2 -8
+p278
+aVEric Montross DET 03/01/2000 DET vs. UTA L 19 4 2 4 50.0 0 0 - 0 2 0.0 0 6 6 0 0 0 1 3 -10
+p279
+aVGrant Hill DET 03/01/2000 DET vs. UTA L 39 26 7 18 38.9 0 1 0.0 12 17 70.6 0 3 3 3 0 0 5 3 -14
+p280
+aVJerome Williams DET 03/01/2000 DET vs. UTA L 24 7 3 3 100.0 0 0 - 1 2 50.0 4 7 11 0 1 0 0 0 -18
+p281
+aVTerry Mills DET 03/01/2000 DET vs. UTA L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 1 2 0 1 0 -1
+p282
+aVMikki Moore DET 03/01/2000 DET vs. UTA L 17 9 4 5 80.0 0 0 - 1 2 50.0 1 3 4 3 0 0 0 4 4
+p283
+aVJerry Stackhouse DET 03/01/2000 DET vs. UTA L 35 17 5 15 33.3 0 0 - 7 10 70.0 2 0 2 1 2 0 3 1 -18
+p284
+aVJud Buechler DET 03/01/2000 DET vs. UTA L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 8
+p285
+aVChristian Laettner DET 03/01/2000 DET vs. UTA L 19 12 4 6 66.7 0 0 - 4 4 100.0 2 2 4 1 1 0 1 4 -3
+p286
+aVMichael Curry DET 03/01/2000 DET vs. UTA L 15 0 0 3 0.0 0 0 - 0 0 - 1 0 1 3 0 0 1 2 0
+p287
+aVJohn Crotty DET 03/01/2000 DET vs. UTA L 22 8 2 3 66.7 2 3 66.7 2 2 100.0 0 0 0 2 1 0 0 2 3
+p288
+aVLindsey Hunter DET 03/01/2000 DET vs. UTA L 26 7 3 7 42.9 1 2 50.0 0 1 0.0 0 2 2 3 0 0 2 3 -16
+p289
+aVJerome Williams DET 02/29/2000 DET @ IND L 22 6 2 5 40.0 0 0 - 2 2 100.0 4 4 8 1 0 0 0 3 0
+p290
+aVJohn Crotty DET 02/29/2000 DET @ IND L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -3
+p291
+aVLindsey Hunter DET 02/29/2000 DET @ IND L 41 5 2 8 25.0 1 4 25.0 0 0 - 0 3 3 4 2 0 1 1 -7
+p292
+aVChristian Laettner DET 02/29/2000 DET @ IND L 29 6 3 13 23.1 0 0 - 0 0 - 6 6 12 0 1 0 4 2 -19
+p293
+aVGrant Hill DET 02/29/2000 DET @ IND L 38 37 15 24 62.5 1 2 50.0 6 8 75.0 0 7 7 5 2 0 1 0 -12
+p294
+aVMikki Moore DET 02/29/2000 DET @ IND L 23 10 4 6 66.7 0 0 - 2 2 100.0 2 3 5 1 1 2 1 6 15
+p295
+aVMichael Curry DET 02/29/2000 DET @ IND L 16 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 3
+p296
+aVTerry Mills DET 02/29/2000 DET @ IND L 18 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 0 1 0 0 1 -19
+p297
+aVEric Montross DET 02/29/2000 DET @ IND L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p298
+aVJerry Stackhouse DET 02/29/2000 DET @ IND L 42 32 9 25 36.0 1 4 25.0 13 15 86.7 2 2 4 5 1 1 2 4 -11
+p299
+aVJerome Williams DET 02/27/2000 DET vs. CHI W 35 7 3 6 50.0 0 0 - 1 2 50.0 6 8 14 2 2 0 1 3 0
+p300
+aVMikki Moore DET 02/27/2000 DET vs. CHI W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -6
+p301
+aVGrant Hill DET 02/27/2000 DET vs. CHI W 40 14 6 17 35.3 0 1 0.0 2 5 40.0 1 4 5 3 2 1 2 3 0
+p302
+aVMichael Curry DET 02/27/2000 DET vs. CHI W 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 -3
+p303
+aVLindsey Hunter DET 02/27/2000 DET vs. CHI W 40 13 4 15 26.7 1 6 16.7 4 4 100.0 0 1 1 3 2 0 1 3 4
+p304
+aVTerry Mills DET 02/27/2000 DET vs. CHI W 19 5 2 4 50.0 1 2 50.0 0 0 - 0 5 5 1 0 1 0 4 13
+p305
+aVChristian Laettner DET 02/27/2000 DET vs. CHI W 26 17 5 7 71.4 0 0 - 7 9 77.8 2 4 6 0 2 2 5 4 -2
+p306
+aVJohn Crotty DET 02/27/2000 DET vs. CHI W 8 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 0 0
+p307
+aVJerry Stackhouse DET 02/27/2000 DET vs. CHI W 40 27 8 18 44.4 0 3 0.0 11 14 78.6 2 1 3 5 5 1 1 2 9
+p308
+aVEric Montross DET 02/27/2000 DET vs. CHI W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p309
+aVMikki Moore DET 02/25/2000 DET vs. GSW W 13 8 4 4 100.0 0 0 - 0 0 - 0 3 3 2 1 2 0 3 17
+p310
+aVMichael Curry DET 02/25/2000 DET vs. GSW W 23 0 0 1 0.0 0 0 - 0 0 - 0 2 2 5 0 1 2 2 23
+p311
+aVTerry Mills DET 02/25/2000 DET vs. GSW W 20 9 3 5 60.0 3 5 60.0 0 0 - 0 5 5 0 0 0 0 3 8
+p312
+aVChristian Laettner DET 02/25/2000 DET vs. GSW W 26 8 4 9 44.4 0 1 0.0 0 0 - 2 4 6 2 1 0 1 3 10
+p313
+aVJerome Williams DET 02/25/2000 DET vs. GSW W 28 13 6 8 75.0 0 0 - 1 1 100.0 3 9 12 1 2 0 2 2 17
+p314
+aVGrant Hill DET 02/25/2000 DET vs. GSW W 34 30 12 17 70.6 0 1 0.0 6 9 66.7 1 4 5 4 0 1 3 1 20
+p315
+aVJohn Crotty DET 02/25/2000 DET vs. GSW W 12 11 4 6 66.7 3 3 100.0 0 0 - 0 1 1 4 0 0 0 1 8
+p316
+aVJud Buechler DET 02/25/2000 DET vs. GSW W 5 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 1 0 1 9
+p317
+aVLindsey Hunter DET 02/25/2000 DET vs. GSW W 36 18 6 16 37.5 2 7 28.6 4 4 100.0 2 3 5 2 2 1 1 0 24
+p318
+aVJerry Stackhouse DET 02/25/2000 DET vs. GSW W 34 29 7 12 58.3 2 3 66.7 13 13 100.0 1 2 3 7 1 1 3 0 12
+p319
+aVEric Montross DET 02/25/2000 DET vs. GSW W 9 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 2 1 12
+p320
+aVLindsey Hunter DET 02/23/2000 DET vs. IND L 39 20 8 13 61.5 4 5 80.0 0 0 - 0 1 1 4 2 0 1 4 -21
+p321
+aVJerome Williams DET 02/23/2000 DET vs. IND L 19 10 5 7 71.4 0 0 - 0 0 - 1 4 5 0 0 1 0 1 -1
+p322
+aVChristian Laettner DET 02/23/2000 DET vs. IND L 29 18 5 7 71.4 0 0 - 8 8 100.0 1 3 4 1 1 0 3 6 4
+p323
+aVGrant Hill DET 02/23/2000 DET vs. IND L 43 24 10 24 41.7 0 1 0.0 4 5 80.0 2 2 4 6 4 0 5 4 -14
+p324
+aVJerry Stackhouse DET 02/23/2000 DET vs. IND L 39 19 9 22 40.9 0 2 0.0 1 1 100.0 4 0 4 5 1 1 4 5 -9
+p325
+aVEric Montross DET 02/23/2000 DET vs. IND L 15 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 1 4 1
+p326
+aVMichael Curry DET 02/23/2000 DET vs. IND L 13 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 2 1 0 1 4 -2
+p327
+aVTerry Mills DET 02/23/2000 DET vs. IND L 31 11 5 11 45.5 1 6 16.7 0 0 - 0 7 7 0 1 0 1 3 -11
+p328
+aVJohn Crotty DET 02/23/2000 DET vs. IND L 11 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 5 0 0 2 3 18
+p329
+aVChristian Laettner DET 02/21/2000 DET vs. MIA W 35 2 1 4 25.0 0 0 - 0 0 - 3 6 9 1 1 1 2 2 11
+p330
+aVMichael Curry DET 02/21/2000 DET vs. MIA W 18 2 0 5 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 2 3
+p331
+aVJerry Stackhouse DET 02/21/2000 DET vs. MIA W 40 22 9 19 47.4 1 3 33.3 3 5 60.0 1 3 4 9 1 3 3 2 9
+p332
+aVEric Montross DET 02/21/2000 DET vs. MIA W 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 3 -6
+p333
+aVJerome Williams DET 02/21/2000 DET vs. MIA W 15 3 1 4 25.0 0 0 - 1 2 50.0 2 7 9 0 0 0 2 1 0
+p334
+aVJohn Crotty DET 02/21/2000 DET vs. MIA W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p335
+aVTerry Mills DET 02/21/2000 DET vs. MIA W 35 18 6 11 54.5 6 9 66.7 0 0 - 0 5 5 0 0 0 0 2 10
+p336
+aVGrant Hill DET 02/21/2000 DET vs. MIA W 40 26 11 19 57.9 0 0 - 4 4 100.0 5 4 9 6 1 0 4 2 5
+p337
+aVLindsey Hunter DET 02/21/2000 DET vs. MIA W 43 22 8 18 44.4 3 7 42.9 3 4 75.0 1 2 3 2 2 1 3 2 8
+p338
+aVJerome Williams DET 02/19/2000 DET @ UTA L 16 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 1 0 0 1 -7
+p339
+aVJerry Stackhouse DET 02/19/2000 DET @ UTA L 39 21 7 20 35.0 0 2 0.0 7 8 87.5 2 1 3 0 0 1 4 0 -1
+p340
+aVGrant Hill DET 02/19/2000 DET @ UTA L 42 15 7 22 31.8 0 2 0.0 1 2 50.0 2 7 9 8 1 1 2 2 -2
+p341
+aVChristian Laettner DET 02/19/2000 DET @ UTA L 32 9 2 2 100.0 0 0 - 5 5 100.0 2 6 8 0 2 0 2 6 3
+p342
+aVTerry Mills DET 02/19/2000 DET @ UTA L 39 12 5 11 45.5 1 3 33.3 1 1 100.0 1 7 8 3 1 0 0 4 3
+p343
+aVJohn Crotty DET 02/19/2000 DET @ UTA L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p344
+aVEric Montross DET 02/19/2000 DET @ UTA L 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 3 -7
+p345
+aVLindsey Hunter DET 02/19/2000 DET @ UTA L 39 24 9 15 60.0 5 7 71.4 1 1 100.0 1 1 2 2 0 0 2 4 5
+p346
+aVMichael Curry DET 02/19/2000 DET @ UTA L 15 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 1 2 -5
+p347
+aVGrant Hill DET 02/17/2000 DET @ DAL L 39 20 7 19 36.8 2 3 66.7 4 5 80.0 0 7 7 6 1 4 4 5 -6
+p348
+aVChristian Laettner DET 02/17/2000 DET @ DAL L 20 8 4 8 50.0 0 0 - 0 0 - 3 3 6 2 1 0 2 4 -2
+p349
+aVJerry Stackhouse DET 02/17/2000 DET @ DAL L 37 22 6 14 42.9 3 6 50.0 7 8 87.5 0 2 2 3 3 1 2 3 3
+p350
+aVTerry Mills DET 02/17/2000 DET @ DAL L 16 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 2 0 1 1 1 -2
+p351
+aVJohn Crotty DET 02/17/2000 DET @ DAL L 13 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 0 1 -4
+p352
+aVJud Buechler DET 02/17/2000 DET @ DAL L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 2 0 0 1 -5
+p353
+aVMichael Curry DET 02/17/2000 DET @ DAL L 26 14 6 8 75.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 2 -12
+p354
+aVLindsey Hunter DET 02/17/2000 DET @ DAL L 41 16 6 19 31.6 2 5 40.0 2 2 100.0 0 3 3 4 2 1 3 1 -12
+p355
+aVJerome Williams DET 02/17/2000 DET @ DAL L 42 11 3 7 42.9 0 0 - 5 6 83.3 5 12 17 2 1 2 0 4 -5
+p356
+aVJerome Williams DET 02/15/2000 DET @ HOU L 31 7 2 5 40.0 0 0 - 3 6 50.0 3 5 8 0 2 0 1 2 -4
+p357
+aVLoy Vaught DET 02/15/2000 DET @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -12
+p358
+aVJerry Stackhouse DET 02/15/2000 DET @ HOU L 40 29 10 26 38.5 0 2 0.0 9 9 100.0 2 1 3 5 1 0 2 1 -6
+p359
+aVJohn Crotty DET 02/15/2000 DET @ HOU L 10 4 1 4 25.0 0 1 0.0 2 4 50.0 0 0 0 2 1 0 0 0 4
+p360
+aVJud Buechler DET 02/15/2000 DET @ HOU L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 3
+p361
+aVGrant Hill DET 02/15/2000 DET @ HOU L 37 23 10 20 50.0 1 2 50.0 2 3 66.7 1 10 11 6 1 1 8 3 1
+p362
+aVMichael Curry DET 02/15/2000 DET @ HOU L 19 4 2 5 40.0 0 0 - 0 0 - 0 0 0 4 0 0 1 2 -9
+p363
+aVChristian Laettner DET 02/15/2000 DET @ HOU L 34 16 6 9 66.7 0 0 - 4 6 66.7 2 6 8 0 0 0 2 3 3
+p364
+aVDon Reid DET 02/15/2000 DET @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 0 7
+p365
+aVLindsey Hunter DET 02/15/2000 DET @ HOU L 38 19 7 12 58.3 4 6 66.7 1 2 50.0 0 3 3 4 0 0 1 2 -9
+p366
+aVTerry Mills DET 02/15/2000 DET @ HOU L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p367
+aVLindsey Hunter DET 02/09/2000 DET vs. TOR W 34 28 10 15 66.7 3 4 75.0 5 6 83.3 0 4 4 3 2 0 4 4 3
+p368
+aVMichael Curry DET 02/09/2000 DET vs. TOR W 25 12 4 5 80.0 0 0 - 4 6 66.7 0 3 3 2 0 0 0 4 6
+p369
+aVChristian Laettner DET 02/09/2000 DET vs. TOR W 32 8 3 11 27.3 0 0 - 2 3 66.7 4 5 9 3 1 0 0 6 -10
+p370
+aVGrant Hill DET 02/09/2000 DET vs. TOR W 51 30 12 25 48.0 0 1 0.0 6 7 85.7 3 10 13 4 0 1 5 2 11
+p371
+aVTerry Mills DET 02/09/2000 DET vs. TOR W 26 3 1 4 25.0 1 3 33.3 0 0 - 0 5 5 1 0 0 2 5 16
+p372
+aVLoy Vaught DET 02/09/2000 DET vs. TOR W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 9
+p373
+aVJerry Stackhouse DET 02/09/2000 DET vs. TOR W 42 13 5 15 33.3 1 4 25.0 2 4 50.0 1 6 7 1 0 0 3 4 2
+p374
+aVJohn Crotty DET 02/09/2000 DET vs. TOR W 19 11 4 8 50.0 2 3 66.7 1 2 50.0 2 3 5 4 0 0 1 3 4
+p375
+aVJerome Williams DET 02/09/2000 DET vs. TOR W 22 8 3 3 100.0 0 0 - 2 3 66.7 1 3 4 1 2 0 3 5 -4
+p376
+aVJud Buechler DET 02/09/2000 DET vs. TOR W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p377
+aVEric Montross DET 02/09/2000 DET vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p378
+aVMichael Curry DET 02/06/2000 DET vs. HOU W 17 8 2 5 40.0 0 0 - 4 4 100.0 0 0 0 2 0 0 0 2 4
+p379
+aVJohn Crotty DET 02/06/2000 DET vs. HOU W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 6
+p380
+aVLindsey Hunter DET 02/06/2000 DET vs. HOU W 40 6 3 5 60.0 0 0 - 0 0 - 0 4 4 5 4 1 1 3 -2
+p381
+aVTerry Mills DET 02/06/2000 DET vs. HOU W 22 3 1 3 33.3 1 2 50.0 0 0 - 1 4 5 0 0 0 0 4 9
+p382
+aVJerome Williams DET 02/06/2000 DET vs. HOU W 27 16 6 9 66.7 0 0 - 4 4 100.0 2 7 9 0 1 0 0 3 -8
+p383
+aVChristian Laettner DET 02/06/2000 DET vs. HOU W 34 17 7 11 63.6 0 0 - 3 5 60.0 3 4 7 3 1 1 4 4 7
+p384
+aVGrant Hill DET 02/06/2000 DET vs. HOU W 40 36 15 24 62.5 0 2 0.0 6 8 75.0 2 5 7 3 0 0 6 2 1
+p385
+aVLoy Vaught DET 02/06/2000 DET vs. HOU W 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -2
+p386
+aVJerry Stackhouse DET 02/06/2000 DET vs. HOU W 40 23 10 21 47.6 1 3 33.3 2 2 100.0 0 1 1 7 0 0 2 1 5
+p387
+aVMichael Curry DET 02/04/2000 DET vs. CLE W 30 12 6 9 66.7 0 0 - 0 0 - 0 4 4 5 0 0 0 2 -3
+p388
+aVChristian Laettner DET 02/04/2000 DET vs. CLE W 43 15 3 11 27.3 0 0 - 9 10 90.0 4 6 10 1 0 1 4 3 11
+p389
+aVTerry Mills DET 02/04/2000 DET vs. CLE W 28 19 6 9 66.7 4 7 57.1 3 4 75.0 2 5 7 1 0 0 2 6 11
+p390
+aVJerome Williams DET 02/04/2000 DET vs. CLE W 22 6 2 2 100.0 0 0 - 2 4 50.0 1 2 3 0 1 1 0 2 -5
+p391
+aVJerry Stackhouse DET 02/04/2000 DET vs. CLE W 37 22 6 18 33.3 0 4 0.0 10 12 83.3 1 7 8 1 0 0 2 1 20
+p392
+aVJohn Crotty DET 02/04/2000 DET vs. CLE W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 1 -21
+p393
+aVLindsey Hunter DET 02/04/2000 DET vs. CLE W 41 26 9 24 37.5 4 12 33.3 4 4 100.0 1 4 5 10 1 1 4 1 25
+p394
+aVEric Montross DET 02/04/2000 DET vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p395
+aVJud Buechler DET 02/04/2000 DET vs. CLE W 25 3 1 5 20.0 1 4 25.0 0 0 - 2 6 8 1 2 2 0 1 9
+p396
+aVChristian Laettner DET 02/02/2000 DET vs. SAC L 23 9 4 11 36.4 1 1 100.0 0 0 - 2 3 5 3 3 0 4 6 0
+p397
+aVLindsey Hunter DET 02/02/2000 DET vs. SAC L 42 15 7 15 46.7 1 7 14.3 0 0 - 2 1 3 3 4 0 1 3 -2
+p398
+aVTerry Mills DET 02/02/2000 DET vs. SAC L 34 24 10 15 66.7 4 7 57.1 0 0 - 0 5 5 1 0 2 0 3 -8
+p399
+aVLoy Vaught DET 02/02/2000 DET vs. SAC L 9 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 0 0 0 2 3
+p400
+aVJud Buechler DET 02/02/2000 DET vs. SAC L 16 0 0 4 0.0 0 0 - 0 0 - 1 2 3 1 0 1 0 1 -6
+p401
+aVJerome Williams DET 02/02/2000 DET vs. SAC L 29 6 1 5 20.0 0 0 - 4 6 66.7 7 9 16 2 3 0 3 2 -3
+p402
+aVJohn Crotty DET 02/02/2000 DET vs. SAC L 16 9 2 5 40.0 0 0 - 5 5 100.0 0 0 0 0 1 0 2 5 7
+p403
+aVJerry Stackhouse DET 02/02/2000 DET vs. SAC L 44 35 12 24 50.0 2 5 40.0 9 13 69.2 1 6 7 5 3 0 9 1 -8
+p404
+aVMichael Curry DET 02/02/2000 DET vs. SAC L 27 8 3 8 37.5 0 0 - 2 2 100.0 1 0 1 2 1 0 2 4 2
+p405
+aVChristian Laettner DET 01/31/2000 DET @ MIA L 37 15 6 9 66.7 0 1 0.0 3 4 75.0 1 5 6 1 1 1 4 1 -27
+p406
+aVDon Reid DET 01/31/2000 DET @ MIA L 6 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 2
+p407
+aVJud Buechler DET 01/31/2000 DET @ MIA L 29 4 2 5 40.0 0 3 0.0 0 0 - 3 2 5 1 2 0 0 0 -15
+p408
+aVTerry Mills DET 01/31/2000 DET @ MIA L 28 8 3 9 33.3 2 5 40.0 0 0 - 0 6 6 0 2 1 0 3 -10
+p409
+aVJerry Stackhouse DET 01/31/2000 DET @ MIA L 34 17 6 17 35.3 0 3 0.0 5 9 55.6 0 1 1 5 2 2 8 5 -25
+p410
+aVMichael Curry DET 01/31/2000 DET @ MIA L 28 10 2 6 33.3 0 0 - 6 6 100.0 0 0 0 1 2 0 2 2 -10
+p411
+aVJohn Crotty DET 01/31/2000 DET @ MIA L 19 12 3 7 42.9 0 1 0.0 6 6 100.0 0 0 0 0 2 0 1 2 -11
+p412
+aVEric Montross DET 01/31/2000 DET @ MIA L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 6
+p413
+aVJerome Williams DET 01/31/2000 DET @ MIA L 21 3 0 2 0.0 0 0 - 3 6 50.0 4 5 9 0 0 0 2 0 -15
+p414
+aVLindsey Hunter DET 01/31/2000 DET @ MIA L 34 11 5 14 35.7 1 4 25.0 0 0 - 2 5 7 4 0 0 0 2 -5
+p415
+aVTerry Mills DET 01/29/2000 DET vs. PHI W 30 3 1 5 20.0 1 2 50.0 0 0 - 0 5 5 4 0 0 0 4 -1
+p416
+aVJerry Stackhouse DET 01/29/2000 DET vs. PHI W 40 26 7 22 31.8 1 3 33.3 11 13 84.6 2 2 4 5 2 0 5 4 0
+p417
+aVGrant Hill DET 01/29/2000 DET vs. PHI W 25 12 3 9 33.3 1 2 50.0 5 7 71.4 0 4 4 0 2 0 2 3 2
+p418
+aVChristian Laettner DET 01/29/2000 DET vs. PHI W 37 15 7 11 63.6 0 0 - 1 2 50.0 1 15 16 1 2 0 4 2 -7
+p419
+aVJerome Williams DET 01/29/2000 DET vs. PHI W 29 6 2 5 40.0 0 0 - 2 2 100.0 3 5 8 1 2 1 1 2 10
+p420
+aVJud Buechler DET 01/29/2000 DET vs. PHI W 9 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 0 0 1 0 0 -3
+p421
+aVLindsey Hunter DET 01/29/2000 DET vs. PHI W 40 12 5 13 38.5 2 5 40.0 0 0 - 1 1 2 4 1 2 1 3 1
+p422
+aVJohn Crotty DET 01/29/2000 DET vs. PHI W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p423
+aVMichael Curry DET 01/29/2000 DET vs. PHI W 22 13 4 8 50.0 0 0 - 5 5 100.0 0 3 3 1 0 0 1 3 6
+p424
+aVJud Buechler DET 01/27/2000 DET @ CHH L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p425
+aVGrant Hill DET 01/27/2000 DET @ CHH L 39 28 9 19 47.4 1 3 33.3 9 9 100.0 0 5 5 4 2 0 2 2 -10
+p426
+aVChristian Laettner DET 01/27/2000 DET @ CHH L 22 10 5 9 55.6 0 0 - 0 0 - 1 4 5 2 0 0 2 3 -12
+p427
+aVMichael Curry DET 01/27/2000 DET @ CHH L 16 4 1 2 50.0 0 0 - 2 4 50.0 0 0 0 1 1 0 2 5 -11
+p428
+aVLindsey Hunter DET 01/27/2000 DET @ CHH L 38 9 3 6 50.0 3 5 60.0 0 0 - 1 3 4 5 1 0 3 4 -5
+p429
+aVLoy Vaught DET 01/27/2000 DET @ CHH L 5 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -1
+p430
+aVJerome Williams DET 01/27/2000 DET @ CHH L 19 0 0 2 0.0 0 0 - 0 0 - 1 6 7 1 0 0 1 2 -7
+p431
+aVTerry Mills DET 01/27/2000 DET @ CHH L 40 11 4 7 57.1 3 5 60.0 0 0 - 0 6 6 3 2 0 2 2 -7
+p432
+aVJohn Crotty DET 01/27/2000 DET @ CHH L 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 2 1 -9
+p433
+aVEric Montross DET 01/27/2000 DET @ CHH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p434
+aVJerry Stackhouse DET 01/27/2000 DET @ CHH L 44 34 11 23 47.8 1 3 33.3 11 14 78.6 3 1 4 6 4 0 7 2 -14
+p435
+aVJerome Williams DET 01/25/2000 DET @ CLE L 29 9 2 5 40.0 0 0 - 5 6 83.3 4 4 8 1 1 1 2 5 -6
+p436
+aVJerry Stackhouse DET 01/25/2000 DET @ CLE L 51 38 11 31 35.5 0 6 0.0 16 21 76.2 4 2 6 7 1 0 8 5 -5
+p437
+aVDon Reid DET 01/25/2000 DET @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p438
+aVJud Buechler DET 01/25/2000 DET @ CLE L 39 7 3 7 42.9 1 4 25.0 0 0 - 2 4 6 1 0 1 0 6 1
+p439
+aVJohn Crotty DET 01/25/2000 DET @ CLE L 7 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 -8
+p440
+aVLindsey Hunter DET 01/25/2000 DET @ CLE L 33 17 7 14 50.0 3 6 50.0 0 2 0.0 0 3 3 4 1 1 2 5 -18
+p441
+aVLoy Vaught DET 01/25/2000 DET @ CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -1
+p442
+aVMichael Curry DET 01/25/2000 DET @ CLE L 35 12 4 7 57.1 0 0 - 4 4 100.0 0 2 2 3 0 0 2 1 -5
+p443
+aVChristian Laettner DET 01/25/2000 DET @ CLE L 30 8 4 7 57.1 0 1 0.0 0 2 0.0 2 7 9 4 1 0 5 5 -15
+p444
+aVTerry Mills DET 01/25/2000 DET @ CLE L 34 14 5 11 45.5 3 5 60.0 1 2 50.0 1 11 12 1 0 1 0 6 18
+p445
+aVJerry Stackhouse DET 01/23/2000 DET vs. DAL L 45 36 14 30 46.7 1 7 14.3 7 9 77.8 0 8 8 5 3 0 3 3 -5
+p446
+aVJohn Crotty DET 01/23/2000 DET vs. DAL L 25 10 3 9 33.3 1 3 33.3 3 4 75.0 3 2 5 3 0 0 1 2 -6
+p447
+aVJud Buechler DET 01/23/2000 DET vs. DAL L 33 12 5 9 55.6 2 5 40.0 0 2 0.0 2 5 7 1 1 1 0 0 -2
+p448
+aVJerome Williams DET 01/23/2000 DET vs. DAL L 26 11 4 8 50.0 0 0 - 3 6 50.0 5 5 10 1 3 1 2 2 -2
+p449
+aVLindsey Hunter DET 01/23/2000 DET vs. DAL L 38 8 3 11 27.3 2 5 40.0 0 0 - 0 2 2 7 1 0 0 4 -7
+p450
+aVChristian Laettner DET 01/23/2000 DET vs. DAL L 25 10 4 11 36.4 0 1 0.0 2 2 100.0 1 2 3 1 1 3 4 3 -7
+p451
+aVMichael Curry DET 01/23/2000 DET vs. DAL L 28 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 1 0 0 2 5 -8
+p452
+aVEric Montross DET 01/23/2000 DET vs. DAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 7
+p453
+aVTerry Mills DET 01/23/2000 DET vs. DAL L 17 0 0 4 0.0 0 1 0.0 0 0 - 2 5 7 2 2 0 3 3 -10
+p454
+aVJerry Stackhouse DET 01/22/2000 DET @ CHI L 43 5 1 8 12.5 0 4 0.0 3 5 60.0 2 5 7 6 2 1 4 4 -9
+p455
+aVJohn Crotty DET 01/22/2000 DET @ CHI L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 2 2 1 0 2 3
+p456
+aVDon Reid DET 01/22/2000 DET @ CHI L 3 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -7
+p457
+aVTerry Mills DET 01/22/2000 DET @ CHI L 29 20 8 13 61.5 2 4 50.0 2 3 66.7 3 6 9 0 0 0 0 4 -1
+p458
+aVJud Buechler DET 01/22/2000 DET @ CHI L 16 3 1 1 100.0 0 0 - 1 3 33.3 2 1 3 3 1 0 0 1 2
+p459
+aVJerome Williams DET 01/22/2000 DET @ CHI L 16 4 1 4 25.0 0 0 - 2 4 50.0 2 3 5 0 1 0 0 2 -4
+p460
+aVGrant Hill DET 01/22/2000 DET @ CHI L 20 8 3 10 30.0 0 0 - 2 4 50.0 2 1 3 4 2 0 2 0 2
+p461
+aVMichael Curry DET 01/22/2000 DET @ CHI L 35 15 6 12 50.0 1 1 100.0 2 2 100.0 0 2 2 4 1 0 1 6 -3
+p462
+aVChristian Laettner DET 01/22/2000 DET @ CHI L 29 19 7 19 36.8 0 0 - 5 6 83.3 1 5 6 1 0 0 3 4 -5
+p463
+aVLindsey Hunter DET 01/22/2000 DET @ CHI L 36 15 6 15 40.0 2 4 50.0 1 2 50.0 0 0 0 5 2 0 2 4 -8
+p464
+aVJerome Williams DET 01/20/2000 DET @ NJN L 16 2 1 3 33.3 0 0 - 0 0 - 1 6 7 0 0 0 0 2 -9
+p465
+aVJerry Stackhouse DET 01/20/2000 DET @ NJN L 40 28 5 11 45.5 1 3 33.3 17 18 94.4 1 1 2 9 0 0 2 0 -6
+p466
+aVGrant Hill DET 01/20/2000 DET @ NJN L 39 23 8 18 44.4 0 1 0.0 7 8 87.5 0 5 5 7 3 2 3 3 -3
+p467
+aVTerry Mills DET 01/20/2000 DET @ NJN L 16 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 4 -1
+p468
+aVMichael Curry DET 01/20/2000 DET @ NJN L 29 14 5 7 71.4 0 0 - 4 4 100.0 0 2 2 0 0 0 0 4 8
+p469
+aVJud Buechler DET 01/20/2000 DET @ NJN L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 6
+p470
+aVLindsey Hunter DET 01/20/2000 DET @ NJN L 42 12 5 10 50.0 2 3 66.7 0 0 - 1 4 5 4 2 0 0 4 -2
+p471
+aVLoy Vaught DET 01/20/2000 DET @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p472
+aVChristian Laettner DET 01/20/2000 DET @ NJN L 44 28 10 18 55.6 0 0 - 8 10 80.0 2 6 8 1 1 0 4 3 -2
+p473
+aVJohn Crotty DET 01/20/2000 DET @ NJN L 6 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 0
+p474
+aVJohn Crotty DET 01/17/2000 DET @ NYK L 17 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 -8
+p475
+aVTerry Mills DET 01/17/2000 DET @ NYK L 34 11 4 10 40.0 3 7 42.9 0 0 - 3 3 6 3 1 0 0 2 -21
+p476
+aVJerry Stackhouse DET 01/17/2000 DET @ NYK L 44 19 5 14 35.7 0 2 0.0 9 11 81.8 1 0 1 9 2 0 5 2 -11
+p477
+aVLoy Vaught DET 01/17/2000 DET @ NYK L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p478
+aVMichael Curry DET 01/17/2000 DET @ NYK L 12 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -2
+p479
+aVLindsey Hunter DET 01/17/2000 DET @ NYK L 31 1 0 4 0.0 0 2 0.0 1 2 50.0 0 2 2 1 2 0 1 2 -6
+p480
+aVGrant Hill DET 01/17/2000 DET @ NYK L 40 16 5 21 23.8 1 3 33.3 5 6 83.3 2 5 7 6 0 3 5 3 -12
+p481
+aVChristian Laettner DET 01/17/2000 DET @ NYK L 29 23 10 16 62.5 0 1 0.0 3 4 75.0 2 7 9 2 0 0 1 5 13
+p482
+aVJerome Williams DET 01/17/2000 DET @ NYK L 28 7 3 5 60.0 0 0 - 1 4 25.0 4 8 12 0 1 0 1 1 -6
+p483
+aVJohn Crotty DET 01/15/2000 DET @ WAS W 17 9 4 8 50.0 1 2 50.0 0 0 - 0 0 0 2 2 0 0 1 6
+p484
+aVDon Reid DET 01/15/2000 DET @ WAS W 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 1 0 5 6
+p485
+aVMichael Curry DET 01/15/2000 DET @ WAS W 16 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 3 3 1
+p486
+aVEric Montross DET 01/15/2000 DET @ WAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p487
+aVGrant Hill DET 01/15/2000 DET @ WAS W 39 39 15 20 75.0 1 3 33.3 8 11 72.7 0 6 6 5 1 1 1 2 4
+p488
+aVLindsey Hunter DET 01/15/2000 DET @ WAS W 33 2 0 9 0.0 0 4 0.0 2 2 100.0 0 1 1 5 3 0 2 3 -5
+p489
+aVJerome Williams DET 01/15/2000 DET @ WAS W 31 6 3 5 60.0 0 0 - 0 2 0.0 5 9 14 2 1 0 4 0 10
+p490
+aVJerry Stackhouse DET 01/15/2000 DET @ WAS W 42 27 8 16 50.0 1 4 25.0 10 11 90.9 0 2 2 4 2 0 2 1 8
+p491
+aVLoy Vaught DET 01/15/2000 DET @ WAS W 7 2 1 2 50.0 0 0 - 0 2 0.0 3 0 3 0 0 0 0 1 5
+p492
+aVChristian Laettner DET 01/15/2000 DET @ WAS W 22 19 6 10 60.0 0 0 - 7 7 100.0 0 1 1 1 2 0 3 5 -1
+p493
+aVTerry Mills DET 01/15/2000 DET @ WAS W 17 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 -8
+p494
+aVJerry Stackhouse DET 01/14/2000 DET vs. WAS W 40 32 9 18 50.0 1 3 33.3 13 16 81.3 2 2 4 5 7 1 4 3 19
+p495
+aVTerry Mills DET 01/14/2000 DET vs. WAS W 33 4 2 4 50.0 0 0 - 0 0 - 0 7 7 1 0 1 2 4 12
+p496
+aVChristian Laettner DET 01/14/2000 DET vs. WAS W 26 4 1 9 11.1 0 0 - 2 2 100.0 0 4 4 1 2 0 1 4 6
+p497
+aVJohn Crotty DET 01/14/2000 DET vs. WAS W 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 1 1
+p498
+aVGrant Hill DET 01/14/2000 DET vs. WAS W 39 30 11 18 61.1 1 1 100.0 7 10 70.0 0 5 5 2 3 2 1 2 7
+p499
+aVLindsey Hunter DET 01/14/2000 DET vs. WAS W 38 19 7 10 70.0 3 4 75.0 2 2 100.0 0 0 0 6 0 1 2 2 6
+p500
+aVMichael Curry DET 01/14/2000 DET vs. WAS W 18 10 5 8 62.5 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -11
+p501
+aVJerome Williams DET 01/14/2000 DET vs. WAS W 30 6 3 7 42.9 0 0 - 0 2 0.0 5 8 13 3 3 0 2 1 -4
+p502
+aVLoy Vaught DET 01/14/2000 DET vs. WAS W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p503
+aVTerry Mills DET 01/12/2000 DET vs. NYK W 23 7 3 7 42.9 1 2 50.0 0 0 - 0 7 7 1 0 0 0 3 -11
+p504
+aVLoy Vaught DET 01/12/2000 DET vs. NYK W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 5
+p505
+aVJerome Williams DET 01/12/2000 DET vs. NYK W 29 9 4 7 57.1 0 0 - 1 1 100.0 3 5 8 0 1 0 2 0 7
+p506
+aVChristian Laettner DET 01/12/2000 DET vs. NYK W 34 5 1 4 25.0 0 0 - 3 3 100.0 4 5 9 3 1 2 2 6 8
+p507
+aVMichael Curry DET 01/12/2000 DET vs. NYK W 18 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 2 0 1 2 6
+p508
+aVJohn Crotty DET 01/12/2000 DET vs. NYK W 10 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 2 4 -5
+p509
+aVGrant Hill DET 01/12/2000 DET vs. NYK W 42 29 10 16 62.5 0 1 0.0 9 9 100.0 0 4 4 7 3 0 3 2 3
+p510
+aVJerry Stackhouse DET 01/12/2000 DET vs. NYK W 37 29 8 15 53.3 0 2 0.0 13 16 81.3 0 1 1 3 0 0 5 2 4
+p511
+aVLindsey Hunter DET 01/12/2000 DET vs. NYK W 38 29 9 18 50.0 7 10 70.0 4 6 66.7 1 3 4 2 1 1 1 2 13
+p512
+aVGrant Hill DET 01/08/2000 DET vs. MIN L 42 40 12 24 50.0 2 4 50.0 14 17 82.4 2 4 6 9 1 2 6 2 -6
+p513
+aVLoy Vaught DET 01/08/2000 DET vs. MIN L 11 8 4 4 100.0 0 0 - 0 0 - 0 3 3 0 0 2 0 5 16
+p514
+aVTerry Mills DET 01/08/2000 DET vs. MIN L 17 5 2 6 33.3 1 1 100.0 0 0 - 1 2 3 0 0 0 0 0 -6
+p515
+aVJerome Williams DET 01/08/2000 DET vs. MIN L 33 6 3 5 60.0 0 0 - 0 0 - 2 10 12 0 3 0 1 5 1
+p516
+aVMichael Curry DET 01/08/2000 DET vs. MIN L 24 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 4 11
+p517
+aVLindsey Hunter DET 01/08/2000 DET vs. MIN L 29 8 3 7 42.9 2 5 40.0 0 2 0.0 0 1 1 2 1 0 3 4 -10
+p518
+aVJerry Stackhouse DET 01/08/2000 DET vs. MIN L 36 16 4 12 33.3 0 1 0.0 8 14 57.1 1 3 4 1 2 1 2 2 -14
+p519
+aVJohn Crotty DET 01/08/2000 DET vs. MIN L 17 9 2 4 50.0 2 3 66.7 3 4 75.0 0 1 1 2 0 0 0 1 9
+p520
+aVChristian Laettner DET 01/08/2000 DET vs. MIN L 32 11 4 12 33.3 0 0 - 3 6 50.0 2 6 8 1 2 0 3 4 -26
+p521
+aVChristian Laettner DET 01/06/2000 DET vs. MIL W 33 20 6 10 60.0 0 0 - 8 10 80.0 1 8 9 2 0 1 2 5 5
+p522
+aVMichael Curry DET 01/06/2000 DET vs. MIL W 17 6 2 5 40.0 0 0 - 2 4 50.0 0 2 2 0 0 0 0 3 -4
+p523
+aVTerry Mills DET 01/06/2000 DET vs. MIL W 20 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 0 1 0 0 -7
+p524
+aVLindsey Hunter DET 01/06/2000 DET vs. MIL W 41 11 3 8 37.5 3 7 42.9 2 4 50.0 0 3 3 7 4 0 1 4 11
+p525
+aVGrant Hill DET 01/06/2000 DET vs. MIL W 38 31 13 21 61.9 2 4 50.0 3 4 75.0 1 4 5 7 1 1 5 4 17
+p526
+aVJerry Stackhouse DET 01/06/2000 DET vs. MIL W 38 18 8 19 42.1 1 6 16.7 1 3 33.3 1 2 3 5 2 1 6 2 2
+p527
+aVJerome Williams DET 01/06/2000 DET vs. MIL W 30 11 3 6 50.0 0 0 - 5 6 83.3 9 8 17 0 0 1 0 2 11
+p528
+aVJud Buechler DET 01/06/2000 DET vs. MIL W 16 4 2 6 33.3 0 3 0.0 0 0 - 4 1 5 0 1 2 0 2 0
+p529
+aVJohn Crotty DET 01/06/2000 DET vs. MIL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -5
+p530
+aVJerome Williams DET 01/05/2000 DET @ ATL W 16 5 2 2 100.0 0 0 - 1 1 100.0 4 2 6 1 0 0 0 4 6
+p531
+aVJerry Stackhouse DET 01/05/2000 DET @ ATL W 37 28 11 17 64.7 0 1 0.0 6 7 85.7 2 3 5 7 2 0 3 2 2
+p532
+aVMichael Curry DET 01/05/2000 DET @ ATL W 16 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 2 2
+p533
+aVEric Montross DET 01/05/2000 DET @ ATL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -2
+p534
+aVJohn Crotty DET 01/05/2000 DET @ ATL W 22 9 3 6 50.0 2 2 100.0 1 2 50.0 0 3 3 4 0 0 2 3 7
+p535
+aVGrant Hill DET 01/05/2000 DET @ ATL W 43 42 14 23 60.9 1 1 100.0 13 15 86.7 1 2 3 6 2 1 1 1 20
+p536
+aVTerry Mills DET 01/05/2000 DET @ ATL W 34 8 4 5 80.0 0 0 - 0 0 - 0 6 6 0 0 1 0 3 9
+p537
+aVChristian Laettner DET 01/05/2000 DET @ ATL W 40 23 9 19 47.4 0 2 0.0 5 6 83.3 6 6 12 3 3 0 1 6 11
+p538
+aVLindsey Hunter DET 01/05/2000 DET @ ATL W 26 0 0 4 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 5
+p539
+aVJud Buechler DET 01/03/2000 DET @ ORL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p540
+aVJerome Williams DET 01/03/2000 DET @ ORL W 22 6 3 7 42.9 0 0 - 0 0 - 4 6 10 0 1 0 3 5 0
+p541
+aVChristian Laettner DET 01/03/2000 DET @ ORL W 39 5 2 12 16.7 0 0 - 1 2 50.0 10 4 14 4 2 1 2 5 5
+p542
+aVJerry Stackhouse DET 01/03/2000 DET @ ORL W 36 19 8 21 38.1 0 6 0.0 3 7 42.9 3 3 6 4 1 2 2 1 9
+p543
+aVMichael Curry DET 01/03/2000 DET @ ORL W 24 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 4 3
+p544
+aVJohn Crotty DET 01/03/2000 DET @ ORL W 15 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 4 0 0 2 3 6
+p545
+aVGrant Hill DET 01/03/2000 DET @ ORL W 44 42 17 30 56.7 3 5 60.0 5 7 71.4 3 4 7 8 2 1 3 2 14
+p546
+aVTerry Mills DET 01/03/2000 DET @ ORL W 19 7 3 7 42.9 0 1 0.0 1 2 50.0 0 6 6 1 0 0 0 2 12
+p547
+aVLindsey Hunter DET 01/03/2000 DET @ ORL W 34 25 7 12 58.3 5 8 62.5 6 6 100.0 0 3 3 5 7 1 2 5 9
+p548
+aVJerry Stackhouse DET 12/30/1999 DET vs. ATL W 42 33 14 22 63.6 1 4 25.0 4 8 50.0 0 4 4 3 0 0 2 3 10
+p549
+aVJud Buechler DET 12/30/1999 DET vs. ATL W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 17
+p550
+aVJohn Crotty DET 12/30/1999 DET vs. ATL W 12 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 2 1 0 0 4
+p551
+aVGrant Hill DET 12/30/1999 DET vs. ATL W 43 25 6 25 24.0 1 1 100.0 12 12 100.0 3 6 9 12 2 0 5 2 0
+p552
+aVLindsey Hunter DET 12/30/1999 DET vs. ATL W 39 2 1 3 33.3 0 0 - 0 0 - 0 3 3 7 1 0 0 0 -3
+p553
+aVEric Montross DET 12/30/1999 DET vs. ATL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p554
+aVChristian Laettner DET 12/30/1999 DET vs. ATL W 28 16 8 15 53.3 0 0 - 0 0 - 4 5 9 2 1 1 1 4 -1
+p555
+aVJerome Williams DET 12/30/1999 DET vs. ATL W 27 3 1 1 100.0 0 0 - 1 4 25.0 4 5 9 0 2 0 0 3 -17
+p556
+aVTerry Mills DET 12/30/1999 DET vs. ATL W 31 17 6 9 66.7 5 7 71.4 0 0 - 0 3 3 2 0 2 0 4 11
+p557
+aVMichael Curry DET 12/30/1999 DET vs. ATL W 21 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 2 -8
+p558
+aVJud Buechler DET 12/29/1999 DET @ CHI W 17 10 4 6 66.7 2 3 66.7 0 0 - 0 4 4 1 1 0 0 2 9
+p559
+aVChristian Laettner DET 12/29/1999 DET @ CHI W 32 9 3 7 42.9 0 0 - 3 4 75.0 1 10 11 3 1 1 4 4 6
+p560
+aVGrant Hill DET 12/29/1999 DET @ CHI W 32 20 6 17 35.3 0 1 0.0 8 9 88.9 0 6 6 5 4 0 5 3 10
+p561
+aVLindsey Hunter DET 12/29/1999 DET @ CHI W 26 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 2 2 0 2 2 5
+p562
+aVTerry Mills DET 12/29/1999 DET @ CHI W 14 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 -1
+p563
+aVLoy Vaught DET 12/29/1999 DET @ CHI W 13 2 1 7 14.3 0 0 - 0 0 - 2 0 2 1 1 1 0 2 9
+p564
+aVJerome Williams DET 12/29/1999 DET @ CHI W 36 9 4 12 33.3 0 0 - 1 2 50.0 10 2 12 4 1 1 3 5 14
+p565
+aVEric Montross DET 12/29/1999 DET @ CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p566
+aVJohn Crotty DET 12/29/1999 DET @ CHI W 18 7 2 5 40.0 0 0 - 3 3 100.0 1 0 1 2 0 0 0 0 2
+p567
+aVJerry Stackhouse DET 12/29/1999 DET @ CHI W 32 23 6 14 42.9 2 4 50.0 9 12 75.0 2 2 4 3 0 0 1 2 10
+p568
+aVMichael Curry DET 12/29/1999 DET @ CHI W 18 7 3 7 42.9 0 0 - 1 2 50.0 1 0 1 0 1 0 4 5 6
+p569
+aVGrant Hill DET 12/26/1999 DET vs. CHH W 38 30 7 12 58.3 1 1 100.0 15 16 93.8 0 6 6 5 1 0 4 3 16
+p570
+aVMichael Curry DET 12/26/1999 DET vs. CHH W 19 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 1 0 3 13
+p571
+aVChristian Laettner DET 12/26/1999 DET vs. CHH W 25 13 6 9 66.7 0 0 - 1 1 100.0 2 8 10 0 2 0 1 5 -1
+p572
+aVEric Montross DET 12/26/1999 DET vs. CHH W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 2
+p573
+aVTerry Mills DET 12/26/1999 DET vs. CHH W 19 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 1
+p574
+aVJerome Williams DET 12/26/1999 DET vs. CHH W 39 7 3 6 50.0 0 0 - 1 4 25.0 6 15 21 3 1 0 2 3 26
+p575
+aVJohn Crotty DET 12/26/1999 DET vs. CHH W 16 7 2 3 66.7 0 0 - 3 3 100.0 0 1 1 2 0 0 2 2 12
+p576
+aVJerry Stackhouse DET 12/26/1999 DET vs. CHH W 40 22 8 16 50.0 0 2 0.0 6 8 75.0 1 6 7 1 0 0 6 1 9
+p577
+aVLindsey Hunter DET 12/26/1999 DET vs. CHH W 32 19 7 13 53.8 2 3 66.7 3 4 75.0 0 1 1 7 4 1 3 2 6
+p578
+aVLoy Vaught DET 12/26/1999 DET vs. CHH W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 3 6
+p579
+aVGrant Hill DET 12/21/1999 DET vs. WAS L 38 25 9 22 40.9 0 1 0.0 7 9 77.8 1 7 8 2 1 1 1 1 -12
+p580
+aVDon Reid DET 12/21/1999 DET vs. WAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p581
+aVLindsey Hunter DET 12/21/1999 DET vs. WAS L 41 10 3 11 27.3 0 6 0.0 4 5 80.0 1 3 4 3 1 0 2 4 -7
+p582
+aVJohn Crotty DET 12/21/1999 DET vs. WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p583
+aVTerry Mills DET 12/21/1999 DET vs. WAS L 26 5 2 9 22.2 1 4 25.0 0 0 - 2 5 7 4 2 0 1 2 1
+p584
+aVJerome Williams DET 12/21/1999 DET vs. WAS L 34 3 1 3 33.3 0 0 - 1 4 25.0 6 5 11 1 0 1 3 2 -11
+p585
+aVMichael Curry DET 12/21/1999 DET vs. WAS L 21 8 3 5 60.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 1 -16
+p586
+aVJerry Stackhouse DET 12/21/1999 DET vs. WAS L 38 20 6 14 42.9 0 1 0.0 8 9 88.9 0 2 2 3 0 1 6 4 -7
+p587
+aVChristian Laettner DET 12/21/1999 DET vs. WAS L 31 12 3 10 30.0 0 0 - 6 8 75.0 1 5 6 0 0 0 3 3 -16
+p588
+aVChristian Laettner DET 12/20/1999 DET @ PHI L 43 13 3 8 37.5 0 1 0.0 7 8 87.5 1 6 7 5 2 1 1 3 16
+p589
+aVTerry Mills DET 12/20/1999 DET @ PHI L 28 14 6 12 50.0 2 7 28.6 0 0 - 0 8 8 4 0 1 0 4 9
+p590
+aVLindsey Hunter DET 12/20/1999 DET @ PHI L 45 10 3 10 30.0 2 5 40.0 2 2 100.0 0 3 3 2 3 1 2 4 5
+p591
+aVMichael Curry DET 12/20/1999 DET @ PHI L 16 12 5 7 71.4 0 0 - 2 2 100.0 0 0 0 0 0 0 2 1 -16
+p592
+aVLoy Vaught DET 12/20/1999 DET @ PHI L 8 4 0 1 0.0 0 0 - 4 6 66.7 0 1 1 0 1 0 1 1 -12
+p593
+aVGrant Hill DET 12/20/1999 DET @ PHI L 46 32 13 22 59.1 1 4 25.0 5 6 83.3 0 6 6 6 3 1 3 2 8
+p594
+aVJohn Crotty DET 12/20/1999 DET @ PHI L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 1 1 2 -4
+p595
+aVJerome Williams DET 12/20/1999 DET @ PHI L 26 11 4 4 100.0 0 0 - 3 4 75.0 1 6 7 0 0 0 2 4 -9
+p596
+aVJerry Stackhouse DET 12/20/1999 DET @ PHI L 48 23 6 13 46.2 1 3 33.3 10 13 76.9 3 3 6 6 0 0 4 3 -2
+p597
+aVLoy Vaught DET 12/18/1999 DET vs. PHI W 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 12
+p598
+aVJerry Stackhouse DET 12/18/1999 DET vs. PHI W 41 26 7 14 50.0 1 4 25.0 11 12 91.7 1 1 2 4 1 2 6 3 -1
+p599
+aVLindsey Hunter DET 12/18/1999 DET vs. PHI W 42 14 6 14 42.9 2 6 33.3 0 0 - 2 4 6 4 3 1 4 3 17
+p600
+aVJerome Williams DET 12/18/1999 DET vs. PHI W 29 18 5 6 83.3 0 0 - 8 11 72.7 7 9 16 1 0 1 3 1 8
+p601
+aVJohn Crotty DET 12/18/1999 DET vs. PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 0
+p602
+aVMichael Curry DET 12/18/1999 DET vs. PHI W 16 3 1 5 20.0 0 0 - 1 1 100.0 1 2 3 1 0 0 0 0 16
+p603
+aVTerry Mills DET 12/18/1999 DET vs. PHI W 22 9 4 8 50.0 1 2 50.0 0 0 - 0 5 5 0 0 0 0 3 2
+p604
+aVChristian Laettner DET 12/18/1999 DET vs. PHI W 36 12 4 14 28.6 0 1 0.0 4 6 66.7 2 5 7 2 0 1 2 4 2
+p605
+aVGrant Hill DET 12/18/1999 DET vs. PHI W 41 20 7 16 43.8 1 1 100.0 5 8 62.5 0 6 6 7 1 0 2 0 9
+p606
+aVJerry Stackhouse DET 12/16/1999 DET @ GSW W 46 23 5 16 31.3 0 3 0.0 13 15 86.7 2 5 7 11 1 0 5 2 8
+p607
+aVLoy Vaught DET 12/16/1999 DET @ GSW W 10 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 0 1 0 0 1 -2
+p608
+aVMichael Curry DET 12/16/1999 DET @ GSW W 17 12 4 5 80.0 0 0 - 4 4 100.0 0 1 1 1 0 0 1 3 4
+p609
+aVJerome Williams DET 12/16/1999 DET @ GSW W 24 12 5 6 83.3 0 0 - 2 5 40.0 3 5 8 1 1 0 2 4 13
+p610
+aVTerry Mills DET 12/16/1999 DET @ GSW W 19 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 0 1 1 2 9
+p611
+aVChristian Laettner DET 12/16/1999 DET @ GSW W 27 19 6 11 54.5 0 1 0.0 7 7 100.0 1 3 4 1 1 1 1 3 -3
+p612
+aVGrant Hill DET 12/16/1999 DET @ GSW W 39 25 11 20 55.0 0 0 - 3 4 75.0 2 6 8 1 4 1 3 2 0
+p613
+aVDon Reid DET 12/16/1999 DET @ GSW W 16 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 6 -1
+p614
+aVLindsey Hunter DET 12/16/1999 DET @ GSW W 39 10 2 8 25.0 2 6 33.3 4 4 100.0 0 4 4 6 3 0 2 2 17
+p615
+aVJohn Crotty DET 12/16/1999 DET @ GSW W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p616
+aVJerome Williams DET 12/14/1999 DET @ PHX L 24 12 3 6 50.0 0 0 - 6 7 85.7 6 4 10 1 2 0 1 3 7
+p617
+aVTerry Mills DET 12/14/1999 DET @ PHX L 23 2 1 6 16.7 0 3 0.0 0 0 - 0 5 5 1 1 1 0 1 -9
+p618
+aVGrant Hill DET 12/14/1999 DET @ PHX L 27 12 6 12 50.0 0 0 - 0 0 - 0 3 3 1 1 0 3 1 1
+p619
+aVLindsey Hunter DET 12/14/1999 DET @ PHX L 40 15 6 13 46.2 3 5 60.0 0 0 - 0 0 0 6 3 0 2 2 -6
+p620
+aVChristian Laettner DET 12/14/1999 DET @ PHX L 32 26 10 14 71.4 1 1 100.0 5 5 100.0 1 4 5 2 3 0 6 5 -19
+p621
+aVLoy Vaught DET 12/14/1999 DET @ PHX L 18 0 0 3 0.0 0 0 - 0 0 - 0 7 7 2 0 0 1 3 1
+p622
+aVJud Buechler DET 12/14/1999 DET @ PHX L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 1 -9
+p623
+aVMichael Curry DET 12/14/1999 DET @ PHX L 23 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -8
+p624
+aVJerry Stackhouse DET 12/14/1999 DET @ PHX L 46 35 9 24 37.5 3 6 50.0 14 16 87.5 2 2 4 7 0 0 3 3 -8
+p625
+aVChristian Laettner DET 12/12/1999 DET @ LAL L 33 12 5 11 45.5 0 0 - 2 2 100.0 1 6 7 3 0 2 2 2 1
+p626
+aVJerry Stackhouse DET 12/12/1999 DET @ LAL L 38 24 7 16 43.8 3 5 60.0 7 10 70.0 3 1 4 2 1 0 3 1 -24
+p627
+aVJerome Williams DET 12/12/1999 DET @ LAL L 19 1 0 2 0.0 0 0 - 1 2 50.0 2 3 5 0 1 0 1 0 -9
+p628
+aVMichael Curry DET 12/12/1999 DET @ LAL L 15 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 3 10
+p629
+aVJud Buechler DET 12/12/1999 DET @ LAL L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 3 7
+p630
+aVEric Montross DET 12/12/1999 DET @ LAL L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -7
+p631
+aVGrant Hill DET 12/12/1999 DET @ LAL L 38 25 7 19 36.8 0 0 - 11 15 73.3 2 10 12 7 1 1 4 3 -14
+p632
+aVLoy Vaught DET 12/12/1999 DET @ LAL L 4 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 9
+p633
+aVJohn Crotty DET 12/12/1999 DET @ LAL L 8 7 2 4 50.0 1 1 100.0 2 2 100.0 0 0 0 1 1 0 0 0 2
+p634
+aVTerry Mills DET 12/12/1999 DET @ LAL L 24 12 5 9 55.6 2 5 40.0 0 0 - 1 6 7 1 0 1 0 6 -8
+p635
+aVDon Reid DET 12/12/1999 DET @ LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -2
+p636
+aVLindsey Hunter DET 12/12/1999 DET @ LAL L 32 5 1 9 11.1 0 5 0.0 3 4 75.0 0 0 0 4 0 0 0 0 -5
+p637
+aVDon Reid DET 12/10/1999 DET vs. LAC W 2 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p638
+aVJud Buechler DET 12/10/1999 DET vs. LAC W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 7
+p639
+aVLindsey Hunter DET 12/10/1999 DET vs. LAC W 38 13 5 11 45.5 3 6 50.0 0 1 0.0 0 2 2 8 1 0 0 2 19
+p640
+aVEric Montross DET 12/10/1999 DET vs. LAC W 12 0 0 0 - 0 0 - 0 0 - 2 3 5 0 0 0 1 3 3
+p641
+aVLoy Vaught DET 12/10/1999 DET vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p642
+aVGrant Hill DET 12/10/1999 DET vs. LAC W 39 27 10 23 43.5 1 2 50.0 6 7 85.7 4 8 12 7 0 0 4 3 12
+p643
+aVJerome Williams DET 12/10/1999 DET vs. LAC W 26 17 7 9 77.8 0 0 - 3 4 75.0 4 8 12 1 4 0 1 2 8
+p644
+aVJohn Crotty DET 12/10/1999 DET vs. LAC W 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 5
+p645
+aVJerry Stackhouse DET 12/10/1999 DET vs. LAC W 35 23 7 18 38.9 1 4 25.0 8 8 100.0 3 2 5 5 2 0 5 1 23
+p646
+aVMichael Curry DET 12/10/1999 DET vs. LAC W 15 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 1 0 9
+p647
+aVChristian Laettner DET 12/10/1999 DET vs. LAC W 35 8 4 10 40.0 0 1 0.0 0 0 - 2 9 11 3 1 0 5 4 12
+p648
+aVTerry Mills DET 12/10/1999 DET vs. LAC W 18 9 4 4 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 2 3 8
+p649
+aVJerome Williams DET 12/07/1999 DET @ MIL W 30 10 4 5 80.0 0 0 - 2 2 100.0 2 8 10 0 0 0 0 3 14
+p650
+aVJud Buechler DET 12/07/1999 DET @ MIL W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p651
+aVJohn Crotty DET 12/07/1999 DET @ MIL W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 10
+p652
+aVChristian Laettner DET 12/07/1999 DET @ MIL W 27 12 4 8 50.0 0 0 - 4 4 100.0 0 4 4 2 0 0 3 4 -7
+p653
+aVGrant Hill DET 12/07/1999 DET @ MIL W 43 31 10 21 47.6 2 3 66.7 9 10 90.0 0 0 0 12 1 0 4 3 2
+p654
+aVMichael Curry DET 12/07/1999 DET @ MIL W 21 7 2 4 50.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 2 5
+p655
+aVLindsey Hunter DET 12/07/1999 DET @ MIL W 35 16 5 10 50.0 3 6 50.0 3 6 50.0 0 2 2 6 4 0 2 1 -3
+p656
+aVTerry Mills DET 12/07/1999 DET @ MIL W 29 12 5 8 62.5 2 4 50.0 0 0 - 0 1 1 3 2 0 1 3 10
+p657
+aVJerry Stackhouse DET 12/07/1999 DET @ MIL W 38 26 8 15 53.3 2 3 66.7 8 8 100.0 1 3 4 4 0 2 1 1 -6
+p658
+aVJerome Williams DET 12/04/1999 DET @ ATL L 22 4 2 4 50.0 0 0 - 0 0 - 2 6 8 3 1 0 1 4 14
+p659
+aVLindsey Hunter DET 12/04/1999 DET @ ATL L 35 22 8 15 53.3 4 6 66.7 2 2 100.0 0 2 2 3 0 0 0 4 -6
+p660
+aVJerry Stackhouse DET 12/04/1999 DET @ ATL L 41 20 5 16 31.3 1 3 33.3 9 9 100.0 2 3 5 3 0 0 1 4 -9
+p661
+aVChristian Laettner DET 12/04/1999 DET @ ATL L 36 19 6 12 50.0 1 2 50.0 6 6 100.0 1 3 4 4 1 0 1 5 1
+p662
+aVJohn Crotty DET 12/04/1999 DET @ ATL L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 2 4
+p663
+aVGrant Hill DET 12/04/1999 DET @ ATL L 39 33 16 27 59.3 0 2 0.0 1 1 100.0 2 8 10 6 1 1 2 3 -4
+p664
+aVTerry Mills DET 12/04/1999 DET @ ATL L 33 4 1 5 20.0 0 4 0.0 2 2 100.0 1 3 4 2 0 0 1 4 -15
+p665
+aVMichael Curry DET 12/04/1999 DET @ ATL L 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 11
+p666
+aVDon Reid DET 12/04/1999 DET @ ATL L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p667
+aVDon Reid DET 12/03/1999 DET vs. SAS W 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 13
+p668
+aVEric Montross DET 12/03/1999 DET vs. SAS W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p669
+aVJerry Stackhouse DET 12/03/1999 DET vs. SAS W 37 21 8 17 47.1 0 1 0.0 5 6 83.3 1 1 2 2 1 0 7 3 13
+p670
+aVJerome Williams DET 12/03/1999 DET vs. SAS W 26 8 3 3 100.0 0 0 - 2 4 50.0 4 4 8 0 2 0 2 2 19
+p671
+aVTerry Mills DET 12/03/1999 DET vs. SAS W 33 3 1 6 16.7 1 5 20.0 0 0 - 1 8 9 2 1 1 0 5 9
+p672
+aVJohn Crotty DET 12/03/1999 DET vs. SAS W 13 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 2 0 0 1 12
+p673
+aVJud Buechler DET 12/03/1999 DET vs. SAS W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 2
+p674
+aVLoy Vaught DET 12/03/1999 DET vs. SAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 0
+p675
+aVGrant Hill DET 12/03/1999 DET vs. SAS W 33 28 10 20 50.0 0 0 - 8 10 80.0 0 6 6 6 2 0 0 3 17
+p676
+aVMichael Curry DET 12/03/1999 DET vs. SAS W 23 7 1 6 16.7 0 0 - 5 8 62.5 1 4 5 1 0 0 0 2 9
+p677
+aVChristian Laettner DET 12/03/1999 DET vs. SAS W 19 7 3 7 42.9 0 0 - 1 1 100.0 2 2 4 2 0 0 1 5 3
+p678
+aVLindsey Hunter DET 12/03/1999 DET vs. SAS W 34 20 8 14 57.1 2 4 50.0 2 2 100.0 1 3 4 4 1 0 3 2 13
+p679
+aVJud Buechler DET 12/01/1999 DET @ DEN L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 4
+p680
+aVDon Reid DET 12/01/1999 DET @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p681
+aVLindsey Hunter DET 12/01/1999 DET @ DEN L 38 15 5 9 55.6 3 5 60.0 2 2 100.0 1 1 2 3 1 0 3 5 -1
+p682
+aVGrant Hill DET 12/01/1999 DET @ DEN L 40 39 13 21 61.9 0 0 - 13 17 76.5 2 5 7 3 1 1 2 3 0
+p683
+aVTerry Mills DET 12/01/1999 DET @ DEN L 28 5 2 4 50.0 1 2 50.0 0 0 - 0 6 6 1 0 0 1 3 -1
+p684
+aVChristian Laettner DET 12/01/1999 DET @ DEN L 39 19 7 14 50.0 0 0 - 5 9 55.6 1 4 5 3 0 4 4 5 -4
+p685
+aVJohn Crotty DET 12/01/1999 DET @ DEN L 10 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 2 -3
+p686
+aVJerry Stackhouse DET 12/01/1999 DET @ DEN L 37 14 3 10 30.0 0 0 - 8 9 88.9 1 3 4 4 3 0 7 5 -2
+p687
+aVJerome Williams DET 12/01/1999 DET @ DEN L 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -2
+p688
+aVMichael Curry DET 12/01/1999 DET @ DEN L 25 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -9
+p689
+aVJohn Crotty DET 11/30/1999 DET @ SAS L 15 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 5 2 1 1 3 -1
+p690
+aVGrant Hill DET 11/30/1999 DET @ SAS L 30 30 12 18 66.7 0 1 0.0 6 7 85.7 0 6 6 4 0 0 3 1 -22
+p691
+aVLoy Vaught DET 11/30/1999 DET @ SAS L 4 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 1 -6
+p692
+aVJerry Stackhouse DET 11/30/1999 DET @ SAS L 24 5 2 10 20.0 0 1 0.0 1 2 50.0 2 2 4 1 1 0 2 1 -20
+p693
+aVEric Montross DET 11/30/1999 DET @ SAS L 10 4 2 2 100.0 0 0 - 0 0 - 0 5 5 1 1 1 0 3 7
+p694
+aVJud Buechler DET 11/30/1999 DET @ SAS L 16 8 4 7 57.1 0 1 0.0 0 0 - 2 1 3 2 1 0 2 1 3
+p695
+aVChristian Laettner DET 11/30/1999 DET @ SAS L 19 8 2 5 40.0 0 0 - 4 4 100.0 1 0 1 2 0 0 2 4 -13
+p696
+aVLindsey Hunter DET 11/30/1999 DET @ SAS L 33 5 2 8 25.0 1 3 33.3 0 0 - 1 2 3 5 0 0 3 1 -18
+p697
+aVTerry Mills DET 11/30/1999 DET @ SAS L 25 5 2 8 25.0 1 4 25.0 0 0 - 1 5 6 0 2 1 1 4 -18
+p698
+aVDon Reid DET 11/30/1999 DET @ SAS L 23 9 4 6 66.7 0 0 - 1 2 50.0 1 6 7 0 1 1 4 1 -1
+p699
+aVMichael Curry DET 11/30/1999 DET @ SAS L 26 9 3 7 42.9 0 0 - 3 5 60.0 0 0 0 1 0 0 0 0 1
+p700
+aVJerome Williams DET 11/30/1999 DET @ SAS L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 2 0 1 1 -7
+p701
+aVLindsey Hunter DET 11/28/1999 DET vs. ORL L 34 9 3 10 30.0 0 6 0.0 3 4 75.0 0 2 2 4 0 0 0 4 -4
+p702
+aVJohn Crotty DET 11/28/1999 DET vs. ORL L 15 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 4 1 0 1 3 -4
+p703
+aVJerome Williams DET 11/28/1999 DET vs. ORL L 31 9 3 6 50.0 0 0 - 3 4 75.0 1 12 13 1 1 1 0 3 8
+p704
+aVDon Reid DET 11/28/1999 DET vs. ORL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 0
+p705
+aVChristian Laettner DET 11/28/1999 DET vs. ORL L 26 17 7 12 58.3 1 2 50.0 2 2 100.0 2 5 7 1 1 0 4 4 -18
+p706
+aVEric Montross DET 11/28/1999 DET vs. ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p707
+aVLoy Vaught DET 11/28/1999 DET vs. ORL L 11 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p708
+aVJerry Stackhouse DET 11/28/1999 DET vs. ORL L 39 21 7 18 38.9 2 4 50.0 5 6 83.3 2 2 4 10 3 0 7 3 -2
+p709
+aVMichael Curry DET 11/28/1999 DET vs. ORL L 18 4 1 4 25.0 0 0 - 2 2 100.0 3 3 6 0 0 0 0 2 -2
+p710
+aVTerry Mills DET 11/28/1999 DET vs. ORL L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 3 -18
+p711
+aVJud Buechler DET 11/28/1999 DET vs. ORL L 9 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 1 0 1 3 3
+p712
+aVGrant Hill DET 11/28/1999 DET vs. ORL L 40 24 9 19 47.4 0 1 0.0 6 9 66.7 3 8 11 6 2 0 4 1 -3
+p713
+aVJohn Crotty DET 11/26/1999 DET vs. ATL W 8 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 4
+p714
+aVJerome Williams DET 11/26/1999 DET vs. ATL W 23 10 4 6 66.7 0 0 - 2 2 100.0 5 8 13 2 1 0 0 1 4
+p715
+aVLoy Vaught DET 11/26/1999 DET vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p716
+aVLindsey Hunter DET 11/26/1999 DET vs. ATL W 36 20 7 12 58.3 2 5 40.0 4 5 80.0 0 4 4 1 2 1 1 4 -4
+p717
+aVJud Buechler DET 11/26/1999 DET vs. ATL W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 1 0 0 3
+p718
+aVJerry Stackhouse DET 11/26/1999 DET vs. ATL W 42 12 4 15 26.7 0 3 0.0 4 4 100.0 0 5 5 4 1 0 3 4 -1
+p719
+aVMichael Curry DET 11/26/1999 DET vs. ATL W 11 8 3 6 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 5 1
+p720
+aVGrant Hill DET 11/26/1999 DET vs. ATL W 42 30 9 20 45.0 0 0 - 12 14 85.7 1 4 5 4 0 1 2 2 1
+p721
+aVChristian Laettner DET 11/26/1999 DET vs. ATL W 25 8 3 10 30.0 0 0 - 2 2 100.0 2 3 5 1 1 0 1 2 -2
+p722
+aVTerry Mills DET 11/26/1999 DET vs. ATL W 35 2 1 8 12.5 0 4 0.0 0 0 - 0 11 11 0 1 0 1 2 5
+p723
+aVEric Montross DET 11/26/1999 DET vs. ATL W 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 -2
+p724
+aVChristian Laettner DET 11/25/1999 DET @ IND W 35 19 4 12 33.3 0 0 - 11 13 84.6 2 5 7 0 0 0 1 5 -4
+p725
+aVLindsey Hunter DET 11/25/1999 DET @ IND W 43 16 7 16 43.8 2 5 40.0 0 0 - 0 5 5 4 0 0 3 2 14
+p726
+aVMichael Curry DET 11/25/1999 DET @ IND W 18 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p727
+aVJermaine Jackson DET 11/25/1999 DET @ IND W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p728
+aVEric Montross DET 11/25/1999 DET @ IND W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 2 2
+p729
+aVJerry Stackhouse DET 11/25/1999 DET @ IND W 41 26 8 16 50.0 0 0 - 10 12 83.3 4 5 9 6 2 0 5 1 1
+p730
+aVGrant Hill DET 11/25/1999 DET @ IND W 31 22 7 14 50.0 0 0 - 8 10 80.0 0 3 3 3 0 0 2 4 8
+p731
+aVJud Buechler DET 11/25/1999 DET @ IND W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 10
+p732
+aVJerome Williams DET 11/25/1999 DET @ IND W 25 8 4 7 57.1 0 0 - 0 1 0.0 3 6 9 1 2 2 0 1 13
+p733
+aVTerry Mills DET 11/25/1999 DET @ IND W 30 14 5 12 41.7 4 9 44.4 0 0 - 2 5 7 1 0 0 1 3 5
+p734
+aVEric Montross DET 11/21/1999 DET vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p735
+aVJerome Williams DET 11/21/1999 DET vs. MIL W 28 12 6 7 85.7 0 0 - 0 2 0.0 4 8 12 2 1 0 0 3 25
+p736
+aVTerry Mills DET 11/21/1999 DET vs. MIL W 17 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 1 0 0 1 0 2
+p737
+aVJerry Stackhouse DET 11/21/1999 DET vs. MIL W 33 19 4 11 36.4 0 1 0.0 11 14 78.6 2 3 5 4 0 0 5 4 19
+p738
+aVMichael Curry DET 11/21/1999 DET vs. MIL W 22 4 2 5 40.0 0 0 - 0 0 - 0 1 1 4 0 0 1 3 -1
+p739
+aVLoy Vaught DET 11/21/1999 DET vs. MIL W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 1
+p740
+aVChristian Laettner DET 11/21/1999 DET vs. MIL W 39 16 7 16 43.8 0 0 - 2 4 50.0 5 7 12 2 1 1 2 3 19
+p741
+aVJud Buechler DET 11/21/1999 DET vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p742
+aVDon Reid DET 11/21/1999 DET vs. MIL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -6
+p743
+aVLindsey Hunter DET 11/21/1999 DET vs. MIL W 34 21 8 13 61.5 4 9 44.4 1 2 50.0 0 4 4 5 1 0 1 0 21
+p744
+aVJermaine Jackson DET 11/21/1999 DET vs. MIL W 14 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 -2
+p745
+aVGrant Hill DET 11/21/1999 DET vs. MIL W 37 31 10 15 66.7 0 2 0.0 11 11 100.0 1 3 4 7 1 0 4 2 26
+p746
+aVLoy Vaught DET 11/19/1999 DET vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p747
+aVGrant Hill DET 11/19/1999 DET vs. CLE W 40 28 9 19 47.4 0 0 - 10 10 100.0 1 9 10 5 2 1 5 3 8
+p748
+aVJerome Williams DET 11/19/1999 DET vs. CLE W 33 11 4 5 80.0 0 0 - 3 3 100.0 1 9 10 1 5 0 0 4 0
+p749
+aVJerry Stackhouse DET 11/19/1999 DET vs. CLE W 35 26 7 16 43.8 1 3 33.3 11 16 68.8 3 3 6 3 1 1 5 3 16
+p750
+aVDon Reid DET 11/19/1999 DET vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p751
+aVJud Buechler DET 11/19/1999 DET vs. CLE W 15 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -9
+p752
+aVChristian Laettner DET 11/19/1999 DET vs. CLE W 34 15 4 9 44.4 0 0 - 7 11 63.6 3 6 9 4 0 0 5 6 18
+p753
+aVTerry Mills DET 11/19/1999 DET vs. CLE W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 14
+p754
+aVJermaine Jackson DET 11/19/1999 DET vs. CLE W 10 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 2
+p755
+aVMichael Curry DET 11/19/1999 DET vs. CLE W 12 4 0 4 0.0 0 0 - 4 4 100.0 0 1 1 0 1 0 2 1 2
+p756
+aVLindsey Hunter DET 11/19/1999 DET vs. CLE W 38 11 5 11 45.5 0 3 0.0 1 1 100.0 1 7 8 7 2 0 5 1 9
+p757
+aVMichael Curry DET 11/17/1999 DET vs. NJN W 10 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -1
+p758
+aVChristian Laettner DET 11/17/1999 DET vs. NJN W 25 20 9 12 75.0 0 0 - 2 4 50.0 3 7 10 6 1 0 2 5 -3
+p759
+aVLindsey Hunter DET 11/17/1999 DET vs. NJN W 43 16 6 17 35.3 2 4 50.0 2 2 100.0 1 3 4 4 1 0 1 3 3
+p760
+aVDon Reid DET 11/17/1999 DET vs. NJN W 14 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 1 0 3 8
+p761
+aVEric Montross DET 11/17/1999 DET vs. NJN W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p762
+aVJud Buechler DET 11/17/1999 DET vs. NJN W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 6
+p763
+aVGrant Hill DET 11/17/1999 DET vs. NJN W 42 32 10 19 52.6 0 0 - 12 15 80.0 3 3 6 5 0 0 4 2 -1
+p764
+aVJerome Williams DET 11/17/1999 DET vs. NJN W 35 10 5 6 83.3 0 0 - 0 1 0.0 3 11 14 2 1 0 3 2 -2
+p765
+aVJerry Stackhouse DET 11/17/1999 DET vs. NJN W 36 13 6 13 46.2 1 3 33.3 0 0 - 1 2 3 5 1 1 3 4 2
+p766
+aVJermaine Jackson DET 11/17/1999 DET vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p767
+aVTerry Mills DET 11/17/1999 DET vs. NJN W 13 8 4 7 57.1 0 0 - 0 0 - 1 1 2 0 0 1 0 3 7
+p768
+aVTerry Mills DET 11/16/1999 DET @ TOR L 23 1 0 4 0.0 0 4 0.0 1 2 50.0 0 3 3 1 1 0 2 5 -9
+p769
+aVJerome Williams DET 11/16/1999 DET @ TOR L 30 26 11 14 78.6 0 0 - 4 4 100.0 6 4 10 1 3 0 1 4 2
+p770
+aVMichael Curry DET 11/16/1999 DET @ TOR L 9 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p771
+aVLoy Vaught DET 11/16/1999 DET @ TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p772
+aVEric Montross DET 11/16/1999 DET @ TOR L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -6
+p773
+aVJerry Stackhouse DET 11/16/1999 DET @ TOR L 41 26 11 24 45.8 0 3 0.0 4 5 80.0 2 1 3 2 2 0 5 3 -15
+p774
+aVChristian Laettner DET 11/16/1999 DET @ TOR L 30 12 5 15 33.3 1 1 100.0 1 1 100.0 2 2 4 3 1 1 1 6 8
+p775
+aVJermaine Jackson DET 11/16/1999 DET @ TOR L 11 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 1 3
+p776
+aVGrant Hill DET 11/16/1999 DET @ TOR L 42 8 4 15 26.7 0 0 - 0 0 - 1 4 5 10 1 0 5 2 1
+p777
+aVLindsey Hunter DET 11/16/1999 DET @ TOR L 37 5 2 7 28.6 1 4 25.0 0 0 - 0 4 4 4 3 1 2 2 -7
+p778
+aVJud Buechler DET 11/16/1999 DET @ TOR L 10 5 2 6 33.3 1 5 20.0 0 0 - 1 1 2 2 0 0 1 2 10
+p779
+aVTerry Mills DET 11/13/1999 DET vs. SEA W 25 6 2 6 33.3 2 6 33.3 0 1 0.0 0 11 11 0 2 2 0 6 7
+p780
+aVJerome Williams DET 11/13/1999 DET vs. SEA W 32 13 6 7 85.7 0 0 - 1 3 33.3 4 7 11 0 0 0 4 3 3
+p781
+aVChristian Laettner DET 11/13/1999 DET vs. SEA W 22 3 1 7 14.3 0 0 - 1 2 50.0 1 1 2 5 0 0 1 4 0
+p782
+aVMichael Curry DET 11/13/1999 DET vs. SEA W 19 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 1 3 -5
+p783
+aVJerry Stackhouse DET 11/13/1999 DET vs. SEA W 40 24 5 16 31.3 0 1 0.0 14 14 100.0 2 2 4 8 2 0 2 2 18
+p784
+aVJermaine Jackson DET 11/13/1999 DET vs. SEA W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 2 1 -1
+p785
+aVJud Buechler DET 11/13/1999 DET vs. SEA W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p786
+aVGrant Hill DET 11/13/1999 DET vs. SEA W 32 34 15 25 60.0 0 0 - 4 5 80.0 1 5 6 4 3 0 8 5 17
+p787
+aVLoy Vaught DET 11/13/1999 DET vs. SEA W 16 6 3 7 42.9 0 0 - 0 0 - 4 3 7 2 0 0 0 3 2
+p788
+aVLindsey Hunter DET 11/13/1999 DET vs. SEA W 35 17 5 10 50.0 3 5 60.0 4 4 100.0 0 3 3 2 0 0 2 0 8
+p789
+aVLindsey Hunter DET 11/11/1999 DET vs. TOR L 40 12 5 8 62.5 2 2 100.0 0 0 - 1 4 5 2 1 0 1 2 -8
+p790
+aVJerome Williams DET 11/11/1999 DET vs. TOR L 26 11 5 12 41.7 0 0 - 1 2 50.0 6 4 10 0 2 0 2 1 -18
+p791
+aVTerry Mills DET 11/11/1999 DET vs. TOR L 24 9 3 6 50.0 3 4 75.0 0 0 - 0 1 1 1 1 0 1 1 -5
+p792
+aVChristian Laettner DET 11/11/1999 DET vs. TOR L 33 18 7 13 53.8 0 0 - 4 4 100.0 1 4 5 4 1 0 3 4 -12
+p793
+aVJerry Stackhouse DET 11/11/1999 DET vs. TOR L 38 21 6 22 27.3 0 1 0.0 9 13 69.2 4 2 6 7 1 1 2 2 1
+p794
+aVMarcus Brown DET 11/11/1999 DET vs. TOR L 8 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 2 -9
+p795
+aVLoy Vaught DET 11/11/1999 DET vs. TOR L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p796
+aVJud Buechler DET 11/11/1999 DET vs. TOR L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p797
+aVMichael Curry DET 11/11/1999 DET vs. TOR L 16 4 0 2 0.0 0 0 - 4 4 100.0 0 0 0 0 0 0 0 6 -13
+p798
+aVGrant Hill DET 11/11/1999 DET vs. TOR L 40 25 6 22 27.3 0 0 - 13 17 76.5 4 2 6 3 1 0 3 3 -12
+p799
+aVMarcus Brown DET 11/10/1999 DET @ BOS W 4 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 0 -10
+p800
+aVTerry Mills DET 11/10/1999 DET @ BOS W 29 9 3 10 30.0 1 3 33.3 2 2 100.0 0 4 4 2 1 0 1 4 17
+p801
+aVJerome Williams DET 11/10/1999 DET @ BOS W 34 20 5 6 83.3 0 0 - 10 11 90.9 4 12 16 0 2 0 1 1 14
+p802
+aVLindsey Hunter DET 11/10/1999 DET @ BOS W 40 15 6 14 42.9 3 5 60.0 0 0 - 1 2 3 9 2 0 1 1 28
+p803
+aVJud Buechler DET 11/10/1999 DET @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p804
+aVMichael Curry DET 11/10/1999 DET @ BOS W 20 8 4 4 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 8
+p805
+aVChristian Laettner DET 11/10/1999 DET @ BOS W 18 12 4 8 50.0 0 0 - 4 4 100.0 1 3 4 0 1 0 2 2 2
+p806
+aVJerry Stackhouse DET 11/10/1999 DET @ BOS W 40 30 10 21 47.6 2 6 33.3 8 9 88.9 1 4 5 8 1 0 5 2 6
+p807
+aVLoy Vaught DET 11/10/1999 DET @ BOS W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p808
+aVDon Reid DET 11/10/1999 DET @ BOS W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 6
+p809
+aVGrant Hill DET 11/10/1999 DET @ BOS W 39 16 7 18 38.9 0 0 - 2 3 66.7 2 8 10 7 3 1 2 3 24
+p810
+aVGrant Hill DET 11/06/1999 DET @ MIL L 38 18 8 20 40.0 1 2 50.0 1 2 50.0 3 5 8 7 1 1 7 3 -5
+p811
+aVTerry Mills DET 11/06/1999 DET @ MIL L 26 17 5 8 62.5 4 6 66.7 3 3 100.0 1 6 7 3 0 0 0 1 -1
+p812
+aVMichael Curry DET 11/06/1999 DET @ MIL L 25 13 5 8 62.5 0 0 - 3 4 75.0 1 1 2 1 1 1 3 4 -15
+p813
+aVChristian Laettner DET 11/06/1999 DET @ MIL L 39 18 8 11 72.7 0 0 - 2 2 100.0 1 5 6 2 0 2 3 4 4
+p814
+aVLindsey Hunter DET 11/06/1999 DET @ MIL L 37 15 5 14 35.7 4 8 50.0 1 1 100.0 2 3 5 7 1 0 2 5 -7
+p815
+aVJerry Stackhouse DET 11/06/1999 DET @ MIL L 41 20 6 11 54.5 0 1 0.0 8 12 66.7 0 4 4 6 1 0 2 2 -6
+p816
+aVMarcus Brown DET 11/06/1999 DET @ MIL L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p817
+aVJud Buechler DET 11/06/1999 DET @ MIL L 19 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 3 0 1 1 3 -8
+p818
+aVJerome Williams DET 11/06/1999 DET @ MIL L 10 6 3 4 75.0 0 0 - 0 2 0.0 0 4 4 0 0 0 2 3 -7
+p819
+aVLindsey Hunter DET 11/05/1999 DET vs. NYK L 37 12 4 11 36.4 2 3 66.7 2 4 50.0 0 3 3 2 1 0 0 1 -10
+p820
+aVJud Buechler DET 11/05/1999 DET vs. NYK L 21 3 1 6 16.7 1 4 25.0 0 0 - 1 2 3 1 0 0 0 1 -7
+p821
+aVDon Reid DET 11/05/1999 DET vs. NYK L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -11
+p822
+aVMichael Curry DET 11/05/1999 DET vs. NYK L 10 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 0 0 0 3 -4
+p823
+aVGrant Hill DET 11/05/1999 DET vs. NYK L 41 23 8 18 44.4 0 1 0.0 7 9 77.8 2 0 2 6 2 0 1 4 -4
+p824
+aVTerry Mills DET 11/05/1999 DET vs. NYK L 17 4 1 7 14.3 0 2 0.0 2 2 100.0 0 3 3 2 0 0 0 2 -9
+p825
+aVLoy Vaught DET 11/05/1999 DET vs. NYK L 10 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -7
+p826
+aVChristian Laettner DET 11/05/1999 DET vs. NYK L 18 2 1 6 16.7 0 0 - 0 0 - 0 2 2 0 0 2 6 4 -2
+p827
+aVJerome Williams DET 11/05/1999 DET vs. NYK L 30 10 3 10 30.0 0 0 - 4 6 66.7 5 7 12 0 1 0 2 1 5
+p828
+aVJerry Stackhouse DET 11/05/1999 DET vs. NYK L 39 30 11 16 68.8 0 0 - 8 9 88.9 1 5 6 4 0 0 6 4 -11
+p829
+aVMarcus Brown DET 11/05/1999 DET vs. NYK L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p830
+aVMarcus Brown DET 11/03/1999 DET @ ORL L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 1 -7
+p831
+aVChristian Laettner DET 11/03/1999 DET @ ORL L 35 18 9 16 56.3 0 0 - 0 0 - 0 2 2 5 4 1 2 4 -7
+p832
+aVMichael Curry DET 11/03/1999 DET @ ORL L 17 6 1 3 33.3 0 0 - 4 5 80.0 0 1 1 1 0 0 2 2 -11
+p833
+aVJerome Williams DET 11/03/1999 DET @ ORL L 36 7 3 5 60.0 0 0 - 1 2 50.0 2 10 12 1 2 0 2 1 -19
+p834
+aVJerry Stackhouse DET 11/03/1999 DET @ ORL L 34 17 6 13 46.2 2 4 50.0 3 6 50.0 1 5 6 3 1 0 3 1 5
+p835
+aVLindsey Hunter DET 11/03/1999 DET @ ORL L 36 12 4 11 36.4 2 5 40.0 2 2 100.0 0 3 3 2 0 0 2 6 -3
+p836
+aVDon Reid DET 11/03/1999 DET @ ORL L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 2 3 0 3 3
+p837
+aVJud Buechler DET 11/03/1999 DET @ ORL L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 6
+p838
+aVGrant Hill DET 11/03/1999 DET @ ORL L 39 30 10 21 47.6 1 4 25.0 9 10 90.0 1 4 5 7 0 0 7 4 -14
+p839
+aVTerry Mills DET 11/03/1999 DET @ ORL L 10 2 1 5 20.0 0 3 0.0 0 0 - 1 2 3 0 0 0 0 1 2
+p840
+aVGrant Hill DET 11/02/1999 DET @ MIA L 52 41 16 35 45.7 1 3 33.3 8 11 72.7 3 6 9 5 0 1 4 5 0
+p841
+aVJerome Williams DET 11/02/1999 DET @ MIA L 39 7 3 5 60.0 0 0 - 1 1 100.0 3 8 11 0 1 1 0 3 -9
+p842
+aVTerry Mills DET 11/02/1999 DET @ MIA L 12 2 1 4 25.0 0 2 0.0 0 2 0.0 0 4 4 0 1 0 1 2 3
+p843
+aVJud Buechler DET 11/02/1999 DET @ MIA L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p844
+aVEric Montross DET 11/02/1999 DET @ MIA L 15 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 1 2 2 0
+p845
+aVLindsey Hunter DET 11/02/1999 DET @ MIA L 40 19 8 16 50.0 2 5 40.0 1 2 50.0 1 1 2 2 1 0 2 6 7
+p846
+aVMichael Curry DET 11/02/1999 DET @ MIA L 20 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 2 6 -7
+p847
+aVMarcus Brown DET 11/02/1999 DET @ MIA L 10 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 3 -8
+p848
+aVChristian Laettner DET 11/02/1999 DET @ MIA L 37 15 5 15 33.3 0 1 0.0 5 7 71.4 3 8 11 3 0 1 1 4 1
+p849
+aVJerry Stackhouse DET 11/02/1999 DET @ MIA L 47 26 6 13 46.2 2 3 66.7 12 16 75.0 2 5 7 1 0 1 6 6 -2
+p850
+aVDon Reid DET 11/02/1999 DET @ MIA L 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 5 -11
+p851
+a.

@@ -1,0 +1,1654 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTerry Teagle LAL 04/21/1991 LAL vs. SEA W 27 19 7 17 41.2 0 1 0.0 5 6 83.3 1 2 3 0 0 0 1 4 -
+p2
+aVMagic Johnson LAL 04/21/1991 LAL vs. SEA W 21 12 1 5 20.0 0 2 0.0 10 11 90.9 0 2 2 2 4 0 3 1 -
+p3
+aVElden Campbell LAL 04/21/1991 LAL vs. SEA W 26 6 3 10 30.0 0 0 - 0 1 0.0 4 2 6 1 2 2 1 3 -
+p4
+aVA.C. Green LAL 04/21/1991 LAL vs. SEA W 25 14 3 4 75.0 0 0 - 8 12 66.7 8 4 12 3 0 0 1 1 -
+p5
+aVLarry Drew LAL 04/21/1991 LAL vs. SEA W 27 9 4 11 36.4 1 2 50.0 0 0 - 1 0 1 5 0 0 0 1 -
+p6
+aVVlade Divac LAL 04/21/1991 LAL vs. SEA W 27 11 4 10 40.0 1 1 100.0 2 3 66.7 2 6 8 6 2 2 2 3 -
+p7
+aVMychal Thompson LAL 04/21/1991 LAL vs. SEA W 21 2 1 3 33.3 0 0 - 0 0 - 0 4 4 2 2 2 1 1 -
+p8
+aVIrving Thomas LAL 04/21/1991 LAL vs. SEA W 12 9 4 7 57.1 0 0 - 1 2 50.0 3 1 4 0 0 0 0 2 -
+p9
+aVTony Smith LAL 04/21/1991 LAL vs. SEA W 9 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 2 -
+p10
+aVByron Scott LAL 04/21/1991 LAL vs. SEA W 24 14 7 14 50.0 0 4 0.0 0 0 - 1 1 2 2 0 0 1 3 -
+p11
+aVJames Worthy LAL 04/21/1991 LAL vs. SEA W 21 4 2 8 25.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 -
+p12
+aVMychal Thompson LAL 04/20/1991 LAL @ UTH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p13
+aVElden Campbell LAL 04/20/1991 LAL @ UTH L 25 10 5 8 62.5 0 0 - 0 0 - 2 0 2 0 3 1 1 5 -
+p14
+aVSam Perkins LAL 04/20/1991 LAL @ UTH L 28 3 0 3 0.0 0 1 0.0 3 4 75.0 3 2 5 0 0 0 0 4 -
+p15
+aVByron Scott LAL 04/20/1991 LAL @ UTH L 24 8 4 10 40.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 1 -
+p16
+aVVlade Divac LAL 04/20/1991 LAL @ UTH L 40 19 8 17 47.1 0 1 0.0 3 4 75.0 7 10 17 0 0 1 2 4 -
+p17
+aVTerry Teagle LAL 04/20/1991 LAL @ UTH L 28 16 7 10 70.0 0 1 0.0 2 2 100.0 1 1 2 3 0 0 3 4 -
+p18
+aVMagic Johnson LAL 04/20/1991 LAL @ UTH L 24 9 2 8 25.0 0 0 - 5 5 100.0 2 4 6 6 3 0 4 1 -
+p19
+aVLarry Drew LAL 04/20/1991 LAL @ UTH L 20 11 4 8 50.0 3 6 50.0 0 0 - 0 0 0 4 0 0 3 1 -
+p20
+aVTony Smith LAL 04/20/1991 LAL @ UTH L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -
+p21
+aVJames Worthy LAL 04/20/1991 LAL @ UTH L 27 8 3 10 30.0 0 0 - 2 2 100.0 0 2 2 4 1 0 2 3 -
+p22
+aVA.C. Green LAL 04/20/1991 LAL @ UTH L 18 7 2 5 40.0 0 1 0.0 3 4 75.0 1 1 2 0 1 0 0 2 -
+p23
+aVLarry Drew LAL 04/17/1991 LAL @ GOS L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 4 0 0 0 2 -
+p24
+aVTony Smith LAL 04/17/1991 LAL @ GOS L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -
+p25
+aVSam Perkins LAL 04/17/1991 LAL @ GOS L 34 12 4 11 36.4 1 5 20.0 3 4 75.0 2 5 7 2 1 0 2 5 -
+p26
+aVVlade Divac LAL 04/17/1991 LAL @ GOS L 17 11 5 6 83.3 0 0 - 1 2 50.0 0 4 4 0 4 1 1 4 -
+p27
+aVMagic Johnson LAL 04/17/1991 LAL @ GOS L 33 14 5 15 33.3 0 5 0.0 4 4 100.0 2 6 8 15 0 0 4 1 -
+p28
+aVElden Campbell LAL 04/17/1991 LAL @ GOS L 22 11 5 5 100.0 0 0 - 1 2 50.0 2 2 4 0 0 3 2 4 -
+p29
+aVTerry Teagle LAL 04/17/1991 LAL @ GOS L 25 21 8 13 61.5 0 0 - 5 5 100.0 0 0 0 0 0 0 0 3 -
+p30
+aVMychal Thompson LAL 04/17/1991 LAL @ GOS L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p31
+aVByron Scott LAL 04/17/1991 LAL @ GOS L 32 10 4 13 30.8 0 4 0.0 2 2 100.0 0 1 1 4 1 0 1 1 -
+p32
+aVA.C. Green LAL 04/17/1991 LAL @ GOS L 21 9 1 6 16.7 0 1 0.0 7 8 87.5 5 3 8 0 0 0 0 1 -
+p33
+aVJames Worthy LAL 04/17/1991 LAL @ GOS L 37 18 6 14 42.9 1 1 100.0 5 6 83.3 2 4 6 1 0 0 1 2 -
+p34
+aVTerry Teagle LAL 04/15/1991 LAL vs. DAL W 23 21 8 15 53.3 0 0 - 5 5 100.0 0 1 1 1 0 0 3 1 -
+p35
+aVA.C. Green LAL 04/15/1991 LAL vs. DAL W 24 11 3 6 50.0 0 0 - 5 6 83.3 1 4 5 1 1 0 1 1 -
+p36
+aVTony Smith LAL 04/15/1991 LAL vs. DAL W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 3 0 0 2 2 -
+p37
+aVSam Perkins LAL 04/15/1991 LAL vs. DAL W 36 14 6 14 42.9 0 3 0.0 2 2 100.0 2 6 8 2 2 1 2 3 -
+p38
+aVByron Scott LAL 04/15/1991 LAL vs. DAL W 25 16 7 14 50.0 0 3 0.0 2 2 100.0 0 1 1 2 0 0 0 1 -
+p39
+aVMagic Johnson LAL 04/15/1991 LAL vs. DAL W 37 7 1 4 25.0 0 2 0.0 5 6 83.3 1 8 9 19 3 0 11 0 -
+p40
+aVElden Campbell LAL 04/15/1991 LAL vs. DAL W 11 6 3 4 75.0 0 0 - 0 0 - 3 2 5 0 1 0 0 0 -
+p41
+aVVlade Divac LAL 04/15/1991 LAL vs. DAL W 32 10 4 7 57.1 0 0 - 2 4 50.0 2 5 7 0 0 3 1 1 -
+p42
+aVJames Worthy LAL 04/15/1991 LAL vs. DAL W 40 23 10 15 66.7 2 3 66.7 1 3 33.3 1 2 3 1 2 0 1 3 -
+p43
+aVTony Smith LAL 04/13/1991 LAL @ POR L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -
+p44
+aVByron Scott LAL 04/13/1991 LAL @ POR L 31 25 10 13 76.9 3 4 75.0 2 2 100.0 1 1 2 1 3 0 0 0 -
+p45
+aVMychal Thompson LAL 04/13/1991 LAL @ POR L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -
+p46
+aVJames Worthy LAL 04/13/1991 LAL @ POR L 43 20 10 28 35.7 0 3 0.0 0 0 - 0 1 1 6 4 0 0 4 -
+p47
+aVSam Perkins LAL 04/13/1991 LAL @ POR L 42 32 10 15 66.7 1 3 33.3 11 12 91.7 7 3 10 3 1 2 0 3 -
+p48
+aVVlade Divac LAL 04/13/1991 LAL @ POR L 27 8 3 7 42.9 0 0 - 2 4 50.0 2 2 4 1 1 1 1 6 -
+p49
+aVA.C. Green LAL 04/13/1991 LAL @ POR L 19 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 3 1 -
+p50
+aVElden Campbell LAL 04/13/1991 LAL @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p51
+aVTerry Teagle LAL 04/13/1991 LAL @ POR L 19 12 6 9 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p52
+aVMagic Johnson LAL 04/13/1991 LAL @ POR L 41 12 5 13 38.5 2 5 40.0 0 0 - 0 6 6 15 2 0 7 3 -
+p53
+aVElden Campbell LAL 04/11/1991 LAL vs. UTH W 2 2 1 3 33.3 0 0 - 0 0 - 3 0 3 0 0 0 0 0 -
+p54
+aVA.C. Green LAL 04/11/1991 LAL vs. UTH W 26 0 0 0 - 0 0 - 0 0 - 0 4 4 2 0 0 1 1 -
+p55
+aVTerry Teagle LAL 04/11/1991 LAL vs. UTH W 24 20 9 14 64.3 0 0 - 2 4 50.0 0 1 1 0 0 1 0 1 -
+p56
+aVIrving Thomas LAL 04/11/1991 LAL vs. UTH W 2 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p57
+aVMychal Thompson LAL 04/11/1991 LAL vs. UTH W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p58
+aVByron Scott LAL 04/11/1991 LAL vs. UTH W 24 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 5 2 0 0 1 -
+p59
+aVMagic Johnson LAL 04/11/1991 LAL vs. UTH W 38 31 6 15 40.0 1 5 20.0 18 18 100.0 4 3 7 11 1 0 4 4 -
+p60
+aVVlade Divac LAL 04/11/1991 LAL vs. UTH W 35 13 5 8 62.5 0 0 - 3 6 50.0 2 10 12 0 2 3 4 5 -
+p61
+aVSam Perkins LAL 04/11/1991 LAL vs. UTH W 35 19 7 12 58.3 1 1 100.0 4 5 80.0 4 5 9 1 2 1 1 4 -
+p62
+aVTony Smith LAL 04/11/1991 LAL vs. UTH W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p63
+aVJames Worthy LAL 04/11/1991 LAL vs. UTH W 40 20 8 16 50.0 1 2 50.0 3 3 100.0 0 6 6 3 1 0 1 1 -
+p64
+aVLarry Drew LAL 04/11/1991 LAL vs. UTH W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 0 0 1 0 -
+p65
+aVByron Scott LAL 04/07/1991 LAL vs. PHX W 31 20 10 17 58.8 0 0 - 0 0 - 0 5 5 1 1 1 0 1 -
+p66
+aVTony Smith LAL 04/07/1991 LAL vs. PHX W 12 5 1 3 33.3 0 0 - 3 6 50.0 1 0 1 1 1 0 0 1 -
+p67
+aVMychal Thompson LAL 04/07/1991 LAL vs. PHX W 13 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -
+p68
+aVVlade Divac LAL 04/07/1991 LAL vs. PHX W 23 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 2 2 1 1 -
+p69
+aVSam Perkins LAL 04/07/1991 LAL vs. PHX W 39 6 2 11 18.2 0 0 - 2 2 100.0 3 7 10 3 0 1 2 3 -
+p70
+aVA.C. Green LAL 04/07/1991 LAL vs. PHX W 23 2 1 5 20.0 0 2 0.0 0 0 - 2 2 4 1 1 2 0 0 -
+p71
+aVMagic Johnson LAL 04/07/1991 LAL vs. PHX W 38 31 11 19 57.9 3 6 50.0 6 9 66.7 2 6 8 8 4 0 2 1 -
+p72
+aVTerry Teagle LAL 04/07/1991 LAL vs. PHX W 22 8 4 12 33.3 0 0 - 0 0 - 4 1 5 1 0 0 0 4 -
+p73
+aVJames Worthy LAL 04/07/1991 LAL vs. PHX W 39 21 8 16 50.0 0 0 - 5 5 100.0 0 1 1 4 3 1 4 0 -
+p74
+aVMagic Johnson LAL 04/05/1991 LAL vs. MIA W 33 20 6 14 42.9 0 2 0.0 8 8 100.0 3 6 9 9 0 0 5 2 -
+p75
+aVSam Perkins LAL 04/05/1991 LAL vs. MIA W 29 14 7 12 58.3 0 0 - 0 0 - 6 7 13 4 1 0 1 4 -
+p76
+aVLarry Drew LAL 04/05/1991 LAL vs. MIA W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 0 -
+p77
+aVTerry Teagle LAL 04/05/1991 LAL vs. MIA W 20 11 4 10 40.0 0 0 - 3 4 75.0 1 2 3 1 1 0 1 1 -
+p78
+aVIrving Thomas LAL 04/05/1991 LAL vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p79
+aVElden Campbell LAL 04/05/1991 LAL vs. MIA W 11 9 3 7 42.9 0 0 - 3 4 75.0 3 3 6 0 0 2 0 2 -
+p80
+aVVlade Divac LAL 04/05/1991 LAL vs. MIA W 36 17 6 13 46.2 0 0 - 5 7 71.4 5 6 11 0 2 6 1 2 -
+p81
+aVA.C. Green LAL 04/05/1991 LAL vs. MIA W 26 6 1 5 20.0 0 1 0.0 4 4 100.0 2 2 4 1 1 0 2 0 -
+p82
+aVByron Scott LAL 04/05/1991 LAL vs. MIA W 28 14 7 18 38.9 0 1 0.0 0 1 0.0 2 3 5 2 1 0 1 0 -
+p83
+aVTony Smith LAL 04/05/1991 LAL vs. MIA W 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 4 1 0 0 1 -
+p84
+aVJames Worthy LAL 04/05/1991 LAL vs. MIA W 36 10 4 10 40.0 0 1 0.0 2 2 100.0 0 4 4 5 1 1 1 0 -
+p85
+aVJames Worthy LAL 04/04/1991 LAL @ PHX W 43 26 12 19 63.2 0 1 0.0 2 2 100.0 0 1 1 4 1 0 5 2 -
+p86
+aVA.C. Green LAL 04/04/1991 LAL @ PHX W 27 9 3 7 42.9 0 0 - 3 5 60.0 4 1 5 2 1 0 2 2 -
+p87
+aVTony Smith LAL 04/04/1991 LAL @ PHX W 7 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 1 2 1 0 1 -
+p88
+aVMagic Johnson LAL 04/04/1991 LAL @ PHX W 41 10 2 5 40.0 0 0 - 6 6 100.0 0 9 9 14 2 0 4 2 -
+p89
+aVVlade Divac LAL 04/04/1991 LAL @ PHX W 26 7 3 5 60.0 0 0 - 1 2 50.0 2 3 5 1 0 2 2 2 -
+p90
+aVByron Scott LAL 04/04/1991 LAL @ PHX W 31 17 4 9 44.4 2 2 100.0 7 8 87.5 0 1 1 1 0 0 1 2 -
+p91
+aVMychal Thompson LAL 04/04/1991 LAL @ PHX W 3 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 -
+p92
+aVSam Perkins LAL 04/04/1991 LAL @ PHX W 45 15 6 14 42.9 0 1 0.0 3 4 75.0 3 10 13 0 0 5 1 3 -
+p93
+aVTerry Teagle LAL 04/04/1991 LAL @ PHX W 17 14 7 13 53.8 0 0 - 0 0 - 0 4 4 0 0 0 0 5 -
+p94
+aVElden Campbell LAL 04/02/1991 LAL @ SAN W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 1 0 1 -
+p95
+aVTony Smith LAL 04/02/1991 LAL @ SAN W 8 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 1 1 0 1 -
+p96
+aVSam Perkins LAL 04/02/1991 LAL @ SAN W 36 13 2 6 33.3 0 1 0.0 9 10 90.0 1 3 4 1 1 2 1 3 -
+p97
+aVByron Scott LAL 04/02/1991 LAL @ SAN W 31 19 7 14 50.0 3 6 50.0 2 2 100.0 1 1 2 2 1 0 1 0 -
+p98
+aVTerry Teagle LAL 04/02/1991 LAL @ SAN W 17 12 5 10 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 3 -
+p99
+aVMagic Johnson LAL 04/02/1991 LAL @ SAN W 40 30 8 13 61.5 1 3 33.3 13 13 100.0 2 10 12 10 2 1 3 4 -
+p100
+aVVlade Divac LAL 04/02/1991 LAL @ SAN W 21 15 5 7 71.4 0 0 - 5 5 100.0 3 2 5 1 0 1 2 3 -
+p101
+aVJames Worthy LAL 04/02/1991 LAL @ SAN W 42 18 9 18 50.0 0 0 - 0 0 - 2 3 5 5 0 2 3 1 -
+p102
+aVA.C. Green LAL 04/02/1991 LAL @ SAN W 22 8 2 6 33.3 0 0 - 4 4 100.0 3 5 8 0 0 0 0 4 -
+p103
+aVMychal Thompson LAL 04/02/1991 LAL @ SAN W 19 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 4 -
+p104
+aVTony Smith LAL 03/31/1991 LAL vs. SAC W 24 8 3 7 42.9 0 0 - 2 4 50.0 2 2 4 3 0 0 0 2 -
+p105
+aVVlade Divac LAL 03/31/1991 LAL vs. SAC W 30 8 4 13 30.8 0 0 - 0 0 - 4 5 9 0 1 1 2 3 -
+p106
+aVA.C. Green LAL 03/31/1991 LAL vs. SAC W 41 15 4 6 66.7 0 0 - 7 10 70.0 6 4 10 3 2 0 2 2 -
+p107
+aVMagic Johnson LAL 03/31/1991 LAL vs. SAC W 24 19 5 10 50.0 0 1 0.0 9 11 81.8 1 2 3 10 0 0 4 0 -
+p108
+aVLarry Drew LAL 03/31/1991 LAL vs. SAC W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p109
+aVIrving Thomas LAL 03/31/1991 LAL vs. SAC W 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -
+p110
+aVByron Scott LAL 03/31/1991 LAL vs. SAC W 19 8 4 8 50.0 0 2 0.0 0 0 - 1 0 1 1 2 0 1 0 -
+p111
+aVTerry Teagle LAL 03/31/1991 LAL vs. SAC W 26 35 13 23 56.5 0 0 - 9 10 90.0 2 2 4 2 1 0 0 0 -
+p112
+aVElden Campbell LAL 03/31/1991 LAL vs. SAC W 28 9 4 6 66.7 0 0 - 1 1 100.0 3 5 8 2 1 3 1 5 -
+p113
+aVSam Perkins LAL 03/31/1991 LAL vs. SAC W 38 9 3 9 33.3 0 0 - 3 3 100.0 2 6 8 2 4 1 1 3 -
+p114
+aVA.C. Green LAL 03/29/1991 LAL vs. POR L 23 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 2 1 2 3 -
+p115
+aVTerry Teagle LAL 03/29/1991 LAL vs. POR L 12 7 2 5 40.0 0 0 - 3 3 100.0 0 0 0 0 1 0 2 2 -
+p116
+aVVlade Divac LAL 03/29/1991 LAL vs. POR L 16 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 1 2 4 -
+p117
+aVJames Worthy LAL 03/29/1991 LAL vs. POR L 48 26 12 23 52.2 1 3 33.3 1 1 100.0 3 3 6 5 2 0 3 0 -
+p118
+aVSam Perkins LAL 03/29/1991 LAL vs. POR L 40 12 4 12 33.3 0 0 - 4 4 100.0 1 8 9 1 1 3 4 4 -
+p119
+aVMychal Thompson LAL 03/29/1991 LAL vs. POR L 30 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 0 0 1 1 0 -
+p120
+aVMagic Johnson LAL 03/29/1991 LAL vs. POR L 43 23 7 13 53.8 1 2 50.0 8 9 88.9 1 9 10 12 0 0 2 4 -
+p121
+aVTony Smith LAL 03/29/1991 LAL vs. POR L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 5 0 0 0 2 -
+p122
+aVByron Scott LAL 03/29/1991 LAL vs. POR L 40 17 8 21 38.1 1 6 16.7 0 0 - 0 7 7 3 1 0 2 4 -
+p123
+aVSam Perkins LAL 03/25/1991 LAL @ SAC W 44 15 6 9 66.7 0 0 - 3 4 75.0 0 6 6 1 0 3 1 3 -
+p124
+aVMychal Thompson LAL 03/25/1991 LAL @ SAC W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p125
+aVByron Scott LAL 03/25/1991 LAL @ SAC W 36 14 6 13 46.2 2 2 100.0 0 0 - 0 4 4 4 0 0 3 2 -
+p126
+aVA.C. Green LAL 03/25/1991 LAL @ SAC W 22 11 5 6 83.3 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 -
+p127
+aVTerry Teagle LAL 03/25/1991 LAL @ SAC W 12 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 0 0 2 2 -
+p128
+aVTony Smith LAL 03/25/1991 LAL @ SAC W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -
+p129
+aVVlade Divac LAL 03/25/1991 LAL @ SAC W 34 12 5 10 50.0 0 0 - 2 3 66.7 4 3 7 0 2 1 1 1 -
+p130
+aVJames Worthy LAL 03/25/1991 LAL @ SAC W 41 26 12 22 54.5 1 2 50.0 1 1 100.0 2 1 3 3 2 0 2 2 -
+p131
+aVMagic Johnson LAL 03/25/1991 LAL @ SAC W 42 19 6 11 54.5 0 1 0.0 7 8 87.5 2 10 12 14 2 0 3 3 -
+p132
+aVVlade Divac LAL 03/24/1991 LAL vs. SEA W 22 8 2 5 40.0 0 0 - 4 5 80.0 1 3 4 2 1 1 3 5 -
+p133
+aVByron Scott LAL 03/24/1991 LAL vs. SEA W 30 9 4 11 36.4 1 4 25.0 0 0 - 2 0 2 3 3 0 1 1 -
+p134
+aVTerry Teagle LAL 03/24/1991 LAL vs. SEA W 21 4 2 7 28.6 0 0 - 0 0 - 1 4 5 2 0 1 1 4 -
+p135
+aVJames Worthy LAL 03/24/1991 LAL vs. SEA W 41 19 9 15 60.0 0 0 - 1 1 100.0 2 2 4 5 0 1 3 3 -
+p136
+aVTony Smith LAL 03/24/1991 LAL vs. SEA W 15 4 2 5 40.0 0 2 0.0 0 0 - 1 0 1 1 0 1 0 2 -
+p137
+aVSam Perkins LAL 03/24/1991 LAL vs. SEA W 35 19 6 8 75.0 1 1 100.0 6 6 100.0 4 5 9 0 1 0 1 3 -
+p138
+aVElden Campbell LAL 03/24/1991 LAL vs. SEA W 8 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -
+p139
+aVMychal Thompson LAL 03/24/1991 LAL vs. SEA W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p140
+aVIrving Thomas LAL 03/24/1991 LAL vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p141
+aVA.C. Green LAL 03/24/1991 LAL vs. SEA W 30 15 7 12 58.3 0 0 - 1 4 25.0 3 6 9 0 4 0 2 2 -
+p142
+aVMagic Johnson LAL 03/24/1991 LAL vs. SEA W 33 33 11 14 78.6 3 3 100.0 8 9 88.9 2 1 3 11 2 0 7 0 -
+p143
+aVMychal Thompson LAL 03/22/1991 LAL vs. MIL L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p144
+aVTerry Teagle LAL 03/22/1991 LAL vs. MIL L 18 5 1 4 25.0 0 0 - 3 6 50.0 2 2 4 2 1 1 2 3 -
+p145
+aVA.C. Green LAL 03/22/1991 LAL vs. MIL L 31 7 2 5 40.0 0 0 - 3 4 75.0 4 6 10 0 1 0 1 3 -
+p146
+aVJames Worthy LAL 03/22/1991 LAL vs. MIL L 44 34 11 25 44.0 1 3 33.3 11 12 91.7 1 8 9 6 5 0 2 2 -
+p147
+aVLarry Drew LAL 03/22/1991 LAL vs. MIL L 35 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 7 0 0 3 1 -
+p148
+aVByron Scott LAL 03/22/1991 LAL vs. MIL L 31 6 2 9 22.2 1 4 25.0 1 2 50.0 0 3 3 2 0 0 1 2 -
+p149
+aVTony Smith LAL 03/22/1991 LAL vs. MIL L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 3 1 -
+p150
+aVVlade Divac LAL 03/22/1991 LAL vs. MIL L 21 6 3 7 42.9 0 0 - 0 2 0.0 1 4 5 1 1 4 3 1 -
+p151
+aVSam Perkins LAL 03/22/1991 LAL vs. MIL L 31 15 5 11 45.5 0 3 0.0 5 6 83.3 3 3 6 1 0 0 1 5 -
+p152
+aVElden Campbell LAL 03/22/1991 LAL vs. MIL L 7 7 2 4 50.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 3 -
+p153
+aVA.C. Green LAL 03/20/1991 LAL @ SEA L 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p154
+aVMychal Thompson LAL 03/20/1991 LAL @ SEA L 7 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -
+p155
+aVSam Perkins LAL 03/20/1991 LAL @ SEA L 37 19 8 13 61.5 1 2 50.0 2 4 50.0 2 3 5 2 2 0 0 4 -
+p156
+aVTony Smith LAL 03/20/1991 LAL @ SEA L 20 12 6 6 100.0 0 0 - 0 0 - 1 1 2 5 1 0 2 4 -
+p157
+aVLarry Drew LAL 03/20/1991 LAL @ SEA L 8 5 2 4 50.0 1 3 33.3 0 0 - 1 0 1 0 0 0 0 1 -
+p158
+aVElden Campbell LAL 03/20/1991 LAL @ SEA L 20 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 1 1 3 -
+p159
+aVVlade Divac LAL 03/20/1991 LAL @ SEA L 22 6 2 4 50.0 0 0 - 2 4 50.0 0 2 2 0 2 2 2 3 -
+p160
+aVByron Scott LAL 03/20/1991 LAL @ SEA L 32 10 4 11 36.4 2 6 33.3 0 0 - 0 3 3 0 0 0 0 2 -
+p161
+aVTerry Teagle LAL 03/20/1991 LAL @ SEA L 18 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -
+p162
+aVJames Worthy LAL 03/20/1991 LAL @ SEA L 40 23 9 19 47.4 0 0 - 5 5 100.0 1 3 4 7 1 0 3 4 -
+p163
+aVMagic Johnson LAL 03/20/1991 LAL @ SEA L 29 16 4 11 36.4 1 6 16.7 7 9 77.8 1 2 3 6 3 0 0 1 -
+p164
+aVVlade Divac LAL 03/19/1991 LAL vs. LAC W 33 7 3 6 50.0 0 0 - 1 6 16.7 2 7 9 3 4 2 4 2 -
+p165
+aVJames Worthy LAL 03/19/1991 LAL vs. LAC W 37 26 13 17 76.5 0 1 0.0 0 0 - 0 3 3 7 3 1 1 1 -
+p166
+aVSam Perkins LAL 03/19/1991 LAL vs. LAC W 30 9 4 11 36.4 0 1 0.0 1 2 50.0 1 2 3 2 0 1 0 5 -
+p167
+aVA.C. Green LAL 03/19/1991 LAL vs. LAC W 28 14 5 7 71.4 0 1 0.0 4 6 66.7 1 7 8 5 3 0 1 2 -
+p168
+aVTony Smith LAL 03/19/1991 LAL vs. LAC W 22 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 3 0 1 2 1 -
+p169
+aVByron Scott LAL 03/19/1991 LAL vs. LAC W 31 18 8 13 61.5 1 2 50.0 1 1 100.0 1 1 2 4 1 0 1 0 -
+p170
+aVIrving Thomas LAL 03/19/1991 LAL vs. LAC W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -
+p171
+aVTerry Teagle LAL 03/19/1991 LAL vs. LAC W 17 12 5 9 55.6 0 0 - 2 2 100.0 0 0 0 3 0 0 2 3 -
+p172
+aVElden Campbell LAL 03/19/1991 LAL vs. LAC W 8 7 2 3 66.7 0 0 - 3 4 75.0 0 1 1 1 1 0 0 2 -
+p173
+aVMagic Johnson LAL 03/19/1991 LAL vs. LAC W 29 18 6 10 60.0 1 2 50.0 5 6 83.3 0 5 5 11 2 0 2 1 -
+p174
+aVA.C. Green LAL 03/17/1991 LAL vs. SAN W 16 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -
+p175
+aVMagic Johnson LAL 03/17/1991 LAL vs. SAN W 43 15 3 10 30.0 1 4 25.0 8 8 100.0 1 2 3 15 2 1 3 1 -
+p176
+aVSam Perkins LAL 03/17/1991 LAL vs. SAN W 40 15 5 11 45.5 0 1 0.0 5 5 100.0 2 4 6 3 1 0 4 2 -
+p177
+aVElden Campbell LAL 03/17/1991 LAL vs. SAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p178
+aVByron Scott LAL 03/17/1991 LAL vs. SAN W 38 25 10 19 52.6 2 5 40.0 3 3 100.0 0 1 1 1 1 1 0 0 -
+p179
+aVTony Smith LAL 03/17/1991 LAL vs. SAN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p180
+aVTerry Teagle LAL 03/17/1991 LAL vs. SAN W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p181
+aVMychal Thompson LAL 03/17/1991 LAL vs. SAN W 16 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 3 -
+p182
+aVJames Worthy LAL 03/17/1991 LAL vs. SAN W 44 30 13 22 59.1 0 0 - 4 7 57.1 4 5 9 5 3 2 3 0 -
+p183
+aVVlade Divac LAL 03/17/1991 LAL vs. SAN W 27 9 4 7 57.1 1 1 100.0 0 2 0.0 3 4 7 1 2 0 0 5 -
+p184
+aVIrving Thomas LAL 03/15/1991 LAL vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p185
+aVVlade Divac LAL 03/15/1991 LAL vs. DEN W 39 25 8 14 57.1 0 1 0.0 9 12 75.0 4 5 9 2 4 3 3 4 -
+p186
+aVJames Worthy LAL 03/15/1991 LAL vs. DEN W 39 35 16 28 57.1 1 1 100.0 2 4 50.0 0 8 8 10 3 0 2 1 -
+p187
+aVSam Perkins LAL 03/15/1991 LAL vs. DEN W 31 16 7 7 100.0 0 0 - 2 2 100.0 0 7 7 2 2 1 0 3 -
+p188
+aVByron Scott LAL 03/15/1991 LAL vs. DEN W 32 14 6 14 42.9 1 2 50.0 1 2 50.0 0 2 2 2 0 1 1 1 -
+p189
+aVElden Campbell LAL 03/15/1991 LAL vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p190
+aVA.C. Green LAL 03/15/1991 LAL vs. DEN W 24 6 2 5 40.0 1 1 100.0 1 3 33.3 3 3 6 0 1 1 3 1 -
+p191
+aVTony Smith LAL 03/15/1991 LAL vs. DEN W 25 10 3 9 33.3 0 0 - 4 6 66.7 0 2 2 5 0 0 1 2 -
+p192
+aVTerry Teagle LAL 03/15/1991 LAL vs. DEN W 19 7 3 9 33.3 0 0 - 1 1 100.0 4 1 5 0 0 0 0 2 -
+p193
+aVMagic Johnson LAL 03/15/1991 LAL vs. DEN W 28 14 2 4 50.0 0 1 0.0 10 12 83.3 0 3 3 10 1 0 3 2 -
+p194
+aVByron Scott LAL 03/12/1991 LAL @ MIA W 33 21 10 19 52.6 1 3 33.3 0 0 - 2 1 3 4 2 0 1 2 -
+p195
+aVTony Smith LAL 03/12/1991 LAL @ MIA W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p196
+aVVlade Divac LAL 03/12/1991 LAL @ MIA W 36 15 6 9 66.7 0 0 - 3 4 75.0 4 4 8 1 1 2 2 3 -
+p197
+aVMychal Thompson LAL 03/12/1991 LAL @ MIA W 12 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 2 2 -
+p198
+aVTerry Teagle LAL 03/12/1991 LAL @ MIA W 12 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -
+p199
+aVA.C. Green LAL 03/12/1991 LAL @ MIA W 18 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 1 1 1 1 -
+p200
+aVMagic Johnson LAL 03/12/1991 LAL @ MIA W 42 21 4 12 33.3 0 1 0.0 13 14 92.9 1 10 11 14 2 0 5 2 -
+p201
+aVSam Perkins LAL 03/12/1991 LAL @ MIA W 38 16 8 14 57.1 0 0 - 0 0 - 2 5 7 1 1 1 2 5 -
+p202
+aVJames Worthy LAL 03/12/1991 LAL @ MIA W 40 17 5 17 29.4 0 1 0.0 7 8 87.5 2 3 5 2 3 2 1 2 -
+p203
+aVElden Campbell LAL 03/12/1991 LAL @ MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p204
+aVVlade Divac LAL 03/10/1991 LAL @ ORL W 34 15 5 6 83.3 0 0 - 5 7 71.4 2 13 15 1 2 5 1 5 -
+p205
+aVA.C. Green LAL 03/10/1991 LAL @ ORL W 20 4 1 2 50.0 0 0 - 2 6 33.3 5 6 11 0 0 0 1 2 -
+p206
+aVJames Worthy LAL 03/10/1991 LAL @ ORL W 40 17 8 24 33.3 0 0 - 1 1 100.0 2 0 2 6 3 1 1 1 -
+p207
+aVTerry Teagle LAL 03/10/1991 LAL @ ORL W 24 17 8 12 66.7 0 0 - 1 1 100.0 2 1 3 0 0 0 1 4 -
+p208
+aVTony Smith LAL 03/10/1991 LAL @ ORL W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 2 3 -
+p209
+aVIrving Thomas LAL 03/10/1991 LAL @ ORL W 2 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -
+p210
+aVElden Campbell LAL 03/10/1991 LAL @ ORL W 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p211
+aVMychal Thompson LAL 03/10/1991 LAL @ ORL W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -
+p212
+aVByron Scott LAL 03/10/1991 LAL @ ORL W 30 14 6 15 40.0 1 3 33.3 1 2 50.0 1 1 2 0 0 0 0 1 -
+p213
+aVSam Perkins LAL 03/10/1991 LAL @ ORL W 33 20 8 13 61.5 0 0 - 4 6 66.7 2 7 9 1 0 1 2 4 -
+p214
+aVMagic Johnson LAL 03/10/1991 LAL @ ORL W 36 18 6 10 60.0 1 4 25.0 5 6 83.3 1 4 5 12 1 0 4 1 -
+p215
+aVTony Smith LAL 03/09/1991 LAL @ WAS W 20 9 4 7 57.1 0 0 - 1 1 100.0 2 1 3 4 0 1 1 3 -
+p216
+aVJames Worthy LAL 03/09/1991 LAL @ WAS W 42 14 7 21 33.3 0 1 0.0 0 0 - 0 2 2 1 3 0 0 1 -
+p217
+aVVlade Divac LAL 03/09/1991 LAL @ WAS W 26 10 5 8 62.5 0 0 - 0 0 - 2 4 6 0 1 1 2 2 -
+p218
+aVTerry Teagle LAL 03/09/1991 LAL @ WAS W 15 10 3 11 27.3 0 0 - 4 4 100.0 2 0 2 0 0 0 1 2 -
+p219
+aVSam Perkins LAL 03/09/1991 LAL @ WAS W 18 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 4 -
+p220
+aVByron Scott LAL 03/09/1991 LAL @ WAS W 27 8 4 11 36.4 0 0 - 0 0 - 0 2 2 0 4 0 0 0 -
+p221
+aVMychal Thompson LAL 03/09/1991 LAL @ WAS W 24 2 1 2 50.0 0 0 - 0 0 - 1 6 7 1 1 0 1 1 -
+p222
+aVMagic Johnson LAL 03/09/1991 LAL @ WAS W 34 25 8 14 57.1 3 4 75.0 6 8 75.0 1 9 10 8 1 1 2 1 -
+p223
+aVA.C. Green LAL 03/09/1991 LAL @ WAS W 34 5 2 7 28.6 0 1 0.0 1 1 100.0 4 7 11 0 1 0 0 2 -
+p224
+aVTerry Teagle LAL 03/07/1991 LAL @ MIL L 24 12 3 8 37.5 0 1 0.0 6 6 100.0 1 4 5 0 0 2 3 5 -
+p225
+aVByron Scott LAL 03/07/1991 LAL @ MIL L 27 9 3 9 33.3 1 3 33.3 2 2 100.0 0 2 2 1 3 0 2 1 -
+p226
+aVSam Perkins LAL 03/07/1991 LAL @ MIL L 32 6 2 5 40.0 0 1 0.0 2 2 100.0 2 5 7 1 0 0 1 4 -
+p227
+aVMagic Johnson LAL 03/07/1991 LAL @ MIL L 33 8 3 12 25.0 0 1 0.0 2 3 66.7 0 5 5 9 1 1 4 1 -
+p228
+aVTony Smith LAL 03/07/1991 LAL @ MIL L 21 12 5 6 83.3 0 1 0.0 2 2 100.0 2 3 5 5 0 0 0 0 -
+p229
+aVJames Worthy LAL 03/07/1991 LAL @ MIL L 41 26 11 21 52.4 0 1 0.0 4 4 100.0 1 4 5 2 2 1 1 0 -
+p230
+aVVlade Divac LAL 03/07/1991 LAL @ MIL L 23 8 3 7 42.9 0 0 - 2 4 50.0 3 4 7 0 1 2 4 3 -
+p231
+aVLarry Drew LAL 03/07/1991 LAL @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p232
+aVA.C. Green LAL 03/07/1991 LAL @ MIL L 38 13 4 7 57.1 0 1 0.0 5 6 83.3 5 4 9 0 0 0 2 2 -
+p233
+aVTony Smith LAL 03/05/1991 LAL @ MIN L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p234
+aVMagic Johnson LAL 03/05/1991 LAL @ MIN L 44 32 9 20 45.0 0 4 0.0 14 14 100.0 1 5 6 9 1 0 4 2 -
+p235
+aVSam Perkins LAL 03/05/1991 LAL @ MIN L 39 10 4 11 36.4 0 1 0.0 2 2 100.0 1 4 5 2 3 1 3 4 -
+p236
+aVVlade Divac LAL 03/05/1991 LAL @ MIN L 27 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 0 0 3 2 -
+p237
+aVJames Worthy LAL 03/05/1991 LAL @ MIN L 40 18 8 18 44.4 1 3 33.3 1 2 50.0 1 6 7 7 0 2 3 1 -
+p238
+aVA.C. Green LAL 03/05/1991 LAL @ MIN L 18 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -
+p239
+aVMychal Thompson LAL 03/05/1991 LAL @ MIN L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 -
+p240
+aVByron Scott LAL 03/05/1991 LAL @ MIN L 35 10 4 12 33.3 1 1 100.0 1 1 100.0 2 1 3 0 2 0 0 4 -
+p241
+aVElden Campbell LAL 03/05/1991 LAL @ MIN L 5 1 0 0 - 0 0 - 1 2 50.0 2 0 2 0 0 0 1 1 -
+p242
+aVTerry Teagle LAL 03/05/1991 LAL @ MIN L 18 2 0 3 0.0 0 0 - 2 3 66.7 0 1 1 0 1 0 0 2 -
+p243
+aVByron Scott LAL 03/03/1991 LAL vs. HOU L 32 8 4 13 30.8 0 3 0.0 0 0 - 0 0 0 3 0 0 1 3 -
+p244
+aVTony Smith LAL 03/03/1991 LAL vs. HOU L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -
+p245
+aVVlade Divac LAL 03/03/1991 LAL vs. HOU L 36 23 8 11 72.7 1 1 100.0 6 7 85.7 4 4 8 1 0 0 3 3 -
+p246
+aVJames Worthy LAL 03/03/1991 LAL vs. HOU L 39 21 8 17 47.1 1 3 33.3 4 6 66.7 3 7 10 7 1 1 4 3 -
+p247
+aVA.C. Green LAL 03/03/1991 LAL vs. HOU L 16 0 0 4 0.0 0 0 - 0 0 - 2 3 5 1 0 0 1 0 -
+p248
+aVMagic Johnson LAL 03/03/1991 LAL vs. HOU L 41 18 5 11 45.5 0 1 0.0 8 8 100.0 1 5 6 8 2 0 5 5 -
+p249
+aVSam Perkins LAL 03/03/1991 LAL vs. HOU L 25 6 2 7 28.6 0 1 0.0 2 2 100.0 0 4 4 1 1 1 0 3 -
+p250
+aVTerry Teagle LAL 03/03/1991 LAL vs. HOU L 19 11 4 14 28.6 0 1 0.0 3 3 100.0 4 0 4 0 0 0 1 2 -
+p251
+aVMychal Thompson LAL 03/03/1991 LAL vs. HOU L 25 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 1 0 1 0 0 -
+p252
+aVMychal Thompson LAL 03/01/1991 LAL vs. ORL W 20 8 3 4 75.0 0 0 - 2 3 66.7 1 4 5 0 0 0 0 2 -
+p253
+aVElden Campbell LAL 03/01/1991 LAL vs. ORL W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 4 0 1 -
+p254
+aVA.C. Green LAL 03/01/1991 LAL vs. ORL W 35 19 8 12 66.7 0 0 - 3 5 60.0 5 4 9 1 0 0 1 0 -
+p255
+aVTerry Teagle LAL 03/01/1991 LAL vs. ORL W 26 18 8 17 47.1 0 0 - 2 2 100.0 0 1 1 6 4 0 0 1 -
+p256
+aVTony Smith LAL 03/01/1991 LAL vs. ORL W 17 6 3 8 37.5 0 1 0.0 0 0 - 2 1 3 4 2 1 2 3 -
+p257
+aVMagic Johnson LAL 03/01/1991 LAL vs. ORL W 33 26 8 17 47.1 2 3 66.7 8 9 88.9 3 5 8 9 1 0 4 3 -
+p258
+aVLarry Drew LAL 03/01/1991 LAL vs. ORL W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p259
+aVByron Scott LAL 03/01/1991 LAL vs. ORL W 28 6 2 10 20.0 0 3 0.0 2 2 100.0 0 2 2 2 3 0 0 1 -
+p260
+aVVlade Divac LAL 03/01/1991 LAL vs. ORL W 28 12 5 9 55.6 0 1 0.0 2 2 100.0 3 9 12 1 0 3 1 2 -
+p261
+aVIrving Thomas LAL 03/01/1991 LAL vs. ORL W 4 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -
+p262
+aVJames Worthy LAL 03/01/1991 LAL vs. ORL W 38 14 7 14 50.0 0 1 0.0 0 1 0.0 3 2 5 6 0 0 0 3 -
+p263
+aVA.C. Green LAL 02/28/1991 LAL @ DEN W 28 12 4 8 50.0 0 0 - 4 4 100.0 4 5 9 1 2 0 2 2 -
+p264
+aVMychal Thompson LAL 02/28/1991 LAL @ DEN W 14 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 0 0 0 -
+p265
+aVMagic Johnson LAL 02/28/1991 LAL @ DEN W 37 18 4 9 44.4 1 1 100.0 9 9 100.0 1 4 5 14 1 0 4 1 -
+p266
+aVIrving Thomas LAL 02/28/1991 LAL @ DEN W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p267
+aVVlade Divac LAL 02/28/1991 LAL @ DEN W 31 17 7 11 63.6 0 0 - 3 7 42.9 5 8 13 1 2 2 2 1 -
+p268
+aVByron Scott LAL 02/28/1991 LAL @ DEN W 29 17 7 12 58.3 1 2 50.0 2 2 100.0 0 1 1 0 3 0 1 1 -
+p269
+aVTerry Teagle LAL 02/28/1991 LAL @ DEN W 21 23 9 15 60.0 0 0 - 5 6 83.3 1 1 2 0 1 0 1 1 -
+p270
+aVElden Campbell LAL 02/28/1991 LAL @ DEN W 19 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 3 5 -
+p271
+aVJames Worthy LAL 02/28/1991 LAL @ DEN W 29 17 8 13 61.5 0 0 - 1 2 50.0 1 2 3 3 4 0 3 1 -
+p272
+aVTony Smith LAL 02/28/1991 LAL @ DEN W 26 8 3 12 25.0 0 0 - 2 2 100.0 2 2 4 4 1 1 4 1 -
+p273
+aVLarry Drew LAL 02/28/1991 LAL @ DEN W 3 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 1 0 -
+p274
+aVByron Scott LAL 02/25/1991 LAL @ PHL L 38 19 9 14 64.3 1 3 33.3 0 0 - 1 4 5 1 1 0 0 1 -
+p275
+aVA.C. Green LAL 02/25/1991 LAL @ PHL L 32 8 3 12 25.0 0 0 - 2 2 100.0 3 3 6 0 1 0 1 3 -
+p276
+aVTony Smith LAL 02/25/1991 LAL @ PHL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -
+p277
+aVMychal Thompson LAL 02/25/1991 LAL @ PHL L 24 8 4 8 50.0 0 0 - 0 0 - 5 3 8 0 1 0 0 3 -
+p278
+aVJames Worthy LAL 02/25/1991 LAL @ PHL L 41 17 8 23 34.8 0 0 - 1 2 50.0 4 4 8 7 0 0 3 1 -
+p279
+aVMagic Johnson LAL 02/25/1991 LAL @ PHL L 43 16 4 6 66.7 2 3 66.7 6 8 75.0 2 5 7 13 1 2 3 0 -
+p280
+aVVlade Divac LAL 02/25/1991 LAL @ PHL L 37 14 7 14 50.0 0 0 - 0 0 - 7 9 16 1 0 3 2 3 -
+p281
+aVTerry Teagle LAL 02/25/1991 LAL @ PHL L 20 8 4 12 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p282
+aVMychal Thompson LAL 02/24/1991 LAL @ DET W 30 7 3 4 75.0 0 0 - 1 2 50.0 0 5 5 1 0 0 1 3 -
+p283
+aVA.C. Green LAL 02/24/1991 LAL @ DET W 38 14 3 6 50.0 0 0 - 8 10 80.0 4 5 9 0 1 1 0 1 -
+p284
+aVVlade Divac LAL 02/24/1991 LAL @ DET W 22 2 1 1 100.0 0 0 - 0 2 0.0 0 4 4 1 2 2 1 4 -
+p285
+aVElden Campbell LAL 02/24/1991 LAL @ DET W 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -
+p286
+aVMagic Johnson LAL 02/24/1991 LAL @ DET W 47 31 11 18 61.1 2 3 66.7 7 9 77.8 1 7 8 11 3 0 3 1 -
+p287
+aVByron Scott LAL 02/24/1991 LAL @ DET W 37 10 4 9 44.4 0 3 0.0 2 2 100.0 1 2 3 1 0 0 0 2 -
+p288
+aVTerry Teagle LAL 02/24/1991 LAL @ DET W 20 6 3 10 30.0 0 0 - 0 0 - 0 4 4 2 0 0 3 2 -
+p289
+aVTony Smith LAL 02/24/1991 LAL @ DET W 6 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 2 0 0 1 1 -
+p290
+aVJames Worthy LAL 02/24/1991 LAL @ DET W 49 29 14 27 51.9 0 1 0.0 1 6 16.7 1 4 5 2 2 0 0 3 -
+p291
+aVVlade Divac LAL 02/22/1991 LAL @ ATL L 30 10 2 2 100.0 0 0 - 6 7 85.7 1 7 8 2 1 0 1 6 -
+p292
+aVJames Worthy LAL 02/22/1991 LAL @ ATL L 42 23 9 24 37.5 0 1 0.0 5 5 100.0 1 2 3 5 0 0 2 2 -
+p293
+aVMagic Johnson LAL 02/22/1991 LAL @ ATL L 36 24 7 12 58.3 0 3 0.0 10 11 90.9 2 7 9 9 1 0 8 5 -
+p294
+aVTerry Teagle LAL 02/22/1991 LAL @ ATL L 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p295
+aVMychal Thompson LAL 02/22/1991 LAL @ ATL L 35 12 5 8 62.5 0 0 - 2 4 50.0 1 3 4 1 1 0 2 2 -
+p296
+aVElden Campbell LAL 02/22/1991 LAL @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p297
+aVTony Smith LAL 02/22/1991 LAL @ ATL L 12 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 1 3 1 -
+p298
+aVA.C. Green LAL 02/22/1991 LAL @ ATL L 35 9 4 9 44.4 0 3 0.0 1 2 50.0 4 2 6 0 2 0 0 1 -
+p299
+aVByron Scott LAL 02/22/1991 LAL @ ATL L 39 16 6 14 42.9 1 4 25.0 3 4 75.0 1 3 4 7 2 0 2 2 -
+p300
+aVMagic Johnson LAL 02/21/1991 LAL @ DAL W 39 21 6 12 50.0 2 6 33.3 7 7 100.0 1 9 10 12 0 1 3 3 -
+p301
+aVVlade Divac LAL 02/21/1991 LAL @ DAL W 36 20 8 11 72.7 1 1 100.0 3 4 75.0 1 8 9 1 2 1 0 2 -
+p302
+aVTerry Teagle LAL 02/21/1991 LAL @ DAL W 18 4 2 9 22.2 0 0 - 0 2 0.0 1 1 2 0 1 0 2 1 -
+p303
+aVMychal Thompson LAL 02/21/1991 LAL @ DAL W 21 3 1 6 16.7 0 0 - 1 2 50.0 2 5 7 0 3 0 1 0 -
+p304
+aVByron Scott LAL 02/21/1991 LAL @ DAL W 30 20 8 13 61.5 1 2 50.0 3 4 75.0 0 1 1 3 1 1 2 3 -
+p305
+aVA.C. Green LAL 02/21/1991 LAL @ DAL W 40 20 4 8 50.0 0 0 - 12 13 92.3 2 4 6 1 1 0 2 2 -
+p306
+aVJames Worthy LAL 02/21/1991 LAL @ DAL W 37 15 6 10 60.0 0 1 0.0 3 4 75.0 1 5 6 5 3 0 2 0 -
+p307
+aVTony Smith LAL 02/21/1991 LAL @ DAL W 17 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 1 1 1 3 2 -
+p308
+aVElden Campbell LAL 02/21/1991 LAL @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p309
+aVA.C. Green LAL 02/19/1991 LAL @ HOU W 17 12 5 8 62.5 1 2 50.0 1 2 50.0 1 1 2 0 0 0 1 1 -
+p310
+aVMagic Johnson LAL 02/19/1991 LAL @ HOU W 44 18 7 17 41.2 1 4 25.0 3 3 100.0 4 6 10 17 0 0 5 1 -
+p311
+aVJames Worthy LAL 02/19/1991 LAL @ HOU W 43 27 8 21 38.1 1 1 100.0 10 10 100.0 1 4 5 3 0 0 1 2 -
+p312
+aVByron Scott LAL 02/19/1991 LAL @ HOU W 34 15 5 12 41.7 2 3 66.7 3 4 75.0 2 1 3 1 1 0 1 1 -
+p313
+aVTerry Teagle LAL 02/19/1991 LAL @ HOU W 18 12 5 8 62.5 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 -
+p314
+aVMychal Thompson LAL 02/19/1991 LAL @ HOU W 37 15 7 13 53.8 0 0 - 1 3 33.3 3 13 16 1 1 0 0 5 -
+p315
+aVVlade Divac LAL 02/19/1991 LAL @ HOU W 41 9 3 5 60.0 0 0 - 3 5 60.0 4 5 9 0 1 1 1 4 -
+p316
+aVTony Smith LAL 02/19/1991 LAL @ HOU W 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p317
+aVByron Scott LAL 02/17/1991 LAL vs. POR W 34 17 7 14 50.0 2 5 40.0 1 2 50.0 1 2 3 5 0 0 1 0 -
+p318
+aVSam Perkins LAL 02/17/1991 LAL vs. POR W 41 13 4 8 50.0 0 1 0.0 5 6 83.3 2 10 12 1 1 1 0 3 -
+p319
+aVTerry Teagle LAL 02/17/1991 LAL vs. POR W 17 4 2 6 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -
+p320
+aVMagic Johnson LAL 02/17/1991 LAL vs. POR W 39 24 8 14 57.1 1 4 25.0 7 8 87.5 2 6 8 16 0 0 4 3 -
+p321
+aVTony Smith LAL 02/17/1991 LAL vs. POR W 10 8 2 3 66.7 0 0 - 4 4 100.0 0 1 1 3 1 0 2 1 -
+p322
+aVMychal Thompson LAL 02/17/1991 LAL vs. POR W 14 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -
+p323
+aVJames Worthy LAL 02/17/1991 LAL vs. POR W 42 30 14 26 53.8 0 0 - 2 3 66.7 3 4 7 4 2 1 2 3 -
+p324
+aVVlade Divac LAL 02/17/1991 LAL vs. POR W 25 4 2 8 25.0 0 0 - 0 0 - 1 5 6 0 1 2 2 2 -
+p325
+aVA.C. Green LAL 02/17/1991 LAL vs. POR W 18 4 1 4 25.0 0 0 - 2 4 50.0 2 6 8 1 0 0 1 2 -
+p326
+aVA.C. Green LAL 02/15/1991 LAL vs. BOS L 30 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -
+p327
+aVMagic Johnson LAL 02/15/1991 LAL vs. BOS L 41 21 7 13 53.8 1 4 25.0 6 8 75.0 3 6 9 16 1 1 2 1 -
+p328
+aVJames Worthy LAL 02/15/1991 LAL vs. BOS L 41 23 10 19 52.6 0 1 0.0 3 6 50.0 1 4 5 5 0 0 3 0 -
+p329
+aVTerry Teagle LAL 02/15/1991 LAL vs. BOS L 22 12 6 13 46.2 0 0 - 0 0 - 3 1 4 0 0 0 0 3 -
+p330
+aVByron Scott LAL 02/15/1991 LAL vs. BOS L 32 4 2 9 22.2 0 2 0.0 0 0 - 1 3 4 2 0 0 0 1 -
+p331
+aVElden Campbell LAL 02/15/1991 LAL vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p332
+aVSam Perkins LAL 02/15/1991 LAL vs. BOS L 24 7 3 10 30.0 0 4 0.0 1 2 50.0 1 4 5 0 1 0 3 2 -
+p333
+aVMychal Thompson LAL 02/15/1991 LAL vs. BOS L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 0 -
+p334
+aVTony Smith LAL 02/15/1991 LAL vs. BOS L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -
+p335
+aVVlade Divac LAL 02/15/1991 LAL vs. BOS L 32 10 4 10 40.0 0 0 - 2 3 66.7 2 9 11 1 1 1 1 5 -
+p336
+aVVlade Divac LAL 02/13/1991 LAL vs. MIN W 42 18 9 12 75.0 0 0 - 0 0 - 3 10 13 3 4 6 2 1 -
+p337
+aVByron Scott LAL 02/13/1991 LAL vs. MIN W 40 13 6 13 46.2 1 1 100.0 0 1 0.0 1 3 4 4 2 0 3 1 -
+p338
+aVElden Campbell LAL 02/13/1991 LAL vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p339
+aVMychal Thompson LAL 02/13/1991 LAL vs. MIN W 7 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 1 0 2 -
+p340
+aVIrving Thomas LAL 02/13/1991 LAL vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p341
+aVJames Worthy LAL 02/13/1991 LAL vs. MIN W 37 20 10 16 62.5 0 0 - 0 0 - 7 2 9 4 0 0 2 4 -
+p342
+aVTerry Teagle LAL 02/13/1991 LAL vs. MIN W 21 24 9 14 64.3 0 0 - 6 6 100.0 1 2 3 0 0 0 1 5 -
+p343
+aVTony Smith LAL 02/13/1991 LAL vs. MIN W 21 11 4 7 57.1 0 0 - 3 4 75.0 0 0 0 6 2 0 2 1 -
+p344
+aVMagic Johnson LAL 02/13/1991 LAL vs. MIN W 31 18 5 14 35.7 1 4 25.0 7 7 100.0 2 6 8 14 0 1 2 1 -
+p345
+aVA.C. Green LAL 02/13/1991 LAL vs. MIN W 38 16 6 12 50.0 0 0 - 4 4 100.0 1 4 5 3 1 1 1 2 -
+p346
+aVJames Worthy LAL 02/12/1991 LAL @ PHX L 41 21 10 22 45.5 0 1 0.0 1 2 50.0 1 4 5 4 1 0 3 0 -
+p347
+aVByron Scott LAL 02/12/1991 LAL @ PHX L 29 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 0 2 0 1 3 -
+p348
+aVVlade Divac LAL 02/12/1991 LAL @ PHX L 30 4 2 4 50.0 0 0 - 0 0 - 3 6 9 3 0 2 1 4 -
+p349
+aVA.C. Green LAL 02/12/1991 LAL @ PHX L 31 12 4 10 40.0 0 1 0.0 4 5 80.0 2 7 9 0 0 0 0 3 -
+p350
+aVMychal Thompson LAL 02/12/1991 LAL @ PHX L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p351
+aVMagic Johnson LAL 02/12/1991 LAL @ PHX L 40 14 4 7 57.1 2 4 50.0 4 4 100.0 0 3 3 15 1 0 6 3 -
+p352
+aVTerry Teagle LAL 02/12/1991 LAL @ PHX L 19 8 4 8 50.0 0 0 - 0 0 - 0 0 0 4 0 0 0 1 -
+p353
+aVTony Smith LAL 02/12/1991 LAL @ PHX L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p354
+aVSam Perkins LAL 02/12/1991 LAL @ PHX L 35 26 10 15 66.7 0 0 - 6 7 85.7 4 2 6 0 0 1 6 3 -
+p355
+aVSam Perkins LAL 02/05/1991 LAL vs. LAC W 35 6 3 6 50.0 0 0 - 0 0 - 1 6 7 3 1 2 2 2 -
+p356
+aVByron Scott LAL 02/05/1991 LAL vs. LAC W 34 21 8 13 61.5 3 4 75.0 2 2 100.0 0 1 1 3 2 2 2 1 -
+p357
+aVTony Smith LAL 02/05/1991 LAL vs. LAC W 18 6 3 6 50.0 0 0 - 0 0 - 2 1 3 8 3 0 2 1 -
+p358
+aVTerry Teagle LAL 02/05/1991 LAL vs. LAC W 14 6 3 7 42.9 0 0 - 0 0 - 0 1 1 3 1 0 0 2 -
+p359
+aVVlade Divac LAL 02/05/1991 LAL vs. LAC W 38 18 6 8 75.0 0 0 - 6 8 75.0 4 7 11 1 3 0 4 3 -
+p360
+aVMagic Johnson LAL 02/05/1991 LAL vs. LAC W 30 22 7 9 77.8 2 4 50.0 6 6 100.0 0 4 4 13 2 0 5 1 -
+p361
+aVMychal Thompson LAL 02/05/1991 LAL vs. LAC W 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -
+p362
+aVA.C. Green LAL 02/05/1991 LAL vs. LAC W 25 11 4 8 50.0 0 1 0.0 3 5 60.0 1 4 5 0 0 0 1 1 -
+p363
+aVJames Worthy LAL 02/05/1991 LAL vs. LAC W 36 24 9 16 56.3 1 2 50.0 5 5 100.0 0 0 0 2 0 0 1 4 -
+p364
+aVMagic Johnson LAL 02/03/1991 LAL vs. CHI W 31 7 2 4 50.0 2 3 66.7 1 1 100.0 1 6 7 11 0 0 5 3 -
+p365
+aVTerry Teagle LAL 02/03/1991 LAL vs. CHI W 21 16 7 13 53.8 0 0 - 2 3 66.7 1 3 4 1 0 0 1 2 -
+p366
+aVTony Smith LAL 02/03/1991 LAL vs. CHI W 17 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -
+p367
+aVVlade Divac LAL 02/03/1991 LAL vs. CHI W 36 12 6 11 54.5 0 0 - 0 0 - 4 9 13 3 0 2 0 0 -
+p368
+aVA.C. Green LAL 02/03/1991 LAL vs. CHI W 40 12 4 11 36.4 0 2 0.0 4 4 100.0 6 5 11 0 0 0 1 3 -
+p369
+aVByron Scott LAL 02/03/1991 LAL vs. CHI W 27 18 5 10 50.0 2 2 100.0 6 6 100.0 0 2 2 1 1 0 1 3 -
+p370
+aVMychal Thompson LAL 02/03/1991 LAL vs. CHI W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p371
+aVSam Perkins LAL 02/03/1991 LAL vs. CHI W 36 14 4 11 36.4 0 1 0.0 6 6 100.0 2 5 7 0 1 3 1 1 -
+p372
+aVJames Worthy LAL 02/03/1991 LAL vs. CHI W 28 12 6 17 35.3 0 1 0.0 0 0 - 0 4 4 3 0 0 0 1 -
+p373
+aVVlade Divac LAL 02/01/1991 LAL @ LAC W 28 14 5 8 62.5 0 0 - 4 4 100.0 5 6 11 0 2 1 1 3 -
+p374
+aVMagic Johnson LAL 02/01/1991 LAL @ LAC W 39 30 9 17 52.9 2 5 40.0 10 12 83.3 0 8 8 10 0 0 2 3 -
+p375
+aVByron Scott LAL 02/01/1991 LAL @ LAC W 35 17 8 15 53.3 1 2 50.0 0 0 - 2 0 2 3 3 0 1 1 -
+p376
+aVA.C. Green LAL 02/01/1991 LAL @ LAC W 37 10 2 8 25.0 0 3 0.0 6 10 60.0 3 9 12 1 1 3 4 2 -
+p377
+aVTony Smith LAL 02/01/1991 LAL @ LAC W 9 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 2 0 0 2 2 -
+p378
+aVIrving Thomas LAL 02/01/1991 LAL @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p379
+aVTerry Teagle LAL 02/01/1991 LAL @ LAC W 13 10 4 7 57.1 0 0 - 2 4 50.0 0 2 2 1 0 0 1 1 -
+p380
+aVSam Perkins LAL 02/01/1991 LAL @ LAC W 41 8 3 8 37.5 0 0 - 2 2 100.0 2 4 6 3 1 1 2 3 -
+p381
+aVJames Worthy LAL 02/01/1991 LAL @ LAC W 19 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 1 0 1 2 2 -
+p382
+aVMychal Thompson LAL 02/01/1991 LAL @ LAC W 18 7 3 7 42.9 0 0 - 1 3 33.3 3 1 4 0 1 0 1 1 -
+p383
+aVA.C. Green LAL 01/31/1991 LAL vs. ATL W 39 20 8 11 72.7 2 4 50.0 2 2 100.0 6 8 14 3 1 1 4 3 -
+p384
+aVElden Campbell LAL 01/31/1991 LAL vs. ATL W 5 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -
+p385
+aVMagic Johnson LAL 01/31/1991 LAL vs. ATL W 29 7 3 8 37.5 1 3 33.3 0 0 - 1 7 8 12 0 0 4 1 -
+p386
+aVSam Perkins LAL 01/31/1991 LAL vs. ATL W 37 13 5 15 33.3 0 1 0.0 3 4 75.0 2 5 7 4 1 1 1 4 -
+p387
+aVTony Smith LAL 01/31/1991 LAL vs. ATL W 19 8 4 6 66.7 0 0 - 0 0 - 0 3 3 6 2 0 3 3 -
+p388
+aVIrving Thomas LAL 01/31/1991 LAL vs. ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -
+p389
+aVTerry Teagle LAL 01/31/1991 LAL vs. ATL W 23 15 6 14 42.9 0 0 - 3 3 100.0 3 1 4 2 1 0 2 5 -
+p390
+aVVlade Divac LAL 01/31/1991 LAL vs. ATL W 23 13 6 10 60.0 0 0 - 1 2 50.0 4 7 11 2 1 2 4 4 -
+p391
+aVByron Scott LAL 01/31/1991 LAL vs. ATL W 29 17 6 10 60.0 0 1 0.0 5 6 83.3 1 4 5 1 0 0 1 3 -
+p392
+aVMychal Thompson LAL 01/31/1991 LAL vs. ATL W 33 19 7 11 63.6 0 0 - 5 6 83.3 2 3 5 0 1 2 2 4 -
+p393
+aVByron Scott LAL 01/29/1991 LAL vs. NJN W 24 15 7 15 46.7 1 2 50.0 0 0 - 2 3 5 1 2 0 0 3 -
+p394
+aVA.C. Green LAL 01/29/1991 LAL vs. NJN W 29 19 6 9 66.7 1 1 100.0 6 11 54.5 5 3 8 0 1 0 4 2 -
+p395
+aVTerry Teagle LAL 01/29/1991 LAL vs. NJN W 24 12 4 12 33.3 0 0 - 4 4 100.0 3 2 5 1 0 0 2 2 -
+p396
+aVMagic Johnson LAL 01/29/1991 LAL vs. NJN W 23 14 4 7 57.1 1 1 100.0 5 5 100.0 1 5 6 7 0 1 2 1 -
+p397
+aVIrving Thomas LAL 01/29/1991 LAL vs. NJN W 17 4 1 6 16.7 0 0 - 2 4 50.0 1 4 5 1 0 0 0 3 -
+p398
+aVSam Perkins LAL 01/29/1991 LAL vs. NJN W 18 4 1 4 25.0 0 0 - 2 2 100.0 2 4 6 2 1 0 0 4 -
+p399
+aVTony Smith LAL 01/29/1991 LAL vs. NJN W 25 7 2 9 22.2 0 1 0.0 3 4 75.0 0 2 2 5 2 0 1 1 -
+p400
+aVElden Campbell LAL 01/29/1991 LAL vs. NJN W 21 7 3 9 33.3 0 0 - 1 2 50.0 3 4 7 2 0 4 0 4 -
+p401
+aVVlade Divac LAL 01/29/1991 LAL vs. NJN W 28 10 2 7 28.6 0 1 0.0 6 8 75.0 3 8 11 3 2 2 5 2 -
+p402
+aVLarry Drew LAL 01/29/1991 LAL vs. NJN W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -
+p403
+aVMychal Thompson LAL 01/29/1991 LAL vs. NJN W 22 18 8 12 66.7 0 0 - 2 2 100.0 1 3 4 0 2 3 0 3 -
+p404
+aVSam Perkins LAL 01/27/1991 LAL @ BOS W 38 18 7 13 53.8 1 2 50.0 3 4 75.0 2 7 9 2 1 0 0 3 -
+p405
+aVMagic Johnson LAL 01/27/1991 LAL @ BOS W 38 22 9 16 56.3 1 4 25.0 3 3 100.0 1 8 9 15 2 0 6 2 -
+p406
+aVA.C. Green LAL 01/27/1991 LAL @ BOS W 38 12 5 7 71.4 0 0 - 2 2 100.0 1 8 9 1 1 0 0 0 -
+p407
+aVByron Scott LAL 01/27/1991 LAL @ BOS W 34 12 6 15 40.0 0 3 0.0 0 0 - 0 0 0 3 3 0 1 3 -
+p408
+aVTony Smith LAL 01/27/1991 LAL @ BOS W 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 2 3 -
+p409
+aVIrving Thomas LAL 01/27/1991 LAL @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p410
+aVVlade Divac LAL 01/27/1991 LAL @ BOS W 28 16 7 12 58.3 0 1 0.0 2 2 100.0 2 1 3 2 0 0 0 0 -
+p411
+aVElden Campbell LAL 01/27/1991 LAL @ BOS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p412
+aVMychal Thompson LAL 01/27/1991 LAL @ BOS W 30 17 6 7 85.7 0 0 - 5 5 100.0 4 0 4 0 0 0 0 5 -
+p413
+aVTerry Teagle LAL 01/27/1991 LAL @ BOS W 21 5 2 7 28.6 0 1 0.0 1 2 50.0 0 1 1 5 2 0 2 1 -
+p414
+aVSam Perkins LAL 01/25/1991 LAL @ NJN W 43 12 6 14 42.9 0 0 - 0 2 0.0 2 6 8 2 1 1 2 2 -
+p415
+aVJames Worthy LAL 01/25/1991 LAL @ NJN W 40 23 9 18 50.0 0 0 - 5 6 83.3 1 2 3 3 0 0 0 1 -
+p416
+aVTerry Teagle LAL 01/25/1991 LAL @ NJN W 14 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -
+p417
+aVTony Smith LAL 01/25/1991 LAL @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p418
+aVMychal Thompson LAL 01/25/1991 LAL @ NJN W 20 4 2 2 100.0 0 0 - 0 0 - 2 4 6 0 0 0 1 2 -
+p419
+aVMagic Johnson LAL 01/25/1991 LAL @ NJN W 50 22 3 13 23.1 1 3 33.3 15 16 93.8 0 8 8 17 4 0 4 5 -
+p420
+aVVlade Divac LAL 01/25/1991 LAL @ NJN W 32 19 7 10 70.0 0 0 - 5 8 62.5 5 6 11 0 2 3 1 2 -
+p421
+aVA.C. Green LAL 01/25/1991 LAL @ NJN W 23 6 1 4 25.0 0 0 - 4 4 100.0 2 5 7 0 0 0 3 1 -
+p422
+aVByron Scott LAL 01/25/1991 LAL @ NJN W 40 16 8 13 61.5 0 2 0.0 0 0 - 1 2 3 0 1 1 2 1 -
+p423
+aVIrving Thomas LAL 01/24/1991 LAL @ CHH W 7 0 0 4 0.0 0 0 - 0 0 - 1 2 3 1 0 1 0 1 -
+p424
+aVVlade Divac LAL 01/24/1991 LAL @ CHH W 31 9 4 7 57.1 0 0 - 1 2 50.0 2 7 9 2 3 3 4 3 -
+p425
+aVTerry Teagle LAL 01/24/1991 LAL @ CHH W 21 12 6 9 66.7 0 0 - 0 0 - 1 1 2 0 1 1 4 3 -
+p426
+aVElden Campbell LAL 01/24/1991 LAL @ CHH W 11 12 3 3 100.0 0 0 - 6 6 100.0 0 2 2 0 0 0 0 2 -
+p427
+aVMagic Johnson LAL 01/24/1991 LAL @ CHH W 29 19 7 9 77.8 3 4 75.0 2 2 100.0 0 6 6 17 1 0 5 1 -
+p428
+aVJames Worthy LAL 01/24/1991 LAL @ CHH W 28 24 11 14 78.6 1 2 50.0 1 1 100.0 0 4 4 7 3 1 0 0 -
+p429
+aVA.C. Green LAL 01/24/1991 LAL @ CHH W 21 3 1 3 33.3 0 1 0.0 1 2 50.0 1 6 7 1 1 0 1 0 -
+p430
+aVLarry Drew LAL 01/24/1991 LAL @ CHH W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p431
+aVByron Scott LAL 01/24/1991 LAL @ CHH W 25 13 6 11 54.5 0 0 - 1 1 100.0 1 0 1 3 2 0 1 1 -
+p432
+aVSam Perkins LAL 01/24/1991 LAL @ CHH W 26 11 4 7 57.1 1 1 100.0 2 2 100.0 0 5 5 0 0 1 1 2 -
+p433
+aVMychal Thompson LAL 01/24/1991 LAL @ CHH W 17 4 1 1 100.0 0 0 - 2 4 50.0 1 0 1 0 0 1 2 2 -
+p434
+aVTony Smith LAL 01/24/1991 LAL @ CHH W 19 6 3 9 33.3 0 0 - 0 1 0.0 1 2 3 3 0 0 1 0 -
+p435
+aVVlade Divac LAL 01/22/1991 LAL @ ORL W 25 11 4 6 66.7 0 0 - 3 3 100.0 2 4 6 3 0 0 2 4 -
+p436
+aVSam Perkins LAL 01/22/1991 LAL @ ORL W 32 12 5 10 50.0 0 0 - 2 2 100.0 0 9 9 1 1 0 0 2 -
+p437
+aVLarry Drew LAL 01/22/1991 LAL @ ORL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 0 0 -
+p438
+aVElden Campbell LAL 01/22/1991 LAL @ ORL W 8 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 3 -
+p439
+aVJames Worthy LAL 01/22/1991 LAL @ ORL W 31 16 7 14 50.0 0 0 - 2 4 50.0 1 3 4 6 1 0 0 0 -
+p440
+aVMagic Johnson LAL 01/22/1991 LAL @ ORL W 25 15 4 9 44.4 2 5 40.0 5 5 100.0 0 4 4 8 2 1 2 4 -
+p441
+aVByron Scott LAL 01/22/1991 LAL @ ORL W 30 32 14 19 73.7 2 4 50.0 2 2 100.0 0 2 2 0 1 1 1 0 -
+p442
+aVMychal Thompson LAL 01/22/1991 LAL @ ORL W 20 8 3 7 42.9 0 0 - 2 2 100.0 1 5 6 1 0 1 1 3 -
+p443
+aVA.C. Green LAL 01/22/1991 LAL @ ORL W 20 3 1 7 14.3 0 1 0.0 1 2 50.0 2 1 3 1 0 0 0 1 -
+p444
+aVTony Smith LAL 01/22/1991 LAL @ ORL W 23 9 4 8 50.0 0 0 - 1 1 100.0 0 0 0 6 1 0 2 3 -
+p445
+aVIrving Thomas LAL 01/22/1991 LAL @ ORL W 5 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 1 0 2 2 -
+p446
+aVTerry Teagle LAL 01/22/1991 LAL @ ORL W 18 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -
+p447
+aVTony Smith LAL 01/21/1991 LAL @ IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 3 -
+p448
+aVMagic Johnson LAL 01/21/1991 LAL @ IND W 42 27 8 14 57.1 2 5 40.0 9 10 90.0 1 1 2 15 2 0 2 2 -
+p449
+aVJames Worthy LAL 01/21/1991 LAL @ IND W 40 23 10 22 45.5 0 2 0.0 3 4 75.0 2 1 3 1 1 1 2 3 -
+p450
+aVMychal Thompson LAL 01/21/1991 LAL @ IND W 24 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -
+p451
+aVSam Perkins LAL 01/21/1991 LAL @ IND W 33 23 8 13 61.5 1 2 50.0 6 9 66.7 4 8 12 1 0 1 0 4 -
+p452
+aVVlade Divac LAL 01/21/1991 LAL @ IND W 19 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 0 3 1 3 3 -
+p453
+aVByron Scott LAL 01/21/1991 LAL @ IND W 34 23 10 13 76.9 1 3 33.3 2 2 100.0 1 2 3 3 1 1 0 3 -
+p454
+aVTerry Teagle LAL 01/21/1991 LAL @ IND W 14 8 4 10 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p455
+aVA.C. Green LAL 01/21/1991 LAL @ IND W 28 10 4 9 44.4 0 2 0.0 2 3 66.7 1 2 3 0 1 0 1 3 -
+p456
+aVSam Perkins LAL 01/18/1991 LAL vs. SEA W 26 4 2 9 22.2 0 0 - 0 0 - 3 3 6 0 0 3 0 4 -
+p457
+aVMagic Johnson LAL 01/18/1991 LAL vs. SEA W 44 33 12 14 85.7 0 0 - 9 10 90.0 0 4 4 9 3 0 2 1 -
+p458
+aVVlade Divac LAL 01/18/1991 LAL vs. SEA W 43 20 8 18 44.4 0 0 - 4 5 80.0 4 10 14 1 2 3 2 3 -
+p459
+aVTerry Teagle LAL 01/18/1991 LAL vs. SEA W 7 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -
+p460
+aVTony Smith LAL 01/18/1991 LAL vs. SEA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p461
+aVJames Worthy LAL 01/18/1991 LAL vs. SEA W 41 14 6 16 37.5 0 1 0.0 2 2 100.0 1 2 3 7 0 0 2 0 -
+p462
+aVA.C. Green LAL 01/18/1991 LAL vs. SEA W 34 12 4 7 57.1 0 0 - 4 5 80.0 3 8 11 1 2 1 3 3 -
+p463
+aVByron Scott LAL 01/18/1991 LAL vs. SEA W 41 18 8 17 47.1 0 2 0.0 2 2 100.0 1 1 2 4 2 0 2 4 -
+p464
+aVTony Smith LAL 01/17/1991 LAL @ SAC W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 4 0 0 1 0 -
+p465
+aVSam Perkins LAL 01/17/1991 LAL @ SAC W 39 13 3 9 33.3 0 0 - 7 9 77.8 5 4 9 4 2 0 1 3 -
+p466
+aVMagic Johnson LAL 01/17/1991 LAL @ SAC W 37 9 4 9 44.4 0 2 0.0 1 2 50.0 2 4 6 15 4 1 0 4 -
+p467
+aVVlade Divac LAL 01/17/1991 LAL @ SAC W 33 10 3 9 33.3 0 0 - 4 4 100.0 1 8 9 0 1 2 2 4 -
+p468
+aVTerry Teagle LAL 01/17/1991 LAL @ SAC W 20 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -
+p469
+aVElden Campbell LAL 01/17/1991 LAL @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p470
+aVByron Scott LAL 01/17/1991 LAL @ SAC W 28 8 4 12 33.3 0 1 0.0 0 0 - 1 1 2 2 3 0 1 3 -
+p471
+aVIrving Thomas LAL 01/17/1991 LAL @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p472
+aVJames Worthy LAL 01/17/1991 LAL @ SAC W 39 36 17 29 58.6 2 4 50.0 0 0 - 2 2 4 2 0 1 1 1 -
+p473
+aVA.C. Green LAL 01/17/1991 LAL @ SAC W 29 9 4 7 57.1 1 1 100.0 0 0 - 1 8 9 0 0 0 2 0 -
+p474
+aVJames Worthy LAL 01/15/1991 LAL vs. CHH W 26 12 4 8 50.0 0 1 0.0 4 4 100.0 1 2 3 5 1 0 0 0 -
+p475
+aVIrving Thomas LAL 01/15/1991 LAL vs. CHH W 12 5 1 3 33.3 0 0 - 3 4 75.0 2 4 6 0 1 0 3 2 -
+p476
+aVMagic Johnson LAL 01/15/1991 LAL vs. CHH W 23 9 4 9 44.4 0 0 - 1 1 100.0 2 3 5 10 2 1 3 0 -
+p477
+aVA.C. Green LAL 01/15/1991 LAL vs. CHH W 15 9 4 6 66.7 0 1 0.0 1 2 50.0 2 2 4 4 3 0 2 1 -
+p478
+aVMychal Thompson LAL 01/15/1991 LAL vs. CHH W 20 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 0 0 2 2 -
+p479
+aVTerry Teagle LAL 01/15/1991 LAL vs. CHH W 20 27 10 14 71.4 0 0 - 7 8 87.5 1 0 1 2 2 0 0 1 -
+p480
+aVLarry Drew LAL 01/15/1991 LAL vs. CHH W 12 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 -
+p481
+aVByron Scott LAL 01/15/1991 LAL vs. CHH W 27 12 5 8 62.5 2 2 100.0 0 0 - 0 2 2 1 0 0 0 2 -
+p482
+aVVlade Divac LAL 01/15/1991 LAL vs. CHH W 28 19 8 13 61.5 0 0 - 3 3 100.0 3 9 12 3 0 3 5 3 -
+p483
+aVTony Smith LAL 01/15/1991 LAL vs. CHH W 18 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 7 1 0 1 0 -
+p484
+aVElden Campbell LAL 01/15/1991 LAL vs. CHH W 14 11 4 5 80.0 0 0 - 3 4 75.0 1 1 2 0 1 3 1 6 -
+p485
+aVSam Perkins LAL 01/15/1991 LAL vs. CHH W 25 14 7 9 77.8 0 0 - 0 1 0.0 1 8 9 1 1 3 1 3 -
+p486
+aVTerry Teagle LAL 01/13/1991 LAL vs. HOU W 24 14 7 11 63.6 0 0 - 0 0 - 1 1 2 2 0 0 2 1 -
+p487
+aVTony Smith LAL 01/13/1991 LAL vs. HOU W 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p488
+aVVlade Divac LAL 01/13/1991 LAL vs. HOU W 38 22 9 11 81.8 0 0 - 4 4 100.0 3 8 11 1 1 2 1 1 -
+p489
+aVSam Perkins LAL 01/13/1991 LAL vs. HOU W 31 12 6 13 46.2 0 1 0.0 0 0 - 1 7 8 2 1 1 1 2 -
+p490
+aVIrving Thomas LAL 01/13/1991 LAL vs. HOU W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p491
+aVMychal Thompson LAL 01/13/1991 LAL vs. HOU W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p492
+aVJames Worthy LAL 01/13/1991 LAL vs. HOU W 41 21 9 14 64.3 2 2 100.0 1 2 50.0 1 5 6 4 3 1 1 2 -
+p493
+aVMagic Johnson LAL 01/13/1991 LAL vs. HOU W 38 17 6 15 40.0 0 2 0.0 5 6 83.3 4 5 9 16 1 0 4 2 -
+p494
+aVLarry Drew LAL 01/13/1991 LAL vs. HOU W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 4 0 0 0 0 -
+p495
+aVElden Campbell LAL 01/13/1991 LAL vs. HOU W 1 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p496
+aVA.C. Green LAL 01/13/1991 LAL vs. HOU W 26 11 3 6 50.0 0 0 - 5 6 83.3 1 2 3 4 0 0 2 1 -
+p497
+aVByron Scott LAL 01/13/1991 LAL vs. HOU W 24 12 5 8 62.5 0 2 0.0 2 2 100.0 0 4 4 1 0 0 3 3 -
+p498
+aVElden Campbell LAL 01/11/1991 LAL vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p499
+aVSam Perkins LAL 01/11/1991 LAL vs. CLE W 33 8 3 7 42.9 0 1 0.0 2 3 66.7 1 4 5 1 0 1 2 5 -
+p500
+aVTerry Teagle LAL 01/11/1991 LAL vs. CLE W 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 -
+p501
+aVByron Scott LAL 01/11/1991 LAL vs. CLE W 35 8 4 11 36.4 0 1 0.0 0 0 - 2 1 3 3 1 0 0 3 -
+p502
+aVJames Worthy LAL 01/11/1991 LAL vs. CLE W 40 22 10 21 47.6 0 0 - 2 2 100.0 2 3 5 4 4 0 0 1 -
+p503
+aVMagic Johnson LAL 01/11/1991 LAL vs. CLE W 41 27 7 17 41.2 0 2 0.0 13 13 100.0 4 6 10 14 0 0 9 3 -
+p504
+aVLarry Drew LAL 01/11/1991 LAL vs. CLE W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p505
+aVTony Smith LAL 01/11/1991 LAL vs. CLE W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p506
+aVMychal Thompson LAL 01/11/1991 LAL vs. CLE W 18 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 1 -
+p507
+aVVlade Divac LAL 01/11/1991 LAL vs. CLE W 24 10 3 5 60.0 0 0 - 4 4 100.0 4 7 11 1 1 0 3 5 -
+p508
+aVA.C. Green LAL 01/11/1991 LAL vs. CLE W 28 21 6 11 54.5 1 2 50.0 8 10 80.0 3 3 6 1 0 0 0 1 -
+p509
+aVByron Scott LAL 01/09/1991 LAL vs. UTH W 28 20 9 15 60.0 2 6 33.3 0 0 - 1 2 3 1 2 1 2 1 -
+p510
+aVJames Worthy LAL 01/09/1991 LAL vs. UTH W 32 11 4 17 23.5 0 0 - 3 5 60.0 1 5 6 1 3 2 3 1 -
+p511
+aVA.C. Green LAL 01/09/1991 LAL vs. UTH W 25 15 6 10 60.0 0 2 0.0 3 3 100.0 4 3 7 2 1 0 1 1 -
+p512
+aVVlade Divac LAL 01/09/1991 LAL vs. UTH W 29 16 7 9 77.8 0 0 - 2 2 100.0 3 6 9 0 1 2 0 2 -
+p513
+aVSam Perkins LAL 01/09/1991 LAL vs. UTH W 35 9 3 8 37.5 0 1 0.0 3 4 75.0 6 4 10 3 1 2 2 2 -
+p514
+aVMagic Johnson LAL 01/09/1991 LAL vs. UTH W 30 12 4 9 44.4 1 3 33.3 3 3 100.0 1 3 4 15 2 0 2 1 -
+p515
+aVLarry Drew LAL 01/09/1991 LAL vs. UTH W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 1 0 -
+p516
+aVElden Campbell LAL 01/09/1991 LAL vs. UTH W 7 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 0 -
+p517
+aVTony Smith LAL 01/09/1991 LAL vs. UTH W 4 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p518
+aVIrving Thomas LAL 01/09/1991 LAL vs. UTH W 4 0 0 2 0.0 0 0 - 0 2 0.0 1 1 2 1 0 0 0 1 -
+p519
+aVMychal Thompson LAL 01/09/1991 LAL vs. UTH W 12 8 4 5 80.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -
+p520
+aVTerry Teagle LAL 01/09/1991 LAL vs. UTH W 20 13 6 10 60.0 0 0 - 1 2 50.0 1 0 1 3 0 0 0 1 -
+p521
+aVA.C. Green LAL 01/08/1991 LAL @ SEA L 33 16 8 10 80.0 0 1 0.0 0 0 - 3 3 6 2 0 0 1 2 -
+p522
+aVLarry Drew LAL 01/08/1991 LAL @ SEA L 29 10 3 8 37.5 2 4 50.0 2 2 100.0 0 1 1 6 2 0 1 2 -
+p523
+aVTony Smith LAL 01/08/1991 LAL @ SEA L 19 6 3 7 42.9 0 0 - 0 0 - 0 2 2 2 0 2 3 0 -
+p524
+aVVlade Divac LAL 01/08/1991 LAL @ SEA L 31 2 1 4 25.0 0 1 0.0 0 0 - 2 4 6 3 1 1 4 1 -
+p525
+aVJames Worthy LAL 01/08/1991 LAL @ SEA L 39 21 10 21 47.6 1 1 100.0 0 0 - 0 2 2 3 0 0 1 3 -
+p526
+aVSam Perkins LAL 01/08/1991 LAL @ SEA L 39 10 1 6 16.7 0 1 0.0 8 8 100.0 0 5 5 0 3 0 3 2 -
+p527
+aVByron Scott LAL 01/08/1991 LAL @ SEA L 34 19 6 10 60.0 4 5 80.0 3 5 60.0 0 1 1 1 1 0 2 1 -
+p528
+aVMychal Thompson LAL 01/08/1991 LAL @ SEA L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p529
+aVTerry Teagle LAL 01/08/1991 LAL @ SEA L 14 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p530
+aVTony Smith LAL 01/06/1991 LAL vs. GOS W 27 11 5 11 45.5 0 0 - 1 2 50.0 2 2 4 6 0 0 3 3 -
+p531
+aVJames Worthy LAL 01/06/1991 LAL vs. GOS W 34 29 13 21 61.9 0 0 - 3 3 100.0 3 4 7 5 1 0 3 0 -
+p532
+aVElden Campbell LAL 01/06/1991 LAL vs. GOS W 5 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p533
+aVIrving Thomas LAL 01/06/1991 LAL vs. GOS W 4 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 -
+p534
+aVTerry Teagle LAL 01/06/1991 LAL vs. GOS W 18 12 6 13 46.2 0 0 - 0 0 - 1 3 4 3 0 0 1 3 -
+p535
+aVA.C. Green LAL 01/06/1991 LAL vs. GOS W 24 12 4 7 57.1 0 0 - 4 6 66.7 1 5 6 0 0 0 3 1 -
+p536
+aVByron Scott LAL 01/06/1991 LAL vs. GOS W 30 18 7 8 87.5 3 3 100.0 1 2 50.0 2 5 7 2 2 1 0 1 -
+p537
+aVMychal Thompson LAL 01/06/1991 LAL vs. GOS W 15 2 1 4 25.0 0 0 - 0 0 - 1 4 5 3 0 0 2 0 -
+p538
+aVLarry Drew LAL 01/06/1991 LAL vs. GOS W 21 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 14 0 0 4 3 -
+p539
+aVVlade Divac LAL 01/06/1991 LAL vs. GOS W 29 20 7 11 63.6 0 0 - 6 7 85.7 3 9 12 2 2 1 3 3 -
+p540
+aVSam Perkins LAL 01/06/1991 LAL vs. GOS W 33 22 7 11 63.6 1 1 100.0 7 8 87.5 3 6 9 5 0 2 1 4 -
+p541
+aVMagic Johnson LAL 01/04/1991 LAL @ GOS L 40 16 5 14 35.7 0 3 0.0 6 9 66.7 3 6 9 13 0 0 1 2 -
+p542
+aVTony Smith LAL 01/04/1991 LAL @ GOS L 1 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p543
+aVIrving Thomas LAL 01/04/1991 LAL @ GOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p544
+aVElden Campbell LAL 01/04/1991 LAL @ GOS L 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p545
+aVSam Perkins LAL 01/04/1991 LAL @ GOS L 39 14 6 12 50.0 0 1 0.0 2 3 66.7 1 5 6 2 0 1 2 4 -
+p546
+aVJames Worthy LAL 01/04/1991 LAL @ GOS L 41 12 6 23 26.1 0 2 0.0 0 2 0.0 1 4 5 0 0 1 1 1 -
+p547
+aVTerry Teagle LAL 01/04/1991 LAL @ GOS L 20 7 2 4 50.0 0 0 - 3 4 75.0 2 2 4 2 0 0 2 5 -
+p548
+aVMychal Thompson LAL 01/04/1991 LAL @ GOS L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 2 1 -
+p549
+aVVlade Divac LAL 01/04/1991 LAL @ GOS L 20 11 4 5 80.0 0 0 - 3 4 75.0 5 6 11 4 1 2 2 2 -
+p550
+aVA.C. Green LAL 01/04/1991 LAL @ GOS L 24 6 1 5 20.0 0 1 0.0 4 4 100.0 3 1 4 0 1 1 1 1 -
+p551
+aVLarry Drew LAL 01/04/1991 LAL @ GOS L 13 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 2 -
+p552
+aVByron Scott LAL 01/04/1991 LAL @ GOS L 35 22 9 18 50.0 2 3 66.7 2 2 100.0 2 3 5 1 1 1 2 3 -
+p553
+aVJames Worthy LAL 01/03/1991 LAL @ POR W 42 30 15 29 51.7 0 2 0.0 0 0 - 0 3 3 2 2 1 0 0 -
+p554
+aVTerry Teagle LAL 01/03/1991 LAL @ POR W 12 4 2 6 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -
+p555
+aVMagic Johnson LAL 01/03/1991 LAL @ POR W 44 13 4 11 36.4 3 7 42.9 2 3 66.7 0 6 6 17 1 0 5 1 -
+p556
+aVMychal Thompson LAL 01/03/1991 LAL @ POR W 22 10 4 7 57.1 0 0 - 2 4 50.0 3 2 5 1 0 0 1 2 -
+p557
+aVVlade Divac LAL 01/03/1991 LAL @ POR W 26 12 4 5 80.0 0 0 - 4 6 66.7 2 3 5 1 1 0 2 3 -
+p558
+aVSam Perkins LAL 01/03/1991 LAL @ POR W 27 19 7 8 87.5 1 1 100.0 4 4 100.0 1 8 9 1 2 0 3 6 -
+p559
+aVA.C. Green LAL 01/03/1991 LAL @ POR W 26 3 1 5 20.0 0 1 0.0 1 2 50.0 2 2 4 1 0 1 1 1 -
+p560
+aVByron Scott LAL 01/03/1991 LAL @ POR W 36 17 6 13 46.2 1 4 25.0 4 6 66.7 0 0 0 3 0 0 0 0 -
+p561
+aVLarry Drew LAL 01/03/1991 LAL @ POR W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p562
+aVA.C. Green LAL 12/30/1990 LAL vs. PHL W 31 12 5 10 50.0 0 1 0.0 2 2 100.0 3 3 6 3 1 0 1 3 -
+p563
+aVMagic Johnson LAL 12/30/1990 LAL vs. PHL W 39 34 10 17 58.8 2 4 50.0 12 12 100.0 3 10 13 13 2 0 4 1 -
+p564
+aVVlade Divac LAL 12/30/1990 LAL vs. PHL W 32 19 7 9 77.8 0 0 - 5 6 83.3 2 6 8 2 2 4 2 2 -
+p565
+aVSam Perkins LAL 12/30/1990 LAL vs. PHL W 37 10 4 9 44.4 0 0 - 2 2 100.0 1 6 7 1 0 1 1 3 -
+p566
+aVTerry Teagle LAL 12/30/1990 LAL vs. PHL W 16 4 1 6 16.7 0 0 - 2 2 100.0 2 1 3 1 0 0 1 0 -
+p567
+aVLarry Drew LAL 12/30/1990 LAL vs. PHL W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -
+p568
+aVMychal Thompson LAL 12/30/1990 LAL vs. PHL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p569
+aVJames Worthy LAL 12/30/1990 LAL vs. PHL W 35 18 8 14 57.1 1 1 100.0 1 1 100.0 0 1 1 4 1 0 3 1 -
+p570
+aVByron Scott LAL 12/30/1990 LAL vs. PHL W 36 16 7 15 46.7 0 4 0.0 2 2 100.0 0 2 2 1 4 0 1 2 -
+p571
+aVByron Scott LAL 12/26/1990 LAL @ LAC W 37 14 7 15 46.7 0 4 0.0 0 0 - 0 3 3 3 1 1 1 1 -
+p572
+aVTerry Teagle LAL 12/26/1990 LAL @ LAC W 11 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 3 0 -
+p573
+aVVlade Divac LAL 12/26/1990 LAL @ LAC W 21 8 1 2 50.0 0 0 - 6 8 75.0 1 3 4 2 4 1 1 3 -
+p574
+aVMychal Thompson LAL 12/26/1990 LAL @ LAC W 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 3 2 2 -
+p575
+aVJames Worthy LAL 12/26/1990 LAL @ LAC W 40 31 14 21 66.7 1 2 50.0 2 2 100.0 0 1 1 4 2 0 2 1 -
+p576
+aVLarry Drew LAL 12/26/1990 LAL @ LAC W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -
+p577
+aVSam Perkins LAL 12/26/1990 LAL @ LAC W 38 17 7 8 87.5 0 0 - 3 3 100.0 0 5 5 0 1 0 0 3 -
+p578
+aVA.C. Green LAL 12/26/1990 LAL @ LAC W 31 15 5 7 71.4 1 1 100.0 4 4 100.0 3 13 16 1 0 0 2 2 -
+p579
+aVMagic Johnson LAL 12/26/1990 LAL @ LAC W 40 19 6 16 37.5 2 6 33.3 5 5 100.0 0 7 7 13 1 0 6 2 -
+p580
+aVTerry Teagle LAL 12/23/1990 LAL vs. MIN W 17 8 4 10 40.0 0 0 - 0 1 0.0 1 2 3 1 0 0 1 1 -
+p581
+aVMychal Thompson LAL 12/23/1990 LAL vs. MIN W 14 4 2 2 100.0 0 0 - 0 0 - 0 5 5 0 1 0 0 2 -
+p582
+aVA.C. Green LAL 12/23/1990 LAL vs. MIN W 29 20 8 12 66.7 1 1 100.0 3 6 50.0 5 2 7 2 1 1 1 1 -
+p583
+aVIrving Thomas LAL 12/23/1990 LAL vs. MIN W 4 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p584
+aVByron Scott LAL 12/23/1990 LAL vs. MIN W 29 11 5 10 50.0 1 2 50.0 0 0 - 0 4 4 4 1 0 2 3 -
+p585
+aVJames Worthy LAL 12/23/1990 LAL vs. MIN W 35 24 11 16 68.8 0 0 - 2 2 100.0 2 4 6 1 2 0 0 1 -
+p586
+aVTony Smith LAL 12/23/1990 LAL vs. MIN W 4 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p587
+aVElden Campbell LAL 12/23/1990 LAL vs. MIN W 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 1 0 -
+p588
+aVVlade Divac LAL 12/23/1990 LAL vs. MIN W 22 10 5 10 50.0 0 0 - 0 0 - 1 7 8 1 0 0 2 4 -
+p589
+aVMagic Johnson LAL 12/23/1990 LAL vs. MIN W 27 15 3 10 30.0 0 3 0.0 9 10 90.0 2 4 6 13 1 0 2 1 -
+p590
+aVSam Perkins LAL 12/23/1990 LAL vs. MIN W 31 10 4 9 44.4 0 0 - 2 2 100.0 2 3 5 3 0 1 1 3 -
+p591
+aVLarry Drew LAL 12/23/1990 LAL vs. MIN W 21 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 12 2 0 5 1 -
+p592
+aVTerry Teagle LAL 12/21/1990 LAL @ CHI L 12 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 1 1 0 0 0 -
+p593
+aVVlade Divac LAL 12/21/1990 LAL @ CHI L 22 9 3 4 75.0 0 0 - 3 4 75.0 0 3 3 0 1 0 1 2 -
+p594
+aVMychal Thompson LAL 12/21/1990 LAL @ CHI L 16 7 3 7 42.9 0 0 - 1 1 100.0 2 0 2 1 0 0 0 2 -
+p595
+aVLarry Drew LAL 12/21/1990 LAL @ CHI L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -
+p596
+aVMagic Johnson LAL 12/21/1990 LAL @ CHI L 39 18 7 14 50.0 4 7 57.1 0 1 0.0 2 7 9 14 0 0 5 1 -
+p597
+aVJames Worthy LAL 12/21/1990 LAL @ CHI L 39 21 10 21 47.6 0 1 0.0 1 1 100.0 1 3 4 0 1 0 1 0 -
+p598
+aVByron Scott LAL 12/21/1990 LAL @ CHI L 39 9 4 12 33.3 1 2 50.0 0 0 - 1 2 3 2 0 0 1 4 -
+p599
+aVA.C. Green LAL 12/21/1990 LAL @ CHI L 27 15 6 8 75.0 0 1 0.0 3 7 42.9 2 4 6 0 0 0 0 0 -
+p600
+aVSam Perkins LAL 12/21/1990 LAL @ CHI L 37 20 7 12 58.3 2 3 66.7 4 4 100.0 1 2 3 1 2 2 3 3 -
+p601
+aVA.C. Green LAL 12/19/1990 LAL @ CLE L 28 4 1 5 20.0 0 2 0.0 2 2 100.0 0 3 3 0 0 2 0 3 -
+p602
+aVSam Perkins LAL 12/19/1990 LAL @ CLE L 41 10 4 12 33.3 0 1 0.0 2 2 100.0 3 7 10 0 0 4 0 1 -
+p603
+aVTerry Teagle LAL 12/19/1990 LAL @ CLE L 13 0 0 5 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 -
+p604
+aVLarry Drew LAL 12/19/1990 LAL @ CLE L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 -
+p605
+aVMagic Johnson LAL 12/19/1990 LAL @ CLE L 40 18 6 13 46.2 3 5 60.0 3 3 100.0 1 7 8 15 1 0 3 3 -
+p606
+aVByron Scott LAL 12/19/1990 LAL @ CLE L 31 8 4 11 36.4 0 3 0.0 0 0 - 0 5 5 2 0 0 1 1 -
+p607
+aVJames Worthy LAL 12/19/1990 LAL @ CLE L 41 17 7 19 36.8 0 4 0.0 3 3 100.0 1 3 4 6 0 1 3 1 -
+p608
+aVVlade Divac LAL 12/19/1990 LAL @ CLE L 25 12 5 10 50.0 0 0 - 2 2 100.0 0 2 2 1 0 1 0 2 -
+p609
+aVMychal Thompson LAL 12/19/1990 LAL @ CLE L 12 2 1 3 33.3 0 0 - 0 0 - 3 3 6 0 0 0 1 2 -
+p610
+aVElden Campbell LAL 12/19/1990 LAL @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p611
+aVMagic Johnson LAL 12/18/1990 LAL @ NYK W 41 22 7 11 63.6 2 3 66.7 6 7 85.7 0 5 5 11 1 0 5 2 -
+p612
+aVByron Scott LAL 12/18/1990 LAL @ NYK W 30 18 7 9 77.8 1 2 50.0 3 4 75.0 1 2 3 1 0 0 1 4 -
+p613
+aVLarry Drew LAL 12/18/1990 LAL @ NYK W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 -
+p614
+aVTerry Teagle LAL 12/18/1990 LAL @ NYK W 19 7 2 5 40.0 0 0 - 3 4 75.0 1 2 3 0 0 0 0 0 -
+p615
+aVMychal Thompson LAL 12/18/1990 LAL @ NYK W 16 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 3 -
+p616
+aVJames Worthy LAL 12/18/1990 LAL @ NYK W 40 21 8 18 44.4 0 0 - 5 5 100.0 1 2 3 2 0 0 1 3 -
+p617
+aVVlade Divac LAL 12/18/1990 LAL @ NYK W 23 10 4 5 80.0 0 0 - 2 3 66.7 0 6 6 0 1 0 3 3 -
+p618
+aVA.C. Green LAL 12/18/1990 LAL @ NYK W 23 9 3 11 27.3 0 1 0.0 3 4 75.0 3 3 6 0 0 1 1 1 -
+p619
+aVSam Perkins LAL 12/18/1990 LAL @ NYK W 41 13 6 13 46.2 0 0 - 1 1 100.0 3 3 6 2 2 1 0 4 -
+p620
+aVA.C. Green LAL 12/16/1990 LAL vs. IND W 26 7 2 7 28.6 1 2 50.0 2 2 100.0 2 5 7 1 0 0 1 1 -
+p621
+aVVlade Divac LAL 12/16/1990 LAL vs. IND W 34 10 2 4 50.0 0 0 - 6 8 75.0 3 5 8 3 2 2 0 3 -
+p622
+aVSam Perkins LAL 12/16/1990 LAL vs. IND W 37 18 7 15 46.7 0 1 0.0 4 5 80.0 2 4 6 0 1 0 2 4 -
+p623
+aVTerry Teagle LAL 12/16/1990 LAL vs. IND W 13 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p624
+aVMagic Johnson LAL 12/16/1990 LAL vs. IND W 39 29 7 14 50.0 0 0 - 15 16 93.8 2 5 7 21 1 0 7 2 -
+p625
+aVJames Worthy LAL 12/16/1990 LAL vs. IND W 41 26 11 21 52.4 0 0 - 4 4 100.0 3 4 7 2 3 0 2 2 -
+p626
+aVLarry Drew LAL 12/16/1990 LAL vs. IND W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p627
+aVByron Scott LAL 12/16/1990 LAL vs. IND W 35 15 6 14 42.9 0 3 0.0 3 6 50.0 0 4 4 3 0 0 1 2 -
+p628
+aVMychal Thompson LAL 12/16/1990 LAL vs. IND W 6 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 0 0 1 1 2 -
+p629
+aVSam Perkins LAL 12/15/1990 LAL @ GOS W 42 30 10 14 71.4 0 0 - 10 11 90.9 1 3 4 0 0 3 1 4 -
+p630
+aVVlade Divac LAL 12/15/1990 LAL @ GOS W 15 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 1 2 3 -
+p631
+aVA.C. Green LAL 12/15/1990 LAL @ GOS W 18 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -
+p632
+aVJames Worthy LAL 12/15/1990 LAL @ GOS W 43 28 12 27 44.4 0 2 0.0 4 4 100.0 3 7 10 5 0 0 0 0 -
+p633
+aVLarry Drew LAL 12/15/1990 LAL @ GOS W 7 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 4 2 -
+p634
+aVMagic Johnson LAL 12/15/1990 LAL @ GOS W 41 15 4 11 36.4 0 2 0.0 7 8 87.5 1 6 7 9 1 0 4 5 -
+p635
+aVByron Scott LAL 12/15/1990 LAL @ GOS W 41 14 5 11 45.5 0 3 0.0 4 5 80.0 1 8 9 4 1 0 1 2 -
+p636
+aVTerry Teagle LAL 12/15/1990 LAL @ GOS W 33 13 4 10 40.0 0 0 - 5 6 83.3 2 2 4 1 0 0 1 3 -
+p637
+aVByron Scott LAL 12/12/1990 LAL vs. DAL L 38 17 8 16 50.0 1 3 33.3 0 0 - 3 2 5 3 1 1 1 4 -
+p638
+aVMagic Johnson LAL 12/12/1990 LAL vs. DAL L 46 18 6 16 37.5 2 6 33.3 4 4 100.0 1 5 6 12 2 0 3 3 -
+p639
+aVSam Perkins LAL 12/12/1990 LAL vs. DAL L 42 6 3 15 20.0 0 3 0.0 0 0 - 4 7 11 5 1 2 2 4 -
+p640
+aVA.C. Green LAL 12/12/1990 LAL vs. DAL L 18 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 -
+p641
+aVVlade Divac LAL 12/12/1990 LAL vs. DAL L 29 7 3 7 42.9 0 0 - 1 2 50.0 2 5 7 1 1 0 2 5 -
+p642
+aVMychal Thompson LAL 12/12/1990 LAL vs. DAL L 21 6 3 3 100.0 0 0 - 0 0 - 0 4 4 0 1 0 1 1 -
+p643
+aVTerry Teagle LAL 12/12/1990 LAL vs. DAL L 18 9 4 15 26.7 0 1 0.0 1 1 100.0 5 2 7 0 0 0 1 1 -
+p644
+aVLarry Drew LAL 12/12/1990 LAL vs. DAL L 7 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 -
+p645
+aVJames Worthy LAL 12/12/1990 LAL vs. DAL L 46 28 10 19 52.6 1 3 33.3 7 8 87.5 4 2 6 3 0 0 3 4 -
+p646
+aVMychal Thompson LAL 12/09/1990 LAL vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p647
+aVA.C. Green LAL 12/09/1990 LAL vs. WAS W 26 4 2 7 28.6 0 0 - 0 0 - 4 1 5 2 0 0 1 2 -
+p648
+aVLarry Drew LAL 12/09/1990 LAL vs. WAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -
+p649
+aVMagic Johnson LAL 12/09/1990 LAL vs. WAS W 44 19 7 15 46.7 0 2 0.0 5 5 100.0 2 4 6 14 1 1 3 2 -
+p650
+aVVlade Divac LAL 12/09/1990 LAL vs. WAS W 35 18 7 14 50.0 0 1 0.0 4 5 80.0 6 7 13 1 0 2 1 5 -
+p651
+aVTerry Teagle LAL 12/09/1990 LAL vs. WAS W 16 17 7 13 53.8 0 0 - 3 4 75.0 2 2 4 0 1 0 0 1 -
+p652
+aVByron Scott LAL 12/09/1990 LAL vs. WAS W 32 18 6 20 30.0 1 3 33.3 5 6 83.3 1 6 7 0 1 0 4 0 -
+p653
+aVJames Worthy LAL 12/09/1990 LAL vs. WAS W 41 20 8 15 53.3 0 0 - 4 4 100.0 2 5 7 2 2 2 2 3 -
+p654
+aVSam Perkins LAL 12/09/1990 LAL vs. WAS W 37 10 4 12 33.3 0 0 - 2 2 100.0 7 7 14 0 1 0 2 3 -
+p655
+aVSam Perkins LAL 12/07/1990 LAL @ UTH L 28 10 5 7 71.4 0 0 - 0 0 - 3 5 8 1 2 0 2 5 -
+p656
+aVVlade Divac LAL 12/07/1990 LAL @ UTH L 24 9 4 10 40.0 0 0 - 1 2 50.0 3 3 6 0 1 0 0 2 -
+p657
+aVTony Smith LAL 12/07/1990 LAL @ UTH L 1 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p658
+aVMychal Thompson LAL 12/07/1990 LAL @ UTH L 28 2 1 5 20.0 0 1 0.0 0 0 - 4 5 9 0 0 0 1 2 -
+p659
+aVIrving Thomas LAL 12/07/1990 LAL @ UTH L 3 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 1 1 -
+p660
+aVJames Worthy LAL 12/07/1990 LAL @ UTH L 41 18 8 17 47.1 0 1 0.0 2 2 100.0 1 0 1 0 1 0 0 0 -
+p661
+aVByron Scott LAL 12/07/1990 LAL @ UTH L 35 11 5 12 41.7 1 3 33.3 0 0 - 0 1 1 3 0 1 3 2 -
+p662
+aVLarry Drew LAL 12/07/1990 LAL @ UTH L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 0 -
+p663
+aVElden Campbell LAL 12/07/1990 LAL @ UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p664
+aVMagic Johnson LAL 12/07/1990 LAL @ UTH L 40 20 8 15 53.3 1 3 33.3 3 3 100.0 1 8 9 9 1 0 8 2 -
+p665
+aVA.C. Green LAL 12/07/1990 LAL @ UTH L 15 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 0 0 0 -
+p666
+aVTerry Teagle LAL 12/07/1990 LAL @ UTH L 13 5 2 7 28.6 0 0 - 1 3 33.3 0 0 0 0 0 0 1 1 -
+p667
+aVTerry Teagle LAL 12/06/1990 LAL @ MIN W 18 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -
+p668
+aVVlade Divac LAL 12/06/1990 LAL @ MIN W 25 6 3 6 50.0 0 0 - 0 0 - 2 10 12 1 2 0 1 2 -
+p669
+aVJames Worthy LAL 12/06/1990 LAL @ MIN W 38 11 5 9 55.6 0 0 - 1 1 100.0 0 7 7 3 0 0 1 3 -
+p670
+aVA.C. Green LAL 12/06/1990 LAL @ MIN W 24 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 1 -
+p671
+aVSam Perkins LAL 12/06/1990 LAL @ MIN W 43 19 8 13 61.5 0 1 0.0 3 7 42.9 3 5 8 1 0 0 1 4 -
+p672
+aVMychal Thompson LAL 12/06/1990 LAL @ MIN W 7 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -
+p673
+aVLarry Drew LAL 12/06/1990 LAL @ MIN W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -
+p674
+aVByron Scott LAL 12/06/1990 LAL @ MIN W 36 13 4 5 80.0 0 0 - 5 6 83.3 1 4 5 3 0 0 0 0 -
+p675
+aVMagic Johnson LAL 12/06/1990 LAL @ MIN W 41 21 6 22 27.3 0 5 0.0 9 11 81.8 0 7 7 11 0 0 3 0 -
+p676
+aVElden Campbell LAL 12/06/1990 LAL @ MIN W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p677
+aVMychal Thompson LAL 12/04/1990 LAL vs. DET W 9 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -
+p678
+aVVlade Divac LAL 12/04/1990 LAL vs. DET W 23 11 5 6 83.3 0 0 - 1 2 50.0 0 2 2 0 1 1 1 5 -
+p679
+aVElden Campbell LAL 12/04/1990 LAL vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p680
+aVTony Smith LAL 12/04/1990 LAL vs. DET W 3 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 1 1 -
+p681
+aVIrving Thomas LAL 12/04/1990 LAL vs. DET W 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 -
+p682
+aVA.C. Green LAL 12/04/1990 LAL vs. DET W 27 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 0 1 1 0 2 -
+p683
+aVByron Scott LAL 12/04/1990 LAL vs. DET W 25 16 7 9 77.8 1 2 50.0 1 1 100.0 0 4 4 2 1 0 2 3 -
+p684
+aVTerry Teagle LAL 12/04/1990 LAL vs. DET W 20 16 5 12 41.7 0 0 - 6 7 85.7 1 2 3 1 0 0 0 1 -
+p685
+aVJames Worthy LAL 12/04/1990 LAL vs. DET W 38 23 10 17 58.8 1 2 50.0 2 2 100.0 2 2 4 0 2 1 0 0 -
+p686
+aVMagic Johnson LAL 12/04/1990 LAL vs. DET W 36 21 9 17 52.9 0 2 0.0 3 3 100.0 2 10 12 14 0 0 4 2 -
+p687
+aVSam Perkins LAL 12/04/1990 LAL vs. DET W 39 13 5 10 50.0 1 1 100.0 2 3 66.7 3 4 7 1 2 2 1 2 -
+p688
+aVLarry Drew LAL 12/04/1990 LAL vs. DET W 14 9 3 4 75.0 0 0 - 3 4 75.0 0 1 1 2 0 0 0 1 -
+p689
+aVA.C. Green LAL 12/01/1990 LAL @ PHX W 32 6 2 8 25.0 0 0 - 2 4 50.0 5 5 10 0 1 1 1 2 -
+p690
+aVLarry Drew LAL 12/01/1990 LAL @ PHX W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -
+p691
+aVByron Scott LAL 12/01/1990 LAL @ PHX W 37 32 13 15 86.7 2 3 66.7 4 5 80.0 1 2 3 0 1 0 0 4 -
+p692
+aVSam Perkins LAL 12/01/1990 LAL @ PHX W 36 12 5 9 55.6 0 0 - 2 2 100.0 1 7 8 1 2 0 2 4 -
+p693
+aVMychal Thompson LAL 12/01/1990 LAL @ PHX W 13 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 1 1 0 3 3 -
+p694
+aVTerry Teagle LAL 12/01/1990 LAL @ PHX W 12 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 3 0 -
+p695
+aVVlade Divac LAL 12/01/1990 LAL @ PHX W 19 6 3 7 42.9 0 0 - 0 0 - 1 3 4 0 1 0 0 2 -
+p696
+aVMagic Johnson LAL 12/01/1990 LAL @ PHX W 40 25 11 24 45.8 1 4 25.0 2 3 66.7 3 9 12 15 1 1 4 2 -
+p697
+aVJames Worthy LAL 12/01/1990 LAL @ PHX W 43 17 7 18 38.9 0 0 - 3 4 75.0 0 4 4 2 1 0 2 2 -
+p698
+aVLarry Drew LAL 11/28/1990 LAL vs. SAN W 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 4 0 0 0 0 -
+p699
+aVMagic Johnson LAL 11/28/1990 LAL vs. SAN W 36 8 4 9 44.4 0 2 0.0 0 0 - 0 2 2 12 0 1 5 4 -
+p700
+aVElden Campbell LAL 11/28/1990 LAL vs. SAN W 1 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 -
+p701
+aVMychal Thompson LAL 11/28/1990 LAL vs. SAN W 26 9 3 6 50.0 0 0 - 3 4 75.0 4 1 5 0 1 0 0 3 -
+p702
+aVSam Perkins LAL 11/28/1990 LAL vs. SAN W 41 16 4 8 50.0 1 1 100.0 7 8 87.5 4 6 10 1 2 5 4 2 -
+p703
+aVTerry Teagle LAL 11/28/1990 LAL vs. SAN W 20 11 5 12 41.7 0 0 - 1 2 50.0 0 0 0 2 4 0 2 2 -
+p704
+aVByron Scott LAL 11/28/1990 LAL vs. SAN W 25 12 6 12 50.0 0 0 - 0 0 - 0 7 7 2 0 0 2 3 -
+p705
+aVVlade Divac LAL 11/28/1990 LAL vs. SAN W 17 4 2 5 40.0 0 0 - 0 1 0.0 2 1 3 3 1 1 1 3 -
+p706
+aVJames Worthy LAL 11/28/1990 LAL vs. SAN W 39 20 8 22 36.4 0 0 - 4 6 66.7 5 6 11 3 2 0 0 0 -
+p707
+aVTony Brown LAL 11/28/1990 LAL vs. SAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p708
+aVTony Smith LAL 11/28/1990 LAL vs. SAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p709
+aVA.C. Green LAL 11/28/1990 LAL vs. SAN W 21 14 6 9 66.7 1 1 100.0 1 2 50.0 1 4 5 1 2 0 0 0 -
+p710
+aVTerry Teagle LAL 11/24/1990 LAL vs. ORL W 21 13 4 11 36.4 0 0 - 5 6 83.3 0 0 0 3 1 0 1 3 -
+p711
+aVA.C. Green LAL 11/24/1990 LAL vs. ORL W 28 15 6 12 50.0 0 0 - 3 3 100.0 6 11 17 1 1 0 2 1 -
+p712
+aVTony Brown LAL 11/24/1990 LAL vs. ORL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p713
+aVLarry Drew LAL 11/24/1990 LAL vs. ORL W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 3 0 0 2 0 -
+p714
+aVMagic Johnson LAL 11/24/1990 LAL vs. ORL W 28 21 8 8 100.0 1 1 100.0 4 5 80.0 0 2 2 14 1 0 3 2 -
+p715
+aVSam Perkins LAL 11/24/1990 LAL vs. ORL W 29 15 5 9 55.6 0 0 - 5 7 71.4 6 5 11 2 0 1 1 3 -
+p716
+aVVlade Divac LAL 11/24/1990 LAL vs. ORL W 29 13 6 8 75.0 0 1 0.0 1 1 100.0 3 8 11 2 0 1 0 3 -
+p717
+aVElden Campbell LAL 11/24/1990 LAL vs. ORL W 8 0 0 3 0.0 0 0 - 0 2 0.0 0 1 1 0 0 3 0 1 -
+p718
+aVByron Scott LAL 11/24/1990 LAL vs. ORL W 27 10 5 16 31.3 0 3 0.0 0 0 - 0 5 5 5 0 0 0 1 -
+p719
+aVMychal Thompson LAL 11/24/1990 LAL vs. ORL W 17 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 1 1 0 2 -
+p720
+aVTony Smith LAL 11/24/1990 LAL vs. ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p721
+aVJames Worthy LAL 11/24/1990 LAL vs. ORL W 29 22 10 16 62.5 0 0 - 2 2 100.0 0 1 1 3 0 0 0 0 -
+p722
+aVMychal Thompson LAL 11/21/1990 LAL vs. DEN W 13 6 0 1 0.0 0 0 - 6 8 75.0 1 6 7 0 0 0 1 1 -
+p723
+aVJames Worthy LAL 11/21/1990 LAL vs. DEN W 38 29 13 18 72.2 0 0 - 3 6 50.0 3 5 8 4 0 0 6 5 -
+p724
+aVByron Scott LAL 11/21/1990 LAL vs. DEN W 29 19 9 18 50.0 0 0 - 1 3 33.3 1 5 6 5 3 1 1 5 -
+p725
+aVTony Smith LAL 11/21/1990 LAL vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p726
+aVMagic Johnson LAL 11/21/1990 LAL vs. DEN W 38 22 6 12 50.0 1 4 25.0 9 9 100.0 1 2 3 18 0 0 5 0 -
+p727
+aVTony Brown LAL 11/21/1990 LAL vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p728
+aVSam Perkins LAL 11/21/1990 LAL vs. DEN W 32 14 7 8 87.5 0 0 - 0 1 0.0 5 8 13 2 0 1 1 3 -
+p729
+aVLarry Drew LAL 11/21/1990 LAL vs. DEN W 21 9 4 8 50.0 0 1 0.0 1 2 50.0 0 1 1 5 1 0 1 3 -
+p730
+aVElden Campbell LAL 11/21/1990 LAL vs. DEN W 2 4 1 1 100.0 0 0 - 2 3 66.7 0 0 0 0 0 0 0 0 -
+p731
+aVVlade Divac LAL 11/21/1990 LAL vs. DEN W 28 12 5 8 62.5 0 0 - 2 2 100.0 0 5 5 1 0 0 0 2 -
+p732
+aVA.C. Green LAL 11/21/1990 LAL vs. DEN W 19 15 6 10 60.0 0 1 0.0 3 6 50.0 2 5 7 0 0 0 5 1 -
+p733
+aVTerry Teagle LAL 11/21/1990 LAL vs. DEN W 15 11 5 8 62.5 0 0 - 1 1 100.0 0 2 2 3 0 0 0 0 -
+p734
+aVTerry Teagle LAL 11/19/1990 LAL @ DEN W 20 19 8 13 61.5 0 1 0.0 3 3 100.0 2 3 5 1 0 0 2 1 -
+p735
+aVMychal Thompson LAL 11/19/1990 LAL @ DEN W 13 4 2 2 100.0 0 0 - 0 0 - 3 2 5 1 0 0 2 3 -
+p736
+aVElden Campbell LAL 11/19/1990 LAL @ DEN W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p737
+aVVlade Divac LAL 11/19/1990 LAL @ DEN W 21 7 3 5 60.0 0 0 - 1 2 50.0 4 7 11 1 1 3 1 4 -
+p738
+aVMagic Johnson LAL 11/19/1990 LAL @ DEN W 34 21 9 16 56.3 1 3 33.3 2 3 66.7 1 9 10 11 0 0 1 1 -
+p739
+aVSam Perkins LAL 11/19/1990 LAL @ DEN W 29 10 4 9 44.4 0 0 - 2 2 100.0 1 7 8 2 0 1 3 3 -
+p740
+aVLarry Drew LAL 11/19/1990 LAL @ DEN W 14 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 2 0 1 2 -
+p741
+aVTony Brown LAL 11/19/1990 LAL @ DEN W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p742
+aVByron Scott LAL 11/19/1990 LAL @ DEN W 34 12 6 13 46.2 0 1 0.0 0 0 - 0 2 2 5 2 0 0 1 -
+p743
+aVJames Worthy LAL 11/19/1990 LAL @ DEN W 36 25 9 22 40.9 0 0 - 7 8 87.5 2 5 7 4 1 0 2 0 -
+p744
+aVA.C. Green LAL 11/19/1990 LAL @ DEN W 28 18 5 10 50.0 0 0 - 8 9 88.9 3 2 5 1 1 0 1 4 -
+p745
+aVMychal Thompson LAL 11/18/1990 LAL vs. GOS W 23 2 1 4 25.0 0 0 - 0 0 - 2 7 9 0 1 1 1 4 -
+p746
+aVTony Smith LAL 11/18/1990 LAL vs. GOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p747
+aVJames Worthy LAL 11/18/1990 LAL vs. GOS W 35 21 6 14 42.9 0 1 0.0 9 9 100.0 0 7 7 3 1 2 1 2 -
+p748
+aVTony Brown LAL 11/18/1990 LAL vs. GOS W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 3 -
+p749
+aVA.C. Green LAL 11/18/1990 LAL vs. GOS W 20 8 4 5 80.0 0 0 - 0 0 - 1 3 4 1 1 0 0 1 -
+p750
+aVByron Scott LAL 11/18/1990 LAL vs. GOS W 36 11 4 18 22.2 0 0 - 3 4 75.0 0 2 2 5 3 1 0 1 -
+p751
+aVSam Perkins LAL 11/18/1990 LAL vs. GOS W 33 22 7 12 58.3 0 0 - 8 11 72.7 6 3 9 5 0 2 1 2 -
+p752
+aVElden Campbell LAL 11/18/1990 LAL vs. GOS W 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 1 -
+p753
+aVVlade Divac LAL 11/18/1990 LAL vs. GOS W 20 12 6 8 75.0 0 0 - 0 0 - 2 7 9 0 2 0 1 4 -
+p754
+aVTerry Teagle LAL 11/18/1990 LAL vs. GOS W 13 8 4 8 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 6 -
+p755
+aVLarry Drew LAL 11/18/1990 LAL vs. GOS W 16 10 4 6 66.7 0 0 - 2 2 100.0 0 0 0 2 1 0 2 0 -
+p756
+aVMagic Johnson LAL 11/18/1990 LAL vs. GOS W 30 17 6 13 46.2 1 5 20.0 4 4 100.0 0 4 4 10 0 0 3 0 -
+p757
+aVA.C. Green LAL 11/16/1990 LAL @ DAL L 14 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 0 -
+p758
+aVTony Smith LAL 11/16/1990 LAL @ DAL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -
+p759
+aVMagic Johnson LAL 11/16/1990 LAL @ DAL L 39 10 2 9 22.2 0 6 0.0 6 7 85.7 2 6 8 11 2 0 2 1 -
+p760
+aVByron Scott LAL 11/16/1990 LAL @ DAL L 34 23 9 18 50.0 2 7 28.6 3 3 100.0 0 1 1 2 1 2 0 1 -
+p761
+aVSam Perkins LAL 11/16/1990 LAL @ DAL L 38 18 9 15 60.0 0 2 0.0 0 0 - 3 4 7 1 1 0 2 5 -
+p762
+aVElden Campbell LAL 11/16/1990 LAL @ DAL L 6 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -
+p763
+aVJames Worthy LAL 11/16/1990 LAL @ DAL L 43 21 7 21 33.3 1 4 25.0 6 7 85.7 3 2 5 2 0 0 1 2 -
+p764
+aVMychal Thompson LAL 11/16/1990 LAL @ DAL L 13 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -
+p765
+aVVlade Divac LAL 11/16/1990 LAL @ DAL L 29 6 2 3 66.7 0 0 - 2 3 66.7 1 4 5 1 3 2 3 3 -
+p766
+aVLarry Drew LAL 11/16/1990 LAL @ DAL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p767
+aVTerry Teagle LAL 11/16/1990 LAL @ DAL L 14 2 1 8 12.5 0 0 - 0 0 - 3 0 3 1 1 0 1 2 -
+p768
+aVElden Campbell LAL 11/15/1990 LAL @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p769
+aVA.C. Green LAL 11/15/1990 LAL @ HOU W 26 10 5 7 71.4 0 0 - 0 0 - 2 3 5 0 2 0 3 0 -
+p770
+aVSam Perkins LAL 11/15/1990 LAL @ HOU W 40 29 11 14 78.6 1 1 100.0 6 8 75.0 1 7 8 2 0 0 1 1 -
+p771
+aVLarry Drew LAL 11/15/1990 LAL @ HOU W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p772
+aVTerry Teagle LAL 11/15/1990 LAL @ HOU W 15 6 2 9 22.2 0 0 - 2 2 100.0 2 1 3 1 1 1 4 4 -
+p773
+aVJames Worthy LAL 11/15/1990 LAL @ HOU W 39 24 10 23 43.5 0 2 0.0 4 4 100.0 0 2 2 2 1 0 1 1 -
+p774
+aVMychal Thompson LAL 11/15/1990 LAL @ HOU W 20 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 1 3 -
+p775
+aVVlade Divac LAL 11/15/1990 LAL @ HOU W 27 7 2 4 50.0 1 1 100.0 2 2 100.0 2 4 6 2 3 1 4 5 -
+p776
+aVByron Scott LAL 11/15/1990 LAL @ HOU W 42 4 2 7 28.6 0 1 0.0 0 0 - 1 8 9 1 0 0 4 3 -
+p777
+aVMagic Johnson LAL 11/15/1990 LAL @ HOU W 50 24 6 13 46.2 2 4 50.0 10 10 100.0 0 10 10 16 3 1 5 2 -
+p778
+aVTony Brown LAL 11/15/1990 LAL @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p779
+aVA.C. Green LAL 11/13/1990 LAL vs. PHX L 28 7 2 7 28.6 0 0 - 3 4 75.0 4 4 8 1 2 1 1 1 -
+p780
+aVTerry Teagle LAL 11/13/1990 LAL vs. PHX L 24 8 4 9 44.4 0 0 - 0 0 - 1 1 2 0 1 0 3 3 -
+p781
+aVByron Scott LAL 11/13/1990 LAL vs. PHX L 39 17 7 19 36.8 0 2 0.0 3 5 60.0 0 2 2 2 0 1 0 4 -
+p782
+aVVlade Divac LAL 11/13/1990 LAL vs. PHX L 35 15 4 10 40.0 0 0 - 7 9 77.8 4 6 10 0 1 2 0 4 -
+p783
+aVSam Perkins LAL 11/13/1990 LAL vs. PHX L 19 8 3 9 33.3 0 0 - 2 2 100.0 2 1 3 0 0 0 3 4 -
+p784
+aVMagic Johnson LAL 11/13/1990 LAL vs. PHX L 42 20 7 13 53.8 0 1 0.0 6 6 100.0 3 6 9 15 1 0 6 0 -
+p785
+aVJames Worthy LAL 11/13/1990 LAL vs. PHX L 42 36 14 24 58.3 1 2 50.0 7 11 63.6 5 1 6 1 3 0 2 1 -
+p786
+aVByron Scott LAL 11/11/1990 LAL vs. NYK L 32 24 11 20 55.0 2 4 50.0 0 0 - 1 1 2 2 1 0 1 1 -
+p787
+aVJames Worthy LAL 11/11/1990 LAL vs. NYK L 40 18 8 15 53.3 1 1 100.0 1 2 50.0 1 1 2 0 1 1 1 0 -
+p788
+aVTerry Teagle LAL 11/11/1990 LAL vs. NYK L 18 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p789
+aVA.C. Green LAL 11/11/1990 LAL vs. NYK L 39 5 1 5 20.0 0 1 0.0 3 4 75.0 0 3 3 2 1 1 2 2 -
+p790
+aVSam Perkins LAL 11/11/1990 LAL vs. NYK L 18 6 2 8 25.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 5 -
+p791
+aVMagic Johnson LAL 11/11/1990 LAL vs. NYK L 41 24 6 17 35.3 0 3 0.0 12 12 100.0 5 10 15 14 2 0 4 2 -
+p792
+aVVlade Divac LAL 11/11/1990 LAL vs. NYK L 35 13 5 12 41.7 0 0 - 3 4 75.0 5 7 12 0 0 3 1 4 -
+p793
+aVLarry Drew LAL 11/11/1990 LAL vs. NYK L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -
+p794
+aVMychal Thompson LAL 11/11/1990 LAL vs. NYK L 10 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 1 -
+p795
+aVSam Perkins LAL 11/09/1990 LAL vs. SAC W 21 9 4 6 66.7 1 1 100.0 0 0 - 0 5 5 0 0 0 2 3 -
+p796
+aVMagic Johnson LAL 11/09/1990 LAL vs. SAC W 39 25 5 9 55.6 1 1 100.0 14 15 93.3 1 3 4 13 0 0 6 1 -
+p797
+aVTerry Teagle LAL 11/09/1990 LAL vs. SAC W 19 10 5 12 41.7 0 0 - 0 0 - 4 2 6 0 2 0 0 2 -
+p798
+aVLarry Drew LAL 11/09/1990 LAL vs. SAC W 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -
+p799
+aVTony Smith LAL 11/09/1990 LAL vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p800
+aVA.C. Green LAL 11/09/1990 LAL vs. SAC W 38 13 5 8 62.5 0 0 - 3 3 100.0 3 5 8 0 0 1 1 2 -
+p801
+aVByron Scott LAL 11/09/1990 LAL vs. SAC W 29 8 2 8 25.0 0 1 0.0 4 4 100.0 1 2 3 2 1 1 2 1 -
+p802
+aVVlade Divac LAL 11/09/1990 LAL vs. SAC W 29 10 3 7 42.9 0 0 - 4 7 57.1 3 13 16 1 0 1 1 1 -
+p803
+aVMychal Thompson LAL 11/09/1990 LAL vs. SAC W 17 7 2 4 50.0 0 0 - 3 3 100.0 2 3 5 0 0 1 2 3 -
+p804
+aVJames Worthy LAL 11/09/1990 LAL vs. SAC W 39 18 8 18 44.4 0 0 - 2 3 66.7 0 2 2 3 1 0 1 2 -
+p805
+aVMagic Johnson LAL 11/06/1990 LAL vs. POR L 49 24 8 16 50.0 1 4 25.0 7 7 100.0 1 5 6 22 3 0 5 3 -
+p806
+aVMychal Thompson LAL 11/06/1990 LAL vs. POR L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -
+p807
+aVA.C. Green LAL 11/06/1990 LAL vs. POR L 33 15 4 10 40.0 0 2 0.0 7 9 77.8 3 6 9 4 2 0 2 3 -
+p808
+aVVlade Divac LAL 11/06/1990 LAL vs. POR L 30 21 10 13 76.9 0 1 0.0 1 2 50.0 4 9 13 0 3 1 3 6 -
+p809
+aVSam Perkins LAL 11/06/1990 LAL vs. POR L 32 5 1 5 20.0 0 1 0.0 3 6 50.0 0 1 1 2 1 0 2 6 -
+p810
+aVJames Worthy LAL 11/06/1990 LAL vs. POR L 45 26 12 20 60.0 0 1 0.0 2 3 66.7 0 2 2 4 2 1 2 2 -
+p811
+aVTony Brown LAL 11/06/1990 LAL vs. POR L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p812
+aVTerry Teagle LAL 11/06/1990 LAL vs. POR L 19 15 5 12 41.7 0 1 0.0 5 6 83.3 1 0 1 1 0 0 1 3 -
+p813
+aVElden Campbell LAL 11/06/1990 LAL vs. POR L 5 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -
+p814
+aVLarry Drew LAL 11/06/1990 LAL vs. POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p815
+aVByron Scott LAL 11/06/1990 LAL vs. POR L 34 13 5 11 45.5 1 4 25.0 2 3 66.7 1 2 3 3 1 0 2 2 -
+p816
+aVLarry Drew LAL 11/03/1990 LAL @ SAN L 7 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 2 1 0 0 0 -
+p817
+aVByron Scott LAL 11/03/1990 LAL @ SAN L 34 11 4 11 36.4 1 4 25.0 2 2 100.0 1 3 4 1 0 0 1 2 -
+p818
+aVJames Worthy LAL 11/03/1990 LAL @ SAN L 41 35 15 26 57.7 1 5 20.0 4 6 66.7 1 6 7 1 2 2 3 4 -
+p819
+aVTerry Teagle LAL 11/03/1990 LAL @ SAN L 19 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 1 0 2 5 -
+p820
+aVElden Campbell LAL 11/03/1990 LAL @ SAN L 19 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 1 0 3 1 0 -
+p821
+aVA.C. Green LAL 11/03/1990 LAL @ SAN L 12 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -
+p822
+aVVlade Divac LAL 11/03/1990 LAL @ SAN L 8 3 1 3 33.3 0 0 - 1 1 100.0 1 0 1 0 0 0 1 3 -
+p823
+aVMagic Johnson LAL 11/03/1990 LAL @ SAN L 44 14 3 10 30.0 1 4 25.0 7 9 77.8 0 3 3 11 1 0 6 4 -
+p824
+aVMychal Thompson LAL 11/03/1990 LAL @ SAN L 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p825
+aVSam Perkins LAL 11/03/1990 LAL @ SAN L 42 22 7 13 53.8 2 3 66.7 6 7 85.7 3 7 10 1 2 2 1 5 -
+p826
+a.

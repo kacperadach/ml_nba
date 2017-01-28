@@ -1,0 +1,194 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChris Childs NYK 05/13/1998 NYK @ IND L 31 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 4 3 0 1 2 0
+p2
+aVPatrick Ewing NYK 05/13/1998 NYK @ IND L 34 10 4 13 30.8 0 0 - 2 8 25.0 4 7 11 0 0 2 3 5 -22
+p3
+aVLarry Johnson NYK 05/13/1998 NYK @ IND L 37 17 6 13 46.2 1 3 33.3 4 5 80.0 5 2 7 1 2 1 4 5 -10
+p4
+aVCharlie Ward NYK 05/13/1998 NYK @ IND L 17 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 5 1 1 0 1 -8
+p5
+aVChris Mills NYK 05/13/1998 NYK @ IND L 11 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 1 3 0 0 0 -4
+p6
+aVChris Dudley NYK 05/13/1998 NYK @ IND L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 2
+p7
+aVCharles Oakley NYK 05/13/1998 NYK @ IND L 30 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 1 0 2 3 0
+p8
+aVAllan Houston NYK 05/13/1998 NYK @ IND L 39 33 14 25 56.0 3 4 75.0 2 2 100.0 0 2 2 1 0 0 2 5 -9
+p9
+aVJohn Starks NYK 05/13/1998 NYK @ IND L 29 12 5 16 31.3 2 10 20.0 0 0 - 1 2 3 3 3 0 0 4 -1
+p10
+aVAnthony Bowie NYK 05/10/1998 NYK vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p11
+aVCharles Oakley NYK 05/10/1998 IND @ NYK L 31 8 3 5 60.0 0 0 - 2 2 100.0 4 6 10 1 2 1 1 5 0
+p12
+aVLarry Johnson NYK 05/10/1998 NYK vs. IND L 38 18 8 15 53.3 0 3 0.0 2 3 66.7 4 2 6 3 2 0 4 5 -8
+p13
+aVChris Childs NYK 05/10/1998 NYK vs. IND L 32 9 3 5 60.0 1 1 100.0 2 2 100.0 0 3 3 6 0 0 3 4 2
+p14
+aVPatrick Ewing NYK 05/10/1998 NYK vs. IND L 39 17 6 16 37.5 0 0 - 5 8 62.5 2 6 8 4 0 1 3 3 -9
+p15
+aVChris Mills NYK 05/10/1998 NYK vs. IND L 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 3
+p16
+aVAllan Houston NYK 05/10/1998 NYK vs. IND L 39 19 6 16 37.5 2 2 100.0 5 6 83.3 1 2 3 4 0 0 5 2 -8
+p17
+aVTerry Cummings NYK 05/10/1998 NYK vs. IND L 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 1 0
+p18
+aVJohn Starks NYK 05/10/1998 NYK vs. IND L 32 19 7 11 63.6 3 5 60.0 2 2 100.0 0 4 4 4 0 0 1 5 -7
+p19
+aVCharlie Ward NYK 05/10/1998 NYK vs. IND L 32 13 5 8 62.5 3 3 100.0 0 0 - 1 2 3 4 1 0 1 0 -13
+p20
+aVPatrick Ewing NYK 05/09/1998 NYK vs. IND W 32 19 7 16 43.8 0 0 - 5 6 83.3 2 5 7 1 1 1 2 4 -4
+p21
+aVLarry Johnson NYK 05/09/1998 NYK vs. IND W 40 10 3 8 37.5 0 2 0.0 4 6 66.7 2 3 5 2 2 0 4 3 12
+p22
+aVJohn Starks NYK 05/09/1998 NYK vs. IND W 26 12 5 12 41.7 2 7 28.6 0 0 - 0 3 3 3 1 0 1 2 13
+p23
+aVCharlie Ward NYK 05/09/1998 NYK vs. IND W 17 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 1 0 0 2 2 -22
+p24
+aVAllan Houston NYK 05/09/1998 NYK vs. IND W 35 11 4 14 28.6 0 1 0.0 3 3 100.0 1 3 4 2 0 0 2 3 -4
+p25
+aVChris Mills NYK 05/09/1998 NYK vs. IND W 23 11 3 6 50.0 1 2 50.0 4 4 100.0 3 5 8 0 1 0 2 3 22
+p26
+aVCharles Oakley NYK 05/09/1998 IND @ NYK L 17 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 1 0 1 4 0
+p27
+aVTerry Cummings NYK 05/09/1998 NYK vs. IND W 15 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 1 2 4 11
+p28
+aVChris Childs NYK 05/09/1998 NYK vs. IND W 30 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 5 2 0 2 1 29
+p29
+aVPatrick Ewing NYK 05/07/1998 NYK @ IND L 26 10 3 11 27.3 0 0 - 4 5 80.0 1 5 6 0 2 1 2 4 -8
+p30
+aVChris Mills NYK 05/07/1998 NYK @ IND L 10 3 1 3 33.3 0 2 0.0 1 1 100.0 0 2 2 0 0 0 0 1 -9
+p31
+aVCharles Oakley NYK 05/07/1998 NYK @ IND L 33 4 2 9 22.2 0 0 - 0 0 - 1 8 9 2 1 0 0 3 0
+p32
+aVChris Dudley NYK 05/07/1998 NYK @ IND L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 3 0
+p33
+aVTerry Cummings NYK 05/07/1998 NYK @ IND L 8 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 1 0 0 0 1 0
+p34
+aVChris Childs NYK 05/07/1998 NYK @ IND L 28 7 3 8 37.5 0 1 0.0 1 1 100.0 1 2 3 1 0 0 5 3 -8
+p35
+aVAllan Houston NYK 05/07/1998 NYK @ IND L 38 16 6 13 46.2 0 2 0.0 4 6 66.7 0 3 3 1 0 1 3 2 -1
+p36
+aVCharlie Ward NYK 05/07/1998 NYK @ IND L 20 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 10 0 0 3 4 -4
+p37
+aVLarry Johnson NYK 05/07/1998 NYK @ IND L 35 15 6 10 60.0 1 1 100.0 2 4 50.0 0 6 6 1 0 0 1 4 2
+p38
+aVJohn Starks NYK 05/07/1998 NYK @ IND L 30 20 7 13 53.8 4 5 80.0 2 2 100.0 0 6 6 0 2 0 0 4 -8
+p39
+aVCharlie Ward NYK 05/05/1998 NYK @ IND L 37 15 4 9 44.4 3 3 100.0 4 4 100.0 0 3 3 6 6 0 3 2 6
+p40
+aVAnthony Bowie NYK 05/05/1998 NYK @ IND L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p41
+aVCharles Oakley NYK 05/05/1998 NYK @ IND L 37 15 6 11 54.5 0 0 - 3 4 75.0 4 7 11 0 1 1 1 4 0
+p42
+aVAllan Houston NYK 05/05/1998 NYK @ IND L 43 16 7 16 43.8 0 0 - 2 2 100.0 0 2 2 5 1 0 3 3 0
+p43
+aVJohn Starks NYK 05/05/1998 NYK @ IND L 37 17 7 18 38.9 3 9 33.3 0 0 - 0 4 4 3 1 0 3 1 -7
+p44
+aVChris Dudley NYK 05/05/1998 NYK @ IND L 16 0 0 2 0.0 0 0 - 0 0 - 1 7 8 0 0 0 0 3 9
+p45
+aVChris Childs NYK 05/05/1998 NYK @ IND L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 4 3 -16
+p46
+aVTerry Cummings NYK 05/05/1998 NYK @ IND L 23 13 6 10 60.0 0 0 - 1 2 50.0 3 4 7 1 1 0 1 5 -22
+p47
+aVBuck Williams NYK 05/05/1998 NYK @ IND L 8 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 3 -16
+p48
+aVChris Mills NYK 05/05/1998 NYK @ IND L 20 1 0 4 0.0 0 1 0.0 1 2 50.0 0 1 1 3 2 1 1 4 -9
+p49
+aVCharlie Ward NYK 05/03/1998 NYK @ MIA L 30 7 3 4 75.0 1 2 50.0 0 0 - 0 4 4 14 5 1 1 5 21
+p50
+aVTerry Cummings NYK 05/03/1998 NYK @ MIA L 18 5 2 4 50.0 0 0 - 1 2 50.0 0 4 4 1 0 0 1 2 5
+p51
+aVBuck Williams NYK 05/03/1998 NYK @ MIA L 29 12 3 7 42.9 0 0 - 6 6 100.0 6 8 14 1 0 1 2 2 12
+p52
+aVAllan Houston NYK 05/03/1998 NYK @ MIA L 40 30 11 23 47.8 0 3 0.0 8 9 88.9 1 3 4 1 1 0 4 4 17
+p53
+aVJohn Starks NYK 05/03/1998 NYK @ MIA L 37 22 8 15 53.3 5 9 55.6 1 2 50.0 1 2 3 4 3 0 1 4 16
+p54
+aVCharles Oakley NYK 05/03/1998 NYK @ MIA L 48 18 8 13 61.5 0 0 - 2 3 66.7 0 13 13 2 0 0 2 3 0
+p55
+aVChris Childs NYK 05/03/1998 NYK @ MIA L 22 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 2 0 0 2 2 -4
+p56
+aVAnthony Bowie NYK 05/03/1998 NYK @ MIA L 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 1 4 1
+p57
+aVAnthony Bowie NYK 04/30/1998 NYK vs. MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p58
+aVCharles Oakley NYK 04/30/1998 MIA @ NYK L 34 10 3 10 30.0 0 0 - 4 4 100.0 1 6 7 3 2 0 0 4 0
+p59
+aVAllan Houston NYK 04/30/1998 NYK vs. MIA L 41 18 6 14 42.9 0 1 0.0 6 9 66.7 0 4 4 4 1 0 1 3 6
+p60
+aVLarry Johnson NYK 04/30/1998 NYK vs. MIA L 36 18 5 15 33.3 0 1 0.0 8 9 88.9 7 2 9 2 0 0 0 4 6
+p61
+aVChris Mills NYK 04/30/1998 NYK vs. MIA L 22 8 3 4 75.0 1 2 50.0 1 1 100.0 1 3 4 0 1 0 0 3 3
+p62
+aVJohn Starks NYK 04/30/1998 NYK vs. MIA L 32 17 5 10 50.0 2 6 33.3 5 6 83.3 0 5 5 0 3 0 0 3 10
+p63
+aVCharlie Ward NYK 04/30/1998 NYK vs. MIA L 19 2 1 2 50.0 0 0 - 0 0 - 0 3 3 7 1 0 2 0 -3
+p64
+aVChris Childs NYK 04/30/1998 NYK vs. MIA L 30 10 3 8 37.5 1 3 33.3 3 6 50.0 1 1 2 5 0 0 2 3 6
+p65
+aVTerry Cummings NYK 04/30/1998 NYK vs. MIA L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -1
+p66
+aVChris Dudley NYK 04/30/1998 NYK vs. MIA L 15 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 1 0 0 5 -5
+p67
+aVTerry Cummings NYK 04/28/1998 NYK vs. MIA L 13 0 0 3 0.0 0 0 - 0 2 0.0 0 2 2 0 1 0 1 3 -1
+p68
+aVCharlie Ward NYK 04/28/1998 NYK vs. MIA L 21 5 2 7 28.6 0 3 0.0 1 3 33.3 0 2 2 3 1 0 2 3 -7
+p69
+aVJohn Starks NYK 04/28/1998 NYK vs. MIA L 26 6 2 7 28.6 0 0 - 2 2 100.0 0 3 3 3 3 0 2 6 1
+p70
+aVChris Dudley NYK 04/28/1998 NYK vs. MIA L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 3 -4
+p71
+aVAnthony Bowie NYK 04/28/1998 NYK vs. MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p72
+aVChris Mills NYK 04/28/1998 NYK vs. MIA L 19 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 0 0 1 0 4 6
+p73
+aVCharles Oakley NYK 04/28/1998 MIA @ NYK L 39 6 3 4 75.0 0 0 - 0 0 - 2 5 7 0 1 0 2 6 0
+p74
+aVAllan Houston NYK 04/28/1998 NYK vs. MIA L 43 27 9 18 50.0 2 4 50.0 7 8 87.5 1 3 4 3 1 0 4 1 -9
+p75
+aVLarry Johnson NYK 04/28/1998 NYK vs. MIA L 41 22 6 12 50.0 0 0 - 10 13 76.9 4 3 7 2 0 1 7 1 -4
+p76
+aVChris Childs NYK 04/28/1998 NYK vs. MIA L 30 10 3 7 42.9 1 3 33.3 3 4 75.0 1 5 6 3 0 0 3 4 -4
+p77
+aVCharlie Ward NYK 04/26/1998 NYK @ MIA W 27 6 2 5 40.0 0 2 0.0 2 3 66.7 0 3 3 7 3 0 2 4 2
+p78
+aVAnthony Bowie NYK 04/26/1998 NYK @ MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p79
+aVChris Childs NYK 04/26/1998 NYK @ MIA W 22 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 2 1 0 0 4 8
+p80
+aVJohn Starks NYK 04/26/1998 NYK @ MIA W 31 25 7 11 63.6 4 6 66.7 7 7 100.0 0 3 3 1 0 0 1 3 17
+p81
+aVTerry Cummings NYK 04/26/1998 NYK @ MIA W 27 4 2 6 33.3 0 0 - 0 1 0.0 5 9 14 1 1 1 1 5 13
+p82
+aVAllan Houston NYK 04/26/1998 NYK @ MIA W 41 24 8 18 44.4 2 5 40.0 6 6 100.0 1 8 9 6 1 0 4 2 13
+p83
+aVCharles Oakley NYK 04/26/1998 NYK @ MIA L 26 6 2 11 18.2 0 0 - 2 2 100.0 5 3 8 1 2 0 1 3 0
+p84
+aVLarry Johnson NYK 04/26/1998 NYK @ MIA W 41 22 10 20 50.0 0 0 - 2 5 40.0 2 5 7 1 2 0 2 3 16
+p85
+aVChris Mills NYK 04/26/1998 NYK @ MIA W 20 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 1 0 -8
+p86
+aVAllan Houston NYK 04/24/1998 NYK @ MIA L 39 17 5 18 27.8 0 1 0.0 7 7 100.0 1 2 3 1 0 0 4 2 -15
+p87
+aVChris Dudley NYK 04/24/1998 NYK @ MIA L 1 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 1
+p88
+aVChris Mills NYK 04/24/1998 NYK @ MIA L 27 4 1 7 14.3 0 0 - 2 2 100.0 1 3 4 0 0 0 0 5 3
+p89
+aVCharlie Ward NYK 04/24/1998 NYK @ MIA L 36 9 3 8 37.5 1 2 50.0 2 4 50.0 1 6 7 3 2 0 1 3 -9
+p90
+aVJohn Starks NYK 04/24/1998 NYK @ MIA L 30 14 6 12 50.0 0 2 0.0 2 3 66.7 2 4 6 2 0 1 2 3 -9
+p91
+aVLarry Johnson NYK 04/24/1998 NYK @ MIA L 37 21 8 14 57.1 0 0 - 5 5 100.0 1 5 6 1 2 1 3 5 -21
+p92
+aVCharles Oakley NYK 04/24/1998 NYK @ MIA L 39 10 1 4 25.0 0 0 - 8 8 100.0 3 9 12 4 0 0 3 3 0
+p93
+aVChris Childs NYK 04/24/1998 NYK @ MIA L 18 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 0 0 1 3 -7
+p94
+aVBuck Williams NYK 04/24/1998 NYK @ MIA L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p95
+aVAnthony Bowie NYK 04/24/1998 NYK @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p96
+a.

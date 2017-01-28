@@ -1,0 +1,1058 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJoe Dumars DET 05/05/1999 DET @ PHI L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -4
+p2
+aVDon Reid DET 05/05/1999 DET @ PHI L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -14
+p3
+aVChristian Laettner DET 05/05/1999 DET @ PHI L 31 10 3 8 37.5 0 1 0.0 4 4 100.0 0 1 1 0 3 1 1 4 -7
+p4
+aVJerome Williams DET 05/05/1999 DET @ PHI L 45 11 4 7 57.1 0 0 - 3 7 42.9 6 5 11 0 1 0 0 4 -3
+p5
+aVJud Buechler DET 05/05/1999 DET @ PHI L 25 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 1 0 0 0 1 -16
+p6
+aVJerry Stackhouse DET 05/05/1999 DET @ PHI L 37 21 4 11 36.4 2 4 50.0 11 12 91.7 1 4 5 3 1 1 5 3 -6
+p7
+aVGrant Hill DET 05/05/1999 DET @ PHI L 43 27 10 22 45.5 0 0 - 7 8 87.5 1 6 7 7 0 1 6 3 6
+p8
+aVBison Dele DET 05/05/1999 DET @ PHI L 16 2 1 2 50.0 0 0 - 0 0 - 0 4 4 2 1 0 3 6 11
+p9
+aVEric Montross DET 05/05/1999 DET @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p10
+aVLindsey Hunter DET 05/05/1999 DET @ PHI L 47 18 9 15 60.0 0 2 0.0 0 0 - 1 3 4 9 1 0 4 1 7
+p11
+aVJerry Stackhouse DET 05/03/1999 DET @ CHI W 31 18 6 10 60.0 0 1 0.0 6 7 85.7 0 3 3 4 1 1 3 3 27
+p12
+aVChristian Laettner DET 05/03/1999 DET @ CHI W 19 9 3 3 100.0 0 0 - 3 4 75.0 0 1 1 5 0 0 3 2 11
+p13
+aVCharles O'Bannon DET 05/03/1999 DET @ CHI W 17 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 2 12
+p14
+aVBison Dele DET 05/03/1999 DET @ CHI W 23 13 5 8 62.5 0 0 - 3 3 100.0 2 3 5 0 0 1 1 3 24
+p15
+aVGrant Hill DET 05/03/1999 DET @ CHI W 26 22 11 16 68.8 0 0 - 0 0 - 1 3 4 3 0 0 0 1 16
+p16
+aVLindsey Hunter DET 05/03/1999 DET @ CHI W 35 11 5 10 50.0 1 2 50.0 0 0 - 1 8 9 11 2 0 4 1 39
+p17
+aVDon Reid DET 05/03/1999 DET @ CHI W 14 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 0 1 0 2 1
+p18
+aVEric Montross DET 05/03/1999 DET @ CHI W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 9
+p19
+aVLoy Vaught DET 05/03/1999 DET @ CHI W 12 5 2 4 50.0 0 1 0.0 1 2 50.0 2 3 5 0 0 0 0 2 13
+p20
+aVJerome Williams DET 05/03/1999 DET @ CHI W 22 11 5 7 71.4 0 0 - 1 1 100.0 2 4 6 1 2 1 0 3 30
+p21
+aVJud Buechler DET 05/03/1999 DET @ CHI W 20 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 1 2 0 0 0 23
+p22
+aVJoe Dumars DET 05/03/1999 DET @ CHI W 14 9 3 3 100.0 3 3 100.0 0 0 - 0 0 0 1 0 0 0 0 15
+p23
+aVChristian Laettner DET 05/02/1999 DET vs. PHI W 25 9 3 7 42.9 0 0 - 3 4 75.0 1 3 4 1 1 4 2 3 12
+p24
+aVJerome Williams DET 05/02/1999 DET vs. PHI W 31 2 1 2 50.0 0 0 - 0 0 - 4 7 11 1 0 0 1 3 -4
+p25
+aVJud Buechler DET 05/02/1999 DET vs. PHI W 14 6 3 6 50.0 0 1 0.0 0 0 - 2 1 3 0 1 0 1 2 5
+p26
+aVJoe Dumars DET 05/02/1999 DET vs. PHI W 33 15 5 9 55.6 2 6 33.3 3 4 75.0 0 0 0 1 0 0 2 2 -1
+p27
+aVBison Dele DET 05/02/1999 DET vs. PHI W 25 10 4 9 44.4 0 0 - 2 3 66.7 2 3 5 1 1 0 1 3 -1
+p28
+aVJerry Stackhouse DET 05/02/1999 DET vs. PHI W 19 0 0 6 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 3 1 2
+p29
+aVLindsey Hunter DET 05/02/1999 DET vs. PHI W 39 21 8 14 57.1 1 1 100.0 4 4 100.0 0 5 5 5 0 0 1 3 3
+p30
+aVDon Reid DET 05/02/1999 DET vs. PHI W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 7
+p31
+aVEric Montross DET 05/02/1999 DET vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p32
+aVGrant Hill DET 05/02/1999 DET vs. PHI W 40 35 13 20 65.0 0 0 - 9 11 81.8 5 9 14 7 1 0 4 1 2
+p33
+aVChristian Laettner DET 04/30/1999 DET @ MIL W 15 4 0 1 0.0 0 0 - 4 4 100.0 1 2 3 0 1 1 0 1 11
+p34
+aVDon Reid DET 04/30/1999 DET @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p35
+aVJerome Williams DET 04/30/1999 DET @ MIL W 28 9 3 5 60.0 0 0 - 3 4 75.0 1 5 6 0 4 0 4 4 1
+p36
+aVBison Dele DET 04/30/1999 DET @ MIL W 35 10 3 6 50.0 0 0 - 4 4 100.0 3 5 8 0 0 0 3 5 -6
+p37
+aVJud Buechler DET 04/30/1999 DET @ MIL W 22 9 3 7 42.9 2 5 40.0 1 1 100.0 1 2 3 2 0 0 0 1 10
+p38
+aVGrant Hill DET 04/30/1999 DET @ MIL W 41 15 4 11 36.4 0 0 - 7 10 70.0 0 8 8 6 1 0 5 1 0
+p39
+aVJoe Dumars DET 04/30/1999 DET @ MIL W 38 20 7 16 43.8 4 10 40.0 2 3 66.7 2 3 5 4 0 0 2 0 8
+p40
+aVJerry Stackhouse DET 04/30/1999 DET @ MIL W 20 7 2 5 40.0 1 2 50.0 2 2 100.0 1 1 2 2 1 0 4 1 -5
+p41
+aVLindsey Hunter DET 04/30/1999 DET @ MIL W 38 7 3 9 33.3 1 3 33.3 0 0 - 0 5 5 3 2 0 2 0 8
+p42
+aVJoe Dumars DET 04/28/1999 DET vs. NJN W 28 15 5 10 50.0 5 6 83.3 0 0 - 0 1 1 5 0 0 2 3 4
+p43
+aVJud Buechler DET 04/28/1999 DET vs. NJN W 25 8 3 6 50.0 2 5 40.0 0 0 - 1 4 5 2 0 0 0 1 6
+p44
+aVGrant Hill DET 04/28/1999 DET vs. NJN W 37 25 12 14 85.7 0 0 - 1 3 33.3 1 6 7 6 2 0 6 2 12
+p45
+aVLindsey Hunter DET 04/28/1999 DET vs. NJN W 30 7 3 8 37.5 0 0 - 1 1 100.0 0 3 3 4 0 0 0 3 18
+p46
+aVDon Reid DET 04/28/1999 DET vs. NJN W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p47
+aVCharles O'Bannon DET 04/28/1999 DET vs. NJN W 6 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 3 -5
+p48
+aVJerome Williams DET 04/28/1999 DET vs. NJN W 40 18 6 7 85.7 0 0 - 6 9 66.7 4 11 15 0 2 0 0 3 6
+p49
+aVJerry Stackhouse DET 04/28/1999 DET vs. NJN W 25 18 6 12 50.0 3 6 50.0 3 3 100.0 0 2 2 4 1 0 3 1 2
+p50
+aVBison Dele DET 04/28/1999 DET vs. NJN W 23 10 5 11 45.5 0 0 - 0 0 - 1 4 5 2 0 3 1 5 0
+p51
+aVChristian Laettner DET 04/28/1999 DET vs. NJN W 12 0 0 7 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 0
+p52
+aVEric Montross DET 04/27/1999 DET @ BOS W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -3
+p53
+aVJud Buechler DET 04/27/1999 DET @ BOS W 17 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 0 0 0 1 0 -3
+p54
+aVDon Reid DET 04/27/1999 DET @ BOS W 12 3 1 1 100.0 0 0 - 1 3 33.3 1 1 2 1 0 2 2 4 -2
+p55
+aVJerry Stackhouse DET 04/27/1999 DET @ BOS W 16 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -13
+p56
+aVGrant Hill DET 04/27/1999 DET @ BOS W 44 32 12 20 60.0 0 0 - 8 15 53.3 1 4 5 2 5 1 1 1 19
+p57
+aVJoe Dumars DET 04/27/1999 DET @ BOS W 38 1 0 2 0.0 0 2 0.0 1 2 50.0 0 5 5 3 0 0 6 1 22
+p58
+aVChristian Laettner DET 04/27/1999 DET @ BOS W 11 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 0 2 0 -17
+p59
+aVJerome Williams DET 04/27/1999 DET @ BOS W 34 21 9 15 60.0 0 0 - 3 4 75.0 11 3 14 1 7 1 0 4 0
+p60
+aVBison Dele DET 04/27/1999 DET @ BOS W 23 6 2 6 33.3 0 0 - 2 4 50.0 0 8 8 1 1 1 2 6 18
+p61
+aVLindsey Hunter DET 04/27/1999 DET @ BOS W 40 13 4 13 30.8 0 3 0.0 5 5 100.0 0 3 3 4 2 0 2 4 14
+p62
+aVGrant Hill DET 04/25/1999 DET @ TOR W 37 18 8 18 44.4 0 0 - 2 2 100.0 2 5 7 4 2 0 4 4 0
+p63
+aVJerry Stackhouse DET 04/25/1999 DET @ TOR W 30 24 6 13 46.2 1 3 33.3 11 14 78.6 1 0 1 4 2 1 3 1 15
+p64
+aVCharles O'Bannon DET 04/25/1999 DET @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p65
+aVJerome Williams DET 04/25/1999 DET @ TOR W 36 6 3 6 50.0 0 0 - 0 2 0.0 4 8 12 0 2 0 2 4 9
+p66
+aVJud Buechler DET 04/25/1999 DET @ TOR W 22 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 1 1 1 0 5 6
+p67
+aVDon Reid DET 04/25/1999 DET @ TOR W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 1
+p68
+aVBison Dele DET 04/25/1999 DET @ TOR W 33 16 7 13 53.8 0 0 - 2 2 100.0 5 3 8 2 0 1 5 4 4
+p69
+aVLindsey Hunter DET 04/25/1999 DET @ TOR W 35 15 5 10 50.0 0 0 - 5 7 71.4 1 2 3 3 2 0 1 2 -1
+p70
+aVEric Montross DET 04/25/1999 DET @ TOR W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 3 4
+p71
+aVJoe Dumars DET 04/25/1999 DET @ TOR W 31 10 2 7 28.6 1 3 33.3 5 5 100.0 0 0 0 4 1 0 1 2 5
+p72
+aVLindsey Hunter DET 04/22/1999 DET vs. PHI L 36 17 7 19 36.8 2 6 33.3 1 1 100.0 0 3 3 3 1 1 2 3 -16
+p73
+aVGrant Hill DET 04/22/1999 DET vs. PHI L 39 12 5 14 35.7 0 0 - 2 2 100.0 1 6 7 6 0 1 3 3 -10
+p74
+aVJud Buechler DET 04/22/1999 DET vs. PHI L 15 3 1 3 33.3 1 2 50.0 0 0 - 2 1 3 2 1 0 1 2 -1
+p75
+aVDon Reid DET 04/22/1999 DET vs. PHI L 26 13 4 6 66.7 0 0 - 5 6 83.3 2 1 3 0 0 2 0 2 -5
+p76
+aVJerry Stackhouse DET 04/22/1999 DET vs. PHI L 22 12 3 10 30.0 0 4 0.0 6 7 85.7 0 2 2 3 2 0 3 3 2
+p77
+aVJoe Dumars DET 04/22/1999 DET vs. PHI L 35 19 6 9 66.7 5 7 71.4 2 3 66.7 1 4 5 9 0 0 4 2 -6
+p78
+aVBison Dele DET 04/22/1999 DET vs. PHI L 26 10 4 8 50.0 0 0 - 2 2 100.0 0 4 4 0 2 0 1 1 -2
+p79
+aVJerome Williams DET 04/22/1999 DET vs. PHI L 35 10 5 8 62.5 0 0 - 0 4 0.0 9 4 13 1 2 0 1 3 -9
+p80
+aVEric Montross DET 04/22/1999 DET vs. PHI L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p81
+aVJerome Williams DET 04/21/1999 DET @ CHH L 36 22 9 13 69.2 0 0 - 4 6 66.7 5 4 9 2 5 0 0 3 7
+p82
+aVGrant Hill DET 04/21/1999 DET @ CHH L 42 28 10 21 47.6 0 1 0.0 8 9 88.9 3 6 9 6 1 0 4 2 2
+p83
+aVDon Reid DET 04/21/1999 DET @ CHH L 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 5 -10
+p84
+aVLindsey Hunter DET 04/21/1999 DET @ CHH L 41 12 5 13 38.5 0 2 0.0 2 2 100.0 2 4 6 2 0 0 0 3 1
+p85
+aVEric Montross DET 04/21/1999 DET @ CHH L 25 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 2 1 0 1 5 3
+p86
+aVJud Buechler DET 04/21/1999 DET @ CHH L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 1 0 1 1 -7
+p87
+aVBison Dele DET 04/21/1999 DET @ CHH L 22 13 6 9 66.7 0 0 - 1 2 50.0 1 2 3 1 0 0 1 5 -5
+p88
+aVJerry Stackhouse DET 04/21/1999 DET @ CHH L 17 2 0 9 0.0 0 3 0.0 2 2 100.0 2 2 4 1 0 0 2 1 -9
+p89
+aVJoe Dumars DET 04/21/1999 DET @ CHH L 34 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 5 3 0 0 2 3
+p90
+aVGrant Hill DET 04/18/1999 DET @ ORL L 41 18 7 18 38.9 0 0 - 4 5 80.0 3 4 7 6 2 2 7 3 -9
+p91
+aVDon Reid DET 04/18/1999 DET @ ORL L 32 15 5 9 55.6 0 0 - 5 8 62.5 2 2 4 1 2 0 1 2 -14
+p92
+aVJerry Stackhouse DET 04/18/1999 DET @ ORL L 26 8 3 6 50.0 1 3 33.3 1 1 100.0 0 4 4 3 0 0 1 1 0
+p93
+aVJud Buechler DET 04/18/1999 DET @ ORL L 19 0 0 6 0.0 0 3 0.0 0 0 - 0 3 3 1 1 0 1 0 -7
+p94
+aVJoe Dumars DET 04/18/1999 DET @ ORL L 34 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 1 0 0 0 2 -9
+p95
+aVEric Montross DET 04/18/1999 DET @ ORL L 23 2 1 2 50.0 0 0 - 0 0 - 3 4 7 0 1 1 0 1 0
+p96
+aVJerome Williams DET 04/18/1999 DET @ ORL L 33 10 5 8 62.5 0 0 - 0 0 - 3 5 8 1 1 0 2 4 -1
+p97
+aVLindsey Hunter DET 04/18/1999 DET @ ORL L 33 25 9 18 50.0 5 8 62.5 2 3 66.7 1 1 2 6 2 0 2 4 5
+p98
+aVJerry Stackhouse DET 04/16/1999 DET vs. NYK W 14 1 0 4 0.0 0 1 0.0 1 2 50.0 1 3 4 0 0 1 2 0 -2
+p99
+aVJoe Dumars DET 04/16/1999 DET vs. NYK W 34 12 4 14 28.6 1 6 16.7 3 4 75.0 0 2 2 3 0 0 1 3 -1
+p100
+aVLoy Vaught DET 04/16/1999 DET vs. NYK W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 7
+p101
+aVGrant Hill DET 04/16/1999 DET vs. NYK W 40 16 7 19 36.8 0 0 - 2 7 28.6 1 7 8 7 4 0 2 1 6
+p102
+aVCharles O'Bannon DET 04/16/1999 DET vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p103
+aVJerome Williams DET 04/16/1999 DET vs. NYK W 28 11 5 9 55.6 0 0 - 1 1 100.0 3 3 6 0 1 0 1 3 -1
+p104
+aVLindsey Hunter DET 04/16/1999 DET vs. NYK W 39 23 8 13 61.5 1 1 100.0 6 6 100.0 0 5 5 2 4 0 3 4 11
+p105
+aVEric Montross DET 04/16/1999 DET vs. NYK W 11 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 2 1 5 4
+p106
+aVJud Buechler DET 04/16/1999 DET vs. NYK W 17 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 2 1 0 0 1 20
+p107
+aVDon Reid DET 04/16/1999 DET vs. NYK W 33 6 3 5 60.0 0 0 - 0 0 - 4 2 6 1 0 2 1 4 7
+p108
+aVBison Dele DET 04/16/1999 DET vs. NYK W 13 6 3 8 37.5 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -7
+p109
+aVLindsey Hunter DET 04/14/1999 DET @ CHH L 45 20 10 23 43.5 0 2 0.0 0 2 0.0 1 1 2 2 2 0 3 3 -8
+p110
+aVGrant Hill DET 04/14/1999 DET @ CHH L 10 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 3 1 -9
+p111
+aVJoe Dumars DET 04/14/1999 DET @ CHH L 28 16 5 13 38.5 2 7 28.6 4 5 80.0 1 2 3 4 1 0 1 2 2
+p112
+aVBison Dele DET 04/14/1999 DET @ CHH L 10 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -8
+p113
+aVDon Reid DET 04/14/1999 DET @ CHH L 29 5 1 4 25.0 0 0 - 3 6 50.0 3 4 7 1 0 0 1 4 -2
+p114
+aVEric Montross DET 04/14/1999 DET @ CHH L 27 0 0 1 0.0 0 0 - 0 2 0.0 1 10 11 2 1 1 2 5 3
+p115
+aVKhalid Reeves DET 04/14/1999 DET @ CHH L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p116
+aVJud Buechler DET 04/14/1999 DET @ CHH L 27 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 3 1 0 0 4 -5
+p117
+aVJerome Williams DET 04/14/1999 DET @ CHH L 27 13 5 9 55.6 0 0 - 3 3 100.0 5 4 9 1 1 1 1 1 3
+p118
+aVCharles O'Bannon DET 04/14/1999 DET @ CHH L 28 14 6 10 60.0 0 0 - 2 2 100.0 4 3 7 5 0 1 1 4 16
+p119
+aVLoy Vaught DET 04/14/1999 DET @ CHH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p120
+aVLoy Vaught DET 04/12/1999 DET vs. CHH L 18 2 1 10 10.0 0 0 - 0 0 - 4 5 9 1 1 0 0 4 0
+p121
+aVGrant Hill DET 04/12/1999 DET vs. CHH L 39 15 7 18 38.9 0 1 0.0 1 2 50.0 1 7 8 9 3 0 4 5 -2
+p122
+aVJerome Williams DET 04/12/1999 DET vs. CHH L 14 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 1 0 1 0 -4
+p123
+aVJerry Stackhouse DET 04/12/1999 DET vs. CHH L 22 14 4 12 33.3 0 3 0.0 6 6 100.0 0 3 3 3 1 0 2 1 -12
+p124
+aVJoe Dumars DET 04/12/1999 DET vs. CHH L 29 4 1 4 25.0 0 3 0.0 2 2 100.0 0 1 1 6 0 0 0 1 -2
+p125
+aVDon Reid DET 04/12/1999 DET vs. CHH L 38 25 10 13 76.9 0 0 - 5 7 71.4 4 5 9 2 0 1 1 5 3
+p126
+aVJud Buechler DET 04/12/1999 DET vs. CHH L 22 7 2 5 40.0 1 4 25.0 2 2 100.0 0 2 2 1 2 1 2 2 -2
+p127
+aVLindsey Hunter DET 04/12/1999 DET vs. CHH L 39 5 2 13 15.4 1 6 16.7 0 0 - 1 3 4 3 1 0 2 6 4
+p128
+aVEric Montross DET 04/12/1999 DET vs. CHH L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p129
+aVBison Dele DET 04/12/1999 DET vs. CHH L 12 8 3 7 42.9 0 0 - 2 3 66.7 0 0 0 1 2 0 0 2 -7
+p130
+aVCharles O'Bannon DET 04/11/1999 DET @ MIN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 2
+p131
+aVJud Buechler DET 04/11/1999 DET @ MIN L 25 5 2 8 25.0 1 5 20.0 0 0 - 1 2 3 2 0 0 0 2 -7
+p132
+aVJoe Dumars DET 04/11/1999 DET @ MIN L 37 8 3 13 23.1 2 10 20.0 0 0 - 1 2 3 2 1 0 0 1 -10
+p133
+aVEric Montross DET 04/11/1999 DET @ MIN L 18 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 2 0 1 -5
+p134
+aVDon Reid DET 04/11/1999 DET @ MIN L 20 6 2 3 66.7 0 0 - 2 2 100.0 3 1 4 1 1 1 1 3 5
+p135
+aVKhalid Reeves DET 04/11/1999 DET @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p136
+aVJerome Williams DET 04/11/1999 DET @ MIN L 16 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 2
+p137
+aVBison Dele DET 04/11/1999 DET @ MIN L 24 14 7 11 63.6 0 0 - 0 0 - 0 4 4 1 0 0 2 5 -5
+p138
+aVLoy Vaught DET 04/11/1999 DET @ MIN L 16 2 1 5 20.0 0 0 - 0 0 - 2 3 5 0 1 0 0 2 -11
+p139
+aVLindsey Hunter DET 04/11/1999 DET @ MIN L 41 13 6 14 42.9 1 4 25.0 0 0 - 2 1 3 5 1 0 4 2 -9
+p140
+aVGrant Hill DET 04/11/1999 DET @ MIN L 37 27 8 20 40.0 0 0 - 11 13 84.6 2 6 8 4 0 0 5 5 -11
+p141
+aVBison Dele DET 04/09/1999 DET @ IND W 23 4 2 4 50.0 0 0 - 0 2 0.0 3 1 4 4 1 2 1 5 -10
+p142
+aVLindsey Hunter DET 04/09/1999 DET @ IND W 35 17 7 13 53.8 3 5 60.0 0 0 - 0 3 3 2 3 0 1 2 0
+p143
+aVLoy Vaught DET 04/09/1999 DET @ IND W 23 9 4 9 44.4 0 0 - 1 1 100.0 1 6 7 1 0 0 2 3 3
+p144
+aVEric Montross DET 04/09/1999 DET @ IND W 16 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 5 2
+p145
+aVDon Reid DET 04/09/1999 DET @ IND W 26 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 2 1 2 6 -5
+p146
+aVJerome Williams DET 04/09/1999 DET @ IND W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 7
+p147
+aVJoe Dumars DET 04/09/1999 DET @ IND W 40 25 8 15 53.3 5 9 55.6 4 4 100.0 0 0 0 3 0 0 3 2 -8
+p148
+aVGrant Hill DET 04/09/1999 DET @ IND W 42 30 11 20 55.0 0 0 - 8 8 100.0 0 4 4 8 2 0 3 1 -1
+p149
+aVJud Buechler DET 04/09/1999 DET @ IND W 27 9 3 5 60.0 3 5 60.0 0 0 - 1 0 1 1 1 1 1 3 17
+p150
+aVEric Montross DET 04/07/1999 DET vs. ATL W 16 2 1 2 50.0 0 0 - 0 2 0.0 2 4 6 2 0 1 0 3 -3
+p151
+aVGrant Hill DET 04/07/1999 DET vs. ATL W 39 30 11 18 61.1 0 0 - 8 10 80.0 0 6 6 9 1 0 2 3 3
+p152
+aVKhalid Reeves DET 04/07/1999 DET vs. ATL W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p153
+aVLoy Vaught DET 04/07/1999 DET vs. ATL W 11 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -5
+p154
+aVJud Buechler DET 04/07/1999 DET vs. ATL W 24 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 1 2 0 0 0 9
+p155
+aVJoe Dumars DET 04/07/1999 DET vs. ATL W 34 8 3 10 30.0 2 6 33.3 0 0 - 0 0 0 5 0 0 2 2 8
+p156
+aVBison Dele DET 04/07/1999 DET vs. ATL W 29 18 7 10 70.0 0 0 - 4 6 66.7 3 4 7 4 0 2 2 2 4
+p157
+aVLindsey Hunter DET 04/07/1999 DET vs. ATL W 40 11 5 11 45.5 1 4 25.0 0 0 - 1 7 8 3 0 0 0 2 8
+p158
+aVDon Reid DET 04/07/1999 DET vs. ATL W 20 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 1 1 1 4 12
+p159
+aVJerome Williams DET 04/07/1999 DET vs. ATL W 19 4 2 7 28.6 0 0 - 0 0 - 4 2 6 0 0 0 0 1 3
+p160
+aVJud Buechler DET 04/05/1999 DET vs. IND L 19 6 2 8 25.0 2 5 40.0 0 0 - 0 0 0 1 0 1 0 0 -9
+p161
+aVJoe Dumars DET 04/05/1999 DET vs. IND L 35 12 5 15 33.3 2 8 25.0 0 0 - 1 3 4 9 0 0 0 1 4
+p162
+aVDon Reid DET 04/05/1999 DET vs. IND L 25 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 1 1 0 5 2
+p163
+aVJerry Stackhouse DET 04/05/1999 DET vs. IND L 20 8 3 7 42.9 0 0 - 2 4 50.0 0 2 2 1 1 0 4 1 -8
+p164
+aVBison Dele DET 04/05/1999 DET vs. IND L 34 19 9 12 75.0 0 0 - 1 2 50.0 4 5 9 2 2 1 1 5 6
+p165
+aVLindsey Hunter DET 04/05/1999 DET vs. IND L 34 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 2 0 0 0 2 3
+p166
+aVJerome Williams DET 04/05/1999 DET vs. IND L 22 6 2 6 33.3 0 0 - 2 2 100.0 3 8 11 1 1 0 0 2 -8
+p167
+aVGrant Hill DET 04/05/1999 DET vs. IND L 37 18 5 17 29.4 0 0 - 8 12 66.7 2 6 8 6 0 0 1 3 5
+p168
+aVEric Montross DET 04/05/1999 DET vs. IND L 15 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 0 3 0 2 -5
+p169
+aVJud Buechler DET 04/03/1999 DET vs. ORL L 24 4 2 4 50.0 0 1 0.0 0 0 - 2 7 9 2 2 0 1 3 -1
+p170
+aVGrant Hill DET 04/03/1999 DET vs. ORL L 35 19 7 14 50.0 0 1 0.0 5 6 83.3 0 5 5 3 1 0 8 0 -17
+p171
+aVEric Montross DET 04/03/1999 DET vs. ORL L 13 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 1 1 0 0 3 -3
+p172
+aVBison Dele DET 04/03/1999 DET vs. ORL L 33 20 9 15 60.0 0 0 - 2 2 100.0 0 1 1 5 0 0 3 4 -15
+p173
+aVLoy Vaught DET 04/03/1999 DET vs. ORL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p174
+aVLindsey Hunter DET 04/03/1999 DET vs. ORL L 33 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 4 4 0 3 3 -15
+p175
+aVDon Reid DET 04/03/1999 DET vs. ORL L 16 4 2 2 100.0 0 0 - 0 0 - 2 1 3 1 1 1 1 3 -2
+p176
+aVJoe Dumars DET 04/03/1999 DET vs. ORL L 36 6 2 11 18.2 0 7 0.0 2 2 100.0 0 3 3 4 0 0 3 2 -19
+p177
+aVKhalid Reeves DET 04/03/1999 DET vs. ORL L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 5
+p178
+aVJerome Williams DET 04/03/1999 DET vs. ORL L 27 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 4 3 -16
+p179
+aVKorleone Young DET 04/03/1999 DET vs. ORL L 8 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 4
+p180
+aVJud Buechler DET 04/01/1999 DET vs. CHI W 29 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 1 1 0 1 2 14
+p181
+aVGrant Hill DET 04/01/1999 DET vs. CHI W 32 18 8 14 57.1 0 1 0.0 2 6 33.3 0 4 4 11 3 0 2 1 28
+p182
+aVChristian Laettner DET 04/01/1999 DET vs. CHI W 20 11 2 4 50.0 1 2 50.0 6 8 75.0 0 4 4 5 2 3 0 1 3
+p183
+aVDon Reid DET 04/01/1999 DET vs. CHI W 34 14 7 9 77.8 0 0 - 0 0 - 1 5 6 2 3 2 0 3 31
+p184
+aVJerome Williams DET 04/01/1999 DET vs. CHI W 24 11 3 4 75.0 0 0 - 5 7 71.4 0 4 4 2 1 0 0 1 11
+p185
+aVKhalid Reeves DET 04/01/1999 DET vs. CHI W 9 1 0 1 0.0 0 1 0.0 1 4 25.0 0 1 1 4 1 0 2 0 4
+p186
+aVBison Dele DET 04/01/1999 DET vs. CHI W 16 12 6 7 85.7 0 0 - 0 0 - 0 5 5 4 0 0 1 5 15
+p187
+aVLindsey Hunter DET 04/01/1999 DET vs. CHI W 37 10 5 12 41.7 0 1 0.0 0 0 - 0 4 4 6 1 0 4 1 26
+p188
+aVLoy Vaught DET 04/01/1999 DET vs. CHI W 4 2 1 2 50.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 0 4
+p189
+aVEric Montross DET 04/01/1999 DET vs. CHI W 7 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 1 0 0 5
+p190
+aVJoe Dumars DET 04/01/1999 DET vs. CHI W 26 18 6 9 66.7 4 7 57.1 2 2 100.0 0 1 1 3 1 0 1 0 19
+p191
+aVGrant Hill DET 03/31/1999 DET @ BOS W 41 16 4 11 36.4 0 1 0.0 8 8 100.0 1 10 11 4 2 1 3 1 14
+p192
+aVLindsey Hunter DET 03/31/1999 DET @ BOS W 40 17 6 13 46.2 2 4 50.0 3 6 50.0 1 1 2 6 4 0 0 2 11
+p193
+aVDon Reid DET 03/31/1999 DET @ BOS W 15 9 3 5 60.0 0 0 - 3 4 75.0 2 2 4 0 2 0 0 3 11
+p194
+aVChristian Laettner DET 03/31/1999 DET @ BOS W 24 9 2 6 33.3 0 0 - 5 8 62.5 2 1 3 1 1 0 1 0 9
+p195
+aVBison Dele DET 03/31/1999 DET @ BOS W 24 14 7 13 53.8 0 0 - 0 0 - 2 3 5 2 1 2 1 4 6
+p196
+aVEric Montross DET 03/31/1999 DET @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p197
+aVJoe Dumars DET 03/31/1999 DET @ BOS W 36 9 3 10 30.0 1 5 20.0 2 4 50.0 1 1 2 3 1 0 1 0 19
+p198
+aVJerome Williams DET 03/31/1999 DET @ BOS W 31 4 2 4 50.0 0 0 - 0 0 - 6 4 10 0 1 0 0 3 1
+p199
+aVJud Buechler DET 03/31/1999 DET @ BOS W 27 9 3 6 50.0 3 5 60.0 0 0 - 0 3 3 3 1 0 3 3 1
+p200
+aVChristian Laettner DET 03/30/1999 DET @ ATL W 21 12 6 10 60.0 0 0 - 0 0 - 1 4 5 0 2 2 0 1 3
+p201
+aVJerome Williams DET 03/30/1999 DET @ ATL W 18 8 1 2 50.0 0 0 - 6 8 75.0 2 3 5 0 3 0 0 5 5
+p202
+aVBison Dele DET 03/30/1999 DET @ ATL W 33 6 2 8 25.0 0 0 - 2 3 66.7 4 6 10 3 0 0 2 3 16
+p203
+aVLindsey Hunter DET 03/30/1999 DET @ ATL W 36 21 7 13 53.8 4 7 57.1 3 4 75.0 0 1 1 4 1 0 2 2 17
+p204
+aVEric Montross DET 03/30/1999 DET @ ATL W 12 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 2 0 0 -3
+p205
+aVGrant Hill DET 03/30/1999 DET @ ATL W 39 28 10 17 58.8 0 0 - 8 10 80.0 0 5 5 8 4 2 2 0 22
+p206
+aVKhalid Reeves DET 03/30/1999 DET @ ATL W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 0
+p207
+aVDon Reid DET 03/30/1999 DET @ ATL W 12 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 4 9
+p208
+aVCharles O'Bannon DET 03/30/1999 DET @ ATL W 26 2 1 6 16.7 0 0 - 0 0 - 4 2 6 2 0 0 0 3 3
+p209
+aVJud Buechler DET 03/30/1999 DET @ ATL W 31 6 2 8 25.0 2 6 33.3 0 0 - 0 2 2 0 0 0 0 1 8
+p210
+aVGrant Hill DET 03/28/1999 DET vs. SEA W 28 14 5 11 45.5 0 0 - 4 4 100.0 0 6 6 7 4 1 3 3 29
+p211
+aVJud Buechler DET 03/28/1999 DET vs. SEA W 32 7 3 7 42.9 1 3 33.3 0 0 - 2 1 3 3 1 1 0 3 -5
+p212
+aVLoy Vaught DET 03/28/1999 DET vs. SEA W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p213
+aVChristian Laettner DET 03/28/1999 DET vs. SEA W 22 6 3 12 25.0 0 0 - 0 0 - 3 3 6 2 0 0 1 2 -9
+p214
+aVJerry Stackhouse DET 03/28/1999 DET vs. SEA W 25 18 6 11 54.5 2 3 66.7 4 4 100.0 0 2 2 3 1 0 1 0 16
+p215
+aVEric Montross DET 03/28/1999 DET vs. SEA W 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 2 0 1 2 1
+p216
+aVKhalid Reeves DET 03/28/1999 DET vs. SEA W 15 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 3 0 0 1 1 -1
+p217
+aVBison Dele DET 03/28/1999 DET vs. SEA W 23 18 9 12 75.0 0 0 - 0 1 0.0 3 5 8 2 2 0 3 1 24
+p218
+aVLindsey Hunter DET 03/28/1999 DET vs. SEA W 33 20 8 9 88.9 2 3 66.7 2 2 100.0 0 3 3 6 2 0 2 2 20
+p219
+aVDon Reid DET 03/28/1999 DET vs. SEA W 17 0 0 0 - 0 0 - 0 0 - 2 3 5 1 0 1 1 4 23
+p220
+aVJerome Williams DET 03/28/1999 DET vs. SEA W 18 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 1 1
+p221
+aVCharles O'Bannon DET 03/28/1999 DET vs. SEA W 11 8 4 7 57.1 0 0 - 0 0 - 1 1 2 0 1 0 3 0 -8
+p222
+aVChristian Laettner DET 03/26/1999 DET vs. MIL W 19 9 1 4 25.0 0 0 - 7 9 77.8 2 1 3 0 0 0 3 2 -7
+p223
+aVJerome Williams DET 03/26/1999 DET vs. MIL W 24 8 2 4 50.0 0 0 - 4 4 100.0 2 7 9 0 0 1 3 3 7
+p224
+aVJud Buechler DET 03/26/1999 DET vs. MIL W 29 8 3 9 33.3 2 7 28.6 0 1 0.0 1 1 2 0 4 0 0 4 2
+p225
+aVBison Dele DET 03/26/1999 DET vs. MIL W 27 11 5 9 55.6 0 0 - 1 1 100.0 1 3 4 1 2 1 1 4 4
+p226
+aVEric Montross DET 03/26/1999 DET vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p227
+aVJerry Stackhouse DET 03/26/1999 DET vs. MIL W 43 34 9 22 40.9 1 7 14.3 15 16 93.8 1 4 5 4 1 0 4 3 12
+p228
+aVKhalid Reeves DET 03/26/1999 DET vs. MIL W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -1
+p229
+aVDon Reid DET 03/26/1999 DET vs. MIL W 13 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 1 1 1 0 3 2
+p230
+aVLoy Vaught DET 03/26/1999 DET vs. MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p231
+aVLindsey Hunter DET 03/26/1999 DET vs. MIL W 30 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 9 2 0 3 4 3
+p232
+aVGrant Hill DET 03/26/1999 DET vs. MIL W 38 11 4 8 50.0 0 0 - 3 7 42.9 0 9 9 5 2 2 4 3 0
+p233
+aVCharles O'Bannon DET 03/26/1999 DET vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p234
+aVJerome Williams DET 03/24/1999 DET @ NJN W 20 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 6
+p235
+aVJerry Stackhouse DET 03/24/1999 DET @ NJN W 41 17 5 15 33.3 1 4 25.0 6 6 100.0 0 5 5 4 0 2 5 3 16
+p236
+aVJud Buechler DET 03/24/1999 DET @ NJN W 28 13 5 9 55.6 3 5 60.0 0 0 - 0 4 4 1 1 0 0 1 1
+p237
+aVGrant Hill DET 03/24/1999 DET @ NJN W 34 13 6 10 60.0 0 1 0.0 1 1 100.0 0 9 9 8 1 0 5 4 8
+p238
+aVDon Reid DET 03/24/1999 DET @ NJN W 17 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 1 5 5
+p239
+aVBison Dele DET 03/24/1999 DET @ NJN W 36 18 9 18 50.0 0 0 - 0 1 0.0 0 8 8 0 2 2 3 3 15
+p240
+aVLoy Vaught DET 03/24/1999 DET @ NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p241
+aVLindsey Hunter DET 03/24/1999 DET @ NJN W 40 11 4 6 66.7 1 2 50.0 2 3 66.7 0 5 5 5 3 0 3 3 14
+p242
+aVChristian Laettner DET 03/24/1999 DET @ NJN W 19 6 3 6 50.0 0 0 - 0 0 - 0 5 5 1 0 0 1 2 8
+p243
+aVCharles O'Bannon DET 03/22/1999 DET @ MIL L 17 8 2 6 33.3 0 0 - 4 4 100.0 2 0 2 0 0 0 1 3 0
+p244
+aVDon Reid DET 03/22/1999 DET @ MIL L 16 6 2 2 100.0 0 0 - 2 4 50.0 3 2 5 0 0 1 2 0 -13
+p245
+aVLindsey Hunter DET 03/22/1999 DET @ MIL L 29 4 1 8 12.5 1 5 20.0 1 2 50.0 0 3 3 1 1 1 4 2 -37
+p246
+aVBison Dele DET 03/22/1999 DET @ MIL L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 4 5 -18
+p247
+aVLoy Vaught DET 03/22/1999 DET @ MIL L 17 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -5
+p248
+aVJerry Stackhouse DET 03/22/1999 DET @ MIL L 27 13 1 8 12.5 1 3 33.3 10 12 83.3 1 1 2 2 0 0 3 0 -30
+p249
+aVEric Montross DET 03/22/1999 DET @ MIL L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -11
+p250
+aVGrant Hill DET 03/22/1999 DET @ MIL L 28 10 2 10 20.0 0 0 - 6 8 75.0 0 5 5 3 1 0 2 2 -14
+p251
+aVJud Buechler DET 03/22/1999 DET @ MIL L 28 3 1 8 12.5 1 5 20.0 0 0 - 2 1 3 2 1 0 0 5 -11
+p252
+aVChristian Laettner DET 03/22/1999 DET @ MIL L 26 17 4 9 44.4 0 0 - 9 10 90.0 3 6 9 3 3 0 2 4 -2
+p253
+aVKhalid Reeves DET 03/22/1999 DET @ MIL L 20 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 3
+p254
+aVJerome Williams DET 03/22/1999 DET @ MIL L 19 12 3 5 60.0 0 0 - 6 11 54.5 4 4 8 0 2 0 1 1 -7
+p255
+aVLindsey Hunter DET 03/21/1999 DET vs. UTA W 31 11 4 10 40.0 3 4 75.0 0 2 0.0 1 2 3 3 2 0 3 4 7
+p256
+aVJud Buechler DET 03/21/1999 DET vs. UTA W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -4
+p257
+aVJerome Williams DET 03/21/1999 DET vs. UTA W 19 3 1 2 50.0 0 0 - 1 3 33.3 5 1 6 0 2 0 0 2 -5
+p258
+aVBison Dele DET 03/21/1999 DET vs. UTA W 31 11 4 12 33.3 0 0 - 3 4 75.0 3 5 8 1 2 1 0 4 8
+p259
+aVEric Montross DET 03/21/1999 DET vs. UTA W 11 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 0 0 4 -3
+p260
+aVGrant Hill DET 03/21/1999 DET vs. UTA W 44 29 10 23 43.5 0 0 - 9 15 60.0 4 9 13 11 2 0 5 3 10
+p261
+aVJoe Dumars DET 03/21/1999 DET vs. UTA W 16 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 -13
+p262
+aVChristian Laettner DET 03/21/1999 DET vs. UTA W 30 4 1 10 10.0 0 0 - 2 4 50.0 1 0 1 1 1 0 0 5 -2
+p263
+aVLoy Vaught DET 03/21/1999 DET vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p264
+aVJerry Stackhouse DET 03/21/1999 DET vs. UTA W 42 32 9 17 52.9 3 4 75.0 11 17 64.7 1 3 4 4 3 0 2 1 11
+p265
+aVDon Reid DET 03/21/1999 DET vs. UTA W 12 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 1 0 4 4
+p266
+aVKhalid Reeves DET 03/21/1999 DET vs. UTA W 14 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 5 1
+p267
+aVBison Dele DET 03/19/1999 DET vs. DAL W 21 13 5 17 29.4 0 0 - 3 4 75.0 6 3 9 2 1 1 0 4 0
+p268
+aVDon Reid DET 03/19/1999 DET vs. DAL W 30 11 4 5 80.0 0 0 - 3 5 60.0 1 3 4 0 0 1 1 2 8
+p269
+aVGrant Hill DET 03/19/1999 DET vs. DAL W 40 14 5 11 45.5 0 0 - 4 4 100.0 0 6 6 9 1 0 4 2 -2
+p270
+aVJerome Williams DET 03/19/1999 DET vs. DAL W 14 5 2 2 100.0 0 0 - 1 1 100.0 2 3 5 1 1 0 0 4 5
+p271
+aVJerry Stackhouse DET 03/19/1999 DET vs. DAL W 26 15 6 17 35.3 1 5 20.0 2 2 100.0 0 0 0 2 0 1 2 2 6
+p272
+aVEric Montross DET 03/19/1999 DET vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p273
+aVJoe Dumars DET 03/19/1999 DET vs. DAL W 31 11 4 9 44.4 3 6 50.0 0 0 - 0 4 4 3 1 0 1 0 -3
+p274
+aVChristian Laettner DET 03/19/1999 DET vs. DAL W 24 8 4 10 40.0 0 0 - 0 0 - 5 2 7 1 0 0 2 0 4
+p275
+aVJud Buechler DET 03/19/1999 DET vs. DAL W 15 9 3 3 100.0 3 3 100.0 0 0 - 0 2 2 2 1 0 0 0 17
+p276
+aVLindsey Hunter DET 03/19/1999 DET vs. DAL W 33 8 4 11 36.4 0 3 0.0 0 0 - 1 4 5 1 2 1 1 1 5
+p277
+aVLindsey Hunter DET 03/17/1999 DET vs. TOR L 39 12 3 9 33.3 2 5 40.0 4 4 100.0 0 3 3 2 5 0 3 2 -6
+p278
+aVLoy Vaught DET 03/17/1999 DET vs. TOR L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 1
+p279
+aVDon Reid DET 03/17/1999 DET vs. TOR L 17 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 0 2 2 5 -1
+p280
+aVKhalid Reeves DET 03/17/1999 DET vs. TOR L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 8
+p281
+aVChristian Laettner DET 03/17/1999 DET vs. TOR L 19 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 3 1 0 1 3 -2
+p282
+aVEric Montross DET 03/17/1999 DET vs. TOR L 3 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p283
+aVJoe Dumars DET 03/17/1999 DET vs. TOR L 26 8 3 11 27.3 2 9 22.2 0 0 - 0 0 0 5 0 0 1 4 -7
+p284
+aVJerry Stackhouse DET 03/17/1999 DET vs. TOR L 27 19 7 14 50.0 3 4 75.0 2 3 66.7 1 1 2 2 1 0 2 1 0
+p285
+aVJud Buechler DET 03/17/1999 DET vs. TOR L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 6
+p286
+aVJerome Williams DET 03/17/1999 DET vs. TOR L 17 7 2 4 50.0 0 0 - 3 4 75.0 1 2 3 1 1 0 1 1 7
+p287
+aVBison Dele DET 03/17/1999 DET vs. TOR L 35 23 9 15 60.0 0 0 - 5 6 83.3 1 4 5 2 0 0 2 5 -8
+p288
+aVGrant Hill DET 03/17/1999 DET vs. TOR L 34 18 5 8 62.5 0 0 - 8 10 80.0 3 6 9 7 5 1 6 3 -12
+p289
+aVLindsey Hunter DET 03/16/1999 DET @ CLE L 31 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 2 2 2 4
+p290
+aVEric Montross DET 03/16/1999 DET @ CLE L 21 4 2 3 66.7 0 0 - 0 1 0.0 0 2 2 1 0 0 0 3 -4
+p291
+aVLoy Vaught DET 03/16/1999 DET @ CLE L 10 4 2 6 33.3 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -6
+p292
+aVJoe Dumars DET 03/16/1999 DET @ CLE L 35 18 6 12 50.0 6 10 60.0 0 0 - 1 2 3 6 1 1 3 5 5
+p293
+aVBison Dele DET 03/16/1999 DET @ CLE L 18 5 2 4 50.0 0 0 - 1 2 50.0 0 4 4 1 4 3 4 6 2
+p294
+aVJud Buechler DET 03/16/1999 DET @ CLE L 17 8 3 4 75.0 0 1 0.0 2 2 100.0 1 2 3 1 0 2 1 3 -7
+p295
+aVJerome Williams DET 03/16/1999 DET @ CLE L 19 3 1 4 25.0 0 0 - 1 3 33.3 3 5 8 0 2 0 2 2 -8
+p296
+aVGrant Hill DET 03/16/1999 DET @ CLE L 38 23 11 29 37.9 0 2 0.0 1 3 33.3 2 10 12 5 0 3 7 3 4
+p297
+aVJerry Stackhouse DET 03/16/1999 DET @ CLE L 27 9 3 11 27.3 0 1 0.0 3 3 100.0 0 3 3 5 0 1 1 2 -13
+p298
+aVDon Reid DET 03/16/1999 DET @ CLE L 23 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 1 1 1 0 3 3
+p299
+aVLoy Vaught DET 03/14/1999 DET vs. ATL L 20 0 0 4 0.0 0 0 - 0 0 - 0 6 6 1 0 0 0 3 -1
+p300
+aVJud Buechler DET 03/14/1999 DET vs. ATL L 21 6 2 9 22.2 2 7 28.6 0 0 - 0 1 1 0 0 0 0 3 -3
+p301
+aVDon Reid DET 03/14/1999 DET vs. ATL L 17 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 1 1 3 -3
+p302
+aVBison Dele DET 03/14/1999 DET vs. ATL L 19 6 3 10 30.0 0 0 - 0 0 - 3 3 6 2 0 0 1 3 0
+p303
+aVKorleone Young DET 03/14/1999 DET vs. ATL L 5 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 3 0
+p304
+aVEric Montross DET 03/14/1999 DET vs. ATL L 12 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 -10
+p305
+aVLindsey Hunter DET 03/14/1999 DET vs. ATL L 45 12 4 12 33.3 3 8 37.5 1 2 50.0 2 1 3 3 3 1 1 3 -11
+p306
+aVJerry Stackhouse DET 03/14/1999 DET vs. ATL L 39 9 3 12 25.0 1 3 33.3 2 2 100.0 0 3 3 3 0 1 6 4 -12
+p307
+aVGrant Hill DET 03/14/1999 DET vs. ATL L 39 27 9 19 47.4 0 1 0.0 9 12 75.0 4 7 11 7 1 0 4 1 -13
+p308
+aVJerome Williams DET 03/14/1999 DET vs. ATL L 23 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 0 1 0 1 2 -12
+p309
+aVJerry Stackhouse DET 03/12/1999 DET vs. BOS W 31 18 4 12 33.3 2 4 50.0 8 9 88.9 0 2 2 3 0 1 3 1 16
+p310
+aVEric Montross DET 03/12/1999 DET vs. BOS W 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 11
+p311
+aVGrant Hill DET 03/12/1999 DET vs. BOS W 40 33 11 14 78.6 0 0 - 11 16 68.8 1 8 9 8 0 1 3 1 22
+p312
+aVJerome Williams DET 03/12/1999 DET vs. BOS W 26 7 1 3 33.3 0 0 - 5 8 62.5 2 5 7 0 3 0 0 1 9
+p313
+aVLoy Vaught DET 03/12/1999 DET vs. BOS W 27 8 4 7 57.1 0 0 - 0 0 - 1 9 10 1 1 1 1 1 -8
+p314
+aVJoe Dumars DET 03/12/1999 DET vs. BOS W 20 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 1 1 0 1 1 -7
+p315
+aVBison Dele DET 03/12/1999 DET vs. BOS W 29 13 5 8 62.5 0 0 - 3 5 60.0 1 4 5 0 0 1 6 5 8
+p316
+aVLindsey Hunter DET 03/12/1999 DET vs. BOS W 38 11 4 9 44.4 1 1 100.0 2 2 100.0 0 1 1 6 4 0 0 2 2
+p317
+aVJud Buechler DET 03/12/1999 DET vs. BOS W 16 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 1 1 0 2 -3
+p318
+aVJerome Williams DET 03/10/1999 DET @ WAS L 25 11 4 7 57.1 0 0 - 3 8 37.5 5 6 11 1 3 0 1 2 -2
+p319
+aVGrant Hill DET 03/10/1999 DET @ WAS L 39 16 6 15 40.0 0 1 0.0 4 5 80.0 1 2 3 4 2 0 1 1 -8
+p320
+aVJoe Dumars DET 03/10/1999 DET @ WAS L 24 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 2 1 0 1 0 -6
+p321
+aVLoy Vaught DET 03/10/1999 DET @ WAS L 23 10 5 8 62.5 0 0 - 0 0 - 2 6 8 1 0 0 2 1 -8
+p322
+aVJerry Stackhouse DET 03/10/1999 DET @ WAS L 25 14 6 13 46.2 0 3 0.0 2 2 100.0 2 1 3 1 1 1 4 2 -7
+p323
+aVJud Buechler DET 03/10/1999 DET @ WAS L 13 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 1 0 0 0 2 -13
+p324
+aVBison Dele DET 03/10/1999 DET @ WAS L 23 10 5 10 50.0 0 0 - 0 1 0.0 2 4 6 3 0 1 2 0 -2
+p325
+aVLindsey Hunter DET 03/10/1999 DET @ WAS L 40 10 4 11 36.4 0 3 0.0 2 6 33.3 1 6 7 7 1 0 2 2 -1
+p326
+aVKorleone Young DET 03/10/1999 DET @ WAS L 3 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 1 0 5
+p327
+aVEric Montross DET 03/10/1999 DET @ WAS L 22 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -13
+p328
+aVCharles O'Bannon DET 03/10/1999 DET @ WAS L 3 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 0 5
+p329
+aVLindsey Hunter DET 03/08/1999 DET vs. WAS W 40 16 6 9 66.7 0 2 0.0 4 4 100.0 1 4 5 1 3 1 2 3 10
+p330
+aVEric Montross DET 03/08/1999 DET vs. WAS W 21 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 0 2 3 1
+p331
+aVBison Dele DET 03/08/1999 DET vs. WAS W 27 4 1 5 20.0 0 0 - 2 2 100.0 2 7 9 0 0 1 3 4 3
+p332
+aVJud Buechler DET 03/08/1999 DET vs. WAS W 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -6
+p333
+aVJerome Williams DET 03/08/1999 DET vs. WAS W 15 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 0 -16
+p334
+aVJoe Dumars DET 03/08/1999 DET vs. WAS W 33 6 2 6 33.3 2 3 66.7 0 0 - 0 1 1 5 0 1 2 1 7
+p335
+aVJerry Stackhouse DET 03/08/1999 DET vs. WAS W 19 5 1 5 20.0 0 0 - 3 4 75.0 0 0 0 1 0 0 3 1 -5
+p336
+aVLoy Vaught DET 03/08/1999 DET vs. WAS W 33 18 7 13 53.8 0 0 - 4 6 66.7 1 7 8 0 1 1 1 1 20
+p337
+aVGrant Hill DET 03/08/1999 DET vs. WAS W 36 19 7 17 41.2 0 0 - 5 9 55.6 2 6 8 8 2 0 5 1 6
+p338
+aVEric Montross DET 03/06/1999 DET @ ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 4
+p339
+aVJud Buechler DET 03/06/1999 DET @ ORL L 18 9 3 5 60.0 3 4 75.0 0 0 - 2 6 8 0 0 1 0 3 1
+p340
+aVBison Dele DET 03/06/1999 DET @ ORL L 25 15 6 17 35.3 0 0 - 3 3 100.0 3 2 5 1 0 1 1 5 -2
+p341
+aVJoe Dumars DET 03/06/1999 DET @ ORL L 35 14 5 17 29.4 3 11 27.3 1 1 100.0 1 1 2 2 1 0 2 1 -8
+p342
+aVJerry Stackhouse DET 03/06/1999 DET @ ORL L 32 15 4 9 44.4 0 3 0.0 7 8 87.5 0 1 1 3 1 1 4 4 -3
+p343
+aVGrant Hill DET 03/06/1999 DET @ ORL L 41 17 8 19 42.1 0 1 0.0 1 3 33.3 1 6 7 5 3 1 5 5 -2
+p344
+aVDon Reid DET 03/06/1999 DET @ ORL L 32 3 1 3 33.3 0 0 - 1 4 25.0 5 4 9 3 0 1 0 2 -14
+p345
+aVLoy Vaught DET 03/06/1999 DET @ ORL L 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 0
+p346
+aVLindsey Hunter DET 03/06/1999 DET @ ORL L 33 7 3 12 25.0 1 4 25.0 0 0 - 0 4 4 1 2 0 3 3 -5
+p347
+aVJerome Williams DET 03/06/1999 DET @ ORL L 12 0 0 0 - 0 0 - 0 0 - 2 5 7 1 0 0 1 2 4
+p348
+aVLoy Vaught DET 03/04/1999 DET @ CLE W 18 4 2 3 66.7 0 0 - 0 0 - 1 6 7 0 1 0 1 1 1
+p349
+aVDon Reid DET 03/04/1999 DET @ CLE W 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 3 5
+p350
+aVJerry Stackhouse DET 03/04/1999 DET @ CLE W 19 11 4 9 44.4 0 1 0.0 3 4 75.0 0 0 0 0 0 0 3 4 1
+p351
+aVEric Montross DET 03/04/1999 DET @ CLE W 17 1 0 1 0.0 0 0 - 1 2 50.0 2 5 7 1 1 0 1 4 11
+p352
+aVBison Dele DET 03/04/1999 DET @ CLE W 18 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 4 4
+p353
+aVLindsey Hunter DET 03/04/1999 DET @ CLE W 38 18 7 10 70.0 3 5 60.0 1 2 50.0 0 0 0 6 2 0 4 3 13
+p354
+aVJoe Dumars DET 03/04/1999 DET @ CLE W 28 21 8 10 80.0 3 4 75.0 2 2 100.0 0 0 0 3 1 0 3 1 15
+p355
+aVCharles O'Bannon DET 03/04/1999 DET @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p356
+aVCorey Beck DET 03/04/1999 DET @ CLE W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p357
+aVJerome Williams DET 03/04/1999 DET @ CLE W 17 2 1 3 33.3 0 0 - 0 0 - 2 2 4 3 1 0 1 2 6
+p358
+aVJud Buechler DET 03/04/1999 DET @ CLE W 29 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 2 1 0 0 1 14
+p359
+aVGrant Hill DET 03/04/1999 DET @ CLE W 39 28 6 11 54.5 0 0 - 16 19 84.2 1 3 4 8 2 0 3 2 13
+p360
+aVLoy Vaught DET 03/02/1999 DET @ CHI W 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p361
+aVCorey Beck DET 03/02/1999 DET @ CHI W 8 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -4
+p362
+aVBison Dele DET 03/02/1999 DET @ CHI W 18 10 5 9 55.6 0 0 - 0 0 - 1 5 6 1 1 1 2 3 20
+p363
+aVJoe Dumars DET 03/02/1999 DET @ CHI W 22 16 6 12 50.0 4 8 50.0 0 0 - 0 5 5 0 0 0 0 0 27
+p364
+aVJerome Williams DET 03/02/1999 DET @ CHI W 31 15 6 11 54.5 0 0 - 3 5 60.0 6 4 10 1 0 0 1 2 13
+p365
+aVLindsey Hunter DET 03/02/1999 DET @ CHI W 32 13 6 11 54.5 1 3 33.3 0 0 - 0 1 1 7 1 0 0 1 30
+p366
+aVGrant Hill DET 03/02/1999 DET @ CHI W 29 17 8 11 72.7 0 0 - 1 1 100.0 0 8 8 11 2 0 3 3 27
+p367
+aVDon Reid DET 03/02/1999 DET @ CHI W 21 7 3 6 50.0 0 0 - 1 2 50.0 3 2 5 1 2 0 1 4 37
+p368
+aVJud Buechler DET 03/02/1999 DET @ CHI W 23 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 1
+p369
+aVJerry Stackhouse DET 03/02/1999 DET @ CHI W 31 15 6 11 54.5 0 1 0.0 3 4 75.0 0 1 1 6 4 0 5 2 9
+p370
+aVEric Montross DET 03/02/1999 DET @ CHI W 21 4 2 4 50.0 0 0 - 0 2 0.0 3 4 7 1 0 0 1 5 -5
+p371
+aVLoy Vaught DET 02/28/1999 DET vs. NYK W 11 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 0 0 1 7
+p372
+aVCharles O'Bannon DET 02/28/1999 DET vs. NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p373
+aVBison Dele DET 02/28/1999 DET vs. NYK W 19 6 3 8 37.5 0 0 - 0 0 - 3 1 4 1 0 2 2 3 -8
+p374
+aVJud Buechler DET 02/28/1999 DET vs. NYK W 26 7 2 4 50.0 1 2 50.0 2 4 50.0 1 1 2 2 3 0 0 0 8
+p375
+aVCorey Beck DET 02/28/1999 DET vs. NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -7
+p376
+aVGrant Hill DET 02/28/1999 DET vs. NYK W 33 4 2 11 18.2 0 0 - 0 0 - 3 8 11 8 2 0 4 1 26
+p377
+aVLindsey Hunter DET 02/28/1999 DET vs. NYK W 32 16 7 12 58.3 2 3 66.7 0 0 - 0 5 5 6 0 0 1 3 17
+p378
+aVDon Reid DET 02/28/1999 DET vs. NYK W 16 4 2 3 66.7 0 0 - 0 1 0.0 0 2 2 0 1 0 0 3 12
+p379
+aVJoe Dumars DET 02/28/1999 DET vs. NYK W 25 21 7 11 63.6 4 6 66.7 3 4 75.0 0 1 1 3 1 0 1 1 11
+p380
+aVJerry Stackhouse DET 02/28/1999 DET vs. NYK W 14 13 3 8 37.5 1 1 100.0 6 8 75.0 0 3 3 2 0 0 2 1 9
+p381
+aVEric Montross DET 02/28/1999 DET vs. NYK W 29 9 4 6 66.7 0 0 - 1 1 100.0 3 4 7 1 1 2 0 2 29
+p382
+aVJerome Williams DET 02/28/1999 DET vs. NYK W 24 5 1 5 20.0 0 0 - 3 4 75.0 0 7 7 0 0 0 2 2 6
+p383
+aVBison Dele DET 02/26/1999 DET vs. MIA W 26 11 4 10 40.0 0 0 - 3 4 75.0 3 4 7 2 1 1 2 5 7
+p384
+aVJud Buechler DET 02/26/1999 DET vs. MIA W 18 4 1 2 50.0 1 2 50.0 1 2 50.0 0 5 5 1 1 0 1 1 4
+p385
+aVLindsey Hunter DET 02/26/1999 DET vs. MIA W 29 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 3 2 0 1 1 -4
+p386
+aVJoe Dumars DET 02/26/1999 DET vs. MIA W 34 21 7 15 46.7 4 9 44.4 3 3 100.0 0 0 0 3 0 0 1 1 6
+p387
+aVEric Montross DET 02/26/1999 DET vs. MIA W 19 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 2 0 6 -2
+p388
+aVGrant Hill DET 02/26/1999 DET vs. MIA W 37 22 9 15 60.0 0 0 - 4 6 66.7 2 8 10 8 1 1 3 4 3
+p389
+aVJerome Williams DET 02/26/1999 DET vs. MIA W 18 5 1 4 25.0 0 0 - 3 3 100.0 2 2 4 0 0 1 1 1 -3
+p390
+aVDon Reid DET 02/26/1999 DET vs. MIA W 22 2 1 3 33.3 0 0 - 0 0 - 3 3 6 0 0 1 0 2 1
+p391
+aVJerry Stackhouse DET 02/26/1999 DET vs. MIA W 26 19 7 10 70.0 2 3 66.7 3 4 75.0 0 2 2 3 2 2 2 0 1
+p392
+aVLoy Vaught DET 02/26/1999 DET vs. MIA W 11 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p393
+aVCorey Beck DET 02/26/1999 DET vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p394
+aVEric Montross DET 02/24/1999 DET vs. CLE W 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 2 0 0 3 5
+p395
+aVDon Reid DET 02/24/1999 DET vs. CLE W 26 2 1 4 25.0 0 0 - 0 0 - 0 8 8 0 1 3 3 5 15
+p396
+aVLindsey Hunter DET 02/24/1999 DET vs. CLE W 36 13 5 12 41.7 3 7 42.9 0 0 - 0 2 2 1 2 0 1 3 10
+p397
+aVJerry Stackhouse DET 02/24/1999 DET vs. CLE W 28 4 2 9 22.2 0 1 0.0 0 0 - 0 1 1 4 1 0 1 1 7
+p398
+aVLoy Vaught DET 02/24/1999 DET vs. CLE W 12 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 1
+p399
+aVJud Buechler DET 02/24/1999 DET vs. CLE W 22 11 4 8 50.0 3 7 42.9 0 0 - 1 2 3 2 0 2 0 1 7
+p400
+aVCorey Beck DET 02/24/1999 DET vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p401
+aVJerome Williams DET 02/24/1999 DET vs. CLE W 19 4 1 3 33.3 0 0 - 2 4 50.0 1 3 4 0 1 2 0 3 13
+p402
+aVGrant Hill DET 02/24/1999 DET vs. CLE W 32 11 3 9 33.3 0 1 0.0 5 6 83.3 1 6 7 11 0 1 2 0 13
+p403
+aVJoe Dumars DET 02/24/1999 DET vs. CLE W 30 26 8 14 57.1 5 9 55.6 5 5 100.0 1 0 1 5 4 0 2 2 12
+p404
+aVBison Dele DET 02/24/1999 DET vs. CLE W 28 13 5 9 55.6 0 0 - 3 4 75.0 3 5 8 0 1 1 4 1 -6
+p405
+aVCorey Beck DET 02/23/1999 DET vs. TOR W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 2
+p406
+aVGrant Hill DET 02/23/1999 DET vs. TOR W 40 14 6 12 50.0 0 0 - 2 2 100.0 3 6 9 10 2 2 3 1 22
+p407
+aVEric Montross DET 02/23/1999 DET vs. TOR W 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 1 1 4 8
+p408
+aVJerry Stackhouse DET 02/23/1999 DET vs. TOR W 28 18 6 14 42.9 1 2 50.0 5 6 83.3 1 3 4 6 1 0 2 1 15
+p409
+aVLindsey Hunter DET 02/23/1999 DET vs. TOR W 27 10 4 8 50.0 0 2 0.0 2 2 100.0 1 1 2 3 0 0 1 1 7
+p410
+aVJerome Williams DET 02/23/1999 DET vs. TOR W 21 12 4 6 66.7 0 0 - 4 6 66.7 1 4 5 0 4 0 1 0 23
+p411
+aVBison Dele DET 02/23/1999 DET vs. TOR W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 4 3 4
+p412
+aVLoy Vaught DET 02/23/1999 DET vs. TOR W 26 14 7 11 63.6 0 0 - 0 0 - 2 6 8 0 2 0 0 1 8
+p413
+aVCharles O'Bannon DET 02/23/1999 DET vs. TOR W 7 2 1 3 33.3 0 0 - 0 0 - 2 1 3 2 0 0 0 0 3
+p414
+aVJud Buechler DET 02/23/1999 DET vs. TOR W 15 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 22
+p415
+aVDon Reid DET 02/23/1999 DET vs. TOR W 25 9 4 8 50.0 0 0 - 1 1 100.0 1 6 7 0 0 0 2 5 9
+p416
+aVJoe Dumars DET 02/23/1999 DET vs. TOR W 25 16 5 8 62.5 4 7 57.1 2 2 100.0 0 3 3 5 2 0 1 0 7
+p417
+aVJerome Williams DET 02/21/1999 DET @ SAS L 25 9 3 7 42.9 0 0 - 3 6 50.0 6 3 9 0 0 0 0 3 -13
+p418
+aVJud Buechler DET 02/21/1999 DET @ SAS L 25 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 1 1 0 1 1 -10
+p419
+aVBison Dele DET 02/21/1999 DET @ SAS L 24 6 3 10 30.0 0 0 - 0 3 0.0 4 5 9 1 2 0 5 3 -14
+p420
+aVLoy Vaught DET 02/21/1999 DET @ SAS L 16 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 0 -4
+p421
+aVLindsey Hunter DET 02/21/1999 DET @ SAS L 33 8 2 10 20.0 1 2 50.0 3 4 75.0 3 3 6 2 2 0 1 0 -23
+p422
+aVEric Montross DET 02/21/1999 DET @ SAS L 22 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 4 -5
+p423
+aVGrant Hill DET 02/21/1999 DET @ SAS L 38 16 5 21 23.8 0 0 - 6 6 100.0 0 3 3 4 2 1 1 0 -15
+p424
+aVDon Reid DET 02/21/1999 DET @ SAS L 10 5 1 3 33.3 0 0 - 3 4 75.0 1 1 2 0 0 2 0 3 -6
+p425
+aVCorey Beck DET 02/21/1999 DET @ SAS L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p426
+aVJerry Stackhouse DET 02/21/1999 DET @ SAS L 32 10 3 13 23.1 0 2 0.0 4 4 100.0 3 4 7 0 1 0 3 3 -4
+p427
+aVCharles O'Bannon DET 02/21/1999 DET @ SAS L 10 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -6
+p428
+aVLindsey Hunter DET 02/19/1999 DET @ PHX W 31 15 6 12 50.0 3 5 60.0 0 0 - 0 6 6 5 2 0 2 4 19
+p429
+aVJerry Stackhouse DET 02/19/1999 DET @ PHX W 40 23 8 23 34.8 2 5 40.0 5 6 83.3 1 3 4 10 2 2 4 1 9
+p430
+aVBison Dele DET 02/19/1999 DET @ PHX W 33 16 7 10 70.0 0 0 - 2 3 66.7 3 8 11 5 4 3 5 2 25
+p431
+aVLoy Vaught DET 02/19/1999 DET @ PHX W 14 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 1 1 0 1 8
+p432
+aVEric Montross DET 02/19/1999 DET @ PHX W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -11
+p433
+aVJerome Williams DET 02/19/1999 DET @ PHX W 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -2
+p434
+aVCorey Beck DET 02/19/1999 DET @ PHX W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p435
+aVCharles O'Bannon DET 02/19/1999 DET @ PHX W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p436
+aVJud Buechler DET 02/19/1999 DET @ PHX W 30 16 6 11 54.5 4 6 66.7 0 0 - 1 0 1 1 1 1 0 1 -5
+p437
+aVDon Reid DET 02/19/1999 DET @ PHX W 30 4 1 5 20.0 0 0 - 2 4 50.0 3 4 7 2 1 1 2 3 -6
+p438
+aVGrant Hill DET 02/19/1999 DET @ PHX W 39 21 10 19 52.6 0 1 0.0 1 4 25.0 1 6 7 5 1 0 3 1 3
+p439
+aVJud Buechler DET 02/17/1999 DET vs. MIA L 26 8 3 6 50.0 2 4 50.0 0 0 - 0 4 4 1 0 0 2 2 -7
+p440
+aVGrant Hill DET 02/17/1999 DET vs. MIA L 36 22 5 21 23.8 0 0 - 12 13 92.3 2 5 7 3 1 1 3 4 -19
+p441
+aVBison Dele DET 02/17/1999 DET vs. MIA L 21 5 2 7 28.6 0 0 - 1 2 50.0 0 4 4 2 0 0 1 4 -6
+p442
+aVSteve Henson DET 02/17/1999 DET vs. MIA L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 1 0 1 0 3
+p443
+aVLindsey Hunter DET 02/17/1999 DET vs. MIA L 30 2 1 8 12.5 0 1 0.0 0 0 - 1 1 2 2 1 0 0 3 -14
+p444
+aVEric Montross DET 02/17/1999 DET vs. MIA L 12 4 1 1 100.0 0 0 - 2 2 100.0 3 3 6 0 0 0 1 3 -10
+p445
+aVCharles O'Bannon DET 02/17/1999 DET vs. MIA L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p446
+aVJerry Stackhouse DET 02/17/1999 DET vs. MIA L 39 21 6 15 40.0 0 4 0.0 9 9 100.0 0 1 1 1 0 0 3 1 -5
+p447
+aVDon Reid DET 02/17/1999 DET vs. MIA L 34 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 2 3 1 1 4 2
+p448
+aVMikki Moore DET 02/17/1999 DET vs. MIA L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p449
+aVJerome Williams DET 02/17/1999 DET vs. MIA L 22 4 2 9 22.2 0 0 - 0 0 - 8 6 14 1 3 0 1 1 -7
+p450
+aVMark Macon DET 02/17/1999 DET vs. MIA L 5 0 0 5 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p451
+aVLoy Vaught DET 02/17/1999 DET vs. MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p452
+aVDon Reid DET 02/16/1999 DET @ NJN L 26 9 4 7 57.1 0 0 - 1 4 25.0 3 1 4 2 0 3 1 3 -18
+p453
+aVJud Buechler DET 02/16/1999 DET @ NJN L 22 9 3 4 75.0 1 2 50.0 2 2 100.0 1 3 4 1 1 0 2 1 2
+p454
+aVSteve Henson DET 02/16/1999 DET @ NJN L 17 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 2
+p455
+aVMikki Moore DET 02/16/1999 DET @ NJN L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 3
+p456
+aVBison Dele DET 02/16/1999 DET @ NJN L 22 6 1 3 33.3 0 0 - 4 4 100.0 1 3 4 2 0 0 3 3 -21
+p457
+aVGrant Hill DET 02/16/1999 DET @ NJN L 36 22 9 17 52.9 0 0 - 4 4 100.0 0 6 6 1 1 1 5 4 -21
+p458
+aVMark Macon DET 02/16/1999 DET @ NJN L 21 0 0 4 0.0 0 1 0.0 0 0 - 2 1 3 1 1 1 4 3 -10
+p459
+aVJerry Stackhouse DET 02/16/1999 DET @ NJN L 33 15 6 17 35.3 1 4 25.0 2 2 100.0 0 2 2 3 2 0 5 4 -22
+p460
+aVEric Montross DET 02/16/1999 DET @ NJN L 14 3 1 1 100.0 0 0 - 1 4 25.0 1 3 4 0 0 1 1 2 11
+p461
+aVJerome Williams DET 02/16/1999 DET @ NJN L 20 8 1 3 33.3 0 0 - 6 8 75.0 2 6 8 1 0 0 0 2 -3
+p462
+aVLoy Vaught DET 02/16/1999 DET @ NJN L 9 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -6
+p463
+aVCharles O'Bannon DET 02/16/1999 DET @ NJN L 16 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 2 2 3 8
+p464
+aVJud Buechler DET 02/15/1999 DET @ NYK L 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p465
+aVGrant Hill DET 02/15/1999 DET @ NYK L 39 31 10 21 47.6 0 0 - 11 12 91.7 3 3 6 1 2 0 4 3 -5
+p466
+aVBison Dele DET 02/15/1999 DET @ NYK L 32 9 4 12 33.3 0 0 - 1 2 50.0 5 5 10 2 0 0 3 4 -10
+p467
+aVSteve Henson DET 02/15/1999 DET @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p468
+aVEric Montross DET 02/15/1999 DET @ NYK L 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -3
+p469
+aVJoe Dumars DET 02/15/1999 DET @ NYK L 23 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 1 -11
+p470
+aVMark Macon DET 02/15/1999 DET @ NYK L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 2 -2
+p471
+aVLindsey Hunter DET 02/15/1999 DET @ NYK L 20 3 1 6 16.7 0 1 0.0 1 2 50.0 1 0 1 0 1 0 2 0 -5
+p472
+aVJerry Stackhouse DET 02/15/1999 DET @ NYK L 35 4 1 11 9.1 0 5 0.0 2 2 100.0 1 0 1 7 1 0 2 3 -3
+p473
+aVJerome Williams DET 02/15/1999 DET @ NYK L 17 2 0 5 0.0 0 0 - 2 2 100.0 3 4 7 0 1 0 0 2 -7
+p474
+aVDon Reid DET 02/15/1999 DET @ NYK L 16 8 4 5 80.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 0
+p475
+aVLoy Vaught DET 02/15/1999 DET @ NYK L 22 8 4 7 57.1 0 0 - 0 0 - 1 7 8 0 1 1 0 1 3
+p476
+aVLoy Vaught DET 02/11/1999 DET vs. ORL L 22 6 2 7 28.6 0 0 - 2 2 100.0 1 9 10 0 2 0 2 4 3
+p477
+aVMark Macon DET 02/11/1999 DET vs. ORL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p478
+aVJerome Williams DET 02/11/1999 DET vs. ORL L 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -13
+p479
+aVJoe Dumars DET 02/11/1999 DET vs. ORL L 31 5 2 6 33.3 1 4 25.0 0 0 - 1 1 2 2 1 0 1 2 10
+p480
+aVDon Reid DET 02/11/1999 DET vs. ORL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 0 -12
+p481
+aVLindsey Hunter DET 02/11/1999 DET vs. ORL L 38 7 3 6 50.0 1 2 50.0 0 0 - 0 5 5 1 1 0 2 4 -2
+p482
+aVJerry Stackhouse DET 02/11/1999 DET vs. ORL L 26 11 0 7 0.0 0 2 0.0 11 12 91.7 1 2 3 3 1 0 3 5 -10
+p483
+aVJud Buechler DET 02/11/1999 DET vs. ORL L 14 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -5
+p484
+aVBison Dele DET 02/11/1999 DET vs. ORL L 38 21 6 11 54.5 0 1 0.0 9 10 90.0 3 9 12 1 1 2 5 4 11
+p485
+aVGrant Hill DET 02/11/1999 DET vs. ORL L 42 25 7 18 38.9 0 1 0.0 11 15 73.3 2 3 5 7 0 1 3 4 -4
+p486
+aVEric Montross DET 02/11/1999 DET vs. ORL L 6 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 1 -6
+p487
+aVLindsey Hunter DET 02/09/1999 DET @ PHI L 39 9 4 13 30.8 1 5 20.0 0 0 - 2 5 7 4 2 0 2 6 -7
+p488
+aVJerome Williams DET 02/09/1999 DET @ PHI L 23 2 0 4 0.0 0 0 - 2 2 100.0 3 1 4 1 0 0 1 3 -10
+p489
+aVMark Macon DET 02/09/1999 DET @ PHI L 17 7 3 4 75.0 1 1 100.0 0 0 - 1 1 2 2 1 0 0 1 11
+p490
+aVBison Dele DET 02/09/1999 DET @ PHI L 34 14 6 11 54.5 0 0 - 2 3 66.7 6 6 12 1 0 3 6 3 10
+p491
+aVDon Reid DET 02/09/1999 DET @ PHI L 19 1 0 2 0.0 0 0 - 1 4 25.0 1 1 2 0 0 1 1 1 2
+p492
+aVEric Montross DET 02/09/1999 DET @ PHI L 7 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -10
+p493
+aVJud Buechler DET 02/09/1999 DET @ PHI L 19 6 2 5 40.0 2 3 66.7 0 0 - 1 2 3 1 1 0 0 3 -4
+p494
+aVGrant Hill DET 02/09/1999 DET @ PHI L 40 32 11 18 61.1 0 0 - 10 11 90.9 1 6 7 2 0 0 6 2 4
+p495
+aVSteve Henson DET 02/09/1999 DET @ PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p496
+aVLoy Vaught DET 02/09/1999 DET @ PHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 3 3 1
+p497
+aVJerry Stackhouse DET 02/09/1999 DET @ PHI L 34 15 6 15 40.0 1 5 20.0 2 2 100.0 1 1 2 3 1 1 3 2 -17
+p498
+aVEric Montross DET 02/08/1999 DET vs. WAS W 10 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 -2
+p499
+aVJud Buechler DET 02/08/1999 DET vs. WAS W 21 7 2 4 50.0 0 2 0.0 3 4 75.0 0 4 4 0 0 0 0 1 0
+p500
+aVLindsey Hunter DET 02/08/1999 DET vs. WAS W 39 9 3 12 25.0 1 5 20.0 2 2 100.0 0 1 1 8 4 0 1 3 0
+p501
+aVDon Reid DET 02/08/1999 DET vs. WAS W 27 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 1 0 0 4 3
+p502
+aVJerome Williams DET 02/08/1999 DET vs. WAS W 20 4 1 3 33.3 0 0 - 2 2 100.0 3 0 3 0 0 0 1 3 -15
+p503
+aVLoy Vaught DET 02/08/1999 DET vs. WAS W 12 0 0 4 0.0 0 0 - 0 0 - 0 5 5 0 0 0 0 4 1
+p504
+aVGrant Hill DET 02/08/1999 DET vs. WAS W 43 46 14 21 66.7 0 0 - 18 22 81.8 2 5 7 7 2 2 4 4 17
+p505
+aVMark Macon DET 02/08/1999 DET vs. WAS W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 7
+p506
+aVBison Dele DET 02/08/1999 DET vs. WAS W 17 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 0 1 3 5 4
+p507
+aVJerry Stackhouse DET 02/08/1999 DET vs. WAS W 40 29 8 16 50.0 3 6 50.0 10 14 71.4 3 4 7 0 0 2 4 2 0
+p508
+aVJerry Stackhouse DET 02/07/1999 DET vs. IND W 31 20 5 14 35.7 0 3 0.0 10 13 76.9 1 0 1 3 0 0 2 5 20
+p509
+aVBison Dele DET 02/07/1999 DET vs. IND W 13 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 2 2 0 1 5 -4
+p510
+aVLoy Vaught DET 02/07/1999 DET vs. IND W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -7
+p511
+aVJoe Dumars DET 02/07/1999 DET vs. IND W 29 12 4 9 44.4 1 5 20.0 3 4 75.0 0 3 3 6 1 0 3 1 8
+p512
+aVLindsey Hunter DET 02/07/1999 DET vs. IND W 35 12 3 7 42.9 2 2 100.0 4 5 80.0 0 3 3 5 0 1 3 5 -9
+p513
+aVGrant Hill DET 02/07/1999 DET vs. IND W 36 26 11 21 52.4 0 0 - 4 6 66.7 0 5 5 3 1 0 4 4 10
+p514
+aVEric Montross DET 02/07/1999 DET vs. IND W 29 6 3 5 60.0 0 0 - 0 0 - 6 8 14 0 2 4 0 3 5
+p515
+aVDon Reid DET 02/07/1999 DET vs. IND W 16 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 2 1 0 6 16
+p516
+aVJerome Williams DET 02/07/1999 DET vs. IND W 25 13 3 8 37.5 0 0 - 7 8 87.5 6 5 11 0 2 0 0 0 8
+p517
+aVJud Buechler DET 02/07/1999 DET vs. IND W 15 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 0 0 1 0 1 -2
+p518
+aVGrant Hill DET 02/05/1999 DET @ MIA W 33 19 7 15 46.7 0 0 - 5 8 62.5 1 2 3 0 3 0 4 3 12
+p519
+aVLindsey Hunter DET 02/05/1999 DET @ MIA W 42 15 6 11 54.5 1 2 50.0 2 2 100.0 0 3 3 5 2 0 2 3 14
+p520
+aVDon Reid DET 02/05/1999 DET @ MIA W 27 0 0 1 0.0 0 0 - 0 0 - 2 5 7 3 1 2 3 4 5
+p521
+aVBison Dele DET 02/05/1999 DET @ MIA W 22 8 3 6 50.0 0 0 - 2 5 40.0 3 2 5 1 2 0 2 4 10
+p522
+aVJerome Williams DET 02/05/1999 DET @ MIA W 27 6 3 6 50.0 0 0 - 0 0 - 5 6 11 0 1 0 1 2 14
+p523
+aVLoy Vaught DET 02/05/1999 DET @ MIA W 19 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 0 0 0 3 2
+p524
+aVMark Macon DET 02/05/1999 DET @ MIA W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 2 0 0 0 2
+p525
+aVJerry Stackhouse DET 02/05/1999 DET @ MIA W 31 24 7 18 38.9 1 3 33.3 9 9 100.0 1 2 3 2 0 0 2 2 11
+p526
+aVJud Buechler DET 02/05/1999 DET @ MIA W 13 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 0 5
+p527
+aVJoe Dumars DET 02/05/1999 DET @ MIA W 23 14 5 10 50.0 4 7 57.1 0 0 - 0 0 0 2 0 0 0 1 -5
+p528
+a.

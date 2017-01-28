@@ -1,0 +1,182 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJamal Mashburn MIA 05/21/2000 MIA vs. NYK L 42 7 3 15 20.0 1 5 20.0 0 0 - 2 4 6 1 1 0 2 2 12
+p2
+aVDan Majerle MIA 05/21/2000 MIA vs. NYK L 44 8 3 5 60.0 2 3 66.7 0 1 0.0 0 9 9 5 1 0 1 2 6
+p3
+aVOtis Thorpe MIA 05/21/2000 MIA vs. NYK L 9 4 1 1 100.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 2 -13
+p4
+aVAlonzo Mourning MIA 05/21/2000 MIA vs. NYK L 45 29 12 20 60.0 0 0 - 5 10 50.0 5 8 13 1 0 5 1 3 4
+p5
+aVTim Hardaway MIA 05/21/2000 MIA vs. NYK L 35 15 6 20 30.0 2 8 25.0 1 1 100.0 0 4 4 7 1 0 0 4 8
+p6
+aVBruce Bowen MIA 05/21/2000 MIA vs. NYK L 5 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 2 -13
+p7
+aVP.J. Brown MIA 05/21/2000 MIA vs. NYK L 27 9 4 7 57.1 0 0 - 1 1 100.0 3 2 5 1 1 0 0 6 3
+p8
+aVAnthony Carter MIA 05/21/2000 MIA vs. NYK L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -9
+p9
+aVClar. Weatherspoon MIA 05/21/2000 MIA vs. NYK L 16 6 3 9 33.3 0 0 - 0 2 0.0 3 1 4 0 0 0 0 2 -3
+p10
+aVBruce Bowen MIA 05/19/2000 MIA @ NYK L 22 7 2 5 40.0 1 4 25.0 2 4 50.0 0 0 0 0 0 1 1 2 9
+p11
+aVTim Hardaway MIA 05/19/2000 MIA @ NYK L 23 2 1 7 14.3 0 3 0.0 0 0 - 0 4 4 4 0 0 0 0 -8
+p12
+aVAlonzo Mourning MIA 05/19/2000 MIA @ NYK L 40 22 6 13 46.2 0 0 - 10 14 71.4 0 10 10 2 0 3 3 3 -2
+p13
+aVAnthony Carter MIA 05/19/2000 MIA @ NYK L 25 15 6 13 46.2 1 3 33.3 2 2 100.0 0 1 1 2 1 0 2 2 6
+p14
+aVJamal Mashburn MIA 05/19/2000 MIA @ NYK L 39 8 3 12 25.0 0 5 0.0 2 2 100.0 1 5 6 0 2 0 1 2 -10
+p15
+aVP.J. Brown MIA 05/19/2000 MIA @ NYK L 25 0 0 3 0.0 0 0 - 0 0 - 1 4 5 1 0 0 0 6 -10
+p16
+aVOtis Thorpe MIA 05/19/2000 MIA @ NYK L 17 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 11
+p17
+aVClar. Weatherspoon MIA 05/19/2000 MIA @ NYK L 11 6 1 3 33.3 0 0 - 4 6 66.7 2 2 4 0 0 0 0 2 -3
+p18
+aVDan Majerle MIA 05/19/2000 MIA @ NYK L 35 10 3 9 33.3 3 7 42.9 1 1 100.0 0 10 10 7 2 0 0 4 -3
+p19
+aVBruce Bowen MIA 05/17/2000 MIA vs. NYK W 16 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 2 6
+p20
+aVTim Hardaway MIA 05/17/2000 MIA vs. NYK W 20 12 5 11 45.5 1 6 16.7 1 1 100.0 0 2 2 4 1 0 1 0 -10
+p21
+aVClar. Weatherspoon MIA 05/17/2000 MIA vs. NYK W 16 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 3 5
+p22
+aVAlonzo Mourning MIA 05/17/2000 MIA vs. NYK W 38 18 5 17 29.4 0 0 - 8 11 72.7 0 5 5 1 0 4 2 6 0
+p23
+aVJamal Mashburn MIA 05/17/2000 MIA vs. NYK W 43 21 7 15 46.7 0 1 0.0 7 8 87.5 2 3 5 4 1 1 5 4 12
+p24
+aVOtis Thorpe MIA 05/17/2000 MIA vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p25
+aVDan Majerle MIA 05/17/2000 MIA vs. NYK W 34 16 5 7 71.4 3 5 60.0 3 5 60.0 0 5 5 1 0 0 0 3 -2
+p26
+aVAnthony Carter MIA 05/17/2000 MIA vs. NYK W 28 6 3 5 60.0 0 0 - 0 0 - 1 5 6 5 1 0 1 0 17
+p27
+aVP.J. Brown MIA 05/17/2000 MIA vs. NYK W 38 5 2 10 20.0 0 0 - 1 2 50.0 7 5 12 3 1 1 0 3 0
+p28
+aVAnthony Carter MIA 05/14/2000 MIA @ NYK L 23 6 1 5 20.0 0 1 0.0 4 4 100.0 2 4 6 7 1 0 2 5 -1
+p29
+aVAlonzo Mourning MIA 05/14/2000 MIA @ NYK L 40 27 11 19 57.9 0 0 - 5 9 55.6 6 8 14 2 0 1 9 5 -10
+p30
+aVClar. Weatherspoon MIA 05/14/2000 MIA @ NYK L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p31
+aVP.J. Brown MIA 05/14/2000 MIA @ NYK L 41 11 4 10 40.0 0 0 - 3 3 100.0 2 6 8 0 0 1 2 4 -11
+p32
+aVBruce Bowen MIA 05/14/2000 MIA @ NYK L 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 2
+p33
+aVJamal Mashburn MIA 05/14/2000 MIA @ NYK L 45 13 6 15 40.0 1 3 33.3 0 0 - 1 1 2 4 1 0 0 1 -5
+p34
+aVDan Majerle MIA 05/14/2000 MIA @ NYK L 39 13 5 10 50.0 3 7 42.9 0 0 - 4 8 12 1 4 0 0 2 -7
+p35
+aVOtis Thorpe MIA 05/14/2000 MIA @ NYK L 14 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 1 1 4 1
+p36
+aVTim Hardaway MIA 05/14/2000 MIA @ NYK L 24 5 2 8 25.0 0 4 0.0 1 2 50.0 1 2 3 6 1 0 3 0 -6
+p37
+aVTim Hardaway MIA 05/12/2000 MIA @ NYK W 18 1 0 5 0.0 0 1 0.0 1 2 50.0 0 0 0 2 1 0 2 3 -10
+p38
+aVAlonzo Mourning MIA 05/12/2000 MIA @ NYK W 36 23 8 15 53.3 0 0 - 7 8 87.5 6 3 9 0 1 0 2 4 -5
+p39
+aVClar. Weatherspoon MIA 05/12/2000 MIA @ NYK W 19 9 4 11 36.4 0 0 - 1 2 50.0 1 1 2 0 1 1 0 1 5
+p40
+aVOtis Thorpe MIA 05/12/2000 MIA @ NYK W 19 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 6
+p41
+aVDan Majerle MIA 05/12/2000 MIA @ NYK W 40 2 1 6 16.7 0 2 0.0 0 0 - 1 5 6 7 1 0 2 5 0
+p42
+aVJamal Mashburn MIA 05/12/2000 MIA @ NYK W 40 16 6 16 37.5 4 4 100.0 0 0 - 1 4 5 1 2 0 4 4 0
+p43
+aVP.J. Brown MIA 05/12/2000 MIA @ NYK W 42 14 7 17 41.2 0 0 - 0 0 - 3 9 12 1 2 0 1 2 -1
+p44
+aVBruce Bowen MIA 05/12/2000 MIA @ NYK W 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 1 2 -1
+p45
+aVAnthony Carter MIA 05/12/2000 MIA @ NYK W 34 10 4 10 40.0 0 2 0.0 2 2 100.0 3 4 7 8 1 0 1 2 11
+p46
+aVTim Hardaway MIA 05/09/2000 MIA vs. NYK L 30 13 4 9 44.4 3 6 50.0 2 2 100.0 0 1 1 3 0 0 2 3 -8
+p47
+aVAlonzo Mourning MIA 05/09/2000 MIA vs. NYK L 41 17 5 18 27.8 0 0 - 7 13 53.8 4 13 17 3 0 4 2 4 -2
+p48
+aVClar. Weatherspoon MIA 05/09/2000 MIA vs. NYK L 16 5 1 2 50.0 0 0 - 3 6 50.0 2 4 6 0 1 1 2 3 -19
+p49
+aVOtis Thorpe MIA 05/09/2000 MIA vs. NYK L 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 -7
+p50
+aVJamal Mashburn MIA 05/09/2000 MIA vs. NYK L 48 25 9 22 40.9 3 5 60.0 4 6 66.7 1 3 4 3 2 0 1 3 -6
+p51
+aVP.J. Brown MIA 05/09/2000 MIA vs. NYK L 26 4 2 4 50.0 0 0 - 0 0 - 3 4 7 1 1 1 0 4 9
+p52
+aVAnthony Carter MIA 05/09/2000 MIA vs. NYK L 18 6 2 5 40.0 0 0 - 2 4 50.0 2 3 5 2 0 0 1 2 2
+p53
+aVBruce Bowen MIA 05/09/2000 MIA vs. NYK L 13 0 0 4 0.0 0 4 0.0 0 0 - 0 3 3 1 0 1 2 4 4
+p54
+aVDan Majerle MIA 05/09/2000 MIA vs. NYK L 37 3 1 8 12.5 1 7 14.3 0 0 - 0 6 6 2 2 0 2 5 -3
+p55
+aVTim Hardaway MIA 05/07/2000 MIA vs. NYK W 29 6 2 8 25.0 1 6 16.7 1 2 50.0 0 1 1 7 1 0 3 0 9
+p56
+aVP.J. Brown MIA 05/07/2000 MIA vs. NYK W 35 8 4 7 57.1 0 0 - 0 0 - 2 14 16 1 2 0 2 3 11
+p57
+aVDan Majerle MIA 05/07/2000 MIA vs. NYK W 36 8 3 7 42.9 1 5 20.0 1 1 100.0 0 6 6 3 3 0 0 2 3
+p58
+aVAnthony Carter MIA 05/07/2000 MIA vs. NYK W 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 4 2 -5
+p59
+aVJamal Mashburn MIA 05/07/2000 MIA vs. NYK W 43 21 6 15 40.0 0 2 0.0 9 9 100.0 0 3 3 4 0 0 3 4 2
+p60
+aVAlonzo Mourning MIA 05/07/2000 MIA vs. NYK W 36 26 10 20 50.0 0 0 - 6 9 66.7 1 5 6 1 1 2 1 3 8
+p61
+aVOtis Thorpe MIA 05/07/2000 MIA vs. NYK W 14 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -8
+p62
+aVClar. Weatherspoon MIA 05/07/2000 MIA vs. NYK W 13 4 2 5 40.0 0 0 - 0 0 - 3 0 3 1 0 0 0 2 -1
+p63
+aVBruce Bowen MIA 05/07/2000 MIA vs. NYK W 11 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 1 0 2 1
+p64
+aVAlonzo Mourning MIA 04/29/2000 MIA @ DET W 21 12 3 7 42.9 0 0 - 6 8 75.0 3 6 9 1 0 3 3 4 1
+p65
+aVBruce Bowen MIA 04/29/2000 MIA @ DET W 19 4 2 4 50.0 0 2 0.0 0 2 0.0 0 1 1 1 1 1 2 6 6
+p66
+aVAnthony Carter MIA 04/29/2000 MIA @ DET W 39 8 4 11 36.4 0 0 - 0 0 - 0 6 6 9 2 0 3 2 17
+p67
+aVOtis Thorpe MIA 04/29/2000 MIA @ DET W 26 10 5 7 71.4 0 0 - 0 2 0.0 2 8 10 1 0 1 3 5 18
+p68
+aVP.J. Brown MIA 04/29/2000 MIA @ DET W 12 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 0 1 5 2
+p69
+aVClar. Weatherspoon MIA 04/29/2000 MIA @ DET W 35 18 8 11 72.7 0 0 - 2 4 50.0 3 7 10 0 1 1 3 3 17
+p70
+aVJamal Mashburn MIA 04/29/2000 MIA @ DET W 37 11 4 12 33.3 0 0 - 3 4 75.0 0 4 4 5 0 0 3 2 29
+p71
+aVMark Strickland MIA 04/29/2000 MIA @ DET W 9 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 2 0 1 0 -5
+p72
+aVRodney Buford MIA 04/29/2000 MIA @ DET W 16 11 4 8 50.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 0 3 8
+p73
+aVDan Majerle MIA 04/29/2000 MIA @ DET W 21 9 3 4 75.0 2 3 66.7 1 1 100.0 0 2 2 3 2 0 3 4 2
+p74
+aVBruce Bowen MIA 04/25/2000 MIA vs. DET W 24 1 0 3 0.0 0 3 0.0 1 2 50.0 1 1 2 2 2 0 0 3 -2
+p75
+aVAnthony Carter MIA 04/25/2000 MIA vs. DET W 41 10 5 11 45.5 0 0 - 0 2 0.0 0 6 6 13 2 0 5 3 0
+p76
+aVAlonzo Mourning MIA 04/25/2000 MIA vs. DET W 40 22 7 12 58.3 0 1 0.0 8 10 80.0 2 6 8 0 0 2 1 4 13
+p77
+aVOtis Thorpe MIA 04/25/2000 MIA vs. DET W 12 1 0 2 0.0 0 1 0.0 1 2 50.0 1 4 5 0 0 0 2 1 2
+p78
+aVDan Majerle MIA 04/25/2000 MIA vs. DET W 40 10 3 7 42.9 2 5 40.0 2 3 66.7 0 4 4 2 4 1 1 3 -2
+p79
+aVClar. Weatherspoon MIA 04/25/2000 MIA vs. DET W 13 4 2 8 25.0 0 0 - 0 0 - 3 0 3 0 0 0 1 2 -13
+p80
+aVP.J. Brown MIA 04/25/2000 MIA vs. DET W 25 12 6 10 60.0 0 0 - 0 0 - 2 5 7 0 1 1 3 6 3
+p81
+aVJamal Mashburn MIA 04/25/2000 MIA vs. DET W 41 24 9 18 50.0 2 4 50.0 4 5 80.0 0 7 7 5 2 1 4 4 9
+p82
+aVAnthony Carter MIA 04/22/2000 MIA vs. DET W 35 10 4 12 33.3 0 0 - 2 2 100.0 0 1 1 7 4 2 3 3 2
+p83
+aVJamal Mashburn MIA 04/22/2000 MIA vs. DET W 42 29 10 17 58.8 2 4 50.0 7 8 87.5 1 3 4 5 0 0 1 4 13
+p84
+aVAlonzo Mourning MIA 04/22/2000 MIA vs. DET W 33 20 9 16 56.3 0 0 - 2 4 50.0 4 5 9 3 0 9 0 4 5
+p85
+aVP.J. Brown MIA 04/22/2000 MIA vs. DET W 33 6 3 10 30.0 0 0 - 0 0 - 2 4 6 3 0 0 2 3 18
+p86
+aVOtis Thorpe MIA 04/22/2000 MIA vs. DET W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 3 4 -4
+p87
+aVBruce Bowen MIA 04/22/2000 MIA vs. DET W 26 11 3 4 75.0 2 3 66.7 3 4 75.0 0 1 1 1 2 0 0 3 6
+p88
+aVDan Majerle MIA 04/22/2000 MIA vs. DET W 39 11 3 8 37.5 3 6 50.0 2 2 100.0 0 10 10 1 2 0 2 4 9
+p89
+aVClar. Weatherspoon MIA 04/22/2000 MIA vs. DET W 18 6 1 4 25.0 0 0 - 4 4 100.0 0 3 3 0 1 0 1 4 1
+p90
+a.

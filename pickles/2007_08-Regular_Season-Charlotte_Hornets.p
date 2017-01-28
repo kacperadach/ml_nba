@@ -1,0 +1,1592 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEmeka Okafor CHA 04/16/2008 CHA vs. PHI W 31 24 11 14 78.6 0 0 - 2 2 100.0 0 9 9 2 0 4 2 4 10
+p2
+aVNazr Mohammed CHA 04/16/2008 CHA vs. PHI W 22 12 5 8 62.5 0 0 - 2 3 66.7 3 2 5 4 0 3 2 1 -5
+p3
+aVMatt Carroll CHA 04/16/2008 CHA vs. PHI W 43 19 8 14 57.1 3 5 60.0 0 0 - 3 5 8 0 0 0 1 1 12
+p4
+aVRaymond Felton CHA 04/16/2008 CHA vs. PHI W 34 18 6 12 50.0 0 3 0.0 6 7 85.7 0 2 2 12 1 0 2 2 -4
+p5
+aVJared Dudley CHA 04/16/2008 CHA vs. PHI W 25 5 2 6 33.3 0 1 0.0 1 2 50.0 1 1 2 4 2 0 1 2 -7
+p6
+aVJason Richardson CHA 04/16/2008 CHA vs. PHI W 45 29 9 18 50.0 3 7 42.9 8 9 88.9 2 5 7 2 1 3 2 5 9
+p7
+aVRyan Hollins CHA 04/16/2008 CHA vs. PHI W 20 4 2 2 100.0 0 0 - 0 1 0.0 1 0 1 2 0 1 1 2 10
+p8
+aVEarl Boykins CHA 04/16/2008 CHA vs. PHI W 20 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 8 1 0 0 1 5
+p9
+aVEmeka Okafor CHA 04/15/2008 CHA @ NJN L 39 8 3 8 37.5 0 0 - 2 2 100.0 1 14 15 0 0 2 2 4 1
+p10
+aVNazr Mohammed CHA 04/15/2008 CHA @ NJN L 33 19 9 14 64.3 0 0 - 1 2 50.0 3 4 7 0 1 1 1 5 -2
+p11
+aVRaymond Felton CHA 04/15/2008 CHA @ NJN L 43 18 8 20 40.0 1 3 33.3 1 1 100.0 1 5 6 8 1 0 4 3 0
+p12
+aVJermareo Davidson CHA 04/15/2008 CHA @ NJN L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p13
+aVJason Richardson CHA 04/15/2008 CHA @ NJN L 46 31 11 23 47.8 5 10 50.0 4 4 100.0 2 8 10 4 8 0 3 4 -1
+p14
+aVEarl Boykins CHA 04/15/2008 CHA @ NJN L 16 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 3 0 0 1 2 -6
+p15
+aVRyan Hollins CHA 04/15/2008 CHA @ NJN L 10 7 2 3 66.7 0 0 - 3 4 75.0 2 0 2 0 0 0 2 3 3
+p16
+aVJared Dudley CHA 04/15/2008 CHA @ NJN L 30 10 1 5 20.0 0 1 0.0 8 9 88.9 4 2 6 1 0 0 2 1 -10
+p17
+aVMatt Carroll CHA 04/15/2008 CHA @ NJN L 43 11 4 12 33.3 0 1 0.0 3 3 100.0 0 4 4 4 0 0 2 3 -4
+p18
+aVEarl Boykins CHA 04/12/2008 CHA @ IND W 14 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 3 0 2
+p19
+aVRaymond Felton CHA 04/12/2008 CHA @ IND W 42 18 7 16 43.8 1 3 33.3 3 4 75.0 2 3 5 12 1 0 3 3 2
+p20
+aVEmeka Okafor CHA 04/12/2008 CHA @ IND W 26 14 4 8 50.0 0 0 - 6 13 46.2 6 12 18 1 0 1 3 4 7
+p21
+aVJason Richardson CHA 04/12/2008 CHA @ IND W 40 26 6 18 33.3 2 6 33.3 12 13 92.3 1 4 5 2 3 1 2 2 0
+p22
+aVJared Dudley CHA 04/12/2008 CHA @ IND W 42 19 6 13 46.2 0 0 - 7 7 100.0 2 6 8 2 0 0 1 4 6
+p23
+aVMatt Carroll CHA 04/12/2008 CHA @ IND W 36 8 3 9 33.3 1 3 33.3 1 2 50.0 0 4 4 0 1 0 0 3 1
+p24
+aVRyan Hollins CHA 04/12/2008 CHA @ IND W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 1 1 1 2
+p25
+aVNazr Mohammed CHA 04/12/2008 CHA @ IND W 26 16 6 13 46.2 0 0 - 4 4 100.0 8 5 13 0 1 2 1 5 0
+p26
+aVNazr Mohammed CHA 04/09/2008 CHA @ NYK L 19 3 1 5 20.0 0 0 - 1 2 50.0 1 5 6 1 1 0 3 2 -7
+p27
+aVJermareo Davidson CHA 04/09/2008 CHA @ NYK L 10 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 2 0 0 2
+p28
+aVRyan Hollins CHA 04/09/2008 CHA @ NYK L 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p29
+aVEarl Boykins CHA 04/09/2008 CHA @ NYK L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 2 0 1 1 -10
+p30
+aVJared Dudley CHA 04/09/2008 CHA @ NYK L 28 1 0 1 0.0 0 1 0.0 1 2 50.0 0 5 5 3 1 0 1 3 -9
+p31
+aVMatt Carroll CHA 04/09/2008 CHA @ NYK L 40 17 6 13 46.2 3 7 42.9 2 2 100.0 0 6 6 1 0 1 2 4 -1
+p32
+aVEmeka Okafor CHA 04/09/2008 CHA @ NYK L 33 24 11 19 57.9 0 0 - 2 5 40.0 5 3 8 0 0 2 0 1 2
+p33
+aVRaymond Felton CHA 04/09/2008 CHA @ NYK L 41 24 10 16 62.5 0 1 0.0 4 5 80.0 1 5 6 8 1 0 4 2 3
+p34
+aVJason Richardson CHA 04/09/2008 CHA @ NYK L 42 25 8 20 40.0 4 11 36.4 5 8 62.5 4 6 10 4 0 1 1 0 -2
+p35
+aVJared Dudley CHA 04/08/2008 CHA vs. MIN W 27 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 2 0 1 0 0 -3
+p36
+aVNazr Mohammed CHA 04/08/2008 CHA vs. MIN W 33 17 8 10 80.0 0 0 - 1 1 100.0 2 6 8 4 1 0 2 4 -3
+p37
+aVJermareo Davidson CHA 04/08/2008 CHA vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 4
+p38
+aVEarl Boykins CHA 04/08/2008 CHA vs. MIN W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 3 0 0 3 1 -11
+p39
+aVRaymond Felton CHA 04/08/2008 CHA vs. MIN W 35 15 5 11 45.5 1 3 33.3 4 6 66.7 0 2 2 11 1 0 5 0 11
+p40
+aVEmeka Okafor CHA 04/08/2008 CHA vs. MIN W 36 20 8 11 72.7 0 0 - 4 6 66.7 1 6 7 2 0 1 3 0 9
+p41
+aVRyan Hollins CHA 04/08/2008 CHA vs. MIN W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -4
+p42
+aVJason Richardson CHA 04/08/2008 CHA vs. MIN W 45 36 11 21 52.4 5 8 62.5 9 12 75.0 1 4 5 4 0 0 0 3 3
+p43
+aVMatt Carroll CHA 04/08/2008 CHA vs. MIN W 39 22 7 8 87.5 2 3 66.7 6 8 75.0 0 3 3 1 2 1 2 1 4
+p44
+aVJason Richardson CHA 04/05/2008 CHA vs. BOS L 33 9 4 12 33.3 1 7 14.3 0 3 0.0 0 1 1 4 1 0 3 4 -19
+p45
+aVEmeka Okafor CHA 04/05/2008 CHA vs. BOS L 32 17 8 13 61.5 0 0 - 1 4 25.0 1 7 8 0 0 1 3 3 -16
+p46
+aVNazr Mohammed CHA 04/05/2008 CHA vs. BOS L 16 7 3 6 50.0 0 0 - 1 2 50.0 1 5 6 0 0 1 0 1 -3
+p47
+aVJermareo Davidson CHA 04/05/2008 CHA vs. BOS L 15 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 2 1 1 1 -19
+p48
+aVJared Dudley CHA 04/05/2008 CHA vs. BOS L 33 10 5 8 62.5 0 0 - 0 0 - 2 3 5 1 1 0 1 4 -12
+p49
+aVRaymond Felton CHA 04/05/2008 CHA vs. BOS L 40 11 5 15 33.3 0 1 0.0 1 1 100.0 0 4 4 10 0 0 5 2 -14
+p50
+aVDerek Anderson CHA 04/05/2008 CHA vs. BOS L 6 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p51
+aVRyan Hollins CHA 04/05/2008 CHA vs. BOS L 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 -7
+p52
+aVEarl Boykins CHA 04/05/2008 CHA vs. BOS L 33 15 5 9 55.6 1 1 100.0 4 4 100.0 2 2 4 2 0 0 1 0 -10
+p53
+aVMatt Carroll CHA 04/05/2008 CHA vs. BOS L 25 3 1 6 16.7 1 2 50.0 0 0 - 0 2 2 0 1 1 1 2 -13
+p54
+aVRaymond Felton CHA 04/04/2008 CHA @ TOR W 39 21 7 17 41.2 3 5 60.0 4 4 100.0 1 5 6 7 0 0 4 1 12
+p55
+aVGerald Wallace CHA 04/04/2008 CHA @ TOR W 20 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 2 1 1 2 0 -3
+p56
+aVNazr Mohammed CHA 04/04/2008 CHA @ TOR W 20 11 5 7 71.4 0 0 - 1 2 50.0 4 2 6 0 0 0 1 2 14
+p57
+aVEarl Boykins CHA 04/04/2008 CHA @ TOR W 25 6 2 8 25.0 0 3 0.0 2 3 66.7 0 1 1 8 1 0 0 0 4
+p58
+aVMatt Carroll CHA 04/04/2008 CHA @ TOR W 16 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 1 -5
+p59
+aVEmeka Okafor CHA 04/04/2008 CHA @ TOR W 38 15 5 6 83.3 0 0 - 5 8 62.5 1 12 13 0 2 2 2 3 1
+p60
+aVJared Dudley CHA 04/04/2008 CHA @ TOR W 18 10 4 9 44.4 0 2 0.0 2 2 100.0 0 3 3 0 0 0 0 4 -4
+p61
+aVJermareo Davidson CHA 04/04/2008 CHA @ TOR W 20 8 4 8 50.0 0 0 - 0 0 - 0 3 3 3 1 0 1 3 -1
+p62
+aVJason Richardson CHA 04/04/2008 CHA @ TOR W 44 27 10 18 55.6 4 7 57.1 3 4 75.0 1 6 7 6 2 1 1 3 7
+p63
+aVJared Dudley CHA 04/02/2008 CHA vs. CLE L 27 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -8
+p64
+aVRaymond Felton CHA 04/02/2008 CHA vs. CLE L 42 9 3 13 23.1 0 2 0.0 3 5 60.0 1 4 5 9 2 0 1 4 1
+p65
+aVMatt Carroll CHA 04/02/2008 CHA vs. CLE L 16 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 1 0 0 2 9
+p66
+aVEarl Boykins CHA 04/02/2008 CHA vs. CLE L 6 6 1 1 100.0 0 0 - 4 4 100.0 0 0 0 2 0 0 0 0 -5
+p67
+aVGerald Wallace CHA 04/02/2008 CHA vs. CLE L 43 21 7 15 46.7 0 1 0.0 7 9 77.8 1 6 7 2 2 0 3 2 -9
+p68
+aVRyan Hollins CHA 04/02/2008 CHA vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p69
+aVJason Richardson CHA 04/02/2008 CHA vs. CLE L 41 31 13 22 59.1 4 8 50.0 1 3 33.3 3 3 6 7 2 1 4 4 -4
+p70
+aVNazr Mohammed CHA 04/02/2008 CHA vs. CLE L 25 11 5 7 71.4 0 0 - 1 2 50.0 3 4 7 3 0 2 2 3 8
+p71
+aVEmeka Okafor CHA 04/02/2008 CHA vs. CLE L 38 25 9 14 64.3 0 0 - 7 9 77.8 2 7 9 2 0 1 3 6 -8
+p72
+aVEarl Boykins CHA 03/31/2008 CHA vs. TOR L 21 8 2 6 33.3 0 0 - 4 4 100.0 0 0 0 4 0 0 1 2 12
+p73
+aVGerald Wallace CHA 03/31/2008 CHA vs. TOR L 43 20 7 16 43.8 2 5 40.0 4 4 100.0 0 8 8 3 2 0 1 4 2
+p74
+aVRaymond Felton CHA 03/31/2008 CHA vs. TOR L 31 10 2 10 20.0 0 2 0.0 6 6 100.0 1 1 2 10 1 0 3 4 -17
+p75
+aVEmeka Okafor CHA 03/31/2008 CHA vs. TOR L 36 18 9 14 64.3 0 0 - 0 2 0.0 3 9 12 2 2 4 2 3 0
+p76
+aVJared Dudley CHA 03/31/2008 CHA vs. TOR L 28 11 5 8 62.5 1 2 50.0 0 0 - 1 0 1 0 1 1 0 1 4
+p77
+aVRyan Hollins CHA 03/31/2008 CHA vs. TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p78
+aVNazr Mohammed CHA 03/31/2008 CHA vs. TOR L 23 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 2 5 -14
+p79
+aVMatt Carroll CHA 03/31/2008 CHA vs. TOR L 18 3 1 8 12.5 1 5 20.0 0 0 - 0 4 4 0 0 0 0 2 10
+p80
+aVJason Richardson CHA 03/31/2008 CHA vs. TOR L 38 26 10 17 58.8 4 10 40.0 2 4 50.0 1 5 6 2 3 0 1 4 -15
+p81
+aVJared Dudley CHA 03/29/2008 CHA @ POR W 21 2 1 6 16.7 0 0 - 0 2 0.0 2 1 3 2 1 1 2 2 4
+p82
+aVEarl Boykins CHA 03/29/2008 CHA @ POR W 13 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 2 2 0 2 0 2
+p83
+aVGerald Wallace CHA 03/29/2008 CHA @ POR W 35 7 3 9 33.3 1 3 33.3 0 0 - 1 4 5 5 2 2 1 1 7
+p84
+aVNazr Mohammed CHA 03/29/2008 CHA @ POR W 22 4 2 5 40.0 0 0 - 0 0 - 0 4 4 3 1 0 1 3 0
+p85
+aVJason Richardson CHA 03/29/2008 CHA @ POR W 40 20 8 18 44.4 1 8 12.5 3 4 75.0 1 4 5 5 1 0 2 4 10
+p86
+aVRyan Hollins CHA 03/29/2008 CHA @ POR W 11 6 2 4 50.0 0 0 - 2 5 40.0 0 0 0 0 0 0 0 4 -1
+p87
+aVMatt Carroll CHA 03/29/2008 CHA @ POR W 29 9 3 6 50.0 2 4 50.0 1 2 50.0 1 6 7 0 0 0 0 2 8
+p88
+aVRaymond Felton CHA 03/29/2008 CHA @ POR W 35 18 8 13 61.5 2 2 100.0 0 0 - 0 3 3 9 1 1 2 1 6
+p89
+aVEmeka Okafor CHA 03/29/2008 CHA @ POR W 35 21 9 11 81.8 0 0 - 3 5 60.0 1 4 5 0 0 2 3 3 4
+p90
+aVEarl Boykins CHA 03/28/2008 CHA @ SEA W 12 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 1 -2
+p91
+aVRyan Hollins CHA 03/28/2008 CHA @ SEA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p92
+aVMatt Carroll CHA 03/28/2008 CHA @ SEA W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -4
+p93
+aVJared Dudley CHA 03/28/2008 CHA @ SEA W 38 5 2 5 40.0 0 0 - 1 2 50.0 2 4 6 2 4 0 2 3 13
+p94
+aVJason Richardson CHA 03/28/2008 CHA @ SEA W 43 27 7 20 35.0 6 10 60.0 7 8 87.5 0 7 7 5 3 1 1 3 8
+p95
+aVRaymond Felton CHA 03/28/2008 CHA @ SEA W 36 23 8 15 53.3 2 4 50.0 5 6 83.3 0 1 1 6 1 0 3 1 5
+p96
+aVNazr Mohammed CHA 03/28/2008 CHA @ SEA W 13 6 3 6 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -16
+p97
+aVEmeka Okafor CHA 03/28/2008 CHA @ SEA W 34 19 8 12 66.7 0 0 - 3 5 60.0 2 7 9 1 0 2 0 1 8
+p98
+aVGerald Wallace CHA 03/28/2008 CHA @ SEA W 46 11 4 12 33.3 1 3 33.3 2 2 100.0 0 6 6 3 3 0 2 2 7
+p99
+aVJared Dudley CHA 03/26/2008 CHA @ LAL W 28 5 2 6 33.3 0 0 - 1 1 100.0 4 3 7 3 0 0 0 2 6
+p100
+aVEarl Boykins CHA 03/26/2008 CHA @ LAL W 10 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 1 0 0 2 0 -1
+p101
+aVEmeka Okafor CHA 03/26/2008 CHA @ LAL W 34 11 5 11 45.5 0 0 - 1 4 25.0 2 9 11 1 1 1 3 5 20
+p102
+aVMatt Carroll CHA 03/26/2008 CHA @ LAL W 28 18 5 7 71.4 3 4 75.0 5 7 71.4 0 4 4 2 1 0 2 2 2
+p103
+aVGerald Wallace CHA 03/26/2008 CHA @ LAL W 42 15 6 10 60.0 3 5 60.0 0 0 - 1 7 8 7 2 2 2 4 20
+p104
+aVJason Richardson CHA 03/26/2008 CHA @ LAL W 45 34 13 28 46.4 4 12 33.3 4 6 66.7 2 8 10 2 3 2 3 4 11
+p105
+aVNazr Mohammed CHA 03/26/2008 CHA @ LAL W 14 6 3 5 60.0 0 0 - 0 1 0.0 1 6 7 0 0 0 2 3 -7
+p106
+aVRaymond Felton CHA 03/26/2008 CHA @ LAL W 38 13 4 9 44.4 1 3 33.3 4 5 80.0 1 2 3 10 0 0 4 1 14
+p107
+aVGerald Wallace CHA 03/25/2008 CHA @ UTA L 34 21 7 13 53.8 3 5 60.0 4 5 80.0 0 1 1 4 3 0 4 3 -4
+p108
+aVEmeka Okafor CHA 03/25/2008 CHA @ UTA L 27 4 2 2 100.0 0 0 - 0 0 - 0 2 2 3 0 0 1 2 -14
+p109
+aVJason Richardson CHA 03/25/2008 CHA @ UTA L 37 26 8 16 50.0 4 8 50.0 6 6 100.0 1 4 5 0 2 1 7 6 -25
+p110
+aVNazr Mohammed CHA 03/25/2008 CHA @ UTA L 18 2 0 2 0.0 0 0 - 2 6 33.3 1 4 5 2 0 1 2 2 -12
+p111
+aVJared Dudley CHA 03/25/2008 CHA @ UTA L 23 8 4 9 44.4 0 1 0.0 0 1 0.0 2 3 5 1 1 0 1 2 -15
+p112
+aVMatt Carroll CHA 03/25/2008 CHA @ UTA L 23 10 4 10 40.0 0 3 0.0 2 2 100.0 1 2 3 0 1 0 1 1 -10
+p113
+aVJermareo Davidson CHA 03/25/2008 CHA @ UTA L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -5
+p114
+aVRaymond Felton CHA 03/25/2008 CHA @ UTA L 27 13 6 12 50.0 0 0 - 1 1 100.0 0 0 0 6 3 0 0 3 -15
+p115
+aVRyan Hollins CHA 03/25/2008 CHA @ UTA L 19 6 0 1 0.0 0 0 - 6 8 75.0 1 2 3 0 0 2 0 3 -3
+p116
+aVEarl Boykins CHA 03/25/2008 CHA @ UTA L 21 14 4 6 66.7 2 2 100.0 4 4 100.0 1 1 2 4 0 0 2 0 -7
+p117
+aVEarl Boykins CHA 03/22/2008 CHA vs. MIA W 20 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 1
+p118
+aVRaymond Felton CHA 03/22/2008 CHA vs. MIA W 39 8 3 9 33.3 0 1 0.0 2 2 100.0 1 2 3 10 0 0 4 3 3
+p119
+aVJermareo Davidson CHA 03/22/2008 CHA vs. MIA W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p120
+aVRyan Hollins CHA 03/22/2008 CHA vs. MIA W 6 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 1 3
+p121
+aVGerald Wallace CHA 03/22/2008 CHA vs. MIA W 36 26 9 17 52.9 0 3 0.0 8 11 72.7 2 3 5 2 3 0 2 4 15
+p122
+aVNazr Mohammed CHA 03/22/2008 CHA vs. MIA W 26 16 8 9 88.9 0 0 - 0 0 - 4 10 14 0 0 2 2 3 -2
+p123
+aVEmeka Okafor CHA 03/22/2008 CHA vs. MIA W 23 6 3 6 50.0 0 0 - 0 1 0.0 0 8 8 1 1 1 2 2 6
+p124
+aVJason Richardson CHA 03/22/2008 CHA vs. MIA W 35 24 8 17 47.1 2 5 40.0 6 6 100.0 1 2 3 4 2 1 1 2 15
+p125
+aVJared Dudley CHA 03/22/2008 CHA vs. MIA W 32 2 0 6 0.0 0 1 0.0 2 2 100.0 2 4 6 2 1 0 0 0 13
+p126
+aVMatt Carroll CHA 03/22/2008 CHA vs. MIA W 22 3 1 8 12.5 1 3 33.3 0 0 - 0 2 2 1 1 0 1 2 9
+p127
+aVEarl Boykins CHA 03/19/2008 CHA @ IND L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -1
+p128
+aVMatt Carroll CHA 03/19/2008 CHA @ IND L 27 18 6 9 66.7 3 5 60.0 3 3 100.0 1 2 3 0 0 1 3 3 1
+p129
+aVJared Dudley CHA 03/19/2008 CHA @ IND L 19 4 0 6 0.0 0 0 - 4 5 80.0 2 2 4 2 0 0 0 0 -11
+p130
+aVEmeka Okafor CHA 03/19/2008 CHA @ IND L 21 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 1 3 -9
+p131
+aVOthella Harrington CHA 03/19/2008 CHA @ IND L 10 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 0 1 0 0 0 -1
+p132
+aVRaymond Felton CHA 03/19/2008 CHA @ IND L 36 9 4 12 33.3 0 1 0.0 1 1 100.0 0 2 2 5 2 0 3 2 -6
+p133
+aVJason Richardson CHA 03/19/2008 CHA @ IND L 39 20 8 18 44.4 1 6 16.7 3 4 75.0 2 8 10 8 3 0 1 2 2
+p134
+aVRyan Hollins CHA 03/19/2008 CHA @ IND L 22 11 4 8 50.0 0 0 - 3 8 37.5 2 1 3 0 0 1 1 2 12
+p135
+aVNazr Mohammed CHA 03/19/2008 CHA @ IND L 15 10 5 8 62.5 0 0 - 0 0 - 0 2 2 0 1 1 2 4 -9
+p136
+aVGerald Wallace CHA 03/19/2008 CHA @ IND L 40 17 5 10 50.0 0 1 0.0 7 7 100.0 0 6 6 2 1 0 4 2 -13
+p137
+aVNazr Mohammed CHA 03/17/2008 CHA @ MEM L 17 6 3 4 75.0 0 0 - 0 0 - 3 4 7 0 1 2 2 3 -2
+p138
+aVRaymond Felton CHA 03/17/2008 CHA @ MEM L 38 8 3 14 21.4 0 4 0.0 2 3 66.7 2 3 5 4 3 0 2 1 -28
+p139
+aVJermareo Davidson CHA 03/17/2008 CHA @ MEM L 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p140
+aVDerek Anderson CHA 03/17/2008 CHA @ MEM L 24 17 7 10 70.0 3 5 60.0 0 0 - 0 3 3 3 0 0 2 5 -4
+p141
+aVGerald Wallace CHA 03/17/2008 CHA @ MEM L 23 10 3 8 37.5 1 3 33.3 3 4 75.0 1 6 7 1 0 1 2 1 -15
+p142
+aVEmeka Okafor CHA 03/17/2008 CHA @ MEM L 22 8 3 6 50.0 0 0 - 2 2 100.0 3 3 6 0 1 3 4 2 -11
+p143
+aVJared Dudley CHA 03/17/2008 CHA @ MEM L 19 14 6 8 75.0 0 0 - 2 3 66.7 1 3 4 0 1 0 0 6 -1
+p144
+aVMatt Carroll CHA 03/17/2008 CHA @ MEM L 24 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 4 -17
+p145
+aVJason Richardson CHA 03/17/2008 CHA @ MEM L 37 8 4 18 22.2 0 7 0.0 0 0 - 0 6 6 1 1 1 2 3 -13
+p146
+aVEarl Boykins CHA 03/17/2008 CHA @ MEM L 18 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 5 0 0 1 0 3
+p147
+aVRyan Hollins CHA 03/17/2008 CHA @ MEM L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 2 0 0 -5
+p148
+aVNazr Mohammed CHA 03/16/2008 CHA @ CLE L 30 9 4 10 40.0 0 0 - 1 2 50.0 5 7 12 1 1 0 1 4 7
+p149
+aVJermareo Davidson CHA 03/16/2008 CHA @ CLE L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p150
+aVEarl Boykins CHA 03/16/2008 CHA @ CLE L 10 5 2 4 50.0 1 1 100.0 0 1 0.0 1 1 2 1 0 0 1 0 2
+p151
+aVJason Richardson CHA 03/16/2008 CHA @ CLE L 39 33 13 24 54.2 6 11 54.5 1 1 100.0 0 4 4 2 2 0 1 3 -11
+p152
+aVRyan Hollins CHA 03/16/2008 CHA @ CLE L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p153
+aVGerald Wallace CHA 03/16/2008 CHA @ CLE L 33 10 5 13 38.5 0 6 0.0 0 1 0.0 0 2 2 5 0 2 3 2 0
+p154
+aVEmeka Okafor CHA 03/16/2008 CHA @ CLE L 36 10 4 13 30.8 0 0 - 2 4 50.0 4 8 12 0 1 1 0 1 -21
+p155
+aVMatt Carroll CHA 03/16/2008 CHA @ CLE L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 4 -10
+p156
+aVJared Dudley CHA 03/16/2008 CHA @ CLE L 22 0 0 3 0.0 0 1 0.0 0 0 - 1 4 5 0 1 0 1 3 1
+p157
+aVDerek Anderson CHA 03/16/2008 CHA @ CLE L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 6
+p158
+aVRaymond Felton CHA 03/16/2008 CHA @ CLE L 38 14 6 14 42.9 1 3 33.3 1 4 25.0 0 2 2 9 0 0 2 3 -9
+p159
+aVJared Dudley CHA 03/14/2008 CHA @ HOU L 14 6 3 4 75.0 0 0 - 0 0 - 2 0 2 1 2 0 1 0 1
+p160
+aVEarl Boykins CHA 03/14/2008 CHA @ HOU L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -5
+p161
+aVOthella Harrington CHA 03/14/2008 CHA @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 13
+p162
+aVMatt Carroll CHA 03/14/2008 CHA @ HOU L 40 3 1 5 20.0 0 2 0.0 1 2 50.0 0 1 1 3 0 0 1 5 -15
+p163
+aVNazr Mohammed CHA 03/14/2008 CHA @ HOU L 19 0 0 1 0.0 0 0 - 0 0 - 2 7 9 0 0 0 3 3 -16
+p164
+aVEmeka Okafor CHA 03/14/2008 CHA @ HOU L 38 23 10 19 52.6 0 0 - 3 4 75.0 4 5 9 1 2 1 2 3 -22
+p165
+aVRaymond Felton CHA 03/14/2008 CHA @ HOU L 40 4 2 14 14.3 0 2 0.0 0 0 - 0 4 4 4 1 0 3 3 -4
+p166
+aVGerald Wallace CHA 03/14/2008 CHA @ HOU L 32 16 5 8 62.5 3 5 60.0 3 4 75.0 0 7 7 2 2 0 1 3 9
+p167
+aVJason Richardson CHA 03/14/2008 CHA @ HOU L 45 28 11 24 45.8 3 9 33.3 3 4 75.0 1 7 8 5 1 1 2 3 -6
+p168
+aVEarl Boykins CHA 03/12/2008 CHA @ DAL L 18 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 0 -6
+p169
+aVJermareo Davidson CHA 03/12/2008 CHA @ DAL L 3 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 0
+p170
+aVGerald Wallace CHA 03/12/2008 CHA @ DAL L 22 14 5 12 41.7 1 1 100.0 3 4 75.0 0 5 5 1 1 0 1 2 -11
+p171
+aVJared Dudley CHA 03/12/2008 CHA @ DAL L 31 9 4 7 57.1 0 1 0.0 1 1 100.0 3 1 4 4 1 1 0 3 -5
+p172
+aVEmeka Okafor CHA 03/12/2008 CHA @ DAL L 28 8 3 4 75.0 0 0 - 2 2 100.0 2 9 11 1 0 1 2 0 -15
+p173
+aVRaymond Felton CHA 03/12/2008 CHA @ DAL L 34 21 8 14 57.1 2 4 50.0 3 4 75.0 0 0 0 6 3 0 4 3 -19
+p174
+aVMatt Carroll CHA 03/12/2008 CHA @ DAL L 39 14 5 8 62.5 3 3 100.0 1 2 50.0 0 2 2 0 0 0 1 3 -28
+p175
+aVNazr Mohammed CHA 03/12/2008 CHA @ DAL L 25 12 5 9 55.6 0 0 - 2 5 40.0 0 4 4 1 2 1 0 5 -20
+p176
+aVJason Richardson CHA 03/12/2008 CHA @ DAL L 37 11 4 16 25.0 2 8 25.0 1 2 50.0 1 3 4 3 2 1 4 4 -21
+p177
+aVRyan Hollins CHA 03/12/2008 CHA @ DAL L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 0
+p178
+aVJermareo Davidson CHA 03/08/2008 CHA @ WAS W 7 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p179
+aVEarl Boykins CHA 03/08/2008 CHA @ WAS W 16 10 2 7 28.6 0 1 0.0 6 8 75.0 0 0 0 2 0 0 0 0 -6
+p180
+aVNazr Mohammed CHA 03/08/2008 CHA @ WAS W 24 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 0 2 1 3 6
+p181
+aVJason Richardson CHA 03/08/2008 CHA @ WAS W 42 34 13 20 65.0 5 9 55.6 3 4 75.0 2 6 8 3 4 1 3 4 3
+p182
+aVOthella Harrington CHA 03/08/2008 CHA @ WAS W 9 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 1 2 8
+p183
+aVMatt Carroll CHA 03/08/2008 CHA @ WAS W 38 23 6 13 46.2 6 9 66.7 5 6 83.3 1 3 4 1 1 0 3 5 6
+p184
+aVEmeka Okafor CHA 03/08/2008 CHA @ WAS W 35 9 2 7 28.6 0 0 - 5 8 62.5 2 7 9 1 0 1 3 2 -2
+p185
+aVRaymond Felton CHA 03/08/2008 CHA @ WAS W 42 14 5 13 38.5 0 4 0.0 4 5 80.0 0 6 6 12 1 1 2 3 7
+p186
+aVJared Dudley CHA 03/08/2008 CHA @ WAS W 27 0 0 3 0.0 0 0 - 0 2 0.0 2 4 6 2 1 0 1 5 -2
+p187
+aVEmeka Okafor CHA 03/07/2008 CHA vs. ATL W 37 16 6 13 46.2 0 0 - 4 7 57.1 2 13 15 0 0 2 1 4 12
+p188
+aVJermareo Davidson CHA 03/07/2008 CHA vs. ATL W 5 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -2
+p189
+aVNazr Mohammed CHA 03/07/2008 CHA vs. ATL W 12 8 4 5 80.0 0 0 - 0 0 - 2 1 3 0 0 0 2 4 -1
+p190
+aVJared Dudley CHA 03/07/2008 CHA vs. ATL W 39 13 5 13 38.5 1 3 33.3 2 2 100.0 3 5 8 3 4 0 1 4 16
+p191
+aVEarl Boykins CHA 03/07/2008 CHA vs. ATL W 18 8 4 7 57.1 0 0 - 0 0 - 0 2 2 6 1 0 2 1 9
+p192
+aVRyan Hollins CHA 03/07/2008 CHA vs. ATL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p193
+aVMatt Carroll CHA 03/07/2008 CHA vs. ATL W 41 21 7 12 58.3 5 6 83.3 2 2 100.0 0 3 3 0 2 0 0 4 16
+p194
+aVJason Richardson CHA 03/07/2008 CHA vs. ATL W 37 13 6 14 42.9 1 6 16.7 0 1 0.0 1 2 3 1 1 1 2 2 11
+p195
+aVOthella Harrington CHA 03/07/2008 CHA vs. ATL W 10 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 1 1 2 4
+p196
+aVRaymond Felton CHA 03/07/2008 CHA vs. ATL W 38 23 8 13 61.5 2 2 100.0 5 8 62.5 1 1 2 11 1 1 4 3 11
+p197
+aVJason Richardson CHA 03/05/2008 CHA vs. GSW W 48 42 15 32 46.9 5 12 41.7 7 7 100.0 2 5 7 2 1 0 4 3 9
+p198
+aVJared Dudley CHA 03/05/2008 CHA vs. GSW W 41 10 4 8 50.0 1 2 50.0 1 1 100.0 7 11 18 1 1 2 0 3 20
+p199
+aVRaymond Felton CHA 03/05/2008 CHA vs. GSW W 42 22 8 19 42.1 1 3 33.3 5 6 83.3 1 2 3 6 2 0 2 5 -1
+p200
+aVNazr Mohammed CHA 03/05/2008 CHA vs. GSW W 14 4 2 4 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 3 1
+p201
+aVEmeka Okafor CHA 03/05/2008 CHA vs. GSW W 31 16 3 13 23.1 0 0 - 10 18 55.6 4 7 11 2 1 3 1 0 -1
+p202
+aVMatt Carroll CHA 03/05/2008 CHA vs. GSW W 38 9 2 10 20.0 1 4 25.0 4 4 100.0 3 8 11 1 4 0 1 4 3
+p203
+aVEarl Boykins CHA 03/05/2008 CHA vs. GSW W 19 12 5 7 71.4 1 1 100.0 1 2 50.0 1 0 1 2 0 0 1 3 17
+p204
+aVJermareo Davidson CHA 03/05/2008 CHA vs. GSW W 7 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 -3
+p205
+aVNazr Mohammed CHA 03/04/2008 CHA @ MIN W 16 10 5 11 45.5 0 0 - 0 0 - 4 2 6 2 2 3 3 1 -7
+p206
+aVJared Dudley CHA 03/04/2008 CHA @ MIN W 33 14 5 8 62.5 1 3 33.3 3 3 100.0 0 3 3 1 2 1 0 1 29
+p207
+aVJason Richardson CHA 03/04/2008 CHA @ MIN W 37 25 8 17 47.1 4 8 50.0 5 6 83.3 0 8 8 6 1 0 3 1 8
+p208
+aVRaymond Felton CHA 03/04/2008 CHA @ MIN W 40 14 3 12 25.0 1 2 50.0 7 7 100.0 0 1 1 10 2 0 2 3 14
+p209
+aVMatt Carroll CHA 03/04/2008 CHA @ MIN W 46 18 7 12 58.3 3 6 50.0 1 2 50.0 1 5 6 4 3 0 1 4 17
+p210
+aVEmeka Okafor CHA 03/04/2008 CHA @ MIN W 35 19 7 9 77.8 0 0 - 5 7 71.4 3 8 11 2 0 2 2 1 9
+p211
+aVOthella Harrington CHA 03/04/2008 CHA @ MIN W 13 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 11
+p212
+aVJermareo Davidson CHA 03/04/2008 CHA @ MIN W 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 2
+p213
+aVEarl Boykins CHA 03/04/2008 CHA @ MIN W 15 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 6 1 0 0 0 17
+p214
+aVJason Richardson CHA 03/02/2008 CHA vs. TOR W 44 30 10 24 41.7 3 8 37.5 7 7 100.0 1 6 7 3 1 0 1 4 18
+p215
+aVEarl Boykins CHA 03/02/2008 CHA vs. TOR W 12 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p216
+aVJermareo Davidson CHA 03/02/2008 CHA vs. TOR W 16 4 2 6 33.3 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -8
+p217
+aVNazr Mohammed CHA 03/02/2008 CHA vs. TOR W 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -11
+p218
+aVEmeka Okafor CHA 03/02/2008 CHA vs. TOR W 30 14 7 14 50.0 0 0 - 0 0 - 4 11 15 0 0 1 0 0 15
+p219
+aVMatt Carroll CHA 03/02/2008 CHA vs. TOR W 36 15 4 12 33.3 1 3 33.3 6 8 75.0 0 6 6 3 0 0 1 1 17
+p220
+aVRyan Hollins CHA 03/02/2008 CHA vs. TOR W 2 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 -6
+p221
+aVOthella Harrington CHA 03/02/2008 CHA vs. TOR W 6 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 0 0 0 2 6
+p222
+aVJared Dudley CHA 03/02/2008 CHA vs. TOR W 37 17 5 7 71.4 1 1 100.0 6 6 100.0 6 4 10 0 1 0 0 4 25
+p223
+aVRaymond Felton CHA 03/02/2008 CHA vs. TOR W 40 17 6 19 31.6 1 3 33.3 4 4 100.0 3 2 5 8 1 1 1 1 10
+p224
+aVJared Dudley CHA 02/29/2008 CHA @ BOS L 27 9 3 4 75.0 1 2 50.0 2 2 100.0 3 4 7 3 3 0 0 4 -2
+p225
+aVRyan Hollins CHA 02/29/2008 CHA @ BOS L 3 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 1 1 -9
+p226
+aVMatt Carroll CHA 02/29/2008 CHA @ BOS L 36 16 4 10 40.0 4 6 66.7 4 4 100.0 1 3 4 1 1 1 1 4 -13
+p227
+aVJason Richardson CHA 02/29/2008 CHA @ BOS L 46 30 10 26 38.5 4 13 30.8 6 6 100.0 1 5 6 2 2 0 3 1 -3
+p228
+aVRaymond Felton CHA 02/29/2008 CHA @ BOS L 43 22 8 17 47.1 2 4 50.0 4 4 100.0 1 6 7 10 1 0 4 4 -9
+p229
+aVNazr Mohammed CHA 02/29/2008 CHA @ BOS L 27 5 2 6 33.3 0 0 - 1 2 50.0 4 3 7 1 0 0 2 5 1
+p230
+aVJermareo Davidson CHA 02/29/2008 CHA @ BOS L 13 4 1 5 20.0 0 0 - 2 2 100.0 0 4 4 1 0 0 1 2 -2
+p231
+aVEmeka Okafor CHA 02/29/2008 CHA @ BOS L 33 11 4 10 40.0 0 0 - 3 7 42.9 1 6 7 1 2 1 3 1 -7
+p232
+aVEarl Boykins CHA 02/29/2008 CHA @ BOS L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 0 0 0 1 4
+p233
+aVRaymond Felton CHA 02/27/2008 CHA @ NYK L 35 14 6 16 37.5 0 1 0.0 2 2 100.0 0 4 4 5 1 1 3 0 -18
+p234
+aVOthella Harrington CHA 02/27/2008 CHA @ NYK L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p235
+aVJason Richardson CHA 02/27/2008 CHA @ NYK L 13 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 0 1 0 2 2 0
+p236
+aVJared Dudley CHA 02/27/2008 CHA @ NYK L 20 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 1 0 0 2 -6
+p237
+aVJermareo Davidson CHA 02/27/2008 CHA @ NYK L 19 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 0 0 1 2 1 -7
+p238
+aVEmeka Okafor CHA 02/27/2008 CHA @ NYK L 36 18 5 15 33.3 0 0 - 8 12 66.7 3 11 14 0 1 2 2 3 -25
+p239
+aVEarl Boykins CHA 02/27/2008 CHA @ NYK L 22 4 0 6 0.0 0 3 0.0 4 6 66.7 0 0 0 4 0 0 0 1 -19
+p240
+aVJeff McInnis CHA 02/27/2008 CHA @ NYK L 26 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 3 3 0 1 2 -21
+p241
+aVNazr Mohammed CHA 02/27/2008 CHA @ NYK L 32 10 5 9 55.6 0 0 - 0 0 - 4 7 11 2 1 0 1 3 -8
+p242
+aVRyan Hollins CHA 02/27/2008 CHA @ NYK L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p243
+aVMatt Carroll CHA 02/27/2008 CHA @ NYK L 30 19 8 11 72.7 3 4 75.0 0 0 - 1 3 4 0 1 0 2 3 -13
+p244
+aVNazr Mohammed CHA 02/23/2008 CHA @ WAS L 27 5 1 9 11.1 0 0 - 3 6 50.0 3 5 8 0 0 1 2 4 -24
+p245
+aVJermareo Davidson CHA 02/23/2008 CHA @ WAS L 18 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 2 2 3 -13
+p246
+aVDerek Anderson CHA 02/23/2008 CHA @ WAS L 13 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 1 1 0 1 0 -11
+p247
+aVJason Richardson CHA 02/23/2008 CHA @ WAS L 39 25 10 17 58.8 2 7 28.6 3 4 75.0 1 4 5 1 0 0 0 0 2
+p248
+aVEarl Boykins CHA 02/23/2008 CHA @ WAS L 15 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 5 1 0 4 2 -12
+p249
+aVRyan Hollins CHA 02/23/2008 CHA @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p250
+aVJared Dudley CHA 02/23/2008 CHA @ WAS L 24 6 1 3 33.3 0 0 - 4 4 100.0 1 2 3 2 0 0 1 2 5
+p251
+aVJeff McInnis CHA 02/23/2008 CHA @ WAS L 31 12 5 8 62.5 0 1 0.0 2 2 100.0 0 2 2 3 0 0 2 2 -6
+p252
+aVRaymond Felton CHA 02/23/2008 CHA @ WAS L 33 9 4 11 36.4 0 2 0.0 1 1 100.0 0 1 1 9 1 0 0 1 -3
+p253
+aVMatt Carroll CHA 02/23/2008 CHA @ WAS L 11 7 3 4 75.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 1 -16
+p254
+aVEmeka Okafor CHA 02/23/2008 CHA @ WAS L 28 17 8 11 72.7 0 0 - 1 3 33.3 5 8 13 0 0 1 2 4 4
+p255
+aVRaymond Felton CHA 02/22/2008 CHA vs. SAC L 45 17 5 16 31.3 0 0 - 7 9 77.8 1 5 6 10 4 1 2 2 -1
+p256
+aVEmeka Okafor CHA 02/22/2008 CHA vs. SAC L 32 12 3 8 37.5 0 0 - 6 10 60.0 2 5 7 2 0 1 3 4 0
+p257
+aVOthella Harrington CHA 02/22/2008 CHA vs. SAC L 12 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 1 1 3 3
+p258
+aVJared Dudley CHA 02/22/2008 CHA vs. SAC L 11 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 1 5
+p259
+aVMatt Carroll CHA 02/22/2008 CHA vs. SAC L 22 8 3 8 37.5 2 5 40.0 0 0 - 1 3 4 1 0 0 0 0 6
+p260
+aVJason Richardson CHA 02/22/2008 CHA vs. SAC L 39 29 11 20 55.0 5 9 55.6 2 4 50.0 1 3 4 0 2 2 1 5 -4
+p261
+aVGerald Wallace CHA 02/22/2008 CHA vs. SAC L 21 6 2 7 28.6 1 5 20.0 1 2 50.0 0 6 6 4 1 3 3 4 -1
+p262
+aVNazr Mohammed CHA 02/22/2008 CHA vs. SAC L 14 5 0 1 0.0 0 0 - 5 8 62.5 2 1 3 0 0 0 0 3 -8
+p263
+aVJeff McInnis CHA 02/22/2008 CHA vs. SAC L 28 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -9
+p264
+aVDerek Anderson CHA 02/22/2008 CHA vs. SAC L 27 15 4 8 50.0 2 3 66.7 5 6 83.3 0 4 4 0 2 0 0 4 -5
+p265
+aVEarl Boykins CHA 02/22/2008 CHA vs. SAC L 13 9 2 5 40.0 1 2 50.0 4 4 100.0 1 3 4 2 0 0 1 1 9
+p266
+aVJeff McInnis CHA 02/19/2008 CHA @ SAS L 33 4 2 7 28.6 0 0 - 0 0 - 0 0 0 0 3 0 2 2 -12
+p267
+aVJason Richardson CHA 02/19/2008 CHA @ SAS L 37 13 4 11 36.4 2 5 40.0 3 6 50.0 1 1 2 4 2 1 2 3 -13
+p268
+aVJared Dudley CHA 02/19/2008 CHA @ SAS L 17 7 3 4 75.0 0 0 - 1 1 100.0 2 3 5 1 0 0 0 2 -20
+p269
+aVEarl Boykins CHA 02/19/2008 CHA @ SAS L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 0 0
+p270
+aVGerald Wallace CHA 02/19/2008 CHA @ SAS L 32 4 0 9 0.0 0 2 0.0 4 6 66.7 0 9 9 1 4 0 2 4 -4
+p271
+aVEmeka Okafor CHA 02/19/2008 CHA @ SAS L 24 2 1 9 11.1 0 0 - 0 0 - 2 8 10 0 1 0 4 1 -9
+p272
+aVNazr Mohammed CHA 02/19/2008 CHA @ SAS L 24 12 5 12 41.7 0 0 - 2 3 66.7 3 2 5 0 2 0 2 2 -11
+p273
+aVJermareo Davidson CHA 02/19/2008 CHA @ SAS L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p274
+aVMatt Carroll CHA 02/19/2008 CHA @ SAS L 19 4 1 6 16.7 0 1 0.0 2 2 100.0 1 0 1 2 1 0 0 2 -16
+p275
+aVRaymond Felton CHA 02/19/2008 CHA @ SAS L 39 19 6 13 46.2 2 4 50.0 5 6 83.3 1 3 4 4 1 0 2 1 -17
+p276
+aVJeff McInnis CHA 02/13/2008 CHA vs. ATL W 31 6 3 6 50.0 0 0 - 0 0 - 0 3 3 4 0 0 0 2 -9
+p277
+aVJason Richardson CHA 02/13/2008 CHA vs. ATL W 42 19 6 17 35.3 1 8 12.5 6 8 75.0 2 6 8 3 2 0 2 5 14
+p278
+aVOthella Harrington CHA 02/13/2008 CHA vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p279
+aVNazr Mohammed CHA 02/13/2008 CHA vs. ATL W 19 4 2 7 28.6 0 0 - 0 0 - 3 2 5 0 0 1 2 3 -2
+p280
+aVRaymond Felton CHA 02/13/2008 CHA vs. ATL W 52 22 9 23 39.1 0 2 0.0 4 4 100.0 0 4 4 7 1 1 3 3 8
+p281
+aVMatt Carroll CHA 02/13/2008 CHA vs. ATL W 31 9 3 6 50.0 1 2 50.0 2 3 66.7 0 2 2 0 0 0 0 3 -2
+p282
+aVJermareo Davidson CHA 02/13/2008 CHA vs. ATL W 7 8 4 6 66.7 0 0 - 0 1 0.0 1 0 1 0 0 1 2 1 -9
+p283
+aVEarl Boykins CHA 02/13/2008 CHA vs. ATL W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -3
+p284
+aVJared Dudley CHA 02/13/2008 CHA vs. ATL W 33 12 5 7 71.4 0 0 - 2 2 100.0 3 1 4 1 3 1 2 2 13
+p285
+aVEmeka Okafor CHA 02/13/2008 CHA vs. ATL W 40 20 6 11 54.5 0 0 - 8 10 80.0 5 16 21 0 0 5 1 3 12
+p286
+aVEarl Boykins CHA 02/11/2008 CHA vs. LAL L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p287
+aVNazr Mohammed CHA 02/11/2008 CHA vs. LAL L 38 22 10 13 76.9 0 0 - 2 2 100.0 6 5 11 0 0 1 2 5 -13
+p288
+aVRaymond Felton CHA 02/11/2008 CHA vs. LAL L 45 29 11 20 55.0 1 4 25.0 6 8 75.0 0 2 2 8 2 0 6 5 -5
+p289
+aVJeff McInnis CHA 02/11/2008 CHA vs. LAL L 35 10 5 8 62.5 0 0 - 0 0 - 0 0 0 6 0 0 3 4 -12
+p290
+aVEmeka Okafor CHA 02/11/2008 CHA vs. LAL L 32 9 4 10 40.0 0 0 - 1 2 50.0 4 9 13 2 0 2 2 3 -5
+p291
+aVJared Dudley CHA 02/11/2008 CHA vs. LAL L 28 11 4 7 57.1 1 1 100.0 2 2 100.0 2 5 7 1 1 0 1 1 -2
+p292
+aVJason Richardson CHA 02/11/2008 CHA vs. LAL L 34 10 4 14 28.6 2 7 28.6 0 2 0.0 0 1 1 1 1 0 0 4 -6
+p293
+aVMatt Carroll CHA 02/11/2008 CHA vs. LAL L 19 6 2 5 40.0 1 1 100.0 1 1 100.0 0 1 1 2 1 1 0 1 6
+p294
+aVJason Richardson CHA 02/10/2008 CHA @ DET L 39 27 8 17 47.1 4 7 57.1 7 7 100.0 0 4 4 5 0 0 3 3 -25
+p295
+aVJeff McInnis CHA 02/10/2008 CHA @ DET L 33 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 5 0 0 3 2 -6
+p296
+aVEmeka Okafor CHA 02/10/2008 CHA @ DET L 30 9 4 10 40.0 0 0 - 1 1 100.0 2 7 9 1 1 1 1 2 -12
+p297
+aVRyan Hollins CHA 02/10/2008 CHA @ DET L 5 4 1 1 100.0 0 0 - 2 6 33.3 0 0 0 0 0 1 0 3 -5
+p298
+aVMatt Carroll CHA 02/10/2008 CHA @ DET L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p299
+aVJermareo Davidson CHA 02/10/2008 CHA @ DET L 19 9 3 8 37.5 0 0 - 3 6 50.0 2 0 2 0 1 1 0 2 -7
+p300
+aVOthella Harrington CHA 02/10/2008 CHA @ DET L 12 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 1 5 -5
+p301
+aVNazr Mohammed CHA 02/10/2008 CHA @ DET L 30 10 3 8 37.5 0 0 - 4 4 100.0 5 3 8 1 2 1 2 2 -23
+p302
+aVEarl Boykins CHA 02/10/2008 CHA @ DET L 23 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 2 1 -10
+p303
+aVJared Dudley CHA 02/10/2008 CHA @ DET L 12 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 3 1 -17
+p304
+aVRaymond Felton CHA 02/10/2008 CHA @ DET L 30 14 4 10 40.0 0 3 0.0 6 7 85.7 0 3 3 4 1 0 0 3 -16
+p305
+aVEmeka Okafor CHA 02/08/2008 CHA vs. NJN L 37 10 5 12 41.7 0 0 - 0 0 - 4 13 17 1 0 0 5 0 -20
+p306
+aVNazr Mohammed CHA 02/08/2008 CHA vs. NJN L 32 5 2 11 18.2 0 0 - 1 2 50.0 3 8 11 3 0 1 0 2 -6
+p307
+aVRaymond Felton CHA 02/08/2008 CHA vs. NJN L 33 4 2 10 20.0 0 4 0.0 0 0 - 1 1 2 1 0 0 0 2 -12
+p308
+aVGerald Wallace CHA 02/08/2008 CHA vs. NJN L 41 21 6 17 35.3 2 7 28.6 7 9 77.8 0 4 4 2 2 3 4 3 -21
+p309
+aVJared Dudley CHA 02/08/2008 CHA vs. NJN L 24 15 6 7 85.7 1 1 100.0 2 2 100.0 2 3 5 2 3 1 1 1 -8
+p310
+aVJason Richardson CHA 02/08/2008 CHA vs. NJN L 40 17 6 15 40.0 3 8 37.5 2 4 50.0 0 1 1 3 1 0 0 1 -14
+p311
+aVEarl Boykins CHA 02/08/2008 CHA vs. NJN L 21 13 6 9 66.7 1 2 50.0 0 2 0.0 1 1 2 2 0 0 1 2 2
+p312
+aVRyan Hollins CHA 02/08/2008 CHA vs. NJN L 10 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 1 3 4
+p313
+aVJermareo Davidson CHA 02/08/2008 CHA vs. NJN L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p314
+aVEarl Boykins CHA 02/04/2008 CHA @ PHX L 17 9 2 5 40.0 1 3 33.3 4 5 80.0 0 0 0 0 1 0 2 0 -4
+p315
+aVEmeka Okafor CHA 02/04/2008 CHA @ PHX L 41 18 7 15 46.7 0 0 - 4 6 66.7 2 11 13 3 0 2 6 2 -21
+p316
+aVNazr Mohammed CHA 02/04/2008 CHA @ PHX L 37 12 5 8 62.5 0 0 - 2 3 66.7 6 5 11 3 1 0 3 5 -20
+p317
+aVJeff McInnis CHA 02/04/2008 CHA @ PHX L 13 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 5 0 0 0 0 -1
+p318
+aVJared Dudley CHA 02/04/2008 CHA @ PHX L 28 4 2 6 33.3 0 1 0.0 0 0 - 2 3 5 1 1 0 2 2 0
+p319
+aVOthella Harrington CHA 02/04/2008 CHA @ PHX L 5 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 7
+p320
+aVRyan Hollins CHA 02/04/2008 CHA @ PHX L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 2 6
+p321
+aVRaymond Felton CHA 02/04/2008 CHA @ PHX L 31 19 8 12 66.7 0 1 0.0 3 4 75.0 0 3 3 4 2 0 0 1 -10
+p322
+aVJason Richardson CHA 02/04/2008 CHA @ PHX L 40 25 10 21 47.6 5 9 55.6 0 1 0.0 1 4 5 4 2 0 1 1 -14
+p323
+aVDerek Anderson CHA 02/04/2008 CHA @ PHX L 14 5 2 7 28.6 1 5 20.0 0 0 - 0 0 0 0 0 0 0 3 -13
+p324
+aVRaymond Felton CHA 02/02/2008 CHA @ DEN L 39 14 7 18 38.9 0 3 0.0 0 0 - 1 2 3 9 2 0 1 2 -4
+p325
+aVEmeka Okafor CHA 02/02/2008 CHA @ DEN L 43 20 8 16 50.0 0 0 - 4 7 57.1 7 11 18 1 0 1 2 3 -13
+p326
+aVDerek Anderson CHA 02/02/2008 CHA @ DEN L 17 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 4 0 0 1 3 -19
+p327
+aVEarl Boykins CHA 02/02/2008 CHA @ DEN L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 3 1 0 2 1 -19
+p328
+aVJared Dudley CHA 02/02/2008 CHA @ DEN L 31 11 4 8 50.0 0 0 - 3 4 75.0 3 5 8 1 0 0 0 4 -3
+p329
+aVRyan Hollins CHA 02/02/2008 CHA @ DEN L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 3 2 1 4
+p330
+aVOthella Harrington CHA 02/02/2008 CHA @ DEN L 12 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 0 0 1 2 0
+p331
+aVNazr Mohammed CHA 02/02/2008 CHA @ DEN L 26 7 2 7 28.6 0 0 - 3 8 37.5 4 1 5 4 1 2 2 4 -13
+p332
+aVJason Richardson CHA 02/02/2008 CHA @ DEN L 37 38 14 25 56.0 6 11 54.5 4 6 66.7 1 2 3 3 1 0 2 3 -9
+p333
+aVMatt Carroll CHA 02/02/2008 CHA @ DEN L 18 3 1 5 20.0 1 2 50.0 0 0 - 1 1 2 0 0 2 1 1 -4
+p334
+aVNazr Mohammed CHA 02/01/2008 CHA @ GSW L 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -22
+p335
+aVJared Dudley CHA 02/01/2008 CHA @ GSW L 17 4 2 9 22.2 0 2 0.0 0 0 - 3 5 8 4 1 0 0 1 -8
+p336
+aVDerek Anderson CHA 02/01/2008 CHA @ GSW L 23 5 2 7 28.6 0 3 0.0 1 2 50.0 1 2 3 0 0 0 2 4 -27
+p337
+aVRyan Hollins CHA 02/01/2008 CHA @ GSW L 13 10 4 4 100.0 0 0 - 2 4 50.0 4 2 6 0 0 0 0 2 1
+p338
+aVRaymond Felton CHA 02/01/2008 CHA @ GSW L 26 16 6 12 50.0 0 1 0.0 4 4 100.0 0 2 2 3 1 0 2 3 -10
+p339
+aVEmeka Okafor CHA 02/01/2008 CHA @ GSW L 28 20 9 14 64.3 0 0 - 2 2 100.0 6 12 18 0 0 0 2 3 -10
+p340
+aVJason Richardson CHA 02/01/2008 CHA @ GSW L 28 10 2 9 22.2 1 5 20.0 5 5 100.0 0 0 0 4 1 1 2 2 -13
+p341
+aVMatt Carroll CHA 02/01/2008 CHA @ GSW L 17 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 2 1 1 2 3 -16
+p342
+aVJeff McInnis CHA 02/01/2008 CHA @ GSW L 30 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 0 0 0 2 -10
+p343
+aVGerald Wallace CHA 02/01/2008 CHA @ GSW L 28 11 3 8 37.5 0 2 0.0 5 9 55.6 1 5 6 4 1 1 1 2 -14
+p344
+aVEarl Boykins CHA 02/01/2008 CHA @ GSW L 23 5 2 11 18.2 1 2 50.0 0 0 - 0 0 0 3 0 0 3 0 -26
+p345
+aVGerald Wallace CHA 01/30/2008 CHA @ SAC L 41 25 8 18 44.4 2 3 66.7 7 12 58.3 1 5 6 5 3 1 3 3 -10
+p346
+aVNazr Mohammed CHA 01/30/2008 CHA @ SAC L 19 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 1 1 1 1 2 -3
+p347
+aVJared Dudley CHA 01/30/2008 CHA @ SAC L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p348
+aVRaymond Felton CHA 01/30/2008 CHA @ SAC L 34 16 6 11 54.5 3 7 42.9 1 1 100.0 0 0 0 7 3 0 0 3 -17
+p349
+aVOthella Harrington CHA 01/30/2008 CHA @ SAC L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p350
+aVJason Richardson CHA 01/30/2008 CHA @ SAC L 34 11 4 16 25.0 1 7 14.3 2 4 50.0 0 5 5 2 2 3 1 2 -12
+p351
+aVDerek Anderson CHA 01/30/2008 CHA @ SAC L 15 5 2 4 50.0 1 2 50.0 0 1 0.0 2 2 4 0 0 0 1 3 -2
+p352
+aVMatt Carroll CHA 01/30/2008 CHA @ SAC L 17 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 1 0 1 1 1 -8
+p353
+aVEmeka Okafor CHA 01/30/2008 CHA @ SAC L 35 13 6 12 50.0 0 0 - 1 4 25.0 3 12 15 1 0 1 2 4 -5
+p354
+aVJeff McInnis CHA 01/30/2008 CHA @ SAC L 37 9 4 7 57.1 0 0 - 1 2 50.0 0 3 3 6 0 0 1 3 -9
+p355
+aVRyan Hollins CHA 01/30/2008 CHA @ SAC L 1 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p356
+aVJeff McInnis CHA 01/28/2008 CHA @ LAC W 41 10 5 9 55.6 0 0 - 0 0 - 0 1 1 7 0 0 1 4 12
+p357
+aVRaymond Felton CHA 01/28/2008 CHA @ LAC W 36 10 3 6 50.0 2 2 100.0 2 4 50.0 0 4 4 8 1 0 2 1 -3
+p358
+aVEmeka Okafor CHA 01/28/2008 CHA @ LAC W 33 14 6 8 75.0 0 0 - 2 4 50.0 1 8 9 4 0 1 5 1 12
+p359
+aVGerald Wallace CHA 01/28/2008 CHA @ LAC W 43 23 8 11 72.7 2 4 50.0 5 8 62.5 0 6 6 8 3 1 2 5 3
+p360
+aVOthella Harrington CHA 01/28/2008 CHA @ LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p361
+aVDerek Anderson CHA 01/28/2008 CHA @ LAC W 15 12 3 6 50.0 2 3 66.7 4 4 100.0 1 1 2 1 1 0 3 2 12
+p362
+aVJason Richardson CHA 01/28/2008 CHA @ LAC W 37 20 7 16 43.8 1 7 14.3 5 6 83.3 0 4 4 4 0 1 1 2 3
+p363
+aVNazr Mohammed CHA 01/28/2008 CHA @ LAC W 14 10 4 6 66.7 0 0 - 2 2 100.0 1 0 1 0 2 1 1 3 1
+p364
+aVRyan Hollins CHA 01/28/2008 CHA @ LAC W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -10
+p365
+aVMatt Carroll CHA 01/28/2008 CHA @ LAC W 15 8 2 4 50.0 0 0 - 4 4 100.0 0 2 2 1 0 0 0 1 5
+p366
+aVGerald Wallace CHA 01/26/2008 CHA vs. PHI L 41 20 4 17 23.5 0 5 0.0 12 15 80.0 1 2 3 10 1 1 2 2 5
+p367
+aVEmeka Okafor CHA 01/26/2008 CHA vs. PHI L 35 17 8 12 66.7 0 0 - 1 2 50.0 9 7 16 0 0 1 2 3 -6
+p368
+aVJeff McInnis CHA 01/26/2008 CHA vs. PHI L 29 4 2 5 40.0 0 0 - 0 0 - 0 4 4 2 0 0 2 3 1
+p369
+aVDerek Anderson CHA 01/26/2008 CHA vs. PHI L 13 5 2 6 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 2 2 -10
+p370
+aVMatt Carroll CHA 01/26/2008 CHA vs. PHI L 34 2 1 9 11.1 0 2 0.0 0 0 - 1 3 4 3 2 0 0 5 1
+p371
+aVJason Richardson CHA 01/26/2008 CHA vs. PHI L 44 35 13 24 54.2 7 11 63.6 2 2 100.0 0 6 6 2 2 0 1 5 -10
+p372
+aVRyan Hollins CHA 01/26/2008 CHA vs. PHI L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p373
+aVNazr Mohammed CHA 01/26/2008 CHA vs. PHI L 30 10 4 10 40.0 0 0 - 2 3 66.7 5 2 7 3 0 4 1 4 -3
+p374
+aVJared Dudley CHA 01/26/2008 CHA vs. PHI L 13 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 2 2 0 0 2 -10
+p375
+aVGerald Wallace CHA 01/25/2008 CHA @ CHI W 44 21 7 11 63.6 0 2 0.0 7 9 77.8 0 5 5 5 4 1 1 3 21
+p376
+aVMatt Carroll CHA 01/25/2008 CHA @ CHI W 23 12 4 8 50.0 3 4 75.0 1 2 50.0 1 2 3 1 0 0 1 1 7
+p377
+aVEmeka Okafor CHA 01/25/2008 CHA @ CHI W 41 21 10 13 76.9 0 0 - 1 1 100.0 2 14 16 3 0 4 4 5 28
+p378
+aVJason Richardson CHA 01/25/2008 CHA @ CHI W 35 11 3 13 23.1 1 4 25.0 4 6 66.7 1 3 4 4 0 1 2 2 3
+p379
+aVNazr Mohammed CHA 01/25/2008 CHA @ CHI W 25 11 5 9 55.6 0 0 - 1 2 50.0 5 3 8 1 0 1 1 2 7
+p380
+aVRyan Hollins CHA 01/25/2008 CHA @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p381
+aVJared Dudley CHA 01/25/2008 CHA @ CHI W 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 1 0 3 2 -9
+p382
+aVRaymond Felton CHA 01/25/2008 CHA @ CHI W 35 8 4 12 33.3 0 1 0.0 0 1 0.0 0 5 5 8 0 0 2 0 16
+p383
+aVJeff McInnis CHA 01/25/2008 CHA @ CHI W 25 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 1 2 3 -4
+p384
+aVRyan Hollins CHA 01/23/2008 CHA vs. DAL L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -3
+p385
+aVNazr Mohammed CHA 01/23/2008 CHA vs. DAL L 27 7 2 3 66.7 0 0 - 3 3 100.0 2 3 5 4 0 0 0 3 -1
+p386
+aVJason Richardson CHA 01/23/2008 CHA vs. DAL L 43 22 6 17 35.3 1 6 16.7 9 9 100.0 1 7 8 5 0 1 1 4 -4
+p387
+aVRaymond Felton CHA 01/23/2008 CHA vs. DAL L 43 16 7 13 53.8 0 3 0.0 2 3 66.7 2 2 4 7 0 0 4 3 -7
+p388
+aVGerald Wallace CHA 01/23/2008 CHA vs. DAL L 48 22 10 23 43.5 1 4 25.0 1 2 50.0 2 9 11 1 3 0 2 2 -7
+p389
+aVMatt Carroll CHA 01/23/2008 CHA vs. DAL L 18 5 1 5 20.0 1 4 25.0 2 2 100.0 0 1 1 0 1 1 0 3 -12
+p390
+aVEmeka Okafor CHA 01/23/2008 CHA vs. DAL L 38 19 9 16 56.3 0 0 - 1 3 33.3 3 7 10 0 0 1 1 5 -1
+p391
+aVJeff McInnis CHA 01/23/2008 CHA vs. DAL L 18 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 0 0
+p392
+aVJeff McInnis CHA 01/21/2008 CHA vs. SAS L 31 4 2 4 50.0 0 0 - 0 0 - 0 3 3 9 0 0 1 3 2
+p393
+aVRaymond Felton CHA 01/21/2008 CHA vs. SAS L 37 10 5 11 45.5 0 2 0.0 0 0 - 1 1 2 6 1 0 2 1 -2
+p394
+aVJared Dudley CHA 01/21/2008 CHA vs. SAS L 7 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p395
+aVMatt Carroll CHA 01/21/2008 CHA vs. SAS L 29 7 3 6 50.0 0 1 0.0 1 2 50.0 0 1 1 1 1 1 0 1 -18
+p396
+aVJason Richardson CHA 01/21/2008 CHA vs. SAS L 46 13 5 18 27.8 2 8 25.0 1 2 50.0 0 4 4 3 2 1 4 1 -4
+p397
+aVEmeka Okafor CHA 01/21/2008 CHA vs. SAS L 30 21 10 14 71.4 0 0 - 1 1 100.0 6 4 10 1 1 1 1 4 2
+p398
+aVGerald Wallace CHA 01/21/2008 CHA vs. SAS L 43 15 5 18 27.8 0 3 0.0 5 6 83.3 0 9 9 4 1 1 4 3 -13
+p399
+aVNazr Mohammed CHA 01/21/2008 CHA vs. SAS L 18 12 6 8 75.0 0 0 - 0 0 - 1 3 4 0 2 0 0 2 -11
+p400
+aVEmeka Okafor CHA 01/19/2008 CHA vs. MEM W 29 11 5 10 50.0 0 0 - 1 2 50.0 1 5 6 1 1 3 4 5 15
+p401
+aVGerald Wallace CHA 01/19/2008 CHA vs. MEM W 46 28 12 23 52.2 1 5 20.0 3 4 75.0 1 6 7 6 7 1 2 4 18
+p402
+aVJared Dudley CHA 01/19/2008 CHA vs. MEM W 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p403
+aVMatt Carroll CHA 01/19/2008 CHA vs. MEM W 24 11 3 6 50.0 2 3 66.7 3 3 100.0 1 3 4 1 1 0 1 1 3
+p404
+aVRaymond Felton CHA 01/19/2008 CHA vs. MEM W 38 11 5 11 45.5 0 2 0.0 1 1 100.0 0 2 2 9 1 0 4 1 16
+p405
+aVNazr Mohammed CHA 01/19/2008 CHA vs. MEM W 19 2 1 4 25.0 0 0 - 0 0 - 2 4 6 1 0 2 0 3 3
+p406
+aVJason Richardson CHA 01/19/2008 CHA vs. MEM W 41 38 16 25 64.0 6 10 60.0 0 0 - 2 12 14 4 0 3 1 5 14
+p407
+aVJeff McInnis CHA 01/19/2008 CHA vs. MEM W 36 2 1 6 16.7 0 0 - 0 0 - 2 1 3 5 1 0 0 2 17
+p408
+aVDerek Anderson CHA 01/18/2008 CHA @ NOH L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p409
+aVJason Richardson CHA 01/18/2008 CHA @ NOH L 28 12 5 17 29.4 0 4 0.0 2 2 100.0 0 0 0 3 0 0 1 1 -21
+p410
+aVGerald Wallace CHA 01/18/2008 CHA @ NOH L 32 12 5 13 38.5 2 6 33.3 0 0 - 0 3 3 3 0 0 3 3 -26
+p411
+aVRaymond Felton CHA 01/18/2008 CHA @ NOH L 27 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 6 2 0 2 0 -21
+p412
+aVMatt Carroll CHA 01/18/2008 CHA @ NOH L 24 10 5 10 50.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 1 -15
+p413
+aVRyan Hollins CHA 01/18/2008 CHA @ NOH L 17 2 1 2 50.0 0 0 - 0 0 - 0 6 6 1 1 0 0 6 -6
+p414
+aVJared Dudley CHA 01/18/2008 CHA @ NOH L 17 9 4 6 66.7 0 0 - 1 1 100.0 3 2 5 1 0 0 1 0 -5
+p415
+aVNazr Mohammed CHA 01/18/2008 CHA @ NOH L 21 6 2 9 22.2 0 0 - 2 2 100.0 6 5 11 2 0 0 0 2 -21
+p416
+aVJeff McInnis CHA 01/18/2008 CHA @ NOH L 27 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 6 0 0 2 0 -9
+p417
+aVEmeka Okafor CHA 01/18/2008 CHA @ NOH L 26 13 6 10 60.0 0 0 - 1 2 50.0 2 5 7 0 1 1 1 5 -11
+p418
+aVJermareo Davidson CHA 01/18/2008 CHA @ NOH L 12 4 2 9 22.2 0 0 - 0 0 - 1 1 2 3 0 1 1 1 0
+p419
+aVJared Dudley CHA 01/16/2008 CHA vs. ORL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p420
+aVGerald Wallace CHA 01/16/2008 CHA vs. ORL W 45 36 12 30 40.0 1 8 12.5 11 14 78.6 8 6 14 5 3 1 0 1 9
+p421
+aVNazr Mohammed CHA 01/16/2008 CHA vs. ORL W 24 8 3 9 33.3 0 0 - 2 2 100.0 1 5 6 2 1 0 1 4 5
+p422
+aVEmeka Okafor CHA 01/16/2008 CHA vs. ORL W 24 7 3 7 42.9 0 0 - 1 1 100.0 3 4 7 2 2 0 0 4 1
+p423
+aVMatt Carroll CHA 01/16/2008 CHA vs. ORL W 31 13 5 8 62.5 3 5 60.0 0 0 - 0 5 5 2 1 2 1 3 15
+p424
+aVJeff McInnis CHA 01/16/2008 CHA vs. ORL W 23 2 1 3 33.3 0 0 - 0 0 - 0 2 2 5 0 0 1 0 -11
+p425
+aVJason Richardson CHA 01/16/2008 CHA vs. ORL W 46 26 9 23 39.1 4 8 50.0 4 4 100.0 1 4 5 4 0 1 3 4 5
+p426
+aVRaymond Felton CHA 01/16/2008 CHA vs. ORL W 42 7 2 6 33.3 0 1 0.0 3 3 100.0 0 2 2 4 0 0 4 3 8
+p427
+aVGerald Wallace CHA 01/14/2008 CHA vs. DEN W 45 40 13 24 54.2 4 8 50.0 10 15 66.7 3 4 7 5 2 2 3 5 5
+p428
+aVEmeka Okafor CHA 01/14/2008 CHA vs. DEN W 35 19 7 12 58.3 0 0 - 5 7 71.4 4 9 13 2 1 3 3 5 3
+p429
+aVJeff McInnis CHA 01/14/2008 CHA vs. DEN W 25 4 2 4 50.0 0 0 - 0 0 - 0 4 4 3 0 1 1 2 -2
+p430
+aVMatt Carroll CHA 01/14/2008 CHA vs. DEN W 27 19 6 11 54.5 3 6 50.0 4 4 100.0 1 2 3 1 0 0 0 4 -7
+p431
+aVRaymond Felton CHA 01/14/2008 CHA vs. DEN W 40 7 3 12 25.0 0 4 0.0 1 1 100.0 0 4 4 15 1 0 4 2 3
+p432
+aVJason Richardson CHA 01/14/2008 CHA vs. DEN W 30 15 6 14 42.9 3 7 42.9 0 0 - 0 5 5 2 2 1 1 5 8
+p433
+aVJared Dudley CHA 01/14/2008 CHA vs. DEN W 9 5 2 4 50.0 0 1 0.0 1 2 50.0 1 1 2 2 0 0 0 2 4
+p434
+aVNazr Mohammed CHA 01/14/2008 CHA vs. DEN W 29 10 3 6 50.0 0 0 - 4 4 100.0 3 2 5 0 0 0 0 2 6
+p435
+aVRyan Hollins CHA 01/14/2008 CHA vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p436
+aVJared Dudley CHA 01/12/2008 CHA vs. DET L 30 6 2 5 40.0 0 0 - 2 3 66.7 1 2 3 1 1 0 1 2 5
+p437
+aVMatt Carroll CHA 01/12/2008 CHA vs. DET L 43 10 4 8 50.0 0 0 - 2 5 40.0 0 3 3 1 1 0 2 2 -12
+p438
+aVGerald Wallace CHA 01/12/2008 CHA vs. DET L 48 26 8 21 38.1 1 8 12.5 9 13 69.2 0 6 6 5 3 3 6 4 -8
+p439
+aVEmeka Okafor CHA 01/12/2008 CHA vs. DET L 46 19 8 11 72.7 0 0 - 3 5 60.0 6 9 15 2 2 1 2 4 -2
+p440
+aVRyan Hollins CHA 01/12/2008 CHA vs. DET L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 4
+p441
+aVNazr Mohammed CHA 01/12/2008 CHA vs. DET L 32 19 8 14 57.1 0 0 - 3 4 75.0 5 8 13 1 0 3 2 4 -3
+p442
+aVJermareo Davidson CHA 01/12/2008 CHA vs. DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 5
+p443
+aVJason Richardson CHA 01/12/2008 CHA vs. DET L 51 20 8 20 40.0 2 8 25.0 2 2 100.0 1 3 4 8 1 1 3 5 -4
+p444
+aVJason Richardson CHA 01/11/2008 CHA @ CLE L 51 19 7 26 26.9 3 9 33.3 2 2 100.0 1 7 8 4 1 2 5 3 -2
+p445
+aVRaymond Felton CHA 01/11/2008 CHA @ CLE L 55 12 5 13 38.5 1 2 50.0 1 2 50.0 0 2 2 11 1 0 2 1 -1
+p446
+aVGerald Wallace CHA 01/11/2008 CHA @ CLE L 54 27 11 22 50.0 4 6 66.7 1 3 33.3 2 10 12 3 4 1 3 3 -3
+p447
+aVMatt Carroll CHA 01/11/2008 CHA @ CLE L 38 18 6 11 54.5 4 8 50.0 2 4 50.0 1 2 3 1 1 1 0 4 -8
+p448
+aVRyan Hollins CHA 01/11/2008 CHA @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p449
+aVNazr Mohammed CHA 01/11/2008 CHA @ CLE L 28 21 9 19 47.4 0 0 - 3 5 60.0 5 10 15 0 1 1 1 6 -9
+p450
+aVEmeka Okafor CHA 01/11/2008 CHA @ CLE L 35 9 2 4 50.0 0 0 - 5 8 62.5 5 4 9 0 4 3 3 4 0
+p451
+aVJeff McInnis CHA 01/11/2008 CHA @ CLE L 22 0 0 3 0.0 0 0 - 0 0 - 0 0 0 6 1 0 0 1 -2
+p452
+aVJared Dudley CHA 01/11/2008 CHA @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p453
+aVRaymond Felton CHA 01/09/2008 CHA @ BOS W 42 16 5 13 38.5 1 2 50.0 5 5 100.0 2 2 4 8 1 0 0 2 15
+p454
+aVJared Dudley CHA 01/09/2008 CHA @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p455
+aVNazr Mohammed CHA 01/09/2008 CHA @ BOS W 26 18 8 11 72.7 0 0 - 2 5 40.0 4 6 10 0 1 0 2 5 11
+p456
+aVJason Richardson CHA 01/09/2008 CHA @ BOS W 43 34 14 22 63.6 2 6 33.3 4 6 66.7 1 8 9 3 2 0 0 1 11
+p457
+aVRyan Hollins CHA 01/09/2008 CHA @ BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -3
+p458
+aVMatt Carroll CHA 01/09/2008 CHA @ BOS W 19 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 4
+p459
+aVGerald Wallace CHA 01/09/2008 CHA @ BOS W 45 15 6 15 40.0 1 5 20.0 2 2 100.0 1 9 10 4 2 2 3 3 12
+p460
+aVJeff McInnis CHA 01/09/2008 CHA @ BOS W 35 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 1 3 5
+p461
+aVEmeka Okafor CHA 01/09/2008 CHA @ BOS W 23 8 4 10 40.0 0 0 - 0 0 - 0 3 3 2 1 1 2 3 1
+p462
+aVJared Dudley CHA 01/08/2008 CHA vs. NJN W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p463
+aVMatt Carroll CHA 01/08/2008 CHA vs. NJN W 28 10 3 7 42.9 0 2 0.0 4 6 66.7 0 7 7 2 0 0 0 4 20
+p464
+aVRyan Hollins CHA 01/08/2008 CHA vs. NJN W 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 1 0 3 5
+p465
+aVNazr Mohammed CHA 01/08/2008 CHA vs. NJN W 21 17 7 8 87.5 0 0 - 3 5 60.0 1 3 4 1 2 0 2 5 17
+p466
+aVJason Richardson CHA 01/08/2008 CHA vs. NJN W 45 25 10 18 55.6 2 5 40.0 3 4 75.0 0 7 7 5 1 1 1 2 13
+p467
+aVEmeka Okafor CHA 01/08/2008 CHA vs. NJN W 30 17 8 9 88.9 0 0 - 1 1 100.0 2 4 6 0 1 0 1 5 2
+p468
+aVRaymond Felton CHA 01/08/2008 CHA vs. NJN W 44 17 5 13 38.5 1 4 25.0 6 6 100.0 0 1 1 7 0 0 2 4 10
+p469
+aVGerald Wallace CHA 01/08/2008 CHA vs. NJN W 37 21 7 13 53.8 0 0 - 7 11 63.6 4 7 11 3 2 0 5 3 6
+p470
+aVJeff McInnis CHA 01/08/2008 CHA vs. NJN W 26 6 3 4 75.0 0 0 - 0 0 - 0 3 3 4 0 0 1 1 8
+p471
+aVEmeka Okafor CHA 01/06/2008 CHA vs. MIL L 28 10 4 10 40.0 0 0 - 2 4 50.0 4 5 9 0 0 2 1 4 -19
+p472
+aVGerald Wallace CHA 01/06/2008 CHA vs. MIL L 41 25 7 12 58.3 1 2 50.0 10 12 83.3 0 3 3 5 3 0 8 3 -5
+p473
+aVNazr Mohammed CHA 01/06/2008 CHA vs. MIL L 22 9 4 8 50.0 0 0 - 1 2 50.0 2 10 12 0 0 1 1 3 14
+p474
+aVJason Richardson CHA 01/06/2008 CHA vs. MIL L 42 21 8 17 47.1 3 6 50.0 2 2 100.0 0 5 5 2 1 1 3 3 -4
+p475
+aVRaymond Felton CHA 01/06/2008 CHA vs. MIL L 45 13 5 9 55.6 1 2 50.0 2 2 100.0 0 4 4 10 0 0 2 1 -5
+p476
+aVRyan Hollins CHA 01/06/2008 CHA vs. MIL L 13 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 1 1 0 1
+p477
+aVJeff McInnis CHA 01/06/2008 CHA vs. MIL L 29 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 0 0 2 1 -4
+p478
+aVMatt Carroll CHA 01/06/2008 CHA vs. MIL L 20 5 2 7 28.6 0 3 0.0 1 1 100.0 1 0 1 1 1 0 0 1 2
+p479
+aVEmeka Okafor CHA 01/04/2008 CHA @ NJN L 36 6 2 2 100.0 0 0 - 2 4 50.0 2 11 13 2 1 4 4 3 2
+p480
+aVRaymond Felton CHA 01/04/2008 CHA @ NJN L 39 8 4 12 33.3 0 2 0.0 0 0 - 0 1 1 8 2 0 3 4 -3
+p481
+aVNazr Mohammed CHA 01/04/2008 CHA @ NJN L 14 2 1 5 20.0 0 0 - 0 0 - 1 3 4 2 1 1 2 4 -6
+p482
+aVGerald Wallace CHA 01/04/2008 CHA @ NJN L 44 25 8 15 53.3 0 2 0.0 9 10 90.0 0 12 12 5 0 1 5 4 -6
+p483
+aVJeff McInnis CHA 01/04/2008 CHA @ NJN L 38 13 6 8 75.0 1 1 100.0 0 0 - 0 2 2 5 1 0 1 4 -4
+p484
+aVDerek Anderson CHA 01/04/2008 CHA @ NJN L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p485
+aVMatt Carroll CHA 01/04/2008 CHA @ NJN L 19 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 0 1 1 1 3 0
+p486
+aVJason Richardson CHA 01/04/2008 CHA @ NJN L 39 33 12 28 42.9 2 8 25.0 7 8 87.5 3 5 8 4 0 1 4 6 -5
+p487
+aVRyan Hollins CHA 01/04/2008 CHA @ NJN L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -2
+p488
+aVEmeka Okafor CHA 01/02/2008 CHA vs. CHI L 31 9 4 11 36.4 0 0 - 1 3 33.3 2 6 8 0 1 2 1 2 1
+p489
+aVRaymond Felton CHA 01/02/2008 CHA vs. CHI L 44 13 6 15 40.0 0 2 0.0 1 1 100.0 1 1 2 9 0 0 5 4 -7
+p490
+aVJeff McInnis CHA 01/02/2008 CHA vs. CHI L 29 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 5 0 0 1 3 -7
+p491
+aVJared Dudley CHA 01/02/2008 CHA vs. CHI L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p492
+aVGerald Wallace CHA 01/02/2008 CHA vs. CHI L 40 23 7 17 41.2 4 7 57.1 5 6 83.3 1 10 11 8 0 2 2 4 -11
+p493
+aVDerek Anderson CHA 01/02/2008 CHA vs. CHI L 14 7 0 1 0.0 0 0 - 7 8 87.5 3 5 8 1 2 0 1 2 0
+p494
+aVJason Richardson CHA 01/02/2008 CHA vs. CHI L 39 28 11 17 64.7 3 5 60.0 3 4 75.0 1 1 2 2 1 1 1 4 -9
+p495
+aVMatt Carroll CHA 01/02/2008 CHA vs. CHI L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 1 1 0 1 -13
+p496
+aVNazr Mohammed CHA 01/02/2008 CHA vs. CHI L 21 8 3 8 37.5 0 0 - 2 4 50.0 1 2 3 1 0 1 2 3 -15
+p497
+aVMatt Carroll CHA 12/31/2007 CHA vs. IND W 24 8 3 9 33.3 2 5 40.0 0 0 - 0 5 5 2 0 0 1 2 11
+p498
+aVJeff McInnis CHA 12/31/2007 CHA vs. IND W 37 4 2 5 40.0 0 0 - 0 0 - 0 0 0 4 1 0 1 3 -6
+p499
+aVNazr Mohammed CHA 12/31/2007 CHA vs. IND W 18 6 2 4 50.0 0 0 - 2 2 100.0 4 3 7 2 1 0 1 2 3
+p500
+aVRaymond Felton CHA 12/31/2007 CHA vs. IND W 44 7 2 8 25.0 0 1 0.0 3 4 75.0 0 2 2 6 2 0 1 1 1
+p501
+aVJared Dudley CHA 12/31/2007 CHA vs. IND W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p502
+aVEmeka Okafor CHA 12/31/2007 CHA vs. IND W 35 10 4 11 36.4 0 0 - 2 4 50.0 4 6 10 0 3 3 0 2 1
+p503
+aVDerek Anderson CHA 12/31/2007 CHA vs. IND W 10 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 1 2
+p504
+aVJason Richardson CHA 12/31/2007 CHA vs. IND W 42 28 9 18 50.0 4 8 50.0 6 8 75.0 2 6 8 3 1 1 2 3 4
+p505
+aVGerald Wallace CHA 12/31/2007 CHA vs. IND W 49 36 9 21 42.9 2 4 50.0 16 22 72.7 1 7 8 4 4 1 4 5 4
+p506
+aVNazr Mohammed CHA 12/29/2007 CHA @ ORL L 21 4 2 3 66.7 0 0 - 0 0 - 0 6 6 1 1 0 0 4 9
+p507
+aVEmeka Okafor CHA 12/29/2007 CHA @ ORL L 27 4 2 6 33.3 0 0 - 0 0 - 2 7 9 0 1 4 2 6 -18
+p508
+aVGerald Wallace CHA 12/29/2007 CHA @ ORL L 42 23 8 15 53.3 3 7 42.9 4 5 80.0 0 7 7 7 1 0 7 4 -7
+p509
+aVJason Richardson CHA 12/29/2007 CHA @ ORL L 40 34 11 21 52.4 4 8 50.0 8 8 100.0 2 6 8 3 2 0 3 1 -9
+p510
+aVRaymond Felton CHA 12/29/2007 CHA @ ORL L 43 13 5 11 45.5 0 4 0.0 3 5 60.0 0 0 0 6 0 0 4 2 -16
+p511
+aVDerek Anderson CHA 12/29/2007 CHA @ ORL L 13 4 2 4 50.0 0 0 - 0 0 - 0 2 2 4 0 0 1 0 -2
+p512
+aVMatt Carroll CHA 12/29/2007 CHA @ ORL L 20 10 4 8 50.0 1 1 100.0 1 1 100.0 0 2 2 1 0 0 0 5 14
+p513
+aVJeff McInnis CHA 12/29/2007 CHA @ ORL L 32 3 1 6 16.7 0 1 0.0 1 2 50.0 0 2 2 3 1 0 0 3 -16
+p514
+aVEmeka Okafor CHA 12/28/2007 CHA vs. NOH L 33 10 3 5 60.0 0 0 - 4 5 80.0 2 11 13 0 0 0 2 2 -15
+p515
+aVJeff McInnis CHA 12/28/2007 CHA vs. NOH L 18 0 0 4 0.0 0 0 - 0 0 - 1 3 4 6 1 0 4 4 -3
+p516
+aVMatt Carroll CHA 12/28/2007 CHA vs. NOH L 21 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 0 1 0 0 4 -1
+p517
+aVDerek Anderson CHA 12/28/2007 CHA vs. NOH L 13 8 3 4 75.0 1 1 100.0 1 3 33.3 0 1 1 1 0 0 2 2 -4
+p518
+aVJason Richardson CHA 12/28/2007 CHA vs. NOH L 39 25 9 19 47.4 3 6 50.0 4 4 100.0 0 3 3 2 0 0 0 2 -8
+p519
+aVGerald Wallace CHA 12/28/2007 CHA vs. NOH L 47 14 5 16 31.3 0 3 0.0 4 5 80.0 0 1 1 4 3 1 2 3 -13
+p520
+aVRaymond Felton CHA 12/28/2007 CHA vs. NOH L 30 4 2 10 20.0 0 2 0.0 0 0 - 1 2 3 4 0 0 3 5 -11
+p521
+aVRyan Hollins CHA 12/28/2007 CHA vs. NOH L 10 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 1 -3
+p522
+aVNazr Mohammed CHA 12/28/2007 CHA vs. NOH L 30 15 7 12 58.3 0 0 - 1 2 50.0 4 10 14 0 3 1 1 2 -12
+p523
+aVDerek Anderson CHA 12/26/2007 CHA vs. WAS L 20 9 3 5 60.0 2 3 66.7 1 2 50.0 0 4 4 3 0 0 0 0 8
+p524
+aVJason Richardson CHA 12/26/2007 CHA vs. WAS L 34 27 9 19 47.4 6 11 54.5 3 4 75.0 2 1 3 2 4 0 2 4 -2
+p525
+aVRyan Hollins CHA 12/26/2007 CHA vs. WAS L 6 5 1 2 50.0 0 0 - 3 3 100.0 1 0 1 0 0 1 0 2 -5
+p526
+aVMatt Carroll CHA 12/26/2007 CHA vs. WAS L 14 2 1 7 14.3 0 2 0.0 0 0 - 1 2 3 0 0 0 0 1 -6
+p527
+aVRaymond Felton CHA 12/26/2007 CHA vs. WAS L 37 9 3 12 25.0 1 2 50.0 2 2 100.0 0 0 0 4 0 0 2 2 3
+p528
+aVJeff McInnis CHA 12/26/2007 CHA vs. WAS L 20 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 1 -4
+p529
+aVGerald Wallace CHA 12/26/2007 CHA vs. WAS L 44 32 11 21 52.4 1 3 33.3 9 12 75.0 0 9 9 8 2 1 2 1 -4
+p530
+aVEmeka Okafor CHA 12/26/2007 CHA vs. WAS L 35 12 6 11 54.5 0 0 - 0 2 0.0 4 3 7 0 1 0 1 3 -6
+p531
+aVNazr Mohammed CHA 12/26/2007 CHA vs. WAS L 30 6 3 7 42.9 0 0 - 0 2 0.0 3 9 12 2 0 0 1 5 -4
+p532
+aVMatt Carroll CHA 12/22/2007 CHA @ MIL L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 6 6 0 1 0 1 2 5
+p533
+aVJermareo Davidson CHA 12/22/2007 CHA @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p534
+aVNazr Mohammed CHA 12/22/2007 CHA @ MIL L 32 14 7 12 58.3 0 0 - 0 3 0.0 6 5 11 2 1 0 6 2 6
+p535
+aVJeff McInnis CHA 12/22/2007 CHA @ MIL L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -2
+p536
+aVEmeka Okafor CHA 12/22/2007 CHA @ MIL L 37 17 8 15 53.3 0 0 - 1 2 50.0 3 5 8 0 0 1 1 1 -15
+p537
+aVJared Dudley CHA 12/22/2007 CHA @ MIL L 5 4 1 2 50.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 1 -2
+p538
+aVGerald Wallace CHA 12/22/2007 CHA @ MIL L 44 15 6 11 54.5 1 3 33.3 2 2 100.0 0 4 4 7 2 1 2 2 -2
+p539
+aVRaymond Felton CHA 12/22/2007 CHA @ MIL L 43 17 7 15 46.7 1 2 50.0 2 2 100.0 0 1 1 9 3 1 4 2 3
+p540
+aVJason Richardson CHA 12/22/2007 CHA @ MIL L 45 30 11 19 57.9 5 9 55.6 3 5 60.0 1 2 3 3 1 2 2 6 -3
+p541
+aVDerek Anderson CHA 12/22/2007 CHA @ MIL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p542
+aVMatt Carroll CHA 12/21/2007 CHA vs. NYK W 22 6 2 7 28.6 2 4 50.0 0 0 - 0 0 0 1 1 0 0 3 6
+p543
+aVJeff McInnis CHA 12/21/2007 CHA vs. NYK W 18 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 4 0 0 2 1 8
+p544
+aVJared Dudley CHA 12/21/2007 CHA vs. NYK W 7 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 3
+p545
+aVJason Richardson CHA 12/21/2007 CHA vs. NYK W 42 17 6 17 35.3 3 7 42.9 2 6 33.3 0 3 3 6 0 1 1 1 4
+p546
+aVRyan Hollins CHA 12/21/2007 CHA vs. NYK W 9 2 1 1 100.0 0 0 - 0 0 - 2 1 3 2 1 1 0 1 17
+p547
+aVNazr Mohammed CHA 12/21/2007 CHA vs. NYK W 29 20 8 11 72.7 0 0 - 4 4 100.0 3 11 14 1 2 4 2 5 -1
+p548
+aVRaymond Felton CHA 12/21/2007 CHA vs. NYK W 36 10 3 5 60.0 0 1 0.0 4 6 66.7 0 6 6 9 1 0 3 3 -1
+p549
+aVEmeka Okafor CHA 12/21/2007 CHA vs. NYK W 36 17 6 10 60.0 0 0 - 5 8 62.5 2 6 8 2 0 1 2 1 5
+p550
+aVGerald Wallace CHA 12/21/2007 CHA vs. NYK W 42 27 8 17 47.1 2 4 50.0 9 11 81.8 1 3 4 2 4 1 3 5 9
+p551
+aVRaymond Felton CHA 12/19/2007 CHA vs. UTA W 33 17 4 13 30.8 0 2 0.0 9 11 81.8 1 2 3 7 2 0 2 5 15
+p552
+aVNazr Mohammed CHA 12/19/2007 CHA vs. UTA W 38 17 7 13 53.8 0 0 - 3 4 75.0 3 5 8 1 0 3 4 4 1
+p553
+aVJared Dudley CHA 12/19/2007 CHA vs. UTA W 10 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 1 0 2 2 -1
+p554
+aVMatt Carroll CHA 12/19/2007 CHA vs. UTA W 16 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 9
+p555
+aVGerald Wallace CHA 12/19/2007 CHA vs. UTA W 39 26 6 11 54.5 1 2 50.0 13 16 81.3 0 3 3 4 3 2 2 1 8
+p556
+aVRyan Hollins CHA 12/19/2007 CHA vs. UTA W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -3
+p557
+aVJason Richardson CHA 12/19/2007 CHA vs. UTA W 35 24 8 14 57.1 3 4 75.0 5 7 71.4 1 6 7 3 1 2 1 1 15
+p558
+aVJeff McInnis CHA 12/19/2007 CHA vs. UTA W 23 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 4 0 0 1 2 -6
+p559
+aVEmeka Okafor CHA 12/19/2007 CHA vs. UTA W 38 6 2 8 25.0 0 0 - 2 2 100.0 1 8 9 0 1 2 3 2 -8
+p560
+aVNazr Mohammed CHA 12/15/2007 CHA @ ATL L 20 6 3 5 60.0 0 0 - 0 0 - 1 0 1 3 0 0 2 5 -5
+p561
+aVRyan Hollins CHA 12/15/2007 CHA @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p562
+aVOthella Harrington CHA 12/15/2007 CHA @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p563
+aVJason Richardson CHA 12/15/2007 CHA @ ATL L 31 11 4 11 36.4 2 6 33.3 1 1 100.0 0 3 3 3 3 0 3 5 2
+p564
+aVJermareo Davidson CHA 12/15/2007 CHA @ ATL L 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p565
+aVMatt Carroll CHA 12/15/2007 CHA @ ATL L 17 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 0 0 0 1 2 -2
+p566
+aVRaymond Felton CHA 12/15/2007 CHA @ ATL L 39 15 7 13 53.8 1 4 25.0 0 0 - 0 1 1 5 0 0 5 1 -14
+p567
+aVEmeka Okafor CHA 12/15/2007 CHA @ ATL L 37 14 4 9 44.4 0 0 - 6 13 46.2 3 11 14 1 0 2 1 2 3
+p568
+aVGerald Wallace CHA 12/15/2007 CHA @ ATL L 40 24 8 12 66.7 1 1 100.0 7 9 77.8 1 6 7 2 1 0 3 5 6
+p569
+aVJeff McInnis CHA 12/15/2007 CHA @ ATL L 23 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 3 2 0 2 5 -17
+p570
+aVJared Dudley CHA 12/15/2007 CHA @ ATL L 26 7 3 5 60.0 0 1 0.0 1 2 50.0 2 4 6 1 0 0 2 2 -5
+p571
+aVMatt Carroll CHA 12/14/2007 CHA vs. ORL L 20 7 3 7 42.9 1 4 25.0 0 0 - 1 2 3 1 0 0 0 3 -14
+p572
+aVDerek Anderson CHA 12/14/2007 CHA vs. ORL L 12 6 3 4 75.0 0 0 - 0 0 - 0 2 2 2 0 0 2 3 -8
+p573
+aVRaymond Felton CHA 12/14/2007 CHA vs. ORL L 39 18 7 12 58.3 1 2 50.0 3 4 75.0 0 2 2 6 2 0 3 2 -13
+p574
+aVEmeka Okafor CHA 12/14/2007 CHA vs. ORL L 36 16 7 14 50.0 0 0 - 2 4 50.0 5 7 12 1 1 0 2 5 -19
+p575
+aVOthella Harrington CHA 12/14/2007 CHA vs. ORL L 14 5 2 2 100.0 0 0 - 1 4 25.0 0 4 4 0 0 1 0 3 1
+p576
+aVJared Dudley CHA 12/14/2007 CHA vs. ORL L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 0
+p577
+aVJason Richardson CHA 12/14/2007 CHA vs. ORL L 34 15 6 13 46.2 3 6 50.0 0 2 0.0 0 2 2 4 1 0 3 3 -12
+p578
+aVJermareo Davidson CHA 12/14/2007 CHA vs. ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p579
+aVGerald Wallace CHA 12/14/2007 CHA vs. ORL L 42 16 6 19 31.6 0 6 0.0 4 6 66.7 3 4 7 5 2 0 2 4 -13
+p580
+aVJeff McInnis CHA 12/14/2007 CHA vs. ORL L 23 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 2 0 1 2 0
+p581
+aVRyan Hollins CHA 12/14/2007 CHA vs. ORL L 8 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -3
+p582
+aVRaymond Felton CHA 12/12/2007 CHA vs. LAC W 36 26 10 17 58.8 2 3 66.7 4 5 80.0 0 2 2 6 2 0 3 5 0
+p583
+aVGerald Wallace CHA 12/12/2007 CHA vs. LAC W 44 25 11 18 61.1 2 3 66.7 1 2 50.0 0 6 6 3 1 0 4 3 4
+p584
+aVMatt Carroll CHA 12/12/2007 CHA vs. LAC W 16 7 1 2 50.0 1 2 50.0 4 4 100.0 0 0 0 0 1 0 0 3 -3
+p585
+aVJeff McInnis CHA 12/12/2007 CHA vs. LAC W 26 8 3 5 60.0 0 0 - 2 3 66.7 0 3 3 8 0 0 0 2 9
+p586
+aVPrimoz Brezec CHA 12/12/2007 CHA vs. LAC W 18 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -1
+p587
+aVRyan Hollins CHA 12/12/2007 CHA vs. LAC W 12 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 0 1 1 3 11
+p588
+aVJason Richardson CHA 12/12/2007 CHA vs. LAC W 34 8 3 13 23.1 1 4 25.0 1 1 100.0 1 7 8 5 2 1 2 4 -1
+p589
+aVWalter Herrmann CHA 12/12/2007 CHA vs. LAC W 3 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -2
+p590
+aVEmeka Okafor CHA 12/12/2007 CHA vs. LAC W 43 25 9 18 50.0 0 0 - 7 12 58.3 7 9 16 4 1 3 1 1 2
+p591
+aVOthella Harrington CHA 12/12/2007 CHA vs. LAC W 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 6
+p592
+aVJared Dudley CHA 12/09/2007 CHA @ DET L 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p593
+aVJeff McInnis CHA 12/09/2007 CHA @ DET L 25 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 3 0 0 3 4 -16
+p594
+aVWalter Herrmann CHA 12/09/2007 CHA @ DET L 16 10 4 8 50.0 2 5 40.0 0 0 - 1 3 4 0 2 0 0 0 -3
+p595
+aVPrimoz Brezec CHA 12/09/2007 CHA @ DET L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -10
+p596
+aVDerek Anderson CHA 12/09/2007 CHA @ DET L 26 4 2 11 18.2 0 2 0.0 0 0 - 1 4 5 7 1 0 2 4 1
+p597
+aVEmeka Okafor CHA 12/09/2007 CHA @ DET L 24 14 5 10 50.0 0 0 - 4 5 80.0 1 3 4 1 0 1 0 4 -16
+p598
+aVRaymond Felton CHA 12/09/2007 CHA @ DET L 27 12 5 9 55.6 0 2 0.0 2 2 100.0 0 1 1 4 0 0 1 2 -16
+p599
+aVJason Richardson CHA 12/09/2007 CHA @ DET L 27 15 5 12 41.7 3 6 50.0 2 2 100.0 2 1 3 1 0 0 0 0 -16
+p600
+aVGerald Wallace CHA 12/09/2007 CHA @ DET L 24 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 1 0 1 1 1 -12
+p601
+aVMatt Carroll CHA 12/09/2007 CHA @ DET L 22 5 2 5 40.0 1 3 33.3 0 1 0.0 1 3 4 2 1 0 2 4 -1
+p602
+aVRyan Hollins CHA 12/09/2007 CHA @ DET L 22 8 3 6 50.0 0 0 - 2 2 100.0 0 4 4 2 1 1 1 4 -4
+p603
+aVOthella Harrington CHA 12/09/2007 CHA @ DET L 9 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 0
+p604
+aVWalter Herrmann CHA 12/08/2007 CHA vs. CLE W 9 5 1 2 50.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 1 2 0
+p605
+aVDerek Anderson CHA 12/08/2007 CHA vs. CLE W 10 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 1 2
+p606
+aVRyan Hollins CHA 12/08/2007 CHA vs. CLE W 9 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 4 6
+p607
+aVRaymond Felton CHA 12/08/2007 CHA vs. CLE W 36 15 2 6 33.3 0 0 - 11 14 78.6 0 3 3 6 1 0 4 1 5
+p608
+aVEmeka Okafor CHA 12/08/2007 CHA vs. CLE W 39 19 6 13 46.2 0 0 - 7 14 50.0 2 3 5 0 2 1 3 2 1
+p609
+aVGerald Wallace CHA 12/08/2007 CHA vs. CLE W 39 22 8 17 47.1 0 0 - 6 6 100.0 0 7 7 1 4 5 6 4 3
+p610
+aVJeff McInnis CHA 12/08/2007 CHA vs. CLE W 23 4 2 4 50.0 0 0 - 0 0 - 1 1 2 4 1 0 1 1 -5
+p611
+aVJason Richardson CHA 12/08/2007 CHA vs. CLE W 41 18 6 10 60.0 3 5 60.0 3 4 75.0 2 6 8 3 3 2 3 4 3
+p612
+aVMatt Carroll CHA 12/08/2007 CHA vs. CLE W 19 5 1 5 20.0 0 2 0.0 3 4 75.0 1 2 3 0 0 0 1 3 5
+p613
+aVPrimoz Brezec CHA 12/08/2007 CHA vs. CLE W 16 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -5
+p614
+aVDerek Anderson CHA 12/05/2007 CHA vs. CHI L 7 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 0 0 1 0 0 0
+p615
+aVWalter Herrmann CHA 12/05/2007 CHA vs. CHI L 13 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p616
+aVJared Dudley CHA 12/05/2007 CHA vs. CHI L 21 0 0 6 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 3 7
+p617
+aVPrimoz Brezec CHA 12/05/2007 CHA vs. CHI L 11 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -5
+p618
+aVJason Richardson CHA 12/05/2007 CHA vs. CHI L 40 17 7 16 43.8 3 9 33.3 0 0 - 1 4 5 3 2 1 2 5 -4
+p619
+aVEmeka Okafor CHA 12/05/2007 CHA vs. CHI L 37 10 4 7 57.1 0 0 - 2 4 50.0 4 6 10 1 2 1 5 2 -4
+p620
+aVGerald Wallace CHA 12/05/2007 CHA vs. CHI L 36 22 8 15 53.3 2 6 33.3 4 8 50.0 2 6 8 0 3 0 1 6 -2
+p621
+aVMatt Carroll CHA 12/05/2007 CHA vs. CHI L 21 8 3 7 42.9 1 3 33.3 1 1 100.0 0 1 1 0 0 0 0 2 -18
+p622
+aVRaymond Felton CHA 12/05/2007 CHA vs. CHI L 40 17 5 14 35.7 0 4 0.0 7 11 63.6 1 1 2 6 1 0 2 3 -8
+p623
+aVJeff McInnis CHA 12/05/2007 CHA vs. CHI L 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 3 1 0 2 1 -6
+p624
+aVJason Richardson CHA 12/03/2007 CHA @ TOR L 37 12 3 17 17.6 3 9 33.3 3 4 75.0 1 4 5 1 1 0 1 2 -12
+p625
+aVWalter Herrmann CHA 12/03/2007 CHA @ TOR L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p626
+aVEmeka Okafor CHA 12/03/2007 CHA @ TOR L 21 10 5 9 55.6 0 0 - 0 0 - 2 1 3 0 0 3 3 4 -8
+p627
+aVJeff McInnis CHA 12/03/2007 CHA @ TOR L 31 8 2 5 40.0 0 1 0.0 4 4 100.0 0 1 1 5 0 0 2 2 -8
+p628
+aVJared Dudley CHA 12/03/2007 CHA @ TOR L 38 16 8 14 57.1 0 2 0.0 0 1 0.0 5 5 10 1 3 0 1 3 -15
+p629
+aVDerek Anderson CHA 12/03/2007 CHA @ TOR L 15 2 0 5 0.0 0 3 0.0 2 2 100.0 0 1 1 2 2 0 0 1 0
+p630
+aVGerald Wallace CHA 12/03/2007 CHA @ TOR L 40 19 4 13 30.8 2 3 66.7 9 10 90.0 3 5 8 3 1 1 2 3 -27
+p631
+aVMatt Carroll CHA 12/03/2007 CHA @ TOR L 24 12 5 8 62.5 2 3 66.7 0 0 - 0 1 1 0 0 0 0 0 -8
+p632
+aVOthella Harrington CHA 12/03/2007 CHA @ TOR L 7 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -7
+p633
+aVPrimoz Brezec CHA 12/03/2007 CHA @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p634
+aVRaymond Felton CHA 12/03/2007 CHA @ TOR L 21 0 0 8 0.0 0 1 0.0 0 0 - 0 2 2 3 0 1 0 1 -9
+p635
+aVEmeka Okafor CHA 12/01/2007 CHA @ CHI L 36 21 10 13 76.9 0 0 - 1 3 33.3 3 6 9 1 1 3 0 3 -23
+p636
+aVMatt Carroll CHA 12/01/2007 CHA @ CHI L 27 13 5 10 50.0 3 4 75.0 0 0 - 1 3 4 0 1 0 0 3 2
+p637
+aVJermareo Davidson CHA 12/01/2007 CHA @ CHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 2 0 0 2 -3
+p638
+aVJared Dudley CHA 12/01/2007 CHA @ CHI L 4 4 1 3 33.3 0 0 - 2 4 50.0 2 1 3 0 0 0 0 0 3
+p639
+aVGerald Wallace CHA 12/01/2007 CHA @ CHI L 38 17 5 12 41.7 0 2 0.0 7 8 87.5 0 0 0 7 3 1 6 3 -15
+p640
+aVJeff McInnis CHA 12/01/2007 CHA @ CHI L 28 6 3 3 100.0 0 0 - 0 0 - 0 0 0 6 1 0 4 2 -3
+p641
+aVDerek Anderson CHA 12/01/2007 CHA @ CHI L 15 7 2 2 100.0 1 1 100.0 2 4 50.0 0 0 0 2 2 0 1 1 5
+p642
+aVJason Richardson CHA 12/01/2007 CHA @ CHI L 39 22 9 21 42.9 4 8 50.0 0 2 0.0 2 2 4 3 0 1 1 3 -18
+p643
+aVRaymond Felton CHA 12/01/2007 CHA @ CHI L 29 5 2 9 22.2 1 4 25.0 0 2 0.0 0 3 3 2 3 0 3 2 -22
+p644
+aVPrimoz Brezec CHA 12/01/2007 CHA @ CHI L 16 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p645
+aVDerek Anderson CHA 11/27/2007 CHA @ MIA L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 7
+p646
+aVGerald Wallace CHA 11/27/2007 CHA @ MIA L 32 16 6 16 37.5 1 2 50.0 3 4 75.0 2 3 5 1 2 0 4 4 -4
+p647
+aVMatt Carroll CHA 11/27/2007 CHA @ MIA L 20 15 5 7 71.4 1 2 50.0 4 6 66.7 0 1 1 0 0 0 3 1 -17
+p648
+aVPrimoz Brezec CHA 11/27/2007 CHA @ MIA L 22 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 1 0 3 -13
+p649
+aVJason Richardson CHA 11/27/2007 CHA @ MIA L 33 10 4 10 40.0 1 5 20.0 1 2 50.0 0 2 2 3 0 1 2 3 -18
+p650
+aVEmeka Okafor CHA 11/27/2007 CHA @ MIA L 28 7 3 6 50.0 0 0 - 1 2 50.0 3 3 6 1 1 2 3 3 -12
+p651
+aVJeff McInnis CHA 11/27/2007 CHA @ MIA L 21 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 3 0 0 0 1 -19
+p652
+aVWalter Herrmann CHA 11/27/2007 CHA @ MIA L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -1
+p653
+aVRaymond Felton CHA 11/27/2007 CHA @ MIA L 30 14 4 11 36.4 1 3 33.3 5 5 100.0 1 5 6 7 2 1 3 2 -9
+p654
+aVOthella Harrington CHA 11/27/2007 CHA @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p655
+aVJared Dudley CHA 11/27/2007 CHA @ MIA L 24 6 3 4 75.0 0 1 0.0 0 0 - 2 2 4 2 0 0 1 1 -11
+p656
+aVJermareo Davidson CHA 11/27/2007 CHA @ MIA L 14 8 2 4 50.0 0 0 - 4 5 80.0 2 1 3 1 0 1 1 3 3
+p657
+aVJason Richardson CHA 11/24/2007 CHA vs. BOS L 36 25 9 17 52.9 5 5 100.0 2 2 100.0 0 9 9 5 0 1 2 1 3
+p658
+aVPrimoz Brezec CHA 11/24/2007 CHA vs. BOS L 26 7 3 4 75.0 0 0 - 1 1 100.0 2 2 4 0 0 1 2 4 -2
+p659
+aVRaymond Felton CHA 11/24/2007 CHA vs. BOS L 40 18 6 17 35.3 2 4 50.0 4 5 80.0 0 4 4 9 1 0 5 3 3
+p660
+aVJermareo Davidson CHA 11/24/2007 CHA vs. BOS L 15 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 4 4
+p661
+aVJared Dudley CHA 11/24/2007 CHA vs. BOS L 39 11 4 9 44.4 0 0 - 3 3 100.0 5 4 9 3 0 1 3 4 0
+p662
+aVMatt Carroll CHA 11/24/2007 CHA vs. BOS L 16 9 3 3 100.0 1 1 100.0 2 2 100.0 1 1 2 1 0 0 0 2 -3
+p663
+aVEmeka Okafor CHA 11/24/2007 CHA vs. BOS L 38 15 6 13 46.2 0 0 - 3 6 50.0 2 7 9 0 1 4 1 3 -5
+p664
+aVJeff McInnis CHA 11/24/2007 CHA vs. BOS L 22 4 2 3 66.7 0 0 - 0 0 - 0 1 1 4 0 0 1 2 -5
+p665
+aVWalter Herrmann CHA 11/24/2007 CHA vs. BOS L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p666
+aVPrimoz Brezec CHA 11/23/2007 CHA @ ORL L 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -12
+p667
+aVOthella Harrington CHA 11/23/2007 CHA @ ORL L 10 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 1 3 6
+p668
+aVRaymond Felton CHA 11/23/2007 CHA @ ORL L 34 12 5 14 35.7 0 4 0.0 2 2 100.0 0 2 2 6 0 0 2 4 -12
+p669
+aVJermareo Davidson CHA 11/23/2007 CHA @ ORL L 6 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 0 5
+p670
+aVMatt Carroll CHA 11/23/2007 CHA @ ORL L 21 10 3 9 33.3 1 5 20.0 3 3 100.0 0 1 1 0 1 0 1 3 0
+p671
+aVJeff McInnis CHA 11/23/2007 CHA @ ORL L 31 6 2 10 20.0 0 0 - 2 2 100.0 0 1 1 6 0 0 0 4 -4
+p672
+aVRyan Hollins CHA 11/23/2007 CHA @ ORL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -4
+p673
+aVJason Richardson CHA 11/23/2007 CHA @ ORL L 31 14 5 14 35.7 2 6 33.3 2 3 66.7 0 7 7 5 2 1 3 2 -17
+p674
+aVWalter Herrmann CHA 11/23/2007 CHA @ ORL L 33 16 6 15 40.0 2 5 40.0 2 2 100.0 2 4 6 0 1 0 1 3 -14
+p675
+aVJared Dudley CHA 11/23/2007 CHA @ ORL L 15 10 5 5 100.0 0 0 - 0 2 0.0 3 4 7 1 1 0 0 1 8
+p676
+aVGerald Wallace CHA 11/23/2007 CHA @ ORL L 12 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -11
+p677
+aVEmeka Okafor CHA 11/23/2007 CHA @ ORL L 30 12 6 12 50.0 0 0 - 0 2 0.0 6 12 18 0 0 1 0 2 -10
+p678
+aVJared Dudley CHA 11/21/2007 CHA vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p679
+aVEmeka Okafor CHA 11/21/2007 CHA vs. WAS L 41 20 9 13 69.2 0 0 - 2 2 100.0 5 9 14 0 0 3 1 4 -1
+p680
+aVWalter Herrmann CHA 11/21/2007 CHA vs. WAS L 12 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 1 0 0 0 2 0
+p681
+aVJeff McInnis CHA 11/21/2007 CHA vs. WAS L 19 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 2 0 0 2 2 4
+p682
+aVPrimoz Brezec CHA 11/21/2007 CHA vs. WAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p683
+aVRyan Hollins CHA 11/21/2007 CHA vs. WAS L 17 2 1 3 33.3 0 0 - 0 2 0.0 2 2 4 0 0 1 0 2 -9
+p684
+aVGerald Wallace CHA 11/21/2007 CHA vs. WAS L 43 25 10 23 43.5 2 8 25.0 3 6 50.0 2 0 2 2 3 1 4 4 -2
+p685
+aVJason Richardson CHA 11/21/2007 CHA vs. WAS L 39 10 4 14 28.6 2 6 33.3 0 1 0.0 0 6 6 2 0 1 2 5 -9
+p686
+aVRaymond Felton CHA 11/21/2007 CHA vs. WAS L 47 27 6 16 37.5 2 4 50.0 13 16 81.3 2 3 5 12 2 0 6 5 -9
+p687
+aVJermareo Davidson CHA 11/21/2007 CHA vs. WAS L 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 6
+p688
+aVMatt Carroll CHA 11/21/2007 CHA vs. WAS L 36 11 4 12 33.3 3 7 42.9 0 0 - 0 2 2 3 1 0 0 1 9
+p689
+aVGerald Wallace CHA 11/19/2007 CHA vs. POR W 41 27 10 19 52.6 0 2 0.0 7 10 70.0 0 4 4 1 6 1 3 3 10
+p690
+aVPrimoz Brezec CHA 11/19/2007 CHA vs. POR W 11 0 0 3 0.0 0 0 - 0 2 0.0 2 3 5 0 0 0 1 0 8
+p691
+aVEmeka Okafor CHA 11/19/2007 CHA vs. POR W 37 12 5 10 50.0 0 0 - 2 4 50.0 4 8 12 0 1 3 1 3 17
+p692
+aVRyan Hollins CHA 11/19/2007 CHA vs. POR W 11 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 0 0 1 5 -4
+p693
+aVRaymond Felton CHA 11/19/2007 CHA vs. POR W 37 24 7 12 58.3 1 2 50.0 9 10 90.0 0 2 2 10 2 1 2 2 12
+p694
+aVJeff McInnis CHA 11/19/2007 CHA vs. POR W 18 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 5 0 0 2 2 -9
+p695
+aVMatt Carroll CHA 11/19/2007 CHA vs. POR W 32 5 2 9 22.2 1 3 33.3 0 0 - 2 3 5 1 0 0 1 1 1
+p696
+aVJared Dudley CHA 11/19/2007 CHA vs. POR W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p697
+aVJason Richardson CHA 11/19/2007 CHA vs. POR W 40 24 11 21 52.4 2 6 33.3 0 1 0.0 1 3 4 3 1 0 2 3 14
+p698
+aVWalter Herrmann CHA 11/19/2007 CHA vs. POR W 9 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p699
+aVGerald Wallace CHA 11/17/2007 CHA vs. SEA W 37 27 10 18 55.6 1 2 50.0 6 10 60.0 1 6 7 2 2 3 3 3 22
+p700
+aVRaymond Felton CHA 11/17/2007 CHA vs. SEA W 40 13 5 12 41.7 1 3 33.3 2 4 50.0 0 7 7 12 2 0 4 2 15
+p701
+aVJason Richardson CHA 11/17/2007 CHA vs. SEA W 33 23 9 21 42.9 4 8 50.0 1 2 50.0 1 5 6 2 1 1 2 3 19
+p702
+aVPrimoz Brezec CHA 11/17/2007 CHA vs. SEA W 11 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 10
+p703
+aVOthella Harrington CHA 11/17/2007 CHA vs. SEA W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p704
+aVJeff McInnis CHA 11/17/2007 CHA vs. SEA W 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -7
+p705
+aVMatt Carroll CHA 11/17/2007 CHA vs. SEA W 27 14 5 9 55.6 3 4 75.0 1 1 100.0 0 5 5 1 0 0 1 0 5
+p706
+aVJared Dudley CHA 11/17/2007 CHA vs. SEA W 11 0 0 4 0.0 0 2 0.0 0 0 - 2 2 4 2 0 0 0 3 5
+p707
+aVJermareo Davidson CHA 11/17/2007 CHA vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p708
+aVWalter Herrmann CHA 11/17/2007 CHA vs. SEA W 6 3 1 5 20.0 1 2 50.0 0 0 - 1 3 4 1 0 0 0 0 0
+p709
+aVEmeka Okafor CHA 11/17/2007 CHA vs. SEA W 32 12 6 12 50.0 0 0 - 0 1 0.0 5 10 15 1 0 1 2 5 7
+p710
+aVRyan Hollins CHA 11/17/2007 CHA vs. SEA W 25 6 2 4 50.0 0 0 - 2 2 100.0 5 2 7 0 1 1 2 3 6
+p711
+aVGerald Wallace CHA 11/14/2007 CHA @ ATL L 42 27 8 18 44.4 3 4 75.0 8 13 61.5 2 4 6 0 0 2 3 4 -5
+p712
+aVPrimoz Brezec CHA 11/14/2007 CHA @ ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -7
+p713
+aVMatt Carroll CHA 11/14/2007 CHA @ ATL L 21 8 3 7 42.9 2 5 40.0 0 0 - 0 2 2 1 1 0 0 1 1
+p714
+aVWalter Herrmann CHA 11/14/2007 CHA @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p715
+aVJared Dudley CHA 11/14/2007 CHA @ ATL L 9 6 1 4 25.0 0 0 - 4 4 100.0 1 0 1 1 1 0 1 3 -3
+p716
+aVRyan Hollins CHA 11/14/2007 CHA @ ATL L 25 11 5 7 71.4 0 0 - 1 2 50.0 3 3 6 0 2 2 0 1 2
+p717
+aVRaymond Felton CHA 11/14/2007 CHA @ ATL L 34 16 7 12 58.3 0 0 - 2 3 66.7 1 0 1 5 2 0 5 3 -9
+p718
+aVJason Richardson CHA 11/14/2007 CHA @ ATL L 38 27 10 19 52.6 3 7 42.9 4 4 100.0 1 3 4 4 3 0 2 2 -6
+p719
+aVJermareo Davidson CHA 11/14/2007 CHA @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p720
+aVJeff McInnis CHA 11/14/2007 CHA @ ATL L 28 8 4 7 57.1 0 0 - 0 1 0.0 1 0 1 6 1 0 2 1 -2
+p721
+aVEmeka Okafor CHA 11/14/2007 CHA @ ATL L 34 6 3 8 37.5 0 0 - 0 0 - 3 5 8 1 2 2 0 5 -10
+p722
+aVJason Richardson CHA 11/13/2007 CHA vs. MIA W 31 18 7 15 46.7 4 5 80.0 0 0 - 0 8 8 4 0 0 1 0 20
+p723
+aVJermareo Davidson CHA 11/13/2007 CHA vs. MIA W 8 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 2 1 2 -4
+p724
+aVJeff McInnis CHA 11/13/2007 CHA vs. MIA W 31 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 2 0 0 1 3 5
+p725
+aVPrimoz Brezec CHA 11/13/2007 CHA vs. MIA W 15 6 2 8 25.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 2 5
+p726
+aVJared Dudley CHA 11/13/2007 CHA vs. MIA W 11 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 1 0 0 0 -14
+p727
+aVRyan Hollins CHA 11/13/2007 CHA vs. MIA W 17 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 1 0 5 -1
+p728
+aVGerald Wallace CHA 11/13/2007 CHA vs. MIA W 32 19 8 11 72.7 1 2 50.0 2 3 66.7 0 7 7 3 1 1 2 4 28
+p729
+aVWalter Herrmann CHA 11/13/2007 CHA vs. MIA W 6 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -13
+p730
+aVRaymond Felton CHA 11/13/2007 CHA vs. MIA W 36 6 1 6 16.7 0 3 0.0 4 6 66.7 1 5 6 9 1 0 2 2 23
+p731
+aVEmeka Okafor CHA 11/13/2007 CHA vs. MIA W 32 13 3 8 37.5 0 0 - 7 9 77.8 2 8 10 1 2 0 0 3 21
+p732
+aVMatt Carroll CHA 11/13/2007 CHA vs. MIA W 21 10 4 10 40.0 2 3 66.7 0 0 - 0 2 2 0 0 0 1 1 5
+p733
+aVJeff McInnis CHA 11/11/2007 CHA vs. HOU L 21 0 0 2 0.0 0 0 - 0 0 - 1 0 1 7 1 0 1 2 2
+p734
+aVRyan Hollins CHA 11/11/2007 CHA vs. HOU L 14 7 2 4 50.0 0 0 - 3 3 100.0 3 2 5 0 1 1 0 1 9
+p735
+aVMatt Carroll CHA 11/11/2007 CHA vs. HOU L 30 17 6 10 60.0 3 4 75.0 2 2 100.0 0 0 0 1 0 0 0 3 8
+p736
+aVJason Richardson CHA 11/11/2007 CHA vs. HOU L 39 16 7 21 33.3 1 4 25.0 1 1 100.0 2 4 6 3 2 1 3 2 -9
+p737
+aVJared Dudley CHA 11/11/2007 CHA vs. HOU L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 6
+p738
+aVPrimoz Brezec CHA 11/11/2007 CHA vs. HOU L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 1
+p739
+aVRaymond Felton CHA 11/11/2007 CHA vs. HOU L 38 16 6 15 40.0 2 4 50.0 2 2 100.0 0 4 4 4 2 0 1 1 -11
+p740
+aVEmeka Okafor CHA 11/11/2007 CHA vs. HOU L 35 12 4 9 44.4 0 0 - 4 5 80.0 1 10 11 0 3 2 3 6 -10
+p741
+aVGerald Wallace CHA 11/11/2007 CHA vs. HOU L 36 10 4 13 30.8 0 2 0.0 2 2 100.0 1 4 5 2 2 0 3 3 -11
+p742
+aVEmeka Okafor CHA 11/09/2007 CHA vs. IND W 41 25 10 14 71.4 0 0 - 5 13 38.5 7 16 23 0 1 1 1 3 11
+p743
+aVMatt Carroll CHA 11/09/2007 CHA vs. IND W 26 12 4 8 50.0 2 2 100.0 2 3 66.7 0 4 4 3 1 0 1 4 13
+p744
+aVRyan Hollins CHA 11/09/2007 CHA vs. IND W 12 2 0 0 - 0 0 - 2 2 100.0 2 0 2 0 0 1 0 2 3
+p745
+aVJeff McInnis CHA 11/09/2007 CHA vs. IND W 24 2 1 1 100.0 0 0 - 0 0 - 1 6 7 7 0 1 2 3 13
+p746
+aVJared Dudley CHA 11/09/2007 CHA vs. IND W 15 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 2 0 0 0 1 3
+p747
+aVJermareo Davidson CHA 11/09/2007 CHA vs. IND W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p748
+aVJason Richardson CHA 11/09/2007 CHA vs. IND W 23 5 2 10 20.0 0 5 0.0 1 2 50.0 0 4 4 1 1 0 2 2 -10
+p749
+aVGerald Wallace CHA 11/09/2007 CHA vs. IND W 43 28 8 21 38.1 2 5 40.0 10 15 66.7 1 3 4 2 4 0 4 4 12
+p750
+aVPrimoz Brezec CHA 11/09/2007 CHA vs. IND W 18 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 3 2 -2
+p751
+aVRaymond Felton CHA 11/09/2007 CHA vs. IND W 35 17 5 10 50.0 1 2 50.0 6 7 85.7 1 2 3 4 2 1 2 1 6
+p752
+aVWalter Herrmann CHA 11/07/2007 CHA @ PHI L 13 2 0 4 0.0 0 1 0.0 2 2 100.0 1 4 5 0 0 0 0 0 -6
+p753
+aVJeff McInnis CHA 11/07/2007 CHA @ PHI L 23 2 1 6 16.7 0 0 - 0 0 - 1 0 1 2 0 0 5 4 -24
+p754
+aVPrimoz Brezec CHA 11/07/2007 CHA @ PHI L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -8
+p755
+aVGerald Wallace CHA 11/07/2007 CHA @ PHI L 32 10 3 11 27.3 0 1 0.0 4 7 57.1 0 2 2 3 0 1 2 2 -21
+p756
+aVMatt Carroll CHA 11/07/2007 CHA @ PHI L 32 16 7 14 50.0 0 3 0.0 2 2 100.0 0 3 3 1 0 0 2 3 -18
+p757
+aVEmeka Okafor CHA 11/07/2007 CHA @ PHI L 29 11 3 6 50.0 0 0 - 5 6 83.3 8 3 11 0 1 2 4 2 -16
+p758
+aVJared Dudley CHA 11/07/2007 CHA @ PHI L 15 4 2 8 25.0 0 1 0.0 0 0 - 5 2 7 0 1 0 3 2 -17
+p759
+aVDerek Anderson CHA 11/07/2007 CHA @ PHI L 25 3 0 5 0.0 0 3 0.0 3 4 75.0 0 2 2 8 0 0 2 4 -7
+p760
+aVRyan Hollins CHA 11/07/2007 CHA @ PHI L 18 3 1 1 100.0 0 0 - 1 2 50.0 2 5 7 0 0 0 2 1 -6
+p761
+aVJason Richardson CHA 11/07/2007 CHA @ PHI L 34 4 2 15 13.3 0 4 0.0 0 0 - 1 4 5 2 3 0 5 3 -22
+p762
+aVJermareo Davidson CHA 11/07/2007 CHA @ PHI L 14 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p763
+aVWalter Herrmann CHA 11/06/2007 CHA vs. PHX L 18 2 1 4 25.0 0 0 - 0 0 - 3 3 6 1 0 0 2 2 2
+p764
+aVMatt Carroll CHA 11/06/2007 CHA vs. PHX L 25 11 3 7 42.9 0 2 0.0 5 5 100.0 0 2 2 0 1 0 1 3 -3
+p765
+aVDerek Anderson CHA 11/06/2007 CHA vs. PHX L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 1 0 2 3 -15
+p766
+aVJared Dudley CHA 11/06/2007 CHA vs. PHX L 20 16 5 8 62.5 0 1 0.0 6 12 50.0 6 5 11 1 1 0 2 1 -3
+p767
+aVJermareo Davidson CHA 11/06/2007 CHA vs. PHX L 18 6 3 10 30.0 0 0 - 0 0 - 5 2 7 0 0 2 1 1 -3
+p768
+aVPrimoz Brezec CHA 11/06/2007 CHA vs. PHX L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p769
+aVGerald Wallace CHA 11/06/2007 CHA vs. PHX L 28 12 4 12 33.3 0 2 0.0 4 5 80.0 2 2 4 1 1 1 5 3 -32
+p770
+aVJeff McInnis CHA 11/06/2007 CHA vs. PHX L 26 11 5 8 62.5 1 2 50.0 0 0 - 1 1 2 4 0 0 2 3 -13
+p771
+aVEmeka Okafor CHA 11/06/2007 CHA vs. PHX L 22 0 0 6 0.0 0 0 - 0 0 - 2 5 7 0 1 1 2 2 -25
+p772
+aVRyan Hollins CHA 11/06/2007 CHA vs. PHX L 12 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 3 -10
+p773
+aVRaymond Felton CHA 11/06/2007 CHA vs. PHX L 26 12 4 11 36.4 1 2 50.0 3 4 75.0 0 0 0 3 0 0 2 3 -24
+p774
+aVJason Richardson CHA 11/06/2007 CHA vs. PHX L 27 11 4 11 36.4 2 4 50.0 1 2 50.0 1 5 6 1 0 0 2 3 -29
+p775
+aVJared Dudley CHA 11/04/2007 CHA @ MIA W 11 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 6
+p776
+aVMatt Carroll CHA 11/04/2007 CHA @ MIA W 7 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 -2
+p777
+aVJeff McInnis CHA 11/04/2007 CHA @ MIA W 24 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 5 1 0 1 2 4
+p778
+aVWalter Herrmann CHA 11/04/2007 CHA @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p779
+aVGerald Wallace CHA 11/04/2007 CHA @ MIA W 40 13 4 11 36.4 1 3 33.3 4 5 80.0 1 5 6 2 1 0 3 4 -2
+p780
+aVRaymond Felton CHA 11/04/2007 CHA @ MIA W 42 19 7 14 50.0 1 2 50.0 4 4 100.0 0 4 4 7 2 0 5 3 4
+p781
+aVEmeka Okafor CHA 11/04/2007 CHA @ MIA W 39 16 7 13 53.8 0 0 - 2 3 66.7 3 10 13 2 3 1 0 3 -6
+p782
+aVPrimoz Brezec CHA 11/04/2007 CHA @ MIA W 22 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 3 3 0
+p783
+aVJason Richardson CHA 11/04/2007 CHA @ MIA W 44 29 10 16 62.5 6 11 54.5 3 5 60.0 2 3 5 1 1 0 5 4 -1
+p784
+aVRyan Hollins CHA 11/04/2007 CHA @ MIA W 8 3 1 3 33.3 0 0 - 1 1 100.0 1 2 3 0 0 0 0 3 3
+p785
+aVJared Dudley CHA 11/02/2007 CHA vs. MIL W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p786
+aVGerald Wallace CHA 11/02/2007 CHA vs. MIL W 41 22 10 16 62.5 0 2 0.0 2 5 40.0 3 7 10 4 4 0 5 2 8
+p787
+aVJason Richardson CHA 11/02/2007 CHA vs. MIL W 36 21 8 19 42.1 3 5 60.0 2 6 33.3 4 2 6 1 3 0 2 2 -1
+p788
+aVPrimoz Brezec CHA 11/02/2007 CHA vs. MIL W 20 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 3 0
+p789
+aVEmeka Okafor CHA 11/02/2007 CHA vs. MIL W 37 17 7 11 63.6 0 0 - 3 13 23.1 7 7 14 0 1 5 5 5 9
+p790
+aVRyan Hollins CHA 11/02/2007 CHA vs. MIL W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -1
+p791
+aVMatt Carroll CHA 11/02/2007 CHA vs. MIL W 19 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 1 0 3 3
+p792
+aVRaymond Felton CHA 11/02/2007 CHA vs. MIL W 42 26 6 13 46.2 3 5 60.0 11 15 73.3 0 3 3 12 2 0 4 2 2
+p793
+aVJeff McInnis CHA 11/02/2007 CHA vs. MIL W 24 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 1 4 1
+p794
+aVWalter Herrmann CHA 11/02/2007 CHA vs. MIL W 12 4 1 5 20.0 0 2 0.0 2 2 100.0 1 0 1 0 0 0 0 1 -2
+p795
+a.

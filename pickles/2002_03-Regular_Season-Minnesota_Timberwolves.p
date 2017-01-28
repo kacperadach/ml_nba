@@ -1,0 +1,1702 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAnthony Peeler MIN 04/16/2003 MIN @ MEM W 44 14 5 12 41.7 2 3 66.7 2 2 100.0 1 5 6 2 0 0 0 2 12
+p2
+aVKevin Garnett MIN 04/16/2003 MIN @ MEM W 42 19 9 24 37.5 0 0 - 1 3 33.3 5 11 16 8 1 2 4 3 11
+p3
+aVTroy Hudson MIN 04/16/2003 MIN @ MEM W 26 9 4 11 36.4 1 4 25.0 0 1 0.0 0 1 1 4 1 0 1 3 5
+p4
+aVKendall Gill MIN 04/16/2003 MIN @ MEM W 12 9 4 5 80.0 0 0 - 1 1 100.0 0 2 2 1 1 0 0 1 -9
+p5
+aVRod Strickland MIN 04/16/2003 MIN @ MEM W 22 8 2 4 50.0 0 0 - 4 6 66.7 0 4 4 4 2 0 1 3 3
+p6
+aVWally Szczerbiak MIN 04/16/2003 MIN @ MEM W 40 17 7 17 41.2 1 1 100.0 2 2 100.0 0 8 8 2 1 0 1 4 13
+p7
+aVMarc Jackson MIN 04/16/2003 MIN @ MEM W 23 12 3 6 50.0 0 0 - 6 6 100.0 3 4 7 0 0 3 1 2 7
+p8
+aVGary Trent MIN 04/16/2003 MIN @ MEM W 16 4 2 5 40.0 0 0 - 0 0 - 2 1 3 1 0 1 0 1 -3
+p9
+aVRasho Nesterovic MIN 04/16/2003 MIN @ MEM W 16 3 1 4 25.0 0 0 - 1 2 50.0 3 4 7 0 0 2 0 4 1
+p10
+aVJoe Smith MIN 04/13/2003 MIN vs. CHI W 14 2 0 1 0.0 0 0 - 2 2 100.0 2 2 4 2 0 1 2 4 21
+p11
+aVWally Szczerbiak MIN 04/13/2003 MIN vs. CHI W 37 44 19 26 73.1 6 7 85.7 0 0 - 0 3 3 1 1 0 2 2 32
+p12
+aVKevin Garnett MIN 04/13/2003 MIN vs. CHI W 30 14 6 13 46.2 0 0 - 2 2 100.0 4 15 19 7 0 1 2 0 24
+p13
+aVMarc Jackson MIN 04/13/2003 MIN vs. CHI W 20 13 4 9 44.4 0 0 - 5 6 83.3 1 7 8 1 0 0 1 2 11
+p14
+aVAnthony Peeler MIN 04/13/2003 MIN vs. CHI W 23 9 3 8 37.5 3 4 75.0 0 0 - 1 3 4 5 0 0 2 1 14
+p15
+aVKendall Gill MIN 04/13/2003 MIN vs. CHI W 18 6 3 7 42.9 0 0 - 0 2 0.0 0 3 3 3 0 0 0 1 -11
+p16
+aVTroy Hudson MIN 04/13/2003 MIN vs. CHI W 27 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 14 2 0 4 1 30
+p17
+aVRod Strickland MIN 04/13/2003 MIN vs. CHI W 21 6 2 4 50.0 0 1 0.0 2 4 50.0 1 0 1 5 0 0 0 1 -6
+p18
+aVLoren Woods MIN 04/13/2003 MIN vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -4
+p19
+aVRasho Nesterovic MIN 04/13/2003 MIN vs. CHI W 28 12 6 10 60.0 0 0 - 0 0 - 4 4 8 3 0 1 1 4 13
+p20
+aVMike Wilks MIN 04/13/2003 MIN vs. CHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p21
+aVGary Trent MIN 04/13/2003 MIN vs. CHI W 17 7 3 8 37.5 0 0 - 1 1 100.0 0 3 3 1 1 0 2 2 0
+p22
+aVKendall Gill MIN 04/11/2003 MIN vs. LAC W 10 4 2 3 66.7 0 1 0.0 0 1 0.0 0 0 0 0 1 0 1 1 10
+p23
+aVMike Wilks MIN 04/11/2003 MIN vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p24
+aVJoe Smith MIN 04/11/2003 MIN vs. LAC W 21 6 2 4 50.0 0 0 - 2 5 40.0 1 3 4 0 0 1 1 4 1
+p25
+aVTroy Hudson MIN 04/11/2003 MIN vs. LAC W 29 10 5 9 55.6 0 0 - 0 0 - 0 2 2 5 0 0 2 5 -4
+p26
+aVWally Szczerbiak MIN 04/11/2003 MIN vs. LAC W 35 19 9 14 64.3 0 1 0.0 1 1 100.0 1 0 1 0 1 0 1 1 -4
+p27
+aVMarc Jackson MIN 04/11/2003 MIN vs. LAC W 12 9 3 8 37.5 1 1 100.0 2 3 66.7 0 2 2 0 1 0 1 3 8
+p28
+aVAnthony Peeler MIN 04/11/2003 MIN vs. LAC W 25 8 3 4 75.0 2 2 100.0 0 0 - 0 3 3 1 0 0 1 0 15
+p29
+aVLoren Woods MIN 04/11/2003 MIN vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p30
+aVGary Trent MIN 04/11/2003 MIN vs. LAC W 15 12 5 7 71.4 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -4
+p31
+aVRasho Nesterovic MIN 04/11/2003 MIN vs. LAC W 34 12 5 7 71.4 0 0 - 2 2 100.0 0 6 6 1 2 2 2 3 7
+p32
+aVKevin Garnett MIN 04/11/2003 MIN vs. LAC W 39 24 10 18 55.6 0 0 - 4 4 100.0 0 15 15 8 3 4 5 2 32
+p33
+aVRod Strickland MIN 04/11/2003 MIN vs. LAC W 18 2 1 2 50.0 0 0 - 0 0 - 1 1 2 11 0 1 0 0 21
+p34
+aVRasho Nesterovic MIN 04/09/2003 MIN @ SEA L 37 11 5 11 45.5 0 0 - 1 2 50.0 3 2 5 1 0 3 1 2 6
+p35
+aVKendall Gill MIN 04/09/2003 MIN @ SEA L 13 0 0 5 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -9
+p36
+aVMike Wilks MIN 04/09/2003 MIN @ SEA L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -2
+p37
+aVKevin Garnett MIN 04/09/2003 MIN @ SEA L 45 29 13 19 68.4 1 2 50.0 2 2 100.0 2 16 18 7 2 2 3 5 0
+p38
+aVWally Szczerbiak MIN 04/09/2003 MIN @ SEA L 43 26 11 20 55.0 0 1 0.0 4 4 100.0 1 2 3 2 0 0 1 3 -12
+p39
+aVAnthony Peeler MIN 04/09/2003 MIN @ SEA L 35 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 3 1 0 3 3 1
+p40
+aVGary Trent MIN 04/09/2003 MIN @ SEA L 8 4 2 5 40.0 0 0 - 0 0 - 3 1 4 0 0 0 0 0 -4
+p41
+aVTroy Hudson MIN 04/09/2003 MIN @ SEA L 41 13 5 14 35.7 0 1 0.0 3 4 75.0 2 1 3 6 3 0 8 3 -6
+p42
+aVJoe Smith MIN 04/09/2003 MIN @ SEA L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 1 3 -14
+p43
+aVMike Wilks MIN 04/06/2003 MIN @ POR W 18 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 4 1 0 0 1 6
+p44
+aVTroy Hudson MIN 04/06/2003 MIN @ POR W 30 12 3 9 33.3 1 2 50.0 5 5 100.0 0 1 1 2 2 0 1 3 13
+p45
+aVIgor Rakocevic MIN 04/06/2003 MIN @ POR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p46
+aVLoren Woods MIN 04/06/2003 MIN @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p47
+aVGary Trent MIN 04/06/2003 MIN @ POR W 20 18 8 10 80.0 0 0 - 2 2 100.0 2 3 5 1 1 0 0 3 5
+p48
+aVMarc Jackson MIN 04/06/2003 MIN @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p49
+aVRasho Nesterovic MIN 04/06/2003 MIN @ POR W 38 12 6 9 66.7 0 0 - 0 0 - 4 7 11 1 0 2 1 3 18
+p50
+aVKevin Garnett MIN 04/06/2003 MIN @ POR W 41 16 8 15 53.3 0 1 0.0 0 0 - 3 11 14 12 1 0 1 2 16
+p51
+aVAnthony Peeler MIN 04/06/2003 MIN @ POR W 28 9 3 12 25.0 1 1 100.0 2 2 100.0 0 3 3 4 0 0 1 4 14
+p52
+aVJoe Smith MIN 04/06/2003 MIN @ POR W 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 3
+p53
+aVKendall Gill MIN 04/06/2003 MIN @ POR W 10 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 1
+p54
+aVWally Szczerbiak MIN 04/06/2003 MIN @ POR W 39 25 12 20 60.0 1 2 50.0 0 0 - 3 2 5 1 2 0 1 2 13
+p55
+aVAnthony Peeler MIN 04/05/2003 MIN @ PHX L 34 16 7 15 46.7 2 6 33.3 0 0 - 0 1 1 2 2 0 2 1 -9
+p56
+aVIgor Rakocevic MIN 04/05/2003 MIN @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p57
+aVKevin Garnett MIN 04/05/2003 MIN @ PHX L 43 25 10 16 62.5 0 0 - 5 5 100.0 6 11 17 7 1 3 3 3 -8
+p58
+aVRasho Nesterovic MIN 04/05/2003 MIN @ PHX L 29 8 4 7 57.1 0 0 - 0 0 - 0 6 6 2 0 0 1 4 1
+p59
+aVTroy Hudson MIN 04/05/2003 MIN @ PHX L 35 14 3 14 21.4 0 5 0.0 8 8 100.0 0 0 0 8 0 0 2 3 -7
+p60
+aVJoe Smith MIN 04/05/2003 MIN @ PHX L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 4 -14
+p61
+aVKendall Gill MIN 04/05/2003 MIN @ PHX L 17 0 0 6 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 0 -12
+p62
+aVMarc Jackson MIN 04/05/2003 MIN @ PHX L 9 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -6
+p63
+aVWally Szczerbiak MIN 04/05/2003 MIN @ PHX L 38 23 8 17 47.1 0 1 0.0 7 7 100.0 1 4 5 2 2 0 1 2 -8
+p64
+aVLoren Woods MIN 04/05/2003 MIN @ PHX L 6 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 1 0 1 2 -8
+p65
+aVGary Trent MIN 04/05/2003 MIN @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p66
+aVMike Wilks MIN 04/05/2003 MIN @ PHX L 13 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 1 1 0 1 0 -10
+p67
+aVKendall Gill MIN 04/02/2003 MIN vs. SEA W 20 7 2 4 50.0 0 0 - 3 4 75.0 0 2 2 2 2 0 3 3 4
+p68
+aVRasho Nesterovic MIN 04/02/2003 MIN vs. SEA W 24 4 2 6 33.3 0 0 - 0 0 - 0 1 1 4 0 0 0 1 3
+p69
+aVAnthony Peeler MIN 04/02/2003 MIN vs. SEA W 34 10 4 8 50.0 2 5 40.0 0 0 - 0 0 0 3 1 0 1 2 3
+p70
+aVWally Szczerbiak MIN 04/02/2003 MIN vs. SEA W 39 6 3 12 25.0 0 2 0.0 0 0 - 0 4 4 1 0 0 2 2 0
+p71
+aVMike Wilks MIN 04/02/2003 MIN vs. SEA W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -3
+p72
+aVKevin Garnett MIN 04/02/2003 MIN vs. SEA W 41 20 10 16 62.5 0 1 0.0 0 1 0.0 0 9 9 7 1 2 0 1 9
+p73
+aVTroy Hudson MIN 04/02/2003 MIN vs. SEA W 39 31 14 22 63.6 3 6 50.0 0 0 - 1 3 4 5 1 1 1 1 8
+p74
+aVJoe Smith MIN 04/02/2003 MIN vs. SEA W 20 9 4 6 66.7 0 0 - 1 2 50.0 3 3 6 0 0 2 0 3 -3
+p75
+aVMarc Jackson MIN 04/02/2003 MIN vs. SEA W 15 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 1 4
+p76
+aVTroy Hudson MIN 03/30/2003 MIN vs. DAL L 35 10 3 7 42.9 0 0 - 4 4 100.0 0 2 2 2 0 0 2 4 -20
+p77
+aVWally Szczerbiak MIN 03/30/2003 MIN vs. DAL L 35 8 2 11 18.2 0 4 0.0 4 4 100.0 1 2 3 4 0 1 0 2 -26
+p78
+aVAnthony Peeler MIN 03/30/2003 MIN vs. DAL L 35 14 6 10 60.0 1 3 33.3 1 2 50.0 0 4 4 3 1 0 1 2 -25
+p79
+aVRasho Nesterovic MIN 03/30/2003 MIN vs. DAL L 17 11 5 8 62.5 0 0 - 1 1 100.0 0 2 2 0 0 0 1 4 -11
+p80
+aVIgor Rakocevic MIN 03/30/2003 MIN vs. DAL L 6 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 2 0 0 1 0 7
+p81
+aVMike Wilks MIN 03/30/2003 MIN vs. DAL L 13 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 1 0 1 0 0 -4
+p82
+aVKevin Garnett MIN 03/30/2003 MIN vs. DAL L 36 24 10 18 55.6 0 1 0.0 4 6 66.7 3 8 11 4 1 2 4 3 -30
+p83
+aVJoe Smith MIN 03/30/2003 MIN vs. DAL L 19 4 0 6 0.0 0 1 0.0 4 6 66.7 1 4 5 0 0 0 0 0 -14
+p84
+aVKendall Gill MIN 03/30/2003 MIN vs. DAL L 23 11 5 9 55.6 1 1 100.0 0 0 - 0 1 1 4 0 0 0 2 -4
+p85
+aVMarc Jackson MIN 03/30/2003 MIN vs. DAL L 14 2 0 2 0.0 0 0 - 2 4 50.0 1 1 2 0 3 0 1 0 -2
+p86
+aVGary Trent MIN 03/30/2003 MIN vs. DAL L 7 4 2 4 50.0 0 0 - 0 2 0.0 0 1 1 1 0 0 1 1 9
+p87
+aVKevin Garnett MIN 03/28/2003 MIN @ MIA L 35 17 7 16 43.8 0 0 - 3 3 100.0 3 6 9 5 1 2 1 0 -18
+p88
+aVMike Wilks MIN 03/28/2003 MIN @ MIA L 23 6 2 7 28.6 0 3 0.0 2 2 100.0 2 0 2 3 2 0 1 2 -13
+p89
+aVLoren Woods MIN 03/28/2003 MIN @ MIA L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p90
+aVMarc Jackson MIN 03/28/2003 MIN @ MIA L 15 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 -5
+p91
+aVJoe Smith MIN 03/28/2003 MIN @ MIA L 17 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 5 -6
+p92
+aVRasho Nesterovic MIN 03/28/2003 MIN @ MIA L 19 4 2 5 40.0 0 0 - 0 2 0.0 3 1 4 1 0 1 1 0 -16
+p93
+aVGary Trent MIN 03/28/2003 MIN @ MIA L 11 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 1 -4
+p94
+aVTroy Hudson MIN 03/28/2003 MIN @ MIA L 25 6 3 12 25.0 0 5 0.0 0 0 - 0 2 2 3 2 0 2 0 -14
+p95
+aVKendall Gill MIN 03/28/2003 MIN @ MIA L 29 13 5 9 55.6 0 0 - 3 3 100.0 1 6 7 5 2 2 1 2 -18
+p96
+aVWally Szczerbiak MIN 03/28/2003 MIN @ MIA L 29 10 5 12 41.7 0 4 0.0 0 0 - 2 1 3 2 3 0 1 3 -28
+p97
+aVAnthony Peeler MIN 03/28/2003 MIN @ MIA L 31 16 7 10 70.0 2 2 100.0 0 2 0.0 0 1 1 1 1 1 5 2 -11
+p98
+aVKevin Garnett MIN 03/27/2003 MIN @ ORL L 41 26 10 20 50.0 0 1 0.0 6 7 85.7 5 9 14 4 1 1 3 4 0
+p99
+aVAnthony Peeler MIN 03/27/2003 MIN @ ORL L 36 5 2 8 25.0 1 6 16.7 0 0 - 1 4 5 7 3 0 1 1 -7
+p100
+aVJoe Smith MIN 03/27/2003 MIN @ ORL L 28 13 5 9 55.6 0 0 - 3 4 75.0 5 1 6 2 1 1 1 3 -3
+p101
+aVWally Szczerbiak MIN 03/27/2003 MIN @ ORL L 35 22 9 16 56.3 2 4 50.0 2 2 100.0 2 6 8 4 0 0 1 3 -2
+p102
+aVTroy Hudson MIN 03/27/2003 MIN @ ORL L 40 16 7 16 43.8 1 5 20.0 1 2 50.0 1 0 1 6 0 1 4 3 -8
+p103
+aVGary Trent MIN 03/27/2003 MIN @ ORL L 12 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -4
+p104
+aVMike Wilks MIN 03/27/2003 MIN @ ORL L 8 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 1 3
+p105
+aVMarc Jackson MIN 03/27/2003 MIN @ ORL L 19 4 1 6 16.7 0 0 - 2 6 33.3 3 3 6 1 1 0 0 2 2
+p106
+aVKendall Gill MIN 03/27/2003 MIN @ ORL L 21 11 4 6 66.7 1 1 100.0 2 2 100.0 0 0 0 4 1 1 1 2 4
+p107
+aVLoren Woods MIN 03/25/2003 MIN vs. MIA W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -3
+p108
+aVJoe Smith MIN 03/25/2003 MIN vs. MIA W 21 9 3 7 42.9 0 0 - 3 4 75.0 3 3 6 0 0 0 0 2 11
+p109
+aVAnthony Peeler MIN 03/25/2003 MIN vs. MIA W 30 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 6 3 1 2 0 13
+p110
+aVTroy Hudson MIN 03/25/2003 MIN vs. MIA W 32 17 6 13 46.2 2 2 100.0 3 3 100.0 0 7 7 2 0 0 5 2 17
+p111
+aVWally Szczerbiak MIN 03/25/2003 MIN vs. MIA W 32 26 10 13 76.9 2 3 66.7 4 4 100.0 1 3 4 4 1 0 1 0 14
+p112
+aVKendall Gill MIN 03/25/2003 MIN vs. MIA W 23 2 1 10 10.0 0 0 - 0 0 - 0 6 6 3 1 0 1 1 10
+p113
+aVKevin Garnett MIN 03/25/2003 MIN vs. MIA W 35 26 10 15 66.7 0 0 - 6 7 85.7 1 7 8 8 1 2 2 0 17
+p114
+aVMike Wilks MIN 03/25/2003 MIN vs. MIA W 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 0 1 0
+p115
+aVGary Trent MIN 03/25/2003 MIN vs. MIA W 19 10 5 8 62.5 0 0 - 0 0 - 0 4 4 1 0 0 1 4 2
+p116
+aVMarc Jackson MIN 03/25/2003 MIN vs. MIA W 26 10 4 10 40.0 0 0 - 2 2 100.0 6 4 10 3 0 2 2 5 4
+p117
+aVJoe Smith MIN 03/21/2003 MIN @ SAS W 27 8 4 9 44.4 0 0 - 0 0 - 1 5 6 0 1 1 1 3 12
+p118
+aVLoren Woods MIN 03/21/2003 MIN @ SAS W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p119
+aVKendall Gill MIN 03/21/2003 MIN @ SAS W 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 2 0 0 0 -3
+p120
+aVMarc Jackson MIN 03/21/2003 MIN @ SAS W 21 9 2 5 40.0 0 0 - 5 8 62.5 3 3 6 0 0 0 0 2 0
+p121
+aVWally Szczerbiak MIN 03/21/2003 MIN @ SAS W 47 14 7 14 50.0 0 2 0.0 0 2 0.0 0 7 7 4 2 1 3 4 11
+p122
+aVMike Wilks MIN 03/21/2003 MIN @ SAS W 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 2 0 0 3 0
+p123
+aVKevin Garnett MIN 03/21/2003 MIN @ SAS W 50 24 12 21 57.1 0 3 0.0 0 0 - 8 10 18 8 1 5 5 5 9
+p124
+aVGary Trent MIN 03/21/2003 MIN @ SAS W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p125
+aVAnthony Peeler MIN 03/21/2003 MIN @ SAS W 44 23 9 14 64.3 2 4 50.0 3 3 100.0 2 2 4 7 4 0 2 2 6
+p126
+aVTroy Hudson MIN 03/21/2003 MIN @ SAS W 41 15 5 15 33.3 1 3 33.3 4 5 80.0 1 3 4 5 1 0 4 3 7
+p127
+aVGary Trent MIN 03/18/2003 MIN vs. MEM W 9 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -5
+p128
+aVTroy Hudson MIN 03/18/2003 MIN vs. MEM W 39 12 5 11 45.5 1 3 33.3 1 1 100.0 1 3 4 4 2 0 2 1 21
+p129
+aVRod Strickland MIN 03/18/2003 MIN vs. MEM W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p130
+aVMike Wilks MIN 03/18/2003 MIN vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -2
+p131
+aVWally Szczerbiak MIN 03/18/2003 MIN vs. MEM W 42 16 7 16 43.8 1 5 20.0 1 2 50.0 0 5 5 3 2 2 3 3 16
+p132
+aVLoren Woods MIN 03/18/2003 MIN vs. MEM W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p133
+aVAnthony Peeler MIN 03/18/2003 MIN vs. MEM W 40 7 3 8 37.5 1 3 33.3 0 0 - 1 5 6 6 2 1 5 1 20
+p134
+aVKevin Garnett MIN 03/18/2003 MIN vs. MEM W 38 29 14 26 53.8 0 0 - 1 4 25.0 5 14 19 6 1 1 1 2 23
+p135
+aVKendall Gill MIN 03/18/2003 MIN vs. MEM W 14 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 0 1 0 1 1 -4
+p136
+aVJoe Smith MIN 03/18/2003 MIN vs. MEM W 14 10 4 6 66.7 0 0 - 2 2 100.0 5 1 6 0 1 0 0 4 10
+p137
+aVMarc Jackson MIN 03/18/2003 MIN vs. MEM W 34 10 4 9 44.4 0 0 - 2 2 100.0 2 10 12 2 1 0 1 1 6
+p138
+aVLoren Woods MIN 03/16/2003 MIN vs. POR W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p139
+aVMike Wilks MIN 03/16/2003 MIN vs. POR W 18 8 2 4 50.0 2 3 66.7 2 2 100.0 0 1 1 2 0 0 1 2 10
+p140
+aVKevin Garnett MIN 03/16/2003 MIN vs. POR W 38 17 7 18 38.9 0 0 - 3 3 100.0 4 7 11 10 2 3 1 3 21
+p141
+aVWally Szczerbiak MIN 03/16/2003 MIN vs. POR W 40 20 7 15 46.7 5 6 83.3 1 1 100.0 0 3 3 2 1 0 1 0 16
+p142
+aVIgor Rakocevic MIN 03/16/2003 MIN vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p143
+aVAnthony Peeler MIN 03/16/2003 MIN vs. POR W 26 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 4 0 0 1 0 9
+p144
+aVJoe Smith MIN 03/16/2003 MIN vs. POR W 20 12 6 10 60.0 0 0 - 0 1 0.0 3 2 5 1 0 1 0 4 9
+p145
+aVGary Trent MIN 03/16/2003 MIN vs. POR W 15 6 3 4 75.0 0 0 - 0 0 - 2 4 6 0 0 0 1 0 4
+p146
+aVMarc Jackson MIN 03/16/2003 MIN vs. POR W 28 15 4 8 50.0 0 0 - 7 8 87.5 6 6 12 1 2 0 4 3 7
+p147
+aVTroy Hudson MIN 03/16/2003 MIN vs. POR W 30 13 5 9 55.6 1 3 33.3 2 2 100.0 0 0 0 5 0 0 0 1 6
+p148
+aVKendall Gill MIN 03/16/2003 MIN vs. POR W 23 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 2 2 0 1 1 0
+p149
+aVJoe Smith MIN 03/14/2003 MIN vs. LAL L 24 6 3 9 33.3 0 0 - 0 0 - 2 4 6 2 0 1 1 4 0
+p150
+aVKevin Garnett MIN 03/14/2003 MIN vs. LAL L 42 23 8 21 38.1 0 1 0.0 7 9 77.8 5 12 17 5 1 1 5 3 -5
+p151
+aVTroy Hudson MIN 03/14/2003 MIN vs. LAL L 42 21 9 18 50.0 3 6 50.0 0 0 - 1 2 3 6 0 0 3 0 -8
+p152
+aVWally Szczerbiak MIN 03/14/2003 MIN vs. LAL L 39 15 7 14 50.0 1 1 100.0 0 0 - 2 6 8 4 0 0 2 1 -9
+p153
+aVKendall Gill MIN 03/14/2003 MIN vs. LAL L 22 10 4 8 50.0 2 3 66.7 0 0 - 1 2 3 1 1 0 1 2 1
+p154
+aVAnthony Peeler MIN 03/14/2003 MIN vs. LAL L 31 9 4 6 66.7 1 2 50.0 0 0 - 1 2 3 5 0 2 1 3 -7
+p155
+aVMarc Jackson MIN 03/14/2003 MIN vs. LAL L 7 2 0 4 0.0 0 0 - 2 2 100.0 2 3 5 1 0 0 0 2 -2
+p156
+aVMike Wilks MIN 03/14/2003 MIN vs. LAL L 6 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 1
+p157
+aVRasho Nesterovic MIN 03/14/2003 MIN vs. LAL L 26 12 6 11 54.5 0 0 - 0 0 - 2 3 5 1 0 0 1 2 -4
+p158
+aVGary Trent MIN 03/14/2003 MIN vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p159
+aVRasho Nesterovic MIN 03/12/2003 MIN vs. SAS L 37 14 7 10 70.0 0 0 - 0 0 - 0 3 3 1 0 1 1 3 -8
+p160
+aVKendall Gill MIN 03/12/2003 MIN vs. SAS L 20 10 3 5 60.0 0 1 0.0 4 4 100.0 1 1 2 1 0 0 1 1 2
+p161
+aVJoe Smith MIN 03/12/2003 MIN vs. SAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p162
+aVIgor Rakocevic MIN 03/12/2003 MIN vs. SAS L 5 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 2 0 1
+p163
+aVTroy Hudson MIN 03/12/2003 MIN vs. SAS L 37 30 12 20 60.0 6 9 66.7 0 0 - 0 3 3 3 1 0 3 2 -8
+p164
+aVKevin Garnett MIN 03/12/2003 MIN vs. SAS L 43 17 6 19 31.6 0 0 - 5 7 71.4 2 11 13 7 1 3 1 3 -22
+p165
+aVGary Trent MIN 03/12/2003 MIN vs. SAS L 8 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 1 0 0 0 3
+p166
+aVWally Szczerbiak MIN 03/12/2003 MIN vs. SAS L 43 12 5 11 45.5 0 1 0.0 2 4 50.0 1 2 3 4 1 1 0 3 -12
+p167
+aVMike Wilks MIN 03/12/2003 MIN vs. SAS L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 2 1 -1
+p168
+aVMarc Jackson MIN 03/12/2003 MIN vs. SAS L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 2 0 1 3
+p169
+aVAnthony Peeler MIN 03/12/2003 MIN vs. SAS L 27 4 2 7 28.6 0 2 0.0 0 0 - 1 1 2 5 3 0 3 4 -12
+p170
+aVWally Szczerbiak MIN 03/10/2003 MIN @ DAL W 43 27 9 17 52.9 3 9 33.3 6 6 100.0 0 2 2 3 1 0 4 4 11
+p171
+aVTroy Hudson MIN 03/10/2003 MIN @ DAL W 43 9 3 8 37.5 1 3 33.3 2 2 100.0 0 4 4 11 1 0 2 0 13
+p172
+aVKevin Garnett MIN 03/10/2003 MIN @ DAL W 41 31 14 20 70.0 0 1 0.0 3 7 42.9 3 15 18 5 1 1 0 2 18
+p173
+aVMarc Jackson MIN 03/10/2003 MIN @ DAL W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 3 -8
+p174
+aVGary Trent MIN 03/10/2003 MIN @ DAL W 12 2 1 3 33.3 0 0 - 0 0 - 1 5 6 1 0 0 0 2 -11
+p175
+aVKendall Gill MIN 03/10/2003 MIN @ DAL W 20 8 4 7 57.1 0 1 0.0 0 0 - 1 0 1 0 0 1 0 2 -10
+p176
+aVAnthony Peeler MIN 03/10/2003 MIN @ DAL W 29 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 3 0 1 0 2 21
+p177
+aVRasho Nesterovic MIN 03/10/2003 MIN @ DAL W 37 11 3 11 27.3 0 0 - 5 6 83.3 2 4 6 2 1 9 0 3 15
+p178
+aVMike Wilks MIN 03/10/2003 MIN @ DAL W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -4
+p179
+aVTroy Hudson MIN 03/09/2003 MIN @ PHX W 39 13 3 6 50.0 0 2 0.0 7 8 87.5 2 1 3 4 1 0 3 4 7
+p180
+aVRasho Nesterovic MIN 03/09/2003 MIN @ PHX W 32 13 5 8 62.5 0 0 - 3 4 75.0 1 7 8 2 0 2 1 3 14
+p181
+aVGary Trent MIN 03/09/2003 MIN @ PHX W 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -9
+p182
+aVMike Wilks MIN 03/09/2003 MIN @ PHX W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 0
+p183
+aVMarc Jackson MIN 03/09/2003 MIN @ PHX W 15 8 4 7 57.1 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -7
+p184
+aVKendall Gill MIN 03/09/2003 MIN @ PHX W 21 4 1 6 16.7 0 1 0.0 2 2 100.0 1 4 5 2 0 0 3 1 -11
+p185
+aVAnthony Peeler MIN 03/09/2003 MIN @ PHX W 28 14 4 7 57.1 2 3 66.7 4 4 100.0 2 2 4 2 0 0 1 2 16
+p186
+aVKevin Garnett MIN 03/09/2003 MIN @ PHX W 42 29 10 22 45.5 0 2 0.0 9 11 81.8 3 11 14 12 1 2 3 1 19
+p187
+aVWally Szczerbiak MIN 03/09/2003 MIN @ PHX W 42 18 7 16 43.8 4 6 66.7 0 0 - 0 8 8 2 0 0 3 4 6
+p188
+aVMarc Jackson MIN 03/07/2003 MIN @ LAL L 15 7 1 5 20.0 0 0 - 5 6 83.3 2 1 3 0 0 0 1 3 -8
+p189
+aVJoe Smith MIN 03/07/2003 MIN @ LAL L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 2
+p190
+aVKevin Garnett MIN 03/07/2003 MIN @ LAL L 41 15 6 17 35.3 0 1 0.0 3 6 50.0 1 9 10 6 1 1 5 5 -15
+p191
+aVRasho Nesterovic MIN 03/07/2003 MIN @ LAL L 31 19 9 10 90.0 0 0 - 1 1 100.0 3 4 7 0 0 3 2 6 -9
+p192
+aVWally Szczerbiak MIN 03/07/2003 MIN @ LAL L 39 8 3 8 37.5 1 2 50.0 1 2 50.0 1 9 10 5 0 1 3 3 -19
+p193
+aVLoren Woods MIN 03/07/2003 MIN @ LAL L 1 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 1 0 0 0 7
+p194
+aVGary Trent MIN 03/07/2003 MIN @ LAL L 8 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 6
+p195
+aVIgor Rakocevic MIN 03/07/2003 MIN @ LAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 7
+p196
+aVKendall Gill MIN 03/07/2003 MIN @ LAL L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 1 -4
+p197
+aVTroy Hudson MIN 03/07/2003 MIN @ LAL L 32 12 4 12 33.3 1 3 33.3 3 4 75.0 0 2 2 2 0 0 1 4 -7
+p198
+aVAnthony Peeler MIN 03/07/2003 MIN @ LAL L 32 15 6 8 75.0 3 3 100.0 0 0 - 0 5 5 3 0 0 1 2 -7
+p199
+aVMike Wilks MIN 03/07/2003 MIN @ LAL L 16 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -3
+p200
+aVKendall Gill MIN 03/05/2003 MIN @ SAC L 28 9 4 10 40.0 0 1 0.0 1 1 100.0 3 1 4 1 2 0 3 1 -7
+p201
+aVJoe Smith MIN 03/05/2003 MIN @ SAC L 8 4 1 2 50.0 0 0 - 2 3 66.7 1 6 7 0 0 1 0 4 6
+p202
+aVMike Wilks MIN 03/05/2003 MIN @ SAC L 15 4 1 2 50.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 1 0
+p203
+aVKevin Garnett MIN 03/05/2003 MIN @ SAC L 49 27 11 29 37.9 0 1 0.0 5 6 83.3 4 20 24 4 0 0 5 3 1
+p204
+aVGary Trent MIN 03/05/2003 MIN @ SAC L 16 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 4 0 0 1 1 6
+p205
+aVAnthony Peeler MIN 03/05/2003 MIN @ SAC L 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -3
+p206
+aVTroy Hudson MIN 03/05/2003 MIN @ SAC L 38 16 7 19 36.8 2 7 28.6 0 0 - 3 0 3 3 2 0 0 5 -1
+p207
+aVWally Szczerbiak MIN 03/05/2003 MIN @ SAC L 50 16 6 17 35.3 1 4 25.0 3 3 100.0 2 3 5 2 1 0 4 5 -1
+p208
+aVRasho Nesterovic MIN 03/05/2003 MIN @ SAC L 46 14 6 14 42.9 0 0 - 2 3 66.7 4 11 15 1 0 2 1 4 -6
+p209
+aVTroy Hudson MIN 03/04/2003 MIN @ SEA L 37 21 8 14 57.1 1 1 100.0 4 4 100.0 0 2 2 6 1 0 3 4 -16
+p210
+aVKevin Garnett MIN 03/04/2003 MIN @ SEA L 41 22 9 13 69.2 0 1 0.0 4 6 66.7 3 8 11 3 2 1 3 3 0
+p211
+aVMike Wilks MIN 03/04/2003 MIN @ SEA L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p212
+aVJoe Smith MIN 03/04/2003 MIN @ SEA L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -6
+p213
+aVAnthony Peeler MIN 03/04/2003 MIN @ SEA L 36 12 5 9 55.6 2 5 40.0 0 0 - 0 3 3 3 1 0 2 3 -6
+p214
+aVKendall Gill MIN 03/04/2003 MIN @ SEA L 23 11 5 7 71.4 0 0 - 1 2 50.0 1 3 4 0 2 0 0 1 -9
+p215
+aVGary Trent MIN 03/04/2003 MIN @ SEA L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -3
+p216
+aVWally Szczerbiak MIN 03/04/2003 MIN @ SEA L 37 7 3 14 21.4 0 2 0.0 1 2 50.0 2 5 7 4 1 0 3 4 -3
+p217
+aVMarc Jackson MIN 03/04/2003 MIN @ SEA L 8 0 0 4 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -9
+p218
+aVRasho Nesterovic MIN 03/04/2003 MIN @ SEA L 35 10 4 9 44.4 0 0 - 2 2 100.0 1 3 4 3 2 2 1 0 0
+p219
+aVAnthony Peeler MIN 03/02/2003 MIN vs. NYK W 27 5 1 4 25.0 1 1 100.0 2 4 50.0 0 4 4 1 0 1 1 2 -3
+p220
+aVWally Szczerbiak MIN 03/02/2003 MIN vs. NYK W 41 26 11 19 57.9 2 4 50.0 2 2 100.0 2 9 11 3 0 0 2 3 9
+p221
+aVTroy Hudson MIN 03/02/2003 MIN vs. NYK W 32 10 1 9 11.1 0 1 0.0 8 8 100.0 0 2 2 6 0 0 0 2 2
+p222
+aVKevin Garnett MIN 03/02/2003 MIN vs. NYK W 40 22 9 19 47.4 0 0 - 4 4 100.0 2 14 16 9 4 0 3 2 10
+p223
+aVRasho Nesterovic MIN 03/02/2003 MIN vs. NYK W 34 12 6 9 66.7 0 0 - 0 0 - 0 8 8 0 1 1 4 4 0
+p224
+aVMike Wilks MIN 03/02/2003 MIN vs. NYK W 16 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 2 7
+p225
+aVMarc Jackson MIN 03/02/2003 MIN vs. NYK W 13 11 4 6 66.7 0 0 - 3 3 100.0 0 1 1 0 0 0 0 2 7
+p226
+aVKendall Gill MIN 03/02/2003 MIN vs. NYK W 21 10 5 6 83.3 0 0 - 0 0 - 0 1 1 2 0 0 1 4 14
+p227
+aVGary Trent MIN 03/02/2003 MIN vs. NYK W 15 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 2 0 0 0 1 -1
+p228
+aVKevin Garnett MIN 02/28/2003 MIN vs. CLE W 37 20 9 15 60.0 0 0 - 2 3 66.7 1 9 10 9 0 0 0 1 21
+p229
+aVGary Trent MIN 02/28/2003 MIN vs. CLE W 17 15 6 9 66.7 0 0 - 3 6 50.0 0 3 3 0 0 0 1 2 6
+p230
+aVLoren Woods MIN 02/28/2003 MIN vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p231
+aVIgor Rakocevic MIN 02/28/2003 MIN vs. CLE W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p232
+aVMike Wilks MIN 02/28/2003 MIN vs. CLE W 13 0 0 1 0.0 0 0 - 0 0 - 1 0 1 4 0 0 0 3 -4
+p233
+aVMarc Jackson MIN 02/28/2003 MIN vs. CLE W 10 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 1 1 -6
+p234
+aVWally Szczerbiak MIN 02/28/2003 MIN vs. CLE W 40 25 11 17 64.7 1 2 50.0 2 2 100.0 2 4 6 2 0 1 0 1 28
+p235
+aVRasho Nesterovic MIN 02/28/2003 MIN vs. CLE W 36 18 9 16 56.3 0 0 - 0 0 - 2 4 6 5 1 2 0 2 29
+p236
+aVKendall Gill MIN 02/28/2003 MIN vs. CLE W 17 6 1 5 20.0 0 0 - 4 4 100.0 1 1 2 1 2 0 0 0 -6
+p237
+aVTroy Hudson MIN 02/28/2003 MIN vs. CLE W 35 18 8 12 66.7 2 2 100.0 0 0 - 0 2 2 15 3 0 1 2 27
+p238
+aVAnthony Peeler MIN 02/28/2003 MIN vs. CLE W 30 10 5 10 50.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 1 16
+p239
+aVAnthony Peeler MIN 02/26/2003 MIN vs. UTA W 38 17 6 11 54.5 3 6 50.0 2 2 100.0 0 2 2 5 1 1 1 3 3
+p240
+aVKendall Gill MIN 02/26/2003 MIN vs. UTA W 18 6 1 4 25.0 0 0 - 4 5 80.0 1 3 4 2 0 0 2 2 1
+p241
+aVWally Szczerbiak MIN 02/26/2003 MIN vs. UTA W 40 12 4 16 25.0 2 6 33.3 2 2 100.0 3 7 10 4 0 1 3 3 10
+p242
+aVMarc Jackson MIN 02/26/2003 MIN vs. UTA W 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -2
+p243
+aVMike Wilks MIN 02/26/2003 MIN vs. UTA W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 0 -3
+p244
+aVGary Trent MIN 02/26/2003 MIN vs. UTA W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p245
+aVRasho Nesterovic MIN 02/26/2003 MIN vs. UTA W 35 14 7 10 70.0 0 0 - 0 3 0.0 3 7 10 1 0 2 0 3 9
+p246
+aVKevin Garnett MIN 02/26/2003 MIN vs. UTA W 45 24 11 19 57.9 0 0 - 2 4 50.0 2 15 17 7 2 1 6 3 12
+p247
+aVTroy Hudson MIN 02/26/2003 MIN vs. UTA W 40 14 3 9 33.3 2 6 33.3 6 6 100.0 2 3 5 9 1 0 4 3 10
+p248
+aVKevin Garnett MIN 02/24/2003 MIN @ MIL W 42 34 11 19 57.9 0 1 0.0 12 16 75.0 1 11 12 8 2 0 2 1 16
+p249
+aVWally Szczerbiak MIN 02/24/2003 MIN @ MIL W 39 26 6 12 50.0 2 4 50.0 12 12 100.0 1 3 4 1 1 0 2 2 14
+p250
+aVAnthony Peeler MIN 02/24/2003 MIN @ MIL W 42 11 5 8 62.5 1 3 33.3 0 0 - 1 6 7 7 0 0 3 5 10
+p251
+aVRasho Nesterovic MIN 02/24/2003 MIN @ MIL W 37 16 8 14 57.1 0 0 - 0 0 - 5 7 12 2 0 1 3 3 17
+p252
+aVMarc Jackson MIN 02/24/2003 MIN @ MIL W 7 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 0 0 0 1 1 -7
+p253
+aVGary Trent MIN 02/24/2003 MIN @ MIL W 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -17
+p254
+aVTroy Hudson MIN 02/24/2003 MIN @ MIL W 39 21 6 11 54.5 3 4 75.0 6 8 75.0 0 1 1 7 3 0 2 2 11
+p255
+aVMike Wilks MIN 02/24/2003 MIN @ MIL W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -8
+p256
+aVKendall Gill MIN 02/24/2003 MIN @ MIL W 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 3 2 -21
+p257
+aVMarc Jackson MIN 02/23/2003 MIN vs. PHX W 10 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 2 1 3 -12
+p258
+aVWally Szczerbiak MIN 02/23/2003 MIN vs. PHX W 40 30 10 19 52.6 3 7 42.9 7 8 87.5 1 5 6 8 2 0 2 2 -1
+p259
+aVMike Wilks MIN 02/23/2003 MIN vs. PHX W 9 0 0 3 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -4
+p260
+aVGary Trent MIN 02/23/2003 MIN vs. PHX W 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 1 0 2 -5
+p261
+aVRasho Nesterovic MIN 02/23/2003 MIN vs. PHX W 36 22 11 17 64.7 0 0 - 0 0 - 5 4 9 1 1 1 1 3 21
+p262
+aVTroy Hudson MIN 02/23/2003 MIN vs. PHX W 39 11 5 14 35.7 0 6 0.0 1 1 100.0 1 0 1 9 0 0 4 2 6
+p263
+aVKendall Gill MIN 02/23/2003 MIN vs. PHX W 32 8 3 5 60.0 0 0 - 2 4 50.0 1 1 2 1 1 0 1 2 -4
+p264
+aVKevin Garnett MIN 02/23/2003 MIN vs. PHX W 39 24 11 19 57.9 0 0 - 2 4 50.0 3 12 15 6 0 2 2 5 2
+p265
+aVAnthony Peeler MIN 02/23/2003 MIN vs. PHX W 25 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 5 1 0 2 0 7
+p266
+aVKendall Gill MIN 02/21/2003 MIN vs. DET W 17 7 3 4 75.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 2 -5
+p267
+aVWally Szczerbiak MIN 02/21/2003 MIN vs. DET W 40 20 7 18 38.9 1 3 33.3 5 7 71.4 1 4 5 2 0 0 1 2 5
+p268
+aVAnthony Peeler MIN 02/21/2003 MIN vs. DET W 35 9 4 5 80.0 0 1 0.0 1 1 100.0 0 2 2 5 2 0 0 3 13
+p269
+aVMarc Jackson MIN 02/21/2003 MIN vs. DET W 13 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 0 1 2 -4
+p270
+aVTroy Hudson MIN 02/21/2003 MIN vs. DET W 33 12 4 10 40.0 2 4 50.0 2 2 100.0 1 2 3 11 0 0 3 6 9
+p271
+aVRasho Nesterovic MIN 02/21/2003 MIN vs. DET W 34 12 6 10 60.0 0 0 - 0 1 0.0 1 12 13 2 0 3 2 3 10
+p272
+aVGary Trent MIN 02/21/2003 MIN vs. DET W 14 9 4 7 57.1 0 0 - 1 1 100.0 0 0 0 1 0 0 0 3 -4
+p273
+aVKevin Garnett MIN 02/21/2003 MIN vs. DET W 40 34 13 23 56.5 1 2 50.0 7 12 58.3 8 8 16 2 2 0 2 1 13
+p274
+aVMike Wilks MIN 02/21/2003 MIN vs. DET W 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -2
+p275
+aVKevin Garnett MIN 02/19/2003 MIN @ DEN W 40 25 8 17 47.1 0 0 - 9 12 75.0 2 12 14 3 2 2 2 5 6
+p276
+aVMarc Jackson MIN 02/19/2003 MIN @ DEN W 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 2 1 5
+p277
+aVKendall Gill MIN 02/19/2003 MIN @ DEN W 28 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 1 0 2 1 12
+p278
+aVTroy Hudson MIN 02/19/2003 MIN @ DEN W 32 7 0 5 0.0 0 1 0.0 7 7 100.0 1 3 4 7 0 0 1 3 0
+p279
+aVWally Szczerbiak MIN 02/19/2003 MIN @ DEN W 41 24 9 20 45.0 0 2 0.0 6 10 60.0 1 4 5 2 2 0 1 2 8
+p280
+aVMike Wilks MIN 02/19/2003 MIN @ DEN W 16 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 8 1 0 0 0 8
+p281
+aVGary Trent MIN 02/19/2003 MIN @ DEN W 15 2 1 4 25.0 0 0 - 0 0 - 1 5 6 2 2 1 0 0 8
+p282
+aVRasho Nesterovic MIN 02/19/2003 MIN @ DEN W 35 7 3 9 33.3 0 0 - 1 2 50.0 2 7 9 2 0 5 3 4 -1
+p283
+aVAnthony Peeler MIN 02/19/2003 MIN @ DEN W 23 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 2 1 1 0 0 -6
+p284
+aVMike Wilks MIN 02/17/2003 MIN @ UTA L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 5
+p285
+aVMarc Jackson MIN 02/17/2003 MIN @ UTA L 13 0 0 1 0.0 0 0 - 0 2 0.0 2 3 5 1 0 1 0 2 -12
+p286
+aVGary Trent MIN 02/17/2003 MIN @ UTA L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -7
+p287
+aVKendall Gill MIN 02/17/2003 MIN @ UTA L 25 6 3 11 27.3 0 1 0.0 0 0 - 1 1 2 0 1 0 0 3 -5
+p288
+aVTroy Hudson MIN 02/17/2003 MIN @ UTA L 40 21 9 16 56.3 0 3 0.0 3 3 100.0 0 3 3 6 2 0 2 2 -17
+p289
+aVKevin Garnett MIN 02/17/2003 MIN @ UTA L 41 34 13 22 59.1 1 1 100.0 7 9 77.8 4 6 10 6 1 1 4 3 -7
+p290
+aVAnthony Peeler MIN 02/17/2003 MIN @ UTA L 31 8 2 7 28.6 2 4 50.0 2 2 100.0 1 0 1 0 2 0 0 1 -11
+p291
+aVWally Szczerbiak MIN 02/17/2003 MIN @ UTA L 40 14 5 15 33.3 0 1 0.0 4 4 100.0 3 3 6 5 1 3 3 3 -11
+p292
+aVIgor Rakocevic MIN 02/17/2003 MIN @ UTA L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p293
+aVRasho Nesterovic MIN 02/17/2003 MIN @ UTA L 33 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 2 0 0 1 6 3
+p294
+aVMarc Jackson MIN 02/16/2003 MIN vs. GSW W 15 8 3 7 42.9 0 0 - 2 3 66.7 1 1 2 1 1 1 1 4 11
+p295
+aVGary Trent MIN 02/16/2003 MIN vs. GSW W 15 7 2 3 66.7 0 0 - 3 5 60.0 2 2 4 2 1 0 0 1 -4
+p296
+aVMike Wilks MIN 02/16/2003 MIN vs. GSW W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 4 0 0 0 0 0
+p297
+aVWally Szczerbiak MIN 02/16/2003 MIN vs. GSW W 38 23 8 18 44.4 2 3 66.7 5 6 83.3 0 3 3 1 1 0 3 3 0
+p298
+aVAnthony Peeler MIN 02/16/2003 MIN vs. GSW W 27 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 3 0 0 1 3 11
+p299
+aVRasho Nesterovic MIN 02/16/2003 MIN vs. GSW W 23 6 3 5 60.0 0 0 - 0 0 - 0 11 11 2 0 1 4 6 4
+p300
+aVKevin Garnett MIN 02/16/2003 MIN vs. GSW W 41 37 17 27 63.0 0 2 0.0 3 3 100.0 9 13 22 6 1 5 2 2 6
+p301
+aVTroy Hudson MIN 02/16/2003 MIN vs. GSW W 37 14 5 10 50.0 0 4 0.0 4 5 80.0 0 3 3 11 2 0 2 2 6
+p302
+aVKendall Gill MIN 02/16/2003 MIN vs. GSW W 31 6 3 10 30.0 0 1 0.0 0 0 - 1 3 4 2 0 2 3 1 1
+p303
+aVIgor Rakocevic MIN 02/16/2003 MIN vs. GSW W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 0
+p304
+aVWally Szczerbiak MIN 02/14/2003 MIN vs. NOH W 32 18 7 16 43.8 1 2 50.0 3 3 100.0 2 5 7 6 0 0 1 1 22
+p305
+aVMarc Jackson MIN 02/14/2003 MIN vs. NOH W 21 10 5 9 55.6 0 0 - 0 0 - 2 3 5 1 2 1 1 3 17
+p306
+aVKendall Gill MIN 02/14/2003 MIN vs. NOH W 32 7 3 7 42.9 1 1 100.0 0 0 - 1 0 1 5 4 0 2 2 18
+p307
+aVIgor Rakocevic MIN 02/14/2003 MIN vs. NOH W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 7
+p308
+aVAnthony Peeler MIN 02/14/2003 MIN vs. NOH W 29 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 4 0 0 0 2 -2
+p309
+aVLoren Woods MIN 02/14/2003 MIN vs. NOH W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 -2
+p310
+aVTroy Hudson MIN 02/14/2003 MIN vs. NOH W 33 22 7 13 53.8 6 8 75.0 2 2 100.0 0 1 1 8 0 0 0 2 14
+p311
+aVMike Wilks MIN 02/14/2003 MIN vs. NOH W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 0
+p312
+aVKevin Garnett MIN 02/14/2003 MIN vs. NOH W 30 23 10 19 52.6 1 2 50.0 2 3 66.7 1 7 8 5 2 2 1 2 15
+p313
+aVGary Trent MIN 02/14/2003 MIN vs. NOH W 21 6 3 7 42.9 0 0 - 0 0 - 4 4 8 3 0 1 0 1 10
+p314
+aVRasho Nesterovic MIN 02/14/2003 MIN vs. NOH W 22 11 5 7 71.4 0 0 - 1 2 50.0 0 4 4 1 0 0 1 3 6
+p315
+aVIgor Rakocevic MIN 02/12/2003 MIN @ CLE W 9 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 3 1 5
+p316
+aVMike Wilks MIN 02/12/2003 MIN @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p317
+aVTroy Hudson MIN 02/12/2003 MIN @ CLE W 39 11 3 9 33.3 1 2 50.0 4 4 100.0 0 2 2 10 1 0 5 1 6
+p318
+aVKevin Garnett MIN 02/12/2003 MIN @ CLE W 39 26 10 17 58.8 0 1 0.0 6 7 85.7 4 13 17 4 1 2 5 1 13
+p319
+aVKendall Gill MIN 02/12/2003 MIN @ CLE W 32 16 6 15 40.0 0 1 0.0 4 4 100.0 2 5 7 3 3 0 0 2 14
+p320
+aVAnthony Peeler MIN 02/12/2003 MIN @ CLE W 24 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 2 3
+p321
+aVLoren Woods MIN 02/12/2003 MIN @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p322
+aVGary Trent MIN 02/12/2003 MIN @ CLE W 13 10 4 6 66.7 0 0 - 2 2 100.0 2 4 6 0 0 0 0 1 2
+p323
+aVRasho Nesterovic MIN 02/12/2003 MIN @ CLE W 29 8 4 8 50.0 0 0 - 0 0 - 2 5 7 2 1 3 0 1 0
+p324
+aVWally Szczerbiak MIN 02/12/2003 MIN @ CLE W 36 18 7 12 58.3 1 1 100.0 3 3 100.0 1 1 2 4 2 1 2 3 3
+p325
+aVMarc Jackson MIN 02/12/2003 MIN @ CLE W 19 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 0 1 0 0 2 13
+p326
+aVMarc Jackson MIN 02/11/2003 MIN vs. DAL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -3
+p327
+aVTroy Hudson MIN 02/11/2003 MIN vs. DAL W 38 7 1 9 11.1 0 4 0.0 5 5 100.0 1 3 4 12 0 0 4 3 3
+p328
+aVRasho Nesterovic MIN 02/11/2003 MIN vs. DAL W 34 15 6 8 75.0 0 0 - 3 4 75.0 4 5 9 1 0 3 2 3 10
+p329
+aVIgor Rakocevic MIN 02/11/2003 MIN vs. DAL W 10 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -1
+p330
+aVAnthony Peeler MIN 02/11/2003 MIN vs. DAL W 35 10 4 9 44.4 2 5 40.0 0 0 - 0 8 8 3 1 0 1 4 -6
+p331
+aVGary Trent MIN 02/11/2003 MIN vs. DAL W 17 9 4 7 57.1 0 1 0.0 1 2 50.0 1 3 4 1 0 0 1 2 1
+p332
+aVKevin Garnett MIN 02/11/2003 MIN vs. DAL W 44 26 10 26 38.5 0 0 - 6 10 60.0 3 9 12 7 1 1 4 1 3
+p333
+aVWally Szczerbiak MIN 02/11/2003 MIN vs. DAL W 36 21 8 11 72.7 3 4 75.0 2 2 100.0 2 6 8 3 1 1 3 4 5
+p334
+aVKendall Gill MIN 02/11/2003 MIN vs. DAL W 19 8 4 7 57.1 0 1 0.0 0 1 0.0 1 4 5 1 0 0 3 4 -2
+p335
+aVMarc Jackson MIN 02/04/2003 MIN vs. HOU W 12 4 1 2 50.0 0 0 - 2 4 50.0 0 1 1 1 0 1 1 2 -1
+p336
+aVAnthony Peeler MIN 02/04/2003 MIN vs. HOU W 30 10 5 5 100.0 0 0 - 0 0 - 0 3 3 4 1 0 0 4 3
+p337
+aVTroy Hudson MIN 02/04/2003 MIN vs. HOU W 36 17 7 14 50.0 1 2 50.0 2 2 100.0 1 3 4 6 0 0 4 1 12
+p338
+aVWally Szczerbiak MIN 02/04/2003 MIN vs. HOU W 39 16 6 14 42.9 0 1 0.0 4 4 100.0 0 4 4 2 0 2 1 2 13
+p339
+aVGary Trent MIN 02/04/2003 MIN vs. HOU W 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p340
+aVIgor Rakocevic MIN 02/04/2003 MIN vs. HOU W 12 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 2 2
+p341
+aVKendall Gill MIN 02/04/2003 MIN vs. HOU W 24 7 2 5 40.0 0 0 - 3 5 60.0 3 5 8 1 0 0 0 3 13
+p342
+aVRasho Nesterovic MIN 02/04/2003 MIN vs. HOU W 36 19 9 14 64.3 0 0 - 1 2 50.0 3 3 6 1 2 0 1 4 15
+p343
+aVKevin Garnett MIN 02/04/2003 MIN vs. HOU W 43 23 10 15 66.7 0 1 0.0 3 5 60.0 1 10 11 9 3 2 3 1 18
+p344
+aVTroy Hudson MIN 02/02/2003 MIN vs. PHI W 38 10 4 10 40.0 1 1 100.0 1 2 50.0 0 6 6 9 1 0 2 1 10
+p345
+aVGary Trent MIN 02/02/2003 MIN vs. PHI W 13 12 6 6 100.0 0 0 - 0 3 0.0 0 0 0 2 0 0 3 3 -7
+p346
+aVKevin Garnett MIN 02/02/2003 MIN vs. PHI W 41 30 13 20 65.0 0 0 - 4 5 80.0 3 14 17 3 0 2 4 3 15
+p347
+aVIgor Rakocevic MIN 02/02/2003 MIN vs. PHI W 10 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 3 -2
+p348
+aVMarc Jackson MIN 02/02/2003 MIN vs. PHI W 14 14 6 8 75.0 0 0 - 2 4 50.0 3 2 5 0 1 2 1 2 4
+p349
+aVWally Szczerbiak MIN 02/02/2003 MIN vs. PHI W 38 14 6 17 35.3 0 2 0.0 2 2 100.0 1 3 4 4 2 2 0 1 15
+p350
+aVAnthony Peeler MIN 02/02/2003 MIN vs. PHI W 31 4 2 5 40.0 0 1 0.0 0 0 - 0 6 6 6 1 0 2 3 -1
+p351
+aVKendall Gill MIN 02/02/2003 MIN vs. PHI W 21 4 1 4 25.0 0 0 - 2 4 50.0 0 1 1 2 0 0 3 2 2
+p352
+aVRasho Nesterovic MIN 02/02/2003 MIN vs. PHI W 34 6 3 6 50.0 0 0 - 0 0 - 1 5 6 1 1 1 1 1 4
+p353
+aVRasho Nesterovic MIN 01/31/2003 MIN @ HOU L 27 9 4 9 44.4 0 0 - 1 2 50.0 0 3 3 1 1 0 0 4 -15
+p354
+aVJoe Smith MIN 01/31/2003 MIN @ HOU L 21 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 1 0 0 1 2 -9
+p355
+aVLoren Woods MIN 01/31/2003 MIN @ HOU L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 2
+p356
+aVKevin Garnett MIN 01/31/2003 MIN @ HOU L 37 14 6 15 40.0 0 1 0.0 2 2 100.0 2 5 7 3 0 0 5 2 -10
+p357
+aVKendall Gill MIN 01/31/2003 MIN @ HOU L 18 9 1 4 25.0 0 0 - 7 8 87.5 0 3 3 2 2 0 1 0 -7
+p358
+aVMarc Jackson MIN 01/31/2003 MIN @ HOU L 17 10 3 4 75.0 0 0 - 4 4 100.0 3 1 4 0 0 0 0 4 -7
+p359
+aVGary Trent MIN 01/31/2003 MIN @ HOU L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p360
+aVIgor Rakocevic MIN 01/31/2003 MIN @ HOU L 9 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 0 -2
+p361
+aVTroy Hudson MIN 01/31/2003 MIN @ HOU L 39 23 7 16 43.8 2 3 66.7 7 8 87.5 2 0 2 6 3 0 5 3 -18
+p362
+aVAnthony Peeler MIN 01/31/2003 MIN @ HOU L 25 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 1 0 0 0 2 -9
+p363
+aVWally Szczerbiak MIN 01/31/2003 MIN @ HOU L 36 20 9 16 56.3 0 1 0.0 2 2 100.0 2 4 6 3 0 0 2 3 -15
+p364
+aVJoe Smith MIN 01/30/2003 MIN @ DAL L 38 18 8 13 61.5 0 0 - 2 2 100.0 4 7 11 2 0 1 1 4 5
+p365
+aVAnthony Peeler MIN 01/30/2003 MIN @ DAL L 19 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 2 0 0 0 2 10
+p366
+aVGary Trent MIN 01/30/2003 MIN @ DAL L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -4
+p367
+aVKevin Garnett MIN 01/30/2003 MIN @ DAL L 46 31 14 24 58.3 0 0 - 3 6 50.0 3 14 17 8 0 2 1 3 -1
+p368
+aVRasho Nesterovic MIN 01/30/2003 MIN @ DAL L 24 9 4 8 50.0 0 0 - 1 2 50.0 2 4 6 3 0 0 0 3 -9
+p369
+aVTroy Hudson MIN 01/30/2003 MIN @ DAL L 41 31 12 23 52.2 5 9 55.6 2 2 100.0 1 2 3 6 2 0 1 1 -5
+p370
+aVIgor Rakocevic MIN 01/30/2003 MIN @ DAL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 2 1 1
+p371
+aVWally Szczerbiak MIN 01/30/2003 MIN @ DAL L 37 14 6 12 50.0 1 2 50.0 1 2 50.0 1 2 3 1 0 0 2 3 0
+p372
+aVMarc Jackson MIN 01/30/2003 MIN @ DAL L 7 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 0 0
+p373
+aVKendall Gill MIN 01/30/2003 MIN @ DAL L 15 0 0 4 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -12
+p374
+aVTroy Hudson MIN 01/27/2003 MIN vs. SAS W 31 3 1 9 11.1 0 2 0.0 1 2 50.0 0 2 2 6 0 1 0 1 -2
+p375
+aVJoe Smith MIN 01/27/2003 MIN vs. SAS W 21 8 4 9 44.4 0 0 - 0 0 - 1 5 6 0 0 1 0 5 6
+p376
+aVMarc Jackson MIN 01/27/2003 MIN vs. SAS W 18 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 2 0 1 3 9
+p377
+aVGary Trent MIN 01/27/2003 MIN vs. SAS W 20 5 2 4 50.0 0 0 - 1 2 50.0 3 2 5 4 0 0 0 4 2
+p378
+aVKevin Garnett MIN 01/27/2003 MIN vs. SAS W 36 34 14 19 73.7 0 0 - 6 8 75.0 3 7 10 8 2 1 2 3 11
+p379
+aVRasho Nesterovic MIN 01/27/2003 MIN vs. SAS W 20 6 3 7 42.9 0 0 - 0 0 - 2 3 5 2 1 0 3 3 3
+p380
+aVIgor Rakocevic MIN 01/27/2003 MIN vs. SAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 3 8
+p381
+aVKendall Gill MIN 01/27/2003 MIN vs. SAS W 22 12 6 9 66.7 0 0 - 0 0 - 0 1 1 2 0 0 2 2 2
+p382
+aVRod Strickland MIN 01/27/2003 MIN vs. SAS W 9 10 5 6 83.3 0 0 - 0 0 - 0 0 0 0 1 0 1 3 5
+p383
+aVWally Szczerbiak MIN 01/27/2003 MIN vs. SAS W 31 17 7 15 46.7 2 2 100.0 1 2 50.0 1 2 3 3 1 0 0 1 16
+p384
+aVAnthony Peeler MIN 01/27/2003 MIN vs. SAS W 25 9 4 8 50.0 1 3 33.3 0 0 - 1 5 6 6 0 0 1 1 -5
+p385
+aVRasho Nesterovic MIN 01/25/2003 MIN @ WAS W 34 13 6 9 66.7 0 0 - 1 2 50.0 2 4 6 0 0 2 2 2 -1
+p386
+aVKendall Gill MIN 01/25/2003 MIN @ WAS W 30 19 8 12 66.7 1 1 100.0 2 2 100.0 1 1 2 3 2 0 1 1 3
+p387
+aVJoe Smith MIN 01/25/2003 MIN @ WAS W 20 5 1 3 33.3 0 0 - 3 4 75.0 2 2 4 0 1 0 0 0 -8
+p388
+aVWally Szczerbiak MIN 01/25/2003 MIN @ WAS W 29 11 4 12 33.3 1 5 20.0 2 2 100.0 2 6 8 4 1 0 1 2 13
+p389
+aVTroy Hudson MIN 01/25/2003 MIN @ WAS W 24 9 4 10 40.0 1 4 25.0 0 0 - 0 2 2 4 1 0 1 4 8
+p390
+aVGary Trent MIN 01/25/2003 MIN @ WAS W 13 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 1 0 0 3 5
+p391
+aVAnthony Peeler MIN 01/25/2003 MIN @ WAS W 14 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 1 2 3
+p392
+aVRod Strickland MIN 01/25/2003 MIN @ WAS W 24 6 2 8 25.0 0 0 - 2 2 100.0 0 2 2 7 0 0 3 0 0
+p393
+aVKevin Garnett MIN 01/25/2003 MIN @ WAS W 38 17 7 19 36.8 1 2 50.0 2 3 66.7 3 7 10 6 3 1 6 2 6
+p394
+aVMarc Jackson MIN 01/25/2003 MIN @ WAS W 14 8 4 5 80.0 0 0 - 0 0 - 4 4 8 0 1 0 0 0 11
+p395
+aVMarc Jackson MIN 01/24/2003 MIN vs. LAC W 3 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -5
+p396
+aVKevin Garnett MIN 01/24/2003 MIN vs. LAC W 42 12 5 12 41.7 0 1 0.0 2 2 100.0 5 9 14 9 2 0 4 3 17
+p397
+aVTroy Hudson MIN 01/24/2003 MIN vs. LAC W 27 7 2 7 28.6 2 3 66.7 1 2 50.0 0 1 1 2 0 0 1 3 2
+p398
+aVRasho Nesterovic MIN 01/24/2003 MIN vs. LAC W 36 14 7 12 58.3 0 0 - 0 0 - 3 8 11 1 1 3 0 2 4
+p399
+aVJoe Smith MIN 01/24/2003 MIN vs. LAC W 27 12 2 11 18.2 0 0 - 8 8 100.0 2 3 5 0 0 0 1 4 1
+p400
+aVKendall Gill MIN 01/24/2003 MIN vs. LAC W 19 4 2 7 28.6 0 0 - 0 0 - 1 0 1 1 1 0 2 0 -5
+p401
+aVWally Szczerbiak MIN 01/24/2003 MIN vs. LAC W 30 18 6 13 46.2 1 3 33.3 5 6 83.3 1 1 2 1 0 1 1 4 2
+p402
+aVAnthony Peeler MIN 01/24/2003 MIN vs. LAC W 27 10 3 10 30.0 2 5 40.0 2 2 100.0 1 0 1 2 6 0 1 1 7
+p403
+aVRod Strickland MIN 01/24/2003 MIN vs. LAC W 21 9 3 6 50.0 0 0 - 3 6 50.0 1 1 2 3 1 0 2 1 1
+p404
+aVGary Trent MIN 01/24/2003 MIN vs. LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -9
+p405
+aVAnthony Peeler MIN 01/22/2003 MIN vs. SEA W 20 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -8
+p406
+aVWally Szczerbiak MIN 01/22/2003 MIN vs. SEA W 29 16 7 14 50.0 2 3 66.7 0 0 - 0 2 2 3 1 0 1 1 1
+p407
+aVGary Trent MIN 01/22/2003 MIN vs. SEA W 13 4 2 3 66.7 0 0 - 0 0 - 2 2 4 4 0 0 0 0 -5
+p408
+aVRod Strickland MIN 01/22/2003 MIN vs. SEA W 24 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 10 1 0 2 0 -1
+p409
+aVRasho Nesterovic MIN 01/22/2003 MIN vs. SEA W 35 18 9 13 69.2 0 1 0.0 0 0 - 3 7 10 1 1 1 0 2 12
+p410
+aVKevin Garnett MIN 01/22/2003 MIN vs. SEA W 39 20 10 13 76.9 0 0 - 0 0 - 1 8 9 5 0 1 2 2 15
+p411
+aVMarc Jackson MIN 01/22/2003 MIN vs. SEA W 10 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -11
+p412
+aVJoe Smith MIN 01/22/2003 MIN vs. SEA W 22 16 6 8 75.0 0 0 - 4 6 66.7 0 2 2 0 0 1 1 5 14
+p413
+aVTroy Hudson MIN 01/22/2003 MIN vs. SEA W 26 16 5 12 41.7 2 6 33.3 4 4 100.0 1 3 4 2 0 0 0 0 6
+p414
+aVKendall Gill MIN 01/22/2003 MIN vs. SEA W 22 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 3 2
+p415
+aVTroy Hudson MIN 01/20/2003 MIN vs. TOR W 27 16 6 11 54.5 2 4 50.0 2 2 100.0 1 1 2 3 0 0 0 1 12
+p416
+aVKendall Gill MIN 01/20/2003 MIN vs. TOR W 22 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 2 -14
+p417
+aVKevin Garnett MIN 01/20/2003 MIN vs. TOR W 39 19 8 19 42.1 1 2 50.0 2 2 100.0 4 11 15 8 1 5 2 1 3
+p418
+aVAnthony Peeler MIN 01/20/2003 MIN vs. TOR W 26 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 2 1 0 1 1 20
+p419
+aVWally Szczerbiak MIN 01/20/2003 MIN vs. TOR W 25 10 3 6 50.0 0 0 - 4 6 66.7 0 3 3 2 2 0 3 1 -1
+p420
+aVJoe Smith MIN 01/20/2003 MIN vs. TOR W 16 6 2 7 28.6 0 0 - 2 2 100.0 3 3 6 0 0 1 1 3 2
+p421
+aVMarc Jackson MIN 01/20/2003 MIN vs. TOR W 17 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 1 0 0 16
+p422
+aVRod Strickland MIN 01/20/2003 MIN vs. TOR W 21 7 2 6 33.3 0 0 - 3 4 75.0 0 0 0 3 2 0 2 0 -4
+p423
+aVRasho Nesterovic MIN 01/20/2003 MIN vs. TOR W 29 10 5 9 55.6 0 0 - 0 0 - 4 6 10 2 0 0 4 3 -9
+p424
+aVGary Trent MIN 01/20/2003 MIN vs. TOR W 17 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 15
+p425
+aVMarc Jackson MIN 01/18/2003 MIN @ POR W 11 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 2 -12
+p426
+aVWally Szczerbiak MIN 01/18/2003 MIN @ POR W 24 16 5 11 45.5 1 3 33.3 5 5 100.0 0 3 3 0 1 0 1 4 -5
+p427
+aVRasho Nesterovic MIN 01/18/2003 MIN @ POR W 37 10 5 12 41.7 0 0 - 0 0 - 4 4 8 3 0 1 1 3 18
+p428
+aVAnthony Peeler MIN 01/18/2003 MIN @ POR W 28 2 0 3 0.0 0 1 0.0 2 2 100.0 1 4 5 3 1 1 1 3 1
+p429
+aVRod Strickland MIN 01/18/2003 MIN @ POR W 34 12 5 15 33.3 0 1 0.0 2 3 66.7 1 3 4 10 1 0 1 1 10
+p430
+aVJoe Smith MIN 01/18/2003 MIN @ POR W 22 12 6 15 40.0 0 0 - 0 0 - 4 1 5 1 1 0 0 4 12
+p431
+aVIgor Rakocevic MIN 01/18/2003 MIN @ POR W 14 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 2 0 0 1 1 -4
+p432
+aVGary Trent MIN 01/18/2003 MIN @ POR W 9 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -14
+p433
+aVKevin Garnett MIN 01/18/2003 MIN @ POR W 41 31 11 16 68.8 0 0 - 9 10 90.0 2 18 20 4 2 1 3 3 19
+p434
+aVKendall Gill MIN 01/18/2003 MIN @ POR W 20 10 5 10 50.0 0 1 0.0 0 0 - 0 0 0 0 1 1 2 2 5
+p435
+aVRod Strickland MIN 01/17/2003 MIN @ GSW L 29 10 3 6 50.0 0 0 - 4 4 100.0 0 1 1 6 2 1 4 1 -8
+p436
+aVWally Szczerbiak MIN 01/17/2003 MIN @ GSW L 22 13 4 9 44.4 1 1 100.0 4 5 80.0 0 4 4 1 0 0 0 1 -8
+p437
+aVKevin Garnett MIN 01/17/2003 MIN @ GSW L 40 22 8 12 66.7 1 2 50.0 5 5 100.0 1 5 6 3 2 1 3 4 -10
+p438
+aVJoe Smith MIN 01/17/2003 MIN @ GSW L 29 13 5 6 83.3 0 0 - 3 3 100.0 3 2 5 1 0 1 1 3 -2
+p439
+aVIgor Rakocevic MIN 01/17/2003 MIN @ GSW L 17 5 2 8 25.0 0 1 0.0 1 1 100.0 0 0 0 3 0 0 2 3 2
+p440
+aVGary Trent MIN 01/17/2003 MIN @ GSW L 16 6 3 6 50.0 0 0 - 0 0 - 1 2 3 3 1 0 3 1 4
+p441
+aVMarc Jackson MIN 01/17/2003 MIN @ GSW L 14 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 -6
+p442
+aVKendall Gill MIN 01/17/2003 MIN @ GSW L 19 14 6 9 66.7 2 4 50.0 0 0 - 0 2 2 1 4 0 5 5 7
+p443
+aVAnthony Peeler MIN 01/17/2003 MIN @ GSW L 30 11 3 8 37.5 2 3 66.7 3 4 75.0 2 1 3 1 3 0 0 3 -22
+p444
+aVRasho Nesterovic MIN 01/17/2003 MIN @ GSW L 25 2 1 7 14.3 0 0 - 0 0 - 0 7 7 0 0 1 2 3 -2
+p445
+aVKevin Garnett MIN 01/15/2003 MIN @ LAC W 38 21 8 15 53.3 0 0 - 5 5 100.0 1 8 9 6 2 3 2 1 28
+p446
+aVKendall Gill MIN 01/15/2003 MIN @ LAC W 24 13 5 11 45.5 1 1 100.0 2 2 100.0 0 3 3 1 2 0 1 2 22
+p447
+aVMarc Jackson MIN 01/15/2003 MIN @ LAC W 19 11 5 10 50.0 0 0 - 1 2 50.0 2 6 8 1 1 0 3 3 15
+p448
+aVRasho Nesterovic MIN 01/15/2003 MIN @ LAC W 27 12 6 12 50.0 0 0 - 0 0 - 2 8 10 0 0 1 0 3 14
+p449
+aVLoren Woods MIN 01/15/2003 MIN @ LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p450
+aVIgor Rakocevic MIN 01/15/2003 MIN @ LAC W 17 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 3 1 0 0 0 6
+p451
+aVAnthony Peeler MIN 01/15/2003 MIN @ LAC W 27 8 3 9 33.3 1 3 33.3 1 1 100.0 1 3 4 4 2 0 1 5 14
+p452
+aVGary Trent MIN 01/15/2003 MIN @ LAC W 10 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 0 0 1 4 3
+p453
+aVRod Strickland MIN 01/15/2003 MIN @ LAC W 31 9 3 11 27.3 0 0 - 3 4 75.0 2 2 4 7 1 0 0 1 25
+p454
+aVWally Szczerbiak MIN 01/15/2003 MIN @ LAC W 20 6 2 6 33.3 0 1 0.0 2 2 100.0 1 5 6 3 0 0 0 0 9
+p455
+aVJoe Smith MIN 01/15/2003 MIN @ LAC W 23 3 1 7 14.3 0 0 - 1 2 50.0 4 3 7 3 1 0 1 3 13
+p456
+aVRasho Nesterovic MIN 01/13/2003 MIN vs. DEN W 26 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 0 1 1 2 4
+p457
+aVJoe Smith MIN 01/13/2003 MIN vs. DEN W 11 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -8
+p458
+aVGary Trent MIN 01/13/2003 MIN vs. DEN W 14 7 3 6 50.0 0 0 - 1 1 100.0 0 1 1 0 0 2 0 1 -3
+p459
+aVKendall Gill MIN 01/13/2003 MIN vs. DEN W 29 6 3 10 30.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 2 -9
+p460
+aVKevin Garnett MIN 01/13/2003 MIN vs. DEN W 38 14 6 13 46.2 0 1 0.0 2 2 100.0 2 13 15 5 1 3 4 2 4
+p461
+aVAnthony Peeler MIN 01/13/2003 MIN vs. DEN W 32 20 8 13 61.5 4 7 57.1 0 0 - 0 2 2 6 4 1 1 2 33
+p462
+aVMarc Jackson MIN 01/13/2003 MIN vs. DEN W 22 8 2 3 66.7 0 0 - 4 4 100.0 3 1 4 0 0 2 1 1 13
+p463
+aVIgor Rakocevic MIN 01/13/2003 MIN vs. DEN W 9 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 15
+p464
+aVRod Strickland MIN 01/13/2003 MIN vs. DEN W 38 14 5 10 50.0 0 0 - 4 6 66.7 1 0 1 7 1 2 6 2 0
+p465
+aVTroy Hudson MIN 01/13/2003 MIN vs. DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p466
+aVWally Szczerbiak MIN 01/13/2003 MIN vs. DEN W 21 10 4 9 44.4 0 0 - 2 2 100.0 0 3 3 3 0 1 3 3 22
+p467
+aVKendall Gill MIN 01/12/2003 MIN @ TOR L 29 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 3 0 0 0 0 -17
+p468
+aVIgor Rakocevic MIN 01/12/2003 MIN @ TOR L 5 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 4
+p469
+aVTroy Hudson MIN 01/12/2003 MIN @ TOR L 32 7 1 8 12.5 1 3 33.3 4 4 100.0 1 2 3 1 2 0 4 0 -9
+p470
+aVWally Szczerbiak MIN 01/12/2003 MIN @ TOR L 15 13 5 8 62.5 1 1 100.0 2 2 100.0 0 2 2 2 1 0 0 1 1
+p471
+aVJoe Smith MIN 01/12/2003 MIN @ TOR L 20 7 2 6 33.3 0 1 0.0 3 3 100.0 1 3 4 1 1 2 0 4 -6
+p472
+aVRasho Nesterovic MIN 01/12/2003 MIN @ TOR L 16 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 2 0 4 0
+p473
+aVMarc Jackson MIN 01/12/2003 MIN @ TOR L 16 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 1 0 2 -13
+p474
+aVKevin Garnett MIN 01/12/2003 MIN @ TOR L 39 26 10 14 71.4 0 0 - 6 7 85.7 1 2 3 5 1 0 5 2 -11
+p475
+aVRod Strickland MIN 01/12/2003 MIN @ TOR L 19 6 0 4 0.0 0 0 - 6 6 100.0 1 1 2 2 0 0 1 0 -8
+p476
+aVGary Trent MIN 01/12/2003 MIN @ TOR L 22 14 5 7 71.4 0 0 - 4 4 100.0 3 4 7 1 0 0 2 2 -9
+p477
+aVAnthony Peeler MIN 01/12/2003 MIN @ TOR L 15 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 1 2 0 1 1 -8
+p478
+aVLoren Woods MIN 01/12/2003 MIN @ TOR L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 6
+p479
+aVTroy Hudson MIN 01/10/2003 MIN vs. SAC W 30 8 3 10 30.0 0 2 0.0 2 2 100.0 0 3 3 6 1 0 3 2 -4
+p480
+aVGary Trent MIN 01/10/2003 MIN vs. SAC W 8 0 0 2 0.0 0 0 - 0 0 - 1 6 7 0 0 0 1 0 6
+p481
+aVRasho Nesterovic MIN 01/10/2003 MIN vs. SAC W 38 15 6 15 40.0 0 0 - 3 4 75.0 4 4 8 2 2 0 5 2 1
+p482
+aVJoe Smith MIN 01/10/2003 MIN vs. SAC W 41 25 11 17 64.7 0 0 - 3 4 75.0 3 7 10 1 0 2 0 4 -2
+p483
+aVKevin Garnett MIN 01/10/2003 MIN vs. SAC W 43 24 7 15 46.7 0 0 - 10 14 71.4 5 10 15 8 1 1 4 3 13
+p484
+aVRod Strickland MIN 01/10/2003 MIN vs. SAC W 24 13 6 8 75.0 0 0 - 1 2 50.0 1 4 5 5 0 0 3 1 11
+p485
+aVWally Szczerbiak MIN 01/10/2003 MIN vs. SAC W 16 10 4 4 100.0 1 1 100.0 1 2 50.0 0 1 1 0 0 1 1 3 -3
+p486
+aVAnthony Peeler MIN 01/10/2003 MIN vs. SAC W 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 1 1 4
+p487
+aVMarc Jackson MIN 01/10/2003 MIN vs. SAC W 15 8 4 9 44.4 0 0 - 0 0 - 3 1 4 1 0 0 1 3 4
+p488
+aVKendall Gill MIN 01/10/2003 MIN vs. SAC W 34 10 4 10 40.0 0 1 0.0 2 4 50.0 1 3 4 5 0 0 2 2 0
+p489
+aVJoe Smith MIN 01/08/2003 MIN vs. GSW W 21 9 4 8 50.0 0 0 - 1 3 33.3 1 1 2 3 0 1 0 3 8
+p490
+aVIgor Rakocevic MIN 01/08/2003 MIN vs. GSW W 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -9
+p491
+aVKendall Gill MIN 01/08/2003 MIN vs. GSW W 37 14 6 14 42.9 0 1 0.0 2 4 50.0 0 4 4 1 0 0 3 4 4
+p492
+aVRasho Nesterovic MIN 01/08/2003 MIN vs. GSW W 30 5 2 7 28.6 0 0 - 1 2 50.0 1 5 6 3 1 4 0 1 -11
+p493
+aVKevin Garnett MIN 01/08/2003 MIN vs. GSW W 41 21 10 20 50.0 0 1 0.0 1 2 50.0 4 10 14 6 0 0 0 2 8
+p494
+aVGary Trent MIN 01/08/2003 MIN vs. GSW W 19 14 6 8 75.0 0 0 - 2 6 33.3 1 5 6 0 1 2 1 2 1
+p495
+aVMarc Jackson MIN 01/08/2003 MIN vs. GSW W 18 6 3 5 60.0 0 0 - 0 0 - 1 3 4 2 0 1 0 3 16
+p496
+aVAnthony Peeler MIN 01/08/2003 MIN vs. GSW W 27 8 3 6 50.0 2 4 50.0 0 0 - 0 5 5 3 1 0 3 3 0
+p497
+aVTroy Hudson MIN 01/08/2003 MIN vs. GSW W 39 23 9 17 52.9 3 6 50.0 2 2 100.0 0 4 4 11 1 0 0 5 18
+p498
+aVKendall Gill MIN 01/07/2003 MIN @ HOU L 34 17 7 14 50.0 2 3 66.7 1 2 50.0 0 3 3 1 2 0 3 5 4
+p499
+aVJoe Smith MIN 01/07/2003 MIN @ HOU L 26 6 2 5 40.0 0 0 - 2 2 100.0 2 6 8 0 0 0 1 4 -3
+p500
+aVKevin Garnett MIN 01/07/2003 MIN @ HOU L 44 25 6 18 33.3 1 2 50.0 12 14 85.7 2 14 16 5 5 1 1 4 2
+p501
+aVTroy Hudson MIN 01/07/2003 MIN @ HOU L 39 7 2 12 16.7 0 2 0.0 3 3 100.0 1 1 2 6 2 0 3 1 2
+p502
+aVAnthony Peeler MIN 01/07/2003 MIN @ HOU L 23 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 3 -22
+p503
+aVGary Trent MIN 01/07/2003 MIN @ HOU L 18 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 1 0 2 2 -8
+p504
+aVRasho Nesterovic MIN 01/07/2003 MIN @ HOU L 29 8 4 9 44.4 0 0 - 0 0 - 3 3 6 2 1 0 1 4 -11
+p505
+aVMarc Jackson MIN 01/07/2003 MIN @ HOU L 11 4 2 6 33.3 0 0 - 0 1 0.0 0 0 0 0 0 0 2 2 -7
+p506
+aVIgor Rakocevic MIN 01/07/2003 MIN @ HOU L 18 9 1 4 25.0 1 2 50.0 6 8 75.0 1 2 3 0 0 0 2 1 3
+p507
+aVJoe Smith MIN 01/04/2003 MIN vs. UTA L 17 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 1 1 4 -10
+p508
+aVMarc Jackson MIN 01/04/2003 MIN vs. UTA L 10 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 2 1 -11
+p509
+aVKevin Garnett MIN 01/04/2003 MIN vs. UTA L 43 26 12 24 50.0 0 1 0.0 2 9 22.2 3 11 14 4 0 4 1 4 -6
+p510
+aVAnthony Peeler MIN 01/04/2003 MIN vs. UTA L 30 7 3 11 27.3 1 4 25.0 0 0 - 1 2 3 7 2 0 0 2 -6
+p511
+aVRod Strickland MIN 01/04/2003 MIN vs. UTA L 25 6 3 6 50.0 0 0 - 0 0 - 0 2 2 11 0 0 3 4 -2
+p512
+aVReggie Slater MIN 01/04/2003 MIN vs. UTA L 10 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 7
+p513
+aVGary Trent MIN 01/04/2003 MIN vs. UTA L 17 6 3 7 42.9 0 0 - 0 0 - 2 3 5 1 1 0 1 2 -4
+p514
+aVKendall Gill MIN 01/04/2003 MIN vs. UTA L 31 8 3 8 37.5 0 0 - 2 2 100.0 1 3 4 4 3 0 0 1 -5
+p515
+aVRasho Nesterovic MIN 01/04/2003 MIN vs. UTA L 28 15 7 9 77.8 0 0 - 1 3 33.3 1 3 4 4 0 1 1 4 -4
+p516
+aVTroy Hudson MIN 01/04/2003 MIN vs. UTA L 29 17 6 13 46.2 3 6 50.0 2 2 100.0 0 1 1 2 0 0 0 1 1
+p517
+aVJoe Smith MIN 12/30/2002 MIN vs. PHX W 21 10 4 10 40.0 0 0 - 2 2 100.0 6 2 8 2 0 1 1 6 23
+p518
+aVGary Trent MIN 12/30/2002 MIN vs. PHX W 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 2 1 1 4 -12
+p519
+aVTroy Hudson MIN 12/30/2002 MIN vs. PHX W 38 19 6 11 54.5 2 4 50.0 5 5 100.0 0 1 1 3 2 0 2 1 1
+p520
+aVKendall Gill MIN 12/30/2002 MIN vs. PHX W 42 18 7 18 38.9 1 2 50.0 3 4 75.0 1 6 7 2 0 0 4 3 2
+p521
+aVRasho Nesterovic MIN 12/30/2002 MIN vs. PHX W 16 8 4 5 80.0 0 0 - 0 0 - 0 3 3 0 0 1 1 6 6
+p522
+aVReggie Slater MIN 12/30/2002 MIN vs. PHX W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -2
+p523
+aVLoren Woods MIN 12/30/2002 MIN vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p524
+aVMarc Jackson MIN 12/30/2002 MIN vs. PHX W 21 14 6 13 46.2 0 0 - 2 2 100.0 2 2 4 2 0 1 1 2 -11
+p525
+aVKevin Garnett MIN 12/30/2002 MIN vs. PHX W 39 22 7 16 43.8 0 1 0.0 8 8 100.0 3 11 14 5 1 3 1 4 11
+p526
+aVAnthony Peeler MIN 12/30/2002 MIN vs. PHX W 26 2 1 3 33.3 0 0 - 0 0 - 2 1 3 5 0 0 2 2 2
+p527
+aVRod Strickland MIN 12/30/2002 MIN vs. PHX W 15 7 3 7 42.9 0 2 0.0 1 2 50.0 0 0 0 5 5 0 0 2 8
+p528
+aVRasho Nesterovic MIN 12/28/2002 MIN @ DET L 28 4 2 5 40.0 0 0 - 0 0 - 0 1 1 3 1 0 0 2 -9
+p529
+aVAnthony Peeler MIN 12/28/2002 MIN @ DET L 21 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 1 0 0 0 2 -19
+p530
+aVReggie Slater MIN 12/28/2002 MIN @ DET L 10 4 0 0 - 0 0 - 4 6 66.7 1 3 4 0 0 1 0 0 -5
+p531
+aVTroy Hudson MIN 12/28/2002 MIN @ DET L 32 16 6 12 50.0 1 4 25.0 3 4 75.0 0 1 1 3 1 0 2 2 -10
+p532
+aVRod Strickland MIN 12/28/2002 MIN @ DET L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -18
+p533
+aVGary Trent MIN 12/28/2002 MIN @ DET L 21 6 2 6 33.3 0 1 0.0 2 2 100.0 3 1 4 2 1 0 0 1 -11
+p534
+aVMarc Jackson MIN 12/28/2002 MIN @ DET L 27 17 5 10 50.0 0 0 - 7 7 100.0 2 3 5 0 0 2 2 2 -16
+p535
+aVIgor Rakocevic MIN 12/28/2002 MIN @ DET L 7 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -1
+p536
+aVLoren Woods MIN 12/28/2002 MIN @ DET L 9 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 0 1 0 2 0
+p537
+aVKendall Gill MIN 12/28/2002 MIN @ DET L 30 10 3 9 33.3 0 1 0.0 4 4 100.0 0 1 1 1 0 0 2 4 -8
+p538
+aVJoe Smith MIN 12/28/2002 MIN @ DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p539
+aVKevin Garnett MIN 12/28/2002 MIN @ DET L 38 20 8 20 40.0 0 0 - 4 5 80.0 2 11 13 0 1 1 2 1 -15
+p540
+aVReggie Slater MIN 12/27/2002 MIN @ CHI W 2 1 0 3 0.0 0 0 - 1 4 25.0 2 0 2 0 0 0 0 0 -1
+p541
+aVRod Strickland MIN 12/27/2002 MIN @ CHI W 16 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -16
+p542
+aVAnthony Peeler MIN 12/27/2002 MIN @ CHI W 22 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 3 0 0 0 1 6
+p543
+aVLoren Woods MIN 12/27/2002 MIN @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p544
+aVKendall Gill MIN 12/27/2002 MIN @ CHI W 37 17 7 13 53.8 0 1 0.0 3 3 100.0 1 6 7 3 2 0 1 4 13
+p545
+aVIgor Rakocevic MIN 12/27/2002 MIN @ CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p546
+aVMarc Jackson MIN 12/27/2002 MIN @ CHI W 15 6 3 8 37.5 0 0 - 0 0 - 0 4 4 1 0 0 0 2 -1
+p547
+aVRasho Nesterovic MIN 12/27/2002 MIN @ CHI W 36 23 10 14 71.4 0 0 - 3 3 100.0 1 6 7 0 0 3 1 2 22
+p548
+aVGary Trent MIN 12/27/2002 MIN @ CHI W 36 10 5 7 71.4 0 0 - 0 3 0.0 3 9 12 4 0 0 3 3 3
+p549
+aVJoe Smith MIN 12/27/2002 MIN @ CHI W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 3
+p550
+aVTroy Hudson MIN 12/27/2002 MIN @ CHI W 33 23 7 16 43.8 2 4 50.0 7 8 87.5 1 3 4 7 0 0 0 2 25
+p551
+aVKevin Garnett MIN 12/27/2002 MIN @ CHI W 40 25 7 16 43.8 1 2 50.0 10 11 90.9 4 11 15 10 3 2 5 3 13
+p552
+aVKevin Garnett MIN 12/21/2002 MIN vs. HOU W 41 27 10 20 50.0 0 1 0.0 7 7 100.0 1 10 11 5 0 1 1 2 17
+p553
+aVKendall Gill MIN 12/21/2002 MIN vs. HOU W 22 6 3 8 37.5 0 0 - 0 0 - 1 2 3 3 2 0 4 3 6
+p554
+aVGary Trent MIN 12/21/2002 MIN vs. HOU W 35 12 6 10 60.0 0 0 - 0 0 - 5 8 13 3 1 1 1 3 4
+p555
+aVJoe Smith MIN 12/21/2002 MIN vs. HOU W 18 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 2 2 0 1 1
+p556
+aVRasho Nesterovic MIN 12/21/2002 MIN vs. HOU W 26 10 5 9 55.6 0 0 - 0 0 - 0 2 2 1 2 2 0 5 6
+p557
+aVMarc Jackson MIN 12/21/2002 MIN vs. HOU W 20 10 4 10 40.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 4 4
+p558
+aVRod Strickland MIN 12/21/2002 MIN vs. HOU W 29 14 5 11 45.5 0 1 0.0 4 6 66.7 0 3 3 7 2 0 1 1 7
+p559
+aVAnthony Peeler MIN 12/21/2002 MIN vs. HOU W 27 0 0 3 0.0 0 0 - 0 0 - 0 4 4 3 0 0 0 1 8
+p560
+aVTroy Hudson MIN 12/21/2002 MIN vs. HOU W 21 15 5 9 55.6 5 8 62.5 0 0 - 0 0 0 5 0 0 1 2 7
+p561
+aVKevin Garnett MIN 12/20/2002 MIN @ BOS L 42 27 10 20 50.0 1 2 50.0 6 7 85.7 1 7 8 4 1 0 4 4 -11
+p562
+aVTroy Hudson MIN 12/20/2002 MIN @ BOS L 33 16 5 11 45.5 0 5 0.0 6 6 100.0 0 1 1 7 0 0 2 2 -1
+p563
+aVKendall Gill MIN 12/20/2002 MIN @ BOS L 26 6 3 10 30.0 0 1 0.0 0 0 - 1 5 6 4 1 0 2 5 -2
+p564
+aVRod Strickland MIN 12/20/2002 MIN @ BOS L 24 10 5 6 83.3 0 0 - 0 0 - 0 3 3 6 1 0 3 3 -13
+p565
+aVGary Trent MIN 12/20/2002 MIN @ BOS L 23 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 4 1 0 4 8
+p566
+aVAnthony Peeler MIN 12/20/2002 MIN @ BOS L 30 7 3 8 37.5 1 4 25.0 0 0 - 0 2 2 2 2 0 1 4 -15
+p567
+aVJoe Smith MIN 12/20/2002 MIN @ BOS L 19 8 4 9 44.4 0 0 - 0 0 - 0 2 2 2 0 4 0 2 -4
+p568
+aVMarc Jackson MIN 12/20/2002 MIN @ BOS L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -8
+p569
+aVRasho Nesterovic MIN 12/20/2002 MIN @ BOS L 35 19 8 13 61.5 0 0 - 3 3 100.0 6 7 13 1 0 0 1 4 1
+p570
+aVRod Strickland MIN 12/18/2002 MIN @ PHI L 34 15 6 9 66.7 0 0 - 3 3 100.0 0 3 3 6 4 0 4 5 4
+p571
+aVTroy Hudson MIN 12/18/2002 MIN @ PHI L 36 10 4 13 30.8 0 2 0.0 2 2 100.0 0 1 1 3 0 0 2 4 -4
+p572
+aVMarc Jackson MIN 12/18/2002 MIN @ PHI L 15 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 2
+p573
+aVRasho Nesterovic MIN 12/18/2002 MIN @ PHI L 31 19 9 14 64.3 0 0 - 1 1 100.0 1 6 7 1 0 5 3 2 -7
+p574
+aVKevin Garnett MIN 12/18/2002 MIN @ PHI L 41 24 8 17 47.1 1 2 50.0 7 8 87.5 7 9 16 4 1 0 7 3 -2
+p575
+aVGary Trent MIN 12/18/2002 MIN @ PHI L 8 4 1 4 25.0 0 0 - 2 3 66.7 1 1 2 0 0 0 2 0 -7
+p576
+aVJoe Smith MIN 12/18/2002 MIN @ PHI L 14 6 1 5 20.0 0 0 - 4 4 100.0 1 1 2 1 0 0 1 0 -1
+p577
+aVAnthony Peeler MIN 12/18/2002 MIN @ PHI L 33 6 2 8 25.0 2 7 28.6 0 0 - 1 7 8 6 0 0 1 3 -10
+p578
+aVKendall Gill MIN 12/18/2002 MIN @ PHI L 25 2 1 8 12.5 0 1 0.0 0 0 - 1 3 4 2 1 0 2 4 0
+p579
+aVReggie Slater MIN 12/18/2002 MIN @ PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p580
+aVTroy Hudson MIN 12/17/2002 MIN vs. LAL W 24 7 3 10 30.0 1 4 25.0 0 0 - 2 1 3 10 0 0 1 0 6
+p581
+aVReggie Slater MIN 12/17/2002 MIN vs. LAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p582
+aVRasho Nesterovic MIN 12/17/2002 MIN vs. LAL W 24 10 5 10 50.0 0 0 - 0 1 0.0 1 3 4 0 0 0 0 2 -1
+p583
+aVJoe Smith MIN 12/17/2002 MIN vs. LAL W 27 5 2 4 50.0 0 0 - 1 2 50.0 1 12 13 0 0 2 2 4 16
+p584
+aVGary Trent MIN 12/17/2002 MIN vs. LAL W 21 3 1 4 25.0 0 0 - 1 2 50.0 2 4 6 1 0 0 1 1 0
+p585
+aVLoren Woods MIN 12/17/2002 MIN vs. LAL W 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p586
+aVKendall Gill MIN 12/17/2002 MIN vs. LAL W 27 11 5 7 71.4 1 1 100.0 0 0 - 0 1 1 4 1 0 0 4 5
+p587
+aVAnthony Peeler MIN 12/17/2002 MIN vs. LAL W 26 10 4 10 40.0 2 6 33.3 0 0 - 0 2 2 5 1 0 0 2 17
+p588
+aVIgor Rakocevic MIN 12/17/2002 MIN vs. LAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p589
+aVMarc Jackson MIN 12/17/2002 MIN vs. LAL W 22 13 6 11 54.5 0 0 - 1 2 50.0 1 2 3 1 0 0 1 2 17
+p590
+aVRod Strickland MIN 12/17/2002 MIN vs. LAL W 24 10 3 6 50.0 0 0 - 4 4 100.0 0 2 2 6 0 0 3 1 10
+p591
+aVKevin Garnett MIN 12/17/2002 MIN vs. LAL W 39 23 10 14 71.4 1 2 50.0 2 3 66.7 1 10 11 3 0 1 3 0 10
+p592
+aVKevin Garnett MIN 12/14/2002 MIN vs. POR L 47 21 9 27 33.3 0 2 0.0 3 5 60.0 2 6 8 4 2 1 2 2 -5
+p593
+aVRasho Nesterovic MIN 12/14/2002 MIN vs. POR L 35 10 5 12 41.7 0 0 - 0 2 0.0 3 4 7 2 0 0 4 5 -8
+p594
+aVRod Strickland MIN 12/14/2002 MIN vs. POR L 15 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 3 0 0 1 0 2
+p595
+aVTroy Hudson MIN 12/14/2002 MIN vs. POR L 38 14 6 17 35.3 0 3 0.0 2 2 100.0 0 0 0 7 1 0 4 0 -8
+p596
+aVGary Trent MIN 12/14/2002 MIN vs. POR L 18 6 3 5 60.0 0 0 - 0 0 - 3 2 5 2 1 1 0 1 4
+p597
+aVJoe Smith MIN 12/14/2002 MIN vs. POR L 34 10 2 7 28.6 0 0 - 6 6 100.0 6 5 11 1 1 5 3 3 -12
+p598
+aVAnthony Peeler MIN 12/14/2002 MIN vs. POR L 41 13 5 9 55.6 1 3 33.3 2 3 66.7 0 5 5 3 3 0 0 4 0
+p599
+aVMarc Jackson MIN 12/14/2002 MIN vs. POR L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -3
+p600
+aVKendall Gill MIN 12/14/2002 MIN vs. POR L 27 11 5 12 41.7 0 0 - 1 2 50.0 3 4 7 3 1 0 2 6 0
+p601
+aVLoren Woods MIN 12/12/2002 MIN vs. ATL W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -6
+p602
+aVKendall Gill MIN 12/12/2002 MIN vs. ATL W 33 11 5 16 31.3 0 0 - 1 3 33.3 4 4 8 5 2 0 0 0 11
+p603
+aVTroy Hudson MIN 12/12/2002 MIN vs. ATL W 28 18 5 11 45.5 3 4 75.0 5 5 100.0 0 2 2 5 0 1 4 0 16
+p604
+aVAnthony Peeler MIN 12/12/2002 MIN vs. ATL W 22 8 3 6 50.0 2 2 100.0 0 0 - 2 1 3 3 1 1 1 2 2
+p605
+aVJoe Smith MIN 12/12/2002 MIN vs. ATL W 30 15 6 8 75.0 0 0 - 3 5 60.0 4 2 6 0 0 3 1 3 15
+p606
+aVRod Strickland MIN 12/12/2002 MIN vs. ATL W 18 5 0 3 0.0 0 1 0.0 5 6 83.3 0 2 2 4 0 0 1 0 8
+p607
+aVIgor Rakocevic MIN 12/12/2002 MIN vs. ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p608
+aVGary Trent MIN 12/12/2002 MIN vs. ATL W 19 6 3 5 60.0 0 0 - 0 0 - 1 3 4 2 0 1 1 4 3
+p609
+aVRasho Nesterovic MIN 12/12/2002 MIN vs. ATL W 31 18 9 13 69.2 0 0 - 0 0 - 4 2 6 0 0 1 0 3 18
+p610
+aVKevin Garnett MIN 12/12/2002 MIN vs. ATL W 37 21 9 17 52.9 2 2 100.0 1 2 50.0 3 5 8 9 0 2 0 0 29
+p611
+aVReggie Slater MIN 12/12/2002 MIN vs. ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p612
+aVMarc Jackson MIN 12/12/2002 MIN vs. ATL W 14 9 2 5 40.0 0 0 - 5 6 83.3 1 1 2 2 0 1 1 4 6
+p613
+aVKevin Garnett MIN 12/09/2002 MIN @ DEN W 39 20 8 16 50.0 0 0 - 4 7 57.1 1 12 13 8 2 2 4 4 11
+p614
+aVJoe Smith MIN 12/09/2002 MIN @ DEN W 26 10 2 4 50.0 0 0 - 6 8 75.0 3 8 11 0 0 3 1 2 0
+p615
+aVKendall Gill MIN 12/09/2002 MIN @ DEN W 36 6 2 9 22.2 0 0 - 2 2 100.0 0 4 4 2 1 0 0 2 8
+p616
+aVAnthony Peeler MIN 12/09/2002 MIN @ DEN W 18 5 2 7 28.6 1 2 50.0 0 0 - 1 3 4 1 0 0 0 2 -5
+p617
+aVLoren Woods MIN 12/09/2002 MIN @ DEN W 8 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 0 5
+p618
+aVRasho Nesterovic MIN 12/09/2002 MIN @ DEN W 25 12 5 8 62.5 0 0 - 2 4 50.0 2 1 3 3 0 4 2 5 -11
+p619
+aVReggie Slater MIN 12/09/2002 MIN @ DEN W 7 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -1
+p620
+aVRod Strickland MIN 12/09/2002 MIN @ DEN W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 5 0 0 2 0 -6
+p621
+aVTroy Hudson MIN 12/09/2002 MIN @ DEN W 35 22 7 14 50.0 2 4 50.0 6 6 100.0 1 2 3 3 0 0 3 3 14
+p622
+aVGary Trent MIN 12/09/2002 MIN @ DEN W 19 3 1 4 25.0 0 0 - 1 2 50.0 4 2 6 1 0 0 0 1 10
+p623
+aVMarc Jackson MIN 12/09/2002 MIN @ DEN W 14 9 2 5 40.0 0 0 - 5 6 83.3 1 1 2 0 0 1 1 2 15
+p624
+aVJoe Smith MIN 12/07/2002 MIN @ LAC L 29 4 1 6 16.7 0 0 - 2 2 100.0 3 4 7 1 1 3 1 2 -3
+p625
+aVIgor Rakocevic MIN 12/07/2002 MIN @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p626
+aVTroy Hudson MIN 12/07/2002 MIN @ LAC L 33 13 5 13 38.5 0 2 0.0 3 4 75.0 0 1 1 5 2 0 1 0 -17
+p627
+aVAnthony Peeler MIN 12/07/2002 MIN @ LAC L 23 4 1 8 12.5 1 4 25.0 1 1 100.0 0 4 4 1 0 0 0 1 -11
+p628
+aVReggie Slater MIN 12/07/2002 MIN @ LAC L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p629
+aVKendall Gill MIN 12/07/2002 MIN @ LAC L 31 16 8 12 66.7 0 1 0.0 0 0 - 0 0 0 4 0 1 2 2 -13
+p630
+aVLoren Woods MIN 12/07/2002 MIN @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p631
+aVRod Strickland MIN 12/07/2002 MIN @ LAC L 24 7 3 9 33.3 0 2 0.0 1 1 100.0 1 2 3 8 3 0 3 4 1
+p632
+aVRasho Nesterovic MIN 12/07/2002 MIN @ LAC L 25 8 4 10 40.0 0 0 - 0 0 - 1 3 4 5 0 0 4 2 -17
+p633
+aVKevin Garnett MIN 12/07/2002 MIN @ LAC L 38 19 8 13 61.5 0 0 - 3 4 75.0 5 9 14 5 1 3 4 4 -12
+p634
+aVMarc Jackson MIN 12/07/2002 MIN @ LAC L 19 10 5 7 71.4 0 0 - 0 0 - 1 5 6 0 0 0 1 3 7
+p635
+aVGary Trent MIN 12/07/2002 MIN @ LAC L 15 7 3 5 60.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 4 -9
+p636
+aVRasho Nesterovic MIN 12/05/2002 MIN @ GSW W 29 14 7 12 58.3 0 0 - 0 0 - 0 3 3 3 3 0 0 3 5
+p637
+aVGary Trent MIN 12/05/2002 MIN @ GSW W 13 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 4 0 -4
+p638
+aVKendall Gill MIN 12/05/2002 MIN @ GSW W 35 19 6 12 50.0 0 0 - 7 7 100.0 1 2 3 3 1 0 1 5 10
+p639
+aVMarc Jackson MIN 12/05/2002 MIN @ GSW W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p640
+aVAnthony Peeler MIN 12/05/2002 MIN @ GSW W 29 17 8 13 61.5 1 1 100.0 0 0 - 2 2 4 1 0 0 1 2 18
+p641
+aVIgor Rakocevic MIN 12/05/2002 MIN @ GSW W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p642
+aVReggie Slater MIN 12/05/2002 MIN @ GSW W 3 5 2 4 50.0 0 0 - 1 2 50.0 3 0 3 0 0 0 0 2 0
+p643
+aVTroy Hudson MIN 12/05/2002 MIN @ GSW W 24 5 2 9 22.2 1 3 33.3 0 0 - 2 1 3 4 0 0 3 3 6
+p644
+aVRod Strickland MIN 12/05/2002 MIN @ GSW W 24 12 6 11 54.5 0 0 - 0 0 - 1 2 3 8 3 1 0 2 10
+p645
+aVJoe Smith MIN 12/05/2002 MIN @ GSW W 34 15 6 11 54.5 0 0 - 3 4 75.0 5 5 10 3 0 0 2 2 22
+p646
+aVKevin Garnett MIN 12/05/2002 MIN @ GSW W 43 21 8 16 50.0 0 0 - 5 7 71.4 4 11 15 9 2 2 3 5 11
+p647
+aVAnthony Peeler MIN 12/03/2002 MIN @ SAC L 22 8 4 10 40.0 0 2 0.0 0 0 - 2 1 3 1 0 0 1 0 -10
+p648
+aVTroy Hudson MIN 12/03/2002 MIN @ SAC L 27 19 8 15 53.3 1 3 33.3 2 2 100.0 1 2 3 8 2 0 2 0 -6
+p649
+aVRod Strickland MIN 12/03/2002 MIN @ SAC L 24 10 4 9 44.4 1 1 100.0 1 2 50.0 2 1 3 4 1 0 2 1 -11
+p650
+aVIgor Rakocevic MIN 12/03/2002 MIN @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p651
+aVReggie Slater MIN 12/03/2002 MIN @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p652
+aVKendall Gill MIN 12/03/2002 MIN @ SAC L 39 11 5 13 38.5 0 1 0.0 1 2 50.0 0 5 5 0 1 0 0 2 -10
+p653
+aVRasho Nesterovic MIN 12/03/2002 MIN @ SAC L 36 10 5 11 45.5 0 0 - 0 0 - 0 7 7 0 0 1 0 5 -5
+p654
+aVGary Trent MIN 12/03/2002 MIN @ SAC L 17 6 3 5 60.0 0 0 - 0 0 - 0 4 4 2 0 0 2 2 -4
+p655
+aVKevin Garnett MIN 12/03/2002 MIN @ SAC L 43 18 6 14 42.9 1 2 50.0 5 6 83.3 4 12 16 9 1 2 6 4 -4
+p656
+aVJoe Smith MIN 12/03/2002 MIN @ SAC L 27 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 5 -4
+p657
+aVMarc Jackson MIN 12/03/2002 MIN @ SAC L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p658
+aVLoren Woods MIN 12/01/2002 MIN @ LAL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p659
+aVMarc Jackson MIN 12/01/2002 MIN @ LAL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p660
+aVJoe Smith MIN 12/01/2002 MIN @ LAL W 32 14 3 6 50.0 0 0 - 8 12 66.7 1 5 6 3 0 2 0 5 11
+p661
+aVRasho Nesterovic MIN 12/01/2002 MIN @ LAL W 31 10 5 8 62.5 0 0 - 0 0 - 1 7 8 1 0 1 1 6 4
+p662
+aVGary Trent MIN 12/01/2002 MIN @ LAL W 16 10 5 9 55.6 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -8
+p663
+aVKevin Garnett MIN 12/01/2002 MIN @ LAL W 39 23 8 15 53.3 0 1 0.0 7 9 77.8 4 11 15 6 1 0 2 1 -8
+p664
+aVReggie Slater MIN 12/01/2002 MIN @ LAL W 9 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 3 13
+p665
+aVRod Strickland MIN 12/01/2002 MIN @ LAL W 20 8 2 7 28.6 0 0 - 4 4 100.0 0 3 3 5 1 0 0 0 8
+p666
+aVAnthony Peeler MIN 12/01/2002 MIN @ LAL W 30 17 7 12 58.3 3 3 100.0 0 0 - 0 2 2 0 0 0 0 2 9
+p667
+aVTroy Hudson MIN 12/01/2002 MIN @ LAL W 28 16 7 13 53.8 2 3 66.7 0 0 - 0 0 0 4 1 0 2 1 -5
+p668
+aVKendall Gill MIN 12/01/2002 MIN @ LAL W 29 9 2 8 25.0 1 1 100.0 4 6 66.7 1 1 2 5 0 0 2 2 -5
+p669
+aVGary Trent MIN 11/29/2002 MIN @ UTA L 16 4 2 6 33.3 0 0 - 0 1 0.0 4 0 4 0 1 0 0 2 -3
+p670
+aVRasho Nesterovic MIN 11/29/2002 MIN @ UTA L 33 16 7 15 46.7 0 0 - 2 2 100.0 1 4 5 2 1 2 1 2 -9
+p671
+aVReggie Slater MIN 11/29/2002 MIN @ UTA L 2 1 0 0 - 0 0 - 1 4 25.0 1 0 1 0 0 0 0 0 -1
+p672
+aVAnthony Peeler MIN 11/29/2002 MIN @ UTA L 26 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 2 2 0 1 2 -9
+p673
+aVKevin Garnett MIN 11/29/2002 MIN @ UTA L 42 21 9 19 47.4 1 1 100.0 2 5 40.0 4 9 13 4 0 1 2 0 -17
+p674
+aVJoe Smith MIN 11/29/2002 MIN @ UTA L 30 8 3 8 37.5 0 0 - 2 2 100.0 3 4 7 0 0 2 2 4 -14
+p675
+aVMarc Jackson MIN 11/29/2002 MIN @ UTA L 7 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 1 2 -7
+p676
+aVRod Strickland MIN 11/29/2002 MIN @ UTA L 28 12 6 10 60.0 0 0 - 0 0 - 0 2 2 4 1 0 3 1 -17
+p677
+aVTroy Hudson MIN 11/29/2002 MIN @ UTA L 26 10 4 10 40.0 0 1 0.0 2 2 100.0 0 2 2 5 0 1 1 4 -9
+p678
+aVIgor Rakocevic MIN 11/29/2002 MIN @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p679
+aVKendall Gill MIN 11/29/2002 MIN @ UTA L 28 2 0 8 0.0 0 1 0.0 2 4 50.0 2 4 6 1 0 0 0 5 -3
+p680
+aVJoe Smith MIN 11/27/2002 MIN vs. SAC W 20 8 4 8 50.0 0 0 - 0 0 - 3 0 3 1 0 0 1 4 -2
+p681
+aVLoren Woods MIN 11/27/2002 MIN vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p682
+aVKendall Gill MIN 11/27/2002 MIN vs. SAC W 33 15 5 12 41.7 0 1 0.0 5 5 100.0 0 3 3 2 1 1 4 4 22
+p683
+aVRod Strickland MIN 11/27/2002 MIN vs. SAC W 18 2 1 8 12.5 0 0 - 0 0 - 0 2 2 4 1 1 0 3 -1
+p684
+aVKevin Garnett MIN 11/27/2002 MIN vs. SAC W 40 20 7 17 41.2 0 0 - 6 9 66.7 4 9 13 10 2 0 0 2 25
+p685
+aVReggie Slater MIN 11/27/2002 MIN vs. SAC W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 2
+p686
+aVGary Trent MIN 11/27/2002 MIN vs. SAC W 31 14 6 10 60.0 0 0 - 2 2 100.0 5 5 10 0 1 0 0 3 16
+p687
+aVAnthony Peeler MIN 11/27/2002 MIN vs. SAC W 18 2 1 7 14.3 0 1 0.0 0 0 - 1 3 4 1 1 0 0 1 -15
+p688
+aVIgor Rakocevic MIN 11/27/2002 MIN vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p689
+aVTroy Hudson MIN 11/27/2002 MIN vs. SAC W 29 13 5 10 50.0 1 4 25.0 2 2 100.0 0 2 2 3 0 1 5 4 17
+p690
+aVRasho Nesterovic MIN 11/27/2002 MIN vs. SAC W 40 10 5 15 33.3 0 0 - 0 0 - 1 9 10 1 1 2 2 2 22
+p691
+aVMarc Jackson MIN 11/27/2002 MIN vs. SAC W 7 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 1 1 1 3 -8
+p692
+aVRod Strickland MIN 11/24/2002 MIN @ NYK W 25 13 3 6 50.0 0 0 - 7 11 63.6 2 2 4 7 3 0 2 1 24
+p693
+aVKevin Garnett MIN 11/24/2002 MIN @ NYK W 41 25 10 18 55.6 0 1 0.0 5 8 62.5 3 12 15 7 3 1 5 1 16
+p694
+aVIgor Rakocevic MIN 11/24/2002 MIN @ NYK W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p695
+aVMarc Jackson MIN 11/24/2002 MIN @ NYK W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 8
+p696
+aVRasho Nesterovic MIN 11/24/2002 MIN @ NYK W 23 9 4 10 40.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 1
+p697
+aVJoe Smith MIN 11/24/2002 MIN @ NYK W 25 17 6 9 66.7 0 0 - 5 6 83.3 3 2 5 1 1 4 1 4 21
+p698
+aVAnthony Peeler MIN 11/24/2002 MIN @ NYK W 22 10 5 9 55.6 0 2 0.0 0 0 - 0 3 3 1 1 0 1 1 0
+p699
+aVKendall Gill MIN 11/24/2002 MIN @ NYK W 36 10 5 9 55.6 0 0 - 0 0 - 0 4 4 3 0 0 3 3 21
+p700
+aVGary Trent MIN 11/24/2002 MIN @ NYK W 29 14 6 8 75.0 0 0 - 2 2 100.0 0 5 5 1 1 2 1 3 3
+p701
+aVTroy Hudson MIN 11/24/2002 MIN @ NYK W 23 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 8 1 0 1 0 -6
+p702
+aVAnthony Peeler MIN 11/23/2002 MIN vs. NJN L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -12
+p703
+aVJoe Smith MIN 11/23/2002 MIN vs. NJN L 17 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 0 0 1 -12
+p704
+aVReggie Slater MIN 11/23/2002 MIN vs. NJN L 4 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 5
+p705
+aVGary Trent MIN 11/23/2002 MIN vs. NJN L 22 9 4 8 50.0 0 0 - 1 2 50.0 5 4 9 1 0 1 0 3 -5
+p706
+aVIgor Rakocevic MIN 11/23/2002 MIN vs. NJN L 7 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 0 5
+p707
+aVKevin Garnett MIN 11/23/2002 MIN vs. NJN L 40 19 9 18 50.0 0 2 0.0 1 2 50.0 3 12 15 4 1 1 4 3 -13
+p708
+aVTroy Hudson MIN 11/23/2002 MIN vs. NJN L 30 12 4 11 36.4 0 2 0.0 4 4 100.0 0 1 1 4 0 0 5 1 -8
+p709
+aVRasho Nesterovic MIN 11/23/2002 MIN vs. NJN L 33 10 4 13 30.8 0 0 - 2 2 100.0 5 3 8 1 3 2 3 1 -4
+p710
+aVLoren Woods MIN 11/23/2002 MIN vs. NJN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p711
+aVKendall Gill MIN 11/23/2002 MIN vs. NJN L 32 8 3 13 23.1 0 0 - 2 2 100.0 1 3 4 3 2 1 1 1 -6
+p712
+aVRod Strickland MIN 11/23/2002 MIN vs. NJN L 24 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 5 1 0 1 3 -10
+p713
+aVMarc Jackson MIN 11/23/2002 MIN vs. NJN L 11 7 2 5 40.0 0 0 - 3 7 42.9 3 0 3 0 0 1 0 0 -15
+p714
+aVTroy Hudson MIN 11/20/2002 MIN @ ATL W 24 20 8 12 66.7 2 5 40.0 2 3 66.7 0 2 2 3 0 0 2 1 -2
+p715
+aVReggie Slater MIN 11/20/2002 MIN @ ATL W 0 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p716
+aVIgor Rakocevic MIN 11/20/2002 MIN @ ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p717
+aVJoe Smith MIN 11/20/2002 MIN @ ATL W 27 9 4 7 57.1 0 0 - 1 2 50.0 3 4 7 0 1 1 0 5 2
+p718
+aVGary Trent MIN 11/20/2002 MIN @ ATL W 18 10 5 7 71.4 0 0 - 0 0 - 1 2 3 1 1 0 0 3 11
+p719
+aVKevin Garnett MIN 11/20/2002 MIN @ ATL W 40 15 5 19 26.3 0 1 0.0 5 9 55.6 2 10 12 4 1 2 1 3 10
+p720
+aVRod Strickland MIN 11/20/2002 MIN @ ATL W 23 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 5 3 0 2 2 15
+p721
+aVAnthony Peeler MIN 11/20/2002 MIN @ ATL W 31 13 4 7 57.1 2 3 66.7 3 3 100.0 0 1 1 5 1 0 1 1 12
+p722
+aVMarc Jackson MIN 11/20/2002 MIN @ ATL W 26 18 7 12 58.3 0 0 - 4 6 66.7 2 5 7 0 0 0 3 3 9
+p723
+aVKendall Gill MIN 11/20/2002 MIN @ ATL W 29 3 1 8 12.5 0 1 0.0 1 2 50.0 2 5 7 0 0 0 0 0 -4
+p724
+aVRasho Nesterovic MIN 11/20/2002 MIN @ ATL W 20 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 2 0 2 2 4 -1
+p725
+aVGary Trent MIN 11/19/2002 MIN vs. MEM W 31 19 9 14 64.3 0 0 - 1 7 14.3 2 4 6 1 0 0 0 2 5
+p726
+aVTroy Hudson MIN 11/19/2002 MIN vs. MEM W 40 14 4 14 28.6 2 4 50.0 4 4 100.0 3 1 4 7 0 1 5 3 8
+p727
+aVRasho Nesterovic MIN 11/19/2002 MIN vs. MEM W 28 10 5 9 55.6 0 0 - 0 0 - 3 3 6 2 1 1 0 6 8
+p728
+aVKevin Garnett MIN 11/19/2002 MIN vs. MEM W 47 34 11 20 55.0 0 1 0.0 12 15 80.0 4 18 22 6 1 1 1 4 14
+p729
+aVRod Strickland MIN 11/19/2002 MIN vs. MEM W 13 0 0 3 0.0 0 0 - 0 0 - 1 0 1 5 0 0 1 1 -4
+p730
+aVAnthony Peeler MIN 11/19/2002 MIN vs. MEM W 33 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 2 0 0 0 0 -3
+p731
+aVJoe Smith MIN 11/19/2002 MIN vs. MEM W 19 12 4 8 50.0 0 0 - 4 4 100.0 2 2 4 0 0 1 4 6 -6
+p732
+aVLoren Woods MIN 11/19/2002 MIN vs. MEM W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 1 1 0 2 -8
+p733
+aVKendall Gill MIN 11/19/2002 MIN vs. MEM W 44 14 5 13 38.5 2 3 66.7 2 4 50.0 1 7 8 4 1 0 1 4 6
+p734
+aVKendall Gill MIN 11/16/2002 MIN vs. IND L 16 10 4 8 50.0 0 1 0.0 2 3 66.7 1 1 2 0 0 0 1 4 -2
+p735
+aVRod Strickland MIN 11/16/2002 MIN vs. IND L 15 0 0 4 0.0 0 0 - 0 0 - 0 4 4 1 0 0 1 0 -2
+p736
+aVRasho Nesterovic MIN 11/16/2002 MIN vs. IND L 33 16 8 13 61.5 0 0 - 0 1 0.0 0 5 5 0 2 1 3 6 -6
+p737
+aVGary Trent MIN 11/16/2002 MIN vs. IND L 17 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 1 1 1 1 -14
+p738
+aVMarc Jackson MIN 11/16/2002 MIN vs. IND L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 6
+p739
+aVTroy Hudson MIN 11/16/2002 MIN vs. IND L 33 18 9 15 60.0 0 1 0.0 0 0 - 0 4 4 6 0 0 4 2 -2
+p740
+aVKevin Garnett MIN 11/16/2002 MIN vs. IND L 41 27 8 18 44.4 2 2 100.0 9 10 90.0 5 4 9 4 2 4 4 5 -2
+p741
+aVReggie Slater MIN 11/16/2002 MIN vs. IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p742
+aVWally Szczerbiak MIN 11/16/2002 MIN vs. IND L 37 19 6 15 40.0 0 3 0.0 7 7 100.0 1 3 4 2 2 0 1 3 -2
+p743
+aVLoren Woods MIN 11/16/2002 MIN vs. IND L 11 4 2 2 100.0 0 0 - 0 0 - 2 0 2 1 0 0 1 0 -5
+p744
+aVIgor Rakocevic MIN 11/16/2002 MIN vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p745
+aVAnthony Peeler MIN 11/16/2002 MIN vs. IND L 27 3 1 5 20.0 0 2 0.0 1 2 50.0 0 5 5 5 1 0 0 2 11
+p746
+aVGary Trent MIN 11/15/2002 MIN @ MEM W 18 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 1 1 4 -4
+p747
+aVLoren Woods MIN 11/15/2002 MIN @ MEM W 19 2 1 4 25.0 0 0 - 0 0 - 1 9 10 1 3 1 1 4 4
+p748
+aVRod Strickland MIN 11/15/2002 MIN @ MEM W 15 5 1 3 33.3 0 0 - 3 5 60.0 0 1 1 1 0 0 2 0 -2
+p749
+aVAnthony Peeler MIN 11/15/2002 MIN @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p750
+aVRasho Nesterovic MIN 11/15/2002 MIN @ MEM W 30 12 6 10 60.0 0 0 - 0 0 - 2 5 7 1 1 3 2 4 1
+p751
+aVWally Szczerbiak MIN 11/15/2002 MIN @ MEM W 38 22 8 12 66.7 1 1 100.0 5 6 83.3 1 1 2 1 2 0 4 2 -7
+p752
+aVTroy Hudson MIN 11/15/2002 MIN @ MEM W 33 10 4 12 33.3 0 2 0.0 2 2 100.0 0 0 0 7 1 0 0 0 6
+p753
+aVKendall Gill MIN 11/15/2002 MIN @ MEM W 34 12 3 7 42.9 0 1 0.0 6 7 85.7 1 6 7 0 2 1 2 3 13
+p754
+aVMarc Jackson MIN 11/15/2002 MIN @ MEM W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 2
+p755
+aVKevin Garnett MIN 11/15/2002 MIN @ MEM W 41 28 12 23 52.2 0 0 - 4 6 66.7 2 6 8 6 1 2 1 2 11
+p756
+aVTroy Hudson MIN 11/13/2002 MIN @ NOH L 29 14 6 11 54.5 1 2 50.0 1 2 50.0 0 2 2 8 2 0 1 2 0
+p757
+aVMarc Jackson MIN 11/13/2002 MIN @ NOH L 10 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 -5
+p758
+aVKevin Garnett MIN 11/13/2002 MIN @ NOH L 42 16 6 15 40.0 0 0 - 4 8 50.0 1 10 11 6 5 1 2 2 7
+p759
+aVReggie Slater MIN 11/13/2002 MIN @ NOH L 18 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 3
+p760
+aVLoren Woods MIN 11/13/2002 MIN @ NOH L 13 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 1
+p761
+aVWally Szczerbiak MIN 11/13/2002 MIN @ NOH L 25 13 4 10 40.0 0 1 0.0 5 5 100.0 3 0 3 1 0 1 3 3 -10
+p762
+aVRasho Nesterovic MIN 11/13/2002 MIN @ NOH L 40 12 6 17 35.3 0 0 - 0 0 - 4 8 12 2 1 2 2 5 -3
+p763
+aVAnthony Peeler MIN 11/13/2002 MIN @ NOH L 10 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 3
+p764
+aVRod Strickland MIN 11/13/2002 MIN @ NOH L 19 16 7 8 87.5 0 0 - 2 2 100.0 2 0 2 2 1 0 0 1 -4
+p765
+aVKendall Gill MIN 11/13/2002 MIN @ NOH L 34 10 4 11 36.4 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 3 -12
+p766
+aVReggie Slater MIN 11/11/2002 MIN @ SAS L 5 2 1 2 50.0 0 0 - 0 2 0.0 1 0 1 0 2 0 0 1 3
+p767
+aVLoren Woods MIN 11/11/2002 MIN @ SAS L 23 2 1 3 33.3 0 0 - 0 0 - 1 6 7 0 0 0 1 3 -4
+p768
+aVIgor Rakocevic MIN 11/11/2002 MIN @ SAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 8
+p769
+aVKendall Gill MIN 11/11/2002 MIN @ SAS L 28 8 4 8 50.0 0 1 0.0 0 0 - 0 6 6 2 2 0 0 2 -14
+p770
+aVMarc Jackson MIN 11/11/2002 MIN @ SAS L 12 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 0
+p771
+aVRasho Nesterovic MIN 11/11/2002 MIN @ SAS L 38 16 8 17 47.1 0 0 - 0 0 - 1 3 4 0 1 3 1 3 -14
+p772
+aVAnthony Peeler MIN 11/11/2002 MIN @ SAS L 26 6 2 8 25.0 0 2 0.0 2 2 100.0 0 2 2 2 0 0 1 3 -17
+p773
+aVGary Trent MIN 11/11/2002 MIN @ SAS L 9 6 2 6 33.3 0 0 - 2 2 100.0 3 1 4 0 0 0 0 0 -1
+p774
+aVKevin Garnett MIN 11/11/2002 MIN @ SAS L 39 14 5 17 29.4 0 1 0.0 4 7 57.1 3 11 14 3 0 4 3 1 -17
+p775
+aVRod Strickland MIN 11/11/2002 MIN @ SAS L 19 7 1 6 16.7 0 0 - 5 6 83.3 1 1 2 2 1 0 1 0 -8
+p776
+aVTroy Hudson MIN 11/11/2002 MIN @ SAS L 34 10 5 12 41.7 0 1 0.0 0 0 - 1 2 3 5 0 0 6 1 -16
+p777
+aVRasho Nesterovic MIN 11/09/2002 MIN vs. BOS L 37 22 10 17 58.8 0 0 - 2 2 100.0 3 10 13 3 0 2 4 5 -15
+p778
+aVKevin Garnett MIN 11/09/2002 MIN vs. BOS L 42 24 7 20 35.0 1 1 100.0 9 9 100.0 2 9 11 6 1 1 2 1 9
+p779
+aVTroy Hudson MIN 11/09/2002 MIN vs. BOS L 40 22 7 20 35.0 0 3 0.0 8 8 100.0 2 3 5 4 0 0 2 2 -7
+p780
+aVKendall Gill MIN 11/09/2002 MIN vs. BOS L 33 15 6 14 42.9 1 2 50.0 2 2 100.0 1 5 6 1 1 0 1 2 -1
+p781
+aVIgor Rakocevic MIN 11/09/2002 MIN vs. BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p782
+aVGary Trent MIN 11/09/2002 MIN vs. BOS L 18 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 1 0 1 3 2 -11
+p783
+aVAnthony Peeler MIN 11/09/2002 MIN vs. BOS L 33 7 3 8 37.5 0 2 0.0 1 3 33.3 0 5 5 6 0 0 0 3 -3
+p784
+aVRod Strickland MIN 11/09/2002 MIN vs. BOS L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -5
+p785
+aVReggie Slater MIN 11/09/2002 MIN vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p786
+aVLoren Woods MIN 11/09/2002 MIN vs. BOS L 24 6 2 2 100.0 0 0 - 2 2 100.0 2 6 8 1 0 2 2 1 4
+p787
+aVRasho Nesterovic MIN 11/07/2002 MIN vs. MIL W 25 10 5 6 83.3 0 0 - 0 2 0.0 0 2 2 1 1 0 0 6 -3
+p788
+aVKendall Gill MIN 11/07/2002 MIN vs. MIL W 25 6 2 6 33.3 1 1 100.0 1 2 50.0 0 3 3 2 0 0 0 0 11
+p789
+aVAnthony Peeler MIN 11/07/2002 MIN vs. MIL W 14 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p790
+aVLoren Woods MIN 11/07/2002 MIN vs. MIL W 35 15 7 10 70.0 0 0 - 1 2 50.0 3 4 7 2 1 1 1 3 -1
+p791
+aVRod Strickland MIN 11/07/2002 MIN vs. MIL W 18 6 3 6 50.0 0 0 - 0 0 - 0 2 2 5 1 0 2 1 0
+p792
+aVGary Trent MIN 11/07/2002 MIN vs. MIL W 15 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -4
+p793
+aVKevin Garnett MIN 11/07/2002 MIN vs. MIL W 38 28 9 17 52.9 0 1 0.0 10 11 90.9 5 19 24 6 1 1 1 1 9
+p794
+aVReggie Slater MIN 11/07/2002 MIN vs. MIL W 5 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p795
+aVWally Szczerbiak MIN 11/07/2002 MIN vs. MIL W 35 19 6 13 46.2 3 7 42.9 4 4 100.0 0 0 0 3 1 1 2 1 6
+p796
+aVTroy Hudson MIN 11/07/2002 MIN vs. MIL W 30 15 5 13 38.5 1 3 33.3 4 5 80.0 0 1 1 11 0 0 4 3 4
+p797
+aVAnthony Peeler MIN 11/05/2002 MIN vs. WAS W 19 2 1 9 11.1 0 1 0.0 0 0 - 1 1 2 2 0 0 1 4 -3
+p798
+aVTroy Hudson MIN 11/05/2002 MIN vs. WAS W 35 17 7 13 53.8 2 4 50.0 1 2 50.0 0 1 1 5 0 0 2 3 3
+p799
+aVKevin Garnett MIN 11/05/2002 MIN vs. WAS W 42 17 7 16 43.8 0 0 - 3 3 100.0 3 13 16 4 2 3 6 3 11
+p800
+aVReggie Slater MIN 11/05/2002 MIN vs. WAS W 13 6 2 2 100.0 0 0 - 2 4 50.0 2 1 3 1 0 0 2 4 -2
+p801
+aVMarc Jackson MIN 11/05/2002 MIN vs. WAS W 5 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -6
+p802
+aVGary Trent MIN 11/05/2002 MIN vs. WAS W 22 4 2 4 50.0 0 0 - 0 0 - 3 3 6 2 3 0 1 2 10
+p803
+aVLoren Woods MIN 11/05/2002 MIN vs. WAS W 22 4 2 5 40.0 0 0 - 0 0 - 2 6 8 3 0 0 1 0 2
+p804
+aVIgor Rakocevic MIN 11/05/2002 MIN vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p805
+aVRasho Nesterovic MIN 11/05/2002 MIN vs. WAS W 33 11 5 10 50.0 0 0 - 1 2 50.0 1 5 6 1 0 3 0 3 5
+p806
+aVKendall Gill MIN 11/05/2002 MIN vs. WAS W 34 22 10 17 58.8 1 2 50.0 1 2 50.0 1 2 3 2 2 1 2 3 4
+p807
+aVRod Strickland MIN 11/05/2002 MIN vs. WAS W 14 2 1 5 20.0 0 0 - 0 0 - 0 4 4 3 0 0 1 0 0
+p808
+aVMarc Jackson MIN 11/04/2002 MIN @ NJN L 17 9 3 6 50.0 0 0 - 3 4 75.0 2 1 3 0 1 2 1 0 -9
+p809
+aVRasho Nesterovic MIN 11/04/2002 MIN @ NJN L 24 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 3 1 5 -3
+p810
+aVAnthony Peeler MIN 11/04/2002 MIN @ NJN L 36 8 4 12 33.3 0 3 0.0 0 0 - 1 4 5 4 1 0 2 2 -9
+p811
+aVGary Trent MIN 11/04/2002 MIN @ NJN L 22 4 1 2 50.0 0 0 - 2 3 66.7 0 2 2 0 0 2 2 2 -12
+p812
+aVKendall Gill MIN 11/04/2002 MIN @ NJN L 18 4 2 4 50.0 0 0 - 0 2 0.0 0 4 4 0 0 0 3 2 -15
+p813
+aVTroy Hudson MIN 11/04/2002 MIN @ NJN L 27 10 3 9 33.3 0 0 - 4 4 100.0 0 1 1 7 0 0 2 0 -17
+p814
+aVIgor Rakocevic MIN 11/04/2002 MIN @ NJN L 12 6 0 2 0.0 0 0 - 6 6 100.0 0 0 0 2 0 0 2 1 -4
+p815
+aVKevin Garnett MIN 11/04/2002 MIN @ NJN L 35 23 7 15 46.7 1 2 50.0 8 8 100.0 1 9 10 5 4 0 3 3 -20
+p816
+aVRod Strickland MIN 11/04/2002 MIN @ NJN L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 3 1 -11
+p817
+aVReggie Slater MIN 11/04/2002 MIN @ NJN L 13 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 2 -8
+p818
+aVLoren Woods MIN 11/04/2002 MIN @ NJN L 22 2 1 2 50.0 0 0 - 0 0 - 2 6 8 0 0 0 6 3 -12
+p819
+aVKendall Gill MIN 11/02/2002 MIN @ IND L 37 14 5 13 38.5 0 1 0.0 4 4 100.0 0 4 4 3 1 1 1 1 4
+p820
+aVRod Strickland MIN 11/02/2002 MIN @ IND L 18 13 6 8 75.0 0 0 - 1 2 50.0 0 2 2 1 0 0 2 2 7
+p821
+aVKevin Garnett MIN 11/02/2002 MIN @ IND L 41 12 4 16 25.0 0 0 - 4 6 66.7 2 8 10 2 4 0 0 1 -9
+p822
+aVAnthony Peeler MIN 11/02/2002 MIN @ IND L 24 5 2 8 25.0 0 1 0.0 1 1 100.0 1 2 3 2 0 0 1 2 -15
+p823
+aVRasho Nesterovic MIN 11/02/2002 MIN @ IND L 37 12 5 10 50.0 0 0 - 2 2 100.0 4 3 7 3 0 2 1 6 -9
+p824
+aVLoren Woods MIN 11/02/2002 MIN @ IND L 22 6 1 6 16.7 0 0 - 4 4 100.0 4 1 5 0 0 2 2 4 -11
+p825
+aVTroy Hudson MIN 11/02/2002 MIN @ IND L 31 13 5 12 41.7 1 3 33.3 2 4 50.0 0 3 3 2 0 0 4 4 -13
+p826
+aVGary Trent MIN 11/02/2002 MIN @ IND L 17 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 11
+p827
+aVMarc Jackson MIN 11/02/2002 MIN @ IND L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p828
+aVReggie Slater MIN 11/02/2002 MIN @ IND L 9 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 3 2
+p829
+aVKendall Gill MIN 11/01/2002 MIN vs. ORL W 19 8 4 7 57.1 0 0 - 0 0 - 0 2 2 2 2 1 3 6 -2
+p830
+aVRod Strickland MIN 11/01/2002 MIN vs. ORL W 13 0 0 0 - 0 0 - 0 0 - 0 2 2 3 0 0 3 0 3
+p831
+aVMarc Jackson MIN 11/01/2002 MIN vs. ORL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p832
+aVTroy Hudson MIN 11/01/2002 MIN vs. ORL W 36 19 8 17 47.1 3 4 75.0 0 0 - 2 2 4 2 0 0 2 1 3
+p833
+aVRasho Nesterovic MIN 11/01/2002 MIN vs. ORL W 15 4 0 6 0.0 0 0 - 4 4 100.0 3 2 5 2 0 0 0 4 2
+p834
+aVGary Trent MIN 11/01/2002 MIN vs. ORL W 21 11 4 7 57.1 0 0 - 3 4 75.0 3 4 7 3 0 0 0 5 4
+p835
+aVIgor Rakocevic MIN 11/01/2002 MIN vs. ORL W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 6
+p836
+aVAnthony Peeler MIN 11/01/2002 MIN vs. ORL W 36 16 6 18 33.3 4 6 66.7 0 0 - 0 6 6 3 0 1 0 5 0
+p837
+aVKevin Garnett MIN 11/01/2002 MIN vs. ORL W 44 23 8 19 42.1 0 0 - 7 8 87.5 2 12 14 10 1 1 4 3 2
+p838
+aVLoren Woods MIN 11/01/2002 MIN vs. ORL W 33 18 5 8 62.5 0 0 - 8 12 66.7 2 5 7 0 2 1 2 4 0
+p839
+aVReggie Slater MIN 11/01/2002 MIN vs. ORL W 12 6 1 3 33.3 0 0 - 4 7 57.1 2 3 5 1 1 0 0 4 8
+p840
+aVGary Trent MIN 10/30/2002 MIN vs. DEN W 24 9 3 7 42.9 0 0 - 3 5 60.0 0 3 3 2 2 1 1 3 -11
+p841
+aVReggie Slater MIN 10/30/2002 MIN vs. DEN W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 3 2 0
+p842
+aVLoren Woods MIN 10/30/2002 MIN vs. DEN W 27 2 1 8 12.5 0 0 - 0 0 - 0 8 8 3 1 1 1 1 17
+p843
+aVAnthony Peeler MIN 10/30/2002 MIN vs. DEN W 30 14 5 11 45.5 4 4 100.0 0 0 - 1 0 1 2 1 0 1 1 9
+p844
+aVRod Strickland MIN 10/30/2002 MIN vs. DEN W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 2
+p845
+aVKendall Gill MIN 10/30/2002 MIN vs. DEN W 18 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 2 1 0 1 1 -3
+p846
+aVKevin Garnett MIN 10/30/2002 MIN vs. DEN W 41 13 6 12 50.0 0 2 0.0 1 2 50.0 0 12 12 7 1 3 4 2 8
+p847
+aVMarc Jackson MIN 10/30/2002 MIN vs. DEN W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 5
+p848
+aVRasho Nesterovic MIN 10/30/2002 MIN vs. DEN W 37 10 4 12 33.3 0 1 0.0 2 4 50.0 4 6 10 1 1 0 1 3 -1
+p849
+aVTroy Hudson MIN 10/30/2002 MIN vs. DEN W 39 23 10 21 47.6 0 3 0.0 3 4 75.0 0 0 0 4 2 0 2 3 4
+p850
+a.

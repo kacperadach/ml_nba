@@ -1,0 +1,444 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVToney Douglas MIA 06/15/2014 MIA @ SAS L 2 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 2
+p2
+aVChris Andersen MIA 06/15/2014 MIA @ SAS L 18 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 1 1 0 5 -11
+p3
+aVChris Bosh MIA 06/15/2014 MIA @ SAS L 39 13 6 14 42.9 0 5 0.0 1 2 50.0 0 7 7 2 1 0 0 2 -20
+p4
+aVJames Jones MIA 06/15/2014 MIA @ SAS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p5
+aVUdonis Haslem MIA 06/15/2014 MIA @ SAS L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -17
+p6
+aVShane Battier MIA 06/15/2014 MIA @ SAS L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -5
+p7
+aVRay Allen MIA 06/15/2014 MIA @ SAS L 31 5 1 8 12.5 1 3 33.3 2 2 100.0 1 4 5 2 1 0 4 2 -18
+p8
+aVMichael Beasley MIA 06/15/2014 MIA @ SAS L 17 9 4 7 57.1 0 0 - 1 3 33.3 2 1 3 1 0 0 1 2 4
+p9
+aVRashard Lewis MIA 06/15/2014 MIA @ SAS L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 2 8
+p10
+aVLeBron James MIA 06/15/2014 MIA @ SAS L 41 31 10 21 47.6 3 9 33.3 8 9 88.9 1 9 10 5 0 2 1 1 -16
+p11
+aVMario Chalmers MIA 06/15/2014 MIA @ SAS L 15 8 2 3 66.7 0 0 - 4 5 80.0 0 1 1 0 1 0 0 1 2
+p12
+aVNorris Cole MIA 06/15/2014 MIA @ SAS L 9 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 1 -4
+p13
+aVDwyane Wade MIA 06/15/2014 MIA @ SAS L 36 11 4 12 33.3 1 2 50.0 2 4 50.0 0 3 3 1 0 0 3 3 -10
+p14
+aVDwyane Wade MIA 06/12/2014 MIA vs. SAS L 33 10 3 13 23.1 0 0 - 4 8 50.0 0 2 2 4 4 0 3 4 -9
+p15
+aVRay Allen MIA 06/12/2014 MIA vs. SAS L 30 8 3 6 50.0 2 4 50.0 0 0 - 1 1 2 0 0 0 1 4 -18
+p16
+aVToney Douglas MIA 06/12/2014 MIA vs. SAS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 0
+p17
+aVRashard Lewis MIA 06/12/2014 MIA vs. SAS L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 1 1 1 -17
+p18
+aVJames Jones MIA 06/12/2014 MIA vs. SAS L 3 11 4 4 100.0 3 3 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p19
+aVUdonis Haslem MIA 06/12/2014 MIA vs. SAS L 10 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 0
+p20
+aVNorris Cole MIA 06/12/2014 MIA vs. SAS L 17 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 0
+p21
+aVChris Bosh MIA 06/12/2014 MIA vs. SAS L 39 12 5 11 45.5 0 1 0.0 2 2 100.0 0 4 4 0 2 0 2 2 -15
+p22
+aVShane Battier MIA 06/12/2014 MIA vs. SAS L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p23
+aVGreg Oden MIA 06/12/2014 MIA vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p24
+aVChris Andersen MIA 06/12/2014 MIA vs. SAS L 10 5 1 4 25.0 0 0 - 3 4 75.0 3 2 5 0 0 0 0 5 -9
+p25
+aVMario Chalmers MIA 06/12/2014 MIA vs. SAS L 31 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 5 1 0 1 3 -14
+p26
+aVLeBron James MIA 06/12/2014 MIA vs. SAS L 38 28 10 17 58.8 4 8 50.0 4 6 66.7 0 8 8 2 0 0 3 0 -21
+p27
+aVRay Allen MIA 06/10/2014 MIA vs. SAS L 28 11 3 8 37.5 2 4 50.0 3 3 100.0 1 1 2 3 0 0 3 3 -19
+p28
+aVChris Bosh MIA 06/10/2014 MIA vs. SAS L 34 9 4 4 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 4 -18
+p29
+aVRashard Lewis MIA 06/10/2014 MIA vs. SAS L 33 14 5 7 71.4 4 5 80.0 0 0 - 0 4 4 0 0 0 0 3 -10
+p30
+aVGreg Oden MIA 06/10/2014 MIA vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p31
+aVToney Douglas MIA 06/10/2014 MIA vs. SAS L 2 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 0
+p32
+aVMario Chalmers MIA 06/10/2014 MIA vs. SAS L 22 2 0 5 0.0 0 3 0.0 2 2 100.0 0 2 2 4 0 0 3 4 -2
+p33
+aVShane Battier MIA 06/10/2014 MIA vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p34
+aVNorris Cole MIA 06/10/2014 MIA vs. SAS L 18 8 3 9 33.3 1 2 50.0 1 2 50.0 0 0 0 1 0 0 2 1 -9
+p35
+aVChris Andersen MIA 06/10/2014 MIA vs. SAS L 20 3 0 1 0.0 0 0 - 3 4 75.0 2 3 5 0 1 1 0 1 -11
+p36
+aVJames Jones MIA 06/10/2014 MIA vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 4
+p37
+aVUdonis Haslem MIA 06/10/2014 MIA vs. SAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p38
+aVDwyane Wade MIA 06/10/2014 MIA vs. SAS L 36 22 8 12 66.7 0 1 0.0 6 8 75.0 1 3 4 2 2 0 5 2 -9
+p39
+aVLeBron James MIA 06/10/2014 MIA vs. SAS L 40 22 9 14 64.3 2 4 50.0 2 3 66.7 1 4 5 7 5 0 7 5 -21
+p40
+aVChris Bosh MIA 06/08/2014 MIA @ SAS W 36 18 6 11 54.5 1 2 50.0 5 6 83.3 1 2 3 2 1 1 0 2 -11
+p41
+aVChris Andersen MIA 06/08/2014 MIA @ SAS W 24 3 1 4 25.0 0 0 - 1 2 50.0 0 9 9 0 0 0 2 3 -1
+p42
+aVUdonis Haslem MIA 06/08/2014 MIA @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p43
+aVNorris Cole MIA 06/08/2014 MIA @ SAS W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -3
+p44
+aVDwyane Wade MIA 06/08/2014 MIA @ SAS W 34 14 5 9 55.6 0 0 - 4 4 100.0 0 7 7 4 1 0 5 1 -8
+p45
+aVRay Allen MIA 06/08/2014 MIA @ SAS W 33 9 4 7 57.1 1 3 33.3 0 0 - 2 1 3 1 2 1 0 1 9
+p46
+aVJames Jones MIA 06/08/2014 MIA @ SAS W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p47
+aVLeBron James MIA 06/08/2014 MIA @ SAS W 38 35 14 22 63.6 3 3 100.0 4 5 80.0 2 8 10 3 2 0 4 3 11
+p48
+aVMario Chalmers MIA 06/08/2014 MIA @ SAS W 31 5 2 4 50.0 0 1 0.0 1 2 50.0 0 3 3 4 0 0 1 3 5
+p49
+aVRashard Lewis MIA 06/08/2014 MIA @ SAS W 26 14 5 9 55.6 3 7 42.9 1 2 50.0 0 1 1 1 0 1 0 3 8
+p50
+aVMario Chalmers MIA 06/05/2014 MIA @ SAS L 17 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 3 1 5 5 -3
+p51
+aVChris Bosh MIA 06/05/2014 MIA @ SAS L 34 18 7 11 63.6 3 4 75.0 1 1 100.0 2 7 9 1 0 0 2 2 -12
+p52
+aVLeBron James MIA 06/05/2014 MIA @ SAS L 33 25 9 17 52.9 2 3 66.7 5 6 83.3 3 3 6 3 3 0 4 1 0
+p53
+aVShane Battier MIA 06/05/2014 MIA @ SAS L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 1
+p54
+aVChris Andersen MIA 06/05/2014 MIA @ SAS L 18 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 1 0 -1
+p55
+aVRay Allen MIA 06/05/2014 MIA @ SAS L 32 16 6 12 50.0 3 8 37.5 1 2 50.0 0 3 3 3 5 0 0 4 -11
+p56
+aVRashard Lewis MIA 06/05/2014 MIA @ SAS L 31 10 4 10 40.0 2 6 33.3 0 0 - 0 0 0 0 0 0 0 1 -20
+p57
+aVDwyane Wade MIA 06/05/2014 MIA @ SAS L 33 19 8 18 44.4 1 3 33.3 2 2 100.0 2 1 3 2 1 0 2 4 -18
+p58
+aVNorris Cole MIA 06/05/2014 MIA @ SAS L 29 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 5 2 0 2 3 -11
+p59
+aVMario Chalmers MIA 05/30/2014 MIA vs. IND W 32 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 4 1 0 2 3 11
+p60
+aVDwyane Wade MIA 05/30/2014 MIA vs. IND W 25 13 6 12 50.0 1 3 33.3 0 0 - 0 6 6 6 2 0 0 2 18
+p61
+aVShane Battier MIA 05/30/2014 MIA vs. IND W 22 8 2 3 66.7 2 3 66.7 2 2 100.0 0 0 0 0 0 0 2 3 3
+p62
+aVRay Allen MIA 05/30/2014 MIA vs. IND W 27 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 2 3 14
+p63
+aVJames Jones MIA 05/30/2014 MIA vs. IND W 5 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 -4
+p64
+aVUdonis Haslem MIA 05/30/2014 MIA vs. IND W 7 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p65
+aVChris Andersen MIA 05/30/2014 MIA vs. IND W 13 9 4 4 100.0 0 0 - 1 2 50.0 2 8 10 0 0 0 0 1 7
+p66
+aVRashard Lewis MIA 05/30/2014 MIA vs. IND W 25 13 5 11 45.5 3 7 42.9 0 0 - 0 2 2 0 1 1 0 1 23
+p67
+aVToney Douglas MIA 05/30/2014 MIA vs. IND W 8 6 2 2 100.0 2 2 100.0 0 0 - 1 0 1 3 0 0 0 1 -5
+p68
+aVChris Bosh MIA 05/30/2014 MIA vs. IND W 29 25 10 14 71.4 1 2 50.0 4 6 66.7 3 5 8 0 1 2 0 3 18
+p69
+aVGreg Oden MIA 05/30/2014 MIA vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -4
+p70
+aVNorris Cole MIA 05/30/2014 MIA vs. IND W 12 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 2 0 0 1 1 17
+p71
+aVLeBron James MIA 05/30/2014 MIA vs. IND W 32 25 8 12 66.7 0 0 - 9 9 100.0 1 3 4 6 1 1 2 1 27
+p72
+aVDwyane Wade MIA 05/28/2014 MIA @ IND L 40 18 7 14 50.0 2 3 66.7 2 2 100.0 3 5 8 7 2 0 6 2 4
+p73
+aVLeBron James MIA 05/28/2014 MIA @ IND L 24 7 2 10 20.0 1 3 33.3 2 3 66.7 1 1 2 4 0 1 3 5 1
+p74
+aVToney Douglas MIA 05/28/2014 MIA @ IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p75
+aVChris Bosh MIA 05/28/2014 MIA @ IND L 41 20 9 21 42.9 2 7 28.6 0 0 - 4 6 10 2 2 1 2 4 10
+p76
+aVRay Allen MIA 05/28/2014 MIA @ IND L 23 15 5 11 45.5 3 6 50.0 2 2 100.0 0 2 2 1 0 1 1 1 -1
+p77
+aVShane Battier MIA 05/28/2014 MIA @ IND L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 4
+p78
+aVMario Chalmers MIA 05/28/2014 MIA @ IND L 35 8 3 4 75.0 1 2 50.0 1 1 100.0 0 8 8 5 1 0 0 1 -7
+p79
+aVNorris Cole MIA 05/28/2014 MIA @ IND L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 3 3 -4
+p80
+aVMichael Beasley MIA 05/28/2014 MIA @ IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p81
+aVUdonis Haslem MIA 05/28/2014 MIA @ IND L 7 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -13
+p82
+aVRashard Lewis MIA 05/28/2014 MIA @ IND L 31 18 6 10 60.0 6 9 66.7 0 0 - 2 2 4 0 0 0 2 4 0
+p83
+aVDwyane Wade MIA 05/26/2014 MIA vs. IND W 38 15 4 12 33.3 0 2 0.0 7 7 100.0 0 2 2 2 2 0 2 3 10
+p84
+aVShane Battier MIA 05/26/2014 MIA vs. IND W 9 5 1 2 50.0 1 2 50.0 2 3 66.7 0 0 0 0 0 0 0 0 4
+p85
+aVRay Allen MIA 05/26/2014 MIA vs. IND W 27 9 2 8 25.0 1 5 20.0 4 4 100.0 1 3 4 1 0 0 1 1 0
+p86
+aVLeBron James MIA 05/26/2014 MIA vs. IND W 36 32 13 21 61.9 2 3 66.7 4 4 100.0 0 10 10 5 2 0 2 3 10
+p87
+aVRashard Lewis MIA 05/26/2014 MIA vs. IND W 26 0 0 5 0.0 0 5 0.0 0 0 - 0 3 3 1 2 0 0 2 14
+p88
+aVChris Bosh MIA 05/26/2014 MIA vs. IND W 36 25 7 12 58.3 3 5 60.0 8 10 80.0 3 3 6 1 0 1 0 2 17
+p89
+aVUdonis Haslem MIA 05/26/2014 MIA vs. IND W 18 5 1 3 33.3 0 0 - 3 4 75.0 2 2 4 0 0 0 0 2 -4
+p90
+aVNorris Cole MIA 05/26/2014 MIA vs. IND W 27 7 2 4 50.0 1 2 50.0 2 2 100.0 0 3 3 3 0 0 0 2 1
+p91
+aVMario Chalmers MIA 05/26/2014 MIA vs. IND W 25 4 2 2 100.0 0 0 - 0 0 - 0 2 2 3 1 1 0 2 8
+p92
+aVToney Douglas MIA 05/24/2014 MIA vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p93
+aVRashard Lewis MIA 05/24/2014 MIA vs. IND W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 21
+p94
+aVUdonis Haslem MIA 05/24/2014 MIA vs. IND W 17 4 2 4 50.0 0 0 - 0 0 - 0 5 5 1 0 0 0 4 1
+p95
+aVRay Allen MIA 05/24/2014 MIA vs. IND W 27 16 4 6 66.7 4 4 100.0 4 5 80.0 0 1 1 0 1 0 1 1 8
+p96
+aVDwyane Wade MIA 05/24/2014 MIA vs. IND W 37 23 9 16 56.3 2 3 66.7 3 4 75.0 1 3 4 4 3 1 2 2 9
+p97
+aVChris Bosh MIA 05/24/2014 MIA vs. IND W 23 9 4 12 33.3 1 3 33.3 0 0 - 2 2 4 0 1 0 1 5 -8
+p98
+aVJames Jones MIA 05/24/2014 MIA vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p99
+aVNorris Cole MIA 05/24/2014 MIA vs. IND W 33 9 4 6 66.7 1 2 50.0 0 0 - 0 1 1 2 1 0 1 3 15
+p100
+aVLeBron James MIA 05/24/2014 MIA vs. IND W 40 26 9 14 64.3 1 2 50.0 7 9 77.8 1 4 5 7 3 0 6 2 24
+p101
+aVShane Battier MIA 05/24/2014 MIA vs. IND W 7 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -1
+p102
+aVChris Andersen MIA 05/24/2014 MIA vs. IND W 23 3 1 1 100.0 0 0 - 1 2 50.0 1 6 7 2 0 0 1 3 -2
+p103
+aVMario Chalmers MIA 05/24/2014 MIA vs. IND W 14 6 3 4 75.0 0 1 0.0 0 0 - 1 0 1 1 0 0 3 2 -1
+p104
+aVNorris Cole MIA 05/20/2014 MIA @ IND W 27 11 3 4 75.0 2 2 100.0 3 4 75.0 0 0 0 2 1 0 0 1 14
+p105
+aVLeBron James MIA 05/20/2014 MIA @ IND W 42 22 9 18 50.0 1 5 20.0 3 6 50.0 0 7 7 6 2 3 3 3 4
+p106
+aVRay Allen MIA 05/20/2014 MIA @ IND W 24 3 1 5 20.0 1 3 33.3 0 0 - 0 4 4 0 1 1 0 2 16
+p107
+aVChris Andersen MIA 05/20/2014 MIA @ IND W 29 3 1 4 25.0 0 1 0.0 1 2 50.0 2 10 12 1 0 1 0 0 25
+p108
+aVChris Bosh MIA 05/20/2014 MIA @ IND W 35 9 4 9 44.4 1 4 25.0 0 0 - 0 6 6 0 2 1 0 3 -4
+p109
+aVShane Battier MIA 05/20/2014 MIA @ IND W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 4
+p110
+aVMario Chalmers MIA 05/20/2014 MIA @ IND W 24 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 3 0 0 5 1 -14
+p111
+aVUdonis Haslem MIA 05/20/2014 MIA @ IND W 19 7 3 5 60.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 2 -20
+p112
+aVDwyane Wade MIA 05/20/2014 MIA @ IND W 34 23 10 16 62.5 0 1 0.0 3 4 75.0 2 3 5 5 1 0 3 3 -5
+p113
+aVMario Chalmers MIA 05/18/2014 MIA @ IND L 36 6 2 9 22.2 1 4 25.0 1 2 50.0 0 2 2 5 1 2 0 4 -15
+p114
+aVLeBron James MIA 05/18/2014 MIA @ IND L 41 25 11 18 61.1 1 5 20.0 2 2 100.0 1 9 10 5 3 0 4 3 -13
+p115
+aVToney Douglas MIA 05/18/2014 MIA @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p116
+aVChris Andersen MIA 05/18/2014 MIA @ IND L 19 14 6 7 85.7 0 0 - 2 2 100.0 2 2 4 0 1 2 2 4 3
+p117
+aVChris Bosh MIA 05/18/2014 MIA @ IND L 32 9 4 12 33.3 0 5 0.0 1 2 50.0 0 2 2 4 0 0 1 4 -16
+p118
+aVJames Jones MIA 05/18/2014 MIA @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p119
+aVUdonis Haslem MIA 05/18/2014 MIA @ IND L 11 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 2 -8
+p120
+aVDwyane Wade MIA 05/18/2014 MIA @ IND L 39 27 12 18 66.7 1 1 100.0 2 3 66.7 0 1 1 4 0 0 3 3 -9
+p121
+aVShane Battier MIA 05/18/2014 MIA @ IND L 16 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 3 2
+p122
+aVNorris Cole MIA 05/18/2014 MIA @ IND L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 2 0 0 1 -2
+p123
+aVRay Allen MIA 05/18/2014 MIA @ IND L 30 12 4 8 50.0 2 6 33.3 2 2 100.0 0 5 5 4 0 0 1 2 4
+p124
+aVDwyane Wade MIA 05/14/2014 MIA vs. BKN W 37 28 10 18 55.6 0 0 - 8 8 100.0 0 2 2 3 0 0 1 2 5
+p125
+aVLeBron James MIA 05/14/2014 MIA vs. BKN W 44 29 6 14 42.9 2 5 40.0 15 17 88.2 2 7 9 5 0 1 5 1 4
+p126
+aVRashard Lewis MIA 05/14/2014 MIA vs. BKN W 17 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 1 0 0 1 0
+p127
+aVNorris Cole MIA 05/14/2014 MIA vs. BKN W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -3
+p128
+aVMario Chalmers MIA 05/14/2014 MIA vs. BKN W 33 2 0 5 0.0 0 5 0.0 2 2 100.0 0 8 8 7 2 0 2 3 6
+p129
+aVRay Allen MIA 05/14/2014 MIA vs. BKN W 24 13 4 10 40.0 1 7 14.3 4 4 100.0 1 2 3 2 1 0 0 2 8
+p130
+aVShane Battier MIA 05/14/2014 MIA vs. BKN W 14 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 0 2
+p131
+aVChris Andersen MIA 05/14/2014 MIA vs. BKN W 10 0 0 1 0.0 0 0 - 0 0 - 3 3 6 0 0 1 0 2 -6
+p132
+aVJames Jones MIA 05/14/2014 MIA vs. BKN W 16 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -11
+p133
+aVChris Bosh MIA 05/14/2014 MIA vs. BKN W 39 16 6 11 54.5 4 6 66.7 0 0 - 0 2 2 0 1 1 0 3 5
+p134
+aVShane Battier MIA 05/12/2014 MIA @ BKN W 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -1
+p135
+aVJames Jones MIA 05/12/2014 MIA @ BKN W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 2 5
+p136
+aVRay Allen MIA 05/12/2014 MIA @ BKN W 29 11 3 7 42.9 1 5 20.0 4 4 100.0 1 6 7 1 0 0 1 2 3
+p137
+aVChris Bosh MIA 05/12/2014 MIA @ BKN W 37 12 5 9 55.6 2 6 33.3 0 0 - 0 5 5 0 2 3 2 1 12
+p138
+aVLeBron James MIA 05/12/2014 MIA @ BKN W 43 49 16 24 66.7 3 6 50.0 14 19 73.7 0 6 6 2 3 0 1 5 13
+p139
+aVDwyane Wade MIA 05/12/2014 MIA @ BKN W 34 15 7 13 53.8 0 0 - 1 2 50.0 2 2 4 3 0 2 3 3 6
+p140
+aVRashard Lewis MIA 05/12/2014 MIA @ BKN W 13 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 1
+p141
+aVMario Chalmers MIA 05/12/2014 MIA @ BKN W 28 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 7 2 0 1 5 22
+p142
+aVNorris Cole MIA 05/12/2014 MIA @ BKN W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 3 -19
+p143
+aVChris Andersen MIA 05/12/2014 MIA @ BKN W 14 5 2 2 100.0 0 0 - 1 2 50.0 3 3 6 0 0 0 0 0 -12
+p144
+aVChris Bosh MIA 05/10/2014 MIA @ BKN L 37 12 5 11 45.5 0 2 0.0 2 3 66.7 3 2 5 0 1 3 0 2 -5
+p145
+aVRashard Lewis MIA 05/10/2014 MIA @ BKN L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 1 0 0 2 -5
+p146
+aVToney Douglas MIA 05/10/2014 MIA @ BKN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p147
+aVUdonis Haslem MIA 05/10/2014 MIA @ BKN L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p148
+aVMario Chalmers MIA 05/10/2014 MIA @ BKN L 26 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 1 0 2 1 -18
+p149
+aVShane Battier MIA 05/10/2014 MIA @ BKN L 20 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 2 -11
+p150
+aVLeBron James MIA 05/10/2014 MIA @ BKN L 40 28 8 15 53.3 3 7 42.9 9 10 90.0 0 8 8 5 1 1 2 2 -14
+p151
+aVDwyane Wade MIA 05/10/2014 MIA @ BKN L 36 20 9 18 50.0 0 2 0.0 2 4 50.0 0 2 2 3 3 0 2 4 -10
+p152
+aVNorris Cole MIA 05/10/2014 MIA @ BKN L 17 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 1 0 3
+p153
+aVRay Allen MIA 05/10/2014 MIA @ BKN L 28 9 2 6 33.3 0 1 0.0 5 6 83.3 1 1 2 1 0 0 0 1 -7
+p154
+aVChris Andersen MIA 05/10/2014 MIA @ BKN L 15 2 0 0 - 0 0 - 2 2 100.0 0 4 4 0 0 2 2 3 -13
+p155
+aVJames Jones MIA 05/10/2014 MIA @ BKN L 9 9 3 3 100.0 3 3 100.0 0 0 - 0 1 1 0 0 0 0 3 4
+p156
+aVMichael Beasley MIA 05/10/2014 MIA @ BKN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p157
+aVChris Andersen MIA 05/08/2014 MIA vs. BKN W 10 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 0 0 0 2
+p158
+aVMario Chalmers MIA 05/08/2014 MIA vs. BKN W 34 11 4 7 57.1 2 3 66.7 1 2 50.0 0 1 1 5 1 1 1 3 17
+p159
+aVRay Allen MIA 05/08/2014 MIA vs. BKN W 28 13 5 8 62.5 3 5 60.0 0 0 - 2 6 8 2 1 1 1 3 14
+p160
+aVShane Battier MIA 05/08/2014 MIA vs. BKN W 19 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 1 0 0 1 -3
+p161
+aVRashard Lewis MIA 05/08/2014 MIA vs. BKN W 20 6 2 4 50.0 2 3 66.7 0 0 - 0 3 3 0 1 0 0 0 14
+p162
+aVNorris Cole MIA 05/08/2014 MIA vs. BKN W 17 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 0 1 0 1 2 -4
+p163
+aVDwyane Wade MIA 05/08/2014 MIA vs. BKN W 35 14 4 11 36.4 0 1 0.0 6 6 100.0 1 6 7 7 2 1 2 3 7
+p164
+aVChris Bosh MIA 05/08/2014 MIA vs. BKN W 37 18 7 13 53.8 1 4 25.0 3 4 75.0 3 3 6 0 0 3 1 0 7
+p165
+aVLeBron James MIA 05/08/2014 MIA vs. BKN W 39 22 9 18 50.0 0 3 0.0 4 6 66.7 0 4 4 3 2 1 2 2 6
+p166
+aVRay Allen MIA 05/06/2014 MIA vs. BKN W 26 19 6 10 60.0 4 7 57.1 3 3 100.0 1 3 4 3 0 0 2 2 10
+p167
+aVChris Andersen MIA 05/06/2014 MIA vs. BKN W 16 7 2 3 66.7 0 0 - 3 4 75.0 1 3 4 0 0 4 0 1 7
+p168
+aVRashard Lewis MIA 05/06/2014 MIA vs. BKN W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 1 2
+p169
+aVNorris Cole MIA 05/06/2014 MIA vs. BKN W 22 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 1 0 0 1 2 11
+p170
+aVLeBron James MIA 05/06/2014 MIA vs. BKN W 36 22 10 15 66.7 0 0 - 2 2 100.0 1 4 5 3 0 0 1 2 10
+p171
+aVDwyane Wade MIA 05/06/2014 MIA vs. BKN W 33 14 7 13 53.8 0 0 - 0 0 - 0 4 4 5 2 0 3 2 22
+p172
+aVShane Battier MIA 05/06/2014 MIA vs. BKN W 26 8 3 5 60.0 2 4 50.0 0 0 - 0 1 1 2 0 0 0 2 12
+p173
+aVMichael Beasley MIA 05/06/2014 MIA vs. BKN W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p174
+aVJames Jones MIA 05/06/2014 MIA vs. BKN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p175
+aVUdonis Haslem MIA 05/06/2014 MIA vs. BKN W 2 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 3
+p176
+aVMario Chalmers MIA 05/06/2014 MIA vs. BKN W 28 12 5 9 55.6 0 2 0.0 2 2 100.0 0 1 1 2 2 0 2 2 8
+p177
+aVToney Douglas MIA 05/06/2014 MIA vs. BKN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p178
+aVChris Bosh MIA 05/06/2014 MIA vs. BKN W 31 15 5 11 45.5 1 4 25.0 4 5 80.0 1 10 11 3 0 0 0 1 11
+p179
+aVRashard Lewis MIA 04/28/2014 MIA @ CHA W 5 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 0
+p180
+aVDwyane Wade MIA 04/28/2014 MIA @ CHA W 30 15 5 11 45.5 0 0 - 5 8 62.5 0 3 3 2 1 0 2 5 1
+p181
+aVLeBron James MIA 04/28/2014 MIA @ CHA W 43 31 10 19 52.6 1 5 20.0 10 12 83.3 0 7 7 9 3 1 2 3 12
+p182
+aVChris Andersen MIA 04/28/2014 MIA @ CHA W 18 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 2 5
+p183
+aVUdonis Haslem MIA 04/28/2014 MIA @ CHA W 18 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 0 0 3 -1
+p184
+aVChris Bosh MIA 04/28/2014 MIA @ CHA W 30 17 7 12 58.3 1 2 50.0 2 3 66.7 1 7 8 3 0 0 1 0 8
+p185
+aVNorris Cole MIA 04/28/2014 MIA @ CHA W 32 13 4 6 66.7 2 3 66.7 3 3 100.0 0 0 0 4 1 0 0 2 7
+p186
+aVRay Allen MIA 04/28/2014 MIA @ CHA W 21 3 1 5 20.0 1 4 25.0 0 0 - 0 4 4 1 0 0 1 0 5
+p187
+aVJames Jones MIA 04/28/2014 MIA @ CHA W 22 9 3 7 42.9 3 6 50.0 0 0 - 2 0 2 0 1 0 0 2 8
+p188
+aVMario Chalmers MIA 04/28/2014 MIA @ CHA W 22 10 4 9 44.4 1 3 33.3 1 1 100.0 0 1 1 5 1 0 1 2 10
+p189
+aVShane Battier MIA 04/26/2014 MIA @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p190
+aVJames Jones MIA 04/26/2014 MIA @ CHA W 17 3 1 6 16.7 1 5 20.0 0 0 - 0 0 0 3 2 1 0 3 16
+p191
+aVMario Chalmers MIA 04/26/2014 MIA @ CHA W 27 8 3 7 42.9 1 2 50.0 1 2 50.0 0 4 4 4 0 0 0 3 14
+p192
+aVChris Bosh MIA 04/26/2014 MIA @ CHA W 33 8 3 7 42.9 2 2 100.0 0 0 - 0 4 4 3 0 1 0 4 11
+p193
+aVToney Douglas MIA 04/26/2014 MIA @ CHA W 2 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p194
+aVRashard Lewis MIA 04/26/2014 MIA @ CHA W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 1
+p195
+aVLeBron James MIA 04/26/2014 MIA @ CHA W 36 30 10 18 55.6 1 2 50.0 9 10 90.0 0 10 10 6 2 0 2 1 20
+p196
+aVNorris Cole MIA 04/26/2014 MIA @ CHA W 29 8 3 7 42.9 2 3 66.7 0 0 - 1 2 3 2 0 1 0 1 4
+p197
+aVUdonis Haslem MIA 04/26/2014 MIA @ CHA W 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 1 1 0 5 -1
+p198
+aVRay Allen MIA 04/26/2014 MIA @ CHA W 19 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 0 1 0 2 1 -7
+p199
+aVChris Andersen MIA 04/26/2014 MIA @ CHA W 22 12 4 7 57.1 0 0 - 4 4 100.0 1 6 7 1 1 1 0 2 -1
+p200
+aVDwyane Wade MIA 04/26/2014 MIA @ CHA W 34 17 7 16 43.8 0 0 - 3 4 75.0 2 1 3 6 1 1 2 4 12
+p201
+aVRay Allen MIA 04/23/2014 MIA vs. CHA W 18 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 3 0 0 3 3 11
+p202
+aVChris Andersen MIA 04/23/2014 MIA vs. CHA W 19 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 0 0 2 0 1 8
+p203
+aVDwyane Wade MIA 04/23/2014 MIA vs. CHA W 35 15 4 10 40.0 0 0 - 7 9 77.8 2 4 6 2 2 0 4 3 -9
+p204
+aVUdonis Haslem MIA 04/23/2014 MIA vs. CHA W 19 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -1
+p205
+aVJames Jones MIA 04/23/2014 MIA vs. CHA W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 4
+p206
+aVNorris Cole MIA 04/23/2014 MIA vs. CHA W 22 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 2 1 0 2 2 12
+p207
+aVLeBron James MIA 04/23/2014 MIA vs. CHA W 40 32 11 17 64.7 1 5 20.0 9 12 75.0 0 6 6 8 4 0 4 2 6
+p208
+aVRashard Lewis MIA 04/23/2014 MIA vs. CHA W 14 4 1 3 33.3 0 2 0.0 2 2 100.0 0 4 4 1 1 1 1 3 16
+p209
+aVMario Chalmers MIA 04/23/2014 MIA vs. CHA W 30 11 3 7 42.9 2 4 50.0 3 4 75.0 0 2 2 3 0 1 1 0 -15
+p210
+aVChris Bosh MIA 04/23/2014 MIA vs. CHA W 32 20 8 11 72.7 4 5 80.0 0 0 - 0 5 5 0 1 2 1 4 -12
+p211
+aVChris Andersen MIA 04/20/2014 MIA vs. CHA W 22 8 3 5 60.0 0 0 - 2 4 50.0 3 7 10 1 0 1 0 1 28
+p212
+aVJames Jones MIA 04/20/2014 MIA vs. CHA W 14 12 4 6 66.7 2 3 66.7 2 3 66.7 1 2 3 1 0 0 0 1 18
+p213
+aVDwyane Wade MIA 04/20/2014 MIA vs. CHA W 34 23 10 16 62.5 1 2 50.0 2 3 66.7 0 1 1 5 1 0 1 0 -6
+p214
+aVNorris Cole MIA 04/20/2014 MIA vs. CHA W 29 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 2 0 0 2 2 11
+p215
+aVRay Allen MIA 04/20/2014 MIA vs. CHA W 23 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 2 1 0 0 3 15
+p216
+aVRashard Lewis MIA 04/20/2014 MIA vs. CHA W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 5
+p217
+aVChris Bosh MIA 04/20/2014 MIA vs. CHA W 34 13 4 13 30.8 2 4 50.0 3 4 75.0 1 3 4 0 2 1 1 3 -4
+p218
+aVMario Chalmers MIA 04/20/2014 MIA vs. CHA W 25 7 3 7 42.9 1 2 50.0 0 0 - 0 3 3 2 1 0 0 0 2
+p219
+aVUdonis Haslem MIA 04/20/2014 MIA vs. CHA W 13 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 0 -14
+p220
+aVLeBron James MIA 04/20/2014 MIA vs. CHA W 39 27 8 16 50.0 4 8 50.0 7 10 70.0 0 9 9 1 0 0 3 1 0
+p221
+a.

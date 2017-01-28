@@ -1,0 +1,120 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJorge Gutierrez MIL 04/30/2015 MIL vs. CHI L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -15
+p2
+aVErsan Ilyasova MIL 04/30/2015 MIL vs. CHI L 17 7 3 6 50.0 0 2 0.0 1 2 50.0 1 2 3 0 0 0 0 1 -30
+p3
+aVJerryd Bayless MIL 04/30/2015 MIL vs. CHI L 32 7 2 6 33.3 2 5 40.0 1 2 50.0 1 3 4 5 1 1 2 1 -17
+p4
+aVJared Dudley MIL 04/30/2015 MIL vs. CHI L 19 6 2 3 66.7 1 1 100.0 1 1 100.0 0 3 3 1 2 0 2 0 -9
+p5
+aVJohn Henson MIL 04/30/2015 MIL vs. CHI L 14 4 2 3 66.7 0 0 - 0 2 0.0 0 2 2 0 0 0 2 1 -21
+p6
+aVKhris Middleton MIL 04/30/2015 MIL vs. CHI L 26 6 2 7 28.6 0 3 0.0 2 2 100.0 0 3 3 1 0 0 3 4 -41
+p7
+aVZaza Pachulia MIL 04/30/2015 MIL vs. CHI L 18 8 2 4 50.0 0 0 - 4 4 100.0 0 3 3 1 0 0 2 1 -25
+p8
+aVJohnny O'Bryant III MIL 04/30/2015 MIL vs. CHI L 12 6 3 8 37.5 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -15
+p9
+aVTyler Ennis MIL 04/30/2015 MIL vs. CHI L 16 5 2 9 22.2 1 5 20.0 0 0 - 3 1 4 3 0 0 0 1 -8
+p10
+aVMiles Plumlee MIL 04/30/2015 MIL vs. CHI L 16 3 1 8 12.5 0 0 - 1 2 50.0 3 3 6 1 0 1 1 1 -8
+p11
+aVGiannis Antetokounmpo MIL 04/30/2015 MIL vs. CHI L 15 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 2 0 1 2 1 -23
+p12
+aVMichael Carter-Williams MIL 04/30/2015 MIL vs. CHI L 18 3 1 6 16.7 0 0 - 1 2 50.0 0 4 4 1 0 1 2 1 -35
+p13
+aVO.J. Mayo MIL 04/30/2015 MIL vs. CHI L 25 4 2 8 25.0 0 3 0.0 0 0 - 0 2 2 1 0 0 2 3 -23
+p14
+aVErsan Ilyasova MIL 04/27/2015 MIL @ CHI W 30 6 2 11 18.2 2 6 33.3 0 0 - 1 3 4 0 0 1 1 3 10
+p15
+aVJared Dudley MIL 04/27/2015 MIL @ CHI W 13 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 0 2 1 1 4 -5
+p16
+aVGiannis Antetokounmpo MIL 04/27/2015 MIL @ CHI W 38 11 5 12 41.7 0 0 - 1 1 100.0 2 1 3 2 0 4 2 3 -4
+p17
+aVMichael Carter-Williams MIL 04/27/2015 MIL @ CHI W 38 22 10 15 66.7 0 1 0.0 2 2 100.0 0 8 8 9 1 3 4 3 7
+p18
+aVJerryd Bayless MIL 04/27/2015 MIL @ CHI W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 3 -1
+p19
+aVO.J. Mayo MIL 04/27/2015 MIL @ CHI W 26 10 2 8 25.0 1 3 33.3 5 5 100.0 0 2 2 4 0 1 1 3 12
+p20
+aVKhris Middleton MIL 04/27/2015 MIL @ CHI W 38 21 8 16 50.0 2 4 50.0 3 3 100.0 3 1 4 2 4 0 3 2 5
+p21
+aVZaza Pachulia MIL 04/27/2015 MIL @ CHI W 25 9 4 9 44.4 0 0 - 1 1 100.0 3 7 10 3 2 0 0 3 3
+p22
+aVJohn Henson MIL 04/27/2015 MIL @ CHI W 23 8 4 8 50.0 0 0 - 0 0 - 4 10 14 1 1 1 3 0 3
+p23
+aVO.J. Mayo MIL 04/25/2015 MIL vs. CHI W 24 18 6 11 54.5 4 6 66.7 2 2 100.0 1 2 3 4 4 0 2 3 13
+p24
+aVMichael Carter-Williams MIL 04/25/2015 MIL vs. CHI W 25 8 4 11 36.4 0 0 - 0 0 - 0 2 2 5 1 0 2 1 -11
+p25
+aVJared Dudley MIL 04/25/2015 MIL vs. CHI W 29 13 5 9 55.6 3 4 75.0 0 0 - 1 1 2 5 2 1 2 3 12
+p26
+aVJerryd Bayless MIL 04/25/2015 MIL vs. CHI W 25 10 3 10 30.0 0 1 0.0 4 5 80.0 2 1 3 5 0 0 0 2 6
+p27
+aVGiannis Antetokounmpo MIL 04/25/2015 MIL vs. CHI W 26 10 3 7 42.9 0 0 - 4 6 66.7 1 7 8 2 1 0 1 3 -11
+p28
+aVJohn Henson MIL 04/25/2015 MIL vs. CHI W 26 6 3 7 42.9 0 0 - 0 2 0.0 3 2 5 2 1 4 2 3 -7
+p29
+aVErsan Ilyasova MIL 04/25/2015 MIL vs. CHI W 17 9 3 11 27.3 1 5 20.0 2 2 100.0 1 1 2 0 2 0 1 2 -3
+p30
+aVZaza Pachulia MIL 04/25/2015 MIL vs. CHI W 22 8 3 6 50.0 0 0 - 2 4 50.0 2 3 5 1 6 0 1 3 9
+p31
+aVKhris Middleton MIL 04/25/2015 MIL vs. CHI W 46 10 4 15 26.7 1 6 16.7 1 1 100.0 1 3 4 1 3 1 2 1 2
+p32
+aVMichael Carter-Williams MIL 04/23/2015 MIL vs. CHI L 43 19 9 21 42.9 0 3 0.0 1 1 100.0 1 3 4 9 2 0 4 4 -21
+p33
+aVJared Dudley MIL 04/23/2015 MIL vs. CHI L 21 11 4 6 66.7 2 3 66.7 1 4 25.0 0 0 0 1 2 0 0 2 3
+p34
+aVO.J. Mayo MIL 04/23/2015 MIL vs. CHI L 31 8 4 10 40.0 0 2 0.0 0 0 - 0 3 3 3 2 0 3 1 7
+p35
+aVKhris Middleton MIL 04/23/2015 MIL vs. CHI L 49 18 6 17 35.3 3 8 37.5 3 4 75.0 1 2 3 7 2 0 0 1 -18
+p36
+aVErsan Ilyasova MIL 04/23/2015 MIL vs. CHI L 22 7 3 9 33.3 1 2 50.0 0 0 - 0 5 5 0 1 1 1 2 -13
+p37
+aVGiannis Antetokounmpo MIL 04/23/2015 MIL vs. CHI L 51 25 10 22 45.5 0 0 - 5 8 62.5 6 6 12 2 0 2 3 3 0
+p38
+aVJohn Henson MIL 04/23/2015 MIL vs. CHI L 39 15 6 8 75.0 0 0 - 3 6 50.0 6 8 14 0 1 3 1 5 11
+p39
+aVJerryd Bayless MIL 04/23/2015 MIL vs. CHI L 15 1 0 4 0.0 0 1 0.0 1 2 50.0 1 2 3 2 1 0 0 0 14
+p40
+aVZaza Pachulia MIL 04/23/2015 MIL vs. CHI L 19 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 0 1 0 2 -18
+p41
+aVJohn Henson MIL 04/20/2015 MIL @ CHI L 25 8 4 9 44.4 0 1 0.0 0 1 0.0 3 3 6 0 1 2 0 4 -7
+p42
+aVJared Dudley MIL 04/20/2015 MIL @ CHI L 17 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 0 4 0 0 1 2
+p43
+aVKhris Middleton MIL 04/20/2015 MIL @ CHI L 38 22 8 20 40.0 3 7 42.9 3 3 100.0 1 5 6 0 1 1 1 2 -13
+p44
+aVO.J. Mayo MIL 04/20/2015 MIL @ CHI L 27 8 3 10 30.0 0 3 0.0 2 2 100.0 0 3 3 3 0 0 0 2 -9
+p45
+aVJerryd Bayless MIL 04/20/2015 MIL @ CHI L 15 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 -3
+p46
+aVErsan Ilyasova MIL 04/20/2015 MIL @ CHI L 24 8 3 10 30.0 0 3 0.0 2 2 100.0 1 5 6 0 0 1 0 1 -6
+p47
+aVGiannis Antetokounmpo MIL 04/20/2015 MIL @ CHI L 38 6 2 11 18.2 0 0 - 2 2 100.0 2 9 11 4 2 2 2 4 -1
+p48
+aVMichael Carter-Williams MIL 04/20/2015 MIL @ CHI L 33 12 5 12 41.7 0 1 0.0 2 3 66.7 0 5 5 2 1 1 1 4 -6
+p49
+aVZaza Pachulia MIL 04/20/2015 MIL @ CHI L 23 7 3 8 37.5 0 0 - 1 2 50.0 1 5 6 3 1 2 0 2 -2
+p50
+aVErsan Ilyasova MIL 04/18/2015 MIL @ CHI L 32 15 6 14 42.9 1 5 20.0 2 4 50.0 2 1 3 3 2 0 2 1 -13
+p51
+aVMichael Carter-Williams MIL 04/18/2015 MIL @ CHI L 34 9 4 13 30.8 0 0 - 1 4 25.0 0 4 4 3 2 1 3 1 -7
+p52
+aVJohn Henson MIL 04/18/2015 MIL @ CHI L 26 12 5 6 83.3 0 0 - 2 3 66.7 5 2 7 1 1 0 3 1 -12
+p53
+aVJerryd Bayless MIL 04/18/2015 MIL @ CHI L 23 11 4 7 57.1 0 0 - 3 4 75.0 0 1 1 5 0 1 0 4 -12
+p54
+aVO.J. Mayo MIL 04/18/2015 MIL @ CHI L 24 6 1 7 14.3 1 2 50.0 3 3 100.0 0 7 7 3 1 0 1 2 -3
+p55
+aVGiannis Antetokounmpo MIL 04/18/2015 MIL @ CHI L 33 12 4 13 30.8 0 1 0.0 4 4 100.0 1 4 5 4 0 0 1 4 -10
+p56
+aVJared Dudley MIL 04/18/2015 MIL @ CHI L 12 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 2 -1
+p57
+aVKhris Middleton MIL 04/18/2015 MIL @ CHI L 34 18 7 17 41.2 2 6 33.3 2 2 100.0 1 1 2 1 4 1 1 4 -2
+p58
+aVZaza Pachulia MIL 04/18/2015 MIL @ CHI L 22 6 3 8 37.5 0 0 - 0 2 0.0 3 7 10 1 1 0 2 4 0
+p59
+a.

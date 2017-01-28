@@ -1,0 +1,1806 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVIan Clark DEN 04/15/2015 DEN @ GSW L 16 9 3 5 60.0 1 2 50.0 2 2 100.0 0 2 2 1 3 1 1 2 3
+p2
+aVJJ Hickson DEN 04/15/2015 DEN @ GSW L 17 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 14
+p3
+aVWill Barton DEN 04/15/2015 DEN @ GSW L 21 16 6 9 66.7 0 0 - 4 4 100.0 0 4 4 3 2 1 1 1 10
+p4
+aVTy Lawson DEN 04/15/2015 DEN @ GSW L 18 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 8 0 0 4 0 -11
+p5
+aVDanilo Gallinari DEN 04/15/2015 DEN @ GSW L 23 18 6 10 60.0 0 1 0.0 6 7 85.7 1 4 5 2 1 0 0 1 -19
+p6
+aVJusuf Nurkic DEN 04/15/2015 DEN @ GSW L 30 17 7 13 53.8 0 0 - 3 5 60.0 3 6 9 2 1 1 5 5 -19
+p7
+aVGary Harris DEN 04/15/2015 DEN @ GSW L 33 11 3 6 50.0 1 2 50.0 4 5 80.0 1 2 3 0 0 0 2 2 -16
+p8
+aVErick Green DEN 04/15/2015 DEN @ GSW L 27 17 7 13 53.8 2 3 66.7 1 1 100.0 1 3 4 7 1 0 1 1 5
+p9
+aVWilson Chandler DEN 04/15/2015 DEN @ GSW L 23 18 7 13 53.8 1 6 16.7 3 4 75.0 0 4 4 0 1 0 3 1 -17
+p10
+aVJoffrey Lauvergne DEN 04/15/2015 DEN @ GSW L 23 11 4 6 66.7 0 0 - 3 4 75.0 2 5 7 3 1 0 1 6 18
+p11
+aVJamaal Franklin DEN 04/15/2015 DEN @ GSW L 10 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 2 0 1 3 3 -3
+p12
+aVJusuf Nurkic DEN 04/13/2015 DEN @ LAC L 7 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 1 3 8
+p13
+aVRandy Foye DEN 04/13/2015 DEN @ LAC L 39 16 6 21 28.6 3 12 25.0 1 2 50.0 2 5 7 8 1 0 1 3 -14
+p14
+aVErick Green DEN 04/13/2015 DEN @ LAC L 35 4 2 9 22.2 0 1 0.0 0 0 - 3 1 4 2 1 0 1 2 5
+p15
+aVKenneth Faried DEN 04/13/2015 DEN @ LAC L 35 19 7 16 43.8 0 1 0.0 5 9 55.6 11 6 17 2 2 0 4 5 -6
+p16
+aVJJ Hickson DEN 04/13/2015 DEN @ LAC L 24 6 3 11 27.3 0 0 - 0 0 - 3 8 11 1 1 0 1 2 2
+p17
+aVGary Harris DEN 04/13/2015 DEN @ LAC L 35 13 4 8 50.0 3 6 50.0 2 2 100.0 2 0 2 2 1 0 1 2 -13
+p18
+aVWilson Chandler DEN 04/13/2015 DEN @ LAC L 35 32 12 23 52.2 6 10 60.0 2 3 66.7 1 5 6 0 1 0 0 6 -8
+p19
+aVJoffrey Lauvergne DEN 04/13/2015 DEN @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -7
+p20
+aVJamaal Franklin DEN 04/13/2015 DEN @ LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p21
+aVIan Clark DEN 04/13/2015 DEN @ LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p22
+aVWill Barton DEN 04/13/2015 DEN @ LAC L 26 11 3 10 30.0 0 3 0.0 5 6 83.3 1 7 8 2 0 0 2 1 -2
+p23
+aVGary Harris DEN 04/12/2015 DEN vs. SAC W 13 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 0 1
+p24
+aVJJ Hickson DEN 04/12/2015 DEN vs. SAC W 15 9 4 4 100.0 0 0 - 1 1 100.0 2 1 3 0 2 0 0 1 9
+p25
+aVDanilo Gallinari DEN 04/12/2015 DEN vs. SAC W 34 14 4 8 50.0 2 3 66.7 4 4 100.0 0 6 6 6 1 0 2 3 16
+p26
+aVWilson Chandler DEN 04/12/2015 DEN vs. SAC W 30 21 8 15 53.3 3 6 50.0 2 2 100.0 1 8 9 4 3 0 0 5 10
+p27
+aVJusuf Nurkic DEN 04/12/2015 DEN vs. SAC W 11 2 1 4 25.0 0 1 0.0 0 2 0.0 3 5 8 1 1 1 2 2 -6
+p28
+aVTy Lawson DEN 04/12/2015 DEN vs. SAC W 37 10 4 7 57.1 0 1 0.0 2 4 50.0 0 0 0 11 1 0 2 1 24
+p29
+aVWill Barton DEN 04/12/2015 DEN vs. SAC W 18 10 4 8 50.0 1 3 33.3 1 1 100.0 0 3 3 2 2 0 1 2 0
+p30
+aVIan Clark DEN 04/12/2015 DEN vs. SAC W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p31
+aVKenneth Faried DEN 04/12/2015 DEN vs. SAC W 31 30 12 14 85.7 0 0 - 6 8 75.0 3 4 7 1 3 0 3 4 9
+p32
+aVRandy Foye DEN 04/12/2015 DEN vs. SAC W 29 16 3 11 27.3 3 9 33.3 7 8 87.5 0 1 1 3 2 0 4 3 10
+p33
+aVJamaal Franklin DEN 04/12/2015 DEN vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -6
+p34
+aVErick Green DEN 04/12/2015 DEN vs. SAC W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -2
+p35
+aVJoffrey Lauvergne DEN 04/12/2015 DEN vs. SAC W 7 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 0 0 0 4 -5
+p36
+aVKenneth Faried DEN 04/10/2015 DEN vs. DAL L 32 14 6 12 50.0 0 0 - 2 3 66.7 5 4 9 1 1 0 3 5 1
+p37
+aVWill Barton DEN 04/10/2015 DEN vs. DAL L 10 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 1 1 0 0 2 -12
+p38
+aVJJ Hickson DEN 04/10/2015 DEN vs. DAL L 20 14 5 10 50.0 0 0 - 4 6 66.7 7 5 12 0 0 0 2 2 10
+p39
+aVErick Green DEN 04/10/2015 DEN vs. DAL L 9 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p40
+aVTy Lawson DEN 04/10/2015 DEN vs. DAL L 52 19 8 21 38.1 1 3 33.3 2 2 100.0 0 5 5 18 0 0 2 0 5
+p41
+aVDanilo Gallinari DEN 04/10/2015 DEN vs. DAL L 46 47 15 23 65.2 7 12 58.3 10 10 100.0 2 7 9 2 1 1 0 4 20
+p42
+aVJusuf Nurkic DEN 04/10/2015 DEN vs. DAL L 14 8 2 8 25.0 0 0 - 4 4 100.0 5 2 7 1 1 0 2 5 -10
+p43
+aVGary Harris DEN 04/10/2015 DEN vs. DAL L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -9
+p44
+aVJoffrey Lauvergne DEN 04/10/2015 DEN vs. DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p45
+aVWilson Chandler DEN 04/10/2015 DEN vs. DAL L 49 20 9 22 40.9 2 9 22.2 0 0 - 6 5 11 2 1 0 3 3 -6
+p46
+aVRandy Foye DEN 04/10/2015 DEN vs. DAL L 47 17 6 18 33.3 5 13 38.5 0 0 - 1 4 5 4 5 0 3 2 2
+p47
+aVJoffrey Lauvergne DEN 04/08/2015 DEN vs. LAL W 5 5 2 2 100.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 0 -1
+p48
+aVErick Green DEN 04/08/2015 DEN vs. LAL W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -7
+p49
+aVIan Clark DEN 04/08/2015 DEN vs. LAL W 2 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p50
+aVWill Barton DEN 04/08/2015 DEN vs. LAL W 22 4 2 8 25.0 0 2 0.0 0 0 - 0 3 3 0 2 1 3 2 -17
+p51
+aVKenneth Faried DEN 04/08/2015 DEN vs. LAL W 29 29 10 14 71.4 0 0 - 9 9 100.0 5 6 11 0 2 2 0 5 31
+p52
+aVDanilo Gallinari DEN 04/08/2015 DEN vs. LAL W 36 27 9 19 47.4 7 14 50.0 2 4 50.0 1 6 7 4 0 2 2 3 28
+p53
+aVJusuf Nurkic DEN 04/08/2015 DEN vs. LAL W 8 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -13
+p54
+aVRandy Foye DEN 04/08/2015 DEN vs. LAL W 28 12 4 6 66.7 4 6 66.7 0 0 - 0 6 6 7 0 0 1 3 18
+p55
+aVGary Harris DEN 04/08/2015 DEN vs. LAL W 18 9 4 6 66.7 1 3 33.3 0 0 - 0 1 1 0 0 1 0 1 2
+p56
+aVTy Lawson DEN 04/08/2015 DEN vs. LAL W 39 16 7 13 53.8 0 2 0.0 2 3 66.7 1 2 3 8 1 0 2 3 25
+p57
+aVJJ Hickson DEN 04/08/2015 DEN vs. LAL W 16 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 2 0 0 2 -12
+p58
+aVWilson Chandler DEN 04/08/2015 DEN vs. LAL W 28 9 2 7 28.6 0 0 - 5 8 62.5 2 6 8 3 0 0 0 1 37
+p59
+aVJameer Nelson DEN 04/04/2015 DEN vs. LAC L 13 2 1 4 25.0 0 3 0.0 0 0 - 2 0 2 2 1 0 3 2 -20
+p60
+aVIan Clark DEN 04/04/2015 DEN vs. LAC L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 3
+p61
+aVErick Green DEN 04/04/2015 DEN vs. LAC L 25 11 4 7 57.1 2 2 100.0 1 2 50.0 0 0 0 3 1 0 0 2 12
+p62
+aVRandy Foye DEN 04/04/2015 DEN vs. LAC L 35 14 5 13 38.5 3 7 42.9 1 1 100.0 0 5 5 5 1 1 2 3 -28
+p63
+aVJoffrey Lauvergne DEN 04/04/2015 DEN vs. LAC L 9 7 3 5 60.0 0 1 0.0 1 1 100.0 0 2 2 0 0 0 1 4 -6
+p64
+aVGary Harris DEN 04/04/2015 DEN vs. LAC L 19 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 1 1 0 1 5 -4
+p65
+aVWill Barton DEN 04/04/2015 DEN vs. LAC L 20 9 3 9 33.3 0 3 0.0 3 4 75.0 0 2 2 2 1 0 0 1 1
+p66
+aVWilson Chandler DEN 04/04/2015 DEN vs. LAC L 34 17 5 15 33.3 1 5 20.0 6 8 75.0 2 4 6 3 0 0 1 3 -11
+p67
+aVKenneth Faried DEN 04/04/2015 DEN vs. LAC L 34 10 4 12 33.3 0 0 - 2 3 66.7 4 10 14 3 1 0 4 3 -11
+p68
+aVJJ Hickson DEN 04/04/2015 DEN vs. LAC L 24 7 3 6 50.0 0 0 - 1 2 50.0 3 3 6 0 0 0 2 2 -15
+p69
+aVJusuf Nurkic DEN 04/04/2015 DEN vs. LAC L 22 10 3 9 33.3 0 0 - 4 6 66.7 4 2 6 1 1 0 1 5 4
+p70
+aVDanilo Gallinari DEN 04/03/2015 DEN @ SAS L 30 20 8 12 66.7 1 2 50.0 3 3 100.0 0 3 3 1 2 0 1 1 -28
+p71
+aVGary Harris DEN 04/03/2015 DEN @ SAS L 14 8 3 6 50.0 1 2 50.0 1 1 100.0 0 0 0 0 0 0 1 1 -3
+p72
+aVWill Barton DEN 04/03/2015 DEN @ SAS L 26 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 1 2 0 3 1 -11
+p73
+aVKenneth Faried DEN 04/03/2015 DEN @ SAS L 21 10 5 9 55.6 0 0 - 0 0 - 4 2 6 0 0 0 3 3 -20
+p74
+aVJusuf Nurkic DEN 04/03/2015 DEN @ SAS L 26 6 3 3 100.0 0 0 - 0 2 0.0 3 6 9 0 3 0 1 4 -8
+p75
+aVJameer Nelson DEN 04/03/2015 DEN @ SAS L 16 14 6 10 60.0 1 4 25.0 1 1 100.0 1 2 3 1 0 1 2 2 -14
+p76
+aVRandy Foye DEN 04/03/2015 DEN @ SAS L 20 11 4 7 57.1 3 4 75.0 0 0 - 0 0 0 1 1 0 0 2 -22
+p77
+aVIan Clark DEN 04/03/2015 DEN @ SAS L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p78
+aVErick Green DEN 04/03/2015 DEN @ SAS L 10 0 0 5 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 4
+p79
+aVJJ Hickson DEN 04/03/2015 DEN @ SAS L 24 4 2 7 28.6 0 0 - 0 0 - 2 4 6 2 0 0 3 0 -8
+p80
+aVTy Lawson DEN 04/03/2015 DEN @ SAS L 24 7 3 10 30.0 0 1 0.0 1 2 50.0 0 1 1 7 0 1 3 0 -24
+p81
+aVWilson Chandler DEN 04/03/2015 DEN @ SAS L 28 7 3 8 37.5 0 1 0.0 1 2 50.0 1 2 3 2 0 1 1 3 -21
+p82
+aVIan Clark DEN 04/01/2015 DEN @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -7
+p83
+aVWilson Chandler DEN 04/01/2015 DEN @ UTA L 25 2 1 7 14.3 0 3 0.0 0 0 - 0 3 3 1 0 0 1 3 -13
+p84
+aVErick Green DEN 04/01/2015 DEN @ UTA L 7 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 0 11
+p85
+aVJoffrey Lauvergne DEN 04/01/2015 DEN @ UTA L 23 8 3 7 42.9 0 1 0.0 2 2 100.0 3 5 8 1 0 3 0 1 -2
+p86
+aVTy Lawson DEN 04/01/2015 DEN @ UTA L 30 15 6 13 46.2 1 2 50.0 2 3 66.7 0 2 2 3 1 0 1 1 -8
+p87
+aVWill Barton DEN 04/01/2015 DEN @ UTA L 23 13 6 12 50.0 1 2 50.0 0 0 - 1 6 7 2 2 0 1 0 9
+p88
+aVJusuf Nurkic DEN 04/01/2015 DEN @ UTA L 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 4 9
+p89
+aVJameer Nelson DEN 04/01/2015 DEN @ UTA L 20 3 1 8 12.5 1 5 20.0 0 0 - 1 1 2 0 0 1 0 1 -18
+p90
+aVDanilo Gallinari DEN 04/01/2015 DEN @ UTA L 25 8 3 14 21.4 2 9 22.2 0 0 - 0 3 3 2 1 0 0 2 -11
+p91
+aVKenneth Faried DEN 04/01/2015 DEN @ UTA L 27 19 7 13 53.8 0 0 - 5 5 100.0 4 6 10 0 0 1 0 4 -20
+p92
+aVGary Harris DEN 04/01/2015 DEN @ UTA L 14 4 1 6 16.7 0 1 0.0 2 2 100.0 1 0 1 0 1 0 0 1 -5
+p93
+aVRandy Foye DEN 04/01/2015 DEN @ UTA L 28 5 2 9 22.2 1 8 12.5 0 0 - 1 2 3 2 1 0 1 2 -15
+p94
+aVWill Barton DEN 03/28/2015 DEN @ POR L 25 12 6 8 75.0 0 1 0.0 0 0 - 0 7 7 3 1 1 1 3 -4
+p95
+aVJusuf Nurkic DEN 03/28/2015 DEN @ POR L 19 10 5 5 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -1
+p96
+aVRandy Foye DEN 03/28/2015 DEN @ POR L 23 17 6 11 54.5 4 8 50.0 1 1 100.0 0 0 0 1 1 0 2 1 -2
+p97
+aVJoffrey Lauvergne DEN 03/28/2015 DEN @ POR L 11 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -16
+p98
+aVWilson Chandler DEN 03/28/2015 DEN @ POR L 39 13 5 12 41.7 1 5 20.0 2 2 100.0 0 8 8 5 2 0 1 3 0
+p99
+aVErick Green DEN 03/28/2015 DEN @ POR L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p100
+aVKenneth Faried DEN 03/28/2015 DEN @ POR L 26 14 3 10 30.0 0 0 - 8 9 88.9 6 4 10 0 1 0 1 4 2
+p101
+aVJameer Nelson DEN 03/28/2015 DEN @ POR L 25 22 9 18 50.0 4 8 50.0 0 0 - 1 1 2 5 1 0 1 2 2
+p102
+aVTy Lawson DEN 03/28/2015 DEN @ POR L 35 13 3 11 27.3 0 0 - 7 8 87.5 0 1 1 7 1 0 3 0 1
+p103
+aVJJ Hickson DEN 03/28/2015 DEN @ POR L 26 9 4 9 44.4 0 0 - 1 2 50.0 4 4 8 2 3 0 2 1 -8
+p104
+aVGary Harris DEN 03/28/2015 DEN @ POR L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -2
+p105
+aVTy Lawson DEN 03/27/2015 DEN vs. UTA W 31 18 7 12 58.3 0 0 - 4 5 80.0 0 4 4 9 3 1 4 1 13
+p106
+aVJoffrey Lauvergne DEN 03/27/2015 DEN vs. UTA W 13 3 0 1 0.0 0 1 0.0 3 4 75.0 0 3 3 0 0 0 3 1 -3
+p107
+aVJusuf Nurkic DEN 03/27/2015 DEN vs. UTA W 11 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 0 0 2 2 -1
+p108
+aVJJ Hickson DEN 03/27/2015 DEN vs. UTA W 22 9 4 7 57.1 0 0 - 1 4 25.0 1 2 3 1 1 0 0 1 9
+p109
+aVErick Green DEN 03/27/2015 DEN vs. UTA W 13 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 6
+p110
+aVWilson Chandler DEN 03/27/2015 DEN vs. UTA W 35 11 4 7 57.1 1 2 50.0 2 2 100.0 1 5 6 4 2 0 0 4 16
+p111
+aVWill Barton DEN 03/27/2015 DEN vs. UTA W 20 12 5 9 55.6 2 2 100.0 0 0 - 2 8 10 2 0 0 1 4 6
+p112
+aVJameer Nelson DEN 03/27/2015 DEN vs. UTA W 22 18 7 10 70.0 4 5 80.0 0 0 - 1 0 1 3 0 0 3 2 11
+p113
+aVDanilo Gallinari DEN 03/27/2015 DEN vs. UTA W 28 13 4 14 28.6 3 8 37.5 2 2 100.0 1 3 4 0 1 3 2 3 10
+p114
+aVRandy Foye DEN 03/27/2015 DEN vs. UTA W 22 9 3 7 42.9 3 5 60.0 0 0 - 0 3 3 1 0 0 1 0 6
+p115
+aVGary Harris DEN 03/27/2015 DEN vs. UTA W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -3
+p116
+aVKenneth Faried DEN 03/27/2015 DEN vs. UTA W 17 5 1 2 50.0 0 0 - 3 4 75.0 2 2 4 1 0 0 1 4 10
+p117
+aVGary Harris DEN 03/25/2015 DEN vs. PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p118
+aVDanilo Gallinari DEN 03/25/2015 DEN vs. PHI L 31 8 3 10 30.0 1 5 20.0 1 2 50.0 0 5 5 2 2 0 2 2 2
+p119
+aVTy Lawson DEN 03/25/2015 DEN vs. PHI L 33 19 6 16 37.5 2 3 66.7 5 6 83.3 0 4 4 6 2 1 2 1 0
+p120
+aVRandy Foye DEN 03/25/2015 DEN vs. PHI L 34 5 2 7 28.6 1 6 16.7 0 0 - 1 2 3 1 1 0 2 4 -6
+p121
+aVJJ Hickson DEN 03/25/2015 DEN vs. PHI L 21 8 3 6 50.0 0 0 - 2 5 40.0 2 4 6 0 0 1 0 3 -7
+p122
+aVJameer Nelson DEN 03/25/2015 DEN vs. PHI L 25 12 6 16 37.5 0 6 0.0 0 0 - 1 3 4 2 2 0 3 1 -23
+p123
+aVJusuf Nurkic DEN 03/25/2015 DEN vs. PHI L 7 2 0 0 - 0 0 - 2 4 50.0 1 2 3 1 0 1 2 2 -5
+p124
+aVWill Barton DEN 03/25/2015 DEN vs. PHI L 22 6 2 6 33.3 0 1 0.0 2 2 100.0 2 3 5 0 0 1 1 0 -9
+p125
+aVWilson Chandler DEN 03/25/2015 DEN vs. PHI L 40 16 4 14 28.6 4 8 50.0 4 4 100.0 1 10 11 1 0 0 3 3 -11
+p126
+aVKenneth Faried DEN 03/25/2015 DEN vs. PHI L 27 9 3 9 33.3 0 0 - 3 4 75.0 5 3 8 0 1 0 1 6 -11
+p127
+aVDanilo Gallinari DEN 03/22/2015 DEN @ ORL W 33 40 12 21 57.1 6 13 46.2 10 11 90.9 0 7 7 4 3 2 1 1 15
+p128
+aVWilson Chandler DEN 03/22/2015 DEN @ ORL W 24 7 3 9 33.3 1 2 50.0 0 0 - 3 4 7 3 1 0 1 2 8
+p129
+aVKenneth Faried DEN 03/22/2015 DEN @ ORL W 25 11 4 12 33.3 0 0 - 3 4 75.0 1 4 5 1 1 0 1 1 7
+p130
+aVDarrell Arthur DEN 03/22/2015 DEN @ ORL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 15
+p131
+aVJoffrey Lauvergne DEN 03/22/2015 DEN @ ORL W 9 2 1 1 100.0 0 0 - 0 0 - 1 3 4 2 1 1 2 1 -10
+p132
+aVErick Green DEN 03/22/2015 DEN @ ORL W 20 6 2 7 28.6 2 4 50.0 0 0 - 1 1 2 2 1 0 0 2 4
+p133
+aVJameer Nelson DEN 03/22/2015 DEN @ ORL W 17 15 5 8 62.5 3 6 50.0 2 2 100.0 1 0 1 5 1 0 2 1 19
+p134
+aVTy Lawson DEN 03/22/2015 DEN @ ORL W 27 0 0 2 0.0 0 0 - 0 0 - 1 2 3 8 0 0 1 1 14
+p135
+aVJJ Hickson DEN 03/22/2015 DEN @ ORL W 18 11 5 10 50.0 0 0 - 1 1 100.0 5 3 8 0 1 0 2 1 11
+p136
+aVGary Harris DEN 03/22/2015 DEN @ ORL W 9 3 1 2 50.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 0 -10
+p137
+aVJusuf Nurkic DEN 03/22/2015 DEN @ ORL W 25 11 5 7 71.4 0 0 - 1 4 25.0 1 5 6 1 0 3 1 6 11
+p138
+aVWill Barton DEN 03/22/2015 DEN @ ORL W 25 11 3 10 30.0 0 2 0.0 5 6 83.3 3 2 5 3 2 0 2 1 11
+p139
+aVTy Lawson DEN 03/20/2015 DEN @ MIA L 38 10 5 12 41.7 0 2 0.0 0 4 0.0 2 3 5 12 1 1 2 1 -3
+p140
+aVRandy Foye DEN 03/20/2015 DEN @ MIA L 30 16 4 12 33.3 4 11 36.4 4 4 100.0 1 0 1 1 0 0 3 3 0
+p141
+aVJusuf Nurkic DEN 03/20/2015 DEN @ MIA L 30 16 7 10 70.0 0 0 - 2 2 100.0 3 4 7 0 2 1 4 5 2
+p142
+aVErick Green DEN 03/20/2015 DEN @ MIA L 11 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -16
+p143
+aVWill Barton DEN 03/20/2015 DEN @ MIA L 17 7 2 5 40.0 1 1 100.0 2 2 100.0 1 1 2 1 2 1 3 2 -16
+p144
+aVWilson Chandler DEN 03/20/2015 DEN @ MIA L 36 13 5 8 62.5 1 3 33.3 2 2 100.0 1 6 7 3 0 0 0 1 -10
+p145
+aVJoffrey Lauvergne DEN 03/20/2015 DEN @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p146
+aVDarrell Arthur DEN 03/20/2015 DEN @ MIA L 13 0 0 5 0.0 0 4 0.0 0 0 - 0 0 0 1 0 0 0 1 -11
+p147
+aVGary Harris DEN 03/20/2015 DEN @ MIA L 13 2 1 7 14.3 0 4 0.0 0 0 - 0 3 3 1 1 0 0 0 -6
+p148
+aVKenneth Faried DEN 03/20/2015 DEN @ MIA L 35 20 10 15 66.7 0 0 - 0 5 0.0 2 4 6 2 4 2 1 3 -11
+p149
+aVJJ Hickson DEN 03/20/2015 DEN @ MIA L 14 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 2 3 4 -15
+p150
+aVGary Harris DEN 03/19/2015 DEN @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p151
+aVJJ Hickson DEN 03/19/2015 DEN @ HOU L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 0
+p152
+aVKenneth Faried DEN 03/19/2015 DEN @ HOU L 30 19 8 11 72.7 0 0 - 3 6 50.0 2 10 12 2 0 1 1 3 -17
+p153
+aVJameer Nelson DEN 03/19/2015 DEN @ HOU L 17 13 4 9 44.4 4 5 80.0 1 3 33.3 0 0 0 1 0 0 0 4 -1
+p154
+aVDanilo Gallinari DEN 03/19/2015 DEN @ HOU L 34 10 3 9 33.3 0 5 0.0 4 5 80.0 0 3 3 1 1 0 3 3 -7
+p155
+aVTy Lawson DEN 03/19/2015 DEN @ HOU L 39 12 5 12 41.7 2 6 33.3 0 0 - 0 2 2 10 0 0 6 2 -12
+p156
+aVRandy Foye DEN 03/19/2015 DEN @ HOU L 35 23 9 19 47.4 5 12 41.7 0 0 - 0 2 2 6 1 0 0 3 1
+p157
+aVDarrell Arthur DEN 03/19/2015 DEN @ HOU L 18 0 0 4 0.0 0 1 0.0 0 0 - 1 6 7 1 1 0 0 4 7
+p158
+aVErick Green DEN 03/19/2015 DEN @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p159
+aVJusuf Nurkic DEN 03/19/2015 DEN @ HOU L 12 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 0 1 1 0 2 6
+p160
+aVWilson Chandler DEN 03/19/2015 DEN @ HOU L 31 23 10 17 58.8 2 6 33.3 1 1 100.0 0 6 6 2 3 1 1 5 -13
+p161
+aVWill Barton DEN 03/19/2015 DEN @ HOU L 19 3 1 6 16.7 0 1 0.0 1 2 50.0 2 3 5 0 1 0 2 2 -10
+p162
+aVWill Barton DEN 03/16/2015 DEN @ MEM L 23 5 1 5 20.0 1 2 50.0 2 2 100.0 0 2 2 4 1 1 2 1 -10
+p163
+aVJusuf Nurkic DEN 03/16/2015 DEN @ MEM L 20 2 0 2 0.0 0 0 - 2 4 50.0 0 3 3 0 0 1 1 5 2
+p164
+aVGary Harris DEN 03/16/2015 DEN @ MEM L 17 7 3 4 75.0 1 2 50.0 0 0 - 0 3 3 1 2 0 1 2 -2
+p165
+aVDarrell Arthur DEN 03/16/2015 DEN @ MEM L 29 3 1 11 9.1 0 1 0.0 1 2 50.0 3 2 5 3 2 0 1 3 -6
+p166
+aVErick Green DEN 03/16/2015 DEN @ MEM L 10 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p167
+aVJoffrey Lauvergne DEN 03/16/2015 DEN @ MEM L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 1 0 2 -2
+p168
+aVRandy Foye DEN 03/16/2015 DEN @ MEM L 33 16 6 14 42.9 2 6 33.3 2 2 100.0 0 3 3 3 3 0 1 0 -5
+p169
+aVJameer Nelson DEN 03/16/2015 DEN @ MEM L 34 24 11 18 61.1 2 5 40.0 0 0 - 0 5 5 2 1 0 4 4 -6
+p170
+aVWilson Chandler DEN 03/16/2015 DEN @ MEM L 36 13 4 10 40.0 2 2 100.0 3 6 50.0 3 5 8 0 2 1 3 1 -14
+p171
+aVJJ Hickson DEN 03/16/2015 DEN @ MEM L 32 9 3 12 25.0 0 0 - 3 5 60.0 3 4 7 1 1 1 2 5 -5
+p172
+aVErick Green DEN 03/15/2015 DEN @ NOP W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 4
+p173
+aVJoffrey Lauvergne DEN 03/15/2015 DEN @ NOP W 7 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 1 4
+p174
+aVJJ Hickson DEN 03/15/2015 DEN @ NOP W 19 8 2 7 28.6 0 0 - 4 8 50.0 2 6 8 1 0 0 0 0 4
+p175
+aVGary Harris DEN 03/15/2015 DEN @ NOP W 16 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 1 0 3 -9
+p176
+aVTy Lawson DEN 03/15/2015 DEN @ NOP W 48 19 9 18 50.0 1 5 20.0 0 0 - 3 2 5 9 3 0 1 0 -1
+p177
+aVJameer Nelson DEN 03/15/2015 DEN @ NOP W 38 18 7 16 43.8 4 8 50.0 0 0 - 1 4 5 6 1 0 3 0 20
+p178
+aVWill Barton DEN 03/15/2015 DEN @ NOP W 47 25 10 16 62.5 3 6 50.0 2 2 100.0 0 9 9 3 3 1 1 3 13
+p179
+aVDanilo Gallinari DEN 03/15/2015 DEN @ NOP W 42 17 6 15 40.0 2 8 25.0 3 3 100.0 0 4 4 4 0 0 1 5 6
+p180
+aVKenneth Faried DEN 03/15/2015 DEN @ NOP W 43 20 7 17 41.2 0 2 0.0 6 6 100.0 4 6 10 1 0 2 2 5 -3
+p181
+aVJusuf Nurkic DEN 03/15/2015 DEN @ NOP W 22 6 3 10 30.0 0 0 - 0 0 - 2 6 8 0 1 0 2 4 -3
+p182
+aVRandy Foye DEN 03/13/2015 DEN vs. GSW W 35 20 6 12 50.0 4 9 44.4 4 4 100.0 0 3 3 8 1 1 1 1 9
+p183
+aVJusuf Nurkic DEN 03/13/2015 DEN vs. GSW W 9 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 0 0 1 2 2 -2
+p184
+aVErick Green DEN 03/13/2015 DEN vs. GSW W 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -7
+p185
+aVWilson Chandler DEN 03/13/2015 DEN vs. GSW W 32 10 5 9 55.6 0 1 0.0 0 2 0.0 0 3 3 5 0 0 0 3 19
+p186
+aVKenneth Faried DEN 03/13/2015 DEN vs. GSW W 34 24 10 18 55.6 0 0 - 4 6 66.7 7 10 17 0 0 1 2 3 11
+p187
+aVGary Harris DEN 03/13/2015 DEN vs. GSW W 7 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p188
+aVWill Barton DEN 03/13/2015 DEN vs. GSW W 20 6 2 4 50.0 0 0 - 2 4 50.0 0 4 4 1 0 0 2 0 -4
+p189
+aVJJ Hickson DEN 03/13/2015 DEN vs. GSW W 19 5 1 2 50.0 0 0 - 3 8 37.5 3 3 6 1 0 0 1 2 -3
+p190
+aVJoffrey Lauvergne DEN 03/13/2015 DEN vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p191
+aVJameer Nelson DEN 03/13/2015 DEN vs. GSW W 38 17 7 12 58.3 3 4 75.0 0 0 - 0 4 4 7 1 0 3 4 18
+p192
+aVDanilo Gallinari DEN 03/13/2015 DEN vs. GSW W 34 24 7 16 43.8 1 3 33.3 9 11 81.8 2 5 7 1 1 0 0 4 15
+p193
+aVErick Green DEN 03/11/2015 DEN vs. ATL W 13 4 1 6 16.7 0 3 0.0 2 2 100.0 0 2 2 1 1 0 0 1 -16
+p194
+aVTy Lawson DEN 03/11/2015 DEN vs. ATL W 27 5 1 6 16.7 0 1 0.0 3 3 100.0 0 4 4 9 1 0 2 1 15
+p195
+aVJoffrey Lauvergne DEN 03/11/2015 DEN vs. ATL W 10 0 0 3 0.0 0 2 0.0 0 0 - 2 1 3 0 0 0 2 4 -18
+p196
+aVJJ Hickson DEN 03/11/2015 DEN vs. ATL W 31 10 4 7 57.1 0 0 - 2 3 66.7 4 5 9 1 0 1 2 1 -1
+p197
+aVJameer Nelson DEN 03/11/2015 DEN vs. ATL W 13 13 5 7 71.4 3 5 60.0 0 0 - 0 1 1 2 0 0 1 4 17
+p198
+aVGary Harris DEN 03/11/2015 DEN vs. ATL W 12 1 0 3 0.0 0 2 0.0 1 1 100.0 1 0 1 0 2 0 2 1 -17
+p199
+aVRandy Foye DEN 03/11/2015 DEN vs. ATL W 19 11 4 7 57.1 3 5 60.0 0 0 - 0 3 3 1 0 1 1 1 11
+p200
+aVDanilo Gallinari DEN 03/11/2015 DEN vs. ATL W 24 23 8 12 66.7 4 5 80.0 3 3 100.0 1 4 5 5 1 0 1 0 26
+p201
+aVWilson Chandler DEN 03/11/2015 DEN vs. ATL W 27 8 3 7 42.9 2 4 50.0 0 0 - 0 5 5 1 1 1 2 3 23
+p202
+aVWill Barton DEN 03/11/2015 DEN vs. ATL W 33 16 5 14 35.7 1 4 25.0 5 6 83.3 1 5 6 5 1 2 4 2 1
+p203
+aVKenneth Faried DEN 03/11/2015 DEN vs. ATL W 21 14 6 7 85.7 0 0 - 2 2 100.0 2 3 5 2 1 4 1 1 11
+p204
+aVDarrell Arthur DEN 03/11/2015 DEN vs. ATL W 10 10 5 5 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 13
+p205
+aVDanilo Gallinari DEN 03/09/2015 DEN vs. NYK W 18 9 3 7 42.9 3 5 60.0 0 0 - 0 2 2 1 0 0 0 2 24
+p206
+aVJJ Hickson DEN 03/09/2015 DEN vs. NYK W 24 6 2 6 33.3 0 0 - 2 4 50.0 1 6 7 1 2 1 1 0 6
+p207
+aVRandy Foye DEN 03/09/2015 DEN vs. NYK W 27 7 3 10 30.0 1 5 20.0 0 0 - 0 4 4 4 0 0 0 2 26
+p208
+aVJameer Nelson DEN 03/09/2015 DEN vs. NYK W 8 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 8
+p209
+aVTy Lawson DEN 03/09/2015 DEN vs. NYK W 25 14 3 6 50.0 1 1 100.0 7 9 77.8 0 1 1 6 0 0 0 1 29
+p210
+aVKenneth Faried DEN 03/09/2015 DEN vs. NYK W 28 19 7 12 58.3 0 0 - 5 7 71.4 4 7 11 1 1 1 1 3 9
+p211
+aVErick Green DEN 03/09/2015 DEN vs. NYK W 16 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 1 0 0 0 1 -9
+p212
+aVGary Harris DEN 03/09/2015 DEN vs. NYK W 22 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 2 -3
+p213
+aVWill Barton DEN 03/09/2015 DEN vs. NYK W 27 17 6 13 46.2 0 3 0.0 5 5 100.0 0 4 4 3 1 0 1 1 26
+p214
+aVWilson Chandler DEN 03/09/2015 DEN vs. NYK W 23 17 6 10 60.0 2 4 50.0 3 3 100.0 1 5 6 2 0 1 1 2 2
+p215
+aVJoffrey Lauvergne DEN 03/09/2015 DEN vs. NYK W 15 8 4 10 40.0 0 1 0.0 0 1 0.0 1 2 3 0 1 1 0 3 8
+p216
+aVDarrell Arthur DEN 03/09/2015 DEN vs. NYK W 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 1 0 0 1 14
+p217
+aVWill Barton DEN 03/07/2015 DEN vs. HOU L 20 10 4 8 50.0 0 2 0.0 2 3 66.7 0 0 0 0 1 2 2 2 -29
+p218
+aVDanilo Gallinari DEN 03/07/2015 DEN vs. HOU L 32 11 3 15 20.0 1 7 14.3 4 4 100.0 2 3 5 2 3 1 1 3 -3
+p219
+aVDarrell Arthur DEN 03/07/2015 DEN vs. HOU L 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -15
+p220
+aVJJ Hickson DEN 03/07/2015 DEN vs. HOU L 13 4 2 7 28.6 0 0 - 0 0 - 4 6 10 0 0 1 2 5 -10
+p221
+aVErick Green DEN 03/07/2015 DEN vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p222
+aVJameer Nelson DEN 03/07/2015 DEN vs. HOU L 14 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 2 1 -21
+p223
+aVJoffrey Lauvergne DEN 03/07/2015 DEN vs. HOU L 8 4 1 3 33.3 0 1 0.0 2 2 100.0 3 0 3 1 0 0 1 1 -13
+p224
+aVTy Lawson DEN 03/07/2015 DEN vs. HOU L 36 13 5 14 35.7 1 5 20.0 2 4 50.0 1 7 8 10 1 0 1 2 7
+p225
+aVKenneth Faried DEN 03/07/2015 DEN vs. HOU L 34 4 1 5 20.0 0 0 - 2 2 100.0 1 8 9 0 2 3 2 4 13
+p226
+aVWilson Chandler DEN 03/07/2015 DEN vs. HOU L 38 26 11 15 73.3 4 5 80.0 0 0 - 1 4 5 2 4 0 3 4 6
+p227
+aVGary Harris DEN 03/07/2015 DEN vs. HOU L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 -13
+p228
+aVRandy Foye DEN 03/07/2015 DEN vs. HOU L 27 20 7 11 63.6 3 7 42.9 3 4 75.0 0 2 2 7 2 1 3 3 16
+p229
+aVGary Harris DEN 03/06/2015 DEN @ SAS L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 6
+p230
+aVDanilo Gallinari DEN 03/06/2015 DEN @ SAS L 31 14 5 12 41.7 3 7 42.9 1 1 100.0 0 5 5 0 2 0 1 3 -18
+p231
+aVWill Barton DEN 03/06/2015 DEN @ SAS L 28 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 2 1 1 2 4 4
+p232
+aVJoffrey Lauvergne DEN 03/06/2015 DEN @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p233
+aVJameer Nelson DEN 03/06/2015 DEN @ SAS L 17 13 6 10 60.0 1 2 50.0 0 0 - 1 1 2 4 1 1 1 4 3
+p234
+aVDarrell Arthur DEN 03/06/2015 DEN @ SAS L 17 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 5
+p235
+aVWilson Chandler DEN 03/06/2015 DEN @ SAS L 30 16 7 13 53.8 0 2 0.0 2 2 100.0 1 7 8 1 0 0 2 4 -7
+p236
+aVRandy Foye DEN 03/06/2015 DEN @ SAS L 20 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 4 -13
+p237
+aVJJ Hickson DEN 03/06/2015 DEN @ SAS L 23 14 6 8 75.0 0 0 - 2 6 33.3 1 7 8 1 1 1 2 2 1
+p238
+aVKenneth Faried DEN 03/06/2015 DEN @ SAS L 34 20 9 15 60.0 0 0 - 2 6 33.3 5 5 10 2 1 0 1 0 -12
+p239
+aVTy Lawson DEN 03/06/2015 DEN @ SAS L 33 23 7 13 53.8 1 2 50.0 8 8 100.0 0 1 1 9 0 0 2 3 -12
+p240
+aVWill Barton DEN 03/04/2015 DEN @ MIN W 30 17 6 11 54.5 2 4 50.0 3 4 75.0 1 5 6 2 2 0 0 3 15
+p241
+aVKenneth Faried DEN 03/04/2015 DEN @ MIN W 33 18 8 14 57.1 0 0 - 2 3 66.7 4 10 14 2 2 2 3 3 10
+p242
+aVJJ Hickson DEN 03/04/2015 DEN @ MIN W 14 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 1 1 1 3 2
+p243
+aVTy Lawson DEN 03/04/2015 DEN @ MIN W 25 0 0 9 0.0 0 1 0.0 0 0 - 3 4 7 9 1 0 1 3 -4
+p244
+aVDarrell Arthur DEN 03/04/2015 DEN @ MIN W 15 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 11
+p245
+aVGary Harris DEN 03/04/2015 DEN @ MIN W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 3
+p246
+aVDanilo Gallinari DEN 03/04/2015 DEN @ MIN W 32 16 5 10 50.0 3 6 50.0 3 3 100.0 1 4 5 3 1 0 0 2 -6
+p247
+aVErick Green DEN 03/04/2015 DEN @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p248
+aVWilson Chandler DEN 03/04/2015 DEN @ MIN W 26 9 4 10 40.0 1 3 33.3 0 0 - 3 4 7 1 0 0 2 1 10
+p249
+aVJameer Nelson DEN 03/04/2015 DEN @ MIN W 25 12 6 10 60.0 0 3 0.0 0 0 - 0 2 2 9 1 0 3 1 19
+p250
+aVRandy Foye DEN 03/04/2015 DEN @ MIN W 18 10 4 7 57.1 2 2 100.0 0 0 - 0 2 2 1 0 0 2 0 0
+p251
+aVJoffrey Lauvergne DEN 03/04/2015 DEN @ MIN W 11 6 3 8 37.5 0 0 - 0 0 - 2 2 4 0 0 0 0 2 15
+p252
+aVWilson Chandler DEN 03/03/2015 DEN vs. MIL W 30 12 5 12 41.7 2 5 40.0 0 0 - 0 3 3 3 1 0 2 4 6
+p253
+aVDanilo Gallinari DEN 03/03/2015 DEN vs. MIL W 37 26 8 16 50.0 4 9 44.4 6 6 100.0 0 7 7 0 1 1 3 3 14
+p254
+aVRandy Foye DEN 03/03/2015 DEN vs. MIL W 28 9 3 9 33.3 3 8 37.5 0 0 - 0 1 1 5 0 1 1 3 10
+p255
+aVKenneth Faried DEN 03/03/2015 DEN vs. MIL W 32 14 5 10 50.0 0 0 - 4 5 80.0 2 12 14 0 0 2 1 0 12
+p256
+aVJameer Nelson DEN 03/03/2015 DEN vs. MIL W 15 9 4 7 57.1 0 3 0.0 1 1 100.0 0 0 0 2 1 0 1 2 -9
+p257
+aVWill Barton DEN 03/03/2015 DEN vs. MIL W 22 2 0 2 0.0 0 1 0.0 2 5 40.0 0 3 3 3 2 1 3 4 8
+p258
+aVErick Green DEN 03/03/2015 DEN vs. MIL W 7 4 1 2 50.0 1 2 50.0 1 1 100.0 0 0 0 0 0 0 0 1 5
+p259
+aVJJ Hickson DEN 03/03/2015 DEN vs. MIL W 18 6 3 9 33.3 0 0 - 0 0 - 3 7 10 2 0 0 0 1 -13
+p260
+aVGary Harris DEN 03/03/2015 DEN vs. MIL W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -4
+p261
+aVTy Lawson DEN 03/03/2015 DEN vs. MIL W 31 16 6 12 50.0 2 5 40.0 2 2 100.0 1 1 2 10 2 0 1 3 19
+p262
+aVDarrell Arthur DEN 03/03/2015 DEN vs. MIL W 14 8 4 5 80.0 0 0 - 0 0 - 1 1 2 1 1 0 0 2 7
+p263
+aVDanilo Gallinari DEN 03/01/2015 DEN vs. NOP L 32 21 7 18 38.9 2 8 25.0 5 6 83.3 1 3 4 0 0 1 1 2 3
+p264
+aVWill Barton DEN 03/01/2015 DEN vs. NOP L 27 16 7 14 50.0 0 2 0.0 2 3 66.7 3 7 10 0 2 0 0 3 -4
+p265
+aVJameer Nelson DEN 03/01/2015 DEN vs. NOP L 21 6 3 7 42.9 0 3 0.0 0 0 - 0 1 1 3 1 0 1 2 3
+p266
+aVWilson Chandler DEN 03/01/2015 DEN vs. NOP L 34 14 6 10 60.0 2 5 40.0 0 2 0.0 1 7 8 0 0 0 0 4 -18
+p267
+aVKenneth Faried DEN 03/01/2015 DEN vs. NOP L 27 3 1 6 16.7 0 1 0.0 1 2 50.0 1 5 6 3 1 1 1 5 -7
+p268
+aVJoffrey Lauvergne DEN 03/01/2015 DEN vs. NOP L 11 0 0 5 0.0 0 1 0.0 0 0 - 2 1 3 0 1 0 1 1 -1
+p269
+aVTy Lawson DEN 03/01/2015 DEN vs. NOP L 27 5 2 6 33.3 0 2 0.0 1 2 50.0 0 1 1 11 2 0 3 3 -10
+p270
+aVJJ Hickson DEN 03/01/2015 DEN vs. NOP L 16 6 3 11 27.3 0 0 - 0 2 0.0 8 2 10 0 0 1 0 1 7
+p271
+aVRandy Foye DEN 03/01/2015 DEN vs. NOP L 30 19 7 13 53.8 5 10 50.0 0 0 - 0 0 0 0 2 0 3 4 -11
+p272
+aVGary Harris DEN 03/01/2015 DEN vs. NOP L 16 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 3
+p273
+aVJJ Hickson DEN 02/27/2015 DEN vs. UTA L 15 3 1 4 25.0 0 0 - 1 4 25.0 4 1 5 0 0 0 1 2 -22
+p274
+aVWilson Chandler DEN 02/27/2015 DEN vs. UTA L 34 6 2 11 18.2 1 6 16.7 1 1 100.0 4 4 8 3 2 1 3 1 -1
+p275
+aVTy Lawson DEN 02/27/2015 DEN vs. UTA L 32 8 2 6 33.3 2 2 100.0 2 4 50.0 0 2 2 6 0 0 1 1 -12
+p276
+aVKenneth Faried DEN 02/27/2015 DEN vs. UTA L 28 12 4 9 44.4 0 0 - 4 4 100.0 3 5 8 2 3 1 2 2 15
+p277
+aVJameer Nelson DEN 02/27/2015 DEN vs. UTA L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -3
+p278
+aVErick Green DEN 02/27/2015 DEN vs. UTA L 9 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 1 -7
+p279
+aVRandy Foye DEN 02/27/2015 DEN vs. UTA L 17 5 2 8 25.0 1 5 20.0 0 0 - 1 0 1 4 1 0 0 2 4
+p280
+aVWill Barton DEN 02/27/2015 DEN vs. UTA L 31 22 8 15 53.3 1 3 33.3 5 6 83.3 1 1 2 2 0 0 2 2 9
+p281
+aVGary Harris DEN 02/27/2015 DEN vs. UTA L 16 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 0 1 0 1 0 -29
+p282
+aVDanilo Gallinari DEN 02/27/2015 DEN vs. UTA L 26 13 5 15 33.3 2 8 25.0 1 2 50.0 1 1 2 1 2 0 1 1 -28
+p283
+aVJoffrey Lauvergne DEN 02/27/2015 DEN vs. UTA L 26 9 3 8 37.5 1 3 33.3 2 6 33.3 2 4 6 0 0 1 3 1 -36
+p284
+aVWill Barton DEN 02/25/2015 DEN vs. PHX L 34 22 6 9 66.7 3 5 60.0 7 8 87.5 2 6 8 3 0 1 2 2 -6
+p285
+aVJoffrey Lauvergne DEN 02/25/2015 DEN vs. PHX L 26 11 4 7 57.1 1 1 100.0 2 5 40.0 3 6 9 1 1 1 2 2 -9
+p286
+aVGary Harris DEN 02/25/2015 DEN vs. PHX L 26 9 3 10 30.0 1 5 20.0 2 2 100.0 0 0 0 2 1 0 1 4 8
+p287
+aVTy Lawson DEN 02/25/2015 DEN vs. PHX L 38 13 5 12 41.7 2 5 40.0 1 2 50.0 1 3 4 7 3 0 1 4 -10
+p288
+aVDarrell Arthur DEN 02/25/2015 DEN vs. PHX L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 6
+p289
+aVDanilo Gallinari DEN 02/25/2015 DEN vs. PHX L 34 20 6 16 37.5 5 11 45.5 3 3 100.0 1 6 7 1 1 1 6 0 -8
+p290
+aVJusuf Nurkic DEN 02/25/2015 DEN vs. PHX L 21 8 3 7 42.9 0 0 - 2 3 66.7 1 7 8 2 1 1 2 4 9
+p291
+aVJJ Hickson DEN 02/25/2015 DEN vs. PHX L 22 8 2 5 40.0 0 0 - 4 6 66.7 1 2 3 0 1 1 0 0 -30
+p292
+aVJameer Nelson DEN 02/25/2015 DEN vs. PHX L 13 0 0 3 0.0 0 1 0.0 0 2 0.0 1 0 1 4 2 0 0 0 -7
+p293
+aVRandy Foye DEN 02/25/2015 DEN vs. PHX L 22 4 2 11 18.2 0 6 0.0 0 0 - 0 0 0 2 1 0 1 3 -23
+p294
+aVRandy Foye DEN 02/23/2015 DEN vs. BKN L 20 5 2 8 25.0 1 5 20.0 0 2 0.0 1 2 3 1 0 0 0 1 -19
+p295
+aVJJ Hickson DEN 02/23/2015 DEN vs. BKN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p296
+aVErick Green DEN 02/23/2015 DEN vs. BKN L 15 3 1 6 16.7 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -14
+p297
+aVJameer Nelson DEN 02/23/2015 DEN vs. BKN L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 1 1 2 -1
+p298
+aVJusuf Nurkic DEN 02/23/2015 DEN vs. BKN L 25 7 3 10 30.0 0 0 - 1 2 50.0 4 6 10 1 1 0 1 5 -4
+p299
+aVKenneth Faried DEN 02/23/2015 DEN vs. BKN L 13 4 1 4 25.0 0 0 - 2 4 50.0 3 2 5 1 0 1 1 3 -9
+p300
+aVTy Lawson DEN 02/23/2015 DEN vs. BKN L 32 6 3 7 42.9 0 2 0.0 0 2 0.0 0 5 5 10 1 0 4 2 -22
+p301
+aVJoffrey Lauvergne DEN 02/23/2015 DEN vs. BKN L 20 0 0 6 0.0 0 2 0.0 0 0 - 3 6 9 2 2 0 3 2 -24
+p302
+aVGary Harris DEN 02/23/2015 DEN vs. BKN L 26 10 4 12 33.3 1 6 16.7 1 3 33.3 1 1 2 0 0 1 1 3 -12
+p303
+aVDarrell Arthur DEN 02/23/2015 DEN vs. BKN L 23 10 5 15 33.3 0 0 - 0 0 - 5 2 7 0 0 0 0 5 -16
+p304
+aVWill Barton DEN 02/23/2015 DEN vs. BKN L 21 15 5 11 45.5 1 3 33.3 4 4 100.0 2 2 4 1 0 0 1 0 -5
+p305
+aVDanilo Gallinari DEN 02/23/2015 DEN vs. BKN L 30 22 7 12 58.3 3 5 60.0 5 5 100.0 0 2 2 1 2 0 0 1 -17
+p306
+aVJusuf Nurkic DEN 02/22/2015 DEN @ OKC L 28 10 5 13 38.5 0 0 - 0 0 - 6 1 7 1 2 0 1 5 -14
+p307
+aVDanilo Gallinari DEN 02/22/2015 DEN @ OKC L 19 16 5 11 45.5 3 6 50.0 3 4 75.0 1 1 2 0 0 0 2 2 -19
+p308
+aVWilson Chandler DEN 02/22/2015 DEN @ OKC L 18 4 2 11 18.2 0 4 0.0 0 0 - 3 1 4 1 1 1 0 1 -13
+p309
+aVTy Lawson DEN 02/22/2015 DEN @ OKC L 24 17 6 12 50.0 0 2 0.0 5 5 100.0 1 0 1 4 3 0 1 1 -27
+p310
+aVDarrell Arthur DEN 02/22/2015 DEN @ OKC L 17 5 1 5 20.0 0 1 0.0 3 4 75.0 1 3 4 0 2 0 0 3 -4
+p311
+aVRandy Foye DEN 02/22/2015 DEN @ OKC L 18 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 3 0 0 2 2 -16
+p312
+aVJameer Nelson DEN 02/22/2015 DEN @ OKC L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 5 0 0 0 0 2
+p313
+aVKenneth Faried DEN 02/22/2015 DEN @ OKC L 21 2 1 5 20.0 0 0 - 0 1 0.0 2 5 7 0 1 1 0 1 -21
+p314
+aVErick Green DEN 02/22/2015 DEN @ OKC L 10 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 1 2 0 1 0 0
+p315
+aVJJ Hickson DEN 02/22/2015 DEN @ OKC L 12 4 1 4 25.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 1 -9
+p316
+aVGary Harris DEN 02/22/2015 DEN @ OKC L 16 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 1 0 0 2 1 -2
+p317
+aVJoffrey Lauvergne DEN 02/22/2015 DEN @ OKC L 18 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 0 0 2 1 1 -2
+p318
+aVWill Barton DEN 02/22/2015 DEN @ OKC L 25 8 3 10 30.0 2 4 50.0 0 0 - 0 3 3 3 2 1 1 1 0
+p319
+aVDanilo Gallinari DEN 02/20/2015 DEN @ MIL L 36 10 3 12 25.0 2 6 33.3 2 2 100.0 1 4 5 2 4 0 0 1 2
+p320
+aVRandy Foye DEN 02/20/2015 DEN @ MIL L 25 5 2 6 33.3 1 3 33.3 0 0 - 0 4 4 2 0 1 1 1 -13
+p321
+aVDarrell Arthur DEN 02/20/2015 DEN @ MIL L 20 5 1 6 16.7 0 0 - 3 4 75.0 0 0 0 1 0 2 0 4 -8
+p322
+aVKenneth Faried DEN 02/20/2015 DEN @ MIL L 23 8 4 11 36.4 0 0 - 0 1 0.0 3 2 5 1 1 0 3 2 1
+p323
+aVWilson Chandler DEN 02/20/2015 DEN @ MIL L 38 19 8 20 40.0 3 12 25.0 0 0 - 0 4 4 3 0 1 3 2 -4
+p324
+aVErick Green DEN 02/20/2015 DEN @ MIL L 11 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 2 0 0 1 -11
+p325
+aVGary Harris DEN 02/20/2015 DEN @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p326
+aVJusuf Nurkic DEN 02/20/2015 DEN @ MIL L 33 11 5 9 55.6 0 0 - 1 3 33.3 6 9 15 2 2 3 1 4 0
+p327
+aVJameer Nelson DEN 02/20/2015 DEN @ MIL L 37 7 2 10 20.0 1 5 20.0 2 3 66.7 1 3 4 7 1 0 3 2 3
+p328
+aVJJ Hickson DEN 02/20/2015 DEN @ MIL L 15 8 2 6 33.3 0 0 - 4 6 66.7 3 5 8 0 1 0 3 1 -8
+p329
+aVJusuf Nurkic DEN 02/10/2015 DEN @ LAL W 19 6 3 3 100.0 0 0 - 0 0 - 2 3 5 1 1 4 1 5 -12
+p330
+aVJJ Hickson DEN 02/10/2015 DEN @ LAL W 26 13 5 7 71.4 0 0 - 3 6 50.0 1 6 7 1 1 0 2 1 11
+p331
+aVRandy Foye DEN 02/10/2015 DEN @ LAL W 25 12 5 7 71.4 2 4 50.0 0 0 - 0 2 2 2 2 1 0 3 18
+p332
+aVDarrell Arthur DEN 02/10/2015 DEN @ LAL W 26 15 6 10 60.0 0 1 0.0 3 4 75.0 0 5 5 3 0 2 0 4 21
+p333
+aVWilson Chandler DEN 02/10/2015 DEN @ LAL W 29 13 6 13 46.2 1 4 25.0 0 0 - 1 5 6 0 0 0 1 2 7
+p334
+aVJaVale McGee DEN 02/10/2015 DEN @ LAL W 1 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 4
+p335
+aVDanilo Gallinari DEN 02/10/2015 DEN @ LAL W 21 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 0 2 1 0 0 7
+p336
+aVKenneth Faried DEN 02/10/2015 DEN @ LAL W 22 2 1 5 20.0 0 0 - 0 1 0.0 0 5 5 0 1 0 0 3 -11
+p337
+aVArron Afflalo DEN 02/10/2015 DEN @ LAL W 25 6 3 8 37.5 0 2 0.0 0 0 - 0 0 0 2 0 0 1 1 -1
+p338
+aVTy Lawson DEN 02/10/2015 DEN @ LAL W 45 32 12 20 60.0 1 3 33.3 7 8 87.5 0 3 3 16 2 0 2 3 6
+p339
+aVDanilo Gallinari DEN 02/09/2015 DEN vs. OKC L 14 3 1 6 16.7 1 6 16.7 0 0 - 0 1 1 0 1 0 1 1 -3
+p340
+aVJJ Hickson DEN 02/09/2015 DEN vs. OKC L 12 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 1 1 0 1 1 -15
+p341
+aVTy Lawson DEN 02/09/2015 DEN vs. OKC L 38 22 8 12 66.7 5 7 71.4 1 2 50.0 0 1 1 9 1 0 2 3 -6
+p342
+aVGary Harris DEN 02/09/2015 DEN vs. OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p343
+aVJusuf Nurkic DEN 02/09/2015 DEN vs. OKC L 34 16 6 10 60.0 0 0 - 4 6 66.7 5 9 14 2 2 1 4 6 1
+p344
+aVErick Green DEN 02/09/2015 DEN vs. OKC L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p345
+aVDarrell Arthur DEN 02/09/2015 DEN vs. OKC L 17 9 4 10 40.0 0 1 0.0 1 2 50.0 1 4 5 1 1 2 0 1 -6
+p346
+aVRandy Foye DEN 02/09/2015 DEN vs. OKC L 25 8 2 7 28.6 2 5 40.0 2 2 100.0 0 1 1 3 0 1 0 4 11
+p347
+aVArron Afflalo DEN 02/09/2015 DEN vs. OKC L 28 6 2 9 22.2 0 5 0.0 2 3 66.7 1 2 3 1 0 0 1 1 -26
+p348
+aVKenneth Faried DEN 02/09/2015 DEN vs. OKC L 33 22 8 14 57.1 0 0 - 6 8 75.0 5 5 10 1 0 0 1 4 0
+p349
+aVWilson Chandler DEN 02/09/2015 DEN vs. OKC L 35 23 9 15 60.0 1 3 33.3 4 4 100.0 0 1 1 2 1 0 0 4 -6
+p350
+aVJJ Hickson DEN 02/06/2015 DEN @ DET L 15 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 0 0 1 0 -2
+p351
+aVDanilo Gallinari DEN 02/06/2015 DEN @ DET L 30 12 4 10 40.0 2 6 33.3 2 2 100.0 1 5 6 3 0 0 1 1 4
+p352
+aVRandy Foye DEN 02/06/2015 DEN @ DET L 14 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 1 0 0 2 4 8
+p353
+aVGary Harris DEN 02/06/2015 DEN @ DET L 11 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 2 0 0 0 1 -5
+p354
+aVAlonzo Gee DEN 02/06/2015 DEN @ DET L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 0 0 0 2
+p355
+aVWilson Chandler DEN 02/06/2015 DEN @ DET L 22 11 5 11 45.5 1 4 25.0 0 0 - 0 5 5 1 0 1 1 3 -12
+p356
+aVArron Afflalo DEN 02/06/2015 DEN @ DET L 23 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 1 0 1 1 2 -13
+p357
+aVErick Green DEN 02/06/2015 DEN @ DET L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 2
+p358
+aVDarrell Arthur DEN 02/06/2015 DEN @ DET L 18 10 4 9 44.4 0 0 - 2 2 100.0 0 0 0 0 2 0 1 3 -9
+p359
+aVJusuf Nurkic DEN 02/06/2015 DEN @ DET L 26 6 1 10 10.0 0 0 - 4 6 66.7 4 9 13 1 1 1 0 1 -14
+p360
+aVTy Lawson DEN 02/06/2015 DEN @ DET L 39 20 6 12 50.0 1 2 50.0 7 8 87.5 0 3 3 9 0 0 4 4 -12
+p361
+aVKenneth Faried DEN 02/06/2015 DEN @ DET L 25 10 4 9 44.4 0 0 - 2 4 50.0 4 2 6 2 3 2 1 5 1
+p362
+aVJusuf Nurkic DEN 02/04/2015 DEN @ BOS L 21 14 4 7 57.1 0 0 - 6 6 100.0 3 4 7 2 1 3 2 2 1
+p363
+aVTy Lawson DEN 02/04/2015 DEN @ BOS L 43 23 9 15 60.0 1 3 33.3 4 4 100.0 1 1 2 8 2 0 4 0 3
+p364
+aVDanilo Gallinari DEN 02/04/2015 DEN @ BOS L 25 7 1 9 11.1 0 5 0.0 5 6 83.3 1 6 7 1 0 0 3 2 -2
+p365
+aVGary Harris DEN 02/04/2015 DEN @ BOS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p366
+aVWilson Chandler DEN 02/04/2015 DEN @ BOS L 36 8 2 8 25.0 0 5 0.0 4 4 100.0 2 6 8 4 1 1 2 2 4
+p367
+aVDarrell Arthur DEN 02/04/2015 DEN @ BOS L 19 2 1 7 14.3 0 2 0.0 0 0 - 2 4 6 0 2 1 1 5 -15
+p368
+aVErick Green DEN 02/04/2015 DEN @ BOS L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p369
+aVKenneth Faried DEN 02/04/2015 DEN @ BOS L 32 17 6 8 75.0 0 0 - 5 5 100.0 3 8 11 0 0 1 1 3 11
+p370
+aVArron Afflalo DEN 02/04/2015 DEN @ BOS L 36 18 6 17 35.3 3 9 33.3 3 4 75.0 1 2 3 3 2 0 1 3 1
+p371
+aVJJ Hickson DEN 02/04/2015 DEN @ BOS L 7 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -10
+p372
+aVAlonzo Gee DEN 02/04/2015 DEN @ BOS L 10 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 0 1 0 0 2 1
+p373
+aVJameer Nelson DEN 02/03/2015 DEN @ PHI L 20 10 4 10 40.0 2 5 40.0 0 0 - 0 3 3 4 4 0 2 2 -3
+p374
+aVAlonzo Gee DEN 02/03/2015 DEN @ PHI L 17 3 1 2 50.0 0 0 - 1 4 25.0 1 0 1 2 1 0 0 0 -5
+p375
+aVJusuf Nurkic DEN 02/03/2015 DEN @ PHI L 13 7 3 5 60.0 0 0 - 1 3 33.3 2 1 3 1 1 1 0 4 -2
+p376
+aVJJ Hickson DEN 02/03/2015 DEN @ PHI L 20 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 0 1 1 1 -6
+p377
+aVKenneth Faried DEN 02/03/2015 DEN @ PHI L 19 0 0 6 0.0 0 0 - 0 0 - 0 5 5 0 1 0 1 3 -8
+p378
+aVArron Afflalo DEN 02/03/2015 DEN @ PHI L 29 14 5 15 33.3 2 5 40.0 2 2 100.0 0 2 2 1 1 0 4 3 -10
+p379
+aVDarrell Arthur DEN 02/03/2015 DEN @ PHI L 11 6 3 7 42.9 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -2
+p380
+aVRandy Foye DEN 02/03/2015 DEN @ PHI L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -11
+p381
+aVDanilo Gallinari DEN 02/03/2015 DEN @ PHI L 26 22 5 11 45.5 2 7 28.6 10 11 90.9 1 3 4 1 1 0 3 5 -5
+p382
+aVWilson Chandler DEN 02/03/2015 DEN @ PHI L 26 19 7 15 46.7 5 10 50.0 0 0 - 0 6 6 2 1 0 0 1 4
+p383
+aVGary Harris DEN 02/03/2015 DEN @ PHI L 18 7 2 4 50.0 1 2 50.0 2 2 100.0 1 0 1 1 1 0 0 2 14
+p384
+aVTy Lawson DEN 02/03/2015 DEN @ PHI L 34 5 1 4 25.0 0 0 - 3 4 75.0 1 5 6 14 2 0 1 3 -1
+p385
+aVAlonzo Gee DEN 01/31/2015 DEN vs. CHA L 20 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -6
+p386
+aVWilson Chandler DEN 01/31/2015 DEN vs. CHA L 24 10 4 9 44.4 1 3 33.3 1 1 100.0 1 7 8 2 0 0 0 2 -12
+p387
+aVRandy Foye DEN 01/31/2015 DEN vs. CHA L 11 1 0 6 0.0 0 5 0.0 1 2 50.0 0 0 0 1 1 0 0 1 -11
+p388
+aVJameer Nelson DEN 01/31/2015 DEN vs. CHA L 18 3 1 7 14.3 0 2 0.0 1 2 50.0 0 1 1 3 0 0 1 4 -17
+p389
+aVDanilo Gallinari DEN 01/31/2015 DEN vs. CHA L 24 15 5 16 31.3 1 5 20.0 4 4 100.0 0 4 4 2 0 0 1 0 11
+p390
+aVJaVale McGee DEN 01/31/2015 DEN vs. CHA L 16 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 0 0 2 0 1 -12
+p391
+aVArron Afflalo DEN 01/31/2015 DEN vs. CHA L 30 8 3 9 33.3 1 4 25.0 1 2 50.0 0 7 7 1 0 0 4 1 -17
+p392
+aVErick Green DEN 01/31/2015 DEN vs. CHA L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 15
+p393
+aVGary Harris DEN 01/31/2015 DEN vs. CHA L 8 7 3 6 50.0 1 2 50.0 0 0 - 2 0 2 1 0 1 1 2 11
+p394
+aVJJ Hickson DEN 01/31/2015 DEN vs. CHA L 30 12 5 8 62.5 0 0 - 2 2 100.0 1 7 8 0 0 1 2 3 -28
+p395
+aVJusuf Nurkic DEN 01/31/2015 DEN vs. CHA L 21 6 3 9 33.3 0 0 - 0 0 - 2 5 7 0 1 4 0 1 -3
+p396
+aVTy Lawson DEN 01/31/2015 DEN vs. CHA L 32 10 3 8 37.5 1 2 50.0 3 5 60.0 1 4 5 9 0 0 2 2 -21
+p397
+aVDarrell Arthur DEN 01/29/2015 DEN @ MEM L 13 7 3 7 42.9 0 2 0.0 1 2 50.0 0 2 2 0 1 1 1 1 -11
+p398
+aVJameer Nelson DEN 01/29/2015 DEN @ MEM L 21 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 5 0 0 2 2 -14
+p399
+aVArron Afflalo DEN 01/29/2015 DEN @ MEM L 23 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 2 -17
+p400
+aVKenneth Faried DEN 01/29/2015 DEN @ MEM L 23 10 5 11 45.5 0 0 - 0 0 - 1 6 7 1 0 0 1 3 -14
+p401
+aVDanilo Gallinari DEN 01/29/2015 DEN @ MEM L 14 8 3 7 42.9 1 3 33.3 1 1 100.0 1 2 3 0 0 0 2 0 -5
+p402
+aVWilson Chandler DEN 01/29/2015 DEN @ MEM L 26 10 5 11 45.5 0 5 0.0 0 0 - 1 4 5 1 1 1 0 1 -16
+p403
+aVJusuf Nurkic DEN 01/29/2015 DEN @ MEM L 22 0 0 7 0.0 0 0 - 0 0 - 3 3 6 1 1 0 3 2 -16
+p404
+aVGary Harris DEN 01/29/2015 DEN @ MEM L 15 2 0 6 0.0 0 3 0.0 2 2 100.0 1 1 2 1 1 1 0 1 -6
+p405
+aVJaVale McGee DEN 01/29/2015 DEN @ MEM L 15 2 1 2 50.0 0 0 - 0 0 - 0 5 5 1 0 1 0 2 -3
+p406
+aVAlonzo Gee DEN 01/29/2015 DEN @ MEM L 15 6 3 5 60.0 0 1 0.0 0 0 - 2 3 5 0 1 0 1 1 -11
+p407
+aVRandy Foye DEN 01/29/2015 DEN @ MEM L 16 2 0 6 0.0 0 5 0.0 2 2 100.0 0 1 1 2 0 0 3 1 -11
+p408
+aVJJ Hickson DEN 01/29/2015 DEN @ MEM L 12 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -9
+p409
+aVTy Lawson DEN 01/29/2015 DEN @ MEM L 25 9 3 11 27.3 0 3 0.0 3 3 100.0 0 2 2 6 1 1 1 0 -17
+p410
+aVArron Afflalo DEN 01/28/2015 DEN @ NOP W 39 20 7 13 53.8 4 7 57.1 2 2 100.0 0 1 1 4 0 0 1 2 9
+p411
+aVDanilo Gallinari DEN 01/28/2015 DEN @ NOP W 20 11 4 8 50.0 3 5 60.0 0 0 - 0 2 2 2 0 1 0 1 3
+p412
+aVJJ Hickson DEN 01/28/2015 DEN @ NOP W 19 10 5 10 50.0 0 0 - 0 0 - 2 3 5 2 0 0 0 0 1
+p413
+aVTy Lawson DEN 01/28/2015 DEN @ NOP W 32 5 2 12 16.7 1 2 50.0 0 0 - 1 0 1 13 1 0 1 2 8
+p414
+aVJusuf Nurkic DEN 01/28/2015 DEN @ NOP W 29 15 7 9 77.8 0 0 - 1 2 50.0 0 9 9 0 1 2 4 4 5
+p415
+aVJameer Nelson DEN 01/28/2015 DEN @ NOP W 16 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 3 0 0 0 4 0
+p416
+aVKenneth Faried DEN 01/28/2015 DEN @ NOP W 32 14 6 11 54.5 0 0 - 2 3 66.7 2 5 7 1 2 1 0 3 8
+p417
+aVWilson Chandler DEN 01/28/2015 DEN @ NOP W 28 9 4 8 50.0 1 1 100.0 0 0 - 2 6 8 3 0 0 2 3 7
+p418
+aVDarrell Arthur DEN 01/28/2015 DEN @ NOP W 18 4 2 7 28.6 0 0 - 0 0 - 0 2 2 1 0 3 0 3 -2
+p419
+aVRandy Foye DEN 01/28/2015 DEN @ NOP W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 1
+p420
+aVJusuf Nurkic DEN 01/26/2015 DEN @ LAC L 29 6 3 6 50.0 0 0 - 0 2 0.0 0 10 10 1 1 3 2 4 14
+p421
+aVTy Lawson DEN 01/26/2015 DEN @ LAC L 35 19 7 12 58.3 0 0 - 5 6 83.3 0 3 3 11 0 0 3 1 5
+p422
+aVDarrell Arthur DEN 01/26/2015 DEN @ LAC L 19 8 3 7 42.9 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -7
+p423
+aVArron Afflalo DEN 01/26/2015 DEN @ LAC L 37 18 8 13 61.5 2 4 50.0 0 0 - 1 2 3 6 3 1 1 0 0
+p424
+aVRandy Foye DEN 01/26/2015 DEN @ LAC L 7 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 0
+p425
+aVKenneth Faried DEN 01/26/2015 DEN @ LAC L 30 14 6 9 66.7 0 0 - 2 3 66.7 1 1 2 0 0 0 0 1 2
+p426
+aVAlonzo Gee DEN 01/26/2015 DEN @ LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p427
+aVJJ Hickson DEN 01/26/2015 DEN @ LAC L 17 2 1 3 33.3 0 1 0.0 0 0 - 2 3 5 2 0 0 1 1 -11
+p428
+aVDanilo Gallinari DEN 01/26/2015 DEN @ LAC L 18 8 3 7 42.9 2 5 40.0 0 0 - 0 2 2 1 0 0 0 3 -13
+p429
+aVJameer Nelson DEN 01/26/2015 DEN @ LAC L 13 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 2 0 2 0 -7
+p430
+aVWilson Chandler DEN 01/26/2015 DEN @ LAC L 35 18 7 18 38.9 3 8 37.5 1 2 50.0 3 7 10 2 1 0 1 3 -1
+p431
+aVJJ Hickson DEN 01/25/2015 DEN vs. WAS L 20 10 3 5 60.0 0 0 - 4 8 50.0 0 3 3 1 1 0 2 4 -7
+p432
+aVJusuf Nurkic DEN 01/25/2015 DEN vs. WAS L 19 6 2 6 33.3 0 0 - 2 2 100.0 1 8 9 2 1 0 1 4 0
+p433
+aVDarrell Arthur DEN 01/25/2015 DEN vs. WAS L 29 12 6 15 40.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 3 10
+p434
+aVKenneth Faried DEN 01/25/2015 DEN vs. WAS L 39 9 4 10 40.0 0 0 - 1 4 25.0 4 7 11 1 0 2 0 5 -7
+p435
+aVTy Lawson DEN 01/25/2015 DEN vs. WAS L 42 31 10 20 50.0 3 5 60.0 8 8 100.0 2 1 3 12 3 0 2 1 2
+p436
+aVJameer Nelson DEN 01/25/2015 DEN vs. WAS L 14 9 3 4 75.0 3 4 75.0 0 0 - 0 1 1 4 1 0 1 1 -11
+p437
+aVRandy Foye DEN 01/25/2015 DEN vs. WAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p438
+aVWilson Chandler DEN 01/25/2015 DEN vs. WAS L 38 20 8 19 42.1 4 9 44.4 0 0 - 5 4 9 1 1 1 1 4 13
+p439
+aVDanilo Gallinari DEN 01/25/2015 DEN vs. WAS L 15 7 1 5 20.0 1 2 50.0 4 4 100.0 0 1 1 2 0 0 0 1 -15
+p440
+aVArron Afflalo DEN 01/25/2015 DEN vs. WAS L 43 11 4 17 23.5 1 7 14.3 2 2 100.0 1 5 6 3 0 0 2 1 0
+p441
+aVKenneth Faried DEN 01/23/2015 DEN vs. BOS L 38 11 4 12 33.3 0 0 - 3 5 60.0 4 10 14 3 0 1 1 4 7
+p442
+aVDarrell Arthur DEN 01/23/2015 DEN vs. BOS L 13 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 1 0 2 4 -8
+p443
+aVArron Afflalo DEN 01/23/2015 DEN vs. BOS L 39 20 6 13 46.2 1 4 25.0 7 7 100.0 1 3 4 4 0 0 1 3 9
+p444
+aVJameer Nelson DEN 01/23/2015 DEN vs. BOS L 42 23 9 20 45.0 4 7 57.1 1 2 50.0 0 0 0 7 1 0 4 2 0
+p445
+aVWilson Chandler DEN 01/23/2015 DEN vs. BOS L 36 14 5 15 33.3 1 5 20.0 3 4 75.0 2 4 6 2 3 1 0 1 8
+p446
+aVJusuf Nurkic DEN 01/23/2015 DEN vs. BOS L 15 6 3 7 42.9 0 0 - 0 0 - 4 4 8 0 0 0 1 3 -6
+p447
+aVRandy Foye DEN 01/23/2015 DEN vs. BOS L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 2 1 -9
+p448
+aVJJ Hickson DEN 01/23/2015 DEN vs. BOS L 29 15 6 8 75.0 0 0 - 3 6 50.0 6 8 14 3 2 0 1 1 6
+p449
+aVDanilo Gallinari DEN 01/23/2015 DEN vs. BOS L 17 4 1 7 14.3 0 3 0.0 2 2 100.0 0 0 0 0 1 0 0 0 -12
+p450
+aVJJ Hickson DEN 01/20/2015 DEN vs. SAS L 19 9 3 8 37.5 0 1 0.0 3 4 75.0 2 1 3 3 1 0 0 3 -12
+p451
+aVDarrell Arthur DEN 01/20/2015 DEN vs. SAS L 16 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 1 0 1 2 -7
+p452
+aVArron Afflalo DEN 01/20/2015 DEN vs. SAS L 33 21 6 11 54.5 3 6 50.0 6 8 75.0 0 4 4 2 3 0 3 4 4
+p453
+aVWilson Chandler DEN 01/20/2015 DEN vs. SAS L 38 11 5 11 45.5 0 1 0.0 1 3 33.3 1 4 5 2 0 0 2 4 -12
+p454
+aVTy Lawson DEN 01/20/2015 DEN vs. SAS L 34 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 8 2 0 1 2 -5
+p455
+aVJusuf Nurkic DEN 01/20/2015 DEN vs. SAS L 26 10 5 9 55.6 0 0 - 0 0 - 3 6 9 2 0 0 3 2 -1
+p456
+aVKenneth Faried DEN 01/20/2015 DEN vs. SAS L 37 26 9 17 52.9 0 0 - 8 12 66.7 5 9 14 1 0 0 1 4 -3
+p457
+aVRandy Foye DEN 01/20/2015 DEN vs. SAS L 14 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 1 0 0 1 0 -10
+p458
+aVJameer Nelson DEN 01/20/2015 DEN vs. SAS L 24 8 4 11 36.4 0 3 0.0 0 0 - 1 2 3 6 0 0 4 2 -4
+p459
+aVKenneth Faried DEN 01/19/2015 DEN @ GSW L 20 7 2 6 33.3 0 0 - 3 5 60.0 2 7 9 1 0 1 3 0 -30
+p460
+aVErick Green DEN 01/19/2015 DEN @ GSW L 7 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p461
+aVGary Harris DEN 01/19/2015 DEN @ GSW L 11 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 0 1 0 0 1 -14
+p462
+aVJameer Nelson DEN 01/19/2015 DEN @ GSW L 25 14 6 12 50.0 2 6 33.3 0 0 - 0 2 2 5 0 0 2 2 -19
+p463
+aVTy Lawson DEN 01/19/2015 DEN @ GSW L 32 19 8 14 57.1 1 2 50.0 2 6 33.3 0 1 1 6 0 0 1 1 -18
+p464
+aVJusuf Nurkic DEN 01/19/2015 DEN @ GSW L 24 2 1 6 16.7 0 0 - 0 0 - 2 6 8 1 2 1 1 6 -29
+p465
+aVDarrell Arthur DEN 01/19/2015 DEN @ GSW L 17 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 1 1 1 2 -10
+p466
+aVWilson Chandler DEN 01/19/2015 DEN @ GSW L 27 7 3 8 37.5 1 4 25.0 0 0 - 0 6 6 0 0 0 0 1 -25
+p467
+aVRandy Foye DEN 01/19/2015 DEN @ GSW L 21 3 1 10 10.0 1 4 25.0 0 0 - 0 1 1 2 1 0 4 2 -21
+p468
+aVArron Afflalo DEN 01/19/2015 DEN @ GSW L 24 2 1 8 12.5 0 3 0.0 0 0 - 0 1 1 0 1 0 1 0 -20
+p469
+aVAlonzo Gee DEN 01/19/2015 DEN @ GSW L 19 9 2 2 100.0 1 1 100.0 4 4 100.0 0 0 0 1 2 0 1 2 -13
+p470
+aVJJ Hickson DEN 01/19/2015 DEN @ GSW L 15 3 1 6 16.7 0 0 - 1 2 50.0 3 3 6 0 1 0 2 2 -8
+p471
+aVJJ Hickson DEN 01/17/2015 DEN vs. MIN L 32 14 4 10 40.0 0 0 - 6 6 100.0 3 7 10 1 0 0 0 2 -4
+p472
+aVArron Afflalo DEN 01/17/2015 DEN vs. MIN L 37 13 4 14 28.6 3 8 37.5 2 2 100.0 1 6 7 3 1 0 2 2 1
+p473
+aVAlonzo Gee DEN 01/17/2015 DEN vs. MIN L 16 8 2 4 50.0 1 2 50.0 3 4 75.0 0 1 1 0 0 0 0 1 9
+p474
+aVWilson Chandler DEN 01/17/2015 DEN vs. MIN L 33 14 6 16 37.5 2 8 25.0 0 1 0.0 0 0 0 2 1 0 0 5 -11
+p475
+aVRandy Foye DEN 01/17/2015 DEN vs. MIN L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 2 0 1 -3
+p476
+aVDarrell Arthur DEN 01/17/2015 DEN vs. MIN L 17 8 4 8 50.0 0 2 0.0 0 0 - 0 1 1 0 3 1 3 2 -9
+p477
+aVJusuf Nurkic DEN 01/17/2015 DEN vs. MIN L 15 4 1 7 14.3 0 0 - 2 2 100.0 5 4 9 2 0 0 0 4 4
+p478
+aVJameer Nelson DEN 01/17/2015 DEN vs. MIN L 19 16 7 10 70.0 2 5 40.0 0 0 - 0 0 0 4 0 0 2 2 -11
+p479
+aVKenneth Faried DEN 01/17/2015 DEN vs. MIN L 31 6 3 5 60.0 0 0 - 0 0 - 2 6 8 1 3 1 2 0 -7
+p480
+aVTy Lawson DEN 01/17/2015 DEN vs. MIN L 34 22 7 15 46.7 2 5 40.0 6 7 85.7 2 1 3 7 2 0 1 1 -9
+p481
+aVArron Afflalo DEN 01/16/2015 DEN @ DAL L 40 16 6 17 35.3 3 7 42.9 1 1 100.0 0 5 5 0 1 0 1 2 -19
+p482
+aVErick Green DEN 01/16/2015 DEN @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p483
+aVJameer Nelson DEN 01/16/2015 DEN @ DAL L 28 14 5 14 35.7 2 7 28.6 2 3 66.7 0 4 4 7 1 0 4 6 -1
+p484
+aVJJ Hickson DEN 01/16/2015 DEN @ DAL L 28 13 5 7 71.4 0 0 - 3 8 37.5 3 11 14 1 0 0 5 3 8
+p485
+aVJusuf Nurkic DEN 01/16/2015 DEN @ DAL L 17 2 1 7 14.3 0 0 - 0 0 - 3 3 6 0 1 0 0 2 -5
+p486
+aVTy Lawson DEN 01/16/2015 DEN @ DAL L 39 11 3 13 23.1 1 3 33.3 4 9 44.4 1 5 6 12 0 0 0 3 -5
+p487
+aVKenneth Faried DEN 01/16/2015 DEN @ DAL L 28 11 5 5 100.0 0 0 - 1 2 50.0 4 4 8 1 1 2 1 2 -14
+p488
+aVGary Harris DEN 01/16/2015 DEN @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p489
+aVAlonzo Gee DEN 01/16/2015 DEN @ DAL L 1 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p490
+aVWilson Chandler DEN 01/16/2015 DEN @ DAL L 40 10 4 12 33.3 2 6 33.3 0 0 - 1 5 6 1 1 0 3 5 -14
+p491
+aVDarrell Arthur DEN 01/16/2015 DEN @ DAL L 16 9 4 6 66.7 0 1 0.0 1 2 50.0 1 2 3 0 1 1 1 4 -3
+p492
+aVJJ Hickson DEN 01/14/2015 DEN vs. DAL W 22 13 6 9 66.7 0 0 - 1 1 100.0 3 5 8 1 0 1 2 1 5
+p493
+aVAlonzo Gee DEN 01/14/2015 DEN vs. DAL W 14 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 2 0 0 3 5
+p494
+aVTy Lawson DEN 01/14/2015 DEN vs. DAL W 44 29 10 18 55.6 0 3 0.0 9 13 69.2 1 4 5 12 0 0 3 1 12
+p495
+aVErick Green DEN 01/14/2015 DEN vs. DAL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p496
+aVDarrell Arthur DEN 01/14/2015 DEN vs. DAL W 21 8 2 5 40.0 0 2 0.0 4 4 100.0 0 1 1 0 0 1 2 2 -7
+p497
+aVKenneth Faried DEN 01/14/2015 DEN vs. DAL W 30 22 7 12 58.3 0 0 - 8 8 100.0 4 10 14 0 0 2 3 2 2
+p498
+aVJusuf Nurkic DEN 01/14/2015 DEN vs. DAL W 25 7 3 8 37.5 0 0 - 1 1 100.0 2 7 9 2 1 2 1 4 13
+p499
+aVGary Harris DEN 01/14/2015 DEN vs. DAL W 11 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 1 0 3 7
+p500
+aVWilson Chandler DEN 01/14/2015 DEN vs. DAL W 39 15 6 13 46.2 1 5 20.0 2 4 50.0 1 9 10 6 0 0 2 3 3
+p501
+aVArron Afflalo DEN 01/14/2015 DEN vs. DAL W 31 12 4 11 36.4 2 6 33.3 2 2 100.0 0 3 3 3 3 0 2 5 0
+p502
+aVNate Robinson DEN 01/09/2015 DEN @ SAC W 18 5 2 3 66.7 1 2 50.0 0 2 0.0 0 0 0 7 0 0 1 5 -11
+p503
+aVKenneth Faried DEN 01/09/2015 DEN @ SAC W 36 12 5 8 62.5 0 0 - 2 5 40.0 3 10 13 3 1 1 1 5 26
+p504
+aVAlonzo Gee DEN 01/09/2015 DEN @ SAC W 24 9 3 8 37.5 1 3 33.3 2 2 100.0 1 4 5 2 3 0 0 0 -2
+p505
+aVTy Lawson DEN 01/09/2015 DEN @ SAC W 36 22 7 13 53.8 1 3 33.3 7 10 70.0 0 3 3 8 0 1 1 1 17
+p506
+aVArron Afflalo DEN 01/09/2015 DEN @ SAC W 38 22 8 19 42.1 1 5 20.0 5 5 100.0 1 3 4 4 0 0 4 2 9
+p507
+aVJusuf Nurkic DEN 01/09/2015 DEN @ SAC W 22 16 8 11 72.7 0 0 - 0 0 - 3 5 8 0 1 3 1 6 22
+p508
+aVDarrell Arthur DEN 01/09/2015 DEN @ SAC W 28 11 4 8 50.0 1 4 25.0 2 2 100.0 0 2 2 2 2 0 0 0 13
+p509
+aVGary Harris DEN 01/09/2015 DEN @ SAC W 13 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 2 0 0 1 -12
+p510
+aVJJ Hickson DEN 01/09/2015 DEN @ SAC W 23 16 8 11 72.7 0 0 - 0 0 - 2 2 4 1 1 1 3 5 -6
+p511
+aVErick Green DEN 01/09/2015 DEN @ SAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p512
+aVNate Robinson DEN 01/07/2015 DEN vs. ORL W 26 13 1 6 16.7 1 1 100.0 10 10 100.0 1 2 3 7 0 0 1 2 -2
+p513
+aVAlonzo Gee DEN 01/07/2015 DEN vs. ORL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p514
+aVTy Lawson DEN 01/07/2015 DEN vs. ORL W 34 23 9 14 64.3 3 5 60.0 2 4 50.0 1 2 3 5 1 0 5 3 3
+p515
+aVArron Afflalo DEN 01/07/2015 DEN vs. ORL W 43 17 7 13 53.8 0 2 0.0 3 6 50.0 0 6 6 3 0 0 2 2 5
+p516
+aVWilson Chandler DEN 01/07/2015 DEN vs. ORL W 33 12 5 12 41.7 2 5 40.0 0 0 - 1 5 6 1 0 0 3 2 4
+p517
+aVJusuf Nurkic DEN 01/07/2015 DEN vs. ORL W 22 8 3 9 33.3 0 0 - 2 2 100.0 1 3 4 3 1 2 1 3 2
+p518
+aVDarrell Arthur DEN 01/07/2015 DEN vs. ORL W 18 7 3 9 33.3 1 4 25.0 0 0 - 1 1 2 1 0 0 4 2 3
+p519
+aVKenneth Faried DEN 01/07/2015 DEN vs. ORL W 26 2 1 6 16.7 0 0 - 0 0 - 1 11 12 1 1 1 2 1 -5
+p520
+aVJJ Hickson DEN 01/07/2015 DEN vs. ORL W 30 11 4 5 80.0 0 0 - 3 4 75.0 0 10 10 1 2 1 3 1 6
+p521
+aVDarrell Arthur DEN 01/05/2015 DEN @ MIN W 14 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 4 -5
+p522
+aVTy Lawson DEN 01/05/2015 DEN @ MIN W 32 8 4 9 44.4 0 1 0.0 0 1 0.0 0 3 3 12 2 0 3 2 12
+p523
+aVJJ Hickson DEN 01/05/2015 DEN @ MIN W 32 16 8 10 80.0 0 0 - 0 1 0.0 4 7 11 1 2 0 2 2 17
+p524
+aVWilson Chandler DEN 01/05/2015 DEN @ MIN W 41 4 2 7 28.6 0 3 0.0 0 0 - 1 6 7 1 0 0 1 2 -9
+p525
+aVJusuf Nurkic DEN 01/05/2015 DEN @ MIN W 22 14 7 11 63.6 0 0 - 0 0 - 1 5 6 1 2 4 2 1 17
+p526
+aVNate Robinson DEN 01/05/2015 DEN @ MIN W 21 12 5 9 55.6 2 5 40.0 0 0 - 0 2 2 6 0 0 1 3 5
+p527
+aVArron Afflalo DEN 01/05/2015 DEN @ MIN W 37 34 11 18 61.1 4 6 66.7 8 8 100.0 0 2 2 2 1 0 1 1 18
+p528
+aVKenneth Faried DEN 01/05/2015 DEN @ MIN W 24 15 6 10 60.0 0 0 - 3 6 50.0 2 5 7 2 0 0 2 4 0
+p529
+aVTimofey Mozgov DEN 01/05/2015 DEN @ MIN W 17 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 1 2 0 3 -10
+p530
+aVAlonzo Gee DEN 01/03/2015 DEN vs. MEM W 6 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 0 0 -2
+p531
+aVDarrell Arthur DEN 01/03/2015 DEN vs. MEM W 15 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 1 0 2 26
+p532
+aVNate Robinson DEN 01/03/2015 DEN vs. MEM W 5 2 1 2 50.0 0 1 0.0 0 2 0.0 0 0 0 1 0 0 0 0 4
+p533
+aVTy Lawson DEN 01/03/2015 DEN vs. MEM W 37 25 10 14 71.4 3 4 75.0 2 3 66.7 0 5 5 11 2 2 2 2 27
+p534
+aVJJ Hickson DEN 01/03/2015 DEN vs. MEM W 20 11 4 6 66.7 0 0 - 3 4 75.0 2 1 3 1 0 0 3 0 14
+p535
+aVJusuf Nurkic DEN 01/03/2015 DEN vs. MEM W 23 11 4 9 44.4 0 0 - 3 4 75.0 1 9 10 0 2 5 1 0 29
+p536
+aVTimofey Mozgov DEN 01/03/2015 DEN vs. MEM W 25 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 1 0 0 2 4 0
+p537
+aVGary Harris DEN 01/03/2015 DEN vs. MEM W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 0 2 -2
+p538
+aVWilson Chandler DEN 01/03/2015 DEN vs. MEM W 35 15 4 12 33.3 2 4 50.0 5 5 100.0 2 3 5 2 0 0 1 2 9
+p539
+aVErick Green DEN 01/03/2015 DEN vs. MEM W 6 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p540
+aVKenneth Faried DEN 01/03/2015 DEN vs. MEM W 28 13 5 10 50.0 0 1 0.0 3 4 75.0 2 11 13 1 0 0 3 2 15
+p541
+aVArron Afflalo DEN 01/03/2015 DEN vs. MEM W 33 23 8 12 66.7 2 3 66.7 5 5 100.0 0 1 1 2 1 0 1 0 27
+p542
+aVWilson Chandler DEN 01/01/2015 DEN @ CHI L 34 22 8 16 50.0 2 5 40.0 4 4 100.0 1 2 3 2 0 0 2 6 -1
+p543
+aVArron Afflalo DEN 01/01/2015 DEN @ CHI L 40 19 8 14 57.1 1 3 33.3 2 2 100.0 1 3 4 1 1 1 4 1 0
+p544
+aVJusuf Nurkic DEN 01/01/2015 DEN @ CHI L 21 10 3 9 33.3 0 1 0.0 4 6 66.7 4 6 10 1 0 3 1 1 -7
+p545
+aVTimofey Mozgov DEN 01/01/2015 DEN @ CHI L 25 4 1 4 25.0 0 0 - 2 2 100.0 1 5 6 1 0 0 0 6 4
+p546
+aVTy Lawson DEN 01/01/2015 DEN @ CHI L 40 20 8 16 50.0 1 1 100.0 3 4 75.0 0 7 7 7 1 0 2 3 -6
+p547
+aVKenneth Faried DEN 01/01/2015 DEN @ CHI L 36 18 7 14 50.0 0 0 - 4 4 100.0 7 12 19 3 2 3 1 2 5
+p548
+aVNate Robinson DEN 01/01/2015 DEN @ CHI L 14 0 0 7 0.0 0 1 0.0 0 1 0.0 0 2 2 3 0 0 0 3 -3
+p549
+aVJJ Hickson DEN 01/01/2015 DEN @ CHI L 14 1 0 5 0.0 0 0 - 1 2 50.0 2 3 5 0 0 0 2 3 -12
+p550
+aVGary Harris DEN 01/01/2015 DEN @ CHI L 17 7 2 7 28.6 1 3 33.3 2 2 100.0 1 0 1 1 0 0 0 2 -5
+p551
+aVAlonzo Gee DEN 12/30/2014 DEN vs. LAL L 20 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 1 2 0 2 5 4
+p552
+aVGary Harris DEN 12/30/2014 DEN vs. LAL L 18 5 1 5 20.0 1 4 25.0 2 2 100.0 0 2 2 1 1 0 1 2 6
+p553
+aVErick Green DEN 12/30/2014 DEN vs. LAL L 7 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p554
+aVKenneth Faried DEN 12/30/2014 DEN vs. LAL L 21 4 2 7 28.6 0 0 - 0 0 - 3 1 4 2 2 1 1 3 -13
+p555
+aVJJ Hickson DEN 12/30/2014 DEN vs. LAL L 27 9 3 5 60.0 0 0 - 3 5 60.0 0 6 6 1 0 2 1 2 5
+p556
+aVNate Robinson DEN 12/30/2014 DEN vs. LAL L 22 13 6 13 46.2 1 7 14.3 0 0 - 0 1 1 6 2 2 1 4 2
+p557
+aVTimofey Mozgov DEN 12/30/2014 DEN vs. LAL L 21 11 5 9 55.6 0 0 - 1 4 25.0 3 5 8 0 1 0 1 2 -7
+p558
+aVJusuf Nurkic DEN 12/30/2014 DEN vs. LAL L 27 16 7 10 70.0 0 0 - 2 2 100.0 2 6 8 2 2 2 1 5 -1
+p559
+aVArron Afflalo DEN 12/30/2014 DEN vs. LAL L 26 11 5 14 35.7 1 4 25.0 0 1 0.0 1 2 3 1 1 0 1 0 -9
+p560
+aVWilson Chandler DEN 12/30/2014 DEN vs. LAL L 17 9 2 6 33.3 1 3 33.3 4 4 100.0 0 2 2 1 0 0 0 0 -12
+p561
+aVTy Lawson DEN 12/30/2014 DEN vs. LAL L 34 16 5 11 45.5 1 4 25.0 5 9 55.6 2 2 4 9 2 0 2 1 -10
+p562
+aVTy Lawson DEN 12/28/2014 DEN vs. TOR L 40 28 9 17 52.9 1 4 25.0 9 11 81.8 1 4 5 7 1 0 0 2 -8
+p563
+aVKenneth Faried DEN 12/28/2014 DEN vs. TOR L 38 17 8 19 42.1 0 1 0.0 1 2 50.0 7 12 19 2 0 0 2 1 -4
+p564
+aVJusuf Nurkic DEN 12/28/2014 DEN vs. TOR L 5 6 1 2 50.0 0 0 - 4 6 66.7 0 1 1 1 0 0 1 3 2
+p565
+aVDarrell Arthur DEN 12/28/2014 DEN vs. TOR L 11 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 0 0 0 0 3 -16
+p566
+aVNate Robinson DEN 12/28/2014 DEN vs. TOR L 14 9 4 6 66.7 1 3 33.3 0 0 - 0 0 0 1 1 0 0 1 -11
+p567
+aVWilson Chandler DEN 12/28/2014 DEN vs. TOR L 41 20 8 20 40.0 1 3 33.3 3 5 60.0 2 8 10 3 0 1 3 4 -5
+p568
+aVArron Afflalo DEN 12/28/2014 DEN vs. TOR L 39 9 4 11 36.4 1 4 25.0 0 0 - 0 1 1 4 1 0 1 3 -13
+p569
+aVJJ Hickson DEN 12/28/2014 DEN vs. TOR L 18 3 1 2 50.0 0 0 - 1 2 50.0 3 3 6 0 0 0 2 1 -13
+p570
+aVTimofey Mozgov DEN 12/28/2014 DEN vs. TOR L 29 8 1 4 25.0 0 0 - 6 8 75.0 2 3 5 0 0 0 1 5 -7
+p571
+aVAlonzo Gee DEN 12/28/2014 DEN vs. TOR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -5
+p572
+aVNate Robinson DEN 12/26/2014 DEN vs. MIN W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p573
+aVJusuf Nurkic DEN 12/26/2014 DEN vs. MIN W 14 8 3 4 75.0 0 0 - 2 4 50.0 3 5 8 0 0 1 3 3 -4
+p574
+aVTimofey Mozgov DEN 12/26/2014 DEN vs. MIN W 34 11 4 9 44.4 0 0 - 3 4 75.0 5 9 14 0 0 0 3 3 8
+p575
+aVKenneth Faried DEN 12/26/2014 DEN vs. MIN W 30 26 11 15 73.3 0 0 - 4 5 80.0 12 13 25 3 0 0 4 5 20
+p576
+aVWilson Chandler DEN 12/26/2014 DEN vs. MIN W 41 21 7 21 33.3 2 9 22.2 5 6 83.3 0 4 4 1 1 2 0 3 7
+p577
+aVJJ Hickson DEN 12/26/2014 DEN vs. MIN W 18 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 2 2 1 -16
+p578
+aVAlonzo Gee DEN 12/26/2014 DEN vs. MIN W 13 7 2 6 33.3 1 3 33.3 2 3 66.7 0 0 0 0 0 1 1 1 -6
+p579
+aVTy Lawson DEN 12/26/2014 DEN vs. MIN W 39 16 6 17 35.3 0 2 0.0 4 4 100.0 1 2 3 11 0 0 4 3 6
+p580
+aVArron Afflalo DEN 12/26/2014 DEN vs. MIN W 42 13 4 16 25.0 0 4 0.0 5 6 83.3 0 5 5 2 0 0 1 4 10
+p581
+aVWilson Chandler DEN 12/23/2014 DEN @ BKN L 38 11 5 17 29.4 1 9 11.1 0 0 - 0 5 5 1 1 0 2 3 -4
+p582
+aVKenneth Faried DEN 12/23/2014 DEN @ BKN L 32 20 8 11 72.7 0 0 - 4 5 80.0 5 9 14 2 1 1 3 3 12
+p583
+aVJJ Hickson DEN 12/23/2014 DEN @ BKN L 12 10 4 7 57.1 0 0 - 2 2 100.0 2 1 3 0 0 0 1 1 -13
+p584
+aVNate Robinson DEN 12/23/2014 DEN @ BKN L 18 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -10
+p585
+aVTimofey Mozgov DEN 12/23/2014 DEN @ BKN L 28 5 1 7 14.3 0 0 - 3 4 75.0 3 5 8 0 2 2 1 1 8
+p586
+aVArron Afflalo DEN 12/23/2014 DEN @ BKN L 41 11 4 10 40.0 2 6 33.3 1 2 50.0 2 7 9 3 0 0 3 0 0
+p587
+aVAlonzo Gee DEN 12/23/2014 DEN @ BKN L 17 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 1 -12
+p588
+aVTy Lawson DEN 12/23/2014 DEN @ BKN L 42 29 10 20 50.0 4 8 50.0 5 6 83.3 0 4 4 9 0 0 4 1 -4
+p589
+aVJusuf Nurkic DEN 12/23/2014 DEN @ BKN L 13 6 3 5 60.0 0 0 - 0 1 0.0 2 3 5 0 0 1 2 3 -7
+p590
+aVKenneth Faried DEN 12/22/2014 DEN @ CHA L 21 8 2 3 66.7 0 1 0.0 4 5 80.0 3 6 9 0 0 1 2 1 -13
+p591
+aVJusuf Nurkic DEN 12/22/2014 DEN @ CHA L 20 8 3 9 33.3 0 0 - 2 2 100.0 1 4 5 1 2 1 2 5 -6
+p592
+aVTy Lawson DEN 12/22/2014 DEN @ CHA L 31 18 8 15 53.3 2 3 66.7 0 0 - 0 0 0 4 0 0 4 0 -20
+p593
+aVWilson Chandler DEN 12/22/2014 DEN @ CHA L 25 6 3 4 75.0 0 1 0.0 0 0 - 0 6 6 1 1 1 1 4 -13
+p594
+aVTimofey Mozgov DEN 12/22/2014 DEN @ CHA L 15 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 1 0 1 1 -6
+p595
+aVErick Green DEN 12/22/2014 DEN @ CHA L 15 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -8
+p596
+aVGary Harris DEN 12/22/2014 DEN @ CHA L 17 4 0 4 0.0 0 3 0.0 4 6 66.7 2 1 3 0 1 0 0 2 0
+p597
+aVArron Afflalo DEN 12/22/2014 DEN @ CHA L 32 9 4 12 33.3 0 3 0.0 1 2 50.0 0 3 3 0 0 0 0 1 -16
+p598
+aVJJ Hickson DEN 12/22/2014 DEN @ CHA L 13 2 1 3 33.3 0 0 - 0 2 0.0 1 2 3 0 0 1 1 0 -16
+p599
+aVAlonzo Gee DEN 12/22/2014 DEN @ CHA L 30 15 4 8 50.0 0 1 0.0 7 7 100.0 1 1 2 1 1 0 1 2 -23
+p600
+aVNate Robinson DEN 12/22/2014 DEN @ CHA L 21 6 3 14 21.4 0 6 0.0 0 0 - 1 1 2 2 0 0 1 4 -19
+p601
+aVJJ Hickson DEN 12/20/2014 DEN vs. IND W 21 10 4 8 50.0 0 0 - 2 2 100.0 0 5 5 0 0 1 0 2 5
+p602
+aVArron Afflalo DEN 12/20/2014 DEN vs. IND W 35 8 3 12 25.0 0 5 0.0 2 2 100.0 0 9 9 1 1 0 3 3 6
+p603
+aVAlonzo Gee DEN 12/20/2014 DEN vs. IND W 7 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 0 0 2 0 -5
+p604
+aVNate Robinson DEN 12/20/2014 DEN vs. IND W 11 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 -1
+p605
+aVTy Lawson DEN 12/20/2014 DEN vs. IND W 38 15 6 16 37.5 0 2 0.0 3 4 75.0 0 1 1 10 3 0 3 3 4
+p606
+aVTimofey Mozgov DEN 12/20/2014 DEN vs. IND W 36 6 3 4 75.0 0 0 - 0 0 - 3 12 15 0 0 5 3 3 2
+p607
+aVKenneth Faried DEN 12/20/2014 DEN vs. IND W 25 4 2 10 20.0 0 0 - 0 0 - 3 3 6 1 1 0 0 4 6
+p608
+aVDanilo Gallinari DEN 12/20/2014 DEN vs. IND W 28 19 7 12 58.3 1 3 33.3 4 5 80.0 1 2 3 1 0 0 3 1 8
+p609
+aVJusuf Nurkic DEN 12/20/2014 DEN vs. IND W 12 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 1 0 0 3 1
+p610
+aVWilson Chandler DEN 12/20/2014 DEN vs. IND W 29 4 1 10 10.0 1 5 20.0 1 2 50.0 0 3 3 0 0 1 1 1 -11
+p611
+aVJusuf Nurkic DEN 12/19/2014 DEN vs. LAC W 17 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 3 8
+p612
+aVWilson Chandler DEN 12/19/2014 DEN vs. LAC W 36 16 6 16 37.5 2 9 22.2 2 2 100.0 2 3 5 2 0 0 4 5 -12
+p613
+aVDanilo Gallinari DEN 12/19/2014 DEN vs. LAC W 24 10 2 5 40.0 2 4 50.0 4 4 100.0 2 1 3 2 0 1 3 2 2
+p614
+aVArron Afflalo DEN 12/19/2014 DEN vs. LAC W 32 12 4 14 28.6 0 3 0.0 4 5 80.0 0 2 2 4 1 0 1 2 -9
+p615
+aVKenneth Faried DEN 12/19/2014 DEN vs. LAC W 28 14 6 9 66.7 0 0 - 2 3 66.7 1 6 7 2 1 0 4 5 10
+p616
+aVTimofey Mozgov DEN 12/19/2014 DEN vs. LAC W 25 13 6 8 75.0 1 1 100.0 0 1 0.0 0 8 8 1 0 0 1 2 6
+p617
+aVJJ Hickson DEN 12/19/2014 DEN vs. LAC W 15 2 1 5 20.0 0 0 - 0 0 - 1 5 6 0 0 0 2 2 -8
+p618
+aVTy Lawson DEN 12/19/2014 DEN vs. LAC W 37 10 3 6 50.0 2 2 100.0 2 4 50.0 2 0 2 14 1 0 5 2 -1
+p619
+aVAlonzo Gee DEN 12/19/2014 DEN vs. LAC W 9 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 0 7
+p620
+aVNate Robinson DEN 12/19/2014 DEN vs. LAC W 16 20 6 11 54.5 4 9 44.4 4 7 57.1 1 4 5 3 1 0 1 1 12
+p621
+aVKenneth Faried DEN 12/17/2014 DEN vs. HOU L 32 11 5 12 41.7 0 0 - 1 2 50.0 4 7 11 2 0 0 3 6 -14
+p622
+aVJusuf Nurkic DEN 12/17/2014 DEN vs. HOU L 17 6 3 6 50.0 0 0 - 0 0 - 2 6 8 0 2 0 0 5 17
+p623
+aVAlonzo Gee DEN 12/17/2014 DEN vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p624
+aVTy Lawson DEN 12/17/2014 DEN vs. HOU L 47 12 4 12 33.3 0 0 - 4 4 100.0 0 1 1 16 1 0 4 3 -4
+p625
+aVArron Afflalo DEN 12/17/2014 DEN vs. HOU L 34 22 7 17 41.2 3 7 42.9 5 6 83.3 1 1 2 1 1 0 4 5 -1
+p626
+aVDanilo Gallinari DEN 12/17/2014 DEN vs. HOU L 26 16 4 8 50.0 4 8 50.0 4 5 80.0 0 2 2 2 1 0 0 1 -3
+p627
+aVTimofey Mozgov DEN 12/17/2014 DEN vs. HOU L 19 1 0 3 0.0 0 0 - 1 2 50.0 2 4 6 0 0 0 0 4 -9
+p628
+aVDarrell Arthur DEN 12/17/2014 DEN vs. HOU L 28 12 5 13 38.5 1 5 20.0 1 2 50.0 4 5 9 5 1 0 2 5 10
+p629
+aVWilson Chandler DEN 12/17/2014 DEN vs. HOU L 35 23 8 17 47.1 5 10 50.0 2 2 100.0 1 5 6 0 1 1 2 3 -21
+p630
+aVJJ Hickson DEN 12/17/2014 DEN vs. HOU L 21 8 4 8 50.0 0 0 - 0 0 - 1 4 5 2 1 0 0 2 5
+p631
+aVNate Robinson DEN 12/17/2014 DEN vs. HOU L 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 2 0
+p632
+aVTy Lawson DEN 12/14/2014 DEN vs. SAS L 39 6 2 10 20.0 0 1 0.0 2 4 50.0 0 2 2 10 1 0 4 3 -6
+p633
+aVJusuf Nurkic DEN 12/14/2014 DEN vs. SAS L 18 10 3 7 42.9 0 0 - 4 5 80.0 3 5 8 1 1 1 3 4 -11
+p634
+aVWilson Chandler DEN 12/14/2014 DEN vs. SAS L 36 14 6 10 60.0 2 2 100.0 0 0 - 1 2 3 3 1 0 1 5 -9
+p635
+aVGary Harris DEN 12/14/2014 DEN vs. SAS L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 3 0 2 1 5
+p636
+aVArron Afflalo DEN 12/14/2014 DEN vs. SAS L 40 31 12 20 60.0 4 6 66.7 3 3 100.0 1 4 5 1 0 0 6 4 -3
+p637
+aVNate Robinson DEN 12/14/2014 DEN vs. SAS L 15 2 1 7 14.3 0 4 0.0 0 1 0.0 1 1 2 2 0 0 1 3 -3
+p638
+aVJJ Hickson DEN 12/14/2014 DEN vs. SAS L 16 4 1 2 50.0 0 0 - 2 2 100.0 2 4 6 0 0 1 1 1 -9
+p639
+aVTimofey Mozgov DEN 12/14/2014 DEN vs. SAS L 24 11 4 12 33.3 0 0 - 3 4 75.0 5 8 13 0 0 2 0 0 0
+p640
+aVAlonzo Gee DEN 12/14/2014 DEN vs. SAS L 17 5 2 6 33.3 0 0 - 1 2 50.0 2 0 2 1 1 0 3 5 -4
+p641
+aVDarrell Arthur DEN 12/14/2014 DEN vs. SAS L 21 8 3 7 42.9 2 2 100.0 0 0 - 0 4 4 1 3 0 0 3 0
+p642
+aVTimofey Mozgov DEN 12/13/2014 DEN @ HOU L 14 0 0 1 0.0 0 0 - 0 0 - 3 1 4 1 0 0 1 5 -15
+p643
+aVErick Green DEN 12/13/2014 DEN @ HOU L 10 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 1
+p644
+aVJusuf Nurkic DEN 12/13/2014 DEN @ HOU L 18 9 3 9 33.3 0 0 - 3 6 50.0 2 3 5 1 2 3 0 6 7
+p645
+aVArron Afflalo DEN 12/13/2014 DEN @ HOU L 37 12 4 17 23.5 1 7 14.3 3 3 100.0 0 4 4 2 3 0 3 2 -16
+p646
+aVAlonzo Gee DEN 12/13/2014 DEN @ HOU L 10 2 1 4 25.0 0 2 0.0 0 0 - 2 1 3 0 1 1 1 1 -2
+p647
+aVGary Harris DEN 12/13/2014 DEN @ HOU L 13 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 -1
+p648
+aVJJ Hickson DEN 12/13/2014 DEN @ HOU L 22 14 5 7 71.4 0 0 - 4 8 50.0 2 8 10 2 0 2 2 4 -6
+p649
+aVDarrell Arthur DEN 12/13/2014 DEN @ HOU L 24 20 7 14 50.0 4 9 44.4 2 2 100.0 3 3 6 1 1 0 1 1 3
+p650
+aVWilson Chandler DEN 12/13/2014 DEN @ HOU L 31 9 4 13 30.8 1 5 20.0 0 0 - 1 8 9 2 0 0 2 3 -22
+p651
+aVKenneth Faried DEN 12/13/2014 DEN @ HOU L 20 7 3 7 42.9 0 0 - 1 2 50.0 1 2 3 2 0 1 0 3 2
+p652
+aVTy Lawson DEN 12/13/2014 DEN @ HOU L 39 19 7 13 53.8 1 3 33.3 4 5 80.0 0 4 4 12 0 0 2 0 -11
+p653
+aVWilson Chandler DEN 12/10/2014 DEN vs. MIA W 24 17 8 17 47.1 1 5 20.0 0 0 - 2 6 8 0 0 0 1 1 6
+p654
+aVJJ Hickson DEN 12/10/2014 DEN vs. MIA W 23 6 3 5 60.0 0 0 - 0 2 0.0 3 1 4 1 1 1 2 2 8
+p655
+aVJusuf Nurkic DEN 12/10/2014 DEN vs. MIA W 5 1 0 2 0.0 0 0 - 1 2 50.0 1 4 5 0 0 0 1 2 -4
+p656
+aVTimofey Mozgov DEN 12/10/2014 DEN vs. MIA W 26 9 4 7 57.1 0 0 - 1 1 100.0 3 7 10 1 0 0 1 2 11
+p657
+aVKenneth Faried DEN 12/10/2014 DEN vs. MIA W 22 13 4 9 44.4 0 0 - 5 6 83.3 4 4 8 1 0 0 0 2 11
+p658
+aVArron Afflalo DEN 12/10/2014 DEN vs. MIA W 28 16 6 8 75.0 1 2 50.0 3 4 75.0 0 4 4 1 0 1 1 1 5
+p659
+aVTy Lawson DEN 12/10/2014 DEN vs. MIA W 30 10 3 12 25.0 1 2 50.0 3 5 60.0 1 3 4 9 3 0 2 1 19
+p660
+aVDarrell Arthur DEN 12/10/2014 DEN vs. MIA W 20 4 1 6 16.7 1 4 25.0 1 1 100.0 1 1 2 0 1 2 0 2 14
+p661
+aVGary Harris DEN 12/10/2014 DEN vs. MIA W 23 7 2 7 28.6 2 5 40.0 1 2 50.0 1 1 2 4 1 0 1 2 13
+p662
+aVErick Green DEN 12/10/2014 DEN vs. MIA W 18 11 4 7 57.1 2 5 40.0 1 2 50.0 0 1 1 3 1 0 0 0 1
+p663
+aVAlonzo Gee DEN 12/10/2014 DEN vs. MIA W 21 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 3 16
+p664
+aVWilson Chandler DEN 12/08/2014 DEN @ TOR L 47 18 7 21 33.3 4 11 36.4 0 0 - 0 6 6 3 3 0 1 3 4
+p665
+aVErick Green DEN 12/08/2014 DEN @ TOR L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p666
+aVTimofey Mozgov DEN 12/08/2014 DEN @ TOR L 49 15 7 14 50.0 0 0 - 1 1 100.0 7 5 12 1 0 1 1 4 0
+p667
+aVArron Afflalo DEN 12/08/2014 DEN @ TOR L 44 25 9 14 64.3 4 7 57.1 3 3 100.0 1 5 6 2 0 0 3 5 3
+p668
+aVDanilo Gallinari DEN 12/08/2014 DEN @ TOR L 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -10
+p669
+aVDarrell Arthur DEN 12/08/2014 DEN @ TOR L 24 12 6 17 35.3 0 3 0.0 0 0 - 8 5 13 2 1 1 2 6 5
+p670
+aVAlonzo Gee DEN 12/08/2014 DEN @ TOR L 14 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 1 -13
+p671
+aVJJ Hickson DEN 12/08/2014 DEN @ TOR L 23 10 4 8 50.0 0 0 - 2 3 66.7 2 3 5 0 0 0 1 1 0
+p672
+aVTy Lawson DEN 12/08/2014 DEN @ TOR L 49 22 8 19 42.1 2 8 25.0 4 6 66.7 0 6 6 12 2 0 3 5 -1
+p673
+aVGary Harris DEN 12/08/2014 DEN @ TOR L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -9
+p674
+aVTimofey Mozgov DEN 12/07/2014 DEN @ ATL L 33 14 5 6 83.3 0 0 - 4 4 100.0 2 9 11 0 1 2 1 5 2
+p675
+aVJJ Hickson DEN 12/07/2014 DEN @ ATL L 20 4 1 6 16.7 0 0 - 2 2 100.0 1 8 9 2 0 1 0 5 -25
+p676
+aVWilson Chandler DEN 12/07/2014 DEN @ ATL L 37 29 12 22 54.5 4 12 33.3 1 1 100.0 3 7 10 2 0 0 5 2 1
+p677
+aVDarrell Arthur DEN 12/07/2014 DEN @ ATL L 26 6 3 11 27.3 0 4 0.0 0 0 - 1 1 2 6 2 1 1 3 2
+p678
+aVErick Green DEN 12/07/2014 DEN @ ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p679
+aVTy Lawson DEN 12/07/2014 DEN @ ATL L 44 4 1 10 10.0 0 5 0.0 2 2 100.0 1 5 6 10 2 0 3 2 -7
+p680
+aVArron Afflalo DEN 12/07/2014 DEN @ ATL L 30 10 4 14 28.6 2 7 28.6 0 2 0.0 2 3 5 2 1 0 2 2 -2
+p681
+aVGary Harris DEN 12/07/2014 DEN @ ATL L 10 3 1 8 12.5 0 4 0.0 1 2 50.0 3 0 3 0 0 0 1 0 -14
+p682
+aVAlonzo Gee DEN 12/07/2014 DEN @ ATL L 21 14 7 9 77.8 0 0 - 0 0 - 2 2 4 2 3 0 1 2 1
+p683
+aVDanilo Gallinari DEN 12/07/2014 DEN @ ATL L 14 0 0 6 0.0 0 3 0.0 0 0 - 1 1 2 1 0 0 0 0 -13
+p684
+aVErick Green DEN 12/05/2014 DEN @ WAS L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -7
+p685
+aVKenneth Faried DEN 12/05/2014 DEN @ WAS L 18 9 4 5 80.0 0 0 - 1 2 50.0 1 2 3 1 2 0 5 1 -10
+p686
+aVJJ Hickson DEN 12/05/2014 DEN @ WAS L 20 8 3 9 33.3 0 0 - 2 3 66.7 3 3 6 1 1 1 2 3 -10
+p687
+aVWilson Chandler DEN 12/05/2014 DEN @ WAS L 25 20 6 14 42.9 3 4 75.0 5 5 100.0 2 3 5 0 0 1 1 5 -27
+p688
+aVArron Afflalo DEN 12/05/2014 DEN @ WAS L 26 4 2 9 22.2 0 5 0.0 0 0 - 0 0 0 0 0 0 2 0 -19
+p689
+aVDanilo Gallinari DEN 12/05/2014 DEN @ WAS L 16 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 0 0 0 0 2 -5
+p690
+aVTy Lawson DEN 12/05/2014 DEN @ WAS L 35 14 3 10 30.0 0 2 0.0 8 8 100.0 0 4 4 10 3 0 1 2 -21
+p691
+aVNate Robinson DEN 12/05/2014 DEN @ WAS L 11 6 2 5 40.0 1 3 33.3 1 2 50.0 0 0 0 0 0 0 1 0 -12
+p692
+aVAlonzo Gee DEN 12/05/2014 DEN @ WAS L 12 7 2 3 66.7 0 0 - 3 6 50.0 1 1 2 1 0 0 0 0 0
+p693
+aVGary Harris DEN 12/05/2014 DEN @ WAS L 19 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 2 -12
+p694
+aVJaVale McGee DEN 12/05/2014 DEN @ WAS L 12 2 1 3 33.3 0 0 - 0 2 0.0 0 3 3 0 0 2 1 1 -9
+p695
+aVDarrell Arthur DEN 12/05/2014 DEN @ WAS L 15 2 1 5 20.0 0 2 0.0 0 0 - 2 2 4 2 0 1 4 3 -8
+p696
+aVTimofey Mozgov DEN 12/05/2014 DEN @ WAS L 21 6 2 5 40.0 0 0 - 2 2 100.0 1 5 6 0 1 2 0 3 -10
+p697
+aVArron Afflalo DEN 12/02/2014 DEN vs. POR L 37 18 8 14 57.1 0 2 0.0 2 2 100.0 0 2 2 4 0 0 1 2 -12
+p698
+aVJJ Hickson DEN 12/02/2014 DEN vs. POR L 31 11 5 8 62.5 0 0 - 1 1 100.0 1 7 8 0 0 1 2 3 -12
+p699
+aVDarrell Arthur DEN 12/02/2014 DEN vs. POR L 18 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 1 1 0 2 0 4
+p700
+aVTimofey Mozgov DEN 12/02/2014 DEN vs. POR L 24 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 1 0 1 1 4 5
+p701
+aVKenneth Faried DEN 12/02/2014 DEN vs. POR L 24 8 4 6 66.7 0 0 - 0 0 - 0 5 5 0 0 0 0 2 -1
+p702
+aVDanilo Gallinari DEN 12/02/2014 DEN vs. POR L 19 9 3 9 33.3 1 4 25.0 2 2 100.0 1 3 4 0 1 0 0 1 9
+p703
+aVNate Robinson DEN 12/02/2014 DEN vs. POR L 5 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 0
+p704
+aVWilson Chandler DEN 12/02/2014 DEN vs. POR L 33 18 7 13 53.8 3 6 50.0 1 1 100.0 3 7 10 1 2 0 4 3 -6
+p705
+aVTy Lawson DEN 12/02/2014 DEN vs. POR L 43 24 9 16 56.3 3 4 75.0 3 7 42.9 0 4 4 13 2 0 4 3 -2
+p706
+aVGary Harris DEN 12/02/2014 DEN vs. POR L 7 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 0 5
+p707
+aVDarrell Arthur DEN 12/01/2014 DEN @ UTA W 17 12 4 7 57.1 2 5 40.0 2 2 100.0 0 2 2 1 2 0 1 2 1
+p708
+aVTimofey Mozgov DEN 12/01/2014 DEN @ UTA W 28 10 5 5 100.0 0 0 - 0 0 - 2 8 10 1 0 1 2 5 -2
+p709
+aVKenneth Faried DEN 12/01/2014 DEN @ UTA W 29 11 4 9 44.4 0 0 - 3 4 75.0 2 3 5 2 0 1 1 1 1
+p710
+aVWilson Chandler DEN 12/01/2014 DEN @ UTA W 34 15 6 13 46.2 3 7 42.9 0 0 - 1 3 4 0 0 0 0 3 -4
+p711
+aVNate Robinson DEN 12/01/2014 DEN @ UTA W 10 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 3 1 0 1 1 5
+p712
+aVJJ Hickson DEN 12/01/2014 DEN @ UTA W 21 10 4 12 33.3 0 0 - 2 3 66.7 2 6 8 2 1 3 1 4 4
+p713
+aVGary Harris DEN 12/01/2014 DEN @ UTA W 17 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 0 0 0 0 1 3
+p714
+aVDanilo Gallinari DEN 12/01/2014 DEN @ UTA W 14 6 2 6 33.3 0 4 0.0 2 3 66.7 0 2 2 1 1 1 0 0 6
+p715
+aVArron Afflalo DEN 12/01/2014 DEN @ UTA W 31 14 6 11 54.5 2 4 50.0 0 0 - 0 1 1 1 0 0 1 2 -1
+p716
+aVTy Lawson DEN 12/01/2014 DEN @ UTA W 39 15 6 15 40.0 0 1 0.0 3 5 60.0 1 3 4 12 2 0 3 3 -3
+p717
+aVArron Afflalo DEN 11/28/2014 DEN vs. PHX W 24 22 5 9 55.6 1 1 100.0 11 13 84.6 0 4 4 1 0 0 1 2 13
+p718
+aVTy Lawson DEN 11/28/2014 DEN vs. PHX W 28 11 4 11 36.4 0 3 0.0 3 4 75.0 0 3 3 10 1 0 1 3 24
+p719
+aVDanilo Gallinari DEN 11/28/2014 DEN vs. PHX W 23 11 4 7 57.1 2 3 66.7 1 1 100.0 2 6 8 1 1 0 0 0 8
+p720
+aVKenneth Faried DEN 11/28/2014 DEN vs. PHX W 20 11 3 6 50.0 0 0 - 5 5 100.0 3 6 9 1 0 0 1 3 15
+p721
+aVErick Green DEN 11/28/2014 DEN vs. PHX W 6 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 0
+p722
+aVTimofey Mozgov DEN 11/28/2014 DEN vs. PHX W 21 13 4 5 80.0 0 0 - 5 5 100.0 1 2 3 1 0 2 1 3 19
+p723
+aVDarrell Arthur DEN 11/28/2014 DEN vs. PHX W 19 6 3 5 60.0 0 1 0.0 0 0 - 1 2 3 0 1 0 1 3 6
+p724
+aVGary Harris DEN 11/28/2014 DEN vs. PHX W 24 8 3 8 37.5 2 4 50.0 0 0 - 0 4 4 1 3 0 6 4 10
+p725
+aVWilson Chandler DEN 11/28/2014 DEN vs. PHX W 25 11 4 10 40.0 3 7 42.9 0 0 - 3 4 7 0 2 0 2 3 17
+p726
+aVJJ Hickson DEN 11/28/2014 DEN vs. PHX W 20 10 3 9 33.3 0 0 - 4 4 100.0 2 9 11 2 1 0 1 2 6
+p727
+aVNate Robinson DEN 11/28/2014 DEN vs. PHX W 15 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 3
+p728
+aVJusuf Nurkic DEN 11/28/2014 DEN vs. PHX W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 1 1 0 0
+p729
+aVAlonzo Gee DEN 11/28/2014 DEN vs. PHX W 9 9 3 5 60.0 0 0 - 3 4 75.0 4 0 4 1 0 0 1 0 4
+p730
+aVDanilo Gallinari DEN 11/26/2014 DEN @ PHX L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -4
+p731
+aVJJ Hickson DEN 11/26/2014 DEN @ PHX L 14 7 2 5 40.0 0 0 - 3 4 75.0 1 2 3 0 0 0 0 1 -3
+p732
+aVTimofey Mozgov DEN 11/26/2014 DEN @ PHX L 32 18 8 13 61.5 1 1 100.0 1 2 50.0 9 4 13 0 3 2 3 2 -4
+p733
+aVAlonzo Gee DEN 11/26/2014 DEN @ PHX L 18 11 5 9 55.6 0 0 - 1 1 100.0 3 2 5 0 1 0 2 1 -12
+p734
+aVTy Lawson DEN 11/26/2014 DEN @ PHX L 40 17 4 16 25.0 1 7 14.3 8 8 100.0 2 5 7 12 2 0 2 1 -3
+p735
+aVNate Robinson DEN 11/26/2014 DEN @ PHX L 14 8 2 9 22.2 1 7 14.3 3 4 75.0 0 0 0 3 0 0 0 3 3
+p736
+aVWilson Chandler DEN 11/26/2014 DEN @ PHX L 32 19 7 12 58.3 2 4 50.0 3 4 75.0 3 4 7 1 1 1 3 5 -13
+p737
+aVKenneth Faried DEN 11/26/2014 DEN @ PHX L 29 8 3 8 37.5 0 0 - 2 4 50.0 2 3 5 1 1 0 5 2 4
+p738
+aVDarrell Arthur DEN 11/26/2014 DEN @ PHX L 17 6 2 4 50.0 1 2 50.0 1 2 50.0 0 4 4 1 2 1 1 3 -7
+p739
+aVArron Afflalo DEN 11/26/2014 DEN @ PHX L 35 18 6 11 54.5 2 2 100.0 4 5 80.0 0 2 2 1 0 0 1 2 -1
+p740
+aVNate Robinson DEN 11/25/2014 DEN vs. CHI W 13 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 4 0 0 1 4 -1
+p741
+aVAlonzo Gee DEN 11/25/2014 DEN vs. CHI W 12 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 0 1 1 0 -5
+p742
+aVDarrell Arthur DEN 11/25/2014 DEN vs. CHI W 14 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 0 1 1 2 -1
+p743
+aVWilson Chandler DEN 11/25/2014 DEN vs. CHI W 29 14 6 11 54.5 2 4 50.0 0 0 - 2 5 7 0 0 0 1 3 8
+p744
+aVTy Lawson DEN 11/25/2014 DEN vs. CHI W 35 20 7 16 43.8 1 1 100.0 5 7 71.4 1 2 3 12 3 1 4 2 6
+p745
+aVJJ Hickson DEN 11/25/2014 DEN vs. CHI W 19 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 1 0 2 2 1 -1
+p746
+aVKenneth Faried DEN 11/25/2014 DEN vs. CHI W 24 12 5 11 45.5 0 0 - 2 5 40.0 4 5 9 0 1 0 1 1 8
+p747
+aVArron Afflalo DEN 11/25/2014 DEN vs. CHI W 32 19 7 11 63.6 3 4 75.0 2 2 100.0 1 3 4 1 0 0 0 3 11
+p748
+aVTimofey Mozgov DEN 11/25/2014 DEN vs. CHI W 28 11 5 8 62.5 0 0 - 1 2 50.0 2 7 9 0 0 1 2 6 4
+p749
+aVGary Harris DEN 11/25/2014 DEN vs. CHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -3
+p750
+aVDanilo Gallinari DEN 11/25/2014 DEN vs. CHI W 29 15 5 9 55.6 0 1 0.0 5 5 100.0 1 4 5 3 0 1 1 2 -1
+p751
+aVArron Afflalo DEN 11/23/2014 DEN @ LAL W 42 15 5 17 29.4 1 6 16.7 4 4 100.0 1 5 6 1 1 0 1 3 9
+p752
+aVDarrell Arthur DEN 11/23/2014 DEN @ LAL W 19 9 3 7 42.9 1 5 20.0 2 2 100.0 1 2 3 0 1 0 1 2 2
+p753
+aVKenneth Faried DEN 11/23/2014 DEN @ LAL W 19 8 4 9 44.4 0 0 - 0 3 0.0 0 1 1 0 1 0 1 0 -11
+p754
+aVTy Lawson DEN 11/23/2014 DEN @ LAL W 43 18 5 10 50.0 1 2 50.0 7 10 70.0 0 3 3 16 0 0 5 3 16
+p755
+aVWilson Chandler DEN 11/23/2014 DEN @ LAL W 41 19 6 15 40.0 5 11 45.5 2 3 66.7 0 8 8 2 1 1 1 5 6
+p756
+aVDanilo Gallinari DEN 11/23/2014 DEN @ LAL W 31 10 3 8 37.5 2 7 28.6 2 4 50.0 0 7 7 1 0 0 1 1 10
+p757
+aVJaVale McGee DEN 11/23/2014 DEN @ LAL W 6 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 2
+p758
+aVJJ Hickson DEN 11/23/2014 DEN @ LAL W 12 6 2 5 40.0 0 0 - 2 4 50.0 4 4 8 0 0 0 1 2 0
+p759
+aVTimofey Mozgov DEN 11/23/2014 DEN @ LAL W 30 13 5 9 55.6 0 0 - 3 4 75.0 6 7 13 0 1 1 1 5 12
+p760
+aVRandy Foye DEN 11/23/2014 DEN @ LAL W 11 0 0 5 0.0 0 4 0.0 0 2 0.0 0 1 1 0 1 0 2 0 -2
+p761
+aVNate Robinson DEN 11/23/2014 DEN @ LAL W 10 1 0 4 0.0 0 2 0.0 1 2 50.0 2 1 3 0 1 0 2 4 -9
+p762
+aVDarrell Arthur DEN 11/21/2014 DEN vs. NOP W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 4 7
+p763
+aVNate Robinson DEN 11/21/2014 DEN vs. NOP W 20 3 1 6 16.7 1 4 25.0 0 0 - 1 2 3 4 0 1 1 4 13
+p764
+aVArron Afflalo DEN 11/21/2014 DEN vs. NOP W 29 19 7 13 53.8 1 3 33.3 4 4 100.0 0 2 2 1 1 0 1 1 5
+p765
+aVKenneth Faried DEN 11/21/2014 DEN vs. NOP W 27 19 7 12 58.3 1 1 100.0 4 5 80.0 3 5 8 2 1 0 1 2 6
+p766
+aVJaVale McGee DEN 11/21/2014 DEN vs. NOP W 19 14 6 6 100.0 0 0 - 2 3 66.7 2 6 8 0 1 2 2 2 22
+p767
+aVTimofey Mozgov DEN 11/21/2014 DEN vs. NOP W 26 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 0 0 3 1 4 2
+p768
+aVRandy Foye DEN 11/21/2014 DEN vs. NOP W 21 7 1 5 20.0 1 5 20.0 4 4 100.0 0 3 3 4 1 0 1 1 16
+p769
+aVTy Lawson DEN 11/21/2014 DEN vs. NOP W 28 11 5 12 41.7 1 2 50.0 0 2 0.0 0 3 3 9 2 0 2 0 7
+p770
+aVJusuf Nurkic DEN 11/21/2014 DEN vs. NOP W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -4
+p771
+aVAlonzo Gee DEN 11/21/2014 DEN vs. NOP W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p772
+aVDanilo Gallinari DEN 11/21/2014 DEN vs. NOP W 23 17 5 7 71.4 3 4 75.0 4 4 100.0 0 3 3 3 1 1 0 3 18
+p773
+aVWilson Chandler DEN 11/21/2014 DEN vs. NOP W 32 18 7 11 63.6 3 4 75.0 1 1 100.0 0 5 5 1 1 2 1 1 12
+p774
+aVDarrell Arthur DEN 11/19/2014 DEN vs. OKC W 18 9 3 6 50.0 1 3 33.3 2 2 100.0 2 2 4 2 2 1 0 3 -6
+p775
+aVArron Afflalo DEN 11/19/2014 DEN vs. OKC W 34 13 6 15 40.0 1 6 16.7 0 0 - 0 1 1 1 0 0 0 2 6
+p776
+aVJaVale McGee DEN 11/19/2014 DEN vs. OKC W 12 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 2 -2
+p777
+aVTimofey Mozgov DEN 11/19/2014 DEN vs. OKC W 36 17 6 7 85.7 0 0 - 5 5 100.0 1 6 7 2 0 3 2 5 9
+p778
+aVDanilo Gallinari DEN 11/19/2014 DEN vs. OKC W 21 4 1 5 20.0 1 5 20.0 1 2 50.0 1 2 3 2 1 0 0 2 -8
+p779
+aVWilson Chandler DEN 11/19/2014 DEN vs. OKC W 27 21 8 15 53.3 3 6 50.0 2 4 50.0 2 7 9 1 0 1 1 2 15
+p780
+aVNate Robinson DEN 11/19/2014 DEN vs. OKC W 12 6 2 3 66.7 2 2 100.0 0 0 - 2 0 2 2 1 0 0 0 -2
+p781
+aVKenneth Faried DEN 11/19/2014 DEN vs. OKC W 30 8 3 7 42.9 0 0 - 2 3 66.7 3 7 10 0 1 0 1 0 13
+p782
+aVTy Lawson DEN 11/19/2014 DEN vs. OKC W 36 15 6 13 46.2 0 2 0.0 3 4 75.0 0 1 1 15 1 0 2 1 9
+p783
+aVRandy Foye DEN 11/19/2014 DEN vs. OKC W 14 8 3 6 50.0 2 5 40.0 0 0 - 0 1 1 0 0 0 2 3 1
+p784
+aVWilson Chandler DEN 11/17/2014 DEN @ CLE W 38 12 5 14 35.7 2 6 33.3 0 0 - 1 8 9 1 2 0 3 3 5
+p785
+aVJaVale McGee DEN 11/17/2014 DEN @ CLE W 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -6
+p786
+aVKenneth Faried DEN 11/17/2014 DEN @ CLE W 22 8 4 6 66.7 0 0 - 0 0 - 1 0 1 1 1 2 1 2 10
+p787
+aVRandy Foye DEN 11/17/2014 DEN @ CLE W 10 1 0 3 0.0 0 3 0.0 1 2 50.0 0 0 0 1 1 0 0 1 1
+p788
+aVTimofey Mozgov DEN 11/17/2014 DEN @ CLE W 40 14 6 9 66.7 0 0 - 2 2 100.0 3 8 11 0 1 1 3 3 15
+p789
+aVDarrell Arthur DEN 11/17/2014 DEN @ CLE W 26 13 5 6 83.3 3 4 75.0 0 0 - 3 8 11 2 2 0 0 3 -1
+p790
+aVDanilo Gallinari DEN 11/17/2014 DEN @ CLE W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 0
+p791
+aVArron Afflalo DEN 11/17/2014 DEN @ CLE W 40 23 8 17 47.1 4 8 50.0 3 4 75.0 0 4 4 3 0 1 3 1 12
+p792
+aVTy Lawson DEN 11/17/2014 DEN @ CLE W 38 24 9 18 50.0 0 6 0.0 6 7 85.7 0 1 1 12 2 0 5 1 5
+p793
+aVNate Robinson DEN 11/17/2014 DEN @ CLE W 10 9 3 7 42.9 3 3 100.0 0 0 - 0 0 0 4 0 0 0 3 4
+p794
+aVWilson Chandler DEN 11/16/2014 DEN @ NYK L 31 11 4 14 28.6 3 9 33.3 0 0 - 1 4 5 4 2 0 2 4 -2
+p795
+aVDanilo Gallinari DEN 11/16/2014 DEN @ NYK L 14 5 1 5 20.0 1 5 20.0 2 2 100.0 0 1 1 0 0 0 0 1 -8
+p796
+aVKenneth Faried DEN 11/16/2014 DEN @ NYK L 32 16 7 9 77.8 0 0 - 2 5 40.0 4 5 9 1 2 0 2 4 0
+p797
+aVGary Harris DEN 11/16/2014 DEN @ NYK L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 2 0 1 1 -17
+p798
+aVJJ Hickson DEN 11/16/2014 DEN @ NYK L 12 0 0 0 - 0 0 - 0 0 - 0 4 4 1 1 0 0 3 5
+p799
+aVJaVale McGee DEN 11/16/2014 DEN @ NYK L 6 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 0 0 -8
+p800
+aVTy Lawson DEN 11/16/2014 DEN @ NYK L 40 17 6 18 33.3 2 5 40.0 3 6 50.0 0 2 2 9 0 0 6 1 -10
+p801
+aVArron Afflalo DEN 11/16/2014 DEN @ NYK L 32 18 6 11 54.5 5 7 71.4 1 1 100.0 1 3 4 3 0 0 0 3 8
+p802
+aVNate Robinson DEN 11/16/2014 DEN @ NYK L 10 5 1 5 20.0 0 2 0.0 3 4 75.0 0 1 1 1 1 0 2 0 -8
+p803
+aVAlonzo Gee DEN 11/16/2014 DEN @ NYK L 9 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -13
+p804
+aVTimofey Mozgov DEN 11/16/2014 DEN @ NYK L 22 8 3 8 37.5 0 0 - 2 2 100.0 3 3 6 1 0 0 1 2 -12
+p805
+aVDarrell Arthur DEN 11/16/2014 DEN @ NYK L 21 10 4 7 57.1 2 5 40.0 0 0 - 0 5 5 0 1 0 3 1 -15
+p806
+aVJJ Hickson DEN 11/14/2014 DEN @ IND W 17 7 2 5 40.0 0 0 - 3 5 60.0 1 5 6 1 0 1 1 3 12
+p807
+aVGary Harris DEN 11/14/2014 DEN @ IND W 18 13 6 10 60.0 1 5 20.0 0 1 0.0 1 2 3 2 2 1 1 1 -1
+p808
+aVAlonzo Gee DEN 11/14/2014 DEN @ IND W 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -2
+p809
+aVTimofey Mozgov DEN 11/14/2014 DEN @ IND W 21 3 1 7 14.3 0 0 - 1 4 25.0 5 1 6 2 1 2 0 4 13
+p810
+aVTy Lawson DEN 11/14/2014 DEN @ IND W 31 11 4 13 30.8 1 4 25.0 2 2 100.0 0 3 3 10 1 0 3 2 24
+p811
+aVJaVale McGee DEN 11/14/2014 DEN @ IND W 15 7 2 3 66.7 0 0 - 3 4 75.0 2 2 4 0 0 0 0 2 1
+p812
+aVDarrell Arthur DEN 11/14/2014 DEN @ IND W 14 11 5 9 55.6 0 1 0.0 1 2 50.0 1 3 4 1 1 0 1 1 8
+p813
+aVNate Robinson DEN 11/14/2014 DEN @ IND W 17 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 0 1 2 -3
+p814
+aVArron Afflalo DEN 11/14/2014 DEN @ IND W 24 17 7 11 63.6 3 7 42.9 0 1 0.0 0 1 1 2 0 0 0 1 24
+p815
+aVKenneth Faried DEN 11/14/2014 DEN @ IND W 24 12 5 6 83.3 0 0 - 2 4 50.0 2 4 6 0 1 0 1 3 12
+p816
+aVDanilo Gallinari DEN 11/14/2014 DEN @ IND W 22 12 4 6 66.7 3 4 75.0 1 1 100.0 0 4 4 0 0 0 0 1 5
+p817
+aVJusuf Nurkic DEN 11/14/2014 DEN @ IND W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p818
+aVWilson Chandler DEN 11/14/2014 DEN @ IND W 26 13 6 10 60.0 0 2 0.0 1 1 100.0 1 4 5 1 0 1 0 3 16
+p819
+aVJJ Hickson DEN 11/12/2014 DEN vs. POR L 21 14 7 11 63.6 0 0 - 0 2 0.0 4 7 11 4 0 0 1 2 2
+p820
+aVDanilo Gallinari DEN 11/12/2014 DEN vs. POR L 15 9 2 7 28.6 1 4 25.0 4 4 100.0 0 4 4 1 1 0 3 0 4
+p821
+aVRandy Foye DEN 11/12/2014 DEN vs. POR L 19 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 0 1 0 1 5 -20
+p822
+aVDarrell Arthur DEN 11/12/2014 DEN vs. POR L 16 10 5 11 45.5 0 3 0.0 0 0 - 1 2 3 1 1 0 1 2 -3
+p823
+aVTimofey Mozgov DEN 11/12/2014 DEN vs. POR L 22 6 2 3 66.7 0 0 - 2 3 66.7 3 4 7 1 0 0 1 1 -25
+p824
+aVAlonzo Gee DEN 11/12/2014 DEN vs. POR L 24 5 2 7 28.6 0 1 0.0 1 2 50.0 1 1 2 0 3 1 1 0 1
+p825
+aVTy Lawson DEN 11/12/2014 DEN vs. POR L 42 32 11 17 64.7 4 5 80.0 6 7 85.7 0 3 3 6 2 0 1 0 -6
+p826
+aVJaVale McGee DEN 11/12/2014 DEN vs. POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p827
+aVArron Afflalo DEN 11/12/2014 DEN vs. POR L 10 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 1 1 -14
+p828
+aVKenneth Faried DEN 11/12/2014 DEN vs. POR L 24 10 3 8 37.5 0 0 - 4 4 100.0 2 2 4 1 1 0 0 4 -10
+p829
+aVNate Robinson DEN 11/12/2014 DEN vs. POR L 8 3 1 5 20.0 0 2 0.0 1 1 100.0 2 0 2 1 0 0 0 3 -15
+p830
+aVJusuf Nurkic DEN 11/12/2014 DEN vs. POR L 7 6 1 4 25.0 0 0 - 4 4 100.0 2 3 5 1 0 0 1 1 5
+p831
+aVWilson Chandler DEN 11/12/2014 DEN vs. POR L 28 11 3 6 50.0 2 3 66.7 3 4 75.0 0 4 4 4 0 1 1 5 4
+p832
+aVJJ Hickson DEN 11/09/2014 DEN @ POR L 15 8 3 8 37.5 0 0 - 2 4 50.0 4 6 10 1 0 0 3 5 -2
+p833
+aVRandy Foye DEN 11/09/2014 DEN @ POR L 18 9 2 7 28.6 2 4 50.0 3 3 100.0 1 2 3 1 0 0 0 1 -2
+p834
+aVArron Afflalo DEN 11/09/2014 DEN @ POR L 26 18 8 14 57.1 1 2 50.0 1 1 100.0 1 3 4 0 0 0 1 2 -18
+p835
+aVTimofey Mozgov DEN 11/09/2014 DEN @ POR L 36 7 3 10 30.0 0 0 - 1 2 50.0 4 12 16 0 0 3 2 1 -18
+p836
+aVNate Robinson DEN 11/09/2014 DEN @ POR L 14 6 2 9 22.2 1 4 25.0 1 1 100.0 0 0 0 1 1 0 0 3 6
+p837
+aVJaVale McGee DEN 11/09/2014 DEN @ POR L 15 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 4 2 2
+p838
+aVKenneth Faried DEN 11/09/2014 DEN @ POR L 31 19 7 16 43.8 0 0 - 5 5 100.0 5 2 7 1 0 3 2 3 -14
+p839
+aVTy Lawson DEN 11/09/2014 DEN @ POR L 38 18 7 16 43.8 0 0 - 4 6 66.7 2 4 6 8 2 0 2 2 -18
+p840
+aVDanilo Gallinari DEN 11/09/2014 DEN @ POR L 20 5 0 3 0.0 0 1 0.0 5 6 83.3 0 3 3 0 2 1 1 1 1
+p841
+aVWilson Chandler DEN 11/09/2014 DEN @ POR L 28 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 2 0 0 0 2 -17
+p842
+aVRandy Foye DEN 11/07/2014 DEN vs. CLE L 32 28 10 19 52.6 5 10 50.0 3 4 75.0 0 2 2 9 0 1 1 2 5
+p843
+aVAlonzo Gee DEN 11/07/2014 DEN vs. CLE L 22 6 2 5 40.0 0 0 - 2 3 66.7 0 2 2 2 1 0 0 0 10
+p844
+aVNate Robinson DEN 11/07/2014 DEN vs. CLE L 26 14 6 14 42.9 2 7 28.6 0 0 - 0 0 0 5 1 0 1 1 -13
+p845
+aVWilson Chandler DEN 11/07/2014 DEN vs. CLE L 27 14 5 10 50.0 2 7 28.6 2 2 100.0 1 9 10 1 1 0 5 4 -13
+p846
+aVJaVale McGee DEN 11/07/2014 DEN vs. CLE L 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 3 2 1 -14
+p847
+aVJusuf Nurkic DEN 11/07/2014 DEN vs. CLE L 17 10 5 6 83.3 0 0 - 0 2 0.0 3 1 4 0 1 0 2 3 10
+p848
+aVErick Green DEN 11/07/2014 DEN vs. CLE L 9 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 10
+p849
+aVKenneth Faried DEN 11/07/2014 DEN vs. CLE L 22 8 4 8 50.0 0 0 - 0 0 - 2 5 7 1 0 1 1 1 -19
+p850
+aVDanilo Gallinari DEN 11/07/2014 DEN vs. CLE L 20 10 3 6 50.0 2 2 100.0 2 2 100.0 1 1 2 2 0 0 0 3 10
+p851
+aVArron Afflalo DEN 11/07/2014 DEN vs. CLE L 31 0 0 4 0.0 0 1 0.0 0 0 - 0 5 5 1 1 0 0 2 -18
+p852
+aVDarrell Arthur DEN 11/07/2014 DEN vs. CLE L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p853
+aVTimofey Mozgov DEN 11/07/2014 DEN vs. CLE L 21 5 2 6 33.3 0 1 0.0 1 2 50.0 1 4 5 0 0 0 1 3 -8
+p854
+aVNate Robinson DEN 11/05/2014 DEN @ SAC L 21 10 5 10 50.0 0 3 0.0 0 0 - 1 0 1 3 0 0 1 3 -8
+p855
+aVDarrell Arthur DEN 11/05/2014 DEN @ SAC L 17 11 4 7 57.1 2 5 40.0 1 2 50.0 1 0 1 3 1 1 2 6 -2
+p856
+aVArron Afflalo DEN 11/05/2014 DEN @ SAC L 22 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 2 0 0 0 3 -29
+p857
+aVAlonzo Gee DEN 11/05/2014 DEN @ SAC L 17 8 3 7 42.9 0 1 0.0 2 2 100.0 1 1 2 0 1 0 0 1 1
+p858
+aVJaVale McGee DEN 11/05/2014 DEN @ SAC L 13 9 3 5 60.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 4 -19
+p859
+aVRandy Foye DEN 11/05/2014 DEN @ SAC L 28 19 7 11 63.6 3 5 60.0 2 2 100.0 0 2 2 2 0 0 0 2 4
+p860
+aVTy Lawson DEN 11/05/2014 DEN @ SAC L 32 13 3 7 42.9 0 0 - 7 9 77.8 1 2 3 9 2 0 3 1 -15
+p861
+aVTimofey Mozgov DEN 11/05/2014 DEN @ SAC L 11 7 2 3 66.7 0 0 - 3 3 100.0 0 1 1 0 0 1 2 3 -21
+p862
+aVWilson Chandler DEN 11/05/2014 DEN @ SAC L 30 13 5 12 41.7 3 6 50.0 0 0 - 0 2 2 1 0 0 0 4 -25
+p863
+aVKenneth Faried DEN 11/05/2014 DEN @ SAC L 21 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 1 0 1 2 3 -15
+p864
+aVJusuf Nurkic DEN 11/05/2014 DEN @ SAC L 13 6 2 4 50.0 0 0 - 2 3 66.7 1 4 5 2 0 2 2 6 7
+p865
+aVDanilo Gallinari DEN 11/05/2014 DEN @ SAC L 16 7 1 7 14.3 1 6 16.7 4 4 100.0 0 4 4 1 0 0 1 1 12
+p866
+aVAlonzo Gee DEN 11/03/2014 DEN vs. SAC L 6 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 1 3 -9
+p867
+aVTy Lawson DEN 11/03/2014 DEN vs. SAC L 35 9 1 8 12.5 0 1 0.0 7 8 87.5 2 0 2 12 1 0 1 1 -1
+p868
+aVArron Afflalo DEN 11/03/2014 DEN vs. SAC L 31 16 4 13 30.8 1 5 20.0 7 7 100.0 0 2 2 2 0 0 0 2 0
+p869
+aVDanilo Gallinari DEN 11/03/2014 DEN vs. SAC L 14 0 0 6 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 1 1 -3
+p870
+aVKenneth Faried DEN 11/03/2014 DEN vs. SAC L 38 10 5 13 38.5 0 0 - 0 0 - 4 6 10 4 1 0 2 3 -8
+p871
+aVTimofey Mozgov DEN 11/03/2014 DEN vs. SAC L 16 10 5 7 71.4 0 0 - 0 0 - 1 5 6 0 0 1 3 5 -2
+p872
+aVJaVale McGee DEN 11/03/2014 DEN vs. SAC L 14 16 6 9 66.7 0 0 - 4 4 100.0 2 2 4 0 0 4 1 4 7
+p873
+aVDarrell Arthur DEN 11/03/2014 DEN vs. SAC L 16 10 2 4 50.0 1 2 50.0 5 6 83.3 1 5 6 1 1 0 0 4 1
+p874
+aVJusuf Nurkic DEN 11/03/2014 DEN vs. SAC L 8 3 1 5 20.0 0 0 - 1 2 50.0 3 2 5 0 0 1 3 3 -1
+p875
+aVNate Robinson DEN 11/03/2014 DEN vs. SAC L 13 10 4 5 80.0 1 1 100.0 1 2 50.0 0 0 0 1 1 0 1 3 -4
+p876
+aVWilson Chandler DEN 11/03/2014 DEN vs. SAC L 31 14 5 15 33.3 1 8 12.5 3 3 100.0 1 3 4 0 0 1 2 4 0
+p877
+aVRandy Foye DEN 11/03/2014 DEN vs. SAC L 18 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 2 0 0 0 2 -5
+p878
+aVTy Lawson DEN 11/01/2014 DEN @ OKC L 35 25 8 12 66.7 1 3 33.3 8 12 66.7 0 2 2 5 1 0 7 1 -5
+p879
+aVArron Afflalo DEN 11/01/2014 DEN @ OKC L 36 14 5 11 45.5 2 6 33.3 2 2 100.0 0 3 3 4 0 0 1 5 1
+p880
+aVJusuf Nurkic DEN 11/01/2014 DEN @ OKC L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 1 3 -2
+p881
+aVWilson Chandler DEN 11/01/2014 DEN @ OKC L 18 5 2 12 16.7 0 5 0.0 1 2 50.0 2 5 7 2 0 1 0 5 -13
+p882
+aVTimofey Mozgov DEN 11/01/2014 DEN @ OKC L 18 10 4 6 66.7 0 0 - 2 2 100.0 1 1 2 0 2 1 2 2 -8
+p883
+aVNate Robinson DEN 11/01/2014 DEN @ OKC L 13 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -6
+p884
+aVDarrell Arthur DEN 11/01/2014 DEN @ OKC L 9 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 0 0 0 0 1 -6
+p885
+aVJaVale McGee DEN 11/01/2014 DEN @ OKC L 20 8 4 6 66.7 0 0 - 0 0 - 4 0 4 0 0 4 1 2 0
+p886
+aVRandy Foye DEN 11/01/2014 DEN @ OKC L 22 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 3 0 0 2 3 5
+p887
+aVAlonzo Gee DEN 11/01/2014 DEN @ OKC L 17 3 1 3 33.3 1 2 50.0 0 0 - 1 6 7 1 0 1 1 0 5
+p888
+aVDanilo Gallinari DEN 11/01/2014 DEN @ OKC L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 2 1 0 0 2 -12
+p889
+aVKenneth Faried DEN 11/01/2014 DEN @ OKC L 25 7 3 8 37.5 0 0 - 1 2 50.0 2 4 6 0 0 2 1 1 -14
+p890
+aVArron Afflalo DEN 10/29/2014 DEN vs. DET W 40 15 6 16 37.5 2 5 40.0 1 3 33.3 1 3 4 1 1 0 1 1 19
+p891
+aVTimofey Mozgov DEN 10/29/2014 DEN vs. DET W 25 13 5 11 45.5 0 2 0.0 3 5 60.0 4 7 11 0 0 2 2 3 9
+p892
+aVJusuf Nurkic DEN 10/29/2014 DEN vs. DET W 13 5 2 4 50.0 0 0 - 1 2 50.0 1 6 7 0 0 0 1 3 1
+p893
+aVRandy Foye DEN 10/29/2014 DEN vs. DET W 15 7 2 6 33.3 1 2 50.0 2 2 100.0 0 0 0 0 2 0 1 2 0
+p894
+aVNate Robinson DEN 10/29/2014 DEN vs. DET W 6 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 0 -8
+p895
+aVDanilo Gallinari DEN 10/29/2014 DEN vs. DET W 18 7 1 8 12.5 1 5 20.0 4 4 100.0 0 3 3 2 1 1 1 1 5
+p896
+aVDarrell Arthur DEN 10/29/2014 DEN vs. DET W 16 2 1 7 14.3 0 1 0.0 0 0 - 1 3 4 3 0 0 1 2 3
+p897
+aVTy Lawson DEN 10/29/2014 DEN vs. DET W 33 3 1 7 14.3 0 3 0.0 1 2 50.0 0 0 0 5 0 0 2 2 10
+p898
+aVWilson Chandler DEN 10/29/2014 DEN vs. DET W 24 7 1 6 16.7 1 4 25.0 4 4 100.0 0 3 3 1 2 0 2 1 -1
+p899
+aVAlonzo Gee DEN 10/29/2014 DEN vs. DET W 12 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 8
+p900
+aVJaVale McGee DEN 10/29/2014 DEN vs. DET W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 0
+p901
+aVKenneth Faried DEN 10/29/2014 DEN vs. DET W 28 22 8 12 66.7 0 0 - 6 8 75.0 7 10 17 4 0 0 3 4 4
+p902
+a.

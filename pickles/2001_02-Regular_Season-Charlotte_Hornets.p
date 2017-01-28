@@ -1,0 +1,1630 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGeorge Lynch CHH 04/17/2002 CHH vs. CHI W 32 10 3 6 50.0 0 0 - 4 6 66.7 6 2 8 5 4 0 0 5 4
+p2
+aVBaron Davis CHH 04/17/2002 CHH vs. CHI W 44 18 7 19 36.8 1 6 16.7 3 4 75.0 1 3 4 7 3 0 1 1 11
+p3
+aVElden Campbell CHH 04/17/2002 CHH vs. CHI W 28 20 7 14 50.0 0 0 - 6 8 75.0 4 5 9 1 1 2 2 2 9
+p4
+aVJamaal Magloire CHH 04/17/2002 CHH vs. CHI W 23 13 4 5 80.0 0 0 - 5 7 71.4 1 5 6 0 0 1 4 4 -1
+p5
+aVStacey Augmon CHH 04/17/2002 CHH vs. CHI W 21 9 4 7 57.1 0 0 - 1 1 100.0 2 1 3 3 1 0 0 1 4
+p6
+aVDavid Wesley CHH 04/17/2002 CHH vs. CHI W 32 13 6 13 46.2 0 0 - 1 1 100.0 1 0 1 3 2 0 3 3 0
+p7
+aVLee Nailon CHH 04/17/2002 CHH vs. CHI W 13 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 1 1 0 1 1 6
+p8
+aVRobert Traylor CHH 04/17/2002 CHH vs. CHI W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 3 -6
+p9
+aVJamal Mashburn CHH 04/17/2002 CHH vs. CHI W 38 20 5 11 45.5 0 1 0.0 10 11 90.9 1 4 5 5 1 0 2 1 3
+p10
+aVElden Campbell CHH 04/16/2002 CHH @ MIA W 23 4 1 7 14.3 0 0 - 2 2 100.0 0 5 5 0 0 0 2 3 -5
+p11
+aVP.J. Brown CHH 04/16/2002 CHH @ MIA W 26 9 3 6 50.0 0 0 - 3 4 75.0 2 6 8 1 1 2 1 2 1
+p12
+aVRobert Traylor CHH 04/16/2002 CHH @ MIA W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p13
+aVLee Nailon CHH 04/16/2002 CHH @ MIA W 20 14 6 9 66.7 0 0 - 2 3 66.7 1 0 1 1 0 0 0 2 12
+p14
+aVGeorge Lynch CHH 04/16/2002 CHH @ MIA W 19 5 2 3 66.7 0 1 0.0 1 2 50.0 5 5 10 0 0 0 1 2 9
+p15
+aVDavid Wesley CHH 04/16/2002 CHH @ MIA W 35 4 2 9 22.2 0 3 0.0 0 0 - 1 3 4 1 0 0 1 4 7
+p16
+aVJamaal Magloire CHH 04/16/2002 CHH @ MIA W 22 15 5 10 50.0 0 0 - 5 7 71.4 4 2 6 0 0 1 1 4 14
+p17
+aVJamal Mashburn CHH 04/16/2002 CHH @ MIA W 40 23 5 21 23.8 1 4 25.0 12 14 85.7 1 7 8 5 0 0 2 2 10
+p18
+aVBaron Davis CHH 04/16/2002 CHH @ MIA W 37 14 6 12 50.0 1 5 20.0 1 1 100.0 2 2 4 3 2 1 3 3 -9
+p19
+aVStacey Augmon CHH 04/16/2002 CHH @ MIA W 15 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 0 0 1 0 -2
+p20
+aVRobert Traylor CHH 04/14/2002 CHH @ MIL L 9 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 1 0 0 1 2 1
+p21
+aVStacey Augmon CHH 04/14/2002 CHH @ MIL L 21 10 4 9 44.4 0 0 - 2 3 66.7 4 4 8 3 0 1 2 5 -1
+p22
+aVJamal Mashburn CHH 04/14/2002 CHH @ MIL L 37 28 8 19 42.1 3 5 60.0 9 9 100.0 1 0 1 3 2 0 4 0 -11
+p23
+aVLee Nailon CHH 04/14/2002 CHH @ MIL L 19 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 1 0 0 0 2 3
+p24
+aVJamaal Magloire CHH 04/14/2002 CHH @ MIL L 21 4 1 4 25.0 0 0 - 2 2 100.0 1 6 7 0 0 2 1 4 4
+p25
+aVElden Campbell CHH 04/14/2002 CHH @ MIL L 22 10 3 7 42.9 0 0 - 4 6 66.7 3 4 7 2 0 2 3 3 -6
+p26
+aVBaron Davis CHH 04/14/2002 CHH @ MIL L 44 16 6 18 33.3 4 9 44.4 0 0 - 1 6 7 5 3 0 1 3 -4
+p27
+aVBryce Drew CHH 04/14/2002 CHH @ MIL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p28
+aVP.J. Brown CHH 04/14/2002 CHH @ MIL L 26 6 3 4 75.0 0 0 - 0 0 - 5 5 10 1 1 1 2 2 -11
+p29
+aVDavid Wesley CHH 04/14/2002 CHH @ MIL L 27 9 4 10 40.0 1 2 50.0 0 0 - 0 0 0 3 0 0 0 2 -9
+p30
+aVGeorge Lynch CHH 04/14/2002 CHH @ MIL L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 0 2
+p31
+aVBaron Davis CHH 04/12/2002 CHH vs. CLE W 42 20 8 10 80.0 3 3 100.0 1 2 50.0 2 4 6 8 5 0 2 4 9
+p32
+aVGeorge Lynch CHH 04/12/2002 CHH vs. CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p33
+aVJamal Mashburn CHH 04/12/2002 CHH vs. CLE W 42 25 9 20 45.0 1 3 33.3 6 6 100.0 0 7 7 11 1 0 3 1 18
+p34
+aVLee Nailon CHH 04/12/2002 CHH vs. CLE W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -9
+p35
+aVElden Campbell CHH 04/12/2002 CHH vs. CLE W 28 11 3 8 37.5 0 0 - 5 6 83.3 0 3 3 2 1 4 1 2 12
+p36
+aVStacey Augmon CHH 04/12/2002 CHH vs. CLE W 27 12 6 8 75.0 0 0 - 0 0 - 0 6 6 1 0 1 2 0 9
+p37
+aVRobert Traylor CHH 04/12/2002 CHH vs. CLE W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 1
+p38
+aVDavid Wesley CHH 04/12/2002 CHH vs. CLE W 39 30 13 18 72.2 2 5 40.0 2 2 100.0 0 3 3 3 0 0 2 4 14
+p39
+aVP.J. Brown CHH 04/12/2002 CHH vs. CLE W 26 7 3 3 100.0 0 0 - 1 1 100.0 1 8 9 0 0 0 1 0 11
+p40
+aVJamaal Magloire CHH 04/12/2002 CHH vs. CLE W 15 5 1 3 33.3 0 0 - 3 6 50.0 1 0 1 0 0 3 2 1 1
+p41
+aVJamaal Magloire CHH 04/10/2002 CHH vs. ATL L 26 10 3 6 50.0 0 0 - 4 6 66.7 2 5 7 1 0 1 2 3 -4
+p42
+aVStacey Augmon CHH 04/10/2002 CHH vs. ATL L 28 9 4 12 33.3 0 1 0.0 1 2 50.0 2 2 4 4 1 0 0 0 -1
+p43
+aVJamal Mashburn CHH 04/10/2002 CHH vs. ATL L 43 26 9 18 50.0 1 4 25.0 7 7 100.0 2 4 6 4 1 0 2 2 -13
+p44
+aVLee Nailon CHH 04/10/2002 CHH vs. ATL L 18 12 5 7 71.4 0 0 - 2 2 100.0 0 4 4 1 0 0 3 3 9
+p45
+aVGeorge Lynch CHH 04/10/2002 CHH vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 2 0 0 2 -5
+p46
+aVElden Campbell CHH 04/10/2002 CHH vs. ATL L 22 6 3 6 50.0 0 0 - 0 0 - 2 1 3 1 0 3 1 1 -2
+p47
+aVRobert Traylor CHH 04/10/2002 CHH vs. ATL L 8 4 2 5 40.0 0 0 - 0 1 0.0 2 1 3 1 0 0 1 2 7
+p48
+aVBaron Davis CHH 04/10/2002 CHH vs. ATL L 28 15 6 18 33.3 3 8 37.5 0 0 - 2 2 4 6 3 0 3 5 -7
+p49
+aVP.J. Brown CHH 04/10/2002 CHH vs. ATL L 35 8 3 3 100.0 0 0 - 2 2 100.0 2 5 7 1 1 1 0 2 -8
+p50
+aVDavid Wesley CHH 04/10/2002 CHH vs. ATL L 27 5 2 9 22.2 0 0 - 1 4 25.0 2 0 2 2 1 0 4 2 -6
+p51
+aVP.J. Brown CHH 04/09/2002 CHH @ TOR L 39 16 5 8 62.5 0 0 - 6 7 85.7 8 4 12 0 0 1 1 4 -3
+p52
+aVGeorge Lynch CHH 04/09/2002 CHH @ TOR L 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -10
+p53
+aVJamaal Magloire CHH 04/09/2002 CHH @ TOR L 19 7 2 2 100.0 0 0 - 3 4 75.0 1 0 1 1 0 3 1 3 -3
+p54
+aVDavid Wesley CHH 04/09/2002 CHH @ TOR L 37 10 4 11 36.4 1 4 25.0 1 2 50.0 0 1 1 1 4 0 2 3 2
+p55
+aVJamal Mashburn CHH 04/09/2002 CHH @ TOR L 43 21 8 28 28.6 0 5 0.0 5 8 62.5 3 6 9 3 0 0 3 2 -6
+p56
+aVLee Nailon CHH 04/09/2002 CHH @ TOR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p57
+aVBaron Davis CHH 04/09/2002 CHH @ TOR L 43 7 3 13 23.1 0 4 0.0 1 2 50.0 0 2 2 5 2 1 3 1 -6
+p58
+aVElden Campbell CHH 04/09/2002 CHH @ TOR L 22 10 4 6 66.7 0 0 - 2 2 100.0 2 4 6 1 0 1 2 1 7
+p59
+aVStacey Augmon CHH 04/09/2002 CHH @ TOR L 20 7 3 3 100.0 0 0 - 1 4 25.0 0 1 1 3 1 0 0 0 -3
+p60
+aVP.J. Brown CHH 04/06/2002 CHH @ ATL W 38 15 5 9 55.6 0 0 - 5 6 83.3 1 13 14 3 1 1 1 5 17
+p61
+aVJamaal Magloire CHH 04/06/2002 CHH @ ATL W 24 13 3 4 75.0 0 0 - 7 7 100.0 3 4 7 0 0 3 1 1 5
+p62
+aVBaron Davis CHH 04/06/2002 CHH @ ATL W 43 5 2 15 13.3 1 5 20.0 0 0 - 1 4 5 10 2 0 1 3 6
+p63
+aVDavid Wesley CHH 04/06/2002 CHH @ ATL W 31 9 4 11 36.4 1 1 100.0 0 0 - 1 0 1 3 1 0 2 0 16
+p64
+aVGeorge Lynch CHH 04/06/2002 CHH @ ATL W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p65
+aVElden Campbell CHH 04/06/2002 CHH @ ATL W 24 12 5 8 62.5 0 0 - 2 2 100.0 0 3 3 1 1 2 0 4 2
+p66
+aVStacey Augmon CHH 04/06/2002 CHH @ ATL W 22 10 5 10 50.0 0 0 - 0 0 - 1 3 4 3 0 1 2 1 -8
+p67
+aVJamal Mashburn CHH 04/06/2002 CHH @ ATL W 42 25 9 17 52.9 2 4 50.0 5 5 100.0 0 5 5 4 3 1 1 1 15
+p68
+aVLee Nailon CHH 04/06/2002 CHH @ ATL W 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p69
+aVP.J. Brown CHH 04/05/2002 CHH vs. WAS W 34 4 2 6 33.3 0 0 - 0 0 - 4 9 13 1 0 1 0 3 -1
+p70
+aVBaron Davis CHH 04/05/2002 CHH vs. WAS W 39 8 4 11 36.4 0 5 0.0 0 2 0.0 1 2 3 12 4 0 5 4 -4
+p71
+aVLee Nailon CHH 04/05/2002 CHH vs. WAS W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 2 5
+p72
+aVDavid Wesley CHH 04/05/2002 CHH vs. WAS W 36 12 5 15 33.3 0 4 0.0 2 2 100.0 0 1 1 3 0 0 2 0 4
+p73
+aVJamal Mashburn CHH 04/05/2002 CHH vs. WAS W 38 27 11 21 52.4 2 3 66.7 3 3 100.0 0 5 5 5 2 0 3 3 1
+p74
+aVGeorge Lynch CHH 04/05/2002 CHH vs. WAS W 14 4 2 2 100.0 0 0 - 0 2 0.0 2 4 6 0 0 0 2 3 7
+p75
+aVElden Campbell CHH 04/05/2002 CHH vs. WAS W 25 21 3 4 75.0 0 0 - 15 17 88.2 0 5 5 1 2 2 2 5 4
+p76
+aVStacey Augmon CHH 04/05/2002 CHH vs. WAS W 21 9 4 7 57.1 0 0 - 1 1 100.0 2 1 3 2 1 1 2 5 12
+p77
+aVJamaal Magloire CHH 04/05/2002 CHH vs. WAS W 23 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 1 0 1 4 3 2
+p78
+aVJamal Mashburn CHH 04/03/2002 CHH vs. MIA W 40 22 8 16 50.0 2 2 100.0 4 6 66.7 0 5 5 7 1 0 1 2 2
+p79
+aVDavid Wesley CHH 04/03/2002 CHH vs. MIA W 37 16 5 12 41.7 1 3 33.3 5 10 50.0 2 1 3 4 0 0 1 3 2
+p80
+aVP.J. Brown CHH 04/03/2002 CHH vs. MIA W 37 15 3 9 33.3 0 0 - 9 10 90.0 5 8 13 0 2 0 2 3 8
+p81
+aVGeorge Lynch CHH 04/03/2002 CHH vs. MIA W 16 0 0 0 - 0 0 - 0 0 - 0 3 3 2 1 1 1 1 2
+p82
+aVJamaal Magloire CHH 04/03/2002 CHH vs. MIA W 37 18 7 11 63.6 0 0 - 4 6 66.7 5 6 11 0 0 0 3 3 11
+p83
+aVStacey Augmon CHH 04/03/2002 CHH vs. MIA W 19 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 2 0 1 0 1
+p84
+aVElden Campbell CHH 04/03/2002 CHH vs. MIA W 11 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -4
+p85
+aVBaron Davis CHH 04/03/2002 CHH vs. MIA W 44 22 8 14 57.1 4 5 80.0 2 4 50.0 2 5 7 10 5 0 6 2 13
+p86
+aVDavid Wesley CHH 04/02/2002 CHH @ NYK L 33 9 3 9 33.3 1 3 33.3 2 2 100.0 0 0 0 6 1 0 2 3 -17
+p87
+aVJamaal Magloire CHH 04/02/2002 CHH @ NYK L 29 15 5 8 62.5 0 0 - 5 5 100.0 3 6 9 1 1 0 3 2 -11
+p88
+aVBryce Drew CHH 04/02/2002 CHH @ NYK L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 1
+p89
+aVRobert Traylor CHH 04/02/2002 CHH @ NYK L 19 5 2 5 40.0 1 1 100.0 0 4 0.0 1 5 6 0 0 2 0 2 5
+p90
+aVStacey Augmon CHH 04/02/2002 CHH @ NYK L 23 8 4 11 36.4 0 0 - 0 0 - 2 0 2 3 0 0 0 2 7
+p91
+aVGeorge Lynch CHH 04/02/2002 CHH @ NYK L 18 7 3 5 60.0 0 0 - 1 1 100.0 1 5 6 4 1 0 2 1 5
+p92
+aVP.J. Brown CHH 04/02/2002 CHH @ NYK L 30 2 1 6 16.7 0 0 - 0 0 - 4 2 6 0 1 0 0 1 -11
+p93
+aVJamal Mashburn CHH 04/02/2002 CHH @ NYK L 44 25 9 23 39.1 0 3 0.0 7 8 87.5 0 7 7 3 0 0 3 0 -7
+p94
+aVBaron Davis CHH 04/02/2002 CHH @ NYK L 41 14 5 13 38.5 4 8 50.0 0 1 0.0 0 3 3 7 5 2 1 4 -2
+p95
+aVLee Nailon CHH 03/30/2002 CHH @ CLE W 26 10 4 12 33.3 0 0 - 2 4 50.0 2 6 8 0 0 0 0 2 11
+p96
+aVGeorge Lynch CHH 03/30/2002 CHH @ CLE W 4 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -5
+p97
+aVRobert Traylor CHH 03/30/2002 CHH @ CLE W 21 6 2 8 25.0 0 0 - 2 4 50.0 5 6 11 0 0 5 0 5 3
+p98
+aVDavid Wesley CHH 03/30/2002 CHH @ CLE W 24 13 6 10 60.0 1 2 50.0 0 0 - 2 0 2 3 0 0 0 0 -15
+p99
+aVStacey Augmon CHH 03/30/2002 CHH @ CLE W 24 8 4 8 50.0 0 0 - 0 0 - 1 0 1 2 3 0 1 2 23
+p100
+aVJamaal Magloire CHH 03/30/2002 CHH @ CLE W 27 17 8 11 72.7 0 0 - 1 3 33.3 3 4 7 1 0 1 2 1 5
+p101
+aVP.J. Brown CHH 03/30/2002 CHH @ CLE W 41 13 3 8 37.5 0 0 - 7 8 87.5 5 8 13 1 1 2 0 3 23
+p102
+aVBaron Davis CHH 03/30/2002 CHH @ CLE W 48 20 8 25 32.0 3 11 27.3 1 2 50.0 1 4 5 17 3 1 3 1 8
+p103
+aVJamal Mashburn CHH 03/30/2002 CHH @ CLE W 25 6 2 12 16.7 0 1 0.0 2 2 100.0 0 4 4 1 0 0 1 2 -13
+p104
+aVGeorge Lynch CHH 03/29/2002 CHH vs. SAC L 8 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -5
+p105
+aVDavid Wesley CHH 03/29/2002 CHH vs. SAC L 39 9 3 8 37.5 1 3 33.3 2 2 100.0 1 2 3 3 1 1 5 4 -8
+p106
+aVLee Nailon CHH 03/29/2002 CHH vs. SAC L 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p107
+aVStacey Augmon CHH 03/29/2002 CHH vs. SAC L 12 4 0 3 0.0 0 0 - 4 4 100.0 0 4 4 3 0 1 1 0 0
+p108
+aVBaron Davis CHH 03/29/2002 CHH vs. SAC L 45 18 7 19 36.8 3 8 37.5 1 5 20.0 1 2 3 7 5 1 2 3 -2
+p109
+aVP.J. Brown CHH 03/29/2002 CHH vs. SAC L 40 10 4 7 57.1 0 0 - 2 4 50.0 4 7 11 0 2 0 1 3 0
+p110
+aVJamal Mashburn CHH 03/29/2002 CHH vs. SAC L 36 22 8 22 36.4 0 3 0.0 6 6 100.0 1 0 1 4 1 0 4 4 -2
+p111
+aVJamaal Magloire CHH 03/29/2002 CHH vs. SAC L 32 15 7 10 70.0 0 0 - 1 3 33.3 2 7 9 0 1 2 1 4 -4
+p112
+aVRobert Traylor CHH 03/29/2002 CHH vs. SAC L 16 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 0 0 2 0 1 -1
+p113
+aVJamaal Magloire CHH 03/27/2002 CHH vs. ORL W 34 21 8 11 72.7 0 0 - 5 8 62.5 2 4 6 1 1 1 2 3 2
+p114
+aVStacey Augmon CHH 03/27/2002 CHH vs. ORL W 14 4 0 0 - 0 0 - 4 4 100.0 0 3 3 1 0 1 3 0 5
+p115
+aVBaron Davis CHH 03/27/2002 CHH vs. ORL W 43 15 6 10 60.0 2 3 66.7 1 4 25.0 3 5 8 9 3 1 2 3 7
+p116
+aVGeorge Lynch CHH 03/27/2002 CHH vs. ORL W 11 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 2
+p117
+aVDavid Wesley CHH 03/27/2002 CHH vs. ORL W 42 11 4 11 36.4 2 6 33.3 1 2 50.0 0 1 1 5 2 1 3 2 0
+p118
+aVLee Nailon CHH 03/27/2002 CHH vs. ORL W 13 9 4 6 66.7 0 0 - 1 2 50.0 0 0 0 0 1 1 0 3 0
+p119
+aVJamal Mashburn CHH 03/27/2002 CHH vs. ORL W 40 20 7 15 46.7 3 4 75.0 3 4 75.0 1 8 9 8 1 1 4 3 4
+p120
+aVP.J. Brown CHH 03/27/2002 CHH vs. ORL W 32 18 9 13 69.2 0 0 - 0 1 0.0 2 5 7 3 1 2 1 2 5
+p121
+aVRobert Traylor CHH 03/27/2002 CHH vs. ORL W 13 7 3 8 37.5 0 0 - 1 1 100.0 1 2 3 1 1 2 0 2 10
+p122
+aVJamal Mashburn CHH 03/24/2002 CHH @ IND W 41 36 13 23 56.5 2 4 50.0 8 8 100.0 0 3 3 2 0 0 3 2 15
+p123
+aVJamaal Magloire CHH 03/24/2002 CHH @ IND W 31 14 5 9 55.6 0 0 - 4 8 50.0 3 7 10 1 0 1 2 5 12
+p124
+aVP.J. Brown CHH 03/24/2002 CHH @ IND W 39 10 4 7 57.1 0 0 - 2 2 100.0 4 15 19 0 1 4 1 3 16
+p125
+aVLee Nailon CHH 03/24/2002 CHH @ IND W 7 0 0 2 0.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 3 0
+p126
+aVStacey Augmon CHH 03/24/2002 CHH @ IND W 18 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 1
+p127
+aVGeorge Lynch CHH 03/24/2002 CHH @ IND W 11 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 3
+p128
+aVRobert Traylor CHH 03/24/2002 CHH @ IND W 16 10 4 4 100.0 0 0 - 2 2 100.0 3 2 5 0 1 1 1 3 -1
+p129
+aVBaron Davis CHH 03/24/2002 CHH @ IND W 42 21 7 14 50.0 3 5 60.0 4 8 50.0 0 3 3 11 1 0 5 5 20
+p130
+aVDavid Wesley CHH 03/24/2002 CHH @ IND W 36 2 0 8 0.0 0 5 0.0 2 2 100.0 1 3 4 2 0 1 2 2 9
+p131
+aVBaron Davis CHH 03/22/2002 CHH @ ORL W 45 15 5 12 41.7 1 5 20.0 4 9 44.4 0 1 1 13 3 0 3 4 18
+p132
+aVDavid Wesley CHH 03/22/2002 CHH @ ORL W 41 21 8 14 57.1 4 8 50.0 1 2 50.0 2 1 3 2 0 0 2 0 9
+p133
+aVJamal Mashburn CHH 03/22/2002 CHH @ ORL W 42 29 11 20 55.0 2 2 100.0 5 5 100.0 0 8 8 6 3 0 0 2 11
+p134
+aVBryce Drew CHH 03/22/2002 CHH @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p135
+aVElden Campbell CHH 03/22/2002 CHH @ ORL W 8 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 1 1 0 4
+p136
+aVJamaal Magloire CHH 03/22/2002 CHH @ ORL W 21 5 2 2 100.0 0 0 - 1 2 50.0 2 3 5 0 0 0 3 4 -1
+p137
+aVKirk Haston CHH 03/22/2002 CHH @ ORL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p138
+aVLee Nailon CHH 03/22/2002 CHH @ ORL W 21 12 5 9 55.6 0 0 - 2 3 66.7 1 3 4 2 0 0 3 4 14
+p139
+aVRobert Traylor CHH 03/22/2002 CHH @ ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -2
+p140
+aVStacey Augmon CHH 03/22/2002 CHH @ ORL W 8 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 5
+p141
+aVP.J. Brown CHH 03/22/2002 CHH @ ORL W 36 14 7 16 43.8 0 0 - 0 0 - 5 9 14 3 1 1 1 1 22
+p142
+aVGeorge Lynch CHH 03/22/2002 CHH @ ORL W 12 2 0 3 0.0 0 0 - 2 2 100.0 2 4 6 0 0 0 0 2 -9
+p143
+aVGeorge Lynch CHH 03/20/2002 CHH vs. IND W 20 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 2 0 2 0 4
+p144
+aVJamal Mashburn CHH 03/20/2002 CHH vs. IND W 37 19 7 24 29.2 0 1 0.0 5 5 100.0 1 3 4 2 0 0 2 1 1
+p145
+aVStacey Augmon CHH 03/20/2002 CHH vs. IND W 18 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 1 1 4 -2
+p146
+aVLee Nailon CHH 03/20/2002 CHH vs. IND W 12 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 1 1
+p147
+aVJamaal Magloire CHH 03/20/2002 CHH vs. IND W 17 4 1 6 16.7 0 0 - 2 4 50.0 2 4 6 0 0 1 1 3 -10
+p148
+aVDavid Wesley CHH 03/20/2002 CHH vs. IND W 33 14 6 16 37.5 2 7 28.6 0 0 - 1 1 2 3 0 0 1 5 2
+p149
+aVP.J. Brown CHH 03/20/2002 CHH vs. IND W 27 2 1 3 33.3 0 0 - 0 0 - 8 5 13 2 1 2 0 3 8
+p150
+aVBaron Davis CHH 03/20/2002 CHH vs. IND W 45 25 10 21 47.6 3 8 37.5 2 2 100.0 4 4 8 10 1 0 1 3 12
+p151
+aVElden Campbell CHH 03/20/2002 CHH vs. IND W 31 18 6 9 66.7 0 0 - 6 7 85.7 0 6 6 1 1 0 0 3 14
+p152
+aVP.J. Brown CHH 03/18/2002 CHH vs. MIL W 34 17 7 15 46.7 0 0 - 3 3 100.0 7 5 12 3 3 1 0 3 23
+p153
+aVLee Nailon CHH 03/18/2002 CHH vs. MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p154
+aVBaron Davis CHH 03/18/2002 CHH vs. MIL W 43 18 8 19 42.1 0 7 0.0 2 4 50.0 1 4 5 8 1 2 2 5 11
+p155
+aVGeorge Lynch CHH 03/18/2002 CHH vs. MIL W 12 2 1 5 20.0 0 0 - 0 0 - 5 1 6 0 0 0 0 1 -18
+p156
+aVDavid Wesley CHH 03/18/2002 CHH vs. MIL W 45 16 6 13 46.2 2 6 33.3 2 2 100.0 2 0 2 5 0 0 0 3 7
+p157
+aVElden Campbell CHH 03/18/2002 CHH vs. MIL W 35 20 7 14 50.0 0 0 - 6 9 66.7 3 7 10 2 0 3 1 1 10
+p158
+aVJamaal Magloire CHH 03/18/2002 CHH vs. MIL W 13 6 1 1 100.0 0 0 - 4 5 80.0 0 0 0 0 0 1 0 0 -6
+p159
+aVJamal Mashburn CHH 03/18/2002 CHH vs. MIL W 45 31 9 23 39.1 1 2 50.0 12 12 100.0 2 8 10 4 4 0 2 2 6
+p160
+aVStacey Augmon CHH 03/18/2002 CHH vs. MIL W 8 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -13
+p161
+aVElden Campbell CHH 03/16/2002 CHH vs. PHX W 31 17 6 11 54.5 0 0 - 5 6 83.3 3 4 7 1 1 5 0 3 19
+p162
+aVBaron Davis CHH 03/16/2002 CHH vs. PHX W 34 5 2 5 40.0 1 3 33.3 0 2 0.0 1 1 2 10 1 0 1 4 11
+p163
+aVStacey Augmon CHH 03/16/2002 CHH vs. PHX W 15 1 0 1 0.0 0 0 - 1 2 50.0 1 4 5 1 1 0 1 1 -4
+p164
+aVJamaal Magloire CHH 03/16/2002 CHH vs. PHX W 19 7 0 3 0.0 0 0 - 7 10 70.0 0 6 6 0 0 0 3 2 -5
+p165
+aVGeorge Lynch CHH 03/16/2002 CHH vs. PHX W 16 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 0 -7
+p166
+aVDavid Wesley CHH 03/16/2002 CHH vs. PHX W 39 13 4 10 40.0 1 3 33.3 4 4 100.0 1 3 4 1 1 0 2 3 14
+p167
+aVJamal Mashburn CHH 03/16/2002 CHH vs. PHX W 47 23 9 23 39.1 2 5 40.0 3 4 75.0 0 7 7 5 2 1 2 0 10
+p168
+aVP.J. Brown CHH 03/16/2002 CHH vs. PHX W 22 10 4 6 66.7 0 0 - 2 2 100.0 1 6 7 0 0 0 0 5 16
+p169
+aVLee Nailon CHH 03/16/2002 CHH vs. PHX W 17 8 3 6 50.0 0 0 - 2 6 33.3 1 3 4 0 2 1 0 0 1
+p170
+aVStacey Augmon CHH 03/14/2002 CHH vs. UTA W 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 4 5
+p171
+aVBaron Davis CHH 03/14/2002 CHH vs. UTA W 33 18 7 10 70.0 3 3 100.0 1 2 50.0 1 2 3 7 3 0 1 3 20
+p172
+aVJamal Mashburn CHH 03/14/2002 CHH vs. UTA W 35 26 9 18 50.0 2 3 66.7 6 8 75.0 1 6 7 5 2 0 3 0 23
+p173
+aVBryce Drew CHH 03/14/2002 CHH vs. UTA W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -5
+p174
+aVLee Nailon CHH 03/14/2002 CHH vs. UTA W 17 8 3 11 27.3 0 0 - 2 2 100.0 5 0 5 0 1 0 0 2 0
+p175
+aVJamaal Magloire CHH 03/14/2002 CHH vs. UTA W 21 5 2 5 40.0 0 0 - 1 1 100.0 0 5 5 0 2 2 4 1 8
+p176
+aVP.J. Brown CHH 03/14/2002 CHH vs. UTA W 29 10 4 6 66.7 0 0 - 2 2 100.0 3 3 6 3 2 2 1 3 20
+p177
+aVRobert Traylor CHH 03/14/2002 CHH vs. UTA W 6 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 1 1 0 2 -5
+p178
+aVElden Campbell CHH 03/14/2002 CHH vs. UTA W 21 12 3 5 60.0 0 0 - 6 6 100.0 0 3 3 1 0 1 1 2 15
+p179
+aVKirk Haston CHH 03/14/2002 CHH vs. UTA W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p180
+aVGeorge Lynch CHH 03/14/2002 CHH vs. UTA W 19 7 3 5 60.0 1 1 100.0 0 0 - 3 0 3 0 1 0 0 1 -4
+p181
+aVDavid Wesley CHH 03/14/2002 CHH vs. UTA W 33 8 3 11 27.3 2 5 40.0 0 4 0.0 1 1 2 3 2 0 2 3 18
+p182
+aVKirk Haston CHH 03/12/2002 CHH @ LAL L 12 3 1 8 12.5 0 0 - 1 2 50.0 0 5 5 0 0 1 0 1 -12
+p183
+aVJamaal Magloire CHH 03/12/2002 CHH @ LAL L 14 8 2 3 66.7 0 0 - 4 4 100.0 3 1 4 1 0 1 2 1 -16
+p184
+aVElden Campbell CHH 03/12/2002 CHH @ LAL L 29 6 2 8 25.0 0 0 - 2 2 100.0 3 10 13 1 0 2 1 2 -21
+p185
+aVDavid Wesley CHH 03/12/2002 CHH @ LAL L 40 15 7 19 36.8 1 6 16.7 0 0 - 0 1 1 2 1 1 2 3 -37
+p186
+aVRobert Traylor CHH 03/12/2002 CHH @ LAL L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -9
+p187
+aVP.J. Brown CHH 03/12/2002 CHH @ LAL L 28 12 6 7 85.7 0 0 - 0 0 - 2 2 4 1 1 0 3 4 -16
+p188
+aVBaron Davis CHH 03/12/2002 CHH @ LAL L 35 4 1 10 10.0 0 5 0.0 2 4 50.0 0 1 1 6 2 0 5 3 -23
+p189
+aVJamal Mashburn CHH 03/12/2002 CHH @ LAL L 35 13 5 11 45.5 2 3 66.7 1 2 50.0 1 4 5 3 1 1 3 2 -23
+p190
+aVBryce Drew CHH 03/12/2002 CHH @ LAL L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -13
+p191
+aVStacey Augmon CHH 03/12/2002 CHH @ LAL L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 1 -21
+p192
+aVGeorge Lynch CHH 03/12/2002 CHH @ LAL L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -14
+p193
+aVLee Nailon CHH 03/10/2002 CHH @ PHX W 5 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p194
+aVStacey Augmon CHH 03/10/2002 CHH @ PHX W 21 8 4 6 66.7 0 0 - 0 0 - 0 3 3 4 3 0 1 2 14
+p195
+aVDavid Wesley CHH 03/10/2002 CHH @ PHX W 34 6 2 12 16.7 0 4 0.0 2 3 66.7 1 1 2 2 1 0 0 3 -1
+p196
+aVBaron Davis CHH 03/10/2002 CHH @ PHX W 41 18 5 13 38.5 2 5 40.0 6 6 100.0 1 1 2 11 2 0 1 0 -1
+p197
+aVElden Campbell CHH 03/10/2002 CHH @ PHX W 19 3 1 8 12.5 0 0 - 1 2 50.0 2 5 7 0 1 1 1 2 -4
+p198
+aVP.J. Brown CHH 03/10/2002 CHH @ PHX W 40 8 4 10 40.0 0 0 - 0 0 - 6 8 14 1 0 1 2 3 -4
+p199
+aVJamaal Magloire CHH 03/10/2002 CHH @ PHX W 30 17 7 10 70.0 0 0 - 3 4 75.0 4 5 9 0 1 1 1 3 10
+p200
+aVJamal Mashburn CHH 03/10/2002 CHH @ PHX W 43 26 11 28 39.3 2 3 66.7 2 2 100.0 3 5 8 4 2 0 1 3 4
+p201
+aVGeorge Lynch CHH 03/10/2002 CHH @ PHX W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 10
+p202
+aVJamaal Magloire CHH 03/08/2002 CHH @ SAC L 20 8 1 2 50.0 0 0 - 6 8 75.0 0 2 2 1 1 1 1 4 -4
+p203
+aVRobert Traylor CHH 03/08/2002 CHH @ SAC L 11 4 1 1 100.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 1 -2
+p204
+aVElden Campbell CHH 03/08/2002 CHH @ SAC L 18 8 2 7 28.6 0 0 - 4 4 100.0 2 6 8 0 0 0 1 5 -6
+p205
+aVDavid Wesley CHH 03/08/2002 CHH @ SAC L 31 14 5 12 41.7 2 4 50.0 2 2 100.0 0 3 3 1 0 0 1 2 -5
+p206
+aVJamal Mashburn CHH 03/08/2002 CHH @ SAC L 39 10 4 18 22.2 0 0 - 2 5 40.0 0 5 5 0 0 0 6 3 -16
+p207
+aVBaron Davis CHH 03/08/2002 CHH @ SAC L 43 15 7 15 46.7 0 4 0.0 1 2 50.0 2 1 3 7 1 0 6 4 -9
+p208
+aVP.J. Brown CHH 03/08/2002 CHH @ SAC L 29 8 2 6 33.3 0 0 - 4 4 100.0 3 3 6 1 2 2 0 3 -7
+p209
+aVGeorge Lynch CHH 03/08/2002 CHH @ SAC L 16 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 1 1 1 3 -7
+p210
+aVStacey Augmon CHH 03/08/2002 CHH @ SAC L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -3
+p211
+aVLee Nailon CHH 03/08/2002 CHH @ SAC L 30 18 8 13 61.5 0 0 - 2 2 100.0 3 4 7 3 2 0 2 1 -1
+p212
+aVP.J. Brown CHH 03/07/2002 CHH @ SEA L 27 12 5 9 55.6 0 0 - 2 2 100.0 5 2 7 1 2 1 1 2 3
+p213
+aVLee Nailon CHH 03/07/2002 CHH @ SEA L 12 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 1 0 2 1 -4
+p214
+aVJamal Mashburn CHH 03/07/2002 CHH @ SEA L 49 27 9 23 39.1 0 1 0.0 9 9 100.0 3 5 8 5 0 0 3 1 1
+p215
+aVElden Campbell CHH 03/07/2002 CHH @ SEA L 16 7 2 6 33.3 0 0 - 3 4 75.0 0 0 0 0 0 1 3 4 -5
+p216
+aVGeorge Lynch CHH 03/07/2002 CHH @ SEA L 38 5 2 6 33.3 0 0 - 1 2 50.0 4 5 9 2 1 1 1 6 -10
+p217
+aVJamaal Magloire CHH 03/07/2002 CHH @ SEA L 33 9 0 5 0.0 0 0 - 9 10 90.0 3 8 11 0 0 1 0 2 6
+p218
+aVStacey Augmon CHH 03/07/2002 CHH @ SEA L 9 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -6
+p219
+aVBaron Davis CHH 03/07/2002 CHH @ SEA L 45 15 6 16 37.5 3 10 30.0 0 4 0.0 1 4 5 6 3 0 4 4 0
+p220
+aVDavid Wesley CHH 03/07/2002 CHH @ SEA L 35 8 3 14 21.4 2 8 25.0 0 1 0.0 1 5 6 1 1 0 0 3 0
+p221
+aVJamaal Magloire CHH 03/03/2002 CHH vs. DET L 18 3 1 3 33.3 0 0 - 1 5 20.0 1 2 3 0 0 2 1 2 -7
+p222
+aVGeorge Lynch CHH 03/03/2002 CHH vs. DET L 26 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 2 0 0 3 -2
+p223
+aVStacey Augmon CHH 03/03/2002 CHH vs. DET L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p224
+aVRobert Traylor CHH 03/03/2002 CHH vs. DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p225
+aVP.J. Brown CHH 03/03/2002 CHH vs. DET L 39 8 4 8 50.0 0 0 - 0 0 - 5 6 11 0 0 0 0 3 2
+p226
+aVBaron Davis CHH 03/03/2002 CHH vs. DET L 42 10 3 17 17.6 1 2 50.0 3 6 50.0 2 5 7 7 3 0 3 3 -2
+p227
+aVJamal Mashburn CHH 03/03/2002 CHH vs. DET L 41 18 6 15 40.0 0 0 - 6 8 75.0 2 8 10 6 1 0 2 3 5
+p228
+aVLee Nailon CHH 03/03/2002 CHH vs. DET L 9 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -6
+p229
+aVElden Campbell CHH 03/03/2002 CHH vs. DET L 30 23 9 16 56.3 0 0 - 5 6 83.3 2 5 7 1 0 0 1 4 5
+p230
+aVDavid Wesley CHH 03/03/2002 CHH vs. DET L 22 10 4 7 57.1 1 2 50.0 1 1 100.0 1 0 1 1 1 0 0 1 1
+p231
+aVJamaal Magloire CHH 03/01/2002 CHH @ BOS W 17 9 2 4 50.0 0 0 - 5 9 55.6 4 6 10 0 0 1 1 4 9
+p232
+aVBaron Davis CHH 03/01/2002 CHH @ BOS W 32 19 7 17 41.2 4 5 80.0 1 1 100.0 5 2 7 8 2 0 3 5 13
+p233
+aVElden Campbell CHH 03/01/2002 CHH @ BOS W 28 14 3 10 30.0 0 0 - 8 8 100.0 1 2 3 2 1 0 2 4 -1
+p234
+aVDavid Wesley CHH 03/01/2002 CHH @ BOS W 20 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 3 4 0 1 1 8
+p235
+aVP.J. Brown CHH 03/01/2002 CHH @ BOS W 29 11 4 5 80.0 0 0 - 3 3 100.0 2 6 8 0 0 2 3 2 23
+p236
+aVStacey Augmon CHH 03/01/2002 CHH @ BOS W 18 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 2 0 0 0 3 3
+p237
+aVGeorge Lynch CHH 03/01/2002 CHH @ BOS W 33 7 2 4 50.0 0 0 - 3 4 75.0 1 4 5 1 3 1 1 2 3
+p238
+aVLee Nailon CHH 03/01/2002 CHH @ BOS W 19 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 1 0 0 1 1 -2
+p239
+aVJamal Mashburn CHH 03/01/2002 CHH @ BOS W 35 20 7 15 46.7 2 4 50.0 4 6 66.7 0 9 9 4 2 0 1 3 15
+p240
+aVRobert Traylor CHH 03/01/2002 CHH @ BOS W 7 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 0
+p241
+aVKirk Haston CHH 03/01/2002 CHH @ BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p242
+aVBaron Davis CHH 02/27/2002 CHH vs. NJN W 33 15 6 12 50.0 3 6 50.0 0 1 0.0 0 3 3 10 2 0 5 4 13
+p243
+aVGeorge Lynch CHH 02/27/2002 CHH vs. NJN W 24 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 2 3 1 1 2 18
+p244
+aVKirk Haston CHH 02/27/2002 CHH vs. NJN W 7 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 3 0 0 0 2 -6
+p245
+aVLee Nailon CHH 02/27/2002 CHH vs. NJN W 30 11 5 10 50.0 0 0 - 1 4 25.0 0 0 0 2 1 0 1 1 16
+p246
+aVP.J. Brown CHH 02/27/2002 CHH vs. NJN W 29 1 0 6 0.0 0 0 - 1 2 50.0 2 10 12 0 1 0 0 0 4
+p247
+aVJamal Mashburn CHH 02/27/2002 CHH vs. NJN W 31 36 15 20 75.0 0 2 0.0 6 8 75.0 1 2 3 1 0 0 1 2 13
+p248
+aVJerome Moiso CHH 02/27/2002 CHH vs. NJN W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p249
+aVElden Campbell CHH 02/27/2002 CHH vs. NJN W 16 3 1 5 20.0 0 0 - 1 1 100.0 1 3 4 0 0 0 1 4 -2
+p250
+aVBryce Drew CHH 02/27/2002 CHH vs. NJN W 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 3 2 5
+p251
+aVRobert Traylor CHH 02/27/2002 CHH vs. NJN W 6 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -4
+p252
+aVStacey Augmon CHH 02/27/2002 CHH vs. NJN W 21 5 2 5 40.0 0 0 - 1 1 100.0 1 2 3 1 1 0 1 1 17
+p253
+aVJamaal Magloire CHH 02/27/2002 CHH vs. NJN W 26 17 7 8 87.5 0 0 - 3 3 100.0 3 7 10 0 0 5 3 3 25
+p254
+aVJamal Mashburn CHH 02/25/2002 CHH vs. MIN L 36 15 5 15 33.3 1 2 50.0 4 5 80.0 0 4 4 5 1 0 2 2 -8
+p255
+aVP.J. Brown CHH 02/25/2002 CHH vs. MIN L 29 8 4 8 50.0 0 0 - 0 0 - 0 3 3 3 0 0 0 3 -6
+p256
+aVJamaal Magloire CHH 02/25/2002 CHH vs. MIN L 24 14 6 8 75.0 0 0 - 2 4 50.0 2 2 4 1 2 2 2 1 2
+p257
+aVElden Campbell CHH 02/25/2002 CHH vs. MIN L 34 23 9 14 64.3 0 0 - 5 5 100.0 0 3 3 1 0 1 3 3 -7
+p258
+aVBryce Drew CHH 02/25/2002 CHH vs. MIN L 35 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 6 4 0 1 1 3
+p259
+aVGeorge Lynch CHH 02/25/2002 CHH vs. MIN L 26 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 2 0 0 1 1 -4
+p260
+aVBaron Davis CHH 02/25/2002 CHH vs. MIN L 12 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 4 0 0 1 1 -1
+p261
+aVLee Nailon CHH 02/25/2002 CHH vs. MIN L 29 16 6 12 50.0 0 0 - 4 6 66.7 2 4 6 1 1 3 2 2 0
+p262
+aVStacey Augmon CHH 02/25/2002 CHH vs. MIN L 16 8 4 5 80.0 0 0 - 0 0 - 0 1 1 2 3 0 0 1 -4
+p263
+aVP.J. Brown CHH 02/24/2002 CHH @ NJN L 29 8 4 5 80.0 0 0 - 0 0 - 1 4 5 0 0 0 2 4 -5
+p264
+aVJamaal Magloire CHH 02/24/2002 CHH @ NJN L 25 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 0 2 1 3 3 -9
+p265
+aVElden Campbell CHH 02/24/2002 CHH @ NJN L 23 9 3 6 50.0 0 0 - 3 6 50.0 3 5 8 0 0 3 2 3 7
+p266
+aVLee Nailon CHH 02/24/2002 CHH @ NJN L 22 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p267
+aVBaron Davis CHH 02/24/2002 CHH @ NJN L 46 29 11 24 45.8 4 8 50.0 3 4 75.0 0 6 6 7 1 0 4 4 -5
+p268
+aVBryce Drew CHH 02/24/2002 CHH @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p269
+aVRobert Traylor CHH 02/24/2002 CHH @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p270
+aVGeorge Lynch CHH 02/24/2002 CHH @ NJN L 44 9 4 12 33.3 0 0 - 1 2 50.0 4 7 11 4 1 0 2 2 5
+p271
+aVJamal Mashburn CHH 02/24/2002 CHH @ NJN L 46 24 9 21 42.9 0 2 0.0 6 6 100.0 0 6 6 4 2 0 4 2 -4
+p272
+aVRobert Traylor CHH 02/22/2002 CHH vs. LAL L 10 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 1 1 0 0 2 -2
+p273
+aVBaron Davis CHH 02/22/2002 CHH vs. LAL L 48 37 13 21 61.9 4 7 57.1 7 11 63.6 3 4 7 6 5 0 3 3 -2
+p274
+aVJamal Mashburn CHH 02/22/2002 CHH vs. LAL L 44 16 7 23 30.4 0 6 0.0 2 2 100.0 1 4 5 8 2 0 3 2 1
+p275
+aVLee Nailon CHH 02/22/2002 CHH vs. LAL L 25 6 3 8 37.5 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -3
+p276
+aVBryce Drew CHH 02/22/2002 CHH vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p277
+aVJamaal Magloire CHH 02/22/2002 CHH vs. LAL L 21 8 4 5 80.0 0 0 - 0 0 - 2 7 9 0 0 2 1 3 4
+p278
+aVElden Campbell CHH 02/22/2002 CHH vs. LAL L 24 6 2 9 22.2 0 0 - 2 2 100.0 2 4 6 3 1 3 0 5 -3
+p279
+aVGeorge Lynch CHH 02/22/2002 CHH vs. LAL L 32 2 1 7 14.3 0 0 - 0 0 - 0 5 5 1 0 0 1 2 1
+p280
+aVP.J. Brown CHH 02/22/2002 CHH vs. LAL L 32 17 7 8 87.5 0 0 - 3 4 75.0 5 5 10 0 0 0 3 5 -3
+p281
+aVStacey Augmon CHH 02/22/2002 CHH vs. LAL L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p282
+aVBaron Davis CHH 02/20/2002 CHH @ TOR W 43 17 7 16 43.8 1 5 20.0 2 3 66.7 2 5 7 8 0 0 5 2 3
+p283
+aVBryce Drew CHH 02/20/2002 CHH @ TOR W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p284
+aVLee Nailon CHH 02/20/2002 CHH @ TOR W 22 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 1 1 0 1 3 -15
+p285
+aVP.J. Brown CHH 02/20/2002 CHH @ TOR W 28 4 1 4 25.0 0 0 - 2 2 100.0 1 8 9 2 0 2 0 3 0
+p286
+aVStacey Augmon CHH 02/20/2002 CHH @ TOR W 19 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 1
+p287
+aVGeorge Lynch CHH 02/20/2002 CHH @ TOR W 31 10 5 7 71.4 0 0 - 0 0 - 2 3 5 2 3 0 0 3 9
+p288
+aVJamaal Magloire CHH 02/20/2002 CHH @ TOR W 23 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 3 5 13
+p289
+aVElden Campbell CHH 02/20/2002 CHH @ TOR W 32 18 8 17 47.1 0 0 - 2 4 50.0 1 7 8 1 3 4 4 3 -13
+p290
+aVJamal Mashburn CHH 02/20/2002 CHH @ TOR W 37 15 5 14 35.7 1 2 50.0 4 4 100.0 0 4 4 4 0 0 4 2 5
+p291
+aVJamal Mashburn CHH 02/18/2002 CHH @ MIL W 44 22 8 18 44.4 2 4 50.0 4 4 100.0 0 3 3 5 3 0 2 1 2
+p292
+aVP.J. Brown CHH 02/18/2002 CHH @ MIL W 33 11 4 7 57.1 0 0 - 3 3 100.0 7 4 11 1 1 1 0 4 2
+p293
+aVElden Campbell CHH 02/18/2002 CHH @ MIL W 30 24 10 17 58.8 0 0 - 4 5 80.0 0 3 3 2 3 1 1 2 13
+p294
+aVJamaal Magloire CHH 02/18/2002 CHH @ MIL W 17 10 2 5 40.0 0 0 - 6 8 75.0 4 4 8 1 3 0 1 2 -4
+p295
+aVGeorge Lynch CHH 02/18/2002 CHH @ MIL W 29 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 1 1 3 2 0
+p296
+aVStacey Augmon CHH 02/18/2002 CHH @ MIL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 4
+p297
+aVBryce Drew CHH 02/18/2002 CHH @ MIL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p298
+aVLee Nailon CHH 02/18/2002 CHH @ MIL W 29 14 6 9 66.7 0 0 - 2 3 66.7 0 5 5 1 0 0 0 3 10
+p299
+aVBaron Davis CHH 02/18/2002 CHH @ MIL W 45 20 5 13 38.5 1 3 33.3 9 11 81.8 0 3 3 7 3 0 6 4 11
+p300
+aVRobert Traylor CHH 02/18/2002 CHH @ MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 9
+p301
+aVRobert Traylor CHH 02/17/2002 CHH vs. MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p302
+aVElden Campbell CHH 02/17/2002 CHH vs. MEM L 38 17 6 17 35.3 0 0 - 5 6 83.3 4 7 11 4 3 3 2 4 -2
+p303
+aVStacey Augmon CHH 02/17/2002 CHH vs. MEM L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -3
+p304
+aVLee Nailon CHH 02/17/2002 CHH vs. MEM L 39 17 8 20 40.0 0 0 - 1 1 100.0 2 4 6 4 3 0 1 2 -3
+p305
+aVBryce Drew CHH 02/17/2002 CHH vs. MEM L 16 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 2 -14
+p306
+aVJamaal Magloire CHH 02/17/2002 CHH vs. MEM L 21 15 4 6 66.7 0 1 0.0 7 7 100.0 2 3 5 1 1 0 4 2 -18
+p307
+aVBaron Davis CHH 02/17/2002 CHH vs. MEM L 44 14 4 20 20.0 0 7 0.0 6 8 75.0 2 1 3 10 2 0 5 3 -10
+p308
+aVP.J. Brown CHH 02/17/2002 CHH vs. MEM L 35 4 2 5 40.0 0 0 - 0 0 - 3 8 11 1 2 1 1 2 -5
+p309
+aVGeorge Lynch CHH 02/17/2002 CHH vs. MEM L 40 10 4 11 36.4 0 0 - 2 3 66.7 3 4 7 1 0 1 1 2 -10
+p310
+aVRobert Traylor CHH 02/15/2002 CHH vs. IND W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -5
+p311
+aVJamaal Magloire CHH 02/15/2002 CHH vs. IND W 18 11 5 7 71.4 0 0 - 1 2 50.0 2 5 7 0 2 0 1 2 0
+p312
+aVGeorge Lynch CHH 02/15/2002 CHH vs. IND W 36 7 3 9 33.3 0 1 0.0 1 2 50.0 2 2 4 4 0 0 1 2 12
+p313
+aVStacey Augmon CHH 02/15/2002 CHH vs. IND W 21 4 2 4 50.0 0 0 - 0 0 - 0 3 3 7 0 0 0 2 2
+p314
+aVP.J. Brown CHH 02/15/2002 CHH vs. IND W 37 6 3 8 37.5 0 0 - 0 0 - 6 12 18 1 1 0 1 2 13
+p315
+aVLee Nailon CHH 02/15/2002 CHH vs. IND W 36 23 10 14 71.4 0 0 - 3 3 100.0 0 1 1 3 0 1 4 4 11
+p316
+aVBaron Davis CHH 02/15/2002 CHH vs. IND W 44 38 10 17 58.8 3 6 50.0 15 17 88.2 1 5 6 8 2 2 3 3 12
+p317
+aVElden Campbell CHH 02/15/2002 CHH vs. IND W 29 23 7 11 63.6 0 0 - 9 10 90.0 0 5 5 2 1 3 1 3 11
+p318
+aVBryce Drew CHH 02/15/2002 CHH vs. IND W 15 4 2 5 40.0 0 2 0.0 0 1 0.0 1 0 1 1 0 0 0 3 -6
+p319
+aVJerome Moiso CHH 02/13/2002 CHH vs. CHI W 12 0 0 4 0.0 0 0 - 0 0 - 1 3 4 0 0 0 2 2 -11
+p320
+aVBaron Davis CHH 02/13/2002 CHH vs. CHI W 30 18 7 12 58.3 2 5 40.0 2 3 66.7 0 1 1 12 2 0 2 3 27
+p321
+aVRobert Traylor CHH 02/13/2002 CHH vs. CHI W 26 10 5 9 55.6 0 0 - 0 1 0.0 2 4 6 3 0 0 1 5 8
+p322
+aVJamaal Magloire CHH 02/13/2002 CHH vs. CHI W 25 17 5 9 55.6 0 0 - 7 9 77.8 1 9 10 1 0 3 0 4 7
+p323
+aVStacey Augmon CHH 02/13/2002 CHH vs. CHI W 12 9 2 4 50.0 0 0 - 5 8 62.5 0 1 1 3 1 0 0 2 14
+p324
+aVP.J. Brown CHH 02/13/2002 CHH vs. CHI W 22 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 0 1 2 2 14
+p325
+aVBryce Drew CHH 02/13/2002 CHH vs. CHI W 20 6 3 6 50.0 0 0 - 0 1 0.0 0 1 1 3 2 0 0 0 -3
+p326
+aVElden Campbell CHH 02/13/2002 CHH vs. CHI W 23 15 5 8 62.5 0 0 - 5 6 83.3 0 5 5 2 0 6 1 1 15
+p327
+aVLee Nailon CHH 02/13/2002 CHH vs. CHI W 41 24 11 16 68.8 0 0 - 2 3 66.7 2 6 8 3 2 0 0 0 10
+p328
+aVGeorge Lynch CHH 02/13/2002 CHH vs. CHI W 29 10 5 11 45.5 0 0 - 0 2 0.0 2 4 6 1 1 0 2 0 29
+p329
+aVBaron Davis CHH 02/07/2002 CHH vs. PHI L 43 23 8 22 36.4 3 10 30.0 4 8 50.0 1 3 4 10 5 1 4 4 -1
+p330
+aVLee Nailon CHH 02/07/2002 CHH vs. PHI L 44 18 9 15 60.0 0 0 - 0 0 - 2 2 4 5 2 1 2 3 -8
+p331
+aVGeorge Lynch CHH 02/07/2002 CHH vs. PHI L 31 7 2 7 28.6 0 0 - 3 4 75.0 2 3 5 2 1 2 2 3 -11
+p332
+aVElden Campbell CHH 02/07/2002 CHH vs. PHI L 35 16 7 14 50.0 0 0 - 2 2 100.0 0 4 4 1 1 1 0 4 -6
+p333
+aVBryce Drew CHH 02/07/2002 CHH vs. PHI L 32 13 6 10 60.0 1 3 33.3 0 0 - 1 5 6 3 3 0 2 2 -3
+p334
+aVJamaal Magloire CHH 02/07/2002 CHH vs. PHI L 16 9 2 5 40.0 0 0 - 5 8 62.5 1 3 4 0 0 2 2 3 -2
+p335
+aVRobert Traylor CHH 02/07/2002 CHH vs. PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p336
+aVP.J. Brown CHH 02/07/2002 CHH vs. PHI L 29 7 2 5 40.0 0 0 - 3 3 100.0 2 10 12 2 0 4 1 2 -6
+p337
+aVStacey Augmon CHH 02/07/2002 CHH vs. PHI L 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p338
+aVStacey Augmon CHH 02/05/2002 CHH vs. BOS L 19 0 0 6 0.0 0 0 - 0 0 - 1 1 2 4 1 0 2 1 10
+p339
+aVJamaal Magloire CHH 02/05/2002 CHH vs. BOS L 18 10 2 3 66.7 0 0 - 6 8 75.0 1 7 8 0 0 3 2 4 12
+p340
+aVBaron Davis CHH 02/05/2002 CHH vs. BOS L 40 28 11 22 50.0 3 9 33.3 3 4 75.0 0 5 5 4 3 1 2 2 -5
+p341
+aVLee Nailon CHH 02/05/2002 CHH vs. BOS L 41 17 7 19 36.8 1 1 100.0 2 2 100.0 2 6 8 4 0 0 4 1 -13
+p342
+aVGeorge Lynch CHH 02/05/2002 CHH vs. BOS L 42 10 4 12 33.3 0 1 0.0 2 2 100.0 4 2 6 3 5 4 4 3 -3
+p343
+aVElden Campbell CHH 02/05/2002 CHH vs. BOS L 29 10 5 13 38.5 0 1 0.0 0 0 - 4 5 9 2 0 4 0 6 -15
+p344
+aVBryce Drew CHH 02/05/2002 CHH vs. BOS L 24 2 1 4 25.0 0 2 0.0 0 1 0.0 1 5 6 5 1 1 1 3 17
+p345
+aVP.J. Brown CHH 02/05/2002 CHH vs. BOS L 26 2 1 4 25.0 0 0 - 0 0 - 1 5 6 0 0 0 3 3 -18
+p346
+aVMatt Bullard CHH 02/05/2002 CHH vs. BOS L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p347
+aVKirk Haston CHH 02/03/2002 CHH @ MEM W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p348
+aVStacey Augmon CHH 02/03/2002 CHH @ MEM W 16 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 3 -3
+p349
+aVP.J. Brown CHH 02/03/2002 CHH @ MEM W 36 15 5 8 62.5 0 0 - 5 6 83.3 2 5 7 2 0 0 0 2 18
+p350
+aVBryce Drew CHH 02/03/2002 CHH @ MEM W 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 4 1 0 0 1 4
+p351
+aVBaron Davis CHH 02/03/2002 CHH @ MEM W 43 18 7 19 36.8 1 6 16.7 3 4 75.0 0 3 3 10 2 0 2 2 19
+p352
+aVJamaal Magloire CHH 02/03/2002 CHH @ MEM W 22 13 3 10 30.0 0 0 - 7 10 70.0 6 4 10 0 0 1 2 1 13
+p353
+aVElden Campbell CHH 02/03/2002 CHH @ MEM W 26 19 7 9 77.8 0 0 - 5 6 83.3 1 7 8 0 0 1 2 5 5
+p354
+aVLee Nailon CHH 02/03/2002 CHH @ MEM W 38 12 5 11 45.5 0 0 - 2 2 100.0 0 2 2 7 1 0 0 3 17
+p355
+aVGeorge Lynch CHH 02/03/2002 CHH @ MEM W 37 12 6 10 60.0 0 0 - 0 0 - 3 1 4 4 3 0 0 3 17
+p356
+aVBryce Drew CHH 02/01/2002 CHH @ HOU W 18 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 1 0 1 4
+p357
+aVJamaal Magloire CHH 02/01/2002 CHH @ HOU W 18 6 2 2 100.0 0 0 - 2 3 66.7 0 4 4 0 0 0 1 3 2
+p358
+aVGeorge Lynch CHH 02/01/2002 CHH @ HOU W 22 4 2 7 28.6 0 0 - 0 0 - 1 5 6 1 0 0 2 1 -8
+p359
+aVElden Campbell CHH 02/01/2002 CHH @ HOU W 30 21 9 14 64.3 0 0 - 3 6 50.0 2 7 9 2 1 0 1 3 1
+p360
+aVP.J. Brown CHH 02/01/2002 CHH @ HOU W 39 3 1 6 16.7 0 0 - 1 2 50.0 4 8 12 2 2 0 0 3 8
+p361
+aVLee Nailon CHH 02/01/2002 CHH @ HOU W 38 16 8 18 44.4 0 0 - 0 0 - 1 1 2 1 1 1 1 4 1
+p362
+aVBaron Davis CHH 02/01/2002 CHH @ HOU W 45 16 7 22 31.8 2 7 28.6 0 2 0.0 0 1 1 10 1 0 5 3 1
+p363
+aVStacey Augmon CHH 02/01/2002 CHH @ HOU W 24 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 0 1 0 0 0 -4
+p364
+aVMatt Bullard CHH 02/01/2002 CHH @ HOU W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p365
+aVP.J. Brown CHH 01/29/2002 CHH @ SAS W 32 10 2 4 50.0 0 0 - 6 6 100.0 3 3 6 1 1 2 2 4 -4
+p366
+aVGeorge Lynch CHH 01/29/2002 CHH @ SAS W 24 2 1 5 20.0 0 0 - 0 0 - 2 7 9 1 2 1 1 3 7
+p367
+aVStacey Augmon CHH 01/29/2002 CHH @ SAS W 23 8 3 7 42.9 0 0 - 2 2 100.0 1 4 5 0 1 0 1 2 11
+p368
+aVJamaal Magloire CHH 01/29/2002 CHH @ SAS W 18 9 3 6 50.0 0 0 - 3 5 60.0 2 2 4 0 1 2 0 3 16
+p369
+aVLee Nailon CHH 01/29/2002 CHH @ SAS W 18 7 2 6 33.3 0 0 - 3 4 75.0 1 0 1 2 1 0 1 4 -2
+p370
+aVDavid Wesley CHH 01/29/2002 CHH @ SAS W 41 8 4 14 28.6 0 2 0.0 0 0 - 0 1 1 3 4 0 4 2 5
+p371
+aVBryce Drew CHH 01/29/2002 CHH @ SAS W 27 15 6 9 66.7 3 3 100.0 0 0 - 1 4 5 2 0 0 1 0 15
+p372
+aVElden Campbell CHH 01/29/2002 CHH @ SAS W 30 13 6 14 42.9 0 0 - 1 2 50.0 3 7 10 0 0 0 3 4 -13
+p373
+aVBaron Davis CHH 01/29/2002 CHH @ SAS W 28 6 2 15 13.3 0 4 0.0 2 2 100.0 0 5 5 5 1 1 1 2 -10
+p374
+aVStacey Augmon CHH 01/26/2002 CHH vs. HOU L 11 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 1 0 1 0 -9
+p375
+aVGeorge Lynch CHH 01/26/2002 CHH vs. HOU L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 1
+p376
+aVJamaal Magloire CHH 01/26/2002 CHH vs. HOU L 29 12 4 8 50.0 0 0 - 4 5 80.0 1 10 11 0 0 2 0 2 5
+p377
+aVElden Campbell CHH 01/26/2002 CHH vs. HOU L 23 8 3 7 42.9 0 0 - 2 4 50.0 1 2 3 0 1 1 2 3 -4
+p378
+aVBaron Davis CHH 01/26/2002 CHH vs. HOU L 42 34 13 25 52.0 6 10 60.0 2 2 100.0 0 3 3 11 2 0 3 4 2
+p379
+aVBryce Drew CHH 01/26/2002 CHH vs. HOU L 13 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p380
+aVDavid Wesley CHH 01/26/2002 CHH vs. HOU L 51 9 4 12 33.3 1 3 33.3 0 1 0.0 0 2 2 5 1 1 4 4 -10
+p381
+aVLee Nailon CHH 01/26/2002 CHH vs. HOU L 46 22 10 18 55.6 0 0 - 2 3 66.7 3 0 3 2 3 0 3 5 -3
+p382
+aVP.J. Brown CHH 01/26/2002 CHH vs. HOU L 45 10 3 8 37.5 0 0 - 4 6 66.7 5 8 13 3 0 2 0 4 -11
+p383
+aVDavid Wesley CHH 01/25/2002 CHH @ IND L 42 20 8 19 42.1 2 8 25.0 2 3 66.7 1 1 2 4 3 0 2 2 1
+p384
+aVBryce Drew CHH 01/25/2002 CHH @ IND L 13 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 3 1 0 0 0 -8
+p385
+aVMatt Bullard CHH 01/25/2002 CHH @ IND L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 5
+p386
+aVStacey Augmon CHH 01/25/2002 CHH @ IND L 13 2 1 6 16.7 0 0 - 0 0 - 0 1 1 1 3 0 0 0 -6
+p387
+aVP.J. Brown CHH 01/25/2002 CHH @ IND L 34 3 0 6 0.0 0 0 - 3 4 75.0 8 5 13 1 0 1 2 3 -11
+p388
+aVElden Campbell CHH 01/25/2002 CHH @ IND L 24 12 4 10 40.0 0 0 - 4 4 100.0 2 5 7 1 0 2 2 5 0
+p389
+aVLee Nailon CHH 01/25/2002 CHH @ IND L 35 11 5 14 35.7 0 0 - 1 2 50.0 2 3 5 2 0 1 0 1 -3
+p390
+aVJamaal Magloire CHH 01/25/2002 CHH @ IND L 25 19 5 10 50.0 0 0 - 9 12 75.0 7 9 16 1 1 0 2 3 -5
+p391
+aVGeorge Lynch CHH 01/25/2002 CHH @ IND L 7 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -7
+p392
+aVBaron Davis CHH 01/25/2002 CHH @ IND L 41 9 4 18 22.2 1 8 12.5 0 2 0.0 1 3 4 6 1 0 2 3 -11
+p393
+aVBryce Drew CHH 01/23/2002 CHH vs. SEA W 15 10 3 5 60.0 3 3 100.0 1 1 100.0 0 0 0 4 0 0 0 0 8
+p394
+aVElden Campbell CHH 01/23/2002 CHH vs. SEA W 33 17 5 9 55.6 0 0 - 7 11 63.6 4 7 11 1 1 1 2 4 4
+p395
+aVGeorge Lynch CHH 01/23/2002 CHH vs. SEA W 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p396
+aVJamaal Magloire CHH 01/23/2002 CHH vs. SEA W 14 6 3 6 50.0 0 0 - 0 0 - 3 5 8 1 1 1 3 2 7
+p397
+aVStacey Augmon CHH 01/23/2002 CHH vs. SEA W 14 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 3 1 0 0 2 11
+p398
+aVBaron Davis CHH 01/23/2002 CHH vs. SEA W 40 20 8 18 44.4 2 6 33.3 2 3 66.7 1 8 9 11 0 0 3 3 -6
+p399
+aVDavid Wesley CHH 01/23/2002 CHH vs. SEA W 43 21 7 18 38.9 4 9 44.4 3 3 100.0 0 0 0 3 0 0 2 2 6
+p400
+aVP.J. Brown CHH 01/23/2002 CHH vs. SEA W 37 14 4 6 66.7 0 0 - 6 8 75.0 1 8 9 2 1 2 3 4 7
+p401
+aVLee Nailon CHH 01/23/2002 CHH vs. SEA W 31 19 9 15 60.0 0 0 - 1 1 100.0 4 4 8 1 0 0 1 4 9
+p402
+aVKirk Haston CHH 01/21/2002 CHH @ NYK W 8 4 1 3 33.3 0 1 0.0 2 2 100.0 1 2 3 1 0 0 0 2 2
+p403
+aVDavid Wesley CHH 01/21/2002 CHH @ NYK W 32 16 5 10 50.0 2 4 50.0 4 4 100.0 0 3 3 5 1 0 0 0 41
+p404
+aVBryce Drew CHH 01/21/2002 CHH @ NYK W 16 10 4 5 80.0 1 1 100.0 1 1 100.0 1 0 1 2 1 0 2 1 2
+p405
+aVJamaal Magloire CHH 01/21/2002 CHH @ NYK W 18 12 3 6 50.0 0 0 - 6 6 100.0 2 3 5 1 1 2 0 5 14
+p406
+aVStacey Augmon CHH 01/21/2002 CHH @ NYK W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 0
+p407
+aVRobert Traylor CHH 01/21/2002 CHH @ NYK W 29 4 2 9 22.2 0 0 - 0 0 - 1 6 7 2 2 0 3 3 9
+p408
+aVLee Nailon CHH 01/21/2002 CHH @ NYK W 30 16 7 11 63.6 0 0 - 2 2 100.0 1 4 5 0 2 0 1 3 41
+p409
+aVP.J. Brown CHH 01/21/2002 CHH @ NYK W 19 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 2 2 0 0 3 34
+p410
+aVBaron Davis CHH 01/21/2002 CHH @ NYK W 34 24 9 12 75.0 3 4 75.0 3 4 75.0 0 4 4 9 2 2 2 2 41
+p411
+aVGeorge Lynch CHH 01/21/2002 CHH @ NYK W 18 4 2 6 33.3 0 1 0.0 0 0 - 1 4 5 2 0 0 2 0 2
+p412
+aVElden Campbell CHH 01/21/2002 CHH @ NYK W 22 13 4 9 44.4 0 0 - 5 9 55.6 3 5 8 2 0 1 3 3 27
+p413
+aVMatt Bullard CHH 01/21/2002 CHH @ NYK W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p414
+aVJamaal Magloire CHH 01/19/2002 CHH vs. TOR L 19 14 5 10 50.0 0 0 - 4 7 57.1 8 1 9 1 1 1 1 0 -6
+p415
+aVRobert Traylor CHH 01/19/2002 CHH vs. TOR L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 2 1
+p416
+aVMatt Bullard CHH 01/19/2002 CHH vs. TOR L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 -8
+p417
+aVP.J. Brown CHH 01/19/2002 CHH vs. TOR L 36 7 2 5 40.0 0 0 - 3 3 100.0 6 8 14 5 0 1 2 1 4
+p418
+aVElden Campbell CHH 01/19/2002 CHH vs. TOR L 29 22 7 11 63.6 0 0 - 8 9 88.9 0 4 4 0 1 0 2 5 4
+p419
+aVGeorge Lynch CHH 01/19/2002 CHH vs. TOR L 6 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -7
+p420
+aVBaron Davis CHH 01/19/2002 CHH vs. TOR L 46 18 7 16 43.8 2 5 40.0 2 5 40.0 2 2 4 6 2 0 0 0 -2
+p421
+aVDavid Wesley CHH 01/19/2002 CHH vs. TOR L 42 17 5 14 35.7 1 3 33.3 6 8 75.0 1 2 3 9 0 1 1 3 1
+p422
+aVBryce Drew CHH 01/19/2002 CHH vs. TOR L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p423
+aVLee Nailon CHH 01/19/2002 CHH vs. TOR L 29 7 3 9 33.3 0 0 - 1 1 100.0 0 3 3 2 0 0 1 2 4
+p424
+aVStacey Augmon CHH 01/19/2002 CHH vs. TOR L 15 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 1 0 1 3 1
+p425
+aVStacey Augmon CHH 01/17/2002 CHH vs. PHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -6
+p426
+aVRobert Traylor CHH 01/17/2002 CHH vs. PHI L 11 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 1 1 3 -3
+p427
+aVJamaal Magloire CHH 01/17/2002 CHH vs. PHI L 15 2 1 4 25.0 0 0 - 0 0 - 1 9 10 2 0 1 0 2 4
+p428
+aVLee Nailon CHH 01/17/2002 CHH vs. PHI L 41 27 12 19 63.2 0 0 - 3 3 100.0 1 5 6 2 5 0 2 3 0
+p429
+aVBryce Drew CHH 01/17/2002 CHH vs. PHI L 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p430
+aVElden Campbell CHH 01/17/2002 CHH vs. PHI L 33 7 3 10 30.0 0 1 0.0 1 2 50.0 3 4 7 2 0 1 1 4 -8
+p431
+aVDavid Wesley CHH 01/17/2002 CHH vs. PHI L 41 23 7 19 36.8 1 5 20.0 8 9 88.9 0 1 1 3 1 0 2 3 0
+p432
+aVBaron Davis CHH 01/17/2002 CHH vs. PHI L 43 13 5 18 27.8 1 8 12.5 2 6 33.3 1 1 2 11 4 1 4 5 -4
+p433
+aVP.J. Brown CHH 01/17/2002 CHH vs. PHI L 37 12 5 7 71.4 0 0 - 2 2 100.0 5 7 12 2 2 2 0 2 -2
+p434
+aVElden Campbell CHH 01/15/2002 CHH @ CHI W 24 13 6 10 60.0 0 0 - 1 2 50.0 1 2 3 1 0 0 2 5 -17
+p435
+aVDavid Wesley CHH 01/15/2002 CHH @ CHI W 43 26 7 13 53.8 4 5 80.0 8 10 80.0 1 2 3 2 1 1 2 2 3
+p436
+aVJamaal Magloire CHH 01/15/2002 CHH @ CHI W 24 12 4 5 80.0 0 0 - 4 4 100.0 1 6 7 2 0 1 1 2 25
+p437
+aVRobert Traylor CHH 01/15/2002 CHH @ CHI W 18 2 0 2 0.0 0 0 - 2 4 50.0 1 6 7 2 1 1 1 5 13
+p438
+aVBaron Davis CHH 01/15/2002 CHH @ CHI W 43 16 7 21 33.3 1 4 25.0 1 2 50.0 3 4 7 11 1 0 5 3 10
+p439
+aVP.J. Brown CHH 01/15/2002 CHH @ CHI W 30 5 2 5 40.0 0 0 - 1 1 100.0 0 7 7 0 2 0 3 5 -5
+p440
+aVBryce Drew CHH 01/15/2002 CHH @ CHI W 10 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 0 3
+p441
+aVStacey Augmon CHH 01/15/2002 CHH @ CHI W 25 6 1 5 20.0 0 0 - 4 6 66.7 1 6 7 2 3 0 0 0 19
+p442
+aVGeorge Lynch CHH 01/15/2002 CHH @ CHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p443
+aVLee Nailon CHH 01/15/2002 CHH @ CHI W 18 7 3 6 50.0 0 1 0.0 1 2 50.0 0 3 3 3 0 0 1 0 -4
+p444
+aVMatt Bullard CHH 01/12/2002 CHH @ DET L 16 10 4 5 80.0 2 2 100.0 0 0 - 2 5 7 0 0 0 1 1 -9
+p445
+aVBryce Drew CHH 01/12/2002 CHH @ DET L 21 4 0 4 0.0 0 2 0.0 4 4 100.0 0 1 1 1 1 0 3 3 -13
+p446
+aVP.J. Brown CHH 01/12/2002 CHH @ DET L 26 4 1 3 33.3 0 0 - 2 2 100.0 1 7 8 0 1 0 1 1 -20
+p447
+aVLee Nailon CHH 01/12/2002 CHH @ DET L 22 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 0 0 2 1 -21
+p448
+aVJamaal Magloire CHH 01/12/2002 CHH @ DET L 17 3 1 2 50.0 0 0 - 1 2 50.0 1 4 5 0 0 1 1 2 -2
+p449
+aVElden Campbell CHH 01/12/2002 CHH @ DET L 19 11 4 7 57.1 0 0 - 3 4 75.0 2 1 3 3 1 1 4 4 -15
+p450
+aVRobert Traylor CHH 01/12/2002 CHH @ DET L 18 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 1 0 1 2 3 -10
+p451
+aVDavid Wesley CHH 01/12/2002 CHH @ DET L 34 14 5 14 35.7 3 7 42.9 1 1 100.0 0 0 0 2 3 0 3 3 -29
+p452
+aVStacey Augmon CHH 01/12/2002 CHH @ DET L 19 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 1 1 0 1 1 1
+p453
+aVBaron Davis CHH 01/12/2002 CHH @ DET L 38 12 4 14 28.6 2 5 40.0 2 8 25.0 0 4 4 7 0 2 4 4 -19
+p454
+aVJerome Moiso CHH 01/12/2002 CHH @ DET L 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p455
+aVKirk Haston CHH 01/12/2002 CHH @ DET L 6 2 1 3 33.3 0 1 0.0 0 2 0.0 1 2 3 0 0 0 0 0 -3
+p456
+aVBryce Drew CHH 01/11/2002 CHH vs. LAC W 14 6 2 7 28.6 2 4 50.0 0 0 - 1 0 1 3 0 0 0 2 7
+p457
+aVRobert Traylor CHH 01/11/2002 CHH vs. LAC W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 1 -7
+p458
+aVElden Campbell CHH 01/11/2002 CHH vs. LAC W 31 12 5 17 29.4 0 0 - 2 3 66.7 1 8 9 1 1 2 5 5 -6
+p459
+aVJamaal Magloire CHH 01/11/2002 CHH vs. LAC W 21 7 2 6 33.3 0 0 - 3 3 100.0 2 4 6 0 0 2 1 1 2
+p460
+aVBaron Davis CHH 01/11/2002 CHH vs. LAC W 46 19 7 20 35.0 2 7 28.6 3 3 100.0 2 4 6 15 5 3 5 2 1
+p461
+aVLee Nailon CHH 01/11/2002 CHH vs. LAC W 27 14 6 14 42.9 0 0 - 2 2 100.0 3 3 6 0 1 0 4 1 -3
+p462
+aVP.J. Brown CHH 01/11/2002 CHH vs. LAC W 42 10 5 11 45.5 0 0 - 0 0 - 7 11 18 2 2 1 0 4 8
+p463
+aVStacey Augmon CHH 01/11/2002 CHH vs. LAC W 31 12 5 8 62.5 0 0 - 2 2 100.0 2 1 3 1 0 0 1 5 9
+p464
+aVDavid Wesley CHH 01/11/2002 CHH vs. LAC W 42 11 4 14 28.6 3 6 50.0 0 0 - 2 2 4 4 0 1 0 2 -6
+p465
+aVRobert Traylor CHH 01/09/2002 CHH vs. ATL W 19 8 4 8 50.0 0 0 - 0 0 - 1 4 5 1 1 4 1 1 19
+p466
+aVJerome Moiso CHH 01/09/2002 CHH vs. ATL W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p467
+aVStacey Augmon CHH 01/09/2002 CHH vs. ATL W 18 5 1 5 20.0 0 0 - 3 4 75.0 0 5 5 3 1 0 1 0 16
+p468
+aVKirk Haston CHH 01/09/2002 CHH vs. ATL W 3 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p469
+aVJamaal Magloire CHH 01/09/2002 CHH vs. ATL W 16 11 3 4 75.0 0 0 - 5 5 100.0 1 7 8 0 0 2 4 2 8
+p470
+aVP.J. Brown CHH 01/09/2002 CHH vs. ATL W 26 6 3 7 42.9 0 0 - 0 0 - 4 6 10 1 0 1 0 4 -1
+p471
+aVBryce Drew CHH 01/09/2002 CHH vs. ATL W 33 14 4 7 57.1 1 2 50.0 5 7 71.4 0 3 3 4 2 0 2 2 28
+p472
+aVBaron Davis CHH 01/09/2002 CHH vs. ATL W 43 20 9 14 64.3 2 3 66.7 0 0 - 2 5 7 11 3 2 3 2 26
+p473
+aVElden Campbell CHH 01/09/2002 CHH vs. ATL W 32 22 7 8 87.5 0 0 - 8 8 100.0 4 9 13 1 3 2 2 1 16
+p474
+aVDavid Wesley CHH 01/09/2002 CHH vs. ATL W 26 9 4 13 30.8 1 2 50.0 0 0 - 0 3 3 2 0 0 1 0 -4
+p475
+aVLee Nailon CHH 01/09/2002 CHH vs. ATL W 21 10 4 10 40.0 0 0 - 2 2 100.0 0 3 3 3 0 0 5 3 -2
+p476
+aVP.J. Brown CHH 01/07/2002 CHH vs. DEN W 38 5 2 6 33.3 0 0 - 1 2 50.0 7 15 22 2 0 3 0 2 19
+p477
+aVKirk Haston CHH 01/07/2002 CHH vs. DEN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p478
+aVBryce Drew CHH 01/07/2002 CHH vs. DEN W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 1
+p479
+aVRobert Traylor CHH 01/07/2002 CHH vs. DEN W 7 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -4
+p480
+aVJerome Moiso CHH 01/07/2002 CHH vs. DEN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p481
+aVDavid Wesley CHH 01/07/2002 CHH vs. DEN W 42 15 6 16 37.5 1 4 25.0 2 2 100.0 1 0 1 2 2 0 4 2 6
+p482
+aVStacey Augmon CHH 01/07/2002 CHH vs. DEN W 16 6 3 6 50.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 0 11
+p483
+aVJamaal Magloire CHH 01/07/2002 CHH vs. DEN W 15 8 3 5 60.0 0 0 - 2 4 50.0 0 0 0 1 0 1 1 3 -5
+p484
+aVBaron Davis CHH 01/07/2002 CHH vs. DEN W 41 13 5 13 38.5 1 4 25.0 2 3 66.7 2 4 6 7 0 1 4 4 21
+p485
+aVLee Nailon CHH 01/07/2002 CHH vs. DEN W 34 16 6 15 40.0 0 0 - 4 4 100.0 3 5 8 0 0 1 1 4 5
+p486
+aVElden Campbell CHH 01/07/2002 CHH vs. DEN W 32 21 7 12 58.3 0 0 - 7 9 77.8 6 12 18 4 2 4 3 2 22
+p487
+aVJamaal Magloire CHH 01/05/2002 CHH vs. NJN L 14 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -13
+p488
+aVBryce Drew CHH 01/05/2002 CHH vs. NJN L 20 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 3 0 0 0 2 -4
+p489
+aVMatt Bullard CHH 01/05/2002 CHH vs. NJN L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 4
+p490
+aVDavid Wesley CHH 01/05/2002 CHH vs. NJN L 45 5 2 11 18.2 0 2 0.0 1 2 50.0 2 1 3 1 0 0 2 2 -16
+p491
+aVStacey Augmon CHH 01/05/2002 CHH vs. NJN L 37 7 2 7 28.6 0 0 - 3 4 75.0 1 6 7 2 1 3 1 3 -2
+p492
+aVLee Nailon CHH 01/05/2002 CHH vs. NJN L 11 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -7
+p493
+aVElden Campbell CHH 01/05/2002 CHH vs. NJN L 36 26 7 12 58.3 0 0 - 12 13 92.3 4 9 13 1 2 0 3 6 6
+p494
+aVBaron Davis CHH 01/05/2002 CHH vs. NJN L 40 22 7 19 36.8 4 10 40.0 4 5 80.0 2 4 6 7 0 0 4 5 5
+p495
+aVRobert Traylor CHH 01/05/2002 CHH vs. NJN L 30 12 5 10 50.0 0 0 - 2 4 50.0 4 6 10 2 0 1 1 1 -18
+p496
+aVDavid Wesley CHH 01/03/2002 CHH vs. GSW W 31 18 6 8 75.0 0 1 0.0 6 10 60.0 0 1 1 4 3 0 2 3 3
+p497
+aVLee Nailon CHH 01/03/2002 CHH vs. GSW W 32 12 5 13 38.5 0 0 - 2 2 100.0 0 1 1 3 0 0 0 5 -4
+p498
+aVJamaal Magloire CHH 01/03/2002 CHH vs. GSW W 26 10 5 8 62.5 0 0 - 0 0 - 2 8 10 1 0 1 4 1 27
+p499
+aVBaron Davis CHH 01/03/2002 CHH vs. GSW W 45 28 9 16 56.3 3 7 42.9 7 9 77.8 0 10 10 11 1 1 5 1 8
+p500
+aVRobert Traylor CHH 01/03/2002 CHH vs. GSW W 26 15 7 10 70.0 0 0 - 1 2 50.0 0 3 3 2 1 6 1 6 -7
+p501
+aVKirk Haston CHH 01/03/2002 CHH vs. GSW W 11 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 12
+p502
+aVBryce Drew CHH 01/03/2002 CHH vs. GSW W 18 12 3 7 42.9 2 4 50.0 4 4 100.0 1 0 1 4 0 0 0 0 13
+p503
+aVP.J. Brown CHH 01/03/2002 CHH vs. GSW W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p504
+aVStacey Augmon CHH 01/03/2002 CHH vs. GSW W 30 12 5 10 50.0 0 0 - 2 2 100.0 2 6 8 4 0 0 0 4 17
+p505
+aVElden Campbell CHH 01/03/2002 CHH vs. GSW W 13 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 1 1 2 6 -12
+p506
+aVMatt Bullard CHH 12/29/2001 CHH @ WAS L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p507
+aVLee Nailon CHH 12/29/2001 CHH @ WAS L 27 11 4 11 36.4 0 0 - 3 3 100.0 1 2 3 1 0 0 0 4 -8
+p508
+aVKirk Haston CHH 12/29/2001 CHH @ WAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p509
+aVP.J. Brown CHH 12/29/2001 CHH @ WAS L 35 17 5 8 62.5 0 0 - 7 7 100.0 6 2 8 1 1 1 1 1 -14
+p510
+aVElden Campbell CHH 12/29/2001 CHH @ WAS L 30 16 6 16 37.5 0 0 - 4 4 100.0 1 2 3 2 1 1 3 5 -21
+p511
+aVBaron Davis CHH 12/29/2001 CHH @ WAS L 42 14 6 21 28.6 2 8 25.0 0 4 0.0 0 4 4 7 1 0 2 1 -19
+p512
+aVJerome Moiso CHH 12/29/2001 CHH @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p513
+aVStacey Augmon CHH 12/29/2001 CHH @ WAS L 18 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -12
+p514
+aVDavid Wesley CHH 12/29/2001 CHH @ WAS L 33 2 1 11 9.1 0 1 0.0 0 0 - 0 3 3 2 0 0 1 1 -26
+p515
+aVRobert Traylor CHH 12/29/2001 CHH @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p516
+aVBryce Drew CHH 12/29/2001 CHH @ WAS L 19 2 1 3 33.3 0 0 - 0 0 - 0 3 3 6 1 0 2 0 9
+p517
+aVJamaal Magloire CHH 12/29/2001 CHH @ WAS L 20 22 6 8 75.0 0 0 - 10 13 76.9 3 4 7 0 0 1 0 3 -1
+p518
+aVP.J. Brown CHH 12/28/2001 CHH vs. MIL L 34 6 2 5 40.0 0 0 - 2 2 100.0 1 6 7 1 2 3 2 2 -8
+p519
+aVLee Nailon CHH 12/28/2001 CHH vs. MIL L 39 24 11 22 50.0 0 0 - 2 3 66.7 5 4 9 1 0 0 2 1 -7
+p520
+aVDavid Wesley CHH 12/28/2001 CHH vs. MIL L 39 21 9 19 47.4 0 3 0.0 3 3 100.0 0 1 1 6 1 0 1 1 -9
+p521
+aVElden Campbell CHH 12/28/2001 CHH vs. MIL L 29 16 7 14 50.0 0 0 - 2 3 66.7 2 5 7 3 2 0 0 2 -10
+p522
+aVRobert Traylor CHH 12/28/2001 CHH vs. MIL L 14 3 0 6 0.0 0 0 - 3 4 75.0 1 4 5 2 0 0 1 2 -8
+p523
+aVMatt Bullard CHH 12/28/2001 CHH vs. MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -9
+p524
+aVBaron Davis CHH 12/28/2001 CHH vs. MIL L 24 7 2 11 18.2 1 6 16.7 2 4 50.0 3 2 5 8 2 0 0 0 -10
+p525
+aVStacey Augmon CHH 12/28/2001 CHH vs. MIL L 21 2 1 7 14.3 0 0 - 0 0 - 2 2 4 3 1 0 1 1 -9
+p526
+aVJamaal Magloire CHH 12/28/2001 CHH vs. MIL L 19 5 1 3 33.3 0 0 - 3 4 75.0 1 8 9 1 2 1 2 1 -6
+p527
+aVBryce Drew CHH 12/28/2001 CHH vs. MIL L 17 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 2 -4
+p528
+aVLee Nailon CHH 12/26/2001 CHH vs. WAS W 27 12 6 7 85.7 0 0 - 0 1 0.0 1 4 5 3 2 0 6 5 -1
+p529
+aVP.J. Brown CHH 12/26/2001 CHH vs. WAS W 28 11 5 6 83.3 0 0 - 1 3 33.3 1 5 6 1 0 1 0 3 10
+p530
+aVRobert Traylor CHH 12/26/2001 CHH vs. WAS W 17 9 4 7 57.1 0 0 - 1 2 50.0 0 4 4 0 1 0 0 1 2
+p531
+aVElden Campbell CHH 12/26/2001 CHH vs. WAS W 35 17 7 8 87.5 0 0 - 3 4 75.0 1 12 13 2 0 1 2 4 -2
+p532
+aVBaron Davis CHH 12/26/2001 CHH vs. WAS W 38 15 6 16 37.5 1 3 33.3 2 4 50.0 1 4 5 15 1 0 5 1 7
+p533
+aVDavid Wesley CHH 12/26/2001 CHH vs. WAS W 44 11 5 13 38.5 1 3 33.3 0 0 - 0 1 1 5 1 0 3 3 2
+p534
+aVJamaal Magloire CHH 12/26/2001 CHH vs. WAS W 13 5 1 3 33.3 0 0 - 3 4 75.0 3 1 4 0 0 0 0 1 8
+p535
+aVBryce Drew CHH 12/26/2001 CHH vs. WAS W 14 9 3 3 100.0 1 1 100.0 2 2 100.0 0 2 2 2 0 0 1 0 0
+p536
+aVStacey Augmon CHH 12/26/2001 CHH vs. WAS W 24 10 3 4 75.0 0 0 - 4 4 100.0 1 3 4 1 0 0 0 2 4
+p537
+aVKirk Haston CHH 12/22/2001 CHH @ ATL L 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p538
+aVBaron Davis CHH 12/22/2001 CHH @ ATL L 41 19 7 17 41.2 3 8 37.5 2 2 100.0 2 1 3 12 0 0 3 2 -7
+p539
+aVP.J. Brown CHH 12/22/2001 CHH @ ATL L 24 0 0 2 0.0 0 0 - 0 0 - 3 3 6 0 0 2 0 2 -5
+p540
+aVRobert Traylor CHH 12/22/2001 CHH @ ATL L 15 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 0 2 0 1 1 -7
+p541
+aVDavid Wesley CHH 12/22/2001 CHH @ ATL L 43 26 11 23 47.8 2 6 33.3 2 4 50.0 1 1 2 6 2 0 2 2 -10
+p542
+aVElden Campbell CHH 12/22/2001 CHH @ ATL L 38 17 8 17 47.1 0 0 - 1 1 100.0 1 7 8 1 1 1 2 3 -14
+p543
+aVJerome Moiso CHH 12/22/2001 CHH @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 2 3 5 1 0 0 0 0 2
+p544
+aVJamaal Magloire CHH 12/22/2001 CHH @ ATL L 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 5 1
+p545
+aVLee Nailon CHH 12/22/2001 CHH @ ATL L 30 8 4 10 40.0 0 0 - 0 0 - 3 1 4 0 1 0 2 3 -3
+p546
+aVBryce Drew CHH 12/22/2001 CHH @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -6
+p547
+aVMatt Bullard CHH 12/22/2001 CHH @ ATL L 17 9 3 7 42.9 2 5 40.0 1 1 100.0 0 0 0 1 0 0 0 2 -14
+p548
+aVStacey Augmon CHH 12/22/2001 CHH @ ATL L 10 4 2 4 50.0 0 0 - 0 1 0.0 0 5 5 0 0 0 0 1 -4
+p549
+aVLee Nailon CHH 12/21/2001 CHH @ MIN L 32 14 7 10 70.0 0 0 - 0 0 - 3 1 4 2 0 0 2 4 1
+p550
+aVRobert Traylor CHH 12/21/2001 CHH @ MIN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p551
+aVBryce Drew CHH 12/21/2001 CHH @ MIN L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p552
+aVDavid Wesley CHH 12/21/2001 CHH @ MIN L 39 16 7 22 31.8 0 4 0.0 2 2 100.0 1 3 4 9 0 0 2 0 -8
+p553
+aVElden Campbell CHH 12/21/2001 CHH @ MIN L 31 13 4 11 36.4 0 0 - 5 5 100.0 0 9 9 0 1 2 0 4 2
+p554
+aVP.J. Brown CHH 12/21/2001 CHH @ MIN L 38 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 2 0 0 1 3 3
+p555
+aVJamaal Magloire CHH 12/21/2001 CHH @ MIN L 16 5 2 3 66.7 0 0 - 1 3 33.3 0 3 3 2 0 0 1 2 -3
+p556
+aVStacey Augmon CHH 12/21/2001 CHH @ MIN L 18 4 2 4 50.0 0 0 - 0 0 - 2 6 8 1 2 0 0 1 -1
+p557
+aVBaron Davis CHH 12/21/2001 CHH @ MIN L 41 25 10 20 50.0 3 7 42.9 2 2 100.0 0 2 2 7 1 4 4 4 1
+p558
+aVMatt Bullard CHH 12/21/2001 CHH @ MIN L 12 4 2 5 40.0 0 3 0.0 0 0 - 1 1 2 0 0 0 0 0 -7
+p559
+aVMatt Bullard CHH 12/19/2001 CHH @ PHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p560
+aVJamaal Magloire CHH 12/19/2001 CHH @ PHI W 11 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 2 5
+p561
+aVP.J. Brown CHH 12/19/2001 CHH @ PHI W 41 15 5 10 50.0 0 0 - 5 6 83.3 6 7 13 3 1 0 0 1 14
+p562
+aVRobert Traylor CHH 12/19/2001 CHH @ PHI W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 2 -3
+p563
+aVDavid Wesley CHH 12/19/2001 CHH @ PHI W 39 12 5 16 31.3 1 2 50.0 1 1 100.0 0 1 1 6 0 1 4 4 13
+p564
+aVElden Campbell CHH 12/19/2001 CHH @ PHI W 37 12 4 10 40.0 0 0 - 4 4 100.0 2 8 10 2 0 5 3 3 2
+p565
+aVBryce Drew CHH 12/19/2001 CHH @ PHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p566
+aVBaron Davis CHH 12/19/2001 CHH @ PHI W 44 19 9 18 50.0 1 2 50.0 0 0 - 0 3 3 7 3 3 5 5 7
+p567
+aVStacey Augmon CHH 12/19/2001 CHH @ PHI W 16 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 0 0 0 0 4 -2
+p568
+aVLee Nailon CHH 12/19/2001 CHH @ PHI W 43 27 12 19 63.2 0 0 - 3 5 60.0 2 7 9 0 4 0 0 3 13
+p569
+aVMatt Bullard CHH 12/18/2001 CHH vs. NYK L 13 5 1 6 16.7 0 4 0.0 3 3 100.0 0 1 1 0 1 0 0 1 6
+p570
+aVStacey Augmon CHH 12/18/2001 CHH vs. NYK L 32 16 6 8 75.0 0 0 - 4 4 100.0 1 5 6 1 0 0 0 1 2
+p571
+aVLee Nailon CHH 12/18/2001 CHH vs. NYK L 20 4 1 5 20.0 0 0 - 2 2 100.0 0 5 5 1 0 0 1 2 -5
+p572
+aVJamaal Magloire CHH 12/18/2001 CHH vs. NYK L 20 7 2 5 40.0 0 0 - 3 4 75.0 2 1 3 0 0 0 1 2 -1
+p573
+aVRobert Traylor CHH 12/18/2001 CHH vs. NYK L 16 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 1 0 2 2 -10
+p574
+aVBaron Davis CHH 12/18/2001 CHH vs. NYK L 44 18 7 16 43.8 2 7 28.6 2 3 66.7 0 3 3 8 1 2 3 4 -4
+p575
+aVElden Campbell CHH 12/18/2001 CHH vs. NYK L 28 18 6 12 50.0 0 0 - 6 8 75.0 0 3 3 0 0 3 2 4 -2
+p576
+aVDavid Wesley CHH 12/18/2001 CHH vs. NYK L 44 19 8 14 57.1 1 2 50.0 2 5 40.0 0 1 1 10 2 0 1 3 -7
+p577
+aVBryce Drew CHH 12/18/2001 CHH vs. NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -1
+p578
+aVP.J. Brown CHH 12/18/2001 CHH vs. NYK L 19 4 1 3 33.3 0 0 - 2 2 100.0 1 8 9 0 0 0 0 5 -3
+p579
+aVP.J. Brown CHH 12/15/2001 CHH vs. BOS L 34 7 3 5 60.0 0 0 - 1 2 50.0 1 9 10 1 0 2 2 5 -12
+p580
+aVMatt Bullard CHH 12/15/2001 CHH vs. BOS L 12 5 1 6 16.7 0 5 0.0 3 3 100.0 0 0 0 1 0 0 2 4 -3
+p581
+aVBryce Drew CHH 12/15/2001 CHH vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 5
+p582
+aVJamaal Magloire CHH 12/15/2001 CHH vs. BOS L 14 8 0 2 0.0 0 0 - 8 8 100.0 1 3 4 0 0 0 1 1 6
+p583
+aVRobert Traylor CHH 12/15/2001 CHH vs. BOS L 14 5 1 1 100.0 0 0 - 3 4 75.0 2 4 6 1 0 1 0 3 4
+p584
+aVStacey Augmon CHH 12/15/2001 CHH vs. BOS L 31 9 4 5 80.0 0 0 - 1 2 50.0 1 3 4 3 2 1 0 5 9
+p585
+aVElden Campbell CHH 12/15/2001 CHH vs. BOS L 32 6 1 7 14.3 0 0 - 4 4 100.0 2 4 6 2 1 6 1 2 -12
+p586
+aVDavid Wesley CHH 12/15/2001 CHH vs. BOS L 38 24 9 20 45.0 2 7 28.6 4 5 80.0 0 6 6 3 1 0 2 1 -14
+p587
+aVLee Nailon CHH 12/15/2001 CHH vs. BOS L 28 15 7 14 50.0 0 0 - 1 1 100.0 3 2 5 0 2 1 0 2 -14
+p588
+aVBaron Davis CHH 12/15/2001 CHH vs. BOS L 33 18 7 19 36.8 2 7 28.6 2 6 33.3 0 2 2 7 1 0 4 5 -14
+p589
+aVLee Nailon CHH 12/13/2001 CHH vs. TOR W 30 19 7 10 70.0 0 0 - 5 5 100.0 0 4 4 3 0 0 1 2 5
+p590
+aVMatt Bullard CHH 12/13/2001 CHH vs. TOR W 11 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 0 5
+p591
+aVBaron Davis CHH 12/13/2001 CHH vs. TOR W 42 17 7 16 43.8 3 5 60.0 0 0 - 1 5 6 15 1 0 3 1 14
+p592
+aVStacey Augmon CHH 12/13/2001 CHH vs. TOR W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 2 2 1
+p593
+aVDavid Wesley CHH 12/13/2001 CHH vs. TOR W 38 16 6 14 42.9 4 7 57.1 0 0 - 2 1 3 6 3 0 1 1 17
+p594
+aVP.J. Brown CHH 12/13/2001 CHH vs. TOR W 34 13 5 9 55.6 0 0 - 3 3 100.0 4 5 9 2 0 1 1 5 15
+p595
+aVElden Campbell CHH 12/13/2001 CHH vs. TOR W 32 18 8 12 66.7 0 0 - 2 3 66.7 1 7 8 4 1 2 4 0 20
+p596
+aVJamaal Magloire CHH 12/13/2001 CHH vs. TOR W 16 6 2 6 33.3 0 0 - 2 3 66.7 1 2 3 0 0 0 1 0 -6
+p597
+aVKirk Haston CHH 12/13/2001 CHH vs. TOR W 5 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 0
+p598
+aVRobert Traylor CHH 12/13/2001 CHH vs. TOR W 14 10 4 7 57.1 0 0 - 2 2 100.0 3 3 6 0 1 0 2 4 -1
+p599
+aVBryce Drew CHH 12/13/2001 CHH vs. TOR W 6 3 1 1 100.0 0 0 - 1 1 100.0 2 1 3 1 0 0 1 0 0
+p600
+aVBryce Drew CHH 12/11/2001 CHH @ DEN W 11 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 4 0 0 0 2 9
+p601
+aVStacey Augmon CHH 12/11/2001 CHH @ DEN W 16 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 2 0 1 1 12
+p602
+aVElden Campbell CHH 12/11/2001 CHH @ DEN W 35 16 5 8 62.5 0 0 - 6 6 100.0 0 5 5 2 0 4 1 6 0
+p603
+aVP.J. Brown CHH 12/11/2001 CHH @ DEN W 37 18 8 12 66.7 0 0 - 2 3 66.7 4 7 11 2 1 1 1 1 -4
+p604
+aVDavid Wesley CHH 12/11/2001 CHH @ DEN W 34 11 5 11 45.5 0 0 - 1 2 50.0 0 3 3 2 1 1 0 0 -6
+p605
+aVMatt Bullard CHH 12/11/2001 CHH @ DEN W 24 14 6 9 66.7 2 3 66.7 0 1 0.0 1 2 3 3 0 0 1 0 12
+p606
+aVLee Nailon CHH 12/11/2001 CHH @ DEN W 26 20 8 19 42.1 0 0 - 4 7 57.1 5 1 6 1 1 0 1 3 -9
+p607
+aVJerome Moiso CHH 12/11/2001 CHH @ DEN W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 0 5
+p608
+aVBaron Davis CHH 12/11/2001 CHH @ DEN W 39 9 3 17 17.6 1 4 25.0 2 3 66.7 2 5 7 10 2 1 2 4 -7
+p609
+aVJamaal Magloire CHH 12/11/2001 CHH @ DEN W 13 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 0 1 1 3 3
+p610
+aVLee Nailon CHH 12/09/2001 CHH @ LAC L 31 10 4 13 30.8 0 0 - 2 2 100.0 2 2 4 1 1 1 0 1 -12
+p611
+aVRobert Traylor CHH 12/09/2001 CHH @ LAC L 11 2 0 1 0.0 0 0 - 2 2 100.0 2 4 6 0 0 0 3 4 4
+p612
+aVJamaal Magloire CHH 12/09/2001 CHH @ LAC L 21 2 0 1 0.0 0 0 - 2 4 50.0 1 7 8 2 0 2 0 1 8
+p613
+aVDavid Wesley CHH 12/09/2001 CHH @ LAC L 42 18 6 16 37.5 1 4 25.0 5 6 83.3 0 2 2 3 1 0 3 3 -3
+p614
+aVBaron Davis CHH 12/09/2001 CHH @ LAC L 43 16 6 18 33.3 3 10 30.0 1 6 16.7 1 3 4 10 1 4 3 4 -12
+p615
+aVElden Campbell CHH 12/09/2001 CHH @ LAC L 27 15 5 12 41.7 0 0 - 5 6 83.3 1 6 7 0 1 2 1 5 -19
+p616
+aVBryce Drew CHH 12/09/2001 CHH @ LAC L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p617
+aVStacey Augmon CHH 12/09/2001 CHH @ LAC L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p618
+aVP.J. Brown CHH 12/09/2001 CHH @ LAC L 36 8 3 6 50.0 0 0 - 2 2 100.0 2 6 8 1 0 0 0 3 -11
+p619
+aVJerome Moiso CHH 12/09/2001 CHH @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p620
+aVMatt Bullard CHH 12/09/2001 CHH @ LAC L 13 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 4
+p621
+aVLee Nailon CHH 12/07/2001 CHH @ GSW W 27 6 3 8 37.5 0 0 - 0 0 - 0 5 5 2 1 0 4 5 10
+p622
+aVElden Campbell CHH 12/07/2001 CHH @ GSW W 29 21 9 11 81.8 0 0 - 3 7 42.9 1 5 6 0 1 4 1 3 24
+p623
+aVJamaal Magloire CHH 12/07/2001 CHH @ GSW W 19 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 1 0 3 1 -7
+p624
+aVDavid Wesley CHH 12/07/2001 CHH @ GSW W 38 25 10 17 58.8 2 5 40.0 3 4 75.0 0 1 1 5 1 0 1 2 22
+p625
+aVMatt Bullard CHH 12/07/2001 CHH @ GSW W 16 11 4 5 80.0 3 4 75.0 0 0 - 1 1 2 1 0 0 0 0 5
+p626
+aVBryce Drew CHH 12/07/2001 CHH @ GSW W 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p627
+aVStacey Augmon CHH 12/07/2001 CHH @ GSW W 20 7 3 4 75.0 0 0 - 1 1 100.0 1 1 2 2 1 0 0 3 7
+p628
+aVJerome Moiso CHH 12/07/2001 CHH @ GSW W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p629
+aVKirk Haston CHH 12/07/2001 CHH @ GSW W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p630
+aVBaron Davis CHH 12/07/2001 CHH @ GSW W 40 20 8 21 38.1 2 7 28.6 2 4 50.0 1 4 5 14 1 0 1 4 20
+p631
+aVP.J. Brown CHH 12/07/2001 CHH @ GSW W 24 4 2 4 50.0 0 0 - 0 0 - 5 3 8 4 0 1 0 3 12
+p632
+aVRobert Traylor CHH 12/07/2001 CHH @ GSW W 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 1 0 2 2 0
+p633
+aVElden Campbell CHH 12/06/2001 CHH @ POR W 32 11 5 11 45.5 0 0 - 1 5 20.0 1 3 4 0 1 4 0 5 -4
+p634
+aVBryce Drew CHH 12/06/2001 CHH @ POR W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -3
+p635
+aVP.J. Brown CHH 12/06/2001 CHH @ POR W 39 6 1 5 20.0 0 0 - 4 4 100.0 8 6 14 3 0 0 1 1 14
+p636
+aVStacey Augmon CHH 12/06/2001 CHH @ POR W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -2
+p637
+aVLee Nailon CHH 12/06/2001 CHH @ POR W 36 26 10 20 50.0 0 0 - 6 9 66.7 6 5 11 1 3 0 2 4 1
+p638
+aVBaron Davis CHH 12/06/2001 CHH @ POR W 42 22 8 17 47.1 4 10 40.0 2 4 50.0 0 2 2 12 2 1 4 0 12
+p639
+aVJerome Moiso CHH 12/06/2001 CHH @ POR W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 1 0 1 5
+p640
+aVJamaal Magloire CHH 12/06/2001 CHH @ POR W 14 4 2 3 66.7 0 0 - 0 1 0.0 1 2 3 0 0 0 1 2 6
+p641
+aVRobert Traylor CHH 12/06/2001 CHH @ POR W 11 6 3 5 60.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -4
+p642
+aVDavid Wesley CHH 12/06/2001 CHH @ POR W 40 18 8 17 47.1 0 0 - 2 3 66.7 1 1 2 4 0 0 3 2 5
+p643
+aVBryce Drew CHH 12/04/2001 CHH @ UTA L 18 12 4 5 80.0 4 4 100.0 0 0 - 1 0 1 2 1 0 1 0 -1
+p644
+aVElden Campbell CHH 12/04/2001 CHH @ UTA L 21 8 4 8 50.0 0 0 - 0 0 - 0 2 2 0 2 0 3 4 -6
+p645
+aVRobert Traylor CHH 12/04/2001 CHH @ UTA L 13 1 0 0 - 0 0 - 1 2 50.0 2 3 5 1 0 0 1 3 -2
+p646
+aVDavid Wesley CHH 12/04/2001 CHH @ UTA L 39 17 5 16 31.3 2 4 50.0 5 6 83.3 1 1 2 4 0 1 5 2 0
+p647
+aVP.J. Brown CHH 12/04/2001 CHH @ UTA L 39 8 3 8 37.5 0 0 - 2 3 66.7 5 7 12 2 0 2 1 2 0
+p648
+aVJamaal Magloire CHH 12/04/2001 CHH @ UTA L 23 19 8 9 88.9 0 0 - 3 4 75.0 3 1 4 0 0 1 2 3 0
+p649
+aVJerome Moiso CHH 12/04/2001 CHH @ UTA L 9 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 5 9
+p650
+aVLee Nailon CHH 12/04/2001 CHH @ UTA L 39 14 6 15 40.0 0 0 - 2 2 100.0 2 4 6 3 1 0 1 3 -13
+p651
+aVBaron Davis CHH 12/04/2001 CHH @ UTA L 39 21 8 19 42.1 1 5 20.0 4 7 57.1 2 4 6 11 2 0 1 3 -7
+p652
+aVLee Nailon CHH 12/01/2001 CHH @ CLE L 33 20 10 16 62.5 0 0 - 0 0 - 1 3 4 2 0 1 1 6 -9
+p653
+aVStacey Augmon CHH 12/01/2001 CHH @ CLE L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p654
+aVRobert Traylor CHH 12/01/2001 CHH @ CLE L 6 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 1 1 3 0
+p655
+aVBryce Drew CHH 12/01/2001 CHH @ CLE L 16 2 0 3 0.0 0 1 0.0 2 2 100.0 1 3 4 0 0 0 1 1 -5
+p656
+aVElden Campbell CHH 12/01/2001 CHH @ CLE L 36 18 6 18 33.3 0 0 - 6 7 85.7 3 5 8 1 2 2 3 3 -5
+p657
+aVMatt Bullard CHH 12/01/2001 CHH @ CLE L 10 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 -9
+p658
+aVJamaal Magloire CHH 12/01/2001 CHH @ CLE L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -5
+p659
+aVBaron Davis CHH 12/01/2001 CHH @ CLE L 44 11 2 14 14.3 2 6 33.3 5 6 83.3 2 4 6 9 2 0 2 3 -6
+p660
+aVDavid Wesley CHH 12/01/2001 CHH @ CLE L 42 18 9 20 45.0 0 3 0.0 0 0 - 4 3 7 5 2 1 0 1 -11
+p661
+aVP.J. Brown CHH 12/01/2001 CHH @ CLE L 38 6 3 8 37.5 0 0 - 0 0 - 7 5 12 2 1 1 4 6 -7
+p662
+aVElden Campbell CHH 11/30/2001 CHH vs. DET L 29 17 5 11 45.5 0 0 - 7 8 87.5 3 3 6 3 1 0 2 3 -4
+p663
+aVDavid Wesley CHH 11/30/2001 CHH vs. DET L 39 15 6 16 37.5 1 2 50.0 2 2 100.0 0 1 1 3 2 0 1 4 -15
+p664
+aVJamaal Magloire CHH 11/30/2001 CHH vs. DET L 16 6 3 5 60.0 0 0 - 0 0 - 2 5 7 0 0 0 1 5 2
+p665
+aVRobert Traylor CHH 11/30/2001 CHH vs. DET L 17 10 3 5 60.0 0 0 - 4 4 100.0 3 2 5 0 0 1 0 1 7
+p666
+aVLee Nailon CHH 11/30/2001 CHH vs. DET L 28 17 8 16 50.0 0 0 - 1 1 100.0 2 4 6 0 0 0 0 4 -6
+p667
+aVMatt Bullard CHH 11/30/2001 CHH vs. DET L 20 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -7
+p668
+aVBaron Davis CHH 11/30/2001 CHH vs. DET L 42 23 9 23 39.1 2 8 25.0 3 5 60.0 1 2 3 14 3 1 1 4 5
+p669
+aVStacey Augmon CHH 11/30/2001 CHH vs. DET L 6 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 0 -4
+p670
+aVBryce Drew CHH 11/30/2001 CHH vs. DET L 15 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 1 0 0 1 2 2
+p671
+aVP.J. Brown CHH 11/30/2001 CHH vs. DET L 28 7 3 4 75.0 0 0 - 1 1 100.0 1 3 4 1 0 1 5 5 -5
+p672
+aVBaron Davis CHH 11/28/2001 CHH @ DET W 42 38 15 20 75.0 4 5 80.0 4 6 66.7 0 1 1 4 2 0 8 2 11
+p673
+aVLee Nailon CHH 11/28/2001 CHH @ DET W 22 10 3 3 100.0 0 0 - 4 4 100.0 3 0 3 0 1 0 3 5 4
+p674
+aVP.J. Brown CHH 11/28/2001 CHH @ DET W 38 12 4 11 36.4 0 0 - 4 4 100.0 3 17 20 2 2 1 0 1 13
+p675
+aVJamaal Magloire CHH 11/28/2001 CHH @ DET W 13 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 2 1 1 -1
+p676
+aVRobert Traylor CHH 11/28/2001 CHH @ DET W 12 8 2 3 66.7 0 0 - 4 5 80.0 2 3 5 0 0 1 1 2 0
+p677
+aVDavid Wesley CHH 11/28/2001 CHH @ DET W 36 20 8 18 44.4 1 1 100.0 3 4 75.0 1 1 2 3 1 0 1 3 2
+p678
+aVBryce Drew CHH 11/28/2001 CHH @ DET W 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 1 0 0 0 3
+p679
+aVElden Campbell CHH 11/28/2001 CHH @ DET W 31 9 2 7 28.6 0 0 - 5 6 83.3 2 0 2 3 1 0 2 3 4
+p680
+aVStacey Augmon CHH 11/28/2001 CHH @ DET W 28 3 0 3 0.0 0 0 - 3 4 75.0 2 4 6 0 1 0 2 4 4
+p681
+aVElden Campbell CHH 11/24/2001 CHH @ ORL W 38 23 9 14 64.3 0 0 - 5 6 83.3 4 6 10 3 2 0 4 2 14
+p682
+aVLee Nailon CHH 11/24/2001 CHH @ ORL W 28 12 6 8 75.0 0 0 - 0 0 - 4 3 7 0 1 1 2 0 -7
+p683
+aVBaron Davis CHH 11/24/2001 CHH @ ORL W 46 18 7 24 29.2 2 7 28.6 2 2 100.0 2 0 2 12 4 1 2 3 2
+p684
+aVP.J. Brown CHH 11/24/2001 CHH @ ORL W 20 2 1 7 14.3 0 0 - 0 0 - 3 8 11 2 1 0 1 1 -4
+p685
+aVBryce Drew CHH 11/24/2001 CHH @ ORL W 18 8 3 7 42.9 2 3 66.7 0 0 - 0 3 3 2 1 0 0 1 12
+p686
+aVDavid Wesley CHH 11/24/2001 CHH @ ORL W 29 16 6 15 40.0 1 7 14.3 3 3 100.0 2 2 4 4 2 1 2 0 -12
+p687
+aVMatt Bullard CHH 11/24/2001 CHH @ ORL W 33 19 7 17 41.2 3 8 37.5 2 2 100.0 1 4 5 1 0 0 1 1 6
+p688
+aVStacey Augmon CHH 11/24/2001 CHH @ ORL W 24 5 2 5 40.0 0 0 - 1 1 100.0 2 5 7 1 2 0 2 4 7
+p689
+aVJamaal Magloire CHH 11/24/2001 CHH @ ORL W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 4 -8
+p690
+aVStacey Augmon CHH 11/23/2001 CHH vs. ORL L 22 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 1 1 0 1 0 -8
+p691
+aVMatt Bullard CHH 11/23/2001 CHH vs. ORL L 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -4
+p692
+aVJerome Moiso CHH 11/23/2001 CHH vs. ORL L 6 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 1 3 2 5
+p693
+aVBaron Davis CHH 11/23/2001 CHH vs. ORL L 43 27 11 25 44.0 3 9 33.3 2 3 66.7 0 3 3 10 5 1 5 3 -10
+p694
+aVJamaal Magloire CHH 11/23/2001 CHH vs. ORL L 19 13 4 6 66.7 0 0 - 5 8 62.5 3 2 5 0 0 0 0 1 -6
+p695
+aVDavid Wesley CHH 11/23/2001 CHH vs. ORL L 39 14 5 17 29.4 1 7 14.3 3 3 100.0 0 1 1 5 4 0 2 2 -15
+p696
+aVLee Nailon CHH 11/23/2001 CHH vs. ORL L 30 10 5 12 41.7 0 0 - 0 0 - 0 4 4 2 2 0 1 3 -2
+p697
+aVElden Campbell CHH 11/23/2001 CHH vs. ORL L 29 23 10 12 83.3 0 0 - 3 4 75.0 2 4 6 2 0 0 3 3 -4
+p698
+aVBryce Drew CHH 11/23/2001 CHH vs. ORL L 10 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 1 1 0 0 1 5
+p699
+aVP.J. Brown CHH 11/23/2001 CHH vs. ORL L 27 4 2 4 50.0 0 0 - 0 0 - 6 5 11 3 0 0 0 3 -11
+p700
+aVBryce Drew CHH 11/21/2001 CHH vs. DAL L 21 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 3 0 0 0 0 -14
+p701
+aVBaron Davis CHH 11/21/2001 CHH vs. DAL L 33 13 5 15 33.3 1 2 50.0 2 4 50.0 2 3 5 6 2 0 4 4 -10
+p702
+aVP.J. Brown CHH 11/21/2001 CHH vs. DAL L 33 9 3 4 75.0 0 0 - 3 3 100.0 2 9 11 2 2 3 3 2 5
+p703
+aVLee Nailon CHH 11/21/2001 CHH vs. DAL L 44 18 8 19 42.1 0 0 - 2 3 66.7 1 8 9 0 0 0 3 2 -6
+p704
+aVJerome Moiso CHH 11/21/2001 CHH vs. DAL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -5
+p705
+aVMatt Bullard CHH 11/21/2001 CHH vs. DAL L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -9
+p706
+aVElden Campbell CHH 11/21/2001 CHH vs. DAL L 31 19 3 9 33.3 0 0 - 13 14 92.9 3 5 8 3 0 0 3 3 -1
+p707
+aVStacey Augmon CHH 11/21/2001 CHH vs. DAL L 42 10 5 10 50.0 0 0 - 0 0 - 2 5 7 4 1 0 3 1 2
+p708
+aVJamaal Magloire CHH 11/21/2001 CHH vs. DAL L 15 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 2 3 -10
+p709
+aVRobert Traylor CHH 11/21/2001 CHH vs. DAL L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -7
+p710
+aVMatt Bullard CHH 11/20/2001 CHH @ WAS W 15 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 0 0 0 0 0 -4
+p711
+aVElden Campbell CHH 11/20/2001 CHH @ WAS W 33 15 4 13 30.8 0 0 - 7 8 87.5 3 5 8 3 0 3 2 5 5
+p712
+aVBaron Davis CHH 11/20/2001 CHH @ WAS W 42 32 12 23 52.2 2 5 40.0 6 12 50.0 5 2 7 5 1 2 2 1 6
+p713
+aVJamaal Magloire CHH 11/20/2001 CHH @ WAS W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 3 2
+p714
+aVJerome Moiso CHH 11/20/2001 CHH @ WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p715
+aVBryce Drew CHH 11/20/2001 CHH @ WAS W 22 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 1 4 0 0 0 -1
+p716
+aVLee Nailon CHH 11/20/2001 CHH @ WAS W 39 18 7 15 46.7 0 0 - 4 4 100.0 3 2 5 3 2 0 3 1 13
+p717
+aVP.J. Brown CHH 11/20/2001 CHH @ WAS W 33 8 3 8 37.5 0 0 - 2 2 100.0 3 8 11 1 1 0 0 1 9
+p718
+aVRobert Traylor CHH 11/20/2001 CHH @ WAS W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p719
+aVStacey Augmon CHH 11/20/2001 CHH @ WAS W 35 12 3 10 30.0 0 0 - 6 6 100.0 4 0 4 0 1 0 0 4 11
+p720
+aVStacey Augmon CHH 11/17/2001 CHH vs. POR L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -7
+p721
+aVElden Campbell CHH 11/17/2001 CHH vs. POR L 35 10 5 12 41.7 0 0 - 0 0 - 3 3 6 1 1 3 2 4 -2
+p722
+aVRobert Traylor CHH 11/17/2001 CHH vs. POR L 11 7 3 4 75.0 0 0 - 1 3 33.3 3 1 4 3 0 1 0 1 -10
+p723
+aVJamaal Magloire CHH 11/17/2001 CHH vs. POR L 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 2 0 5
+p724
+aVBaron Davis CHH 11/17/2001 CHH vs. POR L 42 18 6 9 66.7 3 4 75.0 3 8 37.5 0 2 2 8 4 0 2 4 -10
+p725
+aVLee Nailon CHH 11/17/2001 CHH vs. POR L 8 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -13
+p726
+aVP.J. Brown CHH 11/17/2001 CHH vs. POR L 35 7 2 5 40.0 0 0 - 3 4 75.0 4 4 8 1 0 0 4 0 -6
+p727
+aVDavid Wesley CHH 11/17/2001 CHH vs. POR L 37 19 8 13 61.5 1 1 100.0 2 3 66.7 0 2 2 2 1 0 2 4 2
+p728
+aVMatt Bullard CHH 11/17/2001 CHH vs. POR L 9 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 1 0 0 1 1 -3
+p729
+aVJamal Mashburn CHH 11/17/2001 CHH vs. POR L 41 15 5 17 29.4 0 2 0.0 5 5 100.0 1 4 5 5 1 1 3 5 2
+p730
+aVBryce Drew CHH 11/17/2001 CHH vs. POR L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 2
+p731
+aVJamal Mashburn CHH 11/16/2001 CHH @ MIA W 38 12 5 15 33.3 0 0 - 2 3 66.7 0 5 5 1 2 0 3 1 14
+p732
+aVMatt Bullard CHH 11/16/2001 CHH @ MIA W 11 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 1 0 0 2 8
+p733
+aVElden Campbell CHH 11/16/2001 CHH @ MIA W 32 18 9 14 64.3 0 0 - 0 1 0.0 1 9 10 1 0 2 0 4 14
+p734
+aVBaron Davis CHH 11/16/2001 CHH @ MIA W 41 23 9 13 69.2 2 4 50.0 3 4 75.0 3 3 6 4 1 0 1 2 7
+p735
+aVRobert Traylor CHH 11/16/2001 CHH @ MIA W 11 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p736
+aVJamaal Magloire CHH 11/16/2001 CHH @ MIA W 14 4 1 6 16.7 0 0 - 2 2 100.0 2 6 8 0 0 1 0 4 -3
+p737
+aVBryce Drew CHH 11/16/2001 CHH @ MIA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -1
+p738
+aVP.J. Brown CHH 11/16/2001 CHH @ MIA W 30 6 2 7 28.6 0 0 - 2 2 100.0 1 2 3 2 1 0 1 5 8
+p739
+aVLee Nailon CHH 11/16/2001 CHH @ MIA W 14 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 0 0 0 2 1 -8
+p740
+aVDavid Wesley CHH 11/16/2001 CHH @ MIA W 44 21 7 16 43.8 1 4 25.0 6 6 100.0 0 3 3 3 0 0 1 3 12
+p741
+aVP.J. Brown CHH 11/14/2001 CHH @ PHI L 36 4 2 10 20.0 0 0 - 0 0 - 4 8 12 2 1 0 2 4 -10
+p742
+aVJamaal Magloire CHH 11/14/2001 CHH @ PHI L 20 10 3 6 50.0 0 0 - 4 6 66.7 1 4 5 1 1 1 0 4 2
+p743
+aVElden Campbell CHH 11/14/2001 CHH @ PHI L 23 6 3 10 30.0 0 0 - 0 0 - 2 5 7 1 2 0 1 4 -13
+p744
+aVJamal Mashburn CHH 11/14/2001 CHH @ PHI L 39 21 7 15 46.7 0 1 0.0 7 7 100.0 2 6 8 2 0 0 7 4 -12
+p745
+aVLee Nailon CHH 11/14/2001 CHH @ PHI L 14 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 3 -5
+p746
+aVBaron Davis CHH 11/14/2001 CHH @ PHI L 41 20 7 10 70.0 2 3 66.7 4 6 66.7 1 2 3 4 4 1 5 3 -10
+p747
+aVBryce Drew CHH 11/14/2001 CHH @ PHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p748
+aVDavid Wesley CHH 11/14/2001 CHH @ PHI L 33 10 3 10 30.0 0 4 0.0 4 5 80.0 1 1 2 3 0 0 2 5 -11
+p749
+aVRobert Traylor CHH 11/14/2001 CHH @ PHI L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 1 1 -4
+p750
+aVStacey Augmon CHH 11/14/2001 CHH @ PHI L 15 7 2 4 50.0 0 0 - 3 4 75.0 0 0 0 0 2 0 0 1 -3
+p751
+aVDavid Wesley CHH 11/10/2001 CHH @ CHI W 43 13 5 14 35.7 1 5 20.0 2 4 50.0 0 1 1 7 0 0 2 1 5
+p752
+aVJamal Mashburn CHH 11/10/2001 CHH @ CHI W 46 26 9 21 42.9 1 6 16.7 7 8 87.5 1 8 9 5 0 1 3 2 6
+p753
+aVP.J. Brown CHH 11/10/2001 CHH @ CHI W 24 8 3 4 75.0 0 0 - 2 2 100.0 0 5 5 1 0 3 1 3 7
+p754
+aVBryce Drew CHH 11/10/2001 CHH @ CHI W 12 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 2 1
+p755
+aVBaron Davis CHH 11/10/2001 CHH @ CHI W 42 21 8 15 53.3 3 6 50.0 2 6 33.3 0 5 5 7 0 0 4 3 2
+p756
+aVJamaal Magloire CHH 11/10/2001 CHH @ CHI W 9 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 1 0 4 -8
+p757
+aVRobert Traylor CHH 11/10/2001 CHH @ CHI W 13 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 1 1 4 2
+p758
+aVElden Campbell CHH 11/10/2001 CHH @ CHI W 33 17 6 12 50.0 0 0 - 5 10 50.0 5 9 14 2 2 2 1 5 12
+p759
+aVMatt Bullard CHH 11/10/2001 CHH @ CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p760
+aVLee Nailon CHH 11/10/2001 CHH @ CHI W 14 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 0 0 1 0 2 -2
+p761
+aVBryce Drew CHH 11/08/2001 CHH vs. SAS L 9 6 2 4 50.0 1 2 50.0 1 2 50.0 0 1 1 0 1 0 0 0 5
+p762
+aVRobert Traylor CHH 11/08/2001 CHH vs. SAS L 13 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 2 0 1 1 2 20
+p763
+aVP.J. Brown CHH 11/08/2001 CHH vs. SAS L 35 10 4 8 50.0 0 0 - 2 2 100.0 1 6 7 0 0 2 2 3 -14
+p764
+aVBaron Davis CHH 11/08/2001 CHH vs. SAS L 39 18 8 16 50.0 2 4 50.0 0 0 - 2 2 4 2 0 0 0 1 -15
+p765
+aVDavid Wesley CHH 11/08/2001 CHH vs. SAS L 39 8 3 11 27.3 1 1 100.0 1 1 100.0 0 1 1 5 2 0 1 1 -24
+p766
+aVElden Campbell CHH 11/08/2001 CHH vs. SAS L 23 4 1 8 12.5 0 0 - 2 4 50.0 0 9 9 2 0 1 2 4 -16
+p767
+aVJamal Mashburn CHH 11/08/2001 CHH vs. SAS L 44 21 7 20 35.0 0 1 0.0 7 8 87.5 0 5 5 8 1 0 1 3 -12
+p768
+aVJamaal Magloire CHH 11/08/2001 CHH vs. SAS L 20 12 4 5 80.0 0 0 - 4 4 100.0 3 2 5 0 0 1 0 4 -1
+p769
+aVLee Nailon CHH 11/08/2001 CHH vs. SAS L 19 8 3 5 60.0 0 0 - 2 2 100.0 2 2 4 1 0 1 0 2 7
+p770
+aVBaron Davis CHH 11/06/2001 CHH @ DAL L 36 14 6 11 54.5 1 3 33.3 1 3 33.3 0 2 2 2 3 0 4 4 -24
+p771
+aVJamal Mashburn CHH 11/06/2001 CHH @ DAL L 41 14 5 13 38.5 2 4 50.0 2 2 100.0 0 10 10 3 0 0 2 3 -15
+p772
+aVRobert Traylor CHH 11/06/2001 CHH @ DAL L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 2 5
+p773
+aVStacey Augmon CHH 11/06/2001 CHH @ DAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p774
+aVDavid Wesley CHH 11/06/2001 CHH @ DAL L 33 16 6 9 66.7 3 3 100.0 1 2 50.0 1 1 2 1 1 0 1 4 -20
+p775
+aVMatt Bullard CHH 11/06/2001 CHH @ DAL L 11 0 0 5 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -2
+p776
+aVElden Campbell CHH 11/06/2001 CHH @ DAL L 35 17 8 17 47.1 0 0 - 1 2 50.0 4 6 10 2 0 2 3 4 -17
+p777
+aVLee Nailon CHH 11/06/2001 CHH @ DAL L 20 12 6 10 60.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 2
+p778
+aVP.J. Brown CHH 11/06/2001 CHH @ DAL L 26 8 2 10 20.0 0 0 - 4 4 100.0 3 5 8 0 2 0 3 3 -25
+p779
+aVBryce Drew CHH 11/06/2001 CHH @ DAL L 17 6 2 4 50.0 1 2 50.0 1 1 100.0 0 1 1 5 0 0 1 0 12
+p780
+aVJamaal Magloire CHH 11/06/2001 CHH @ DAL L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p781
+aVBaron Davis CHH 11/03/2001 CHH @ NJN L 38 13 6 15 40.0 1 4 25.0 0 0 - 0 1 1 6 1 0 4 2 -4
+p782
+aVJamaal Magloire CHH 11/03/2001 CHH @ NJN L 9 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 1 0 0 -2
+p783
+aVDavid Wesley CHH 11/03/2001 CHH @ NJN L 42 16 7 15 46.7 2 5 40.0 0 0 - 0 5 5 4 0 0 3 1 -8
+p784
+aVBryce Drew CHH 11/03/2001 CHH @ NJN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 3 -8
+p785
+aVLee Nailon CHH 11/03/2001 CHH @ NJN L 14 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 2
+p786
+aVJamal Mashburn CHH 11/03/2001 CHH @ NJN L 34 14 6 17 35.3 1 5 20.0 1 2 50.0 0 5 5 1 2 0 5 3 -12
+p787
+aVRobert Traylor CHH 11/03/2001 CHH @ NJN L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -2
+p788
+aVMatt Bullard CHH 11/03/2001 CHH @ NJN L 12 0 0 4 0.0 0 3 0.0 0 0 - 1 2 3 1 0 0 0 2 6
+p789
+aVP.J. Brown CHH 11/03/2001 CHH @ NJN L 31 8 2 6 33.3 0 0 - 4 5 80.0 2 7 9 1 1 1 1 3 -14
+p790
+aVElden Campbell CHH 11/03/2001 CHH @ NJN L 39 26 8 15 53.3 0 0 - 10 10 100.0 1 9 10 0 2 7 3 2 -8
+p791
+aVStacey Augmon CHH 11/03/2001 CHH @ NJN L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 1 1 0
+p792
+aVRobert Traylor CHH 11/02/2001 CHH vs. NYK W 20 7 2 3 66.7 0 0 - 3 4 75.0 1 2 3 1 2 1 2 4 -2
+p793
+aVJamal Mashburn CHH 11/02/2001 CHH vs. NYK W 42 17 4 16 25.0 2 3 66.7 7 8 87.5 1 5 6 7 0 0 5 2 6
+p794
+aVStacey Augmon CHH 11/02/2001 CHH vs. NYK W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p795
+aVMatt Bullard CHH 11/02/2001 CHH vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p796
+aVEldridge Recasner CHH 11/02/2001 CHH vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p797
+aVLee Nailon CHH 11/02/2001 CHH vs. NYK W 12 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 0 1 0 2 0 -1
+p798
+aVP.J. Brown CHH 11/02/2001 CHH vs. NYK W 35 12 4 8 50.0 0 0 - 4 4 100.0 6 10 16 1 0 0 0 4 6
+p799
+aVJamaal Magloire CHH 11/02/2001 CHH vs. NYK W 15 8 2 2 100.0 0 0 - 4 4 100.0 1 2 3 0 0 2 1 5 -2
+p800
+aVDavid Wesley CHH 11/02/2001 CHH vs. NYK W 41 17 7 14 50.0 2 4 50.0 1 2 50.0 0 0 0 4 2 2 1 0 13
+p801
+aVBaron Davis CHH 11/02/2001 CHH vs. NYK W 43 18 7 15 46.7 1 4 25.0 3 3 100.0 0 6 6 9 2 0 2 3 4
+p802
+aVElden Campbell CHH 11/02/2001 CHH vs. NYK W 18 11 3 5 60.0 0 0 - 5 6 83.3 0 4 4 0 0 2 1 5 13
+p803
+aVDavid Wesley CHH 10/31/2001 CHH vs. CLE W 40 18 4 10 40.0 3 5 60.0 7 9 77.8 0 1 1 1 2 0 2 4 15
+p804
+aVMatt Bullard CHH 10/31/2001 CHH vs. CLE W 18 5 2 5 40.0 1 2 50.0 0 0 - 0 6 6 2 0 0 0 3 8
+p805
+aVP.J. Brown CHH 10/31/2001 CHH vs. CLE W 36 8 2 5 40.0 0 0 - 4 6 66.7 0 7 7 1 0 1 0 3 9
+p806
+aVBaron Davis CHH 10/31/2001 CHH vs. CLE W 45 33 11 20 55.0 3 7 42.9 8 12 66.7 2 0 2 9 1 0 0 3 8
+p807
+aVStacey Augmon CHH 10/31/2001 CHH vs. CLE W 8 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -9
+p808
+aVRobert Traylor CHH 10/31/2001 CHH vs. CLE W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -9
+p809
+aVLee Nailon CHH 10/31/2001 CHH vs. CLE W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 1 1 0 2
+p810
+aVJamal Mashburn CHH 10/31/2001 CHH vs. CLE W 39 22 8 15 53.3 1 2 50.0 5 6 83.3 1 7 8 3 1 0 4 1 8
+p811
+aVBryce Drew CHH 10/31/2001 CHH vs. CLE W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p812
+aVElden Campbell CHH 10/31/2001 CHH vs. CLE W 37 10 4 10 40.0 0 0 - 2 2 100.0 4 8 12 0 0 2 3 4 2
+p813
+aVJamaal Magloire CHH 10/31/2001 CHH vs. CLE W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 0 -2
+p814
+a.

@@ -1,0 +1,134 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKevin Garnett MIN 05/01/2003 MIN @ LAL L 44 18 9 21 42.9 0 1 0.0 0 2 0.0 2 10 12 5 3 1 3 3 -16
+p2
+aVTroy Hudson MIN 05/01/2003 MIN @ LAL L 40 18 7 17 41.2 2 7 28.6 2 2 100.0 0 1 1 4 2 0 1 1 -12
+p3
+aVMarc Jackson MIN 05/01/2003 MIN @ LAL L 17 4 1 5 20.0 0 0 - 2 3 66.7 1 3 4 1 0 0 2 3 9
+p4
+aVJoe Smith MIN 05/01/2003 MIN @ LAL L 12 8 1 3 33.3 0 0 - 6 6 100.0 0 3 3 0 0 0 2 4 -2
+p5
+aVRod Strickland MIN 05/01/2003 MIN @ LAL L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p6
+aVAnthony Peeler MIN 05/01/2003 MIN @ LAL L 15 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 1 0 0 1 1 -21
+p7
+aVWally Szczerbiak MIN 05/01/2003 MIN @ LAL L 41 14 4 8 50.0 0 0 - 6 7 85.7 3 3 6 5 2 0 1 3 -24
+p8
+aVKendall Gill MIN 05/01/2003 MIN @ LAL L 30 10 4 9 44.4 0 1 0.0 2 4 50.0 2 2 4 0 0 0 2 4 3
+p9
+aVGary Trent MIN 05/01/2003 MIN @ LAL L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 2
+p10
+aVRasho Nesterovic MIN 05/01/2003 MIN @ LAL L 29 8 4 9 44.4 0 0 - 0 0 - 3 4 7 3 0 0 1 2 -19
+p11
+aVMike Wilks MIN 05/01/2003 MIN @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p12
+aVGary Trent MIN 04/29/2003 MIN vs. LAL L 9 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -10
+p13
+aVRod Strickland MIN 04/29/2003 MIN vs. LAL L 12 0 0 4 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -15
+p14
+aVAnthony Peeler MIN 04/29/2003 MIN vs. LAL L 26 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 3 1 1 1 1 -14
+p15
+aVMike Wilks MIN 04/29/2003 MIN vs. LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p16
+aVTroy Hudson MIN 04/29/2003 MIN vs. LAL L 37 14 5 16 31.3 2 5 40.0 2 3 66.7 0 2 2 7 0 0 3 0 -25
+p17
+aVJoe Smith MIN 04/29/2003 MIN vs. LAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 0
+p18
+aVLoren Woods MIN 04/29/2003 MIN vs. LAL L 1 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p19
+aVWally Szczerbiak MIN 04/29/2003 MIN vs. LAL L 39 9 3 7 42.9 1 1 100.0 2 2 100.0 0 5 5 2 1 0 4 2 -29
+p20
+aVKendall Gill MIN 04/29/2003 MIN vs. LAL L 24 10 4 7 57.1 1 1 100.0 1 2 50.0 2 1 3 5 1 0 1 0 -2
+p21
+aVKevin Garnett MIN 04/29/2003 MIN vs. LAL L 43 25 11 23 47.8 1 2 50.0 2 4 50.0 1 15 16 3 0 1 3 3 -22
+p22
+aVRasho Nesterovic MIN 04/29/2003 MIN vs. LAL L 29 13 5 9 55.6 0 0 - 3 4 75.0 2 0 2 0 0 1 1 5 -15
+p23
+aVMarc Jackson MIN 04/29/2003 MIN vs. LAL L 13 9 3 4 75.0 0 0 - 3 4 75.0 2 1 3 3 0 0 2 3 -17
+p24
+aVRasho Nesterovic MIN 04/27/2003 MIN @ LAL L 24 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 1 0 1 5 -2
+p25
+aVJoe Smith MIN 04/27/2003 MIN @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 4 -7
+p26
+aVTroy Hudson MIN 04/27/2003 MIN @ LAL L 37 28 9 18 50.0 5 11 45.5 5 5 100.0 1 3 4 4 1 0 6 0 -8
+p27
+aVAnthony Peeler MIN 04/27/2003 MIN @ LAL L 33 8 3 8 37.5 1 5 20.0 1 2 50.0 1 1 2 3 0 0 1 5 -4
+p28
+aVKendall Gill MIN 04/27/2003 MIN @ LAL L 19 4 1 5 20.0 1 2 50.0 1 2 50.0 0 3 3 0 0 0 1 3 4
+p29
+aVWally Szczerbiak MIN 04/27/2003 MIN @ LAL L 40 15 6 16 37.5 1 6 16.7 2 2 100.0 1 5 6 3 0 0 0 1 -4
+p30
+aVKevin Garnett MIN 04/27/2003 MIN @ LAL L 46 28 10 21 47.6 1 3 33.3 7 9 77.8 2 16 18 5 1 1 4 5 -8
+p31
+aVMarc Jackson MIN 04/27/2003 MIN @ LAL L 20 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 1 1 2 5 4
+p32
+aVGary Trent MIN 04/27/2003 MIN @ LAL L 6 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -1
+p33
+aVRod Strickland MIN 04/27/2003 MIN @ LAL L 11 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 1
+p34
+aVKevin Garnett MIN 04/24/2003 MIN @ LAL W 43 33 15 31 48.4 0 0 - 3 3 100.0 3 11 14 4 2 4 4 6 4
+p35
+aVWally Szczerbiak MIN 04/24/2003 MIN @ LAL W 50 13 5 10 50.0 1 4 25.0 2 2 100.0 1 5 6 1 2 1 5 5 2
+p36
+aVGary Trent MIN 04/24/2003 MIN @ LAL W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -2
+p37
+aVRasho Nesterovic MIN 04/24/2003 MIN @ LAL W 31 6 3 4 75.0 0 0 - 0 0 - 0 6 6 0 0 1 0 6 11
+p38
+aVRod Strickland MIN 04/24/2003 MIN @ LAL W 14 6 3 4 75.0 0 0 - 0 0 - 0 2 2 7 2 1 2 1 4
+p39
+aVMarc Jackson MIN 04/24/2003 MIN @ LAL W 20 12 4 9 44.4 0 1 0.0 4 5 80.0 1 7 8 1 1 0 1 3 -8
+p40
+aVJoe Smith MIN 04/24/2003 MIN @ LAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p41
+aVTroy Hudson MIN 04/24/2003 MIN @ LAL W 40 27 8 23 34.8 3 8 37.5 8 8 100.0 0 2 2 4 2 0 3 2 1
+p42
+aVKendall Gill MIN 04/24/2003 MIN @ LAL W 21 7 1 3 33.3 0 0 - 5 6 83.3 1 1 2 2 2 0 0 4 10
+p43
+aVAnthony Peeler MIN 04/24/2003 MIN @ LAL W 34 6 3 5 60.0 0 1 0.0 0 0 - 2 5 7 4 1 0 1 5 0
+p44
+aVRasho Nesterovic MIN 04/22/2003 MIN vs. LAL W 23 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 2 1 5 10
+p45
+aVKevin Garnett MIN 04/22/2003 MIN vs. LAL W 43 35 15 21 71.4 1 2 50.0 4 6 66.7 1 19 20 7 2 1 2 3 30
+p46
+aVGary Trent MIN 04/22/2003 MIN vs. LAL W 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 4 -2
+p47
+aVAnthony Peeler MIN 04/22/2003 MIN vs. LAL W 36 5 2 7 28.6 1 4 25.0 0 0 - 2 6 8 5 2 0 0 1 35
+p48
+aVMarc Jackson MIN 04/22/2003 MIN vs. LAL W 25 12 4 7 57.1 0 0 - 4 4 100.0 3 6 9 3 0 0 2 4 18
+p49
+aVLoren Woods MIN 04/22/2003 MIN vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p50
+aVTroy Hudson MIN 04/22/2003 MIN vs. LAL W 35 37 9 16 56.3 4 6 66.7 15 16 93.8 0 2 2 10 2 0 2 2 31
+p51
+aVWally Szczerbiak MIN 04/22/2003 MIN vs. LAL W 41 21 6 11 54.5 0 1 0.0 9 11 81.8 1 3 4 1 1 0 5 4 27
+p52
+aVKendall Gill MIN 04/22/2003 MIN vs. LAL W 16 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p53
+aVMike Wilks MIN 04/22/2003 MIN vs. LAL W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p54
+aVRod Strickland MIN 04/22/2003 MIN vs. LAL W 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -4
+p55
+aVTroy Hudson MIN 04/20/2003 MIN vs. LAL L 32 17 6 16 37.5 1 2 50.0 4 4 100.0 0 1 1 4 1 0 1 0 -7
+p56
+aVGary Trent MIN 04/20/2003 MIN vs. LAL L 11 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -2
+p57
+aVRasho Nesterovic MIN 04/20/2003 MIN vs. LAL L 33 11 5 10 50.0 0 0 - 1 2 50.0 3 4 7 1 0 0 1 5 -11
+p58
+aVMarc Jackson MIN 04/20/2003 MIN vs. LAL L 15 11 4 5 80.0 0 0 - 3 3 100.0 1 3 4 0 0 0 0 1 -8
+p59
+aVMike Wilks MIN 04/20/2003 MIN vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p60
+aVKevin Garnett MIN 04/20/2003 MIN vs. LAL L 46 23 11 21 52.4 0 1 0.0 1 4 25.0 2 12 14 7 2 2 2 3 -19
+p61
+aVKendall Gill MIN 04/20/2003 MIN vs. LAL L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 1 0 0 2
+p62
+aVRod Strickland MIN 04/20/2003 MIN vs. LAL L 16 10 2 4 50.0 0 0 - 6 6 100.0 0 0 0 5 2 0 3 1 -12
+p63
+aVAnthony Peeler MIN 04/20/2003 MIN vs. LAL L 22 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -16
+p64
+aVWally Szczerbiak MIN 04/20/2003 MIN vs. LAL L 41 15 5 9 55.6 0 2 0.0 5 6 83.3 0 3 3 1 0 0 3 4 -19
+p65
+aVJoe Smith MIN 04/20/2003 MIN vs. LAL L 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -3
+p66
+a.

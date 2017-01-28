@@ -1,0 +1,96 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJae Crowder BOS 04/26/2015 BOS vs. CLE L 17 7 2 4 50.0 0 2 0.0 3 5 60.0 0 3 3 1 0 0 0 2 -18
+p2
+aVBrandon Bass BOS 04/26/2015 BOS vs. CLE L 22 4 2 5 40.0 0 0 - 0 4 0.0 2 1 3 2 0 0 2 2 -6
+p3
+aVJared Sullinger BOS 04/26/2015 BOS vs. CLE L 28 21 9 17 52.9 1 4 25.0 2 5 40.0 4 7 11 0 0 1 2 5 7
+p4
+aVMarcus Smart BOS 04/26/2015 BOS vs. CLE L 21 11 4 8 50.0 0 2 0.0 3 5 60.0 3 3 6 1 0 1 1 4 -9
+p5
+aVGigi Datome BOS 04/26/2015 BOS vs. CLE L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 6
+p6
+aVTyler Zeller BOS 04/26/2015 BOS vs. CLE L 15 8 4 7 57.1 0 0 - 0 0 - 0 4 4 1 0 0 1 0 -11
+p7
+aVGerald Wallace BOS 04/26/2015 BOS vs. CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p8
+aVAvery Bradley BOS 04/26/2015 BOS vs. CLE L 40 16 6 13 46.2 1 5 20.0 3 4 75.0 1 4 5 0 1 0 1 4 1
+p9
+aVEvan Turner BOS 04/26/2015 BOS vs. CLE L 17 2 1 6 16.7 0 0 - 0 0 - 0 2 2 3 0 0 2 2 -5
+p10
+aVJonas Jerebko BOS 04/26/2015 BOS vs. CLE L 20 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 1 3 1
+p11
+aVKelly Olynyk BOS 04/26/2015 BOS vs. CLE L 11 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 3 -6
+p12
+aVPhil Pressey BOS 04/26/2015 BOS vs. CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p13
+aVIsaiah Thomas BOS 04/26/2015 BOS vs. CLE L 37 21 4 17 23.5 1 7 14.3 12 12 100.0 0 5 5 9 1 0 4 6 4
+p14
+aVEvan Turner BOS 04/23/2015 BOS vs. CLE L 33 19 8 15 53.3 1 1 100.0 2 2 100.0 0 8 8 8 2 0 4 4 0
+p15
+aVJonas Jerebko BOS 04/23/2015 BOS vs. CLE L 25 4 2 7 28.6 0 1 0.0 0 0 - 3 4 7 0 1 1 1 2 2
+p16
+aVTyler Zeller BOS 04/23/2015 BOS vs. CLE L 28 9 3 9 33.3 0 0 - 3 3 100.0 0 6 6 0 0 0 0 1 1
+p17
+aVBrandon Bass BOS 04/23/2015 BOS vs. CLE L 22 4 2 3 66.7 0 0 - 0 0 - 0 2 2 3 0 1 0 0 -12
+p18
+aVKelly Olynyk BOS 04/23/2015 BOS vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 0
+p19
+aVMarcus Smart BOS 04/23/2015 BOS vs. CLE L 18 8 2 6 33.3 1 3 33.3 3 4 75.0 1 1 2 1 0 0 1 2 -8
+p20
+aVGigi Datome BOS 04/23/2015 BOS vs. CLE L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -3
+p21
+aVAvery Bradley BOS 04/23/2015 BOS vs. CLE L 33 18 7 18 38.9 1 6 16.7 3 3 100.0 1 3 4 0 1 0 1 2 0
+p22
+aVJared Sullinger BOS 04/23/2015 BOS vs. CLE L 17 10 4 6 66.7 0 1 0.0 2 2 100.0 2 6 8 0 0 1 2 3 -5
+p23
+aVIsaiah Thomas BOS 04/23/2015 BOS vs. CLE L 21 5 2 9 22.2 0 3 0.0 1 2 50.0 0 1 1 2 0 0 1 1 -13
+p24
+aVJae Crowder BOS 04/23/2015 BOS vs. CLE L 31 16 5 6 83.3 2 3 66.7 4 5 80.0 2 5 7 4 2 2 4 5 -2
+p25
+aVJonas Jerebko BOS 04/21/2015 BOS @ CLE L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 2
+p26
+aVAvery Bradley BOS 04/21/2015 BOS @ CLE L 29 8 3 9 33.3 2 2 100.0 0 0 - 1 3 4 0 1 0 0 4 -12
+p27
+aVBrandon Bass BOS 04/21/2015 BOS @ CLE L 15 2 0 6 0.0 0 0 - 2 2 100.0 1 1 2 3 1 2 0 0 -13
+p28
+aVTyler Zeller BOS 04/21/2015 BOS @ CLE L 30 11 5 8 62.5 0 0 - 1 2 50.0 2 4 6 1 1 1 2 2 -5
+p29
+aVJared Sullinger BOS 04/21/2015 BOS @ CLE L 22 14 6 12 50.0 2 4 50.0 0 0 - 3 2 5 1 0 0 0 1 -8
+p30
+aVJae Crowder BOS 04/21/2015 BOS @ CLE L 30 10 4 10 40.0 0 2 0.0 2 2 100.0 3 2 5 3 1 0 1 3 -2
+p31
+aVKelly Olynyk BOS 04/21/2015 BOS @ CLE L 21 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 0 1 0 2 4 13
+p32
+aVMarcus Smart BOS 04/21/2015 BOS @ CLE L 26 10 4 9 44.4 1 5 20.0 1 2 50.0 0 1 1 1 0 0 0 3 -20
+p33
+aVIsaiah Thomas BOS 04/21/2015 BOS @ CLE L 30 22 6 14 42.9 0 3 0.0 10 10 100.0 1 0 1 7 1 0 4 2 -3
+p34
+aVEvan Turner BOS 04/21/2015 BOS @ CLE L 33 9 3 11 27.3 0 2 0.0 3 4 75.0 2 10 12 3 0 0 1 2 8
+p35
+aVTyler Zeller BOS 04/19/2015 BOS @ CLE L 15 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -4
+p36
+aVIsaiah Thomas BOS 04/19/2015 BOS @ CLE L 32 22 6 14 42.9 2 5 40.0 8 8 100.0 0 5 5 10 1 0 5 1 5
+p37
+aVJae Crowder BOS 04/19/2015 BOS @ CLE L 23 10 4 9 44.4 1 3 33.3 1 1 100.0 3 2 5 0 1 1 0 4 -5
+p38
+aVKelly Olynyk BOS 04/19/2015 BOS @ CLE L 18 12 5 7 71.4 2 3 66.7 0 0 - 1 1 2 1 1 2 1 4 -9
+p39
+aVBrandon Bass BOS 04/19/2015 BOS @ CLE L 27 10 3 6 50.0 0 0 - 4 4 100.0 0 1 1 2 0 0 1 2 -11
+p40
+aVJared Sullinger BOS 04/19/2015 BOS @ CLE L 14 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 1 1 3 0
+p41
+aVEvan Turner BOS 04/19/2015 BOS @ CLE L 34 12 4 12 33.3 1 1 100.0 3 3 100.0 0 7 7 5 1 0 2 3 -18
+p42
+aVGigi Datome BOS 04/19/2015 BOS @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p43
+aVPhil Pressey BOS 04/19/2015 BOS @ CLE L 1 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -2
+p44
+aVAvery Bradley BOS 04/19/2015 BOS @ CLE L 31 7 3 10 30.0 1 6 16.7 0 0 - 0 2 2 3 0 0 1 3 -6
+p45
+aVJonas Jerebko BOS 04/19/2015 BOS @ CLE L 19 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 1 1 0 0 3 1
+p46
+aVMarcus Smart BOS 04/19/2015 BOS @ CLE L 26 10 4 6 66.7 1 3 33.3 1 4 25.0 1 1 2 2 1 0 2 3 -14
+p47
+a.

@@ -1,0 +1,126 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAndre Iguodala PHI 05/01/2008 PHI vs. DET L 31 16 4 7 57.1 1 3 33.3 7 12 58.3 0 4 4 1 4 0 3 1 -32
+p2
+aVKevin Ollie PHI 05/01/2008 PHI vs. DET L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 3 1 0 0 1 4
+p3
+aVAndre Miller PHI 05/01/2008 PHI vs. DET L 34 11 4 16 25.0 0 1 0.0 3 4 75.0 0 1 1 2 0 0 0 2 -29
+p4
+aVJason Smith PHI 05/01/2008 PHI vs. DET L 21 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 1 0 1 0 2 -9
+p5
+aVLou Williams PHI 05/01/2008 PHI vs. DET L 27 11 3 11 27.3 1 4 25.0 4 6 66.7 0 1 1 1 2 0 2 1 -2
+p6
+aVSamuel Dalembert PHI 05/01/2008 PHI vs. DET L 25 8 3 6 50.0 0 0 - 2 4 50.0 3 3 6 0 0 0 2 1 -16
+p7
+aVRodney Carney PHI 05/01/2008 PHI vs. DET L 20 5 2 7 28.6 1 1 100.0 0 0 - 1 0 1 1 1 1 0 1 5
+p8
+aVWillie Green PHI 05/01/2008 PHI vs. DET L 18 6 2 5 40.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 1 3 -15
+p9
+aVLou Amundson PHI 05/01/2008 PHI vs. DET L 7 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 0 0 1 7
+p10
+aVReggie Evans PHI 05/01/2008 PHI vs. DET L 25 3 1 2 50.0 0 0 - 1 2 50.0 4 3 7 3 2 0 2 2 -10
+p11
+aVThaddeus Young PHI 05/01/2008 PHI vs. DET L 18 7 2 8 25.0 0 1 0.0 3 4 75.0 3 1 4 0 1 0 1 1 -18
+p12
+aVShavlik Randolph PHI 04/29/2008 PHI @ DET L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 2
+p13
+aVReggie Evans PHI 04/29/2008 PHI @ DET L 20 3 1 3 33.3 0 0 - 1 2 50.0 1 6 7 0 0 0 3 2 10
+p14
+aVAndre Iguodala PHI 04/29/2008 PHI @ DET L 43 21 8 13 61.5 1 2 50.0 4 4 100.0 0 5 5 6 3 1 6 1 -19
+p15
+aVKevin Ollie PHI 04/29/2008 PHI @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p16
+aVThaddeus Young PHI 04/29/2008 PHI @ DET L 31 8 3 9 33.3 0 2 0.0 2 2 100.0 3 1 4 0 2 0 2 0 -21
+p17
+aVRodney Carney PHI 04/29/2008 PHI @ DET L 9 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 1 1 0 1 5
+p18
+aVJason Smith PHI 04/29/2008 PHI @ DET L 16 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 0 3
+p19
+aVWillie Green PHI 04/29/2008 PHI @ DET L 25 8 3 10 30.0 0 1 0.0 2 2 100.0 0 2 2 0 2 1 2 2 -27
+p20
+aVLou Williams PHI 04/29/2008 PHI @ DET L 24 16 6 9 66.7 0 0 - 4 6 66.7 0 1 1 2 2 0 2 0 9
+p21
+aVSamuel Dalembert PHI 04/29/2008 PHI @ DET L 30 4 2 4 50.0 0 0 - 0 0 - 3 3 6 1 0 2 1 3 -26
+p22
+aVAndre Miller PHI 04/29/2008 PHI @ DET L 38 13 5 17 29.4 0 1 0.0 3 4 75.0 1 3 4 3 1 0 1 3 -21
+p23
+aVRodney Carney PHI 04/27/2008 PHI vs. DET L 13 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 1 0 0 2 -5
+p24
+aVSamuel Dalembert PHI 04/27/2008 PHI vs. DET L 38 12 3 5 60.0 0 0 - 6 6 100.0 3 9 12 1 0 2 3 5 -12
+p25
+aVLou Williams PHI 04/27/2008 PHI vs. DET L 13 10 3 5 60.0 1 2 50.0 3 4 75.0 0 2 2 4 0 0 0 1 -2
+p26
+aVThaddeus Young PHI 04/27/2008 PHI vs. DET L 32 15 5 9 55.6 1 1 100.0 4 4 100.0 2 7 9 3 0 0 0 2 -4
+p27
+aVAndre Iguodala PHI 04/27/2008 PHI vs. DET L 46 12 4 16 25.0 0 3 0.0 4 9 44.4 2 4 6 5 1 0 5 1 -3
+p28
+aVWillie Green PHI 04/27/2008 PHI vs. DET L 26 13 6 12 50.0 0 0 - 1 2 50.0 1 2 3 3 0 1 3 6 -1
+p29
+aVJason Smith PHI 04/27/2008 PHI vs. DET L 11 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 1 1 1 -1
+p30
+aVReggie Evans PHI 04/27/2008 PHI vs. DET L 19 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 3 3 -4
+p31
+aVAndre Miller PHI 04/27/2008 PHI vs. DET L 42 13 6 13 46.2 0 1 0.0 1 2 50.0 1 1 2 3 2 0 4 0 -13
+p32
+aVReggie Evans PHI 04/25/2008 PHI vs. DET W 23 9 2 6 33.3 0 0 - 5 6 83.3 0 5 5 0 2 0 2 4 11
+p33
+aVAndre Iguodala PHI 04/25/2008 PHI vs. DET W 37 10 2 9 22.2 0 3 0.0 6 6 100.0 1 3 4 6 4 0 6 3 13
+p34
+aVJason Smith PHI 04/25/2008 PHI vs. DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 1 0 0 -2
+p35
+aVKevin Ollie PHI 04/25/2008 PHI vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p36
+aVThaddeus Young PHI 04/25/2008 PHI vs. DET W 21 10 4 6 66.7 0 0 - 2 2 100.0 2 0 2 0 2 0 1 1 5
+p37
+aVSamuel Dalembert PHI 04/25/2008 PHI vs. DET W 40 22 8 14 57.1 0 0 - 6 6 100.0 5 11 16 1 1 2 2 2 27
+p38
+aVWillie Green PHI 04/25/2008 PHI vs. DET W 23 4 2 5 40.0 0 1 0.0 0 2 0.0 1 1 2 6 1 1 1 3 6
+p39
+aVLou Williams PHI 04/25/2008 PHI vs. DET W 26 9 4 11 36.4 0 0 - 1 1 100.0 1 2 3 3 1 0 1 3 14
+p40
+aVAndre Miller PHI 04/25/2008 PHI vs. DET W 40 21 9 14 64.3 0 0 - 3 4 75.0 0 6 6 3 1 0 2 4 20
+p41
+aVRodney Carney PHI 04/25/2008 PHI vs. DET W 21 8 3 8 37.5 1 3 33.3 1 2 50.0 1 3 4 1 2 0 0 5 10
+p42
+aVShavlik Randolph PHI 04/25/2008 PHI vs. DET W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p43
+aVAndre Miller PHI 04/23/2008 PHI @ DET L 30 14 6 11 54.5 0 0 - 2 4 50.0 2 1 3 3 0 0 3 2 -22
+p44
+aVSamuel Dalembert PHI 04/23/2008 PHI @ DET L 27 3 1 6 16.7 0 0 - 1 2 50.0 2 5 7 0 0 0 0 1 -20
+p45
+aVLou Amundson PHI 04/23/2008 PHI @ DET L 4 3 1 1 100.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 2
+p46
+aVJason Smith PHI 04/23/2008 PHI @ DET L 21 6 3 7 42.9 0 0 - 0 0 - 2 0 2 0 0 2 0 1 3
+p47
+aVRodney Carney PHI 04/23/2008 PHI @ DET L 18 11 5 10 50.0 1 3 33.3 0 0 - 1 1 2 1 2 0 0 0 4
+p48
+aVThaddeus Young PHI 04/23/2008 PHI @ DET L 35 11 5 10 50.0 0 1 0.0 1 2 50.0 3 2 5 1 0 0 0 1 -20
+p49
+aVAndre Iguodala PHI 04/23/2008 PHI @ DET L 31 4 1 9 11.1 0 1 0.0 2 2 100.0 0 1 1 4 1 0 2 3 -18
+p50
+aVWillie Green PHI 04/23/2008 PHI @ DET L 22 6 2 8 25.0 0 0 - 2 3 66.7 0 0 0 1 1 1 1 1 -15
+p51
+aVReggie Evans PHI 04/23/2008 PHI @ DET L 30 13 4 7 57.1 0 0 - 5 10 50.0 6 5 11 0 1 0 3 4 -4
+p52
+aVLou Williams PHI 04/23/2008 PHI @ DET L 23 17 4 12 33.3 0 1 0.0 9 10 90.0 1 0 1 2 0 0 1 2 5
+p53
+aVWillie Green PHI 04/20/2008 PHI @ DET W 28 17 7 11 63.6 1 1 100.0 2 3 66.7 0 1 1 2 1 0 1 4 3
+p54
+aVSamuel Dalembert PHI 04/20/2008 PHI @ DET W 33 5 2 10 20.0 0 0 - 1 1 100.0 4 6 10 0 1 4 2 5 -6
+p55
+aVJason Smith PHI 04/20/2008 PHI @ DET W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 9
+p56
+aVAndre Miller PHI 04/20/2008 PHI @ DET W 45 20 9 18 50.0 0 0 - 2 4 50.0 3 0 3 6 1 0 4 1 11
+p57
+aVAndre Iguodala PHI 04/20/2008 PHI @ DET W 46 16 4 15 26.7 0 2 0.0 8 10 80.0 3 6 9 8 0 0 4 2 5
+p58
+aVReggie Evans PHI 04/20/2008 PHI @ DET W 32 11 4 6 66.7 0 0 - 3 4 75.0 5 9 14 0 0 0 0 5 5
+p59
+aVRodney Carney PHI 04/20/2008 PHI @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p60
+aVThaddeus Young PHI 04/20/2008 PHI @ DET W 22 10 5 8 62.5 0 0 - 0 0 - 2 1 3 0 2 0 0 2 3
+p61
+aVLou Williams PHI 04/20/2008 PHI @ DET W 22 9 4 12 33.3 0 2 0.0 1 3 33.3 1 3 4 0 1 0 1 4 -3
+p62
+a.

@@ -1,0 +1,1416 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVNene WAS 04/26/2012 WAS vs. MIA W 19 15 6 7 85.7 0 0 - 3 5 60.0 1 6 7 3 0 2 2 2 13
+p2
+aVCartier Martin WAS 04/26/2012 WAS vs. MIA W 22 12 4 8 50.0 2 4 50.0 2 4 50.0 1 2 3 0 2 0 1 1 10
+p3
+aVBrian Cook WAS 04/26/2012 WAS vs. MIA W 7 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 4
+p4
+aVJan Vesely WAS 04/26/2012 WAS vs. MIA W 23 11 5 7 71.4 0 0 - 1 2 50.0 2 6 8 1 3 1 1 0 17
+p5
+aVJohn Wall WAS 04/26/2012 WAS vs. MIA W 25 7 3 8 37.5 0 0 - 1 2 50.0 0 2 2 12 2 0 2 2 19
+p6
+aVKevin Seraphin WAS 04/26/2012 WAS vs. MIA W 25 15 6 10 60.0 0 0 - 3 4 75.0 1 2 3 0 0 0 1 1 16
+p7
+aVMorris Almond WAS 04/26/2012 WAS vs. MIA W 26 5 2 6 33.3 0 0 - 1 2 50.0 0 4 4 1 5 0 1 4 24
+p8
+aVMaurice Evans WAS 04/26/2012 WAS vs. MIA W 23 18 7 13 53.8 2 3 66.7 2 3 66.7 0 0 0 0 1 0 0 2 19
+p9
+aVShelvin Mack WAS 04/26/2012 WAS vs. MIA W 23 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 7 0 0 6 2 15
+p10
+aVChris Singleton WAS 04/26/2012 WAS vs. MIA W 25 7 3 8 37.5 1 2 50.0 0 0 - 0 5 5 0 2 0 1 3 15
+p11
+aVJames Singleton WAS 04/26/2012 WAS vs. MIA W 22 4 2 4 50.0 0 0 - 0 0 - 1 7 8 3 0 0 1 3 18
+p12
+aVBrian Cook WAS 04/25/2012 WAS @ CLE W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p13
+aVMaurice Evans WAS 04/25/2012 WAS @ CLE W 18 4 1 9 11.1 0 3 0.0 2 2 100.0 1 1 2 0 1 0 0 1 6
+p14
+aVMorris Almond WAS 04/25/2012 WAS @ CLE W 26 5 2 9 22.2 1 3 33.3 0 1 0.0 1 2 3 1 1 0 0 2 0
+p15
+aVJames Singleton WAS 04/25/2012 WAS @ CLE W 22 10 5 8 62.5 0 1 0.0 0 0 - 3 2 5 0 0 0 2 1 -3
+p16
+aVJan Vesely WAS 04/25/2012 WAS @ CLE W 25 7 3 4 75.0 0 0 - 1 1 100.0 7 5 12 1 0 1 4 4 16
+p17
+aVChris Singleton WAS 04/25/2012 WAS @ CLE W 26 10 4 8 50.0 2 5 40.0 0 0 - 1 3 4 1 0 0 0 2 7
+p18
+aVKevin Seraphin WAS 04/25/2012 WAS @ CLE W 23 12 6 12 50.0 0 0 - 0 0 - 4 2 6 1 1 2 0 3 12
+p19
+aVNene WAS 04/25/2012 WAS @ CLE W 23 12 6 7 85.7 0 0 - 0 0 - 2 5 7 0 0 0 1 1 -1
+p20
+aVCartier Martin WAS 04/25/2012 WAS @ CLE W 26 7 3 10 30.0 1 3 33.3 0 2 0.0 0 2 2 0 1 1 2 2 9
+p21
+aVJohn Wall WAS 04/25/2012 WAS @ CLE W 32 21 7 16 43.8 0 0 - 7 8 87.5 1 6 7 13 7 0 6 2 14
+p22
+aVShelvin Mack WAS 04/25/2012 WAS @ CLE W 16 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 4 1 0 0 1 -3
+p23
+aVKevin Seraphin WAS 04/23/2012 WAS vs. CHA W 27 12 6 11 54.5 0 0 - 0 0 - 1 7 8 0 1 1 2 4 7
+p24
+aVJordan Crawford WAS 04/23/2012 WAS vs. CHA W 20 2 1 8 12.5 0 5 0.0 0 0 - 0 0 0 1 2 0 2 1 6
+p25
+aVCartier Martin WAS 04/23/2012 WAS vs. CHA W 24 9 4 9 44.4 1 6 16.7 0 0 - 0 2 2 2 0 0 1 2 23
+p26
+aVJames Singleton WAS 04/23/2012 WAS vs. CHA W 20 6 2 4 50.0 0 1 0.0 2 2 100.0 3 6 9 3 1 0 1 2 18
+p27
+aVChris Singleton WAS 04/23/2012 WAS vs. CHA W 24 7 3 7 42.9 0 2 0.0 1 2 50.0 0 2 2 1 0 0 0 1 1
+p28
+aVBrian Cook WAS 04/23/2012 WAS vs. CHA W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 8
+p29
+aVJohn Wall WAS 04/23/2012 WAS vs. CHA W 30 16 7 13 53.8 0 1 0.0 2 4 50.0 1 4 5 14 0 1 2 2 7
+p30
+aVJan Vesely WAS 04/23/2012 WAS vs. CHA W 24 16 8 8 100.0 0 0 - 0 0 - 3 3 6 1 4 0 1 4 2
+p31
+aVNene WAS 04/23/2012 WAS vs. CHA W 21 18 8 11 72.7 0 0 - 2 3 66.7 0 6 6 1 0 3 4 3 21
+p32
+aVShelvin Mack WAS 04/23/2012 WAS vs. CHA W 18 8 4 5 80.0 0 0 - 0 1 0.0 0 2 2 4 2 0 2 3 21
+p33
+aVMorris Almond WAS 04/23/2012 WAS vs. CHA W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 4
+p34
+aVMaurice Evans WAS 04/23/2012 WAS vs. CHA W 19 5 2 5 40.0 1 2 50.0 0 0 - 1 2 3 1 1 0 2 2 22
+p35
+aVJordan Crawford WAS 04/21/2012 WAS @ MIA W 29 7 2 14 14.3 1 4 25.0 2 2 100.0 0 6 6 2 0 1 2 1 0
+p36
+aVMaurice Evans WAS 04/21/2012 WAS @ MIA W 27 8 3 7 42.9 2 3 66.7 0 0 - 1 2 3 2 4 0 0 2 -4
+p37
+aVJan Vesely WAS 04/21/2012 WAS @ MIA W 23 6 3 9 33.3 0 0 - 0 0 - 2 3 5 0 0 1 0 1 -1
+p38
+aVShelvin Mack WAS 04/21/2012 WAS @ MIA W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -9
+p39
+aVKevin Seraphin WAS 04/21/2012 WAS @ MIA W 33 17 8 15 53.3 0 0 - 1 2 50.0 3 3 6 1 0 1 2 5 -12
+p40
+aVNene WAS 04/21/2012 WAS @ MIA W 21 11 5 9 55.6 0 1 0.0 1 2 50.0 2 1 3 1 0 1 2 5 11
+p41
+aVCartier Martin WAS 04/21/2012 WAS @ MIA W 38 22 8 15 53.3 4 8 50.0 2 2 100.0 0 5 5 0 1 0 0 3 0
+p42
+aVJohn Wall WAS 04/21/2012 WAS @ MIA W 40 13 6 11 54.5 0 1 0.0 1 1 100.0 0 6 6 13 4 0 5 3 11
+p43
+aVJames Singleton WAS 04/21/2012 WAS @ MIA W 15 2 1 5 20.0 0 0 - 0 0 - 2 1 3 1 0 0 1 1 7
+p44
+aVChris Singleton WAS 04/21/2012 WAS @ MIA W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 3 7
+p45
+aVChris Singleton WAS 04/18/2012 WAS vs. MIL W 17 10 4 6 66.7 2 3 66.7 0 0 - 0 5 5 0 2 0 0 0 7
+p46
+aVCartier Martin WAS 04/18/2012 WAS vs. MIL W 17 7 2 2 100.0 2 2 100.0 1 2 50.0 0 2 2 0 0 0 0 2 1
+p47
+aVMaurice Evans WAS 04/18/2012 WAS vs. MIL W 24 7 3 8 37.5 1 3 33.3 0 1 0.0 2 1 3 0 0 0 0 3 -2
+p48
+aVMorris Almond WAS 04/18/2012 WAS vs. MIL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p49
+aVShelvin Mack WAS 04/18/2012 WAS vs. MIL W 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 6 0 0 0 0 -1
+p50
+aVNene WAS 04/18/2012 WAS vs. MIL W 18 14 7 12 58.3 0 0 - 0 1 0.0 0 4 4 1 0 2 0 1 3
+p51
+aVJan Vesely WAS 04/18/2012 WAS vs. MIL W 26 8 4 6 66.7 0 0 - 0 0 - 3 7 10 3 1 0 1 3 9
+p52
+aVJordan Crawford WAS 04/18/2012 WAS vs. MIL W 34 32 11 17 64.7 1 3 33.3 9 12 75.0 1 3 4 3 1 0 3 2 10
+p53
+aVJohn Wall WAS 04/18/2012 WAS vs. MIL W 35 14 5 13 38.5 0 0 - 4 7 57.1 0 3 3 10 0 1 4 2 10
+p54
+aVJames Singleton WAS 04/18/2012 WAS vs. MIL W 21 11 5 8 62.5 1 2 50.0 0 0 - 2 3 5 0 2 1 1 3 -2
+p55
+aVKevin Seraphin WAS 04/18/2012 WAS vs. MIL W 29 14 6 12 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 2 3
+p56
+aVBrian Cook WAS 04/18/2012 WAS vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p57
+aVJohn Wall WAS 04/16/2012 WAS @ CHI W 36 16 5 15 33.3 0 2 0.0 6 7 85.7 0 2 2 5 1 2 1 1 -13
+p58
+aVMaurice Evans WAS 04/16/2012 WAS @ CHI W 26 14 5 8 62.5 1 2 50.0 3 3 100.0 0 1 1 0 1 0 2 2 11
+p59
+aVJan Vesely WAS 04/16/2012 WAS @ CHI W 22 6 3 8 37.5 0 0 - 0 0 - 2 2 4 1 2 1 0 4 -1
+p60
+aVJordan Crawford WAS 04/16/2012 WAS @ CHI W 31 9 2 13 15.4 0 3 0.0 5 6 83.3 0 2 2 6 0 0 4 1 8
+p61
+aVCartier Martin WAS 04/16/2012 WAS @ CHI W 20 5 2 10 20.0 1 6 16.7 0 0 - 1 1 2 1 1 0 1 1 -7
+p62
+aVKevin Seraphin WAS 04/16/2012 WAS @ CHI W 43 21 10 19 52.6 0 0 - 1 3 33.3 8 5 13 0 1 5 3 2 -4
+p63
+aVChris Singleton WAS 04/16/2012 WAS @ CHI W 16 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 1 0 3 -9
+p64
+aVShelvin Mack WAS 04/16/2012 WAS @ CHI W 16 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 4 0 0 1 1 17
+p65
+aVJames Singleton WAS 04/16/2012 WAS @ CHI W 16 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 2 2 0 4 6
+p66
+aVBrian Cook WAS 04/16/2012 WAS @ CHI W 14 6 2 4 50.0 2 4 50.0 0 0 - 1 7 8 1 1 0 0 2 7
+p67
+aVJordan Crawford WAS 04/14/2012 WAS vs. CLE L 36 18 8 17 47.1 1 3 33.3 1 2 50.0 3 1 4 3 0 0 2 3 -8
+p68
+aVJames Singleton WAS 04/14/2012 WAS vs. CLE L 25 13 6 10 60.0 1 2 50.0 0 0 - 0 6 6 2 1 2 0 2 -8
+p69
+aVMaurice Evans WAS 04/14/2012 WAS vs. CLE L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p70
+aVCartier Martin WAS 04/14/2012 WAS vs. CLE L 24 6 2 9 22.2 1 5 20.0 1 1 100.0 1 2 3 1 0 0 0 5 -10
+p71
+aVChris Singleton WAS 04/14/2012 WAS vs. CLE L 19 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 3 2 0 2 2
+p72
+aVJohn Wall WAS 04/14/2012 WAS vs. CLE L 40 19 8 16 50.0 0 0 - 3 4 75.0 0 2 2 9 1 1 2 1 0
+p73
+aVRoger Mason Jr. WAS 04/14/2012 WAS vs. CLE L 12 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 1 1 1 0 0 -1
+p74
+aVJan Vesely WAS 04/14/2012 WAS vs. CLE L 35 11 5 10 50.0 0 0 - 1 1 100.0 6 5 11 2 1 1 2 3 4
+p75
+aVShelvin Mack WAS 04/14/2012 WAS vs. CLE L 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 2 3 -9
+p76
+aVKevin Seraphin WAS 04/14/2012 WAS vs. CLE L 35 15 6 12 50.0 0 0 - 3 4 75.0 1 3 4 0 1 2 2 3 -14
+p77
+aVChris Singleton WAS 04/13/2012 WAS @ NYK L 24 0 0 3 0.0 0 1 0.0 0 0 - 2 5 7 1 0 1 1 3 -25
+p78
+aVBrian Cook WAS 04/13/2012 WAS @ NYK L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p79
+aVJordan Crawford WAS 04/13/2012 WAS @ NYK L 35 17 6 20 30.0 1 6 16.7 4 6 66.7 2 2 4 2 3 0 4 1 -32
+p80
+aVJohn Wall WAS 04/13/2012 WAS @ NYK L 32 8 2 12 16.7 0 1 0.0 4 6 66.7 1 4 5 4 5 0 7 2 -28
+p81
+aVKevin Seraphin WAS 04/13/2012 WAS @ NYK L 41 12 6 15 40.0 0 0 - 0 0 - 2 3 5 1 0 5 4 1 -30
+p82
+aVJames Singleton WAS 04/13/2012 WAS @ NYK L 20 4 1 6 16.7 0 1 0.0 2 2 100.0 4 5 9 0 0 1 0 4 -13
+p83
+aVCartier Martin WAS 04/13/2012 WAS @ NYK L 18 5 1 3 33.3 1 2 50.0 2 2 100.0 1 2 3 0 1 0 0 2 -18
+p84
+aVJan Vesely WAS 04/13/2012 WAS @ NYK L 21 0 0 4 0.0 0 0 - 0 0 - 1 4 5 2 1 2 0 2 -12
+p85
+aVRoger Mason Jr. WAS 04/13/2012 WAS @ NYK L 31 11 3 10 30.0 2 8 25.0 3 3 100.0 2 4 6 1 0 0 4 0 -29
+p86
+aVShelvin Mack WAS 04/13/2012 WAS @ NYK L 13 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 2 0 0 1 0 -3
+p87
+aVKevin Seraphin WAS 04/10/2012 WAS vs. ORL W 40 24 11 16 68.8 0 0 - 2 2 100.0 2 11 13 2 0 4 1 2 14
+p88
+aVJames Singleton WAS 04/10/2012 WAS vs. ORL W 23 12 5 6 83.3 0 0 - 2 2 100.0 0 8 8 0 1 0 0 0 5
+p89
+aVRoger Mason Jr. WAS 04/10/2012 WAS vs. ORL W 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 5
+p90
+aVShelvin Mack WAS 04/10/2012 WAS vs. ORL W 12 2 0 4 0.0 0 1 0.0 2 4 50.0 0 0 0 2 0 0 1 1 0
+p91
+aVChris Singleton WAS 04/10/2012 WAS vs. ORL W 19 0 0 4 0.0 0 2 0.0 0 0 - 0 4 4 0 0 0 2 1 2
+p92
+aVJordan Crawford WAS 04/10/2012 WAS vs. ORL W 31 21 10 18 55.6 1 5 20.0 0 0 - 1 3 4 4 1 0 4 3 3
+p93
+aVJan Vesely WAS 04/10/2012 WAS vs. ORL W 33 5 2 5 40.0 0 0 - 1 2 50.0 2 7 9 1 1 0 0 2 -3
+p94
+aVJohn Wall WAS 04/10/2012 WAS vs. ORL W 36 15 5 10 50.0 0 0 - 5 5 100.0 0 3 3 7 2 1 4 2 8
+p95
+aVCartier Martin WAS 04/10/2012 WAS vs. ORL W 30 12 5 11 45.5 2 6 33.3 0 0 - 1 2 3 3 0 0 1 2 6
+p96
+aVBrian Cook WAS 04/09/2012 WAS @ CHA W 4 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p97
+aVChris Singleton WAS 04/09/2012 WAS @ CHA W 18 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 1 0 4 16
+p98
+aVRoger Mason Jr. WAS 04/09/2012 WAS @ CHA W 27 17 6 12 50.0 5 9 55.6 0 0 - 1 4 5 2 0 0 1 2 14
+p99
+aVJohn Wall WAS 04/09/2012 WAS @ CHA W 26 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 12 1 1 1 2 21
+p100
+aVJan Vesely WAS 04/09/2012 WAS @ CHA W 26 11 5 11 45.5 0 0 - 1 1 100.0 3 8 11 2 0 2 2 2 15
+p101
+aVShelvin Mack WAS 04/09/2012 WAS @ CHA W 22 11 2 4 50.0 0 1 0.0 7 10 70.0 0 2 2 3 2 1 1 2 7
+p102
+aVKevin Seraphin WAS 04/09/2012 WAS @ CHA W 28 10 4 10 40.0 0 0 - 2 2 100.0 1 3 4 3 1 2 4 4 14
+p103
+aVCartier Martin WAS 04/09/2012 WAS @ CHA W 30 19 7 13 53.8 4 8 50.0 1 1 100.0 1 5 6 0 0 1 1 3 12
+p104
+aVJames Singleton WAS 04/09/2012 WAS @ CHA W 38 18 6 9 66.7 0 0 - 6 7 85.7 3 9 12 3 2 2 1 0 26
+p105
+aVJordan Crawford WAS 04/09/2012 WAS @ CHA W 21 20 7 12 58.3 1 2 50.0 5 5 100.0 0 2 2 3 0 0 1 4 14
+p106
+aVJohn Wall WAS 04/06/2012 WAS @ NJN L 29 18 7 15 46.7 0 0 - 4 5 80.0 3 3 6 4 1 3 4 0 -19
+p107
+aVBrian Cook WAS 04/06/2012 WAS @ NJN L 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 11
+p108
+aVShelvin Mack WAS 04/06/2012 WAS @ NJN L 19 10 3 4 75.0 0 0 - 4 4 100.0 0 1 1 8 0 0 1 1 7
+p109
+aVKevin Seraphin WAS 04/06/2012 WAS @ NJN L 35 15 6 13 46.2 0 0 - 3 4 75.0 6 3 9 1 0 3 2 2 -27
+p110
+aVJames Singleton WAS 04/06/2012 WAS @ NJN L 26 12 5 8 62.5 0 1 0.0 2 2 100.0 5 4 9 3 0 0 3 2 -1
+p111
+aVJan Vesely WAS 04/06/2012 WAS @ NJN L 23 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 4 -7
+p112
+aVRoger Mason Jr. WAS 04/06/2012 WAS @ NJN L 20 15 6 9 66.7 2 3 66.7 1 3 33.3 0 1 1 0 1 0 2 1 9
+p113
+aVCartier Martin WAS 04/06/2012 WAS @ NJN L 29 7 3 9 33.3 1 4 25.0 0 0 - 1 2 3 0 1 0 1 1 -1
+p114
+aVChris Singleton WAS 04/06/2012 WAS @ NJN L 19 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 0 1 0 0 2 -11
+p115
+aVJordan Crawford WAS 04/06/2012 WAS @ NJN L 28 9 3 12 25.0 0 0 - 3 4 75.0 1 3 4 5 2 0 2 2 -21
+p116
+aVShelvin Mack WAS 04/05/2012 WAS @ DET L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 1 2 -13
+p117
+aVCartier Martin WAS 04/05/2012 WAS @ DET L 13 6 2 4 50.0 2 3 66.7 0 0 - 1 2 3 1 1 0 1 0 -1
+p118
+aVJordan Crawford WAS 04/05/2012 WAS @ DET L 33 9 2 13 15.4 1 5 20.0 4 5 80.0 0 2 2 2 0 0 3 2 5
+p119
+aVChris Singleton WAS 04/05/2012 WAS @ DET L 21 5 2 3 66.7 1 2 50.0 0 0 - 0 7 7 2 1 0 2 3 3
+p120
+aVKevin Seraphin WAS 04/05/2012 WAS @ DET L 30 15 7 12 58.3 0 0 - 1 2 50.0 5 4 9 0 2 0 1 6 4
+p121
+aVRoger Mason Jr. WAS 04/05/2012 WAS @ DET L 28 11 4 10 40.0 3 6 50.0 0 0 - 1 0 1 3 1 0 3 4 -9
+p122
+aVBrian Cook WAS 04/05/2012 WAS @ DET L 22 8 3 7 42.9 0 2 0.0 2 2 100.0 1 3 4 1 1 0 2 2 -9
+p123
+aVJan Vesely WAS 04/05/2012 WAS @ DET L 30 10 4 6 66.7 0 0 - 2 5 40.0 3 2 5 0 1 1 2 5 10
+p124
+aVJohn Wall WAS 04/05/2012 WAS @ DET L 42 28 8 18 44.4 0 1 0.0 12 15 80.0 1 3 4 10 2 0 3 4 0
+p125
+aVJames Singleton WAS 04/05/2012 WAS @ DET L 14 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 5 -15
+p126
+aVChris Singleton WAS 04/04/2012 WAS vs. IND L 24 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 1 0 0 3 -5
+p127
+aVShelvin Mack WAS 04/04/2012 WAS vs. IND L 19 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 4 2 0 0 0 9
+p128
+aVCartier Martin WAS 04/04/2012 WAS vs. IND L 19 4 1 3 33.3 0 2 0.0 2 3 66.7 1 1 2 0 1 0 1 1 -5
+p129
+aVKevin Seraphin WAS 04/04/2012 WAS vs. IND L 32 19 9 16 56.3 0 0 - 1 2 50.0 5 5 10 3 0 0 2 3 -10
+p130
+aVJordan Crawford WAS 04/04/2012 WAS vs. IND L 35 28 11 22 50.0 5 9 55.6 1 1 100.0 1 1 2 3 0 0 2 1 -15
+p131
+aVJan Vesely WAS 04/04/2012 WAS vs. IND L 34 8 4 6 66.7 0 0 - 0 0 - 0 3 3 2 1 0 1 5 -13
+p132
+aVRoger Mason Jr. WAS 04/04/2012 WAS vs. IND L 19 5 2 8 25.0 0 4 0.0 1 2 50.0 0 4 4 3 0 0 1 1 -3
+p133
+aVJohn Wall WAS 04/04/2012 WAS vs. IND L 29 13 4 15 26.7 0 2 0.0 5 7 71.4 1 0 1 3 0 0 5 2 -22
+p134
+aVBrian Cook WAS 04/04/2012 WAS vs. IND L 29 10 4 6 66.7 1 1 100.0 1 2 50.0 3 6 9 2 0 0 0 2 -1
+p135
+aVJordan Crawford WAS 04/02/2012 WAS vs. MIL L 34 23 8 17 47.1 3 4 75.0 4 4 100.0 2 3 5 6 1 0 1 3 -17
+p136
+aVCartier Martin WAS 04/02/2012 WAS vs. MIL L 24 7 3 8 37.5 1 4 25.0 0 0 - 1 3 4 1 1 0 1 3 7
+p137
+aVChris Singleton WAS 04/02/2012 WAS vs. MIL L 30 4 1 5 20.0 0 3 0.0 2 2 100.0 1 3 4 1 3 1 1 5 -10
+p138
+aVKevin Seraphin WAS 04/02/2012 WAS vs. MIL L 33 15 7 14 50.0 0 0 - 1 1 100.0 1 2 3 2 1 0 3 4 -13
+p139
+aVRoger Mason Jr. WAS 04/02/2012 WAS vs. MIL L 24 11 4 9 44.4 3 5 60.0 0 1 0.0 0 1 1 1 0 0 0 1 -9
+p140
+aVShelvin Mack WAS 04/02/2012 WAS vs. MIL L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 1 0 3 1 -3
+p141
+aVJan Vesely WAS 04/02/2012 WAS vs. MIL L 39 14 6 9 66.7 0 0 - 2 2 100.0 3 4 7 0 1 1 3 4 -17
+p142
+aVJohn Wall WAS 04/02/2012 WAS vs. MIL L 37 14 4 13 30.8 0 1 0.0 6 6 100.0 1 5 6 9 0 0 4 2 -9
+p143
+aVBrian Cook WAS 04/02/2012 WAS vs. MIL L 12 8 3 5 60.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 1 1 1
+p144
+aVJohn Wall WAS 04/01/2012 WAS @ TOR L 38 13 4 8 50.0 0 2 0.0 5 7 71.4 0 1 1 11 0 1 4 0 0
+p145
+aVJordan Crawford WAS 04/01/2012 WAS @ TOR L 31 18 6 15 40.0 2 6 33.3 4 5 80.0 0 2 2 2 0 0 2 4 -6
+p146
+aVShelvin Mack WAS 04/01/2012 WAS @ TOR L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 -7
+p147
+aVKevin Seraphin WAS 04/01/2012 WAS @ TOR L 35 16 8 14 57.1 0 0 - 0 0 - 3 4 7 2 1 0 1 3 -9
+p148
+aVJan Vesely WAS 04/01/2012 WAS @ TOR L 35 10 5 8 62.5 0 0 - 0 0 - 2 2 4 4 0 0 2 3 -4
+p149
+aVBrian Cook WAS 04/01/2012 WAS @ TOR L 17 4 2 7 28.6 0 3 0.0 0 0 - 0 3 3 0 0 1 2 2 -7
+p150
+aVChris Singleton WAS 04/01/2012 WAS @ TOR L 34 15 5 8 62.5 4 4 100.0 1 2 50.0 1 7 8 1 1 0 0 6 4
+p151
+aVCartier Martin WAS 04/01/2012 WAS @ TOR L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 4 -9
+p152
+aVRoger Mason Jr. WAS 04/01/2012 WAS @ TOR L 27 12 3 8 37.5 2 4 50.0 4 4 100.0 0 2 2 2 0 2 1 0 3
+p153
+aVNene WAS 03/30/2012 WAS vs. PHI W 25 16 7 11 63.6 0 0 - 2 2 100.0 1 7 8 4 1 0 1 1 8
+p154
+aVJan Vesely WAS 03/30/2012 WAS vs. PHI W 29 6 3 6 50.0 0 0 - 0 0 - 4 7 11 1 0 1 0 3 16
+p155
+aVTrevor Booker WAS 03/30/2012 WAS vs. PHI W 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p156
+aVJordan Crawford WAS 03/30/2012 WAS vs. PHI W 31 17 7 17 41.2 1 3 33.3 2 2 100.0 1 3 4 3 3 0 1 0 10
+p157
+aVCartier Martin WAS 03/30/2012 WAS vs. PHI W 26 20 8 12 66.7 4 7 57.1 0 0 - 1 5 6 0 0 0 1 2 20
+p158
+aVJohn Wall WAS 03/30/2012 WAS vs. PHI W 34 9 4 12 33.3 0 1 0.0 1 1 100.0 0 6 6 6 1 3 3 4 17
+p159
+aVShelvin Mack WAS 03/30/2012 WAS vs. PHI W 14 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 1 2 4
+p160
+aVRoger Mason Jr. WAS 03/30/2012 WAS vs. PHI W 16 7 2 4 50.0 2 4 50.0 1 1 100.0 0 3 3 3 0 0 2 1 9
+p161
+aVKevin Seraphin WAS 03/30/2012 WAS vs. PHI W 35 14 7 11 63.6 0 0 - 0 0 - 3 4 7 3 0 2 4 2 19
+p162
+aVChris Singleton WAS 03/30/2012 WAS vs. PHI W 23 6 3 7 42.9 0 1 0.0 0 0 - 2 4 6 2 0 1 0 1 1
+p163
+aVJan Vesely WAS 03/29/2012 WAS @ IND L 13 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 2 0 4 -12
+p164
+aVTrevor Booker WAS 03/29/2012 WAS @ IND L 29 6 2 6 33.3 0 0 - 2 4 50.0 6 5 11 2 1 2 1 0 4
+p165
+aVJordan Crawford WAS 03/29/2012 WAS @ IND L 32 20 8 20 40.0 3 10 30.0 1 2 50.0 1 1 2 3 0 0 5 3 1
+p166
+aVBrian Cook WAS 03/29/2012 WAS @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p167
+aVChris Singleton WAS 03/29/2012 WAS @ IND L 27 8 3 6 50.0 1 2 50.0 1 1 100.0 0 1 1 0 0 1 2 3 -1
+p168
+aVRoger Mason Jr. WAS 03/29/2012 WAS @ IND L 17 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 3 0 0 0 0 -3
+p169
+aVKevin Seraphin WAS 03/29/2012 WAS @ IND L 21 8 4 8 50.0 0 0 - 0 0 - 1 3 4 1 0 3 1 2 -4
+p170
+aVCartier Martin WAS 03/29/2012 WAS @ IND L 20 10 4 7 57.1 2 4 50.0 0 2 0.0 1 4 5 0 1 0 0 1 -5
+p171
+aVJohn Wall WAS 03/29/2012 WAS @ IND L 34 13 4 9 44.4 0 1 0.0 5 8 62.5 1 1 2 2 2 1 5 4 2
+p172
+aVNene WAS 03/29/2012 WAS @ IND L 33 16 5 12 41.7 0 0 - 6 6 100.0 4 9 13 2 1 1 1 3 4
+p173
+aVShelvin Mack WAS 03/29/2012 WAS @ IND L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 4 0 0 2 2 -6
+p174
+aVChris Singleton WAS 03/26/2012 WAS vs. DET L 30 1 0 5 0.0 0 2 0.0 1 2 50.0 3 4 7 2 1 0 2 3 -5
+p175
+aVKevin Seraphin WAS 03/26/2012 WAS vs. DET L 26 12 6 9 66.7 0 0 - 0 0 - 3 2 5 0 0 1 4 4 1
+p176
+aVJohn Wall WAS 03/26/2012 WAS vs. DET L 38 14 6 17 35.3 1 1 100.0 1 1 100.0 0 7 7 9 2 1 3 2 -4
+p177
+aVShelvin Mack WAS 03/26/2012 WAS vs. DET L 10 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 2
+p178
+aVBrian Cook WAS 03/26/2012 WAS vs. DET L 14 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 1 0 1 4 2
+p179
+aVRoger Mason Jr. WAS 03/26/2012 WAS vs. DET L 27 9 3 10 30.0 1 6 16.7 2 3 66.7 0 4 4 1 0 0 1 1 -3
+p180
+aVNene WAS 03/26/2012 WAS vs. DET L 28 8 3 8 37.5 0 1 0.0 2 4 50.0 1 8 9 1 2 0 3 2 -2
+p181
+aVJan Vesely WAS 03/26/2012 WAS vs. DET L 28 6 2 5 40.0 0 0 - 2 3 66.7 0 3 3 1 0 1 0 4 -5
+p182
+aVJordan Crawford WAS 03/26/2012 WAS vs. DET L 39 20 9 16 56.3 1 5 20.0 1 1 100.0 0 2 2 5 3 0 1 2 4
+p183
+aVJan Vesely WAS 03/25/2012 WAS @ BOS L 25 11 5 6 83.3 0 0 - 1 2 50.0 3 3 6 1 1 1 3 4 -2
+p184
+aVJordan Crawford WAS 03/25/2012 WAS @ BOS L 32 20 8 18 44.4 1 5 20.0 3 3 100.0 2 1 3 1 0 0 1 0 -7
+p185
+aVShelvin Mack WAS 03/25/2012 WAS @ BOS L 12 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -5
+p186
+aVTrevor Booker WAS 03/25/2012 WAS @ BOS L 30 2 1 7 14.3 0 0 - 0 0 - 3 9 12 0 0 0 3 1 -14
+p187
+aVKevin Seraphin WAS 03/25/2012 WAS @ BOS L 37 15 6 15 40.0 0 0 - 3 6 50.0 7 4 11 0 2 1 2 4 -13
+p188
+aVChris Singleton WAS 03/25/2012 WAS @ BOS L 30 11 3 10 30.0 2 5 40.0 3 4 75.0 0 4 4 0 1 0 1 4 -14
+p189
+aVRoger Mason Jr. WAS 03/25/2012 WAS @ BOS L 16 4 2 4 50.0 0 2 0.0 0 0 - 1 1 2 0 0 0 1 0 -4
+p190
+aVBrian Cook WAS 03/25/2012 WAS @ BOS L 4 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 1 0 0 2 5
+p191
+aVMaurice Evans WAS 03/25/2012 WAS @ BOS L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 3
+p192
+aVJohn Wall WAS 03/25/2012 WAS @ BOS L 38 12 5 17 29.4 0 0 - 2 2 100.0 0 2 2 9 1 0 3 1 -10
+p193
+aVEdwin Ubiles WAS 03/25/2012 WAS @ BOS L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p194
+aVRoger Mason Jr. WAS 03/24/2012 WAS vs. ATL L 12 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 8
+p195
+aVJordan Crawford WAS 03/24/2012 WAS vs. ATL L 36 20 9 19 47.4 1 6 16.7 1 1 100.0 1 2 3 2 2 0 1 1 -9
+p196
+aVJohn Wall WAS 03/24/2012 WAS vs. ATL L 32 8 1 10 10.0 0 2 0.0 6 6 100.0 0 2 2 3 2 0 2 1 3
+p197
+aVEdwin Ubiles WAS 03/24/2012 WAS vs. ATL L 18 10 4 8 50.0 1 3 33.3 1 1 100.0 0 2 2 0 0 1 0 0 -6
+p198
+aVKevin Seraphin WAS 03/24/2012 WAS vs. ATL L 15 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -6
+p199
+aVNene WAS 03/24/2012 WAS vs. ATL L 33 21 9 13 69.2 0 0 - 3 4 75.0 4 7 11 2 0 3 1 3 5
+p200
+aVShelvin Mack WAS 03/24/2012 WAS vs. ATL L 16 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -6
+p201
+aVJan Vesely WAS 03/24/2012 WAS vs. ATL L 15 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 1 1 0 0 1 -5
+p202
+aVChris Singleton WAS 03/24/2012 WAS vs. ATL L 30 9 4 11 36.4 1 6 16.7 0 0 - 0 1 1 1 0 0 1 5 1
+p203
+aVTrevor Booker WAS 03/24/2012 WAS vs. ATL L 32 8 4 8 50.0 0 0 - 0 0 - 5 9 14 3 0 0 3 5 0
+p204
+aVNene WAS 03/22/2012 WAS vs. IND L 31 6 3 9 33.3 0 0 - 0 2 0.0 1 4 5 2 2 0 3 4 -10
+p205
+aVEdwin Ubiles WAS 03/22/2012 WAS vs. IND L 12 0 0 4 0.0 0 1 0.0 0 0 - 2 2 4 1 0 0 0 0 -7
+p206
+aVJohn Wall WAS 03/22/2012 WAS vs. IND L 41 16 4 11 36.4 0 2 0.0 8 10 80.0 0 4 4 9 1 0 3 1 -4
+p207
+aVKevin Seraphin WAS 03/22/2012 WAS vs. IND L 19 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 2 4
+p208
+aVJordan Crawford WAS 03/22/2012 WAS vs. IND L 33 21 7 15 46.7 2 9 22.2 5 6 83.3 0 3 3 5 3 0 2 2 4
+p209
+aVJan Vesely WAS 03/22/2012 WAS vs. IND L 13 4 1 1 100.0 0 0 - 2 2 100.0 0 5 5 0 0 0 1 2 6
+p210
+aVTrevor Booker WAS 03/22/2012 WAS vs. IND L 32 8 4 8 50.0 0 0 - 0 0 - 1 6 7 2 1 1 2 4 -4
+p211
+aVChris Singleton WAS 03/22/2012 WAS vs. IND L 36 16 6 10 60.0 3 4 75.0 1 1 100.0 0 1 1 0 2 1 1 4 5
+p212
+aVRoger Mason Jr. WAS 03/22/2012 WAS vs. IND L 15 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -6
+p213
+aVShelvin Mack WAS 03/22/2012 WAS vs. IND L 7 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 0 1 2
+p214
+aVTrevor Booker WAS 03/21/2012 WAS @ NJN W 30 6 2 6 33.3 0 0 - 2 2 100.0 5 4 9 0 1 0 0 3 16
+p215
+aVRoger Mason Jr. WAS 03/21/2012 WAS @ NJN W 23 16 6 11 54.5 4 9 44.4 0 0 - 0 1 1 0 1 1 1 4 2
+p216
+aVChris Singleton WAS 03/21/2012 WAS @ NJN W 30 5 2 10 20.0 1 3 33.3 0 1 0.0 1 6 7 3 2 0 1 2 29
+p217
+aVShelvin Mack WAS 03/21/2012 WAS @ NJN W 13 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 1 0 1 1 -7
+p218
+aVJohn Wall WAS 03/21/2012 WAS @ NJN W 35 12 5 13 38.5 0 0 - 2 2 100.0 0 5 5 8 1 1 3 3 26
+p219
+aVJordan Crawford WAS 03/21/2012 WAS @ NJN W 27 23 7 13 53.8 1 4 25.0 8 10 80.0 1 3 4 1 3 0 2 3 11
+p220
+aVEdwin Ubiles WAS 03/21/2012 WAS @ NJN W 16 4 1 4 25.0 0 1 0.0 2 2 100.0 0 4 4 0 1 0 1 1 -6
+p221
+aVJan Vesely WAS 03/21/2012 WAS @ NJN W 18 5 1 3 33.3 0 0 - 3 4 75.0 1 1 2 1 0 0 1 2 3
+p222
+aVNene WAS 03/21/2012 WAS @ NJN W 31 22 9 13 69.2 0 0 - 4 6 66.7 4 6 10 2 0 1 1 1 11
+p223
+aVKevin Seraphin WAS 03/21/2012 WAS @ NJN W 16 12 6 7 85.7 0 0 - 0 0 - 2 1 3 1 0 2 1 5 10
+p224
+aVTrevor Booker WAS 03/18/2012 WAS @ MEM L 37 6 3 8 37.5 0 0 - 0 0 - 1 2 3 1 0 1 2 2 -3
+p225
+aVJan Vesely WAS 03/18/2012 WAS @ MEM L 7 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 1 1 0 2 -3
+p226
+aVBrian Cook WAS 03/18/2012 WAS @ MEM L 8 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 0 0 0 3 6
+p227
+aVJohn Wall WAS 03/18/2012 WAS @ MEM L 34 25 10 16 62.5 0 0 - 5 10 50.0 2 4 6 6 3 3 7 3 -2
+p228
+aVRoger Mason Jr. WAS 03/18/2012 WAS @ MEM L 16 6 2 9 22.2 2 5 40.0 0 0 - 0 1 1 2 0 0 1 3 5
+p229
+aVKevin Seraphin WAS 03/18/2012 WAS @ MEM L 38 12 5 10 50.0 0 1 0.0 2 2 100.0 1 11 12 1 1 2 1 3 -2
+p230
+aVShelvin Mack WAS 03/18/2012 WAS @ MEM L 14 7 3 5 60.0 0 1 0.0 1 1 100.0 1 3 4 3 0 0 2 0 -3
+p231
+aVJordan Crawford WAS 03/18/2012 WAS @ MEM L 32 22 8 17 47.1 2 5 40.0 4 4 100.0 0 1 1 3 1 1 4 2 -6
+p232
+aVAndray Blatche WAS 03/18/2012 WAS @ MEM L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -8
+p233
+aVMaurice Evans WAS 03/18/2012 WAS @ MEM L 14 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 3 4
+p234
+aVChris Singleton WAS 03/18/2012 WAS @ MEM L 33 2 1 3 33.3 0 1 0.0 0 2 0.0 2 6 8 0 5 3 1 3 -13
+p235
+aVJordan Crawford WAS 03/16/2012 WAS @ ATL L 27 6 2 9 22.2 1 3 33.3 1 2 50.0 2 1 3 2 0 0 2 2 -11
+p236
+aVKevin Seraphin WAS 03/16/2012 WAS @ ATL L 29 10 5 7 71.4 0 0 - 0 0 - 2 5 7 1 0 4 2 2 -3
+p237
+aVShelvin Mack WAS 03/16/2012 WAS @ ATL L 22 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 4 1 0 1 0 -4
+p238
+aVTrevor Booker WAS 03/16/2012 WAS @ ATL L 33 18 8 14 57.1 0 0 - 2 2 100.0 1 8 9 0 1 1 3 2 -21
+p239
+aVRoger Mason Jr. WAS 03/16/2012 WAS @ ATL L 25 12 5 9 55.6 2 5 40.0 0 0 - 0 1 1 1 1 0 1 2 -2
+p240
+aVMaurice Evans WAS 03/16/2012 WAS @ ATL L 13 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 2 -10
+p241
+aVJohn Wall WAS 03/16/2012 WAS @ ATL L 39 14 6 13 46.2 0 0 - 2 2 100.0 2 5 7 9 0 0 9 1 -9
+p242
+aVJan Vesely WAS 03/16/2012 WAS @ ATL L 13 7 3 3 100.0 0 0 - 1 1 100.0 2 2 4 1 1 0 1 1 4
+p243
+aVChris Singleton WAS 03/16/2012 WAS @ ATL L 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 4 -6
+p244
+aVAndray Blatche WAS 03/16/2012 WAS @ ATL L 22 11 5 10 50.0 0 0 - 1 2 50.0 0 3 3 0 0 1 1 0 -8
+p245
+aVRoger Mason Jr. WAS 03/15/2012 WAS @ NOH W 19 19 7 9 77.8 4 6 66.7 1 1 100.0 0 2 2 1 1 0 0 0 0
+p246
+aVJohn Wall WAS 03/15/2012 WAS @ NOH W 42 26 11 16 68.8 0 1 0.0 4 4 100.0 1 3 4 12 3 1 5 4 7
+p247
+aVKevin Seraphin WAS 03/15/2012 WAS @ NOH W 29 12 5 7 71.4 0 0 - 2 2 100.0 1 8 9 1 0 2 2 5 5
+p248
+aVTrevor Booker WAS 03/15/2012 WAS @ NOH W 41 14 5 8 62.5 0 0 - 4 4 100.0 1 4 5 1 0 2 3 3 5
+p249
+aVMaurice Evans WAS 03/15/2012 WAS @ NOH W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p250
+aVAndray Blatche WAS 03/15/2012 WAS @ NOH W 21 4 2 9 22.2 0 0 - 0 0 - 0 4 4 1 1 3 2 1 9
+p251
+aVChris Singleton WAS 03/15/2012 WAS @ NOH W 20 2 1 5 20.0 0 2 0.0 0 0 - 0 5 5 0 0 0 0 0 0
+p252
+aVShelvin Mack WAS 03/15/2012 WAS @ NOH W 23 5 2 3 66.7 1 1 100.0 0 0 - 0 4 4 2 0 0 0 2 13
+p253
+aVJordan Crawford WAS 03/15/2012 WAS @ NOH W 34 17 6 16 37.5 1 7 14.3 4 6 66.7 1 0 1 2 2 0 2 1 7
+p254
+aVJan Vesely WAS 03/15/2012 WAS @ NOH W 5 0 0 1 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 1
+p255
+aVShelvin Mack WAS 03/13/2012 WAS @ DAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p256
+aVRoger Mason Jr. WAS 03/13/2012 WAS @ DAL L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 1 1 -5
+p257
+aVJordan Crawford WAS 03/13/2012 WAS @ DAL L 31 15 5 17 29.4 1 4 25.0 4 4 100.0 0 5 5 3 1 0 2 2 -1
+p258
+aVJohn Wall WAS 03/13/2012 WAS @ DAL L 42 18 6 14 42.9 0 0 - 6 9 66.7 1 2 3 10 3 0 1 2 -6
+p259
+aVChris Singleton WAS 03/13/2012 WAS @ DAL L 21 5 1 3 33.3 0 2 0.0 3 4 75.0 2 4 6 0 1 0 0 3 5
+p260
+aVTrevor Booker WAS 03/13/2012 WAS @ DAL L 31 20 8 13 61.5 0 0 - 4 8 50.0 4 8 12 0 0 0 1 4 5
+p261
+aVAndray Blatche WAS 03/13/2012 WAS @ DAL L 18 11 5 9 55.6 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 -17
+p262
+aVJan Vesely WAS 03/13/2012 WAS @ DAL L 17 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -14
+p263
+aVNick Young WAS 03/13/2012 WAS @ DAL L 33 15 5 11 45.5 1 4 25.0 4 6 66.7 0 3 3 2 1 0 3 1 -16
+p264
+aVJaVale McGee WAS 03/13/2012 WAS @ DAL L 30 12 4 9 44.4 0 0 - 4 5 80.0 2 3 5 1 0 3 1 0 7
+p265
+aVJan Vesely WAS 03/12/2012 WAS @ SAS L 16 0 0 0 - 0 0 - 0 0 - 2 1 3 1 1 0 0 0 -6
+p266
+aVShelvin Mack WAS 03/12/2012 WAS @ SAS L 14 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 3 1 0 1 3 -11
+p267
+aVNick Young WAS 03/12/2012 WAS @ SAS L 24 18 7 10 70.0 4 5 80.0 0 0 - 0 2 2 0 1 1 3 2 -8
+p268
+aVKevin Seraphin WAS 03/12/2012 WAS @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p269
+aVTrevor Booker WAS 03/12/2012 WAS @ SAS L 32 11 5 13 38.5 0 0 - 1 2 50.0 1 2 3 2 1 0 1 1 -9
+p270
+aVJohn Wall WAS 03/12/2012 WAS @ SAS L 34 12 5 14 35.7 0 0 - 2 2 100.0 0 3 3 5 1 1 2 0 -4
+p271
+aVChris Singleton WAS 03/12/2012 WAS @ SAS L 24 3 1 1 100.0 1 1 100.0 0 0 - 1 4 5 1 0 2 0 2 -7
+p272
+aVAndray Blatche WAS 03/12/2012 WAS @ SAS L 17 9 3 10 30.0 0 0 - 3 4 75.0 1 3 4 1 0 0 0 2 -15
+p273
+aVJordan Crawford WAS 03/12/2012 WAS @ SAS L 35 19 7 18 38.9 3 6 50.0 2 2 100.0 0 4 4 5 0 0 2 1 -11
+p274
+aVRoger Mason Jr. WAS 03/12/2012 WAS @ SAS L 13 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 2 0 0 0 2 -4
+p275
+aVJaVale McGee WAS 03/12/2012 WAS @ SAS L 29 21 9 13 69.2 0 0 - 3 4 75.0 7 8 15 1 1 1 1 2 0
+p276
+aVJohn Wall WAS 03/10/2012 WAS vs. POR L 38 25 9 19 47.4 0 0 - 7 10 70.0 1 3 4 8 0 0 0 1 -7
+p277
+aVJaVale McGee WAS 03/10/2012 WAS vs. POR L 24 15 7 10 70.0 0 0 - 1 1 100.0 1 3 4 0 0 0 2 3 -9
+p278
+aVTrevor Booker WAS 03/10/2012 WAS vs. POR L 34 9 3 5 60.0 0 0 - 3 5 60.0 3 7 10 2 1 1 3 2 -7
+p279
+aVKevin Seraphin WAS 03/10/2012 WAS vs. POR L 18 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 1 4 0
+p280
+aVAndray Blatche WAS 03/10/2012 WAS vs. POR L 14 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 4 -4
+p281
+aVChris Singleton WAS 03/10/2012 WAS vs. POR L 30 12 5 8 62.5 2 4 50.0 0 0 - 0 7 7 2 0 0 1 4 -5
+p282
+aVNick Young WAS 03/10/2012 WAS vs. POR L 28 10 4 16 25.0 1 6 16.7 1 3 33.3 0 3 3 0 1 0 0 1 -7
+p283
+aVShelvin Mack WAS 03/10/2012 WAS vs. POR L 10 4 2 4 50.0 0 0 - 0 0 - 2 0 2 2 0 0 0 0 -4
+p284
+aVRoger Mason Jr. WAS 03/10/2012 WAS vs. POR L 15 8 3 5 60.0 2 4 50.0 0 0 - 1 3 4 2 0 0 0 0 -5
+p285
+aVJordan Crawford WAS 03/10/2012 WAS vs. POR L 28 8 3 10 30.0 0 2 0.0 2 4 50.0 0 0 0 1 1 0 1 3 -7
+p286
+aVKevin Seraphin WAS 03/07/2012 WAS vs. LAL W 25 14 7 8 87.5 0 0 - 0 0 - 4 5 9 0 1 1 1 2 8
+p287
+aVChris Singleton WAS 03/07/2012 WAS vs. LAL W 20 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 0 0 0 0 2 -5
+p288
+aVRoger Mason Jr. WAS 03/07/2012 WAS vs. LAL W 12 14 5 8 62.5 4 7 57.1 0 0 - 0 1 1 0 0 0 0 1 16
+p289
+aVJaVale McGee WAS 03/07/2012 WAS vs. LAL W 23 12 6 10 60.0 0 0 - 0 0 - 2 10 12 1 0 1 2 4 -3
+p290
+aVJordan Crawford WAS 03/07/2012 WAS vs. LAL W 30 14 6 19 31.6 0 6 0.0 2 2 100.0 0 1 1 5 1 1 2 3 -2
+p291
+aVNick Young WAS 03/07/2012 WAS vs. LAL W 29 19 7 19 36.8 1 9 11.1 4 4 100.0 1 0 1 6 2 1 2 2 8
+p292
+aVTrevor Booker WAS 03/07/2012 WAS vs. LAL W 38 18 7 9 77.8 1 1 100.0 3 7 42.9 8 9 17 1 1 1 1 5 15
+p293
+aVJohn Wall WAS 03/07/2012 WAS vs. LAL W 30 4 1 8 12.5 0 0 - 2 4 50.0 0 2 2 9 0 1 5 2 -3
+p294
+aVAndray Blatche WAS 03/07/2012 WAS vs. LAL W 10 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -11
+p295
+aVMaurice Evans WAS 03/07/2012 WAS vs. LAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p296
+aVShelvin Mack WAS 03/07/2012 WAS vs. LAL W 18 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 2 2 1 0 0 8
+p297
+aVJordan Crawford WAS 03/05/2012 WAS vs. GSW L 22 5 2 13 15.4 1 6 16.7 0 0 - 1 2 3 2 3 0 3 0 -3
+p298
+aVNick Young WAS 03/05/2012 WAS vs. GSW L 26 25 9 14 64.3 4 6 66.7 3 4 75.0 1 1 2 0 1 0 0 1 -17
+p299
+aVChris Singleton WAS 03/05/2012 WAS vs. GSW L 21 2 1 7 14.3 0 4 0.0 0 0 - 2 2 4 2 3 0 1 2 -13
+p300
+aVRoger Mason Jr. WAS 03/05/2012 WAS vs. GSW L 21 7 2 7 28.6 2 5 40.0 1 2 50.0 0 2 2 2 2 0 0 0 5
+p301
+aVJohn Wall WAS 03/05/2012 WAS vs. GSW L 38 20 7 10 70.0 0 0 - 6 7 85.7 1 5 6 14 1 0 2 2 -1
+p302
+aVTrevor Booker WAS 03/05/2012 WAS vs. GSW L 28 14 6 10 60.0 0 0 - 2 3 66.7 3 1 4 1 1 0 0 2 0
+p303
+aVKevin Seraphin WAS 03/05/2012 WAS vs. GSW L 6 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 1 0 1 0 1 0
+p304
+aVMaurice Evans WAS 03/05/2012 WAS vs. GSW L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -12
+p305
+aVShelvin Mack WAS 03/05/2012 WAS vs. GSW L 10 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 0 -20
+p306
+aVAndray Blatche WAS 03/05/2012 WAS vs. GSW L 13 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -20
+p307
+aVJan Vesely WAS 03/05/2012 WAS vs. GSW L 22 7 1 3 33.3 0 0 - 5 11 45.5 3 6 9 1 0 1 4 2 -16
+p308
+aVJaVale McGee WAS 03/05/2012 WAS vs. GSW L 26 10 4 9 44.4 0 0 - 2 6 33.3 5 5 10 1 0 2 3 4 -3
+p309
+aVJohn Wall WAS 03/03/2012 WAS vs. CLE W 36 24 8 17 47.1 0 0 - 8 10 80.0 2 3 5 5 2 1 3 3 -8
+p310
+aVRoger Mason Jr. WAS 03/03/2012 WAS vs. CLE W 14 11 4 7 57.1 2 4 50.0 1 1 100.0 0 3 3 0 0 0 2 1 14
+p311
+aVChris Singleton WAS 03/03/2012 WAS vs. CLE W 20 0 0 2 0.0 0 1 0.0 0 0 - 1 4 5 1 2 0 0 2 -12
+p312
+aVJordan Crawford WAS 03/03/2012 WAS vs. CLE W 34 31 13 22 59.1 5 11 45.5 0 1 0.0 0 3 3 3 1 0 4 1 -8
+p313
+aVMaurice Evans WAS 03/03/2012 WAS vs. CLE W 28 7 3 7 42.9 1 4 25.0 0 0 - 0 1 1 1 2 0 0 3 13
+p314
+aVJan Vesely WAS 03/03/2012 WAS vs. CLE W 22 9 4 7 57.1 0 0 - 1 2 50.0 1 4 5 1 1 2 3 4 -1
+p315
+aVAndray Blatche WAS 03/03/2012 WAS vs. CLE W 21 1 0 3 0.0 0 0 - 1 2 50.0 4 5 9 5 0 1 1 0 -1
+p316
+aVShelvin Mack WAS 03/03/2012 WAS vs. CLE W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 5 0 0 1 1 14
+p317
+aVJaVale McGee WAS 03/03/2012 WAS vs. CLE W 25 9 4 10 40.0 0 0 - 1 3 33.3 4 8 12 2 1 4 3 3 5
+p318
+aVTrevor Booker WAS 03/03/2012 WAS vs. CLE W 27 9 4 9 44.4 0 0 - 1 2 50.0 3 3 6 3 1 1 1 6 -1
+p319
+aVNick Young WAS 02/29/2012 WAS vs. ORL L 19 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 3 2 -3
+p320
+aVRoger Mason Jr. WAS 02/29/2012 WAS vs. ORL L 8 4 1 3 33.3 1 1 100.0 1 1 100.0 0 1 1 0 0 0 0 0 9
+p321
+aVMaurice Evans WAS 02/29/2012 WAS vs. ORL L 22 7 3 8 37.5 1 3 33.3 0 0 - 2 0 2 1 0 0 1 2 -3
+p322
+aVJohn Wall WAS 02/29/2012 WAS vs. ORL L 43 33 13 25 52.0 0 2 0.0 7 10 70.0 0 3 3 4 2 0 1 3 -4
+p323
+aVKevin Seraphin WAS 02/29/2012 WAS vs. ORL L 16 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 2 0 1 -5
+p324
+aVShelvin Mack WAS 02/29/2012 WAS vs. ORL L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 2 0 0 0 -3
+p325
+aVChris Singleton WAS 02/29/2012 WAS vs. ORL L 36 6 2 5 40.0 1 1 100.0 1 2 50.0 1 1 2 2 2 0 1 4 -1
+p326
+aVJaVale McGee WAS 02/29/2012 WAS vs. ORL L 16 9 4 8 50.0 0 0 - 1 1 100.0 3 3 6 0 0 1 0 2 -12
+p327
+aVJordan Crawford WAS 02/29/2012 WAS vs. ORL L 30 18 7 18 38.9 2 6 33.3 2 2 100.0 1 3 4 5 1 0 3 4 -7
+p328
+aVTrevor Booker WAS 02/29/2012 WAS vs. ORL L 40 7 3 9 33.3 0 0 - 1 1 100.0 5 8 13 1 3 2 1 4 -7
+p329
+aVJan Vesely WAS 02/29/2012 WAS vs. ORL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 1
+p330
+aVJan Vesely WAS 02/28/2012 WAS @ MIL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p331
+aVShelvin Mack WAS 02/28/2012 WAS @ MIL L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -7
+p332
+aVTrevor Booker WAS 02/28/2012 WAS @ MIL L 31 20 9 16 56.3 0 0 - 2 2 100.0 5 6 11 1 0 1 1 5 -5
+p333
+aVMaurice Evans WAS 02/28/2012 WAS @ MIL L 20 15 6 7 85.7 3 4 75.0 0 0 - 0 3 3 2 1 0 1 2 21
+p334
+aVJaVale McGee WAS 02/28/2012 WAS @ MIL L 17 4 2 4 50.0 0 0 - 0 0 - 0 6 6 0 0 1 0 1 -8
+p335
+aVKevin Seraphin WAS 02/28/2012 WAS @ MIL L 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 1
+p336
+aVNick Young WAS 02/28/2012 WAS @ MIL L 20 7 3 11 27.3 1 5 20.0 0 0 - 1 1 2 0 1 1 0 2 -1
+p337
+aVJohn Wall WAS 02/28/2012 WAS @ MIL L 43 19 5 13 38.5 0 1 0.0 9 9 100.0 0 5 5 15 1 0 7 0 6
+p338
+aVChris Singleton WAS 02/28/2012 WAS @ MIL L 40 16 4 14 28.6 2 4 50.0 6 6 100.0 6 3 9 3 1 2 0 4 12
+p339
+aVJordan Crawford WAS 02/28/2012 WAS @ MIL L 28 19 6 11 54.5 3 4 75.0 4 4 100.0 0 3 3 1 1 0 3 3 0
+p340
+aVRoger Mason Jr. WAS 02/28/2012 WAS @ MIL L 17 14 5 7 71.4 4 6 66.7 0 0 - 0 2 2 1 0 1 1 2 -16
+p341
+aVNick Young WAS 02/22/2012 WAS vs. SAC L 35 17 6 23 26.1 4 10 40.0 1 1 100.0 1 1 2 1 1 0 2 2 -15
+p342
+aVRashard Lewis WAS 02/22/2012 WAS vs. SAC L 30 7 2 7 28.6 0 2 0.0 3 4 75.0 2 4 6 2 0 1 1 5 5
+p343
+aVTrevor Booker WAS 02/22/2012 WAS vs. SAC L 17 3 1 3 33.3 0 0 - 1 2 50.0 3 3 6 0 2 0 3 4 -11
+p344
+aVJaVale McGee WAS 02/22/2012 WAS vs. SAC L 25 9 4 4 100.0 0 0 - 1 3 33.3 3 7 10 2 0 1 3 2 -13
+p345
+aVChris Singleton WAS 02/22/2012 WAS vs. SAC L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 1 0 1 -1
+p346
+aVJordan Crawford WAS 02/22/2012 WAS vs. SAC L 34 32 12 19 63.2 3 6 50.0 5 6 83.3 1 1 2 4 1 0 3 2 -8
+p347
+aVJohn Wall WAS 02/22/2012 WAS vs. SAC L 38 21 8 15 53.3 0 0 - 5 7 71.4 0 9 9 11 3 2 5 1 -5
+p348
+aVRoger Mason Jr. WAS 02/22/2012 WAS vs. SAC L 14 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 2 0 0 1 0 8
+p349
+aVShelvin Mack WAS 02/22/2012 WAS vs. SAC L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p350
+aVJan Vesely WAS 02/22/2012 WAS vs. SAC L 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -2
+p351
+aVKevin Seraphin WAS 02/22/2012 WAS vs. SAC L 23 6 3 3 100.0 0 0 - 0 2 0.0 2 4 6 0 0 1 0 3 5
+p352
+aVShelvin Mack WAS 02/20/2012 WAS @ PHX L 17 3 1 4 25.0 0 1 0.0 1 2 50.0 0 4 4 2 0 0 1 0 10
+p353
+aVJan Vesely WAS 02/20/2012 WAS @ PHX L 11 0 0 1 0.0 0 0 - 0 0 - 3 1 4 1 0 0 0 4 0
+p354
+aVJohn Wall WAS 02/20/2012 WAS @ PHX L 31 10 4 11 36.4 0 1 0.0 2 3 66.7 0 6 6 6 0 0 4 2 -26
+p355
+aVJordan Crawford WAS 02/20/2012 WAS @ PHX L 26 20 7 10 70.0 2 5 40.0 4 5 80.0 0 3 3 2 1 0 4 2 -8
+p356
+aVJaVale McGee WAS 02/20/2012 WAS @ PHX L 20 10 5 11 45.5 0 0 - 0 3 0.0 3 6 9 0 1 2 1 3 -7
+p357
+aVRoger Mason Jr. WAS 02/20/2012 WAS @ PHX L 22 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 1 1 0 1 1 2
+p358
+aVKevin Seraphin WAS 02/20/2012 WAS @ PHX L 16 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 0 0 2 0 0 -3
+p359
+aVRashard Lewis WAS 02/20/2012 WAS @ PHX L 30 3 1 6 16.7 0 3 0.0 1 2 50.0 0 2 2 2 2 1 2 2 -12
+p360
+aVChris Singleton WAS 02/20/2012 WAS @ PHX L 14 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 3 -3
+p361
+aVTrevor Booker WAS 02/20/2012 WAS @ PHX L 25 16 7 12 58.3 0 0 - 2 2 100.0 4 4 8 1 1 1 0 2 -14
+p362
+aVNick Young WAS 02/20/2012 WAS @ PHX L 29 6 3 13 23.1 0 4 0.0 0 0 - 0 2 2 1 0 0 2 4 -19
+p363
+aVJohn Wall WAS 02/17/2012 WAS @ UTA L 39 24 8 12 66.7 0 0 - 8 8 100.0 0 4 4 5 2 0 4 2 -14
+p364
+aVRashard Lewis WAS 02/17/2012 WAS @ UTA L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 1 0 0 2 2
+p365
+aVTrevor Booker WAS 02/17/2012 WAS @ UTA L 26 4 1 5 20.0 0 0 - 2 4 50.0 2 2 4 1 2 0 2 3 -14
+p366
+aVChris Singleton WAS 02/17/2012 WAS @ UTA L 17 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 0 0 1 1 0 -12
+p367
+aVRoger Mason Jr. WAS 02/17/2012 WAS @ UTA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 4
+p368
+aVJan Vesely WAS 02/17/2012 WAS @ UTA L 25 10 5 7 71.4 0 0 - 0 0 - 3 2 5 1 1 0 2 3 -9
+p369
+aVKevin Seraphin WAS 02/17/2012 WAS @ UTA L 19 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 0 0 2 1 3 12
+p370
+aVShelvin Mack WAS 02/17/2012 WAS @ UTA L 9 3 1 6 16.7 0 3 0.0 1 2 50.0 0 1 1 2 1 0 1 1 0
+p371
+aVJaVale McGee WAS 02/17/2012 WAS @ UTA L 25 15 7 14 50.0 0 0 - 1 2 50.0 5 1 6 1 0 3 2 1 -17
+p372
+aVNick Young WAS 02/17/2012 WAS @ UTA L 25 10 4 12 33.3 0 1 0.0 2 2 100.0 0 3 3 1 0 0 1 1 -17
+p373
+aVJordan Crawford WAS 02/17/2012 WAS @ UTA L 32 21 7 14 50.0 1 4 25.0 6 6 100.0 1 5 6 3 0 0 1 2 -5
+p374
+aVNick Young WAS 02/15/2012 WAS @ LAC L 35 14 5 18 27.8 3 10 30.0 1 1 100.0 0 1 1 1 0 0 2 3 -21
+p375
+aVRashard Lewis WAS 02/15/2012 WAS @ LAC L 17 2 0 3 0.0 0 1 0.0 2 2 100.0 1 3 4 0 1 0 0 1 -4
+p376
+aVJordan Crawford WAS 02/15/2012 WAS @ LAC L 32 12 5 15 33.3 2 8 25.0 0 0 - 1 2 3 2 0 0 3 1 -17
+p377
+aVChris Singleton WAS 02/15/2012 WAS @ LAC L 20 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 3 0 0 2 -4
+p378
+aVKevin Seraphin WAS 02/15/2012 WAS @ LAC L 9 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 1 4 -9
+p379
+aVJaVale McGee WAS 02/15/2012 WAS @ LAC L 34 18 7 10 70.0 0 0 - 4 6 66.7 1 4 5 0 0 2 2 5 -13
+p380
+aVJohn Wall WAS 02/15/2012 WAS @ LAC L 41 18 4 13 30.8 0 1 0.0 10 12 83.3 1 5 6 12 1 1 5 2 -23
+p381
+aVJan Vesely WAS 02/15/2012 WAS @ LAC L 15 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 5 5
+p382
+aVRoger Mason Jr. WAS 02/15/2012 WAS @ LAC L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p383
+aVTrevor Booker WAS 02/15/2012 WAS @ LAC L 28 9 4 5 80.0 0 0 - 1 5 20.0 4 4 8 0 0 1 1 5 -9
+p384
+aVShelvin Mack WAS 02/15/2012 WAS @ LAC L 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p385
+aVJaVale McGee WAS 02/14/2012 WAS @ POR W 33 18 7 13 53.8 0 0 - 4 6 66.7 6 5 11 2 0 1 0 0 7
+p386
+aVMaurice Evans WAS 02/14/2012 WAS @ POR W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p387
+aVTrevor Booker WAS 02/14/2012 WAS @ POR W 23 6 3 7 42.9 0 0 - 0 0 - 3 3 6 1 0 0 1 4 3
+p388
+aVChris Singleton WAS 02/14/2012 WAS @ POR W 17 4 2 4 50.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 4 6
+p389
+aVJordan Crawford WAS 02/14/2012 WAS @ POR W 30 21 9 16 56.3 1 4 25.0 2 2 100.0 1 1 2 4 3 0 3 1 24
+p390
+aVRashard Lewis WAS 02/14/2012 WAS @ POR W 17 6 3 5 60.0 0 2 0.0 0 0 - 0 4 4 0 1 0 2 4 3
+p391
+aVNick Young WAS 02/14/2012 WAS @ POR W 40 35 12 17 70.6 7 8 87.5 4 4 100.0 1 2 3 0 2 0 1 3 8
+p392
+aVShelvin Mack WAS 02/14/2012 WAS @ POR W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 4
+p393
+aVJohn Wall WAS 02/14/2012 WAS @ POR W 41 29 10 14 71.4 1 1 100.0 8 9 88.9 0 3 3 9 1 2 5 1 11
+p394
+aVJan Vesely WAS 02/14/2012 WAS @ POR W 29 3 1 2 50.0 0 0 - 1 2 50.0 1 8 9 3 0 2 1 6 8
+p395
+aVJohn Wall WAS 02/12/2012 WAS @ DET W 39 9 3 10 30.0 0 1 0.0 3 3 100.0 1 4 5 15 2 2 7 0 28
+p396
+aVShelvin Mack WAS 02/12/2012 WAS @ DET W 9 6 2 4 50.0 1 1 100.0 1 2 50.0 0 1 1 0 0 0 1 0 -7
+p397
+aVMaurice Evans WAS 02/12/2012 WAS @ DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p398
+aVJaVale McGee WAS 02/12/2012 WAS @ DET W 35 22 10 13 76.9 0 0 - 2 3 66.7 1 10 11 0 0 2 4 4 10
+p399
+aVRashard Lewis WAS 02/12/2012 WAS @ DET W 12 10 3 5 60.0 2 4 50.0 2 2 100.0 0 3 3 0 0 0 0 0 22
+p400
+aVJan Vesely WAS 02/12/2012 WAS @ DET W 28 10 4 5 80.0 0 0 - 2 2 100.0 2 6 8 2 2 3 4 2 24
+p401
+aVNick Young WAS 02/12/2012 WAS @ DET W 31 22 8 13 61.5 3 6 50.0 3 3 100.0 1 2 3 1 2 0 2 2 20
+p402
+aVChris Singleton WAS 02/12/2012 WAS @ DET W 28 6 1 6 16.7 0 0 - 4 4 100.0 0 5 5 0 1 0 0 3 1
+p403
+aVTrevor Booker WAS 02/12/2012 WAS @ DET W 30 9 4 9 44.4 0 0 - 1 2 50.0 3 4 7 1 1 2 2 3 12
+p404
+aVJordan Crawford WAS 02/12/2012 WAS @ DET W 21 4 2 12 16.7 0 3 0.0 0 0 - 0 1 1 4 0 0 0 2 5
+p405
+aVKevin Seraphin WAS 02/12/2012 WAS @ DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p406
+aVRoger Mason Jr. WAS 02/10/2012 WAS vs. MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p407
+aVJan Vesely WAS 02/10/2012 WAS vs. MIA L 17 3 1 4 25.0 0 0 - 1 2 50.0 3 0 3 0 0 0 0 3 -8
+p408
+aVNick Young WAS 02/10/2012 WAS vs. MIA L 39 22 7 19 36.8 3 10 30.0 5 5 100.0 1 1 2 1 1 0 4 1 -5
+p409
+aVJordan Crawford WAS 02/10/2012 WAS vs. MIA L 28 6 2 12 16.7 0 4 0.0 2 6 33.3 1 2 3 6 0 0 2 3 -18
+p410
+aVKevin Seraphin WAS 02/10/2012 WAS vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p411
+aVTrevor Booker WAS 02/10/2012 WAS vs. MIA L 39 13 6 13 46.2 0 1 0.0 1 2 50.0 4 11 15 1 4 0 2 3 -14
+p412
+aVJaVale McGee WAS 02/10/2012 WAS vs. MIA L 35 24 10 18 55.6 0 0 - 4 7 57.1 4 9 13 1 0 1 1 2 -16
+p413
+aVShelvin Mack WAS 02/10/2012 WAS vs. MIA L 9 1 0 0 - 0 0 - 1 2 50.0 1 2 3 1 0 0 0 0 -7
+p414
+aVMaurice Evans WAS 02/10/2012 WAS vs. MIA L 14 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 1 0 0 0 1 -12
+p415
+aVChris Singleton WAS 02/10/2012 WAS vs. MIA L 17 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 0 1 0 0 3 2
+p416
+aVJohn Wall WAS 02/10/2012 WAS vs. MIA L 39 15 6 13 46.2 0 0 - 3 4 75.0 0 1 1 10 0 0 7 4 -10
+p417
+aVShelvin Mack WAS 02/08/2012 WAS vs. NYK L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -8
+p418
+aVJan Vesely WAS 02/08/2012 WAS vs. NYK L 15 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 2 5 -21
+p419
+aVTrevor Booker WAS 02/08/2012 WAS vs. NYK L 41 17 8 10 80.0 0 0 - 1 2 50.0 2 5 7 0 0 0 0 1 -4
+p420
+aVJordan Crawford WAS 02/08/2012 WAS vs. NYK L 22 7 2 10 20.0 0 3 0.0 3 3 100.0 2 0 2 3 1 0 2 1 -20
+p421
+aVRoger Mason Jr. WAS 02/08/2012 WAS vs. NYK L 9 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 0 -2
+p422
+aVKevin Seraphin WAS 02/08/2012 WAS vs. NYK L 9 2 1 5 20.0 0 0 - 0 0 - 2 3 5 0 0 1 1 3 -4
+p423
+aVMaurice Evans WAS 02/08/2012 WAS vs. NYK L 21 9 3 7 42.9 1 3 33.3 2 2 100.0 1 1 2 0 0 0 0 2 -15
+p424
+aVJohn Wall WAS 02/08/2012 WAS vs. NYK L 38 29 12 22 54.5 0 2 0.0 5 6 83.3 0 1 1 6 2 1 1 2 -6
+p425
+aVJaVale McGee WAS 02/08/2012 WAS vs. NYK L 20 8 4 6 66.7 0 0 - 0 0 - 1 8 9 0 0 3 2 5 3
+p426
+aVNick Young WAS 02/08/2012 WAS vs. NYK L 32 7 3 11 27.3 0 5 0.0 1 2 50.0 0 4 4 1 0 0 1 5 1
+p427
+aVChris Singleton WAS 02/08/2012 WAS vs. NYK L 23 6 2 5 40.0 1 2 50.0 1 2 50.0 2 6 8 1 2 0 1 3 6
+p428
+aVJordan Crawford WAS 02/06/2012 WAS vs. TOR W 25 13 5 11 45.5 0 1 0.0 3 4 75.0 0 3 3 1 0 0 2 2 -3
+p429
+aVKevin Seraphin WAS 02/06/2012 WAS vs. TOR W 24 0 0 1 0.0 0 0 - 0 2 0.0 1 7 8 1 0 0 1 5 7
+p430
+aVJaVale McGee WAS 02/06/2012 WAS vs. TOR W 28 8 4 9 44.4 0 0 - 0 0 - 3 5 8 1 1 1 1 4 -3
+p431
+aVJan Vesely WAS 02/06/2012 WAS vs. TOR W 10 0 0 0 - 0 0 - 0 0 - 3 0 3 0 0 1 2 4 -9
+p432
+aVTrevor Booker WAS 02/06/2012 WAS vs. TOR W 43 19 7 10 70.0 0 0 - 5 6 83.3 3 1 4 1 3 3 2 3 11
+p433
+aVMaurice Evans WAS 02/06/2012 WAS vs. TOR W 15 3 1 4 25.0 0 3 0.0 1 2 50.0 0 0 0 0 1 0 2 1 -2
+p434
+aVNick Young WAS 02/06/2012 WAS vs. TOR W 41 29 9 21 42.9 2 3 66.7 9 11 81.8 3 2 5 1 1 0 1 2 4
+p435
+aVJohn Wall WAS 02/06/2012 WAS vs. TOR W 44 31 10 18 55.6 0 1 0.0 11 14 78.6 1 4 5 7 2 2 4 3 4
+p436
+aVShelvin Mack WAS 02/06/2012 WAS vs. TOR W 9 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 1 0 1 1 -1
+p437
+aVChris Singleton WAS 02/06/2012 WAS vs. TOR W 24 4 1 4 25.0 1 1 100.0 1 2 50.0 0 2 2 2 0 1 0 4 7
+p438
+aVJohn Wall WAS 02/04/2012 WAS vs. LAC L 29 14 4 8 50.0 0 0 - 6 8 75.0 0 5 5 7 1 0 2 2 -14
+p439
+aVJaVale McGee WAS 02/04/2012 WAS vs. LAC L 22 4 2 7 28.6 0 0 - 0 0 - 2 2 4 0 0 2 2 3 -19
+p440
+aVShelvin Mack WAS 02/04/2012 WAS vs. LAC L 19 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 1 -12
+p441
+aVHamady Ndiaye WAS 02/04/2012 WAS vs. LAC L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p442
+aVJordan Crawford WAS 02/04/2012 WAS vs. LAC L 20 12 4 12 33.3 2 5 40.0 2 3 66.7 2 0 2 2 1 0 0 1 -9
+p443
+aVNick Young WAS 02/04/2012 WAS vs. LAC L 28 14 5 16 31.3 1 5 20.0 3 4 75.0 1 1 2 1 1 1 0 0 -26
+p444
+aVKevin Seraphin WAS 02/04/2012 WAS vs. LAC L 25 8 3 8 37.5 0 0 - 2 4 50.0 5 3 8 0 2 0 1 2 -11
+p445
+aVRashard Lewis WAS 02/04/2012 WAS vs. LAC L 22 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 2 0 3 1 -26
+p446
+aVJan Vesely WAS 02/04/2012 WAS vs. LAC L 20 4 2 5 40.0 0 0 - 0 2 0.0 0 1 1 2 0 0 0 2 -15
+p447
+aVChris Singleton WAS 02/04/2012 WAS vs. LAC L 21 9 3 4 75.0 2 3 66.7 1 2 50.0 1 4 5 4 1 1 1 3 -2
+p448
+aVRoger Mason Jr. WAS 02/04/2012 WAS vs. LAC L 6 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p449
+aVTrevor Booker WAS 02/04/2012 WAS vs. LAC L 26 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 2 3 3 -6
+p450
+aVRashard Lewis WAS 02/03/2012 WAS @ TOR L 32 8 3 10 30.0 0 3 0.0 2 2 100.0 1 2 3 0 0 1 1 1 -15
+p451
+aVJan Vesely WAS 02/03/2012 WAS @ TOR L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -1
+p452
+aVJaVale McGee WAS 02/03/2012 WAS @ TOR L 18 8 2 8 25.0 0 0 - 4 6 66.7 3 3 6 0 0 4 0 4 -10
+p453
+aVTrevor Booker WAS 02/03/2012 WAS @ TOR L 32 13 6 11 54.5 0 0 - 1 2 50.0 3 4 7 2 0 2 0 4 -15
+p454
+aVShelvin Mack WAS 02/03/2012 WAS @ TOR L 17 7 2 5 40.0 1 2 50.0 2 3 66.7 1 3 4 2 1 0 1 0 -6
+p455
+aVChris Singleton WAS 02/03/2012 WAS @ TOR L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -9
+p456
+aVKevin Seraphin WAS 02/03/2012 WAS @ TOR L 26 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 4 0 3 -2
+p457
+aVJordan Crawford WAS 02/03/2012 WAS @ TOR L 26 11 4 13 30.8 2 5 40.0 1 1 100.0 2 2 4 3 1 0 3 2 -17
+p458
+aVNick Young WAS 02/03/2012 WAS @ TOR L 35 21 7 17 41.2 2 4 50.0 5 6 83.3 1 3 4 1 1 1 1 2 -6
+p459
+aVHamady Ndiaye WAS 02/03/2012 WAS @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p460
+aVRoger Mason Jr. WAS 02/03/2012 WAS @ TOR L 4 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 0 1 0 0 0 3
+p461
+aVJohn Wall WAS 02/03/2012 WAS @ TOR L 31 15 6 10 60.0 0 1 0.0 3 5 60.0 0 5 5 4 1 1 2 2 -11
+p462
+aVNick Young WAS 02/01/2012 WAS @ ORL L 21 24 8 13 61.5 4 5 80.0 4 5 80.0 0 3 3 0 0 0 2 5 -16
+p463
+aVJohn Wall WAS 02/01/2012 WAS @ ORL L 32 2 1 12 8.3 0 1 0.0 0 0 - 1 6 7 10 2 1 3 4 -5
+p464
+aVJan Vesely WAS 02/01/2012 WAS @ ORL L 16 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 2 0 0 1 -9
+p465
+aVRashard Lewis WAS 02/01/2012 WAS @ ORL L 36 20 8 12 66.7 3 4 75.0 1 2 50.0 3 5 8 3 2 0 3 3 -13
+p466
+aVKevin Seraphin WAS 02/01/2012 WAS @ ORL L 22 12 6 7 85.7 0 0 - 0 0 - 3 4 7 0 0 2 1 2 13
+p467
+aVHamady Ndiaye WAS 02/01/2012 WAS @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p468
+aVShelvin Mack WAS 02/01/2012 WAS @ ORL L 16 12 5 11 45.5 2 5 40.0 0 0 - 0 2 2 4 1 0 2 1 -1
+p469
+aVChris Singleton WAS 02/01/2012 WAS @ ORL L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 2
+p470
+aVTrevor Booker WAS 02/01/2012 WAS @ ORL L 21 8 4 6 66.7 0 0 - 0 0 - 4 5 9 1 0 2 0 4 11
+p471
+aVJordan Crawford WAS 02/01/2012 WAS @ ORL L 35 19 7 19 36.8 3 6 50.0 2 2 100.0 1 1 2 6 1 0 2 3 7
+p472
+aVJaVale McGee WAS 02/01/2012 WAS @ ORL L 24 6 3 7 42.9 0 0 - 0 0 - 3 3 6 2 0 0 1 5 -22
+p473
+aVRoger Mason Jr. WAS 02/01/2012 WAS @ ORL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p474
+aVJohn Wall WAS 01/30/2012 WAS vs. CHI L 36 20 7 16 43.8 0 1 0.0 6 6 100.0 1 1 2 6 2 0 4 2 -11
+p475
+aVJordan Crawford WAS 01/30/2012 WAS vs. CHI L 32 10 5 16 31.3 0 2 0.0 0 0 - 1 1 2 3 1 0 2 1 5
+p476
+aVTrevor Booker WAS 01/30/2012 WAS vs. CHI L 26 14 7 9 77.8 0 0 - 0 1 0.0 3 6 9 2 3 2 0 3 7
+p477
+aVRoger Mason Jr. WAS 01/30/2012 WAS vs. CHI L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 0 -2
+p478
+aVJan Vesely WAS 01/30/2012 WAS vs. CHI L 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 0 1 3 -19
+p479
+aVJaVale McGee WAS 01/30/2012 WAS vs. CHI L 34 16 7 12 58.3 0 0 - 2 3 66.7 6 3 9 1 2 3 1 2 -9
+p480
+aVKevin Seraphin WAS 01/30/2012 WAS vs. CHI L 14 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 1 3 2 1
+p481
+aVNick Young WAS 01/30/2012 WAS vs. CHI L 31 17 7 20 35.0 2 5 40.0 1 1 100.0 2 3 5 2 2 2 1 3 -4
+p482
+aVRashard Lewis WAS 01/30/2012 WAS vs. CHI L 23 5 1 6 16.7 1 4 25.0 2 2 100.0 2 6 8 1 0 0 2 1 -20
+p483
+aVShelvin Mack WAS 01/30/2012 WAS vs. CHI L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 4 2 0 0 1 1
+p484
+aVChris Singleton WAS 01/30/2012 WAS vs. CHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p485
+aVJordan Crawford WAS 01/28/2012 WAS @ CHA W 21 12 4 12 33.3 2 5 40.0 2 2 100.0 0 1 1 7 1 0 2 2 -6
+p486
+aVKevin Seraphin WAS 01/28/2012 WAS @ CHA W 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -7
+p487
+aVJaVale McGee WAS 01/28/2012 WAS @ CHA W 34 22 9 14 64.3 0 0 - 4 8 50.0 2 8 10 2 1 5 2 3 13
+p488
+aVNick Young WAS 01/28/2012 WAS @ CHA W 27 21 9 15 60.0 1 2 50.0 2 2 100.0 0 1 1 0 1 0 3 4 9
+p489
+aVJohn Wall WAS 01/28/2012 WAS @ CHA W 36 13 5 12 41.7 1 1 100.0 2 2 100.0 0 3 3 10 2 2 4 2 9
+p490
+aVJan Vesely WAS 01/28/2012 WAS @ CHA W 26 2 1 4 25.0 0 0 - 0 1 0.0 1 4 5 4 2 0 0 3 7
+p491
+aVAndray Blatche WAS 01/28/2012 WAS @ CHA W 8 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p492
+aVShelvin Mack WAS 01/28/2012 WAS @ CHA W 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p493
+aVTrevor Booker WAS 01/28/2012 WAS @ CHA W 19 14 5 5 100.0 0 0 - 4 4 100.0 1 2 3 0 1 1 1 3 -5
+p494
+aVChris Singleton WAS 01/28/2012 WAS @ CHA W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -5
+p495
+aVRoger Mason Jr. WAS 01/28/2012 WAS @ CHA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p496
+aVRashard Lewis WAS 01/28/2012 WAS @ CHA W 36 10 3 7 42.9 2 3 66.7 2 2 100.0 1 5 6 1 2 1 1 1 8
+p497
+aVJan Vesely WAS 01/27/2012 WAS @ HOU L 29 5 2 6 33.3 0 0 - 1 1 100.0 2 4 6 0 3 0 2 4 0
+p498
+aVShelvin Mack WAS 01/27/2012 WAS @ HOU L 15 2 1 5 20.0 0 0 - 0 0 - 2 1 3 3 0 0 1 2 -11
+p499
+aVJohn Wall WAS 01/27/2012 WAS @ HOU L 33 17 6 13 46.2 0 0 - 5 7 71.4 3 5 8 6 0 0 5 2 -16
+p500
+aVChris Singleton WAS 01/27/2012 WAS @ HOU L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 1 2 1 -7
+p501
+aVJaVale McGee WAS 01/27/2012 WAS @ HOU L 24 9 4 9 44.4 0 0 - 1 2 50.0 6 5 11 0 1 4 4 5 -14
+p502
+aVAndray Blatche WAS 01/27/2012 WAS @ HOU L 14 2 1 6 16.7 0 0 - 0 1 0.0 2 1 3 0 3 0 1 4 -3
+p503
+aVMaurice Evans WAS 01/27/2012 WAS @ HOU L 5 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p504
+aVRashard Lewis WAS 01/27/2012 WAS @ HOU L 23 6 3 10 30.0 0 2 0.0 0 0 - 1 2 3 1 1 0 1 0 -16
+p505
+aVRoger Mason Jr. WAS 01/27/2012 WAS @ HOU L 10 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 0 1 0 0 0 -4
+p506
+aVNick Young WAS 01/27/2012 WAS @ HOU L 32 15 6 17 35.3 0 2 0.0 3 3 100.0 0 0 0 1 2 0 3 2 -15
+p507
+aVJordan Crawford WAS 01/27/2012 WAS @ HOU L 15 9 4 7 57.1 0 1 0.0 1 2 50.0 0 1 1 1 0 0 4 0 -22
+p508
+aVTrevor Booker WAS 01/27/2012 WAS @ HOU L 23 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 1 2 1 3 -28
+p509
+aVKevin Seraphin WAS 01/25/2012 WAS vs. CHA W 22 8 3 6 50.0 0 0 - 2 3 66.7 3 4 7 1 0 1 2 3 2
+p510
+aVJordan Crawford WAS 01/25/2012 WAS vs. CHA W 19 9 4 9 44.4 0 1 0.0 1 2 50.0 0 0 0 5 1 1 3 1 12
+p511
+aVAndray Blatche WAS 01/25/2012 WAS vs. CHA W 24 17 7 15 46.7 0 1 0.0 3 4 75.0 4 6 10 4 2 0 1 2 15
+p512
+aVRashard Lewis WAS 01/25/2012 WAS vs. CHA W 24 6 3 8 37.5 0 1 0.0 0 0 - 1 1 2 3 0 0 1 1 16
+p513
+aVJan Vesely WAS 01/25/2012 WAS vs. CHA W 19 6 3 3 100.0 0 0 - 0 1 0.0 1 5 6 0 1 3 3 5 11
+p514
+aVChris Singleton WAS 01/25/2012 WAS vs. CHA W 24 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 1 5 1 1 3 1
+p515
+aVShelvin Mack WAS 01/25/2012 WAS vs. CHA W 22 4 1 4 25.0 1 2 50.0 1 2 50.0 0 3 3 4 0 0 1 2 8
+p516
+aVJaVale McGee WAS 01/25/2012 WAS vs. CHA W 21 6 3 5 60.0 0 0 - 0 0 - 4 6 10 1 0 4 1 1 14
+p517
+aVTrevor Booker WAS 01/25/2012 WAS vs. CHA W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 1 2 2 -8
+p518
+aVJohn Wall WAS 01/25/2012 WAS vs. CHA W 26 12 6 9 66.7 0 0 - 0 0 - 1 5 6 4 0 2 7 3 9
+p519
+aVNick Young WAS 01/25/2012 WAS vs. CHA W 29 20 7 18 38.9 2 4 50.0 4 4 100.0 1 1 2 0 0 0 0 5 5
+p520
+aVJordan Crawford WAS 01/23/2012 WAS @ PHI L 24 17 6 16 37.5 0 2 0.0 5 6 83.3 0 3 3 3 0 0 0 2 -4
+p521
+aVNick Young WAS 01/23/2012 WAS @ PHI L 29 10 4 10 40.0 0 2 0.0 2 4 50.0 0 3 3 1 0 1 2 2 -9
+p522
+aVRashard Lewis WAS 01/23/2012 WAS @ PHI L 27 11 5 7 71.4 0 2 0.0 1 1 100.0 2 4 6 1 0 0 3 2 -21
+p523
+aVKevin Seraphin WAS 01/23/2012 WAS @ PHI L 18 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 1 0 2 0 1 8
+p524
+aVRoger Mason Jr. WAS 01/23/2012 WAS @ PHI L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 -4
+p525
+aVAndray Blatche WAS 01/23/2012 WAS @ PHI L 28 13 4 11 36.4 0 0 - 5 6 83.3 1 3 4 1 2 0 0 3 -24
+p526
+aVJaVale McGee WAS 01/23/2012 WAS @ PHI L 21 2 1 4 25.0 0 0 - 0 2 0.0 0 2 2 0 1 2 0 2 -15
+p527
+aVTrevor Booker WAS 01/23/2012 WAS @ PHI L 12 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 9
+p528
+aVChris Singleton WAS 01/23/2012 WAS @ PHI L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p529
+aVJan Vesely WAS 01/23/2012 WAS @ PHI L 11 2 1 5 20.0 0 0 - 0 0 - 3 0 3 0 0 0 0 1 -10
+p530
+aVShelvin Mack WAS 01/23/2012 WAS @ PHI L 22 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p531
+aVJohn Wall WAS 01/23/2012 WAS @ PHI L 26 13 5 11 45.5 0 0 - 3 4 75.0 1 3 4 5 0 0 4 1 -23
+p532
+aVJan Vesely WAS 01/22/2012 WAS vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -2
+p533
+aVTrevor Booker WAS 01/22/2012 WAS vs. BOS L 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 3 7
+p534
+aVNick Young WAS 01/22/2012 WAS vs. BOS L 33 19 7 13 53.8 1 6 16.7 4 5 80.0 1 4 5 1 1 0 4 5 -11
+p535
+aVKevin Seraphin WAS 01/22/2012 WAS vs. BOS L 12 4 1 1 100.0 0 0 - 2 2 100.0 2 3 5 0 0 2 0 3 8
+p536
+aVAndray Blatche WAS 01/22/2012 WAS vs. BOS L 37 8 4 10 40.0 0 1 0.0 0 0 - 1 8 9 2 0 1 2 3 -7
+p537
+aVRashard Lewis WAS 01/22/2012 WAS vs. BOS L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -6
+p538
+aVChris Singleton WAS 01/22/2012 WAS vs. BOS L 19 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 3 1 0 1 2 0
+p539
+aVJaVale McGee WAS 01/22/2012 WAS vs. BOS L 31 13 6 10 60.0 0 0 - 1 1 100.0 1 2 3 0 1 3 1 3 -16
+p540
+aVRoger Mason Jr. WAS 01/22/2012 WAS vs. BOS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p541
+aVJohn Wall WAS 01/22/2012 WAS vs. BOS L 42 27 9 18 50.0 0 0 - 9 9 100.0 1 9 10 7 1 1 5 3 -2
+p542
+aVJordan Crawford WAS 01/22/2012 WAS vs. BOS L 27 12 5 11 45.5 1 4 25.0 1 2 50.0 0 1 1 3 2 0 1 2 7
+p543
+aVShelvin Mack WAS 01/22/2012 WAS vs. BOS L 6 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -4
+p544
+aVJan Vesely WAS 01/20/2012 WAS vs. DEN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p545
+aVJaVale McGee WAS 01/20/2012 WAS vs. DEN L 36 13 6 11 54.5 0 0 - 1 3 33.3 2 5 7 1 2 3 1 5 -4
+p546
+aVNick Young WAS 01/20/2012 WAS vs. DEN L 40 25 10 22 45.5 4 10 40.0 1 1 100.0 0 0 0 4 4 0 0 2 5
+p547
+aVRashard Lewis WAS 01/20/2012 WAS vs. DEN L 32 10 4 8 50.0 1 3 33.3 1 1 100.0 1 2 3 3 2 1 0 2 -3
+p548
+aVChris Singleton WAS 01/20/2012 WAS vs. DEN L 16 12 5 8 62.5 2 4 50.0 0 0 - 0 3 3 2 0 0 0 2 -3
+p549
+aVTrevor Booker WAS 01/20/2012 WAS vs. DEN L 13 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 1 1 1 2 -5
+p550
+aVJordan Crawford WAS 01/20/2012 WAS vs. DEN L 25 18 6 14 42.9 3 6 50.0 3 4 75.0 1 5 6 1 0 0 0 1 -9
+p551
+aVRoger Mason Jr. WAS 01/20/2012 WAS vs. DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p552
+aVJohn Wall WAS 01/20/2012 WAS vs. DEN L 38 13 4 17 23.5 0 1 0.0 5 6 83.3 1 8 9 10 1 3 4 1 -16
+p553
+aVAndray Blatche WAS 01/20/2012 WAS vs. DEN L 26 2 0 7 0.0 0 0 - 2 2 100.0 2 4 6 0 0 1 3 5 4
+p554
+aVShelvin Mack WAS 01/20/2012 WAS vs. DEN L 10 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 5 1 0 1 1 12
+p555
+aVTrevor Booker WAS 01/18/2012 WAS vs. OKC W 16 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 2 1 2 4 4
+p556
+aVJohn Wall WAS 01/18/2012 WAS vs. OKC W 45 25 6 17 35.3 0 0 - 13 14 92.9 1 6 7 8 0 0 3 2 5
+p557
+aVChris Singleton WAS 01/18/2012 WAS vs. OKC W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 1 1 0 2 -13
+p558
+aVShelvin Mack WAS 01/18/2012 WAS vs. OKC W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p559
+aVNick Young WAS 01/18/2012 WAS vs. OKC W 34 24 6 17 35.3 5 10 50.0 7 10 70.0 1 3 4 2 0 1 0 4 1
+p560
+aVAndray Blatche WAS 01/18/2012 WAS vs. OKC W 34 12 5 12 41.7 1 1 100.0 1 2 50.0 3 7 10 4 2 1 4 3 -1
+p561
+aVJan Vesely WAS 01/18/2012 WAS vs. OKC W 19 6 3 6 50.0 0 0 - 0 0 - 3 0 3 0 1 1 2 2 7
+p562
+aVJordan Crawford WAS 01/18/2012 WAS vs. OKC W 24 18 4 10 40.0 1 5 20.0 9 11 81.8 2 4 6 2 1 0 4 3 6
+p563
+aVRashard Lewis WAS 01/18/2012 WAS vs. OKC W 25 7 3 8 37.5 1 3 33.3 0 0 - 1 3 4 2 1 1 0 1 14
+p564
+aVRoger Mason Jr. WAS 01/18/2012 WAS vs. OKC W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p565
+aVJaVale McGee WAS 01/18/2012 WAS vs. OKC W 27 7 3 7 42.9 0 0 - 1 6 16.7 6 5 11 0 2 1 2 2 -7
+p566
+aVTrevor Booker WAS 01/16/2012 WAS vs. HOU L 11 3 1 6 16.7 0 0 - 1 2 50.0 1 2 3 0 0 0 1 2 -12
+p567
+aVRoger Mason Jr. WAS 01/16/2012 WAS vs. HOU L 12 1 0 2 0.0 0 2 0.0 1 1 100.0 0 0 0 1 0 0 0 0 0
+p568
+aVJan Vesely WAS 01/16/2012 WAS vs. HOU L 26 7 3 4 75.0 0 0 - 1 2 50.0 4 2 6 0 0 0 1 4 11
+p569
+aVJaVale McGee WAS 01/16/2012 WAS vs. HOU L 25 8 4 7 57.1 0 0 - 0 0 - 4 6 10 0 0 3 3 4 -18
+p570
+aVShelvin Mack WAS 01/16/2012 WAS vs. HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p571
+aVNick Young WAS 01/16/2012 WAS vs. HOU L 29 13 3 12 25.0 2 5 40.0 5 5 100.0 0 0 0 1 0 0 1 0 -5
+p572
+aVAndray Blatche WAS 01/16/2012 WAS vs. HOU L 34 11 4 8 50.0 0 0 - 3 4 75.0 3 9 12 1 1 0 2 1 3
+p573
+aVChris Singleton WAS 01/16/2012 WAS vs. HOU L 18 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 0 2 0 1 4 -12
+p574
+aVMaurice Evans WAS 01/16/2012 WAS vs. HOU L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p575
+aVJohn Wall WAS 01/16/2012 WAS vs. HOU L 44 38 13 22 59.1 0 0 - 12 16 75.0 1 5 6 8 4 1 2 3 -8
+p576
+aVJordan Crawford WAS 01/16/2012 WAS vs. HOU L 29 17 7 12 58.3 1 2 50.0 2 2 100.0 0 2 2 4 0 0 3 3 -1
+p577
+aVShelvin Mack WAS 01/14/2012 WAS vs. PHI L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 0 0 0 1 -4
+p578
+aVJaVale McGee WAS 01/14/2012 WAS vs. PHI L 43 23 11 13 84.6 0 0 - 1 4 25.0 7 11 18 2 1 5 2 3 0
+p579
+aVChris Singleton WAS 01/14/2012 WAS vs. PHI L 21 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 0
+p580
+aVTrevor Booker WAS 01/14/2012 WAS vs. PHI L 26 6 3 10 30.0 0 0 - 0 0 - 1 5 6 0 0 1 2 1 0
+p581
+aVJohn Wall WAS 01/14/2012 WAS vs. PHI L 37 19 6 14 42.9 0 0 - 7 7 100.0 3 6 9 9 0 1 8 3 -9
+p582
+aVJordan Crawford WAS 01/14/2012 WAS vs. PHI L 24 9 4 10 40.0 1 3 33.3 0 0 - 0 0 0 2 0 0 3 1 -7
+p583
+aVNick Young WAS 01/14/2012 WAS vs. PHI L 40 27 11 22 50.0 2 7 28.6 3 4 75.0 1 6 7 0 1 0 2 2 0
+p584
+aVJan Vesely WAS 01/14/2012 WAS vs. PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p585
+aVRashard Lewis WAS 01/14/2012 WAS vs. PHI L 22 2 1 10 10.0 0 1 0.0 0 0 - 3 5 8 1 0 1 0 2 -13
+p586
+aVRoger Mason Jr. WAS 01/14/2012 WAS vs. PHI L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -13
+p587
+aVKevin Seraphin WAS 01/14/2012 WAS vs. PHI L 5 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 -13
+p588
+aVRashard Lewis WAS 01/13/2012 WAS @ PHI L 26 16 7 14 50.0 1 4 25.0 1 1 100.0 1 1 2 0 1 0 0 1 0
+p589
+aVMaurice Evans WAS 01/13/2012 WAS @ PHI L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p590
+aVJaVale McGee WAS 01/13/2012 WAS @ PHI L 25 9 4 13 30.8 0 0 - 1 4 25.0 2 3 5 0 1 1 2 1 -20
+p591
+aVJan Vesely WAS 01/13/2012 WAS @ PHI L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -12
+p592
+aVKevin Seraphin WAS 01/13/2012 WAS @ PHI L 22 12 5 8 62.5 0 0 - 2 2 100.0 1 4 5 2 0 3 1 1 -10
+p593
+aVTrevor Booker WAS 01/13/2012 WAS @ PHI L 20 8 3 5 60.0 0 0 - 2 4 50.0 2 4 6 0 1 0 0 3 -26
+p594
+aVChris Singleton WAS 01/13/2012 WAS @ PHI L 19 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 2 1 1 4 -16
+p595
+aVJordan Crawford WAS 01/13/2012 WAS @ PHI L 23 12 4 7 57.1 1 3 33.3 3 5 60.0 1 4 5 5 1 0 4 1 -11
+p596
+aVShelvin Mack WAS 01/13/2012 WAS @ PHI L 20 7 3 5 60.0 1 3 33.3 0 0 - 1 5 6 3 0 0 2 1 -5
+p597
+aVJohn Wall WAS 01/13/2012 WAS @ PHI L 28 7 3 8 37.5 0 2 0.0 1 1 100.0 0 4 4 5 2 0 5 1 -26
+p598
+aVNick Young WAS 01/13/2012 WAS @ PHI L 25 11 5 10 50.0 0 1 0.0 1 1 100.0 0 0 0 2 0 0 2 2 -20
+p599
+aVRoger Mason Jr. WAS 01/13/2012 WAS @ PHI L 14 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p600
+aVJohn Wall WAS 01/11/2012 WAS @ CHI L 39 11 4 13 30.8 0 0 - 3 5 60.0 1 4 5 8 0 0 4 3 -6
+p601
+aVChris Singleton WAS 01/11/2012 WAS @ CHI L 26 8 4 7 57.1 0 1 0.0 0 1 0.0 2 0 2 0 2 0 1 3 3
+p602
+aVShelvin Mack WAS 01/11/2012 WAS @ CHI L 9 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 -8
+p603
+aVTrevor Booker WAS 01/11/2012 WAS @ CHI L 31 8 4 10 40.0 0 0 - 0 0 - 3 7 10 1 0 1 1 1 1
+p604
+aVJaVale McGee WAS 01/11/2012 WAS @ CHI L 39 10 5 13 38.5 0 0 - 0 0 - 5 9 14 1 0 5 2 2 -9
+p605
+aVKevin Seraphin WAS 01/11/2012 WAS @ CHI L 9 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 2 3 0 0 -5
+p606
+aVJan Vesely WAS 01/11/2012 WAS @ CHI L 15 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 2 1 3 -10
+p607
+aVRashard Lewis WAS 01/11/2012 WAS @ CHI L 21 6 3 10 30.0 0 2 0.0 0 0 - 2 2 4 0 0 1 1 1 -17
+p608
+aVNick Young WAS 01/11/2012 WAS @ CHI L 31 5 2 11 18.2 0 2 0.0 1 1 100.0 0 3 3 0 1 0 3 2 -1
+p609
+aVJordan Crawford WAS 01/11/2012 WAS @ CHI L 20 14 4 12 33.3 3 4 75.0 3 3 100.0 0 3 3 0 0 0 1 0 -18
+p610
+aVChris Singleton WAS 01/10/2012 WAS vs. TOR W 23 9 4 9 44.4 1 3 33.3 0 0 - 2 7 9 1 1 0 0 3 1
+p611
+aVAndray Blatche WAS 01/10/2012 WAS vs. TOR W 25 9 4 11 36.4 1 1 100.0 0 2 0.0 1 7 8 1 0 1 1 2 17
+p612
+aVRashard Lewis WAS 01/10/2012 WAS vs. TOR W 27 15 6 10 60.0 1 1 100.0 2 3 66.7 0 1 1 2 2 0 0 1 12
+p613
+aVJordan Crawford WAS 01/10/2012 WAS vs. TOR W 19 11 5 11 45.5 0 0 - 1 3 33.3 2 0 2 1 0 0 2 0 11
+p614
+aVTrevor Booker WAS 01/10/2012 WAS vs. TOR W 32 8 4 4 100.0 0 0 - 0 2 0.0 2 5 7 1 3 1 1 5 1
+p615
+aVJohn Wall WAS 01/10/2012 WAS vs. TOR W 34 8 3 12 25.0 0 2 0.0 2 3 66.7 0 2 2 9 0 3 2 1 5
+p616
+aVJaVale McGee WAS 01/10/2012 WAS vs. TOR W 21 10 4 6 66.7 0 0 - 2 2 100.0 0 6 6 0 0 3 6 2 0
+p617
+aVNick Young WAS 01/10/2012 WAS vs. TOR W 29 15 6 13 46.2 1 5 20.0 2 2 100.0 0 1 1 1 0 0 0 3 4
+p618
+aVJan Vesely WAS 01/10/2012 WAS vs. TOR W 16 4 2 2 100.0 0 0 - 0 0 - 2 0 2 1 5 0 0 3 14
+p619
+aVShelvin Mack WAS 01/10/2012 WAS vs. TOR W 14 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 0 10
+p620
+aVChris Singleton WAS 01/08/2012 WAS vs. MIN L 40 3 1 8 12.5 0 2 0.0 1 2 50.0 3 4 7 1 1 1 0 4 -8
+p621
+aVKevin Seraphin WAS 01/08/2012 WAS vs. MIN L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 0 0
+p622
+aVShelvin Mack WAS 01/08/2012 WAS vs. MIN L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 0
+p623
+aVJan Vesely WAS 01/08/2012 WAS vs. MIN L 9 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 2 2 -21
+p624
+aVJohn Wall WAS 01/08/2012 WAS vs. MIN L 35 10 3 10 30.0 0 1 0.0 4 4 100.0 2 3 5 6 2 0 4 3 -9
+p625
+aVJaVale McGee WAS 01/08/2012 WAS vs. MIN L 23 8 3 9 33.3 0 0 - 2 3 66.7 4 5 9 0 1 3 2 0 1
+p626
+aVTrevor Booker WAS 01/08/2012 WAS vs. MIN L 28 14 7 9 77.8 0 0 - 0 2 0.0 4 1 5 2 1 3 2 3 -17
+p627
+aVJordan Crawford WAS 01/08/2012 WAS vs. MIN L 19 8 3 11 27.3 0 2 0.0 2 3 66.7 0 1 1 2 1 0 1 0 -21
+p628
+aVAndray Blatche WAS 01/08/2012 WAS vs. MIN L 31 10 5 16 31.3 0 0 - 0 0 - 3 6 9 0 3 1 3 4 -12
+p629
+aVNick Young WAS 01/08/2012 WAS vs. MIN L 32 14 6 16 37.5 2 3 66.7 0 0 - 0 1 1 3 0 0 1 1 -5
+p630
+aVRoger Mason Jr. WAS 01/08/2012 WAS vs. MIN L 11 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 0 -13
+p631
+aVTrevor Booker WAS 01/06/2012 WAS vs. NYK L 21 8 3 5 60.0 0 0 - 2 2 100.0 2 5 7 2 2 2 1 4 1
+p632
+aVJohn Wall WAS 01/06/2012 WAS vs. NYK L 43 22 10 22 45.5 0 1 0.0 2 4 50.0 1 4 5 9 1 0 5 4 -3
+p633
+aVRashard Lewis WAS 01/06/2012 WAS vs. NYK L 23 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 0 0 0 5 2 -7
+p634
+aVJordan Crawford WAS 01/06/2012 WAS vs. NYK L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 2 0 -7
+p635
+aVChris Singleton WAS 01/06/2012 WAS vs. NYK L 27 12 5 8 62.5 2 3 66.7 0 0 - 2 5 7 1 3 2 0 5 -14
+p636
+aVAndray Blatche WAS 01/06/2012 WAS vs. NYK L 28 15 7 11 63.6 0 0 - 1 2 50.0 1 5 6 1 3 2 3 3 8
+p637
+aVKevin Seraphin WAS 01/06/2012 WAS vs. NYK L 10 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 2 2 3 0
+p638
+aVJaVale McGee WAS 01/06/2012 WAS vs. NYK L 36 13 6 9 66.7 0 0 - 1 3 33.3 1 9 10 1 0 4 2 5 0
+p639
+aVNick Young WAS 01/06/2012 WAS vs. NYK L 42 24 9 20 45.0 4 7 57.1 2 2 100.0 0 3 3 2 1 0 3 0 7
+p640
+aVShelvin Mack WAS 01/04/2012 WAS @ ORL L 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p641
+aVAndray Blatche WAS 01/04/2012 WAS @ ORL L 29 10 5 12 41.7 0 1 0.0 0 0 - 3 3 6 1 0 0 0 2 -18
+p642
+aVRoger Mason Jr. WAS 01/04/2012 WAS @ ORL L 13 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 1 0 8
+p643
+aVRashard Lewis WAS 01/04/2012 WAS @ ORL L 29 6 3 10 30.0 0 2 0.0 0 0 - 2 2 4 1 0 0 2 2 -18
+p644
+aVChris Singleton WAS 01/04/2012 WAS @ ORL L 22 7 3 5 60.0 1 2 50.0 0 0 - 1 3 4 0 0 0 2 5 -1
+p645
+aVJordan Crawford WAS 01/04/2012 WAS @ ORL L 20 6 3 10 30.0 0 2 0.0 0 0 - 1 6 7 4 2 0 1 1 -4
+p646
+aVKevin Seraphin WAS 01/04/2012 WAS @ ORL L 17 3 0 2 0.0 0 0 - 3 4 75.0 1 3 4 0 0 1 1 3 -1
+p647
+aVTrevor Booker WAS 01/04/2012 WAS @ ORL L 23 8 4 8 50.0 0 0 - 0 0 - 2 4 6 0 2 0 0 1 1
+p648
+aVNick Young WAS 01/04/2012 WAS @ ORL L 25 17 5 15 33.3 1 3 33.3 6 6 100.0 1 3 4 0 0 2 1 1 -18
+p649
+aVJohn Wall WAS 01/04/2012 WAS @ ORL L 33 14 6 16 37.5 0 0 - 2 4 50.0 2 2 4 5 1 0 0 4 -25
+p650
+aVJaVale McGee WAS 01/04/2012 WAS @ ORL L 24 6 2 8 25.0 0 0 - 2 2 100.0 1 3 4 0 2 5 1 2 -17
+p651
+aVNick Young WAS 01/02/2012 WAS @ BOS L 32 10 3 14 21.4 0 4 0.0 4 4 100.0 1 1 2 1 0 0 1 1 -10
+p652
+aVJaVale McGee WAS 01/02/2012 WAS @ BOS L 31 17 8 9 88.9 0 0 - 1 2 50.0 3 11 14 0 1 3 0 4 -8
+p653
+aVTrevor Booker WAS 01/02/2012 WAS @ BOS L 12 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 0 2 0
+p654
+aVAndray Blatche WAS 01/02/2012 WAS @ BOS L 38 28 10 20 50.0 0 0 - 8 10 80.0 3 6 9 1 2 2 1 2 -5
+p655
+aVJohn Wall WAS 01/02/2012 WAS @ BOS L 40 11 4 13 30.8 0 0 - 3 4 75.0 0 3 3 8 2 2 7 2 -1
+p656
+aVChris Singleton WAS 01/02/2012 WAS @ BOS L 8 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -9
+p657
+aVKevin Seraphin WAS 01/02/2012 WAS @ BOS L 14 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 0
+p658
+aVRoger Mason Jr. WAS 01/02/2012 WAS @ BOS L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 1 0
+p659
+aVJordan Crawford WAS 01/02/2012 WAS @ BOS L 11 5 1 6 16.7 0 1 0.0 3 3 100.0 1 0 1 1 2 1 1 0 -4
+p660
+aVRashard Lewis WAS 01/02/2012 WAS @ BOS L 40 9 4 10 40.0 1 3 33.3 0 0 - 5 1 6 1 2 1 0 3 2
+p661
+aVRonny Turiaf WAS 01/01/2012 WAS vs. BOS L 12 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 1 1 0
+p662
+aVTrevor Booker WAS 01/01/2012 WAS vs. BOS L 14 7 3 4 75.0 0 0 - 1 1 100.0 1 1 2 0 2 0 0 2 0
+p663
+aVRoger Mason Jr. WAS 01/01/2012 WAS vs. BOS L 11 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 0 0 0 2 1 -1
+p664
+aVChris Singleton WAS 01/01/2012 WAS vs. BOS L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 0 1 2
+p665
+aVKevin Seraphin WAS 01/01/2012 WAS vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 7
+p666
+aVJohn Wall WAS 01/01/2012 WAS vs. BOS L 39 19 6 13 46.2 0 0 - 7 9 77.8 0 7 7 8 1 1 1 4 -12
+p667
+aVJaVale McGee WAS 01/01/2012 WAS vs. BOS L 35 16 6 15 40.0 0 0 - 4 5 80.0 6 8 14 1 1 5 2 4 -13
+p668
+aVNick Young WAS 01/01/2012 WAS vs. BOS L 30 18 7 15 46.7 0 3 0.0 4 4 100.0 0 2 2 1 1 0 1 3 6
+p669
+aVJordan Crawford WAS 01/01/2012 WAS vs. BOS L 14 5 1 7 14.3 1 4 25.0 2 2 100.0 0 0 0 3 0 0 2 1 -14
+p670
+aVRashard Lewis WAS 01/01/2012 WAS vs. BOS L 35 8 4 12 33.3 0 4 0.0 0 0 - 2 2 4 1 2 1 1 3 -12
+p671
+aVAndray Blatche WAS 01/01/2012 WAS vs. BOS L 34 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 0 0 1 4 1 -10
+p672
+aVShelvin Mack WAS 01/01/2012 WAS vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p673
+aVChris Singleton WAS 12/30/2011 WAS @ MIL L 24 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 1 0 1 4 -11
+p674
+aVShelvin Mack WAS 12/30/2011 WAS @ MIL L 9 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 0 -7
+p675
+aVKevin Seraphin WAS 12/30/2011 WAS @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p676
+aVAndray Blatche WAS 12/30/2011 WAS @ MIL L 28 9 4 15 26.7 0 2 0.0 1 1 100.0 3 7 10 1 1 1 1 2 -10
+p677
+aVRonny Turiaf WAS 12/30/2011 WAS @ MIL L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 2 1 2 0 -5
+p678
+aVJordan Crawford WAS 12/30/2011 WAS @ MIL L 36 24 9 20 45.0 3 7 42.9 3 4 75.0 0 0 0 5 0 0 3 5 -20
+p679
+aVRashard Lewis WAS 12/30/2011 WAS @ MIL L 32 14 4 10 40.0 1 2 50.0 5 6 83.3 1 5 6 2 1 0 1 2 -20
+p680
+aVNick Young WAS 12/30/2011 WAS @ MIL L 22 3 1 10 10.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 2 -8
+p681
+aVTrevor Booker WAS 12/30/2011 WAS @ MIL L 15 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 1 1 0 0 2 7
+p682
+aVJaVale McGee WAS 12/30/2011 WAS @ MIL L 28 10 5 11 45.5 0 0 - 0 2 0.0 2 7 9 0 1 0 0 4 -13
+p683
+aVJohn Wall WAS 12/30/2011 WAS @ MIL L 36 6 1 9 11.1 0 1 0.0 4 4 100.0 1 0 1 7 1 3 4 1 -16
+p684
+aVJaVale McGee WAS 12/28/2011 WAS @ ATL L 28 15 7 11 63.6 0 0 - 1 2 50.0 3 9 12 0 2 1 2 4 -25
+p685
+aVAndray Blatche WAS 12/28/2011 WAS @ ATL L 27 4 2 13 15.4 0 0 - 0 1 0.0 2 2 4 1 0 0 1 1 -16
+p686
+aVRoger Mason Jr. WAS 12/28/2011 WAS @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p687
+aVJordan Crawford WAS 12/28/2011 WAS @ ATL L 22 1 0 6 0.0 0 5 0.0 1 2 50.0 0 1 1 1 0 0 3 2 -22
+p688
+aVShelvin Mack WAS 12/28/2011 WAS @ ATL L 11 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 5
+p689
+aVTrevor Booker WAS 12/28/2011 WAS @ ATL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p690
+aVKevin Seraphin WAS 12/28/2011 WAS @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 2
+p691
+aVNick Young WAS 12/28/2011 WAS @ ATL L 32 21 6 12 50.0 3 6 50.0 6 6 100.0 0 2 2 4 0 0 0 3 1
+p692
+aVRonny Turiaf WAS 12/28/2011 WAS @ ATL L 17 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 3 1 0 2 5
+p693
+aVChris Singleton WAS 12/28/2011 WAS @ ATL L 26 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 0 2 0 1 4 -1
+p694
+aVRashard Lewis WAS 12/28/2011 WAS @ ATL L 28 13 5 9 55.6 2 3 66.7 1 1 100.0 0 3 3 0 0 0 1 3 -19
+p695
+aVJohn Wall WAS 12/28/2011 WAS @ ATL L 37 20 6 15 40.0 0 0 - 8 10 80.0 1 1 2 6 3 1 6 1 -23
+p696
+aVRonny Turiaf WAS 12/26/2011 WAS vs. NJN L 22 2 1 1 100.0 0 0 - 0 0 - 0 5 5 2 1 1 3 4 15
+p697
+aVNick Young WAS 12/26/2011 WAS vs. NJN L 18 16 6 9 66.7 0 0 - 4 4 100.0 0 2 2 0 0 0 0 2 1
+p698
+aVTrevor Booker WAS 12/26/2011 WAS vs. NJN L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 4
+p699
+aVJohn Wall WAS 12/26/2011 WAS vs. NJN L 39 13 3 13 23.1 0 0 - 7 13 53.8 3 5 8 5 3 1 4 2 -6
+p700
+aVShelvin Mack WAS 12/26/2011 WAS vs. NJN L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p701
+aVAndray Blatche WAS 12/26/2011 WAS vs. NJN L 39 11 5 13 38.5 0 0 - 1 2 50.0 0 10 10 3 0 1 2 2 -10
+p702
+aVJaVale McGee WAS 12/26/2011 WAS vs. NJN L 26 11 5 11 45.5 0 0 - 1 6 16.7 3 3 6 0 1 3 1 3 -20
+p703
+aVJordan Crawford WAS 12/26/2011 WAS vs. NJN L 28 15 7 12 58.3 0 2 0.0 1 1 100.0 1 2 3 1 1 0 1 2 -5
+p704
+aVRoger Mason Jr. WAS 12/26/2011 WAS vs. NJN L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p705
+aVRashard Lewis WAS 12/26/2011 WAS vs. NJN L 25 9 2 8 25.0 0 2 0.0 5 6 83.3 1 1 2 0 0 0 0 0 2
+p706
+aVChris Singleton WAS 12/26/2011 WAS vs. NJN L 22 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 2 1 0 1 -11
+p707
+a.

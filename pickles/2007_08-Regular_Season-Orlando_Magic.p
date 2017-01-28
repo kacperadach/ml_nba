@@ -1,0 +1,1672 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRashard Lewis ORL 04/16/2008 ORL vs. WAS W 17 15 5 10 50.0 3 4 75.0 2 2 100.0 1 1 2 0 0 1 0 0 2
+p2
+aVKeith Bogans ORL 04/16/2008 ORL vs. WAS W 28 10 4 9 44.4 2 5 40.0 0 0 - 2 0 2 4 0 0 1 1 20
+p3
+aVJJ Redick ORL 04/16/2008 ORL vs. WAS W 24 18 7 14 50.0 4 8 50.0 0 0 - 1 3 4 3 0 0 1 2 1
+p4
+aVJames Augustine ORL 04/16/2008 ORL vs. WAS W 18 8 3 4 75.0 0 0 - 2 4 50.0 3 2 5 0 0 0 1 2 16
+p5
+aVCarlos Arroyo ORL 04/16/2008 ORL vs. WAS W 33 3 1 6 16.7 1 4 25.0 0 0 - 0 4 4 11 2 0 0 2 15
+p6
+aVMaurice Evans ORL 04/16/2008 ORL vs. WAS W 18 9 4 8 50.0 1 4 25.0 0 0 - 0 1 1 3 2 0 0 1 3
+p7
+aVAdonal Foyle ORL 04/16/2008 ORL vs. WAS W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p8
+aVPat Garrity ORL 04/16/2008 ORL vs. WAS W 19 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 0 -1
+p9
+aVDwight Howard ORL 04/16/2008 ORL vs. WAS W 12 6 3 4 75.0 0 0 - 0 3 0.0 1 3 4 0 0 0 2 1 5
+p10
+aVMarcin Gortat ORL 04/16/2008 ORL vs. WAS W 28 12 5 11 45.5 0 0 - 2 3 66.7 5 6 11 2 1 1 1 1 11
+p11
+aVKeyon Dooling ORL 04/16/2008 ORL vs. WAS W 20 9 3 8 37.5 0 1 0.0 3 4 75.0 0 3 3 4 1 0 0 1 15
+p12
+aVHedo Turkoglu ORL 04/16/2008 ORL vs. WAS W 16 11 5 8 62.5 1 2 50.0 0 0 - 1 3 4 2 0 0 1 0 9
+p13
+aVHedo Turkoglu ORL 04/15/2008 ORL @ ATL W 29 17 7 9 77.8 1 2 50.0 2 2 100.0 1 3 4 8 0 0 3 2 4
+p14
+aVJameer Nelson ORL 04/15/2008 ORL @ ATL W 22 14 6 7 85.7 2 2 100.0 0 0 - 0 2 2 5 1 0 2 1 22
+p15
+aVKeyon Dooling ORL 04/15/2008 ORL @ ATL W 26 11 3 8 37.5 0 2 0.0 5 6 83.3 0 3 3 9 0 1 0 1 -6
+p16
+aVJames Augustine ORL 04/15/2008 ORL @ ATL W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -7
+p17
+aVMaurice Evans ORL 04/15/2008 ORL @ ATL W 36 27 11 16 68.8 4 6 66.7 1 1 100.0 1 2 3 1 0 0 1 1 32
+p18
+aVKeith Bogans ORL 04/15/2008 ORL @ ATL W 11 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 1 0 0 1 2
+p19
+aVDwight Howard ORL 04/15/2008 ORL @ ATL W 29 15 6 12 50.0 0 0 - 3 6 50.0 2 11 13 1 0 1 2 2 16
+p20
+aVRashard Lewis ORL 04/15/2008 ORL @ ATL W 31 12 5 12 41.7 1 5 20.0 1 2 50.0 0 5 5 2 5 1 1 1 14
+p21
+aVJJ Redick ORL 04/15/2008 ORL @ ATL W 12 11 4 6 66.7 2 3 66.7 1 2 50.0 0 1 1 1 0 0 1 3 7
+p22
+aVPat Garrity ORL 04/15/2008 ORL @ ATL W 11 3 0 2 0.0 0 0 - 3 3 100.0 1 3 4 1 1 0 1 0 4
+p23
+aVCarlos Arroyo ORL 04/15/2008 ORL @ ATL W 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -8
+p24
+aVAdonal Foyle ORL 04/15/2008 ORL @ ATL W 19 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 2 1 1 3 0
+p25
+aVRashard Lewis ORL 04/13/2008 ORL @ CHI W 32 18 6 11 54.5 4 8 50.0 2 4 50.0 3 3 6 3 2 0 0 4 16
+p26
+aVMaurice Evans ORL 04/13/2008 ORL @ CHI W 22 10 4 7 57.1 1 3 33.3 1 2 50.0 1 5 6 1 1 0 0 3 12
+p27
+aVPat Garrity ORL 04/13/2008 ORL @ CHI W 3 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 0
+p28
+aVCarlos Arroyo ORL 04/13/2008 ORL @ CHI W 22 6 1 4 25.0 0 1 0.0 4 4 100.0 0 1 1 2 0 0 2 1 8
+p29
+aVKeith Bogans ORL 04/13/2008 ORL @ CHI W 28 8 3 9 33.3 2 7 28.6 0 0 - 1 6 7 2 0 0 2 2 7
+p30
+aVJames Augustine ORL 04/13/2008 ORL @ CHI W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p31
+aVAdonal Foyle ORL 04/13/2008 ORL @ CHI W 15 4 2 4 50.0 0 0 - 0 0 - 1 5 6 1 2 2 1 2 9
+p32
+aVKeyon Dooling ORL 04/13/2008 ORL @ CHI W 22 8 3 5 60.0 1 2 50.0 1 1 100.0 0 1 1 0 3 0 0 2 0
+p33
+aVHedo Turkoglu ORL 04/13/2008 ORL @ CHI W 34 24 9 17 52.9 2 4 50.0 4 4 100.0 0 4 4 8 3 1 5 2 25
+p34
+aVJJ Redick ORL 04/13/2008 ORL @ CHI W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p35
+aVJameer Nelson ORL 04/13/2008 ORL @ CHI W 26 3 1 2 50.0 1 2 50.0 0 2 0.0 0 4 4 4 1 0 2 2 12
+p36
+aVDwight Howard ORL 04/13/2008 ORL @ CHI W 30 19 3 4 75.0 0 0 - 13 17 76.5 2 3 5 2 0 1 4 2 11
+p37
+aVMaurice Evans ORL 04/11/2008 ORL vs. MIN L 31 17 7 9 77.8 3 5 60.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p38
+aVCarlos Arroyo ORL 04/11/2008 ORL vs. MIN L 16 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 4 1 0 1 0 5
+p39
+aVJameer Nelson ORL 04/11/2008 ORL vs. MIN L 32 9 3 6 50.0 2 3 66.7 1 2 50.0 0 5 5 3 0 0 2 1 -6
+p40
+aVRashard Lewis ORL 04/11/2008 ORL vs. MIN L 41 18 7 15 46.7 4 9 44.4 0 1 0.0 3 4 7 4 1 3 1 1 -7
+p41
+aVAdonal Foyle ORL 04/11/2008 ORL vs. MIN L 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 11
+p42
+aVHedo Turkoglu ORL 04/11/2008 ORL vs. MIN L 37 23 8 18 44.4 1 5 20.0 6 8 75.0 0 2 2 7 1 0 4 3 16
+p43
+aVDwight Howard ORL 04/11/2008 ORL vs. MIN L 39 20 8 13 61.5 0 0 - 4 9 44.4 3 11 14 4 1 1 5 4 -12
+p44
+aVKeyon Dooling ORL 04/11/2008 ORL vs. MIN L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -14
+p45
+aVKeith Bogans ORL 04/11/2008 ORL vs. MIN L 20 3 1 4 25.0 1 3 33.3 0 0 - 0 6 6 3 1 0 0 1 9
+p46
+aVRashard Lewis ORL 04/09/2008 ORL vs. CHI W 39 21 8 16 50.0 4 9 44.4 1 1 100.0 0 7 7 4 2 1 5 3 20
+p47
+aVDwight Howard ORL 04/09/2008 ORL vs. CHI W 32 30 12 15 80.0 0 0 - 6 13 46.2 1 13 14 1 1 1 3 4 28
+p48
+aVJameer Nelson ORL 04/09/2008 ORL vs. CHI W 22 9 3 5 60.0 1 2 50.0 2 2 100.0 0 4 4 5 2 0 0 2 -11
+p49
+aVJames Augustine ORL 04/09/2008 ORL vs. CHI W 3 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 0 0 0 4
+p50
+aVKeyon Dooling ORL 04/09/2008 ORL vs. CHI W 16 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 1 26
+p51
+aVPat Garrity ORL 04/09/2008 ORL vs. CHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 4
+p52
+aVKeith Bogans ORL 04/09/2008 ORL vs. CHI W 19 5 2 4 50.0 0 2 0.0 1 2 50.0 0 3 3 3 1 0 1 1 9
+p53
+aVHedo Turkoglu ORL 04/09/2008 ORL vs. CHI W 33 12 4 15 26.7 0 4 0.0 4 4 100.0 3 3 6 8 1 0 2 3 26
+p54
+aVMaurice Evans ORL 04/09/2008 ORL vs. CHI W 29 6 3 9 33.3 0 3 0.0 0 0 - 1 1 2 1 2 0 1 1 0
+p55
+aVCarlos Arroyo ORL 04/09/2008 ORL vs. CHI W 26 13 6 8 75.0 1 2 50.0 0 0 - 0 4 4 6 0 0 3 2 43
+p56
+aVAdonal Foyle ORL 04/09/2008 ORL vs. CHI W 12 4 2 6 33.3 0 0 - 0 3 0.0 2 4 6 1 0 0 0 1 2
+p57
+aVJJ Redick ORL 04/09/2008 ORL vs. CHI W 5 5 1 3 33.3 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 9
+p58
+aVKeyon Dooling ORL 04/06/2008 ORL @ NYK L 19 4 1 2 50.0 0 0 - 2 3 66.7 1 4 5 2 0 0 1 4 8
+p59
+aVJameer Nelson ORL 04/06/2008 ORL @ NYK L 32 19 6 11 54.5 2 4 50.0 5 5 100.0 0 5 5 1 0 0 4 5 -18
+p60
+aVHedo Turkoglu ORL 04/06/2008 ORL @ NYK L 40 22 8 17 47.1 1 7 14.3 5 7 71.4 0 4 4 6 2 0 4 4 -11
+p61
+aVDwight Howard ORL 04/06/2008 ORL @ NYK L 38 13 5 8 62.5 0 0 - 3 10 30.0 7 8 15 0 1 1 2 4 -18
+p62
+aVPat Garrity ORL 04/06/2008 ORL @ NYK L 21 4 2 8 25.0 0 4 0.0 0 0 - 0 0 0 1 0 0 0 2 2
+p63
+aVAdonal Foyle ORL 04/06/2008 ORL @ NYK L 10 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 1 0 1 8
+p64
+aVMaurice Evans ORL 04/06/2008 ORL @ NYK L 30 16 6 15 40.0 4 8 50.0 0 0 - 3 4 7 0 0 1 1 0 -13
+p65
+aVRashard Lewis ORL 04/06/2008 ORL @ NYK L 31 6 2 12 16.7 1 9 11.1 1 2 50.0 0 9 9 6 0 0 1 5 -12
+p66
+aVKeith Bogans ORL 04/06/2008 ORL @ NYK L 19 4 1 5 20.0 1 4 25.0 1 2 50.0 0 3 3 1 0 0 1 0 4
+p67
+aVKeyon Dooling ORL 04/05/2008 ORL @ CLE W 15 7 2 5 40.0 0 1 0.0 3 4 75.0 0 0 0 1 0 0 0 0 7
+p68
+aVRashard Lewis ORL 04/05/2008 ORL @ CLE W 40 21 5 10 50.0 3 5 60.0 8 8 100.0 1 3 4 2 3 0 2 1 4
+p69
+aVHedo Turkoglu ORL 04/05/2008 ORL @ CLE W 38 23 8 14 57.1 2 3 66.7 5 6 83.3 1 4 5 5 2 2 3 2 20
+p70
+aVAdonal Foyle ORL 04/05/2008 ORL @ CLE W 9 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -3
+p71
+aVMaurice Evans ORL 04/05/2008 ORL @ CLE W 22 11 5 12 41.7 1 5 20.0 0 0 - 1 0 1 1 2 0 1 3 4
+p72
+aVKeith Bogans ORL 04/05/2008 ORL @ CLE W 26 2 1 5 20.0 0 3 0.0 0 0 - 0 4 4 2 0 0 2 3 11
+p73
+aVDwight Howard ORL 04/05/2008 ORL @ CLE W 39 4 1 8 12.5 0 0 - 2 2 100.0 1 11 12 3 0 0 3 5 18
+p74
+aVPat Garrity ORL 04/05/2008 ORL @ CLE W 18 13 5 9 55.6 3 6 50.0 0 0 - 0 2 2 0 1 0 0 1 6
+p75
+aVJameer Nelson ORL 04/05/2008 ORL @ CLE W 33 16 7 12 58.3 2 3 66.7 0 0 - 1 2 3 9 2 1 0 2 8
+p76
+aVDwight Howard ORL 04/01/2008 ORL vs. NOH L 42 17 7 9 77.8 0 0 - 3 5 60.0 0 15 15 1 1 2 0 4 -1
+p77
+aVKeyon Dooling ORL 04/01/2008 ORL vs. NOH L 24 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 4 1 1 0 4 -10
+p78
+aVHedo Turkoglu ORL 04/01/2008 ORL vs. NOH L 43 26 10 19 52.6 2 3 66.7 4 6 66.7 0 5 5 7 0 0 5 5 7
+p79
+aVCarlos Arroyo ORL 04/01/2008 ORL vs. NOH L 23 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 4 0 0 2 3 7
+p80
+aVKeith Bogans ORL 04/01/2008 ORL vs. NOH L 27 11 4 10 40.0 3 8 37.5 0 0 - 0 3 3 0 0 0 0 0 6
+p81
+aVPat Garrity ORL 04/01/2008 ORL vs. NOH L 15 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 0 0 0 2 3 -14
+p82
+aVMaurice Evans ORL 04/01/2008 ORL vs. NOH L 31 11 3 7 42.9 2 5 40.0 3 4 75.0 1 0 1 0 0 0 1 2 -5
+p83
+aVAdonal Foyle ORL 04/01/2008 ORL vs. NOH L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p84
+aVRashard Lewis ORL 04/01/2008 ORL vs. NOH L 29 24 9 12 75.0 6 8 75.0 0 0 - 0 1 1 4 2 0 1 4 5
+p85
+aVMaurice Evans ORL 03/28/2008 ORL @ MIL W 29 10 4 8 50.0 2 4 50.0 0 0 - 3 3 6 1 2 0 0 1 19
+p86
+aVCarlos Arroyo ORL 03/28/2008 ORL @ MIL W 30 13 4 7 57.1 1 2 50.0 4 4 100.0 0 1 1 9 2 0 3 3 13
+p87
+aVHedo Turkoglu ORL 03/28/2008 ORL @ MIL W 36 12 4 13 30.8 2 7 28.6 2 4 50.0 2 5 7 3 0 0 5 2 10
+p88
+aVMarcin Gortat ORL 03/28/2008 ORL @ MIL W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p89
+aVJJ Redick ORL 03/28/2008 ORL @ MIL W 4 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p90
+aVDwight Howard ORL 03/28/2008 ORL @ MIL W 32 25 7 12 58.3 0 0 - 11 14 78.6 1 10 11 1 0 2 2 1 17
+p91
+aVPat Garrity ORL 03/28/2008 ORL @ MIL W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -2
+p92
+aVAdonal Foyle ORL 03/28/2008 ORL @ MIL W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 1 2
+p93
+aVRashard Lewis ORL 03/28/2008 ORL @ MIL W 36 16 6 15 40.0 3 6 50.0 1 2 50.0 0 7 7 0 2 1 2 2 19
+p94
+aVKeyon Dooling ORL 03/28/2008 ORL @ MIL W 18 7 2 7 28.6 0 1 0.0 3 4 75.0 0 4 4 1 1 0 1 2 4
+p95
+aVBrian Cook ORL 03/28/2008 ORL @ MIL W 20 12 4 7 57.1 2 5 40.0 2 2 100.0 0 2 2 1 0 1 0 3 9
+p96
+aVKeith Bogans ORL 03/28/2008 ORL @ MIL W 18 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 0 2 1 0 3 -2
+p97
+aVJJ Redick ORL 03/25/2008 ORL vs. SAS L 9 2 0 5 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -12
+p98
+aVMaurice Evans ORL 03/25/2008 ORL vs. SAS L 33 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 7 0 0 1 3 -9
+p99
+aVJameer Nelson ORL 03/25/2008 ORL vs. SAS L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p100
+aVCarlos Arroyo ORL 03/25/2008 ORL vs. SAS L 28 17 7 14 50.0 1 2 50.0 2 2 100.0 1 2 3 2 0 0 1 4 -15
+p101
+aVHedo Turkoglu ORL 03/25/2008 ORL vs. SAS L 10 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 2
+p102
+aVKeith Bogans ORL 03/25/2008 ORL vs. SAS L 25 4 1 3 33.3 1 2 50.0 1 5 20.0 0 3 3 2 1 0 0 4 1
+p103
+aVKeyon Dooling ORL 03/25/2008 ORL vs. SAS L 34 19 7 12 58.3 1 2 50.0 4 5 80.0 0 2 2 3 4 0 2 2 7
+p104
+aVAdonal Foyle ORL 03/25/2008 ORL vs. SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 4
+p105
+aVDwight Howard ORL 03/25/2008 ORL vs. SAS L 42 24 10 18 55.6 0 0 - 4 8 50.0 6 15 21 0 1 2 2 6 -14
+p106
+aVRashard Lewis ORL 03/25/2008 ORL vs. SAS L 42 24 7 12 58.3 3 5 60.0 7 8 87.5 2 5 7 0 1 0 2 5 -8
+p107
+aVBrian Cook ORL 03/25/2008 ORL vs. SAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p108
+aVJameer Nelson ORL 03/22/2008 ORL @ ATL L 26 16 7 12 58.3 2 3 66.7 0 0 - 0 2 2 3 2 0 1 5 -7
+p109
+aVHedo Turkoglu ORL 03/22/2008 ORL @ ATL L 36 18 7 15 46.7 3 5 60.0 1 1 100.0 1 1 2 3 1 1 4 4 0
+p110
+aVKeyon Dooling ORL 03/22/2008 ORL @ ATL L 22 9 3 10 30.0 0 0 - 3 4 75.0 1 2 3 4 1 0 1 1 -1
+p111
+aVAdonal Foyle ORL 03/22/2008 ORL @ ATL L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 2 0 0 1
+p112
+aVBrian Cook ORL 03/22/2008 ORL @ ATL L 13 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p113
+aVDwight Howard ORL 03/22/2008 ORL @ ATL L 37 11 3 5 60.0 0 0 - 5 11 45.5 2 14 16 2 2 2 3 3 -9
+p114
+aVMaurice Evans ORL 03/22/2008 ORL @ ATL L 31 14 6 10 60.0 2 4 50.0 0 0 - 0 3 3 1 2 0 1 4 -9
+p115
+aVRashard Lewis ORL 03/22/2008 ORL @ ATL L 37 14 6 18 33.3 2 7 28.6 0 0 - 4 3 7 3 2 0 1 3 -9
+p116
+aVKeith Bogans ORL 03/22/2008 ORL @ ATL L 26 8 3 11 27.3 1 8 12.5 1 2 50.0 1 1 2 4 1 0 1 2 -3
+p117
+aVHedo Turkoglu ORL 03/21/2008 ORL vs. PHI W 30 16 4 8 50.0 1 1 100.0 7 7 100.0 1 1 2 9 1 0 5 3 35
+p118
+aVMaurice Evans ORL 03/21/2008 ORL vs. PHI W 27 12 4 11 36.4 4 7 57.1 0 0 - 0 1 1 2 0 2 1 2 25
+p119
+aVJJ Redick ORL 03/21/2008 ORL vs. PHI W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 3 1 -10
+p120
+aVKeyon Dooling ORL 03/21/2008 ORL vs. PHI W 18 13 6 8 75.0 1 1 100.0 0 1 0.0 0 1 1 1 1 0 0 3 1
+p121
+aVAdonal Foyle ORL 03/21/2008 ORL vs. PHI W 23 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 1 1 2 1 -7
+p122
+aVJameer Nelson ORL 03/21/2008 ORL vs. PHI W 26 12 4 6 66.7 1 2 50.0 3 3 100.0 0 4 4 7 0 0 1 2 28
+p123
+aVBrian Cook ORL 03/21/2008 ORL vs. PHI W 18 10 3 7 42.9 2 3 66.7 2 2 100.0 0 5 5 1 0 0 1 0 -12
+p124
+aVRashard Lewis ORL 03/21/2008 ORL vs. PHI W 33 18 8 15 53.3 2 3 66.7 0 0 - 3 5 8 0 0 0 2 2 15
+p125
+aVKeith Bogans ORL 03/21/2008 ORL vs. PHI W 22 11 3 8 37.5 3 5 60.0 2 2 100.0 2 2 4 2 0 0 0 2 11
+p126
+aVDwight Howard ORL 03/21/2008 ORL vs. PHI W 23 13 5 7 71.4 0 0 - 3 3 100.0 4 8 12 2 0 0 4 3 22
+p127
+aVPat Garrity ORL 03/21/2008 ORL vs. PHI W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -9
+p128
+aVCarlos Arroyo ORL 03/21/2008 ORL vs. PHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -9
+p129
+aVJameer Nelson ORL 03/19/2008 ORL vs. WAS L 34 12 4 9 44.4 1 4 25.0 3 4 75.0 2 3 5 9 1 0 3 0 -1
+p130
+aVDwight Howard ORL 03/19/2008 ORL vs. WAS L 31 3 1 6 16.7 0 0 - 1 2 50.0 0 14 14 0 0 1 4 5 -3
+p131
+aVBrian Cook ORL 03/19/2008 ORL vs. WAS L 9 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 -1
+p132
+aVCarlos Arroyo ORL 03/19/2008 ORL vs. WAS L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p133
+aVKeyon Dooling ORL 03/19/2008 ORL vs. WAS L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 4
+p134
+aVHedo Turkoglu ORL 03/19/2008 ORL vs. WAS L 41 39 11 20 55.0 7 9 77.8 10 14 71.4 2 4 6 3 1 1 0 4 2
+p135
+aVPat Garrity ORL 03/19/2008 ORL vs. WAS L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -4
+p136
+aVRashard Lewis ORL 03/19/2008 ORL vs. WAS L 39 7 2 13 15.4 1 9 11.1 2 2 100.0 2 6 8 3 0 0 2 2 1
+p137
+aVAdonal Foyle ORL 03/19/2008 ORL vs. WAS L 17 2 1 6 16.7 0 0 - 0 0 - 4 2 6 1 0 0 0 0 2
+p138
+aVMaurice Evans ORL 03/19/2008 ORL vs. WAS L 24 7 1 4 25.0 1 2 50.0 4 4 100.0 1 0 1 1 1 0 0 2 -3
+p139
+aVKeith Bogans ORL 03/19/2008 ORL vs. WAS L 24 14 5 10 50.0 4 7 57.1 0 0 - 0 0 0 1 0 1 0 0 2
+p140
+aVKeyon Dooling ORL 03/17/2008 ORL vs. CLE W 16 8 3 8 37.5 1 1 100.0 1 2 50.0 0 0 0 2 0 0 2 3 11
+p141
+aVDwight Howard ORL 03/17/2008 ORL vs. CLE W 41 23 6 14 42.9 0 0 - 11 15 73.3 4 9 13 2 1 2 1 3 9
+p142
+aVJameer Nelson ORL 03/17/2008 ORL vs. CLE W 33 6 2 12 16.7 1 6 16.7 1 1 100.0 0 2 2 7 0 0 3 0 1
+p143
+aVBrian Cook ORL 03/17/2008 ORL vs. CLE W 7 5 2 7 28.6 1 4 25.0 0 0 - 2 1 3 1 0 1 0 3 4
+p144
+aVHedo Turkoglu ORL 03/17/2008 ORL vs. CLE W 41 18 5 16 31.3 3 6 50.0 5 6 83.3 1 6 7 5 0 0 3 2 6
+p145
+aVRashard Lewis ORL 03/17/2008 ORL vs. CLE W 31 21 7 11 63.6 3 5 60.0 4 4 100.0 1 5 6 2 1 0 1 3 17
+p146
+aVKeith Bogans ORL 03/17/2008 ORL vs. CLE W 24 6 2 8 25.0 2 6 33.3 0 0 - 0 1 1 2 1 0 0 0 11
+p147
+aVAdonal Foyle ORL 03/17/2008 ORL vs. CLE W 7 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 5
+p148
+aVMaurice Evans ORL 03/17/2008 ORL vs. CLE W 24 10 4 5 80.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 1 3
+p149
+aVPat Garrity ORL 03/17/2008 ORL vs. CLE W 18 5 2 3 66.7 1 2 50.0 0 0 - 1 2 3 0 0 1 0 1 3
+p150
+aVBrian Cook ORL 03/15/2008 ORL vs. IND W 17 8 3 6 50.0 2 2 100.0 0 0 - 1 2 3 1 3 0 2 1 0
+p151
+aVKeith Bogans ORL 03/15/2008 ORL vs. IND W 31 11 4 6 66.7 3 3 100.0 0 0 - 0 4 4 4 1 0 1 2 2
+p152
+aVAdonal Foyle ORL 03/15/2008 ORL vs. IND W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 9
+p153
+aVCarlos Arroyo ORL 03/15/2008 ORL vs. IND W 16 9 3 4 75.0 0 1 0.0 3 3 100.0 0 1 1 4 0 0 3 1 -8
+p154
+aVRashard Lewis ORL 03/15/2008 ORL vs. IND W 36 22 8 11 72.7 3 5 60.0 3 3 100.0 0 5 5 3 1 1 0 3 12
+p155
+aVHedo Turkoglu ORL 03/15/2008 ORL vs. IND W 40 27 13 23 56.5 1 4 25.0 0 0 - 0 4 4 6 0 0 4 4 8
+p156
+aVDwight Howard ORL 03/15/2008 ORL vs. IND W 36 18 9 13 69.2 0 0 - 0 5 0.0 2 10 12 1 0 3 7 6 5
+p157
+aVJameer Nelson ORL 03/15/2008 ORL vs. IND W 32 8 2 5 40.0 1 2 50.0 3 4 75.0 0 2 2 9 3 0 5 1 19
+p158
+aVMaurice Evans ORL 03/15/2008 ORL vs. IND W 25 19 7 8 87.5 2 3 66.7 3 4 75.0 1 3 4 2 1 0 0 3 8
+p159
+aVDwight Howard ORL 03/14/2008 ORL @ MIA W 42 18 6 13 46.2 0 0 - 6 16 37.5 8 8 16 2 1 1 4 3 13
+p160
+aVJameer Nelson ORL 03/14/2008 ORL @ MIA W 33 21 6 7 85.7 3 4 75.0 6 6 100.0 1 3 4 7 1 0 0 0 15
+p161
+aVMaurice Evans ORL 03/14/2008 ORL @ MIA W 18 8 4 7 57.1 0 2 0.0 0 0 - 1 0 1 1 0 0 0 0 8
+p162
+aVKeith Bogans ORL 03/14/2008 ORL @ MIA W 20 5 1 5 20.0 1 4 25.0 2 2 100.0 0 0 0 0 2 0 0 1 5
+p163
+aVAdonal Foyle ORL 03/14/2008 ORL @ MIA W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p164
+aVKeyon Dooling ORL 03/14/2008 ORL @ MIA W 20 10 3 4 75.0 1 2 50.0 3 4 75.0 0 1 1 0 0 0 0 1 0
+p165
+aVHedo Turkoglu ORL 03/14/2008 ORL @ MIA W 38 20 7 16 43.8 3 7 42.9 3 4 75.0 1 4 5 6 2 1 1 2 9
+p166
+aVBrian Cook ORL 03/14/2008 ORL @ MIA W 14 4 1 5 20.0 0 3 0.0 2 2 100.0 1 2 3 1 0 0 0 0 -7
+p167
+aVCarlos Arroyo ORL 03/14/2008 ORL @ MIA W 10 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 0 -5
+p168
+aVRashard Lewis ORL 03/14/2008 ORL @ MIA W 40 15 6 13 46.2 2 6 33.3 1 2 50.0 3 5 8 2 0 1 4 3 11
+p169
+aVDwight Howard ORL 03/12/2008 ORL vs. LAC W 35 22 9 14 64.3 0 0 - 4 5 80.0 4 9 13 1 0 3 7 2 20
+p170
+aVMaurice Evans ORL 03/12/2008 ORL vs. LAC W 29 13 5 12 41.7 2 5 40.0 1 1 100.0 0 4 4 1 1 0 0 1 10
+p171
+aVJJ Redick ORL 03/12/2008 ORL vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p172
+aVKeyon Dooling ORL 03/12/2008 ORL vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p173
+aVJameer Nelson ORL 03/12/2008 ORL vs. LAC W 23 12 3 5 60.0 2 3 66.7 4 4 100.0 0 2 2 5 1 0 0 4 19
+p174
+aVBrian Cook ORL 03/12/2008 ORL vs. LAC W 26 5 2 6 33.3 1 2 50.0 0 0 - 2 4 6 1 0 1 0 4 22
+p175
+aVCarlos Arroyo ORL 03/12/2008 ORL vs. LAC W 22 13 6 8 75.0 1 2 50.0 0 0 - 0 2 2 4 0 0 1 1 3
+p176
+aVAdonal Foyle ORL 03/12/2008 ORL vs. LAC W 7 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -1
+p177
+aVHedo Turkoglu ORL 03/12/2008 ORL vs. LAC W 33 17 6 16 37.5 3 7 42.9 2 2 100.0 1 6 7 4 1 0 3 3 16
+p178
+aVPat Garrity ORL 03/12/2008 ORL vs. LAC W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p179
+aVRashard Lewis ORL 03/12/2008 ORL vs. LAC W 39 19 7 12 58.3 2 7 28.6 3 3 100.0 0 9 9 5 0 0 1 3 9
+p180
+aVKeith Bogans ORL 03/12/2008 ORL vs. LAC W 19 3 1 5 20.0 0 4 0.0 1 2 50.0 0 1 1 0 0 0 0 3 12
+p181
+aVDwight Howard ORL 03/10/2008 ORL vs. ATL W 41 26 8 14 57.1 0 0 - 10 15 66.7 3 13 16 1 1 1 3 3 23
+p182
+aVMaurice Evans ORL 03/10/2008 ORL vs. ATL W 27 7 3 7 42.9 1 2 50.0 0 0 - 2 2 4 1 0 0 0 1 -2
+p183
+aVCarlos Arroyo ORL 03/10/2008 ORL vs. ATL W 24 11 4 7 57.1 2 3 66.7 1 2 50.0 0 1 1 3 0 0 1 2 6
+p184
+aVBrian Cook ORL 03/10/2008 ORL vs. ATL W 9 0 0 2 0.0 0 2 0.0 0 2 0.0 0 1 1 0 0 0 1 3 -4
+p185
+aVMarcin Gortat ORL 03/10/2008 ORL vs. ATL W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p186
+aVKeith Bogans ORL 03/10/2008 ORL vs. ATL W 31 19 7 8 87.5 3 4 75.0 2 3 66.7 0 1 1 1 1 0 0 2 4
+p187
+aVAdonal Foyle ORL 03/10/2008 ORL vs. ATL W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p188
+aVRashard Lewis ORL 03/10/2008 ORL vs. ATL W 39 22 8 16 50.0 4 7 57.1 2 2 100.0 3 3 6 4 1 1 2 1 20
+p189
+aVJameer Nelson ORL 03/10/2008 ORL vs. ATL W 24 13 5 10 50.0 2 4 50.0 1 2 50.0 1 1 2 4 1 0 0 3 5
+p190
+aVHedo Turkoglu ORL 03/10/2008 ORL vs. ATL W 38 23 9 17 52.9 3 6 50.0 2 2 100.0 0 10 10 13 0 0 2 2 15
+p191
+aVHedo Turkoglu ORL 03/08/2008 ORL vs. GSW L 42 23 9 17 52.9 2 4 50.0 3 4 75.0 1 4 5 4 2 0 7 4 -3
+p192
+aVKeith Bogans ORL 03/08/2008 ORL vs. GSW L 29 4 1 4 25.0 1 2 50.0 1 3 33.3 0 3 3 2 0 0 0 2 -7
+p193
+aVDwight Howard ORL 03/08/2008 ORL vs. GSW L 42 26 8 14 57.1 0 0 - 10 14 71.4 1 11 12 1 0 5 4 5 -5
+p194
+aVMaurice Evans ORL 03/08/2008 ORL vs. GSW L 25 5 2 6 33.3 1 3 33.3 0 0 - 1 3 4 0 0 0 1 2 -8
+p195
+aVJameer Nelson ORL 03/08/2008 ORL vs. GSW L 30 10 3 7 42.9 2 4 50.0 2 2 100.0 0 3 3 5 1 0 3 0 5
+p196
+aVRashard Lewis ORL 03/08/2008 ORL vs. GSW L 42 21 9 18 50.0 3 7 42.9 0 0 - 0 8 8 3 0 1 4 1 -8
+p197
+aVCarlos Arroyo ORL 03/08/2008 ORL vs. GSW L 9 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 0 0 1 0 1 -5
+p198
+aVKeyon Dooling ORL 03/08/2008 ORL vs. GSW L 14 3 1 6 16.7 0 0 - 1 1 100.0 1 2 3 2 0 0 0 1 -10
+p199
+aVAdonal Foyle ORL 03/08/2008 ORL vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p200
+aVBrian Cook ORL 03/08/2008 ORL vs. GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p201
+aVCarlos Arroyo ORL 03/05/2008 ORL @ WAS W 27 11 4 8 50.0 1 2 50.0 2 2 100.0 0 4 4 6 0 0 1 0 16
+p202
+aVMaurice Evans ORL 03/05/2008 ORL @ WAS W 32 17 6 8 75.0 2 3 66.7 3 4 75.0 1 5 6 1 2 0 0 2 21
+p203
+aVAdonal Foyle ORL 03/05/2008 ORL @ WAS W 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 6
+p204
+aVDwight Howard ORL 03/05/2008 ORL @ WAS W 32 20 7 12 58.3 0 0 - 6 6 100.0 2 9 11 1 2 0 2 2 25
+p205
+aVKeith Bogans ORL 03/05/2008 ORL @ WAS W 18 17 6 8 75.0 3 5 60.0 2 2 100.0 0 1 1 2 1 0 0 0 9
+p206
+aVPat Garrity ORL 03/05/2008 ORL @ WAS W 5 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 0 -1
+p207
+aVJJ Redick ORL 03/05/2008 ORL @ WAS W 9 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 2 0 0 1 0 3
+p208
+aVHedo Turkoglu ORL 03/05/2008 ORL @ WAS W 28 12 5 9 55.6 0 2 0.0 2 2 100.0 1 4 5 1 0 0 3 5 17
+p209
+aVRashard Lewis ORL 03/05/2008 ORL @ WAS W 30 17 6 13 46.2 4 8 50.0 1 2 50.0 0 4 4 1 2 0 1 1 34
+p210
+aVJameer Nelson ORL 03/05/2008 ORL @ WAS W 21 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 10 2 0 1 2 14
+p211
+aVBrian Cook ORL 03/05/2008 ORL @ WAS W 20 6 3 9 33.3 0 4 0.0 0 0 - 0 3 3 1 0 0 1 0 7
+p212
+aVMarcin Gortat ORL 03/05/2008 ORL @ WAS W 5 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -1
+p213
+aVJameer Nelson ORL 03/04/2008 ORL vs. TOR W 28 13 5 11 45.5 1 3 33.3 2 2 100.0 0 6 6 4 1 0 1 3 8
+p214
+aVRashard Lewis ORL 03/04/2008 ORL vs. TOR W 37 22 9 13 69.2 3 7 42.9 1 1 100.0 0 4 4 1 2 1 3 0 12
+p215
+aVMarcin Gortat ORL 03/04/2008 ORL vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p216
+aVBrian Cook ORL 03/04/2008 ORL vs. TOR W 19 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 1 1 0 1 2 1
+p217
+aVCarlos Arroyo ORL 03/04/2008 ORL vs. TOR W 20 7 3 7 42.9 0 1 0.0 1 1 100.0 0 1 1 2 1 0 2 2 9
+p218
+aVDwight Howard ORL 03/04/2008 ORL vs. TOR W 30 19 7 10 70.0 0 0 - 5 8 62.5 1 13 14 0 1 1 3 5 23
+p219
+aVHedo Turkoglu ORL 03/04/2008 ORL vs. TOR W 40 24 9 16 56.3 2 3 66.7 4 6 66.7 0 7 7 8 0 0 3 1 10
+p220
+aVKeith Bogans ORL 03/04/2008 ORL vs. TOR W 25 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 1 1 0 0 1 13
+p221
+aVMaurice Evans ORL 03/04/2008 ORL vs. TOR W 26 2 1 7 14.3 0 4 0.0 0 0 - 0 3 3 1 0 0 1 1 -2
+p222
+aVAdonal Foyle ORL 03/04/2008 ORL vs. TOR W 13 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 0 1
+p223
+aVJJ Redick ORL 03/01/2008 ORL vs. NYK W 5 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 2
+p224
+aVRashard Lewis ORL 03/01/2008 ORL vs. NYK W 36 22 7 15 46.7 3 7 42.9 5 6 83.3 4 3 7 1 3 0 0 3 22
+p225
+aVHedo Turkoglu ORL 03/01/2008 ORL vs. NYK W 43 25 9 17 52.9 2 6 33.3 5 5 100.0 1 7 8 10 0 0 4 1 35
+p226
+aVBrian Cook ORL 03/01/2008 ORL vs. NYK W 15 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 1 0 0 1 3 -5
+p227
+aVMaurice Evans ORL 03/01/2008 ORL vs. NYK W 23 11 4 6 66.7 1 1 100.0 2 2 100.0 2 0 2 0 0 0 0 2 -3
+p228
+aVCarlos Arroyo ORL 03/01/2008 ORL vs. NYK W 41 13 4 9 44.4 1 2 50.0 4 4 100.0 1 2 3 8 0 0 1 1 27
+p229
+aVPat Garrity ORL 03/01/2008 ORL vs. NYK W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p230
+aVKeith Bogans ORL 03/01/2008 ORL vs. NYK W 24 6 1 6 16.7 0 3 0.0 4 6 66.7 1 4 5 0 1 0 0 1 26
+p231
+aVMarcin Gortat ORL 03/01/2008 ORL vs. NYK W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p232
+aVDwight Howard ORL 03/01/2008 ORL vs. NYK W 38 26 10 16 62.5 0 0 - 6 12 50.0 5 17 22 1 3 2 4 3 39
+p233
+aVAdonal Foyle ORL 03/01/2008 ORL vs. NYK W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -13
+p234
+aVJames Augustine ORL 03/01/2008 ORL vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p235
+aVMaurice Evans ORL 02/27/2008 ORL @ PHI L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -11
+p236
+aVBrian Cook ORL 02/27/2008 ORL @ PHI L 15 9 3 8 37.5 1 4 25.0 2 2 100.0 2 2 4 0 0 0 2 2 6
+p237
+aVJJ Redick ORL 02/27/2008 ORL @ PHI L 16 10 4 10 40.0 2 4 50.0 0 2 0.0 0 2 2 1 0 0 2 2 0
+p238
+aVKeith Bogans ORL 02/27/2008 ORL @ PHI L 22 13 5 7 71.4 3 5 60.0 0 0 - 0 1 1 2 0 0 1 0 -1
+p239
+aVDwight Howard ORL 02/27/2008 ORL @ PHI L 44 14 6 13 46.2 0 0 - 2 7 28.6 6 10 16 0 1 1 3 3 -8
+p240
+aVCarlos Arroyo ORL 02/27/2008 ORL @ PHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p241
+aVRashard Lewis ORL 02/27/2008 ORL @ PHI L 41 19 5 15 33.3 4 10 40.0 5 6 83.3 2 4 6 1 1 0 3 3 -15
+p242
+aVHedo Turkoglu ORL 02/27/2008 ORL @ PHI L 40 20 5 12 41.7 1 2 50.0 9 10 90.0 1 6 7 6 0 0 5 2 -15
+p243
+aVKeyon Dooling ORL 02/27/2008 ORL @ PHI L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -4
+p244
+aVAdonal Foyle ORL 02/27/2008 ORL @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p245
+aVJameer Nelson ORL 02/27/2008 ORL @ PHI L 33 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 7 1 0 2 4 -10
+p246
+aVDwight Howard ORL 02/26/2008 ORL @ NJN W 41 17 5 10 50.0 0 0 - 7 15 46.7 0 10 10 0 0 2 4 4 3
+p247
+aVAdonal Foyle ORL 02/26/2008 ORL @ NJN W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p248
+aVKeyon Dooling ORL 02/26/2008 ORL @ NJN W 26 14 4 6 66.7 0 0 - 6 6 100.0 0 0 0 3 0 0 1 1 15
+p249
+aVHedo Turkoglu ORL 02/26/2008 ORL @ NJN W 40 25 8 13 61.5 2 4 50.0 7 8 87.5 1 4 5 3 2 0 3 3 6
+p250
+aVMaurice Evans ORL 02/26/2008 ORL @ NJN W 25 14 7 12 58.3 0 3 0.0 0 0 - 2 3 5 1 1 0 0 2 -1
+p251
+aVKeith Bogans ORL 02/26/2008 ORL @ NJN W 24 3 1 6 16.7 0 2 0.0 1 2 50.0 0 4 4 0 3 0 1 3 11
+p252
+aVRashard Lewis ORL 02/26/2008 ORL @ NJN W 39 25 7 10 70.0 3 4 75.0 8 12 66.7 0 6 6 4 1 0 0 1 11
+p253
+aVJameer Nelson ORL 02/26/2008 ORL @ NJN W 22 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 5 1 0 0 2 -5
+p254
+aVBrian Cook ORL 02/26/2008 ORL @ NJN W 16 0 0 3 0.0 0 3 0.0 0 0 - 0 5 5 0 0 0 1 0 3
+p255
+aVMaurice Evans ORL 02/24/2008 ORL vs. SAC W 23 14 7 10 70.0 0 1 0.0 0 0 - 3 1 4 2 1 0 0 3 2
+p256
+aVRashard Lewis ORL 02/24/2008 ORL vs. SAC W 40 16 5 12 41.7 4 6 66.7 2 2 100.0 1 6 7 2 2 3 0 2 20
+p257
+aVDwight Howard ORL 02/24/2008 ORL vs. SAC W 34 26 10 13 76.9 0 0 - 6 11 54.5 0 10 10 2 1 2 3 3 11
+p258
+aVHedo Turkoglu ORL 02/24/2008 ORL vs. SAC W 32 13 4 9 44.4 1 2 50.0 4 5 80.0 1 4 5 4 0 0 3 4 10
+p259
+aVBrian Cook ORL 02/24/2008 ORL vs. SAC W 18 14 5 8 62.5 4 5 80.0 0 0 - 0 4 4 2 0 0 1 4 12
+p260
+aVAdonal Foyle ORL 02/24/2008 ORL vs. SAC W 14 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 1 0 2 8
+p261
+aVJameer Nelson ORL 02/24/2008 ORL vs. SAC W 28 6 1 11 9.1 0 3 0.0 4 4 100.0 0 3 3 7 0 0 1 2 3
+p262
+aVJJ Redick ORL 02/24/2008 ORL vs. SAC W 3 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p263
+aVKeyon Dooling ORL 02/24/2008 ORL vs. SAC W 20 14 5 9 55.6 0 1 0.0 4 5 80.0 0 1 1 4 0 0 0 0 16
+p264
+aVPat Garrity ORL 02/24/2008 ORL vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p265
+aVKeith Bogans ORL 02/24/2008 ORL vs. SAC W 26 6 2 4 50.0 2 3 66.7 0 0 - 1 3 4 0 2 0 0 2 17
+p266
+aVDwight Howard ORL 02/22/2008 ORL vs. PHI W 41 24 9 12 75.0 0 0 - 6 10 60.0 4 14 18 2 1 3 1 4 22
+p267
+aVHedo Turkoglu ORL 02/22/2008 ORL vs. PHI W 42 31 9 17 52.9 7 11 63.6 6 6 100.0 2 3 5 7 0 0 5 1 17
+p268
+aVAdonal Foyle ORL 02/22/2008 ORL vs. PHI W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p269
+aVMaurice Evans ORL 02/22/2008 ORL vs. PHI W 31 6 3 11 27.3 0 4 0.0 0 0 - 1 4 5 1 0 0 0 4 7
+p270
+aVBrian Cook ORL 02/22/2008 ORL vs. PHI W 9 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 0 11
+p271
+aVKeith Bogans ORL 02/22/2008 ORL vs. PHI W 24 5 2 5 40.0 1 4 25.0 0 0 - 1 1 2 3 0 0 0 3 4
+p272
+aVJameer Nelson ORL 02/22/2008 ORL vs. PHI W 32 17 6 10 60.0 5 5 100.0 0 0 - 0 3 3 4 0 0 2 1 16
+p273
+aVRashard Lewis ORL 02/22/2008 ORL vs. PHI W 38 17 6 16 37.5 2 8 25.0 3 3 100.0 1 1 2 5 2 1 2 4 9
+p274
+aVKeyon Dooling ORL 02/22/2008 ORL vs. PHI W 16 9 4 6 66.7 0 0 - 1 1 100.0 0 0 0 2 1 0 0 2 0
+p275
+aVDwight Howard ORL 02/20/2008 ORL @ TOR L 42 37 13 16 81.3 0 0 - 11 15 73.3 10 5 15 0 1 1 3 4 -22
+p276
+aVBrian Cook ORL 02/20/2008 ORL @ TOR L 12 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 4 -9
+p277
+aVMaurice Evans ORL 02/20/2008 ORL @ TOR L 25 12 5 9 55.6 1 4 25.0 1 1 100.0 2 5 7 1 0 0 0 1 -5
+p278
+aVJameer Nelson ORL 02/20/2008 ORL @ TOR L 31 13 5 10 50.0 2 3 66.7 1 2 50.0 1 1 2 4 1 0 0 3 -14
+p279
+aVAdonal Foyle ORL 02/20/2008 ORL @ TOR L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p280
+aVKeyon Dooling ORL 02/20/2008 ORL @ TOR L 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -3
+p281
+aVRashard Lewis ORL 02/20/2008 ORL @ TOR L 44 16 6 14 42.9 2 6 33.3 2 2 100.0 1 3 4 2 1 0 2 2 -10
+p282
+aVKeith Bogans ORL 02/20/2008 ORL @ TOR L 28 11 3 12 25.0 2 7 28.6 3 3 100.0 2 3 5 0 0 0 1 0 -5
+p283
+aVHedo Turkoglu ORL 02/20/2008 ORL @ TOR L 34 16 4 16 25.0 1 6 16.7 7 9 77.8 1 3 4 9 0 0 2 3 -22
+p284
+aVMaurice Evans ORL 02/19/2008 ORL @ DET W 17 16 6 10 60.0 4 5 80.0 0 1 0.0 1 2 3 0 0 0 1 5 -7
+p285
+aVPat Garrity ORL 02/19/2008 ORL @ DET W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p286
+aVDwight Howard ORL 02/19/2008 ORL @ DET W 31 8 2 9 22.2 0 0 - 4 6 66.7 1 7 8 2 1 4 5 2 17
+p287
+aVJJ Redick ORL 02/19/2008 ORL @ DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p288
+aVRashard Lewis ORL 02/19/2008 ORL @ DET W 32 20 8 10 80.0 4 4 100.0 0 0 - 0 4 4 4 1 1 1 3 17
+p289
+aVAdonal Foyle ORL 02/19/2008 ORL @ DET W 17 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 0 0 2 2 1
+p290
+aVKeith Bogans ORL 02/19/2008 ORL @ DET W 32 19 6 8 75.0 3 4 75.0 4 4 100.0 0 3 3 1 2 0 0 1 25
+p291
+aVKeyon Dooling ORL 02/19/2008 ORL @ DET W 28 11 3 6 50.0 1 2 50.0 4 4 100.0 0 3 3 2 0 0 2 0 14
+p292
+aVJameer Nelson ORL 02/19/2008 ORL @ DET W 20 10 5 8 62.5 0 0 - 0 0 - 1 3 4 2 2 0 0 4 4
+p293
+aVBrian Cook ORL 02/19/2008 ORL @ DET W 17 5 2 8 25.0 1 2 50.0 0 0 - 1 3 4 1 0 1 1 6 9
+p294
+aVHedo Turkoglu ORL 02/19/2008 ORL @ DET W 41 12 4 13 30.8 0 2 0.0 4 4 100.0 1 3 4 6 0 0 2 0 23
+p295
+aVMaurice Evans ORL 02/13/2008 ORL vs. DEN W 18 2 1 8 12.5 0 1 0.0 0 0 - 2 1 3 1 0 0 0 2 1
+p296
+aVHedo Turkoglu ORL 02/13/2008 ORL vs. DEN W 25 18 8 17 47.1 2 4 50.0 0 1 0.0 0 4 4 3 0 0 4 5 7
+p297
+aVAdonal Foyle ORL 02/13/2008 ORL vs. DEN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 3
+p298
+aVBrian Cook ORL 02/13/2008 ORL vs. DEN W 29 18 7 9 77.8 4 5 80.0 0 0 - 3 2 5 1 0 0 4 4 1
+p299
+aVJameer Nelson ORL 02/13/2008 ORL vs. DEN W 34 13 6 15 40.0 0 2 0.0 1 1 100.0 1 3 4 5 2 0 2 4 5
+p300
+aVKeith Bogans ORL 02/13/2008 ORL vs. DEN W 22 2 1 7 14.3 0 4 0.0 0 0 - 1 1 2 1 1 0 0 3 8
+p301
+aVKeyon Dooling ORL 02/13/2008 ORL vs. DEN W 24 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 2 2 0 2 0 8
+p302
+aVDwight Howard ORL 02/13/2008 ORL vs. DEN W 42 23 8 13 61.5 0 1 0.0 7 14 50.0 9 15 24 3 1 2 5 3 8
+p303
+aVRashard Lewis ORL 02/13/2008 ORL vs. DEN W 42 25 9 14 64.3 2 5 40.0 5 5 100.0 0 7 7 1 1 0 1 2 14
+p304
+aVJameer Nelson ORL 02/11/2008 ORL vs. CLE L 38 22 7 14 50.0 0 1 0.0 8 10 80.0 1 3 4 4 1 1 5 3 10
+p305
+aVDwight Howard ORL 02/11/2008 ORL vs. CLE L 38 16 6 11 54.5 0 0 - 4 9 44.4 3 6 9 1 0 0 0 4 11
+p306
+aVAdonal Foyle ORL 02/11/2008 ORL vs. CLE L 8 4 1 5 20.0 0 0 - 2 2 100.0 2 0 2 0 0 1 1 4 -15
+p307
+aVCarlos Arroyo ORL 02/11/2008 ORL vs. CLE L 10 7 3 3 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 2 -17
+p308
+aVKeith Bogans ORL 02/11/2008 ORL vs. CLE L 21 7 2 6 33.3 1 4 25.0 2 2 100.0 1 4 5 1 1 0 0 4 -12
+p309
+aVBrian Cook ORL 02/11/2008 ORL vs. CLE L 17 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 0 2 0 0 1 -10
+p310
+aVHedo Turkoglu ORL 02/11/2008 ORL vs. CLE L 38 25 10 17 58.8 4 7 57.1 1 3 33.3 1 5 6 5 0 0 3 2 0
+p311
+aVMaurice Evans ORL 02/11/2008 ORL vs. CLE L 27 10 4 12 33.3 1 5 20.0 1 2 50.0 3 5 8 2 1 0 0 3 5
+p312
+aVRashard Lewis ORL 02/11/2008 ORL vs. CLE L 43 15 6 13 46.2 3 7 42.9 0 0 - 1 3 4 2 2 0 1 2 -7
+p313
+aVJameer Nelson ORL 02/08/2008 ORL vs. LAL L 38 17 7 15 46.7 1 2 50.0 2 2 100.0 0 2 2 9 0 0 0 4 -9
+p314
+aVAdonal Foyle ORL 02/08/2008 ORL vs. LAL L 13 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 0 0 0 0 4 -9
+p315
+aVKeith Bogans ORL 02/08/2008 ORL vs. LAL L 25 11 4 8 50.0 3 6 50.0 0 0 - 0 3 3 0 1 1 1 1 0
+p316
+aVKeyon Dooling ORL 02/08/2008 ORL vs. LAL L 10 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 3 0 0 0 1 5
+p317
+aVHedo Turkoglu ORL 02/08/2008 ORL vs. LAL L 33 16 5 13 38.5 3 8 37.5 3 4 75.0 1 3 4 6 1 1 3 5 6
+p318
+aVDwight Howard ORL 02/08/2008 ORL vs. LAL L 29 19 8 8 100.0 0 0 - 3 5 60.0 3 8 11 1 0 0 2 5 2
+p319
+aVRashard Lewis ORL 02/08/2008 ORL vs. LAL L 42 16 5 11 45.5 3 6 50.0 3 3 100.0 0 3 3 3 1 0 1 0 -9
+p320
+aVMaurice Evans ORL 02/08/2008 ORL vs. LAL L 23 12 5 10 50.0 2 5 40.0 0 0 - 0 2 2 2 0 0 2 3 -4
+p321
+aVBrian Cook ORL 02/08/2008 ORL vs. LAL L 19 11 3 5 60.0 3 4 75.0 2 2 100.0 3 1 4 1 1 1 1 3 -1
+p322
+aVPat Garrity ORL 02/08/2008 ORL vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p323
+aVJJ Redick ORL 02/08/2008 ORL vs. LAL L 7 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -1
+p324
+aVMaurice Evans ORL 02/06/2008 ORL vs. NJN W 26 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 1 4
+p325
+aVBrian Cook ORL 02/06/2008 ORL vs. NJN W 17 11 4 8 50.0 3 3 100.0 0 0 - 1 1 2 0 1 0 2 2 7
+p326
+aVCarlos Arroyo ORL 02/06/2008 ORL vs. NJN W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 0 -11
+p327
+aVKeyon Dooling ORL 02/06/2008 ORL vs. NJN W 17 11 4 6 66.7 0 0 - 3 4 75.0 1 1 2 0 1 0 1 0 15
+p328
+aVDwight Howard ORL 02/06/2008 ORL vs. NJN W 34 21 6 11 54.5 0 0 - 9 13 69.2 4 9 13 1 0 2 1 2 15
+p329
+aVRashard Lewis ORL 02/06/2008 ORL vs. NJN W 40 19 6 14 42.9 4 8 50.0 3 4 75.0 1 5 6 4 4 1 2 4 13
+p330
+aVHedo Turkoglu ORL 02/06/2008 ORL vs. NJN W 38 19 7 13 53.8 3 7 42.9 2 2 100.0 0 3 3 6 1 0 3 3 12
+p331
+aVKeith Bogans ORL 02/06/2008 ORL vs. NJN W 24 0 0 5 0.0 0 5 0.0 0 0 - 0 5 5 2 1 0 1 3 12
+p332
+aVAdonal Foyle ORL 02/06/2008 ORL vs. NJN W 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 1
+p333
+aVJameer Nelson ORL 02/06/2008 ORL vs. NJN W 26 11 3 6 50.0 0 0 - 5 5 100.0 1 4 5 8 1 0 1 1 12
+p334
+aVBrian Cook ORL 02/04/2008 ORL vs. DAL L 14 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 0 0 1 2 3 -11
+p335
+aVKeyon Dooling ORL 02/04/2008 ORL vs. DAL L 20 14 5 8 62.5 1 1 100.0 3 3 100.0 0 0 0 0 0 0 1 4 -10
+p336
+aVCarlos Arroyo ORL 02/04/2008 ORL vs. DAL L 29 12 4 9 44.4 2 3 66.7 2 2 100.0 0 1 1 3 0 0 1 1 1
+p337
+aVKeith Bogans ORL 02/04/2008 ORL vs. DAL L 16 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -5
+p338
+aVRashard Lewis ORL 02/04/2008 ORL vs. DAL L 39 13 5 16 31.3 2 7 28.6 1 2 50.0 2 2 4 2 0 2 1 1 -5
+p339
+aVDwight Howard ORL 02/04/2008 ORL vs. DAL L 43 28 11 16 68.8 0 1 0.0 6 13 46.2 5 2 7 3 2 1 1 3 -4
+p340
+aVHedo Turkoglu ORL 02/04/2008 ORL vs. DAL L 42 13 4 14 28.6 1 2 50.0 4 4 100.0 0 12 12 13 0 0 2 5 -2
+p341
+aVAdonal Foyle ORL 02/04/2008 ORL vs. DAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p342
+aVMaurice Evans ORL 02/04/2008 ORL vs. DAL L 33 16 6 8 75.0 2 2 100.0 2 2 100.0 2 3 5 0 0 0 0 3 -4
+p343
+aVPat Garrity ORL 02/02/2008 ORL @ IND W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p344
+aVKeyon Dooling ORL 02/02/2008 ORL @ IND W 20 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 1 0 1 1 3 -6
+p345
+aVBrian Cook ORL 02/02/2008 ORL @ IND W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -10
+p346
+aVDwight Howard ORL 02/02/2008 ORL @ IND W 44 24 8 13 61.5 0 0 - 8 16 50.0 0 12 12 1 1 1 4 4 17
+p347
+aVRashard Lewis ORL 02/02/2008 ORL @ IND W 33 19 5 11 45.5 3 7 42.9 6 8 75.0 1 4 5 2 0 0 3 6 9
+p348
+aVMaurice Evans ORL 02/02/2008 ORL @ IND W 38 16 6 11 54.5 3 6 50.0 1 2 50.0 1 3 4 3 2 0 0 3 13
+p349
+aVKeith Bogans ORL 02/02/2008 ORL @ IND W 26 16 4 8 50.0 4 6 66.7 4 4 100.0 0 4 4 3 1 0 2 2 -3
+p350
+aVHedo Turkoglu ORL 02/02/2008 ORL @ IND W 39 23 10 16 62.5 3 5 60.0 0 1 0.0 1 4 5 8 0 0 3 3 10
+p351
+aVCarlos Arroyo ORL 02/02/2008 ORL @ IND W 28 16 3 5 60.0 1 1 100.0 9 9 100.0 0 5 5 3 0 0 2 2 12
+p352
+aVAdonal Foyle ORL 02/02/2008 ORL @ IND W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p353
+aVDwight Howard ORL 02/01/2008 ORL @ PHI W 41 17 6 10 60.0 0 0 - 5 9 55.6 3 11 14 1 0 1 5 4 4
+p354
+aVPat Garrity ORL 02/01/2008 ORL @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p355
+aVAdonal Foyle ORL 02/01/2008 ORL @ PHI W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -2
+p356
+aVKeyon Dooling ORL 02/01/2008 ORL @ PHI W 17 10 4 5 80.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 0 2 4
+p357
+aVHedo Turkoglu ORL 02/01/2008 ORL @ PHI W 34 23 9 15 60.0 1 2 50.0 4 4 100.0 2 5 7 6 1 0 1 4 6
+p358
+aVCarlos Arroyo ORL 02/01/2008 ORL @ PHI W 25 14 5 8 62.5 1 2 50.0 3 4 75.0 0 1 1 5 1 0 1 1 8
+p359
+aVRashard Lewis ORL 02/01/2008 ORL @ PHI W 41 18 7 15 46.7 3 9 33.3 1 1 100.0 2 5 7 5 2 0 2 3 5
+p360
+aVBrian Cook ORL 02/01/2008 ORL @ PHI W 9 3 1 3 33.3 0 2 0.0 1 1 100.0 0 2 2 0 1 0 2 0 -5
+p361
+aVMaurice Evans ORL 02/01/2008 ORL @ PHI W 30 13 5 7 71.4 3 4 75.0 0 0 - 1 3 4 0 0 0 1 1 4
+p362
+aVJameer Nelson ORL 02/01/2008 ORL @ PHI W 7 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 1 -10
+p363
+aVKeith Bogans ORL 02/01/2008 ORL @ PHI W 26 6 2 8 25.0 1 6 16.7 1 1 100.0 0 4 4 0 2 0 0 2 -1
+p364
+aVMaurice Evans ORL 01/30/2008 ORL vs. MIA W 23 13 5 9 55.6 3 4 75.0 0 0 - 2 2 4 0 1 0 0 1 0
+p365
+aVJameer Nelson ORL 01/30/2008 ORL vs. MIA W 13 4 0 2 0.0 0 0 - 4 5 80.0 0 3 3 3 0 0 1 4 6
+p366
+aVCarlos Arroyo ORL 01/30/2008 ORL vs. MIA W 35 6 2 7 28.6 0 1 0.0 2 2 100.0 0 5 5 3 0 0 1 3 10
+p367
+aVRashard Lewis ORL 01/30/2008 ORL vs. MIA W 34 19 7 16 43.8 2 6 33.3 3 4 75.0 4 4 8 1 0 0 0 4 14
+p368
+aVDwight Howard ORL 01/30/2008 ORL vs. MIA W 43 16 4 8 50.0 0 0 - 8 12 66.7 3 10 13 0 0 4 5 5 13
+p369
+aVAdonal Foyle ORL 01/30/2008 ORL vs. MIA W 5 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p370
+aVHedo Turkoglu ORL 01/30/2008 ORL vs. MIA W 38 27 8 13 61.5 0 3 0.0 11 12 91.7 3 9 12 5 0 1 6 1 11
+p371
+aVKeyon Dooling ORL 01/30/2008 ORL vs. MIA W 24 9 3 3 100.0 0 0 - 3 3 100.0 0 4 4 1 0 0 1 1 15
+p372
+aVKeith Bogans ORL 01/30/2008 ORL vs. MIA W 26 7 2 7 28.6 1 5 20.0 2 2 100.0 0 2 2 2 0 0 2 2 8
+p373
+aVCarlos Arroyo ORL 01/27/2008 ORL vs. BOS W 32 2 1 5 20.0 0 3 0.0 0 0 - 0 4 4 4 0 0 6 3 13
+p374
+aVHedo Turkoglu ORL 01/27/2008 ORL vs. BOS W 40 27 8 18 44.4 3 7 42.9 8 9 88.9 1 5 6 3 0 1 2 4 6
+p375
+aVDwight Howard ORL 01/27/2008 ORL vs. BOS W 38 18 6 10 60.0 0 0 - 6 6 100.0 5 11 16 1 1 5 4 3 12
+p376
+aVKeyon Dooling ORL 01/27/2008 ORL vs. BOS W 16 8 3 7 42.9 1 1 100.0 1 1 100.0 0 2 2 1 0 0 2 3 -10
+p377
+aVAdonal Foyle ORL 01/27/2008 ORL vs. BOS W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -9
+p378
+aVBrian Cook ORL 01/27/2008 ORL vs. BOS W 10 11 4 7 57.1 3 4 75.0 0 0 - 1 1 2 0 1 0 0 0 12
+p379
+aVKeith Bogans ORL 01/27/2008 ORL vs. BOS W 24 2 1 6 16.7 0 4 0.0 0 0 - 3 0 3 3 1 0 0 1 -3
+p380
+aVRashard Lewis ORL 01/27/2008 ORL vs. BOS W 34 15 5 11 45.5 1 4 25.0 4 4 100.0 2 4 6 1 0 1 2 5 -14
+p381
+aVMaurice Evans ORL 01/27/2008 ORL vs. BOS W 36 11 5 8 62.5 1 2 50.0 0 0 - 2 1 3 3 1 0 4 1 8
+p382
+aVCarlos Arroyo ORL 01/25/2008 ORL @ DET L 38 16 8 14 57.1 0 1 0.0 0 1 0.0 0 2 2 6 1 0 1 6 -3
+p383
+aVMaurice Evans ORL 01/25/2008 ORL @ DET L 21 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 0 0 -20
+p384
+aVKeith Bogans ORL 01/25/2008 ORL @ DET L 24 10 3 4 75.0 3 4 75.0 1 2 50.0 0 6 6 1 1 0 0 1 15
+p385
+aVAdonal Foyle ORL 01/25/2008 ORL @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p386
+aVKeyon Dooling ORL 01/25/2008 ORL @ DET L 10 5 1 2 50.0 0 0 - 3 5 60.0 0 1 1 1 0 0 0 1 -5
+p387
+aVRashard Lewis ORL 01/25/2008 ORL @ DET L 42 13 3 16 18.8 2 8 25.0 5 6 83.3 1 2 3 0 2 2 1 4 -9
+p388
+aVDwight Howard ORL 01/25/2008 ORL @ DET L 44 22 7 11 63.6 0 0 - 8 16 50.0 7 7 14 2 1 2 4 0 -8
+p389
+aVBrian Cook ORL 01/25/2008 ORL @ DET L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 0 -9
+p390
+aVHedo Turkoglu ORL 01/25/2008 ORL @ DET L 43 23 7 15 46.7 1 4 25.0 8 9 88.9 0 4 4 3 1 1 0 3 -1
+p391
+aVCarlos Arroyo ORL 01/23/2008 ORL @ MEM W 24 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 7 2 0 1 2 3
+p392
+aVJJ Redick ORL 01/23/2008 ORL @ MEM W 3 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 3
+p393
+aVMaurice Evans ORL 01/23/2008 ORL @ MEM W 29 12 4 7 57.1 3 6 50.0 1 2 50.0 0 1 1 0 1 0 0 0 12
+p394
+aVDwight Howard ORL 01/23/2008 ORL @ MEM W 29 16 5 7 71.4 0 0 - 6 9 66.7 4 6 10 0 2 3 2 4 8
+p395
+aVHedo Turkoglu ORL 01/23/2008 ORL @ MEM W 38 26 10 16 62.5 6 8 75.0 0 0 - 0 4 4 5 1 0 2 3 26
+p396
+aVKeyon Dooling ORL 01/23/2008 ORL @ MEM W 24 13 5 9 55.6 1 2 50.0 2 2 100.0 0 1 1 3 2 0 0 4 24
+p397
+aVJames Augustine ORL 01/23/2008 ORL @ MEM W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p398
+aVRashard Lewis ORL 01/23/2008 ORL @ MEM W 33 16 6 13 46.2 3 6 50.0 1 1 100.0 1 5 6 3 2 0 1 1 14
+p399
+aVBrian Cook ORL 01/23/2008 ORL @ MEM W 20 10 3 6 50.0 2 4 50.0 2 2 100.0 0 3 3 0 0 0 0 4 8
+p400
+aVAdonal Foyle ORL 01/23/2008 ORL @ MEM W 16 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 1 1 0 3 16
+p401
+aVKeith Bogans ORL 01/23/2008 ORL @ MEM W 19 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 3 15
+p402
+aVPat Garrity ORL 01/23/2008 ORL @ MEM W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p403
+aVRashard Lewis ORL 01/21/2008 ORL vs. DET W 39 16 7 16 43.8 2 6 33.3 0 0 - 0 6 6 0 1 1 3 2 -4
+p404
+aVDwight Howard ORL 01/21/2008 ORL vs. DET W 41 23 7 11 63.6 0 0 - 9 15 60.0 2 6 8 1 0 3 3 3 -1
+p405
+aVKeyon Dooling ORL 01/21/2008 ORL vs. DET W 19 12 3 6 50.0 0 1 0.0 6 6 100.0 0 1 1 2 1 0 0 3 2
+p406
+aVAdonal Foyle ORL 01/21/2008 ORL vs. DET W 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 1 0 1 3
+p407
+aVKeith Bogans ORL 01/21/2008 ORL vs. DET W 34 8 2 4 50.0 2 2 100.0 2 2 100.0 0 8 8 2 0 0 0 0 11
+p408
+aVHedo Turkoglu ORL 01/21/2008 ORL vs. DET W 41 26 7 16 43.8 2 5 40.0 10 12 83.3 1 4 5 8 1 0 4 3 3
+p409
+aVBrian Cook ORL 01/21/2008 ORL vs. DET W 15 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 2 0 0 0 2 2
+p410
+aVCarlos Arroyo ORL 01/21/2008 ORL vs. DET W 29 6 2 5 40.0 1 1 100.0 1 2 50.0 0 2 2 4 2 0 2 4 0
+p411
+aVMaurice Evans ORL 01/21/2008 ORL vs. DET W 16 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -6
+p412
+aVBrian Cook ORL 01/19/2008 ORL vs. POR W 11 8 3 9 33.3 2 3 66.7 0 0 - 2 3 5 0 0 1 0 1 8
+p413
+aVKeith Bogans ORL 01/19/2008 ORL vs. POR W 31 13 5 10 50.0 2 6 33.3 1 2 50.0 0 3 3 1 0 0 1 2 7
+p414
+aVDwight Howard ORL 01/19/2008 ORL vs. POR W 37 10 3 7 42.9 0 0 - 4 10 40.0 3 11 14 1 0 4 0 3 -7
+p415
+aVMaurice Evans ORL 01/19/2008 ORL vs. POR W 27 15 7 10 70.0 1 2 50.0 0 0 - 1 4 5 2 0 0 0 1 5
+p416
+aVHedo Turkoglu ORL 01/19/2008 ORL vs. POR W 38 20 9 16 56.3 1 2 50.0 1 2 50.0 4 4 8 5 0 1 3 3 -5
+p417
+aVCarlos Arroyo ORL 01/19/2008 ORL vs. POR W 22 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 0 1 0 3 0 2
+p418
+aVRashard Lewis ORL 01/19/2008 ORL vs. POR W 38 16 5 10 50.0 2 6 33.3 4 4 100.0 0 4 4 5 1 2 3 2 6
+p419
+aVKeyon Dooling ORL 01/19/2008 ORL vs. POR W 26 7 2 7 28.6 0 1 0.0 3 5 60.0 0 4 4 5 1 0 1 1 5
+p420
+aVAdonal Foyle ORL 01/19/2008 ORL vs. POR W 11 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 14
+p421
+aVDwight Howard ORL 01/16/2008 ORL @ CHA L 42 24 8 15 53.3 0 0 - 8 13 61.5 6 15 21 1 4 1 2 2 -8
+p422
+aVJameer Nelson ORL 01/16/2008 ORL @ CHA L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 2 0 0 3 1 3
+p423
+aVCarlos Arroyo ORL 01/16/2008 ORL @ CHA L 32 17 6 13 46.2 2 3 66.7 3 3 100.0 0 3 3 2 0 0 1 3 -9
+p424
+aVMaurice Evans ORL 01/16/2008 ORL @ CHA L 29 10 4 7 57.1 0 1 0.0 2 3 66.7 3 2 5 2 1 0 1 2 -8
+p425
+aVRashard Lewis ORL 01/16/2008 ORL @ CHA L 43 14 5 14 35.7 2 4 50.0 2 2 100.0 3 4 7 0 1 1 3 2 0
+p426
+aVKeyon Dooling ORL 01/16/2008 ORL @ CHA L 12 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 2 1 -5
+p427
+aVHedo Turkoglu ORL 01/16/2008 ORL @ CHA L 34 16 7 18 38.9 1 4 25.0 1 2 50.0 0 2 2 4 3 1 4 3 -5
+p428
+aVKeith Bogans ORL 01/16/2008 ORL @ CHA L 25 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 1 0 1 1 3 0
+p429
+aVAdonal Foyle ORL 01/16/2008 ORL @ CHA L 6 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 2
+p430
+aVJJ Redick ORL 01/15/2008 ORL vs. CHI W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -2
+p431
+aVRashard Lewis ORL 01/15/2008 ORL vs. CHI W 34 26 8 12 66.7 4 5 80.0 6 7 85.7 2 4 6 4 1 1 0 1 18
+p432
+aVHedo Turkoglu ORL 01/15/2008 ORL vs. CHI W 34 8 2 11 18.2 0 3 0.0 4 6 66.7 0 6 6 3 2 0 2 2 18
+p433
+aVMaurice Evans ORL 01/15/2008 ORL vs. CHI W 25 9 4 9 44.4 1 5 20.0 0 0 - 1 0 1 1 1 0 2 2 3
+p434
+aVJames Augustine ORL 01/15/2008 ORL vs. CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p435
+aVBrian Cook ORL 01/15/2008 ORL vs. CHI W 15 14 5 8 62.5 2 5 40.0 2 2 100.0 0 1 1 1 0 0 1 6 5
+p436
+aVCarlos Arroyo ORL 01/15/2008 ORL vs. CHI W 20 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 2 0 1 3 0 0
+p437
+aVKeith Bogans ORL 01/15/2008 ORL vs. CHI W 23 15 5 7 71.4 3 4 75.0 2 2 100.0 2 1 3 1 0 0 1 0 9
+p438
+aVJameer Nelson ORL 01/15/2008 ORL vs. CHI W 27 6 2 5 40.0 0 3 0.0 2 2 100.0 2 4 6 5 1 0 2 2 16
+p439
+aVDwight Howard ORL 01/15/2008 ORL vs. CHI W 29 15 4 9 44.4 0 0 - 7 10 70.0 2 9 11 2 1 1 1 1 15
+p440
+aVAdonal Foyle ORL 01/15/2008 ORL vs. CHI W 19 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 1 1 0 1 -1
+p441
+aVKeyon Dooling ORL 01/15/2008 ORL vs. CHI W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 0 -5
+p442
+aVDwight Howard ORL 01/12/2008 ORL @ UTA L 41 29 6 13 46.2 0 0 - 17 24 70.8 6 9 15 3 1 2 0 2 0
+p443
+aVBrian Cook ORL 01/12/2008 ORL @ UTA L 14 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 3 5 -2
+p444
+aVJJ Redick ORL 01/12/2008 ORL @ UTA L 9 7 2 5 40.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 0 1 0
+p445
+aVKeyon Dooling ORL 01/12/2008 ORL @ UTA L 17 10 5 11 45.5 0 1 0.0 0 2 0.0 0 0 0 1 1 0 0 3 8
+p446
+aVJameer Nelson ORL 01/12/2008 ORL @ UTA L 31 10 4 6 66.7 2 3 66.7 0 0 - 0 0 0 4 0 0 3 3 -10
+p447
+aVHedo Turkoglu ORL 01/12/2008 ORL @ UTA L 30 10 4 10 40.0 1 3 33.3 1 2 50.0 2 5 7 5 2 1 4 6 -8
+p448
+aVMaurice Evans ORL 01/12/2008 ORL @ UTA L 35 11 4 10 40.0 2 3 66.7 1 2 50.0 0 3 3 0 1 1 0 3 -10
+p449
+aVKeith Bogans ORL 01/12/2008 ORL @ UTA L 15 5 2 5 40.0 0 2 0.0 1 1 100.0 0 0 0 0 0 0 0 4 6
+p450
+aVRashard Lewis ORL 01/12/2008 ORL @ UTA L 41 27 9 20 45.0 2 10 20.0 7 7 100.0 1 5 6 3 1 0 0 3 2
+p451
+aVAdonal Foyle ORL 01/12/2008 ORL @ UTA L 7 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -6
+p452
+aVRashard Lewis ORL 01/11/2008 ORL @ DEN L 43 21 8 15 53.3 4 10 40.0 1 2 50.0 1 3 4 4 0 0 1 3 -10
+p453
+aVDwight Howard ORL 01/11/2008 ORL @ DEN L 38 20 8 14 57.1 0 0 - 4 8 50.0 3 10 13 0 0 3 4 2 -9
+p454
+aVHedo Turkoglu ORL 01/11/2008 ORL @ DEN L 37 8 3 15 20.0 0 4 0.0 2 2 100.0 0 7 7 5 0 0 3 3 -13
+p455
+aVKeyon Dooling ORL 01/11/2008 ORL @ DEN L 18 10 3 5 60.0 1 1 100.0 3 3 100.0 0 2 2 2 1 0 2 2 8
+p456
+aVKeith Bogans ORL 01/11/2008 ORL @ DEN L 25 14 4 7 57.1 3 6 50.0 3 4 75.0 1 3 4 1 1 0 2 4 -8
+p457
+aVJameer Nelson ORL 01/11/2008 ORL @ DEN L 32 11 5 13 38.5 1 2 50.0 0 0 - 0 5 5 8 1 0 1 3 -13
+p458
+aVCarlos Arroyo ORL 01/11/2008 ORL @ DEN L 10 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p459
+aVMaurice Evans ORL 01/11/2008 ORL @ DEN L 27 15 6 9 66.7 1 3 33.3 2 2 100.0 3 0 3 2 2 0 0 4 0
+p460
+aVAdonal Foyle ORL 01/11/2008 ORL @ DEN L 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 0 0 -1
+p461
+aVKeyon Dooling ORL 01/09/2008 ORL @ LAC W 19 12 4 7 57.1 0 0 - 4 4 100.0 0 4 4 1 0 0 1 2 -15
+p462
+aVAdonal Foyle ORL 01/09/2008 ORL @ LAC W 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -18
+p463
+aVMaurice Evans ORL 01/09/2008 ORL @ LAC W 36 13 5 11 45.5 1 3 33.3 2 2 100.0 3 1 4 1 1 0 2 4 16
+p464
+aVJames Augustine ORL 01/09/2008 ORL @ LAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p465
+aVJJ Redick ORL 01/09/2008 ORL @ LAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -13
+p466
+aVKeith Bogans ORL 01/09/2008 ORL @ LAC W 17 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 1 1 0 3 -3
+p467
+aVHedo Turkoglu ORL 01/09/2008 ORL @ LAC W 42 28 9 18 50.0 1 6 16.7 9 10 90.0 0 7 7 7 0 0 2 2 9
+p468
+aVJameer Nelson ORL 01/09/2008 ORL @ LAC W 33 14 5 10 50.0 2 3 66.7 2 4 50.0 1 4 5 9 0 0 2 4 21
+p469
+aVRashard Lewis ORL 01/09/2008 ORL @ LAC W 30 20 7 15 46.7 4 9 44.4 2 5 40.0 0 3 3 2 1 0 1 3 18
+p470
+aVDwight Howard ORL 01/09/2008 ORL @ LAC W 39 17 6 13 46.2 0 0 - 5 6 83.3 2 15 17 2 4 1 4 2 25
+p471
+aVCarlos Arroyo ORL 01/09/2008 ORL @ LAC W 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 3
+p472
+aVRashard Lewis ORL 01/08/2008 ORL @ SAC L 37 22 8 19 42.1 6 11 54.5 0 1 0.0 1 2 3 1 0 1 1 6 6
+p473
+aVCarlos Arroyo ORL 01/08/2008 ORL @ SAC L 16 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 2 0 0 2 1 -11
+p474
+aVHedo Turkoglu ORL 01/08/2008 ORL @ SAC L 35 14 5 14 35.7 1 5 20.0 3 4 75.0 0 4 4 3 2 0 2 2 -18
+p475
+aVAdonal Foyle ORL 01/08/2008 ORL @ SAC L 11 0 0 0 - 0 0 - 0 0 - 2 0 2 1 0 0 1 3 -10
+p476
+aVJames Augustine ORL 01/08/2008 ORL @ SAC L 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -6
+p477
+aVJJ Redick ORL 01/08/2008 ORL @ SAC L 8 10 3 6 50.0 1 3 33.3 3 3 100.0 0 0 0 0 0 0 1 0 12
+p478
+aVKeyon Dooling ORL 01/08/2008 ORL @ SAC L 17 5 1 5 20.0 0 1 0.0 3 3 100.0 1 0 1 1 0 0 1 0 -13
+p479
+aVJameer Nelson ORL 01/08/2008 ORL @ SAC L 32 6 2 4 50.0 0 1 0.0 2 2 100.0 2 3 5 7 2 0 2 3 7
+p480
+aVMaurice Evans ORL 01/08/2008 ORL @ SAC L 25 9 3 6 50.0 1 3 33.3 2 2 100.0 2 0 2 3 0 0 1 3 15
+p481
+aVKeith Bogans ORL 01/08/2008 ORL @ SAC L 14 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 0 0 0 2 1 -8
+p482
+aVDwight Howard ORL 01/08/2008 ORL @ SAC L 38 29 11 13 84.6 0 0 - 7 8 87.5 4 11 15 1 2 1 6 4 6
+p483
+aVJameer Nelson ORL 01/04/2008 ORL vs. HOU L 32 20 8 13 61.5 2 3 66.7 2 3 66.7 1 2 3 4 1 0 1 2 7
+p484
+aVDwight Howard ORL 01/04/2008 ORL vs. HOU L 34 16 5 11 45.5 0 0 - 6 10 60.0 2 6 8 1 3 1 1 6 -7
+p485
+aVAdonal Foyle ORL 01/04/2008 ORL vs. HOU L 14 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 1 2 0 1 5
+p486
+aVKeyon Dooling ORL 01/04/2008 ORL vs. HOU L 34 9 3 9 33.3 1 2 50.0 2 2 100.0 0 3 3 3 2 0 3 2 -1
+p487
+aVRashard Lewis ORL 01/04/2008 ORL vs. HOU L 42 16 4 15 26.7 2 8 25.0 6 6 100.0 0 4 4 2 4 0 3 2 2
+p488
+aVKeith Bogans ORL 01/04/2008 ORL vs. HOU L 14 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p489
+aVHedo Turkoglu ORL 01/04/2008 ORL vs. HOU L 42 13 5 12 41.7 1 2 50.0 2 2 100.0 3 8 11 5 2 0 3 3 -1
+p490
+aVMaurice Evans ORL 01/04/2008 ORL vs. HOU L 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -5
+p491
+aVCarlos Arroyo ORL 01/04/2008 ORL vs. HOU L 16 8 3 4 75.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 2 0 -9
+p492
+aVAdonal Foyle ORL 01/02/2008 ORL vs. NJN L 13 10 5 6 83.3 0 0 - 0 0 - 1 5 6 0 1 0 1 0 5
+p493
+aVJames Augustine ORL 01/02/2008 ORL vs. NJN L 12 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 13
+p494
+aVJameer Nelson ORL 01/02/2008 ORL vs. NJN L 18 4 2 8 25.0 0 1 0.0 0 0 - 0 3 3 3 1 0 1 1 -12
+p495
+aVDwight Howard ORL 01/02/2008 ORL vs. NJN L 35 13 5 11 45.5 0 0 - 3 10 30.0 2 11 13 0 0 2 3 4 -6
+p496
+aVRashard Lewis ORL 01/02/2008 ORL vs. NJN L 38 14 6 12 50.0 0 1 0.0 2 2 100.0 1 2 3 1 2 3 2 3 -9
+p497
+aVHedo Turkoglu ORL 01/02/2008 ORL vs. NJN L 40 23 7 17 41.2 2 6 33.3 7 7 100.0 0 3 3 3 0 0 2 4 1
+p498
+aVMaurice Evans ORL 01/02/2008 ORL vs. NJN L 20 2 1 8 12.5 0 2 0.0 0 0 - 3 1 4 0 1 0 2 3 -9
+p499
+aVCarlos Arroyo ORL 01/02/2008 ORL vs. NJN L 30 16 5 9 55.6 0 1 0.0 6 6 100.0 1 2 3 7 1 0 0 2 11
+p500
+aVKeith Bogans ORL 01/02/2008 ORL vs. NJN L 35 10 3 7 42.9 3 6 50.0 1 2 50.0 0 1 1 0 3 0 0 4 1
+p501
+aVKeith Bogans ORL 12/31/2007 ORL @ CHI W 40 14 4 7 57.1 4 7 57.1 2 2 100.0 1 3 4 0 0 0 0 5 -1
+p502
+aVKeyon Dooling ORL 12/31/2007 ORL @ CHI W 13 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 3
+p503
+aVMaurice Evans ORL 12/31/2007 ORL @ CHI W 15 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 1 0 0 0 0 3
+p504
+aVHedo Turkoglu ORL 12/31/2007 ORL @ CHI W 41 17 7 19 36.8 2 7 28.6 1 1 100.0 0 5 5 2 2 0 7 4 -1
+p505
+aVJameer Nelson ORL 12/31/2007 ORL @ CHI W 32 22 8 15 53.3 1 1 100.0 5 7 71.4 1 3 4 4 0 0 2 4 3
+p506
+aVRashard Lewis ORL 12/31/2007 ORL @ CHI W 49 19 7 13 53.8 3 6 50.0 2 2 100.0 2 1 3 6 1 0 1 1 2
+p507
+aVDwight Howard ORL 12/31/2007 ORL @ CHI W 49 17 4 11 36.4 0 0 - 9 14 64.3 5 17 22 2 3 5 1 3 3
+p508
+aVCarlos Arroyo ORL 12/31/2007 ORL @ CHI W 21 14 7 7 100.0 0 0 - 0 0 - 0 0 0 4 0 0 1 2 -1
+p509
+aVAdonal Foyle ORL 12/31/2007 ORL @ CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p510
+aVKeyon Dooling ORL 12/29/2007 ORL vs. CHA W 15 6 1 4 25.0 0 1 0.0 4 5 80.0 0 1 1 1 0 0 0 4 -4
+p511
+aVAdonal Foyle ORL 12/29/2007 ORL vs. CHA W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p512
+aVCarlos Arroyo ORL 12/29/2007 ORL vs. CHA W 40 16 6 14 42.9 0 1 0.0 4 5 80.0 1 3 4 6 0 0 2 3 14
+p513
+aVHedo Turkoglu ORL 12/29/2007 ORL vs. CHA W 40 28 9 20 45.0 4 5 80.0 6 6 100.0 2 5 7 1 3 1 3 3 13
+p514
+aVDwight Howard ORL 12/29/2007 ORL vs. CHA W 42 15 5 10 50.0 0 0 - 5 12 41.7 5 16 21 1 2 4 3 1 7
+p515
+aVMaurice Evans ORL 12/29/2007 ORL vs. CHA W 13 7 2 5 40.0 1 2 50.0 2 2 100.0 2 0 2 0 0 0 1 2 -3
+p516
+aVRashard Lewis ORL 12/29/2007 ORL vs. CHA W 42 18 8 16 50.0 1 3 33.3 1 1 100.0 1 1 2 2 1 0 1 2 15
+p517
+aVKeith Bogans ORL 12/29/2007 ORL vs. CHA W 37 12 4 9 44.4 1 5 20.0 3 4 75.0 1 4 5 0 0 0 2 1 10
+p518
+aVJJ Redick ORL 12/29/2007 ORL vs. CHA W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -9
+p519
+aVKeyon Dooling ORL 12/28/2007 ORL @ MIA W 16 10 4 6 66.7 0 1 0.0 2 2 100.0 0 1 1 2 0 0 2 3 11
+p520
+aVRashard Lewis ORL 12/28/2007 ORL @ MIA W 45 17 6 20 30.0 2 9 22.2 3 3 100.0 4 4 8 3 0 1 1 4 18
+p521
+aVDwight Howard ORL 12/28/2007 ORL @ MIA W 44 29 10 15 66.7 0 0 - 9 11 81.8 7 14 21 0 0 1 3 3 17
+p522
+aVCarlos Arroyo ORL 12/28/2007 ORL @ MIA W 31 13 4 11 36.4 1 2 50.0 4 6 66.7 3 4 7 5 0 0 0 1 10
+p523
+aVHedo Turkoglu ORL 12/28/2007 ORL @ MIA W 46 22 8 18 44.4 4 10 40.0 2 2 100.0 0 6 6 6 2 2 3 3 -7
+p524
+aVJameer Nelson ORL 12/28/2007 ORL @ MIA W 19 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 5 0 0 2 1 0
+p525
+aVAdonal Foyle ORL 12/28/2007 ORL @ MIA W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p526
+aVMaurice Evans ORL 12/28/2007 ORL @ MIA W 19 10 3 5 60.0 1 2 50.0 3 4 75.0 2 1 3 1 0 0 3 3 1
+p527
+aVJames Augustine ORL 12/28/2007 ORL @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p528
+aVKeith Bogans ORL 12/28/2007 ORL @ MIA W 37 13 5 12 41.7 3 9 33.3 0 0 - 2 2 4 2 2 0 2 2 -5
+p529
+aVRashard Lewis ORL 12/26/2007 ORL vs. NYK W 38 25 9 17 52.9 4 5 80.0 3 4 75.0 1 5 6 0 0 0 3 1 -1
+p530
+aVKeith Bogans ORL 12/26/2007 ORL vs. NYK W 26 10 4 14 28.6 1 11 9.1 1 2 50.0 0 7 7 0 1 1 1 2 -4
+p531
+aVJameer Nelson ORL 12/26/2007 ORL vs. NYK W 34 6 3 6 50.0 0 1 0.0 0 0 - 1 3 4 7 0 0 2 4 5
+p532
+aVJames Augustine ORL 12/26/2007 ORL vs. NYK W 16 6 3 3 100.0 0 0 - 0 1 0.0 0 2 2 0 1 0 0 2 14
+p533
+aVCarlos Arroyo ORL 12/26/2007 ORL vs. NYK W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 4 0 0 2 0 9
+p534
+aVHedo Turkoglu ORL 12/26/2007 ORL vs. NYK W 39 26 10 15 66.7 3 5 60.0 3 3 100.0 2 4 6 6 2 0 2 2 20
+p535
+aVKeyon Dooling ORL 12/26/2007 ORL vs. NYK W 19 12 4 7 57.1 0 0 - 4 5 80.0 0 1 1 3 1 0 2 0 15
+p536
+aVAdonal Foyle ORL 12/26/2007 ORL vs. NYK W 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 8
+p537
+aVDwight Howard ORL 12/26/2007 ORL vs. NYK W 36 16 4 6 66.7 0 0 - 8 11 72.7 5 6 11 2 1 5 4 3 6
+p538
+aVMaurice Evans ORL 12/26/2007 ORL vs. NYK W 6 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 1 0 0 0 2 -2
+p539
+aVMaurice Evans ORL 12/23/2007 ORL @ BOS L 25 10 4 5 80.0 2 2 100.0 0 0 - 1 0 1 0 0 1 0 3 -5
+p540
+aVJames Augustine ORL 12/23/2007 ORL @ BOS L 7 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -8
+p541
+aVDwight Howard ORL 12/23/2007 ORL @ BOS L 43 23 9 15 60.0 0 0 - 5 16 31.3 3 11 14 4 0 2 5 4 -15
+p542
+aVAdonal Foyle ORL 12/23/2007 ORL @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 3
+p543
+aVCarlos Arroyo ORL 12/23/2007 ORL @ BOS L 17 8 3 8 37.5 0 2 0.0 2 3 66.7 0 1 1 4 0 0 0 1 1
+p544
+aVKeith Bogans ORL 12/23/2007 ORL @ BOS L 28 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 2 0 1 1 0
+p545
+aVKeyon Dooling ORL 12/23/2007 ORL @ BOS L 23 9 3 8 37.5 0 1 0.0 3 3 100.0 0 1 1 3 0 0 3 1 -8
+p546
+aVHedo Turkoglu ORL 12/23/2007 ORL @ BOS L 36 19 5 11 45.5 2 4 50.0 7 8 87.5 1 4 5 3 0 0 2 4 -4
+p547
+aVJameer Nelson ORL 12/23/2007 ORL @ BOS L 21 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 4 1 0 3 3 -10
+p548
+aVRashard Lewis ORL 12/23/2007 ORL @ BOS L 34 15 4 12 33.3 3 7 42.9 4 4 100.0 0 3 3 1 1 0 0 4 -14
+p549
+aVJameer Nelson ORL 12/21/2007 ORL vs. UTA L 28 4 2 7 28.6 0 1 0.0 0 0 - 2 2 4 7 1 0 3 2 1
+p550
+aVRashard Lewis ORL 12/21/2007 ORL vs. UTA L 35 12 5 10 50.0 2 7 28.6 0 0 - 2 4 6 2 3 0 5 5 -11
+p551
+aVJJ Redick ORL 12/21/2007 ORL vs. UTA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p552
+aVAdonal Foyle ORL 12/21/2007 ORL vs. UTA L 12 0 0 0 - 0 0 - 0 2 0.0 0 3 3 0 0 1 0 1 -4
+p553
+aVJames Augustine ORL 12/21/2007 ORL vs. UTA L 15 5 2 2 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 3 -10
+p554
+aVCarlos Arroyo ORL 12/21/2007 ORL vs. UTA L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p555
+aVDwight Howard ORL 12/21/2007 ORL vs. UTA L 36 20 8 12 66.7 0 0 - 4 10 40.0 4 9 13 1 2 2 5 4 -15
+p556
+aVKeyon Dooling ORL 12/21/2007 ORL vs. UTA L 19 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 -16
+p557
+aVPat Garrity ORL 12/21/2007 ORL vs. UTA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 2 2 2
+p558
+aVHedo Turkoglu ORL 12/21/2007 ORL vs. UTA L 37 27 7 16 43.8 3 7 42.9 10 10 100.0 1 2 3 6 1 2 1 5 -14
+p559
+aVKeith Bogans ORL 12/21/2007 ORL vs. UTA L 29 11 4 10 40.0 3 7 42.9 0 0 - 0 2 2 1 0 0 1 2 -11
+p560
+aVMaurice Evans ORL 12/21/2007 ORL vs. UTA L 14 7 3 7 42.9 1 3 33.3 0 1 0.0 1 2 3 1 0 0 0 1 -14
+p561
+aVKeith Bogans ORL 12/19/2007 ORL @ HOU W 30 14 6 9 66.7 2 4 50.0 0 0 - 4 6 10 0 1 0 2 4 2
+p562
+aVKeyon Dooling ORL 12/19/2007 ORL @ HOU W 24 15 3 9 33.3 0 0 - 9 10 90.0 0 3 3 2 1 0 1 2 -1
+p563
+aVAdonal Foyle ORL 12/19/2007 ORL @ HOU W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 3 4
+p564
+aVRashard Lewis ORL 12/19/2007 ORL @ HOU W 38 13 5 15 33.3 2 6 33.3 1 1 100.0 2 1 3 1 2 1 1 3 6
+p565
+aVHedo Turkoglu ORL 12/19/2007 ORL @ HOU W 39 13 4 15 26.7 1 4 25.0 4 4 100.0 2 7 9 4 3 0 4 4 4
+p566
+aVJameer Nelson ORL 12/19/2007 ORL @ HOU W 32 11 5 14 35.7 1 1 100.0 0 0 - 0 4 4 6 1 0 4 1 4
+p567
+aVDwight Howard ORL 12/19/2007 ORL @ HOU W 38 21 7 13 53.8 0 0 - 7 9 77.8 1 10 11 0 0 3 1 5 1
+p568
+aVPat Garrity ORL 12/19/2007 ORL @ HOU W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 3 1
+p569
+aVMaurice Evans ORL 12/19/2007 ORL @ HOU W 16 8 3 4 75.0 1 1 100.0 1 2 50.0 2 2 4 1 0 0 2 2 4
+p570
+aVHedo Turkoglu ORL 12/17/2007 ORL @ DAL L 42 26 10 14 71.4 2 2 100.0 4 5 80.0 1 5 6 4 0 0 1 5 0
+p571
+aVJJ Redick ORL 12/17/2007 ORL @ DAL L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 0
+p572
+aVAdonal Foyle ORL 12/17/2007 ORL @ DAL L 12 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 7
+p573
+aVJameer Nelson ORL 12/17/2007 ORL @ DAL L 30 13 5 13 38.5 0 1 0.0 3 3 100.0 0 1 1 5 0 0 1 2 -12
+p574
+aVKeyon Dooling ORL 12/17/2007 ORL @ DAL L 18 10 4 9 44.4 0 1 0.0 2 4 50.0 0 0 0 1 0 0 0 1 5
+p575
+aVDwight Howard ORL 12/17/2007 ORL @ DAL L 36 22 9 16 56.3 0 0 - 4 5 80.0 1 12 13 5 2 1 2 4 -10
+p576
+aVMaurice Evans ORL 12/17/2007 ORL @ DAL L 19 4 2 5 40.0 0 0 - 0 0 - 3 2 5 1 0 0 0 2 6
+p577
+aVRashard Lewis ORL 12/17/2007 ORL @ DAL L 40 15 6 12 50.0 1 4 25.0 2 3 66.7 3 5 8 1 1 0 2 3 -10
+p578
+aVKeith Bogans ORL 12/17/2007 ORL @ DAL L 34 9 4 10 40.0 1 5 20.0 0 0 - 0 2 2 2 2 0 0 1 -1
+p579
+aVKeith Bogans ORL 12/15/2007 ORL vs. MEM L 33 16 6 12 50.0 3 6 50.0 1 2 50.0 1 3 4 0 2 0 0 3 5
+p580
+aVMaurice Evans ORL 12/15/2007 ORL vs. MEM L 27 8 3 11 27.3 0 2 0.0 2 2 100.0 3 2 5 1 0 0 1 2 -4
+p581
+aVJJ Redick ORL 12/15/2007 ORL vs. MEM L 26 12 4 7 57.1 1 4 25.0 3 3 100.0 0 1 1 1 0 0 0 3 0
+p582
+aVKeyon Dooling ORL 12/15/2007 ORL vs. MEM L 19 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 6 0 0 3 1 -5
+p583
+aVAdonal Foyle ORL 12/15/2007 ORL vs. MEM L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -10
+p584
+aVJames Augustine ORL 12/15/2007 ORL vs. MEM L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 2 0 1 0 0
+p585
+aVJameer Nelson ORL 12/15/2007 ORL vs. MEM L 32 18 7 13 53.8 1 2 50.0 3 3 100.0 2 2 4 8 0 0 3 5 -3
+p586
+aVDwight Howard ORL 12/15/2007 ORL vs. MEM L 42 31 10 11 90.9 0 0 - 11 17 64.7 5 15 20 3 0 0 1 1 6
+p587
+aVBrian Cook ORL 12/15/2007 ORL vs. MEM L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 1 1 2 -6
+p588
+aVHedo Turkoglu ORL 12/15/2007 ORL vs. MEM L 42 24 8 17 47.1 3 9 33.3 5 6 83.3 1 4 5 4 0 1 4 3 -3
+p589
+aVKeyon Dooling ORL 12/14/2007 ORL @ CHA W 25 13 5 7 71.4 0 0 - 3 4 75.0 0 1 1 2 0 0 2 4 16
+p590
+aVRashard Lewis ORL 12/14/2007 ORL @ CHA W 35 13 3 11 27.3 2 8 25.0 5 6 83.3 2 9 11 3 1 0 2 3 13
+p591
+aVJJ Redick ORL 12/14/2007 ORL @ CHA W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 5
+p592
+aVJameer Nelson ORL 12/14/2007 ORL @ CHA W 36 13 6 6 100.0 1 1 100.0 0 0 - 0 3 3 6 2 0 2 3 11
+p593
+aVMaurice Evans ORL 12/14/2007 ORL @ CHA W 13 0 0 0 - 0 0 - 0 4 0.0 0 1 1 2 0 0 0 3 6
+p594
+aVDwight Howard ORL 12/14/2007 ORL @ CHA W 39 33 11 16 68.8 0 0 - 11 20 55.0 6 12 18 0 0 4 4 2 12
+p595
+aVKeith Bogans ORL 12/14/2007 ORL @ CHA W 28 7 3 10 30.0 1 6 16.7 0 0 - 2 3 5 2 0 0 1 1 3
+p596
+aVHedo Turkoglu ORL 12/14/2007 ORL @ CHA W 38 22 8 13 61.5 3 7 42.9 3 4 75.0 0 4 4 5 2 0 4 4 11
+p597
+aVAdonal Foyle ORL 12/14/2007 ORL @ CHA W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 2 1 1 4
+p598
+aVBrian Cook ORL 12/14/2007 ORL @ CHA W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p599
+aVMaurice Evans ORL 12/12/2007 ORL @ MIL L 27 4 1 8 12.5 0 3 0.0 2 3 66.7 2 2 4 0 2 1 0 3 -15
+p600
+aVHedo Turkoglu ORL 12/12/2007 ORL @ MIL L 41 18 4 11 36.4 3 7 42.9 7 10 70.0 1 8 9 2 0 0 3 2 -9
+p601
+aVAdonal Foyle ORL 12/12/2007 ORL @ MIL L 6 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 1 1 0
+p602
+aVDwight Howard ORL 12/12/2007 ORL @ MIL L 41 20 6 13 46.2 0 0 - 8 16 50.0 3 10 13 2 1 1 5 5 -13
+p603
+aVRashard Lewis ORL 12/12/2007 ORL @ MIL L 41 20 7 18 38.9 6 14 42.9 0 0 - 1 3 4 3 2 1 2 3 -3
+p604
+aVJames Augustine ORL 12/12/2007 ORL @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -1
+p605
+aVKeyon Dooling ORL 12/12/2007 ORL @ MIL L 22 14 4 9 44.4 0 0 - 6 8 75.0 1 1 2 1 1 0 1 3 -10
+p606
+aVKeith Bogans ORL 12/12/2007 ORL @ MIL L 23 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 0 0 0 0 4 -5
+p607
+aVJameer Nelson ORL 12/12/2007 ORL @ MIL L 29 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 7 1 0 6 5 -8
+p608
+aVBrian Cook ORL 12/12/2007 ORL @ MIL L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -6
+p609
+aVJameer Nelson ORL 12/10/2007 ORL vs. ATL L 27 6 2 8 25.0 0 2 0.0 2 2 100.0 0 1 1 4 0 0 3 2 -14
+p610
+aVKeyon Dooling ORL 12/10/2007 ORL vs. ATL L 22 7 2 7 28.6 1 1 100.0 2 4 50.0 0 0 0 1 0 0 1 4 0
+p611
+aVHedo Turkoglu ORL 12/10/2007 ORL vs. ATL L 36 22 7 15 46.7 3 7 42.9 5 6 83.3 2 5 7 5 0 1 2 4 7
+p612
+aVBrian Cook ORL 12/10/2007 ORL vs. ATL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -7
+p613
+aVKeith Bogans ORL 12/10/2007 ORL vs. ATL L 33 12 4 11 36.4 3 7 42.9 1 2 50.0 1 3 4 0 0 0 2 1 -9
+p614
+aVRashard Lewis ORL 12/10/2007 ORL vs. ATL L 38 15 5 13 38.5 3 10 30.0 2 2 100.0 2 5 7 2 0 0 3 5 -20
+p615
+aVCarlos Arroyo ORL 12/10/2007 ORL vs. ATL L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 4 0 0 1 2 -1
+p616
+aVDwight Howard ORL 12/10/2007 ORL vs. ATL L 42 14 4 7 57.1 0 0 - 6 14 42.9 1 17 18 1 2 2 5 5 -10
+p617
+aVAdonal Foyle ORL 12/10/2007 ORL vs. ATL L 6 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -1
+p618
+aVMaurice Evans ORL 12/10/2007 ORL vs. ATL L 17 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 1 0 0 0 0 0
+p619
+aVJameer Nelson ORL 12/07/2007 ORL vs. IND L 31 11 5 9 55.6 0 2 0.0 1 1 100.0 1 3 4 5 2 0 3 6 -7
+p620
+aVBrian Cook ORL 12/07/2007 ORL vs. IND L 9 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 0 1 0 0 3 -1
+p621
+aVCarlos Arroyo ORL 12/07/2007 ORL vs. IND L 17 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 6 1 0 2 1 1
+p622
+aVKeith Bogans ORL 12/07/2007 ORL vs. IND L 33 14 4 11 36.4 3 10 30.0 3 3 100.0 0 4 4 1 0 1 1 3 -6
+p623
+aVMaurice Evans ORL 12/07/2007 ORL vs. IND L 21 11 5 7 71.4 1 2 50.0 0 0 - 1 2 3 0 1 2 3 2 -10
+p624
+aVAdonal Foyle ORL 12/07/2007 ORL vs. IND L 7 1 0 1 0.0 0 0 - 1 2 50.0 3 0 3 0 0 1 1 1 4
+p625
+aVJames Augustine ORL 12/07/2007 ORL vs. IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p626
+aVRashard Lewis ORL 12/07/2007 ORL vs. IND L 37 24 7 16 43.8 5 11 45.5 5 5 100.0 0 4 4 3 0 0 1 3 -5
+p627
+aVDwight Howard ORL 12/07/2007 ORL vs. IND L 37 30 9 13 69.2 0 0 - 12 16 75.0 5 10 15 1 4 1 6 1 4
+p628
+aVHedo Turkoglu ORL 12/07/2007 ORL vs. IND L 35 11 3 15 20.0 1 7 14.3 4 4 100.0 1 3 4 5 2 0 6 4 -5
+p629
+aVJJ Redick ORL 12/07/2007 ORL vs. IND L 10 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 2 -3
+p630
+aVRashard Lewis ORL 12/03/2007 ORL @ GSW W 43 20 7 14 50.0 2 6 33.3 4 6 66.7 0 5 5 2 2 0 2 2 2
+p631
+aVMaurice Evans ORL 12/03/2007 ORL @ GSW W 24 11 4 9 44.4 2 4 50.0 1 2 50.0 2 1 3 0 1 0 1 3 2
+p632
+aVDwight Howard ORL 12/03/2007 ORL @ GSW W 44 18 5 10 50.0 0 0 - 8 13 61.5 5 18 23 3 0 7 9 4 4
+p633
+aVHedo Turkoglu ORL 12/03/2007 ORL @ GSW W 40 17 7 21 33.3 0 4 0.0 3 3 100.0 5 3 8 6 2 0 4 4 8
+p634
+aVJameer Nelson ORL 12/03/2007 ORL @ GSW W 41 22 9 18 50.0 3 4 75.0 1 2 50.0 0 8 8 11 1 0 1 3 0
+p635
+aVAdonal Foyle ORL 12/03/2007 ORL @ GSW W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -1
+p636
+aVJJ Redick ORL 12/03/2007 ORL @ GSW W 10 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 1 2 0 1 1 4
+p637
+aVJames Augustine ORL 12/03/2007 ORL @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p638
+aVKeith Bogans ORL 12/03/2007 ORL @ GSW W 43 22 9 12 75.0 4 7 57.1 0 1 0.0 0 3 3 1 0 2 0 4 2
+p639
+aVKeyon Dooling ORL 12/03/2007 ORL @ GSW W 12 10 3 7 42.9 0 0 - 4 4 100.0 0 2 2 3 1 0 1 4 6
+p640
+aVJJ Redick ORL 12/02/2007 ORL @ LAL W 11 8 3 5 60.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 2 0
+p641
+aVDwight Howard ORL 12/02/2007 ORL @ LAL W 36 17 6 11 54.5 0 0 - 5 8 62.5 0 8 8 0 0 5 1 4 8
+p642
+aVAdonal Foyle ORL 12/02/2007 ORL @ LAL W 12 8 4 4 100.0 0 0 - 0 0 - 2 5 7 0 1 3 1 0 -1
+p643
+aVBrian Cook ORL 12/02/2007 ORL @ LAL W 9 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 2 -6
+p644
+aVMaurice Evans ORL 12/02/2007 ORL @ LAL W 22 9 4 10 40.0 1 4 25.0 0 0 - 3 4 7 1 3 1 1 2 19
+p645
+aVJameer Nelson ORL 12/02/2007 ORL @ LAL W 29 2 1 9 11.1 0 3 0.0 0 0 - 0 0 0 5 3 0 3 2 -11
+p646
+aVRashard Lewis ORL 12/02/2007 ORL @ LAL W 37 18 5 12 41.7 3 6 50.0 5 5 100.0 1 3 4 7 1 0 2 0 6
+p647
+aVHedo Turkoglu ORL 12/02/2007 ORL @ LAL W 36 14 4 12 33.3 2 5 40.0 4 4 100.0 2 8 10 7 1 0 4 0 8
+p648
+aVKeith Bogans ORL 12/02/2007 ORL @ LAL W 30 11 3 11 27.3 3 9 33.3 2 2 100.0 0 2 2 1 3 0 1 3 -6
+p649
+aVKeyon Dooling ORL 12/02/2007 ORL @ LAL W 19 14 7 11 63.6 0 0 - 0 0 - 0 4 4 4 0 1 2 1 18
+p650
+aVKeyon Dooling ORL 11/30/2007 ORL @ PHX L 18 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 2 0 1 0 -6
+p651
+aVBrian Cook ORL 11/30/2007 ORL @ PHX L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 -3
+p652
+aVRashard Lewis ORL 11/30/2007 ORL @ PHX L 43 18 6 19 31.6 3 12 25.0 3 4 75.0 0 5 5 2 2 0 2 3 0
+p653
+aVHedo Turkoglu ORL 11/30/2007 ORL @ PHX L 41 25 9 17 52.9 3 8 37.5 4 4 100.0 0 8 8 6 0 1 2 3 -2
+p654
+aVDwight Howard ORL 11/30/2007 ORL @ PHX L 46 30 13 19 68.4 0 0 - 4 10 40.0 5 18 23 1 0 2 8 5 1
+p655
+aVMaurice Evans ORL 11/30/2007 ORL @ PHX L 9 4 2 5 40.0 0 2 0.0 0 1 0.0 1 1 2 0 0 0 0 0 -3
+p656
+aVAdonal Foyle ORL 11/30/2007 ORL @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 1 1 -4
+p657
+aVKeith Bogans ORL 11/30/2007 ORL @ PHX L 17 6 1 5 20.0 1 4 25.0 3 4 75.0 0 0 0 0 1 0 0 1 -13
+p658
+aVJameer Nelson ORL 11/30/2007 ORL @ PHX L 27 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 3 0 0 2 5 -9
+p659
+aVJJ Redick ORL 11/30/2007 ORL @ PHX L 13 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 1 0 0 0 2 12
+p660
+aVCarlos Arroyo ORL 11/30/2007 ORL @ PHX L 20 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 6 0 0 0 1 7
+p661
+aVRashard Lewis ORL 11/28/2007 ORL @ SEA W 40 9 3 19 15.8 1 8 12.5 2 2 100.0 3 7 10 3 2 0 3 3 10
+p662
+aVCarlos Arroyo ORL 11/28/2007 ORL @ SEA W 24 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 14 0 0 1 1 7
+p663
+aVAdonal Foyle ORL 11/28/2007 ORL @ SEA W 7 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -2
+p664
+aVKeith Bogans ORL 11/28/2007 ORL @ SEA W 27 14 4 10 40.0 3 7 42.9 3 3 100.0 0 4 4 1 0 0 1 1 9
+p665
+aVHedo Turkoglu ORL 11/28/2007 ORL @ SEA W 34 15 4 11 36.4 2 7 28.6 5 6 83.3 3 7 10 2 1 0 2 5 6
+p666
+aVJJ Redick ORL 11/28/2007 ORL @ SEA W 17 11 4 5 80.0 2 2 100.0 1 2 50.0 0 1 1 0 0 0 1 3 2
+p667
+aVJameer Nelson ORL 11/28/2007 ORL @ SEA W 24 6 3 5 60.0 0 1 0.0 0 2 0.0 0 5 5 3 2 0 1 1 9
+p668
+aVDwight Howard ORL 11/28/2007 ORL @ SEA W 41 39 12 17 70.6 0 0 - 15 20 75.0 4 12 16 1 0 5 6 4 18
+p669
+aVBrian Cook ORL 11/28/2007 ORL @ SEA W 6 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 2 0 0 3
+p670
+aVMaurice Evans ORL 11/28/2007 ORL @ SEA W 20 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 1 1 0 0 3 18
+p671
+aVMaurice Evans ORL 11/26/2007 ORL @ POR W 27 7 2 6 33.3 1 3 33.3 2 2 100.0 2 0 2 0 0 0 0 1 6
+p672
+aVJameer Nelson ORL 11/26/2007 ORL @ POR W 29 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 6 1 1 4 2 4
+p673
+aVJJ Redick ORL 11/26/2007 ORL @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p674
+aVBrian Cook ORL 11/26/2007 ORL @ POR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p675
+aVRashard Lewis ORL 11/26/2007 ORL @ POR W 41 20 6 15 40.0 2 8 25.0 6 8 75.0 0 6 6 2 1 0 2 4 11
+p676
+aVAdonal Foyle ORL 11/26/2007 ORL @ POR W 17 8 3 9 33.3 0 0 - 2 4 50.0 6 4 10 0 0 0 0 3 15
+p677
+aVCarlos Arroyo ORL 11/26/2007 ORL @ POR W 19 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 5 0 0 1 0 7
+p678
+aVHedo Turkoglu ORL 11/26/2007 ORL @ POR W 41 21 9 17 52.9 3 8 37.5 0 0 - 1 4 5 5 2 1 3 0 11
+p679
+aVKeith Bogans ORL 11/26/2007 ORL @ POR W 31 8 3 10 30.0 1 6 16.7 1 1 100.0 1 6 7 1 0 0 1 5 2
+p680
+aVDwight Howard ORL 11/26/2007 ORL @ POR W 31 9 4 10 40.0 0 0 - 1 2 50.0 2 12 14 0 0 3 3 5 -4
+p681
+aVMaurice Evans ORL 11/24/2007 ORL vs. MIA W 12 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 4
+p682
+aVHedo Turkoglu ORL 11/24/2007 ORL vs. MIA W 37 27 9 16 56.3 5 7 71.4 4 6 66.7 1 1 2 3 0 0 0 3 10
+p683
+aVBrian Cook ORL 11/24/2007 ORL vs. MIA W 9 4 2 4 50.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 1 8
+p684
+aVCarlos Arroyo ORL 11/24/2007 ORL vs. MIA W 16 7 2 3 66.7 0 0 - 3 4 75.0 0 1 1 2 1 0 1 1 -7
+p685
+aVKeyon Dooling ORL 11/24/2007 ORL vs. MIA W 22 17 4 7 57.1 1 1 100.0 8 8 100.0 0 1 1 0 1 0 1 1 7
+p686
+aVRashard Lewis ORL 11/24/2007 ORL vs. MIA W 38 19 7 18 38.9 0 6 0.0 5 5 100.0 1 3 4 4 2 0 4 2 20
+p687
+aVJameer Nelson ORL 11/24/2007 ORL vs. MIA W 31 12 5 8 62.5 0 1 0.0 2 4 50.0 0 7 7 7 1 0 3 5 26
+p688
+aVKeith Bogans ORL 11/24/2007 ORL vs. MIA W 27 9 3 4 75.0 2 3 66.7 1 2 50.0 1 4 5 4 1 0 0 1 16
+p689
+aVDwight Howard ORL 11/24/2007 ORL vs. MIA W 39 17 6 7 85.7 0 0 - 5 10 50.0 3 10 13 2 2 1 2 2 18
+p690
+aVAdonal Foyle ORL 11/24/2007 ORL vs. MIA W 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 4 3
+p691
+aVKeyon Dooling ORL 11/23/2007 ORL vs. CHA W 21 14 6 8 75.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 3 -2
+p692
+aVBrian Cook ORL 11/23/2007 ORL vs. CHA W 8 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 1 0 1 8
+p693
+aVHedo Turkoglu ORL 11/23/2007 ORL vs. CHA W 40 16 6 17 35.3 2 7 28.6 2 4 50.0 1 6 7 6 0 1 5 2 15
+p694
+aVAdonal Foyle ORL 11/23/2007 ORL vs. CHA W 11 1 0 1 0.0 0 0 - 1 4 25.0 4 1 5 0 0 1 0 0 -2
+p695
+aVJameer Nelson ORL 11/23/2007 ORL vs. CHA W 30 14 6 11 54.5 1 2 50.0 1 3 33.3 0 6 6 3 0 0 2 1 15
+p696
+aVRashard Lewis ORL 11/23/2007 ORL vs. CHA W 40 12 4 12 33.3 1 5 20.0 3 4 75.0 2 4 6 0 0 0 1 3 9
+p697
+aVKeith Bogans ORL 11/23/2007 ORL vs. CHA W 36 11 4 10 40.0 2 7 28.6 1 1 100.0 1 5 6 3 0 0 1 3 9
+p698
+aVDwight Howard ORL 11/23/2007 ORL vs. CHA W 37 34 11 14 78.6 0 1 0.0 12 21 57.1 6 11 17 2 3 4 3 4 15
+p699
+aVCarlos Arroyo ORL 11/23/2007 ORL vs. CHA W 18 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 4 1 0 0 1 -2
+p700
+aVHedo Turkoglu ORL 11/21/2007 ORL @ SAS L 42 26 9 18 50.0 2 6 33.3 6 7 85.7 0 5 5 5 0 0 1 2 -3
+p701
+aVRashard Lewis ORL 11/21/2007 ORL @ SAS L 45 12 5 10 50.0 2 4 50.0 0 0 - 0 6 6 1 0 1 5 3 -15
+p702
+aVJameer Nelson ORL 11/21/2007 ORL @ SAS L 31 15 6 11 54.5 2 3 66.7 1 2 50.0 0 5 5 9 0 0 2 2 -5
+p703
+aVCarlos Arroyo ORL 11/21/2007 ORL @ SAS L 17 7 3 6 50.0 0 0 - 1 1 100.0 0 0 0 2 0 0 1 1 -13
+p704
+aVKeyon Dooling ORL 11/21/2007 ORL @ SAS L 15 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 0 5 -24
+p705
+aVKeith Bogans ORL 11/21/2007 ORL @ SAS L 37 12 4 7 57.1 4 6 66.7 0 0 - 0 3 3 2 1 0 0 1 0
+p706
+aVDwight Howard ORL 11/21/2007 ORL @ SAS L 41 34 14 19 73.7 0 0 - 6 12 50.0 3 13 16 0 1 3 2 4 -7
+p707
+aVJJ Redick ORL 11/21/2007 ORL @ SAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -12
+p708
+aVAdonal Foyle ORL 11/21/2007 ORL @ SAS L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -11
+p709
+aVDwight Howard ORL 11/19/2007 ORL @ NOH W 40 24 10 14 71.4 0 0 - 4 7 57.1 3 12 15 2 1 3 4 1 9
+p710
+aVHedo Turkoglu ORL 11/19/2007 ORL @ NOH W 39 15 4 13 30.8 2 7 28.6 5 6 83.3 0 7 7 4 1 0 5 2 9
+p711
+aVCarlos Arroyo ORL 11/19/2007 ORL @ NOH W 15 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 2 1 0 1 0 -3
+p712
+aVKeyon Dooling ORL 11/19/2007 ORL @ NOH W 24 15 4 8 50.0 0 3 0.0 7 7 100.0 0 4 4 2 1 0 1 2 23
+p713
+aVJameer Nelson ORL 11/19/2007 ORL @ NOH W 33 16 7 15 46.7 1 5 20.0 1 1 100.0 0 5 5 5 1 0 3 1 10
+p714
+aVTrevor Ariza ORL 11/19/2007 ORL @ NOH W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p715
+aVJames Augustine ORL 11/19/2007 ORL @ NOH W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 0
+p716
+aVRashard Lewis ORL 11/19/2007 ORL @ NOH W 41 19 7 12 58.3 5 9 55.6 0 0 - 2 5 7 2 1 0 4 1 2
+p717
+aVKeith Bogans ORL 11/19/2007 ORL @ NOH W 24 4 2 6 33.3 0 4 0.0 0 0 - 0 1 1 2 1 0 1 0 -16
+p718
+aVAdonal Foyle ORL 11/19/2007 ORL @ NOH W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -2
+p719
+aVJames Augustine ORL 11/18/2007 ORL vs. BOS W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 2
+p720
+aVTrevor Ariza ORL 11/18/2007 ORL vs. BOS W 16 3 1 4 25.0 0 1 0.0 1 2 50.0 0 3 3 1 2 0 1 2 3
+p721
+aVDwight Howard ORL 11/18/2007 ORL vs. BOS W 42 24 7 9 77.8 0 0 - 10 20 50.0 1 5 6 2 3 3 2 4 3
+p722
+aVCarlos Arroyo ORL 11/18/2007 ORL vs. BOS W 9 5 1 2 50.0 1 2 50.0 2 2 100.0 1 2 3 0 1 0 2 1 -2
+p723
+aVKeyon Dooling ORL 11/18/2007 ORL vs. BOS W 7 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 1 1 1
+p724
+aVHedo Turkoglu ORL 11/18/2007 ORL vs. BOS W 39 16 7 13 53.8 2 4 50.0 0 0 - 2 4 6 1 0 0 1 3 -3
+p725
+aVKeith Bogans ORL 11/18/2007 ORL vs. BOS W 41 10 4 10 40.0 2 8 25.0 0 0 - 0 2 2 1 2 0 0 3 1
+p726
+aVRashard Lewis ORL 11/18/2007 ORL vs. BOS W 40 22 6 11 54.5 2 6 33.3 8 10 80.0 1 1 2 3 1 0 3 4 4
+p727
+aVAdonal Foyle ORL 11/18/2007 ORL vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p728
+aVJameer Nelson ORL 11/18/2007 ORL vs. BOS W 39 18 6 15 40.0 0 4 0.0 6 6 100.0 0 5 5 6 1 1 3 2 4
+p729
+aVTrevor Ariza ORL 11/16/2007 ORL @ NJN W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 1 0 0 0 9
+p730
+aVJameer Nelson ORL 11/16/2007 ORL @ NJN W 35 15 6 14 42.9 3 4 75.0 0 0 - 1 2 3 7 0 0 2 2 18
+p731
+aVDwight Howard ORL 11/16/2007 ORL @ NJN W 37 21 8 13 61.5 0 0 - 5 8 62.5 5 14 19 0 0 1 4 5 18
+p732
+aVPat Garrity ORL 11/16/2007 ORL @ NJN W 15 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 1 1 0 2 3 4
+p733
+aVKeyon Dooling ORL 11/16/2007 ORL @ NJN W 14 2 1 4 25.0 0 1 0.0 0 1 0.0 0 0 0 2 1 0 1 4 5
+p734
+aVKeith Bogans ORL 11/16/2007 ORL @ NJN W 33 6 2 10 20.0 1 6 16.7 1 2 50.0 0 4 4 2 0 1 2 5 17
+p735
+aVJJ Redick ORL 11/16/2007 ORL @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p736
+aVRashard Lewis ORL 11/16/2007 ORL @ NJN W 39 27 9 16 56.3 3 5 60.0 6 6 100.0 1 4 5 0 1 1 0 3 26
+p737
+aVCarlos Arroyo ORL 11/16/2007 ORL @ NJN W 12 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 3
+p738
+aVHedo Turkoglu ORL 11/16/2007 ORL @ NJN W 33 12 2 10 20.0 0 4 0.0 8 8 100.0 1 6 7 5 2 0 1 5 10
+p739
+aVJames Augustine ORL 11/16/2007 ORL @ NJN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 4
+p740
+aVAdonal Foyle ORL 11/16/2007 ORL @ NJN W 11 0 0 0 - 0 0 - 0 0 - 1 5 6 0 0 1 1 0 7
+p741
+aVKeith Bogans ORL 11/14/2007 ORL @ CLE W 44 11 4 8 50.0 3 6 50.0 0 2 0.0 1 4 5 1 1 0 2 3 -4
+p742
+aVAdonal Foyle ORL 11/14/2007 ORL @ CLE W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p743
+aVRashard Lewis ORL 11/14/2007 ORL @ CLE W 44 20 7 18 38.9 3 9 33.3 3 4 75.0 0 4 4 2 2 0 2 5 -6
+p744
+aVHedo Turkoglu ORL 11/14/2007 ORL @ CLE W 43 13 5 15 33.3 2 7 28.6 1 2 50.0 1 3 4 5 0 1 2 4 3
+p745
+aVCarlos Arroyo ORL 11/14/2007 ORL @ CLE W 18 10 4 6 66.7 0 0 - 2 2 100.0 0 3 3 3 1 0 1 1 7
+p746
+aVDwight Howard ORL 11/14/2007 ORL @ CLE W 49 35 11 17 64.7 0 0 - 13 16 81.3 6 10 16 2 0 4 3 3 -1
+p747
+aVKeyon Dooling ORL 11/14/2007 ORL @ CLE W 16 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 4 0 0 2 1 6
+p748
+aVTrevor Ariza ORL 11/14/2007 ORL @ CLE W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 2 4
+p749
+aVJameer Nelson ORL 11/14/2007 ORL @ CLE W 35 21 8 17 47.1 2 6 33.3 3 3 100.0 0 7 7 11 2 0 1 2 -6
+p750
+aVDwight Howard ORL 11/13/2007 ORL vs. SEA W 27 13 3 8 37.5 0 0 - 7 10 70.0 2 10 12 2 0 3 4 2 19
+p751
+aVKeyon Dooling ORL 11/13/2007 ORL vs. SEA W 13 2 0 3 0.0 0 2 0.0 2 2 100.0 1 0 1 0 0 0 0 0 3
+p752
+aVRashard Lewis ORL 11/13/2007 ORL vs. SEA W 30 22 9 15 60.0 4 8 50.0 0 0 - 0 6 6 3 1 0 0 2 30
+p753
+aVTrevor Ariza ORL 11/13/2007 ORL vs. SEA W 27 11 3 8 37.5 0 1 0.0 5 6 83.3 3 8 11 2 1 0 1 1 11
+p754
+aVHedo Turkoglu ORL 11/13/2007 ORL vs. SEA W 29 17 7 15 46.7 1 3 33.3 2 3 66.7 0 4 4 2 1 0 8 4 19
+p755
+aVBo Outlaw ORL 11/13/2007 ORL vs. SEA W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p756
+aVJameer Nelson ORL 11/13/2007 ORL vs. SEA W 29 8 4 6 66.7 0 0 - 0 0 - 1 5 6 6 2 0 4 2 25
+p757
+aVCarlos Arroyo ORL 11/13/2007 ORL vs. SEA W 19 0 0 3 0.0 0 0 - 0 0 - 0 1 1 5 0 0 3 0 2
+p758
+aVJames Augustine ORL 11/13/2007 ORL vs. SEA W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p759
+aVPat Garrity ORL 11/13/2007 ORL vs. SEA W 8 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 1 0 0 0 1 1
+p760
+aVAdonal Foyle ORL 11/13/2007 ORL vs. SEA W 15 6 3 5 60.0 0 0 - 0 0 - 1 6 7 0 0 1 3 1 10
+p761
+aVKeith Bogans ORL 11/13/2007 ORL vs. SEA W 32 16 5 12 41.7 5 9 55.6 1 1 100.0 2 5 7 3 1 0 2 2 19
+p762
+aVCarlos Arroyo ORL 11/10/2007 ORL vs. PHX L 31 13 5 6 83.3 3 3 100.0 0 0 - 0 4 4 8 2 0 0 3 -4
+p763
+aVJames Augustine ORL 11/10/2007 ORL vs. PHX L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 9
+p764
+aVKeyon Dooling ORL 11/10/2007 ORL vs. PHX L 34 10 4 10 40.0 2 4 50.0 0 0 - 0 1 1 0 0 0 0 2 -4
+p765
+aVRashard Lewis ORL 11/10/2007 ORL vs. PHX L 40 7 3 14 21.4 1 5 20.0 0 0 - 2 7 9 5 3 0 3 3 1
+p766
+aVKeith Bogans ORL 11/10/2007 ORL vs. PHX L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p767
+aVTrevor Ariza ORL 11/10/2007 ORL vs. PHX L 20 11 5 8 62.5 0 0 - 1 1 100.0 0 3 3 2 0 1 0 0 4
+p768
+aVPat Garrity ORL 11/10/2007 ORL vs. PHX L 7 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 0 -5
+p769
+aVHedo Turkoglu ORL 11/10/2007 ORL vs. PHX L 29 11 5 11 45.5 1 3 33.3 0 2 0.0 0 4 4 2 0 0 1 1 -20
+p770
+aVAdonal Foyle ORL 11/10/2007 ORL vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p771
+aVJameer Nelson ORL 11/10/2007 ORL vs. PHX L 17 6 3 6 50.0 0 0 - 0 0 - 0 1 1 4 0 0 5 3 -6
+p772
+aVDwight Howard ORL 11/10/2007 ORL vs. PHX L 42 33 13 24 54.2 0 1 0.0 7 16 43.8 7 11 18 3 0 1 4 2 -12
+p773
+aVRashard Lewis ORL 11/09/2007 ORL @ NYK W 41 21 7 17 41.2 4 10 40.0 3 4 75.0 0 2 2 6 1 1 2 1 9
+p774
+aVJameer Nelson ORL 11/09/2007 ORL @ NYK W 32 24 7 11 63.6 0 2 0.0 10 11 90.9 1 2 3 10 3 0 3 3 1
+p775
+aVKeyon Dooling ORL 11/09/2007 ORL @ NYK W 14 8 3 4 75.0 1 1 100.0 1 1 100.0 0 1 1 2 0 0 0 0 -4
+p776
+aVDwight Howard ORL 11/09/2007 ORL @ NYK W 37 22 8 16 50.0 0 0 - 6 8 75.0 3 17 20 1 1 3 3 4 8
+p777
+aVHedo Turkoglu ORL 11/09/2007 ORL @ NYK W 31 21 9 17 52.9 2 6 33.3 1 1 100.0 1 1 2 1 3 0 3 4 -1
+p778
+aVPat Garrity ORL 11/09/2007 ORL @ NYK W 17 3 1 5 20.0 1 5 20.0 0 0 - 0 2 2 0 0 0 1 1 14
+p779
+aVAdonal Foyle ORL 11/09/2007 ORL @ NYK W 18 2 1 3 33.3 0 0 - 0 0 - 4 3 7 0 1 1 2 5 5
+p780
+aVKeith Bogans ORL 11/09/2007 ORL @ NYK W 34 9 3 9 33.3 1 5 20.0 2 2 100.0 0 1 1 1 1 0 0 3 9
+p781
+aVCarlos Arroyo ORL 11/09/2007 ORL @ NYK W 16 2 1 3 33.3 0 0 - 0 1 0.0 0 2 2 3 0 0 1 2 9
+p782
+aVCarlos Arroyo ORL 11/07/2007 ORL @ TOR W 18 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 3 0 0 3 2 2
+p783
+aVRashard Lewis ORL 11/07/2007 ORL @ TOR W 39 24 10 16 62.5 3 6 50.0 1 1 100.0 0 2 2 4 0 0 2 4 4
+p784
+aVBo Outlaw ORL 11/07/2007 ORL @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p785
+aVKeyon Dooling ORL 11/07/2007 ORL @ TOR W 16 4 1 5 20.0 0 3 0.0 2 2 100.0 0 3 3 0 0 1 1 2 -6
+p786
+aVJameer Nelson ORL 11/07/2007 ORL @ TOR W 30 10 4 7 57.1 1 4 25.0 1 2 50.0 0 6 6 7 0 0 3 2 7
+p787
+aVPat Garrity ORL 11/07/2007 ORL @ TOR W 3 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 3
+p788
+aVAdonal Foyle ORL 11/07/2007 ORL @ TOR W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -1
+p789
+aVTrevor Ariza ORL 11/07/2007 ORL @ TOR W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 1
+p790
+aVHedo Turkoglu ORL 11/07/2007 ORL @ TOR W 45 24 8 18 44.4 3 6 50.0 5 6 83.3 4 11 15 6 1 1 3 1 6
+p791
+aVDwight Howard ORL 11/07/2007 ORL @ TOR W 34 17 7 12 58.3 0 0 - 3 6 50.0 1 8 9 2 1 1 4 5 12
+p792
+aVKeith Bogans ORL 11/07/2007 ORL @ TOR W 37 17 5 12 41.7 4 10 40.0 3 3 100.0 1 10 11 3 0 0 0 2 19
+p793
+aVPat Garrity ORL 11/06/2007 ORL @ MIN W 25 9 4 6 66.7 1 2 50.0 0 0 - 0 3 3 4 1 0 2 4 13
+p794
+aVAdonal Foyle ORL 11/06/2007 ORL @ MIN W 9 2 0 1 0.0 0 0 - 2 4 50.0 0 0 0 0 0 2 0 0 -9
+p795
+aVKeyon Dooling ORL 11/06/2007 ORL @ MIN W 20 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 2 1 0 1 3 3
+p796
+aVRashard Lewis ORL 11/06/2007 ORL @ MIN W 40 27 10 17 58.8 7 9 77.8 0 1 0.0 1 2 3 1 0 0 2 3 8
+p797
+aVCarlos Arroyo ORL 11/06/2007 ORL @ MIN W 37 18 6 12 50.0 0 1 0.0 6 8 75.0 1 2 3 6 2 0 1 1 15
+p798
+aVKeith Bogans ORL 11/06/2007 ORL @ MIN W 39 9 2 7 28.6 1 6 16.7 4 5 80.0 3 6 9 3 0 0 1 4 -2
+p799
+aVHedo Turkoglu ORL 11/06/2007 ORL @ MIN W 32 14 4 15 26.7 1 6 16.7 5 8 62.5 0 6 6 4 2 0 2 4 -5
+p800
+aVDwight Howard ORL 11/06/2007 ORL @ MIN W 39 28 8 12 66.7 0 0 - 12 16 75.0 5 11 16 1 1 0 0 2 17
+p801
+aVTrevor Ariza ORL 11/06/2007 ORL @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p802
+aVPat Garrity ORL 11/03/2007 ORL @ WAS W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -14
+p803
+aVRashard Lewis ORL 11/03/2007 ORL @ WAS W 43 18 8 15 53.3 2 5 40.0 0 0 - 2 6 8 4 2 0 0 2 18
+p804
+aVKeith Bogans ORL 11/03/2007 ORL @ WAS W 41 8 3 11 27.3 2 10 20.0 0 0 - 1 4 5 3 0 0 1 2 17
+p805
+aVTrevor Ariza ORL 11/03/2007 ORL @ WAS W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -6
+p806
+aVAdonal Foyle ORL 11/03/2007 ORL @ WAS W 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 -10
+p807
+aVJameer Nelson ORL 11/03/2007 ORL @ WAS W 36 17 4 14 28.6 3 6 50.0 6 6 100.0 0 7 7 2 2 0 3 2 17
+p808
+aVKeyon Dooling ORL 11/03/2007 ORL @ WAS W 19 7 2 6 33.3 1 2 50.0 2 2 100.0 0 0 0 2 0 0 0 2 -10
+p809
+aVHedo Turkoglu ORL 11/03/2007 ORL @ WAS W 39 25 8 16 50.0 2 5 40.0 7 8 87.5 1 6 7 8 2 0 3 5 26
+p810
+aVDwight Howard ORL 11/03/2007 ORL @ WAS W 37 17 7 11 63.6 0 0 - 3 5 60.0 4 11 15 2 0 3 3 4 22
+p811
+aVJJ Redick ORL 11/02/2007 ORL vs. DET L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p812
+aVHedo Turkoglu ORL 11/02/2007 ORL vs. DET L 35 17 6 15 40.0 3 5 60.0 2 5 40.0 2 3 5 3 1 0 2 2 -18
+p813
+aVPat Garrity ORL 11/02/2007 ORL vs. DET L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p814
+aVAdonal Foyle ORL 11/02/2007 ORL vs. DET L 11 4 2 7 28.6 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p815
+aVRashard Lewis ORL 11/02/2007 ORL vs. DET L 35 21 5 11 45.5 1 4 25.0 10 10 100.0 0 3 3 1 1 0 3 1 -16
+p816
+aVCarlos Arroyo ORL 11/02/2007 ORL vs. DET L 15 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -14
+p817
+aVTrevor Ariza ORL 11/02/2007 ORL vs. DET L 9 5 2 3 66.7 0 0 - 1 4 25.0 1 1 2 0 1 1 1 0 -2
+p818
+aVJameer Nelson ORL 11/02/2007 ORL vs. DET L 27 7 2 4 50.0 0 0 - 3 3 100.0 0 2 2 6 1 0 1 4 -9
+p819
+aVDwight Howard ORL 11/02/2007 ORL vs. DET L 38 16 6 15 40.0 0 0 - 4 9 44.4 3 10 13 1 0 1 2 5 -13
+p820
+aVJames Augustine ORL 11/02/2007 ORL vs. DET L 4 2 1 2 50.0 0 0 - 0 0 - 4 0 4 0 0 0 1 0 -2
+p821
+aVKeith Bogans ORL 11/02/2007 ORL vs. DET L 33 14 4 4 100.0 4 4 100.0 2 2 100.0 0 4 4 1 1 0 2 2 -14
+p822
+aVKeyon Dooling ORL 11/02/2007 ORL vs. DET L 16 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 1 0 0 0 3 -11
+p823
+aVCarlos Arroyo ORL 10/31/2007 ORL vs. MIL W 18 6 2 6 33.3 2 4 50.0 0 2 0.0 1 1 2 1 0 0 1 1 -9
+p824
+aVAdonal Foyle ORL 10/31/2007 ORL vs. MIL W 17 6 2 6 33.3 0 0 - 2 3 66.7 4 2 6 0 0 2 0 3 -9
+p825
+aVRashard Lewis ORL 10/31/2007 ORL vs. MIL W 30 26 9 13 69.2 4 5 80.0 4 5 80.0 2 4 6 0 0 0 0 3 26
+p826
+aVKeyon Dooling ORL 10/31/2007 ORL vs. MIL W 19 6 2 5 40.0 1 1 100.0 1 1 100.0 0 2 2 3 0 0 0 2 8
+p827
+aVJameer Nelson ORL 10/31/2007 ORL vs. MIL W 30 10 2 10 20.0 0 3 0.0 6 7 85.7 0 3 3 7 1 0 2 0 28
+p828
+aVTrevor Ariza ORL 10/31/2007 ORL vs. MIL W 8 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 -13
+p829
+aVJames Augustine ORL 10/31/2007 ORL vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -5
+p830
+aVJJ Redick ORL 10/31/2007 ORL vs. MIL W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p831
+aVHedo Turkoglu ORL 10/31/2007 ORL vs. MIL W 34 24 8 15 53.3 3 5 60.0 5 5 100.0 0 5 5 2 1 0 2 2 17
+p832
+aVKeith Bogans ORL 10/31/2007 ORL vs. MIL W 18 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 4 14
+p833
+aVPat Garrity ORL 10/31/2007 ORL vs. MIL W 25 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 0 0 0 0 2 15
+p834
+aVDwight Howard ORL 10/31/2007 ORL vs. MIL W 31 16 4 9 44.4 0 0 - 8 10 80.0 1 11 12 2 0 7 4 2 28
+p835
+a.

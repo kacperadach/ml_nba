@@ -1,0 +1,88 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJason Terry DAL 05/05/2012 DAL vs. OKC L 43 11 4 12 33.3 2 4 50.0 1 2 50.0 1 3 4 3 0 0 1 2 -9
+p2
+aVDelonte West DAL 05/05/2012 DAL vs. OKC L 18 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 1 -8
+p3
+aVShawn Marion DAL 05/05/2012 DAL vs. OKC L 35 9 4 9 44.4 0 2 0.0 1 2 50.0 1 5 6 1 0 2 4 3 2
+p4
+aVBrendan Haywood DAL 05/05/2012 DAL vs. OKC L 25 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 1 0 1 3 4
+p5
+aVIan Mahinmi DAL 05/05/2012 DAL vs. OKC L 14 10 3 4 75.0 0 0 - 4 5 80.0 3 2 5 0 1 1 1 5 -3
+p6
+aVVince Carter DAL 05/05/2012 DAL vs. OKC L 20 8 3 10 30.0 2 3 66.7 0 0 - 3 5 8 0 2 0 0 1 -13
+p7
+aVBrandan Wright DAL 05/05/2012 DAL vs. OKC L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p8
+aVJason Kidd DAL 05/05/2012 DAL vs. OKC L 38 16 6 11 54.5 4 8 50.0 0 0 - 1 6 7 8 1 1 4 2 6
+p9
+aVDirk Nowitzki DAL 05/05/2012 DAL vs. OKC L 40 34 10 25 40.0 1 1 100.0 13 13 100.0 1 4 5 4 1 0 1 2 -5
+p10
+aVDelonte West DAL 05/03/2012 DAL vs. OKC L 19 9 3 5 60.0 0 0 - 3 3 100.0 0 2 2 1 0 0 1 1 -17
+p11
+aVYi Jianlian DAL 05/03/2012 DAL vs. OKC L 5 2 1 3 33.3 0 1 0.0 0 1 0.0 0 2 2 0 1 0 0 0 10
+p12
+aVBrandan Wright DAL 05/03/2012 DAL vs. OKC L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 0 4
+p13
+aVVince Carter DAL 05/03/2012 DAL vs. OKC L 27 7 2 8 25.0 1 3 33.3 2 2 100.0 0 2 2 0 0 1 2 4 -18
+p14
+aVBrian Cardinal DAL 05/03/2012 DAL vs. OKC L 8 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 0 3
+p15
+aVDirk Nowitzki DAL 05/03/2012 DAL vs. OKC L 39 17 6 15 40.0 0 1 0.0 5 8 62.5 1 8 9 0 0 0 0 1 -20
+p16
+aVJason Terry DAL 05/03/2012 DAL vs. OKC L 31 11 3 10 30.0 2 5 40.0 3 4 75.0 0 3 3 6 1 0 4 3 -16
+p17
+aVRodrigue Beaubois DAL 05/03/2012 DAL vs. OKC L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 6
+p18
+aVShawn Marion DAL 05/03/2012 DAL vs. OKC L 34 6 1 8 12.5 0 3 0.0 4 4 100.0 3 7 10 2 1 2 3 2 -22
+p19
+aVKelenna Azubuike DAL 05/03/2012 DAL vs. OKC L 5 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 1 0 1 0 10
+p20
+aVIan Mahinmi DAL 05/03/2012 DAL vs. OKC L 16 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 0 2 2
+p21
+aVJason Kidd DAL 05/03/2012 DAL vs. OKC L 34 12 4 12 33.3 2 6 33.3 2 2 100.0 0 5 5 4 1 0 2 2 -15
+p22
+aVBrendan Haywood DAL 05/03/2012 DAL vs. OKC L 7 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -7
+p23
+aVBrandan Wright DAL 04/30/2012 DAL @ OKC L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -10
+p24
+aVDirk Nowitzki DAL 04/30/2012 DAL @ OKC L 38 31 10 19 52.6 0 2 0.0 11 11 100.0 0 6 6 1 1 0 3 3 2
+p25
+aVDelonte West DAL 04/30/2012 DAL @ OKC L 24 13 5 12 41.7 1 3 33.3 2 2 100.0 1 2 3 2 2 0 1 1 -8
+p26
+aVVince Carter DAL 04/30/2012 DAL @ OKC L 33 5 2 9 22.2 0 2 0.0 1 2 50.0 2 3 5 1 3 1 1 4 -12
+p27
+aVShawn Marion DAL 04/30/2012 DAL @ OKC L 39 15 5 9 55.6 1 4 25.0 4 4 100.0 4 4 8 1 0 1 2 5 7
+p28
+aVBrendan Haywood DAL 04/30/2012 DAL @ OKC L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p29
+aVJason Terry DAL 04/30/2012 DAL @ OKC L 30 13 5 12 41.7 2 6 33.3 1 2 50.0 0 1 1 1 0 0 2 4 -17
+p30
+aVJason Kidd DAL 04/30/2012 DAL @ OKC L 37 10 2 10 20.0 1 6 16.7 5 5 100.0 2 4 6 7 3 0 3 2 13
+p31
+aVIan Mahinmi DAL 04/30/2012 DAL @ OKC L 18 9 3 3 100.0 0 0 - 3 4 75.0 3 2 5 0 0 0 0 5 7
+p32
+aVRodrigue Beaubois DAL 04/30/2012 DAL @ OKC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p33
+aVShawn Marion DAL 04/28/2012 DAL @ OKC L 32 17 7 14 50.0 3 5 60.0 0 0 - 1 7 8 0 0 0 1 4 0
+p34
+aVJason Terry DAL 04/28/2012 DAL @ OKC L 34 20 8 10 80.0 4 5 80.0 0 0 - 0 1 1 5 0 0 1 2 8
+p35
+aVJason Kidd DAL 04/28/2012 DAL @ OKC L 35 8 2 8 25.0 2 6 33.3 2 3 66.7 0 6 6 5 7 0 2 1 -2
+p36
+aVBrendan Haywood DAL 04/28/2012 DAL @ OKC L 19 4 1 4 25.0 0 0 - 2 4 50.0 5 2 7 1 0 1 0 3 1
+p37
+aVVince Carter DAL 04/28/2012 DAL @ OKC L 27 13 5 14 35.7 0 2 0.0 3 4 75.0 0 7 7 0 0 0 3 2 7
+p38
+aVDirk Nowitzki DAL 04/28/2012 DAL @ OKC L 36 25 8 18 44.4 0 2 0.0 9 10 90.0 1 4 5 2 1 0 6 3 -5
+p39
+aVIan Mahinmi DAL 04/28/2012 DAL @ OKC L 22 6 1 4 25.0 0 0 - 4 4 100.0 1 3 4 0 2 2 0 1 5
+p40
+aVBrandan Wright DAL 04/28/2012 DAL @ OKC L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -10
+p41
+aVDelonte West DAL 04/28/2012 DAL @ OKC L 27 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 2 1 0 1 2 -8
+p42
+aVBrian Cardinal DAL 04/28/2012 DAL @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p43
+a.

@@ -1,0 +1,64 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDon Reid DET 04/30/1996 DET vs. ORL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 1 4 -
+p2
+aVLindsey Hunter DET 04/30/1996 DET vs. ORL L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -
+p3
+aVAllan Houston DET 04/30/1996 DET vs. ORL L 48 33 11 25 44.0 2 8 25.0 9 10 90.0 0 1 1 1 0 0 5 5 -
+p4
+aVJoe Dumars DET 04/30/1996 DET vs. ORL L 47 15 6 14 42.9 2 7 28.6 1 1 100.0 2 3 5 7 0 0 3 2 -
+p5
+aVOtis Thorpe DET 04/30/1996 DET vs. ORL L 35 15 5 9 55.6 0 0 - 5 6 83.3 6 7 13 3 0 0 2 5 -
+p6
+aVTheo Ratliff DET 04/30/1996 DET vs. ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p7
+aVMark West DET 04/30/1996 DET vs. ORL L 25 7 3 4 75.0 0 0 - 1 3 33.3 1 5 6 0 0 0 0 3 -
+p8
+aVGrant Hill DET 04/30/1996 DET vs. ORL L 33 17 4 8 50.0 0 0 - 9 11 81.8 0 6 6 5 2 0 3 5 -
+p9
+aVMichael Curry DET 04/30/1996 DET vs. ORL L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -
+p10
+aVTerry Mills DET 04/30/1996 DET vs. ORL L 19 6 1 7 14.3 0 2 0.0 4 4 100.0 1 1 2 0 1 0 0 3 -
+p11
+aVTerry Mills DET 04/28/1996 DET @ ORL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p12
+aVLou Roe DET 04/28/1996 DET @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p13
+aVOtis Thorpe DET 04/28/1996 DET @ ORL L 41 10 4 7 57.1 0 0 - 2 4 50.0 6 10 16 3 0 0 3 3 -
+p14
+aVMichael Curry DET 04/28/1996 DET @ ORL L 19 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 0 1 -
+p15
+aVGrant Hill DET 04/28/1996 DET @ ORL L 42 19 8 18 44.4 1 1 100.0 2 2 100.0 2 3 5 2 1 0 3 5 -
+p16
+aVMark West DET 04/28/1996 DET @ ORL L 30 11 3 8 37.5 0 0 - 5 10 50.0 4 2 6 1 1 0 0 4 -
+p17
+aVDon Reid DET 04/28/1996 DET @ ORL L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p18
+aVAllan Houston DET 04/28/1996 DET @ ORL L 47 23 8 20 40.0 3 7 42.9 4 4 100.0 1 4 5 1 0 0 4 2 -
+p19
+aVJoe Dumars DET 04/28/1996 DET @ ORL L 42 12 5 12 41.7 1 3 33.3 1 1 100.0 1 3 4 2 0 0 3 2 -
+p20
+aVJoe Dumars DET 04/26/1996 DET @ ORL L 34 14 5 9 55.6 2 4 50.0 2 2 100.0 2 2 4 2 0 0 1 1 -
+p21
+aVTerry Mills DET 04/26/1996 DET @ ORL L 22 10 4 11 36.4 1 5 20.0 1 2 50.0 2 1 3 4 0 0 1 3 -
+p22
+aVAllan Houston DET 04/26/1996 DET @ ORL L 41 19 6 13 46.2 2 6 33.3 5 6 83.3 0 2 2 4 0 1 2 4 -
+p23
+aVGrant Hill DET 04/26/1996 DET @ ORL L 40 21 10 13 76.9 0 1 0.0 1 1 100.0 2 9 11 4 0 0 2 3 -
+p24
+aVOtis Thorpe DET 04/26/1996 DET @ ORL L 25 10 4 8 50.0 0 0 - 2 2 100.0 2 4 6 1 0 0 2 1 -
+p25
+aVDon Reid DET 04/26/1996 DET @ ORL L 9 3 1 3 33.3 0 0 - 1 3 33.3 0 1 1 1 0 0 0 2 -
+p26
+aVMark West DET 04/26/1996 DET @ ORL L 23 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 0 1 2 5 -
+p27
+aVMichael Curry DET 04/26/1996 DET @ ORL L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p28
+aVEric Leckner DET 04/26/1996 DET @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p29
+aVLou Roe DET 04/26/1996 DET @ ORL L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -
+p30
+aVLindsey Hunter DET 04/26/1996 DET @ ORL L 25 3 1 6 16.7 0 2 0.0 1 2 50.0 1 1 2 1 1 0 0 2 -
+p31
+a.

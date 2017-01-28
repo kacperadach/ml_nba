@@ -1,0 +1,928 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSolomon Hill NOP 01/23/2017 NOP vs. CLE W 28 1 0 3 0.0 0 2 0.0 1 2 50.0 0 2 2 4 0 2 0 3 -2
+p2
+aVTerrence Jones NOP 01/23/2017 NOP vs. CLE W 36 36 13 18 72.2 3 4 75.0 7 10 70.0 3 8 11 1 2 3 1 1 -2
+p3
+aVBuddy Hield NOP 01/23/2017 NOP vs. CLE W 18 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 0 1 1 1 -2
+p4
+aVLangston Galloway NOP 01/23/2017 NOP vs. CLE W 29 12 3 9 33.3 3 8 37.5 3 3 100.0 2 4 6 2 1 0 0 3 16
+p5
+aVDante Cunningham NOP 01/23/2017 NOP vs. CLE W 31 11 4 10 40.0 2 7 28.6 1 2 50.0 1 5 6 2 0 1 0 3 -10
+p6
+aVCheick Diallo NOP 01/23/2017 NOP vs. CLE W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p7
+aVTyreke Evans NOP 01/23/2017 NOP vs. CLE W 12 9 3 8 37.5 1 3 33.3 2 2 100.0 0 2 2 4 0 0 1 2 -2
+p8
+aVJrue Holiday NOP 01/23/2017 NOP vs. CLE W 39 33 12 19 63.2 4 7 57.1 5 5 100.0 0 6 6 10 3 2 3 5 -5
+p9
+aVE'Twaun Moore NOP 01/23/2017 NOP vs. CLE W 24 5 2 8 25.0 0 3 0.0 1 2 50.0 1 3 4 1 1 1 0 2 4
+p10
+aVDonatas Motiejunas NOP 01/23/2017 NOP vs. CLE W 24 14 5 8 62.5 2 3 66.7 2 4 50.0 1 3 4 1 1 1 2 2 15
+p11
+aVE'Twaun Moore NOP 01/20/2017 NOP vs. BKN L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 2 -18
+p12
+aVTyreke Evans NOP 01/20/2017 NOP vs. BKN L 13 8 2 10 20.0 0 4 0.0 4 6 66.7 3 1 4 0 2 0 1 2 -19
+p13
+aVLangston Galloway NOP 01/20/2017 NOP vs. BKN L 24 8 3 12 25.0 2 7 28.6 0 0 - 2 2 4 1 1 0 0 2 -27
+p14
+aVDonatas Motiejunas NOP 01/20/2017 NOP vs. BKN L 12 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 0 0 1 0 1 -7
+p15
+aVAnthony Davis NOP 01/20/2017 NOP vs. BKN L 27 22 10 17 58.8 0 1 0.0 2 3 66.7 2 7 9 4 1 2 2 4 -11
+p16
+aVDante Cunningham NOP 01/20/2017 NOP vs. BKN L 30 14 5 7 71.4 4 6 66.7 0 0 - 3 4 7 1 0 1 1 3 -32
+p17
+aVBuddy Hield NOP 01/20/2017 NOP vs. BKN L 22 11 4 8 50.0 1 3 33.3 2 2 100.0 1 2 3 1 0 0 0 2 -9
+p18
+aVCheick Diallo NOP 01/20/2017 NOP vs. BKN L 10 2 1 6 16.7 0 0 - 0 0 - 3 3 6 1 1 1 0 1 2
+p19
+aVTerrence Jones NOP 01/20/2017 NOP vs. BKN L 22 13 4 12 33.3 0 2 0.0 5 6 83.3 3 5 8 0 1 2 1 2 -16
+p20
+aVSolomon Hill NOP 01/20/2017 NOP vs. BKN L 23 8 4 6 66.7 0 0 - 0 0 - 0 0 0 1 0 1 0 1 3
+p21
+aVJrue Holiday NOP 01/20/2017 NOP vs. BKN L 28 12 4 12 33.3 1 2 50.0 3 4 75.0 1 2 3 8 1 0 3 2 -7
+p22
+aVTim Frazier NOP 01/20/2017 NOP vs. BKN L 12 7 3 6 50.0 0 2 0.0 1 2 50.0 0 0 0 3 0 0 1 2 -4
+p23
+aVAnthony Davis NOP 01/18/2017 NOP vs. ORL W 29 21 9 17 52.9 0 0 - 3 4 75.0 2 12 14 4 0 1 2 1 11
+p24
+aVLangston Galloway NOP 01/18/2017 NOP vs. ORL W 31 18 5 8 62.5 4 7 57.1 4 5 80.0 1 2 3 3 0 0 0 2 23
+p25
+aVJrue Holiday NOP 01/18/2017 NOP vs. ORL W 26 14 6 13 46.2 2 4 50.0 0 0 - 0 2 2 5 5 2 2 1 6
+p26
+aVTim Frazier NOP 01/18/2017 NOP vs. ORL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -8
+p27
+aVDonatas Motiejunas NOP 01/18/2017 NOP vs. ORL W 3 2 0 0 - 0 0 - 2 3 66.7 0 1 1 0 0 0 0 0 -8
+p28
+aVBuddy Hield NOP 01/18/2017 NOP vs. ORL W 24 10 4 11 36.4 2 8 25.0 0 1 0.0 0 4 4 3 0 0 1 2 -2
+p29
+aVTerrence Jones NOP 01/18/2017 NOP vs. ORL W 18 7 3 6 50.0 1 2 50.0 0 0 - 0 5 5 3 1 1 0 1 18
+p30
+aVDante Cunningham NOP 01/18/2017 NOP vs. ORL W 27 14 7 11 63.6 0 3 0.0 0 0 - 2 3 5 0 0 0 0 1 17
+p31
+aVSolomon Hill NOP 01/18/2017 NOP vs. ORL W 32 5 2 7 28.6 1 3 33.3 0 0 - 0 5 5 2 2 0 1 2 4
+p32
+aVE'Twaun Moore NOP 01/18/2017 NOP vs. ORL W 26 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 2 0 1 0 2 17
+p33
+aVTyreke Evans NOP 01/18/2017 NOP vs. ORL W 20 18 6 12 50.0 4 6 66.7 2 2 100.0 0 4 4 5 3 0 1 1 22
+p34
+aVTim Frazier NOP 01/16/2017 NOP @ IND L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p35
+aVBuddy Hield NOP 01/16/2017 NOP @ IND L 15 10 4 5 80.0 2 3 66.7 0 0 - 0 4 4 0 0 1 2 1 -14
+p36
+aVSolomon Hill NOP 01/16/2017 NOP @ IND L 30 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 1 0 0 1 2 -5
+p37
+aVDante Cunningham NOP 01/16/2017 NOP @ IND L 31 3 1 7 14.3 1 5 20.0 0 0 - 1 1 2 0 1 0 0 2 -4
+p38
+aVTyreke Evans NOP 01/16/2017 NOP @ IND L 23 12 5 13 38.5 0 1 0.0 2 2 100.0 0 5 5 4 2 0 2 0 -8
+p39
+aVTerrence Jones NOP 01/16/2017 NOP @ IND L 26 15 6 13 46.2 1 1 100.0 2 5 40.0 4 4 8 3 0 2 1 3 -3
+p40
+aVE'Twaun Moore NOP 01/16/2017 NOP @ IND L 28 15 5 9 55.6 1 3 33.3 4 4 100.0 1 3 4 0 1 2 2 0 2
+p41
+aVAnthony Davis NOP 01/16/2017 NOP @ IND L 23 16 6 11 54.5 0 0 - 4 5 80.0 0 3 3 3 0 0 0 1 -6
+p42
+aVDonatas Motiejunas NOP 01/16/2017 NOP @ IND L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 1 0 1 5
+p43
+aVJrue Holiday NOP 01/16/2017 NOP @ IND L 26 11 4 9 44.4 2 3 66.7 1 2 50.0 1 1 2 6 1 0 5 3 2
+p44
+aVLangston Galloway NOP 01/16/2017 NOP @ IND L 24 9 3 8 37.5 3 6 50.0 0 0 - 0 4 4 0 1 0 1 2 13
+p45
+aVJrue Holiday NOP 01/14/2017 NOP @ CHI L 29 1 0 7 0.0 0 4 0.0 1 2 50.0 0 3 3 12 0 0 2 2 -3
+p46
+aVDonatas Motiejunas NOP 01/14/2017 NOP @ CHI L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 2
+p47
+aVSolomon Hill NOP 01/14/2017 NOP @ CHI L 36 10 3 8 37.5 2 6 33.3 2 4 50.0 0 6 6 2 0 0 1 5 -9
+p48
+aVBuddy Hield NOP 01/14/2017 NOP @ CHI L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 1 -9
+p49
+aVE'Twaun Moore NOP 01/14/2017 NOP @ CHI L 27 16 6 9 66.7 4 5 80.0 0 0 - 0 1 1 2 0 0 1 2 12
+p50
+aVDante Cunningham NOP 01/14/2017 NOP @ CHI L 19 7 3 7 42.9 1 4 25.0 0 0 - 1 4 5 1 0 0 0 3 -4
+p51
+aVLangston Galloway NOP 01/14/2017 NOP @ CHI L 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -15
+p52
+aVTyreke Evans NOP 01/14/2017 NOP @ CHI L 22 14 6 15 40.0 0 3 0.0 2 3 66.7 0 1 1 6 1 0 1 1 0
+p53
+aVTerrence Jones NOP 01/14/2017 NOP @ CHI L 34 9 4 6 66.7 0 0 - 1 2 50.0 1 7 8 2 0 3 0 2 -13
+p54
+aVAnthony Davis NOP 01/14/2017 NOP @ CHI L 39 36 14 23 60.9 0 0 - 8 10 80.0 3 11 14 2 1 3 3 3 -1
+p55
+aVSolomon Hill NOP 01/12/2017 NOP @ BKN W 33 14 5 10 50.0 2 4 50.0 2 2 100.0 1 8 9 3 2 0 1 2 16
+p56
+aVLangston Galloway NOP 01/12/2017 NOP @ BKN W 17 1 0 6 0.0 0 2 0.0 1 1 100.0 0 4 4 0 0 0 1 0 -3
+p57
+aVDonatas Motiejunas NOP 01/12/2017 NOP @ BKN W 19 1 0 7 0.0 0 3 0.0 1 2 50.0 0 3 3 3 1 1 1 1 -1
+p58
+aVTyreke Evans NOP 01/12/2017 NOP @ BKN W 28 29 10 15 66.7 2 4 50.0 7 7 100.0 0 4 4 3 4 1 2 3 8
+p59
+aVBuddy Hield NOP 01/12/2017 NOP @ BKN W 24 5 2 9 22.2 1 6 16.7 0 0 - 3 2 5 1 0 0 1 2 12
+p60
+aVE'Twaun Moore NOP 01/12/2017 NOP @ BKN W 19 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 0 2 2 0 -5
+p61
+aVTerrence Jones NOP 01/12/2017 NOP @ BKN W 38 24 10 17 58.8 1 2 50.0 3 9 33.3 2 10 12 1 1 0 2 2 8
+p62
+aVJrue Holiday NOP 01/12/2017 NOP @ BKN W 31 21 7 15 46.7 4 6 66.7 3 4 75.0 1 4 5 4 2 0 4 3 13
+p63
+aVOmer Asik NOP 01/12/2017 NOP @ BKN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p64
+aVAlexis Ajinca NOP 01/12/2017 NOP @ BKN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 2
+p65
+aVDante Cunningham NOP 01/12/2017 NOP @ BKN W 22 4 2 6 33.3 0 3 0.0 0 0 - 2 3 5 0 1 0 1 0 -5
+p66
+aVTerrence Jones NOP 01/09/2017 NOP @ NYK W 14 11 4 6 66.7 0 0 - 3 4 75.0 1 2 3 0 1 2 0 0 1
+p67
+aVCheick Diallo NOP 01/09/2017 NOP @ NYK W 5 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -13
+p68
+aVBuddy Hield NOP 01/09/2017 NOP @ NYK W 27 11 4 7 57.1 3 5 60.0 0 0 - 0 3 3 3 3 0 0 0 16
+p69
+aVE'Twaun Moore NOP 01/09/2017 NOP @ NYK W 24 8 4 7 57.1 0 1 0.0 0 0 - 1 0 1 3 0 0 0 2 -5
+p70
+aVDante Cunningham NOP 01/09/2017 NOP @ NYK W 30 9 3 5 60.0 3 3 100.0 0 0 - 1 2 3 0 1 0 0 1 22
+p71
+aVLangston Galloway NOP 01/09/2017 NOP @ NYK W 19 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 1 0 1 0 1 8
+p72
+aVSolomon Hill NOP 01/09/2017 NOP @ NYK W 23 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 1 2 1 1 0 13
+p73
+aVJrue Holiday NOP 01/09/2017 NOP @ NYK W 25 9 3 8 37.5 1 3 33.3 2 3 66.7 0 4 4 7 1 0 2 1 23
+p74
+aVDonatas Motiejunas NOP 01/09/2017 NOP @ NYK W 16 3 1 2 50.0 1 1 100.0 0 0 - 1 2 3 3 2 0 2 2 -6
+p75
+aVAnthony Davis NOP 01/09/2017 NOP @ NYK W 29 40 14 22 63.6 1 1 100.0 11 12 91.7 4 14 18 2 0 3 0 2 26
+p76
+aVTim Frazier NOP 01/09/2017 NOP @ NYK W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -13
+p77
+aVTyreke Evans NOP 01/09/2017 NOP @ NYK W 21 12 5 9 55.6 2 5 40.0 0 0 - 0 2 2 4 0 0 3 2 -2
+p78
+aVAnthony Davis NOP 01/07/2017 NOP @ BOS L 38 36 14 21 66.7 1 1 100.0 7 9 77.8 3 13 16 2 0 2 3 0 -6
+p79
+aVSolomon Hill NOP 01/07/2017 NOP @ BOS L 17 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 1 1 0 0 1
+p80
+aVLangston Galloway NOP 01/07/2017 NOP @ BOS L 22 20 6 13 46.2 4 9 44.4 4 5 80.0 0 4 4 1 0 0 0 3 1
+p81
+aVJrue Holiday NOP 01/07/2017 NOP @ BOS L 29 13 5 10 50.0 1 4 25.0 2 2 100.0 0 1 1 4 2 1 3 3 -9
+p82
+aVBuddy Hield NOP 01/07/2017 NOP @ BOS L 24 9 3 9 33.3 3 5 60.0 0 0 - 0 5 5 3 0 0 1 2 -14
+p83
+aVDante Cunningham NOP 01/07/2017 NOP @ BOS L 24 0 0 4 0.0 0 3 0.0 0 0 - 1 2 3 0 2 0 1 4 -1
+p84
+aVDonatas Motiejunas NOP 01/07/2017 NOP @ BOS L 20 11 4 5 80.0 1 1 100.0 2 4 50.0 2 3 5 4 1 0 0 3 -13
+p85
+aVE'Twaun Moore NOP 01/07/2017 NOP @ BOS L 29 7 3 8 37.5 0 4 0.0 1 1 100.0 2 0 2 1 0 1 2 1 -1
+p86
+aVTyreke Evans NOP 01/07/2017 NOP @ BOS L 20 4 1 6 16.7 0 2 0.0 2 2 100.0 0 3 3 6 1 2 1 4 -1
+p87
+aVTerrence Jones NOP 01/07/2017 NOP @ BOS L 16 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p88
+aVSolomon Hill NOP 01/05/2017 NOP vs. ATL L 22 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 1 0 0 1 1 -6
+p89
+aVE'Twaun Moore NOP 01/05/2017 NOP vs. ATL L 27 8 3 11 27.3 2 6 33.3 0 0 - 1 1 2 0 0 1 1 4 0
+p90
+aVDante Cunningham NOP 01/05/2017 NOP vs. ATL L 27 5 2 4 50.0 1 3 33.3 0 0 - 0 5 5 1 1 0 1 1 -4
+p91
+aVTerrence Jones NOP 01/05/2017 NOP vs. ATL L 30 12 6 12 50.0 0 0 - 0 1 0.0 4 7 11 1 1 3 3 0 -2
+p92
+aVLangston Galloway NOP 01/05/2017 NOP vs. ATL L 18 6 2 7 28.6 2 6 33.3 0 0 - 1 1 2 1 2 0 0 3 10
+p93
+aVJrue Holiday NOP 01/05/2017 NOP vs. ATL L 35 18 5 13 38.5 4 6 66.7 4 4 100.0 0 2 2 5 1 0 4 2 -9
+p94
+aVBuddy Hield NOP 01/05/2017 NOP vs. ATL L 31 15 5 16 31.3 4 9 44.4 1 1 100.0 2 5 7 4 1 0 0 2 -17
+p95
+aVTyreke Evans NOP 01/05/2017 NOP vs. ATL L 13 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 3 0 0 2 0 4
+p96
+aVAnthony Davis NOP 01/05/2017 NOP vs. ATL L 37 20 7 20 35.0 0 0 - 6 8 75.0 7 11 18 3 2 0 3 5 -1
+p97
+aVBuddy Hield NOP 01/02/2017 NOP @ CLE L 35 20 6 13 46.2 4 6 66.7 4 4 100.0 0 5 5 2 0 0 2 3 6
+p98
+aVTyreke Evans NOP 01/02/2017 NOP @ CLE L 19 4 2 9 22.2 0 1 0.0 0 0 - 1 2 3 5 1 0 2 1 -20
+p99
+aVDante Cunningham NOP 01/02/2017 NOP @ CLE L 33 6 3 5 60.0 0 1 0.0 0 0 - 0 6 6 0 0 0 1 2 6
+p100
+aVSolomon Hill NOP 01/02/2017 NOP @ CLE L 27 6 2 8 25.0 2 7 28.6 0 0 - 0 2 2 0 0 1 0 3 -7
+p101
+aVAnthony Davis NOP 01/02/2017 NOP @ CLE L 40 20 10 27 37.0 0 1 0.0 0 2 0.0 6 10 16 2 1 3 3 2 3
+p102
+aVLangston Galloway NOP 01/02/2017 NOP @ CLE L 13 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 1 0 1 0 1 -12
+p103
+aVTerrence Jones NOP 01/02/2017 NOP @ CLE L 18 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 2 1 0 1 0 -8
+p104
+aVE'Twaun Moore NOP 01/02/2017 NOP @ CLE L 20 6 2 5 40.0 2 3 66.7 0 0 - 1 3 4 1 0 1 0 5 -16
+p105
+aVJrue Holiday NOP 01/02/2017 NOP @ CLE L 35 11 4 11 36.4 2 3 66.7 1 2 50.0 0 4 4 13 3 0 4 1 8
+p106
+aVTerrence Jones NOP 12/30/2016 NOP vs. NYK W 18 5 2 6 33.3 0 0 - 1 1 100.0 0 4 4 1 0 2 1 0 10
+p107
+aVSolomon Hill NOP 12/30/2016 NOP vs. NYK W 28 10 4 6 66.7 2 4 50.0 0 0 - 0 0 0 0 0 0 1 5 3
+p108
+aVLangston Galloway NOP 12/30/2016 NOP vs. NYK W 21 6 2 8 25.0 2 7 28.6 0 0 - 0 2 2 1 0 0 1 1 -2
+p109
+aVAnthony Davis NOP 12/30/2016 NOP vs. NYK W 34 23 9 18 50.0 0 0 - 5 6 83.3 1 17 18 2 2 0 5 3 12
+p110
+aVJrue Holiday NOP 12/30/2016 NOP vs. NYK W 35 12 5 10 50.0 0 1 0.0 2 2 100.0 0 4 4 11 1 2 1 1 15
+p111
+aVTyreke Evans NOP 12/30/2016 NOP vs. NYK W 18 16 5 11 45.5 2 5 40.0 4 4 100.0 0 5 5 4 0 0 1 0 -5
+p112
+aVE'Twaun Moore NOP 12/30/2016 NOP vs. NYK W 27 12 5 10 50.0 2 3 66.7 0 0 - 1 3 4 2 0 0 2 1 -1
+p113
+aVDante Cunningham NOP 12/30/2016 NOP vs. NYK W 35 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 0 1 1 0 1 19
+p114
+aVBuddy Hield NOP 12/30/2016 NOP vs. NYK W 24 12 3 9 33.3 2 5 40.0 4 4 100.0 0 2 2 1 0 0 1 0 9
+p115
+aVDante Cunningham NOP 12/28/2016 NOP vs. LAC W 32 6 2 6 33.3 2 5 40.0 0 0 - 1 8 9 3 1 1 1 1 8
+p116
+aVLangston Galloway NOP 12/28/2016 NOP vs. LAC W 31 12 4 10 40.0 1 5 20.0 3 4 75.0 0 4 4 0 1 1 0 1 -4
+p117
+aVJrue Holiday NOP 12/28/2016 NOP vs. LAC W 34 11 5 12 41.7 0 1 0.0 1 2 50.0 0 4 4 9 2 0 3 3 1
+p118
+aVBuddy Hield NOP 12/28/2016 NOP vs. LAC W 23 17 7 11 63.6 3 5 60.0 0 0 - 1 5 6 0 1 0 1 1 -1
+p119
+aVTerrence Jones NOP 12/28/2016 NOP vs. LAC W 23 10 4 12 33.3 0 1 0.0 2 5 40.0 3 2 5 2 1 0 0 2 4
+p120
+aVE'Twaun Moore NOP 12/28/2016 NOP vs. LAC W 20 9 4 7 57.1 1 3 33.3 0 0 - 0 3 3 1 0 2 0 0 -6
+p121
+aVTyreke Evans NOP 12/28/2016 NOP vs. LAC W 16 12 5 9 55.6 2 4 50.0 0 0 - 1 4 5 5 0 0 1 2 4
+p122
+aVAnthony Davis NOP 12/28/2016 NOP vs. LAC W 37 20 8 16 50.0 0 2 0.0 4 8 50.0 1 4 5 1 4 1 0 4 4
+p123
+aVSolomon Hill NOP 12/28/2016 NOP vs. LAC W 24 5 1 4 25.0 1 3 33.3 2 2 100.0 1 3 4 2 1 0 0 2 10
+p124
+aVBuddy Hield NOP 12/26/2016 NOP vs. DAL W 23 14 6 8 75.0 2 4 50.0 0 0 - 0 2 2 2 0 0 0 1 11
+p125
+aVTyreke Evans NOP 12/26/2016 NOP vs. DAL W 11 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -8
+p126
+aVTerrence Jones NOP 12/26/2016 NOP vs. DAL W 12 5 1 3 33.3 0 1 0.0 3 4 75.0 0 3 3 0 0 1 1 0 -1
+p127
+aVSolomon Hill NOP 12/26/2016 NOP vs. DAL W 31 10 2 5 40.0 2 5 40.0 4 4 100.0 0 7 7 2 1 0 0 4 10
+p128
+aVAnthony Davis NOP 12/26/2016 NOP vs. DAL W 37 28 8 14 57.1 0 1 0.0 12 14 85.7 5 11 16 4 0 2 6 4 7
+p129
+aVTim Frazier NOP 12/26/2016 NOP vs. DAL W 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 1 0 0 1 4
+p130
+aVLangston Galloway NOP 12/26/2016 NOP vs. DAL W 26 17 6 8 75.0 5 5 100.0 0 0 - 0 2 2 2 0 0 2 1 -10
+p131
+aVE'Twaun Moore NOP 12/26/2016 NOP vs. DAL W 23 16 7 10 70.0 2 3 66.7 0 0 - 0 1 1 1 2 0 0 2 3
+p132
+aVDante Cunningham NOP 12/26/2016 NOP vs. DAL W 37 11 4 7 57.1 1 3 33.3 2 2 100.0 0 6 6 0 1 0 0 3 7
+p133
+aVJrue Holiday NOP 12/26/2016 NOP vs. DAL W 36 7 2 11 18.2 0 1 0.0 3 4 75.0 0 3 3 11 1 0 1 2 12
+p134
+aVE'Twaun Moore NOP 12/23/2016 NOP vs. MIA W 26 5 2 6 33.3 1 2 50.0 0 1 0.0 0 3 3 1 1 1 1 2 14
+p135
+aVAlexis Ajinca NOP 12/23/2016 NOP vs. MIA W 21 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 0 2 0 0 -8
+p136
+aVTyreke Evans NOP 12/23/2016 NOP vs. MIA W 15 7 1 7 14.3 1 2 50.0 4 4 100.0 0 5 5 5 1 0 1 2 7
+p137
+aVSolomon Hill NOP 12/23/2016 NOP vs. MIA W 24 3 1 6 16.7 1 3 33.3 0 0 - 1 1 2 0 1 0 2 2 3
+p138
+aVTim Frazier NOP 12/23/2016 NOP vs. MIA W 9 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -5
+p139
+aVAnthony Davis NOP 12/23/2016 NOP vs. MIA W 37 28 10 17 58.8 2 3 66.7 6 9 66.7 7 15 22 1 1 4 3 3 4
+p140
+aVBuddy Hield NOP 12/23/2016 NOP vs. MIA W 18 3 1 8 12.5 1 4 25.0 0 0 - 0 3 3 2 1 0 0 0 -10
+p141
+aVLangston Galloway NOP 12/23/2016 NOP vs. MIA W 29 11 4 11 36.4 3 7 42.9 0 0 - 0 1 1 0 1 0 1 4 17
+p142
+aVJrue Holiday NOP 12/23/2016 NOP vs. MIA W 27 22 9 17 52.9 1 2 50.0 3 5 60.0 0 2 2 6 2 0 1 3 -2
+p143
+aVDante Cunningham NOP 12/23/2016 NOP vs. MIA W 34 5 2 8 25.0 1 3 33.3 0 0 - 1 6 7 2 0 2 0 4 0
+p144
+aVTyreke Evans NOP 12/21/2016 NOP vs. OKC L 15 6 2 6 33.3 1 2 50.0 1 1 100.0 0 1 1 3 0 0 2 1 -13
+p145
+aVAnthony Davis NOP 12/21/2016 NOP vs. OKC L 36 34 14 26 53.8 1 2 50.0 5 7 71.4 2 12 14 2 1 2 2 5 6
+p146
+aVTerrence Jones NOP 12/21/2016 NOP vs. OKC L 34 21 9 17 52.9 0 1 0.0 3 5 60.0 0 2 2 1 1 1 1 0 -10
+p147
+aVSolomon Hill NOP 12/21/2016 NOP vs. OKC L 26 5 1 2 50.0 1 1 100.0 2 2 100.0 1 2 3 0 0 0 0 0 2
+p148
+aVAlexis Ajinca NOP 12/21/2016 NOP vs. OKC L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p149
+aVLangston Galloway NOP 12/21/2016 NOP vs. OKC L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -9
+p150
+aVTim Frazier NOP 12/21/2016 NOP vs. OKC L 29 10 4 9 44.4 0 2 0.0 2 2 100.0 0 3 3 5 1 0 0 1 -9
+p151
+aVOmer Asik NOP 12/21/2016 NOP vs. OKC L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -11
+p152
+aVJrue Holiday NOP 12/21/2016 NOP vs. OKC L 35 23 9 15 60.0 2 3 66.7 3 4 75.0 1 3 4 10 1 0 3 3 3
+p153
+aVDante Cunningham NOP 12/21/2016 NOP vs. OKC L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p154
+aVE'Twaun Moore NOP 12/21/2016 NOP vs. OKC L 15 6 2 7 28.6 2 4 50.0 0 0 - 1 0 1 1 0 0 0 1 -6
+p155
+aVBuddy Hield NOP 12/21/2016 NOP vs. OKC L 19 2 0 3 0.0 0 3 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -1
+p156
+aVE'Twaun Moore NOP 12/20/2016 NOP @ PHI W 18 15 6 7 85.7 2 3 66.7 1 1 100.0 0 0 0 2 0 0 0 3 9
+p157
+aVTerrence Jones NOP 12/20/2016 NOP @ PHI W 30 17 6 15 40.0 0 0 - 5 8 62.5 4 6 10 3 0 0 2 2 19
+p158
+aVAlexis Ajinca NOP 12/20/2016 NOP @ PHI W 12 0 0 2 0.0 0 0 - 0 0 - 1 6 7 2 0 0 0 1 -2
+p159
+aVOmer Asik NOP 12/20/2016 NOP @ PHI W 16 2 0 2 0.0 0 0 - 2 2 100.0 4 2 6 0 0 1 0 2 5
+p160
+aVDante Cunningham NOP 12/20/2016 NOP @ PHI W 19 9 3 6 50.0 3 4 75.0 0 0 - 0 5 5 1 0 0 0 0 -3
+p161
+aVSolomon Hill NOP 12/20/2016 NOP @ PHI W 33 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 2 1 0 0 2 15
+p162
+aVJrue Holiday NOP 12/20/2016 NOP @ PHI W 30 12 4 13 30.8 1 4 25.0 3 4 75.0 1 3 4 9 0 0 1 1 6
+p163
+aVBuddy Hield NOP 12/20/2016 NOP @ PHI W 21 10 4 9 44.4 2 2 100.0 0 0 - 0 1 1 1 0 0 2 1 0
+p164
+aVTim Frazier NOP 12/20/2016 NOP @ PHI W 27 10 4 7 57.1 2 2 100.0 0 1 0.0 1 3 4 6 1 0 5 2 15
+p165
+aVAnthony Davis NOP 12/20/2016 NOP @ PHI W 35 31 12 30 40.0 0 1 0.0 7 10 70.0 5 11 16 2 0 2 1 2 11
+p166
+aVDante Cunningham NOP 12/18/2016 NOP @ SAS L 17 6 2 5 40.0 1 3 33.3 1 2 50.0 0 1 1 1 1 0 1 1 3
+p167
+aVTerrence Jones NOP 12/18/2016 NOP @ SAS L 17 9 3 5 60.0 0 0 - 3 6 50.0 1 1 2 0 1 2 0 2 -14
+p168
+aVAlexis Ajinca NOP 12/18/2016 NOP @ SAS L 27 16 8 12 66.7 0 1 0.0 0 0 - 1 7 8 1 0 1 0 2 -6
+p169
+aVJrue Holiday NOP 12/18/2016 NOP @ SAS L 24 5 2 8 25.0 1 2 50.0 0 0 - 0 2 2 6 1 1 2 2 -26
+p170
+aVTim Frazier NOP 12/18/2016 NOP @ SAS L 24 11 4 7 57.1 3 5 60.0 0 0 - 0 3 3 7 3 1 2 2 13
+p171
+aVBuddy Hield NOP 12/18/2016 NOP @ SAS L 25 14 6 11 54.5 2 4 50.0 0 0 - 1 2 3 2 0 0 2 1 -16
+p172
+aVLangston Galloway NOP 12/18/2016 NOP @ SAS L 20 12 4 10 40.0 2 6 33.3 2 2 100.0 2 1 3 2 1 0 0 1 10
+p173
+aVE'Twaun Moore NOP 12/18/2016 NOP @ SAS L 24 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 5 1 0 0 1 -23
+p174
+aVCheick Diallo NOP 12/18/2016 NOP @ SAS L 10 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 9
+p175
+aVTyreke Evans NOP 12/18/2016 NOP @ SAS L 15 4 2 9 22.2 0 4 0.0 0 0 - 0 6 6 3 0 0 0 1 3
+p176
+aVAnthony Davis NOP 12/18/2016 NOP @ SAS L 30 12 5 12 41.7 0 0 - 2 4 50.0 2 2 4 1 0 1 3 4 -23
+p177
+aVReggie Williams NOP 12/18/2016 NOP @ SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p178
+aVCheick Diallo NOP 12/16/2016 NOP @ HOU L 22 10 4 5 80.0 0 0 - 2 2 100.0 2 5 7 1 0 1 1 1 -7
+p179
+aVTim Frazier NOP 12/16/2016 NOP @ HOU L 25 9 3 8 37.5 2 3 66.7 1 1 100.0 2 2 4 5 0 0 0 1 -15
+p180
+aVJrue Holiday NOP 12/16/2016 NOP @ HOU L 35 11 5 15 33.3 1 7 14.3 0 0 - 1 4 5 1 0 1 2 1 -9
+p181
+aVAlexis Ajinca NOP 12/16/2016 NOP @ HOU L 22 8 2 7 28.6 0 0 - 4 5 80.0 2 6 8 1 1 2 3 4 -5
+p182
+aVE'Twaun Moore NOP 12/16/2016 NOP @ HOU L 25 8 3 8 37.5 2 3 66.7 0 0 - 0 3 3 0 1 1 1 0 -10
+p183
+aVAnthony Davis NOP 12/16/2016 NOP @ HOU L 23 19 9 17 52.9 0 1 0.0 1 3 33.3 1 4 5 3 0 0 1 0 -15
+p184
+aVReggie Williams NOP 12/16/2016 NOP @ HOU L 12 1 0 4 0.0 0 2 0.0 1 2 50.0 1 0 1 1 2 0 0 1 -6
+p185
+aVBuddy Hield NOP 12/16/2016 NOP @ HOU L 26 11 4 10 40.0 3 4 75.0 0 0 - 0 5 5 1 0 0 2 4 -8
+p186
+aVLangston Galloway NOP 12/16/2016 NOP @ HOU L 21 7 3 10 30.0 1 5 20.0 0 1 0.0 1 0 1 3 0 0 0 2 -18
+p187
+aVTerrence Jones NOP 12/16/2016 NOP @ HOU L 29 16 7 14 50.0 0 2 0.0 2 6 33.3 3 5 8 1 0 1 1 2 -17
+p188
+aVAlexis Ajinca NOP 12/15/2016 NOP vs. IND W 19 2 1 2 50.0 0 0 - 0 0 - 2 6 8 1 2 1 3 2 2
+p189
+aVOmer Asik NOP 12/15/2016 NOP vs. IND W 7 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -7
+p190
+aVE'Twaun Moore NOP 12/15/2016 NOP vs. IND W 18 1 0 5 0.0 0 3 0.0 1 2 50.0 0 0 0 2 1 0 1 1 -7
+p191
+aVSolomon Hill NOP 12/15/2016 NOP vs. IND W 31 5 1 3 33.3 1 3 33.3 2 2 100.0 1 1 2 1 1 0 1 2 11
+p192
+aVLangston Galloway NOP 12/15/2016 NOP vs. IND W 20 5 2 10 20.0 1 7 14.3 0 0 - 0 1 1 0 2 0 0 0 -4
+p193
+aVTerrence Jones NOP 12/15/2016 NOP vs. IND W 26 10 4 9 44.4 0 0 - 2 4 50.0 2 9 11 1 1 2 1 0 9
+p194
+aVTyreke Evans NOP 12/15/2016 NOP vs. IND W 11 7 2 3 66.7 1 2 50.0 2 2 100.0 0 3 3 2 0 0 2 2 -6
+p195
+aVJrue Holiday NOP 12/15/2016 NOP vs. IND W 36 16 7 12 58.3 0 1 0.0 2 3 66.7 2 5 7 14 0 0 2 4 13
+p196
+aVAnthony Davis NOP 12/15/2016 NOP vs. IND W 39 35 11 23 47.8 2 3 66.7 11 15 73.3 1 14 15 0 0 5 4 2 14
+p197
+aVBuddy Hield NOP 12/15/2016 NOP vs. IND W 33 21 8 17 47.1 5 8 62.5 0 0 - 2 2 4 2 0 0 2 2 10
+p198
+aVJrue Holiday NOP 12/13/2016 NOP vs. GSW L 30 10 3 12 25.0 1 5 20.0 3 6 50.0 2 5 7 6 4 1 3 3 -12
+p199
+aVReggie Williams NOP 12/13/2016 NOP vs. GSW L 9 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 1 1 0 0 1 -2
+p200
+aVBuddy Hield NOP 12/13/2016 NOP vs. GSW L 18 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 1 0 1 0 1 -8
+p201
+aVSolomon Hill NOP 12/13/2016 NOP vs. GSW L 30 12 5 10 50.0 2 4 50.0 0 0 - 1 5 6 1 0 0 1 4 -4
+p202
+aVTim Frazier NOP 12/13/2016 NOP vs. GSW L 30 13 5 9 55.6 3 4 75.0 0 0 - 0 2 2 8 1 0 2 2 4
+p203
+aVAnthony Davis NOP 12/13/2016 NOP vs. GSW L 36 28 10 14 71.4 1 1 100.0 7 8 87.5 0 8 8 3 2 5 6 2 -8
+p204
+aVTerrence Jones NOP 12/13/2016 NOP vs. GSW L 21 8 4 6 66.7 0 1 0.0 0 0 - 1 9 10 0 1 2 1 0 10
+p205
+aVAlexis Ajinca NOP 12/13/2016 NOP vs. GSW L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 2 1 1 -11
+p206
+aVE'Twaun Moore NOP 12/13/2016 NOP vs. GSW L 25 6 2 6 33.3 0 3 0.0 2 2 100.0 1 1 2 5 0 0 1 2 7
+p207
+aVLangston Galloway NOP 12/13/2016 NOP vs. GSW L 28 20 6 14 42.9 5 12 41.7 3 3 100.0 1 5 6 0 2 0 2 2 4
+p208
+aVJrue Holiday NOP 12/11/2016 NOP @ PHX W 40 23 7 18 38.9 2 8 25.0 7 9 77.8 2 1 3 3 2 0 2 5 -11
+p209
+aVTim Frazier NOP 12/11/2016 NOP @ PHX W 38 14 4 10 40.0 0 2 0.0 6 7 85.7 3 8 11 11 5 1 1 4 18
+p210
+aVLangston Galloway NOP 12/11/2016 NOP @ PHX W 19 12 4 7 57.1 4 7 57.1 0 0 - 0 0 0 0 0 0 0 2 1
+p211
+aVCheick Diallo NOP 12/11/2016 NOP @ PHX W 9 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 9
+p212
+aVReggie Williams NOP 12/11/2016 NOP @ PHX W 20 17 5 8 62.5 4 5 80.0 3 3 100.0 1 2 3 1 0 0 0 0 -3
+p213
+aVSolomon Hill NOP 12/11/2016 NOP @ PHX W 18 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 2 1 0 1 4 -18
+p214
+aVAnthony Davis NOP 12/11/2016 NOP @ PHX W 44 14 4 17 23.5 0 3 0.0 6 6 100.0 3 9 12 4 1 2 3 4 -7
+p215
+aVTerrence Jones NOP 12/11/2016 NOP @ PHX W 25 6 2 9 22.2 1 3 33.3 1 2 50.0 2 4 6 3 0 1 1 0 9
+p216
+aVAlexis Ajinca NOP 12/11/2016 NOP @ PHX W 12 7 3 5 60.0 0 0 - 1 2 50.0 1 4 5 0 2 0 1 2 -6
+p217
+aVE'Twaun Moore NOP 12/11/2016 NOP @ PHX W 22 9 3 7 42.9 2 4 50.0 1 2 50.0 0 2 2 0 1 0 2 3 9
+p218
+aVBuddy Hield NOP 12/11/2016 NOP @ PHX W 13 9 3 7 42.9 2 4 50.0 1 2 50.0 0 1 1 0 0 0 0 0 3
+p219
+aVOmer Asik NOP 12/11/2016 NOP @ PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p220
+aVCheick Diallo NOP 12/10/2016 NOP @ LAC L 31 19 8 15 53.3 0 0 - 3 6 50.0 3 7 10 1 2 0 1 3 -17
+p221
+aVTim Frazier NOP 12/10/2016 NOP @ LAC L 35 20 6 13 46.2 1 2 50.0 7 8 87.5 0 1 1 11 0 0 3 5 -24
+p222
+aVAlexis Ajinca NOP 12/10/2016 NOP @ LAC L 19 6 3 7 42.9 0 1 0.0 0 0 - 2 4 6 0 0 0 3 0 -16
+p223
+aVOmer Asik NOP 12/10/2016 NOP @ LAC L 18 0 0 1 0.0 0 0 - 0 1 0.0 2 2 4 1 0 1 1 0 -17
+p224
+aVLangston Galloway NOP 12/10/2016 NOP @ LAC L 30 12 4 13 30.8 1 5 20.0 3 5 60.0 0 0 0 3 1 0 3 1 -12
+p225
+aVSolomon Hill NOP 12/10/2016 NOP @ LAC L 30 13 5 8 62.5 2 2 100.0 1 1 100.0 0 3 3 4 0 0 0 2 -11
+p226
+aVBuddy Hield NOP 12/10/2016 NOP @ LAC L 36 15 6 13 46.2 2 5 40.0 1 1 100.0 0 3 3 5 0 0 2 0 -29
+p227
+aVReggie Williams NOP 12/10/2016 NOP @ LAC L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -1
+p228
+aVTerrence Jones NOP 12/10/2016 NOP @ LAC L 26 18 7 9 77.8 2 3 66.7 2 4 50.0 1 4 5 0 0 0 3 4 -13
+p229
+aVBuddy Hield NOP 12/08/2016 NOP vs. PHI L 34 6 2 12 16.7 2 6 33.3 0 0 - 0 4 4 2 0 0 1 1 -2
+p230
+aVLangston Galloway NOP 12/08/2016 NOP vs. PHI L 28 19 8 16 50.0 3 6 50.0 0 1 0.0 1 3 4 2 1 0 1 2 -3
+p231
+aVTerrence Jones NOP 12/08/2016 NOP vs. PHI L 19 6 2 4 50.0 0 2 0.0 2 4 50.0 0 3 3 0 0 0 1 1 -3
+p232
+aVOmer Asik NOP 12/08/2016 NOP vs. PHI L 20 8 3 4 75.0 0 0 - 2 3 66.7 5 4 9 2 1 0 0 3 -5
+p233
+aVTim Frazier NOP 12/08/2016 NOP vs. PHI L 29 7 3 7 42.9 1 3 33.3 0 0 - 2 4 6 6 0 0 3 3 -18
+p234
+aVAnthony Brown NOP 12/08/2016 NOP vs. PHI L 18 0 0 7 0.0 0 3 0.0 0 0 - 0 2 2 1 1 0 0 0 1
+p235
+aVAlexis Ajinca NOP 12/08/2016 NOP vs. PHI L 14 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 4 -2
+p236
+aVAnthony Davis NOP 12/08/2016 NOP vs. PHI L 41 26 8 21 38.1 0 2 0.0 10 12 83.3 1 10 11 2 0 2 3 1 -10
+p237
+aVSolomon Hill NOP 12/08/2016 NOP vs. PHI L 38 8 3 7 42.9 1 3 33.3 1 2 50.0 1 3 4 3 0 0 3 2 -13
+p238
+aVTim Frazier NOP 12/05/2016 NOP vs. MEM L 39 8 3 10 30.0 0 3 0.0 2 2 100.0 1 3 4 9 3 0 4 2 -6
+p239
+aVBuddy Hield NOP 12/05/2016 NOP vs. MEM L 24 8 3 8 37.5 2 5 40.0 0 0 - 0 3 3 1 1 0 0 2 -13
+p240
+aVLangston Galloway NOP 12/05/2016 NOP vs. MEM L 36 26 9 18 50.0 6 13 46.2 2 2 100.0 0 1 1 2 0 0 1 0 9
+p241
+aVTerrence Jones NOP 12/05/2016 NOP vs. MEM L 32 10 4 11 36.4 0 0 - 2 2 100.0 1 7 8 1 0 1 1 1 1
+p242
+aVAnthony Davis NOP 12/05/2016 NOP vs. MEM L 48 28 10 27 37.0 1 4 25.0 7 7 100.0 0 16 16 1 1 4 1 1 -5
+p243
+aVAnthony Brown NOP 12/05/2016 NOP vs. MEM L 29 9 4 10 40.0 1 4 25.0 0 0 - 1 5 6 2 1 0 1 2 9
+p244
+aVAlexis Ajinca NOP 12/05/2016 NOP vs. MEM L 21 9 4 6 66.7 0 1 0.0 1 1 100.0 1 5 6 0 0 2 0 3 14
+p245
+aVOmer Asik NOP 12/05/2016 NOP vs. MEM L 13 1 0 3 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 -12
+p246
+aVSolomon Hill NOP 12/05/2016 NOP vs. MEM L 47 9 2 6 33.3 0 2 0.0 5 5 100.0 2 5 7 5 1 0 3 3 -7
+p247
+aVJrue Holiday NOP 12/04/2016 NOP @ OKC L 36 10 4 12 33.3 0 5 0.0 2 2 100.0 1 4 5 6 2 0 3 4 -14
+p248
+aVOmer Asik NOP 12/04/2016 NOP @ OKC L 16 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 0 1 0 0 4 -7
+p249
+aVE'Twaun Moore NOP 12/04/2016 NOP @ OKC L 23 10 5 11 45.5 0 2 0.0 0 0 - 0 2 2 3 0 0 1 4 -17
+p250
+aVTerrence Jones NOP 12/04/2016 NOP @ OKC L 25 9 4 6 66.7 0 0 - 1 2 50.0 1 6 7 0 0 1 2 2 2
+p251
+aVAnthony Davis NOP 12/04/2016 NOP @ OKC L 43 37 14 32 43.8 0 1 0.0 9 11 81.8 5 10 15 2 2 4 3 3 -10
+p252
+aVBuddy Hield NOP 12/04/2016 NOP @ OKC L 15 16 6 12 50.0 4 7 57.1 0 0 - 1 3 4 1 0 0 1 0 9
+p253
+aVLangston Galloway NOP 12/04/2016 NOP @ OKC L 13 2 1 7 14.3 0 3 0.0 0 0 - 2 1 3 0 1 0 0 1 6
+p254
+aVSolomon Hill NOP 12/04/2016 NOP @ OKC L 33 5 1 7 14.3 1 6 16.7 2 2 100.0 0 3 3 2 0 1 0 0 -15
+p255
+aVTim Frazier NOP 12/04/2016 NOP @ OKC L 16 0 0 5 0.0 0 0 - 0 0 - 1 3 4 1 2 0 0 1 4
+p256
+aVAnthony Brown NOP 12/04/2016 NOP @ OKC L 19 3 1 5 20.0 1 4 25.0 0 0 - 1 4 5 0 0 0 1 3 -3
+p257
+aVOmer Asik NOP 12/02/2016 NOP vs. LAC L 18 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 0 1 2 -20
+p258
+aVAnthony Davis NOP 12/02/2016 NOP vs. LAC L 32 21 8 17 47.1 0 0 - 5 6 83.3 2 3 5 4 1 1 2 2 -7
+p259
+aVTim Frazier NOP 12/02/2016 NOP vs. LAC L 31 8 2 6 33.3 0 1 0.0 4 8 50.0 0 3 3 8 1 0 4 1 -15
+p260
+aVAnthony Brown NOP 12/02/2016 NOP vs. LAC L 25 9 4 7 57.1 1 4 25.0 0 0 - 1 2 3 1 0 0 0 2 -9
+p261
+aVJrue Holiday NOP 12/02/2016 NOP vs. LAC L 28 9 4 12 33.3 1 3 33.3 0 0 - 1 3 4 4 1 0 1 2 -23
+p262
+aVBuddy Hield NOP 12/02/2016 NOP vs. LAC L 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p263
+aVSolomon Hill NOP 12/02/2016 NOP vs. LAC L 25 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 0 0 1 1 0 -19
+p264
+aVAlexis Ajinca NOP 12/02/2016 NOP vs. LAC L 10 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 1 5
+p265
+aVTerrence Jones NOP 12/02/2016 NOP vs. LAC L 29 14 5 10 50.0 0 1 0.0 4 7 57.1 2 6 8 1 1 1 0 2 -2
+p266
+aVE'Twaun Moore NOP 12/02/2016 NOP vs. LAC L 19 15 7 12 58.3 1 3 33.3 0 0 - 1 3 4 2 0 1 1 1 2
+p267
+aVLangston Galloway NOP 12/02/2016 NOP vs. LAC L 19 4 2 10 20.0 0 5 0.0 0 0 - 1 2 3 1 1 0 1 1 -1
+p268
+aVTerrence Jones NOP 11/29/2016 NOP vs. LAL W 26 6 2 7 28.6 0 3 0.0 2 2 100.0 1 7 8 0 0 0 1 2 8
+p269
+aVCheick Diallo NOP 11/29/2016 NOP vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p270
+aVAnthony Davis NOP 11/29/2016 NOP vs. LAL W 41 41 14 27 51.9 1 4 25.0 12 14 85.7 6 10 16 3 4 2 1 4 19
+p271
+aVAnthony Brown NOP 11/29/2016 NOP vs. LAL W 22 7 3 5 60.0 1 2 50.0 0 0 - 2 4 6 2 2 0 1 4 -4
+p272
+aVE'Twaun Moore NOP 11/29/2016 NOP vs. LAL W 17 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 5 0 0 1 0 2
+p273
+aVTim Frazier NOP 11/29/2016 NOP vs. LAL W 32 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 5 0 0 1 3 8
+p274
+aVBuddy Hield NOP 11/29/2016 NOP vs. LAL W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p275
+aVJrue Holiday NOP 11/29/2016 NOP vs. LAL W 29 22 8 15 53.3 4 7 57.1 2 3 66.7 0 2 2 5 1 0 2 1 19
+p276
+aVLangston Galloway NOP 11/29/2016 NOP vs. LAL W 17 8 3 9 33.3 2 6 33.3 0 0 - 0 1 1 2 1 0 0 2 8
+p277
+aVSolomon Hill NOP 11/29/2016 NOP vs. LAL W 28 3 0 4 0.0 0 3 0.0 3 4 75.0 0 7 7 1 1 0 0 1 18
+p278
+aVOmer Asik NOP 11/29/2016 NOP vs. LAL W 26 10 4 6 66.7 0 0 - 2 2 100.0 4 7 11 1 1 1 1 0 13
+p279
+aVAnthony Davis NOP 11/27/2016 NOP @ DAL L 40 36 12 22 54.5 0 1 0.0 12 14 85.7 3 10 13 3 2 1 2 3 -19
+p280
+aVLangston Galloway NOP 11/27/2016 NOP @ DAL L 24 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p281
+aVAlexis Ajinca NOP 11/27/2016 NOP @ DAL L 4 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p282
+aVAnthony Brown NOP 11/27/2016 NOP @ DAL L 10 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 0 4
+p283
+aVE'Twaun Moore NOP 11/27/2016 NOP @ DAL L 22 0 0 4 0.0 0 1 0.0 0 0 - 2 3 5 3 0 1 2 2 -6
+p284
+aVTerrence Jones NOP 11/27/2016 NOP @ DAL L 13 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 0 2 0 0 2 3
+p285
+aVTim Frazier NOP 11/27/2016 NOP @ DAL L 31 8 3 9 33.3 0 2 0.0 2 2 100.0 1 1 2 3 2 0 4 4 -11
+p286
+aVOmer Asik NOP 11/27/2016 NOP @ DAL L 7 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 0
+p287
+aVSolomon Hill NOP 11/27/2016 NOP @ DAL L 42 9 4 6 66.7 1 3 33.3 0 0 - 0 4 4 0 2 1 1 3 -10
+p288
+aVBuddy Hield NOP 11/27/2016 NOP @ DAL L 16 5 1 5 20.0 1 3 33.3 2 2 100.0 0 4 4 1 0 0 0 2 -1
+p289
+aVJrue Holiday NOP 11/27/2016 NOP @ DAL L 31 17 7 13 53.8 3 4 75.0 0 0 - 1 3 4 6 0 0 4 3 -7
+p290
+aVOmer Asik NOP 11/25/2016 NOP @ POR L 18 6 2 2 100.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 2 -19
+p291
+aVE'Twaun Moore NOP 11/25/2016 NOP @ POR L 23 15 6 11 54.5 3 3 100.0 0 2 0.0 0 1 1 4 0 0 1 4 -22
+p292
+aVAnthony Brown NOP 11/25/2016 NOP @ POR L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 5
+p293
+aVAnthony Davis NOP 11/25/2016 NOP @ POR L 43 31 10 17 58.8 2 4 50.0 9 13 69.2 0 13 13 2 0 5 1 1 -16
+p294
+aVBuddy Hield NOP 11/25/2016 NOP @ POR L 12 6 2 4 50.0 1 2 50.0 1 1 100.0 0 1 1 0 0 1 0 1 3
+p295
+aVJrue Holiday NOP 11/25/2016 NOP @ POR L 29 16 6 13 46.2 2 4 50.0 2 4 50.0 0 4 4 5 0 1 5 4 0
+p296
+aVTerrence Jones NOP 11/25/2016 NOP @ POR L 30 11 4 10 40.0 2 4 50.0 1 2 50.0 0 3 3 2 0 0 1 0 4
+p297
+aVSolomon Hill NOP 11/25/2016 NOP @ POR L 27 5 2 4 50.0 1 1 100.0 0 0 - 2 4 6 0 1 1 1 0 -9
+p298
+aVLangston Galloway NOP 11/25/2016 NOP @ POR L 18 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 2 0 1 0 2
+p299
+aVTim Frazier NOP 11/25/2016 NOP @ POR L 32 11 3 12 25.0 1 3 33.3 4 5 80.0 0 1 1 7 0 0 4 2 -23
+p300
+aVTim Frazier NOP 11/23/2016 NOP vs. MIN W 33 11 4 5 80.0 2 2 100.0 1 1 100.0 0 4 4 8 0 0 5 3 30
+p301
+aVBuddy Hield NOP 11/23/2016 NOP vs. MIN W 13 0 0 7 0.0 0 4 0.0 0 0 - 0 0 0 1 0 0 1 1 -7
+p302
+aVJrue Holiday NOP 11/23/2016 NOP vs. MIN W 22 7 2 8 25.0 0 2 0.0 3 4 75.0 0 1 1 8 1 1 2 4 1
+p303
+aVE'Twaun Moore NOP 11/23/2016 NOP vs. MIN W 25 12 6 9 66.7 0 1 0.0 0 0 - 0 3 3 2 1 1 1 0 28
+p304
+aVDante Cunningham NOP 11/23/2016 NOP vs. MIN W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 1 2 3
+p305
+aVAnthony Davis NOP 11/23/2016 NOP vs. MIN W 39 45 17 27 63.0 2 4 50.0 9 10 90.0 1 9 10 3 2 1 4 1 33
+p306
+aVAnthony Brown NOP 11/23/2016 NOP vs. MIN W 3 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p307
+aVOmer Asik NOP 11/23/2016 NOP vs. MIN W 28 6 2 3 66.7 0 0 - 2 4 50.0 1 8 9 0 0 0 0 1 7
+p308
+aVSolomon Hill NOP 11/23/2016 NOP vs. MIN W 18 2 1 4 25.0 0 3 0.0 0 0 - 0 5 5 2 2 1 1 4 14
+p309
+aVTerrence Jones NOP 11/23/2016 NOP vs. MIN W 24 17 7 10 70.0 0 1 0.0 3 4 75.0 1 6 7 1 1 1 1 1 8
+p310
+aVLangston Galloway NOP 11/23/2016 NOP vs. MIN W 25 9 3 6 50.0 3 5 60.0 0 0 - 1 3 4 2 2 0 1 3 -10
+p311
+aVTim Frazier NOP 11/22/2016 NOP @ ATL W 35 21 7 12 58.3 3 4 75.0 4 4 100.0 0 5 5 14 3 0 1 1 19
+p312
+aVJrue Holiday NOP 11/22/2016 NOP @ ATL W 27 15 7 15 46.7 0 3 0.0 1 1 100.0 0 4 4 4 2 1 3 1 13
+p313
+aVOmer Asik NOP 11/22/2016 NOP @ ATL W 22 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 1 0 0 0 2 26
+p314
+aVLangston Galloway NOP 11/22/2016 NOP @ ATL W 19 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 4 2 0 1 3 -11
+p315
+aVAnthony Davis NOP 11/22/2016 NOP @ ATL W 19 13 6 12 50.0 0 1 0.0 1 1 100.0 2 1 3 1 1 3 2 1 13
+p316
+aVDante Cunningham NOP 11/22/2016 NOP @ ATL W 25 9 4 7 57.1 1 1 100.0 0 0 - 1 4 5 1 0 3 0 2 13
+p317
+aVBuddy Hield NOP 11/22/2016 NOP @ ATL W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -15
+p318
+aVE'Twaun Moore NOP 11/22/2016 NOP @ ATL W 23 15 6 11 54.5 3 5 60.0 0 0 - 0 3 3 2 1 0 0 0 21
+p319
+aVTerrence Jones NOP 11/22/2016 NOP @ ATL W 28 17 7 13 53.8 0 2 0.0 3 4 75.0 0 6 6 1 1 1 0 2 17
+p320
+aVSolomon Hill NOP 11/22/2016 NOP @ ATL W 26 11 4 6 66.7 3 4 75.0 0 0 - 0 3 3 0 0 0 0 2 6
+p321
+aVAnthony Brown NOP 11/22/2016 NOP @ ATL W 8 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 1 1 2 1 -12
+p322
+aVJrue Holiday NOP 11/19/2016 NOP vs. CHA W 30 22 9 17 52.9 3 7 42.9 1 2 50.0 0 2 2 9 1 0 3 4 12
+p323
+aVTerrence Jones NOP 11/19/2016 NOP vs. CHA W 20 7 2 8 25.0 0 2 0.0 3 4 75.0 0 4 4 1 1 1 1 3 1
+p324
+aVBuddy Hield NOP 11/19/2016 NOP vs. CHA W 6 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p325
+aVOmer Asik NOP 11/19/2016 NOP vs. CHA W 13 0 0 0 - 0 0 - 0 0 - 2 3 5 1 1 0 1 1 -14
+p326
+aVTim Frazier NOP 11/19/2016 NOP vs. CHA W 36 17 6 12 50.0 1 5 20.0 4 4 100.0 0 5 5 8 1 0 0 3 14
+p327
+aVAnthony Davis NOP 11/19/2016 NOP vs. CHA W 42 38 15 27 55.6 2 5 40.0 6 8 75.0 2 14 16 2 1 3 2 3 7
+p328
+aVLangston Galloway NOP 11/19/2016 NOP vs. CHA W 31 23 7 14 50.0 6 11 54.5 3 3 100.0 1 6 7 0 2 0 3 1 3
+p329
+aVDante Cunningham NOP 11/19/2016 NOP vs. CHA W 43 6 2 8 25.0 2 3 66.7 0 0 - 4 4 8 1 1 0 0 5 2
+p330
+aVE'Twaun Moore NOP 11/19/2016 NOP vs. CHA W 18 2 1 7 14.3 0 1 0.0 0 0 - 1 3 4 4 1 0 1 0 0
+p331
+aVSolomon Hill NOP 11/19/2016 NOP vs. CHA W 25 4 0 1 0.0 0 0 - 4 4 100.0 0 2 2 1 0 2 0 3 8
+p332
+aVLangston Galloway NOP 11/18/2016 NOP vs. POR W 20 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 3 5
+p333
+aVDante Cunningham NOP 11/18/2016 NOP vs. POR W 25 4 2 4 50.0 0 2 0.0 0 0 - 0 3 3 0 1 0 0 1 4
+p334
+aVTerrence Jones NOP 11/18/2016 NOP vs. POR W 31 15 6 10 60.0 2 3 66.7 1 2 50.0 0 7 7 2 2 4 2 0 7
+p335
+aVJrue Holiday NOP 11/18/2016 NOP vs. POR W 23 21 8 14 57.1 1 2 50.0 4 7 57.1 0 2 2 7 1 1 1 2 5
+p336
+aVTim Frazier NOP 11/18/2016 NOP vs. POR W 32 12 5 11 45.5 1 3 33.3 1 1 100.0 0 3 3 8 0 1 2 3 4
+p337
+aVOmer Asik NOP 11/18/2016 NOP vs. POR W 17 2 1 2 50.0 0 0 - 0 0 - 1 4 5 2 0 2 0 4 3
+p338
+aVBuddy Hield NOP 11/18/2016 NOP vs. POR W 7 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 3
+p339
+aVAnthony Davis NOP 11/18/2016 NOP vs. POR W 37 38 14 22 63.6 2 5 40.0 8 10 80.0 0 9 9 6 2 4 2 2 16
+p340
+aVE'Twaun Moore NOP 11/18/2016 NOP vs. POR W 29 11 5 7 71.4 1 3 33.3 0 0 - 0 3 3 3 1 0 0 3 13
+p341
+aVSolomon Hill NOP 11/18/2016 NOP vs. POR W 18 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 2 1 0 0 3 0
+p342
+aVLangston Galloway NOP 11/16/2016 NOP @ ORL L 21 15 6 12 50.0 3 8 37.5 0 1 0.0 1 1 2 2 1 0 0 3 -5
+p343
+aVBuddy Hield NOP 11/16/2016 NOP @ ORL L 20 8 3 7 42.9 1 3 33.3 1 1 100.0 0 5 5 5 0 0 2 2 -11
+p344
+aVSolomon Hill NOP 11/16/2016 NOP @ ORL L 20 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 3 0 1 2 1 -10
+p345
+aVOmer Asik NOP 11/16/2016 NOP @ ORL L 20 0 0 1 0.0 0 0 - 0 2 0.0 2 8 10 0 0 1 1 0 3
+p346
+aVTerrence Jones NOP 11/16/2016 NOP @ ORL L 38 26 9 20 45.0 2 4 50.0 6 7 85.7 0 9 9 2 0 1 1 2 -3
+p347
+aVArchie Goodwin NOP 11/16/2016 NOP @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p348
+aVDante Cunningham NOP 11/16/2016 NOP @ ORL L 33 7 3 9 33.3 1 2 50.0 0 0 - 3 6 9 0 2 1 2 0 6
+p349
+aVTim Frazier NOP 11/16/2016 NOP @ ORL L 28 4 1 7 14.3 0 1 0.0 2 2 100.0 0 3 3 3 0 1 4 1 -3
+p350
+aVAlexis Ajinca NOP 11/16/2016 NOP @ ORL L 25 6 2 8 25.0 0 0 - 2 2 100.0 1 5 6 0 0 3 1 4 -12
+p351
+aVE'Twaun Moore NOP 11/16/2016 NOP @ ORL L 32 14 6 16 37.5 0 3 0.0 2 2 100.0 2 1 3 4 2 0 4 3 2
+p352
+aVAnthony Davis NOP 11/14/2016 NOP vs. BOS W 38 25 7 22 31.8 0 1 0.0 11 13 84.6 1 15 16 0 4 2 7 2 0
+p353
+aVTim Frazier NOP 11/14/2016 NOP vs. BOS W 30 10 2 5 40.0 0 2 0.0 6 8 75.0 1 2 3 6 1 0 3 0 -4
+p354
+aVLangston Galloway NOP 11/14/2016 NOP vs. BOS W 32 21 8 14 57.1 3 5 60.0 2 2 100.0 0 1 1 3 2 0 2 3 2
+p355
+aVArchie Goodwin NOP 11/14/2016 NOP vs. BOS W 15 8 1 4 25.0 0 1 0.0 6 6 100.0 0 0 0 1 0 0 0 1 6
+p356
+aVAlexis Ajinca NOP 11/14/2016 NOP vs. BOS W 6 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 3
+p357
+aVDante Cunningham NOP 11/14/2016 NOP vs. BOS W 23 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 1 -9
+p358
+aVBuddy Hield NOP 11/14/2016 NOP vs. BOS W 21 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 3 0 0 0 2 -3
+p359
+aVSolomon Hill NOP 11/14/2016 NOP vs. BOS W 32 9 2 5 40.0 1 4 25.0 4 4 100.0 1 6 7 1 1 0 2 5 7
+p360
+aVOmer Asik NOP 11/14/2016 NOP vs. BOS W 12 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -2
+p361
+aVTerrence Jones NOP 11/14/2016 NOP vs. BOS W 30 15 7 12 58.3 0 1 0.0 1 3 33.3 3 7 10 1 1 2 0 2 5
+p362
+aVOmer Asik NOP 11/12/2016 NOP vs. LAL L 13 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 2 -2
+p363
+aVE'Twaun Moore NOP 11/12/2016 NOP vs. LAL L 24 7 3 10 30.0 1 2 50.0 0 0 - 2 1 3 0 1 0 0 0 -9
+p364
+aVTim Frazier NOP 11/12/2016 NOP vs. LAL L 29 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 10 0 0 4 2 -10
+p365
+aVLangston Galloway NOP 11/12/2016 NOP vs. LAL L 22 12 5 12 41.7 2 6 33.3 0 0 - 2 4 6 2 1 0 1 0 -23
+p366
+aVDante Cunningham NOP 11/12/2016 NOP vs. LAL L 18 3 1 3 33.3 1 2 50.0 0 0 - 1 3 4 1 1 0 0 0 -12
+p367
+aVArchie Goodwin NOP 11/12/2016 NOP vs. LAL L 10 7 1 1 100.0 1 1 100.0 4 4 100.0 0 0 0 0 0 0 0 0 -6
+p368
+aVTerrence Jones NOP 11/12/2016 NOP vs. LAL L 21 6 2 7 28.6 0 2 0.0 2 3 66.7 1 3 4 1 0 0 1 1 -15
+p369
+aVAlexis Ajinca NOP 11/12/2016 NOP vs. LAL L 24 6 3 4 75.0 0 0 - 0 0 - 3 4 7 0 0 2 0 1 -21
+p370
+aVAnthony Davis NOP 11/12/2016 NOP vs. LAL L 35 34 13 26 50.0 0 2 0.0 8 11 72.7 1 7 8 2 0 2 1 0 -10
+p371
+aVSolomon Hill NOP 11/12/2016 NOP vs. LAL L 18 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 1 1 1 1 -7
+p372
+aVBuddy Hield NOP 11/12/2016 NOP vs. LAL L 26 18 8 13 61.5 1 4 25.0 1 1 100.0 0 3 3 1 0 0 1 3 -20
+p373
+aVTim Frazier NOP 11/10/2016 NOP @ MIL W 34 15 3 8 37.5 2 4 50.0 7 7 100.0 0 5 5 10 1 0 2 4 7
+p374
+aVE'Twaun Moore NOP 11/10/2016 NOP @ MIL W 32 20 8 18 44.4 2 5 40.0 2 2 100.0 0 2 2 3 1 0 1 3 1
+p375
+aVSolomon Hill NOP 11/10/2016 NOP @ MIL W 31 8 4 6 66.7 0 2 0.0 0 0 - 1 5 6 5 2 1 4 2 3
+p376
+aVBuddy Hield NOP 11/10/2016 NOP @ MIL W 16 9 3 7 42.9 3 6 50.0 0 0 - 1 3 4 0 1 0 1 0 7
+p377
+aVOmer Asik NOP 11/10/2016 NOP @ MIL W 19 10 4 5 80.0 0 0 - 2 4 50.0 3 3 6 0 0 0 0 3 1
+p378
+aVLangston Galloway NOP 11/10/2016 NOP @ MIL W 14 5 2 7 28.6 1 2 50.0 0 0 - 0 5 5 1 0 0 0 0 -2
+p379
+aVDante Cunningham NOP 11/10/2016 NOP @ MIL W 19 5 2 8 25.0 1 5 20.0 0 0 - 0 4 4 1 2 1 0 2 1
+p380
+aVTerrence Jones NOP 11/10/2016 NOP @ MIL W 34 10 2 6 33.3 0 1 0.0 6 6 100.0 3 4 7 0 0 1 0 2 5
+p381
+aVAnthony Davis NOP 11/10/2016 NOP @ MIL W 41 30 11 24 45.8 0 0 - 8 8 100.0 3 5 8 2 2 4 2 3 7
+p382
+aVTerrence Jones NOP 11/08/2016 NOP @ SAC L 26 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 1 3 2 1 3 -1
+p383
+aVTim Frazier NOP 11/08/2016 NOP @ SAC L 32 5 2 8 25.0 1 1 100.0 0 0 - 1 4 5 9 0 1 3 4 -6
+p384
+aVAnthony Davis NOP 11/08/2016 NOP @ SAC L 37 34 14 22 63.6 0 2 0.0 6 7 85.7 1 7 8 1 2 4 3 2 -4
+p385
+aVLangston Galloway NOP 11/08/2016 NOP @ SAC L 16 4 2 9 22.2 0 5 0.0 0 0 - 0 2 2 4 0 0 0 0 -2
+p386
+aVSolomon Hill NOP 11/08/2016 NOP @ SAC L 26 5 1 4 25.0 1 2 50.0 2 2 100.0 0 5 5 1 0 0 0 4 -8
+p387
+aVBuddy Hield NOP 11/08/2016 NOP @ SAC L 22 14 6 16 37.5 1 7 14.3 1 2 50.0 0 2 2 1 0 0 0 2 -4
+p388
+aVE'Twaun Moore NOP 11/08/2016 NOP @ SAC L 33 13 6 10 60.0 1 2 50.0 0 0 - 0 0 0 5 0 0 1 3 0
+p389
+aVOmer Asik NOP 11/08/2016 NOP @ SAC L 26 5 1 4 25.0 0 0 - 3 4 75.0 4 5 9 0 0 1 1 3 -11
+p390
+aVDante Cunningham NOP 11/08/2016 NOP @ SAC L 23 7 3 5 60.0 1 2 50.0 0 1 0.0 0 4 4 1 0 1 1 2 -4
+p391
+aVAnthony Davis NOP 11/07/2016 NOP @ GSW L 35 33 11 18 61.1 1 2 50.0 10 13 76.9 1 12 13 1 0 0 3 1 -6
+p392
+aVE'Twaun Moore NOP 11/07/2016 NOP @ GSW L 31 15 6 11 54.5 1 3 33.3 2 2 100.0 1 2 3 5 0 0 3 2 -8
+p393
+aVBuddy Hield NOP 11/07/2016 NOP @ GSW L 28 9 4 10 40.0 1 5 20.0 0 0 - 2 4 6 1 0 0 1 3 -10
+p394
+aVLangston Galloway NOP 11/07/2016 NOP @ GSW L 21 9 3 8 37.5 1 2 50.0 2 3 66.7 1 1 2 4 2 0 1 0 -9
+p395
+aVDante Cunningham NOP 11/07/2016 NOP @ GSW L 26 8 3 5 60.0 2 3 66.7 0 0 - 1 0 1 1 0 1 1 3 -24
+p396
+aVTerrence Jones NOP 11/07/2016 NOP @ GSW L 15 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 0 1 0 3 2 -12
+p397
+aVSolomon Hill NOP 11/07/2016 NOP @ GSW L 32 2 0 4 0.0 0 1 0.0 2 2 100.0 0 5 5 4 3 0 2 1 4
+p398
+aVAlexis Ajinca NOP 11/07/2016 NOP @ GSW L 6 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 0
+p399
+aVOmer Asik NOP 11/07/2016 NOP @ GSW L 14 8 3 6 50.0 0 0 - 2 3 66.7 3 3 6 0 0 0 0 0 17
+p400
+aVTim Frazier NOP 11/07/2016 NOP @ GSW L 32 13 5 11 45.5 1 3 33.3 2 2 100.0 2 2 4 10 2 0 4 4 -2
+p401
+aVTerrence Jones NOP 11/04/2016 NOP vs. PHX L 28 19 9 14 64.3 1 3 33.3 0 4 0.0 2 5 7 6 2 4 1 0 -3
+p402
+aVOmer Asik NOP 11/04/2016 NOP vs. PHX L 25 0 0 2 0.0 0 0 - 0 0 - 2 10 12 1 0 2 1 4 6
+p403
+aVLance Stephenson NOP 11/04/2016 NOP vs. PHX L 28 10 5 15 33.3 0 4 0.0 0 2 0.0 0 1 1 7 0 0 1 3 17
+p404
+aVBuddy Hield NOP 11/04/2016 NOP vs. PHX L 23 10 4 14 28.6 2 10 20.0 0 0 - 0 3 3 1 0 0 0 1 11
+p405
+aVAnthony Davis NOP 11/04/2016 NOP vs. PHX L 43 22 7 11 63.6 0 1 0.0 8 12 66.7 1 9 10 2 1 4 1 1 -6
+p406
+aVLangston Galloway NOP 11/04/2016 NOP vs. PHX L 28 14 5 10 50.0 4 6 66.7 0 0 - 0 4 4 0 0 0 1 2 9
+p407
+aVTim Frazier NOP 11/04/2016 NOP vs. PHX L 25 13 6 8 75.0 1 1 100.0 0 0 - 0 0 0 3 1 0 2 2 -10
+p408
+aVSolomon Hill NOP 11/04/2016 NOP vs. PHX L 30 7 2 5 40.0 1 2 50.0 2 4 50.0 1 4 5 3 1 2 0 4 -21
+p409
+aVE'Twaun Moore NOP 11/04/2016 NOP vs. PHX L 36 16 5 15 33.3 1 3 33.3 5 6 83.3 0 1 1 5 2 1 1 4 -8
+p410
+aVTerrence Jones NOP 11/02/2016 NOP @ MEM L 28 7 3 8 37.5 1 3 33.3 0 0 - 2 8 10 2 0 2 4 1 4
+p411
+aVAnthony Davis NOP 11/02/2016 NOP @ MEM L 36 10 3 13 23.1 1 4 25.0 3 5 60.0 1 6 7 1 2 3 5 5 -23
+p412
+aVSolomon Hill NOP 11/02/2016 NOP @ MEM L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 -7
+p413
+aVBuddy Hield NOP 11/02/2016 NOP @ MEM L 31 18 6 15 40.0 4 9 44.4 2 2 100.0 0 4 4 1 2 1 2 4 6
+p414
+aVOmer Asik NOP 11/02/2016 NOP @ MEM L 35 0 0 2 0.0 0 0 - 0 0 - 2 9 11 2 0 0 2 2 7
+p415
+aVDante Cunningham NOP 11/02/2016 NOP @ MEM L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p416
+aVE'Twaun Moore NOP 11/02/2016 NOP @ MEM L 27 5 2 6 33.3 0 3 0.0 1 2 50.0 0 3 3 1 0 1 2 2 -19
+p417
+aVLance Stephenson NOP 11/02/2016 NOP @ MEM L 45 21 9 15 60.0 1 3 33.3 2 2 100.0 0 3 3 6 1 1 4 4 3
+p418
+aVLangston Galloway NOP 11/02/2016 NOP @ MEM L 32 18 6 13 46.2 4 7 57.1 2 3 66.7 0 2 2 2 2 1 0 4 17
+p419
+aVTim Frazier NOP 11/02/2016 NOP @ MEM L 15 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 1 2 -14
+p420
+aVAlexis Ajinca NOP 11/01/2016 NOP vs. MIL L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -5
+p421
+aVLangston Galloway NOP 11/01/2016 NOP vs. MIL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -6
+p422
+aVDante Cunningham NOP 11/01/2016 NOP vs. MIL L 38 4 1 9 11.1 1 4 25.0 1 2 50.0 1 4 5 1 1 0 0 2 -14
+p423
+aVOmer Asik NOP 11/01/2016 NOP vs. MIL L 13 5 1 3 33.3 0 0 - 3 6 50.0 2 5 7 1 1 1 1 1 6
+p424
+aVLance Stephenson NOP 11/01/2016 NOP vs. MIL L 15 2 1 3 33.3 0 0 - 0 0 - 0 3 3 3 0 0 2 1 -12
+p425
+aVE'Twaun Moore NOP 11/01/2016 NOP vs. MIL L 36 17 7 13 53.8 3 6 50.0 0 0 - 0 0 0 3 0 0 1 2 9
+p426
+aVBuddy Hield NOP 11/01/2016 NOP vs. MIL L 14 10 4 10 40.0 1 6 16.7 1 1 100.0 0 0 0 0 1 0 4 0 -11
+p427
+aVSolomon Hill NOP 11/01/2016 NOP vs. MIL L 36 18 5 9 55.6 3 4 75.0 5 8 62.5 1 5 6 4 2 0 0 3 8
+p428
+aVTim Frazier NOP 11/01/2016 NOP vs. MIL L 37 20 7 12 58.3 1 3 33.3 5 6 83.3 1 2 3 9 3 1 3 4 2
+p429
+aVAnthony Davis NOP 11/01/2016 NOP vs. MIL L 37 35 9 21 42.9 0 3 0.0 17 18 94.4 3 12 15 2 3 3 1 2 3
+p430
+aVDante Cunningham NOP 10/29/2016 NOP @ SAS L 23 9 3 5 60.0 2 3 66.7 1 2 50.0 2 3 5 0 0 0 1 3 -4
+p431
+aVAnthony Davis NOP 10/29/2016 NOP @ SAS L 32 18 6 15 40.0 0 0 - 6 8 75.0 0 5 5 0 0 3 1 1 -17
+p432
+aVOmer Asik NOP 10/29/2016 NOP @ SAS L 15 0 0 0 - 0 0 - 0 0 - 1 6 7 1 0 0 0 1 -10
+p433
+aVTerrence Jones NOP 10/29/2016 NOP @ SAS L 14 4 2 7 28.6 0 3 0.0 0 0 - 0 4 4 0 1 0 1 0 -10
+p434
+aVTim Frazier NOP 10/29/2016 NOP @ SAS L 25 5 2 8 25.0 1 2 50.0 0 0 - 0 4 4 7 0 0 2 3 -13
+p435
+aVCheick Diallo NOP 10/29/2016 NOP @ SAS L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 4
+p436
+aVE'Twaun Moore NOP 10/29/2016 NOP @ SAS L 25 18 8 13 61.5 0 2 0.0 2 3 66.7 0 0 0 0 1 1 0 0 -14
+p437
+aVSolomon Hill NOP 10/29/2016 NOP @ SAS L 27 5 2 7 28.6 1 3 33.3 0 0 - 1 3 4 0 2 0 1 4 -8
+p438
+aVLance Stephenson NOP 10/29/2016 NOP @ SAS L 18 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 4 0 0 0 3 -6
+p439
+aVAlexis Ajinca NOP 10/29/2016 NOP @ SAS L 15 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 0 0 2 2 -9
+p440
+aVBuddy Hield NOP 10/29/2016 NOP @ SAS L 18 8 3 10 30.0 0 3 0.0 2 2 100.0 1 4 5 0 2 0 1 1 1
+p441
+aVLangston Galloway NOP 10/29/2016 NOP @ SAS L 23 6 3 10 30.0 0 4 0.0 0 0 - 0 4 4 2 0 0 0 1 -9
+p442
+aVTim Frazier NOP 10/28/2016 NOP vs. GSW L 34 21 10 18 55.6 1 3 33.3 0 1 0.0 3 3 6 10 0 0 3 5 1
+p443
+aVBuddy Hield NOP 10/28/2016 NOP vs. GSW L 19 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 1 0 1 2 1 -12
+p444
+aVE'Twaun Moore NOP 10/28/2016 NOP vs. GSW L 26 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 3 3 0 2 3 1
+p445
+aVTerrence Jones NOP 10/28/2016 NOP vs. GSW L 13 7 3 5 60.0 0 1 0.0 1 2 50.0 1 1 2 2 0 0 0 1 -8
+p446
+aVLangston Galloway NOP 10/28/2016 NOP vs. GSW L 14 0 0 7 0.0 0 4 0.0 0 0 - 0 0 0 0 1 0 0 1 -9
+p447
+aVDante Cunningham NOP 10/28/2016 NOP vs. GSW L 32 15 6 11 54.5 3 6 50.0 0 0 - 0 8 8 0 0 2 1 3 9
+p448
+aVSolomon Hill NOP 10/28/2016 NOP vs. GSW L 24 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 4 2 0 1 3 -4
+p449
+aVOmer Asik NOP 10/28/2016 NOP vs. GSW L 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -7
+p450
+aVAnthony Davis NOP 10/28/2016 NOP vs. GSW L 40 45 17 31 54.8 1 2 50.0 10 14 71.4 6 11 17 3 2 2 1 2 -3
+p451
+aVLance Stephenson NOP 10/28/2016 NOP vs. GSW L 31 15 6 11 54.5 0 1 0.0 3 4 75.0 2 6 8 6 0 0 2 5 -8
+p452
+aVBuddy Hield NOP 10/26/2016 NOP vs. DEN L 17 4 2 8 25.0 0 3 0.0 0 0 - 1 0 1 3 0 0 0 1 -12
+p453
+aVDante Cunningham NOP 10/26/2016 NOP vs. DEN L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 1
+p454
+aVE'Twaun Moore NOP 10/26/2016 NOP vs. DEN L 28 10 3 8 37.5 2 4 50.0 2 2 100.0 0 1 1 4 1 1 2 4 10
+p455
+aVTim Frazier NOP 10/26/2016 NOP vs. DEN L 37 15 6 10 60.0 1 3 33.3 2 4 50.0 0 5 5 11 4 0 1 6 0
+p456
+aVOmer Asik NOP 10/26/2016 NOP vs. DEN L 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 2 3
+p457
+aVAnthony Davis NOP 10/26/2016 NOP vs. DEN L 41 50 17 34 50.0 0 2 0.0 16 17 94.1 1 14 15 5 5 4 3 4 -3
+p458
+aVAlexis Ajinca NOP 10/26/2016 NOP vs. DEN L 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -4
+p459
+aVSolomon Hill NOP 10/26/2016 NOP vs. DEN L 27 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 1 1 0 2 4 1
+p460
+aVTerrence Jones NOP 10/26/2016 NOP vs. DEN L 18 6 2 6 33.3 0 1 0.0 2 2 100.0 1 2 3 1 3 0 0 0 -14
+p461
+aVLangston Galloway NOP 10/26/2016 NOP vs. DEN L 11 5 2 5 40.0 0 1 0.0 1 1 100.0 0 2 2 1 1 0 0 1 -3
+p462
+aVLance Stephenson NOP 10/26/2016 NOP vs. DEN L 26 8 4 7 57.1 0 0 - 0 0 - 1 2 3 3 1 0 2 2 -4
+p463
+a.

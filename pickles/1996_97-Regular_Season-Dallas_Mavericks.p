@@ -1,0 +1,1600 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSasha Danilovic DAL 04/19/1997 DAL vs. DEN L 35 17 8 17 47.1 0 1 0.0 1 2 50.0 0 3 3 0 1 0 0 3 -2
+p2
+aVRobert Pack DAL 04/19/1997 DAL vs. DEN L 30 10 4 10 40.0 0 2 0.0 2 2 100.0 0 3 3 9 1 0 4 3 -5
+p3
+aVErick Strickland DAL 04/19/1997 DAL vs. DEN L 13 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 0 1 0 1 1 -1
+p4
+aVMartin Muursepp DAL 04/19/1997 DAL vs. DEN L 11 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 2 -7
+p5
+aVMichael Finley DAL 04/19/1997 DAL vs. DEN L 41 23 8 22 36.4 2 5 40.0 5 8 62.5 0 5 5 2 0 1 1 3 -4
+p6
+aVStacey King DAL 04/19/1997 DAL vs. DEN L 11 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 0 0 1 1 0
+p7
+aVA.C. Green DAL 04/19/1997 DAL vs. DEN L 39 3 1 5 20.0 0 1 0.0 1 1 100.0 0 11 11 1 1 1 1 1 0
+p8
+aVDerek Harper DAL 04/19/1997 DAL vs. DEN L 18 4 2 8 25.0 0 0 - 0 0 - 0 3 3 4 2 0 0 2 0
+p9
+aVShawn Bradley DAL 04/19/1997 DAL vs. DEN L 42 25 12 18 66.7 0 0 - 1 4 25.0 11 5 16 2 1 3 2 4 -6
+p10
+aVMartin Muursepp DAL 04/18/1997 DAL @ HOU L 8 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 1 0 1 0 7
+p11
+aVDerek Harper DAL 04/18/1997 DAL @ HOU L 19 6 2 6 33.3 1 2 50.0 1 3 33.3 1 1 2 3 2 0 2 0 -2
+p12
+aVStacey King DAL 04/18/1997 DAL @ HOU L 9 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 1 0 0 1 -2
+p13
+aVSasha Danilovic DAL 04/18/1997 DAL @ HOU L 41 23 9 20 45.0 2 6 33.3 3 3 100.0 2 2 4 3 2 0 5 4 -16
+p14
+aVShawn Bradley DAL 04/18/1997 DAL @ HOU L 48 18 8 17 47.1 0 1 0.0 2 2 100.0 3 9 12 1 0 1 1 5 -1
+p15
+aVRobert Pack DAL 04/18/1997 DAL @ HOU L 34 9 3 13 23.1 1 3 33.3 2 2 100.0 1 2 3 12 1 0 0 2 -8
+p16
+aVA.C. Green DAL 04/18/1997 DAL @ HOU L 47 9 4 7 57.1 0 0 - 1 2 50.0 6 7 13 0 4 1 2 5 -15
+p17
+aVMichael Finley DAL 04/18/1997 DAL @ HOU L 42 19 9 20 45.0 1 6 16.7 0 0 - 1 2 3 3 1 0 3 1 -22
+p18
+aVErick Strickland DAL 04/18/1997 DAL @ HOU L 16 14 6 11 54.5 2 6 33.3 0 1 0.0 2 2 4 2 3 0 0 1 9
+p19
+aVA.C. Green DAL 04/16/1997 DAL @ MIN W 41 14 5 8 62.5 0 0 - 4 4 100.0 3 11 14 3 1 0 1 3 10
+p20
+aVMartin Muursepp DAL 04/16/1997 DAL @ MIN W 7 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 0 1 0 0 4
+p21
+aVRobert Pack DAL 04/16/1997 DAL @ MIN W 30 6 1 9 11.1 0 0 - 4 4 100.0 1 2 3 4 1 0 3 3 7
+p22
+aVStacey King DAL 04/16/1997 DAL @ MIN W 15 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 4
+p23
+aVShawn Bradley DAL 04/16/1997 DAL @ MIN W 32 18 8 15 53.3 0 0 - 2 3 66.7 2 3 5 2 0 4 0 5 11
+p24
+aVSasha Danilovic DAL 04/16/1997 DAL @ MIN W 29 17 5 13 38.5 1 4 25.0 6 6 100.0 0 4 4 2 0 0 1 4 11
+p25
+aVDerek Harper DAL 04/16/1997 DAL @ MIN W 24 9 4 8 50.0 1 3 33.3 0 0 - 1 3 4 3 1 1 2 1 11
+p26
+aVErick Strickland DAL 04/16/1997 DAL @ MIN W 16 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 3 3
+p27
+aVMichael Finley DAL 04/16/1997 DAL @ MIN W 46 19 7 14 50.0 3 5 60.0 2 2 100.0 2 5 7 4 1 0 2 2 14
+p28
+aVRobert Pack DAL 04/14/1997 DAL vs. LAC L 40 18 7 19 36.8 0 3 0.0 4 4 100.0 1 5 6 3 5 0 6 4 -6
+p29
+aVErick Strickland DAL 04/14/1997 DAL vs. LAC L 25 8 2 9 22.2 2 5 40.0 2 2 100.0 2 0 2 1 1 0 3 4 -6
+p30
+aVShawn Bradley DAL 04/14/1997 DAL vs. LAC L 42 32 14 25 56.0 0 0 - 4 5 80.0 6 10 16 1 2 2 2 4 -1
+p31
+aVMartin Muursepp DAL 04/14/1997 DAL vs. LAC L 14 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 0 1 4 -3
+p32
+aVDerek Harper DAL 04/14/1997 DAL vs. LAC L 32 10 2 9 22.2 0 1 0.0 6 6 100.0 0 2 2 2 0 0 2 3 -2
+p33
+aVMichael Finley DAL 04/14/1997 DAL vs. LAC L 37 13 4 12 33.3 2 5 40.0 3 4 75.0 1 5 6 6 1 0 2 3 -4
+p34
+aVStacey King DAL 04/14/1997 DAL vs. LAC L 13 2 1 4 25.0 0 0 - 0 2 0.0 5 1 6 0 0 0 3 4 -5
+p35
+aVA.C. Green DAL 04/14/1997 DAL vs. LAC L 38 6 1 6 16.7 0 1 0.0 4 4 100.0 6 3 9 0 1 1 0 1 -3
+p36
+aVGreg Dreiling DAL 04/12/1997 DAL vs. VAN L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p37
+aVSasha Danilovic DAL 04/12/1997 DAL vs. VAN L 35 13 3 10 30.0 2 4 50.0 5 6 83.3 0 2 2 1 0 0 1 2 -2
+p38
+aVShawn Bradley DAL 04/12/1997 DAL vs. VAN L 36 20 9 13 69.2 0 0 - 2 3 66.7 5 8 13 1 1 6 2 2 -6
+p39
+aVDerek Harper DAL 04/12/1997 DAL vs. VAN L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 3 -9
+p40
+aVMichael Finley DAL 04/12/1997 DAL vs. VAN L 43 18 7 19 36.8 2 6 33.3 2 2 100.0 2 2 4 3 0 0 1 2 -6
+p41
+aVRobert Pack DAL 04/12/1997 DAL vs. VAN L 36 22 9 18 50.0 2 4 50.0 2 3 66.7 0 1 1 6 4 0 4 2 -2
+p42
+aVA.C. Green DAL 04/12/1997 DAL vs. VAN L 44 6 2 2 100.0 0 0 - 2 4 50.0 1 3 4 0 3 0 3 2 -3
+p43
+aVMartin Muursepp DAL 04/12/1997 DAL vs. VAN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p44
+aVStacey King DAL 04/12/1997 DAL vs. VAN L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p45
+aVErick Strickland DAL 04/12/1997 DAL vs. VAN L 21 6 2 6 33.3 2 4 50.0 0 2 0.0 1 2 3 2 0 0 2 1 -12
+p46
+aVEd O'Bannon DAL 04/10/1997 DAL vs. SEA L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p47
+aVA.C. Green DAL 04/10/1997 DAL vs. SEA L 43 4 2 4 50.0 0 2 0.0 0 0 - 0 6 6 2 4 0 1 5 1
+p48
+aVShawn Bradley DAL 04/10/1997 DAL vs. SEA L 33 7 2 8 25.0 0 0 - 3 7 42.9 2 6 8 1 0 1 3 5 0
+p49
+aVErick Strickland DAL 04/10/1997 DAL vs. SEA L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 1 -19
+p50
+aVRobert Pack DAL 04/10/1997 DAL vs. SEA L 29 14 4 8 50.0 0 1 0.0 6 10 60.0 1 1 2 5 3 0 3 3 12
+p51
+aVSasha Danilovic DAL 04/10/1997 DAL vs. SEA L 42 22 8 16 50.0 4 10 40.0 2 2 100.0 1 5 6 2 1 0 3 5 0
+p52
+aVMichael Finley DAL 04/10/1997 DAL vs. SEA L 41 25 10 20 50.0 3 9 33.3 2 2 100.0 2 1 3 3 2 1 2 2 3
+p53
+aVStacey King DAL 04/10/1997 DAL vs. SEA L 17 6 3 3 100.0 0 0 - 0 0 - 1 4 5 0 1 0 0 2 -15
+p54
+aVMartin Muursepp DAL 04/10/1997 DAL vs. SEA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p55
+aVDerek Harper DAL 04/10/1997 DAL vs. SEA L 19 4 1 2 50.0 0 0 - 2 4 50.0 0 0 0 4 1 0 2 2 -20
+p56
+aVGreg Dreiling DAL 04/10/1997 DAL vs. SEA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p57
+aVSasha Danilovic DAL 04/08/1997 DAL vs. POR W 41 22 6 14 42.9 4 7 57.1 6 9 66.7 0 1 1 3 0 0 2 1 3
+p58
+aVGreg Dreiling DAL 04/08/1997 DAL vs. POR W 11 1 0 0 - 0 0 - 1 4 25.0 1 1 2 0 0 1 2 3 -5
+p59
+aVMartin Muursepp DAL 04/08/1997 DAL vs. POR W 9 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 1 0 1 2 1 -2
+p60
+aVShawn Bradley DAL 04/08/1997 DAL vs. POR W 32 17 5 18 27.8 0 0 - 7 9 77.8 1 4 5 1 0 4 2 4 7
+p61
+aVA.C. Green DAL 04/08/1997 DAL vs. POR W 44 13 6 7 85.7 0 0 - 1 2 50.0 4 10 14 0 1 1 0 2 6
+p62
+aVErick Strickland DAL 04/08/1997 DAL vs. POR W 19 11 4 8 50.0 1 2 50.0 2 2 100.0 0 1 1 2 1 0 2 1 11
+p63
+aVDerek Harper DAL 04/08/1997 DAL vs. POR W 18 6 2 4 50.0 0 1 0.0 2 2 100.0 1 2 3 4 1 0 2 0 7
+p64
+aVRobert Pack DAL 04/08/1997 DAL vs. POR W 30 2 1 5 20.0 0 0 - 0 0 - 0 4 4 9 1 0 2 2 -2
+p65
+aVMichael Finley DAL 04/08/1997 DAL vs. POR W 34 13 6 14 42.9 0 2 0.0 1 2 50.0 1 7 8 0 0 0 1 2 3
+p66
+aVEd O'Bannon DAL 04/08/1997 DAL vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p67
+aVMartin Muursepp DAL 04/06/1997 DAL @ LAL L 13 10 4 6 66.7 0 1 0.0 2 2 100.0 1 1 2 1 1 0 1 1 -1
+p68
+aVMichael Finley DAL 04/06/1997 DAL @ LAL L 35 11 4 9 44.4 1 3 33.3 2 2 100.0 0 1 1 2 0 0 4 2 -20
+p69
+aVSasha Danilovic DAL 04/06/1997 DAL @ LAL L 25 15 7 13 53.8 1 2 50.0 0 0 - 0 1 1 1 2 0 2 4 2
+p70
+aVGreg Dreiling DAL 04/06/1997 DAL @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 0
+p71
+aVDerek Harper DAL 04/06/1997 DAL @ LAL L 39 18 6 15 40.0 1 4 25.0 5 6 83.3 1 3 4 4 6 0 5 0 -10
+p72
+aVStevin Smith DAL 04/06/1997 DAL @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p73
+aVEd O'Bannon DAL 04/06/1997 DAL @ LAL L 13 5 2 5 40.0 1 1 100.0 0 0 - 1 2 3 1 0 0 0 1 13
+p74
+aVA.C. Green DAL 04/06/1997 DAL @ LAL L 42 4 2 6 33.3 0 0 - 0 2 0.0 6 8 14 2 3 1 2 2 0
+p75
+aVShawn Bradley DAL 04/06/1997 DAL @ LAL L 35 11 5 13 38.5 0 0 - 1 4 25.0 4 9 13 1 0 2 5 1 -13
+p76
+aVRobert Pack DAL 04/06/1997 DAL @ LAL L 32 6 3 9 33.3 0 1 0.0 0 0 - 1 0 1 10 2 0 5 4 -4
+p77
+aVRobert Pack DAL 04/05/1997 DAL @ SEA L 30 9 3 9 33.3 0 1 0.0 3 4 75.0 1 5 6 3 2 0 4 1 -22
+p78
+aVDerek Harper DAL 04/05/1997 DAL @ SEA L 36 5 2 11 18.2 1 3 33.3 0 0 - 0 1 1 4 2 0 2 3 -18
+p79
+aVStevin Smith DAL 04/05/1997 DAL @ SEA L 4 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 0 6
+p80
+aVSasha Danilovic DAL 04/05/1997 DAL @ SEA L 28 18 7 15 46.7 1 4 25.0 3 3 100.0 0 1 1 1 2 0 1 4 -11
+p81
+aVGreg Dreiling DAL 04/05/1997 DAL @ SEA L 3 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 4
+p82
+aVEd O'Bannon DAL 04/05/1997 DAL @ SEA L 13 2 0 6 0.0 0 1 0.0 2 2 100.0 2 4 6 1 0 0 0 0 9
+p83
+aVShawn Bradley DAL 04/05/1997 DAL @ SEA L 38 16 6 15 40.0 0 0 - 4 7 57.1 4 6 10 1 0 1 6 4 -22
+p84
+aVMartin Muursepp DAL 04/05/1997 DAL @ SEA L 19 9 4 8 50.0 0 2 0.0 1 1 100.0 2 1 3 2 0 0 1 3 1
+p85
+aVA.C. Green DAL 04/05/1997 DAL @ SEA L 36 7 3 7 42.9 0 0 - 1 2 50.0 6 2 8 1 0 2 0 2 -21
+p86
+aVMichael Finley DAL 04/05/1997 DAL @ SEA L 33 12 5 10 50.0 1 3 33.3 1 1 100.0 0 5 5 0 0 0 1 0 -21
+p87
+aVEd O'Bannon DAL 04/03/1997 DAL @ GSW L 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -3
+p88
+aVA.C. Green DAL 04/03/1997 DAL @ GSW L 39 3 1 3 33.3 0 0 - 1 2 50.0 2 6 8 0 0 0 3 4 -18
+p89
+aVDerek Harper DAL 04/03/1997 DAL @ GSW L 39 19 8 14 57.1 1 3 33.3 2 2 100.0 0 0 0 7 5 0 2 2 -14
+p90
+aVRobert Pack DAL 04/03/1997 DAL @ GSW L 34 17 5 13 38.5 3 5 60.0 4 4 100.0 1 2 3 5 2 0 3 2 -23
+p91
+aVShawn Bradley DAL 04/03/1997 DAL @ GSW L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 3 1 4 1
+p92
+aVSasha Danilovic DAL 04/03/1997 DAL @ GSW L 28 17 6 13 46.2 2 3 66.7 3 4 75.0 1 0 1 6 1 0 1 2 4
+p93
+aVMartin Muursepp DAL 04/03/1997 DAL @ GSW L 12 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 3 1
+p94
+aVGreg Dreiling DAL 04/03/1997 DAL @ GSW L 23 9 3 5 60.0 0 0 - 3 5 60.0 1 2 3 0 2 1 0 3 -11
+p95
+aVStevin Smith DAL 04/03/1997 DAL @ GSW L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 -5
+p96
+aVMichael Finley DAL 04/03/1997 DAL @ GSW L 38 14 5 14 35.7 2 6 33.3 2 3 66.7 2 4 6 4 3 0 7 2 -12
+p97
+aVMartin Muursepp DAL 04/01/1997 DAL vs. DET L 18 9 3 7 42.9 0 2 0.0 3 6 50.0 4 1 5 0 1 1 0 6 4
+p98
+aVSasha Danilovic DAL 04/01/1997 DAL vs. DET L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -17
+p99
+aVMichael Finley DAL 04/01/1997 DAL vs. DET L 40 15 6 18 33.3 2 5 40.0 1 1 100.0 0 2 2 1 0 0 2 0 -18
+p100
+aVGreg Dreiling DAL 04/01/1997 DAL vs. DET L 12 1 0 4 0.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 3 3
+p101
+aVStevin Smith DAL 04/01/1997 DAL vs. DET L 25 4 2 7 28.6 0 3 0.0 0 0 - 0 5 5 3 0 0 1 5 -2
+p102
+aVDerek Harper DAL 04/01/1997 DAL vs. DET L 33 9 4 9 44.4 0 1 0.0 1 2 50.0 0 4 4 2 2 1 1 1 -21
+p103
+aVShawn Bradley DAL 04/01/1997 DAL vs. DET L 24 12 5 14 35.7 0 0 - 2 3 66.7 4 3 7 0 0 1 0 0 -20
+p104
+aVRobert Pack DAL 04/01/1997 DAL vs. DET L 30 15 3 14 21.4 0 2 0.0 9 10 90.0 1 3 4 9 0 0 1 4 -1
+p105
+aVEd O'Bannon DAL 04/01/1997 DAL vs. DET L 12 7 2 6 33.3 0 1 0.0 3 3 100.0 2 2 4 1 2 0 0 4 3
+p106
+aVA.C. Green DAL 04/01/1997 DAL vs. DET L 36 10 5 6 83.3 0 0 - 0 0 - 5 5 10 0 1 0 1 3 -21
+p107
+aVRobert Pack DAL 03/30/1997 DAL @ CLE L 31 23 7 14 50.0 1 1 100.0 8 9 88.9 1 3 4 4 4 0 5 5 0
+p108
+aVStevin Smith DAL 03/30/1997 DAL @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p109
+aVShawn Bradley DAL 03/30/1997 DAL @ CLE L 32 7 3 8 37.5 0 0 - 1 2 50.0 3 4 7 1 0 0 2 5 -2
+p110
+aVMichael Finley DAL 03/30/1997 DAL @ CLE L 45 17 6 16 37.5 1 6 16.7 4 6 66.7 0 3 3 6 0 0 3 1 3
+p111
+aVA.C. Green DAL 03/30/1997 DAL @ CLE L 38 10 4 9 44.4 0 0 - 2 2 100.0 2 7 9 3 2 0 1 1 5
+p112
+aVGreg Dreiling DAL 03/30/1997 DAL @ CLE L 14 4 2 2 100.0 0 0 - 0 0 - 2 4 6 0 0 0 1 4 3
+p113
+aVEd O'Bannon DAL 03/30/1997 DAL @ CLE L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 1 -7
+p114
+aVMartin Muursepp DAL 03/30/1997 DAL @ CLE L 17 5 1 4 25.0 1 1 100.0 2 2 100.0 3 2 5 1 1 1 2 3 -14
+p115
+aVDerek Harper DAL 03/30/1997 DAL @ CLE L 43 12 5 14 35.7 0 4 0.0 2 2 100.0 1 1 2 4 0 0 1 3 -9
+p116
+aVJamie Watson DAL 03/30/1997 DAL @ CLE L 17 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 2 0 1 2 -3
+p117
+aVRobert Pack DAL 03/29/1997 DAL @ WAS L 21 5 2 9 22.2 0 3 0.0 1 1 100.0 1 1 2 7 4 0 2 4 9
+p118
+aVShawn Bradley DAL 03/29/1997 DAL @ WAS L 33 12 6 17 35.3 0 0 - 0 0 - 3 3 6 0 0 4 3 2 -7
+p119
+aVMartin Muursepp DAL 03/29/1997 DAL @ WAS L 12 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -1
+p120
+aVSamaki Walker DAL 03/29/1997 DAL @ WAS L 14 8 1 2 50.0 0 0 - 6 6 100.0 0 2 2 0 0 1 0 2 12
+p121
+aVJamie Watson DAL 03/29/1997 DAL @ WAS L 31 4 2 4 50.0 0 0 - 0 0 - 0 0 0 6 1 0 1 1 -14
+p122
+aVDerek Harper DAL 03/29/1997 DAL @ WAS L 45 18 8 16 50.0 0 2 0.0 2 2 100.0 1 1 2 5 1 0 0 3 -5
+p123
+aVMichael Finley DAL 03/29/1997 DAL @ WAS L 47 25 10 20 50.0 5 11 45.5 0 0 - 0 7 7 3 0 0 2 3 -11
+p124
+aVGreg Dreiling DAL 03/29/1997 DAL @ WAS L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p125
+aVA.C. Green DAL 03/29/1997 DAL @ WAS L 36 11 5 11 45.5 0 1 0.0 1 2 50.0 5 6 11 1 1 2 1 3 -14
+p126
+aVShawn Bradley DAL 03/26/1997 DAL @ IND L 24 14 6 12 50.0 0 0 - 2 2 100.0 3 2 5 0 2 1 1 2 -9
+p127
+aVMartin Muursepp DAL 03/26/1997 DAL @ IND L 14 9 4 8 50.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 2 -12
+p128
+aVGreg Dreiling DAL 03/26/1997 DAL @ IND L 17 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 0 0 3 -16
+p129
+aVDerek Harper DAL 03/26/1997 DAL @ IND L 31 19 9 13 69.2 1 2 50.0 0 0 - 0 2 2 5 0 0 0 0 -15
+p130
+aVEd O'Bannon DAL 03/26/1997 DAL @ IND L 12 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 0 1 0 1 1 -5
+p131
+aVRobert Pack DAL 03/26/1997 DAL @ IND L 31 1 0 2 0.0 0 1 0.0 1 2 50.0 1 1 2 8 1 0 4 2 -18
+p132
+aVJamie Watson DAL 03/26/1997 DAL @ IND L 19 6 3 8 37.5 0 0 - 0 0 - 2 1 3 3 1 0 1 3 -6
+p133
+aVA.C. Green DAL 03/26/1997 DAL @ IND L 24 5 1 5 20.0 0 0 - 3 4 75.0 2 5 7 1 0 0 0 1 -6
+p134
+aVStevin Smith DAL 03/26/1997 DAL @ IND L 15 4 2 7 28.6 0 2 0.0 0 0 - 1 1 2 1 1 0 2 2 -9
+p135
+aVMichael Finley DAL 03/26/1997 DAL @ IND L 32 15 6 15 40.0 3 6 50.0 0 0 - 1 5 6 5 0 0 4 1 -12
+p136
+aVSamaki Walker DAL 03/26/1997 DAL @ IND L 21 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 0 -12
+p137
+aVSamaki Walker DAL 03/25/1997 DAL @ CHI L 16 9 4 5 80.0 0 0 - 1 1 100.0 2 1 3 0 1 0 0 2 -14
+p138
+aVJamie Watson DAL 03/25/1997 DAL @ CHI L 23 8 4 9 44.4 0 0 - 0 2 0.0 5 1 6 1 1 0 1 1 -1
+p139
+aVMichael Finley DAL 03/25/1997 DAL @ CHI L 45 28 12 24 50.0 4 7 57.1 0 0 - 1 3 4 5 0 0 2 2 0
+p140
+aVRobert Pack DAL 03/25/1997 DAL @ CHI L 31 16 6 17 35.3 1 2 50.0 3 3 100.0 1 2 3 9 1 0 5 3 -5
+p141
+aVA.C. Green DAL 03/25/1997 DAL @ CHI L 36 10 5 8 62.5 0 2 0.0 0 0 - 5 8 13 0 0 0 0 2 15
+p142
+aVGreg Dreiling DAL 03/25/1997 DAL @ CHI L 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 5 -5
+p143
+aVDerek Harper DAL 03/25/1997 DAL @ CHI L 45 2 1 11 9.1 0 3 0.0 0 0 - 1 2 3 7 1 0 3 2 0
+p144
+aVShawn Bradley DAL 03/25/1997 DAL @ CHI L 34 17 7 16 43.8 0 0 - 3 5 60.0 3 6 9 1 1 4 2 2 0
+p145
+aVJamie Watson DAL 03/22/1997 DAL vs. CLE L 26 2 1 6 16.7 0 1 0.0 0 0 - 3 2 5 1 1 1 3 2 0
+p146
+aVMartin Muursepp DAL 03/22/1997 DAL vs. CLE L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -3
+p147
+aVA.C. Green DAL 03/22/1997 DAL vs. CLE L 41 10 3 4 75.0 0 0 - 4 6 66.7 4 10 14 0 0 0 1 4 0
+p148
+aVGreg Dreiling DAL 03/22/1997 DAL vs. CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -3
+p149
+aVStevin Smith DAL 03/22/1997 DAL vs. CLE L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p150
+aVRobert Pack DAL 03/22/1997 DAL vs. CLE L 28 7 3 10 30.0 0 2 0.0 1 1 100.0 0 6 6 1 1 3 0 3 -1
+p151
+aVSamaki Walker DAL 03/22/1997 DAL vs. CLE L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -3
+p152
+aVMichael Finley DAL 03/22/1997 DAL vs. CLE L 48 22 6 17 35.3 1 4 25.0 9 10 90.0 1 4 5 4 0 2 1 3 -3
+p153
+aVDerek Harper DAL 03/22/1997 DAL vs. CLE L 39 16 6 13 46.2 2 4 50.0 2 2 100.0 1 3 4 3 1 0 1 1 -6
+p154
+aVShawn Bradley DAL 03/22/1997 DAL vs. CLE L 42 13 6 17 35.3 0 1 0.0 1 2 50.0 2 4 6 1 0 2 1 5 3
+p155
+aVShawn Bradley DAL 03/21/1997 DAL @ ATL L 36 17 6 16 37.5 0 1 0.0 5 6 83.3 2 4 6 0 1 0 2 2 -10
+p156
+aVA.C. Green DAL 03/21/1997 DAL @ ATL L 33 6 3 4 75.0 0 0 - 0 0 - 3 2 5 1 0 0 0 1 -13
+p157
+aVDerek Harper DAL 03/21/1997 DAL @ ATL L 35 11 4 13 30.8 1 5 20.0 2 2 100.0 1 0 1 3 1 0 0 3 -20
+p158
+aVJamie Watson DAL 03/21/1997 DAL @ ATL L 30 10 3 6 50.0 2 2 100.0 2 2 100.0 0 2 2 5 0 0 2 3 -7
+p159
+aVMichael Finley DAL 03/21/1997 DAL @ ATL L 42 9 4 13 30.8 1 3 33.3 0 0 - 2 2 4 3 2 0 0 0 -16
+p160
+aVEd O'Bannon DAL 03/21/1997 DAL @ ATL L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -6
+p161
+aVRobert Pack DAL 03/21/1997 DAL @ ATL L 29 6 2 10 20.0 0 1 0.0 2 4 50.0 0 4 4 5 1 0 6 4 -10
+p162
+aVStevin Smith DAL 03/21/1997 DAL @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p163
+aVSamaki Walker DAL 03/21/1997 DAL @ ATL L 20 6 3 5 60.0 0 0 - 0 0 - 3 4 7 1 2 0 1 5 -11
+p164
+aVGreg Dreiling DAL 03/21/1997 DAL @ ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p165
+aVMartin Muursepp DAL 03/21/1997 DAL @ ATL L 6 7 2 2 100.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 1 2 -3
+p166
+aVJamie Watson DAL 03/18/1997 DAL vs. WAS L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 0
+p167
+aVShawn Bradley DAL 03/18/1997 DAL vs. WAS L 27 12 5 10 50.0 0 0 - 2 2 100.0 1 8 9 3 1 5 4 6 11
+p168
+aVErick Strickland DAL 03/18/1997 DAL vs. WAS L 34 9 2 12 16.7 1 3 33.3 4 4 100.0 0 5 5 3 2 1 4 3 2
+p169
+aVDerek Harper DAL 03/18/1997 DAL vs. WAS L 35 11 5 11 45.5 1 3 33.3 0 0 - 0 2 2 1 1 2 2 4 -6
+p170
+aVMartin Muursepp DAL 03/18/1997 DAL vs. WAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p171
+aVGreg Dreiling DAL 03/18/1997 DAL vs. WAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p172
+aVA.C. Green DAL 03/18/1997 DAL vs. WAS L 44 8 2 12 16.7 0 0 - 4 5 80.0 6 5 11 0 4 0 1 2 -2
+p173
+aVSamaki Walker DAL 03/18/1997 DAL vs. WAS L 20 12 5 9 55.6 0 0 - 2 3 66.7 2 3 5 0 2 0 0 2 -3
+p174
+aVRobert Pack DAL 03/18/1997 DAL vs. WAS L 22 12 4 7 57.1 0 1 0.0 4 4 100.0 0 1 1 7 1 0 5 2 4
+p175
+aVMichael Finley DAL 03/18/1997 DAL vs. WAS L 43 18 7 14 50.0 1 2 50.0 3 4 75.0 0 4 4 1 0 2 2 2 -3
+p176
+aVA.C. Green DAL 03/16/1997 DAL @ SAC W 37 10 4 6 66.7 0 1 0.0 2 3 66.7 1 5 6 1 2 0 0 1 2
+p177
+aVJamie Watson DAL 03/16/1997 DAL @ SAC W 16 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 3 2 0 2 2 3
+p178
+aVShawn Bradley DAL 03/16/1997 DAL @ SAC W 40 17 8 17 47.1 0 0 - 1 2 50.0 3 8 11 1 0 4 2 2 5
+p179
+aVSamaki Walker DAL 03/16/1997 DAL @ SAC W 19 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 1 1 2 3 -5
+p180
+aVMichael Finley DAL 03/16/1997 DAL @ SAC W 41 14 6 15 40.0 1 5 20.0 1 4 25.0 1 2 3 3 1 1 2 2 -5
+p181
+aVMartin Muursepp DAL 03/16/1997 DAL @ SAC W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 0 1 1 6
+p182
+aVDerek Harper DAL 03/16/1997 DAL @ SAC W 42 17 7 14 50.0 0 0 - 3 3 100.0 0 4 4 10 1 0 2 2 -2
+p183
+aVErick Strickland DAL 03/16/1997 DAL @ SAC W 38 21 8 12 66.7 1 3 33.3 4 7 57.1 0 2 2 3 0 0 3 4 1
+p184
+aVErick Strickland DAL 03/15/1997 DAL @ PHX L 31 7 2 7 28.6 0 2 0.0 3 4 75.0 1 4 5 5 0 0 4 4 -25
+p185
+aVShawn Bradley DAL 03/15/1997 DAL @ PHX L 40 11 3 14 21.4 0 0 - 5 6 83.3 1 9 10 1 0 2 1 2 -14
+p186
+aVGreg Dreiling DAL 03/15/1997 DAL @ PHX L 5 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 1 0 0 0 1 -4
+p187
+aVEd O'Bannon DAL 03/15/1997 DAL @ PHX L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p188
+aVSamaki Walker DAL 03/15/1997 DAL @ PHX L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p189
+aVA.C. Green DAL 03/15/1997 DAL @ PHX L 41 13 5 10 50.0 0 0 - 3 4 75.0 4 7 11 0 1 0 0 2 -24
+p190
+aVMartin Muursepp DAL 03/15/1997 DAL @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -5
+p191
+aVJamie Watson DAL 03/15/1997 DAL @ PHX L 25 6 3 6 50.0 0 3 0.0 0 0 - 1 1 2 2 1 0 4 2 -18
+p192
+aVDerek Harper DAL 03/15/1997 DAL @ PHX L 43 11 5 10 50.0 1 1 100.0 0 4 0.0 1 0 1 7 1 0 4 3 -12
+p193
+aVMichael Finley DAL 03/15/1997 DAL @ PHX L 40 26 11 23 47.8 0 4 0.0 4 7 57.1 3 5 8 2 2 0 1 4 -9
+p194
+aVShawn Bradley DAL 03/13/1997 DAL vs. BOS W 39 31 12 18 66.7 0 0 - 7 11 63.6 4 6 10 3 0 4 5 5 3
+p195
+aVMichael Finley DAL 03/13/1997 DAL vs. BOS W 45 27 11 20 55.0 1 3 33.3 4 5 80.0 1 4 5 5 2 1 2 4 1
+p196
+aVA.C. Green DAL 03/13/1997 DAL vs. BOS W 40 11 5 9 55.6 0 1 0.0 1 1 100.0 3 8 11 0 0 1 0 1 3
+p197
+aVKhalid Reeves DAL 03/13/1997 DAL vs. BOS W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p198
+aVJamie Watson DAL 03/13/1997 DAL vs. BOS W 15 6 3 5 60.0 0 1 0.0 0 0 - 1 5 6 1 2 1 0 2 7
+p199
+aVErick Strickland DAL 03/13/1997 DAL vs. BOS W 37 16 7 11 63.6 1 2 50.0 1 3 33.3 1 3 4 3 1 0 4 4 3
+p200
+aVDerek Harper DAL 03/13/1997 DAL vs. BOS W 41 5 1 10 10.0 1 4 25.0 2 2 100.0 0 0 0 8 1 0 2 3 -7
+p201
+aVSamaki Walker DAL 03/13/1997 DAL vs. BOS W 17 9 4 7 57.1 0 0 - 1 2 50.0 1 3 4 2 0 2 0 0 -2
+p202
+aVA.C. Green DAL 03/11/1997 DAL vs. NYK W 36 9 4 7 57.1 0 0 - 1 2 50.0 2 5 7 0 0 0 1 2 8
+p203
+aVDerek Harper DAL 03/11/1997 DAL vs. NYK W 31 18 6 9 66.7 2 2 100.0 4 4 100.0 0 2 2 0 1 0 1 1 18
+p204
+aVShawn Bradley DAL 03/11/1997 DAL vs. NYK W 18 6 3 8 37.5 0 0 - 0 2 0.0 1 1 2 1 1 2 2 5 -1
+p205
+aVKhalid Reeves DAL 03/11/1997 DAL vs. NYK W 30 6 2 6 33.3 1 3 33.3 1 2 50.0 1 3 4 5 1 0 3 3 -6
+p206
+aVErick Strickland DAL 03/11/1997 DAL vs. NYK W 35 22 4 12 33.3 2 5 40.0 12 12 100.0 2 1 3 3 1 0 2 2 4
+p207
+aVSamaki Walker DAL 03/11/1997 DAL vs. NYK W 14 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 0 1 0 1 3 -1
+p208
+aVMartin Muursepp DAL 03/11/1997 DAL vs. NYK W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p209
+aVMichael Finley DAL 03/11/1997 DAL vs. NYK W 46 23 6 20 30.0 3 5 60.0 8 10 80.0 0 9 9 6 2 1 1 4 7
+p210
+aVGreg Dreiling DAL 03/11/1997 DAL vs. NYK W 28 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 1 0 0 3 10
+p211
+aVGreg Dreiling DAL 03/09/1997 DAL vs. HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p212
+aVShawn Bradley DAL 03/09/1997 DAL vs. HOU L 43 19 9 14 64.3 0 0 - 1 2 50.0 4 7 11 1 1 2 2 2 -9
+p213
+aVKhalid Reeves DAL 03/09/1997 DAL vs. HOU L 41 11 3 10 30.0 1 3 33.3 4 4 100.0 1 2 3 5 1 0 3 4 -9
+p214
+aVErick Strickland DAL 03/09/1997 DAL vs. HOU L 40 19 6 16 37.5 1 5 20.0 6 6 100.0 1 3 4 4 0 0 2 6 -8
+p215
+aVMartin Muursepp DAL 03/09/1997 DAL vs. HOU L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 2 0 2 7
+p216
+aVSamaki Walker DAL 03/09/1997 DAL vs. HOU L 13 4 2 5 40.0 0 0 - 0 0 - 1 7 8 0 0 0 3 1 1
+p217
+aVMichael Finley DAL 03/09/1997 DAL vs. HOU L 48 24 7 20 35.0 4 6 66.7 6 6 100.0 0 9 9 3 1 0 7 2 -5
+p218
+aVA.C. Green DAL 03/09/1997 DAL vs. HOU L 39 6 2 7 28.6 0 1 0.0 2 2 100.0 5 6 11 1 1 0 0 1 -4
+p219
+aVErick Strickland DAL 03/07/1997 DAL @ POR L 35 15 4 10 40.0 2 5 40.0 5 5 100.0 2 4 6 4 5 1 6 1 -6
+p220
+aVGreg Dreiling DAL 03/07/1997 DAL @ POR L 21 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -2
+p221
+aVMartin Muursepp DAL 03/07/1997 DAL @ POR L 9 2 0 3 0.0 0 1 0.0 2 4 50.0 1 0 1 0 0 1 0 2 -12
+p222
+aVSamaki Walker DAL 03/07/1997 DAL @ POR L 24 10 5 11 45.5 0 0 - 0 2 0.0 1 3 4 0 0 0 2 2 -3
+p223
+aVShawn Bradley DAL 03/07/1997 DAL @ POR L 11 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 3 0 2 3 -7
+p224
+aVMichael Finley DAL 03/07/1997 DAL @ POR L 43 17 5 18 27.8 2 7 28.6 5 6 83.3 1 2 3 3 2 1 3 0 -19
+p225
+aVEd O'Bannon DAL 03/07/1997 DAL @ POR L 17 5 2 9 22.2 0 1 0.0 1 2 50.0 1 2 3 1 0 0 0 2 6
+p226
+aVJason Sasser DAL 03/07/1997 DAL @ POR L 3 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 8
+p227
+aVKhalid Reeves DAL 03/07/1997 DAL @ POR L 37 2 0 6 0.0 0 2 0.0 2 2 100.0 0 2 2 6 1 0 2 3 -10
+p228
+aVA.C. Green DAL 03/07/1997 DAL @ POR L 40 10 3 7 42.9 0 0 - 4 4 100.0 4 7 11 1 1 1 3 1 -10
+p229
+aVErick Strickland DAL 03/05/1997 DAL @ UTA L 39 8 3 10 30.0 0 4 0.0 2 4 50.0 1 3 4 4 1 0 3 4 -25
+p230
+aVSamaki Walker DAL 03/05/1997 DAL @ UTA L 20 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 1 1 0 2 -14
+p231
+aVMichael Finley DAL 03/05/1997 DAL @ UTA L 41 13 4 15 26.7 2 5 40.0 3 4 75.0 1 0 1 2 1 1 4 1 -31
+p232
+aVMartin Muursepp DAL 03/05/1997 DAL @ UTA L 22 6 1 7 14.3 0 1 0.0 4 6 66.7 2 1 3 2 1 0 1 3 -21
+p233
+aVJason Sasser DAL 03/05/1997 DAL @ UTA L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p234
+aVA.C. Green DAL 03/05/1997 DAL @ UTA L 31 9 4 6 66.7 0 0 - 1 1 100.0 4 3 7 0 2 0 2 2 -15
+p235
+aVShawn Bradley DAL 03/05/1997 DAL @ UTA L 32 13 6 13 46.2 0 0 - 1 2 50.0 5 7 12 1 0 3 2 1 -23
+p236
+aVKhalid Reeves DAL 03/05/1997 DAL @ UTA L 35 12 5 11 45.5 2 4 50.0 0 1 0.0 3 1 4 3 0 0 4 4 -14
+p237
+aVGreg Dreiling DAL 03/05/1997 DAL @ UTA L 16 2 1 5 20.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -8
+p238
+aVSamaki Walker DAL 03/04/1997 DAL vs. LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p239
+aVMartin Muursepp DAL 03/04/1997 DAL vs. LAL L 15 8 2 7 28.6 0 1 0.0 4 4 100.0 1 3 4 1 1 0 1 1 0
+p240
+aVEd O'Bannon DAL 03/04/1997 DAL vs. LAL L 5 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -14
+p241
+aVErick Strickland DAL 03/04/1997 DAL vs. LAL L 43 10 5 13 38.5 0 4 0.0 0 0 - 1 3 4 4 0 0 3 1 4
+p242
+aVA.C. Green DAL 03/04/1997 DAL vs. LAL L 42 17 6 8 75.0 0 0 - 5 6 83.3 4 8 12 0 1 0 1 2 -7
+p243
+aVShawn Bradley DAL 03/04/1997 DAL vs. LAL L 26 12 4 10 40.0 0 0 - 4 6 66.7 2 7 9 0 1 10 2 4 -5
+p244
+aVRobert Pack DAL 03/04/1997 DAL vs. LAL L 36 18 7 13 53.8 0 3 0.0 4 4 100.0 0 1 1 6 0 0 3 3 -9
+p245
+aVGreg Dreiling DAL 03/04/1997 DAL vs. LAL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -4
+p246
+aVKhalid Reeves DAL 03/04/1997 DAL vs. LAL L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 6 1 0 3 5 -15
+p247
+aVMichael Finley DAL 03/04/1997 DAL vs. LAL L 43 23 9 18 50.0 1 3 33.3 4 5 80.0 2 8 10 2 3 2 4 0 4
+p248
+aVMartin Muursepp DAL 03/02/1997 DAL vs. PHX L 19 18 6 11 54.5 1 2 50.0 5 7 71.4 2 4 6 1 1 1 0 1 6
+p249
+aVShawn Bradley DAL 03/02/1997 DAL vs. PHX L 28 13 6 12 50.0 0 0 - 1 1 100.0 3 3 6 0 2 4 1 6 -11
+p250
+aVMichael Finley DAL 03/02/1997 DAL vs. PHX L 43 24 9 19 47.4 2 7 28.6 4 5 80.0 3 6 9 4 2 1 2 2 7
+p251
+aVDerek Harper DAL 03/02/1997 DAL vs. PHX L 33 9 4 11 36.4 0 3 0.0 1 2 50.0 0 0 0 4 3 0 3 4 -4
+p252
+aVEd O'Bannon DAL 03/02/1997 DAL vs. PHX L 13 4 2 7 28.6 0 2 0.0 0 0 - 0 4 4 1 0 0 2 1 -5
+p253
+aVKhalid Reeves DAL 03/02/1997 DAL vs. PHX L 32 6 3 13 23.1 0 4 0.0 0 0 - 3 0 3 4 1 1 0 3 -10
+p254
+aVErick Strickland DAL 03/02/1997 DAL vs. PHX L 37 16 7 15 46.7 2 6 33.3 0 0 - 1 8 9 4 0 1 3 6 7
+p255
+aVGreg Dreiling DAL 03/02/1997 DAL vs. PHX L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -3
+p256
+aVSamaki Walker DAL 03/02/1997 DAL vs. PHX L 14 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 1 1
+p257
+aVA.C. Green DAL 03/02/1997 DAL vs. PHX L 41 14 5 9 55.6 0 0 - 4 6 66.7 4 10 14 1 0 0 2 3 7
+p258
+aVMichael Finley DAL 03/01/1997 DAL @ HOU L 36 14 3 11 27.3 1 3 33.3 7 8 87.5 1 6 7 4 0 0 2 1 -8
+p259
+aVMartin Muursepp DAL 03/01/1997 DAL @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p260
+aVKhalid Reeves DAL 03/01/1997 DAL @ HOU L 18 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 3 1 0 1 3 1
+p261
+aVA.C. Green DAL 03/01/1997 DAL @ HOU L 39 12 5 7 71.4 0 0 - 2 4 50.0 1 4 5 0 1 0 2 1 -12
+p262
+aVGreg Dreiling DAL 03/01/1997 DAL @ HOU L 17 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 4 1
+p263
+aVDerek Harper DAL 03/01/1997 DAL @ HOU L 22 12 4 9 44.4 2 3 66.7 2 2 100.0 0 1 1 1 1 0 0 1 -3
+p264
+aVErick Strickland DAL 03/01/1997 DAL @ HOU L 40 9 4 11 36.4 1 5 20.0 0 0 - 0 2 2 1 0 0 3 1 -10
+p265
+aVShawn Bradley DAL 03/01/1997 DAL @ HOU L 28 10 5 10 50.0 0 0 - 0 0 - 1 8 9 3 0 1 4 3 -4
+p266
+aVEd O'Bannon DAL 03/01/1997 DAL @ HOU L 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -3
+p267
+aVSamaki Walker DAL 03/01/1997 DAL @ HOU L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 1 1 1 -1
+p268
+aVRobert Pack DAL 03/01/1997 DAL @ HOU L 15 13 5 10 50.0 1 2 50.0 2 2 100.0 1 0 1 5 0 0 2 0 -6
+p269
+aVKhalid Reeves DAL 02/27/1997 DAL vs. MIN L 44 12 6 14 42.9 0 2 0.0 0 0 - 1 2 3 6 0 0 2 2 4
+p270
+aVMichael Finley DAL 02/27/1997 DAL vs. MIN L 54 20 7 20 35.0 3 5 60.0 3 3 100.0 0 4 4 6 1 0 5 4 -1
+p271
+aVShawn Bradley DAL 02/27/1997 DAL vs. MIN L 28 15 6 9 66.7 0 0 - 3 4 75.0 6 3 9 0 0 2 2 6 1
+p272
+aVA.C. Green DAL 02/27/1997 DAL vs. MIN L 50 7 1 6 16.7 0 1 0.0 5 6 83.3 6 11 17 2 0 0 1 3 -1
+p273
+aVDerek Harper DAL 02/27/1997 DAL vs. MIN L 35 6 3 12 25.0 0 2 0.0 0 0 - 1 2 3 5 0 1 3 2 -19
+p274
+aVSamaki Walker DAL 02/27/1997 DAL vs. MIN L 11 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 0 0 4 3 -4
+p275
+aVEd O'Bannon DAL 02/27/1997 DAL vs. MIN L 10 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 1 0 0 0 0 1
+p276
+aVGreg Dreiling DAL 02/27/1997 DAL vs. MIN L 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 6
+p277
+aVErick Strickland DAL 02/27/1997 DAL vs. MIN L 36 25 8 14 57.1 3 5 60.0 6 7 85.7 1 4 5 2 3 2 4 6 8
+p278
+aVMartin Muursepp DAL 02/27/1997 DAL vs. MIN L 12 12 5 10 50.0 0 1 0.0 2 2 100.0 2 2 4 0 1 0 0 4 -5
+p279
+aVMichael Finley DAL 02/25/1997 DAL vs. CHH W 44 18 5 14 35.7 2 4 50.0 6 6 100.0 2 3 5 4 2 0 4 0 10
+p280
+aVGreg Dreiling DAL 02/25/1997 DAL vs. CHH W 10 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 0 1 0 0 0 6
+p281
+aVDerek Harper DAL 02/25/1997 DAL vs. CHH W 23 9 3 6 50.0 1 3 33.3 2 2 100.0 0 4 4 4 1 0 2 0 0
+p282
+aVErick Strickland DAL 02/25/1997 DAL vs. CHH W 34 17 5 13 38.5 1 5 20.0 6 7 85.7 0 2 2 6 0 0 2 5 -1
+p283
+aVKhalid Reeves DAL 02/25/1997 DAL vs. CHH W 33 14 6 12 50.0 1 2 50.0 1 1 100.0 1 1 2 3 0 0 0 4 7
+p284
+aVEd O'Bannon DAL 02/25/1997 DAL vs. CHH W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -7
+p285
+aVSamaki Walker DAL 02/25/1997 DAL vs. CHH W 13 6 2 4 50.0 0 0 - 2 3 66.7 0 4 4 0 0 2 0 1 3
+p286
+aVA.C. Green DAL 02/25/1997 DAL vs. CHH W 35 6 3 9 33.3 0 1 0.0 0 0 - 3 12 15 0 0 0 1 2 -4
+p287
+aVShawn Bradley DAL 02/25/1997 DAL vs. CHH W 38 16 8 18 44.4 0 0 - 0 0 - 3 8 11 1 0 2 0 3 -4
+p288
+aVGreg Dreiling DAL 02/23/1997 DAL @ PHX W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p289
+aVMartin Muursepp DAL 02/23/1997 DAL @ PHX W 10 8 3 5 60.0 0 0 - 2 4 50.0 4 2 6 1 0 0 1 1 10
+p290
+aVErick Strickland DAL 02/23/1997 DAL @ PHX W 42 13 5 13 38.5 1 4 25.0 2 3 66.7 1 4 5 7 2 0 2 1 -1
+p291
+aVEd O'Bannon DAL 02/23/1997 DAL @ PHX W 19 7 3 7 42.9 0 1 0.0 1 1 100.0 1 3 4 2 0 1 0 2 0
+p292
+aVSamaki Walker DAL 02/23/1997 DAL @ PHX W 16 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 0 -1
+p293
+aVShawn Bradley DAL 02/23/1997 DAL @ PHX W 31 18 8 17 47.1 0 0 - 2 2 100.0 3 7 10 2 0 2 3 1 -3
+p294
+aVMichael Finley DAL 02/23/1997 DAL @ PHX W 44 20 9 20 45.0 2 4 50.0 0 0 - 0 3 3 5 2 0 2 2 7
+p295
+aVA.C. Green DAL 02/23/1997 DAL @ PHX W 31 9 3 5 60.0 0 0 - 3 4 75.0 3 5 8 0 1 0 2 0 0
+p296
+aVKhalid Reeves DAL 02/23/1997 DAL @ PHX W 37 7 3 8 37.5 0 2 0.0 1 2 50.0 1 3 4 4 0 0 3 3 -1
+p297
+aVA.C. Green DAL 02/22/1997 DAL vs. TOR L 35 12 6 11 54.5 0 1 0.0 0 0 - 6 6 12 0 1 0 2 2 -3
+p298
+aVSamaki Walker DAL 02/22/1997 DAL vs. TOR L 13 4 1 3 33.3 0 0 - 2 4 50.0 2 2 4 0 0 0 0 2 -4
+p299
+aVKhalid Reeves DAL 02/22/1997 DAL vs. TOR L 38 10 4 10 40.0 2 8 25.0 0 0 - 0 2 2 10 4 1 4 3 1
+p300
+aVMichael Finley DAL 02/22/1997 DAL vs. TOR L 40 20 8 17 47.1 1 2 50.0 3 3 100.0 1 4 5 6 3 0 3 0 -3
+p301
+aVGreg Dreiling DAL 02/22/1997 DAL vs. TOR L 18 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -3
+p302
+aVEd O'Bannon DAL 02/22/1997 DAL vs. TOR L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p303
+aVErick Strickland DAL 02/22/1997 DAL vs. TOR L 17 7 3 6 50.0 1 1 100.0 0 0 - 1 3 4 1 0 0 3 2 -5
+p304
+aVShawn Bradley DAL 02/22/1997 DAL vs. TOR L 30 19 9 16 56.3 0 0 - 1 2 50.0 6 5 11 0 0 0 1 5 -4
+p305
+aVSasha Danilovic DAL 02/22/1997 DAL vs. TOR L 41 20 5 13 38.5 2 7 28.6 8 10 80.0 0 2 2 4 0 0 2 1 -10
+p306
+aVA.C. Green DAL 02/20/1997 DAL vs. MIL L 40 13 5 10 50.0 0 0 - 3 5 60.0 3 5 8 2 0 1 2 2 2
+p307
+aVGreg Dreiling DAL 02/20/1997 DAL vs. MIL L 13 4 2 2 100.0 0 0 - 0 2 0.0 3 1 4 1 0 0 0 4 8
+p308
+aVShawn Bradley DAL 02/20/1997 DAL vs. MIL L 29 10 5 13 38.5 0 0 - 0 0 - 2 8 10 1 0 6 2 5 -5
+p309
+aVKhalid Reeves DAL 02/20/1997 DAL vs. MIL L 14 8 4 8 50.0 0 2 0.0 0 0 - 1 1 2 1 1 0 1 1 -14
+p310
+aVSamaki Walker DAL 02/20/1997 DAL vs. MIL L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 -6
+p311
+aVMartin Muursepp DAL 02/20/1997 DAL vs. MIL L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -5
+p312
+aVDerek Harper DAL 02/20/1997 DAL vs. MIL L 42 11 5 13 38.5 0 5 0.0 1 2 50.0 0 0 0 9 2 1 3 2 7
+p313
+aVMichael Finley DAL 02/20/1997 DAL vs. MIL L 43 33 11 20 55.0 4 7 57.1 7 7 100.0 4 4 8 4 3 1 1 2 -1
+p314
+aVErick Strickland DAL 02/20/1997 DAL vs. MIL L 40 14 5 12 41.7 2 4 50.0 2 2 100.0 0 3 3 1 1 0 2 4 5
+p315
+aVEd O'Bannon DAL 02/20/1997 DAL vs. MIL L 5 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p316
+aVSamaki Walker DAL 02/18/1997 DAL @ LAC L 14 5 1 5 20.0 0 1 0.0 3 4 75.0 1 7 8 1 0 0 2 1 0
+p317
+aVDerek Harper DAL 02/18/1997 DAL @ LAC L 33 17 7 12 58.3 0 0 - 3 4 75.0 0 1 1 5 2 0 3 1 -14
+p318
+aVA.C. Green DAL 02/18/1997 DAL @ LAC L 37 5 2 7 28.6 0 0 - 1 5 20.0 3 8 11 2 2 0 4 2 -17
+p319
+aVMartin Muursepp DAL 02/18/1997 DAL @ LAC L 18 3 1 5 20.0 0 3 0.0 1 2 50.0 0 1 1 1 0 0 0 2 -13
+p320
+aVGreg Dreiling DAL 02/18/1997 DAL @ LAC L 31 6 3 8 37.5 0 0 - 0 0 - 0 4 4 0 0 0 0 6 -8
+p321
+aVMichael Finley DAL 02/18/1997 DAL @ LAC L 43 18 7 15 46.7 1 3 33.3 3 4 75.0 1 4 5 3 1 0 3 1 -16
+p322
+aVSasha Danilovic DAL 02/18/1997 DAL @ LAC L 42 13 5 15 33.3 2 7 28.6 1 2 50.0 1 2 3 1 4 1 2 4 -17
+p323
+aVErick Strickland DAL 02/18/1997 DAL @ LAC L 23 2 1 7 14.3 0 3 0.0 0 0 - 1 3 4 3 4 0 3 3 -5
+p324
+aVMichael Finley DAL 02/17/1997 DAL @ VAN W 44 21 8 16 50.0 2 5 40.0 3 5 60.0 1 4 5 6 0 0 3 3 4
+p325
+aVSamaki Walker DAL 02/17/1997 DAL @ VAN W 15 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 2 1 3 0
+p326
+aVGreg Dreiling DAL 02/17/1997 DAL @ VAN W 31 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 1 0 2 1 4 10
+p327
+aVErick Strickland DAL 02/17/1997 DAL @ VAN W 15 11 3 5 60.0 0 1 0.0 5 6 83.3 1 4 5 0 0 0 0 1 -9
+p328
+aVSasha Danilovic DAL 02/17/1997 DAL @ VAN W 41 19 4 15 26.7 1 5 20.0 10 10 100.0 3 3 6 1 1 0 2 2 3
+p329
+aVMartin Muursepp DAL 02/17/1997 DAL @ VAN W 12 2 1 4 25.0 0 0 - 0 2 0.0 1 0 1 2 0 0 1 2 -3
+p330
+aVDerek Harper DAL 02/17/1997 DAL @ VAN W 41 17 8 16 50.0 0 3 0.0 1 2 50.0 0 5 5 9 4 0 4 3 13
+p331
+aVA.C. Green DAL 02/17/1997 DAL @ VAN W 42 21 9 12 75.0 0 1 0.0 3 4 75.0 8 7 15 2 2 0 0 2 7
+p332
+aVGreg Dreiling DAL 02/15/1997 DAL @ UTA L 21 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 1 0 0 3 -9
+p333
+aVEric Montross DAL 02/15/1997 DAL @ UTA L 27 2 1 2 50.0 0 0 - 0 2 0.0 1 6 7 0 0 1 1 5 -6
+p334
+aVJim Jackson DAL 02/15/1997 DAL @ UTA L 35 19 7 16 43.8 1 4 25.0 4 5 80.0 2 0 2 0 2 1 4 1 -23
+p335
+aVMartin Muursepp DAL 02/15/1997 DAL @ UTA L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 9
+p336
+aVDerek Harper DAL 02/15/1997 DAL @ UTA L 15 4 2 5 40.0 0 2 0.0 0 0 - 2 1 3 2 0 0 3 2 -6
+p337
+aVMichael Finley DAL 02/15/1997 DAL @ UTA L 25 13 3 9 33.3 1 4 25.0 6 6 100.0 0 2 2 0 2 0 3 2 -2
+p338
+aVA.C. Green DAL 02/15/1997 DAL @ UTA L 39 4 1 5 20.0 0 0 - 2 2 100.0 2 8 10 3 2 0 1 3 -21
+p339
+aVErick Strickland DAL 02/15/1997 DAL @ UTA L 6 3 1 4 25.0 0 2 0.0 1 1 100.0 0 1 1 0 0 0 0 0 6
+p340
+aVGeorge McCloud DAL 02/15/1997 DAL @ UTA L 37 17 8 18 44.4 1 4 25.0 0 0 - 1 1 2 4 0 0 1 2 -9
+p341
+aVSam Cassell DAL 02/15/1997 DAL @ UTA L 30 14 2 11 18.2 1 5 20.0 9 9 100.0 2 0 2 5 1 1 3 6 -14
+p342
+aVJamal Mashburn DAL 02/13/1997 DAL vs. GSW L 21 10 4 10 40.0 1 4 25.0 1 3 33.3 1 0 1 2 0 0 2 2 -2
+p343
+aVSam Cassell DAL 02/13/1997 DAL vs. GSW L 35 18 7 16 43.8 2 5 40.0 2 2 100.0 2 5 7 2 5 0 2 5 4
+p344
+aVChris Gatling DAL 02/13/1997 DAL vs. GSW L 36 19 7 14 50.0 0 1 0.0 5 8 62.5 6 7 13 2 0 1 4 1 -4
+p345
+aVEric Montross DAL 02/13/1997 DAL vs. GSW L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p346
+aVA.C. Green DAL 02/13/1997 DAL vs. GSW L 39 13 5 8 62.5 0 0 - 3 5 60.0 5 6 11 4 1 1 0 4 3
+p347
+aVGeorge McCloud DAL 02/13/1997 DAL vs. GSW L 29 10 4 13 30.8 1 8 12.5 1 2 50.0 0 2 2 9 0 0 1 3 -10
+p348
+aVJim Jackson DAL 02/13/1997 DAL vs. GSW L 26 2 1 7 14.3 0 0 - 0 0 - 2 2 4 1 0 0 1 1 3
+p349
+aVDerek Harper DAL 02/13/1997 DAL vs. GSW L 20 12 5 8 62.5 2 3 66.7 0 0 - 0 1 1 3 0 0 1 1 -15
+p350
+aVMichael Finley DAL 02/13/1997 DAL vs. GSW L 29 15 6 12 50.0 3 4 75.0 0 0 - 3 1 4 1 1 0 1 2 -18
+p351
+aVA.C. Green DAL 02/11/1997 DAL vs. SAS L 30 4 1 2 50.0 0 0 - 2 4 50.0 3 3 6 0 1 0 1 3 -17
+p352
+aVJim Jackson DAL 02/11/1997 DAL vs. SAS L 26 14 7 12 58.3 0 2 0.0 0 0 - 1 1 2 2 0 0 2 2 -13
+p353
+aVGeorge McCloud DAL 02/11/1997 DAL vs. SAS L 17 10 4 10 40.0 2 4 50.0 0 0 - 1 2 3 2 0 1 1 0 -7
+p354
+aVMichael Finley DAL 02/11/1997 DAL vs. SAS L 26 18 6 11 54.5 2 5 40.0 4 4 100.0 1 6 7 1 1 0 1 2 -3
+p355
+aVDerek Harper DAL 02/11/1997 DAL vs. SAS L 25 0 0 6 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 2 1
+p356
+aVGreg Dreiling DAL 02/11/1997 DAL vs. SAS L 3 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 1 0 0 0 0 5
+p357
+aVFred Roberts DAL 02/11/1997 DAL vs. SAS L 3 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 0 0 1 0 0 5
+p358
+aVEric Montross DAL 02/11/1997 DAL vs. SAS L 19 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 -11
+p359
+aVJamal Mashburn DAL 02/11/1997 DAL vs. SAS L 26 9 2 8 25.0 1 3 33.3 4 4 100.0 0 3 3 4 1 0 2 1 -13
+p360
+aVChris Gatling DAL 02/11/1997 DAL vs. SAS L 30 24 10 18 55.6 0 0 - 4 5 80.0 6 7 13 1 0 1 1 2 -5
+p361
+aVSam Cassell DAL 02/11/1997 DAL vs. SAS L 35 11 4 10 40.0 0 1 0.0 3 4 75.0 4 3 7 6 0 1 2 5 -12
+p362
+aVJim Jackson DAL 02/04/1997 DAL vs. SAC W 44 15 5 11 45.5 1 2 50.0 4 5 80.0 0 7 7 3 3 0 3 5 5
+p363
+aVSam Cassell DAL 02/04/1997 DAL vs. SAC W 25 20 7 7 100.0 3 3 100.0 3 4 75.0 0 1 1 6 0 0 4 2 14
+p364
+aVDerek Harper DAL 02/04/1997 DAL vs. SAC W 24 16 6 10 60.0 2 3 66.7 2 2 100.0 0 0 0 3 3 2 2 1 -3
+p365
+aVGeorge McCloud DAL 02/04/1997 DAL vs. SAC W 35 17 6 12 50.0 2 4 50.0 3 4 75.0 2 7 9 4 1 0 1 5 13
+p366
+aVOliver Miller DAL 02/04/1997 DAL vs. SAC W 15 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 1 1 4 3 -2
+p367
+aVChris Gatling DAL 02/04/1997 DAL vs. SAC W 30 14 4 10 40.0 0 2 0.0 6 6 100.0 3 5 8 0 0 1 4 4 -10
+p368
+aVEric Montross DAL 02/04/1997 DAL vs. SAC W 21 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 3 0 0 2 3 17
+p369
+aVA.C. Green DAL 02/04/1997 DAL vs. SAC W 18 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 1 1 0 0 1 10
+p370
+aVMichael Finley DAL 02/04/1997 DAL vs. SAC W 29 11 4 10 40.0 1 2 50.0 2 2 100.0 1 3 4 2 0 0 2 3 -4
+p371
+aVMichael Finley DAL 02/01/1997 DAL vs. UTA W 26 11 3 8 37.5 2 4 50.0 3 3 100.0 1 3 4 3 0 1 2 1 -1
+p372
+aVA.C. Green DAL 02/01/1997 DAL vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p373
+aVGeorge McCloud DAL 02/01/1997 DAL vs. UTA W 21 11 5 9 55.6 0 2 0.0 1 1 100.0 0 4 4 0 1 0 2 3 8
+p374
+aVEric Montross DAL 02/01/1997 DAL vs. UTA W 41 8 4 4 100.0 0 0 - 0 1 0.0 8 3 11 0 0 4 2 4 12
+p375
+aVOliver Miller DAL 02/01/1997 DAL vs. UTA W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -8
+p376
+aVDerek Harper DAL 02/01/1997 DAL vs. UTA W 43 29 8 12 66.7 4 6 66.7 9 12 75.0 1 2 3 11 2 0 2 3 12
+p377
+aVJim Jackson DAL 02/01/1997 DAL vs. UTA W 31 12 5 13 38.5 0 2 0.0 2 3 66.7 0 3 3 4 3 0 2 1 -11
+p378
+aVChris Gatling DAL 02/01/1997 DAL vs. UTA W 40 19 8 17 47.1 0 0 - 3 7 42.9 2 10 12 1 0 1 2 4 6
+p379
+aVJamal Mashburn DAL 02/01/1997 DAL vs. UTA W 28 10 3 10 30.0 2 3 66.7 2 4 50.0 1 1 2 2 2 0 2 4 -5
+p380
+aVMichael Finley DAL 01/30/1997 DAL vs. MIN L 26 12 5 11 45.5 1 3 33.3 1 1 100.0 0 2 2 3 2 0 1 2 2
+p381
+aVJim Jackson DAL 01/30/1997 DAL vs. MIN L 30 12 4 8 50.0 0 1 0.0 4 4 100.0 1 2 3 2 2 0 4 2 -6
+p382
+aVSam Cassell DAL 01/30/1997 DAL vs. MIN L 23 10 4 8 50.0 0 2 0.0 2 4 50.0 0 1 1 4 0 0 1 3 -2
+p383
+aVEric Montross DAL 01/30/1997 DAL vs. MIN L 14 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 1 -14
+p384
+aVChris Gatling DAL 01/30/1997 DAL vs. MIN L 34 29 11 21 52.4 0 0 - 7 9 77.8 8 10 18 0 0 0 6 5 3
+p385
+aVOliver Miller DAL 01/30/1997 DAL vs. MIN L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -2
+p386
+aVA.C. Green DAL 01/30/1997 DAL vs. MIN L 33 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 1 0 0 2 1
+p387
+aVDerek Harper DAL 01/30/1997 DAL vs. MIN L 25 5 2 6 33.3 0 1 0.0 1 2 50.0 1 1 2 5 1 0 0 3 -8
+p388
+aVGeorge McCloud DAL 01/30/1997 DAL vs. MIN L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 0 1 1 0 1 -8
+p389
+aVJamal Mashburn DAL 01/30/1997 DAL vs. MIN L 34 7 2 12 16.7 0 2 0.0 3 4 75.0 1 7 8 3 0 0 1 2 -16
+p390
+aVMichael Finley DAL 01/28/1997 DAL vs. LAL L 20 11 4 7 57.1 0 1 0.0 3 3 100.0 1 0 1 1 0 0 4 2 -16
+p391
+aVEric Montross DAL 01/28/1997 DAL vs. LAL L 17 8 4 6 66.7 0 0 - 0 0 - 1 6 7 0 1 0 2 2 -11
+p392
+aVOliver Miller DAL 01/28/1997 DAL vs. LAL L 29 6 3 9 33.3 0 0 - 0 0 - 7 5 12 2 2 1 1 5 -10
+p393
+aVGeorge McCloud DAL 01/28/1997 DAL vs. LAL L 25 4 1 12 8.3 1 4 25.0 1 2 50.0 1 2 3 0 2 0 2 2 -20
+p394
+aVDerek Harper DAL 01/28/1997 DAL vs. LAL L 36 8 3 10 30.0 0 1 0.0 2 2 100.0 0 3 3 5 0 0 1 2 -14
+p395
+aVGreg Dreiling DAL 01/28/1997 DAL vs. LAL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p396
+aVJim Jackson DAL 01/28/1997 DAL vs. LAL L 39 10 3 10 30.0 0 2 0.0 4 6 66.7 0 3 3 6 3 0 4 1 -8
+p397
+aVFred Roberts DAL 01/28/1997 DAL vs. LAL L 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p398
+aVJamal Mashburn DAL 01/28/1997 DAL vs. LAL L 37 26 9 16 56.3 1 3 33.3 7 9 77.8 2 2 4 3 0 0 2 2 -6
+p399
+aVA.C. Green DAL 01/28/1997 DAL vs. LAL L 32 6 3 7 42.9 0 0 - 0 0 - 4 7 11 0 0 0 2 1 -10
+p400
+aVJim Jackson DAL 01/25/1997 DAL vs. NJN W 39 20 8 12 66.7 0 1 0.0 4 6 66.7 2 5 7 5 0 0 3 1 6
+p401
+aVChris Gatling DAL 01/25/1997 DAL vs. NJN W 20 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 2 0 1 3 0 -10
+p402
+aVDerek Harper DAL 01/25/1997 DAL vs. NJN W 36 14 6 10 60.0 2 4 50.0 0 0 - 0 2 2 4 4 0 2 3 12
+p403
+aVA.C. Green DAL 01/25/1997 DAL vs. NJN W 30 10 5 9 55.6 0 0 - 0 2 0.0 3 5 8 3 1 1 0 3 22
+p404
+aVEric Montross DAL 01/25/1997 DAL vs. NJN W 18 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 0 0 0 3 2
+p405
+aVJamal Mashburn DAL 01/25/1997 DAL vs. NJN W 32 21 8 16 50.0 1 2 50.0 4 5 80.0 2 0 2 4 2 0 0 1 -5
+p406
+aVGeorge McCloud DAL 01/25/1997 DAL vs. NJN W 16 7 3 5 60.0 1 1 100.0 0 0 - 1 2 3 0 2 1 0 0 16
+p407
+aVMichael Finley DAL 01/25/1997 DAL vs. NJN W 21 4 1 7 14.3 0 1 0.0 2 2 100.0 0 3 3 2 0 0 1 0 4
+p408
+aVOliver Miller DAL 01/25/1997 DAL vs. NJN W 28 6 3 10 30.0 0 0 - 0 0 - 4 3 7 1 0 8 3 2 8
+p409
+aVA.C. Green DAL 01/24/1997 DAL @ SAS L 29 7 2 6 33.3 0 0 - 3 3 100.0 3 3 6 2 0 1 0 2 -12
+p410
+aVMichael Finley DAL 01/24/1997 DAL @ SAS L 25 17 8 12 66.7 1 4 25.0 0 0 - 1 4 5 2 0 0 1 4 -1
+p411
+aVEric Montross DAL 01/24/1997 DAL @ SAS L 21 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -11
+p412
+aVDerek Harper DAL 01/24/1997 DAL @ SAS L 46 7 3 7 42.9 1 1 100.0 0 0 - 1 1 2 5 0 0 2 5 -9
+p413
+aVJim Jackson DAL 01/24/1997 DAL @ SAS L 46 22 8 19 42.1 1 6 16.7 5 6 83.3 4 5 9 5 2 0 3 3 -12
+p414
+aVOliver Miller DAL 01/24/1997 DAL @ SAS L 17 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 1 2 3 3
+p415
+aVChris Gatling DAL 01/24/1997 DAL @ SAS L 28 25 9 14 64.3 0 0 - 7 10 70.0 3 2 5 1 0 1 3 3 -7
+p416
+aVJamal Mashburn DAL 01/24/1997 DAL @ SAS L 27 9 3 10 30.0 1 4 25.0 2 4 50.0 1 0 1 4 0 1 0 1 -1
+p417
+aVA.C. Green DAL 01/21/1997 DAL @ GSW L 25 6 3 3 100.0 0 0 - 0 0 - 2 5 7 2 0 0 2 0 -5
+p418
+aVOliver Miller DAL 01/21/1997 DAL @ GSW L 14 6 2 4 50.0 0 0 - 2 2 100.0 3 4 7 0 1 1 3 5 -6
+p419
+aVJim Jackson DAL 01/21/1997 DAL @ GSW L 37 22 8 19 42.1 2 5 40.0 4 4 100.0 5 2 7 3 0 0 1 1 -5
+p420
+aVMichael Finley DAL 01/21/1997 DAL @ GSW L 23 10 4 8 50.0 2 3 66.7 0 0 - 1 4 5 2 0 0 0 0 -13
+p421
+aVChris Gatling DAL 01/21/1997 DAL @ GSW L 29 19 7 10 70.0 1 1 100.0 4 5 80.0 2 6 8 1 2 1 2 3 -10
+p422
+aVEric Montross DAL 01/21/1997 DAL @ GSW L 24 4 1 2 50.0 0 0 - 2 4 50.0 0 7 7 0 0 0 4 5 -4
+p423
+aVJamal Mashburn DAL 01/21/1997 DAL @ GSW L 40 16 6 17 35.3 3 8 37.5 1 2 50.0 0 2 2 5 0 0 2 3 -5
+p424
+aVSam Cassell DAL 01/21/1997 DAL @ GSW L 19 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 4 2 1 5 1 -10
+p425
+aVDerek Harper DAL 01/21/1997 DAL @ GSW L 29 6 1 6 16.7 1 5 20.0 3 3 100.0 1 1 2 2 0 0 2 4 -2
+p426
+aVMichael Finley DAL 01/20/1997 DAL @ LAL L 20 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 2 1 0 2 2 2
+p427
+aVOliver Miller DAL 01/20/1997 DAL @ LAL L 20 3 1 3 33.3 0 0 - 1 4 25.0 4 1 5 4 0 0 2 4 -13
+p428
+aVJim Jackson DAL 01/20/1997 DAL @ LAL L 38 22 9 12 75.0 2 3 66.7 2 3 66.7 2 0 2 3 1 0 7 3 -13
+p429
+aVJamal Mashburn DAL 01/20/1997 DAL @ LAL L 40 19 6 14 42.9 4 7 57.1 3 4 75.0 2 4 6 5 1 0 4 3 -11
+p430
+aVSam Cassell DAL 01/20/1997 DAL @ LAL L 28 17 3 10 30.0 0 2 0.0 11 11 100.0 1 5 6 1 0 0 1 6 -16
+p431
+aVDerek Harper DAL 01/20/1997 DAL @ LAL L 23 4 2 7 28.6 0 1 0.0 0 0 - 2 2 4 3 3 1 2 3 4
+p432
+aVA.C. Green DAL 01/20/1997 DAL @ LAL L 32 6 2 9 22.2 0 0 - 2 4 50.0 5 5 10 1 0 0 1 2 -10
+p433
+aVChris Gatling DAL 01/20/1997 DAL @ LAL L 22 21 8 15 53.3 0 0 - 5 8 62.5 1 6 7 0 1 0 1 5 9
+p434
+aVEric Montross DAL 01/20/1997 DAL @ LAL L 17 4 2 3 66.7 0 0 - 0 0 - 1 5 6 1 0 2 1 3 -2
+p435
+aVDerek Harper DAL 01/18/1997 DAL @ DEN W 23 10 4 10 40.0 2 3 66.7 0 0 - 1 1 2 4 0 0 1 0 4
+p436
+aVSam Cassell DAL 01/18/1997 DAL @ DEN W 27 10 5 13 38.5 0 2 0.0 0 0 - 0 1 1 7 2 0 3 2 -2
+p437
+aVChris Gatling DAL 01/18/1997 DAL @ DEN W 28 16 6 12 50.0 0 0 - 4 4 100.0 2 1 3 1 1 1 1 2 0
+p438
+aVA.C. Green DAL 01/18/1997 DAL @ DEN W 25 6 1 2 50.0 0 0 - 4 4 100.0 1 3 4 1 0 0 1 1 3
+p439
+aVMichael Finley DAL 01/18/1997 DAL @ DEN W 22 13 5 9 55.6 1 3 33.3 2 2 100.0 0 1 1 0 1 1 1 3 6
+p440
+aVJim Jackson DAL 01/18/1997 DAL @ DEN W 35 12 4 10 40.0 1 2 50.0 3 4 75.0 3 6 9 3 2 1 2 4 0
+p441
+aVOliver Miller DAL 01/18/1997 DAL @ DEN W 20 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 0 1 1 0 0 6
+p442
+aVJamal Mashburn DAL 01/18/1997 DAL @ DEN W 40 27 9 16 56.3 3 5 60.0 6 6 100.0 0 5 5 7 4 0 3 2 -1
+p443
+aVEric Montross DAL 01/18/1997 DAL @ DEN W 20 7 3 3 100.0 0 0 - 1 2 50.0 2 4 6 0 1 0 1 4 -1
+p444
+aVOliver Miller DAL 01/17/1997 DAL vs. HOU L 27 4 1 5 20.0 0 1 0.0 2 2 100.0 1 9 10 6 2 1 3 5 -5
+p445
+aVChris Gatling DAL 01/17/1997 DAL vs. HOU L 11 8 3 7 42.9 0 0 - 2 4 50.0 0 1 1 0 0 0 3 0 -7
+p446
+aVMichael Finley DAL 01/17/1997 DAL vs. HOU L 23 11 5 9 55.6 1 4 25.0 0 0 - 1 1 2 1 1 0 2 1 -10
+p447
+aVJamal Mashburn DAL 01/17/1997 DAL vs. HOU L 37 17 8 16 50.0 1 3 33.3 0 0 - 0 6 6 4 5 0 1 2 -7
+p448
+aVA.C. Green DAL 01/17/1997 DAL vs. HOU L 33 4 1 5 20.0 0 0 - 2 5 40.0 2 8 10 1 0 0 0 1 -9
+p449
+aVEric Montross DAL 01/17/1997 DAL vs. HOU L 21 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 0 1 3 4 -5
+p450
+aVJim Jackson DAL 01/17/1997 DAL vs. HOU L 43 16 7 14 50.0 1 3 33.3 1 1 100.0 1 4 5 0 0 0 1 1 -3
+p451
+aVDerek Harper DAL 01/17/1997 DAL vs. HOU L 45 16 5 15 33.3 2 4 50.0 4 4 100.0 1 2 3 4 1 0 4 4 -4
+p452
+aVA.C. Green DAL 01/15/1997 DAL vs. ORL L 36 6 3 5 60.0 0 0 - 0 0 - 6 7 13 1 1 0 2 1 -10
+p453
+aVSam Cassell DAL 01/15/1997 DAL vs. ORL L 21 6 2 6 33.3 2 2 100.0 0 0 - 0 2 2 2 1 1 2 3 -8
+p454
+aVDerek Harper DAL 01/15/1997 DAL vs. ORL L 27 12 4 8 50.0 1 3 33.3 3 4 75.0 0 0 0 6 2 0 0 0 -4
+p455
+aVGeorge McCloud DAL 01/15/1997 DAL vs. ORL L 18 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 2 0 1 2 -5
+p456
+aVChris Gatling DAL 01/15/1997 DAL vs. ORL L 24 11 5 12 41.7 0 0 - 1 4 25.0 0 6 6 0 1 1 3 4 -11
+p457
+aVOliver Miller DAL 01/15/1997 DAL vs. ORL L 19 5 2 5 40.0 0 0 - 1 4 25.0 1 7 8 0 1 1 2 2 -3
+p458
+aVJim Jackson DAL 01/15/1997 DAL vs. ORL L 30 12 6 14 42.9 0 1 0.0 0 0 - 2 1 3 2 0 0 3 3 -7
+p459
+aVEric Montross DAL 01/15/1997 DAL vs. ORL L 12 2 1 3 33.3 0 0 - 0 2 0.0 2 4 6 0 1 0 0 2 1
+p460
+aVJamal Mashburn DAL 01/15/1997 DAL vs. ORL L 26 2 1 7 14.3 0 3 0.0 0 0 - 1 1 2 2 1 0 3 2 -4
+p461
+aVMichael Finley DAL 01/15/1997 DAL vs. ORL L 29 10 4 9 44.4 0 2 0.0 2 2 100.0 1 1 2 4 0 1 2 1 -9
+p462
+aVChris Gatling DAL 01/13/1997 DAL vs. PHX L 29 22 8 17 47.1 0 0 - 6 9 66.7 3 3 6 0 2 0 1 3 -2
+p463
+aVA.C. Green DAL 01/13/1997 DAL vs. PHX L 24 5 2 5 40.0 0 1 0.0 1 2 50.0 2 5 7 1 1 0 0 1 -10
+p464
+aVEric Montross DAL 01/13/1997 DAL vs. PHX L 14 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 1 0 0 4 -3
+p465
+aVMichael Finley DAL 01/13/1997 DAL vs. PHX L 27 18 7 15 46.7 3 4 75.0 1 2 50.0 3 4 7 1 2 2 1 0 2
+p466
+aVOliver Miller DAL 01/13/1997 DAL vs. PHX L 25 9 4 7 57.1 0 0 - 1 2 50.0 2 1 3 3 0 2 2 5 0
+p467
+aVGeorge McCloud DAL 01/13/1997 DAL vs. PHX L 19 9 3 10 30.0 1 7 14.3 2 2 100.0 0 3 3 3 1 0 2 2 9
+p468
+aVJamal Mashburn DAL 01/13/1997 DAL vs. PHX L 20 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 3 0 0 3 1 -21
+p469
+aVJim Jackson DAL 01/13/1997 DAL vs. PHX L 30 6 2 9 22.2 0 2 0.0 2 2 100.0 1 0 1 2 1 0 2 2 -13
+p470
+aVSam Cassell DAL 01/13/1997 DAL vs. PHX L 29 17 8 13 61.5 0 2 0.0 1 2 50.0 2 4 6 5 2 0 5 3 -2
+p471
+aVDerek Harper DAL 01/13/1997 DAL vs. PHX L 23 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 4 1 1 2 1 5
+p472
+aVSam Cassell DAL 01/11/1997 DAL vs. DEN W 21 12 5 9 55.6 2 3 66.7 0 0 - 0 3 3 1 0 0 2 2 3
+p473
+aVGeorge McCloud DAL 01/11/1997 DAL vs. DEN W 27 21 6 9 66.7 2 3 66.7 7 8 87.5 1 2 3 0 1 0 0 4 8
+p474
+aVEric Montross DAL 01/11/1997 DAL vs. DEN W 35 4 2 3 66.7 0 0 - 0 0 - 1 6 7 2 0 2 1 5 10
+p475
+aVChris Gatling DAL 01/11/1997 DAL vs. DEN W 23 21 7 12 58.3 0 0 - 7 10 70.0 2 3 5 0 0 1 1 5 12
+p476
+aVDerek Harper DAL 01/11/1997 DAL vs. DEN W 27 13 5 11 45.5 2 3 66.7 1 2 50.0 0 2 2 8 2 0 1 0 4
+p477
+aVMichael Finley DAL 01/11/1997 DAL vs. DEN W 25 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 4 7
+p478
+aVA.C. Green DAL 01/11/1997 DAL vs. DEN W 28 5 2 4 50.0 0 0 - 1 2 50.0 2 7 9 0 2 0 2 2 -6
+p479
+aVOliver Miller DAL 01/11/1997 DAL vs. DEN W 9 3 1 1 100.0 0 0 - 1 4 25.0 0 0 0 1 1 1 1 2 -7
+p480
+aVJamal Mashburn DAL 01/11/1997 DAL vs. DEN W 21 14 4 8 50.0 0 0 - 6 6 100.0 2 1 3 1 1 0 4 3 -3
+p481
+aVJim Jackson DAL 01/11/1997 DAL vs. DEN W 24 5 2 7 28.6 1 4 25.0 0 0 - 1 2 3 4 2 0 2 3 -3
+p482
+aVDerek Harper DAL 01/08/1997 DAL @ PHI W 24 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 8 1 0 0 0 12
+p483
+aVChris Gatling DAL 01/08/1997 DAL @ PHI W 28 22 7 9 77.8 0 1 0.0 8 9 88.9 2 6 8 1 0 1 4 5 12
+p484
+aVA.C. Green DAL 01/08/1997 DAL @ PHI W 28 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 1 0 0 1 3 16
+p485
+aVJamal Mashburn DAL 01/08/1997 DAL @ PHI W 25 9 3 11 27.3 1 4 25.0 2 4 50.0 0 2 2 2 1 0 1 3 10
+p486
+aVEric Montross DAL 01/08/1997 DAL @ PHI W 19 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 0 1 1 3 4
+p487
+aVFred Roberts DAL 01/08/1997 DAL @ PHI W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p488
+aVGeorge McCloud DAL 01/08/1997 DAL @ PHI W 21 23 8 12 66.7 4 7 57.1 3 3 100.0 1 0 1 0 0 0 1 4 11
+p489
+aVMichael Finley DAL 01/08/1997 DAL @ PHI W 37 17 7 11 63.6 0 1 0.0 3 4 75.0 1 8 9 4 1 0 2 1 7
+p490
+aVGreg Dreiling DAL 01/08/1997 DAL @ PHI W 1 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p491
+aVOliver Miller DAL 01/08/1997 DAL @ PHI W 19 4 2 3 66.7 0 0 - 0 0 - 1 7 8 2 0 2 1 4 9
+p492
+aVSam Cassell DAL 01/08/1997 DAL @ PHI W 34 21 7 15 46.7 2 6 33.3 5 6 83.3 2 1 3 5 0 0 3 4 17
+p493
+aVOliver Miller DAL 01/07/1997 DAL @ NYK L 6 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 4 2 -5
+p494
+aVMichael Finley DAL 01/07/1997 DAL @ NYK L 30 4 1 4 25.0 0 1 0.0 2 6 33.3 0 2 2 2 0 0 1 0 -7
+p495
+aVChris Gatling DAL 01/07/1997 DAL @ NYK L 18 16 6 13 46.2 0 0 - 4 5 80.0 3 0 3 0 0 0 5 5 -15
+p496
+aVGreg Dreiling DAL 01/07/1997 DAL @ NYK L 6 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 0 0 1 0 0 3
+p497
+aVJamal Mashburn DAL 01/07/1997 DAL @ NYK L 17 4 0 5 0.0 0 3 0.0 4 6 66.7 1 2 3 4 2 0 0 0 3
+p498
+aVEric Montross DAL 01/07/1997 DAL @ NYK L 21 2 1 4 25.0 0 0 - 0 2 0.0 2 4 6 0 1 0 0 4 -24
+p499
+aVJim Jackson DAL 01/07/1997 DAL @ NYK L 45 20 6 23 26.1 2 7 28.6 6 9 66.7 4 3 7 1 1 0 4 3 -32
+p500
+aVA.C. Green DAL 01/07/1997 DAL @ NYK L 19 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 2 0 0 0 1 -14
+p501
+aVSam Cassell DAL 01/07/1997 DAL @ NYK L 10 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 1 0 -12
+p502
+aVDerek Harper DAL 01/07/1997 DAL @ NYK L 28 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 2 2 0 3 2 -31
+p503
+aVSamaki Walker DAL 01/07/1997 DAL @ NYK L 12 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 1 0 1 0 0
+p504
+aVGeorge McCloud DAL 01/07/1997 DAL @ NYK L 28 5 1 9 11.1 0 4 0.0 3 4 75.0 1 3 4 0 4 0 2 3 -16
+p505
+aVChris Gatling DAL 01/04/1997 DAL vs. POR L 27 24 7 14 50.0 0 0 - 10 16 62.5 2 2 4 0 1 1 1 2 4
+p506
+aVEric Montross DAL 01/04/1997 DAL vs. POR L 23 6 3 8 37.5 0 0 - 0 0 - 4 8 12 0 0 1 1 6 -14
+p507
+aVA.C. Green DAL 01/04/1997 DAL vs. POR L 25 14 6 14 42.9 0 0 - 2 3 66.7 8 4 12 1 0 0 0 3 -11
+p508
+aVJim Jackson DAL 01/04/1997 DAL vs. POR L 31 11 3 9 33.3 1 2 50.0 4 4 100.0 2 3 5 2 1 0 2 2 -10
+p509
+aVMichael Finley DAL 01/04/1997 DAL vs. POR L 16 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 0 -2
+p510
+aVSam Cassell DAL 01/04/1997 DAL vs. POR L 23 12 4 13 30.8 1 3 33.3 3 4 75.0 0 1 1 4 1 1 3 1 1
+p511
+aVGreg Dreiling DAL 01/04/1997 DAL vs. POR L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 9
+p512
+aVOliver Miller DAL 01/04/1997 DAL vs. POR L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 1 0 4 0
+p513
+aVJamal Mashburn DAL 01/04/1997 DAL vs. POR L 17 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 4 2 0 0 0 0
+p514
+aVDerek Harper DAL 01/04/1997 DAL vs. POR L 26 15 7 10 70.0 0 0 - 1 1 100.0 0 1 1 5 0 0 0 0 -3
+p515
+aVGeorge McCloud DAL 01/04/1997 DAL vs. POR L 31 10 4 12 33.3 2 5 40.0 0 0 - 0 2 2 4 1 0 2 2 -4
+p516
+aVEric Montross DAL 01/02/1997 DAL @ CHH L 13 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 4 1
+p517
+aVJim Jackson DAL 01/02/1997 DAL @ CHH L 35 22 10 16 62.5 2 4 50.0 0 0 - 0 2 2 5 2 0 2 5 -18
+p518
+aVMichael Finley DAL 01/02/1997 DAL @ CHH L 25 11 4 9 44.4 1 1 100.0 2 2 100.0 1 0 1 1 0 0 1 3 1
+p519
+aVJamal Mashburn DAL 01/02/1997 DAL @ CHH L 24 4 1 7 14.3 0 2 0.0 2 6 33.3 0 0 0 4 0 0 1 1 -15
+p520
+aVChris Gatling DAL 01/02/1997 DAL @ CHH L 26 22 9 14 64.3 0 0 - 4 6 66.7 5 8 13 1 1 0 3 3 -6
+p521
+aVSamaki Walker DAL 01/02/1997 DAL @ CHH L 12 7 3 3 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 1 1 -5
+p522
+aVDerek Harper DAL 01/02/1997 DAL @ CHH L 36 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 8 0 0 1 0 2
+p523
+aVOliver Miller DAL 01/02/1997 DAL @ CHH L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 1 1 0 3 2 4
+p524
+aVSam Cassell DAL 01/02/1997 DAL @ CHH L 24 18 7 15 46.7 1 6 16.7 3 4 75.0 0 4 4 4 2 1 2 3 0
+p525
+aVA.C. Green DAL 01/02/1997 DAL @ CHH L 30 8 3 6 50.0 1 2 50.0 1 4 25.0 3 6 9 0 0 0 0 1 -14
+p526
+aVChris Gatling DAL 12/28/1996 DAL vs. SEA W 30 11 2 12 16.7 0 0 - 7 9 77.8 6 7 13 1 1 2 2 2 17
+p527
+aVJim Jackson DAL 12/28/1996 DAL vs. SEA W 40 18 6 12 50.0 0 1 0.0 6 6 100.0 0 6 6 5 0 2 2 4 1
+p528
+aVSamaki Walker DAL 12/28/1996 DAL vs. SEA W 4 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 4 2
+p529
+aVDerek Harper DAL 12/28/1996 DAL vs. SEA W 42 24 9 14 64.3 6 8 75.0 0 2 0.0 3 3 6 3 4 0 1 2 5
+p530
+aVGeorge McCloud DAL 12/28/1996 DAL vs. SEA W 30 15 5 12 41.7 1 5 20.0 4 4 100.0 0 0 0 4 2 0 3 3 3
+p531
+aVSam Cassell DAL 12/28/1996 DAL vs. SEA W 13 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 1 1 0 2 2 -2
+p532
+aVJamal Mashburn DAL 12/28/1996 DAL vs. SEA W 17 5 2 4 50.0 1 3 33.3 0 2 0.0 0 3 3 0 0 0 1 2 -10
+p533
+aVEric Montross DAL 12/28/1996 DAL vs. SEA W 17 6 3 4 75.0 0 0 - 0 0 - 0 5 5 2 1 1 0 3 -9
+p534
+aVA.C. Green DAL 12/28/1996 DAL vs. SEA W 28 4 1 5 20.0 0 0 - 2 4 50.0 5 4 9 0 0 0 0 3 12
+p535
+aVMichael Finley DAL 12/28/1996 DAL vs. SEA W 20 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 0 0 0 2 0 6
+p536
+aVJamal Mashburn DAL 12/26/1996 DAL vs. GSW L 24 16 6 10 60.0 4 5 80.0 0 0 - 0 4 4 2 1 0 2 2 15
+p537
+aVJim Jackson DAL 12/26/1996 DAL vs. GSW L 43 15 5 14 35.7 2 4 50.0 3 3 100.0 3 0 3 6 3 0 2 3 -9
+p538
+aVGeorge McCloud DAL 12/26/1996 DAL vs. GSW L 47 22 8 17 47.1 4 8 50.0 2 2 100.0 0 6 6 5 0 0 1 4 -8
+p539
+aVDerek Harper DAL 12/26/1996 DAL vs. GSW L 46 14 6 14 42.9 2 4 50.0 0 0 - 0 3 3 9 0 0 5 1 -3
+p540
+aVEric Montross DAL 12/26/1996 DAL vs. GSW L 27 6 3 7 42.9 0 0 - 0 0 - 5 5 10 0 1 1 3 3 -14
+p541
+aVChris Gatling DAL 12/26/1996 DAL vs. GSW L 35 25 9 15 60.0 0 0 - 7 8 87.5 1 4 5 0 2 0 4 2 10
+p542
+aVGreg Dreiling DAL 12/26/1996 DAL vs. GSW L 5 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 -1
+p543
+aVSamaki Walker DAL 12/26/1996 DAL vs. GSW L 13 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 1 1 0 0 3 -15
+p544
+aVEric Montross DAL 12/22/1996 DAL @ SEA L 22 5 2 5 40.0 0 0 - 1 2 50.0 3 5 8 2 0 1 3 4 -13
+p545
+aVJamal Mashburn DAL 12/22/1996 DAL @ SEA L 45 7 3 8 37.5 1 4 25.0 0 0 - 1 4 5 2 1 0 0 3 -13
+p546
+aVSamaki Walker DAL 12/22/1996 DAL @ SEA L 9 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 3 -5
+p547
+aVGeorge McCloud DAL 12/22/1996 DAL @ SEA L 31 23 7 15 46.7 7 9 77.8 2 2 100.0 0 3 3 1 1 0 5 3 -7
+p548
+aVTony Dumas DAL 12/22/1996 DAL @ SEA L 9 1 0 3 0.0 0 1 0.0 1 4 25.0 0 0 0 0 1 0 0 3 -7
+p549
+aVDerek Harper DAL 12/22/1996 DAL @ SEA L 30 10 4 8 50.0 1 2 50.0 1 1 100.0 0 3 3 8 2 0 3 5 -17
+p550
+aVJim Jackson DAL 12/22/1996 DAL @ SEA L 45 11 4 15 26.7 1 4 25.0 2 2 100.0 2 0 2 3 1 0 2 4 -6
+p551
+aVChris Gatling DAL 12/22/1996 DAL @ SEA L 29 15 5 11 45.5 0 0 - 5 6 83.3 1 8 9 1 0 1 2 3 -4
+p552
+aVLoren Meyer DAL 12/22/1996 DAL @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p553
+aVOliver Miller DAL 12/22/1996 DAL @ SEA L 19 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 2 2 2 3 -1
+p554
+aVJamal Mashburn DAL 12/20/1996 DAL @ POR L 29 6 2 10 20.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 3 -18
+p555
+aVDerek Harper DAL 12/20/1996 DAL @ POR L 38 4 2 7 28.6 0 2 0.0 0 3 0.0 0 2 2 3 3 0 2 2 -30
+p556
+aVGeorge McCloud DAL 12/20/1996 DAL @ POR L 35 15 5 12 41.7 1 3 33.3 4 4 100.0 1 3 4 3 1 0 0 2 -16
+p557
+aVSamaki Walker DAL 12/20/1996 DAL @ POR L 19 4 0 5 0.0 0 0 - 4 6 66.7 1 3 4 1 0 2 3 3 -16
+p558
+aVEric Montross DAL 12/20/1996 DAL @ POR L 17 4 2 4 50.0 0 0 - 0 0 - 2 2 4 2 0 0 1 3 -18
+p559
+aVGreg Dreiling DAL 12/20/1996 DAL @ POR L 4 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 1
+p560
+aVJim Jackson DAL 12/20/1996 DAL @ POR L 32 14 6 12 50.0 1 3 33.3 1 1 100.0 0 5 5 1 0 2 1 2 -25
+p561
+aVTony Dumas DAL 12/20/1996 DAL @ POR L 14 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 4 0 0 1 3 -5
+p562
+aVLoren Meyer DAL 12/20/1996 DAL @ POR L 12 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 1 0 1 1 -5
+p563
+aVChris Gatling DAL 12/20/1996 DAL @ POR L 26 16 4 13 30.8 0 0 - 8 9 88.9 3 2 5 0 0 1 2 2 -10
+p564
+aVOliver Miller DAL 12/20/1996 DAL @ POR L 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -8
+p565
+aVEric Montross DAL 12/19/1996 DAL @ VAN W 23 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -2
+p566
+aVSamaki Walker DAL 12/19/1996 DAL @ VAN W 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -6
+p567
+aVGeorge McCloud DAL 12/19/1996 DAL @ VAN W 40 21 8 16 50.0 3 8 37.5 2 3 66.7 2 5 7 6 2 0 0 3 4
+p568
+aVDerek Harper DAL 12/19/1996 DAL @ VAN W 42 22 9 14 64.3 3 4 75.0 1 1 100.0 0 1 1 11 3 0 3 1 5
+p569
+aVJamal Mashburn DAL 12/19/1996 DAL @ VAN W 27 10 4 12 33.3 1 5 20.0 1 2 50.0 2 2 4 2 1 1 1 1 12
+p570
+aVJim Jackson DAL 12/19/1996 DAL @ VAN W 40 19 6 9 66.7 2 3 66.7 5 6 83.3 2 2 4 2 1 0 5 4 -5
+p571
+aVChris Gatling DAL 12/19/1996 DAL @ VAN W 30 25 11 17 64.7 0 0 - 3 4 75.0 4 6 10 1 0 1 2 2 18
+p572
+aVOliver Miller DAL 12/19/1996 DAL @ VAN W 25 2 1 3 33.3 0 0 - 0 0 - 3 5 8 1 0 2 1 4 9
+p573
+aVSamaki Walker DAL 12/17/1996 DAL vs. ATL L 20 10 5 12 41.7 0 0 - 0 0 - 4 1 5 1 1 0 2 2 -6
+p574
+aVOliver Miller DAL 12/17/1996 DAL vs. ATL L 19 4 2 2 100.0 0 0 - 0 1 0.0 0 3 3 1 1 0 2 2 -16
+p575
+aVGreg Dreiling DAL 12/17/1996 DAL vs. ATL L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p576
+aVTony Dumas DAL 12/17/1996 DAL vs. ATL L 29 2 0 4 0.0 0 2 0.0 2 2 100.0 0 3 3 2 0 0 4 5 -23
+p577
+aVJamal Mashburn DAL 12/17/1996 DAL vs. ATL L 31 11 5 14 35.7 1 3 33.3 0 0 - 0 4 4 1 0 0 1 0 -24
+p578
+aVJim Jackson DAL 12/17/1996 DAL vs. ATL L 40 17 6 17 35.3 2 5 40.0 3 5 60.0 4 2 6 7 3 1 2 1 -29
+p579
+aVEric Montross DAL 12/17/1996 DAL vs. ATL L 24 0 0 6 0.0 0 0 - 0 2 0.0 1 6 7 2 0 0 0 2 -17
+p580
+aVLoren Meyer DAL 12/17/1996 DAL vs. ATL L 11 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 2 -10
+p581
+aVGeorge McCloud DAL 12/17/1996 DAL vs. ATL L 36 20 8 15 53.3 2 5 40.0 2 2 100.0 2 5 7 1 0 0 1 2 -27
+p582
+aVJason Kidd DAL 12/17/1996 DAL vs. ATL L 22 6 2 6 33.3 1 3 33.3 1 2 50.0 1 0 1 3 0 0 2 1 -19
+p583
+aVChris Gatling DAL 12/17/1996 DAL vs. ATL L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 -6
+p584
+aVChris Gatling DAL 12/14/1996 DAL @ SAS L 25 18 7 15 46.7 0 0 - 4 5 80.0 0 2 2 1 0 1 3 2 1
+p585
+aVJim Jackson DAL 12/14/1996 DAL @ SAS L 32 10 4 7 57.1 2 2 100.0 0 0 - 0 4 4 7 0 0 1 2 -2
+p586
+aVEric Montross DAL 12/14/1996 DAL @ SAS L 18 6 3 4 75.0 0 0 - 0 0 - 1 4 5 2 1 0 1 5 5
+p587
+aVDerek Harper DAL 12/14/1996 DAL @ SAS L 22 9 4 6 66.7 1 3 33.3 0 0 - 3 4 7 2 0 0 5 1 3
+p588
+aVOliver Miller DAL 12/14/1996 DAL @ SAS L 30 11 5 8 62.5 0 0 - 1 2 50.0 4 7 11 3 0 1 1 3 -9
+p589
+aVJason Kidd DAL 12/14/1996 DAL @ SAS L 42 10 4 8 50.0 1 2 50.0 1 2 50.0 0 2 2 14 1 0 3 2 -3
+p590
+aVSamaki Walker DAL 12/14/1996 DAL @ SAS L 18 3 1 9 11.1 0 0 - 1 2 50.0 5 3 8 0 2 1 1 1 -3
+p591
+aVJamal Mashburn DAL 12/14/1996 DAL @ SAS L 22 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 0 1 0 0 2 8
+p592
+aVGeorge McCloud DAL 12/14/1996 DAL @ SAS L 32 28 9 15 60.0 6 10 60.0 4 4 100.0 0 3 3 2 1 0 1 3 -5
+p593
+aVChris Gatling DAL 12/12/1996 DAL @ SAC L 23 21 10 17 58.8 0 0 - 1 3 33.3 4 5 9 1 0 0 2 0 -8
+p594
+aVJamal Mashburn DAL 12/12/1996 DAL @ SAC L 24 11 4 14 28.6 0 5 0.0 3 4 75.0 0 7 7 2 1 0 1 3 -2
+p595
+aVGeorge McCloud DAL 12/12/1996 DAL @ SAC L 24 17 7 11 63.6 0 3 0.0 3 3 100.0 0 0 0 0 0 0 0 2 -5
+p596
+aVJim Jackson DAL 12/12/1996 DAL @ SAC L 36 8 3 6 50.0 0 1 0.0 2 2 100.0 1 1 2 3 0 0 2 2 -3
+p597
+aVTony Dumas DAL 12/12/1996 DAL @ SAC L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 1 1 -4
+p598
+aVJason Kidd DAL 12/12/1996 DAL @ SAC L 32 9 4 10 40.0 1 3 33.3 0 0 - 1 1 2 9 2 0 3 4 0
+p599
+aVEric Montross DAL 12/12/1996 DAL @ SAC L 24 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 2 2 -8
+p600
+aVSamaki Walker DAL 12/12/1996 DAL @ SAC L 25 9 4 6 66.7 0 0 - 1 2 50.0 1 5 6 3 1 0 1 1 1
+p601
+aVOliver Miller DAL 12/12/1996 DAL @ SAC L 24 7 3 5 60.0 0 0 - 1 1 100.0 1 0 1 1 0 1 1 3 1
+p602
+aVDerek Harper DAL 12/12/1996 DAL @ SAC L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 2 -7
+p603
+aVEric Montross DAL 12/10/1996 DAL @ LAC W 18 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 5
+p604
+aVDerek Harper DAL 12/10/1996 DAL @ LAC W 20 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 2 1 0 0 2 6
+p605
+aVJim Jackson DAL 12/10/1996 DAL @ LAC W 35 10 4 11 36.4 0 2 0.0 2 2 100.0 3 5 8 3 1 1 0 1 3
+p606
+aVJason Kidd DAL 12/10/1996 DAL @ LAC W 34 18 7 14 50.0 2 5 40.0 2 4 50.0 0 1 1 5 2 1 5 1 -6
+p607
+aVOliver Miller DAL 12/10/1996 DAL @ LAC W 26 4 2 4 50.0 0 0 - 0 0 - 2 5 7 1 1 1 2 4 0
+p608
+aVChris Gatling DAL 12/10/1996 DAL @ LAC W 27 30 9 13 69.2 0 0 - 12 15 80.0 3 4 7 0 2 1 2 2 1
+p609
+aVJamal Mashburn DAL 12/10/1996 DAL @ LAC W 20 8 3 9 33.3 0 1 0.0 2 4 50.0 0 1 1 0 3 0 1 1 4
+p610
+aVSamaki Walker DAL 12/10/1996 DAL @ LAC W 19 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 1 1 0 1 1 -1
+p611
+aVTony Dumas DAL 12/10/1996 DAL @ LAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p612
+aVGeorge McCloud DAL 12/10/1996 DAL @ LAC W 33 17 7 13 53.8 2 5 40.0 1 2 50.0 2 5 7 2 2 0 2 3 6
+p613
+aVSamaki Walker DAL 12/07/1996 DAL vs. VAN W 24 11 5 11 45.5 0 0 - 1 4 25.0 3 4 7 1 0 3 3 2 15
+p614
+aVDerek Harper DAL 12/07/1996 DAL vs. VAN W 27 20 8 11 72.7 4 5 80.0 0 0 - 1 1 2 2 0 0 1 3 1
+p615
+aVGreg Dreiling DAL 12/07/1996 DAL vs. VAN W 5 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 2 1
+p616
+aVTony Dumas DAL 12/07/1996 DAL vs. VAN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -4
+p617
+aVChris Gatling DAL 12/07/1996 DAL vs. VAN W 24 15 6 9 66.7 0 0 - 3 6 50.0 2 5 7 1 0 1 5 2 -4
+p618
+aVJason Kidd DAL 12/07/1996 DAL vs. VAN W 38 10 3 10 30.0 0 2 0.0 4 4 100.0 0 5 5 9 3 0 5 1 10
+p619
+aVJim Jackson DAL 12/07/1996 DAL vs. VAN W 35 16 7 10 70.0 1 2 50.0 1 1 100.0 1 6 7 6 3 1 3 2 11
+p620
+aVGeorge McCloud DAL 12/07/1996 DAL vs. VAN W 39 9 4 13 30.8 1 5 20.0 0 0 - 2 4 6 4 0 0 0 4 17
+p621
+aVEric Montross DAL 12/07/1996 DAL vs. VAN W 16 2 1 4 25.0 0 0 - 0 0 - 2 6 8 0 0 1 0 3 -4
+p622
+aVOliver Miller DAL 12/07/1996 DAL vs. VAN W 29 10 5 7 71.4 0 0 - 0 0 - 1 9 10 4 3 0 0 3 12
+p623
+aVChris Gatling DAL 12/05/1996 DAL vs. PHI W 29 24 10 18 55.6 0 0 - 4 5 80.0 2 4 6 0 2 1 3 2 5
+p624
+aVGeorge McCloud DAL 12/05/1996 DAL vs. PHI W 33 3 1 13 7.7 1 7 14.3 0 0 - 3 2 5 2 2 1 1 2 2
+p625
+aVOliver Miller DAL 12/05/1996 DAL vs. PHI W 24 8 4 6 66.7 0 0 - 0 0 - 2 3 5 4 1 3 1 5 7
+p626
+aVEric Montross DAL 12/05/1996 DAL vs. PHI W 23 6 3 7 42.9 0 0 - 0 0 - 4 4 8 1 0 1 2 3 -4
+p627
+aVDerek Harper DAL 12/05/1996 DAL vs. PHI W 32 20 8 16 50.0 1 4 25.0 3 4 75.0 0 3 3 2 2 1 2 3 4
+p628
+aVJason Kidd DAL 12/05/1996 DAL vs. PHI W 43 11 2 7 28.6 2 4 50.0 5 8 62.5 0 3 3 14 5 2 0 1 2
+p629
+aVJim Jackson DAL 12/05/1996 DAL vs. PHI W 37 21 6 11 54.5 1 3 33.3 8 10 80.0 1 5 6 6 1 0 0 3 5
+p630
+aVSamaki Walker DAL 12/05/1996 DAL vs. PHI W 19 13 5 12 41.7 0 0 - 3 5 60.0 2 4 6 0 0 2 0 3 -1
+p631
+aVOliver Miller DAL 12/04/1996 DAL @ MIA L 23 4 2 2 100.0 0 0 - 0 0 - 2 7 9 0 0 1 2 4 -5
+p632
+aVTony Dumas DAL 12/04/1996 DAL @ MIA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 3
+p633
+aVDerek Harper DAL 12/04/1996 DAL @ MIA L 24 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -2
+p634
+aVGeorge McCloud DAL 12/04/1996 DAL @ MIA L 36 13 5 12 41.7 0 3 0.0 3 5 60.0 0 3 3 2 1 0 1 1 -23
+p635
+aVJim Jackson DAL 12/04/1996 DAL @ MIA L 39 14 7 15 46.7 0 2 0.0 0 1 0.0 5 3 8 6 0 1 5 1 -22
+p636
+aVFred Roberts DAL 12/04/1996 DAL @ MIA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p637
+aVEric Montross DAL 12/04/1996 DAL @ MIA L 24 6 3 9 33.3 0 0 - 0 0 - 3 3 6 0 0 2 1 1 -21
+p638
+aVJason Kidd DAL 12/04/1996 DAL @ MIA L 36 12 4 10 40.0 2 4 50.0 2 2 100.0 1 0 1 7 3 0 4 1 -20
+p639
+aVLoren Meyer DAL 12/04/1996 DAL @ MIA L 14 2 1 6 16.7 0 0 - 0 0 - 2 2 4 1 0 0 1 3 -11
+p640
+aVChris Gatling DAL 12/04/1996 DAL @ MIA L 20 16 7 15 46.7 0 0 - 2 2 100.0 1 2 3 0 2 0 3 2 -8
+p641
+aVSamaki Walker DAL 12/04/1996 DAL @ MIA L 14 6 2 4 50.0 0 0 - 2 4 50.0 1 3 4 0 0 1 1 1 -6
+p642
+aVGreg Dreiling DAL 12/04/1996 DAL @ MIA L 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p643
+aVDerek Harper DAL 12/02/1996 DAL @ ORL W 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 2 -1
+p644
+aVGeorge McCloud DAL 12/02/1996 DAL @ ORL W 45 21 9 23 39.1 3 10 30.0 0 0 - 1 4 5 1 3 0 1 5 14
+p645
+aVSamaki Walker DAL 12/02/1996 DAL @ ORL W 9 10 4 5 80.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 0
+p646
+aVJason Kidd DAL 12/02/1996 DAL @ ORL W 49 8 2 4 50.0 1 1 100.0 3 4 75.0 0 7 7 18 2 0 4 5 3
+p647
+aVChris Gatling DAL 12/02/1996 DAL @ ORL W 35 25 7 16 43.8 0 0 - 11 13 84.6 3 11 14 2 0 0 4 4 10
+p648
+aVJim Jackson DAL 12/02/1996 DAL @ ORL W 49 17 8 19 42.1 1 4 25.0 0 0 - 3 2 5 4 3 1 1 3 3
+p649
+aVOliver Miller DAL 12/02/1996 DAL @ ORL W 18 13 6 6 100.0 0 0 - 1 3 33.3 1 1 2 2 3 3 1 3 4
+p650
+aVEric Montross DAL 12/02/1996 DAL @ ORL W 30 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 0 0 3 1 5 0
+p651
+aVLoren Meyer DAL 12/02/1996 DAL @ ORL W 14 6 3 6 50.0 0 0 - 0 0 - 1 4 5 0 0 1 1 2 -3
+p652
+aVLoren Meyer DAL 11/29/1996 DAL vs. CHI L 15 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 0 1 0 1 3 0
+p653
+aVChris Gatling DAL 11/29/1996 DAL vs. CHI L 30 35 14 22 63.6 0 0 - 7 11 63.6 4 7 11 2 0 0 2 3 -13
+p654
+aVJason Kidd DAL 11/29/1996 DAL vs. CHI L 43 6 2 9 22.2 0 1 0.0 2 4 50.0 3 4 7 17 3 0 0 1 -23
+p655
+aVOliver Miller DAL 11/29/1996 DAL vs. CHI L 20 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 2 0 1 0 4 0
+p656
+aVGeorge McCloud DAL 11/29/1996 DAL vs. CHI L 35 17 7 18 38.9 1 5 20.0 2 2 100.0 2 2 4 3 1 1 1 3 -6
+p657
+aVJim Jackson DAL 11/29/1996 DAL vs. CHI L 42 21 8 17 47.1 0 3 0.0 5 6 83.3 2 7 9 2 2 1 3 5 -24
+p658
+aVEric Montross DAL 11/29/1996 DAL vs. CHI L 18 3 1 4 25.0 0 0 - 1 1 100.0 3 3 6 0 0 0 1 1 -6
+p659
+aVTony Dumas DAL 11/29/1996 DAL vs. CHI L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -9
+p660
+aVDerek Harper DAL 11/29/1996 DAL vs. CHI L 30 6 2 8 25.0 0 3 0.0 2 2 100.0 1 0 1 3 3 0 3 0 -14
+p661
+aVChris Gatling DAL 11/26/1996 DAL vs. SAS W 35 26 9 13 69.2 0 0 - 8 11 72.7 0 6 6 1 2 4 1 2 0
+p662
+aVEric Montross DAL 11/26/1996 DAL vs. SAS W 21 8 4 6 66.7 0 0 - 0 0 - 1 4 5 1 0 2 1 3 5
+p663
+aVJason Kidd DAL 11/26/1996 DAL vs. SAS W 44 12 4 8 50.0 0 1 0.0 4 4 100.0 2 1 3 10 3 1 1 1 10
+p664
+aVLoren Meyer DAL 11/26/1996 DAL vs. SAS W 7 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 6
+p665
+aVJim Jackson DAL 11/26/1996 DAL vs. SAS W 44 21 7 14 50.0 3 5 60.0 4 4 100.0 1 4 5 8 0 0 2 3 0
+p666
+aVGeorge McCloud DAL 11/26/1996 DAL vs. SAS W 40 22 7 13 53.8 5 9 55.6 3 4 75.0 0 3 3 3 0 0 2 5 5
+p667
+aVOliver Miller DAL 11/26/1996 DAL vs. SAS W 13 0 0 1 0.0 0 0 - 0 0 - 3 1 4 0 1 0 2 2 -1
+p668
+aVDerek Harper DAL 11/26/1996 DAL vs. SAS W 36 10 4 9 44.4 0 2 0.0 2 2 100.0 1 1 2 6 1 0 1 1 -5
+p669
+aVJason Kidd DAL 11/24/1996 DAL @ BOS L 32 3 1 6 16.7 0 2 0.0 1 2 50.0 1 2 3 8 1 0 4 3 -5
+p670
+aVTony Dumas DAL 11/24/1996 DAL @ BOS L 19 7 3 7 42.9 0 2 0.0 1 1 100.0 0 1 1 3 3 0 1 5 3
+p671
+aVSamaki Walker DAL 11/24/1996 DAL @ BOS L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p672
+aVDerek Harper DAL 11/24/1996 DAL @ BOS L 22 10 5 7 71.4 0 1 0.0 0 0 - 0 0 0 1 0 0 3 1 -12
+p673
+aVGeorge McCloud DAL 11/24/1996 DAL @ BOS L 30 7 2 10 20.0 1 3 33.3 2 2 100.0 0 1 1 2 2 0 0 2 -24
+p674
+aVEric Montross DAL 11/24/1996 DAL @ BOS L 20 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -10
+p675
+aVOliver Miller DAL 11/24/1996 DAL @ BOS L 23 6 3 6 50.0 0 0 - 0 2 0.0 3 5 8 0 2 1 3 4 6
+p676
+aVLoren Meyer DAL 11/24/1996 DAL @ BOS L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -10
+p677
+aVJim Jackson DAL 11/24/1996 DAL @ BOS L 43 23 8 16 50.0 0 2 0.0 7 13 53.8 1 6 7 3 2 1 4 3 -11
+p678
+aVChris Gatling DAL 11/24/1996 DAL @ BOS L 33 23 7 15 46.7 0 0 - 9 10 90.0 4 7 11 0 0 1 3 6 0
+p679
+aVJim Jackson DAL 11/23/1996 DAL @ NJN L 38 11 5 8 62.5 1 3 33.3 0 0 - 0 2 2 2 2 0 2 0 -24
+p680
+aVFred Roberts DAL 11/23/1996 DAL @ NJN L 4 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 4
+p681
+aVGeorge McCloud DAL 11/23/1996 DAL @ NJN L 25 13 4 10 40.0 1 4 25.0 4 4 100.0 1 2 3 2 1 0 2 1 -15
+p682
+aVJason Kidd DAL 11/23/1996 DAL @ NJN L 32 10 5 9 55.6 0 1 0.0 0 0 - 2 5 7 12 3 0 6 1 -11
+p683
+aVEric Montross DAL 11/23/1996 DAL @ NJN L 23 6 3 6 50.0 0 0 - 0 1 0.0 1 2 3 0 1 0 1 4 -7
+p684
+aVTony Dumas DAL 11/23/1996 DAL @ NJN L 19 7 2 5 40.0 0 2 0.0 3 6 50.0 0 1 1 1 1 0 0 2 -11
+p685
+aVChris Gatling DAL 11/23/1996 DAL @ NJN L 22 11 4 10 40.0 0 0 - 3 7 42.9 1 2 3 0 2 1 2 4 -15
+p686
+aVSamaki Walker DAL 11/23/1996 DAL @ NJN L 12 7 3 7 42.9 0 0 - 1 2 50.0 1 3 4 0 0 1 0 0 2
+p687
+aVLoren Meyer DAL 11/23/1996 DAL @ NJN L 22 11 4 11 36.4 0 0 - 3 4 75.0 4 5 9 0 1 0 1 1 -6
+p688
+aVDerek Harper DAL 11/23/1996 DAL @ NJN L 30 8 3 8 37.5 0 3 0.0 2 2 100.0 0 1 1 6 0 0 1 2 -16
+p689
+aVOliver Miller DAL 11/23/1996 DAL @ NJN L 12 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 2 -16
+p690
+aVDerek Harper DAL 11/21/1996 DAL vs. LAC W 24 12 5 10 50.0 0 0 - 2 2 100.0 0 2 2 3 0 0 2 1 6
+p691
+aVJason Kidd DAL 11/21/1996 DAL vs. LAC W 37 11 3 13 23.1 0 3 0.0 5 6 83.3 1 2 3 9 6 0 1 4 2
+p692
+aVFred Roberts DAL 11/21/1996 DAL vs. LAC W 1 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p693
+aVLoren Meyer DAL 11/21/1996 DAL vs. LAC W 17 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 1 1 2 3
+p694
+aVJim Jackson DAL 11/21/1996 DAL vs. LAC W 43 23 5 10 50.0 3 4 75.0 10 14 71.4 2 1 3 4 0 0 1 2 8
+p695
+aVChris Gatling DAL 11/21/1996 DAL vs. LAC W 30 27 8 11 72.7 0 0 - 11 15 73.3 2 7 9 0 1 0 2 1 11
+p696
+aVGeorge McCloud DAL 11/21/1996 DAL vs. LAC W 36 12 5 11 45.5 2 4 50.0 0 0 - 0 5 5 3 0 1 4 1 23
+p697
+aVSamaki Walker DAL 11/21/1996 DAL vs. LAC W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -1
+p698
+aVEric Montross DAL 11/21/1996 DAL vs. LAC W 24 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 0 1 3 8
+p699
+aVJamal Mashburn DAL 11/21/1996 DAL vs. LAC W 4 3 1 4 25.0 0 0 - 1 2 50.0 3 0 3 0 0 0 0 0 -6
+p700
+aVOliver Miller DAL 11/21/1996 DAL vs. LAC W 21 4 2 3 66.7 0 0 - 0 0 - 3 5 8 3 1 1 0 5 4
+p701
+aVJim Jackson DAL 11/19/1996 DAL @ MIL L 35 14 4 12 33.3 2 5 40.0 4 6 66.7 1 3 4 2 2 0 1 5 -1
+p702
+aVSamaki Walker DAL 11/19/1996 DAL @ MIL L 11 2 1 1 100.0 0 0 - 0 2 0.0 1 3 4 0 0 0 2 4 0
+p703
+aVLoren Meyer DAL 11/19/1996 DAL @ MIL L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 4 -7
+p704
+aVEric Montross DAL 11/19/1996 DAL @ MIL L 20 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 1 2 5 -6
+p705
+aVFred Roberts DAL 11/19/1996 DAL @ MIL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p706
+aVDerek Harper DAL 11/19/1996 DAL @ MIL L 26 15 6 10 60.0 1 3 33.3 2 2 100.0 0 1 1 1 1 0 3 3 -5
+p707
+aVJamal Mashburn DAL 11/19/1996 DAL @ MIL L 37 16 4 10 40.0 2 6 33.3 6 8 75.0 0 4 4 2 1 0 5 2 -1
+p708
+aVOliver Miller DAL 11/19/1996 DAL @ MIL L 27 8 3 5 60.0 0 0 - 2 4 50.0 2 6 8 0 1 0 0 2 5
+p709
+aVJason Kidd DAL 11/19/1996 DAL @ MIL L 43 25 9 17 52.9 2 4 50.0 5 8 62.5 7 6 13 8 2 0 3 3 -3
+p710
+aVGeorge McCloud DAL 11/19/1996 DAL @ MIL L 24 15 5 10 50.0 3 4 75.0 2 2 100.0 0 5 5 3 1 0 3 3 2
+p711
+aVEric Montross DAL 11/16/1996 DAL vs. UTA L 23 4 2 5 40.0 0 0 - 0 0 - 1 6 7 0 0 0 1 2 -7
+p712
+aVTony Dumas DAL 11/16/1996 DAL vs. UTA L 8 6 1 3 33.3 0 1 0.0 4 4 100.0 0 0 0 0 0 0 1 0 -7
+p713
+aVJim Jackson DAL 11/16/1996 DAL vs. UTA L 23 14 6 11 54.5 0 2 0.0 2 3 66.7 0 2 2 0 0 0 1 3 -21
+p714
+aVLoren Meyer DAL 11/16/1996 DAL vs. UTA L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -12
+p715
+aVDerek Harper DAL 11/16/1996 DAL vs. UTA L 23 12 4 10 40.0 2 4 50.0 2 4 50.0 0 1 1 7 1 0 2 4 21
+p716
+aVChris Gatling DAL 11/16/1996 DAL vs. UTA L 35 23 10 18 55.6 0 1 0.0 3 6 50.0 6 14 20 0 0 1 6 4 11
+p717
+aVJamal Mashburn DAL 11/16/1996 DAL vs. UTA L 21 8 3 11 27.3 1 4 25.0 1 2 50.0 1 1 2 0 0 0 2 2 -6
+p718
+aVGeorge McCloud DAL 11/16/1996 DAL vs. UTA L 27 10 3 8 37.5 3 4 75.0 1 2 50.0 1 1 2 2 2 0 0 2 5
+p719
+aVJason Kidd DAL 11/16/1996 DAL vs. UTA L 42 4 1 9 11.1 0 4 0.0 2 4 50.0 3 5 8 7 1 0 1 2 2
+p720
+aVOliver Miller DAL 11/16/1996 DAL vs. UTA L 25 6 2 2 100.0 0 0 - 2 2 100.0 2 4 6 0 2 0 3 6 9
+p721
+aVJamal Mashburn DAL 11/14/1996 DAL @ MIN L 38 4 0 7 0.0 0 4 0.0 4 8 50.0 2 5 7 8 0 1 1 1 -12
+p722
+aVEric Montross DAL 11/14/1996 DAL @ MIN L 26 12 6 8 75.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -9
+p723
+aVJason Kidd DAL 11/14/1996 DAL @ MIN L 37 16 5 15 33.3 2 3 66.7 4 6 66.7 2 2 4 5 3 0 6 2 -13
+p724
+aVGeorge McCloud DAL 11/14/1996 DAL @ MIN L 28 5 2 7 28.6 0 2 0.0 1 3 33.3 0 3 3 4 2 0 0 6 -1
+p725
+aVLoren Meyer DAL 11/14/1996 DAL @ MIN L 8 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 3 -14
+p726
+aVChris Gatling DAL 11/14/1996 DAL @ MIN L 28 26 9 17 52.9 0 0 - 8 11 72.7 7 7 14 1 2 0 4 4 5
+p727
+aVDerek Harper DAL 11/14/1996 DAL @ MIN L 18 6 3 8 37.5 0 2 0.0 0 0 - 0 1 1 2 0 1 1 4 -2
+p728
+aVJim Jackson DAL 11/14/1996 DAL @ MIN L 39 15 5 15 33.3 1 2 50.0 4 5 80.0 2 6 8 5 2 0 2 0 -11
+p729
+aVOliver Miller DAL 11/14/1996 DAL @ MIN L 14 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 2 3 3 1
+p730
+aVTony Dumas DAL 11/14/1996 DAL @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 6
+p731
+aVJason Kidd DAL 11/12/1996 DAL vs. IND W 26 6 2 6 33.3 1 4 25.0 1 2 50.0 2 2 4 11 0 1 1 0 14
+p732
+aVDerek Harper DAL 11/12/1996 DAL vs. IND W 22 17 8 11 72.7 0 1 0.0 1 3 33.3 0 1 1 4 0 0 1 3 7
+p733
+aVSamaki Walker DAL 11/12/1996 DAL vs. IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -4
+p734
+aVJim Jackson DAL 11/12/1996 DAL vs. IND W 27 16 5 10 50.0 2 4 50.0 4 4 100.0 0 2 2 2 1 1 2 2 5
+p735
+aVJamal Mashburn DAL 11/12/1996 DAL vs. IND W 24 10 4 11 36.4 1 4 25.0 1 3 33.3 3 3 6 2 0 1 3 3 10
+p736
+aVLoren Meyer DAL 11/12/1996 DAL vs. IND W 23 8 4 8 50.0 0 0 - 0 0 - 1 5 6 0 1 1 2 2 23
+p737
+aVOliver Miller DAL 11/12/1996 DAL vs. IND W 24 4 2 4 50.0 0 0 - 0 0 - 2 9 11 2 1 2 2 2 21
+p738
+aVTony Dumas DAL 11/12/1996 DAL vs. IND W 21 5 2 8 25.0 0 2 0.0 1 2 50.0 2 1 3 6 0 0 1 3 16
+p739
+aVChris Gatling DAL 11/12/1996 DAL vs. IND W 22 15 7 11 63.6 0 0 - 1 1 100.0 2 4 6 0 4 1 2 3 2
+p740
+aVFred Roberts DAL 11/12/1996 DAL vs. IND W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p741
+aVEric Montross DAL 11/12/1996 DAL vs. IND W 22 6 3 5 60.0 0 0 - 0 0 - 1 6 7 0 0 3 1 5 -6
+p742
+aVGeorge McCloud DAL 11/12/1996 DAL vs. IND W 23 14 5 9 55.6 4 6 66.7 0 0 - 1 2 3 2 0 1 3 1 20
+p743
+aVOliver Miller DAL 11/09/1996 DAL vs. MIA L 26 8 3 9 33.3 0 0 - 2 2 100.0 4 6 10 1 0 2 2 5 1
+p744
+aVEric Montross DAL 11/09/1996 DAL vs. MIA L 19 0 0 2 0.0 0 0 - 0 0 - 2 4 6 1 0 2 2 6 -4
+p745
+aVJason Kidd DAL 11/09/1996 DAL vs. MIA L 31 9 3 6 50.0 1 2 50.0 2 3 66.7 1 4 5 8 0 1 4 3 -19
+p746
+aVJim Jackson DAL 11/09/1996 DAL vs. MIA L 31 8 4 10 40.0 0 1 0.0 0 1 0.0 2 3 5 2 0 0 2 2 -20
+p747
+aVLoren Meyer DAL 11/09/1996 DAL vs. MIA L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 3 5 -12
+p748
+aVFred Roberts DAL 11/09/1996 DAL vs. MIA L 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 2 2 -4
+p749
+aVTony Dumas DAL 11/09/1996 DAL vs. MIA L 17 6 2 6 33.3 1 2 50.0 1 2 50.0 0 0 0 0 2 0 0 0 13
+p750
+aVChris Gatling DAL 11/09/1996 DAL vs. MIA L 33 17 7 12 58.3 0 0 - 3 7 42.9 3 8 11 0 3 0 2 2 7
+p751
+aVDerek Harper DAL 11/09/1996 DAL vs. MIA L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 2 12
+p752
+aVJamal Mashburn DAL 11/09/1996 DAL vs. MIA L 31 19 7 14 50.0 4 8 50.0 1 1 100.0 0 1 1 3 0 0 2 1 11
+p753
+aVGeorge McCloud DAL 11/09/1996 DAL vs. MIA L 20 14 5 9 55.6 3 6 50.0 1 2 50.0 0 3 3 2 2 0 3 0 -20
+p754
+aVDerek Harper DAL 11/06/1996 DAL @ DET L 19 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 2 0 2 1 -18
+p755
+aVFred Roberts DAL 11/06/1996 DAL @ DET L 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 4
+p756
+aVOliver Miller DAL 11/06/1996 DAL @ DET L 14 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 2 0 0 1 3 -10
+p757
+aVGeorge McCloud DAL 11/06/1996 DAL @ DET L 31 11 4 8 50.0 0 4 0.0 3 4 75.0 2 6 8 2 2 0 0 1 -13
+p758
+aVJim Jackson DAL 11/06/1996 DAL @ DET L 32 10 4 12 33.3 2 6 33.3 0 0 - 0 3 3 4 2 0 2 3 -9
+p759
+aVEric Montross DAL 11/06/1996 DAL @ DET L 22 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 2 0 2 1 3 1
+p760
+aVJamal Mashburn DAL 11/06/1996 DAL @ DET L 21 14 5 12 41.7 4 8 50.0 0 0 - 0 2 2 1 0 0 0 2 -7
+p761
+aVJason Kidd DAL 11/06/1996 DAL @ DET L 30 12 4 9 44.4 2 4 50.0 2 2 100.0 0 0 0 3 0 0 3 0 -15
+p762
+aVChris Gatling DAL 11/06/1996 DAL @ DET L 28 12 6 13 46.2 0 0 - 0 0 - 2 3 5 0 0 0 1 3 -26
+p763
+aVErick Strickland DAL 11/06/1996 DAL @ DET L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 3 -2
+p764
+aVTony Dumas DAL 11/06/1996 DAL @ DET L 12 15 7 10 70.0 1 2 50.0 0 0 - 1 1 2 1 1 0 0 1 -2
+p765
+aVLoren Meyer DAL 11/06/1996 DAL @ DET L 15 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 1 0 0 1 2 2
+p766
+aVChris Gatling DAL 11/05/1996 DAL @ TOR L 32 22 6 14 42.9 0 0 - 10 14 71.4 6 5 11 2 1 0 1 1 -8
+p767
+aVJamal Mashburn DAL 11/05/1996 DAL @ TOR L 24 11 5 9 55.6 0 1 0.0 1 2 50.0 1 2 3 2 2 0 3 3 -8
+p768
+aVTony Dumas DAL 11/05/1996 DAL @ TOR L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 3 1
+p769
+aVJason Kidd DAL 11/05/1996 DAL @ TOR L 37 8 3 8 37.5 2 5 40.0 0 2 0.0 2 4 6 5 2 1 3 2 -4
+p770
+aVEric Montross DAL 11/05/1996 DAL @ TOR L 18 2 1 3 33.3 0 0 - 0 0 - 1 2 3 3 0 0 0 3 1
+p771
+aVOliver Miller DAL 11/05/1996 DAL @ TOR L 30 4 2 4 50.0 0 0 - 0 0 - 5 2 7 3 0 2 2 3 -5
+p772
+aVLoren Meyer DAL 11/05/1996 DAL @ TOR L 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 1 3 4
+p773
+aVDerek Harper DAL 11/05/1996 DAL @ TOR L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 0 2 -5
+p774
+aVFred Roberts DAL 11/05/1996 DAL @ TOR L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -1
+p775
+aVGeorge McCloud DAL 11/05/1996 DAL @ TOR L 21 20 8 16 50.0 4 7 57.1 0 0 - 0 2 2 1 2 0 1 4 5
+p776
+aVJim Jackson DAL 11/05/1996 DAL @ TOR L 35 20 5 18 27.8 1 5 20.0 9 12 75.0 1 5 6 2 0 0 1 4 0
+p777
+aVErick Strickland DAL 11/02/1996 DAL vs. SAC L 3 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 2 4
+p778
+aVJamal Mashburn DAL 11/02/1996 DAL vs. SAC L 18 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 2 1 0 0 1 -11
+p779
+aVEric Montross DAL 11/02/1996 DAL vs. SAC L 19 4 2 3 66.7 0 0 - 0 3 0.0 1 3 4 0 0 0 2 4 -12
+p780
+aVTony Dumas DAL 11/02/1996 DAL vs. SAC L 19 13 6 10 60.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 4 3
+p781
+aVOliver Miller DAL 11/02/1996 DAL vs. SAC L 24 2 0 0 - 0 0 - 2 6 33.3 6 5 11 3 1 2 1 4 -1
+p782
+aVJason Kidd DAL 11/02/1996 DAL vs. SAC L 30 4 2 8 25.0 0 3 0.0 0 0 - 0 0 0 9 1 1 4 3 -7
+p783
+aVLoren Meyer DAL 11/02/1996 DAL vs. SAC L 16 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 0 3 3 -2
+p784
+aVGeorge McCloud DAL 11/02/1996 DAL vs. SAC L 34 17 4 11 36.4 2 5 40.0 7 7 100.0 0 2 2 2 4 0 0 2 0
+p785
+aVChris Gatling DAL 11/02/1996 DAL vs. SAC L 19 4 2 8 25.0 0 0 - 0 0 - 2 2 4 0 0 1 4 3 -25
+p786
+aVJim Jackson DAL 11/02/1996 DAL vs. SAC L 40 26 8 16 50.0 1 3 33.3 9 10 90.0 4 6 10 5 1 0 3 4 -8
+p787
+aVDerek Harper DAL 11/02/1996 DAL vs. SAC L 18 10 4 6 66.7 1 3 33.3 1 4 25.0 0 0 0 1 2 0 1 2 -6
+p788
+aVLoren Meyer DAL 11/01/1996 DAL @ DEN W 23 6 2 7 28.6 0 0 - 2 2 100.0 1 3 4 0 1 0 3 6 1
+p789
+aVEric Montross DAL 11/01/1996 DAL @ DEN W 24 6 3 5 60.0 0 0 - 0 0 - 2 5 7 1 0 1 2 3 3
+p790
+aVTony Dumas DAL 11/01/1996 DAL @ DEN W 10 4 1 4 25.0 0 2 0.0 2 2 100.0 0 0 0 0 1 0 0 2 -6
+p791
+aVJim Jackson DAL 11/01/1996 DAL @ DEN W 38 28 9 20 45.0 2 5 40.0 8 9 88.9 7 4 11 3 2 1 3 1 7
+p792
+aVFred Roberts DAL 11/01/1996 DAL @ DEN W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p793
+aVDerek Harper DAL 11/01/1996 DAL @ DEN W 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 0 0 1 2 -12
+p794
+aVJamal Mashburn DAL 11/01/1996 DAL @ DEN W 14 4 1 6 16.7 0 2 0.0 2 4 50.0 0 1 1 1 1 1 2 4 -9
+p795
+aVChris Gatling DAL 11/01/1996 DAL @ DEN W 22 17 8 13 61.5 0 0 - 1 6 16.7 6 4 10 0 2 1 2 5 8
+p796
+aVGeorge McCloud DAL 11/01/1996 DAL @ DEN W 33 16 6 14 42.9 1 5 20.0 3 3 100.0 0 3 3 2 2 1 1 5 10
+p797
+aVOliver Miller DAL 11/01/1996 DAL @ DEN W 24 4 2 6 33.3 0 0 - 0 0 - 2 8 10 1 2 2 3 1 -1
+p798
+aVJason Kidd DAL 11/01/1996 DAL @ DEN W 33 7 3 11 27.3 1 4 25.0 0 0 - 1 4 5 9 2 0 3 1 13
+p799
+a.

@@ -1,0 +1,244 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGerald Henderson POR 05/11/2016 POR @ GSW L 16 1 0 3 0.0 0 1 0.0 1 2 50.0 0 3 3 0 0 0 0 1 -5
+p2
+aVAl-Farouq Aminu POR 05/11/2016 POR @ GSW L 36 16 5 10 50.0 3 5 60.0 3 4 75.0 2 7 9 2 2 0 0 3 -4
+p3
+aVMaurice Harkless POR 05/11/2016 POR @ GSW L 20 13 5 11 45.5 3 6 50.0 0 0 - 1 2 3 0 2 0 1 5 -6
+p4
+aVBrian Roberts POR 05/11/2016 POR @ GSW L 8 5 1 4 25.0 0 3 0.0 3 4 75.0 1 0 1 0 0 0 0 1 5
+p5
+aVEd Davis POR 05/11/2016 POR @ GSW L 23 6 0 3 0.0 0 1 0.0 6 8 75.0 1 6 7 2 0 3 1 2 7
+p6
+aVMason Plumlee POR 05/11/2016 POR @ GSW L 24 5 2 5 40.0 0 0 - 1 2 50.0 3 3 6 4 0 1 1 3 -9
+p7
+aVCJ McCollum POR 05/11/2016 POR @ GSW L 42 27 11 23 47.8 3 5 60.0 2 5 40.0 3 5 8 5 1 0 1 5 -3
+p8
+aVAllen Crabbe POR 05/11/2016 POR @ GSW L 33 20 7 9 77.8 5 7 71.4 1 2 50.0 1 2 3 0 2 0 1 2 -6
+p9
+aVDamian Lillard POR 05/11/2016 POR @ GSW L 39 28 7 24 29.2 2 8 25.0 12 12 100.0 1 6 7 7 2 0 5 1 1
+p10
+aVMason Plumlee POR 05/09/2016 POR vs. GSW L 35 12 6 11 54.5 0 0 - 0 0 - 7 8 15 3 1 0 5 4 -2
+p11
+aVDamian Lillard POR 05/09/2016 POR vs. GSW L 47 36 9 30 30.0 5 18 27.8 13 16 81.3 2 4 6 10 0 1 3 3 -7
+p12
+aVMaurice Harkless POR 05/09/2016 POR vs. GSW L 17 8 3 9 33.3 1 2 50.0 1 2 50.0 2 4 6 1 1 0 0 3 2
+p13
+aVAl-Farouq Aminu POR 05/09/2016 POR vs. GSW L 39 18 6 14 42.9 3 6 50.0 3 6 50.0 4 9 13 2 1 1 1 5 0
+p14
+aVEd Davis POR 05/09/2016 POR vs. GSW L 16 8 3 3 100.0 0 0 - 2 4 50.0 3 1 4 1 0 0 2 4 -8
+p15
+aVAllen Crabbe POR 05/09/2016 POR vs. GSW L 38 13 5 9 55.6 2 3 66.7 1 1 100.0 0 3 3 2 0 0 1 3 -11
+p16
+aVCJ McCollum POR 05/09/2016 POR vs. GSW L 48 24 9 23 39.1 4 9 44.4 2 2 100.0 0 3 3 2 3 0 5 4 -4
+p17
+aVBrian Roberts POR 05/09/2016 POR vs. GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p18
+aVGerald Henderson POR 05/09/2016 POR vs. GSW L 21 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 0 2 1 1 2 -6
+p19
+aVNoah Vonleh POR 05/07/2016 POR vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p20
+aVCJ McCollum POR 05/07/2016 POR vs. GSW W 42 22 8 18 44.4 1 5 20.0 5 5 100.0 1 4 5 4 1 0 1 2 15
+p21
+aVMaurice Harkless POR 05/07/2016 POR vs. GSW W 7 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 2 0 1 1 1
+p22
+aVGerald Henderson POR 05/07/2016 POR vs. GSW W 23 8 2 8 25.0 1 1 100.0 3 4 75.0 1 0 1 2 0 0 0 3 -5
+p23
+aVAl-Farouq Aminu POR 05/07/2016 POR vs. GSW W 41 23 8 9 88.9 4 5 80.0 3 3 100.0 1 9 10 0 0 1 1 3 9
+p24
+aVMason Plumlee POR 05/07/2016 POR vs. GSW W 17 5 2 6 33.3 0 0 - 1 4 25.0 3 4 7 2 0 1 1 5 5
+p25
+aVDamian Lillard POR 05/07/2016 POR vs. GSW W 42 40 14 27 51.9 8 13 61.5 4 4 100.0 3 2 5 10 0 0 3 2 7
+p26
+aVEd Davis POR 05/07/2016 POR vs. GSW W 30 8 3 5 60.0 0 0 - 2 2 100.0 2 8 10 0 1 2 2 2 7
+p27
+aVAllen Crabbe POR 05/07/2016 POR vs. GSW W 30 10 2 8 25.0 2 4 50.0 4 5 80.0 0 3 3 1 1 0 0 1 25
+p28
+aVPat Connaughton POR 05/07/2016 POR vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p29
+aVBrian Roberts POR 05/07/2016 POR vs. GSW W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 2
+p30
+aVLuis Montero POR 05/07/2016 POR vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p31
+aVCJ McCollum POR 05/03/2016 POR @ GSW L 40 22 9 19 47.4 1 5 20.0 3 4 75.0 0 2 2 2 1 1 2 2 -14
+p32
+aVBrian Roberts POR 05/03/2016 POR @ GSW L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 1
+p33
+aVDamian Lillard POR 05/03/2016 POR @ GSW L 40 25 8 20 40.0 6 11 54.5 3 3 100.0 1 3 4 6 2 0 3 4 -10
+p34
+aVMaurice Harkless POR 05/03/2016 POR @ GSW L 27 11 4 11 36.4 1 5 20.0 2 4 50.0 3 4 7 1 0 0 1 5 -15
+p35
+aVAllen Crabbe POR 05/03/2016 POR @ GSW L 20 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 3 1 0 0 1 -8
+p36
+aVEd Davis POR 05/03/2016 POR @ GSW L 15 4 1 2 50.0 0 0 - 2 4 50.0 1 4 5 0 0 2 1 2 -4
+p37
+aVMason Plumlee POR 05/03/2016 POR @ GSW L 28 6 2 6 33.3 0 0 - 2 2 100.0 1 10 11 4 0 1 6 4 5
+p38
+aVGerald Henderson POR 05/03/2016 POR @ GSW L 27 12 5 9 55.6 2 4 50.0 0 0 - 0 2 2 3 1 0 0 3 -8
+p39
+aVAl-Farouq Aminu POR 05/03/2016 POR @ GSW L 37 14 5 10 50.0 3 5 60.0 1 2 50.0 0 6 6 2 0 1 4 2 -2
+p40
+aVMason Plumlee POR 05/01/2016 POR @ GSW L 25 1 0 7 0.0 0 0 - 1 2 50.0 2 10 12 6 0 2 2 3 -18
+p41
+aVDamian Lillard POR 05/01/2016 POR @ GSW L 41 30 8 26 30.8 4 8 50.0 10 10 100.0 0 0 0 5 4 0 1 3 -19
+p42
+aVAl-Farouq Aminu POR 05/01/2016 POR @ GSW L 25 15 6 13 46.2 3 8 37.5 0 0 - 3 1 4 1 0 2 3 1 -25
+p43
+aVNoah Vonleh POR 05/01/2016 POR @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p44
+aVPat Connaughton POR 05/01/2016 POR @ GSW L 1 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 3
+p45
+aVAllen Crabbe POR 05/01/2016 POR @ GSW L 34 15 6 9 66.7 0 3 0.0 3 3 100.0 0 6 6 3 1 0 0 2 2
+p46
+aVCJ McCollum POR 05/01/2016 POR @ GSW L 40 12 5 17 29.4 0 4 0.0 2 2 100.0 0 3 3 3 1 1 0 2 -10
+p47
+aVGerald Henderson POR 05/01/2016 POR @ GSW L 17 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 3 0 1 2 1 2
+p48
+aVLuis Montero POR 05/01/2016 POR @ GSW L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p49
+aVBrian Roberts POR 05/01/2016 POR @ GSW L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 11
+p50
+aVMaurice Harkless POR 05/01/2016 POR @ GSW L 28 10 4 12 33.3 1 5 20.0 1 3 33.3 2 1 3 1 1 0 1 1 -20
+p51
+aVEd Davis POR 05/01/2016 POR @ GSW L 19 11 5 6 83.3 0 0 - 1 1 100.0 3 4 7 3 0 0 0 6 8
+p52
+aVDamian Lillard POR 04/29/2016 POR vs. LAC W 39 28 9 21 42.9 4 9 44.4 6 7 85.7 2 3 5 7 1 0 1 2 -5
+p53
+aVAllen Crabbe POR 04/29/2016 POR vs. LAC W 32 13 5 9 55.6 2 6 33.3 1 2 50.0 3 2 5 1 0 0 1 5 6
+p54
+aVMason Plumlee POR 04/29/2016 POR vs. LAC W 31 9 3 5 60.0 0 0 - 3 6 50.0 5 9 14 4 1 2 2 4 -5
+p55
+aVEd Davis POR 04/29/2016 POR vs. LAC W 16 4 2 4 50.0 0 0 - 0 0 - 4 2 6 1 0 0 0 1 6
+p56
+aVBrian Roberts POR 04/29/2016 POR vs. LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p57
+aVGerald Henderson POR 04/29/2016 POR vs. LAC W 21 8 4 10 40.0 0 2 0.0 0 0 - 3 2 5 1 0 0 0 3 4
+p58
+aVCJ McCollum POR 04/29/2016 POR vs. LAC W 39 20 7 16 43.8 2 3 66.7 4 5 80.0 0 2 2 4 1 0 4 2 8
+p59
+aVMaurice Harkless POR 04/29/2016 POR vs. LAC W 30 14 5 12 41.7 4 6 66.7 0 2 0.0 0 3 3 1 1 0 0 2 -4
+p60
+aVAl-Farouq Aminu POR 04/29/2016 POR vs. LAC W 32 10 3 9 33.3 2 6 33.3 2 2 100.0 1 5 6 2 0 0 4 4 3
+p61
+aVMason Plumlee POR 04/27/2016 POR @ LAC W 32 10 4 6 66.7 0 0 - 2 2 100.0 4 11 15 4 2 0 2 4 13
+p62
+aVDamian Lillard POR 04/27/2016 POR @ LAC W 39 22 7 20 35.0 5 10 50.0 3 4 75.0 0 1 1 5 3 0 2 1 5
+p63
+aVBrian Roberts POR 04/27/2016 POR @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p64
+aVAllen Crabbe POR 04/27/2016 POR @ LAC W 27 11 4 10 40.0 2 5 40.0 1 2 50.0 1 3 4 3 1 0 0 2 -2
+p65
+aVAl-Farouq Aminu POR 04/27/2016 POR @ LAC W 28 7 1 6 16.7 0 5 0.0 5 8 62.5 2 6 8 2 1 1 3 5 12
+p66
+aVGerald Henderson POR 04/27/2016 POR @ LAC W 23 10 4 8 50.0 1 2 50.0 1 2 50.0 0 5 5 4 1 1 0 2 1
+p67
+aVNoah Vonleh POR 04/27/2016 POR @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p68
+aVCJ McCollum POR 04/27/2016 POR @ LAC W 38 27 9 18 50.0 2 6 33.3 7 8 87.5 0 4 4 4 0 2 1 2 18
+p69
+aVLuis Montero POR 04/27/2016 POR @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p70
+aVEd Davis POR 04/27/2016 POR @ LAC W 18 2 1 1 100.0 0 0 - 0 2 0.0 0 5 5 0 0 0 0 2 -5
+p71
+aVPat Connaughton POR 04/27/2016 POR @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p72
+aVMaurice Harkless POR 04/27/2016 POR @ LAC W 33 19 7 14 50.0 2 6 33.3 3 6 50.0 2 8 10 0 0 0 1 5 8
+p73
+aVAl-Farouq Aminu POR 04/25/2016 POR vs. LAC W 36 30 11 20 55.0 6 10 60.0 2 2 100.0 3 7 10 3 0 3 1 1 6
+p74
+aVPat Connaughton POR 04/25/2016 POR vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p75
+aVMaurice Harkless POR 04/25/2016 POR vs. LAC W 24 12 5 8 62.5 0 2 0.0 2 2 100.0 1 6 7 0 2 0 1 4 13
+p76
+aVLuis Montero POR 04/25/2016 POR vs. LAC W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 0
+p77
+aVDamian Lillard POR 04/25/2016 POR vs. LAC W 37 12 4 15 26.7 2 8 25.0 2 2 100.0 0 6 6 6 1 1 2 1 11
+p78
+aVNoah Vonleh POR 04/25/2016 POR vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 0
+p79
+aVChris Kaman POR 04/25/2016 POR vs. LAC W 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -3
+p80
+aVGerald Henderson POR 04/25/2016 POR vs. LAC W 22 4 1 9 11.1 0 3 0.0 2 2 100.0 0 3 3 1 0 0 2 3 3
+p81
+aVEd Davis POR 04/25/2016 POR vs. LAC W 18 4 2 8 25.0 0 1 0.0 0 0 - 6 6 12 4 0 0 1 3 1
+p82
+aVMason Plumlee POR 04/25/2016 POR vs. LAC W 30 2 1 6 16.7 0 0 - 0 0 - 5 9 14 10 0 3 4 4 15
+p83
+aVCJ McCollum POR 04/25/2016 POR vs. LAC W 36 19 6 13 46.2 2 4 50.0 5 7 71.4 1 2 3 2 1 0 0 2 20
+p84
+aVAllen Crabbe POR 04/25/2016 POR vs. LAC W 27 12 5 5 100.0 2 2 100.0 0 0 - 0 2 2 0 0 0 3 4 4
+p85
+aVBrian Roberts POR 04/25/2016 POR vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p86
+aVCJ McCollum POR 04/23/2016 POR vs. LAC W 42 27 11 22 50.0 2 5 40.0 3 4 75.0 2 3 5 2 1 1 2 4 13
+p87
+aVMaurice Harkless POR 04/23/2016 POR vs. LAC W 31 10 5 9 55.6 0 3 0.0 0 2 0.0 5 2 7 1 0 1 5 4 14
+p88
+aVAllen Crabbe POR 04/23/2016 POR vs. LAC W 19 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 1 0 0 0 1 -2
+p89
+aVGerald Henderson POR 04/23/2016 POR vs. LAC W 16 2 1 7 14.3 0 1 0.0 0 0 - 0 4 4 0 0 0 0 0 -1
+p90
+aVMason Plumlee POR 04/23/2016 POR vs. LAC W 33 6 2 5 40.0 0 0 - 2 4 50.0 3 18 21 9 1 0 2 4 7
+p91
+aVEd Davis POR 04/23/2016 POR vs. LAC W 18 6 2 3 66.7 0 0 - 2 4 50.0 2 3 5 0 1 0 0 4 -2
+p92
+aVChris Kaman POR 04/23/2016 POR vs. LAC W 9 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 5
+p93
+aVDamian Lillard POR 04/23/2016 POR vs. LAC W 37 32 10 20 50.0 3 8 37.5 9 9 100.0 2 3 5 2 0 0 5 3 4
+p94
+aVAl-Farouq Aminu POR 04/23/2016 POR vs. LAC W 35 9 4 12 33.3 1 5 20.0 0 0 - 2 5 7 0 1 1 0 3 2
+p95
+aVMaurice Harkless POR 04/20/2016 POR @ LAC L 34 12 5 13 38.5 2 4 50.0 0 0 - 5 2 7 1 1 0 0 3 -11
+p96
+aVDamian Lillard POR 04/20/2016 POR @ LAC L 39 17 6 22 27.3 0 6 0.0 5 5 100.0 1 5 6 3 0 1 4 1 -5
+p97
+aVCJ McCollum POR 04/20/2016 POR @ LAC L 38 16 6 17 35.3 2 7 28.6 2 2 100.0 0 3 3 5 0 0 2 2 -25
+p98
+aVBrian Roberts POR 04/20/2016 POR @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p99
+aVMason Plumlee POR 04/20/2016 POR @ LAC L 31 17 5 7 71.4 0 0 - 7 9 77.8 2 8 10 7 2 1 0 3 -5
+p100
+aVGerald Henderson POR 04/20/2016 POR @ LAC L 18 4 2 6 33.3 0 1 0.0 0 0 - 1 4 5 0 0 0 0 1 -16
+p101
+aVLuis Montero POR 04/20/2016 POR @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p102
+aVChris Kaman POR 04/20/2016 POR @ LAC L 10 4 2 6 33.3 0 0 - 0 0 - 1 4 5 0 1 0 1 4 -5
+p103
+aVAllen Crabbe POR 04/20/2016 POR @ LAC L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -11
+p104
+aVEd Davis POR 04/20/2016 POR @ LAC L 13 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 0 0 1 4 -18
+p105
+aVAl-Farouq Aminu POR 04/20/2016 POR @ LAC L 35 9 4 13 30.8 1 7 14.3 0 0 - 3 7 10 3 2 0 2 2 3
+p106
+aVNoah Vonleh POR 04/20/2016 POR @ LAC L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p107
+aVPat Connaughton POR 04/20/2016 POR @ LAC L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p108
+aVDamian Lillard POR 04/17/2016 POR @ LAC L 38 21 7 17 41.2 3 8 37.5 4 6 66.7 0 2 2 8 1 0 4 2 -22
+p109
+aVAllen Crabbe POR 04/17/2016 POR @ LAC L 25 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 0 2 -18
+p110
+aVChris Kaman POR 04/17/2016 POR @ LAC L 8 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 0 0 2 3 2
+p111
+aVLuis Montero POR 04/17/2016 POR @ LAC L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p112
+aVNoah Vonleh POR 04/17/2016 POR @ LAC L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -2
+p113
+aVMason Plumlee POR 04/17/2016 POR @ LAC L 19 4 1 6 16.7 0 0 - 2 2 100.0 2 3 5 0 0 0 0 4 -16
+p114
+aVCJ McCollum POR 04/17/2016 POR @ LAC L 37 9 3 11 27.3 1 5 20.0 2 2 100.0 0 2 2 3 0 0 2 3 -12
+p115
+aVEd Davis POR 04/17/2016 POR @ LAC L 20 6 1 3 33.3 0 0 - 4 8 50.0 2 6 8 2 0 0 2 3 -2
+p116
+aVAl-Farouq Aminu POR 04/17/2016 POR @ LAC L 26 10 3 12 25.0 2 8 25.0 2 2 100.0 2 10 12 3 1 0 2 2 -16
+p117
+aVBrian Roberts POR 04/17/2016 POR @ LAC L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p118
+aVMaurice Harkless POR 04/17/2016 POR @ LAC L 21 9 3 7 42.9 0 3 0.0 3 4 75.0 1 2 3 1 0 2 0 5 -11
+p119
+aVGerald Henderson POR 04/17/2016 POR @ LAC L 30 16 7 12 58.3 2 2 100.0 0 0 - 1 1 2 3 2 0 0 2 0
+p120
+aVPat Connaughton POR 04/17/2016 POR @ LAC L 3 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p121
+a.

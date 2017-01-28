@@ -1,0 +1,84 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKevin Johnson PHX 04/29/1998 PHX @ SAS L 28 18 8 13 61.5 1 2 50.0 1 2 50.0 2 3 5 2 2 1 3 2 -19
+p2
+aVMarko Milic PHX 04/29/1998 PHX @ SAS L 2 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 4
+p3
+aVClifford Robinson PHX 04/29/1998 PHX @ SAS L 17 0 0 6 0.0 0 0 - 0 0 - 1 1 2 0 0 1 2 5 -11
+p4
+aVGeorge McCloud PHX 04/29/1998 PHX @ SAS L 19 9 3 10 30.0 3 9 33.3 0 0 - 0 0 0 1 0 0 0 4 0
+p5
+aVMark Bryant PHX 04/29/1998 PHX @ SAS L 30 9 4 9 44.4 0 0 - 1 4 25.0 2 3 5 0 2 1 1 3 -7
+p6
+aVHot Rod Williams PHX 04/29/1998 PHX @ SAS L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -13
+p7
+aVDennis Scott PHX 04/29/1998 PHX @ SAS L 14 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 1 1 0 1 1 -3
+p8
+aVSteve Nash PHX 04/29/1998 PHX @ SAS L 32 13 4 13 30.8 1 4 25.0 4 6 66.7 2 5 7 5 0 0 1 4 -4
+p9
+aVAntonio McDyess PHX 04/29/1998 PHX @ SAS L 42 10 5 14 35.7 0 0 - 0 0 - 4 15 19 0 0 0 2 3 -21
+p10
+aVJason Kidd PHX 04/29/1998 PHX @ SAS L 40 12 4 16 25.0 0 1 0.0 4 5 80.0 0 4 4 4 4 0 3 3 -21
+p11
+aVAntonio McDyess PHX 04/27/1998 PHX @ SAS L 42 26 11 23 47.8 0 0 - 4 7 57.1 7 10 17 0 0 2 1 2 -9
+p12
+aVMarko Milic PHX 04/27/1998 PHX @ SAS L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p13
+aVGeorge McCloud PHX 04/27/1998 PHX @ SAS L 35 18 7 13 53.8 2 3 66.7 2 2 100.0 1 3 4 3 1 0 3 4 -15
+p14
+aVJason Kidd PHX 04/27/1998 PHX @ SAS L 44 16 6 13 46.2 0 2 0.0 4 5 80.0 2 10 12 6 3 0 4 4 -10
+p15
+aVRex Chapman PHX 04/27/1998 PHX @ SAS L 22 2 1 9 11.1 0 4 0.0 0 0 - 0 0 0 0 1 0 2 1 -21
+p16
+aVMark Bryant PHX 04/27/1998 PHX @ SAS L 16 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 1 0 2 -13
+p17
+aVClifford Robinson PHX 04/27/1998 PHX @ SAS L 24 2 1 7 14.3 0 0 - 0 0 - 1 3 4 1 0 0 0 5 -3
+p18
+aVHot Rod Williams PHX 04/27/1998 PHX @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p19
+aVKevin Johnson PHX 04/27/1998 PHX @ SAS L 26 15 5 9 55.6 0 0 - 5 5 100.0 0 1 1 6 0 0 0 1 1
+p20
+aVDennis Scott PHX 04/27/1998 PHX @ SAS L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 3
+p21
+aVSteve Nash PHX 04/27/1998 PHX @ SAS L 4 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 -2
+p22
+aVMike Brown PHX 04/27/1998 PHX @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p23
+aVRex Chapman PHX 04/25/1998 PHX vs. SAS W 35 16 5 14 35.7 0 1 0.0 6 7 85.7 0 0 0 4 1 0 0 0 10
+p24
+aVDennis Scott PHX 04/25/1998 PHX vs. SAS W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -2
+p25
+aVMark Bryant PHX 04/25/1998 PHX vs. SAS W 29 14 5 12 41.7 0 0 - 4 6 66.7 2 7 9 1 1 0 2 5 -4
+p26
+aVSteve Nash PHX 04/25/1998 PHX vs. SAS W 9 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 2 1 0 2 2 5
+p27
+aVGeorge McCloud PHX 04/25/1998 PHX vs. SAS W 38 22 8 12 66.7 6 7 85.7 0 0 - 1 5 6 3 0 1 1 4 9
+p28
+aVAntonio McDyess PHX 04/25/1998 PHX vs. SAS W 29 21 8 14 57.1 0 0 - 5 7 71.4 5 6 11 2 1 0 0 4 8
+p29
+aVJason Kidd PHX 04/25/1998 PHX vs. SAS W 38 12 5 10 50.0 0 0 - 2 2 100.0 0 1 1 10 3 0 4 3 2
+p30
+aVClifford Robinson PHX 04/25/1998 PHX vs. SAS W 22 15 5 9 55.6 0 1 0.0 5 7 71.4 0 2 2 0 2 1 0 3 12
+p31
+aVKevin Johnson PHX 04/25/1998 PHX vs. SAS W 22 4 2 6 33.3 0 0 - 0 0 - 0 1 1 4 0 0 0 1 -5
+p32
+aVKevin Johnson PHX 04/23/1998 PHX vs. SAS L 44 18 8 14 57.1 0 2 0.0 2 5 40.0 0 2 2 7 0 0 3 2 -12
+p33
+aVGeorge McCloud PHX 04/23/1998 PHX vs. SAS L 33 8 3 6 50.0 1 2 50.0 1 2 50.0 0 9 9 1 0 0 2 3 -3
+p34
+aVHot Rod Williams PHX 04/23/1998 PHX vs. SAS L 17 6 2 5 40.0 0 0 - 2 3 66.7 1 2 3 1 0 2 0 5 1
+p35
+aVClifford Robinson PHX 04/23/1998 PHX vs. SAS L 26 8 3 11 27.3 0 0 - 2 2 100.0 4 0 4 2 1 0 3 6 -20
+p36
+aVJason Kidd PHX 04/23/1998 PHX vs. SAS L 48 17 7 19 36.8 0 4 0.0 3 4 75.0 3 3 6 11 6 2 1 3 -6
+p37
+aVDennis Scott PHX 04/23/1998 PHX vs. SAS L 16 10 4 8 50.0 2 3 66.7 0 0 - 1 1 2 0 0 0 0 0 -3
+p38
+aVMark Bryant PHX 04/23/1998 PHX vs. SAS L 18 15 7 10 70.0 0 0 - 1 2 50.0 2 2 4 0 1 0 0 6 11
+p39
+aVSteve Nash PHX 04/23/1998 PHX vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p40
+aVAntonio McDyess PHX 04/23/1998 PHX vs. SAS L 30 14 7 14 50.0 0 0 - 0 0 - 2 4 6 2 1 4 2 3 -3
+p41
+a.

@@ -1,0 +1,80 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAnthony Davis NOP 04/25/2015 NOP vs. GSW L 40 36 14 20 70.0 0 1 0.0 8 9 88.9 2 9 11 1 0 3 1 1 -16
+p2
+aVTyreke Evans NOP 04/25/2015 NOP vs. GSW L 33 4 2 10 20.0 0 2 0.0 0 0 - 2 3 5 5 2 0 2 4 -2
+p3
+aVOmer Asik NOP 04/25/2015 NOP vs. GSW L 14 3 1 4 25.0 0 0 - 1 1 100.0 1 0 1 2 1 0 0 1 -5
+p4
+aVJrue Holiday NOP 04/25/2015 NOP vs. GSW L 17 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 4 1 0 2 0 -8
+p5
+aVQuincy Pondexter NOP 04/25/2015 NOP vs. GSW L 21 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -4
+p6
+aVRyan Anderson NOP 04/25/2015 NOP vs. GSW L 35 10 4 11 36.4 2 5 40.0 0 0 - 2 4 6 4 0 2 1 3 -6
+p7
+aVEric Gordon NOP 04/25/2015 NOP vs. GSW L 35 29 12 21 57.1 3 9 33.3 2 2 100.0 1 2 3 5 0 0 1 2 -7
+p8
+aVDante Cunningham NOP 04/25/2015 NOP vs. GSW L 26 10 4 4 100.0 0 0 - 2 2 100.0 2 6 8 2 0 1 0 3 5
+p9
+aVAlexis Ajinca NOP 04/25/2015 NOP vs. GSW L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p10
+aVNorris Cole NOP 04/25/2015 NOP vs. GSW L 18 0 0 5 0.0 0 4 0.0 0 0 - 0 0 0 0 0 0 4 3 -9
+p11
+aVDante Cunningham NOP 04/23/2015 NOP vs. GSW L 16 6 3 3 100.0 0 0 - 0 0 - 0 5 5 0 0 2 0 2 3
+p12
+aVEric Gordon NOP 04/23/2015 NOP vs. GSW L 35 6 2 10 20.0 1 6 16.7 1 2 50.0 1 3 4 5 1 2 0 3 -9
+p13
+aVNorris Cole NOP 04/23/2015 NOP vs. GSW L 26 16 7 10 70.0 2 4 50.0 0 0 - 0 1 1 0 0 0 2 4 13
+p14
+aVOmer Asik NOP 04/23/2015 NOP vs. GSW L 20 1 0 2 0.0 0 0 - 1 2 50.0 3 3 6 1 1 0 1 1 -8
+p15
+aVTyreke Evans NOP 04/23/2015 NOP vs. GSW L 40 19 8 18 44.4 1 6 16.7 2 3 66.7 0 4 4 8 3 0 4 5 -21
+p16
+aVQuincy Pondexter NOP 04/23/2015 NOP vs. GSW L 35 6 2 4 50.0 0 1 0.0 2 2 100.0 2 4 6 2 0 0 0 4 -31
+p17
+aVAnthony Davis NOP 04/23/2015 NOP vs. GSW L 46 29 11 22 50.0 0 0 - 7 9 77.8 3 12 15 3 2 3 4 4 3
+p18
+aVRyan Anderson NOP 04/23/2015 NOP vs. GSW L 30 26 10 14 71.4 2 3 66.7 4 4 100.0 3 2 5 2 0 0 2 3 17
+p19
+aVJrue Holiday NOP 04/23/2015 NOP vs. GSW L 17 10 3 7 42.9 0 1 0.0 4 4 100.0 1 0 1 4 0 1 1 2 13
+p20
+aVAnthony Davis NOP 04/20/2015 NOP @ GSW L 45 26 9 22 40.9 0 0 - 8 8 100.0 1 10 11 3 2 2 3 3 -3
+p21
+aVEric Gordon NOP 04/20/2015 NOP @ GSW L 39 23 9 18 50.0 5 10 50.0 0 0 - 0 0 0 2 0 0 4 2 -9
+p22
+aVDante Cunningham NOP 04/20/2015 NOP @ GSW L 18 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 2 1 0 1 -9
+p23
+aVQuincy Pondexter NOP 04/20/2015 NOP @ GSW L 32 3 1 8 12.5 0 2 0.0 1 1 100.0 1 2 3 4 4 0 1 2 2
+p24
+aVOmer Asik NOP 04/20/2015 NOP @ GSW L 24 2 1 3 33.3 0 0 - 0 0 - 6 7 13 2 2 0 3 5 -5
+p25
+aVNorris Cole NOP 04/20/2015 NOP @ GSW L 28 11 5 11 45.5 1 3 33.3 0 1 0.0 1 2 3 1 0 0 2 3 -3
+p26
+aVTyreke Evans NOP 04/20/2015 NOP @ GSW L 41 16 4 13 30.8 1 3 33.3 7 12 58.3 1 9 10 7 0 1 0 1 -13
+p27
+aVRyan Anderson NOP 04/20/2015 NOP @ GSW L 9 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 0 2 -2
+p28
+aVAlexis Ajinca NOP 04/20/2015 NOP @ GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p29
+aVDante Cunningham NOP 04/18/2015 NOP @ GSW L 15 3 1 3 33.3 0 0 - 1 1 100.0 2 3 5 0 1 0 0 1 9
+p30
+aVAlexis Ajinca NOP 04/18/2015 NOP @ GSW L 4 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 3
+p31
+aVEric Gordon NOP 04/18/2015 NOP @ GSW L 35 16 5 14 35.7 4 7 57.1 2 2 100.0 0 2 2 3 1 0 5 4 -15
+p32
+aVQuincy Pondexter NOP 04/18/2015 NOP @ GSW L 37 20 7 14 50.0 3 7 42.9 3 4 75.0 0 9 9 6 2 0 0 5 -4
+p33
+aVAnthony Davis NOP 04/18/2015 NOP @ GSW L 40 35 13 23 56.5 0 1 0.0 9 10 90.0 3 4 7 1 1 4 5 4 -4
+p34
+aVJrue Holiday NOP 04/18/2015 NOP @ GSW L 21 5 2 7 28.6 1 2 50.0 0 0 - 1 1 2 5 1 0 2 1 -7
+p35
+aVOmer Asik NOP 04/18/2015 NOP @ GSW L 22 2 0 1 0.0 0 0 - 2 4 50.0 2 7 9 1 1 0 1 3 -18
+p36
+aVTyreke Evans NOP 04/18/2015 NOP @ GSW L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -12
+p37
+aVRyan Anderson NOP 04/18/2015 NOP @ GSW L 21 3 1 6 16.7 1 2 50.0 0 0 - 2 3 5 1 0 0 1 4 1
+p38
+aVNorris Cole NOP 04/18/2015 NOP @ GSW L 34 8 3 10 30.0 0 3 0.0 2 2 100.0 0 3 3 6 0 1 0 5 12
+p39
+a.

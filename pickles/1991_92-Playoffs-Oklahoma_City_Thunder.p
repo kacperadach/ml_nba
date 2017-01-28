@@ -1,0 +1,172 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMichael Cage SEA 05/14/1992 SEA @ UTH L 29 4 2 2 100.0 0 0 - 0 0 - 4 7 11 0 0 5 1 1 -
+p2
+aVRicky Pierce SEA 05/14/1992 SEA @ UTH L 37 16 8 17 47.1 0 2 0.0 0 0 - 2 0 2 2 0 1 3 3 -
+p3
+aVBenoit Benjamin SEA 05/14/1992 SEA @ UTH L 23 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 1 4 2 4 -
+p4
+aVTony Brown SEA 05/14/1992 SEA @ UTH L 3 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -
+p5
+aVDana Barros SEA 05/14/1992 SEA @ UTH L 21 6 3 9 33.3 0 4 0.0 0 0 - 0 2 2 2 1 0 0 2 -
+p6
+aVEddie Johnson SEA 05/14/1992 SEA @ UTH L 29 26 9 22 40.9 2 7 28.6 6 6 100.0 0 1 1 0 1 3 4 3 -
+p7
+aVNate McMillan SEA 05/14/1992 SEA @ UTH L 33 10 4 8 50.0 1 2 50.0 1 2 50.0 2 2 4 12 4 0 0 4 -
+p8
+aVShawn Kemp SEA 05/14/1992 SEA @ UTH L 28 10 4 6 66.7 0 0 - 2 2 100.0 0 4 4 0 1 1 4 5 -
+p9
+aVDerrick McKey SEA 05/14/1992 SEA @ UTH L 37 17 6 11 54.5 0 3 0.0 5 7 71.4 0 2 2 4 0 2 2 4 -
+p10
+aVMichael Cage SEA 05/12/1992 SEA vs. UTH L 15 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -
+p11
+aVShawn Kemp SEA 05/12/1992 SEA vs. UTH L 41 12 4 9 44.4 0 0 - 4 8 50.0 7 4 11 0 1 0 4 5 -
+p12
+aVBenoit Benjamin SEA 05/12/1992 SEA vs. UTH L 21 3 1 2 50.0 0 0 - 1 2 50.0 0 5 5 1 0 0 0 1 -
+p13
+aVEddie Johnson SEA 05/12/1992 SEA vs. UTH L 26 9 3 11 27.3 0 2 0.0 3 3 100.0 2 2 4 1 0 0 2 1 -
+p14
+aVDerrick McKey SEA 05/12/1992 SEA vs. UTH L 36 16 7 13 53.8 1 3 33.3 1 3 33.3 2 3 5 2 1 2 3 3 -
+p15
+aVGary Payton SEA 05/12/1992 SEA vs. UTH L 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 -
+p16
+aVNate McMillan SEA 05/12/1992 SEA vs. UTH L 33 10 4 8 50.0 0 1 0.0 2 3 66.7 0 3 3 9 3 0 4 4 -
+p17
+aVRicky Pierce SEA 05/12/1992 SEA vs. UTH L 33 21 8 15 53.3 1 2 50.0 4 4 100.0 0 2 2 2 1 0 1 4 -
+p18
+aVDana Barros SEA 05/12/1992 SEA vs. UTH L 20 10 4 9 44.4 2 5 40.0 0 0 - 0 1 1 3 1 0 1 2 -
+p19
+aVDana Barros SEA 05/10/1992 SEA vs. UTH W 13 8 3 6 50.0 2 2 100.0 0 0 - 1 0 1 0 1 0 1 1 -
+p20
+aVTony Brown SEA 05/10/1992 SEA vs. UTH W 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -
+p21
+aVRicky Pierce SEA 05/10/1992 SEA vs. UTH W 38 31 9 17 52.9 0 1 0.0 13 13 100.0 2 4 6 4 0 0 2 1 -
+p22
+aVBenoit Benjamin SEA 05/10/1992 SEA vs. UTH W 25 14 5 7 71.4 0 0 - 4 8 50.0 0 8 8 1 2 0 2 4 -
+p23
+aVNate McMillan SEA 05/10/1992 SEA vs. UTH W 25 8 4 10 40.0 0 3 0.0 0 0 - 4 1 5 6 0 1 0 1 -
+p24
+aVMichael Cage SEA 05/10/1992 SEA vs. UTH W 24 5 2 4 50.0 0 0 - 1 1 100.0 3 1 4 1 1 0 0 3 -
+p25
+aVShawn Kemp SEA 05/10/1992 SEA vs. UTH W 32 8 2 9 22.2 0 0 - 4 8 50.0 4 2 6 0 0 0 1 4 -
+p26
+aVGary Payton SEA 05/10/1992 SEA vs. UTH W 27 8 4 9 44.4 0 1 0.0 0 0 - 3 2 5 6 2 0 0 1 -
+p27
+aVDerrick McKey SEA 05/10/1992 SEA vs. UTH W 23 7 0 6 0.0 0 1 0.0 7 8 87.5 1 1 2 0 0 1 2 3 -
+p28
+aVEddie Johnson SEA 05/10/1992 SEA vs. UTH W 29 15 6 13 46.2 0 2 0.0 3 3 100.0 0 2 2 3 1 0 0 2 -
+p29
+aVRicky Pierce SEA 05/08/1992 SEA @ UTH L 30 14 4 11 36.4 1 1 100.0 5 6 83.3 0 1 1 3 1 0 3 3 -
+p30
+aVGary Payton SEA 05/08/1992 SEA @ UTH L 30 4 2 3 66.7 0 0 - 0 0 - 0 2 2 3 0 0 1 2 -
+p31
+aVDana Barros SEA 05/08/1992 SEA @ UTH L 15 8 3 4 75.0 2 2 100.0 0 0 - 0 2 2 1 0 0 1 2 -
+p32
+aVShawn Kemp SEA 05/08/1992 SEA @ UTH L 39 20 7 15 46.7 0 0 - 6 7 85.7 6 3 9 1 1 2 2 5 -
+p33
+aVDerrick McKey SEA 05/08/1992 SEA @ UTH L 32 15 6 9 66.7 1 3 33.3 2 2 100.0 1 3 4 2 1 1 2 5 -
+p34
+aVMichael Cage SEA 05/08/1992 SEA @ UTH L 24 2 1 3 33.3 0 0 - 0 0 - 2 4 6 2 0 1 1 3 -
+p35
+aVNate McMillan SEA 05/08/1992 SEA @ UTH L 25 4 2 8 25.0 0 1 0.0 0 0 - 1 0 1 2 1 0 1 5 -
+p36
+aVBenoit Benjamin SEA 05/08/1992 SEA @ UTH L 15 4 2 4 50.0 0 0 - 0 1 0.0 2 1 3 1 0 2 0 1 -
+p37
+aVEddie Johnson SEA 05/08/1992 SEA @ UTH L 30 26 10 15 66.7 0 1 0.0 6 7 85.7 1 4 5 1 0 0 4 2 -
+p38
+aVBenoit Benjamin SEA 05/06/1992 SEA @ UTH L 16 4 2 2 100.0 0 0 - 0 0 - 0 6 6 1 0 0 2 1 -
+p39
+aVGary Payton SEA 05/06/1992 SEA @ UTH L 29 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -
+p40
+aVDana Barros SEA 05/06/1992 SEA @ UTH L 7 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p41
+aVNate McMillan SEA 05/06/1992 SEA @ UTH L 27 17 7 11 63.6 1 3 33.3 2 2 100.0 1 1 2 8 1 0 4 2 -
+p42
+aVRicky Pierce SEA 05/06/1992 SEA @ UTH L 29 10 5 11 45.5 0 0 - 0 0 - 0 1 1 3 1 0 4 2 -
+p43
+aVShawn Kemp SEA 05/06/1992 SEA @ UTH L 43 19 6 16 37.5 0 0 - 7 8 87.5 5 10 15 0 1 1 2 4 -
+p44
+aVMichael Cage SEA 05/06/1992 SEA @ UTH L 23 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 2 2 0 3 -
+p45
+aVEddie Johnson SEA 05/06/1992 SEA @ UTH L 26 14 5 15 33.3 1 3 33.3 3 3 100.0 1 2 3 2 0 0 0 3 -
+p46
+aVDerrick McKey SEA 05/06/1992 SEA @ UTH L 40 20 6 14 42.9 2 3 66.7 6 6 100.0 3 3 6 4 0 2 1 5 -
+p47
+aVGary Payton SEA 04/30/1992 SEA vs. GOS W 35 15 6 10 60.0 0 0 - 3 4 75.0 0 2 2 6 1 0 3 4 -
+p48
+aVRicky Pierce SEA 04/30/1992 SEA vs. GOS W 37 27 8 16 50.0 0 0 - 11 12 91.7 2 3 5 0 0 0 4 2 -
+p49
+aVNate McMillan SEA 04/30/1992 SEA vs. GOS W 21 11 5 17 29.4 0 3 0.0 1 1 100.0 4 4 8 10 2 1 2 5 -
+p50
+aVBenoit Benjamin SEA 04/30/1992 SEA vs. GOS W 18 3 1 3 33.3 0 0 - 1 2 50.0 3 5 8 0 0 3 0 3 -
+p51
+aVEddie Johnson SEA 04/30/1992 SEA vs. GOS W 30 26 12 22 54.5 0 2 0.0 2 2 100.0 0 3 3 0 0 0 1 2 -
+p52
+aVMichael Cage SEA 04/30/1992 SEA vs. GOS W 19 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 0 1 5 -
+p53
+aVShawn Kemp SEA 04/30/1992 SEA vs. GOS W 41 21 5 10 50.0 0 0 - 11 14 78.6 8 12 20 1 0 4 3 4 -
+p54
+aVDerrick McKey SEA 04/30/1992 SEA vs. GOS W 39 10 4 12 33.3 0 1 0.0 2 2 100.0 4 5 9 2 1 0 3 2 -
+p55
+aVNate McMillan SEA 04/28/1992 SEA vs. GOS W 34 11 3 7 42.9 2 5 40.0 3 4 75.0 2 2 4 10 4 0 4 4 -
+p56
+aVMichael Cage SEA 04/28/1992 SEA vs. GOS W 21 0 0 2 0.0 0 0 - 0 0 - 2 4 6 1 2 0 1 2 -
+p57
+aVTony Brown SEA 04/28/1992 SEA vs. GOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p58
+aVEddie Johnson SEA 04/28/1992 SEA vs. GOS W 24 19 8 11 72.7 0 0 - 3 4 75.0 3 1 4 0 0 0 3 3 -
+p59
+aVDerrick McKey SEA 04/28/1992 SEA vs. GOS W 43 27 12 14 85.7 1 1 100.0 2 2 100.0 1 5 6 5 2 2 3 4 -
+p60
+aVDana Barros SEA 04/28/1992 SEA vs. GOS W 11 9 3 4 75.0 3 3 100.0 0 0 - 0 1 1 1 1 0 2 1 -
+p61
+aVShawn Kemp SEA 04/28/1992 SEA vs. GOS W 31 22 5 7 71.4 0 0 - 12 15 80.0 2 8 10 0 0 1 2 5 -
+p62
+aVBenoit Benjamin SEA 04/28/1992 SEA vs. GOS W 24 12 5 9 55.6 0 0 - 2 3 66.7 2 1 3 1 2 3 1 3 -
+p63
+aVGary Payton SEA 04/28/1992 SEA vs. GOS W 15 8 4 8 50.0 0 0 - 0 0 - 0 0 0 3 0 1 2 4 -
+p64
+aVRicky Pierce SEA 04/28/1992 SEA vs. GOS W 36 21 8 16 50.0 1 2 50.0 4 6 66.7 0 1 1 2 1 0 5 2 -
+p65
+aVDerrick McKey SEA 04/25/1992 SEA @ GOS L 34 16 5 9 55.6 0 1 0.0 6 7 85.7 2 3 5 4 1 2 4 6 -
+p66
+aVRicky Pierce SEA 04/25/1992 SEA @ GOS L 36 8 3 8 37.5 0 2 0.0 2 2 100.0 0 0 0 7 1 0 2 4 -
+p67
+aVDana Barros SEA 04/25/1992 SEA @ GOS L 9 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 -
+p68
+aVMichael Cage SEA 04/25/1992 SEA @ GOS L 21 8 4 4 100.0 0 0 - 0 0 - 0 6 6 0 0 0 1 3 -
+p69
+aVBenoit Benjamin SEA 04/25/1992 SEA @ GOS L 6 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 0 0 0 1 1 -
+p70
+aVShawn Kemp SEA 04/25/1992 SEA @ GOS L 41 17 5 14 35.7 0 0 - 7 8 87.5 7 12 19 1 1 2 4 5 -
+p71
+aVEddie Johnson SEA 04/25/1992 SEA @ GOS L 30 22 9 20 45.0 1 4 25.0 3 3 100.0 0 2 2 1 0 0 0 2 -
+p72
+aVTony Brown SEA 04/25/1992 SEA @ GOS L 9 5 1 5 20.0 1 4 25.0 2 2 100.0 0 1 1 2 0 0 0 1 -
+p73
+aVGary Payton SEA 04/25/1992 SEA @ GOS L 29 6 3 11 27.3 0 0 - 0 0 - 1 1 2 5 1 0 2 5 -
+p74
+aVNate McMillan SEA 04/25/1992 SEA @ GOS L 24 11 4 9 44.4 2 5 40.0 1 2 50.0 0 3 3 3 0 0 3 6 -
+p75
+aVMarty Conlon SEA 04/25/1992 SEA @ GOS L 1 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p76
+aVShawn Kemp SEA 04/23/1992 SEA @ GOS W 42 28 10 15 66.7 0 0 - 8 10 80.0 8 8 16 1 0 3 5 4 -
+p77
+aVTony Brown SEA 04/23/1992 SEA @ GOS W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -
+p78
+aVGary Payton SEA 04/23/1992 SEA @ GOS W 41 14 5 13 38.5 0 1 0.0 4 8 50.0 2 3 5 12 4 1 1 6 -
+p79
+aVMichael Cage SEA 04/23/1992 SEA @ GOS W 21 10 5 7 71.4 0 0 - 0 0 - 4 4 8 0 0 0 2 1 -
+p80
+aVNate McMillan SEA 04/23/1992 SEA @ GOS W 24 4 2 5 40.0 0 3 0.0 0 0 - 0 3 3 3 1 1 4 4 -
+p81
+aVDerrick McKey SEA 04/23/1992 SEA @ GOS W 31 19 6 11 54.5 0 0 - 7 8 87.5 3 2 5 1 1 0 2 5 -
+p82
+aVRicky Pierce SEA 04/23/1992 SEA @ GOS W 40 28 10 20 50.0 0 1 0.0 8 11 72.7 3 1 4 5 0 0 0 3 -
+p83
+aVBenoit Benjamin SEA 04/23/1992 SEA @ GOS W 13 4 2 5 40.0 0 0 - 0 0 - 1 6 7 0 0 1 0 2 -
+p84
+aVEddie Johnson SEA 04/23/1992 SEA @ GOS W 23 9 3 8 37.5 0 1 0.0 3 3 100.0 1 2 3 0 1 0 1 1 -
+p85
+a.

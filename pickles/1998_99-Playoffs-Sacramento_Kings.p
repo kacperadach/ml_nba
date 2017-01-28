@@ -1,0 +1,106 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVlade Divac SAC 05/16/1999 SAC @ UTA L 47 15 4 11 36.4 0 1 0.0 7 10 70.0 2 8 10 5 2 1 4 5 -3
+p2
+aVChris Webber SAC 05/16/1999 SAC @ UTA L 46 12 5 17 29.4 0 2 0.0 2 5 40.0 4 10 14 3 4 1 5 3 -16
+p3
+aVPeja Stojakovic SAC 05/16/1999 SAC @ UTA L 29 8 3 7 42.9 1 4 25.0 1 1 100.0 2 1 3 0 1 0 2 5 5
+p4
+aVVernon Maxwell SAC 05/16/1999 SAC @ UTA L 28 22 8 15 53.3 3 9 33.3 3 4 75.0 0 1 1 0 0 0 1 4 13
+p5
+aVMichael Hawkins SAC 05/16/1999 SAC @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p6
+aVCorliss Williamson SAC 05/16/1999 SAC @ UTA L 20 8 3 6 50.0 0 0 - 2 4 50.0 3 1 4 0 0 0 3 3 -13
+p7
+aVJason Williams SAC 05/16/1999 SAC @ UTA L 25 2 1 6 16.7 0 4 0.0 0 0 - 1 1 2 3 1 0 1 5 -23
+p8
+aVScot Pollard SAC 05/16/1999 SAC @ UTA L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 2 0 1 7
+p9
+aVJon Barry SAC 05/16/1999 SAC @ UTA L 37 14 6 12 50.0 2 8 25.0 0 0 - 2 1 3 2 2 1 3 3 3
+p10
+aVTariq Abdul-Wahad SAC 05/16/1999 SAC @ UTA L 17 11 4 8 50.0 0 1 0.0 3 6 50.0 3 1 4 0 0 1 1 2 -8
+p11
+aVCorliss Williamson SAC 05/14/1999 SAC vs. UTA L 30 12 6 11 54.5 0 0 - 0 1 0.0 1 0 1 1 0 1 0 2 3
+p12
+aVChris Webber SAC 05/14/1999 SAC vs. UTA L 37 18 7 15 46.7 0 0 - 4 6 66.7 4 7 11 2 1 0 4 4 -2
+p13
+aVVernon Maxwell SAC 05/14/1999 SAC vs. UTA L 25 13 4 14 28.6 3 11 27.3 2 2 100.0 1 1 2 1 3 0 0 2 -8
+p14
+aVVlade Divac SAC 05/14/1999 SAC vs. UTA L 43 14 2 9 22.2 0 1 0.0 10 11 90.9 4 10 14 4 1 0 6 3 2
+p15
+aVTariq Abdul-Wahad SAC 05/14/1999 SAC vs. UTA L 23 16 5 9 55.6 0 0 - 6 6 100.0 0 4 4 3 3 1 1 2 9
+p16
+aVJason Williams SAC 05/14/1999 SAC vs. UTA L 33 7 1 6 16.7 1 4 25.0 4 4 100.0 0 3 3 6 2 0 1 0 -3
+p17
+aVLawrence Funderburke SAC 05/14/1999 SAC vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p18
+aVJon Barry SAC 05/14/1999 SAC vs. UTA L 18 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 3 1 0 2 1 2
+p19
+aVPeja Stojakovic SAC 05/14/1999 SAC vs. UTA L 13 2 1 4 25.0 0 3 0.0 0 0 - 2 0 2 0 0 0 1 1 -4
+p20
+aVScot Pollard SAC 05/14/1999 SAC vs. UTA L 10 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 1 0 4 -1
+p21
+aVScot Pollard SAC 05/12/1999 SAC vs. UTA W 17 3 1 2 50.0 0 0 - 1 2 50.0 3 2 5 0 2 0 2 3 -9
+p22
+aVCorliss Williamson SAC 05/12/1999 SAC vs. UTA W 31 18 8 11 72.7 0 0 - 2 2 100.0 1 3 4 2 1 0 2 3 8
+p23
+aVTariq Abdul-Wahad SAC 05/12/1999 SAC vs. UTA W 20 6 3 6 50.0 0 0 - 0 0 - 2 2 4 1 1 1 1 3 10
+p24
+aVVernon Maxwell SAC 05/12/1999 SAC vs. UTA W 26 6 2 12 16.7 2 7 28.6 0 0 - 1 3 4 1 0 0 1 2 -2
+p25
+aVLawrence Funderburke SAC 05/12/1999 SAC vs. UTA W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 7
+p26
+aVChris Webber SAC 05/12/1999 SAC vs. UTA W 41 10 4 14 28.6 0 0 - 2 6 33.3 3 5 8 5 3 1 3 6 -3
+p27
+aVVlade Divac SAC 05/12/1999 SAC vs. UTA W 39 22 7 16 43.8 1 3 33.3 7 8 87.5 2 12 14 5 1 1 3 4 11
+p28
+aVPeja Stojakovic SAC 05/12/1999 SAC vs. UTA W 21 5 1 5 20.0 1 4 25.0 2 2 100.0 3 2 5 0 1 0 1 0 -5
+p29
+aVJon Barry SAC 05/12/1999 SAC vs. UTA W 15 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 2 1 0 1 3 -6
+p30
+aVJason Williams SAC 05/12/1999 SAC vs. UTA W 44 12 5 13 38.5 2 8 25.0 0 0 - 1 7 8 6 2 1 5 2 4
+p31
+aVJason Williams SAC 05/10/1999 SAC @ UTA W 35 18 6 10 60.0 3 5 60.0 3 3 100.0 0 4 4 3 2 0 4 4 9
+p32
+aVPeja Stojakovic SAC 05/10/1999 SAC @ UTA W 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p33
+aVVlade Divac SAC 05/10/1999 SAC @ UTA W 40 18 7 11 63.6 0 0 - 4 5 80.0 0 7 7 8 3 0 1 2 20
+p34
+aVVernon Maxwell SAC 05/10/1999 SAC @ UTA W 28 12 4 11 36.4 2 5 40.0 2 2 100.0 1 2 3 1 1 0 2 1 6
+p35
+aVCorliss Williamson SAC 05/10/1999 SAC @ UTA W 24 9 4 7 57.1 0 0 - 1 1 100.0 0 3 3 2 1 0 1 3 2
+p36
+aVScot Pollard SAC 05/10/1999 SAC @ UTA W 17 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 3 0 3 11
+p37
+aVTariq Abdul-Wahad SAC 05/10/1999 SAC @ UTA W 22 8 2 6 33.3 0 0 - 4 4 100.0 0 5 5 0 0 1 0 1 9
+p38
+aVJon Barry SAC 05/10/1999 SAC @ UTA W 19 12 2 7 28.6 2 4 50.0 6 7 85.7 1 2 3 0 1 0 2 1 9
+p39
+aVChris Webber SAC 05/10/1999 SAC @ UTA W 37 20 9 16 56.3 1 1 100.0 1 6 16.7 1 4 5 7 1 2 5 3 -12
+p40
+aVPeja Stojakovic SAC 05/08/1999 SAC @ UTA L 28 9 4 9 44.4 1 3 33.3 0 0 - 5 2 7 2 1 0 2 1 -15
+p41
+aVJerome James SAC 05/08/1999 SAC @ UTA L 3 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 1 -3
+p42
+aVCorliss Williamson SAC 05/08/1999 SAC @ UTA L 22 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 1 0 0 0 2 -13
+p43
+aVMichael Hawkins SAC 05/08/1999 SAC @ UTA L 8 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -5
+p44
+aVLawrence Funderburke SAC 05/08/1999 SAC @ UTA L 18 8 4 11 36.4 0 0 - 0 0 - 1 2 3 1 3 0 2 3 -15
+p45
+aVJon Barry SAC 05/08/1999 SAC @ UTA L 21 7 1 4 25.0 0 1 0.0 5 5 100.0 0 2 2 2 1 0 1 1 -15
+p46
+aVVlade Divac SAC 05/08/1999 SAC @ UTA L 25 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 1 1 2 5 3 -12
+p47
+aVChris Webber SAC 05/08/1999 SAC @ UTA L 29 14 6 18 33.3 1 4 25.0 1 2 50.0 1 8 9 3 0 1 3 4 -11
+p48
+aVVernon Maxwell SAC 05/08/1999 SAC @ UTA L 19 3 1 8 12.5 1 3 33.3 0 2 0.0 1 0 1 2 2 0 2 3 -13
+p49
+aVTariq Abdul-Wahad SAC 05/08/1999 SAC @ UTA L 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -12
+p50
+aVScot Pollard SAC 05/08/1999 SAC @ UTA L 18 8 3 4 75.0 0 0 - 2 3 66.7 0 2 2 0 0 0 0 2 -19
+p51
+aVJason Williams SAC 05/08/1999 SAC @ UTA L 26 11 3 10 30.0 3 8 37.5 2 2 100.0 0 1 1 2 1 0 2 4 -17
+p52
+a.

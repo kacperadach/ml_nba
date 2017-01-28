@@ -1,0 +1,1054 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBimbo Coles GSW 05/05/1999 GSW vs. SAS L 23 2 1 8 12.5 0 0 - 0 0 - 0 2 2 2 0 0 1 1 1
+p2
+aVJohn Starks GSW 05/05/1999 GSW vs. SAS L 32 12 3 14 21.4 3 7 42.9 3 4 75.0 0 4 4 4 1 0 0 1 -9
+p3
+aVTerry Cummings GSW 05/05/1999 GSW vs. SAS L 23 4 2 8 25.0 0 0 - 0 0 - 1 4 5 1 2 0 0 6 -5
+p4
+aVChris Mills GSW 05/05/1999 GSW vs. SAS L 20 6 2 6 33.3 0 1 0.0 2 2 100.0 1 3 4 3 0 0 3 2 3
+p5
+aVDonyell Marshall GSW 05/05/1999 GSW vs. SAS L 33 14 5 10 50.0 1 1 100.0 3 4 75.0 2 3 5 2 1 1 0 4 -6
+p6
+aVFelton Spencer GSW 05/05/1999 GSW vs. SAS L 4 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 1 0 0 0 2
+p7
+aVAdonal Foyle GSW 05/05/1999 GSW vs. SAS L 14 6 2 6 33.3 0 0 - 2 2 100.0 3 1 4 0 0 1 1 0 -2
+p8
+aVAntawn Jamison GSW 05/05/1999 GSW vs. SAS L 36 22 10 23 43.5 0 0 - 2 2 100.0 9 7 16 0 1 0 1 1 -7
+p9
+aVMuggsy Bogues GSW 05/05/1999 GSW vs. SAS L 25 8 4 8 50.0 0 0 - 0 0 - 0 0 0 5 0 0 1 2 -8
+p10
+aVErick Dampier GSW 05/05/1999 GSW vs. SAS L 29 7 2 10 20.0 0 0 - 3 4 75.0 6 5 11 0 1 0 1 3 -4
+p11
+aVChris Mills GSW 05/03/1999 GSW @ VAN W 33 15 5 13 38.5 1 3 33.3 4 4 100.0 0 9 9 1 0 1 1 3 6
+p12
+aVAntawn Jamison GSW 05/03/1999 GSW @ VAN W 13 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 1 0 1 1 -9
+p13
+aVBimbo Coles GSW 05/03/1999 GSW @ VAN W 25 11 5 8 62.5 1 1 100.0 0 0 - 0 0 0 3 0 0 4 4 -6
+p14
+aVDuane Ferrell GSW 05/03/1999 GSW @ VAN W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 1 1 1 7
+p15
+aVTerry Cummings GSW 05/03/1999 GSW @ VAN W 24 18 6 11 54.5 0 0 - 6 6 100.0 1 2 3 2 0 0 2 2 14
+p16
+aVErick Dampier GSW 05/03/1999 GSW @ VAN W 27 7 2 6 33.3 0 0 - 3 5 60.0 2 7 9 1 2 2 2 4 -3
+p17
+aVJohn Starks GSW 05/03/1999 GSW @ VAN W 35 10 3 9 33.3 1 4 25.0 3 4 75.0 1 3 4 3 0 0 3 1 2
+p18
+aVMuggsy Bogues GSW 05/03/1999 GSW @ VAN W 23 6 1 1 100.0 0 0 - 4 4 100.0 1 2 3 6 2 0 3 1 14
+p19
+aVAdonal Foyle GSW 05/03/1999 GSW @ VAN W 19 5 2 2 100.0 0 0 - 1 1 100.0 0 4 4 1 0 0 2 2 19
+p20
+aVDonyell Marshall GSW 05/03/1999 GSW @ VAN W 34 18 6 13 46.2 0 3 0.0 6 6 100.0 3 4 7 1 1 2 1 5 -4
+p21
+aVDuane Ferrell GSW 05/01/1999 GSW @ DAL L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p22
+aVChris Mills GSW 05/01/1999 GSW @ DAL L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 1 2 0 1 0 4
+p23
+aVJohn Starks GSW 05/01/1999 GSW @ DAL L 41 13 6 17 35.3 1 6 16.7 0 0 - 0 1 1 4 0 0 1 2 -14
+p24
+aVErick Dampier GSW 05/01/1999 GSW @ DAL L 26 7 3 7 42.9 0 0 - 1 2 50.0 1 2 3 3 0 0 1 3 -1
+p25
+aVAdonal Foyle GSW 05/01/1999 GSW @ DAL L 13 0 0 1 0.0 0 0 - 0 2 0.0 0 5 5 1 1 0 1 1 -11
+p26
+aVAntawn Jamison GSW 05/01/1999 GSW @ DAL L 30 24 11 16 68.8 0 0 - 2 3 66.7 2 3 5 1 2 0 2 3 -9
+p27
+aVDonyell Marshall GSW 05/01/1999 GSW @ DAL L 40 36 16 23 69.6 2 3 66.7 2 4 50.0 4 2 6 5 2 0 1 2 -1
+p28
+aVBimbo Coles GSW 05/01/1999 GSW @ DAL L 25 2 1 3 33.3 0 0 - 0 0 - 0 0 0 7 0 1 1 5 -5
+p29
+aVMuggsy Bogues GSW 05/01/1999 GSW @ DAL L 23 2 1 1 100.0 0 0 - 0 0 - 1 1 2 6 0 0 1 1 -6
+p30
+aVTerry Cummings GSW 05/01/1999 GSW @ DAL L 22 6 3 11 27.3 0 0 - 0 1 0.0 7 7 14 0 0 0 2 2 -10
+p31
+aVAdonal Foyle GSW 04/30/1999 GSW @ MIN L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p32
+aVErick Dampier GSW 04/30/1999 GSW @ MIN L 37 20 4 7 57.1 0 0 - 12 15 80.0 1 6 7 0 0 1 4 3 -5
+p33
+aVJohn Starks GSW 04/30/1999 GSW @ MIN L 39 9 4 12 33.3 1 5 20.0 0 0 - 0 1 1 6 1 0 1 2 2
+p34
+aVDonyell Marshall GSW 04/30/1999 GSW @ MIN L 42 10 4 9 44.4 1 2 50.0 1 2 50.0 0 17 17 4 1 1 0 4 -2
+p35
+aVTerry Cummings GSW 04/30/1999 GSW @ MIN L 28 14 5 14 35.7 0 0 - 4 4 100.0 5 5 10 1 1 0 1 6 10
+p36
+aVDuane Ferrell GSW 04/30/1999 GSW @ MIN L 13 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p37
+aVChris Mills GSW 04/30/1999 GSW @ MIN L 27 6 3 11 27.3 0 1 0.0 0 0 - 0 4 4 2 0 1 5 1 -18
+p38
+aVMuggsy Bogues GSW 04/30/1999 GSW @ MIN L 21 8 2 6 33.3 0 0 - 4 4 100.0 1 3 4 7 1 1 1 0 0
+p39
+aVBimbo Coles GSW 04/30/1999 GSW @ MIN L 27 16 7 13 53.8 0 0 - 2 2 100.0 0 1 1 2 0 2 3 1 -5
+p40
+aVChris Mills GSW 04/29/1999 GSW @ UTA L 39 23 10 19 52.6 0 4 0.0 3 3 100.0 3 2 5 1 2 1 4 3 -9
+p41
+aVDonyell Marshall GSW 04/29/1999 GSW @ UTA L 18 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 0 3 2 -13
+p42
+aVFelton Spencer GSW 04/29/1999 GSW @ UTA L 9 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 10
+p43
+aVAntawn Jamison GSW 04/29/1999 GSW @ UTA L 13 2 1 6 16.7 0 0 - 0 0 - 2 1 3 1 2 1 0 0 0
+p44
+aVBimbo Coles GSW 04/29/1999 GSW @ UTA L 28 7 2 9 22.2 0 2 0.0 3 3 100.0 0 2 2 5 0 1 1 3 -7
+p45
+aVAdonal Foyle GSW 04/29/1999 GSW @ UTA L 26 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 1 1
+p46
+aVJohn Starks GSW 04/29/1999 GSW @ UTA L 39 27 11 19 57.9 5 8 62.5 0 0 - 1 5 6 5 0 0 2 6 -4
+p47
+aVErick Dampier GSW 04/29/1999 GSW @ UTA L 26 10 5 6 83.3 0 0 - 0 0 - 2 1 3 0 0 1 2 6 -19
+p48
+aVTerry Cummings GSW 04/29/1999 GSW @ UTA L 22 6 3 8 37.5 0 0 - 0 2 0.0 3 1 4 0 1 0 1 4 -10
+p49
+aVMuggsy Bogues GSW 04/29/1999 GSW @ UTA L 21 6 3 7 42.9 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -4
+p50
+aVAdonal Foyle GSW 04/26/1999 GSW vs. SAC W 16 4 2 4 50.0 0 0 - 0 0 - 4 3 7 0 0 1 1 3 0
+p51
+aVTerry Cummings GSW 04/26/1999 GSW vs. SAC W 22 8 4 10 40.0 0 0 - 0 0 - 1 2 3 1 2 0 0 3 -2
+p52
+aVJohn Starks GSW 04/26/1999 GSW vs. SAC W 37 25 9 19 47.4 2 7 28.6 5 6 83.3 1 3 4 7 1 0 0 0 25
+p53
+aVDonyell Marshall GSW 04/26/1999 GSW vs. SAC W 36 19 7 12 58.3 0 1 0.0 5 6 83.3 4 5 9 2 2 2 2 4 24
+p54
+aVAntawn Jamison GSW 04/26/1999 GSW vs. SAC W 34 23 8 12 66.7 1 1 100.0 6 7 85.7 2 9 11 1 0 1 3 4 30
+p55
+aVErick Dampier GSW 04/26/1999 GSW vs. SAC W 30 14 7 13 53.8 0 0 - 0 1 0.0 1 7 8 2 0 1 2 3 19
+p56
+aVChris Mills GSW 04/26/1999 GSW vs. SAC W 19 9 4 6 66.7 0 0 - 1 3 33.3 2 4 6 1 0 0 0 1 4
+p57
+aVBimbo Coles GSW 04/26/1999 GSW vs. SAC W 33 10 4 11 36.4 0 0 - 2 2 100.0 2 1 3 12 0 0 0 2 21
+p58
+aVFelton Spencer GSW 04/26/1999 GSW vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p59
+aVTony Delk GSW 04/26/1999 GSW vs. SAC W 13 2 0 2 0.0 0 1 0.0 2 4 50.0 0 1 1 4 0 0 3 0 1
+p60
+aVErick Dampier GSW 04/24/1999 GSW vs. DEN W 33 17 8 11 72.7 0 0 - 1 7 14.3 5 8 13 2 1 2 2 2 28
+p61
+aVMuggsy Bogues GSW 04/24/1999 GSW vs. DEN W 20 8 4 8 50.0 0 1 0.0 0 0 - 1 1 2 4 1 0 3 0 -7
+p62
+aVBimbo Coles GSW 04/24/1999 GSW vs. DEN W 32 10 4 6 66.7 1 1 100.0 1 1 100.0 0 4 4 5 3 0 1 3 31
+p63
+aVFelton Spencer GSW 04/24/1999 GSW vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p64
+aVDonyell Marshall GSW 04/24/1999 GSW vs. DEN W 28 18 8 14 57.1 1 1 100.0 1 2 50.0 6 11 17 4 2 1 3 2 19
+p65
+aVJohn Starks GSW 04/24/1999 GSW vs. DEN W 24 8 3 11 27.3 0 4 0.0 2 3 66.7 0 2 2 6 1 0 0 3 21
+p66
+aVAdonal Foyle GSW 04/24/1999 GSW vs. DEN W 18 6 3 4 75.0 0 0 - 0 0 - 2 4 6 1 1 1 0 2 0
+p67
+aVTony Delk GSW 04/24/1999 GSW vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -9
+p68
+aVAntawn Jamison GSW 04/24/1999 GSW vs. DEN W 30 14 7 16 43.8 0 0 - 0 0 - 1 6 7 1 0 0 4 3 20
+p69
+aVChris Mills GSW 04/24/1999 GSW vs. DEN W 27 6 3 12 25.0 0 4 0.0 0 0 - 1 7 8 1 0 1 1 3 -7
+p70
+aVTerry Cummings GSW 04/24/1999 GSW vs. DEN W 20 6 3 10 30.0 0 0 - 0 0 - 2 4 6 4 0 1 0 4 3
+p71
+aVErick Dampier GSW 04/23/1999 GSW @ DEN L 39 22 7 11 63.6 0 0 - 8 12 66.7 5 8 13 3 0 3 2 2 -6
+p72
+aVTony Delk GSW 04/23/1999 GSW @ DEN L 7 2 1 4 25.0 0 3 0.0 0 0 - 1 0 1 2 0 0 2 1 7
+p73
+aVDonyell Marshall GSW 04/23/1999 GSW @ DEN L 16 3 1 5 20.0 1 2 50.0 0 0 - 2 6 8 0 1 0 1 4 -5
+p74
+aVChris Mills GSW 04/23/1999 GSW @ DEN L 28 12 3 9 33.3 0 3 0.0 6 7 85.7 0 7 7 2 0 0 0 4 2
+p75
+aVTerry Cummings GSW 04/23/1999 GSW @ DEN L 15 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 3 -7
+p76
+aVJohn Starks GSW 04/23/1999 GSW @ DEN L 36 11 3 12 25.0 2 5 40.0 3 3 100.0 1 3 4 5 2 0 3 0 -8
+p77
+aVJason Caffey GSW 04/23/1999 GSW @ DEN L 20 4 2 4 50.0 0 0 - 0 2 0.0 2 0 2 1 1 0 3 4 -8
+p78
+aVFelton Spencer GSW 04/23/1999 GSW @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -3
+p79
+aVMuggsy Bogues GSW 04/23/1999 GSW @ DEN L 10 6 3 3 100.0 0 0 - 0 0 - 0 1 1 3 0 0 2 0 -4
+p80
+aVBimbo Coles GSW 04/23/1999 GSW @ DEN L 31 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 3 0 0 2 2 -15
+p81
+aVAdonal Foyle GSW 04/23/1999 GSW @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 1
+p82
+aVAntawn Jamison GSW 04/23/1999 GSW @ DEN L 30 14 4 10 40.0 0 1 0.0 6 6 100.0 3 3 6 0 2 2 3 4 -14
+p83
+aVAdonal Foyle GSW 04/21/1999 GSW @ SAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 4 4
+p84
+aVJohn Starks GSW 04/21/1999 GSW @ SAC L 36 18 7 16 43.8 2 6 33.3 2 2 100.0 1 1 2 8 0 0 2 4 -2
+p85
+aVMuggsy Bogues GSW 04/21/1999 GSW @ SAC L 22 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -4
+p86
+aVTony Delk GSW 04/21/1999 GSW @ SAC L 13 5 2 5 40.0 1 1 100.0 0 0 - 1 2 3 3 0 0 2 0 -7
+p87
+aVAntawn Jamison GSW 04/21/1999 GSW @ SAC L 11 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 1 0 0 6 -5
+p88
+aVFelton Spencer GSW 04/21/1999 GSW @ SAC L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p89
+aVChris Mills GSW 04/21/1999 GSW @ SAC L 36 19 7 13 53.8 1 3 33.3 4 5 80.0 3 7 10 0 1 0 0 5 -4
+p90
+aVDonyell Marshall GSW 04/21/1999 GSW @ SAC L 36 16 8 23 34.8 0 2 0.0 0 0 - 5 7 12 0 0 1 1 3 -16
+p91
+aVTerry Cummings GSW 04/21/1999 GSW @ SAC L 22 12 6 13 46.2 0 0 - 0 0 - 1 6 7 2 1 0 1 3 3
+p92
+aVBimbo Coles GSW 04/21/1999 GSW @ SAC L 26 9 4 8 50.0 0 0 - 1 2 50.0 0 2 2 4 1 0 3 1 -5
+p93
+aVErick Dampier GSW 04/21/1999 GSW @ SAC L 29 8 4 11 36.4 0 0 - 0 0 - 1 6 7 0 1 0 0 4 -7
+p94
+aVErick Dampier GSW 04/20/1999 GSW vs. LAL L 27 7 3 8 37.5 0 0 - 1 2 50.0 2 1 3 2 2 0 3 5 0
+p95
+aVJohn Starks GSW 04/20/1999 GSW vs. LAL L 39 20 10 25 40.0 0 5 0.0 0 0 - 1 0 1 5 4 0 0 4 3
+p96
+aVChris Mills GSW 04/20/1999 GSW vs. LAL L 32 15 5 9 55.6 2 3 66.7 3 3 100.0 1 3 4 3 3 0 0 5 -22
+p97
+aVMuggsy Bogues GSW 04/20/1999 GSW vs. LAL L 22 9 4 7 57.1 0 0 - 1 1 100.0 0 1 1 4 1 0 2 1 -4
+p98
+aVAdonal Foyle GSW 04/20/1999 GSW vs. LAL L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 4 -2
+p99
+aVTerry Cummings GSW 04/20/1999 GSW vs. LAL L 28 17 7 11 63.6 0 0 - 3 4 75.0 1 3 4 4 1 0 2 4 -15
+p100
+aVDonyell Marshall GSW 04/20/1999 GSW vs. LAL L 29 5 2 6 33.3 0 1 0.0 1 2 50.0 2 1 3 1 2 0 1 6 -9
+p101
+aVJason Caffey GSW 04/20/1999 GSW vs. LAL L 22 8 3 6 50.0 0 0 - 2 2 100.0 2 6 8 2 0 0 6 0 20
+p102
+aVBimbo Coles GSW 04/20/1999 GSW vs. LAL L 32 12 4 15 26.7 0 1 0.0 4 4 100.0 3 4 7 7 1 0 4 2 -4
+p103
+aVAntawn Jamison GSW 04/20/1999 GSW vs. LAL L 24 7 3 4 75.0 1 1 100.0 0 3 0.0 1 2 3 1 0 0 2 2 11
+p104
+aVFelton Spencer GSW 04/20/1999 GSW vs. LAL L 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 2 2
+p105
+aVMuggsy Bogues GSW 04/18/1999 GSW @ VAN W 20 8 1 1 100.0 0 0 - 6 6 100.0 1 4 5 5 1 0 1 0 20
+p106
+aVTerry Cummings GSW 04/18/1999 GSW @ VAN W 23 11 5 13 38.5 0 0 - 1 2 50.0 5 4 9 1 1 0 2 5 2
+p107
+aVBimbo Coles GSW 04/18/1999 GSW @ VAN W 29 10 3 10 30.0 0 0 - 4 4 100.0 1 2 3 5 1 0 2 2 -13
+p108
+aVJohn Starks GSW 04/18/1999 GSW @ VAN W 32 14 7 15 46.7 0 3 0.0 0 0 - 0 1 1 1 1 1 2 1 2
+p109
+aVJason Caffey GSW 04/18/1999 GSW @ VAN W 25 8 4 6 66.7 0 0 - 0 0 - 4 3 7 1 1 0 3 6 -13
+p110
+aVAdonal Foyle GSW 04/18/1999 GSW @ VAN W 8 0 0 0 - 0 0 - 0 0 - 1 2 3 1 1 1 1 1 -5
+p111
+aVErick Dampier GSW 04/18/1999 GSW @ VAN W 29 8 2 5 40.0 0 0 - 4 4 100.0 2 3 5 2 1 0 2 1 16
+p112
+aVChris Mills GSW 04/18/1999 GSW @ VAN W 16 0 0 6 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 3
+p113
+aVDonyell Marshall GSW 04/18/1999 GSW @ VAN W 30 24 9 14 64.3 4 5 80.0 2 3 66.7 3 4 7 0 1 2 4 4 18
+p114
+aVAntawn Jamison GSW 04/18/1999 GSW @ VAN W 29 7 3 13 23.1 0 0 - 1 2 50.0 3 2 5 1 2 1 2 5 -5
+p115
+aVErick Dampier GSW 04/16/1999 GSW vs. LAC L 21 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 0 0 1 1 1 -3
+p116
+aVTerry Cummings GSW 04/16/1999 GSW vs. LAC L 20 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 3 2
+p117
+aVJohn Starks GSW 04/16/1999 GSW vs. LAC L 28 13 6 12 50.0 1 2 50.0 0 0 - 0 0 0 4 3 0 5 3 3
+p118
+aVBimbo Coles GSW 04/16/1999 GSW vs. LAC L 28 10 4 12 33.3 1 3 33.3 1 2 50.0 2 2 4 9 0 0 3 2 0
+p119
+aVChris Mills GSW 04/16/1999 GSW vs. LAC L 24 10 5 9 55.6 0 1 0.0 0 0 - 1 3 4 5 1 0 1 1 -3
+p120
+aVJason Caffey GSW 04/16/1999 GSW vs. LAC L 32 14 6 15 40.0 0 0 - 2 4 50.0 9 7 16 0 0 1 4 4 -8
+p121
+aVDonyell Marshall GSW 04/16/1999 GSW vs. LAC L 21 7 2 7 28.6 0 2 0.0 3 3 100.0 2 3 5 1 0 0 0 2 0
+p122
+aVAntawn Jamison GSW 04/16/1999 GSW vs. LAC L 30 17 7 10 70.0 0 0 - 3 3 100.0 4 5 9 1 1 0 1 1 -2
+p123
+aVAdonal Foyle GSW 04/16/1999 GSW vs. LAC L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -1
+p124
+aVMuggsy Bogues GSW 04/16/1999 GSW vs. LAC L 20 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 5 0 0 2 2 -3
+p125
+aVJason Caffey GSW 04/15/1999 GSW vs. DEN W 28 11 4 12 33.3 0 0 - 3 4 75.0 1 5 6 0 3 0 1 3 8
+p126
+aVMuggsy Bogues GSW 04/15/1999 GSW vs. DEN W 24 5 0 2 0.0 0 0 - 5 6 83.3 0 5 5 2 1 0 0 1 11
+p127
+aVAdonal Foyle GSW 04/15/1999 GSW vs. DEN W 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p128
+aVDonyell Marshall GSW 04/15/1999 GSW vs. DEN W 18 2 0 3 0.0 0 1 0.0 2 4 50.0 0 1 1 0 1 0 1 1 0
+p129
+aVChris Mills GSW 04/15/1999 GSW vs. DEN W 26 9 3 9 33.3 1 1 100.0 2 2 100.0 2 9 11 1 1 1 2 1 5
+p130
+aVTerry Cummings GSW 04/15/1999 GSW vs. DEN W 20 16 6 11 54.5 0 0 - 4 4 100.0 3 3 6 0 1 0 1 4 -4
+p131
+aVAntawn Jamison GSW 04/15/1999 GSW vs. DEN W 23 8 3 6 50.0 0 0 - 2 2 100.0 3 1 4 2 1 0 3 1 -1
+p132
+aVJohn Starks GSW 04/15/1999 GSW vs. DEN W 36 16 6 16 37.5 2 4 50.0 2 2 100.0 0 5 5 5 3 0 2 2 5
+p133
+aVTony Delk GSW 04/15/1999 GSW vs. DEN W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 0
+p134
+aVErick Dampier GSW 04/15/1999 GSW vs. DEN W 24 10 3 9 33.3 0 0 - 4 5 80.0 4 3 7 0 0 2 1 5 12
+p135
+aVBimbo Coles GSW 04/15/1999 GSW vs. DEN W 24 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 3 0 0 2 2 -5
+p136
+aVBimbo Coles GSW 04/12/1999 GSW @ DEN W 25 2 1 4 25.0 0 0 - 0 0 - 0 1 1 6 1 1 1 1 3
+p137
+aVFelton Spencer GSW 04/12/1999 GSW @ DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p138
+aVAntawn Jamison GSW 04/12/1999 GSW @ DEN W 27 10 5 8 62.5 0 0 - 0 0 - 1 1 2 3 0 0 1 3 10
+p139
+aVAdonal Foyle GSW 04/12/1999 GSW @ DEN W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p140
+aVDonyell Marshall GSW 04/12/1999 GSW @ DEN W 25 20 7 13 53.8 1 2 50.0 5 7 71.4 5 5 10 0 1 0 1 5 -5
+p141
+aVErick Dampier GSW 04/12/1999 GSW @ DEN W 31 14 5 9 55.6 0 0 - 4 6 66.7 2 5 7 0 0 0 2 2 5
+p142
+aVJason Caffey GSW 04/12/1999 GSW @ DEN W 25 16 7 11 63.6 0 0 - 2 3 66.7 1 3 4 1 1 1 4 4 10
+p143
+aVMuggsy Bogues GSW 04/12/1999 GSW @ DEN W 24 6 3 4 75.0 0 0 - 0 0 - 0 2 2 3 2 0 0 2 3
+p144
+aVTerry Cummings GSW 04/12/1999 GSW @ DEN W 14 8 3 8 37.5 0 0 - 2 2 100.0 2 0 2 1 1 0 1 5 6
+p145
+aVChris Mills GSW 04/12/1999 GSW @ DEN W 29 15 5 11 45.5 1 1 100.0 4 4 100.0 0 7 7 1 1 0 0 1 11
+p146
+aVJohn Starks GSW 04/12/1999 GSW @ DEN W 33 11 3 12 25.0 1 7 14.3 4 4 100.0 0 3 3 8 1 0 0 4 -5
+p147
+aVJohn Starks GSW 04/10/1999 GSW @ DAL W 33 10 3 9 33.3 1 3 33.3 3 4 75.0 1 5 6 5 1 0 2 2 -3
+p148
+aVTerry Cummings GSW 04/10/1999 GSW @ DAL W 23 14 6 8 75.0 0 0 - 2 2 100.0 4 4 8 2 3 2 3 3 -1
+p149
+aVJason Caffey GSW 04/10/1999 GSW @ DAL W 16 11 5 9 55.6 0 0 - 1 1 100.0 2 1 3 0 1 1 2 5 0
+p150
+aVChris Mills GSW 04/10/1999 GSW @ DAL W 26 10 4 7 57.1 1 3 33.3 1 2 50.0 2 3 5 3 0 1 2 1 1
+p151
+aVBimbo Coles GSW 04/10/1999 GSW @ DAL W 39 14 6 17 35.3 0 1 0.0 2 2 100.0 0 4 4 3 0 0 3 1 2
+p152
+aVDonyell Marshall GSW 04/10/1999 GSW @ DAL W 17 11 5 8 62.5 1 1 100.0 0 0 - 0 1 1 2 0 0 0 2 1
+p153
+aVErick Dampier GSW 04/10/1999 GSW @ DAL W 27 4 1 2 50.0 0 0 - 2 2 100.0 0 7 7 0 0 0 0 3 -2
+p154
+aVAntawn Jamison GSW 04/10/1999 GSW @ DAL W 25 11 5 12 41.7 0 0 - 1 3 33.3 4 3 7 2 0 1 0 1 2
+p155
+aVAdonal Foyle GSW 04/10/1999 GSW @ DAL W 14 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 1 1 2 -2
+p156
+aVMuggsy Bogues GSW 04/10/1999 GSW @ DAL W 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 3 1 0 1 0 4
+p157
+aVFelton Spencer GSW 04/10/1999 GSW @ DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 3
+p158
+aVAdonal Foyle GSW 04/08/1999 GSW @ UTA L 22 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 2 0 4 0 2 10
+p159
+aVMuggsy Bogues GSW 04/08/1999 GSW @ UTA L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 0 0 1 2 5
+p160
+aVTerry Cummings GSW 04/08/1999 GSW @ UTA L 23 9 4 9 44.4 0 0 - 1 2 50.0 0 5 5 2 1 0 3 5 1
+p161
+aVFelton Spencer GSW 04/08/1999 GSW @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p162
+aVBimbo Coles GSW 04/08/1999 GSW @ UTA L 35 20 9 14 64.3 0 0 - 2 2 100.0 0 0 0 6 2 0 1 3 -12
+p163
+aVDonyell Marshall GSW 04/08/1999 GSW @ UTA L 14 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 0 1 0 1 2 8
+p164
+aVJohn Starks GSW 04/08/1999 GSW @ UTA L 24 14 6 14 42.9 2 6 33.3 0 0 - 0 0 0 2 0 1 1 6 -8
+p165
+aVErick Dampier GSW 04/08/1999 GSW @ UTA L 25 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 1 1 0 5 -6
+p166
+aVTony Delk GSW 04/08/1999 GSW @ UTA L 6 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -1
+p167
+aVAntawn Jamison GSW 04/08/1999 GSW @ UTA L 22 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 2 1 -8
+p168
+aVChris Mills GSW 04/08/1999 GSW @ UTA L 30 18 5 11 45.5 1 3 33.3 7 8 87.5 0 3 3 3 2 0 1 5 -8
+p169
+aVJason Caffey GSW 04/08/1999 GSW @ UTA L 21 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 1 0 0 1 5 -11
+p170
+aVAdonal Foyle GSW 04/06/1999 GSW @ HOU L 26 3 0 5 0.0 0 0 - 3 6 50.0 5 8 13 0 1 3 1 5 -25
+p171
+aVTerry Cummings GSW 04/06/1999 GSW @ HOU L 13 4 0 4 0.0 0 0 - 4 4 100.0 1 1 2 0 0 0 1 2 -7
+p172
+aVAntawn Jamison GSW 04/06/1999 GSW @ HOU L 31 13 5 10 50.0 0 0 - 3 4 75.0 4 7 11 0 1 0 2 0 -21
+p173
+aVJason Caffey GSW 04/06/1999 GSW @ HOU L 30 10 3 14 21.4 0 0 - 4 6 66.7 4 3 7 0 0 1 0 4 -21
+p174
+aVTony Delk GSW 04/06/1999 GSW @ HOU L 15 11 4 8 50.0 1 4 25.0 2 4 50.0 0 1 1 1 1 0 0 1 -13
+p175
+aVDonyell Marshall GSW 04/06/1999 GSW @ HOU L 21 6 3 11 27.3 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -21
+p176
+aVErick Dampier GSW 04/06/1999 GSW @ HOU L 20 3 1 7 14.3 0 0 - 1 2 50.0 2 4 6 0 0 0 0 0 -11
+p177
+aVBimbo Coles GSW 04/06/1999 GSW @ HOU L 24 8 3 9 33.3 0 0 - 2 2 100.0 1 0 1 4 2 0 0 2 -17
+p178
+aVChris Mills GSW 04/06/1999 GSW @ HOU L 17 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 0 1 0 1 2 -14
+p179
+aVJohn Starks GSW 04/06/1999 GSW @ HOU L 28 8 4 12 33.3 0 3 0.0 0 0 - 1 1 2 2 0 0 0 0 -25
+p180
+aVMuggsy Bogues GSW 04/06/1999 GSW @ HOU L 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -10
+p181
+aVChris Mills GSW 04/05/1999 GSW @ SAS L 33 13 6 8 75.0 0 0 - 1 2 50.0 0 5 5 4 2 0 1 6 10
+p182
+aVJohn Starks GSW 04/05/1999 GSW @ SAS L 30 18 7 20 35.0 2 6 33.3 2 2 100.0 1 4 5 1 1 0 1 4 -12
+p183
+aVJason Caffey GSW 04/05/1999 GSW @ SAS L 24 5 2 7 28.6 0 0 - 1 2 50.0 3 2 5 1 0 0 3 2 -5
+p184
+aVMuggsy Bogues GSW 04/05/1999 GSW @ SAS L 21 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 1 2 0 1 1 10
+p185
+aVDonyell Marshall GSW 04/05/1999 GSW @ SAS L 16 4 1 8 12.5 0 1 0.0 2 2 100.0 0 5 5 0 0 1 1 2 13
+p186
+aVTerry Cummings GSW 04/05/1999 GSW @ SAS L 25 6 1 11 9.1 0 0 - 4 6 66.7 3 5 8 1 0 0 0 4 -2
+p187
+aVErick Dampier GSW 04/05/1999 GSW @ SAS L 17 6 2 8 25.0 0 0 - 2 4 50.0 6 3 9 1 0 0 1 5 -7
+p188
+aVBimbo Coles GSW 04/05/1999 GSW @ SAS L 28 9 4 7 57.1 0 1 0.0 1 1 100.0 0 2 2 4 0 0 0 1 -15
+p189
+aVAntawn Jamison GSW 04/05/1999 GSW @ SAS L 23 11 4 9 44.4 0 0 - 3 4 75.0 3 6 9 2 0 0 2 2 -16
+p190
+aVAdonal Foyle GSW 04/05/1999 GSW @ SAS L 23 6 1 6 16.7 0 0 - 4 7 57.1 6 0 6 0 1 4 1 2 -11
+p191
+aVTerry Cummings GSW 04/03/1999 GSW @ LAL W 22 10 5 9 55.6 0 0 - 0 2 0.0 1 4 5 1 0 0 1 5 8
+p192
+aVMuggsy Bogues GSW 04/03/1999 GSW @ LAL W 17 8 4 5 80.0 0 0 - 0 0 - 2 0 2 2 1 0 1 1 -1
+p193
+aVBimbo Coles GSW 04/03/1999 GSW @ LAL W 31 13 6 14 42.9 0 0 - 1 2 50.0 0 1 1 5 1 0 2 1 6
+p194
+aVAdonal Foyle GSW 04/03/1999 GSW @ LAL W 19 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 0 0 0 3 -1
+p195
+aVErick Dampier GSW 04/03/1999 GSW @ LAL W 23 2 1 5 20.0 0 0 - 0 0 - 3 0 3 2 0 1 2 5 -5
+p196
+aVAntawn Jamison GSW 04/03/1999 GSW @ LAL W 24 5 1 4 25.0 0 0 - 3 4 75.0 1 6 7 1 1 1 3 2 10
+p197
+aVChris Mills GSW 04/03/1999 GSW @ LAL W 26 8 1 6 16.7 0 2 0.0 6 8 75.0 0 6 6 5 1 0 0 3 6
+p198
+aVDonyell Marshall GSW 04/03/1999 GSW @ LAL W 24 14 5 14 35.7 0 1 0.0 4 7 57.1 3 5 8 1 1 0 3 2 3
+p199
+aVJohn Starks GSW 04/03/1999 GSW @ LAL W 32 12 5 11 45.5 0 3 0.0 2 3 66.7 0 5 5 2 1 0 1 3 0
+p200
+aVJason Caffey GSW 04/03/1999 GSW @ LAL W 22 4 2 6 33.3 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -1
+p201
+aVAntawn Jamison GSW 04/02/1999 GSW vs. UTA L 38 23 9 12 75.0 0 0 - 5 6 83.3 5 8 13 2 0 0 1 3 4
+p202
+aVErick Dampier GSW 04/02/1999 GSW vs. UTA L 37 10 4 12 33.3 0 0 - 2 4 50.0 7 3 10 0 1 1 2 5 -9
+p203
+aVChris Mills GSW 04/02/1999 GSW vs. UTA L 27 17 7 10 70.0 1 2 50.0 2 3 66.7 1 3 4 2 1 0 2 3 5
+p204
+aVBimbo Coles GSW 04/02/1999 GSW vs. UTA L 31 12 5 12 41.7 0 0 - 2 2 100.0 0 0 0 4 2 0 0 2 -4
+p205
+aVDonyell Marshall GSW 04/02/1999 GSW vs. UTA L 19 7 3 10 30.0 1 1 100.0 0 0 - 1 4 5 1 1 0 1 3 -4
+p206
+aVJohn Starks GSW 04/02/1999 GSW vs. UTA L 24 6 3 12 25.0 0 4 0.0 0 0 - 1 1 2 4 0 0 3 1 -17
+p207
+aVJason Caffey GSW 04/02/1999 GSW vs. UTA L 13 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 4 -7
+p208
+aVMuggsy Bogues GSW 04/02/1999 GSW vs. UTA L 17 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 4 3 0 1 0 -3
+p209
+aVTerry Cummings GSW 04/02/1999 GSW vs. UTA L 15 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 1
+p210
+aVAdonal Foyle GSW 04/02/1999 GSW vs. UTA L 19 2 1 5 20.0 0 0 - 0 0 - 4 1 5 1 1 1 0 2 -1
+p211
+aVChris Mills GSW 03/31/1999 GSW @ PHX L 21 2 1 11 9.1 0 2 0.0 0 0 - 1 4 5 0 1 0 0 3 -19
+p212
+aVMuggsy Bogues GSW 03/31/1999 GSW @ PHX L 19 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 4 3 0 3 0 -3
+p213
+aVFelton Spencer GSW 03/31/1999 GSW @ PHX L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p214
+aVBimbo Coles GSW 03/31/1999 GSW @ PHX L 26 14 6 12 50.0 0 0 - 2 2 100.0 0 3 3 4 0 0 3 1 -21
+p215
+aVTony Delk GSW 03/31/1999 GSW @ PHX L 15 12 5 11 45.5 0 1 0.0 2 3 66.7 0 2 2 0 2 0 0 1 0
+p216
+aVDonyell Marshall GSW 03/31/1999 GSW @ PHX L 22 2 1 7 14.3 0 1 0.0 0 0 - 1 7 8 1 0 1 3 1 -5
+p217
+aVAntawn Jamison GSW 03/31/1999 GSW @ PHX L 28 16 6 13 46.2 0 1 0.0 4 6 66.7 7 8 15 0 2 0 3 5 1
+p218
+aVTerry Cummings GSW 03/31/1999 GSW @ PHX L 18 14 6 7 85.7 0 0 - 2 3 66.7 2 0 2 1 1 0 0 3 -14
+p219
+aVJohn Starks GSW 03/31/1999 GSW @ PHX L 26 4 1 11 9.1 0 1 0.0 2 2 100.0 1 2 3 0 0 0 3 0 -14
+p220
+aVAdonal Foyle GSW 03/31/1999 GSW @ PHX L 16 3 1 4 25.0 0 0 - 1 4 25.0 5 4 9 2 0 4 1 4 8
+p221
+aVJason Caffey GSW 03/31/1999 GSW @ PHX L 20 4 1 5 20.0 0 0 - 2 2 100.0 1 7 8 0 1 1 2 4 -15
+p222
+aVErick Dampier GSW 03/31/1999 GSW @ PHX L 23 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 1 3 1 2 0
+p223
+aVDonyell Marshall GSW 03/30/1999 GSW vs. POR W 25 10 5 11 45.5 0 1 0.0 0 0 - 2 9 11 3 2 1 2 2 14
+p224
+aVJohn Starks GSW 03/30/1999 GSW vs. POR W 33 16 6 14 42.9 4 7 57.1 0 0 - 0 4 4 8 2 0 3 4 12
+p225
+aVChris Mills GSW 03/30/1999 GSW vs. POR W 17 8 3 7 42.9 0 1 0.0 2 4 50.0 0 1 1 3 1 0 0 2 -6
+p226
+aVErick Dampier GSW 03/30/1999 GSW vs. POR W 24 8 3 8 37.5 0 0 - 2 2 100.0 4 1 5 0 0 1 1 2 -10
+p227
+aVJason Caffey GSW 03/30/1999 GSW vs. POR W 31 9 4 9 44.4 0 0 - 1 2 50.0 2 4 6 0 1 0 3 3 8
+p228
+aVBimbo Coles GSW 03/30/1999 GSW vs. POR W 35 24 9 14 64.3 0 0 - 6 7 85.7 1 3 4 5 1 2 2 3 8
+p229
+aVMuggsy Bogues GSW 03/30/1999 GSW vs. POR W 13 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p230
+aVAntawn Jamison GSW 03/30/1999 GSW vs. POR W 23 4 2 8 25.0 0 0 - 0 0 - 3 4 7 2 0 0 1 2 -11
+p231
+aVTerry Cummings GSW 03/30/1999 GSW vs. POR W 24 4 2 5 40.0 0 0 - 0 0 - 1 7 8 3 0 2 1 4 14
+p232
+aVAdonal Foyle GSW 03/30/1999 GSW vs. POR W 15 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 1 0 2 -11
+p233
+aVTony Delk GSW 03/27/1999 GSW vs. HOU L 5 3 1 4 25.0 0 1 0.0 1 2 50.0 1 1 2 1 0 0 0 1 0
+p234
+aVMuggsy Bogues GSW 03/27/1999 GSW vs. HOU L 23 7 3 8 37.5 0 0 - 1 1 100.0 1 0 1 6 1 0 0 1 -1
+p235
+aVAntawn Jamison GSW 03/27/1999 GSW vs. HOU L 30 23 10 17 58.8 0 1 0.0 3 6 50.0 5 4 9 0 1 2 4 2 -11
+p236
+aVJohn Starks GSW 03/27/1999 GSW vs. HOU L 34 12 4 13 30.8 3 6 50.0 1 2 50.0 0 0 0 5 2 0 1 2 -7
+p237
+aVJason Caffey GSW 03/27/1999 GSW vs. HOU L 15 2 1 5 20.0 0 0 - 0 0 - 1 3 4 3 1 0 1 2 -1
+p238
+aVTerry Cummings GSW 03/27/1999 GSW vs. HOU L 18 11 5 6 83.3 0 0 - 1 2 50.0 4 5 9 2 0 0 1 2 11
+p239
+aVAdonal Foyle GSW 03/27/1999 GSW vs. HOU L 8 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 1 0 2 12
+p240
+aVErick Dampier GSW 03/27/1999 GSW vs. HOU L 36 9 3 7 42.9 0 0 - 3 4 75.0 5 6 11 2 0 1 2 4 -14
+p241
+aVChris Mills GSW 03/27/1999 GSW vs. HOU L 21 7 3 10 30.0 1 3 33.3 0 0 - 1 1 2 4 0 0 2 2 13
+p242
+aVDonyell Marshall GSW 03/27/1999 GSW vs. HOU L 30 4 2 8 25.0 0 4 0.0 0 0 - 4 6 10 0 0 0 0 4 -7
+p243
+aVBimbo Coles GSW 03/27/1999 GSW vs. HOU L 19 6 1 7 14.3 0 0 - 4 4 100.0 0 3 3 3 0 0 0 2 0
+p244
+aVTerry Cummings GSW 03/26/1999 GSW vs. WAS W 17 16 5 10 50.0 0 0 - 6 8 75.0 4 6 10 0 1 0 2 3 -4
+p245
+aVErick Dampier GSW 03/26/1999 GSW vs. WAS W 32 16 6 12 50.0 0 0 - 4 9 44.4 7 3 10 1 0 0 5 4 -2
+p246
+aVMuggsy Bogues GSW 03/26/1999 GSW vs. WAS W 18 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 4 1 0 1 4 0
+p247
+aVAdonal Foyle GSW 03/26/1999 GSW vs. WAS W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 2 0
+p248
+aVBimbo Coles GSW 03/26/1999 GSW vs. WAS W 30 10 3 10 30.0 0 1 0.0 4 6 66.7 0 8 8 3 1 0 2 2 4
+p249
+aVJohn Starks GSW 03/26/1999 GSW vs. WAS W 38 9 3 12 25.0 1 4 25.0 2 2 100.0 1 1 2 10 1 0 1 3 16
+p250
+aVDonyell Marshall GSW 03/26/1999 GSW vs. WAS W 41 27 11 20 55.0 2 3 66.7 3 3 100.0 4 4 8 1 3 3 2 4 4
+p251
+aVAntawn Jamison GSW 03/26/1999 GSW vs. WAS W 30 11 3 7 42.9 0 0 - 5 5 100.0 2 3 5 1 2 0 0 2 14
+p252
+aVChris Mills GSW 03/26/1999 GSW vs. WAS W 19 4 0 3 0.0 0 1 0.0 4 4 100.0 1 1 2 0 0 0 0 1 -4
+p253
+aVTony Delk GSW 03/26/1999 GSW vs. WAS W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 0 -8
+p254
+aVJohn Starks GSW 03/24/1999 GSW @ LAC W 32 16 7 13 53.8 2 4 50.0 0 0 - 0 2 2 2 1 0 0 3 3
+p255
+aVMuggsy Bogues GSW 03/24/1999 GSW @ LAC W 23 8 4 5 80.0 0 0 - 0 1 0.0 0 3 3 3 4 0 1 0 3
+p256
+aVTerry Cummings GSW 03/24/1999 GSW @ LAC W 16 5 2 7 28.6 0 0 - 1 1 100.0 0 4 4 1 1 0 1 3 4
+p257
+aVAdonal Foyle GSW 03/24/1999 GSW @ LAC W 16 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 0 2 2 2 -1
+p258
+aVFelton Spencer GSW 03/24/1999 GSW @ LAC W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 5
+p259
+aVTony Delk GSW 03/24/1999 GSW @ LAC W 16 7 1 7 14.3 0 1 0.0 5 7 71.4 0 0 0 0 0 0 0 2 9
+p260
+aVBimbo Coles GSW 03/24/1999 GSW @ LAC W 25 8 3 9 33.3 0 0 - 2 2 100.0 1 4 5 6 1 0 1 0 9
+p261
+aVErick Dampier GSW 03/24/1999 GSW @ LAC W 34 7 2 6 33.3 0 0 - 3 4 75.0 3 3 6 2 0 0 2 5 8
+p262
+aVDonyell Marshall GSW 03/24/1999 GSW @ LAC W 39 13 5 13 38.5 0 1 0.0 3 3 100.0 1 7 8 1 1 0 5 2 15
+p263
+aVAntawn Jamison GSW 03/24/1999 GSW @ LAC W 31 22 10 14 71.4 0 0 - 2 5 40.0 4 2 6 0 1 0 2 2 5
+p264
+aVFelton Spencer GSW 03/23/1999 GSW @ POR L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p265
+aVTony Delk GSW 03/23/1999 GSW @ POR L 17 5 0 6 0.0 0 1 0.0 5 6 83.3 2 2 4 1 0 0 2 0 2
+p266
+aVMuggsy Bogues GSW 03/23/1999 GSW @ POR L 15 5 2 5 40.0 0 1 0.0 1 1 100.0 1 1 2 2 0 0 0 1 -3
+p267
+aVBimbo Coles GSW 03/23/1999 GSW @ POR L 33 17 6 12 50.0 0 2 0.0 5 5 100.0 0 2 2 3 2 0 1 2 -4
+p268
+aVDonyell Marshall GSW 03/23/1999 GSW @ POR L 27 5 2 9 22.2 0 0 - 1 1 100.0 1 4 5 1 1 0 0 2 -12
+p269
+aVAdonal Foyle GSW 03/23/1999 GSW @ POR L 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 2 1 0 4
+p270
+aVJason Caffey GSW 03/23/1999 GSW @ POR L 36 18 7 14 50.0 0 0 - 4 7 57.1 5 6 11 0 1 0 2 3 -10
+p271
+aVTerry Cummings GSW 03/23/1999 GSW @ POR L 22 0 0 6 0.0 0 0 - 0 0 - 1 2 3 0 2 0 1 5 -5
+p272
+aVErick Dampier GSW 03/23/1999 GSW @ POR L 21 2 1 3 33.3 0 0 - 0 0 - 4 3 7 0 1 0 3 4 -3
+p273
+aVAntawn Jamison GSW 03/23/1999 GSW @ POR L 21 8 3 8 37.5 0 0 - 2 3 66.7 3 2 5 0 1 0 2 2 5
+p274
+aVJohn Starks GSW 03/23/1999 GSW @ POR L 31 12 5 20 25.0 2 9 22.2 0 0 - 1 2 3 3 3 0 2 4 -10
+p275
+aVFelton Spencer GSW 03/19/1999 GSW vs. SEA W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 1
+p276
+aVJason Caffey GSW 03/19/1999 GSW vs. SEA W 27 14 6 8 75.0 0 0 - 2 2 100.0 3 6 9 0 1 0 1 3 15
+p277
+aVErick Dampier GSW 03/19/1999 GSW vs. SEA W 34 19 9 16 56.3 0 0 - 1 4 25.0 7 6 13 3 2 1 2 1 14
+p278
+aVTony Delk GSW 03/19/1999 GSW vs. SEA W 8 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 2
+p279
+aVDonyell Marshall GSW 03/19/1999 GSW vs. SEA W 28 4 2 7 28.6 0 1 0.0 0 0 - 3 2 5 5 1 0 1 2 14
+p280
+aVBimbo Coles GSW 03/19/1999 GSW vs. SEA W 29 14 6 13 46.2 0 1 0.0 2 2 100.0 0 5 5 5 0 0 1 4 16
+p281
+aVAntawn Jamison GSW 03/19/1999 GSW vs. SEA W 25 13 5 12 41.7 0 0 - 3 5 60.0 6 3 9 0 2 0 1 2 -5
+p282
+aVMuggsy Bogues GSW 03/19/1999 GSW vs. SEA W 20 2 1 4 25.0 0 0 - 0 0 - 2 2 4 3 1 0 1 1 -5
+p283
+aVAdonal Foyle GSW 03/19/1999 GSW vs. SEA W 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 0
+p284
+aVTerry Cummings GSW 03/19/1999 GSW vs. SEA W 13 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 1 0 0 2 -2
+p285
+aVJohn Starks GSW 03/19/1999 GSW vs. SEA W 40 20 8 20 40.0 4 10 40.0 0 0 - 1 0 1 6 2 0 1 1 10
+p286
+aVTerry Cummings GSW 03/17/1999 GSW vs. SAS L 18 4 2 7 28.6 0 0 - 0 0 - 2 3 5 2 1 0 1 2 -17
+p287
+aVAdonal Foyle GSW 03/17/1999 GSW vs. SAS L 21 4 2 4 50.0 0 0 - 0 0 - 2 5 7 0 1 3 2 3 -14
+p288
+aVFelton Spencer GSW 03/17/1999 GSW vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p289
+aVJason Caffey GSW 03/17/1999 GSW vs. SAS L 30 11 5 10 50.0 0 0 - 1 2 50.0 5 7 12 1 0 0 4 2 4
+p290
+aVDonyell Marshall GSW 03/17/1999 GSW vs. SAS L 26 12 3 13 23.1 1 6 16.7 5 6 83.3 5 1 6 4 1 1 0 4 -8
+p291
+aVMuggsy Bogues GSW 03/17/1999 GSW vs. SAS L 12 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 1 0 4 2 -12
+p292
+aVBimbo Coles GSW 03/17/1999 GSW vs. SAS L 36 20 9 16 56.3 0 3 0.0 2 4 50.0 1 3 4 3 2 0 0 2 8
+p293
+aVErick Dampier GSW 03/17/1999 GSW vs. SAS L 35 9 4 12 33.3 0 0 - 1 2 50.0 7 4 11 1 0 4 2 3 5
+p294
+aVTony Delk GSW 03/17/1999 GSW vs. SAS L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -3
+p295
+aVChris Mills GSW 03/17/1999 GSW vs. SAS L 15 2 1 7 14.3 0 1 0.0 0 0 - 1 2 3 3 0 0 1 1 11
+p296
+aVJohn Starks GSW 03/17/1999 GSW vs. SAS L 36 14 6 15 40.0 2 5 40.0 0 0 - 0 6 6 6 0 0 1 2 4
+p297
+aVDonyell Marshall GSW 03/15/1999 GSW vs. SAC L 34 10 4 11 36.4 0 1 0.0 2 2 100.0 6 8 14 4 1 0 2 2 5
+p298
+aVJohn Starks GSW 03/15/1999 GSW vs. SAC L 36 13 6 15 40.0 1 8 12.5 0 0 - 0 4 4 7 2 0 2 3 -3
+p299
+aVAdonal Foyle GSW 03/15/1999 GSW vs. SAC L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -12
+p300
+aVBimbo Coles GSW 03/15/1999 GSW vs. SAC L 38 23 11 13 84.6 1 1 100.0 0 0 - 0 0 0 6 2 0 3 5 -12
+p301
+aVTony Delk GSW 03/15/1999 GSW vs. SAC L 17 8 3 9 33.3 1 1 100.0 1 2 50.0 0 4 4 5 0 0 1 1 1
+p302
+aVTerry Cummings GSW 03/15/1999 GSW vs. SAC L 23 10 5 9 55.6 0 0 - 0 0 - 1 6 7 4 1 0 1 2 10
+p303
+aVErick Dampier GSW 03/15/1999 GSW vs. SAC L 21 4 2 9 22.2 0 0 - 0 0 - 2 4 6 0 0 2 4 4 -9
+p304
+aVChris Mills GSW 03/15/1999 GSW vs. SAC L 34 21 9 14 64.3 3 4 75.0 0 0 - 1 3 4 2 2 0 2 4 -11
+p305
+aVFelton Spencer GSW 03/15/1999 GSW vs. SAC L 8 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 2 2 -7
+p306
+aVJason Caffey GSW 03/15/1999 GSW vs. SAC L 19 8 4 8 50.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 3 8
+p307
+aVAdonal Foyle GSW 03/13/1999 GSW vs. ORL L 20 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 1 1 3 -9
+p308
+aVTerry Cummings GSW 03/13/1999 GSW vs. ORL L 19 10 5 11 45.5 0 0 - 0 0 - 1 3 4 1 1 1 2 4 -7
+p309
+aVTony Delk GSW 03/13/1999 GSW vs. ORL L 23 10 4 12 33.3 0 2 0.0 2 3 66.7 2 1 3 1 2 0 0 1 -26
+p310
+aVFelton Spencer GSW 03/13/1999 GSW vs. ORL L 7 0 0 2 0.0 0 0 - 0 0 - 3 3 6 0 0 0 0 2 -9
+p311
+aVChris Mills GSW 03/13/1999 GSW vs. ORL L 41 3 1 10 10.0 0 2 0.0 1 2 50.0 2 8 10 4 0 0 2 2 -3
+p312
+aVDonyell Marshall GSW 03/13/1999 GSW vs. ORL L 42 12 5 13 38.5 0 1 0.0 2 2 100.0 1 6 7 2 1 3 2 3 -5
+p313
+aVJohn Starks GSW 03/13/1999 GSW vs. ORL L 22 4 2 12 16.7 0 6 0.0 0 0 - 0 2 2 1 0 0 3 1 -4
+p314
+aVAntawn Jamison GSW 03/13/1999 GSW vs. ORL L 10 6 3 6 50.0 0 0 - 0 2 0.0 3 2 5 0 1 1 1 0 -14
+p315
+aVBimbo Coles GSW 03/13/1999 GSW vs. ORL L 27 10 5 6 83.3 0 0 - 0 0 - 1 5 6 5 2 0 3 5 10
+p316
+aVErick Dampier GSW 03/13/1999 GSW vs. ORL L 29 17 6 11 54.5 0 0 - 5 8 62.5 5 5 10 3 0 0 1 3 2
+p317
+aVAdonal Foyle GSW 03/12/1999 GSW @ LAL L 23 11 4 6 66.7 0 0 - 3 6 50.0 4 11 15 0 1 1 3 2 8
+p318
+aVDonyell Marshall GSW 03/12/1999 GSW @ LAL L 30 10 3 7 42.9 1 1 100.0 3 4 75.0 1 6 7 1 3 2 3 1 -9
+p319
+aVAntawn Jamison GSW 03/12/1999 GSW @ LAL L 23 6 1 3 33.3 0 0 - 4 10 40.0 2 4 6 1 0 0 2 3 1
+p320
+aVFelton Spencer GSW 03/12/1999 GSW @ LAL L 19 9 3 7 42.9 0 0 - 3 5 60.0 1 1 2 0 0 4 0 4 6
+p321
+aVTony Delk GSW 03/12/1999 GSW @ LAL L 26 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 4 1 0 2 1 5
+p322
+aVJohn Starks GSW 03/12/1999 GSW @ LAL L 32 9 3 10 30.0 2 8 25.0 1 2 50.0 0 2 2 2 1 0 4 4 -7
+p323
+aVBimbo Coles GSW 03/12/1999 GSW @ LAL L 22 5 2 8 25.0 0 0 - 1 2 50.0 1 0 1 2 3 1 2 2 -16
+p324
+aVChris Mills GSW 03/12/1999 GSW @ LAL L 31 8 4 11 36.4 0 0 - 0 0 - 0 1 1 2 0 1 2 3 -17
+p325
+aVTerry Cummings GSW 03/12/1999 GSW @ LAL L 8 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -5
+p326
+aVErick Dampier GSW 03/12/1999 GSW @ LAL L 26 12 3 12 25.0 0 0 - 6 8 75.0 5 4 9 2 0 1 0 2 -21
+p327
+aVFelton Spencer GSW 03/11/1999 GSW vs. MIN W 4 0 0 3 0.0 0 0 - 0 0 - 4 2 6 0 1 0 1 3 -1
+p328
+aVErick Dampier GSW 03/11/1999 GSW vs. MIN W 32 11 1 7 14.3 0 0 - 9 16 56.3 2 8 10 2 1 1 2 2 5
+p329
+aVAntawn Jamison GSW 03/11/1999 GSW vs. MIN W 15 2 0 6 0.0 0 0 - 2 4 50.0 2 2 4 0 0 1 1 4 0
+p330
+aVJohn Starks GSW 03/11/1999 GSW vs. MIN W 28 12 5 12 41.7 0 3 0.0 2 2 100.0 1 3 4 2 1 0 2 4 -10
+p331
+aVTerry Cummings GSW 03/11/1999 GSW vs. MIN W 17 9 3 7 42.9 0 0 - 3 3 100.0 0 2 2 1 1 0 0 2 4
+p332
+aVAdonal Foyle GSW 03/11/1999 GSW vs. MIN W 20 10 5 6 83.3 0 0 - 0 2 0.0 5 3 8 0 0 1 2 1 15
+p333
+aVChris Mills GSW 03/11/1999 GSW vs. MIN W 39 14 7 10 70.0 0 1 0.0 0 0 - 0 6 6 1 1 0 0 2 14
+p334
+aVDonyell Marshall GSW 03/11/1999 GSW vs. MIN W 35 14 6 13 46.2 0 0 - 2 4 50.0 2 6 8 0 1 0 0 3 0
+p335
+aVBimbo Coles GSW 03/11/1999 GSW vs. MIN W 28 6 1 7 14.3 0 0 - 4 6 66.7 1 2 3 7 0 0 3 2 -3
+p336
+aVTony Delk GSW 03/11/1999 GSW vs. MIN W 20 11 3 8 37.5 1 3 33.3 4 4 100.0 0 0 0 4 0 0 2 0 11
+p337
+aVErick Dampier GSW 03/09/1999 GSW vs. VAN W 39 17 7 15 46.7 0 0 - 3 6 50.0 8 10 18 2 0 1 4 3 6
+p338
+aVJohn Starks GSW 03/09/1999 GSW vs. VAN W 39 13 5 13 38.5 1 4 25.0 2 4 50.0 1 5 6 5 1 0 4 1 4
+p339
+aVMuggsy Bogues GSW 03/09/1999 GSW vs. VAN W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -1
+p340
+aVBimbo Coles GSW 03/09/1999 GSW vs. VAN W 23 17 8 11 72.7 0 0 - 1 2 50.0 0 0 0 3 1 0 1 1 5
+p341
+aVAntawn Jamison GSW 03/09/1999 GSW vs. VAN W 12 0 0 4 0.0 0 0 - 0 0 - 2 0 2 1 1 0 1 4 -3
+p342
+aVAdonal Foyle GSW 03/09/1999 GSW vs. VAN W 14 2 1 2 50.0 0 0 - 0 1 0.0 2 7 9 2 0 1 1 2 1
+p343
+aVChris Mills GSW 03/09/1999 GSW vs. VAN W 32 9 4 8 50.0 0 2 0.0 1 2 50.0 0 8 8 4 0 0 2 2 13
+p344
+aVDonyell Marshall GSW 03/09/1999 GSW vs. VAN W 35 20 9 17 52.9 1 1 100.0 1 2 50.0 1 9 10 3 1 1 1 3 15
+p345
+aVTony Delk GSW 03/09/1999 GSW vs. VAN W 25 8 4 8 50.0 0 0 - 0 2 0.0 1 0 1 11 2 1 2 0 9
+p346
+aVTerry Cummings GSW 03/09/1999 GSW vs. VAN W 17 4 2 6 33.3 0 0 - 0 0 - 2 1 3 1 2 0 3 2 1
+p347
+aVTony Delk GSW 03/06/1999 GSW @ CLE L 23 13 3 6 50.0 1 3 33.3 6 8 75.0 0 3 3 3 1 0 5 3 -9
+p348
+aVTerry Cummings GSW 03/06/1999 GSW @ CLE L 22 10 4 12 33.3 0 0 - 2 4 50.0 3 2 5 0 0 0 2 2 -6
+p349
+aVAdonal Foyle GSW 03/06/1999 GSW @ CLE L 10 1 0 1 0.0 0 0 - 1 4 25.0 1 2 3 0 0 0 1 4 -8
+p350
+aVFelton Spencer GSW 03/06/1999 GSW @ CLE L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p351
+aVErick Dampier GSW 03/06/1999 GSW @ CLE L 29 12 4 7 57.1 0 0 - 4 7 57.1 4 5 9 0 1 3 1 6 -11
+p352
+aVJohn Starks GSW 03/06/1999 GSW @ CLE L 41 15 6 16 37.5 1 6 16.7 2 2 100.0 0 3 3 1 1 1 2 4 -10
+p353
+aVDonyell Marshall GSW 03/06/1999 GSW @ CLE L 30 6 3 11 27.3 0 0 - 0 0 - 1 1 2 1 1 1 1 1 -4
+p354
+aVBimbo Coles GSW 03/06/1999 GSW @ CLE L 25 9 3 6 50.0 0 0 - 3 3 100.0 1 3 4 3 1 0 4 6 -8
+p355
+aVAntawn Jamison GSW 03/06/1999 GSW @ CLE L 19 3 1 1 100.0 0 0 - 1 4 25.0 1 1 2 0 2 0 1 5 -15
+p356
+aVChris Mills GSW 03/06/1999 GSW @ CLE L 36 11 2 14 14.3 1 3 33.3 6 6 100.0 4 4 8 3 2 1 0 3 -9
+p357
+aVJohn Starks GSW 03/05/1999 GSW @ IND W 40 17 7 12 58.3 2 4 50.0 1 2 50.0 1 3 4 9 2 0 2 3 23
+p358
+aVAdonal Foyle GSW 03/05/1999 GSW @ IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p359
+aVErick Dampier GSW 03/05/1999 GSW @ IND W 30 15 6 14 42.9 0 0 - 3 4 75.0 3 4 7 1 1 3 1 4 13
+p360
+aVTony Delk GSW 03/05/1999 GSW @ IND W 26 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 9 1 1 2 2 10
+p361
+aVBimbo Coles GSW 03/05/1999 GSW @ IND W 22 14 6 9 66.7 2 2 100.0 0 0 - 1 1 2 3 0 0 0 0 9
+p362
+aVDonyell Marshall GSW 03/05/1999 GSW @ IND W 13 9 3 5 60.0 1 1 100.0 2 2 100.0 2 2 4 1 0 2 3 5 12
+p363
+aVChris Mills GSW 03/05/1999 GSW @ IND W 39 7 3 10 30.0 0 2 0.0 1 1 100.0 1 4 5 6 3 0 2 2 22
+p364
+aVJason Caffey GSW 03/05/1999 GSW @ IND W 35 14 7 12 58.3 0 0 - 0 0 - 4 7 11 3 0 1 1 3 7
+p365
+aVTerry Cummings GSW 03/05/1999 GSW @ IND W 18 14 7 10 70.0 0 0 - 0 0 - 1 3 4 0 2 0 1 1 6
+p366
+aVAntawn Jamison GSW 03/05/1999 GSW @ IND W 18 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -7
+p367
+aVTerry Cummings GSW 03/03/1999 GSW @ MIL L 20 9 3 9 33.3 0 0 - 3 6 50.0 2 1 3 0 1 0 0 3 -18
+p368
+aVErick Dampier GSW 03/03/1999 GSW @ MIL L 22 1 0 2 0.0 0 0 - 1 2 50.0 0 6 6 0 0 0 1 4 -10
+p369
+aVJohn Starks GSW 03/03/1999 GSW @ MIL L 37 16 6 16 37.5 2 5 40.0 2 2 100.0 3 3 6 1 0 0 3 3 -20
+p370
+aVAntawn Jamison GSW 03/03/1999 GSW @ MIL L 23 14 4 10 40.0 0 0 - 6 9 66.7 4 3 7 0 2 0 3 1 -5
+p371
+aVDuane Ferrell GSW 03/03/1999 GSW @ MIL L 6 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p372
+aVBimbo Coles GSW 03/03/1999 GSW @ MIL L 24 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 4 4 2 2 5 -10
+p373
+aVFelton Spencer GSW 03/03/1999 GSW @ MIL L 6 3 0 1 0.0 0 0 - 3 6 50.0 2 1 3 0 0 1 0 2 1
+p374
+aVTony Delk GSW 03/03/1999 GSW @ MIL L 26 4 2 10 20.0 0 1 0.0 0 1 0.0 0 2 2 4 0 0 4 0 -23
+p375
+aVChris Mills GSW 03/03/1999 GSW @ MIL L 29 11 5 11 45.5 1 2 50.0 0 0 - 2 1 3 1 0 0 1 4 -27
+p376
+aVDonyell Marshall GSW 03/03/1999 GSW @ MIL L 15 7 2 6 33.3 0 0 - 3 4 75.0 4 6 10 2 0 0 3 3 -16
+p377
+aVJason Caffey GSW 03/03/1999 GSW @ MIL L 17 2 1 7 14.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -12
+p378
+aVAdonal Foyle GSW 03/03/1999 GSW @ MIL L 16 8 4 5 80.0 0 0 - 0 0 - 5 3 8 0 0 0 1 2 -1
+p379
+aVDonyell Marshall GSW 03/02/1999 GSW @ MIN L 21 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 3 2 1 2 -7
+p380
+aVAdonal Foyle GSW 03/02/1999 GSW @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p381
+aVAntawn Jamison GSW 03/02/1999 GSW @ MIN L 19 4 2 6 33.3 0 0 - 0 0 - 1 3 4 1 0 0 2 1 0
+p382
+aVTerry Cummings GSW 03/02/1999 GSW @ MIN L 19 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 1 0 0 1 3 -11
+p383
+aVChris Mills GSW 03/02/1999 GSW @ MIN L 40 21 8 16 50.0 3 6 50.0 2 2 100.0 4 3 7 3 1 0 1 5 -9
+p384
+aVJason Caffey GSW 03/02/1999 GSW @ MIN L 30 9 3 6 50.0 0 0 - 3 4 75.0 0 7 7 2 0 1 3 3 -5
+p385
+aVErick Dampier GSW 03/02/1999 GSW @ MIN L 26 4 2 7 28.6 0 0 - 0 0 - 0 4 4 0 0 2 3 3 -2
+p386
+aVBimbo Coles GSW 03/02/1999 GSW @ MIN L 29 7 3 8 37.5 0 0 - 1 2 50.0 0 3 3 5 1 0 2 6 -11
+p387
+aVTony Delk GSW 03/02/1999 GSW @ MIN L 18 9 3 6 50.0 0 0 - 3 5 60.0 0 2 2 4 0 0 2 0 0
+p388
+aVJohn Starks GSW 03/02/1999 GSW @ MIN L 35 15 5 18 27.8 3 9 33.3 2 2 100.0 1 2 3 5 5 0 2 4 -9
+p389
+aVAntawn Jamison GSW 02/28/1999 GSW @ PHX L 17 2 1 4 25.0 0 0 - 0 3 0.0 1 3 4 0 0 0 0 4 2
+p390
+aVChris Mills GSW 02/28/1999 GSW @ PHX L 37 10 5 13 38.5 0 4 0.0 0 1 0.0 4 5 9 4 0 0 1 5 -4
+p391
+aVBimbo Coles GSW 02/28/1999 GSW @ PHX L 20 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 4 -2
+p392
+aVDonyell Marshall GSW 02/28/1999 GSW @ PHX L 23 11 4 13 30.8 1 2 50.0 2 2 100.0 5 6 11 0 0 2 2 2 -17
+p393
+aVJohn Starks GSW 02/28/1999 GSW @ PHX L 33 14 5 15 33.3 2 8 25.0 2 4 50.0 1 4 5 5 2 0 0 3 -19
+p394
+aVTony Delk GSW 02/28/1999 GSW @ PHX L 32 18 7 14 50.0 3 9 33.3 1 2 50.0 1 1 2 3 1 0 2 3 -11
+p395
+aVJason Caffey GSW 02/28/1999 GSW @ PHX L 27 14 4 10 40.0 0 0 - 6 6 100.0 5 7 12 0 1 0 3 3 -9
+p396
+aVAdonal Foyle GSW 02/28/1999 GSW @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 9
+p397
+aVErick Dampier GSW 02/28/1999 GSW @ PHX L 23 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 0 1 2 2 3 -5
+p398
+aVTerry Cummings GSW 02/28/1999 GSW @ PHX L 22 8 4 9 44.4 0 0 - 0 0 - 1 3 4 1 0 1 1 1 -9
+p399
+aVAntawn Jamison GSW 02/26/1999 GSW vs. PHX W 26 11 4 8 50.0 0 0 - 3 8 37.5 4 12 16 0 0 1 2 2 0
+p400
+aVJohn Starks GSW 02/26/1999 GSW vs. PHX W 34 15 6 18 33.3 3 7 42.9 0 4 0.0 0 1 1 3 0 0 0 3 5
+p401
+aVJason Caffey GSW 02/26/1999 GSW vs. PHX W 22 5 0 2 0.0 0 0 - 5 8 62.5 2 4 6 1 0 0 3 3 -5
+p402
+aVDonyell Marshall GSW 02/26/1999 GSW vs. PHX W 22 15 6 10 60.0 1 3 33.3 2 2 100.0 3 8 11 0 1 0 2 2 8
+p403
+aVChris Mills GSW 02/26/1999 GSW vs. PHX W 36 14 6 9 66.7 2 4 50.0 0 0 - 1 2 3 1 1 0 0 3 3
+p404
+aVTony Delk GSW 02/26/1999 GSW vs. PHX W 22 11 5 7 71.4 1 1 100.0 0 0 - 0 2 2 6 1 0 0 4 0
+p405
+aVTerry Cummings GSW 02/26/1999 GSW vs. PHX W 17 7 2 5 40.0 0 0 - 3 4 75.0 0 2 2 1 1 0 1 2 6
+p406
+aVAdonal Foyle GSW 02/26/1999 GSW vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p407
+aVErick Dampier GSW 02/26/1999 GSW vs. PHX W 32 14 3 8 37.5 0 0 - 8 12 66.7 4 5 9 3 0 2 4 2 0
+p408
+aVBimbo Coles GSW 02/26/1999 GSW vs. PHX W 26 2 1 6 16.7 0 0 - 0 0 - 1 6 7 9 1 0 4 2 4
+p409
+aVAntawn Jamison GSW 02/23/1999 GSW @ LAC W 18 11 5 6 83.3 0 0 - 1 3 33.3 1 4 5 0 1 0 3 4 3
+p410
+aVTony Delk GSW 02/23/1999 GSW @ LAC W 27 8 3 8 37.5 0 3 0.0 2 2 100.0 0 1 1 3 0 0 2 2 5
+p411
+aVErick Dampier GSW 02/23/1999 GSW @ LAC W 30 8 3 11 27.3 0 0 - 2 4 50.0 4 1 5 1 0 3 0 4 4
+p412
+aVChris Mills GSW 02/23/1999 GSW @ LAC W 36 11 5 12 41.7 0 4 0.0 1 1 100.0 1 9 10 2 0 2 1 1 -4
+p413
+aVFelton Spencer GSW 02/23/1999 GSW @ LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p414
+aVJason Caffey GSW 02/23/1999 GSW @ LAC W 24 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 0 1 0 1 5 7
+p415
+aVDonyell Marshall GSW 02/23/1999 GSW @ LAC W 25 13 5 12 41.7 1 1 100.0 2 2 100.0 4 5 9 1 0 3 3 3 -2
+p416
+aVBimbo Coles GSW 02/23/1999 GSW @ LAC W 26 15 5 7 71.4 0 0 - 5 6 83.3 0 2 2 6 1 0 3 2 7
+p417
+aVTerry Cummings GSW 02/23/1999 GSW @ LAC W 15 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 3 0 1 3 2
+p418
+aVJohn Starks GSW 02/23/1999 GSW @ LAC W 35 18 7 15 46.7 1 3 33.3 3 4 75.0 0 7 7 10 3 0 1 1 4
+p419
+aVJason Caffey GSW 02/20/1999 GSW @ POR L 30 20 7 12 58.3 0 0 - 6 9 66.7 5 7 12 0 0 0 4 5 8
+p420
+aVAntawn Jamison GSW 02/20/1999 GSW @ POR L 18 4 2 5 40.0 0 0 - 0 2 0.0 2 1 3 0 0 1 0 3 -10
+p421
+aVTerry Cummings GSW 02/20/1999 GSW @ POR L 28 12 6 8 75.0 0 0 - 0 0 - 1 4 5 3 2 0 3 6 -8
+p422
+aVDuane Ferrell GSW 02/20/1999 GSW @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p423
+aVBimbo Coles GSW 02/20/1999 GSW @ POR L 21 8 3 6 50.0 0 1 0.0 2 3 66.7 0 1 1 2 1 0 1 1 -2
+p424
+aVErick Dampier GSW 02/20/1999 GSW @ POR L 31 4 2 9 22.2 0 0 - 0 0 - 0 4 4 1 2 0 1 4 1
+p425
+aVTony Delk GSW 02/20/1999 GSW @ POR L 29 9 3 10 30.0 0 2 0.0 3 3 100.0 0 1 1 4 1 3 0 2 -4
+p426
+aVChris Mills GSW 02/20/1999 GSW @ POR L 38 12 5 13 38.5 2 4 50.0 0 0 - 2 3 5 1 0 1 3 3 -9
+p427
+aVFelton Spencer GSW 02/20/1999 GSW @ POR L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 4 -11
+p428
+aVJohn Starks GSW 02/20/1999 GSW @ POR L 38 13 5 14 35.7 2 3 66.7 1 4 25.0 1 2 3 5 5 0 2 4 5
+p429
+aVTerry Cummings GSW 02/19/1999 GSW vs. DAL W 24 6 3 8 37.5 0 0 - 0 2 0.0 1 6 7 3 1 0 1 3 3
+p430
+aVJason Caffey GSW 02/19/1999 GSW vs. DAL W 24 6 2 7 28.6 0 0 - 2 4 50.0 1 1 2 0 2 0 0 2 2
+p431
+aVAntawn Jamison GSW 02/19/1999 GSW vs. DAL W 22 12 5 10 50.0 0 0 - 2 3 66.7 3 5 8 1 0 1 0 3 17
+p432
+aVBimbo Coles GSW 02/19/1999 GSW vs. DAL W 27 8 3 9 33.3 0 1 0.0 2 3 66.7 1 0 1 7 1 1 2 4 13
+p433
+aVJohn Starks GSW 02/19/1999 GSW vs. DAL W 38 16 7 20 35.0 0 5 0.0 2 2 100.0 3 7 10 7 3 0 1 1 5
+p434
+aVErick Dampier GSW 02/19/1999 GSW vs. DAL W 34 6 2 8 25.0 0 0 - 2 3 66.7 1 9 10 3 1 1 1 4 -7
+p435
+aVTony Delk GSW 02/19/1999 GSW vs. DAL W 23 9 4 14 28.6 0 1 0.0 1 1 100.0 0 1 1 1 0 0 1 4 -14
+p436
+aVFelton Spencer GSW 02/19/1999 GSW vs. DAL W 14 11 5 6 83.3 0 0 - 1 1 100.0 3 3 6 0 1 0 2 2 10
+p437
+aVChris Mills GSW 02/19/1999 GSW vs. DAL W 34 10 4 7 57.1 2 4 50.0 0 0 - 0 5 5 1 0 0 1 3 -4
+p438
+aVFelton Spencer GSW 02/17/1999 GSW vs. CHH W 4 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 0 0 2 0 1 2
+p439
+aVDonyell Marshall GSW 02/17/1999 GSW vs. CHH W 19 13 5 11 45.5 1 1 100.0 2 2 100.0 3 2 5 1 1 1 2 4 -1
+p440
+aVJason Caffey GSW 02/17/1999 GSW vs. CHH W 27 9 4 5 80.0 0 0 - 1 3 33.3 0 4 4 0 0 0 2 3 5
+p441
+aVTerry Cummings GSW 02/17/1999 GSW vs. CHH W 15 10 4 7 57.1 0 0 - 2 4 50.0 0 1 1 1 2 0 0 2 11
+p442
+aVChris Mills GSW 02/17/1999 GSW vs. CHH W 35 10 4 10 40.0 0 3 0.0 2 2 100.0 1 3 4 5 2 0 0 3 7
+p443
+aVDuane Ferrell GSW 02/17/1999 GSW vs. CHH W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 10
+p444
+aVMuggsy Bogues GSW 02/17/1999 GSW vs. CHH W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 10
+p445
+aVJohn Starks GSW 02/17/1999 GSW vs. CHH W 31 14 6 18 33.3 2 7 28.6 0 2 0.0 1 1 2 6 0 0 2 1 -6
+p446
+aVBimbo Coles GSW 02/17/1999 GSW vs. CHH W 20 13 4 4 100.0 0 0 - 5 6 83.3 1 2 3 9 2 0 0 2 21
+p447
+aVTony Delk GSW 02/17/1999 GSW vs. CHH W 20 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 1 0 0 2 0 -22
+p448
+aVAntawn Jamison GSW 02/17/1999 GSW vs. CHH W 22 8 3 12 25.0 0 0 - 2 2 100.0 7 6 13 3 2 0 2 1 7
+p449
+aVErick Dampier GSW 02/17/1999 GSW vs. CHH W 31 10 5 18 27.8 0 0 - 0 0 - 10 8 18 1 1 1 1 2 1
+p450
+aVJohn Starks GSW 02/15/1999 GSW vs. MIN W 35 13 4 13 30.8 2 8 25.0 3 4 75.0 0 0 0 6 0 0 5 0 -2
+p451
+aVMuggsy Bogues GSW 02/15/1999 GSW vs. MIN W 23 6 3 4 75.0 0 0 - 0 0 - 0 1 1 7 3 0 2 2 9
+p452
+aVDonyell Marshall GSW 02/15/1999 GSW vs. MIN W 22 14 5 10 50.0 0 1 0.0 4 7 57.1 2 7 9 3 1 0 2 1 5
+p453
+aVChris Mills GSW 02/15/1999 GSW vs. MIN W 24 3 1 5 20.0 0 3 0.0 1 2 50.0 0 1 1 1 1 0 1 2 13
+p454
+aVTony Delk GSW 02/15/1999 GSW vs. MIN W 30 17 7 13 53.8 3 6 50.0 0 0 - 0 2 2 3 0 0 1 2 -7
+p455
+aVTerry Cummings GSW 02/15/1999 GSW vs. MIN W 16 6 1 8 12.5 0 0 - 4 4 100.0 3 2 5 0 1 0 0 3 9
+p456
+aVAntawn Jamison GSW 02/15/1999 GSW vs. MIN W 29 21 7 8 87.5 1 1 100.0 6 9 66.7 4 7 11 1 1 0 3 4 0
+p457
+aVErick Dampier GSW 02/15/1999 GSW vs. MIN W 36 13 5 9 55.6 0 0 - 3 6 50.0 5 9 14 3 1 5 2 4 -4
+p458
+aVJason Caffey GSW 02/15/1999 GSW vs. MIN W 25 8 3 5 60.0 0 0 - 2 4 50.0 1 2 3 0 0 1 1 3 -13
+p459
+aVErick Dampier GSW 02/14/1999 GSW vs. POR W 35 9 4 12 33.3 0 0 - 1 2 50.0 11 4 15 1 0 1 4 2 -13
+p460
+aVJohn Starks GSW 02/14/1999 GSW vs. POR W 35 18 6 16 37.5 2 8 25.0 4 5 80.0 1 1 2 7 1 0 0 6 7
+p461
+aVAntawn Jamison GSW 02/14/1999 GSW vs. POR W 16 4 2 9 22.2 0 0 - 0 2 0.0 1 5 6 1 0 0 0 1 8
+p462
+aVMuggsy Bogues GSW 02/14/1999 GSW vs. POR W 36 8 3 8 37.5 0 0 - 2 2 100.0 0 5 5 9 4 0 1 3 9
+p463
+aVJason Caffey GSW 02/14/1999 GSW vs. POR W 35 11 5 13 38.5 0 0 - 1 2 50.0 2 3 5 0 1 0 0 3 -7
+p464
+aVDuane Ferrell GSW 02/14/1999 GSW vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p465
+aVTony Delk GSW 02/14/1999 GSW vs. POR W 22 4 2 11 18.2 0 5 0.0 0 2 0.0 0 3 3 2 0 0 2 3 -2
+p466
+aVChris Mills GSW 02/14/1999 GSW vs. POR W 50 13 5 11 45.5 1 4 25.0 2 2 100.0 1 7 8 2 1 1 0 2 -1
+p467
+aVDonyell Marshall GSW 02/14/1999 GSW vs. POR W 35 14 5 12 41.7 2 4 50.0 2 4 50.0 5 4 9 1 1 1 2 0 1
+p468
+aVTerry Cummings GSW 02/14/1999 GSW vs. POR W 26 24 8 14 57.1 1 1 100.0 7 8 87.5 6 2 8 5 2 1 1 5 25
+p469
+aVTerry Cummings GSW 02/12/1999 GSW vs. UTA L 18 16 6 11 54.5 0 0 - 4 8 50.0 2 0 2 0 2 1 1 4 -10
+p470
+aVMuggsy Bogues GSW 02/12/1999 GSW vs. UTA L 12 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 1 0 0 2 1 -15
+p471
+aVTony Delk GSW 02/12/1999 GSW vs. UTA L 38 16 7 14 50.0 1 3 33.3 1 2 50.0 0 2 2 7 2 0 1 3 -5
+p472
+aVChris Mills GSW 02/12/1999 GSW vs. UTA L 22 8 2 6 33.3 0 2 0.0 4 4 100.0 1 3 4 3 1 0 3 5 -23
+p473
+aVBimbo Coles GSW 02/12/1999 GSW vs. UTA L 5 1 0 0 - 0 0 - 1 1 100.0 0 3 3 1 0 0 0 0 -2
+p474
+aVAntawn Jamison GSW 02/12/1999 GSW vs. UTA L 13 4 1 5 20.0 0 0 - 2 4 50.0 2 1 3 1 1 0 0 0 2
+p475
+aVAdonal Foyle GSW 02/12/1999 GSW vs. UTA L 19 2 1 2 50.0 0 0 - 0 0 - 2 7 9 0 0 4 2 4 -8
+p476
+aVErick Dampier GSW 02/12/1999 GSW vs. UTA L 25 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 1 5 -5
+p477
+aVDonyell Marshall GSW 02/12/1999 GSW vs. UTA L 30 13 6 13 46.2 0 1 0.0 1 3 33.3 3 8 11 4 1 1 2 3 -1
+p478
+aVJason Caffey GSW 02/12/1999 GSW vs. UTA L 25 9 4 8 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 3 4 -12
+p479
+aVJohn Starks GSW 02/12/1999 GSW vs. UTA L 33 8 4 13 30.8 0 2 0.0 0 0 - 1 3 4 6 1 0 3 4 -1
+p480
+aVAntawn Jamison GSW 02/10/1999 GSW vs. SEA L 9 4 2 5 40.0 0 1 0.0 0 0 - 3 3 6 0 0 0 0 0 -8
+p481
+aVBimbo Coles GSW 02/10/1999 GSW vs. SEA L 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -7
+p482
+aVMuggsy Bogues GSW 02/10/1999 GSW vs. SEA L 32 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 12 3 0 2 1 1
+p483
+aVDonyell Marshall GSW 02/10/1999 GSW vs. SEA L 18 11 4 8 50.0 0 1 0.0 3 4 75.0 0 4 4 1 2 0 5 1 -12
+p484
+aVTony Delk GSW 02/10/1999 GSW vs. SEA L 8 3 0 2 0.0 0 2 0.0 3 4 75.0 0 0 0 0 0 0 0 1 -6
+p485
+aVErick Dampier GSW 02/10/1999 GSW vs. SEA L 20 0 0 4 0.0 0 0 - 0 4 0.0 1 3 4 0 0 2 4 4 -21
+p486
+aVChris Mills GSW 02/10/1999 GSW vs. SEA L 40 19 6 12 50.0 3 5 60.0 4 4 100.0 1 2 3 1 2 0 0 3 -2
+p487
+aVTerry Cummings GSW 02/10/1999 GSW vs. SEA L 25 12 6 9 66.7 0 0 - 0 0 - 1 9 10 1 1 0 3 4 15
+p488
+aVJason Caffey GSW 02/10/1999 GSW vs. SEA L 24 3 1 3 33.3 0 1 0.0 1 2 50.0 1 0 1 1 2 0 7 3 -8
+p489
+aVAdonal Foyle GSW 02/10/1999 GSW vs. SEA L 14 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 1 0 2 12
+p490
+aVJohn Starks GSW 02/10/1999 GSW vs. SEA L 33 22 9 19 47.4 3 8 37.5 1 1 100.0 1 1 2 1 2 1 0 5 1
+p491
+aVErick Dampier GSW 02/09/1999 GSW @ SEA L 21 4 1 6 16.7 0 0 - 2 6 33.3 1 1 2 0 0 0 2 1 -8
+p492
+aVJason Caffey GSW 02/09/1999 GSW @ SEA L 17 9 3 6 50.0 0 0 - 3 4 75.0 2 1 3 0 1 0 3 4 -1
+p493
+aVDonyell Marshall GSW 02/09/1999 GSW @ SEA L 6 6 2 3 66.7 0 1 0.0 2 4 50.0 0 0 0 0 0 0 2 0 -7
+p494
+aVChris Mills GSW 02/09/1999 GSW @ SEA L 33 10 4 9 44.4 2 5 40.0 0 0 - 1 7 8 1 1 0 3 3 -10
+p495
+aVBimbo Coles GSW 02/09/1999 GSW @ SEA L 24 4 2 6 33.3 0 0 - 0 0 - 0 2 2 4 2 0 3 2 -11
+p496
+aVAdonal Foyle GSW 02/09/1999 GSW @ SEA L 25 5 2 7 28.6 0 0 - 1 2 50.0 3 5 8 2 1 1 0 4 -11
+p497
+aVMuggsy Bogues GSW 02/09/1999 GSW @ SEA L 19 0 0 0 - 0 0 - 0 1 0.0 0 4 4 5 1 0 1 4 -8
+p498
+aVJohn Starks GSW 02/09/1999 GSW @ SEA L 31 12 4 11 36.4 2 5 40.0 2 2 100.0 0 3 3 1 1 0 1 5 -16
+p499
+aVFelton Spencer GSW 02/09/1999 GSW @ SEA L 10 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 3 0
+p500
+aVTerry Cummings GSW 02/09/1999 GSW @ SEA L 17 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 0 0 1 1 3 -11
+p501
+aVDuane Ferrell GSW 02/09/1999 GSW @ SEA L 6 1 0 2 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 2
+p502
+aVAntawn Jamison GSW 02/09/1999 GSW @ SEA L 24 7 2 10 20.0 0 1 0.0 3 5 60.0 3 0 3 1 1 2 1 0 -12
+p503
+aVTony Delk GSW 02/09/1999 GSW @ SEA L 7 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p504
+aVJason Caffey GSW 02/07/1999 GSW vs. DAL L 32 12 5 8 62.5 0 0 - 2 5 40.0 2 4 6 0 0 0 2 2 0
+p505
+aVTerry Cummings GSW 02/07/1999 GSW vs. DAL L 35 23 8 16 50.0 0 0 - 7 8 87.5 7 8 15 0 1 0 2 6 2
+p506
+aVMuggsy Bogues GSW 02/07/1999 GSW vs. DAL L 32 9 4 13 30.8 0 0 - 1 1 100.0 1 4 5 4 0 0 1 4 -2
+p507
+aVDonyell Marshall GSW 02/07/1999 GSW vs. DAL L 24 6 3 9 33.3 0 2 0.0 0 2 0.0 2 2 4 0 0 1 1 1 0
+p508
+aVBimbo Coles GSW 02/07/1999 GSW vs. DAL L 25 2 1 7 14.3 0 1 0.0 0 0 - 1 3 4 6 1 0 3 4 -1
+p509
+aVTony Delk GSW 02/07/1999 GSW vs. DAL L 14 0 0 6 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -4
+p510
+aVJohn Starks GSW 02/07/1999 GSW vs. DAL L 43 20 7 14 50.0 2 4 50.0 4 4 100.0 2 3 5 12 1 0 2 5 -1
+p511
+aVAntawn Jamison GSW 02/07/1999 GSW vs. DAL L 16 8 4 10 40.0 0 1 0.0 0 0 - 5 4 9 0 0 0 0 0 7
+p512
+aVChris Mills GSW 02/07/1999 GSW vs. DAL L 33 6 2 6 33.3 0 2 0.0 2 3 66.7 0 4 4 1 1 2 1 3 -10
+p513
+aVErick Dampier GSW 02/07/1999 GSW vs. DAL L 20 8 2 5 40.0 0 0 - 4 6 66.7 1 3 4 1 0 2 3 4 -6
+p514
+aVAdonal Foyle GSW 02/07/1999 GSW vs. DAL L 14 5 2 10 20.0 0 0 - 1 2 50.0 6 2 8 0 0 2 1 3 0
+p515
+aVAntawn Jamison GSW 02/06/1999 GSW vs. HOU L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -9
+p516
+aVErick Dampier GSW 02/06/1999 GSW vs. HOU L 30 7 3 6 50.0 0 0 - 1 4 25.0 3 7 10 2 2 0 2 3 -6
+p517
+aVJohn Starks GSW 02/06/1999 GSW vs. HOU L 30 15 5 13 38.5 1 4 25.0 4 5 80.0 1 5 6 6 5 1 1 2 1
+p518
+aVAdonal Foyle GSW 02/06/1999 GSW vs. HOU L 22 7 2 4 50.0 0 0 - 3 4 75.0 3 4 7 1 1 1 3 4 -1
+p519
+aVBimbo Coles GSW 02/06/1999 GSW vs. HOU L 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 6 0 0 1 1 2
+p520
+aVTony Delk GSW 02/06/1999 GSW vs. HOU L 13 12 5 9 55.6 1 2 50.0 1 2 50.0 1 1 2 0 0 0 0 0 -2
+p521
+aVJason Caffey GSW 02/06/1999 GSW vs. HOU L 25 8 4 9 44.4 0 0 - 0 1 0.0 1 3 4 0 3 0 0 4 0
+p522
+aVChris Mills GSW 02/06/1999 GSW vs. HOU L 31 8 3 10 30.0 2 4 50.0 0 0 - 0 2 2 4 0 0 2 3 8
+p523
+aVTerry Cummings GSW 02/06/1999 GSW vs. HOU L 19 6 3 7 42.9 0 0 - 0 0 - 1 2 3 1 0 0 0 5 3
+p524
+aVMuggsy Bogues GSW 02/06/1999 GSW vs. HOU L 32 9 4 6 66.7 0 0 - 1 2 50.0 1 1 2 2 2 0 2 3 -4
+p525
+aVDonyell Marshall GSW 02/06/1999 GSW vs. HOU L 18 9 3 9 33.3 1 3 33.3 2 2 100.0 3 4 7 1 1 0 2 2 -2
+p526
+a.

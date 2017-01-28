@@ -1,0 +1,104 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAaron McKie PHI 05/03/2002 PHI @ BOS L 32 10 3 7 42.9 1 3 33.3 3 4 75.0 1 5 6 4 0 0 0 0 -14
+p2
+aVDerrick McKey PHI 05/03/2002 PHI @ BOS L 9 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p3
+aVDikembe Mutombo PHI 05/03/2002 PHI @ BOS L 33 12 2 6 33.3 0 0 - 8 8 100.0 0 6 6 0 1 3 1 2 -12
+p4
+aVMatt Harpring PHI 05/03/2002 PHI @ BOS L 24 8 2 7 28.6 0 0 - 4 4 100.0 3 5 8 2 0 0 1 1 -9
+p5
+aVDerrick Coleman PHI 05/03/2002 PHI @ BOS L 37 10 4 6 66.7 1 2 50.0 1 2 50.0 2 3 5 2 0 0 2 3 -33
+p6
+aVAlvin Jones PHI 05/03/2002 PHI @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p7
+aVRaja Bell PHI 05/03/2002 PHI @ BOS L 4 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -6
+p8
+aVAllen Iverson PHI 05/03/2002 PHI @ BOS L 44 31 11 24 45.8 4 7 57.1 5 8 62.5 0 2 2 4 1 0 1 1 -27
+p9
+aVEric Snow PHI 05/03/2002 PHI @ BOS L 28 6 2 12 16.7 0 0 - 2 2 100.0 2 3 5 2 0 0 3 3 -28
+p10
+aVCorie Blount PHI 05/03/2002 PHI @ BOS L 21 2 0 2 0.0 0 0 - 2 2 100.0 4 1 5 2 0 0 2 3 -15
+p11
+aVSpeedy Claxton PHI 05/03/2002 PHI @ BOS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p12
+aVMatt Harpring PHI 05/01/2002 PHI vs. BOS W 19 8 4 4 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -3
+p13
+aVAllen Iverson PHI 05/01/2002 PHI vs. BOS W 42 28 9 26 34.6 1 5 20.0 9 10 90.0 1 4 5 4 4 0 4 2 2
+p14
+aVAaron McKie PHI 05/01/2002 PHI vs. BOS W 31 11 5 11 45.5 1 5 20.0 0 2 0.0 0 6 6 0 5 0 3 3 4
+p15
+aVEric Snow PHI 05/01/2002 PHI vs. BOS W 34 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 11 0 0 4 3 5
+p16
+aVCorie Blount PHI 05/01/2002 PHI vs. BOS W 16 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 0 2 0 0 5
+p17
+aVDerrick Coleman PHI 05/01/2002 PHI vs. BOS W 41 14 5 10 50.0 0 2 0.0 4 4 100.0 3 6 9 1 0 1 0 2 7
+p18
+aVDerrick McKey PHI 05/01/2002 PHI vs. BOS W 12 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 1 1
+p19
+aVSpeedy Claxton PHI 05/01/2002 PHI vs. BOS W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -2
+p20
+aVDikembe Mutombo PHI 05/01/2002 PHI vs. BOS W 39 10 3 4 75.0 0 0 - 4 10 40.0 5 9 14 0 0 0 5 4 -9
+p21
+aVVonteego Cummings PHI 04/28/2002 PHI vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p22
+aVMatt Harpring PHI 04/28/2002 PHI vs. BOS W 21 9 4 10 40.0 0 0 - 1 2 50.0 3 1 4 1 1 0 1 4 10
+p23
+aVDerrick Coleman PHI 04/28/2002 PHI vs. BOS W 38 18 5 9 55.6 1 2 50.0 7 8 87.5 2 7 9 1 1 2 1 2 0
+p24
+aVAaron McKie PHI 04/28/2002 PHI vs. BOS W 29 5 2 9 22.2 1 3 33.3 0 0 - 0 1 1 3 2 0 2 1 6
+p25
+aVRaja Bell PHI 04/28/2002 PHI vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p26
+aVDikembe Mutombo PHI 04/28/2002 PHI vs. BOS W 29 3 1 4 25.0 0 0 - 1 4 25.0 3 8 11 2 0 1 0 3 7
+p27
+aVEric Snow PHI 04/28/2002 PHI vs. BOS W 37 23 9 14 64.3 1 1 100.0 4 4 100.0 0 2 2 5 1 0 1 2 -1
+p28
+aVCorie Blount PHI 04/28/2002 PHI vs. BOS W 23 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -6
+p29
+aVAlvin Jones PHI 04/28/2002 PHI vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p30
+aVDerrick McKey PHI 04/28/2002 PHI vs. BOS W 7 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 1 1 0 1 -5
+p31
+aVSpeedy Claxton PHI 04/28/2002 PHI vs. BOS W 10 6 1 1 100.0 0 0 - 4 6 66.7 0 0 0 3 1 0 1 2 4
+p32
+aVAllen Iverson PHI 04/28/2002 PHI vs. BOS W 45 42 10 23 43.5 3 5 60.0 19 20 95.0 0 5 5 4 5 0 3 3 10
+p33
+aVAllen Iverson PHI 04/25/2002 PHI @ BOS L 43 29 11 30 36.7 1 6 16.7 6 10 60.0 0 4 4 7 1 0 1 1 -15
+p34
+aVEric Snow PHI 04/25/2002 PHI @ BOS L 38 7 2 13 15.4 0 2 0.0 3 4 75.0 1 4 5 4 1 0 2 4 -14
+p35
+aVSpeedy Claxton PHI 04/25/2002 PHI @ BOS L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 4 4 0 0 2 2
+p36
+aVDerrick Coleman PHI 04/25/2002 PHI @ BOS L 39 13 6 10 60.0 1 4 25.0 0 0 - 4 9 13 3 0 2 1 2 4
+p37
+aVCorie Blount PHI 04/25/2002 PHI @ BOS L 18 0 0 1 0.0 0 0 - 0 0 - 3 1 4 0 1 0 2 3 -5
+p38
+aVDikembe Mutombo PHI 04/25/2002 PHI @ BOS L 38 10 4 9 44.4 0 0 - 2 2 100.0 4 7 11 0 1 4 3 5 -11
+p39
+aVMatt Harpring PHI 04/25/2002 PHI @ BOS L 23 8 4 9 44.4 0 0 - 0 0 - 3 2 5 1 2 0 0 2 1
+p40
+aVAaron McKie PHI 04/25/2002 PHI @ BOS L 27 16 5 8 62.5 2 2 100.0 4 4 100.0 0 1 1 2 0 0 3 4 -2
+p41
+aVSpeedy Claxton PHI 04/21/2002 PHI @ BOS L 14 4 2 4 50.0 0 0 - 0 0 - 1 0 1 4 0 0 2 3 -9
+p42
+aVAllen Iverson PHI 04/21/2002 PHI @ BOS L 36 20 4 15 26.7 0 4 0.0 12 15 80.0 0 2 2 2 2 0 3 1 -5
+p43
+aVCorie Blount PHI 04/21/2002 PHI @ BOS L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p44
+aVDikembe Mutombo PHI 04/21/2002 PHI @ BOS L 34 9 4 8 50.0 0 0 - 1 2 50.0 2 9 11 1 0 1 2 2 -5
+p45
+aVRaja Bell PHI 04/21/2002 PHI @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p46
+aVAaron McKie PHI 04/21/2002 PHI @ BOS L 27 11 5 11 45.5 1 3 33.3 0 0 - 1 3 4 3 3 0 2 4 -12
+p47
+aVDerrick Coleman PHI 04/21/2002 PHI @ BOS L 38 9 2 7 28.6 1 3 33.3 4 6 66.7 4 6 10 3 0 2 1 1 -4
+p48
+aVMatt Harpring PHI 04/21/2002 PHI @ BOS L 32 18 8 14 57.1 0 0 - 2 3 66.7 4 4 8 1 2 0 3 2 2
+p49
+aVDerrick McKey PHI 04/21/2002 PHI @ BOS L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -6
+p50
+aVEric Snow PHI 04/21/2002 PHI @ BOS L 34 11 2 12 16.7 0 3 0.0 7 10 70.0 0 8 8 5 4 0 5 1 -3
+p51
+a.

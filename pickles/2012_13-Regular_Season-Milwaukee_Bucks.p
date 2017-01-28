@@ -1,0 +1,1720 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMike Dunleavy MIL 04/17/2013 MIL @ OKC W 28 14 5 11 45.5 2 6 33.3 2 3 66.7 0 3 3 0 1 1 0 1 4
+p2
+aVMonta Ellis MIL 04/17/2013 MIL @ OKC W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 -6
+p3
+aVLuc Mbah a Moute MIL 04/17/2013 MIL @ OKC W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -9
+p4
+aVIsh Smith MIL 04/17/2013 MIL @ OKC W 25 7 3 8 37.5 1 3 33.3 0 0 - 1 6 7 5 1 0 0 1 16
+p5
+aVBrandon Jennings MIL 04/17/2013 MIL @ OKC W 23 17 6 14 42.9 5 8 62.5 0 0 - 0 2 2 2 0 0 2 2 -10
+p6
+aVEkpe Udoh MIL 04/17/2013 MIL @ OKC W 24 4 1 3 33.3 0 0 - 2 4 50.0 2 4 6 1 1 1 3 1 -8
+p7
+aVGustavo Ayon MIL 04/17/2013 MIL @ OKC W 27 8 4 9 44.4 0 0 - 0 0 - 3 9 12 1 0 1 0 2 14
+p8
+aVJohn Henson MIL 04/17/2013 MIL @ OKC W 44 28 11 19 57.9 0 0 - 6 8 75.0 8 8 16 1 0 0 2 0 6
+p9
+aVMarquis Daniels MIL 04/17/2013 MIL @ OKC W 17 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 2 1 0 2 1 16
+p10
+aVJJ Redick MIL 04/17/2013 MIL @ OKC W 35 12 4 10 40.0 1 5 20.0 3 3 100.0 2 1 3 3 1 0 2 2 7
+p11
+aVBrandon Jennings MIL 04/15/2013 MIL vs. DEN L 29 4 1 11 9.1 0 5 0.0 2 2 100.0 2 1 3 4 0 0 1 3 -16
+p12
+aVErsan Ilyasova MIL 04/15/2013 MIL vs. DEN L 32 14 7 13 53.8 0 3 0.0 0 0 - 5 5 10 1 1 0 3 5 -6
+p13
+aVLuc Mbah a Moute MIL 04/15/2013 MIL vs. DEN L 18 1 0 5 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -7
+p14
+aVJohn Henson MIL 04/15/2013 MIL vs. DEN L 31 14 6 13 46.2 0 0 - 2 6 33.3 8 7 15 2 3 4 0 1 0
+p15
+aVMonta Ellis MIL 04/15/2013 MIL vs. DEN L 36 38 14 25 56.0 6 11 54.5 4 5 80.0 0 2 2 4 3 0 4 5 0
+p16
+aVEkpe Udoh MIL 04/15/2013 MIL vs. DEN L 19 10 4 5 80.0 0 0 - 2 4 50.0 2 3 5 0 1 1 0 5 3
+p17
+aVIsh Smith MIL 04/15/2013 MIL vs. DEN L 20 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 6 2 1 0 0 4
+p18
+aVMike Dunleavy MIL 04/15/2013 MIL vs. DEN L 28 10 3 11 27.3 2 6 33.3 2 2 100.0 1 4 5 5 0 0 2 4 7
+p19
+aVJJ Redick MIL 04/15/2013 MIL vs. DEN L 27 20 7 14 50.0 4 9 44.4 2 2 100.0 0 2 2 3 0 0 0 1 10
+p20
+aVJJ Redick MIL 04/13/2013 MIL @ CHA L 42 12 3 14 21.4 2 11 18.2 4 4 100.0 0 1 1 5 1 1 1 2 -3
+p21
+aVMike Dunleavy MIL 04/13/2013 MIL @ CHA L 33 19 7 13 53.8 3 6 50.0 2 2 100.0 0 2 2 3 0 0 0 3 -6
+p22
+aVErsan Ilyasova MIL 04/13/2013 MIL @ CHA L 27 10 4 10 40.0 2 3 66.7 0 0 - 0 4 4 2 0 0 0 2 -6
+p23
+aVIsh Smith MIL 04/13/2013 MIL @ CHA L 24 9 4 12 33.3 1 4 25.0 0 0 - 0 4 4 7 2 0 6 6 -7
+p24
+aVLuc Mbah a Moute MIL 04/13/2013 MIL @ CHA L 22 4 2 6 33.3 0 0 - 0 0 - 2 0 2 0 1 0 0 0 -15
+p25
+aVGustavo Ayon MIL 04/13/2013 MIL @ CHA L 17 6 3 6 50.0 0 0 - 0 2 0.0 4 5 9 2 1 0 0 0 13
+p26
+aVJohn Henson MIL 04/13/2013 MIL @ CHA L 28 8 4 7 57.1 0 0 - 0 0 - 3 8 11 0 0 1 4 5 1
+p27
+aVEkpe Udoh MIL 04/13/2013 MIL @ CHA L 17 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 2 -17
+p28
+aVMonta Ellis MIL 04/13/2013 MIL @ CHA L 30 16 7 18 38.9 1 5 20.0 1 2 50.0 0 3 3 4 1 0 1 0 -10
+p29
+aVMarquis Daniels MIL 04/12/2013 MIL @ ATL L 17 2 1 5 20.0 0 2 0.0 0 0 - 1 4 5 0 0 0 1 1 -5
+p30
+aVLuc Mbah a Moute MIL 04/12/2013 MIL @ ATL L 25 7 3 6 50.0 1 2 50.0 0 2 0.0 0 6 6 0 2 0 0 2 7
+p31
+aVIsh Smith MIL 04/12/2013 MIL @ ATL L 22 10 4 7 57.1 2 2 100.0 0 0 - 0 1 1 3 2 0 1 2 -5
+p32
+aVErsan Ilyasova MIL 04/12/2013 MIL @ ATL L 28 25 9 15 60.0 6 8 75.0 1 1 100.0 1 6 7 1 1 0 0 3 2
+p33
+aVEkpe Udoh MIL 04/12/2013 MIL @ ATL L 24 8 3 9 33.3 0 0 - 2 2 100.0 5 4 9 0 1 2 0 2 -4
+p34
+aVJJ Redick MIL 04/12/2013 MIL @ ATL L 30 10 3 11 27.3 2 6 33.3 2 2 100.0 0 0 0 2 0 0 4 1 -6
+p35
+aVMike Dunleavy MIL 04/12/2013 MIL @ ATL L 25 7 3 8 37.5 1 4 25.0 0 0 - 1 3 4 3 0 0 5 3 -12
+p36
+aVJohn Henson MIL 04/12/2013 MIL @ ATL L 26 8 3 8 37.5 0 0 - 2 4 50.0 5 3 8 1 3 2 3 1 -1
+p37
+aVMonta Ellis MIL 04/12/2013 MIL @ ATL L 44 27 9 23 39.1 5 9 55.6 4 5 80.0 0 8 8 17 5 0 4 4 -1
+p38
+aVLuc Mbah a Moute MIL 04/10/2013 MIL @ ORL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p39
+aVIsh Smith MIL 04/10/2013 MIL @ ORL L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 1 1 0 0 2
+p40
+aVJJ Redick MIL 04/10/2013 MIL @ ORL L 42 16 6 16 37.5 1 7 14.3 3 3 100.0 0 2 2 1 0 0 2 2 -3
+p41
+aVMike Dunleavy MIL 04/10/2013 MIL @ ORL L 37 17 5 11 45.5 3 7 42.9 4 6 66.7 0 6 6 6 0 1 0 1 2
+p42
+aVGustavo Ayon MIL 04/10/2013 MIL @ ORL L 22 8 4 4 100.0 0 0 - 0 0 - 3 3 6 2 1 1 3 5 15
+p43
+aVBrandon Jennings MIL 04/10/2013 MIL @ ORL L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p44
+aVJohn Henson MIL 04/10/2013 MIL @ ORL L 41 17 7 17 41.2 0 0 - 3 5 60.0 6 19 25 3 0 7 1 2 -2
+p45
+aVMonta Ellis MIL 04/10/2013 MIL @ ORL L 47 21 7 27 25.9 1 8 12.5 6 10 60.0 2 5 7 11 2 1 2 1 -11
+p46
+aVLarry Sanders MIL 04/10/2013 MIL @ ORL L 15 5 2 9 22.2 0 0 - 1 2 50.0 2 1 3 0 0 0 2 1 -16
+p47
+aVMarquis Daniels MIL 04/10/2013 MIL @ ORL L 37 14 6 12 50.0 2 4 50.0 0 0 - 2 5 7 0 3 0 2 3 -21
+p48
+aVLuc Mbah a Moute MIL 04/09/2013 MIL @ MIA L 32 8 4 9 44.4 0 2 0.0 0 0 - 0 3 3 1 0 0 0 1 7
+p49
+aVMarquis Daniels MIL 04/09/2013 MIL @ MIA L 19 7 3 9 33.3 0 1 0.0 1 4 25.0 0 2 2 1 1 0 1 1 -12
+p50
+aVMike Dunleavy MIL 04/09/2013 MIL @ MIA L 27 8 3 6 50.0 2 3 66.7 0 0 - 0 3 3 2 2 0 1 1 1
+p51
+aVLarry Sanders MIL 04/09/2013 MIL @ MIA L 30 8 4 10 40.0 0 0 - 0 0 - 2 7 9 2 2 1 2 3 -12
+p52
+aVIsh Smith MIL 04/09/2013 MIL @ MIA L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 6
+p53
+aVGustavo Ayon MIL 04/09/2013 MIL @ MIA L 10 0 0 0 - 0 0 - 0 2 0.0 1 4 5 0 1 0 1 2 4
+p54
+aVBrandon Jennings MIL 04/09/2013 MIL @ MIA L 36 30 10 16 62.5 4 9 44.4 6 6 100.0 0 3 3 4 1 0 4 5 -24
+p55
+aVJJ Redick MIL 04/09/2013 MIL @ MIA L 26 6 2 9 22.2 2 6 33.3 0 0 - 0 2 2 4 2 0 1 0 1
+p56
+aVErsan Ilyasova MIL 04/09/2013 MIL @ MIA L 21 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 3 0 1 1 1 -14
+p57
+aVMonta Ellis MIL 04/09/2013 MIL @ MIA L 28 8 3 8 37.5 1 3 33.3 1 2 50.0 0 4 4 2 4 0 6 1 -9
+p58
+aVJohn Henson MIL 04/09/2013 MIL @ MIA L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -3
+p59
+aVLarry Sanders MIL 04/06/2013 MIL vs. TOR W 27 12 5 7 71.4 0 0 - 2 2 100.0 0 9 9 1 1 6 1 3 27
+p60
+aVGustavo Ayon MIL 04/06/2013 MIL vs. TOR W 18 4 2 5 40.0 0 0 - 0 2 0.0 3 4 7 1 0 0 4 3 -11
+p61
+aVErsan Ilyasova MIL 04/06/2013 MIL vs. TOR W 26 9 3 10 30.0 0 4 0.0 3 4 75.0 1 7 8 1 0 1 1 3 27
+p62
+aVDrew Gooden MIL 04/06/2013 MIL vs. TOR W 3 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 1 1
+p63
+aVMike Dunleavy MIL 04/06/2013 MIL vs. TOR W 20 10 3 6 50.0 2 4 50.0 2 2 100.0 0 0 0 2 0 1 2 5 -3
+p64
+aVJJ Redick MIL 04/06/2013 MIL vs. TOR W 24 8 3 5 60.0 0 2 0.0 2 2 100.0 0 0 0 3 0 1 1 1 -10
+p65
+aVIsh Smith MIL 04/06/2013 MIL vs. TOR W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p66
+aVBrandon Jennings MIL 04/06/2013 MIL vs. TOR W 28 16 7 14 50.0 2 4 50.0 0 1 0.0 1 1 2 7 3 0 0 1 21
+p67
+aVMonta Ellis MIL 04/06/2013 MIL vs. TOR W 39 22 5 14 35.7 2 5 40.0 10 10 100.0 0 4 4 9 6 0 5 1 23
+p68
+aVLuc Mbah a Moute MIL 04/06/2013 MIL vs. TOR W 24 10 4 7 57.1 0 0 - 2 4 50.0 2 5 7 1 1 0 0 0 5
+p69
+aVMarquis Daniels MIL 04/06/2013 MIL vs. TOR W 22 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 1 1 3 14
+p70
+aVJohn Henson MIL 04/06/2013 MIL vs. TOR W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -4
+p71
+aVMonta Ellis MIL 04/05/2013 MIL @ NYK L 32 11 4 13 30.8 1 7 14.3 2 4 50.0 0 0 0 6 0 0 2 3 -13
+p72
+aVErsan Ilyasova MIL 04/05/2013 MIL @ NYK L 34 7 2 9 22.2 1 3 33.3 2 2 100.0 0 7 7 1 0 0 3 3 -28
+p73
+aVJohn Henson MIL 04/05/2013 MIL @ NYK L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p74
+aVJJ Redick MIL 04/05/2013 MIL @ NYK L 31 18 5 10 50.0 5 7 71.4 3 4 75.0 0 4 4 4 0 0 2 1 -7
+p75
+aVMarquis Daniels MIL 04/05/2013 MIL @ NYK L 17 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 2 0 1 3 -1
+p76
+aVIsh Smith MIL 04/05/2013 MIL @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p77
+aVMike Dunleavy MIL 04/05/2013 MIL @ NYK L 20 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 1 0 0 1 0 13
+p78
+aVLuc Mbah a Moute MIL 04/05/2013 MIL @ NYK L 19 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -11
+p79
+aVBrandon Jennings MIL 04/05/2013 MIL @ NYK L 37 25 9 20 45.0 4 10 40.0 3 5 60.0 2 2 4 3 1 0 2 1 -22
+p80
+aVEkpe Udoh MIL 04/05/2013 MIL @ NYK L 16 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 1 0 1 1
+p81
+aVLarry Sanders MIL 04/05/2013 MIL @ NYK L 31 9 3 7 42.9 0 0 - 3 3 100.0 4 8 12 1 1 1 1 2 -16
+p82
+aVErsan Ilyasova MIL 04/03/2013 MIL vs. MIN L 37 29 12 21 57.1 3 5 60.0 2 2 100.0 8 4 12 0 2 2 3 3 -6
+p83
+aVSamuel Dalembert MIL 04/03/2013 MIL vs. MIN L 7 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 1 0 1 1 -5
+p84
+aVMarquis Daniels MIL 04/03/2013 MIL vs. MIN L 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -13
+p85
+aVLuc Mbah a Moute MIL 04/03/2013 MIL vs. MIN L 6 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 1 1 1
+p86
+aVLarry Sanders MIL 04/03/2013 MIL vs. MIN L 34 11 5 12 41.7 0 0 - 1 2 50.0 5 5 10 4 1 2 2 2 -4
+p87
+aVEkpe Udoh MIL 04/03/2013 MIL vs. MIN L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -7
+p88
+aVJJ Redick MIL 04/03/2013 MIL vs. MIN L 23 8 4 13 30.8 0 2 0.0 0 0 - 1 3 4 1 0 0 0 1 4
+p89
+aVMonta Ellis MIL 04/03/2013 MIL vs. MIN L 39 18 7 20 35.0 2 7 28.6 2 4 50.0 0 5 5 3 1 1 6 1 -8
+p90
+aVBrandon Jennings MIL 04/03/2013 MIL vs. MIN L 36 13 6 14 42.9 0 4 0.0 1 1 100.0 1 2 3 8 3 0 3 1 -11
+p91
+aVMike Dunleavy MIL 04/03/2013 MIL vs. MIN L 32 15 6 9 66.7 3 5 60.0 0 0 - 0 4 4 2 2 2 3 4 4
+p92
+aVMike Dunleavy MIL 04/01/2013 MIL vs. CHA W 31 15 6 14 42.9 1 4 25.0 2 2 100.0 2 5 7 1 0 0 2 1 26
+p93
+aVEkpe Udoh MIL 04/01/2013 MIL vs. CHA W 18 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 2 12
+p94
+aVBrandon Jennings MIL 04/01/2013 MIL vs. CHA W 24 19 6 15 40.0 4 9 44.4 3 3 100.0 0 3 3 6 0 0 1 1 8
+p95
+aVMonta Ellis MIL 04/01/2013 MIL vs. CHA W 41 19 7 14 50.0 3 5 60.0 2 2 100.0 0 4 4 14 6 1 4 4 24
+p96
+aVGustavo Ayon MIL 04/01/2013 MIL vs. CHA W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 9
+p97
+aVMarquis Daniels MIL 04/01/2013 MIL vs. CHA W 17 4 2 4 50.0 0 0 - 0 0 - 1 0 1 2 0 0 1 2 6
+p98
+aVIsh Smith MIL 04/01/2013 MIL vs. CHA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p99
+aVJohn Henson MIL 04/01/2013 MIL vs. CHA W 7 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 1 0 3 -2
+p100
+aVLarry Sanders MIL 04/01/2013 MIL vs. CHA W 31 24 11 19 57.9 0 0 - 2 4 50.0 6 7 13 2 0 0 0 1 23
+p101
+aVErsan Ilyasova MIL 04/01/2013 MIL vs. CHA W 31 22 8 13 61.5 4 4 100.0 2 2 100.0 3 5 8 3 1 0 1 3 16
+p102
+aVJJ Redick MIL 04/01/2013 MIL vs. CHA W 26 20 8 12 66.7 2 5 40.0 2 2 100.0 0 1 1 3 0 0 0 3 18
+p103
+aVBrandon Jennings MIL 03/30/2013 MIL vs. OKC L 38 8 3 13 23.1 2 8 25.0 0 0 - 0 1 1 4 0 0 2 2 -21
+p104
+aVErsan Ilyasova MIL 03/30/2013 MIL vs. OKC L 34 29 12 22 54.5 4 6 66.7 1 1 100.0 4 10 14 2 1 0 1 3 4
+p105
+aVLuc Mbah a Moute MIL 03/30/2013 MIL vs. OKC L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 2 1 0 0 3 -12
+p106
+aVMonta Ellis MIL 03/30/2013 MIL vs. OKC L 39 9 3 17 17.6 2 5 40.0 1 2 50.0 1 1 2 7 2 0 2 3 -2
+p107
+aVLarry Sanders MIL 03/30/2013 MIL vs. OKC L 30 12 5 9 55.6 0 0 - 2 2 100.0 4 6 10 1 0 0 0 3 -9
+p108
+aVMarquis Daniels MIL 03/30/2013 MIL vs. OKC L 32 12 4 12 33.3 1 3 33.3 3 4 75.0 3 0 3 3 3 0 3 3 -4
+p109
+aVEkpe Udoh MIL 03/30/2013 MIL vs. OKC L 18 14 4 6 66.7 0 0 - 6 6 100.0 5 6 11 1 0 2 0 3 -1
+p110
+aVMike Dunleavy MIL 03/30/2013 MIL vs. OKC L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p111
+aVJJ Redick MIL 03/30/2013 MIL vs. OKC L 24 10 4 12 33.3 2 5 40.0 0 0 - 2 0 2 4 0 0 1 0 -4
+p112
+aVLuc Mbah a Moute MIL 03/28/2013 MIL vs. LAL W 13 2 1 5 20.0 0 1 0.0 0 0 - 1 4 5 0 1 0 3 3 -12
+p113
+aVJJ Redick MIL 03/28/2013 MIL vs. LAL W 22 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 0 0 1 1 1 -5
+p114
+aVBrandon Jennings MIL 03/28/2013 MIL vs. LAL W 32 20 7 14 50.0 3 6 50.0 3 3 100.0 1 1 2 7 0 0 2 1 11
+p115
+aVEkpe Udoh MIL 03/28/2013 MIL vs. LAL W 13 3 1 3 33.3 0 0 - 1 2 50.0 3 0 3 0 1 0 0 3 -8
+p116
+aVLarry Sanders MIL 03/28/2013 MIL vs. LAL W 30 21 8 11 72.7 0 0 - 5 10 50.0 6 7 13 1 1 2 0 5 22
+p117
+aVMonta Ellis MIL 03/28/2013 MIL vs. LAL W 36 18 8 16 50.0 0 2 0.0 2 2 100.0 1 6 7 9 2 0 3 3 26
+p118
+aVMike Dunleavy MIL 03/28/2013 MIL vs. LAL W 16 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 4
+p119
+aVMarquis Daniels MIL 03/28/2013 MIL vs. LAL W 30 16 7 12 58.3 1 1 100.0 1 1 100.0 1 0 1 1 3 0 0 4 14
+p120
+aVSamuel Dalembert MIL 03/28/2013 MIL vs. LAL W 9 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -12
+p121
+aVErsan Ilyasova MIL 03/28/2013 MIL vs. LAL W 31 20 8 17 47.1 2 5 40.0 2 2 100.0 1 3 4 2 4 1 1 1 20
+p122
+aVIsh Smith MIL 03/28/2013 MIL vs. LAL W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 2 2 -10
+p123
+aVEkpe Udoh MIL 03/27/2013 MIL @ PHI L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -7
+p124
+aVBrandon Jennings MIL 03/27/2013 MIL @ PHI L 17 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 3 1 0 0 2 -25
+p125
+aVJJ Redick MIL 03/27/2013 MIL @ PHI L 35 8 2 12 16.7 1 6 16.7 3 3 100.0 1 2 3 2 1 0 0 1 15
+p126
+aVMike Dunleavy MIL 03/27/2013 MIL @ PHI L 27 9 4 7 57.1 1 2 50.0 0 0 - 0 4 4 1 1 1 1 2 -8
+p127
+aVLuc Mbah a Moute MIL 03/27/2013 MIL @ PHI L 14 7 3 3 100.0 1 1 100.0 0 0 - 1 2 3 0 0 0 1 0 0
+p128
+aVLarry Sanders MIL 03/27/2013 MIL @ PHI L 33 15 6 13 46.2 0 0 - 3 4 75.0 4 5 9 1 2 0 4 0 3
+p129
+aVErsan Ilyasova MIL 03/27/2013 MIL @ PHI L 35 13 5 17 29.4 1 4 25.0 2 2 100.0 6 12 18 2 1 1 4 0 2
+p130
+aVSamuel Dalembert MIL 03/27/2013 MIL @ PHI L 15 7 3 4 75.0 0 0 - 1 1 100.0 1 3 4 0 0 0 0 0 -11
+p131
+aVMonta Ellis MIL 03/27/2013 MIL @ PHI L 42 29 12 21 57.1 2 9 22.2 3 3 100.0 0 0 0 7 2 1 4 2 1
+p132
+aVMarquis Daniels MIL 03/27/2013 MIL @ PHI L 16 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 1 0 0 2 -10
+p133
+aVMike Dunleavy MIL 03/24/2013 MIL vs. ATL L 22 6 3 6 50.0 0 2 0.0 0 0 - 2 4 6 2 0 0 1 0 -6
+p134
+aVJJ Redick MIL 03/24/2013 MIL vs. ATL L 26 9 4 11 36.4 1 6 16.7 0 1 0.0 0 3 3 4 1 0 4 2 -6
+p135
+aVMarquis Daniels MIL 03/24/2013 MIL vs. ATL L 15 2 1 7 14.3 0 0 - 0 0 - 1 3 4 1 0 0 0 0 -1
+p136
+aVErsan Ilyasova MIL 03/24/2013 MIL vs. ATL L 28 19 7 16 43.8 0 4 0.0 5 8 62.5 6 4 10 1 0 0 1 6 1
+p137
+aVEkpe Udoh MIL 03/24/2013 MIL vs. ATL L 19 10 5 6 83.3 0 0 - 0 0 - 1 0 1 0 0 2 0 2 -6
+p138
+aVSamuel Dalembert MIL 03/24/2013 MIL vs. ATL L 16 6 3 6 50.0 0 0 - 0 0 - 4 3 7 1 0 0 1 1 -8
+p139
+aVBrandon Jennings MIL 03/24/2013 MIL vs. ATL L 43 12 4 15 26.7 1 5 20.0 3 5 60.0 1 2 3 13 3 0 3 3 0
+p140
+aVLarry Sanders MIL 03/24/2013 MIL vs. ATL L 32 15 7 10 70.0 0 0 - 1 2 50.0 3 9 12 0 1 3 1 3 5
+p141
+aVMonta Ellis MIL 03/24/2013 MIL vs. ATL L 39 20 8 15 53.3 3 4 75.0 1 2 50.0 1 3 4 4 1 0 4 0 -4
+p142
+aVIsh Smith MIL 03/22/2013 MIL @ IND L 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 0
+p143
+aVLarry Sanders MIL 03/22/2013 MIL @ IND L 19 6 3 10 30.0 0 0 - 0 0 - 6 6 12 2 0 2 0 2 -11
+p144
+aVMike Dunleavy MIL 03/22/2013 MIL @ IND L 20 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 2 0 1 0 5 -2
+p145
+aVMarquis Daniels MIL 03/22/2013 MIL @ IND L 22 8 2 11 18.2 0 1 0.0 4 4 100.0 4 3 7 0 0 0 0 2 -15
+p146
+aVEkpe Udoh MIL 03/22/2013 MIL @ IND L 17 7 2 2 100.0 0 0 - 3 4 75.0 0 2 2 0 0 1 0 2 -8
+p147
+aVBrandon Jennings MIL 03/22/2013 MIL @ IND L 31 4 1 15 6.7 0 7 0.0 2 3 66.7 0 2 2 3 1 0 3 2 -22
+p148
+aVJJ Redick MIL 03/22/2013 MIL @ IND L 31 2 1 11 9.1 0 2 0.0 0 0 - 2 1 3 0 0 0 1 2 -10
+p149
+aVMonta Ellis MIL 03/22/2013 MIL @ IND L 37 22 9 22 40.9 2 7 28.6 2 5 40.0 0 3 3 6 0 0 2 2 -25
+p150
+aVGustavo Ayon MIL 03/22/2013 MIL @ IND L 8 2 1 2 50.0 0 0 - 0 2 0.0 0 3 3 0 1 0 0 0 -2
+p151
+aVSamuel Dalembert MIL 03/22/2013 MIL @ IND L 26 10 5 13 38.5 0 0 - 0 2 0.0 6 7 13 1 0 0 1 4 -14
+p152
+aVJohn Henson MIL 03/22/2013 MIL @ IND L 22 6 3 8 37.5 0 0 - 0 0 - 4 3 7 2 2 1 1 0 -11
+p153
+aVEkpe Udoh MIL 03/20/2013 MIL @ ATL L 17 3 1 5 20.0 0 0 - 1 2 50.0 1 0 1 1 3 3 0 1 1
+p154
+aVJJ Redick MIL 03/20/2013 MIL @ ATL L 30 18 6 10 60.0 2 4 50.0 4 4 100.0 0 3 3 6 1 0 0 3 8
+p155
+aVMike Dunleavy MIL 03/20/2013 MIL @ ATL L 28 10 4 12 33.3 2 5 40.0 0 0 - 2 5 7 3 1 0 2 1 -1
+p156
+aVBrandon Jennings MIL 03/20/2013 MIL @ ATL L 39 21 8 18 44.4 3 6 50.0 2 3 66.7 0 1 1 5 1 0 4 3 -8
+p157
+aVMonta Ellis MIL 03/20/2013 MIL @ ATL L 40 5 2 14 14.3 1 2 50.0 0 0 - 0 1 1 1 0 0 2 1 -8
+p158
+aVMarquis Daniels MIL 03/20/2013 MIL @ ATL L 20 6 3 8 37.5 0 2 0.0 0 0 - 1 3 4 0 0 0 1 5 -7
+p159
+aVJohn Henson MIL 03/20/2013 MIL @ ATL L 14 6 3 6 50.0 0 0 - 0 0 - 3 5 8 0 0 1 1 1 2
+p160
+aVLarry Sanders MIL 03/20/2013 MIL @ ATL L 35 19 9 19 47.4 0 0 - 1 2 50.0 6 8 14 2 1 4 0 1 -13
+p161
+aVSamuel Dalembert MIL 03/20/2013 MIL @ ATL L 18 2 1 7 14.3 0 0 - 0 0 - 3 4 7 2 0 0 0 1 -14
+p162
+aVMike Dunleavy MIL 03/19/2013 MIL vs. POR W 27 9 4 9 44.4 1 4 25.0 0 0 - 0 4 4 3 1 1 0 0 9
+p163
+aVJJ Redick MIL 03/19/2013 MIL vs. POR W 26 14 4 8 50.0 2 3 66.7 4 5 80.0 0 0 0 3 0 0 1 1 12
+p164
+aVBrandon Jennings MIL 03/19/2013 MIL vs. POR W 39 24 9 20 45.0 4 7 57.1 2 2 100.0 0 4 4 7 0 1 6 2 -3
+p165
+aVIsh Smith MIL 03/19/2013 MIL vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p166
+aVGustavo Ayon MIL 03/19/2013 MIL vs. POR W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 1 0 0 2 12
+p167
+aVSamuel Dalembert MIL 03/19/2013 MIL vs. POR W 20 16 8 14 57.1 0 0 - 0 0 - 5 2 7 1 0 0 1 1 2
+p168
+aVEkpe Udoh MIL 03/19/2013 MIL vs. POR W 20 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 1 1 2 14
+p169
+aVJohn Henson MIL 03/19/2013 MIL vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p170
+aVMarquis Daniels MIL 03/19/2013 MIL vs. POR W 17 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 2 1 0 0 0 -9
+p171
+aVLarry Sanders MIL 03/19/2013 MIL vs. POR W 40 8 4 9 44.4 0 0 - 0 0 - 5 8 13 3 2 2 0 2 -5
+p172
+aVMonta Ellis MIL 03/19/2013 MIL vs. POR W 44 21 8 18 44.4 2 4 50.0 3 6 50.0 3 6 9 8 3 3 2 2 7
+p173
+aVMike Dunleavy MIL 03/17/2013 MIL vs. ORL W 22 8 3 10 30.0 2 4 50.0 0 0 - 0 2 2 1 0 1 1 2 -5
+p174
+aVMarquis Daniels MIL 03/17/2013 MIL vs. ORL W 21 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 2 1 0 1 1 2
+p175
+aVLarry Sanders MIL 03/17/2013 MIL vs. ORL W 33 13 6 13 46.2 0 0 - 1 1 100.0 4 7 11 0 0 0 3 2 14
+p176
+aVErsan Ilyasova MIL 03/17/2013 MIL vs. ORL W 36 20 7 13 53.8 2 5 40.0 4 4 100.0 3 8 11 0 0 1 1 1 5
+p177
+aVJohn Henson MIL 03/17/2013 MIL vs. ORL W 6 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -6
+p178
+aVMonta Ellis MIL 03/17/2013 MIL vs. ORL W 40 39 13 22 59.1 5 6 83.3 8 8 100.0 0 6 6 5 3 0 6 1 10
+p179
+aVJJ Redick MIL 03/17/2013 MIL vs. ORL W 23 4 1 5 20.0 0 4 0.0 2 2 100.0 0 2 2 2 0 1 0 0 15
+p180
+aVEkpe Udoh MIL 03/17/2013 MIL vs. ORL W 15 7 3 4 75.0 0 0 - 1 2 50.0 4 2 6 1 0 0 1 2 -8
+p181
+aVBrandon Jennings MIL 03/17/2013 MIL vs. ORL W 44 15 4 15 26.7 3 8 37.5 4 5 80.0 1 1 2 14 2 0 1 4 3
+p182
+aVEkpe Udoh MIL 03/15/2013 MIL vs. MIA L 18 4 1 6 16.7 0 0 - 2 2 100.0 2 1 3 0 0 1 0 3 -1
+p183
+aVIsh Smith MIL 03/15/2013 MIL vs. MIA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p184
+aVLarry Sanders MIL 03/15/2013 MIL vs. MIA L 28 6 2 9 22.2 0 0 - 2 2 100.0 4 6 10 1 1 1 0 3 -14
+p185
+aVErsan Ilyasova MIL 03/15/2013 MIL vs. MIA L 41 26 10 20 50.0 1 3 33.3 5 5 100.0 7 10 17 0 0 0 2 2 -8
+p186
+aVMike Dunleavy MIL 03/15/2013 MIL vs. MIA L 16 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 1 0 0 -7
+p187
+aVJJ Redick MIL 03/15/2013 MIL vs. MIA L 26 14 4 11 36.4 3 7 42.9 3 3 100.0 0 0 0 1 0 0 0 2 -7
+p188
+aVMonta Ellis MIL 03/15/2013 MIL vs. MIA L 34 7 3 11 27.3 1 3 33.3 0 0 - 0 3 3 7 2 0 2 0 -8
+p189
+aVJohn Henson MIL 03/15/2013 MIL vs. MIA L 8 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 1 0 1 2 -3
+p190
+aVBrandon Jennings MIL 03/15/2013 MIL vs. MIA L 41 21 6 15 40.0 3 7 42.9 6 7 85.7 2 3 5 6 0 1 4 0 -12
+p191
+aVMarquis Daniels MIL 03/15/2013 MIL vs. MIA L 27 14 6 11 54.5 1 3 33.3 1 2 50.0 1 2 3 3 2 0 1 4 -7
+p192
+aVBrandon Jennings MIL 03/13/2013 MIL @ WAS L 41 8 2 8 25.0 0 3 0.0 4 4 100.0 0 3 3 10 2 0 2 1 -14
+p193
+aVMarquis Daniels MIL 03/13/2013 MIL @ WAS L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p194
+aVJohn Henson MIL 03/13/2013 MIL @ WAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 2
+p195
+aVGustavo Ayon MIL 03/13/2013 MIL @ WAS L 14 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 1 1 0 2 -1
+p196
+aVLarry Sanders MIL 03/13/2013 MIL @ WAS L 29 17 8 13 61.5 0 0 - 1 1 100.0 3 8 11 0 1 2 2 3 -13
+p197
+aVMonta Ellis MIL 03/13/2013 MIL @ WAS L 43 26 12 19 63.2 1 2 50.0 1 1 100.0 1 3 4 8 2 0 2 4 -21
+p198
+aVEkpe Udoh MIL 03/13/2013 MIL @ WAS L 6 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 1 0 0 1 1 0
+p199
+aVMike Dunleavy MIL 03/13/2013 MIL @ WAS L 26 0 0 6 0.0 0 3 0.0 0 0 - 0 4 4 0 0 0 1 2 14
+p200
+aVSamuel Dalembert MIL 03/13/2013 MIL @ WAS L 9 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 0 0 2 1 0
+p201
+aVIsh Smith MIL 03/13/2013 MIL @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p202
+aVJJ Redick MIL 03/13/2013 MIL @ WAS L 28 16 6 14 42.9 3 7 42.9 1 2 50.0 0 0 0 1 0 0 2 2 -23
+p203
+aVErsan Ilyasova MIL 03/13/2013 MIL @ WAS L 35 21 9 17 52.9 2 3 66.7 1 2 50.0 2 10 12 1 2 0 2 5 -14
+p204
+aVGustavo Ayon MIL 03/12/2013 MIL vs. DAL L 14 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 3 1 1 0 3 -13
+p205
+aVErsan Ilyasova MIL 03/12/2013 MIL vs. DAL L 23 7 3 9 33.3 1 2 50.0 0 0 - 1 2 3 2 3 0 0 3 -4
+p206
+aVJJ Redick MIL 03/12/2013 MIL vs. DAL L 31 17 7 13 53.8 1 6 16.7 2 2 100.0 0 3 3 2 0 0 0 3 11
+p207
+aVMike Dunleavy MIL 03/12/2013 MIL vs. DAL L 38 18 7 12 58.3 4 5 80.0 0 0 - 0 6 6 1 1 0 2 4 1
+p208
+aVIsh Smith MIL 03/12/2013 MIL vs. DAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p209
+aVLarry Sanders MIL 03/12/2013 MIL vs. DAL L 30 13 5 11 45.5 0 0 - 3 4 75.0 1 11 12 2 1 4 1 3 7
+p210
+aVEkpe Udoh MIL 03/12/2013 MIL vs. DAL L 25 14 6 9 66.7 0 0 - 2 3 66.7 3 2 5 2 0 1 0 1 -3
+p211
+aVMonta Ellis MIL 03/12/2013 MIL vs. DAL L 41 32 12 24 50.0 2 6 33.3 6 6 100.0 0 2 2 9 2 0 4 0 -6
+p212
+aVMarquis Daniels MIL 03/12/2013 MIL vs. DAL L 10 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 3 0 0 0 1 -8
+p213
+aVBrandon Jennings MIL 03/12/2013 MIL vs. DAL L 27 4 2 7 28.6 0 1 0.0 0 0 - 0 5 5 5 0 0 2 4 -21
+p214
+aVSamuel Dalembert MIL 03/10/2013 MIL @ SAC W 26 10 4 6 66.7 0 0 - 2 4 50.0 2 9 11 0 2 2 0 5 -7
+p215
+aVMarquis Daniels MIL 03/10/2013 MIL @ SAC W 26 9 3 8 37.5 1 2 50.0 2 2 100.0 0 1 1 2 1 0 1 1 -4
+p216
+aVEkpe Udoh MIL 03/10/2013 MIL @ SAC W 25 10 4 7 57.1 0 0 - 2 4 50.0 1 6 7 1 1 4 1 3 -9
+p217
+aVBrandon Jennings MIL 03/10/2013 MIL @ SAC W 37 16 4 11 36.4 1 4 25.0 7 8 87.5 1 0 1 8 0 0 1 3 -8
+p218
+aVJohn Henson MIL 03/10/2013 MIL @ SAC W 16 6 2 5 40.0 0 0 - 2 4 50.0 2 5 7 2 0 0 0 2 14
+p219
+aVMike Dunleavy MIL 03/10/2013 MIL @ SAC W 27 16 5 10 50.0 4 7 57.1 2 4 50.0 1 3 4 0 0 1 2 0 7
+p220
+aVMonta Ellis MIL 03/10/2013 MIL @ SAC W 42 29 9 24 37.5 0 5 0.0 11 12 91.7 0 4 4 9 0 1 3 3 5
+p221
+aVGustavo Ayon MIL 03/10/2013 MIL @ SAC W 14 12 6 9 66.7 0 0 - 0 0 - 4 3 7 0 2 0 0 4 19
+p222
+aVDrew Gooden MIL 03/10/2013 MIL @ SAC W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p223
+aVLuc Mbah a Moute MIL 03/10/2013 MIL @ SAC W 17 7 3 6 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 -3
+p224
+aVMike Dunleavy MIL 03/09/2013 MIL @ GSW W 31 9 3 8 37.5 2 4 50.0 1 1 100.0 0 8 8 2 0 1 0 2 -7
+p225
+aVJohn Henson MIL 03/09/2013 MIL @ GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p226
+aVJJ Redick MIL 03/09/2013 MIL @ GSW W 32 15 5 11 45.5 2 6 33.3 3 4 75.0 0 2 2 7 0 0 2 3 17
+p227
+aVLuc Mbah a Moute MIL 03/09/2013 MIL @ GSW W 31 7 3 9 33.3 1 1 100.0 0 0 - 3 3 6 2 3 0 2 2 8
+p228
+aVEkpe Udoh MIL 03/09/2013 MIL @ GSW W 21 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 0 2 1 0 2 7
+p229
+aVMonta Ellis MIL 03/09/2013 MIL @ GSW W 36 26 10 19 52.6 2 6 33.3 4 6 66.7 0 5 5 5 2 0 3 3 10
+p230
+aVLarry Sanders MIL 03/09/2013 MIL @ GSW W 28 6 3 7 42.9 0 0 - 0 0 - 2 7 9 2 0 3 1 5 5
+p231
+aVSamuel Dalembert MIL 03/09/2013 MIL @ GSW W 13 4 2 5 40.0 0 0 - 0 0 - 0 6 6 0 0 0 1 1 0
+p232
+aVIsh Smith MIL 03/09/2013 MIL @ GSW W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p233
+aVBrandon Jennings MIL 03/09/2013 MIL @ GSW W 43 31 10 16 62.5 6 11 54.5 5 6 83.3 0 3 3 10 1 0 5 2 11
+p234
+aVLarry Sanders MIL 03/06/2013 MIL @ LAC L 30 11 5 11 45.5 0 0 - 1 1 100.0 1 6 7 3 1 0 3 2 -9
+p235
+aVMike Dunleavy MIL 03/06/2013 MIL @ LAC L 25 10 3 8 37.5 2 3 66.7 2 2 100.0 0 4 4 2 1 0 0 1 -13
+p236
+aVJJ Redick MIL 03/06/2013 MIL @ LAC L 22 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 2 0 0 0 2 -9
+p237
+aVSamuel Dalembert MIL 03/06/2013 MIL @ LAC L 7 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 0 1 1 1 -5
+p238
+aVMarquis Daniels MIL 03/06/2013 MIL @ LAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p239
+aVJohn Henson MIL 03/06/2013 MIL @ LAC L 17 4 1 4 25.0 0 0 - 2 2 100.0 2 5 7 0 1 0 2 0 -11
+p240
+aVGustavo Ayon MIL 03/06/2013 MIL @ LAC L 4 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p241
+aVLuc Mbah a Moute MIL 03/06/2013 MIL @ LAC L 18 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 0 2 0 0 0 0
+p242
+aVMonta Ellis MIL 03/06/2013 MIL @ LAC L 35 22 9 15 60.0 2 6 33.3 2 2 100.0 0 2 2 6 0 0 5 2 -18
+p243
+aVBrandon Jennings MIL 03/06/2013 MIL @ LAC L 39 18 6 12 50.0 5 10 50.0 1 1 100.0 0 1 1 12 1 0 1 4 -7
+p244
+aVErsan Ilyasova MIL 03/06/2013 MIL @ LAC L 31 20 7 12 58.3 3 5 60.0 3 3 100.0 2 3 5 3 0 0 0 1 -5
+p245
+aVEkpe Udoh MIL 03/06/2013 MIL @ LAC L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p246
+aVBrandon Jennings MIL 03/04/2013 MIL vs. UTA W 47 20 8 14 57.1 4 5 80.0 0 0 - 0 1 1 17 3 0 3 2 4
+p247
+aVJJ Redick MIL 03/04/2013 MIL vs. UTA W 30 17 7 14 50.0 3 9 33.3 0 0 - 0 2 2 1 1 0 1 3 -16
+p248
+aVMike Dunleavy MIL 03/04/2013 MIL vs. UTA W 19 6 1 7 14.3 0 3 0.0 4 4 100.0 0 2 2 1 0 0 2 0 -3
+p249
+aVSamuel Dalembert MIL 03/04/2013 MIL vs. UTA W 22 8 4 8 50.0 0 0 - 0 0 - 3 6 9 0 2 1 1 3 0
+p250
+aVLuc Mbah a Moute MIL 03/04/2013 MIL vs. UTA W 20 7 3 5 60.0 1 1 100.0 0 0 - 1 3 4 0 0 0 3 0 10
+p251
+aVLarry Sanders MIL 03/04/2013 MIL vs. UTA W 40 8 3 9 33.3 0 0 - 2 4 50.0 5 11 16 3 1 6 2 5 5
+p252
+aVErsan Ilyasova MIL 03/04/2013 MIL vs. UTA W 31 7 3 13 23.1 1 3 33.3 0 0 - 2 2 4 4 2 1 0 4 1
+p253
+aVMonta Ellis MIL 03/04/2013 MIL vs. UTA W 44 34 15 21 71.4 1 3 33.3 3 5 60.0 1 3 4 3 4 1 5 3 8
+p254
+aVEkpe Udoh MIL 03/04/2013 MIL vs. UTA W 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -4
+p255
+aVMonta Ellis MIL 03/02/2013 MIL vs. TOR W 38 23 9 18 50.0 0 0 - 5 6 83.3 0 5 5 5 3 0 2 5 8
+p256
+aVBrandon Jennings MIL 03/02/2013 MIL vs. TOR W 45 11 3 12 25.0 1 2 50.0 4 4 100.0 0 5 5 19 1 1 3 0 22
+p257
+aVJJ Redick MIL 03/02/2013 MIL vs. TOR W 35 16 6 12 50.0 2 6 33.3 2 2 100.0 0 0 0 2 0 0 3 4 0
+p258
+aVJohn Henson MIL 03/02/2013 MIL vs. TOR W 9 8 4 5 80.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p259
+aVMike Dunleavy MIL 03/02/2013 MIL vs. TOR W 20 8 3 7 42.9 2 3 66.7 0 0 - 1 2 3 2 0 0 1 2 -13
+p260
+aVSamuel Dalembert MIL 03/02/2013 MIL vs. TOR W 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -10
+p261
+aVLuc Mbah a Moute MIL 03/02/2013 MIL vs. TOR W 24 10 2 5 40.0 0 0 - 6 10 60.0 3 2 5 0 1 0 1 0 9
+p262
+aVEkpe Udoh MIL 03/02/2013 MIL vs. TOR W 9 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 1 0 2 3 -1
+p263
+aVLarry Sanders MIL 03/02/2013 MIL vs. TOR W 35 13 6 8 75.0 0 0 - 1 1 100.0 5 7 12 2 0 5 1 2 19
+p264
+aVErsan Ilyasova MIL 03/02/2013 MIL vs. TOR W 42 29 12 21 57.1 0 3 0.0 5 5 100.0 3 8 11 1 2 1 1 2 3
+p265
+aVEkpe Udoh MIL 02/27/2013 MIL @ HOU W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 11
+p266
+aVJohn Henson MIL 02/27/2013 MIL @ HOU W 13 12 5 6 83.3 0 0 - 2 2 100.0 1 4 5 1 0 0 3 2 6
+p267
+aVLuc Mbah a Moute MIL 02/27/2013 MIL @ HOU W 23 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 0 0 1 3 3 -19
+p268
+aVMike Dunleavy MIL 02/27/2013 MIL @ HOU W 31 16 6 11 54.5 2 5 40.0 2 2 100.0 1 5 6 3 1 1 4 2 26
+p269
+aVJJ Redick MIL 02/27/2013 MIL @ HOU W 21 14 6 11 54.5 2 6 33.3 0 0 - 0 0 0 1 1 0 1 3 -9
+p270
+aVLarry Sanders MIL 02/27/2013 MIL @ HOU W 35 10 5 11 45.5 0 0 - 0 0 - 3 6 9 2 2 2 2 3 -4
+p271
+aVBrandon Jennings MIL 02/27/2013 MIL @ HOU W 30 8 3 8 37.5 2 5 40.0 0 0 - 0 4 4 6 0 0 1 4 1
+p272
+aVDrew Gooden MIL 02/27/2013 MIL @ HOU W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -4
+p273
+aVMonta Ellis MIL 02/27/2013 MIL @ HOU W 45 27 9 24 37.5 2 6 33.3 7 11 63.6 2 4 6 13 6 0 3 3 5
+p274
+aVErsan Ilyasova MIL 02/27/2013 MIL @ HOU W 33 20 8 13 61.5 1 2 50.0 3 3 100.0 2 8 10 0 0 1 0 2 2
+p275
+aVJJ Redick MIL 02/26/2013 MIL @ DAL W 23 14 4 8 50.0 2 3 66.7 4 4 100.0 0 2 2 2 0 0 1 1 7
+p276
+aVLarry Sanders MIL 02/26/2013 MIL @ DAL W 26 13 5 12 41.7 0 0 - 3 4 75.0 5 8 13 0 1 1 2 3 8
+p277
+aVJohn Henson MIL 02/26/2013 MIL @ DAL W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 4
+p278
+aVErsan Ilyasova MIL 02/26/2013 MIL @ DAL W 29 10 3 9 33.3 1 4 25.0 3 4 75.0 2 5 7 1 0 0 2 3 5
+p279
+aVLuc Mbah a Moute MIL 02/26/2013 MIL @ DAL W 28 7 2 4 50.0 0 0 - 3 5 60.0 1 4 5 2 1 0 1 2 -11
+p280
+aVMonta Ellis MIL 02/26/2013 MIL @ DAL W 44 22 8 17 47.1 2 5 40.0 4 5 80.0 0 3 3 9 6 0 2 2 2
+p281
+aVEkpe Udoh MIL 02/26/2013 MIL @ DAL W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 2 0 0 0 9
+p282
+aVMike Dunleavy MIL 02/26/2013 MIL @ DAL W 29 13 5 9 55.6 2 5 40.0 1 2 50.0 0 1 1 1 0 0 1 3 12
+p283
+aVDrew Gooden MIL 02/26/2013 MIL @ DAL W 16 8 4 9 44.4 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -6
+p284
+aVBrandon Jennings MIL 02/26/2013 MIL @ DAL W 32 8 3 11 27.3 0 1 0.0 2 2 100.0 0 3 3 6 0 0 2 2 -5
+p285
+aVLarry Sanders MIL 02/23/2013 MIL vs. ATL L 37 12 5 12 41.7 0 0 - 2 4 50.0 5 14 19 2 0 1 1 2 -6
+p286
+aVMike Dunleavy MIL 02/23/2013 MIL vs. ATL L 21 9 3 8 37.5 1 3 33.3 2 2 100.0 0 4 4 1 1 0 1 1 4
+p287
+aVSamuel Dalembert MIL 02/23/2013 MIL vs. ATL L 16 4 2 6 33.3 0 0 - 0 0 - 2 5 7 1 1 0 1 2 -1
+p288
+aVErsan Ilyasova MIL 02/23/2013 MIL vs. ATL L 29 19 9 15 60.0 1 1 100.0 0 0 - 3 6 9 1 2 0 3 3 -6
+p289
+aVJohn Henson MIL 02/23/2013 MIL vs. ATL L 15 11 4 6 66.7 0 0 - 3 5 60.0 3 3 6 1 0 1 1 2 11
+p290
+aVJJ Redick MIL 02/23/2013 MIL vs. ATL L 35 16 4 9 44.4 1 3 33.3 7 7 100.0 0 3 3 7 0 0 2 0 -3
+p291
+aVMonta Ellis MIL 02/23/2013 MIL vs. ATL L 44 14 7 15 46.7 0 1 0.0 0 0 - 0 4 4 10 2 0 4 0 5
+p292
+aVLuc Mbah a Moute MIL 02/23/2013 MIL vs. ATL L 15 6 3 7 42.9 0 0 - 0 0 - 3 1 4 0 1 0 2 1 1
+p293
+aVBrandon Jennings MIL 02/23/2013 MIL vs. ATL L 30 11 4 11 36.4 1 4 25.0 2 2 100.0 1 1 2 5 1 0 2 3 -10
+p294
+aVErsan Ilyasova MIL 02/20/2013 MIL vs. BKN L 36 12 5 11 45.5 2 3 66.7 0 0 - 1 11 12 2 0 2 1 4 0
+p295
+aVLuc Mbah a Moute MIL 02/20/2013 MIL vs. BKN L 29 1 0 6 0.0 0 0 - 1 2 50.0 1 5 6 0 1 0 0 1 -3
+p296
+aVEkpe Udoh MIL 02/20/2013 MIL vs. BKN L 12 5 2 2 100.0 0 0 - 1 3 33.3 1 2 3 0 0 2 1 1 2
+p297
+aVMike Dunleavy MIL 02/20/2013 MIL vs. BKN L 25 10 3 7 42.9 0 2 0.0 4 6 66.7 0 6 6 0 0 0 2 5 -1
+p298
+aVJohn Henson MIL 02/20/2013 MIL vs. BKN L 7 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -2
+p299
+aVSamuel Dalembert MIL 02/20/2013 MIL vs. BKN L 8 3 0 0 - 0 0 - 3 4 75.0 0 2 2 0 1 0 0 1 -3
+p300
+aVBeno Udrih MIL 02/20/2013 MIL vs. BKN L 14 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -6
+p301
+aVMonta Ellis MIL 02/20/2013 MIL vs. BKN L 40 14 5 15 33.3 0 2 0.0 4 9 44.4 0 4 4 5 2 0 6 3 3
+p302
+aVBrandon Jennings MIL 02/20/2013 MIL vs. BKN L 42 31 12 18 66.7 4 6 66.7 3 3 100.0 0 2 2 11 1 0 4 4 -3
+p303
+aVLarry Sanders MIL 02/20/2013 MIL vs. BKN L 29 12 5 10 50.0 0 0 - 2 3 66.7 4 9 13 3 0 5 1 4 -2
+p304
+aVSamuel Dalembert MIL 02/19/2013 MIL @ BKN L 11 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 0 0 1 2 1 -10
+p305
+aVLuc Mbah a Moute MIL 02/19/2013 MIL @ BKN L 37 9 4 10 40.0 0 0 - 1 2 50.0 3 2 5 1 1 0 0 1 -8
+p306
+aVLarry Sanders MIL 02/19/2013 MIL @ BKN L 27 14 7 12 58.3 0 0 - 0 0 - 3 5 8 1 0 6 0 5 -3
+p307
+aVEkpe Udoh MIL 02/19/2013 MIL @ BKN L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 2 11
+p308
+aVMonta Ellis MIL 02/19/2013 MIL @ BKN L 49 18 7 18 38.9 1 5 20.0 3 4 75.0 0 8 8 8 1 1 1 4 2
+p309
+aVBrandon Jennings MIL 02/19/2013 MIL @ BKN L 48 34 13 26 50.0 3 8 37.5 5 6 83.3 0 6 6 7 0 0 3 3 -3
+p310
+aVErsan Ilyasova MIL 02/19/2013 MIL @ BKN L 44 21 9 16 56.3 2 5 40.0 1 2 50.0 4 5 9 3 1 1 0 3 -1
+p311
+aVJohn Henson MIL 02/19/2013 MIL @ BKN L 5 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 3
+p312
+aVMike Dunleavy MIL 02/19/2013 MIL @ BKN L 20 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 0 2
+p313
+aVBeno Udrih MIL 02/19/2013 MIL @ BKN L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p314
+aVEkpe Udoh MIL 02/13/2013 MIL vs. PHI W 14 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 3 0 2 2
+p315
+aVBrandon Jennings MIL 02/13/2013 MIL vs. PHI W 42 21 8 21 38.1 2 8 25.0 3 3 100.0 2 2 4 5 4 0 4 1 5
+p316
+aVMonta Ellis MIL 02/13/2013 MIL vs. PHI W 46 27 11 24 45.8 0 3 0.0 5 6 83.3 2 2 4 5 1 0 1 3 3
+p317
+aVSamuel Dalembert MIL 02/13/2013 MIL vs. PHI W 32 17 8 13 61.5 0 0 - 1 2 50.0 7 7 14 2 0 3 3 3 1
+p318
+aVErsan Ilyasova MIL 02/13/2013 MIL vs. PHI W 19 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 1 2 0 2 4 -2
+p319
+aVLuc Mbah a Moute MIL 02/13/2013 MIL vs. PHI W 39 10 3 11 27.3 0 2 0.0 4 6 66.7 3 5 8 0 0 2 2 4 6
+p320
+aVBeno Udrih MIL 02/13/2013 MIL vs. PHI W 7 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 3 0 0 0 1 -4
+p321
+aVMike Dunleavy MIL 02/13/2013 MIL vs. PHI W 34 11 4 7 57.1 1 3 33.3 2 2 100.0 0 3 3 4 1 2 1 2 3
+p322
+aVJohn Henson MIL 02/13/2013 MIL vs. PHI W 6 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -4
+p323
+aVBrandon Jennings MIL 02/11/2013 MIL vs. WAS L 39 7 3 17 17.6 1 7 14.3 0 2 0.0 0 1 1 7 1 0 1 0 -3
+p324
+aVLuc Mbah a Moute MIL 02/11/2013 MIL vs. WAS L 14 8 3 5 60.0 1 1 100.0 1 2 50.0 1 0 1 1 0 0 2 0 2
+p325
+aVMonta Ellis MIL 02/11/2013 MIL vs. WAS L 43 24 9 21 42.9 0 4 0.0 6 9 66.7 2 5 7 8 6 1 2 2 -11
+p326
+aVJohn Henson MIL 02/11/2013 MIL vs. WAS L 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 1 1 0 2 -11
+p327
+aVErsan Ilyasova MIL 02/11/2013 MIL vs. WAS L 34 19 8 17 47.1 1 4 25.0 2 4 50.0 4 5 9 4 3 2 1 2 -1
+p328
+aVBeno Udrih MIL 02/11/2013 MIL vs. WAS L 21 6 3 8 37.5 0 3 0.0 0 0 - 1 0 1 3 0 0 0 1 -20
+p329
+aVSamuel Dalembert MIL 02/11/2013 MIL vs. WAS L 17 6 3 5 60.0 0 0 - 0 1 0.0 2 5 7 0 1 0 1 6 8
+p330
+aVEkpe Udoh MIL 02/11/2013 MIL vs. WAS L 23 5 2 7 28.6 0 0 - 1 1 100.0 4 2 6 0 0 1 1 2 -8
+p331
+aVJoel Przybilla MIL 02/11/2013 MIL vs. WAS L 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -8
+p332
+aVMike Dunleavy MIL 02/11/2013 MIL vs. WAS L 29 11 3 9 33.3 2 4 50.0 3 3 100.0 0 4 4 0 1 0 0 1 -8
+p333
+aVJohn Henson MIL 02/09/2013 MIL vs. DET L 6 7 3 5 60.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 0 4
+p334
+aVMonta Ellis MIL 02/09/2013 MIL vs. DET L 38 8 3 9 33.3 0 0 - 2 2 100.0 0 2 2 2 1 1 3 2 -3
+p335
+aVBeno Udrih MIL 02/09/2013 MIL vs. DET L 20 2 1 7 14.3 0 1 0.0 0 0 - 0 2 2 3 1 0 1 0 1
+p336
+aVEkpe Udoh MIL 02/09/2013 MIL vs. DET L 15 7 1 4 25.0 0 0 - 5 6 83.3 1 2 3 2 0 1 1 3 3
+p337
+aVMike Dunleavy MIL 02/09/2013 MIL vs. DET L 26 10 3 7 42.9 1 3 33.3 3 3 100.0 1 1 2 2 1 0 0 3 4
+p338
+aVSamuel Dalembert MIL 02/09/2013 MIL vs. DET L 33 14 5 10 50.0 0 0 - 4 4 100.0 5 7 12 0 2 5 3 2 -8
+p339
+aVBrandon Jennings MIL 02/09/2013 MIL vs. DET L 38 26 8 27 29.6 4 10 40.0 6 6 100.0 0 2 2 7 3 0 3 1 -8
+p340
+aVLuc Mbah a Moute MIL 02/09/2013 MIL vs. DET L 28 11 5 9 55.6 0 0 - 1 2 50.0 3 3 6 2 1 0 2 2 -9
+p341
+aVErsan Ilyasova MIL 02/09/2013 MIL vs. DET L 35 15 5 8 62.5 2 3 66.7 3 3 100.0 0 10 10 1 3 0 0 1 -9
+p342
+aVMike Dunleavy MIL 02/06/2013 MIL @ UTA L 31 10 3 13 23.1 2 6 33.3 2 2 100.0 0 1 1 3 1 1 3 1 -17
+p343
+aVJoel Przybilla MIL 02/06/2013 MIL @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -4
+p344
+aVBrandon Jennings MIL 02/06/2013 MIL @ UTA L 35 17 5 16 31.3 2 4 50.0 5 9 55.6 1 4 5 4 4 0 3 1 -5
+p345
+aVMarquis Daniels MIL 02/06/2013 MIL @ UTA L 17 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 0 1 1 1 0 7
+p346
+aVDrew Gooden MIL 02/06/2013 MIL @ UTA L 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 1 1 3 0
+p347
+aVErsan Ilyasova MIL 02/06/2013 MIL @ UTA L 30 17 6 10 60.0 2 4 50.0 3 4 75.0 1 3 4 0 0 0 1 3 -5
+p348
+aVSamuel Dalembert MIL 02/06/2013 MIL @ UTA L 26 10 4 8 50.0 0 0 - 2 2 100.0 3 8 11 0 4 4 3 3 -1
+p349
+aVBeno Udrih MIL 02/06/2013 MIL @ UTA L 26 8 3 8 37.5 0 2 0.0 2 2 100.0 1 1 2 2 1 0 2 0 -17
+p350
+aVTobias Harris MIL 02/06/2013 MIL @ UTA L 2 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -2
+p351
+aVEkpe Udoh MIL 02/06/2013 MIL @ UTA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -9
+p352
+aVJohn Henson MIL 02/06/2013 MIL @ UTA L 18 7 2 7 28.6 0 0 - 3 4 75.0 1 5 6 0 0 0 0 4 -9
+p353
+aVMonta Ellis MIL 02/06/2013 MIL @ UTA L 33 13 5 9 55.6 0 2 0.0 3 4 75.0 0 3 3 5 1 1 1 2 -8
+p354
+aVJohn Henson MIL 02/05/2013 MIL @ DEN L 12 2 1 7 14.3 0 0 - 0 1 0.0 1 2 3 0 0 1 1 1 4
+p355
+aVLarry Sanders MIL 02/05/2013 MIL @ DEN L 23 12 6 11 54.5 0 0 - 0 0 - 2 5 7 1 0 5 0 3 -2
+p356
+aVBrandon Jennings MIL 02/05/2013 MIL @ DEN L 40 12 5 15 33.3 0 3 0.0 2 5 40.0 0 2 2 10 3 1 7 2 -7
+p357
+aVLuc Mbah a Moute MIL 02/05/2013 MIL @ DEN L 38 12 5 10 50.0 1 1 100.0 1 2 50.0 1 5 6 2 2 0 2 5 -7
+p358
+aVMonta Ellis MIL 02/05/2013 MIL @ DEN L 42 12 6 21 28.6 0 5 0.0 0 0 - 1 5 6 6 1 3 2 2 -8
+p359
+aVErsan Ilyasova MIL 02/05/2013 MIL @ DEN L 24 6 3 6 50.0 0 2 0.0 0 0 - 0 4 4 2 0 0 2 5 -8
+p360
+aVSamuel Dalembert MIL 02/05/2013 MIL @ DEN L 27 35 17 21 81.0 0 0 - 1 1 100.0 7 5 12 2 0 1 0 3 -3
+p361
+aVMike Dunleavy MIL 02/05/2013 MIL @ DEN L 21 6 2 5 40.0 1 4 25.0 1 2 50.0 0 3 3 2 0 0 2 4 -8
+p362
+aVBeno Udrih MIL 02/05/2013 MIL @ DEN L 14 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 3 -1
+p363
+aVJohn Henson MIL 02/02/2013 MIL vs. ORL W 13 9 4 7 57.1 0 0 - 1 5 20.0 2 3 5 0 0 0 0 0 -5
+p364
+aVLarry Sanders MIL 02/02/2013 MIL vs. ORL W 35 17 7 15 46.7 0 0 - 3 4 75.0 6 7 13 2 1 6 1 5 11
+p365
+aVMarquis Daniels MIL 02/02/2013 MIL vs. ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -4
+p366
+aVBrandon Jennings MIL 02/02/2013 MIL vs. ORL W 33 20 8 16 50.0 2 7 28.6 2 2 100.0 0 1 1 5 1 0 1 1 13
+p367
+aVBeno Udrih MIL 02/02/2013 MIL vs. ORL W 15 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 -4
+p368
+aVErsan Ilyasova MIL 02/02/2013 MIL vs. ORL W 34 16 6 13 46.2 2 5 40.0 2 2 100.0 3 5 8 3 0 2 2 2 17
+p369
+aVMike Dunleavy MIL 02/02/2013 MIL vs. ORL W 24 11 4 9 44.4 3 4 75.0 0 0 - 0 4 4 3 0 1 1 2 -6
+p370
+aVEkpe Udoh MIL 02/02/2013 MIL vs. ORL W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 1
+p371
+aVSamuel Dalembert MIL 02/02/2013 MIL vs. ORL W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p372
+aVMonta Ellis MIL 02/02/2013 MIL vs. ORL W 44 21 7 16 43.8 1 6 16.7 6 7 85.7 1 3 4 11 1 0 6 4 13
+p373
+aVLuc Mbah a Moute MIL 02/02/2013 MIL vs. ORL W 25 8 4 7 57.1 0 1 0.0 0 0 - 1 4 5 1 1 0 2 1 12
+p374
+aVBeno Udrih MIL 02/01/2013 MIL @ NYK L 16 7 3 4 75.0 0 0 - 1 1 100.0 0 2 2 2 0 0 1 2 -4
+p375
+aVMarquis Daniels MIL 02/01/2013 MIL @ NYK L 29 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 2 1 0 1 1 -10
+p376
+aVMonta Ellis MIL 02/01/2013 MIL @ NYK L 37 16 7 20 35.0 2 5 40.0 0 0 - 2 3 5 3 2 0 3 1 -11
+p377
+aVErsan Ilyasova MIL 02/01/2013 MIL @ NYK L 35 19 7 11 63.6 2 3 66.7 3 4 75.0 1 6 7 3 4 0 0 3 -13
+p378
+aVLuc Mbah a Moute MIL 02/01/2013 MIL @ NYK L 14 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 4 -1
+p379
+aVSamuel Dalembert MIL 02/01/2013 MIL @ NYK L 12 6 3 6 50.0 0 0 - 0 0 - 3 1 4 0 0 1 1 3 -2
+p380
+aVBrandon Jennings MIL 02/01/2013 MIL @ NYK L 37 14 5 18 27.8 2 6 33.3 2 2 100.0 0 1 1 6 0 0 2 2 -11
+p381
+aVTobias Harris MIL 02/01/2013 MIL @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p382
+aVLarry Sanders MIL 02/01/2013 MIL @ NYK L 30 2 0 6 0.0 0 0 - 2 6 33.3 4 6 10 0 0 2 1 3 -6
+p383
+aVEkpe Udoh MIL 02/01/2013 MIL @ NYK L 10 4 0 1 0.0 0 0 - 4 4 100.0 1 2 3 0 0 0 2 0 3
+p384
+aVMike Dunleavy MIL 02/01/2013 MIL @ NYK L 18 12 5 6 83.3 2 3 66.7 0 0 - 0 3 3 1 0 0 1 3 1
+p385
+aVMike Dunleavy MIL 01/30/2013 MIL vs. CHI L 26 11 4 5 80.0 1 2 50.0 2 2 100.0 0 5 5 1 0 1 1 0 -22
+p386
+aVBeno Udrih MIL 01/30/2013 MIL vs. CHI L 22 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 2 0 0 3 3 -18
+p387
+aVMonta Ellis MIL 01/30/2013 MIL vs. CHI L 38 12 4 12 33.3 1 2 50.0 3 3 100.0 1 2 3 4 1 0 4 2 -2
+p388
+aVEkpe Udoh MIL 01/30/2013 MIL vs. CHI L 12 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 1 0 1 -12
+p389
+aVErsan Ilyasova MIL 01/30/2013 MIL vs. CHI L 39 18 6 18 33.3 2 3 66.7 4 6 66.7 3 4 7 0 0 1 2 5 -8
+p390
+aVTobias Harris MIL 01/30/2013 MIL vs. CHI L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p391
+aVSamuel Dalembert MIL 01/30/2013 MIL vs. CHI L 24 14 6 9 66.7 0 0 - 2 4 50.0 6 7 13 0 0 4 2 2 -4
+p392
+aVJohn Henson MIL 01/30/2013 MIL vs. CHI L 8 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 0 2 1 -8
+p393
+aVLuc Mbah a Moute MIL 01/30/2013 MIL vs. CHI L 24 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 1 0 0 0 5
+p394
+aVBrandon Jennings MIL 01/30/2013 MIL vs. CHI L 40 15 6 18 33.3 2 5 40.0 1 2 50.0 1 1 2 8 1 0 3 5 -7
+p395
+aVBeno Udrih MIL 01/29/2013 MIL @ DET W 26 7 3 9 33.3 0 0 - 1 2 50.0 1 3 4 11 2 0 2 1 18
+p396
+aVErsan Ilyasova MIL 01/29/2013 MIL @ DET W 21 9 3 6 50.0 2 2 100.0 1 2 50.0 0 1 1 3 2 0 0 2 1
+p397
+aVEkpe Udoh MIL 01/29/2013 MIL @ DET W 14 8 4 6 66.7 0 0 - 0 0 - 6 0 6 0 0 2 0 0 16
+p398
+aVBrandon Jennings MIL 01/29/2013 MIL @ DET W 30 30 11 19 57.9 5 8 62.5 3 6 50.0 0 2 2 6 1 0 2 1 10
+p399
+aVMarquis Daniels MIL 01/29/2013 MIL @ DET W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p400
+aVJohn Henson MIL 01/29/2013 MIL @ DET W 25 11 5 10 50.0 0 0 - 1 1 100.0 3 3 6 1 0 1 1 1 21
+p401
+aVMonta Ellis MIL 01/29/2013 MIL @ DET W 34 14 5 14 35.7 2 6 33.3 2 2 100.0 1 3 4 2 6 0 4 1 27
+p402
+aVTobias Harris MIL 01/29/2013 MIL @ DET W 6 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 -1
+p403
+aVLuc Mbah a Moute MIL 01/29/2013 MIL @ DET W 17 2 1 3 33.3 0 0 - 0 0 - 1 3 4 3 0 0 0 1 13
+p404
+aVMike Dunleavy MIL 01/29/2013 MIL @ DET W 25 17 7 13 53.8 2 5 40.0 1 1 100.0 1 4 5 2 1 1 0 3 15
+p405
+aVLarry Sanders MIL 01/29/2013 MIL @ DET W 16 3 1 3 33.3 0 0 - 1 4 25.0 2 1 3 0 1 1 0 4 16
+p406
+aVSamuel Dalembert MIL 01/29/2013 MIL @ DET W 21 12 4 9 44.4 0 0 - 4 4 100.0 5 5 10 0 0 3 1 4 0
+p407
+aVLuc Mbah a Moute MIL 01/26/2013 MIL vs. GSW W 28 8 3 12 25.0 0 0 - 2 6 33.3 4 5 9 2 0 0 0 1 1
+p408
+aVSamuel Dalembert MIL 01/26/2013 MIL vs. GSW W 19 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 1 2 1 2 7
+p409
+aVBeno Udrih MIL 01/26/2013 MIL vs. GSW W 21 10 4 12 33.3 2 5 40.0 0 0 - 2 2 4 5 0 0 1 1 -4
+p410
+aVErsan Ilyasova MIL 01/26/2013 MIL vs. GSW W 35 18 7 17 41.2 2 6 33.3 2 2 100.0 5 7 12 3 2 0 1 2 4
+p411
+aVBrandon Jennings MIL 01/26/2013 MIL vs. GSW W 38 20 6 15 40.0 5 8 62.5 3 4 75.0 3 3 6 7 0 0 1 2 1
+p412
+aVMonta Ellis MIL 01/26/2013 MIL vs. GSW W 38 20 7 20 35.0 1 5 20.0 5 6 83.3 0 4 4 4 2 1 4 2 9
+p413
+aVMike Dunleavy MIL 01/26/2013 MIL vs. GSW W 17 11 4 9 44.4 3 6 50.0 0 0 - 0 3 3 1 1 0 1 1 8
+p414
+aVLarry Sanders MIL 01/26/2013 MIL vs. GSW W 29 16 7 9 77.8 0 0 - 2 2 100.0 5 6 11 1 0 3 1 4 0
+p415
+aVMarquis Daniels MIL 01/26/2013 MIL vs. GSW W 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p416
+aVEkpe Udoh MIL 01/26/2013 MIL vs. GSW W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 1 1 1 1 0 6
+p417
+aVErsan Ilyasova MIL 01/25/2013 MIL @ CLE L 39 30 11 21 52.4 5 6 83.3 3 4 75.0 2 5 7 2 1 1 5 2 1
+p418
+aVMike Dunleavy MIL 01/25/2013 MIL @ CLE L 29 4 1 6 16.7 1 4 25.0 1 2 50.0 1 5 6 3 0 0 3 2 -21
+p419
+aVLuc Mbah a Moute MIL 01/25/2013 MIL @ CLE L 19 9 4 6 66.7 1 2 50.0 0 0 - 2 1 3 0 1 1 0 1 16
+p420
+aVJohn Henson MIL 01/25/2013 MIL @ CLE L 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p421
+aVEkpe Udoh MIL 01/25/2013 MIL @ CLE L 16 5 2 2 100.0 0 0 - 1 1 100.0 2 2 4 0 0 1 1 1 -9
+p422
+aVLarry Sanders MIL 01/25/2013 MIL @ CLE L 34 14 7 11 63.6 0 0 - 0 1 0.0 3 8 11 0 0 2 2 3 2
+p423
+aVBrandon Jennings MIL 01/25/2013 MIL @ CLE L 32 14 5 19 26.3 4 10 40.0 0 1 0.0 1 2 3 12 1 0 3 6 -13
+p424
+aVBeno Udrih MIL 01/25/2013 MIL @ CLE L 22 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 8 1 0 1 0 3
+p425
+aVMonta Ellis MIL 01/25/2013 MIL @ CLE L 42 21 8 20 40.0 2 4 50.0 3 4 75.0 0 6 6 9 2 1 2 4 0
+p426
+aVMonta Ellis MIL 01/22/2013 MIL vs. PHI W 44 18 7 10 70.0 0 1 0.0 4 6 66.7 0 5 5 10 2 0 2 2 11
+p427
+aVLuc Mbah a Moute MIL 01/22/2013 MIL vs. PHI W 20 5 2 6 33.3 0 0 - 1 4 25.0 1 2 3 1 0 0 1 1 9
+p428
+aVEkpe Udoh MIL 01/22/2013 MIL vs. PHI W 15 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 1 1 1 0 0 -11
+p429
+aVBrandon Jennings MIL 01/22/2013 MIL vs. PHI W 39 25 8 17 47.1 3 6 50.0 6 6 100.0 1 0 1 7 3 0 4 0 9
+p430
+aVBeno Udrih MIL 01/22/2013 MIL vs. PHI W 13 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 1 -4
+p431
+aVJohn Henson MIL 01/22/2013 MIL vs. PHI W 12 9 4 7 57.1 0 0 - 1 2 50.0 0 3 3 0 0 0 1 0 -5
+p432
+aVMike Dunleavy MIL 01/22/2013 MIL vs. PHI W 28 11 4 7 57.1 2 4 50.0 1 3 33.3 0 3 3 0 1 1 1 4 -1
+p433
+aVErsan Ilyasova MIL 01/22/2013 MIL vs. PHI W 36 27 10 17 58.8 2 4 50.0 5 6 83.3 7 9 16 2 3 1 0 2 13
+p434
+aVLarry Sanders MIL 01/22/2013 MIL vs. PHI W 33 9 4 10 40.0 0 0 - 1 2 50.0 3 2 5 1 0 2 2 3 19
+p435
+aVSamuel Dalembert MIL 01/19/2013 MIL @ POR W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 5
+p436
+aVBeno Udrih MIL 01/19/2013 MIL @ POR W 13 6 3 4 75.0 0 0 - 0 0 - 0 2 2 4 0 0 0 0 3
+p437
+aVLuc Mbah a Moute MIL 01/19/2013 MIL @ POR W 37 7 3 11 27.3 0 1 0.0 1 3 33.3 3 4 7 1 2 0 2 2 19
+p438
+aVErsan Ilyasova MIL 01/19/2013 MIL @ POR W 26 27 10 14 71.4 3 3 100.0 4 4 100.0 2 12 14 4 0 1 1 4 14
+p439
+aVMike Dunleavy MIL 01/19/2013 MIL @ POR W 30 14 4 7 57.1 3 5 60.0 3 3 100.0 0 5 5 2 1 0 1 2 -19
+p440
+aVJohn Henson MIL 01/19/2013 MIL @ POR W 7 5 1 3 33.3 0 0 - 3 4 75.0 1 0 1 1 0 0 1 1 1
+p441
+aVMarquis Daniels MIL 01/19/2013 MIL @ POR W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p442
+aVMonta Ellis MIL 01/19/2013 MIL @ POR W 34 13 5 15 33.3 0 5 0.0 3 3 100.0 1 4 5 5 5 0 2 4 2
+p443
+aVEkpe Udoh MIL 01/19/2013 MIL @ POR W 19 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 5 -1
+p444
+aVBrandon Jennings MIL 01/19/2013 MIL @ POR W 37 30 9 20 45.0 0 4 0.0 12 15 80.0 1 1 2 8 3 0 5 0 5
+p445
+aVLarry Sanders MIL 01/19/2013 MIL @ POR W 24 8 4 11 36.4 0 0 - 0 0 - 2 3 5 1 0 3 0 1 2
+p446
+aVLuc Mbah a Moute MIL 01/17/2013 MIL @ PHX W 25 4 2 8 25.0 0 1 0.0 0 0 - 0 4 4 2 2 1 1 1 -3
+p447
+aVJohn Henson MIL 01/17/2013 MIL @ PHX W 22 10 5 12 41.7 0 0 - 0 2 0.0 3 3 6 1 0 1 2 2 3
+p448
+aVLarry Sanders MIL 01/17/2013 MIL @ PHX W 30 19 8 14 57.1 0 0 - 3 3 100.0 6 9 15 1 0 2 0 3 8
+p449
+aVMarquis Daniels MIL 01/17/2013 MIL @ PHX W 14 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -4
+p450
+aVEkpe Udoh MIL 01/17/2013 MIL @ PHX W 7 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 0 2 1 3 3
+p451
+aVMike Dunleavy MIL 01/17/2013 MIL @ PHX W 31 16 5 9 55.6 4 5 80.0 2 2 100.0 0 3 3 3 1 3 1 1 12
+p452
+aVErsan Ilyasova MIL 01/17/2013 MIL @ PHX W 19 4 2 6 33.3 0 1 0.0 0 2 0.0 0 5 5 0 1 1 1 2 -9
+p453
+aVSamuel Dalembert MIL 01/17/2013 MIL @ PHX W 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 1
+p454
+aVDrew Gooden MIL 01/17/2013 MIL @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p455
+aVBrandon Jennings MIL 01/17/2013 MIL @ PHX W 29 16 6 14 42.9 2 5 40.0 2 3 66.7 1 4 5 4 0 0 5 0 -3
+p456
+aVBeno Udrih MIL 01/17/2013 MIL @ PHX W 20 0 0 2 0.0 0 0 - 0 0 - 0 5 5 6 0 0 1 0 7
+p457
+aVMonta Ellis MIL 01/17/2013 MIL @ PHX W 34 24 10 20 50.0 0 3 0.0 4 4 100.0 2 2 4 6 3 0 5 3 8
+p458
+aVErsan Ilyasova MIL 01/15/2013 MIL @ LAL L 22 6 3 9 33.3 0 2 0.0 0 0 - 3 4 7 0 1 1 1 1 -17
+p459
+aVBeno Udrih MIL 01/15/2013 MIL @ LAL L 26 14 6 12 50.0 1 2 50.0 1 2 50.0 2 0 2 7 0 0 1 1 -6
+p460
+aVTobias Harris MIL 01/15/2013 MIL @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p461
+aVEkpe Udoh MIL 01/15/2013 MIL @ LAL L 11 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 6
+p462
+aVMonta Ellis MIL 01/15/2013 MIL @ LAL L 31 17 6 16 37.5 2 8 25.0 3 9 33.3 2 4 6 4 1 0 3 3 -8
+p463
+aVLuc Mbah a Moute MIL 01/15/2013 MIL @ LAL L 25 8 3 10 30.0 0 2 0.0 2 2 100.0 2 3 5 0 0 0 0 0 -21
+p464
+aVBrandon Jennings MIL 01/15/2013 MIL @ LAL L 29 12 4 14 28.6 1 7 14.3 3 3 100.0 0 1 1 1 1 0 2 1 -22
+p465
+aVJohn Henson MIL 01/15/2013 MIL @ LAL L 17 5 2 8 25.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 1 -6
+p466
+aVMike Dunleavy MIL 01/15/2013 MIL @ LAL L 23 10 3 8 37.5 2 4 50.0 2 2 100.0 1 2 3 0 0 0 2 2 1
+p467
+aVLarry Sanders MIL 01/15/2013 MIL @ LAL L 24 6 3 7 42.9 0 0 - 0 0 - 4 7 11 2 1 3 0 4 -1
+p468
+aVSamuel Dalembert MIL 01/15/2013 MIL @ LAL L 12 7 3 4 75.0 0 0 - 1 2 50.0 2 4 6 0 0 0 1 0 -7
+p469
+aVMarquis Daniels MIL 01/15/2013 MIL @ LAL L 14 3 1 5 20.0 1 3 33.3 0 0 - 1 3 4 1 0 0 0 1 -1
+p470
+aVErsan Ilyasova MIL 01/13/2013 MIL @ TOR W 26 9 3 6 50.0 1 2 50.0 2 2 100.0 0 5 5 1 1 0 2 4 1
+p471
+aVJohn Henson MIL 01/13/2013 MIL @ TOR W 22 19 8 13 61.5 0 1 0.0 3 4 75.0 1 5 6 0 0 2 2 3 10
+p472
+aVMarquis Daniels MIL 01/13/2013 MIL @ TOR W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 3 0 0 0 5
+p473
+aVMike Dunleavy MIL 01/13/2013 MIL @ TOR W 30 15 5 8 62.5 3 4 75.0 2 2 100.0 0 2 2 5 0 0 1 3 22
+p474
+aVLuc Mbah a Moute MIL 01/13/2013 MIL @ TOR W 18 8 4 5 80.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 -11
+p475
+aVMonta Ellis MIL 01/13/2013 MIL @ TOR W 34 17 7 17 41.2 1 3 33.3 2 2 100.0 0 1 1 3 1 1 2 4 6
+p476
+aVLarry Sanders MIL 01/13/2013 MIL @ TOR W 28 11 4 6 66.7 0 0 - 3 6 50.0 3 5 8 1 0 2 1 4 13
+p477
+aVBeno Udrih MIL 01/13/2013 MIL @ TOR W 16 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 7 0 0 2 0 5
+p478
+aVEkpe Udoh MIL 01/13/2013 MIL @ TOR W 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 0 4 -2
+p479
+aVBrandon Jennings MIL 01/13/2013 MIL @ TOR W 32 19 5 13 38.5 2 5 40.0 7 7 100.0 2 2 4 10 0 0 2 2 6
+p480
+aVErsan Ilyasova MIL 01/11/2013 MIL vs. DET L 27 8 4 14 28.6 0 3 0.0 0 0 - 1 5 6 1 0 2 0 3 -10
+p481
+aVLuc Mbah a Moute MIL 01/11/2013 MIL vs. DET L 22 6 2 7 28.6 0 0 - 2 2 100.0 1 5 6 1 1 1 2 1 -11
+p482
+aVJohn Henson MIL 01/11/2013 MIL vs. DET L 11 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -11
+p483
+aVSamuel Dalembert MIL 01/11/2013 MIL vs. DET L 12 6 2 5 40.0 0 0 - 2 4 50.0 2 5 7 0 0 3 1 1 2
+p484
+aVEkpe Udoh MIL 01/11/2013 MIL vs. DET L 15 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 2 0 2 -8
+p485
+aVMonta Ellis MIL 01/11/2013 MIL vs. DET L 27 13 6 12 50.0 0 2 0.0 1 2 50.0 2 2 4 5 1 0 3 2 -10
+p486
+aVMarquis Daniels MIL 01/11/2013 MIL vs. DET L 13 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 0 1 0 0 0 -2
+p487
+aVMike Dunleavy MIL 01/11/2013 MIL vs. DET L 21 4 2 6 33.3 0 4 0.0 0 0 - 0 2 2 1 0 1 1 0 -4
+p488
+aVDrew Gooden MIL 01/11/2013 MIL vs. DET L 12 8 4 10 40.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 0 -2
+p489
+aVTobias Harris MIL 01/11/2013 MIL vs. DET L 5 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 1 0 2 1 -1
+p490
+aVBeno Udrih MIL 01/11/2013 MIL vs. DET L 27 15 7 10 70.0 0 1 0.0 1 1 100.0 0 2 2 3 0 0 2 2 -6
+p491
+aVLarry Sanders MIL 01/11/2013 MIL vs. DET L 19 3 1 3 33.3 0 0 - 1 1 100.0 1 4 5 1 0 3 0 3 -3
+p492
+aVBrandon Jennings MIL 01/11/2013 MIL vs. DET L 29 15 5 13 38.5 1 4 25.0 4 5 80.0 1 2 3 1 2 0 0 3 -14
+p493
+aVErsan Ilyasova MIL 01/09/2013 MIL @ CHI W 27 13 4 10 40.0 1 4 25.0 4 5 80.0 0 6 6 2 2 2 2 3 5
+p494
+aVJohn Henson MIL 01/09/2013 MIL @ CHI W 18 5 2 6 33.3 0 0 - 1 2 50.0 0 6 6 0 0 1 0 2 3
+p495
+aVLarry Sanders MIL 01/09/2013 MIL @ CHI W 31 6 3 6 50.0 0 0 - 0 0 - 4 8 12 1 1 7 0 3 3
+p496
+aVMike Dunleavy MIL 01/09/2013 MIL @ CHI W 28 16 6 11 54.5 4 5 80.0 0 0 - 0 4 4 2 1 1 3 2 6
+p497
+aVEkpe Udoh MIL 01/09/2013 MIL @ CHI W 17 4 1 2 50.0 0 0 - 2 3 66.7 3 0 3 1 1 2 0 2 5
+p498
+aVBeno Udrih MIL 01/09/2013 MIL @ CHI W 16 10 5 8 62.5 0 0 - 0 0 - 1 0 1 4 0 0 2 0 3
+p499
+aVLuc Mbah a Moute MIL 01/09/2013 MIL @ CHI W 21 1 0 3 0.0 0 1 0.0 1 2 50.0 2 3 5 0 0 1 2 1 6
+p500
+aVSamuel Dalembert MIL 01/09/2013 MIL @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p501
+aVBrandon Jennings MIL 01/09/2013 MIL @ CHI W 40 35 12 24 50.0 5 10 50.0 6 7 85.7 1 5 6 6 1 0 4 3 -1
+p502
+aVMonta Ellis MIL 01/09/2013 MIL @ CHI W 40 14 6 14 42.9 0 2 0.0 2 2 100.0 0 5 5 5 5 1 3 1 8
+p503
+aVLarry Sanders MIL 01/08/2013 MIL vs. PHX W 26 10 5 9 55.6 0 0 - 0 1 0.0 4 4 8 1 3 6 0 4 -1
+p504
+aVEkpe Udoh MIL 01/08/2013 MIL vs. PHX W 22 2 0 5 0.0 0 0 - 2 2 100.0 3 3 6 2 0 1 0 2 10
+p505
+aVMike Dunleavy MIL 01/08/2013 MIL vs. PHX W 25 9 4 9 44.4 0 2 0.0 1 1 100.0 0 3 3 2 0 1 0 0 7
+p506
+aVJohn Henson MIL 01/08/2013 MIL vs. PHX W 19 12 4 7 57.1 0 0 - 4 7 57.1 3 8 11 2 0 1 1 3 14
+p507
+aVBrandon Jennings MIL 01/08/2013 MIL vs. PHX W 37 29 9 15 60.0 5 7 71.4 6 6 100.0 2 1 3 9 1 1 2 3 4
+p508
+aVErsan Ilyasova MIL 01/08/2013 MIL vs. PHX W 26 12 5 10 50.0 2 4 50.0 0 0 - 4 2 6 4 2 0 1 5 -3
+p509
+aVBeno Udrih MIL 01/08/2013 MIL vs. PHX W 19 10 5 6 83.3 0 0 - 0 0 - 0 2 2 2 0 0 2 0 12
+p510
+aVLuc Mbah a Moute MIL 01/08/2013 MIL vs. PHX W 25 11 5 11 45.5 1 1 100.0 0 0 - 2 2 4 0 0 0 0 1 0
+p511
+aVMonta Ellis MIL 01/08/2013 MIL vs. PHX W 40 13 5 19 26.3 1 3 33.3 2 2 100.0 0 3 3 3 0 0 5 0 2
+p512
+aVMarquis Daniels MIL 01/05/2013 MIL @ IND L 2 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p513
+aVMonta Ellis MIL 01/05/2013 MIL @ IND L 36 21 8 19 42.1 2 4 50.0 3 4 75.0 1 3 4 3 2 0 4 2 -11
+p514
+aVEkpe Udoh MIL 01/05/2013 MIL @ IND L 28 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 2 1 2 -17
+p515
+aVDrew Gooden MIL 01/05/2013 MIL @ IND L 6 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 2
+p516
+aVBeno Udrih MIL 01/05/2013 MIL @ IND L 22 8 4 7 57.1 0 0 - 0 0 - 0 0 0 5 0 0 1 1 -13
+p517
+aVDoron Lamb MIL 01/05/2013 MIL @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p518
+aVMike Dunleavy MIL 01/05/2013 MIL @ IND L 24 7 3 8 37.5 1 5 20.0 0 0 - 0 0 0 2 0 0 1 1 -8
+p519
+aVJohn Henson MIL 01/05/2013 MIL @ IND L 26 6 1 6 16.7 0 1 0.0 4 6 66.7 3 10 13 1 1 2 3 4 -3
+p520
+aVBrandon Jennings MIL 01/05/2013 MIL @ IND L 33 12 4 15 26.7 1 5 20.0 3 4 75.0 0 4 4 5 3 0 2 1 -6
+p521
+aVLarry Sanders MIL 01/05/2013 MIL @ IND L 29 12 6 11 54.5 0 0 - 0 0 - 7 5 12 1 0 4 1 2 -8
+p522
+aVLuc Mbah a Moute MIL 01/05/2013 MIL @ IND L 19 3 1 6 16.7 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 0 -9
+p523
+aVTobias Harris MIL 01/05/2013 MIL @ IND L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 2 0 1 -2
+p524
+aVMonta Ellis MIL 01/04/2013 MIL vs. HOU L 31 12 5 19 26.3 0 3 0.0 2 2 100.0 0 2 2 7 2 0 4 2 -29
+p525
+aVBrandon Jennings MIL 01/04/2013 MIL vs. HOU L 38 16 6 15 40.0 2 3 66.7 2 2 100.0 0 3 3 7 3 0 4 2 -11
+p526
+aVLuc Mbah a Moute MIL 01/04/2013 MIL vs. HOU L 23 8 3 9 33.3 0 0 - 2 2 100.0 2 2 4 1 1 1 3 2 -25
+p527
+aVMike Dunleavy MIL 01/04/2013 MIL vs. HOU L 24 12 4 8 50.0 2 3 66.7 2 2 100.0 1 3 4 0 1 0 1 1 0
+p528
+aVBeno Udrih MIL 01/04/2013 MIL vs. HOU L 24 11 4 5 80.0 0 0 - 3 5 60.0 0 4 4 4 0 0 3 1 8
+p529
+aVLarry Sanders MIL 01/04/2013 MIL vs. HOU L 18 4 2 3 66.7 0 0 - 0 2 0.0 2 2 4 1 1 4 3 5 -9
+p530
+aVMarquis Daniels MIL 01/04/2013 MIL vs. HOU L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p531
+aVEkpe Udoh MIL 01/04/2013 MIL vs. HOU L 25 10 3 4 75.0 0 0 - 4 4 100.0 3 5 8 1 0 0 3 3 -10
+p532
+aVJohn Henson MIL 01/04/2013 MIL vs. HOU L 27 11 5 10 50.0 0 0 - 1 3 33.3 7 8 15 1 2 2 3 3 2
+p533
+aVErsan Ilyasova MIL 01/04/2013 MIL vs. HOU L 23 11 4 6 66.7 2 3 66.7 1 1 100.0 1 3 4 1 0 0 1 2 -4
+p534
+aVTobias Harris MIL 01/04/2013 MIL vs. HOU L 3 6 3 6 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 4
+p535
+aVMarquis Daniels MIL 01/02/2013 MIL vs. SAS L 21 5 1 4 25.0 0 1 0.0 3 4 75.0 1 3 4 4 0 0 0 1 -7
+p536
+aVErsan Ilyasova MIL 01/02/2013 MIL vs. SAS L 24 3 1 5 20.0 1 2 50.0 0 0 - 3 7 10 1 0 1 2 3 2
+p537
+aVEkpe Udoh MIL 01/02/2013 MIL vs. SAS L 7 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -1
+p538
+aVTobias Harris MIL 01/02/2013 MIL vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 6
+p539
+aVDoron Lamb MIL 01/02/2013 MIL vs. SAS L 1 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 6
+p540
+aVJohn Henson MIL 01/02/2013 MIL vs. SAS L 23 20 10 11 90.9 0 0 - 0 0 - 3 6 9 3 1 1 0 1 7
+p541
+aVLarry Sanders MIL 01/02/2013 MIL vs. SAS L 23 6 2 4 50.0 0 0 - 2 2 100.0 3 6 9 1 0 4 4 3 -19
+p542
+aVBrandon Jennings MIL 01/02/2013 MIL vs. SAS L 44 31 13 26 50.0 1 5 20.0 4 4 100.0 0 0 0 5 1 2 5 2 -14
+p543
+aVMike Dunleavy MIL 01/02/2013 MIL vs. SAS L 37 19 7 12 58.3 3 7 42.9 2 2 100.0 0 3 3 1 1 0 2 2 -8
+p544
+aVMonta Ellis MIL 01/02/2013 MIL vs. SAS L 39 18 7 18 38.9 0 1 0.0 4 6 66.7 0 1 1 8 1 0 3 2 -4
+p545
+aVLuc Mbah a Moute MIL 01/02/2013 MIL vs. SAS L 19 4 1 4 25.0 0 0 - 2 4 50.0 3 6 9 0 0 1 0 1 -3
+p546
+aVBeno Udrih MIL 12/30/2012 MIL @ DET L 17 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 2 0 -9
+p547
+aVMarquis Daniels MIL 12/30/2012 MIL @ DET L 20 7 3 9 33.3 0 2 0.0 1 2 50.0 4 2 6 1 1 0 1 1 -16
+p548
+aVErsan Ilyasova MIL 12/30/2012 MIL @ DET L 27 24 9 12 75.0 3 3 100.0 3 4 75.0 0 5 5 2 0 0 0 2 3
+p549
+aVMonta Ellis MIL 12/30/2012 MIL @ DET L 42 30 12 22 54.5 3 7 42.9 3 4 75.0 1 3 4 9 1 1 2 0 3
+p550
+aVDrew Gooden MIL 12/30/2012 MIL @ DET L 16 9 3 7 42.9 0 1 0.0 3 3 100.0 0 0 0 1 1 1 1 3 2
+p551
+aVLuc Mbah a Moute MIL 12/30/2012 MIL @ DET L 21 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 1 3 2 -7
+p552
+aVMike Dunleavy MIL 12/30/2012 MIL @ DET L 28 9 3 7 42.9 3 5 60.0 0 0 - 0 2 2 0 0 0 1 4 14
+p553
+aVBrandon Jennings MIL 12/30/2012 MIL @ DET L 38 9 3 12 25.0 1 4 25.0 2 2 100.0 1 5 6 4 0 0 1 2 4
+p554
+aVLarry Sanders MIL 12/30/2012 MIL @ DET L 20 4 2 4 50.0 0 0 - 0 2 0.0 3 0 3 0 2 1 1 4 -11
+p555
+aVEkpe Udoh MIL 12/30/2012 MIL @ DET L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 1 0 0 7
+p556
+aVEkpe Udoh MIL 12/29/2012 MIL vs. MIA W 14 0 0 3 0.0 0 0 - 0 0 - 3 1 4 1 0 2 0 2 -10
+p557
+aVJohn Henson MIL 12/29/2012 MIL vs. MIA W 3 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p558
+aVMarquis Daniels MIL 12/29/2012 MIL vs. MIA W 25 2 1 9 11.1 0 1 0.0 0 0 - 0 4 4 0 2 0 0 2 2
+p559
+aVBeno Udrih MIL 12/29/2012 MIL vs. MIA W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 4 1 0 0 1 16
+p560
+aVMike Dunleavy MIL 12/29/2012 MIL vs. MIA W 26 18 5 12 41.7 3 7 42.9 5 5 100.0 1 8 9 6 3 0 1 1 25
+p561
+aVBrandon Jennings MIL 12/29/2012 MIL vs. MIA W 42 25 8 16 50.0 2 7 28.6 7 7 100.0 1 1 2 7 4 0 0 2 15
+p562
+aVLarry Sanders MIL 12/29/2012 MIL vs. MIA W 32 16 8 11 72.7 0 0 - 0 0 - 2 9 11 1 0 4 0 2 26
+p563
+aVErsan Ilyasova MIL 12/29/2012 MIL vs. MIA W 14 6 2 7 28.6 0 0 - 2 2 100.0 3 1 4 0 0 0 0 1 -5
+p564
+aVMonta Ellis MIL 12/29/2012 MIL vs. MIA W 36 14 6 18 33.3 2 4 50.0 0 0 - 0 3 3 9 5 0 1 3 7
+p565
+aVTobias Harris MIL 12/29/2012 MIL vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p566
+aVLuc Mbah a Moute MIL 12/29/2012 MIL vs. MIA W 33 19 8 15 53.3 1 1 100.0 2 3 66.7 3 4 7 1 1 2 3 4 19
+p567
+aVLarry Sanders MIL 12/26/2012 MIL vs. BKN W 23 12 6 11 54.5 0 0 - 0 0 - 2 10 12 1 1 1 2 5 9
+p568
+aVJohn Henson MIL 12/26/2012 MIL vs. BKN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p569
+aVDoron Lamb MIL 12/26/2012 MIL vs. BKN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p570
+aVLuc Mbah a Moute MIL 12/26/2012 MIL vs. BKN W 19 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p571
+aVMarquis Daniels MIL 12/26/2012 MIL vs. BKN W 21 5 2 5 40.0 1 2 50.0 0 0 - 1 4 5 1 1 0 2 2 0
+p572
+aVMike Dunleavy MIL 12/26/2012 MIL vs. BKN W 28 17 6 12 50.0 2 6 33.3 3 3 100.0 1 2 3 3 0 0 2 0 15
+p573
+aVEkpe Udoh MIL 12/26/2012 MIL vs. BKN W 25 8 4 11 36.4 0 0 - 0 0 - 4 4 8 0 0 3 1 3 5
+p574
+aVMonta Ellis MIL 12/26/2012 MIL vs. BKN W 37 20 7 14 50.0 3 3 100.0 3 4 75.0 2 4 6 7 6 1 4 1 23
+p575
+aVBeno Udrih MIL 12/26/2012 MIL vs. BKN W 16 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 4 -8
+p576
+aVErsan Ilyasova MIL 12/26/2012 MIL vs. BKN W 27 17 4 7 57.1 1 1 100.0 8 8 100.0 3 8 11 4 3 0 0 3 17
+p577
+aVBrandon Jennings MIL 12/26/2012 MIL vs. BKN W 42 25 9 15 60.0 3 4 75.0 4 4 100.0 1 3 4 6 1 0 5 2 14
+p578
+aVErsan Ilyasova MIL 12/22/2012 MIL vs. CLE L 20 6 2 6 33.3 1 1 100.0 1 2 50.0 0 4 4 2 0 0 0 3 4
+p579
+aVMike Dunleavy MIL 12/22/2012 MIL vs. CLE L 29 8 3 7 42.9 0 4 0.0 2 2 100.0 1 1 2 4 1 0 3 2 -11
+p580
+aVLuc Mbah a Moute MIL 12/22/2012 MIL vs. CLE L 24 4 1 7 14.3 0 2 0.0 2 3 66.7 1 4 5 4 1 0 3 1 -12
+p581
+aVLarry Sanders MIL 12/22/2012 MIL vs. CLE L 30 2 0 3 0.0 0 0 - 2 2 100.0 2 10 12 0 1 5 4 4 -20
+p582
+aVDoron Lamb MIL 12/22/2012 MIL vs. CLE L 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p583
+aVMarquis Daniels MIL 12/22/2012 MIL vs. CLE L 22 9 3 8 37.5 0 2 0.0 3 6 50.0 2 1 3 1 2 0 0 1 -6
+p584
+aVJohn Henson MIL 12/22/2012 MIL vs. CLE L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p585
+aVEkpe Udoh MIL 12/22/2012 MIL vs. CLE L 18 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 0 0 2 1 1 -4
+p586
+aVBrandon Jennings MIL 12/22/2012 MIL vs. CLE L 38 7 3 13 23.1 1 6 16.7 0 0 - 0 4 4 3 0 0 0 2 -13
+p587
+aVMonta Ellis MIL 12/22/2012 MIL vs. CLE L 39 37 15 27 55.6 2 5 40.0 5 6 83.3 0 2 2 3 0 0 3 0 -8
+p588
+aVDrew Gooden MIL 12/22/2012 MIL vs. CLE L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p589
+aVDoron Lamb MIL 12/21/2012 MIL @ BOS W 6 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 1 0
+p590
+aVLuc Mbah a Moute MIL 12/21/2012 MIL @ BOS W 40 20 8 15 53.3 0 0 - 4 10 40.0 5 1 6 2 0 0 5 2 9
+p591
+aVBrandon Jennings MIL 12/21/2012 MIL @ BOS W 48 12 4 11 36.4 2 5 40.0 2 4 50.0 4 7 11 8 2 0 7 1 7
+p592
+aVEkpe Udoh MIL 12/21/2012 MIL @ BOS W 26 3 1 3 33.3 0 1 0.0 1 2 50.0 0 3 3 1 2 0 0 0 2
+p593
+aVMarquis Daniels MIL 12/21/2012 MIL @ BOS W 19 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 0 -8
+p594
+aVMonta Ellis MIL 12/21/2012 MIL @ BOS W 41 27 9 21 42.9 0 1 0.0 9 11 81.8 1 6 7 5 0 0 4 1 -8
+p595
+aVErsan Ilyasova MIL 12/21/2012 MIL @ BOS W 26 8 3 7 42.9 1 3 33.3 1 2 50.0 2 3 5 2 1 0 1 4 2
+p596
+aVMike Dunleavy MIL 12/21/2012 MIL @ BOS W 18 9 2 7 28.6 1 4 25.0 4 4 100.0 1 2 3 0 0 1 0 2 10
+p597
+aVLarry Sanders MIL 12/21/2012 MIL @ BOS W 39 17 8 10 80.0 0 0 - 1 3 33.3 2 18 20 3 2 2 1 4 11
+p598
+aVMonta Ellis MIL 12/19/2012 MIL @ MEM L 34 4 1 14 7.1 0 5 0.0 2 2 100.0 0 2 2 2 2 1 3 1 -8
+p599
+aVDoron Lamb MIL 12/19/2012 MIL @ MEM L 17 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 2 2 0 1 2 9
+p600
+aVMike Dunleavy MIL 12/19/2012 MIL @ MEM L 26 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 3 0 0 1 2 -6
+p601
+aVErsan Ilyasova MIL 12/19/2012 MIL @ MEM L 22 5 2 6 33.3 1 1 100.0 0 0 - 0 4 4 1 0 0 1 2 -3
+p602
+aVLarry Sanders MIL 12/19/2012 MIL @ MEM L 21 8 4 6 66.7 0 0 - 0 0 - 2 7 9 1 3 2 2 3 -5
+p603
+aVMarquis Daniels MIL 12/19/2012 MIL @ MEM L 22 12 5 8 62.5 0 2 0.0 2 2 100.0 3 3 6 0 0 0 2 3 -4
+p604
+aVLuc Mbah a Moute MIL 12/19/2012 MIL @ MEM L 22 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 0 0 0 1 2 -12
+p605
+aVEkpe Udoh MIL 12/19/2012 MIL @ MEM L 17 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 2 2 1 2 0
+p606
+aVJoel Przybilla MIL 12/19/2012 MIL @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p607
+aVDrew Gooden MIL 12/19/2012 MIL @ MEM L 10 2 0 2 0.0 0 0 - 2 3 66.7 0 1 1 0 0 0 0 0 -5
+p608
+aVBrandon Jennings MIL 12/19/2012 MIL @ MEM L 42 26 9 26 34.6 3 9 33.3 5 8 62.5 4 3 7 2 1 0 4 1 -22
+p609
+aVJohn Henson MIL 12/19/2012 MIL @ MEM L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 5
+p610
+aVDoron Lamb MIL 12/18/2012 MIL vs. IND W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p611
+aVMarquis Daniels MIL 12/18/2012 MIL vs. IND W 22 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 0 1 1 3 2 1
+p612
+aVMonta Ellis MIL 12/18/2012 MIL vs. IND W 40 19 8 23 34.8 0 2 0.0 3 4 75.0 0 2 2 6 3 1 4 3 10
+p613
+aVLarry Sanders MIL 12/18/2012 MIL vs. IND W 29 5 2 4 50.0 0 0 - 1 2 50.0 4 5 9 0 1 5 0 5 13
+p614
+aVMike Dunleavy MIL 12/18/2012 MIL vs. IND W 27 17 6 14 42.9 3 5 60.0 2 3 66.7 2 4 6 1 0 2 0 2 4
+p615
+aVDrew Gooden MIL 12/18/2012 MIL vs. IND W 4 2 0 1 0.0 0 0 - 2 4 50.0 0 0 0 0 0 1 1 1 1
+p616
+aVEkpe Udoh MIL 12/18/2012 MIL vs. IND W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 2 1 2 5 -9
+p617
+aVLuc Mbah a Moute MIL 12/18/2012 MIL vs. IND W 34 10 3 7 42.9 0 1 0.0 4 4 100.0 2 8 10 2 2 1 1 4 9
+p618
+aVErsan Ilyasova MIL 12/18/2012 MIL vs. IND W 14 2 1 7 14.3 0 1 0.0 0 0 - 2 2 4 3 1 0 1 1 -4
+p619
+aVBrandon Jennings MIL 12/18/2012 MIL vs. IND W 44 34 13 22 59.1 2 4 50.0 6 9 66.7 2 3 5 6 0 0 3 4 7
+p620
+aVBrandon Jennings MIL 12/15/2012 MIL vs. LAC L 31 9 3 13 23.1 1 6 16.7 2 2 100.0 0 1 1 3 1 0 4 4 -17
+p621
+aVErsan Ilyasova MIL 12/15/2012 MIL vs. LAC L 20 8 2 6 33.3 2 4 50.0 2 2 100.0 1 3 4 0 0 0 0 2 -9
+p622
+aVMarquis Daniels MIL 12/15/2012 MIL vs. LAC L 36 16 6 13 46.2 2 4 50.0 2 2 100.0 2 3 5 2 2 1 1 3 -30
+p623
+aVJohn Henson MIL 12/15/2012 MIL vs. LAC L 13 2 1 5 20.0 0 0 - 0 0 - 2 3 5 0 0 2 0 0 -7
+p624
+aVMonta Ellis MIL 12/15/2012 MIL vs. LAC L 32 13 4 14 28.6 0 3 0.0 5 7 71.4 1 2 3 4 1 0 1 1 -20
+p625
+aVDrew Gooden MIL 12/15/2012 MIL vs. LAC L 13 5 2 6 33.3 1 1 100.0 0 0 - 2 2 4 0 1 0 2 3 -9
+p626
+aVLarry Sanders MIL 12/15/2012 MIL vs. LAC L 17 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 1 0 1 1 2 -15
+p627
+aVDoron Lamb MIL 12/15/2012 MIL vs. LAC L 27 8 3 11 27.3 0 2 0.0 2 6 33.3 1 2 3 3 1 0 3 2 -10
+p628
+aVEkpe Udoh MIL 12/15/2012 MIL vs. LAC L 21 9 4 5 80.0 0 0 - 1 2 50.0 3 2 5 1 0 1 0 3 -3
+p629
+aVLuc Mbah a Moute MIL 12/15/2012 MIL vs. LAC L 25 11 4 7 57.1 1 1 100.0 2 2 100.0 2 4 6 1 0 0 1 2 -5
+p630
+aVJoel Przybilla MIL 12/15/2012 MIL vs. LAC L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p631
+aVDrew Gooden MIL 12/14/2012 MIL @ CLE W 8 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 0 0 1 9
+p632
+aVDoron Lamb MIL 12/14/2012 MIL @ CLE W 14 1 0 5 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 0
+p633
+aVEkpe Udoh MIL 12/14/2012 MIL @ CLE W 18 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 2 1 1 1 6
+p634
+aVBrandon Jennings MIL 12/14/2012 MIL @ CLE W 42 16 5 20 25.0 2 9 22.2 4 4 100.0 1 0 1 8 3 0 3 1 3
+p635
+aVLarry Sanders MIL 12/14/2012 MIL @ CLE W 30 10 4 7 57.1 0 0 - 2 2 100.0 5 5 10 2 1 3 2 2 -2
+p636
+aVLuc Mbah a Moute MIL 12/14/2012 MIL @ CLE W 36 9 4 7 57.1 0 0 - 1 4 25.0 3 4 7 6 4 1 3 4 5
+p637
+aVMarquis Daniels MIL 12/14/2012 MIL @ CLE W 28 5 2 5 40.0 1 1 100.0 0 0 - 1 4 5 1 1 1 0 2 -2
+p638
+aVMonta Ellis MIL 12/14/2012 MIL @ CLE W 40 33 12 24 50.0 1 4 25.0 8 11 72.7 0 6 6 4 2 0 6 3 5
+p639
+aVErsan Ilyasova MIL 12/14/2012 MIL @ CLE W 25 11 4 10 40.0 1 1 100.0 2 2 100.0 4 4 8 2 2 1 2 3 -4
+p640
+aVDrew Gooden MIL 12/12/2012 MIL vs. SAC W 22 7 3 6 50.0 0 0 - 1 2 50.0 4 6 10 2 1 0 1 2 10
+p641
+aVMarquis Daniels MIL 12/12/2012 MIL vs. SAC W 31 10 5 13 38.5 0 1 0.0 0 0 - 2 4 6 3 0 1 0 3 7
+p642
+aVBrandon Jennings MIL 12/12/2012 MIL vs. SAC W 42 19 8 21 38.1 2 8 25.0 1 1 100.0 3 1 4 3 1 0 2 3 9
+p643
+aVErsan Ilyasova MIL 12/12/2012 MIL vs. SAC W 24 16 7 11 63.6 1 1 100.0 1 2 50.0 5 9 14 0 2 2 0 3 17
+p644
+aVMonta Ellis MIL 12/12/2012 MIL vs. SAC W 41 17 7 17 41.2 2 4 50.0 1 4 25.0 2 6 8 11 0 1 4 2 23
+p645
+aVLuc Mbah a Moute MIL 12/12/2012 MIL vs. SAC W 26 17 6 10 60.0 0 0 - 5 7 71.4 2 4 6 1 1 0 0 1 4
+p646
+aVDoron Lamb MIL 12/12/2012 MIL vs. SAC W 15 0 0 8 0.0 0 2 0.0 0 2 0.0 1 0 1 1 2 0 0 1 -2
+p647
+aVTobias Harris MIL 12/12/2012 MIL vs. SAC W 13 7 2 7 28.6 1 1 100.0 2 2 100.0 2 0 2 1 1 0 2 0 -2
+p648
+aVSamuel Dalembert MIL 12/12/2012 MIL vs. SAC W 23 5 1 2 50.0 0 0 - 3 4 75.0 3 6 9 0 0 2 0 3 1
+p649
+aVJohn Henson MIL 12/12/2012 MIL vs. SAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p650
+aVDoron Lamb MIL 12/09/2012 MIL @ BKN W 14 6 2 2 100.0 1 1 100.0 1 1 100.0 0 2 2 1 0 0 1 1 5
+p651
+aVBrandon Jennings MIL 12/09/2012 MIL @ BKN W 41 26 8 19 42.1 4 7 57.1 6 6 100.0 2 4 6 7 5 0 2 2 4
+p652
+aVLarry Sanders MIL 12/09/2012 MIL @ BKN W 38 6 3 12 25.0 0 0 - 0 0 - 2 4 6 1 1 4 3 3 12
+p653
+aVEkpe Udoh MIL 12/09/2012 MIL @ BKN W 12 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 2 1 2 0 1 1
+p654
+aVLuc Mbah a Moute MIL 12/09/2012 MIL @ BKN W 28 9 2 5 40.0 0 1 0.0 5 10 50.0 1 4 5 0 2 0 2 2 0
+p655
+aVMonta Ellis MIL 12/09/2012 MIL @ BKN W 41 24 8 13 61.5 0 1 0.0 8 9 88.9 0 2 2 5 3 0 6 3 7
+p656
+aVMarquis Daniels MIL 12/09/2012 MIL @ BKN W 35 13 5 10 50.0 1 2 50.0 2 2 100.0 0 7 7 1 0 0 2 2 4
+p657
+aVJoel Przybilla MIL 12/09/2012 MIL @ BKN W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -5
+p658
+aVErsan Ilyasova MIL 12/09/2012 MIL @ BKN W 26 10 4 8 50.0 1 4 25.0 1 1 100.0 0 2 2 3 2 0 2 4 17
+p659
+aVMonta Ellis MIL 12/07/2012 MIL vs. CHA W 31 13 3 11 27.3 0 1 0.0 7 9 77.8 0 4 4 5 0 1 1 3 22
+p660
+aVBrandon Jennings MIL 12/07/2012 MIL vs. CHA W 36 15 5 16 31.3 1 5 20.0 4 5 80.0 1 1 2 8 3 0 2 0 18
+p661
+aVErsan Ilyasova MIL 12/07/2012 MIL vs. CHA W 20 21 7 17 41.2 2 3 66.7 5 6 83.3 4 8 12 0 0 0 0 3 5
+p662
+aVEkpe Udoh MIL 12/07/2012 MIL vs. CHA W 22 6 1 4 25.0 0 0 - 4 4 100.0 2 4 6 0 0 2 0 2 20
+p663
+aVLuc Mbah a Moute MIL 12/07/2012 MIL vs. CHA W 20 9 3 6 50.0 0 0 - 3 5 60.0 1 2 3 1 1 0 1 0 -3
+p664
+aVTobias Harris MIL 12/07/2012 MIL vs. CHA W 6 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p665
+aVJoel Przybilla MIL 12/07/2012 MIL vs. CHA W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p666
+aVMarquis Daniels MIL 12/07/2012 MIL vs. CHA W 28 18 7 11 63.6 3 3 100.0 1 1 100.0 2 4 6 3 0 0 2 0 27
+p667
+aVDoron Lamb MIL 12/07/2012 MIL vs. CHA W 18 6 3 6 50.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 3 -7
+p668
+aVDrew Gooden MIL 12/07/2012 MIL vs. CHA W 8 2 0 4 0.0 0 1 0.0 2 2 100.0 3 1 4 1 0 1 1 1 -10
+p669
+aVSamuel Dalembert MIL 12/07/2012 MIL vs. CHA W 14 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 5 2 2 -3
+p670
+aVJohn Henson MIL 12/07/2012 MIL vs. CHA W 6 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -6
+p671
+aVLarry Sanders MIL 12/07/2012 MIL vs. CHA W 26 8 4 8 50.0 0 0 - 0 0 - 4 6 10 1 1 5 0 3 24
+p672
+aVMarquis Daniels MIL 12/05/2012 MIL @ SAS L 29 12 5 10 50.0 1 1 100.0 1 3 33.3 0 2 2 3 2 0 1 2 4
+p673
+aVMonta Ellis MIL 12/05/2012 MIL @ SAS L 38 21 5 19 26.3 1 3 33.3 10 11 90.9 0 7 7 11 3 0 0 2 -3
+p674
+aVDoron Lamb MIL 12/05/2012 MIL @ SAS L 22 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 1 -1
+p675
+aVJohn Henson MIL 12/05/2012 MIL @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p676
+aVTobias Harris MIL 12/05/2012 MIL @ SAS L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p677
+aVBrandon Jennings MIL 12/05/2012 MIL @ SAS L 39 14 5 15 33.3 1 2 50.0 3 3 100.0 0 2 2 4 1 0 2 3 -10
+p678
+aVEkpe Udoh MIL 12/05/2012 MIL @ SAS L 26 7 2 4 50.0 0 0 - 3 4 75.0 3 2 5 1 0 2 0 2 -13
+p679
+aVLuc Mbah a Moute MIL 12/05/2012 MIL @ SAS L 19 10 2 5 40.0 1 2 50.0 5 6 83.3 0 3 3 1 1 0 2 1 -15
+p680
+aVErsan Ilyasova MIL 12/05/2012 MIL @ SAS L 30 17 7 12 58.3 1 3 33.3 2 2 100.0 2 3 5 0 1 0 1 1 -15
+p681
+aVSamuel Dalembert MIL 12/05/2012 MIL @ SAS L 17 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 0 1 0 2 5
+p682
+aVLarry Sanders MIL 12/05/2012 MIL @ SAS L 17 4 2 4 50.0 0 0 - 0 0 - 2 5 7 2 2 1 3 5 -3
+p683
+aVMarquis Daniels MIL 12/03/2012 MIL @ NOH L 16 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 2 0 1 0 3 -9
+p684
+aVErsan Ilyasova MIL 12/03/2012 MIL @ NOH L 19 2 0 2 0.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 0 2 -5
+p685
+aVTobias Harris MIL 12/03/2012 MIL @ NOH L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p686
+aVMike Dunleavy MIL 12/03/2012 MIL @ NOH L 20 6 2 4 50.0 1 2 50.0 1 2 50.0 0 4 4 2 1 0 1 1 -4
+p687
+aVDoron Lamb MIL 12/03/2012 MIL @ NOH L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -12
+p688
+aVEkpe Udoh MIL 12/03/2012 MIL @ NOH L 27 7 2 7 28.6 0 0 - 3 3 100.0 3 3 6 2 0 1 3 2 -6
+p689
+aVMonta Ellis MIL 12/03/2012 MIL @ NOH L 35 17 5 12 41.7 2 3 66.7 5 6 83.3 1 2 3 6 1 0 4 1 -13
+p690
+aVJoel Przybilla MIL 12/03/2012 MIL @ NOH L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p691
+aVLuc Mbah a Moute MIL 12/03/2012 MIL @ NOH L 20 7 3 9 33.3 0 1 0.0 1 2 50.0 7 1 8 2 0 0 3 1 -10
+p692
+aVBrandon Jennings MIL 12/03/2012 MIL @ NOH L 43 25 10 23 43.5 5 10 50.0 0 2 0.0 1 1 2 3 1 0 2 1 -18
+p693
+aVLarry Sanders MIL 12/03/2012 MIL @ NOH L 26 8 3 8 37.5 0 1 0.0 2 2 100.0 4 3 7 1 2 7 1 2 -16
+p694
+aVJohn Henson MIL 12/03/2012 MIL @ NOH L 16 2 1 5 20.0 0 0 - 0 2 0.0 1 1 2 1 0 0 0 0 -4
+p695
+aVEkpe Udoh MIL 12/01/2012 MIL vs. BOS W 15 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 1 0 1 3 -15
+p696
+aVDoron Lamb MIL 12/01/2012 MIL vs. BOS W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 2 1 12
+p697
+aVMonta Ellis MIL 12/01/2012 MIL vs. BOS W 40 17 6 20 30.0 0 3 0.0 5 5 100.0 0 4 4 7 2 0 3 0 1
+p698
+aVJohn Henson MIL 12/01/2012 MIL vs. BOS W 13 5 2 4 50.0 0 0 - 1 4 25.0 0 2 2 1 1 0 1 1 -13
+p699
+aVBrandon Jennings MIL 12/01/2012 MIL vs. BOS W 40 13 5 12 41.7 3 5 60.0 0 0 - 1 5 6 2 0 0 2 2 -8
+p700
+aVMarquis Daniels MIL 12/01/2012 MIL vs. BOS W 36 8 4 9 44.4 0 1 0.0 0 0 - 1 1 2 5 1 0 3 2 -12
+p701
+aVErsan Ilyasova MIL 12/01/2012 MIL vs. BOS W 34 15 5 11 45.5 1 3 33.3 4 4 100.0 1 4 5 4 0 1 1 1 16
+p702
+aVLuc Mbah a Moute MIL 12/01/2012 MIL vs. BOS W 14 8 4 6 66.7 0 0 - 0 0 - 2 4 6 2 0 0 1 1 16
+p703
+aVLarry Sanders MIL 12/01/2012 MIL vs. BOS W 33 18 7 11 63.6 0 0 - 4 5 80.0 4 12 16 1 1 5 0 2 18
+p704
+aVSamuel Dalembert MIL 11/30/2012 MIL @ MIN L 16 2 1 3 33.3 0 0 - 0 0 - 1 5 6 1 0 1 1 2 -8
+p705
+aVEkpe Udoh MIL 11/30/2012 MIL @ MIN L 29 8 3 6 50.0 0 0 - 2 2 100.0 2 1 3 2 0 2 2 4 -8
+p706
+aVBrandon Jennings MIL 11/30/2012 MIL @ MIN L 35 18 6 19 31.6 3 6 50.0 3 4 75.0 1 5 6 4 1 1 3 1 -6
+p707
+aVJohn Henson MIL 11/30/2012 MIL @ MIN L 19 10 4 7 57.1 0 0 - 2 2 100.0 4 3 7 0 0 0 0 4 -1
+p708
+aVJoel Przybilla MIL 11/30/2012 MIL @ MIN L 0 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 0
+p709
+aVMonta Ellis MIL 11/30/2012 MIL @ MIN L 36 18 8 22 36.4 1 3 33.3 1 2 50.0 0 2 2 1 3 0 1 2 -10
+p710
+aVLarry Sanders MIL 11/30/2012 MIL @ MIN L 32 10 5 7 71.4 0 0 - 0 0 - 2 10 12 1 1 10 0 2 -2
+p711
+aVBeno Udrih MIL 11/30/2012 MIL @ MIN L 15 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 0 -5
+p712
+aVTobias Harris MIL 11/30/2012 MIL @ MIN L 20 4 1 9 11.1 0 1 0.0 2 2 100.0 2 3 5 2 3 0 1 3 -6
+p713
+aVDoron Lamb MIL 11/30/2012 MIL @ MIN L 15 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 1 0 0 1 2 -2
+p714
+aVMike Dunleavy MIL 11/30/2012 MIL @ MIN L 23 7 2 9 22.2 1 5 20.0 2 2 100.0 0 0 0 1 2 0 2 3 -2
+p715
+aVBrandon Jennings MIL 11/28/2012 MIL vs. NYK L 29 18 6 8 75.0 2 2 100.0 4 4 100.0 0 3 3 5 0 0 3 1 -24
+p716
+aVMarquis Daniels MIL 11/28/2012 MIL vs. NYK L 23 11 4 9 44.4 0 1 0.0 3 3 100.0 0 2 2 1 4 1 1 3 -7
+p717
+aVMike Dunleavy MIL 11/28/2012 MIL vs. NYK L 24 8 2 6 33.3 1 2 50.0 3 4 75.0 0 9 9 2 0 0 1 0 1
+p718
+aVEkpe Udoh MIL 11/28/2012 MIL vs. NYK L 23 4 2 4 50.0 0 0 - 0 0 - 0 3 3 3 0 1 2 4 -2
+p719
+aVLarry Sanders MIL 11/28/2012 MIL vs. NYK L 14 2 1 5 20.0 0 0 - 0 2 0.0 2 2 4 0 0 1 1 3 -8
+p720
+aVTobias Harris MIL 11/28/2012 MIL vs. NYK L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p721
+aVMonta Ellis MIL 11/28/2012 MIL vs. NYK L 27 17 6 11 54.5 0 1 0.0 5 6 83.3 0 2 2 7 3 0 3 2 -11
+p722
+aVSamuel Dalembert MIL 11/28/2012 MIL vs. NYK L 15 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 2 3 -10
+p723
+aVErsan Ilyasova MIL 11/28/2012 MIL vs. NYK L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 1 1 0 0 0 4
+p724
+aVJohn Henson MIL 11/28/2012 MIL vs. NYK L 12 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 0 1 2 1 -6
+p725
+aVDoron Lamb MIL 11/28/2012 MIL vs. NYK L 24 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 1 0 0 1 2 -6
+p726
+aVBeno Udrih MIL 11/28/2012 MIL vs. NYK L 25 18 8 12 66.7 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 1 2
+p727
+aVErsan Ilyasova MIL 11/26/2012 MIL @ CHI W 22 18 8 14 57.1 1 5 20.0 1 1 100.0 3 3 6 2 1 1 0 4 26
+p728
+aVDoron Lamb MIL 11/26/2012 MIL @ CHI W 15 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 2 25
+p729
+aVSamuel Dalembert MIL 11/26/2012 MIL @ CHI W 18 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 2 4 0 -9
+p730
+aVBeno Udrih MIL 11/26/2012 MIL @ CHI W 28 11 5 11 45.5 1 4 25.0 0 3 0.0 1 3 4 6 0 0 0 1 18
+p731
+aVBrandon Jennings MIL 11/26/2012 MIL @ CHI W 26 6 2 9 22.2 0 0 - 2 2 100.0 1 0 1 4 0 0 2 1 -14
+p732
+aVEkpe Udoh MIL 11/26/2012 MIL @ CHI W 29 11 5 9 55.6 0 0 - 1 1 100.0 3 3 6 2 1 5 0 1 11
+p733
+aVTobias Harris MIL 11/26/2012 MIL @ CHI W 20 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 0 1 1 1 2 -16
+p734
+aVLarry Sanders MIL 11/26/2012 MIL @ CHI W 12 2 1 4 25.0 0 0 - 0 0 - 1 5 6 0 0 0 2 1 -20
+p735
+aVMike Dunleavy MIL 11/26/2012 MIL @ CHI W 28 6 2 5 40.0 1 2 50.0 1 2 50.0 0 4 4 4 0 1 2 2 17
+p736
+aVJohn Henson MIL 11/26/2012 MIL @ CHI W 15 11 5 8 62.5 0 0 - 1 3 33.3 1 1 2 0 0 1 0 2 -6
+p737
+aVMonta Ellis MIL 11/26/2012 MIL @ CHI W 26 10 4 10 40.0 0 4 0.0 2 3 66.7 0 1 1 2 1 1 1 1 -27
+p738
+aVMarquis Daniels MIL 11/24/2012 MIL vs. CHI L 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -5
+p739
+aVEkpe Udoh MIL 11/24/2012 MIL vs. CHI L 19 3 1 3 33.3 0 0 - 1 2 50.0 2 6 8 1 0 0 1 2 3
+p740
+aVErsan Ilyasova MIL 11/24/2012 MIL vs. CHI L 30 6 3 8 37.5 0 2 0.0 0 0 - 2 4 6 3 1 2 0 0 -11
+p741
+aVJoel Przybilla MIL 11/24/2012 MIL vs. CHI L 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 3 1 0 1 3 -4
+p742
+aVMonta Ellis MIL 11/24/2012 MIL vs. CHI L 36 17 7 17 41.2 0 1 0.0 3 3 100.0 2 4 6 2 0 2 1 4 -7
+p743
+aVMike Dunleavy MIL 11/24/2012 MIL vs. CHI L 28 7 3 9 33.3 1 4 25.0 0 0 - 1 2 3 1 1 0 0 0 0
+p744
+aVBrandon Jennings MIL 11/24/2012 MIL vs. CHI L 38 23 10 20 50.0 1 5 20.0 2 4 50.0 0 1 1 7 5 0 3 1 -6
+p745
+aVBeno Udrih MIL 11/24/2012 MIL vs. CHI L 16 12 5 11 45.5 1 4 25.0 1 1 100.0 1 0 1 1 0 1 2 2 2
+p746
+aVLarry Sanders MIL 11/24/2012 MIL vs. CHI L 29 8 4 9 44.4 0 0 - 0 0 - 1 7 8 2 2 4 0 6 0
+p747
+aVTobias Harris MIL 11/24/2012 MIL vs. CHI L 20 10 5 7 71.4 0 1 0.0 0 0 - 0 3 3 0 0 1 1 1 -5
+p748
+aVJohn Henson MIL 11/24/2012 MIL vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p749
+aVEkpe Udoh MIL 11/21/2012 MIL @ MIA L 24 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 1 1 1 1 4 -13
+p750
+aVBeno Udrih MIL 11/21/2012 MIL @ MIA L 17 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 3 0 0 1 0 -1
+p751
+aVMarquis Daniels MIL 11/21/2012 MIL @ MIA L 12 7 3 6 50.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 0 12
+p752
+aVErsan Ilyasova MIL 11/21/2012 MIL @ MIA L 17 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 0 1 0 0 1 -6
+p753
+aVSamuel Dalembert MIL 11/21/2012 MIL @ MIA L 20 10 4 7 57.1 1 1 100.0 1 1 100.0 2 3 5 2 0 0 0 0 11
+p754
+aVTobias Harris MIL 11/21/2012 MIL @ MIA L 24 11 4 8 50.0 1 4 25.0 2 2 100.0 0 6 6 1 1 0 0 1 8
+p755
+aVLarry Sanders MIL 11/21/2012 MIL @ MIA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -4
+p756
+aVJohn Henson MIL 11/21/2012 MIL @ MIA L 27 17 7 12 58.3 0 0 - 3 4 75.0 8 10 18 0 0 0 2 4 -14
+p757
+aVBrandon Jennings MIL 11/21/2012 MIL @ MIA L 49 19 9 25 36.0 1 8 12.5 0 0 - 1 6 7 6 5 0 0 3 -3
+p758
+aVMike Dunleavy MIL 11/21/2012 MIL @ MIA L 29 16 7 16 43.8 1 7 14.3 1 1 100.0 3 1 4 0 0 0 1 3 -15
+p759
+aVMonta Ellis MIL 11/21/2012 MIL @ MIA L 39 9 4 16 25.0 1 5 20.0 0 0 - 0 1 1 4 1 1 5 2 -10
+p760
+aVSamuel Dalembert MIL 11/19/2012 MIL @ CHA L 20 8 4 7 57.1 0 0 - 0 0 - 2 2 4 1 0 1 1 2 0
+p761
+aVMike Dunleavy MIL 11/19/2012 MIL @ CHA L 36 16 6 10 60.0 1 4 25.0 3 4 75.0 0 5 5 4 0 4 0 1 -9
+p762
+aVErsan Ilyasova MIL 11/19/2012 MIL @ CHA L 16 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 1 0 0 2 2 -4
+p763
+aVMonta Ellis MIL 11/19/2012 MIL @ CHA L 42 31 14 28 50.0 1 5 20.0 2 2 100.0 0 3 3 5 1 2 6 2 -13
+p764
+aVTobias Harris MIL 11/19/2012 MIL @ CHA L 12 3 1 2 50.0 0 1 0.0 1 2 50.0 0 3 3 0 0 1 0 3 5
+p765
+aVJohn Henson MIL 11/19/2012 MIL @ CHA L 15 6 3 7 42.9 0 1 0.0 0 0 - 2 1 3 0 0 1 1 3 4
+p766
+aVBeno Udrih MIL 11/19/2012 MIL @ CHA L 16 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 7 1 0 1 2 8
+p767
+aVEkpe Udoh MIL 11/19/2012 MIL @ CHA L 24 3 1 3 33.3 0 0 - 1 1 100.0 2 4 6 0 0 2 0 6 8
+p768
+aVBrandon Jennings MIL 11/19/2012 MIL @ CHA L 33 10 5 18 27.8 0 4 0.0 0 0 - 1 3 4 5 2 0 2 0 -14
+p769
+aVDoron Lamb MIL 11/19/2012 MIL @ CHA L 6 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 9
+p770
+aVLarry Sanders MIL 11/19/2012 MIL @ CHA L 21 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 1 1 1 5 -14
+p771
+aVBeno Udrih MIL 11/17/2012 MIL vs. NOH W 14 8 2 6 33.3 2 3 66.7 2 2 100.0 0 2 2 1 2 0 4 1 -2
+p772
+aVEkpe Udoh MIL 11/17/2012 MIL vs. NOH W 23 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 0 0 0 4
+p773
+aVMike Dunleavy MIL 11/17/2012 MIL vs. NOH W 31 17 5 12 41.7 4 7 57.1 3 4 75.0 3 6 9 5 1 0 0 1 -4
+p774
+aVMonta Ellis MIL 11/17/2012 MIL vs. NOH W 34 22 8 16 50.0 0 3 0.0 6 6 100.0 1 2 3 9 0 0 0 1 -11
+p775
+aVBrandon Jennings MIL 11/17/2012 MIL vs. NOH W 41 22 8 16 50.0 4 7 57.1 2 3 66.7 1 1 2 9 4 0 1 2 11
+p776
+aVTobias Harris MIL 11/17/2012 MIL vs. NOH W 17 10 4 9 44.4 2 4 50.0 0 0 - 1 0 1 0 0 0 2 1 8
+p777
+aVSamuel Dalembert MIL 11/17/2012 MIL vs. NOH W 20 15 6 10 60.0 0 0 - 3 3 100.0 4 4 8 0 0 1 3 3 1
+p778
+aVJohn Henson MIL 11/17/2012 MIL vs. NOH W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 9
+p779
+aVMarquis Daniels MIL 11/17/2012 MIL vs. NOH W 8 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 10
+p780
+aVLarry Sanders MIL 11/17/2012 MIL vs. NOH W 21 4 1 5 20.0 0 0 - 2 6 33.3 2 4 6 0 1 3 1 5 -6
+p781
+aVErsan Ilyasova MIL 11/17/2012 MIL vs. NOH W 25 10 5 10 50.0 0 0 - 0 0 - 4 1 5 2 0 0 0 3 0
+p782
+aVMike Dunleavy MIL 11/14/2012 MIL vs. IND W 24 5 2 9 22.2 1 6 16.7 0 0 - 0 3 3 0 0 0 1 3 6
+p783
+aVEkpe Udoh MIL 11/14/2012 MIL vs. IND W 19 4 1 6 16.7 0 0 - 2 2 100.0 4 3 7 0 2 0 0 1 -6
+p784
+aVBeno Udrih MIL 11/14/2012 MIL vs. IND W 27 9 3 7 42.9 0 0 - 3 3 100.0 2 4 6 10 3 0 0 2 -6
+p785
+aVJoel Przybilla MIL 11/14/2012 MIL vs. IND W 7 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 0 0 -9
+p786
+aVMarquis Daniels MIL 11/14/2012 MIL vs. IND W 12 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -15
+p787
+aVSamuel Dalembert MIL 11/14/2012 MIL vs. IND W 18 14 5 7 71.4 0 0 - 4 4 100.0 1 5 6 1 1 3 1 4 31
+p788
+aVMonta Ellis MIL 11/14/2012 MIL vs. IND W 28 16 6 15 40.0 0 2 0.0 4 4 100.0 0 3 3 3 2 0 1 2 24
+p789
+aVDoron Lamb MIL 11/14/2012 MIL vs. IND W 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p790
+aVLarry Sanders MIL 11/14/2012 MIL vs. IND W 22 9 4 6 66.7 0 0 - 1 4 25.0 4 1 5 2 1 2 0 4 -9
+p791
+aVTobias Harris MIL 11/14/2012 MIL vs. IND W 20 11 4 5 80.0 0 0 - 3 4 75.0 0 4 4 2 0 0 1 2 19
+p792
+aVBrandon Jennings MIL 11/14/2012 MIL vs. IND W 29 16 6 12 50.0 2 6 33.3 2 2 100.0 0 3 3 4 1 0 0 1 25
+p793
+aVErsan Ilyasova MIL 11/14/2012 MIL vs. IND W 22 5 2 9 22.2 0 0 - 1 2 50.0 1 3 4 1 1 0 0 1 29
+p794
+aVJohn Henson MIL 11/14/2012 MIL vs. IND W 8 10 5 8 62.5 0 0 - 0 0 - 1 0 1 0 0 2 0 1 -10
+p795
+aVTobias Harris MIL 11/12/2012 MIL @ PHI W 18 10 4 5 80.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 2 4
+p796
+aVBrandon Jennings MIL 11/12/2012 MIL @ PHI W 38 33 12 21 57.1 4 9 44.4 5 5 100.0 0 5 5 8 4 1 1 3 25
+p797
+aVLarry Sanders MIL 11/12/2012 MIL @ PHI W 18 2 1 2 50.0 0 0 - 0 0 - 1 8 9 0 0 2 4 5 5
+p798
+aVMonta Ellis MIL 11/12/2012 MIL @ PHI W 38 18 8 20 40.0 1 5 20.0 1 1 100.0 0 5 5 7 2 1 6 3 17
+p799
+aVSamuel Dalembert MIL 11/12/2012 MIL @ PHI W 18 8 4 5 80.0 0 0 - 0 0 - 1 3 4 0 0 1 3 3 -3
+p800
+aVMarquis Daniels MIL 11/12/2012 MIL @ PHI W 25 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 1 2 0 0 1 5
+p801
+aVErsan Ilyasova MIL 11/12/2012 MIL @ PHI W 18 2 1 5 20.0 0 1 0.0 0 0 - 1 6 7 2 0 0 2 2 -1
+p802
+aVEkpe Udoh MIL 11/12/2012 MIL @ PHI W 21 7 2 5 40.0 0 0 - 3 3 100.0 1 4 5 0 0 2 1 0 1
+p803
+aVBeno Udrih MIL 11/12/2012 MIL @ PHI W 14 6 3 4 75.0 0 0 - 0 0 - 1 2 3 2 0 0 3 0 -16
+p804
+aVMike Dunleavy MIL 11/12/2012 MIL @ PHI W 33 13 4 6 66.7 2 3 66.7 3 5 60.0 0 5 5 3 0 0 2 0 8
+p805
+aVMarquis Daniels MIL 11/10/2012 MIL vs. BOS L 24 12 5 9 55.6 0 1 0.0 2 2 100.0 0 2 2 2 2 1 1 0 7
+p806
+aVTobias Harris MIL 11/10/2012 MIL vs. BOS L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -9
+p807
+aVLarry Sanders MIL 11/10/2012 MIL vs. BOS L 26 10 4 7 57.1 0 0 - 2 2 100.0 5 7 12 0 0 1 1 6 4
+p808
+aVBeno Udrih MIL 11/10/2012 MIL vs. BOS L 17 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 1 1 0 3 2 2
+p809
+aVSamuel Dalembert MIL 11/10/2012 MIL vs. BOS L 22 14 6 8 75.0 0 0 - 2 4 50.0 4 4 8 1 0 0 0 4 -7
+p810
+aVMike Dunleavy MIL 11/10/2012 MIL vs. BOS L 14 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 4 -3
+p811
+aVBrandon Jennings MIL 11/10/2012 MIL vs. BOS L 42 4 1 11 9.1 1 7 14.3 1 2 50.0 1 3 4 5 2 0 3 4 -9
+p812
+aVErsan Ilyasova MIL 11/10/2012 MIL vs. BOS L 32 10 3 12 25.0 1 4 25.0 3 6 50.0 1 5 6 2 0 0 1 1 -7
+p813
+aVEkpe Udoh MIL 11/10/2012 MIL vs. BOS L 16 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 6
+p814
+aVMonta Ellis MIL 11/10/2012 MIL vs. BOS L 38 32 11 24 45.8 1 4 25.0 9 10 90.0 1 1 2 8 2 0 1 1 -4
+p815
+aVMonta Ellis MIL 11/09/2012 MIL @ WAS W 32 22 8 15 53.3 1 2 50.0 5 6 83.3 2 3 5 5 2 0 6 1 2
+p816
+aVTobias Harris MIL 11/09/2012 MIL @ WAS W 15 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 4 -8
+p817
+aVLarry Sanders MIL 11/09/2012 MIL @ WAS W 31 13 4 7 57.1 0 1 0.0 5 6 83.3 1 8 9 1 0 3 2 5 15
+p818
+aVBeno Udrih MIL 11/09/2012 MIL @ WAS W 18 8 4 7 57.1 0 0 - 0 0 - 0 0 0 3 2 1 1 1 10
+p819
+aVBrandon Jennings MIL 11/09/2012 MIL @ WAS W 31 12 5 9 55.6 0 0 - 2 2 100.0 0 1 1 7 3 0 6 1 -2
+p820
+aVMike Dunleavy MIL 11/09/2012 MIL @ WAS W 33 13 5 10 50.0 2 5 40.0 1 2 50.0 0 9 9 3 1 0 2 4 18
+p821
+aVSamuel Dalembert MIL 11/09/2012 MIL @ WAS W 14 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 1 0 0 -5
+p822
+aVMarquis Daniels MIL 11/09/2012 MIL @ WAS W 15 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 2 0 2 1 10
+p823
+aVEkpe Udoh MIL 11/09/2012 MIL @ WAS W 30 9 4 4 100.0 0 0 - 1 1 100.0 1 1 2 1 1 0 1 4 18
+p824
+aVErsan Ilyasova MIL 11/09/2012 MIL @ WAS W 22 11 4 13 30.8 2 6 33.3 1 2 50.0 0 2 2 0 0 1 0 0 -8
+p825
+aVErsan Ilyasova MIL 11/07/2012 MIL vs. MEM L 21 7 3 7 42.9 1 2 50.0 0 2 0.0 0 4 4 1 0 0 0 2 -10
+p826
+aVJohn Henson MIL 11/07/2012 MIL vs. MEM L 17 3 1 5 20.0 0 0 - 1 4 25.0 3 0 3 1 1 2 1 3 7
+p827
+aVMike Dunleavy MIL 11/07/2012 MIL vs. MEM L 24 10 4 10 40.0 2 3 66.7 0 0 - 0 2 2 2 1 0 1 2 -4
+p828
+aVLarry Sanders MIL 11/07/2012 MIL vs. MEM L 26 10 4 8 50.0 0 0 - 2 2 100.0 5 6 11 3 1 3 4 4 -11
+p829
+aVTobias Harris MIL 11/07/2012 MIL vs. MEM L 24 8 3 7 42.9 0 0 - 2 2 100.0 3 3 6 1 0 1 0 2 -14
+p830
+aVJoel Przybilla MIL 11/07/2012 MIL vs. MEM L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 2
+p831
+aVEkpe Udoh MIL 11/07/2012 MIL vs. MEM L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -15
+p832
+aVBrandon Jennings MIL 11/07/2012 MIL vs. MEM L 37 19 6 20 30.0 2 4 50.0 5 5 100.0 1 2 3 5 4 0 2 1 -16
+p833
+aVMarquis Daniels MIL 11/07/2012 MIL vs. MEM L 6 10 5 6 83.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 2
+p834
+aVMonta Ellis MIL 11/07/2012 MIL vs. MEM L 36 15 5 18 27.8 1 5 20.0 4 6 66.7 0 4 4 7 2 1 0 2 -8
+p835
+aVSamuel Dalembert MIL 11/07/2012 MIL vs. MEM L 15 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 2 1 1 -9
+p836
+aVDoron Lamb MIL 11/07/2012 MIL vs. MEM L 17 2 1 5 20.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -14
+p837
+aVBrandon Jennings MIL 11/03/2012 MIL vs. CLE W 37 13 5 13 38.5 1 5 20.0 2 2 100.0 0 4 4 13 2 1 4 0 -14
+p838
+aVSamuel Dalembert MIL 11/03/2012 MIL vs. CLE W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 1 -10
+p839
+aVBeno Udrih MIL 11/03/2012 MIL vs. CLE W 17 11 5 10 50.0 1 2 50.0 0 0 - 0 2 2 5 1 0 0 1 20
+p840
+aVLarry Sanders MIL 11/03/2012 MIL vs. CLE W 30 17 8 9 88.9 0 0 - 1 2 50.0 0 7 7 0 0 4 1 6 19
+p841
+aVMike Dunleavy MIL 11/03/2012 MIL vs. CLE W 35 29 10 12 83.3 6 7 85.7 3 5 60.0 0 12 12 6 2 1 1 1 24
+p842
+aVDoron Lamb MIL 11/03/2012 MIL vs. CLE W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 13
+p843
+aVTobias Harris MIL 11/03/2012 MIL vs. CLE W 13 4 2 3 66.7 0 1 0.0 0 0 - 2 1 3 0 0 0 2 2 -21
+p844
+aVEkpe Udoh MIL 11/03/2012 MIL vs. CLE W 23 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 1 1 0 1 2 8
+p845
+aVJoel Przybilla MIL 11/03/2012 MIL vs. CLE W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p846
+aVMonta Ellis MIL 11/03/2012 MIL vs. CLE W 36 23 8 20 40.0 1 5 20.0 6 8 75.0 0 2 2 4 1 2 5 0 -13
+p847
+aVErsan Ilyasova MIL 11/03/2012 MIL vs. CLE W 27 3 1 8 12.5 0 4 0.0 1 2 50.0 1 2 3 2 0 0 1 4 -7
+p848
+aVMike Dunleavy MIL 11/02/2012 MIL @ BOS W 23 7 2 5 40.0 1 1 100.0 2 2 100.0 1 5 6 2 2 0 2 0 10
+p849
+aVSamuel Dalembert MIL 11/02/2012 MIL @ BOS W 15 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 6
+p850
+aVLarry Sanders MIL 11/02/2012 MIL @ BOS W 22 10 5 7 71.4 0 0 - 0 0 - 2 5 7 0 0 2 1 5 0
+p851
+aVMonta Ellis MIL 11/02/2012 MIL @ BOS W 37 14 6 20 30.0 2 6 33.3 0 0 - 1 2 3 4 0 0 2 1 12
+p852
+aVErsan Ilyasova MIL 11/02/2012 MIL @ BOS W 25 7 3 7 42.9 1 1 100.0 0 0 - 4 7 11 1 1 0 2 4 10
+p853
+aVTobias Harris MIL 11/02/2012 MIL @ BOS W 33 18 8 11 72.7 2 2 100.0 0 0 - 0 6 6 2 0 1 3 1 9
+p854
+aVDoron Lamb MIL 11/02/2012 MIL @ BOS W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p855
+aVBrandon Jennings MIL 11/02/2012 MIL @ BOS W 29 21 9 17 52.9 1 3 33.3 2 3 66.7 0 2 2 13 6 0 2 2 12
+p856
+aVMarquis Daniels MIL 11/02/2012 MIL @ BOS W 10 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 -4
+p857
+aVEkpe Udoh MIL 11/02/2012 MIL @ BOS W 23 10 3 5 60.0 0 0 - 4 4 100.0 2 1 3 1 2 2 1 1 7
+p858
+aVBeno Udrih MIL 11/02/2012 MIL @ BOS W 21 10 3 6 50.0 1 3 33.3 3 3 100.0 0 5 5 2 0 0 3 1 2
+p859
+a.

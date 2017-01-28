@@ -1,0 +1,460 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMetta World Peace LAL 06/17/2010 LAL vs. BOS W 46 20 7 18 38.9 2 7 28.6 4 5 80.0 3 2 5 1 5 0 4 3 -1
+p2
+aVKobe Bryant LAL 06/17/2010 LAL vs. BOS W 45 23 6 24 25.0 0 6 0.0 11 15 73.3 4 11 15 2 1 0 4 4 0
+p3
+aVAndrew Bynum LAL 06/17/2010 LAL vs. BOS W 19 2 1 5 20.0 0 0 - 0 0 - 4 2 6 0 0 0 0 2 -12
+p4
+aVJordan Farmar LAL 06/17/2010 LAL vs. BOS W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 10
+p5
+aVJosh Powell LAL 06/17/2010 LAL vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p6
+aVShannon Brown LAL 06/17/2010 LAL vs. BOS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p7
+aVLamar Odom LAL 06/17/2010 LAL vs. BOS W 35 7 3 8 37.5 0 3 0.0 1 2 50.0 3 4 7 2 0 1 1 0 13
+p8
+aVPau Gasol LAL 06/17/2010 LAL vs. BOS W 42 19 6 16 37.5 0 0 - 7 13 53.8 9 9 18 4 0 2 1 2 7
+p9
+aVSasha Vujacic LAL 06/17/2010 LAL vs. BOS W 5 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 2 9
+p10
+aVDerek Fisher LAL 06/17/2010 LAL vs. BOS W 30 10 4 6 66.7 2 2 100.0 0 0 - 0 1 1 2 1 0 0 3 -5
+p11
+aVAndrew Bynum LAL 06/15/2010 LAL vs. BOS W 16 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 1 1 0 1 9
+p12
+aVJordan Farmar LAL 06/15/2010 LAL vs. BOS W 17 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 3 0 2 0 9
+p13
+aVDerek Fisher LAL 06/15/2010 LAL vs. BOS W 15 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 2 0 3 4 1
+p14
+aVJosh Powell LAL 06/15/2010 LAL vs. BOS W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p15
+aVDJ Mbenga LAL 06/15/2010 LAL vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p16
+aVKobe Bryant LAL 06/15/2010 LAL vs. BOS W 40 26 9 19 47.4 1 4 25.0 7 7 100.0 3 8 11 3 4 0 2 2 15
+p17
+aVPau Gasol LAL 06/15/2010 LAL vs. BOS W 41 17 6 14 42.9 0 0 - 5 6 83.3 5 8 13 9 1 3 2 2 20
+p18
+aVMetta World Peace LAL 06/15/2010 LAL vs. BOS W 32 15 6 11 54.5 3 6 50.0 0 0 - 0 6 6 0 0 1 2 3 26
+p19
+aVShannon Brown LAL 06/15/2010 LAL vs. BOS W 19 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 8
+p20
+aVSasha Vujacic LAL 06/15/2010 LAL vs. BOS W 14 9 3 6 50.0 2 4 50.0 1 2 50.0 0 1 1 1 1 0 1 1 10
+p21
+aVLuke Walton LAL 06/15/2010 LAL vs. BOS W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p22
+aVLamar Odom LAL 06/15/2010 LAL vs. BOS W 28 8 3 9 33.3 0 2 0.0 2 2 100.0 1 9 10 1 1 2 1 2 14
+p23
+aVDerek Fisher LAL 06/13/2010 LAL @ BOS L 34 9 2 9 22.2 0 1 0.0 5 5 100.0 2 2 4 2 1 0 2 3 -6
+p24
+aVMetta World Peace LAL 06/13/2010 LAL @ BOS L 34 7 2 9 22.2 2 5 40.0 1 4 25.0 1 1 2 2 1 0 1 4 0
+p25
+aVLamar Odom LAL 06/13/2010 LAL @ BOS L 26 8 4 6 66.7 0 0 - 0 2 0.0 3 5 8 2 2 0 3 2 7
+p26
+aVSasha Vujacic LAL 06/13/2010 LAL @ BOS L 10 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 1 -4
+p27
+aVLuke Walton LAL 06/13/2010 LAL @ BOS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p28
+aVShannon Brown LAL 06/13/2010 LAL @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p29
+aVPau Gasol LAL 06/13/2010 LAL @ BOS L 38 12 5 12 41.7 0 0 - 2 3 66.7 7 5 12 0 2 0 1 4 -7
+p30
+aVKobe Bryant LAL 06/13/2010 LAL @ BOS L 44 38 13 27 48.1 4 10 40.0 8 9 88.9 2 3 5 4 1 1 4 5 -6
+p31
+aVAndrew Bynum LAL 06/13/2010 LAL @ BOS L 32 6 3 6 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 1 3 -12
+p32
+aVJordan Farmar LAL 06/13/2010 LAL @ BOS L 14 1 0 4 0.0 0 1 0.0 1 2 50.0 0 1 1 1 1 0 0 0 0
+p33
+aVJordan Farmar LAL 06/10/2010 LAL @ BOS L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 2 0 1 1 -4
+p34
+aVShannon Brown LAL 06/10/2010 LAL @ BOS L 11 5 2 5 40.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 1 -9
+p35
+aVSasha Vujacic LAL 06/10/2010 LAL @ BOS L 7 0 0 1 0.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 0 -6
+p36
+aVAndrew Bynum LAL 06/10/2010 LAL @ BOS L 12 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 1
+p37
+aVMetta World Peace LAL 06/10/2010 LAL @ BOS L 42 9 4 10 40.0 0 1 0.0 1 1 100.0 4 3 7 3 0 1 0 2 1
+p38
+aVDerek Fisher LAL 06/10/2010 LAL @ BOS L 31 6 3 6 50.0 0 2 0.0 0 1 0.0 0 1 1 2 1 0 1 4 4
+p39
+aVPau Gasol LAL 06/10/2010 LAL @ BOS L 44 21 6 13 46.2 0 1 0.0 9 10 90.0 1 5 6 3 0 2 4 4 -9
+p40
+aVLamar Odom LAL 06/10/2010 LAL @ BOS L 39 10 5 10 50.0 0 1 0.0 0 1 0.0 1 6 7 1 1 0 1 5 -5
+p41
+aVKobe Bryant LAL 06/10/2010 LAL @ BOS L 43 33 10 22 45.5 6 11 54.5 7 8 87.5 0 6 6 2 2 0 7 5 -8
+p42
+aVKobe Bryant LAL 06/08/2010 LAL @ BOS W 44 29 10 29 34.5 1 7 14.3 8 8 100.0 2 5 7 4 2 3 1 2 10
+p43
+aVMetta World Peace LAL 06/08/2010 LAL @ BOS W 23 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 1 0 1 1 2 -12
+p44
+aVSasha Vujacic LAL 06/08/2010 LAL @ BOS W 0 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p45
+aVShannon Brown LAL 06/08/2010 LAL @ BOS W 16 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p46
+aVJordan Farmar LAL 06/08/2010 LAL @ BOS W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 -1
+p47
+aVLuke Walton LAL 06/08/2010 LAL @ BOS W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 13
+p48
+aVDerek Fisher LAL 06/08/2010 LAL @ BOS W 41 16 6 12 50.0 0 3 0.0 4 4 100.0 0 3 3 1 0 0 2 5 8
+p49
+aVLamar Odom LAL 06/08/2010 LAL @ BOS W 28 12 5 5 100.0 1 1 100.0 1 1 100.0 1 4 5 1 0 0 1 4 14
+p50
+aVPau Gasol LAL 06/08/2010 LAL @ BOS W 39 13 5 11 45.5 0 0 - 3 6 50.0 2 8 10 4 0 2 1 2 0
+p51
+aVAndrew Bynum LAL 06/08/2010 LAL @ BOS W 29 9 3 9 33.3 0 0 - 3 3 100.0 5 5 10 0 0 1 1 2 0
+p52
+aVSasha Vujacic LAL 06/06/2010 LAL vs. BOS L 7 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 0 -7
+p53
+aVMetta World Peace LAL 06/06/2010 LAL vs. BOS L 41 6 1 10 10.0 1 6 16.7 3 8 37.5 2 3 5 1 2 0 3 6 0
+p54
+aVLamar Odom LAL 06/06/2010 LAL vs. BOS L 15 3 1 3 33.3 0 1 0.0 1 1 100.0 0 5 5 1 0 0 1 5 -10
+p55
+aVAndrew Bynum LAL 06/06/2010 LAL vs. BOS L 39 21 6 10 60.0 0 0 - 9 12 75.0 3 3 6 0 0 7 2 5 1
+p56
+aVShannon Brown LAL 06/06/2010 LAL vs. BOS L 15 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 1 0 1 0 1 -3
+p57
+aVDerek Fisher LAL 06/06/2010 LAL vs. BOS L 35 6 2 8 25.0 0 2 0.0 2 2 100.0 1 6 7 4 0 0 1 3 4
+p58
+aVPau Gasol LAL 06/06/2010 LAL vs. BOS L 42 25 7 10 70.0 0 1 0.0 11 13 84.6 3 5 8 3 1 6 1 3 -12
+p59
+aVKobe Bryant LAL 06/06/2010 LAL vs. BOS L 34 21 8 20 40.0 2 7 28.6 3 3 100.0 0 5 5 6 4 0 5 5 -9
+p60
+aVJordan Farmar LAL 06/06/2010 LAL vs. BOS L 13 7 3 7 42.9 1 4 25.0 0 0 - 0 0 0 1 1 0 2 1 -9
+p61
+aVPau Gasol LAL 06/03/2010 LAL vs. BOS W 47 23 8 14 57.1 0 0 - 7 10 70.0 8 6 14 3 1 3 3 4 13
+p62
+aVShannon Brown LAL 06/03/2010 LAL vs. BOS W 17 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p63
+aVLamar Odom LAL 06/03/2010 LAL vs. BOS W 21 5 2 6 33.3 0 2 0.0 1 2 50.0 1 3 4 1 0 1 2 5 2
+p64
+aVJordan Farmar LAL 06/03/2010 LAL vs. BOS W 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 0 1 1 -7
+p65
+aVKobe Bryant LAL 06/03/2010 LAL vs. BOS W 39 30 10 22 45.5 1 2 50.0 9 10 90.0 1 6 7 6 1 1 4 4 8
+p66
+aVSasha Vujacic LAL 06/03/2010 LAL vs. BOS W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -5
+p67
+aVAndrew Bynum LAL 06/03/2010 LAL vs. BOS W 28 10 4 6 66.7 0 0 - 2 4 50.0 0 6 6 0 0 0 1 3 11
+p68
+aVLuke Walton LAL 06/03/2010 LAL vs. BOS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 1 1 1
+p69
+aVMetta World Peace LAL 06/03/2010 LAL vs. BOS W 33 15 5 10 50.0 3 5 60.0 2 2 100.0 1 3 4 1 2 1 0 4 26
+p70
+aVDerek Fisher LAL 06/03/2010 LAL vs. BOS W 28 9 3 8 37.5 0 0 - 3 3 100.0 0 3 3 3 1 0 0 3 18
+p71
+aVJordan Farmar LAL 05/29/2010 LAL @ PHX W 17 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 5 0 0 0 2 6
+p72
+aVMetta World Peace LAL 05/29/2010 LAL @ PHX W 41 25 10 16 62.5 4 7 57.1 1 2 50.0 2 2 4 2 3 0 0 1 2
+p73
+aVSasha Vujacic LAL 05/29/2010 LAL @ PHX W 11 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 2 2 1
+p74
+aVDerek Fisher LAL 05/29/2010 LAL @ PHX W 31 11 4 9 44.4 0 4 0.0 3 3 100.0 0 2 2 3 0 0 1 4 -1
+p75
+aVShannon Brown LAL 05/29/2010 LAL @ PHX W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p76
+aVLamar Odom LAL 05/29/2010 LAL @ PHX W 35 6 3 12 25.0 0 0 - 0 1 0.0 5 7 12 3 1 0 1 4 12
+p77
+aVKobe Bryant LAL 05/29/2010 LAL @ PHX W 41 37 12 25 48.0 3 8 37.5 10 11 90.9 2 4 6 2 2 0 2 1 19
+p78
+aVPau Gasol LAL 05/29/2010 LAL @ PHX W 41 9 2 9 22.2 0 0 - 5 6 83.3 3 4 7 2 0 1 2 5 1
+p79
+aVAndrew Bynum LAL 05/29/2010 LAL @ PHX W 20 10 3 5 60.0 0 0 - 4 5 80.0 2 4 6 0 0 2 1 4 3
+p80
+aVAndrew Bynum LAL 05/27/2010 LAL vs. PHX W 19 2 0 5 0.0 0 0 - 2 2 100.0 5 2 7 0 0 4 0 5 3
+p81
+aVLuke Walton LAL 05/27/2010 LAL vs. PHX W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p82
+aVDerek Fisher LAL 05/27/2010 LAL vs. PHX W 36 22 7 12 58.3 2 5 40.0 6 6 100.0 0 1 1 4 1 0 1 4 -3
+p83
+aVKobe Bryant LAL 05/27/2010 LAL vs. PHX W 43 30 12 27 44.4 4 10 40.0 2 3 66.7 3 8 11 9 0 4 2 3 4
+p84
+aVLamar Odom LAL 05/27/2010 LAL vs. PHX W 37 17 7 11 63.6 0 1 0.0 3 4 75.0 5 8 13 4 1 0 2 1 8
+p85
+aVJordan Farmar LAL 05/27/2010 LAL vs. PHX W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 4 2 0 1 2 7
+p86
+aVSasha Vujacic LAL 05/27/2010 LAL vs. PHX W 12 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 6
+p87
+aVShannon Brown LAL 05/27/2010 LAL vs. PHX W 7 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p88
+aVMetta World Peace LAL 05/27/2010 LAL vs. PHX W 31 4 2 9 22.2 0 3 0.0 0 0 - 2 3 5 2 3 1 2 4 -4
+p89
+aVPau Gasol LAL 05/27/2010 LAL vs. PHX W 41 21 7 14 50.0 0 0 - 7 8 87.5 4 5 9 5 0 1 2 4 -7
+p90
+aVMetta World Peace LAL 05/25/2010 LAL @ PHX L 35 13 6 13 46.2 1 5 20.0 0 0 - 1 2 3 1 0 0 1 4 10
+p91
+aVKobe Bryant LAL 05/25/2010 LAL @ PHX L 45 38 15 22 68.2 6 9 66.7 2 4 50.0 1 6 7 10 1 1 2 3 -4
+p92
+aVShannon Brown LAL 05/25/2010 LAL @ PHX L 14 2 1 7 14.3 0 4 0.0 0 0 - 0 0 0 2 0 1 0 0 -21
+p93
+aVLamar Odom LAL 05/25/2010 LAL @ PHX L 35 15 6 13 46.2 1 3 33.3 2 4 50.0 4 6 10 3 1 0 0 4 -12
+p94
+aVPau Gasol LAL 05/25/2010 LAL @ PHX L 36 15 6 14 42.9 0 0 - 3 5 60.0 2 3 5 3 0 4 0 3 10
+p95
+aVDerek Fisher LAL 05/25/2010 LAL @ PHX L 33 8 4 7 57.1 0 2 0.0 0 0 - 1 1 2 2 2 0 1 5 0
+p96
+aVAndrew Bynum LAL 05/25/2010 LAL @ PHX L 25 12 6 9 66.7 0 0 - 0 0 - 4 4 8 1 0 1 2 3 -16
+p97
+aVJordan Farmar LAL 05/25/2010 LAL @ PHX L 15 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 0 0 0 1 -9
+p98
+aVLuke Walton LAL 05/25/2010 LAL @ PHX L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -3
+p99
+aVDerek Fisher LAL 05/23/2010 LAL @ PHX L 38 18 6 11 54.5 3 6 50.0 3 3 100.0 1 4 5 3 1 0 2 5 -9
+p100
+aVMetta World Peace LAL 05/23/2010 LAL @ PHX L 41 12 4 13 30.8 2 7 28.6 2 2 100.0 1 5 6 0 0 0 2 3 -8
+p101
+aVAndrew Bynum LAL 05/23/2010 LAL @ PHX L 8 2 1 1 100.0 0 0 - 0 1 0.0 0 2 2 0 0 0 0 4 -5
+p102
+aVPau Gasol LAL 05/23/2010 LAL @ PHX L 45 23 11 14 78.6 0 0 - 1 2 50.0 2 7 9 2 0 1 1 3 -7
+p103
+aVJordan Farmar LAL 05/23/2010 LAL @ PHX L 10 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 2 1 0
+p104
+aVLamar Odom LAL 05/23/2010 LAL @ PHX L 35 10 4 14 28.6 0 4 0.0 2 4 50.0 2 4 6 2 0 2 3 6 -9
+p105
+aVKobe Bryant LAL 05/23/2010 LAL @ PHX L 43 36 13 24 54.2 2 8 25.0 8 8 100.0 2 7 9 11 1 1 5 3 -12
+p106
+aVShannon Brown LAL 05/23/2010 LAL @ PHX L 20 5 2 7 28.6 1 5 20.0 0 0 - 1 2 3 1 1 2 2 3 7
+p107
+aVJosh Powell LAL 05/23/2010 LAL @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p108
+aVPau Gasol LAL 05/19/2010 LAL vs. PHX W 44 29 11 19 57.9 0 0 - 7 10 70.0 3 6 9 5 1 2 3 2 18
+p109
+aVMetta World Peace LAL 05/19/2010 LAL vs. PHX W 40 18 6 9 66.7 3 6 50.0 3 4 75.0 1 4 5 3 2 0 2 4 6
+p110
+aVLamar Odom LAL 05/19/2010 LAL vs. PHX W 33 17 7 10 70.0 0 0 - 3 4 75.0 3 8 11 4 3 1 2 3 8
+p111
+aVJordan Farmar LAL 05/19/2010 LAL vs. PHX W 14 11 4 5 80.0 3 3 100.0 0 0 - 0 1 1 0 2 0 1 4 8
+p112
+aVShannon Brown LAL 05/19/2010 LAL vs. PHX W 13 8 2 3 66.7 1 1 100.0 3 4 75.0 0 1 1 2 0 0 1 2 4
+p113
+aVAndrew Bynum LAL 05/19/2010 LAL vs. PHX W 18 13 5 5 100.0 0 0 - 3 4 75.0 3 4 7 0 1 0 1 4 -2
+p114
+aVKobe Bryant LAL 05/19/2010 LAL vs. PHX W 43 21 8 19 42.1 1 3 33.3 4 4 100.0 2 3 5 13 0 1 2 2 14
+p115
+aVDerek Fisher LAL 05/19/2010 LAL vs. PHX W 34 7 2 8 25.0 1 3 33.3 2 4 50.0 0 0 0 5 2 0 2 2 4
+p116
+aVKobe Bryant LAL 05/17/2010 LAL vs. PHX W 35 40 13 23 56.5 3 6 50.0 11 12 91.7 0 5 5 5 1 0 2 1 22
+p117
+aVJosh Powell LAL 05/17/2010 LAL vs. PHX W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p118
+aVDerek Fisher LAL 05/17/2010 LAL vs. PHX W 29 5 1 3 33.3 0 0 - 3 4 75.0 1 1 2 1 2 0 0 3 17
+p119
+aVLuke Walton LAL 05/17/2010 LAL vs. PHX W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p120
+aVSasha Vujacic LAL 05/17/2010 LAL vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p121
+aVShannon Brown LAL 05/17/2010 LAL vs. PHX W 18 9 3 6 50.0 1 1 100.0 2 3 66.7 0 1 1 1 1 0 1 3 6
+p122
+aVDJ Mbenga LAL 05/17/2010 LAL vs. PHX W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p123
+aVAndrew Bynum LAL 05/17/2010 LAL vs. PHX W 19 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 2 1 0
+p124
+aVMetta World Peace LAL 05/17/2010 LAL vs. PHX W 40 14 6 14 42.9 1 5 20.0 1 2 50.0 0 5 5 5 2 1 0 0 12
+p125
+aVLamar Odom LAL 05/17/2010 LAL vs. PHX W 31 19 9 15 60.0 1 2 50.0 0 0 - 7 12 19 3 1 0 1 3 24
+p126
+aVJordan Farmar LAL 05/17/2010 LAL vs. PHX W 19 10 4 6 66.7 2 3 66.7 0 0 - 0 0 0 5 1 0 2 5 8
+p127
+aVPau Gasol LAL 05/17/2010 LAL vs. PHX W 37 21 10 13 76.9 0 0 - 1 1 100.0 1 3 4 5 0 2 1 2 23
+p128
+aVAndrew Bynum LAL 05/10/2010 LAL @ UTA W 25 6 2 6 33.3 0 0 - 2 2 100.0 2 5 7 1 0 2 0 5 -13
+p129
+aVKobe Bryant LAL 05/10/2010 LAL @ UTA W 42 32 11 23 47.8 0 2 0.0 10 12 83.3 0 3 3 4 1 0 3 3 9
+p130
+aVPau Gasol LAL 05/10/2010 LAL @ UTA W 40 33 12 18 66.7 0 1 0.0 9 11 81.8 7 7 14 2 0 2 1 0 18
+p131
+aVShannon Brown LAL 05/10/2010 LAL @ UTA W 18 12 5 10 50.0 2 4 50.0 0 0 - 1 2 3 0 1 0 1 3 4
+p132
+aVMetta World Peace LAL 05/10/2010 LAL @ UTA W 35 5 2 8 25.0 1 3 33.3 0 2 0.0 2 2 4 3 1 0 0 1 17
+p133
+aVJosh Powell LAL 05/10/2010 LAL @ UTA W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p134
+aVDerek Fisher LAL 05/10/2010 LAL @ UTA W 40 10 3 8 37.5 1 4 25.0 3 3 100.0 1 4 5 1 3 0 1 3 12
+p135
+aVLamar Odom LAL 05/10/2010 LAL @ UTA W 26 10 2 4 50.0 1 1 100.0 5 6 83.3 0 5 5 1 0 1 0 4 30
+p136
+aVLuke Walton LAL 05/10/2010 LAL @ UTA W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p137
+aVJordan Farmar LAL 05/10/2010 LAL @ UTA W 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 2 1 0 0 0 3
+p138
+aVJordan Farmar LAL 05/08/2010 LAL @ UTA W 12 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p139
+aVMetta World Peace LAL 05/08/2010 LAL @ UTA W 39 20 7 13 53.8 4 7 57.1 2 2 100.0 1 2 3 2 1 1 2 3 -1
+p140
+aVJosh Powell LAL 05/08/2010 LAL @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p141
+aVPau Gasol LAL 05/08/2010 LAL @ UTA W 42 14 6 12 50.0 0 0 - 2 2 100.0 7 10 17 3 1 2 1 4 4
+p142
+aVShannon Brown LAL 05/08/2010 LAL @ UTA W 19 9 4 12 33.3 1 3 33.3 0 0 - 0 0 0 1 1 1 1 2 -1
+p143
+aVLamar Odom LAL 05/08/2010 LAL @ UTA W 26 8 2 6 33.3 1 3 33.3 3 4 75.0 4 4 8 0 0 0 0 4 6
+p144
+aVDerek Fisher LAL 05/08/2010 LAL @ UTA W 36 20 7 13 53.8 3 7 42.9 3 3 100.0 0 2 2 3 0 0 1 5 4
+p145
+aVAndrew Bynum LAL 05/08/2010 LAL @ UTA W 20 0 0 1 0.0 0 0 - 0 0 - 2 2 4 2 1 1 0 2 -6
+p146
+aVKobe Bryant LAL 05/08/2010 LAL @ UTA W 43 35 13 24 54.2 3 7 42.9 6 8 75.0 0 4 4 7 1 0 2 3 1
+p147
+aVAndrew Bynum LAL 05/04/2010 LAL vs. UTA W 29 17 7 9 77.8 0 0 - 3 5 60.0 4 10 14 0 1 4 1 1 4
+p148
+aVLamar Odom LAL 05/04/2010 LAL vs. UTA W 29 11 4 4 100.0 0 0 - 3 4 75.0 4 11 15 4 0 3 1 4 10
+p149
+aVMetta World Peace LAL 05/04/2010 LAL vs. UTA W 31 16 7 17 41.2 1 7 14.3 1 2 50.0 5 1 6 3 3 0 1 2 8
+p150
+aVJosh Powell LAL 05/04/2010 LAL vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p151
+aVJordan Farmar LAL 05/04/2010 LAL vs. UTA W 12 6 2 6 33.3 2 4 50.0 0 0 - 0 0 0 0 0 0 1 1 1
+p152
+aVShannon Brown LAL 05/04/2010 LAL vs. UTA W 20 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 0 1 1 1 4
+p153
+aVPau Gasol LAL 05/04/2010 LAL vs. UTA W 37 22 7 11 63.6 0 0 - 8 10 80.0 5 10 15 2 0 2 6 3 4
+p154
+aVKobe Bryant LAL 05/04/2010 LAL vs. UTA W 42 30 10 22 45.5 0 1 0.0 10 11 90.9 0 5 5 8 1 3 7 3 5
+p155
+aVDerek Fisher LAL 05/04/2010 LAL vs. UTA W 32 5 1 4 25.0 1 3 33.3 2 4 50.0 0 1 1 5 0 0 1 4 11
+p156
+aVLuke Walton LAL 05/04/2010 LAL vs. UTA W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -5
+p157
+aVShannon Brown LAL 05/02/2010 LAL vs. UTA W 17 4 1 5 20.0 0 0 - 2 4 50.0 0 3 3 0 2 0 1 0 -4
+p158
+aVDerek Fisher LAL 05/02/2010 LAL vs. UTA W 40 10 4 7 57.1 0 1 0.0 2 4 50.0 0 3 3 3 5 0 3 4 10
+p159
+aVJordan Farmar LAL 05/02/2010 LAL vs. UTA W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p160
+aVAndrew Bynum LAL 05/02/2010 LAL vs. UTA W 25 8 4 8 50.0 0 0 - 0 0 - 2 8 10 2 0 0 1 1 -1
+p161
+aVKobe Bryant LAL 05/02/2010 LAL vs. UTA W 37 31 12 19 63.2 0 2 0.0 7 7 100.0 0 3 3 4 0 0 4 3 8
+p162
+aVPau Gasol LAL 05/02/2010 LAL vs. UTA W 40 25 9 15 60.0 0 0 - 7 7 100.0 3 9 12 4 1 5 3 1 8
+p163
+aVLuke Walton LAL 05/02/2010 LAL vs. UTA W 10 7 2 2 100.0 1 1 100.0 2 4 50.0 0 0 0 0 0 0 0 2 -2
+p164
+aVLamar Odom LAL 05/02/2010 LAL vs. UTA W 31 9 4 10 40.0 1 4 25.0 0 1 0.0 5 7 12 2 0 2 2 5 5
+p165
+aVMetta World Peace LAL 05/02/2010 LAL vs. UTA W 33 8 4 9 44.4 0 3 0.0 0 0 - 0 0 0 3 0 0 0 4 8
+p166
+aVJosh Powell LAL 05/02/2010 LAL vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p167
+aVLamar Odom LAL 04/30/2010 LAL @ OKC W 30 9 4 8 50.0 1 3 33.3 0 1 0.0 0 7 7 2 0 3 0 5 -6
+p168
+aVJosh Powell LAL 04/30/2010 LAL @ OKC W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p169
+aVKobe Bryant LAL 04/30/2010 LAL @ OKC W 36 32 12 25 48.0 3 4 75.0 5 7 71.4 1 6 7 3 0 0 5 4 1
+p170
+aVShannon Brown LAL 04/30/2010 LAL @ OKC W 15 11 4 5 80.0 2 2 100.0 1 2 50.0 1 0 1 0 0 0 3 2 -1
+p171
+aVDerek Fisher LAL 04/30/2010 LAL @ OKC W 29 11 4 8 50.0 3 6 50.0 0 0 - 0 0 0 6 1 0 1 4 0
+p172
+aVJordan Farmar LAL 04/30/2010 LAL @ OKC W 11 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 4 0 0 0 1 7
+p173
+aVMetta World Peace LAL 04/30/2010 LAL @ OKC W 40 7 3 10 30.0 1 5 20.0 0 0 - 1 2 3 3 2 1 1 2 -6
+p174
+aVLuke Walton LAL 04/30/2010 LAL @ OKC W 11 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 2 0 0 0 0 5
+p175
+aVPau Gasol LAL 04/30/2010 LAL @ OKC W 39 9 4 11 36.4 0 0 - 1 2 50.0 5 13 18 3 0 2 2 2 -2
+p176
+aVAndrew Bynum LAL 04/30/2010 LAL @ OKC W 27 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 1 2 3 1 4
+p177
+aVJosh Powell LAL 04/27/2010 LAL vs. OKC W 7 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -5
+p178
+aVAndrew Bynum LAL 04/27/2010 LAL vs. OKC W 27 21 8 10 80.0 0 0 - 5 7 71.4 2 9 11 1 0 2 1 1 21
+p179
+aVLuke Walton LAL 04/27/2010 LAL vs. OKC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 4
+p180
+aVKobe Bryant LAL 04/27/2010 LAL vs. OKC W 29 13 4 9 44.4 0 2 0.0 5 7 71.4 0 3 3 7 2 0 4 3 27
+p181
+aVMetta World Peace LAL 04/27/2010 LAL vs. OKC W 31 14 6 11 54.5 2 4 50.0 0 0 - 1 1 2 5 2 2 0 2 24
+p182
+aVJordan Farmar LAL 04/27/2010 LAL vs. OKC W 19 14 3 4 75.0 2 2 100.0 6 8 75.0 0 2 2 0 1 0 1 0 -1
+p183
+aVShannon Brown LAL 04/27/2010 LAL vs. OKC W 20 2 1 4 25.0 0 0 - 0 2 0.0 0 1 1 2 2 1 1 4 -2
+p184
+aVDerek Fisher LAL 04/27/2010 LAL vs. OKC W 31 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 1 2 1 4 2 25
+p185
+aVAdam Morrison LAL 04/27/2010 LAL vs. OKC W 9 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 0 2 -5
+p186
+aVLamar Odom LAL 04/27/2010 LAL vs. OKC W 31 7 3 8 37.5 1 2 50.0 0 0 - 2 6 8 4 0 3 1 1 5
+p187
+aVPau Gasol LAL 04/27/2010 LAL vs. OKC W 30 25 10 16 62.5 0 0 - 5 5 100.0 4 7 11 5 1 1 1 2 27
+p188
+aVJordan Farmar LAL 04/24/2010 LAL @ OKC L 20 4 1 7 14.3 0 5 0.0 2 3 66.7 0 2 2 2 0 0 1 1 -9
+p189
+aVKobe Bryant LAL 04/24/2010 LAL @ OKC L 32 12 5 10 50.0 1 1 100.0 1 2 50.0 1 2 3 4 0 0 3 3 -14
+p190
+aVJosh Powell LAL 04/24/2010 LAL @ OKC L 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 3 9
+p191
+aVPau Gasol LAL 04/24/2010 LAL @ OKC L 30 13 5 10 50.0 0 0 - 3 6 50.0 0 4 4 3 0 0 2 2 -22
+p192
+aVMetta World Peace LAL 04/24/2010 LAL @ OKC L 29 5 2 9 22.2 0 4 0.0 1 2 50.0 1 2 3 1 0 0 0 3 -15
+p193
+aVAdam Morrison LAL 04/24/2010 LAL @ OKC L 4 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 4
+p194
+aVDerek Fisher LAL 04/24/2010 LAL @ OKC L 29 11 4 7 57.1 3 6 50.0 0 2 0.0 0 4 4 3 1 0 2 1 -15
+p195
+aVLuke Walton LAL 04/24/2010 LAL @ OKC L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 -5
+p196
+aVDJ Mbenga LAL 04/24/2010 LAL @ OKC L 5 3 1 3 33.3 0 0 - 1 1 100.0 0 3 3 0 0 0 0 1 7
+p197
+aVAndrew Bynum LAL 04/24/2010 LAL @ OKC L 30 13 5 10 50.0 0 0 - 3 4 75.0 3 7 10 1 0 3 1 4 -19
+p198
+aVShannon Brown LAL 04/24/2010 LAL @ OKC L 21 10 2 8 25.0 0 3 0.0 6 6 100.0 1 1 2 2 1 0 1 5 -9
+p199
+aVLamar Odom LAL 04/24/2010 LAL @ OKC L 23 12 6 12 50.0 0 1 0.0 0 2 0.0 2 4 6 1 2 1 0 5 -17
+p200
+aVLuke Walton LAL 04/22/2010 LAL @ OKC L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p201
+aVAndrew Bynum LAL 04/22/2010 LAL @ OKC L 32 13 6 9 66.7 0 0 - 1 1 100.0 2 5 7 2 0 1 0 4 5
+p202
+aVShannon Brown LAL 04/22/2010 LAL @ OKC L 10 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 0 3 -12
+p203
+aVJordan Farmar LAL 04/22/2010 LAL @ OKC L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 1 1 -5
+p204
+aVKobe Bryant LAL 04/22/2010 LAL @ OKC L 41 24 10 29 34.5 4 11 36.4 0 0 - 0 4 4 8 2 0 3 4 1
+p205
+aVDerek Fisher LAL 04/22/2010 LAL @ OKC L 36 17 5 8 62.5 4 5 80.0 3 3 100.0 1 1 2 3 1 0 2 3 -1
+p206
+aVMetta World Peace LAL 04/22/2010 LAL @ OKC L 42 11 5 10 50.0 1 5 20.0 0 0 - 0 3 3 1 1 0 0 3 -2
+p207
+aVLamar Odom LAL 04/22/2010 LAL @ OKC L 21 8 3 7 42.9 1 4 25.0 1 2 50.0 1 5 6 0 0 1 1 2 -10
+p208
+aVPau Gasol LAL 04/22/2010 LAL @ OKC L 43 17 7 12 58.3 0 0 - 3 4 75.0 3 12 15 6 0 2 1 6 -4
+p209
+aVPau Gasol LAL 04/20/2010 LAL vs. OKC W 36 25 8 14 57.1 0 0 - 9 13 69.2 5 7 12 2 0 0 3 2 5
+p210
+aVLuke Walton LAL 04/20/2010 LAL vs. OKC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 3 2
+p211
+aVShannon Brown LAL 04/20/2010 LAL vs. OKC W 12 6 2 4 50.0 1 2 50.0 1 2 50.0 1 0 1 0 0 0 0 1 11
+p212
+aVDerek Fisher LAL 04/20/2010 LAL vs. OKC W 32 5 2 10 20.0 1 5 20.0 0 0 - 1 3 4 6 0 0 3 6 -12
+p213
+aVLamar Odom LAL 04/20/2010 LAL vs. OKC W 26 4 2 9 22.2 0 1 0.0 0 0 - 4 4 8 3 2 0 1 4 -1
+p214
+aVJordan Farmar LAL 04/20/2010 LAL vs. OKC W 13 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 1 0 0 1 2 10
+p215
+aVAndrew Bynum LAL 04/20/2010 LAL vs. OKC W 32 6 3 9 33.3 0 0 - 0 2 0.0 5 5 10 1 1 1 2 2 7
+p216
+aVJosh Powell LAL 04/20/2010 LAL vs. OKC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p217
+aVKobe Bryant LAL 04/20/2010 LAL vs. OKC W 41 39 12 28 42.9 2 5 40.0 13 15 86.7 1 4 5 1 2 0 4 4 -2
+p218
+aVMetta World Peace LAL 04/20/2010 LAL vs. OKC W 41 5 2 10 20.0 1 6 16.7 0 0 - 2 2 4 4 4 2 2 2 0
+p219
+aVAndrew Bynum LAL 04/18/2010 LAL vs. OKC W 30 13 6 10 60.0 0 0 - 1 3 33.3 3 9 12 1 0 4 0 2 9
+p220
+aVKobe Bryant LAL 04/18/2010 LAL vs. OKC W 41 21 6 19 31.6 2 5 40.0 7 12 58.3 1 1 2 3 2 1 2 5 9
+p221
+aVDerek Fisher LAL 04/18/2010 LAL vs. OKC W 35 11 4 12 33.3 3 6 50.0 0 0 - 0 2 2 1 1 0 2 3 10
+p222
+aVJordan Farmar LAL 04/18/2010 LAL vs. OKC W 10 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 1 0 1 2 2
+p223
+aVMetta World Peace LAL 04/18/2010 LAL vs. OKC W 40 7 3 11 27.3 1 8 12.5 0 0 - 1 2 3 2 1 0 1 5 5
+p224
+aVShannon Brown LAL 04/18/2010 LAL vs. OKC W 13 4 2 4 50.0 0 0 - 0 0 - 2 0 2 2 1 0 0 2 -5
+p225
+aVJosh Powell LAL 04/18/2010 LAL vs. OKC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p226
+aVPau Gasol LAL 04/18/2010 LAL vs. OKC W 39 19 7 14 50.0 0 0 - 5 5 100.0 3 10 13 3 0 3 2 1 9
+p227
+aVLamar Odom LAL 04/18/2010 LAL vs. OKC W 26 7 2 4 50.0 1 2 50.0 2 2 100.0 2 4 6 1 0 0 3 6 0
+p228
+aVLuke Walton LAL 04/18/2010 LAL vs. OKC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 3
+p229
+a.

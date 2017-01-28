@@ -1,0 +1,1620 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDoug Overton LAC 04/14/2004 LAC vs. SEA L 23 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 3 1 0 3 1 -10
+p2
+aVChris Kaman LAC 04/14/2004 LAC vs. SEA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p3
+aVBobby Simmons LAC 04/14/2004 LAC vs. SEA L 45 24 7 13 53.8 0 0 - 10 15 66.7 5 5 10 3 2 1 2 3 -23
+p4
+aVMelvin Ely LAC 04/14/2004 LAC vs. SEA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p5
+aVMatt Barnes LAC 04/14/2004 LAC vs. SEA L 29 5 1 5 20.0 0 1 0.0 3 4 75.0 0 2 2 3 0 0 1 1 -25
+p6
+aVQuentin Richardson LAC 04/14/2004 LAC vs. SEA L 30 6 3 12 25.0 0 4 0.0 0 0 - 0 3 3 2 0 0 2 5 -19
+p7
+aVElton Brand LAC 04/14/2004 LAC vs. SEA L 31 10 4 11 36.4 0 0 - 2 2 100.0 2 7 9 2 0 1 4 2 -12
+p8
+aVKeyon Dooling LAC 04/14/2004 LAC vs. SEA L 17 6 2 8 25.0 1 3 33.3 1 2 50.0 0 2 2 1 0 0 1 1 -13
+p9
+aVEddie House LAC 04/14/2004 LAC vs. SEA L 25 12 5 10 50.0 2 5 40.0 0 0 - 0 1 1 3 2 0 3 2 -21
+p10
+aVChris Wilcox LAC 04/14/2004 LAC vs. SEA L 19 12 5 6 83.3 0 0 - 2 2 100.0 2 2 4 0 0 0 4 2 -23
+p11
+aVPredrag Drobnjak LAC 04/14/2004 LAC vs. SEA L 10 8 2 4 50.0 0 1 0.0 4 6 66.7 1 4 5 0 0 1 0 0 1
+p12
+aVChris Kaman LAC 04/13/2004 LAC @ PHX W 24 6 3 3 100.0 0 0 - 0 0 - 3 2 5 3 0 0 1 3 -3
+p13
+aVDoug Overton LAC 04/13/2004 LAC @ PHX W 26 4 2 10 20.0 0 3 0.0 0 1 0.0 0 4 4 4 0 0 0 3 -2
+p14
+aVChris Wilcox LAC 04/13/2004 LAC @ PHX W 25 24 11 15 73.3 0 0 - 2 3 66.7 4 9 13 1 1 2 2 1 7
+p15
+aVPredrag Drobnjak LAC 04/13/2004 LAC @ PHX W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -13
+p16
+aVBobby Simmons LAC 04/13/2004 LAC @ PHX W 38 10 5 11 45.5 0 0 - 0 0 - 4 4 8 1 2 1 3 2 -6
+p17
+aVQuentin Richardson LAC 04/13/2004 LAC @ PHX W 45 10 4 15 26.7 2 5 40.0 0 0 - 0 5 5 9 2 0 7 1 7
+p18
+aVMatt Barnes LAC 04/13/2004 LAC @ PHX W 13 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 3
+p19
+aVKeyon Dooling LAC 04/13/2004 LAC @ PHX W 22 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 4
+p20
+aVElton Brand LAC 04/13/2004 LAC @ PHX W 39 30 12 20 60.0 0 0 - 6 10 60.0 2 9 11 4 1 5 1 3 13
+p21
+aVChris Kaman LAC 04/11/2004 LAC vs. SAS L 28 14 7 11 63.6 0 0 - 0 0 - 3 3 6 0 0 0 3 1 -3
+p22
+aVElton Brand LAC 04/11/2004 LAC vs. SAS L 41 23 8 23 34.8 0 0 - 7 8 87.5 8 4 12 5 1 2 3 4 -3
+p23
+aVDoug Overton LAC 04/11/2004 LAC vs. SAS L 31 12 5 9 55.6 0 2 0.0 2 3 66.7 2 2 4 3 1 0 0 2 4
+p24
+aVChris Wilcox LAC 04/11/2004 LAC vs. SAS L 23 9 3 8 37.5 0 0 - 3 3 100.0 0 2 2 1 0 0 1 2 -9
+p25
+aVMatt Barnes LAC 04/11/2004 LAC vs. SAS L 18 4 2 3 66.7 0 0 - 0 0 - 0 4 4 2 1 0 2 3 9
+p26
+aVPredrag Drobnjak LAC 04/11/2004 LAC vs. SAS L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p27
+aVBobby Simmons LAC 04/11/2004 LAC vs. SAS L 35 8 4 12 33.3 0 1 0.0 0 0 - 4 4 8 5 0 0 2 4 -20
+p28
+aVQuentin Richardson LAC 04/11/2004 LAC vs. SAS L 43 5 1 17 5.9 0 4 0.0 3 4 75.0 5 5 10 2 0 0 2 3 -7
+p29
+aVKeyon Dooling LAC 04/11/2004 LAC vs. SAS L 17 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -14
+p30
+aVChris Kaman LAC 04/07/2004 LAC vs. HOU L 25 1 0 5 0.0 0 0 - 1 2 50.0 3 3 6 2 0 0 2 1 -16
+p31
+aVMatt Barnes LAC 04/07/2004 LAC vs. HOU L 32 11 4 8 50.0 0 0 - 3 5 60.0 5 4 9 3 4 0 3 3 -15
+p32
+aVKeyon Dooling LAC 04/07/2004 LAC vs. HOU L 31 0 0 6 0.0 0 0 - 0 0 - 0 2 2 3 4 0 0 2 -26
+p33
+aVElton Brand LAC 04/07/2004 LAC vs. HOU L 36 20 8 20 40.0 0 0 - 4 6 66.7 4 6 10 1 0 2 2 2 -18
+p34
+aVDoug Overton LAC 04/07/2004 LAC vs. HOU L 17 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 1
+p35
+aVEddie House LAC 04/07/2004 LAC vs. HOU L 25 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 2 3 0 0 0 -14
+p36
+aVCorey Maggette LAC 04/07/2004 LAC vs. HOU L 40 22 5 14 35.7 1 2 50.0 11 13 84.6 0 6 6 1 0 0 2 3 -15
+p37
+aVMelvin Ely LAC 04/07/2004 LAC vs. HOU L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -1
+p38
+aVPredrag Drobnjak LAC 04/07/2004 LAC vs. HOU L 31 17 7 17 41.2 1 2 50.0 2 2 100.0 2 4 6 0 0 0 3 2 -11
+p39
+aVCorey Maggette LAC 04/04/2004 LAC vs. UTA L 41 26 6 18 33.3 1 6 16.7 13 14 92.9 1 5 6 3 0 0 3 4 -2
+p40
+aVChris Kaman LAC 04/04/2004 LAC vs. UTA L 29 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 0 2 3 0 -13
+p41
+aVRandy Livingston LAC 04/04/2004 LAC vs. UTA L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 0
+p42
+aVEddie House LAC 04/04/2004 LAC vs. UTA L 16 5 2 5 40.0 0 1 0.0 1 2 50.0 0 2 2 3 1 0 1 2 4
+p43
+aVMatt Barnes LAC 04/04/2004 LAC vs. UTA L 24 2 0 0 - 0 0 - 2 2 100.0 1 2 3 4 0 0 1 3 -1
+p44
+aVDoug Overton LAC 04/04/2004 LAC vs. UTA L 28 4 2 6 33.3 0 0 - 0 0 - 0 2 2 2 0 0 2 0 -9
+p45
+aVElton Brand LAC 04/04/2004 LAC vs. UTA L 36 15 4 9 44.4 0 0 - 7 11 63.6 0 3 3 2 0 1 2 4 -10
+p46
+aVPredrag Drobnjak LAC 04/04/2004 LAC vs. UTA L 23 18 7 13 53.8 0 2 0.0 4 4 100.0 1 3 4 2 1 1 0 6 10
+p47
+aVKeyon Dooling LAC 04/04/2004 LAC vs. UTA L 38 18 7 10 70.0 0 1 0.0 4 4 100.0 1 2 3 1 3 0 1 3 -4
+p48
+aVEddie House LAC 04/02/2004 LAC @ CHI L 10 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 -5
+p49
+aVPredrag Drobnjak LAC 04/02/2004 LAC @ CHI L 23 12 5 11 45.5 1 1 100.0 1 2 50.0 3 8 11 1 0 0 0 4 -15
+p50
+aVMelvin Ely LAC 04/02/2004 LAC @ CHI L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p51
+aVElton Brand LAC 04/02/2004 LAC @ CHI L 47 25 8 21 38.1 0 0 - 9 10 90.0 8 11 19 2 1 3 1 1 -2
+p52
+aVDoug Overton LAC 04/02/2004 LAC @ CHI L 34 7 3 10 30.0 0 0 - 1 2 50.0 1 2 3 6 1 0 3 2 7
+p53
+aVMatt Barnes LAC 04/02/2004 LAC @ CHI L 11 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 -14
+p54
+aVKeyon Dooling LAC 04/02/2004 LAC @ CHI L 44 17 5 15 33.3 0 2 0.0 7 7 100.0 0 3 3 4 1 0 2 2 1
+p55
+aVRandy Livingston LAC 04/02/2004 LAC @ CHI L 18 2 0 0 - 0 0 - 2 4 50.0 1 2 3 3 0 0 0 3 -9
+p56
+aVChris Kaman LAC 04/02/2004 LAC @ CHI L 34 8 3 6 50.0 0 0 - 2 3 66.7 0 6 6 2 0 1 3 5 7
+p57
+aVCorey Maggette LAC 04/02/2004 LAC @ CHI L 42 34 9 21 42.9 3 6 50.0 13 13 100.0 3 5 8 1 3 1 4 2 8
+p58
+aVMelvin Ely LAC 03/31/2004 LAC @ DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 4
+p59
+aVDoug Overton LAC 03/31/2004 LAC @ DET L 34 16 6 10 60.0 0 0 - 4 4 100.0 3 2 5 3 0 0 3 5 -2
+p60
+aVMatt Barnes LAC 03/31/2004 LAC @ DET L 33 10 4 6 66.7 0 0 - 2 2 100.0 2 6 8 2 0 0 4 5 -6
+p61
+aVRandy Livingston LAC 03/31/2004 LAC @ DET L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -2
+p62
+aVChris Kaman LAC 03/31/2004 LAC @ DET L 34 11 5 8 62.5 0 0 - 1 2 50.0 1 7 8 1 0 1 2 5 4
+p63
+aVEddie House LAC 03/31/2004 LAC @ DET L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 2 0 2 1 -16
+p64
+aVKeyon Dooling LAC 03/31/2004 LAC @ DET L 42 20 8 19 42.1 0 1 0.0 4 5 80.0 0 3 3 10 2 0 3 5 -1
+p65
+aVPredrag Drobnjak LAC 03/31/2004 LAC @ DET L 14 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -15
+p66
+aVCorey Maggette LAC 03/31/2004 LAC @ DET L 11 5 1 4 25.0 1 2 50.0 2 2 100.0 0 2 2 0 1 0 0 1 0
+p67
+aVElton Brand LAC 03/31/2004 LAC @ DET L 43 27 10 17 58.8 0 0 - 7 7 100.0 3 7 10 7 0 1 4 5 -11
+p68
+aVMatt Barnes LAC 03/28/2004 LAC @ GSW L 28 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 1 0 2 4 -24
+p69
+aVCorey Maggette LAC 03/28/2004 LAC @ GSW L 32 21 8 19 42.1 1 3 33.3 4 6 66.7 2 5 7 2 2 0 5 4 -12
+p70
+aVDoug Overton LAC 03/28/2004 LAC @ GSW L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -13
+p71
+aVKeyon Dooling LAC 03/28/2004 LAC @ GSW L 16 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 2 0 1 1 -5
+p72
+aVPredrag Drobnjak LAC 03/28/2004 LAC @ GSW L 11 2 0 3 0.0 0 0 - 2 2 100.0 3 3 6 0 0 0 0 1 -8
+p73
+aVChris Kaman LAC 03/28/2004 LAC @ GSW L 34 10 4 10 40.0 0 0 - 2 6 33.3 3 6 9 0 0 0 1 2 -21
+p74
+aVEddie House LAC 03/28/2004 LAC @ GSW L 28 4 2 4 50.0 0 0 - 0 0 - 0 2 2 7 1 0 2 0 -10
+p75
+aVRandy Livingston LAC 03/28/2004 LAC @ GSW L 19 6 2 6 33.3 0 1 0.0 2 2 100.0 1 3 4 1 0 0 3 1 -15
+p76
+aVMelvin Ely LAC 03/28/2004 LAC @ GSW L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -9
+p77
+aVChris Wilcox LAC 03/28/2004 LAC @ GSW L 18 5 2 5 40.0 0 0 - 1 4 25.0 1 0 1 1 0 0 1 1 1
+p78
+aVElton Brand LAC 03/28/2004 LAC @ GSW L 32 19 7 13 53.8 0 0 - 5 7 71.4 0 5 5 3 0 1 4 3 -24
+p79
+aVPredrag Drobnjak LAC 03/27/2004 LAC vs. MIN L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p80
+aVChris Kaman LAC 03/27/2004 LAC vs. MIN L 33 19 7 13 53.8 0 0 - 5 7 71.4 3 9 12 2 0 0 2 3 1
+p81
+aVEddie House LAC 03/27/2004 LAC vs. MIN L 27 7 3 9 33.3 1 2 50.0 0 0 - 0 2 2 1 1 1 1 1 -14
+p82
+aVMelvin Ely LAC 03/27/2004 LAC vs. MIN L 16 7 3 5 60.0 0 0 - 1 2 50.0 1 0 1 2 0 1 0 1 -12
+p83
+aVDoug Overton LAC 03/27/2004 LAC vs. MIN L 22 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -5
+p84
+aVCorey Maggette LAC 03/27/2004 LAC vs. MIN L 31 17 5 13 38.5 2 3 66.7 5 6 83.3 1 6 7 0 1 0 4 1 -11
+p85
+aVBobby Simmons LAC 03/27/2004 LAC vs. MIN L 26 4 1 5 20.0 0 0 - 2 2 100.0 3 3 6 4 1 0 1 0 -3
+p86
+aVMatt Barnes LAC 03/27/2004 LAC vs. MIN L 34 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 1 1 1 3 -12
+p87
+aVElton Brand LAC 03/27/2004 LAC vs. MIN L 40 22 7 16 43.8 0 0 - 8 11 72.7 1 4 5 3 1 1 4 4 -11
+p88
+aVKeyon Dooling LAC 03/27/2004 LAC vs. MIN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -7
+p89
+aVDoug Overton LAC 03/25/2004 LAC vs. WAS L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p90
+aVMelvin Ely LAC 03/25/2004 LAC vs. WAS L 23 10 5 9 55.6 0 0 - 0 0 - 4 4 8 1 0 0 0 5 7
+p91
+aVKeyon Dooling LAC 03/25/2004 LAC vs. WAS L 28 7 2 7 28.6 0 1 0.0 3 4 75.0 0 2 2 2 0 0 1 1 -12
+p92
+aVChris Kaman LAC 03/25/2004 LAC vs. WAS L 21 0 0 1 0.0 0 0 - 0 2 0.0 1 6 7 0 0 3 1 2 -16
+p93
+aVBobby Simmons LAC 03/25/2004 LAC vs. WAS L 35 15 3 11 27.3 0 1 0.0 9 11 81.8 3 7 10 6 1 0 1 4 3
+p94
+aVPredrag Drobnjak LAC 03/25/2004 LAC vs. WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p95
+aVElton Brand LAC 03/25/2004 LAC vs. WAS L 43 18 5 14 35.7 0 0 - 8 9 88.9 2 6 8 2 2 1 1 3 -10
+p96
+aVEddie House LAC 03/25/2004 LAC vs. WAS L 37 17 7 17 41.2 3 7 42.9 0 0 - 2 2 4 3 2 0 2 2 -9
+p97
+aVCorey Maggette LAC 03/25/2004 LAC vs. WAS L 36 25 8 20 40.0 1 4 25.0 8 10 80.0 3 3 6 2 1 0 4 4 -9
+p98
+aVElton Brand LAC 03/24/2004 LAC @ POR L 32 8 3 11 27.3 0 0 - 2 3 66.7 1 8 9 4 1 1 3 5 -14
+p99
+aVBobby Simmons LAC 03/24/2004 LAC @ POR L 29 8 3 7 42.9 0 0 - 2 2 100.0 2 5 7 0 2 1 2 4 -5
+p100
+aVChris Kaman LAC 03/24/2004 LAC @ POR L 30 8 3 5 60.0 0 0 - 2 2 100.0 1 6 7 3 0 1 2 2 -8
+p101
+aVMatt Barnes LAC 03/24/2004 LAC @ POR L 27 4 2 5 40.0 0 0 - 0 0 - 1 3 4 3 0 0 2 2 3
+p102
+aVCorey Maggette LAC 03/24/2004 LAC @ POR L 34 22 8 11 72.7 0 1 0.0 6 7 85.7 1 5 6 4 1 0 4 5 -7
+p103
+aVPredrag Drobnjak LAC 03/24/2004 LAC @ POR L 25 4 1 7 14.3 0 0 - 2 2 100.0 0 3 3 5 0 0 1 0 -1
+p104
+aVDoug Overton LAC 03/24/2004 LAC @ POR L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -7
+p105
+aVEddie House LAC 03/24/2004 LAC @ POR L 40 21 8 15 53.3 2 4 50.0 3 3 100.0 0 2 2 5 1 0 4 3 -2
+p106
+aVMelvin Ely LAC 03/24/2004 LAC @ POR L 10 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 11
+p107
+aVPredrag Drobnjak LAC 03/22/2004 LAC @ DEN L 31 24 8 10 80.0 0 1 0.0 8 8 100.0 3 3 6 3 2 1 3 2 2
+p108
+aVElton Brand LAC 03/22/2004 LAC @ DEN L 30 9 3 9 33.3 0 0 - 3 3 100.0 3 4 7 2 1 1 4 3 -15
+p109
+aVBobby Simmons LAC 03/22/2004 LAC @ DEN L 33 8 2 8 25.0 0 0 - 4 4 100.0 4 3 7 3 0 1 3 5 1
+p110
+aVMelvin Ely LAC 03/22/2004 LAC @ DEN L 16 9 2 7 28.6 0 0 - 5 6 83.3 4 1 5 0 0 1 1 3 -16
+p111
+aVChris Kaman LAC 03/22/2004 LAC @ DEN L 19 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 2 1 -15
+p112
+aVMatt Barnes LAC 03/22/2004 LAC @ DEN L 26 6 2 5 40.0 0 0 - 2 2 100.0 1 5 6 1 1 0 3 3 -24
+p113
+aVKeyon Dooling LAC 03/22/2004 LAC @ DEN L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -14
+p114
+aVQuentin Richardson LAC 03/22/2004 LAC @ DEN L 29 6 1 11 9.1 1 3 33.3 3 4 75.0 1 3 4 0 2 0 2 3 -10
+p115
+aVEddie House LAC 03/22/2004 LAC @ DEN L 16 8 3 9 33.3 0 0 - 2 2 100.0 1 2 3 1 0 0 0 0 -11
+p116
+aVDoug Overton LAC 03/22/2004 LAC @ DEN L 30 6 3 9 33.3 0 0 - 0 1 0.0 0 2 2 4 0 0 3 3 -8
+p117
+aVEddie House LAC 03/21/2004 LAC vs. GSW L 27 0 0 7 0.0 0 2 0.0 0 0 - 1 2 3 7 6 0 2 1 7
+p118
+aVKeyon Dooling LAC 03/21/2004 LAC vs. GSW L 32 18 7 15 46.7 2 3 66.7 2 2 100.0 0 3 3 5 1 0 1 3 -5
+p119
+aVMelvin Ely LAC 03/21/2004 LAC vs. GSW L 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -1
+p120
+aVMatt Barnes LAC 03/21/2004 LAC vs. GSW L 39 13 5 12 41.7 0 0 - 3 5 60.0 3 5 8 2 2 0 1 3 -4
+p121
+aVBobby Simmons LAC 03/21/2004 LAC vs. GSW L 43 17 4 14 28.6 0 2 0.0 9 10 90.0 2 5 7 1 3 0 2 2 -10
+p122
+aVPredrag Drobnjak LAC 03/21/2004 LAC vs. GSW L 27 13 6 12 50.0 1 3 33.3 0 0 - 0 2 2 2 1 0 2 2 -6
+p123
+aVElton Brand LAC 03/21/2004 LAC vs. GSW L 40 20 6 13 46.2 0 0 - 8 8 100.0 3 7 10 2 0 1 3 5 -5
+p124
+aVChris Kaman LAC 03/21/2004 LAC vs. GSW L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -18
+p125
+aVDoug Overton LAC 03/21/2004 LAC vs. GSW L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -13
+p126
+aVDoug Overton LAC 03/19/2004 LAC @ LAL L 17 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 4 -2
+p127
+aVBobby Simmons LAC 03/19/2004 LAC @ LAL L 23 6 2 4 50.0 0 0 - 2 2 100.0 2 4 6 2 1 0 2 3 -2
+p128
+aVKeyon Dooling LAC 03/19/2004 LAC @ LAL L 31 9 4 10 40.0 0 0 - 1 4 25.0 0 2 2 2 1 0 2 2 -4
+p129
+aVPredrag Drobnjak LAC 03/19/2004 LAC @ LAL L 10 7 3 8 37.5 0 1 0.0 1 1 100.0 0 2 2 0 0 0 0 1 -8
+p130
+aVCorey Maggette LAC 03/19/2004 LAC @ LAL L 44 31 7 21 33.3 0 4 0.0 17 20 85.0 3 4 7 5 1 0 1 5 -1
+p131
+aVChris Kaman LAC 03/19/2004 LAC @ LAL L 21 9 4 7 57.1 0 0 - 1 2 50.0 0 8 8 4 2 0 2 4 -5
+p132
+aVEddie House LAC 03/19/2004 LAC @ LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p133
+aVMelvin Ely LAC 03/19/2004 LAC @ LAL L 20 5 1 4 25.0 0 0 - 3 3 100.0 1 2 3 2 1 2 0 3 -2
+p134
+aVElton Brand LAC 03/19/2004 LAC @ LAL L 38 15 7 15 46.7 0 0 - 1 2 50.0 1 6 7 5 0 1 4 5 2
+p135
+aVMatt Barnes LAC 03/19/2004 LAC @ LAL L 32 14 6 10 60.0 0 0 - 2 3 66.7 5 2 7 1 0 0 3 2 -2
+p136
+aVChris Kaman LAC 03/17/2004 LAC vs. LAL L 24 0 0 3 0.0 0 0 - 0 0 - 1 6 7 1 1 0 0 5 2
+p137
+aVCorey Maggette LAC 03/17/2004 LAC vs. LAL L 38 25 7 16 43.8 2 5 40.0 9 10 90.0 0 8 8 2 0 0 3 3 2
+p138
+aVBobby Simmons LAC 03/17/2004 LAC vs. LAL L 15 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -2
+p139
+aVMatt Barnes LAC 03/17/2004 LAC vs. LAL L 14 8 3 5 60.0 0 1 0.0 2 2 100.0 4 1 5 1 2 0 2 0 6
+p140
+aVKeyon Dooling LAC 03/17/2004 LAC vs. LAL L 26 8 4 10 40.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 1 6
+p141
+aVQuentin Richardson LAC 03/17/2004 LAC vs. LAL L 38 21 8 20 40.0 0 3 0.0 5 6 83.3 4 1 5 2 2 1 2 2 -6
+p142
+aVElton Brand LAC 03/17/2004 LAC vs. LAL L 42 26 9 16 56.3 0 0 - 8 10 80.0 3 6 9 1 1 4 2 3 -4
+p143
+aVMelvin Ely LAC 03/17/2004 LAC vs. LAL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 0 1 -6
+p144
+aVEddie House LAC 03/17/2004 LAC vs. LAL L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -2
+p145
+aVDoug Overton LAC 03/17/2004 LAC vs. LAL L 13 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 4 1 0 2 2 -7
+p146
+aVPredrag Drobnjak LAC 03/17/2004 LAC vs. LAL L 14 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 -4
+p147
+aVBobby Simmons LAC 03/16/2004 LAC @ PHX W 23 9 3 8 37.5 0 0 - 3 4 75.0 0 3 3 2 0 1 1 2 14
+p148
+aVMelvin Ely LAC 03/16/2004 LAC @ PHX W 13 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 1 2 1
+p149
+aVKeyon Dooling LAC 03/16/2004 LAC @ PHX W 20 2 1 8 12.5 0 1 0.0 0 0 - 1 2 3 2 0 0 1 1 1
+p150
+aVChris Kaman LAC 03/16/2004 LAC @ PHX W 19 4 1 4 25.0 0 0 - 2 2 100.0 2 6 8 1 1 3 4 4 8
+p151
+aVCorey Maggette LAC 03/16/2004 LAC @ PHX W 40 23 8 14 57.1 3 6 50.0 4 6 66.7 1 8 9 5 1 0 1 3 1
+p152
+aVDoug Overton LAC 03/16/2004 LAC @ PHX W 28 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 8 1 0 2 2 11
+p153
+aVQuentin Richardson LAC 03/16/2004 LAC @ PHX W 41 32 12 22 54.5 3 7 42.9 5 6 83.3 4 8 12 0 2 0 1 0 16
+p154
+aVMatt Barnes LAC 03/16/2004 LAC @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p155
+aVPredrag Drobnjak LAC 03/16/2004 LAC @ PHX W 12 6 1 4 25.0 0 0 - 4 4 100.0 0 1 1 0 2 0 0 0 6
+p156
+aVElton Brand LAC 03/16/2004 LAC @ PHX W 41 27 8 16 50.0 0 0 - 11 14 78.6 5 2 7 3 0 2 3 4 7
+p157
+aVCorey Maggette LAC 03/14/2004 LAC vs. DAL L 46 25 9 19 47.4 2 5 40.0 5 7 71.4 1 7 8 6 1 0 3 4 -16
+p158
+aVDoug Overton LAC 03/14/2004 LAC vs. DAL L 23 3 1 6 16.7 1 1 100.0 0 0 - 0 0 0 4 0 0 1 1 -11
+p159
+aVChris Wilcox LAC 03/14/2004 LAC vs. DAL L 12 6 3 5 60.0 0 0 - 0 1 0.0 0 3 3 1 1 1 0 3 -1
+p160
+aVMatt Barnes LAC 03/14/2004 LAC vs. DAL L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 0 -5
+p161
+aVBobby Simmons LAC 03/14/2004 LAC vs. DAL L 31 6 2 9 22.2 0 0 - 2 2 100.0 4 2 6 4 1 1 3 6 -7
+p162
+aVChris Kaman LAC 03/14/2004 LAC vs. DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p163
+aVQuentin Richardson LAC 03/14/2004 LAC vs. DAL L 45 32 13 25 52.0 5 9 55.6 1 2 50.0 5 6 11 5 3 0 3 0 -8
+p164
+aVKeyon Dooling LAC 03/14/2004 LAC vs. DAL L 27 10 1 7 14.3 0 1 0.0 8 8 100.0 0 0 0 3 0 0 0 4 -6
+p165
+aVElton Brand LAC 03/14/2004 LAC vs. DAL L 42 5 2 11 18.2 0 0 - 1 2 50.0 3 7 10 0 1 2 2 1 -8
+p166
+aVEddie House LAC 03/12/2004 LAC @ MEM L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -4
+p167
+aVElton Brand LAC 03/12/2004 LAC @ MEM L 38 15 7 14 50.0 0 0 - 1 4 25.0 3 4 7 2 0 3 3 4 -13
+p168
+aVPredrag Drobnjak LAC 03/12/2004 LAC @ MEM L 9 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 0 1 0 0 0 -7
+p169
+aVDoug Overton LAC 03/12/2004 LAC @ MEM L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 2 0 1 1 -2
+p170
+aVKeyon Dooling LAC 03/12/2004 LAC @ MEM L 35 12 6 13 46.2 0 0 - 0 0 - 1 3 4 5 2 1 3 6 -3
+p171
+aVQuentin Richardson LAC 03/12/2004 LAC @ MEM L 42 25 11 24 45.8 2 7 28.6 1 1 100.0 5 6 11 5 2 0 2 1 -5
+p172
+aVCorey Maggette LAC 03/12/2004 LAC @ MEM L 31 8 2 10 20.0 0 2 0.0 4 6 66.7 0 2 2 0 1 1 7 2 -17
+p173
+aVChris Kaman LAC 03/12/2004 LAC @ MEM L 28 4 1 1 100.0 0 0 - 2 2 100.0 1 7 8 2 0 3 1 2 -2
+p174
+aVBobby Simmons LAC 03/12/2004 LAC @ MEM L 27 11 2 7 28.6 0 0 - 7 7 100.0 2 2 4 3 0 1 0 4 0
+p175
+aVChris Wilcox LAC 03/12/2004 LAC @ MEM L 17 12 3 8 37.5 0 0 - 6 7 85.7 2 3 5 0 2 0 0 4 8
+p176
+aVElton Brand LAC 03/10/2004 LAC @ SAS L 29 16 5 12 41.7 0 0 - 6 8 75.0 0 5 5 2 0 3 4 2 -21
+p177
+aVCorey Maggette LAC 03/10/2004 LAC @ SAS L 33 21 6 13 46.2 0 2 0.0 9 11 81.8 2 5 7 3 0 0 3 5 -21
+p178
+aVEddie House LAC 03/10/2004 LAC @ SAS L 21 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 3 0 0 2 3 -23
+p179
+aVChris Kaman LAC 03/10/2004 LAC @ SAS L 24 0 0 2 0.0 0 0 - 0 2 0.0 0 4 4 1 1 1 1 1 -22
+p180
+aVMatt Barnes LAC 03/10/2004 LAC @ SAS L 25 10 4 5 80.0 0 0 - 2 3 66.7 1 5 6 2 1 0 2 2 8
+p181
+aVChris Wilcox LAC 03/10/2004 LAC @ SAS L 20 8 4 8 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -7
+p182
+aVBobby Simmons LAC 03/10/2004 LAC @ SAS L 21 9 3 9 33.3 1 1 100.0 2 2 100.0 2 4 6 1 1 0 1 5 -5
+p183
+aVKeyon Dooling LAC 03/10/2004 LAC @ SAS L 44 16 7 9 77.8 0 0 - 2 3 66.7 1 4 5 5 0 0 4 3 -13
+p184
+aVPredrag Drobnjak LAC 03/10/2004 LAC @ SAS L 11 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 8
+p185
+aVMelvin Ely LAC 03/10/2004 LAC @ SAS L 12 5 1 4 25.0 0 0 - 3 4 75.0 2 3 5 0 0 1 0 1 6
+p186
+aVEddie House LAC 03/09/2004 LAC @ HOU L 40 7 3 11 27.3 1 6 16.7 0 0 - 1 5 6 7 2 0 4 1 -2
+p187
+aVChris Wilcox LAC 03/09/2004 LAC @ HOU L 9 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 2
+p188
+aVKeyon Dooling LAC 03/09/2004 LAC @ HOU L 34 10 5 8 62.5 0 0 - 0 0 - 0 3 3 3 2 0 2 5 1
+p189
+aVElton Brand LAC 03/09/2004 LAC @ HOU L 36 16 7 14 50.0 0 0 - 2 3 66.7 1 8 9 4 2 2 4 4 -2
+p190
+aVBobby Simmons LAC 03/09/2004 LAC @ HOU L 24 7 2 4 50.0 0 0 - 3 3 100.0 0 3 3 1 1 0 1 4 -10
+p191
+aVCorey Maggette LAC 03/09/2004 LAC @ HOU L 43 26 7 15 46.7 2 8 25.0 10 13 76.9 1 7 8 4 1 0 4 4 0
+p192
+aVPredrag Drobnjak LAC 03/09/2004 LAC @ HOU L 18 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 2 2 1
+p193
+aVMatt Barnes LAC 03/09/2004 LAC @ HOU L 7 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -9
+p194
+aVChris Kaman LAC 03/09/2004 LAC @ HOU L 29 11 5 7 71.4 0 0 - 1 1 100.0 0 1 1 1 2 2 1 6 -6
+p195
+aVEddie House LAC 03/07/2004 LAC vs. POR W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p196
+aVMarko Jaric LAC 03/07/2004 LAC vs. POR W 35 4 1 7 14.3 0 4 0.0 2 2 100.0 0 1 1 9 2 0 2 2 20
+p197
+aVMelvin Ely LAC 03/07/2004 LAC vs. POR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p198
+aVPredrag Drobnjak LAC 03/07/2004 LAC vs. POR W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p199
+aVKeyon Dooling LAC 03/07/2004 LAC vs. POR W 23 12 4 6 66.7 2 2 100.0 2 2 100.0 1 0 1 3 0 1 1 2 1
+p200
+aVQuentin Richardson LAC 03/07/2004 LAC vs. POR W 25 8 4 10 40.0 0 1 0.0 0 0 - 1 2 3 0 2 1 1 2 9
+p201
+aVCorey Maggette LAC 03/07/2004 LAC vs. POR W 36 18 6 12 50.0 0 2 0.0 6 8 75.0 1 3 4 9 2 0 3 2 29
+p202
+aVChris Wilcox LAC 03/07/2004 LAC vs. POR W 19 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 1 0 2 1 -4
+p203
+aVElton Brand LAC 03/07/2004 LAC vs. POR W 39 21 9 17 52.9 0 0 - 3 4 75.0 4 10 14 1 2 4 1 2 27
+p204
+aVBobby Simmons LAC 03/07/2004 LAC vs. POR W 20 8 3 6 50.0 0 0 - 2 2 100.0 0 5 5 2 0 1 0 0 3
+p205
+aVMatt Barnes LAC 03/07/2004 LAC vs. POR W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p206
+aVChris Kaman LAC 03/07/2004 LAC vs. POR W 34 12 6 9 66.7 0 0 - 0 0 - 2 7 9 2 0 3 2 3 20
+p207
+aVBobby Simmons LAC 03/06/2004 LAC vs. MEM L 14 8 3 9 33.3 0 1 0.0 2 2 100.0 1 4 5 1 0 0 1 2 -9
+p208
+aVQuentin Richardson LAC 03/06/2004 LAC vs. MEM L 38 12 5 17 29.4 0 5 0.0 2 3 66.7 1 4 5 1 2 1 4 5 -6
+p209
+aVChris Kaman LAC 03/06/2004 LAC vs. MEM L 32 10 5 9 55.6 0 0 - 0 1 0.0 4 7 11 2 0 1 2 4 -3
+p210
+aVElton Brand LAC 03/06/2004 LAC vs. MEM L 43 18 6 10 60.0 0 0 - 6 9 66.7 0 7 7 5 3 1 3 4 0
+p211
+aVEddie House LAC 03/06/2004 LAC vs. MEM L 20 10 4 9 44.4 2 3 66.7 0 0 - 1 1 2 2 1 0 0 0 -5
+p212
+aVPredrag Drobnjak LAC 03/06/2004 LAC vs. MEM L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 2
+p213
+aVMarko Jaric LAC 03/06/2004 LAC vs. MEM L 33 13 5 10 50.0 1 1 100.0 2 2 100.0 2 1 3 4 0 0 3 2 8
+p214
+aVChris Wilcox LAC 03/06/2004 LAC vs. MEM L 13 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 4 -10
+p215
+aVCorey Maggette LAC 03/06/2004 LAC vs. MEM L 43 18 6 14 42.9 0 3 0.0 6 10 60.0 1 5 6 7 3 1 1 3 -7
+p216
+aVElton Brand LAC 03/03/2004 LAC vs. IND L 48 24 9 17 52.9 0 0 - 6 6 100.0 0 3 3 7 3 4 0 2 -1
+p217
+aVChris Wilcox LAC 03/03/2004 LAC vs. IND L 23 7 3 6 50.0 0 0 - 1 2 50.0 4 6 10 0 0 0 1 1 8
+p218
+aVMarko Jaric LAC 03/03/2004 LAC vs. IND L 31 9 4 10 40.0 1 2 50.0 0 0 - 0 2 2 5 1 1 1 4 -14
+p219
+aVQuentin Richardson LAC 03/03/2004 LAC vs. IND L 46 23 11 21 52.4 1 5 20.0 0 0 - 4 5 9 5 3 0 3 4 -8
+p220
+aVEddie House LAC 03/03/2004 LAC vs. IND L 22 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 5 1 0 0 2 7
+p221
+aVBobby Simmons LAC 03/03/2004 LAC vs. IND L 31 6 3 6 50.0 0 1 0.0 0 0 - 2 2 4 1 1 0 1 2 -1
+p222
+aVCorey Maggette LAC 03/03/2004 LAC vs. IND L 46 21 7 18 38.9 1 3 33.3 6 7 85.7 1 5 6 2 1 0 5 2 -14
+p223
+aVChris Kaman LAC 03/03/2004 LAC vs. IND L 18 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 1 0 4 1 -12
+p224
+aVPredrag Drobnjak LAC 03/02/2004 LAC @ SAC L 14 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 1
+p225
+aVBobby Simmons LAC 03/02/2004 LAC @ SAC L 16 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 0 1 3 4 -16
+p226
+aVKeyon Dooling LAC 03/02/2004 LAC @ SAC L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -6
+p227
+aVCorey Maggette LAC 03/02/2004 LAC @ SAC L 41 32 11 18 61.1 3 7 42.9 7 7 100.0 0 5 5 4 0 0 2 3 7
+p228
+aVElton Brand LAC 03/02/2004 LAC @ SAC L 43 25 10 19 52.6 0 0 - 5 6 83.3 5 3 8 3 1 4 3 4 -9
+p229
+aVMarko Jaric LAC 03/02/2004 LAC @ SAC L 43 11 4 10 40.0 1 5 20.0 2 2 100.0 0 4 4 5 0 2 3 2 -1
+p230
+aVQuentin Richardson LAC 03/02/2004 LAC @ SAC L 39 17 7 14 50.0 2 5 40.0 1 1 100.0 3 5 8 3 0 0 1 2 -7
+p231
+aVChris Kaman LAC 03/02/2004 LAC @ SAC L 29 8 2 8 25.0 0 0 - 4 4 100.0 3 2 5 1 2 3 1 3 0
+p232
+aVChris Wilcox LAC 03/02/2004 LAC @ SAC L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p233
+aVEddie House LAC 02/29/2004 LAC vs. DET L 19 4 1 4 25.0 1 1 100.0 1 2 50.0 0 2 2 2 1 0 1 2 -6
+p234
+aVChris Kaman LAC 02/29/2004 LAC vs. DET L 29 7 3 6 50.0 0 0 - 1 2 50.0 1 6 7 4 0 0 3 3 -10
+p235
+aVQuentin Richardson LAC 02/29/2004 LAC vs. DET L 39 22 10 19 52.6 0 4 0.0 2 3 66.7 5 5 10 4 0 0 0 5 -9
+p236
+aVChris Wilcox LAC 02/29/2004 LAC vs. DET L 20 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -1
+p237
+aVBobby Simmons LAC 02/29/2004 LAC vs. DET L 23 0 0 6 0.0 0 0 - 0 0 - 2 3 5 0 1 0 1 5 -11
+p238
+aVCorey Maggette LAC 02/29/2004 LAC vs. DET L 37 19 4 10 40.0 1 4 25.0 10 10 100.0 0 2 2 2 2 0 3 2 -8
+p239
+aVMatt Barnes LAC 02/29/2004 LAC vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p240
+aVElton Brand LAC 02/29/2004 LAC vs. DET L 42 26 12 23 52.2 0 0 - 2 6 33.3 5 5 10 4 1 3 1 4 -11
+p241
+aVMarko Jaric LAC 02/29/2004 LAC vs. DET L 30 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 8 2 0 2 4 -4
+p242
+aVMelvin Ely LAC 02/27/2004 LAC vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p243
+aVBobby Simmons LAC 02/27/2004 LAC vs. NYK W 22 12 4 8 50.0 0 0 - 4 4 100.0 2 2 4 0 0 0 2 3 -3
+p244
+aVChris Kaman LAC 02/27/2004 LAC vs. NYK W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 3
+p245
+aVCorey Maggette LAC 02/27/2004 LAC vs. NYK W 34 16 4 10 40.0 0 3 0.0 8 9 88.9 1 2 3 3 1 1 2 3 4
+p246
+aVElton Brand LAC 02/27/2004 LAC vs. NYK W 39 19 8 20 40.0 0 0 - 3 3 100.0 4 8 12 3 1 2 2 4 14
+p247
+aVPredrag Drobnjak LAC 02/27/2004 LAC vs. NYK W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -6
+p248
+aVChris Wilcox LAC 02/27/2004 LAC vs. NYK W 33 9 2 7 28.6 0 0 - 5 7 71.4 3 5 8 0 2 0 3 3 -1
+p249
+aVQuentin Richardson LAC 02/27/2004 LAC vs. NYK W 40 23 8 19 42.1 3 8 37.5 4 6 66.7 3 4 7 1 0 0 1 0 3
+p250
+aVMarko Jaric LAC 02/27/2004 LAC vs. NYK W 38 13 5 10 50.0 3 6 50.0 0 0 - 0 2 2 7 3 0 2 2 11
+p251
+aVKeyon Dooling LAC 02/27/2004 LAC vs. NYK W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -9
+p252
+aVElton Brand LAC 02/25/2004 LAC @ NOH L 38 19 7 14 50.0 0 0 - 5 7 71.4 7 5 12 1 1 3 2 3 -9
+p253
+aVKeyon Dooling LAC 02/25/2004 LAC @ NOH L 28 7 1 7 14.3 0 1 0.0 5 5 100.0 1 2 3 5 4 0 2 4 5
+p254
+aVMelvin Ely LAC 02/25/2004 LAC @ NOH L 18 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 0 1 0 0 0
+p255
+aVCorey Maggette LAC 02/25/2004 LAC @ NOH L 36 16 4 11 36.4 2 3 66.7 6 6 100.0 2 1 3 6 0 0 4 2 -17
+p256
+aVQuentin Richardson LAC 02/25/2004 LAC @ NOH L 37 18 8 22 36.4 1 6 16.7 1 2 50.0 3 5 8 4 0 0 2 3 -9
+p257
+aVMarko Jaric LAC 02/25/2004 LAC @ NOH L 20 3 1 6 16.7 1 3 33.3 0 0 - 1 0 1 3 0 0 1 2 -11
+p258
+aVChris Kaman LAC 02/25/2004 LAC @ NOH L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p259
+aVChris Wilcox LAC 02/25/2004 LAC @ NOH L 33 18 9 13 69.2 0 1 0.0 0 0 - 1 8 9 0 1 0 2 3 6
+p260
+aVBobby Simmons LAC 02/25/2004 LAC @ NOH L 23 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 3 2 0 0 2 10
+p261
+aVBobby Simmons LAC 02/24/2004 LAC @ DAL L 29 16 6 8 75.0 0 0 - 4 5 80.0 1 3 4 0 1 0 0 5 -10
+p262
+aVChris Kaman LAC 02/24/2004 LAC @ DAL L 13 6 1 2 50.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 1 -9
+p263
+aVEddie House LAC 02/24/2004 LAC @ DAL L 24 4 1 6 16.7 0 1 0.0 2 2 100.0 0 4 4 3 0 0 2 1 -1
+p264
+aVMarko Jaric LAC 02/24/2004 LAC @ DAL L 16 0 0 2 0.0 0 1 0.0 0 2 0.0 1 1 2 5 2 1 2 3 -26
+p265
+aVMatt Barnes LAC 02/24/2004 LAC @ DAL L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p266
+aVKeyon Dooling LAC 02/24/2004 LAC @ DAL L 27 13 5 10 50.0 0 1 0.0 3 4 75.0 0 2 2 3 1 0 0 1 -5
+p267
+aVChris Wilcox LAC 02/24/2004 LAC @ DAL L 19 12 4 5 80.0 0 0 - 4 10 40.0 5 2 7 0 1 2 0 1 -11
+p268
+aVMelvin Ely LAC 02/24/2004 LAC @ DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 1
+p269
+aVPredrag Drobnjak LAC 02/24/2004 LAC @ DAL L 12 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 1
+p270
+aVQuentin Richardson LAC 02/24/2004 LAC @ DAL L 32 7 3 12 25.0 0 3 0.0 1 2 50.0 1 5 6 2 1 0 3 1 -22
+p271
+aVElton Brand LAC 02/24/2004 LAC @ DAL L 21 8 2 6 33.3 0 0 - 4 4 100.0 0 1 1 2 0 1 1 4 -22
+p272
+aVCorey Maggette LAC 02/24/2004 LAC @ DAL L 34 21 6 17 35.3 2 4 50.0 7 9 77.8 1 3 4 1 2 1 1 1 -26
+p273
+aVEddie House LAC 02/21/2004 LAC @ MIL W 16 3 1 8 12.5 1 4 25.0 0 0 - 0 1 1 1 1 0 0 3 -7
+p274
+aVBobby Simmons LAC 02/21/2004 LAC @ MIL W 21 12 4 6 66.7 0 0 - 4 6 66.7 1 0 1 0 1 0 2 4 4
+p275
+aVMarko Jaric LAC 02/21/2004 LAC @ MIL W 32 10 4 11 36.4 2 4 50.0 0 0 - 0 2 2 6 0 0 0 4 12
+p276
+aVElton Brand LAC 02/21/2004 LAC @ MIL W 43 31 9 17 52.9 0 0 - 13 17 76.5 3 7 10 5 1 4 1 5 -1
+p277
+aVChris Wilcox LAC 02/21/2004 LAC @ MIL W 15 2 1 8 12.5 0 0 - 0 0 - 6 0 6 0 0 0 1 3 -7
+p278
+aVChris Kaman LAC 02/21/2004 LAC @ MIL W 21 4 2 2 100.0 0 0 - 0 0 - 2 5 7 0 0 0 4 4 2
+p279
+aVQuentin Richardson LAC 02/21/2004 LAC @ MIL W 42 18 7 16 43.8 0 3 0.0 4 8 50.0 4 6 10 2 0 0 0 2 11
+p280
+aVCorey Maggette LAC 02/21/2004 LAC @ MIL W 33 19 5 12 41.7 1 1 100.0 8 8 100.0 1 8 9 2 0 0 2 6 19
+p281
+aVMatt Barnes LAC 02/21/2004 LAC @ MIL W 10 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 1 2 -16
+p282
+aVKeyon Dooling LAC 02/21/2004 LAC @ MIL W 7 6 3 4 75.0 0 1 0.0 0 1 0.0 0 1 1 0 0 0 0 0 -7
+p283
+aVQuentin Richardson LAC 02/19/2004 LAC vs. BOS W 11 3 0 3 0.0 0 2 0.0 3 4 75.0 1 2 3 0 1 0 0 1 -10
+p284
+aVMarko Jaric LAC 02/19/2004 LAC vs. BOS W 22 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 6 0 1 2 3 1
+p285
+aVCorey Maggette LAC 02/19/2004 LAC vs. BOS W 39 15 5 11 45.5 0 3 0.0 5 6 83.3 2 8 10 2 2 0 7 4 3
+p286
+aVChris Wilcox LAC 02/19/2004 LAC vs. BOS W 17 9 3 6 50.0 0 0 - 3 4 75.0 1 2 3 1 1 0 0 3 6
+p287
+aVDoug Overton LAC 02/19/2004 LAC vs. BOS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p288
+aVChris Kaman LAC 02/19/2004 LAC vs. BOS W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 4 2 4
+p289
+aVMatt Barnes LAC 02/19/2004 LAC vs. BOS W 34 6 2 3 66.7 0 0 - 2 3 66.7 3 2 5 3 3 0 1 4 -2
+p290
+aVElton Brand LAC 02/19/2004 LAC vs. BOS W 41 39 14 22 63.6 0 0 - 11 14 78.6 4 7 11 2 4 6 4 5 -3
+p291
+aVEddie House LAC 02/19/2004 LAC vs. BOS W 26 12 5 11 45.5 2 5 40.0 0 0 - 0 2 2 2 0 0 1 3 4
+p292
+aVKeyon Dooling LAC 02/19/2004 LAC vs. BOS W 32 16 5 11 45.5 0 3 0.0 6 7 85.7 1 0 1 3 2 0 4 4 7
+p293
+aVCorey Maggette LAC 02/18/2004 LAC @ POR L 36 23 7 14 50.0 3 5 60.0 6 6 100.0 3 4 7 5 1 0 2 3 -18
+p294
+aVQuentin Richardson LAC 02/18/2004 LAC @ POR L 43 20 7 18 38.9 4 7 57.1 2 2 100.0 2 4 6 2 1 1 2 2 -5
+p295
+aVElton Brand LAC 02/18/2004 LAC @ POR L 42 19 6 13 46.2 0 0 - 7 7 100.0 5 5 10 0 1 4 5 5 -10
+p296
+aVMatt Barnes LAC 02/18/2004 LAC @ POR L 14 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 1 0 0 1 0
+p297
+aVChris Wilcox LAC 02/18/2004 LAC @ POR L 18 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -1
+p298
+aVEddie House LAC 02/18/2004 LAC @ POR L 24 4 1 7 14.3 0 1 0.0 2 2 100.0 1 2 3 6 1 0 1 2 -10
+p299
+aVChris Kaman LAC 02/18/2004 LAC @ POR L 35 14 5 12 41.7 0 0 - 4 4 100.0 4 4 8 1 0 1 4 2 -16
+p300
+aVMarko Jaric LAC 02/18/2004 LAC @ POR L 28 4 2 8 25.0 0 2 0.0 0 0 - 2 2 4 3 1 1 3 3 -15
+p301
+aVMarko Jaric LAC 02/11/2004 LAC @ MEM L 39 11 4 10 40.0 0 1 0.0 3 3 100.0 1 3 4 4 0 0 2 1 -9
+p302
+aVEddie House LAC 02/11/2004 LAC @ MEM L 42 19 7 19 36.8 1 5 20.0 4 5 80.0 2 8 10 7 2 0 2 3 -4
+p303
+aVPredrag Drobnjak LAC 02/11/2004 LAC @ MEM L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p304
+aVElton Brand LAC 02/11/2004 LAC @ MEM L 39 24 8 21 38.1 0 0 - 8 10 80.0 6 9 15 1 1 0 2 5 -8
+p305
+aVChris Kaman LAC 02/11/2004 LAC @ MEM L 37 16 5 11 45.5 0 0 - 6 6 100.0 2 3 5 2 0 1 3 2 -9
+p306
+aVChris Wilcox LAC 02/11/2004 LAC @ MEM L 20 7 3 5 60.0 0 0 - 1 2 50.0 3 2 5 3 0 0 1 5 1
+p307
+aVDoug Overton LAC 02/11/2004 LAC @ MEM L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p308
+aVMatt Barnes LAC 02/11/2004 LAC @ MEM L 30 13 5 7 71.4 0 1 0.0 3 3 100.0 2 1 3 1 2 0 3 3 1
+p309
+aVKeyon Dooling LAC 02/11/2004 LAC @ MEM L 23 10 2 7 28.6 0 0 - 6 7 85.7 1 0 1 0 0 0 1 1 -5
+p310
+aVQuentin Richardson LAC 02/10/2004 LAC @ MIN L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 1 0 0 0 0 -6
+p311
+aVEddie House LAC 02/10/2004 LAC @ MIN L 33 5 2 10 20.0 1 4 25.0 0 0 - 0 5 5 2 0 0 1 0 3
+p312
+aVChris Wilcox LAC 02/10/2004 LAC @ MIN L 24 10 5 11 45.5 0 0 - 0 0 - 1 8 9 0 0 0 2 2 2
+p313
+aVDoug Overton LAC 02/10/2004 LAC @ MIN L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p314
+aVChris Kaman LAC 02/10/2004 LAC @ MIN L 19 9 4 7 57.1 0 0 - 1 2 50.0 4 5 9 0 0 1 1 3 -16
+p315
+aVMatt Barnes LAC 02/10/2004 LAC @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 0 1
+p316
+aVMarko Jaric LAC 02/10/2004 LAC @ MIN L 42 8 3 12 25.0 0 2 0.0 2 2 100.0 2 2 4 12 1 0 1 2 -13
+p317
+aVCorey Maggette LAC 02/10/2004 LAC @ MIN L 45 34 9 16 56.3 3 8 37.5 13 17 76.5 2 1 3 2 0 0 6 2 -13
+p318
+aVKeyon Dooling LAC 02/10/2004 LAC @ MIN L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p319
+aVPredrag Drobnjak LAC 02/10/2004 LAC @ MIN L 14 4 1 4 25.0 0 1 0.0 2 2 100.0 2 1 3 1 1 1 0 2 4
+p320
+aVElton Brand LAC 02/10/2004 LAC @ MIN L 38 12 5 10 50.0 0 0 - 2 4 50.0 2 3 5 3 1 0 3 3 -14
+p321
+aVKeyon Dooling LAC 02/08/2004 LAC @ NYK L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 2 3 -11
+p322
+aVChris Wilcox LAC 02/08/2004 LAC @ NYK L 27 13 5 8 62.5 0 0 - 3 3 100.0 2 4 6 0 0 0 0 3 -11
+p323
+aVEddie House LAC 02/08/2004 LAC @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p324
+aVElton Brand LAC 02/08/2004 LAC @ NYK L 44 28 7 11 63.6 0 0 - 14 16 87.5 3 3 6 3 3 1 3 2 -3
+p325
+aVMarko Jaric LAC 02/08/2004 LAC @ NYK L 41 13 5 12 41.7 1 4 25.0 2 2 100.0 3 3 6 6 1 0 0 3 -2
+p326
+aVCorey Maggette LAC 02/08/2004 LAC @ NYK L 43 28 6 16 37.5 2 5 40.0 14 15 93.3 2 6 8 3 3 0 3 2 0
+p327
+aVMatt Barnes LAC 02/08/2004 LAC @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p328
+aVQuentin Richardson LAC 02/08/2004 LAC @ NYK L 39 14 4 13 30.8 1 4 25.0 5 6 83.3 1 3 4 2 0 1 2 2 3
+p329
+aVChris Kaman LAC 02/08/2004 LAC @ NYK L 25 8 2 8 25.0 0 0 - 4 4 100.0 4 1 5 1 0 0 0 4 2
+p330
+aVMarko Jaric LAC 02/06/2004 LAC @ WAS L 38 13 4 12 33.3 2 2 100.0 3 3 100.0 0 4 4 3 1 0 5 4 -17
+p331
+aVCorey Maggette LAC 02/06/2004 LAC @ WAS L 28 22 4 12 33.3 1 3 33.3 13 15 86.7 2 6 8 1 1 0 1 5 -4
+p332
+aVElton Brand LAC 02/06/2004 LAC @ WAS L 42 15 4 15 26.7 0 0 - 7 7 100.0 8 2 10 5 2 1 4 4 -6
+p333
+aVChris Wilcox LAC 02/06/2004 LAC @ WAS L 15 10 4 8 50.0 0 0 - 2 3 66.7 3 1 4 1 0 0 0 5 -6
+p334
+aVMelvin Ely LAC 02/06/2004 LAC @ WAS L 8 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 8
+p335
+aVChris Kaman LAC 02/06/2004 LAC @ WAS L 28 2 1 3 33.3 0 0 - 0 0 - 3 5 8 1 1 3 2 3 -14
+p336
+aVEddie House LAC 02/06/2004 LAC @ WAS L 17 6 2 6 33.3 2 4 50.0 0 0 - 0 2 2 1 0 0 2 1 3
+p337
+aVMatt Barnes LAC 02/06/2004 LAC @ WAS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -21
+p338
+aVKeyon Dooling LAC 02/06/2004 LAC @ WAS L 15 4 2 2 100.0 0 0 - 0 0 - 2 0 2 2 1 0 2 2 8
+p339
+aVQuentin Richardson LAC 02/06/2004 LAC @ WAS L 43 24 9 21 42.9 1 5 20.0 5 5 100.0 6 2 8 2 1 0 3 4 -11
+p340
+aVQuentin Richardson LAC 02/04/2004 LAC @ BOS W 42 36 11 19 57.9 8 11 72.7 6 7 85.7 1 2 3 1 2 0 4 2 21
+p341
+aVEddie House LAC 02/04/2004 LAC @ BOS W 35 10 4 15 26.7 2 4 50.0 0 0 - 2 6 8 3 3 1 2 0 3
+p342
+aVElton Brand LAC 02/04/2004 LAC @ BOS W 38 22 9 17 52.9 0 0 - 4 5 80.0 5 6 11 6 2 4 3 2 21
+p343
+aVMatt Barnes LAC 02/04/2004 LAC @ BOS W 14 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 2 -12
+p344
+aVKeyon Dooling LAC 02/04/2004 LAC @ BOS W 15 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 4 0 0 0 0 9
+p345
+aVPredrag Drobnjak LAC 02/04/2004 LAC @ BOS W 5 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -9
+p346
+aVMarko Jaric LAC 02/04/2004 LAC @ BOS W 40 3 1 7 14.3 1 4 25.0 0 0 - 3 6 9 9 2 0 0 1 7
+p347
+aVChris Wilcox LAC 02/04/2004 LAC @ BOS W 23 8 3 9 33.3 0 0 - 2 2 100.0 3 3 6 0 1 0 1 1 1
+p348
+aVChris Kaman LAC 02/04/2004 LAC @ BOS W 28 11 4 5 80.0 0 0 - 3 4 75.0 2 4 6 2 1 2 2 3 4
+p349
+aVPredrag Drobnjak LAC 02/02/2004 LAC @ ATL W 5 2 1 6 16.7 0 0 - 0 0 - 2 1 3 0 1 0 0 1 -2
+p350
+aVMatt Barnes LAC 02/02/2004 LAC @ ATL W 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -18
+p351
+aVMarko Jaric LAC 02/02/2004 LAC @ ATL W 44 20 9 16 56.3 2 5 40.0 0 2 0.0 1 6 7 3 5 1 1 4 7
+p352
+aVEddie House LAC 02/02/2004 LAC @ ATL W 27 11 4 10 40.0 3 5 60.0 0 0 - 2 1 3 3 0 0 0 2 12
+p353
+aVElton Brand LAC 02/02/2004 LAC @ ATL W 41 22 8 19 42.1 0 0 - 6 7 85.7 4 8 12 6 2 1 3 3 9
+p354
+aVDoug Overton LAC 02/02/2004 LAC @ ATL W 6 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -2
+p355
+aVChris Kaman LAC 02/02/2004 LAC @ ATL W 28 4 2 5 40.0 0 0 - 0 0 - 1 6 7 2 1 1 1 1 10
+p356
+aVQuentin Richardson LAC 02/02/2004 LAC @ ATL W 41 14 5 15 33.3 1 4 25.0 3 5 60.0 3 9 12 3 0 0 2 3 12
+p357
+aVChris Wilcox LAC 02/02/2004 LAC @ ATL W 22 18 8 12 66.7 0 0 - 2 3 66.7 3 1 4 1 0 0 2 2 -5
+p358
+aVCorey Maggette LAC 02/02/2004 LAC @ ATL W 13 9 3 6 50.0 1 2 50.0 2 2 100.0 2 1 3 2 1 0 2 1 7
+p359
+aVChris Wilcox LAC 01/31/2004 LAC @ ORL W 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 4 8
+p360
+aVChris Kaman LAC 01/31/2004 LAC @ ORL W 24 4 1 5 20.0 0 0 - 2 2 100.0 2 6 8 0 2 2 4 4 3
+p361
+aVCorey Maggette LAC 01/31/2004 LAC @ ORL W 35 16 5 10 50.0 0 1 0.0 6 6 100.0 1 3 4 1 0 0 2 3 5
+p362
+aVMatt Barnes LAC 01/31/2004 LAC @ ORL W 21 7 3 4 75.0 1 1 100.0 0 0 - 0 6 6 6 0 1 0 1 12
+p363
+aVMarko Jaric LAC 01/31/2004 LAC @ ORL W 37 23 7 17 41.2 2 4 50.0 7 7 100.0 2 3 5 6 4 1 2 1 2
+p364
+aVMelvin Ely LAC 01/31/2004 LAC @ ORL W 6 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -2
+p365
+aVDoug Overton LAC 01/31/2004 LAC @ ORL W 11 6 3 3 100.0 0 0 - 0 0 - 1 0 1 4 0 0 2 0 7
+p366
+aVPredrag Drobnjak LAC 01/31/2004 LAC @ ORL W 13 13 5 8 62.5 1 1 100.0 2 2 100.0 1 1 2 0 1 0 1 2 -3
+p367
+aVQuentin Richardson LAC 01/31/2004 LAC @ ORL W 40 21 7 13 53.8 6 10 60.0 1 2 50.0 1 2 3 3 1 0 1 2 1
+p368
+aVElton Brand LAC 01/31/2004 LAC @ ORL W 41 21 7 10 70.0 0 0 - 7 9 77.8 2 6 8 5 0 1 1 2 12
+p369
+aVQuentin Richardson LAC 01/30/2004 LAC @ MIA L 39 17 8 17 47.1 1 6 16.7 0 0 - 4 3 7 1 1 1 4 4 -15
+p370
+aVMatt Barnes LAC 01/30/2004 LAC @ MIA L 29 5 1 2 50.0 0 0 - 3 4 75.0 1 3 4 1 1 0 3 4 -10
+p371
+aVCorey Maggette LAC 01/30/2004 LAC @ MIA L 47 16 6 15 40.0 1 3 33.3 3 5 60.0 0 5 5 2 0 0 4 5 -7
+p372
+aVChris Kaman LAC 01/30/2004 LAC @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p373
+aVElton Brand LAC 01/30/2004 LAC @ MIA L 44 23 7 14 50.0 0 0 - 9 11 81.8 6 9 15 2 0 5 5 5 -13
+p374
+aVMarko Jaric LAC 01/30/2004 LAC @ MIA L 32 10 4 7 57.1 2 3 66.7 0 0 - 1 3 4 4 5 0 1 6 0
+p375
+aVEddie House LAC 01/30/2004 LAC @ MIA L 26 10 4 11 36.4 2 3 66.7 0 0 - 0 1 1 2 4 0 1 0 -3
+p376
+aVChris Wilcox LAC 01/30/2004 LAC @ MIA L 19 7 3 6 50.0 0 0 - 1 1 100.0 0 2 2 1 0 0 6 6 -1
+p377
+aVChris Kaman LAC 01/27/2004 LAC vs. CHI W 25 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 0 1 0 4 14
+p378
+aVCorey Maggette LAC 01/27/2004 LAC vs. CHI W 38 28 10 13 76.9 3 3 100.0 5 5 100.0 2 4 6 5 1 0 2 2 14
+p379
+aVMelvin Ely LAC 01/27/2004 LAC vs. CHI W 10 4 2 4 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 1 1 -4
+p380
+aVMarko Jaric LAC 01/27/2004 LAC vs. CHI W 39 14 6 10 60.0 0 2 0.0 2 2 100.0 0 4 4 10 4 0 1 3 19
+p381
+aVDoug Overton LAC 01/27/2004 LAC vs. CHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p382
+aVMatt Barnes LAC 01/27/2004 LAC vs. CHI W 15 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 2 -14
+p383
+aVQuentin Richardson LAC 01/27/2004 LAC vs. CHI W 42 18 8 20 40.0 1 4 25.0 1 2 50.0 1 6 7 2 0 1 0 0 12
+p384
+aVElton Brand LAC 01/27/2004 LAC vs. CHI W 41 20 6 11 54.5 0 0 - 8 10 80.0 4 7 11 5 1 4 7 2 14
+p385
+aVEddie House LAC 01/27/2004 LAC vs. CHI W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 1
+p386
+aVChris Wilcox LAC 01/27/2004 LAC vs. CHI W 16 10 5 7 71.4 0 0 - 0 0 - 1 4 5 0 0 0 3 2 1
+p387
+aVChris Wilcox LAC 01/26/2004 LAC @ UTA L 22 7 3 5 60.0 0 0 - 1 2 50.0 2 4 6 0 0 0 0 3 -6
+p388
+aVMatt Barnes LAC 01/26/2004 LAC @ UTA L 25 4 1 5 20.0 0 1 0.0 2 2 100.0 2 5 7 4 1 0 0 3 1
+p389
+aVElton Brand LAC 01/26/2004 LAC @ UTA L 42 18 6 15 40.0 0 0 - 6 8 75.0 3 6 9 6 1 2 0 5 1
+p390
+aVQuentin Richardson LAC 01/26/2004 LAC @ UTA L 32 4 2 5 40.0 0 1 0.0 0 2 0.0 1 0 1 0 3 1 3 0 -9
+p391
+aVMarko Jaric LAC 01/26/2004 LAC @ UTA L 21 6 3 6 50.0 0 1 0.0 0 0 - 1 3 4 2 0 0 3 2 -11
+p392
+aVCorey Maggette LAC 01/26/2004 LAC @ UTA L 31 15 5 10 50.0 0 1 0.0 5 5 100.0 0 2 2 5 1 1 3 6 -2
+p393
+aVMelvin Ely LAC 01/26/2004 LAC @ UTA L 13 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 0 0 2 1 3 -4
+p394
+aVChris Kaman LAC 01/26/2004 LAC @ UTA L 18 5 1 5 20.0 0 0 - 3 4 75.0 2 0 2 0 0 0 0 3 -1
+p395
+aVDoug Overton LAC 01/26/2004 LAC @ UTA L 28 12 6 10 60.0 0 0 - 0 0 - 0 1 1 2 1 0 4 4 2
+p396
+aVPredrag Drobnjak LAC 01/26/2004 LAC @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p397
+aVEddie House LAC 01/26/2004 LAC @ UTA L 7 15 6 7 85.7 3 4 75.0 0 1 0.0 0 0 0 0 1 0 0 2 4
+p398
+aVMatt Barnes LAC 01/24/2004 LAC @ SEA L 27 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 1 0 0 1 5 -2
+p399
+aVMarko Jaric LAC 01/24/2004 LAC @ SEA L 35 5 2 6 33.3 0 2 0.0 1 2 50.0 4 0 4 7 1 0 3 4 1
+p400
+aVCorey Maggette LAC 01/24/2004 LAC @ SEA L 40 28 10 20 50.0 2 7 28.6 6 10 60.0 3 7 10 3 1 0 0 2 -7
+p401
+aVElton Brand LAC 01/24/2004 LAC @ SEA L 41 26 8 13 61.5 0 0 - 10 10 100.0 6 10 16 4 0 1 3 1 -4
+p402
+aVChris Wilcox LAC 01/24/2004 LAC @ SEA L 20 8 4 7 57.1 0 0 - 0 0 - 3 2 5 1 0 0 0 0 -4
+p403
+aVQuentin Richardson LAC 01/24/2004 LAC @ SEA L 42 22 7 22 31.8 3 9 33.3 5 7 71.4 1 4 5 0 2 0 2 3 1
+p404
+aVEddie House LAC 01/24/2004 LAC @ SEA L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 1 -6
+p405
+aVChris Kaman LAC 01/24/2004 LAC @ SEA L 17 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 1 0 1 0 0 -3
+p406
+aVPredrag Drobnjak LAC 01/24/2004 LAC @ SEA L 4 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -1
+p407
+aVPredrag Drobnjak LAC 01/23/2004 LAC vs. UTA W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p408
+aVMarko Jaric LAC 01/23/2004 LAC vs. UTA W 30 11 4 6 66.7 1 2 50.0 2 3 66.7 1 2 3 3 3 0 0 2 12
+p409
+aVChris Wilcox LAC 01/23/2004 LAC vs. UTA W 13 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 3 5 0
+p410
+aVChris Kaman LAC 01/23/2004 LAC vs. UTA W 30 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 0 0 2 2 5 4
+p411
+aVQuentin Richardson LAC 01/23/2004 LAC vs. UTA W 43 29 11 20 55.0 3 8 37.5 4 4 100.0 4 4 8 6 3 0 2 1 14
+p412
+aVElton Brand LAC 01/23/2004 LAC vs. UTA W 42 20 4 9 44.4 0 0 - 12 14 85.7 2 7 9 5 0 3 3 2 21
+p413
+aVMatt Barnes LAC 01/23/2004 LAC vs. UTA W 20 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 2 0 1 4 -4
+p414
+aVEddie House LAC 01/23/2004 LAC vs. UTA W 19 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 1 0 2 1 1
+p415
+aVCorey Maggette LAC 01/23/2004 LAC vs. UTA W 35 17 3 10 30.0 1 3 33.3 10 17 58.8 1 6 7 5 0 1 5 5 13
+p416
+aVDoug Overton LAC 01/21/2004 LAC vs. GSW W 16 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 1 2 0 1 0 7
+p417
+aVChris Wilcox LAC 01/21/2004 LAC vs. GSW W 8 6 3 6 50.0 0 0 - 0 0 - 5 1 6 1 0 0 0 4 8
+p418
+aVQuentin Richardson LAC 01/21/2004 LAC vs. GSW W 39 25 9 20 45.0 4 6 66.7 3 5 60.0 3 2 5 1 1 0 3 2 17
+p419
+aVElton Brand LAC 01/21/2004 LAC vs. GSW W 44 16 5 16 31.3 0 0 - 6 9 66.7 6 7 13 8 1 4 1 2 -1
+p420
+aVMarko Jaric LAC 01/21/2004 LAC vs. GSW W 19 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 0 0 0 0 1 -21
+p421
+aVPredrag Drobnjak LAC 01/21/2004 LAC vs. GSW W 11 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 6
+p422
+aVChris Kaman LAC 01/21/2004 LAC vs. GSW W 16 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -14
+p423
+aVEddie House LAC 01/21/2004 LAC vs. GSW W 20 12 5 5 100.0 2 2 100.0 0 0 - 0 3 3 4 1 0 1 6 19
+p424
+aVMatt Barnes LAC 01/21/2004 LAC vs. GSW W 26 13 5 14 35.7 1 3 33.3 2 4 50.0 7 3 10 0 2 0 2 5 5
+p425
+aVCorey Maggette LAC 01/21/2004 LAC vs. GSW W 41 22 6 17 35.3 1 2 50.0 9 9 100.0 2 6 8 3 1 0 3 0 -6
+p426
+aVKeyon Dooling LAC 01/19/2004 LAC vs. SAC L 4 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 0 4
+p427
+aVMelvin Ely LAC 01/19/2004 LAC vs. SAC L 12 4 2 2 100.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 1 0
+p428
+aVElton Brand LAC 01/19/2004 LAC vs. SAC L 30 24 9 15 60.0 0 0 - 6 7 85.7 3 3 6 1 1 0 3 4 -22
+p429
+aVChris Wilcox LAC 01/19/2004 LAC vs. SAC L 17 5 2 6 33.3 0 0 - 1 1 100.0 1 1 2 0 0 0 0 3 0
+p430
+aVMarko Jaric LAC 01/19/2004 LAC vs. SAC L 24 6 2 5 40.0 2 3 66.7 0 0 - 1 0 1 3 0 0 3 0 -20
+p431
+aVQuentin Richardson LAC 01/19/2004 LAC vs. SAC L 36 18 8 22 36.4 1 4 25.0 1 2 50.0 1 3 4 2 0 0 3 0 -25
+p432
+aVDoug Overton LAC 01/19/2004 LAC vs. SAC L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -4
+p433
+aVMatt Barnes LAC 01/19/2004 LAC vs. SAC L 20 4 1 4 25.0 0 1 0.0 2 3 66.7 3 5 8 3 1 0 2 2 -3
+p434
+aVChris Kaman LAC 01/19/2004 LAC vs. SAC L 20 4 2 5 40.0 0 0 - 0 0 - 4 2 6 3 1 2 2 1 -15
+p435
+aVPredrag Drobnjak LAC 01/19/2004 LAC vs. SAC L 17 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -13
+p436
+aVCorey Maggette LAC 01/19/2004 LAC vs. SAC L 30 14 5 9 55.6 0 1 0.0 4 5 80.0 0 9 9 5 0 1 0 1 -25
+p437
+aVEddie House LAC 01/19/2004 LAC vs. SAC L 22 15 6 11 54.5 2 4 50.0 1 1 100.0 1 0 1 1 2 0 1 2 -2
+p438
+aVChris Kaman LAC 01/17/2004 LAC @ LAL L 35 6 3 7 42.9 0 0 - 0 0 - 2 6 8 0 0 2 4 3 -8
+p439
+aVCorey Maggette LAC 01/17/2004 LAC @ LAL L 45 18 6 20 30.0 0 6 0.0 6 7 85.7 2 11 13 4 0 1 2 3 -3
+p440
+aVKeyon Dooling LAC 01/17/2004 LAC @ LAL L 17 4 1 7 14.3 0 3 0.0 2 2 100.0 1 2 3 1 0 0 2 2 -4
+p441
+aVMarko Jaric LAC 01/17/2004 LAC @ LAL L 33 15 6 13 46.2 2 3 66.7 1 4 25.0 2 1 3 3 3 0 1 4 14
+p442
+aVDoug Overton LAC 01/17/2004 LAC @ LAL L 21 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 2 1 -11
+p443
+aVPredrag Drobnjak LAC 01/17/2004 LAC @ LAL L 14 2 1 7 14.3 0 1 0.0 0 1 0.0 1 0 1 0 0 0 0 1 -12
+p444
+aVElton Brand LAC 01/17/2004 LAC @ LAL L 41 35 11 20 55.0 0 0 - 13 16 81.3 8 12 20 3 0 1 2 3 8
+p445
+aVEddie House LAC 01/17/2004 LAC @ LAL L 34 7 3 9 33.3 1 3 33.3 0 0 - 1 1 2 5 4 0 1 4 6
+p446
+aVBobby Simmons LAC 01/16/2004 LAC vs. MIA L 16 4 2 5 40.0 0 0 - 0 0 - 2 0 2 3 0 0 1 2 -3
+p447
+aVMelvin Ely LAC 01/16/2004 LAC vs. MIA L 5 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 0
+p448
+aVChris Kaman LAC 01/16/2004 LAC vs. MIA L 28 6 3 5 60.0 0 0 - 0 0 - 0 6 6 2 0 2 2 1 4
+p449
+aVMarko Jaric LAC 01/16/2004 LAC vs. MIA L 45 8 3 6 50.0 1 1 100.0 1 4 25.0 0 8 8 11 0 0 2 3 1
+p450
+aVChris Wilcox LAC 01/16/2004 LAC vs. MIA L 18 2 1 6 16.7 0 0 - 0 0 - 1 0 1 1 0 1 1 3 -8
+p451
+aVCorey Maggette LAC 01/16/2004 LAC vs. MIA L 44 21 6 19 31.6 0 1 0.0 9 11 81.8 2 4 6 5 0 1 2 2 0
+p452
+aVEddie House LAC 01/16/2004 LAC vs. MIA L 32 17 6 13 46.2 1 1 100.0 4 4 100.0 1 3 4 4 1 0 2 3 3
+p453
+aVElton Brand LAC 01/16/2004 LAC vs. MIA L 40 22 8 15 53.3 0 0 - 6 10 60.0 4 8 12 1 0 4 2 4 0
+p454
+aVDoug Overton LAC 01/16/2004 LAC vs. MIA L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p455
+aVPredrag Drobnjak LAC 01/13/2004 LAC vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p456
+aVMarko Jaric LAC 01/13/2004 LAC vs. POR W 46 13 5 12 41.7 1 5 20.0 2 4 50.0 1 6 7 7 3 0 3 2 13
+p457
+aVBobby Simmons LAC 01/13/2004 LAC vs. POR W 38 15 5 12 41.7 0 0 - 5 6 83.3 6 1 7 6 1 0 0 5 1
+p458
+aVChris Kaman LAC 01/13/2004 LAC vs. POR W 31 8 4 7 57.1 0 0 - 0 0 - 4 6 10 4 1 2 2 2 10
+p459
+aVChris Wilcox LAC 01/13/2004 LAC vs. POR W 21 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 1 -4
+p460
+aVCorey Maggette LAC 01/13/2004 LAC vs. POR W 47 32 12 25 48.0 3 5 60.0 5 5 100.0 3 4 7 3 1 0 2 3 10
+p461
+aVEddie House LAC 01/13/2004 LAC vs. POR W 19 10 4 8 50.0 1 3 33.3 1 2 50.0 0 2 2 2 5 1 0 2 0
+p462
+aVDoug Overton LAC 01/13/2004 LAC vs. POR W 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 2 -5
+p463
+aVElton Brand LAC 01/13/2004 LAC vs. POR W 50 18 6 16 37.5 0 0 - 6 12 50.0 4 5 9 7 0 1 1 2 13
+p464
+aVBobby Simmons LAC 01/11/2004 LAC vs. MEM L 37 16 7 10 70.0 0 0 - 2 2 100.0 4 3 7 5 1 0 1 2 1
+p465
+aVChris Kaman LAC 01/11/2004 LAC vs. MEM L 38 11 5 10 50.0 0 0 - 1 2 50.0 1 8 9 0 0 1 3 3 4
+p466
+aVElton Brand LAC 01/11/2004 LAC vs. MEM L 44 17 7 14 50.0 0 0 - 3 4 75.0 7 5 12 5 2 2 1 6 6
+p467
+aVEddie House LAC 01/11/2004 LAC vs. MEM L 18 15 5 10 50.0 3 4 75.0 2 2 100.0 1 0 1 3 1 0 2 3 -16
+p468
+aVQuentin Richardson LAC 01/11/2004 LAC vs. MEM L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -7
+p469
+aVPredrag Drobnjak LAC 01/11/2004 LAC vs. MEM L 6 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p470
+aVGlen Rice LAC 01/11/2004 LAC vs. MEM L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 1 0 -1
+p471
+aVChris Wilcox LAC 01/11/2004 LAC vs. MEM L 17 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 0 0 3 5 -9
+p472
+aVMarko Jaric LAC 01/11/2004 LAC vs. MEM L 36 23 8 13 61.5 3 4 75.0 4 4 100.0 0 1 1 8 4 0 3 1 15
+p473
+aVCorey Maggette LAC 01/11/2004 LAC vs. MEM L 47 21 7 18 38.9 1 3 33.3 6 6 100.0 0 4 4 1 1 0 5 3 5
+p474
+aVBobby Simmons LAC 01/09/2004 LAC @ TOR W 42 8 3 10 30.0 0 1 0.0 2 2 100.0 0 3 3 5 3 0 1 4 19
+p475
+aVChris Wilcox LAC 01/09/2004 LAC @ TOR W 24 17 8 10 80.0 0 0 - 1 2 50.0 3 5 8 3 0 1 0 4 6
+p476
+aVEddie House LAC 01/09/2004 LAC @ TOR W 13 9 3 8 37.5 0 3 0.0 3 4 75.0 0 2 2 0 0 0 0 1 -2
+p477
+aVMarko Jaric LAC 01/09/2004 LAC @ TOR W 42 8 2 6 33.3 0 0 - 4 4 100.0 0 3 3 5 3 0 3 2 2
+p478
+aVDoug Overton LAC 01/09/2004 LAC @ TOR W 35 0 0 5 0.0 0 3 0.0 0 0 - 1 3 4 2 0 0 0 0 12
+p479
+aVKeyon Dooling LAC 01/09/2004 LAC @ TOR W 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p480
+aVGlen Rice LAC 01/09/2004 LAC @ TOR W 28 11 3 7 42.9 1 3 33.3 4 4 100.0 0 4 4 1 0 0 4 1 2
+p481
+aVElton Brand LAC 01/09/2004 LAC @ TOR W 39 19 8 13 61.5 0 0 - 3 4 75.0 7 7 14 2 1 1 7 4 11
+p482
+aVChris Kaman LAC 01/09/2004 LAC @ TOR W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 1 0 1
+p483
+aVKeyon Dooling LAC 01/07/2004 LAC @ PHI L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 1 0 0 0 0
+p484
+aVChris Kaman LAC 01/07/2004 LAC @ PHI L 25 8 4 8 50.0 0 0 - 0 1 0.0 1 3 4 0 0 0 2 3 -13
+p485
+aVMarko Jaric LAC 01/07/2004 LAC @ PHI L 17 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 4 1 -3
+p486
+aVPredrag Drobnjak LAC 01/07/2004 LAC @ PHI L 10 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p487
+aVElton Brand LAC 01/07/2004 LAC @ PHI L 34 26 8 10 80.0 0 0 - 10 13 76.9 5 7 12 1 0 0 4 2 -19
+p488
+aVDoug Overton LAC 01/07/2004 LAC @ PHI L 33 6 3 10 30.0 0 1 0.0 0 0 - 0 1 1 2 2 0 2 4 -17
+p489
+aVGlen Rice LAC 01/07/2004 LAC @ PHI L 23 6 2 7 28.6 0 2 0.0 2 2 100.0 1 4 5 1 1 0 1 1 9
+p490
+aVEddie House LAC 01/07/2004 LAC @ PHI L 32 9 4 10 40.0 1 5 20.0 0 0 - 2 4 6 5 3 0 1 4 -30
+p491
+aVQuentin Richardson LAC 01/07/2004 LAC @ PHI L 35 12 3 9 33.3 2 4 50.0 4 4 100.0 0 1 1 3 0 1 4 2 -23
+p492
+aVChris Wilcox LAC 01/07/2004 LAC @ PHI L 25 9 2 8 25.0 0 0 - 5 6 83.3 3 2 5 0 1 0 1 2 0
+p493
+aVEddie House LAC 01/06/2004 LAC @ NJN L 22 6 3 11 27.3 0 3 0.0 0 0 - 0 2 2 5 0 0 0 1 -4
+p494
+aVBobby Simmons LAC 01/06/2004 LAC @ NJN L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 5 -1
+p495
+aVCorey Maggette LAC 01/06/2004 LAC @ NJN L 20 7 2 7 28.6 1 3 33.3 2 2 100.0 0 3 3 0 1 0 5 2 -14
+p496
+aVMarko Jaric LAC 01/06/2004 LAC @ NJN L 28 10 4 11 36.4 0 2 0.0 2 5 40.0 0 1 1 5 3 0 4 2 -14
+p497
+aVChris Kaman LAC 01/06/2004 LAC @ NJN L 28 11 5 8 62.5 0 0 - 1 2 50.0 2 6 8 2 0 3 2 2 -10
+p498
+aVDoug Overton LAC 01/06/2004 LAC @ NJN L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p499
+aVQuentin Richardson LAC 01/06/2004 LAC @ NJN L 24 6 3 11 27.3 0 1 0.0 0 0 - 2 1 3 1 0 0 4 4 -13
+p500
+aVElton Brand LAC 01/06/2004 LAC @ NJN L 34 11 3 7 42.9 0 0 - 5 6 83.3 7 9 16 1 1 0 4 2 -19
+p501
+aVChris Wilcox LAC 01/06/2004 LAC @ NJN L 12 8 2 4 50.0 0 0 - 4 4 100.0 1 1 2 0 0 0 1 2 3
+p502
+aVKeyon Dooling LAC 01/06/2004 LAC @ NJN L 13 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 2 0 1 1 2 2
+p503
+aVPredrag Drobnjak LAC 01/06/2004 LAC @ NJN L 21 10 4 7 57.1 0 1 0.0 2 2 100.0 2 3 5 1 0 2 0 1 -7
+p504
+aVGlen Rice LAC 01/06/2004 LAC @ NJN L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 -3
+p505
+aVPredrag Drobnjak LAC 01/04/2004 LAC vs. LAL W 21 6 2 5 40.0 0 0 - 2 3 66.7 1 4 5 1 0 1 0 2 2
+p506
+aVElton Brand LAC 01/04/2004 LAC vs. LAL W 42 30 9 15 60.0 0 0 - 12 14 85.7 6 9 15 6 0 5 4 4 -1
+p507
+aVChris Wilcox LAC 01/04/2004 LAC vs. LAL W 11 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 0 2
+p508
+aVCorey Maggette LAC 01/04/2004 LAC vs. LAL W 40 16 6 11 54.5 0 1 0.0 4 7 57.1 2 8 10 3 0 0 5 3 9
+p509
+aVQuentin Richardson LAC 01/04/2004 LAC vs. LAL W 41 20 7 19 36.8 2 7 28.6 4 6 66.7 0 0 0 3 1 0 3 2 3
+p510
+aVGlen Rice LAC 01/04/2004 LAC vs. LAL W 16 6 2 3 66.7 0 1 0.0 2 2 100.0 1 3 4 2 0 0 0 1 -5
+p511
+aVDoug Overton LAC 01/04/2004 LAC vs. LAL W 38 14 7 12 58.3 0 1 0.0 0 0 - 3 4 7 6 1 0 4 4 8
+p512
+aVKeyon Dooling LAC 01/04/2004 LAC vs. LAL W 10 3 1 5 20.0 1 1 100.0 0 0 - 0 0 0 0 1 1 3 1 -4
+p513
+aVChris Kaman LAC 01/04/2004 LAC vs. LAL W 21 2 1 2 50.0 0 0 - 0 0 - 0 8 8 1 0 1 3 3 1
+p514
+aVPredrag Drobnjak LAC 01/03/2004 LAC vs. SAC L 24 22 8 17 47.1 0 1 0.0 6 6 100.0 4 1 5 2 1 0 1 2 8
+p515
+aVChris Wilcox LAC 01/03/2004 LAC vs. SAC L 23 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 2 1 0 2 5 -1
+p516
+aVChris Kaman LAC 01/03/2004 LAC vs. SAC L 13 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 2 0 -10
+p517
+aVMarko Jaric LAC 01/03/2004 LAC vs. SAC L 21 5 2 6 33.3 0 1 0.0 1 2 50.0 1 0 1 4 1 0 1 2 -13
+p518
+aVElton Brand LAC 01/03/2004 LAC vs. SAC L 36 19 8 14 57.1 0 0 - 3 5 60.0 3 6 9 4 2 2 1 5 -11
+p519
+aVQuentin Richardson LAC 01/03/2004 LAC vs. SAC L 39 21 9 22 40.9 2 8 25.0 1 2 50.0 2 5 7 1 0 1 1 1 -6
+p520
+aVCorey Maggette LAC 01/03/2004 LAC vs. SAC L 39 21 7 16 43.8 1 2 50.0 6 6 100.0 1 2 3 5 1 0 1 3 -12
+p521
+aVDoug Overton LAC 01/03/2004 LAC vs. SAC L 27 8 4 7 57.1 0 0 - 0 0 - 0 3 3 6 2 0 1 6 6
+p522
+aVBobby Simmons LAC 01/03/2004 LAC vs. SAC L 18 5 2 2 100.0 0 0 - 1 2 50.0 3 0 3 0 1 0 1 3 4
+p523
+aVMarko Jaric LAC 12/31/2003 LAC vs. DEN W 36 7 3 3 100.0 1 1 100.0 0 0 - 1 4 5 8 1 0 0 2 18
+p524
+aVEddie House LAC 12/31/2003 LAC vs. DEN W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 3 4
+p525
+aVQuentin Richardson LAC 12/31/2003 LAC vs. DEN W 38 44 17 30 56.7 5 9 55.6 5 7 71.4 6 4 10 2 2 0 3 3 12
+p526
+aVBobby Simmons LAC 12/31/2003 LAC vs. DEN W 33 12 4 9 44.4 0 0 - 4 6 66.7 3 3 6 4 1 1 1 1 15
+p527
+aVCorey Maggette LAC 12/31/2003 LAC vs. DEN W 34 20 8 15 53.3 0 0 - 4 6 66.7 0 6 6 4 3 1 0 3 14
+p528
+aVChris Kaman LAC 12/31/2003 LAC vs. DEN W 27 8 2 7 28.6 0 0 - 4 5 80.0 1 4 5 0 0 1 1 2 17
+p529
+aVChris Wilcox LAC 12/31/2003 LAC vs. DEN W 17 4 2 6 33.3 0 0 - 0 0 - 2 1 3 2 2 1 1 3 1
+p530
+aVDoug Overton LAC 12/31/2003 LAC vs. DEN W 10 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 2 0 0 1 1 -5
+p531
+aVElton Brand LAC 12/31/2003 LAC vs. DEN W 39 20 8 14 57.1 0 0 - 4 5 80.0 2 8 10 5 0 1 2 5 4
+p532
+aVChris Kaman LAC 12/29/2003 LAC vs. PHX L 18 2 1 4 25.0 0 0 - 0 0 - 4 1 5 0 0 0 5 3 -2
+p533
+aVMarko Jaric LAC 12/29/2003 LAC vs. PHX L 20 6 2 4 50.0 1 1 100.0 1 2 50.0 0 1 1 1 1 0 4 2 -14
+p534
+aVQuentin Richardson LAC 12/29/2003 LAC vs. PHX L 41 24 9 21 42.9 2 6 33.3 4 6 66.7 4 8 12 4 1 1 1 0 -5
+p535
+aVElton Brand LAC 12/29/2003 LAC vs. PHX L 43 24 8 15 53.3 0 0 - 8 9 88.9 4 7 11 5 1 0 5 5 -4
+p536
+aVKeyon Dooling LAC 12/29/2003 LAC vs. PHX L 13 6 3 7 42.9 0 0 - 0 0 - 1 0 1 1 2 0 2 1 4
+p537
+aVChris Wilcox LAC 12/29/2003 LAC vs. PHX L 21 9 3 6 50.0 0 0 - 3 5 60.0 3 5 8 1 0 1 0 2 -14
+p538
+aVCorey Maggette LAC 12/29/2003 LAC vs. PHX L 40 26 8 14 57.1 1 2 50.0 9 10 90.0 2 3 5 3 0 1 3 3 1
+p539
+aVBobby Simmons LAC 12/29/2003 LAC vs. PHX L 26 8 3 9 33.3 0 0 - 2 2 100.0 2 2 4 0 1 0 0 4 -4
+p540
+aVDoug Overton LAC 12/29/2003 LAC vs. PHX L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 2 -2
+p541
+aVQuentin Richardson LAC 12/28/2003 LAC vs. TOR L 41 16 6 17 35.3 0 2 0.0 4 5 80.0 4 9 13 2 0 0 4 4 -1
+p542
+aVChris Wilcox LAC 12/28/2003 LAC vs. TOR L 26 11 4 9 44.4 0 0 - 3 4 75.0 1 3 4 0 0 0 1 2 -3
+p543
+aVCorey Maggette LAC 12/28/2003 LAC vs. TOR L 30 14 2 8 25.0 0 1 0.0 10 10 100.0 1 3 4 1 1 0 4 3 -11
+p544
+aVChris Kaman LAC 12/28/2003 LAC vs. TOR L 18 10 4 4 100.0 0 0 - 2 2 100.0 0 7 7 0 0 2 0 1 5
+p545
+aVGlen Rice LAC 12/28/2003 LAC vs. TOR L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -5
+p546
+aVBobby Simmons LAC 12/28/2003 LAC vs. TOR L 29 9 4 12 33.3 1 1 100.0 0 0 - 3 0 3 1 1 0 1 5 -8
+p547
+aVMarko Jaric LAC 12/28/2003 LAC vs. TOR L 29 6 2 11 18.2 1 5 20.0 1 1 100.0 0 2 2 7 0 1 0 1 -8
+p548
+aVElton Brand LAC 12/28/2003 LAC vs. TOR L 35 14 6 12 50.0 0 0 - 2 2 100.0 8 5 13 4 1 2 3 4 -2
+p549
+aVDoug Overton LAC 12/28/2003 LAC vs. TOR L 25 8 4 7 57.1 0 1 0.0 0 0 - 0 3 3 2 1 0 1 1 3
+p550
+aVElton Brand LAC 12/26/2003 LAC vs. PHI W 42 20 7 11 63.6 0 0 - 6 8 75.0 4 5 9 3 1 5 3 1 -1
+p551
+aVMarko Jaric LAC 12/26/2003 LAC vs. PHI W 34 11 5 13 38.5 0 3 0.0 1 1 100.0 2 3 5 7 2 1 4 1 3
+p552
+aVDoug Overton LAC 12/26/2003 LAC vs. PHI W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 3 1 0 0 3 0
+p553
+aVChris Kaman LAC 12/26/2003 LAC vs. PHI W 18 7 3 5 60.0 0 0 - 1 3 33.3 1 6 7 0 0 1 0 3 5
+p554
+aVQuentin Richardson LAC 12/26/2003 LAC vs. PHI W 37 22 8 15 53.3 5 7 71.4 1 2 50.0 0 5 5 2 0 1 3 1 7
+p555
+aVCorey Maggette LAC 12/26/2003 LAC vs. PHI W 34 18 6 13 46.2 0 1 0.0 6 7 85.7 0 2 2 4 1 0 2 4 4
+p556
+aVGlen Rice LAC 12/26/2003 LAC vs. PHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p557
+aVChris Wilcox LAC 12/26/2003 LAC vs. PHI W 33 14 5 9 55.6 0 0 - 4 7 57.1 2 4 6 2 2 1 2 4 5
+p558
+aVBobby Simmons LAC 12/26/2003 LAC vs. PHI W 23 7 2 6 33.3 0 0 - 3 4 75.0 2 3 5 1 0 0 2 3 -4
+p559
+aVChris Kaman LAC 12/23/2003 LAC @ SAS L 19 6 2 3 66.7 0 0 - 2 2 100.0 2 3 5 0 0 0 5 1 -16
+p560
+aVDoug Overton LAC 12/23/2003 LAC @ SAS L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -10
+p561
+aVQuentin Richardson LAC 12/23/2003 LAC @ SAS L 33 10 4 15 26.7 2 4 50.0 0 0 - 0 3 3 2 0 0 1 1 -9
+p562
+aVMarko Jaric LAC 12/23/2003 LAC @ SAS L 24 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 0 2 2 -14
+p563
+aVChris Wilcox LAC 12/23/2003 LAC @ SAS L 28 14 6 10 60.0 0 0 - 2 2 100.0 2 3 5 1 0 0 1 1 -5
+p564
+aVEddie House LAC 12/23/2003 LAC @ SAS L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 -5
+p565
+aVGlen Rice LAC 12/23/2003 LAC @ SAS L 11 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 2 1 -7
+p566
+aVBobby Simmons LAC 12/23/2003 LAC @ SAS L 23 5 2 6 33.3 0 0 - 1 3 33.3 1 6 7 1 3 0 2 2 -9
+p567
+aVKeyon Dooling LAC 12/23/2003 LAC @ SAS L 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -2
+p568
+aVOlden Polynice LAC 12/23/2003 LAC @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -2
+p569
+aVCorey Maggette LAC 12/23/2003 LAC @ SAS L 27 19 7 14 50.0 1 1 100.0 4 4 100.0 2 2 4 1 0 0 5 4 -7
+p570
+aVElton Brand LAC 12/23/2003 LAC @ SAS L 36 22 9 11 81.8 0 0 - 4 6 66.7 4 9 13 3 3 4 3 3 -19
+p571
+aVElton Brand LAC 12/20/2003 LAC @ DAL W 38 22 10 17 58.8 0 0 - 2 4 50.0 6 14 20 6 1 3 4 4 3
+p572
+aVCorey Maggette LAC 12/20/2003 LAC @ DAL W 37 26 9 18 50.0 2 4 50.0 6 6 100.0 1 1 2 3 3 0 2 1 0
+p573
+aVMarko Jaric LAC 12/20/2003 LAC @ DAL W 24 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 1 1 1 1 3 7
+p574
+aVChris Kaman LAC 12/20/2003 LAC @ DAL W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -2
+p575
+aVDoug Overton LAC 12/20/2003 LAC @ DAL W 24 11 5 6 83.3 1 1 100.0 0 0 - 0 2 2 1 1 1 1 2 3
+p576
+aVQuentin Richardson LAC 12/20/2003 LAC @ DAL W 37 25 9 27 33.3 3 10 30.0 4 4 100.0 7 6 13 3 1 1 3 5 11
+p577
+aVBobby Simmons LAC 12/20/2003 LAC @ DAL W 31 12 3 8 37.5 0 0 - 6 8 75.0 2 3 5 7 1 1 3 5 17
+p578
+aVChris Wilcox LAC 12/20/2003 LAC @ DAL W 21 8 4 6 66.7 0 0 - 0 2 0.0 3 2 5 1 0 0 2 3 6
+p579
+aVGlen Rice LAC 12/20/2003 LAC @ DAL W 24 9 3 7 42.9 1 4 25.0 2 2 100.0 0 3 3 3 1 0 1 3 5
+p580
+aVChris Wilcox LAC 12/19/2003 LAC @ HOU L 16 10 3 7 42.9 0 0 - 4 6 66.7 3 3 6 0 0 0 1 3 -2
+p581
+aVChris Kaman LAC 12/19/2003 LAC @ HOU L 28 5 2 8 25.0 0 0 - 1 1 100.0 3 1 4 1 0 0 2 2 -1
+p582
+aVKeyon Dooling LAC 12/19/2003 LAC @ HOU L 6 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 1 1 0 0 0
+p583
+aVBobby Simmons LAC 12/19/2003 LAC @ HOU L 35 9 4 9 44.4 0 0 - 1 3 33.3 3 5 8 3 6 0 0 0 -6
+p584
+aVDoug Overton LAC 12/19/2003 LAC @ HOU L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p585
+aVEddie House LAC 12/19/2003 LAC @ HOU L 9 6 2 5 40.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 0 2 4
+p586
+aVElton Brand LAC 12/19/2003 LAC @ HOU L 37 11 4 12 33.3 0 1 0.0 3 4 75.0 4 7 11 3 3 1 3 2 -21
+p587
+aVCorey Maggette LAC 12/19/2003 LAC @ HOU L 22 16 6 10 60.0 1 3 33.3 3 3 100.0 0 4 4 1 0 0 6 2 -14
+p588
+aVMelvin Ely LAC 12/19/2003 LAC @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p589
+aVQuentin Richardson LAC 12/19/2003 LAC @ HOU L 38 20 8 17 47.1 4 7 57.1 0 2 0.0 1 5 6 2 1 0 2 1 -15
+p590
+aVGlen Rice LAC 12/19/2003 LAC @ HOU L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p591
+aVMarko Jaric LAC 12/19/2003 LAC @ HOU L 30 6 3 11 27.3 0 2 0.0 0 0 - 1 0 1 5 0 0 0 2 -15
+p592
+aVElton Brand LAC 12/17/2003 LAC vs. MIL W 30 15 5 8 62.5 0 0 - 5 6 83.3 3 13 16 1 0 1 2 3 17
+p593
+aVChris Kaman LAC 12/17/2003 LAC vs. MIL W 27 5 2 7 28.6 0 0 - 1 2 50.0 2 5 7 1 1 0 7 5 3
+p594
+aVCorey Maggette LAC 12/17/2003 LAC vs. MIL W 30 17 6 11 54.5 0 0 - 5 6 83.3 1 7 8 5 1 0 2 2 18
+p595
+aVMarko Jaric LAC 12/17/2003 LAC vs. MIL W 37 10 3 14 21.4 1 2 50.0 3 4 75.0 1 4 5 4 2 1 3 2 12
+p596
+aVPredrag Drobnjak LAC 12/17/2003 LAC vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -9
+p597
+aVDoug Overton LAC 12/17/2003 LAC vs. MIL W 18 3 1 6 16.7 1 1 100.0 0 0 - 0 4 4 4 1 0 0 0 5
+p598
+aVQuentin Richardson LAC 12/17/2003 LAC vs. MIL W 25 2 1 10 10.0 0 3 0.0 0 0 - 1 3 4 1 1 0 3 1 -7
+p599
+aVKeyon Dooling LAC 12/17/2003 LAC vs. MIL W 6 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 2 -9
+p600
+aVChris Wilcox LAC 12/17/2003 LAC vs. MIL W 25 16 6 7 85.7 0 0 - 4 5 80.0 5 3 8 0 1 1 4 5 7
+p601
+aVBobby Simmons LAC 12/17/2003 LAC vs. MIL W 29 20 7 12 58.3 0 0 - 6 6 100.0 2 5 7 1 1 1 0 4 11
+p602
+aVMelvin Ely LAC 12/17/2003 LAC vs. MIL W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p603
+aVQuentin Richardson LAC 12/15/2003 LAC vs. NOH W 30 17 7 16 43.8 3 6 50.0 0 0 - 3 5 8 2 1 1 0 0 18
+p604
+aVElton Brand LAC 12/15/2003 LAC vs. NOH W 38 27 9 18 50.0 0 0 - 9 10 90.0 7 6 13 2 1 1 0 3 24
+p605
+aVCorey Maggette LAC 12/15/2003 LAC vs. NOH W 21 13 3 6 50.0 0 0 - 7 9 77.8 0 5 5 2 1 0 2 4 24
+p606
+aVChris Wilcox LAC 12/15/2003 LAC vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p607
+aVMelvin Ely LAC 12/15/2003 LAC vs. NOH W 17 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p608
+aVDoug Overton LAC 12/15/2003 LAC vs. NOH W 25 8 4 8 50.0 0 0 - 0 0 - 0 2 2 3 1 1 2 0 6
+p609
+aVBobby Simmons LAC 12/15/2003 LAC vs. NOH W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p610
+aVKeyon Dooling LAC 12/15/2003 LAC vs. NOH W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -2
+p611
+aVGlen Rice LAC 12/15/2003 LAC vs. NOH W 15 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 2 1 0 0 1 6
+p612
+aVChris Kaman LAC 12/15/2003 LAC vs. NOH W 30 6 3 6 50.0 0 0 - 0 0 - 0 8 8 4 0 1 1 4 36
+p613
+aVPredrag Drobnjak LAC 12/15/2003 LAC vs. NOH W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p614
+aVMarko Jaric LAC 12/15/2003 LAC vs. NOH W 35 19 6 9 66.7 2 2 100.0 5 6 83.3 1 2 3 8 4 1 4 3 30
+p615
+aVGlen Rice LAC 12/13/2003 LAC vs. PHX W 16 5 1 5 20.0 0 0 - 3 3 100.0 2 3 5 1 0 0 1 2 9
+p616
+aVDoug Overton LAC 12/13/2003 LAC vs. PHX W 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 5 0 0 1 3 7
+p617
+aVElton Brand LAC 12/13/2003 LAC vs. PHX W 38 21 9 16 56.3 0 0 - 3 6 50.0 3 11 14 1 1 1 5 3 9
+p618
+aVQuentin Richardson LAC 12/13/2003 LAC vs. PHX W 36 25 9 17 52.9 3 4 75.0 4 4 100.0 2 2 4 1 1 0 2 2 15
+p619
+aVMarko Jaric LAC 12/13/2003 LAC vs. PHX W 32 11 5 12 41.7 0 3 0.0 1 4 25.0 1 5 6 4 2 0 1 2 8
+p620
+aVChris Wilcox LAC 12/13/2003 LAC vs. PHX W 15 7 3 9 33.3 0 0 - 1 1 100.0 3 3 6 0 1 1 1 2 9
+p621
+aVCorey Maggette LAC 12/13/2003 LAC vs. PHX W 38 23 5 10 50.0 1 2 50.0 12 12 100.0 2 5 7 5 1 0 2 3 10
+p622
+aVChris Kaman LAC 12/13/2003 LAC vs. PHX W 33 10 5 8 62.5 0 0 - 0 0 - 2 6 8 2 0 1 3 3 4
+p623
+aVBobby Simmons LAC 12/13/2003 LAC vs. PHX W 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 2 2 4
+p624
+aVDoug Overton LAC 12/10/2003 LAC vs. DAL W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 3
+p625
+aVGlen Rice LAC 12/10/2003 LAC vs. DAL W 20 6 3 9 33.3 0 4 0.0 0 0 - 1 5 6 1 1 0 0 0 17
+p626
+aVBobby Simmons LAC 12/10/2003 LAC vs. DAL W 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p627
+aVCorey Maggette LAC 12/10/2003 LAC vs. DAL W 38 30 11 19 57.9 2 5 40.0 6 6 100.0 1 4 5 6 0 1 2 1 -2
+p628
+aVPredrag Drobnjak LAC 12/10/2003 LAC vs. DAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 6
+p629
+aVElton Brand LAC 12/10/2003 LAC vs. DAL W 39 18 7 10 70.0 0 0 - 4 8 50.0 3 7 10 3 1 3 5 2 -9
+p630
+aVChris Kaman LAC 12/10/2003 LAC vs. DAL W 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -20
+p631
+aVQuentin Richardson LAC 12/10/2003 LAC vs. DAL W 32 8 3 10 30.0 1 3 33.3 1 3 33.3 1 3 4 3 0 1 2 3 -4
+p632
+aVMarko Jaric LAC 12/10/2003 LAC vs. DAL W 26 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 7 1 0 3 4 -14
+p633
+aVChris Wilcox LAC 12/10/2003 LAC vs. DAL W 33 21 9 11 81.8 0 0 - 3 6 50.0 1 7 8 4 1 1 1 6 17
+p634
+aVKeyon Dooling LAC 12/10/2003 LAC vs. DAL W 18 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 3 0 0 2 2 9
+p635
+aVQuentin Richardson LAC 12/09/2003 LAC @ SAC L 41 13 4 12 33.3 2 8 25.0 3 3 100.0 1 4 5 4 1 0 2 4 -2
+p636
+aVChris Wilcox LAC 12/09/2003 LAC @ SAC L 15 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 2 1 3 -12
+p637
+aVDoug Overton LAC 12/09/2003 LAC @ SAC L 8 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -4
+p638
+aVPredrag Drobnjak LAC 12/09/2003 LAC @ SAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -10
+p639
+aVKeyon Dooling LAC 12/09/2003 LAC @ SAC L 23 10 5 8 62.5 0 0 - 0 0 - 1 1 2 2 0 0 1 4 -18
+p640
+aVElton Brand LAC 12/09/2003 LAC @ SAC L 39 15 4 12 33.3 0 0 - 7 9 77.8 7 6 13 3 0 4 5 2 -1
+p641
+aVChris Kaman LAC 12/09/2003 LAC @ SAC L 36 14 6 16 37.5 0 0 - 2 4 50.0 2 12 14 2 0 1 0 2 3
+p642
+aVMarko Jaric LAC 12/09/2003 LAC @ SAC L 37 7 3 11 27.3 1 6 16.7 0 0 - 1 2 3 3 3 0 2 2 -3
+p643
+aVCorey Maggette LAC 12/09/2003 LAC @ SAC L 35 27 6 14 42.9 1 4 25.0 14 16 87.5 2 3 5 3 2 0 4 2 -3
+p644
+aVMelvin Ely LAC 12/07/2003 LAC vs. MIN L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 9
+p645
+aVKeyon Dooling LAC 12/07/2003 LAC vs. MIN L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p646
+aVBobby Simmons LAC 12/07/2003 LAC vs. MIN L 22 2 1 6 16.7 0 0 - 0 0 - 4 2 6 1 0 0 2 1 -2
+p647
+aVMarko Jaric LAC 12/07/2003 LAC vs. MIN L 32 18 7 13 53.8 2 5 40.0 2 2 100.0 0 3 3 2 3 1 3 2 -13
+p648
+aVElton Brand LAC 12/07/2003 LAC vs. MIN L 37 13 4 15 26.7 0 0 - 5 6 83.3 6 2 8 3 0 2 2 5 -13
+p649
+aVQuentin Richardson LAC 12/07/2003 LAC vs. MIN L 41 14 4 9 44.4 3 3 100.0 3 4 75.0 3 6 9 3 3 0 6 1 -6
+p650
+aVDoug Overton LAC 12/07/2003 LAC vs. MIN L 16 0 0 3 0.0 0 0 - 0 0 - 0 0 0 4 1 0 0 2 11
+p651
+aVChris Kaman LAC 12/07/2003 LAC vs. MIN L 35 12 5 10 50.0 0 0 - 2 4 50.0 2 7 9 2 1 0 3 3 -9
+p652
+aVPredrag Drobnjak LAC 12/07/2003 LAC vs. MIN L 16 7 3 8 37.5 0 1 0.0 1 2 50.0 0 3 3 0 0 0 1 2 12
+p653
+aVCorey Maggette LAC 12/07/2003 LAC vs. MIN L 36 26 8 10 80.0 0 0 - 10 12 83.3 3 5 8 3 1 0 4 4 1
+p654
+aVChris Kaman LAC 12/05/2003 LAC @ UTA L 27 8 2 8 25.0 0 0 - 4 6 66.7 4 3 7 2 0 2 3 5 -10
+p655
+aVElton Brand LAC 12/05/2003 LAC @ UTA L 18 13 4 6 66.7 0 0 - 5 7 71.4 0 3 3 1 0 1 0 2 -5
+p656
+aVMelvin Ely LAC 12/05/2003 LAC @ UTA L 5 2 0 0 - 0 0 - 2 4 50.0 1 0 1 0 0 0 0 0 4
+p657
+aVDoug Overton LAC 12/05/2003 LAC @ UTA L 28 2 1 4 25.0 0 0 - 0 0 - 1 3 4 3 0 0 1 2 -19
+p658
+aVQuentin Richardson LAC 12/05/2003 LAC @ UTA L 35 7 3 19 15.8 1 9 11.1 0 0 - 1 4 5 0 0 2 1 1 -19
+p659
+aVMarko Jaric LAC 12/05/2003 LAC @ UTA L 29 3 1 4 25.0 1 4 25.0 0 0 - 0 3 3 3 0 2 1 2 -2
+p660
+aVPredrag Drobnjak LAC 12/05/2003 LAC @ UTA L 22 9 4 8 50.0 0 0 - 1 2 50.0 0 1 1 0 1 1 2 1 -13
+p661
+aVBobby Simmons LAC 12/05/2003 LAC @ UTA L 28 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 5 -12
+p662
+aVCorey Maggette LAC 12/05/2003 LAC @ UTA L 36 15 7 14 50.0 0 2 0.0 1 2 50.0 2 4 6 1 1 0 3 3 -16
+p663
+aVKeyon Dooling LAC 12/05/2003 LAC @ UTA L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 1 0 1 3 -3
+p664
+aVPredrag Drobnjak LAC 12/03/2003 LAC vs. CLE W 29 10 4 8 50.0 1 1 100.0 1 2 50.0 0 4 4 0 0 1 0 4 -8
+p665
+aVOlden Polynice LAC 12/03/2003 LAC vs. CLE W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 1 1 0 2 2 3
+p666
+aVDoug Overton LAC 12/03/2003 LAC vs. CLE W 26 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 7 0 0 0 0 21
+p667
+aVCorey Maggette LAC 12/03/2003 LAC vs. CLE W 35 22 5 12 41.7 1 2 50.0 11 14 78.6 0 2 2 5 0 0 2 1 -2
+p668
+aVBobby Simmons LAC 12/03/2003 LAC vs. CLE W 24 9 3 9 33.3 0 0 - 3 3 100.0 1 5 6 0 1 0 1 2 19
+p669
+aVMelvin Ely LAC 12/03/2003 LAC vs. CLE W 21 2 1 7 14.3 0 0 - 0 0 - 0 3 3 2 0 0 0 4 8
+p670
+aVChris Kaman LAC 12/03/2003 LAC vs. CLE W 37 14 6 12 50.0 0 0 - 2 3 66.7 4 10 14 2 0 3 3 3 15
+p671
+aVQuentin Richardson LAC 12/03/2003 LAC vs. CLE W 38 25 9 19 47.4 2 7 28.6 5 6 83.3 1 3 4 4 1 0 1 0 5
+p672
+aVMarko Jaric LAC 12/03/2003 LAC vs. CLE W 22 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 2 3 0 2 1 -11
+p673
+aVEddie House LAC 12/01/2003 LAC vs. SAS W 16 0 0 4 0.0 0 1 0.0 0 0 - 1 3 4 2 1 0 0 2 10
+p674
+aVMelvin Ely LAC 12/01/2003 LAC vs. SAS W 22 8 4 9 44.4 0 0 - 0 0 - 3 4 7 1 1 0 1 3 -4
+p675
+aVChris Kaman LAC 12/01/2003 LAC vs. SAS W 32 15 6 13 46.2 0 1 0.0 3 6 50.0 3 9 12 1 1 2 4 5 9
+p676
+aVBobby Simmons LAC 12/01/2003 LAC vs. SAS W 29 12 3 6 50.0 0 1 0.0 6 7 85.7 2 3 5 1 1 1 3 6 15
+p677
+aVQuentin Richardson LAC 12/01/2003 LAC vs. SAS W 37 10 5 13 38.5 0 3 0.0 0 0 - 1 6 7 2 0 0 4 4 0
+p678
+aVMarko Jaric LAC 12/01/2003 LAC vs. SAS W 28 13 3 8 37.5 1 1 100.0 6 8 75.0 0 5 5 3 3 1 2 1 16
+p679
+aVDoug Overton LAC 12/01/2003 LAC vs. SAS W 21 5 1 6 16.7 0 0 - 3 4 75.0 0 2 2 2 0 0 0 2 -6
+p680
+aVCorey Maggette LAC 12/01/2003 LAC vs. SAS W 40 24 8 14 57.1 0 1 0.0 8 10 80.0 3 4 7 1 0 0 0 4 4
+p681
+aVPredrag Drobnjak LAC 12/01/2003 LAC vs. SAS W 16 4 1 6 16.7 0 1 0.0 2 2 100.0 2 1 3 0 0 1 2 2 -4
+p682
+aVChris Wilcox LAC 11/29/2003 LAC vs. DEN L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 2 1 -11
+p683
+aVMelvin Ely LAC 11/29/2003 LAC vs. DEN L 34 15 7 13 53.8 0 1 0.0 1 2 50.0 3 5 8 0 0 5 0 4 8
+p684
+aVEddie House LAC 11/29/2003 LAC vs. DEN L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -6
+p685
+aVBobby Simmons LAC 11/29/2003 LAC vs. DEN L 18 10 3 6 50.0 0 0 - 4 4 100.0 3 3 6 0 1 0 2 2 11
+p686
+aVMarko Jaric LAC 11/29/2003 LAC vs. DEN L 17 4 0 3 0.0 0 2 0.0 4 4 100.0 0 1 1 2 0 0 1 2 -8
+p687
+aVDoug Overton LAC 11/29/2003 LAC vs. DEN L 17 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 2 -4
+p688
+aVCorey Maggette LAC 11/29/2003 LAC vs. DEN L 42 22 6 14 42.9 0 1 0.0 10 11 90.9 2 6 8 3 3 1 2 2 -13
+p689
+aVKeyon Dooling LAC 11/29/2003 LAC vs. DEN L 14 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 0 0
+p690
+aVQuentin Richardson LAC 11/29/2003 LAC vs. DEN L 37 14 6 18 33.3 2 7 28.6 0 1 0.0 4 5 9 1 1 0 4 3 -6
+p691
+aVPredrag Drobnjak LAC 11/29/2003 LAC vs. DEN L 19 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 0 1 0 2 2 -19
+p692
+aVGlen Rice LAC 11/29/2003 LAC vs. DEN L 12 5 1 5 20.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 2 4
+p693
+aVChris Kaman LAC 11/29/2003 LAC vs. DEN L 12 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 0 1 4 -16
+p694
+aVCorey Maggette LAC 11/27/2003 LAC vs. NJN L 28 20 6 13 46.2 0 3 0.0 8 9 88.9 3 3 6 3 0 0 2 5 8
+p695
+aVChris Wilcox LAC 11/27/2003 LAC vs. NJN L 31 15 7 14 50.0 0 0 - 1 1 100.0 3 7 10 1 0 1 4 6 -3
+p696
+aVDoug Overton LAC 11/27/2003 LAC vs. NJN L 23 12 5 9 55.6 0 1 0.0 2 3 66.7 0 2 2 1 1 0 2 4 -3
+p697
+aVEddie House LAC 11/27/2003 LAC vs. NJN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p698
+aVMelvin Ely LAC 11/27/2003 LAC vs. NJN L 10 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -3
+p699
+aVQuentin Richardson LAC 11/27/2003 LAC vs. NJN L 24 17 5 15 33.3 4 7 57.1 3 4 75.0 2 6 8 1 1 0 1 2 4
+p700
+aVChris Kaman LAC 11/27/2003 LAC vs. NJN L 20 12 4 7 57.1 0 0 - 4 4 100.0 2 3 5 0 0 0 1 2 -3
+p701
+aVBobby Simmons LAC 11/27/2003 LAC vs. NJN L 20 10 1 2 50.0 0 0 - 8 8 100.0 5 2 7 1 1 1 2 5 -16
+p702
+aVPredrag Drobnjak LAC 11/27/2003 LAC vs. NJN L 28 8 4 13 30.8 0 1 0.0 0 0 - 1 3 4 0 0 0 2 2 -4
+p703
+aVMarko Jaric LAC 11/27/2003 LAC vs. NJN L 31 2 1 7 14.3 0 2 0.0 0 0 - 0 4 4 4 1 0 4 2 -8
+p704
+aVKeyon Dooling LAC 11/27/2003 LAC vs. NJN L 23 0 0 4 0.0 0 1 0.0 0 1 0.0 1 2 3 4 3 0 0 2 -4
+p705
+aVQuentin Richardson LAC 11/24/2003 LAC vs. HOU L 9 1 0 4 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 -9
+p706
+aVEddie House LAC 11/24/2003 LAC vs. HOU L 27 8 3 11 27.3 0 2 0.0 2 2 100.0 1 1 2 5 2 0 0 0 -4
+p707
+aVDoug Overton LAC 11/24/2003 LAC vs. HOU L 24 6 3 6 50.0 0 0 - 0 0 - 0 4 4 2 0 0 0 1 -8
+p708
+aVChris Wilcox LAC 11/24/2003 LAC vs. HOU L 18 2 1 6 16.7 0 0 - 0 0 - 4 1 5 0 0 0 0 4 -8
+p709
+aVKeyon Dooling LAC 11/24/2003 LAC vs. HOU L 25 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 3 0 0 1 2 -4
+p710
+aVGlen Rice LAC 11/24/2003 LAC vs. HOU L 9 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 1 -7
+p711
+aVPredrag Drobnjak LAC 11/24/2003 LAC vs. HOU L 29 20 6 12 50.0 2 3 66.7 6 8 75.0 1 6 7 0 0 0 4 5 -9
+p712
+aVMelvin Ely LAC 11/24/2003 LAC vs. HOU L 20 6 3 6 50.0 0 0 - 0 1 0.0 1 1 2 3 0 0 0 3 -10
+p713
+aVCorey Maggette LAC 11/24/2003 LAC vs. HOU L 40 33 7 20 35.0 1 4 25.0 18 20 90.0 1 5 6 1 2 1 3 5 -7
+p714
+aVBobby Simmons LAC 11/24/2003 LAC vs. HOU L 21 8 2 5 40.0 0 0 - 4 5 80.0 4 1 5 1 1 0 0 1 -1
+p715
+aVChris Kaman LAC 11/24/2003 LAC vs. HOU L 19 2 1 4 25.0 0 0 - 0 2 0.0 0 2 2 0 1 0 2 4 -8
+p716
+aVChris Wilcox LAC 11/22/2003 LAC @ MIN L 20 0 0 6 0.0 0 0 - 0 0 - 1 2 3 2 1 0 1 2 -10
+p717
+aVGlen Rice LAC 11/22/2003 LAC @ MIN L 22 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 5 1 0 0 0 9
+p718
+aVPredrag Drobnjak LAC 11/22/2003 LAC @ MIN L 32 15 6 13 46.2 1 3 33.3 2 2 100.0 1 5 6 0 0 1 3 1 -27
+p719
+aVKeyon Dooling LAC 11/22/2003 LAC @ MIN L 24 5 1 5 20.0 1 2 50.0 2 2 100.0 0 0 0 3 0 0 2 2 -12
+p720
+aVChris Kaman LAC 11/22/2003 LAC @ MIN L 30 12 5 6 83.3 0 0 - 2 4 50.0 3 12 15 2 0 0 4 2 -1
+p721
+aVQuentin Richardson LAC 11/22/2003 LAC @ MIN L 40 36 12 19 63.2 4 5 80.0 8 8 100.0 3 2 5 1 0 0 0 2 -18
+p722
+aVEddie House LAC 11/22/2003 LAC @ MIN L 21 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 2 1 -8
+p723
+aVDoug Overton LAC 11/22/2003 LAC @ MIN L 3 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 8
+p724
+aVMelvin Ely LAC 11/22/2003 LAC @ MIN L 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 1 1 3 14
+p725
+aVCorey Maggette LAC 11/22/2003 LAC @ MIN L 35 8 3 10 30.0 0 2 0.0 2 2 100.0 3 3 6 6 0 0 2 2 -15
+p726
+aVKeyon Dooling LAC 11/19/2003 LAC @ IND L 33 18 7 12 58.3 0 2 0.0 4 4 100.0 0 2 2 5 1 0 1 2 -1
+p727
+aVMelvin Ely LAC 11/19/2003 LAC @ IND L 16 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 1 0 1 0 0 3
+p728
+aVBobby Simmons LAC 11/19/2003 LAC @ IND L 20 7 3 5 60.0 0 0 - 1 1 100.0 1 2 3 1 1 0 2 4 -10
+p729
+aVChris Wilcox LAC 11/19/2003 LAC @ IND L 26 8 2 6 33.3 0 0 - 4 6 66.7 1 1 2 1 1 0 1 2 -14
+p730
+aVEddie House LAC 11/19/2003 LAC @ IND L 16 3 1 5 20.0 0 1 0.0 1 2 50.0 2 3 5 1 1 0 0 2 -7
+p731
+aVGlen Rice LAC 11/19/2003 LAC @ IND L 19 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -6
+p732
+aVCorey Maggette LAC 11/19/2003 LAC @ IND L 26 7 2 7 28.6 1 3 33.3 2 4 50.0 1 3 4 1 0 0 3 3 -4
+p733
+aVQuentin Richardson LAC 11/19/2003 LAC @ IND L 37 10 3 15 20.0 0 5 0.0 4 4 100.0 1 2 3 1 1 0 1 2 -13
+p734
+aVPredrag Drobnjak LAC 11/19/2003 LAC @ IND L 35 15 6 14 42.9 0 0 - 3 3 100.0 3 11 14 1 2 1 1 2 -10
+p735
+aVChris Kaman LAC 11/19/2003 LAC @ IND L 13 6 2 3 66.7 0 0 - 2 2 100.0 0 5 5 0 0 1 2 3 -3
+p736
+aVMelvin Ely LAC 11/18/2003 LAC @ CLE L 16 0 0 4 0.0 0 0 - 0 0 - 3 3 6 1 0 0 1 2 -3
+p737
+aVEddie House LAC 11/18/2003 LAC @ CLE L 16 12 4 10 40.0 2 3 66.7 2 2 100.0 0 0 0 3 0 0 1 3 -7
+p738
+aVCorey Maggette LAC 11/18/2003 LAC @ CLE L 40 19 4 18 22.2 1 3 33.3 10 11 90.9 4 4 8 3 0 0 2 4 -1
+p739
+aVMarko Jaric LAC 11/18/2003 LAC @ CLE L 14 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -24
+p740
+aVChris Wilcox LAC 11/18/2003 LAC @ CLE L 26 12 5 5 100.0 0 0 - 2 3 66.7 3 3 6 0 2 1 2 3 -5
+p741
+aVChris Kaman LAC 11/18/2003 LAC @ CLE L 14 3 0 7 0.0 0 0 - 3 4 75.0 3 2 5 0 0 2 0 4 -20
+p742
+aVBobby Simmons LAC 11/18/2003 LAC @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p743
+aVGlen Rice LAC 11/18/2003 LAC @ CLE L 6 3 1 6 16.7 1 2 50.0 0 0 - 2 0 2 1 0 0 0 2 5
+p744
+aVPredrag Drobnjak LAC 11/18/2003 LAC @ CLE L 37 20 7 15 46.7 1 1 100.0 5 6 83.3 4 9 13 2 1 2 1 4 6
+p745
+aVKeyon Dooling LAC 11/18/2003 LAC @ CLE L 24 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 7 2 0 3 1 18
+p746
+aVWang Zhi-zhi LAC 11/18/2003 LAC @ CLE L 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 3
+p747
+aVQuentin Richardson LAC 11/18/2003 LAC @ CLE L 40 17 6 20 30.0 2 4 50.0 3 4 75.0 3 5 8 2 2 0 4 1 -9
+p748
+aVBobby Simmons LAC 11/15/2003 LAC vs. ORL W 9 2 0 2 0.0 0 0 - 2 4 50.0 2 0 2 1 0 0 0 3 -5
+p749
+aVQuentin Richardson LAC 11/15/2003 LAC vs. ORL W 38 31 13 24 54.2 2 8 25.0 3 5 60.0 0 9 9 0 3 1 2 2 6
+p750
+aVEddie House LAC 11/15/2003 LAC vs. ORL W 20 12 5 13 38.5 2 5 40.0 0 0 - 0 1 1 2 1 0 0 2 -7
+p751
+aVMelvin Ely LAC 11/15/2003 LAC vs. ORL W 22 0 0 1 0.0 0 0 - 0 0 - 4 3 7 1 0 0 0 0 -1
+p752
+aVChris Wilcox LAC 11/15/2003 LAC vs. ORL W 31 10 4 10 40.0 0 0 - 2 4 50.0 2 3 5 0 2 1 1 3 0
+p753
+aVPredrag Drobnjak LAC 11/15/2003 LAC vs. ORL W 7 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 2 0 -8
+p754
+aVCorey Maggette LAC 11/15/2003 LAC vs. ORL W 38 17 3 12 25.0 1 6 16.7 10 11 90.9 2 5 7 6 0 0 1 3 6
+p755
+aVKeyon Dooling LAC 11/15/2003 LAC vs. ORL W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -10
+p756
+aVMarko Jaric LAC 11/15/2003 LAC vs. ORL W 34 15 6 10 60.0 3 4 75.0 0 0 - 1 0 1 8 0 0 3 3 14
+p757
+aVChris Kaman LAC 11/15/2003 LAC vs. ORL W 32 8 3 8 37.5 0 0 - 2 2 100.0 3 6 9 3 0 2 3 5 20
+p758
+aVChris Wilcox LAC 11/14/2003 LAC @ GSW W 37 21 8 12 66.7 0 0 - 5 5 100.0 2 7 9 0 0 0 1 3 9
+p759
+aVCorey Maggette LAC 11/14/2003 LAC @ GSW W 34 15 5 12 41.7 0 4 0.0 5 6 83.3 0 3 3 6 1 1 3 1 -5
+p760
+aVMarko Jaric LAC 11/14/2003 LAC @ GSW W 28 11 4 7 57.1 1 2 50.0 2 2 100.0 0 2 2 5 3 0 1 1 -1
+p761
+aVQuentin Richardson LAC 11/14/2003 LAC @ GSW W 42 19 7 17 41.2 3 7 42.9 2 5 40.0 0 7 7 2 0 0 1 2 3
+p762
+aVMelvin Ely LAC 11/14/2003 LAC @ GSW W 12 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 4 4
+p763
+aVKeyon Dooling LAC 11/14/2003 LAC @ GSW W 20 8 3 4 75.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 3 7
+p764
+aVEddie House LAC 11/14/2003 LAC @ GSW W 13 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 2 -3
+p765
+aVChris Kaman LAC 11/14/2003 LAC @ GSW W 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 2 2 9
+p766
+aVPredrag Drobnjak LAC 11/14/2003 LAC @ GSW W 28 11 5 12 41.7 0 0 - 1 2 50.0 0 7 7 1 1 3 0 3 -2
+p767
+aVBobby Simmons LAC 11/14/2003 LAC @ GSW W 16 1 0 2 0.0 0 1 0.0 1 2 50.0 2 3 5 0 0 0 2 5 9
+p768
+aVChris Wilcox LAC 11/11/2003 LAC vs. ATL W 35 19 8 12 66.7 0 0 - 3 4 75.0 3 3 6 3 1 1 0 6 15
+p769
+aVChris Kaman LAC 11/11/2003 LAC vs. ATL W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -9
+p770
+aVKeyon Dooling LAC 11/11/2003 LAC vs. ATL W 30 11 4 9 44.4 1 3 33.3 2 2 100.0 0 0 0 3 3 0 1 4 12
+p771
+aVMelvin Ely LAC 11/11/2003 LAC vs. ATL W 17 6 2 6 33.3 0 0 - 2 3 66.7 2 1 3 0 0 0 1 1 -4
+p772
+aVCorey Maggette LAC 11/11/2003 LAC vs. ATL W 39 21 8 16 50.0 1 3 33.3 4 5 80.0 0 5 5 1 2 0 2 1 15
+p773
+aVBobby Simmons LAC 11/11/2003 LAC vs. ATL W 17 2 1 6 16.7 0 0 - 0 0 - 5 1 6 2 1 0 1 3 0
+p774
+aVPredrag Drobnjak LAC 11/11/2003 LAC vs. ATL W 37 12 6 14 42.9 0 0 - 0 0 - 3 4 7 2 0 0 1 1 19
+p775
+aVMarko Jaric LAC 11/11/2003 LAC vs. ATL W 18 12 4 7 57.1 2 4 50.0 2 2 100.0 1 0 1 3 1 0 3 2 0
+p776
+aVQuentin Richardson LAC 11/11/2003 LAC vs. ATL W 37 32 12 24 50.0 2 3 66.7 6 6 100.0 8 8 16 5 1 1 2 1 13
+p777
+aVEddie House LAC 11/11/2003 LAC vs. ATL W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -1
+p778
+aVChris Wilcox LAC 11/07/2003 LAC @ DEN W 41 12 6 10 60.0 0 0 - 0 0 - 5 7 12 3 0 1 1 1 -9
+p779
+aVMelvin Ely LAC 11/07/2003 LAC @ DEN W 31 9 3 7 42.9 0 0 - 3 4 75.0 5 3 8 0 3 0 5 4 18
+p780
+aVKeyon Dooling LAC 11/07/2003 LAC @ DEN W 20 6 3 9 33.3 0 1 0.0 0 0 - 0 0 0 2 0 1 0 6 1
+p781
+aVCorey Maggette LAC 11/07/2003 LAC @ DEN W 38 29 11 14 78.6 2 3 66.7 5 7 71.4 0 10 10 4 0 0 5 5 1
+p782
+aVBobby Simmons LAC 11/07/2003 LAC @ DEN W 17 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 1 1 0 1 0 3
+p783
+aVChris Kaman LAC 11/07/2003 LAC @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -1
+p784
+aVQuentin Richardson LAC 11/07/2003 LAC @ DEN W 38 23 10 21 47.6 1 5 20.0 2 2 100.0 1 4 5 3 3 0 2 2 0
+p785
+aVEddie House LAC 11/07/2003 LAC @ DEN W 14 2 1 6 16.7 0 0 - 0 0 - 0 4 4 1 1 1 2 2 0
+p786
+aVMarko Jaric LAC 11/07/2003 LAC @ DEN W 33 13 5 14 35.7 2 3 66.7 1 2 50.0 0 2 2 8 5 2 4 4 1
+p787
+aVPredrag Drobnjak LAC 11/07/2003 LAC @ DEN W 32 8 4 11 36.4 0 1 0.0 0 0 - 1 7 8 1 1 3 1 2 -4
+p788
+aVChris Kaman LAC 10/31/2003 LAC vs. SEA L 20 7 3 9 33.3 0 0 - 1 1 100.0 3 3 6 2 0 1 2 5 -9
+p789
+aVKeyon Dooling LAC 10/31/2003 LAC vs. SEA L 24 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 4 0 0 1 1 -5
+p790
+aVWang Zhi-zhi LAC 10/31/2003 LAC vs. SEA L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 0 -1
+p791
+aVEddie House LAC 10/31/2003 LAC vs. SEA L 24 7 3 12 25.0 1 3 33.3 0 1 0.0 1 3 4 1 1 0 3 1 -13
+p792
+aVMarko Jaric LAC 10/31/2003 LAC vs. SEA L 22 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 5 0 1 1 1 -15
+p793
+aVPredrag Drobnjak LAC 10/31/2003 LAC vs. SEA L 22 10 3 9 33.3 0 1 0.0 4 4 100.0 2 6 8 2 2 0 1 1 -12
+p794
+aVBobby Simmons LAC 10/31/2003 LAC vs. SEA L 31 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 2 0 1 1 2 -10
+p795
+aVMelvin Ely LAC 10/31/2003 LAC vs. SEA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p796
+aVCorey Maggette LAC 10/31/2003 LAC vs. SEA L 37 26 8 15 53.3 2 7 28.6 8 11 72.7 0 3 3 1 1 0 1 4 -15
+p797
+aVQuentin Richardson LAC 10/31/2003 LAC vs. SEA L 30 19 6 16 37.5 3 5 60.0 4 4 100.0 3 4 7 3 2 0 5 4 -10
+p798
+aVChris Wilcox LAC 10/31/2003 LAC vs. SEA L 21 13 5 8 62.5 0 0 - 3 3 100.0 4 0 4 2 0 0 0 5 -7
+p799
+aVCorey Maggette LAC 10/30/2003 LAC @ SEA L 34 21 6 15 40.0 4 7 57.1 5 5 100.0 1 8 9 2 0 0 5 4 -3
+p800
+aVBobby Simmons LAC 10/30/2003 LAC @ SEA L 30 8 3 6 50.0 0 0 - 2 2 100.0 2 1 3 2 2 2 2 4 6
+p801
+aVElton Brand LAC 10/30/2003 LAC @ SEA L 37 21 7 12 58.3 0 0 - 7 10 70.0 7 8 15 5 0 8 3 2 -12
+p802
+aVChris Wilcox LAC 10/30/2003 LAC @ SEA L 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 1 1 1
+p803
+aVChris Kaman LAC 10/30/2003 LAC @ SEA L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 2 3 7
+p804
+aVEddie House LAC 10/30/2003 LAC @ SEA L 34 22 9 19 47.4 4 8 50.0 0 0 - 1 4 5 6 1 0 1 3 4
+p805
+aVMarko Jaric LAC 10/30/2003 LAC @ SEA L 11 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -2
+p806
+aVPredrag Drobnjak LAC 10/30/2003 LAC @ SEA L 26 11 5 12 41.7 1 1 100.0 0 0 - 4 6 10 3 1 2 1 2 -22
+p807
+aVQuentin Richardson LAC 10/30/2003 LAC @ SEA L 37 11 5 17 29.4 1 8 12.5 0 0 - 1 5 6 1 1 0 2 4 -13
+p808
+aVKeyon Dooling LAC 10/30/2003 LAC @ SEA L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -11
+p809
+a.

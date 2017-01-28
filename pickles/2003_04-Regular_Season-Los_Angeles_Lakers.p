@@ -1,0 +1,1730 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGary Payton LAL 04/14/2004 LAL @ POR W 40 5 2 10 20.0 1 5 20.0 0 0 - 1 0 1 6 0 0 0 2 -6
+p2
+aVDerek Fisher LAL 04/14/2004 LAL @ POR W 42 9 2 8 25.0 1 3 33.3 4 4 100.0 0 1 1 6 4 0 1 0 10
+p3
+aVSlava Medvedenko LAL 04/14/2004 LAL @ POR W 41 10 3 13 23.1 0 0 - 4 4 100.0 9 5 14 1 3 0 2 5 6
+p4
+aVBrian Cook LAL 04/14/2004 LAL @ POR W 11 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p5
+aVKarl Malone LAL 04/14/2004 LAL @ POR W 15 4 1 5 20.0 0 0 - 2 2 100.0 3 2 5 2 0 0 1 1 -5
+p6
+aVDevean George LAL 04/14/2004 LAL @ POR W 14 5 2 6 33.3 1 4 25.0 0 0 - 2 4 6 0 0 0 1 1 -4
+p7
+aVShaquille O'Neal LAL 04/14/2004 LAL @ POR W 48 25 12 20 60.0 0 0 - 1 8 12.5 5 9 14 5 4 4 2 6 -2
+p8
+aVKobe Bryant LAL 04/14/2004 LAL @ POR W 53 37 14 31 45.2 4 10 40.0 5 9 55.6 0 8 8 5 1 1 2 4 -1
+p9
+aVLuke Walton LAL 04/14/2004 LAL @ POR W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -3
+p10
+aVKareem Rush LAL 04/14/2004 LAL @ POR W 14 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 10
+p11
+aVKobe Bryant LAL 04/13/2004 LAL vs. GSW W 43 45 14 29 48.3 0 6 0.0 17 18 94.4 0 7 7 8 2 2 1 2 9
+p12
+aVGary Payton LAL 04/13/2004 LAL vs. GSW W 32 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 4 1 0 2 2 -8
+p13
+aVKareem Rush LAL 04/13/2004 LAL vs. GSW W 19 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 3 2
+p14
+aVSlava Medvedenko LAL 04/13/2004 LAL vs. GSW W 25 10 4 6 66.7 0 0 - 2 2 100.0 3 4 7 0 1 0 2 4 9
+p15
+aVShaquille O'Neal LAL 04/13/2004 LAL vs. GSW W 39 23 11 16 68.8 0 0 - 1 3 33.3 6 7 13 3 0 2 2 4 7
+p16
+aVDevean George LAL 04/13/2004 LAL vs. GSW W 23 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 2 3 -4
+p17
+aVBrian Cook LAL 04/13/2004 LAL vs. GSW W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p18
+aVLuke Walton LAL 04/13/2004 LAL vs. GSW W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 4
+p19
+aVDerek Fisher LAL 04/13/2004 LAL vs. GSW W 20 3 1 3 33.3 1 2 50.0 0 2 0.0 0 0 0 2 2 0 0 2 14
+p20
+aVKarl Malone LAL 04/13/2004 LAL vs. GSW W 29 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 1 2 0 5 1 -7
+p21
+aVDevean George LAL 04/11/2004 LAL @ SAC L 29 10 4 9 44.4 1 5 20.0 1 2 50.0 1 4 5 5 0 0 1 3 4
+p22
+aVGary Payton LAL 04/11/2004 LAL @ SAC L 34 15 6 11 54.5 3 6 50.0 0 0 - 0 2 2 1 0 0 1 1 -13
+p23
+aVDerek Fisher LAL 04/11/2004 LAL @ SAC L 22 14 4 10 40.0 2 5 40.0 4 4 100.0 4 3 7 5 1 0 1 3 -4
+p24
+aVSlava Medvedenko LAL 04/11/2004 LAL @ SAC L 18 6 3 9 33.3 0 0 - 0 0 - 4 3 7 0 1 0 1 0 -14
+p25
+aVKobe Bryant LAL 04/11/2004 LAL @ SAC L 42 8 3 13 23.1 0 3 0.0 2 3 66.7 1 4 5 4 2 0 3 4 -26
+p26
+aVKareem Rush LAL 04/11/2004 LAL @ SAC L 12 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 0 1 0 1 2 -2
+p27
+aVKarl Malone LAL 04/11/2004 LAL @ SAC L 34 13 5 13 38.5 0 0 - 3 4 75.0 1 10 11 4 1 0 2 4 -19
+p28
+aVBrian Cook LAL 04/11/2004 LAL @ SAC L 3 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 8
+p29
+aVBryon Russell LAL 04/11/2004 LAL @ SAC L 4 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -10
+p30
+aVLuke Walton LAL 04/11/2004 LAL @ SAC L 11 7 2 2 100.0 2 2 100.0 1 2 50.0 0 2 2 2 0 0 2 1 5
+p31
+aVShaquille O'Neal LAL 04/11/2004 LAL @ SAC L 31 10 4 6 66.7 0 0 - 2 6 33.3 3 2 5 0 0 3 5 5 -14
+p32
+aVKarl Malone LAL 04/09/2004 LAL vs. MEM W 36 12 4 8 50.0 0 0 - 4 5 80.0 0 7 7 6 1 0 4 4 5
+p33
+aVKareem Rush LAL 04/09/2004 LAL vs. MEM W 21 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 2 1 1 2 2 7
+p34
+aVKobe Bryant LAL 04/09/2004 LAL vs. MEM W 45 33 9 23 39.1 1 4 25.0 14 15 93.3 1 5 6 7 4 1 3 2 12
+p35
+aVShaquille O'Neal LAL 04/09/2004 LAL vs. MEM W 42 28 12 14 85.7 0 0 - 4 11 36.4 3 9 12 0 1 4 2 4 8
+p36
+aVDerek Fisher LAL 04/09/2004 LAL vs. MEM W 19 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 2 0 0 1 5
+p37
+aVLuke Walton LAL 04/09/2004 LAL vs. MEM W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 1
+p38
+aVBryon Russell LAL 04/09/2004 LAL vs. MEM W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p39
+aVDevean George LAL 04/09/2004 LAL vs. MEM W 20 4 2 2 100.0 0 0 - 0 0 - 0 3 3 2 1 0 2 3 -5
+p40
+aVRick Fox LAL 04/09/2004 LAL vs. MEM W 6 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p41
+aVGary Payton LAL 04/09/2004 LAL vs. MEM W 35 12 3 7 42.9 0 2 0.0 6 6 100.0 2 2 4 7 0 0 2 0 14
+p42
+aVSlava Medvedenko LAL 04/09/2004 LAL vs. MEM W 9 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 4
+p43
+aVKobe Bryant LAL 04/06/2004 LAL vs. POR L 43 12 5 23 21.7 0 6 0.0 2 2 100.0 2 4 6 8 1 1 3 2 -14
+p44
+aVGary Payton LAL 04/06/2004 LAL vs. POR L 35 12 4 12 33.3 1 4 25.0 3 4 75.0 3 3 6 4 1 0 2 0 -10
+p45
+aVDevean George LAL 04/06/2004 LAL vs. POR L 18 8 4 9 44.4 0 2 0.0 0 0 - 1 1 2 0 0 0 2 1 -7
+p46
+aVSlava Medvedenko LAL 04/06/2004 LAL vs. POR L 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -3
+p47
+aVLuke Walton LAL 04/06/2004 LAL vs. POR L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p48
+aVRick Fox LAL 04/06/2004 LAL vs. POR L 21 11 4 6 66.7 3 4 75.0 0 0 - 1 3 4 1 0 0 0 2 -12
+p49
+aVDerek Fisher LAL 04/06/2004 LAL vs. POR L 23 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 3 3 0 1 1 0
+p50
+aVBryon Russell LAL 04/06/2004 LAL vs. POR L 2 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 0 5
+p51
+aVBrian Cook LAL 04/06/2004 LAL vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 2 0 7
+p52
+aVShaquille O'Neal LAL 04/06/2004 LAL vs. POR L 41 17 7 11 63.6 0 0 - 3 10 30.0 7 5 12 1 1 3 5 5 -18
+p53
+aVKarl Malone LAL 04/06/2004 LAL vs. POR L 40 11 4 9 44.4 0 0 - 3 4 75.0 0 2 2 6 1 0 4 5 -8
+p54
+aVGary Payton LAL 04/04/2004 LAL vs. SAS L 44 21 7 11 63.6 0 1 0.0 7 8 87.5 0 8 8 3 0 2 2 1 -1
+p55
+aVKobe Bryant LAL 04/04/2004 LAL vs. SAS L 44 28 9 26 34.6 2 7 28.6 8 10 80.0 1 5 6 3 0 2 3 2 0
+p56
+aVDevean George LAL 04/04/2004 LAL vs. SAS L 13 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 0 0 1 1 4 -9
+p57
+aVKarl Malone LAL 04/04/2004 LAL vs. SAS L 42 12 3 8 37.5 0 0 - 6 6 100.0 1 8 9 4 3 0 0 5 5
+p58
+aVRick Fox LAL 04/04/2004 LAL vs. SAS L 20 2 1 3 33.3 0 1 0.0 0 2 0.0 0 3 3 1 0 0 5 1 1
+p59
+aVSlava Medvedenko LAL 04/04/2004 LAL vs. SAS L 15 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 2 2 -9
+p60
+aVLuke Walton LAL 04/04/2004 LAL vs. SAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -14
+p61
+aVDerek Fisher LAL 04/04/2004 LAL vs. SAS L 20 3 1 3 33.3 0 1 0.0 1 1 100.0 0 2 2 2 0 0 1 3 -3
+p62
+aVShaquille O'Neal LAL 04/04/2004 LAL vs. SAS L 36 17 8 15 53.3 0 0 - 1 1 100.0 2 7 9 4 0 3 2 3 0
+p63
+aVBryon Russell LAL 04/04/2004 LAL vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p64
+aVGary Payton LAL 04/02/2004 LAL @ SEA W 38 17 6 10 60.0 3 4 75.0 2 2 100.0 1 3 4 5 1 0 2 0 19
+p65
+aVShaquille O'Neal LAL 04/02/2004 LAL @ SEA W 35 23 11 18 61.1 0 0 - 1 1 100.0 5 9 14 5 1 2 2 3 27
+p66
+aVDevean George LAL 04/02/2004 LAL @ SEA W 20 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 3
+p67
+aVKarl Malone LAL 04/02/2004 LAL @ SEA W 33 14 6 12 50.0 0 0 - 2 2 100.0 0 8 8 4 0 1 4 1 -2
+p68
+aVBryon Russell LAL 04/02/2004 LAL @ SEA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 7
+p69
+aVLuke Walton LAL 04/02/2004 LAL @ SEA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -1
+p70
+aVRick Fox LAL 04/02/2004 LAL @ SEA W 28 10 4 4 100.0 1 1 100.0 1 1 100.0 1 0 1 6 2 0 1 3 8
+p71
+aVDerek Fisher LAL 04/02/2004 LAL @ SEA W 20 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 2 3 0 1 0 6
+p72
+aVBrian Cook LAL 04/02/2004 LAL @ SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p73
+aVKobe Bryant LAL 04/02/2004 LAL @ SEA W 40 25 9 18 50.0 3 5 60.0 4 6 66.7 0 1 1 2 2 0 3 4 -5
+p74
+aVSlava Medvedenko LAL 04/02/2004 LAL @ SEA W 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -1
+p75
+aVLuke Walton LAL 04/01/2004 LAL vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p76
+aVSlava Medvedenko LAL 04/01/2004 LAL vs. HOU W 13 2 1 6 16.7 0 0 - 0 0 - 0 5 5 1 0 0 0 1 5
+p77
+aVDevean George LAL 04/01/2004 LAL vs. HOU W 18 9 3 4 75.0 3 4 75.0 0 0 - 0 3 3 1 2 0 1 0 16
+p78
+aVBrian Cook LAL 04/01/2004 LAL vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p79
+aVGary Payton LAL 04/01/2004 LAL vs. HOU W 38 12 4 13 30.8 0 1 0.0 4 6 66.7 4 9 13 2 1 0 3 3 4
+p80
+aVKarl Malone LAL 04/01/2004 LAL vs. HOU W 37 20 5 12 41.7 0 1 0.0 10 10 100.0 4 10 14 6 2 1 6 3 -1
+p81
+aVRick Fox LAL 04/01/2004 LAL vs. HOU W 30 6 1 3 33.3 1 1 100.0 3 4 75.0 3 1 4 0 3 0 1 0 -10
+p82
+aVShaquille O'Neal LAL 04/01/2004 LAL vs. HOU W 43 18 7 17 41.2 0 0 - 4 10 40.0 3 5 8 0 1 1 4 4 13
+p83
+aVKobe Bryant LAL 04/01/2004 LAL vs. HOU W 45 26 8 19 42.1 1 2 50.0 9 12 75.0 2 5 7 4 5 1 6 2 6
+p84
+aVDerek Fisher LAL 04/01/2004 LAL vs. HOU W 13 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 1 0 0 1 8
+p85
+aVSlava Medvedenko LAL 03/30/2004 LAL vs. NOH W 15 2 1 5 20.0 0 0 - 0 0 - 2 4 6 1 1 0 2 4 16
+p86
+aVDerek Fisher LAL 03/30/2004 LAL vs. NOH W 23 5 1 5 20.0 1 1 100.0 2 2 100.0 0 0 0 2 2 0 1 1 20
+p87
+aVKobe Bryant LAL 03/30/2004 LAL vs. NOH W 34 23 7 17 41.2 3 7 42.9 6 6 100.0 1 2 3 6 1 0 4 3 12
+p88
+aVRick Fox LAL 03/30/2004 LAL vs. NOH W 22 8 3 4 75.0 1 1 100.0 1 2 50.0 0 2 2 2 2 0 3 3 5
+p89
+aVKarl Malone LAL 03/30/2004 LAL vs. NOH W 28 11 4 5 80.0 0 0 - 3 6 50.0 1 7 8 9 3 1 0 1 12
+p90
+aVShaquille O'Neal LAL 03/30/2004 LAL vs. NOH W 39 15 7 15 46.7 0 0 - 1 3 33.3 1 8 9 3 0 3 2 4 11
+p91
+aVGary Payton LAL 03/30/2004 LAL vs. NOH W 37 20 9 14 64.3 0 1 0.0 2 2 100.0 1 2 3 6 0 0 1 2 6
+p92
+aVBryon Russell LAL 03/30/2004 LAL vs. NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p93
+aVBrian Cook LAL 03/30/2004 LAL vs. NOH W 12 10 5 6 83.3 0 0 - 0 0 - 2 0 2 0 1 0 0 0 -1
+p94
+aVLuke Walton LAL 03/30/2004 LAL vs. NOH W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 1
+p95
+aVDevean George LAL 03/30/2004 LAL vs. NOH W 23 10 4 9 44.4 2 3 66.7 0 0 - 0 1 1 0 0 1 1 3 13
+p96
+aVBrian Cook LAL 03/28/2004 LAL vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p97
+aVShaquille O'Neal LAL 03/28/2004 LAL vs. UTA W 42 11 4 11 36.4 0 0 - 3 10 30.0 3 11 14 0 0 2 1 2 17
+p98
+aVDerek Fisher LAL 03/28/2004 LAL vs. UTA W 17 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 1 -10
+p99
+aVGary Payton LAL 03/28/2004 LAL vs. UTA W 33 17 6 13 46.2 1 3 33.3 4 4 100.0 2 1 3 3 2 0 1 3 14
+p100
+aVDevean George LAL 03/28/2004 LAL vs. UTA W 8 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 0 1 0 1 0 -7
+p101
+aVKareem Rush LAL 03/28/2004 LAL vs. UTA W 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -6
+p102
+aVSlava Medvedenko LAL 03/28/2004 LAL vs. UTA W 10 2 1 3 33.3 0 0 - 0 0 - 4 2 6 1 0 0 0 2 -15
+p103
+aVBryon Russell LAL 03/28/2004 LAL vs. UTA W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p104
+aVKobe Bryant LAL 03/28/2004 LAL vs. UTA W 40 34 8 23 34.8 1 3 33.3 17 21 81.0 1 5 6 4 1 1 1 5 12
+p105
+aVKarl Malone LAL 03/28/2004 LAL vs. UTA W 34 19 5 10 50.0 0 0 - 9 12 75.0 6 7 13 1 2 1 4 2 25
+p106
+aVRick Fox LAL 03/28/2004 LAL vs. UTA W 28 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 1 5 19
+p107
+aVLuke Walton LAL 03/28/2004 LAL vs. UTA W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -14
+p108
+aVSlava Medvedenko LAL 03/26/2004 LAL vs. MIN W 14 8 2 7 28.6 0 0 - 4 4 100.0 2 1 3 0 0 0 2 4 11
+p109
+aVShaquille O'Neal LAL 03/26/2004 LAL vs. MIN W 42 22 9 20 45.0 0 0 - 4 6 66.7 7 11 18 4 1 0 1 2 17
+p110
+aVBryon Russell LAL 03/26/2004 LAL vs. MIN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 0
+p111
+aVKobe Bryant LAL 03/26/2004 LAL vs. MIN W 37 35 13 21 61.9 2 4 50.0 7 7 100.0 2 7 9 5 2 2 4 2 17
+p112
+aVDerek Fisher LAL 03/26/2004 LAL vs. MIN W 16 4 2 5 40.0 0 2 0.0 0 2 0.0 0 2 2 2 3 0 1 1 11
+p113
+aVDevean George LAL 03/26/2004 LAL vs. MIN W 13 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 1 0 6
+p114
+aVBrian Cook LAL 03/26/2004 LAL vs. MIN W 12 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 2 1 0 0 1 -2
+p115
+aVKarl Malone LAL 03/26/2004 LAL vs. MIN W 25 4 1 9 11.1 0 0 - 2 2 100.0 1 6 7 1 2 0 3 4 10
+p116
+aVRick Fox LAL 03/26/2004 LAL vs. MIN W 27 6 3 6 50.0 0 0 - 0 0 - 2 4 6 3 1 0 2 1 8
+p117
+aVGary Payton LAL 03/26/2004 LAL vs. MIN W 32 7 3 10 30.0 0 1 0.0 1 2 50.0 0 3 3 3 1 0 3 0 4
+p118
+aVKareem Rush LAL 03/26/2004 LAL vs. MIN W 16 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 2 0 2 0 3
+p119
+aVLuke Walton LAL 03/26/2004 LAL vs. MIN W 3 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 0
+p120
+aVShaquille O'Neal LAL 03/24/2004 LAL vs. SAC W 35 17 8 13 61.5 0 0 - 1 3 33.3 2 14 16 6 1 1 1 5 29
+p121
+aVLuke Walton LAL 03/24/2004 LAL vs. SAC W 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p122
+aVBryon Russell LAL 03/24/2004 LAL vs. SAC W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 1
+p123
+aVKarl Malone LAL 03/24/2004 LAL vs. SAC W 33 11 4 8 50.0 0 0 - 3 5 60.0 2 5 7 4 1 0 4 3 5
+p124
+aVKareem Rush LAL 03/24/2004 LAL vs. SAC W 14 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -4
+p125
+aVGary Payton LAL 03/24/2004 LAL vs. SAC W 35 20 10 17 58.8 0 2 0.0 0 0 - 1 4 5 3 1 0 2 2 21
+p126
+aVDevean George LAL 03/24/2004 LAL vs. SAC W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 0 1 -2
+p127
+aVDerek Fisher LAL 03/24/2004 LAL vs. SAC W 16 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 0 1 0 4
+p128
+aVKobe Bryant LAL 03/24/2004 LAL vs. SAC W 37 36 11 23 47.8 2 5 40.0 12 12 100.0 2 4 6 6 1 0 0 3 25
+p129
+aVRick Fox LAL 03/24/2004 LAL vs. SAC W 30 6 3 6 50.0 0 1 0.0 0 0 - 2 3 5 5 0 0 4 2 27
+p130
+aVBrian Cook LAL 03/24/2004 LAL vs. SAC W 3 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 5
+p131
+aVSlava Medvedenko LAL 03/24/2004 LAL vs. SAC W 23 15 6 9 66.7 0 0 - 3 4 75.0 4 4 8 1 1 0 2 3 8
+p132
+aVBrian Cook LAL 03/21/2004 LAL vs. MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -7
+p133
+aVSlava Medvedenko LAL 03/21/2004 LAL vs. MIL W 17 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 1 0 2 2 -8
+p134
+aVKarl Malone LAL 03/21/2004 LAL vs. MIL W 34 14 5 9 55.6 0 0 - 4 4 100.0 1 7 8 5 0 0 4 3 -2
+p135
+aVRick Fox LAL 03/21/2004 LAL vs. MIL W 29 4 1 6 16.7 0 2 0.0 2 2 100.0 1 3 4 4 0 0 2 6 0
+p136
+aVGary Payton LAL 03/21/2004 LAL vs. MIL W 36 16 7 12 58.3 0 1 0.0 2 2 100.0 0 4 4 6 0 0 2 1 7
+p137
+aVLuke Walton LAL 03/21/2004 LAL vs. MIL W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 9
+p138
+aVKobe Bryant LAL 03/21/2004 LAL vs. MIL W 39 22 7 17 41.2 0 1 0.0 8 8 100.0 3 2 5 4 1 1 5 2 4
+p139
+aVDerek Fisher LAL 03/21/2004 LAL vs. MIL W 16 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 3 1 0 1 0 -3
+p140
+aVKareem Rush LAL 03/21/2004 LAL vs. MIL W 19 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 2 1 0 0 2 -5
+p141
+aVDevean George LAL 03/21/2004 LAL vs. MIL W 18 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 1 2 0 0 1 -4
+p142
+aVShaquille O'Neal LAL 03/21/2004 LAL vs. MIL W 47 31 14 16 87.5 0 0 - 3 5 60.0 1 25 26 2 0 7 2 3 14
+p143
+aVDerek Fisher LAL 03/19/2004 LAL vs. LAC W 17 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 2 2 1 1 5 -6
+p144
+aVKarl Malone LAL 03/19/2004 LAL vs. LAC W 34 14 5 15 33.3 0 0 - 4 5 80.0 1 5 6 3 2 1 3 3 7
+p145
+aVLuke Walton LAL 03/19/2004 LAL vs. LAC W 13 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -1
+p146
+aVKobe Bryant LAL 03/19/2004 LAL vs. LAC W 39 27 10 20 50.0 0 2 0.0 7 8 87.5 2 5 7 3 5 0 3 4 1
+p147
+aVShaquille O'Neal LAL 03/19/2004 LAL vs. LAC W 40 18 5 8 62.5 0 0 - 8 16 50.0 4 6 10 6 0 3 4 4 7
+p148
+aVGary Payton LAL 03/19/2004 LAL vs. LAC W 32 16 6 12 50.0 1 2 50.0 3 4 75.0 1 5 6 5 2 0 0 2 13
+p149
+aVDevean George LAL 03/19/2004 LAL vs. LAC W 15 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 0 0 1 1 2 -2
+p150
+aVSlava Medvedenko LAL 03/19/2004 LAL vs. LAC W 9 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p151
+aVRick Fox LAL 03/19/2004 LAL vs. LAC W 30 10 5 8 62.5 0 2 0.0 0 0 - 1 3 4 6 1 0 0 4 12
+p152
+aVKareem Rush LAL 03/19/2004 LAL vs. LAC W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 3 0
+p153
+aVDerek Fisher LAL 03/17/2004 LAL @ LAC W 17 2 1 7 14.3 0 1 0.0 0 0 - 2 1 3 3 0 0 0 0 5
+p154
+aVDevean George LAL 03/17/2004 LAL @ LAC W 20 12 5 8 62.5 2 4 50.0 0 0 - 3 2 5 2 1 1 1 1 6
+p155
+aVGary Payton LAL 03/17/2004 LAL @ LAC W 33 10 5 12 41.7 0 3 0.0 0 0 - 0 0 0 7 3 0 2 2 -1
+p156
+aVShaquille O'Neal LAL 03/17/2004 LAL @ LAC W 39 21 9 13 69.2 0 0 - 3 8 37.5 4 7 11 2 1 3 6 6 8
+p157
+aVRick Fox LAL 03/17/2004 LAL @ LAC W 26 7 3 8 37.5 1 2 50.0 0 1 0.0 0 1 1 1 0 0 1 3 -4
+p158
+aVLuke Walton LAL 03/17/2004 LAL @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -1
+p159
+aVKobe Bryant LAL 03/17/2004 LAL @ LAC W 40 27 11 17 64.7 1 3 33.3 4 4 100.0 1 8 9 6 1 1 3 2 4
+p160
+aVSlava Medvedenko LAL 03/17/2004 LAL @ LAC W 12 8 3 4 75.0 0 0 - 2 3 66.7 0 0 0 0 0 0 0 4 -1
+p161
+aVKareem Rush LAL 03/17/2004 LAL @ LAC W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -1
+p162
+aVKarl Malone LAL 03/17/2004 LAL @ LAC W 40 17 7 11 63.6 0 0 - 3 4 75.0 0 8 8 5 1 0 5 4 0
+p163
+aVRick Fox LAL 03/15/2004 LAL vs. ORL W 19 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 3 0 0 0 2 -12
+p164
+aVBryon Russell LAL 03/15/2004 LAL vs. ORL W 6 7 2 6 33.3 0 3 0.0 3 4 75.0 0 0 0 0 0 0 0 0 3
+p165
+aVLuke Walton LAL 03/15/2004 LAL vs. ORL W 8 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 2 2 4
+p166
+aVKarl Malone LAL 03/15/2004 LAL vs. ORL W 45 9 3 8 37.5 0 0 - 3 8 37.5 1 7 8 4 0 2 0 4 3
+p167
+aVKareem Rush LAL 03/15/2004 LAL vs. ORL W 13 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -2
+p168
+aVShaquille O'Neal LAL 03/15/2004 LAL vs. ORL W 47 27 9 17 52.9 0 0 - 9 18 50.0 12 11 23 3 0 5 1 4 2
+p169
+aVDerek Fisher LAL 03/15/2004 LAL vs. ORL W 25 11 5 8 62.5 0 0 - 1 1 100.0 0 1 1 3 1 1 1 1 14
+p170
+aVSlava Medvedenko LAL 03/15/2004 LAL vs. ORL W 6 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 0 1 2 -3
+p171
+aVGary Payton LAL 03/15/2004 LAL vs. ORL W 39 12 5 13 38.5 1 5 20.0 1 2 50.0 4 5 9 1 2 0 1 4 2
+p172
+aVKobe Bryant LAL 03/15/2004 LAL vs. ORL W 44 38 13 26 50.0 2 5 40.0 10 13 76.9 1 2 3 4 1 1 1 5 3
+p173
+aVDevean George LAL 03/15/2004 LAL vs. ORL W 13 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 1
+p174
+aVShaquille O'Neal LAL 03/13/2004 LAL @ CHI W 39 16 7 18 38.9 0 0 - 2 8 25.0 3 12 15 1 0 5 6 5 5
+p175
+aVSlava Medvedenko LAL 03/13/2004 LAL @ CHI W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 5 10
+p176
+aVGary Payton LAL 03/13/2004 LAL @ CHI W 32 10 4 10 40.0 0 0 - 2 2 100.0 2 2 4 2 2 1 1 1 8
+p177
+aVBryon Russell LAL 03/13/2004 LAL @ CHI W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 1 2
+p178
+aVLuke Walton LAL 03/13/2004 LAL @ CHI W 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -6
+p179
+aVKareem Rush LAL 03/13/2004 LAL @ CHI W 15 4 1 3 33.3 0 2 0.0 2 2 100.0 0 2 2 3 0 0 0 0 1
+p180
+aVKarl Malone LAL 03/13/2004 LAL @ CHI W 38 10 2 9 22.2 0 0 - 6 8 75.0 1 12 13 7 2 0 3 2 5
+p181
+aVKobe Bryant LAL 03/13/2004 LAL @ CHI W 38 35 12 25 48.0 1 4 25.0 10 11 90.9 2 6 8 3 2 1 5 2 4
+p182
+aVDerek Fisher LAL 03/13/2004 LAL @ CHI W 15 4 1 5 20.0 1 1 100.0 1 1 100.0 1 1 2 1 0 0 0 3 -1
+p183
+aVDevean George LAL 03/13/2004 LAL @ CHI W 18 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 5
+p184
+aVRick Fox LAL 03/13/2004 LAL @ CHI W 21 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 2
+p185
+aVDevean George LAL 03/12/2004 LAL @ MIN L 8 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 -8
+p186
+aVGary Payton LAL 03/12/2004 LAL @ MIN L 40 10 4 10 40.0 0 2 0.0 2 2 100.0 1 3 4 6 1 1 5 3 2
+p187
+aVShaquille O'Neal LAL 03/12/2004 LAL @ MIN L 42 24 8 15 53.3 0 0 - 8 14 57.1 2 11 13 1 0 1 3 3 -2
+p188
+aVDerek Fisher LAL 03/12/2004 LAL @ MIN L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -11
+p189
+aVLuke Walton LAL 03/12/2004 LAL @ MIN L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p190
+aVBryon Russell LAL 03/12/2004 LAL @ MIN L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p191
+aVKareem Rush LAL 03/12/2004 LAL @ MIN L 24 3 1 7 14.3 1 4 25.0 0 0 - 0 0 0 1 0 0 1 1 -13
+p192
+aVSlava Medvedenko LAL 03/12/2004 LAL @ MIN L 10 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 5 -9
+p193
+aVKobe Bryant LAL 03/12/2004 LAL @ MIN L 38 16 6 20 30.0 1 3 33.3 3 3 100.0 2 9 11 5 0 0 2 2 0
+p194
+aVKarl Malone LAL 03/12/2004 LAL @ MIN L 21 13 5 6 83.3 0 0 - 3 6 50.0 0 2 2 2 1 0 2 4 7
+p195
+aVRick Fox LAL 03/12/2004 LAL @ MIN L 23 6 3 5 60.0 0 1 0.0 0 0 - 1 2 3 6 1 0 1 1 -1
+p196
+aVHorace Grant LAL 03/12/2004 LAL @ MIN L 10 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -12
+p197
+aVGary Payton LAL 03/10/2004 LAL @ BOS W 34 20 8 14 57.1 1 2 50.0 3 4 75.0 1 3 4 3 1 0 2 0 2
+p198
+aVShaquille O'Neal LAL 03/10/2004 LAL @ BOS W 38 28 11 15 73.3 0 0 - 6 13 46.2 5 12 17 4 2 1 3 4 22
+p199
+aVBryon Russell LAL 03/10/2004 LAL @ BOS W 15 7 2 3 66.7 2 3 66.7 1 2 50.0 1 2 3 1 1 0 0 2 13
+p200
+aVKobe Bryant LAL 03/10/2004 LAL @ BOS W 40 18 4 16 25.0 0 2 0.0 10 14 71.4 3 2 5 10 3 0 3 2 13
+p201
+aVDerek Fisher LAL 03/10/2004 LAL @ BOS W 15 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 1 0 1 2 8
+p202
+aVSlava Medvedenko LAL 03/10/2004 LAL @ BOS W 16 7 2 6 33.3 0 0 - 3 4 75.0 5 3 8 0 0 0 1 3 8
+p203
+aVKareem Rush LAL 03/10/2004 LAL @ BOS W 22 17 7 12 58.3 2 6 33.3 1 2 50.0 1 2 3 1 0 0 1 4 -3
+p204
+aVDevean George LAL 03/10/2004 LAL @ BOS W 10 3 0 6 0.0 0 3 0.0 3 3 100.0 2 1 3 0 0 0 0 2 -9
+p205
+aVBrian Cook LAL 03/10/2004 LAL @ BOS W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 3 -14
+p206
+aVRick Fox LAL 03/10/2004 LAL @ BOS W 18 8 3 4 75.0 1 1 100.0 1 2 50.0 0 1 1 1 1 0 0 1 8
+p207
+aVLuke Walton LAL 03/10/2004 LAL @ BOS W 21 6 1 4 25.0 0 2 0.0 4 4 100.0 2 0 2 5 0 0 1 4 -8
+p208
+aVLuke Walton LAL 03/08/2004 LAL @ UTA L 38 7 3 8 37.5 0 1 0.0 1 2 50.0 2 3 5 2 0 0 0 6 4
+p209
+aVRick Fox LAL 03/08/2004 LAL @ UTA L 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 1 3 4
+p210
+aVKareem Rush LAL 03/08/2004 LAL @ UTA L 42 12 5 11 45.5 2 4 50.0 0 0 - 1 3 4 1 1 2 1 3 2
+p211
+aVGary Payton LAL 03/08/2004 LAL @ UTA L 42 21 6 18 33.3 1 2 50.0 8 10 80.0 0 6 6 7 1 0 4 1 -1
+p212
+aVDevean George LAL 03/08/2004 LAL @ UTA L 17 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 1 1 3 2 -11
+p213
+aVDerek Fisher LAL 03/08/2004 LAL @ UTA L 23 13 4 9 44.4 0 2 0.0 5 6 83.3 0 1 1 1 0 0 2 3 -9
+p214
+aVShaquille O'Neal LAL 03/08/2004 LAL @ UTA L 28 16 5 12 41.7 0 0 - 6 11 54.5 5 5 10 4 0 2 4 4 9
+p215
+aVBrian Cook LAL 03/08/2004 LAL @ UTA L 21 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 1 0 3 2 -14
+p216
+aVBryon Russell LAL 03/08/2004 LAL @ UTA L 12 6 2 4 50.0 1 1 100.0 1 2 50.0 0 3 3 0 0 0 1 2 -9
+p217
+aVLuke Walton LAL 03/07/2004 LAL vs. NJN W 15 6 3 6 50.0 0 0 - 0 0 - 0 4 4 2 1 1 2 1 0
+p218
+aVBrian Cook LAL 03/07/2004 LAL vs. NJN W 18 6 3 6 50.0 0 0 - 0 0 - 0 5 5 2 0 0 0 2 6
+p219
+aVBryon Russell LAL 03/07/2004 LAL vs. NJN W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 2
+p220
+aVRick Fox LAL 03/07/2004 LAL vs. NJN W 17 3 1 4 25.0 0 3 0.0 1 2 50.0 1 0 1 5 0 0 1 2 -7
+p221
+aVGary Payton LAL 03/07/2004 LAL vs. NJN W 43 18 8 17 47.1 1 3 33.3 1 5 20.0 1 8 9 2 4 0 1 4 3
+p222
+aVDerek Fisher LAL 03/07/2004 LAL vs. NJN W 22 9 3 8 37.5 1 2 50.0 2 3 66.7 0 3 3 4 0 0 1 0 6
+p223
+aVShaquille O'Neal LAL 03/07/2004 LAL vs. NJN W 40 32 11 19 57.9 0 0 - 10 14 71.4 6 3 9 2 0 0 2 4 5
+p224
+aVSlava Medvedenko LAL 03/07/2004 LAL vs. NJN W 22 4 1 7 14.3 0 0 - 2 2 100.0 2 2 4 1 1 1 1 1 3
+p225
+aVKareem Rush LAL 03/07/2004 LAL vs. NJN W 31 8 3 7 42.9 1 2 50.0 1 2 50.0 1 4 5 1 0 0 0 0 3
+p226
+aVDevean George LAL 03/07/2004 LAL vs. NJN W 26 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 2 2 1 3 2 9
+p227
+aVKareem Rush LAL 03/05/2004 LAL vs. SEA W 37 11 4 9 44.4 3 5 60.0 0 0 - 0 1 1 0 2 1 2 2 -2
+p228
+aVKobe Bryant LAL 03/05/2004 LAL vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p229
+aVGary Payton LAL 03/05/2004 LAL vs. SEA W 40 16 6 11 54.5 1 3 33.3 3 4 75.0 1 6 7 7 1 1 4 4 15
+p230
+aVBrian Cook LAL 03/05/2004 LAL vs. SEA W 9 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -6
+p231
+aVDevean George LAL 03/05/2004 LAL vs. SEA W 15 7 3 3 100.0 1 1 100.0 0 0 - 0 4 4 1 0 0 0 6 -1
+p232
+aVSlava Medvedenko LAL 03/05/2004 LAL vs. SEA W 21 8 3 7 42.9 0 0 - 2 2 100.0 1 4 5 0 1 2 0 0 6
+p233
+aVBryon Russell LAL 03/05/2004 LAL vs. SEA W 14 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 1 0 1 -9
+p234
+aVRick Fox LAL 03/05/2004 LAL vs. SEA W 28 5 1 5 20.0 1 4 25.0 2 2 100.0 1 1 2 7 2 0 2 2 10
+p235
+aVLuke Walton LAL 03/05/2004 LAL vs. SEA W 17 5 1 4 25.0 0 2 0.0 3 4 75.0 2 7 9 1 1 0 1 0 8
+p236
+aVDerek Fisher LAL 03/05/2004 LAL vs. SEA W 19 9 2 9 22.2 1 5 20.0 4 4 100.0 0 1 1 0 0 0 1 1 2
+p237
+aVShaquille O'Neal LAL 03/05/2004 LAL vs. SEA W 39 32 10 16 62.5 0 0 - 12 18 66.7 4 4 8 6 0 4 3 3 14
+p238
+aVSlava Medvedenko LAL 03/03/2004 LAL @ HOU W 32 13 4 10 40.0 0 1 0.0 5 6 83.3 2 4 6 1 0 0 0 6 4
+p239
+aVDevean George LAL 03/03/2004 LAL @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p240
+aVShaquille O'Neal LAL 03/03/2004 LAL @ HOU W 39 28 13 18 72.2 0 0 - 2 13 15.4 3 4 7 1 1 5 2 5 1
+p241
+aVKareem Rush LAL 03/03/2004 LAL @ HOU W 15 6 2 3 66.7 2 3 66.7 0 0 - 1 0 1 0 0 0 1 1 4
+p242
+aVGary Payton LAL 03/03/2004 LAL @ HOU W 34 14 5 10 50.0 2 3 66.7 2 3 66.7 0 4 4 2 2 0 0 1 3
+p243
+aVDerek Fisher LAL 03/03/2004 LAL @ HOU W 18 5 1 3 33.3 1 2 50.0 2 2 100.0 1 2 3 1 1 0 0 1 0
+p244
+aVBryon Russell LAL 03/03/2004 LAL @ HOU W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -12
+p245
+aVLuke Walton LAL 03/03/2004 LAL @ HOU W 16 8 3 4 75.0 2 2 100.0 0 0 - 0 3 3 2 1 0 4 2 -1
+p246
+aVKobe Bryant LAL 03/03/2004 LAL @ HOU W 46 18 7 19 36.8 0 5 0.0 4 4 100.0 0 8 8 13 0 0 4 2 9
+p247
+aVRick Fox LAL 03/03/2004 LAL @ HOU W 24 0 0 5 0.0 0 1 0.0 0 0 - 0 3 3 3 1 0 1 0 5
+p248
+aVBrian Cook LAL 03/03/2004 LAL @ HOU W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 2
+p249
+aVHorace Grant LAL 03/02/2004 LAL @ ATL L 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p250
+aVShaquille O'Neal LAL 03/02/2004 LAL @ ATL L 37 23 11 20 55.0 0 0 - 1 4 25.0 7 7 14 2 0 2 4 1 4
+p251
+aVGary Payton LAL 03/02/2004 LAL @ ATL L 39 23 11 21 52.4 0 2 0.0 1 3 33.3 1 9 10 10 0 0 3 3 5
+p252
+aVRick Fox LAL 03/02/2004 LAL @ ATL L 19 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 1
+p253
+aVBryon Russell LAL 03/02/2004 LAL @ ATL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p254
+aVDevean George LAL 03/02/2004 LAL @ ATL L 23 3 1 8 12.5 0 1 0.0 1 4 25.0 2 6 8 0 0 0 0 3 -7
+p255
+aVKareem Rush LAL 03/02/2004 LAL @ ATL L 35 14 4 11 36.4 3 6 50.0 3 4 75.0 0 0 0 2 0 0 1 4 2
+p256
+aVLuke Walton LAL 03/02/2004 LAL @ ATL L 29 7 3 4 75.0 1 1 100.0 0 0 - 2 2 4 7 2 0 1 2 -1
+p257
+aVSlava Medvedenko LAL 03/02/2004 LAL @ ATL L 19 8 1 4 25.0 0 0 - 6 6 100.0 1 3 4 2 0 1 0 2 0
+p258
+aVDerek Fisher LAL 03/02/2004 LAL @ ATL L 24 7 3 7 42.9 0 0 - 1 1 100.0 0 0 0 3 2 0 0 0 -7
+p259
+aVKobe Bryant LAL 02/29/2004 LAL @ NJN W 33 11 4 12 33.3 2 6 33.3 1 2 50.0 1 5 6 10 1 0 4 3 19
+p260
+aVBryon Russell LAL 02/29/2004 LAL @ NJN W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -7
+p261
+aVSlava Medvedenko LAL 02/29/2004 LAL @ NJN W 17 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 1 0 0 4 -1
+p262
+aVBrian Cook LAL 02/29/2004 LAL @ NJN W 16 10 4 5 80.0 0 0 - 2 2 100.0 2 2 4 0 0 2 1 2 -1
+p263
+aVDerek Fisher LAL 02/29/2004 LAL @ NJN W 19 8 2 6 33.3 0 1 0.0 4 5 80.0 0 0 0 2 0 0 1 0 -6
+p264
+aVShaquille O'Neal LAL 02/29/2004 LAL @ NJN W 31 19 8 15 53.3 0 0 - 3 5 60.0 5 9 14 2 0 0 2 3 26
+p265
+aVHorace Grant LAL 02/29/2004 LAL @ NJN W 23 14 6 9 66.7 0 0 - 2 2 100.0 1 6 7 0 2 1 0 0 17
+p266
+aVKareem Rush LAL 02/29/2004 LAL @ NJN W 15 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -2
+p267
+aVDevean George LAL 02/29/2004 LAL @ NJN W 22 4 1 5 20.0 0 3 0.0 2 2 100.0 0 6 6 4 0 1 0 1 17
+p268
+aVRick Fox LAL 02/29/2004 LAL @ NJN W 17 6 2 9 22.2 2 5 40.0 0 0 - 0 2 2 0 0 0 2 2 7
+p269
+aVLuke Walton LAL 02/29/2004 LAL @ NJN W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -7
+p270
+aVGary Payton LAL 02/29/2004 LAL @ NJN W 29 16 6 9 66.7 1 4 25.0 3 3 100.0 0 2 2 5 1 0 0 2 23
+p271
+aVKareem Rush LAL 02/28/2004 LAL @ WAS W 19 14 6 9 66.7 2 4 50.0 0 0 - 0 3 3 1 1 2 0 2 13
+p272
+aVSlava Medvedenko LAL 02/28/2004 LAL @ WAS W 23 14 7 12 58.3 0 0 - 0 0 - 4 1 5 3 2 0 0 4 -5
+p273
+aVKobe Bryant LAL 02/28/2004 LAL @ WAS W 38 25 8 16 50.0 2 4 50.0 7 8 87.5 3 11 14 10 2 0 2 3 11
+p274
+aVDevean George LAL 02/28/2004 LAL @ WAS W 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 4 4 2 0 0 0 1 1
+p275
+aVLuke Walton LAL 02/28/2004 LAL @ WAS W 12 9 4 4 100.0 1 1 100.0 0 2 0.0 2 3 5 2 0 0 2 1 12
+p276
+aVBryon Russell LAL 02/28/2004 LAL @ WAS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p277
+aVDerek Fisher LAL 02/28/2004 LAL @ WAS W 15 9 3 5 60.0 2 4 50.0 1 2 50.0 0 0 0 1 1 0 0 1 -4
+p278
+aVGary Payton LAL 02/28/2004 LAL @ WAS W 34 10 5 10 50.0 0 2 0.0 0 0 - 0 3 3 7 1 0 0 1 13
+p279
+aVHorace Grant LAL 02/28/2004 LAL @ WAS W 14 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -7
+p280
+aVShaquille O'Neal LAL 02/28/2004 LAL @ WAS W 34 29 13 17 76.5 0 0 - 3 5 60.0 0 2 2 2 1 4 3 4 18
+p281
+aVRick Fox LAL 02/28/2004 LAL @ WAS W 21 6 2 8 25.0 0 5 0.0 2 2 100.0 1 2 3 5 1 0 2 2 1
+p282
+aVBrian Cook LAL 02/28/2004 LAL @ WAS W 12 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 2 0 0 1 2 3
+p283
+aVKobe Bryant LAL 02/26/2004 LAL vs. SAC L 41 35 12 28 42.9 2 6 33.3 9 10 90.0 3 8 11 6 1 0 4 2 -6
+p284
+aVDevean George LAL 02/26/2004 LAL vs. SAC L 29 7 3 8 37.5 1 3 33.3 0 0 - 5 5 10 4 0 0 0 3 -6
+p285
+aVShaquille O'Neal LAL 02/26/2004 LAL vs. SAC L 41 24 9 12 75.0 0 0 - 6 13 46.2 4 6 10 3 0 2 2 3 6
+p286
+aVDerek Fisher LAL 02/26/2004 LAL vs. SAC L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 1 1 0 1 1 -8
+p287
+aVGary Payton LAL 02/26/2004 LAL vs. SAC L 30 8 4 10 40.0 0 0 - 0 0 - 0 5 5 6 0 0 3 3 4
+p288
+aVKareem Rush LAL 02/26/2004 LAL vs. SAC L 16 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 -2
+p289
+aVRick Fox LAL 02/26/2004 LAL vs. SAC L 13 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 0 0 0 2 4 0
+p290
+aVBryon Russell LAL 02/26/2004 LAL vs. SAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 4
+p291
+aVLuke Walton LAL 02/26/2004 LAL vs. SAC L 11 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 9
+p292
+aVSlava Medvedenko LAL 02/26/2004 LAL vs. SAC L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 -1
+p293
+aVHorace Grant LAL 02/26/2004 LAL vs. SAC L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p294
+aVBrian Cook LAL 02/26/2004 LAL vs. SAC L 17 9 4 8 50.0 0 0 - 1 2 50.0 2 1 3 0 0 1 0 1 -2
+p295
+aVDevean George LAL 02/25/2004 LAL @ DEN W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p296
+aVShaquille O'Neal LAL 02/25/2004 LAL @ DEN W 37 16 5 10 50.0 0 0 - 6 9 66.7 3 5 8 4 2 4 4 4 3
+p297
+aVBrian Cook LAL 02/25/2004 LAL @ DEN W 14 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 1 0 4 -5
+p298
+aVKobe Bryant LAL 02/25/2004 LAL @ DEN W 41 35 14 26 53.8 2 4 50.0 5 5 100.0 2 5 7 10 3 0 3 2 5
+p299
+aVHorace Grant LAL 02/25/2004 LAL @ DEN W 14 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 1 2 0 0 0 -7
+p300
+aVKareem Rush LAL 02/25/2004 LAL @ DEN W 15 8 3 5 60.0 2 2 100.0 0 0 - 0 1 1 1 0 1 1 2 8
+p301
+aVGary Payton LAL 02/25/2004 LAL @ DEN W 33 14 7 11 63.6 0 3 0.0 0 0 - 1 1 2 8 0 0 0 4 8
+p302
+aVDerek Fisher LAL 02/25/2004 LAL @ DEN W 15 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 1 0 0 2 0 -7
+p303
+aVLuke Walton LAL 02/25/2004 LAL @ DEN W 16 2 1 1 100.0 0 0 - 0 0 - 1 4 5 5 4 0 1 1 13
+p304
+aVBryon Russell LAL 02/25/2004 LAL @ DEN W 15 10 4 8 50.0 2 4 50.0 0 0 - 0 0 0 1 2 0 0 2 -4
+p305
+aVRick Fox LAL 02/25/2004 LAL @ DEN W 22 6 3 7 42.9 0 0 - 0 0 - 1 1 2 2 0 0 2 4 -6
+p306
+aVSlava Medvedenko LAL 02/25/2004 LAL @ DEN W 14 10 5 8 62.5 0 0 - 0 0 - 1 2 3 2 1 0 2 4 0
+p307
+aVGary Payton LAL 02/22/2004 LAL @ PHX W 34 20 9 19 47.4 2 4 50.0 0 0 - 2 3 5 5 0 0 1 0 14
+p308
+aVShaquille O'Neal LAL 02/22/2004 LAL @ PHX W 34 19 8 12 66.7 0 0 - 3 4 75.0 1 4 5 1 2 4 4 5 14
+p309
+aVHorace Grant LAL 02/22/2004 LAL @ PHX W 29 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 1 2 2 2 0
+p310
+aVDevean George LAL 02/22/2004 LAL @ PHX W 19 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 1 1 0 0 6
+p311
+aVBrian Cook LAL 02/22/2004 LAL @ PHX W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 7
+p312
+aVKareem Rush LAL 02/22/2004 LAL @ PHX W 14 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 1 0 1 1 0 -2
+p313
+aVBryon Russell LAL 02/22/2004 LAL @ PHX W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p314
+aVKobe Bryant LAL 02/22/2004 LAL @ PHX W 42 40 15 25 60.0 2 5 40.0 8 8 100.0 4 3 7 5 3 0 2 0 9
+p315
+aVLuke Walton LAL 02/22/2004 LAL @ PHX W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p316
+aVRick Fox LAL 02/22/2004 LAL @ PHX W 30 4 2 4 50.0 0 0 - 0 0 - 1 6 7 5 3 0 0 2 11
+p317
+aVDerek Fisher LAL 02/22/2004 LAL @ PHX W 14 4 1 3 33.3 1 2 50.0 1 1 100.0 0 0 0 0 0 0 0 1 -2
+p318
+aVSlava Medvedenko LAL 02/22/2004 LAL @ PHX W 14 0 0 5 0.0 0 0 - 0 0 - 2 3 5 1 0 0 1 3 5
+p319
+aVSlava Medvedenko LAL 02/20/2004 LAL vs. PHI W 14 2 1 5 20.0 0 0 - 0 0 - 2 2 4 1 0 1 1 0 4
+p320
+aVDerek Fisher LAL 02/20/2004 LAL vs. PHI W 20 4 1 6 16.7 0 1 0.0 2 2 100.0 1 3 4 7 1 0 0 2 20
+p321
+aVBryon Russell LAL 02/20/2004 LAL vs. PHI W 17 4 1 3 33.3 0 0 - 2 2 100.0 3 3 6 0 0 1 0 2 7
+p322
+aVLuke Walton LAL 02/20/2004 LAL vs. PHI W 17 5 2 5 40.0 0 1 0.0 1 1 100.0 1 1 2 2 1 0 1 3 15
+p323
+aVHorace Grant LAL 02/20/2004 LAL vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p324
+aVRick Fox LAL 02/20/2004 LAL vs. PHI W 22 11 4 6 66.7 0 1 0.0 3 4 75.0 1 2 3 2 2 0 3 3 15
+p325
+aVDevean George LAL 02/20/2004 LAL vs. PHI W 27 5 2 9 22.2 1 3 33.3 0 0 - 0 4 4 1 1 1 0 2 15
+p326
+aVGary Payton LAL 02/20/2004 LAL vs. PHI W 28 13 5 10 50.0 1 1 100.0 2 3 66.7 2 3 5 6 1 0 2 3 12
+p327
+aVKobe Bryant LAL 02/20/2004 LAL vs. PHI W 30 28 10 18 55.6 1 2 50.0 7 8 87.5 4 1 5 7 3 2 2 4 15
+p328
+aVBrian Cook LAL 02/20/2004 LAL vs. PHI W 13 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 1 0 1 2 11
+p329
+aVShaquille O'Neal LAL 02/20/2004 LAL vs. PHI W 32 29 12 18 66.7 0 0 - 5 14 35.7 7 6 13 3 1 1 3 2 14
+p330
+aVKareem Rush LAL 02/20/2004 LAL vs. PHI W 17 13 6 9 66.7 0 3 0.0 1 2 50.0 0 2 2 0 0 0 0 2 9
+p331
+aVShaquille O'Neal LAL 02/18/2004 LAL @ GSW W 40 31 15 23 65.2 0 0 - 1 9 11.1 6 10 16 7 1 5 7 5 5
+p332
+aVLuke Walton LAL 02/18/2004 LAL @ GSW W 20 5 2 6 33.3 1 2 50.0 0 0 - 4 2 6 0 1 0 0 4 -3
+p333
+aVDerek Fisher LAL 02/18/2004 LAL @ GSW W 21 5 1 5 20.0 1 2 50.0 2 2 100.0 2 0 2 1 2 0 1 0 4
+p334
+aVKobe Bryant LAL 02/18/2004 LAL @ GSW W 44 35 11 16 68.8 0 1 0.0 13 15 86.7 2 4 6 8 2 1 5 1 -1
+p335
+aVSlava Medvedenko LAL 02/18/2004 LAL @ GSW W 20 6 2 8 25.0 0 0 - 2 3 66.7 4 1 5 0 1 0 0 3 -10
+p336
+aVGary Payton LAL 02/18/2004 LAL @ GSW W 23 7 3 7 42.9 0 1 0.0 1 2 50.0 1 5 6 5 0 0 0 2 0
+p337
+aVKareem Rush LAL 02/18/2004 LAL @ GSW W 8 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 1 0 0 0 2 -1
+p338
+aVRick Fox LAL 02/18/2004 LAL @ GSW W 23 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 5 -1
+p339
+aVHorace Grant LAL 02/18/2004 LAL @ GSW W 16 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 1 1 0 0 1 10
+p340
+aVDevean George LAL 02/18/2004 LAL @ GSW W 25 3 1 4 25.0 1 1 100.0 0 0 - 2 0 2 0 0 0 0 2 2
+p341
+aVDerek Fisher LAL 02/17/2004 LAL vs. POR W 16 6 3 6 50.0 0 0 - 0 0 - 0 0 0 2 1 0 2 2 -3
+p342
+aVShaquille O'Neal LAL 02/17/2004 LAL vs. POR W 40 21 9 13 69.2 0 0 - 3 7 42.9 3 8 11 1 0 1 4 3 -5
+p343
+aVSlava Medvedenko LAL 02/17/2004 LAL vs. POR W 31 8 4 11 36.4 0 0 - 0 0 - 2 7 9 0 2 1 2 3 13
+p344
+aVHorace Grant LAL 02/17/2004 LAL vs. POR W 25 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -2
+p345
+aVRick Fox LAL 02/17/2004 LAL vs. POR W 33 5 2 5 40.0 1 4 25.0 0 0 - 1 3 4 5 1 0 2 3 8
+p346
+aVKobe Bryant LAL 02/17/2004 LAL vs. POR W 42 31 13 23 56.5 0 1 0.0 5 9 55.6 4 4 8 10 2 0 4 1 11
+p347
+aVGary Payton LAL 02/17/2004 LAL vs. POR W 37 15 7 12 58.3 1 2 50.0 0 0 - 1 5 6 6 1 0 2 0 1
+p348
+aVKareem Rush LAL 02/17/2004 LAL vs. POR W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p349
+aVDevean George LAL 02/17/2004 LAL vs. POR W 12 3 1 6 16.7 1 2 50.0 0 0 - 2 4 6 0 0 1 0 1 -1
+p350
+aVKareem Rush LAL 02/11/2004 LAL @ HOU L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p351
+aVRick Fox LAL 02/11/2004 LAL @ HOU L 28 6 3 7 42.9 0 0 - 0 0 - 3 2 5 2 1 0 2 1 -9
+p352
+aVDerek Fisher LAL 02/11/2004 LAL @ HOU L 14 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -4
+p353
+aVLuke Walton LAL 02/11/2004 LAL @ HOU L 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -2
+p354
+aVGary Payton LAL 02/11/2004 LAL @ HOU L 37 19 8 11 72.7 2 2 100.0 1 2 50.0 0 3 3 3 3 0 1 0 -19
+p355
+aVBryon Russell LAL 02/11/2004 LAL @ HOU L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p356
+aVMaurice Carter LAL 02/11/2004 LAL @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p357
+aVSlava Medvedenko LAL 02/11/2004 LAL @ HOU L 22 3 1 13 7.7 0 0 - 1 2 50.0 2 3 5 1 1 0 0 3 -6
+p358
+aVHorace Grant LAL 02/11/2004 LAL @ HOU L 30 7 3 9 33.3 0 0 - 1 2 50.0 3 3 6 0 0 0 0 3 -11
+p359
+aVDevean George LAL 02/11/2004 LAL @ HOU L 20 4 2 6 33.3 0 3 0.0 0 1 0.0 0 4 4 2 1 0 1 1 -6
+p360
+aVKobe Bryant LAL 02/11/2004 LAL @ HOU L 36 14 4 7 57.1 4 5 80.0 2 2 100.0 0 1 1 3 0 0 1 3 -7
+p361
+aVShaquille O'Neal LAL 02/11/2004 LAL @ HOU L 41 24 5 12 41.7 0 0 - 14 19 73.7 3 6 9 4 1 4 3 6 -11
+p362
+aVDevean George LAL 02/10/2004 LAL @ MIA W 36 17 6 13 46.2 4 7 57.1 1 1 100.0 3 8 11 0 1 3 1 2 19
+p363
+aVDerek Fisher LAL 02/10/2004 LAL @ MIA W 27 18 6 9 66.7 2 3 66.7 4 4 100.0 0 3 3 6 4 0 2 2 24
+p364
+aVRick Fox LAL 02/10/2004 LAL @ MIA W 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p365
+aVLuke Walton LAL 02/10/2004 LAL @ MIA W 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 2 3
+p366
+aVHorace Grant LAL 02/10/2004 LAL @ MIA W 28 8 4 6 66.7 0 0 - 0 0 - 2 3 5 0 0 0 0 0 28
+p367
+aVSlava Medvedenko LAL 02/10/2004 LAL @ MIA W 21 6 2 6 33.3 0 0 - 2 2 100.0 4 2 6 2 0 0 2 2 -12
+p368
+aVShaquille O'Neal LAL 02/10/2004 LAL @ MIA W 33 25 12 18 66.7 0 0 - 1 5 20.0 3 7 10 1 1 2 2 3 11
+p369
+aVGary Payton LAL 02/10/2004 LAL @ MIA W 41 17 7 19 36.8 0 3 0.0 3 4 75.0 3 4 7 6 1 0 1 3 10
+p370
+aVKareem Rush LAL 02/10/2004 LAL @ MIA W 28 5 2 7 28.6 0 2 0.0 1 3 33.3 0 2 2 1 2 0 0 2 -4
+p371
+aVRick Fox LAL 02/08/2004 LAL @ ORL W 20 3 1 4 25.0 1 3 33.3 0 0 - 1 3 4 3 0 0 0 1 0
+p372
+aVDerek Fisher LAL 02/08/2004 LAL @ ORL W 24 15 6 11 54.5 2 4 50.0 1 1 100.0 0 1 1 3 3 0 2 1 8
+p373
+aVDevean George LAL 02/08/2004 LAL @ ORL W 29 11 4 9 44.4 0 2 0.0 3 3 100.0 0 5 5 2 0 1 2 1 4
+p374
+aVSlava Medvedenko LAL 02/08/2004 LAL @ ORL W 18 6 3 7 42.9 0 0 - 0 0 - 1 3 4 1 0 0 1 3 -4
+p375
+aVShaquille O'Neal LAL 02/08/2004 LAL @ ORL W 35 20 8 11 72.7 0 0 - 4 10 40.0 4 6 10 5 0 1 3 1 -3
+p376
+aVHorace Grant LAL 02/08/2004 LAL @ ORL W 26 6 3 4 75.0 0 0 - 0 0 - 2 6 8 1 0 0 0 0 7
+p377
+aVGary Payton LAL 02/08/2004 LAL @ ORL W 36 18 7 21 33.3 2 3 66.7 2 4 50.0 0 3 3 4 2 1 3 2 -15
+p378
+aVKareem Rush LAL 02/08/2004 LAL @ ORL W 35 17 8 13 61.5 0 2 0.0 1 2 50.0 0 1 1 0 3 1 1 3 11
+p379
+aVLuke Walton LAL 02/08/2004 LAL @ ORL W 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 7 0 1 0 3 2
+p380
+aVGary Payton LAL 02/05/2004 LAL @ PHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -10
+p381
+aVHorace Grant LAL 02/05/2004 LAL @ PHI L 19 2 1 4 25.0 0 0 - 0 0 - 3 1 4 2 0 0 0 1 -13
+p382
+aVLuke Walton LAL 02/05/2004 LAL @ PHI L 24 6 1 2 50.0 0 0 - 4 4 100.0 0 6 6 5 0 1 2 1 4
+p383
+aVDevean George LAL 02/05/2004 LAL @ PHI L 21 13 5 11 45.5 3 7 42.9 0 0 - 1 3 4 0 2 0 1 5 -10
+p384
+aVSlava Medvedenko LAL 02/05/2004 LAL @ PHI L 23 12 5 17 29.4 0 0 - 2 2 100.0 3 4 7 1 0 0 0 2 -16
+p385
+aVShaquille O'Neal LAL 02/05/2004 LAL @ PHI L 31 17 7 14 50.0 0 0 - 3 15 20.0 4 4 8 1 0 1 0 2 -19
+p386
+aVMaurice Carter LAL 02/05/2004 LAL @ PHI L 28 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 1 0 0 5 2 -15
+p387
+aVRick Fox LAL 02/05/2004 LAL @ PHI L 25 0 0 6 0.0 0 0 - 0 0 - 2 1 3 4 0 0 1 3 -14
+p388
+aVDerek Fisher LAL 02/05/2004 LAL @ PHI L 42 9 3 12 25.0 1 3 33.3 2 5 40.0 0 5 5 5 3 1 1 0 -24
+p389
+aVBryon Russell LAL 02/05/2004 LAL @ PHI L 18 5 2 5 40.0 1 4 25.0 0 0 - 0 4 4 1 0 0 0 2 2
+p390
+aVDerek Fisher LAL 02/04/2004 LAL @ CLE W 48 6 1 6 16.7 0 1 0.0 4 5 80.0 0 8 8 4 0 0 1 3 -1
+p391
+aVGary Payton LAL 02/04/2004 LAL @ CLE W 43 30 12 20 60.0 2 4 50.0 4 6 66.7 0 4 4 6 0 2 1 0 7
+p392
+aVDevean George LAL 02/04/2004 LAL @ CLE W 19 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 1 2 6
+p393
+aVRick Fox LAL 02/04/2004 LAL @ CLE W 31 5 2 10 20.0 1 5 20.0 0 0 - 0 4 4 3 2 1 1 6 -4
+p394
+aVLuke Walton LAL 02/04/2004 LAL @ CLE W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p395
+aVSlava Medvedenko LAL 02/04/2004 LAL @ CLE W 19 7 3 5 60.0 0 0 - 1 2 50.0 3 3 6 1 0 1 1 4 -11
+p396
+aVShaquille O'Neal LAL 02/04/2004 LAL @ CLE W 48 37 14 21 66.7 0 0 - 9 20 45.0 3 9 12 6 0 2 1 2 2
+p397
+aVBryon Russell LAL 02/04/2004 LAL @ CLE W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -1
+p398
+aVHorace Grant LAL 02/04/2004 LAL @ CLE W 33 11 5 6 83.3 0 0 - 1 1 100.0 3 9 12 3 0 1 1 3 16
+p399
+aVMaurice Carter LAL 02/04/2004 LAL @ CLE W 13 9 1 3 33.3 0 0 - 7 8 87.5 0 1 1 1 0 0 0 2 8
+p400
+aVHorace Grant LAL 02/02/2004 LAL @ IND L 34 8 3 6 50.0 0 0 - 2 2 100.0 1 6 7 2 0 0 2 1 -6
+p401
+aVRick Fox LAL 02/02/2004 LAL @ IND L 28 8 3 5 60.0 0 1 0.0 2 2 100.0 1 6 7 2 1 2 3 5 -1
+p402
+aVDevean George LAL 02/02/2004 LAL @ IND L 18 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 1 4 0 5 -7
+p403
+aVGary Payton LAL 02/02/2004 LAL @ IND L 39 10 4 17 23.5 0 0 - 2 4 50.0 1 7 8 7 1 0 2 2 -13
+p404
+aVLuke Walton LAL 02/02/2004 LAL @ IND L 24 9 2 5 40.0 1 3 33.3 4 6 66.7 1 1 2 2 3 2 1 0 -4
+p405
+aVDerek Fisher LAL 02/02/2004 LAL @ IND L 34 9 4 15 26.7 0 5 0.0 1 1 100.0 0 1 1 2 2 0 1 1 -9
+p406
+aVMaurice Carter LAL 02/02/2004 LAL @ IND L 7 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 1 7
+p407
+aVSlava Medvedenko LAL 02/02/2004 LAL @ IND L 22 14 5 11 45.5 0 0 - 4 6 66.7 3 2 5 0 0 0 0 2 -12
+p408
+aVBryon Russell LAL 02/02/2004 LAL @ IND L 18 2 1 3 33.3 0 0 - 0 0 - 0 6 6 1 0 2 0 2 -9
+p409
+aVKareem Rush LAL 02/02/2004 LAL @ IND L 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -11
+p410
+aVGary Payton LAL 02/01/2004 LAL @ TOR W 39 14 5 12 41.7 1 4 25.0 3 4 75.0 0 6 6 2 1 0 1 4 -1
+p411
+aVSlava Medvedenko LAL 02/01/2004 LAL @ TOR W 15 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 1 0 1 4 -2
+p412
+aVDerek Fisher LAL 02/01/2004 LAL @ TOR W 26 8 3 8 37.5 0 1 0.0 2 2 100.0 0 3 3 4 0 0 2 3 -3
+p413
+aVDevean George LAL 02/01/2004 LAL @ TOR W 26 2 0 6 0.0 0 2 0.0 2 2 100.0 0 5 5 1 0 0 1 3 1
+p414
+aVRick Fox LAL 02/01/2004 LAL @ TOR W 22 6 2 6 33.3 0 2 0.0 2 2 100.0 2 3 5 4 2 0 0 5 -2
+p415
+aVBryon Russell LAL 02/01/2004 LAL @ TOR W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 3
+p416
+aVLuke Walton LAL 02/01/2004 LAL @ TOR W 11 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 2 1 1 2 10
+p417
+aVHorace Grant LAL 02/01/2004 LAL @ TOR W 29 4 1 8 12.5 0 0 - 2 2 100.0 3 6 9 1 1 1 0 2 -9
+p418
+aVKareem Rush LAL 02/01/2004 LAL @ TOR W 31 5 2 7 28.6 0 3 0.0 1 1 100.0 0 3 3 1 2 0 2 2 6
+p419
+aVShaquille O'Neal LAL 02/01/2004 LAL @ TOR W 39 36 13 20 65.0 0 0 - 10 15 66.7 2 6 8 5 1 1 6 3 2
+p420
+aVBryon Russell LAL 01/30/2004 LAL vs. MIN L 15 2 0 4 0.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 1 2 -5
+p421
+aVShaquille O'Neal LAL 01/30/2004 LAL vs. MIN L 37 22 8 14 57.1 0 0 - 6 11 54.5 3 6 9 3 0 1 2 2 -15
+p422
+aVRick Fox LAL 01/30/2004 LAL vs. MIN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 4
+p423
+aVDevean George LAL 01/30/2004 LAL vs. MIN L 25 2 1 6 16.7 0 1 0.0 0 0 - 2 2 4 0 0 0 1 1 -6
+p424
+aVLuke Walton LAL 01/30/2004 LAL vs. MIN L 13 3 1 7 14.3 1 2 50.0 0 0 - 3 2 5 3 0 0 0 2 1
+p425
+aVHorace Grant LAL 01/30/2004 LAL vs. MIN L 20 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 0 0
+p426
+aVGary Payton LAL 01/30/2004 LAL vs. MIN L 37 10 4 9 44.4 2 4 50.0 0 0 - 1 3 4 9 2 1 5 4 -10
+p427
+aVKareem Rush LAL 01/30/2004 LAL vs. MIN L 43 17 6 13 46.2 2 4 50.0 3 4 75.0 1 6 7 4 1 0 0 3 -11
+p428
+aVSlava Medvedenko LAL 01/30/2004 LAL vs. MIN L 24 10 4 12 33.3 0 0 - 2 4 50.0 1 3 4 1 2 0 1 5 -11
+p429
+aVDerek Fisher LAL 01/30/2004 LAL vs. MIN L 19 12 5 10 50.0 1 2 50.0 1 1 100.0 0 3 3 0 1 0 0 1 -12
+p430
+aVShaquille O'Neal LAL 01/28/2004 LAL vs. SEA W 18 7 1 4 25.0 0 0 - 5 9 55.6 1 4 5 0 0 1 0 1 -13
+p431
+aVDevean George LAL 01/28/2004 LAL vs. SEA W 24 10 4 8 50.0 2 2 100.0 0 0 - 1 3 4 3 0 0 1 1 -14
+p432
+aVLuke Walton LAL 01/28/2004 LAL vs. SEA W 12 4 2 2 100.0 0 0 - 0 0 - 1 3 4 4 0 0 0 0 13
+p433
+aVDerek Fisher LAL 01/28/2004 LAL vs. SEA W 18 11 5 11 45.5 0 2 0.0 1 1 100.0 1 0 1 3 6 0 1 2 26
+p434
+aVBryon Russell LAL 01/28/2004 LAL vs. SEA W 14 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 3 13
+p435
+aVGary Payton LAL 01/28/2004 LAL vs. SEA W 35 24 11 16 68.8 2 3 66.7 0 2 0.0 0 1 1 5 1 0 0 1 -10
+p436
+aVKareem Rush LAL 01/28/2004 LAL vs. SEA W 24 7 3 9 33.3 1 3 33.3 0 0 - 1 2 3 3 0 0 0 2 25
+p437
+aVKobe Bryant LAL 01/28/2004 LAL vs. SEA W 29 14 6 15 40.0 0 3 0.0 2 3 66.7 0 2 2 3 0 0 3 0 2
+p438
+aVRick Fox LAL 01/28/2004 LAL vs. SEA W 8 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 0 0 1 0 4 13
+p439
+aVSlava Medvedenko LAL 01/28/2004 LAL vs. SEA W 29 5 2 8 25.0 0 0 - 1 2 50.0 3 3 6 1 1 0 1 2 -12
+p440
+aVHorace Grant LAL 01/28/2004 LAL vs. SEA W 29 8 4 6 66.7 0 0 - 0 0 - 4 6 10 3 0 0 0 0 27
+p441
+aVGary Payton LAL 01/24/2004 LAL @ UTA W 35 22 8 15 53.3 3 4 75.0 3 4 75.0 0 3 3 6 0 0 7 4 4
+p442
+aVHorace Grant LAL 01/24/2004 LAL @ UTA W 37 7 3 6 50.0 0 0 - 1 4 25.0 4 2 6 2 1 0 1 1 1
+p443
+aVSlava Medvedenko LAL 01/24/2004 LAL @ UTA W 41 26 12 19 63.2 0 0 - 2 2 100.0 7 5 12 1 1 0 0 4 9
+p444
+aVLuke Walton LAL 01/24/2004 LAL @ UTA W 12 0 0 1 0.0 0 0 - 0 0 - 1 0 1 4 2 0 0 1 7
+p445
+aVDevean George LAL 01/24/2004 LAL @ UTA W 32 5 1 6 16.7 1 1 100.0 2 2 100.0 2 4 6 1 4 0 2 2 10
+p446
+aVKobe Bryant LAL 01/24/2004 LAL @ UTA W 38 21 6 15 40.0 1 4 25.0 8 13 61.5 2 2 4 6 0 0 0 0 15
+p447
+aVDerek Fisher LAL 01/24/2004 LAL @ UTA W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 3
+p448
+aVBryon Russell LAL 01/24/2004 LAL @ UTA W 14 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -13
+p449
+aVKareem Rush LAL 01/24/2004 LAL @ UTA W 16 10 4 8 50.0 2 3 66.7 0 0 - 1 0 1 0 1 0 1 3 -1
+p450
+aVGary Payton LAL 01/22/2004 LAL @ DAL L 31 11 4 8 50.0 1 2 50.0 2 2 100.0 1 3 4 5 0 0 0 0 -12
+p451
+aVBryon Russell LAL 01/22/2004 LAL @ DAL L 22 2 1 9 11.1 0 3 0.0 0 0 - 0 4 4 1 0 0 0 2 -20
+p452
+aVLuke Walton LAL 01/22/2004 LAL @ DAL L 23 2 1 3 33.3 0 0 - 0 0 - 3 4 7 3 1 0 3 1 -3
+p453
+aVKareem Rush LAL 01/22/2004 LAL @ DAL L 31 18 7 13 53.8 3 5 60.0 1 3 33.3 0 2 2 1 0 2 1 3 -8
+p454
+aVSlava Medvedenko LAL 01/22/2004 LAL @ DAL L 38 18 6 12 50.0 0 0 - 6 6 100.0 0 5 5 0 1 0 2 3 -12
+p455
+aVDevean George LAL 01/22/2004 LAL @ DAL L 36 24 7 15 46.7 1 3 33.3 9 10 90.0 2 4 6 2 2 0 3 6 -9
+p456
+aVIme Udoka LAL 01/22/2004 LAL @ DAL L 11 4 1 4 25.0 0 0 - 2 4 50.0 0 1 1 0 2 1 1 3 -4
+p457
+aVDerek Fisher LAL 01/22/2004 LAL @ DAL L 29 4 1 5 20.0 0 4 0.0 2 2 100.0 0 3 3 1 1 0 0 0 -13
+p458
+aVBrian Cook LAL 01/22/2004 LAL @ DAL L 19 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 0 0 0 0 3 -14
+p459
+aVLuke Walton LAL 01/21/2004 LAL @ MEM L 17 2 1 3 33.3 0 0 - 0 1 0.0 0 4 4 4 0 0 1 1 3
+p460
+aVKareem Rush LAL 01/21/2004 LAL @ MEM L 34 5 2 10 20.0 1 3 33.3 0 0 - 2 6 8 5 0 0 0 2 5
+p461
+aVDevean George LAL 01/21/2004 LAL @ MEM L 34 8 4 12 33.3 0 2 0.0 0 2 0.0 1 4 5 0 1 0 1 3 -7
+p462
+aVGary Payton LAL 01/21/2004 LAL @ MEM L 41 24 7 13 53.8 1 1 100.0 9 10 90.0 0 6 6 3 0 0 5 1 -3
+p463
+aVBryon Russell LAL 01/21/2004 LAL @ MEM L 22 10 4 9 44.4 1 3 33.3 1 2 50.0 1 3 4 2 1 0 1 2 1
+p464
+aVDerek Fisher LAL 01/21/2004 LAL @ MEM L 22 9 2 12 16.7 0 5 0.0 5 6 83.3 0 3 3 2 2 0 2 1 -5
+p465
+aVBrian Cook LAL 01/21/2004 LAL @ MEM L 31 12 5 8 62.5 0 0 - 2 5 40.0 3 7 10 0 0 0 1 5 -4
+p466
+aVIme Udoka LAL 01/21/2004 LAL @ MEM L 5 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -4
+p467
+aVSlava Medvedenko LAL 01/21/2004 LAL @ MEM L 34 12 4 14 28.6 0 0 - 4 4 100.0 7 5 12 1 0 1 1 4 -16
+p468
+aVDevean George LAL 01/19/2004 LAL vs. PHX L 28 0 0 10 0.0 0 1 0.0 0 0 - 1 1 2 2 1 0 2 4 -4
+p469
+aVGary Payton LAL 01/19/2004 LAL vs. PHX L 39 14 5 13 38.5 2 4 50.0 2 4 50.0 1 7 8 9 1 0 3 1 -8
+p470
+aVLuke Walton LAL 01/19/2004 LAL vs. PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p471
+aVSlava Medvedenko LAL 01/19/2004 LAL vs. PHX L 39 15 6 15 40.0 0 0 - 3 4 75.0 1 4 5 2 0 0 1 3 4
+p472
+aVBryon Russell LAL 01/19/2004 LAL vs. PHX L 30 17 5 10 50.0 3 4 75.0 4 5 80.0 1 2 3 2 0 0 0 4 -9
+p473
+aVJamal Sampson LAL 01/19/2004 LAL vs. PHX L 16 0 0 1 0.0 0 0 - 0 2 0.0 3 5 8 0 0 1 0 0 -2
+p474
+aVKareem Rush LAL 01/19/2004 LAL vs. PHX L 39 18 7 14 50.0 2 6 33.3 2 3 66.7 1 2 3 1 2 0 2 1 -12
+p475
+aVDerek Fisher LAL 01/19/2004 LAL vs. PHX L 29 13 4 13 30.8 2 7 28.6 3 5 60.0 1 4 5 4 3 1 2 1 17
+p476
+aVBrian Cook LAL 01/19/2004 LAL vs. PHX L 15 6 3 4 75.0 0 0 - 0 0 - 2 4 6 1 0 0 0 1 1
+p477
+aVSlava Medvedenko LAL 01/17/2004 LAL vs. LAC W 39 20 9 16 56.3 0 0 - 2 5 40.0 4 6 10 0 1 0 3 5 5
+p478
+aVKareem Rush LAL 01/17/2004 LAL vs. LAC W 30 10 4 11 36.4 2 4 50.0 0 0 - 0 5 5 2 1 0 3 2 -1
+p479
+aVBrian Cook LAL 01/17/2004 LAL vs. LAC W 18 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 2 1 2 0 1 -2
+p480
+aVDerek Fisher LAL 01/17/2004 LAL vs. LAC W 26 11 4 9 44.4 3 4 75.0 0 0 - 1 3 4 2 1 0 2 2 2
+p481
+aVDevean George LAL 01/17/2004 LAL vs. LAC W 34 11 4 9 44.4 0 1 0.0 3 6 50.0 1 1 2 0 0 1 1 3 -4
+p482
+aVJamal Sampson LAL 01/17/2004 LAL vs. LAC W 32 9 4 9 44.4 0 0 - 1 2 50.0 5 5 10 3 1 0 0 5 13
+p483
+aVGary Payton LAL 01/17/2004 LAL vs. LAC W 40 15 7 19 36.8 0 1 0.0 1 2 50.0 1 5 6 15 0 2 1 3 3
+p484
+aVLuke Walton LAL 01/17/2004 LAL vs. LAC W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p485
+aVBryon Russell LAL 01/17/2004 LAL vs. LAC W 18 6 1 3 33.3 0 0 - 4 4 100.0 1 4 5 2 1 0 0 4 2
+p486
+aVBryon Russell LAL 01/16/2004 LAL @ SAC L 16 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 1 1 0 1 0 -5
+p487
+aVIme Udoka LAL 01/16/2004 LAL @ SAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 4
+p488
+aVGary Payton LAL 01/16/2004 LAL @ SAC L 30 16 7 13 53.8 1 4 25.0 1 2 50.0 0 2 2 1 0 0 2 3 -24
+p489
+aVLuke Walton LAL 01/16/2004 LAL @ SAC L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 5 3 0 1 1 4
+p490
+aVBrian Cook LAL 01/16/2004 LAL @ SAC L 27 6 2 11 18.2 0 1 0.0 2 2 100.0 1 3 4 1 0 2 1 1 -2
+p491
+aVKareem Rush LAL 01/16/2004 LAL @ SAC L 34 30 13 22 59.1 4 6 66.7 0 0 - 1 1 2 1 1 1 0 1 -12
+p492
+aVJamal Sampson LAL 01/16/2004 LAL @ SAC L 24 2 1 5 20.0 0 0 - 0 0 - 4 5 9 3 0 0 3 2 -13
+p493
+aVDerek Fisher LAL 01/16/2004 LAL @ SAC L 32 12 5 9 55.6 0 1 0.0 2 2 100.0 0 3 3 1 1 0 0 1 -7
+p494
+aVDevean George LAL 01/16/2004 LAL @ SAC L 26 4 2 6 33.3 0 3 0.0 0 0 - 0 4 4 2 1 0 2 2 -19
+p495
+aVSlava Medvedenko LAL 01/16/2004 LAL @ SAC L 29 6 3 11 27.3 0 1 0.0 0 0 - 3 6 9 4 2 0 2 5 -26
+p496
+aVSlava Medvedenko LAL 01/14/2004 LAL vs. DEN W 39 22 9 12 75.0 0 0 - 4 6 66.7 2 7 9 2 1 2 2 3 22
+p497
+aVGary Payton LAL 01/14/2004 LAL vs. DEN W 32 21 9 13 69.2 0 0 - 3 4 75.0 0 3 3 6 0 0 1 1 14
+p498
+aVDerek Fisher LAL 01/14/2004 LAL vs. DEN W 25 9 2 8 25.0 0 1 0.0 5 6 83.3 1 0 1 2 2 0 1 2 20
+p499
+aVBryon Russell LAL 01/14/2004 LAL vs. DEN W 19 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 4 13
+p500
+aVBrian Cook LAL 01/14/2004 LAL vs. DEN W 19 4 2 4 50.0 0 0 - 0 0 - 1 5 6 3 1 0 3 2 16
+p501
+aVJamal Sampson LAL 01/14/2004 LAL vs. DEN W 3 5 1 1 100.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 0 0
+p502
+aVHorace Grant LAL 01/14/2004 LAL vs. DEN W 29 8 2 7 28.6 0 0 - 4 4 100.0 4 7 11 4 0 1 1 2 14
+p503
+aVKareem Rush LAL 01/14/2004 LAL vs. DEN W 32 8 3 8 37.5 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 0 18
+p504
+aVLuke Walton LAL 01/14/2004 LAL vs. DEN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 0
+p505
+aVDevean George LAL 01/14/2004 LAL vs. DEN W 29 12 4 9 44.4 0 0 - 4 4 100.0 0 3 3 3 1 1 0 2 13
+p506
+aVIme Udoka LAL 01/14/2004 LAL vs. DEN W 6 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 0
+p507
+aVHorace Grant LAL 01/12/2004 LAL vs. CLE W 34 6 3 9 33.3 0 0 - 0 2 0.0 3 6 9 1 0 1 1 6 1
+p508
+aVGary Payton LAL 01/12/2004 LAL vs. CLE W 42 13 5 22 22.7 0 1 0.0 3 4 75.0 0 4 4 4 1 0 6 2 4
+p509
+aVBrian Cook LAL 01/12/2004 LAL vs. CLE W 20 13 4 6 66.7 0 0 - 5 6 83.3 1 5 6 0 2 1 1 2 16
+p510
+aVKareem Rush LAL 01/12/2004 LAL vs. CLE W 17 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 0 1 1 0 1 -4
+p511
+aVDevean George LAL 01/12/2004 LAL vs. CLE W 30 12 6 11 54.5 0 1 0.0 0 0 - 6 6 12 1 3 2 2 3 -7
+p512
+aVDerek Fisher LAL 01/12/2004 LAL vs. CLE W 25 9 3 10 30.0 1 2 50.0 2 2 100.0 0 5 5 4 0 0 1 1 19
+p513
+aVBryon Russell LAL 01/12/2004 LAL vs. CLE W 16 3 1 5 20.0 0 3 0.0 1 2 50.0 0 2 2 1 0 0 1 1 15
+p514
+aVSlava Medvedenko LAL 01/12/2004 LAL vs. CLE W 29 11 4 13 30.8 0 0 - 3 3 100.0 6 2 8 2 1 0 1 3 5
+p515
+aVJamal Sampson LAL 01/12/2004 LAL vs. CLE W 10 2 0 0 - 0 0 - 2 2 100.0 1 4 5 0 0 0 0 3 -1
+p516
+aVKobe Bryant LAL 01/12/2004 LAL vs. CLE W 17 10 3 8 37.5 0 0 - 4 5 80.0 1 4 5 2 1 0 0 1 2
+p517
+aVSlava Medvedenko LAL 01/09/2004 LAL vs. ATL W 32 26 13 21 61.9 0 0 - 0 0 - 8 3 11 3 2 2 0 2 39
+p518
+aVDerek Fisher LAL 01/09/2004 LAL vs. ATL W 20 11 3 6 50.0 0 1 0.0 5 5 100.0 0 1 1 3 1 0 0 2 16
+p519
+aVHorace Grant LAL 01/09/2004 LAL vs. ATL W 24 6 3 5 60.0 0 0 - 0 0 - 1 0 1 2 1 1 0 0 25
+p520
+aVLuke Walton LAL 01/09/2004 LAL vs. ATL W 11 0 0 1 0.0 0 1 0.0 0 0 - 1 3 4 4 0 0 2 2 6
+p521
+aVJamal Sampson LAL 01/09/2004 LAL vs. ATL W 17 4 2 3 66.7 0 0 - 0 0 - 5 4 9 1 1 1 1 2 2
+p522
+aVKareem Rush LAL 01/09/2004 LAL vs. ATL W 17 9 4 12 33.3 1 2 50.0 0 0 - 0 2 2 1 1 1 0 1 13
+p523
+aVGary Payton LAL 01/09/2004 LAL vs. ATL W 28 9 4 9 44.4 0 1 0.0 1 1 100.0 3 2 5 7 2 0 2 3 30
+p524
+aVBrian Cook LAL 01/09/2004 LAL vs. ATL W 14 6 3 6 50.0 0 1 0.0 0 1 0.0 1 1 2 0 0 0 1 4 13
+p525
+aVBryon Russell LAL 01/09/2004 LAL vs. ATL W 20 11 4 4 100.0 3 3 100.0 0 0 - 0 2 2 4 1 0 1 0 20
+p526
+aVKobe Bryant LAL 01/09/2004 LAL vs. ATL W 31 26 9 19 47.4 2 5 40.0 6 6 100.0 0 5 5 6 3 0 1 2 33
+p527
+aVDevean George LAL 01/09/2004 LAL vs. ATL W 26 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 2 0 1 0 2 33
+p528
+aVGary Payton LAL 01/07/2004 LAL @ DEN L 30 22 8 15 53.3 1 2 50.0 5 6 83.3 1 4 5 2 1 0 2 2 -17
+p529
+aVBryon Russell LAL 01/07/2004 LAL @ DEN L 12 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 1 0 0 0 -6
+p530
+aVDerek Fisher LAL 01/07/2004 LAL @ DEN L 23 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 4 2 0 4 0 -12
+p531
+aVHorace Grant LAL 01/07/2004 LAL @ DEN L 22 3 1 2 50.0 0 0 - 1 2 50.0 1 4 5 4 1 0 0 1 -3
+p532
+aVLuke Walton LAL 01/07/2004 LAL @ DEN L 14 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 2 0 0 1 1 -17
+p533
+aVKareem Rush LAL 01/07/2004 LAL @ DEN L 20 14 6 12 50.0 2 4 50.0 0 0 - 0 0 0 1 0 0 0 2 -2
+p534
+aVKobe Bryant LAL 01/07/2004 LAL @ DEN L 38 27 8 23 34.8 1 4 25.0 10 11 90.9 1 2 3 6 6 0 5 3 -15
+p535
+aVJamal Sampson LAL 01/07/2004 LAL @ DEN L 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 2 1 2 -8
+p536
+aVBrian Cook LAL 01/07/2004 LAL @ DEN L 26 4 1 8 12.5 0 0 - 2 2 100.0 1 7 8 1 1 4 1 3 -6
+p537
+aVSlava Medvedenko LAL 01/07/2004 LAL @ DEN L 18 7 3 6 50.0 0 0 - 1 3 33.3 0 2 2 2 0 1 0 5 -9
+p538
+aVDevean George LAL 01/07/2004 LAL @ DEN L 25 3 0 5 0.0 0 1 0.0 3 4 75.0 0 2 2 3 0 1 2 4 -15
+p539
+aVJamal Sampson LAL 01/06/2004 LAL @ MIN L 8 3 1 1 100.0 0 0 - 1 2 50.0 3 1 4 0 0 0 1 2 -13
+p540
+aVDevean George LAL 01/06/2004 LAL @ MIN L 20 4 2 7 28.6 0 2 0.0 0 0 - 1 0 1 1 1 1 0 1 -2
+p541
+aVDerek Fisher LAL 01/06/2004 LAL @ MIN L 21 9 2 9 22.2 1 5 20.0 4 5 80.0 1 2 3 5 1 0 0 2 -5
+p542
+aVBrian Cook LAL 01/06/2004 LAL @ MIN L 30 16 7 13 53.8 0 0 - 2 2 100.0 1 3 4 0 1 1 0 5 -12
+p543
+aVGary Payton LAL 01/06/2004 LAL @ MIN L 30 13 6 12 50.0 0 0 - 1 1 100.0 0 2 2 2 2 0 1 2 -19
+p544
+aVKareem Rush LAL 01/06/2004 LAL @ MIN L 24 16 7 14 50.0 1 3 33.3 1 1 100.0 0 2 2 1 1 0 1 0 -1
+p545
+aVSlava Medvedenko LAL 01/06/2004 LAL @ MIN L 22 4 2 7 28.6 0 0 - 0 0 - 0 4 4 2 1 0 2 4 -15
+p546
+aVHorace Grant LAL 01/06/2004 LAL @ MIN L 21 3 1 8 12.5 0 0 - 1 2 50.0 4 2 6 2 1 0 1 1 -5
+p547
+aVKobe Bryant LAL 01/06/2004 LAL @ MIN L 38 20 8 17 47.1 0 1 0.0 4 6 66.7 2 8 10 4 0 0 1 4 -17
+p548
+aVLuke Walton LAL 01/06/2004 LAL @ MIN L 14 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 4 2 0 0 2 13
+p549
+aVBryon Russell LAL 01/06/2004 LAL @ MIN L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 2 1 -4
+p550
+aVBryon Russell LAL 01/04/2004 LAL @ LAC L 23 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 4 0 1 0 3 3
+p551
+aVBrian Cook LAL 01/04/2004 LAL @ LAC L 16 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 3 1 0 0 5 -2
+p552
+aVDerek Fisher LAL 01/04/2004 LAL @ LAC L 22 9 4 9 44.4 1 3 33.3 0 1 0.0 0 1 1 0 4 0 3 1 0
+p553
+aVDevean George LAL 01/04/2004 LAL @ LAC L 14 0 0 8 0.0 0 1 0.0 0 0 - 3 1 4 1 1 0 1 4 -3
+p554
+aVKareem Rush LAL 01/04/2004 LAL @ LAC L 11 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 2 0 1 1 0 3
+p555
+aVKobe Bryant LAL 01/04/2004 LAL @ LAC L 40 44 14 27 51.9 4 7 57.1 12 15 80.0 4 6 10 3 4 0 2 2 -7
+p556
+aVSlava Medvedenko LAL 01/04/2004 LAL @ LAC L 41 18 8 20 40.0 0 0 - 2 2 100.0 5 3 8 1 1 1 2 4 3
+p557
+aVGary Payton LAL 01/04/2004 LAL @ LAC L 35 10 5 17 29.4 0 2 0.0 0 2 0.0 2 3 5 4 3 2 1 1 -7
+p558
+aVHorace Grant LAL 01/04/2004 LAL @ LAC L 38 4 2 5 40.0 0 0 - 0 0 - 3 5 8 2 2 2 0 3 -5
+p559
+aVGary Payton LAL 01/02/2004 LAL @ SEA L 41 24 9 20 45.0 1 2 50.0 5 6 83.3 0 5 5 5 0 1 2 2 1
+p560
+aVBryon Russell LAL 01/02/2004 LAL @ SEA L 20 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 2 -2
+p561
+aVSlava Medvedenko LAL 01/02/2004 LAL @ SEA L 30 14 6 7 85.7 0 0 - 2 3 66.7 2 2 4 1 0 0 0 4 -10
+p562
+aVHorace Grant LAL 01/02/2004 LAL @ SEA L 29 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 0 0 2 2 0
+p563
+aVDerek Fisher LAL 01/02/2004 LAL @ SEA L 16 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 2 2 0 2 0 4
+p564
+aVShaquille O'Neal LAL 01/02/2004 LAL @ SEA L 14 6 2 2 100.0 0 0 - 2 4 50.0 0 5 5 3 0 0 4 1 7
+p565
+aVKareem Rush LAL 01/02/2004 LAL @ SEA L 19 6 3 9 33.3 0 2 0.0 0 0 - 2 2 4 0 2 1 1 1 -13
+p566
+aVBrian Cook LAL 01/02/2004 LAL @ SEA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -1
+p567
+aVKobe Bryant LAL 01/02/2004 LAL @ SEA L 36 32 11 25 44.0 3 4 75.0 7 8 87.5 2 4 6 6 4 0 3 4 4
+p568
+aVLuke Walton LAL 01/02/2004 LAL @ SEA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p569
+aVDevean George LAL 01/02/2004 LAL @ SEA L 30 8 3 8 37.5 2 6 33.3 0 0 - 1 2 3 2 1 1 0 4 0
+p570
+aVKareem Rush LAL 12/28/2003 LAL vs. BOS W 9 5 2 4 50.0 0 1 0.0 1 1 100.0 1 0 1 1 0 0 1 0 1
+p571
+aVLuke Walton LAL 12/28/2003 LAL vs. BOS W 5 0 0 1 0.0 0 1 0.0 0 2 0.0 0 2 2 0 0 0 0 1 0
+p572
+aVSlava Medvedenko LAL 12/28/2003 LAL vs. BOS W 22 10 5 11 45.5 0 0 - 0 0 - 2 7 9 2 0 0 0 3 13
+p573
+aVKobe Bryant LAL 12/28/2003 LAL vs. BOS W 36 11 5 18 27.8 1 6 16.7 0 0 - 2 3 5 6 2 0 6 2 15
+p574
+aVDerek Fisher LAL 12/28/2003 LAL vs. BOS W 21 15 5 9 55.6 4 6 66.7 1 3 33.3 3 1 4 2 2 0 1 4 9
+p575
+aVBrian Cook LAL 12/28/2003 LAL vs. BOS W 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -1
+p576
+aVDevean George LAL 12/28/2003 LAL vs. BOS W 32 14 4 10 40.0 2 5 40.0 4 4 100.0 0 4 4 2 2 0 2 3 14
+p577
+aVBryon Russell LAL 12/28/2003 LAL vs. BOS W 17 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 5 2 0 2 2 9
+p578
+aVShaquille O'Neal LAL 12/28/2003 LAL vs. BOS W 35 22 6 10 60.0 0 0 - 10 20 50.0 10 6 16 3 1 2 3 2 18
+p579
+aVHorace Grant LAL 12/28/2003 LAL vs. BOS W 29 10 4 8 50.0 0 0 - 2 2 100.0 3 5 8 3 1 1 2 1 16
+p580
+aVGary Payton LAL 12/28/2003 LAL vs. BOS W 30 13 4 8 50.0 0 1 0.0 5 6 83.3 1 2 3 6 2 0 3 2 21
+p581
+aVHorace Grant LAL 12/25/2003 LAL vs. HOU L 30 2 1 4 25.0 0 0 - 0 0 - 2 9 11 2 1 0 0 2 -15
+p582
+aVDerek Fisher LAL 12/25/2003 LAL vs. HOU L 16 3 1 7 14.3 0 3 0.0 1 2 50.0 0 0 0 1 0 0 1 1 -3
+p583
+aVKobe Bryant LAL 12/25/2003 LAL vs. HOU L 43 23 9 26 34.6 1 2 50.0 4 6 66.7 3 5 8 6 2 0 3 4 -7
+p584
+aVKareem Rush LAL 12/25/2003 LAL vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p585
+aVGary Payton LAL 12/25/2003 LAL vs. HOU L 41 13 5 11 45.5 0 1 0.0 3 4 75.0 2 2 4 7 4 0 2 4 -13
+p586
+aVSlava Medvedenko LAL 12/25/2003 LAL vs. HOU L 23 10 5 11 45.5 0 0 - 0 0 - 2 5 7 0 0 0 0 1 8
+p587
+aVLuke Walton LAL 12/25/2003 LAL vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p588
+aVShaquille O'Neal LAL 12/25/2003 LAL vs. HOU L 41 22 5 12 41.7 0 0 - 12 18 66.7 5 5 10 2 0 3 2 3 -15
+p589
+aVBryon Russell LAL 12/25/2003 LAL vs. HOU L 12 3 1 1 100.0 1 1 100.0 0 0 - 2 1 3 2 0 0 2 3 6
+p590
+aVDevean George LAL 12/25/2003 LAL vs. HOU L 30 11 5 13 38.5 1 4 25.0 0 0 - 0 1 1 3 0 0 0 4 -16
+p591
+aVLuke Walton LAL 12/23/2003 LAL @ GSW L 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -11
+p592
+aVKareem Rush LAL 12/23/2003 LAL @ GSW L 16 7 3 8 37.5 0 2 0.0 1 2 50.0 0 0 0 1 0 0 2 3 -11
+p593
+aVHorace Grant LAL 12/23/2003 LAL @ GSW L 16 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -5
+p594
+aVKobe Bryant LAL 12/23/2003 LAL @ GSW L 38 23 8 16 50.0 3 5 60.0 4 5 80.0 1 4 5 2 1 1 4 5 -7
+p595
+aVDevean George LAL 12/23/2003 LAL @ GSW L 21 16 6 10 60.0 4 6 66.7 0 0 - 2 7 9 2 0 0 2 5 -1
+p596
+aVGary Payton LAL 12/23/2003 LAL @ GSW L 33 8 4 8 50.0 0 1 0.0 0 4 0.0 1 1 2 13 4 0 2 4 -4
+p597
+aVSlava Medvedenko LAL 12/23/2003 LAL @ GSW L 33 12 5 10 50.0 0 1 0.0 2 2 100.0 0 3 3 1 0 1 1 2 1
+p598
+aVBryon Russell LAL 12/23/2003 LAL @ GSW L 21 4 1 3 33.3 0 1 0.0 2 2 100.0 0 7 7 1 1 0 1 1 1
+p599
+aVDerek Fisher LAL 12/23/2003 LAL @ GSW L 15 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 0 0 0 0 -5
+p600
+aVShaquille O'Neal LAL 12/23/2003 LAL @ GSW L 39 21 9 15 60.0 0 0 - 3 10 30.0 2 3 5 4 1 2 3 2 -3
+p601
+aVKareem Rush LAL 12/21/2003 LAL vs. PHX W 17 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p602
+aVBryon Russell LAL 12/21/2003 LAL vs. PHX W 28 14 5 10 50.0 3 4 75.0 1 2 50.0 1 3 4 3 1 0 3 2 15
+p603
+aVLuke Walton LAL 12/21/2003 LAL vs. PHX W 7 5 2 2 100.0 0 0 - 1 1 100.0 1 0 1 2 0 0 0 0 0
+p604
+aVGary Payton LAL 12/21/2003 LAL vs. PHX W 29 19 6 11 54.5 2 2 100.0 5 6 83.3 1 3 4 7 1 0 2 3 11
+p605
+aVHorace Grant LAL 12/21/2003 LAL vs. PHX W 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 0 0 0 1 2
+p606
+aVKarl Malone LAL 12/21/2003 LAL vs. PHX W 4 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -4
+p607
+aVSlava Medvedenko LAL 12/21/2003 LAL vs. PHX W 11 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p608
+aVShaquille O'Neal LAL 12/21/2003 LAL vs. PHX W 36 18 5 10 50.0 0 0 - 8 14 57.1 6 12 18 4 1 1 5 4 4
+p609
+aVDerek Fisher LAL 12/21/2003 LAL vs. PHX W 19 11 5 7 71.4 1 1 100.0 0 0 - 1 0 1 4 1 0 2 1 -3
+p610
+aVDevean George LAL 12/21/2003 LAL vs. PHX W 38 19 9 15 60.0 1 4 25.0 0 0 - 2 7 9 3 2 2 0 2 7
+p611
+aVKobe Bryant LAL 12/21/2003 LAL vs. PHX W 39 10 4 12 33.3 0 2 0.0 2 3 66.7 3 3 6 4 0 0 4 0 5
+p612
+aVSlava Medvedenko LAL 12/19/2003 LAL vs. DEN W 18 11 5 10 50.0 0 0 - 1 2 50.0 3 0 3 0 0 0 1 2 -8
+p613
+aVBryon Russell LAL 12/19/2003 LAL vs. DEN W 21 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 4 -11
+p614
+aVGary Payton LAL 12/19/2003 LAL vs. DEN W 35 10 5 16 31.3 0 0 - 0 0 - 1 1 2 11 1 0 4 3 13
+p615
+aVKobe Bryant LAL 12/19/2003 LAL vs. DEN W 31 13 5 14 35.7 0 2 0.0 3 4 75.0 1 2 3 5 0 0 4 1 -4
+p616
+aVDerek Fisher LAL 12/19/2003 LAL vs. DEN W 22 6 3 6 50.0 0 1 0.0 0 0 - 1 2 3 2 2 0 3 4 0
+p617
+aVHorace Grant LAL 12/19/2003 LAL vs. DEN W 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -10
+p618
+aVKarl Malone LAL 12/19/2003 LAL vs. DEN W 27 11 4 6 66.7 0 0 - 3 4 75.0 0 8 8 1 0 1 3 2 13
+p619
+aVJannero Pargo LAL 12/19/2003 LAL vs. DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p620
+aVKareem Rush LAL 12/19/2003 LAL vs. DEN W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p621
+aVShaquille O'Neal LAL 12/19/2003 LAL vs. DEN W 36 26 8 11 72.7 0 0 - 10 17 58.8 2 9 11 6 0 4 2 3 12
+p622
+aVDevean George LAL 12/19/2003 LAL vs. DEN W 30 12 5 7 71.4 2 4 50.0 0 0 - 2 5 7 2 1 0 1 2 10
+p623
+aVShaquille O'Neal LAL 12/13/2003 LAL @ POR L 41 22 10 16 62.5 0 0 - 2 3 66.7 2 8 10 4 0 0 1 3 -2
+p624
+aVGary Payton LAL 12/13/2003 LAL @ POR L 39 14 6 11 54.5 0 1 0.0 2 4 50.0 1 2 3 4 1 0 2 1 -2
+p625
+aVKobe Bryant LAL 12/13/2003 LAL @ POR L 42 35 10 18 55.6 1 3 33.3 14 15 93.3 3 2 5 6 0 1 2 2 0
+p626
+aVKarl Malone LAL 12/13/2003 LAL @ POR L 35 14 5 12 41.7 0 0 - 4 5 80.0 0 9 9 3 2 0 1 3 -4
+p627
+aVSlava Medvedenko LAL 12/13/2003 LAL @ POR L 11 6 3 8 37.5 0 0 - 0 0 - 2 0 2 0 0 0 1 3 -1
+p628
+aVBryon Russell LAL 12/13/2003 LAL @ POR L 14 8 4 5 80.0 0 1 0.0 0 0 - 1 0 1 1 2 1 0 1 -4
+p629
+aVDerek Fisher LAL 12/13/2003 LAL @ POR L 17 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 2 0 1 0 -6
+p630
+aVDevean George LAL 12/13/2003 LAL @ POR L 30 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 2 2 1 1 3 1
+p631
+aVHorace Grant LAL 12/13/2003 LAL @ POR L 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 0 0 2 -2
+p632
+aVShaquille O'Neal LAL 12/12/2003 LAL vs. DAL L 34 25 7 7 100.0 0 0 - 11 24 45.8 7 7 14 1 0 2 5 5 -6
+p633
+aVGary Payton LAL 12/12/2003 LAL vs. DAL L 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -12
+p634
+aVDevean George LAL 12/12/2003 LAL vs. DAL L 18 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 1 1 0 0 2 -19
+p635
+aVKareem Rush LAL 12/12/2003 LAL vs. DAL L 23 12 6 11 54.5 0 3 0.0 0 1 0.0 1 1 2 0 0 1 0 1 12
+p636
+aVDerek Fisher LAL 12/12/2003 LAL vs. DAL L 25 0 0 9 0.0 0 4 0.0 0 2 0.0 0 2 2 5 2 0 2 1 -18
+p637
+aVKarl Malone LAL 12/12/2003 LAL vs. DAL L 32 14 6 11 54.5 0 0 - 2 3 66.7 1 6 7 3 0 1 2 2 -16
+p638
+aVHorace Grant LAL 12/12/2003 LAL vs. DAL L 11 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 2 0 0 0 0 -3
+p639
+aVKobe Bryant LAL 12/12/2003 LAL vs. DAL L 41 15 4 18 22.2 0 3 0.0 7 7 100.0 1 6 7 6 1 1 1 5 -19
+p640
+aVBryon Russell LAL 12/12/2003 LAL vs. DAL L 30 11 4 9 44.4 3 6 50.0 0 0 - 1 1 2 1 1 1 2 4 2
+p641
+aVJannero Pargo LAL 12/12/2003 LAL vs. DAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p642
+aVSlava Medvedenko LAL 12/12/2003 LAL vs. DAL L 17 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -3
+p643
+aVDerek Fisher LAL 12/09/2003 LAL vs. NYK W 21 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 3 1 0 0 1 11
+p644
+aVShaquille O'Neal LAL 12/09/2003 LAL vs. NYK W 39 18 5 15 33.3 0 0 - 8 15 53.3 6 9 15 3 0 4 2 3 6
+p645
+aVKarl Malone LAL 12/09/2003 LAL vs. NYK W 34 20 9 15 60.0 0 0 - 2 4 50.0 1 5 6 5 2 1 2 2 -5
+p646
+aVGary Payton LAL 12/09/2003 LAL vs. NYK W 34 17 6 10 60.0 0 1 0.0 5 6 83.3 0 2 2 4 1 0 1 4 -5
+p647
+aVHorace Grant LAL 12/09/2003 LAL vs. NYK W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p648
+aVKobe Bryant LAL 12/09/2003 LAL vs. NYK W 41 21 7 16 43.8 0 0 - 7 8 87.5 3 3 6 9 1 0 3 1 10
+p649
+aVSlava Medvedenko LAL 12/09/2003 LAL vs. NYK W 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 13
+p650
+aVBryon Russell LAL 12/09/2003 LAL vs. NYK W 28 12 3 7 42.9 2 4 50.0 4 4 100.0 0 5 5 0 4 0 1 1 18
+p651
+aVDevean George LAL 12/09/2003 LAL vs. NYK W 20 4 2 7 28.6 0 4 0.0 0 0 - 0 2 2 1 1 2 1 2 -10
+p652
+aVBryon Russell LAL 12/07/2003 LAL vs. UTA W 16 3 1 5 20.0 1 4 25.0 0 0 - 1 1 2 3 1 1 0 0 -7
+p653
+aVKobe Bryant LAL 12/07/2003 LAL vs. UTA W 40 19 4 17 23.5 2 4 50.0 9 10 90.0 2 4 6 3 1 0 2 4 3
+p654
+aVDevean George LAL 12/07/2003 LAL vs. UTA W 38 16 6 10 60.0 2 5 40.0 2 2 100.0 2 6 8 3 2 1 1 4 8
+p655
+aVKareem Rush LAL 12/07/2003 LAL vs. UTA W 5 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 4
+p656
+aVGary Payton LAL 12/07/2003 LAL vs. UTA W 36 15 6 14 42.9 0 1 0.0 3 4 75.0 2 2 4 7 2 0 2 3 3
+p657
+aVShaquille O'Neal LAL 12/07/2003 LAL vs. UTA W 41 19 7 13 53.8 0 0 - 5 9 55.6 2 13 15 8 1 2 3 4 6
+p658
+aVLuke Walton LAL 12/07/2003 LAL vs. UTA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p659
+aVSlava Medvedenko LAL 12/07/2003 LAL vs. UTA W 25 15 6 8 75.0 0 0 - 3 6 50.0 0 2 2 1 0 2 2 2 14
+p660
+aVDerek Fisher LAL 12/07/2003 LAL vs. UTA W 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -6
+p661
+aVHorace Grant LAL 12/07/2003 LAL vs. UTA W 17 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -11
+p662
+aVKareem Rush LAL 12/04/2003 LAL @ DAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 1 0 0 -1
+p663
+aVLuke Walton LAL 12/04/2003 LAL @ DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p664
+aVGary Payton LAL 12/04/2003 LAL @ DAL W 40 17 7 13 53.8 1 3 33.3 2 4 50.0 0 5 5 8 0 0 2 2 16
+p665
+aVDevean George LAL 12/04/2003 LAL @ DAL W 25 8 2 9 22.2 1 4 25.0 3 4 75.0 1 4 5 0 0 1 1 3 22
+p666
+aVHorace Grant LAL 12/04/2003 LAL @ DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p667
+aVBryon Russell LAL 12/04/2003 LAL @ DAL W 24 6 2 5 40.0 2 4 50.0 0 0 - 0 9 9 1 0 0 1 1 -9
+p668
+aVShaquille O'Neal LAL 12/04/2003 LAL @ DAL W 38 25 8 14 57.1 0 0 - 9 14 64.3 3 16 19 5 0 3 4 3 24
+p669
+aVKarl Malone LAL 12/04/2003 LAL @ DAL W 34 11 3 8 37.5 0 0 - 5 5 100.0 2 7 9 6 3 0 2 2 11
+p670
+aVKobe Bryant LAL 12/04/2003 LAL @ DAL W 38 32 9 23 39.1 2 5 40.0 12 12 100.0 4 2 6 3 1 0 3 3 10
+p671
+aVSlava Medvedenko LAL 12/04/2003 LAL @ DAL W 13 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 1 0 0 4 -13
+p672
+aVDerek Fisher LAL 12/04/2003 LAL @ DAL W 19 9 4 8 50.0 1 2 50.0 0 1 0.0 0 0 0 1 0 0 1 2 -4
+p673
+aVShaquille O'Neal LAL 12/03/2003 LAL @ SAS W 39 15 5 12 41.7 0 0 - 5 8 62.5 2 14 16 0 1 9 5 4 11
+p674
+aVDerek Fisher LAL 12/03/2003 LAL @ SAS W 16 1 0 2 0.0 0 1 0.0 1 2 50.0 1 1 2 2 1 0 0 2 -15
+p675
+aVHorace Grant LAL 12/03/2003 LAL @ SAS W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 2 0 1 1 -7
+p676
+aVSlava Medvedenko LAL 12/03/2003 LAL @ SAS W 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -21
+p677
+aVGary Payton LAL 12/03/2003 LAL @ SAS W 34 16 6 13 46.2 0 0 - 4 6 66.7 1 1 2 6 2 1 2 5 15
+p678
+aVBryon Russell LAL 12/03/2003 LAL @ SAS W 11 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -8
+p679
+aVKarl Malone LAL 12/03/2003 LAL @ SAS W 38 16 8 12 66.7 0 0 - 0 0 - 3 7 10 2 1 0 0 4 25
+p680
+aVDevean George LAL 12/03/2003 LAL @ SAS W 37 18 7 13 53.8 3 4 75.0 1 2 50.0 0 1 1 2 3 0 1 2 12
+p681
+aVKobe Bryant LAL 12/03/2003 LAL @ SAS W 46 21 6 20 30.0 1 4 25.0 8 9 88.9 1 5 6 3 2 0 4 4 8
+p682
+aVDerek Fisher LAL 11/30/2003 LAL vs. IND W 21 12 4 10 40.0 2 4 50.0 2 2 100.0 0 0 0 1 1 0 0 1 2
+p683
+aVLuke Walton LAL 11/30/2003 LAL vs. IND W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p684
+aVKarl Malone LAL 11/30/2003 LAL vs. IND W 30 11 5 8 62.5 0 0 - 1 2 50.0 1 14 15 0 1 0 3 2 17
+p685
+aVKobe Bryant LAL 11/30/2003 LAL vs. IND W 36 12 4 10 40.0 1 2 50.0 3 4 75.0 1 1 2 7 1 0 2 3 24
+p686
+aVShaquille O'Neal LAL 11/30/2003 LAL vs. IND W 22 23 8 13 61.5 0 0 - 7 12 58.3 2 3 5 1 0 4 1 3 16
+p687
+aVBryon Russell LAL 11/30/2003 LAL vs. IND W 21 7 3 6 50.0 1 3 33.3 0 0 - 1 2 3 4 0 0 1 3 8
+p688
+aVKareem Rush LAL 11/30/2003 LAL vs. IND W 8 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 1 5
+p689
+aVDevean George LAL 11/30/2003 LAL vs. IND W 26 3 1 7 14.3 1 3 33.3 0 0 - 0 3 3 2 0 0 3 3 17
+p690
+aVSlava Medvedenko LAL 11/30/2003 LAL vs. IND W 13 10 4 5 80.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 4 -4
+p691
+aVGary Payton LAL 11/30/2003 LAL vs. IND W 30 8 2 7 28.6 0 1 0.0 4 4 100.0 0 2 2 5 4 0 1 2 18
+p692
+aVHorace Grant LAL 11/30/2003 LAL vs. IND W 25 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 2 0 2 0 3 8
+p693
+aVJannero Pargo LAL 11/30/2003 LAL vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p694
+aVGary Payton LAL 11/28/2003 LAL vs. SAS W 29 17 8 11 72.7 0 0 - 1 1 100.0 0 4 4 7 3 0 0 3 24
+p695
+aVShaquille O'Neal LAL 11/28/2003 LAL vs. SAS W 24 7 2 6 33.3 0 0 - 3 9 33.3 2 6 8 2 0 2 3 3 23
+p696
+aVSlava Medvedenko LAL 11/28/2003 LAL vs. SAS W 19 6 3 7 42.9 0 0 - 0 0 - 2 4 6 0 0 0 0 3 -2
+p697
+aVKobe Bryant LAL 11/28/2003 LAL vs. SAS W 31 17 6 13 46.2 1 2 50.0 4 6 66.7 0 2 2 2 1 0 0 0 24
+p698
+aVLuke Walton LAL 11/28/2003 LAL vs. SAS W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -12
+p699
+aVHorace Grant LAL 11/28/2003 LAL vs. SAS W 19 4 1 7 14.3 0 1 0.0 2 2 100.0 1 1 2 3 0 1 3 1 -4
+p700
+aVBryon Russell LAL 11/28/2003 LAL vs. SAS W 19 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 -8
+p701
+aVDevean George LAL 11/28/2003 LAL vs. SAS W 27 19 8 9 88.9 2 2 100.0 1 1 100.0 1 2 3 0 2 0 3 4 24
+p702
+aVJannero Pargo LAL 11/28/2003 LAL vs. SAS W 4 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p703
+aVDerek Fisher LAL 11/28/2003 LAL vs. SAS W 23 9 4 5 80.0 1 1 100.0 0 0 - 0 3 3 4 1 0 1 2 6
+p704
+aVKareem Rush LAL 11/28/2003 LAL vs. SAS W 12 11 5 6 83.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p705
+aVKarl Malone LAL 11/28/2003 LAL vs. SAS W 27 10 4 9 44.4 0 0 - 2 2 100.0 2 9 11 10 0 1 1 2 25
+p706
+aVGary Payton LAL 11/26/2003 LAL vs. WAS W 27 10 4 10 40.0 1 2 50.0 1 4 25.0 0 1 1 5 1 0 1 2 17
+p707
+aVHorace Grant LAL 11/26/2003 LAL vs. WAS W 29 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 2 0 0 0 1 11
+p708
+aVKarl Malone LAL 11/26/2003 LAL vs. WAS W 28 13 3 5 60.0 0 0 - 7 7 100.0 1 4 5 5 0 0 2 2 18
+p709
+aVDevean George LAL 11/26/2003 LAL vs. WAS W 27 18 7 10 70.0 1 2 50.0 3 3 100.0 0 5 5 3 2 0 2 1 15
+p710
+aVLuke Walton LAL 11/26/2003 LAL vs. WAS W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 4 0 0 0 1 0
+p711
+aVKobe Bryant LAL 11/26/2003 LAL vs. WAS W 25 22 7 13 53.8 1 3 33.3 7 7 100.0 0 4 4 4 2 0 3 3 15
+p712
+aVDerek Fisher LAL 11/26/2003 LAL vs. WAS W 19 14 5 8 62.5 1 3 33.3 3 3 100.0 0 1 1 2 1 0 6 4 8
+p713
+aVKareem Rush LAL 11/26/2003 LAL vs. WAS W 16 14 6 8 75.0 0 1 0.0 2 2 100.0 0 1 1 2 1 1 2 2 11
+p714
+aVBryon Russell LAL 11/26/2003 LAL vs. WAS W 21 10 3 5 60.0 2 3 66.7 2 2 100.0 2 1 3 4 2 0 1 0 4
+p715
+aVSlava Medvedenko LAL 11/26/2003 LAL vs. WAS W 26 11 5 5 100.0 0 0 - 1 2 50.0 0 1 1 2 1 0 1 5 13
+p716
+aVJannero Pargo LAL 11/26/2003 LAL vs. WAS W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 2 2 0 4 0 -7
+p717
+aVDevean George LAL 11/23/2003 LAL vs. MEM W 23 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 2 0 0 2 4 7
+p718
+aVGary Payton LAL 11/23/2003 LAL vs. MEM W 30 17 8 13 61.5 0 0 - 1 1 100.0 1 1 2 10 0 0 3 2 23
+p719
+aVKarl Malone LAL 11/23/2003 LAL vs. MEM W 27 20 6 7 85.7 0 0 - 8 9 88.9 0 10 10 3 0 0 0 2 21
+p720
+aVKareem Rush LAL 11/23/2003 LAL vs. MEM W 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 3 3 0
+p721
+aVSlava Medvedenko LAL 11/23/2003 LAL vs. MEM W 30 14 7 8 87.5 0 0 - 0 0 - 2 9 11 2 1 0 1 1 13
+p722
+aVJannero Pargo LAL 11/23/2003 LAL vs. MEM W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p723
+aVDerek Fisher LAL 11/23/2003 LAL vs. MEM W 20 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 3 0 0 2 1 15
+p724
+aVLuke Walton LAL 11/23/2003 LAL vs. MEM W 12 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 3 1 0 0 0 11
+p725
+aVBryon Russell LAL 11/23/2003 LAL vs. MEM W 22 14 5 6 83.3 2 2 100.0 2 2 100.0 0 3 3 2 1 2 1 4 29
+p726
+aVKobe Bryant LAL 11/23/2003 LAL vs. MEM W 32 28 8 16 50.0 1 2 50.0 11 12 91.7 1 2 3 3 4 0 1 2 20
+p727
+aVHorace Grant LAL 11/23/2003 LAL vs. MEM W 27 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 2 2 0 0 1 19
+p728
+aVKarl Malone LAL 11/21/2003 LAL vs. CHI W 39 14 5 11 45.5 0 0 - 4 6 66.7 5 13 18 3 1 1 2 3 8
+p729
+aVHorace Grant LAL 11/21/2003 LAL vs. CHI W 27 4 2 4 50.0 0 0 - 0 0 - 2 3 5 3 0 0 0 2 -3
+p730
+aVLuke Walton LAL 11/21/2003 LAL vs. CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p731
+aVDevean George LAL 11/21/2003 LAL vs. CHI W 33 8 4 14 28.6 0 2 0.0 0 0 - 1 3 4 3 1 0 3 2 1
+p732
+aVDerek Fisher LAL 11/21/2003 LAL vs. CHI W 19 5 0 6 0.0 0 2 0.0 5 6 83.3 0 4 4 2 0 0 0 1 -2
+p733
+aVKareem Rush LAL 11/21/2003 LAL vs. CHI W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -7
+p734
+aVBryon Russell LAL 11/21/2003 LAL vs. CHI W 12 12 2 2 100.0 2 2 100.0 6 6 100.0 2 1 3 1 0 1 0 1 3
+p735
+aVGary Payton LAL 11/21/2003 LAL vs. CHI W 40 15 6 16 37.5 0 2 0.0 3 5 60.0 0 2 2 4 1 1 1 2 15
+p736
+aVKobe Bryant LAL 11/21/2003 LAL vs. CHI W 37 28 10 19 52.6 0 1 0.0 8 11 72.7 1 4 5 4 3 1 3 4 16
+p737
+aVShaquille O'Neal LAL 11/21/2003 LAL vs. CHI W 25 15 7 11 63.6 0 0 - 1 2 50.0 3 4 7 2 0 3 0 1 3
+p738
+aVKareem Rush LAL 11/19/2003 LAL @ NYK W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 3
+p739
+aVKarl Malone LAL 11/19/2003 LAL @ NYK W 37 17 5 8 62.5 0 0 - 7 8 87.5 2 12 14 4 2 0 2 4 22
+p740
+aVKobe Bryant LAL 11/19/2003 LAL @ NYK W 34 21 7 13 53.8 0 0 - 7 9 77.8 1 1 2 4 1 0 1 5 17
+p741
+aVHorace Grant LAL 11/19/2003 LAL @ NYK W 23 6 3 6 50.0 0 0 - 0 0 - 0 4 4 1 0 0 3 3 3
+p742
+aVJannero Pargo LAL 11/19/2003 LAL @ NYK W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 5
+p743
+aVGary Payton LAL 11/19/2003 LAL @ NYK W 29 11 2 9 22.2 1 1 100.0 6 6 100.0 1 4 5 2 3 0 1 2 18
+p744
+aVDevean George LAL 11/19/2003 LAL @ NYK W 38 9 3 5 60.0 0 1 0.0 3 5 60.0 2 6 8 0 5 1 3 0 20
+p745
+aVShaquille O'Neal LAL 11/19/2003 LAL @ NYK W 31 23 6 15 40.0 0 0 - 11 16 68.8 2 4 6 2 1 1 2 2 13
+p746
+aVBryon Russell LAL 11/19/2003 LAL @ NYK W 9 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 2
+p747
+aVDerek Fisher LAL 11/19/2003 LAL @ NYK W 22 10 3 12 25.0 1 4 25.0 3 3 100.0 0 0 0 2 2 0 0 3 -2
+p748
+aVLuke Walton LAL 11/19/2003 LAL @ NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p749
+aVJamal Sampson LAL 11/18/2003 LAL @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p750
+aVDerek Fisher LAL 11/18/2003 LAL @ DET L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -2
+p751
+aVDevean George LAL 11/18/2003 LAL @ DET L 30 8 4 8 50.0 0 1 0.0 0 0 - 1 1 2 3 2 0 1 3 0
+p752
+aVKarl Malone LAL 11/18/2003 LAL @ DET L 41 20 9 13 69.2 0 0 - 2 2 100.0 1 4 5 5 2 2 2 2 -9
+p753
+aVKareem Rush LAL 11/18/2003 LAL @ DET L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -9
+p754
+aVShaquille O'Neal LAL 11/18/2003 LAL @ DET L 31 20 8 16 50.0 0 0 - 4 6 66.7 2 8 10 5 0 0 4 5 2
+p755
+aVKobe Bryant LAL 11/18/2003 LAL @ DET L 41 19 4 14 28.6 0 2 0.0 11 11 100.0 1 1 2 3 0 0 0 3 -9
+p756
+aVHorace Grant LAL 11/18/2003 LAL @ DET L 22 7 3 9 33.3 0 0 - 1 2 50.0 2 2 4 2 0 1 0 0 -13
+p757
+aVGary Payton LAL 11/18/2003 LAL @ DET L 40 15 7 10 70.0 1 2 50.0 0 0 - 2 1 3 5 1 0 1 3 -7
+p758
+aVBryon Russell LAL 11/18/2003 LAL @ DET L 8 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 2 -3
+p759
+aVJamal Sampson LAL 11/16/2003 LAL vs. MIA W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p760
+aVJannero Pargo LAL 11/16/2003 LAL vs. MIA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p761
+aVKarl Malone LAL 11/16/2003 LAL vs. MIA W 30 11 3 5 60.0 0 0 - 5 8 62.5 1 9 10 3 2 1 2 2 19
+p762
+aVKareem Rush LAL 11/16/2003 LAL vs. MIA W 20 8 3 8 37.5 0 3 0.0 2 4 50.0 2 2 4 0 0 1 0 4 5
+p763
+aVKobe Bryant LAL 11/16/2003 LAL vs. MIA W 34 27 6 10 60.0 0 1 0.0 15 16 93.8 1 3 4 6 2 0 3 2 21
+p764
+aVDevean George LAL 11/16/2003 LAL vs. MIA W 22 4 2 9 22.2 0 2 0.0 0 0 - 1 3 4 0 2 0 0 4 22
+p765
+aVBryon Russell LAL 11/16/2003 LAL vs. MIA W 14 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 1 0 2 2 -5
+p766
+aVHorace Grant LAL 11/16/2003 LAL vs. MIA W 18 7 2 4 50.0 0 0 - 3 4 75.0 2 5 7 0 0 1 1 3 4
+p767
+aVGary Payton LAL 11/16/2003 LAL vs. MIA W 28 13 6 11 54.5 0 2 0.0 1 1 100.0 0 1 1 8 1 0 2 3 18
+p768
+aVDerek Fisher LAL 11/16/2003 LAL vs. MIA W 23 6 2 11 18.2 0 0 - 2 2 100.0 0 2 2 2 1 0 1 0 4
+p769
+aVLuke Walton LAL 11/16/2003 LAL vs. MIA W 16 3 1 4 25.0 0 1 0.0 1 1 100.0 0 2 2 0 0 0 2 1 3
+p770
+aVShaquille O'Neal LAL 11/16/2003 LAL vs. MIA W 24 14 6 8 75.0 0 0 - 2 8 25.0 1 5 6 1 1 1 4 5 16
+p771
+aVJannero Pargo LAL 11/14/2003 LAL vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p772
+aVHorace Grant LAL 11/14/2003 LAL vs. DET W 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 1 2 2
+p773
+aVBryon Russell LAL 11/14/2003 LAL vs. DET W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 3 2
+p774
+aVKarl Malone LAL 11/14/2003 LAL vs. DET W 38 16 5 11 45.5 0 0 - 6 8 75.0 1 8 9 3 0 0 4 2 2
+p775
+aVGary Payton LAL 11/14/2003 LAL vs. DET W 38 21 9 13 69.2 1 1 100.0 2 2 100.0 1 4 5 3 2 0 4 4 8
+p776
+aVLuke Walton LAL 11/14/2003 LAL vs. DET W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p777
+aVKobe Bryant LAL 11/14/2003 LAL vs. DET W 37 16 6 11 54.5 0 0 - 4 4 100.0 0 3 3 1 3 2 1 5 12
+p778
+aVDevean George LAL 11/14/2003 LAL vs. DET W 35 7 3 9 33.3 0 2 0.0 1 2 50.0 3 2 5 1 4 1 1 0 -1
+p779
+aVShaquille O'Neal LAL 11/14/2003 LAL vs. DET W 42 21 7 17 41.2 0 0 - 7 11 63.6 5 10 15 8 0 3 5 2 8
+p780
+aVKareem Rush LAL 11/14/2003 LAL vs. DET W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p781
+aVDerek Fisher LAL 11/14/2003 LAL vs. DET W 19 5 2 8 25.0 0 2 0.0 1 2 50.0 1 1 2 2 1 0 1 4 0
+p782
+aVShaquille O'Neal LAL 11/12/2003 LAL vs. TOR W 40 23 9 12 75.0 0 0 - 5 15 33.3 2 12 14 0 0 2 2 2 18
+p783
+aVLuke Walton LAL 11/12/2003 LAL vs. TOR W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p784
+aVDerek Fisher LAL 11/12/2003 LAL vs. TOR W 26 7 2 9 22.2 1 2 50.0 2 3 66.7 0 3 3 5 3 0 1 1 15
+p785
+aVDevean George LAL 11/12/2003 LAL vs. TOR W 20 6 2 6 33.3 0 1 0.0 2 2 100.0 1 4 5 2 0 0 1 6 6
+p786
+aVKareem Rush LAL 11/12/2003 LAL vs. TOR W 9 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 1
+p787
+aVJannero Pargo LAL 11/12/2003 LAL vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p788
+aVKarl Malone LAL 11/12/2003 LAL vs. TOR W 32 17 5 12 41.7 0 0 - 7 11 63.6 0 8 8 3 3 0 3 2 9
+p789
+aVKobe Bryant LAL 11/12/2003 LAL vs. TOR W 37 19 5 11 45.5 1 1 100.0 8 10 80.0 1 2 3 4 1 0 3 4 1
+p790
+aVGary Payton LAL 11/12/2003 LAL vs. TOR W 36 16 7 16 43.8 0 1 0.0 2 2 100.0 2 3 5 6 2 0 1 3 18
+p791
+aVBryon Russell LAL 11/12/2003 LAL vs. TOR W 16 2 1 3 33.3 0 0 - 0 0 - 4 1 5 0 0 0 0 3 6
+p792
+aVHorace Grant LAL 11/12/2003 LAL vs. TOR W 15 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 1 1 0 0 8
+p793
+aVKobe Bryant LAL 11/10/2003 LAL @ MEM L 33 19 5 15 33.3 0 2 0.0 9 10 90.0 1 3 4 5 2 0 6 4 -3
+p794
+aVKarl Malone LAL 11/10/2003 LAL @ MEM L 34 13 5 10 50.0 0 0 - 3 5 60.0 2 7 9 4 3 4 6 2 -9
+p795
+aVHorace Grant LAL 11/10/2003 LAL @ MEM L 14 0 0 3 0.0 0 0 - 0 0 - 3 3 6 2 0 1 1 1 -15
+p796
+aVBryon Russell LAL 11/10/2003 LAL @ MEM L 13 1 0 3 0.0 0 2 0.0 1 4 25.0 1 1 2 1 0 0 1 3 -10
+p797
+aVGary Payton LAL 11/10/2003 LAL @ MEM L 27 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 1 -6
+p798
+aVShaquille O'Neal LAL 11/10/2003 LAL @ MEM L 40 20 8 14 57.1 0 0 - 4 8 50.0 1 11 12 2 2 3 3 4 -1
+p799
+aVDerek Fisher LAL 11/10/2003 LAL @ MEM L 25 9 3 11 27.3 1 4 25.0 2 2 100.0 1 0 1 0 1 0 2 1 -6
+p800
+aVLuke Walton LAL 11/10/2003 LAL @ MEM L 8 7 2 2 100.0 2 2 100.0 1 2 50.0 1 0 1 1 1 0 0 1 4
+p801
+aVDevean George LAL 11/10/2003 LAL @ MEM L 34 17 6 7 85.7 3 4 75.0 2 2 100.0 1 5 6 1 1 0 2 3 2
+p802
+aVKareem Rush LAL 11/10/2003 LAL @ MEM L 12 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 2 -6
+p803
+aVKarl Malone LAL 11/07/2003 LAL @ NOH L 28 10 3 7 42.9 0 0 - 4 4 100.0 1 5 6 2 0 0 2 3 -8
+p804
+aVGary Payton LAL 11/07/2003 LAL @ NOH L 28 7 3 10 30.0 0 2 0.0 1 2 50.0 2 2 4 11 1 0 2 1 -14
+p805
+aVHorace Grant LAL 11/07/2003 LAL @ NOH L 17 5 2 2 100.0 0 0 - 1 2 50.0 4 1 5 2 0 0 1 1 -1
+p806
+aVKobe Bryant LAL 11/07/2003 LAL @ NOH L 37 11 4 14 28.6 0 4 0.0 3 4 75.0 1 3 4 3 1 0 3 3 -24
+p807
+aVJannero Pargo LAL 11/07/2003 LAL @ NOH L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 0 6
+p808
+aVBryon Russell LAL 11/07/2003 LAL @ NOH L 13 6 2 5 40.0 1 2 50.0 1 2 50.0 0 0 0 1 1 0 0 3 0
+p809
+aVDevean George LAL 11/07/2003 LAL @ NOH L 30 16 6 10 60.0 4 5 80.0 0 0 - 1 3 4 2 0 1 2 0 -22
+p810
+aVKareem Rush LAL 11/07/2003 LAL @ NOH L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p811
+aVDerek Fisher LAL 11/07/2003 LAL @ NOH L 27 11 4 10 40.0 1 3 33.3 2 2 100.0 1 1 2 4 0 0 1 1 -12
+p812
+aVLuke Walton LAL 11/07/2003 LAL @ NOH L 14 6 2 4 50.0 0 2 0.0 2 2 100.0 0 0 0 1 2 0 1 2 -2
+p813
+aVShaquille O'Neal LAL 11/07/2003 LAL @ NOH L 30 21 8 11 72.7 0 0 - 5 8 62.5 0 6 6 0 0 0 1 3 -18
+p814
+aVBryon Russell LAL 11/06/2003 LAL @ SAS W 16 0 0 4 0.0 0 2 0.0 0 1 0.0 1 4 5 0 0 0 1 3 5
+p815
+aVKareem Rush LAL 11/06/2003 LAL @ SAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p816
+aVDerek Fisher LAL 11/06/2003 LAL @ SAS W 38 11 5 17 29.4 1 5 20.0 0 0 - 1 1 2 0 0 0 0 1 5
+p817
+aVGary Payton LAL 11/06/2003 LAL @ SAS W 48 16 6 9 66.7 0 0 - 4 7 57.1 1 6 7 6 1 0 3 5 12
+p818
+aVDevean George LAL 11/06/2003 LAL @ SAS W 25 6 2 6 33.3 1 2 50.0 1 2 50.0 3 4 7 0 0 0 3 6 3
+p819
+aVJannero Pargo LAL 11/06/2003 LAL @ SAS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p820
+aVHorace Grant LAL 11/06/2003 LAL @ SAS W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -9
+p821
+aVShaquille O'Neal LAL 11/06/2003 LAL @ SAS W 50 35 12 23 52.2 0 0 - 11 16 68.8 9 11 20 6 0 4 4 3 13
+p822
+aVLuke Walton LAL 11/06/2003 LAL @ SAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p823
+aVKobe Bryant LAL 11/06/2003 LAL @ SAS W 49 37 16 29 55.2 1 4 25.0 4 5 80.0 2 3 5 2 4 0 2 4 4
+p824
+aVKarl Malone LAL 11/06/2003 LAL @ SAS W 42 15 6 17 35.3 0 0 - 3 6 50.0 5 14 19 5 1 0 2 6 -2
+p825
+aVKarl Malone LAL 11/04/2003 LAL @ MIL W 36 11 4 15 26.7 0 0 - 3 6 50.0 3 8 11 5 2 0 1 3 0
+p826
+aVDevean George LAL 11/04/2003 LAL @ MIL W 33 11 4 6 66.7 2 4 50.0 1 2 50.0 2 5 7 2 1 0 2 3 19
+p827
+aVKobe Bryant LAL 11/04/2003 LAL @ MIL W 40 31 10 22 45.5 2 4 50.0 9 10 90.0 5 2 7 8 1 2 0 3 7
+p828
+aVBryon Russell LAL 11/04/2003 LAL @ MIL W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -10
+p829
+aVShaquille O'Neal LAL 11/04/2003 LAL @ MIL W 39 23 9 15 60.0 0 0 - 5 13 38.5 4 10 14 1 0 3 1 3 22
+p830
+aVDerek Fisher LAL 11/04/2003 LAL @ MIL W 21 10 3 7 42.9 2 4 50.0 2 2 100.0 0 1 1 2 2 0 0 1 -6
+p831
+aVHorace Grant LAL 11/04/2003 LAL @ MIL W 14 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 2 -12
+p832
+aVKareem Rush LAL 11/04/2003 LAL @ MIL W 8 3 1 2 50.0 1 2 50.0 0 2 0.0 0 0 0 0 0 0 0 3 -6
+p833
+aVGary Payton LAL 11/04/2003 LAL @ MIL W 35 19 7 15 46.7 1 5 20.0 4 4 100.0 1 2 3 5 1 0 4 1 15
+p834
+aVLuke Walton LAL 11/04/2003 LAL @ MIL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p835
+aVDerek Fisher LAL 11/02/2003 LAL vs. GSW W 18 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 0 1 0 0 5 5
+p836
+aVKarl Malone LAL 11/02/2003 LAL vs. GSW W 37 16 6 11 54.5 0 0 - 4 6 66.7 0 6 6 3 0 0 2 3 14
+p837
+aVBryon Russell LAL 11/02/2003 LAL vs. GSW W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 0 4
+p838
+aVHorace Grant LAL 11/02/2003 LAL vs. GSW W 15 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 0 0 1 1 1 -5
+p839
+aVGary Payton LAL 11/02/2003 LAL vs. GSW W 34 10 3 13 23.1 1 1 100.0 3 6 50.0 1 5 6 11 1 1 0 2 14
+p840
+aVDevean George LAL 11/02/2003 LAL vs. GSW W 32 12 6 9 66.7 0 2 0.0 0 0 - 3 4 7 5 5 0 4 3 13
+p841
+aVKobe Bryant LAL 11/02/2003 LAL vs. GSW W 35 21 7 12 58.3 2 3 66.7 5 5 100.0 1 3 4 2 5 1 4 4 13
+p842
+aVLuke Walton LAL 11/02/2003 LAL vs. GSW W 4 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 1
+p843
+aVKareem Rush LAL 11/02/2003 LAL vs. GSW W 13 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -1
+p844
+aVShaquille O'Neal LAL 11/02/2003 LAL vs. GSW W 40 17 8 19 42.1 0 0 - 1 3 33.3 4 10 14 2 0 3 4 1 17
+p845
+aVKobe Bryant LAL 11/01/2003 LAL @ PHX W 37 15 4 12 33.3 0 1 0.0 7 10 70.0 0 6 6 4 0 1 2 4 -3
+p846
+aVBryon Russell LAL 11/01/2003 LAL @ PHX W 10 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 1 0 1 0 -1
+p847
+aVKareem Rush LAL 11/01/2003 LAL @ PHX W 4 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -1
+p848
+aVHorace Grant LAL 11/01/2003 LAL @ PHX W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -4
+p849
+aVKarl Malone LAL 11/01/2003 LAL @ PHX W 36 18 5 10 50.0 0 0 - 8 12 66.7 2 10 12 2 0 0 4 2 6
+p850
+aVGary Payton LAL 11/01/2003 LAL @ PHX W 37 19 7 17 41.2 1 4 25.0 4 6 66.7 1 3 4 9 2 1 1 0 6
+p851
+aVDevean George LAL 11/01/2003 LAL @ PHX W 43 12 4 10 40.0 0 3 0.0 4 4 100.0 5 7 12 2 2 0 0 2 10
+p852
+aVDerek Fisher LAL 11/01/2003 LAL @ PHX W 26 13 5 9 55.6 1 3 33.3 2 2 100.0 0 2 2 4 0 0 0 1 -1
+p853
+aVShaquille O'Neal LAL 11/01/2003 LAL @ PHX W 39 24 11 19 57.9 0 0 - 2 5 40.0 5 7 12 3 1 4 4 5 8
+p854
+aVDevean George LAL 10/28/2003 LAL vs. DAL W 35 16 7 9 77.8 2 3 66.7 0 1 0.0 0 7 7 3 1 2 0 2 13
+p855
+aVKarl Malone LAL 10/28/2003 LAL vs. DAL W 29 15 5 11 45.5 0 0 - 5 5 100.0 3 7 10 9 1 1 1 4 27
+p856
+aVShaquille O'Neal LAL 10/28/2003 LAL vs. DAL W 32 16 8 15 53.3 0 0 - 0 4 0.0 2 7 9 5 0 1 3 4 17
+p857
+aVLuke Walton LAL 10/28/2003 LAL vs. DAL W 7 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 0 0 0 0 3 -5
+p858
+aVGary Payton LAL 10/28/2003 LAL vs. DAL W 36 21 10 20 50.0 1 4 25.0 0 0 - 1 6 7 9 2 1 1 3 26
+p859
+aVKareem Rush LAL 10/28/2003 LAL vs. DAL W 14 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 4 -6
+p860
+aVBryon Russell LAL 10/28/2003 LAL vs. DAL W 21 10 3 7 42.9 1 5 20.0 3 3 100.0 0 0 0 0 2 0 1 4 -2
+p861
+aVDerek Fisher LAL 10/28/2003 LAL vs. DAL W 37 16 6 14 42.9 1 5 20.0 3 5 60.0 0 3 3 3 1 0 1 2 20
+p862
+aVJannero Pargo LAL 10/28/2003 LAL vs. DAL W 9 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 0 0 2 0 -8
+p863
+aVHorace Grant LAL 10/28/2003 LAL vs. DAL W 20 3 1 2 50.0 0 0 - 1 2 50.0 0 5 5 2 0 1 0 2 -2
+p864
+a.

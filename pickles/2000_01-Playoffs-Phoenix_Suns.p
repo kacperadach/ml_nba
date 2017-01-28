@@ -1,0 +1,86 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRodney Rogers PHX 05/02/2001 PHX vs. SAC L 24 6 1 8 12.5 0 2 0.0 4 8 50.0 1 5 6 0 0 0 1 5 -4
+p2
+aVJason Kidd PHX 05/02/2001 PHX vs. SAC L 48 13 5 16 31.3 1 3 33.3 2 2 100.0 1 6 7 14 2 0 4 5 -7
+p3
+aVTony Delk PHX 05/02/2001 PHX vs. SAC L 32 13 5 14 35.7 1 2 50.0 2 3 66.7 2 4 6 0 0 0 1 2 -7
+p4
+aVTom Gugliotta PHX 05/02/2001 PHX vs. SAC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p5
+aVJake Tsakalidis PHX 05/02/2001 PHX vs. SAC L 30 6 3 6 50.0 0 0 - 0 0 - 4 8 12 0 0 2 0 3 0
+p6
+aVShawn Marion PHX 05/02/2001 PHX vs. SAC L 40 14 6 19 31.6 0 0 - 2 2 100.0 5 3 8 2 0 2 0 4 2
+p7
+aVMario Elie PHX 05/02/2001 PHX vs. SAC L 24 6 3 7 42.9 0 1 0.0 0 2 0.0 2 3 5 1 0 0 1 0 -9
+p8
+aVChris Dudley PHX 05/02/2001 PHX vs. SAC L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 1
+p9
+aVClifford Robinson PHX 05/02/2001 PHX vs. SAC L 33 24 9 18 50.0 1 5 20.0 5 5 100.0 1 2 3 0 2 1 3 5 -6
+p10
+aVTom Gugliotta PHX 04/29/2001 PHX vs. SAC L 33 11 3 10 30.0 0 0 - 5 6 83.3 0 4 4 1 4 0 3 4 -11
+p11
+aVClifford Robinson PHX 04/29/2001 PHX vs. SAC L 27 9 3 8 37.5 1 5 20.0 2 8 25.0 1 4 5 1 2 0 0 4 -5
+p12
+aVRodney Rogers PHX 04/29/2001 PHX vs. SAC L 9 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 2 4 3
+p13
+aVTony Delk PHX 04/29/2001 PHX vs. SAC L 34 18 8 14 57.1 2 6 33.3 0 0 - 1 4 5 2 1 0 3 4 -3
+p14
+aVMario Elie PHX 04/29/2001 PHX vs. SAC L 24 10 3 6 50.0 0 3 0.0 4 4 100.0 0 1 1 2 0 0 0 1 -9
+p15
+aVJake Tsakalidis PHX 04/29/2001 PHX vs. SAC L 9 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 3 1 4 -4
+p16
+aVElliot Perry PHX 04/29/2001 PHX vs. SAC L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p17
+aVVinny Del Negro PHX 04/29/2001 PHX vs. SAC L 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p18
+aVJason Kidd PHX 04/29/2001 PHX vs. SAC L 44 19 8 22 36.4 0 5 0.0 3 4 75.0 2 2 4 16 3 0 0 4 -6
+p19
+aVShawn Marion PHX 04/29/2001 PHX vs. SAC L 34 14 4 15 26.7 1 1 100.0 5 5 100.0 2 8 10 0 1 0 3 5 -4
+p20
+aVChris Dudley PHX 04/29/2001 PHX vs. SAC L 21 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 1 1 3 0 -1
+p21
+aVChris Dudley PHX 04/25/2001 PHX @ SAC L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p22
+aVClifford Robinson PHX 04/25/2001 PHX @ SAC L 20 11 3 10 30.0 0 2 0.0 5 6 83.3 3 2 5 0 0 0 1 1 -9
+p23
+aVDaniel Santiago PHX 04/25/2001 PHX @ SAC L 12 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 2 1 2 6
+p24
+aVElliot Perry PHX 04/25/2001 PHX @ SAC L 16 11 5 9 55.6 0 1 0.0 1 1 100.0 1 3 4 4 2 0 0 0 3
+p25
+aVJason Kidd PHX 04/25/2001 PHX @ SAC L 30 7 2 12 16.7 2 5 40.0 1 2 50.0 3 4 7 9 2 0 2 1 -21
+p26
+aVMario Elie PHX 04/25/2001 PHX @ SAC L 25 11 4 9 44.4 1 5 20.0 2 2 100.0 0 0 0 1 1 1 1 1 -20
+p27
+aVTony Delk PHX 04/25/2001 PHX @ SAC L 26 14 4 13 30.8 1 2 50.0 5 6 83.3 1 1 2 2 0 0 0 1 -10
+p28
+aVRodney Rogers PHX 04/25/2001 PHX @ SAC L 23 6 1 8 12.5 0 2 0.0 4 4 100.0 1 1 2 1 1 1 1 2 -30
+p29
+aVTom Gugliotta PHX 04/25/2001 PHX @ SAC L 27 10 4 11 36.4 0 0 - 2 3 66.7 4 4 8 2 1 0 1 4 -14
+p30
+aVJake Tsakalidis PHX 04/25/2001 PHX @ SAC L 16 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -13
+p31
+aVVinny Del Negro PHX 04/25/2001 PHX @ SAC L 18 6 3 6 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -5
+p32
+aVShawn Marion PHX 04/25/2001 PHX @ SAC L 24 10 4 12 33.3 0 0 - 2 2 100.0 2 3 5 0 4 1 1 1 -19
+p33
+aVTony Delk PHX 04/22/2001 PHX @ SAC W 22 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 0 2 0 1 0 -5
+p34
+aVRodney Rogers PHX 04/22/2001 PHX @ SAC W 26 18 8 18 44.4 1 4 25.0 1 2 50.0 1 5 6 1 1 2 1 5 4
+p35
+aVClifford Robinson PHX 04/22/2001 PHX @ SAC W 34 16 6 14 42.9 2 4 50.0 2 3 66.7 1 2 3 3 2 1 5 4 7
+p36
+aVMario Elie PHX 04/22/2001 PHX @ SAC W 30 9 4 9 44.4 1 4 25.0 0 0 - 0 7 7 3 2 0 0 4 1
+p37
+aVShawn Marion PHX 04/22/2001 PHX @ SAC W 41 21 9 16 56.3 0 0 - 3 5 60.0 1 9 10 1 1 3 2 3 11
+p38
+aVTom Gugliotta PHX 04/22/2001 PHX @ SAC W 20 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 3 1 1 1 -7
+p39
+aVJake Tsakalidis PHX 04/22/2001 PHX @ SAC W 19 0 0 4 0.0 0 0 - 0 0 - 4 7 11 0 0 2 0 3 1
+p40
+aVVinny Del Negro PHX 04/22/2001 PHX @ SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 1
+p41
+aVJason Kidd PHX 04/22/2001 PHX @ SAC W 44 18 7 19 36.8 1 4 25.0 3 4 75.0 3 3 6 14 1 0 6 3 2
+p42
+a.

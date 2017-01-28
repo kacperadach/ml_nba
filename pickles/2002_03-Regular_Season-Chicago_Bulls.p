@@ -1,0 +1,1738 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLonny Baxter CHI 04/15/2003 CHI vs. PHI W 26 6 3 6 50.0 0 0 - 0 1 0.0 1 2 3 0 0 1 1 3 -5
+p2
+aVJalen Rose CHI 04/15/2003 CHI vs. PHI W 38 20 6 11 54.5 3 3 100.0 5 5 100.0 1 6 7 7 0 0 2 4 11
+p3
+aVRoger Mason Jr. CHI 04/15/2003 CHI vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p4
+aVDalibor Bagaric CHI 04/15/2003 CHI vs. PHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p5
+aVEddy Curry CHI 04/15/2003 CHI vs. PHI W 28 31 14 16 87.5 0 0 - 3 4 75.0 1 4 5 0 0 2 1 6 20
+p6
+aVEddie Robinson CHI 04/15/2003 CHI vs. PHI W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 4 0 0 1 1 -6
+p7
+aVRick Brunson CHI 04/15/2003 CHI vs. PHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 2 0 -8
+p8
+aVJay Williams CHI 04/15/2003 CHI vs. PHI W 29 14 5 8 62.5 2 2 100.0 2 2 100.0 0 2 2 7 1 0 1 1 20
+p9
+aVJamal Crawford CHI 04/15/2003 CHI vs. PHI W 41 33 13 23 56.5 5 10 50.0 2 2 100.0 1 1 2 8 1 0 4 4 10
+p10
+aVCorie Blount CHI 04/15/2003 CHI vs. PHI W 39 5 2 5 40.0 0 0 - 1 2 50.0 0 8 8 5 2 3 3 5 11
+p11
+aVTrenton Hassell CHI 04/15/2003 CHI vs. PHI W 23 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 2 4 3 2
+p12
+aVTrenton Hassell CHI 04/13/2003 CHI @ MIN L 21 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -8
+p13
+aVDalibor Bagaric CHI 04/13/2003 CHI @ MIN L 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p14
+aVEddy Curry CHI 04/13/2003 CHI @ MIN L 30 10 4 12 33.3 0 0 - 2 4 50.0 0 5 5 2 0 0 3 5 -6
+p15
+aVCorie Blount CHI 04/13/2003 CHI @ MIN L 29 5 2 5 40.0 0 0 - 1 2 50.0 0 5 5 1 1 0 2 3 -32
+p16
+aVRick Brunson CHI 04/13/2003 CHI @ MIN L 16 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 2 2 0 0 0 -1
+p17
+aVLonny Baxter CHI 04/13/2003 CHI @ MIN L 26 13 6 8 75.0 0 0 - 1 1 100.0 1 3 4 2 1 0 0 2 -4
+p18
+aVJalen Rose CHI 04/13/2003 CHI @ MIN L 28 15 5 13 38.5 1 3 33.3 4 4 100.0 0 2 2 3 0 0 2 2 -33
+p19
+aVJay Williams CHI 04/13/2003 CHI @ MIN L 32 18 6 10 60.0 2 4 50.0 4 5 80.0 0 2 2 4 2 1 2 2 -23
+p20
+aVRoger Mason Jr. CHI 04/13/2003 CHI @ MIN L 6 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 0 2 0
+p21
+aVJamal Crawford CHI 04/13/2003 CHI @ MIN L 40 22 7 16 43.8 2 5 40.0 6 6 100.0 1 5 6 4 2 1 3 0 -7
+p22
+aVDalibor Bagaric CHI 04/11/2003 CHI vs. NJN W 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 2
+p23
+aVRick Brunson CHI 04/11/2003 CHI vs. NJN W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 0 -5
+p24
+aVJalen Rose CHI 04/11/2003 CHI vs. NJN W 41 23 7 18 38.9 3 3 100.0 6 8 75.0 1 9 10 1 2 1 6 5 16
+p25
+aVTrenton Hassell CHI 04/11/2003 CHI vs. NJN W 25 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 3 2 0 1 3 -2
+p26
+aVLonny Baxter CHI 04/11/2003 CHI vs. NJN W 14 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 0 2 5 0
+p27
+aVJamal Crawford CHI 04/11/2003 CHI vs. NJN W 44 19 7 19 36.8 2 7 28.6 3 4 75.0 1 5 6 7 2 1 2 0 12
+p28
+aVCorie Blount CHI 04/11/2003 CHI vs. NJN W 31 9 3 6 50.0 0 0 - 3 4 75.0 5 5 10 3 2 1 4 5 13
+p29
+aVEddy Curry CHI 04/11/2003 CHI vs. NJN W 34 24 9 13 69.2 0 0 - 6 8 75.0 1 4 5 0 2 2 3 4 7
+p30
+aVJay Williams CHI 04/11/2003 CHI vs. NJN W 31 14 6 10 60.0 0 1 0.0 2 2 100.0 0 5 5 7 1 0 2 3 2
+p31
+aVTrenton Hassell CHI 04/09/2003 CHI @ DET L 21 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 2 0 2 0
+p32
+aVDonyell Marshall CHI 04/09/2003 CHI @ DET L 25 3 1 9 11.1 0 2 0.0 1 2 50.0 1 7 8 0 1 1 2 5 6
+p33
+aVJay Williams CHI 04/09/2003 CHI @ DET L 15 10 4 5 80.0 2 2 100.0 0 1 0.0 0 1 1 2 0 1 1 1 16
+p34
+aVRoger Mason Jr. CHI 04/09/2003 CHI @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p35
+aVLonny Baxter CHI 04/09/2003 CHI @ DET L 14 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 2 0 1 4 -8
+p36
+aVCorie Blount CHI 04/09/2003 CHI @ DET L 38 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 0 0 5 -20
+p37
+aVJamal Crawford CHI 04/09/2003 CHI @ DET L 39 26 10 17 58.8 1 4 25.0 5 6 83.3 0 6 6 6 1 1 4 5 -20
+p38
+aVJalen Rose CHI 04/09/2003 CHI @ DET L 47 24 9 23 39.1 1 4 25.0 5 7 71.4 1 4 5 5 1 0 5 4 -9
+p39
+aVEddy Curry CHI 04/09/2003 CHI @ DET L 30 20 8 12 66.7 0 0 - 4 5 80.0 2 5 7 1 0 0 4 6 0
+p40
+aVEddie Robinson CHI 04/09/2003 CHI @ DET L 36 14 7 11 63.6 0 0 - 0 0 - 3 3 6 2 0 0 0 4 -8
+p41
+aVJay Williams CHI 04/08/2003 CHI vs. IND W 17 5 2 7 28.6 1 2 50.0 0 0 - 1 1 2 2 0 0 1 0 -11
+p42
+aVDonyell Marshall CHI 04/08/2003 CHI vs. IND W 20 3 1 7 14.3 1 3 33.3 0 0 - 1 1 2 7 2 1 2 6 4
+p43
+aVTrenton Hassell CHI 04/08/2003 CHI vs. IND W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 1
+p44
+aVLonny Baxter CHI 04/08/2003 CHI vs. IND W 11 7 3 4 75.0 0 0 - 1 1 100.0 3 2 5 0 0 0 0 2 -2
+p45
+aVCorie Blount CHI 04/08/2003 CHI vs. IND W 29 8 3 5 60.0 0 0 - 2 2 100.0 1 7 8 3 0 2 1 5 21
+p46
+aVJamal Crawford CHI 04/08/2003 CHI vs. IND W 31 33 10 20 50.0 3 5 60.0 10 11 90.9 1 2 3 8 0 0 1 0 23
+p47
+aVJalen Rose CHI 04/08/2003 CHI vs. IND W 45 27 9 21 42.9 3 5 60.0 6 7 85.7 1 4 5 6 1 0 1 3 12
+p48
+aVTyson Chandler CHI 04/08/2003 CHI vs. IND W 11 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 3 -12
+p49
+aVEddie Robinson CHI 04/08/2003 CHI vs. IND W 45 10 5 8 62.5 0 0 - 0 0 - 2 1 3 2 2 1 0 1 11
+p50
+aVEddy Curry CHI 04/08/2003 CHI vs. IND W 25 15 5 9 55.6 0 0 - 5 5 100.0 2 4 6 0 0 1 2 5 13
+p51
+aVDonyell Marshall CHI 04/05/2003 CHI vs. MIL W 41 19 8 18 44.4 0 1 0.0 3 4 75.0 6 7 13 3 0 4 2 3 7
+p52
+aVTyson Chandler CHI 04/05/2003 CHI vs. MIL W 10 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 0 0 3 4 -9
+p53
+aVLonny Baxter CHI 04/05/2003 CHI vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 2
+p54
+aVEddy Curry CHI 04/05/2003 CHI vs. MIL W 30 15 5 8 62.5 0 0 - 5 8 62.5 1 3 4 1 0 2 3 3 -22
+p55
+aVTrenton Hassell CHI 04/05/2003 CHI vs. MIL W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 2 0 0 0 0
+p56
+aVJay Williams CHI 04/05/2003 CHI vs. MIL W 28 19 8 11 72.7 2 3 66.7 1 2 50.0 0 2 2 7 2 1 4 2 15
+p57
+aVJalen Rose CHI 04/05/2003 CHI vs. MIL W 50 31 10 21 47.6 2 6 33.3 9 9 100.0 2 3 5 4 1 1 4 3 5
+p58
+aVCorie Blount CHI 04/05/2003 CHI vs. MIL W 22 6 3 5 60.0 0 0 - 0 0 - 3 5 8 2 0 1 0 0 29
+p59
+aVJamal Crawford CHI 04/05/2003 CHI vs. MIL W 42 19 8 18 44.4 2 7 28.6 1 1 100.0 1 5 6 8 0 0 2 2 4
+p60
+aVEddie Robinson CHI 04/05/2003 CHI vs. MIL W 30 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 0 3 0 1 4 -21
+p61
+aVDonyell Marshall CHI 04/02/2003 CHI @ PHI L 36 18 7 16 43.8 1 2 50.0 3 4 75.0 4 7 11 3 1 0 4 4 -1
+p62
+aVJamal Crawford CHI 04/02/2003 CHI @ PHI L 16 7 3 6 50.0 1 1 100.0 0 0 - 1 0 1 3 2 0 4 4 -9
+p63
+aVRoger Mason Jr. CHI 04/02/2003 CHI @ PHI L 5 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 3 0 0 0 0 7
+p64
+aVCorie Blount CHI 04/02/2003 CHI @ PHI L 22 5 2 4 50.0 0 0 - 1 2 50.0 1 6 7 0 0 1 1 3 -3
+p65
+aVEddy Curry CHI 04/02/2003 CHI @ PHI L 30 19 6 10 60.0 0 0 - 7 10 70.0 2 3 5 0 2 2 1 4 -11
+p66
+aVLonny Baxter CHI 04/02/2003 CHI @ PHI L 14 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 0 1 0 4 10
+p67
+aVTrenton Hassell CHI 04/02/2003 CHI @ PHI L 30 4 2 8 25.0 0 0 - 0 0 - 1 2 3 4 1 1 0 6 1
+p68
+aVJalen Rose CHI 04/02/2003 CHI @ PHI L 34 15 5 10 50.0 2 4 50.0 3 4 75.0 0 1 1 4 3 0 3 4 -17
+p69
+aVJay Williams CHI 04/02/2003 CHI @ PHI L 32 23 9 15 60.0 2 2 100.0 3 3 100.0 1 3 4 8 1 1 3 4 2
+p70
+aVEddie Robinson CHI 04/02/2003 CHI @ PHI L 21 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 2 0 5 2 -14
+p71
+aVTrenton Hassell CHI 04/01/2003 CHI vs. SEA L 25 3 1 4 25.0 0 0 - 1 2 50.0 1 4 5 1 1 0 0 4 -6
+p72
+aVJamal Crawford CHI 04/01/2003 CHI vs. SEA L 43 25 10 27 37.0 2 11 18.2 3 5 60.0 1 3 4 8 0 1 0 3 2
+p73
+aVDonyell Marshall CHI 04/01/2003 CHI vs. SEA L 48 15 7 15 46.7 1 3 33.3 0 1 0.0 5 7 12 4 0 0 3 3 -2
+p74
+aVJay Williams CHI 04/01/2003 CHI vs. SEA L 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 0 0 0 -9
+p75
+aVCorie Blount CHI 04/01/2003 CHI vs. SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p76
+aVJalen Rose CHI 04/01/2003 CHI vs. SEA L 49 14 6 20 30.0 0 4 0.0 2 2 100.0 0 6 6 5 2 0 4 3 -5
+p77
+aVEddie Robinson CHI 04/01/2003 CHI vs. SEA L 28 2 1 6 16.7 0 1 0.0 0 0 - 0 6 6 3 3 1 2 6 -1
+p78
+aVRoger Mason Jr. CHI 04/01/2003 CHI vs. SEA L 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p79
+aVEddy Curry CHI 04/01/2003 CHI vs. SEA L 47 28 12 16 75.0 0 0 - 4 11 36.4 3 12 15 1 0 3 2 4 -9
+p80
+aVLonny Baxter CHI 04/01/2003 CHI vs. SEA L 8 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -6
+p81
+aVTyson Chandler CHI 03/29/2003 CHI vs. SAC L 42 15 6 14 42.9 0 0 - 3 3 100.0 6 6 12 3 0 6 2 2 -9
+p82
+aVEddy Curry CHI 03/29/2003 CHI vs. SAC L 29 24 10 14 71.4 0 0 - 4 5 80.0 2 12 14 1 0 1 4 4 6
+p83
+aVRoger Mason Jr. CHI 03/29/2003 CHI vs. SAC L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p84
+aVEddie Robinson CHI 03/29/2003 CHI vs. SAC L 29 4 1 3 33.3 0 0 - 2 2 100.0 0 5 5 2 1 0 0 3 -10
+p85
+aVJamal Crawford CHI 03/29/2003 CHI vs. SAC L 35 18 7 21 33.3 1 4 25.0 3 4 75.0 1 1 2 10 3 0 1 3 -5
+p86
+aVJay Williams CHI 03/29/2003 CHI vs. SAC L 13 0 0 7 0.0 0 2 0.0 0 0 - 1 2 3 3 3 0 1 2 -10
+p87
+aVDonyell Marshall CHI 03/29/2003 CHI vs. SAC L 28 11 4 12 33.3 1 2 50.0 2 2 100.0 3 4 7 1 2 1 2 4 -13
+p88
+aVLonny Baxter CHI 03/29/2003 CHI vs. SAC L 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -10
+p89
+aVTrenton Hassell CHI 03/29/2003 CHI vs. SAC L 15 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 1 1 2 -15
+p90
+aVRick Brunson CHI 03/29/2003 CHI vs. SAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -6
+p91
+aVJalen Rose CHI 03/29/2003 CHI vs. SAC L 38 13 6 16 37.5 1 4 25.0 0 0 - 0 2 2 3 0 0 2 2 -8
+p92
+aVEddie Robinson CHI 03/28/2003 CHI @ IND L 22 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 2 -29
+p93
+aVJamal Crawford CHI 03/28/2003 CHI @ IND L 24 14 5 10 50.0 1 4 25.0 3 3 100.0 0 0 0 3 1 0 1 2 -25
+p94
+aVJay Williams CHI 03/28/2003 CHI @ IND L 24 12 5 14 35.7 2 5 40.0 0 0 - 2 0 2 4 1 0 4 1 -26
+p95
+aVEddy Curry CHI 03/28/2003 CHI @ IND L 35 18 8 13 61.5 0 0 - 2 5 40.0 2 5 7 1 1 0 5 6 -32
+p96
+aVJalen Rose CHI 03/28/2003 CHI @ IND L 33 12 5 14 35.7 1 5 20.0 1 2 50.0 0 2 2 7 1 0 2 1 -29
+p97
+aVTyson Chandler CHI 03/28/2003 CHI @ IND L 23 2 1 6 16.7 0 0 - 0 0 - 1 3 4 1 1 1 0 2 -26
+p98
+aVDonyell Marshall CHI 03/28/2003 CHI @ IND L 23 11 5 10 50.0 0 1 0.0 1 1 100.0 1 3 4 0 0 1 0 4 -24
+p99
+aVTrenton Hassell CHI 03/28/2003 CHI @ IND L 22 9 3 6 50.0 0 0 - 3 3 100.0 1 2 3 3 0 1 1 1 -21
+p100
+aVRoger Mason Jr. CHI 03/28/2003 CHI @ IND L 16 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 3 -22
+p101
+aVLonny Baxter CHI 03/28/2003 CHI @ IND L 19 3 0 6 0.0 0 0 - 3 4 75.0 1 2 3 0 1 0 1 3 -21
+p102
+aVJay Williams CHI 03/26/2003 CHI vs. MIA W 16 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 1 1 0 2 3 1
+p103
+aVTrenton Hassell CHI 03/26/2003 CHI vs. MIA W 23 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 1 0 1 0 4 5
+p104
+aVRick Brunson CHI 03/26/2003 CHI vs. MIA W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 2 1 0 0
+p105
+aVEddie Robinson CHI 03/26/2003 CHI vs. MIA W 30 4 2 6 33.3 0 0 - 0 0 - 0 3 3 2 0 1 1 3 4
+p106
+aVDonyell Marshall CHI 03/26/2003 CHI vs. MIA W 27 10 5 11 45.5 0 2 0.0 0 0 - 2 6 8 2 0 3 1 4 -8
+p107
+aVTyson Chandler CHI 03/26/2003 CHI vs. MIA W 29 7 2 5 40.0 0 0 - 3 6 50.0 3 13 16 3 2 2 0 4 13
+p108
+aVJalen Rose CHI 03/26/2003 CHI vs. MIA W 37 19 6 13 46.2 1 2 50.0 6 6 100.0 0 4 4 3 0 1 4 1 7
+p109
+aVCorie Blount CHI 03/26/2003 CHI vs. MIA W 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 2 1 -1
+p110
+aVJamal Crawford CHI 03/26/2003 CHI vs. MIA W 33 17 8 16 50.0 1 4 25.0 0 0 - 0 2 2 5 1 1 6 3 7
+p111
+aVEddy Curry CHI 03/26/2003 CHI vs. MIA W 30 12 4 10 40.0 0 0 - 4 10 40.0 2 5 7 0 1 1 0 2 12
+p112
+aVJalen Rose CHI 03/23/2003 CHI @ DET L 34 6 3 15 20.0 0 3 0.0 0 0 - 0 1 1 4 0 0 2 3 -20
+p113
+aVEddie Robinson CHI 03/23/2003 CHI @ DET L 20 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -11
+p114
+aVJay Williams CHI 03/23/2003 CHI @ DET L 20 13 6 11 54.5 1 3 33.3 0 0 - 1 1 2 1 1 1 0 1 -3
+p115
+aVCorie Blount CHI 03/23/2003 CHI @ DET L 20 7 3 6 50.0 0 0 - 1 1 100.0 2 3 5 2 0 0 0 4 -16
+p116
+aVEddy Curry CHI 03/23/2003 CHI @ DET L 40 18 7 14 50.0 0 0 - 4 6 66.7 3 5 8 1 0 0 5 4 -21
+p117
+aVJamal Crawford CHI 03/23/2003 CHI @ DET L 39 17 5 12 41.7 1 3 33.3 6 6 100.0 0 7 7 8 0 0 3 4 -14
+p118
+aVLonny Baxter CHI 03/23/2003 CHI @ DET L 10 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 1 2 4 -8
+p119
+aVTrenton Hassell CHI 03/23/2003 CHI @ DET L 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -14
+p120
+aVRoger Mason Jr. CHI 03/23/2003 CHI @ DET L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -3
+p121
+aVTyson Chandler CHI 03/23/2003 CHI @ DET L 29 10 4 9 44.4 0 0 - 2 2 100.0 1 8 9 0 0 2 2 5 -5
+p122
+aVRoger Mason Jr. CHI 03/22/2003 CHI vs. NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p123
+aVCorie Blount CHI 03/22/2003 CHI vs. NYK W 18 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 1 2 0 0 3
+p124
+aVEddie Robinson CHI 03/22/2003 CHI vs. NYK W 25 4 2 3 66.7 0 0 - 0 0 - 2 3 5 3 1 0 0 2 -11
+p125
+aVJamal Crawford CHI 03/22/2003 CHI vs. NYK W 34 22 10 15 66.7 2 3 66.7 0 1 0.0 0 9 9 10 0 0 2 2 5
+p126
+aVTyson Chandler CHI 03/22/2003 CHI vs. NYK W 43 13 4 8 50.0 0 0 - 5 8 62.5 2 11 13 1 1 1 2 4 -4
+p127
+aVTrenton Hassell CHI 03/22/2003 CHI vs. NYK W 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 4 0 0 0 2 2
+p128
+aVEddy Curry CHI 03/22/2003 CHI vs. NYK W 30 30 12 17 70.6 0 0 - 6 7 85.7 3 6 9 0 1 0 4 5 -1
+p129
+aVJalen Rose CHI 03/22/2003 CHI vs. NYK W 39 16 7 20 35.0 0 0 - 2 2 100.0 0 3 3 5 1 0 1 5 1
+p130
+aVRick Brunson CHI 03/22/2003 CHI vs. NYK W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 3 2 1
+p131
+aVDonyell Marshall CHI 03/22/2003 CHI vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 7
+p132
+aVLonny Baxter CHI 03/22/2003 CHI vs. NYK W 5 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 6
+p133
+aVJay Williams CHI 03/22/2003 CHI vs. NYK W 14 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 4 0 1 2 0 -3
+p134
+aVJalen Rose CHI 03/18/2003 CHI vs. ATL W 35 31 11 18 61.1 2 3 66.7 7 7 100.0 0 2 2 4 2 0 2 2 16
+p135
+aVRoger Mason Jr. CHI 03/18/2003 CHI vs. ATL W 13 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 4 9
+p136
+aVRick Brunson CHI 03/18/2003 CHI vs. ATL W 17 4 2 5 40.0 0 0 - 0 0 - 1 2 3 5 2 0 1 0 18
+p137
+aVLonny Baxter CHI 03/18/2003 CHI vs. ATL W 15 8 3 5 60.0 0 0 - 2 2 100.0 1 8 9 2 0 0 1 2 8
+p138
+aVDalibor Bagaric CHI 03/18/2003 CHI vs. ATL W 4 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 1 0 0 0 4
+p139
+aVEddy Curry CHI 03/18/2003 CHI vs. ATL W 13 6 3 8 37.5 0 0 - 0 0 - 0 1 1 0 0 1 1 4 -9
+p140
+aVCorie Blount CHI 03/18/2003 CHI vs. ATL W 16 4 2 2 100.0 0 0 - 0 0 - 1 1 2 2 0 1 1 2 6
+p141
+aVTrenton Hassell CHI 03/18/2003 CHI vs. ATL W 18 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 4 16
+p142
+aVJay Williams CHI 03/18/2003 CHI vs. ATL W 22 9 2 5 40.0 1 3 33.3 4 5 80.0 0 1 1 8 1 0 1 1 11
+p143
+aVTyson Chandler CHI 03/18/2003 CHI vs. ATL W 33 13 5 10 50.0 0 0 - 3 4 75.0 6 5 11 0 5 2 2 0 13
+p144
+aVJamal Crawford CHI 03/18/2003 CHI vs. ATL W 26 8 3 10 30.0 2 4 50.0 0 0 - 0 2 2 4 2 0 0 3 14
+p145
+aVDonyell Marshall CHI 03/18/2003 CHI vs. ATL W 27 9 4 8 50.0 0 1 0.0 1 2 50.0 3 6 9 1 3 1 3 2 19
+p146
+aVDonyell Marshall CHI 03/16/2003 CHI @ SAS L 41 29 12 18 66.7 3 5 60.0 2 3 66.7 5 5 10 1 2 2 3 5 -7
+p147
+aVLonny Baxter CHI 03/16/2003 CHI @ SAS L 8 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 2 -10
+p148
+aVCorie Blount CHI 03/16/2003 CHI @ SAS L 19 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 2 2 0 1 4 -25
+p149
+aVJamal Crawford CHI 03/16/2003 CHI @ SAS L 40 21 7 19 36.8 3 8 37.5 4 4 100.0 0 5 5 5 2 0 3 1 3
+p150
+aVJay Williams CHI 03/16/2003 CHI @ SAS L 11 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 1 0 0 1 -10
+p151
+aVTyson Chandler CHI 03/16/2003 CHI @ SAS L 32 10 4 6 66.7 0 0 - 2 4 50.0 4 7 11 3 1 1 4 4 7
+p152
+aVEddy Curry CHI 03/16/2003 CHI @ SAS L 27 14 5 8 62.5 0 0 - 4 5 80.0 2 3 5 1 1 0 2 5 15
+p153
+aVTrenton Hassell CHI 03/16/2003 CHI @ SAS L 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -18
+p154
+aVJalen Rose CHI 03/16/2003 CHI @ SAS L 45 12 4 24 16.7 1 6 16.7 3 6 50.0 3 2 5 4 1 0 5 4 -10
+p155
+aVLonny Baxter CHI 03/14/2003 CHI @ HOU L 9 4 1 4 25.0 0 0 - 2 5 40.0 1 1 2 0 0 1 2 2 -2
+p156
+aVDonyell Marshall CHI 03/14/2003 CHI @ HOU L 27 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 3 2 0 3 5 -26
+p157
+aVJalen Rose CHI 03/14/2003 CHI @ HOU L 31 15 7 16 43.8 0 0 - 1 1 100.0 0 4 4 1 1 0 5 3 -24
+p158
+aVTyson Chandler CHI 03/14/2003 CHI @ HOU L 29 8 3 5 60.0 0 0 - 2 4 50.0 3 3 6 1 0 0 3 3 -17
+p159
+aVTrenton Hassell CHI 03/14/2003 CHI @ HOU L 21 4 2 6 33.3 0 0 - 0 0 - 2 2 4 2 0 1 0 1 -2
+p160
+aVEddy Curry CHI 03/14/2003 CHI @ HOU L 33 14 6 15 40.0 0 0 - 2 2 100.0 2 4 6 2 1 1 4 3 -26
+p161
+aVJamal Crawford CHI 03/14/2003 CHI @ HOU L 34 23 9 17 52.9 4 5 80.0 1 2 50.0 1 1 2 8 2 0 3 3 -26
+p162
+aVJay Williams CHI 03/14/2003 CHI @ HOU L 19 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 1 0 0 3 1 -10
+p163
+aVDalibor Bagaric CHI 03/14/2003 CHI @ HOU L 6 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 2
+p164
+aVCorie Blount CHI 03/14/2003 CHI @ HOU L 14 2 1 2 50.0 0 0 - 0 0 - 3 4 7 0 0 0 1 2 -13
+p165
+aVRoger Mason Jr. CHI 03/14/2003 CHI @ HOU L 17 6 2 3 66.7 2 2 100.0 0 0 - 0 2 2 2 2 0 2 1 -6
+p166
+aVTrenton Hassell CHI 03/12/2003 CHI @ MEM L 21 2 1 3 33.3 0 0 - 0 0 - 1 3 4 4 1 1 0 1 -13
+p167
+aVJamal Crawford CHI 03/12/2003 CHI @ MEM L 28 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 4 2 0 3 2 -9
+p168
+aVDalibor Bagaric CHI 03/12/2003 CHI @ MEM L 11 1 0 4 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 2 1 -12
+p169
+aVDonyell Marshall CHI 03/12/2003 CHI @ MEM L 31 16 7 10 70.0 0 0 - 2 2 100.0 0 5 5 4 0 1 1 1 -20
+p170
+aVFred Hoiberg CHI 03/12/2003 CHI @ MEM L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -10
+p171
+aVLonny Baxter CHI 03/12/2003 CHI @ MEM L 16 9 2 5 40.0 0 0 - 5 6 83.3 1 1 2 0 0 1 0 5 -7
+p172
+aVEddy Curry CHI 03/12/2003 CHI @ MEM L 32 21 9 14 64.3 0 0 - 3 5 60.0 3 7 10 1 0 0 2 3 -13
+p173
+aVCorie Blount CHI 03/12/2003 CHI @ MEM L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 2 0 1 2 -4
+p174
+aVJalen Rose CHI 03/12/2003 CHI @ MEM L 32 12 4 14 28.6 2 4 50.0 2 2 100.0 1 2 3 7 0 0 3 4 -18
+p175
+aVRoger Mason Jr. CHI 03/12/2003 CHI @ MEM L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p176
+aVTyson Chandler CHI 03/12/2003 CHI @ MEM L 22 13 6 8 75.0 0 0 - 1 3 33.3 3 3 6 2 0 0 2 4 -9
+p177
+aVJay Williams CHI 03/12/2003 CHI @ MEM L 24 12 4 11 36.4 2 6 33.3 2 2 100.0 0 1 1 3 0 0 6 2 -25
+p178
+aVJamal Crawford CHI 03/11/2003 CHI vs. LAL W 32 24 9 16 56.3 4 4 100.0 2 2 100.0 1 3 4 10 1 1 2 1 15
+p179
+aVTrenton Hassell CHI 03/11/2003 CHI vs. LAL W 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p180
+aVDonyell Marshall CHI 03/11/2003 CHI vs. LAL W 38 13 5 11 45.5 1 3 33.3 2 3 66.7 2 7 9 3 2 1 0 2 18
+p181
+aVJalen Rose CHI 03/11/2003 CHI vs. LAL W 38 27 9 18 50.0 6 7 85.7 3 3 100.0 1 3 4 7 1 1 5 5 20
+p182
+aVJay Williams CHI 03/11/2003 CHI vs. LAL W 16 11 5 6 83.3 1 1 100.0 0 0 - 0 4 4 5 0 0 2 1 2
+p183
+aVLonny Baxter CHI 03/11/2003 CHI vs. LAL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p184
+aVCorie Blount CHI 03/11/2003 CHI vs. LAL W 21 8 4 6 66.7 0 0 - 0 0 - 1 3 4 3 2 0 1 3 8
+p185
+aVFred Hoiberg CHI 03/11/2003 CHI vs. LAL W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -3
+p186
+aVTyson Chandler CHI 03/11/2003 CHI vs. LAL W 43 9 2 4 50.0 0 0 - 5 8 62.5 2 10 12 3 1 2 2 4 15
+p187
+aVEddy Curry CHI 03/11/2003 CHI vs. LAL W 27 20 8 13 61.5 0 0 - 4 6 66.7 3 3 6 0 0 1 0 3 9
+p188
+aVJalen Rose CHI 03/08/2003 CHI vs. LAC L 46 30 12 21 57.1 3 8 37.5 3 5 60.0 0 3 3 11 2 0 7 5 2
+p189
+aVJay Williams CHI 03/08/2003 CHI vs. LAC L 18 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 3 0 0 1 2 2
+p190
+aVJamal Crawford CHI 03/08/2003 CHI vs. LAC L 30 7 2 10 20.0 1 5 20.0 2 2 100.0 0 1 1 8 0 0 0 0 -8
+p191
+aVDonyell Marshall CHI 03/08/2003 CHI vs. LAC L 36 10 5 12 41.7 0 1 0.0 0 0 - 6 9 15 3 1 1 1 2 -7
+p192
+aVLonny Baxter CHI 03/08/2003 CHI vs. LAC L 11 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 1 1
+p193
+aVEddy Curry CHI 03/08/2003 CHI vs. LAC L 34 26 10 15 66.7 0 0 - 6 8 75.0 2 2 4 3 0 1 1 4 -4
+p194
+aVFred Hoiberg CHI 03/08/2003 CHI vs. LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p195
+aVTrenton Hassell CHI 03/08/2003 CHI vs. LAC L 21 0 0 5 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -7
+p196
+aVTyson Chandler CHI 03/08/2003 CHI vs. LAC L 41 10 4 7 57.1 0 0 - 2 4 50.0 2 9 11 1 1 2 2 2 -1
+p197
+aVTrenton Hassell CHI 03/06/2003 CHI vs. GSW W 20 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -6
+p198
+aVTyson Chandler CHI 03/06/2003 CHI vs. GSW W 40 23 10 15 66.7 0 0 - 3 5 60.0 3 11 14 3 0 3 5 4 21
+p199
+aVEddy Curry CHI 03/06/2003 CHI vs. GSW W 34 24 10 16 62.5 0 0 - 4 6 66.7 5 5 10 0 0 3 0 2 16
+p200
+aVLonny Baxter CHI 03/06/2003 CHI vs. GSW W 9 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 0 0 0 2 3 -6
+p201
+aVJay Williams CHI 03/06/2003 CHI vs. GSW W 17 9 3 5 60.0 1 1 100.0 2 2 100.0 0 3 3 3 0 1 4 3 -9
+p202
+aVDonyell Marshall CHI 03/06/2003 CHI vs. GSW W 41 14 5 14 35.7 2 5 40.0 2 4 50.0 5 6 11 9 1 0 1 2 17
+p203
+aVJalen Rose CHI 03/06/2003 CHI vs. GSW W 46 21 7 18 38.9 1 1 100.0 6 6 100.0 1 1 2 7 2 0 2 3 16
+p204
+aVFred Hoiberg CHI 03/06/2003 CHI vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -2
+p205
+aVJamal Crawford CHI 03/06/2003 CHI vs. GSW W 31 15 6 9 66.7 3 5 60.0 0 0 - 0 3 3 10 1 1 1 3 23
+p206
+aVFred Hoiberg CHI 03/03/2003 CHI vs. ORL L 26 11 4 7 57.1 0 0 - 3 4 75.0 0 4 4 1 0 0 0 1 6
+p207
+aVDonyell Marshall CHI 03/03/2003 CHI vs. ORL L 34 15 6 14 42.9 3 4 75.0 0 2 0.0 2 9 11 2 1 3 2 3 -7
+p208
+aVJay Williams CHI 03/03/2003 CHI vs. ORL L 22 0 0 4 0.0 0 1 0.0 0 2 0.0 0 1 1 2 0 0 2 1 -11
+p209
+aVJamal Crawford CHI 03/03/2003 CHI vs. ORL L 26 11 5 12 41.7 1 5 20.0 0 0 - 0 1 1 6 1 0 4 4 -4
+p210
+aVTrenton Hassell CHI 03/03/2003 CHI vs. ORL L 25 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 0 2 1 2 0 -18
+p211
+aVLonny Baxter CHI 03/03/2003 CHI vs. ORL L 16 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 0 0 0 0 1 -4
+p212
+aVTyson Chandler CHI 03/03/2003 CHI vs. ORL L 31 13 4 5 80.0 0 0 - 5 6 83.3 3 7 10 2 1 2 4 5 -11
+p213
+aVRoger Mason Jr. CHI 03/03/2003 CHI vs. ORL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p214
+aVEddy Curry CHI 03/03/2003 CHI vs. ORL L 12 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 4 4 -11
+p215
+aVJalen Rose CHI 03/03/2003 CHI vs. ORL L 44 24 8 21 38.1 2 4 50.0 6 6 100.0 0 4 4 5 2 0 3 4 -15
+p216
+aVCorie Blount CHI 03/01/2003 CHI @ WAS L 13 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 0 0 0 0 1 4
+p217
+aVTyson Chandler CHI 03/01/2003 CHI @ WAS L 24 8 3 4 75.0 0 0 - 2 3 66.7 2 3 5 0 1 0 3 4 -13
+p218
+aVLonny Baxter CHI 03/01/2003 CHI @ WAS L 16 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 1 0 1 8
+p219
+aVFred Hoiberg CHI 03/01/2003 CHI @ WAS L 28 7 3 8 37.5 1 2 50.0 0 0 - 1 6 7 2 0 0 1 0 19
+p220
+aVJalen Rose CHI 03/01/2003 CHI @ WAS L 40 21 9 20 45.0 1 7 14.3 2 2 100.0 2 3 5 5 3 0 6 3 -18
+p221
+aVJamal Crawford CHI 03/01/2003 CHI @ WAS L 28 21 8 15 53.3 3 5 60.0 2 2 100.0 0 2 2 3 2 0 1 2 17
+p222
+aVRoger Mason Jr. CHI 03/01/2003 CHI @ WAS L 8 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 0 1 0 1 4 10
+p223
+aVDonyell Marshall CHI 03/01/2003 CHI @ WAS L 18 6 3 7 42.9 0 0 - 0 0 - 1 6 7 1 3 0 1 3 1
+p224
+aVTrenton Hassell CHI 03/01/2003 CHI @ WAS L 20 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 2 3 -27
+p225
+aVJay Williams CHI 03/01/2003 CHI @ WAS L 21 2 1 8 12.5 0 1 0.0 0 0 - 1 0 1 4 0 0 0 2 -23
+p226
+aVEddy Curry CHI 03/01/2003 CHI @ WAS L 25 15 7 13 53.8 0 0 - 1 2 50.0 2 1 3 0 0 1 1 4 -18
+p227
+aVJamal Crawford CHI 02/28/2003 CHI vs. ATL L 24 10 4 9 44.4 1 4 25.0 1 1 100.0 0 4 4 4 0 0 1 0 -9
+p228
+aVJay Williams CHI 02/28/2003 CHI vs. ATL L 24 16 6 12 50.0 2 4 50.0 2 2 100.0 0 0 0 4 1 0 0 5 -13
+p229
+aVFred Hoiberg CHI 02/28/2003 CHI vs. ATL L 24 4 2 2 100.0 0 0 - 0 0 - 0 4 4 1 0 0 0 1 -9
+p230
+aVJalen Rose CHI 02/28/2003 CHI vs. ATL L 41 12 4 13 30.8 0 3 0.0 4 7 57.1 2 4 6 3 0 0 2 2 -25
+p231
+aVDonyell Marshall CHI 02/28/2003 CHI vs. ATL L 20 8 3 9 33.3 1 2 50.0 1 2 50.0 2 2 4 1 0 1 0 0 -9
+p232
+aVRoger Mason Jr. CHI 02/28/2003 CHI vs. ATL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 0 3
+p233
+aVLonny Baxter CHI 02/28/2003 CHI vs. ATL L 17 5 2 8 25.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 2 -6
+p234
+aVEddy Curry CHI 02/28/2003 CHI vs. ATL L 24 16 6 11 54.5 0 0 - 4 6 66.7 2 5 7 0 1 4 3 4 -6
+p235
+aVTyson Chandler CHI 02/28/2003 CHI vs. ATL L 34 15 4 9 44.4 0 0 - 7 11 63.6 2 3 5 0 0 1 2 2 -23
+p236
+aVTrenton Hassell CHI 02/28/2003 CHI vs. ATL L 24 2 1 4 25.0 0 0 - 0 0 - 0 1 1 4 0 0 0 2 -13
+p237
+aVJay Williams CHI 02/26/2003 CHI vs. TOR W 27 14 6 9 66.7 1 2 50.0 1 2 50.0 0 2 2 6 1 0 3 1 -5
+p238
+aVJalen Rose CHI 02/26/2003 CHI vs. TOR W 45 26 11 24 45.8 1 5 20.0 3 3 100.0 1 6 7 6 0 0 5 4 7
+p239
+aVEddy Curry CHI 02/26/2003 CHI vs. TOR W 28 24 10 13 76.9 0 0 - 4 4 100.0 1 7 8 1 0 0 4 5 15
+p240
+aVTyson Chandler CHI 02/26/2003 CHI vs. TOR W 21 6 3 6 50.0 0 0 - 0 0 - 6 6 12 2 0 3 3 5 0
+p241
+aVLonny Baxter CHI 02/26/2003 CHI vs. TOR W 12 9 3 4 75.0 0 0 - 3 3 100.0 1 4 5 0 0 0 2 2 -8
+p242
+aVTrenton Hassell CHI 02/26/2003 CHI vs. TOR W 28 6 2 5 40.0 0 0 - 2 2 100.0 0 6 6 1 0 1 1 2 -9
+p243
+aVJamal Crawford CHI 02/26/2003 CHI vs. TOR W 21 7 2 6 33.3 1 3 33.3 2 2 100.0 0 0 0 4 0 0 0 0 13
+p244
+aVFred Hoiberg CHI 02/26/2003 CHI vs. TOR W 23 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 2 0 2 2 18
+p245
+aVDonyell Marshall CHI 02/26/2003 CHI vs. TOR W 34 11 4 13 30.8 0 1 0.0 3 3 100.0 7 3 10 2 1 2 1 2 9
+p246
+aVTyson Chandler CHI 02/24/2003 CHI vs. PHX W 33 15 3 7 42.9 0 0 - 9 12 75.0 3 3 6 1 1 0 3 6 7
+p247
+aVJamal Crawford CHI 02/24/2003 CHI vs. PHX W 26 6 3 6 50.0 0 0 - 0 0 - 0 0 0 3 0 1 0 3 4
+p248
+aVTrenton Hassell CHI 02/24/2003 CHI vs. PHX W 33 2 1 7 14.3 0 0 - 0 0 - 0 7 7 2 0 0 1 1 6
+p249
+aVJay Williams CHI 02/24/2003 CHI vs. PHX W 22 10 5 11 45.5 0 1 0.0 0 0 - 0 3 3 4 2 0 0 2 -1
+p250
+aVLonny Baxter CHI 02/24/2003 CHI vs. PHX W 13 4 2 5 40.0 0 0 - 0 0 - 0 4 4 0 0 1 3 3 -2
+p251
+aVFred Hoiberg CHI 02/24/2003 CHI vs. PHX W 19 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 -9
+p252
+aVJalen Rose CHI 02/24/2003 CHI vs. PHX W 45 21 4 16 25.0 2 5 40.0 11 12 91.7 1 13 14 11 1 0 4 0 7
+p253
+aVEddy Curry CHI 02/24/2003 CHI vs. PHX W 16 13 6 10 60.0 0 0 - 1 2 50.0 2 0 2 0 0 0 2 5 -2
+p254
+aVDonyell Marshall CHI 02/24/2003 CHI vs. PHX W 34 17 7 15 46.7 0 0 - 3 3 100.0 3 3 6 2 2 2 2 3 5
+p255
+aVJamal Crawford CHI 02/22/2003 CHI @ MIA L 18 9 4 5 80.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -5
+p256
+aVDonyell Marshall CHI 02/22/2003 CHI @ MIA L 18 6 3 8 37.5 0 0 - 0 0 - 3 0 3 0 0 1 0 1 -15
+p257
+aVEddy Curry CHI 02/22/2003 CHI @ MIA L 30 26 10 14 71.4 0 0 - 6 11 54.5 3 6 9 0 0 1 2 4 -1
+p258
+aVTyson Chandler CHI 02/22/2003 CHI @ MIA L 37 9 2 7 28.6 0 0 - 5 10 50.0 4 8 12 2 0 1 0 3 -6
+p259
+aVFred Hoiberg CHI 02/22/2003 CHI @ MIA L 32 4 1 3 33.3 0 2 0.0 2 2 100.0 0 5 5 4 2 0 1 1 -4
+p260
+aVTrenton Hassell CHI 02/22/2003 CHI @ MIA L 17 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 5 -1
+p261
+aVJay Williams CHI 02/22/2003 CHI @ MIA L 30 3 1 10 10.0 0 1 0.0 1 4 25.0 0 3 3 3 1 0 2 0 -5
+p262
+aVRoger Mason Jr. CHI 02/22/2003 CHI @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p263
+aVLonny Baxter CHI 02/22/2003 CHI @ MIA L 11 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 0 0 1 1 4 2
+p264
+aVJalen Rose CHI 02/22/2003 CHI @ MIA L 46 31 12 23 52.2 1 2 50.0 6 8 75.0 0 4 4 1 0 0 5 6 -13
+p265
+aVEddie Robinson CHI 02/21/2003 CHI @ ORL L 23 9 3 6 50.0 0 1 0.0 3 4 75.0 0 2 2 1 0 0 1 3 -18
+p266
+aVJay Williams CHI 02/21/2003 CHI @ ORL L 30 20 5 11 45.5 0 1 0.0 10 10 100.0 1 4 5 6 1 0 2 2 -18
+p267
+aVFred Hoiberg CHI 02/21/2003 CHI @ ORL L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -5
+p268
+aVRoger Mason Jr. CHI 02/21/2003 CHI @ ORL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p269
+aVTrenton Hassell CHI 02/21/2003 CHI @ ORL L 25 2 1 4 25.0 0 0 - 0 0 - 0 8 8 3 0 0 2 5 4
+p270
+aVLonny Baxter CHI 02/21/2003 CHI @ ORL L 22 6 2 4 50.0 0 0 - 2 4 50.0 1 4 5 1 0 0 0 5 -14
+p271
+aVDonyell Marshall CHI 02/21/2003 CHI @ ORL L 18 3 1 6 16.7 0 0 - 1 2 50.0 0 2 2 1 1 1 3 4 -2
+p272
+aVJamal Crawford CHI 02/21/2003 CHI @ ORL L 18 9 4 8 50.0 1 1 100.0 0 0 - 0 2 2 2 2 0 2 1 4
+p273
+aVEddy Curry CHI 02/21/2003 CHI @ ORL L 23 13 6 10 60.0 0 0 - 1 3 33.3 1 5 6 1 0 3 2 2 1
+p274
+aVJalen Rose CHI 02/21/2003 CHI @ ORL L 36 16 4 12 33.3 1 2 50.0 7 7 100.0 0 0 0 8 0 0 4 5 -11
+p275
+aVTyson Chandler CHI 02/21/2003 CHI @ ORL L 34 16 7 11 63.6 0 0 - 2 4 50.0 3 7 10 0 0 1 7 4 -13
+p276
+aVDonyell Marshall CHI 02/19/2003 CHI vs. PHI L 20 6 3 6 50.0 0 0 - 0 1 0.0 1 5 6 1 0 0 3 2 -15
+p277
+aVTyson Chandler CHI 02/19/2003 CHI vs. PHI L 35 16 7 12 58.3 0 0 - 2 3 66.7 7 6 13 4 1 0 3 1 -30
+p278
+aVJamal Crawford CHI 02/19/2003 CHI vs. PHI L 28 2 1 9 11.1 0 3 0.0 0 0 - 0 3 3 5 0 1 2 2 -19
+p279
+aVLonny Baxter CHI 02/19/2003 CHI vs. PHI L 17 15 6 10 60.0 0 0 - 3 4 75.0 2 2 4 0 0 0 1 3 4
+p280
+aVTrenton Hassell CHI 02/19/2003 CHI vs. PHI L 23 2 1 3 33.3 0 0 - 0 0 - 0 3 3 3 0 0 1 3 -2
+p281
+aVJalen Rose CHI 02/19/2003 CHI vs. PHI L 39 20 7 20 35.0 0 4 0.0 6 6 100.0 1 3 4 5 1 1 6 5 -32
+p282
+aVJay Williams CHI 02/19/2003 CHI vs. PHI L 25 11 3 13 23.1 0 3 0.0 5 6 83.3 1 4 5 1 1 0 4 5 -11
+p283
+aVEddie Robinson CHI 02/19/2003 CHI vs. PHI L 18 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 2 1 0 1 3 -17
+p284
+aVFred Hoiberg CHI 02/19/2003 CHI vs. PHI L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p285
+aVEddy Curry CHI 02/19/2003 CHI vs. PHI L 24 10 4 7 57.1 0 0 - 2 5 40.0 5 4 9 0 0 3 3 3 -15
+p286
+aVRick Brunson CHI 02/19/2003 CHI vs. PHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -7
+p287
+aVJamal Crawford CHI 02/18/2003 CHI @ CLE W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -9
+p288
+aVJalen Rose CHI 02/18/2003 CHI @ CLE W 44 28 9 24 37.5 1 4 25.0 9 9 100.0 1 3 4 5 0 0 1 4 8
+p289
+aVLonny Baxter CHI 02/18/2003 CHI @ CLE W 8 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -7
+p290
+aVTyson Chandler CHI 02/18/2003 CHI @ CLE W 31 20 7 12 58.3 0 0 - 6 7 85.7 5 4 9 1 1 2 2 5 7
+p291
+aVEddy Curry CHI 02/18/2003 CHI @ CLE W 16 12 5 5 100.0 0 0 - 2 3 66.7 1 4 5 0 0 0 1 2 -1
+p292
+aVFred Hoiberg CHI 02/18/2003 CHI @ CLE W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p293
+aVDonyell Marshall CHI 02/18/2003 CHI @ CLE W 41 10 3 13 23.1 0 0 - 4 5 80.0 5 6 11 1 4 1 0 4 13
+p294
+aVEddie Robinson CHI 02/18/2003 CHI @ CLE W 33 13 6 9 66.7 0 0 - 1 1 100.0 0 1 1 2 1 1 1 1 18
+p295
+aVJay Williams CHI 02/18/2003 CHI @ CLE W 36 20 7 13 53.8 0 1 0.0 6 8 75.0 0 2 2 4 0 0 2 1 15
+p296
+aVTrenton Hassell CHI 02/18/2003 CHI @ CLE W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 3 1 -12
+p297
+aVRick Brunson CHI 02/15/2003 CHI vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p298
+aVJamal Crawford CHI 02/15/2003 CHI vs. DEN W 18 0 0 8 0.0 0 1 0.0 0 0 - 0 2 2 3 4 1 0 0 9
+p299
+aVTyson Chandler CHI 02/15/2003 CHI vs. DEN W 36 19 9 16 56.3 0 0 - 1 2 50.0 9 13 22 0 0 3 0 2 24
+p300
+aVEddy Curry CHI 02/15/2003 CHI vs. DEN W 12 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 0 1 1 0 1 -5
+p301
+aVLonny Baxter CHI 02/15/2003 CHI vs. DEN W 33 13 5 11 45.5 0 1 0.0 3 5 60.0 4 4 8 1 0 0 1 5 20
+p302
+aVJay Williams CHI 02/15/2003 CHI vs. DEN W 29 9 4 12 33.3 1 2 50.0 0 0 - 2 2 4 3 2 0 5 2 9
+p303
+aVDonyell Marshall CHI 02/15/2003 CHI vs. DEN W 15 6 2 6 33.3 0 0 - 2 4 50.0 1 1 2 1 1 0 2 5 -1
+p304
+aVTrenton Hassell CHI 02/15/2003 CHI vs. DEN W 23 4 2 2 100.0 0 0 - 0 0 - 0 5 5 1 0 0 1 0 9
+p305
+aVFred Hoiberg CHI 02/15/2003 CHI vs. DEN W 6 1 0 0 - 0 0 - 1 1 100.0 0 1 1 1 0 0 0 1 -2
+p306
+aVJalen Rose CHI 02/15/2003 CHI vs. DEN W 42 27 10 22 45.5 1 4 25.0 6 7 85.7 4 6 10 5 0 1 8 2 21
+p307
+aVEddie Robinson CHI 02/15/2003 CHI vs. DEN W 24 4 2 7 28.6 0 0 - 0 0 - 2 2 4 3 2 0 0 1 11
+p308
+aVEddy Curry CHI 02/14/2003 CHI @ NJN L 17 6 3 6 50.0 0 0 - 0 0 - 3 3 6 0 0 1 4 3 -8
+p309
+aVJay Williams CHI 02/14/2003 CHI @ NJN L 26 13 6 15 40.0 0 4 0.0 1 2 50.0 0 3 3 3 2 0 3 4 -24
+p310
+aVFred Hoiberg CHI 02/14/2003 CHI @ NJN L 12 4 0 3 0.0 0 0 - 4 4 100.0 0 5 5 1 0 0 1 1 7
+p311
+aVJamal Crawford CHI 02/14/2003 CHI @ NJN L 23 4 2 9 22.2 0 2 0.0 0 1 0.0 0 1 1 4 2 0 1 0 1
+p312
+aVCorie Blount CHI 02/14/2003 CHI @ NJN L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 6
+p313
+aVEddie Robinson CHI 02/14/2003 CHI @ NJN L 12 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 2 -19
+p314
+aVRick Brunson CHI 02/14/2003 CHI @ NJN L 7 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 7
+p315
+aVJalen Rose CHI 02/14/2003 CHI @ NJN L 36 13 6 18 33.3 0 4 0.0 1 2 50.0 1 3 4 4 0 0 4 3 -25
+p316
+aVTrenton Hassell CHI 02/14/2003 CHI @ NJN L 28 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 1 2 0 1 -1
+p317
+aVLonny Baxter CHI 02/14/2003 CHI @ NJN L 22 6 2 3 66.7 0 0 - 2 2 100.0 4 4 8 1 1 1 2 3 13
+p318
+aVDonyell Marshall CHI 02/14/2003 CHI @ NJN L 28 4 1 9 11.1 0 1 0.0 2 4 50.0 4 7 11 0 3 0 2 3 -36
+p319
+aVTyson Chandler CHI 02/14/2003 CHI @ NJN L 25 12 3 9 33.3 0 0 - 6 9 66.7 2 5 7 0 0 6 4 5 -11
+p320
+aVJay Williams CHI 02/12/2003 CHI @ PHI L 28 7 2 8 25.0 1 4 25.0 2 4 50.0 0 4 4 6 1 0 3 3 8
+p321
+aVDonyell Marshall CHI 02/12/2003 CHI @ PHI L 45 21 8 13 61.5 0 0 - 5 6 83.3 3 10 13 4 0 0 4 3 -2
+p322
+aVLonny Baxter CHI 02/12/2003 CHI @ PHI L 8 0 0 3 0.0 0 0 - 0 2 0.0 2 0 2 0 0 1 1 5 -6
+p323
+aVTyson Chandler CHI 02/12/2003 CHI @ PHI L 38 21 8 9 88.9 0 0 - 5 8 62.5 7 10 17 0 1 7 1 1 -7
+p324
+aVTrenton Hassell CHI 02/12/2003 CHI @ PHI L 27 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 1 2 4 -18
+p325
+aVJalen Rose CHI 02/12/2003 CHI @ PHI L 50 38 14 25 56.0 4 10 40.0 6 6 100.0 0 6 6 13 1 0 5 2 -2
+p326
+aVEddie Robinson CHI 02/12/2003 CHI @ PHI L 26 9 4 6 66.7 0 0 - 1 1 100.0 0 0 0 2 0 2 1 6 10
+p327
+aVFred Hoiberg CHI 02/12/2003 CHI @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p328
+aVEddy Curry CHI 02/12/2003 CHI @ PHI L 15 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 1 0 1 1 3 -1
+p329
+aVJamal Crawford CHI 02/12/2003 CHI @ PHI L 25 4 1 10 10.0 0 3 0.0 2 2 100.0 0 2 2 2 0 0 2 1 -16
+p330
+aVTrenton Hassell CHI 02/11/2003 CHI vs. DET L 22 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 1 -10
+p331
+aVTyson Chandler CHI 02/11/2003 CHI vs. DET L 32 7 3 5 60.0 0 0 - 1 3 33.3 1 3 4 0 1 2 4 5 -11
+p332
+aVDonyell Marshall CHI 02/11/2003 CHI vs. DET L 26 12 4 11 36.4 0 1 0.0 4 4 100.0 4 8 12 1 1 2 4 5 -18
+p333
+aVJalen Rose CHI 02/11/2003 CHI vs. DET L 37 27 11 22 50.0 1 3 33.3 4 6 66.7 2 2 4 4 1 0 3 3 -19
+p334
+aVEddy Curry CHI 02/11/2003 CHI vs. DET L 19 10 4 7 57.1 0 0 - 2 2 100.0 1 0 1 1 0 1 2 2 7
+p335
+aVRick Brunson CHI 02/11/2003 CHI vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p336
+aVJamal Crawford CHI 02/11/2003 CHI vs. DET L 25 11 5 10 50.0 0 0 - 1 2 50.0 1 2 3 5 0 0 3 2 -9
+p337
+aVJay Williams CHI 02/11/2003 CHI vs. DET L 23 7 3 8 37.5 0 1 0.0 1 2 50.0 0 1 1 4 1 0 0 4 -1
+p338
+aVEddie Robinson CHI 02/11/2003 CHI vs. DET L 25 1 0 2 0.0 0 0 - 1 2 50.0 0 6 6 0 5 0 2 3 0
+p339
+aVFred Hoiberg CHI 02/11/2003 CHI vs. DET L 11 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 0 9
+p340
+aVDalibor Bagaric CHI 02/11/2003 CHI vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p341
+aVCorie Blount CHI 02/11/2003 CHI vs. DET L 16 0 0 3 0.0 0 0 - 0 0 - 1 5 6 1 2 0 0 2 -4
+p342
+aVEddie Robinson CHI 02/04/2003 CHI @ DEN L 29 7 3 6 50.0 1 1 100.0 0 0 - 2 4 6 1 2 0 1 0 -1
+p343
+aVJay Williams CHI 02/04/2003 CHI @ DEN L 22 10 3 5 60.0 1 1 100.0 3 4 75.0 0 0 0 8 3 1 5 2 4
+p344
+aVCorie Blount CHI 02/04/2003 CHI @ DEN L 22 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 3 0 3 6 -10
+p345
+aVFred Hoiberg CHI 02/04/2003 CHI @ DEN L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 3 3
+p346
+aVDonyell Marshall CHI 02/04/2003 CHI @ DEN L 39 21 8 15 53.3 0 1 0.0 5 7 71.4 4 4 8 5 1 1 2 2 -1
+p347
+aVJamal Crawford CHI 02/04/2003 CHI @ DEN L 31 14 5 14 35.7 2 6 33.3 2 2 100.0 0 4 4 4 1 1 3 2 -6
+p348
+aVJalen Rose CHI 02/04/2003 CHI @ DEN L 43 20 5 22 22.7 3 5 60.0 7 7 100.0 0 3 3 4 1 0 2 2 -3
+p349
+aVTyson Chandler CHI 02/04/2003 CHI @ DEN L 26 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 0 2 2 5 6
+p350
+aVEddy Curry CHI 02/04/2003 CHI @ DEN L 19 13 6 9 66.7 0 0 - 1 1 100.0 0 2 2 0 0 0 2 2 -1
+p351
+aVTrenton Hassell CHI 02/04/2003 CHI @ DEN L 24 5 2 4 50.0 1 2 50.0 0 2 0.0 0 3 3 5 0 0 1 2 -1
+p352
+aVEddy Curry CHI 02/03/2003 CHI @ PHX L 18 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 0 0 3 2 1 -12
+p353
+aVJay Williams CHI 02/03/2003 CHI @ PHX L 23 10 3 7 42.9 2 3 66.7 2 3 66.7 1 1 2 4 0 0 1 2 -4
+p354
+aVCorie Blount CHI 02/03/2003 CHI @ PHX L 26 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 0 0 0 2 4 -7
+p355
+aVEddie Robinson CHI 02/03/2003 CHI @ PHX L 27 5 2 7 28.6 1 2 50.0 0 0 - 2 1 3 2 0 0 0 2 -5
+p356
+aVDonyell Marshall CHI 02/03/2003 CHI @ PHX L 44 23 10 17 58.8 1 1 100.0 2 3 66.7 6 12 18 1 2 3 4 4 6
+p357
+aVFred Hoiberg CHI 02/03/2003 CHI @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p358
+aVJalen Rose CHI 02/03/2003 CHI @ PHX L 49 28 8 24 33.3 3 9 33.3 9 10 90.0 0 5 5 8 2 1 5 2 -1
+p359
+aVJamal Crawford CHI 02/03/2003 CHI @ PHX L 30 15 6 16 37.5 1 3 33.3 2 2 100.0 0 3 3 7 2 1 0 2 7
+p360
+aVTrenton Hassell CHI 02/03/2003 CHI @ PHX L 26 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 2 1 1 0 3 -6
+p361
+aVTyson Chandler CHI 02/03/2003 CHI @ PHX L 19 11 5 7 71.4 0 0 - 1 2 50.0 2 2 4 0 0 0 1 6 5
+p362
+aVCorie Blount CHI 02/01/2003 CHI @ SEA L 28 2 1 3 33.3 0 0 - 0 0 - 3 3 6 1 1 1 2 3 1
+p363
+aVTyson Chandler CHI 02/01/2003 CHI @ SEA L 20 4 1 3 33.3 0 0 - 2 2 100.0 5 1 6 1 0 3 6 2 -14
+p364
+aVEddie Robinson CHI 02/01/2003 CHI @ SEA L 25 11 5 9 55.6 0 0 - 1 1 100.0 2 2 4 0 0 0 1 3 1
+p365
+aVJamal Crawford CHI 02/01/2003 CHI @ SEA L 28 12 5 11 45.5 1 3 33.3 1 2 50.0 0 2 2 3 0 0 2 2 -14
+p366
+aVEddy Curry CHI 02/01/2003 CHI @ SEA L 14 9 2 5 40.0 0 0 - 5 6 83.3 1 1 2 0 0 2 1 4 3
+p367
+aVJalen Rose CHI 02/01/2003 CHI @ SEA L 43 23 10 25 40.0 2 9 22.2 1 1 100.0 0 1 1 4 2 0 1 5 -14
+p368
+aVFred Hoiberg CHI 02/01/2003 CHI @ SEA L 5 2 0 2 0.0 0 0 - 2 2 100.0 1 5 6 1 0 0 1 0 1
+p369
+aVDonyell Marshall CHI 02/01/2003 CHI @ SEA L 35 14 6 15 40.0 0 0 - 2 2 100.0 2 6 8 1 2 2 2 3 -16
+p370
+aVJay Williams CHI 02/01/2003 CHI @ SEA L 20 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 5 0 1 0 3 1
+p371
+aVTrenton Hassell CHI 02/01/2003 CHI @ SEA L 23 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 1 2 1 1 4 -14
+p372
+aVEddie Robinson CHI 01/31/2003 CHI @ POR L 29 10 3 5 60.0 0 0 - 4 5 80.0 1 1 2 3 0 0 2 1 -9
+p373
+aVJay Williams CHI 01/31/2003 CHI @ POR L 22 5 2 5 40.0 0 1 0.0 1 4 25.0 2 1 3 5 1 0 2 4 1
+p374
+aVDonyell Marshall CHI 01/31/2003 CHI @ POR L 26 9 4 11 36.4 0 0 - 1 2 50.0 3 5 8 1 0 0 2 2 -16
+p375
+aVJalen Rose CHI 01/31/2003 CHI @ POR L 37 16 5 11 45.5 2 6 33.3 4 4 100.0 0 1 1 1 1 0 4 5 -12
+p376
+aVRick Brunson CHI 01/31/2003 CHI @ POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p377
+aVTrenton Hassell CHI 01/31/2003 CHI @ POR L 19 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 2 -4
+p378
+aVCorie Blount CHI 01/31/2003 CHI @ POR L 8 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 1 0 1 2
+p379
+aVMarcus Fizer CHI 01/31/2003 CHI @ POR L 22 17 6 10 60.0 0 0 - 5 5 100.0 1 3 4 2 0 0 2 0 3
+p380
+aVFred Hoiberg CHI 01/31/2003 CHI @ POR L 10 1 0 1 0.0 0 0 - 1 1 100.0 0 2 2 1 2 0 0 1 -3
+p381
+aVJamal Crawford CHI 01/31/2003 CHI @ POR L 26 11 4 6 66.7 1 1 100.0 2 2 100.0 0 0 0 4 0 0 2 2 -14
+p382
+aVTyson Chandler CHI 01/31/2003 CHI @ POR L 22 12 5 11 45.5 0 0 - 2 2 100.0 2 3 5 0 0 0 0 3 -20
+p383
+aVEddy Curry CHI 01/31/2003 CHI @ POR L 18 10 4 8 50.0 0 0 - 2 3 66.7 1 3 4 0 1 1 0 0 5
+p384
+aVEddy Curry CHI 01/29/2003 CHI @ LAC L 4 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 2
+p385
+aVTrenton Hassell CHI 01/29/2003 CHI @ LAC L 34 5 2 8 25.0 0 2 0.0 1 1 100.0 0 4 4 2 1 0 1 1 0
+p386
+aVJamal Crawford CHI 01/29/2003 CHI @ LAC L 33 14 4 12 33.3 2 5 40.0 4 5 80.0 0 2 2 6 3 0 1 2 7
+p387
+aVEddie Robinson CHI 01/29/2003 CHI @ LAC L 14 4 2 5 40.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 -3
+p388
+aVJalen Rose CHI 01/29/2003 CHI @ LAC L 44 24 9 22 40.9 2 5 40.0 4 4 100.0 0 5 5 4 0 0 1 3 3
+p389
+aVMarcus Fizer CHI 01/29/2003 CHI @ LAC L 21 4 1 8 12.5 0 0 - 2 2 100.0 2 4 6 2 0 0 4 5 -11
+p390
+aVTyson Chandler CHI 01/29/2003 CHI @ LAC L 24 8 4 10 40.0 0 0 - 0 1 0.0 3 5 8 1 1 2 1 1 5
+p391
+aVFred Hoiberg CHI 01/29/2003 CHI @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p392
+aVCorie Blount CHI 01/29/2003 CHI @ LAC L 14 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 0 2 1 -7
+p393
+aVDonyell Marshall CHI 01/29/2003 CHI @ LAC L 33 14 5 12 41.7 0 2 0.0 4 6 66.7 3 6 9 0 1 1 2 2 8
+p394
+aVRick Brunson CHI 01/29/2003 CHI @ LAC L 15 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -9
+p395
+aVFred Hoiberg CHI 01/26/2003 CHI vs. HOU W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 7
+p396
+aVCorie Blount CHI 01/26/2003 CHI vs. HOU W 10 2 0 1 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 4 -7
+p397
+aVJalen Rose CHI 01/26/2003 CHI vs. HOU W 40 29 9 23 39.1 0 4 0.0 11 11 100.0 3 4 7 5 2 0 4 2 -5
+p398
+aVEddy Curry CHI 01/26/2003 CHI vs. HOU W 12 9 3 5 60.0 0 0 - 3 4 75.0 1 0 1 2 0 0 1 1 4
+p399
+aVDonyell Marshall CHI 01/26/2003 CHI vs. HOU W 32 17 8 16 50.0 0 1 0.0 1 1 100.0 3 7 10 0 3 2 1 6 3
+p400
+aVRick Brunson CHI 01/26/2003 CHI vs. HOU W 29 7 3 6 50.0 1 1 100.0 0 0 - 0 3 3 3 1 0 2 3 -12
+p401
+aVEddie Robinson CHI 01/26/2003 CHI vs. HOU W 19 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -4
+p402
+aVTyson Chandler CHI 01/26/2003 CHI vs. HOU W 21 6 2 7 28.6 0 0 - 2 2 100.0 2 3 5 2 1 1 3 4 3
+p403
+aVMarcus Fizer CHI 01/26/2003 CHI vs. HOU W 21 12 6 12 50.0 0 0 - 0 0 - 2 2 4 1 1 0 3 3 -1
+p404
+aVTrenton Hassell CHI 01/26/2003 CHI vs. HOU W 29 6 3 6 50.0 0 1 0.0 0 0 - 1 7 8 2 0 0 1 4 6
+p405
+aVJamal Crawford CHI 01/26/2003 CHI vs. HOU W 20 8 3 7 42.9 2 3 66.7 0 0 - 0 1 1 3 1 1 0 1 16
+p406
+aVMarcus Fizer CHI 01/24/2003 CHI vs. WAS W 20 18 8 13 61.5 0 0 - 2 5 40.0 2 2 4 2 0 0 1 3 -5
+p407
+aVDonyell Marshall CHI 01/24/2003 CHI vs. WAS W 35 16 6 8 75.0 1 1 100.0 3 4 75.0 3 10 13 3 0 0 0 4 2
+p408
+aVTrenton Hassell CHI 01/24/2003 CHI vs. WAS W 24 4 1 5 20.0 1 1 100.0 1 2 50.0 0 2 2 3 0 2 0 3 4
+p409
+aVTyson Chandler CHI 01/24/2003 CHI vs. WAS W 18 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 1 2 1 2 1
+p410
+aVEddie Robinson CHI 01/24/2003 CHI vs. WAS W 25 15 7 10 70.0 1 2 50.0 0 0 - 1 5 6 2 1 1 0 1 6
+p411
+aVJamal Crawford CHI 01/24/2003 CHI vs. WAS W 19 11 5 8 62.5 1 2 50.0 0 0 - 0 3 3 1 0 0 1 2 0
+p412
+aVJalen Rose CHI 01/24/2003 CHI vs. WAS W 43 11 4 19 21.1 0 4 0.0 3 3 100.0 2 3 5 9 1 3 3 4 -2
+p413
+aVRick Brunson CHI 01/24/2003 CHI vs. WAS W 29 10 4 6 66.7 0 1 0.0 2 2 100.0 0 3 3 10 1 0 2 1 7
+p414
+aVFred Hoiberg CHI 01/24/2003 CHI vs. WAS W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 1 0 1 9
+p415
+aVCorie Blount CHI 01/24/2003 CHI vs. WAS W 15 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 1 1 1 1 4 15
+p416
+aVEddy Curry CHI 01/24/2003 CHI vs. WAS W 7 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -2
+p417
+aVTrenton Hassell CHI 01/22/2003 CHI @ ORL L 25 8 4 7 57.1 0 0 - 0 1 0.0 0 5 5 1 1 0 1 2 -1
+p418
+aVFred Hoiberg CHI 01/22/2003 CHI @ ORL L 10 0 0 1 0.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 2 -5
+p419
+aVEddie Robinson CHI 01/22/2003 CHI @ ORL L 20 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 1 0 3 2
+p420
+aVEddy Curry CHI 01/22/2003 CHI @ ORL L 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 3 1
+p421
+aVMarcus Fizer CHI 01/22/2003 CHI @ ORL L 25 17 7 17 41.2 0 1 0.0 3 3 100.0 1 4 5 2 0 1 2 4 6
+p422
+aVTyson Chandler CHI 01/22/2003 CHI @ ORL L 25 10 5 7 71.4 0 0 - 0 5 0.0 0 2 2 1 0 2 0 2 -11
+p423
+aVJalen Rose CHI 01/22/2003 CHI @ ORL L 44 28 8 19 42.1 3 3 100.0 9 10 90.0 2 3 5 5 1 0 6 6 0
+p424
+aVRick Brunson CHI 01/22/2003 CHI @ ORL L 21 17 7 10 70.0 1 2 50.0 2 2 100.0 0 2 2 3 0 0 0 5 4
+p425
+aVCorie Blount CHI 01/22/2003 CHI @ ORL L 12 0 0 0 - 0 0 - 0 0 - 2 2 4 2 1 1 0 3 5
+p426
+aVDonyell Marshall CHI 01/22/2003 CHI @ ORL L 27 4 2 3 66.7 0 1 0.0 0 0 - 0 8 8 3 1 2 4 2 -7
+p427
+aVJamal Crawford CHI 01/22/2003 CHI @ ORL L 24 5 1 7 14.3 0 3 0.0 3 4 75.0 1 3 4 4 0 0 0 0 -9
+p428
+aVMarcus Fizer CHI 01/20/2003 CHI @ ATL W 28 24 10 19 52.6 0 0 - 4 4 100.0 3 7 10 1 1 1 1 3 18
+p429
+aVEddie Robinson CHI 01/20/2003 CHI @ ATL W 24 5 1 2 50.0 0 0 - 3 4 75.0 3 2 5 5 2 0 1 0 12
+p430
+aVDonyell Marshall CHI 01/20/2003 CHI @ ATL W 22 7 2 10 20.0 0 1 0.0 3 4 75.0 5 8 13 2 0 2 1 3 -6
+p431
+aVTrenton Hassell CHI 01/20/2003 CHI @ ATL W 24 6 3 7 42.9 0 0 - 0 0 - 1 1 2 1 1 1 0 2 1
+p432
+aVJamal Crawford CHI 01/20/2003 CHI @ ATL W 24 4 2 10 20.0 0 3 0.0 0 0 - 0 1 1 6 0 0 2 0 -2
+p433
+aVJalen Rose CHI 01/20/2003 CHI @ ATL W 44 37 15 21 71.4 7 10 70.0 0 3 0.0 1 3 4 5 0 0 2 1 13
+p434
+aVTyson Chandler CHI 01/20/2003 CHI @ ATL W 24 10 5 8 62.5 0 0 - 0 0 - 3 2 5 0 0 0 0 2 -5
+p435
+aVFred Hoiberg CHI 01/20/2003 CHI @ ATL W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 0
+p436
+aVEddy Curry CHI 01/20/2003 CHI @ ATL W 7 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 1 -3
+p437
+aVCorie Blount CHI 01/20/2003 CHI @ ATL W 16 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 1 3 22
+p438
+aVRick Brunson CHI 01/20/2003 CHI @ ATL W 24 12 5 7 71.4 2 2 100.0 0 2 0.0 0 0 0 7 3 0 0 4 15
+p439
+aVEddy Curry CHI 01/18/2003 CHI @ MIA L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -3
+p440
+aVCorie Blount CHI 01/18/2003 CHI @ MIA L 26 0 0 0 - 0 0 - 0 0 - 1 2 3 0 2 0 1 3 9
+p441
+aVFred Hoiberg CHI 01/18/2003 CHI @ MIA L 3 1 0 1 0.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -1
+p442
+aVTyson Chandler CHI 01/18/2003 CHI @ MIA L 16 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 1 0 0 4 -3
+p443
+aVJamal Crawford CHI 01/18/2003 CHI @ MIA L 32 15 6 11 54.5 3 4 75.0 0 0 - 0 2 2 4 1 1 4 0 11
+p444
+aVTrenton Hassell CHI 01/18/2003 CHI @ MIA L 22 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 3 -9
+p445
+aVDonyell Marshall CHI 01/18/2003 CHI @ MIA L 43 24 9 15 60.0 2 3 66.7 4 6 66.7 5 10 15 1 4 4 2 6 1
+p446
+aVJay Williams CHI 01/18/2003 CHI @ MIA L 26 5 2 4 50.0 1 2 50.0 0 0 - 1 3 4 3 1 0 6 1 -12
+p447
+aVEddie Robinson CHI 01/18/2003 CHI @ MIA L 23 4 1 5 20.0 0 0 - 2 2 100.0 2 2 4 0 2 0 0 1 2
+p448
+aVMarcus Fizer CHI 01/18/2003 CHI @ MIA L 37 16 6 13 46.2 0 0 - 4 5 80.0 0 8 8 2 0 0 1 3 0
+p449
+aVJalen Rose CHI 01/18/2003 CHI @ MIA L 55 30 14 30 46.7 2 4 50.0 0 1 0.0 0 2 2 7 2 1 6 4 0
+p450
+aVEddy Curry CHI 01/17/2003 CHI @ NOH L 12 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 0 2 2 3 -3
+p451
+aVFred Hoiberg CHI 01/17/2003 CHI @ NOH L 10 1 0 1 0.0 0 0 - 1 1 100.0 0 3 3 1 0 0 0 0 7
+p452
+aVJalen Rose CHI 01/17/2003 CHI @ NOH L 42 21 7 20 35.0 1 6 16.7 6 6 100.0 2 1 3 2 1 2 3 2 -12
+p453
+aVJamal Crawford CHI 01/17/2003 CHI @ NOH L 22 9 2 4 50.0 1 2 50.0 4 5 80.0 0 2 2 2 1 0 2 0 19
+p454
+aVCorie Blount CHI 01/17/2003 CHI @ NOH L 19 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 1 1 1 3 17
+p455
+aVMarcus Fizer CHI 01/17/2003 CHI @ NOH L 24 12 5 9 55.6 0 0 - 2 4 50.0 2 4 6 1 0 1 3 3 8
+p456
+aVTyson Chandler CHI 01/17/2003 CHI @ NOH L 13 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 1 1 3 3 -16
+p457
+aVJay Williams CHI 01/17/2003 CHI @ NOH L 27 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 2 0 0 2 4 -27
+p458
+aVTrenton Hassell CHI 01/17/2003 CHI @ NOH L 26 2 1 7 14.3 0 1 0.0 0 0 - 1 2 3 4 0 1 1 1 -24
+p459
+aVEddie Robinson CHI 01/17/2003 CHI @ NOH L 18 13 5 6 83.3 0 0 - 3 3 100.0 1 2 3 1 1 0 2 0 16
+p460
+aVDonyell Marshall CHI 01/17/2003 CHI @ NOH L 28 14 5 12 41.7 0 0 - 4 6 66.7 4 8 12 1 0 1 2 5 -20
+p461
+aVTyson Chandler CHI 01/14/2003 CHI @ NYK L 15 4 1 2 50.0 0 0 - 2 2 100.0 3 2 5 0 1 0 4 2 -15
+p462
+aVEddy Curry CHI 01/14/2003 CHI @ NYK L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 4
+p463
+aVJamal Crawford CHI 01/14/2003 CHI @ NYK L 24 15 6 10 60.0 2 3 66.7 1 1 100.0 0 0 0 3 0 2 5 1 3
+p464
+aVJalen Rose CHI 01/14/2003 CHI @ NYK L 48 23 6 22 27.3 1 7 14.3 10 10 100.0 2 6 8 3 2 1 2 5 -12
+p465
+aVJay Williams CHI 01/14/2003 CHI @ NYK L 24 2 0 7 0.0 0 2 0.0 2 2 100.0 0 3 3 3 0 0 4 2 -15
+p466
+aVMarcus Fizer CHI 01/14/2003 CHI @ NYK L 25 9 4 10 40.0 0 0 - 1 2 50.0 4 8 12 1 0 0 1 2 1
+p467
+aVEddie Robinson CHI 01/14/2003 CHI @ NYK L 24 4 2 3 66.7 0 0 - 0 0 - 4 2 6 1 0 1 1 0 3
+p468
+aVTrenton Hassell CHI 01/14/2003 CHI @ NYK L 24 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 1 -15
+p469
+aVDonyell Marshall CHI 01/14/2003 CHI @ NYK L 41 22 9 21 42.9 2 5 40.0 2 4 50.0 6 8 14 4 1 1 1 2 -16
+p470
+aVLonny Baxter CHI 01/14/2003 CHI @ NYK L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p471
+aVJalen Rose CHI 01/13/2003 CHI vs. NYK W 44 28 9 18 50.0 2 4 50.0 8 8 100.0 0 3 3 5 1 0 1 3 5
+p472
+aVTrenton Hassell CHI 01/13/2003 CHI vs. NYK W 28 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 2 0 1 2 4 -7
+p473
+aVMarcus Fizer CHI 01/13/2003 CHI vs. NYK W 18 14 6 12 50.0 0 0 - 2 3 66.7 2 3 5 2 0 0 1 3 -4
+p474
+aVDonyell Marshall CHI 01/13/2003 CHI vs. NYK W 22 12 4 8 50.0 0 1 0.0 4 4 100.0 4 1 5 3 1 1 1 4 2
+p475
+aVLonny Baxter CHI 01/13/2003 CHI vs. NYK W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 2 0 1 9
+p476
+aVFred Hoiberg CHI 01/13/2003 CHI vs. NYK W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -5
+p477
+aVTyson Chandler CHI 01/13/2003 CHI vs. NYK W 35 8 4 6 66.7 0 0 - 0 4 0.0 4 15 19 3 0 1 3 1 -8
+p478
+aVEddie Robinson CHI 01/13/2003 CHI vs. NYK W 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 0 1 21
+p479
+aVEddy Curry CHI 01/13/2003 CHI vs. NYK W 12 13 4 4 100.0 0 0 - 5 6 83.3 1 2 3 1 0 1 1 1 13
+p480
+aVJay Williams CHI 01/13/2003 CHI vs. NYK W 29 8 3 7 42.9 0 2 0.0 2 4 50.0 0 1 1 7 3 0 2 2 1
+p481
+aVJamal Crawford CHI 01/13/2003 CHI vs. NYK W 20 9 2 7 28.6 0 0 - 5 7 71.4 0 3 3 1 1 0 1 0 8
+p482
+aVFred Hoiberg CHI 01/10/2003 CHI @ MIL L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -4
+p483
+aVTrenton Hassell CHI 01/10/2003 CHI @ MIL L 36 11 5 10 50.0 1 1 100.0 0 0 - 0 3 3 2 2 0 0 4 -6
+p484
+aVJalen Rose CHI 01/10/2003 CHI @ MIL L 50 19 8 21 38.1 3 8 37.5 0 1 0.0 1 11 12 6 0 0 3 4 -8
+p485
+aVEddy Curry CHI 01/10/2003 CHI @ MIL L 4 2 1 2 50.0 0 0 - 0 4 0.0 1 0 1 0 0 0 0 1 -4
+p486
+aVTyson Chandler CHI 01/10/2003 CHI @ MIL L 35 6 2 4 50.0 0 0 - 2 8 25.0 1 6 7 1 1 0 3 3 8
+p487
+aVJamal Crawford CHI 01/10/2003 CHI @ MIL L 49 16 7 18 38.9 1 5 20.0 1 2 50.0 1 6 7 7 1 1 0 0 -3
+p488
+aVEddie Robinson CHI 01/10/2003 CHI @ MIL L 14 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 2 0 0 0 -3
+p489
+aVLonny Baxter CHI 01/10/2003 CHI @ MIL L 5 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -4
+p490
+aVCorie Blount CHI 01/10/2003 CHI @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p491
+aVMarcus Fizer CHI 01/10/2003 CHI @ MIL L 30 13 6 11 54.5 0 0 - 1 4 25.0 3 3 6 1 0 1 2 5 -8
+p492
+aVDonyell Marshall CHI 01/10/2003 CHI @ MIL L 31 8 3 10 30.0 0 0 - 2 2 100.0 1 2 3 2 0 0 4 5 -6
+p493
+aVTrenton Hassell CHI 01/08/2003 CHI @ WAS L 31 10 4 6 66.7 2 3 66.7 0 0 - 0 1 1 3 2 4 2 3 -9
+p494
+aVJay Williams CHI 01/08/2003 CHI @ WAS L 21 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 5 1 0 1 2 -10
+p495
+aVEddie Robinson CHI 01/08/2003 CHI @ WAS L 17 2 1 3 33.3 0 0 - 0 0 - 2 5 7 1 1 0 1 4 6
+p496
+aVEddy Curry CHI 01/08/2003 CHI @ WAS L 16 15 6 7 85.7 0 0 - 3 6 50.0 1 0 1 0 1 0 1 3 5
+p497
+aVTyson Chandler CHI 01/08/2003 CHI @ WAS L 19 6 1 5 20.0 0 0 - 4 4 100.0 0 6 6 2 1 1 4 4 8
+p498
+aVCorie Blount CHI 01/08/2003 CHI @ WAS L 6 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -2
+p499
+aVJalen Rose CHI 01/08/2003 CHI @ WAS L 41 10 4 17 23.5 0 6 0.0 2 3 66.7 0 4 4 8 0 0 3 3 -5
+p500
+aVLonny Baxter CHI 01/08/2003 CHI @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p501
+aVFred Hoiberg CHI 01/08/2003 CHI @ WAS L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 3 2
+p502
+aVMarcus Fizer CHI 01/08/2003 CHI @ WAS L 22 12 5 10 50.0 0 1 0.0 2 3 66.7 0 4 4 2 0 0 1 3 -9
+p503
+aVDonyell Marshall CHI 01/08/2003 CHI @ WAS L 31 24 10 15 66.7 0 0 - 4 5 80.0 3 6 9 1 2 2 0 4 -12
+p504
+aVJamal Crawford CHI 01/08/2003 CHI @ WAS L 27 15 6 12 50.0 2 4 50.0 1 2 50.0 0 2 2 3 1 0 0 1 7
+p505
+aVJalen Rose CHI 01/06/2003 CHI vs. UTA W 48 31 12 17 70.6 4 5 80.0 3 3 100.0 0 5 5 7 1 0 4 2 15
+p506
+aVTyson Chandler CHI 01/06/2003 CHI vs. UTA W 9 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 2 4 1
+p507
+aVEddy Curry CHI 01/06/2003 CHI vs. UTA W 12 6 1 2 50.0 0 0 - 4 4 100.0 1 1 2 0 0 1 1 3 8
+p508
+aVDonyell Marshall CHI 01/06/2003 CHI vs. UTA W 40 17 6 15 40.0 1 1 100.0 4 4 100.0 3 8 11 2 4 0 2 3 14
+p509
+aVFred Hoiberg CHI 01/06/2003 CHI vs. UTA W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 4 4
+p510
+aVTrenton Hassell CHI 01/06/2003 CHI vs. UTA W 37 11 2 7 28.6 0 1 0.0 7 8 87.5 2 3 5 3 0 3 4 4 8
+p511
+aVEddie Robinson CHI 01/06/2003 CHI vs. UTA W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 3 0 0 1 1
+p512
+aVCorie Blount CHI 01/06/2003 CHI vs. UTA W 7 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 1 0 0 3
+p513
+aVJamal Crawford CHI 01/06/2003 CHI vs. UTA W 37 12 5 11 45.5 2 6 33.3 0 0 - 0 2 2 5 2 1 2 5 17
+p514
+aVMarcus Fizer CHI 01/06/2003 CHI vs. UTA W 28 28 10 14 71.4 1 1 100.0 7 11 63.6 4 3 7 0 0 1 1 5 4
+p515
+aVJamal Crawford CHI 01/04/2003 CHI vs. CLE W 40 5 2 8 25.0 0 3 0.0 1 1 100.0 1 3 4 7 0 0 7 5 0
+p516
+aVJay Williams CHI 01/04/2003 CHI vs. CLE W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 2
+p517
+aVFred Hoiberg CHI 01/04/2003 CHI vs. CLE W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 7
+p518
+aVCorie Blount CHI 01/04/2003 CHI vs. CLE W 14 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -5
+p519
+aVEddie Robinson CHI 01/04/2003 CHI vs. CLE W 15 1 0 4 0.0 0 0 - 1 2 50.0 2 0 2 1 0 0 2 3 -13
+p520
+aVMarcus Fizer CHI 01/04/2003 CHI vs. CLE W 16 7 3 9 33.3 0 0 - 1 2 50.0 1 2 3 1 0 1 1 2 -2
+p521
+aVTyson Chandler CHI 01/04/2003 CHI vs. CLE W 23 16 6 9 66.7 0 0 - 4 6 66.7 1 6 7 1 1 2 2 5 -5
+p522
+aVJalen Rose CHI 01/04/2003 CHI vs. CLE W 44 19 6 19 31.6 0 0 - 7 7 100.0 1 4 5 8 2 0 2 5 3
+p523
+aVDonyell Marshall CHI 01/04/2003 CHI vs. CLE W 33 13 4 12 33.3 1 2 50.0 4 4 100.0 0 6 6 3 2 1 3 2 11
+p524
+aVEddy Curry CHI 01/04/2003 CHI vs. CLE W 11 6 2 3 66.7 0 0 - 2 4 50.0 1 2 3 0 0 0 2 1 13
+p525
+aVTrenton Hassell CHI 01/04/2003 CHI vs. CLE W 33 14 6 6 100.0 1 1 100.0 1 1 100.0 0 9 9 1 3 1 0 1 19
+p526
+aVEddy Curry CHI 01/02/2003 CHI vs. WAS L 14 1 0 0 - 0 0 - 1 4 25.0 1 3 4 0 0 0 2 4 5
+p527
+aVTrenton Hassell CHI 01/02/2003 CHI vs. WAS L 23 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 1 0 0 0 3 -23
+p528
+aVJamal Crawford CHI 01/02/2003 CHI vs. WAS L 20 7 2 7 28.6 1 4 25.0 2 2 100.0 0 1 1 6 1 0 3 2 -6
+p529
+aVDonyell Marshall CHI 01/02/2003 CHI vs. WAS L 23 8 4 9 44.4 0 1 0.0 0 0 - 0 4 4 3 1 1 0 2 -18
+p530
+aVLonny Baxter CHI 01/02/2003 CHI vs. WAS L 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -3
+p531
+aVEddie Robinson CHI 01/02/2003 CHI vs. WAS L 18 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 1 1 0 0 2 1
+p532
+aVJalen Rose CHI 01/02/2003 CHI vs. WAS L 45 26 10 25 40.0 3 5 60.0 3 4 75.0 2 4 6 2 3 0 5 4 -22
+p533
+aVTyson Chandler CHI 01/02/2003 CHI vs. WAS L 32 8 3 9 33.3 0 0 - 2 4 50.0 2 2 4 1 1 1 1 5 -26
+p534
+aVJay Williams CHI 01/02/2003 CHI vs. WAS L 31 3 1 9 11.1 0 2 0.0 1 4 25.0 0 0 0 2 0 0 0 4 -22
+p535
+aVFred Hoiberg CHI 01/02/2003 CHI vs. WAS L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p536
+aVMarcus Fizer CHI 01/02/2003 CHI vs. WAS L 24 12 5 16 31.3 0 0 - 2 5 40.0 4 4 8 2 1 1 0 1 -8
+p537
+aVCorie Blount CHI 12/31/2002 CHI vs. POR W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 2 4
+p538
+aVJay Williams CHI 12/31/2002 CHI vs. POR W 29 9 3 9 33.3 3 6 50.0 0 0 - 0 2 2 9 4 1 4 6 6
+p539
+aVDonyell Marshall CHI 12/31/2002 CHI vs. POR W 20 12 6 10 60.0 0 0 - 0 0 - 1 2 3 1 2 1 1 0 19
+p540
+aVFred Hoiberg CHI 12/31/2002 CHI vs. POR W 22 5 1 5 20.0 1 3 33.3 2 2 100.0 0 6 6 3 0 1 0 2 -1
+p541
+aVTrenton Hassell CHI 12/31/2002 CHI vs. POR W 35 5 1 8 12.5 1 2 50.0 2 2 100.0 1 3 4 0 1 1 0 1 21
+p542
+aVMarcus Fizer CHI 12/31/2002 CHI vs. POR W 25 10 5 8 62.5 0 0 - 0 0 - 2 4 6 1 0 1 3 4 -8
+p543
+aVJalen Rose CHI 12/31/2002 CHI vs. POR W 45 32 10 23 43.5 2 4 50.0 10 12 83.3 0 2 2 6 0 0 3 4 25
+p544
+aVEddy Curry CHI 12/31/2002 CHI vs. POR W 13 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 1 4 0 4
+p545
+aVEddie Robinson CHI 12/31/2002 CHI vs. POR W 13 2 0 1 0.0 0 1 0.0 2 2 100.0 2 1 3 2 1 0 0 3 -6
+p546
+aVTyson Chandler CHI 12/31/2002 CHI vs. POR W 35 27 9 16 56.3 0 0 - 9 10 90.0 9 9 18 1 0 2 1 3 11
+p547
+aVJalen Rose CHI 12/28/2002 CHI vs. SAS L 37 24 9 19 47.4 0 0 - 6 6 100.0 2 4 6 4 0 1 5 1 -18
+p548
+aVCorie Blount CHI 12/28/2002 CHI vs. SAS L 25 2 1 4 25.0 0 0 - 0 2 0.0 2 2 4 3 0 0 0 5 -2
+p549
+aVTrenton Hassell CHI 12/28/2002 CHI vs. SAS L 22 0 0 4 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -27
+p550
+aVFred Hoiberg CHI 12/28/2002 CHI vs. SAS L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 0
+p551
+aVJay Williams CHI 12/28/2002 CHI vs. SAS L 31 23 7 12 58.3 5 7 71.4 4 4 100.0 0 1 1 3 2 0 3 5 -23
+p552
+aVMarcus Fizer CHI 12/28/2002 CHI vs. SAS L 26 11 5 14 35.7 0 1 0.0 1 2 50.0 5 7 12 3 4 0 1 5 7
+p553
+aVEddie Robinson CHI 12/28/2002 CHI vs. SAS L 24 11 4 4 100.0 0 0 - 3 4 75.0 1 6 7 0 0 0 1 3 17
+p554
+aVJamal Crawford CHI 12/28/2002 CHI vs. SAS L 17 8 4 11 36.4 0 1 0.0 0 0 - 1 0 1 2 1 0 0 0 9
+p555
+aVDonyell Marshall CHI 12/28/2002 CHI vs. SAS L 27 10 5 12 41.7 0 0 - 0 0 - 1 2 3 2 0 0 0 3 -19
+p556
+aVTyson Chandler CHI 12/28/2002 CHI vs. SAS L 18 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 1 0 1 1 2 -14
+p557
+aVEddy Curry CHI 12/27/2002 CHI vs. MIN L 10 3 1 2 50.0 0 0 - 1 4 25.0 1 0 1 1 0 0 1 2 -2
+p558
+aVJay Williams CHI 12/27/2002 CHI vs. MIN L 25 16 7 12 58.3 0 3 0.0 2 2 100.0 0 2 2 4 1 0 3 3 -14
+p559
+aVLonny Baxter CHI 12/27/2002 CHI vs. MIN L 7 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 10
+p560
+aVJamal Crawford CHI 12/27/2002 CHI vs. MIN L 23 20 9 14 64.3 2 4 50.0 0 0 - 0 2 2 3 1 0 0 1 1
+p561
+aVTrenton Hassell CHI 12/27/2002 CHI vs. MIN L 21 8 4 6 66.7 0 0 - 0 0 - 0 0 0 2 1 1 0 3 -11
+p562
+aVEddie Robinson CHI 12/27/2002 CHI vs. MIN L 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 1 0 0 1 8
+p563
+aVFred Hoiberg CHI 12/27/2002 CHI vs. MIN L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 6 6 3 0 0 0 1 -10
+p564
+aVMarcus Fizer CHI 12/27/2002 CHI vs. MIN L 17 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 1 0 1 1 2 -18
+p565
+aVTyson Chandler CHI 12/27/2002 CHI vs. MIN L 34 12 5 11 45.5 0 0 - 2 3 66.7 2 5 7 3 0 2 2 2 1
+p566
+aVDonyell Marshall CHI 12/27/2002 CHI vs. MIN L 28 5 2 8 25.0 0 0 - 1 2 50.0 3 7 10 2 2 3 2 2 -17
+p567
+aVJalen Rose CHI 12/27/2002 CHI vs. MIN L 48 22 8 21 38.1 2 9 22.2 4 7 57.1 0 9 9 5 1 0 2 3 -13
+p568
+aVJay Williams CHI 12/23/2002 CHI @ NJN L 32 8 2 13 15.4 1 6 16.7 3 4 75.0 0 1 1 4 2 0 2 1 -10
+p569
+aVDalibor Bagaric CHI 12/23/2002 CHI @ NJN L 7 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 3 2 2 6
+p570
+aVDonyell Marshall CHI 12/23/2002 CHI @ NJN L 14 2 1 3 33.3 0 0 - 0 0 - 0 6 6 1 1 0 1 4 -9
+p571
+aVTrenton Hassell CHI 12/23/2002 CHI @ NJN L 24 2 1 3 33.3 0 0 - 0 0 - 0 3 3 2 1 2 1 0 -14
+p572
+aVMarcus Fizer CHI 12/23/2002 CHI @ NJN L 27 16 5 11 45.5 0 0 - 6 8 75.0 2 7 9 0 0 1 1 3 -13
+p573
+aVJamal Crawford CHI 12/23/2002 CHI @ NJN L 19 9 3 7 42.9 1 2 50.0 2 4 50.0 0 1 1 2 1 1 2 1 -2
+p574
+aVLonny Baxter CHI 12/23/2002 CHI @ NJN L 14 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 6 1
+p575
+aVTyson Chandler CHI 12/23/2002 CHI @ NJN L 19 10 4 5 80.0 0 0 - 2 4 50.0 0 2 2 0 1 2 0 4 -21
+p576
+aVEddy Curry CHI 12/23/2002 CHI @ NJN L 15 7 2 3 66.7 0 0 - 3 5 60.0 0 4 4 0 1 2 1 3 4
+p577
+aVFred Hoiberg CHI 12/23/2002 CHI @ NJN L 8 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 0 8
+p578
+aVJalen Rose CHI 12/23/2002 CHI @ NJN L 40 16 7 20 35.0 1 5 20.0 1 2 50.0 1 0 1 6 0 0 4 2 -24
+p579
+aVEddie Robinson CHI 12/23/2002 CHI @ NJN L 21 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -6
+p580
+aVTyson Chandler CHI 12/21/2002 CHI vs. IND W 12 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 4 12
+p581
+aVMarcus Fizer CHI 12/21/2002 CHI vs. IND W 38 18 8 14 57.1 0 0 - 2 2 100.0 1 2 3 2 1 0 1 2 -3
+p582
+aVTrenton Hassell CHI 12/21/2002 CHI vs. IND W 22 6 3 6 50.0 0 0 - 0 0 - 0 1 1 2 2 2 0 2 5
+p583
+aVJamal Crawford CHI 12/21/2002 CHI vs. IND W 17 9 4 11 36.4 1 3 33.3 0 0 - 0 1 1 0 1 0 3 0 -7
+p584
+aVJalen Rose CHI 12/21/2002 CHI vs. IND W 44 28 7 17 41.2 3 5 60.0 11 12 91.7 0 7 7 5 1 0 1 4 7
+p585
+aVEddie Robinson CHI 12/21/2002 CHI vs. IND W 22 12 5 6 83.3 0 0 - 2 2 100.0 1 0 1 0 0 1 0 2 7
+p586
+aVFred Hoiberg CHI 12/21/2002 CHI vs. IND W 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 4 4 0 0 1 0 3 -7
+p587
+aVJay Williams CHI 12/21/2002 CHI vs. IND W 31 14 6 8 75.0 2 3 66.7 0 0 - 0 5 5 13 1 0 3 5 14
+p588
+aVLonny Baxter CHI 12/21/2002 CHI vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p589
+aVEddy Curry CHI 12/21/2002 CHI vs. IND W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -10
+p590
+aVDonyell Marshall CHI 12/21/2002 CHI vs. IND W 36 16 8 20 40.0 0 1 0.0 0 0 - 5 10 15 3 1 0 1 5 18
+p591
+aVTyson Chandler CHI 12/20/2002 CHI @ IND L 17 6 3 3 100.0 0 0 - 0 0 - 1 3 4 1 0 2 0 3 -6
+p592
+aVFred Hoiberg CHI 12/20/2002 CHI @ IND L 19 4 2 2 100.0 0 0 - 0 0 - 0 5 5 2 0 0 0 2 -3
+p593
+aVEddy Curry CHI 12/20/2002 CHI @ IND L 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 0
+p594
+aVJay Williams CHI 12/20/2002 CHI @ IND L 27 2 1 10 10.0 0 2 0.0 0 0 - 1 3 4 5 0 0 3 3 -19
+p595
+aVJamal Crawford CHI 12/20/2002 CHI @ IND L 21 9 3 8 37.5 1 3 33.3 2 2 100.0 1 1 2 4 0 0 2 2 4
+p596
+aVEddie Robinson CHI 12/20/2002 CHI @ IND L 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 2 0 0 2 8
+p597
+aVDonyell Marshall CHI 12/20/2002 CHI @ IND L 27 15 6 12 50.0 0 0 - 3 3 100.0 6 3 9 1 0 1 1 2 -16
+p598
+aVLonny Baxter CHI 12/20/2002 CHI @ IND L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -4
+p599
+aVMarcus Fizer CHI 12/20/2002 CHI @ IND L 35 26 10 17 58.8 0 0 - 6 9 66.7 6 6 12 4 1 0 3 1 -4
+p600
+aVJalen Rose CHI 12/20/2002 CHI @ IND L 43 18 7 24 29.2 1 6 16.7 3 4 75.0 0 0 0 3 2 0 5 3 -20
+p601
+aVTrenton Hassell CHI 12/20/2002 CHI @ IND L 21 0 0 5 0.0 0 0 - 0 0 - 0 2 2 2 2 0 1 2 -15
+p602
+aVJalen Rose CHI 12/18/2002 CHI vs. TOR W 38 20 9 20 45.0 1 1 100.0 1 1 100.0 0 1 1 5 0 0 4 3 17
+p603
+aVTyson Chandler CHI 12/18/2002 CHI vs. TOR W 22 10 5 8 62.5 0 0 - 0 0 - 4 3 7 2 0 1 0 3 6
+p604
+aVEddie Robinson CHI 12/18/2002 CHI vs. TOR W 23 6 3 7 42.9 0 1 0.0 0 0 - 2 2 4 0 2 0 0 2 11
+p605
+aVDonyell Marshall CHI 12/18/2002 CHI vs. TOR W 35 17 8 15 53.3 0 1 0.0 1 1 100.0 4 7 11 3 1 2 0 3 7
+p606
+aVMarcus Fizer CHI 12/18/2002 CHI vs. TOR W 25 15 6 11 54.5 0 0 - 3 5 60.0 5 8 13 0 0 0 4 2 8
+p607
+aVJamal Crawford CHI 12/18/2002 CHI vs. TOR W 17 4 2 6 33.3 0 0 - 0 0 - 0 2 2 4 2 1 1 1 12
+p608
+aVJay Williams CHI 12/18/2002 CHI vs. TOR W 31 14 6 13 46.2 1 1 100.0 1 1 100.0 0 0 0 7 1 0 2 2 1
+p609
+aVEddy Curry CHI 12/18/2002 CHI vs. TOR W 13 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 1 0 2 1 1 5
+p610
+aVTrenton Hassell CHI 12/18/2002 CHI vs. TOR W 25 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 2 0 2 0 4 2
+p611
+aVFred Hoiberg CHI 12/18/2002 CHI vs. TOR W 10 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 2 0 1 3 -4
+p612
+aVJay Williams CHI 12/16/2002 CHI vs. BOS W 36 9 3 8 37.5 1 4 25.0 2 6 33.3 1 2 3 7 4 1 3 3 5
+p613
+aVFred Hoiberg CHI 12/16/2002 CHI vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p614
+aVJalen Rose CHI 12/16/2002 CHI vs. BOS W 47 24 5 15 33.3 3 7 42.9 11 15 73.3 0 3 3 1 1 0 4 4 9
+p615
+aVJamal Crawford CHI 12/16/2002 CHI vs. BOS W 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 6
+p616
+aVMarcus Fizer CHI 12/16/2002 CHI vs. BOS W 28 20 7 17 41.2 0 0 - 6 9 66.7 6 11 17 0 1 2 3 2 6
+p617
+aVEddie Robinson CHI 12/16/2002 CHI vs. BOS W 14 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 0 0 1 3 2
+p618
+aVEddy Curry CHI 12/16/2002 CHI vs. BOS W 8 3 1 3 33.3 0 0 - 1 2 50.0 3 0 3 0 0 0 1 0 1
+p619
+aVTyson Chandler CHI 12/16/2002 CHI vs. BOS W 24 14 4 7 57.1 0 0 - 6 10 60.0 2 8 10 0 0 2 1 1 4
+p620
+aVTrenton Hassell CHI 12/16/2002 CHI vs. BOS W 34 0 0 3 0.0 0 1 0.0 0 0 - 0 7 7 3 0 3 1 5 9
+p621
+aVDonyell Marshall CHI 12/16/2002 CHI vs. BOS W 36 20 6 15 40.0 4 7 57.1 4 4 100.0 3 10 13 2 0 1 6 5 11
+p622
+aVFred Hoiberg CHI 12/14/2002 CHI vs. MIL W 20 2 0 3 0.0 0 0 - 2 2 100.0 0 5 5 2 1 0 0 1 4
+p623
+aVDonyell Marshall CHI 12/14/2002 CHI vs. MIL W 33 18 6 16 37.5 1 1 100.0 5 5 100.0 4 14 18 0 0 0 0 2 2
+p624
+aVTrenton Hassell CHI 12/14/2002 CHI vs. MIL W 28 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 3 0 0 1 2 -2
+p625
+aVJalen Rose CHI 12/14/2002 CHI vs. MIL W 48 30 11 20 55.0 3 6 50.0 5 6 83.3 1 5 6 4 1 1 5 3 2
+p626
+aVJamal Crawford CHI 12/14/2002 CHI vs. MIL W 18 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 3 0 0 1 2 3
+p627
+aVEddy Curry CHI 12/14/2002 CHI vs. MIL W 18 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 9
+p628
+aVMarcus Fizer CHI 12/14/2002 CHI vs. MIL W 24 12 5 9 55.6 0 0 - 2 4 50.0 4 3 7 2 1 0 0 2 -5
+p629
+aVJay Williams CHI 12/14/2002 CHI vs. MIL W 30 16 6 14 42.9 2 4 50.0 2 5 40.0 0 3 3 5 2 0 0 4 -1
+p630
+aVTyson Chandler CHI 12/14/2002 CHI vs. MIL W 21 7 0 1 0.0 0 0 - 7 8 87.5 1 4 5 0 0 2 3 1 -2
+p631
+aVJay Williams CHI 12/12/2002 CHI vs. DET L 29 9 4 12 33.3 0 3 0.0 1 1 100.0 0 2 2 5 0 0 0 4 -7
+p632
+aVJamal Crawford CHI 12/12/2002 CHI vs. DET L 19 9 4 8 50.0 1 2 50.0 0 0 - 1 1 2 4 1 0 0 0 -3
+p633
+aVTyson Chandler CHI 12/12/2002 CHI vs. DET L 12 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 1 8
+p634
+aVJalen Rose CHI 12/12/2002 CHI vs. DET L 47 15 7 23 30.4 0 3 0.0 1 1 100.0 0 4 4 5 1 1 4 3 -10
+p635
+aVEddy Curry CHI 12/12/2002 CHI vs. DET L 20 11 4 10 40.0 0 0 - 3 4 75.0 2 3 5 0 0 1 1 0 -3
+p636
+aVFred Hoiberg CHI 12/12/2002 CHI vs. DET L 22 0 0 2 0.0 0 0 - 0 0 - 0 6 6 0 2 1 3 3 -5
+p637
+aVDonyell Marshall CHI 12/12/2002 CHI vs. DET L 29 14 7 11 63.6 0 0 - 0 0 - 2 5 7 0 1 2 3 1 -11
+p638
+aVTrenton Hassell CHI 12/12/2002 CHI vs. DET L 27 2 1 2 50.0 0 0 - 0 0 - 0 5 5 3 0 2 4 5 -7
+p639
+aVCorie Blount CHI 12/12/2002 CHI vs. DET L 14 2 1 3 33.3 0 0 - 0 0 - 5 1 6 1 1 0 0 2 -15
+p640
+aVMarcus Fizer CHI 12/12/2002 CHI vs. DET L 20 13 5 9 55.6 0 0 - 3 5 60.0 2 3 5 0 0 0 1 4 3
+p641
+aVTyson Chandler CHI 12/10/2002 CHI vs. ORL W 16 4 1 5 20.0 0 0 - 2 2 100.0 0 7 7 2 1 1 1 2 13
+p642
+aVJamal Crawford CHI 12/10/2002 CHI vs. ORL W 19 12 3 6 50.0 2 3 66.7 4 4 100.0 0 2 2 4 2 1 2 3 18
+p643
+aVMarcus Fizer CHI 12/10/2002 CHI vs. ORL W 23 15 7 9 77.8 0 0 - 1 2 50.0 1 3 4 2 0 0 2 3 13
+p644
+aVEddy Curry CHI 12/10/2002 CHI vs. ORL W 17 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 0 2 2 2 -2
+p645
+aVDonyell Marshall CHI 12/10/2002 CHI vs. ORL W 29 15 6 9 66.7 1 1 100.0 2 2 100.0 1 4 5 0 1 1 2 5 10
+p646
+aVFred Hoiberg CHI 12/10/2002 CHI vs. ORL W 18 5 2 5 40.0 0 2 0.0 1 2 50.0 0 6 6 3 2 0 0 0 16
+p647
+aVCorie Blount CHI 12/10/2002 CHI vs. ORL W 7 0 0 0 - 0 0 - 0 2 0.0 1 1 2 1 0 0 0 0 3
+p648
+aVLonny Baxter CHI 12/10/2002 CHI vs. ORL W 3 3 0 1 0.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 0 3
+p649
+aVJay Williams CHI 12/10/2002 CHI vs. ORL W 31 13 5 9 55.6 2 4 50.0 1 4 25.0 0 3 3 6 2 0 2 2 3
+p650
+aVTrenton Hassell CHI 12/10/2002 CHI vs. ORL W 30 9 4 7 57.1 0 0 - 1 2 50.0 0 4 4 2 2 1 1 2 4
+p651
+aVJalen Rose CHI 12/10/2002 CHI vs. ORL W 46 28 9 16 56.3 3 6 50.0 7 7 100.0 1 3 4 8 0 0 3 4 19
+p652
+aVJalen Rose CHI 12/07/2002 CHI vs. CLE W 40 27 9 15 60.0 2 2 100.0 7 8 87.5 1 3 4 5 2 0 1 4 13
+p653
+aVJamal Crawford CHI 12/07/2002 CHI vs. CLE W 16 7 3 9 33.3 0 1 0.0 1 2 50.0 1 1 2 3 2 0 3 1 -7
+p654
+aVEddy Curry CHI 12/07/2002 CHI vs. CLE W 10 7 3 3 100.0 0 0 - 1 2 50.0 2 1 3 0 1 0 0 3 5
+p655
+aVJay Williams CHI 12/07/2002 CHI vs. CLE W 32 14 6 11 54.5 0 3 0.0 2 4 50.0 1 4 5 6 1 0 1 2 15
+p656
+aVCorie Blount CHI 12/07/2002 CHI vs. CLE W 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 -2
+p657
+aVTyson Chandler CHI 12/07/2002 CHI vs. CLE W 20 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 3 7
+p658
+aVTrenton Hassell CHI 12/07/2002 CHI vs. CLE W 30 15 5 6 83.3 0 0 - 5 6 83.3 1 3 4 2 0 1 3 2 12
+p659
+aVFred Hoiberg CHI 12/07/2002 CHI vs. CLE W 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -5
+p660
+aVEddie Robinson CHI 12/07/2002 CHI vs. CLE W 19 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 1 0 0 1 -8
+p661
+aVDonyell Marshall CHI 12/07/2002 CHI vs. CLE W 38 22 8 14 57.1 1 1 100.0 5 6 83.3 3 3 6 2 3 1 1 5 17
+p662
+aVMarcus Fizer CHI 12/07/2002 CHI vs. CLE W 14 2 0 3 0.0 0 0 - 2 4 50.0 0 2 2 0 0 0 2 2 -7
+p663
+aVMarcus Fizer CHI 12/06/2002 CHI @ TOR L 16 16 7 13 53.8 0 1 0.0 2 3 66.7 2 1 3 1 0 1 0 2 -6
+p664
+aVCorie Blount CHI 12/06/2002 CHI @ TOR L 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 1 0 1 1 -6
+p665
+aVTrenton Hassell CHI 12/06/2002 CHI @ TOR L 35 4 2 4 50.0 0 0 - 0 0 - 0 3 3 3 1 1 1 3 -14
+p666
+aVEddy Curry CHI 12/06/2002 CHI @ TOR L 32 19 7 12 58.3 0 0 - 5 7 71.4 2 4 6 3 0 1 2 4 -6
+p667
+aVFred Hoiberg CHI 12/06/2002 CHI @ TOR L 10 9 3 5 60.0 0 0 - 3 3 100.0 0 1 1 1 2 0 0 2 -7
+p668
+aVJay Williams CHI 12/06/2002 CHI @ TOR L 35 4 1 7 14.3 0 3 0.0 2 2 100.0 0 2 2 7 0 0 4 2 -8
+p669
+aVEddie Robinson CHI 12/06/2002 CHI @ TOR L 13 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 0
+p670
+aVJamal Crawford CHI 12/06/2002 CHI @ TOR L 13 0 0 4 0.0 0 0 - 0 0 - 0 0 0 4 0 1 0 3 -6
+p671
+aVDonyell Marshall CHI 12/06/2002 CHI @ TOR L 35 14 7 10 70.0 0 0 - 0 0 - 0 11 11 0 1 1 2 3 -10
+p672
+aVJalen Rose CHI 12/06/2002 CHI @ TOR L 39 15 4 19 21.1 0 4 0.0 7 7 100.0 0 3 3 3 2 0 4 3 -7
+p673
+aVCorie Blount CHI 12/04/2002 CHI @ CLE L 30 5 2 3 66.7 0 0 - 1 2 50.0 3 6 9 2 4 1 0 2 -10
+p674
+aVJamal Crawford CHI 12/04/2002 CHI @ CLE L 6 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 3 -1
+p675
+aVTrenton Hassell CHI 12/04/2002 CHI @ CLE L 23 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 2 1 3 4 1 -5
+p676
+aVEddy Curry CHI 12/04/2002 CHI @ CLE L 14 7 2 5 40.0 0 0 - 3 4 75.0 3 1 4 0 0 0 1 3 -7
+p677
+aVJay Williams CHI 12/04/2002 CHI @ CLE L 33 8 4 10 40.0 0 1 0.0 0 0 - 0 1 1 9 3 1 3 2 -17
+p678
+aVFred Hoiberg CHI 12/04/2002 CHI @ CLE L 20 0 0 6 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 1 -5
+p679
+aVDonyell Marshall CHI 12/04/2002 CHI @ CLE L 34 20 9 10 90.0 0 1 0.0 2 2 100.0 2 6 8 2 1 0 1 4 -2
+p680
+aVEddie Robinson CHI 12/04/2002 CHI @ CLE L 22 8 3 6 50.0 0 0 - 2 4 50.0 2 1 3 1 1 0 0 3 -3
+p681
+aVJalen Rose CHI 12/04/2002 CHI @ CLE L 40 37 13 31 41.9 3 5 60.0 8 12 66.7 2 5 7 5 0 1 2 3 1
+p682
+aVTyson Chandler CHI 12/04/2002 CHI @ CLE L 19 9 3 6 50.0 0 0 - 3 3 100.0 1 2 3 2 1 1 0 3 -1
+p683
+aVCorie Blount CHI 12/03/2002 CHI vs. NOH L 16 2 1 4 25.0 0 0 - 0 0 - 5 2 7 3 0 0 2 1 -12
+p684
+aVJamal Crawford CHI 12/03/2002 CHI vs. NOH L 24 10 5 12 41.7 0 2 0.0 0 0 - 1 3 4 1 0 1 2 2 -11
+p685
+aVJalen Rose CHI 12/03/2002 CHI vs. NOH L 32 19 8 20 40.0 0 2 0.0 3 4 75.0 1 1 2 1 1 0 4 3 -26
+p686
+aVLonny Baxter CHI 12/03/2002 CHI vs. NOH L 13 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 0 0 2 0 2 -9
+p687
+aVDonyell Marshall CHI 12/03/2002 CHI vs. NOH L 29 14 6 10 60.0 0 0 - 2 2 100.0 2 6 8 3 1 2 2 2 -17
+p688
+aVFred Hoiberg CHI 12/03/2002 CHI vs. NOH L 21 4 2 2 100.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -6
+p689
+aVEddy Curry CHI 12/03/2002 CHI vs. NOH L 23 6 1 5 20.0 0 0 - 4 8 50.0 1 8 9 1 0 1 1 5 -4
+p690
+aVTrenton Hassell CHI 12/03/2002 CHI vs. NOH L 19 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 1 1 1 0 4
+p691
+aVMarcus Fizer CHI 12/03/2002 CHI vs. NOH L 6 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -2
+p692
+aVTyson Chandler CHI 12/03/2002 CHI vs. NOH L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -8
+p693
+aVEddie Robinson CHI 12/03/2002 CHI vs. NOH L 25 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -22
+p694
+aVJay Williams CHI 12/03/2002 CHI vs. NOH L 24 15 7 12 58.3 1 3 33.3 0 0 - 1 2 3 5 2 2 6 2 -12
+p695
+aVEddie Robinson CHI 11/30/2002 CHI @ DAL L 34 6 3 10 30.0 0 0 - 0 0 - 5 3 8 2 1 0 2 2 -15
+p696
+aVJamal Crawford CHI 11/30/2002 CHI @ DAL L 13 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 -11
+p697
+aVMarcus Fizer CHI 11/30/2002 CHI @ DAL L 17 5 2 10 20.0 0 1 0.0 1 1 100.0 1 6 7 1 0 0 2 1 -3
+p698
+aVFred Hoiberg CHI 11/30/2002 CHI @ DAL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p699
+aVTyson Chandler CHI 11/30/2002 CHI @ DAL L 19 7 3 7 42.9 0 0 - 1 6 16.7 2 5 7 0 0 1 1 2 -5
+p700
+aVDonyell Marshall CHI 11/30/2002 CHI @ DAL L 39 20 8 19 42.1 0 1 0.0 4 5 80.0 4 5 9 2 0 1 1 0 -5
+p701
+aVEddy Curry CHI 11/30/2002 CHI @ DAL L 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -14
+p702
+aVTrenton Hassell CHI 11/30/2002 CHI @ DAL L 19 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 7 1 0 1 2 -6
+p703
+aVJay Williams CHI 11/30/2002 CHI @ DAL L 35 11 5 12 41.7 1 5 20.0 0 0 - 1 3 4 4 1 0 6 2 -2
+p704
+aVCorie Blount CHI 11/30/2002 CHI @ DAL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p705
+aVJalen Rose CHI 11/30/2002 CHI @ DAL L 39 31 9 19 47.4 5 6 83.3 8 9 88.9 3 3 6 1 2 0 3 5 -4
+p706
+aVTyson Chandler CHI 11/27/2002 CHI @ BOS L 12 2 1 2 50.0 0 0 - 0 3 0.0 0 3 3 1 0 0 2 2 -22
+p707
+aVLonny Baxter CHI 11/27/2002 CHI @ BOS L 12 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 0 1 1 2 6
+p708
+aVJalen Rose CHI 11/27/2002 CHI @ BOS L 36 14 6 17 35.3 1 6 16.7 1 1 100.0 0 4 4 7 1 0 9 4 -14
+p709
+aVDonyell Marshall CHI 11/27/2002 CHI @ BOS L 30 19 5 9 55.6 0 1 0.0 9 12 75.0 2 3 5 0 1 0 0 4 3
+p710
+aVJamal Crawford CHI 11/27/2002 CHI @ BOS L 15 6 3 6 50.0 0 0 - 0 0 - 0 3 3 4 0 0 0 1 2
+p711
+aVCorie Blount CHI 11/27/2002 CHI @ BOS L 32 10 5 6 83.3 0 0 - 0 0 - 2 4 6 0 0 0 2 4 9
+p712
+aVEddie Robinson CHI 11/27/2002 CHI @ BOS L 33 13 5 10 50.0 0 1 0.0 3 4 75.0 3 6 9 1 1 1 3 2 16
+p713
+aVFred Hoiberg CHI 11/27/2002 CHI @ BOS L 16 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 5 1 0 0 0 5
+p714
+aVEddy Curry CHI 11/27/2002 CHI @ BOS L 10 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -16
+p715
+aVJay Williams CHI 11/27/2002 CHI @ BOS L 33 4 2 9 22.2 0 5 0.0 0 0 - 1 2 3 3 0 0 1 2 -12
+p716
+aVTrenton Hassell CHI 11/27/2002 CHI @ BOS L 11 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 4 -27
+p717
+aVLonny Baxter CHI 11/23/2002 CHI @ UTA L 15 5 2 6 33.3 0 0 - 1 2 50.0 2 2 4 0 0 3 1 2 -19
+p718
+aVFred Hoiberg CHI 11/23/2002 CHI @ UTA L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 2 0 0 0 -4
+p719
+aVTyson Chandler CHI 11/23/2002 CHI @ UTA L 34 9 2 8 25.0 0 0 - 5 6 83.3 1 5 6 3 1 0 2 2 -7
+p720
+aVTrenton Hassell CHI 11/23/2002 CHI @ UTA L 40 2 1 5 20.0 0 1 0.0 0 0 - 3 5 8 2 2 1 3 3 -16
+p721
+aVJamal Crawford CHI 11/23/2002 CHI @ UTA L 26 11 5 9 55.6 1 3 33.3 0 0 - 0 2 2 4 0 0 1 2 -17
+p722
+aVDonyell Marshall CHI 11/23/2002 CHI @ UTA L 27 17 4 13 30.8 0 1 0.0 9 10 90.0 4 3 7 1 3 1 1 5 -13
+p723
+aVEddie Robinson CHI 11/23/2002 CHI @ UTA L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p724
+aVEddy Curry CHI 11/23/2002 CHI @ UTA L 19 10 5 11 45.5 0 0 - 0 3 0.0 3 1 4 1 0 0 1 3 -1
+p725
+aVJalen Rose CHI 11/23/2002 CHI @ UTA L 35 25 9 18 50.0 1 3 33.3 6 6 100.0 1 1 2 2 1 2 5 3 -12
+p726
+aVJay Williams CHI 11/23/2002 CHI @ UTA L 24 7 3 9 33.3 0 2 0.0 1 2 50.0 0 3 3 2 0 1 0 3 -7
+p727
+aVTrenton Hassell CHI 11/22/2002 CHI @ LAL L 40 6 3 9 33.3 0 0 - 0 0 - 1 2 3 2 1 0 4 4 4
+p728
+aVLonny Baxter CHI 11/22/2002 CHI @ LAL L 22 5 2 7 28.6 0 0 - 1 3 33.3 2 0 2 0 0 0 1 3 -9
+p729
+aVEddie Robinson CHI 11/22/2002 CHI @ LAL L 20 4 2 5 40.0 0 0 - 0 0 - 2 3 5 2 2 1 0 1 -10
+p730
+aVEddy Curry CHI 11/22/2002 CHI @ LAL L 21 8 3 3 100.0 0 0 - 2 2 100.0 0 5 5 0 0 1 3 0 -3
+p731
+aVJamal Crawford CHI 11/22/2002 CHI @ LAL L 19 8 4 11 36.4 0 1 0.0 0 1 0.0 0 2 2 5 0 1 2 0 -3
+p732
+aVTyson Chandler CHI 11/22/2002 CHI @ LAL L 22 12 4 8 50.0 0 0 - 4 6 66.7 4 4 8 0 1 2 1 3 -4
+p733
+aVJalen Rose CHI 11/22/2002 CHI @ LAL L 34 6 2 16 12.5 0 2 0.0 2 2 100.0 0 2 2 5 0 0 4 3 -22
+p734
+aVJay Williams CHI 11/22/2002 CHI @ LAL L 30 10 4 13 30.8 1 3 33.3 1 1 100.0 0 2 2 4 6 0 3 3 -8
+p735
+aVDonyell Marshall CHI 11/22/2002 CHI @ LAL L 31 14 7 17 41.2 0 0 - 0 0 - 5 9 14 0 0 2 2 3 -10
+p736
+aVTyson Chandler CHI 11/20/2002 CHI @ GSW L 18 8 3 5 60.0 0 0 - 2 6 33.3 2 1 3 0 0 1 1 3 -8
+p737
+aVJay Williams CHI 11/20/2002 CHI @ GSW L 41 11 4 15 26.7 1 3 33.3 2 3 66.7 1 4 5 4 0 0 2 4 -2
+p738
+aVEddy Curry CHI 11/20/2002 CHI @ GSW L 15 11 4 5 80.0 0 0 - 3 6 50.0 0 1 1 1 2 0 1 1 -6
+p739
+aVJamal Crawford CHI 11/20/2002 CHI @ GSW L 7 4 1 2 50.0 1 2 50.0 1 2 50.0 0 0 0 1 1 0 0 1 -4
+p740
+aVEddie Robinson CHI 11/20/2002 CHI @ GSW L 27 11 5 10 50.0 0 0 - 1 2 50.0 2 4 6 0 2 0 1 1 -7
+p741
+aVTrenton Hassell CHI 11/20/2002 CHI @ GSW L 21 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 3 0 0 0 6 1
+p742
+aVCorie Blount CHI 11/20/2002 CHI @ GSW L 19 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 3 2
+p743
+aVDonyell Marshall CHI 11/20/2002 CHI @ GSW L 34 7 2 9 22.2 0 1 0.0 3 4 75.0 7 8 15 1 3 2 5 2 0
+p744
+aVJalen Rose CHI 11/20/2002 CHI @ GSW L 48 34 12 20 60.0 3 4 75.0 7 10 70.0 0 0 0 5 2 2 6 2 -6
+p745
+aVLonny Baxter CHI 11/20/2002 CHI @ GSW L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 4 0
+p746
+aVDonyell Marshall CHI 11/19/2002 CHI @ SAC L 31 12 5 14 35.7 0 0 - 2 2 100.0 4 6 10 3 1 0 2 1 -26
+p747
+aVJamal Crawford CHI 11/19/2002 CHI @ SAC L 24 16 6 11 54.5 2 2 100.0 2 2 100.0 0 1 1 3 3 0 1 0 13
+p748
+aVMarcus Fizer CHI 11/19/2002 CHI @ SAC L 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 9
+p749
+aVLonny Baxter CHI 11/19/2002 CHI @ SAC L 18 17 6 10 60.0 0 0 - 5 7 71.4 4 1 5 0 1 1 0 4 2
+p750
+aVEddie Robinson CHI 11/19/2002 CHI @ SAC L 33 15 7 9 77.8 0 0 - 1 1 100.0 3 2 5 0 2 0 1 1 3
+p751
+aVJalen Rose CHI 11/19/2002 CHI @ SAC L 24 13 5 15 33.3 0 5 0.0 3 4 75.0 0 1 1 2 0 0 1 2 -25
+p752
+aVJay Williams CHI 11/19/2002 CHI @ SAC L 24 7 3 10 30.0 0 3 0.0 1 2 50.0 0 0 0 5 3 0 3 2 -26
+p753
+aVTyson Chandler CHI 11/19/2002 CHI @ SAC L 21 2 1 5 20.0 0 0 - 0 1 0.0 0 2 2 1 0 1 0 1 -15
+p754
+aVEddy Curry CHI 11/19/2002 CHI @ SAC L 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 4
+p755
+aVFred Hoiberg CHI 11/19/2002 CHI @ SAC L 24 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 4 0 0 0 1 12
+p756
+aVCorie Blount CHI 11/19/2002 CHI @ SAC L 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 2 0
+p757
+aVTrenton Hassell CHI 11/19/2002 CHI @ SAC L 15 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 3 1 -16
+p758
+aVLonny Baxter CHI 11/16/2002 CHI vs. MEM W 25 2 1 7 14.3 0 0 - 0 0 - 5 1 6 3 0 0 1 4 14
+p759
+aVTyson Chandler CHI 11/16/2002 CHI vs. MEM W 17 11 3 6 50.0 0 0 - 5 6 83.3 3 2 5 0 0 0 2 6 4
+p760
+aVTrenton Hassell CHI 11/16/2002 CHI vs. MEM W 27 0 0 0 - 0 0 - 0 0 - 1 5 6 1 0 3 0 2 11
+p761
+aVJay Williams CHI 11/16/2002 CHI vs. MEM W 35 12 5 13 38.5 0 1 0.0 2 2 100.0 0 5 5 12 1 0 2 3 16
+p762
+aVFred Hoiberg CHI 11/16/2002 CHI vs. MEM W 21 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 1 0 0 0 7
+p763
+aVDonyell Marshall CHI 11/16/2002 CHI vs. MEM W 36 31 13 23 56.5 2 2 100.0 3 4 75.0 6 11 17 2 3 0 3 4 16
+p764
+aVJalen Rose CHI 11/16/2002 CHI vs. MEM W 35 31 12 23 52.2 1 4 25.0 6 7 85.7 1 2 3 2 1 0 2 2 14
+p765
+aVJamal Crawford CHI 11/16/2002 CHI vs. MEM W 13 6 3 7 42.9 0 0 - 0 0 - 0 0 0 3 2 0 0 1 2
+p766
+aVEddy Curry CHI 11/16/2002 CHI vs. MEM W 17 14 5 6 83.3 0 0 - 4 6 66.7 1 1 2 0 0 1 1 4 2
+p767
+aVEddie Robinson CHI 11/16/2002 CHI vs. MEM W 13 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 4
+p768
+aVEddy Curry CHI 11/15/2002 CHI @ NOH L 20 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 0 0 0 2 2 -21
+p769
+aVJamal Crawford CHI 11/15/2002 CHI @ NOH L 23 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 2 1 0 0 1 -7
+p770
+aVFred Hoiberg CHI 11/15/2002 CHI @ NOH L 17 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 3 3 0 1 1 -4
+p771
+aVTyson Chandler CHI 11/15/2002 CHI @ NOH L 28 7 1 6 16.7 0 0 - 5 6 83.3 2 5 7 3 0 2 1 0 -19
+p772
+aVDalibor Bagaric CHI 11/15/2002 CHI @ NOH L 9 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p773
+aVDonyell Marshall CHI 11/15/2002 CHI @ NOH L 16 3 1 6 16.7 0 1 0.0 1 2 50.0 0 4 4 0 1 0 3 2 4
+p774
+aVLonny Baxter CHI 11/15/2002 CHI @ NOH L 15 11 4 4 100.0 0 0 - 3 3 100.0 2 1 3 0 0 0 2 5 -3
+p775
+aVJay Williams CHI 11/15/2002 CHI @ NOH L 25 8 3 7 42.9 0 0 - 2 3 66.7 1 3 4 5 1 0 2 2 -11
+p776
+aVTrenton Hassell CHI 11/15/2002 CHI @ NOH L 23 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -17
+p777
+aVEddie Robinson CHI 11/15/2002 CHI @ NOH L 25 8 4 10 40.0 0 0 - 0 0 - 2 1 3 0 1 0 2 0 -1
+p778
+aVJalen Rose CHI 11/15/2002 CHI @ NOH L 31 23 8 17 47.1 1 2 50.0 6 7 85.7 0 6 6 2 0 0 4 3 -14
+p779
+aVMarcus Fizer CHI 11/15/2002 CHI @ NOH L 9 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 1 2 0 2
+p780
+aVJalen Rose CHI 11/13/2002 CHI @ MIL L 44 24 6 20 30.0 1 4 25.0 11 12 91.7 1 3 4 3 0 0 2 4 1
+p781
+aVFred Hoiberg CHI 11/13/2002 CHI @ MIL L 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 -7
+p782
+aVJamal Crawford CHI 11/13/2002 CHI @ MIL L 9 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 2 0 4 0 -1
+p783
+aVDonyell Marshall CHI 11/13/2002 CHI @ MIL L 35 19 7 10 70.0 0 0 - 5 6 83.3 5 8 13 0 2 2 1 1 -3
+p784
+aVTrenton Hassell CHI 11/13/2002 CHI @ MIL L 30 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 9 0 0 0 5 0
+p785
+aVJay Williams CHI 11/13/2002 CHI @ MIL L 39 20 8 14 57.1 1 5 20.0 3 4 75.0 0 2 2 3 2 0 4 2 -6
+p786
+aVLonny Baxter CHI 11/13/2002 CHI @ MIL L 23 14 5 9 55.6 0 0 - 4 6 66.7 3 2 5 1 0 2 2 4 3
+p787
+aVEddy Curry CHI 11/13/2002 CHI @ MIL L 16 8 4 10 40.0 0 0 - 0 2 0.0 0 3 3 0 0 0 2 1 -12
+p788
+aVTyson Chandler CHI 11/13/2002 CHI @ MIL L 22 12 5 5 100.0 0 0 - 2 2 100.0 0 5 5 0 0 2 0 1 -2
+p789
+aVEddie Robinson CHI 11/13/2002 CHI @ MIL L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -8
+p790
+aVTrenton Hassell CHI 11/09/2002 CHI vs. NJN W 34 3 1 3 33.3 0 0 - 1 3 33.3 0 3 3 1 0 0 1 1 4
+p791
+aVJalen Rose CHI 11/09/2002 CHI vs. NJN W 44 26 9 25 36.0 3 6 50.0 5 6 83.3 3 1 4 6 0 0 2 5 5
+p792
+aVJay Williams CHI 11/09/2002 CHI vs. NJN W 45 26 10 22 45.5 4 10 40.0 2 2 100.0 1 13 14 13 2 0 2 3 7
+p793
+aVEddie Robinson CHI 11/09/2002 CHI vs. NJN W 6 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 4
+p794
+aVEddy Curry CHI 11/09/2002 CHI vs. NJN W 28 8 4 9 44.4 0 0 - 0 2 0.0 2 3 5 0 0 0 2 3 -3
+p795
+aVTyson Chandler CHI 11/09/2002 CHI vs. NJN W 12 10 3 3 100.0 0 0 - 4 4 100.0 2 1 3 1 0 1 2 4 2
+p796
+aVDonyell Marshall CHI 11/09/2002 CHI vs. NJN W 36 14 5 13 38.5 0 0 - 4 4 100.0 5 10 15 0 1 1 1 0 5
+p797
+aVLonny Baxter CHI 11/09/2002 CHI vs. NJN W 20 6 2 6 33.3 0 0 - 2 4 50.0 1 2 3 0 1 0 1 5 10
+p798
+aVFred Hoiberg CHI 11/09/2002 CHI vs. NJN W 15 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 1 0 1 0 1
+p799
+aVTyson Chandler CHI 11/08/2002 CHI vs. DAL L 11 3 1 1 100.0 0 0 - 1 4 25.0 1 2 3 1 0 0 1 4 -21
+p800
+aVMarcus Fizer CHI 11/08/2002 CHI vs. DAL L 18 3 1 8 12.5 0 0 - 1 4 25.0 2 2 4 1 0 0 1 1 -6
+p801
+aVLonny Baxter CHI 11/08/2002 CHI vs. DAL L 18 10 5 8 62.5 0 0 - 0 4 0.0 4 6 10 0 0 0 2 1 -7
+p802
+aVDalibor Bagaric CHI 11/08/2002 CHI vs. DAL L 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 8
+p803
+aVJay Williams CHI 11/08/2002 CHI vs. DAL L 34 7 2 9 22.2 1 2 50.0 2 4 50.0 0 2 2 4 2 0 3 1 -21
+p804
+aVDonyell Marshall CHI 11/08/2002 CHI vs. DAL L 20 6 2 11 18.2 0 1 0.0 2 2 100.0 1 5 6 1 0 0 0 1 -9
+p805
+aVFred Hoiberg CHI 11/08/2002 CHI vs. DAL L 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 3 1 1 0 3
+p806
+aVEddy Curry CHI 11/08/2002 CHI vs. DAL L 20 10 5 15 33.3 0 0 - 0 2 0.0 6 4 10 0 0 1 1 3 -19
+p807
+aVEddie Robinson CHI 11/08/2002 CHI vs. DAL L 17 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -8
+p808
+aVJamal Crawford CHI 11/08/2002 CHI vs. DAL L 14 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 4 3 0 3 3 -6
+p809
+aVJalen Rose CHI 11/08/2002 CHI vs. DAL L 36 24 9 14 64.3 2 2 100.0 4 4 100.0 0 4 4 3 0 0 2 2 -29
+p810
+aVTrenton Hassell CHI 11/08/2002 CHI vs. DAL L 27 8 4 6 66.7 0 0 - 0 0 - 1 1 2 3 0 0 0 2 -20
+p811
+aVDonyell Marshall CHI 11/06/2002 CHI vs. BOS L 24 7 3 6 50.0 0 0 - 1 3 33.3 2 2 4 1 0 1 2 2 -14
+p812
+aVTrenton Hassell CHI 11/06/2002 CHI vs. BOS L 28 2 1 6 16.7 0 0 - 0 0 - 2 7 9 1 0 1 1 2 -17
+p813
+aVJamal Crawford CHI 11/06/2002 CHI vs. BOS L 22 6 3 10 30.0 0 3 0.0 0 0 - 0 1 1 3 1 1 2 0 -8
+p814
+aVTyson Chandler CHI 11/06/2002 CHI vs. BOS L 21 15 6 8 75.0 0 0 - 3 6 50.0 0 5 5 0 1 1 1 4 -11
+p815
+aVMarcus Fizer CHI 11/06/2002 CHI vs. BOS L 15 7 2 7 28.6 0 0 - 3 4 75.0 0 3 3 0 0 1 2 1 -8
+p816
+aVEddie Robinson CHI 11/06/2002 CHI vs. BOS L 14 2 0 4 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 1 -10
+p817
+aVJay Williams CHI 11/06/2002 CHI vs. BOS L 26 6 2 11 18.2 1 6 16.7 1 4 25.0 1 5 6 6 1 0 5 4 -14
+p818
+aVJalen Rose CHI 11/06/2002 CHI vs. BOS L 30 10 3 14 21.4 0 5 0.0 4 7 57.1 0 6 6 2 0 0 3 4 -17
+p819
+aVEddy Curry CHI 11/06/2002 CHI vs. BOS L 33 7 1 7 14.3 0 0 - 5 6 83.3 2 8 10 2 0 0 1 2 -14
+p820
+aVLonny Baxter CHI 11/06/2002 CHI vs. BOS L 10 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 8
+p821
+aVFred Hoiberg CHI 11/06/2002 CHI vs. BOS L 18 4 1 1 100.0 0 0 - 2 3 66.7 0 3 3 1 0 0 2 1 -5
+p822
+aVMarcus Fizer CHI 11/04/2002 CHI @ TOR L 7 0 0 3 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -2
+p823
+aVDonyell Marshall CHI 11/04/2002 CHI @ TOR L 37 32 14 22 63.6 1 1 100.0 3 6 50.0 9 8 17 2 2 0 2 0 -2
+p824
+aVTrenton Hassell CHI 11/04/2002 CHI @ TOR L 25 4 2 8 25.0 0 0 - 0 0 - 1 3 4 0 0 0 1 4 -17
+p825
+aVEddie Robinson CHI 11/04/2002 CHI @ TOR L 16 7 3 6 50.0 0 1 0.0 1 1 100.0 0 2 2 1 1 0 4 3 5
+p826
+aVTyson Chandler CHI 11/04/2002 CHI @ TOR L 18 6 3 8 37.5 0 0 - 0 0 - 3 6 9 1 0 4 2 1 -4
+p827
+aVJamal Crawford CHI 11/04/2002 CHI @ TOR L 22 3 1 7 14.3 1 2 50.0 0 0 - 0 4 4 4 0 0 1 4 5
+p828
+aVJalen Rose CHI 11/04/2002 CHI @ TOR L 37 24 10 27 37.0 1 2 50.0 3 4 75.0 4 3 7 5 0 0 3 4 -8
+p829
+aVJay Williams CHI 11/04/2002 CHI @ TOR L 31 11 4 11 36.4 1 3 33.3 2 4 50.0 1 3 4 4 1 1 2 4 -9
+p830
+aVCorie Blount CHI 11/04/2002 CHI @ TOR L 27 3 1 4 25.0 0 0 - 1 3 33.3 3 2 5 0 1 0 2 3 4
+p831
+aVLonny Baxter CHI 11/04/2002 CHI @ TOR L 6 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 0 0 1 0 -6
+p832
+aVFred Hoiberg CHI 11/04/2002 CHI @ TOR L 28 2 1 5 20.0 0 0 - 0 0 - 1 6 7 2 3 0 2 1 8
+p833
+aVEddy Curry CHI 11/04/2002 CHI @ TOR L 12 11 5 5 100.0 0 0 - 1 2 50.0 3 1 4 1 0 1 1 3 6
+p834
+aVTyson Chandler CHI 11/02/2002 CHI @ ATL L 20 0 0 6 0.0 0 0 - 0 2 0.0 3 5 8 0 0 4 1 1 -5
+p835
+aVFred Hoiberg CHI 11/02/2002 CHI @ ATL L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 2 0 0 0 0
+p836
+aVMarcus Fizer CHI 11/02/2002 CHI @ ATL L 22 14 5 10 50.0 0 0 - 4 4 100.0 3 1 4 1 2 1 1 3 1
+p837
+aVJalen Rose CHI 11/02/2002 CHI @ ATL L 39 24 8 23 34.8 0 4 0.0 8 10 80.0 1 2 3 3 1 0 0 4 -8
+p838
+aVEddy Curry CHI 11/02/2002 CHI @ ATL L 13 7 3 7 42.9 0 0 - 1 1 100.0 1 4 5 0 0 0 3 1 -3
+p839
+aVTrenton Hassell CHI 11/02/2002 CHI @ ATL L 34 11 5 8 62.5 1 3 33.3 0 0 - 2 4 6 1 2 1 1 3 -4
+p840
+aVJay Williams CHI 11/02/2002 CHI @ ATL L 29 10 3 12 25.0 1 4 25.0 3 3 100.0 0 4 4 5 1 0 2 5 -1
+p841
+aVCorie Blount CHI 11/02/2002 CHI @ ATL L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -2
+p842
+aVEddie Robinson CHI 11/02/2002 CHI @ ATL L 13 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 4
+p843
+aVJamal Crawford CHI 11/02/2002 CHI @ ATL L 19 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 2 2 0 1 2 -5
+p844
+aVDonyell Marshall CHI 11/02/2002 CHI @ ATL L 34 17 8 15 53.3 0 2 0.0 1 4 25.0 3 5 8 0 1 5 1 2 -7
+p845
+aVFred Hoiberg CHI 11/01/2002 CHI vs. NOH W 20 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 2 0 0 0 1 10
+p846
+aVEddie Robinson CHI 11/01/2002 CHI vs. NOH W 21 4 1 5 20.0 0 0 - 2 2 100.0 3 0 3 0 1 0 1 0 9
+p847
+aVLonny Baxter CHI 11/01/2002 CHI vs. NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p848
+aVEddy Curry CHI 11/01/2002 CHI vs. NOH W 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 4 4
+p849
+aVDonyell Marshall CHI 11/01/2002 CHI vs. NOH W 35 15 7 11 63.6 1 2 50.0 0 0 - 3 9 12 3 1 1 1 5 2
+p850
+aVTrenton Hassell CHI 11/01/2002 CHI vs. NOH W 20 7 1 4 25.0 0 0 - 5 6 83.3 0 2 2 1 1 1 2 3 -8
+p851
+aVMarcus Fizer CHI 11/01/2002 CHI vs. NOH W 20 9 4 11 36.4 0 0 - 1 4 25.0 3 1 4 2 0 0 3 1 -2
+p852
+aVCorie Blount CHI 11/01/2002 CHI vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p853
+aVJalen Rose CHI 11/01/2002 CHI vs. NOH W 35 21 8 15 53.3 1 1 100.0 4 6 66.7 2 2 4 3 0 0 5 3 -1
+p854
+aVJamal Crawford CHI 11/01/2002 CHI vs. NOH W 28 5 2 8 25.0 0 2 0.0 1 2 50.0 0 6 6 5 0 0 2 1 -6
+p855
+aVJay Williams CHI 11/01/2002 CHI vs. NOH W 20 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 2 0 4 3 11
+p856
+aVTyson Chandler CHI 11/01/2002 CHI vs. NOH W 23 10 4 5 80.0 0 0 - 2 4 50.0 0 4 4 1 2 0 2 3 9
+p857
+aVJamal Crawford CHI 10/30/2002 CHI @ BOS W 15 0 0 4 0.0 0 4 0.0 0 0 - 0 3 3 3 0 0 3 0 2
+p858
+aVMarcus Fizer CHI 10/30/2002 CHI @ BOS W 10 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 1 1 1 0 0 -5
+p859
+aVEddie Robinson CHI 10/30/2002 CHI @ BOS W 18 10 4 8 50.0 0 0 - 2 2 100.0 4 2 6 0 1 0 1 3 -2
+p860
+aVDonyell Marshall CHI 10/30/2002 CHI @ BOS W 34 16 8 14 57.1 0 0 - 0 0 - 1 8 9 1 2 0 2 5 12
+p861
+aVJay Williams CHI 10/30/2002 CHI @ BOS W 33 13 6 9 66.7 1 2 50.0 0 5 0.0 0 7 7 7 1 0 2 1 1
+p862
+aVTrenton Hassell CHI 10/30/2002 CHI @ BOS W 30 14 6 10 60.0 2 4 50.0 0 0 - 1 4 5 2 0 2 1 4 5
+p863
+aVFred Hoiberg CHI 10/30/2002 CHI @ BOS W 12 4 0 2 0.0 0 0 - 4 4 100.0 1 0 1 1 0 0 1 0 -9
+p864
+aVTyson Chandler CHI 10/30/2002 CHI @ BOS W 17 13 5 7 71.4 0 0 - 3 7 42.9 2 1 3 1 0 1 4 0 -7
+p865
+aVJalen Rose CHI 10/30/2002 CHI @ BOS W 36 21 7 18 38.9 3 6 50.0 4 5 80.0 0 4 4 12 0 1 3 3 12
+p866
+aVCorie Blount CHI 10/30/2002 CHI @ BOS W 17 2 1 1 100.0 0 0 - 0 0 - 2 3 5 1 1 0 0 3 12
+p867
+aVEddy Curry CHI 10/30/2002 CHI @ BOS W 18 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p868
+a.

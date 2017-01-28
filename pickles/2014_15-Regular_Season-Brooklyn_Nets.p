@@ -1,0 +1,1784 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDeron Williams BKN 04/15/2015 BKN vs. ORL W 36 10 4 12 33.3 0 5 0.0 2 2 100.0 0 5 5 7 0 1 3 2 6
+p2
+aVMarkel Brown BKN 04/15/2015 BKN vs. ORL W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -10
+p3
+aVCory Jefferson BKN 04/15/2015 BKN vs. ORL W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p4
+aVThaddeus Young BKN 04/15/2015 BKN vs. ORL W 37 16 5 13 38.5 0 1 0.0 6 12 50.0 3 6 9 3 2 1 3 1 2
+p5
+aVMason Plumlee BKN 04/15/2015 BKN vs. ORL W 20 4 2 3 66.7 0 0 - 0 1 0.0 1 4 5 1 0 0 1 2 14
+p6
+aVJoe Johnson BKN 04/15/2015 BKN vs. ORL W 41 16 7 15 46.7 2 4 50.0 0 1 0.0 0 7 7 6 1 0 0 0 20
+p7
+aVJarrett Jack BKN 04/15/2015 BKN vs. ORL W 23 9 3 9 33.3 3 6 50.0 0 0 - 0 3 3 5 0 0 1 1 4
+p8
+aVBojan Bogdanovic BKN 04/15/2015 BKN vs. ORL W 34 28 12 17 70.6 4 8 50.0 0 0 - 0 3 3 2 0 0 2 3 19
+p9
+aVBrook Lopez BKN 04/15/2015 BKN vs. ORL W 33 14 4 8 50.0 0 0 - 6 7 85.7 3 4 7 1 4 3 2 3 3
+p10
+aVJerome Jordan BKN 04/13/2015 BKN vs. CHI L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p11
+aVDarius Morris BKN 04/13/2015 BKN vs. CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p12
+aVJarrett Jack BKN 04/13/2015 BKN vs. CHI L 25 15 7 14 50.0 0 1 0.0 1 1 100.0 0 1 1 2 0 0 4 0 -21
+p13
+aVDeron Williams BKN 04/13/2015 BKN vs. CHI L 33 9 3 13 23.1 0 1 0.0 3 3 100.0 1 6 7 5 0 2 0 2 -17
+p14
+aVBojan Bogdanovic BKN 04/13/2015 BKN vs. CHI L 33 17 5 11 45.5 3 6 50.0 4 4 100.0 0 1 1 2 0 0 1 2 -16
+p15
+aVBrook Lopez BKN 04/13/2015 BKN vs. CHI L 34 13 5 11 45.5 0 0 - 3 4 75.0 4 4 8 0 0 1 0 4 -19
+p16
+aVJoe Johnson BKN 04/13/2015 BKN vs. CHI L 36 12 5 9 55.6 0 1 0.0 2 2 100.0 0 0 0 2 0 0 3 3 -23
+p17
+aVCory Jefferson BKN 04/13/2015 BKN vs. CHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p18
+aVThaddeus Young BKN 04/13/2015 BKN vs. CHI L 27 8 3 11 27.3 0 1 0.0 2 2 100.0 4 7 11 0 1 0 1 1 -11
+p19
+aVMarkel Brown BKN 04/13/2015 BKN vs. CHI L 17 8 3 8 37.5 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 0 -4
+p20
+aVMason Plumlee BKN 04/13/2015 BKN vs. CHI L 12 0 0 3 0.0 0 0 - 0 2 0.0 3 4 7 1 0 0 1 1 -10
+p21
+aVEarl Clark BKN 04/13/2015 BKN vs. CHI L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -13
+p22
+aVBrook Lopez BKN 04/12/2015 BKN @ MIL L 31 12 3 8 37.5 0 0 - 6 7 85.7 5 5 10 0 2 1 1 2 -24
+p23
+aVJoe Johnson BKN 04/12/2015 BKN @ MIL L 34 9 3 9 33.3 0 4 0.0 3 4 75.0 0 6 6 2 0 0 1 0 -15
+p24
+aVCory Jefferson BKN 04/12/2015 BKN @ MIL L 7 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 1 1 0 0
+p25
+aVBojan Bogdanovic BKN 04/12/2015 BKN @ MIL L 26 9 4 11 36.4 1 4 25.0 0 1 0.0 0 4 4 0 1 0 2 2 -21
+p26
+aVThaddeus Young BKN 04/12/2015 BKN @ MIL L 29 9 4 14 28.6 1 2 50.0 0 0 - 2 2 4 2 1 1 4 1 -14
+p27
+aVDarius Morris BKN 04/12/2015 BKN @ MIL L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 1 0 1 0 0
+p28
+aVDeron Williams BKN 04/12/2015 BKN @ MIL L 33 4 1 11 9.1 0 4 0.0 2 2 100.0 2 5 7 7 1 0 3 4 -15
+p29
+aVJarrett Jack BKN 04/12/2015 BKN @ MIL L 24 11 4 10 40.0 1 3 33.3 2 2 100.0 0 3 3 2 1 0 2 2 -14
+p30
+aVMason Plumlee BKN 04/12/2015 BKN @ MIL L 17 11 4 8 50.0 0 0 - 3 4 75.0 5 2 7 1 1 1 3 2 1
+p31
+aVEarl Clark BKN 04/12/2015 BKN @ MIL L 10 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 2 4 -11
+p32
+aVMarkel Brown BKN 04/12/2015 BKN @ MIL L 23 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 0 1 1 1 3 -2
+p33
+aVCory Jefferson BKN 04/10/2015 BKN vs. WAS W 12 7 2 4 50.0 0 1 0.0 3 4 75.0 3 2 5 0 0 0 0 5 12
+p34
+aVJoe Johnson BKN 04/10/2015 BKN vs. WAS W 28 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 9 2 0 1 0 13
+p35
+aVDarius Morris BKN 04/10/2015 BKN vs. WAS W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 7
+p36
+aVEarl Clark BKN 04/10/2015 BKN vs. WAS W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 5
+p37
+aVMarkel Brown BKN 04/10/2015 BKN vs. WAS W 29 7 3 10 30.0 0 3 0.0 1 1 100.0 0 0 0 2 1 0 0 3 27
+p38
+aVBrook Lopez BKN 04/10/2015 BKN vs. WAS W 32 26 12 22 54.5 0 0 - 2 3 66.7 3 6 9 0 1 1 0 2 26
+p39
+aVJerome Jordan BKN 04/10/2015 BKN vs. WAS W 4 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 7
+p40
+aVJarrett Jack BKN 04/10/2015 BKN vs. WAS W 19 14 5 6 83.3 2 2 100.0 2 2 100.0 0 5 5 3 0 0 0 2 26
+p41
+aVBojan Bogdanovic BKN 04/10/2015 BKN vs. WAS W 30 22 7 12 58.3 6 6 100.0 2 2 100.0 0 3 3 2 1 0 0 1 26
+p42
+aVThaddeus Young BKN 04/10/2015 BKN vs. WAS W 29 10 5 8 62.5 0 1 0.0 0 2 0.0 1 3 4 0 1 0 0 1 5
+p43
+aVDeron Williams BKN 04/10/2015 BKN vs. WAS W 31 9 3 11 27.3 2 4 50.0 1 2 50.0 2 5 7 9 1 0 3 1 7
+p44
+aVMason Plumlee BKN 04/10/2015 BKN vs. WAS W 18 8 3 7 42.9 0 0 - 2 5 40.0 2 3 5 2 2 0 1 4 24
+p45
+aVEarl Clark BKN 04/08/2015 BKN vs. ATL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -4
+p46
+aVThaddeus Young BKN 04/08/2015 BKN vs. ATL L 35 15 7 13 53.8 1 3 33.3 0 0 - 4 7 11 2 2 0 2 6 7
+p47
+aVJoe Johnson BKN 04/08/2015 BKN vs. ATL L 37 21 9 15 60.0 3 9 33.3 0 0 - 0 8 8 3 1 0 2 2 -12
+p48
+aVBojan Bogdanovic BKN 04/08/2015 BKN vs. ATL L 34 12 5 10 50.0 1 4 25.0 1 1 100.0 0 3 3 3 1 0 1 2 -5
+p49
+aVMarkel Brown BKN 04/08/2015 BKN vs. ATL L 23 5 2 7 28.6 1 2 50.0 0 0 - 1 4 5 1 0 0 1 1 -7
+p50
+aVBrook Lopez BKN 04/08/2015 BKN vs. ATL L 39 26 8 17 47.1 0 0 - 10 10 100.0 7 3 10 2 1 3 1 1 2
+p51
+aVDeron Williams BKN 04/08/2015 BKN vs. ATL L 36 10 4 10 40.0 1 5 20.0 1 2 50.0 0 4 4 13 0 0 5 1 0
+p52
+aVMason Plumlee BKN 04/08/2015 BKN vs. ATL L 9 6 2 4 50.0 0 0 - 2 4 50.0 2 1 3 0 1 0 0 3 -5
+p53
+aVJarrett Jack BKN 04/08/2015 BKN vs. ATL L 21 14 3 10 30.0 0 3 0.0 8 8 100.0 0 3 3 3 1 0 0 3 9
+p54
+aVBrook Lopez BKN 04/06/2015 BKN vs. POR W 32 32 15 25 60.0 0 0 - 2 4 50.0 4 5 9 1 1 1 0 2 2
+p55
+aVEarl Clark BKN 04/06/2015 BKN vs. POR W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 5
+p56
+aVJoe Johnson BKN 04/06/2015 BKN vs. POR W 35 6 1 10 10.0 0 3 0.0 4 6 66.7 0 6 6 6 0 0 0 0 7
+p57
+aVJarrett Jack BKN 04/06/2015 BKN vs. POR W 11 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 1 0 0 1 0 4
+p58
+aVDarius Morris BKN 04/06/2015 BKN vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 8
+p59
+aVDeron Williams BKN 04/06/2015 BKN vs. POR W 37 24 8 18 44.4 4 5 80.0 4 4 100.0 2 4 6 10 0 0 0 2 6
+p60
+aVMason Plumlee BKN 04/06/2015 BKN vs. POR W 16 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 1 2 1 2 1 8
+p61
+aVThaddeus Young BKN 04/06/2015 BKN vs. POR W 42 20 9 16 56.3 0 0 - 2 3 66.7 3 2 5 2 1 1 0 1 7
+p62
+aVBojan Bogdanovic BKN 04/06/2015 BKN vs. POR W 31 15 6 13 46.2 1 4 25.0 2 2 100.0 2 3 5 1 1 0 3 0 20
+p63
+aVMarkel Brown BKN 04/06/2015 BKN vs. POR W 26 2 0 4 0.0 0 1 0.0 2 2 100.0 0 5 5 1 1 1 0 3 -17
+p64
+aVMason Plumlee BKN 04/04/2015 BKN @ ATL L 13 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 1 0 0 1 1 -25
+p65
+aVJoe Johnson BKN 04/04/2015 BKN @ ATL L 20 4 1 5 20.0 1 2 50.0 1 2 50.0 0 2 2 3 0 0 1 2 -34
+p66
+aVBojan Bogdanovic BKN 04/04/2015 BKN @ ATL L 33 19 8 11 72.7 3 5 60.0 0 0 - 0 0 0 2 0 0 1 3 -23
+p67
+aVDarius Morris BKN 04/04/2015 BKN @ ATL L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 0 -2
+p68
+aVThaddeus Young BKN 04/04/2015 BKN @ ATL L 22 14 7 13 53.8 0 1 0.0 0 0 - 6 2 8 0 1 0 3 1 -21
+p69
+aVJarrett Jack BKN 04/04/2015 BKN @ ATL L 20 14 5 9 55.6 1 2 50.0 3 3 100.0 0 1 1 6 2 0 4 0 -12
+p70
+aVCory Jefferson BKN 04/04/2015 BKN @ ATL L 14 7 3 5 60.0 0 2 0.0 1 2 50.0 1 2 3 0 1 1 1 2 3
+p71
+aVEarl Clark BKN 04/04/2015 BKN @ ATL L 22 11 4 8 50.0 2 3 66.7 1 2 50.0 0 7 7 1 1 0 2 0 1
+p72
+aVMarkel Brown BKN 04/04/2015 BKN @ ATL L 28 3 1 6 16.7 1 3 33.3 0 0 - 2 1 3 1 1 1 2 1 -9
+p73
+aVDeron Williams BKN 04/04/2015 BKN @ ATL L 25 10 3 8 37.5 2 4 50.0 2 2 100.0 0 4 4 5 0 0 2 2 -14
+p74
+aVJerome Jordan BKN 04/04/2015 BKN @ ATL L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -2
+p75
+aVBrook Lopez BKN 04/04/2015 BKN @ ATL L 26 11 5 8 62.5 0 0 - 1 2 50.0 2 4 6 1 0 0 2 2 -22
+p76
+aVThaddeus Young BKN 04/03/2015 BKN vs. TOR W 37 29 12 15 80.0 0 2 0.0 5 9 55.6 3 3 6 0 4 0 1 2 8
+p77
+aVBrook Lopez BKN 04/03/2015 BKN vs. TOR W 44 30 13 24 54.2 0 0 - 4 4 100.0 10 7 17 2 1 1 1 2 9
+p78
+aVEarl Clark BKN 04/03/2015 BKN vs. TOR W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -4
+p79
+aVBojan Bogdanovic BKN 04/03/2015 BKN vs. TOR W 18 3 1 4 25.0 0 2 0.0 1 2 50.0 1 2 3 0 1 0 0 1 -4
+p80
+aVAlan Anderson BKN 04/03/2015 BKN vs. TOR W 27 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 3 3
+p81
+aVJoe Johnson BKN 04/03/2015 BKN vs. TOR W 36 13 5 12 41.7 0 2 0.0 3 4 75.0 2 3 5 5 1 0 1 3 8
+p82
+aVMason Plumlee BKN 04/03/2015 BKN vs. TOR W 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -4
+p83
+aVMarkel Brown BKN 04/03/2015 BKN vs. TOR W 20 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 4
+p84
+aVDeron Williams BKN 04/03/2015 BKN vs. TOR W 38 31 11 18 61.1 5 7 71.4 4 4 100.0 0 1 1 11 0 0 3 3 16
+p85
+aVJarrett Jack BKN 04/03/2015 BKN vs. TOR W 10 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -11
+p86
+aVThaddeus Young BKN 04/01/2015 BKN @ NYK W 34 12 5 9 55.6 0 1 0.0 2 4 50.0 1 8 9 2 0 1 4 3 16
+p87
+aVMarkel Brown BKN 04/01/2015 BKN @ NYK W 35 14 5 8 62.5 0 0 - 4 4 100.0 0 4 4 2 3 0 0 3 11
+p88
+aVBrook Lopez BKN 04/01/2015 BKN @ NYK W 34 18 9 15 60.0 0 0 - 0 0 - 3 4 7 1 0 5 0 4 11
+p89
+aVDeron Williams BKN 04/01/2015 BKN @ NYK W 34 26 11 21 52.4 4 7 57.1 0 0 - 2 5 7 7 1 0 1 1 20
+p90
+aVJoe Johnson BKN 04/01/2015 BKN @ NYK W 39 9 3 9 33.3 3 5 60.0 0 0 - 0 5 5 5 4 0 2 3 1
+p91
+aVMason Plumlee BKN 04/01/2015 BKN @ NYK W 14 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -9
+p92
+aVAlan Anderson BKN 04/01/2015 BKN @ NYK W 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -12
+p93
+aVBojan Bogdanovic BKN 04/01/2015 BKN @ NYK W 18 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 0 1 0 0 -14
+p94
+aVJarrett Jack BKN 04/01/2015 BKN @ NYK W 15 7 2 6 33.3 1 1 100.0 2 2 100.0 0 1 1 5 0 0 0 1 -14
+p95
+aVMason Plumlee BKN 03/31/2015 BKN vs. IND W 12 4 1 2 50.0 0 0 - 2 4 50.0 1 2 3 1 0 1 1 5 0
+p96
+aVBojan Bogdanovic BKN 03/31/2015 BKN vs. IND W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -16
+p97
+aVBrook Lopez BKN 03/31/2015 BKN vs. IND W 40 24 11 17 64.7 0 0 - 2 2 100.0 2 9 11 2 0 2 0 3 13
+p98
+aVThaddeus Young BKN 03/31/2015 BKN vs. IND W 39 8 4 11 36.4 0 3 0.0 0 0 - 2 5 7 4 1 0 0 2 8
+p99
+aVJarrett Jack BKN 03/31/2015 BKN vs. IND W 19 13 4 11 36.4 0 0 - 5 6 83.3 0 1 1 4 0 0 2 3 -4
+p100
+aVAlan Anderson BKN 03/31/2015 BKN vs. IND W 24 20 7 11 63.6 3 4 75.0 3 3 100.0 0 2 2 1 0 0 0 4 13
+p101
+aVEarl Clark BKN 03/31/2015 BKN vs. IND W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p102
+aVMarkel Brown BKN 03/31/2015 BKN vs. IND W 31 10 3 8 37.5 2 4 50.0 2 4 50.0 0 5 5 1 1 0 0 0 -4
+p103
+aVDeron Williams BKN 03/31/2015 BKN vs. IND W 30 11 4 6 66.7 1 1 100.0 2 3 66.7 0 6 6 8 2 0 0 5 11
+p104
+aVJoe Johnson BKN 03/31/2015 BKN vs. IND W 35 21 6 13 46.2 3 6 50.0 6 6 100.0 1 5 6 4 0 0 1 0 12
+p105
+aVJarrett Jack BKN 03/29/2015 BKN vs. LAL W 14 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 2 1 0 3 1 -8
+p106
+aVMason Plumlee BKN 03/29/2015 BKN vs. LAL W 23 7 2 3 66.7 0 0 - 3 4 75.0 0 5 5 3 1 0 0 0 -4
+p107
+aVMarkel Brown BKN 03/29/2015 BKN vs. LAL W 36 17 6 11 54.5 2 7 28.6 3 4 75.0 0 4 4 4 2 0 0 1 19
+p108
+aVBojan Bogdanovic BKN 03/29/2015 BKN vs. LAL W 9 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -9
+p109
+aVEarl Clark BKN 03/29/2015 BKN vs. LAL W 20 4 2 10 20.0 0 5 0.0 0 0 - 1 7 8 0 0 2 1 2 -6
+p110
+aVBrook Lopez BKN 03/29/2015 BKN vs. LAL W 40 30 13 22 59.1 0 0 - 4 8 50.0 3 8 11 1 0 4 0 0 12
+p111
+aVDeron Williams BKN 03/29/2015 BKN vs. LAL W 34 13 5 13 38.5 1 4 25.0 2 2 100.0 0 1 1 9 3 0 3 1 16
+p112
+aVAlan Anderson BKN 03/29/2015 BKN vs. LAL W 28 9 3 6 50.0 1 2 50.0 2 2 100.0 0 3 3 3 2 0 0 1 8
+p113
+aVJoe Johnson BKN 03/29/2015 BKN vs. LAL W 36 18 7 14 50.0 3 8 37.5 1 1 100.0 1 7 8 7 2 0 1 1 12
+p114
+aVJarrett Jack BKN 03/27/2015 BKN vs. CLE W 26 16 6 13 46.2 0 0 - 4 6 66.7 0 4 4 5 2 0 2 2 10
+p115
+aVDeron Williams BKN 03/27/2015 BKN vs. CLE W 22 5 2 6 33.3 1 2 50.0 0 0 - 1 4 5 5 1 0 5 1 -2
+p116
+aVMason Plumlee BKN 03/27/2015 BKN vs. CLE W 24 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 0 1 2 2 -2
+p117
+aVCory Jefferson BKN 03/27/2015 BKN vs. CLE W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p118
+aVMarkel Brown BKN 03/27/2015 BKN vs. CLE W 16 5 2 5 40.0 1 2 50.0 0 0 - 0 4 4 0 0 0 1 1 -4
+p119
+aVBrook Lopez BKN 03/27/2015 BKN vs. CLE W 38 20 7 16 43.8 0 0 - 6 6 100.0 5 4 9 0 1 0 4 4 5
+p120
+aVJoe Johnson BKN 03/27/2015 BKN vs. CLE W 38 20 7 14 50.0 3 7 42.9 3 3 100.0 0 5 5 9 0 0 1 2 -1
+p121
+aVAlan Anderson BKN 03/27/2015 BKN vs. CLE W 30 13 5 11 45.5 1 4 25.0 2 2 100.0 1 4 5 1 1 0 0 4 11
+p122
+aVEarl Clark BKN 03/27/2015 BKN vs. CLE W 11 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 1 1 0 0 2 7
+p123
+aVBojan Bogdanovic BKN 03/27/2015 BKN vs. CLE W 32 18 7 12 58.3 2 5 40.0 2 2 100.0 1 3 4 0 0 0 0 0 12
+p124
+aVJoe Johnson BKN 03/25/2015 BKN @ CHA W 35 5 2 9 22.2 1 3 33.3 0 1 0.0 0 6 6 5 0 0 0 0 -3
+p125
+aVDeron Williams BKN 03/25/2015 BKN @ CHA W 31 10 2 9 22.2 1 2 50.0 5 5 100.0 0 7 7 14 0 0 2 5 3
+p126
+aVThaddeus Young BKN 03/25/2015 BKN @ CHA W 23 11 5 12 41.7 0 2 0.0 1 1 100.0 1 3 4 1 0 1 1 1 -1
+p127
+aVAlan Anderson BKN 03/25/2015 BKN @ CHA W 25 13 6 10 60.0 1 4 25.0 0 0 - 0 3 3 1 1 0 1 3 18
+p128
+aVMarkel Brown BKN 03/25/2015 BKN @ CHA W 11 4 2 5 40.0 0 0 - 0 0 - 2 0 2 1 0 2 0 0 -6
+p129
+aVJarrett Jack BKN 03/25/2015 BKN @ CHA W 24 6 2 8 25.0 0 1 0.0 2 2 100.0 0 3 3 3 2 0 0 1 -2
+p130
+aVBrook Lopez BKN 03/25/2015 BKN @ CHA W 39 34 16 26 61.5 0 0 - 2 2 100.0 1 9 10 0 2 3 2 2 4
+p131
+aVBojan Bogdanovic BKN 03/25/2015 BKN @ CHA W 25 4 2 6 33.3 0 2 0.0 0 0 - 0 4 4 0 1 0 1 1 -1
+p132
+aVMason Plumlee BKN 03/25/2015 BKN @ CHA W 21 4 2 4 50.0 0 0 - 0 0 - 1 5 6 3 0 0 1 3 0
+p133
+aVCory Jefferson BKN 03/25/2015 BKN @ CHA W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 2 1 2 3
+p134
+aVJoe Johnson BKN 03/23/2015 BKN vs. BOS L 38 6 3 11 27.3 0 4 0.0 0 0 - 2 1 3 1 1 0 2 1 -8
+p135
+aVMarkel Brown BKN 03/23/2015 BKN vs. BOS L 12 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -9
+p136
+aVBrook Lopez BKN 03/23/2015 BKN vs. BOS L 35 31 12 19 63.2 0 0 - 7 7 100.0 2 2 4 0 1 2 0 2 -2
+p137
+aVDeron Williams BKN 03/23/2015 BKN vs. BOS L 34 10 2 6 33.3 0 2 0.0 6 6 100.0 1 8 9 10 2 1 3 3 -8
+p138
+aVDarius Morris BKN 03/23/2015 BKN vs. BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p139
+aVMason Plumlee BKN 03/23/2015 BKN vs. BOS L 13 5 2 4 50.0 0 0 - 1 3 33.3 3 4 7 1 1 1 1 2 -17
+p140
+aVCory Jefferson BKN 03/23/2015 BKN vs. BOS L 6 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 0 -2
+p141
+aVThaddeus Young BKN 03/23/2015 BKN vs. BOS L 37 12 5 12 41.7 1 2 50.0 1 1 100.0 3 6 9 1 2 0 2 2 -11
+p142
+aVBojan Bogdanovic BKN 03/23/2015 BKN vs. BOS L 26 6 3 14 21.4 0 4 0.0 0 0 - 3 3 6 1 0 0 1 0 -4
+p143
+aVAlan Anderson BKN 03/23/2015 BKN vs. BOS L 18 7 2 9 22.2 0 3 0.0 3 4 75.0 0 2 2 0 0 0 0 2 -17
+p144
+aVJarrett Jack BKN 03/23/2015 BKN vs. BOS L 19 8 1 9 11.1 0 2 0.0 6 7 85.7 0 2 2 1 0 0 1 1 -13
+p145
+aVJoe Johnson BKN 03/21/2015 BKN @ IND W 26 14 6 12 50.0 0 2 0.0 2 2 100.0 1 2 3 0 0 0 0 1 5
+p146
+aVMarkel Brown BKN 03/21/2015 BKN @ IND W 15 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p147
+aVAlan Anderson BKN 03/21/2015 BKN @ IND W 34 11 4 7 57.1 1 2 50.0 2 2 100.0 0 6 6 4 3 0 2 4 19
+p148
+aVCory Jefferson BKN 03/21/2015 BKN @ IND W 13 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 12
+p149
+aVJarrett Jack BKN 03/21/2015 BKN @ IND W 24 13 2 7 28.6 0 0 - 9 9 100.0 0 1 1 8 0 0 0 1 20
+p150
+aVBrook Lopez BKN 03/21/2015 BKN @ IND W 31 26 11 14 78.6 0 0 - 4 5 80.0 0 4 4 0 0 4 1 3 3
+p151
+aVThaddeus Young BKN 03/21/2015 BKN @ IND W 27 6 3 6 50.0 0 1 0.0 0 0 - 0 7 7 3 0 0 1 3 -6
+p152
+aVBojan Bogdanovic BKN 03/21/2015 BKN @ IND W 29 21 8 8 100.0 3 3 100.0 2 3 66.7 0 5 5 0 0 0 2 1 12
+p153
+aVDeron Williams BKN 03/21/2015 BKN @ IND W 24 17 7 15 46.7 2 4 50.0 1 2 50.0 0 1 1 6 1 0 0 2 -8
+p154
+aVMason Plumlee BKN 03/21/2015 BKN @ IND W 16 10 4 4 100.0 0 0 - 2 4 50.0 1 4 5 0 0 0 2 1 7
+p155
+aVAlan Anderson BKN 03/20/2015 BKN vs. MIL W 25 13 4 10 40.0 2 4 50.0 3 4 75.0 0 3 3 1 0 0 1 4 13
+p156
+aVJarrett Jack BKN 03/20/2015 BKN vs. MIL W 41 12 5 11 45.5 0 1 0.0 2 2 100.0 1 7 8 7 2 0 5 3 22
+p157
+aVMason Plumlee BKN 03/20/2015 BKN vs. MIL W 21 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 2 0 1 2 2
+p158
+aVBrook Lopez BKN 03/20/2015 BKN vs. MIL W 42 32 13 20 65.0 0 0 - 6 6 100.0 7 11 18 2 0 5 1 5 1
+p159
+aVDeron Williams BKN 03/20/2015 BKN vs. MIL W 22 4 1 6 16.7 0 2 0.0 2 3 66.7 1 1 2 5 0 0 0 3 -20
+p160
+aVCory Jefferson BKN 03/20/2015 BKN vs. MIL W 10 5 0 5 0.0 0 0 - 5 6 83.3 2 2 4 0 2 0 1 0 -10
+p161
+aVMarkel Brown BKN 03/20/2015 BKN vs. MIL W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 1
+p162
+aVBojan Bogdanovic BKN 03/20/2015 BKN vs. MIL W 49 17 7 15 46.7 2 6 33.3 1 2 50.0 1 2 3 5 1 2 2 1 6
+p163
+aVJoe Johnson BKN 03/20/2015 BKN vs. MIL W 48 20 7 16 43.8 4 6 66.7 2 4 50.0 1 5 6 7 1 0 3 3 -17
+p164
+aVThaddeus Young BKN 03/20/2015 BKN vs. MIL W 53 24 8 20 40.0 3 5 60.0 5 7 71.4 1 4 5 3 1 0 1 1 12
+p165
+aVCory Jefferson BKN 03/18/2015 BKN @ CLE L 14 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 2 0 2 -5
+p166
+aVMarkel Brown BKN 03/18/2015 BKN @ CLE L 28 10 4 9 44.4 1 2 50.0 1 2 50.0 0 3 3 5 3 0 1 2 5
+p167
+aVBrook Lopez BKN 03/18/2015 BKN @ CLE L 31 10 4 10 40.0 0 0 - 2 2 100.0 5 3 8 5 0 2 1 2 -8
+p168
+aVJoe Johnson BKN 03/18/2015 BKN @ CLE L 27 6 3 9 33.3 0 2 0.0 0 0 - 0 3 3 1 0 0 0 2 -10
+p169
+aVAlan Anderson BKN 03/18/2015 BKN @ CLE L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p170
+aVDeron Williams BKN 03/18/2015 BKN @ CLE L 28 20 7 15 46.7 1 5 20.0 5 5 100.0 0 2 2 6 1 0 3 3 -15
+p171
+aVJarrett Jack BKN 03/18/2015 BKN @ CLE L 21 11 4 10 40.0 0 3 0.0 3 4 75.0 0 3 3 3 0 0 1 0 -16
+p172
+aVMason Plumlee BKN 03/18/2015 BKN @ CLE L 24 10 3 3 100.0 0 0 - 4 8 50.0 2 3 5 1 1 1 1 2 -23
+p173
+aVBojan Bogdanovic BKN 03/18/2015 BKN @ CLE L 36 12 5 9 55.6 2 4 50.0 0 0 - 0 2 2 1 0 0 0 1 -34
+p174
+aVJerome Jordan BKN 03/18/2015 BKN @ CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p175
+aVDarius Morris BKN 03/18/2015 BKN @ CLE L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p176
+aVThaddeus Young BKN 03/18/2015 BKN @ CLE L 16 9 4 8 50.0 1 3 33.3 0 0 - 0 3 3 0 2 0 3 4 -1
+p177
+aVMarkel Brown BKN 03/16/2015 BKN @ MIN W 27 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 1 0 1 3 9
+p178
+aVJarrett Jack BKN 03/16/2015 BKN @ MIN W 24 16 6 10 60.0 0 1 0.0 4 4 100.0 1 4 5 5 0 1 4 0 -9
+p179
+aVAlan Anderson BKN 03/16/2015 BKN @ MIN W 17 6 2 4 50.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 2 -6
+p180
+aVJoe Johnson BKN 03/16/2015 BKN @ MIN W 25 22 10 14 71.4 2 5 40.0 0 0 - 1 4 5 3 2 0 0 1 22
+p181
+aVBrook Lopez BKN 03/16/2015 BKN @ MIN W 22 16 7 8 87.5 0 0 - 2 3 66.7 6 2 8 0 1 1 1 1 24
+p182
+aVThaddeus Young BKN 03/16/2015 BKN @ MIN W 33 19 8 17 47.1 0 0 - 3 4 75.0 2 1 3 2 2 0 3 1 20
+p183
+aVDarius Morris BKN 03/16/2015 BKN @ MIN W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 1
+p184
+aVCory Jefferson BKN 03/16/2015 BKN @ MIN W 15 4 2 6 33.3 0 0 - 0 2 0.0 1 0 1 0 0 0 1 4 -4
+p185
+aVBojan Bogdanovic BKN 03/16/2015 BKN @ MIN W 27 21 10 15 66.7 1 3 33.3 0 0 - 0 4 4 2 1 0 2 0 7
+p186
+aVJerome Jordan BKN 03/16/2015 BKN @ MIN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p187
+aVMason Plumlee BKN 03/16/2015 BKN @ MIN W 24 6 2 2 100.0 0 0 - 2 2 100.0 0 9 9 0 0 0 0 2 -9
+p188
+aVDeron Williams BKN 03/16/2015 BKN @ MIN W 22 8 3 9 33.3 0 2 0.0 2 2 100.0 0 1 1 7 1 0 1 1 24
+p189
+aVThaddeus Young BKN 03/14/2015 BKN @ PHI W 35 21 9 15 60.0 1 2 50.0 2 4 50.0 0 9 9 0 2 1 1 2 14
+p190
+aVMason Plumlee BKN 03/14/2015 BKN @ PHI W 21 6 3 8 37.5 0 0 - 0 0 - 1 4 5 1 1 1 0 3 6
+p191
+aVCory Jefferson BKN 03/14/2015 BKN @ PHI W 13 6 3 3 100.0 0 0 - 0 0 - 2 3 5 1 1 1 1 0 -7
+p192
+aVJarrett Jack BKN 03/14/2015 BKN @ PHI W 27 12 6 16 37.5 0 3 0.0 0 0 - 0 2 2 8 1 0 3 2 5
+p193
+aVAlan Anderson BKN 03/14/2015 BKN @ PHI W 20 10 4 11 36.4 1 6 16.7 1 2 50.0 0 4 4 1 2 0 1 0 -8
+p194
+aVMarkel Brown BKN 03/14/2015 BKN @ PHI W 23 2 0 3 0.0 0 1 0.0 2 2 100.0 1 6 7 1 1 1 1 1 -1
+p195
+aVJoe Johnson BKN 03/14/2015 BKN @ PHI W 32 15 6 10 60.0 0 2 0.0 3 4 75.0 0 4 4 3 0 0 2 1 7
+p196
+aVBrook Lopez BKN 03/14/2015 BKN @ PHI W 27 10 2 7 28.6 0 0 - 6 8 75.0 3 4 7 0 0 1 4 4 1
+p197
+aVDeron Williams BKN 03/14/2015 BKN @ PHI W 26 10 3 7 42.9 0 2 0.0 4 6 66.7 0 2 2 5 0 0 2 3 7
+p198
+aVBojan Bogdanovic BKN 03/14/2015 BKN @ PHI W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 11
+p199
+aVMason Plumlee BKN 03/11/2015 BKN @ MIA L 15 8 3 7 42.9 0 0 - 2 6 33.3 4 2 6 0 1 1 2 3 -2
+p200
+aVThaddeus Young BKN 03/11/2015 BKN @ MIA L 33 15 6 11 54.5 1 2 50.0 2 4 50.0 2 5 7 1 2 0 0 3 -6
+p201
+aVBrook Lopez BKN 03/11/2015 BKN @ MIA L 33 15 6 11 54.5 0 1 0.0 3 4 75.0 5 9 14 1 0 1 0 1 -4
+p202
+aVCory Jefferson BKN 03/11/2015 BKN @ MIA L 15 2 1 6 16.7 0 1 0.0 0 2 0.0 0 2 2 1 1 0 0 2 0
+p203
+aVJarrett Jack BKN 03/11/2015 BKN @ MIA L 22 18 5 8 62.5 1 1 100.0 7 8 87.5 1 3 4 4 0 0 4 1 1
+p204
+aVBojan Bogdanovic BKN 03/11/2015 BKN @ MIA L 26 8 2 6 33.3 1 3 33.3 3 4 75.0 1 2 3 2 1 0 3 2 -2
+p205
+aVJoe Johnson BKN 03/11/2015 BKN @ MIA L 36 12 3 11 27.3 0 3 0.0 6 6 100.0 1 2 3 2 0 0 5 3 -6
+p206
+aVMarkel Brown BKN 03/11/2015 BKN @ MIA L 29 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 0 1 0 1 4 -9
+p207
+aVDeron Williams BKN 03/11/2015 BKN @ MIA L 32 18 6 10 60.0 3 4 75.0 3 3 100.0 0 4 4 4 2 0 6 5 -2
+p208
+aVMason Plumlee BKN 03/10/2015 BKN vs. NOP L 17 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 2 0 0 1 3 -3
+p209
+aVDeron Williams BKN 03/10/2015 BKN vs. NOP L 26 10 3 10 30.0 0 2 0.0 4 4 100.0 0 1 1 4 2 1 0 1 -7
+p210
+aVThaddeus Young BKN 03/10/2015 BKN vs. NOP L 27 10 4 14 28.6 1 2 50.0 1 2 50.0 1 5 6 2 0 0 1 2 -9
+p211
+aVCory Jefferson BKN 03/10/2015 BKN vs. NOP L 21 8 4 8 50.0 0 0 - 0 0 - 2 5 7 1 0 1 2 0 -11
+p212
+aVBojan Bogdanovic BKN 03/10/2015 BKN vs. NOP L 17 12 5 7 71.4 2 3 66.7 0 0 - 0 0 0 1 0 0 1 2 -8
+p213
+aVSergey Karasev BKN 03/10/2015 BKN vs. NOP L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -4
+p214
+aVBrook Lopez BKN 03/10/2015 BKN vs. NOP L 25 15 7 14 50.0 0 0 - 1 4 25.0 6 3 9 0 1 3 1 2 -20
+p215
+aVDarius Morris BKN 03/10/2015 BKN vs. NOP L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 1
+p216
+aVJarrett Jack BKN 03/10/2015 BKN vs. NOP L 28 15 5 9 55.6 1 3 33.3 4 5 80.0 0 1 1 3 0 0 1 0 -10
+p217
+aVJoe Johnson BKN 03/10/2015 BKN vs. NOP L 28 10 4 11 36.4 2 4 50.0 0 0 - 0 5 5 3 1 0 3 0 -14
+p218
+aVJerome Jordan BKN 03/10/2015 BKN vs. NOP L 6 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 3
+p219
+aVAlan Anderson BKN 03/10/2015 BKN vs. NOP L 10 3 0 2 0.0 0 1 0.0 3 4 75.0 0 0 0 1 0 0 1 0 -9
+p220
+aVMarkel Brown BKN 03/10/2015 BKN vs. NOP L 25 7 3 3 100.0 0 0 - 1 2 50.0 0 5 5 0 1 0 0 1 -9
+p221
+aVJoe Johnson BKN 03/08/2015 BKN vs. UTA L 35 9 4 10 40.0 1 2 50.0 0 0 - 0 1 1 5 0 0 1 1 4
+p222
+aVCory Jefferson BKN 03/08/2015 BKN vs. UTA L 15 6 3 5 60.0 0 0 - 0 2 0.0 0 3 3 0 0 0 0 0 1
+p223
+aVAlan Anderson BKN 03/08/2015 BKN vs. UTA L 17 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p224
+aVBrook Lopez BKN 03/08/2015 BKN vs. UTA L 36 19 8 17 47.1 0 1 0.0 3 5 60.0 5 5 10 0 2 2 1 3 2
+p225
+aVBojan Bogdanovic BKN 03/08/2015 BKN vs. UTA L 21 11 4 7 57.1 3 4 75.0 0 0 - 0 1 1 1 0 0 1 0 -7
+p226
+aVMarkel Brown BKN 03/08/2015 BKN vs. UTA L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 -2
+p227
+aVJarrett Jack BKN 03/08/2015 BKN vs. UTA L 23 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 5 1 0 5 1 -9
+p228
+aVDeron Williams BKN 03/08/2015 BKN vs. UTA L 30 6 2 5 40.0 1 1 100.0 1 2 50.0 1 4 5 4 1 0 3 2 -2
+p229
+aVMason Plumlee BKN 03/08/2015 BKN vs. UTA L 12 4 2 2 100.0 0 0 - 0 2 0.0 0 2 2 2 1 0 0 4 -9
+p230
+aVThaddeus Young BKN 03/08/2015 BKN vs. UTA L 33 19 9 17 52.9 1 2 50.0 0 0 - 1 2 3 2 4 0 2 3 -8
+p231
+aVBrook Lopez BKN 03/06/2015 BKN vs. PHX L 37 19 6 16 37.5 0 0 - 7 8 87.5 5 8 13 1 1 1 3 3 0
+p232
+aVAlan Anderson BKN 03/06/2015 BKN vs. PHX L 26 8 3 7 42.9 1 2 50.0 1 1 100.0 1 5 6 2 1 0 0 1 -2
+p233
+aVJoe Johnson BKN 03/06/2015 BKN vs. PHX L 29 11 5 11 45.5 1 4 25.0 0 0 - 2 5 7 2 0 0 3 1 -16
+p234
+aVCory Jefferson BKN 03/06/2015 BKN vs. PHX L 16 12 4 6 66.7 0 0 - 4 4 100.0 7 6 13 1 0 0 2 2 3
+p235
+aVJarrett Jack BKN 03/06/2015 BKN vs. PHX L 41 10 3 12 25.0 0 0 - 4 4 100.0 0 3 3 5 0 0 3 6 5
+p236
+aVMarkel Brown BKN 03/06/2015 BKN vs. PHX L 7 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 3 -10
+p237
+aVThaddeus Young BKN 03/06/2015 BKN vs. PHX L 23 10 3 8 37.5 1 3 33.3 3 4 75.0 0 5 5 1 1 0 1 3 -5
+p238
+aVBojan Bogdanovic BKN 03/06/2015 BKN vs. PHX L 29 11 4 13 30.8 3 6 50.0 0 0 - 2 2 4 0 0 0 2 2 -6
+p239
+aVDeron Williams BKN 03/06/2015 BKN vs. PHX L 44 9 2 16 12.5 1 5 20.0 4 6 66.7 0 3 3 9 1 0 4 5 -7
+p240
+aVMason Plumlee BKN 03/06/2015 BKN vs. PHX L 13 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 1 0 0 3 -2
+p241
+aVBrook Lopez BKN 03/04/2015 BKN vs. CHA L 19 8 2 7 28.6 0 0 - 4 4 100.0 0 3 3 1 0 1 1 3 -12
+p242
+aVCory Jefferson BKN 03/04/2015 BKN vs. CHA L 14 6 3 6 50.0 0 0 - 0 0 - 3 1 4 0 0 0 0 4 2
+p243
+aVSergey Karasev BKN 03/04/2015 BKN vs. CHA L 6 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 0 8
+p244
+aVMarkel Brown BKN 03/04/2015 BKN vs. CHA L 24 9 4 11 36.4 0 3 0.0 1 2 50.0 2 1 3 0 0 0 1 2 -11
+p245
+aVJarrett Jack BKN 03/04/2015 BKN vs. CHA L 21 9 4 13 30.8 0 2 0.0 1 1 100.0 0 4 4 3 2 0 0 1 -22
+p246
+aVMason Plumlee BKN 03/04/2015 BKN vs. CHA L 20 11 5 9 55.6 0 0 - 1 2 50.0 3 4 7 1 0 0 2 4 -15
+p247
+aVAlan Anderson BKN 03/04/2015 BKN vs. CHA L 22 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 3 -32
+p248
+aVJoe Johnson BKN 03/04/2015 BKN vs. CHA L 24 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -21
+p249
+aVThaddeus Young BKN 03/04/2015 BKN vs. CHA L 24 8 3 5 60.0 1 1 100.0 1 2 50.0 1 2 3 0 3 0 2 0 -5
+p250
+aVDeron Williams BKN 03/04/2015 BKN vs. CHA L 27 12 3 9 33.3 1 4 25.0 5 6 83.3 0 1 1 6 0 0 2 4 -21
+p251
+aVDarius Morris BKN 03/04/2015 BKN vs. CHA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 8
+p252
+aVJerome Jordan BKN 03/04/2015 BKN vs. CHA L 9 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 0 1 3
+p253
+aVBojan Bogdanovic BKN 03/04/2015 BKN vs. CHA L 24 11 4 7 57.1 0 3 0.0 3 5 60.0 1 4 5 0 0 0 0 0 -2
+p254
+aVBojan Bogdanovic BKN 03/02/2015 BKN vs. GSW W 17 7 3 4 75.0 1 2 50.0 0 0 - 1 2 3 1 1 0 1 0 -5
+p255
+aVJoe Johnson BKN 03/02/2015 BKN vs. GSW W 36 5 2 7 28.6 0 2 0.0 1 1 100.0 1 5 6 3 0 0 1 0 7
+p256
+aVMarkel Brown BKN 03/02/2015 BKN vs. GSW W 24 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 2 0 0 0 3 7
+p257
+aVMason Plumlee BKN 03/02/2015 BKN vs. GSW W 22 7 3 7 42.9 0 0 - 1 4 25.0 2 5 7 1 2 0 1 1 -5
+p258
+aVAlan Anderson BKN 03/02/2015 BKN vs. GSW W 29 16 7 10 70.0 2 5 40.0 0 0 - 0 3 3 0 1 0 0 0 4
+p259
+aVBrook Lopez BKN 03/02/2015 BKN vs. GSW W 26 26 11 22 50.0 0 0 - 4 5 80.0 4 2 6 0 0 1 3 3 7
+p260
+aVDeron Williams BKN 03/02/2015 BKN vs. GSW W 34 22 8 19 42.1 4 7 57.1 2 2 100.0 0 4 4 4 1 0 4 1 5
+p261
+aVJarrett Jack BKN 03/02/2015 BKN vs. GSW W 28 9 4 7 57.1 1 2 50.0 0 0 - 1 0 1 5 0 0 2 2 -4
+p262
+aVThaddeus Young BKN 03/02/2015 BKN vs. GSW W 25 14 5 9 55.6 2 3 66.7 2 2 100.0 1 3 4 4 2 0 1 2 -6
+p263
+aVMason Plumlee BKN 02/28/2015 BKN @ DAL W 31 14 5 8 62.5 0 0 - 4 9 44.4 4 6 10 2 1 3 3 5 17
+p264
+aVBojan Bogdanovic BKN 02/28/2015 BKN @ DAL W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 3 2 -16
+p265
+aVAlan Anderson BKN 02/28/2015 BKN @ DAL W 30 9 3 7 42.9 1 3 33.3 2 2 100.0 1 2 3 4 1 0 2 2 13
+p266
+aVThaddeus Young BKN 02/28/2015 BKN @ DAL W 30 16 7 12 58.3 1 2 50.0 1 2 50.0 3 5 8 1 0 1 1 2 0
+p267
+aVJarrett Jack BKN 02/28/2015 BKN @ DAL W 31 14 6 11 54.5 0 2 0.0 2 2 100.0 0 1 1 4 0 0 1 2 -3
+p268
+aVBrook Lopez BKN 02/28/2015 BKN @ DAL W 15 7 3 7 42.9 0 0 - 1 2 50.0 3 2 5 0 0 0 0 3 -10
+p269
+aVDeron Williams BKN 02/28/2015 BKN @ DAL W 35 23 8 13 61.5 4 6 66.7 3 4 75.0 0 6 6 2 1 0 1 2 24
+p270
+aVMarkel Brown BKN 02/28/2015 BKN @ DAL W 21 5 2 5 40.0 1 3 33.3 0 0 - 0 4 4 4 2 0 1 2 11
+p271
+aVJoe Johnson BKN 02/28/2015 BKN @ DAL W 36 15 6 13 46.2 3 7 42.9 0 0 - 1 7 8 3 0 0 2 1 14
+p272
+aVBrook Lopez BKN 02/27/2015 BKN @ HOU L 22 12 4 12 33.3 0 0 - 4 4 100.0 8 4 12 1 0 1 3 4 -6
+p273
+aVJarrett Jack BKN 02/27/2015 BKN @ HOU L 23 4 2 9 22.2 0 3 0.0 0 0 - 0 1 1 5 1 1 4 2 -6
+p274
+aVCory Jefferson BKN 02/27/2015 BKN @ HOU L 10 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 0 5
+p275
+aVJoe Johnson BKN 02/27/2015 BKN @ HOU L 40 13 5 13 38.5 0 2 0.0 3 4 75.0 0 9 9 6 1 0 1 1 1
+p276
+aVMarkel Brown BKN 02/27/2015 BKN @ HOU L 35 14 5 12 41.7 2 5 40.0 2 2 100.0 1 3 4 1 2 0 1 5 0
+p277
+aVDeron Williams BKN 02/27/2015 BKN @ HOU L 34 15 6 15 40.0 0 3 0.0 3 3 100.0 0 5 5 3 3 0 1 2 -10
+p278
+aVThaddeus Young BKN 02/27/2015 BKN @ HOU L 16 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 0 0 0 1 2 -4
+p279
+aVAlan Anderson BKN 02/27/2015 BKN @ HOU L 37 13 4 6 66.7 1 2 50.0 4 4 100.0 0 3 3 1 0 0 3 1 -2
+p280
+aVMason Plumlee BKN 02/27/2015 BKN @ HOU L 22 15 7 10 70.0 0 0 - 1 1 100.0 2 2 4 0 1 2 2 4 2
+p281
+aVBrook Lopez BKN 02/25/2015 BKN @ NOP L 34 15 7 14 50.0 0 0 - 1 1 100.0 3 4 7 0 1 4 0 2 3
+p282
+aVMarkel Brown BKN 02/25/2015 BKN @ NOP L 30 8 3 9 33.3 0 2 0.0 2 2 100.0 1 3 4 1 3 1 3 1 -6
+p283
+aVAlan Anderson BKN 02/25/2015 BKN @ NOP L 33 8 3 11 27.3 2 7 28.6 0 0 - 0 4 4 2 0 0 0 2 -5
+p284
+aVDeron Williams BKN 02/25/2015 BKN @ NOP L 34 10 4 14 28.6 0 3 0.0 2 4 50.0 0 1 1 6 0 0 3 4 -6
+p285
+aVJoe Johnson BKN 02/25/2015 BKN @ NOP L 39 21 9 17 52.9 3 5 60.0 0 0 - 1 9 10 1 1 1 3 3 -7
+p286
+aVMason Plumlee BKN 02/25/2015 BKN @ NOP L 14 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -9
+p287
+aVJarrett Jack BKN 02/25/2015 BKN @ NOP L 28 15 5 12 41.7 1 3 33.3 4 4 100.0 0 3 3 3 0 0 3 1 3
+p288
+aVThaddeus Young BKN 02/25/2015 BKN @ NOP L 28 19 8 12 66.7 1 1 100.0 2 4 50.0 2 3 5 0 0 0 0 2 -3
+p289
+aVDeron Williams BKN 02/23/2015 BKN @ DEN W 33 16 6 15 40.0 0 2 0.0 4 4 100.0 0 5 5 12 1 0 1 2 18
+p290
+aVMason Plumlee BKN 02/23/2015 BKN @ DEN W 16 14 5 6 83.3 0 0 - 4 5 80.0 0 5 5 0 0 0 2 3 1
+p291
+aVJoe Johnson BKN 02/23/2015 BKN @ DEN W 28 12 6 13 46.2 0 4 0.0 0 0 - 0 8 8 0 0 3 1 0 12
+p292
+aVBrook Lopez BKN 02/23/2015 BKN @ DEN W 32 19 6 17 35.3 0 1 0.0 7 8 87.5 6 3 9 0 0 0 0 3 27
+p293
+aVThaddeus Young BKN 02/23/2015 BKN @ DEN W 24 15 6 11 54.5 1 2 50.0 2 2 100.0 2 3 5 1 2 1 3 3 21
+p294
+aVSergey Karasev BKN 02/23/2015 BKN @ DEN W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 10
+p295
+aVAlan Anderson BKN 02/23/2015 BKN @ DEN W 28 13 5 9 55.6 3 6 50.0 0 0 - 1 3 4 1 1 0 0 3 3
+p296
+aVMarkel Brown BKN 02/23/2015 BKN @ DEN W 45 10 4 12 33.3 0 4 0.0 2 2 100.0 2 9 11 2 2 4 1 2 24
+p297
+aVDarius Morris BKN 02/23/2015 BKN @ DEN W 15 4 2 4 50.0 0 1 0.0 0 0 - 2 1 3 4 0 0 1 0 10
+p298
+aVCory Jefferson BKN 02/23/2015 BKN @ DEN W 9 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 1 1 1 0 0 14
+p299
+aVMarkel Brown BKN 02/20/2015 BKN @ LAL W 15 9 3 5 60.0 0 1 0.0 3 4 75.0 0 2 2 1 1 0 0 2 4
+p300
+aVBojan Bogdanovic BKN 02/20/2015 BKN @ LAL W 37 18 7 13 53.8 2 7 28.6 2 2 100.0 0 4 4 3 0 0 1 1 5
+p301
+aVDarius Morris BKN 02/20/2015 BKN @ LAL W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 1
+p302
+aVJoe Johnson BKN 02/20/2015 BKN @ LAL W 34 23 6 11 54.5 5 7 71.4 6 7 85.7 0 6 6 0 0 0 2 3 9
+p303
+aVJerome Jordan BKN 02/20/2015 BKN @ LAL W 3 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -3
+p304
+aVMason Plumlee BKN 02/20/2015 BKN @ LAL W 17 4 2 4 50.0 0 0 - 0 0 - 0 5 5 1 2 0 0 4 2
+p305
+aVAlan Anderson BKN 02/20/2015 BKN @ LAL W 33 14 4 6 66.7 3 4 75.0 3 4 75.0 0 4 4 6 1 0 0 1 21
+p306
+aVDeron Williams BKN 02/20/2015 BKN @ LAL W 40 12 6 14 42.9 0 2 0.0 0 0 - 0 4 4 15 2 1 5 1 8
+p307
+aVBrook Lopez BKN 02/20/2015 BKN @ LAL W 33 22 8 19 42.1 0 0 - 6 7 85.7 7 7 14 0 0 1 2 4 12
+p308
+aVThaddeus Young BKN 02/20/2015 BKN @ LAL W 12 8 4 8 50.0 0 0 - 0 0 - 3 1 4 1 1 0 0 1 -13
+p309
+aVCory Jefferson BKN 02/20/2015 BKN @ LAL W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p310
+aVAlan Anderson BKN 02/10/2015 BKN @ MEM L 28 15 5 9 55.6 2 5 40.0 3 4 75.0 1 3 4 0 1 0 2 3 -2
+p311
+aVDarius Morris BKN 02/10/2015 BKN @ MEM L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p312
+aVKevin Garnett BKN 02/10/2015 BKN @ MEM L 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 2 0 1 -11
+p313
+aVCory Jefferson BKN 02/10/2015 BKN @ MEM L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 7
+p314
+aVDeron Williams BKN 02/10/2015 BKN @ MEM L 29 10 4 9 44.4 1 3 33.3 1 2 50.0 0 1 1 4 1 0 2 5 -8
+p315
+aVMason Plumlee BKN 02/10/2015 BKN @ MEM L 32 15 6 10 60.0 0 0 - 3 3 100.0 6 8 14 1 3 0 1 2 -12
+p316
+aVBrook Lopez BKN 02/10/2015 BKN @ MEM L 23 12 5 14 35.7 0 1 0.0 2 2 100.0 2 2 4 0 0 1 2 4 -12
+p317
+aVJarrett Jack BKN 02/10/2015 BKN @ MEM L 30 12 6 11 54.5 0 0 - 0 0 - 0 1 1 3 0 0 6 0 -18
+p318
+aVMarkel Brown BKN 02/10/2015 BKN @ MEM L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p319
+aVBojan Bogdanovic BKN 02/10/2015 BKN @ MEM L 15 3 1 5 20.0 0 1 0.0 1 2 50.0 2 1 3 0 1 0 1 1 8
+p320
+aVJerome Jordan BKN 02/10/2015 BKN @ MEM L 20 6 2 5 40.0 0 0 - 2 3 66.7 2 4 6 2 1 0 1 4 12
+p321
+aVJoe Johnson BKN 02/10/2015 BKN @ MEM L 40 11 5 13 38.5 0 1 0.0 1 1 100.0 1 7 8 4 0 1 5 3 -10
+p322
+aVMason Plumlee BKN 02/09/2015 BKN @ MIL L 28 13 4 8 50.0 0 0 - 5 7 71.4 4 4 8 3 0 1 1 1 -12
+p323
+aVJoe Johnson BKN 02/09/2015 BKN @ MIL L 42 19 8 16 50.0 3 7 42.9 0 0 - 0 3 3 6 0 1 2 1 -8
+p324
+aVJarrett Jack BKN 02/09/2015 BKN @ MIL L 35 26 10 15 66.7 4 5 80.0 2 2 100.0 1 3 4 8 0 0 3 4 15
+p325
+aVBojan Bogdanovic BKN 02/09/2015 BKN @ MIL L 28 13 4 9 44.4 1 5 20.0 4 7 57.1 1 5 6 0 1 1 0 3 -5
+p326
+aVDeron Williams BKN 02/09/2015 BKN @ MIL L 23 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 4 0 1 4 1 -7
+p327
+aVBrook Lopez BKN 02/09/2015 BKN @ MIL L 21 10 5 7 71.4 0 0 - 0 0 - 1 4 5 2 1 2 2 5 6
+p328
+aVAlan Anderson BKN 02/09/2015 BKN @ MIL L 40 8 3 8 37.5 1 5 20.0 1 3 33.3 1 3 4 1 0 0 2 1 -15
+p329
+aVKevin Garnett BKN 02/09/2015 BKN @ MIL L 13 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 1 1 1 0 -4
+p330
+aVCory Jefferson BKN 02/09/2015 BKN @ MIL L 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 1 0 1 0
+p331
+aVJarrett Jack BKN 02/07/2015 BKN @ WAS L 27 11 3 12 25.0 0 1 0.0 5 6 83.3 3 1 4 4 1 0 6 1 -25
+p332
+aVAlan Anderson BKN 02/07/2015 BKN @ WAS L 21 3 1 7 14.3 1 6 16.7 0 0 - 0 3 3 0 1 0 0 2 -25
+p333
+aVMarkel Brown BKN 02/07/2015 BKN @ WAS L 9 6 2 4 50.0 1 1 100.0 1 1 100.0 0 0 0 1 1 0 1 0 -6
+p334
+aVSergey Karasev BKN 02/07/2015 BKN @ WAS L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -6
+p335
+aVDarius Morris BKN 02/07/2015 BKN @ WAS L 12 4 1 2 50.0 1 1 100.0 1 2 50.0 0 3 3 0 0 0 1 1 -12
+p336
+aVCory Jefferson BKN 02/07/2015 BKN @ WAS L 14 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 4 -12
+p337
+aVMason Plumlee BKN 02/07/2015 BKN @ WAS L 23 6 2 4 50.0 0 0 - 2 4 50.0 3 4 7 0 2 2 2 4 -19
+p338
+aVJerome Jordan BKN 02/07/2015 BKN @ WAS L 21 9 3 4 75.0 0 0 - 3 3 100.0 1 2 3 1 0 0 0 3 -14
+p339
+aVJoe Johnson BKN 02/07/2015 BKN @ WAS L 24 6 3 11 27.3 0 3 0.0 0 0 - 0 1 1 1 0 0 1 0 -23
+p340
+aVDeron Williams BKN 02/07/2015 BKN @ WAS L 29 3 0 8 0.0 0 2 0.0 3 6 50.0 0 4 4 7 3 0 0 1 -10
+p341
+aVBojan Bogdanovic BKN 02/07/2015 BKN @ WAS L 20 7 2 5 40.0 1 3 33.3 2 2 100.0 2 2 4 0 0 0 1 0 -13
+p342
+aVBrook Lopez BKN 02/07/2015 BKN @ WAS L 31 19 8 15 53.3 0 0 - 3 5 60.0 4 4 8 1 0 1 1 4 -20
+p343
+aVBojan Bogdanovic BKN 02/06/2015 BKN vs. NYK W 31 8 2 6 33.3 0 2 0.0 4 4 100.0 1 1 2 0 0 0 1 1 1
+p344
+aVAlan Anderson BKN 02/06/2015 BKN vs. NYK W 33 7 3 5 60.0 1 3 33.3 0 1 0.0 0 4 4 2 0 0 1 5 1
+p345
+aVBrook Lopez BKN 02/06/2015 BKN vs. NYK W 33 22 11 18 61.1 0 0 - 0 2 0.0 5 4 9 2 0 6 3 3 0
+p346
+aVCory Jefferson BKN 02/06/2015 BKN vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p347
+aVKevin Garnett BKN 02/06/2015 BKN vs. NYK W 22 12 6 10 60.0 0 0 - 0 0 - 1 8 9 2 0 3 1 3 9
+p348
+aVJoe Johnson BKN 02/06/2015 BKN vs. NYK W 36 13 5 10 50.0 1 3 33.3 2 2 100.0 1 10 11 2 1 0 1 3 12
+p349
+aVJarrett Jack BKN 02/06/2015 BKN vs. NYK W 42 20 7 12 58.3 1 1 100.0 5 5 100.0 0 2 2 8 0 0 4 0 5
+p350
+aVMason Plumlee BKN 02/06/2015 BKN vs. NYK W 17 5 1 4 25.0 0 0 - 3 4 75.0 1 5 6 1 0 0 1 1 0
+p351
+aVDeron Williams BKN 02/06/2015 BKN vs. NYK W 26 5 2 9 22.2 0 2 0.0 1 4 25.0 1 3 4 6 0 1 2 2 -6
+p352
+aVKevin Garnett BKN 02/04/2015 BKN @ TOR W 12 7 3 6 50.0 0 0 - 1 1 100.0 0 4 4 1 3 0 2 2 11
+p353
+aVMarkel Brown BKN 02/04/2015 BKN @ TOR W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p354
+aVBojan Bogdanovic BKN 02/04/2015 BKN @ TOR W 22 11 3 5 60.0 3 4 75.0 2 2 100.0 1 4 5 1 0 0 3 2 15
+p355
+aVCory Jefferson BKN 02/04/2015 BKN @ TOR W 15 6 3 6 50.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 8
+p356
+aVDeron Williams BKN 02/04/2015 BKN @ TOR W 33 11 4 12 33.3 0 2 0.0 3 4 75.0 0 3 3 6 0 0 0 1 5
+p357
+aVJoe Johnson BKN 02/04/2015 BKN @ TOR W 26 12 4 8 50.0 1 3 33.3 3 4 75.0 1 0 1 7 1 0 0 0 1
+p358
+aVJerome Jordan BKN 02/04/2015 BKN @ TOR W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p359
+aVMason Plumlee BKN 02/04/2015 BKN @ TOR W 31 6 2 5 40.0 0 0 - 2 2 100.0 2 5 7 1 1 0 0 2 14
+p360
+aVAlan Anderson BKN 02/04/2015 BKN @ TOR W 33 22 7 9 77.8 3 5 60.0 5 5 100.0 0 5 5 0 1 0 0 3 19
+p361
+aVJarrett Jack BKN 02/04/2015 BKN @ TOR W 36 24 9 13 69.2 2 4 50.0 4 5 80.0 0 4 4 6 1 0 2 2 12
+p362
+aVBrook Lopez BKN 02/04/2015 BKN @ TOR W 28 8 4 14 28.6 0 0 - 0 0 - 2 2 4 2 0 1 1 4 -4
+p363
+aVDarius Morris BKN 02/04/2015 BKN @ TOR W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p364
+aVDeron Williams BKN 02/02/2015 BKN vs. LAC W 29 15 5 8 62.5 3 5 60.0 2 2 100.0 0 3 3 3 0 0 4 4 12
+p365
+aVCory Jefferson BKN 02/02/2015 BKN vs. LAC W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 4
+p366
+aVJarrett Jack BKN 02/02/2015 BKN vs. LAC W 40 6 3 11 27.3 0 2 0.0 0 0 - 0 7 7 7 2 0 2 5 8
+p367
+aVDarius Morris BKN 02/02/2015 BKN vs. LAC W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p368
+aVBrook Lopez BKN 02/02/2015 BKN vs. LAC W 37 24 12 20 60.0 0 0 - 0 0 - 1 6 7 0 1 0 0 4 14
+p369
+aVJerome Jordan BKN 02/02/2015 BKN vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p370
+aVKevin Garnett BKN 02/02/2015 BKN vs. LAC W 16 6 3 7 42.9 0 0 - 0 1 0.0 3 8 11 1 0 0 2 4 -5
+p371
+aVMason Plumlee BKN 02/02/2015 BKN vs. LAC W 22 9 3 5 60.0 0 0 - 3 10 30.0 6 3 9 0 0 0 4 3 -14
+p372
+aVMarkel Brown BKN 02/02/2015 BKN vs. LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p373
+aVBojan Bogdanovic BKN 02/02/2015 BKN vs. LAC W 18 11 4 9 44.4 3 7 42.9 0 0 - 0 0 0 2 0 0 1 3 -5
+p374
+aVAlan Anderson BKN 02/02/2015 BKN vs. LAC W 21 9 3 8 37.5 2 6 33.3 1 1 100.0 0 0 0 1 0 0 0 1 1
+p375
+aVJoe Johnson BKN 02/02/2015 BKN vs. LAC W 39 22 8 13 61.5 4 6 66.7 2 4 50.0 0 5 5 6 1 0 1 1 1
+p376
+aVDarius Morris BKN 01/30/2015 BKN vs. TOR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -6
+p377
+aVCory Jefferson BKN 01/30/2015 BKN vs. TOR L 19 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 0 19
+p378
+aVAlan Anderson BKN 01/30/2015 BKN vs. TOR L 18 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 0 0 0 0 4 -15
+p379
+aVBojan Bogdanovic BKN 01/30/2015 BKN vs. TOR L 40 11 3 8 37.5 1 5 20.0 4 4 100.0 1 7 8 2 0 0 0 3 13
+p380
+aVKevin Garnett BKN 01/30/2015 BKN vs. TOR L 9 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 1 2 0 1 2 -16
+p381
+aVMason Plumlee BKN 01/30/2015 BKN vs. TOR L 36 12 5 5 100.0 0 0 - 2 6 33.3 1 8 9 0 0 1 2 3 -8
+p382
+aVBrook Lopez BKN 01/30/2015 BKN vs. TOR L 41 35 15 28 53.6 0 0 - 5 6 83.3 8 4 12 0 3 3 1 4 1
+p383
+aVJoe Johnson BKN 01/30/2015 BKN vs. TOR L 46 17 8 16 50.0 1 5 20.0 0 0 - 1 3 4 3 0 0 1 0 -12
+p384
+aVJarrett Jack BKN 01/30/2015 BKN vs. TOR L 52 35 13 30 43.3 1 7 14.3 8 8 100.0 0 8 8 13 1 0 2 3 -1
+p385
+aVJoe Johnson BKN 01/28/2015 BKN @ ATL L 37 26 10 19 52.6 3 6 50.0 3 3 100.0 0 2 2 0 1 0 2 1 -12
+p386
+aVJarrett Jack BKN 01/28/2015 BKN @ ATL L 38 14 5 13 38.5 2 2 100.0 2 2 100.0 0 5 5 13 2 0 1 2 -5
+p387
+aVCory Jefferson BKN 01/28/2015 BKN @ ATL L 15 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 1 -5
+p388
+aVDarius Morris BKN 01/28/2015 BKN @ ATL L 10 0 0 6 0.0 0 4 0.0 0 0 - 0 0 0 2 0 0 1 0 -6
+p389
+aVAlan Anderson BKN 01/28/2015 BKN @ ATL L 36 15 5 10 50.0 2 6 33.3 3 3 100.0 0 2 2 6 1 0 1 3 5
+p390
+aVBrook Lopez BKN 01/28/2015 BKN @ ATL L 31 18 6 11 54.5 0 0 - 6 6 100.0 2 5 7 1 0 2 1 4 -12
+p391
+aVMason Plumlee BKN 01/28/2015 BKN @ ATL L 31 14 7 12 58.3 0 0 - 0 2 0.0 2 5 7 1 1 3 1 3 -3
+p392
+aVSergey Karasev BKN 01/28/2015 BKN @ ATL L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -11
+p393
+aVBojan Bogdanovic BKN 01/28/2015 BKN @ ATL L 13 6 2 5 40.0 2 4 50.0 0 0 - 2 0 2 1 0 0 0 1 -4
+p394
+aVKevin Garnett BKN 01/28/2015 BKN @ ATL L 19 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 1 0 1 4 -2
+p395
+aVJerome Jordan BKN 01/24/2015 BKN @ UTA L 14 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 2 1 1 -12
+p396
+aVJarrett Jack BKN 01/24/2015 BKN @ UTA L 34 16 5 14 35.7 1 4 25.0 5 7 71.4 1 3 4 7 2 0 3 0 -24
+p397
+aVJoe Johnson BKN 01/24/2015 BKN @ UTA L 29 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 1 0 1 2 1 -23
+p398
+aVSergey Karasev BKN 01/24/2015 BKN @ UTA L 18 6 2 5 40.0 2 4 50.0 0 0 - 1 2 3 1 1 0 2 2 -10
+p399
+aVCory Jefferson BKN 01/24/2015 BKN @ UTA L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -9
+p400
+aVBojan Bogdanovic BKN 01/24/2015 BKN @ UTA L 24 9 3 7 42.9 1 2 50.0 2 2 100.0 0 2 2 1 0 0 0 3 -16
+p401
+aVMarkel Brown BKN 01/24/2015 BKN @ UTA L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -9
+p402
+aVAlan Anderson BKN 01/24/2015 BKN @ UTA L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 2 0 1 1 -12
+p403
+aVDarius Morris BKN 01/24/2015 BKN @ UTA L 14 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 3 0 0 1 0 -11
+p404
+aVBrook Lopez BKN 01/24/2015 BKN @ UTA L 22 6 2 9 22.2 0 0 - 2 4 50.0 2 3 5 0 0 1 2 3 -13
+p405
+aVKevin Garnett BKN 01/24/2015 BKN @ UTA L 23 8 4 7 57.1 0 0 - 0 0 - 1 2 3 2 2 1 1 2 -20
+p406
+aVMason Plumlee BKN 01/24/2015 BKN @ UTA L 27 11 5 6 83.3 0 0 - 1 3 33.3 2 4 6 1 3 2 4 3 -16
+p407
+aVBojan Bogdanovic BKN 01/22/2015 BKN @ LAC L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p408
+aVMirza Teletovic BKN 01/22/2015 BKN @ LAC L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 1 1 -14
+p409
+aVBrook Lopez BKN 01/22/2015 BKN @ LAC L 24 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 1 1 3 -34
+p410
+aVDarius Morris BKN 01/22/2015 BKN @ LAC L 21 11 5 13 38.5 1 4 25.0 0 0 - 0 0 0 4 0 0 0 2 -1
+p411
+aVJerome Jordan BKN 01/22/2015 BKN @ LAC L 21 11 4 8 50.0 0 0 - 3 4 75.0 7 4 11 0 0 1 1 1 -1
+p412
+aVMason Plumlee BKN 01/22/2015 BKN @ LAC L 25 16 6 9 66.7 0 0 - 4 11 36.4 1 2 3 1 2 0 2 2 -35
+p413
+aVSergey Karasev BKN 01/22/2015 BKN @ LAC L 14 3 1 4 25.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 0 -5
+p414
+aVJarrett Jack BKN 01/22/2015 BKN @ LAC L 27 7 3 11 27.3 1 2 50.0 0 0 - 0 1 1 3 3 0 4 1 -38
+p415
+aVCory Jefferson BKN 01/22/2015 BKN @ LAC L 18 9 4 10 40.0 0 1 0.0 1 2 50.0 3 5 8 2 1 1 0 0 6
+p416
+aVAlan Anderson BKN 01/22/2015 BKN @ LAC L 16 6 3 7 42.9 0 2 0.0 0 0 - 2 2 4 1 3 0 0 1 -25
+p417
+aVMarkel Brown BKN 01/22/2015 BKN @ LAC L 26 8 2 7 28.6 0 3 0.0 4 6 66.7 0 3 3 1 1 0 0 2 -7
+p418
+aVJoe Johnson BKN 01/22/2015 BKN @ LAC L 26 9 4 12 33.3 1 4 25.0 0 0 - 1 5 6 3 1 0 2 1 -34
+p419
+aVJerome Jordan BKN 01/21/2015 BKN @ SAC W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p420
+aVBrook Lopez BKN 01/21/2015 BKN @ SAC W 38 22 8 15 53.3 0 1 0.0 6 7 85.7 2 4 6 3 1 6 3 4 2
+p421
+aVMason Plumlee BKN 01/21/2015 BKN @ SAC W 11 6 3 3 100.0 0 0 - 0 1 0.0 0 0 0 2 1 0 2 4 1
+p422
+aVMirza Teletovic BKN 01/21/2015 BKN @ SAC W 21 5 2 5 40.0 1 2 50.0 0 0 - 2 5 7 1 0 0 1 2 14
+p423
+aVAlan Anderson BKN 01/21/2015 BKN @ SAC W 29 14 4 8 50.0 1 3 33.3 5 5 100.0 0 5 5 2 1 0 1 2 0
+p424
+aVMarkel Brown BKN 01/21/2015 BKN @ SAC W 5 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 8
+p425
+aVJarrett Jack BKN 01/21/2015 BKN @ SAC W 39 16 5 10 50.0 1 4 25.0 5 7 71.4 0 4 4 8 2 0 4 2 -8
+p426
+aVKevin Garnett BKN 01/21/2015 BKN @ SAC W 14 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 0 0 0 3 1
+p427
+aVBojan Bogdanovic BKN 01/21/2015 BKN @ SAC W 31 10 3 10 30.0 0 3 0.0 4 4 100.0 0 3 3 1 1 0 3 2 -6
+p428
+aVDarius Morris BKN 01/21/2015 BKN @ SAC W 13 7 3 6 50.0 0 2 0.0 1 2 50.0 1 1 2 1 0 0 0 0 0
+p429
+aVJoe Johnson BKN 01/21/2015 BKN @ SAC W 37 16 6 15 40.0 1 4 25.0 3 4 75.0 4 4 8 4 1 0 0 3 1
+p430
+aVAlan Anderson BKN 01/17/2015 BKN vs. WAS L 30 6 2 4 50.0 1 2 50.0 1 3 33.3 0 3 3 0 0 0 0 2 -14
+p431
+aVMarkel Brown BKN 01/17/2015 BKN vs. WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p432
+aVCory Jefferson BKN 01/17/2015 BKN vs. WAS L 0 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p433
+aVMason Plumlee BKN 01/17/2015 BKN vs. WAS L 24 11 4 7 57.1 0 0 - 3 4 75.0 0 3 3 0 2 0 1 5 0
+p434
+aVJarrett Jack BKN 01/17/2015 BKN vs. WAS L 41 22 10 18 55.6 0 2 0.0 2 2 100.0 0 4 4 8 1 0 5 3 -1
+p435
+aVJoe Johnson BKN 01/17/2015 BKN vs. WAS L 40 15 6 17 35.3 1 4 25.0 2 2 100.0 1 2 3 5 3 0 2 2 -11
+p436
+aVDarius Morris BKN 01/17/2015 BKN vs. WAS L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -8
+p437
+aVBojan Bogdanovic BKN 01/17/2015 BKN vs. WAS L 26 8 3 6 50.0 1 2 50.0 1 1 100.0 1 4 5 0 0 0 0 1 8
+p438
+aVKevin Garnett BKN 01/17/2015 BKN vs. WAS L 27 8 4 8 50.0 0 1 0.0 0 0 - 0 10 10 2 0 0 1 2 -6
+p439
+aVMirza Teletovic BKN 01/17/2015 BKN vs. WAS L 18 5 2 7 28.6 1 4 25.0 0 0 - 4 2 6 0 0 0 0 1 -2
+p440
+aVBrook Lopez BKN 01/17/2015 BKN vs. WAS L 27 15 5 13 38.5 0 1 0.0 5 6 83.3 4 1 5 1 0 0 0 2 -9
+p441
+aVBojan Bogdanovic BKN 01/16/2015 BKN @ WAS W 32 12 3 9 33.3 0 1 0.0 6 8 75.0 1 4 5 2 0 0 0 1 9
+p442
+aVAlan Anderson BKN 01/16/2015 BKN @ WAS W 24 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 2 2 0 2 0 9
+p443
+aVKevin Garnett BKN 01/16/2015 BKN @ WAS W 18 4 2 4 50.0 0 0 - 0 0 - 1 4 5 2 2 0 0 2 9
+p444
+aVBrook Lopez BKN 01/16/2015 BKN @ WAS W 23 26 8 14 57.1 0 0 - 10 12 83.3 1 2 3 0 2 2 1 3 14
+p445
+aVCory Jefferson BKN 01/16/2015 BKN @ WAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p446
+aVJarrett Jack BKN 01/16/2015 BKN @ WAS W 35 26 12 18 66.7 1 2 50.0 1 2 50.0 1 5 6 7 2 1 2 3 13
+p447
+aVJoe Johnson BKN 01/16/2015 BKN @ WAS W 38 6 2 11 18.2 0 1 0.0 2 2 100.0 2 2 4 4 2 0 0 1 25
+p448
+aVMason Plumlee BKN 01/16/2015 BKN @ WAS W 28 11 4 10 40.0 0 0 - 3 5 60.0 1 9 10 0 1 1 3 4 9
+p449
+aVDarius Morris BKN 01/16/2015 BKN @ WAS W 13 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 9
+p450
+aVMirza Teletovic BKN 01/16/2015 BKN @ WAS W 22 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 0 0 0 1 1 10
+p451
+aVMarkel Brown BKN 01/16/2015 BKN @ WAS W 2 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 1
+p452
+aVJerome Jordan BKN 01/16/2015 BKN @ WAS W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 1
+p453
+aVCory Jefferson BKN 01/14/2015 BKN vs. MEM L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 0 0 3 7
+p454
+aVAlan Anderson BKN 01/14/2015 BKN vs. MEM L 27 8 2 8 25.0 2 6 33.3 2 2 100.0 0 1 1 2 0 0 2 1 4
+p455
+aVDarius Morris BKN 01/14/2015 BKN vs. MEM L 20 11 5 7 71.4 1 1 100.0 0 1 0.0 0 1 1 2 1 0 3 4 7
+p456
+aVSergey Karasev BKN 01/14/2015 BKN vs. MEM L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p457
+aVBojan Bogdanovic BKN 01/14/2015 BKN vs. MEM L 24 11 5 8 62.5 1 3 33.3 0 0 - 2 4 6 1 1 0 2 1 -19
+p458
+aVMarkel Brown BKN 01/14/2015 BKN vs. MEM L 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 2 0 2
+p459
+aVJarrett Jack BKN 01/14/2015 BKN vs. MEM L 33 10 4 12 33.3 0 3 0.0 2 3 66.7 1 1 2 6 0 0 3 3 -20
+p460
+aVJerome Jordan BKN 01/14/2015 BKN vs. MEM L 7 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 13
+p461
+aVMirza Teletovic BKN 01/14/2015 BKN vs. MEM L 19 12 4 8 50.0 4 7 57.1 0 0 - 0 6 6 1 0 0 1 3 0
+p462
+aVBrook Lopez BKN 01/14/2015 BKN vs. MEM L 27 11 5 9 55.6 0 0 - 1 1 100.0 1 3 4 1 0 0 2 4 -22
+p463
+aVMason Plumlee BKN 01/14/2015 BKN vs. MEM L 33 15 7 9 77.8 0 0 - 1 1 100.0 1 8 9 2 1 1 2 3 -16
+p464
+aVJoe Johnson BKN 01/14/2015 BKN vs. MEM L 38 8 3 12 25.0 2 5 40.0 0 0 - 0 2 2 3 1 0 1 1 -13
+p465
+aVSergey Karasev BKN 01/12/2015 BKN vs. HOU L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 2 0 0 0 9
+p466
+aVJerome Jordan BKN 01/12/2015 BKN vs. HOU L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p467
+aVMason Plumlee BKN 01/12/2015 BKN vs. HOU L 29 24 10 11 90.9 0 0 - 4 4 100.0 3 7 10 0 1 0 2 3 -21
+p468
+aVAlan Anderson BKN 01/12/2015 BKN vs. HOU L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 1 0 1 2 -7
+p469
+aVJarrett Jack BKN 01/12/2015 BKN vs. HOU L 39 13 6 16 37.5 0 4 0.0 1 2 50.0 0 2 2 6 0 1 4 1 -17
+p470
+aVBrook Lopez BKN 01/12/2015 BKN vs. HOU L 24 12 5 8 62.5 0 0 - 2 2 100.0 3 3 6 0 1 1 2 2 -12
+p471
+aVJoe Johnson BKN 01/12/2015 BKN vs. HOU L 32 12 4 13 30.8 3 8 37.5 1 2 50.0 2 4 6 3 0 0 2 2 -5
+p472
+aVBojan Bogdanovic BKN 01/12/2015 BKN vs. HOU L 37 13 4 9 44.4 0 2 0.0 5 5 100.0 2 3 5 3 2 0 0 4 -12
+p473
+aVCory Jefferson BKN 01/12/2015 BKN vs. HOU L 24 7 2 9 22.2 1 3 33.3 2 2 100.0 0 4 4 0 0 1 1 2 -1
+p474
+aVKevin Garnett BKN 01/12/2015 BKN vs. HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -4
+p475
+aVMirza Teletovic BKN 01/12/2015 BKN vs. HOU L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 2 0 1
+p476
+aVDarius Morris BKN 01/12/2015 BKN vs. HOU L 14 5 2 6 33.3 0 1 0.0 1 1 100.0 1 1 2 2 0 0 2 0 -3
+p477
+aVKevin Garnett BKN 01/10/2015 BKN @ DET L 17 2 1 3 33.3 0 1 0.0 0 0 - 3 4 7 4 0 0 1 1 -2
+p478
+aVJarrett Jack BKN 01/10/2015 BKN @ DET L 29 5 2 12 16.7 1 8 12.5 0 0 - 0 1 1 8 2 0 3 5 -7
+p479
+aVJoe Johnson BKN 01/10/2015 BKN @ DET L 36 17 7 14 50.0 3 6 50.0 0 0 - 1 1 2 4 0 0 1 1 -5
+p480
+aVBrook Lopez BKN 01/10/2015 BKN @ DET L 27 11 3 9 33.3 1 2 50.0 4 4 100.0 3 12 15 1 1 1 0 4 -1
+p481
+aVSergey Karasev BKN 01/10/2015 BKN @ DET L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -6
+p482
+aVDarius Morris BKN 01/10/2015 BKN @ DET L 19 10 4 10 40.0 2 5 40.0 0 0 - 0 2 2 3 1 0 1 0 -1
+p483
+aVJerome Jordan BKN 01/10/2015 BKN @ DET L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 1
+p484
+aVMason Plumlee BKN 01/10/2015 BKN @ DET L 25 14 7 10 70.0 0 0 - 0 0 - 1 4 5 0 1 1 2 3 -13
+p485
+aVMirza Teletovic BKN 01/10/2015 BKN @ DET L 20 3 1 9 11.1 1 4 25.0 0 0 - 1 5 6 2 0 0 2 2 0
+p486
+aVBojan Bogdanovic BKN 01/10/2015 BKN @ DET L 27 14 5 11 45.5 0 3 0.0 4 4 100.0 0 1 1 2 0 0 2 5 6
+p487
+aVAlan Anderson BKN 01/10/2015 BKN @ DET L 23 13 5 7 71.4 1 2 50.0 2 2 100.0 0 4 4 0 1 0 0 1 3
+p488
+aVSergey Karasev BKN 01/09/2015 BKN vs. PHI L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 2 0 1 4 13
+p489
+aVJerome Jordan BKN 01/09/2015 BKN vs. PHI L 10 5 1 1 100.0 0 0 - 3 4 75.0 1 2 3 1 0 0 1 3 -6
+p490
+aVMason Plumlee BKN 01/09/2015 BKN vs. PHI L 32 15 5 9 55.6 0 0 - 5 8 62.5 5 10 15 1 2 0 1 2 14
+p491
+aVJarrett Jack BKN 01/09/2015 BKN vs. PHI L 37 14 4 9 44.4 0 1 0.0 6 8 75.0 1 4 5 10 2 0 3 2 6
+p492
+aVBojan Bogdanovic BKN 01/09/2015 BKN vs. PHI L 13 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -8
+p493
+aVMirza Teletovic BKN 01/09/2015 BKN vs. PHI L 20 6 2 8 25.0 2 7 28.6 0 0 - 0 3 3 0 0 1 4 2 -6
+p494
+aVAlan Anderson BKN 01/09/2015 BKN vs. PHI L 36 7 3 7 42.9 0 3 0.0 1 2 50.0 1 2 3 2 1 0 0 2 -15
+p495
+aVBrook Lopez BKN 01/09/2015 BKN vs. PHI L 28 18 9 17 52.9 0 1 0.0 0 1 0.0 0 6 6 0 0 2 2 3 6
+p496
+aVJoe Johnson BKN 01/09/2015 BKN vs. PHI L 38 13 4 14 28.6 1 3 33.3 4 4 100.0 1 4 5 3 1 0 3 0 6
+p497
+aVDarius Morris BKN 01/09/2015 BKN vs. PHI L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -20
+p498
+aVBojan Bogdanovic BKN 01/07/2015 BKN vs. BOS L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 1 0 0 2 0 -15
+p499
+aVJarrett Jack BKN 01/07/2015 BKN vs. BOS L 39 15 7 13 53.8 1 2 50.0 0 0 - 0 4 4 4 0 0 4 1 1
+p500
+aVBrook Lopez BKN 01/07/2015 BKN vs. BOS L 17 6 2 7 28.6 0 0 - 2 3 66.7 1 4 5 0 0 2 2 1 -8
+p501
+aVAlan Anderson BKN 01/07/2015 BKN vs. BOS L 25 4 1 5 20.0 0 1 0.0 2 2 100.0 1 3 4 0 0 0 1 4 1
+p502
+aVDeron Williams BKN 01/07/2015 BKN vs. BOS L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p503
+aVSergey Karasev BKN 01/07/2015 BKN vs. BOS L 23 5 1 4 25.0 0 1 0.0 3 4 75.0 1 2 3 3 0 0 1 1 6
+p504
+aVMirza Teletovic BKN 01/07/2015 BKN vs. BOS L 19 6 2 4 50.0 1 1 100.0 1 2 50.0 0 6 6 0 1 0 2 1 -1
+p505
+aVJoe Johnson BKN 01/07/2015 BKN vs. BOS L 37 17 7 16 43.8 1 7 14.3 2 2 100.0 1 2 3 3 1 1 3 1 -8
+p506
+aVDarius Morris BKN 01/07/2015 BKN vs. BOS L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p507
+aVKevin Garnett BKN 01/07/2015 BKN vs. BOS L 23 10 4 9 44.4 0 0 - 2 2 100.0 1 7 8 3 1 1 1 3 -4
+p508
+aVMason Plumlee BKN 01/07/2015 BKN vs. BOS L 37 16 5 11 45.5 0 0 - 6 11 54.5 6 6 12 3 0 2 0 5 -3
+p509
+aVBojan Bogdanovic BKN 01/05/2015 BKN vs. DAL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p510
+aVAlan Anderson BKN 01/05/2015 BKN vs. DAL L 38 5 1 6 16.7 1 5 20.0 2 2 100.0 0 6 6 1 1 0 0 2 -10
+p511
+aVMason Plumlee BKN 01/05/2015 BKN vs. DAL L 32 7 2 4 50.0 0 0 - 3 6 50.0 4 3 7 0 0 2 3 4 -2
+p512
+aVJoe Johnson BKN 01/05/2015 BKN vs. DAL L 45 18 8 19 42.1 2 6 33.3 0 0 - 0 7 7 4 1 1 4 1 -7
+p513
+aVSergey Karasev BKN 01/05/2015 BKN vs. DAL L 26 10 3 7 42.9 0 4 0.0 4 5 80.0 0 2 2 4 1 0 0 3 4
+p514
+aVDarius Morris BKN 01/05/2015 BKN vs. DAL L 9 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 2 -11
+p515
+aVMirza Teletovic BKN 01/05/2015 BKN vs. DAL L 34 6 2 8 25.0 0 4 0.0 2 2 100.0 1 9 10 1 1 0 2 2 -3
+p516
+aVBrook Lopez BKN 01/05/2015 BKN vs. DAL L 33 22 11 21 52.4 0 1 0.0 0 0 - 1 12 13 0 1 4 1 3 -5
+p517
+aVJarrett Jack BKN 01/05/2015 BKN vs. DAL L 44 20 6 16 37.5 0 3 0.0 8 8 100.0 0 4 4 10 0 0 3 4 3
+p518
+aVJarrett Jack BKN 01/04/2015 BKN @ MIA L 25 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 3 2 3 2 0 -5
+p519
+aVMirza Teletovic BKN 01/04/2015 BKN @ MIA L 30 14 5 15 33.3 4 11 36.4 0 2 0.0 1 3 4 1 1 1 2 2 4
+p520
+aVBojan Bogdanovic BKN 01/04/2015 BKN @ MIA L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p521
+aVAlan Anderson BKN 01/04/2015 BKN @ MIA L 24 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 5 11
+p522
+aVMason Plumlee BKN 01/04/2015 BKN @ MIA L 23 12 5 6 83.3 0 0 - 2 3 66.7 2 3 5 0 1 1 3 1 -9
+p523
+aVKevin Garnett BKN 01/04/2015 BKN @ MIA L 18 4 2 7 28.6 0 0 - 0 0 - 4 3 7 1 1 0 0 3 -8
+p524
+aVDeron Williams BKN 01/04/2015 BKN @ MIA L 26 13 5 10 50.0 1 2 50.0 2 2 100.0 0 6 6 8 1 0 0 2 1
+p525
+aVJoe Johnson BKN 01/04/2015 BKN @ MIA L 41 19 8 22 36.4 2 6 33.3 1 2 50.0 0 3 3 4 0 0 0 3 -5
+p526
+aVBrook Lopez BKN 01/04/2015 BKN @ MIA L 25 16 6 11 54.5 0 0 - 4 4 100.0 3 4 7 0 1 1 1 3 5
+p527
+aVSergey Karasev BKN 01/04/2015 BKN @ MIA L 22 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 2 3 -13
+p528
+aVBrook Lopez BKN 01/02/2015 BKN @ ORL W 18 16 7 8 87.5 0 0 - 2 3 66.7 2 6 8 0 0 3 1 0 9
+p529
+aVJoe Johnson BKN 01/02/2015 BKN @ ORL W 39 14 5 13 38.5 1 7 14.3 3 3 100.0 0 4 4 4 0 0 4 3 0
+p530
+aVKevin Garnett BKN 01/02/2015 BKN @ ORL W 18 9 3 4 75.0 1 1 100.0 2 2 100.0 0 6 6 1 2 0 2 1 -2
+p531
+aVMirza Teletovic BKN 01/02/2015 BKN @ ORL W 20 9 4 9 44.4 0 3 0.0 1 1 100.0 0 4 4 2 1 0 0 1 9
+p532
+aVSergey Karasev BKN 01/02/2015 BKN @ ORL W 34 7 3 5 60.0 1 2 50.0 0 2 0.0 0 4 4 5 1 0 2 2 -2
+p533
+aVJarrett Jack BKN 01/02/2015 BKN @ ORL W 33 6 3 8 37.5 0 1 0.0 0 0 - 0 6 6 4 1 0 6 1 -7
+p534
+aVAlan Anderson BKN 01/02/2015 BKN @ ORL W 24 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 1 1 0 1 4 1
+p535
+aVMason Plumlee BKN 01/02/2015 BKN @ ORL W 27 18 9 10 90.0 0 0 - 0 3 0.0 2 7 9 2 1 2 5 3 4
+p536
+aVDeron Williams BKN 01/02/2015 BKN @ ORL W 29 16 5 10 50.0 3 3 100.0 3 4 75.0 0 2 2 7 0 0 1 1 -2
+p537
+aVBojan Bogdanovic BKN 12/30/2014 BKN @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p538
+aVMirza Teletovic BKN 12/30/2014 BKN @ CHI W 32 5 1 9 11.1 1 6 16.7 2 2 100.0 0 6 6 2 1 0 0 2 17
+p539
+aVBrandon Davies BKN 12/30/2014 BKN @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p540
+aVCory Jefferson BKN 12/30/2014 BKN @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p541
+aVSergey Karasev BKN 12/30/2014 BKN @ CHI W 24 2 0 5 0.0 0 0 - 2 2 100.0 1 0 1 1 1 0 1 1 2
+p542
+aVDarius Morris BKN 12/30/2014 BKN @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p543
+aVAlan Anderson BKN 12/30/2014 BKN @ CHI W 27 11 4 6 66.7 3 5 60.0 0 0 - 0 4 4 3 2 0 1 0 19
+p544
+aVJarrett Jack BKN 12/30/2014 BKN @ CHI W 28 11 4 9 44.4 1 1 100.0 2 2 100.0 1 1 2 5 1 0 1 2 -7
+p545
+aVBrook Lopez BKN 12/30/2014 BKN @ CHI W 33 29 13 21 61.9 0 0 - 3 4 75.0 2 3 5 0 0 2 2 3 7
+p546
+aVMason Plumlee BKN 12/30/2014 BKN @ CHI W 17 6 2 4 50.0 0 0 - 2 2 100.0 2 6 8 1 1 1 1 4 10
+p547
+aVJoe Johnson BKN 12/30/2014 BKN @ CHI W 36 20 8 14 57.1 1 1 100.0 3 4 75.0 0 11 11 4 0 0 1 0 16
+p548
+aVJerome Jordan BKN 12/30/2014 BKN @ CHI W 11 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 0 1 0 2 -1
+p549
+aVDeron Williams BKN 12/30/2014 BKN @ CHI W 21 6 1 8 12.5 0 1 0.0 4 5 80.0 2 4 6 4 3 1 3 3 27
+p550
+aVAlan Anderson BKN 12/29/2014 BKN vs. SAC W 25 6 1 3 33.3 1 1 100.0 3 6 50.0 2 1 3 3 1 1 0 1 7
+p551
+aVJoe Johnson BKN 12/29/2014 BKN vs. SAC W 34 16 6 13 46.2 2 6 33.3 2 2 100.0 1 1 2 6 1 0 0 0 8
+p552
+aVSergey Karasev BKN 12/29/2014 BKN vs. SAC W 30 5 1 5 20.0 1 3 33.3 2 4 50.0 3 2 5 3 2 0 1 1 -4
+p553
+aVMirza Teletovic BKN 12/29/2014 BKN vs. SAC W 29 11 4 11 36.4 3 7 42.9 0 0 - 0 7 7 0 0 1 3 4 1
+p554
+aVDeron Williams BKN 12/29/2014 BKN vs. SAC W 17 6 2 6 33.3 0 2 0.0 2 2 100.0 0 0 0 3 0 0 0 0 0
+p555
+aVMason Plumlee BKN 12/29/2014 BKN vs. SAC W 33 22 6 7 85.7 0 0 - 10 16 62.5 3 1 4 1 3 1 3 2 3
+p556
+aVKevin Garnett BKN 12/29/2014 BKN vs. SAC W 21 10 5 10 50.0 0 0 - 0 0 - 1 7 8 2 4 0 0 3 9
+p557
+aVBojan Bogdanovic BKN 12/29/2014 BKN vs. SAC W 7 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 3
+p558
+aVJarrett Jack BKN 12/29/2014 BKN vs. SAC W 32 16 4 12 33.3 1 1 100.0 7 8 87.5 1 2 3 2 1 0 2 2 9
+p559
+aVBrook Lopez BKN 12/29/2014 BKN vs. SAC W 12 11 5 10 50.0 0 0 - 1 1 100.0 2 4 6 0 0 0 0 5 4
+p560
+aVMirza Teletovic BKN 12/27/2014 BKN vs. IND L 16 0 0 6 0.0 0 4 0.0 0 0 - 0 1 1 1 0 0 0 1 -23
+p561
+aVBrook Lopez BKN 12/27/2014 BKN vs. IND L 15 0 0 5 0.0 0 0 - 0 0 - 1 4 5 2 0 2 2 1 -19
+p562
+aVBrandon Davies BKN 12/27/2014 BKN vs. IND L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p563
+aVSergey Karasev BKN 12/27/2014 BKN vs. IND L 24 14 5 9 55.6 2 4 50.0 2 4 50.0 2 1 3 1 0 0 0 2 14
+p564
+aVJarrett Jack BKN 12/27/2014 BKN vs. IND L 39 22 10 15 66.7 1 2 50.0 1 1 100.0 0 6 6 2 1 1 5 3 -9
+p565
+aVKevin Garnett BKN 12/27/2014 BKN vs. IND L 14 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 4 10
+p566
+aVDarius Morris BKN 12/27/2014 BKN vs. IND L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p567
+aVBojan Bogdanovic BKN 12/27/2014 BKN vs. IND L 11 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -14
+p568
+aVJerome Jordan BKN 12/27/2014 BKN vs. IND L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -15
+p569
+aVDeron Williams BKN 12/27/2014 BKN vs. IND L 20 7 2 7 28.6 1 1 100.0 2 3 66.7 0 1 1 3 0 0 3 3 -20
+p570
+aVMason Plumlee BKN 12/27/2014 BKN vs. IND L 32 9 2 5 40.0 0 0 - 5 7 71.4 1 7 8 0 0 1 0 3 -11
+p571
+aVAlan Anderson BKN 12/27/2014 BKN vs. IND L 23 7 2 5 40.0 1 3 33.3 2 2 100.0 1 1 2 0 0 0 2 0 -18
+p572
+aVJoe Johnson BKN 12/27/2014 BKN vs. IND L 35 18 4 12 33.3 2 7 28.6 8 8 100.0 0 6 6 6 0 0 2 2 -4
+p573
+aVMirza Teletovic BKN 12/26/2014 BKN @ BOS W 22 11 4 11 36.4 2 5 40.0 1 2 50.0 1 3 4 0 2 1 1 1 4
+p574
+aVBojan Bogdanovic BKN 12/26/2014 BKN @ BOS W 12 4 2 6 33.3 0 3 0.0 0 0 - 0 3 3 1 1 0 1 1 9
+p575
+aVJarrett Jack BKN 12/26/2014 BKN @ BOS W 34 27 8 14 57.1 1 2 50.0 10 10 100.0 0 7 7 5 3 1 4 1 0
+p576
+aVAlan Anderson BKN 12/26/2014 BKN @ BOS W 25 15 5 7 71.4 3 4 75.0 2 2 100.0 1 0 1 2 2 0 0 1 17
+p577
+aVBrook Lopez BKN 12/26/2014 BKN @ BOS W 14 8 4 7 57.1 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -5
+p578
+aVSergey Karasev BKN 12/26/2014 BKN @ BOS W 26 7 3 7 42.9 1 2 50.0 0 0 - 4 1 5 2 1 0 1 2 -8
+p579
+aVDeron Williams BKN 12/26/2014 BKN @ BOS W 21 8 2 6 33.3 0 2 0.0 4 6 66.7 1 3 4 4 0 0 1 1 6
+p580
+aVMason Plumlee BKN 12/26/2014 BKN @ BOS W 36 14 6 7 85.7 0 0 - 2 6 33.3 3 9 12 3 0 1 4 2 -1
+p581
+aVJoe Johnson BKN 12/26/2014 BKN @ BOS W 35 9 4 13 30.8 0 3 0.0 1 2 50.0 1 1 2 1 0 0 1 0 -6
+p582
+aVKevin Garnett BKN 12/26/2014 BKN @ BOS W 17 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 0 0 1 0 -6
+p583
+aVBojan Bogdanovic BKN 12/23/2014 BKN vs. DEN W 13 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p584
+aVSergey Karasev BKN 12/23/2014 BKN vs. DEN W 32 12 4 8 50.0 0 3 0.0 4 4 100.0 2 3 5 3 1 0 0 2 6
+p585
+aVMason Plumlee BKN 12/23/2014 BKN vs. DEN W 40 19 9 14 64.3 0 0 - 1 3 33.3 5 8 13 2 2 3 2 2 5
+p586
+aVAlan Anderson BKN 12/23/2014 BKN vs. DEN W 26 2 1 4 25.0 0 3 0.0 0 0 - 2 3 5 2 1 0 1 2 11
+p587
+aVJoe Johnson BKN 12/23/2014 BKN vs. DEN W 33 27 11 19 57.9 4 5 80.0 1 2 50.0 0 2 2 3 1 0 1 2 6
+p588
+aVMirza Teletovic BKN 12/23/2014 BKN vs. DEN W 16 3 1 7 14.3 1 4 25.0 0 0 - 0 3 3 0 0 0 1 4 -7
+p589
+aVCory Jefferson BKN 12/23/2014 BKN vs. DEN W 7 3 1 2 50.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 0 1 3
+p590
+aVJarrett Jack BKN 12/23/2014 BKN vs. DEN W 38 17 7 13 53.8 0 2 0.0 3 3 100.0 0 1 1 8 1 0 3 1 5
+p591
+aVKevin Garnett BKN 12/23/2014 BKN vs. DEN W 13 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 3 0 1 2 -5
+p592
+aVBrook Lopez BKN 12/23/2014 BKN vs. DEN W 8 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 1
+p593
+aVBrandon Davies BKN 12/23/2014 BKN vs. DEN W 2 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p594
+aVDarius Morris BKN 12/23/2014 BKN vs. DEN W 11 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 1 3
+p595
+aVJerome Jordan BKN 12/21/2014 BKN vs. DET W 11 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 5
+p596
+aVAlan Anderson BKN 12/21/2014 BKN vs. DET W 22 6 2 8 25.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 1 1 -2
+p597
+aVBojan Bogdanovic BKN 12/21/2014 BKN vs. DET W 14 14 4 7 57.1 3 4 75.0 3 3 100.0 0 2 2 0 0 1 1 1 3
+p598
+aVDarius Morris BKN 12/21/2014 BKN vs. DET W 11 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 2 1 0 1 0 -2
+p599
+aVMason Plumlee BKN 12/21/2014 BKN vs. DET W 33 21 9 10 90.0 0 0 - 3 5 60.0 1 11 12 2 2 2 1 4 5
+p600
+aVJarrett Jack BKN 12/21/2014 BKN vs. DET W 37 15 7 14 50.0 0 1 0.0 1 1 100.0 0 4 4 10 2 0 2 3 7
+p601
+aVSergey Karasev BKN 12/21/2014 BKN vs. DET W 32 9 2 6 33.3 1 3 33.3 4 4 100.0 0 1 1 2 2 0 1 2 5
+p602
+aVMirza Teletovic BKN 12/21/2014 BKN vs. DET W 24 13 5 9 55.6 1 4 25.0 2 2 100.0 0 7 7 1 0 0 1 1 6
+p603
+aVJoe Johnson BKN 12/21/2014 BKN vs. DET W 37 16 5 9 55.6 2 4 50.0 4 6 66.7 1 2 3 7 2 1 5 1 -1
+p604
+aVKevin Garnett BKN 12/21/2014 BKN vs. DET W 18 10 4 7 57.1 0 0 - 2 4 50.0 0 5 5 3 0 0 1 2 -1
+p605
+aVBojan Bogdanovic BKN 12/19/2014 BKN @ CLE L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -6
+p606
+aVDarius Morris BKN 12/19/2014 BKN @ CLE L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p607
+aVMason Plumlee BKN 12/19/2014 BKN @ CLE L 29 14 5 9 55.6 0 0 - 4 5 80.0 3 6 9 2 0 3 0 5 16
+p608
+aVJerome Jordan BKN 12/19/2014 BKN @ CLE L 10 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 0 0 2 0 2 -12
+p609
+aVSergey Karasev BKN 12/19/2014 BKN @ CLE L 37 12 5 10 50.0 2 4 50.0 0 0 - 0 4 4 2 2 0 2 3 1
+p610
+aVDeron Williams BKN 12/19/2014 BKN @ CLE L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 5 0 0 0 1 5
+p611
+aVKevin Garnett BKN 12/19/2014 BKN @ CLE L 30 10 5 12 41.7 0 1 0.0 0 0 - 0 7 7 4 0 0 1 3 10
+p612
+aVJarrett Jack BKN 12/19/2014 BKN @ CLE L 33 13 6 11 54.5 1 2 50.0 0 0 - 0 4 4 3 1 1 3 3 -7
+p613
+aVMirza Teletovic BKN 12/19/2014 BKN @ CLE L 17 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 2 -16
+p614
+aVBrandon Davies BKN 12/19/2014 BKN @ CLE L 10 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 0 0 1 2 1 -4
+p615
+aVAlan Anderson BKN 12/19/2014 BKN @ CLE L 17 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 1 2 0 3 0 -7
+p616
+aVJoe Johnson BKN 12/19/2014 BKN @ CLE L 40 26 10 18 55.6 4 9 44.4 2 2 100.0 1 3 4 5 2 1 5 2 3
+p617
+aVBojan Bogdanovic BKN 12/17/2014 BKN @ TOR L 17 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 1 0 2 -11
+p618
+aVDeron Williams BKN 12/17/2014 BKN @ TOR L 33 11 5 15 33.3 1 5 20.0 0 1 0.0 3 0 3 7 0 0 5 3 -10
+p619
+aVMirza Teletovic BKN 12/17/2014 BKN @ TOR L 21 14 5 10 50.0 4 8 50.0 0 0 - 0 3 3 2 0 0 1 0 2
+p620
+aVJerome Jordan BKN 12/17/2014 BKN @ TOR L 13 6 1 3 33.3 0 0 - 4 5 80.0 4 3 7 0 0 2 1 2 -9
+p621
+aVCory Jefferson BKN 12/17/2014 BKN @ TOR L 17 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 2 -4
+p622
+aVAlan Anderson BKN 12/17/2014 BKN @ TOR L 27 4 1 7 14.3 1 5 20.0 1 2 50.0 2 5 7 1 1 1 0 0 3
+p623
+aVMarkel Brown BKN 12/17/2014 BKN @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p624
+aVBrandon Davies BKN 12/17/2014 BKN @ TOR L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -8
+p625
+aVMason Plumlee BKN 12/17/2014 BKN @ TOR L 37 23 9 13 69.2 0 1 0.0 5 11 45.5 3 5 8 2 0 2 3 3 -11
+p626
+aVDarius Morris BKN 12/17/2014 BKN @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p627
+aVJoe Johnson BKN 12/17/2014 BKN @ TOR L 38 17 8 17 47.1 1 4 25.0 0 3 0.0 1 7 8 3 1 0 2 1 -14
+p628
+aVJarrett Jack BKN 12/17/2014 BKN @ TOR L 24 4 2 6 33.3 0 0 - 0 0 - 0 2 2 3 1 1 0 1 -15
+p629
+aVMason Plumlee BKN 12/16/2014 BKN vs. MIA L 32 21 8 12 66.7 0 0 - 5 8 62.5 5 4 9 1 1 1 4 2 -4
+p630
+aVSergey Karasev BKN 12/16/2014 BKN vs. MIA L 22 11 4 9 44.4 1 4 25.0 2 3 66.7 2 1 3 3 0 1 1 2 -3
+p631
+aVDeron Williams BKN 12/16/2014 BKN vs. MIA L 39 15 4 12 33.3 1 5 20.0 6 7 85.7 0 1 1 11 2 0 2 1 3
+p632
+aVMirza Teletovic BKN 12/16/2014 BKN vs. MIA L 11 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 2 -4
+p633
+aVJoe Johnson BKN 12/16/2014 BKN vs. MIA L 37 16 6 14 42.9 4 8 50.0 0 0 - 0 3 3 3 0 0 1 3 8
+p634
+aVAlan Anderson BKN 12/16/2014 BKN vs. MIA L 17 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 0 1 0 0 5 2
+p635
+aVDarius Morris BKN 12/16/2014 BKN vs. MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p636
+aVBojan Bogdanovic BKN 12/16/2014 BKN vs. MIA L 16 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 0 1 0 1 1 -3
+p637
+aVJerome Jordan BKN 12/16/2014 BKN vs. MIA L 5 3 1 2 50.0 0 0 - 1 2 50.0 3 0 3 0 0 0 1 2 -4
+p638
+aVJarrett Jack BKN 12/16/2014 BKN vs. MIA L 29 5 1 6 16.7 0 3 0.0 3 4 75.0 0 2 2 5 3 0 4 3 -10
+p639
+aVKevin Garnett BKN 12/16/2014 BKN vs. MIA L 21 4 2 6 33.3 0 0 - 0 0 - 1 9 10 1 1 0 1 2 4
+p640
+aVCory Jefferson BKN 12/16/2014 BKN vs. MIA L 10 4 1 4 25.0 0 0 - 2 4 50.0 0 2 2 0 0 0 2 3 -9
+p641
+aVDarius Morris BKN 12/13/2014 BKN @ CHA W 5 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 1 0 0 1 0 -2
+p642
+aVBojan Bogdanovic BKN 12/13/2014 BKN @ CHA W 19 12 4 6 66.7 4 5 80.0 0 0 - 0 6 6 1 0 1 0 1 7
+p643
+aVDeron Williams BKN 12/13/2014 BKN @ CHA W 26 18 4 11 36.4 3 4 75.0 7 7 100.0 0 2 2 10 0 0 2 2 24
+p644
+aVCory Jefferson BKN 12/13/2014 BKN @ CHA W 23 11 5 5 100.0 0 0 - 1 1 100.0 1 4 5 2 0 1 0 4 23
+p645
+aVJoe Johnson BKN 12/13/2014 BKN @ CHA W 31 22 9 16 56.3 4 6 66.7 0 0 - 0 7 7 3 2 0 3 4 27
+p646
+aVAlan Anderson BKN 12/13/2014 BKN @ CHA W 25 17 6 7 85.7 4 5 80.0 1 1 100.0 0 1 1 3 0 0 0 2 7
+p647
+aVJerome Jordan BKN 12/13/2014 BKN @ CHA W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -1
+p648
+aVBrandon Davies BKN 12/13/2014 BKN @ CHA W 16 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 0 0 1 2 1 -7
+p649
+aVMarkel Brown BKN 12/13/2014 BKN @ CHA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -2
+p650
+aVJarrett Jack BKN 12/13/2014 BKN @ CHA W 20 14 5 9 55.6 0 0 - 4 4 100.0 0 2 2 5 0 0 2 3 4
+p651
+aVSergey Karasev BKN 12/13/2014 BKN @ CHA W 23 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 2 4 20
+p652
+aVMason Plumlee BKN 12/13/2014 BKN @ CHA W 38 11 5 8 62.5 0 0 - 1 6 16.7 3 10 13 2 0 1 0 2 35
+p653
+aVBojan Bogdanovic BKN 12/12/2014 BKN vs. PHI W 17 9 4 6 66.7 1 3 33.3 0 2 0.0 1 0 1 0 1 1 2 2 13
+p654
+aVJarrett Jack BKN 12/12/2014 BKN vs. PHI W 21 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 5 1 0 1 4 4
+p655
+aVCory Jefferson BKN 12/12/2014 BKN vs. PHI W 28 6 3 7 42.9 0 0 - 0 2 0.0 1 6 7 0 1 3 1 1 13
+p656
+aVJoe Johnson BKN 12/12/2014 BKN vs. PHI W 27 12 5 11 45.5 2 5 40.0 0 0 - 0 2 2 2 1 0 5 0 4
+p657
+aVDarius Morris BKN 12/12/2014 BKN vs. PHI W 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p658
+aVDeron Williams BKN 12/12/2014 BKN vs. PHI W 29 3 0 8 0.0 0 5 0.0 3 4 75.0 1 3 4 10 3 0 2 1 8
+p659
+aVSergey Karasev BKN 12/12/2014 BKN vs. PHI W 28 11 4 9 44.4 1 3 33.3 2 2 100.0 1 1 2 0 2 0 0 3 3
+p660
+aVMason Plumlee BKN 12/12/2014 BKN vs. PHI W 35 18 9 14 64.3 0 0 - 0 0 - 4 6 10 0 2 0 2 2 8
+p661
+aVMarkel Brown BKN 12/12/2014 BKN vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p662
+aVAlan Anderson BKN 12/12/2014 BKN vs. PHI W 28 12 5 8 62.5 1 2 50.0 1 1 100.0 1 4 5 2 3 0 3 1 16
+p663
+aVBrandon Davies BKN 12/12/2014 BKN vs. PHI W 1 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 1 1 0 0 0 3
+p664
+aVKevin Garnett BKN 12/12/2014 BKN vs. PHI W 22 7 2 7 28.6 0 0 - 3 4 75.0 3 9 12 4 1 1 1 1 12
+p665
+aVJerome Jordan BKN 12/10/2014 BKN @ CHI L 29 10 3 7 42.9 0 0 - 4 4 100.0 4 2 6 0 1 1 0 3 -11
+p666
+aVBojan Bogdanovic BKN 12/10/2014 BKN @ CHI L 17 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 3 0 1 2 -3
+p667
+aVMarkel Brown BKN 12/10/2014 BKN @ CHI L 5 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 0 0 0 1 0 -4
+p668
+aVCory Jefferson BKN 12/10/2014 BKN @ CHI L 14 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 0 0 1 1 1 -14
+p669
+aVAlan Anderson BKN 12/10/2014 BKN @ CHI L 24 12 5 10 50.0 2 6 33.3 0 0 - 0 3 3 0 0 0 0 2 -11
+p670
+aVKevin Garnett BKN 12/10/2014 BKN @ CHI L 26 13 6 15 40.0 0 0 - 1 1 100.0 3 4 7 2 2 0 0 3 -9
+p671
+aVDeron Williams BKN 12/10/2014 BKN @ CHI L 32 17 5 15 33.3 1 1 100.0 6 7 85.7 0 2 2 5 2 0 2 3 -20
+p672
+aVJorge Gutierrez BKN 12/10/2014 BKN @ CHI L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -4
+p673
+aVJarrett Jack BKN 12/10/2014 BKN @ CHI L 30 7 1 8 12.5 0 2 0.0 5 6 83.3 1 5 6 4 0 0 1 1 -27
+p674
+aVMason Plumlee BKN 12/10/2014 BKN @ CHI L 28 8 3 11 27.3 0 0 - 2 5 40.0 5 3 8 2 0 3 3 5 -16
+p675
+aVSergey Karasev BKN 12/10/2014 BKN @ CHI L 31 6 3 8 37.5 0 3 0.0 0 0 - 1 5 6 1 1 0 1 5 -6
+p676
+aVJorge Gutierrez BKN 12/08/2014 BKN vs. CLE L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 1 4
+p677
+aVAlan Anderson BKN 12/08/2014 BKN vs. CLE L 32 6 3 7 42.9 0 3 0.0 0 0 - 0 5 5 0 2 0 1 3 -13
+p678
+aVMirza Teletovic BKN 12/08/2014 BKN vs. CLE L 22 11 5 12 41.7 1 6 16.7 0 2 0.0 1 3 4 2 0 1 0 3 -3
+p679
+aVKevin Garnett BKN 12/08/2014 BKN vs. CLE L 19 14 6 9 66.7 0 0 - 2 3 66.7 2 5 7 0 0 0 2 1 5
+p680
+aVMason Plumlee BKN 12/08/2014 BKN vs. CLE L 19 9 4 8 50.0 0 0 - 1 4 25.0 2 1 3 1 0 0 0 1 -12
+p681
+aVBojan Bogdanovic BKN 12/08/2014 BKN vs. CLE L 23 2 1 6 16.7 0 3 0.0 0 0 - 2 1 3 1 1 0 0 3 -6
+p682
+aVCory Jefferson BKN 12/08/2014 BKN vs. CLE L 10 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p683
+aVSergey Karasev BKN 12/08/2014 BKN vs. CLE L 14 11 4 5 80.0 1 1 100.0 2 2 100.0 1 0 1 0 1 0 0 0 -6
+p684
+aVDeron Williams BKN 12/08/2014 BKN vs. CLE L 35 13 3 14 21.4 1 4 25.0 6 6 100.0 0 2 2 11 0 0 3 1 -18
+p685
+aVJarrett Jack BKN 12/08/2014 BKN vs. CLE L 23 4 1 4 25.0 1 1 100.0 1 2 50.0 0 1 1 5 1 0 2 1 -23
+p686
+aVMarkel Brown BKN 12/08/2014 BKN vs. CLE L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -4
+p687
+aVJerome Jordan BKN 12/08/2014 BKN vs. CLE L 26 12 6 8 75.0 0 0 - 0 0 - 2 1 3 2 1 1 3 4 -30
+p688
+aVMason Plumlee BKN 12/05/2014 BKN vs. ATL L 13 0 0 3 0.0 0 0 - 0 4 0.0 2 5 7 1 0 1 1 2 -14
+p689
+aVJorge Gutierrez BKN 12/05/2014 BKN vs. ATL L 16 6 3 6 50.0 0 1 0.0 0 1 0.0 0 2 2 3 1 0 0 3 -3
+p690
+aVCory Jefferson BKN 12/05/2014 BKN vs. ATL L 13 6 2 6 33.3 0 2 0.0 2 3 66.7 1 5 6 0 0 0 0 1 0
+p691
+aVJerome Jordan BKN 12/05/2014 BKN vs. ATL L 9 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 1 2 3
+p692
+aVMirza Teletovic BKN 12/05/2014 BKN vs. ATL L 19 0 0 4 0.0 0 3 0.0 0 0 - 0 5 5 3 0 0 3 1 -25
+p693
+aVBrook Lopez BKN 12/05/2014 BKN vs. ATL L 27 20 9 18 50.0 0 0 - 2 2 100.0 3 4 7 0 0 0 2 3 -10
+p694
+aVMarkel Brown BKN 12/05/2014 BKN vs. ATL L 13 5 1 4 25.0 0 2 0.0 3 4 75.0 0 1 1 1 0 0 3 0 -1
+p695
+aVAlan Anderson BKN 12/05/2014 BKN vs. ATL L 21 0 0 6 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 1 2 -9
+p696
+aVBojan Bogdanovic BKN 12/05/2014 BKN vs. ATL L 22 5 2 4 50.0 1 3 33.3 0 0 - 1 2 3 1 0 0 1 1 -12
+p697
+aVDeron Williams BKN 12/05/2014 BKN vs. ATL L 23 8 3 8 37.5 2 3 66.7 0 0 - 0 1 1 2 0 1 1 4 -9
+p698
+aVKevin Garnett BKN 12/05/2014 BKN vs. ATL L 16 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 0 0 0 0 -1
+p699
+aVJoe Johnson BKN 12/05/2014 BKN vs. ATL L 29 12 4 8 50.0 0 2 0.0 4 4 100.0 0 6 6 4 1 0 3 0 -16
+p700
+aVJarrett Jack BKN 12/05/2014 BKN vs. ATL L 19 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 2 0 1 2 -18
+p701
+aVJarrett Jack BKN 12/03/2014 BKN vs. SAS W 28 8 4 10 40.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 -13
+p702
+aVDeron Williams BKN 12/03/2014 BKN vs. SAS W 39 17 6 15 40.0 2 5 40.0 3 4 75.0 0 3 3 9 0 0 2 2 5
+p703
+aVJoe Johnson BKN 12/03/2014 BKN vs. SAS W 42 8 4 16 25.0 0 1 0.0 0 0 - 3 2 5 2 1 0 1 1 1
+p704
+aVAlan Anderson BKN 12/03/2014 BKN vs. SAS W 16 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -6
+p705
+aVBrook Lopez BKN 12/03/2014 BKN vs. SAS W 45 16 6 17 35.3 0 0 - 4 4 100.0 2 14 16 3 0 2 0 1 3
+p706
+aVJerome Jordan BKN 12/03/2014 BKN vs. SAS W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -1
+p707
+aVBojan Bogdanovic BKN 12/03/2014 BKN vs. SAS W 34 14 5 10 50.0 2 4 50.0 2 2 100.0 1 7 8 0 0 0 2 1 16
+p708
+aVMirza Teletovic BKN 12/03/2014 BKN vs. SAS W 43 26 9 13 69.2 5 7 71.4 3 4 75.0 1 14 15 2 0 0 0 2 4
+p709
+aVMason Plumlee BKN 12/03/2014 BKN vs. SAS W 10 2 1 3 33.3 0 0 - 0 4 0.0 1 2 3 0 0 0 1 1 1
+p710
+aVJarrett Jack BKN 12/02/2014 BKN @ NYK W 18 4 2 8 25.0 0 2 0.0 0 0 - 1 2 3 1 1 0 4 1 -7
+p711
+aVMason Plumlee BKN 12/02/2014 BKN @ NYK W 19 10 4 6 66.7 0 0 - 2 6 33.3 5 3 8 2 1 1 0 4 4
+p712
+aVKevin Garnett BKN 12/02/2014 BKN @ NYK W 29 6 3 11 27.3 0 0 - 0 0 - 6 7 13 2 1 0 3 4 4
+p713
+aVMirza Teletovic BKN 12/02/2014 BKN @ NYK W 11 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 1 0 0 3 1 0
+p714
+aVJerome Jordan BKN 12/02/2014 BKN @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p715
+aVJorge Gutierrez BKN 12/02/2014 BKN @ NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p716
+aVBojan Bogdanovic BKN 12/02/2014 BKN @ NYK W 40 10 5 11 45.5 0 1 0.0 0 0 - 2 0 2 2 1 0 1 1 10
+p717
+aVAlan Anderson BKN 12/02/2014 BKN @ NYK W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -5
+p718
+aVJoe Johnson BKN 12/02/2014 BKN @ NYK W 37 22 7 14 50.0 1 4 25.0 7 7 100.0 3 5 8 6 3 1 2 1 10
+p719
+aVBrook Lopez BKN 12/02/2014 BKN @ NYK W 35 23 10 20 50.0 0 0 - 3 4 75.0 3 5 8 2 0 3 1 2 6
+p720
+aVDeron Williams BKN 12/02/2014 BKN @ NYK W 35 19 6 12 50.0 5 8 62.5 2 3 66.7 0 5 5 5 0 0 0 1 9
+p721
+aVDeron Williams BKN 11/30/2014 BKN vs. CHI L 34 10 3 12 25.0 0 1 0.0 4 4 100.0 0 1 1 3 1 0 2 0 -20
+p722
+aVJarrett Jack BKN 11/30/2014 BKN vs. CHI L 27 12 5 13 38.5 0 1 0.0 2 2 100.0 1 3 4 4 1 0 0 0 -15
+p723
+aVMirza Teletovic BKN 11/30/2014 BKN vs. CHI L 16 4 1 6 16.7 0 3 0.0 2 2 100.0 1 2 3 0 0 0 2 2 -17
+p724
+aVJerome Jordan BKN 11/30/2014 BKN vs. CHI L 13 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 1 0 1 3 -4
+p725
+aVMason Plumlee BKN 11/30/2014 BKN vs. CHI L 16 9 2 5 40.0 0 0 - 5 10 50.0 2 1 3 0 0 0 1 3 -5
+p726
+aVAlan Anderson BKN 11/30/2014 BKN vs. CHI L 12 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 1 0 0 5 0
+p727
+aVJoe Johnson BKN 11/30/2014 BKN vs. CHI L 28 3 1 7 14.3 0 3 0.0 1 2 50.0 0 4 4 1 1 0 3 3 -13
+p728
+aVJorge Gutierrez BKN 11/30/2014 BKN vs. CHI L 4 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p729
+aVCory Jefferson BKN 11/30/2014 BKN vs. CHI L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 6
+p730
+aVBrook Lopez BKN 11/30/2014 BKN vs. CHI L 22 11 5 11 45.5 0 0 - 1 1 100.0 0 2 2 0 0 0 0 5 -7
+p731
+aVSergey Karasev BKN 11/30/2014 BKN vs. CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p732
+aVKevin Garnett BKN 11/30/2014 BKN vs. CHI L 24 7 3 7 42.9 0 0 - 1 1 100.0 0 7 7 3 3 0 0 1 -6
+p733
+aVBojan Bogdanovic BKN 11/30/2014 BKN vs. CHI L 31 13 6 12 50.0 1 4 25.0 0 0 - 2 3 5 2 1 0 1 2 -15
+p734
+aVBrook Lopez BKN 11/26/2014 BKN @ PHI W 29 19 9 12 75.0 0 0 - 1 4 25.0 1 6 7 0 0 3 6 5 11
+p735
+aVJarrett Jack BKN 11/26/2014 BKN @ PHI W 19 4 2 7 28.6 0 3 0.0 0 0 - 0 2 2 4 0 0 1 2 -7
+p736
+aVJoe Johnson BKN 11/26/2014 BKN @ PHI W 34 21 8 12 66.7 3 4 75.0 2 2 100.0 0 2 2 4 0 0 1 4 15
+p737
+aVAlan Anderson BKN 11/26/2014 BKN @ PHI W 28 12 4 7 57.1 1 2 50.0 3 3 100.0 0 4 4 0 1 1 4 0 -8
+p738
+aVBojan Bogdanovic BKN 11/26/2014 BKN @ PHI W 26 6 2 5 40.0 1 3 33.3 1 2 50.0 0 1 1 1 0 0 0 1 15
+p739
+aVDeron Williams BKN 11/26/2014 BKN @ PHI W 37 17 4 10 40.0 2 5 40.0 7 7 100.0 1 7 8 10 2 1 4 4 9
+p740
+aVMirza Teletovic BKN 11/26/2014 BKN @ PHI W 33 9 2 11 18.2 1 7 14.3 4 6 66.7 1 5 6 3 3 0 5 0 -1
+p741
+aVKevin Garnett BKN 11/26/2014 BKN @ PHI W 28 9 3 5 60.0 0 0 - 3 4 75.0 0 9 9 3 4 1 3 2 15
+p742
+aVMason Plumlee BKN 11/26/2014 BKN @ PHI W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p743
+aVJerome Jordan BKN 11/26/2014 BKN @ PHI W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -6
+p744
+aVBojan Bogdanovic BKN 11/22/2014 BKN @ SAS L 24 2 0 7 0.0 0 5 0.0 2 2 100.0 0 2 2 1 0 0 0 0 -21
+p745
+aVJoe Johnson BKN 11/22/2014 BKN @ SAS L 35 12 5 16 31.3 2 7 28.6 0 0 - 2 2 4 5 0 1 1 2 -3
+p746
+aVDeron Williams BKN 11/22/2014 BKN @ SAS L 37 24 10 21 47.6 2 4 50.0 2 2 100.0 1 4 5 7 2 2 3 3 -5
+p747
+aVMirza Teletovic BKN 11/22/2014 BKN @ SAS L 34 22 8 14 57.1 4 8 50.0 2 2 100.0 1 7 8 1 0 0 3 1 -7
+p748
+aVBrook Lopez BKN 11/22/2014 BKN @ SAS L 25 6 3 8 37.5 0 0 - 0 0 - 3 1 4 1 0 1 2 3 -16
+p749
+aVSergey Karasev BKN 11/22/2014 BKN @ SAS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 3
+p750
+aVAlan Anderson BKN 11/22/2014 BKN @ SAS L 22 2 1 6 16.7 0 1 0.0 0 0 - 4 3 7 0 2 0 0 1 -12
+p751
+aVJorge Gutierrez BKN 11/22/2014 BKN @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 3
+p752
+aVMarkel Brown BKN 11/22/2014 BKN @ SAS L 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p753
+aVJarrett Jack BKN 11/22/2014 BKN @ SAS L 25 6 2 7 28.6 0 0 - 2 2 100.0 1 5 6 5 1 1 2 1 -7
+p754
+aVCory Jefferson BKN 11/22/2014 BKN @ SAS L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p755
+aVMason Plumlee BKN 11/22/2014 BKN @ SAS L 8 3 1 4 25.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 -5
+p756
+aVJerome Jordan BKN 11/22/2014 BKN @ SAS L 13 5 2 3 66.7 0 0 - 1 1 100.0 0 5 5 0 0 0 0 0 4
+p757
+aVMason Plumlee BKN 11/21/2014 BKN @ OKC W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 0
+p758
+aVJarrett Jack BKN 11/21/2014 BKN @ OKC W 31 23 8 15 53.3 1 2 50.0 6 7 85.7 0 2 2 5 0 0 2 1 3
+p759
+aVKevin Garnett BKN 11/21/2014 BKN @ OKC W 18 4 1 2 50.0 0 0 - 2 2 100.0 0 5 5 0 0 0 1 1 -14
+p760
+aVJerome Jordan BKN 11/21/2014 BKN @ OKC W 13 4 1 1 100.0 0 0 - 2 2 100.0 2 2 4 1 0 1 1 2 4
+p761
+aVAlan Anderson BKN 11/21/2014 BKN @ OKC W 25 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 3 0 0 0 3 14
+p762
+aVJoe Johnson BKN 11/21/2014 BKN @ OKC W 32 8 2 5 40.0 1 2 50.0 3 4 75.0 0 1 1 3 0 1 4 1 -2
+p763
+aVBojan Bogdanovic BKN 11/21/2014 BKN @ OKC W 24 3 0 5 0.0 0 1 0.0 3 4 75.0 0 0 0 0 0 0 2 1 -6
+p764
+aVBrook Lopez BKN 11/21/2014 BKN @ OKC W 35 16 6 12 50.0 0 0 - 4 4 100.0 4 6 10 0 0 3 4 2 -1
+p765
+aVMirza Teletovic BKN 11/21/2014 BKN @ OKC W 28 13 6 12 50.0 1 6 16.7 0 0 - 0 7 7 1 1 1 0 2 15
+p766
+aVDeron Williams BKN 11/21/2014 BKN @ OKC W 31 17 4 11 36.4 2 3 66.7 7 7 100.0 3 2 5 4 1 0 4 2 -3
+p767
+aVMason Plumlee BKN 11/19/2014 BKN vs. MIL L 7 3 1 2 50.0 0 0 - 1 3 33.3 0 2 2 0 1 0 0 2 -2
+p768
+aVKevin Garnett BKN 11/19/2014 BKN vs. MIL L 31 4 1 4 25.0 0 1 0.0 2 2 100.0 2 7 9 3 2 0 0 3 5
+p769
+aVBrook Lopez BKN 11/19/2014 BKN vs. MIL L 44 26 11 19 57.9 0 0 - 4 4 100.0 2 5 7 2 1 3 7 3 -5
+p770
+aVBojan Bogdanovic BKN 11/19/2014 BKN vs. MIL L 47 19 7 16 43.8 4 11 36.4 1 2 50.0 3 4 7 0 0 0 1 1 -14
+p771
+aVJarrett Jack BKN 11/19/2014 BKN vs. MIL L 35 14 5 9 55.6 0 2 0.0 4 6 66.7 0 9 9 4 1 0 3 2 6
+p772
+aVJoe Johnson BKN 11/19/2014 BKN vs. MIL L 52 18 7 15 46.7 1 2 50.0 3 3 100.0 0 5 5 8 0 0 3 3 -3
+p773
+aVAlan Anderson BKN 11/19/2014 BKN vs. MIL L 11 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -1
+p774
+aVDeron Williams BKN 11/19/2014 BKN vs. MIL L 52 18 7 14 50.0 3 7 42.9 1 2 50.0 1 4 5 7 2 0 4 4 -1
+p775
+aVMirza Teletovic BKN 11/19/2014 BKN vs. MIL L 28 14 4 10 40.0 1 7 14.3 5 7 71.4 0 3 3 1 0 2 1 4 -12
+p776
+aVJerome Jordan BKN 11/19/2014 BKN vs. MIL L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 1 1 2 7
+p777
+aVBrook Lopez BKN 11/17/2014 BKN vs. MIA L 22 5 2 8 25.0 0 0 - 1 2 50.0 0 1 1 2 1 1 1 3 -13
+p778
+aVBojan Bogdanovic BKN 11/17/2014 BKN vs. MIA L 41 22 8 11 72.7 4 5 80.0 2 2 100.0 2 1 3 1 1 0 2 3 -10
+p779
+aVJarrett Jack BKN 11/17/2014 BKN vs. MIA L 24 15 5 9 55.6 1 1 100.0 4 4 100.0 0 0 0 4 1 0 1 4 -9
+p780
+aVAlan Anderson BKN 11/17/2014 BKN vs. MIA L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 3 1 -4
+p781
+aVJerome Jordan BKN 11/17/2014 BKN vs. MIA L 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p782
+aVKevin Garnett BKN 11/17/2014 BKN vs. MIA L 25 4 2 4 50.0 0 0 - 0 0 - 2 7 9 0 0 1 1 0 -15
+p783
+aVJoe Johnson BKN 11/17/2014 BKN vs. MIA L 37 6 2 9 22.2 1 5 20.0 1 2 50.0 0 4 4 1 1 0 0 1 -12
+p784
+aVMirza Teletovic BKN 11/17/2014 BKN vs. MIA L 21 11 3 7 42.9 1 3 33.3 4 6 66.7 0 4 4 1 0 2 1 2 2
+p785
+aVDeron Williams BKN 11/17/2014 BKN vs. MIA L 35 14 4 13 30.8 2 8 25.0 4 5 80.0 1 4 5 7 4 1 3 4 -9
+p786
+aVMason Plumlee BKN 11/17/2014 BKN vs. MIA L 14 2 1 5 20.0 0 0 - 0 5 0.0 5 2 7 2 1 0 0 0 7
+p787
+aVDeron Williams BKN 11/15/2014 BKN @ POR L 37 19 6 15 40.0 1 4 25.0 6 6 100.0 0 2 2 6 0 0 2 2 -5
+p788
+aVJarrett Jack BKN 11/15/2014 BKN @ POR L 26 10 4 12 33.3 0 3 0.0 2 2 100.0 0 3 3 1 1 0 1 3 -9
+p789
+aVAlan Anderson BKN 11/15/2014 BKN @ POR L 13 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 1 0 2 1 -4
+p790
+aVMason Plumlee BKN 11/15/2014 BKN @ POR L 18 1 0 4 0.0 0 0 - 1 2 50.0 1 4 5 0 2 0 0 3 -3
+p791
+aVKevin Garnett BKN 11/15/2014 BKN @ POR L 27 12 5 8 62.5 0 1 0.0 2 2 100.0 2 10 12 0 0 0 0 3 -1
+p792
+aVCory Jefferson BKN 11/15/2014 BKN @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p793
+aVJoe Johnson BKN 11/15/2014 BKN @ POR L 36 20 9 18 50.0 0 2 0.0 2 2 100.0 3 3 6 5 1 0 0 2 1
+p794
+aVBrook Lopez BKN 11/15/2014 BKN @ POR L 30 21 10 17 58.8 0 0 - 1 1 100.0 1 3 4 1 2 1 3 4 3
+p795
+aVJerome Jordan BKN 11/15/2014 BKN @ POR L 7 2 0 0 - 0 0 - 2 2 100.0 2 1 3 1 0 1 0 1 -9
+p796
+aVBojan Bogdanovic BKN 11/15/2014 BKN @ POR L 28 0 0 5 0.0 0 4 0.0 0 0 - 0 2 2 0 0 0 0 0 -4
+p797
+aVJorge Gutierrez BKN 11/15/2014 BKN @ POR L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p798
+aVMirza Teletovic BKN 11/15/2014 BKN @ POR L 14 2 1 7 14.3 0 4 0.0 0 0 - 2 2 4 1 0 0 0 4 -10
+p799
+aVJarrett Jack BKN 11/13/2014 BKN @ GSW L 25 23 10 10 100.0 0 0 - 3 4 75.0 0 3 3 3 0 0 3 4 0
+p800
+aVJoe Johnson BKN 11/13/2014 BKN @ GSW L 32 12 5 12 41.7 0 2 0.0 2 2 100.0 1 4 5 4 3 0 1 2 -10
+p801
+aVJorge Gutierrez BKN 11/13/2014 BKN @ GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p802
+aVBrook Lopez BKN 11/13/2014 BKN @ GSW L 27 18 7 17 41.2 0 0 - 4 4 100.0 2 3 5 0 0 0 3 3 0
+p803
+aVCory Jefferson BKN 11/13/2014 BKN @ GSW L 0 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p804
+aVDeron Williams BKN 11/13/2014 BKN @ GSW L 33 18 7 14 50.0 2 3 66.7 2 2 100.0 0 4 4 5 2 0 3 3 -12
+p805
+aVAlan Anderson BKN 11/13/2014 BKN @ GSW L 24 2 1 9 11.1 0 6 0.0 0 0 - 0 4 4 1 0 0 0 3 -3
+p806
+aVBojan Bogdanovic BKN 11/13/2014 BKN @ GSW L 37 9 4 8 50.0 1 3 33.3 0 0 - 0 3 3 2 0 0 1 1 -4
+p807
+aVKevin Garnett BKN 11/13/2014 BKN @ GSW L 13 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 0 0 4 0
+p808
+aVMason Plumlee BKN 11/13/2014 BKN @ GSW L 20 13 3 9 33.3 0 1 0.0 7 8 87.5 2 6 8 1 0 1 0 1 -4
+p809
+aVAndrei Kirilenko BKN 11/13/2014 BKN @ GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p810
+aVMirza Teletovic BKN 11/13/2014 BKN @ GSW L 24 0 0 4 0.0 0 1 0.0 0 0 - 1 3 4 2 0 1 1 1 -2
+p811
+aVJoe Johnson BKN 11/12/2014 BKN @ PHX L 37 21 7 16 43.8 1 3 33.3 6 7 85.7 0 5 5 3 2 0 1 1 2
+p812
+aVMirza Teletovic BKN 11/12/2014 BKN @ PHX L 33 16 6 11 54.5 4 8 50.0 0 0 - 4 3 7 4 1 0 2 5 5
+p813
+aVJorge Gutierrez BKN 11/12/2014 BKN @ PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p814
+aVCory Jefferson BKN 11/12/2014 BKN @ PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p815
+aVBrook Lopez BKN 11/12/2014 BKN @ PHX L 26 16 6 13 46.2 0 0 - 4 5 80.0 1 2 3 0 2 1 0 3 4
+p816
+aVKevin Garnett BKN 11/12/2014 BKN @ PHX L 27 12 5 8 62.5 0 0 - 2 2 100.0 2 8 10 2 0 0 2 3 -17
+p817
+aVMason Plumlee BKN 11/12/2014 BKN @ PHX L 9 1 0 2 0.0 0 0 - 1 4 25.0 1 3 4 0 1 3 2 2 -2
+p818
+aVBojan Bogdanovic BKN 11/12/2014 BKN @ PHX L 33 14 4 10 40.0 2 4 50.0 4 4 100.0 0 2 2 0 1 0 2 2 1
+p819
+aVDeron Williams BKN 11/12/2014 BKN @ PHX L 34 14 5 10 50.0 2 5 40.0 2 2 100.0 0 4 4 5 1 0 5 4 -7
+p820
+aVJarrett Jack BKN 11/12/2014 BKN @ PHX L 24 8 2 4 50.0 0 1 0.0 4 4 100.0 0 2 2 3 1 0 5 1 -11
+p821
+aVAndrei Kirilenko BKN 11/12/2014 BKN @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p822
+aVAlan Anderson BKN 11/12/2014 BKN @ PHX L 13 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 0 4 -9
+p823
+aVJarrett Jack BKN 11/09/2014 BKN vs. ORL W 23 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 2 1 0 1 -5
+p824
+aVMirza Teletovic BKN 11/09/2014 BKN vs. ORL W 20 7 3 8 37.5 1 6 16.7 0 0 - 0 4 4 3 0 0 2 2 -7
+p825
+aVBojan Bogdanovic BKN 11/09/2014 BKN vs. ORL W 32 22 9 12 75.0 2 3 66.7 2 2 100.0 4 2 6 1 2 0 1 2 13
+p826
+aVMason Plumlee BKN 11/09/2014 BKN vs. ORL W 16 12 4 8 50.0 0 0 - 4 6 66.7 5 5 10 0 1 1 1 0 -7
+p827
+aVBrook Lopez BKN 11/09/2014 BKN vs. ORL W 26 12 4 9 44.4 0 0 - 4 4 100.0 3 2 5 0 1 3 1 2 7
+p828
+aVDeron Williams BKN 11/09/2014 BKN vs. ORL W 41 18 7 12 58.3 0 1 0.0 4 4 100.0 0 4 4 7 2 0 2 3 6
+p829
+aVJoe Johnson BKN 11/09/2014 BKN vs. ORL W 32 13 5 14 35.7 1 3 33.3 2 3 66.7 0 5 5 4 1 0 3 3 14
+p830
+aVAlan Anderson BKN 11/09/2014 BKN vs. ORL W 22 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 2 4 4
+p831
+aVKevin Garnett BKN 11/09/2014 BKN vs. ORL W 28 8 3 9 33.3 0 0 - 2 2 100.0 2 6 8 7 1 0 2 4 15
+p832
+aVJoe Johnson BKN 11/07/2014 BKN vs. NYK W 32 18 6 13 46.2 4 6 66.7 2 2 100.0 0 7 7 2 1 0 2 3 16
+p833
+aVMirza Teletovic BKN 11/07/2014 BKN vs. NYK W 27 18 6 10 60.0 4 6 66.7 2 2 100.0 0 3 3 0 0 0 0 2 3
+p834
+aVBrook Lopez BKN 11/07/2014 BKN vs. NYK W 31 20 6 10 60.0 0 0 - 8 10 80.0 3 6 9 1 1 2 0 4 10
+p835
+aVJarrett Jack BKN 11/07/2014 BKN vs. NYK W 19 4 2 5 40.0 0 0 - 0 0 - 0 1 1 5 1 0 2 2 -3
+p836
+aVAndrei Kirilenko BKN 11/07/2014 BKN vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p837
+aVMason Plumlee BKN 11/07/2014 BKN vs. NYK W 21 1 0 4 0.0 0 0 - 1 2 50.0 1 4 5 1 0 3 0 4 13
+p838
+aVSergey Karasev BKN 11/07/2014 BKN vs. NYK W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -8
+p839
+aVKevin Garnett BKN 11/07/2014 BKN vs. NYK W 13 4 2 3 66.7 0 0 - 0 0 - 0 5 5 1 0 1 2 3 6
+p840
+aVJerome Jordan BKN 11/07/2014 BKN vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -5
+p841
+aVDeron Williams BKN 11/07/2014 BKN vs. NYK W 33 29 10 15 66.7 2 3 66.7 7 10 70.0 0 1 1 6 1 0 3 2 19
+p842
+aVBojan Bogdanovic BKN 11/07/2014 BKN vs. NYK W 32 8 3 7 42.9 2 5 40.0 0 0 - 0 4 4 2 0 0 4 1 10
+p843
+aVAlan Anderson BKN 11/07/2014 BKN vs. NYK W 22 8 3 7 42.9 2 4 50.0 0 0 - 3 3 6 0 0 0 0 2 -1
+p844
+aVBrook Lopez BKN 11/05/2014 BKN vs. MIN L 34 10 5 14 35.7 0 0 - 0 1 0.0 2 3 5 0 2 2 4 4 -27
+p845
+aVAndrei Kirilenko BKN 11/05/2014 BKN vs. MIN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p846
+aVAlan Anderson BKN 11/05/2014 BKN vs. MIN L 25 4 1 1 100.0 0 0 - 2 3 66.7 1 1 2 2 1 1 2 1 5
+p847
+aVBojan Bogdanovic BKN 11/05/2014 BKN vs. MIN L 23 9 3 8 37.5 1 4 25.0 2 2 100.0 1 1 2 0 1 0 0 2 -8
+p848
+aVJoe Johnson BKN 11/05/2014 BKN vs. MIN L 31 22 9 17 52.9 1 4 25.0 3 4 75.0 1 2 3 2 0 0 3 4 -7
+p849
+aVMirza Teletovic BKN 11/05/2014 BKN vs. MIN L 21 9 3 8 37.5 3 7 42.9 0 0 - 0 6 6 0 0 1 1 0 16
+p850
+aVJarrett Jack BKN 11/05/2014 BKN vs. MIN L 24 14 5 8 62.5 0 0 - 4 4 100.0 0 5 5 4 1 0 3 3 5
+p851
+aVMason Plumlee BKN 11/05/2014 BKN vs. MIN L 13 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 1 1 0 0 2 17
+p852
+aVDeron Williams BKN 11/05/2014 BKN vs. MIN L 39 19 8 16 50.0 3 6 50.0 0 1 0.0 0 2 2 6 0 1 4 3 -18
+p853
+aVJerome Jordan BKN 11/05/2014 BKN vs. MIN L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p854
+aVKevin Garnett BKN 11/05/2014 BKN vs. MIN L 25 2 1 7 14.3 0 0 - 0 0 - 1 10 11 2 0 0 0 3 -21
+p855
+aVBojan Bogdanovic BKN 11/03/2014 BKN vs. OKC W 27 12 5 10 50.0 2 6 33.3 0 0 - 0 2 2 2 2 0 0 2 14
+p856
+aVSergey Karasev BKN 11/03/2014 BKN vs. OKC W 5 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 0 -2
+p857
+aVAndrei Kirilenko BKN 11/03/2014 BKN vs. OKC W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -2
+p858
+aVJoe Johnson BKN 11/03/2014 BKN vs. OKC W 28 13 5 10 50.0 2 2 100.0 1 2 50.0 0 6 6 6 0 0 1 0 16
+p859
+aVMason Plumlee BKN 11/03/2014 BKN vs. OKC W 16 10 5 9 55.6 0 0 - 0 0 - 2 6 8 1 0 0 0 1 27
+p860
+aVBrook Lopez BKN 11/03/2014 BKN vs. OKC W 24 18 6 10 60.0 0 0 - 6 7 85.7 2 4 6 0 1 2 1 3 -2
+p861
+aVJerome Jordan BKN 11/03/2014 BKN vs. OKC W 11 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 1 0 2 1 6
+p862
+aVMirza Teletovic BKN 11/03/2014 BKN vs. OKC W 21 8 3 8 37.5 2 6 33.3 0 0 - 1 2 3 2 1 1 1 3 21
+p863
+aVJorge Gutierrez BKN 11/03/2014 BKN vs. OKC W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p864
+aVKevin Garnett BKN 11/03/2014 BKN vs. OKC W 20 6 3 8 37.5 0 0 - 0 0 - 0 6 6 2 1 0 1 4 12
+p865
+aVAlan Anderson BKN 11/03/2014 BKN vs. OKC W 16 18 7 8 87.5 4 4 100.0 0 0 - 0 1 1 0 0 0 0 2 17
+p866
+aVJarrett Jack BKN 11/03/2014 BKN vs. OKC W 28 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 4 0 0 1 21
+p867
+aVDeron Williams BKN 11/03/2014 BKN vs. OKC W 37 17 4 8 50.0 1 4 25.0 8 8 100.0 0 3 3 9 1 0 2 1 29
+p868
+aVJarrett Jack BKN 11/01/2014 BKN @ DET W 22 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 3 0 0 1 3 13
+p869
+aVMason Plumlee BKN 11/01/2014 BKN @ DET W 21 10 4 6 66.7 0 1 0.0 2 4 50.0 4 1 5 0 1 0 1 3 -14
+p870
+aVKevin Garnett BKN 11/01/2014 BKN @ DET W 35 18 7 15 46.7 0 0 - 4 4 100.0 1 13 14 0 2 1 3 3 15
+p871
+aVDeron Williams BKN 11/01/2014 BKN @ DET W 41 15 7 19 36.8 1 5 20.0 0 0 - 1 1 2 6 0 1 0 4 11
+p872
+aVAlan Anderson BKN 11/01/2014 BKN @ DET W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 3 5
+p873
+aVAndrei Kirilenko BKN 11/01/2014 BKN @ DET W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p874
+aVSergey Karasev BKN 11/01/2014 BKN @ DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p875
+aVJerome Jordan BKN 11/01/2014 BKN @ DET W 12 6 3 3 100.0 0 0 - 0 0 - 4 1 5 0 0 1 1 1 11
+p876
+aVBojan Bogdanovic BKN 11/01/2014 BKN @ DET W 25 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 1 0 0 1 2 -7
+p877
+aVMirza Teletovic BKN 11/01/2014 BKN @ DET W 28 12 4 7 57.1 2 5 40.0 2 2 100.0 1 6 7 1 0 0 1 3 12
+p878
+aVJoe Johnson BKN 11/01/2014 BKN @ DET W 39 34 14 23 60.9 3 8 37.5 3 3 100.0 1 7 8 6 0 0 0 1 17
+p879
+aVJerome Jordan BKN 10/29/2014 BKN @ BOS L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -12
+p880
+aVJarrett Jack BKN 10/29/2014 BKN @ BOS L 30 11 5 9 55.6 0 0 - 1 2 50.0 0 2 2 2 2 0 1 1 -7
+p881
+aVMason Plumlee BKN 10/29/2014 BKN @ BOS L 11 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 2 2 4 -6
+p882
+aVSergey Karasev BKN 10/29/2014 BKN @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 0 3
+p883
+aVBojan Bogdanovic BKN 10/29/2014 BKN @ BOS L 26 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 2 0 1 2 3 -8
+p884
+aVMirza Teletovic BKN 10/29/2014 BKN @ BOS L 23 20 8 11 72.7 4 6 66.7 0 0 - 2 4 6 1 0 2 2 1 4
+p885
+aVCory Jefferson BKN 10/29/2014 BKN @ BOS L 9 8 2 2 100.0 0 0 - 4 6 66.7 1 1 2 0 0 0 0 1 16
+p886
+aVDeron Williams BKN 10/29/2014 BKN @ BOS L 39 19 6 16 37.5 0 3 0.0 7 7 100.0 0 3 3 8 2 1 4 1 -16
+p887
+aVKevin Garnett BKN 10/29/2014 BKN @ BOS L 23 10 5 8 62.5 0 0 - 0 0 - 0 6 6 3 0 0 4 2 -11
+p888
+aVAlan Anderson BKN 10/29/2014 BKN @ BOS L 25 4 1 4 25.0 0 3 0.0 2 2 100.0 0 2 2 1 0 1 1 2 -5
+p889
+aVJoe Johnson BKN 10/29/2014 BKN @ BOS L 34 19 7 19 36.8 2 5 40.0 3 5 60.0 2 4 6 3 1 0 2 4 -30
+p890
+aVAndrei Kirilenko BKN 10/29/2014 BKN @ BOS L 10 3 0 3 0.0 0 0 - 3 4 75.0 2 1 3 0 1 0 0 0 -8
+p891
+a.

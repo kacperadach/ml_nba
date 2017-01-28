@@ -1,0 +1,1646 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKyle Korver PHI 04/14/2004 PHI @ ORL L 14 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 0 0 0 1 1 -9
+p2
+aVKenny Thomas PHI 04/14/2004 PHI @ ORL L 42 18 8 15 53.3 0 0 - 2 9 22.2 1 5 6 2 0 0 1 5 1
+p3
+aVGreg Buckner PHI 04/14/2004 PHI @ ORL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -3
+p4
+aVWillie Green PHI 04/14/2004 PHI @ ORL L 22 11 5 9 55.6 0 2 0.0 1 2 50.0 0 3 3 4 0 0 3 4 -2
+p5
+aVAaron McKie PHI 04/14/2004 PHI @ ORL L 40 17 7 10 70.0 1 3 33.3 2 2 100.0 0 2 2 7 0 0 0 1 2
+p6
+aVZendon Hamilton PHI 04/14/2004 PHI @ ORL L 14 5 1 2 50.0 0 0 - 3 4 75.0 2 1 3 0 1 0 1 1 -6
+p7
+aVSamuel Dalembert PHI 04/14/2004 PHI @ ORL L 40 23 10 19 52.6 0 0 - 3 4 75.0 4 6 10 0 2 6 1 3 -7
+p8
+aVEric Snow PHI 04/14/2004 PHI @ ORL L 28 2 1 6 16.7 0 0 - 0 0 - 1 2 3 6 1 1 0 3 -4
+p9
+aVJohn Salmons PHI 04/14/2004 PHI @ ORL L 33 11 5 12 41.7 1 5 20.0 0 0 - 0 4 4 4 1 0 1 0 -2
+p10
+aVKenny Thomas PHI 04/12/2004 PHI vs. IND L 44 26 11 19 57.9 0 0 - 4 4 100.0 3 8 11 2 1 0 4 2 -13
+p11
+aVGreg Buckner PHI 04/12/2004 PHI vs. IND L 12 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 1 0 1 3 -1
+p12
+aVAaron McKie PHI 04/12/2004 PHI vs. IND L 33 13 6 10 60.0 1 2 50.0 0 1 0.0 0 1 1 3 2 0 1 2 -8
+p13
+aVWillie Green PHI 04/12/2004 PHI vs. IND L 21 6 3 11 27.3 0 1 0.0 0 0 - 0 2 2 5 1 0 1 1 -17
+p14
+aVEric Snow PHI 04/12/2004 PHI vs. IND L 38 16 8 12 66.7 0 0 - 0 0 - 0 1 1 8 0 0 3 2 -12
+p15
+aVJohn Salmons PHI 04/12/2004 PHI vs. IND L 32 0 0 3 0.0 0 2 0.0 0 0 - 0 5 5 6 1 0 1 1 -7
+p16
+aVSamuel Dalembert PHI 04/12/2004 PHI vs. IND L 22 6 3 7 42.9 0 0 - 0 0 - 0 4 4 0 0 1 0 5 -14
+p17
+aVAmal McCaskill PHI 04/12/2004 PHI vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p18
+aVKyle Korver PHI 04/12/2004 PHI vs. IND L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 1
+p19
+aVZendon Hamilton PHI 04/12/2004 PHI vs. IND L 23 21 9 10 90.0 0 0 - 3 3 100.0 2 0 2 0 0 0 5 4 4
+p20
+aVSamuel Dalembert PHI 04/11/2004 PHI @ NJN L 36 4 2 6 33.3 0 0 - 0 0 - 2 11 13 1 1 5 0 2 -14
+p21
+aVJohn Salmons PHI 04/11/2004 PHI @ NJN L 19 8 3 7 42.9 1 4 25.0 1 2 50.0 0 1 1 3 1 0 2 2 -6
+p22
+aVKyle Korver PHI 04/11/2004 PHI @ NJN L 17 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 2 2 0 1 1 -3
+p23
+aVAaron McKie PHI 04/11/2004 PHI @ NJN L 33 9 4 8 50.0 1 2 50.0 0 0 - 1 5 6 1 2 0 2 3 -13
+p24
+aVAmal McCaskill PHI 04/11/2004 PHI @ NJN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p25
+aVEric Snow PHI 04/11/2004 PHI @ NJN L 41 13 5 9 55.6 0 0 - 3 5 60.0 0 3 3 7 1 0 4 2 -17
+p26
+aVWillie Green PHI 04/11/2004 PHI @ NJN L 23 8 3 11 27.3 0 1 0.0 2 4 50.0 0 1 1 3 0 0 2 2 -4
+p27
+aVKenny Thomas PHI 04/11/2004 PHI @ NJN L 36 13 6 12 50.0 0 0 - 1 1 100.0 0 7 7 1 0 0 6 4 -9
+p28
+aVGreg Buckner PHI 04/11/2004 PHI @ NJN L 18 9 3 7 42.9 1 3 33.3 2 2 100.0 0 1 1 1 0 0 0 4 2
+p29
+aVZendon Hamilton PHI 04/11/2004 PHI @ NJN L 15 6 1 2 50.0 0 0 - 4 6 66.7 0 1 1 1 1 0 2 1 -8
+p30
+aVSamuel Dalembert PHI 04/09/2004 PHI vs. WAS L 35 11 4 9 44.4 0 0 - 3 3 100.0 7 2 9 1 1 2 1 3 -4
+p31
+aVJohn Salmons PHI 04/09/2004 PHI vs. WAS L 37 11 5 14 35.7 1 4 25.0 0 0 - 1 9 10 5 0 2 4 2 -4
+p32
+aVGreg Buckner PHI 04/09/2004 PHI vs. WAS L 18 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 2 0 0 1 1
+p33
+aVAaron McKie PHI 04/09/2004 PHI vs. WAS L 27 7 3 9 33.3 0 3 0.0 1 1 100.0 0 1 1 6 3 1 0 4 -3
+p34
+aVKenny Thomas PHI 04/09/2004 PHI vs. WAS L 44 24 11 20 55.0 0 0 - 2 5 40.0 4 5 9 4 0 1 3 2 3
+p35
+aVZendon Hamilton PHI 04/09/2004 PHI vs. WAS L 16 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 3 -1
+p36
+aVEric Snow PHI 04/09/2004 PHI vs. WAS L 34 2 1 8 12.5 0 0 - 0 0 - 2 1 3 4 0 0 0 2 -6
+p37
+aVWillie Green PHI 04/09/2004 PHI vs. WAS L 25 15 6 18 33.3 1 1 100.0 2 2 100.0 0 0 0 1 3 0 1 2 1
+p38
+aVKyle Korver PHI 04/09/2004 PHI vs. WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p39
+aVSamuel Dalembert PHI 04/06/2004 PHI @ ATL W 51 18 9 11 81.8 0 0 - 0 2 0.0 3 15 18 1 1 5 1 6 4
+p40
+aVKenny Thomas PHI 04/06/2004 PHI @ ATL W 48 18 8 17 47.1 0 0 - 2 2 100.0 3 6 9 0 2 0 4 3 -7
+p41
+aVEric Snow PHI 04/06/2004 PHI @ ATL W 48 18 8 14 57.1 1 1 100.0 1 2 50.0 0 1 1 9 2 0 3 2 -7
+p42
+aVZendon Hamilton PHI 04/06/2004 PHI @ ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p43
+aVJohn Salmons PHI 04/06/2004 PHI @ ATL W 26 2 1 5 20.0 0 2 0.0 0 0 - 1 5 6 3 1 0 0 4 -1
+p44
+aVGreg Buckner PHI 04/06/2004 PHI @ ATL W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 1 1 4
+p45
+aVKyle Korver PHI 04/06/2004 PHI @ ATL W 9 3 1 6 16.7 1 3 33.3 0 0 - 0 2 2 1 0 0 0 1 4
+p46
+aVAaron McKie PHI 04/06/2004 PHI @ ATL W 39 18 6 13 46.2 2 5 40.0 4 4 100.0 0 2 2 3 2 0 4 3 0
+p47
+aVWillie Green PHI 04/06/2004 PHI @ ATL W 36 26 6 13 46.2 4 5 80.0 10 12 83.3 1 2 3 2 1 1 5 4 18
+p48
+aVJohn Salmons PHI 04/03/2004 PHI vs. NYK L 24 3 1 6 16.7 0 2 0.0 1 2 50.0 0 0 0 0 0 2 0 3 4
+p49
+aVZendon Hamilton PHI 04/03/2004 PHI vs. NYK L 9 6 2 5 40.0 0 0 - 2 3 66.7 2 3 5 0 0 0 1 1 -6
+p50
+aVGreg Buckner PHI 04/03/2004 PHI vs. NYK L 16 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 2 -6
+p51
+aVWillie Green PHI 04/03/2004 PHI vs. NYK L 23 14 6 16 37.5 0 4 0.0 2 2 100.0 0 0 0 4 0 0 6 5 -4
+p52
+aVKyle Korver PHI 04/03/2004 PHI vs. NYK L 10 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 2 -6
+p53
+aVEric Snow PHI 04/03/2004 PHI vs. NYK L 42 13 3 7 42.9 0 0 - 7 8 87.5 1 1 2 6 2 0 3 2 -12
+p54
+aVSamuel Dalembert PHI 04/03/2004 PHI vs. NYK L 47 13 6 9 66.7 0 0 - 1 2 50.0 2 12 14 0 1 9 3 1 -10
+p55
+aVKenny Thomas PHI 04/03/2004 PHI vs. NYK L 40 13 4 15 26.7 0 0 - 5 7 71.4 4 9 13 3 0 0 0 3 -6
+p56
+aVAaron McKie PHI 04/03/2004 PHI vs. NYK L 29 7 3 7 42.9 1 2 50.0 0 0 - 4 1 5 3 1 0 0 2 -9
+p57
+aVKenny Thomas PHI 04/01/2004 PHI vs. POR L 45 14 4 15 26.7 0 0 - 6 8 75.0 7 5 12 4 1 1 3 4 -6
+p58
+aVJohn Salmons PHI 04/01/2004 PHI vs. POR L 18 0 0 7 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 1 -19
+p59
+aVWillie Green PHI 04/01/2004 PHI vs. POR L 24 22 9 18 50.0 0 2 0.0 4 4 100.0 2 2 4 3 1 0 0 2 9
+p60
+aVKyle Korver PHI 04/01/2004 PHI vs. POR L 29 12 3 7 42.9 3 6 50.0 3 4 75.0 1 2 3 0 1 0 4 2 11
+p61
+aVZendon Hamilton PHI 04/01/2004 PHI vs. POR L 5 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -1
+p62
+aVEric Snow PHI 04/01/2004 PHI vs. POR L 28 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 3 1 0 1 1 -13
+p63
+aVAaron McKie PHI 04/01/2004 PHI vs. POR L 37 13 6 11 54.5 1 2 50.0 0 0 - 1 1 2 4 3 1 0 3 -6
+p64
+aVSamuel Dalembert PHI 04/01/2004 PHI vs. POR L 46 11 5 14 35.7 0 0 - 1 2 50.0 5 14 19 0 0 3 1 5 -5
+p65
+aVGreg Buckner PHI 04/01/2004 PHI vs. POR L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p66
+aVSamuel Dalembert PHI 03/30/2004 PHI vs. GSW W 29 18 9 14 64.3 0 0 - 0 0 - 4 9 13 0 2 2 0 3 33
+p67
+aVAaron McKie PHI 03/30/2004 PHI vs. GSW W 31 18 8 11 72.7 1 1 100.0 1 1 100.0 1 5 6 3 0 1 0 3 23
+p68
+aVKenny Thomas PHI 03/30/2004 PHI vs. GSW W 36 13 4 16 25.0 0 0 - 5 6 83.3 3 11 14 2 1 0 2 1 15
+p69
+aVAmal McCaskill PHI 03/30/2004 PHI vs. GSW W 10 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 1 0 1 2 1
+p70
+aVWillie Green PHI 03/30/2004 PHI vs. GSW W 10 10 4 8 50.0 1 1 100.0 1 2 50.0 0 0 0 0 2 0 0 2 2
+p71
+aVEric Snow PHI 03/30/2004 PHI vs. GSW W 39 7 2 4 50.0 0 0 - 3 3 100.0 1 2 3 8 2 0 0 1 22
+p72
+aVKyle Korver PHI 03/30/2004 PHI vs. GSW W 25 4 2 9 22.2 0 4 0.0 0 0 - 0 1 1 3 1 0 2 2 0
+p73
+aVJohn Salmons PHI 03/30/2004 PHI vs. GSW W 36 7 3 12 25.0 1 6 16.7 0 0 - 0 7 7 5 1 0 3 2 13
+p74
+aVGreg Buckner PHI 03/30/2004 PHI vs. GSW W 24 14 5 9 55.6 2 3 66.7 2 2 100.0 2 3 5 3 0 0 0 2 11
+p75
+aVAmal McCaskill PHI 03/28/2004 PHI @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -5
+p76
+aVKenny Thomas PHI 03/28/2004 PHI @ BOS L 38 18 8 20 40.0 0 0 - 2 4 50.0 7 2 9 2 1 1 5 2 -23
+p77
+aVGreg Buckner PHI 03/28/2004 PHI @ BOS L 16 2 0 5 0.0 0 2 0.0 2 4 50.0 2 1 3 5 0 0 1 1 -5
+p78
+aVAaron McKie PHI 03/28/2004 PHI @ BOS L 30 11 3 10 30.0 1 2 50.0 4 6 66.7 1 1 2 1 1 1 2 0 -20
+p79
+aVKyle Korver PHI 03/28/2004 PHI @ BOS L 21 15 5 13 38.5 5 8 62.5 0 0 - 2 3 5 0 0 0 0 1 -4
+p80
+aVWillie Green PHI 03/28/2004 PHI @ BOS L 19 9 4 14 28.6 1 3 33.3 0 0 - 3 0 3 0 0 0 3 0 -12
+p81
+aVSamuel Dalembert PHI 03/28/2004 PHI @ BOS L 32 4 2 7 28.6 0 0 - 0 0 - 3 10 13 0 0 4 2 3 -14
+p82
+aVZendon Hamilton PHI 03/28/2004 PHI @ BOS L 8 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 1
+p83
+aVEric Snow PHI 03/28/2004 PHI @ BOS L 35 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 2 0 5 0 -16
+p84
+aVJohn Salmons PHI 03/28/2004 PHI @ BOS L 36 4 1 13 7.7 0 6 0.0 2 2 100.0 1 0 1 5 1 0 1 3 -22
+p85
+aVAmal McCaskill PHI 03/26/2004 PHI vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p86
+aVSamuel Dalembert PHI 03/26/2004 PHI vs. CLE W 38 12 5 11 45.5 0 0 - 2 3 66.7 3 7 10 0 1 2 1 3 20
+p87
+aVGreg Buckner PHI 03/26/2004 PHI vs. CLE W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p88
+aVJohn Salmons PHI 03/26/2004 PHI vs. CLE W 32 22 8 13 61.5 3 4 75.0 3 4 75.0 0 1 1 0 2 0 1 0 9
+p89
+aVWillie Green PHI 03/26/2004 PHI vs. CLE W 10 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 2 -3
+p90
+aVAaron McKie PHI 03/26/2004 PHI vs. CLE W 36 12 5 11 45.5 2 6 33.3 0 0 - 1 3 4 4 1 0 0 3 20
+p91
+aVEric Snow PHI 03/26/2004 PHI vs. CLE W 44 5 2 6 33.3 0 0 - 1 2 50.0 0 4 4 13 1 0 1 1 23
+p92
+aVZendon Hamilton PHI 03/26/2004 PHI vs. CLE W 10 4 1 3 33.3 0 0 - 2 2 100.0 6 2 8 0 0 0 0 2 -5
+p93
+aVKyle Korver PHI 03/26/2004 PHI vs. CLE W 18 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 0 0 0 0 2 0
+p94
+aVKenny Thomas PHI 03/26/2004 PHI vs. CLE W 46 19 7 17 41.2 0 0 - 5 7 71.4 2 7 9 4 2 1 2 3 15
+p95
+aVSamuel Dalembert PHI 03/24/2004 PHI vs. PHX W 41 23 10 15 66.7 0 0 - 3 4 75.0 10 4 14 0 1 3 3 5 -3
+p96
+aVEric Snow PHI 03/24/2004 PHI vs. PHX W 34 19 4 7 57.1 0 0 - 11 13 84.6 0 4 4 6 1 0 3 4 6
+p97
+aVAaron McKie PHI 03/24/2004 PHI vs. PHX W 19 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p98
+aVWillie Green PHI 03/24/2004 PHI vs. PHX W 29 18 7 14 50.0 1 3 33.3 3 3 100.0 1 1 2 3 3 0 0 3 15
+p99
+aVJohn Salmons PHI 03/24/2004 PHI vs. PHX W 38 8 2 6 33.3 1 3 33.3 3 4 75.0 1 1 2 6 0 1 3 3 -2
+p100
+aVKyle Korver PHI 03/24/2004 PHI vs. PHX W 18 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 0 1 0 2 2 13
+p101
+aVGreg Buckner PHI 03/24/2004 PHI vs. PHX W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p102
+aVZendon Hamilton PHI 03/24/2004 PHI vs. PHX W 8 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -1
+p103
+aVKenny Thomas PHI 03/24/2004 PHI vs. PHX W 38 17 3 9 33.3 0 0 - 11 12 91.7 1 4 5 4 0 0 4 5 6
+p104
+aVKyle Korver PHI 03/22/2004 PHI vs. DAL W 10 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 1 0 0 1 5
+p105
+aVWillie Green PHI 03/22/2004 PHI vs. DAL W 25 19 8 15 53.3 2 6 33.3 1 1 100.0 0 2 2 3 1 0 0 1 4
+p106
+aVGreg Buckner PHI 03/22/2004 PHI vs. DAL W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p107
+aVKenny Thomas PHI 03/22/2004 PHI vs. DAL W 48 27 8 16 50.0 0 0 - 11 13 84.6 5 8 13 7 1 0 3 4 9
+p108
+aVJohn Salmons PHI 03/22/2004 PHI vs. DAL W 36 21 8 12 66.7 5 6 83.3 0 1 0.0 1 2 3 2 2 0 5 3 2
+p109
+aVSamuel Dalembert PHI 03/22/2004 PHI vs. DAL W 40 6 2 5 40.0 0 0 - 2 2 100.0 1 8 9 0 0 4 2 2 2
+p110
+aVAaron McKie PHI 03/22/2004 PHI vs. DAL W 35 16 4 11 36.4 2 4 50.0 6 6 100.0 0 4 4 3 1 1 4 2 17
+p111
+aVEric Snow PHI 03/22/2004 PHI vs. DAL W 34 10 3 4 75.0 0 0 - 4 5 80.0 1 2 3 6 2 0 2 1 2
+p112
+aVZendon Hamilton PHI 03/22/2004 PHI vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p113
+aVEric Snow PHI 03/20/2004 PHI @ MIA L 37 2 1 2 50.0 0 0 - 0 2 0.0 0 3 3 6 2 0 2 1 -9
+p114
+aVGreg Buckner PHI 03/20/2004 PHI @ MIA L 10 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 0 0 1 0 0 -19
+p115
+aVJohn Salmons PHI 03/20/2004 PHI @ MIA L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -12
+p116
+aVKenny Thomas PHI 03/20/2004 PHI @ MIA L 33 23 9 16 56.3 0 0 - 5 5 100.0 3 9 12 0 0 0 0 5 -12
+p117
+aVWillie Green PHI 03/20/2004 PHI @ MIA L 7 0 0 5 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -14
+p118
+aVAllen Iverson PHI 03/20/2004 PHI @ MIA L 44 23 8 22 36.4 2 5 40.0 5 8 62.5 1 1 2 4 3 0 5 2 -24
+p119
+aVZendon Hamilton PHI 03/20/2004 PHI @ MIA L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -16
+p120
+aVSamuel Dalembert PHI 03/20/2004 PHI @ MIA L 31 11 4 6 66.7 0 0 - 3 3 100.0 3 7 10 0 0 3 0 3 -17
+p121
+aVAaron McKie PHI 03/20/2004 PHI @ MIA L 32 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 2 2 0 2 0 -8
+p122
+aVKyle Korver PHI 03/20/2004 PHI @ MIA L 12 2 1 8 12.5 0 4 0.0 0 0 - 0 0 0 0 0 0 0 0 -16
+p123
+aVMarc Jackson PHI 03/20/2004 PHI @ MIA L 20 4 2 7 28.6 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -13
+p124
+aVEric Snow PHI 03/17/2004 PHI @ NOH L 41 8 4 8 50.0 0 0 - 0 0 - 0 3 3 8 0 0 2 1 -13
+p125
+aVDerrick Coleman PHI 03/17/2004 PHI @ NOH L 14 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 1 0 2 2 -10
+p126
+aVKenny Thomas PHI 03/17/2004 PHI @ NOH L 39 11 3 8 37.5 0 0 - 5 5 100.0 1 2 3 1 2 0 4 2 -13
+p127
+aVZendon Hamilton PHI 03/17/2004 PHI @ NOH L 13 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 0 1 2 -14
+p128
+aVSamuel Dalembert PHI 03/17/2004 PHI @ NOH L 30 10 4 5 80.0 0 0 - 2 3 66.7 4 4 8 1 0 3 3 5 -11
+p129
+aVAllen Iverson PHI 03/17/2004 PHI @ NOH L 43 20 8 23 34.8 0 3 0.0 4 6 66.7 1 1 2 7 2 1 4 3 -23
+p130
+aVKyle Korver PHI 03/17/2004 PHI @ NOH L 17 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 2 0 1 0 1 -23
+p131
+aVWillie Green PHI 03/17/2004 PHI @ NOH L 12 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 -12
+p132
+aVAaron McKie PHI 03/17/2004 PHI @ NOH L 31 15 6 8 75.0 3 4 75.0 0 0 - 0 5 5 2 0 0 3 3 -1
+p133
+aVDerrick Coleman PHI 03/16/2004 PHI @ MEM L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p134
+aVWillie Green PHI 03/16/2004 PHI @ MEM L 11 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 1 1 2 0 2 -2
+p135
+aVAaron McKie PHI 03/16/2004 PHI @ MEM L 37 22 8 12 66.7 1 2 50.0 5 5 100.0 0 8 8 3 3 0 3 0 1
+p136
+aVAllen Iverson PHI 03/16/2004 PHI @ MEM L 42 10 4 15 26.7 0 2 0.0 2 2 100.0 0 4 4 8 1 0 5 0 -4
+p137
+aVKenny Thomas PHI 03/16/2004 PHI @ MEM L 45 20 8 17 47.1 0 0 - 4 5 80.0 5 7 12 2 0 0 3 5 -7
+p138
+aVKyle Korver PHI 03/16/2004 PHI @ MEM L 13 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 1 0 3 3 -2
+p139
+aVEric Snow PHI 03/16/2004 PHI @ MEM L 42 9 2 6 33.3 0 0 - 5 5 100.0 0 4 4 4 3 0 4 1 2
+p140
+aVZendon Hamilton PHI 03/16/2004 PHI @ MEM L 18 7 3 5 60.0 0 0 - 1 1 100.0 2 4 6 0 0 1 2 2 2
+p141
+aVSamuel Dalembert PHI 03/16/2004 PHI @ MEM L 27 5 2 6 33.3 0 0 - 1 2 50.0 2 4 6 0 1 6 1 6 -2
+p142
+aVGreg Buckner PHI 03/14/2004 PHI @ DET L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 2 3 -2
+p143
+aVZendon Hamilton PHI 03/14/2004 PHI @ DET L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 1 -4
+p144
+aVKenny Thomas PHI 03/14/2004 PHI @ DET L 31 8 2 9 22.2 0 0 - 4 4 100.0 3 7 10 1 1 0 1 0 -15
+p145
+aVDerrick Coleman PHI 03/14/2004 PHI @ DET L 15 10 4 6 66.7 1 1 100.0 1 2 50.0 0 2 2 0 1 0 3 3 -4
+p146
+aVAaron McKie PHI 03/14/2004 PHI @ DET L 22 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 2 1 0 3 2 -10
+p147
+aVSamuel Dalembert PHI 03/14/2004 PHI @ DET L 20 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 3 2 3 -3
+p148
+aVWillie Green PHI 03/14/2004 PHI @ DET L 26 17 8 10 80.0 0 0 - 1 4 25.0 0 2 2 1 1 0 0 1 -6
+p149
+aVJohn Salmons PHI 03/14/2004 PHI @ DET L 35 7 3 10 30.0 1 3 33.3 0 0 - 0 5 5 4 3 0 1 0 -7
+p150
+aVMarc Jackson PHI 03/14/2004 PHI @ DET L 16 7 1 4 25.0 0 0 - 5 6 83.3 3 2 5 0 0 0 1 0 -6
+p151
+aVKyle Korver PHI 03/14/2004 PHI @ DET L 14 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 2 0 0 0 4 -10
+p152
+aVEric Snow PHI 03/14/2004 PHI @ DET L 34 8 3 12 25.0 0 1 0.0 2 2 100.0 1 3 4 6 0 0 3 4 -13
+p153
+aVDerrick Coleman PHI 03/12/2004 PHI vs. NYK W 9 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -1
+p154
+aVKenny Thomas PHI 03/12/2004 PHI vs. NYK W 50 25 8 16 50.0 1 1 100.0 8 10 80.0 4 12 16 1 0 5 7 6 -1
+p155
+aVGreg Buckner PHI 03/12/2004 PHI vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -8
+p156
+aVEric Snow PHI 03/12/2004 PHI vs. NYK W 47 19 5 12 41.7 0 1 0.0 9 10 90.0 1 4 5 7 1 0 3 2 15
+p157
+aVMarc Jackson PHI 03/12/2004 PHI vs. NYK W 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -5
+p158
+aVWillie Green PHI 03/12/2004 PHI vs. NYK W 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -10
+p159
+aVKyle Korver PHI 03/12/2004 PHI vs. NYK W 20 12 4 8 50.0 2 6 33.3 2 3 66.7 0 2 2 1 0 0 2 3 10
+p160
+aVAaron McKie PHI 03/12/2004 PHI vs. NYK W 48 22 7 9 77.8 1 2 50.0 7 7 100.0 0 3 3 3 1 1 2 5 17
+p161
+aVSamuel Dalembert PHI 03/12/2004 PHI vs. NYK W 40 4 1 5 20.0 0 0 - 2 4 50.0 4 7 11 1 0 2 4 3 13
+p162
+aVZendon Hamilton PHI 03/12/2004 PHI vs. NYK W 14 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 3
+p163
+aVJohn Salmons PHI 03/12/2004 PHI vs. NYK W 43 16 5 13 38.5 2 5 40.0 4 5 80.0 0 6 6 1 0 1 2 3 -8
+p164
+aVEric Snow PHI 03/09/2004 PHI @ CHI W 40 10 4 11 36.4 0 0 - 2 2 100.0 0 4 4 11 1 0 6 2 12
+p165
+aVJohn Salmons PHI 03/09/2004 PHI @ CHI W 30 13 3 9 33.3 1 3 33.3 6 8 75.0 2 6 8 3 1 0 2 0 3
+p166
+aVKyle Korver PHI 03/09/2004 PHI @ CHI W 17 14 5 12 41.7 3 8 37.5 1 2 50.0 0 2 2 0 0 0 1 1 3
+p167
+aVZendon Hamilton PHI 03/09/2004 PHI @ CHI W 31 7 1 2 50.0 0 0 - 5 5 100.0 2 7 9 0 0 0 0 4 10
+p168
+aVSamuel Dalembert PHI 03/09/2004 PHI @ CHI W 12 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 1 4 0
+p169
+aVKenny Thomas PHI 03/09/2004 PHI @ CHI W 42 22 10 17 58.8 0 1 0.0 2 4 50.0 2 11 13 2 2 1 1 4 11
+p170
+aVWillie Green PHI 03/09/2004 PHI @ CHI W 10 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -5
+p171
+aVGreg Buckner PHI 03/09/2004 PHI @ CHI W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 1 1 1 0
+p172
+aVAaron McKie PHI 03/09/2004 PHI @ CHI W 37 21 8 13 61.5 2 3 66.7 3 3 100.0 0 3 3 5 0 1 1 3 11
+p173
+aVAmal McCaskill PHI 03/09/2004 PHI @ CHI W 11 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 -5
+p174
+aVKenny Thomas PHI 03/08/2004 PHI vs. MIL W 45 14 6 13 46.2 0 0 - 2 5 40.0 7 8 15 4 1 1 3 3 12
+p175
+aVGreg Buckner PHI 03/08/2004 PHI vs. MIL W 26 20 8 12 66.7 4 5 80.0 0 0 - 1 1 2 2 0 0 2 4 15
+p176
+aVKyle Korver PHI 03/08/2004 PHI vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p177
+aVWillie Green PHI 03/08/2004 PHI vs. MIL W 15 4 2 9 22.2 0 1 0.0 0 1 0.0 0 0 0 1 1 0 1 1 6
+p178
+aVSamuel Dalembert PHI 03/08/2004 PHI vs. MIL W 18 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 0 1 4 4 -12
+p179
+aVAaron McKie PHI 03/08/2004 PHI vs. MIL W 22 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 2 1 0 0 0 -9
+p180
+aVJohn Salmons PHI 03/08/2004 PHI vs. MIL W 32 13 5 13 38.5 1 6 16.7 2 3 66.7 1 5 6 2 1 0 1 5 -4
+p181
+aVEric Snow PHI 03/08/2004 PHI vs. MIL W 45 17 6 14 42.9 0 0 - 5 7 71.4 1 3 4 12 1 0 3 2 8
+p182
+aVZendon Hamilton PHI 03/08/2004 PHI vs. MIL W 33 19 5 6 83.3 0 0 - 9 11 81.8 3 6 9 2 0 0 1 3 10
+p183
+aVAaron McKie PHI 03/06/2004 PHI vs. CHI W 20 7 3 8 37.5 1 4 25.0 0 0 - 3 1 4 4 1 0 0 0 9
+p184
+aVJohn Salmons PHI 03/06/2004 PHI vs. CHI W 24 8 3 7 42.9 2 3 66.7 0 0 - 0 4 4 1 0 0 1 1 -10
+p185
+aVEric Snow PHI 03/06/2004 PHI vs. CHI W 38 9 3 7 42.9 0 0 - 3 3 100.0 0 6 6 6 2 0 3 1 4
+p186
+aVWillie Green PHI 03/06/2004 PHI vs. CHI W 18 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 1 0 1 1 0 14
+p187
+aVZendon Hamilton PHI 03/06/2004 PHI vs. CHI W 24 15 4 7 57.1 0 0 - 7 9 77.8 3 8 11 1 0 2 2 4 10
+p188
+aVKyle Korver PHI 03/06/2004 PHI vs. CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p189
+aVSamuel Dalembert PHI 03/06/2004 PHI vs. CHI W 24 3 1 4 25.0 0 0 - 1 2 50.0 2 6 8 0 1 1 1 5 -3
+p190
+aVAllen Iverson PHI 03/06/2004 PHI vs. CHI W 41 20 6 18 33.3 0 2 0.0 8 13 61.5 1 1 2 11 2 0 2 3 15
+p191
+aVKenny Thomas PHI 03/06/2004 PHI vs. CHI W 37 27 10 15 66.7 0 0 - 7 8 87.5 4 7 11 0 0 0 2 4 17
+p192
+aVAmal McCaskill PHI 03/06/2004 PHI vs. CHI W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -6
+p193
+aVJohn Salmons PHI 03/04/2004 PHI vs. SAC L 29 14 6 10 60.0 1 2 50.0 1 1 100.0 1 2 3 3 0 0 1 2 17
+p194
+aVGlenn Robinson PHI 03/04/2004 PHI vs. SAC L 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -18
+p195
+aVEric Snow PHI 03/04/2004 PHI vs. SAC L 36 10 3 6 50.0 0 0 - 4 4 100.0 2 5 7 6 1 1 2 5 6
+p196
+aVSamuel Dalembert PHI 03/04/2004 PHI vs. SAC L 36 20 8 12 66.7 0 0 - 4 4 100.0 3 12 15 0 1 2 3 6 8
+p197
+aVKenny Thomas PHI 03/04/2004 PHI vs. SAC L 44 15 4 9 44.4 0 0 - 7 7 100.0 4 9 13 2 2 0 2 4 1
+p198
+aVAllen Iverson PHI 03/04/2004 PHI vs. SAC L 48 32 13 22 59.1 0 0 - 6 9 66.7 0 2 2 10 2 0 5 2 -7
+p199
+aVAmal McCaskill PHI 03/04/2004 PHI vs. SAC L 13 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 2 -19
+p200
+aVWillie Green PHI 03/04/2004 PHI vs. SAC L 9 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 0 0 0 1 3 -11
+p201
+aVZendon Hamilton PHI 03/04/2004 PHI vs. SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p202
+aVKyle Korver PHI 03/04/2004 PHI vs. SAC L 8 0 0 8 0.0 0 6 0.0 0 0 - 2 2 4 0 0 0 0 1 -9
+p203
+aVAaron McKie PHI 03/04/2004 PHI vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p204
+aVGlenn Robinson PHI 03/03/2004 PHI @ NYK L 29 10 4 11 36.4 0 1 0.0 2 3 66.7 0 2 2 2 2 1 2 1 -2
+p205
+aVJohn Salmons PHI 03/03/2004 PHI @ NYK L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -11
+p206
+aVKyle Korver PHI 03/03/2004 PHI @ NYK L 18 8 3 5 60.0 2 4 50.0 0 0 - 3 1 4 2 0 0 0 0 2
+p207
+aVEric Snow PHI 03/03/2004 PHI @ NYK L 31 2 1 6 16.7 0 0 - 0 0 - 0 2 2 4 0 0 2 4 -2
+p208
+aVAmal McCaskill PHI 03/03/2004 PHI @ NYK L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p209
+aVWillie Green PHI 03/03/2004 PHI @ NYK L 15 6 3 8 37.5 0 0 - 0 0 - 0 1 1 2 1 0 3 3 -7
+p210
+aVAllen Iverson PHI 03/03/2004 PHI @ NYK L 37 11 2 21 9.5 0 2 0.0 7 10 70.0 1 4 5 6 1 0 2 2 -6
+p211
+aVKenny Thomas PHI 03/03/2004 PHI @ NYK L 42 21 8 15 53.3 0 0 - 5 8 62.5 5 6 11 2 1 0 2 1 -12
+p212
+aVSamuel Dalembert PHI 03/03/2004 PHI @ NYK L 44 19 8 11 72.7 0 0 - 3 5 60.0 6 8 14 1 2 4 3 4 -8
+p213
+aVAaron McKie PHI 03/03/2004 PHI @ NYK L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -5
+p214
+aVAmal McCaskill PHI 02/29/2004 PHI vs. MIN W 22 2 1 5 20.0 0 0 - 0 0 - 1 3 4 2 1 1 0 2 7
+p215
+aVJohn Salmons PHI 02/29/2004 PHI vs. MIN W 26 7 2 4 50.0 1 1 100.0 2 4 50.0 0 0 0 1 1 0 0 1 1
+p216
+aVWillie Green PHI 02/29/2004 PHI vs. MIN W 20 10 4 11 36.4 1 2 50.0 1 2 50.0 0 2 2 1 1 0 2 1 3
+p217
+aVZendon Hamilton PHI 02/29/2004 PHI vs. MIN W 9 4 2 2 100.0 0 0 - 0 0 - 3 3 6 1 0 1 2 3 -3
+p218
+aVEric Snow PHI 02/29/2004 PHI vs. MIN W 37 13 5 14 35.7 0 0 - 3 4 75.0 0 2 2 7 0 0 1 3 8
+p219
+aVSamuel Dalembert PHI 02/29/2004 PHI vs. MIN W 23 6 2 5 40.0 0 0 - 2 2 100.0 1 4 5 0 0 1 1 5 10
+p220
+aVAaron McKie PHI 02/29/2004 PHI vs. MIN W 38 18 8 12 66.7 1 1 100.0 1 3 33.3 0 6 6 3 1 0 1 4 12
+p221
+aVKyle Korver PHI 02/29/2004 PHI vs. MIN W 24 10 3 8 37.5 2 5 40.0 2 2 100.0 1 3 4 1 1 1 0 1 -1
+p222
+aVKenny Thomas PHI 02/29/2004 PHI vs. MIN W 41 11 4 15 26.7 0 0 - 3 4 75.0 4 8 12 2 3 0 1 1 -2
+p223
+aVKyle Korver PHI 02/28/2004 PHI @ IND L 27 10 4 8 50.0 2 5 40.0 0 0 - 1 2 3 1 1 1 2 4 4
+p224
+aVGreg Buckner PHI 02/28/2004 PHI @ IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 3 0 -1
+p225
+aVAaron McKie PHI 02/28/2004 PHI @ IND L 22 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 1 1 1 1 -12
+p226
+aVAmal McCaskill PHI 02/28/2004 PHI @ IND L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p227
+aVWillie Green PHI 02/28/2004 PHI @ IND L 30 16 7 15 46.7 0 2 0.0 2 3 66.7 0 3 3 6 0 1 2 4 5
+p228
+aVSamuel Dalembert PHI 02/28/2004 PHI @ IND L 37 15 6 12 50.0 0 0 - 3 4 75.0 6 7 13 0 0 2 0 3 0
+p229
+aVKenny Thomas PHI 02/28/2004 PHI @ IND L 45 20 9 17 52.9 0 0 - 2 3 66.7 4 7 11 2 0 0 5 4 -7
+p230
+aVZendon Hamilton PHI 02/28/2004 PHI @ IND L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -3
+p231
+aVEric Snow PHI 02/28/2004 PHI @ IND L 39 9 1 5 20.0 0 0 - 7 7 100.0 1 3 4 4 2 0 4 1 -11
+p232
+aVJohn Salmons PHI 02/28/2004 PHI @ IND L 21 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 2 2 -4
+p233
+aVGlenn Robinson PHI 02/24/2004 PHI @ ATL L 15 3 1 5 20.0 0 1 0.0 1 1 100.0 0 1 1 1 1 0 2 2 -11
+p234
+aVAmal McCaskill PHI 02/24/2004 PHI @ ATL L 16 7 3 9 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 0 3 -4
+p235
+aVAaron McKie PHI 02/24/2004 PHI @ ATL L 29 10 3 9 33.3 1 2 50.0 3 4 75.0 0 4 4 1 4 0 1 0 -6
+p236
+aVGreg Buckner PHI 02/24/2004 PHI @ ATL L 23 0 0 4 0.0 0 0 - 0 0 - 1 5 6 0 1 0 2 4 3
+p237
+aVWillie Green PHI 02/24/2004 PHI @ ATL L 32 14 5 13 38.5 1 4 25.0 3 4 75.0 0 1 1 1 2 0 3 4 -3
+p238
+aVEric Snow PHI 02/24/2004 PHI @ ATL L 37 17 6 12 50.0 0 0 - 5 6 83.3 0 5 5 6 1 0 4 2 -1
+p239
+aVJohn Salmons PHI 02/24/2004 PHI @ ATL L 26 6 2 5 40.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 0 2 -12
+p240
+aVZendon Hamilton PHI 02/24/2004 PHI @ ATL L 8 6 1 2 50.0 0 0 - 4 6 66.7 1 1 2 0 0 0 1 1 -3
+p241
+aVKyle Korver PHI 02/24/2004 PHI @ ATL L 22 8 3 5 60.0 2 3 66.7 0 0 - 3 3 6 0 0 0 0 0 -3
+p242
+aVSamuel Dalembert PHI 02/24/2004 PHI @ ATL L 32 4 2 8 25.0 0 0 - 0 0 - 4 8 12 1 0 5 0 1 -15
+p243
+aVKenny Thomas PHI 02/23/2004 PHI vs. DET L 40 10 3 12 25.0 0 1 0.0 4 6 66.7 7 11 18 1 2 0 5 4 -3
+p244
+aVKyle Korver PHI 02/23/2004 PHI vs. DET L 12 1 0 6 0.0 0 4 0.0 1 1 100.0 0 2 2 2 2 0 0 2 2
+p245
+aVEric Snow PHI 02/23/2004 PHI vs. DET L 42 12 4 13 30.8 0 0 - 4 7 57.1 2 1 3 9 2 0 0 2 -5
+p246
+aVGlenn Robinson PHI 02/23/2004 PHI vs. DET L 27 11 5 12 41.7 0 0 - 1 1 100.0 2 0 2 0 0 0 3 0 -15
+p247
+aVZendon Hamilton PHI 02/23/2004 PHI vs. DET L 6 0 0 4 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -1
+p248
+aVGreg Buckner PHI 02/23/2004 PHI vs. DET L 21 8 3 6 50.0 1 1 100.0 1 2 50.0 2 1 3 2 0 0 1 4 3
+p249
+aVWillie Green PHI 02/23/2004 PHI vs. DET L 19 9 3 11 27.3 0 1 0.0 3 4 75.0 0 4 4 0 0 0 3 2 -5
+p250
+aVSamuel Dalembert PHI 02/23/2004 PHI vs. DET L 39 11 5 9 55.6 0 0 - 1 2 50.0 0 7 7 0 1 2 0 3 -9
+p251
+aVAmal McCaskill PHI 02/23/2004 PHI vs. DET L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -9
+p252
+aVAaron McKie PHI 02/23/2004 PHI vs. DET L 23 2 1 7 14.3 0 0 - 0 0 - 0 3 3 1 1 0 2 2 -8
+p253
+aVGreg Buckner PHI 02/20/2004 PHI @ LAL L 17 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 2 -24
+p254
+aVAaron McKie PHI 02/20/2004 PHI @ LAL L 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 2 1 -11
+p255
+aVEric Snow PHI 02/20/2004 PHI @ LAL L 24 11 4 5 80.0 0 0 - 3 4 75.0 2 1 3 4 0 0 2 4 -13
+p256
+aVZendon Hamilton PHI 02/20/2004 PHI @ LAL L 11 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 3 -6
+p257
+aVKenny Thomas PHI 02/20/2004 PHI @ LAL L 38 22 9 13 69.2 0 0 - 4 4 100.0 2 10 12 1 3 1 1 4 -19
+p258
+aVGlenn Robinson PHI 02/20/2004 PHI @ LAL L 35 19 6 13 46.2 1 2 50.0 6 8 75.0 0 6 6 0 2 1 2 1 -14
+p259
+aVJohn Salmons PHI 02/20/2004 PHI @ LAL L 9 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 1 0 0 0 2 -3
+p260
+aVSamuel Dalembert PHI 02/20/2004 PHI @ LAL L 25 6 2 3 66.7 0 0 - 2 2 100.0 1 4 5 2 0 3 2 4 -10
+p261
+aVWillie Green PHI 02/20/2004 PHI @ LAL L 15 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p262
+aVAllen Iverson PHI 02/20/2004 PHI @ LAL L 38 13 3 18 16.7 0 2 0.0 7 10 70.0 1 1 2 9 3 1 6 1 -26
+p263
+aVAmal McCaskill PHI 02/20/2004 PHI @ LAL L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -5
+p264
+aVKyle Korver PHI 02/20/2004 PHI @ LAL L 7 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 1 0 0 0 0 -3
+p265
+aVSamuel Dalembert PHI 02/19/2004 PHI @ SEA W 32 8 3 4 75.0 0 0 - 2 2 100.0 4 7 11 2 0 5 1 5 20
+p266
+aVGreg Buckner PHI 02/19/2004 PHI @ SEA W 16 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -10
+p267
+aVWillie Green PHI 02/19/2004 PHI @ SEA W 19 10 4 7 57.1 1 2 50.0 1 2 50.0 1 2 3 1 2 0 1 2 0
+p268
+aVAaron McKie PHI 02/19/2004 PHI @ SEA W 19 9 4 6 66.7 1 2 50.0 0 0 - 1 4 5 1 0 0 1 2 10
+p269
+aVAllen Iverson PHI 02/19/2004 PHI @ SEA W 48 40 10 24 41.7 3 4 75.0 17 21 81.0 1 1 2 11 5 0 4 0 11
+p270
+aVGlenn Robinson PHI 02/19/2004 PHI @ SEA W 25 26 10 18 55.6 1 5 20.0 5 5 100.0 0 2 2 0 0 0 0 5 20
+p271
+aVEric Snow PHI 02/19/2004 PHI @ SEA W 19 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 7 0 0 0 5 0
+p272
+aVJohn Salmons PHI 02/19/2004 PHI @ SEA W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p273
+aVZendon Hamilton PHI 02/19/2004 PHI @ SEA W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 4 0
+p274
+aVAmal McCaskill PHI 02/19/2004 PHI @ SEA W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -9
+p275
+aVKenny Thomas PHI 02/19/2004 PHI @ SEA W 40 8 3 9 33.3 0 0 - 2 2 100.0 3 6 9 3 2 0 4 3 25
+p276
+aVGreg Buckner PHI 02/17/2004 PHI @ DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p277
+aVAmal McCaskill PHI 02/17/2004 PHI @ DEN L 11 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -6
+p278
+aVEric Snow PHI 02/17/2004 PHI @ DEN L 29 5 2 3 66.7 0 0 - 1 1 100.0 0 3 3 5 1 0 4 1 -10
+p279
+aVAllen Iverson PHI 02/17/2004 PHI @ DEN L 36 27 8 17 47.1 0 1 0.0 11 14 78.6 0 3 3 14 2 0 3 2 -8
+p280
+aVZendon Hamilton PHI 02/17/2004 PHI @ DEN L 19 6 3 3 100.0 0 0 - 0 0 - 0 4 4 0 0 1 1 3 2
+p281
+aVJohn Salmons PHI 02/17/2004 PHI @ DEN L 21 6 3 6 50.0 0 0 - 0 0 - 1 1 2 3 1 1 3 1 -6
+p282
+aVGlenn Robinson PHI 02/17/2004 PHI @ DEN L 27 13 6 16 37.5 0 1 0.0 1 2 50.0 1 1 2 1 0 0 3 4 -32
+p283
+aVSamuel Dalembert PHI 02/17/2004 PHI @ DEN L 20 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 1 2 4 -15
+p284
+aVKenny Thomas PHI 02/17/2004 PHI @ DEN L 41 17 7 13 53.8 0 0 - 3 3 100.0 4 12 16 0 1 1 4 2 -20
+p285
+aVKyle Korver PHI 02/17/2004 PHI @ DEN L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p286
+aVWillie Green PHI 02/17/2004 PHI @ DEN L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 0 1 3 -6
+p287
+aVAaron McKie PHI 02/17/2004 PHI @ DEN L 14 7 3 6 50.0 1 1 100.0 0 0 - 2 0 2 2 0 0 0 2 3
+p288
+aVAaron McKie PHI 02/11/2004 PHI vs. WAS W 16 4 2 6 33.3 0 4 0.0 0 0 - 0 3 3 3 0 0 1 1 6
+p289
+aVAllen Iverson PHI 02/11/2004 PHI vs. WAS W 33 25 11 21 52.4 0 2 0.0 3 3 100.0 1 2 3 7 3 0 2 1 18
+p290
+aVSamuel Dalembert PHI 02/11/2004 PHI vs. WAS W 19 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 1 0 1 0 4 20
+p291
+aVWillie Green PHI 02/11/2004 PHI vs. WAS W 12 6 3 4 75.0 0 0 - 0 1 0.0 1 2 3 2 0 0 1 0 5
+p292
+aVGlenn Robinson PHI 02/11/2004 PHI vs. WAS W 28 15 7 11 63.6 0 1 0.0 1 1 100.0 1 2 3 1 1 1 0 3 17
+p293
+aVKyle Korver PHI 02/11/2004 PHI vs. WAS W 7 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 -2
+p294
+aVAmal McCaskill PHI 02/11/2004 PHI vs. WAS W 16 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 4 4
+p295
+aVEric Snow PHI 02/11/2004 PHI vs. WAS W 25 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 5 2 0 1 2 15
+p296
+aVGreg Buckner PHI 02/11/2004 PHI vs. WAS W 10 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 2
+p297
+aVJohn Salmons PHI 02/11/2004 PHI vs. WAS W 24 15 7 10 70.0 1 1 100.0 0 0 - 0 1 1 3 0 1 0 1 14
+p298
+aVZendon Hamilton PHI 02/11/2004 PHI vs. WAS W 18 14 4 6 66.7 0 0 - 6 8 75.0 4 6 10 1 1 1 0 4 9
+p299
+aVKenny Thomas PHI 02/11/2004 PHI vs. WAS W 32 9 4 8 50.0 0 0 - 1 2 50.0 3 7 10 3 3 0 1 0 17
+p300
+aVEric Snow PHI 02/08/2004 PHI @ NJN L 30 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 6 0 0 1 2 -3
+p301
+aVSamuel Dalembert PHI 02/08/2004 PHI @ NJN L 40 16 6 9 66.7 0 0 - 4 5 80.0 2 11 13 0 0 6 1 1 -11
+p302
+aVJohn Salmons PHI 02/08/2004 PHI @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p303
+aVWillie Green PHI 02/08/2004 PHI @ NJN L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 8
+p304
+aVAllen Iverson PHI 02/08/2004 PHI @ NJN L 45 27 6 21 28.6 3 7 42.9 12 14 85.7 1 0 1 8 1 0 4 4 -16
+p305
+aVKenny Thomas PHI 02/08/2004 PHI @ NJN L 25 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 2 0 0 5 -18
+p306
+aVAaron McKie PHI 02/08/2004 PHI @ NJN L 21 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 3 -3
+p307
+aVGlenn Robinson PHI 02/08/2004 PHI @ NJN L 30 9 3 15 20.0 1 4 25.0 2 2 100.0 1 1 2 2 1 0 2 5 -13
+p308
+aVAmal McCaskill PHI 02/08/2004 PHI @ NJN L 21 9 4 8 50.0 0 1 0.0 1 1 100.0 1 5 6 0 0 0 0 2 -5
+p309
+aVZendon Hamilton PHI 02/08/2004 PHI @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p310
+aVGreg Buckner PHI 02/08/2004 PHI @ NJN L 22 10 5 10 50.0 0 1 0.0 0 0 - 1 1 2 2 2 0 1 3 1
+p311
+aVGreg Buckner PHI 02/07/2004 PHI vs. BOS L 21 5 1 2 50.0 0 1 0.0 3 4 75.0 0 4 4 1 2 0 1 2 -3
+p312
+aVWillie Green PHI 02/07/2004 PHI vs. BOS L 19 16 5 9 55.6 1 1 100.0 5 6 83.3 0 1 1 1 0 0 0 5 -8
+p313
+aVGlenn Robinson PHI 02/07/2004 PHI vs. BOS L 28 19 9 20 45.0 1 3 33.3 0 0 - 1 2 3 0 1 0 3 2 -20
+p314
+aVAaron McKie PHI 02/07/2004 PHI vs. BOS L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 2 0 -7
+p315
+aVKenny Thomas PHI 02/07/2004 PHI vs. BOS L 24 11 5 6 83.3 0 0 - 1 2 50.0 5 4 9 0 1 0 3 4 -24
+p316
+aVKyle Korver PHI 02/07/2004 PHI vs. BOS L 17 0 0 6 0.0 0 2 0.0 0 0 - 0 3 3 0 1 0 1 0 -2
+p317
+aVAllen Iverson PHI 02/07/2004 PHI vs. BOS L 34 15 5 20 25.0 1 5 20.0 4 6 66.7 1 2 3 6 1 0 5 0 -26
+p318
+aVEric Snow PHI 02/07/2004 PHI vs. BOS L 29 7 2 4 50.0 0 0 - 3 4 75.0 0 2 2 5 3 0 4 2 -28
+p319
+aVZendon Hamilton PHI 02/07/2004 PHI vs. BOS L 7 1 0 0 - 0 0 - 1 6 16.7 1 0 1 0 0 0 0 1 -5
+p320
+aVJohn Salmons PHI 02/07/2004 PHI vs. BOS L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 2 1 -1
+p321
+aVAmal McCaskill PHI 02/07/2004 PHI vs. BOS L 14 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 1 0 2 2 -17
+p322
+aVSamuel Dalembert PHI 02/07/2004 PHI vs. BOS L 25 0 0 4 0.0 0 0 - 0 2 0.0 3 7 10 0 0 3 1 4 -9
+p323
+aVGlenn Robinson PHI 02/05/2004 PHI vs. LAL W 33 26 9 15 60.0 0 1 0.0 8 9 88.9 3 2 5 3 1 1 2 1 15
+p324
+aVAmal McCaskill PHI 02/05/2004 PHI vs. LAL W 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 5 7
+p325
+aVEric Snow PHI 02/05/2004 PHI vs. LAL W 33 10 4 7 57.1 0 0 - 2 2 100.0 0 4 4 7 0 0 1 2 12
+p326
+aVAaron McKie PHI 02/05/2004 PHI vs. LAL W 15 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 2 1 8
+p327
+aVGreg Buckner PHI 02/05/2004 PHI vs. LAL W 18 3 1 3 33.3 0 1 0.0 1 2 50.0 1 5 6 0 0 0 0 1 10
+p328
+aVZendon Hamilton PHI 02/05/2004 PHI vs. LAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 8
+p329
+aVKenny Thomas PHI 02/05/2004 PHI vs. LAL W 37 4 2 5 40.0 0 0 - 0 0 - 2 10 12 1 1 0 2 4 20
+p330
+aVAllen Iverson PHI 02/05/2004 PHI vs. LAL W 41 39 15 29 51.7 1 4 25.0 8 12 66.7 0 3 3 6 2 0 2 2 24
+p331
+aVWillie Green PHI 02/05/2004 PHI vs. LAL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p332
+aVKyle Korver PHI 02/05/2004 PHI vs. LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p333
+aVSamuel Dalembert PHI 02/05/2004 PHI vs. LAL W 27 3 1 3 33.3 0 0 - 1 2 50.0 0 10 10 0 2 2 0 3 9
+p334
+aVJohn Salmons PHI 02/05/2004 PHI vs. LAL W 12 6 2 2 100.0 2 2 100.0 0 0 - 2 1 3 1 0 0 0 1 1
+p335
+aVSamuel Dalembert PHI 02/03/2004 PHI vs. TOR L 41 5 1 7 14.3 0 0 - 3 7 42.9 7 8 15 0 0 3 2 4 -8
+p336
+aVEric Snow PHI 02/03/2004 PHI vs. TOR L 27 2 1 6 16.7 0 0 - 0 0 - 2 2 4 6 1 0 2 1 0
+p337
+aVZendon Hamilton PHI 02/03/2004 PHI vs. TOR L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -5
+p338
+aVWillie Green PHI 02/03/2004 PHI vs. TOR L 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p339
+aVAaron McKie PHI 02/03/2004 PHI vs. TOR L 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -12
+p340
+aVGlenn Robinson PHI 02/03/2004 PHI vs. TOR L 37 18 8 21 38.1 0 4 0.0 2 2 100.0 2 2 4 1 2 0 0 3 -4
+p341
+aVKyle Korver PHI 02/03/2004 PHI vs. TOR L 10 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 2 -12
+p342
+aVAmal McCaskill PHI 02/03/2004 PHI vs. TOR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p343
+aVJohn Salmons PHI 02/03/2004 PHI vs. TOR L 6 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -1
+p344
+aVAllen Iverson PHI 02/03/2004 PHI vs. TOR L 43 36 12 27 44.4 1 4 25.0 11 18 61.1 0 6 6 8 2 0 3 3 -8
+p345
+aVKenny Thomas PHI 02/03/2004 PHI vs. TOR L 41 15 7 14 50.0 0 0 - 1 2 50.0 6 6 12 1 2 0 2 4 -6
+p346
+aVAmal McCaskill PHI 02/01/2004 PHI @ MIN L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -2
+p347
+aVKyle Korver PHI 02/01/2004 PHI @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p348
+aVGlenn Robinson PHI 02/01/2004 PHI @ MIN L 36 27 8 18 44.4 3 6 50.0 8 8 100.0 0 5 5 2 1 0 3 2 2
+p349
+aVGreg Buckner PHI 02/01/2004 PHI @ MIN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p350
+aVWillie Green PHI 02/01/2004 PHI @ MIN L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p351
+aVAllen Iverson PHI 02/01/2004 PHI @ MIN L 45 28 8 21 38.1 1 6 16.7 11 11 100.0 1 5 6 9 1 0 5 3 -4
+p352
+aVKenny Thomas PHI 02/01/2004 PHI @ MIN L 41 16 5 11 45.5 0 0 - 6 8 75.0 8 7 15 3 2 0 3 3 -5
+p353
+aVSamuel Dalembert PHI 02/01/2004 PHI @ MIN L 40 12 4 8 50.0 0 0 - 4 4 100.0 1 5 6 0 0 0 1 4 -2
+p354
+aVAaron McKie PHI 02/01/2004 PHI @ MIN L 21 2 1 5 20.0 0 3 0.0 0 0 - 0 4 4 0 1 0 1 3 -13
+p355
+aVZendon Hamilton PHI 02/01/2004 PHI @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p356
+aVEric Snow PHI 02/01/2004 PHI @ MIN L 39 15 6 13 46.2 0 0 - 3 6 50.0 2 3 5 3 0 0 1 3 1
+p357
+aVAmal McCaskill PHI 01/30/2004 PHI vs. NOH W 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 1 2 -6
+p358
+aVAaron McKie PHI 01/30/2004 PHI vs. NOH W 27 9 4 7 57.1 1 2 50.0 0 0 - 1 1 2 3 3 0 0 0 12
+p359
+aVGlenn Robinson PHI 01/30/2004 PHI vs. NOH W 37 11 5 13 38.5 1 2 50.0 0 0 - 2 9 11 2 0 0 1 2 5
+p360
+aVAllen Iverson PHI 01/30/2004 PHI vs. NOH W 46 31 10 23 43.5 2 5 40.0 9 14 64.3 1 6 7 8 4 0 5 2 2
+p361
+aVKenny Thomas PHI 01/30/2004 PHI vs. NOH W 41 13 6 13 46.2 0 0 - 1 2 50.0 6 8 14 1 1 2 2 1 5
+p362
+aVEric Snow PHI 01/30/2004 PHI vs. NOH W 23 7 3 6 50.0 0 0 - 1 1 100.0 0 0 0 4 2 0 4 1 -7
+p363
+aVWillie Green PHI 01/30/2004 PHI vs. NOH W 5 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 3
+p364
+aVKyle Korver PHI 01/30/2004 PHI vs. NOH W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p365
+aVSamuel Dalembert PHI 01/30/2004 PHI vs. NOH W 44 11 4 11 36.4 0 0 - 3 6 50.0 5 5 10 1 1 4 0 4 2
+p366
+aVSamuel Dalembert PHI 01/28/2004 PHI @ TOR L 23 9 2 4 50.0 0 0 - 5 6 83.3 4 4 8 0 0 0 0 2 -2
+p367
+aVZendon Hamilton PHI 01/28/2004 PHI @ TOR L 7 2 0 0 - 0 0 - 2 2 100.0 1 4 5 0 0 1 1 0 -6
+p368
+aVAmal McCaskill PHI 01/28/2004 PHI @ TOR L 25 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 0 0 1 1 3 -8
+p369
+aVGlenn Robinson PHI 01/28/2004 PHI @ TOR L 36 16 4 14 28.6 2 2 100.0 6 8 75.0 1 3 4 0 0 0 1 1 -7
+p370
+aVEric Snow PHI 01/28/2004 PHI @ TOR L 39 15 5 10 50.0 0 0 - 5 6 83.3 1 1 2 8 1 0 3 4 -10
+p371
+aVJohn Salmons PHI 01/28/2004 PHI @ TOR L 14 4 0 2 0.0 0 1 0.0 4 4 100.0 0 0 0 1 0 1 3 2 -2
+p372
+aVWillie Green PHI 01/28/2004 PHI @ TOR L 14 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 0
+p373
+aVKyle Korver PHI 01/28/2004 PHI @ TOR L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p374
+aVAaron McKie PHI 01/28/2004 PHI @ TOR L 39 12 4 10 40.0 2 4 50.0 2 4 50.0 1 2 3 5 1 0 2 2 -8
+p375
+aVKenny Thomas PHI 01/28/2004 PHI @ TOR L 38 14 5 12 41.7 0 0 - 4 4 100.0 3 8 11 1 1 0 3 3 -8
+p376
+aVAaron McKie PHI 01/27/2004 PHI vs. NJN L 30 4 2 8 25.0 0 1 0.0 0 0 - 0 5 5 0 0 1 3 3 -29
+p377
+aVAmal McCaskill PHI 01/27/2004 PHI vs. NJN L 20 6 1 3 33.3 0 0 - 4 5 80.0 2 3 5 3 0 0 2 3 -1
+p378
+aVZendon Hamilton PHI 01/27/2004 PHI vs. NJN L 6 1 0 0 - 0 0 - 1 4 25.0 0 2 2 0 0 0 0 0 6
+p379
+aVGlenn Robinson PHI 01/27/2004 PHI vs. NJN L 18 7 2 7 28.6 0 3 0.0 3 3 100.0 0 4 4 2 0 0 4 3 -15
+p380
+aVJohn Salmons PHI 01/27/2004 PHI vs. NJN L 29 8 3 9 33.3 0 1 0.0 2 2 100.0 0 3 3 2 0 0 3 1 -4
+p381
+aVKyle Korver PHI 01/27/2004 PHI vs. NJN L 14 3 1 8 12.5 1 4 25.0 0 0 - 0 0 0 0 0 0 1 1 -10
+p382
+aVWillie Green PHI 01/27/2004 PHI vs. NJN L 20 20 6 11 54.5 1 1 100.0 7 8 87.5 1 1 2 1 1 0 0 0 8
+p383
+aVSamuel Dalembert PHI 01/27/2004 PHI vs. NJN L 28 7 2 4 50.0 0 0 - 3 4 75.0 0 9 9 0 0 2 1 4 -17
+p384
+aVEric Snow PHI 01/27/2004 PHI vs. NJN L 30 13 3 10 30.0 0 1 0.0 7 7 100.0 1 0 1 5 1 0 3 2 -14
+p385
+aVKenny Thomas PHI 01/27/2004 PHI vs. NJN L 29 7 2 2 100.0 0 0 - 3 3 100.0 2 5 7 1 1 0 3 2 -20
+p386
+aVGreg Buckner PHI 01/27/2004 PHI vs. NJN L 16 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 6
+p387
+aVEric Snow PHI 01/24/2004 PHI @ CLE L 38 10 3 8 37.5 0 0 - 4 7 57.1 2 1 3 9 0 0 3 3 -5
+p388
+aVAmal McCaskill PHI 01/24/2004 PHI @ CLE L 28 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 0 1 1 2 9
+p389
+aVJohn Salmons PHI 01/24/2004 PHI @ CLE L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 -5
+p390
+aVKyle Korver PHI 01/24/2004 PHI @ CLE L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p391
+aVGlenn Robinson PHI 01/24/2004 PHI @ CLE L 28 20 8 16 50.0 2 4 50.0 2 2 100.0 0 5 5 2 2 0 1 4 -19
+p392
+aVSamuel Dalembert PHI 01/24/2004 PHI @ CLE L 34 9 4 6 66.7 0 0 - 1 2 50.0 0 6 6 1 1 1 2 3 -17
+p393
+aVAaron McKie PHI 01/24/2004 PHI @ CLE L 28 7 3 4 75.0 0 0 - 1 1 100.0 0 3 3 2 0 2 0 1 3
+p394
+aVAllen Iverson PHI 01/24/2004 PHI @ CLE L 39 32 12 29 41.4 1 3 33.3 7 9 77.8 2 3 5 4 2 0 3 1 -1
+p395
+aVZendon Hamilton PHI 01/24/2004 PHI @ CLE L 20 2 0 0 - 0 0 - 2 2 100.0 0 6 6 0 1 0 0 3 -7
+p396
+aVGreg Buckner PHI 01/24/2004 PHI @ CLE L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 5
+p397
+aVJohn Salmons PHI 01/23/2004 PHI vs. ORL L 20 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 1 0 0 2 5
+p398
+aVGlenn Robinson PHI 01/23/2004 PHI vs. ORL L 36 20 9 21 42.9 1 2 50.0 1 3 33.3 3 4 7 0 0 1 1 0 -6
+p399
+aVAaron McKie PHI 01/23/2004 PHI vs. ORL L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -3
+p400
+aVZendon Hamilton PHI 01/23/2004 PHI vs. ORL L 4 3 0 1 0.0 0 0 - 3 6 50.0 1 1 2 0 0 0 0 2 3
+p401
+aVKyle Korver PHI 01/23/2004 PHI vs. ORL L 15 12 4 5 80.0 4 4 100.0 0 0 - 0 1 1 1 0 0 0 3 3
+p402
+aVGreg Buckner PHI 01/23/2004 PHI vs. ORL L 9 0 0 0 - 0 0 - 0 0 - 2 0 2 1 1 0 0 0 -12
+p403
+aVAmal McCaskill PHI 01/23/2004 PHI vs. ORL L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -1
+p404
+aVEric Snow PHI 01/23/2004 PHI vs. ORL L 38 8 2 6 33.3 0 0 - 4 4 100.0 2 6 8 11 1 0 1 5 1
+p405
+aVSamuel Dalembert PHI 01/23/2004 PHI vs. ORL L 27 9 2 7 28.6 0 0 - 5 6 83.3 1 10 11 0 2 2 3 2 -10
+p406
+aVAllen Iverson PHI 01/23/2004 PHI vs. ORL L 48 30 14 29 48.3 1 5 20.0 1 2 50.0 0 3 3 7 3 0 6 3 -5
+p407
+aVDerrick Coleman PHI 01/23/2004 PHI vs. ORL L 11 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 1 0 2 0 0
+p408
+aVKenny Thomas PHI 01/23/2004 PHI vs. ORL L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 0
+p409
+aVJohn Salmons PHI 01/21/2004 PHI @ NOH W 15 12 3 4 75.0 2 2 100.0 4 6 66.7 0 0 0 0 1 0 2 0 -4
+p410
+aVAaron McKie PHI 01/21/2004 PHI @ NOH W 19 5 1 3 33.3 0 2 0.0 3 3 100.0 1 2 3 1 0 0 0 3 2
+p411
+aVAmal McCaskill PHI 01/21/2004 PHI @ NOH W 16 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p412
+aVGlenn Robinson PHI 01/21/2004 PHI @ NOH W 36 23 11 18 61.1 0 1 0.0 1 4 25.0 2 6 8 1 3 0 3 0 8
+p413
+aVKenny Thomas PHI 01/21/2004 PHI @ NOH W 31 9 3 5 60.0 0 0 - 3 4 75.0 3 3 6 1 1 1 2 3 12
+p414
+aVDerrick Coleman PHI 01/21/2004 PHI @ NOH W 26 2 1 7 14.3 0 1 0.0 0 0 - 0 7 7 1 0 1 0 2 0
+p415
+aVEric Snow PHI 01/21/2004 PHI @ NOH W 31 8 3 6 50.0 0 1 0.0 2 2 100.0 1 3 4 8 0 1 3 6 1
+p416
+aVAllen Iverson PHI 01/21/2004 PHI @ NOH W 45 22 9 23 39.1 0 5 0.0 4 4 100.0 0 4 4 5 2 0 3 3 7
+p417
+aVSamuel Dalembert PHI 01/21/2004 PHI @ NOH W 21 7 2 4 50.0 0 0 - 3 4 75.0 3 7 10 1 0 1 0 4 3
+p418
+aVGlenn Robinson PHI 01/19/2004 PHI vs. SEA L 35 27 13 22 59.1 0 2 0.0 1 1 100.0 3 5 8 1 0 0 4 3 -6
+p419
+aVAaron McKie PHI 01/19/2004 PHI vs. SEA L 26 4 1 5 20.0 1 2 50.0 1 2 50.0 1 1 2 5 0 0 0 2 -4
+p420
+aVJohn Salmons PHI 01/19/2004 PHI vs. SEA L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p421
+aVSamuel Dalembert PHI 01/19/2004 PHI vs. SEA L 24 4 2 6 33.3 0 1 0.0 0 2 0.0 5 3 8 0 0 1 1 3 0
+p422
+aVKenny Thomas PHI 01/19/2004 PHI vs. SEA L 35 14 5 7 71.4 0 0 - 4 4 100.0 2 10 12 1 1 0 0 4 -10
+p423
+aVDerrick Coleman PHI 01/19/2004 PHI vs. SEA L 24 0 0 4 0.0 0 0 - 0 0 - 3 4 7 0 1 2 2 0 -7
+p424
+aVAllen Iverson PHI 01/19/2004 PHI vs. SEA L 43 18 7 22 31.8 0 5 0.0 4 6 66.7 0 3 3 3 2 0 3 2 -5
+p425
+aVKyle Korver PHI 01/19/2004 PHI vs. SEA L 13 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 0 0 0 2 1 4
+p426
+aVEric Snow PHI 01/19/2004 PHI vs. SEA L 33 8 1 7 14.3 0 0 - 6 6 100.0 0 3 3 7 0 0 4 4 -21
+p427
+aVAmal McCaskill PHI 01/17/2004 PHI vs. MEM L 12 4 2 5 40.0 0 0 - 0 0 - 3 2 5 0 0 2 0 2 2
+p428
+aVKyle Korver PHI 01/17/2004 PHI vs. MEM L 11 0 0 4 0.0 0 4 0.0 0 0 - 0 3 3 0 0 0 1 0 3
+p429
+aVAaron McKie PHI 01/17/2004 PHI vs. MEM L 23 3 1 6 16.7 1 4 25.0 0 0 - 1 2 3 4 1 0 2 2 11
+p430
+aVEric Snow PHI 01/17/2004 PHI vs. MEM L 35 3 1 6 16.7 0 0 - 1 2 50.0 0 1 1 5 2 0 5 3 -10
+p431
+aVGlenn Robinson PHI 01/17/2004 PHI vs. MEM L 39 20 9 16 56.3 1 1 100.0 1 1 100.0 1 6 7 1 1 0 2 2 -4
+p432
+aVAllen Iverson PHI 01/17/2004 PHI vs. MEM L 41 34 12 27 44.4 2 5 40.0 8 13 61.5 0 5 5 5 0 1 4 0 -7
+p433
+aVSamuel Dalembert PHI 01/17/2004 PHI vs. MEM L 26 13 5 5 100.0 0 0 - 3 3 100.0 3 3 6 0 2 3 1 5 -4
+p434
+aVJohn Salmons PHI 01/17/2004 PHI vs. MEM L 20 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 2 1 0 1 2 6
+p435
+aVDerrick Coleman PHI 01/17/2004 PHI vs. MEM L 33 8 2 8 25.0 0 1 0.0 4 5 80.0 2 7 9 0 2 2 3 4 -17
+p436
+aVEric Snow PHI 01/14/2004 PHI @ DAL L 47 6 2 8 25.0 0 1 0.0 2 4 50.0 2 5 7 12 1 1 3 5 1
+p437
+aVGreg Buckner PHI 01/14/2004 PHI @ DAL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p438
+aVAaron McKie PHI 01/14/2004 PHI @ DAL L 38 7 2 7 28.6 1 5 20.0 2 4 50.0 0 7 7 6 1 1 0 3 -9
+p439
+aVJohn Salmons PHI 01/14/2004 PHI @ DAL L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 1 -1
+p440
+aVAllen Iverson PHI 01/14/2004 PHI @ DAL L 50 31 10 27 37.0 5 10 50.0 6 6 100.0 1 7 8 7 1 0 6 2 -8
+p441
+aVKyle Korver PHI 01/14/2004 PHI @ DAL L 19 17 6 12 50.0 5 9 55.6 0 0 - 1 2 3 0 0 0 0 6 9
+p442
+aVAmal McCaskill PHI 01/14/2004 PHI @ DAL L 15 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 0 0 1 1 -2
+p443
+aVSamuel Dalembert PHI 01/14/2004 PHI @ DAL L 54 24 10 17 58.8 0 0 - 4 7 57.1 4 12 16 0 0 3 1 4 2
+p444
+aVGlenn Robinson PHI 01/14/2004 PHI @ DAL L 43 34 14 20 70.0 2 4 50.0 4 5 80.0 1 6 7 0 0 0 4 1 1
+p445
+aVZendon Hamilton PHI 01/14/2004 PHI @ DAL L 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -3
+p446
+aVEric Snow PHI 01/12/2004 PHI @ ORL W 37 13 5 11 45.5 0 0 - 3 3 100.0 0 4 4 3 1 0 2 2 9
+p447
+aVZendon Hamilton PHI 01/12/2004 PHI @ ORL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p448
+aVAaron McKie PHI 01/12/2004 PHI @ ORL W 21 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 2 0 -8
+p449
+aVKenny Thomas PHI 01/12/2004 PHI @ ORL W 37 13 6 9 66.7 0 0 - 1 2 50.0 4 12 16 1 3 1 0 2 7
+p450
+aVJohn Salmons PHI 01/12/2004 PHI @ ORL W 16 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -6
+p451
+aVGreg Buckner PHI 01/12/2004 PHI @ ORL W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 0
+p452
+aVAmal McCaskill PHI 01/12/2004 PHI @ ORL W 10 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 1 0 2 0
+p453
+aVAllen Iverson PHI 01/12/2004 PHI @ ORL W 43 26 9 29 31.0 1 4 25.0 7 9 77.8 0 0 0 7 2 0 6 2 7
+p454
+aVKyle Korver PHI 01/12/2004 PHI @ ORL W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p455
+aVGlenn Robinson PHI 01/12/2004 PHI @ ORL W 34 19 7 17 41.2 1 2 50.0 4 4 100.0 2 5 7 1 0 0 2 1 8
+p456
+aVSamuel Dalembert PHI 01/12/2004 PHI @ ORL W 26 15 6 9 66.7 0 0 - 3 4 75.0 7 4 11 0 1 3 2 6 12
+p457
+aVKyle Korver PHI 01/10/2004 PHI @ WAS L 20 13 4 7 57.1 3 6 50.0 2 2 100.0 1 3 4 1 2 0 0 3 11
+p458
+aVEric Snow PHI 01/10/2004 PHI @ WAS L 38 14 2 5 40.0 0 0 - 10 10 100.0 0 3 3 7 2 0 5 4 -4
+p459
+aVJohn Salmons PHI 01/10/2004 PHI @ WAS L 19 4 2 7 28.6 0 3 0.0 0 0 - 2 0 2 1 2 0 0 3 1
+p460
+aVSamuel Dalembert PHI 01/10/2004 PHI @ WAS L 29 7 3 5 60.0 0 0 - 1 2 50.0 1 6 7 0 1 3 0 2 -1
+p461
+aVAllen Iverson PHI 01/10/2004 PHI @ WAS L 37 15 7 21 33.3 1 4 25.0 0 0 - 0 2 2 6 2 0 9 0 -7
+p462
+aVGlenn Robinson PHI 01/10/2004 PHI @ WAS L 38 22 7 14 50.0 2 4 50.0 6 6 100.0 1 3 4 1 2 0 3 2 -11
+p463
+aVDerrick Coleman PHI 01/10/2004 PHI @ WAS L 17 2 1 2 50.0 0 0 - 0 0 - 0 3 3 3 0 1 1 4 0
+p464
+aVKenny Thomas PHI 01/10/2004 PHI @ WAS L 37 6 3 8 37.5 0 0 - 0 0 - 3 6 9 1 0 1 4 2 -19
+p465
+aVGreg Buckner PHI 01/10/2004 PHI @ WAS L 5 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -5
+p466
+aVJohn Salmons PHI 01/09/2004 PHI vs. NJN W 20 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 2 1 0 2 3 1
+p467
+aVZendon Hamilton PHI 01/09/2004 PHI vs. NJN W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p468
+aVSamuel Dalembert PHI 01/09/2004 PHI vs. NJN W 25 9 3 4 75.0 0 0 - 3 4 75.0 2 8 10 1 0 4 1 3 10
+p469
+aVKyle Korver PHI 01/09/2004 PHI vs. NJN W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p470
+aVAllen Iverson PHI 01/09/2004 PHI vs. NJN W 43 17 4 16 25.0 2 3 66.7 7 10 70.0 0 5 5 11 1 0 4 1 22
+p471
+aVDerrick Coleman PHI 01/09/2004 PHI vs. NJN W 29 12 6 10 60.0 0 0 - 0 0 - 3 4 7 2 0 1 3 3 12
+p472
+aVAmal McCaskill PHI 01/09/2004 PHI vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p473
+aVGlenn Robinson PHI 01/09/2004 PHI vs. NJN W 31 26 12 16 75.0 2 3 66.7 0 0 - 0 5 5 3 2 1 2 5 14
+p474
+aVKenny Thomas PHI 01/09/2004 PHI vs. NJN W 38 6 2 3 66.7 0 0 - 2 2 100.0 1 10 11 2 0 0 0 2 13
+p475
+aVGreg Buckner PHI 01/09/2004 PHI vs. NJN W 12 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 2
+p476
+aVEric Snow PHI 01/09/2004 PHI vs. NJN W 36 16 7 10 70.0 0 0 - 2 2 100.0 0 4 4 10 1 0 1 1 15
+p477
+aVKyle Korver PHI 01/07/2004 PHI vs. LAC W 12 4 1 3 33.3 1 3 33.3 1 2 50.0 1 0 1 2 0 0 0 3 4
+p478
+aVGlenn Robinson PHI 01/07/2004 PHI vs. LAC W 32 19 9 16 56.3 0 2 0.0 1 1 100.0 1 2 3 3 1 0 2 2 18
+p479
+aVGreg Buckner PHI 01/07/2004 PHI vs. LAC W 19 6 3 4 75.0 0 0 - 0 0 - 2 4 6 1 0 0 2 2 4
+p480
+aVKenny Thomas PHI 01/07/2004 PHI vs. LAC W 37 16 5 12 41.7 0 0 - 6 6 100.0 3 10 13 2 2 0 2 2 16
+p481
+aVAmal McCaskill PHI 01/07/2004 PHI vs. LAC W 18 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 2 1 0 3 16
+p482
+aVEric Snow PHI 01/07/2004 PHI vs. LAC W 36 15 6 12 50.0 0 0 - 3 4 75.0 2 2 4 9 2 0 2 3 20
+p483
+aVAllen Iverson PHI 01/07/2004 PHI vs. LAC W 34 20 8 18 44.4 0 1 0.0 4 7 57.1 1 4 5 5 2 0 6 0 17
+p484
+aVSamuel Dalembert PHI 01/07/2004 PHI vs. LAC W 31 12 6 10 60.0 0 0 - 0 0 - 4 4 8 0 0 3 1 4 5
+p485
+aVJohn Salmons PHI 01/07/2004 PHI vs. LAC W 21 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 0
+p486
+aVKyle Korver PHI 01/05/2004 PHI vs. MIL L 18 12 4 10 40.0 4 7 57.1 0 0 - 0 3 3 3 0 0 2 3 3
+p487
+aVAllen Iverson PHI 01/05/2004 PHI vs. MIL L 37 18 6 18 33.3 0 3 0.0 6 7 85.7 2 3 5 3 2 0 7 2 -21
+p488
+aVDerrick Coleman PHI 01/05/2004 PHI vs. MIL L 26 9 4 9 44.4 0 1 0.0 1 1 100.0 3 4 7 1 0 0 4 2 -11
+p489
+aVZendon Hamilton PHI 01/05/2004 PHI vs. MIL L 10 7 2 3 66.7 0 0 - 3 5 60.0 1 4 5 0 0 0 0 1 -3
+p490
+aVSamuel Dalembert PHI 01/05/2004 PHI vs. MIL L 18 3 1 3 33.3 0 0 - 1 2 50.0 2 5 7 0 1 1 0 2 -1
+p491
+aVKenny Thomas PHI 01/05/2004 PHI vs. MIL L 31 8 4 9 44.4 0 0 - 0 2 0.0 5 8 13 0 2 1 2 4 -5
+p492
+aVGreg Buckner PHI 01/05/2004 PHI vs. MIL L 23 6 3 6 50.0 0 2 0.0 0 0 - 1 1 2 1 0 0 1 1 0
+p493
+aVJohn Salmons PHI 01/05/2004 PHI vs. MIL L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p494
+aVGlenn Robinson PHI 01/05/2004 PHI vs. MIL L 28 6 3 11 27.3 0 2 0.0 0 0 - 0 2 2 0 1 0 2 6 -7
+p495
+aVEric Snow PHI 01/05/2004 PHI vs. MIL L 37 7 3 13 23.1 0 2 0.0 1 2 50.0 1 3 4 7 2 0 4 2 -5
+p496
+aVJohn Salmons PHI 01/03/2004 PHI @ SAS W 29 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 2 1 0 1 0 2
+p497
+aVGlenn Robinson PHI 01/03/2004 PHI @ SAS W 33 16 7 15 46.7 0 1 0.0 2 2 100.0 0 5 5 0 4 0 6 4 14
+p498
+aVEric Snow PHI 01/03/2004 PHI @ SAS W 41 20 5 12 41.7 0 0 - 10 12 83.3 0 3 3 4 1 0 1 2 2
+p499
+aVGreg Buckner PHI 01/03/2004 PHI @ SAS W 36 13 5 11 45.5 1 2 50.0 2 2 100.0 3 3 6 3 0 0 1 5 5
+p500
+aVDerrick Coleman PHI 01/03/2004 PHI @ SAS W 34 20 7 15 46.7 0 1 0.0 6 7 85.7 3 8 11 2 2 1 2 3 10
+p501
+aVKenny Thomas PHI 01/03/2004 PHI @ SAS W 37 12 5 11 45.5 0 0 - 2 4 50.0 4 11 15 0 1 0 4 6 -1
+p502
+aVKyle Korver PHI 01/03/2004 PHI @ SAS W 18 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -3
+p503
+aVSamuel Dalembert PHI 01/03/2004 PHI @ SAS W 12 2 0 0 - 0 0 - 2 2 100.0 2 0 2 1 0 0 2 2 1
+p504
+aVGreg Buckner PHI 12/31/2003 PHI @ HOU L 37 13 5 10 50.0 2 4 50.0 1 2 50.0 1 10 11 4 1 0 3 1 1
+p505
+aVSamuel Dalembert PHI 12/31/2003 PHI @ HOU L 22 5 2 7 28.6 0 0 - 1 4 25.0 1 6 7 0 0 0 1 5 2
+p506
+aVKenny Thomas PHI 12/31/2003 PHI @ HOU L 39 15 7 15 46.7 0 0 - 1 2 50.0 6 6 12 2 3 0 4 3 0
+p507
+aVKyle Korver PHI 12/31/2003 PHI @ HOU L 24 11 4 7 57.1 3 5 60.0 0 0 - 0 2 2 0 0 0 2 0 0
+p508
+aVDerrick Coleman PHI 12/31/2003 PHI @ HOU L 23 3 0 6 0.0 0 0 - 3 4 75.0 0 4 4 1 0 2 1 3 -9
+p509
+aVGlenn Robinson PHI 12/31/2003 PHI @ HOU L 32 10 3 15 20.0 0 1 0.0 4 5 80.0 1 1 2 3 1 0 2 2 -1
+p510
+aVAmal McCaskill PHI 12/31/2003 PHI @ HOU L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p511
+aVJohn Salmons PHI 12/31/2003 PHI @ HOU L 16 4 1 3 33.3 1 2 50.0 1 2 50.0 0 1 1 0 0 0 0 0 -11
+p512
+aVEric Snow PHI 12/31/2003 PHI @ HOU L 42 11 4 11 36.4 0 0 - 3 4 75.0 1 1 2 7 0 0 2 3 -11
+p513
+aVKyle Korver PHI 12/29/2003 PHI @ UTA L 24 9 3 10 30.0 3 8 37.5 0 0 - 0 1 1 0 0 1 0 1 -2
+p514
+aVGreg Buckner PHI 12/29/2003 PHI @ UTA L 35 9 4 10 40.0 0 1 0.0 1 1 100.0 4 0 4 2 2 0 1 5 -5
+p515
+aVJohn Salmons PHI 12/29/2003 PHI @ UTA L 26 11 3 4 75.0 1 1 100.0 4 4 100.0 1 1 2 4 1 0 2 1 -3
+p516
+aVAmal McCaskill PHI 12/29/2003 PHI @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p517
+aVSamuel Dalembert PHI 12/29/2003 PHI @ UTA L 23 8 4 7 57.1 0 0 - 0 0 - 3 3 6 0 0 1 0 2 -12
+p518
+aVEric Snow PHI 12/29/2003 PHI @ UTA L 41 22 8 11 72.7 0 1 0.0 6 9 66.7 2 3 5 10 1 0 2 3 -6
+p519
+aVKenny Thomas PHI 12/29/2003 PHI @ UTA L 30 11 4 6 66.7 0 0 - 3 5 60.0 5 3 8 1 0 2 2 5 1
+p520
+aVGlenn Robinson PHI 12/29/2003 PHI @ UTA L 38 25 6 19 31.6 2 5 40.0 11 14 78.6 2 3 5 2 1 0 6 1 -13
+p521
+aVDerrick Coleman PHI 12/29/2003 PHI @ UTA L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 0 1 1 3 -5
+p522
+aVSamuel Dalembert PHI 12/28/2003 PHI @ PHX L 21 7 3 3 100.0 0 0 - 1 2 50.0 1 3 4 1 2 1 1 1 -1
+p523
+aVAaron McKie PHI 12/28/2003 PHI @ PHX L 19 9 3 9 33.3 1 3 33.3 2 4 50.0 1 1 2 1 0 0 2 1 -5
+p524
+aVGlenn Robinson PHI 12/28/2003 PHI @ PHX L 38 23 7 18 38.9 2 6 33.3 7 10 70.0 1 8 9 1 0 0 2 1 -9
+p525
+aVEric Snow PHI 12/28/2003 PHI @ PHX L 38 17 6 9 66.7 0 0 - 5 7 71.4 1 4 5 7 0 1 4 5 -11
+p526
+aVAmal McCaskill PHI 12/28/2003 PHI @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p527
+aVKyle Korver PHI 12/28/2003 PHI @ PHX L 32 5 2 6 33.3 1 2 50.0 0 0 - 2 1 3 4 1 1 1 2 8
+p528
+aVKenny Thomas PHI 12/28/2003 PHI @ PHX L 26 10 4 7 57.1 0 0 - 2 4 50.0 3 3 6 1 1 1 1 1 -12
+p529
+aVDerrick Coleman PHI 12/28/2003 PHI @ PHX L 25 12 5 10 50.0 0 1 0.0 2 2 100.0 1 3 4 1 0 0 2 3 -5
+p530
+aVGreg Buckner PHI 12/28/2003 PHI @ PHX L 11 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 0 1 0 0 1 1
+p531
+aVJohn Salmons PHI 12/28/2003 PHI @ PHX L 25 3 1 7 14.3 1 2 50.0 0 0 - 0 1 1 2 0 1 2 4 -3
+p532
+aVJohn Salmons PHI 12/26/2003 PHI @ LAC L 23 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 3 2 1 1 2 -1
+p533
+aVSamuel Dalembert PHI 12/26/2003 PHI @ LAC L 21 10 5 7 71.4 0 0 - 0 2 0.0 1 2 3 1 0 1 2 4 -9
+p534
+aVKyle Korver PHI 12/26/2003 PHI @ LAC L 18 6 2 6 33.3 2 3 66.7 0 0 - 0 1 1 1 1 1 1 5 -3
+p535
+aVZendon Hamilton PHI 12/26/2003 PHI @ LAC L 9 4 2 2 100.0 0 0 - 0 1 0.0 0 2 2 2 0 0 0 2 -2
+p536
+aVEric Snow PHI 12/26/2003 PHI @ LAC L 34 14 5 14 35.7 0 1 0.0 4 5 80.0 2 0 2 13 3 0 3 2 0
+p537
+aVAmal McCaskill PHI 12/26/2003 PHI @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p538
+aVAaron McKie PHI 12/26/2003 PHI @ LAC L 40 16 7 13 53.8 2 3 66.7 0 0 - 1 2 3 6 1 0 0 2 -5
+p539
+aVKenny Thomas PHI 12/26/2003 PHI @ LAC L 25 10 3 7 42.9 0 0 - 4 4 100.0 4 6 10 3 0 0 2 3 -12
+p540
+aVGreg Buckner PHI 12/26/2003 PHI @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p541
+aVGlenn Robinson PHI 12/26/2003 PHI @ LAC L 38 21 6 14 42.9 1 2 50.0 8 9 88.9 0 3 3 1 1 1 2 2 3
+p542
+aVDerrick Coleman PHI 12/26/2003 PHI @ LAC L 28 13 5 10 50.0 1 3 33.3 2 3 66.7 1 4 5 0 2 0 2 2 6
+p543
+aVEric Snow PHI 12/22/2003 PHI vs. ORL W 41 14 7 11 63.6 0 0 - 0 0 - 0 6 6 14 1 0 0 1 23
+p544
+aVAmal McCaskill PHI 12/22/2003 PHI vs. ORL W 19 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 1 1 2 3 1
+p545
+aVAaron McKie PHI 12/22/2003 PHI vs. ORL W 33 14 5 15 33.3 3 5 60.0 1 2 50.0 3 4 7 5 2 0 3 0 16
+p546
+aVGlenn Robinson PHI 12/22/2003 PHI vs. ORL W 38 22 10 20 50.0 1 3 33.3 1 1 100.0 1 4 5 3 1 0 3 3 21
+p547
+aVJohn Salmons PHI 12/22/2003 PHI vs. ORL W 26 9 3 6 50.0 1 2 50.0 2 2 100.0 0 3 3 3 2 0 2 4 5
+p548
+aVGreg Buckner PHI 12/22/2003 PHI vs. ORL W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 0 1 1
+p549
+aVKenny Thomas PHI 12/22/2003 PHI vs. ORL W 6 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 3 1
+p550
+aVSamuel Dalembert PHI 12/22/2003 PHI vs. ORL W 26 8 4 5 80.0 0 0 - 0 0 - 1 8 9 0 0 3 1 4 23
+p551
+aVZendon Hamilton PHI 12/22/2003 PHI vs. ORL W 21 6 2 3 66.7 0 0 - 2 2 100.0 3 5 8 0 1 0 1 2 -5
+p552
+aVKyle Korver PHI 12/22/2003 PHI vs. ORL W 23 16 6 17 35.3 4 10 40.0 0 0 - 3 2 5 0 0 0 0 3 24
+p553
+aVAmal McCaskill PHI 12/21/2003 PHI @ BOS L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 8
+p554
+aVEric Snow PHI 12/21/2003 PHI @ BOS L 41 6 1 10 10.0 0 0 - 4 5 80.0 1 5 6 10 2 0 2 3 -5
+p555
+aVKyle Korver PHI 12/21/2003 PHI @ BOS L 18 18 6 6 100.0 5 5 100.0 1 1 100.0 1 2 3 1 1 1 2 3 11
+p556
+aVSamuel Dalembert PHI 12/21/2003 PHI @ BOS L 28 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -10
+p557
+aVDerrick Coleman PHI 12/21/2003 PHI @ BOS L 21 11 4 12 33.3 0 1 0.0 3 3 100.0 1 3 4 2 2 1 3 3 0
+p558
+aVJohn Salmons PHI 12/21/2003 PHI @ BOS L 21 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 3 1 0 0 4 -5
+p559
+aVGreg Buckner PHI 12/21/2003 PHI @ BOS L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 1
+p560
+aVGlenn Robinson PHI 12/21/2003 PHI @ BOS L 29 4 2 10 20.0 0 1 0.0 0 0 - 3 2 5 2 1 0 2 2 -8
+p561
+aVKenny Thomas PHI 12/21/2003 PHI @ BOS L 32 12 4 11 36.4 0 0 - 4 5 80.0 4 5 9 2 1 1 4 3 -11
+p562
+aVAaron McKie PHI 12/21/2003 PHI @ BOS L 36 24 10 19 52.6 4 7 57.1 0 0 - 0 2 2 5 2 0 1 1 4
+p563
+aVAaron McKie PHI 12/19/2003 PHI vs. CLE L 36 6 3 6 50.0 0 1 0.0 0 0 - 0 4 4 4 3 1 3 2 -6
+p564
+aVEric Snow PHI 12/19/2003 PHI vs. CLE L 35 10 5 11 45.5 0 0 - 0 0 - 0 1 1 4 2 0 1 4 -4
+p565
+aVKyle Korver PHI 12/19/2003 PHI vs. CLE L 12 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 1 0 0 3 0 -1
+p566
+aVKenny Thomas PHI 12/19/2003 PHI vs. CLE L 35 11 3 11 27.3 0 0 - 5 7 71.4 1 5 6 0 2 0 3 4 -10
+p567
+aVGlenn Robinson PHI 12/19/2003 PHI vs. CLE L 35 18 8 15 53.3 1 3 33.3 1 1 100.0 1 3 4 1 4 0 7 3 -3
+p568
+aVGreg Buckner PHI 12/19/2003 PHI vs. CLE L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p569
+aVJohn Salmons PHI 12/19/2003 PHI vs. CLE L 20 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 2 1 0 0 2 -3
+p570
+aVZendon Hamilton PHI 12/19/2003 PHI vs. CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p571
+aVSamuel Dalembert PHI 12/19/2003 PHI vs. CLE L 15 8 4 4 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -10
+p572
+aVAmal McCaskill PHI 12/19/2003 PHI vs. CLE L 11 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 1 0 0 0 1
+p573
+aVDerrick Coleman PHI 12/19/2003 PHI vs. CLE L 32 15 5 7 71.4 1 2 50.0 4 6 66.7 1 7 8 5 0 2 2 3 6
+p574
+aVSamuel Dalembert PHI 12/17/2003 PHI vs. MIA W 24 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 2 1 3 13
+p575
+aVEric Snow PHI 12/17/2003 PHI vs. MIA W 40 8 4 7 57.1 0 0 - 0 0 - 1 5 6 7 0 0 3 2 9
+p576
+aVKyle Korver PHI 12/17/2003 PHI vs. MIA W 16 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 1 1 0 1 1 6
+p577
+aVJohn Salmons PHI 12/17/2003 PHI vs. MIA W 19 2 1 2 50.0 0 0 - 0 0 - 0 3 3 3 1 0 3 2 5
+p578
+aVDerrick Coleman PHI 12/17/2003 PHI vs. MIA W 28 6 3 8 37.5 0 1 0.0 0 0 - 1 7 8 2 0 0 2 1 10
+p579
+aVKenny Thomas PHI 12/17/2003 PHI vs. MIA W 38 17 5 9 55.6 0 0 - 7 7 100.0 2 5 7 1 2 0 3 5 -2
+p580
+aVGlenn Robinson PHI 12/17/2003 PHI vs. MIA W 32 19 8 14 57.1 0 1 0.0 3 3 100.0 1 3 4 2 1 1 3 2 3
+p581
+aVZendon Hamilton PHI 12/17/2003 PHI vs. MIA W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p582
+aVAaron McKie PHI 12/17/2003 PHI vs. MIA W 40 20 7 12 58.3 4 5 80.0 2 4 50.0 0 4 4 6 1 0 2 2 10
+p583
+aVKyle Korver PHI 12/14/2003 PHI vs. UTA L 17 14 5 9 55.6 4 5 80.0 0 0 - 2 1 3 1 2 1 0 5 3
+p584
+aVKenny Thomas PHI 12/14/2003 PHI vs. UTA L 40 16 5 10 50.0 0 0 - 6 7 85.7 4 5 9 3 1 0 4 4 -11
+p585
+aVJohn Salmons PHI 12/14/2003 PHI vs. UTA L 33 8 2 8 25.0 0 3 0.0 4 6 66.7 0 5 5 4 2 0 1 1 -1
+p586
+aVSamuel Dalembert PHI 12/14/2003 PHI vs. UTA L 20 11 5 6 83.3 0 0 - 1 1 100.0 1 2 3 0 1 1 0 3 16
+p587
+aVZendon Hamilton PHI 12/14/2003 PHI vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p588
+aVGlenn Robinson PHI 12/14/2003 PHI vs. UTA L 16 2 1 6 16.7 0 0 - 0 0 - 0 1 1 0 0 0 3 3 -13
+p589
+aVAaron McKie PHI 12/14/2003 PHI vs. UTA L 41 8 3 10 30.0 1 4 25.0 1 1 100.0 0 6 6 6 1 2 3 3 -19
+p590
+aVEric Snow PHI 12/14/2003 PHI vs. UTA L 38 13 5 12 41.7 0 1 0.0 3 4 75.0 3 0 3 4 0 0 4 4 -4
+p591
+aVDerrick Coleman PHI 12/14/2003 PHI vs. UTA L 30 14 5 13 38.5 0 4 0.0 4 4 100.0 3 4 7 3 1 0 1 3 2
+p592
+aVAmal McCaskill PHI 12/14/2003 PHI vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p593
+aVAllen Iverson PHI 12/12/2003 PHI vs. DEN L 44 18 6 22 27.3 2 5 40.0 4 6 66.7 1 2 3 8 2 1 7 2 -14
+p594
+aVAmal McCaskill PHI 12/12/2003 PHI vs. DEN L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -1
+p595
+aVDerrick Coleman PHI 12/12/2003 PHI vs. DEN L 14 2 1 2 50.0 0 0 - 0 0 - 0 5 5 1 2 0 1 2 -13
+p596
+aVKenny Thomas PHI 12/12/2003 PHI vs. DEN L 43 19 9 17 52.9 0 0 - 1 1 100.0 5 7 12 0 0 1 1 1 -8
+p597
+aVJohn Salmons PHI 12/12/2003 PHI vs. DEN L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 4 0 0 1 3
+p598
+aVAaron McKie PHI 12/12/2003 PHI vs. DEN L 27 10 4 8 50.0 2 5 40.0 0 0 - 3 3 6 0 1 0 0 4 6
+p599
+aVGlenn Robinson PHI 12/12/2003 PHI vs. DEN L 27 6 3 11 27.3 0 1 0.0 0 0 - 1 1 2 1 1 0 3 1 -11
+p600
+aVSamuel Dalembert PHI 12/12/2003 PHI vs. DEN L 30 8 4 7 57.1 0 0 - 0 0 - 3 3 6 0 0 3 1 5 5
+p601
+aVEric Snow PHI 12/12/2003 PHI vs. DEN L 36 14 5 11 45.5 0 1 0.0 4 4 100.0 0 5 5 11 0 0 2 2 -12
+p602
+aVGreg Buckner PHI 12/09/2003 PHI @ DET W 17 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 1 -3
+p603
+aVAmal McCaskill PHI 12/09/2003 PHI @ DET W 15 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 1 1 0 3 2
+p604
+aVAaron McKie PHI 12/09/2003 PHI @ DET W 39 21 9 16 56.3 2 3 66.7 1 1 100.0 0 2 2 5 2 2 1 3 8
+p605
+aVJohn Salmons PHI 12/09/2003 PHI @ DET W 26 12 6 11 54.5 0 1 0.0 0 0 - 0 7 7 3 1 0 2 4 2
+p606
+aVSamuel Dalembert PHI 12/09/2003 PHI @ DET W 25 6 3 7 42.9 0 0 - 0 0 - 4 6 10 0 2 1 1 3 -5
+p607
+aVDerrick Coleman PHI 12/09/2003 PHI @ DET W 35 11 4 14 28.6 0 1 0.0 3 4 75.0 3 3 6 3 0 1 1 1 7
+p608
+aVKyle Korver PHI 12/09/2003 PHI @ DET W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -2
+p609
+aVEric Snow PHI 12/09/2003 PHI @ DET W 39 17 8 16 50.0 0 0 - 1 2 50.0 0 3 3 7 3 0 4 2 3
+p610
+aVKenny Thomas PHI 12/09/2003 PHI @ DET W 35 8 3 10 30.0 0 0 - 2 3 66.7 4 5 9 0 0 0 1 1 -2
+p611
+aVAllen Iverson PHI 12/05/2003 PHI @ MIA W 44 35 7 23 30.4 5 9 55.6 16 17 94.1 1 3 4 2 1 0 5 3 1
+p612
+aVKyle Korver PHI 12/05/2003 PHI @ MIA W 3 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p613
+aVAaron McKie PHI 12/05/2003 PHI @ MIA W 28 14 5 9 55.6 4 6 66.7 0 0 - 1 2 3 2 2 1 2 0 5
+p614
+aVAmal McCaskill PHI 12/05/2003 PHI @ MIA W 23 6 2 4 50.0 0 0 - 2 2 100.0 3 1 4 1 0 2 0 4 10
+p615
+aVJohn Salmons PHI 12/05/2003 PHI @ MIA W 16 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 1 0 0 2 -2
+p616
+aVKenny Thomas PHI 12/05/2003 PHI @ MIA W 37 9 1 3 33.3 0 0 - 7 8 87.5 4 8 12 2 1 1 4 4 4
+p617
+aVSamuel Dalembert PHI 12/05/2003 PHI @ MIA W 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 4 1 4 1
+p618
+aVGreg Buckner PHI 12/05/2003 PHI @ MIA W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 1 1 1 -4
+p619
+aVDerrick Coleman PHI 12/05/2003 PHI @ MIA W 26 12 4 6 66.7 0 0 - 4 6 66.7 0 7 7 0 0 0 2 4 -7
+p620
+aVEric Snow PHI 12/05/2003 PHI @ MIA W 38 7 3 8 37.5 0 0 - 1 4 25.0 1 1 2 5 0 0 4 3 5
+p621
+aVAmal McCaskill PHI 12/04/2003 PHI vs. CHI W 12 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 1 0 0 4
+p622
+aVAaron McKie PHI 12/04/2003 PHI vs. CHI W 28 8 3 9 33.3 1 5 20.0 1 4 25.0 2 4 6 2 2 0 1 4 7
+p623
+aVDerrick Coleman PHI 12/04/2003 PHI vs. CHI W 33 3 1 7 14.3 1 1 100.0 0 0 - 2 9 11 2 1 1 0 3 -3
+p624
+aVEric Snow PHI 12/04/2003 PHI vs. CHI W 40 9 3 8 37.5 0 0 - 3 3 100.0 1 2 3 5 2 0 3 3 -1
+p625
+aVKenny Thomas PHI 12/04/2003 PHI vs. CHI W 32 4 2 8 25.0 0 1 0.0 0 0 - 3 3 6 0 0 0 5 1 -12
+p626
+aVJohn Salmons PHI 12/04/2003 PHI vs. CHI W 20 7 2 7 28.6 1 3 33.3 2 2 100.0 0 1 1 1 0 0 1 3 4
+p627
+aVGreg Buckner PHI 12/04/2003 PHI vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p628
+aVAllen Iverson PHI 12/04/2003 PHI vs. CHI W 42 35 14 29 48.3 0 4 0.0 7 10 70.0 2 7 9 2 4 0 4 2 -1
+p629
+aVSamuel Dalembert PHI 12/04/2003 PHI vs. CHI W 31 13 5 9 55.6 0 0 - 3 4 75.0 4 3 7 0 0 4 1 4 6
+p630
+aVSamuel Dalembert PHI 12/02/2003 PHI vs. TOR L 19 3 1 3 33.3 0 0 - 1 2 50.0 5 3 8 0 0 2 1 3 -4
+p631
+aVEric Snow PHI 12/02/2003 PHI vs. TOR L 38 4 2 6 33.3 0 0 - 0 0 - 2 2 4 5 0 0 1 3 -3
+p632
+aVAmal McCaskill PHI 12/02/2003 PHI vs. TOR L 14 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 3 -6
+p633
+aVAaron McKie PHI 12/02/2003 PHI vs. TOR L 32 11 4 10 40.0 1 3 33.3 2 2 100.0 1 3 4 2 1 0 1 6 0
+p634
+aVKenny Thomas PHI 12/02/2003 PHI vs. TOR L 39 18 8 16 50.0 0 0 - 2 3 66.7 3 6 9 2 1 1 1 2 -4
+p635
+aVGreg Buckner PHI 12/02/2003 PHI vs. TOR L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -8
+p636
+aVAllen Iverson PHI 12/02/2003 PHI vs. TOR L 46 35 8 32 25.0 1 6 16.7 18 23 78.3 1 6 7 7 2 0 4 1 -2
+p637
+aVMarc Jackson PHI 12/02/2003 PHI vs. TOR L 13 12 5 7 71.4 0 0 - 2 3 66.7 2 2 4 0 0 0 2 3 -2
+p638
+aVJohn Salmons PHI 12/02/2003 PHI vs. TOR L 25 3 1 5 20.0 1 3 33.3 0 0 - 2 5 7 2 1 0 1 1 -11
+p639
+aVKyle Korver PHI 12/02/2003 PHI vs. TOR L 8 0 0 4 0.0 0 4 0.0 0 0 - 0 0 0 1 1 0 1 3 5
+p640
+aVKenny Thomas PHI 11/29/2003 PHI vs. ATL W 31 8 3 9 33.3 0 0 - 2 2 100.0 7 6 13 1 0 1 2 4 11
+p641
+aVEric Snow PHI 11/29/2003 PHI vs. ATL W 35 6 3 6 50.0 0 0 - 0 0 - 0 2 2 9 0 0 2 1 6
+p642
+aVSamuel Dalembert PHI 11/29/2003 PHI vs. ATL W 9 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 3 4
+p643
+aVWillie Green PHI 11/29/2003 PHI vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p644
+aVJohn Salmons PHI 11/29/2003 PHI vs. ATL W 20 13 4 4 100.0 2 2 100.0 3 3 100.0 1 2 3 1 0 0 1 0 17
+p645
+aVAmal McCaskill PHI 11/29/2003 PHI vs. ATL W 16 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 2
+p646
+aVMarc Jackson PHI 11/29/2003 PHI vs. ATL W 39 8 2 11 18.2 0 0 - 4 4 100.0 1 8 9 2 2 1 1 2 8
+p647
+aVKyle Korver PHI 11/29/2003 PHI vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p648
+aVAllen Iverson PHI 11/29/2003 PHI vs. ATL W 43 50 20 34 58.8 4 7 57.1 6 8 75.0 2 3 5 6 2 0 2 3 11
+p649
+aVAaron McKie PHI 11/29/2003 PHI vs. ATL W 32 7 3 7 42.9 1 3 33.3 0 0 - 1 3 4 4 4 0 1 2 9
+p650
+aVGreg Buckner PHI 11/29/2003 PHI vs. ATL W 12 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p651
+aVKenny Thomas PHI 11/28/2003 PHI @ IND L 32 14 5 9 55.6 0 0 - 4 6 66.7 2 5 7 1 1 0 3 4 -8
+p652
+aVSamuel Dalembert PHI 11/28/2003 PHI @ IND L 22 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 1 1 1 2 1
+p653
+aVAaron McKie PHI 11/28/2003 PHI @ IND L 29 10 5 11 45.5 0 0 - 0 0 - 0 3 3 4 1 2 1 0 -3
+p654
+aVWillie Green PHI 11/28/2003 PHI @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p655
+aVAllen Iverson PHI 11/28/2003 PHI @ IND L 36 12 4 19 21.1 0 0 - 4 6 66.7 0 2 2 2 2 0 1 0 -12
+p656
+aVMarc Jackson PHI 11/28/2003 PHI @ IND L 24 12 3 5 60.0 0 0 - 6 6 100.0 1 1 2 0 0 0 2 3 -14
+p657
+aVEric Snow PHI 11/28/2003 PHI @ IND L 36 12 4 8 50.0 0 0 - 4 4 100.0 1 2 3 10 2 0 1 3 -12
+p658
+aVKyle Korver PHI 11/28/2003 PHI @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p659
+aVJohn Salmons PHI 11/28/2003 PHI @ IND L 27 9 4 8 50.0 1 1 100.0 0 0 - 3 0 3 0 1 1 0 0 2
+p660
+aVGreg Buckner PHI 11/28/2003 PHI @ IND L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 1 0 0 3 -3
+p661
+aVAmal McCaskill PHI 11/28/2003 PHI @ IND L 12 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 1 3 3 -12
+p662
+aVEric Snow PHI 11/26/2003 PHI vs. DET W 34 13 5 14 35.7 0 0 - 3 5 60.0 0 2 2 8 2 0 1 5 2
+p663
+aVAllen Iverson PHI 11/26/2003 PHI vs. DET W 46 30 12 23 52.2 2 4 50.0 4 6 66.7 0 2 2 7 3 0 6 4 4
+p664
+aVSamuel Dalembert PHI 11/26/2003 PHI vs. DET W 16 8 4 5 80.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 4
+p665
+aVDerrick Coleman PHI 11/26/2003 PHI vs. DET W 29 9 4 10 40.0 0 1 0.0 1 1 100.0 0 5 5 1 2 1 0 1 3
+p666
+aVGreg Buckner PHI 11/26/2003 PHI vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p667
+aVAaron McKie PHI 11/26/2003 PHI vs. DET W 22 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 4 0 3 2 5
+p668
+aVMarc Jackson PHI 11/26/2003 PHI vs. DET W 32 8 4 8 50.0 0 0 - 0 0 - 1 5 6 2 1 1 0 2 -6
+p669
+aVJohn Salmons PHI 11/26/2003 PHI vs. DET W 24 7 3 6 50.0 1 3 33.3 0 0 - 2 2 4 1 0 1 2 1 9
+p670
+aVKenny Thomas PHI 11/26/2003 PHI vs. DET W 37 15 7 13 53.8 0 0 - 1 1 100.0 4 9 13 2 3 0 3 4 7
+p671
+aVDerrick Coleman PHI 11/25/2003 PHI @ MIL L 25 14 6 9 66.7 1 2 50.0 1 2 50.0 2 3 5 2 0 0 3 1 -3
+p672
+aVSamuel Dalembert PHI 11/25/2003 PHI @ MIL L 18 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 0 1 2 0 2 -13
+p673
+aVAllen Iverson PHI 11/25/2003 PHI @ MIL L 43 28 12 30 40.0 2 7 28.6 2 5 40.0 0 2 2 6 2 0 6 3 -1
+p674
+aVMarc Jackson PHI 11/25/2003 PHI @ MIL L 30 9 1 7 14.3 0 0 - 7 8 87.5 6 2 8 3 2 1 2 4 10
+p675
+aVAaron McKie PHI 11/25/2003 PHI @ MIL L 31 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 3 0 0 2 1 -13
+p676
+aVKenny Thomas PHI 11/25/2003 PHI @ MIL L 39 12 6 16 37.5 0 1 0.0 0 0 - 7 8 15 2 3 0 2 4 2
+p677
+aVGreg Buckner PHI 11/25/2003 PHI @ MIL L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -7
+p678
+aVJohn Salmons PHI 11/25/2003 PHI @ MIL L 12 8 3 4 75.0 2 2 100.0 0 0 - 1 0 1 1 2 0 1 3 -3
+p679
+aVEric Snow PHI 11/25/2003 PHI @ MIL L 34 8 3 7 42.9 0 0 - 2 3 66.7 0 4 4 6 0 1 1 5 8
+p680
+aVEric Snow PHI 11/22/2003 PHI @ NYK L 35 14 3 9 33.3 0 0 - 8 8 100.0 2 3 5 8 1 0 1 1 -6
+p681
+aVAaron McKie PHI 11/22/2003 PHI @ NYK L 30 14 5 7 71.4 2 2 100.0 2 2 100.0 2 3 5 3 2 0 3 1 -9
+p682
+aVSamuel Dalembert PHI 11/22/2003 PHI @ NYK L 28 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 0 2 0 0 2 -6
+p683
+aVMarc Jackson PHI 11/22/2003 PHI @ NYK L 34 11 1 8 12.5 0 0 - 9 10 90.0 4 5 9 0 1 0 3 2 -6
+p684
+aVWillie Green PHI 11/22/2003 PHI @ NYK L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 9
+p685
+aVKyle Korver PHI 11/22/2003 PHI @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -1
+p686
+aVAllen Iverson PHI 11/22/2003 PHI @ NYK L 40 27 9 23 39.1 1 3 33.3 8 10 80.0 0 0 0 1 3 0 6 1 -21
+p687
+aVAmal McCaskill PHI 11/22/2003 PHI @ NYK L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 1
+p688
+aVKenny Thomas PHI 11/22/2003 PHI @ NYK L 40 14 7 10 70.0 0 0 - 0 0 - 2 2 4 2 2 0 0 2 -13
+p689
+aVJohn Salmons PHI 11/22/2003 PHI @ NYK L 19 2 1 5 20.0 0 0 - 0 0 - 1 4 5 1 1 0 1 1 -3
+p690
+aVEric Snow PHI 11/21/2003 PHI vs. BOS W 38 6 3 9 33.3 0 0 - 0 0 - 0 1 1 4 1 0 0 3 -9
+p691
+aVAllen Iverson PHI 11/21/2003 PHI vs. BOS W 45 24 8 25 32.0 1 3 33.3 7 7 100.0 0 3 3 8 3 0 5 2 11
+p692
+aVAaron McKie PHI 11/21/2003 PHI vs. BOS W 26 9 2 5 40.0 0 2 0.0 5 6 83.3 0 5 5 2 4 0 3 3 1
+p693
+aVWillie Green PHI 11/21/2003 PHI vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p694
+aVKenny Thomas PHI 11/21/2003 PHI vs. BOS W 38 14 5 11 45.5 0 0 - 4 6 66.7 3 9 12 4 1 1 2 1 12
+p695
+aVJohn Salmons PHI 11/21/2003 PHI vs. BOS W 19 10 3 4 75.0 2 2 100.0 2 2 100.0 1 2 3 1 0 0 1 2 4
+p696
+aVAmal McCaskill PHI 11/21/2003 PHI vs. BOS W 16 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 5
+p697
+aVMarc Jackson PHI 11/21/2003 PHI vs. BOS W 38 12 3 7 42.9 0 0 - 6 6 100.0 2 7 9 1 0 0 3 5 -6
+p698
+aVSamuel Dalembert PHI 11/21/2003 PHI vs. BOS W 17 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 0 1 2 5 1
+p699
+aVAmal McCaskill PHI 11/19/2003 PHI @ TOR W 16 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 1 0 4 -3
+p700
+aVEric Snow PHI 11/19/2003 PHI @ TOR W 43 18 6 16 37.5 0 0 - 6 8 75.0 2 4 6 8 0 0 0 3 4
+p701
+aVKyle Korver PHI 11/19/2003 PHI @ TOR W 6 3 1 5 20.0 1 4 25.0 0 0 - 1 0 1 1 0 0 0 0 4
+p702
+aVAaron McKie PHI 11/19/2003 PHI @ TOR W 41 21 6 13 46.2 2 2 100.0 7 7 100.0 0 5 5 1 0 0 4 3 7
+p703
+aVJohn Salmons PHI 11/19/2003 PHI @ TOR W 26 2 1 2 50.0 0 0 - 0 0 - 2 3 5 3 1 0 1 2 -1
+p704
+aVMarc Jackson PHI 11/19/2003 PHI @ TOR W 38 23 10 16 62.5 0 0 - 3 4 75.0 0 4 4 2 2 0 1 0 11
+p705
+aVKenny Thomas PHI 11/19/2003 PHI @ TOR W 38 12 4 9 44.4 0 0 - 4 6 66.7 4 9 13 1 0 0 2 4 4
+p706
+aVSamuel Dalembert PHI 11/19/2003 PHI @ TOR W 22 0 0 3 0.0 0 0 - 0 0 - 1 6 7 0 0 3 0 1 8
+p707
+aVWillie Green PHI 11/19/2003 PHI @ TOR W 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 -4
+p708
+aVAllen Iverson PHI 11/17/2003 PHI vs. HOU L 45 15 4 19 21.1 0 3 0.0 7 9 77.8 2 5 7 6 1 0 5 3 -8
+p709
+aVKenny Thomas PHI 11/17/2003 PHI vs. HOU L 21 4 2 5 40.0 0 0 - 0 0 - 3 5 8 0 0 0 1 2 -9
+p710
+aVAmal McCaskill PHI 11/17/2003 PHI vs. HOU L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p711
+aVMarc Jackson PHI 11/17/2003 PHI vs. HOU L 41 12 4 13 30.8 0 0 - 4 8 50.0 1 4 5 2 0 1 0 2 -4
+p712
+aVWillie Green PHI 11/17/2003 PHI vs. HOU L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 0 1 0 1 1 -2
+p713
+aVKyle Korver PHI 11/17/2003 PHI vs. HOU L 3 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 0 0 1
+p714
+aVJohn Salmons PHI 11/17/2003 PHI vs. HOU L 21 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 0 -6
+p715
+aVEric Snow PHI 11/17/2003 PHI vs. HOU L 32 8 3 10 30.0 0 0 - 2 2 100.0 0 4 4 5 4 0 1 1 -6
+p716
+aVSamuel Dalembert PHI 11/17/2003 PHI vs. HOU L 26 8 3 5 60.0 0 0 - 2 2 100.0 4 4 8 0 3 4 1 3 -2
+p717
+aVAaron McKie PHI 11/17/2003 PHI vs. HOU L 31 10 4 9 44.4 0 2 0.0 2 2 100.0 0 6 6 2 0 0 5 5 -2
+p718
+aVAmal McCaskill PHI 11/15/2003 PHI @ CLE L 18 6 3 6 50.0 0 0 - 0 0 - 3 3 6 1 0 0 1 3 -5
+p719
+aVMarc Jackson PHI 11/15/2003 PHI @ CLE L 44 19 9 17 52.9 0 0 - 1 2 50.0 5 10 15 0 1 1 0 2 -2
+p720
+aVJohn Salmons PHI 11/15/2003 PHI @ CLE L 23 11 2 7 28.6 0 1 0.0 7 8 87.5 2 2 4 1 2 0 0 1 -1
+p721
+aVAllen Iverson PHI 11/15/2003 PHI @ CLE L 47 19 8 29 27.6 0 2 0.0 3 6 50.0 3 2 5 7 4 1 5 3 2
+p722
+aVWillie Green PHI 11/15/2003 PHI @ CLE L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p723
+aVSamuel Dalembert PHI 11/15/2003 PHI @ CLE L 29 8 4 6 66.7 0 0 - 0 0 - 2 8 10 0 1 0 1 3 -7
+p724
+aVEric Snow PHI 11/15/2003 PHI @ CLE L 44 12 3 15 20.0 0 1 0.0 6 8 75.0 0 3 3 6 2 0 2 3 -1
+p725
+aVAaron McKie PHI 11/15/2003 PHI @ CLE L 42 10 3 9 33.3 1 2 50.0 3 3 100.0 1 4 5 1 0 1 0 0 7
+p726
+aVKyle Korver PHI 11/15/2003 PHI @ CLE L 8 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 0 0 0 1 1 -2
+p727
+aVJohn Salmons PHI 11/14/2003 PHI vs. SAS W 13 11 4 5 80.0 1 1 100.0 2 2 100.0 0 2 2 1 0 0 0 4 -2
+p728
+aVMarc Jackson PHI 11/14/2003 PHI vs. SAS W 35 16 5 10 50.0 0 0 - 6 6 100.0 5 4 9 1 0 0 1 3 -4
+p729
+aVAmal McCaskill PHI 11/14/2003 PHI vs. SAS W 15 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 1 0 1 1 1 10
+p730
+aVAllen Iverson PHI 11/14/2003 PHI vs. SAS W 45 36 12 27 44.4 0 3 0.0 12 18 66.7 0 4 4 12 3 0 6 2 6
+p731
+aVAaron McKie PHI 11/14/2003 PHI vs. SAS W 42 14 7 8 87.5 0 0 - 0 2 0.0 0 6 6 2 0 0 0 1 7
+p732
+aVKyle Korver PHI 11/14/2003 PHI vs. SAS W 12 6 2 5 40.0 2 3 66.7 0 0 - 2 1 3 0 0 0 1 6 7
+p733
+aVEric Snow PHI 11/14/2003 PHI vs. SAS W 29 9 3 6 50.0 0 0 - 3 5 60.0 0 4 4 2 2 0 1 5 -2
+p734
+aVSamuel Dalembert PHI 11/14/2003 PHI vs. SAS W 34 7 2 5 40.0 0 0 - 3 8 37.5 1 9 10 1 1 3 1 5 -3
+p735
+aVWillie Green PHI 11/14/2003 PHI vs. SAS W 16 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 1
+p736
+aVKyle Korver PHI 11/11/2003 PHI @ WAS W 5 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 2 0
+p737
+aVDerrick Coleman PHI 11/11/2003 PHI @ WAS W 16 6 2 5 40.0 0 1 0.0 2 2 100.0 1 4 5 1 0 0 1 1 -3
+p738
+aVJohn Salmons PHI 11/11/2003 PHI @ WAS W 16 6 1 2 50.0 0 0 - 4 4 100.0 0 4 4 2 2 0 1 3 5
+p739
+aVEric Snow PHI 11/11/2003 PHI @ WAS W 37 13 4 11 36.4 0 0 - 5 6 83.3 2 3 5 11 4 0 4 3 10
+p740
+aVAllen Iverson PHI 11/11/2003 PHI @ WAS W 46 40 12 29 41.4 2 3 66.7 14 18 77.8 0 3 3 4 4 0 4 0 1
+p741
+aVMarc Jackson PHI 11/11/2003 PHI @ WAS W 38 7 2 9 22.2 0 0 - 3 4 75.0 2 6 8 1 1 0 1 2 3
+p742
+aVSamuel Dalembert PHI 11/11/2003 PHI @ WAS W 23 10 4 7 57.1 0 0 - 2 2 100.0 6 3 9 0 0 5 0 4 15
+p743
+aVWillie Green PHI 11/11/2003 PHI @ WAS W 11 10 3 5 60.0 0 0 - 4 4 100.0 2 1 3 0 0 0 1 3 5
+p744
+aVAaron McKie PHI 11/11/2003 PHI @ WAS W 40 18 8 11 72.7 2 3 66.7 0 0 - 1 2 3 3 2 0 0 2 -3
+p745
+aVAmal McCaskill PHI 11/11/2003 PHI @ WAS W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 1 2
+p746
+aVGlenn Robinson PHI 11/09/2003 PHI vs. IND L 32 6 3 10 30.0 0 1 0.0 0 0 - 1 4 5 1 0 0 3 3 -18
+p747
+aVDerrick Coleman PHI 11/09/2003 PHI vs. IND L 37 10 4 9 44.4 0 1 0.0 2 2 100.0 2 4 6 2 1 1 5 3 -9
+p748
+aVEric Snow PHI 11/09/2003 PHI vs. IND L 37 7 2 8 25.0 0 1 0.0 3 3 100.0 0 3 3 5 3 0 3 3 -15
+p749
+aVMarc Jackson PHI 11/09/2003 PHI vs. IND L 30 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 2 0 1 3 -14
+p750
+aVAllen Iverson PHI 11/09/2003 PHI vs. IND L 45 37 15 30 50.0 2 4 50.0 5 9 55.6 1 3 4 4 2 0 3 2 -11
+p751
+aVKyle Korver PHI 11/09/2003 PHI vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p752
+aVWillie Green PHI 11/09/2003 PHI vs. IND L 10 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p753
+aVJohn Salmons PHI 11/09/2003 PHI vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p754
+aVAaron McKie PHI 11/09/2003 PHI vs. IND L 24 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 7
+p755
+aVSamuel Dalembert PHI 11/09/2003 PHI vs. IND L 26 10 4 4 100.0 0 0 - 2 2 100.0 2 2 4 0 0 5 1 4 0
+p756
+aVKenny Thomas PHI 11/07/2003 PHI @ CHI W 25 4 1 4 25.0 0 0 - 2 4 50.0 0 2 2 0 0 0 1 1 10
+p757
+aVAmal McCaskill PHI 11/07/2003 PHI @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p758
+aVSamuel Dalembert PHI 11/07/2003 PHI @ CHI W 22 14 7 8 87.5 0 0 - 0 3 0.0 3 4 7 0 0 3 1 5 17
+p759
+aVGlenn Robinson PHI 11/07/2003 PHI @ CHI W 36 21 7 13 53.8 4 5 80.0 3 4 75.0 4 7 11 0 1 0 2 1 9
+p760
+aVJohn Salmons PHI 11/07/2003 PHI @ CHI W 7 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 0 0 0
+p761
+aVKyle Korver PHI 11/07/2003 PHI @ CHI W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p762
+aVAaron McKie PHI 11/07/2003 PHI @ CHI W 27 12 4 8 50.0 2 2 100.0 2 2 100.0 1 6 7 4 0 1 0 2 16
+p763
+aVWillie Green PHI 11/07/2003 PHI @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p764
+aVAllen Iverson PHI 11/07/2003 PHI @ CHI W 35 33 11 21 52.4 0 1 0.0 11 12 91.7 1 1 2 11 8 0 1 2 29
+p765
+aVEric Snow PHI 11/07/2003 PHI @ CHI W 33 6 2 8 25.0 0 2 0.0 2 4 50.0 1 3 4 7 0 0 4 3 1
+p766
+aVDerrick Coleman PHI 11/07/2003 PHI @ CHI W 21 8 3 8 37.5 1 2 50.0 1 2 50.0 4 0 4 2 0 2 0 0 1
+p767
+aVMarc Jackson PHI 11/07/2003 PHI @ CHI W 27 8 3 9 33.3 0 0 - 2 4 50.0 3 5 8 1 0 0 2 3 20
+p768
+aVMarc Jackson PHI 11/05/2003 PHI vs. NOH L 17 6 2 6 33.3 0 1 0.0 2 4 50.0 1 3 4 0 0 0 0 0 -13
+p769
+aVSamuel Dalembert PHI 11/05/2003 PHI vs. NOH L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p770
+aVDerrick Coleman PHI 11/05/2003 PHI vs. NOH L 42 12 6 12 50.0 0 2 0.0 0 0 - 1 8 9 1 2 1 1 3 -5
+p771
+aVKenny Thomas PHI 11/05/2003 PHI vs. NOH L 43 15 3 9 33.3 0 0 - 9 11 81.8 8 8 16 0 1 0 2 1 3
+p772
+aVEric Snow PHI 11/05/2003 PHI vs. NOH L 38 11 5 11 45.5 1 1 100.0 0 0 - 1 3 4 12 1 0 3 5 10
+p773
+aVJohn Salmons PHI 11/05/2003 PHI vs. NOH L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 1 0 1 -5
+p774
+aVAllen Iverson PHI 11/05/2003 PHI vs. NOH L 50 29 9 24 37.5 1 9 11.1 10 11 90.9 1 1 2 7 4 0 4 3 -3
+p775
+aVAaron McKie PHI 11/05/2003 PHI vs. NOH L 19 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 1 0 2 2 -21
+p776
+aVGlenn Robinson PHI 11/05/2003 PHI vs. NOH L 43 20 7 17 41.2 2 4 50.0 4 4 100.0 1 4 5 4 1 1 4 2 -2
+p777
+aVKyle Korver PHI 11/05/2003 PHI vs. NOH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p778
+aVDerrick Coleman PHI 11/03/2003 PHI @ POR W 21 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 3 0 1 2 5 0
+p779
+aVGlenn Robinson PHI 11/03/2003 PHI @ POR W 37 15 6 16 37.5 0 3 0.0 3 4 75.0 1 3 4 5 1 0 2 3 4
+p780
+aVKyle Korver PHI 11/03/2003 PHI @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p781
+aVWillie Green PHI 11/03/2003 PHI @ POR W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p782
+aVAllen Iverson PHI 11/03/2003 PHI @ POR W 43 31 11 20 55.0 2 5 40.0 7 10 70.0 1 2 3 4 4 0 6 0 8
+p783
+aVAmal McCaskill PHI 11/03/2003 PHI @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p784
+aVMarc Jackson PHI 11/03/2003 PHI @ POR W 23 15 6 8 75.0 0 0 - 3 3 100.0 1 3 4 0 0 0 2 4 8
+p785
+aVEric Snow PHI 11/03/2003 PHI @ POR W 36 8 2 4 50.0 0 0 - 4 6 66.7 0 2 2 4 4 0 2 2 9
+p786
+aVAaron McKie PHI 11/03/2003 PHI @ POR W 22 7 2 6 33.3 1 1 100.0 2 2 100.0 0 3 3 2 1 0 1 2 11
+p787
+aVSamuel Dalembert PHI 11/03/2003 PHI @ POR W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 1 3 13
+p788
+aVJohn Salmons PHI 11/03/2003 PHI @ POR W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 1 0 2 0
+p789
+aVKenny Thomas PHI 11/03/2003 PHI @ POR W 39 16 4 7 57.1 0 0 - 8 10 80.0 2 7 9 0 1 0 1 3 2
+p790
+aVAaron McKie PHI 11/01/2003 PHI @ GSW L 31 19 6 15 40.0 5 7 71.4 2 4 50.0 3 1 4 6 4 1 3 3 -14
+p791
+aVKyle Korver PHI 11/01/2003 PHI @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p792
+aVAllen Iverson PHI 11/01/2003 PHI @ GSW L 42 19 7 17 41.2 2 5 40.0 3 4 75.0 0 2 2 7 1 0 1 1 -7
+p793
+aVAmal McCaskill PHI 11/01/2003 PHI @ GSW L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p794
+aVJohn Salmons PHI 11/01/2003 PHI @ GSW L 20 6 2 7 28.6 2 5 40.0 0 0 - 0 1 1 1 1 1 1 2 2
+p795
+aVSamuel Dalembert PHI 11/01/2003 PHI @ GSW L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -11
+p796
+aVMarc Jackson PHI 11/01/2003 PHI @ GSW L 14 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -6
+p797
+aVDerrick Coleman PHI 11/01/2003 PHI @ GSW L 33 13 6 12 50.0 1 2 50.0 0 0 - 1 4 5 1 1 0 1 3 -4
+p798
+aVWillie Green PHI 11/01/2003 PHI @ GSW L 13 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 2 2 -9
+p799
+aVEric Snow PHI 11/01/2003 PHI @ GSW L 37 17 8 15 53.3 0 0 - 1 1 100.0 1 1 2 6 1 0 1 1 -14
+p800
+aVKenny Thomas PHI 11/01/2003 PHI @ GSW L 36 10 5 9 55.6 0 0 - 0 0 - 3 4 7 0 1 2 0 3 -4
+p801
+aVAaron McKie PHI 10/31/2003 PHI @ SAC L 32 4 2 5 40.0 0 0 - 0 2 0.0 1 4 5 1 3 0 2 3 -8
+p802
+aVJohn Salmons PHI 10/31/2003 PHI @ SAC L 20 6 2 8 25.0 0 1 0.0 2 2 100.0 3 0 3 2 2 0 0 1 -1
+p803
+aVMarc Jackson PHI 10/31/2003 PHI @ SAC L 16 2 1 5 20.0 0 0 - 0 0 - 4 1 5 0 0 0 1 1 -11
+p804
+aVKyle Korver PHI 10/31/2003 PHI @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p805
+aVSamuel Dalembert PHI 10/31/2003 PHI @ SAC L 9 4 2 3 66.7 0 0 - 0 1 0.0 1 1 2 0 0 1 0 3 1
+p806
+aVKenny Thomas PHI 10/31/2003 PHI @ SAC L 34 19 8 12 66.7 0 0 - 3 3 100.0 1 3 4 0 3 2 2 4 -1
+p807
+aVEric Snow PHI 10/31/2003 PHI @ SAC L 35 13 2 8 25.0 0 0 - 9 10 90.0 1 3 4 5 0 0 0 3 -11
+p808
+aVWillie Green PHI 10/31/2003 PHI @ SAC L 11 3 1 2 50.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 1 2 -2
+p809
+aVAllen Iverson PHI 10/31/2003 PHI @ SAC L 46 27 10 23 43.5 0 3 0.0 7 8 87.5 0 6 6 7 1 0 6 2 -11
+p810
+aVDerrick Coleman PHI 10/31/2003 PHI @ SAC L 36 11 5 13 38.5 0 2 0.0 1 2 50.0 3 7 10 1 0 2 4 2 -12
+p811
+aVJohn Salmons PHI 10/28/2003 PHI vs. MIA W 28 10 4 6 66.7 1 2 50.0 1 3 33.3 1 4 5 4 2 0 2 1 11
+p812
+aVSamuel Dalembert PHI 10/28/2003 PHI vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p813
+aVKenny Thomas PHI 10/28/2003 PHI vs. MIA W 30 15 6 10 60.0 0 0 - 3 8 37.5 3 4 7 1 1 1 1 1 -4
+p814
+aVAaron McKie PHI 10/28/2003 PHI vs. MIA W 24 10 3 7 42.9 2 2 100.0 2 2 100.0 0 4 4 1 1 0 1 3 15
+p815
+aVMarc Jackson PHI 10/28/2003 PHI vs. MIA W 23 7 3 7 42.9 0 0 - 1 1 100.0 1 3 4 1 0 1 0 1 14
+p816
+aVDerrick Coleman PHI 10/28/2003 PHI vs. MIA W 31 10 3 8 37.5 1 2 50.0 3 5 60.0 1 4 5 1 1 1 0 4 3
+p817
+aVAmal McCaskill PHI 10/28/2003 PHI vs. MIA W 11 2 1 1 100.0 0 0 - 0 1 0.0 3 1 4 0 1 0 0 0 17
+p818
+aVAllen Iverson PHI 10/28/2003 PHI vs. MIA W 45 26 9 25 36.0 3 11 27.3 5 8 62.5 1 4 5 11 5 0 3 2 11
+p819
+aVKyle Korver PHI 10/28/2003 PHI vs. MIA W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p820
+aVWillie Green PHI 10/28/2003 PHI vs. MIA W 13 8 4 4 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 2
+p821
+aVEric Snow PHI 10/28/2003 PHI vs. MIA W 31 1 0 5 0.0 0 1 0.0 1 2 50.0 2 2 4 6 1 0 1 2 11
+p822
+a.

@@ -1,0 +1,1732 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAntonio Daniels SAS 04/19/2000 SAS vs. LAL W 28 11 5 8 62.5 1 2 50.0 0 2 0.0 0 4 4 10 0 0 1 1 16
+p2
+aVJaren Jackson SAS 04/19/2000 SAS vs. LAL W 11 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 0 -6
+p3
+aVSean Elliott SAS 04/19/2000 SAS vs. LAL W 25 12 5 7 71.4 2 2 100.0 0 0 - 1 3 4 0 0 0 0 3 8
+p4
+aVAvery Johnson SAS 04/19/2000 SAS vs. LAL W 27 7 3 8 37.5 0 0 - 1 1 100.0 1 2 3 3 0 0 3 1 -13
+p5
+aVFelton Spencer SAS 04/19/2000 SAS vs. LAL W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 2 -7
+p6
+aVJerome Kersey SAS 04/19/2000 SAS vs. LAL W 24 12 6 8 75.0 0 0 - 0 0 - 2 7 9 0 2 0 1 2 6
+p7
+aVSamaki Walker SAS 04/19/2000 SAS vs. LAL W 31 9 3 11 27.3 0 0 - 3 7 42.9 1 7 8 1 0 1 2 6 24
+p8
+aVTerry Porter SAS 04/19/2000 SAS vs. LAL W 31 13 4 11 36.4 1 5 20.0 4 5 80.0 0 2 2 6 2 0 2 0 19
+p9
+aVMario Elie SAS 04/19/2000 SAS vs. LAL W 21 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 5 0 0 2 2 -13
+p10
+aVDavid Robinson SAS 04/19/2000 SAS vs. LAL W 27 17 7 16 43.8 0 0 - 3 4 75.0 2 5 7 1 2 0 0 2 -4
+p11
+aVMalik Rose SAS 04/19/2000 SAS vs. LAL W 32 14 6 12 50.0 0 0 - 2 3 66.7 4 5 9 1 0 1 1 4 -5
+p12
+aVAntonio Daniels SAS 04/17/2000 SAS vs. VAN W 24 12 4 7 57.1 2 2 100.0 2 2 100.0 0 2 2 4 0 0 0 2 16
+p13
+aVTerry Porter SAS 04/17/2000 SAS vs. VAN W 22 9 2 3 66.7 2 2 100.0 3 5 60.0 0 1 1 0 0 0 0 0 8
+p14
+aVSean Elliott SAS 04/17/2000 SAS vs. VAN W 22 6 2 6 33.3 1 2 50.0 1 2 50.0 0 2 2 2 2 0 2 2 -9
+p15
+aVDavid Robinson SAS 04/17/2000 SAS vs. VAN W 38 27 10 19 52.6 0 0 - 7 11 63.6 4 6 10 1 1 3 3 5 11
+p16
+aVJerome Kersey SAS 04/17/2000 SAS vs. VAN W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 3 0 0 1 3 2
+p17
+aVAvery Johnson SAS 04/17/2000 SAS vs. VAN W 40 24 10 14 71.4 0 0 - 4 5 80.0 1 4 5 7 0 0 0 2 8
+p18
+aVMalik Rose SAS 04/17/2000 SAS vs. VAN W 25 8 2 6 33.3 0 0 - 4 5 80.0 4 5 9 3 0 0 2 5 15
+p19
+aVJaren Jackson SAS 04/17/2000 SAS vs. VAN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p20
+aVSamaki Walker SAS 04/17/2000 SAS vs. VAN W 33 11 4 8 50.0 0 0 - 3 3 100.0 2 4 6 1 1 1 1 4 -10
+p21
+aVMario Elie SAS 04/17/2000 SAS vs. VAN W 23 3 1 9 11.1 1 2 50.0 0 1 0.0 2 1 3 2 0 0 1 3 -13
+p22
+aVDavid Robinson SAS 04/15/2000 SAS vs. UTA W 29 19 5 11 45.5 0 0 - 9 11 81.8 2 10 12 2 2 4 1 3 28
+p23
+aVSamaki Walker SAS 04/15/2000 SAS vs. UTA W 37 14 5 11 45.5 0 0 - 4 6 66.7 4 4 8 2 0 3 3 4 9
+p24
+aVAntonio Daniels SAS 04/15/2000 SAS vs. UTA W 19 7 3 6 50.0 1 1 100.0 0 0 - 0 2 2 3 3 0 0 1 14
+p25
+aVTerry Porter SAS 04/15/2000 SAS vs. UTA W 19 10 3 5 60.0 0 0 - 4 5 80.0 1 3 4 1 3 0 1 1 10
+p26
+aVJerome Kersey SAS 04/15/2000 SAS vs. UTA W 19 2 1 4 25.0 0 0 - 0 0 - 0 0 0 4 3 0 0 3 4
+p27
+aVSean Elliott SAS 04/15/2000 SAS vs. UTA W 25 15 6 10 60.0 1 3 33.3 2 4 50.0 1 3 4 2 2 0 1 3 16
+p28
+aVFelton Spencer SAS 04/15/2000 SAS vs. UTA W 5 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 1 1 1 0 1
+p29
+aVJaren Jackson SAS 04/15/2000 SAS vs. UTA W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p30
+aVMario Elie SAS 04/15/2000 SAS vs. UTA W 21 11 4 7 57.1 1 2 50.0 2 2 100.0 2 2 4 1 0 0 0 2 13
+p31
+aVMalik Rose SAS 04/15/2000 SAS vs. UTA W 28 15 5 10 50.0 0 0 - 5 6 83.3 3 2 5 1 0 0 2 3 11
+p32
+aVAvery Johnson SAS 04/15/2000 SAS vs. UTA W 29 9 4 8 50.0 0 0 - 1 2 50.0 0 0 0 8 0 0 2 1 9
+p33
+aVJerome Kersey SAS 04/13/2000 SAS vs. POR L 21 7 3 7 42.9 0 0 - 1 2 50.0 1 3 4 1 2 1 4 3 -3
+p34
+aVSamaki Walker SAS 04/13/2000 SAS vs. POR L 35 13 5 10 50.0 0 0 - 3 3 100.0 3 7 10 2 0 1 2 2 -5
+p35
+aVFelton Spencer SAS 04/13/2000 SAS vs. POR L 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -8
+p36
+aVTerry Porter SAS 04/13/2000 SAS vs. POR L 25 6 1 4 25.0 0 0 - 4 4 100.0 1 0 1 2 1 0 2 3 -3
+p37
+aVMalik Rose SAS 04/13/2000 SAS vs. POR L 19 9 4 8 50.0 0 0 - 1 3 33.3 0 2 2 0 3 0 1 2 -8
+p38
+aVAvery Johnson SAS 04/13/2000 SAS vs. POR L 30 6 2 10 20.0 0 0 - 2 2 100.0 0 1 1 4 1 1 2 1 -12
+p39
+aVJaren Jackson SAS 04/13/2000 SAS vs. POR L 13 3 1 3 33.3 0 2 0.0 1 1 100.0 2 1 3 1 1 0 0 1 -3
+p40
+aVAntonio Daniels SAS 04/13/2000 SAS vs. POR L 18 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 3 1 0 2 2 -4
+p41
+aVDavid Robinson SAS 04/13/2000 SAS vs. POR L 31 16 7 10 70.0 0 0 - 2 5 40.0 4 5 9 2 2 3 2 2 -11
+p42
+aVMario Elie SAS 04/13/2000 SAS vs. POR L 20 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 -13
+p43
+aVSean Elliott SAS 04/13/2000 SAS vs. POR L 17 6 2 5 40.0 0 0 - 2 3 66.7 0 0 0 2 0 0 1 1 -10
+p44
+aVDavid Robinson SAS 04/11/2000 SAS @ SAC W 36 26 9 21 42.9 0 0 - 8 10 80.0 3 11 14 3 2 3 0 5 -1
+p45
+aVAntonio Daniels SAS 04/11/2000 SAS @ SAC W 21 7 2 5 40.0 1 1 100.0 2 2 100.0 0 3 3 1 4 0 0 0 14
+p46
+aVTim Duncan SAS 04/11/2000 SAS @ SAC W 48 18 6 22 27.3 0 0 - 6 8 75.0 6 7 13 3 1 3 3 1 3
+p47
+aVJaren Jackson SAS 04/11/2000 SAS @ SAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 7
+p48
+aVJerome Kersey SAS 04/11/2000 SAS @ SAC W 11 0 0 5 0.0 0 0 - 0 0 - 2 0 2 2 0 0 0 5 0
+p49
+aVSamaki Walker SAS 04/11/2000 SAS @ SAC W 22 10 5 7 71.4 0 0 - 0 2 0.0 2 7 9 1 0 2 1 0 11
+p50
+aVSean Elliott SAS 04/11/2000 SAS @ SAC W 32 13 5 11 45.5 1 3 33.3 2 4 50.0 0 1 1 0 3 0 4 5 -1
+p51
+aVMario Elie SAS 04/11/2000 SAS @ SAC W 23 4 1 2 50.0 1 2 50.0 1 1 100.0 1 3 4 1 0 0 1 2 -5
+p52
+aVAvery Johnson SAS 04/11/2000 SAS @ SAC W 32 10 5 12 41.7 0 0 - 0 0 - 0 2 2 6 0 0 1 3 -9
+p53
+aVTerry Porter SAS 04/11/2000 SAS @ SAC W 32 10 3 7 42.9 0 1 0.0 4 7 57.1 1 2 3 2 0 0 3 2 11
+p54
+aVAvery Johnson SAS 04/09/2000 SAS @ VAN W 30 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 10 1 0 1 1 2
+p55
+aVDavid Robinson SAS 04/09/2000 SAS @ VAN W 24 19 7 8 87.5 0 0 - 5 8 62.5 0 6 6 4 2 1 2 5 11
+p56
+aVTerry Porter SAS 04/09/2000 SAS @ VAN W 31 22 7 14 50.0 3 5 60.0 5 5 100.0 0 2 2 6 0 1 2 0 28
+p57
+aVSean Elliott SAS 04/09/2000 SAS @ VAN W 26 7 2 5 40.0 1 2 50.0 2 2 100.0 0 3 3 4 0 1 1 0 28
+p58
+aVMalik Rose SAS 04/09/2000 SAS @ VAN W 24 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 1 1 4 6
+p59
+aVAntonio Daniels SAS 04/09/2000 SAS @ VAN W 18 8 4 4 100.0 0 0 - 0 0 - 1 3 4 2 0 0 0 0 6
+p60
+aVJerome Kersey SAS 04/09/2000 SAS @ VAN W 20 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 1 2 1 0 2 -18
+p61
+aVSamaki Walker SAS 04/09/2000 SAS @ VAN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p62
+aVTim Duncan SAS 04/09/2000 SAS @ VAN W 44 31 12 17 70.6 0 0 - 7 10 70.0 2 9 11 5 1 2 4 2 8
+p63
+aVJaren Jackson SAS 04/09/2000 SAS @ VAN W 19 4 2 6 33.3 0 3 0.0 0 0 - 0 3 3 0 0 0 0 0 -22
+p64
+aVMalik Rose SAS 04/08/2000 SAS @ LAL W 24 6 1 4 25.0 0 0 - 4 4 100.0 2 3 5 0 1 0 2 1 -3
+p65
+aVDavid Robinson SAS 04/08/2000 SAS @ LAL W 25 15 6 11 54.5 0 0 - 3 5 60.0 1 7 8 1 2 1 2 3 17
+p66
+aVSamaki Walker SAS 04/08/2000 SAS @ LAL W 13 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 1 0 1 0 4
+p67
+aVTim Duncan SAS 04/08/2000 SAS @ LAL W 35 26 8 14 57.1 0 0 - 10 13 76.9 2 14 16 2 1 4 0 1 17
+p68
+aVJerome Kersey SAS 04/08/2000 SAS @ LAL W 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 12
+p69
+aVJaren Jackson SAS 04/08/2000 SAS @ LAL W 9 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 5 -11
+p70
+aVTerry Porter SAS 04/08/2000 SAS @ LAL W 33 13 6 13 46.2 1 6 16.7 0 0 - 0 7 7 6 0 0 2 1 13
+p71
+aVAvery Johnson SAS 04/08/2000 SAS @ LAL W 32 13 6 11 54.5 0 0 - 1 1 100.0 0 1 1 5 1 1 1 3 20
+p72
+aVAntonio Daniels SAS 04/08/2000 SAS @ LAL W 26 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 2 1 0 0 4 8
+p73
+aVSean Elliott SAS 04/08/2000 SAS @ LAL W 25 5 1 4 25.0 0 1 0.0 3 3 100.0 0 4 4 2 0 0 1 3 18
+p74
+aVFelton Spencer SAS 04/08/2000 SAS @ LAL W 3 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -5
+p75
+aVDavid Robinson SAS 04/05/2000 SAS vs. SAC L 34 23 7 17 41.2 0 0 - 9 10 90.0 5 3 8 1 1 6 2 4 -9
+p76
+aVSean Elliott SAS 04/05/2000 SAS vs. SAC L 21 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 2 0 0 1 -13
+p77
+aVJaren Jackson SAS 04/05/2000 SAS vs. SAC L 27 4 2 7 28.6 0 3 0.0 0 0 - 0 2 2 2 2 0 2 4 -8
+p78
+aVMalik Rose SAS 04/05/2000 SAS vs. SAC L 23 10 4 7 57.1 0 0 - 2 2 100.0 1 6 7 1 0 0 0 2 1
+p79
+aVAntonio Daniels SAS 04/05/2000 SAS vs. SAC L 19 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -1
+p80
+aVTim Duncan SAS 04/05/2000 SAS vs. SAC L 39 28 11 22 50.0 0 1 0.0 6 6 100.0 3 4 7 2 0 2 5 5 -12
+p81
+aVAvery Johnson SAS 04/05/2000 SAS vs. SAC L 29 8 3 7 42.9 0 0 - 2 2 100.0 0 0 0 6 2 0 2 1 -9
+p82
+aVTerry Porter SAS 04/05/2000 SAS vs. SAC L 21 11 4 5 80.0 3 3 100.0 0 0 - 1 1 2 7 1 1 2 2 -2
+p83
+aVJerome Kersey SAS 04/05/2000 SAS vs. SAC L 27 4 2 6 33.3 0 0 - 0 0 - 1 2 3 2 1 3 0 3 3
+p84
+aVJerome Kersey SAS 04/04/2000 SAS @ ORL L 20 6 3 6 50.0 0 0 - 0 0 - 1 0 1 1 0 1 3 4 -14
+p85
+aVSamaki Walker SAS 04/04/2000 SAS @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p86
+aVTerry Porter SAS 04/04/2000 SAS @ ORL L 19 5 2 3 66.7 1 2 50.0 0 1 0.0 0 3 3 4 2 0 1 0 9
+p87
+aVDavid Robinson SAS 04/04/2000 SAS @ ORL L 35 30 12 14 85.7 0 0 - 6 8 75.0 1 6 7 1 0 1 1 4 -2
+p88
+aVJaren Jackson SAS 04/04/2000 SAS @ ORL L 32 13 5 9 55.6 3 7 42.9 0 0 - 0 3 3 2 1 0 2 5 1
+p89
+aVTim Duncan SAS 04/04/2000 SAS @ ORL L 41 13 5 12 41.7 0 0 - 3 3 100.0 4 5 9 4 0 0 0 2 -13
+p90
+aVAntonio Daniels SAS 04/04/2000 SAS @ ORL L 25 14 4 8 50.0 1 1 100.0 5 6 83.3 0 0 0 6 1 0 1 1 5
+p91
+aVMalik Rose SAS 04/04/2000 SAS @ ORL L 20 12 4 4 100.0 0 0 - 4 10 40.0 2 1 3 0 1 0 1 2 -5
+p92
+aVMario Elie SAS 04/04/2000 SAS @ ORL L 8 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 2 1 -6
+p93
+aVSean Elliott SAS 04/04/2000 SAS @ ORL L 16 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 3 1 0 1 1 -8
+p94
+aVFelton Spencer SAS 04/04/2000 SAS @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p95
+aVAvery Johnson SAS 04/04/2000 SAS @ ORL L 23 4 2 6 33.3 0 0 - 0 0 - 0 1 1 6 0 0 1 2 -15
+p96
+aVMario Elie SAS 04/02/2000 SAS @ MIA L 23 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 3 1 0 2 2 -2
+p97
+aVAvery Johnson SAS 04/02/2000 SAS @ MIA L 34 8 4 9 44.4 0 0 - 0 0 - 0 1 1 6 4 0 3 0 0
+p98
+aVSean Elliott SAS 04/02/2000 SAS @ MIA L 21 9 3 5 60.0 3 5 60.0 0 0 - 0 3 3 0 0 1 1 4 -9
+p99
+aVTim Duncan SAS 04/02/2000 SAS @ MIA L 43 19 7 17 41.2 0 0 - 5 12 41.7 3 8 11 5 0 3 4 4 -2
+p100
+aVTerry Porter SAS 04/02/2000 SAS @ MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p101
+aVDavid Robinson SAS 04/02/2000 SAS @ MIA L 40 28 8 17 47.1 0 0 - 12 13 92.3 0 7 7 2 1 1 0 3 -4
+p102
+aVJerome Kersey SAS 04/02/2000 SAS @ MIA L 27 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 2 1 1 1 4 5
+p103
+aVJaren Jackson SAS 04/02/2000 SAS @ MIA L 25 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 0 1 0 0 4 -2
+p104
+aVMalik Rose SAS 04/02/2000 SAS @ MIA L 6 2 0 0 - 0 0 - 2 4 50.0 1 1 2 0 1 1 0 2 1
+p105
+aVSamaki Walker SAS 04/02/2000 SAS @ MIA L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p106
+aVAntonio Daniels SAS 04/02/2000 SAS @ MIA L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p107
+aVMario Elie SAS 03/30/2000 SAS vs. GSW W 14 7 2 5 40.0 1 3 33.3 2 2 100.0 0 1 1 0 0 0 1 0 -1
+p108
+aVJaren Jackson SAS 03/30/2000 SAS vs. GSW W 34 14 5 8 62.5 3 5 60.0 1 2 50.0 0 3 3 5 1 0 0 1 13
+p109
+aVFelton Spencer SAS 03/30/2000 SAS vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 2
+p110
+aVAntonio Daniels SAS 03/30/2000 SAS vs. GSW W 29 13 5 8 62.5 1 2 50.0 2 2 100.0 1 0 1 2 2 0 0 4 14
+p111
+aVAvery Johnson SAS 03/30/2000 SAS vs. GSW W 19 6 3 3 100.0 0 0 - 0 0 - 0 2 2 2 1 0 5 3 -2
+p112
+aVTim Duncan SAS 03/30/2000 SAS vs. GSW W 39 19 6 16 37.5 0 0 - 7 8 87.5 6 11 17 1 0 6 1 2 8
+p113
+aVJerome Kersey SAS 03/30/2000 SAS vs. GSW W 29 6 3 6 50.0 0 0 - 0 0 - 1 4 5 2 1 4 0 3 15
+p114
+aVSean Elliott SAS 03/30/2000 SAS vs. GSW W 19 5 1 6 16.7 0 1 0.0 3 4 75.0 1 3 4 2 1 0 1 3 -3
+p115
+aVSamaki Walker SAS 03/30/2000 SAS vs. GSW W 18 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 2 0 0 0 2 6
+p116
+aVDavid Robinson SAS 03/30/2000 SAS vs. GSW W 38 27 10 24 41.7 0 0 - 7 9 77.8 2 7 9 3 0 2 2 2 8
+p117
+aVMalik Rose SAS 03/28/2000 SAS @ POR W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -9
+p118
+aVJerome Kersey SAS 03/28/2000 SAS @ POR W 22 8 4 8 50.0 0 0 - 0 0 - 1 3 4 2 0 0 0 4 -11
+p119
+aVAvery Johnson SAS 03/28/2000 SAS @ POR W 37 14 6 12 50.0 0 0 - 2 2 100.0 0 3 3 4 0 1 2 3 18
+p120
+aVSean Elliott SAS 03/28/2000 SAS @ POR W 26 5 1 5 20.0 1 4 25.0 2 2 100.0 0 2 2 4 0 0 0 1 15
+p121
+aVJaren Jackson SAS 03/28/2000 SAS @ POR W 7 1 0 2 0.0 0 2 0.0 1 1 100.0 0 0 0 1 0 0 1 2 -10
+p122
+aVMario Elie SAS 03/28/2000 SAS @ POR W 35 2 0 2 0.0 0 1 0.0 2 2 100.0 0 4 4 2 0 0 2 2 21
+p123
+aVSamaki Walker SAS 03/28/2000 SAS @ POR W 15 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 1 0 2 4
+p124
+aVAntonio Daniels SAS 03/28/2000 SAS @ POR W 17 4 1 7 14.3 0 3 0.0 2 2 100.0 0 2 2 2 1 0 1 0 -21
+p125
+aVTim Duncan SAS 03/28/2000 SAS @ POR W 47 36 13 21 61.9 0 0 - 10 11 90.9 5 10 15 6 1 3 3 3 9
+p126
+aVDavid Robinson SAS 03/28/2000 SAS @ POR W 29 15 7 9 77.8 0 0 - 1 2 50.0 1 6 7 1 1 0 6 4 4
+p127
+aVDavid Robinson SAS 03/27/2000 SAS @ SEA W 37 23 11 23 47.8 0 0 - 1 3 33.3 8 8 16 5 2 4 0 2 4
+p128
+aVAvery Johnson SAS 03/27/2000 SAS @ SEA W 33 9 4 14 28.6 0 0 - 1 2 50.0 1 2 3 5 0 0 1 1 -2
+p129
+aVSean Elliott SAS 03/27/2000 SAS @ SEA W 26 10 2 6 33.3 2 4 50.0 4 4 100.0 0 4 4 2 0 0 3 0 13
+p130
+aVMario Elie SAS 03/27/2000 SAS @ SEA W 28 6 2 6 33.3 0 2 0.0 2 2 100.0 1 1 2 3 0 0 0 0 4
+p131
+aVAntonio Daniels SAS 03/27/2000 SAS @ SEA W 15 9 4 5 80.0 1 1 100.0 0 0 - 1 0 1 2 0 0 2 1 10
+p132
+aVMalik Rose SAS 03/27/2000 SAS @ SEA W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -2
+p133
+aVSamaki Walker SAS 03/27/2000 SAS @ SEA W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 1 1
+p134
+aVJerome Kersey SAS 03/27/2000 SAS @ SEA W 22 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 0 1 0 4 -5
+p135
+aVTim Duncan SAS 03/27/2000 SAS @ SEA W 44 30 14 20 70.0 0 0 - 2 2 100.0 4 14 18 3 2 1 5 3 13
+p136
+aVJaren Jackson SAS 03/27/2000 SAS @ SEA W 20 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 1 1 4
+p137
+aVSamaki Walker SAS 03/25/2000 SAS vs. CLE W 9 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 1 2
+p138
+aVMario Elie SAS 03/25/2000 SAS vs. CLE W 26 14 5 7 71.4 2 3 66.7 2 2 100.0 1 4 5 0 1 0 1 3 10
+p139
+aVFelton Spencer SAS 03/25/2000 SAS vs. CLE W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p140
+aVMalik Rose SAS 03/25/2000 SAS vs. CLE W 16 5 2 6 33.3 0 0 - 1 1 100.0 0 2 2 1 0 0 0 4 13
+p141
+aVDavid Robinson SAS 03/25/2000 SAS vs. CLE W 25 10 3 4 75.0 0 0 - 4 4 100.0 0 6 6 0 0 4 5 2 8
+p142
+aVAntonio Daniels SAS 03/25/2000 SAS vs. CLE W 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 5 2 0 1 2 2
+p143
+aVAvery Johnson SAS 03/25/2000 SAS vs. CLE W 31 14 7 13 53.8 0 0 - 0 0 - 0 1 1 7 1 0 1 3 12
+p144
+aVJaren Jackson SAS 03/25/2000 SAS vs. CLE W 18 16 6 11 54.5 3 7 42.9 1 1 100.0 0 0 0 0 1 0 1 1 10
+p145
+aVDerrick Dial SAS 03/25/2000 SAS vs. CLE W 9 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 1 0 1 1 6
+p146
+aVJerome Kersey SAS 03/25/2000 SAS vs. CLE W 28 4 2 6 33.3 0 0 - 0 0 - 3 7 10 0 1 0 0 1 5
+p147
+aVTim Duncan SAS 03/25/2000 SAS vs. CLE W 44 17 5 12 41.7 0 0 - 7 12 58.3 4 13 17 11 1 4 4 2 20
+p148
+aVSean Elliott SAS 03/25/2000 SAS vs. CLE W 19 0 0 7 0.0 0 4 0.0 0 0 - 1 2 3 1 0 0 0 1 10
+p149
+aVJaren Jackson SAS 03/22/2000 SAS vs. LAC W 30 9 3 7 42.9 1 2 50.0 2 2 100.0 0 2 2 1 0 1 0 4 28
+p150
+aVAvery Johnson SAS 03/22/2000 SAS vs. LAC W 17 2 1 2 50.0 0 0 - 0 0 - 1 0 1 4 0 0 2 4 -8
+p151
+aVSean Elliott SAS 03/22/2000 SAS vs. LAC W 20 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 1 0 0 0 2 8
+p152
+aVDavid Robinson SAS 03/22/2000 SAS vs. LAC W 19 10 4 7 57.1 0 0 - 2 5 40.0 2 6 8 1 1 2 1 2 16
+p153
+aVJerome Kersey SAS 03/22/2000 SAS vs. LAC W 12 2 1 4 25.0 0 0 - 0 0 - 1 0 1 3 1 0 0 4 8
+p154
+aVMalik Rose SAS 03/22/2000 SAS vs. LAC W 8 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 9
+p155
+aVSamaki Walker SAS 03/22/2000 SAS vs. LAC W 32 18 8 14 57.1 0 0 - 2 4 50.0 2 10 12 1 0 0 1 1 18
+p156
+aVMario Elie SAS 03/22/2000 SAS vs. LAC W 18 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p157
+aVDerrick Dial SAS 03/22/2000 SAS vs. LAC W 13 5 2 5 40.0 1 3 33.3 0 0 - 3 0 3 1 0 0 0 0 10
+p158
+aVAntonio Daniels SAS 03/22/2000 SAS vs. LAC W 34 14 6 11 54.5 1 1 100.0 1 2 50.0 0 3 3 6 1 0 1 0 32
+p159
+aVTim Duncan SAS 03/22/2000 SAS vs. LAC W 33 30 12 20 60.0 0 0 - 6 8 75.0 4 7 11 1 1 3 2 2 5
+p160
+aVFelton Spencer SAS 03/22/2000 SAS vs. LAC W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p161
+aVAvery Johnson SAS 03/21/2000 SAS @ DAL L 31 8 3 10 30.0 0 0 - 2 2 100.0 0 4 4 2 2 0 2 3 -17
+p162
+aVTim Duncan SAS 03/21/2000 SAS @ DAL L 40 26 8 11 72.7 0 0 - 10 13 76.9 4 8 12 5 0 2 3 4 -4
+p163
+aVSean Elliott SAS 03/21/2000 SAS @ DAL L 18 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p164
+aVJaren Jackson SAS 03/21/2000 SAS @ DAL L 16 6 2 3 66.7 1 2 50.0 1 1 100.0 0 0 0 2 0 0 1 2 6
+p165
+aVMario Elie SAS 03/21/2000 SAS @ DAL L 39 9 3 9 33.3 1 2 50.0 2 2 100.0 0 0 0 4 0 0 2 2 -6
+p166
+aVMalik Rose SAS 03/21/2000 SAS @ DAL L 13 6 3 4 75.0 0 0 - 0 0 - 2 1 3 2 0 0 0 4 1
+p167
+aVJerome Kersey SAS 03/21/2000 SAS @ DAL L 17 6 3 6 50.0 0 2 0.0 0 0 - 0 4 4 1 0 2 1 1 2
+p168
+aVDavid Robinson SAS 03/21/2000 SAS @ DAL L 37 30 10 17 58.8 0 0 - 10 12 83.3 2 15 17 4 1 1 5 3 10
+p169
+aVSamaki Walker SAS 03/21/2000 SAS @ DAL L 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 1 2 -7
+p170
+aVAntonio Daniels SAS 03/21/2000 SAS @ DAL L 24 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 3 1 0 1 1 13
+p171
+aVSean Elliott SAS 03/18/2000 SAS vs. DEN W 14 5 1 6 16.7 1 2 50.0 2 2 100.0 0 1 1 1 1 0 1 3 5
+p172
+aVJaren Jackson SAS 03/18/2000 SAS vs. DEN W 26 9 4 8 50.0 1 5 20.0 0 0 - 0 0 0 0 0 0 2 2 1
+p173
+aVAntonio Daniels SAS 03/18/2000 SAS vs. DEN W 21 8 3 5 60.0 0 0 - 2 4 50.0 0 0 0 4 2 0 0 1 4
+p174
+aVJerome Kersey SAS 03/18/2000 SAS vs. DEN W 28 8 4 8 50.0 0 0 - 0 0 - 2 6 8 0 2 2 0 3 20
+p175
+aVFelton Spencer SAS 03/18/2000 SAS vs. DEN W 4 4 0 0 - 0 0 - 4 4 100.0 0 1 1 0 1 0 1 1 -3
+p176
+aVAvery Johnson SAS 03/18/2000 SAS vs. DEN W 27 5 2 7 28.6 0 0 - 1 1 100.0 0 3 3 8 2 0 2 2 16
+p177
+aVDerrick Dial SAS 03/18/2000 SAS vs. DEN W 5 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 -5
+p178
+aVTim Duncan SAS 03/18/2000 SAS vs. DEN W 30 13 3 14 21.4 0 0 - 7 8 87.5 2 8 10 5 0 1 3 4 22
+p179
+aVDavid Robinson SAS 03/18/2000 SAS vs. DEN W 30 13 4 12 33.3 0 0 - 5 6 83.3 4 8 12 0 1 2 1 5 18
+p180
+aVSamaki Walker SAS 03/18/2000 SAS vs. DEN W 20 18 5 9 55.6 0 0 - 8 8 100.0 4 6 10 0 0 0 2 2 -2
+p181
+aVMario Elie SAS 03/18/2000 SAS vs. DEN W 24 11 3 6 50.0 3 4 75.0 2 3 66.7 0 2 2 1 0 0 1 2 18
+p182
+aVMalik Rose SAS 03/18/2000 SAS vs. DEN W 10 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 2 5 6
+p183
+aVAvery Johnson SAS 03/16/2000 SAS vs. DAL L 28 6 0 3 0.0 0 0 - 6 8 75.0 0 2 2 3 0 0 3 2 -20
+p184
+aVSean Elliott SAS 03/16/2000 SAS vs. DAL L 8 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 0 0 0 1 1 -3
+p185
+aVTim Duncan SAS 03/16/2000 SAS vs. DAL L 21 10 2 7 28.6 0 0 - 6 6 100.0 2 0 2 2 1 1 4 4 -13
+p186
+aVAntonio Daniels SAS 03/16/2000 SAS vs. DAL L 29 10 4 6 66.7 0 1 0.0 2 2 100.0 0 1 1 3 2 0 1 2 -3
+p187
+aVMalik Rose SAS 03/16/2000 SAS vs. DAL L 27 14 5 13 38.5 0 1 0.0 4 9 44.4 3 4 7 1 0 1 0 1 -9
+p188
+aVSamaki Walker SAS 03/16/2000 SAS vs. DAL L 22 4 2 4 50.0 0 0 - 0 0 - 0 6 6 3 0 1 1 3 -12
+p189
+aVDerrick Dial SAS 03/16/2000 SAS vs. DAL L 24 5 2 10 20.0 1 2 50.0 0 0 - 4 2 6 2 0 0 3 4 -10
+p190
+aVJerome Kersey SAS 03/16/2000 SAS vs. DAL L 16 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -13
+p191
+aVDavid Robinson SAS 03/16/2000 SAS vs. DAL L 26 20 9 12 75.0 0 0 - 2 4 50.0 0 4 4 2 0 1 1 0 -10
+p192
+aVJaren Jackson SAS 03/16/2000 SAS vs. DAL L 17 6 2 6 33.3 2 4 50.0 0 0 - 2 0 2 0 0 0 1 2 -2
+p193
+aVMario Elie SAS 03/16/2000 SAS vs. DAL L 22 7 1 2 50.0 1 1 100.0 4 5 80.0 0 7 7 3 0 1 1 1 -15
+p194
+aVJaren Jackson SAS 03/14/2000 SAS vs. ATL W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 2
+p195
+aVSamaki Walker SAS 03/14/2000 SAS vs. ATL W 13 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -7
+p196
+aVJerome Kersey SAS 03/14/2000 SAS vs. ATL W 28 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 4 2 1 2 5
+p197
+aVSean Elliott SAS 03/14/2000 SAS vs. ATL W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 13
+p198
+aVDavid Robinson SAS 03/14/2000 SAS vs. ATL W 35 26 11 15 73.3 0 0 - 4 5 80.0 3 5 8 1 0 3 2 4 29
+p199
+aVMario Elie SAS 03/14/2000 SAS vs. ATL W 35 5 2 5 40.0 1 4 25.0 0 0 - 1 3 4 3 1 0 0 2 10
+p200
+aVAntonio Daniels SAS 03/14/2000 SAS vs. ATL W 17 12 5 7 71.4 1 2 50.0 1 1 100.0 0 1 1 1 1 0 2 0 -1
+p201
+aVAvery Johnson SAS 03/14/2000 SAS vs. ATL W 39 22 9 16 56.3 0 0 - 4 4 100.0 0 0 0 10 3 0 4 2 16
+p202
+aVTim Duncan SAS 03/14/2000 SAS vs. ATL W 41 21 9 21 42.9 0 0 - 3 3 100.0 4 9 13 9 1 2 3 2 15
+p203
+aVMalik Rose SAS 03/14/2000 SAS vs. ATL W 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 2 3 -7
+p204
+aVAntonio Daniels SAS 03/12/2000 SAS @ NYK L 33 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 3 1 0 0 2 -8
+p205
+aVJerome Kersey SAS 03/12/2000 SAS @ NYK L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 5
+p206
+aVDerrick Dial SAS 03/12/2000 SAS @ NYK L 9 2 1 7 14.3 0 3 0.0 0 0 - 1 2 3 0 0 0 0 1 3
+p207
+aVAvery Johnson SAS 03/12/2000 SAS @ NYK L 35 10 4 10 40.0 0 0 - 2 2 100.0 1 2 3 4 1 0 3 3 -24
+p208
+aVTim Duncan SAS 03/12/2000 SAS @ NYK L 40 15 7 19 36.8 0 0 - 1 2 50.0 2 11 13 3 0 1 2 3 -15
+p209
+aVFelton Spencer SAS 03/12/2000 SAS @ NYK L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p210
+aVSamaki Walker SAS 03/12/2000 SAS @ NYK L 25 10 2 7 28.6 0 0 - 6 8 75.0 1 4 5 3 1 0 0 1 2
+p211
+aVJaren Jackson SAS 03/12/2000 SAS @ NYK L 19 8 3 6 50.0 1 2 50.0 1 1 100.0 0 1 1 2 1 0 0 5 -1
+p212
+aVDavid Robinson SAS 03/12/2000 SAS @ NYK L 29 22 10 18 55.6 0 0 - 2 3 66.7 2 4 6 1 1 1 0 4 -13
+p213
+aVMario Elie SAS 03/12/2000 SAS @ NYK L 35 7 2 6 33.3 2 4 50.0 1 2 50.0 1 2 3 2 1 1 3 2 -14
+p214
+aVMario Elie SAS 03/10/2000 SAS @ WAS W 40 7 3 7 42.9 1 5 20.0 0 2 0.0 1 1 2 5 2 0 2 0 -2
+p215
+aVDerrick Dial SAS 03/10/2000 SAS @ WAS W 17 7 3 6 50.0 0 1 0.0 1 1 100.0 2 5 7 1 0 1 2 2 16
+p216
+aVAntonio Daniels SAS 03/10/2000 SAS @ WAS W 30 13 5 9 55.6 1 2 50.0 2 3 66.7 1 2 3 3 1 0 2 3 17
+p217
+aVAvery Johnson SAS 03/10/2000 SAS @ WAS W 44 18 7 12 58.3 0 0 - 4 5 80.0 1 4 5 5 1 0 2 2 2
+p218
+aVDavid Robinson SAS 03/10/2000 SAS @ WAS W 47 21 8 18 44.4 0 0 - 5 5 100.0 1 10 11 1 2 1 5 4 4
+p219
+aVJerome Kersey SAS 03/10/2000 SAS @ WAS W 20 5 2 5 40.0 0 1 0.0 1 1 100.0 2 3 5 1 0 1 1 3 -8
+p220
+aVJaren Jackson SAS 03/10/2000 SAS @ WAS W 9 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 1 0 0 2 -4
+p221
+aVSamaki Walker SAS 03/10/2000 SAS @ WAS W 20 12 4 6 66.7 0 0 - 4 5 80.0 1 0 1 0 1 0 2 3 12
+p222
+aVTim Duncan SAS 03/10/2000 SAS @ WAS W 38 23 10 13 76.9 0 0 - 3 4 75.0 1 8 9 3 0 4 6 5 -2
+p223
+aVJerome Kersey SAS 03/09/2000 SAS @ ATL W 27 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 1 1 1 2 18
+p224
+aVDavid Robinson SAS 03/09/2000 SAS @ ATL W 23 12 5 9 55.6 0 0 - 2 4 50.0 2 7 9 2 3 4 0 0 30
+p225
+aVDerrick Dial SAS 03/09/2000 SAS @ ATL W 8 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p226
+aVTim Duncan SAS 03/09/2000 SAS @ ATL W 30 13 5 14 35.7 0 0 - 3 5 60.0 1 4 5 1 1 0 3 3 15
+p227
+aVAntonio Daniels SAS 03/09/2000 SAS @ ATL W 29 18 7 13 53.8 2 4 50.0 2 2 100.0 0 6 6 6 3 0 1 1 13
+p228
+aVSamaki Walker SAS 03/09/2000 SAS @ ATL W 28 17 6 13 46.2 0 0 - 5 6 83.3 4 3 7 0 0 0 0 2 6
+p229
+aVMario Elie SAS 03/09/2000 SAS @ ATL W 29 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 5 1 0 0 1 20
+p230
+aVFelton Spencer SAS 03/09/2000 SAS @ ATL W 15 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 2 1
+p231
+aVAvery Johnson SAS 03/09/2000 SAS @ ATL W 24 18 9 10 90.0 0 0 - 0 0 - 0 3 3 5 0 0 1 0 18
+p232
+aVJaren Jackson SAS 03/09/2000 SAS @ ATL W 27 11 4 8 50.0 3 7 42.9 0 0 - 2 2 4 0 0 0 1 4 5
+p233
+aVMario Elie SAS 03/06/2000 SAS vs. NJN W 35 9 4 7 57.1 1 2 50.0 0 1 0.0 2 3 5 0 0 0 4 1 -3
+p234
+aVTim Duncan SAS 03/06/2000 SAS vs. NJN W 39 17 7 14 50.0 0 0 - 3 5 60.0 6 7 13 5 0 4 5 1 -8
+p235
+aVDerrick Dial SAS 03/06/2000 SAS vs. NJN W 10 9 4 5 80.0 1 2 50.0 0 2 0.0 2 0 2 0 0 0 0 2 1
+p236
+aVDavid Robinson SAS 03/06/2000 SAS vs. NJN W 33 25 8 15 53.3 0 0 - 9 10 90.0 7 6 13 2 1 1 3 3 2
+p237
+aVAntonio Daniels SAS 03/06/2000 SAS vs. NJN W 30 9 4 13 30.8 0 2 0.0 1 1 100.0 1 2 3 4 0 0 4 1 6
+p238
+aVAvery Johnson SAS 03/06/2000 SAS vs. NJN W 32 16 5 11 45.5 0 0 - 6 6 100.0 0 5 5 11 1 0 0 5 -1
+p239
+aVJaren Jackson SAS 03/06/2000 SAS vs. NJN W 28 11 4 7 57.1 3 6 50.0 0 0 - 0 2 2 3 0 0 2 3 0
+p240
+aVJerome Kersey SAS 03/06/2000 SAS vs. NJN W 18 8 4 9 44.4 0 0 - 0 0 - 2 2 4 0 0 1 0 4 13
+p241
+aVSamaki Walker SAS 03/06/2000 SAS vs. NJN W 15 2 0 4 0.0 0 0 - 2 2 100.0 0 5 5 1 1 1 0 2 0
+p242
+aVFelton Spencer SAS 03/04/2000 SAS vs. SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p243
+aVJerome Kersey SAS 03/04/2000 SAS vs. SAC L 29 6 3 7 42.9 0 1 0.0 0 0 - 1 5 6 4 2 1 1 5 1
+p244
+aVSteve Kerr SAS 03/04/2000 SAS vs. SAC L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p245
+aVDavid Robinson SAS 03/04/2000 SAS vs. SAC L 46 23 9 20 45.0 0 0 - 5 9 55.6 1 11 12 4 4 1 2 4 2
+p246
+aVSamaki Walker SAS 03/04/2000 SAS vs. SAC L 19 6 2 4 50.0 0 0 - 2 4 50.0 3 2 5 0 0 0 0 3 -8
+p247
+aVTerry Porter SAS 03/04/2000 SAS vs. SAC L 38 11 4 8 50.0 2 6 33.3 1 1 100.0 0 2 2 7 0 0 2 1 -7
+p248
+aVJaren Jackson SAS 03/04/2000 SAS vs. SAC L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p249
+aVTim Duncan SAS 03/04/2000 SAS vs. SAC L 36 22 6 13 46.2 0 1 0.0 10 12 83.3 4 11 15 2 2 1 7 2 -1
+p250
+aVMario Elie SAS 03/04/2000 SAS vs. SAC L 29 15 6 11 54.5 3 5 60.0 0 0 - 1 5 6 1 2 0 5 2 -10
+p251
+aVAvery Johnson SAS 03/04/2000 SAS vs. SAC L 40 16 7 12 58.3 0 0 - 2 2 100.0 0 1 1 8 0 0 1 2 -8
+p252
+aVAntonio Daniels SAS 03/04/2000 SAS vs. SAC L 13 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 3
+p253
+aVAntonio Daniels SAS 03/02/2000 SAS vs. MIN L 24 18 8 11 72.7 1 3 33.3 1 1 100.0 1 1 2 2 1 0 1 0 10
+p254
+aVTerry Porter SAS 03/02/2000 SAS vs. MIN L 32 9 2 8 25.0 0 2 0.0 5 6 83.3 1 1 2 10 1 0 1 1 12
+p255
+aVDavid Robinson SAS 03/02/2000 SAS vs. MIN L 35 24 7 12 58.3 0 0 - 10 12 83.3 1 4 5 0 0 2 3 5 -2
+p256
+aVSamaki Walker SAS 03/02/2000 SAS vs. MIN L 42 14 5 13 38.5 0 0 - 4 4 100.0 5 7 12 1 0 0 0 4 -6
+p257
+aVAvery Johnson SAS 03/02/2000 SAS vs. MIN L 24 15 5 6 83.3 0 0 - 5 8 62.5 0 2 2 0 1 2 2 1 -16
+p258
+aVFelton Spencer SAS 03/02/2000 SAS vs. MIN L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 10
+p259
+aVJerome Kersey SAS 03/02/2000 SAS vs. MIN L 22 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 0 1 3 5 -21
+p260
+aVMario Elie SAS 03/02/2000 SAS vs. MIN L 21 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -15
+p261
+aVJaren Jackson SAS 03/02/2000 SAS vs. MIN L 32 18 6 11 54.5 6 9 66.7 0 0 - 0 4 4 3 1 0 0 3 -2
+p262
+aVMalik Rose SAS 02/29/2000 SAS vs. MIA W 6 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 0 5
+p263
+aVJaren Jackson SAS 02/29/2000 SAS vs. MIA W 15 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 0 0 0 0 0 6
+p264
+aVTerry Porter SAS 02/29/2000 SAS vs. MIA W 23 15 6 8 75.0 2 2 100.0 1 1 100.0 0 3 3 1 0 0 2 1 11
+p265
+aVDavid Robinson SAS 02/29/2000 SAS vs. MIA W 31 19 5 12 41.7 0 0 - 9 11 81.8 1 7 8 1 0 4 1 3 25
+p266
+aVAvery Johnson SAS 02/29/2000 SAS vs. MIA W 26 14 7 9 77.8 0 0 - 0 1 0.0 1 2 3 5 0 0 0 2 26
+p267
+aVMario Elie SAS 02/29/2000 SAS vs. MIA W 28 6 2 4 50.0 1 3 33.3 1 2 50.0 0 2 2 2 1 0 0 1 22
+p268
+aVSteve Kerr SAS 02/29/2000 SAS vs. MIA W 22 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 0
+p269
+aVFelton Spencer SAS 02/29/2000 SAS vs. MIA W 14 4 1 3 33.3 0 0 - 2 4 50.0 3 2 5 0 1 1 1 4 6
+p270
+aVSamaki Walker SAS 02/29/2000 SAS vs. MIA W 37 8 3 12 25.0 0 0 - 2 4 50.0 1 10 11 2 0 4 2 2 19
+p271
+aVJerome Kersey SAS 02/29/2000 SAS vs. MIA W 17 7 3 7 42.9 0 1 0.0 1 2 50.0 2 2 4 0 2 0 0 3 2
+p272
+aVAntonio Daniels SAS 02/29/2000 SAS vs. MIA W 22 10 4 6 66.7 1 2 50.0 1 4 25.0 0 1 1 3 2 0 0 2 -2
+p273
+aVSteve Kerr SAS 02/27/2000 SAS @ MIN L 22 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 0 1 0 2 1 6
+p274
+aVAvery Johnson SAS 02/27/2000 SAS @ MIN L 35 17 8 16 50.0 0 0 - 1 5 20.0 1 0 1 5 1 0 2 2 -5
+p275
+aVSamaki Walker SAS 02/27/2000 SAS @ MIN L 13 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 4 -5
+p276
+aVJerome Kersey SAS 02/27/2000 SAS @ MIN L 23 7 3 7 42.9 0 0 - 1 2 50.0 2 6 8 0 4 0 2 0 -3
+p277
+aVAntonio Daniels SAS 02/27/2000 SAS @ MIN L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 1
+p278
+aVDavid Robinson SAS 02/27/2000 SAS @ MIN L 40 29 10 19 52.6 0 1 0.0 9 12 75.0 2 7 9 2 2 1 2 3 -8
+p279
+aVMario Elie SAS 02/27/2000 SAS @ MIN L 23 7 1 2 50.0 1 1 100.0 4 4 100.0 1 1 2 3 0 0 1 1 -12
+p280
+aVTerry Porter SAS 02/27/2000 SAS @ MIN L 28 8 0 2 0.0 0 2 0.0 8 8 100.0 2 2 4 7 0 0 2 2 -1
+p281
+aVMalik Rose SAS 02/27/2000 SAS @ MIN L 43 14 6 10 60.0 1 1 100.0 1 2 50.0 2 4 6 1 4 2 4 4 7
+p282
+aVJaren Jackson SAS 02/25/2000 SAS @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p283
+aVAntonio Daniels SAS 02/25/2000 SAS @ CHI W 24 8 3 8 37.5 1 2 50.0 1 2 50.0 1 1 2 1 0 0 1 1 -1
+p284
+aVMalik Rose SAS 02/25/2000 SAS @ CHI W 32 17 7 14 50.0 0 0 - 3 6 50.0 6 5 11 2 0 0 5 6 9
+p285
+aVTerry Porter SAS 02/25/2000 SAS @ CHI W 28 11 5 8 62.5 1 3 33.3 0 0 - 0 4 4 4 3 1 1 1 8
+p286
+aVSamaki Walker SAS 02/25/2000 SAS @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p287
+aVDavid Robinson SAS 02/25/2000 SAS @ CHI W 28 23 8 11 72.7 0 0 - 7 8 87.5 2 8 10 0 1 2 0 4 19
+p288
+aVAvery Johnson SAS 02/25/2000 SAS @ CHI W 28 13 5 10 50.0 0 0 - 3 4 75.0 0 1 1 5 0 0 1 0 18
+p289
+aVJerome Kersey SAS 02/25/2000 SAS @ CHI W 24 4 2 8 25.0 0 0 - 0 2 0.0 2 1 3 3 3 0 1 3 7
+p290
+aVMario Elie SAS 02/25/2000 SAS @ CHI W 30 4 1 6 16.7 1 3 33.3 1 1 100.0 0 5 5 2 1 1 2 1 16
+p291
+aVSteve Kerr SAS 02/25/2000 SAS @ CHI W 23 8 3 8 37.5 1 3 33.3 1 1 100.0 0 1 1 3 0 0 0 1 -2
+p292
+aVFelton Spencer SAS 02/25/2000 SAS @ CHI W 16 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 2 0 1 5 0
+p293
+aVAvery Johnson SAS 02/24/2000 SAS @ CHH W 34 2 1 9 11.1 0 0 - 0 0 - 2 2 4 7 1 0 3 1 -7
+p294
+aVMalik Rose SAS 02/24/2000 SAS @ CHH W 15 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 1 0 0 2 3 3
+p295
+aVAntonio Daniels SAS 02/24/2000 SAS @ CHH W 16 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 2 1 11
+p296
+aVJerome Kersey SAS 02/24/2000 SAS @ CHH W 22 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 0 0 0 3 -8
+p297
+aVJaren Jackson SAS 02/24/2000 SAS @ CHH W 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 6
+p298
+aVMario Elie SAS 02/24/2000 SAS @ CHH W 33 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -6
+p299
+aVDavid Robinson SAS 02/24/2000 SAS @ CHH W 36 16 5 17 29.4 0 0 - 6 7 85.7 2 8 10 3 2 3 2 1 -4
+p300
+aVSamaki Walker SAS 02/24/2000 SAS @ CHH W 12 8 4 4 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 3
+p301
+aVTerry Porter SAS 02/24/2000 SAS @ CHH W 21 9 3 4 75.0 1 1 100.0 2 2 100.0 0 3 3 6 0 0 0 1 13
+p302
+aVTim Duncan SAS 02/24/2000 SAS @ CHH W 39 15 6 23 26.1 0 0 - 3 5 60.0 1 11 12 1 1 0 1 3 -1
+p303
+aVTim Duncan SAS 02/21/2000 SAS vs. PHX L 13 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 1 0 2 1 0 -4
+p304
+aVSamaki Walker SAS 02/21/2000 SAS vs. PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 2 1 -10
+p305
+aVMario Elie SAS 02/21/2000 SAS vs. PHX L 30 4 1 9 11.1 0 2 0.0 2 2 100.0 0 1 1 2 1 0 2 4 -5
+p306
+aVDavid Robinson SAS 02/21/2000 SAS vs. PHX L 41 31 9 16 56.3 0 0 - 13 16 81.3 7 11 18 3 1 4 2 3 4
+p307
+aVMalik Rose SAS 02/21/2000 SAS vs. PHX L 37 17 7 14 50.0 0 0 - 3 3 100.0 2 3 5 0 1 2 1 4 -6
+p308
+aVFelton Spencer SAS 02/21/2000 SAS vs. PHX L 0 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p309
+aVAntonio Daniels SAS 02/21/2000 SAS vs. PHX L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 0 1
+p310
+aVJaren Jackson SAS 02/21/2000 SAS vs. PHX L 21 4 1 7 14.3 0 5 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -14
+p311
+aVTerry Porter SAS 02/21/2000 SAS vs. PHX L 26 7 2 7 28.6 2 5 40.0 1 2 50.0 0 2 2 7 3 0 5 1 -8
+p312
+aVJerome Kersey SAS 02/21/2000 SAS vs. PHX L 21 6 3 4 75.0 0 0 - 0 0 - 2 5 7 0 1 1 1 1 7
+p313
+aVAvery Johnson SAS 02/21/2000 SAS vs. PHX L 36 12 6 12 50.0 0 0 - 0 0 - 0 3 3 6 0 1 3 3 -10
+p314
+aVSamaki Walker SAS 02/20/2000 SAS @ HOU W 17 12 4 5 80.0 0 0 - 4 4 100.0 3 6 9 0 0 0 0 1 0
+p315
+aVTim Duncan SAS 02/20/2000 SAS @ HOU W 39 25 10 21 47.6 0 0 - 5 5 100.0 3 8 11 4 1 1 4 5 10
+p316
+aVJerome Kersey SAS 02/20/2000 SAS @ HOU W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 2
+p317
+aVMario Elie SAS 02/20/2000 SAS @ HOU W 40 19 6 11 54.5 5 5 100.0 2 2 100.0 1 2 3 3 3 1 6 4 -5
+p318
+aVAvery Johnson SAS 02/20/2000 SAS @ HOU W 40 16 8 15 53.3 0 0 - 0 0 - 0 3 3 13 0 0 1 2 -2
+p319
+aVDavid Robinson SAS 02/20/2000 SAS @ HOU W 35 15 7 11 63.6 0 0 - 1 4 25.0 0 6 6 0 3 1 2 5 1
+p320
+aVJaren Jackson SAS 02/20/2000 SAS @ HOU W 15 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 1 -10
+p321
+aVSteve Kerr SAS 02/20/2000 SAS @ HOU W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p322
+aVTerry Porter SAS 02/20/2000 SAS @ HOU W 41 9 2 7 28.6 1 2 50.0 4 4 100.0 1 1 2 7 0 0 1 2 16
+p323
+aVAntonio Daniels SAS 02/20/2000 SAS @ HOU W 13 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 4
+p324
+aVMalik Rose SAS 02/20/2000 SAS @ HOU W 15 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 1 1 2 -7
+p325
+aVTerry Porter SAS 02/18/2000 SAS vs. HOU W 27 17 6 7 85.7 3 3 100.0 2 2 100.0 1 3 4 2 1 0 2 2 27
+p326
+aVSteve Kerr SAS 02/18/2000 SAS vs. HOU W 14 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 1 -7
+p327
+aVDavid Robinson SAS 02/18/2000 SAS vs. HOU W 24 16 5 6 83.3 0 0 - 6 8 75.0 1 5 6 2 7 3 2 3 25
+p328
+aVJaren Jackson SAS 02/18/2000 SAS vs. HOU W 22 15 5 8 62.5 3 6 50.0 2 2 100.0 0 2 2 2 2 0 0 1 9
+p329
+aVMalik Rose SAS 02/18/2000 SAS vs. HOU W 26 6 2 9 22.2 0 0 - 2 2 100.0 1 6 7 2 1 2 2 3 -8
+p330
+aVAvery Johnson SAS 02/18/2000 SAS vs. HOU W 25 12 5 11 45.5 0 0 - 2 2 100.0 0 0 0 8 0 0 1 2 28
+p331
+aVMario Elie SAS 02/18/2000 SAS vs. HOU W 26 7 2 6 33.3 0 2 0.0 3 3 100.0 1 6 7 5 2 0 1 1 25
+p332
+aVAntonio Daniels SAS 02/18/2000 SAS vs. HOU W 23 10 5 10 50.0 0 1 0.0 0 0 - 0 1 1 4 1 0 2 3 -4
+p333
+aVTim Duncan SAS 02/18/2000 SAS vs. HOU W 27 19 9 15 60.0 0 0 - 1 3 33.3 4 4 8 2 2 2 2 3 28
+p334
+aVFelton Spencer SAS 02/18/2000 SAS vs. HOU W 7 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 4 -6
+p335
+aVSamaki Walker SAS 02/18/2000 SAS vs. HOU W 19 8 4 9 44.4 0 0 - 0 0 - 2 2 4 4 0 1 1 2 3
+p336
+aVMalik Rose SAS 02/15/2000 SAS @ CLE L 11 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 1 0 1 3 4 -10
+p337
+aVJaren Jackson SAS 02/15/2000 SAS @ CLE L 22 8 3 6 50.0 2 5 40.0 0 0 - 1 3 4 1 0 0 2 1 -5
+p338
+aVDavid Robinson SAS 02/15/2000 SAS @ CLE L 40 20 8 17 47.1 0 0 - 4 6 66.7 2 9 11 2 2 3 1 6 -2
+p339
+aVTim Duncan SAS 02/15/2000 SAS @ CLE L 45 21 8 20 40.0 0 0 - 5 7 71.4 2 3 5 2 0 4 8 3 -10
+p340
+aVMario Elie SAS 02/15/2000 SAS @ CLE L 19 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -2
+p341
+aVAvery Johnson SAS 02/15/2000 SAS @ CLE L 31 6 1 7 14.3 0 0 - 4 4 100.0 1 2 3 10 5 1 0 3 -1
+p342
+aVTerry Porter SAS 02/15/2000 SAS @ CLE L 21 9 3 7 42.9 2 4 50.0 1 2 50.0 0 5 5 2 0 0 4 1 -11
+p343
+aVSteve Kerr SAS 02/15/2000 SAS @ CLE L 12 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 -2
+p344
+aVJerome Kersey SAS 02/15/2000 SAS @ CLE L 26 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 2 0 2 0 1 -6
+p345
+aVAntonio Daniels SAS 02/15/2000 SAS @ CLE L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 1 0 1 -6
+p346
+aVTerry Porter SAS 02/09/2000 SAS @ DEN W 21 6 1 6 16.7 0 2 0.0 4 4 100.0 1 2 3 3 0 1 2 1 2
+p347
+aVDavid Robinson SAS 02/09/2000 SAS @ DEN W 38 30 12 21 57.1 0 0 - 6 10 60.0 4 5 9 1 0 3 4 2 3
+p348
+aVAntonio Daniels SAS 02/09/2000 SAS @ DEN W 12 7 2 3 66.7 0 1 0.0 3 4 75.0 0 1 1 2 1 0 0 2 -1
+p349
+aVJaren Jackson SAS 02/09/2000 SAS @ DEN W 16 5 2 6 33.3 1 5 20.0 0 0 - 1 1 2 1 1 0 1 0 -1
+p350
+aVMalik Rose SAS 02/09/2000 SAS @ DEN W 15 4 2 5 40.0 0 0 - 0 2 0.0 0 3 3 0 0 0 0 4 3
+p351
+aVTim Duncan SAS 02/09/2000 SAS @ DEN W 43 24 8 18 44.4 0 0 - 8 9 88.9 5 8 13 4 8 1 4 3 12
+p352
+aVAvery Johnson SAS 02/09/2000 SAS @ DEN W 36 19 7 14 50.0 0 0 - 5 5 100.0 1 2 3 8 3 0 2 1 10
+p353
+aVJerome Kersey SAS 02/09/2000 SAS @ DEN W 21 4 2 6 33.3 0 0 - 0 0 - 1 2 3 2 3 2 2 2 8
+p354
+aVMario Elie SAS 02/09/2000 SAS @ DEN W 38 7 1 6 16.7 1 5 20.0 4 4 100.0 3 5 8 6 3 1 2 3 9
+p355
+aVAvery Johnson SAS 02/08/2000 SAS vs. SEA W 35 8 4 7 57.1 0 0 - 0 2 0.0 0 1 1 5 0 0 0 3 -2
+p356
+aVMario Elie SAS 02/08/2000 SAS vs. SEA W 20 2 1 5 20.0 0 2 0.0 0 0 - 0 6 6 3 1 0 0 4 3
+p357
+aVSteve Kerr SAS 02/08/2000 SAS vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p358
+aVDavid Robinson SAS 02/08/2000 SAS vs. SEA W 40 19 7 16 43.8 0 0 - 5 8 62.5 2 9 11 2 0 3 3 2 -1
+p359
+aVTerry Porter SAS 02/08/2000 SAS vs. SEA W 26 6 3 8 37.5 0 3 0.0 0 0 - 0 4 4 2 0 0 3 1 -6
+p360
+aVJaren Jackson SAS 02/08/2000 SAS vs. SEA W 25 6 2 7 28.6 2 4 50.0 0 0 - 0 3 3 2 2 0 0 0 5
+p361
+aVJerome Kersey SAS 02/08/2000 SAS vs. SEA W 22 5 2 8 25.0 0 0 - 1 2 50.0 2 3 5 0 2 4 1 0 8
+p362
+aVAntonio Daniels SAS 02/08/2000 SAS vs. SEA W 17 7 3 7 42.9 1 1 100.0 0 0 - 1 0 1 1 1 0 2 2 -4
+p363
+aVMalik Rose SAS 02/08/2000 SAS vs. SEA W 19 4 1 2 50.0 0 0 - 2 2 100.0 3 4 7 2 0 0 0 1 4
+p364
+aVTim Duncan SAS 02/08/2000 SAS vs. SEA W 36 22 9 19 47.4 0 0 - 4 6 66.7 2 8 10 2 1 2 2 4 4
+p365
+aVSteve Kerr SAS 02/06/2000 SAS @ UTA L 14 6 2 3 66.7 1 1 100.0 1 1 100.0 0 1 1 0 0 0 0 0 2
+p366
+aVTerry Porter SAS 02/06/2000 SAS @ UTA L 28 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 1 0 0 1 3 -2
+p367
+aVFelton Spencer SAS 02/06/2000 SAS @ UTA L 8 5 1 1 100.0 0 0 - 3 4 75.0 1 1 2 0 0 1 1 2 2
+p368
+aVTim Duncan SAS 02/06/2000 SAS @ UTA L 41 32 12 24 50.0 0 2 0.0 8 9 88.9 2 8 10 3 0 2 1 4 -3
+p369
+aVDavid Robinson SAS 02/06/2000 SAS @ UTA L 29 11 4 13 30.8 0 0 - 3 5 60.0 0 8 8 0 0 1 0 3 -3
+p370
+aVJerome Kersey SAS 02/06/2000 SAS @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p371
+aVAntonio Daniels SAS 02/06/2000 SAS @ UTA L 15 4 2 5 40.0 0 0 - 0 0 - 1 0 1 3 1 0 1 1 -3
+p372
+aVMario Elie SAS 02/06/2000 SAS @ UTA L 29 7 2 2 100.0 1 1 100.0 2 2 100.0 1 0 1 1 0 0 2 2 -4
+p373
+aVSamaki Walker SAS 02/06/2000 SAS @ UTA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p374
+aVMalik Rose SAS 02/06/2000 SAS @ UTA L 16 6 3 5 60.0 0 0 - 0 0 - 4 1 5 0 0 1 2 5 -1
+p375
+aVAvery Johnson SAS 02/06/2000 SAS @ UTA L 33 10 4 12 33.3 0 0 - 2 2 100.0 0 0 0 6 1 0 1 3 0
+p376
+aVJaren Jackson SAS 02/06/2000 SAS @ UTA L 19 3 1 4 25.0 1 3 33.3 0 1 0.0 0 1 1 0 0 0 1 3 1
+p377
+aVJerome Kersey SAS 02/03/2000 SAS vs. TOR W 12 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 2 3 0
+p378
+aVMalik Rose SAS 02/03/2000 SAS vs. TOR W 33 15 5 14 35.7 0 0 - 5 6 83.3 6 4 10 0 1 0 2 5 21
+p379
+aVAvery Johnson SAS 02/03/2000 SAS vs. TOR W 25 19 8 15 53.3 0 0 - 3 3 100.0 0 2 2 5 0 0 4 0 5
+p380
+aVSteve Kerr SAS 02/03/2000 SAS vs. TOR W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 1
+p381
+aVSamaki Walker SAS 02/03/2000 SAS vs. TOR W 11 6 1 1 100.0 0 0 - 4 6 66.7 1 2 3 0 0 0 0 0 -9
+p382
+aVTerry Porter SAS 02/03/2000 SAS vs. TOR W 29 13 4 5 80.0 1 1 100.0 4 5 80.0 0 3 3 1 3 0 0 3 9
+p383
+aVFelton Spencer SAS 02/03/2000 SAS vs. TOR W 12 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -1
+p384
+aVAntonio Daniels SAS 02/03/2000 SAS vs. TOR W 23 5 1 4 25.0 0 0 - 3 6 50.0 0 4 4 7 0 0 2 3 12
+p385
+aVTim Duncan SAS 02/03/2000 SAS vs. TOR W 40 32 11 22 50.0 0 0 - 10 10 100.0 6 11 17 7 3 1 2 2 23
+p386
+aVJaren Jackson SAS 02/03/2000 SAS vs. TOR W 26 10 4 8 50.0 1 4 25.0 1 1 100.0 1 1 2 1 1 0 0 1 12
+p387
+aVMario Elie SAS 02/03/2000 SAS vs. TOR W 25 4 2 4 50.0 0 2 0.0 0 0 - 0 4 4 2 1 0 1 1 12
+p388
+aVFelton Spencer SAS 02/01/2000 SAS vs. LAL W 5 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 1
+p389
+aVTim Duncan SAS 02/01/2000 SAS vs. LAL W 41 29 11 19 57.9 0 0 - 7 8 87.5 4 14 18 4 0 1 1 3 20
+p390
+aVAntonio Daniels SAS 02/01/2000 SAS vs. LAL W 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -10
+p391
+aVMario Elie SAS 02/01/2000 SAS vs. LAL W 33 11 4 9 44.4 1 3 33.3 2 2 100.0 0 1 1 4 0 0 3 0 31
+p392
+aVTerry Porter SAS 02/01/2000 SAS vs. LAL W 34 15 6 12 50.0 3 5 60.0 0 0 - 1 0 1 2 0 1 0 3 18
+p393
+aVJerome Kersey SAS 02/01/2000 SAS vs. LAL W 11 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -4
+p394
+aVSteve Kerr SAS 02/01/2000 SAS vs. LAL W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p395
+aVDavid Robinson SAS 02/01/2000 SAS vs. LAL W 33 14 7 14 50.0 0 0 - 0 1 0.0 3 9 12 2 2 1 0 2 17
+p396
+aVJaren Jackson SAS 02/01/2000 SAS vs. LAL W 13 4 1 3 33.3 1 3 33.3 1 2 50.0 0 2 2 1 1 0 1 3 4
+p397
+aVSamaki Walker SAS 02/01/2000 SAS vs. LAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p398
+aVMalik Rose SAS 02/01/2000 SAS vs. LAL W 15 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 0 1 0 2 4 13
+p399
+aVAvery Johnson SAS 02/01/2000 SAS vs. LAL W 33 22 10 12 83.3 0 0 - 2 2 100.0 0 2 2 9 2 0 2 0 36
+p400
+aVMario Elie SAS 01/29/2000 SAS @ POR L 20 4 2 8 25.0 0 2 0.0 0 1 0.0 0 2 2 4 1 0 2 3 -3
+p401
+aVJaren Jackson SAS 01/29/2000 SAS @ POR L 24 4 2 10 20.0 0 3 0.0 0 0 - 1 1 2 1 1 0 0 4 -11
+p402
+aVMalik Rose SAS 01/29/2000 SAS @ POR L 25 4 1 2 50.0 0 0 - 2 5 40.0 3 3 6 1 1 0 3 3 -8
+p403
+aVDavid Robinson SAS 01/29/2000 SAS @ POR L 35 12 5 12 41.7 0 0 - 2 7 28.6 3 7 10 2 3 2 3 3 -12
+p404
+aVTim Duncan SAS 01/29/2000 SAS @ POR L 28 12 5 9 55.6 0 0 - 2 2 100.0 1 1 2 2 0 0 1 3 -3
+p405
+aVAvery Johnson SAS 01/29/2000 SAS @ POR L 29 15 5 10 50.0 0 0 - 5 5 100.0 1 2 3 5 0 1 1 0 -3
+p406
+aVAntonio Daniels SAS 01/29/2000 SAS @ POR L 19 5 2 5 40.0 0 1 0.0 1 1 100.0 0 0 0 1 1 0 0 1 -11
+p407
+aVTerry Porter SAS 01/29/2000 SAS @ POR L 26 3 1 7 14.3 0 1 0.0 1 1 100.0 0 2 2 2 0 0 2 2 -12
+p408
+aVSamaki Walker SAS 01/29/2000 SAS @ POR L 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 0 -5
+p409
+aVJerome Kersey SAS 01/29/2000 SAS @ POR L 26 6 3 10 30.0 0 2 0.0 0 0 - 2 7 9 0 1 0 3 1 -2
+p410
+aVJerome Kersey SAS 01/27/2000 SAS vs. MIN W 19 14 5 8 62.5 0 0 - 4 4 100.0 1 3 4 0 1 0 1 0 17
+p411
+aVSamaki Walker SAS 01/27/2000 SAS vs. MIN W 8 0 0 4 0.0 0 0 - 0 2 0.0 2 4 6 0 0 0 0 0 -5
+p412
+aVTerry Porter SAS 01/27/2000 SAS vs. MIN W 20 0 0 8 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 2 1 -6
+p413
+aVJaren Jackson SAS 01/27/2000 SAS vs. MIN W 29 8 3 7 42.9 2 2 100.0 0 0 - 0 3 3 1 0 0 2 1 -3
+p414
+aVDavid Robinson SAS 01/27/2000 SAS vs. MIN W 39 19 6 11 54.5 0 0 - 7 10 70.0 4 8 12 0 1 4 2 2 20
+p415
+aVMario Elie SAS 01/27/2000 SAS vs. MIN W 24 7 3 6 50.0 1 3 33.3 0 0 - 2 2 4 4 4 0 1 0 17
+p416
+aVFelton Spencer SAS 01/27/2000 SAS vs. MIN W 1 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -1
+p417
+aVTim Duncan SAS 01/27/2000 SAS vs. MIN W 37 20 8 19 42.1 0 0 - 4 4 100.0 4 10 14 3 1 5 1 3 17
+p418
+aVSteve Kerr SAS 01/27/2000 SAS vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p419
+aVAntonio Daniels SAS 01/27/2000 SAS vs. MIN W 16 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -8
+p420
+aVAvery Johnson SAS 01/27/2000 SAS vs. MIN W 33 18 8 12 66.7 0 0 - 2 2 100.0 0 0 0 8 2 0 2 2 22
+p421
+aVMalik Rose SAS 01/27/2000 SAS vs. MIN W 10 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 1 0 0 4 -7
+p422
+aVMalik Rose SAS 01/25/2000 SAS vs. LAC W 14 9 2 5 40.0 0 0 - 5 6 83.3 3 3 6 0 0 0 0 1 11
+p423
+aVFelton Spencer SAS 01/25/2000 SAS vs. LAC W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 1
+p424
+aVAntonio Daniels SAS 01/25/2000 SAS vs. LAC W 23 11 3 5 60.0 1 2 50.0 4 6 66.7 0 3 3 5 0 0 0 1 21
+p425
+aVJaren Jackson SAS 01/25/2000 SAS vs. LAC W 26 8 3 7 42.9 2 4 50.0 0 0 - 1 4 5 2 1 0 0 1 13
+p426
+aVJerome Kersey SAS 01/25/2000 SAS vs. LAC W 22 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 1 2 0 1 2 10
+p427
+aVSamaki Walker SAS 01/25/2000 SAS vs. LAC W 6 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 0 1 0 0 0
+p428
+aVMario Elie SAS 01/25/2000 SAS vs. LAC W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -4
+p429
+aVTerry Porter SAS 01/25/2000 SAS vs. LAC W 23 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 5 2 0 0 0 23
+p430
+aVAvery Johnson SAS 01/25/2000 SAS vs. LAC W 25 10 4 6 66.7 0 0 - 2 5 40.0 0 0 0 4 3 0 1 1 2
+p431
+aVDavid Robinson SAS 01/25/2000 SAS vs. LAC W 30 22 7 12 58.3 0 0 - 8 9 88.9 3 10 13 1 0 3 2 2 18
+p432
+aVSteve Kerr SAS 01/25/2000 SAS vs. LAC W 7 3 1 3 33.3 0 2 0.0 1 2 50.0 1 0 1 0 0 0 2 0 4
+p433
+aVTim Duncan SAS 01/25/2000 SAS vs. LAC W 39 24 10 22 45.5 0 0 - 4 7 57.1 3 10 13 1 0 1 3 2 16
+p434
+aVJaren Jackson SAS 01/22/2000 SAS vs. NYK W 15 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 2 1 0 2 1 -10
+p435
+aVAntonio Daniels SAS 01/22/2000 SAS vs. NYK W 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -8
+p436
+aVTim Duncan SAS 01/22/2000 SAS vs. NYK W 44 33 9 19 47.4 0 0 - 15 18 83.3 4 11 15 5 0 4 5 1 25
+p437
+aVAvery Johnson SAS 01/22/2000 SAS vs. NYK W 39 14 6 8 75.0 0 1 0.0 2 2 100.0 1 4 5 6 0 1 1 0 19
+p438
+aVDavid Robinson SAS 01/22/2000 SAS vs. NYK W 36 10 5 16 31.3 0 1 0.0 0 2 0.0 1 6 7 3 1 0 2 5 5
+p439
+aVMario Elie SAS 01/22/2000 SAS vs. NYK W 36 10 2 6 33.3 2 4 50.0 4 5 80.0 0 4 4 3 1 0 2 3 21
+p440
+aVJerome Kersey SAS 01/22/2000 SAS vs. NYK W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 0
+p441
+aVMalik Rose SAS 01/22/2000 SAS vs. NYK W 16 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -4
+p442
+aVTerry Porter SAS 01/22/2000 SAS vs. NYK W 38 18 7 10 70.0 2 3 66.7 2 3 66.7 1 10 11 2 1 0 1 0 17
+p443
+aVAntonio Daniels SAS 01/19/2000 SAS vs. POR L 19 5 2 7 28.6 0 2 0.0 1 2 50.0 0 1 1 4 3 0 1 1 -1
+p444
+aVSamaki Walker SAS 01/19/2000 SAS vs. POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p445
+aVMalik Rose SAS 01/19/2000 SAS vs. POR L 10 8 2 2 100.0 0 0 - 4 4 100.0 2 0 2 0 0 0 0 1 -13
+p446
+aVJerome Kersey SAS 01/19/2000 SAS vs. POR L 8 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -5
+p447
+aVAvery Johnson SAS 01/19/2000 SAS vs. POR L 29 18 7 12 58.3 0 0 - 4 6 66.7 1 0 1 1 1 0 0 2 -9
+p448
+aVMario Elie SAS 01/19/2000 SAS vs. POR L 36 7 2 6 33.3 1 3 33.3 2 2 100.0 1 5 6 1 0 0 6 4 -11
+p449
+aVDavid Robinson SAS 01/19/2000 SAS vs. POR L 43 29 11 18 61.1 0 0 - 7 10 70.0 4 8 12 2 0 2 0 2 0
+p450
+aVTerry Porter SAS 01/19/2000 SAS vs. POR L 31 17 5 9 55.6 1 3 33.3 6 6 100.0 0 4 4 7 0 0 0 2 -5
+p451
+aVJaren Jackson SAS 01/19/2000 SAS vs. POR L 20 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 2 1 0 1 5 1
+p452
+aVTim Duncan SAS 01/19/2000 SAS vs. POR L 38 9 2 9 22.2 0 0 - 5 6 83.3 0 6 6 1 1 0 0 3 -9
+p453
+aVJaren Jackson SAS 01/17/2000 SAS @ LAC W 28 5 2 8 25.0 1 3 33.3 0 0 - 2 3 5 3 1 0 2 2 2
+p454
+aVMalik Rose SAS 01/17/2000 SAS @ LAC W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 2 1
+p455
+aVAvery Johnson SAS 01/17/2000 SAS @ LAC W 32 8 4 9 44.4 0 0 - 0 0 - 0 1 1 9 0 0 1 3 2
+p456
+aVMario Elie SAS 01/17/2000 SAS @ LAC W 25 9 3 4 75.0 1 1 100.0 2 3 66.7 0 3 3 1 0 0 0 3 5
+p457
+aVDavid Robinson SAS 01/17/2000 SAS @ LAC W 41 38 18 27 66.7 0 0 - 2 6 33.3 3 8 11 1 0 3 4 2 3
+p458
+aVAntonio Daniels SAS 01/17/2000 SAS @ LAC W 16 7 2 3 66.7 0 0 - 3 4 75.0 0 0 0 1 0 0 2 1 4
+p459
+aVTim Duncan SAS 01/17/2000 SAS @ LAC W 38 23 9 14 64.3 0 0 - 5 11 45.5 2 11 13 4 0 2 5 2 11
+p460
+aVSamaki Walker SAS 01/17/2000 SAS @ LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 1 0 0 0 -3
+p461
+aVTerry Porter SAS 01/17/2000 SAS @ LAC W 21 5 2 5 40.0 0 2 0.0 1 2 50.0 0 3 3 2 1 0 1 0 6
+p462
+aVJerome Kersey SAS 01/17/2000 SAS @ LAC W 22 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 -1
+p463
+aVTim Duncan SAS 01/14/2000 SAS @ SEA L 44 32 12 22 54.5 0 1 0.0 8 8 100.0 6 10 16 0 2 4 4 3 -12
+p464
+aVJaren Jackson SAS 01/14/2000 SAS @ SEA L 28 10 3 8 37.5 2 5 40.0 2 4 50.0 0 4 4 4 0 0 2 3 -11
+p465
+aVMalik Rose SAS 01/14/2000 SAS @ SEA L 19 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 1 1 1 3
+p466
+aVAvery Johnson SAS 01/14/2000 SAS @ SEA L 32 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 7 1 1 2 3 -9
+p467
+aVDavid Robinson SAS 01/14/2000 SAS @ SEA L 33 20 9 14 64.3 0 0 - 2 4 50.0 1 6 7 3 2 1 3 5 -3
+p468
+aVJerome Kersey SAS 01/14/2000 SAS @ SEA L 18 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 9
+p469
+aVAntonio Daniels SAS 01/14/2000 SAS @ SEA L 19 4 2 4 50.0 0 0 - 0 0 - 0 2 2 4 0 0 3 1 0
+p470
+aVMario Elie SAS 01/14/2000 SAS @ SEA L 24 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 1 4 -15
+p471
+aVSamaki Walker SAS 01/14/2000 SAS @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p472
+aVTerry Porter SAS 01/14/2000 SAS @ SEA L 22 3 1 4 25.0 0 1 0.0 1 2 50.0 0 4 4 3 1 1 2 2 8
+p473
+aVMario Elie SAS 01/13/2000 SAS @ SAC L 34 13 4 5 80.0 0 1 0.0 5 5 100.0 1 1 2 3 2 0 5 3 -16
+p474
+aVJaren Jackson SAS 01/13/2000 SAS @ SAC L 21 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 1 0 2 4 5
+p475
+aVTim Duncan SAS 01/13/2000 SAS @ SAC L 43 33 9 18 50.0 1 1 100.0 14 19 73.7 2 18 20 3 2 3 6 1 -7
+p476
+aVSamaki Walker SAS 01/13/2000 SAS @ SAC L 10 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 0 0 2 1 2 -11
+p477
+aVMalik Rose SAS 01/13/2000 SAS @ SAC L 18 4 1 4 25.0 0 0 - 2 2 100.0 2 3 5 0 1 0 0 4 14
+p478
+aVAntonio Daniels SAS 01/13/2000 SAS @ SAC L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 0
+p479
+aVTerry Porter SAS 01/13/2000 SAS @ SAC L 21 11 3 8 37.5 2 4 50.0 3 4 75.0 0 1 1 2 2 0 2 1 7
+p480
+aVJerome Kersey SAS 01/13/2000 SAS @ SAC L 20 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 1 2 0 3 -2
+p481
+aVDavid Robinson SAS 01/13/2000 SAS @ SAC L 25 17 7 13 53.8 0 0 - 3 5 60.0 2 7 9 0 1 3 1 4 -4
+p482
+aVAvery Johnson SAS 01/13/2000 SAS @ SAC L 33 15 6 16 37.5 0 0 - 3 4 75.0 0 3 3 6 3 0 0 0 -6
+p483
+aVMalik Rose SAS 01/10/2000 SAS vs. UTA W 23 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 4 1
+p484
+aVTim Duncan SAS 01/10/2000 SAS vs. UTA W 46 46 16 28 57.1 0 1 0.0 14 16 87.5 3 11 14 2 0 1 3 2 6
+p485
+aVJaren Jackson SAS 01/10/2000 SAS vs. UTA W 22 8 2 4 50.0 2 2 100.0 2 2 100.0 0 4 4 2 0 0 0 4 -15
+p486
+aVTerry Porter SAS 01/10/2000 SAS vs. UTA W 22 16 5 8 62.5 4 4 100.0 2 3 66.7 0 1 1 0 0 0 2 1 10
+p487
+aVMario Elie SAS 01/10/2000 SAS vs. UTA W 30 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 3 5 0 3 5 11
+p488
+aVJerome Kersey SAS 01/10/2000 SAS vs. UTA W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 2 1 0 2 3
+p489
+aVDavid Robinson SAS 01/10/2000 SAS vs. UTA W 22 4 2 5 40.0 0 0 - 0 0 - 0 6 6 0 1 1 3 5 7
+p490
+aVAvery Johnson SAS 01/10/2000 SAS vs. UTA W 32 4 2 7 28.6 0 0 - 0 0 - 0 1 1 6 1 0 2 3 0
+p491
+aVSamaki Walker SAS 01/10/2000 SAS vs. UTA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p492
+aVAntonio Daniels SAS 01/10/2000 SAS vs. UTA W 24 7 3 7 42.9 0 1 0.0 1 1 100.0 0 3 3 2 4 1 2 0 12
+p493
+aVTerry Porter SAS 01/08/2000 SAS vs. ORL W 12 7 2 4 50.0 1 2 50.0 2 2 100.0 1 1 2 6 1 0 3 0 8
+p494
+aVJaren Jackson SAS 01/08/2000 SAS vs. ORL W 18 8 3 5 60.0 2 3 66.7 0 0 - 1 1 2 4 3 0 0 2 32
+p495
+aVSteve Kerr SAS 01/08/2000 SAS vs. ORL W 17 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 -5
+p496
+aVMalik Rose SAS 01/08/2000 SAS vs. ORL W 28 19 7 13 53.8 0 0 - 5 7 71.4 2 5 7 1 1 0 4 5 -6
+p497
+aVSamaki Walker SAS 01/08/2000 SAS vs. ORL W 19 6 3 7 42.9 0 0 - 0 0 - 1 4 5 4 0 0 2 3 -4
+p498
+aVAntonio Daniels SAS 01/08/2000 SAS vs. ORL W 27 10 3 3 100.0 0 0 - 4 5 80.0 0 0 0 5 2 1 2 3 -3
+p499
+aVMario Elie SAS 01/08/2000 SAS vs. ORL W 25 9 2 6 33.3 0 2 0.0 5 6 83.3 1 4 5 4 1 1 0 0 40
+p500
+aVAvery Johnson SAS 01/08/2000 SAS vs. ORL W 21 12 6 11 54.5 0 0 - 0 0 - 2 2 4 4 2 0 2 1 38
+p501
+aVTim Duncan SAS 01/08/2000 SAS vs. ORL W 27 22 8 12 66.7 0 0 - 6 7 85.7 4 4 8 2 2 1 1 3 45
+p502
+aVJerome Kersey SAS 01/08/2000 SAS vs. ORL W 7 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 6
+p503
+aVDavid Robinson SAS 01/08/2000 SAS vs. ORL W 22 15 6 7 85.7 0 0 - 3 4 75.0 2 11 13 1 0 3 4 2 35
+p504
+aVChucky Brown SAS 01/08/2000 SAS vs. ORL W 16 9 4 9 44.4 1 2 50.0 0 0 - 1 0 1 0 1 1 1 3 -11
+p505
+aVChucky Brown SAS 01/07/2000 SAS @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p506
+aVAvery Johnson SAS 01/07/2000 SAS @ PHX W 27 12 6 11 54.5 0 1 0.0 0 0 - 1 0 1 5 1 0 1 2 14
+p507
+aVMario Elie SAS 01/07/2000 SAS @ PHX W 23 6 2 3 66.7 1 1 100.0 1 1 100.0 2 3 5 2 1 0 2 2 12
+p508
+aVJaren Jackson SAS 01/07/2000 SAS @ PHX W 24 10 3 8 37.5 1 3 33.3 3 4 75.0 1 5 6 0 1 1 2 2 6
+p509
+aVDavid Robinson SAS 01/07/2000 SAS @ PHX W 29 24 9 19 47.4 0 0 - 6 7 85.7 5 4 9 0 1 0 3 2 12
+p510
+aVSamaki Walker SAS 01/07/2000 SAS @ PHX W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 1 0 1 -7
+p511
+aVJerome Kersey SAS 01/07/2000 SAS @ PHX W 18 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 1 1 0 4 6
+p512
+aVAntonio Daniels SAS 01/07/2000 SAS @ PHX W 21 8 2 9 22.2 0 0 - 4 4 100.0 1 1 2 2 2 0 2 2 5
+p513
+aVMalik Rose SAS 01/07/2000 SAS @ PHX W 24 13 5 10 50.0 0 0 - 3 3 100.0 5 2 7 1 1 2 0 2 22
+p514
+aVTim Duncan SAS 01/07/2000 SAS @ PHX W 34 19 6 15 40.0 0 0 - 7 10 70.0 4 11 15 5 2 1 2 2 16
+p515
+aVTerry Porter SAS 01/07/2000 SAS @ PHX W 27 8 3 6 50.0 1 3 33.3 1 3 33.3 0 4 4 3 2 0 3 1 18
+p516
+aVSteve Kerr SAS 01/07/2000 SAS @ PHX W 4 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p517
+aVMario Elie SAS 01/05/2000 SAS vs. SEA L 30 3 1 6 16.7 1 3 33.3 0 0 - 0 5 5 5 0 0 2 2 1
+p518
+aVMalik Rose SAS 01/05/2000 SAS vs. SEA L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 1 -8
+p519
+aVAntonio Daniels SAS 01/05/2000 SAS vs. SEA L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p520
+aVTim Duncan SAS 01/05/2000 SAS vs. SEA L 43 24 10 18 55.6 0 1 0.0 4 5 80.0 4 8 12 1 0 4 3 2 -1
+p521
+aVAvery Johnson SAS 01/05/2000 SAS vs. SEA L 37 15 7 10 70.0 1 1 100.0 0 0 - 0 2 2 9 0 0 2 3 -2
+p522
+aVSteve Kerr SAS 01/05/2000 SAS vs. SEA L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 4
+p523
+aVTerry Porter SAS 01/05/2000 SAS vs. SEA L 29 15 5 11 45.5 4 7 57.1 1 1 100.0 1 6 7 7 2 0 0 1 4
+p524
+aVJaren Jackson SAS 01/05/2000 SAS vs. SEA L 13 7 3 6 50.0 1 4 25.0 0 0 - 0 2 2 1 0 0 1 1 -8
+p525
+aVDavid Robinson SAS 01/05/2000 SAS vs. SEA L 41 20 8 17 47.1 0 0 - 4 6 66.7 3 8 11 3 0 4 4 2 3
+p526
+aVJerome Kersey SAS 01/05/2000 SAS vs. SEA L 18 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 1 0 0 4 -4
+p527
+aVJerome Kersey SAS 01/04/2000 SAS @ MIN L 16 0 0 5 0.0 0 0 - 0 0 - 1 1 2 1 0 1 2 2 8
+p528
+aVTim Duncan SAS 01/04/2000 SAS @ MIN L 43 27 10 17 58.8 0 0 - 7 9 77.8 5 14 19 5 1 0 1 1 -3
+p529
+aVMalik Rose SAS 01/04/2000 SAS @ MIN L 18 8 4 7 57.1 0 0 - 0 0 - 1 4 5 1 0 0 1 4 6
+p530
+aVAntonio Daniels SAS 01/04/2000 SAS @ MIN L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 7
+p531
+aVSamaki Walker SAS 01/04/2000 SAS @ MIN L 6 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 0 0
+p532
+aVMario Elie SAS 01/04/2000 SAS @ MIN L 32 9 3 10 30.0 1 3 33.3 2 2 100.0 1 1 2 2 1 0 2 2 -11
+p533
+aVDavid Robinson SAS 01/04/2000 SAS @ MIN L 30 11 3 9 33.3 0 0 - 5 6 83.3 3 2 5 2 1 4 3 4 -9
+p534
+aVTerry Porter SAS 01/04/2000 SAS @ MIN L 19 6 2 6 33.3 1 2 50.0 1 3 33.3 1 2 3 2 1 0 0 0 5
+p535
+aVAvery Johnson SAS 01/04/2000 SAS @ MIN L 41 17 8 19 42.1 0 0 - 1 2 50.0 1 1 2 5 3 0 1 2 -8
+p536
+aVJaren Jackson SAS 01/04/2000 SAS @ MIN L 28 2 1 9 11.1 0 6 0.0 0 0 - 0 1 1 3 0 0 1 3 -10
+p537
+aVMario Elie SAS 12/30/1999 SAS @ VAN W 34 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 1 6
+p538
+aVMalik Rose SAS 12/30/1999 SAS @ VAN W 20 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 0 0 4 3 8
+p539
+aVDavid Robinson SAS 12/30/1999 SAS @ VAN W 30 19 4 9 44.4 0 0 - 11 12 91.7 4 9 13 3 1 2 1 3 4
+p540
+aVAvery Johnson SAS 12/30/1999 SAS @ VAN W 32 8 3 9 33.3 0 1 0.0 2 2 100.0 1 0 1 3 0 0 3 1 -1
+p541
+aVJerome Kersey SAS 12/30/1999 SAS @ VAN W 13 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 0 2 4
+p542
+aVTim Duncan SAS 12/30/1999 SAS @ VAN W 44 32 12 24 50.0 0 0 - 8 10 80.0 3 12 15 4 1 4 5 4 8
+p543
+aVTerry Porter SAS 12/30/1999 SAS @ VAN W 24 14 5 9 55.6 1 3 33.3 3 3 100.0 0 1 1 1 1 0 0 0 9
+p544
+aVAntonio Daniels SAS 12/30/1999 SAS @ VAN W 16 7 1 2 50.0 0 0 - 5 6 83.3 0 3 3 3 1 0 0 0 11
+p545
+aVSamaki Walker SAS 12/30/1999 SAS @ VAN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p546
+aVJaren Jackson SAS 12/30/1999 SAS @ VAN W 24 8 3 7 42.9 2 5 40.0 0 0 - 1 2 3 1 0 0 1 1 1
+p547
+aVChucky Brown SAS 12/27/1999 SAS @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p548
+aVSamaki Walker SAS 12/27/1999 SAS @ GSW W 10 2 1 3 33.3 0 0 - 0 2 0.0 1 4 5 0 0 0 1 2 10
+p549
+aVMario Elie SAS 12/27/1999 SAS @ GSW W 29 10 4 10 40.0 2 5 40.0 0 0 - 1 2 3 3 0 0 1 1 5
+p550
+aVSteve Kerr SAS 12/27/1999 SAS @ GSW W 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 5
+p551
+aVTim Duncan SAS 12/27/1999 SAS @ GSW W 36 16 7 14 50.0 0 0 - 2 4 50.0 4 7 11 4 2 1 3 2 16
+p552
+aVTerry Porter SAS 12/27/1999 SAS @ GSW W 24 14 4 7 57.1 1 4 25.0 5 6 83.3 0 2 2 4 1 0 1 0 24
+p553
+aVDavid Robinson SAS 12/27/1999 SAS @ GSW W 32 28 14 19 73.7 0 0 - 0 2 0.0 7 7 14 2 1 4 2 3 8
+p554
+aVJerome Kersey SAS 12/27/1999 SAS @ GSW W 19 8 4 6 66.7 0 0 - 0 0 - 1 2 3 4 1 2 1 1 17
+p555
+aVMalik Rose SAS 12/27/1999 SAS @ GSW W 17 2 1 2 50.0 0 0 - 0 2 0.0 2 1 3 0 1 0 3 5 7
+p556
+aVAvery Johnson SAS 12/27/1999 SAS @ GSW W 28 8 4 10 40.0 0 2 0.0 0 0 - 0 0 0 9 0 0 1 0 8
+p557
+aVAntonio Daniels SAS 12/27/1999 SAS @ GSW W 20 9 4 6 66.7 0 0 - 1 1 100.0 0 2 2 3 2 0 0 0 14
+p558
+aVJaren Jackson SAS 12/27/1999 SAS @ GSW W 21 7 3 11 27.3 1 5 20.0 0 0 - 0 2 2 1 0 1 1 2 -7
+p559
+aVMario Elie SAS 12/25/1999 SAS @ LAL L 34 12 4 6 66.7 1 2 50.0 3 3 100.0 0 1 1 2 0 0 3 4 0
+p560
+aVAntonio Daniels SAS 12/25/1999 SAS @ LAL L 13 2 1 3 33.3 0 2 0.0 0 0 - 3 3 6 3 0 0 1 1 -6
+p561
+aVTerry Porter SAS 12/25/1999 SAS @ LAL L 13 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 1 1 0 1 0 -6
+p562
+aVSamaki Walker SAS 12/25/1999 SAS @ LAL L 7 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p563
+aVMalik Rose SAS 12/25/1999 SAS @ LAL L 18 3 1 4 25.0 0 0 - 1 1 100.0 2 3 5 1 1 1 1 6 -3
+p564
+aVDavid Robinson SAS 12/25/1999 SAS @ LAL L 26 9 2 8 25.0 0 0 - 5 7 71.4 6 13 19 1 2 0 3 4 1
+p565
+aVJerome Kersey SAS 12/25/1999 SAS @ LAL L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p566
+aVJaren Jackson SAS 12/25/1999 SAS @ LAL L 35 13 5 14 35.7 2 8 25.0 1 2 50.0 2 6 8 3 2 0 1 4 -2
+p567
+aVTim Duncan SAS 12/25/1999 SAS @ LAL L 45 28 8 23 34.8 0 0 - 12 15 80.0 2 7 9 1 0 1 4 6 -12
+p568
+aVAvery Johnson SAS 12/25/1999 SAS @ LAL L 35 15 6 14 42.9 0 1 0.0 3 5 60.0 1 1 2 6 1 0 1 1 0
+p569
+aVMalik Rose SAS 12/23/1999 SAS vs. MIL L 18 2 0 1 0.0 0 0 - 2 2 100.0 4 3 7 0 1 0 1 4 -1
+p570
+aVTim Duncan SAS 12/23/1999 SAS vs. MIL L 43 18 6 22 27.3 0 0 - 6 7 85.7 9 6 15 2 0 2 2 2 -9
+p571
+aVJaren Jackson SAS 12/23/1999 SAS vs. MIL L 29 10 4 10 40.0 1 5 20.0 1 1 100.0 0 1 1 1 1 0 0 0 -3
+p572
+aVSamaki Walker SAS 12/23/1999 SAS vs. MIL L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 1 1 0 1 2
+p573
+aVJerome Kersey SAS 12/23/1999 SAS vs. MIL L 18 10 3 6 50.0 0 0 - 4 6 66.7 1 0 1 1 1 0 0 3 -6
+p574
+aVSteve Kerr SAS 12/23/1999 SAS vs. MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p575
+aVChucky Brown SAS 12/23/1999 SAS vs. MIL L 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -4
+p576
+aVAvery Johnson SAS 12/23/1999 SAS vs. MIL L 34 16 8 11 72.7 0 0 - 0 2 0.0 0 1 1 10 2 0 2 4 -5
+p577
+aVMario Elie SAS 12/23/1999 SAS vs. MIL L 33 13 5 8 62.5 2 4 50.0 1 2 50.0 0 5 5 4 0 0 4 3 6
+p578
+aVAntonio Daniels SAS 12/23/1999 SAS vs. MIL L 20 10 4 8 50.0 1 2 50.0 1 2 50.0 0 1 1 3 0 0 1 3 0
+p579
+aVDavid Robinson SAS 12/23/1999 SAS vs. MIL L 31 11 4 10 40.0 0 0 - 3 5 60.0 2 7 9 0 0 2 3 2 0
+p580
+aVMario Elie SAS 12/21/1999 SAS vs. PHX W 37 10 4 7 57.1 1 3 33.3 1 2 50.0 0 4 4 1 1 0 1 3 -2
+p581
+aVDavid Robinson SAS 12/21/1999 SAS vs. PHX W 44 21 6 17 35.3 0 0 - 9 12 75.0 8 7 15 2 3 4 5 3 -2
+p582
+aVAvery Johnson SAS 12/21/1999 SAS vs. PHX W 38 13 5 15 33.3 0 0 - 3 5 60.0 1 1 2 7 1 0 2 2 -6
+p583
+aVTerry Porter SAS 12/21/1999 SAS vs. PHX W 25 4 1 7 14.3 0 4 0.0 2 2 100.0 0 0 0 4 2 0 0 1 12
+p584
+aVSamaki Walker SAS 12/21/1999 SAS vs. PHX W 6 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 1 1 0 2
+p585
+aVMalik Rose SAS 12/21/1999 SAS vs. PHX W 16 2 1 4 25.0 0 0 - 0 0 - 3 7 10 1 0 1 0 3 6
+p586
+aVChucky Brown SAS 12/21/1999 SAS vs. PHX W 22 4 2 8 25.0 0 0 - 0 0 - 0 2 2 0 0 1 1 3 -14
+p587
+aVJerome Kersey SAS 12/21/1999 SAS vs. PHX W 19 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 0 0 3 5 6
+p588
+aVTim Duncan SAS 12/21/1999 SAS vs. PHX W 40 25 9 15 60.0 0 0 - 7 9 77.8 2 14 16 2 2 2 6 5 -4
+p589
+aVJaren Jackson SAS 12/21/1999 SAS vs. PHX W 19 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 2 1 0 1 1 7
+p590
+aVChucky Brown SAS 12/18/1999 SAS @ DEN L 28 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 1 0 0 0 8
+p591
+aVDavid Robinson SAS 12/18/1999 SAS @ DEN L 31 11 4 10 40.0 0 0 - 3 6 50.0 2 10 12 2 1 0 1 3 -11
+p592
+aVJaren Jackson SAS 12/18/1999 SAS @ DEN L 22 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 2 0 0 0 2 10
+p593
+aVMalik Rose SAS 12/18/1999 SAS @ DEN L 17 7 2 4 50.0 0 0 - 3 4 75.0 3 2 5 1 2 0 3 5 9
+p594
+aVMario Elie SAS 12/18/1999 SAS @ DEN L 30 5 1 6 16.7 1 1 100.0 2 2 100.0 0 3 3 4 1 0 1 4 -8
+p595
+aVTerry Porter SAS 12/18/1999 SAS @ DEN L 23 12 4 8 50.0 4 6 66.7 0 0 - 0 0 0 2 0 0 2 1 -5
+p596
+aVAvery Johnson SAS 12/18/1999 SAS @ DEN L 35 8 4 11 36.4 0 0 - 0 0 - 0 1 1 5 0 0 2 1 -9
+p597
+aVJerome Kersey SAS 12/18/1999 SAS @ DEN L 6 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 -2
+p598
+aVSamaki Walker SAS 12/18/1999 SAS @ DEN L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p599
+aVTim Duncan SAS 12/18/1999 SAS @ DEN L 43 33 10 21 47.6 0 1 0.0 13 15 86.7 2 8 10 3 2 0 5 4 1
+p600
+aVAntonio Daniels SAS 12/17/1999 SAS vs. BOS W 19 8 3 5 60.0 0 1 0.0 2 4 50.0 0 0 0 0 0 0 2 0 -8
+p601
+aVJaren Jackson SAS 12/17/1999 SAS vs. BOS W 24 6 1 9 11.1 0 4 0.0 4 6 66.7 2 2 4 3 2 0 1 2 -4
+p602
+aVTerry Porter SAS 12/17/1999 SAS vs. BOS W 11 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 2 2 0 1 0 2
+p603
+aVJerome Kersey SAS 12/17/1999 SAS vs. BOS W 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -5
+p604
+aVAvery Johnson SAS 12/17/1999 SAS vs. BOS W 21 8 4 5 80.0 0 1 0.0 0 0 - 1 1 2 6 0 0 0 2 20
+p605
+aVMario Elie SAS 12/17/1999 SAS vs. BOS W 25 12 3 5 60.0 2 2 100.0 4 6 66.7 0 3 3 2 0 1 0 2 21
+p606
+aVMalik Rose SAS 12/17/1999 SAS vs. BOS W 18 3 0 2 0.0 0 0 - 3 4 75.0 0 5 5 0 0 1 2 4 -6
+p607
+aVDavid Robinson SAS 12/17/1999 SAS vs. BOS W 23 12 5 8 62.5 0 0 - 2 2 100.0 0 5 5 2 0 0 2 3 15
+p608
+aVTim Duncan SAS 12/17/1999 SAS vs. BOS W 35 30 7 14 50.0 0 0 - 16 18 88.9 4 13 17 0 1 5 5 3 28
+p609
+aVSamaki Walker SAS 12/17/1999 SAS vs. BOS W 15 2 0 2 0.0 0 0 - 2 4 50.0 1 1 2 0 1 0 1 1 -10
+p610
+aVChucky Brown SAS 12/17/1999 SAS vs. BOS W 23 13 3 5 60.0 0 0 - 7 8 87.5 0 4 4 3 1 1 3 0 2
+p611
+aVSteve Kerr SAS 12/17/1999 SAS vs. BOS W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -10
+p612
+aVChucky Brown SAS 12/15/1999 SAS vs. HOU W 17 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 2 0 1 0 1 -9
+p613
+aVMalik Rose SAS 12/15/1999 SAS vs. HOU W 19 7 3 7 42.9 0 0 - 1 2 50.0 0 8 8 1 0 2 0 4 -4
+p614
+aVTerry Porter SAS 12/15/1999 SAS vs. HOU W 29 11 2 4 50.0 1 2 50.0 6 6 100.0 1 1 2 5 1 0 5 0 22
+p615
+aVDavid Robinson SAS 12/15/1999 SAS vs. HOU W 30 14 5 13 38.5 0 0 - 4 4 100.0 2 4 6 1 1 4 2 4 3
+p616
+aVAvery Johnson SAS 12/15/1999 SAS vs. HOU W 30 6 3 12 25.0 0 0 - 0 0 - 1 0 1 3 2 0 0 4 2
+p617
+aVSamaki Walker SAS 12/15/1999 SAS vs. HOU W 4 0 0 0 - 0 0 - 0 2 0.0 1 2 3 0 0 0 1 3 3
+p618
+aVMario Elie SAS 12/15/1999 SAS vs. HOU W 30 9 2 6 33.3 1 2 50.0 4 6 66.7 1 2 3 4 1 0 3 2 11
+p619
+aVTim Duncan SAS 12/15/1999 SAS vs. HOU W 43 20 8 16 50.0 0 0 - 4 6 66.7 2 8 10 2 2 4 1 5 10
+p620
+aVJerome Kersey SAS 12/15/1999 SAS vs. HOU W 16 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 2 0 1 1 -4
+p621
+aVJaren Jackson SAS 12/15/1999 SAS vs. HOU W 22 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -4
+p622
+aVTerry Porter SAS 12/14/1999 SAS @ DAL W 17 6 2 5 40.0 0 2 0.0 2 3 66.7 0 3 3 2 1 0 2 1 7
+p623
+aVAvery Johnson SAS 12/14/1999 SAS @ DAL W 31 16 8 15 53.3 0 0 - 0 2 0.0 0 4 4 5 0 0 1 0 11
+p624
+aVSteve Kerr SAS 12/14/1999 SAS @ DAL W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p625
+aVJerome Kersey SAS 12/14/1999 SAS @ DAL W 14 7 3 7 42.9 0 0 - 1 1 100.0 1 2 3 1 1 2 0 4 10
+p626
+aVMalik Rose SAS 12/14/1999 SAS @ DAL W 17 8 2 6 33.3 0 0 - 4 4 100.0 1 2 3 1 0 0 1 4 2
+p627
+aVJaren Jackson SAS 12/14/1999 SAS @ DAL W 29 9 3 6 50.0 3 5 60.0 0 0 - 1 5 6 7 2 0 1 3 22
+p628
+aVAntonio Daniels SAS 12/14/1999 SAS @ DAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -1
+p629
+aVMario Elie SAS 12/14/1999 SAS @ DAL W 23 3 1 6 16.7 0 3 0.0 1 2 50.0 2 4 6 1 0 0 0 0 1
+p630
+aVSamaki Walker SAS 12/14/1999 SAS @ DAL W 17 8 4 5 80.0 0 0 - 0 0 - 0 4 4 0 0 0 3 1 11
+p631
+aVChucky Brown SAS 12/14/1999 SAS @ DAL W 22 12 6 6 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 5
+p632
+aVTim Duncan SAS 12/14/1999 SAS @ DAL W 41 29 11 23 47.8 0 0 - 7 8 87.5 5 7 12 4 2 2 4 2 17
+p633
+aVDavid Robinson SAS 12/14/1999 SAS @ DAL W 22 10 4 8 50.0 0 0 - 2 2 100.0 3 6 9 1 1 0 3 5 6
+p634
+aVTerry Porter SAS 12/11/1999 SAS vs. WAS L 14 3 0 3 0.0 0 2 0.0 3 4 75.0 0 2 2 1 0 0 0 1 -12
+p635
+aVChucky Brown SAS 12/11/1999 SAS vs. WAS L 20 6 3 7 42.9 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -3
+p636
+aVMalik Rose SAS 12/11/1999 SAS vs. WAS L 14 7 2 5 40.0 0 0 - 3 3 100.0 3 2 5 1 1 1 1 1 -1
+p637
+aVSamaki Walker SAS 12/11/1999 SAS vs. WAS L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 4
+p638
+aVJerome Kersey SAS 12/11/1999 SAS vs. WAS L 17 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 1 0 0 2 2 -5
+p639
+aVMario Elie SAS 12/11/1999 SAS vs. WAS L 31 11 3 4 75.0 2 3 66.7 3 3 100.0 0 3 3 2 1 0 3 4 -1
+p640
+aVTim Duncan SAS 12/11/1999 SAS vs. WAS L 43 23 8 17 47.1 0 0 - 7 10 70.0 2 11 13 3 0 3 1 0 -14
+p641
+aVDavid Robinson SAS 12/11/1999 SAS vs. WAS L 34 16 5 16 31.3 0 0 - 6 8 75.0 2 7 9 1 3 6 3 1 -9
+p642
+aVJaren Jackson SAS 12/11/1999 SAS vs. WAS L 26 12 5 9 55.6 2 6 33.3 0 0 - 0 0 0 1 1 0 0 2 -9
+p643
+aVAvery Johnson SAS 12/11/1999 SAS vs. WAS L 35 4 2 8 25.0 0 0 - 0 0 - 0 0 0 4 0 0 1 3 0
+p644
+aVAvery Johnson SAS 12/09/1999 SAS vs. VAN W 35 6 3 6 50.0 0 0 - 0 0 - 0 1 1 6 0 2 2 3 4
+p645
+aVMario Elie SAS 12/09/1999 SAS vs. VAN W 26 8 1 4 25.0 0 2 0.0 6 6 100.0 0 4 4 1 2 1 2 1 1
+p646
+aVJaren Jackson SAS 12/09/1999 SAS vs. VAN W 25 6 2 6 33.3 2 5 40.0 0 0 - 0 2 2 3 0 0 0 0 16
+p647
+aVDavid Robinson SAS 12/09/1999 SAS vs. VAN W 36 19 6 11 54.5 0 0 - 7 8 87.5 3 6 9 5 1 1 4 4 -2
+p648
+aVSteve Kerr SAS 12/09/1999 SAS vs. VAN W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p649
+aVTim Duncan SAS 12/09/1999 SAS vs. VAN W 48 42 15 22 68.2 0 0 - 12 14 85.7 5 9 14 4 2 1 3 2 9
+p650
+aVChucky Brown SAS 12/09/1999 SAS vs. VAN W 28 5 2 7 28.6 0 0 - 1 2 50.0 0 4 4 0 1 0 4 3 -6
+p651
+aVTerry Porter SAS 12/09/1999 SAS vs. VAN W 20 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 3 0 0 1 1 7
+p652
+aVFelton Spencer SAS 12/09/1999 SAS vs. VAN W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 4
+p653
+aVMalik Rose SAS 12/09/1999 SAS vs. VAN W 13 9 2 2 100.0 0 0 - 5 7 71.4 0 1 1 0 1 0 0 4 9
+p654
+aVAvery Johnson SAS 12/07/1999 SAS @ IND L 36 15 7 15 46.7 0 0 - 1 1 100.0 0 4 4 3 1 0 2 2 -4
+p655
+aVSteve Kerr SAS 12/07/1999 SAS @ IND L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 2
+p656
+aVChucky Brown SAS 12/07/1999 SAS @ IND L 29 6 3 8 37.5 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -12
+p657
+aVMario Elie SAS 12/07/1999 SAS @ IND L 34 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 2 1 0 2 2 -3
+p658
+aVTerry Porter SAS 12/07/1999 SAS @ IND L 20 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 4 1 0 2 1 -6
+p659
+aVDavid Robinson SAS 12/07/1999 SAS @ IND L 35 6 3 12 25.0 0 0 - 0 0 - 5 12 17 2 2 0 1 3 -10
+p660
+aVJaren Jackson SAS 12/07/1999 SAS @ IND L 18 8 3 8 37.5 2 7 28.6 0 2 0.0 0 2 2 0 1 1 2 2 5
+p661
+aVFelton Spencer SAS 12/07/1999 SAS @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p662
+aVTim Duncan SAS 12/07/1999 SAS @ IND L 42 30 12 23 52.2 0 0 - 6 10 60.0 6 6 12 4 0 2 3 5 -2
+p663
+aVMalik Rose SAS 12/07/1999 SAS @ IND L 19 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 0 2 3 2 3 2
+p664
+aVMario Elie SAS 12/05/1999 SAS @ TOR L 37 14 4 11 36.4 4 7 57.1 2 2 100.0 0 3 3 6 3 0 1 3 -2
+p665
+aVDavid Robinson SAS 12/05/1999 SAS @ TOR L 39 7 2 9 22.2 0 0 - 3 4 75.0 1 9 10 4 2 0 2 1 -12
+p666
+aVFelton Spencer SAS 12/05/1999 SAS @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p667
+aVAvery Johnson SAS 12/05/1999 SAS @ TOR L 33 20 9 20 45.0 0 0 - 2 4 50.0 1 1 2 5 0 2 1 2 -7
+p668
+aVMalik Rose SAS 12/05/1999 SAS @ TOR L 19 5 1 5 20.0 0 0 - 3 6 50.0 0 3 3 1 2 1 1 3 7
+p669
+aVChucky Brown SAS 12/05/1999 SAS @ TOR L 26 10 5 7 71.4 0 0 - 0 0 - 0 5 5 3 0 0 3 1 -10
+p670
+aVTim Duncan SAS 12/05/1999 SAS @ TOR L 37 27 12 21 57.1 0 0 - 3 4 75.0 5 8 13 2 1 1 3 4 -4
+p671
+aVTerry Porter SAS 12/05/1999 SAS @ TOR L 27 4 1 6 16.7 1 5 20.0 1 1 100.0 0 1 1 2 0 0 1 2 0
+p672
+aVJaren Jackson SAS 12/05/1999 SAS @ TOR L 21 5 2 7 28.6 1 6 16.7 0 0 - 2 1 3 2 1 0 1 2 1
+p673
+aVJaren Jackson SAS 12/03/1999 SAS @ DET L 19 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 0 1 1 1 6 -14
+p674
+aVTerry Porter SAS 12/03/1999 SAS @ DET L 22 10 1 4 25.0 1 3 33.3 7 7 100.0 0 4 4 0 0 0 1 3 -18
+p675
+aVSteve Kerr SAS 12/03/1999 SAS @ DET L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -6
+p676
+aVAvery Johnson SAS 12/03/1999 SAS @ DET L 18 0 0 5 0.0 0 0 - 0 2 0.0 0 0 0 6 0 0 1 0 -14
+p677
+aVChucky Brown SAS 12/03/1999 SAS @ DET L 24 13 6 8 75.0 0 0 - 1 1 100.0 0 3 3 1 1 1 2 3 1
+p678
+aVFelton Spencer SAS 12/03/1999 SAS @ DET L 5 3 0 1 0.0 0 0 - 3 4 75.0 0 2 2 0 0 1 1 2 2
+p679
+aVDavid Robinson SAS 12/03/1999 SAS @ DET L 27 15 4 8 50.0 0 0 - 7 8 87.5 0 7 7 1 1 2 3 3 -18
+p680
+aVMario Elie SAS 12/03/1999 SAS @ DET L 27 6 2 7 28.6 0 3 0.0 2 2 100.0 0 2 2 2 0 0 2 2 -14
+p681
+aVTim Duncan SAS 12/03/1999 SAS @ DET L 40 14 5 12 41.7 0 0 - 4 4 100.0 2 10 12 1 2 3 6 4 -23
+p682
+aVAntonio Daniels SAS 12/03/1999 SAS @ DET L 23 4 2 7 28.6 0 2 0.0 0 0 - 1 0 1 4 1 1 1 0 1
+p683
+aVMalik Rose SAS 12/03/1999 SAS @ DET L 22 9 2 4 50.0 0 0 - 5 7 71.4 1 2 3 0 1 0 3 5 -7
+p684
+aVTerry Porter SAS 12/02/1999 SAS @ NJN W 24 8 2 7 28.6 0 3 0.0 4 4 100.0 1 1 2 0 1 0 1 1 -11
+p685
+aVChucky Brown SAS 12/02/1999 SAS @ NJN W 22 6 3 7 42.9 0 0 - 0 0 - 1 3 4 3 0 0 1 2 6
+p686
+aVMario Elie SAS 12/02/1999 SAS @ NJN W 32 6 1 2 50.0 1 1 100.0 3 4 75.0 1 2 3 1 0 0 2 3 6
+p687
+aVTim Duncan SAS 12/02/1999 SAS @ NJN W 43 26 9 16 56.3 0 0 - 8 9 88.9 1 7 8 5 1 5 3 3 1
+p688
+aVDavid Robinson SAS 12/02/1999 SAS @ NJN W 40 27 10 15 66.7 0 0 - 7 8 87.5 3 10 13 2 1 2 2 3 14
+p689
+aVAvery Johnson SAS 12/02/1999 SAS @ NJN W 42 12 6 11 54.5 0 0 - 0 0 - 0 4 4 7 1 1 4 3 8
+p690
+aVSteve Kerr SAS 12/02/1999 SAS @ NJN W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p691
+aVMalik Rose SAS 12/02/1999 SAS @ NJN W 8 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 1 5 -7
+p692
+aVJaren Jackson SAS 12/02/1999 SAS @ NJN W 24 9 3 7 42.9 3 7 42.9 0 0 - 1 4 5 1 0 0 1 1 1
+p693
+aVTim Duncan SAS 11/30/1999 SAS vs. DET W 36 28 10 14 71.4 0 0 - 8 11 72.7 1 9 10 2 0 3 3 3 26
+p694
+aVJaren Jackson SAS 11/30/1999 SAS vs. DET W 22 0 0 6 0.0 0 2 0.0 0 0 - 1 1 2 2 1 0 2 3 -5
+p695
+aVDavid Robinson SAS 11/30/1999 SAS vs. DET W 26 11 4 5 80.0 0 0 - 3 3 100.0 1 6 7 3 1 1 1 2 26
+p696
+aVSamaki Walker SAS 11/30/1999 SAS vs. DET W 9 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -1
+p697
+aVAntonio Daniels SAS 11/30/1999 SAS vs. DET W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 4 2 0 0 0 -7
+p698
+aVAvery Johnson SAS 11/30/1999 SAS vs. DET W 28 22 11 14 78.6 0 0 - 0 0 - 0 1 1 5 0 0 1 2 23
+p699
+aVMalik Rose SAS 11/30/1999 SAS vs. DET W 23 2 1 5 20.0 0 0 - 0 0 - 0 5 5 0 0 0 6 5 -9
+p700
+aVChucky Brown SAS 11/30/1999 SAS vs. DET W 26 10 5 9 55.6 0 0 - 0 0 - 0 6 6 3 0 2 1 3 20
+p701
+aVMario Elie SAS 11/30/1999 SAS vs. DET W 32 9 4 7 57.1 1 4 25.0 0 0 - 0 2 2 7 1 1 0 2 22
+p702
+aVSteve Kerr SAS 11/30/1999 SAS vs. DET W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -5
+p703
+aVTerry Porter SAS 11/30/1999 SAS vs. DET W 19 13 5 7 71.4 3 4 75.0 0 0 - 0 3 3 3 0 0 2 3 5
+p704
+aVJaren Jackson SAS 11/27/1999 SAS vs. DEN W 29 18 7 10 70.0 4 6 66.7 0 0 - 0 0 0 3 0 0 1 2 17
+p705
+aVAvery Johnson SAS 11/27/1999 SAS vs. DEN W 40 14 7 15 46.7 0 0 - 0 1 0.0 3 2 5 8 1 0 3 3 20
+p706
+aVTim Duncan SAS 11/27/1999 SAS vs. DEN W 45 17 7 16 43.8 0 0 - 3 6 50.0 3 14 17 5 0 2 3 2 20
+p707
+aVSamaki Walker SAS 11/27/1999 SAS vs. DEN W 19 4 2 4 50.0 0 0 - 0 0 - 0 5 5 3 0 1 0 3 11
+p708
+aVAntonio Daniels SAS 11/27/1999 SAS vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p709
+aVTerry Porter SAS 11/27/1999 SAS vs. DEN W 27 19 7 9 77.8 3 4 75.0 2 2 100.0 0 2 2 2 1 0 3 3 18
+p710
+aVMario Elie SAS 11/27/1999 SAS vs. DEN W 28 7 2 6 33.3 1 4 25.0 2 2 100.0 0 3 3 3 1 0 1 2 -1
+p711
+aVChucky Brown SAS 11/27/1999 SAS vs. DEN W 20 6 3 9 33.3 0 0 - 0 0 - 3 4 7 0 0 0 0 0 2
+p712
+aVMalik Rose SAS 11/27/1999 SAS vs. DEN W 33 21 7 12 58.3 0 1 0.0 7 10 70.0 7 7 14 0 0 3 2 5 7
+p713
+aVSteve Kerr SAS 11/26/1999 SAS vs. CHI W 17 7 2 3 66.7 2 2 100.0 1 1 100.0 1 2 3 1 0 0 0 0 20
+p714
+aVTim Duncan SAS 11/26/1999 SAS vs. CHI W 36 23 9 14 64.3 0 0 - 5 7 71.4 2 8 10 1 2 8 3 3 13
+p715
+aVChucky Brown SAS 11/26/1999 SAS vs. CHI W 23 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 1 0 0 2 4 7
+p716
+aVMalik Rose SAS 11/26/1999 SAS vs. CHI W 23 13 4 10 40.0 0 0 - 5 6 83.3 2 2 4 3 1 4 0 3 1
+p717
+aVMario Elie SAS 11/26/1999 SAS vs. CHI W 28 7 2 4 50.0 1 2 50.0 2 2 100.0 1 2 3 2 0 0 2 5 4
+p718
+aVDavid Robinson SAS 11/26/1999 SAS vs. CHI W 18 10 4 8 50.0 0 0 - 2 4 50.0 1 4 5 0 0 2 0 1 8
+p719
+aVSamaki Walker SAS 11/26/1999 SAS vs. CHI W 17 10 4 7 57.1 0 0 - 2 3 66.7 2 5 7 0 0 4 4 5 19
+p720
+aVAntonio Daniels SAS 11/26/1999 SAS vs. CHI W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 7
+p721
+aVTerry Porter SAS 11/26/1999 SAS vs. CHI W 17 10 4 7 57.1 2 3 66.7 0 0 - 1 3 4 2 0 0 0 0 16
+p722
+aVAvery Johnson SAS 11/26/1999 SAS vs. CHI W 30 10 5 8 62.5 0 0 - 0 0 - 0 2 2 5 0 1 1 1 5
+p723
+aVJaren Jackson SAS 11/26/1999 SAS vs. CHI W 28 4 2 8 25.0 0 5 0.0 0 0 - 0 2 2 3 2 1 0 2 15
+p724
+aVTim Duncan SAS 11/24/1999 SAS @ BOS W 37 31 12 17 70.6 0 0 - 7 7 100.0 3 12 15 4 1 2 2 2 37
+p725
+aVAvery Johnson SAS 11/24/1999 SAS @ BOS W 26 8 4 8 50.0 0 0 - 0 0 - 0 2 2 9 1 0 1 0 22
+p726
+aVSamaki Walker SAS 11/24/1999 SAS @ BOS W 15 8 4 8 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -10
+p727
+aVSteve Kerr SAS 11/24/1999 SAS @ BOS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p728
+aVMario Elie SAS 11/24/1999 SAS @ BOS W 34 25 10 12 83.3 2 3 66.7 3 3 100.0 1 1 2 4 0 0 1 3 28
+p729
+aVTerry Porter SAS 11/24/1999 SAS @ BOS W 20 10 3 5 60.0 2 4 50.0 2 2 100.0 0 1 1 4 0 1 2 1 1
+p730
+aVChucky Brown SAS 11/24/1999 SAS @ BOS W 29 6 3 6 50.0 0 0 - 0 0 - 0 3 3 6 0 0 2 3 4
+p731
+aVJaren Jackson SAS 11/24/1999 SAS @ BOS W 28 13 5 11 45.5 3 7 42.9 0 0 - 0 4 4 2 2 0 2 3 9
+p732
+aVDavid Robinson SAS 11/24/1999 SAS @ BOS W 25 10 4 9 44.4 0 0 - 2 3 66.7 2 7 9 2 1 2 2 2 16
+p733
+aVAntonio Daniels SAS 11/24/1999 SAS @ BOS W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 5
+p734
+aVMalik Rose SAS 11/24/1999 SAS @ BOS W 19 7 1 3 33.3 0 0 - 5 6 83.3 3 4 7 2 0 3 1 2 3
+p735
+aVDavid Robinson SAS 11/22/1999 SAS @ PHI W 34 19 7 15 46.7 0 0 - 5 5 100.0 3 8 11 3 2 7 1 3 2
+p736
+aVMario Elie SAS 11/22/1999 SAS @ PHI W 33 12 5 10 50.0 1 2 50.0 1 2 50.0 1 2 3 3 2 0 0 3 -1
+p737
+aVChucky Brown SAS 11/22/1999 SAS @ PHI W 19 2 0 5 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 0 3 3
+p738
+aVTim Duncan SAS 11/22/1999 SAS @ PHI W 44 26 9 17 52.9 0 0 - 8 14 57.1 5 12 17 3 1 5 4 4 12
+p739
+aVAvery Johnson SAS 11/22/1999 SAS @ PHI W 39 6 3 14 21.4 0 0 - 0 0 - 0 2 2 6 2 0 5 2 -2
+p740
+aVTerry Porter SAS 11/22/1999 SAS @ PHI W 24 10 3 9 33.3 3 6 50.0 1 2 50.0 0 5 5 2 0 1 2 0 6
+p741
+aVJerome Kersey SAS 11/22/1999 SAS @ PHI W 16 4 2 4 50.0 0 0 - 0 0 - 1 5 6 2 0 1 1 3 0
+p742
+aVSamaki Walker SAS 11/22/1999 SAS @ PHI W 4 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 1 0 2
+p743
+aVMalik Rose SAS 11/22/1999 SAS @ PHI W 14 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 0 1 1 4 -10
+p744
+aVJaren Jackson SAS 11/22/1999 SAS @ PHI W 13 8 3 5 60.0 2 4 50.0 0 0 - 0 1 1 0 0 0 0 2 3
+p745
+aVChucky Brown SAS 11/20/1999 SAS vs. DAL W 23 16 8 11 72.7 0 1 0.0 0 0 - 1 2 3 0 1 0 0 1 16
+p746
+aVJerome Kersey SAS 11/20/1999 SAS vs. DAL W 21 6 3 7 42.9 0 0 - 0 0 - 0 2 2 2 0 0 0 3 -7
+p747
+aVSamaki Walker SAS 11/20/1999 SAS vs. DAL W 17 4 2 6 33.3 0 0 - 0 0 - 4 4 8 1 0 1 1 2 -9
+p748
+aVMario Elie SAS 11/20/1999 SAS vs. DAL W 24 8 3 7 42.9 1 3 33.3 1 1 100.0 1 6 7 4 2 0 3 1 23
+p749
+aVTim Duncan SAS 11/20/1999 SAS vs. DAL W 39 14 7 14 50.0 0 0 - 0 0 - 5 12 17 7 0 2 4 5 21
+p750
+aVAvery Johnson SAS 11/20/1999 SAS vs. DAL W 26 12 6 12 50.0 0 0 - 0 0 - 0 0 0 8 2 0 1 3 20
+p751
+aVMalik Rose SAS 11/20/1999 SAS vs. DAL W 13 2 1 2 50.0 0 0 - 0 0 - 3 2 5 2 0 1 1 3 -2
+p752
+aVSteve Kerr SAS 11/20/1999 SAS vs. DAL W 3 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 0 0 0 0 0 -2
+p753
+aVAntonio Daniels SAS 11/20/1999 SAS vs. DAL W 15 6 3 8 37.5 0 0 - 0 3 0.0 0 2 2 3 0 1 1 1 -6
+p754
+aVDavid Robinson SAS 11/20/1999 SAS vs. DAL W 27 7 3 7 42.9 0 0 - 1 1 100.0 4 3 7 1 0 5 0 0 22
+p755
+aVJaren Jackson SAS 11/20/1999 SAS vs. DAL W 23 23 8 19 42.1 7 16 43.8 0 0 - 0 3 3 1 0 1 1 2 4
+p756
+aVTerry Porter SAS 11/20/1999 SAS vs. DAL W 8 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 1 0 1 1 0 0
+p757
+aVAvery Johnson SAS 11/18/1999 SAS @ MIL L 31 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 6 1 0 1 2 -3
+p758
+aVMalik Rose SAS 11/18/1999 SAS @ MIL L 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 1 3 0 -3
+p759
+aVAntonio Daniels SAS 11/18/1999 SAS @ MIL L 8 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -5
+p760
+aVMario Elie SAS 11/18/1999 SAS @ MIL L 30 3 0 5 0.0 0 1 0.0 3 5 60.0 0 1 1 1 2 0 1 3 -10
+p761
+aVChucky Brown SAS 11/18/1999 SAS @ MIL L 16 6 3 4 75.0 0 0 - 0 0 - 1 6 7 0 1 0 1 2 -1
+p762
+aVTerry Porter SAS 11/18/1999 SAS @ MIL L 28 11 3 7 42.9 3 4 75.0 2 4 50.0 0 5 5 2 0 0 1 2 -3
+p763
+aVJerome Kersey SAS 11/18/1999 SAS @ MIL L 10 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -3
+p764
+aVJaren Jackson SAS 11/18/1999 SAS @ MIL L 21 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 1 1 0 1 1 -8
+p765
+aVDavid Robinson SAS 11/18/1999 SAS @ MIL L 35 21 5 11 45.5 0 0 - 11 14 78.6 0 7 7 3 0 3 4 5 -12
+p766
+aVTim Duncan SAS 11/18/1999 SAS @ MIL L 43 29 11 19 57.9 0 0 - 7 11 63.6 6 8 14 3 1 1 7 3 -2
+p767
+aVSamaki Walker SAS 11/18/1999 SAS @ MIL L 4 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 0 0 1 1 -5
+p768
+aVTerry Porter SAS 11/16/1999 SAS vs. IND W 28 9 3 9 33.3 2 3 66.7 1 2 50.0 0 4 4 5 0 0 2 2 12
+p769
+aVMalik Rose SAS 11/16/1999 SAS vs. IND W 11 6 1 3 33.3 0 0 - 4 4 100.0 1 1 2 0 0 0 2 3 2
+p770
+aVTim Duncan SAS 11/16/1999 SAS vs. IND W 48 22 10 24 41.7 0 0 - 2 4 50.0 6 9 15 3 0 1 5 4 2
+p771
+aVJerome Kersey SAS 11/16/1999 SAS vs. IND W 28 8 3 4 75.0 0 0 - 2 3 66.7 0 7 7 0 3 0 0 2 11
+p772
+aVDavid Robinson SAS 11/16/1999 SAS vs. IND W 42 22 7 14 50.0 0 0 - 8 11 72.7 2 10 12 4 3 4 2 1 2
+p773
+aVChucky Brown SAS 11/16/1999 SAS vs. IND W 22 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -1
+p774
+aVJaren Jackson SAS 11/16/1999 SAS vs. IND W 13 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 8
+p775
+aVSamaki Walker SAS 11/16/1999 SAS vs. IND W 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p776
+aVAvery Johnson SAS 11/16/1999 SAS vs. IND W 28 6 3 12 25.0 0 0 - 0 0 - 0 1 1 2 2 0 2 0 -16
+p777
+aVMario Elie SAS 11/16/1999 SAS vs. IND W 40 15 4 11 36.4 1 2 50.0 6 6 100.0 1 3 4 1 3 0 2 1 -6
+p778
+aVAvery Johnson SAS 11/15/1999 SAS @ UTA L 34 9 4 13 30.8 0 1 0.0 1 2 50.0 2 1 3 3 0 0 2 3 -13
+p779
+aVMario Elie SAS 11/15/1999 SAS @ UTA L 16 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 2 0 0 2 3 -8
+p780
+aVJerome Kersey SAS 11/15/1999 SAS @ UTA L 18 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 0 0 2 5
+p781
+aVDavid Robinson SAS 11/15/1999 SAS @ UTA L 35 12 4 10 40.0 0 0 - 4 6 66.7 2 8 10 1 2 2 2 5 -7
+p782
+aVChucky Brown SAS 11/15/1999 SAS @ UTA L 16 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 1 1 3 -4
+p783
+aVMalik Rose SAS 11/15/1999 SAS @ UTA L 12 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 3 1 3 -3
+p784
+aVTim Duncan SAS 11/15/1999 SAS @ UTA L 43 32 12 23 52.2 0 0 - 8 14 57.1 1 7 8 2 1 1 6 1 0
+p785
+aVSamaki Walker SAS 11/15/1999 SAS @ UTA L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -2
+p786
+aVTerry Porter SAS 11/15/1999 SAS @ UTA L 26 12 5 8 62.5 1 4 25.0 1 1 100.0 0 1 1 3 1 0 0 3 1
+p787
+aVJaren Jackson SAS 11/15/1999 SAS @ UTA L 32 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 1 1 0 0 2 1
+p788
+aVDavid Robinson SAS 11/13/1999 SAS vs. CHH W 30 16 7 13 53.8 0 0 - 2 3 66.7 2 9 11 4 1 4 2 4 9
+p789
+aVTim Duncan SAS 11/13/1999 SAS vs. CHH W 38 22 8 17 47.1 0 0 - 6 7 85.7 5 7 12 2 0 4 2 1 15
+p790
+aVAntonio Daniels SAS 11/13/1999 SAS vs. CHH W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p791
+aVJerome Kersey SAS 11/13/1999 SAS vs. CHH W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 9
+p792
+aVSamaki Walker SAS 11/13/1999 SAS vs. CHH W 17 6 3 10 30.0 0 0 - 0 0 - 1 6 7 0 0 0 2 0 3
+p793
+aVMalik Rose SAS 11/13/1999 SAS vs. CHH W 16 14 6 6 100.0 0 0 - 2 2 100.0 3 4 7 1 0 2 0 5 4
+p794
+aVMario Elie SAS 11/13/1999 SAS vs. CHH W 31 8 4 6 66.7 0 1 0.0 0 0 - 0 3 3 1 3 0 3 1 17
+p795
+aVTerry Porter SAS 11/13/1999 SAS vs. CHH W 25 10 3 9 33.3 2 4 50.0 2 2 100.0 0 5 5 1 0 0 0 2 6
+p796
+aVJaren Jackson SAS 11/13/1999 SAS vs. CHH W 27 3 1 6 16.7 1 2 50.0 0 0 - 0 2 2 1 0 0 1 2 1
+p797
+aVAvery Johnson SAS 11/13/1999 SAS vs. CHH W 32 6 3 8 37.5 0 0 - 0 0 - 0 0 0 12 0 1 2 0 17
+p798
+aVSteve Kerr SAS 11/13/1999 SAS vs. CHH W 6 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p799
+aVAvery Johnson SAS 11/10/1999 SAS @ LAC W 40 14 6 14 42.9 0 0 - 2 2 100.0 2 3 5 6 2 1 3 1 11
+p800
+aVJerome Kersey SAS 11/10/1999 SAS @ LAC W 11 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 2 0 2 3 -1
+p801
+aVTim Duncan SAS 11/10/1999 SAS @ LAC W 43 22 8 24 33.3 0 0 - 6 7 85.7 7 10 17 3 1 1 3 4 16
+p802
+aVChucky Brown SAS 11/10/1999 SAS @ LAC W 18 6 3 5 60.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 7
+p803
+aVSamaki Walker SAS 11/10/1999 SAS @ LAC W 16 9 3 7 42.9 0 0 - 3 3 100.0 2 2 4 0 0 1 3 1 -8
+p804
+aVTerry Porter SAS 11/10/1999 SAS @ LAC W 28 12 5 9 55.6 1 3 33.3 1 2 50.0 0 2 2 4 1 0 3 1 -7
+p805
+aVMalik Rose SAS 11/10/1999 SAS @ LAC W 10 4 1 2 50.0 0 0 - 2 4 50.0 0 1 1 0 0 1 2 3 -5
+p806
+aVMario Elie SAS 11/10/1999 SAS @ LAC W 23 12 3 4 75.0 2 3 66.7 4 4 100.0 1 1 2 2 0 0 0 0 10
+p807
+aVDavid Robinson SAS 11/10/1999 SAS @ LAC W 27 8 3 9 33.3 0 0 - 2 4 50.0 1 5 6 1 0 0 0 3 7
+p808
+aVJaren Jackson SAS 11/10/1999 SAS @ LAC W 25 10 3 7 42.9 2 3 66.7 2 2 100.0 1 3 4 2 0 0 0 2 -5
+p809
+aVChucky Brown SAS 11/09/1999 SAS @ GSW W 25 9 3 5 60.0 0 0 - 3 4 75.0 0 4 4 2 0 0 1 1 26
+p810
+aVJerome Kersey SAS 11/09/1999 SAS @ GSW W 20 0 0 8 0.0 0 0 - 0 0 - 1 2 3 2 0 1 0 3 3
+p811
+aVSteve Kerr SAS 11/09/1999 SAS @ GSW W 8 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p812
+aVJaren Jackson SAS 11/09/1999 SAS @ GSW W 20 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 5 1 0 0 2 10
+p813
+aVMario Elie SAS 11/09/1999 SAS @ GSW W 22 13 5 6 83.3 2 2 100.0 1 1 100.0 1 3 4 3 2 0 2 1 18
+p814
+aVSamaki Walker SAS 11/09/1999 SAS @ GSW W 22 13 6 9 66.7 0 0 - 1 2 50.0 4 5 9 1 0 0 3 4 3
+p815
+aVDavid Robinson SAS 11/09/1999 SAS @ GSW W 20 10 3 8 37.5 0 0 - 4 8 50.0 2 3 5 4 1 3 2 4 16
+p816
+aVTerry Porter SAS 11/09/1999 SAS @ GSW W 17 10 3 6 50.0 2 4 50.0 2 3 66.7 0 3 3 4 2 0 1 0 14
+p817
+aVTim Duncan SAS 11/09/1999 SAS @ GSW W 22 19 7 13 53.8 0 0 - 5 5 100.0 1 10 11 5 0 2 2 3 26
+p818
+aVAntonio Daniels SAS 11/09/1999 SAS @ GSW W 12 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 -6
+p819
+aVMalik Rose SAS 11/09/1999 SAS @ GSW W 33 21 10 16 62.5 0 0 - 1 1 100.0 3 4 7 3 0 0 2 5 13
+p820
+aVAvery Johnson SAS 11/09/1999 SAS @ GSW W 20 10 5 5 100.0 0 0 - 0 2 0.0 0 1 1 3 1 0 2 0 23
+p821
+aVTerry Porter SAS 11/07/1999 SAS @ PHX L 18 9 3 8 37.5 2 6 33.3 1 2 50.0 2 2 4 4 0 0 2 1 -2
+p822
+aVDavid Robinson SAS 11/07/1999 SAS @ PHX L 22 12 6 8 75.0 0 0 - 0 0 - 2 8 10 1 1 0 2 4 2
+p823
+aVAvery Johnson SAS 11/07/1999 SAS @ PHX L 32 2 1 8 12.5 0 0 - 0 0 - 0 0 0 6 1 0 1 5 -4
+p824
+aVSamaki Walker SAS 11/07/1999 SAS @ PHX L 15 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 6
+p825
+aVChucky Brown SAS 11/07/1999 SAS @ PHX L 16 8 4 7 57.1 0 0 - 0 0 - 0 2 2 2 0 1 0 1 2
+p826
+aVJaren Jackson SAS 11/07/1999 SAS @ PHX L 29 12 5 14 35.7 2 6 33.3 0 4 0.0 1 2 3 2 2 0 2 0 -2
+p827
+aVMalik Rose SAS 11/07/1999 SAS @ PHX L 14 4 1 2 50.0 0 0 - 2 2 100.0 3 3 6 2 0 1 1 2 -12
+p828
+aVMario Elie SAS 11/07/1999 SAS @ PHX L 26 0 0 4 0.0 0 0 - 0 0 - 0 3 3 3 2 0 2 2 -1
+p829
+aVTim Duncan SAS 11/07/1999 SAS @ PHX L 44 15 6 18 33.3 0 1 0.0 3 8 37.5 9 8 17 3 1 1 6 3 -2
+p830
+aVJerome Kersey SAS 11/07/1999 SAS @ PHX L 23 6 3 9 33.3 0 0 - 0 0 - 0 4 4 1 2 1 0 1 -2
+p831
+aVMario Elie SAS 11/05/1999 SAS @ HOU W 36 15 5 8 62.5 3 4 75.0 2 2 100.0 1 2 3 1 3 0 4 2 3
+p832
+aVAvery Johnson SAS 11/05/1999 SAS @ HOU W 32 14 6 16 37.5 0 0 - 2 2 100.0 0 2 2 9 1 0 2 1 -2
+p833
+aVJerome Kersey SAS 11/05/1999 SAS @ HOU W 19 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 0 1 0 1 2 3
+p834
+aVChucky Brown SAS 11/05/1999 SAS @ HOU W 13 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 2 0 0 1 1 -1
+p835
+aVTerry Porter SAS 11/05/1999 SAS @ HOU W 29 18 6 11 54.5 3 4 75.0 3 5 60.0 1 3 4 5 1 0 3 3 15
+p836
+aVJaren Jackson SAS 11/05/1999 SAS @ HOU W 15 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 1 0 1 3 12
+p837
+aVSamaki Walker SAS 11/05/1999 SAS @ HOU W 20 6 3 8 37.5 0 0 - 0 0 - 1 2 3 0 1 0 0 1 2
+p838
+aVDavid Robinson SAS 11/05/1999 SAS @ HOU W 34 10 4 7 57.1 0 0 - 2 2 100.0 2 9 11 0 1 3 1 2 7
+p839
+aVMalik Rose SAS 11/05/1999 SAS @ HOU W 6 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -1
+p840
+aVTim Duncan SAS 11/05/1999 SAS @ HOU W 36 14 4 10 40.0 0 0 - 6 8 75.0 4 6 10 3 0 1 5 4 12
+p841
+aVJaren Jackson SAS 11/04/1999 SAS vs. GSW W 18 7 2 4 50.0 2 4 50.0 1 2 50.0 1 0 1 4 1 0 2 2 14
+p842
+aVJerome Kersey SAS 11/04/1999 SAS vs. GSW W 22 10 5 7 71.4 0 0 - 0 0 - 0 4 4 0 2 2 1 1 23
+p843
+aVSamaki Walker SAS 11/04/1999 SAS vs. GSW W 25 16 6 13 46.2 0 0 - 4 6 66.7 0 3 3 2 0 0 0 4 5
+p844
+aVAntonio Daniels SAS 11/04/1999 SAS vs. GSW W 7 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 1 -2
+p845
+aVTim Duncan SAS 11/04/1999 SAS vs. GSW W 31 15 6 15 40.0 0 1 0.0 3 8 37.5 4 10 14 5 0 3 2 2 16
+p846
+aVDavid Robinson SAS 11/04/1999 SAS vs. GSW W 25 19 9 13 69.2 0 0 - 1 2 50.0 0 8 8 1 0 3 2 5 14
+p847
+aVChucky Brown SAS 11/04/1999 SAS vs. GSW W 23 4 1 4 25.0 0 0 - 2 4 50.0 1 1 2 1 0 0 1 3 3
+p848
+aVMario Elie SAS 11/04/1999 SAS vs. GSW W 25 10 4 8 50.0 1 2 50.0 1 1 100.0 3 2 5 4 0 0 0 1 13
+p849
+aVSteve Kerr SAS 11/04/1999 SAS vs. GSW W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p850
+aVTerry Porter SAS 11/04/1999 SAS vs. GSW W 17 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 6 0 0 1 0 21
+p851
+aVAvery Johnson SAS 11/04/1999 SAS vs. GSW W 24 5 1 5 20.0 0 0 - 3 4 75.0 0 1 1 4 1 0 3 0 4
+p852
+aVMalik Rose SAS 11/04/1999 SAS vs. GSW W 19 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 0 0 0 0 3 8
+p853
+aVAvery Johnson SAS 11/02/1999 SAS vs. PHI W 32 12 5 9 55.6 0 0 - 2 2 100.0 1 1 2 8 1 0 4 4 18
+p854
+aVTim Duncan SAS 11/02/1999 SAS vs. PHI W 28 20 8 16 50.0 0 0 - 4 6 66.7 5 11 16 0 0 3 3 2 -5
+p855
+aVMario Elie SAS 11/02/1999 SAS vs. PHI W 29 9 4 8 50.0 1 1 100.0 0 0 - 0 5 5 2 2 0 1 2 12
+p856
+aVTerry Porter SAS 11/02/1999 SAS vs. PHI W 21 15 4 8 50.0 3 5 60.0 4 4 100.0 0 3 3 5 0 0 0 2 18
+p857
+aVJerome Kersey SAS 11/02/1999 SAS vs. PHI W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p858
+aVMalik Rose SAS 11/02/1999 SAS vs. PHI W 21 8 3 6 50.0 0 0 - 2 3 66.7 3 2 5 1 0 1 2 3 12
+p859
+aVJaren Jackson SAS 11/02/1999 SAS vs. PHI W 27 3 1 6 16.7 1 3 33.3 0 1 0.0 3 2 5 0 0 0 3 2 5
+p860
+aVChucky Brown SAS 11/02/1999 SAS vs. PHI W 19 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 1 0 1 1 1 -9
+p861
+aVSamaki Walker SAS 11/02/1999 SAS vs. PHI W 16 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 1 1 0 -1
+p862
+aVAntonio Daniels SAS 11/02/1999 SAS vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p863
+aVDavid Robinson SAS 11/02/1999 SAS vs. PHI W 31 10 3 9 33.3 0 0 - 4 7 57.1 3 7 10 4 1 6 4 4 20
+p864
+aVSteve Kerr SAS 11/02/1999 SAS vs. PHI W 7 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 1 1
+p865
+a.

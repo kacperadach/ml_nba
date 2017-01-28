@@ -1,0 +1,108 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRon Mercer IND 05/02/2002 IND @ NJN L 42 20 10 16 62.5 0 0 - 0 0 - 0 3 3 0 0 0 2 5 -10
+p2
+aVJamaal Tinsley IND 05/02/2002 IND @ NJN L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 2 1 -10
+p3
+aVJermaine O'Neal IND 05/02/2002 IND @ NJN L 46 18 8 16 50.0 0 0 - 2 2 100.0 2 8 10 1 1 1 4 6 -6
+p4
+aVKevin Ollie IND 05/02/2002 IND @ NJN L 34 8 3 9 33.3 0 1 0.0 2 2 100.0 0 1 1 8 1 0 1 2 -4
+p5
+aVMetta World Peace IND 05/02/2002 IND @ NJN L 30 14 6 9 66.7 1 2 50.0 1 1 100.0 1 4 5 4 1 0 2 6 -5
+p6
+aVBrad Miller IND 05/02/2002 IND @ NJN L 45 14 5 8 62.5 0 0 - 4 4 100.0 4 13 17 1 2 0 0 4 -8
+p7
+aVJeff Foster IND 05/02/2002 IND @ NJN L 15 3 0 2 0.0 0 2 0.0 3 4 75.0 0 1 1 0 0 0 2 3 -8
+p8
+aVJonathan Bender IND 05/02/2002 IND @ NJN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p9
+aVReggie Miller IND 05/02/2002 IND @ NJN L 49 31 10 23 43.5 6 14 42.9 5 6 83.3 0 2 2 4 1 1 3 1 -12
+p10
+aVAustin Croshere IND 05/02/2002 IND @ NJN L 18 1 0 2 0.0 0 0 - 1 2 50.0 2 4 6 1 0 0 4 6 9
+p11
+aVRon Mercer IND 04/30/2002 IND vs. NJN W 22 7 2 4 50.0 0 0 - 3 4 75.0 0 3 3 1 1 0 1 0 11
+p12
+aVAustin Croshere IND 04/30/2002 IND vs. NJN W 29 18 6 11 54.5 2 5 40.0 4 4 100.0 0 5 5 1 1 1 2 0 22
+p13
+aVJonathan Bender IND 04/30/2002 IND vs. NJN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 2 0 1 -6
+p14
+aVJamison Brewer IND 04/30/2002 IND vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 0
+p15
+aVJeff Foster IND 04/30/2002 IND vs. NJN W 8 1 0 0 - 0 0 - 1 2 50.0 0 4 4 1 1 0 1 3 -2
+p16
+aVBrad Miller IND 04/30/2002 IND vs. NJN W 32 10 3 8 37.5 0 0 - 4 5 80.0 2 6 8 3 0 0 1 3 21
+p17
+aVJamaal Tinsley IND 04/30/2002 IND vs. NJN W 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 4 0 -5
+p18
+aVMetta World Peace IND 04/30/2002 IND vs. NJN W 34 18 7 12 58.3 2 2 100.0 2 2 100.0 2 6 8 5 4 2 1 4 20
+p19
+aVKevin Ollie IND 04/30/2002 IND vs. NJN W 34 11 4 6 66.7 1 1 100.0 2 2 100.0 0 3 3 9 2 0 2 2 25
+p20
+aVJermaine O'Neal IND 04/30/2002 IND vs. NJN W 26 14 5 8 62.5 0 0 - 4 6 66.7 0 3 3 2 0 1 3 5 8
+p21
+aVBruno Sundov IND 04/30/2002 IND vs. NJN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p22
+aVReggie Miller IND 04/30/2002 IND vs. NJN W 32 14 6 13 46.2 0 1 0.0 2 2 100.0 0 6 6 3 3 0 2 3 21
+p23
+aVMetta World Peace IND 04/26/2002 IND vs. NJN L 29 11 4 8 50.0 1 3 33.3 2 4 50.0 0 5 5 2 2 0 1 2 -3
+p24
+aVJeff Foster IND 04/26/2002 IND vs. NJN L 31 7 3 6 50.0 1 1 100.0 0 3 0.0 3 9 12 4 1 1 4 2 -7
+p25
+aVRon Mercer IND 04/26/2002 IND vs. NJN L 27 10 5 9 55.6 0 0 - 0 0 - 0 3 3 2 0 1 0 4 2
+p26
+aVReggie Miller IND 04/26/2002 IND vs. NJN L 39 30 11 19 57.9 2 5 40.0 6 7 85.7 0 2 2 3 0 0 3 3 4
+p27
+aVKevin Ollie IND 04/26/2002 IND vs. NJN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p28
+aVJermaine O'Neal IND 04/26/2002 IND vs. NJN L 38 12 5 17 29.4 0 1 0.0 2 4 50.0 2 6 8 0 1 1 0 4 1
+p29
+aVJonathan Bender IND 04/26/2002 IND vs. NJN L 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 4
+p30
+aVJamaal Tinsley IND 04/26/2002 IND vs. NJN L 28 8 3 9 33.3 0 1 0.0 2 3 66.7 1 3 4 9 0 0 1 2 2
+p31
+aVBrad Miller IND 04/26/2002 IND vs. NJN L 29 4 2 12 16.7 0 0 - 0 0 - 4 4 8 3 1 1 2 1 -4
+p32
+aVAustin Croshere IND 04/22/2002 IND @ NJN L 10 5 2 7 28.6 0 1 0.0 1 2 50.0 1 1 2 0 0 0 0 1 -5
+p33
+aVJonathan Bender IND 04/22/2002 IND @ NJN L 15 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 1 1 1 -2
+p34
+aVKevin Ollie IND 04/22/2002 IND @ NJN L 29 8 3 6 50.0 0 0 - 2 2 100.0 0 5 5 4 0 0 1 2 -13
+p35
+aVJeff Foster IND 04/22/2002 IND @ NJN L 10 7 3 4 75.0 1 1 100.0 0 0 - 1 3 4 1 0 0 2 3 -1
+p36
+aVJamison Brewer IND 04/22/2002 IND @ NJN L 4 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 1 2
+p37
+aVBrad Miller IND 04/22/2002 IND @ NJN L 36 10 4 8 50.0 0 0 - 2 2 100.0 3 1 4 0 1 1 2 4 -16
+p38
+aVReggie Miller IND 04/22/2002 IND @ NJN L 39 26 9 12 75.0 3 5 60.0 5 6 83.3 0 3 3 3 1 0 2 2 -14
+p39
+aVJamaal Tinsley IND 04/22/2002 IND @ NJN L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 5 2 0 3 5 -5
+p40
+aVRon Mercer IND 04/22/2002 IND @ NJN L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -8
+p41
+aVJermaine O'Neal IND 04/22/2002 IND @ NJN L 38 12 3 11 27.3 0 0 - 6 8 75.0 0 6 6 0 1 3 4 5 -10
+p42
+aVMetta World Peace IND 04/22/2002 IND @ NJN L 30 4 1 11 9.1 0 3 0.0 2 2 100.0 2 4 6 1 2 1 3 4 -8
+p43
+aVJamaal Tinsley IND 04/20/2002 IND @ NJN W 29 8 4 7 57.1 0 0 - 0 0 - 0 3 3 7 0 0 2 4 11
+p44
+aVBrad Miller IND 04/20/2002 IND @ NJN W 38 18 6 8 75.0 0 0 - 6 9 66.7 4 8 12 0 0 0 2 4 3
+p45
+aVJonathan Bender IND 04/20/2002 IND @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p46
+aVAustin Croshere IND 04/20/2002 IND @ NJN W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p47
+aVKevin Ollie IND 04/20/2002 IND @ NJN W 18 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -8
+p48
+aVJermaine O'Neal IND 04/20/2002 IND @ NJN W 42 30 13 24 54.2 0 0 - 4 4 100.0 2 9 11 2 1 2 3 4 11
+p49
+aVRon Mercer IND 04/20/2002 IND @ NJN W 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p50
+aVJeff Foster IND 04/20/2002 IND @ NJN W 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 -4
+p51
+aVMetta World Peace IND 04/20/2002 IND @ NJN W 43 12 4 14 28.6 2 3 66.7 2 4 50.0 1 5 6 4 4 0 2 3 9
+p52
+aVReggie Miller IND 04/20/2002 IND @ NJN W 39 17 6 16 37.5 2 6 33.3 3 3 100.0 0 3 3 1 3 0 4 1 12
+p53
+a.

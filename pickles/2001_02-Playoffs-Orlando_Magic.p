@@ -1,0 +1,90 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMonty Williams ORL 04/30/2002 ORL vs. CHH L 13 4 2 6 33.3 0 1 0.0 0 2 0.0 2 3 5 0 0 0 0 3 -8
+p2
+aVDarrell Armstrong ORL 04/30/2002 ORL vs. CHH L 40 11 4 11 36.4 0 3 0.0 3 4 75.0 1 4 5 1 3 0 3 4 -16
+p3
+aVPat Garrity ORL 04/30/2002 ORL vs. CHH L 31 5 2 6 33.3 1 3 33.3 0 0 - 1 6 7 2 1 0 1 3 -13
+p4
+aVPatrick Ewing ORL 04/30/2002 ORL vs. CHH L 19 11 3 10 30.0 0 1 0.0 5 7 71.4 3 7 10 1 1 1 1 4 -2
+p5
+aVTracy McGrady ORL 04/30/2002 ORL vs. CHH L 44 35 12 22 54.5 3 6 50.0 8 11 72.7 1 3 4 6 0 2 4 3 -16
+p6
+aVMike Miller ORL 04/30/2002 ORL vs. CHH L 40 10 5 12 41.7 0 5 0.0 0 0 - 0 3 3 5 1 0 1 3 -13
+p7
+aVTroy Hudson ORL 04/30/2002 ORL vs. CHH L 19 8 3 10 30.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 2 0 -5
+p8
+aVHorace Grant ORL 04/30/2002 ORL vs. CHH L 24 0 0 3 0.0 0 0 - 0 0 - 4 1 5 3 0 1 0 1 -7
+p9
+aVJaren Jackson ORL 04/30/2002 ORL vs. CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p10
+aVDon Reid ORL 04/30/2002 ORL vs. CHH L 9 1 0 0 - 0 0 - 1 2 50.0 2 1 3 0 0 1 0 3 -7
+p11
+aVPatrick Ewing ORL 04/27/2002 ORL vs. CHH L 12 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -27
+p12
+aVJaren Jackson ORL 04/27/2002 ORL vs. CHH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p13
+aVMonty Williams ORL 04/27/2002 ORL vs. CHH L 26 10 4 8 50.0 0 0 - 2 4 50.0 1 6 7 2 0 0 2 2 7
+p14
+aVAndrew DeClercq ORL 04/27/2002 ORL vs. CHH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -9
+p15
+aVPat Garrity ORL 04/27/2002 ORL vs. CHH L 41 11 4 9 44.4 3 7 42.9 0 0 - 1 9 10 2 1 0 0 5 13
+p16
+aVTracy McGrady ORL 04/27/2002 ORL vs. CHH L 51 37 11 25 44.0 2 6 33.3 13 16 81.3 1 6 7 3 0 2 4 4 -1
+p17
+aVDarrell Armstrong ORL 04/27/2002 ORL vs. CHH L 45 21 6 13 46.2 2 9 22.2 7 8 87.5 2 1 3 8 0 0 1 5 10
+p18
+aVHorace Grant ORL 04/27/2002 ORL vs. CHH L 40 10 4 8 50.0 0 0 - 2 2 100.0 2 8 10 4 2 0 0 1 17
+p19
+aVDon Reid ORL 04/27/2002 ORL vs. CHH L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -12
+p20
+aVTroy Hudson ORL 04/27/2002 ORL vs. CHH L 29 9 3 13 23.1 0 1 0.0 3 4 75.0 0 0 0 2 0 0 3 1 -21
+p21
+aVMike Miller ORL 04/27/2002 ORL vs. CHH L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -27
+p22
+aVTroy Hudson ORL 04/23/2002 ORL @ CHH W 33 26 10 18 55.6 0 1 0.0 6 6 100.0 0 2 2 2 0 0 3 0 6
+p23
+aVHorace Grant ORL 04/23/2002 ORL @ CHH W 27 2 1 7 14.3 0 0 - 0 0 - 2 4 6 1 1 0 1 1 -3
+p24
+aVJud Buechler ORL 04/23/2002 ORL @ CHH W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 7
+p25
+aVDon Reid ORL 04/23/2002 ORL @ CHH W 12 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 10
+p26
+aVTracy McGrady ORL 04/23/2002 ORL @ CHH W 48 31 11 23 47.8 0 3 0.0 9 12 75.0 4 7 11 7 2 3 2 3 0
+p27
+aVMike Miller ORL 04/23/2002 ORL @ CHH W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 4 1
+p28
+aVDarrell Armstrong ORL 04/23/2002 ORL @ CHH W 36 13 4 8 50.0 2 4 50.0 3 4 75.0 0 3 3 2 0 0 1 4 -1
+p29
+aVPat Garrity ORL 04/23/2002 ORL @ CHH W 44 18 6 13 46.2 3 7 42.9 3 4 75.0 2 6 8 1 0 0 0 5 2
+p30
+aVMonty Williams ORL 04/23/2002 ORL @ CHH W 26 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 4 1 0 2 2 12
+p31
+aVJaren Jackson ORL 04/23/2002 ORL @ CHH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -1
+p32
+aVPatrick Ewing ORL 04/23/2002 ORL @ CHH W 22 9 2 5 40.0 0 0 - 5 8 62.5 0 7 7 2 0 1 1 5 7
+p33
+aVTracy McGrady ORL 04/20/2002 ORL @ CHH L 35 20 8 21 38.1 0 1 0.0 4 7 57.1 0 3 3 6 0 0 3 1 1
+p34
+aVJud Buechler ORL 04/20/2002 ORL @ CHH L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p35
+aVDon Reid ORL 04/20/2002 ORL @ CHH L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 4 1
+p36
+aVTroy Hudson ORL 04/20/2002 ORL @ CHH L 25 8 2 7 28.6 0 1 0.0 4 4 100.0 0 2 2 2 0 0 0 3 1
+p37
+aVPat Garrity ORL 04/20/2002 ORL @ CHH L 31 0 0 4 0.0 0 1 0.0 0 0 - 0 5 5 4 0 1 2 5 -2
+p38
+aVAndrew DeClercq ORL 04/20/2002 ORL @ CHH L 6 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -3
+p39
+aVHorace Grant ORL 04/20/2002 ORL @ CHH L 36 6 3 4 75.0 0 0 - 0 0 - 0 10 10 1 0 0 1 4 7
+p40
+aVDarrell Armstrong ORL 04/20/2002 ORL @ CHH L 37 16 6 10 60.0 0 1 0.0 4 5 80.0 0 0 0 2 2 0 2 1 -4
+p41
+aVPatrick Ewing ORL 04/20/2002 ORL @ CHH L 14 4 2 7 28.6 0 0 - 0 0 - 2 2 4 1 0 2 0 2 -5
+p42
+aVMike Miller ORL 04/20/2002 ORL @ CHH L 12 7 1 4 25.0 1 2 50.0 4 4 100.0 0 2 2 0 3 0 0 0 -2
+p43
+aVMonty Williams ORL 04/20/2002 ORL @ CHH L 29 14 6 8 75.0 0 0 - 2 2 100.0 1 4 5 3 2 0 1 1 6
+p44
+a.

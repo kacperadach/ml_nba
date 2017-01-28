@@ -1,0 +1,1672 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVShammond Williams SEA 04/19/2000 SEA vs. LAC L 37 17 6 12 50.0 2 6 33.3 3 5 60.0 2 0 2 10 1 0 3 1 -6
+p2
+aVBrent Barry SEA 04/19/2000 SEA vs. LAC L 32 8 3 8 37.5 2 5 40.0 0 0 - 0 3 3 4 0 0 1 0 -8
+p3
+aVVin Baker SEA 04/19/2000 SEA vs. LAC L 24 10 5 12 41.7 0 0 - 0 2 0.0 2 3 5 1 1 2 2 5 -7
+p4
+aVFred Vinson SEA 04/19/2000 SEA vs. LAC L 15 6 2 8 25.0 1 3 33.3 1 2 50.0 0 1 1 0 1 0 3 1 -4
+p5
+aVGary Payton SEA 04/19/2000 SEA vs. LAC L 12 14 7 11 63.6 0 1 0.0 0 0 - 0 1 1 4 1 0 0 0 2
+p6
+aVLazaro Borrell SEA 04/19/2000 SEA vs. LAC L 32 11 4 6 66.7 0 0 - 3 4 75.0 3 4 7 7 0 1 1 1 -6
+p7
+aVRashard Lewis SEA 04/19/2000 SEA vs. LAC L 32 11 4 9 44.4 3 6 50.0 0 0 - 3 1 4 0 1 1 0 5 -6
+p8
+aVJelani McCoy SEA 04/19/2000 SEA vs. LAC L 24 15 6 9 66.7 0 0 - 3 6 50.0 2 6 8 1 2 3 0 3 -1
+p9
+aVRuben Patterson SEA 04/19/2000 SEA vs. LAC L 16 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -2
+p10
+aVGreg Foster SEA 04/19/2000 SEA vs. LAC L 16 10 5 7 71.4 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -2
+p11
+aVLazaro Borrell SEA 04/18/2000 SEA @ SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 4
+p12
+aVJelani McCoy SEA 04/18/2000 SEA @ SAC W 14 4 2 2 100.0 0 0 - 0 2 0.0 1 1 2 0 0 1 1 1 -2
+p13
+aVBrent Barry SEA 04/18/2000 SEA @ SAC W 33 13 5 10 50.0 3 7 42.9 0 0 - 0 2 2 2 4 0 1 4 -2
+p14
+aVRashard Lewis SEA 04/18/2000 SEA @ SAC W 38 22 9 20 45.0 2 5 40.0 2 3 66.7 6 7 13 5 5 2 1 4 12
+p15
+aVVin Baker SEA 04/18/2000 SEA @ SAC W 41 23 9 22 40.9 0 0 - 5 6 83.3 1 8 9 2 1 1 2 3 10
+p16
+aVHorace Grant SEA 04/18/2000 SEA @ SAC W 48 6 3 10 30.0 0 0 - 0 2 0.0 4 5 9 5 1 1 1 5 9
+p17
+aVVernon Maxwell SEA 04/18/2000 SEA @ SAC W 4 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p18
+aVGary Payton SEA 04/18/2000 SEA @ SAC W 53 33 13 28 46.4 2 6 33.3 5 6 83.3 2 9 11 14 3 1 1 3 7
+p19
+aVRuben Patterson SEA 04/18/2000 SEA @ SAC W 27 16 8 13 61.5 0 0 - 0 0 - 3 3 6 4 2 0 2 2 -4
+p20
+aVShammond Williams SEA 04/18/2000 SEA @ SAC W 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p21
+aVBrent Barry SEA 04/16/2000 SEA @ HOU W 20 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 2 0 0 1 0 -7
+p22
+aVLazaro Borrell SEA 04/16/2000 SEA @ HOU W 29 12 6 10 60.0 0 0 - 0 2 0.0 2 4 6 0 1 1 1 2 19
+p23
+aVRashard Lewis SEA 04/16/2000 SEA @ HOU W 24 15 7 13 53.8 0 1 0.0 1 1 100.0 1 2 3 2 3 0 0 4 13
+p24
+aVVin Baker SEA 04/16/2000 SEA @ HOU W 26 16 8 17 47.1 0 0 - 0 1 0.0 2 3 5 1 1 1 2 3 -4
+p25
+aVRuben Patterson SEA 04/16/2000 SEA @ HOU W 11 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 -5
+p26
+aVShammond Williams SEA 04/16/2000 SEA @ HOU W 31 11 3 13 23.1 1 7 14.3 4 4 100.0 2 2 4 7 1 0 4 2 11
+p27
+aVGary Payton SEA 04/16/2000 SEA @ HOU W 48 43 17 31 54.8 2 4 50.0 7 8 87.5 5 6 11 7 4 1 1 2 9
+p28
+aVHorace Grant SEA 04/16/2000 SEA @ HOU W 38 10 4 6 66.7 0 0 - 2 2 100.0 4 7 11 4 0 1 0 3 20
+p29
+aVVernon Maxwell SEA 04/16/2000 SEA @ HOU W 14 4 2 8 25.0 0 2 0.0 0 1 0.0 1 1 2 1 0 0 2 2 -11
+p30
+aVBrent Barry SEA 04/14/2000 SEA @ DAL L 27 7 2 5 40.0 1 3 33.3 2 3 66.7 1 1 2 1 0 0 1 2 -14
+p31
+aVVin Baker SEA 04/14/2000 SEA @ DAL L 32 25 10 16 62.5 0 0 - 5 6 83.3 3 3 6 2 1 2 2 3 0
+p32
+aVGreg Foster SEA 04/14/2000 SEA @ DAL L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 8
+p33
+aVShammond Williams SEA 04/14/2000 SEA @ DAL L 26 8 4 12 33.3 0 4 0.0 0 0 - 1 1 2 4 0 0 1 2 -7
+p34
+aVRuben Patterson SEA 04/14/2000 SEA @ DAL L 13 8 3 6 50.0 0 0 - 2 2 100.0 4 3 7 0 0 0 2 3 -3
+p35
+aVFred Vinson SEA 04/14/2000 SEA @ DAL L 12 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 0 2 0 1 0 18
+p36
+aVLazaro Borrell SEA 04/14/2000 SEA @ DAL L 23 15 6 10 60.0 0 1 0.0 3 5 60.0 2 4 6 0 1 1 0 0 7
+p37
+aVGary Payton SEA 04/14/2000 SEA @ DAL L 32 12 5 16 31.3 0 1 0.0 2 4 50.0 2 5 7 3 1 0 2 5 -25
+p38
+aVHorace Grant SEA 04/14/2000 SEA @ DAL L 18 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 1 1 0 1 -24
+p39
+aVRashard Lewis SEA 04/14/2000 SEA @ DAL L 24 8 3 9 33.3 0 2 0.0 2 2 100.0 3 0 3 1 1 1 1 1 -25
+p40
+aVVernon Maxwell SEA 04/14/2000 SEA @ DAL L 18 9 2 9 22.2 1 5 20.0 4 6 66.7 0 2 2 1 1 0 1 2 -20
+p41
+aVJelani McCoy SEA 04/14/2000 SEA @ DAL L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 15
+p42
+aVRashard Lewis SEA 04/12/2000 SEA vs. MIN W 32 18 7 13 53.8 1 3 33.3 3 3 100.0 3 3 6 1 1 0 1 3 27
+p43
+aVRuben Patterson SEA 04/12/2000 SEA vs. MIN W 5 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 5
+p44
+aVBrent Barry SEA 04/12/2000 SEA vs. MIN W 27 9 3 6 50.0 2 3 66.7 1 1 100.0 1 3 4 3 1 0 1 2 1
+p45
+aVVin Baker SEA 04/12/2000 SEA vs. MIN W 14 4 0 1 0.0 0 0 - 4 4 100.0 1 0 1 1 1 0 0 5 0
+p46
+aVJelani McCoy SEA 04/12/2000 SEA vs. MIN W 17 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 1 1 1 0 5 14
+p47
+aVHorace Grant SEA 04/12/2000 SEA vs. MIN W 30 3 1 4 25.0 0 0 - 1 4 25.0 3 9 12 3 0 2 0 2 8
+p48
+aVLazaro Borrell SEA 04/12/2000 SEA vs. MIN W 30 10 5 14 35.7 0 1 0.0 0 0 - 3 6 9 2 2 0 2 1 20
+p49
+aVGary Payton SEA 04/12/2000 SEA vs. MIN W 36 29 11 20 55.0 2 5 40.0 5 6 83.3 1 7 8 9 1 1 0 4 29
+p50
+aVGreg Foster SEA 04/12/2000 SEA vs. MIN W 3 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p51
+aVShammond Williams SEA 04/12/2000 SEA vs. MIN W 23 8 3 9 33.3 1 5 20.0 1 2 50.0 1 2 3 5 0 0 4 3 6
+p52
+aVFred Vinson SEA 04/12/2000 SEA vs. MIN W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p53
+aVVernon Maxwell SEA 04/12/2000 SEA vs. MIN W 20 20 5 10 50.0 4 7 57.1 6 6 100.0 0 0 0 0 0 0 0 2 15
+p54
+aVVernon Maxwell SEA 04/10/2000 SEA @ LAL L 3 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 -3
+p55
+aVGreg Foster SEA 04/10/2000 SEA @ LAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p56
+aVRuben Patterson SEA 04/10/2000 SEA @ LAL L 25 12 3 5 60.0 1 1 100.0 5 8 62.5 1 1 2 0 0 0 1 2 -2
+p57
+aVLazaro Borrell SEA 04/10/2000 SEA @ LAL L 18 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 1 0 1 1 3
+p58
+aVGary Payton SEA 04/10/2000 SEA @ LAL L 51 22 9 24 37.5 1 7 14.3 3 6 50.0 4 8 12 8 3 1 1 3 -3
+p59
+aVBrent Barry SEA 04/10/2000 SEA @ LAL L 29 5 1 5 20.0 1 3 33.3 2 2 100.0 0 2 2 4 1 0 0 5 6
+p60
+aVShammond Williams SEA 04/10/2000 SEA @ LAL L 25 28 9 17 52.9 5 8 62.5 5 6 83.3 1 5 6 4 0 0 0 2 10
+p61
+aVHorace Grant SEA 04/10/2000 SEA @ LAL L 41 12 6 11 54.5 0 0 - 0 0 - 2 3 5 1 0 1 2 3 -16
+p62
+aVRashard Lewis SEA 04/10/2000 SEA @ LAL L 20 3 1 7 14.3 1 2 50.0 0 2 0.0 1 2 3 2 0 0 2 2 -11
+p63
+aVVin Baker SEA 04/10/2000 SEA @ LAL L 27 3 1 8 12.5 0 0 - 1 4 25.0 3 6 9 1 2 1 2 6 -2
+p64
+aVJelani McCoy SEA 04/10/2000 SEA @ LAL L 21 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 0 0 1 4 -1
+p65
+aVShammond Williams SEA 04/08/2000 SEA @ DEN L 15 8 1 8 12.5 1 2 50.0 5 8 62.5 1 2 3 1 0 0 1 0 -1
+p66
+aVHorace Grant SEA 04/08/2000 SEA @ DEN L 40 6 3 7 42.9 0 0 - 0 0 - 3 5 8 8 2 3 0 4 0
+p67
+aVGary Payton SEA 04/08/2000 SEA @ DEN L 43 30 12 26 46.2 1 8 12.5 5 7 71.4 0 10 10 5 1 1 1 3 -6
+p68
+aVRashard Lewis SEA 04/08/2000 SEA @ DEN L 23 13 6 11 54.5 0 1 0.0 1 1 100.0 1 3 4 1 1 1 1 3 -7
+p69
+aVBrent Barry SEA 04/08/2000 SEA @ DEN L 41 20 8 15 53.3 4 8 50.0 0 0 - 0 3 3 5 1 1 1 3 -4
+p70
+aVVin Baker SEA 04/08/2000 SEA @ DEN L 26 10 4 9 44.4 0 0 - 2 2 100.0 1 2 3 2 0 0 0 3 -8
+p71
+aVJelani McCoy SEA 04/08/2000 SEA @ DEN L 14 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 1 2 4 -5
+p72
+aVRuben Patterson SEA 04/08/2000 SEA @ DEN L 37 10 4 10 40.0 0 1 0.0 2 3 66.7 4 3 7 0 0 2 4 0 -9
+p73
+aVJelani McCoy SEA 04/07/2000 SEA vs. HOU L 12 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 2 0 1 0 1 6
+p74
+aVRuben Patterson SEA 04/07/2000 SEA vs. HOU L 28 10 3 4 75.0 0 0 - 4 5 80.0 7 1 8 4 0 1 2 2 0
+p75
+aVRashard Lewis SEA 04/07/2000 SEA vs. HOU L 33 22 9 16 56.3 2 4 50.0 2 2 100.0 4 6 10 1 1 0 3 2 6
+p76
+aVGary Payton SEA 04/07/2000 SEA vs. HOU L 47 29 12 30 40.0 2 8 25.0 3 5 60.0 3 6 9 9 5 0 4 5 2
+p77
+aVShammond Williams SEA 04/07/2000 SEA vs. HOU L 28 20 9 18 50.0 1 4 25.0 1 1 100.0 0 1 1 4 2 0 1 3 5
+p78
+aVVin Baker SEA 04/07/2000 SEA vs. HOU L 26 10 4 11 36.4 0 0 - 2 2 100.0 2 2 4 2 1 1 1 1 -13
+p79
+aVBrent Barry SEA 04/07/2000 SEA vs. HOU L 34 11 4 8 50.0 1 4 25.0 2 2 100.0 0 3 3 3 0 1 1 4 -15
+p80
+aVHorace Grant SEA 04/07/2000 SEA vs. HOU L 30 9 4 12 33.3 0 0 - 1 2 50.0 7 3 10 3 1 0 0 1 -6
+p81
+aVRuben Patterson SEA 04/04/2000 SEA vs. DEN W 19 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 2 0 0 0 3 8
+p82
+aVRashard Lewis SEA 04/04/2000 SEA vs. DEN W 26 8 3 10 30.0 0 1 0.0 2 2 100.0 1 6 7 2 0 0 2 1 8
+p83
+aVGary Payton SEA 04/04/2000 SEA vs. DEN W 43 21 7 20 35.0 2 5 40.0 5 7 71.4 1 3 4 13 3 1 4 0 14
+p84
+aVHorace Grant SEA 04/04/2000 SEA vs. DEN W 39 26 13 17 76.5 0 0 - 0 0 - 4 8 12 4 0 1 0 2 15
+p85
+aVBrent Barry SEA 04/04/2000 SEA vs. DEN W 38 15 5 9 55.6 3 4 75.0 2 2 100.0 0 8 8 3 1 1 2 2 10
+p86
+aVVernon Maxwell SEA 04/04/2000 SEA vs. DEN W 16 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 2 0 0 1 2 -3
+p87
+aVJelani McCoy SEA 04/04/2000 SEA vs. DEN W 19 12 6 6 100.0 0 0 - 0 0 - 1 2 3 2 0 0 0 1 1
+p88
+aVVin Baker SEA 04/04/2000 SEA vs. DEN W 34 7 0 7 0.0 0 1 0.0 7 8 87.5 4 5 9 0 0 0 2 5 13
+p89
+aVGreg Foster SEA 04/04/2000 SEA vs. DEN W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 0 3 -1
+p90
+aVHorace Grant SEA 04/02/2000 SEA @ POR L 32 3 1 4 25.0 0 0 - 1 2 50.0 1 7 8 2 0 1 1 3 -13
+p91
+aVRuben Patterson SEA 04/02/2000 SEA @ POR L 32 10 3 10 30.0 0 0 - 4 4 100.0 6 2 8 0 0 0 3 5 -1
+p92
+aVVin Baker SEA 04/02/2000 SEA @ POR L 37 16 7 16 43.8 0 1 0.0 2 6 33.3 4 2 6 2 0 2 3 4 -1
+p93
+aVLazaro Borrell SEA 04/02/2000 SEA @ POR L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p94
+aVGreg Foster SEA 04/02/2000 SEA @ POR L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -6
+p95
+aVRashard Lewis SEA 04/02/2000 SEA @ POR L 37 18 8 16 50.0 1 5 20.0 1 2 50.0 1 6 7 1 1 0 4 3 -15
+p96
+aVBrent Barry SEA 04/02/2000 SEA @ POR L 24 3 1 5 20.0 0 4 0.0 1 2 50.0 0 2 2 4 0 0 0 6 -24
+p97
+aVGary Payton SEA 04/02/2000 SEA @ POR L 46 21 8 17 47.1 1 5 20.0 4 8 50.0 1 6 7 11 1 0 3 2 -11
+p98
+aVVernon Maxwell SEA 04/02/2000 SEA @ POR L 21 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 1 0 1 2 4 0
+p99
+aVShammond Williams SEA 04/02/2000 SEA @ POR L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p100
+aVJelani McCoy SEA 03/31/2000 SEA vs. SAC W 15 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 1 1 2 2 5
+p101
+aVRuben Patterson SEA 03/31/2000 SEA vs. SAC W 29 13 6 12 50.0 0 0 - 1 4 25.0 2 2 4 3 1 0 0 2 23
+p102
+aVGreg Foster SEA 03/31/2000 SEA vs. SAC W 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 1 0 1 2 0
+p103
+aVRashard Lewis SEA 03/31/2000 SEA vs. SAC W 30 20 8 13 61.5 0 2 0.0 4 7 57.1 1 7 8 2 0 0 2 2 6
+p104
+aVVernon Maxwell SEA 03/31/2000 SEA vs. SAC W 14 3 1 6 16.7 0 0 - 1 2 50.0 0 0 0 3 0 0 1 1 -7
+p105
+aVLazaro Borrell SEA 03/31/2000 SEA vs. SAC W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p106
+aVBrent Barry SEA 03/31/2000 SEA vs. SAC W 31 9 3 7 42.9 1 3 33.3 2 2 100.0 1 3 4 8 0 0 2 0 6
+p107
+aVHorace Grant SEA 03/31/2000 SEA vs. SAC W 34 14 5 11 45.5 0 0 - 4 4 100.0 3 5 8 3 2 0 1 2 19
+p108
+aVVin Baker SEA 03/31/2000 SEA vs. SAC W 30 15 5 8 62.5 0 0 - 5 6 83.3 3 11 14 0 0 1 2 6 10
+p109
+aVGary Payton SEA 03/31/2000 SEA vs. SAC W 37 35 15 22 68.2 2 8 25.0 3 3 100.0 0 4 4 15 6 0 2 0 25
+p110
+aVShammond Williams SEA 03/31/2000 SEA vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p111
+aVVladimir Stepania SEA 03/31/2000 SEA vs. SAC W 2 4 1 2 50.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 1 -4
+p112
+aVRashard Lewis SEA 03/29/2000 SEA vs. NYK L 22 18 6 12 50.0 3 6 50.0 3 6 50.0 3 2 5 1 1 0 1 1 -5
+p113
+aVHorace Grant SEA 03/29/2000 SEA vs. NYK L 35 8 3 5 60.0 0 0 - 2 3 66.7 0 4 4 2 0 1 0 2 -15
+p114
+aVGary Payton SEA 03/29/2000 SEA vs. NYK L 42 21 8 22 36.4 2 6 33.3 3 5 60.0 2 2 4 10 3 1 1 5 -17
+p115
+aVVin Baker SEA 03/29/2000 SEA vs. NYK L 31 15 6 10 60.0 0 0 - 3 4 75.0 2 2 4 1 0 0 2 3 -15
+p116
+aVLazaro Borrell SEA 03/29/2000 SEA vs. NYK L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p117
+aVBrent Barry SEA 03/29/2000 SEA vs. NYK L 29 11 3 8 37.5 1 5 20.0 4 6 66.7 1 2 3 2 0 1 4 4 -21
+p118
+aVJelani McCoy SEA 03/29/2000 SEA vs. NYK L 18 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 2
+p119
+aVGreg Foster SEA 03/29/2000 SEA vs. NYK L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 5
+p120
+aVVernon Maxwell SEA 03/29/2000 SEA vs. NYK L 15 7 3 8 37.5 1 6 16.7 0 0 - 1 2 3 2 1 0 1 1 -2
+p121
+aVVladimir Stepania SEA 03/29/2000 SEA vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p122
+aVRuben Patterson SEA 03/29/2000 SEA vs. NYK L 27 7 3 7 42.9 0 1 0.0 1 4 25.0 1 2 3 2 4 2 0 5 -5
+p123
+aVShammond Williams SEA 03/29/2000 SEA vs. NYK L 14 4 0 5 0.0 0 2 0.0 4 4 100.0 0 1 1 3 4 0 0 0 0
+p124
+aVRashard Lewis SEA 03/27/2000 SEA vs. SAS L 21 6 3 9 33.3 0 2 0.0 0 0 - 0 2 2 2 1 1 2 2 0
+p125
+aVGary Payton SEA 03/27/2000 SEA vs. SAS L 48 21 9 23 39.1 1 3 33.3 2 3 66.7 3 5 8 7 4 0 3 4 -8
+p126
+aVVernon Maxwell SEA 03/27/2000 SEA vs. SAS L 27 6 3 10 30.0 0 3 0.0 0 0 - 0 3 3 2 0 1 0 1 -14
+p127
+aVGreg Foster SEA 03/27/2000 SEA vs. SAS L 41 12 6 12 50.0 0 0 - 0 0 - 3 3 6 4 0 2 1 3 -6
+p128
+aVBrent Barry SEA 03/27/2000 SEA vs. SAS L 36 14 5 10 50.0 4 8 50.0 0 0 - 0 1 1 2 0 2 2 3 -2
+p129
+aVVin Baker SEA 03/27/2000 SEA vs. SAS L 35 21 9 20 45.0 0 0 - 3 7 42.9 6 4 10 0 0 0 3 5 -13
+p130
+aVJelani McCoy SEA 03/27/2000 SEA vs. SAS L 17 0 0 1 0.0 0 0 - 0 0 - 1 7 8 0 1 1 0 2 1
+p131
+aVRuben Patterson SEA 03/27/2000 SEA vs. SAS L 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 2 0 1 0 2
+p132
+aVVin Baker SEA 03/24/2000 SEA vs. UTA L 43 25 8 10 80.0 0 0 - 9 13 69.2 1 3 4 1 1 0 6 3 3
+p133
+aVGary Payton SEA 03/24/2000 SEA vs. UTA L 40 28 10 17 58.8 4 6 66.7 4 6 66.7 0 4 4 9 0 0 6 1 -4
+p134
+aVRashard Lewis SEA 03/24/2000 SEA vs. UTA L 32 5 2 6 33.3 0 1 0.0 1 1 100.0 0 9 9 2 0 0 0 5 9
+p135
+aVHorace Grant SEA 03/24/2000 SEA vs. UTA L 38 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 1 0 1 5 -13
+p136
+aVGreg Foster SEA 03/24/2000 SEA vs. UTA L 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 0
+p137
+aVVernon Maxwell SEA 03/24/2000 SEA vs. UTA L 26 18 6 15 40.0 4 8 50.0 2 4 50.0 1 1 2 1 2 1 1 4 -5
+p138
+aVBrent Barry SEA 03/24/2000 SEA vs. UTA L 37 9 2 6 33.3 1 3 33.3 4 4 100.0 1 9 10 7 2 0 5 2 -7
+p139
+aVShammond Williams SEA 03/24/2000 SEA vs. UTA L 11 4 2 5 40.0 0 0 - 0 0 - 0 0 0 3 1 0 1 1 2
+p140
+aVGary Payton SEA 03/21/2000 SEA vs. DET L 44 22 9 23 39.1 0 3 0.0 4 4 100.0 4 4 8 12 4 0 5 2 -2
+p141
+aVRuben Patterson SEA 03/21/2000 SEA vs. DET L 28 8 4 9 44.4 0 1 0.0 0 0 - 1 2 3 0 3 1 2 3 -14
+p142
+aVVladimir Stepania SEA 03/21/2000 SEA vs. DET L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p143
+aVLazaro Borrell SEA 03/21/2000 SEA vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p144
+aVBrent Barry SEA 03/21/2000 SEA vs. DET L 28 7 2 7 28.6 1 5 20.0 2 2 100.0 1 4 5 4 0 1 3 6 -23
+p145
+aVGreg Foster SEA 03/21/2000 SEA vs. DET L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p146
+aVVin Baker SEA 03/21/2000 SEA vs. DET L 35 18 7 18 38.9 0 0 - 4 9 44.4 5 3 8 2 1 1 2 2 5
+p147
+aVRashard Lewis SEA 03/21/2000 SEA vs. DET L 28 18 7 13 53.8 2 6 33.3 2 2 100.0 2 2 4 1 2 1 0 5 4
+p148
+aVJelani McCoy SEA 03/21/2000 SEA vs. DET L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p149
+aVHorace Grant SEA 03/21/2000 SEA vs. DET L 36 8 3 8 37.5 0 1 0.0 2 2 100.0 4 6 10 1 4 0 1 2 -8
+p150
+aVShammond Williams SEA 03/21/2000 SEA vs. DET L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p151
+aVVernon Maxwell SEA 03/21/2000 SEA vs. DET L 25 7 2 8 25.0 1 5 20.0 2 4 50.0 0 1 1 1 2 0 1 3 -3
+p152
+aVHorace Grant SEA 03/18/2000 SEA vs. POR L 38 7 3 10 30.0 0 0 - 1 1 100.0 3 6 9 3 0 1 1 3 -14
+p153
+aVGreg Foster SEA 03/18/2000 SEA vs. POR L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p154
+aVBrent Barry SEA 03/18/2000 SEA vs. POR L 37 14 4 10 40.0 2 6 33.3 4 4 100.0 0 3 3 4 1 2 0 5 12
+p155
+aVRuben Patterson SEA 03/18/2000 SEA vs. POR L 26 15 6 11 54.5 1 1 100.0 2 4 50.0 2 9 11 0 2 1 2 2 -14
+p156
+aVVernon Maxwell SEA 03/18/2000 SEA vs. POR L 23 10 4 9 44.4 2 6 33.3 0 0 - 0 0 0 1 2 0 1 3 21
+p157
+aVGary Payton SEA 03/18/2000 SEA vs. POR L 48 24 11 22 50.0 1 5 20.0 1 4 25.0 0 5 5 11 1 0 2 3 -1
+p158
+aVVin Baker SEA 03/18/2000 SEA vs. POR L 37 13 4 9 44.4 0 0 - 5 8 62.5 1 3 4 2 1 1 2 5 -8
+p159
+aVRashard Lewis SEA 03/18/2000 SEA vs. POR L 26 13 6 8 75.0 0 1 0.0 1 2 50.0 2 0 2 2 0 1 1 3 -1
+p160
+aVVin Baker SEA 03/16/2000 SEA vs. VAN W 30 21 10 18 55.6 0 0 - 1 2 50.0 5 2 7 0 0 1 2 5 20
+p161
+aVHorace Grant SEA 03/16/2000 SEA vs. VAN W 41 14 6 10 60.0 0 0 - 2 2 100.0 0 4 4 2 0 2 0 3 12
+p162
+aVBrent Barry SEA 03/16/2000 SEA vs. VAN W 34 21 6 10 60.0 4 7 57.1 5 5 100.0 0 4 4 6 4 0 4 4 19
+p163
+aVShammond Williams SEA 03/16/2000 SEA vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p164
+aVVladimir Stepania SEA 03/16/2000 SEA vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p165
+aVGreg Foster SEA 03/16/2000 SEA vs. VAN W 16 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 3 5 -8
+p166
+aVRashard Lewis SEA 03/16/2000 SEA vs. VAN W 22 4 1 2 50.0 1 2 50.0 1 2 50.0 1 2 3 2 0 1 0 3 -3
+p167
+aVVernon Maxwell SEA 03/16/2000 SEA vs. VAN W 18 9 3 7 42.9 1 5 20.0 2 2 100.0 0 1 1 2 3 0 2 1 -9
+p168
+aVGary Payton SEA 03/16/2000 SEA vs. VAN W 42 30 12 26 46.2 1 4 25.0 5 5 100.0 0 4 4 16 3 1 1 3 17
+p169
+aVJelani McCoy SEA 03/16/2000 SEA vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p170
+aVRuben Patterson SEA 03/16/2000 SEA vs. VAN W 36 16 8 10 80.0 0 0 - 0 0 - 4 2 6 3 3 2 3 5 19
+p171
+aVGary Payton SEA 03/13/2000 SEA @ VAN W 43 40 14 27 51.9 0 3 0.0 12 15 80.0 0 3 3 11 3 0 2 3 16
+p172
+aVJelani McCoy SEA 03/13/2000 SEA @ VAN W 19 4 1 6 16.7 0 0 - 2 3 66.7 2 5 7 1 1 1 0 4 15
+p173
+aVHorace Grant SEA 03/13/2000 SEA @ VAN W 42 13 6 14 42.9 0 0 - 1 2 50.0 4 7 11 2 3 0 3 4 18
+p174
+aVVernon Maxwell SEA 03/13/2000 SEA @ VAN W 16 10 3 7 42.9 1 4 25.0 3 5 60.0 0 1 1 0 0 0 2 0 -13
+p175
+aVGreg Foster SEA 03/13/2000 SEA @ VAN W 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -15
+p176
+aVBrent Barry SEA 03/13/2000 SEA @ VAN W 37 14 6 8 75.0 2 4 50.0 0 0 - 1 2 3 2 1 0 2 2 17
+p177
+aVRuben Patterson SEA 03/13/2000 SEA @ VAN W 39 15 6 11 54.5 0 0 - 3 5 60.0 5 3 8 1 2 0 0 5 21
+p178
+aVRashard Lewis SEA 03/13/2000 SEA @ VAN W 30 13 5 9 55.6 1 2 50.0 2 2 100.0 2 3 5 1 2 1 1 0 -9
+p179
+aVJelani McCoy SEA 03/12/2000 SEA vs. TOR L 8 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -7
+p180
+aVRashard Lewis SEA 03/12/2000 SEA vs. TOR L 37 28 14 27 51.9 0 3 0.0 0 0 - 5 6 11 3 0 0 2 3 8
+p181
+aVHorace Grant SEA 03/12/2000 SEA vs. TOR L 46 13 4 9 44.4 0 0 - 5 6 83.3 4 8 12 0 1 1 1 2 0
+p182
+aVEmanual Davis SEA 03/12/2000 SEA vs. TOR L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -6
+p183
+aVShammond Williams SEA 03/12/2000 SEA vs. TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p184
+aVGary Payton SEA 03/12/2000 SEA vs. TOR L 48 22 8 23 34.8 1 5 20.0 5 10 50.0 2 8 10 10 2 0 3 0 -2
+p185
+aVBrent Barry SEA 03/12/2000 SEA vs. TOR L 31 8 3 8 37.5 2 6 33.3 0 0 - 0 6 6 4 1 0 1 6 -4
+p186
+aVVernon Maxwell SEA 03/12/2000 SEA vs. TOR L 23 11 4 13 30.8 0 6 0.0 3 3 100.0 1 2 3 1 0 0 1 5 15
+p187
+aVRuben Patterson SEA 03/12/2000 SEA vs. TOR L 35 11 5 8 62.5 0 0 - 1 2 50.0 3 2 5 3 0 0 0 5 -7
+p188
+aVGreg Foster SEA 03/12/2000 SEA vs. TOR L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p189
+aVEmanual Davis SEA 03/10/2000 SEA vs. GSW W 12 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 0 1 0 2 1 10
+p190
+aVJelani McCoy SEA 03/10/2000 SEA vs. GSW W 16 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 2 1 1 12
+p191
+aVVin Baker SEA 03/10/2000 SEA vs. GSW W 23 9 3 8 37.5 0 0 - 3 6 50.0 1 3 4 0 0 0 1 2 2
+p192
+aVBrent Barry SEA 03/10/2000 SEA vs. GSW W 32 10 4 10 40.0 2 5 40.0 0 0 - 1 6 7 2 1 0 1 3 5
+p193
+aVHorace Grant SEA 03/10/2000 SEA vs. GSW W 36 13 5 9 55.6 0 0 - 3 3 100.0 2 8 10 0 1 1 2 3 9
+p194
+aVRuben Patterson SEA 03/10/2000 SEA vs. GSW W 28 11 4 7 57.1 0 0 - 3 4 75.0 5 5 10 2 1 0 2 2 8
+p195
+aVGary Payton SEA 03/10/2000 SEA vs. GSW W 41 27 10 27 37.0 1 7 14.3 6 7 85.7 2 1 3 16 4 0 3 1 17
+p196
+aVGreg Foster SEA 03/10/2000 SEA vs. GSW W 20 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 1 0 0 2 7
+p197
+aVShammond Williams SEA 03/10/2000 SEA vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p198
+aVVernon Maxwell SEA 03/10/2000 SEA vs. GSW W 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p199
+aVRashard Lewis SEA 03/10/2000 SEA vs. GSW W 20 13 4 6 66.7 0 0 - 5 6 83.3 1 2 3 0 3 1 0 0 4
+p200
+aVVladimir Stepania SEA 03/10/2000 SEA vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 0
+p201
+aVGreg Foster SEA 03/07/2000 SEA vs. DAL W 19 6 2 5 40.0 0 0 - 2 2 100.0 0 6 6 2 0 1 1 3 9
+p202
+aVVin Baker SEA 03/07/2000 SEA vs. DAL W 35 6 2 12 16.7 0 0 - 2 2 100.0 4 3 7 6 0 0 4 5 9
+p203
+aVBrent Barry SEA 03/07/2000 SEA vs. DAL W 42 16 6 11 54.5 3 5 60.0 1 2 50.0 1 6 7 3 1 0 5 1 7
+p204
+aVEmanual Davis SEA 03/07/2000 SEA vs. DAL W 26 12 5 8 62.5 2 4 50.0 0 0 - 0 4 4 2 3 1 2 2 18
+p205
+aVGary Payton SEA 03/07/2000 SEA vs. DAL W 30 19 9 17 52.9 1 4 25.0 0 1 0.0 2 6 8 9 1 0 5 5 2
+p206
+aVRashard Lewis SEA 03/07/2000 SEA vs. DAL W 27 4 2 4 50.0 0 1 0.0 0 2 0.0 1 7 8 2 3 0 2 3 26
+p207
+aVRuben Patterson SEA 03/07/2000 SEA vs. DAL W 40 32 12 20 60.0 1 2 50.0 7 10 70.0 6 2 8 5 5 0 5 2 10
+p208
+aVHorace Grant SEA 03/07/2000 SEA vs. DAL W 20 6 3 5 60.0 0 0 - 0 1 0.0 0 4 4 1 0 0 0 0 -6
+p209
+aVRashard Lewis SEA 03/05/2000 SEA @ MIN L 17 4 2 5 40.0 0 1 0.0 0 0 - 2 2 4 1 0 0 1 3 2
+p210
+aVJelani McCoy SEA 03/05/2000 SEA @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p211
+aVHorace Grant SEA 03/05/2000 SEA @ MIN L 40 10 4 8 50.0 0 0 - 2 2 100.0 0 4 4 2 0 0 0 2 -19
+p212
+aVEmanual Davis SEA 03/05/2000 SEA @ MIN L 30 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 3 2 0 1 3 19
+p213
+aVGary Payton SEA 03/05/2000 SEA @ MIN L 53 34 13 26 50.0 2 6 33.3 6 8 75.0 1 4 5 12 2 2 4 1 -5
+p214
+aVBrent Barry SEA 03/05/2000 SEA @ MIN L 41 11 4 12 33.3 1 4 25.0 2 3 66.7 0 3 3 3 1 0 0 5 -11
+p215
+aVVin Baker SEA 03/05/2000 SEA @ MIN L 41 20 9 19 47.4 1 2 50.0 1 2 50.0 3 6 9 0 1 1 6 5 0
+p216
+aVRuben Patterson SEA 03/05/2000 SEA @ MIN L 24 8 3 7 42.9 0 1 0.0 2 4 50.0 2 2 4 1 0 0 0 3 -16
+p217
+aVGreg Foster SEA 03/05/2000 SEA @ MIN L 18 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 7
+p218
+aVHorace Grant SEA 03/04/2000 SEA @ ATL W 31 8 4 8 50.0 0 0 - 0 0 - 3 2 5 1 0 1 0 1 4
+p219
+aVGary Payton SEA 03/04/2000 SEA @ ATL W 32 28 12 20 60.0 0 4 0.0 4 6 66.7 2 6 8 5 1 0 0 0 14
+p220
+aVBrent Barry SEA 03/04/2000 SEA @ ATL W 36 10 4 11 36.4 2 4 50.0 0 0 - 1 3 4 4 3 0 3 4 21
+p221
+aVVladimir Stepania SEA 03/04/2000 SEA @ ATL W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -5
+p222
+aVShammond Williams SEA 03/04/2000 SEA @ ATL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p223
+aVRashard Lewis SEA 03/04/2000 SEA @ ATL W 30 10 4 7 57.1 2 3 66.7 0 0 - 0 6 6 1 1 0 0 3 19
+p224
+aVEmanual Davis SEA 03/04/2000 SEA @ ATL W 24 8 3 5 60.0 0 1 0.0 2 4 50.0 0 1 1 4 1 0 1 1 2
+p225
+aVGreg Foster SEA 03/04/2000 SEA @ ATL W 17 10 4 5 80.0 0 0 - 2 2 100.0 0 3 3 2 0 1 2 3 17
+p226
+aVJelani McCoy SEA 03/04/2000 SEA @ ATL W 7 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 2 1 1 -10
+p227
+aVVin Baker SEA 03/04/2000 SEA @ ATL W 38 16 7 17 41.2 0 0 - 2 4 50.0 3 5 8 0 0 0 0 4 15
+p228
+aVRuben Patterson SEA 03/04/2000 SEA @ ATL W 18 0 0 6 0.0 0 0 - 0 0 - 1 2 3 2 1 1 1 0 -7
+p229
+aVGary Payton SEA 03/02/2000 SEA @ MIA L 48 20 8 23 34.8 0 6 0.0 4 6 66.7 3 2 5 7 2 0 2 1 -18
+p230
+aVHorace Grant SEA 03/02/2000 SEA @ MIA L 29 2 1 4 25.0 0 0 - 0 0 - 1 8 9 2 0 0 0 1 -15
+p231
+aVRuben Patterson SEA 03/02/2000 SEA @ MIA L 29 24 10 17 58.8 2 3 66.7 2 2 100.0 3 1 4 2 3 0 0 1 -14
+p232
+aVVin Baker SEA 03/02/2000 SEA @ MIA L 45 23 7 15 46.7 0 0 - 9 11 81.8 6 3 9 2 1 0 0 1 -23
+p233
+aVBrent Barry SEA 03/02/2000 SEA @ MIA L 43 8 3 11 27.3 1 6 16.7 1 1 100.0 2 2 4 3 0 1 1 3 -13
+p234
+aVChuck Person SEA 03/02/2000 SEA @ MIA L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 3 -6
+p235
+aVShammond Williams SEA 03/02/2000 SEA @ MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p236
+aVGreg Foster SEA 03/02/2000 SEA @ MIA L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 7
+p237
+aVRashard Lewis SEA 03/02/2000 SEA @ MIA L 14 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 0 0 1 1 6
+p238
+aVEmanual Davis SEA 03/02/2000 SEA @ MIA L 15 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 1 0 0 1 2 -14
+p239
+aVGary Payton SEA 02/29/2000 SEA @ ORL L 45 29 12 24 50.0 4 8 50.0 1 4 25.0 3 6 9 5 0 1 1 1 -13
+p240
+aVRuben Patterson SEA 02/29/2000 SEA @ ORL L 23 7 3 8 37.5 0 0 - 1 2 50.0 3 3 6 3 1 0 1 0 -10
+p241
+aVRashard Lewis SEA 02/29/2000 SEA @ ORL L 23 13 6 11 54.5 1 2 50.0 0 0 - 2 4 6 1 1 0 1 3 6
+p242
+aVHorace Grant SEA 02/29/2000 SEA @ ORL L 39 6 2 7 28.6 0 0 - 2 2 100.0 4 6 10 0 1 1 0 2 -12
+p243
+aVJelani McCoy SEA 02/29/2000 SEA @ ORL L 5 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -3
+p244
+aVVin Baker SEA 02/29/2000 SEA @ ORL L 37 19 8 19 42.1 1 1 100.0 2 6 33.3 6 0 6 1 0 0 5 3 -18
+p245
+aVChuck Person SEA 02/29/2000 SEA @ ORL L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 2 -1
+p246
+aVBrent Barry SEA 02/29/2000 SEA @ ORL L 43 13 4 10 40.0 1 5 20.0 4 5 80.0 2 3 5 3 1 0 2 2 6
+p247
+aVEmanual Davis SEA 02/29/2000 SEA @ ORL L 19 0 0 7 0.0 0 7 0.0 0 0 - 0 3 3 6 0 0 0 1 0
+p248
+aVChuck Person SEA 02/28/2000 SEA @ CHH W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p249
+aVRuben Patterson SEA 02/28/2000 SEA @ CHH W 29 11 3 10 30.0 0 2 0.0 5 8 62.5 1 3 4 0 1 0 2 3 -2
+p250
+aVBrent Barry SEA 02/28/2000 SEA @ CHH W 45 13 5 11 45.5 2 7 28.6 1 2 50.0 1 2 3 5 1 1 3 1 5
+p251
+aVEmanual Davis SEA 02/28/2000 SEA @ CHH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p252
+aVRashard Lewis SEA 02/28/2000 SEA @ CHH W 22 11 5 10 50.0 1 2 50.0 0 1 0.0 1 5 6 0 0 0 2 1 4
+p253
+aVGary Payton SEA 02/28/2000 SEA @ CHH W 48 32 12 21 57.1 5 11 45.5 3 7 42.9 3 6 9 8 2 0 4 1 3
+p254
+aVJelani McCoy SEA 02/28/2000 SEA @ CHH W 10 1 0 1 0.0 0 0 - 1 4 25.0 0 1 1 0 0 1 0 2 3
+p255
+aVVin Baker SEA 02/28/2000 SEA @ CHH W 40 10 4 13 30.8 0 0 - 2 4 50.0 0 4 4 2 2 0 3 6 1
+p256
+aVHorace Grant SEA 02/28/2000 SEA @ CHH W 43 6 3 10 30.0 0 0 - 0 0 - 3 10 13 3 0 2 0 3 4
+p257
+aVEmanual Davis SEA 02/25/2000 SEA vs. ATL L 8 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -7
+p258
+aVVin Baker SEA 02/25/2000 SEA vs. ATL L 39 21 10 21 47.6 0 0 - 1 3 33.3 3 6 9 2 0 1 4 3 -5
+p259
+aVGreg Foster SEA 02/25/2000 SEA vs. ATL L 4 2 1 2 50.0 0 0 - 0 2 0.0 0 3 3 0 0 0 0 2 -3
+p260
+aVRuben Patterson SEA 02/25/2000 SEA vs. ATL L 33 21 8 10 80.0 1 1 100.0 4 5 80.0 4 1 5 0 0 0 3 3 -5
+p261
+aVJelani McCoy SEA 02/25/2000 SEA vs. ATL L 11 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 2 0 0 0 -3
+p262
+aVBrent Barry SEA 02/25/2000 SEA vs. ATL L 36 10 3 10 30.0 2 7 28.6 2 2 100.0 0 6 6 1 3 0 2 0 -1
+p263
+aVHorace Grant SEA 02/25/2000 SEA vs. ATL L 39 4 2 7 28.6 0 0 - 0 0 - 4 6 10 4 0 1 0 0 -6
+p264
+aVChuck Person SEA 02/25/2000 SEA vs. ATL L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 0
+p265
+aVRashard Lewis SEA 02/25/2000 SEA vs. ATL L 19 2 1 8 12.5 0 0 - 0 0 - 2 4 6 1 0 0 1 0 -2
+p266
+aVGary Payton SEA 02/25/2000 SEA vs. ATL L 48 21 8 20 40.0 2 5 40.0 3 4 75.0 3 4 7 16 2 0 4 4 -8
+p267
+aVHorace Grant SEA 02/22/2000 SEA vs. ORL W 26 10 4 6 66.7 0 0 - 2 2 100.0 2 4 6 4 0 0 1 0 28
+p268
+aVGary Payton SEA 02/22/2000 SEA vs. ORL W 35 17 5 12 41.7 1 5 20.0 6 7 85.7 2 4 6 7 2 0 4 1 43
+p269
+aVVin Baker SEA 02/22/2000 SEA vs. ORL W 30 2 1 4 25.0 0 0 - 0 0 - 0 6 6 3 0 1 3 4 30
+p270
+aVGreg Foster SEA 02/22/2000 SEA vs. ORL W 5 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 1 0 0 0 0 6
+p271
+aVRuben Patterson SEA 02/22/2000 SEA vs. ORL W 31 17 7 13 53.8 0 1 0.0 3 3 100.0 6 3 9 4 3 1 1 2 27
+p272
+aVShammond Williams SEA 02/22/2000 SEA vs. ORL W 12 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 5 0 0 2 1 -3
+p273
+aVRashard Lewis SEA 02/22/2000 SEA vs. ORL W 24 21 8 12 66.7 4 6 66.7 1 2 50.0 1 2 3 1 1 0 1 5 -2
+p274
+aVEmanual Davis SEA 02/22/2000 SEA vs. ORL W 27 17 5 13 38.5 5 7 71.4 2 2 100.0 1 5 6 2 2 1 0 2 33
+p275
+aVJelani McCoy SEA 02/22/2000 SEA vs. ORL W 20 5 2 5 40.0 0 0 - 1 3 33.3 0 7 7 4 0 0 6 4 11
+p276
+aVVladimir Stepania SEA 02/22/2000 SEA vs. ORL W 12 10 3 4 75.0 0 0 - 4 6 66.7 2 3 5 0 0 2 4 4 -3
+p277
+aVBrent Barry SEA 02/22/2000 SEA vs. ORL W 19 16 5 7 71.4 4 6 66.7 2 2 100.0 0 4 4 2 1 0 2 4 10
+p278
+aVRashard Lewis SEA 02/19/2000 SEA vs. BOS W 21 6 2 6 33.3 0 1 0.0 2 2 100.0 2 2 4 1 2 1 2 1 12
+p279
+aVJelani McCoy SEA 02/19/2000 SEA vs. BOS W 11 8 4 4 100.0 0 0 - 0 0 - 2 2 4 0 0 1 1 2 7
+p280
+aVGary Payton SEA 02/19/2000 SEA vs. BOS W 46 27 12 28 42.9 1 5 20.0 2 3 66.7 0 4 4 9 1 0 1 3 5
+p281
+aVEmanual Davis SEA 02/19/2000 SEA vs. BOS W 12 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 3 2
+p282
+aVHorace Grant SEA 02/19/2000 SEA vs. BOS W 36 2 0 3 0.0 0 0 - 2 2 100.0 0 6 6 1 0 0 2 2 -5
+p283
+aVVin Baker SEA 02/19/2000 SEA vs. BOS W 35 17 8 14 57.1 0 0 - 1 4 25.0 4 4 8 1 0 1 4 4 -9
+p284
+aVRuben Patterson SEA 02/19/2000 SEA vs. BOS W 26 14 6 12 50.0 0 1 0.0 2 2 100.0 2 5 7 1 2 0 4 3 -9
+p285
+aVBrent Barry SEA 02/19/2000 SEA vs. BOS W 38 10 4 7 57.1 1 3 33.3 1 3 33.3 0 8 8 8 3 0 2 3 -1
+p286
+aVGreg Foster SEA 02/19/2000 SEA vs. BOS W 14 8 4 4 100.0 0 0 - 0 0 - 0 1 1 3 0 2 1 1 13
+p287
+aVRuben Patterson SEA 02/18/2000 SEA @ SAC L 19 4 2 5 40.0 0 0 - 0 0 - 2 1 3 1 1 1 1 3 -2
+p288
+aVRashard Lewis SEA 02/18/2000 SEA @ SAC L 18 5 1 6 16.7 0 1 0.0 3 4 75.0 1 1 2 2 2 0 1 3 -23
+p289
+aVGreg Foster SEA 02/18/2000 SEA @ SAC L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -17
+p290
+aVShammond Williams SEA 02/18/2000 SEA @ SAC L 16 4 1 6 16.7 1 4 25.0 1 2 50.0 0 4 4 2 1 0 2 2 -19
+p291
+aVEmanual Davis SEA 02/18/2000 SEA @ SAC L 8 5 2 6 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -10
+p292
+aVJelani McCoy SEA 02/18/2000 SEA @ SAC L 13 6 2 4 50.0 0 0 - 2 4 50.0 1 0 1 0 0 1 2 3 -26
+p293
+aVHorace Grant SEA 02/18/2000 SEA @ SAC L 31 6 3 8 37.5 0 0 - 0 0 - 1 6 7 1 2 2 1 1 -11
+p294
+aVGary Payton SEA 02/18/2000 SEA @ SAC L 41 13 4 19 21.1 1 7 14.3 4 4 100.0 0 5 5 12 1 0 3 0 -22
+p295
+aVBrent Barry SEA 02/18/2000 SEA @ SAC L 36 21 7 11 63.6 5 8 62.5 2 2 100.0 1 6 7 0 0 2 1 3 -19
+p296
+aVChuck Person SEA 02/18/2000 SEA @ SAC L 10 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 1 0 0 0 1 -8
+p297
+aVVin Baker SEA 02/18/2000 SEA @ SAC L 37 19 7 13 53.8 0 0 - 5 5 100.0 2 6 8 0 0 1 6 4 -8
+p298
+aVVladimir Stepania SEA 02/15/2000 SEA vs. WAS W 20 5 2 9 22.2 0 1 0.0 1 4 25.0 1 6 7 0 0 1 0 4 0
+p299
+aVEmanual Davis SEA 02/15/2000 SEA vs. WAS W 12 3 1 4 25.0 0 3 0.0 1 2 50.0 1 0 1 1 0 0 1 1 -3
+p300
+aVGary Payton SEA 02/15/2000 SEA vs. WAS W 30 41 14 21 66.7 7 12 58.3 6 7 85.7 0 3 3 5 2 0 2 3 31
+p301
+aVRuben Patterson SEA 02/15/2000 SEA vs. WAS W 25 14 6 9 66.7 1 1 100.0 1 2 50.0 0 3 3 3 1 0 2 2 22
+p302
+aVHorace Grant SEA 02/15/2000 SEA vs. WAS W 15 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 1 0 0 0 2 21
+p303
+aVRashard Lewis SEA 02/15/2000 SEA vs. WAS W 23 6 2 7 28.6 0 1 0.0 2 2 100.0 2 5 7 0 1 0 0 4 7
+p304
+aVChuck Person SEA 02/15/2000 SEA vs. WAS W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 1 2 4
+p305
+aVGreg Foster SEA 02/15/2000 SEA vs. WAS W 12 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 6
+p306
+aVVin Baker SEA 02/15/2000 SEA vs. WAS W 22 11 3 4 75.0 0 0 - 5 6 83.3 2 6 8 2 3 0 0 2 24
+p307
+aVBrent Barry SEA 02/15/2000 SEA vs. WAS W 28 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 4 1 0 1 1 21
+p308
+aVJelani McCoy SEA 02/15/2000 SEA vs. WAS W 23 10 4 5 80.0 0 0 - 2 8 25.0 4 5 9 3 0 1 1 4 3
+p309
+aVShammond Williams SEA 02/15/2000 SEA vs. WAS W 26 12 4 11 36.4 3 4 75.0 1 2 50.0 0 1 1 3 2 0 4 2 9
+p310
+aVRuben Patterson SEA 02/09/2000 SEA @ DAL W 12 7 3 6 50.0 0 0 - 1 1 100.0 0 1 1 0 1 0 3 3 1
+p311
+aVShammond Williams SEA 02/09/2000 SEA @ DAL W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -7
+p312
+aVBrent Barry SEA 02/09/2000 SEA @ DAL W 40 17 6 12 50.0 4 6 66.7 1 1 100.0 0 8 8 8 2 0 1 4 24
+p313
+aVRashard Lewis SEA 02/09/2000 SEA @ DAL W 34 30 13 20 65.0 0 1 0.0 4 6 66.7 7 5 12 0 2 2 0 3 9
+p314
+aVHorace Grant SEA 02/09/2000 SEA @ DAL W 39 16 8 11 72.7 0 0 - 0 0 - 0 6 6 4 1 1 1 3 13
+p315
+aVVladimir Stepania SEA 02/09/2000 SEA @ DAL W 12 6 3 5 60.0 0 1 0.0 0 0 - 2 2 4 0 1 1 2 2 -4
+p316
+aVGary Payton SEA 02/09/2000 SEA @ DAL W 41 25 11 23 47.8 3 7 42.9 0 0 - 1 6 7 14 0 0 1 2 14
+p317
+aVJelani McCoy SEA 02/09/2000 SEA @ DAL W 8 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 1 0 0 1 1
+p318
+aVVin Baker SEA 02/09/2000 SEA @ DAL W 38 12 5 16 31.3 0 0 - 2 6 33.3 3 4 7 1 0 0 2 3 11
+p319
+aVEmanual Davis SEA 02/09/2000 SEA @ DAL W 12 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -7
+p320
+aVJelani McCoy SEA 02/08/2000 SEA @ SAS L 5 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 -2
+p321
+aVEmanual Davis SEA 02/08/2000 SEA @ SAS L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p322
+aVRuben Patterson SEA 02/08/2000 SEA @ SAS L 23 8 2 6 33.3 0 0 - 4 4 100.0 2 4 6 1 0 0 3 2 -1
+p323
+aVGary Payton SEA 02/08/2000 SEA @ SAS L 48 17 8 20 40.0 1 4 25.0 0 1 0.0 0 16 16 5 0 0 3 2 -2
+p324
+aVBrent Barry SEA 02/08/2000 SEA @ SAS L 40 12 4 10 40.0 4 6 66.7 0 0 - 1 1 2 1 1 0 2 2 6
+p325
+aVVladimir Stepania SEA 02/08/2000 SEA @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 2 3
+p326
+aVShammond Williams SEA 02/08/2000 SEA @ SAS L 24 8 3 9 33.3 1 4 25.0 1 2 50.0 0 4 4 1 1 0 0 3 1
+p327
+aVChuck Person SEA 02/08/2000 SEA @ SAS L 8 4 2 6 33.3 0 4 0.0 0 0 - 1 1 2 0 0 0 0 1 -2
+p328
+aVHorace Grant SEA 02/08/2000 SEA @ SAS L 37 3 1 9 11.1 0 0 - 1 2 50.0 2 3 5 5 0 1 0 3 0
+p329
+aVRashard Lewis SEA 02/08/2000 SEA @ SAS L 9 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 3 3 -4
+p330
+aVVin Baker SEA 02/08/2000 SEA @ SAS L 40 18 7 13 53.8 0 0 - 4 4 100.0 3 5 8 2 2 3 3 4 -3
+p331
+aVRuben Patterson SEA 02/06/2000 SEA @ PHX L 24 10 2 3 66.7 0 1 0.0 6 8 75.0 3 1 4 0 0 1 3 1 -10
+p332
+aVBrent Barry SEA 02/06/2000 SEA @ PHX L 39 14 5 12 41.7 4 9 44.4 0 0 - 1 4 5 1 3 0 3 4 -2
+p333
+aVHorace Grant SEA 02/06/2000 SEA @ PHX L 23 2 1 6 16.7 0 0 - 0 0 - 2 1 3 3 0 0 2 1 -6
+p334
+aVVladimir Stepania SEA 02/06/2000 SEA @ PHX L 14 3 0 5 0.0 0 0 - 3 4 75.0 1 0 1 0 1 0 1 0 -6
+p335
+aVVin Baker SEA 02/06/2000 SEA @ PHX L 30 8 2 8 25.0 0 0 - 4 4 100.0 3 1 4 1 0 2 5 3 -10
+p336
+aVJelani McCoy SEA 02/06/2000 SEA @ PHX L 17 6 3 5 60.0 0 0 - 0 0 - 3 1 4 1 0 1 1 5 -8
+p337
+aVRashard Lewis SEA 02/06/2000 SEA @ PHX L 24 21 8 13 61.5 2 4 50.0 3 3 100.0 5 3 8 0 1 3 0 2 1
+p338
+aVEmanual Davis SEA 02/06/2000 SEA @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 4
+p339
+aVGary Payton SEA 02/06/2000 SEA @ PHX L 41 13 4 18 22.2 2 8 25.0 3 4 75.0 0 7 7 7 5 0 3 2 -17
+p340
+aVChuck Person SEA 02/06/2000 SEA @ PHX L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p341
+aVShammond Williams SEA 02/06/2000 SEA @ PHX L 18 13 6 13 46.2 0 4 0.0 1 2 50.0 0 3 3 2 1 0 0 1 -1
+p342
+aVHorace Grant SEA 02/04/2000 SEA vs. PHX W 42 0 0 6 0.0 0 0 - 0 0 - 2 5 7 2 1 1 2 3 18
+p343
+aVGary Payton SEA 02/04/2000 SEA vs. PHX W 46 23 8 19 42.1 2 4 50.0 5 6 83.3 1 12 13 7 2 0 2 1 16
+p344
+aVJelani McCoy SEA 02/04/2000 SEA vs. PHX W 16 10 4 5 80.0 0 0 - 2 3 66.7 2 2 4 0 0 1 0 0 8
+p345
+aVBrent Barry SEA 02/04/2000 SEA vs. PHX W 38 17 6 9 66.7 4 6 66.7 1 1 100.0 0 3 3 6 3 0 3 4 14
+p346
+aVEmanual Davis SEA 02/04/2000 SEA vs. PHX W 13 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 0 -12
+p347
+aVGreg Foster SEA 02/04/2000 SEA vs. PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p348
+aVChuck Person SEA 02/04/2000 SEA vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p349
+aVVin Baker SEA 02/04/2000 SEA vs. PHX W 43 22 9 20 45.0 0 0 - 4 6 66.7 3 6 9 1 1 0 2 3 9
+p350
+aVRuben Patterson SEA 02/04/2000 SEA vs. PHX W 28 17 8 13 61.5 0 1 0.0 1 3 33.3 3 2 5 1 0 0 2 3 6
+p351
+aVRashard Lewis SEA 02/04/2000 SEA vs. PHX W 6 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 0 -8
+p352
+aVShammond Williams SEA 02/04/2000 SEA vs. PHX W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p353
+aVHorace Grant SEA 02/02/2000 SEA vs. CHI L 43 10 5 8 62.5 0 0 - 0 0 - 1 6 7 2 0 1 0 4 -1
+p354
+aVBrent Barry SEA 02/02/2000 SEA vs. CHI L 37 13 5 11 45.5 3 6 50.0 0 0 - 0 5 5 3 1 0 3 4 -7
+p355
+aVRashard Lewis SEA 02/02/2000 SEA vs. CHI L 14 5 2 4 50.0 0 1 0.0 1 2 50.0 0 1 1 2 1 0 0 2 -14
+p356
+aVJelani McCoy SEA 02/02/2000 SEA vs. CHI L 15 5 1 3 33.3 0 0 - 3 5 60.0 2 3 5 0 0 0 0 4 -8
+p357
+aVGary Payton SEA 02/02/2000 SEA vs. CHI L 44 12 5 18 27.8 1 7 14.3 1 1 100.0 0 1 1 10 2 0 5 3 -2
+p358
+aVShammond Williams SEA 02/02/2000 SEA vs. CHI L 8 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -7
+p359
+aVRuben Patterson SEA 02/02/2000 SEA vs. CHI L 26 11 5 6 83.3 0 0 - 1 3 33.3 3 2 5 1 3 0 2 5 14
+p360
+aVEmanual Davis SEA 02/02/2000 SEA vs. CHI L 14 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 1 2 1 4 1 -7
+p361
+aVVin Baker SEA 02/02/2000 SEA vs. CHI L 39 19 9 14 64.3 0 0 - 1 1 100.0 3 4 7 4 0 2 2 4 -3
+p362
+aVRashard Lewis SEA 02/01/2000 SEA @ UTA W 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 1 0 1 3 0
+p363
+aVJelani McCoy SEA 02/01/2000 SEA @ UTA W 18 2 1 3 33.3 0 0 - 0 1 0.0 1 0 1 0 0 2 0 2 19
+p364
+aVVin Baker SEA 02/01/2000 SEA @ UTA W 41 33 13 22 59.1 0 0 - 7 7 100.0 3 2 5 5 0 0 4 4 2
+p365
+aVShammond Williams SEA 02/01/2000 SEA @ UTA W 32 16 7 15 46.7 2 6 33.3 0 1 0.0 0 4 4 1 1 0 0 2 15
+p366
+aVGary Payton SEA 02/01/2000 SEA @ UTA W 44 35 11 17 64.7 6 9 66.7 7 8 87.5 0 5 5 7 2 0 2 3 7
+p367
+aVChuck Person SEA 02/01/2000 SEA @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p368
+aVHorace Grant SEA 02/01/2000 SEA @ UTA W 37 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 0 1 1 4 -3
+p369
+aVBrent Barry SEA 02/01/2000 SEA @ UTA W 35 8 2 8 25.0 2 7 28.6 2 2 100.0 2 6 8 5 0 2 2 4 4
+p370
+aVGreg Foster SEA 02/01/2000 SEA @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p371
+aVRuben Patterson SEA 02/01/2000 SEA @ UTA W 22 8 2 5 40.0 0 0 - 4 6 66.7 3 3 6 1 2 0 3 1 -4
+p372
+aVGary Payton SEA 01/29/2000 SEA vs. MIL L 48 29 9 23 39.1 4 10 40.0 7 8 87.5 0 6 6 12 1 0 0 0 -2
+p373
+aVVin Baker SEA 01/29/2000 SEA vs. MIL L 40 10 2 9 22.2 0 1 0.0 6 10 60.0 2 3 5 2 1 1 4 4 -5
+p374
+aVGreg Foster SEA 01/29/2000 SEA vs. MIL L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p375
+aVChuck Person SEA 01/29/2000 SEA vs. MIL L 20 3 1 7 14.3 1 7 14.3 0 0 - 0 5 5 1 1 0 1 4 4
+p376
+aVRashard Lewis SEA 01/29/2000 SEA vs. MIL L 19 7 2 4 50.0 1 2 50.0 2 2 100.0 1 2 3 1 1 1 2 2 4
+p377
+aVBrent Barry SEA 01/29/2000 SEA vs. MIL L 38 20 6 13 46.2 4 7 57.1 4 6 66.7 1 6 7 4 0 1 3 4 -6
+p378
+aVEmanual Davis SEA 01/29/2000 SEA vs. MIL L 11 3 1 3 33.3 1 2 50.0 0 1 0.0 1 0 1 3 0 0 0 3 4
+p379
+aVRuben Patterson SEA 01/29/2000 SEA vs. MIL L 38 22 7 12 58.3 2 3 66.7 6 8 75.0 4 5 9 0 6 0 3 2 0
+p380
+aVJelani McCoy SEA 01/29/2000 SEA vs. MIL L 12 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 2 0
+p381
+aVHorace Grant SEA 01/26/2000 SEA vs. NJN W 11 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 1 -9
+p382
+aVChuck Person SEA 01/26/2000 SEA vs. NJN W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 3
+p383
+aVRashard Lewis SEA 01/26/2000 SEA vs. NJN W 24 3 1 5 20.0 0 1 0.0 1 2 50.0 1 1 2 0 1 1 3 0 3
+p384
+aVGary Payton SEA 01/26/2000 SEA vs. NJN W 46 17 6 22 27.3 0 6 0.0 5 6 83.3 2 6 8 7 2 0 3 4 4
+p385
+aVEmanual Davis SEA 01/26/2000 SEA vs. NJN W 24 4 1 8 12.5 1 5 20.0 1 2 50.0 1 4 5 2 0 1 0 0 -3
+p386
+aVRuben Patterson SEA 01/26/2000 SEA vs. NJN W 29 17 7 9 77.8 0 0 - 3 4 75.0 5 3 8 2 0 1 1 4 4
+p387
+aVShammond Williams SEA 01/26/2000 SEA vs. NJN W 37 18 7 13 53.8 3 5 60.0 1 2 50.0 1 3 4 3 1 0 5 4 8
+p388
+aVVin Baker SEA 01/26/2000 SEA vs. NJN W 38 23 10 18 55.6 0 0 - 3 4 75.0 7 6 13 1 1 1 4 4 -3
+p389
+aVJelani McCoy SEA 01/26/2000 SEA vs. NJN W 23 5 2 6 33.3 0 0 - 1 2 50.0 2 9 11 1 1 5 0 3 10
+p390
+aVGreg Foster SEA 01/26/2000 SEA vs. NJN W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -2
+p391
+aVJelani McCoy SEA 01/24/2000 SEA @ NYK L 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -11
+p392
+aVVin Baker SEA 01/24/2000 SEA @ NYK L 44 21 8 18 44.4 0 1 0.0 5 11 45.5 2 10 12 1 0 1 2 3 -2
+p393
+aVEmanual Davis SEA 01/24/2000 SEA @ NYK L 18 11 4 8 50.0 1 1 100.0 2 3 66.7 1 6 7 2 0 0 1 0 0
+p394
+aVChuck Person SEA 01/24/2000 SEA @ NYK L 6 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 1 6
+p395
+aVRuben Patterson SEA 01/24/2000 SEA @ NYK L 26 10 2 4 50.0 0 0 - 6 8 75.0 3 2 5 1 0 0 3 3 -12
+p396
+aVRashard Lewis SEA 01/24/2000 SEA @ NYK L 11 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 1 0 1 1 -5
+p397
+aVShammond Williams SEA 01/24/2000 SEA @ NYK L 32 22 9 14 64.3 2 3 66.7 2 3 66.7 1 1 2 5 0 0 4 3 -7
+p398
+aVHorace Grant SEA 01/24/2000 SEA @ NYK L 39 9 4 5 80.0 0 0 - 1 2 50.0 0 7 7 2 0 1 0 3 -1
+p399
+aVBrent Barry SEA 01/24/2000 SEA @ NYK L 40 21 8 16 50.0 4 6 66.7 1 3 33.3 0 6 6 1 0 0 1 6 2
+p400
+aVGary Payton SEA 01/24/2000 SEA @ NYK L 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 0
+p401
+aVChuck Person SEA 01/23/2000 SEA @ TOR L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 1 3 -4
+p402
+aVHorace Grant SEA 01/23/2000 SEA @ TOR L 31 8 3 7 42.9 0 0 - 2 2 100.0 1 5 6 3 0 3 2 1 -1
+p403
+aVRashard Lewis SEA 01/23/2000 SEA @ TOR L 17 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 1 0 0 1 -8
+p404
+aVRuben Patterson SEA 01/23/2000 SEA @ TOR L 24 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -3
+p405
+aVEmanual Davis SEA 01/23/2000 SEA @ TOR L 20 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 3 1 0 1 2 -11
+p406
+aVShammond Williams SEA 01/23/2000 SEA @ TOR L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p407
+aVGary Payton SEA 01/23/2000 SEA @ TOR L 45 29 11 21 52.4 2 6 33.3 5 5 100.0 0 8 8 6 2 0 3 4 -14
+p408
+aVGreg Foster SEA 01/23/2000 SEA @ TOR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p409
+aVJelani McCoy SEA 01/23/2000 SEA @ TOR L 11 6 3 3 100.0 0 0 - 0 1 0.0 1 0 1 0 0 1 0 2 -1
+p410
+aVBrent Barry SEA 01/23/2000 SEA @ TOR L 39 9 3 9 33.3 2 4 50.0 1 1 100.0 0 5 5 2 0 0 0 5 -13
+p411
+aVVin Baker SEA 01/23/2000 SEA @ TOR L 35 11 4 12 33.3 0 0 - 3 4 75.0 1 5 6 0 0 1 1 2 -24
+p412
+aVRuben Patterson SEA 01/21/2000 SEA @ BOS L 19 8 3 5 60.0 0 0 - 2 4 50.0 0 1 1 1 0 0 1 2 -14
+p413
+aVVladimir Stepania SEA 01/21/2000 SEA @ BOS L 18 11 5 13 38.5 0 0 - 1 2 50.0 4 2 6 0 2 2 2 5 0
+p414
+aVEmanual Davis SEA 01/21/2000 SEA @ BOS L 22 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 4 2 0 0 3 -4
+p415
+aVJelani McCoy SEA 01/21/2000 SEA @ BOS L 25 10 3 7 42.9 0 0 - 4 6 66.7 2 5 7 1 1 1 3 2 -9
+p416
+aVChuck Person SEA 01/21/2000 SEA @ BOS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p417
+aVRashard Lewis SEA 01/21/2000 SEA @ BOS L 19 14 7 14 50.0 0 0 - 0 0 - 3 1 4 0 1 0 2 3 1
+p418
+aVVin Baker SEA 01/21/2000 SEA @ BOS L 25 19 7 15 46.7 0 0 - 5 5 100.0 3 4 7 1 0 1 4 2 -21
+p419
+aVGary Payton SEA 01/21/2000 SEA @ BOS L 34 13 5 16 31.3 0 3 0.0 3 5 60.0 1 8 9 5 3 0 2 0 -32
+p420
+aVBrent Barry SEA 01/21/2000 SEA @ BOS L 29 0 0 4 0.0 0 0 - 0 0 - 0 2 2 3 1 1 2 3 -21
+p421
+aVShammond Williams SEA 01/21/2000 SEA @ BOS L 21 3 1 8 12.5 0 2 0.0 1 1 100.0 1 0 1 2 1 0 0 1 -5
+p422
+aVHorace Grant SEA 01/21/2000 SEA @ BOS L 25 6 3 6 50.0 0 0 - 0 0 - 0 4 4 2 1 1 0 2 -19
+p423
+aVChuck Person SEA 01/20/2000 SEA @ MIL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p424
+aVRuben Patterson SEA 01/20/2000 SEA @ MIL W 29 16 6 8 75.0 1 1 100.0 3 6 50.0 4 3 7 2 1 2 1 2 5
+p425
+aVHorace Grant SEA 01/20/2000 SEA @ MIL W 35 4 2 8 25.0 0 0 - 0 0 - 2 5 7 1 1 0 1 3 -2
+p426
+aVGary Payton SEA 01/20/2000 SEA @ MIL W 44 22 9 21 42.9 2 9 22.2 2 2 100.0 0 10 10 7 1 0 0 3 12
+p427
+aVJelani McCoy SEA 01/20/2000 SEA @ MIL W 17 8 3 3 100.0 0 0 - 2 3 66.7 0 3 3 0 1 3 1 3 -4
+p428
+aVShammond Williams SEA 01/20/2000 SEA @ MIL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p429
+aVEmanual Davis SEA 01/20/2000 SEA @ MIL W 14 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 3 1 0 1 2 2
+p430
+aVVin Baker SEA 01/20/2000 SEA @ MIL W 41 31 10 21 47.6 0 0 - 11 12 91.7 2 3 5 6 0 1 1 3 11
+p431
+aVRashard Lewis SEA 01/20/2000 SEA @ MIL W 17 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 0 2 0 0 0 6
+p432
+aVBrent Barry SEA 01/20/2000 SEA @ MIL W 40 15 5 12 41.7 3 9 33.3 2 2 100.0 1 3 4 4 2 1 2 5 8
+p433
+aVChuck Person SEA 01/18/2000 SEA vs. CLE W 7 3 1 1 100.0 1 1 100.0 0 2 0.0 0 1 1 0 0 0 0 1 3
+p434
+aVJelani McCoy SEA 01/18/2000 SEA vs. CLE W 14 5 1 3 33.3 0 0 - 3 4 75.0 2 0 2 0 0 2 0 4 -2
+p435
+aVShammond Williams SEA 01/18/2000 SEA vs. CLE W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p436
+aVRashard Lewis SEA 01/18/2000 SEA vs. CLE W 28 8 4 6 66.7 0 1 0.0 0 0 - 0 4 4 1 2 1 0 2 14
+p437
+aVEmanual Davis SEA 01/18/2000 SEA vs. CLE W 15 0 0 4 0.0 0 1 0.0 0 0 - 1 5 6 4 1 0 0 1 -5
+p438
+aVBrent Barry SEA 01/18/2000 SEA vs. CLE W 39 21 7 11 63.6 3 6 50.0 4 4 100.0 1 4 5 7 0 0 5 2 20
+p439
+aVVladimir Stepania SEA 01/18/2000 SEA vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p440
+aVHorace Grant SEA 01/18/2000 SEA vs. CLE W 33 3 1 6 16.7 0 0 - 1 2 50.0 2 4 6 5 0 1 2 3 22
+p441
+aVRuben Patterson SEA 01/18/2000 SEA vs. CLE W 18 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 4
+p442
+aVVin Baker SEA 01/18/2000 SEA vs. CLE W 42 28 12 20 60.0 0 0 - 4 4 100.0 1 7 8 1 1 4 2 4 17
+p443
+aVGary Payton SEA 01/18/2000 SEA vs. CLE W 39 25 9 18 50.0 1 4 25.0 6 7 85.7 1 6 7 8 1 0 3 1 24
+p444
+aVGary Payton SEA 01/17/2000 SEA @ LAL W 43 36 14 27 51.9 5 10 50.0 3 5 60.0 0 6 6 7 0 0 4 2 7
+p445
+aVGreg Foster SEA 01/17/2000 SEA @ LAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -4
+p446
+aVHorace Grant SEA 01/17/2000 SEA @ LAL W 40 4 2 7 28.6 0 0 - 0 0 - 0 7 7 2 1 0 0 4 4
+p447
+aVRashard Lewis SEA 01/17/2000 SEA @ LAL W 17 7 2 4 50.0 0 2 0.0 3 4 75.0 0 1 1 0 0 1 0 1 5
+p448
+aVEmanual Davis SEA 01/17/2000 SEA @ LAL W 11 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 2 2 -1
+p449
+aVBrent Barry SEA 01/17/2000 SEA @ LAL W 42 17 5 8 62.5 3 6 50.0 4 4 100.0 2 5 7 2 4 1 2 3 -1
+p450
+aVVin Baker SEA 01/17/2000 SEA @ LAL W 41 3 1 8 12.5 0 0 - 1 4 25.0 3 10 13 4 0 0 8 2 -2
+p451
+aVRuben Patterson SEA 01/17/2000 SEA @ LAL W 29 15 6 11 54.5 0 0 - 3 3 100.0 0 0 0 0 0 0 2 3 -17
+p452
+aVChuck Person SEA 01/17/2000 SEA @ LAL W 14 0 0 5 0.0 0 5 0.0 0 0 - 1 1 2 0 1 0 1 1 14
+p453
+aVVin Baker SEA 01/14/2000 SEA vs. SAS W 38 23 8 17 47.1 0 0 - 7 8 87.5 4 5 9 1 1 0 1 6 7
+p454
+aVBrent Barry SEA 01/14/2000 SEA vs. SAS W 39 12 5 9 55.6 2 5 40.0 0 0 - 0 3 3 4 3 0 3 5 -1
+p455
+aVRuben Patterson SEA 01/14/2000 SEA vs. SAS W 30 15 5 9 55.6 0 0 - 5 10 50.0 4 1 5 3 1 0 1 1 17
+p456
+aVGary Payton SEA 01/14/2000 SEA vs. SAS W 45 25 9 26 34.6 4 7 57.1 3 6 50.0 1 7 8 8 3 0 0 1 12
+p457
+aVGreg Foster SEA 01/14/2000 SEA vs. SAS W 17 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -7
+p458
+aVEmanual Davis SEA 01/14/2000 SEA vs. SAS W 17 2 1 3 33.3 0 1 0.0 0 2 0.0 0 2 2 2 2 0 2 2 -5
+p459
+aVRashard Lewis SEA 01/14/2000 SEA vs. SAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p460
+aVHorace Grant SEA 01/14/2000 SEA vs. SAS W 35 2 1 3 33.3 0 0 - 0 0 - 4 5 9 6 1 3 0 4 12
+p461
+aVChuck Person SEA 01/14/2000 SEA vs. SAS W 16 6 2 6 33.3 2 5 40.0 0 0 - 0 2 2 0 0 0 1 1 1
+p462
+aVBrent Barry SEA 01/12/2000 SEA @ DEN W 43 21 6 10 60.0 5 6 83.3 4 4 100.0 1 6 7 8 0 1 4 3 6
+p463
+aVGary Payton SEA 01/12/2000 SEA @ DEN W 43 35 12 20 60.0 3 8 37.5 8 8 100.0 2 8 10 5 1 0 5 0 16
+p464
+aVRashard Lewis SEA 01/12/2000 SEA @ DEN W 15 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 0 0 0 0 2 -10
+p465
+aVEmanual Davis SEA 01/12/2000 SEA @ DEN W 18 10 4 5 80.0 2 2 100.0 0 0 - 0 1 1 2 2 0 1 0 7
+p466
+aVGreg Foster SEA 01/12/2000 SEA @ DEN W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 1
+p467
+aVHorace Grant SEA 01/12/2000 SEA @ DEN W 37 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 4 2 0 2 5 8
+p468
+aVVin Baker SEA 01/12/2000 SEA @ DEN W 43 13 4 14 28.6 0 0 - 5 5 100.0 0 5 5 6 0 0 4 3 7
+p469
+aVRuben Patterson SEA 01/12/2000 SEA @ DEN W 17 8 3 5 60.0 0 0 - 2 2 100.0 0 5 5 1 0 0 1 2 10
+p470
+aVChuck Person SEA 01/12/2000 SEA @ DEN W 9 6 2 4 50.0 1 3 33.3 1 2 50.0 0 1 1 1 1 0 1 1 5
+p471
+aVVladimir Stepania SEA 01/11/2000 SEA vs. PHX W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p472
+aVRashard Lewis SEA 01/11/2000 SEA vs. PHX W 24 12 4 7 57.1 3 5 60.0 1 2 50.0 2 4 6 0 0 1 3 2 10
+p473
+aVJelani McCoy SEA 01/11/2000 SEA vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p474
+aVChuck Person SEA 01/11/2000 SEA vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p475
+aVHorace Grant SEA 01/11/2000 SEA vs. PHX W 35 9 3 7 42.9 0 0 - 3 4 75.0 5 6 11 1 0 0 0 3 6
+p476
+aVGreg Foster SEA 01/11/2000 SEA vs. PHX W 27 10 4 10 40.0 0 3 0.0 2 2 100.0 2 4 6 3 0 0 1 2 15
+p477
+aVGary Payton SEA 01/11/2000 SEA vs. PHX W 44 23 10 21 47.6 2 5 40.0 1 3 33.3 0 4 4 13 0 0 1 4 18
+p478
+aVRuben Patterson SEA 01/11/2000 SEA vs. PHX W 27 17 4 6 66.7 0 0 - 9 9 100.0 0 3 3 2 2 0 1 1 -3
+p479
+aVVin Baker SEA 01/11/2000 SEA vs. PHX W 33 7 3 9 33.3 0 0 - 1 2 50.0 3 3 6 2 1 2 2 3 15
+p480
+aVEmanual Davis SEA 01/11/2000 SEA vs. PHX W 7 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p481
+aVBrent Barry SEA 01/11/2000 SEA vs. PHX W 40 21 8 12 66.7 3 5 60.0 2 2 100.0 0 5 5 3 1 1 2 0 19
+p482
+aVShammond Williams SEA 01/11/2000 SEA vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p483
+aVChuck Person SEA 01/09/2000 SEA @ GSW W 9 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 1 0 0 0 1 1
+p484
+aVRashard Lewis SEA 01/09/2000 SEA @ GSW W 35 19 9 15 60.0 1 2 50.0 0 0 - 4 5 9 1 2 4 1 5 9
+p485
+aVJelani McCoy SEA 01/09/2000 SEA @ GSW W 2 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 3 0 -3
+p486
+aVHorace Grant SEA 01/09/2000 SEA @ GSW W 41 9 4 7 57.1 0 0 - 1 2 50.0 1 8 9 4 1 0 1 4 2
+p487
+aVGreg Foster SEA 01/09/2000 SEA @ GSW W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p488
+aVRuben Patterson SEA 01/09/2000 SEA @ GSW W 14 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 2 1 0 2 3 -11
+p489
+aVBrent Barry SEA 01/09/2000 SEA @ GSW W 48 17 6 14 42.9 1 5 20.0 4 5 80.0 1 4 5 3 1 0 0 2 7
+p490
+aVVin Baker SEA 01/09/2000 SEA @ GSW W 48 30 10 18 55.6 0 0 - 10 15 66.7 5 13 18 2 0 1 7 2 1
+p491
+aVEmanual Davis SEA 01/09/2000 SEA @ GSW W 16 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 3 0 0 4 12
+p492
+aVGary Payton SEA 01/09/2000 SEA @ GSW W 46 14 4 19 21.1 2 7 28.6 4 4 100.0 1 7 8 12 2 1 6 4 0
+p493
+aVEmanual Davis SEA 01/08/2000 SEA vs. LAL L 35 18 7 12 58.3 4 6 66.7 0 0 - 1 3 4 1 1 0 2 3 7
+p494
+aVRashard Lewis SEA 01/08/2000 SEA vs. LAL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p495
+aVHorace Grant SEA 01/08/2000 SEA vs. LAL L 34 4 2 6 33.3 0 0 - 0 0 - 6 4 10 0 1 1 0 2 -6
+p496
+aVBrent Barry SEA 01/08/2000 SEA vs. LAL L 22 1 0 6 0.0 0 3 0.0 1 2 50.0 3 4 7 1 0 0 2 5 -12
+p497
+aVGreg Foster SEA 01/08/2000 SEA vs. LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 5
+p498
+aVChuck Person SEA 01/08/2000 SEA vs. LAL L 11 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 0 0 0 1 2 -9
+p499
+aVRuben Patterson SEA 01/08/2000 SEA vs. LAL L 34 21 5 10 50.0 0 0 - 11 13 84.6 7 3 10 1 1 2 4 3 -22
+p500
+aVGary Payton SEA 01/08/2000 SEA vs. LAL L 48 23 9 18 50.0 3 7 42.9 2 3 66.7 0 4 4 9 2 0 3 0 -10
+p501
+aVShammond Williams SEA 01/08/2000 SEA vs. LAL L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p502
+aVVin Baker SEA 01/08/2000 SEA vs. LAL L 45 31 12 26 46.2 0 0 - 7 11 63.6 6 4 10 4 3 0 3 1 -12
+p503
+aVGreg Foster SEA 01/05/2000 SEA @ SAS W 20 11 5 7 71.4 1 2 50.0 0 0 - 1 3 4 1 1 0 0 1 12
+p504
+aVChuck Person SEA 01/05/2000 SEA @ SAS W 19 9 3 7 42.9 3 7 42.9 0 0 - 0 1 1 1 0 1 0 1 10
+p505
+aVEmanual Davis SEA 01/05/2000 SEA @ SAS W 7 5 1 2 50.0 1 2 50.0 2 2 100.0 0 2 2 0 0 0 0 1 -5
+p506
+aVBrent Barry SEA 01/05/2000 SEA @ SAS W 39 13 5 11 45.5 2 8 25.0 1 1 100.0 1 6 7 5 1 1 2 2 -5
+p507
+aVVin Baker SEA 01/05/2000 SEA @ SAS W 38 10 4 16 25.0 0 0 - 2 4 50.0 2 6 8 2 0 2 2 3 -9
+p508
+aVRashard Lewis SEA 01/05/2000 SEA @ SAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p509
+aVRuben Patterson SEA 01/05/2000 SEA @ SAS W 25 11 5 7 71.4 0 0 - 1 4 25.0 4 0 4 4 0 0 0 1 -2
+p510
+aVGary Payton SEA 01/05/2000 SEA @ SAS W 46 24 11 23 47.8 1 4 25.0 1 3 33.3 1 5 6 10 1 0 2 2 3
+p511
+aVVernon Maxwell SEA 01/05/2000 SEA @ SAS W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 8
+p512
+aVHorace Grant SEA 01/05/2000 SEA @ SAS W 38 16 8 12 66.7 0 1 0.0 0 3 0.0 2 6 8 3 3 2 2 4 3
+p513
+aVGreg Foster SEA 01/04/2000 SEA @ HOU W 15 7 3 6 50.0 1 2 50.0 0 0 - 1 3 4 0 0 0 0 1 -5
+p514
+aVRuben Patterson SEA 01/04/2000 SEA @ HOU W 29 13 6 11 54.5 0 0 - 1 3 33.3 5 1 6 3 2 0 2 2 2
+p515
+aVGary Payton SEA 01/04/2000 SEA @ HOU W 43 29 12 28 42.9 1 8 12.5 4 4 100.0 2 3 5 10 0 0 4 1 6
+p516
+aVBrent Barry SEA 01/04/2000 SEA @ HOU W 31 8 3 5 60.0 1 3 33.3 1 2 50.0 1 5 6 0 2 0 0 5 2
+p517
+aVRashard Lewis SEA 01/04/2000 SEA @ HOU W 11 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 -6
+p518
+aVVernon Maxwell SEA 01/04/2000 SEA @ HOU W 31 5 1 11 9.1 1 7 14.3 2 2 100.0 0 1 1 5 4 0 2 1 14
+p519
+aVHorace Grant SEA 01/04/2000 SEA @ HOU W 39 18 8 11 72.7 0 0 - 2 2 100.0 2 5 7 4 1 0 0 2 9
+p520
+aVEmanual Davis SEA 01/04/2000 SEA @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p521
+aVVin Baker SEA 01/04/2000 SEA @ HOU W 39 19 8 14 57.1 0 0 - 3 6 50.0 3 15 18 4 1 0 1 5 15
+p522
+aVBrent Barry SEA 12/29/1999 SEA vs. SAC L 42 24 7 14 50.0 4 6 66.7 6 6 100.0 1 8 9 5 5 0 3 3 -1
+p523
+aVGreg Foster SEA 12/29/1999 SEA vs. SAC L 13 5 2 5 40.0 1 2 50.0 0 0 - 1 3 4 1 0 0 0 2 -1
+p524
+aVVin Baker SEA 12/29/1999 SEA vs. SAC L 43 22 8 14 57.1 0 0 - 6 6 100.0 2 2 4 3 0 3 4 5 -3
+p525
+aVLazaro Borrell SEA 12/29/1999 SEA vs. SAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p526
+aVRashard Lewis SEA 12/29/1999 SEA vs. SAC L 17 11 3 6 50.0 1 2 50.0 4 4 100.0 1 0 1 3 1 0 2 4 -4
+p527
+aVRuben Patterson SEA 12/29/1999 SEA vs. SAC L 6 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -13
+p528
+aVChuck Person SEA 12/29/1999 SEA vs. SAC L 27 7 3 9 33.3 1 5 20.0 0 0 - 1 6 7 4 0 0 2 3 6
+p529
+aVGary Payton SEA 12/29/1999 SEA vs. SAC L 39 25 11 30 36.7 1 9 11.1 2 2 100.0 0 6 6 3 1 0 1 5 -7
+p530
+aVEmanual Davis SEA 12/29/1999 SEA vs. SAC L 12 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p531
+aVHorace Grant SEA 12/29/1999 SEA vs. SAC L 38 3 1 5 20.0 0 0 - 1 2 50.0 5 5 10 2 0 1 1 2 -12
+p532
+aVRuben Patterson SEA 12/28/1999 SEA @ POR L 9 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 2 3 0 5 2 -8
+p533
+aVRashard Lewis SEA 12/28/1999 SEA @ POR L 28 10 5 10 50.0 0 2 0.0 0 0 - 4 4 8 2 1 0 2 3 0
+p534
+aVLazaro Borrell SEA 12/28/1999 SEA @ POR L 13 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -4
+p535
+aVGreg Foster SEA 12/28/1999 SEA @ POR L 18 1 0 4 0.0 0 1 0.0 1 2 50.0 0 5 5 3 1 0 0 1 1
+p536
+aVVernon Maxwell SEA 12/28/1999 SEA @ POR L 27 15 5 12 41.7 2 7 28.6 3 8 37.5 0 2 2 1 0 0 0 3 -2
+p537
+aVVin Baker SEA 12/28/1999 SEA @ POR L 36 16 8 15 53.3 0 0 - 0 0 - 3 4 7 1 1 0 4 4 -2
+p538
+aVChuck Person SEA 12/28/1999 SEA @ POR L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 3
+p539
+aVBrent Barry SEA 12/28/1999 SEA @ POR L 25 10 4 13 30.8 1 5 20.0 1 2 50.0 2 2 4 2 2 1 1 5 -4
+p540
+aVHorace Grant SEA 12/28/1999 SEA @ POR L 39 6 3 8 37.5 0 0 - 0 0 - 2 4 6 1 1 0 1 2 -12
+p541
+aVGary Payton SEA 12/28/1999 SEA @ POR L 41 24 7 17 41.2 5 11 45.5 5 8 62.5 2 4 6 13 1 0 1 3 3
+p542
+aVHorace Grant SEA 12/26/1999 SEA vs. PHI L 36 3 0 5 0.0 0 1 0.0 3 6 50.0 2 10 12 4 0 0 1 3 -17
+p543
+aVVernon Maxwell SEA 12/26/1999 SEA vs. PHI L 13 7 2 10 20.0 0 3 0.0 3 3 100.0 0 0 0 0 1 0 0 1 2
+p544
+aVRuben Patterson SEA 12/26/1999 SEA vs. PHI L 25 9 2 6 33.3 0 0 - 5 5 100.0 1 5 6 0 0 0 2 3 -8
+p545
+aVBrent Barry SEA 12/26/1999 SEA vs. PHI L 35 12 4 8 50.0 0 2 0.0 4 5 80.0 1 1 2 0 0 0 2 3 -13
+p546
+aVGary Payton SEA 12/26/1999 SEA vs. PHI L 48 32 12 26 46.2 6 14 42.9 2 4 50.0 1 8 9 9 2 0 3 5 -6
+p547
+aVEmanual Davis SEA 12/26/1999 SEA vs. PHI L 10 0 0 4 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 0 2 3
+p548
+aVVin Baker SEA 12/26/1999 SEA vs. PHI L 42 10 2 11 18.2 0 0 - 6 8 75.0 4 2 6 3 0 1 6 5 -6
+p549
+aVRashard Lewis SEA 12/26/1999 SEA vs. PHI L 19 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 0 0 2 0 2 8
+p550
+aVChuck Person SEA 12/26/1999 SEA vs. PHI L 12 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 0 0 0 0 2 7
+p551
+aVGreg Foster SEA 12/23/1999 SEA @ MIN L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 3 -1
+p552
+aVHorace Grant SEA 12/23/1999 SEA @ MIN L 42 12 5 11 45.5 0 0 - 2 2 100.0 0 11 11 2 0 1 1 3 -12
+p553
+aVVin Baker SEA 12/23/1999 SEA @ MIN L 35 14 7 15 46.7 0 0 - 0 0 - 3 6 9 2 0 3 0 5 -4
+p554
+aVBrent Barry SEA 12/23/1999 SEA @ MIN L 33 13 5 9 55.6 3 4 75.0 0 0 - 1 4 5 3 0 0 5 3 -5
+p555
+aVVernon Maxwell SEA 12/23/1999 SEA @ MIN L 21 15 6 14 42.9 1 2 50.0 2 5 40.0 0 2 2 1 0 0 0 1 2
+p556
+aVRuben Patterson SEA 12/23/1999 SEA @ MIN L 26 6 1 4 25.0 1 1 100.0 3 4 75.0 1 1 2 2 1 1 1 2 -11
+p557
+aVGary Payton SEA 12/23/1999 SEA @ MIN L 48 33 11 27 40.7 7 17 41.2 4 4 100.0 1 5 6 8 1 1 2 2 -7
+p558
+aVRashard Lewis SEA 12/23/1999 SEA @ MIN L 23 9 3 5 60.0 1 2 50.0 2 4 50.0 3 1 4 1 0 1 0 0 3
+p559
+aVVin Baker SEA 12/21/1999 SEA @ IND L 39 24 10 18 55.6 0 0 - 4 6 66.7 1 5 6 2 0 0 6 4 -12
+p560
+aVEmanual Davis SEA 12/21/1999 SEA @ IND L 6 3 1 2 50.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 0 0 7
+p561
+aVRashard Lewis SEA 12/21/1999 SEA @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p562
+aVGary Payton SEA 12/21/1999 SEA @ IND L 45 28 10 17 58.8 3 6 50.0 5 6 83.3 1 3 4 12 0 0 1 1 -13
+p563
+aVChuck Person SEA 12/21/1999 SEA @ IND L 9 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 1 -4
+p564
+aVHorace Grant SEA 12/21/1999 SEA @ IND L 40 10 3 9 33.3 0 0 - 4 4 100.0 2 8 10 2 0 1 0 2 -5
+p565
+aVBrent Barry SEA 12/21/1999 SEA @ IND L 36 12 5 11 45.5 1 4 25.0 1 1 100.0 4 9 13 2 1 1 1 1 -4
+p566
+aVRuben Patterson SEA 12/21/1999 SEA @ IND L 18 2 1 7 14.3 0 0 - 0 0 - 3 2 5 2 0 0 2 2 -10
+p567
+aVJelani McCoy SEA 12/21/1999 SEA @ IND L 11 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 5
+p568
+aVVernon Maxwell SEA 12/21/1999 SEA @ IND L 30 17 6 15 40.0 3 5 60.0 2 2 100.0 1 1 2 0 2 0 1 1 -7
+p569
+aVBrent Barry SEA 12/20/1999 SEA @ CHI W 30 13 4 7 57.1 2 4 50.0 3 4 75.0 2 6 8 6 1 0 1 1 -1
+p570
+aVGary Payton SEA 12/20/1999 SEA @ CHI W 43 22 9 17 52.9 4 7 57.1 0 0 - 0 6 6 13 2 0 3 4 18
+p571
+aVRuben Patterson SEA 12/20/1999 SEA @ CHI W 34 16 8 15 53.3 0 0 - 0 0 - 0 5 5 0 4 0 3 2 13
+p572
+aVVin Baker SEA 12/20/1999 SEA @ CHI W 39 25 7 12 58.3 0 0 - 11 13 84.6 1 3 4 3 0 0 3 5 3
+p573
+aVVernon Maxwell SEA 12/20/1999 SEA @ CHI W 22 9 3 8 37.5 1 3 33.3 2 2 100.0 1 3 4 3 1 0 1 0 12
+p574
+aVEmanual Davis SEA 12/20/1999 SEA @ CHI W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p575
+aVJelani McCoy SEA 12/20/1999 SEA @ CHI W 8 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 0 0 0 0 3 0
+p576
+aVVladimir Stepania SEA 12/20/1999 SEA @ CHI W 6 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 1 0 1 0 3
+p577
+aVRashard Lewis SEA 12/20/1999 SEA @ CHI W 14 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 2 -6
+p578
+aVHorace Grant SEA 12/20/1999 SEA @ CHI W 39 2 1 7 14.3 0 0 - 0 0 - 1 9 10 1 0 1 0 2 9
+p579
+aVRashard Lewis SEA 12/18/1999 SEA vs. VAN W 21 11 2 3 66.7 2 2 100.0 5 5 100.0 3 4 7 0 0 0 0 3 12
+p580
+aVJelani McCoy SEA 12/18/1999 SEA vs. VAN W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -3
+p581
+aVVernon Maxwell SEA 12/18/1999 SEA vs. VAN W 17 12 3 9 33.3 2 4 50.0 4 4 100.0 0 2 2 4 1 1 1 3 11
+p582
+aVGary Payton SEA 12/18/1999 SEA vs. VAN W 35 26 8 15 53.3 2 6 33.3 8 9 88.9 2 0 2 8 2 1 1 1 18
+p583
+aVVladimir Stepania SEA 12/18/1999 SEA vs. VAN W 15 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 0 0 1 1 5 -2
+p584
+aVVin Baker SEA 12/18/1999 SEA vs. VAN W 37 15 5 14 35.7 0 0 - 5 8 62.5 2 1 3 2 3 1 3 5 35
+p585
+aVRuben Patterson SEA 12/18/1999 SEA vs. VAN W 31 14 5 10 50.0 0 0 - 4 4 100.0 3 8 11 3 2 0 1 3 23
+p586
+aVEmanual Davis SEA 12/18/1999 SEA vs. VAN W 15 8 4 5 80.0 0 1 0.0 0 0 - 0 3 3 2 0 0 2 4 6
+p587
+aVHorace Grant SEA 12/18/1999 SEA vs. VAN W 30 8 4 8 50.0 0 0 - 0 0 - 0 7 7 1 1 0 2 4 3
+p588
+aVBrent Barry SEA 12/18/1999 SEA vs. VAN W 31 12 3 5 60.0 1 3 33.3 5 5 100.0 0 4 4 8 0 0 1 2 12
+p589
+aVVernon Maxwell SEA 12/16/1999 SEA vs. POR L 20 9 3 10 30.0 3 6 50.0 0 0 - 0 1 1 0 0 1 2 0 -16
+p590
+aVJelani McCoy SEA 12/16/1999 SEA vs. POR L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -12
+p591
+aVVin Baker SEA 12/16/1999 SEA vs. POR L 40 8 4 15 26.7 0 0 - 0 0 - 4 4 8 3 0 0 4 5 -20
+p592
+aVVladimir Stepania SEA 12/16/1999 SEA vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 0 0 0
+p593
+aVGary Payton SEA 12/16/1999 SEA vs. POR L 44 22 8 20 40.0 2 8 25.0 4 6 66.7 0 3 3 4 1 0 3 0 -25
+p594
+aVGreg Foster SEA 12/16/1999 SEA vs. POR L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p595
+aVRashard Lewis SEA 12/16/1999 SEA vs. POR L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p596
+aVEmanual Davis SEA 12/16/1999 SEA vs. POR L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -1
+p597
+aVBrent Barry SEA 12/16/1999 SEA vs. POR L 35 13 5 9 55.6 3 5 60.0 0 0 - 0 3 3 5 4 0 2 3 -9
+p598
+aVChuck Person SEA 12/16/1999 SEA vs. POR L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -14
+p599
+aVHorace Grant SEA 12/16/1999 SEA vs. POR L 40 10 5 10 50.0 0 0 - 0 0 - 4 15 19 5 0 0 2 1 -17
+p600
+aVRuben Patterson SEA 12/16/1999 SEA vs. POR L 28 12 5 10 50.0 0 0 - 2 4 50.0 2 3 5 1 1 0 1 1 -11
+p601
+aVEmanual Davis SEA 12/14/1999 SEA vs. DEN W 12 4 0 0 - 0 0 - 4 6 66.7 0 3 3 3 3 0 2 0 -1
+p602
+aVVladimir Stepania SEA 12/14/1999 SEA vs. DEN W 7 4 1 3 33.3 0 0 - 2 7 28.6 1 0 1 0 0 1 1 4 -3
+p603
+aVChuck Person SEA 12/14/1999 SEA vs. DEN W 9 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 1 0 0 1 1 6
+p604
+aVVin Baker SEA 12/14/1999 SEA vs. DEN W 35 13 5 16 31.3 0 0 - 3 3 100.0 3 6 9 3 0 1 1 4 26
+p605
+aVBrent Barry SEA 12/14/1999 SEA vs. DEN W 25 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 5 4 0 2 1 19
+p606
+aVVernon Maxwell SEA 12/14/1999 SEA vs. DEN W 14 3 1 7 14.3 1 5 20.0 0 0 - 0 2 2 2 0 0 1 0 9
+p607
+aVGary Payton SEA 12/14/1999 SEA vs. DEN W 36 25 10 16 62.5 2 7 28.6 3 3 100.0 1 2 3 7 4 0 3 1 26
+p608
+aVRuben Patterson SEA 12/14/1999 SEA vs. DEN W 27 16 7 8 87.5 0 0 - 2 3 66.7 1 5 6 3 1 1 2 1 9
+p609
+aVGreg Foster SEA 12/14/1999 SEA vs. DEN W 9 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 0 0 3 2 2
+p610
+aVHorace Grant SEA 12/14/1999 SEA vs. DEN W 28 6 3 6 50.0 0 0 - 0 0 - 1 7 8 4 0 2 1 1 17
+p611
+aVJelani McCoy SEA 12/14/1999 SEA vs. DEN W 17 9 4 6 66.7 0 0 - 1 6 16.7 3 5 8 1 0 2 2 3 7
+p612
+aVRashard Lewis SEA 12/14/1999 SEA vs. DEN W 21 13 6 10 60.0 1 1 100.0 0 0 - 1 4 5 0 0 1 1 1 8
+p613
+aVRashard Lewis SEA 12/11/1999 SEA vs. MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p614
+aVVin Baker SEA 12/11/1999 SEA vs. MIA W 39 25 11 18 61.1 0 0 - 3 3 100.0 2 7 9 3 0 1 2 4 -4
+p615
+aVGreg Foster SEA 12/11/1999 SEA vs. MIA W 23 0 0 5 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 3 10
+p616
+aVGary Payton SEA 12/11/1999 SEA vs. MIA W 48 26 10 21 47.6 3 7 42.9 3 4 75.0 0 5 5 6 2 0 3 1 4
+p617
+aVChuck Person SEA 12/11/1999 SEA vs. MIA W 20 8 2 12 16.7 2 10 20.0 2 2 100.0 0 1 1 1 0 0 0 4 9
+p618
+aVEmanual Davis SEA 12/11/1999 SEA vs. MIA W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -10
+p619
+aVRuben Patterson SEA 12/11/1999 SEA vs. MIA W 28 7 1 2 50.0 0 1 0.0 5 5 100.0 2 4 6 3 1 1 4 2 7
+p620
+aVJelani McCoy SEA 12/11/1999 SEA vs. MIA W 10 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -2
+p621
+aVBrent Barry SEA 12/11/1999 SEA vs. MIA W 32 6 2 6 33.3 1 3 33.3 1 2 50.0 1 4 5 3 3 1 0 1 0
+p622
+aVVernon Maxwell SEA 12/11/1999 SEA vs. MIA W 28 16 4 13 30.8 1 6 16.7 7 9 77.8 0 0 0 1 2 1 3 3 4
+p623
+aVEmanual Davis SEA 12/10/1999 SEA @ UTA L 13 6 2 5 40.0 1 3 33.3 1 1 100.0 0 1 1 0 1 0 1 4 -4
+p624
+aVHorace Grant SEA 12/10/1999 SEA @ UTA L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p625
+aVVin Baker SEA 12/10/1999 SEA @ UTA L 38 11 5 15 33.3 0 0 - 1 2 50.0 3 7 10 1 1 1 2 3 -12
+p626
+aVRuben Patterson SEA 12/10/1999 SEA @ UTA L 21 2 0 5 0.0 0 0 - 2 2 100.0 2 0 2 2 1 0 0 2 -14
+p627
+aVJelani McCoy SEA 12/10/1999 SEA @ UTA L 19 6 2 6 33.3 0 0 - 2 3 66.7 0 1 1 1 0 1 0 1 -14
+p628
+aVGary Payton SEA 12/10/1999 SEA @ UTA L 41 22 8 14 57.1 5 8 62.5 1 2 50.0 0 7 7 10 1 1 6 5 -15
+p629
+aVLazaro Borrell SEA 12/10/1999 SEA @ UTA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p630
+aVVernon Maxwell SEA 12/10/1999 SEA @ UTA L 22 9 3 9 33.3 0 4 0.0 3 4 75.0 1 0 1 0 1 0 5 1 -13
+p631
+aVVladimir Stepania SEA 12/10/1999 SEA @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p632
+aVBrent Barry SEA 12/10/1999 SEA @ UTA L 34 15 5 9 55.6 1 4 25.0 4 7 57.1 0 2 2 1 0 0 3 4 -4
+p633
+aVRashard Lewis SEA 12/10/1999 SEA @ UTA L 20 7 3 6 50.0 0 1 0.0 1 3 33.3 2 3 5 0 0 0 3 3 -1
+p634
+aVGreg Foster SEA 12/10/1999 SEA @ UTA L 16 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 1 0 1 1 3 -9
+p635
+aVGary Payton SEA 12/08/1999 SEA vs. MIN W 47 36 12 24 50.0 7 11 63.6 5 5 100.0 2 6 8 10 1 1 2 0 12
+p636
+aVRuben Patterson SEA 12/08/1999 SEA vs. MIN W 24 7 3 5 60.0 0 0 - 1 2 50.0 6 5 11 5 1 0 2 2 20
+p637
+aVEmanual Davis SEA 12/08/1999 SEA vs. MIN W 17 13 4 8 50.0 2 5 40.0 3 4 75.0 1 1 2 1 1 0 1 1 3
+p638
+aVVernon Maxwell SEA 12/08/1999 SEA vs. MIN W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p639
+aVLazaro Borrell SEA 12/08/1999 SEA vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p640
+aVVin Baker SEA 12/08/1999 SEA vs. MIN W 37 22 10 18 55.6 0 0 - 2 2 100.0 7 6 13 2 1 0 3 4 9
+p641
+aVGreg Foster SEA 12/08/1999 SEA vs. MIN W 34 7 3 10 30.0 0 0 - 1 2 50.0 0 3 3 1 1 1 0 4 11
+p642
+aVRashard Lewis SEA 12/08/1999 SEA vs. MIN W 19 5 1 6 16.7 0 1 0.0 3 4 75.0 1 1 2 2 2 1 1 2 4
+p643
+aVVladimir Stepania SEA 12/08/1999 SEA vs. MIN W 7 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 4
+p644
+aVBrent Barry SEA 12/08/1999 SEA vs. MIN W 38 10 4 13 30.8 2 8 25.0 0 0 - 0 7 7 3 1 0 1 1 12
+p645
+aVJelani McCoy SEA 12/08/1999 SEA vs. MIN W 11 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 4 -1
+p646
+aVEmanual Davis SEA 12/05/1999 SEA vs. CHH L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -1
+p647
+aVRuben Patterson SEA 12/05/1999 SEA vs. CHH L 26 6 3 9 33.3 0 0 - 0 2 0.0 0 8 8 3 1 1 1 2 1
+p648
+aVVin Baker SEA 12/05/1999 SEA vs. CHH L 34 12 4 10 40.0 0 0 - 4 5 80.0 1 3 4 1 0 2 2 4 -11
+p649
+aVGreg Foster SEA 12/05/1999 SEA vs. CHH L 15 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 0 1 1 2 -18
+p650
+aVVernon Maxwell SEA 12/05/1999 SEA vs. CHH L 27 12 4 15 26.7 3 9 33.3 1 4 25.0 2 2 4 0 1 0 1 4 -21
+p651
+aVJelani McCoy SEA 12/05/1999 SEA vs. CHH L 20 12 6 8 75.0 0 0 - 0 0 - 1 3 4 1 0 0 0 5 -9
+p652
+aVLazaro Borrell SEA 12/05/1999 SEA vs. CHH L 3 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -2
+p653
+aVVladimir Stepania SEA 12/05/1999 SEA vs. CHH L 21 2 0 5 0.0 0 2 0.0 2 2 100.0 2 3 5 1 1 1 1 2 -9
+p654
+aVBrent Barry SEA 12/05/1999 SEA vs. CHH L 28 8 3 8 37.5 1 5 20.0 1 1 100.0 0 3 3 3 0 1 0 0 -9
+p655
+aVGary Payton SEA 12/05/1999 SEA vs. CHH L 45 17 4 14 28.6 3 9 33.3 6 8 75.0 1 4 5 8 1 0 3 1 -20
+p656
+aVRashard Lewis SEA 12/05/1999 SEA vs. CHH L 17 10 5 8 62.5 0 1 0.0 0 0 - 4 1 5 1 1 0 0 1 -11
+p657
+aVRashard Lewis SEA 12/04/1999 SEA @ LAC W 23 12 6 9 66.7 0 0 - 0 0 - 2 6 8 0 0 0 2 5 5
+p658
+aVGreg Foster SEA 12/04/1999 SEA @ LAC W 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 1 0 4 0
+p659
+aVHorace Grant SEA 12/04/1999 SEA @ LAC W 30 14 5 11 45.5 0 0 - 4 4 100.0 3 3 6 6 1 2 0 1 14
+p660
+aVRuben Patterson SEA 12/04/1999 SEA @ LAC W 30 12 4 8 50.0 0 0 - 4 6 66.7 2 3 5 0 3 0 4 4 4
+p661
+aVVernon Maxwell SEA 12/04/1999 SEA @ LAC W 12 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 0 1 2
+p662
+aVVin Baker SEA 12/04/1999 SEA @ LAC W 34 16 4 10 40.0 0 0 - 8 11 72.7 2 3 5 3 1 1 3 2 12
+p663
+aVEmanual Davis SEA 12/04/1999 SEA @ LAC W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -5
+p664
+aVVladimir Stepania SEA 12/04/1999 SEA @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p665
+aVFred Vinson SEA 12/04/1999 SEA @ LAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p666
+aVBrent Barry SEA 12/04/1999 SEA @ LAC W 35 14 5 9 55.6 3 4 75.0 1 1 100.0 0 7 7 4 3 1 3 2 19
+p667
+aVGary Payton SEA 12/04/1999 SEA @ LAC W 35 19 7 12 58.3 1 4 25.0 4 5 80.0 1 3 4 3 0 0 5 3 12
+p668
+aVJelani McCoy SEA 12/04/1999 SEA @ LAC W 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 2
+p669
+aVGreg Foster SEA 12/02/1999 SEA @ GSW W 8 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -2
+p670
+aVVin Baker SEA 12/02/1999 SEA @ GSW W 36 25 9 20 45.0 0 0 - 7 11 63.6 3 10 13 1 0 0 4 6 14
+p671
+aVBrent Barry SEA 12/02/1999 SEA @ GSW W 32 12 5 8 62.5 2 5 40.0 0 0 - 0 4 4 5 0 0 3 2 3
+p672
+aVRashard Lewis SEA 12/02/1999 SEA @ GSW W 21 10 4 6 66.7 0 0 - 2 2 100.0 3 3 6 2 0 1 0 4 -6
+p673
+aVRuben Patterson SEA 12/02/1999 SEA @ GSW W 32 16 6 12 50.0 0 0 - 4 7 57.1 4 5 9 1 2 3 2 3 15
+p674
+aVHorace Grant SEA 12/02/1999 SEA @ GSW W 41 4 2 10 20.0 0 0 - 0 0 - 3 6 9 3 2 2 0 3 13
+p675
+aVJelani McCoy SEA 12/02/1999 SEA @ GSW W 10 5 1 2 50.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 0 -5
+p676
+aVGary Payton SEA 12/02/1999 SEA @ GSW W 39 27 9 16 56.3 4 5 80.0 5 6 83.3 2 3 5 8 1 0 5 4 13
+p677
+aVEmanual Davis SEA 12/02/1999 SEA @ GSW W 21 16 6 8 75.0 2 2 100.0 2 2 100.0 0 3 3 3 0 0 2 1 0
+p678
+aVBrent Barry SEA 11/30/1999 SEA vs. LAL L 28 4 2 2 100.0 0 0 - 0 0 - 0 4 4 3 0 0 0 1 -7
+p679
+aVRashard Lewis SEA 11/30/1999 SEA vs. LAL L 9 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 2 1 1 -7
+p680
+aVChuck Person SEA 11/30/1999 SEA vs. LAL L 11 4 2 4 50.0 0 2 0.0 0 0 - 1 2 3 2 1 1 1 3 -8
+p681
+aVShammond Williams SEA 11/30/1999 SEA vs. LAL L 14 0 0 5 0.0 0 0 - 0 2 0.0 1 1 2 3 1 0 3 2 -15
+p682
+aVHorace Grant SEA 11/30/1999 SEA vs. LAL L 30 8 4 7 57.1 0 0 - 0 2 0.0 0 1 1 2 0 0 0 3 -18
+p683
+aVVladimir Stepania SEA 11/30/1999 SEA vs. LAL L 6 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 2 -1
+p684
+aVGreg Foster SEA 11/30/1999 SEA vs. LAL L 13 6 3 7 42.9 0 1 0.0 0 0 - 2 3 5 0 0 0 1 2 -6
+p685
+aVVernon Maxwell SEA 11/30/1999 SEA vs. LAL L 25 5 1 10 10.0 0 4 0.0 3 4 75.0 0 3 3 2 0 1 1 1 -18
+p686
+aVVin Baker SEA 11/30/1999 SEA vs. LAL L 35 12 5 14 35.7 0 0 - 2 2 100.0 3 7 10 0 0 0 1 2 -15
+p687
+aVGary Payton SEA 11/30/1999 SEA vs. LAL L 32 12 5 14 35.7 1 2 50.0 1 2 50.0 2 4 6 5 2 0 1 0 -16
+p688
+aVRuben Patterson SEA 11/30/1999 SEA vs. LAL L 31 19 6 10 60.0 0 0 - 7 10 70.0 2 1 3 0 1 0 2 4 -8
+p689
+aVEmanual Davis SEA 11/30/1999 SEA vs. LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p690
+aVChuck Person SEA 11/28/1999 SEA vs. IND W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 3
+p691
+aVGary Payton SEA 11/28/1999 SEA vs. IND W 41 31 10 19 52.6 2 4 50.0 9 10 90.0 1 7 8 8 1 0 5 2 28
+p692
+aVShammond Williams SEA 11/28/1999 SEA vs. IND W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p693
+aVVernon Maxwell SEA 11/28/1999 SEA vs. IND W 8 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 3 -7
+p694
+aVBrent Barry SEA 11/28/1999 SEA vs. IND W 34 9 3 8 37.5 1 5 20.0 2 2 100.0 0 6 6 6 2 0 1 1 12
+p695
+aVVin Baker SEA 11/28/1999 SEA vs. IND W 36 11 4 14 28.6 0 0 - 3 4 75.0 2 6 8 3 0 0 3 6 3
+p696
+aVHorace Grant SEA 11/28/1999 SEA vs. IND W 40 23 10 17 58.8 0 0 - 3 3 100.0 5 6 11 3 1 0 0 3 28
+p697
+aVGreg Foster SEA 11/28/1999 SEA vs. IND W 16 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 0 0 1 2 0 -12
+p698
+aVEmanual Davis SEA 11/28/1999 SEA vs. IND W 6 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -7
+p699
+aVRuben Patterson SEA 11/28/1999 SEA vs. IND W 38 18 8 13 61.5 0 1 0.0 2 2 100.0 3 5 8 4 3 2 2 4 23
+p700
+aVRashard Lewis SEA 11/28/1999 SEA vs. IND W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -12
+p701
+aVHorace Grant SEA 11/26/1999 SEA vs. LAC W 42 5 2 6 33.3 0 0 - 1 2 50.0 3 5 8 2 2 0 1 5 4
+p702
+aVGary Payton SEA 11/26/1999 SEA vs. LAC W 40 20 8 15 53.3 1 6 16.7 3 6 50.0 1 5 6 11 3 0 4 3 4
+p703
+aVVernon Maxwell SEA 11/26/1999 SEA vs. LAC W 31 13 5 18 27.8 2 9 22.2 1 2 50.0 0 4 4 2 2 0 1 3 -4
+p704
+aVRuben Patterson SEA 11/26/1999 SEA vs. LAC W 24 9 4 10 40.0 0 0 - 1 1 100.0 3 3 6 1 1 0 2 2 8
+p705
+aVRashard Lewis SEA 11/26/1999 SEA vs. LAC W 19 11 5 7 71.4 0 0 - 1 3 33.3 4 3 7 0 0 1 3 2 4
+p706
+aVVin Baker SEA 11/26/1999 SEA vs. LAC W 38 24 10 13 76.9 0 0 - 4 9 44.4 1 5 6 2 2 2 6 4 14
+p707
+aVBrent Barry SEA 11/26/1999 SEA vs. LAC W 36 14 4 8 50.0 4 6 66.7 2 2 100.0 0 3 3 7 1 0 2 2 2
+p708
+aVGreg Foster SEA 11/26/1999 SEA vs. LAC W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p709
+aVChuck Person SEA 11/21/1999 SEA @ PHX L 15 5 2 8 25.0 1 5 20.0 0 0 - 0 1 1 1 0 0 0 3 -12
+p710
+aVEmanual Davis SEA 11/21/1999 SEA @ PHX L 23 2 1 8 12.5 0 3 0.0 0 0 - 1 3 4 3 1 0 2 3 -16
+p711
+aVVin Baker SEA 11/21/1999 SEA @ PHX L 40 13 6 16 37.5 0 0 - 1 3 33.3 7 7 14 2 2 1 2 2 -9
+p712
+aVGreg Foster SEA 11/21/1999 SEA @ PHX L 13 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 2
+p713
+aVRashard Lewis SEA 11/21/1999 SEA @ PHX L 7 8 4 5 80.0 0 0 - 0 1 0.0 3 2 5 1 0 0 1 0 -1
+p714
+aVHorace Grant SEA 11/21/1999 SEA @ PHX L 35 10 5 9 55.6 0 0 - 0 0 - 2 8 10 1 3 1 1 1 -3
+p715
+aVRuben Patterson SEA 11/21/1999 SEA @ PHX L 31 13 5 9 55.6 0 0 - 3 7 42.9 4 3 7 1 0 3 2 5 -6
+p716
+aVGary Payton SEA 11/21/1999 SEA @ PHX L 42 11 3 14 21.4 1 6 16.7 4 4 100.0 1 6 7 9 1 1 6 0 -5
+p717
+aVVernon Maxwell SEA 11/21/1999 SEA @ PHX L 34 20 7 20 35.0 4 7 57.1 2 4 50.0 0 2 2 2 3 0 4 0 -15
+p718
+aVRashard Lewis SEA 11/20/1999 SEA vs. HOU W 11 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -7
+p719
+aVRuben Patterson SEA 11/20/1999 SEA vs. HOU W 31 14 5 6 83.3 0 0 - 4 6 66.7 4 5 9 3 1 1 0 2 10
+p720
+aVGary Payton SEA 11/20/1999 SEA vs. HOU W 37 26 9 24 37.5 1 2 50.0 7 8 87.5 1 4 5 10 3 0 5 3 7
+p721
+aVVernon Maxwell SEA 11/20/1999 SEA vs. HOU W 31 24 8 18 44.4 3 5 60.0 5 5 100.0 1 1 2 3 3 0 1 2 5
+p722
+aVChuck Person SEA 11/20/1999 SEA vs. HOU W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p723
+aVBrent Barry SEA 11/20/1999 SEA vs. HOU W 21 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 2 1 2 0 2 1
+p724
+aVGreg Foster SEA 11/20/1999 SEA vs. HOU W 34 17 7 14 50.0 0 0 - 3 6 50.0 0 7 7 0 0 1 3 5 -1
+p725
+aVHorace Grant SEA 11/20/1999 SEA vs. HOU W 39 12 5 8 62.5 0 0 - 2 3 66.7 3 6 9 4 1 0 0 3 3
+p726
+aVEmanual Davis SEA 11/20/1999 SEA vs. HOU W 12 7 3 4 75.0 0 1 0.0 1 2 50.0 0 1 1 2 2 0 1 0 -5
+p727
+aVVladimir Stepania SEA 11/20/1999 SEA vs. HOU W 14 6 3 4 75.0 0 0 - 0 1 0.0 2 0 2 0 0 1 1 3 4
+p728
+aVRuben Patterson SEA 11/18/1999 SEA @ VAN W 20 6 2 6 33.3 0 0 - 2 4 50.0 3 2 5 0 2 0 0 2 -6
+p729
+aVVernon Maxwell SEA 11/18/1999 SEA @ VAN W 30 27 9 17 52.9 4 8 50.0 5 7 71.4 0 1 1 1 2 0 1 3 -2
+p730
+aVHorace Grant SEA 11/18/1999 SEA @ VAN W 41 12 4 12 33.3 0 0 - 4 4 100.0 4 5 9 3 2 1 2 4 11
+p731
+aVGreg Foster SEA 11/18/1999 SEA @ VAN W 15 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -12
+p732
+aVRashard Lewis SEA 11/18/1999 SEA @ VAN W 7 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -6
+p733
+aVChuck Person SEA 11/18/1999 SEA @ VAN W 15 0 0 4 0.0 0 4 0.0 0 0 - 0 2 2 1 0 0 0 6 1
+p734
+aVGary Payton SEA 11/18/1999 SEA @ VAN W 40 24 7 17 41.2 2 5 40.0 8 11 72.7 2 7 9 10 1 0 1 5 8
+p735
+aVBrent Barry SEA 11/18/1999 SEA @ VAN W 37 19 5 11 45.5 4 8 50.0 5 6 83.3 1 3 4 2 2 0 0 0 15
+p736
+aVEmanual Davis SEA 11/18/1999 SEA @ VAN W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 3 1 0 0 1 6
+p737
+aVVin Baker SEA 11/18/1999 SEA @ VAN W 29 12 5 8 62.5 0 0 - 2 3 66.7 2 1 3 0 1 0 3 3 -5
+p738
+aVGary Payton SEA 11/17/1999 SEA vs. GSW W 39 21 9 16 56.3 2 4 50.0 1 2 50.0 0 1 1 11 4 0 4 2 9
+p739
+aVVernon Maxwell SEA 11/17/1999 SEA vs. GSW W 24 12 5 10 50.0 0 2 0.0 2 2 100.0 1 1 2 5 2 0 2 2 1
+p740
+aVEmanual Davis SEA 11/17/1999 SEA vs. GSW W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -6
+p741
+aVVin Baker SEA 11/17/1999 SEA vs. GSW W 41 23 10 19 52.6 0 0 - 3 4 75.0 1 5 6 2 1 0 2 5 6
+p742
+aVGreg Foster SEA 11/17/1999 SEA vs. GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p743
+aVRashard Lewis SEA 11/17/1999 SEA vs. GSW W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -6
+p744
+aVBrent Barry SEA 11/17/1999 SEA vs. GSW W 31 13 5 9 55.6 0 3 0.0 3 5 60.0 0 5 5 7 2 1 1 2 8
+p745
+aVVladimir Stepania SEA 11/17/1999 SEA vs. GSW W 5 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p746
+aVHorace Grant SEA 11/17/1999 SEA vs. GSW W 39 16 7 10 70.0 0 0 - 2 2 100.0 2 5 7 0 1 0 0 3 9
+p747
+aVChuck Person SEA 11/17/1999 SEA vs. GSW W 11 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 2 -1
+p748
+aVRuben Patterson SEA 11/17/1999 SEA vs. GSW W 37 20 7 9 77.8 0 0 - 6 7 85.7 4 5 9 5 2 1 3 2 3
+p749
+aVRuben Patterson SEA 11/15/1999 SEA @ NJN W 31 13 5 7 71.4 0 0 - 3 3 100.0 4 7 11 0 0 4 3 2 6
+p750
+aVVernon Maxwell SEA 11/15/1999 SEA @ NJN W 29 21 5 13 38.5 1 8 12.5 10 11 90.9 0 3 3 2 1 0 1 1 11
+p751
+aVEmanual Davis SEA 11/15/1999 SEA @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p752
+aVVin Baker SEA 11/15/1999 SEA @ NJN W 35 21 9 14 64.3 0 0 - 3 4 75.0 3 1 4 1 0 1 5 4 -4
+p753
+aVLazaro Borrell SEA 11/15/1999 SEA @ NJN W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p754
+aVBrent Barry SEA 11/15/1999 SEA @ NJN W 30 13 5 9 55.6 0 4 0.0 3 4 75.0 2 2 4 5 1 0 1 3 1
+p755
+aVHorace Grant SEA 11/15/1999 SEA @ NJN W 42 10 5 9 55.6 0 0 - 0 0 - 3 7 10 3 0 0 5 3 16
+p756
+aVRashard Lewis SEA 11/15/1999 SEA @ NJN W 9 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 1 0 1 3 0
+p757
+aVGary Payton SEA 11/15/1999 SEA @ NJN W 46 16 4 14 28.6 1 5 20.0 7 13 53.8 2 9 11 9 2 0 4 2 8
+p758
+aVGreg Foster SEA 11/15/1999 SEA @ NJN W 12 5 2 4 50.0 0 0 - 1 1 100.0 0 3 3 1 0 1 1 1 9
+p759
+aVVladimir Stepania SEA 11/15/1999 SEA @ NJN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p760
+aVVin Baker SEA 11/13/1999 SEA @ DET L 37 12 4 11 36.4 0 0 - 4 6 66.7 6 4 10 1 0 1 3 3 -1
+p761
+aVEmanual Davis SEA 11/13/1999 SEA @ DET L 13 6 2 4 50.0 2 4 50.0 0 0 - 0 3 3 1 1 1 1 1 3
+p762
+aVRashard Lewis SEA 11/13/1999 SEA @ DET L 16 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 2 0 1 0 1 6
+p763
+aVVernon Maxwell SEA 11/13/1999 SEA @ DET L 22 7 3 11 27.3 1 6 16.7 0 2 0.0 0 1 1 3 0 0 1 4 -3
+p764
+aVRuben Patterson SEA 11/13/1999 SEA @ DET L 25 16 6 10 60.0 0 0 - 4 9 44.4 4 3 7 0 0 0 4 4 -17
+p765
+aVJelani McCoy SEA 11/13/1999 SEA @ DET L 11 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 3 1 2 -2
+p766
+aVGreg Foster SEA 11/13/1999 SEA @ DET L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p767
+aVBrent Barry SEA 11/13/1999 SEA @ DET L 26 11 4 9 44.4 2 7 28.6 1 3 33.3 1 3 4 0 0 0 3 5 -18
+p768
+aVHorace Grant SEA 11/13/1999 SEA @ DET L 37 11 4 13 30.8 0 0 - 3 3 100.0 1 4 5 4 0 1 1 5 -3
+p769
+aVGary Payton SEA 11/13/1999 SEA @ DET L 46 30 11 23 47.8 2 8 25.0 6 6 100.0 0 7 7 8 5 0 2 4 -4
+p770
+aVVladimir Stepania SEA 11/13/1999 SEA @ DET L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 0 3
+p771
+aVRashard Lewis SEA 11/11/1999 SEA @ CLE W 14 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -10
+p772
+aVLazaro Borrell SEA 11/11/1999 SEA @ CLE W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p773
+aVJelani McCoy SEA 11/11/1999 SEA @ CLE W 9 4 0 1 0.0 0 0 - 4 6 66.7 4 0 4 0 0 1 1 2 -6
+p774
+aVVladimir Stepania SEA 11/11/1999 SEA @ CLE W 8 3 1 3 33.3 0 0 - 1 3 33.3 2 3 5 1 0 0 0 1 -6
+p775
+aVVernon Maxwell SEA 11/11/1999 SEA @ CLE W 32 10 4 16 25.0 0 4 0.0 2 4 50.0 1 3 4 5 1 2 1 1 -8
+p776
+aVShammond Williams SEA 11/11/1999 SEA @ CLE W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p777
+aVHorace Grant SEA 11/11/1999 SEA @ CLE W 40 8 4 8 50.0 0 0 - 0 0 - 0 10 10 4 0 1 0 3 14
+p778
+aVVin Baker SEA 11/11/1999 SEA @ CLE W 37 24 9 17 52.9 0 0 - 6 9 66.7 5 8 13 1 0 0 0 5 16
+p779
+aVRuben Patterson SEA 11/11/1999 SEA @ CLE W 25 10 5 11 45.5 0 0 - 0 0 - 3 4 7 1 0 0 0 2 20
+p780
+aVBrent Barry SEA 11/11/1999 SEA @ CLE W 35 17 6 11 54.5 4 7 57.1 1 1 100.0 0 0 0 5 0 1 2 5 6
+p781
+aVGary Payton SEA 11/11/1999 SEA @ CLE W 40 27 10 22 45.5 4 10 40.0 3 4 75.0 1 5 6 9 2 0 7 1 6
+p782
+aVGary Payton SEA 11/10/1999 SEA @ WAS W 36 20 9 20 45.0 2 8 25.0 0 2 0.0 3 4 7 17 1 0 2 1 11
+p783
+aVRashard Lewis SEA 11/10/1999 SEA @ WAS W 21 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 3 3
+p784
+aVHorace Grant SEA 11/10/1999 SEA @ WAS W 32 12 6 10 60.0 0 0 - 0 0 - 1 7 8 0 2 0 2 2 11
+p785
+aVBrent Barry SEA 11/10/1999 SEA @ WAS W 30 13 5 8 62.5 3 6 50.0 0 0 - 0 2 2 3 3 0 2 1 18
+p786
+aVRuben Patterson SEA 11/10/1999 SEA @ WAS W 26 14 5 10 50.0 0 0 - 4 4 100.0 2 3 5 1 0 1 2 2 8
+p787
+aVVernon Maxwell SEA 11/10/1999 SEA @ WAS W 26 24 9 15 60.0 4 8 50.0 2 2 100.0 1 0 1 3 0 0 3 1 11
+p788
+aVFred Vinson SEA 11/10/1999 SEA @ WAS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p789
+aVGreg Foster SEA 11/10/1999 SEA @ WAS W 8 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -5
+p790
+aVShammond Williams SEA 11/10/1999 SEA @ WAS W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p791
+aVVin Baker SEA 11/10/1999 SEA @ WAS W 36 15 6 11 54.5 0 0 - 3 5 60.0 1 5 6 3 0 1 2 2 10
+p792
+aVJelani McCoy SEA 11/10/1999 SEA @ WAS W 18 3 1 2 50.0 0 0 - 1 2 50.0 0 5 5 0 0 2 1 2 11
+p793
+aVRuben Patterson SEA 11/08/1999 SEA @ PHI L 31 22 7 13 53.8 0 0 - 8 13 61.5 7 2 9 3 0 0 3 2 -11
+p794
+aVVin Baker SEA 11/08/1999 SEA @ PHI L 29 11 5 11 45.5 0 0 - 1 3 33.3 2 5 7 1 1 2 0 3 -14
+p795
+aVRashard Lewis SEA 11/08/1999 SEA @ PHI L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 1
+p796
+aVVernon Maxwell SEA 11/08/1999 SEA @ PHI L 26 11 4 15 26.7 1 6 16.7 2 4 50.0 0 2 2 1 0 0 0 5 -12
+p797
+aVBrent Barry SEA 11/08/1999 SEA @ PHI L 40 11 4 10 40.0 2 7 28.6 1 1 100.0 2 7 9 3 3 0 0 3 -10
+p798
+aVShammond Williams SEA 11/08/1999 SEA @ PHI L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -1
+p799
+aVGary Payton SEA 11/08/1999 SEA @ PHI L 43 28 10 19 52.6 4 8 50.0 4 6 66.7 2 4 6 4 1 1 6 2 -17
+p800
+aVFred Vinson SEA 11/08/1999 SEA @ PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p801
+aVHorace Grant SEA 11/08/1999 SEA @ PHI L 33 5 2 7 28.6 0 0 - 1 2 50.0 2 3 5 5 0 1 4 1 -9
+p802
+aVJelani McCoy SEA 11/08/1999 SEA @ PHI L 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -12
+p803
+aVVladimir Stepania SEA 11/08/1999 SEA @ PHI L 6 4 2 2 100.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 1 -9
+p804
+aVGary Payton SEA 11/06/1999 SEA vs. UTA W 40 22 9 20 45.0 1 6 16.7 3 3 100.0 0 6 6 7 2 0 1 2 7
+p805
+aVRashard Lewis SEA 11/06/1999 SEA vs. UTA W 9 0 0 0 - 0 0 - 0 0 - 0 5 5 0 0 0 1 0 2
+p806
+aVHorace Grant SEA 11/06/1999 SEA vs. UTA W 41 11 5 10 50.0 0 0 - 1 2 50.0 4 4 8 2 2 1 1 4 4
+p807
+aVJelani McCoy SEA 11/06/1999 SEA vs. UTA W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 1 4 -5
+p808
+aVShammond Williams SEA 11/06/1999 SEA vs. UTA W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p809
+aVRuben Patterson SEA 11/06/1999 SEA vs. UTA W 35 21 9 11 81.8 1 1 100.0 2 5 40.0 2 1 3 3 3 2 2 2 10
+p810
+aVBrent Barry SEA 11/06/1999 SEA vs. UTA W 28 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 8 1 0 2 4 9
+p811
+aVVernon Maxwell SEA 11/06/1999 SEA vs. UTA W 28 18 6 12 50.0 2 4 50.0 4 6 66.7 1 2 3 2 0 0 1 2 -9
+p812
+aVVin Baker SEA 11/06/1999 SEA vs. UTA W 40 20 9 20 45.0 0 1 0.0 2 4 50.0 3 3 6 1 1 0 1 1 11
+p813
+aVShammond Williams SEA 11/04/1999 SEA vs. DAL W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 0 1
+p814
+aVBrent Barry SEA 11/04/1999 SEA vs. DAL W 28 6 3 6 50.0 0 3 0.0 0 0 - 0 8 8 3 1 0 1 4 10
+p815
+aVRuben Patterson SEA 11/04/1999 SEA vs. DAL W 27 17 6 11 54.5 0 0 - 5 6 83.3 2 2 4 0 1 1 2 2 -2
+p816
+aVGary Payton SEA 11/04/1999 SEA vs. DAL W 40 10 3 15 20.0 2 6 33.3 2 2 100.0 5 3 8 13 3 0 4 3 8
+p817
+aVVin Baker SEA 11/04/1999 SEA vs. DAL W 39 22 11 22 50.0 0 0 - 0 0 - 4 9 13 5 1 2 1 2 8
+p818
+aVHorace Grant SEA 11/04/1999 SEA vs. DAL W 36 14 7 12 58.3 0 0 - 0 0 - 5 6 11 3 1 1 0 2 10
+p819
+aVJelani McCoy SEA 11/04/1999 SEA vs. DAL W 14 6 3 8 37.5 0 0 - 0 0 - 3 1 4 0 1 0 1 1 3
+p820
+aVVernon Maxwell SEA 11/04/1999 SEA vs. DAL W 31 22 7 16 43.8 3 8 37.5 5 6 83.3 1 1 2 3 0 0 0 1 -2
+p821
+aVRashard Lewis SEA 11/04/1999 SEA vs. DAL W 16 9 2 7 28.6 0 1 0.0 5 6 83.3 2 4 6 1 1 0 1 3 4
+p822
+aVVladimir Stepania SEA 11/04/1999 SEA vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p823
+aVFred Vinson SEA 11/04/1999 SEA vs. DAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 9
+p824
+aVVernon Maxwell SEA 11/02/1999 SEA @ LAC W 28 29 8 16 50.0 4 8 50.0 9 9 100.0 0 2 2 1 0 0 2 3 11
+p825
+aVHorace Grant SEA 11/02/1999 SEA @ LAC W 37 6 3 12 25.0 0 1 0.0 0 0 - 4 9 13 1 0 2 1 2 6
+p826
+aVJelani McCoy SEA 11/02/1999 SEA @ LAC W 8 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 2 4 1
+p827
+aVRuben Patterson SEA 11/02/1999 SEA @ LAC W 26 12 3 8 37.5 0 0 - 6 8 75.0 7 2 9 1 0 0 0 2 7
+p828
+aVVin Baker SEA 11/02/1999 SEA @ LAC W 42 17 8 19 42.1 0 0 - 1 2 50.0 4 8 12 3 1 1 2 3 11
+p829
+aVBrent Barry SEA 11/02/1999 SEA @ LAC W 30 9 3 8 37.5 1 5 20.0 2 2 100.0 0 6 6 3 4 0 2 1 1
+p830
+aVShammond Williams SEA 11/02/1999 SEA @ LAC W 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 2 0 0 0 0 9
+p831
+aVRashard Lewis SEA 11/02/1999 SEA @ LAC W 15 4 1 6 16.7 1 1 100.0 1 2 50.0 2 0 2 1 0 0 0 2 12
+p832
+aVGreg Foster SEA 11/02/1999 SEA @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p833
+aVFred Vinson SEA 11/02/1999 SEA @ LAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p834
+aVGary Payton SEA 11/02/1999 SEA @ LAC W 43 22 9 20 45.0 1 5 20.0 3 7 42.9 1 5 6 13 3 0 2 3 6
+p835
+a.

@@ -1,0 +1,118 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLamar Odom LAL 05/02/2007 LAL @ PHX L 38 33 13 21 61.9 1 1 100.0 6 9 66.7 5 5 10 2 1 1 1 6 -10
+p2
+aVJordan Farmar LAL 05/02/2007 LAL @ PHX L 26 11 4 6 66.7 0 1 0.0 3 4 75.0 0 5 5 2 3 0 1 2 8
+p3
+aVRonny Turiaf LAL 05/02/2007 LAL @ PHX L 26 12 4 10 40.0 0 0 - 4 6 66.7 6 4 10 1 2 0 0 4 -8
+p4
+aVKwame Brown LAL 05/02/2007 LAL @ PHX L 21 4 2 4 50.0 0 0 - 0 1 0.0 2 5 7 0 1 0 2 3 -3
+p5
+aVSmush Parker LAL 05/02/2007 LAL @ PHX L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -6
+p6
+aVAndrew Bynum LAL 05/02/2007 LAL @ PHX L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 1
+p7
+aVKobe Bryant LAL 05/02/2007 LAL @ PHX L 46 34 13 33 39.4 2 8 25.0 6 7 85.7 0 4 4 1 1 0 6 2 -1
+p8
+aVSasha Vujacic LAL 05/02/2007 LAL @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p9
+aVShammond Williams LAL 05/02/2007 LAL @ PHX L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -19
+p10
+aVMaurice Evans LAL 05/02/2007 LAL @ PHX L 18 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p11
+aVLuke Walton LAL 05/02/2007 LAL @ PHX L 25 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 0 1 1 2 6 0
+p12
+aVBrian Cook LAL 05/02/2007 LAL @ PHX L 8 6 2 3 66.7 1 2 50.0 1 1 100.0 0 1 1 0 0 1 0 4 -1
+p13
+aVKobe Bryant LAL 04/29/2007 LAL vs. PHX L 46 31 12 25 48.0 1 5 20.0 6 6 100.0 0 7 7 9 2 1 6 2 -9
+p14
+aVSasha Vujacic LAL 04/29/2007 LAL vs. PHX L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p15
+aVSmush Parker LAL 04/29/2007 LAL vs. PHX L 20 9 2 5 40.0 1 3 33.3 4 4 100.0 2 0 2 0 0 0 1 2 -3
+p16
+aVRonny Turiaf LAL 04/29/2007 LAL vs. PHX L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -2
+p17
+aVMaurice Evans LAL 04/29/2007 LAL vs. PHX L 19 11 4 8 50.0 3 4 75.0 0 0 - 0 2 2 2 1 0 0 2 -4
+p18
+aVLamar Odom LAL 04/29/2007 LAL vs. PHX L 36 19 8 19 42.1 1 5 20.0 2 6 33.3 2 11 13 5 0 1 2 3 -13
+p19
+aVKwame Brown LAL 04/29/2007 LAL vs. PHX L 29 9 4 6 66.7 0 0 - 1 1 100.0 3 1 4 0 0 1 2 5 -14
+p20
+aVBrian Cook LAL 04/29/2007 LAL vs. PHX L 7 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 6
+p21
+aVJordan Farmar LAL 04/29/2007 LAL vs. PHX L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 2 -8
+p22
+aVAndrew Bynum LAL 04/29/2007 LAL vs. PHX L 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 2 0 2 -3
+p23
+aVShammond Williams LAL 04/29/2007 LAL vs. PHX L 20 7 3 6 50.0 1 3 33.3 0 0 - 1 0 1 2 0 0 0 1 1
+p24
+aVLuke Walton LAL 04/29/2007 LAL vs. PHX L 25 10 4 11 36.4 2 5 40.0 0 0 - 1 1 2 2 2 0 7 2 -12
+p25
+aVKobe Bryant LAL 04/26/2007 LAL vs. PHX W 45 45 15 26 57.7 2 3 66.7 13 13 100.0 0 6 6 6 1 1 5 3 1
+p26
+aVAndrew Bynum LAL 04/26/2007 LAL vs. PHX W 9 3 0 2 0.0 0 0 - 3 6 50.0 2 1 3 0 0 0 0 0 1
+p27
+aVJordan Farmar LAL 04/26/2007 LAL vs. PHX W 23 2 0 2 0.0 0 1 0.0 2 2 100.0 1 2 3 0 1 1 1 0 -10
+p28
+aVKwame Brown LAL 04/26/2007 LAL vs. PHX W 36 19 8 14 57.1 0 0 - 3 5 60.0 4 2 6 0 0 2 3 1 9
+p29
+aVSmush Parker LAL 04/26/2007 LAL vs. PHX W 17 0 0 4 0.0 0 2 0.0 0 0 - 2 0 2 1 1 1 0 2 5
+p30
+aVBrian Cook LAL 04/26/2007 LAL vs. PHX W 12 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 8
+p31
+aVLuke Walton LAL 04/26/2007 LAL vs. PHX W 23 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 2 1 0 1 2 0
+p32
+aVLamar Odom LAL 04/26/2007 LAL vs. PHX W 46 18 8 17 47.1 1 3 33.3 1 2 50.0 6 10 16 2 0 2 1 2 2
+p33
+aVShammond Williams LAL 04/26/2007 LAL vs. PHX W 24 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 3 0 0 1 2 12
+p34
+aVMaurice Evans LAL 04/26/2007 LAL vs. PHX W 6 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 2
+p35
+aVLuke Walton LAL 04/24/2007 LAL @ PHX L 22 9 2 8 25.0 2 4 50.0 3 4 75.0 3 3 6 3 3 0 4 1 -17
+p36
+aVKobe Bryant LAL 04/24/2007 LAL @ PHX L 34 15 5 13 38.5 1 4 25.0 4 4 100.0 1 3 4 5 1 0 3 0 -23
+p37
+aVLamar Odom LAL 04/24/2007 LAL @ PHX L 32 10 4 12 33.3 0 1 0.0 2 5 40.0 5 5 10 0 1 1 3 3 -21
+p38
+aVBrian Cook LAL 04/24/2007 LAL @ PHX L 18 7 2 8 25.0 1 2 50.0 2 2 100.0 1 2 3 0 0 0 2 2 -11
+p39
+aVMaurice Evans LAL 04/24/2007 LAL @ PHX L 23 10 4 9 44.4 2 5 40.0 0 0 - 1 0 1 0 1 0 0 2 -9
+p40
+aVSmush Parker LAL 04/24/2007 LAL @ PHX L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p41
+aVKwame Brown LAL 04/24/2007 LAL @ PHX L 18 7 3 6 50.0 0 0 - 1 2 50.0 0 4 4 0 0 1 1 4 -17
+p42
+aVSasha Vujacic LAL 04/24/2007 LAL @ PHX L 20 7 3 6 50.0 1 3 33.3 0 0 - 1 0 1 2 0 0 1 2 -6
+p43
+aVJordan Farmar LAL 04/24/2007 LAL @ PHX L 21 10 4 8 50.0 1 3 33.3 1 1 100.0 0 1 1 3 0 0 1 1 -13
+p44
+aVAndrew Bynum LAL 04/24/2007 LAL @ PHX L 18 9 4 7 57.1 0 0 - 1 2 50.0 5 7 12 0 0 0 0 2 -4
+p45
+aVRonny Turiaf LAL 04/24/2007 LAL @ PHX L 10 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 0 0 0 0 1 -3
+p46
+aVShammond Williams LAL 04/24/2007 LAL @ PHX L 19 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 2 0 1 0 2 -12
+p47
+aVMaurice Evans LAL 04/22/2007 LAL @ PHX L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -5
+p48
+aVSmush Parker LAL 04/22/2007 LAL @ PHX L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 2 0 1 1 -2
+p49
+aVJordan Farmar LAL 04/22/2007 LAL @ PHX L 32 9 4 9 44.4 1 4 25.0 0 0 - 0 2 2 2 2 0 1 4 -2
+p50
+aVLamar Odom LAL 04/22/2007 LAL @ PHX L 40 17 8 16 50.0 0 1 0.0 1 2 50.0 2 14 16 2 0 1 3 3 -12
+p51
+aVAndrew Bynum LAL 04/22/2007 LAL @ PHX L 12 6 3 4 75.0 0 0 - 0 2 0.0 0 3 3 0 0 0 1 2 -8
+p52
+aVLuke Walton LAL 04/22/2007 LAL @ PHX L 33 10 5 8 62.5 0 0 - 0 0 - 3 3 6 6 0 0 1 2 -3
+p53
+aVRonny Turiaf LAL 04/22/2007 LAL @ PHX L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p54
+aVKobe Bryant LAL 04/22/2007 LAL @ PHX L 43 39 15 33 45.5 4 8 50.0 5 7 71.4 0 5 5 1 0 0 2 3 -13
+p55
+aVKwame Brown LAL 04/22/2007 LAL @ PHX L 29 4 2 6 33.3 0 0 - 0 0 - 4 3 7 1 0 0 1 3 9
+p56
+aVSasha Vujacic LAL 04/22/2007 LAL @ PHX L 12 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 2 2 1
+p57
+aVBrian Cook LAL 04/22/2007 LAL @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 4
+p58
+a.

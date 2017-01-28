@@ -1,0 +1,1682 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJeff McInnis CLE 04/14/2004 CLE @ NYK W 42 19 5 12 41.7 3 5 60.0 6 6 100.0 0 0 0 7 2 0 2 2 3
+p2
+aVZydrunas Ilgauskas CLE 04/14/2004 CLE @ NYK W 21 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 3 2 3 1 3 -10
+p3
+aVLeBron James CLE 04/14/2004 CLE @ NYK W 35 17 8 17 47.1 0 3 0.0 1 1 100.0 0 1 1 5 3 0 5 1 -6
+p4
+aVIra Newble CLE 04/14/2004 CLE @ NYK W 33 14 5 11 45.5 0 1 0.0 4 4 100.0 2 0 2 0 1 0 2 1 0
+p5
+aVDeSagana Diop CLE 04/14/2004 CLE @ NYK W 22 4 2 4 50.0 0 0 - 0 0 - 4 5 9 3 0 2 1 1 18
+p6
+aVKevin Ollie CLE 04/14/2004 CLE @ NYK W 21 7 3 5 60.0 1 1 100.0 0 0 - 0 4 4 0 1 0 0 0 21
+p7
+aVCarlos Boozer CLE 04/14/2004 CLE @ NYK W 25 14 5 10 50.0 0 0 - 4 5 80.0 4 8 12 0 1 0 0 2 -8
+p8
+aVLee Nailon CLE 04/14/2004 CLE @ NYK W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p9
+aVTony Battie CLE 04/14/2004 CLE @ NYK W 28 13 6 13 46.2 0 0 - 1 2 50.0 1 5 6 4 1 2 0 1 20
+p10
+aVDajuan Wagner CLE 04/14/2004 CLE @ NYK W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 1 7
+p11
+aVDajuan Wagner CLE 04/12/2004 CLE vs. MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -5
+p12
+aVZydrunas Ilgauskas CLE 04/12/2004 CLE vs. MIL W 41 18 4 14 28.6 0 0 - 10 10 100.0 6 8 14 3 0 5 3 5 11
+p13
+aVLeBron James CLE 04/12/2004 CLE vs. MIL W 45 27 9 20 45.0 1 4 25.0 8 11 72.7 1 6 7 9 2 0 1 1 11
+p14
+aVKedrick Brown CLE 04/12/2004 CLE vs. MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p15
+aVJeff McInnis CLE 04/12/2004 CLE vs. MIL W 42 16 8 16 50.0 0 5 0.0 0 0 - 0 2 2 7 3 0 1 1 9
+p16
+aVLee Nailon CLE 04/12/2004 CLE vs. MIL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p17
+aVKevin Ollie CLE 04/12/2004 CLE vs. MIL W 14 0 0 0 - 0 0 - 0 0 - 0 1 1 3 1 0 0 4 3
+p18
+aVIra Newble CLE 04/12/2004 CLE vs. MIL W 29 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 1 3 1 3 10
+p19
+aVTony Battie CLE 04/12/2004 CLE vs. MIL W 10 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -7
+p20
+aVDeSagana Diop CLE 04/12/2004 CLE vs. MIL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p21
+aVCarlos Boozer CLE 04/12/2004 CLE vs. MIL W 40 18 9 14 64.3 0 0 - 0 1 0.0 1 7 8 4 0 1 2 1 17
+p22
+aVJeff McInnis CLE 04/10/2004 CLE vs. MIA W 32 16 6 10 60.0 3 4 75.0 1 1 100.0 0 1 1 8 2 0 1 2 20
+p23
+aVDajuan Wagner CLE 04/10/2004 CLE vs. MIA W 11 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 0 1
+p24
+aVLeBron James CLE 04/10/2004 CLE vs. MIA W 32 10 4 11 36.4 0 2 0.0 2 5 40.0 1 2 3 11 0 0 2 3 14
+p25
+aVKevin Ollie CLE 04/10/2004 CLE vs. MIA W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p26
+aVKedrick Brown CLE 04/10/2004 CLE vs. MIA W 20 7 3 6 50.0 1 3 33.3 0 1 0.0 0 2 2 0 0 1 0 2 19
+p27
+aVTony Battie CLE 04/10/2004 CLE vs. MIA W 27 12 6 13 46.2 0 0 - 0 0 - 1 9 10 2 0 1 0 2 3
+p28
+aVIra Newble CLE 04/10/2004 CLE vs. MIA W 17 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 4
+p29
+aVDeSagana Diop CLE 04/10/2004 CLE vs. MIA W 21 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 2 0 4 -3
+p30
+aVZydrunas Ilgauskas CLE 04/10/2004 CLE vs. MIA W 22 11 3 5 60.0 0 0 - 5 6 83.3 1 6 7 1 0 1 1 3 8
+p31
+aVCarlos Boozer CLE 04/10/2004 CLE vs. MIA W 26 10 5 13 38.5 0 0 - 0 1 0.0 2 12 14 1 0 2 3 2 14
+p32
+aVLee Nailon CLE 04/10/2004 CLE vs. MIA W 21 8 3 11 27.3 0 1 0.0 2 2 100.0 3 4 7 0 0 0 1 3 -5
+p33
+aVJason Kapono CLE 04/10/2004 CLE vs. MIA W 6 4 2 5 40.0 0 0 - 0 0 - 1 0 1 1 1 0 1 0 -10
+p34
+aVZydrunas Ilgauskas CLE 04/09/2004 CLE @ MIA L 38 18 8 14 57.1 0 0 - 2 3 66.7 4 3 7 0 1 5 2 3 -12
+p35
+aVJason Kapono CLE 04/09/2004 CLE @ MIA L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -9
+p36
+aVIra Newble CLE 04/09/2004 CLE @ MIA L 24 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 2 1 3 2 1
+p37
+aVTony Battie CLE 04/09/2004 CLE @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p38
+aVDajuan Wagner CLE 04/09/2004 CLE @ MIA L 37 13 6 12 50.0 1 3 33.3 0 0 - 1 1 2 3 1 1 1 4 -16
+p39
+aVCarlos Boozer CLE 04/09/2004 CLE @ MIA L 20 9 4 4 100.0 0 0 - 1 1 100.0 0 2 2 1 1 1 1 3 7
+p40
+aVLee Nailon CLE 04/09/2004 CLE @ MIA L 29 18 8 14 57.1 0 0 - 2 3 66.7 1 4 5 1 1 0 0 3 -23
+p41
+aVKevin Ollie CLE 04/09/2004 CLE @ MIA L 14 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 0
+p42
+aVDeSagana Diop CLE 04/09/2004 CLE @ MIA L 9 0 0 2 0.0 0 0 - 0 0 - 1 3 4 2 0 1 0 3 0
+p43
+aVKedrick Brown CLE 04/09/2004 CLE @ MIA L 13 7 3 4 75.0 1 2 50.0 0 0 - 0 3 3 0 0 0 1 4 -4
+p44
+aVLeBron James CLE 04/09/2004 CLE @ MIA L 42 24 6 14 42.9 1 1 100.0 11 15 73.3 1 6 7 8 1 0 8 2 -16
+p45
+aVIra Newble CLE 04/07/2004 CLE @ MEM L 23 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 0 0 3 1 -11
+p46
+aVJason Kapono CLE 04/07/2004 CLE @ MEM L 10 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -6
+p47
+aVZydrunas Ilgauskas CLE 04/07/2004 CLE @ MEM L 28 10 3 6 50.0 0 0 - 4 6 66.7 0 6 6 0 0 5 3 4 -7
+p48
+aVLee Nailon CLE 04/07/2004 CLE @ MEM L 18 6 2 8 25.0 0 0 - 2 3 66.7 5 3 8 1 0 1 0 0 -6
+p49
+aVJeff McInnis CLE 04/07/2004 CLE @ MEM L 24 5 2 6 33.3 0 1 0.0 1 1 100.0 0 1 1 6 1 0 4 2 -20
+p50
+aVLeBron James CLE 04/07/2004 CLE @ MEM L 36 14 4 11 36.4 0 0 - 6 7 85.7 0 3 3 5 3 0 2 4 -11
+p51
+aVDeSagana Diop CLE 04/07/2004 CLE @ MEM L 11 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -5
+p52
+aVKedrick Brown CLE 04/07/2004 CLE @ MEM L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -4
+p53
+aVKevin Ollie CLE 04/07/2004 CLE @ MEM L 19 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 5
+p54
+aVTony Battie CLE 04/07/2004 CLE @ MEM L 18 6 3 7 42.9 0 0 - 0 0 - 1 0 1 0 1 0 3 3 -18
+p55
+aVDajuan Wagner CLE 04/07/2004 CLE @ MEM L 25 18 8 12 66.7 1 2 50.0 1 2 50.0 0 2 2 1 1 0 0 3 -7
+p56
+aVCarlos Boozer CLE 04/07/2004 CLE @ MEM L 21 7 3 7 42.9 0 0 - 1 2 50.0 2 6 8 3 0 1 0 3 0
+p57
+aVKedrick Brown CLE 04/06/2004 CLE vs. TOR L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p58
+aVTony Battie CLE 04/06/2004 CLE vs. TOR L 9 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 1 0 2 -4
+p59
+aVLeBron James CLE 04/06/2004 CLE vs. TOR L 46 21 5 17 29.4 0 0 - 11 14 78.6 1 5 6 4 3 0 3 2 2
+p60
+aVZydrunas Ilgauskas CLE 04/06/2004 CLE vs. TOR L 37 14 6 16 37.5 0 0 - 2 2 100.0 6 9 15 2 2 2 3 4 7
+p61
+aVDeSagana Diop CLE 04/06/2004 CLE vs. TOR L 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 3 1 0 2 -4
+p62
+aVLee Nailon CLE 04/06/2004 CLE vs. TOR L 11 0 0 5 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -9
+p63
+aVKevin Ollie CLE 04/06/2004 CLE vs. TOR L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 1 1 -4
+p64
+aVCarlos Boozer CLE 04/06/2004 CLE vs. TOR L 40 18 9 19 47.4 0 0 - 0 1 0.0 3 12 15 2 0 1 1 1 -1
+p65
+aVJeff McInnis CLE 04/06/2004 CLE vs. TOR L 37 16 8 16 50.0 0 1 0.0 0 0 - 1 1 2 10 3 1 1 2 5
+p66
+aVIra Newble CLE 04/06/2004 CLE vs. TOR L 27 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 1 1 0 3 1 8
+p67
+aVDeSagana Diop CLE 04/03/2004 CLE vs. GSW L 4 0 0 1 0.0 0 0 - 0 0 - 3 0 3 0 0 0 0 1 -4
+p68
+aVMateen Cleaves CLE 04/03/2004 CLE vs. GSW L 23 3 1 8 12.5 0 0 - 1 2 50.0 1 3 4 3 2 1 2 3 7
+p69
+aVIra Newble CLE 04/03/2004 CLE vs. GSW L 36 9 4 8 50.0 0 0 - 1 1 100.0 1 1 2 1 0 1 0 3 6
+p70
+aVKedrick Brown CLE 04/03/2004 CLE vs. GSW L 14 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 0 1 0 0 3 -3
+p71
+aVLeBron James CLE 04/03/2004 CLE vs. GSW L 46 34 12 28 42.9 3 5 60.0 7 11 63.6 3 5 8 10 1 1 3 1 -3
+p72
+aVKevin Ollie CLE 04/03/2004 CLE vs. GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p73
+aVTony Battie CLE 04/03/2004 CLE vs. GSW L 18 4 1 4 25.0 0 0 - 2 2 100.0 2 3 5 0 1 0 1 3 -5
+p74
+aVLee Nailon CLE 04/03/2004 CLE vs. GSW L 21 4 2 7 28.6 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -13
+p75
+aVZydrunas Ilgauskas CLE 04/03/2004 CLE vs. GSW L 25 17 5 13 38.5 0 1 0.0 7 8 87.5 7 1 8 1 0 1 0 5 5
+p76
+aVJason Kapono CLE 04/03/2004 CLE vs. GSW L 13 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -8
+p77
+aVCarlos Boozer CLE 04/03/2004 CLE vs. GSW L 38 26 8 15 53.3 0 0 - 10 11 90.9 4 9 13 1 2 1 2 2 5
+p78
+aVLeBron James CLE 04/02/2004 CLE @ MIL L 36 20 9 19 47.4 0 0 - 2 2 100.0 0 7 7 7 5 0 5 3 -13
+p79
+aVIra Newble CLE 04/02/2004 CLE @ MIL L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 0 -12
+p80
+aVCarlos Boozer CLE 04/02/2004 CLE @ MIL L 36 26 11 15 73.3 0 0 - 4 6 66.7 2 9 11 2 1 0 5 4 -15
+p81
+aVKedrick Brown CLE 04/02/2004 CLE @ MIL L 19 13 5 8 62.5 2 4 50.0 1 2 50.0 1 0 1 1 0 0 0 1 -16
+p82
+aVJason Kapono CLE 04/02/2004 CLE @ MIL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p83
+aVLee Nailon CLE 04/02/2004 CLE @ MIL L 30 10 5 11 45.5 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -2
+p84
+aVTony Battie CLE 04/02/2004 CLE @ MIL L 20 4 2 5 40.0 0 0 - 0 0 - 1 5 6 1 1 0 1 4 -14
+p85
+aVMateen Cleaves CLE 04/02/2004 CLE @ MIL L 33 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 8 1 0 1 3 -6
+p86
+aVZydrunas Ilgauskas CLE 04/02/2004 CLE @ MIL L 27 4 2 5 40.0 0 0 - 0 1 0.0 2 3 5 2 0 3 2 3 -2
+p87
+aVDajuan Wagner CLE 04/02/2004 CLE @ MIL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -1
+p88
+aVDeSagana Diop CLE 04/02/2004 CLE @ MIL L 8 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 1 1 -3
+p89
+aVKevin Ollie CLE 04/02/2004 CLE @ MIL L 12 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 -6
+p90
+aVLeBron James CLE 03/30/2004 CLE @ DAL L 42 28 13 22 59.1 0 2 0.0 2 4 50.0 1 4 5 6 4 0 3 2 -10
+p91
+aVTony Battie CLE 03/30/2004 CLE @ DAL L 11 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -12
+p92
+aVDajuan Wagner CLE 03/30/2004 CLE @ DAL L 9 2 0 4 0.0 0 2 0.0 2 2 100.0 0 0 0 1 1 1 1 3 -8
+p93
+aVMateen Cleaves CLE 03/30/2004 CLE @ DAL L 23 4 2 5 40.0 0 0 - 0 0 - 0 1 1 6 1 1 2 5 -8
+p94
+aVCarlos Boozer CLE 03/30/2004 CLE @ DAL L 35 23 8 17 47.1 0 0 - 7 9 77.8 7 13 20 2 0 0 1 3 -10
+p95
+aVEric Williams CLE 03/30/2004 CLE @ DAL L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 4
+p96
+aVDeSagana Diop CLE 03/30/2004 CLE @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p97
+aVIra Newble CLE 03/30/2004 CLE @ DAL L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -12
+p98
+aVKedrick Brown CLE 03/30/2004 CLE @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p99
+aVLee Nailon CLE 03/30/2004 CLE @ DAL L 40 23 10 18 55.6 0 0 - 3 4 75.0 6 1 7 3 1 0 3 1 -7
+p100
+aVZydrunas Ilgauskas CLE 03/30/2004 CLE @ DAL L 37 26 10 13 76.9 0 1 0.0 6 11 54.5 1 3 4 0 0 0 3 2 -12
+p101
+aVKevin Ollie CLE 03/30/2004 CLE @ DAL L 21 2 1 5 20.0 0 0 - 0 0 - 0 3 3 6 0 0 2 5 -3
+p102
+aVEric Williams CLE 03/29/2004 CLE @ SAS L 20 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 3 0 3 4 -8
+p103
+aVLee Nailon CLE 03/29/2004 CLE @ SAS L 20 15 6 11 54.5 0 0 - 3 3 100.0 3 2 5 1 0 0 2 1 1
+p104
+aVTony Battie CLE 03/29/2004 CLE @ SAS L 22 7 3 5 60.0 1 1 100.0 0 0 - 1 3 4 5 0 0 1 2 -1
+p105
+aVKevin Ollie CLE 03/29/2004 CLE @ SAS L 31 4 2 5 40.0 0 0 - 0 0 - 0 2 2 5 0 0 2 1 8
+p106
+aVDajuan Wagner CLE 03/29/2004 CLE @ SAS L 12 8 3 6 50.0 2 2 100.0 0 0 - 0 1 1 2 0 0 0 1 13
+p107
+aVMateen Cleaves CLE 03/29/2004 CLE @ SAS L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -10
+p108
+aVIra Newble CLE 03/29/2004 CLE @ SAS L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -12
+p109
+aVZydrunas Ilgauskas CLE 03/29/2004 CLE @ SAS L 31 18 6 9 66.7 0 0 - 6 7 85.7 2 4 6 1 0 1 3 3 -13
+p110
+aVLeBron James CLE 03/29/2004 CLE @ SAS L 32 18 9 20 45.0 0 1 0.0 0 0 - 0 2 2 4 0 1 2 0 -14
+p111
+aVDeSagana Diop CLE 03/29/2004 CLE @ SAS L 14 4 2 6 33.3 0 0 - 0 0 - 3 3 6 0 3 0 1 0 8
+p112
+aVKedrick Brown CLE 03/29/2004 CLE @ SAS L 7 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -3
+p113
+aVCarlos Boozer CLE 03/29/2004 CLE @ SAS L 26 11 4 9 44.4 0 0 - 3 3 100.0 0 4 4 2 1 1 2 2 -9
+p114
+aVIra Newble CLE 03/27/2004 CLE vs. NJN W 23 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 1 0 1 5
+p115
+aVTony Battie CLE 03/27/2004 CLE vs. NJN W 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -5
+p116
+aVZydrunas Ilgauskas CLE 03/27/2004 CLE vs. NJN W 44 17 7 12 58.3 0 0 - 3 5 60.0 5 5 10 1 0 2 3 4 15
+p117
+aVCarlos Boozer CLE 03/27/2004 CLE vs. NJN W 42 21 8 15 53.3 0 0 - 5 6 83.3 4 7 11 3 0 0 2 1 -4
+p118
+aVLee Nailon CLE 03/27/2004 CLE vs. NJN W 12 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p119
+aVLeBron James CLE 03/27/2004 CLE vs. NJN W 43 41 15 29 51.7 1 2 50.0 10 10 100.0 2 4 6 13 3 0 2 1 10
+p120
+aVKevin Ollie CLE 03/27/2004 CLE vs. NJN W 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 1 0 4 1 -16
+p121
+aVEric Williams CLE 03/27/2004 CLE vs. NJN W 25 8 4 8 50.0 0 0 - 0 0 - 0 0 0 2 1 0 1 4 -2
+p122
+aVKedrick Brown CLE 03/27/2004 CLE vs. NJN W 27 12 5 5 100.0 1 1 100.0 1 3 33.3 0 4 4 1 0 0 1 4 8
+p123
+aVEric Williams CLE 03/26/2004 CLE @ PHI L 23 2 0 4 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -15
+p124
+aVCarlos Boozer CLE 03/26/2004 CLE @ PHI L 37 4 2 6 33.3 0 0 - 0 0 - 3 8 11 1 1 2 1 3 -8
+p125
+aVIra Newble CLE 03/26/2004 CLE @ PHI L 27 6 2 5 40.0 0 1 0.0 2 2 100.0 1 1 2 1 1 2 0 2 1
+p126
+aVDajuan Wagner CLE 03/26/2004 CLE @ PHI L 19 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 0 1 0 1 1 -12
+p127
+aVLee Nailon CLE 03/26/2004 CLE @ PHI L 16 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 2 0 0 1 0 -6
+p128
+aVDeSagana Diop CLE 03/26/2004 CLE @ PHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p129
+aVKevin Ollie CLE 03/26/2004 CLE @ PHI L 20 6 2 4 50.0 0 0 - 2 3 66.7 0 2 2 3 1 0 1 2 -1
+p130
+aVKedrick Brown CLE 03/26/2004 CLE @ PHI L 8 7 3 3 100.0 1 1 100.0 0 0 - 1 2 3 1 0 0 0 0 8
+p131
+aVLeBron James CLE 03/26/2004 CLE @ PHI L 33 16 5 13 38.5 1 2 50.0 5 9 55.6 2 1 3 7 0 1 5 1 -24
+p132
+aVZydrunas Ilgauskas CLE 03/26/2004 CLE @ PHI L 33 15 7 18 38.9 0 0 - 1 2 50.0 3 1 4 1 0 2 1 3 -11
+p133
+aVTony Battie CLE 03/26/2004 CLE @ PHI L 19 4 2 4 50.0 0 0 - 0 0 - 0 4 4 1 0 1 1 1 2
+p134
+aVKevin Ollie CLE 03/23/2004 CLE vs. PHX L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p135
+aVZydrunas Ilgauskas CLE 03/23/2004 CLE vs. PHX L 21 14 4 9 44.4 0 0 - 6 6 100.0 6 0 6 1 1 2 2 3 -7
+p136
+aVCarlos Boozer CLE 03/23/2004 CLE vs. PHX L 43 19 8 21 38.1 0 0 - 3 3 100.0 6 8 14 2 1 1 3 3 -21
+p137
+aVJeff McInnis CLE 03/23/2004 CLE vs. PHX L 38 8 0 7 0.0 0 2 0.0 8 8 100.0 1 3 4 5 0 0 2 1 -16
+p138
+aVLeBron James CLE 03/23/2004 CLE vs. PHX L 42 25 8 21 38.1 2 5 40.0 7 9 77.8 1 1 2 6 3 1 5 0 -12
+p139
+aVDeSagana Diop CLE 03/23/2004 CLE vs. PHX L 9 2 0 2 0.0 0 0 - 2 2 100.0 3 0 3 0 1 0 1 0 -5
+p140
+aVEric Williams CLE 03/23/2004 CLE vs. PHX L 24 3 1 9 11.1 1 3 33.3 0 0 - 0 1 1 0 0 0 1 1 -18
+p141
+aVIra Newble CLE 03/23/2004 CLE vs. PHX L 21 7 3 8 37.5 0 1 0.0 1 2 50.0 1 2 3 2 0 0 0 0 5
+p142
+aVLee Nailon CLE 03/23/2004 CLE vs. PHX L 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -9
+p143
+aVTony Battie CLE 03/23/2004 CLE vs. PHX L 23 6 2 5 40.0 0 0 - 2 2 100.0 4 3 7 1 0 1 2 5 -1
+p144
+aVDajuan Wagner CLE 03/21/2004 CLE vs. DET L 23 3 1 11 9.1 1 4 25.0 0 0 - 0 2 2 3 0 0 0 1 -17
+p145
+aVCarlos Boozer CLE 03/21/2004 CLE vs. DET L 37 21 10 12 83.3 0 0 - 1 2 50.0 3 14 17 1 0 0 1 4 -7
+p146
+aVKevin Ollie CLE 03/21/2004 CLE vs. DET L 28 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 8 1 0 1 1 -4
+p147
+aVKedrick Brown CLE 03/21/2004 CLE vs. DET L 7 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 3
+p148
+aVIra Newble CLE 03/21/2004 CLE vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -4
+p149
+aVTony Battie CLE 03/21/2004 CLE vs. DET L 11 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -20
+p150
+aVEric Williams CLE 03/21/2004 CLE vs. DET L 31 13 4 11 36.4 1 4 25.0 4 4 100.0 3 3 6 2 1 0 4 1 -4
+p151
+aVLee Nailon CLE 03/21/2004 CLE vs. DET L 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -6
+p152
+aVZydrunas Ilgauskas CLE 03/21/2004 CLE vs. DET L 34 7 2 9 22.2 0 0 - 3 4 75.0 2 4 6 2 1 4 1 2 -17
+p153
+aVLeBron James CLE 03/21/2004 CLE vs. DET L 36 15 5 17 29.4 1 4 25.0 4 5 80.0 2 5 7 3 0 2 4 4 -21
+p154
+aVDeSagana Diop CLE 03/21/2004 CLE vs. DET L 16 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 0 0 1 0 2 -3
+p155
+aVEric Williams CLE 03/19/2004 CLE vs. UTA L 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -2
+p156
+aVIra Newble CLE 03/19/2004 CLE vs. UTA L 22 2 1 4 25.0 0 0 - 0 0 - 3 2 5 2 0 1 0 2 -2
+p157
+aVTony Battie CLE 03/19/2004 CLE vs. UTA L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 0 5 -7
+p158
+aVLeBron James CLE 03/19/2004 CLE vs. UTA L 33 14 4 14 28.6 0 2 0.0 6 10 60.0 0 0 0 7 2 1 2 3 -2
+p159
+aVZydrunas Ilgauskas CLE 03/19/2004 CLE vs. UTA L 37 24 8 12 66.7 0 0 - 8 8 100.0 2 2 4 0 1 3 4 3 -4
+p160
+aVKevin Ollie CLE 03/19/2004 CLE vs. UTA L 34 6 2 7 28.6 0 1 0.0 2 4 50.0 1 2 3 2 4 1 1 4 -6
+p161
+aVDeSagana Diop CLE 03/19/2004 CLE vs. UTA L 5 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 0 0 2
+p162
+aVDajuan Wagner CLE 03/19/2004 CLE vs. UTA L 14 3 1 8 12.5 0 1 0.0 1 2 50.0 0 0 0 4 0 0 1 3 -3
+p163
+aVCarlos Boozer CLE 03/19/2004 CLE vs. UTA L 44 21 6 10 60.0 0 0 - 9 10 90.0 3 10 13 2 0 1 2 3 -10
+p164
+aVLee Nailon CLE 03/19/2004 CLE vs. UTA L 23 10 5 12 41.7 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -11
+p165
+aVDeSagana Diop CLE 03/16/2004 CLE vs. CHI W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 3 2 -5
+p166
+aVJason Kapono CLE 03/16/2004 CLE vs. CHI W 5 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p167
+aVLeBron James CLE 03/16/2004 CLE vs. CHI W 32 17 5 16 31.3 2 3 66.7 5 8 62.5 3 2 5 8 0 5 4 1 24
+p168
+aVTony Battie CLE 03/16/2004 CLE vs. CHI W 13 4 2 5 40.0 0 0 - 0 0 - 3 2 5 1 1 2 2 1 -2
+p169
+aVCarlos Boozer CLE 03/16/2004 CLE vs. CHI W 34 22 8 12 66.7 0 0 - 6 9 66.7 3 10 13 3 5 1 0 2 37
+p170
+aVEric Williams CLE 03/16/2004 CLE vs. CHI W 22 5 2 8 25.0 0 0 - 1 2 50.0 2 4 6 3 0 0 0 0 20
+p171
+aVJeff McInnis CLE 03/16/2004 CLE vs. CHI W 32 15 6 9 66.7 3 4 75.0 0 0 - 0 4 4 7 1 0 3 1 21
+p172
+aVIra Newble CLE 03/16/2004 CLE vs. CHI W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 4
+p173
+aVZydrunas Ilgauskas CLE 03/16/2004 CLE vs. CHI W 37 24 9 20 45.0 0 1 0.0 6 8 75.0 10 7 17 1 2 5 1 2 21
+p174
+aVDajuan Wagner CLE 03/16/2004 CLE vs. CHI W 16 11 4 10 40.0 3 5 60.0 0 0 - 1 0 1 1 2 0 1 0 0
+p175
+aVKevin Ollie CLE 03/16/2004 CLE vs. CHI W 16 4 2 3 66.7 0 0 - 0 0 - 0 3 3 5 2 0 1 2 3
+p176
+aVLee Nailon CLE 03/16/2004 CLE vs. CHI W 13 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 0 0 0 3 1 -2
+p177
+aVJeff McInnis CLE 03/14/2004 CLE vs. IND W 35 16 6 11 54.5 3 4 75.0 1 2 50.0 0 3 3 10 0 0 2 1 -7
+p178
+aVCarlos Boozer CLE 03/14/2004 CLE vs. IND W 40 19 8 16 50.0 0 0 - 3 4 75.0 4 5 9 2 3 1 3 1 8
+p179
+aVTony Battie CLE 03/14/2004 CLE vs. IND W 18 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 2 6
+p180
+aVZydrunas Ilgauskas CLE 03/14/2004 CLE vs. IND W 29 14 4 11 36.4 0 0 - 6 6 100.0 4 5 9 3 0 4 2 3 -5
+p181
+aVIra Newble CLE 03/14/2004 CLE vs. IND W 17 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -1
+p182
+aVDeSagana Diop CLE 03/14/2004 CLE vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p183
+aVLeBron James CLE 03/14/2004 CLE vs. IND W 44 26 12 22 54.5 0 2 0.0 2 4 50.0 0 3 3 4 3 1 4 3 5
+p184
+aVDajuan Wagner CLE 03/14/2004 CLE vs. IND W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p185
+aVKevin Ollie CLE 03/14/2004 CLE vs. IND W 13 7 1 1 100.0 1 1 100.0 4 4 100.0 0 0 0 4 2 1 0 1 11
+p186
+aVLee Nailon CLE 03/14/2004 CLE vs. IND W 28 15 7 9 77.8 0 1 0.0 1 1 100.0 2 1 3 3 0 0 1 4 7
+p187
+aVEric Williams CLE 03/14/2004 CLE vs. IND W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -4
+p188
+aVCarlos Boozer CLE 03/10/2004 CLE @ TOR W 34 11 5 11 45.5 0 0 - 1 2 50.0 3 10 13 1 1 0 3 2 16
+p189
+aVLeBron James CLE 03/10/2004 CLE @ TOR W 34 14 4 13 30.8 0 0 - 6 7 85.7 1 2 3 4 1 0 2 2 16
+p190
+aVJeff McInnis CLE 03/10/2004 CLE @ TOR W 27 11 4 8 50.0 1 2 50.0 2 2 100.0 2 0 2 7 0 0 0 3 18
+p191
+aVZydrunas Ilgauskas CLE 03/10/2004 CLE @ TOR W 29 30 13 18 72.2 0 0 - 4 4 100.0 0 6 6 4 1 2 2 4 15
+p192
+aVTony Battie CLE 03/10/2004 CLE @ TOR W 27 8 3 10 30.0 0 1 0.0 2 2 100.0 2 5 7 1 0 0 1 0 7
+p193
+aVJason Kapono CLE 03/10/2004 CLE @ TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p194
+aVKevin Ollie CLE 03/10/2004 CLE @ TOR W 21 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -4
+p195
+aVEric Williams CLE 03/10/2004 CLE @ TOR W 23 4 1 2 50.0 1 1 100.0 1 2 50.0 2 4 6 1 2 0 0 2 -1
+p196
+aVDeSagana Diop CLE 03/10/2004 CLE @ TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p197
+aVDajuan Wagner CLE 03/10/2004 CLE @ TOR W 17 9 4 6 66.7 1 2 50.0 0 0 - 0 4 4 6 0 0 1 1 -1
+p198
+aVLee Nailon CLE 03/10/2004 CLE @ TOR W 22 15 6 8 75.0 0 0 - 3 3 100.0 1 3 4 0 0 0 0 1 14
+p199
+aVEric Williams CLE 03/08/2004 CLE @ ATL W 25 3 0 3 0.0 0 0 - 3 6 50.0 0 7 7 1 2 0 0 4 20
+p200
+aVZydrunas Ilgauskas CLE 03/08/2004 CLE @ ATL W 35 20 9 12 75.0 0 0 - 2 2 100.0 5 3 8 0 0 4 3 5 7
+p201
+aVLeBron James CLE 03/08/2004 CLE @ ATL W 45 34 11 23 47.8 1 4 25.0 11 13 84.6 2 4 6 7 1 0 2 1 11
+p202
+aVDajuan Wagner CLE 03/08/2004 CLE @ ATL W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -4
+p203
+aVIra Newble CLE 03/08/2004 CLE @ ATL W 18 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p204
+aVKevin Ollie CLE 03/08/2004 CLE @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -5
+p205
+aVJeff McInnis CLE 03/08/2004 CLE @ ATL W 43 14 4 11 36.4 0 4 0.0 6 10 60.0 0 1 1 10 4 0 5 2 15
+p206
+aVTony Battie CLE 03/08/2004 CLE @ ATL W 21 6 2 5 40.0 0 0 - 2 2 100.0 2 0 2 0 1 1 0 4 -8
+p207
+aVDeSagana Diop CLE 03/08/2004 CLE @ ATL W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 1 0 0 0
+p208
+aVLee Nailon CLE 03/08/2004 CLE @ ATL W 12 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 4 3 -12
+p209
+aVCarlos Boozer CLE 03/08/2004 CLE @ ATL W 30 25 9 14 64.3 0 0 - 7 8 87.5 1 10 11 0 1 1 1 5 11
+p210
+aVZydrunas Ilgauskas CLE 03/06/2004 CLE vs. MIL W 40 29 11 18 61.1 0 1 0.0 7 7 100.0 1 6 7 0 1 5 0 3 10
+p211
+aVIra Newble CLE 03/06/2004 CLE vs. MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p212
+aVTony Battie CLE 03/06/2004 CLE vs. MIL W 17 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 1 2 4 -6
+p213
+aVKevin Ollie CLE 03/06/2004 CLE vs. MIL W 9 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 1 -3
+p214
+aVLee Nailon CLE 03/06/2004 CLE vs. MIL W 16 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 0 2 4 -5
+p215
+aVEric Williams CLE 03/06/2004 CLE vs. MIL W 32 11 4 8 50.0 0 1 0.0 3 4 75.0 1 4 5 2 2 1 4 4 11
+p216
+aVLeBron James CLE 03/06/2004 CLE vs. MIL W 43 24 11 24 45.8 0 3 0.0 2 3 66.7 2 5 7 10 4 1 2 3 9
+p217
+aVJeff McInnis CLE 03/06/2004 CLE vs. MIL W 38 10 4 12 33.3 1 4 25.0 1 2 50.0 0 3 3 12 1 0 0 1 12
+p218
+aVCarlos Boozer CLE 03/06/2004 CLE vs. MIL W 39 22 10 16 62.5 0 0 - 2 2 100.0 3 10 13 1 1 0 1 3 17
+p219
+aVLeBron James CLE 03/05/2004 CLE @ NOH W 37 19 7 17 41.2 2 2 100.0 3 4 75.0 2 4 6 4 2 0 4 5 1
+p220
+aVDajuan Wagner CLE 03/05/2004 CLE @ NOH W 11 5 2 7 28.6 0 3 0.0 1 2 50.0 0 0 0 1 1 0 1 1 2
+p221
+aVZydrunas Ilgauskas CLE 03/05/2004 CLE @ NOH W 29 6 3 11 27.3 0 0 - 0 2 0.0 3 4 7 1 1 4 5 3 -12
+p222
+aVCarlos Boozer CLE 03/05/2004 CLE @ NOH W 38 18 8 16 50.0 0 0 - 2 2 100.0 3 5 8 1 1 1 2 1 9
+p223
+aVTony Battie CLE 03/05/2004 CLE @ NOH W 29 12 6 9 66.7 0 0 - 0 2 0.0 6 3 9 0 0 4 0 0 7
+p224
+aVEric Williams CLE 03/05/2004 CLE @ NOH W 33 15 6 12 50.0 0 2 0.0 3 5 60.0 3 8 11 1 1 0 0 3 8
+p225
+aVJeff McInnis CLE 03/05/2004 CLE @ NOH W 40 9 3 10 30.0 1 4 25.0 2 3 66.7 0 3 3 11 1 1 1 2 8
+p226
+aVLee Nailon CLE 03/05/2004 CLE @ NOH W 15 4 2 6 33.3 0 1 0.0 0 1 0.0 2 2 4 1 0 0 0 2 -5
+p227
+aVKevin Ollie CLE 03/05/2004 CLE @ NOH W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p228
+aVJason Kapono CLE 03/03/2004 CLE vs. ATL W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -4
+p229
+aVTony Battie CLE 03/03/2004 CLE vs. ATL W 19 8 3 8 37.5 0 0 - 2 2 100.0 2 7 9 1 0 2 1 4 6
+p230
+aVLeBron James CLE 03/03/2004 CLE vs. ATL W 28 24 9 17 52.9 1 2 50.0 5 6 83.3 1 6 7 3 1 1 1 0 22
+p231
+aVJeff McInnis CLE 03/03/2004 CLE vs. ATL W 30 9 4 9 44.4 1 4 25.0 0 0 - 0 1 1 9 1 0 2 3 16
+p232
+aVDajuan Wagner CLE 03/03/2004 CLE vs. ATL W 20 12 5 12 41.7 1 4 25.0 1 2 50.0 0 2 2 2 1 0 0 4 10
+p233
+aVLee Nailon CLE 03/03/2004 CLE vs. ATL W 16 10 3 7 42.9 0 0 - 4 4 100.0 2 2 4 1 2 0 2 1 13
+p234
+aVZydrunas Ilgauskas CLE 03/03/2004 CLE vs. ATL W 31 17 6 13 46.2 0 0 - 5 5 100.0 3 7 10 2 1 3 2 3 30
+p235
+aVEric Williams CLE 03/03/2004 CLE vs. ATL W 27 14 4 8 50.0 0 1 0.0 6 8 75.0 0 2 2 3 3 0 0 0 24
+p236
+aVDeSagana Diop CLE 03/03/2004 CLE vs. ATL W 10 0 0 3 0.0 0 0 - 0 0 - 3 2 5 3 1 1 0 2 -1
+p237
+aVKevin Ollie CLE 03/03/2004 CLE vs. ATL W 19 4 2 5 40.0 0 0 - 0 0 - 2 3 5 5 1 0 1 2 14
+p238
+aVCarlos Boozer CLE 03/03/2004 CLE vs. ATL W 30 12 4 10 40.0 0 0 - 4 4 100.0 6 9 15 2 0 0 1 3 30
+p239
+aVCarlos Boozer CLE 03/01/2004 CLE @ CHI L 36 12 6 11 54.5 0 0 - 0 0 - 7 6 13 3 1 0 2 1 -11
+p240
+aVEric Williams CLE 03/01/2004 CLE @ CHI L 21 6 2 7 28.6 0 3 0.0 2 4 50.0 1 1 2 2 0 1 1 3 -7
+p241
+aVJason Kapono CLE 03/01/2004 CLE @ CHI L 14 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 2 -5
+p242
+aVTony Battie CLE 03/01/2004 CLE @ CHI L 18 4 2 7 28.6 0 2 0.0 0 0 - 1 3 4 1 1 0 2 2 -14
+p243
+aVZydrunas Ilgauskas CLE 03/01/2004 CLE @ CHI L 29 19 6 12 50.0 0 0 - 7 8 87.5 2 8 10 0 0 3 1 4 -3
+p244
+aVIra Newble CLE 03/01/2004 CLE @ CHI L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p245
+aVKevin Ollie CLE 03/01/2004 CLE @ CHI L 5 2 0 0 - 0 0 - 2 2 100.0 2 0 2 0 0 0 1 1 -3
+p246
+aVLeBron James CLE 03/01/2004 CLE @ CHI L 41 18 7 17 41.2 0 2 0.0 4 6 66.7 0 3 3 3 4 1 3 2 -4
+p247
+aVDeSagana Diop CLE 03/01/2004 CLE @ CHI L 11 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 4
+p248
+aVJeff McInnis CLE 03/01/2004 CLE @ CHI L 43 13 5 14 35.7 1 3 33.3 2 2 100.0 5 4 9 6 2 0 2 2 -8
+p249
+aVDajuan Wagner CLE 03/01/2004 CLE @ CHI L 17 3 0 4 0.0 0 1 0.0 3 4 75.0 0 0 0 2 1 0 1 2 -2
+p250
+aVJeff McInnis CLE 02/27/2004 CLE @ ORL W 40 16 6 13 46.2 1 2 50.0 3 4 75.0 1 1 2 10 3 0 2 1 -1
+p251
+aVEric Williams CLE 02/27/2004 CLE @ ORL W 41 2 1 6 16.7 0 2 0.0 0 0 - 1 4 5 4 1 0 3 5 4
+p252
+aVKevin Ollie CLE 02/27/2004 CLE @ ORL W 15 2 0 0 - 0 0 - 2 4 50.0 0 1 1 2 0 0 0 3 0
+p253
+aVDajuan Wagner CLE 02/27/2004 CLE @ ORL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 0
+p254
+aVCarlos Boozer CLE 02/27/2004 CLE @ ORL W 42 17 8 16 50.0 0 0 - 1 2 50.0 4 12 16 1 2 1 2 5 10
+p255
+aVTony Battie CLE 02/27/2004 CLE @ ORL W 19 12 5 8 62.5 0 0 - 2 2 100.0 4 5 9 0 0 1 1 1 6
+p256
+aVZydrunas Ilgauskas CLE 02/27/2004 CLE @ ORL W 44 28 8 17 47.1 0 0 - 12 14 85.7 3 2 5 1 0 3 5 5 0
+p257
+aVJason Kapono CLE 02/27/2004 CLE @ ORL W 9 5 1 4 25.0 1 2 50.0 2 2 100.0 1 0 1 1 0 0 1 0 -1
+p258
+aVLeBron James CLE 02/27/2004 CLE @ ORL W 49 30 11 19 57.9 1 1 100.0 7 8 87.5 1 10 11 3 3 1 5 1 7
+p259
+aVLeBron James CLE 02/25/2004 CLE @ HOU L 39 11 5 18 27.8 0 2 0.0 1 3 33.3 2 5 7 5 2 1 2 1 -5
+p260
+aVDeSagana Diop CLE 02/25/2004 CLE @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p261
+aVDajuan Wagner CLE 02/25/2004 CLE @ HOU L 14 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 2 0
+p262
+aVJason Kapono CLE 02/25/2004 CLE @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p263
+aVEric Williams CLE 02/25/2004 CLE @ HOU L 17 5 1 4 25.0 1 1 100.0 2 2 100.0 0 2 2 1 0 0 2 2 -2
+p264
+aVTony Battie CLE 02/25/2004 CLE @ HOU L 20 8 4 6 66.7 0 0 - 0 0 - 0 7 7 0 0 2 0 1 -10
+p265
+aVJeff McInnis CLE 02/25/2004 CLE @ HOU L 41 17 7 15 46.7 2 4 50.0 1 1 100.0 1 1 2 10 1 0 0 3 5
+p266
+aVZydrunas Ilgauskas CLE 02/25/2004 CLE @ HOU L 37 17 6 19 31.6 1 1 100.0 4 8 50.0 5 2 7 2 0 5 2 3 -6
+p267
+aVCarlos Boozer CLE 02/25/2004 CLE @ HOU L 35 16 8 14 57.1 0 0 - 0 0 - 6 12 18 0 2 1 1 2 8
+p268
+aVKevin Ollie CLE 02/25/2004 CLE @ HOU L 7 1 0 3 0.0 0 0 - 1 1 100.0 1 0 1 0 0 0 1 1 -11
+p269
+aVIra Newble CLE 02/25/2004 CLE @ HOU L 22 4 2 4 50.0 0 0 - 0 0 - 1 5 6 2 0 0 2 2 -1
+p270
+aVLeBron James CLE 02/23/2004 CLE vs. NOH W 36 21 7 16 43.8 1 5 20.0 6 6 100.0 0 4 4 6 2 5 1 3 4
+p271
+aVCarlos Boozer CLE 02/23/2004 CLE vs. NOH W 37 24 7 11 63.6 0 0 - 10 15 66.7 5 4 9 1 0 0 1 3 5
+p272
+aVJeff McInnis CLE 02/23/2004 CLE vs. NOH W 31 14 6 11 54.5 2 4 50.0 0 0 - 0 1 1 9 2 0 1 6 13
+p273
+aVDajuan Wagner CLE 02/23/2004 CLE vs. NOH W 17 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 1 1 1 1 1 -2
+p274
+aVIra Newble CLE 02/23/2004 CLE vs. NOH W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -10
+p275
+aVZydrunas Ilgauskas CLE 02/23/2004 CLE vs. NOH W 34 14 7 13 53.8 0 0 - 0 0 - 2 4 6 3 1 3 0 4 10
+p276
+aVTony Battie CLE 02/23/2004 CLE vs. NOH W 18 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -4
+p277
+aVEric Williams CLE 02/23/2004 CLE vs. NOH W 16 0 0 6 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 -18
+p278
+aVJason Kapono CLE 02/23/2004 CLE vs. NOH W 28 19 7 9 77.8 5 5 100.0 0 0 - 1 4 5 2 3 0 1 0 28
+p279
+aVKevin Ollie CLE 02/23/2004 CLE vs. NOH W 15 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 5 4 1 2 1 -6
+p280
+aVZydrunas Ilgauskas CLE 02/22/2004 CLE @ NYK W 42 31 14 22 63.6 0 0 - 3 4 75.0 7 8 15 1 0 2 2 4 3
+p281
+aVIra Newble CLE 02/22/2004 CLE @ NYK W 20 2 0 4 0.0 0 0 - 2 2 100.0 2 2 4 0 0 1 0 1 5
+p282
+aVKevin Ollie CLE 02/22/2004 CLE @ NYK W 6 3 0 1 0.0 0 0 - 3 5 60.0 0 1 1 0 0 0 1 0 -6
+p283
+aVDajuan Wagner CLE 02/22/2004 CLE @ NYK W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p284
+aVLeBron James CLE 02/22/2004 CLE @ NYK W 44 22 7 20 35.0 0 0 - 8 12 66.7 1 4 5 3 1 0 1 2 11
+p285
+aVTony Battie CLE 02/22/2004 CLE @ NYK W 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 2 0 3 8
+p286
+aVCarlos Boozer CLE 02/22/2004 CLE @ NYK W 36 14 4 11 36.4 0 0 - 6 6 100.0 3 14 17 0 0 0 2 2 3
+p287
+aVJeff McInnis CLE 02/22/2004 CLE @ NYK W 42 13 5 12 41.7 3 3 100.0 0 0 - 0 4 4 4 0 0 2 1 10
+p288
+aVEric Williams CLE 02/22/2004 CLE @ NYK W 29 5 0 8 0.0 0 3 0.0 5 6 83.3 0 4 4 1 1 0 0 3 1
+p289
+aVEric Williams CLE 02/20/2004 CLE vs. SAS W 21 6 2 8 25.0 0 2 0.0 2 2 100.0 1 3 4 2 0 0 1 3 14
+p290
+aVJeff McInnis CLE 02/20/2004 CLE vs. SAS W 42 15 6 13 46.2 1 2 50.0 2 2 100.0 0 3 3 8 1 0 1 2 5
+p291
+aVZydrunas Ilgauskas CLE 02/20/2004 CLE vs. SAS W 40 16 7 13 53.8 0 0 - 2 6 33.3 4 8 12 0 2 3 3 3 5
+p292
+aVIra Newble CLE 02/20/2004 CLE vs. SAS W 18 2 1 4 25.0 0 1 0.0 0 0 - 1 5 6 2 0 1 1 2 -10
+p293
+aVCarlos Boozer CLE 02/20/2004 CLE vs. SAS W 29 5 2 5 40.0 0 0 - 1 2 50.0 1 7 8 3 0 0 6 3 -14
+p294
+aVKevin Ollie CLE 02/20/2004 CLE vs. SAS W 8 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 -5
+p295
+aVTony Battie CLE 02/20/2004 CLE vs. SAS W 16 6 3 6 50.0 0 0 - 0 0 - 1 0 1 1 0 2 0 2 8
+p296
+aVLeBron James CLE 02/20/2004 CLE vs. SAS W 39 32 14 23 60.9 0 0 - 4 4 100.0 2 9 11 2 2 1 2 0 3
+p297
+aVDajuan Wagner CLE 02/20/2004 CLE vs. SAS W 18 5 2 8 25.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 4 4 4
+p298
+aVJason Kapono CLE 02/20/2004 CLE vs. SAS W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 0
+p299
+aVLeBron James CLE 02/18/2004 CLE vs. DAL L 34 16 6 12 50.0 0 0 - 4 4 100.0 2 2 4 9 0 1 5 2 -15
+p300
+aVEric Williams CLE 02/18/2004 CLE vs. DAL L 37 14 4 9 44.4 1 3 33.3 5 6 83.3 0 6 6 2 0 0 1 2 -12
+p301
+aVCarlos Boozer CLE 02/18/2004 CLE vs. DAL L 36 24 10 16 62.5 0 0 - 4 4 100.0 2 12 14 1 0 0 0 2 -15
+p302
+aVZydrunas Ilgauskas CLE 02/18/2004 CLE vs. DAL L 29 11 4 11 36.4 0 0 - 3 4 75.0 1 2 3 1 0 2 2 2 -17
+p303
+aVIra Newble CLE 02/18/2004 CLE vs. DAL L 14 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 1 0 0 1 1 -1
+p304
+aVTony Battie CLE 02/18/2004 CLE vs. DAL L 19 8 4 8 50.0 0 1 0.0 0 1 0.0 3 3 6 0 0 4 0 1 1
+p305
+aVKevin Ollie CLE 02/18/2004 CLE vs. DAL L 17 5 2 3 66.7 0 0 - 1 1 100.0 0 3 3 4 1 1 1 2 6
+p306
+aVJeff McInnis CLE 02/18/2004 CLE vs. DAL L 31 11 5 10 50.0 1 3 33.3 0 0 - 0 0 0 7 0 0 2 1 -22
+p307
+aVJason Kapono CLE 02/18/2004 CLE vs. DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p308
+aVDajuan Wagner CLE 02/18/2004 CLE vs. DAL L 20 6 3 11 27.3 0 2 0.0 0 0 - 1 2 3 1 1 0 0 3 -3
+p309
+aVKedrick Brown CLE 02/11/2004 CLE vs. NJN L 3 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p310
+aVCarlos Boozer CLE 02/11/2004 CLE vs. NJN L 39 8 4 15 26.7 0 0 - 0 1 0.0 5 8 13 1 1 1 2 2 -12
+p311
+aVDeSagana Diop CLE 02/11/2004 CLE vs. NJN L 12 7 3 3 100.0 0 0 - 1 3 33.3 1 5 6 0 0 1 0 2 -3
+p312
+aVJason Kapono CLE 02/11/2004 CLE vs. NJN L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p313
+aVJ.R. Bremer CLE 02/11/2004 CLE vs. NJN L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 1
+p314
+aVKevin Ollie CLE 02/11/2004 CLE vs. NJN L 10 1 0 3 0.0 0 0 - 1 1 100.0 0 2 2 2 1 0 1 3 -8
+p315
+aVIra Newble CLE 02/11/2004 CLE vs. NJN L 16 6 3 8 37.5 0 0 - 0 0 - 3 1 4 1 0 0 2 1 -6
+p316
+aVZydrunas Ilgauskas CLE 02/11/2004 CLE vs. NJN L 36 13 5 11 45.5 0 0 - 3 5 60.0 8 9 17 4 0 4 2 2 -17
+p317
+aVEric Williams CLE 02/11/2004 CLE vs. NJN L 30 14 6 12 50.0 1 5 20.0 1 1 100.0 1 3 4 1 2 1 2 5 -12
+p318
+aVDajuan Wagner CLE 02/11/2004 CLE vs. NJN L 20 11 5 10 50.0 1 2 50.0 0 0 - 1 1 2 1 2 0 2 2 -19
+p319
+aVJeff McInnis CLE 02/11/2004 CLE vs. NJN L 31 10 4 9 44.4 0 1 0.0 2 2 100.0 1 0 1 5 0 0 2 2 -13
+p320
+aVLeBron James CLE 02/11/2004 CLE vs. NJN L 29 9 2 13 15.4 0 1 0.0 5 5 100.0 1 1 2 5 1 0 5 0 -12
+p321
+aVIra Newble CLE 02/09/2004 CLE vs. BOS W 28 8 3 9 33.3 0 0 - 2 2 100.0 3 4 7 3 0 0 1 2 7
+p322
+aVLeBron James CLE 02/09/2004 CLE vs. BOS W 43 24 9 25 36.0 1 6 16.7 5 6 83.3 0 6 6 3 2 1 1 3 19
+p323
+aVEric Williams CLE 02/09/2004 CLE vs. BOS W 32 16 5 10 50.0 1 2 50.0 5 5 100.0 3 5 8 1 2 0 1 5 21
+p324
+aVKevin Ollie CLE 02/09/2004 CLE vs. BOS W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 4 1 0 2 0 -9
+p325
+aVDeSagana Diop CLE 02/09/2004 CLE vs. BOS W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 3
+p326
+aVKedrick Brown CLE 02/09/2004 CLE vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p327
+aVDajuan Wagner CLE 02/09/2004 CLE vs. BOS W 10 8 3 5 60.0 2 4 50.0 0 0 - 0 1 1 0 0 1 0 1 -9
+p328
+aVZydrunas Ilgauskas CLE 02/09/2004 CLE vs. BOS W 38 19 6 15 40.0 0 0 - 7 8 87.5 6 10 16 0 2 1 2 5 13
+p329
+aVJeff McInnis CLE 02/09/2004 CLE vs. BOS W 39 6 2 10 20.0 0 1 0.0 2 3 66.7 0 5 5 9 0 0 2 1 13
+p330
+aVCarlos Boozer CLE 02/09/2004 CLE vs. BOS W 28 12 5 8 62.5 0 0 - 2 4 50.0 5 4 9 1 0 1 3 4 -11
+p331
+aVLeBron James CLE 02/07/2004 CLE vs. WAS L 34 14 6 16 37.5 0 0 - 2 2 100.0 0 0 0 6 4 1 3 2 -24
+p332
+aVJeff McInnis CLE 02/07/2004 CLE vs. WAS L 29 6 2 7 28.6 0 1 0.0 2 3 66.7 1 2 3 6 0 1 2 2 -19
+p333
+aVDeSagana Diop CLE 02/07/2004 CLE vs. WAS L 18 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 4
+p334
+aVJason Kapono CLE 02/07/2004 CLE vs. WAS L 4 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 2 -2
+p335
+aVEric Williams CLE 02/07/2004 CLE vs. WAS L 23 13 5 11 45.5 0 1 0.0 3 6 50.0 0 5 5 0 0 0 1 3 -17
+p336
+aVKedrick Brown CLE 02/07/2004 CLE vs. WAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p337
+aVIra Newble CLE 02/07/2004 CLE vs. WAS L 27 4 2 7 28.6 0 0 - 0 0 - 3 1 4 0 1 1 0 3 2
+p338
+aVZydrunas Ilgauskas CLE 02/07/2004 CLE vs. WAS L 34 15 6 17 35.3 0 0 - 3 3 100.0 6 5 11 3 0 5 1 3 -23
+p339
+aVCarlos Boozer CLE 02/07/2004 CLE vs. WAS L 36 19 9 16 56.3 0 0 - 1 1 100.0 3 5 8 2 0 0 0 4 -14
+p340
+aVKevin Ollie CLE 02/07/2004 CLE vs. WAS L 18 2 1 3 33.3 0 0 - 0 0 - 0 4 4 4 2 0 1 2 -1
+p341
+aVDajuan Wagner CLE 02/07/2004 CLE vs. WAS L 13 10 4 6 66.7 2 2 100.0 0 3 0.0 1 0 1 0 1 0 0 2 11
+p342
+aVEric Williams CLE 02/06/2004 CLE @ MIN L 35 9 3 7 42.9 0 1 0.0 3 4 75.0 2 3 5 3 1 0 1 4 -13
+p343
+aVDeSagana Diop CLE 02/06/2004 CLE @ MIN L 17 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -1
+p344
+aVIra Newble CLE 02/06/2004 CLE @ MIN L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p345
+aVJeff McInnis CLE 02/06/2004 CLE @ MIN L 37 21 9 14 64.3 1 1 100.0 2 2 100.0 1 1 2 5 1 0 5 3 -18
+p346
+aVKevin Ollie CLE 02/06/2004 CLE @ MIN L 13 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 4 1 0 0 2 4
+p347
+aVCarlos Boozer CLE 02/06/2004 CLE @ MIN L 38 17 5 13 38.5 0 0 - 7 8 87.5 2 7 9 2 1 1 0 3 -12
+p348
+aVLeBron James CLE 02/06/2004 CLE @ MIN L 44 14 6 18 33.3 1 3 33.3 1 4 25.0 1 8 9 5 0 0 3 2 -16
+p349
+aVDajuan Wagner CLE 02/06/2004 CLE @ MIN L 16 4 2 6 33.3 0 0 - 0 0 - 0 0 0 1 1 1 0 2 9
+p350
+aVZydrunas Ilgauskas CLE 02/06/2004 CLE @ MIN L 35 18 7 11 63.6 0 0 - 4 7 57.1 2 4 6 2 0 3 4 4 -15
+p351
+aVDeSagana Diop CLE 02/04/2004 CLE vs. LAL L 22 6 3 5 60.0 0 0 - 0 2 0.0 2 3 5 0 1 1 0 6 0
+p352
+aVDajuan Wagner CLE 02/04/2004 CLE vs. LAL L 14 6 2 6 33.3 1 2 50.0 1 2 50.0 1 2 3 1 0 0 1 5 -10
+p353
+aVJeff McInnis CLE 02/04/2004 CLE vs. LAL L 33 2 1 8 12.5 0 1 0.0 0 0 - 1 0 1 6 0 0 1 6 -2
+p354
+aVEric Williams CLE 02/04/2004 CLE vs. LAL L 36 20 4 13 30.8 1 4 25.0 11 13 84.6 1 2 3 2 1 0 0 4 -2
+p355
+aVIra Newble CLE 02/04/2004 CLE vs. LAL L 18 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 0 0 0 2 -1
+p356
+aVKevin Ollie CLE 02/04/2004 CLE vs. LAL L 21 1 0 4 0.0 0 0 - 1 2 50.0 0 5 5 1 1 1 1 1 -3
+p357
+aVLeBron James CLE 02/04/2004 CLE vs. LAL L 43 32 12 26 46.2 4 4 100.0 4 5 80.0 0 4 4 4 0 0 0 0 -2
+p358
+aVCarlos Boozer CLE 02/04/2004 CLE vs. LAL L 46 25 11 17 64.7 0 0 - 3 3 100.0 3 13 16 7 1 0 2 2 -1
+p359
+aVZydrunas Ilgauskas CLE 02/04/2004 CLE vs. LAL L 32 12 5 13 38.5 0 0 - 2 2 100.0 4 5 9 0 1 2 1 6 -4
+p360
+aVKevin Ollie CLE 02/03/2004 CLE @ DET W 21 4 1 2 50.0 0 0 - 2 3 66.7 0 1 1 5 0 0 1 0 -2
+p361
+aVDajuan Wagner CLE 02/03/2004 CLE @ DET W 11 4 1 3 33.3 0 0 - 2 3 66.7 0 0 0 1 1 0 2 4 6
+p362
+aVZydrunas Ilgauskas CLE 02/03/2004 CLE @ DET W 40 15 6 17 35.3 0 0 - 3 5 60.0 5 4 9 0 0 5 1 1 7
+p363
+aVDeSagana Diop CLE 02/03/2004 CLE @ DET W 18 7 3 7 42.9 0 0 - 1 2 50.0 4 6 10 1 0 0 1 3 -6
+p364
+aVEric Williams CLE 02/03/2004 CLE @ DET W 29 9 4 11 36.4 0 1 0.0 1 1 100.0 1 1 2 1 3 0 0 3 6
+p365
+aVJeff McInnis CLE 02/03/2004 CLE @ DET W 27 11 5 9 55.6 1 2 50.0 0 0 - 0 2 2 5 0 0 1 4 6
+p366
+aVIra Newble CLE 02/03/2004 CLE @ DET W 18 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -5
+p367
+aVLeBron James CLE 02/03/2004 CLE @ DET W 38 12 5 19 26.3 0 1 0.0 2 2 100.0 1 3 4 6 2 0 1 2 -1
+p368
+aVCarlos Boozer CLE 02/03/2004 CLE @ DET W 38 21 9 14 64.3 0 0 - 3 4 75.0 3 12 15 2 1 1 1 4 4
+p369
+aVDajuan Wagner CLE 02/01/2004 CLE @ WAS W 17 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 1 -16
+p370
+aVDeSagana Diop CLE 02/01/2004 CLE @ WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -15
+p371
+aVLeBron James CLE 02/01/2004 CLE @ WAS W 43 38 14 27 51.9 1 2 50.0 9 11 81.8 3 3 6 4 0 2 6 4 0
+p372
+aVZydrunas Ilgauskas CLE 02/01/2004 CLE @ WAS W 34 8 4 9 44.4 0 0 - 0 0 - 0 5 5 1 0 6 2 3 29
+p373
+aVEric Williams CLE 02/01/2004 CLE @ WAS W 21 6 1 6 16.7 0 3 0.0 4 4 100.0 1 5 6 2 0 0 0 1 21
+p374
+aVIra Newble CLE 02/01/2004 CLE @ WAS W 23 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 0 2 4 -2
+p375
+aVTony Battie CLE 02/01/2004 CLE @ WAS W 14 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -4
+p376
+aVCarlos Boozer CLE 02/01/2004 CLE @ WAS W 35 21 8 10 80.0 0 0 - 5 7 71.4 3 11 14 5 4 0 1 4 8
+p377
+aVKevin Ollie CLE 02/01/2004 CLE @ WAS W 8 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 0 0 0 1 1 -21
+p378
+aVJeff McInnis CLE 02/01/2004 CLE @ WAS W 41 13 4 8 50.0 1 2 50.0 4 4 100.0 0 6 6 9 2 0 9 3 20
+p379
+aVEric Williams CLE 01/30/2004 CLE @ MIL L 21 6 3 7 42.9 0 4 0.0 0 0 - 1 3 4 2 1 0 0 1 -1
+p380
+aVDajuan Wagner CLE 01/30/2004 CLE @ MIL L 9 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 0 3
+p381
+aVKevin Ollie CLE 01/30/2004 CLE @ MIL L 13 9 3 4 75.0 0 0 - 3 3 100.0 0 0 0 2 0 0 0 2 2
+p382
+aVCarlos Boozer CLE 01/30/2004 CLE @ MIL L 31 19 8 15 53.3 0 1 0.0 3 5 60.0 5 1 6 2 0 1 3 3 -5
+p383
+aVZydrunas Ilgauskas CLE 01/30/2004 CLE @ MIL L 28 8 4 13 30.8 0 0 - 0 0 - 5 6 11 2 0 2 0 4 -17
+p384
+aVLeBron James CLE 01/30/2004 CLE @ MIL L 37 20 7 25 28.0 1 6 16.7 5 8 62.5 2 6 8 3 1 0 5 5 3
+p385
+aVIra Newble CLE 01/30/2004 CLE @ MIL L 26 6 3 4 75.0 0 0 - 0 2 0.0 0 4 4 1 1 1 1 2 -15
+p386
+aVKedrick Brown CLE 01/30/2004 CLE @ MIL L 17 9 3 4 75.0 1 2 50.0 2 2 100.0 2 3 5 2 2 1 1 2 5
+p387
+aVJeff McInnis CLE 01/30/2004 CLE @ MIL L 35 11 3 12 25.0 0 1 0.0 5 6 83.3 1 3 4 5 1 0 0 3 -9
+p388
+aVTony Battie CLE 01/30/2004 CLE @ MIL L 8 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 1 1 0 -6
+p389
+aVDeSagana Diop CLE 01/30/2004 CLE @ MIL L 15 2 0 2 0.0 0 0 - 2 2 100.0 1 6 7 1 1 0 1 2 10
+p390
+aVZydrunas Ilgauskas CLE 01/28/2004 CLE vs. MIA W 36 30 14 16 87.5 0 0 - 2 4 50.0 4 7 11 1 1 1 3 4 11
+p391
+aVDajuan Wagner CLE 01/28/2004 CLE vs. MIA W 21 10 4 11 36.4 1 3 33.3 1 2 50.0 0 1 1 0 0 0 1 4 8
+p392
+aVIra Newble CLE 01/28/2004 CLE vs. MIA W 30 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 2 0 2 0 3 -8
+p393
+aVEric Williams CLE 01/28/2004 CLE vs. MIA W 32 9 4 8 50.0 0 1 0.0 1 1 100.0 3 4 7 2 1 2 4 1 -12
+p394
+aVJeff McInnis CLE 01/28/2004 CLE vs. MIA W 29 4 1 7 14.3 0 2 0.0 2 2 100.0 1 3 4 8 0 0 1 3 -4
+p395
+aVKevin Ollie CLE 01/28/2004 CLE vs. MIA W 19 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 6 0 0 0 2 7
+p396
+aVJ.R. Bremer CLE 01/28/2004 CLE vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p397
+aVTony Battie CLE 01/28/2004 CLE vs. MIA W 19 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 8
+p398
+aVLeBron James CLE 01/28/2004 CLE vs. MIA W 44 27 10 25 40.0 0 1 0.0 7 10 70.0 0 5 5 4 2 1 1 1 2
+p399
+aVDeSagana Diop CLE 01/28/2004 CLE vs. MIA W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 2 1 0 -5
+p400
+aVDajuan Wagner CLE 01/26/2004 CLE vs. ORL W 28 21 8 17 47.1 3 3 100.0 2 2 100.0 0 1 1 1 1 0 0 2 10
+p401
+aVDeSagana Diop CLE 01/26/2004 CLE vs. ORL W 18 2 1 5 20.0 0 0 - 0 0 - 2 2 4 2 0 2 0 3 11
+p402
+aVKevin Ollie CLE 01/26/2004 CLE vs. ORL W 18 5 1 4 25.0 0 0 - 3 4 75.0 1 2 3 2 0 0 0 3 13
+p403
+aVLeBron James CLE 01/26/2004 CLE vs. ORL W 30 16 7 19 36.8 1 2 50.0 1 2 50.0 0 5 5 3 0 2 3 4 -10
+p404
+aVJeff McInnis CLE 01/26/2004 CLE vs. ORL W 30 7 3 11 27.3 1 2 50.0 0 0 - 0 2 2 7 3 0 1 0 -14
+p405
+aVIra Newble CLE 01/26/2004 CLE vs. ORL W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -9
+p406
+aVZydrunas Ilgauskas CLE 01/26/2004 CLE vs. ORL W 33 11 4 15 26.7 0 0 - 3 6 50.0 8 4 12 3 1 3 1 4 -9
+p407
+aVKedrick Brown CLE 01/26/2004 CLE vs. ORL W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p408
+aVEric Williams CLE 01/26/2004 CLE vs. ORL W 33 12 4 8 50.0 0 1 0.0 4 7 57.1 0 4 4 2 0 0 0 1 3
+p409
+aVCarlos Boozer CLE 01/26/2004 CLE vs. ORL W 40 23 7 12 58.3 0 0 - 9 12 75.0 5 11 16 3 2 0 1 4 3
+p410
+aVKedrick Brown CLE 01/24/2004 CLE vs. PHI W 23 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 4 1 0 1 2 17
+p411
+aVJeff McInnis CLE 01/24/2004 CLE vs. PHI W 35 9 4 11 36.4 0 1 0.0 1 1 100.0 0 4 4 6 1 1 1 3 0
+p412
+aVIra Newble CLE 01/24/2004 CLE vs. PHI W 18 0 0 0 - 0 0 - 0 0 - 3 0 3 1 1 0 2 4 -6
+p413
+aVCarlos Boozer CLE 01/24/2004 CLE vs. PHI W 34 15 5 15 33.3 0 1 0.0 5 8 62.5 3 12 15 2 1 2 0 1 6
+p414
+aVKevin Ollie CLE 01/24/2004 CLE vs. PHI W 18 11 2 4 50.0 0 0 - 7 7 100.0 0 3 3 2 0 0 0 1 7
+p415
+aVZydrunas Ilgauskas CLE 01/24/2004 CLE vs. PHI W 27 14 5 11 45.5 0 0 - 4 8 50.0 3 2 5 1 1 1 0 3 1
+p416
+aVDajuan Wagner CLE 01/24/2004 CLE vs. PHI W 26 17 6 12 50.0 1 3 33.3 4 4 100.0 0 3 3 4 0 0 3 3 1
+p417
+aVEric Williams CLE 01/24/2004 CLE vs. PHI W 42 20 6 13 46.2 4 8 50.0 4 4 100.0 2 2 4 4 1 0 1 2 6
+p418
+aVDeSagana Diop CLE 01/24/2004 CLE vs. PHI W 17 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 3 1 2 8
+p419
+aVTony Battie CLE 01/22/2004 CLE vs. SAC L 14 0 0 1 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 3 -2
+p420
+aVZydrunas Ilgauskas CLE 01/22/2004 CLE vs. SAC L 30 13 6 15 40.0 0 0 - 1 2 50.0 3 6 9 1 1 2 0 1 -7
+p421
+aVKevin Ollie CLE 01/22/2004 CLE vs. SAC L 43 9 2 6 33.3 0 0 - 5 6 83.3 1 9 10 9 3 0 2 4 3
+p422
+aVEric Williams CLE 01/22/2004 CLE vs. SAC L 37 18 7 19 36.8 1 3 33.3 3 4 75.0 0 3 3 2 0 0 2 3 -17
+p423
+aVKedrick Brown CLE 01/22/2004 CLE vs. SAC L 18 5 2 6 33.3 1 4 25.0 0 0 - 1 2 3 0 0 0 2 0 -7
+p424
+aVDajuan Wagner CLE 01/22/2004 CLE vs. SAC L 33 20 7 16 43.8 4 8 50.0 2 3 66.7 1 1 2 0 1 0 1 5 5
+p425
+aVCarlos Boozer CLE 01/22/2004 CLE vs. SAC L 39 15 6 13 46.2 0 0 - 3 4 75.0 4 7 11 6 1 2 2 2 -4
+p426
+aVDeSagana Diop CLE 01/22/2004 CLE vs. SAC L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p427
+aVIra Newble CLE 01/22/2004 CLE vs. SAC L 18 9 3 6 50.0 0 0 - 3 3 100.0 0 2 2 2 4 0 1 2 1
+p428
+aVDarius Miles CLE 01/20/2004 CLE vs. SEA W 17 8 4 8 50.0 0 1 0.0 0 0 - 4 3 7 1 0 0 1 0 0
+p429
+aVKevin Ollie CLE 01/20/2004 CLE vs. SEA W 36 5 1 4 25.0 0 0 - 3 3 100.0 1 4 5 3 0 0 1 1 10
+p430
+aVKedrick Brown CLE 01/20/2004 CLE vs. SEA W 22 13 4 7 57.1 3 3 100.0 2 2 100.0 2 1 3 2 0 0 2 1 8
+p431
+aVCarlos Boozer CLE 01/20/2004 CLE vs. SEA W 41 32 9 20 45.0 0 0 - 14 15 93.3 8 12 20 4 1 1 1 3 14
+p432
+aVTony Battie CLE 01/20/2004 CLE vs. SEA W 40 17 5 12 41.7 0 0 - 7 10 70.0 4 6 10 1 0 3 1 0 10
+p433
+aVIra Newble CLE 01/20/2004 CLE vs. SEA W 15 0 0 5 0.0 0 0 - 0 0 - 3 1 4 1 0 0 1 0 -9
+p434
+aVJason Kapono CLE 01/20/2004 CLE vs. SEA W 7 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 1 -3
+p435
+aVDajuan Wagner CLE 01/20/2004 CLE vs. SEA W 25 14 4 14 28.6 0 3 0.0 6 6 100.0 0 2 2 0 1 0 1 2 -1
+p436
+aVDeSagana Diop CLE 01/20/2004 CLE vs. SEA W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 2 3 -6
+p437
+aVEric Williams CLE 01/20/2004 CLE vs. SEA W 29 8 2 11 18.2 0 2 0.0 4 4 100.0 1 0 1 3 1 0 0 3 2
+p438
+aVZydrunas Ilgauskas CLE 01/17/2004 CLE @ UTA W 24 5 1 9 11.1 0 0 - 3 4 75.0 4 3 7 0 0 2 3 4 -1
+p439
+aVKedrick Brown CLE 01/17/2004 CLE @ UTA W 27 4 2 6 33.3 0 3 0.0 0 0 - 1 2 3 1 0 0 0 0 2
+p440
+aVDarius Miles CLE 01/17/2004 CLE @ UTA W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -14
+p441
+aVDajuan Wagner CLE 01/17/2004 CLE @ UTA W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 4 -12
+p442
+aVIra Newble CLE 01/17/2004 CLE @ UTA W 17 8 2 3 66.7 0 0 - 4 6 66.7 2 0 2 2 0 0 1 2 12
+p443
+aVKevin Ollie CLE 01/17/2004 CLE @ UTA W 8 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 -2
+p444
+aVLeBron James CLE 01/17/2004 CLE @ UTA W 45 29 12 28 42.9 2 4 50.0 3 5 60.0 1 6 7 2 2 1 4 2 8
+p445
+aVEric Williams CLE 01/17/2004 CLE @ UTA W 43 10 2 9 22.2 1 2 50.0 5 6 83.3 0 4 4 5 3 0 3 5 22
+p446
+aVCarlos Boozer CLE 01/17/2004 CLE @ UTA W 43 32 12 20 60.0 0 0 - 8 9 88.9 6 12 18 1 2 1 1 3 24
+p447
+aVDeSagana Diop CLE 01/17/2004 CLE @ UTA W 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 2 -3
+p448
+aVJason Kapono CLE 01/17/2004 CLE @ UTA W 9 2 0 0 - 0 0 - 2 3 66.7 0 1 1 0 1 0 0 2 -13
+p449
+aVTony Battie CLE 01/17/2004 CLE @ UTA W 24 4 0 3 0.0 0 0 - 4 6 66.7 3 5 8 1 1 2 3 5 7
+p450
+aVIra Newble CLE 01/15/2004 CLE @ GSW L 18 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -9
+p451
+aVJason Kapono CLE 01/15/2004 CLE @ GSW L 17 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 1 1 0 0 2 -2
+p452
+aVDajuan Wagner CLE 01/15/2004 CLE @ GSW L 19 6 3 8 37.5 0 1 0.0 0 0 - 0 0 0 0 0 0 1 4 -5
+p453
+aVKevin Ollie CLE 01/15/2004 CLE @ GSW L 14 5 1 2 50.0 0 0 - 3 3 100.0 0 0 0 1 0 0 3 0 -5
+p454
+aVEric Williams CLE 01/15/2004 CLE @ GSW L 32 21 7 13 53.8 1 3 33.3 6 6 100.0 1 2 3 3 1 0 0 3 -15
+p455
+aVDeSagana Diop CLE 01/15/2004 CLE @ GSW L 20 6 3 9 33.3 0 0 - 0 0 - 4 3 7 2 1 0 1 3 -1
+p456
+aVLeBron James CLE 01/15/2004 CLE @ GSW L 43 29 8 21 38.1 2 5 40.0 11 13 84.6 2 4 6 6 3 0 2 0 -14
+p457
+aVDarius Miles CLE 01/15/2004 CLE @ GSW L 27 18 8 12 66.7 0 1 0.0 2 3 66.7 2 2 4 0 2 1 1 1 -14
+p458
+aVCarlos Boozer CLE 01/15/2004 CLE @ GSW L 22 8 3 5 60.0 0 0 - 2 2 100.0 4 6 10 2 0 0 1 2 -4
+p459
+aVTony Battie CLE 01/15/2004 CLE @ GSW L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p460
+aVZydrunas Ilgauskas CLE 01/15/2004 CLE @ GSW L 24 9 3 9 33.3 0 0 - 3 3 100.0 4 5 9 2 0 5 2 4 -14
+p461
+aVKevin Ollie CLE 01/13/2004 CLE @ SEA W 13 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 1 2
+p462
+aVCarlos Boozer CLE 01/13/2004 CLE @ SEA W 23 11 4 6 66.7 0 0 - 3 3 100.0 0 1 1 0 1 0 1 3 -3
+p463
+aVDajuan Wagner CLE 01/13/2004 CLE @ SEA W 35 7 3 10 30.0 1 2 50.0 0 0 - 1 6 7 4 2 1 2 2 6
+p464
+aVDeSagana Diop CLE 01/13/2004 CLE @ SEA W 19 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 2 0 0 1 12
+p465
+aVZydrunas Ilgauskas CLE 01/13/2004 CLE @ SEA W 21 17 8 18 44.4 0 0 - 1 1 100.0 7 3 10 0 0 2 0 2 -7
+p466
+aVJason Kapono CLE 01/13/2004 CLE @ SEA W 25 8 2 4 50.0 0 1 0.0 4 4 100.0 0 2 2 1 0 0 0 3 13
+p467
+aVTony Battie CLE 01/13/2004 CLE @ SEA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p468
+aVDarius Miles CLE 01/13/2004 CLE @ SEA W 29 12 6 11 54.5 0 0 - 0 1 0.0 2 3 5 2 1 3 1 1 14
+p469
+aVEric Williams CLE 01/13/2004 CLE @ SEA W 27 12 3 5 60.0 0 0 - 6 6 100.0 0 6 6 1 1 0 1 1 -11
+p470
+aVLeBron James CLE 01/13/2004 CLE @ SEA W 44 27 11 26 42.3 0 1 0.0 5 6 83.3 4 5 9 9 2 0 4 2 11
+p471
+aVLeBron James CLE 01/12/2004 CLE @ LAL L 37 16 6 20 30.0 0 3 0.0 4 5 80.0 1 4 5 7 1 1 6 3 3
+p472
+aVZydrunas Ilgauskas CLE 01/12/2004 CLE @ LAL L 30 19 8 14 57.1 0 0 - 3 5 60.0 6 2 8 0 0 1 3 5 0
+p473
+aVKedrick Brown CLE 01/12/2004 CLE @ LAL L 13 2 1 7 14.3 0 2 0.0 0 0 - 1 4 5 0 0 1 0 2 -4
+p474
+aVJason Kapono CLE 01/12/2004 CLE @ LAL L 13 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 2 -14
+p475
+aVCarlos Boozer CLE 01/12/2004 CLE @ LAL L 37 12 4 11 36.4 0 0 - 4 4 100.0 3 9 12 1 3 0 3 4 3
+p476
+aVKevin Ollie CLE 01/12/2004 CLE @ LAL L 30 7 1 4 25.0 0 0 - 5 5 100.0 0 1 1 2 2 0 0 3 -15
+p477
+aVDajuan Wagner CLE 01/12/2004 CLE @ LAL L 20 8 4 13 30.8 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 -11
+p478
+aVTony Battie CLE 01/12/2004 CLE @ LAL L 21 2 1 3 33.3 0 1 0.0 0 0 - 3 8 11 1 0 3 1 3 -10
+p479
+aVEric Williams CLE 01/12/2004 CLE @ LAL L 31 9 3 11 27.3 1 3 33.3 2 3 66.7 0 7 7 0 2 1 3 3 11
+p480
+aVDarius Miles CLE 01/12/2004 CLE @ LAL L 8 1 0 0 - 0 0 - 1 4 25.0 1 1 2 0 0 0 0 1 -13
+p481
+aVKevin Ollie CLE 01/09/2004 CLE @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 4
+p482
+aVDajuan Wagner CLE 01/09/2004 CLE @ BOS L 29 5 1 7 14.3 0 3 0.0 3 4 75.0 0 2 2 2 2 0 2 4 -12
+p483
+aVDarius Miles CLE 01/09/2004 CLE @ BOS L 16 4 1 5 20.0 1 2 50.0 1 2 50.0 1 2 3 1 0 0 3 2 -20
+p484
+aVKedrick Brown CLE 01/09/2004 CLE @ BOS L 24 9 3 10 30.0 2 6 33.3 1 2 50.0 1 3 4 1 0 1 3 1 -17
+p485
+aVJ.R. Bremer CLE 01/09/2004 CLE @ BOS L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -3
+p486
+aVEric Williams CLE 01/09/2004 CLE @ BOS L 19 8 3 9 33.3 1 4 25.0 1 2 50.0 0 3 3 1 0 0 0 5 0
+p487
+aVJason Kapono CLE 01/09/2004 CLE @ BOS L 17 9 3 7 42.9 2 5 40.0 1 2 50.0 1 2 3 1 0 0 1 1 -7
+p488
+aVZydrunas Ilgauskas CLE 01/09/2004 CLE @ BOS L 20 5 1 6 16.7 0 0 - 3 4 75.0 5 3 8 1 1 1 2 2 -14
+p489
+aVCarlos Boozer CLE 01/09/2004 CLE @ BOS L 22 5 2 7 28.6 0 0 - 1 5 20.0 5 3 8 0 1 0 2 3 -18
+p490
+aVDeSagana Diop CLE 01/09/2004 CLE @ BOS L 16 6 3 6 50.0 0 0 - 0 0 - 0 4 4 0 0 1 1 3 -6
+p491
+aVTony Battie CLE 01/09/2004 CLE @ BOS L 20 10 4 7 57.1 0 0 - 2 2 100.0 4 9 13 0 2 0 1 2 -2
+p492
+aVLeBron James CLE 01/09/2004 CLE @ BOS L 43 19 7 19 36.8 0 3 0.0 5 7 71.4 0 3 3 6 3 0 5 1 -30
+p493
+aVKevin Ollie CLE 01/07/2004 CLE @ TOR L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 2 0 0 0 -5
+p494
+aVZydrunas Ilgauskas CLE 01/07/2004 CLE @ TOR L 30 12 5 15 33.3 0 0 - 2 4 50.0 5 7 12 1 0 0 2 4 0
+p495
+aVCarlos Boozer CLE 01/07/2004 CLE @ TOR L 23 8 3 11 27.3 0 0 - 2 2 100.0 4 2 6 0 1 0 2 3 1
+p496
+aVEric Williams CLE 01/07/2004 CLE @ TOR L 33 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 3 2 1 1 1 -1
+p497
+aVLeBron James CLE 01/07/2004 CLE @ TOR L 38 21 10 23 43.5 0 3 0.0 1 2 50.0 0 2 2 5 0 0 2 3 -2
+p498
+aVDajuan Wagner CLE 01/07/2004 CLE @ TOR L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 0 1
+p499
+aVDeSagana Diop CLE 01/07/2004 CLE @ TOR L 14 4 2 4 50.0 0 0 - 0 0 - 3 4 7 0 1 0 0 3 -1
+p500
+aVDarius Miles CLE 01/07/2004 CLE @ TOR L 25 6 3 5 60.0 0 0 - 0 0 - 2 5 7 0 0 0 3 1 -8
+p501
+aVJ.R. Bremer CLE 01/07/2004 CLE @ TOR L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p502
+aVTony Battie CLE 01/07/2004 CLE @ TOR L 21 7 2 6 33.3 0 0 - 3 4 75.0 2 5 7 0 0 0 0 3 -10
+p503
+aVKedrick Brown CLE 01/07/2004 CLE @ TOR L 28 5 2 5 40.0 1 2 50.0 0 0 - 2 4 6 0 2 0 1 1 -3
+p504
+aVCarlos Boozer CLE 01/06/2004 CLE vs. NYK W 26 12 6 10 60.0 0 0 - 0 0 - 2 5 7 2 1 3 2 1 1
+p505
+aVDarius Miles CLE 01/06/2004 CLE vs. NYK W 11 0 0 0 - 0 0 - 0 2 0.0 0 2 2 1 0 0 0 0 -1
+p506
+aVZydrunas Ilgauskas CLE 01/06/2004 CLE vs. NYK W 29 24 8 15 53.3 0 0 - 8 8 100.0 3 4 7 1 2 1 1 4 8
+p507
+aVTony Battie CLE 01/06/2004 CLE vs. NYK W 24 10 3 7 42.9 0 1 0.0 4 4 100.0 2 6 8 0 0 0 1 2 5
+p508
+aVLeBron James CLE 01/06/2004 CLE vs. NYK W 41 14 6 17 35.3 0 2 0.0 2 2 100.0 0 4 4 10 1 1 4 1 10
+p509
+aVDeSagana Diop CLE 01/06/2004 CLE vs. NYK W 14 0 0 3 0.0 0 0 - 0 0 - 1 4 5 2 0 1 1 2 6
+p510
+aVKedrick Brown CLE 01/06/2004 CLE vs. NYK W 29 9 4 7 57.1 1 1 100.0 0 0 - 0 1 1 2 1 0 0 2 19
+p511
+aVDajuan Wagner CLE 01/06/2004 CLE vs. NYK W 8 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -5
+p512
+aVKevin Ollie CLE 01/06/2004 CLE vs. NYK W 18 12 3 5 60.0 0 1 0.0 6 6 100.0 0 1 1 3 0 0 2 1 -2
+p513
+aVEric Williams CLE 01/06/2004 CLE vs. NYK W 40 22 7 12 58.3 1 2 50.0 7 9 77.8 2 4 6 4 1 0 3 3 14
+p514
+aVTony Battie CLE 01/02/2004 CLE @ NJN L 24 2 1 1 100.0 0 0 - 0 0 - 0 5 5 0 0 0 1 0 -6
+p515
+aVJ.R. Bremer CLE 01/02/2004 CLE @ NJN L 16 8 3 4 75.0 2 3 66.7 0 0 - 0 3 3 3 1 0 2 3 -4
+p516
+aVLeBron James CLE 01/02/2004 CLE @ NJN L 37 14 6 19 31.6 0 4 0.0 2 4 50.0 1 3 4 9 1 0 3 2 -14
+p517
+aVEric Williams CLE 01/02/2004 CLE @ NJN L 34 9 3 14 21.4 1 4 25.0 2 2 100.0 0 1 1 3 2 1 2 2 -16
+p518
+aVJason Kapono CLE 01/02/2004 CLE @ NJN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p519
+aVDarius Miles CLE 01/02/2004 CLE @ NJN L 15 6 3 7 42.9 0 0 - 0 0 - 0 1 1 2 0 0 1 2 1
+p520
+aVKedrick Brown CLE 01/02/2004 CLE @ NJN L 20 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 1 -10
+p521
+aVKevin Ollie CLE 01/02/2004 CLE @ NJN L 23 11 3 7 42.9 0 0 - 5 5 100.0 0 2 2 4 3 0 0 2 -2
+p522
+aVCarlos Boozer CLE 01/02/2004 CLE @ NJN L 43 16 7 13 53.8 0 0 - 2 3 66.7 3 10 13 2 0 2 3 3 -12
+p523
+aVZydrunas Ilgauskas CLE 01/02/2004 CLE @ NJN L 24 12 6 11 54.5 0 0 - 0 0 - 4 4 8 1 1 1 2 3 -9
+p524
+aVEric Williams CLE 12/30/2003 CLE vs. IND L 23 3 1 5 20.0 1 2 50.0 0 0 - 1 1 2 3 0 0 3 2 0
+p525
+aVKevin Ollie CLE 12/30/2003 CLE vs. IND L 26 6 3 3 100.0 0 0 - 0 0 - 1 1 2 4 1 0 2 3 2
+p526
+aVKedrick Brown CLE 12/30/2003 CLE vs. IND L 21 11 5 9 55.6 1 2 50.0 0 0 - 3 1 4 2 0 0 0 3 -1
+p527
+aVTony Battie CLE 12/30/2003 CLE vs. IND L 20 5 2 5 40.0 0 0 - 1 1 100.0 0 3 3 0 1 0 1 3 0
+p528
+aVLeBron James CLE 12/30/2003 CLE vs. IND L 38 22 9 20 45.0 0 4 0.0 4 6 66.7 2 8 10 4 0 0 4 2 -2
+p529
+aVDarius Miles CLE 12/30/2003 CLE vs. IND L 20 12 5 9 55.6 0 0 - 2 7 28.6 3 4 7 1 0 1 2 1 -5
+p530
+aVCarlos Boozer CLE 12/30/2003 CLE vs. IND L 41 17 8 14 57.1 1 2 50.0 0 0 - 0 11 11 6 0 2 2 1 -4
+p531
+aVZydrunas Ilgauskas CLE 12/30/2003 CLE vs. IND L 29 10 3 5 60.0 0 0 - 4 6 66.7 1 5 6 3 0 4 3 5 -1
+p532
+aVIra Newble CLE 12/30/2003 CLE vs. IND L 22 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 2 -4
+p533
+aVDarius Miles CLE 12/28/2003 CLE vs. POR W 24 10 4 7 57.1 0 0 - 2 2 100.0 1 4 5 2 2 0 1 3 4
+p534
+aVKevin Ollie CLE 12/28/2003 CLE vs. POR W 19 5 1 5 20.0 0 0 - 3 4 75.0 2 3 5 2 1 0 1 0 6
+p535
+aVKedrick Brown CLE 12/28/2003 CLE vs. POR W 26 8 4 8 50.0 0 3 0.0 0 0 - 2 3 5 3 1 0 1 2 6
+p536
+aVZydrunas Ilgauskas CLE 12/28/2003 CLE vs. POR W 10 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 2 1 1 -1
+p537
+aVEric Williams CLE 12/28/2003 CLE vs. POR W 32 9 4 9 44.4 0 0 - 1 2 50.0 0 0 0 2 1 0 1 3 14
+p538
+aVIra Newble CLE 12/28/2003 CLE vs. POR W 19 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 0
+p539
+aVTony Battie CLE 12/28/2003 CLE vs. POR W 33 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 3 1 3 6
+p540
+aVLeBron James CLE 12/28/2003 CLE vs. POR W 39 32 15 23 65.2 0 2 0.0 2 2 100.0 3 7 10 9 3 0 5 1 11
+p541
+aVCarlos Boozer CLE 12/28/2003 CLE vs. POR W 38 10 5 13 38.5 0 0 - 0 0 - 2 11 13 0 0 0 2 1 14
+p542
+aVKedrick Brown CLE 12/26/2003 CLE vs. CHI L 31 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 1 1 0 2 -3
+p543
+aVJ.R. Bremer CLE 12/26/2003 CLE vs. CHI L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p544
+aVZydrunas Ilgauskas CLE 12/26/2003 CLE vs. CHI L 21 8 4 8 50.0 0 0 - 0 0 - 4 6 10 1 0 4 1 3 0
+p545
+aVEric Williams CLE 12/26/2003 CLE vs. CHI L 27 11 4 12 33.3 1 4 25.0 2 3 66.7 1 1 2 1 1 0 0 4 -7
+p546
+aVLeBron James CLE 12/26/2003 CLE vs. CHI L 34 18 7 24 29.2 1 4 25.0 3 4 75.0 1 2 3 4 1 2 5 0 -12
+p547
+aVDarius Miles CLE 12/26/2003 CLE vs. CHI L 28 11 5 11 45.5 0 1 0.0 1 1 100.0 1 6 7 5 0 1 1 2 0
+p548
+aVKevin Ollie CLE 12/26/2003 CLE vs. CHI L 26 6 2 5 40.0 0 0 - 2 2 100.0 1 4 5 4 1 0 2 2 0
+p549
+aVCarlos Boozer CLE 12/26/2003 CLE vs. CHI L 31 10 5 9 55.6 0 0 - 0 0 - 5 9 14 4 1 0 2 2 -5
+p550
+aVTony Battie CLE 12/26/2003 CLE vs. CHI L 23 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 3 1 1 0 -3
+p551
+aVIra Newble CLE 12/26/2003 CLE vs. CHI L 14 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p552
+aVCarlos Boozer CLE 12/25/2003 CLE @ ORL L 42 18 8 10 80.0 0 0 - 2 2 100.0 4 15 19 0 0 0 4 3 -4
+p553
+aVKedrick Brown CLE 12/25/2003 CLE @ ORL L 20 5 2 5 40.0 1 1 100.0 0 0 - 2 2 4 4 0 0 0 1 1
+p554
+aVZydrunas Ilgauskas CLE 12/25/2003 CLE @ ORL L 27 11 3 6 50.0 0 0 - 5 6 83.3 0 2 2 0 0 3 1 5 -15
+p555
+aVJason Kapono CLE 12/25/2003 CLE @ ORL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p556
+aVIra Newble CLE 12/25/2003 CLE @ ORL L 20 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 2 1
+p557
+aVKevin Ollie CLE 12/25/2003 CLE @ ORL L 27 4 2 5 40.0 0 0 - 0 0 - 0 1 1 4 0 0 1 1 -12
+p558
+aVLeBron James CLE 12/25/2003 CLE @ ORL L 47 34 13 28 46.4 4 10 40.0 4 5 80.0 1 1 2 6 2 1 8 0 -9
+p559
+aVTony Battie CLE 12/25/2003 CLE @ ORL L 35 6 3 7 42.9 0 0 - 0 0 - 3 1 4 3 0 3 1 3 -2
+p560
+aVJ.R. Bremer CLE 12/25/2003 CLE @ ORL L 8 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 -7
+p561
+aVEric Williams CLE 12/25/2003 CLE @ ORL L 37 18 6 11 54.5 1 2 50.0 5 5 100.0 1 6 7 3 1 0 2 4 -10
+p562
+aVKevin Ollie CLE 12/23/2003 CLE vs. NOH W 18 6 1 2 50.0 0 0 - 4 4 100.0 1 2 3 2 0 0 3 2 13
+p563
+aVCarlos Boozer CLE 12/23/2003 CLE vs. NOH W 39 17 6 8 75.0 0 0 - 5 8 62.5 3 11 14 2 1 2 2 2 11
+p564
+aVJ.R. Bremer CLE 12/23/2003 CLE vs. NOH W 18 6 3 7 42.9 0 3 0.0 0 0 - 1 2 3 4 1 0 1 2 -1
+p565
+aVJason Kapono CLE 12/23/2003 CLE vs. NOH W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p566
+aVKedrick Brown CLE 12/23/2003 CLE vs. NOH W 21 3 1 7 14.3 1 6 16.7 0 0 - 0 0 0 1 0 0 1 0 1
+p567
+aVZydrunas Ilgauskas CLE 12/23/2003 CLE vs. NOH W 25 8 1 6 16.7 0 0 - 6 7 85.7 5 4 9 3 0 3 1 4 -8
+p568
+aVTony Battie CLE 12/23/2003 CLE vs. NOH W 29 11 4 11 36.4 0 0 - 3 3 100.0 3 5 8 1 0 2 0 2 18
+p569
+aVLeBron James CLE 12/23/2003 CLE vs. NOH W 39 22 7 22 31.8 1 6 16.7 7 8 87.5 2 4 6 2 6 1 5 1 9
+p570
+aVEric Williams CLE 12/23/2003 CLE vs. NOH W 22 16 4 10 40.0 2 4 50.0 6 6 100.0 0 3 3 3 0 0 0 1 13
+p571
+aVIra Newble CLE 12/23/2003 CLE vs. NOH W 26 8 3 9 33.3 0 0 - 2 2 100.0 3 2 5 1 0 0 0 1 3
+p572
+aVLeBron James CLE 12/20/2003 CLE @ CHI W 42 32 11 22 50.0 0 5 0.0 10 12 83.3 1 5 6 10 2 2 4 2 9
+p573
+aVZydrunas Ilgauskas CLE 12/20/2003 CLE @ CHI W 39 22 7 13 53.8 1 1 100.0 7 10 70.0 4 8 12 1 1 2 3 2 6
+p574
+aVJ.R. Bremer CLE 12/20/2003 CLE @ CHI W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 3
+p575
+aVIra Newble CLE 12/20/2003 CLE @ CHI W 33 5 2 5 40.0 0 0 - 1 1 100.0 0 3 3 3 0 1 0 4 2
+p576
+aVKedrick Brown CLE 12/20/2003 CLE @ CHI W 23 8 3 5 60.0 2 2 100.0 0 0 - 0 1 1 1 0 0 1 0 -5
+p577
+aVTony Battie CLE 12/20/2003 CLE @ CHI W 21 3 1 6 16.7 0 0 - 1 2 50.0 2 8 10 1 0 0 1 5 12
+p578
+aVKevin Ollie CLE 12/20/2003 CLE @ CHI W 25 6 2 7 28.6 0 0 - 2 4 50.0 1 6 7 5 1 0 1 1 9
+p579
+aVCarlos Boozer CLE 12/20/2003 CLE @ CHI W 36 11 4 9 44.4 0 0 - 3 3 100.0 0 8 8 1 1 1 5 3 -2
+p580
+aVEric Williams CLE 12/20/2003 CLE @ CHI W 18 8 3 5 60.0 0 0 - 2 3 66.7 1 2 3 2 1 0 0 1 6
+p581
+aVTony Battie CLE 12/19/2003 CLE @ PHI W 31 8 4 6 66.7 0 0 - 0 1 0.0 4 4 8 1 2 0 1 2 9
+p582
+aVIra Newble CLE 12/19/2003 CLE @ PHI W 21 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -11
+p583
+aVZydrunas Ilgauskas CLE 12/19/2003 CLE @ PHI W 26 8 3 9 33.3 0 0 - 2 4 50.0 3 6 9 0 0 1 2 4 -8
+p584
+aVCarlos Boozer CLE 12/19/2003 CLE @ PHI W 35 12 4 7 57.1 0 0 - 4 6 66.7 1 5 6 2 2 1 4 3 11
+p585
+aVKedrick Brown CLE 12/19/2003 CLE @ PHI W 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 3 0 1 2 -8
+p586
+aVLeBron James CLE 12/19/2003 CLE @ PHI W 42 36 14 24 58.3 5 7 71.4 3 3 100.0 1 3 4 5 4 0 4 1 9
+p587
+aVEric Williams CLE 12/19/2003 CLE @ PHI W 31 13 6 14 42.9 0 1 0.0 1 2 50.0 3 3 6 1 1 0 2 2 20
+p588
+aVKevin Ollie CLE 12/19/2003 CLE @ PHI W 26 4 1 4 25.0 0 0 - 2 4 50.0 0 3 3 12 0 0 1 1 11
+p589
+aVJason Kapono CLE 12/19/2003 CLE @ PHI W 12 5 2 3 66.7 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 0 2
+p590
+aVTony Battie CLE 12/17/2003 CLE vs. HOU L 32 14 7 13 53.8 0 0 - 0 0 - 2 2 4 2 0 0 2 1 11
+p591
+aVLeBron James CLE 12/17/2003 CLE vs. HOU L 36 17 7 19 36.8 2 4 50.0 1 2 50.0 0 1 1 3 0 0 2 2 -9
+p592
+aVZydrunas Ilgauskas CLE 12/17/2003 CLE vs. HOU L 30 19 6 18 33.3 0 0 - 7 8 87.5 5 4 9 1 0 1 1 3 -10
+p593
+aVEric Williams CLE 12/17/2003 CLE vs. HOU L 31 11 3 9 33.3 0 0 - 5 8 62.5 2 2 4 5 1 0 1 1 -1
+p594
+aVKevin Ollie CLE 12/17/2003 CLE vs. HOU L 18 6 2 4 50.0 2 2 100.0 0 0 - 1 2 3 6 0 0 0 1 2
+p595
+aVCarlos Boozer CLE 12/17/2003 CLE vs. HOU L 32 5 1 6 16.7 0 0 - 3 5 60.0 1 10 11 3 0 0 1 2 -6
+p596
+aVDarius Miles CLE 12/17/2003 CLE vs. HOU L 23 2 1 6 16.7 0 1 0.0 0 0 - 0 5 5 0 1 0 1 3 -4
+p597
+aVJ.R. Bremer CLE 12/17/2003 CLE vs. HOU L 13 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 0 2 0 0 0 -11
+p598
+aVKedrick Brown CLE 12/17/2003 CLE vs. HOU L 25 11 4 8 50.0 3 5 60.0 0 0 - 1 6 7 1 1 0 0 0 8
+p599
+aVCarlos Boozer CLE 12/15/2003 CLE @ IND L 41 13 6 13 46.2 0 2 0.0 1 2 50.0 0 5 5 4 4 2 4 2 -13
+p600
+aVZydrunas Ilgauskas CLE 12/15/2003 CLE @ IND L 31 8 4 11 36.4 0 0 - 0 2 0.0 2 5 7 0 0 3 4 5 -2
+p601
+aVJason Kapono CLE 12/15/2003 CLE @ IND L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 -4
+p602
+aVDarius Miles CLE 12/15/2003 CLE @ IND L 22 6 3 9 33.3 0 0 - 0 0 - 0 3 3 4 1 0 2 3 -6
+p603
+aVIra Newble CLE 12/15/2003 CLE @ IND L 30 12 5 5 100.0 0 0 - 2 3 66.7 0 3 3 3 0 0 1 2 -2
+p604
+aVKevin Ollie CLE 12/15/2003 CLE @ IND L 26 10 4 5 80.0 0 0 - 2 2 100.0 0 4 4 3 1 0 0 3 -4
+p605
+aVBruno Sundov CLE 12/15/2003 CLE @ IND L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 -1
+p606
+aVLeBron James CLE 12/15/2003 CLE @ IND L 44 27 10 16 62.5 0 3 0.0 7 8 87.5 1 3 4 6 3 3 6 1 -12
+p607
+aVJ.R. Bremer CLE 12/15/2003 CLE @ IND L 22 5 2 6 33.3 0 2 0.0 1 2 50.0 0 4 4 2 1 0 2 1 -6
+p608
+aVDarius Miles CLE 12/13/2003 CLE vs. BOS L 32 24 11 18 61.1 1 3 33.3 1 1 100.0 4 4 8 2 1 0 2 2 5
+p609
+aVCarlos Boozer CLE 12/13/2003 CLE vs. BOS L 42 17 7 15 46.7 0 0 - 3 4 75.0 3 12 15 4 3 3 3 4 4
+p610
+aVJ.R. Bremer CLE 12/13/2003 CLE vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -5
+p611
+aVIra Newble CLE 12/13/2003 CLE vs. BOS L 32 6 3 8 37.5 0 1 0.0 0 0 - 4 0 4 0 1 1 2 2 -4
+p612
+aVKevin Ollie CLE 12/13/2003 CLE vs. BOS L 17 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 0 0 2 4 -2
+p613
+aVZydrunas Ilgauskas CLE 12/13/2003 CLE vs. BOS L 20 9 3 11 27.3 0 0 - 3 4 75.0 7 2 9 1 1 1 1 3 -12
+p614
+aVMichael Stewart CLE 12/13/2003 CLE vs. BOS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p615
+aVChris Mihm CLE 12/13/2003 CLE vs. BOS L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -2
+p616
+aVJason Kapono CLE 12/13/2003 CLE vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p617
+aVRicky Davis CLE 12/13/2003 CLE vs. BOS L 32 3 1 5 20.0 0 0 - 1 3 33.3 2 4 6 8 0 0 7 3 -4
+p618
+aVLeBron James CLE 12/13/2003 CLE vs. BOS L 45 37 10 20 50.0 1 5 20.0 16 18 88.9 1 2 3 4 0 0 2 2 -2
+p619
+aVJason Kapono CLE 12/11/2003 CLE vs. DET W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 3
+p620
+aVCarlos Boozer CLE 12/11/2003 CLE vs. DET W 40 28 11 16 68.8 0 0 - 6 8 75.0 3 6 9 3 0 0 4 3 2
+p621
+aVKevin Ollie CLE 12/11/2003 CLE vs. DET W 10 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 0 5
+p622
+aVRicky Davis CLE 12/11/2003 CLE vs. DET W 39 15 5 10 50.0 0 0 - 5 6 83.3 1 8 9 5 0 0 4 2 4
+p623
+aVChris Mihm CLE 12/11/2003 CLE vs. DET W 19 2 0 2 0.0 0 0 - 2 4 50.0 2 8 10 1 1 1 2 6 19
+p624
+aVLeBron James CLE 12/11/2003 CLE vs. DET W 43 23 8 21 38.1 1 3 33.3 6 8 75.0 1 2 3 9 1 1 4 3 9
+p625
+aVMichael Stewart CLE 12/11/2003 CLE vs. DET W 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 4 1 4 0
+p626
+aVZydrunas Ilgauskas CLE 12/11/2003 CLE vs. DET W 24 10 5 7 71.4 0 0 - 0 0 - 1 3 4 1 0 3 1 4 -3
+p627
+aVDarius Miles CLE 12/11/2003 CLE vs. DET W 22 6 2 5 40.0 0 0 - 2 2 100.0 0 5 5 1 1 0 3 1 4
+p628
+aVIra Newble CLE 12/11/2003 CLE vs. DET W 29 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 2 2 0 1 6 2
+p629
+aVLeBron James CLE 12/09/2003 CLE vs. TOR L 37 18 7 16 43.8 0 0 - 4 4 100.0 0 5 5 3 1 0 2 2 -2
+p630
+aVJason Kapono CLE 12/09/2003 CLE vs. TOR L 11 8 3 7 42.9 1 2 50.0 1 2 50.0 1 1 2 0 1 0 0 1 -2
+p631
+aVKevin Ollie CLE 12/09/2003 CLE vs. TOR L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -7
+p632
+aVZydrunas Ilgauskas CLE 12/09/2003 CLE vs. TOR L 36 17 5 12 41.7 0 0 - 7 10 70.0 3 2 5 5 0 1 4 4 -4
+p633
+aVIra Newble CLE 12/09/2003 CLE vs. TOR L 37 16 7 14 50.0 0 0 - 2 3 66.7 7 3 10 3 4 0 0 5 6
+p634
+aVDarius Miles CLE 12/09/2003 CLE vs. TOR L 16 8 4 4 100.0 0 0 - 0 0 - 0 4 4 2 1 0 1 3 -7
+p635
+aVRicky Davis CLE 12/09/2003 CLE vs. TOR L 37 9 4 7 57.1 1 2 50.0 0 0 - 1 6 7 6 0 0 3 2 -2
+p636
+aVChris Mihm CLE 12/09/2003 CLE vs. TOR L 11 1 0 3 0.0 0 0 - 1 2 50.0 0 4 4 0 0 1 2 4 -16
+p637
+aVCarlos Boozer CLE 12/09/2003 CLE vs. TOR L 42 12 5 16 31.3 0 0 - 2 2 100.0 1 5 6 3 1 1 2 2 -1
+p638
+aVIra Newble CLE 12/06/2003 CLE vs. ATL W 24 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 -10
+p639
+aVJason Kapono CLE 12/06/2003 CLE vs. ATL W 23 16 6 8 75.0 2 2 100.0 2 2 100.0 2 0 2 2 1 1 1 2 22
+p640
+aVRicky Davis CLE 12/06/2003 CLE vs. ATL W 19 12 5 9 55.6 0 1 0.0 2 2 100.0 0 1 1 3 1 0 2 0 -5
+p641
+aVZydrunas Ilgauskas CLE 12/06/2003 CLE vs. ATL W 32 19 6 10 60.0 0 0 - 7 9 77.8 5 3 8 1 0 1 2 3 -3
+p642
+aVDarius Miles CLE 12/06/2003 CLE vs. ATL W 21 15 4 8 50.0 0 1 0.0 7 11 63.6 1 2 3 4 1 0 1 1 13
+p643
+aVKevin Ollie CLE 12/06/2003 CLE vs. ATL W 20 7 3 5 60.0 0 0 - 1 1 100.0 0 4 4 3 0 1 0 2 17
+p644
+aVJ.R. Bremer CLE 12/06/2003 CLE vs. ATL W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p645
+aVCarlos Boozer CLE 12/06/2003 CLE vs. ATL W 36 12 5 12 41.7 0 0 - 2 2 100.0 4 6 10 2 2 0 0 5 18
+p646
+aVChris Mihm CLE 12/06/2003 CLE vs. ATL W 25 6 2 6 33.3 0 0 - 2 2 100.0 0 8 8 0 1 3 2 5 9
+p647
+aVLeBron James CLE 12/06/2003 CLE vs. ATL W 36 8 4 12 33.3 0 2 0.0 0 0 - 1 5 6 5 2 1 3 2 -5
+p648
+aVIra Newble CLE 12/03/2003 CLE @ LAC L 36 8 3 9 33.3 1 2 50.0 1 2 50.0 1 2 3 3 1 0 2 2 6
+p649
+aVRicky Davis CLE 12/03/2003 CLE @ LAC L 36 16 6 17 35.3 3 6 50.0 1 4 25.0 0 3 3 5 1 0 1 2 -4
+p650
+aVCarlos Boozer CLE 12/03/2003 CLE @ LAC L 39 14 7 12 58.3 0 0 - 0 0 - 5 16 21 2 1 0 2 4 0
+p651
+aVDarius Miles CLE 12/03/2003 CLE @ LAC L 19 8 4 9 44.4 0 1 0.0 0 0 - 1 1 2 0 0 1 1 4 -21
+p652
+aVKevin Ollie CLE 12/03/2003 CLE @ LAC L 15 2 0 3 0.0 0 0 - 2 3 66.7 0 2 2 2 1 0 1 0 -13
+p653
+aVLeBron James CLE 12/03/2003 CLE @ LAC L 34 4 2 13 15.4 0 3 0.0 0 0 - 4 2 6 8 2 0 5 2 3
+p654
+aVZydrunas Ilgauskas CLE 12/03/2003 CLE @ LAC L 37 24 8 13 61.5 0 0 - 8 12 66.7 3 9 12 2 1 3 2 5 3
+p655
+aVJ.R. Bremer CLE 12/03/2003 CLE @ LAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p656
+aVMichael Stewart CLE 12/03/2003 CLE @ LAC L 7 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -9
+p657
+aVChris Mihm CLE 12/03/2003 CLE @ LAC L 13 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 -12
+p658
+aVZydrunas Ilgauskas CLE 12/02/2003 CLE @ DEN L 33 14 7 10 70.0 0 0 - 0 0 - 6 7 13 3 1 2 6 3 4
+p659
+aVCarlos Boozer CLE 12/02/2003 CLE @ DEN L 31 13 6 10 60.0 0 0 - 1 1 100.0 1 2 3 1 0 1 1 5 -12
+p660
+aVRicky Davis CLE 12/02/2003 CLE @ DEN L 38 17 6 17 35.3 0 3 0.0 5 7 71.4 0 1 1 5 3 0 2 4 -26
+p661
+aVJ.R. Bremer CLE 12/02/2003 CLE @ DEN L 16 12 4 8 50.0 2 3 66.7 2 3 66.7 0 1 1 2 5 0 1 1 7
+p662
+aVChris Mihm CLE 12/02/2003 CLE @ DEN L 20 6 3 10 30.0 0 0 - 0 0 - 5 7 12 0 1 0 2 4 -2
+p663
+aVIra Newble CLE 12/02/2003 CLE @ DEN L 18 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 0 1 4 4 -8
+p664
+aVKevin Ollie CLE 12/02/2003 CLE @ DEN L 26 7 3 5 60.0 0 0 - 1 3 33.3 0 0 0 4 0 0 4 3 -2
+p665
+aVMichael Stewart CLE 12/02/2003 CLE @ DEN L 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -11
+p666
+aVLeBron James CLE 12/02/2003 CLE @ DEN L 33 19 6 19 31.6 2 3 66.7 5 7 71.4 3 3 6 5 2 0 2 4 -12
+p667
+aVDarius Miles CLE 12/02/2003 CLE @ DEN L 18 11 5 13 38.5 0 1 0.0 1 3 33.3 7 3 10 2 2 2 1 2 2
+p668
+aVLeBron James CLE 11/29/2003 CLE vs. MEM L 55 33 14 28 50.0 3 6 50.0 2 3 66.7 2 14 16 7 1 1 8 1 -10
+p669
+aVMichael Stewart CLE 11/29/2003 CLE vs. MEM L 15 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 2 0 4 0
+p670
+aVJ.R. Bremer CLE 11/29/2003 CLE vs. MEM L 35 13 5 10 50.0 2 4 50.0 1 2 50.0 0 0 0 4 1 0 1 1 -3
+p671
+aVChris Mihm CLE 11/29/2003 CLE vs. MEM L 12 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 0 0 0 4 13
+p672
+aVJason Kapono CLE 11/29/2003 CLE vs. MEM L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p673
+aVKevin Ollie CLE 11/29/2003 CLE vs. MEM L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 4 1 0 1 0 -7
+p674
+aVIra Newble CLE 11/29/2003 CLE vs. MEM L 37 10 5 13 38.5 0 1 0.0 0 0 - 6 2 8 3 0 0 2 3 -12
+p675
+aVZydrunas Ilgauskas CLE 11/29/2003 CLE vs. MEM L 38 17 5 15 33.3 0 0 - 7 7 100.0 4 7 11 2 0 2 2 6 9
+p676
+aVDeSagana Diop CLE 11/29/2003 CLE vs. MEM L 24 4 2 3 66.7 0 0 - 0 0 - 4 4 8 1 0 0 1 3 -5
+p677
+aVRicky Davis CLE 11/29/2003 CLE vs. MEM L 51 25 11 25 44.0 1 4 25.0 2 2 100.0 2 4 6 7 1 0 3 1 -8
+p678
+aVDarius Miles CLE 11/29/2003 CLE vs. MEM L 11 5 2 6 33.3 1 1 100.0 0 0 - 1 1 2 0 0 1 0 2 -12
+p679
+aVKevin Ollie CLE 11/28/2003 CLE @ DET L 22 5 1 4 25.0 0 0 - 3 4 75.0 0 3 3 5 1 0 2 3 5
+p680
+aVDeSagana Diop CLE 11/28/2003 CLE @ DET L 27 4 2 7 28.6 0 0 - 0 2 0.0 0 6 6 0 2 2 1 3 6
+p681
+aVDarius Miles CLE 11/28/2003 CLE @ DET L 11 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 5
+p682
+aVZydrunas Ilgauskas CLE 11/28/2003 CLE @ DET L 21 14 6 10 60.0 0 0 - 2 3 66.7 1 2 3 0 0 2 1 3 -14
+p683
+aVMichael Stewart CLE 11/28/2003 CLE @ DET L 18 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 0 0 2 0 5 -5
+p684
+aVChris Mihm CLE 11/28/2003 CLE @ DET L 30 14 7 9 77.8 0 0 - 0 0 - 2 11 13 1 1 0 3 2 1
+p685
+aVRicky Davis CLE 11/28/2003 CLE @ DET L 39 25 10 20 50.0 1 3 33.3 4 4 100.0 0 6 6 4 2 0 5 6 -12
+p686
+aVLeBron James CLE 11/28/2003 CLE @ DET L 36 6 2 8 25.0 0 2 0.0 2 3 66.7 0 2 2 7 0 0 4 3 -10
+p687
+aVIra Newble CLE 11/28/2003 CLE @ DET L 28 12 5 11 45.5 0 2 0.0 2 2 100.0 4 1 5 3 0 0 0 2 9
+p688
+aVJason Kapono CLE 11/28/2003 CLE @ DET L 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 0 1 1 1 -5
+p689
+aVJ.R. Bremer CLE 11/26/2003 CLE @ NOH L 22 2 1 11 9.1 0 4 0.0 0 0 - 2 0 2 0 0 2 0 1 -5
+p690
+aVDarius Miles CLE 11/26/2003 CLE @ NOH L 32 10 4 8 50.0 0 2 0.0 2 6 33.3 0 2 2 4 3 0 2 1 -10
+p691
+aVZydrunas Ilgauskas CLE 11/26/2003 CLE @ NOH L 40 20 9 14 64.3 0 0 - 2 3 66.7 0 7 7 1 3 3 4 3 -13
+p692
+aVKevin Ollie CLE 11/26/2003 CLE @ NOH L 18 2 0 4 0.0 0 1 0.0 2 2 100.0 0 3 3 3 1 0 1 3 -1
+p693
+aVBruno Sundov CLE 11/26/2003 CLE @ NOH L 12 1 0 4 0.0 0 0 - 1 4 25.0 2 5 7 0 0 0 2 2 -5
+p694
+aVDeSagana Diop CLE 11/26/2003 CLE @ NOH L 16 2 1 3 33.3 0 0 - 0 0 - 1 7 8 0 0 2 1 4 -5
+p695
+aVLeBron James CLE 11/26/2003 CLE @ NOH L 39 15 5 17 29.4 1 4 25.0 4 4 100.0 2 6 8 9 0 0 4 1 -13
+p696
+aVJason Kapono CLE 11/26/2003 CLE @ NOH L 34 14 5 14 35.7 3 6 50.0 1 1 100.0 2 3 5 1 1 0 1 5 -1
+p697
+aVChris Mihm CLE 11/26/2003 CLE @ NOH L 27 6 3 8 37.5 0 0 - 0 2 0.0 1 7 8 3 0 2 1 3 3
+p698
+aVIra Newble CLE 11/22/2003 CLE @ ATL L 11 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 11
+p699
+aVChris Mihm CLE 11/22/2003 CLE @ ATL L 20 4 2 8 25.0 0 0 - 0 0 - 4 4 8 0 0 2 2 2 -10
+p700
+aVZydrunas Ilgauskas CLE 11/22/2003 CLE @ ATL L 33 21 8 13 61.5 0 0 - 5 6 83.3 3 7 10 3 1 4 3 1 -14
+p701
+aVJ.R. Bremer CLE 11/22/2003 CLE @ ATL L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -2
+p702
+aVJason Kapono CLE 11/22/2003 CLE @ ATL L 32 13 4 11 36.4 3 4 75.0 2 2 100.0 3 2 5 0 1 0 0 1 -7
+p703
+aVBruno Sundov CLE 11/22/2003 CLE @ ATL L 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 6
+p704
+aVDarius Miles CLE 11/22/2003 CLE @ ATL L 21 0 0 11 0.0 0 0 - 0 0 - 1 7 8 3 1 0 2 2 -3
+p705
+aVKevin Ollie CLE 11/22/2003 CLE @ ATL L 22 5 1 2 50.0 0 0 - 3 3 100.0 1 1 2 2 0 0 0 2 -9
+p706
+aVRicky Davis CLE 11/22/2003 CLE @ ATL L 30 16 7 17 41.2 1 2 50.0 1 2 50.0 1 3 4 6 1 0 1 1 -8
+p707
+aVLeBron James CLE 11/22/2003 CLE @ ATL L 42 15 3 16 18.8 0 1 0.0 9 10 90.0 2 4 6 4 2 1 3 1 -6
+p708
+aVDeSagana Diop CLE 11/22/2003 CLE @ ATL L 13 3 1 2 50.0 0 0 - 1 2 50.0 3 3 6 0 0 0 1 2 -3
+p709
+aVKevin Ollie CLE 11/21/2003 CLE vs. MIN L 15 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 0 0 2 1 -7
+p710
+aVJason Kapono CLE 11/21/2003 CLE vs. MIN L 23 7 2 5 40.0 1 2 50.0 2 2 100.0 1 1 2 1 0 0 1 3 -1
+p711
+aVLeBron James CLE 11/21/2003 CLE vs. MIN L 35 19 8 19 42.1 0 2 0.0 3 3 100.0 2 7 9 2 1 0 1 4 -3
+p712
+aVDeSagana Diop CLE 11/21/2003 CLE vs. MIN L 31 6 3 7 42.9 0 0 - 0 0 - 0 6 6 3 0 2 0 4 -9
+p713
+aVIra Newble CLE 11/21/2003 CLE vs. MIN L 5 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p714
+aVDarius Miles CLE 11/21/2003 CLE vs. MIN L 27 9 4 11 36.4 1 2 50.0 0 0 - 1 2 3 1 1 1 4 4 -14
+p715
+aVZydrunas Ilgauskas CLE 11/21/2003 CLE vs. MIN L 37 12 4 10 40.0 0 0 - 4 6 66.7 6 6 12 1 0 0 2 2 -8
+p716
+aVChris Mihm CLE 11/21/2003 CLE vs. MIN L 23 9 3 5 60.0 0 0 - 3 4 75.0 2 0 2 2 1 1 1 3 -7
+p717
+aVJ.R. Bremer CLE 11/21/2003 CLE vs. MIN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 4
+p718
+aVRicky Davis CLE 11/21/2003 CLE vs. MIN L 40 13 5 15 33.3 0 0 - 3 4 75.0 2 6 8 6 1 1 2 0 -13
+p719
+aVDarius Miles CLE 11/19/2003 CLE @ WAS L 41 12 5 12 41.7 0 2 0.0 2 2 100.0 1 5 6 3 2 2 3 4 -12
+p720
+aVChris Mihm CLE 11/19/2003 CLE @ WAS L 29 13 4 11 36.4 0 0 - 5 6 83.3 5 7 12 1 1 0 3 4 -3
+p721
+aVRicky Davis CLE 11/19/2003 CLE @ WAS L 21 13 6 13 46.2 0 0 - 1 2 50.0 0 2 2 0 0 0 2 0 -13
+p722
+aVLeBron James CLE 11/19/2003 CLE @ WAS L 39 28 10 18 55.6 2 4 50.0 6 8 75.0 2 5 7 8 2 1 4 2 -5
+p723
+aVBruno Sundov CLE 11/19/2003 CLE @ WAS L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p724
+aVDeSagana Diop CLE 11/19/2003 CLE @ WAS L 17 2 1 1 100.0 0 0 - 0 0 - 1 5 6 0 1 1 0 5 -1
+p725
+aVJ.R. Bremer CLE 11/19/2003 CLE @ WAS L 20 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 2 1 -15
+p726
+aVIra Newble CLE 11/19/2003 CLE @ WAS L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p727
+aVZydrunas Ilgauskas CLE 11/19/2003 CLE @ WAS L 38 9 4 8 50.0 0 0 - 1 2 50.0 2 5 7 2 0 4 2 4 -7
+p728
+aVKevin Ollie CLE 11/19/2003 CLE @ WAS L 21 12 3 6 50.0 0 0 - 6 7 85.7 0 2 2 8 0 0 0 1 12
+p729
+aVZydrunas Ilgauskas CLE 11/18/2003 CLE vs. LAC W 36 13 6 11 54.5 0 0 - 1 4 25.0 4 6 10 0 1 1 1 4 19
+p730
+aVLeBron James CLE 11/18/2003 CLE vs. LAC W 39 14 6 16 37.5 0 2 0.0 2 4 50.0 2 5 7 8 0 1 3 2 1
+p731
+aVDarius Miles CLE 11/18/2003 CLE vs. LAC W 26 13 6 12 50.0 0 0 - 1 4 25.0 1 6 7 5 1 4 1 5 16
+p732
+aVIra Newble CLE 11/18/2003 CLE vs. LAC W 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p733
+aVChris Mihm CLE 11/18/2003 CLE vs. LAC W 36 21 10 14 71.4 0 0 - 1 1 100.0 3 6 9 0 0 1 3 5 0
+p734
+aVRicky Davis CLE 11/18/2003 CLE vs. LAC W 41 27 8 16 50.0 2 5 40.0 9 10 90.0 1 3 4 3 4 2 5 3 14
+p735
+aVDeSagana Diop CLE 11/18/2003 CLE vs. LAC W 12 0 0 0 - 0 0 - 0 0 - 0 3 3 0 2 0 0 1 -6
+p736
+aVJ.R. Bremer CLE 11/18/2003 CLE vs. LAC W 9 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 -11
+p737
+aVKevin Ollie CLE 11/18/2003 CLE vs. LAC W 22 11 2 3 66.7 0 0 - 7 10 70.0 0 3 3 2 0 0 1 2 7
+p738
+aVCarlos Boozer CLE 11/18/2003 CLE vs. LAC W 10 1 0 2 0.0 0 0 - 1 2 50.0 1 4 5 0 0 1 0 1 11
+p739
+aVCarlos Boozer CLE 11/15/2003 CLE vs. PHI W 36 15 6 15 40.0 0 0 - 3 4 75.0 3 12 15 1 2 2 2 3 10
+p740
+aVLeBron James CLE 11/15/2003 CLE vs. PHI W 47 22 10 19 52.6 0 1 0.0 2 4 50.0 0 5 5 8 1 2 5 2 8
+p741
+aVKevin Ollie CLE 11/15/2003 CLE vs. PHI W 26 6 2 4 50.0 0 1 0.0 2 3 66.7 0 4 4 2 0 1 3 4 -2
+p742
+aVJ.R. Bremer CLE 11/15/2003 CLE vs. PHI W 12 3 1 7 14.3 1 5 20.0 0 0 - 0 2 2 1 1 1 0 0 4
+p743
+aVChris Mihm CLE 11/15/2003 CLE vs. PHI W 20 3 0 1 0.0 0 0 - 3 4 75.0 1 3 4 0 0 6 1 2 3
+p744
+aVZydrunas Ilgauskas CLE 11/15/2003 CLE vs. PHI W 45 28 12 19 63.2 0 0 - 4 5 80.0 4 4 8 7 0 3 3 5 2
+p745
+aVRicky Davis CLE 11/15/2003 CLE vs. PHI W 33 6 3 6 50.0 0 0 - 0 0 - 2 5 7 3 0 2 1 3 -2
+p746
+aVJason Kapono CLE 11/15/2003 CLE vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p747
+aVDarius Miles CLE 11/15/2003 CLE vs. PHI W 42 8 4 16 25.0 0 1 0.0 0 0 - 4 8 12 2 0 0 3 4 -5
+p748
+aVCarlos Boozer CLE 11/14/2003 CLE @ BOS L 28 8 3 6 50.0 0 0 - 2 2 100.0 0 11 11 1 1 0 2 2 -2
+p749
+aVChris Mihm CLE 11/14/2003 CLE @ BOS L 19 10 4 9 44.4 0 0 - 2 2 100.0 5 4 9 0 0 3 1 3 -11
+p750
+aVJason Kapono CLE 11/14/2003 CLE @ BOS L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p751
+aVZydrunas Ilgauskas CLE 11/14/2003 CLE @ BOS L 34 22 7 9 77.8 0 0 - 8 10 80.0 4 3 7 0 1 1 1 4 -7
+p752
+aVKevin Ollie CLE 11/14/2003 CLE @ BOS L 18 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 4 0 0 0 1 -10
+p753
+aVJ.R. Bremer CLE 11/14/2003 CLE @ BOS L 12 3 0 4 0.0 0 1 0.0 3 3 100.0 0 0 0 0 0 0 0 1 -10
+p754
+aVRicky Davis CLE 11/14/2003 CLE @ BOS L 34 10 4 16 25.0 0 2 0.0 2 4 50.0 0 4 4 6 1 1 3 2 4
+p755
+aVIra Newble CLE 11/14/2003 CLE @ BOS L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -11
+p756
+aVLeBron James CLE 11/14/2003 CLE @ BOS L 35 10 3 12 25.0 2 4 50.0 2 4 50.0 1 4 5 3 0 0 4 3 -1
+p757
+aVDarius Miles CLE 11/14/2003 CLE @ BOS L 35 12 4 12 33.3 0 0 - 4 7 57.1 5 3 8 2 0 2 2 4 3
+p758
+aVDeSagana Diop CLE 11/14/2003 CLE @ BOS L 13 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -2
+p759
+aVZydrunas Ilgauskas CLE 11/12/2003 CLE @ MIA L 33 20 8 13 61.5 0 0 - 4 8 50.0 2 4 6 1 0 1 3 3 -6
+p760
+aVDeSagana Diop CLE 11/12/2003 CLE @ MIA L 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 2 0 1 -1
+p761
+aVDarius Miles CLE 11/12/2003 CLE @ MIA L 30 11 5 11 45.5 0 1 0.0 1 2 50.0 0 4 4 2 1 1 0 5 -10
+p762
+aVKevin Ollie CLE 11/12/2003 CLE @ MIA L 12 7 2 3 66.7 0 0 - 3 3 100.0 0 1 1 1 0 0 2 0 3
+p763
+aVJ.R. Bremer CLE 11/12/2003 CLE @ MIA L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 3
+p764
+aVIra Newble CLE 11/12/2003 CLE @ MIA L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p765
+aVCarlos Boozer CLE 11/12/2003 CLE @ MIA L 37 5 2 8 25.0 0 0 - 1 3 33.3 3 13 16 3 3 1 2 0 -5
+p766
+aVRicky Davis CLE 11/12/2003 CLE @ MIA L 40 9 4 9 44.4 0 1 0.0 1 2 50.0 1 2 3 4 2 0 6 4 -7
+p767
+aVChris Mihm CLE 11/12/2003 CLE @ MIA L 14 11 4 4 100.0 0 0 - 3 6 50.0 3 2 5 1 1 1 0 0 2
+p768
+aVLeBron James CLE 11/12/2003 CLE @ MIA L 42 18 6 15 40.0 2 5 40.0 4 6 66.7 1 2 3 7 2 1 4 3 -4
+p769
+aVIra Newble CLE 11/10/2003 CLE vs. NYK W 19 0 0 3 0.0 0 1 0.0 0 0 - 1 5 6 0 1 0 0 1 -5
+p770
+aVChris Mihm CLE 11/10/2003 CLE vs. NYK W 17 19 6 13 46.2 0 0 - 7 7 100.0 2 2 4 0 1 0 0 0 9
+p771
+aVJason Kapono CLE 11/10/2003 CLE vs. NYK W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p772
+aVMichael Stewart CLE 11/10/2003 CLE vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p773
+aVDeSagana Diop CLE 11/10/2003 CLE vs. NYK W 21 4 2 3 66.7 0 0 - 0 0 - 4 2 6 3 1 2 1 2 8
+p774
+aVJ.R. Bremer CLE 11/10/2003 CLE vs. NYK W 22 3 1 7 14.3 1 3 33.3 0 0 - 0 3 3 3 2 0 2 2 12
+p775
+aVRicky Davis CLE 11/10/2003 CLE vs. NYK W 32 16 7 12 58.3 1 1 100.0 1 2 50.0 0 7 7 8 2 0 4 1 2
+p776
+aVDarius Miles CLE 11/10/2003 CLE vs. NYK W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 1 0 1 12
+p777
+aVZydrunas Ilgauskas CLE 11/10/2003 CLE vs. NYK W 27 13 4 10 40.0 0 0 - 5 6 83.3 0 3 3 3 0 1 1 3 6
+p778
+aVKevin Ollie CLE 11/10/2003 CLE vs. NYK W 27 3 0 5 0.0 0 0 - 3 3 100.0 1 4 5 3 0 0 1 0 4
+p779
+aVCarlos Boozer CLE 11/10/2003 CLE vs. NYK W 28 15 7 11 63.6 0 0 - 1 1 100.0 2 6 8 3 2 0 3 2 10
+p780
+aVLeBron James CLE 11/10/2003 CLE vs. NYK W 34 17 7 12 58.3 3 3 100.0 0 0 - 1 4 5 4 1 1 2 0 20
+p781
+aVKevin Ollie CLE 11/08/2003 CLE vs. WAS W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 0 1 1
+p782
+aVDeSagana Diop CLE 11/08/2003 CLE vs. WAS W 18 2 1 1 100.0 0 0 - 0 0 - 2 2 4 1 0 5 0 3 5
+p783
+aVLeBron James CLE 11/08/2003 CLE vs. WAS W 45 17 8 19 42.1 0 0 - 1 4 25.0 5 3 8 9 1 1 2 1 14
+p784
+aVIra Newble CLE 11/08/2003 CLE vs. WAS W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -5
+p785
+aVCarlos Boozer CLE 11/08/2003 CLE vs. WAS W 39 19 8 13 61.5 0 0 - 3 4 75.0 2 6 8 5 1 0 0 4 16
+p786
+aVChris Mihm CLE 11/08/2003 CLE vs. WAS W 6 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 7
+p787
+aVRicky Davis CLE 11/08/2003 CLE vs. WAS W 40 26 9 15 60.0 0 1 0.0 8 10 80.0 0 8 8 5 1 0 2 3 9
+p788
+aVJ.R. Bremer CLE 11/08/2003 CLE vs. WAS W 13 9 2 4 50.0 1 3 33.3 4 6 66.7 0 1 1 1 0 0 1 0 5
+p789
+aVZydrunas Ilgauskas CLE 11/08/2003 CLE vs. WAS W 21 4 1 5 20.0 0 1 0.0 2 3 66.7 1 2 3 0 0 3 1 1 2
+p790
+aVDarius Miles CLE 11/08/2003 CLE vs. WAS W 45 26 12 21 57.1 0 1 0.0 2 2 100.0 0 6 6 7 0 2 4 2 11
+p791
+aVRicky Davis CLE 11/07/2003 CLE @ IND L 39 9 3 11 27.3 1 2 50.0 2 2 100.0 2 10 12 10 0 1 0 4 -2
+p792
+aVChris Mihm CLE 11/07/2003 CLE @ IND L 18 6 3 5 60.0 0 0 - 0 2 0.0 3 3 6 1 1 0 1 0 7
+p793
+aVLeBron James CLE 11/07/2003 CLE @ IND L 44 23 8 18 44.4 1 2 50.0 6 7 85.7 0 5 5 3 0 0 7 2 -7
+p794
+aVJ.R. Bremer CLE 11/07/2003 CLE @ IND L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 1
+p795
+aVCarlos Boozer CLE 11/07/2003 CLE @ IND L 29 20 10 16 62.5 0 0 - 0 1 0.0 5 4 9 1 1 0 0 3 -8
+p796
+aVDeSagana Diop CLE 11/07/2003 CLE @ IND L 24 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 1 0 5 0 3 15
+p797
+aVZydrunas Ilgauskas CLE 11/07/2003 CLE @ IND L 24 9 4 7 57.1 0 0 - 1 2 50.0 1 5 6 2 1 1 0 2 -16
+p798
+aVKevin Ollie CLE 11/07/2003 CLE @ IND L 14 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 1 2
+p799
+aVDarius Miles CLE 11/07/2003 CLE @ IND L 37 13 5 12 41.7 1 1 100.0 2 2 100.0 0 4 4 3 0 0 0 4 3
+p800
+aVDarius Miles CLE 11/05/2003 CLE vs. DEN L 28 16 6 13 46.2 0 1 0.0 4 6 66.7 1 2 3 1 0 0 2 2 -9
+p801
+aVJ.R. Bremer CLE 11/05/2003 CLE vs. DEN L 17 2 1 10 10.0 0 2 0.0 0 2 0.0 2 1 3 2 2 0 0 4 -9
+p802
+aVDeSagana Diop CLE 11/05/2003 CLE vs. DEN L 15 0 0 0 - 0 0 - 0 0 - 1 4 5 0 2 3 1 1 -8
+p803
+aVLeBron James CLE 11/05/2003 CLE vs. DEN L 41 7 3 11 27.3 0 2 0.0 1 1 100.0 2 9 11 7 2 3 2 1 -3
+p804
+aVKevin Ollie CLE 11/05/2003 CLE vs. DEN L 32 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 7 2 0 1 2 15
+p805
+aVRicky Davis CLE 11/05/2003 CLE vs. DEN L 38 17 7 16 43.8 2 4 50.0 1 3 33.3 1 5 6 2 2 1 4 3 8
+p806
+aVChris Mihm CLE 11/05/2003 CLE vs. DEN L 11 6 2 4 50.0 0 0 - 2 2 100.0 3 5 8 0 0 0 0 2 9
+p807
+aVCarlos Boozer CLE 11/05/2003 CLE vs. DEN L 28 10 4 9 44.4 0 0 - 2 2 100.0 5 4 9 0 0 0 1 1 -24
+p808
+aVZydrunas Ilgauskas CLE 11/05/2003 CLE vs. DEN L 30 23 7 17 41.2 0 0 - 9 13 69.2 3 5 8 0 0 0 3 3 1
+p809
+aVChris Mihm CLE 11/01/2003 CLE @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p810
+aVRicky Davis CLE 11/01/2003 CLE @ POR L 36 16 7 15 46.7 1 3 33.3 1 3 33.3 0 8 8 7 2 0 4 1 -23
+p811
+aVJason Kapono CLE 11/01/2003 CLE @ POR L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 13
+p812
+aVZydrunas Ilgauskas CLE 11/01/2003 CLE @ POR L 33 21 8 13 61.5 0 0 - 5 5 100.0 0 4 4 0 0 1 2 5 -6
+p813
+aVJ.R. Bremer CLE 11/01/2003 CLE @ POR L 15 9 4 8 50.0 1 3 33.3 0 0 - 2 0 2 2 0 0 1 0 -1
+p814
+aVJelani McCoy CLE 11/01/2003 CLE @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p815
+aVKevin Ollie CLE 11/01/2003 CLE @ POR L 11 3 0 0 - 0 0 - 3 4 75.0 1 1 2 1 0 0 2 0 0
+p816
+aVCarlos Boozer CLE 11/01/2003 CLE @ POR L 32 15 7 9 77.8 0 0 - 1 1 100.0 2 7 9 1 0 0 1 4 -11
+p817
+aVMichael Stewart CLE 11/01/2003 CLE @ POR L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p818
+aVDeSagana Diop CLE 11/01/2003 CLE @ POR L 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 1 5 -15
+p819
+aVLeBron James CLE 11/01/2003 CLE @ POR L 39 8 3 12 25.0 0 1 0.0 2 2 100.0 0 4 4 6 2 0 2 3 -21
+p820
+aVDarius Miles CLE 11/01/2003 CLE @ POR L 37 11 5 11 45.5 0 3 0.0 1 2 50.0 1 2 3 6 1 1 6 2 -17
+p821
+aVJason Kapono CLE 10/30/2003 CLE @ PHX L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p822
+aVJ.R. Bremer CLE 10/30/2003 CLE @ PHX L 24 3 1 5 20.0 1 5 20.0 0 0 - 0 3 3 2 0 0 1 1 -10
+p823
+aVKevin Ollie CLE 10/30/2003 CLE @ PHX L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 2 0 2 0 -11
+p824
+aVJelani McCoy CLE 10/30/2003 CLE @ PHX L 9 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -6
+p825
+aVDarius Miles CLE 10/30/2003 CLE @ PHX L 28 10 5 13 38.5 0 2 0.0 0 0 - 2 4 6 3 1 1 0 4 3
+p826
+aVZydrunas Ilgauskas CLE 10/30/2003 CLE @ PHX L 37 13 6 12 50.0 0 0 - 1 1 100.0 2 2 4 3 0 4 4 3 0
+p827
+aVDeSagana Diop CLE 10/30/2003 CLE @ PHX L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 1 2 5 -7
+p828
+aVRicky Davis CLE 10/30/2003 CLE @ PHX L 41 22 9 25 36.0 3 8 37.5 1 3 33.3 2 4 6 3 0 0 3 4 -4
+p829
+aVLeBron James CLE 10/30/2003 CLE @ PHX L 41 21 8 17 47.1 1 5 20.0 4 7 57.1 2 10 12 8 1 0 7 1 -3
+p830
+aVCarlos Boozer CLE 10/30/2003 CLE @ PHX L 34 11 5 9 55.6 0 0 - 1 1 100.0 1 13 14 2 1 0 1 4 -1
+p831
+aVLeBron James CLE 10/29/2003 CLE @ SAC L 42 25 12 20 60.0 0 2 0.0 1 3 33.3 2 4 6 9 4 0 2 3 -9
+p832
+aVCarlos Boozer CLE 10/29/2003 CLE @ SAC L 39 14 7 15 46.7 0 0 - 0 0 - 2 9 11 3 0 4 2 3 -8
+p833
+aVDeSagana Diop CLE 10/29/2003 CLE @ SAC L 16 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 1 1 4 -8
+p834
+aVChris Mihm CLE 10/29/2003 CLE @ SAC L 9 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -6
+p835
+aVKevin Ollie CLE 10/29/2003 CLE @ SAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p836
+aVJ.R. Bremer CLE 10/29/2003 CLE @ SAC L 27 20 7 13 53.8 6 9 66.7 0 0 - 0 2 2 2 1 0 0 3 4
+p837
+aVDarius Miles CLE 10/29/2003 CLE @ SAC L 29 4 2 6 33.3 0 0 - 0 0 - 0 0 0 5 0 2 1 3 -23
+p838
+aVZydrunas Ilgauskas CLE 10/29/2003 CLE @ SAC L 32 9 2 8 25.0 0 0 - 5 6 83.3 3 5 8 0 0 1 3 5 -6
+p839
+aVRicky Davis CLE 10/29/2003 CLE @ SAC L 41 14 7 15 46.7 0 0 - 0 0 - 0 3 3 5 1 0 4 2 -8
+p840
+a.

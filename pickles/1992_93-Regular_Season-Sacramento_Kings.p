@@ -1,0 +1,1708 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLionel Simmons SAC 04/24/1993 SAC @ LAL L 32 13 6 13 46.2 0 0 - 1 2 50.0 1 9 10 6 0 0 3 3 -
+p2
+aVPete Chilcutt SAC 04/24/1993 SAC @ LAL L 20 12 5 7 71.4 0 0 - 2 2 100.0 1 1 2 1 1 2 1 4 -
+p3
+aVMarty Conlon SAC 04/24/1993 SAC @ LAL L 27 8 3 8 37.5 0 0 - 2 4 50.0 3 3 6 3 1 1 3 3 -
+p4
+aVSpud Webb SAC 04/24/1993 SAC @ LAL L 28 24 9 18 50.0 2 5 40.0 4 4 100.0 0 1 1 4 1 0 1 3 -
+p5
+aVWayman Tisdale SAC 04/24/1993 SAC @ LAL L 32 22 10 22 45.5 0 0 - 2 2 100.0 3 5 8 1 1 0 3 3 -
+p6
+aVKurt Rambis SAC 04/24/1993 SAC @ LAL L 28 7 3 7 42.9 0 0 - 1 1 100.0 3 5 8 5 2 1 0 2 -
+p7
+aVRandy Brown SAC 04/24/1993 SAC @ LAL L 38 12 5 10 50.0 0 0 - 2 4 50.0 1 3 4 7 0 1 1 1 -
+p8
+aVDuane Causwell SAC 04/24/1993 SAC @ LAL L 16 2 0 3 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 2 -
+p9
+aVJim Les SAC 04/24/1993 SAC @ LAL L 19 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 8 0 0 3 1 -
+p10
+aVKurt Rambis SAC 04/23/1993 SAC vs. POR L 14 8 3 5 60.0 0 1 0.0 2 2 100.0 2 2 4 0 0 0 0 2 -
+p11
+aVJim Les SAC 04/23/1993 SAC vs. POR L 35 12 5 9 55.6 2 3 66.7 0 0 - 1 6 7 9 1 0 1 3 -
+p12
+aVLionel Simmons SAC 04/23/1993 SAC vs. POR L 13 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 1 0 1 0 -
+p13
+aVDuane Causwell SAC 04/23/1993 SAC vs. POR L 31 9 2 8 25.0 0 0 - 5 10 50.0 2 6 8 4 1 6 3 3 -
+p14
+aVMarty Conlon SAC 04/23/1993 SAC vs. POR L 26 12 5 11 45.5 0 0 - 2 6 33.3 0 1 1 2 0 0 1 3 -
+p15
+aVSpud Webb SAC 04/23/1993 SAC vs. POR L 19 10 5 13 38.5 0 0 - 0 0 - 1 1 2 0 1 0 2 2 -
+p16
+aVRandy Brown SAC 04/23/1993 SAC vs. POR L 38 27 10 15 66.7 1 1 100.0 6 6 100.0 4 3 7 5 3 2 3 6 -
+p17
+aVRod Higgins SAC 04/23/1993 SAC vs. POR L 16 6 2 6 33.3 0 3 0.0 2 2 100.0 1 1 2 1 2 1 1 2 -
+p18
+aVWayman Tisdale SAC 04/23/1993 SAC vs. POR L 17 10 5 7 71.4 0 0 - 0 0 - 0 2 2 0 0 1 0 5 -
+p19
+aVPete Chilcutt SAC 04/23/1993 SAC vs. POR L 31 12 5 13 38.5 0 0 - 2 2 100.0 1 6 7 2 0 1 2 3 -
+p20
+aVMarty Conlon SAC 04/21/1993 SAC @ GOS L 23 14 5 11 45.5 0 1 0.0 4 4 100.0 4 3 7 2 0 0 1 0 -
+p21
+aVKurt Rambis SAC 04/21/1993 SAC @ GOS L 16 10 4 6 66.7 0 0 - 2 3 66.7 1 2 3 3 0 0 1 1 -
+p22
+aVRod Higgins SAC 04/21/1993 SAC @ GOS L 21 2 1 8 12.5 0 2 0.0 0 0 - 3 3 6 2 2 0 0 4 -
+p23
+aVPete Chilcutt SAC 04/21/1993 SAC @ GOS L 25 13 6 13 46.2 0 0 - 1 1 100.0 3 5 8 3 1 0 1 2 -
+p24
+aVWayman Tisdale SAC 04/21/1993 SAC @ GOS L 21 8 3 14 21.4 0 0 - 2 2 100.0 3 3 6 1 2 1 1 4 -
+p25
+aVLionel Simmons SAC 04/21/1993 SAC @ GOS L 24 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 3 1 1 1 2 -
+p26
+aVSpud Webb SAC 04/21/1993 SAC @ GOS L 35 34 14 26 53.8 1 3 33.3 5 8 62.5 0 0 0 3 0 0 2 3 -
+p27
+aVJim Les SAC 04/21/1993 SAC @ GOS L 25 11 4 11 36.4 3 9 33.3 0 0 - 0 2 2 5 1 1 3 1 -
+p28
+aVDuane Causwell SAC 04/21/1993 SAC @ GOS L 18 5 2 7 28.6 0 0 - 1 4 25.0 2 1 3 1 1 1 2 6 -
+p29
+aVRandy Brown SAC 04/21/1993 SAC @ GOS L 32 4 2 8 25.0 0 0 - 0 0 - 2 2 4 4 2 0 6 3 -
+p30
+aVLionel Simmons SAC 04/20/1993 SAC vs. UTH W 43 24 8 15 53.3 0 0 - 8 9 88.9 3 7 10 2 1 0 3 3 -
+p31
+aVKurt Rambis SAC 04/20/1993 SAC vs. UTH W 7 0 0 1 0.0 0 0 - 0 0 - 1 4 5 1 0 0 1 0 -
+p32
+aVDuane Causwell SAC 04/20/1993 SAC vs. UTH W 25 9 4 6 66.7 0 0 - 1 3 33.3 0 4 4 2 0 1 1 4 -
+p33
+aVAnthony Bonner SAC 04/20/1993 SAC vs. UTH W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -
+p34
+aVMarty Conlon SAC 04/20/1993 SAC vs. UTH W 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -
+p35
+aVRod Higgins SAC 04/20/1993 SAC vs. UTH W 26 6 1 7 14.3 1 2 50.0 3 4 75.0 1 1 2 4 2 0 3 1 -
+p36
+aVRandy Brown SAC 04/20/1993 SAC vs. UTH W 15 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 2 -
+p37
+aVWalt Williams SAC 04/20/1993 SAC vs. UTH W 32 16 4 11 36.4 0 1 0.0 8 11 72.7 1 2 3 3 0 2 5 2 -
+p38
+aVSpud Webb SAC 04/20/1993 SAC vs. UTH W 34 18 6 11 54.5 1 3 33.3 5 5 100.0 0 1 1 5 2 0 0 3 -
+p39
+aVPete Chilcutt SAC 04/20/1993 SAC vs. UTH W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p40
+aVJim Les SAC 04/20/1993 SAC vs. UTH W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -
+p41
+aVWayman Tisdale SAC 04/20/1993 SAC vs. UTH W 29 18 9 17 52.9 0 1 0.0 0 1 0.0 3 7 10 1 0 0 3 4 -
+p42
+aVRod Higgins SAC 04/17/1993 SAC @ DAL W 35 21 6 12 50.0 1 1 100.0 8 11 72.7 2 3 5 1 1 0 3 2 -
+p43
+aVJim Les SAC 04/17/1993 SAC @ DAL W 8 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 1 -
+p44
+aVMarty Conlon SAC 04/17/1993 SAC @ DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p45
+aVRandy Brown SAC 04/17/1993 SAC @ DAL W 24 7 2 5 40.0 0 0 - 3 4 75.0 2 2 4 2 2 0 1 3 -
+p46
+aVAnthony Bonner SAC 04/17/1993 SAC @ DAL W 32 3 1 6 16.7 0 0 - 1 2 50.0 1 12 13 1 1 0 3 3 -
+p47
+aVSpud Webb SAC 04/17/1993 SAC @ DAL W 46 24 9 16 56.3 1 4 25.0 5 6 83.3 1 8 9 9 0 0 4 4 -
+p48
+aVKurt Rambis SAC 04/17/1993 SAC @ DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p49
+aVLionel Simmons SAC 04/17/1993 SAC @ DAL W 45 20 9 25 36.0 0 0 - 2 2 100.0 2 5 7 7 1 0 2 1 -
+p50
+aVWayman Tisdale SAC 04/17/1993 SAC @ DAL W 33 20 8 13 61.5 0 0 - 4 6 66.7 1 3 4 2 0 1 2 5 -
+p51
+aVDuane Causwell SAC 04/17/1993 SAC @ DAL W 34 10 5 7 71.4 0 0 - 0 0 - 1 5 6 0 2 5 0 4 -
+p52
+aVKurt Rambis SAC 04/16/1993 SAC @ SAN W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p53
+aVLionel Simmons SAC 04/16/1993 SAC @ SAN W 43 26 10 20 50.0 0 0 - 6 6 100.0 3 7 10 8 1 1 3 0 -
+p54
+aVSpud Webb SAC 04/16/1993 SAC @ SAN W 24 7 2 8 25.0 0 0 - 3 4 75.0 0 4 4 5 1 0 2 0 -
+p55
+aVWayman Tisdale SAC 04/16/1993 SAC @ SAN W 17 6 3 7 42.9 0 0 - 0 0 - 2 2 4 1 0 0 3 3 -
+p56
+aVDuane Causwell SAC 04/16/1993 SAC @ SAN W 29 14 6 6 100.0 0 0 - 2 3 66.7 1 5 6 1 1 1 1 2 -
+p57
+aVAnthony Bonner SAC 04/16/1993 SAC @ SAN W 29 10 4 8 50.0 0 0 - 2 4 50.0 0 9 9 1 0 0 1 2 -
+p58
+aVMarty Conlon SAC 04/16/1993 SAC @ SAN W 17 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 1 0 0 3 -
+p59
+aVRandy Brown SAC 04/16/1993 SAC @ SAN W 21 6 3 7 42.9 0 0 - 0 0 - 1 2 3 2 1 1 3 3 -
+p60
+aVJim Les SAC 04/16/1993 SAC @ SAN W 24 8 3 6 50.0 2 4 50.0 0 0 - 2 3 5 3 0 0 0 3 -
+p61
+aVRod Higgins SAC 04/16/1993 SAC @ SAN W 32 19 6 10 60.0 1 3 33.3 6 6 100.0 0 0 0 3 1 0 3 3 -
+p62
+aVWalt Williams SAC 04/13/1993 SAC vs. SAN L 27 20 8 17 47.1 2 3 66.7 2 2 100.0 2 1 3 1 0 0 4 2 -
+p63
+aVKurt Rambis SAC 04/13/1993 SAC vs. SAN L 19 8 3 4 75.0 0 0 - 2 2 100.0 0 6 6 2 1 0 0 4 -
+p64
+aVMarty Conlon SAC 04/13/1993 SAC vs. SAN L 18 11 4 5 80.0 0 0 - 3 4 75.0 0 5 5 2 1 0 0 0 -
+p65
+aVJim Les SAC 04/13/1993 SAC vs. SAN L 18 9 3 7 42.9 3 6 50.0 0 0 - 0 1 1 5 1 0 1 2 -
+p66
+aVLionel Simmons SAC 04/13/1993 SAC vs. SAN L 28 4 2 9 22.2 0 0 - 0 0 - 3 3 6 5 3 0 1 2 -
+p67
+aVRandy Brown SAC 04/13/1993 SAC vs. SAN L 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -
+p68
+aVWayman Tisdale SAC 04/13/1993 SAC vs. SAN L 22 6 2 8 25.0 0 0 - 2 2 100.0 1 5 6 1 1 0 2 2 -
+p69
+aVSpud Webb SAC 04/13/1993 SAC vs. SAN L 26 14 4 12 33.3 0 0 - 6 6 100.0 0 4 4 4 0 0 1 2 -
+p70
+aVPete Chilcutt SAC 04/13/1993 SAC vs. SAN L 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -
+p71
+aVDuane Causwell SAC 04/13/1993 SAC vs. SAN L 18 7 2 3 66.7 0 0 - 3 3 100.0 1 3 4 1 1 0 2 3 -
+p72
+aVAnthony Bonner SAC 04/13/1993 SAC vs. SAN L 15 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 0 0 2 2 -
+p73
+aVRod Higgins SAC 04/13/1993 SAC vs. SAN L 27 13 5 14 35.7 1 5 20.0 2 2 100.0 1 5 6 3 2 0 0 1 -
+p74
+aVDuane Causwell SAC 04/09/1993 SAC @ SEA L 33 4 1 9 11.1 0 0 - 2 4 50.0 2 2 4 2 1 0 4 2 -
+p75
+aVKurt Rambis SAC 04/09/1993 SAC @ SEA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p76
+aVSpud Webb SAC 04/09/1993 SAC @ SEA L 28 8 3 7 42.9 0 2 0.0 2 3 66.7 0 1 1 7 0 0 5 2 -
+p77
+aVJim Les SAC 04/09/1993 SAC @ SEA L 14 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 4 1 0 2 3 -
+p78
+aVMarty Conlon SAC 04/09/1993 SAC @ SEA L 25 19 7 11 63.6 0 0 - 5 5 100.0 3 6 9 3 0 0 3 3 -
+p79
+aVAnthony Bonner SAC 04/09/1993 SAC @ SEA L 32 12 4 7 57.1 0 0 - 4 5 80.0 1 4 5 1 0 0 0 2 -
+p80
+aVWayman Tisdale SAC 04/09/1993 SAC @ SEA L 25 9 4 12 33.3 0 0 - 1 2 50.0 1 2 3 1 1 0 3 2 -
+p81
+aVPete Chilcutt SAC 04/09/1993 SAC @ SEA L 31 16 7 11 63.6 0 0 - 2 2 100.0 2 4 6 0 0 1 3 2 -
+p82
+aVRod Higgins SAC 04/09/1993 SAC @ SEA L 45 22 8 13 61.5 6 7 85.7 0 0 - 0 4 4 3 2 0 4 3 -
+p83
+aVRod Higgins SAC 04/08/1993 SAC vs. PHX L 46 26 10 17 58.8 4 5 80.0 2 4 50.0 0 5 5 3 0 1 2 3 -
+p84
+aVRandy Brown SAC 04/08/1993 SAC vs. PHX L 6 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p85
+aVJim Les SAC 04/08/1993 SAC vs. PHX L 16 3 1 8 12.5 1 4 25.0 0 0 - 0 3 3 2 1 0 1 3 -
+p86
+aVWayman Tisdale SAC 04/08/1993 SAC vs. PHX L 31 16 6 14 42.9 0 0 - 4 4 100.0 3 3 6 4 2 1 2 6 -
+p87
+aVPete Chilcutt SAC 04/08/1993 SAC vs. PHX L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p88
+aVKurt Rambis SAC 04/08/1993 SAC vs. PHX L 28 8 3 5 60.0 0 0 - 2 2 100.0 4 7 11 1 0 2 0 2 -
+p89
+aVAnthony Bonner SAC 04/08/1993 SAC vs. PHX L 41 14 5 19 26.3 0 0 - 4 7 57.1 6 4 10 7 1 0 1 5 -
+p90
+aVDuane Causwell SAC 04/08/1993 SAC vs. PHX L 31 20 8 10 80.0 0 0 - 4 6 66.7 2 7 9 2 1 1 0 5 -
+p91
+aVSpud Webb SAC 04/08/1993 SAC vs. PHX L 36 19 6 16 37.5 1 1 100.0 6 9 66.7 1 1 2 8 2 0 4 4 -
+p92
+aVRandy Brown SAC 04/06/1993 SAC vs. DEN L 23 4 1 2 50.0 0 0 - 2 3 66.7 0 1 1 2 1 3 2 3 -
+p93
+aVWalt Williams SAC 04/06/1993 SAC vs. DEN L 39 13 5 16 31.3 0 1 0.0 3 6 50.0 3 2 5 3 1 0 6 1 -
+p94
+aVWayman Tisdale SAC 04/06/1993 SAC vs. DEN L 30 19 8 13 61.5 0 0 - 3 5 60.0 0 2 2 1 1 0 1 3 -
+p95
+aVRod Higgins SAC 04/06/1993 SAC vs. DEN L 31 15 3 9 33.3 2 5 40.0 7 7 100.0 0 2 2 2 2 1 2 3 -
+p96
+aVSpud Webb SAC 04/06/1993 SAC vs. DEN L 41 20 9 17 52.9 1 1 100.0 1 5 20.0 0 2 2 8 4 1 5 1 -
+p97
+aVMarty Conlon SAC 04/06/1993 SAC vs. DEN L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p98
+aVPete Chilcutt SAC 04/06/1993 SAC vs. DEN L 14 2 1 4 25.0 0 0 - 0 0 - 2 5 7 1 1 1 0 1 -
+p99
+aVDuane Causwell SAC 04/06/1993 SAC vs. DEN L 24 12 6 9 66.7 0 0 - 0 1 0.0 1 5 6 0 0 2 4 3 -
+p100
+aVAnthony Bonner SAC 04/06/1993 SAC vs. DEN L 31 11 3 3 100.0 0 0 - 5 10 50.0 2 7 9 1 1 0 3 4 -
+p101
+aVJim Les SAC 04/06/1993 SAC vs. DEN L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -
+p102
+aVKurt Rambis SAC 04/04/1993 SAC @ PHL L 10 6 3 4 75.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -
+p103
+aVWalt Williams SAC 04/04/1993 SAC @ PHL L 37 17 7 23 30.4 1 7 14.3 2 2 100.0 5 4 9 6 0 0 6 3 -
+p104
+aVJim Les SAC 04/04/1993 SAC @ PHL L 10 6 2 3 66.7 1 2 50.0 1 1 100.0 0 0 0 4 2 0 0 0 -
+p105
+aVRod Higgins SAC 04/04/1993 SAC @ PHL L 19 10 3 8 37.5 2 4 50.0 2 2 100.0 0 1 1 1 2 0 1 2 -
+p106
+aVDuane Causwell SAC 04/04/1993 SAC @ PHL L 29 13 4 6 66.7 0 0 - 5 8 62.5 1 6 7 0 0 3 2 4 -
+p107
+aVRandy Brown SAC 04/04/1993 SAC @ PHL L 39 16 7 14 50.0 0 0 - 2 5 40.0 2 3 5 5 1 1 0 5 -
+p108
+aVAnthony Bonner SAC 04/04/1993 SAC @ PHL L 34 16 6 13 46.2 0 0 - 4 6 66.7 7 5 12 2 2 0 0 4 -
+p109
+aVPete Chilcutt SAC 04/04/1993 SAC @ PHL L 20 8 4 7 57.1 0 0 - 0 0 - 2 3 5 4 0 1 3 4 -
+p110
+aVMarty Conlon SAC 04/04/1993 SAC @ PHL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -
+p111
+aVSpud Webb SAC 04/04/1993 SAC @ PHL L 37 10 5 12 41.7 0 2 0.0 0 0 - 1 2 3 2 1 0 3 3 -
+p112
+aVKurt Rambis SAC 04/02/1993 SAC @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -
+p113
+aVAnthony Bonner SAC 04/02/1993 SAC @ DET L 36 13 5 11 45.5 0 0 - 3 6 50.0 3 6 9 2 6 0 2 4 -
+p114
+aVWalt Williams SAC 04/02/1993 SAC @ DET L 39 29 12 29 41.4 2 6 33.3 3 3 100.0 1 2 3 4 0 0 2 2 -
+p115
+aVRod Higgins SAC 04/02/1993 SAC @ DET L 22 13 4 8 50.0 0 0 - 5 5 100.0 2 2 4 0 1 1 0 3 -
+p116
+aVRandy Brown SAC 04/02/1993 SAC @ DET L 34 8 2 9 22.2 0 0 - 4 4 100.0 1 6 7 5 2 0 2 6 -
+p117
+aVPete Chilcutt SAC 04/02/1993 SAC @ DET L 19 6 3 5 60.0 0 0 - 0 0 - 2 4 6 1 0 1 0 1 -
+p118
+aVMarty Conlon SAC 04/02/1993 SAC @ DET L 15 8 2 3 66.7 0 0 - 4 4 100.0 1 2 3 1 1 0 0 0 -
+p119
+aVJim Les SAC 04/02/1993 SAC @ DET L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p120
+aVSpud Webb SAC 04/02/1993 SAC @ DET L 30 13 5 12 41.7 1 6 16.7 2 2 100.0 0 3 3 4 1 0 5 0 -
+p121
+aVDuane Causwell SAC 04/02/1993 SAC @ DET L 32 10 4 13 30.8 0 1 0.0 2 2 100.0 1 2 3 1 0 1 0 1 -
+p122
+aVRod Higgins SAC 04/01/1993 SAC @ WAS W 35 15 7 15 46.7 1 4 25.0 0 0 - 0 4 4 3 3 1 1 3 -
+p123
+aVRandy Brown SAC 04/01/1993 SAC @ WAS W 27 11 3 5 60.0 0 0 - 5 8 62.5 0 2 2 3 5 0 3 4 -
+p124
+aVWalt Williams SAC 04/01/1993 SAC @ WAS W 30 23 9 19 47.4 1 2 50.0 4 7 57.1 3 3 6 2 0 0 5 3 -
+p125
+aVSpud Webb SAC 04/01/1993 SAC @ WAS W 39 27 11 14 78.6 2 3 66.7 3 3 100.0 1 1 2 8 1 0 2 2 -
+p126
+aVDuane Causwell SAC 04/01/1993 SAC @ WAS W 32 8 2 6 33.3 0 0 - 4 5 80.0 2 6 8 0 0 3 0 2 -
+p127
+aVKurt Rambis SAC 04/01/1993 SAC @ WAS W 16 4 2 3 66.7 0 0 - 0 0 - 1 7 8 3 1 0 0 1 -
+p128
+aVPete Chilcutt SAC 04/01/1993 SAC @ WAS W 17 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 0 0 3 -
+p129
+aVAnthony Bonner SAC 04/01/1993 SAC @ WAS W 38 20 8 16 50.0 0 1 0.0 4 7 57.1 4 4 8 3 1 0 1 3 -
+p130
+aVJim Les SAC 04/01/1993 SAC @ WAS W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 1 0 0 -
+p131
+aVMarty Conlon SAC 04/01/1993 SAC @ WAS W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 2 0 -
+p132
+aVRod Higgins SAC 03/30/1993 SAC @ NYK L 27 10 3 6 50.0 2 2 100.0 2 2 100.0 1 3 4 2 2 0 1 2 -
+p133
+aVDuane Causwell SAC 03/30/1993 SAC @ NYK L 28 7 2 9 22.2 0 0 - 3 6 50.0 2 3 5 1 0 4 1 5 -
+p134
+aVSpud Webb SAC 03/30/1993 SAC @ NYK L 36 10 3 5 60.0 0 1 0.0 4 4 100.0 0 3 3 7 1 0 4 2 -
+p135
+aVJim Les SAC 03/30/1993 SAC @ NYK L 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p136
+aVMarty Conlon SAC 03/30/1993 SAC @ NYK L 8 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -
+p137
+aVRandy Brown SAC 03/30/1993 SAC @ NYK L 33 8 4 4 100.0 0 0 - 0 0 - 1 6 7 4 0 1 1 4 -
+p138
+aVKurt Rambis SAC 03/30/1993 SAC @ NYK L 5 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 -
+p139
+aVPete Chilcutt SAC 03/30/1993 SAC @ NYK L 26 11 5 9 55.6 0 0 - 1 2 50.0 1 5 6 4 1 0 5 2 -
+p140
+aVAnthony Bonner SAC 03/30/1993 SAC @ NYK L 10 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p141
+aVWalt Williams SAC 03/30/1993 SAC @ NYK L 35 15 6 19 31.6 0 7 0.0 3 4 75.0 1 3 4 1 1 0 4 5 -
+p142
+aVWayman Tisdale SAC 03/30/1993 SAC @ NYK L 30 17 5 15 33.3 0 0 - 7 11 63.6 1 1 2 4 3 0 2 5 -
+p143
+aVMarty Conlon SAC 03/29/1993 SAC @ BOS L 11 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 2 0 0 0 0 -
+p144
+aVPete Chilcutt SAC 03/29/1993 SAC @ BOS L 30 15 7 14 50.0 0 0 - 1 1 100.0 2 4 6 2 0 1 3 1 -
+p145
+aVDuane Causwell SAC 03/29/1993 SAC @ BOS L 16 4 2 3 66.7 0 0 - 0 0 - 2 6 8 0 0 0 1 6 -
+p146
+aVJim Les SAC 03/29/1993 SAC @ BOS L 11 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 -
+p147
+aVRod Higgins SAC 03/29/1993 SAC @ BOS L 24 12 5 7 71.4 0 0 - 2 2 100.0 1 1 2 3 0 0 0 1 -
+p148
+aVRandy Brown SAC 03/29/1993 SAC @ BOS L 35 12 6 11 54.5 0 0 - 0 0 - 0 5 5 3 3 1 2 2 -
+p149
+aVWayman Tisdale SAC 03/29/1993 SAC @ BOS L 22 9 4 13 30.8 0 0 - 1 2 50.0 0 3 3 0 1 1 1 0 -
+p150
+aVWalt Williams SAC 03/29/1993 SAC @ BOS L 32 22 8 18 44.4 2 3 66.7 4 5 80.0 3 1 4 3 1 0 5 1 -
+p151
+aVSpud Webb SAC 03/29/1993 SAC @ BOS L 26 4 1 9 11.1 0 3 0.0 2 2 100.0 0 1 1 6 1 0 0 0 -
+p152
+aVAnthony Bonner SAC 03/29/1993 SAC @ BOS L 25 0 0 5 0.0 0 0 - 0 0 - 1 4 5 2 0 0 3 4 -
+p153
+aVKurt Rambis SAC 03/29/1993 SAC @ BOS L 8 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 1 0 -
+p154
+aVWayman Tisdale SAC 03/27/1993 SAC vs. MIL L 35 17 8 17 47.1 0 0 - 1 3 33.3 2 2 4 2 1 0 1 4 -
+p155
+aVJim Les SAC 03/27/1993 SAC vs. MIL L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -
+p156
+aVSpud Webb SAC 03/27/1993 SAC vs. MIL L 33 14 4 8 50.0 1 4 25.0 5 6 83.3 0 2 2 8 4 0 5 2 -
+p157
+aVWalt Williams SAC 03/27/1993 SAC vs. MIL L 38 30 11 23 47.8 3 4 75.0 5 9 55.6 3 1 4 6 1 0 3 2 -
+p158
+aVKurt Rambis SAC 03/27/1993 SAC vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -
+p159
+aVDuane Causwell SAC 03/27/1993 SAC vs. MIL L 10 6 2 3 66.7 0 0 - 2 2 100.0 2 0 2 0 1 2 1 0 -
+p160
+aVMarty Conlon SAC 03/27/1993 SAC vs. MIL L 9 11 5 7 71.4 0 0 - 1 3 33.3 1 1 2 1 0 0 0 0 -
+p161
+aVRod Higgins SAC 03/27/1993 SAC vs. MIL L 10 4 1 3 33.3 0 1 0.0 2 2 100.0 2 0 2 1 1 0 1 0 -
+p162
+aVPete Chilcutt SAC 03/27/1993 SAC vs. MIL L 36 14 7 15 46.7 0 0 - 0 2 0.0 4 4 8 6 0 0 2 2 -
+p163
+aVRandy Brown SAC 03/27/1993 SAC vs. MIL L 28 2 0 5 0.0 0 0 - 2 2 100.0 0 4 4 5 2 0 1 1 -
+p164
+aVAnthony Bonner SAC 03/27/1993 SAC vs. MIL L 30 7 3 7 42.9 0 0 - 1 2 50.0 2 6 8 2 1 1 2 3 -
+p165
+aVWayman Tisdale SAC 03/25/1993 SAC vs. POR L 36 22 9 20 45.0 0 0 - 4 5 80.0 6 8 14 2 0 1 4 6 -
+p166
+aVSpud Webb SAC 03/25/1993 SAC vs. POR L 44 18 4 16 25.0 0 1 0.0 10 10 100.0 0 6 6 10 5 0 3 3 -
+p167
+aVJim Les SAC 03/25/1993 SAC vs. POR L 13 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 1 0 0 1 1 -
+p168
+aVPete Chilcutt SAC 03/25/1993 SAC vs. POR L 21 8 4 10 40.0 0 0 - 0 0 - 2 0 2 0 0 1 0 2 -
+p169
+aVWalt Williams SAC 03/25/1993 SAC vs. POR L 41 35 12 25 48.0 4 7 57.1 7 8 87.5 2 1 3 3 1 1 4 5 -
+p170
+aVAnthony Bonner SAC 03/25/1993 SAC vs. POR L 30 5 1 3 33.3 0 0 - 3 6 50.0 2 4 6 1 1 0 1 5 -
+p171
+aVRod Higgins SAC 03/25/1993 SAC vs. POR L 32 6 2 6 33.3 0 2 0.0 2 2 100.0 2 3 5 4 0 1 2 4 -
+p172
+aVRandy Brown SAC 03/25/1993 SAC vs. POR L 48 13 4 8 50.0 0 1 0.0 5 8 62.5 3 7 10 4 2 0 4 5 -
+p173
+aVMarty Conlon SAC 03/23/1993 SAC vs. LAC W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p174
+aVKurt Rambis SAC 03/23/1993 SAC vs. LAC W 10 2 1 1 100.0 0 0 - 0 0 - 3 0 3 0 0 0 0 2 -
+p175
+aVPete Chilcutt SAC 03/23/1993 SAC vs. LAC W 26 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 6 -
+p176
+aVAnthony Bonner SAC 03/23/1993 SAC vs. LAC W 34 8 3 8 37.5 0 0 - 2 4 50.0 1 3 4 0 1 1 3 3 -
+p177
+aVWalt Williams SAC 03/23/1993 SAC vs. LAC W 37 18 7 18 38.9 3 7 42.9 1 2 50.0 0 4 4 9 1 1 3 3 -
+p178
+aVRandy Brown SAC 03/23/1993 SAC vs. LAC W 20 9 3 6 50.0 0 0 - 3 5 60.0 1 3 4 4 1 0 1 2 -
+p179
+aVRod Higgins SAC 03/23/1993 SAC vs. LAC W 26 9 3 8 37.5 0 2 0.0 3 3 100.0 1 4 5 2 2 1 1 2 -
+p180
+aVWayman Tisdale SAC 03/23/1993 SAC vs. LAC W 39 40 19 23 82.6 0 0 - 2 3 66.7 1 7 8 4 2 3 2 3 -
+p181
+aVSpud Webb SAC 03/23/1993 SAC vs. LAC W 47 29 10 15 66.7 0 2 0.0 9 11 81.8 1 2 3 17 4 1 3 1 -
+p182
+aVLionel Simmons SAC 03/19/1993 SAC vs. GOS L 41 20 7 15 46.7 0 0 - 6 8 75.0 4 7 11 6 2 0 4 4 -
+p183
+aVAnthony Bonner SAC 03/19/1993 SAC vs. GOS L 41 9 4 12 33.3 0 0 - 1 2 50.0 6 7 13 1 5 0 2 5 -
+p184
+aVRandy Brown SAC 03/19/1993 SAC vs. GOS L 19 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 1 2 1 1 3 -
+p185
+aVMarty Conlon SAC 03/19/1993 SAC vs. GOS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p186
+aVPete Chilcutt SAC 03/19/1993 SAC vs. GOS L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 2 0 3 1 -
+p187
+aVRod Higgins SAC 03/19/1993 SAC vs. GOS L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -
+p188
+aVWalt Williams SAC 03/19/1993 SAC vs. GOS L 39 19 7 17 41.2 0 4 0.0 5 5 100.0 1 3 4 1 1 0 3 3 -
+p189
+aVWayman Tisdale SAC 03/19/1993 SAC vs. GOS L 33 22 9 19 47.4 0 0 - 4 6 66.7 5 3 8 1 1 1 1 6 -
+p190
+aVSpud Webb SAC 03/19/1993 SAC vs. GOS L 45 20 6 13 46.2 1 3 33.3 7 9 77.8 1 0 1 6 1 1 4 5 -
+p191
+aVJim Les SAC 03/19/1993 SAC vs. GOS L 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -
+p192
+aVWalt Williams SAC 03/18/1993 SAC @ SEA L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 2 -
+p193
+aVWayman Tisdale SAC 03/18/1993 SAC @ SEA L 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p194
+aVRandy Brown SAC 03/18/1993 SAC @ SEA L 30 7 2 8 25.0 0 0 - 3 3 100.0 4 3 7 6 4 1 4 3 -
+p195
+aVMarty Conlon SAC 03/18/1993 SAC @ SEA L 22 15 6 15 40.0 0 0 - 3 5 60.0 6 2 8 3 1 0 1 2 -
+p196
+aVAnthony Bonner SAC 03/18/1993 SAC @ SEA L 21 12 5 7 71.4 0 0 - 2 4 50.0 4 1 5 3 0 0 2 2 -
+p197
+aVKurt Rambis SAC 03/18/1993 SAC @ SEA L 17 7 3 6 50.0 0 0 - 1 2 50.0 4 2 6 1 1 1 0 2 -
+p198
+aVPete Chilcutt SAC 03/18/1993 SAC @ SEA L 31 19 7 13 53.8 0 0 - 5 7 71.4 4 3 7 2 0 1 1 5 -
+p199
+aVRod Higgins SAC 03/18/1993 SAC @ SEA L 23 16 5 11 45.5 1 4 25.0 5 5 100.0 3 2 5 2 3 0 1 0 -
+p200
+aVSpud Webb SAC 03/18/1993 SAC @ SEA L 28 10 5 12 41.7 0 3 0.0 0 0 - 1 1 2 6 1 0 1 0 -
+p201
+aVJim Les SAC 03/18/1993 SAC @ SEA L 25 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 3 1 0 4 2 -
+p202
+aVLionel Simmons SAC 03/18/1993 SAC @ SEA L 27 18 7 16 43.8 0 0 - 4 4 100.0 1 3 4 2 1 0 1 0 -
+p203
+aVAnthony Bonner SAC 03/16/1993 SAC vs. DET L 26 6 2 3 66.7 0 0 - 2 2 100.0 2 8 10 0 1 0 0 2 -
+p204
+aVWalt Williams SAC 03/16/1993 SAC vs. DET L 40 11 4 14 28.6 2 5 40.0 1 1 100.0 1 2 3 6 3 0 2 5 -
+p205
+aVLionel Simmons SAC 03/16/1993 SAC vs. DET L 41 34 12 22 54.5 1 1 100.0 9 11 81.8 2 4 6 4 1 0 2 5 -
+p206
+aVSpud Webb SAC 03/16/1993 SAC vs. DET L 38 19 7 16 43.8 1 5 20.0 4 6 66.7 1 1 2 9 1 0 3 3 -
+p207
+aVRandy Brown SAC 03/16/1993 SAC vs. DET L 14 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 0 0 0 4 -
+p208
+aVRod Higgins SAC 03/16/1993 SAC vs. DET L 25 5 1 4 25.0 0 2 0.0 3 3 100.0 1 0 1 4 0 0 1 4 -
+p209
+aVMarty Conlon SAC 03/16/1993 SAC vs. DET L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -
+p210
+aVJim Les SAC 03/16/1993 SAC vs. DET L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -
+p211
+aVKurt Rambis SAC 03/16/1993 SAC vs. DET L 9 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -
+p212
+aVWayman Tisdale SAC 03/16/1993 SAC vs. DET L 36 26 12 20 60.0 0 0 - 2 2 100.0 2 8 10 2 0 0 2 3 -
+p213
+aVRod Higgins SAC 03/13/1993 SAC vs. DAL W 14 0 0 4 0.0 0 0 - 0 0 - 1 0 1 1 0 1 1 0 -
+p214
+aVSpud Webb SAC 03/13/1993 SAC vs. DAL W 31 15 5 10 50.0 1 2 50.0 4 7 57.1 0 1 1 8 2 0 6 1 -
+p215
+aVAnthony Bonner SAC 03/13/1993 SAC vs. DAL W 25 11 5 7 71.4 0 0 - 1 2 50.0 1 5 6 1 1 0 1 3 -
+p216
+aVRandy Brown SAC 03/13/1993 SAC vs. DAL W 23 15 5 8 62.5 0 0 - 5 5 100.0 0 2 2 5 4 0 1 0 -
+p217
+aVLionel Simmons SAC 03/13/1993 SAC vs. DAL W 29 24 11 13 84.6 0 0 - 2 2 100.0 0 4 4 5 2 0 1 1 -
+p218
+aVMarty Conlon SAC 03/13/1993 SAC vs. DAL W 18 9 2 4 50.0 0 0 - 5 6 83.3 3 3 6 0 0 0 2 3 -
+p219
+aVPete Chilcutt SAC 03/13/1993 SAC vs. DAL W 15 4 2 8 25.0 0 0 - 0 1 0.0 0 1 1 3 0 1 0 1 -
+p220
+aVWalt Williams SAC 03/13/1993 SAC vs. DAL W 37 20 7 17 41.2 1 4 25.0 5 8 62.5 4 6 10 3 2 1 3 5 -
+p221
+aVWayman Tisdale SAC 03/13/1993 SAC vs. DAL W 25 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 2 2 0 1 3 -
+p222
+aVJim Les SAC 03/13/1993 SAC vs. DAL W 14 8 2 4 50.0 2 2 100.0 2 2 100.0 0 2 2 2 0 1 0 2 -
+p223
+aVKurt Rambis SAC 03/13/1993 SAC vs. DAL W 9 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 2 -
+p224
+aVJim Les SAC 03/11/1993 SAC vs. MIN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p225
+aVWalt Williams SAC 03/11/1993 SAC vs. MIN W 31 17 7 16 43.8 1 3 33.3 2 2 100.0 4 3 7 1 5 0 3 5 -
+p226
+aVLionel Simmons SAC 03/11/1993 SAC vs. MIN W 42 28 10 21 47.6 0 0 - 8 9 88.9 3 2 5 8 1 1 2 1 -
+p227
+aVAnthony Bonner SAC 03/11/1993 SAC vs. MIN W 29 8 3 7 42.9 0 0 - 2 5 40.0 4 3 7 3 2 0 1 5 -
+p228
+aVWayman Tisdale SAC 03/11/1993 SAC vs. MIN W 29 10 3 10 30.0 0 0 - 4 6 66.7 1 6 7 0 2 1 0 2 -
+p229
+aVSpud Webb SAC 03/11/1993 SAC vs. MIN W 35 17 5 14 35.7 0 3 0.0 7 8 87.5 0 6 6 3 2 0 3 3 -
+p230
+aVRandy Brown SAC 03/11/1993 SAC vs. MIN W 26 8 2 8 25.0 0 0 - 4 4 100.0 1 2 3 1 0 0 1 1 -
+p231
+aVPete Chilcutt SAC 03/11/1993 SAC vs. MIN W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -
+p232
+aVMarty Conlon SAC 03/11/1993 SAC vs. MIN W 3 5 2 3 66.7 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -
+p233
+aVKurt Rambis SAC 03/11/1993 SAC vs. MIN W 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p234
+aVRod Higgins SAC 03/11/1993 SAC vs. MIN W 30 16 4 9 44.4 1 1 100.0 7 8 87.5 4 1 5 2 4 2 0 2 -
+p235
+aVJim Les SAC 03/09/1993 SAC vs. PHX L 7 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 1 0 0 1 -
+p236
+aVWalt Williams SAC 03/09/1993 SAC vs. PHX L 43 30 11 25 44.0 2 3 66.7 6 8 75.0 3 1 4 3 3 0 3 4 -
+p237
+aVRandy Brown SAC 03/09/1993 SAC vs. PHX L 23 7 3 10 30.0 0 0 - 1 2 50.0 0 0 0 8 1 0 2 4 -
+p238
+aVWayman Tisdale SAC 03/09/1993 SAC vs. PHX L 38 32 11 19 57.9 0 0 - 10 13 76.9 4 8 12 4 0 0 1 4 -
+p239
+aVPete Chilcutt SAC 03/09/1993 SAC vs. PHX L 17 10 5 7 71.4 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -
+p240
+aVSpud Webb SAC 03/09/1993 SAC vs. PHX L 21 10 5 12 41.7 0 3 0.0 0 0 - 0 3 3 3 1 0 0 1 -
+p241
+aVRod Higgins SAC 03/09/1993 SAC vs. PHX L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p242
+aVKurt Rambis SAC 03/09/1993 SAC vs. PHX L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 1 0 0 1 -
+p243
+aVMarty Conlon SAC 03/09/1993 SAC vs. PHX L 14 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 2 1 -
+p244
+aVLionel Simmons SAC 03/09/1993 SAC vs. PHX L 29 11 3 23 13.0 0 0 - 5 6 83.3 11 4 15 2 2 0 2 2 -
+p245
+aVAnthony Bonner SAC 03/09/1993 SAC vs. PHX L 30 2 1 5 20.0 0 0 - 0 0 - 5 6 11 2 2 0 2 2 -
+p246
+aVRod Higgins SAC 03/06/1993 SAC @ HOU L 13 8 3 6 50.0 0 1 0.0 2 4 50.0 1 0 1 1 1 0 1 0 -
+p247
+aVSpud Webb SAC 03/06/1993 SAC @ HOU L 26 7 2 8 25.0 1 2 50.0 2 2 100.0 2 1 3 3 3 0 3 0 -
+p248
+aVLionel Simmons SAC 03/06/1993 SAC @ HOU L 25 20 9 18 50.0 0 2 0.0 2 2 100.0 1 3 4 3 1 0 2 3 -
+p249
+aVPete Chilcutt SAC 03/06/1993 SAC @ HOU L 23 7 3 9 33.3 0 0 - 1 2 50.0 4 2 6 5 0 0 0 2 -
+p250
+aVWalt Williams SAC 03/06/1993 SAC @ HOU L 27 13 6 17 35.3 1 4 25.0 0 0 - 1 3 4 5 1 0 5 6 -
+p251
+aVAnthony Bonner SAC 03/06/1993 SAC @ HOU L 30 2 1 6 16.7 0 1 0.0 0 0 - 4 3 7 3 3 0 3 2 -
+p252
+aVRandy Brown SAC 03/06/1993 SAC @ HOU L 32 13 6 11 54.5 0 0 - 1 1 100.0 0 3 3 3 4 0 3 4 -
+p253
+aVMarty Conlon SAC 03/06/1993 SAC @ HOU L 11 10 4 4 100.0 0 0 - 2 5 40.0 2 2 4 2 0 0 0 2 -
+p254
+aVWayman Tisdale SAC 03/06/1993 SAC @ HOU L 27 14 7 11 63.6 0 0 - 0 0 - 1 4 5 1 2 0 3 2 -
+p255
+aVJim Les SAC 03/06/1993 SAC @ HOU L 14 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 7 1 0 0 1 -
+p256
+aVKurt Rambis SAC 03/06/1993 SAC @ HOU L 12 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 4 -
+p257
+aVAnthony Bonner SAC 03/05/1993 SAC @ PHX L 24 10 4 9 44.4 0 0 - 2 2 100.0 3 6 9 1 0 1 0 3 -
+p258
+aVLionel Simmons SAC 03/05/1993 SAC @ PHX L 23 17 6 16 37.5 0 0 - 5 6 83.3 3 3 6 3 1 0 2 5 -
+p259
+aVRod Higgins SAC 03/05/1993 SAC @ PHX L 18 10 3 7 42.9 1 3 33.3 3 3 100.0 1 1 2 2 0 2 1 5 -
+p260
+aVPete Chilcutt SAC 03/05/1993 SAC @ PHX L 19 12 6 9 66.7 0 0 - 0 0 - 3 3 6 0 0 0 1 6 -
+p261
+aVDuane Causwell SAC 03/05/1993 SAC @ PHX L 16 6 3 4 75.0 0 0 - 0 0 - 4 2 6 0 1 0 0 4 -
+p262
+aVRandy Brown SAC 03/05/1993 SAC @ PHX L 23 8 4 10 40.0 0 0 - 0 2 0.0 0 3 3 5 1 0 1 3 -
+p263
+aVKurt Rambis SAC 03/05/1993 SAC @ PHX L 8 7 3 3 100.0 0 0 - 1 1 100.0 1 4 5 2 1 0 2 0 -
+p264
+aVWalt Williams SAC 03/05/1993 SAC @ PHX L 35 16 6 16 37.5 0 1 0.0 4 5 80.0 4 2 6 7 1 0 0 3 -
+p265
+aVWayman Tisdale SAC 03/05/1993 SAC @ PHX L 28 16 8 17 47.1 0 0 - 0 0 - 2 1 3 2 0 1 2 5 -
+p266
+aVMarty Conlon SAC 03/05/1993 SAC @ PHX L 8 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 1 0 0 1 0 -
+p267
+aVJim Les SAC 03/05/1993 SAC @ PHX L 11 12 5 5 100.0 2 2 100.0 0 0 - 0 2 2 3 2 0 0 2 -
+p268
+aVSpud Webb SAC 03/05/1993 SAC @ PHX L 27 3 1 8 12.5 1 3 33.3 0 0 - 0 0 0 6 0 0 5 1 -
+p269
+aVKurt Rambis SAC 03/03/1993 SAC vs. HOU L 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 4 -
+p270
+aVSpud Webb SAC 03/03/1993 SAC vs. HOU L 39 14 6 19 31.6 0 4 0.0 2 3 66.7 3 1 4 9 0 0 3 2 -
+p271
+aVAnthony Bonner SAC 03/03/1993 SAC vs. HOU L 25 7 3 5 60.0 0 0 - 1 2 50.0 4 7 11 3 2 1 4 1 -
+p272
+aVDuane Causwell SAC 03/03/1993 SAC vs. HOU L 15 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 2 1 1 2 -
+p273
+aVWayman Tisdale SAC 03/03/1993 SAC vs. HOU L 31 13 5 12 41.7 0 0 - 3 4 75.0 0 4 4 1 0 2 1 4 -
+p274
+aVPete Chilcutt SAC 03/03/1993 SAC vs. HOU L 5 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 -
+p275
+aVWalt Williams SAC 03/03/1993 SAC vs. HOU L 34 18 7 19 36.8 1 5 20.0 3 5 60.0 3 2 5 4 2 0 6 5 -
+p276
+aVRandy Brown SAC 03/03/1993 SAC vs. HOU L 19 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -
+p277
+aVLionel Simmons SAC 03/03/1993 SAC vs. HOU L 42 12 6 16 37.5 0 0 - 0 2 0.0 6 7 13 6 4 1 4 2 -
+p278
+aVRod Higgins SAC 03/03/1993 SAC vs. HOU L 16 9 3 6 50.0 2 3 66.7 1 2 50.0 1 0 1 2 0 0 0 2 -
+p279
+aVLionel Simmons SAC 02/27/1993 SAC @ UTH W 42 21 8 16 50.0 0 0 - 5 8 62.5 4 3 7 8 0 1 2 3 -
+p280
+aVSpud Webb SAC 02/27/1993 SAC @ UTH W 42 18 5 12 41.7 4 5 80.0 4 4 100.0 2 3 5 8 1 0 4 4 -
+p281
+aVAnthony Bonner SAC 02/27/1993 SAC @ UTH W 31 11 4 7 57.1 0 0 - 3 4 75.0 4 13 17 2 3 1 2 3 -
+p282
+aVWayman Tisdale SAC 02/27/1993 SAC @ UTH W 34 25 11 19 57.9 0 0 - 3 3 100.0 4 4 8 2 1 2 1 5 -
+p283
+aVKurt Rambis SAC 02/27/1993 SAC @ UTH W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -
+p284
+aVPete Chilcutt SAC 02/27/1993 SAC @ UTH W 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p285
+aVMarty Conlon SAC 02/27/1993 SAC @ UTH W 11 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 1 1 0 1 -
+p286
+aVRod Higgins SAC 02/27/1993 SAC @ UTH W 7 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p287
+aVRandy Brown SAC 02/27/1993 SAC @ UTH W 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 1 2 1 -
+p288
+aVWalt Williams SAC 02/27/1993 SAC @ UTH W 45 37 12 28 42.9 0 4 0.0 13 15 86.7 4 1 5 3 1 1 4 4 -
+p289
+aVSpud Webb SAC 02/26/1993 SAC vs. SEA L 26 12 3 10 30.0 0 2 0.0 6 6 100.0 0 0 0 4 3 0 5 2 -
+p290
+aVWalt Williams SAC 02/26/1993 SAC vs. SEA L 30 17 6 10 60.0 1 3 33.3 4 5 80.0 0 4 4 7 3 0 3 6 -
+p291
+aVMarty Conlon SAC 02/26/1993 SAC vs. SEA L 20 13 5 10 50.0 0 1 0.0 3 4 75.0 1 2 3 1 1 0 2 0 -
+p292
+aVWayman Tisdale SAC 02/26/1993 SAC vs. SEA L 24 17 6 9 66.7 0 0 - 5 5 100.0 4 1 5 1 0 0 5 2 -
+p293
+aVPete Chilcutt SAC 02/26/1993 SAC vs. SEA L 25 16 8 11 72.7 0 0 - 0 0 - 3 8 11 5 1 1 1 2 -
+p294
+aVJim Les SAC 02/26/1993 SAC vs. SEA L 22 11 4 7 57.1 2 5 40.0 1 2 50.0 0 2 2 3 0 0 3 2 -
+p295
+aVRod Higgins SAC 02/26/1993 SAC vs. SEA L 22 11 4 9 44.4 1 2 50.0 2 2 100.0 1 2 3 0 0 0 4 2 -
+p296
+aVKurt Rambis SAC 02/26/1993 SAC vs. SEA L 12 5 2 2 100.0 0 0 - 1 1 100.0 2 3 5 0 0 0 0 0 -
+p297
+aVLionel Simmons SAC 02/26/1993 SAC vs. SEA L 28 13 6 14 42.9 0 0 - 1 1 100.0 2 4 6 6 2 1 6 3 -
+p298
+aVAnthony Bonner SAC 02/26/1993 SAC vs. SEA L 31 5 2 11 18.2 0 1 0.0 1 3 33.3 4 2 6 1 4 0 3 2 -
+p299
+aVRandy Brown SAC 02/24/1993 SAC vs. LAL L 40 14 7 13 53.8 0 0 - 0 0 - 1 7 8 1 2 1 3 3 -
+p300
+aVWalt Williams SAC 02/24/1993 SAC vs. LAL L 40 31 12 20 60.0 3 7 42.9 4 4 100.0 4 2 6 5 2 0 6 3 -
+p301
+aVLionel Simmons SAC 02/24/1993 SAC vs. LAL L 38 8 2 9 22.2 0 0 - 4 5 80.0 1 3 4 1 2 0 3 1 -
+p302
+aVJim Les SAC 02/24/1993 SAC vs. LAL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 0 -
+p303
+aVRod Higgins SAC 02/24/1993 SAC vs. LAL L 27 12 4 7 57.1 0 1 0.0 4 4 100.0 1 3 4 0 1 0 3 3 -
+p304
+aVWayman Tisdale SAC 02/24/1993 SAC vs. LAL L 32 8 3 14 21.4 0 0 - 2 2 100.0 2 4 6 2 0 1 1 5 -
+p305
+aVKurt Rambis SAC 02/24/1993 SAC vs. LAL L 11 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 1 1 0 1 -
+p306
+aVSpud Webb SAC 02/24/1993 SAC vs. LAL L 42 21 7 15 46.7 0 1 0.0 7 9 77.8 0 5 5 10 0 0 3 3 -
+p307
+aVPete Chilcutt SAC 02/24/1993 SAC vs. LAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p308
+aVWalt Williams SAC 02/23/1993 SAC @ LAC L 41 24 9 19 47.4 2 7 28.6 4 8 50.0 1 4 5 7 2 2 2 4 -
+p309
+aVJim Les SAC 02/23/1993 SAC @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p310
+aVSpud Webb SAC 02/23/1993 SAC @ LAC L 33 12 4 10 40.0 1 3 33.3 3 4 75.0 0 3 3 6 0 0 3 1 -
+p311
+aVRod Higgins SAC 02/23/1993 SAC @ LAC L 23 15 6 10 60.0 1 2 50.0 2 2 100.0 4 1 5 3 0 0 0 3 -
+p312
+aVRandy Brown SAC 02/23/1993 SAC @ LAC L 43 18 8 13 61.5 0 0 - 2 2 100.0 3 2 5 5 7 1 2 4 -
+p313
+aVWayman Tisdale SAC 02/23/1993 SAC @ LAC L 33 17 6 18 33.3 0 0 - 5 6 83.3 1 5 6 1 0 2 0 6 -
+p314
+aVPete Chilcutt SAC 02/23/1993 SAC @ LAC L 18 8 4 9 44.4 0 0 - 0 0 - 3 1 4 0 1 1 1 3 -
+p315
+aVLionel Simmons SAC 02/23/1993 SAC @ LAC L 41 20 9 24 37.5 0 1 0.0 2 2 100.0 3 8 11 3 0 1 2 5 -
+p316
+aVKurt Rambis SAC 02/23/1993 SAC @ LAC L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 2 0 1 3 -
+p317
+aVAnthony Bonner SAC 02/18/1993 SAC @ MIN L 31 11 4 11 36.4 0 0 - 3 5 60.0 7 1 8 1 2 0 0 5 -
+p318
+aVKurt Rambis SAC 02/18/1993 SAC @ MIN L 16 1 0 1 0.0 0 0 - 1 2 50.0 3 2 5 2 1 1 1 3 -
+p319
+aVHenry James SAC 02/18/1993 SAC @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p320
+aVWayman Tisdale SAC 02/18/1993 SAC @ MIN L 37 22 10 17 58.8 0 0 - 2 2 100.0 0 6 6 2 0 1 1 6 -
+p321
+aVSpud Webb SAC 02/18/1993 SAC @ MIN L 33 22 8 14 57.1 3 5 60.0 3 4 75.0 1 1 2 12 0 0 2 5 -
+p322
+aVRandy Brown SAC 02/18/1993 SAC @ MIN L 32 19 8 13 61.5 1 1 100.0 2 3 66.7 0 3 3 3 0 1 1 4 -
+p323
+aVLionel Simmons SAC 02/18/1993 SAC @ MIN L 39 24 9 15 60.0 0 0 - 6 8 75.0 0 2 2 8 1 3 3 3 -
+p324
+aVJim Les SAC 02/18/1993 SAC @ MIN L 15 4 1 6 16.7 0 3 0.0 2 2 100.0 2 0 2 2 0 0 0 0 -
+p325
+aVRod Higgins SAC 02/18/1993 SAC @ MIN L 34 11 3 9 33.3 0 1 0.0 5 5 100.0 0 2 2 5 0 0 1 5 -
+p326
+aVRandy Brown SAC 02/17/1993 SAC @ IND L 33 10 5 12 41.7 0 0 - 0 2 0.0 0 3 3 2 1 0 1 4 -
+p327
+aVJim Les SAC 02/17/1993 SAC @ IND L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 2 -
+p328
+aVPete Chilcutt SAC 02/17/1993 SAC @ IND L 11 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 0 -
+p329
+aVRod Higgins SAC 02/17/1993 SAC @ IND L 26 3 1 10 10.0 0 4 0.0 1 2 50.0 3 0 3 2 0 1 0 2 -
+p330
+aVAnthony Bonner SAC 02/17/1993 SAC @ IND L 34 11 3 6 50.0 0 0 - 5 6 83.3 5 6 11 2 0 0 3 2 -
+p331
+aVWayman Tisdale SAC 02/17/1993 SAC @ IND L 29 14 6 15 40.0 0 0 - 2 4 50.0 1 5 6 0 0 0 2 4 -
+p332
+aVSpud Webb SAC 02/17/1993 SAC @ IND L 33 19 6 11 54.5 0 2 0.0 7 7 100.0 1 2 3 7 0 0 1 0 -
+p333
+aVHenry James SAC 02/17/1993 SAC @ IND L 13 11 4 9 44.4 0 0 - 3 3 100.0 2 0 2 0 1 0 2 1 -
+p334
+aVKurt Rambis SAC 02/17/1993 SAC @ IND L 13 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 1 0 1 0 2 -
+p335
+aVLionel Simmons SAC 02/17/1993 SAC @ IND L 39 23 9 22 40.9 0 1 0.0 5 6 83.3 3 7 10 3 2 0 1 4 -
+p336
+aVAnthony Bonner SAC 02/15/1993 SAC @ CHI L 28 18 9 14 64.3 0 1 0.0 0 1 0.0 4 5 9 2 1 0 3 4 -
+p337
+aVPete Chilcutt SAC 02/15/1993 SAC @ CHI L 10 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 1 2 1 2 1 -
+p338
+aVRandy Brown SAC 02/15/1993 SAC @ CHI L 28 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 3 0 4 3 -
+p339
+aVLionel Simmons SAC 02/15/1993 SAC @ CHI L 35 16 7 15 46.7 0 0 - 2 2 100.0 0 0 0 4 1 0 2 3 -
+p340
+aVSpud Webb SAC 02/15/1993 SAC @ CHI L 32 14 5 11 45.5 0 0 - 4 4 100.0 1 3 4 13 1 0 5 0 -
+p341
+aVWayman Tisdale SAC 02/15/1993 SAC @ CHI L 31 18 9 11 81.8 0 0 - 0 0 - 0 6 6 0 4 0 1 2 -
+p342
+aVRod Higgins SAC 02/15/1993 SAC @ CHI L 24 10 5 12 41.7 0 1 0.0 0 0 - 3 3 6 1 2 0 1 4 -
+p343
+aVJim Les SAC 02/15/1993 SAC @ CHI L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 5 0 0 1 1 -
+p344
+aVHenry James SAC 02/15/1993 SAC @ CHI L 19 8 3 11 27.3 0 0 - 2 2 100.0 2 0 2 0 0 0 1 2 -
+p345
+aVMarty Conlon SAC 02/15/1993 SAC @ CHI L 5 3 1 4 25.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 -
+p346
+aVKurt Rambis SAC 02/15/1993 SAC @ CHI L 9 6 3 4 75.0 0 0 - 0 0 - 3 1 4 0 0 0 1 2 -
+p347
+aVWayman Tisdale SAC 02/13/1993 SAC vs. GOS L 32 14 6 13 46.2 0 0 - 2 3 66.7 0 6 6 0 0 2 1 5 -
+p348
+aVKurt Rambis SAC 02/13/1993 SAC vs. GOS L 8 1 0 0 - 0 0 - 1 2 50.0 0 1 1 2 2 0 1 1 -
+p349
+aVPete Chilcutt SAC 02/13/1993 SAC vs. GOS L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 2 1 1 1 3 -
+p350
+aVRod Higgins SAC 02/13/1993 SAC vs. GOS L 21 9 3 7 42.9 1 3 33.3 2 2 100.0 0 2 2 5 0 0 0 3 -
+p351
+aVJim Les SAC 02/13/1993 SAC vs. GOS L 17 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 2 1 0 0 2 -
+p352
+aVAnthony Bonner SAC 02/13/1993 SAC vs. GOS L 40 15 6 9 66.7 0 0 - 3 4 75.0 2 4 6 0 1 0 0 3 -
+p353
+aVRandy Brown SAC 02/13/1993 SAC vs. GOS L 34 13 5 12 41.7 0 1 0.0 3 3 100.0 2 4 6 6 3 0 2 4 -
+p354
+aVLionel Simmons SAC 02/13/1993 SAC vs. GOS L 39 30 12 23 52.2 0 0 - 6 8 75.0 2 3 5 4 1 0 4 1 -
+p355
+aVSpud Webb SAC 02/13/1993 SAC vs. GOS L 36 17 5 15 33.3 1 4 25.0 6 6 100.0 2 2 4 7 1 0 4 4 -
+p356
+aVSpud Webb SAC 02/11/1993 SAC vs. ATL W 32 13 3 11 27.3 1 2 50.0 6 6 100.0 0 3 3 6 1 0 4 2 -
+p357
+aVPete Chilcutt SAC 02/11/1993 SAC vs. ATL W 16 6 2 3 66.7 0 0 - 2 2 100.0 2 3 5 1 1 1 1 1 -
+p358
+aVLionel Simmons SAC 02/11/1993 SAC vs. ATL W 40 16 7 14 50.0 0 0 - 2 2 100.0 1 3 4 7 0 1 2 2 -
+p359
+aVRandy Brown SAC 02/11/1993 SAC vs. ATL W 24 13 4 11 36.4 0 0 - 5 5 100.0 0 3 3 1 1 1 1 1 -
+p360
+aVKurt Rambis SAC 02/11/1993 SAC vs. ATL W 17 1 0 0 - 0 0 - 1 2 50.0 3 6 9 3 2 1 0 1 -
+p361
+aVRod Higgins SAC 02/11/1993 SAC vs. ATL W 23 16 4 9 44.4 1 3 33.3 7 7 100.0 1 0 1 1 0 1 1 2 -
+p362
+aVMitch Richmond SAC 02/11/1993 SAC vs. ATL W 35 24 11 18 61.1 1 3 33.3 1 2 50.0 0 2 2 8 1 0 3 2 -
+p363
+aVAnthony Bonner SAC 02/11/1993 SAC vs. ATL W 33 11 5 9 55.6 0 0 - 1 7 14.3 6 3 9 1 3 0 2 4 -
+p364
+aVHenry James SAC 02/11/1993 SAC vs. ATL W 1 4 0 2 0.0 0 1 0.0 4 4 100.0 1 0 1 0 0 0 0 1 -
+p365
+aVWayman Tisdale SAC 02/11/1993 SAC vs. ATL W 19 12 4 11 36.4 0 0 - 4 4 100.0 2 6 8 0 1 1 0 5 -
+p366
+aVSpud Webb SAC 02/09/1993 SAC vs. UTH L 36 14 6 9 66.7 0 1 0.0 2 2 100.0 1 1 2 8 1 0 2 5 -
+p367
+aVKurt Rambis SAC 02/09/1993 SAC vs. UTH L 9 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -
+p368
+aVRod Higgins SAC 02/09/1993 SAC vs. UTH L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -
+p369
+aVLionel Simmons SAC 02/09/1993 SAC vs. UTH L 44 22 6 13 46.2 0 0 - 10 12 83.3 3 5 8 6 1 1 5 1 -
+p370
+aVWayman Tisdale SAC 02/09/1993 SAC vs. UTH L 39 31 15 22 68.2 0 0 - 1 2 50.0 2 4 6 2 0 0 0 5 -
+p371
+aVRandy Brown SAC 02/09/1993 SAC vs. UTH L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 4 -
+p372
+aVPete Chilcutt SAC 02/09/1993 SAC vs. UTH L 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p373
+aVJim Les SAC 02/09/1993 SAC vs. UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p374
+aVHenry James SAC 02/09/1993 SAC vs. UTH L 9 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -
+p375
+aVAnthony Bonner SAC 02/09/1993 SAC vs. UTH L 35 14 4 11 36.4 0 0 - 6 7 85.7 4 4 8 1 1 0 1 4 -
+p376
+aVMitch Richmond SAC 02/09/1993 SAC vs. UTH L 41 22 8 17 47.1 0 2 0.0 6 7 85.7 0 3 3 8 0 1 4 5 -
+p377
+aVWayman Tisdale SAC 02/06/1993 SAC @ LAC L 33 27 12 23 52.2 0 0 - 3 4 75.0 0 5 5 2 2 1 0 4 -
+p378
+aVKurt Rambis SAC 02/06/1993 SAC @ LAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p379
+aVRandy Brown SAC 02/06/1993 SAC @ LAC L 25 6 3 7 42.9 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -
+p380
+aVPete Chilcutt SAC 02/06/1993 SAC @ LAC L 13 9 4 5 80.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 2 -
+p381
+aVLionel Simmons SAC 02/06/1993 SAC @ LAC L 41 21 5 12 41.7 0 0 - 11 11 100.0 3 4 7 4 2 0 4 6 -
+p382
+aVRod Higgins SAC 02/06/1993 SAC @ LAC L 18 0 0 4 0.0 0 3 0.0 0 0 - 2 1 3 0 1 1 1 3 -
+p383
+aVAnthony Bonner SAC 02/06/1993 SAC @ LAC L 31 12 5 12 41.7 0 0 - 2 8 25.0 3 2 5 2 1 0 2 2 -
+p384
+aVJim Les SAC 02/06/1993 SAC @ LAC L 16 2 1 1 100.0 0 0 - 0 0 - 1 0 1 5 0 0 2 1 -
+p385
+aVMarty Conlon SAC 02/06/1993 SAC @ LAC L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p386
+aVHenry James SAC 02/06/1993 SAC @ LAC L 20 13 4 9 44.4 2 5 40.0 3 4 75.0 0 2 2 0 1 0 1 0 -
+p387
+aVSpud Webb SAC 02/06/1993 SAC @ LAC L 36 20 7 15 46.7 1 1 100.0 5 5 100.0 1 2 3 8 2 0 1 3 -
+p388
+aVPete Chilcutt SAC 02/05/1993 SAC @ DEN L 25 12 6 8 75.0 0 0 - 0 0 - 4 4 8 3 2 1 4 3 -
+p389
+aVSpud Webb SAC 02/05/1993 SAC @ DEN L 34 21 9 14 64.3 1 2 50.0 2 3 66.7 2 5 7 3 1 1 2 2 -
+p390
+aVWayman Tisdale SAC 02/05/1993 SAC @ DEN L 20 11 4 10 40.0 0 0 - 3 4 75.0 3 4 7 1 0 0 7 4 -
+p391
+aVRod Higgins SAC 02/05/1993 SAC @ DEN L 28 9 3 11 27.3 0 3 0.0 3 3 100.0 0 3 3 3 1 0 2 2 -
+p392
+aVKurt Rambis SAC 02/05/1993 SAC @ DEN L 19 4 2 3 66.7 0 0 - 0 2 0.0 1 1 2 2 0 0 0 5 -
+p393
+aVJim Les SAC 02/05/1993 SAC @ DEN L 23 6 2 6 33.3 2 3 66.7 0 0 - 0 1 1 6 1 0 5 2 -
+p394
+aVHenry James SAC 02/05/1993 SAC @ DEN L 12 20 8 10 80.0 1 3 33.3 3 5 60.0 1 1 2 1 1 0 2 4 -
+p395
+aVMarty Conlon SAC 02/05/1993 SAC @ DEN L 17 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 1 0 0 1 -
+p396
+aVAnthony Bonner SAC 02/05/1993 SAC @ DEN L 24 1 0 7 0.0 0 0 - 1 2 50.0 2 4 6 0 2 1 2 3 -
+p397
+aVRandy Brown SAC 02/05/1993 SAC @ DEN L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p398
+aVLionel Simmons SAC 02/05/1993 SAC @ DEN L 30 17 6 15 40.0 0 1 0.0 5 7 71.4 0 3 3 4 2 1 3 4 -
+p399
+aVJim Les SAC 02/03/1993 SAC vs. CHI L 10 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 2 1 0 1 1 -
+p400
+aVRandy Brown SAC 02/03/1993 SAC vs. CHI L 31 6 3 7 42.9 0 0 - 0 0 - 3 3 6 4 1 1 4 2 -
+p401
+aVSpud Webb SAC 02/03/1993 SAC vs. CHI L 20 4 2 6 33.3 0 0 - 0 0 - 1 0 1 6 2 0 1 2 -
+p402
+aVHenry James SAC 02/03/1993 SAC vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p403
+aVMitch Richmond SAC 02/03/1993 SAC vs. CHI L 37 17 7 19 36.8 1 2 50.0 2 4 50.0 2 1 3 4 2 0 7 5 -
+p404
+aVRod Higgins SAC 02/03/1993 SAC vs. CHI L 16 6 3 6 50.0 0 1 0.0 0 0 - 2 2 4 1 1 0 1 1 -
+p405
+aVLionel Simmons SAC 02/03/1993 SAC vs. CHI L 38 16 5 20 25.0 0 0 - 6 6 100.0 2 6 8 5 2 1 3 3 -
+p406
+aVWayman Tisdale SAC 02/03/1993 SAC vs. CHI L 34 16 8 14 57.1 0 0 - 0 0 - 3 3 6 0 0 0 2 2 -
+p407
+aVMarty Conlon SAC 02/03/1993 SAC vs. CHI L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p408
+aVAnthony Bonner SAC 02/03/1993 SAC vs. CHI L 29 4 2 4 50.0 0 0 - 0 0 - 1 6 7 0 1 0 5 2 -
+p409
+aVPete Chilcutt SAC 02/03/1993 SAC vs. CHI L 15 8 3 6 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 5 -
+p410
+aVKurt Rambis SAC 02/03/1993 SAC vs. CHI L 4 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -
+p411
+aVPete Chilcutt SAC 02/01/1993 SAC vs. ORL L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p412
+aVMitch Richmond SAC 02/01/1993 SAC vs. ORL L 46 28 9 18 50.0 3 5 60.0 7 8 87.5 0 3 3 4 1 1 3 4 -
+p413
+aVRandy Brown SAC 02/01/1993 SAC vs. ORL L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 0 1 -
+p414
+aVLionel Simmons SAC 02/01/1993 SAC vs. ORL L 36 23 11 18 61.1 0 0 - 1 2 50.0 1 4 5 7 1 0 5 6 -
+p415
+aVAnthony Bonner SAC 02/01/1993 SAC vs. ORL L 35 7 2 11 18.2 0 0 - 3 6 50.0 6 2 8 2 0 1 1 6 -
+p416
+aVKurt Rambis SAC 02/01/1993 SAC vs. ORL L 10 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 1 0 0 2 4 -
+p417
+aVWayman Tisdale SAC 02/01/1993 SAC vs. ORL L 29 25 11 19 57.9 0 0 - 3 4 75.0 1 10 11 1 0 2 1 6 -
+p418
+aVRod Higgins SAC 02/01/1993 SAC vs. ORL L 24 11 5 9 55.6 0 1 0.0 1 1 100.0 3 3 6 3 0 0 0 5 -
+p419
+aVJim Les SAC 02/01/1993 SAC vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p420
+aVSpud Webb SAC 02/01/1993 SAC vs. ORL L 42 13 6 11 54.5 1 3 33.3 0 0 - 1 0 1 11 0 0 0 4 -
+p421
+aVAnthony Bonner SAC 01/30/1993 SAC @ SAN L 37 12 5 8 62.5 0 0 - 2 6 33.3 4 2 6 0 1 1 1 3 -
+p422
+aVKurt Rambis SAC 01/30/1993 SAC @ SAN L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p423
+aVMarty Conlon SAC 01/30/1993 SAC @ SAN L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p424
+aVWayman Tisdale SAC 01/30/1993 SAC @ SAN L 42 29 12 20 60.0 0 0 - 5 5 100.0 0 6 6 1 2 3 2 4 -
+p425
+aVMitch Richmond SAC 01/30/1993 SAC @ SAN L 42 27 9 14 64.3 2 3 66.7 7 7 100.0 0 1 1 3 1 0 1 1 -
+p426
+aVRod Higgins SAC 01/30/1993 SAC @ SAN L 12 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -
+p427
+aVSpud Webb SAC 01/30/1993 SAC @ SAN L 33 10 4 7 57.1 0 1 0.0 2 2 100.0 1 2 3 6 2 0 1 5 -
+p428
+aVPete Chilcutt SAC 01/30/1993 SAC @ SAN L 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -
+p429
+aVLionel Simmons SAC 01/30/1993 SAC @ SAN L 43 25 12 21 57.1 0 0 - 1 2 50.0 3 8 11 8 0 0 2 4 -
+p430
+aVRandy Brown SAC 01/30/1993 SAC @ SAN L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 4 -
+p431
+aVJim Les SAC 01/30/1993 SAC @ SAN L 7 8 2 2 100.0 1 1 100.0 3 4 75.0 0 0 0 1 0 0 1 2 -
+p432
+aVPete Chilcutt SAC 01/29/1993 SAC @ DAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p433
+aVMitch Richmond SAC 01/29/1993 SAC @ DAL W 37 30 10 23 43.5 2 5 40.0 8 9 88.9 2 6 8 1 0 0 4 3 -
+p434
+aVAnthony Bonner SAC 01/29/1993 SAC @ DAL W 29 11 4 7 57.1 0 0 - 3 4 75.0 3 2 5 1 2 2 2 4 -
+p435
+aVKurt Rambis SAC 01/29/1993 SAC @ DAL W 30 2 1 2 50.0 0 0 - 0 2 0.0 1 9 10 1 1 1 0 3 -
+p436
+aVWayman Tisdale SAC 01/29/1993 SAC @ DAL W 27 10 5 11 45.5 0 0 - 0 0 - 2 2 4 0 1 2 1 6 -
+p437
+aVRod Higgins SAC 01/29/1993 SAC @ DAL W 16 9 3 7 42.9 0 2 0.0 3 4 75.0 0 0 0 0 1 1 0 1 -
+p438
+aVSpud Webb SAC 01/29/1993 SAC @ DAL W 36 19 4 9 44.4 0 0 - 11 12 91.7 0 4 4 7 5 0 3 4 -
+p439
+aVRandy Brown SAC 01/29/1993 SAC @ DAL W 15 11 4 5 80.0 0 0 - 3 4 75.0 0 0 0 2 0 0 1 4 -
+p440
+aVLionel Simmons SAC 01/29/1993 SAC @ DAL W 41 35 12 19 63.2 0 0 - 11 11 100.0 2 7 9 7 0 1 2 2 -
+p441
+aVJim Les SAC 01/29/1993 SAC @ DAL W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -
+p442
+aVMarty Conlon SAC 01/27/1993 SAC @ CHH L 14 5 1 5 20.0 0 0 - 3 4 75.0 2 5 7 3 0 1 1 2 -
+p443
+aVRandy Brown SAC 01/27/1993 SAC @ CHH L 12 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 2 0 1 3 1 -
+p444
+aVAnthony Bonner SAC 01/27/1993 SAC @ CHH L 35 18 9 15 60.0 0 0 - 0 2 0.0 3 7 10 3 2 1 3 3 -
+p445
+aVWayman Tisdale SAC 01/27/1993 SAC @ CHH L 28 15 7 16 43.8 0 0 - 1 2 50.0 1 5 6 2 0 1 0 3 -
+p446
+aVPete Chilcutt SAC 01/27/1993 SAC @ CHH L 7 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -
+p447
+aVKurt Rambis SAC 01/27/1993 SAC @ CHH L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p448
+aVSpud Webb SAC 01/27/1993 SAC @ CHH L 33 2 0 1 0.0 0 1 0.0 2 2 100.0 1 1 2 7 2 0 2 4 -
+p449
+aVJim Les SAC 01/27/1993 SAC @ CHH L 17 9 2 7 28.6 2 4 50.0 3 3 100.0 0 1 1 1 0 0 1 0 -
+p450
+aVLionel Simmons SAC 01/27/1993 SAC @ CHH L 40 26 12 21 57.1 0 0 - 2 4 50.0 2 5 7 8 3 1 4 3 -
+p451
+aVMitch Richmond SAC 01/27/1993 SAC @ CHH L 37 23 10 23 43.5 1 1 100.0 2 2 100.0 1 2 3 4 0 0 3 2 -
+p452
+aVRod Higgins SAC 01/27/1993 SAC @ CHH L 15 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 2 0 2 1 4 -
+p453
+aVMitch Richmond SAC 01/25/1993 SAC @ ATL L 41 20 8 19 42.1 0 5 0.0 4 4 100.0 0 5 5 2 0 0 0 4 -
+p454
+aVJim Les SAC 01/25/1993 SAC @ ATL L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p455
+aVSpud Webb SAC 01/25/1993 SAC @ ATL L 41 12 4 14 28.6 0 1 0.0 4 5 80.0 2 3 5 11 1 1 2 2 -
+p456
+aVPete Chilcutt SAC 01/25/1993 SAC @ ATL L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 3 -
+p457
+aVRandy Brown SAC 01/25/1993 SAC @ ATL L 10 7 1 3 33.3 0 0 - 5 6 83.3 1 1 2 0 3 0 2 4 -
+p458
+aVRod Higgins SAC 01/25/1993 SAC @ ATL L 13 6 2 9 22.2 0 3 0.0 2 4 50.0 1 2 3 2 1 0 1 4 -
+p459
+aVWayman Tisdale SAC 01/25/1993 SAC @ ATL L 33 18 8 15 53.3 0 0 - 2 3 66.7 4 5 9 2 0 0 4 3 -
+p460
+aVKurt Rambis SAC 01/25/1993 SAC @ ATL L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p461
+aVLionel Simmons SAC 01/25/1993 SAC @ ATL L 38 26 13 20 65.0 0 0 - 0 1 0.0 2 3 5 5 2 1 4 4 -
+p462
+aVAnthony Bonner SAC 01/25/1993 SAC @ ATL L 39 9 3 6 50.0 0 0 - 3 4 75.0 1 5 6 3 2 0 2 5 -
+p463
+aVDuane Causwell SAC 01/25/1993 SAC @ ATL L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -
+p464
+aVMitch Richmond SAC 01/23/1993 SAC vs. MIN W 42 24 11 17 64.7 1 3 33.3 1 2 50.0 0 2 2 5 2 0 1 3 -
+p465
+aVRandy Brown SAC 01/23/1993 SAC vs. MIN W 12 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 -
+p466
+aVJim Les SAC 01/23/1993 SAC vs. MIN W 8 5 2 3 66.7 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -
+p467
+aVLionel Simmons SAC 01/23/1993 SAC vs. MIN W 29 4 2 7 28.6 0 0 - 0 0 - 2 1 3 4 0 1 1 2 -
+p468
+aVPete Chilcutt SAC 01/23/1993 SAC vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p469
+aVSpud Webb SAC 01/23/1993 SAC vs. MIN W 32 15 2 7 28.6 0 1 0.0 11 12 91.7 0 2 2 8 1 0 1 3 -
+p470
+aVWayman Tisdale SAC 01/23/1993 SAC vs. MIN W 18 17 8 12 66.7 0 1 0.0 1 1 100.0 3 3 6 3 0 0 2 3 -
+p471
+aVRod Higgins SAC 01/23/1993 SAC vs. MIN W 21 5 2 6 33.3 0 1 0.0 1 2 50.0 1 2 3 0 1 0 0 2 -
+p472
+aVAnthony Bonner SAC 01/23/1993 SAC vs. MIN W 45 23 9 15 60.0 0 1 0.0 5 8 62.5 3 5 8 5 3 0 4 3 -
+p473
+aVKurt Rambis SAC 01/23/1993 SAC vs. MIN W 10 1 0 0 - 0 0 - 1 2 50.0 0 2 2 2 0 0 1 3 -
+p474
+aVDuane Causwell SAC 01/23/1993 SAC vs. MIN W 22 15 7 9 77.8 0 0 - 1 1 100.0 6 1 7 1 0 2 2 6 -
+p475
+aVSpud Webb SAC 01/22/1993 SAC @ POR L 32 17 6 14 42.9 1 1 100.0 4 7 57.1 0 1 1 4 0 0 4 3 -
+p476
+aVPete Chilcutt SAC 01/22/1993 SAC @ POR L 15 9 4 8 50.0 0 0 - 1 1 100.0 2 1 3 0 0 0 1 4 -
+p477
+aVAnthony Bonner SAC 01/22/1993 SAC @ POR L 45 23 8 17 47.1 0 0 - 7 8 87.5 7 7 14 5 1 0 4 5 -
+p478
+aVMitch Richmond SAC 01/22/1993 SAC @ POR L 39 27 10 24 41.7 4 6 66.7 3 3 100.0 0 6 6 2 1 2 3 4 -
+p479
+aVRod Higgins SAC 01/22/1993 SAC @ POR L 24 12 5 12 41.7 0 3 0.0 2 2 100.0 1 3 4 4 0 0 2 4 -
+p480
+aVJim Les SAC 01/22/1993 SAC @ POR L 16 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 8 1 0 1 4 -
+p481
+aVKurt Rambis SAC 01/22/1993 SAC @ POR L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -
+p482
+aVLionel Simmons SAC 01/22/1993 SAC @ POR L 18 10 2 8 25.0 0 0 - 6 6 100.0 2 0 2 2 1 0 0 1 -
+p483
+aVDuane Causwell SAC 01/22/1993 SAC @ POR L 16 10 4 4 100.0 0 0 - 2 2 100.0 3 1 4 0 2 1 1 5 -
+p484
+aVRandy Brown SAC 01/22/1993 SAC @ POR L 24 15 7 11 63.6 0 0 - 1 2 50.0 4 2 6 2 5 2 1 3 -
+p485
+aVPete Chilcutt SAC 01/19/1993 SAC vs. HOU L 12 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 1 2 2 -
+p486
+aVRandy Brown SAC 01/19/1993 SAC vs. HOU L 13 2 1 8 12.5 0 0 - 0 0 - 2 0 2 3 0 1 0 1 -
+p487
+aVWalt Williams SAC 01/19/1993 SAC vs. HOU L 1 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p488
+aVAnthony Bonner SAC 01/19/1993 SAC vs. HOU L 41 17 5 11 45.5 0 0 - 7 11 63.6 6 8 14 3 3 2 2 1 -
+p489
+aVMitch Richmond SAC 01/19/1993 SAC vs. HOU L 40 21 9 20 45.0 1 3 33.3 2 2 100.0 1 3 4 3 1 0 5 6 -
+p490
+aVDuane Causwell SAC 01/19/1993 SAC vs. HOU L 38 16 6 10 60.0 0 0 - 4 6 66.7 7 5 12 1 0 0 3 1 -
+p491
+aVKurt Rambis SAC 01/19/1993 SAC vs. HOU L 10 2 1 1 100.0 0 0 - 0 2 0.0 2 2 4 1 0 0 0 1 -
+p492
+aVSpud Webb SAC 01/19/1993 SAC vs. HOU L 27 10 3 13 23.1 0 0 - 4 4 100.0 1 1 2 3 2 0 1 3 -
+p493
+aVJim Les SAC 01/19/1993 SAC vs. HOU L 21 8 2 4 50.0 2 2 100.0 2 2 100.0 1 2 3 6 3 0 1 1 -
+p494
+aVRod Higgins SAC 01/19/1993 SAC vs. HOU L 37 13 5 14 35.7 0 4 0.0 3 4 75.0 1 5 6 3 2 1 2 3 -
+p495
+aVWalt Williams SAC 01/18/1993 SAC @ GOS W 39 24 7 13 53.8 0 3 0.0 10 14 71.4 2 9 11 3 0 0 6 5 -
+p496
+aVRod Higgins SAC 01/18/1993 SAC @ GOS W 33 13 6 9 66.7 1 2 50.0 0 0 - 1 2 3 1 2 0 0 4 -
+p497
+aVWayman Tisdale SAC 01/18/1993 SAC @ GOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p498
+aVKurt Rambis SAC 01/18/1993 SAC @ GOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p499
+aVRandy Brown SAC 01/18/1993 SAC @ GOS W 8 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 1 1 0 4 1 -
+p500
+aVPete Chilcutt SAC 01/18/1993 SAC @ GOS W 6 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 1 0 1 0 -
+p501
+aVSpud Webb SAC 01/18/1993 SAC @ GOS W 36 12 3 8 37.5 0 3 0.0 6 6 100.0 1 3 4 8 1 0 4 4 -
+p502
+aVMitch Richmond SAC 01/18/1993 SAC @ GOS W 37 21 9 19 47.4 1 4 25.0 2 5 40.0 3 2 5 2 1 0 3 4 -
+p503
+aVAnthony Bonner SAC 01/18/1993 SAC @ GOS W 42 21 7 11 63.6 0 0 - 7 11 63.6 3 9 12 0 3 1 0 5 -
+p504
+aVDuane Causwell SAC 01/18/1993 SAC @ GOS W 17 11 3 5 60.0 0 0 - 5 7 71.4 2 2 4 0 0 3 0 3 -
+p505
+aVJim Les SAC 01/18/1993 SAC @ GOS W 13 2 0 2 0.0 0 2 0.0 2 2 100.0 0 3 3 5 2 0 0 1 -
+p506
+aVMitch Richmond SAC 01/16/1993 SAC @ UTH L 44 16 7 15 46.7 1 3 33.3 1 1 100.0 0 3 3 9 2 0 3 1 -
+p507
+aVSpud Webb SAC 01/16/1993 SAC @ UTH L 40 11 4 12 33.3 0 1 0.0 3 4 75.0 0 2 2 8 2 0 5 2 -
+p508
+aVWalt Williams SAC 01/16/1993 SAC @ UTH L 24 18 6 11 54.5 2 4 50.0 4 5 80.0 0 2 2 3 0 0 3 6 -
+p509
+aVRod Higgins SAC 01/16/1993 SAC @ UTH L 10 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -
+p510
+aVLionel Simmons SAC 01/16/1993 SAC @ UTH L 44 33 14 19 73.7 0 0 - 5 5 100.0 2 7 9 3 1 1 3 4 -
+p511
+aVAnthony Bonner SAC 01/16/1993 SAC @ UTH L 41 19 6 6 100.0 0 0 - 7 8 87.5 3 7 10 0 1 1 1 4 -
+p512
+aVRandy Brown SAC 01/16/1993 SAC @ UTH L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p513
+aVDuane Causwell SAC 01/16/1993 SAC @ UTH L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -
+p514
+aVWayman Tisdale SAC 01/16/1993 SAC @ UTH L 17 8 4 4 100.0 0 0 - 0 0 - 0 6 6 1 0 0 1 3 -
+p515
+aVKurt Rambis SAC 01/16/1993 SAC @ UTH L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p516
+aVLionel Simmons SAC 01/14/1993 SAC vs. PHX L 42 18 8 17 47.1 0 0 - 2 4 50.0 3 8 11 5 0 1 6 4 -
+p517
+aVSpud Webb SAC 01/14/1993 SAC vs. PHX L 40 14 5 11 45.5 1 2 50.0 3 3 100.0 0 5 5 8 4 0 5 2 -
+p518
+aVJim Les SAC 01/14/1993 SAC vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p519
+aVMitch Richmond SAC 01/14/1993 SAC vs. PHX L 28 12 6 16 37.5 0 3 0.0 0 1 0.0 0 1 1 3 1 1 3 6 -
+p520
+aVMarty Conlon SAC 01/14/1993 SAC vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p521
+aVKurt Rambis SAC 01/14/1993 SAC vs. PHX L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p522
+aVWayman Tisdale SAC 01/14/1993 SAC vs. PHX L 41 21 9 16 56.3 0 0 - 3 4 75.0 3 7 10 1 2 1 4 4 -
+p523
+aVRandy Brown SAC 01/14/1993 SAC vs. PHX L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -
+p524
+aVWalt Williams SAC 01/14/1993 SAC vs. PHX L 21 18 7 12 58.3 2 4 50.0 2 4 50.0 0 5 5 6 0 1 3 6 -
+p525
+aVAnthony Bonner SAC 01/14/1993 SAC vs. PHX L 39 17 7 14 50.0 0 0 - 3 5 60.0 4 7 11 0 2 0 1 2 -
+p526
+aVDuane Causwell SAC 01/14/1993 SAC vs. PHX L 14 2 1 4 25.0 0 0 - 0 0 - 2 3 5 1 0 3 0 3 -
+p527
+aVSpud Webb SAC 01/12/1993 SAC vs. NYK L 35 16 6 13 46.2 1 4 25.0 3 4 75.0 0 4 4 5 1 0 6 5 -
+p528
+aVWayman Tisdale SAC 01/12/1993 SAC vs. NYK L 41 17 6 15 40.0 0 0 - 5 6 83.3 3 10 13 2 2 0 1 1 -
+p529
+aVRod Higgins SAC 01/12/1993 SAC vs. NYK L 21 10 3 5 60.0 2 2 100.0 2 2 100.0 0 0 0 1 0 0 1 3 -
+p530
+aVWalt Williams SAC 01/12/1993 SAC vs. NYK L 16 8 3 8 37.5 1 2 50.0 1 2 50.0 1 3 4 2 1 0 3 4 -
+p531
+aVDuane Causwell SAC 01/12/1993 SAC vs. NYK L 27 9 3 7 42.9 0 0 - 3 4 75.0 2 7 9 0 1 3 1 3 -
+p532
+aVLionel Simmons SAC 01/12/1993 SAC vs. NYK L 38 10 3 14 21.4 0 0 - 4 4 100.0 3 5 8 2 1 1 3 5 -
+p533
+aVMitch Richmond SAC 01/12/1993 SAC vs. NYK L 45 21 7 22 31.8 2 6 33.3 5 5 100.0 2 1 3 4 1 0 2 6 -
+p534
+aVKurt Rambis SAC 01/12/1993 SAC vs. NYK L 13 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 0 1 1 -
+p535
+aVRandy Brown SAC 01/12/1993 SAC vs. NYK L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 1 0 2 0 -
+p536
+aVSpud Webb SAC 01/09/1993 SAC vs. MIA W 35 16 4 7 57.1 1 2 50.0 7 8 87.5 0 3 3 8 1 0 2 3 -
+p537
+aVKurt Rambis SAC 01/09/1993 SAC vs. MIA W 22 2 0 1 0.0 0 0 - 2 2 100.0 2 5 7 1 4 2 1 5 -
+p538
+aVLionel Simmons SAC 01/09/1993 SAC vs. MIA W 44 24 5 13 38.5 0 0 - 14 15 93.3 1 8 9 4 2 1 4 0 -
+p539
+aVMitch Richmond SAC 01/09/1993 SAC vs. MIA W 44 32 10 19 52.6 4 7 57.1 8 9 88.9 1 5 6 5 1 0 1 3 -
+p540
+aVRandy Brown SAC 01/09/1993 SAC vs. MIA W 8 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 1 0 2 2 -
+p541
+aVJim Les SAC 01/09/1993 SAC vs. MIA W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 -
+p542
+aVAnthony Bonner SAC 01/09/1993 SAC vs. MIA W 16 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 0 0 1 3 1 -
+p543
+aVWayman Tisdale SAC 01/09/1993 SAC vs. MIA W 24 11 4 11 36.4 0 0 - 3 4 75.0 0 2 2 1 0 0 0 4 -
+p544
+aVWalt Williams SAC 01/09/1993 SAC vs. MIA W 16 12 5 9 55.6 1 3 33.3 1 1 100.0 0 0 0 2 0 0 2 5 -
+p545
+aVDuane Causwell SAC 01/09/1993 SAC vs. MIA W 11 2 1 4 25.0 0 0 - 0 2 0.0 2 0 2 0 0 1 2 5 -
+p546
+aVRod Higgins SAC 01/09/1993 SAC vs. MIA W 15 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 0 1 3 -
+p547
+aVLionel Simmons SAC 01/08/1993 SAC @ LAL L 34 9 3 11 27.3 0 0 - 3 4 75.0 3 7 10 4 1 0 2 5 -
+p548
+aVMitch Richmond SAC 01/08/1993 SAC @ LAL L 40 16 3 15 20.0 1 5 20.0 9 10 90.0 0 4 4 4 3 0 5 2 -
+p549
+aVAnthony Bonner SAC 01/08/1993 SAC @ LAL L 23 12 6 9 66.7 0 0 - 0 1 0.0 2 4 6 1 0 0 1 4 -
+p550
+aVWayman Tisdale SAC 01/08/1993 SAC @ LAL L 38 19 9 22 40.9 0 0 - 1 2 50.0 3 3 6 1 1 2 3 3 -
+p551
+aVSpud Webb SAC 01/08/1993 SAC @ LAL L 35 18 6 13 46.2 1 2 50.0 5 6 83.3 2 3 5 8 3 0 3 5 -
+p552
+aVWalt Williams SAC 01/08/1993 SAC @ LAL L 24 2 1 6 16.7 0 3 0.0 0 0 - 1 0 1 2 1 0 2 1 -
+p553
+aVRod Higgins SAC 01/08/1993 SAC @ LAL L 10 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -
+p554
+aVKurt Rambis SAC 01/08/1993 SAC @ LAL L 7 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -
+p555
+aVDuane Causwell SAC 01/08/1993 SAC @ LAL L 17 8 3 4 75.0 0 0 - 2 3 66.7 1 4 5 1 0 0 0 4 -
+p556
+aVRandy Brown SAC 01/08/1993 SAC @ LAL L 12 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 2 0 0 2 2 -
+p557
+aVAnthony Bonner SAC 01/05/1993 SAC vs. DEN W 24 5 2 6 33.3 0 0 - 1 2 50.0 4 1 5 0 1 0 0 2 -
+p558
+aVRandy Brown SAC 01/05/1993 SAC vs. DEN W 16 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 0 1 2 4 -
+p559
+aVMitch Richmond SAC 01/05/1993 SAC vs. DEN W 35 25 11 17 64.7 0 0 - 3 3 100.0 1 3 4 4 0 0 4 1 -
+p560
+aVWalt Williams SAC 01/05/1993 SAC vs. DEN W 22 20 5 11 45.5 1 2 50.0 9 10 90.0 2 1 3 2 3 1 2 4 -
+p561
+aVWayman Tisdale SAC 01/05/1993 SAC vs. DEN W 30 22 11 14 78.6 0 0 - 0 0 - 2 6 8 3 0 0 1 0 -
+p562
+aVMarty Conlon SAC 01/05/1993 SAC vs. DEN W 4 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -
+p563
+aVLionel Simmons SAC 01/05/1993 SAC vs. DEN W 34 19 6 13 46.2 0 0 - 7 8 87.5 3 6 9 2 1 0 2 2 -
+p564
+aVKurt Rambis SAC 01/05/1993 SAC vs. DEN W 8 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 2 0 2 2 -
+p565
+aVSpud Webb SAC 01/05/1993 SAC vs. DEN W 34 18 8 15 53.3 1 2 50.0 1 2 50.0 1 0 1 13 4 0 4 3 -
+p566
+aVDuane Causwell SAC 01/05/1993 SAC vs. DEN W 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 1 1 4 -
+p567
+aVJim Les SAC 01/05/1993 SAC vs. DEN W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -
+p568
+aVRod Higgins SAC 01/05/1993 SAC vs. DEN W 17 4 1 2 50.0 1 1 100.0 1 2 50.0 0 2 2 3 0 0 1 1 -
+p569
+aVLionel Simmons SAC 01/02/1993 SAC vs. PHL W 23 17 6 11 54.5 0 0 - 5 8 62.5 1 5 6 4 1 1 0 4 -
+p570
+aVJim Les SAC 01/02/1993 SAC vs. PHL W 12 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 3 2 0 1 1 -
+p571
+aVRod Higgins SAC 01/02/1993 SAC vs. PHL W 23 14 6 11 54.5 2 3 66.7 0 0 - 2 2 4 2 0 1 1 1 -
+p572
+aVMitch Richmond SAC 01/02/1993 SAC vs. PHL W 25 18 8 9 88.9 2 2 100.0 0 1 0.0 1 0 1 6 2 0 1 2 -
+p573
+aVRandy Brown SAC 01/02/1993 SAC vs. PHL W 25 6 3 7 42.9 0 0 - 0 0 - 1 1 2 3 2 2 1 4 -
+p574
+aVAnthony Bonner SAC 01/02/1993 SAC vs. PHL W 31 7 3 9 33.3 0 1 0.0 1 2 50.0 4 3 7 5 4 0 1 4 -
+p575
+aVMarty Conlon SAC 01/02/1993 SAC vs. PHL W 13 12 6 8 75.0 0 0 - 0 0 - 3 3 6 1 1 0 1 2 -
+p576
+aVKurt Rambis SAC 01/02/1993 SAC vs. PHL W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p577
+aVSpud Webb SAC 01/02/1993 SAC vs. PHL W 28 15 6 9 66.7 0 0 - 3 4 75.0 1 6 7 9 4 0 3 1 -
+p578
+aVWalt Williams SAC 01/02/1993 SAC vs. PHL W 30 40 12 21 57.1 4 8 50.0 12 14 85.7 1 5 6 3 4 4 3 3 -
+p579
+aVWayman Tisdale SAC 01/02/1993 SAC vs. PHL W 20 16 7 14 50.0 0 0 - 2 2 100.0 2 2 4 2 2 1 0 3 -
+p580
+aVLionel Simmons SAC 12/29/1992 SAC vs. DAL W 18 14 3 7 42.9 0 0 - 8 8 100.0 0 6 6 5 0 1 4 2 -
+p581
+aVKurt Rambis SAC 12/29/1992 SAC vs. DAL W 9 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 0 2 -
+p582
+aVRandy Brown SAC 12/29/1992 SAC vs. DAL W 23 11 5 10 50.0 0 1 0.0 1 2 50.0 0 1 1 3 3 2 0 4 -
+p583
+aVWayman Tisdale SAC 12/29/1992 SAC vs. DAL W 16 8 4 5 80.0 0 0 - 0 0 - 0 8 8 0 2 0 0 1 -
+p584
+aVWalt Williams SAC 12/29/1992 SAC vs. DAL W 28 20 3 15 20.0 0 5 0.0 14 14 100.0 3 6 9 0 2 1 2 1 -
+p585
+aVJim Les SAC 12/29/1992 SAC vs. DAL W 24 6 2 11 18.2 1 6 16.7 1 1 100.0 0 2 2 7 1 0 0 1 -
+p586
+aVSpud Webb SAC 12/29/1992 SAC vs. DAL W 19 2 1 5 20.0 0 0 - 0 0 - 0 3 3 10 0 0 1 1 -
+p587
+aVDuane Causwell SAC 12/29/1992 SAC vs. DAL W 22 6 3 5 60.0 0 0 - 0 2 0.0 2 3 5 2 0 3 4 2 -
+p588
+aVMitch Richmond SAC 12/29/1992 SAC vs. DAL W 21 22 9 11 81.8 2 2 100.0 2 2 100.0 0 0 0 6 3 0 0 1 -
+p589
+aVMarty Conlon SAC 12/29/1992 SAC vs. DAL W 15 9 3 6 50.0 0 0 - 3 4 75.0 3 3 6 1 1 0 2 1 -
+p590
+aVRod Higgins SAC 12/29/1992 SAC vs. DAL W 14 16 6 8 75.0 3 3 100.0 1 1 100.0 0 4 4 2 0 0 0 1 -
+p591
+aVAnthony Bonner SAC 12/29/1992 SAC vs. DAL W 31 23 10 12 83.3 0 0 - 3 3 100.0 4 7 11 4 2 0 5 4 -
+p592
+aVRod Higgins SAC 12/27/1992 SAC vs. BOS W 16 5 2 5 40.0 0 1 0.0 1 2 50.0 0 3 3 0 0 1 0 4 -
+p593
+aVDuane Causwell SAC 12/27/1992 SAC vs. BOS W 18 6 3 6 50.0 0 0 - 0 0 - 1 4 5 0 2 4 2 5 -
+p594
+aVSpud Webb SAC 12/27/1992 SAC vs. BOS W 41 12 2 7 28.6 0 1 0.0 8 10 80.0 0 3 3 10 2 0 4 2 -
+p595
+aVWalt Williams SAC 12/27/1992 SAC vs. BOS W 13 11 3 5 60.0 2 4 50.0 3 4 75.0 2 4 6 0 0 1 4 0 -
+p596
+aVAnthony Bonner SAC 12/27/1992 SAC vs. BOS W 14 7 2 3 66.7 0 0 - 3 3 100.0 1 1 2 0 0 0 1 3 -
+p597
+aVWayman Tisdale SAC 12/27/1992 SAC vs. BOS W 33 31 13 20 65.0 0 0 - 5 5 100.0 3 5 8 0 0 2 0 4 -
+p598
+aVRandy Brown SAC 12/27/1992 SAC vs. BOS W 7 0 0 4 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 2 -
+p599
+aVKurt Rambis SAC 12/27/1992 SAC vs. BOS W 17 2 0 1 0.0 0 1 0.0 2 2 100.0 1 5 6 2 0 0 1 4 -
+p600
+aVJim Les SAC 12/27/1992 SAC vs. BOS W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p601
+aVMitch Richmond SAC 12/27/1992 SAC vs. BOS W 41 16 4 6 66.7 0 0 - 8 10 80.0 0 2 2 5 2 0 1 3 -
+p602
+aVLionel Simmons SAC 12/27/1992 SAC vs. BOS W 39 25 11 20 55.0 0 0 - 3 5 60.0 3 5 8 3 4 1 3 1 -
+p603
+aVRandy Brown SAC 12/23/1992 SAC @ MIN W 18 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 2 0 1 2 -
+p604
+aVWalt Williams SAC 12/23/1992 SAC @ MIN W 12 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 0 1 2 1 3 -
+p605
+aVAnthony Bonner SAC 12/23/1992 SAC @ MIN W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p606
+aVLionel Simmons SAC 12/23/1992 SAC @ MIN W 42 26 9 17 52.9 0 0 - 8 11 72.7 3 7 10 4 2 0 1 5 -
+p607
+aVKurt Rambis SAC 12/23/1992 SAC @ MIN W 22 2 1 1 100.0 0 0 - 0 0 - 0 7 7 0 3 1 2 4 -
+p608
+aVSpud Webb SAC 12/23/1992 SAC @ MIN W 37 12 4 12 33.3 0 0 - 4 4 100.0 0 2 2 5 2 0 6 3 -
+p609
+aVDuane Causwell SAC 12/23/1992 SAC @ MIN W 25 4 0 1 0.0 0 0 - 4 4 100.0 0 4 4 0 0 3 0 6 -
+p610
+aVRod Higgins SAC 12/23/1992 SAC @ MIN W 19 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 4 1 2 0 2 -
+p611
+aVWayman Tisdale SAC 12/23/1992 SAC @ MIN W 33 16 6 12 50.0 0 0 - 4 5 80.0 2 7 9 2 0 1 3 6 -
+p612
+aVMitch Richmond SAC 12/23/1992 SAC @ MIN W 47 30 11 20 55.0 2 3 66.7 6 8 75.0 0 6 6 2 1 0 1 2 -
+p613
+aVMitch Richmond SAC 12/22/1992 SAC @ MIL W 42 21 7 17 41.2 1 2 50.0 6 6 100.0 0 1 1 4 4 0 0 3 -
+p614
+aVDuane Causwell SAC 12/22/1992 SAC @ MIL W 36 10 4 6 66.7 0 0 - 2 6 33.3 3 6 9 0 2 3 1 6 -
+p615
+aVSpud Webb SAC 12/22/1992 SAC @ MIL W 41 12 3 12 25.0 0 1 0.0 6 7 85.7 2 2 4 9 2 0 2 3 -
+p616
+aVWalt Williams SAC 12/22/1992 SAC @ MIL W 21 14 5 10 50.0 0 0 - 4 6 66.7 2 2 4 1 0 0 4 3 -
+p617
+aVWayman Tisdale SAC 12/22/1992 SAC @ MIL W 27 12 6 15 40.0 0 0 - 0 0 - 2 4 6 0 0 1 1 4 -
+p618
+aVRod Higgins SAC 12/22/1992 SAC @ MIL W 15 5 1 4 25.0 1 3 33.3 2 2 100.0 2 2 4 1 0 0 0 1 -
+p619
+aVKurt Rambis SAC 12/22/1992 SAC @ MIL W 13 1 0 0 - 0 0 - 1 2 50.0 1 2 3 1 0 0 0 1 -
+p620
+aVJim Les SAC 12/22/1992 SAC @ MIL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -
+p621
+aVLionel Simmons SAC 12/22/1992 SAC @ MIL W 46 23 9 16 56.3 0 0 - 5 6 83.3 4 8 12 5 0 1 4 1 -
+p622
+aVAnthony Bonner SAC 12/22/1992 SAC @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p623
+aVRandy Brown SAC 12/22/1992 SAC @ MIL W 16 4 1 1 100.0 0 0 - 2 4 50.0 0 3 3 1 1 1 4 2 -
+p624
+aVDuane Causwell SAC 12/20/1992 SAC @ NJN L 28 15 7 10 70.0 0 0 - 1 1 100.0 3 4 7 0 2 0 1 4 -
+p625
+aVJim Les SAC 12/20/1992 SAC @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p626
+aVRod Higgins SAC 12/20/1992 SAC @ NJN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p627
+aVKurt Rambis SAC 12/20/1992 SAC @ NJN L 23 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 2 0 0 2 2 -
+p628
+aVWalt Williams SAC 12/20/1992 SAC @ NJN L 13 10 3 8 37.5 0 2 0.0 4 8 50.0 0 1 1 2 1 0 1 2 -
+p629
+aVAnthony Bonner SAC 12/20/1992 SAC @ NJN L 10 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 1 2 -
+p630
+aVMitch Richmond SAC 12/20/1992 SAC @ NJN L 40 18 9 20 45.0 0 0 - 0 0 - 1 2 3 7 0 0 2 2 -
+p631
+aVSpud Webb SAC 12/20/1992 SAC @ NJN L 37 16 6 9 66.7 0 0 - 4 4 100.0 0 2 2 2 4 0 3 4 -
+p632
+aVLionel Simmons SAC 12/20/1992 SAC @ NJN L 35 11 4 14 28.6 0 0 - 3 4 75.0 4 2 6 1 3 0 5 6 -
+p633
+aVWayman Tisdale SAC 12/20/1992 SAC @ NJN L 34 16 6 12 50.0 0 0 - 4 6 66.7 1 3 4 2 1 0 1 3 -
+p634
+aVRandy Brown SAC 12/20/1992 SAC @ NJN L 14 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 0 2 0 1 2 -
+p635
+aVLionel Simmons SAC 12/18/1992 SAC @ CLE L 30 16 6 12 50.0 0 0 - 4 6 66.7 2 2 4 5 2 0 0 3 -
+p636
+aVSpud Webb SAC 12/18/1992 SAC @ CLE L 27 8 2 5 40.0 0 1 0.0 4 4 100.0 0 0 0 5 0 0 1 1 -
+p637
+aVPete Chilcutt SAC 12/18/1992 SAC @ CLE L 17 6 3 9 33.3 0 0 - 0 0 - 0 2 2 1 2 0 1 2 -
+p638
+aVAnthony Bonner SAC 12/18/1992 SAC @ CLE L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p639
+aVRandy Brown SAC 12/18/1992 SAC @ CLE L 13 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 1 2 0 4 2 -
+p640
+aVKurt Rambis SAC 12/18/1992 SAC @ CLE L 21 5 2 3 66.7 0 0 - 1 2 50.0 3 5 8 1 2 0 1 3 -
+p641
+aVWayman Tisdale SAC 12/18/1992 SAC @ CLE L 24 13 6 9 66.7 0 0 - 1 2 50.0 0 7 7 1 0 0 1 2 -
+p642
+aVRod Higgins SAC 12/18/1992 SAC @ CLE L 20 10 4 8 50.0 1 1 100.0 1 2 50.0 2 2 4 0 1 0 1 1 -
+p643
+aVDuane Causwell SAC 12/18/1992 SAC @ CLE L 23 11 4 7 57.1 0 0 - 3 4 75.0 3 3 6 1 0 2 0 2 -
+p644
+aVMitch Richmond SAC 12/18/1992 SAC @ CLE L 30 16 7 14 50.0 0 0 - 2 2 100.0 0 0 0 7 2 0 4 3 -
+p645
+aVWalt Williams SAC 12/18/1992 SAC @ CLE L 19 11 4 7 57.1 0 0 - 3 6 50.0 1 0 1 1 2 1 1 6 -
+p646
+aVJim Les SAC 12/18/1992 SAC @ CLE L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 3 0 0 1 1 -
+p647
+aVJim Les SAC 12/17/1992 SAC @ ORL L 20 6 2 3 66.7 1 1 100.0 1 1 100.0 1 1 2 2 1 0 1 2 -
+p648
+aVMarty Conlon SAC 12/17/1992 SAC @ ORL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p649
+aVLionel Simmons SAC 12/17/1992 SAC @ ORL L 32 6 3 12 25.0 0 0 - 0 0 - 1 5 6 4 3 0 2 4 -
+p650
+aVKurt Rambis SAC 12/17/1992 SAC @ ORL L 20 2 1 1 100.0 0 0 - 0 2 0.0 2 3 5 1 3 1 1 0 -
+p651
+aVRod Higgins SAC 12/17/1992 SAC @ ORL L 17 6 3 8 37.5 0 1 0.0 0 0 - 1 4 5 1 1 0 1 0 -
+p652
+aVWalt Williams SAC 12/17/1992 SAC @ ORL L 25 14 5 11 45.5 0 2 0.0 4 6 66.7 2 3 5 0 2 1 2 2 -
+p653
+aVDuane Causwell SAC 12/17/1992 SAC @ ORL L 20 10 4 9 44.4 0 0 - 2 3 66.7 4 2 6 2 1 1 2 6 -
+p654
+aVWayman Tisdale SAC 12/17/1992 SAC @ ORL L 23 12 5 12 41.7 0 0 - 2 2 100.0 1 1 2 2 0 0 1 4 -
+p655
+aVMitch Richmond SAC 12/17/1992 SAC @ ORL L 36 19 9 17 52.9 1 2 50.0 0 0 - 0 4 4 4 1 0 3 2 -
+p656
+aVPete Chilcutt SAC 12/17/1992 SAC @ ORL L 15 4 2 7 28.6 0 0 - 0 0 - 1 2 3 0 1 0 0 0 -
+p657
+aVSpud Webb SAC 12/17/1992 SAC @ ORL L 29 12 3 11 27.3 0 1 0.0 6 6 100.0 0 1 1 11 1 1 4 2 -
+p658
+aVDuane Causwell SAC 12/15/1992 SAC @ MIA L 17 5 2 4 50.0 0 0 - 1 3 33.3 1 2 3 0 1 0 2 5 -
+p659
+aVSpud Webb SAC 12/15/1992 SAC @ MIA L 37 14 6 8 75.0 0 1 0.0 2 2 100.0 1 0 1 6 0 0 5 4 -
+p660
+aVJim Les SAC 12/15/1992 SAC @ MIA L 14 5 2 4 50.0 0 2 0.0 1 2 50.0 0 2 2 3 1 1 0 0 -
+p661
+aVWalt Williams SAC 12/15/1992 SAC @ MIA L 12 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 3 3 -
+p662
+aVMitch Richmond SAC 12/15/1992 SAC @ MIA L 38 23 8 16 50.0 1 3 33.3 6 6 100.0 0 5 5 3 3 0 6 2 -
+p663
+aVKurt Rambis SAC 12/15/1992 SAC @ MIA L 17 3 1 3 33.3 0 0 - 1 1 100.0 0 3 3 0 1 1 1 2 -
+p664
+aVAnthony Bonner SAC 12/15/1992 SAC @ MIA L 7 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 -
+p665
+aVRod Higgins SAC 12/15/1992 SAC @ MIA L 17 8 4 7 57.1 0 0 - 0 0 - 0 2 2 2 0 1 0 0 -
+p666
+aVLionel Simmons SAC 12/15/1992 SAC @ MIA L 35 11 3 6 50.0 0 0 - 5 6 83.3 0 6 6 3 1 0 2 2 -
+p667
+aVWayman Tisdale SAC 12/15/1992 SAC @ MIA L 29 14 7 14 50.0 0 0 - 0 0 - 2 6 8 4 0 1 2 3 -
+p668
+aVPete Chilcutt SAC 12/15/1992 SAC @ MIA L 17 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p669
+aVRod Higgins SAC 12/12/1992 SAC vs. GOS L 20 4 0 1 0.0 0 0 - 4 4 100.0 1 1 2 2 0 0 0 2 -
+p670
+aVPete Chilcutt SAC 12/12/1992 SAC vs. GOS L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p671
+aVWalt Williams SAC 12/12/1992 SAC vs. GOS L 29 15 5 13 38.5 1 2 50.0 4 5 80.0 2 4 6 1 0 0 4 3 -
+p672
+aVJim Les SAC 12/12/1992 SAC vs. GOS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -
+p673
+aVWayman Tisdale SAC 12/12/1992 SAC vs. GOS L 33 19 8 15 53.3 0 0 - 3 4 75.0 2 3 5 2 0 1 4 5 -
+p674
+aVDuane Causwell SAC 12/12/1992 SAC vs. GOS L 31 13 5 10 50.0 0 0 - 3 3 100.0 3 5 8 0 0 4 0 2 -
+p675
+aVMitch Richmond SAC 12/12/1992 SAC vs. GOS L 35 27 10 19 52.6 0 0 - 7 7 100.0 1 5 6 3 1 0 2 5 -
+p676
+aVAnthony Bonner SAC 12/12/1992 SAC vs. GOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p677
+aVLionel Simmons SAC 12/12/1992 SAC vs. GOS L 42 24 8 20 40.0 0 1 0.0 8 9 88.9 3 3 6 5 1 0 2 2 -
+p678
+aVSpud Webb SAC 12/12/1992 SAC vs. GOS L 38 18 3 10 30.0 0 1 0.0 12 13 92.3 2 4 6 7 2 0 2 5 -
+p679
+aVRod Higgins SAC 12/10/1992 SAC vs. IND L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p680
+aVAnthony Bonner SAC 12/10/1992 SAC vs. IND L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p681
+aVKurt Rambis SAC 12/10/1992 SAC vs. IND L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -
+p682
+aVLionel Simmons SAC 12/10/1992 SAC vs. IND L 33 10 3 13 23.1 0 0 - 4 5 80.0 1 1 2 3 0 0 3 6 -
+p683
+aVDuane Causwell SAC 12/10/1992 SAC vs. IND L 20 7 2 3 66.7 0 0 - 3 6 50.0 4 9 13 0 2 2 1 3 -
+p684
+aVMitch Richmond SAC 12/10/1992 SAC vs. IND L 43 14 5 18 27.8 0 2 0.0 4 4 100.0 0 4 4 9 0 0 2 3 -
+p685
+aVJim Les SAC 12/10/1992 SAC vs. IND L 9 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 2 1 1 0 1 -
+p686
+aVSpud Webb SAC 12/10/1992 SAC vs. IND L 40 13 5 9 55.6 1 2 50.0 2 2 100.0 0 0 0 4 2 0 0 4 -
+p687
+aVWalt Williams SAC 12/10/1992 SAC vs. IND L 24 15 6 13 46.2 2 5 40.0 1 3 33.3 0 1 1 2 1 0 2 4 -
+p688
+aVWayman Tisdale SAC 12/10/1992 SAC vs. IND L 39 32 11 23 47.8 0 0 - 10 11 90.9 6 8 14 1 0 0 0 4 -
+p689
+aVPete Chilcutt SAC 12/10/1992 SAC vs. IND L 11 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 3 -
+p690
+aVLionel Simmons SAC 12/08/1992 SAC vs. WAS L 39 14 6 11 54.5 0 0 - 2 3 66.7 1 5 6 4 1 1 3 5 -
+p691
+aVWalt Williams SAC 12/08/1992 SAC vs. WAS L 25 11 4 10 40.0 1 2 50.0 2 2 100.0 2 2 4 4 0 1 1 2 -
+p692
+aVMitch Richmond SAC 12/08/1992 SAC vs. WAS L 44 35 14 24 58.3 1 2 50.0 6 6 100.0 0 2 2 10 2 0 3 5 -
+p693
+aVRod Higgins SAC 12/08/1992 SAC vs. WAS L 10 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 1 0 0 1 1 -
+p694
+aVSpud Webb SAC 12/08/1992 SAC vs. WAS L 35 7 2 12 16.7 1 3 33.3 2 2 100.0 0 1 1 7 1 0 2 2 -
+p695
+aVWayman Tisdale SAC 12/08/1992 SAC vs. WAS L 40 22 10 19 52.6 0 0 - 2 2 100.0 1 10 11 0 2 0 1 5 -
+p696
+aVKurt Rambis SAC 12/08/1992 SAC vs. WAS L 11 3 1 3 33.3 0 0 - 1 1 100.0 3 3 6 0 0 1 1 2 -
+p697
+aVAnthony Bonner SAC 12/08/1992 SAC vs. WAS L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p698
+aVDuane Causwell SAC 12/08/1992 SAC vs. WAS L 22 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 3 -
+p699
+aVJim Les SAC 12/08/1992 SAC vs. WAS L 7 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 0 -
+p700
+aVJim Les SAC 12/04/1992 SAC vs. CHH L 19 13 4 6 66.7 3 4 75.0 2 2 100.0 0 2 2 3 0 0 0 2 -
+p701
+aVLionel Simmons SAC 12/04/1992 SAC vs. CHH L 39 16 8 19 42.1 0 0 - 0 0 - 2 5 7 5 1 0 4 2 -
+p702
+aVDuane Causwell SAC 12/04/1992 SAC vs. CHH L 23 10 5 8 62.5 0 0 - 0 2 0.0 6 4 10 0 0 2 0 6 -
+p703
+aVRod Higgins SAC 12/04/1992 SAC vs. CHH L 19 5 2 6 33.3 1 3 33.3 0 1 0.0 1 3 4 2 1 0 0 3 -
+p704
+aVKurt Rambis SAC 12/04/1992 SAC vs. CHH L 11 3 0 2 0.0 0 0 - 3 4 75.0 2 3 5 0 0 0 4 1 -
+p705
+aVWayman Tisdale SAC 12/04/1992 SAC vs. CHH L 35 15 6 16 37.5 0 0 - 3 4 75.0 2 6 8 2 0 0 0 4 -
+p706
+aVMitch Richmond SAC 12/04/1992 SAC vs. CHH L 39 27 7 13 53.8 1 3 33.3 12 14 85.7 0 5 5 8 1 1 6 3 -
+p707
+aVRandy Brown SAC 12/04/1992 SAC vs. CHH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p708
+aVWalt Williams SAC 12/04/1992 SAC vs. CHH L 32 17 7 18 38.9 1 2 50.0 2 2 100.0 7 3 10 1 2 0 3 2 -
+p709
+aVAnthony Bonner SAC 12/04/1992 SAC vs. CHH L 17 3 1 5 20.0 0 0 - 1 4 25.0 3 1 4 3 1 1 1 1 -
+p710
+aVPete Chilcutt SAC 12/04/1992 SAC vs. CHH L 4 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p711
+aVWayman Tisdale SAC 12/01/1992 SAC vs. LAL W 36 14 5 12 41.7 0 0 - 4 4 100.0 0 8 8 2 3 0 0 3 -
+p712
+aVPete Chilcutt SAC 12/01/1992 SAC vs. LAL W 13 10 5 7 71.4 0 0 - 0 0 - 3 2 5 0 0 0 1 1 -
+p713
+aVKurt Rambis SAC 12/01/1992 SAC vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -
+p714
+aVAnthony Bonner SAC 12/01/1992 SAC vs. LAL W 11 6 2 4 50.0 0 0 - 2 4 50.0 1 1 2 3 0 0 1 3 -
+p715
+aVWalt Williams SAC 12/01/1992 SAC vs. LAL W 28 12 3 7 42.9 0 0 - 6 10 60.0 4 5 9 4 1 0 4 4 -
+p716
+aVMitch Richmond SAC 12/01/1992 SAC vs. LAL W 44 21 7 15 46.7 1 2 50.0 6 8 75.0 0 6 6 7 0 0 2 2 -
+p717
+aVLionel Simmons SAC 12/01/1992 SAC vs. LAL W 44 26 9 16 56.3 0 0 - 8 8 100.0 2 5 7 6 1 0 8 1 -
+p718
+aVDuane Causwell SAC 12/01/1992 SAC vs. LAL W 34 16 4 9 44.4 0 0 - 8 10 80.0 4 3 7 0 2 2 3 5 -
+p719
+aVRod Higgins SAC 12/01/1992 SAC vs. LAL W 10 9 2 3 66.7 1 1 100.0 4 4 100.0 0 0 0 0 0 0 0 0 -
+p720
+aVRandy Brown SAC 12/01/1992 SAC vs. LAL W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -
+p721
+aVJim Les SAC 12/01/1992 SAC vs. LAL W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p722
+aVKurt Rambis SAC 11/29/1992 SAC @ POR L 20 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 1 2 1 0 1 -
+p723
+aVRod Higgins SAC 11/29/1992 SAC @ POR L 17 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 2 1 1 0 3 -
+p724
+aVJim Les SAC 11/29/1992 SAC @ POR L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p725
+aVDuane Causwell SAC 11/29/1992 SAC @ POR L 18 6 1 2 50.0 0 0 - 4 4 100.0 0 5 5 0 0 0 1 3 -
+p726
+aVMitch Richmond SAC 11/29/1992 SAC @ POR L 44 23 10 24 41.7 1 4 25.0 2 4 50.0 0 2 2 4 0 0 4 3 -
+p727
+aVLionel Simmons SAC 11/29/1992 SAC @ POR L 42 29 10 24 41.7 0 0 - 9 9 100.0 3 6 9 5 2 1 3 4 -
+p728
+aVWayman Tisdale SAC 11/29/1992 SAC @ POR L 27 8 4 10 40.0 0 0 - 0 0 - 1 4 5 0 1 0 2 5 -
+p729
+aVWalt Williams SAC 11/29/1992 SAC @ POR L 27 13 6 16 37.5 0 2 0.0 1 2 50.0 4 4 8 3 2 0 1 5 -
+p730
+aVRandy Brown SAC 11/29/1992 SAC @ POR L 40 12 5 10 50.0 0 0 - 2 2 100.0 1 0 1 8 1 1 1 4 -
+p731
+aVRandy Brown SAC 11/28/1992 SAC vs. NJN L 28 6 2 9 22.2 0 0 - 2 2 100.0 1 1 2 1 2 0 1 6 -
+p732
+aVDuane Causwell SAC 11/28/1992 SAC vs. NJN L 20 12 5 6 83.3 0 0 - 2 3 66.7 1 4 5 2 0 0 0 2 -
+p733
+aVWalt Williams SAC 11/28/1992 SAC vs. NJN L 27 13 6 13 46.2 0 2 0.0 1 3 33.3 2 1 3 1 0 0 4 3 -
+p734
+aVWayman Tisdale SAC 11/28/1992 SAC vs. NJN L 33 9 3 10 30.0 0 0 - 3 6 50.0 0 5 5 3 0 1 1 3 -
+p735
+aVMitch Richmond SAC 11/28/1992 SAC vs. NJN L 33 26 10 17 58.8 0 2 0.0 6 9 66.7 0 3 3 6 0 0 2 4 -
+p736
+aVKurt Rambis SAC 11/28/1992 SAC vs. NJN L 27 5 2 9 22.2 0 0 - 1 1 100.0 2 5 7 0 3 0 1 3 -
+p737
+aVLionel Simmons SAC 11/28/1992 SAC vs. NJN L 35 6 3 7 42.9 0 0 - 0 1 0.0 1 5 6 4 0 0 4 5 -
+p738
+aVMarty Conlon SAC 11/28/1992 SAC vs. NJN L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p739
+aVRod Higgins SAC 11/28/1992 SAC vs. NJN L 18 5 0 5 0.0 0 1 0.0 5 6 83.3 0 4 4 1 0 3 2 0 -
+p740
+aVJim Les SAC 11/28/1992 SAC vs. NJN L 18 7 0 4 0.0 0 4 0.0 7 8 87.5 1 3 4 1 1 0 1 2 -
+p741
+aVRandy Brown SAC 11/25/1992 SAC @ DEN L 41 16 7 13 53.8 0 0 - 2 3 66.7 2 3 5 1 1 1 0 3 -
+p742
+aVPete Chilcutt SAC 11/25/1992 SAC @ DEN L 27 14 7 14 50.0 0 0 - 0 0 - 4 3 7 2 2 1 0 5 -
+p743
+aVAnthony Bonner SAC 11/25/1992 SAC @ DEN L 26 12 6 10 60.0 0 0 - 0 0 - 3 4 7 0 1 0 1 3 -
+p744
+aVWalt Williams SAC 11/25/1992 SAC @ DEN L 30 12 5 9 55.6 0 1 0.0 2 3 66.7 2 3 5 2 1 1 2 4 -
+p745
+aVJim Les SAC 11/25/1992 SAC @ DEN L 22 7 1 5 20.0 1 2 50.0 4 4 100.0 0 1 1 6 1 1 0 1 -
+p746
+aVMarty Conlon SAC 11/25/1992 SAC @ DEN L 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p747
+aVMitch Richmond SAC 11/25/1992 SAC @ DEN L 33 20 6 22 27.3 0 2 0.0 8 10 80.0 0 1 1 3 3 1 3 2 -
+p748
+aVLionel Simmons SAC 11/25/1992 SAC @ DEN L 37 11 2 14 14.3 0 0 - 7 12 58.3 0 3 3 5 1 0 5 0 -
+p749
+aVStan Kimbrough SAC 11/25/1992 SAC @ DEN L 10 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -
+p750
+aVDuane Causwell SAC 11/25/1992 SAC @ DEN L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -
+p751
+aVLionel Simmons SAC 11/23/1992 SAC vs. SEA W 48 24 10 16 62.5 0 0 - 4 6 66.7 3 10 13 3 6 2 3 3 -
+p752
+aVAnthony Bonner SAC 11/23/1992 SAC vs. SEA W 17 5 0 3 0.0 0 0 - 5 10 50.0 1 0 1 0 1 0 0 2 -
+p753
+aVJim Les SAC 11/23/1992 SAC vs. SEA W 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 1 -
+p754
+aVWayman Tisdale SAC 11/23/1992 SAC vs. SEA W 41 28 12 17 70.6 0 0 - 4 4 100.0 1 13 14 0 0 0 3 5 -
+p755
+aVRandy Brown SAC 11/23/1992 SAC vs. SEA W 38 6 3 9 33.3 0 0 - 0 3 0.0 0 1 1 6 2 0 3 4 -
+p756
+aVWalt Williams SAC 11/23/1992 SAC vs. SEA W 20 8 3 6 50.0 0 0 - 2 5 40.0 1 2 3 4 1 0 4 6 -
+p757
+aVMitch Richmond SAC 11/23/1992 SAC vs. SEA W 45 29 9 18 50.0 2 4 50.0 9 10 90.0 0 2 2 9 1 0 7 0 -
+p758
+aVVincent Askew SAC 11/23/1992 SAC vs. SEA W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -
+p759
+aVDuane Causwell SAC 11/23/1992 SAC vs. SEA W 19 0 0 0 - 0 0 - 0 2 0.0 0 4 4 0 0 3 1 5 -
+p760
+aVAnthony Bonner SAC 11/20/1992 SAC vs. POR L 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -
+p761
+aVJim Les SAC 11/20/1992 SAC vs. POR L 30 11 3 5 60.0 3 5 60.0 2 2 100.0 0 1 1 4 0 0 1 1 -
+p762
+aVMitch Richmond SAC 11/20/1992 SAC vs. POR L 32 21 6 16 37.5 1 2 50.0 8 8 100.0 0 5 5 1 1 0 5 5 -
+p763
+aVPete Chilcutt SAC 11/20/1992 SAC vs. POR L 5 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -
+p764
+aVWalt Williams SAC 11/20/1992 SAC vs. POR L 36 22 5 20 25.0 1 8 12.5 11 14 78.6 1 2 3 9 3 0 4 5 -
+p765
+aVLionel Simmons SAC 11/20/1992 SAC vs. POR L 43 10 3 14 21.4 0 0 - 4 4 100.0 7 7 14 3 1 1 2 3 -
+p766
+aVRandy Brown SAC 11/20/1992 SAC vs. POR L 23 5 2 8 25.0 0 0 - 1 2 50.0 3 0 3 3 3 1 0 6 -
+p767
+aVWayman Tisdale SAC 11/20/1992 SAC vs. POR L 39 23 10 19 52.6 0 0 - 3 3 100.0 1 8 9 1 1 1 2 3 -
+p768
+aVDuane Causwell SAC 11/20/1992 SAC vs. POR L 20 7 2 6 33.3 0 0 - 3 4 75.0 3 6 9 0 1 1 0 1 -
+p769
+aVVincent Askew SAC 11/20/1992 SAC vs. POR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -
+p770
+aVJim Les SAC 11/18/1992 SAC @ PHX L 18 5 2 6 33.3 0 2 0.0 1 2 50.0 1 2 3 3 1 0 0 2 -
+p771
+aVWayman Tisdale SAC 11/18/1992 SAC @ PHX L 25 15 7 10 70.0 0 0 - 1 1 100.0 2 3 5 1 1 1 1 3 -
+p772
+aVRandy Brown SAC 11/18/1992 SAC @ PHX L 28 18 7 14 50.0 0 0 - 4 6 66.7 1 2 3 4 2 1 2 0 -
+p773
+aVAnthony Bonner SAC 11/18/1992 SAC @ PHX L 14 8 3 6 50.0 0 0 - 2 2 100.0 4 3 7 2 3 0 1 3 -
+p774
+aVMarty Conlon SAC 11/18/1992 SAC @ PHX L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 3 -
+p775
+aVWalt Williams SAC 11/18/1992 SAC @ PHX L 28 11 5 13 38.5 1 3 33.3 0 1 0.0 4 4 8 5 0 3 2 2 -
+p776
+aVLionel Simmons SAC 11/18/1992 SAC @ PHX L 32 9 1 8 12.5 0 0 - 7 8 87.5 1 6 7 4 2 0 3 3 -
+p777
+aVStan Kimbrough SAC 11/18/1992 SAC @ PHX L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p778
+aVPete Chilcutt SAC 11/18/1992 SAC @ PHX L 12 15 7 10 70.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 0 -
+p779
+aVMitch Richmond SAC 11/18/1992 SAC @ PHX L 29 14 5 15 33.3 0 3 0.0 4 5 80.0 0 1 1 2 1 0 4 5 -
+p780
+aVDuane Causwell SAC 11/18/1992 SAC @ PHX L 25 5 1 5 20.0 0 0 - 3 4 75.0 2 4 6 3 1 2 1 2 -
+p781
+aVVincent Askew SAC 11/18/1992 SAC @ PHX L 14 9 3 7 42.9 0 0 - 3 4 75.0 3 0 3 0 0 1 1 3 -
+p782
+aVMarty Conlon SAC 11/17/1992 SAC @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p783
+aVAnthony Bonner SAC 11/17/1992 SAC @ HOU L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p784
+aVMitch Richmond SAC 11/17/1992 SAC @ HOU L 40 8 4 14 28.6 0 5 0.0 0 2 0.0 0 5 5 6 0 1 2 4 -
+p785
+aVStan Kimbrough SAC 11/17/1992 SAC @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p786
+aVWayman Tisdale SAC 11/17/1992 SAC @ HOU L 33 17 7 12 58.3 0 0 - 3 5 60.0 0 6 6 2 1 0 2 3 -
+p787
+aVRandy Brown SAC 11/17/1992 SAC @ HOU L 35 11 5 13 38.5 0 1 0.0 1 2 50.0 2 2 4 3 2 0 0 4 -
+p788
+aVDuane Causwell SAC 11/17/1992 SAC @ HOU L 35 20 10 14 71.4 0 0 - 0 0 - 4 5 9 1 1 0 1 2 -
+p789
+aVWalt Williams SAC 11/17/1992 SAC @ HOU L 28 14 5 12 41.7 2 3 66.7 2 2 100.0 3 1 4 6 0 0 2 3 -
+p790
+aVJim Les SAC 11/17/1992 SAC @ HOU L 23 14 5 6 83.3 4 5 80.0 0 0 - 0 0 0 3 1 1 1 2 -
+p791
+aVLionel Simmons SAC 11/17/1992 SAC @ HOU L 35 19 7 17 41.2 0 0 - 5 6 83.3 4 6 10 7 2 1 1 0 -
+p792
+aVPete Chilcutt SAC 11/17/1992 SAC @ HOU L 7 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 1 0 0 -
+p793
+aVVincent Askew SAC 11/17/1992 SAC @ HOU L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -
+p794
+aVWalt Williams SAC 11/15/1992 SAC vs. CLE W 35 21 9 15 60.0 1 4 25.0 2 2 100.0 3 3 6 5 0 1 3 5 -
+p795
+aVMitch Richmond SAC 11/15/1992 SAC vs. CLE W 47 31 12 21 57.1 3 4 75.0 4 4 100.0 0 8 8 6 1 1 2 1 -
+p796
+aVRandy Brown SAC 11/15/1992 SAC vs. CLE W 41 14 7 10 70.0 0 0 - 0 2 0.0 1 2 3 4 1 0 2 4 -
+p797
+aVWayman Tisdale SAC 11/15/1992 SAC vs. CLE W 44 17 8 19 42.1 0 0 - 1 2 50.0 2 8 10 6 0 0 0 4 -
+p798
+aVJim Les SAC 11/15/1992 SAC vs. CLE W 9 0 0 1 0.0 0 0 - 0 0 - 2 0 2 2 0 0 0 1 -
+p799
+aVDuane Causwell SAC 11/15/1992 SAC vs. CLE W 20 9 4 5 80.0 0 0 - 1 2 50.0 1 6 7 0 0 0 2 4 -
+p800
+aVLionel Simmons SAC 11/15/1992 SAC vs. CLE W 44 17 6 16 37.5 0 0 - 5 7 71.4 1 6 7 6 1 0 4 4 -
+p801
+aVVincent Askew SAC 11/14/1992 SAC @ SEA L 7 4 0 2 0.0 0 0 - 4 4 100.0 3 1 4 0 1 0 3 1 -
+p802
+aVDuane Causwell SAC 11/14/1992 SAC @ SEA L 19 6 3 7 42.9 0 0 - 0 1 0.0 4 5 9 1 0 2 0 5 -
+p803
+aVMitch Richmond SAC 11/14/1992 SAC @ SEA L 31 18 7 11 63.6 0 2 0.0 4 6 66.7 0 3 3 3 2 0 2 5 -
+p804
+aVWalt Williams SAC 11/14/1992 SAC @ SEA L 30 24 8 12 66.7 1 3 33.3 7 9 77.8 1 2 3 4 0 0 5 5 -
+p805
+aVJim Les SAC 11/14/1992 SAC @ SEA L 18 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 3 1 0 2 3 -
+p806
+aVLionel Simmons SAC 11/14/1992 SAC @ SEA L 40 23 7 16 43.8 0 0 - 9 11 81.8 2 7 9 4 0 1 3 3 -
+p807
+aVRandy Brown SAC 11/14/1992 SAC @ SEA L 37 8 4 8 50.0 0 0 - 0 0 - 0 0 0 2 2 0 3 2 -
+p808
+aVAnthony Bonner SAC 11/14/1992 SAC @ SEA L 10 7 3 5 60.0 0 0 - 1 2 50.0 2 3 5 0 0 0 2 1 -
+p809
+aVPete Chilcutt SAC 11/14/1992 SAC @ SEA L 7 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p810
+aVWayman Tisdale SAC 11/14/1992 SAC @ SEA L 35 19 8 11 72.7 0 0 - 3 4 75.0 1 6 7 2 0 0 1 5 -
+p811
+aVMarty Conlon SAC 11/14/1992 SAC @ SEA L 6 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 -
+p812
+aVLionel Simmons SAC 11/11/1992 SAC @ LAC L 29 8 4 11 36.4 0 0 - 0 1 0.0 2 6 8 5 1 0 1 1 -
+p813
+aVPete Chilcutt SAC 11/11/1992 SAC @ LAC L 16 5 1 6 16.7 0 0 - 3 4 75.0 2 3 5 2 0 0 1 1 -
+p814
+aVAnthony Bonner SAC 11/11/1992 SAC @ LAC L 18 10 4 9 44.4 0 0 - 2 2 100.0 3 3 6 1 1 0 1 1 -
+p815
+aVVincent Askew SAC 11/11/1992 SAC @ LAC L 17 8 3 3 100.0 0 0 - 2 4 50.0 1 0 1 1 0 0 2 1 -
+p816
+aVMarty Conlon SAC 11/11/1992 SAC @ LAC L 10 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 0 -
+p817
+aVWayman Tisdale SAC 11/11/1992 SAC @ LAC L 21 12 6 9 66.7 0 0 - 0 2 0.0 0 5 5 0 0 1 2 3 -
+p818
+aVDuane Causwell SAC 11/11/1992 SAC @ LAC L 18 6 2 5 40.0 0 0 - 2 5 40.0 0 1 1 1 0 1 0 3 -
+p819
+aVJim Les SAC 11/11/1992 SAC @ LAC L 16 9 3 7 42.9 2 4 50.0 1 2 50.0 1 0 1 2 3 0 2 2 -
+p820
+aVRandy Brown SAC 11/11/1992 SAC @ LAC L 38 8 2 6 33.3 0 0 - 4 4 100.0 2 4 6 4 4 0 2 4 -
+p821
+aVMitch Richmond SAC 11/11/1992 SAC @ LAC L 27 8 3 10 30.0 0 3 0.0 2 2 100.0 0 3 3 2 1 0 4 2 -
+p822
+aVWalt Williams SAC 11/11/1992 SAC @ LAC L 30 24 7 15 46.7 1 4 25.0 9 10 90.0 1 3 4 3 3 1 5 4 -
+p823
+aVMitch Richmond SAC 11/10/1992 SAC vs. LAC W 42 21 9 19 47.4 0 3 0.0 3 4 75.0 1 4 5 9 0 0 2 2 -
+p824
+aVMarty Conlon SAC 11/10/1992 SAC vs. LAC W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -
+p825
+aVWalt Williams SAC 11/10/1992 SAC vs. LAC W 25 10 4 10 40.0 1 1 100.0 1 1 100.0 3 2 5 1 1 0 1 5 -
+p826
+aVRandy Brown SAC 11/10/1992 SAC vs. LAC W 37 22 8 9 88.9 0 0 - 6 6 100.0 1 3 4 3 2 2 1 1 -
+p827
+aVJim Les SAC 11/10/1992 SAC vs. LAC W 16 4 2 4 50.0 0 2 0.0 0 0 - 2 1 3 2 0 0 0 1 -
+p828
+aVDuane Causwell SAC 11/10/1992 SAC vs. LAC W 20 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 0 1 4 0 2 -
+p829
+aVLionel Simmons SAC 11/10/1992 SAC vs. LAC W 44 21 10 24 41.7 0 0 - 1 2 50.0 5 6 11 8 1 4 4 3 -
+p830
+aVAnthony Bonner SAC 11/10/1992 SAC vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p831
+aVVincent Askew SAC 11/10/1992 SAC vs. LAC W 3 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -
+p832
+aVWayman Tisdale SAC 11/10/1992 SAC vs. LAC W 43 11 5 18 27.8 0 0 - 1 2 50.0 3 7 10 2 0 0 1 3 -
+p833
+aVWalt Williams SAC 11/08/1992 SAC @ LAL W 27 17 7 14 50.0 2 3 66.7 1 1 100.0 1 4 5 2 0 1 1 5 -
+p834
+aVRandy Brown SAC 11/08/1992 SAC @ LAL W 18 11 5 8 62.5 0 0 - 1 1 100.0 5 3 8 5 1 0 2 5 -
+p835
+aVVincent Askew SAC 11/08/1992 SAC @ LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p836
+aVLionel Simmons SAC 11/08/1992 SAC @ LAL W 41 14 7 15 46.7 0 0 - 0 0 - 1 5 6 5 3 0 5 4 -
+p837
+aVMitch Richmond SAC 11/08/1992 SAC @ LAL W 45 29 11 18 61.1 1 2 50.0 6 6 100.0 0 2 2 8 0 0 4 2 -
+p838
+aVSpud Webb SAC 11/08/1992 SAC @ LAL W 19 8 3 4 75.0 0 1 0.0 2 2 100.0 0 1 1 5 1 0 0 2 -
+p839
+aVMarty Conlon SAC 11/08/1992 SAC @ LAL W 16 2 1 6 16.7 0 0 - 0 0 - 5 2 7 1 1 0 0 1 -
+p840
+aVWayman Tisdale SAC 11/08/1992 SAC @ LAL W 44 25 12 21 57.1 0 0 - 1 2 50.0 2 8 10 2 0 0 1 5 -
+p841
+aVDuane Causwell SAC 11/08/1992 SAC @ LAL W 15 10 5 7 71.4 0 0 - 0 1 0.0 2 1 3 1 0 0 1 5 -
+p842
+aVJim Les SAC 11/08/1992 SAC @ LAL W 12 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 0 -
+p843
+aVDuane Causwell SAC 11/06/1992 SAC vs. SAN W 29 15 6 10 60.0 0 0 - 3 5 60.0 3 5 8 0 0 2 0 5 -
+p844
+aVWayman Tisdale SAC 11/06/1992 SAC vs. SAN W 30 9 4 8 50.0 0 0 - 1 2 50.0 2 5 7 0 0 1 3 3 -
+p845
+aVSpud Webb SAC 11/06/1992 SAC vs. SAN W 42 23 9 21 42.9 0 2 0.0 5 8 62.5 2 3 5 10 1 0 2 5 -
+p846
+aVVincent Askew SAC 11/06/1992 SAC vs. SAN W 17 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 3 -
+p847
+aVRandy Brown SAC 11/06/1992 SAC vs. SAN W 19 7 3 4 75.0 0 0 - 1 2 50.0 3 3 6 3 0 0 1 5 -
+p848
+aVMitch Richmond SAC 11/06/1992 SAC vs. SAN W 45 26 9 23 39.1 3 5 60.0 5 5 100.0 1 2 3 6 3 0 1 2 -
+p849
+aVWalt Williams SAC 11/06/1992 SAC vs. SAN W 20 15 5 12 41.7 1 4 25.0 4 4 100.0 1 2 3 1 2 0 1 4 -
+p850
+aVPete Chilcutt SAC 11/06/1992 SAC vs. SAN W 2 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -
+p851
+aVMarty Conlon SAC 11/06/1992 SAC vs. SAN W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p852
+aVLionel Simmons SAC 11/06/1992 SAC vs. SAN W 33 19 7 13 53.8 0 1 0.0 5 5 100.0 3 7 10 1 3 1 5 5 -
+p853
+a.

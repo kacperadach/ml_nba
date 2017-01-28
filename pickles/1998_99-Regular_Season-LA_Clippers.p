@@ -1,0 +1,1030 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMaurice Taylor LAC 05/05/1999 LAC vs. SEA L 39 20 8 17 47.1 0 1 0.0 4 5 80.0 1 7 8 0 1 0 1 5 2
+p2
+aVEric Piatkowski LAC 05/05/1999 LAC vs. SEA L 26 12 4 14 28.6 4 9 44.4 0 0 - 2 2 4 1 1 0 0 2 3
+p3
+aVLorenzen Wright LAC 05/05/1999 LAC vs. SEA L 7 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 -6
+p4
+aVLamond Murray LAC 05/05/1999 LAC vs. SEA L 20 8 4 12 33.3 0 4 0.0 0 0 - 3 0 3 2 2 0 4 2 -6
+p5
+aVTyrone Nesby LAC 05/05/1999 LAC vs. SEA L 43 30 13 17 76.5 2 3 66.7 2 4 50.0 1 3 4 4 7 1 2 4 11
+p6
+aVRodney Rogers LAC 05/05/1999 LAC vs. SEA L 11 2 0 5 0.0 0 1 0.0 2 4 50.0 1 1 2 1 2 0 0 3 -10
+p7
+aVTroy Hudson LAC 05/05/1999 LAC vs. SEA L 48 19 7 17 41.2 1 4 25.0 4 4 100.0 1 3 4 10 2 0 3 2 -2
+p8
+aVMichael Olowokandi LAC 05/05/1999 LAC vs. SEA L 28 4 2 5 40.0 0 0 - 0 0 - 2 4 6 1 0 1 2 3 -11
+p9
+aVBrian Skinner LAC 05/05/1999 LAC vs. SEA L 19 8 4 5 80.0 0 0 - 0 0 - 0 3 3 0 1 3 1 1 9
+p10
+aVTroy Hudson LAC 05/04/1999 LAC @ UTA L 48 15 3 10 30.0 1 3 33.3 8 9 88.9 0 5 5 7 0 0 1 2 -17
+p11
+aVRodney Rogers LAC 05/04/1999 LAC @ UTA L 19 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 1 4 0 0 5 8
+p12
+aVBrian Skinner LAC 05/04/1999 LAC @ UTA L 26 2 1 6 16.7 0 0 - 0 0 - 1 2 3 0 2 1 0 2 -2
+p13
+aVEric Piatkowski LAC 05/04/1999 LAC @ UTA L 37 18 8 19 42.1 2 8 25.0 0 0 - 2 3 5 1 2 0 1 0 -23
+p14
+aVMaurice Taylor LAC 05/04/1999 LAC @ UTA L 21 10 5 10 50.0 0 0 - 0 2 0.0 3 1 4 1 0 0 2 6 -15
+p15
+aVTyrone Nesby LAC 05/04/1999 LAC @ UTA L 32 9 2 7 28.6 0 1 0.0 5 6 83.3 2 0 2 3 0 0 1 1 -18
+p16
+aVLamond Murray LAC 05/04/1999 LAC @ UTA L 17 10 3 6 50.0 0 0 - 4 6 66.7 0 1 1 1 4 0 1 1 -3
+p17
+aVMichael Olowokandi LAC 05/04/1999 LAC @ UTA L 42 11 5 18 27.8 0 0 - 1 2 50.0 6 6 12 1 0 2 1 4 -15
+p18
+aVLorenzen Wright LAC 05/02/1999 LAC @ HOU L 19 2 1 5 20.0 0 0 - 0 2 0.0 2 2 4 0 0 1 1 3 -12
+p19
+aVMichael Olowokandi LAC 05/02/1999 LAC @ HOU L 24 5 2 7 28.6 0 0 - 1 2 50.0 2 3 5 0 1 0 2 2 -12
+p20
+aVTroy Hudson LAC 05/02/1999 LAC @ HOU L 41 20 8 14 57.1 2 5 40.0 2 2 100.0 0 5 5 5 0 1 3 2 -26
+p21
+aVCharles Smith LAC 05/02/1999 LAC @ HOU L 11 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 3
+p22
+aVMaurice Taylor LAC 05/02/1999 LAC @ HOU L 33 18 8 15 53.3 0 0 - 2 4 50.0 0 3 3 1 0 1 5 4 -24
+p23
+aVTyrone Nesby LAC 05/02/1999 LAC @ HOU L 35 7 3 11 27.3 1 3 33.3 0 0 - 2 4 6 8 3 0 1 2 -14
+p24
+aVEric Piatkowski LAC 05/02/1999 LAC @ HOU L 31 6 2 4 50.0 0 1 0.0 2 4 50.0 1 2 3 2 1 0 2 0 -22
+p25
+aVBrian Skinner LAC 05/02/1999 LAC @ HOU L 20 14 5 6 83.3 0 0 - 4 8 50.0 2 2 4 0 0 0 1 1 -5
+p26
+aVLamond Murray LAC 05/02/1999 LAC @ HOU L 9 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p27
+aVRodney Rogers LAC 05/02/1999 LAC @ HOU L 16 4 1 8 12.5 0 2 0.0 2 2 100.0 2 0 2 0 0 0 0 3 -14
+p28
+aVEric Piatkowski LAC 05/01/1999 LAC @ MIN L 23 7 2 4 50.0 1 1 100.0 2 2 100.0 0 3 3 3 0 0 2 1 -11
+p29
+aVLorenzen Wright LAC 05/01/1999 LAC @ MIN L 23 18 5 8 62.5 0 0 - 8 11 72.7 3 3 6 1 0 2 0 2 3
+p30
+aVTroy Hudson LAC 05/01/1999 LAC @ MIN L 46 6 2 11 18.2 0 1 0.0 2 2 100.0 1 3 4 12 2 0 2 2 -9
+p31
+aVRodney Rogers LAC 05/01/1999 LAC @ MIN L 26 12 5 10 50.0 1 6 16.7 1 3 33.3 0 3 3 2 0 1 3 3 2
+p32
+aVMaurice Taylor LAC 05/01/1999 LAC @ MIN L 38 15 7 17 41.2 0 0 - 1 2 50.0 1 2 3 2 0 1 2 3 -15
+p33
+aVCharles Smith LAC 05/01/1999 LAC @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p34
+aVTyrone Nesby LAC 05/01/1999 LAC @ MIN L 27 9 3 11 27.3 1 2 50.0 2 2 100.0 4 3 7 4 0 1 0 4 -15
+p35
+aVBrian Skinner LAC 05/01/1999 LAC @ MIN L 16 8 4 5 80.0 0 0 - 0 0 - 1 5 6 0 0 1 1 1 7
+p36
+aVMichael Olowokandi LAC 05/01/1999 LAC @ MIN L 19 8 4 4 100.0 0 0 - 0 0 - 1 3 4 1 0 0 3 4 -15
+p37
+aVLamond Murray LAC 05/01/1999 LAC @ MIN L 19 10 4 11 36.4 0 1 0.0 2 3 66.7 0 5 5 0 0 0 0 0 -6
+p38
+aVCharles Smith LAC 04/29/1999 LAC @ SAC L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 1 2 0 -1
+p39
+aVMichael Olowokandi LAC 04/29/1999 LAC @ SAC L 27 4 2 5 40.0 0 0 - 0 2 0.0 1 6 7 0 0 2 3 5 -12
+p40
+aVBrian Skinner LAC 04/29/1999 LAC @ SAC L 16 5 1 5 20.0 0 0 - 3 8 37.5 3 3 6 0 3 0 1 1 0
+p41
+aVEric Piatkowski LAC 04/29/1999 LAC @ SAC L 26 13 5 11 45.5 2 5 40.0 1 1 100.0 0 2 2 0 1 0 1 3 -20
+p42
+aVMaurice Taylor LAC 04/29/1999 LAC @ SAC L 27 12 5 14 35.7 0 0 - 2 4 50.0 2 4 6 2 0 1 3 2 -12
+p43
+aVRodney Rogers LAC 04/29/1999 LAC @ SAC L 24 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 0 1 0 1 5 -12
+p44
+aVKeith Closs LAC 04/29/1999 LAC @ SAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 1 0 -2
+p45
+aVLamond Murray LAC 04/29/1999 LAC @ SAC L 16 10 4 9 44.4 0 1 0.0 2 4 50.0 1 1 2 0 3 0 0 1 -9
+p46
+aVTyrone Nesby LAC 04/29/1999 LAC @ SAC L 27 5 2 11 18.2 0 2 0.0 1 2 50.0 2 5 7 0 3 0 0 2 -2
+p47
+aVLorenzen Wright LAC 04/29/1999 LAC @ SAC L 18 6 2 4 50.0 0 0 - 2 4 50.0 1 6 7 0 0 0 0 2 -10
+p48
+aVTroy Hudson LAC 04/29/1999 LAC @ SAC L 45 20 6 16 37.5 2 4 50.0 6 6 100.0 3 3 6 14 2 0 8 2 -30
+p49
+aVBrian Skinner LAC 04/26/1999 LAC vs. SAS L 19 9 4 4 100.0 0 0 - 1 2 50.0 1 6 7 0 2 1 1 1 28
+p50
+aVTyrone Nesby LAC 04/26/1999 LAC vs. SAS L 20 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 1 2 0 1 3 -2
+p51
+aVMaurice Taylor LAC 04/26/1999 LAC vs. SAS L 23 7 2 13 15.4 0 1 0.0 3 3 100.0 3 1 4 0 1 0 5 4 -29
+p52
+aVLorenzen Wright LAC 04/26/1999 LAC vs. SAS L 31 2 1 7 14.3 0 0 - 0 0 - 3 3 6 1 1 0 0 5 12
+p53
+aVEric Piatkowski LAC 04/26/1999 LAC vs. SAS L 43 27 10 17 58.8 5 8 62.5 2 3 66.7 3 3 6 3 3 0 1 3 4
+p54
+aVMichael Olowokandi LAC 04/26/1999 LAC vs. SAS L 23 12 6 11 54.5 0 0 - 0 2 0.0 4 4 8 0 1 3 2 1 -22
+p55
+aVLamond Murray LAC 04/26/1999 LAC vs. SAS L 14 8 4 8 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -10
+p56
+aVRodney Rogers LAC 04/26/1999 LAC vs. SAS L 20 8 3 8 37.5 0 3 0.0 2 2 100.0 0 1 1 1 0 0 2 4 -5
+p57
+aVTroy Hudson LAC 04/26/1999 LAC vs. SAS L 48 11 4 12 33.3 1 6 16.7 2 2 100.0 2 4 6 8 0 0 3 1 -6
+p58
+aVMichael Olowokandi LAC 04/24/1999 LAC vs. VAN W 25 8 4 5 80.0 0 0 - 0 3 0.0 0 2 2 0 1 1 0 3 -13
+p59
+aVLamond Murray LAC 04/24/1999 LAC vs. VAN W 17 6 3 7 42.9 0 1 0.0 0 0 - 1 4 5 1 0 0 0 2 7
+p60
+aVLorenzen Wright LAC 04/24/1999 LAC vs. VAN W 23 7 2 5 40.0 0 0 - 3 4 75.0 3 3 6 1 0 2 0 2 22
+p61
+aVRodney Rogers LAC 04/24/1999 LAC vs. VAN W 26 19 7 10 70.0 2 3 66.7 3 4 75.0 4 3 7 1 2 1 3 4 16
+p62
+aVTroy Hudson LAC 04/24/1999 LAC vs. VAN W 16 4 1 3 33.3 0 2 0.0 2 2 100.0 0 3 3 3 0 0 0 1 20
+p63
+aVMaurice Taylor LAC 04/24/1999 LAC vs. VAN W 40 25 9 24 37.5 1 1 100.0 6 8 75.0 1 6 7 4 2 3 3 5 9
+p64
+aVTyrone Nesby LAC 04/24/1999 LAC vs. VAN W 33 13 4 6 66.7 1 2 50.0 4 5 80.0 0 4 4 2 1 0 0 4 -8
+p65
+aVSherman Douglas LAC 04/24/1999 LAC vs. VAN W 32 6 3 7 42.9 0 0 - 0 1 0.0 2 0 2 6 1 0 3 2 -11
+p66
+aVEric Piatkowski LAC 04/24/1999 LAC vs. VAN W 28 17 6 12 50.0 3 4 75.0 2 2 100.0 2 1 3 1 2 0 2 4 3
+p67
+aVLamond Murray LAC 04/23/1999 LAC vs. HOU W 12 6 3 8 37.5 0 0 - 0 0 - 0 1 1 0 0 0 1 2 2
+p68
+aVEric Piatkowski LAC 04/23/1999 LAC vs. HOU W 48 28 8 14 57.1 3 5 60.0 9 12 75.0 1 2 3 3 4 0 2 1 3
+p69
+aVTyrone Nesby LAC 04/23/1999 LAC vs. HOU W 45 13 6 12 50.0 0 1 0.0 1 1 100.0 3 7 10 3 3 0 3 5 9
+p70
+aVSherman Douglas LAC 04/23/1999 LAC vs. HOU W 38 7 3 12 25.0 0 0 - 1 2 50.0 1 0 1 3 0 0 4 3 -8
+p71
+aVLorenzen Wright LAC 04/23/1999 LAC vs. HOU W 12 7 2 3 66.7 0 0 - 3 3 100.0 2 4 6 0 0 1 0 0 10
+p72
+aVMichael Olowokandi LAC 04/23/1999 LAC vs. HOU W 44 8 3 7 42.9 0 0 - 2 4 50.0 3 11 14 1 1 1 1 3 1
+p73
+aVRodney Rogers LAC 04/23/1999 LAC vs. HOU W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -1
+p74
+aVMaurice Taylor LAC 04/23/1999 LAC vs. HOU W 43 29 13 21 61.9 0 0 - 3 5 60.0 5 1 6 2 1 0 3 5 -1
+p75
+aVTroy Hudson LAC 04/23/1999 LAC vs. HOU W 17 6 2 8 25.0 1 4 25.0 1 2 50.0 0 3 3 5 0 0 2 0 10
+p76
+aVRodney Rogers LAC 04/21/1999 LAC @ VAN L 21 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 3 2 0 1 5 -15
+p77
+aVMaurice Taylor LAC 04/21/1999 LAC @ VAN L 43 24 11 24 45.8 0 0 - 2 3 66.7 5 7 12 0 0 1 3 2 -3
+p78
+aVTyrone Nesby LAC 04/21/1999 LAC @ VAN L 23 11 4 6 66.7 1 2 50.0 2 4 50.0 1 0 1 2 1 0 3 6 4
+p79
+aVTroy Hudson LAC 04/21/1999 LAC @ VAN L 16 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 1 0 1 -1
+p80
+aVSherman Douglas LAC 04/21/1999 LAC @ VAN L 39 15 5 12 41.7 0 1 0.0 5 6 83.3 2 0 2 8 2 0 3 2 3
+p81
+aVEric Piatkowski LAC 04/21/1999 LAC @ VAN L 19 13 4 5 80.0 1 2 50.0 4 4 100.0 1 3 4 0 1 1 0 3 1
+p82
+aVLamond Murray LAC 04/21/1999 LAC @ VAN L 26 9 3 10 30.0 1 6 16.7 2 2 100.0 0 1 1 2 0 1 1 2 -1
+p83
+aVMichael Olowokandi LAC 04/21/1999 LAC @ VAN L 43 16 7 16 43.8 0 0 - 2 6 33.3 8 9 17 1 3 2 2 3 -3
+p84
+aVBrian Skinner LAC 04/21/1999 LAC @ VAN L 10 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 1 0 0 0
+p85
+aVCharles Smith LAC 04/19/1999 LAC vs. SAC L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p86
+aVLamond Murray LAC 04/19/1999 LAC vs. SAC L 32 14 4 12 33.3 1 3 33.3 5 5 100.0 1 5 6 2 1 0 3 4 -5
+p87
+aVEric Piatkowski LAC 04/19/1999 LAC vs. SAC L 25 7 2 10 20.0 1 4 25.0 2 2 100.0 1 3 4 2 0 0 1 3 -1
+p88
+aVLorenzen Wright LAC 04/19/1999 LAC vs. SAC L 23 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 1 0 5 -5
+p89
+aVRodney Rogers LAC 04/19/1999 LAC vs. SAC L 18 6 3 3 100.0 0 0 - 0 0 - 0 3 3 4 0 2 3 1 9
+p90
+aVTroy Hudson LAC 04/19/1999 LAC vs. SAC L 15 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 3 1 0 0 0 -3
+p91
+aVMaurice Taylor LAC 04/19/1999 LAC vs. SAC L 35 24 11 20 55.0 0 0 - 2 4 50.0 2 1 3 1 1 0 3 3 -13
+p92
+aVSherman Douglas LAC 04/19/1999 LAC vs. SAC L 33 12 6 13 46.2 0 2 0.0 0 2 0.0 1 2 3 3 2 0 1 0 1
+p93
+aVMichael Olowokandi LAC 04/19/1999 LAC vs. SAC L 27 7 3 7 42.9 0 0 - 1 3 33.3 2 8 10 1 1 1 2 2 2
+p94
+aVTyrone Nesby LAC 04/19/1999 LAC vs. SAC L 30 16 7 16 43.8 0 1 0.0 2 2 100.0 5 2 7 2 4 0 2 5 -1
+p95
+aVLorenzen Wright LAC 04/18/1999 LAC vs. DEN L 28 9 3 5 60.0 0 0 - 3 3 100.0 6 8 14 0 0 1 1 3 -8
+p96
+aVTyrone Nesby LAC 04/18/1999 LAC vs. DEN L 40 9 4 11 36.4 1 2 50.0 0 0 - 0 3 3 1 2 0 0 1 1
+p97
+aVRodney Rogers LAC 04/18/1999 LAC vs. DEN L 18 13 5 8 62.5 0 0 - 3 4 75.0 1 4 5 3 0 2 0 4 -1
+p98
+aVMaurice Taylor LAC 04/18/1999 LAC vs. DEN L 34 28 11 22 50.0 0 0 - 6 8 75.0 2 2 4 0 0 1 0 3 -6
+p99
+aVSherman Douglas LAC 04/18/1999 LAC vs. DEN L 38 14 4 8 50.0 0 1 0.0 6 8 75.0 0 2 2 6 0 0 1 4 -8
+p100
+aVLamond Murray LAC 04/18/1999 LAC vs. DEN L 27 14 4 11 36.4 1 3 33.3 5 6 83.3 1 5 6 2 0 0 2 4 7
+p101
+aVEric Piatkowski LAC 04/18/1999 LAC vs. DEN L 25 7 2 8 25.0 0 4 0.0 3 3 100.0 0 1 1 0 0 0 1 3 -3
+p102
+aVMichael Olowokandi LAC 04/18/1999 LAC vs. DEN L 20 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 0 0 1 3 4
+p103
+aVTroy Hudson LAC 04/18/1999 LAC vs. DEN L 11 3 1 4 25.0 0 0 - 1 1 100.0 2 1 3 3 0 0 1 1 4
+p104
+aVSherman Douglas LAC 04/16/1999 LAC @ GSW W 36 10 5 9 55.6 0 0 - 0 1 0.0 0 2 2 7 1 1 2 1 -2
+p105
+aVLorenzen Wright LAC 04/16/1999 LAC @ GSW W 23 7 2 6 33.3 0 0 - 3 4 75.0 6 3 9 1 1 3 0 4 -6
+p106
+aVTyrone Nesby LAC 04/16/1999 LAC @ GSW W 41 16 4 10 40.0 1 4 25.0 7 8 87.5 2 6 8 4 1 1 0 1 4
+p107
+aVMaurice Taylor LAC 04/16/1999 LAC @ GSW W 32 10 4 15 26.7 0 0 - 2 2 100.0 3 1 4 0 1 1 3 1 9
+p108
+aVMichael Olowokandi LAC 04/16/1999 LAC @ GSW W 25 8 4 10 40.0 0 0 - 0 0 - 5 6 11 1 1 2 0 2 7
+p109
+aVRodney Rogers LAC 04/16/1999 LAC @ GSW W 16 8 4 7 57.1 0 1 0.0 0 0 - 1 3 4 0 2 1 2 3 -6
+p110
+aVEric Piatkowski LAC 04/16/1999 LAC @ GSW W 34 13 6 13 46.2 1 5 20.0 0 0 - 4 0 4 1 2 0 1 1 7
+p111
+aVLamond Murray LAC 04/16/1999 LAC @ GSW W 20 8 2 10 20.0 0 2 0.0 4 4 100.0 2 2 4 2 3 1 3 3 -3
+p112
+aVTroy Hudson LAC 04/16/1999 LAC @ GSW W 12 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 5
+p113
+aVLamond Murray LAC 04/15/1999 LAC vs. UTA L 22 7 3 6 50.0 0 1 0.0 1 1 100.0 0 1 1 0 1 1 1 3 8
+p114
+aVMichael Olowokandi LAC 04/15/1999 LAC vs. UTA L 24 6 3 11 27.3 0 0 - 0 0 - 1 3 4 1 2 1 1 6 -13
+p115
+aVSherman Douglas LAC 04/15/1999 LAC vs. UTA L 38 17 6 11 54.5 0 0 - 5 5 100.0 1 2 3 6 0 0 2 3 -18
+p116
+aVMaurice Taylor LAC 04/15/1999 LAC vs. UTA L 33 16 6 17 35.3 0 0 - 4 6 66.7 4 3 7 0 1 0 1 5 -19
+p117
+aVRodney Rogers LAC 04/15/1999 LAC vs. UTA L 11 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 1 1 0 2 5 -3
+p118
+aVTroy Hudson LAC 04/15/1999 LAC vs. UTA L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 4
+p119
+aVTyrone Nesby LAC 04/15/1999 LAC vs. UTA L 37 6 2 8 25.0 1 3 33.3 1 4 25.0 0 3 3 1 4 0 1 4 -15
+p120
+aVEric Piatkowski LAC 04/15/1999 LAC vs. UTA L 34 13 4 10 40.0 1 2 50.0 4 4 100.0 1 1 2 1 0 0 2 3 -24
+p121
+aVLorenzen Wright LAC 04/15/1999 LAC vs. UTA L 25 15 7 10 70.0 0 0 - 1 5 20.0 7 5 12 1 2 0 2 5 14
+p122
+aVBrian Skinner LAC 04/15/1999 LAC vs. UTA L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -4
+p123
+aVTroy Hudson LAC 04/13/1999 LAC vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p124
+aVLamond Murray LAC 04/13/1999 LAC vs. NJN W 26 22 7 11 63.6 2 3 66.7 6 6 100.0 0 4 4 2 0 0 5 3 -9
+p125
+aVEric Piatkowski LAC 04/13/1999 LAC vs. NJN W 33 17 7 12 58.3 3 7 42.9 0 1 0.0 0 4 4 2 2 0 2 3 2
+p126
+aVSherman Douglas LAC 04/13/1999 LAC vs. NJN W 40 18 8 10 80.0 0 1 0.0 2 2 100.0 0 1 1 6 1 0 4 3 25
+p127
+aVMichael Olowokandi LAC 04/13/1999 LAC vs. NJN W 30 6 3 7 42.9 0 0 - 0 0 - 3 8 11 1 0 5 2 2 5
+p128
+aVDarrick Martin LAC 04/13/1999 LAC vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p129
+aVLorenzen Wright LAC 04/13/1999 LAC vs. NJN W 18 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 1 1 0 0 2 3
+p130
+aVRodney Rogers LAC 04/13/1999 LAC vs. NJN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -3
+p131
+aVMaurice Taylor LAC 04/13/1999 LAC vs. NJN W 42 18 9 20 45.0 0 0 - 0 3 0.0 5 7 12 2 1 1 2 5 11
+p132
+aVTyrone Nesby LAC 04/13/1999 LAC vs. NJN W 37 20 7 12 58.3 1 2 50.0 5 6 83.3 1 4 5 3 2 0 2 2 23
+p133
+aVEric Piatkowski LAC 04/11/1999 LAC @ POR W 36 6 3 8 37.5 0 2 0.0 0 0 - 2 3 5 3 2 1 0 2 9
+p134
+aVSherman Douglas LAC 04/11/1999 LAC @ POR W 38 19 6 10 60.0 0 0 - 7 10 70.0 0 3 3 5 0 0 4 2 10
+p135
+aVLorenzen Wright LAC 04/11/1999 LAC @ POR W 10 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 0 0 0 1 3 -5
+p136
+aVMichael Olowokandi LAC 04/11/1999 LAC @ POR W 38 6 3 9 33.3 0 0 - 0 2 0.0 2 5 7 1 0 1 1 2 9
+p137
+aVLamond Murray LAC 04/11/1999 LAC @ POR W 27 14 3 9 33.3 0 0 - 8 9 88.9 1 2 3 1 1 0 0 0 3
+p138
+aVTyrone Nesby LAC 04/11/1999 LAC @ POR W 34 12 4 10 40.0 1 3 33.3 3 6 50.0 2 10 12 1 3 1 2 2 2
+p139
+aVRodney Rogers LAC 04/11/1999 LAC @ POR W 20 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 2 1 2 0 3 -7
+p140
+aVDarrick Martin LAC 04/11/1999 LAC @ POR W 10 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 2 1 0 2 2 -4
+p141
+aVMaurice Taylor LAC 04/11/1999 LAC @ POR W 28 23 8 16 50.0 0 0 - 7 8 87.5 4 5 9 1 0 0 2 5 13
+p142
+aVCharles Smith LAC 04/10/1999 LAC vs. POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 1 1 -6
+p143
+aVDarrick Martin LAC 04/10/1999 LAC vs. POR L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 3 0 -10
+p144
+aVSherman Douglas LAC 04/10/1999 LAC vs. POR L 25 1 0 3 0.0 0 0 - 1 2 50.0 0 3 3 2 0 1 2 2 -2
+p145
+aVBrian Skinner LAC 04/10/1999 LAC vs. POR L 16 2 0 6 0.0 0 0 - 2 2 100.0 2 3 5 0 1 0 6 1 -9
+p146
+aVEric Piatkowski LAC 04/10/1999 LAC vs. POR L 38 14 5 12 41.7 3 6 50.0 1 1 100.0 0 3 3 1 2 0 2 3 -18
+p147
+aVMaurice Taylor LAC 04/10/1999 LAC vs. POR L 22 11 5 9 55.6 0 0 - 1 4 25.0 1 4 5 3 0 2 1 3 3
+p148
+aVLorenzen Wright LAC 04/10/1999 LAC vs. POR L 26 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 1 1 2 3 -33
+p149
+aVRodney Rogers LAC 04/10/1999 LAC vs. POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p150
+aVMichael Olowokandi LAC 04/10/1999 LAC vs. POR L 29 13 5 12 41.7 0 0 - 3 6 50.0 3 9 12 1 1 0 2 4 -4
+p151
+aVLamond Murray LAC 04/10/1999 LAC vs. POR L 19 8 3 6 50.0 2 2 100.0 0 0 - 0 1 1 0 0 0 3 2 -20
+p152
+aVTyrone Nesby LAC 04/10/1999 LAC vs. POR L 35 17 5 12 41.7 2 4 50.0 5 5 100.0 1 6 7 2 1 2 4 2 -10
+p153
+aVTroy Hudson LAC 04/10/1999 LAC vs. POR L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 3 1 -15
+p154
+aVDarrick Martin LAC 04/08/1999 LAC vs. MIN W 10 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 3 0 0 0 1 2
+p155
+aVTroy Hudson LAC 04/08/1999 LAC vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p156
+aVEric Piatkowski LAC 04/08/1999 LAC vs. MIN W 33 11 4 10 40.0 1 4 25.0 2 2 100.0 0 2 2 2 2 0 2 2 11
+p157
+aVTyrone Nesby LAC 04/08/1999 LAC vs. MIN W 28 12 4 8 50.0 0 0 - 4 5 80.0 1 4 5 2 1 0 2 5 1
+p158
+aVSherman Douglas LAC 04/08/1999 LAC vs. MIN W 37 16 7 11 63.6 0 1 0.0 2 4 50.0 1 2 3 4 1 0 3 4 7
+p159
+aVLorenzen Wright LAC 04/08/1999 LAC vs. MIN W 25 8 3 8 37.5 0 0 - 2 2 100.0 3 10 13 1 1 3 2 3 2
+p160
+aVRodney Rogers LAC 04/08/1999 LAC vs. MIN W 12 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 1 1 0 0 1 3
+p161
+aVCharles Smith LAC 04/08/1999 LAC vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 0
+p162
+aVMaurice Taylor LAC 04/08/1999 LAC vs. MIN W 38 20 7 12 58.3 0 0 - 6 7 85.7 4 4 8 2 0 2 2 3 3
+p163
+aVLamond Murray LAC 04/08/1999 LAC vs. MIN W 25 14 5 10 50.0 2 3 66.7 2 2 100.0 0 2 2 0 1 0 2 3 -2
+p164
+aVMichael Olowokandi LAC 04/08/1999 LAC vs. MIN W 28 10 5 11 45.5 0 0 - 0 0 - 3 5 8 0 1 0 1 2 10
+p165
+aVLamond Murray LAC 04/06/1999 LAC vs. PHX L 28 10 5 13 38.5 0 3 0.0 0 0 - 2 2 4 4 1 0 1 1 -1
+p166
+aVBrian Skinner LAC 04/06/1999 LAC vs. PHX L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p167
+aVRodney Rogers LAC 04/06/1999 LAC vs. PHX L 35 7 3 6 50.0 0 0 - 1 2 50.0 2 2 4 0 2 0 1 2 -1
+p168
+aVDarrick Martin LAC 04/06/1999 LAC vs. PHX L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 1 1 -1
+p169
+aVTroy Hudson LAC 04/06/1999 LAC vs. PHX L 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 1
+p170
+aVEric Piatkowski LAC 04/06/1999 LAC vs. PHX L 39 29 10 15 66.7 3 6 50.0 6 6 100.0 1 4 5 0 1 1 2 1 9
+p171
+aVTyrone Nesby LAC 04/06/1999 LAC vs. PHX L 28 6 1 9 11.1 0 2 0.0 4 4 100.0 1 1 2 1 2 0 2 3 -17
+p172
+aVMichael Olowokandi LAC 04/06/1999 LAC vs. PHX L 30 11 5 9 55.6 0 0 - 1 2 50.0 2 2 4 3 0 1 3 4 -15
+p173
+aVSherman Douglas LAC 04/06/1999 LAC vs. PHX L 36 7 3 8 37.5 0 0 - 1 4 25.0 0 4 4 7 2 0 3 3 -4
+p174
+aVLorenzen Wright LAC 04/06/1999 LAC vs. PHX L 22 9 4 7 57.1 0 0 - 1 3 33.3 3 2 5 0 0 0 1 3 5
+p175
+aVMichael Olowokandi LAC 04/04/1999 LAC @ DEN L 38 13 6 12 50.0 0 0 - 1 2 50.0 2 7 9 1 1 0 4 2 -4
+p176
+aVLorenzen Wright LAC 04/04/1999 LAC @ DEN L 35 4 2 9 22.2 0 0 - 0 2 0.0 6 5 11 1 1 2 4 2 -3
+p177
+aVLamond Murray LAC 04/04/1999 LAC @ DEN L 24 15 3 11 27.3 1 3 33.3 8 9 88.9 0 3 3 1 0 0 1 0 6
+p178
+aVBrian Skinner LAC 04/04/1999 LAC @ DEN L 8 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -1
+p179
+aVDarrick Martin LAC 04/04/1999 LAC @ DEN L 18 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 4 1 0 2 2 1
+p180
+aVSherman Douglas LAC 04/04/1999 LAC @ DEN L 27 10 5 8 62.5 0 1 0.0 0 0 - 0 3 3 6 2 0 1 2 0
+p181
+aVTroy Hudson LAC 04/04/1999 LAC @ DEN L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p182
+aVRodney Rogers LAC 04/04/1999 LAC @ DEN L 29 10 5 14 35.7 0 2 0.0 0 0 - 3 3 6 3 0 0 2 3 6
+p183
+aVTyrone Nesby LAC 04/04/1999 LAC @ DEN L 37 21 8 15 53.3 4 6 66.7 1 2 50.0 2 3 5 3 4 1 0 3 -3
+p184
+aVEric Piatkowski LAC 04/04/1999 LAC @ DEN L 18 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -5
+p185
+aVLorenzen Wright LAC 04/03/1999 LAC @ SAS L 25 5 1 5 20.0 0 0 - 3 3 100.0 4 4 8 1 1 0 0 5 -12
+p186
+aVRodney Rogers LAC 04/03/1999 LAC @ SAS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 0
+p187
+aVDarrick Martin LAC 04/03/1999 LAC @ SAS L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 2 -18
+p188
+aVCharles Smith LAC 04/03/1999 LAC @ SAS L 7 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -2
+p189
+aVTyrone Nesby LAC 04/03/1999 LAC @ SAS L 32 4 2 7 28.6 0 2 0.0 0 2 0.0 2 1 3 2 3 0 0 3 -15
+p190
+aVLamond Murray LAC 04/03/1999 LAC @ SAS L 20 7 3 10 30.0 0 1 0.0 1 2 50.0 1 3 4 0 0 0 0 2 -10
+p191
+aVEric Piatkowski LAC 04/03/1999 LAC @ SAS L 17 1 0 4 0.0 0 2 0.0 1 1 100.0 1 3 4 1 0 1 0 1 -11
+p192
+aVBrian Skinner LAC 04/03/1999 LAC @ SAS L 16 11 4 7 57.1 0 0 - 3 4 75.0 2 0 2 0 0 0 1 2 -5
+p193
+aVTroy Hudson LAC 04/03/1999 LAC @ SAS L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 1 3 -1
+p194
+aVMaurice Taylor LAC 04/03/1999 LAC @ SAS L 35 25 10 19 52.6 0 0 - 5 6 83.3 2 3 5 1 1 1 5 4 -10
+p195
+aVMichael Olowokandi LAC 04/03/1999 LAC @ SAS L 31 13 6 12 50.0 0 0 - 1 4 25.0 4 6 10 0 1 0 1 4 -19
+p196
+aVSherman Douglas LAC 04/03/1999 LAC @ SAS L 22 7 2 2 100.0 0 0 - 3 4 75.0 0 1 1 4 2 0 3 2 -2
+p197
+aVTroy Hudson LAC 04/01/1999 LAC @ DAL L 38 11 4 10 40.0 3 5 60.0 0 0 - 1 0 1 7 0 0 1 1 11
+p198
+aVMaurice Taylor LAC 04/01/1999 LAC @ DAL L 32 7 3 10 30.0 0 1 0.0 1 3 33.3 2 0 2 3 0 0 1 3 -20
+p199
+aVEric Piatkowski LAC 04/01/1999 LAC @ DAL L 27 13 5 12 41.7 3 5 60.0 0 0 - 2 0 2 2 0 0 0 1 8
+p200
+aVLamond Murray LAC 04/01/1999 LAC @ DAL L 29 17 6 16 37.5 2 5 40.0 3 4 75.0 0 4 4 1 2 0 3 2 11
+p201
+aVLorenzen Wright LAC 04/01/1999 LAC @ DAL L 23 4 2 4 50.0 0 0 - 0 0 - 4 5 9 0 0 1 2 4 13
+p202
+aVTyrone Nesby LAC 04/01/1999 LAC @ DAL L 17 8 3 5 60.0 1 2 50.0 1 1 100.0 0 1 1 0 1 1 1 2 -16
+p203
+aVRodney Rogers LAC 04/01/1999 LAC @ DAL L 38 12 6 17 35.3 0 2 0.0 0 0 - 5 4 9 3 2 1 0 5 -10
+p204
+aVDarrick Martin LAC 04/01/1999 LAC @ DAL L 10 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 2 -20
+p205
+aVMichael Olowokandi LAC 04/01/1999 LAC @ DAL L 25 10 5 11 45.5 0 0 - 0 0 - 6 2 8 1 0 1 2 1 -22
+p206
+aVMaurice Taylor LAC 03/30/1999 LAC vs. HOU L 35 21 8 16 50.0 0 0 - 5 5 100.0 1 0 1 3 0 1 3 4 3
+p207
+aVLorenzen Wright LAC 03/30/1999 LAC vs. HOU L 27 8 4 5 80.0 0 0 - 0 0 - 2 2 4 0 0 0 2 5 -13
+p208
+aVTroy Hudson LAC 03/30/1999 LAC vs. HOU L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 -3
+p209
+aVEric Piatkowski LAC 03/30/1999 LAC vs. HOU L 24 8 3 11 27.3 1 4 25.0 1 1 100.0 1 1 2 1 0 0 4 2 2
+p210
+aVDarrick Martin LAC 03/30/1999 LAC vs. HOU L 40 19 6 12 50.0 3 4 75.0 4 4 100.0 0 1 1 5 0 0 0 4 -6
+p211
+aVBrian Skinner LAC 03/30/1999 LAC vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p212
+aVLamond Murray LAC 03/30/1999 LAC vs. HOU L 16 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 1 2 0 3 0 -10
+p213
+aVTyrone Nesby LAC 03/30/1999 LAC vs. HOU L 43 24 10 14 71.4 1 3 33.3 3 3 100.0 2 2 4 0 5 0 1 3 -8
+p214
+aVMichael Olowokandi LAC 03/30/1999 LAC vs. HOU L 28 7 2 10 20.0 0 0 - 3 3 100.0 3 7 10 1 1 3 2 5 6
+p215
+aVCharles Smith LAC 03/30/1999 LAC vs. HOU L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p216
+aVRodney Rogers LAC 03/30/1999 LAC vs. HOU L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 4 0 0 0 0 -12
+p217
+aVLamond Murray LAC 03/29/1999 LAC @ DEN L 25 7 2 9 22.2 1 1 100.0 2 2 100.0 2 4 6 0 1 1 2 2 -9
+p218
+aVLorenzen Wright LAC 03/29/1999 LAC @ DEN L 19 4 1 1 100.0 0 0 - 2 6 33.3 2 6 8 2 0 2 1 4 -5
+p219
+aVTyrone Nesby LAC 03/29/1999 LAC @ DEN L 24 6 2 7 28.6 0 1 0.0 2 2 100.0 2 1 3 2 1 1 0 3 -4
+p220
+aVBrian Skinner LAC 03/29/1999 LAC @ DEN L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 2 2 3
+p221
+aVMichael Olowokandi LAC 03/29/1999 LAC @ DEN L 29 7 1 11 9.1 0 0 - 5 6 83.3 1 5 6 0 1 1 4 1 -7
+p222
+aVRodney Rogers LAC 03/29/1999 LAC @ DEN L 21 17 4 7 57.1 0 0 - 9 13 69.2 0 1 1 1 0 0 1 1 -2
+p223
+aVTroy Hudson LAC 03/29/1999 LAC @ DEN L 24 16 6 8 75.0 1 2 50.0 3 4 75.0 0 2 2 3 0 0 0 0 -4
+p224
+aVMaurice Taylor LAC 03/29/1999 LAC @ DEN L 31 10 5 13 38.5 0 0 - 0 2 0.0 2 2 4 2 1 1 3 6 -13
+p225
+aVCharles Smith LAC 03/29/1999 LAC @ DEN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p226
+aVDarrick Martin LAC 03/29/1999 LAC @ DEN L 24 11 2 6 33.3 2 2 100.0 5 6 83.3 1 1 2 3 2 0 2 2 -8
+p227
+aVEric Piatkowski LAC 03/29/1999 LAC @ DEN L 27 10 3 6 50.0 1 2 50.0 3 4 75.0 1 7 8 1 0 2 0 3 -11
+p228
+aVMichael Olowokandi LAC 03/27/1999 LAC vs. UTA W 35 15 6 11 54.5 0 0 - 3 4 75.0 2 11 13 0 3 1 4 1 26
+p229
+aVEric Piatkowski LAC 03/27/1999 LAC vs. UTA W 31 18 2 8 25.0 2 3 66.7 12 13 92.3 1 2 3 0 2 0 1 3 17
+p230
+aVBrian Skinner LAC 03/27/1999 LAC vs. UTA W 23 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 0 0 4 0 2 3
+p231
+aVLamond Murray LAC 03/27/1999 LAC vs. UTA W 24 15 7 13 53.8 0 1 0.0 1 1 100.0 4 3 7 0 1 0 3 3 6
+p232
+aVDarrick Martin LAC 03/27/1999 LAC vs. UTA W 25 5 2 9 22.2 1 3 33.3 0 0 - 0 0 0 4 1 0 1 3 16
+p233
+aVTyrone Nesby LAC 03/27/1999 LAC vs. UTA W 39 16 5 8 62.5 1 2 50.0 5 5 100.0 2 5 7 4 3 0 2 6 29
+p234
+aVKeith Closs LAC 03/27/1999 LAC vs. UTA W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p235
+aVMaurice Taylor LAC 03/27/1999 LAC vs. UTA W 13 12 6 8 75.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 4 11
+p236
+aVLorenzen Wright LAC 03/27/1999 LAC vs. UTA W 23 6 2 9 22.2 0 1 0.0 2 2 100.0 4 4 8 0 1 0 1 5 13
+p237
+aVTroy Hudson LAC 03/27/1999 LAC vs. UTA W 23 8 4 5 80.0 0 0 - 0 0 - 2 1 3 3 1 0 4 1 10
+p238
+aVTyrone Nesby LAC 03/26/1999 LAC @ SEA L 29 14 6 11 54.5 1 1 100.0 1 1 100.0 0 2 2 1 1 0 1 5 0
+p239
+aVCharles Smith LAC 03/26/1999 LAC @ SEA L 13 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 4 -3
+p240
+aVLorenzen Wright LAC 03/26/1999 LAC @ SEA L 13 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -3
+p241
+aVRodney Rogers LAC 03/26/1999 LAC @ SEA L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 3 1 1 2 -3
+p242
+aVDarrick Martin LAC 03/26/1999 LAC @ SEA L 31 15 6 13 46.2 2 5 40.0 1 1 100.0 0 1 1 5 1 0 3 0 -9
+p243
+aVEric Piatkowski LAC 03/26/1999 LAC @ SEA L 25 8 3 7 42.9 1 4 25.0 1 1 100.0 1 3 4 0 0 0 0 2 -2
+p244
+aVMaurice Taylor LAC 03/26/1999 LAC @ SEA L 33 11 4 10 40.0 0 0 - 3 4 75.0 1 1 2 2 0 1 1 6 2
+p245
+aVTroy Hudson LAC 03/26/1999 LAC @ SEA L 17 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 3 0 0 4 6 3
+p246
+aVLamond Murray LAC 03/26/1999 LAC @ SEA L 29 15 5 12 41.7 1 5 20.0 4 4 100.0 1 4 5 2 1 0 4 1 -7
+p247
+aVMichael Olowokandi LAC 03/26/1999 LAC @ SEA L 39 16 8 12 66.7 0 0 - 0 1 0.0 6 7 13 2 0 1 5 3 -8
+p248
+aVMaurice Taylor LAC 03/24/1999 LAC vs. GSW L 39 23 10 21 47.6 0 0 - 3 5 60.0 1 6 7 1 0 0 2 4 -8
+p249
+aVEric Piatkowski LAC 03/24/1999 LAC vs. GSW L 15 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -2
+p250
+aVMichael Olowokandi LAC 03/24/1999 LAC vs. GSW L 32 13 5 8 62.5 0 0 - 3 6 50.0 2 7 9 0 1 3 0 4 -6
+p251
+aVCharles Smith LAC 03/24/1999 LAC vs. GSW L 18 6 2 4 50.0 0 2 0.0 2 5 40.0 0 2 2 0 1 1 1 2 -2
+p252
+aVLamond Murray LAC 03/24/1999 LAC vs. GSW L 22 10 5 12 41.7 0 2 0.0 0 2 0.0 1 2 3 1 2 0 3 1 -10
+p253
+aVLorenzen Wright LAC 03/24/1999 LAC vs. GSW L 16 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -6
+p254
+aVRodney Rogers LAC 03/24/1999 LAC vs. GSW L 23 8 2 10 20.0 0 1 0.0 4 4 100.0 3 0 3 1 0 0 1 1 -10
+p255
+aVDarrick Martin LAC 03/24/1999 LAC vs. GSW L 43 4 2 7 28.6 0 4 0.0 0 0 - 0 4 4 7 1 0 4 1 -8
+p256
+aVTroy Hudson LAC 03/24/1999 LAC vs. GSW L 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -4
+p257
+aVTyrone Nesby LAC 03/24/1999 LAC vs. GSW L 28 10 4 8 50.0 0 1 0.0 2 2 100.0 0 2 2 1 3 2 2 3 -4
+p258
+aVLorenzen Wright LAC 03/21/1999 LAC @ MIN W 31 14 5 8 62.5 0 0 - 4 5 80.0 4 5 9 0 1 0 1 3 14
+p259
+aVRodney Rogers LAC 03/21/1999 LAC @ MIN W 32 14 6 10 60.0 0 2 0.0 2 2 100.0 6 3 9 7 2 0 0 6 16
+p260
+aVEric Piatkowski LAC 03/21/1999 LAC @ MIN W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -3
+p261
+aVMichael Olowokandi LAC 03/21/1999 LAC @ MIN W 25 6 3 9 33.3 0 0 - 0 0 - 4 12 16 0 1 1 3 2 6
+p262
+aVMaurice Taylor LAC 03/21/1999 LAC @ MIN W 36 20 7 15 46.7 0 0 - 6 6 100.0 0 2 2 1 0 1 3 3 19
+p263
+aVDarrick Martin LAC 03/21/1999 LAC @ MIN W 48 22 7 16 43.8 3 7 42.9 5 6 83.3 0 5 5 7 1 1 6 3 17
+p264
+aVLamond Murray LAC 03/21/1999 LAC @ MIN W 32 19 6 14 42.9 1 3 33.3 6 6 100.0 3 3 6 6 2 1 1 0 18
+p265
+aVTyrone Nesby LAC 03/21/1999 LAC @ MIN W 20 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 3 2 -7
+p266
+aVBrian Skinner LAC 03/21/1999 LAC @ MIN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p267
+aVCharles Smith LAC 03/21/1999 LAC @ MIN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p268
+aVCharles Smith LAC 03/19/1999 LAC @ TOR L 17 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 4 0 0 1 2 -3
+p269
+aVSherman Douglas LAC 03/19/1999 LAC @ TOR L 35 2 0 4 0.0 0 2 0.0 2 2 100.0 0 1 1 6 3 0 1 2 -18
+p270
+aVMichael Olowokandi LAC 03/19/1999 LAC @ TOR L 27 1 0 6 0.0 0 0 - 1 2 50.0 2 1 3 0 1 3 1 1 -4
+p271
+aVLorenzen Wright LAC 03/19/1999 LAC @ TOR L 23 7 3 5 60.0 0 0 - 1 2 50.0 4 5 9 1 1 0 1 3 -3
+p272
+aVDarrick Martin LAC 03/19/1999 LAC @ TOR L 13 3 1 4 25.0 1 1 100.0 0 1 0.0 0 1 1 1 1 0 1 0 7
+p273
+aVMaurice Taylor LAC 03/19/1999 LAC @ TOR L 33 14 5 11 45.5 0 0 - 4 5 80.0 2 1 3 0 0 0 7 5 -16
+p274
+aVTyrone Nesby LAC 03/19/1999 LAC @ TOR L 12 7 1 1 100.0 1 1 100.0 4 4 100.0 0 0 0 3 0 0 1 4 -1
+p275
+aVRodney Rogers LAC 03/19/1999 LAC @ TOR L 24 15 5 10 50.0 1 1 100.0 4 5 80.0 3 4 7 1 1 0 1 2 -6
+p276
+aVEric Piatkowski LAC 03/19/1999 LAC @ TOR L 26 15 5 12 41.7 3 3 100.0 2 2 100.0 1 3 4 2 1 0 1 1 -10
+p277
+aVLamond Murray LAC 03/19/1999 LAC @ TOR L 30 11 4 12 33.3 1 4 25.0 2 2 100.0 2 3 5 1 1 2 2 2 -1
+p278
+aVDarrick Martin LAC 03/17/1999 LAC @ BOS L 33 13 4 10 40.0 0 2 0.0 5 6 83.3 0 4 4 2 2 0 1 2 -20
+p279
+aVTyrone Nesby LAC 03/17/1999 LAC @ BOS L 28 5 1 8 12.5 1 3 33.3 2 2 100.0 0 1 1 1 2 0 1 1 -21
+p280
+aVCharles Smith LAC 03/17/1999 LAC @ BOS L 16 2 1 6 16.7 0 1 0.0 0 2 0.0 2 1 3 0 2 2 0 2 -6
+p281
+aVEric Piatkowski LAC 03/17/1999 LAC @ BOS L 23 2 1 7 14.3 0 1 0.0 0 0 - 1 0 1 2 1 0 1 1 -17
+p282
+aVMaurice Taylor LAC 03/17/1999 LAC @ BOS L 36 14 6 12 50.0 0 0 - 2 4 50.0 1 0 1 1 0 1 2 3 -16
+p283
+aVPooh Richardson LAC 03/17/1999 LAC @ BOS L 15 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 3 0 0 0 0 -14
+p284
+aVMichael Olowokandi LAC 03/17/1999 LAC @ BOS L 26 17 6 15 40.0 0 0 - 5 6 83.3 4 4 8 0 0 2 1 3 -23
+p285
+aVRodney Rogers LAC 03/17/1999 LAC @ BOS L 18 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 0 3 2 -21
+p286
+aVKeith Closs LAC 03/17/1999 LAC @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p287
+aVLamond Murray LAC 03/17/1999 LAC @ BOS L 20 11 4 11 36.4 1 3 33.3 2 3 66.7 3 2 5 1 1 0 1 2 -13
+p288
+aVLorenzen Wright LAC 03/17/1999 LAC @ BOS L 24 13 6 10 60.0 0 0 - 1 1 100.0 6 5 11 0 0 0 1 1 -17
+p289
+aVTyrone Nesby LAC 03/16/1999 LAC @ NYK L 19 7 2 5 40.0 1 2 50.0 2 2 100.0 1 1 2 4 0 0 2 3 3
+p290
+aVMaurice Taylor LAC 03/16/1999 LAC @ NYK L 35 18 4 13 30.8 0 0 - 10 11 90.9 3 4 7 3 0 0 2 3 -17
+p291
+aVEric Piatkowski LAC 03/16/1999 LAC @ NYK L 21 2 0 3 0.0 0 2 0.0 2 3 66.7 0 2 2 3 1 0 0 1 -1
+p292
+aVLamond Murray LAC 03/16/1999 LAC @ NYK L 31 18 7 10 70.0 2 2 100.0 2 2 100.0 0 2 2 0 1 0 2 4 -11
+p293
+aVLorenzen Wright LAC 03/16/1999 LAC @ NYK L 25 7 2 5 40.0 0 0 - 3 5 60.0 1 1 2 2 1 0 1 1 -22
+p294
+aVCharles Smith LAC 03/16/1999 LAC @ NYK L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 3 -24
+p295
+aVDarrick Martin LAC 03/16/1999 LAC @ NYK L 18 6 2 4 50.0 1 3 33.3 1 2 50.0 0 1 1 0 1 0 2 3 -22
+p296
+aVRodney Rogers LAC 03/16/1999 LAC @ NYK L 17 6 2 5 40.0 2 2 100.0 0 2 0.0 0 1 1 1 3 1 3 4 -18
+p297
+aVPooh Richardson LAC 03/16/1999 LAC @ NYK L 30 10 5 8 62.5 0 1 0.0 0 0 - 0 2 2 5 1 0 3 2 -2
+p298
+aVMichael Olowokandi LAC 03/16/1999 LAC @ NYK L 27 12 5 10 50.0 0 0 - 2 6 33.3 0 5 5 1 0 0 3 3 -11
+p299
+aVKeith Closs LAC 03/16/1999 LAC @ NYK L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 1 1 0 0 5
+p300
+aVLamond Murray LAC 03/14/1999 LAC @ SEA L 25 10 5 12 41.7 0 0 - 0 0 - 2 3 5 2 0 0 2 3 -4
+p301
+aVPooh Richardson LAC 03/14/1999 LAC @ SEA L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -9
+p302
+aVMaurice Taylor LAC 03/14/1999 LAC @ SEA L 28 11 4 10 40.0 0 0 - 3 5 60.0 2 2 4 1 1 0 0 5 -9
+p303
+aVLorenzen Wright LAC 03/14/1999 LAC @ SEA L 18 3 1 1 100.0 0 0 - 1 2 50.0 2 5 7 0 1 0 1 2 -17
+p304
+aVMichael Olowokandi LAC 03/14/1999 LAC @ SEA L 31 12 6 9 66.7 0 0 - 0 1 0.0 1 6 7 0 0 1 2 2 -6
+p305
+aVDarrick Martin LAC 03/14/1999 LAC @ SEA L 40 4 1 10 10.0 0 5 0.0 2 2 100.0 0 0 0 10 2 0 3 3 -10
+p306
+aVEric Piatkowski LAC 03/14/1999 LAC @ SEA L 29 21 7 11 63.6 3 4 75.0 4 4 100.0 2 2 4 1 1 0 2 1 -15
+p307
+aVCharles Smith LAC 03/14/1999 LAC @ SEA L 25 12 5 10 50.0 2 5 40.0 0 0 - 0 2 2 0 1 0 3 1 -14
+p308
+aVTyrone Nesby LAC 03/14/1999 LAC @ SEA L 17 8 3 6 50.0 0 1 0.0 2 2 100.0 1 1 2 0 3 0 1 2 -5
+p309
+aVRodney Rogers LAC 03/14/1999 LAC @ SEA L 19 6 2 5 40.0 0 2 0.0 2 2 100.0 0 5 5 2 0 1 4 3 -6
+p310
+aVCharles Smith LAC 03/13/1999 LAC vs. POR L 21 6 3 9 33.3 0 3 0.0 0 0 - 2 2 4 2 1 3 0 2 14
+p311
+aVLorenzen Wright LAC 03/13/1999 LAC vs. POR L 37 10 2 5 40.0 0 0 - 6 6 100.0 3 15 18 0 0 1 2 5 -2
+p312
+aVDarrick Martin LAC 03/13/1999 LAC vs. POR L 41 14 6 20 30.0 0 7 0.0 2 2 100.0 0 2 2 5 6 0 1 6 4
+p313
+aVTyrone Nesby LAC 03/13/1999 LAC vs. POR L 26 8 3 10 30.0 0 3 0.0 2 2 100.0 1 2 3 2 0 2 2 5 6
+p314
+aVKeith Closs LAC 03/13/1999 LAC vs. POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p315
+aVLamond Murray LAC 03/13/1999 LAC vs. POR L 34 18 8 16 50.0 1 4 25.0 1 1 100.0 1 1 2 2 1 1 3 3 -23
+p316
+aVMaurice Taylor LAC 03/13/1999 LAC vs. POR L 39 15 7 18 38.9 0 0 - 1 1 100.0 5 3 8 3 0 0 2 4 -4
+p317
+aVPooh Richardson LAC 03/13/1999 LAC vs. POR L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -14
+p318
+aVRodney Rogers LAC 03/13/1999 LAC vs. POR L 18 7 3 4 75.0 1 1 100.0 0 0 - 1 3 4 2 1 1 1 4 -12
+p319
+aVMichael Olowokandi LAC 03/13/1999 LAC vs. POR L 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 3 3 -11
+p320
+aVEric Piatkowski LAC 03/13/1999 LAC vs. POR L 22 14 6 9 66.7 2 3 66.7 0 0 - 2 0 2 0 1 0 0 2 -8
+p321
+aVLorenzen Wright LAC 03/11/1999 LAC vs. SAC W 27 12 5 9 55.6 0 0 - 2 2 100.0 6 19 25 1 0 1 1 5 9
+p322
+aVDarrick Martin LAC 03/11/1999 LAC vs. SAC W 41 18 8 15 53.3 2 5 40.0 0 0 - 1 2 3 11 2 0 1 1 10
+p323
+aVLamond Murray LAC 03/11/1999 LAC vs. SAC W 27 15 7 15 46.7 0 1 0.0 1 2 50.0 3 2 5 0 0 1 3 3 12
+p324
+aVKeith Closs LAC 03/11/1999 LAC vs. SAC W 6 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 1 1 0 0 -1
+p325
+aVPooh Richardson LAC 03/11/1999 LAC vs. SAC W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 4
+p326
+aVCharles Smith LAC 03/11/1999 LAC vs. SAC W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 2 1 3 4
+p327
+aVMichael Olowokandi LAC 03/11/1999 LAC vs. SAC W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -1
+p328
+aVEric Piatkowski LAC 03/11/1999 LAC vs. SAC W 29 16 6 11 54.5 4 7 57.1 0 0 - 1 1 2 1 1 0 1 1 16
+p329
+aVTyrone Nesby LAC 03/11/1999 LAC vs. SAC W 26 13 4 7 57.1 1 2 50.0 4 4 100.0 1 3 4 1 0 0 1 2 -4
+p330
+aVMaurice Taylor LAC 03/11/1999 LAC vs. SAC W 25 13 5 15 33.3 0 0 - 3 4 75.0 0 3 3 1 0 0 3 4 18
+p331
+aVRodney Rogers LAC 03/11/1999 LAC vs. SAC W 31 11 4 12 33.3 1 2 50.0 2 6 33.3 4 4 8 6 1 1 1 3 3
+p332
+aVEric Piatkowski LAC 03/10/1999 LAC @ LAL L 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -7
+p333
+aVTyrone Nesby LAC 03/10/1999 LAC @ LAL L 24 9 3 11 27.3 1 3 33.3 2 2 100.0 2 2 4 4 3 1 1 3 -5
+p334
+aVDarrick Martin LAC 03/10/1999 LAC @ LAL L 38 11 4 10 40.0 1 2 50.0 2 2 100.0 0 0 0 2 3 1 1 0 -22
+p335
+aVLorenzen Wright LAC 03/10/1999 LAC @ LAL L 18 0 0 2 0.0 0 0 - 0 0 - 1 5 6 2 0 0 2 5 -2
+p336
+aVCharles Smith LAC 03/10/1999 LAC @ LAL L 30 8 4 9 44.4 0 3 0.0 0 2 0.0 1 0 1 1 1 0 1 3 -7
+p337
+aVKeith Closs LAC 03/10/1999 LAC @ LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 3 -6
+p338
+aVRodney Rogers LAC 03/10/1999 LAC @ LAL L 22 8 1 4 25.0 0 0 - 6 6 100.0 1 4 5 0 2 1 2 3 -7
+p339
+aVMichael Olowokandi LAC 03/10/1999 LAC @ LAL L 23 1 0 4 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 -8
+p340
+aVPooh Richardson LAC 03/10/1999 LAC @ LAL L 10 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 3
+p341
+aVLamond Murray LAC 03/10/1999 LAC @ LAL L 24 21 8 15 53.3 2 3 66.7 3 3 100.0 2 3 5 0 1 2 4 3 -14
+p342
+aVMaurice Taylor LAC 03/10/1999 LAC @ LAL L 35 15 3 12 25.0 0 0 - 9 12 75.0 4 2 6 1 0 1 3 4 -20
+p343
+aVRodney Rogers LAC 03/09/1999 LAC vs. LAL L 29 9 4 9 44.4 1 1 100.0 0 4 0.0 4 5 9 5 1 1 1 4 5
+p344
+aVLorenzen Wright LAC 03/09/1999 LAC vs. LAL L 28 11 4 7 57.1 0 0 - 3 5 60.0 5 5 10 2 2 1 2 6 4
+p345
+aVDarrick Martin LAC 03/09/1999 LAC vs. LAL L 22 16 5 8 62.5 2 3 66.7 4 5 80.0 0 0 0 2 0 0 1 3 1
+p346
+aVKeith Closs LAC 03/09/1999 LAC vs. LAL L 13 9 4 6 66.7 0 0 - 1 2 50.0 1 2 3 0 0 0 0 6 -2
+p347
+aVMaurice Taylor LAC 03/09/1999 LAC vs. LAL L 35 24 9 14 64.3 0 0 - 6 7 85.7 0 2 2 1 1 0 2 5 -5
+p348
+aVSherman Douglas LAC 03/09/1999 LAC vs. LAL L 26 4 2 6 33.3 0 0 - 0 2 0.0 0 0 0 2 1 0 2 0 -5
+p349
+aVBrian Skinner LAC 03/09/1999 LAC vs. LAL L 1 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -3
+p350
+aVTyrone Nesby LAC 03/09/1999 LAC vs. LAL L 38 16 5 10 50.0 1 1 100.0 5 9 55.6 2 2 4 2 1 1 1 3 -9
+p351
+aVJames Robinson LAC 03/09/1999 LAC vs. LAL L 3 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p352
+aVLamond Murray LAC 03/09/1999 LAC vs. LAL L 25 7 2 11 18.2 0 0 - 3 3 100.0 2 0 2 2 2 1 0 6 -1
+p353
+aVCharles Smith LAC 03/09/1999 LAC vs. LAL L 20 3 1 4 25.0 0 2 0.0 1 2 50.0 0 1 1 0 1 2 2 2 -4
+p354
+aVRodney Rogers LAC 03/06/1999 LAC @ SAS L 22 5 2 8 25.0 0 1 0.0 1 2 50.0 0 1 1 0 2 0 2 3 -7
+p355
+aVLamond Murray LAC 03/06/1999 LAC @ SAS L 30 10 3 12 25.0 0 2 0.0 4 4 100.0 1 2 3 0 0 0 2 4 -15
+p356
+aVKeith Closs LAC 03/06/1999 LAC @ SAS L 12 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -2
+p357
+aVMaurice Taylor LAC 03/06/1999 LAC @ SAS L 27 10 4 12 33.3 0 0 - 2 2 100.0 1 1 2 3 0 0 1 4 -29
+p358
+aVBrian Skinner LAC 03/06/1999 LAC @ SAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p359
+aVEric Piatkowski LAC 03/06/1999 LAC @ SAS L 23 12 4 14 28.6 2 5 40.0 2 2 100.0 1 4 5 2 1 0 0 2 -16
+p360
+aVSherman Douglas LAC 03/06/1999 LAC @ SAS L 27 9 4 6 66.7 0 0 - 1 1 100.0 0 1 1 7 0 0 1 2 -22
+p361
+aVLorenzen Wright LAC 03/06/1999 LAC @ SAS L 28 12 5 11 45.5 0 0 - 2 2 100.0 4 4 8 1 1 0 0 4 -14
+p362
+aVCharles Smith LAC 03/06/1999 LAC @ SAS L 25 7 3 6 50.0 1 2 50.0 0 0 - 1 0 1 1 1 0 1 2 -13
+p363
+aVDarrick Martin LAC 03/06/1999 LAC @ SAS L 21 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 5 0 0 4 2 -7
+p364
+aVTyrone Nesby LAC 03/06/1999 LAC @ SAS L 18 13 6 8 75.0 0 1 0.0 1 1 100.0 0 2 2 0 1 0 0 2 -14
+p365
+aVEric Piatkowski LAC 03/04/1999 LAC @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 4
+p366
+aVLamond Murray LAC 03/04/1999 LAC @ HOU L 24 11 5 13 38.5 1 1 100.0 0 0 - 1 0 1 1 2 1 1 1 -10
+p367
+aVBrian Skinner LAC 03/04/1999 LAC @ HOU L 13 5 2 5 40.0 0 0 - 1 1 100.0 2 0 2 0 0 0 0 0 -4
+p368
+aVLorenzen Wright LAC 03/04/1999 LAC @ HOU L 30 2 1 4 25.0 0 0 - 0 0 - 3 10 13 1 2 4 1 3 -13
+p369
+aVJames Robinson LAC 03/04/1999 LAC @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -9
+p370
+aVCharles Smith LAC 03/04/1999 LAC @ HOU L 37 16 6 12 50.0 2 4 50.0 2 3 66.7 1 0 1 3 4 1 3 1 -14
+p371
+aVSherman Douglas LAC 03/04/1999 LAC @ HOU L 27 2 1 5 20.0 0 1 0.0 0 0 - 2 3 5 5 0 0 3 2 -13
+p372
+aVTyrone Nesby LAC 03/04/1999 LAC @ HOU L 24 11 4 14 28.6 1 5 20.0 2 3 66.7 0 2 2 0 1 1 1 3 -9
+p373
+aVDarrick Martin LAC 03/04/1999 LAC @ HOU L 21 3 1 7 14.3 0 4 0.0 1 2 50.0 0 1 1 5 1 0 1 1 -6
+p374
+aVKeith Closs LAC 03/04/1999 LAC @ HOU L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 1 0
+p375
+aVMaurice Taylor LAC 03/04/1999 LAC @ HOU L 26 14 6 8 75.0 0 0 - 2 2 100.0 0 2 2 3 0 0 2 0 -16
+p376
+aVRodney Rogers LAC 03/04/1999 LAC @ HOU L 20 9 4 8 50.0 1 2 50.0 0 0 - 1 2 3 1 0 0 1 4 -5
+p377
+aVEric Piatkowski LAC 03/02/1999 LAC @ DAL L 14 5 2 2 100.0 0 0 - 1 1 100.0 0 3 3 0 0 0 0 2 -8
+p378
+aVRodney Rogers LAC 03/02/1999 LAC @ DAL L 31 13 6 14 42.9 1 3 33.3 0 0 - 2 5 7 3 3 1 0 3 3
+p379
+aVCharles Smith LAC 03/02/1999 LAC @ DAL L 10 5 2 8 25.0 1 3 33.3 0 0 - 0 2 2 0 1 0 1 1 -4
+p380
+aVBrian Skinner LAC 03/02/1999 LAC @ DAL L 5 5 2 3 66.7 0 0 - 1 1 100.0 2 0 2 0 0 0 0 1 1
+p381
+aVJames Robinson LAC 03/02/1999 LAC @ DAL L 19 12 4 8 50.0 2 2 100.0 2 2 100.0 0 0 0 3 0 0 2 3 -2
+p382
+aVDarrick Martin LAC 03/02/1999 LAC @ DAL L 22 14 5 8 62.5 0 1 0.0 4 5 80.0 0 0 0 1 0 0 1 2 1
+p383
+aVLamond Murray LAC 03/02/1999 LAC @ DAL L 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -15
+p384
+aVTyrone Nesby LAC 03/02/1999 LAC @ DAL L 33 13 4 8 50.0 1 3 33.3 4 4 100.0 1 3 4 1 1 1 1 3 2
+p385
+aVLorenzen Wright LAC 03/02/1999 LAC @ DAL L 21 4 2 7 28.6 0 0 - 0 0 - 4 3 7 2 0 1 2 3 -24
+p386
+aVMaurice Taylor LAC 03/02/1999 LAC @ DAL L 39 18 5 17 29.4 0 1 0.0 8 9 88.9 9 5 14 4 0 0 3 3 -6
+p387
+aVSherman Douglas LAC 03/02/1999 LAC @ DAL L 30 6 3 8 37.5 0 0 - 0 0 - 0 2 2 5 0 0 0 0 -13
+p388
+aVTyrone Nesby LAC 02/27/1999 LAC vs. ATL L 27 17 7 15 46.7 1 5 20.0 2 2 100.0 2 0 2 1 0 2 0 2 -8
+p389
+aVSherman Douglas LAC 02/27/1999 LAC vs. ATL L 12 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -9
+p390
+aVLorenzen Wright LAC 02/27/1999 LAC vs. ATL L 27 2 0 4 0.0 0 0 - 2 2 100.0 3 5 8 2 0 0 3 3 -19
+p391
+aVStojko Vrankovic LAC 02/27/1999 LAC vs. ATL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p392
+aVJames Robinson LAC 02/27/1999 LAC vs. ATL L 28 12 5 10 50.0 0 3 0.0 2 4 50.0 3 0 3 3 2 0 2 2 -10
+p393
+aVRodney Rogers LAC 02/27/1999 LAC vs. ATL L 30 9 4 8 50.0 0 1 0.0 1 2 50.0 1 3 4 1 1 0 0 5 -28
+p394
+aVDarrick Martin LAC 02/27/1999 LAC vs. ATL L 31 5 2 8 25.0 1 1 100.0 0 0 - 0 1 1 4 0 0 2 4 -12
+p395
+aVEric Piatkowski LAC 02/27/1999 LAC vs. ATL L 20 6 2 8 25.0 0 3 0.0 2 2 100.0 2 2 4 0 1 0 1 0 -19
+p396
+aVLamond Murray LAC 02/27/1999 LAC vs. ATL L 27 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 0 0 0 4 3 -29
+p397
+aVBrian Skinner LAC 02/27/1999 LAC vs. ATL L 16 5 1 3 33.3 0 0 - 3 4 75.0 1 2 3 0 0 0 2 1 -3
+p398
+aVKeith Closs LAC 02/27/1999 LAC vs. ATL L 16 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 0 0 0 0 1 -5
+p399
+aVPooh Richardson LAC 02/26/1999 LAC @ LAL L 14 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 3 1 0 2 1 7
+p400
+aVDarrick Martin LAC 02/26/1999 LAC @ LAL L 20 12 5 10 50.0 1 2 50.0 1 1 100.0 0 3 3 2 0 1 0 3 2
+p401
+aVSherman Douglas LAC 02/26/1999 LAC @ LAL L 28 9 2 10 20.0 0 0 - 5 5 100.0 0 0 0 1 4 0 4 1 -18
+p402
+aVEric Piatkowski LAC 02/26/1999 LAC @ LAL L 22 10 3 7 42.9 0 1 0.0 4 5 80.0 1 3 4 0 1 0 1 3 -14
+p403
+aVLamond Murray LAC 02/26/1999 LAC @ LAL L 33 7 2 18 11.1 0 1 0.0 3 6 50.0 5 2 7 1 4 0 2 2 -29
+p404
+aVMichael Olowokandi LAC 02/26/1999 LAC @ LAL L 19 9 3 9 33.3 0 0 - 3 6 50.0 6 6 12 0 1 0 1 5 -3
+p405
+aVJames Robinson LAC 02/26/1999 LAC @ LAL L 26 4 1 9 11.1 0 4 0.0 2 4 50.0 1 2 3 3 2 1 1 2 -2
+p406
+aVTyrone Nesby LAC 02/26/1999 LAC @ LAL L 17 12 5 7 71.4 2 2 100.0 0 0 - 2 0 2 0 1 0 0 5 1
+p407
+aVRodney Rogers LAC 02/26/1999 LAC @ LAL L 27 11 3 6 50.0 0 0 - 5 6 83.3 4 4 8 1 1 1 5 6 -9
+p408
+aVLorenzen Wright LAC 02/26/1999 LAC @ LAL L 35 7 2 10 20.0 0 0 - 3 3 100.0 3 5 8 2 1 0 2 5 -15
+p409
+aVEric Piatkowski LAC 02/25/1999 LAC vs. LAL L 23 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 2 2 0 1 1 -8
+p410
+aVSherman Douglas LAC 02/25/1999 LAC vs. LAL L 28 11 5 8 62.5 0 0 - 1 2 50.0 1 0 1 6 1 0 1 0 -17
+p411
+aVMaurice Taylor LAC 02/25/1999 LAC vs. LAL L 29 20 10 13 76.9 0 0 - 0 0 - 1 2 3 0 0 1 2 2 -7
+p412
+aVMichael Olowokandi LAC 02/25/1999 LAC vs. LAL L 29 12 5 10 50.0 0 0 - 2 3 66.7 1 5 6 1 0 1 2 4 -12
+p413
+aVLamond Murray LAC 02/25/1999 LAC vs. LAL L 36 12 5 14 35.7 2 2 100.0 0 0 - 1 1 2 4 3 1 1 2 -26
+p414
+aVJames Robinson LAC 02/25/1999 LAC vs. LAL L 13 10 4 5 80.0 1 2 50.0 1 2 50.0 2 1 3 1 2 0 2 1 3
+p415
+aVLorenzen Wright LAC 02/25/1999 LAC vs. LAL L 22 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 3 0 0 0 5 -7
+p416
+aVKeith Closs LAC 02/25/1999 LAC vs. LAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p417
+aVRodney Rogers LAC 02/25/1999 LAC vs. LAL L 24 12 5 6 83.3 2 3 66.7 0 0 - 2 4 6 0 0 0 3 2 -10
+p418
+aVDarrick Martin LAC 02/25/1999 LAC vs. LAL L 20 10 3 10 30.0 1 5 20.0 3 3 100.0 1 1 2 2 0 0 2 3 2
+p419
+aVTyrone Nesby LAC 02/25/1999 LAC vs. LAL L 11 6 1 3 33.3 0 1 0.0 4 4 100.0 2 0 2 1 0 0 0 1 3
+p420
+aVEric Piatkowski LAC 02/23/1999 LAC vs. GSW L 14 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 0 2 -3
+p421
+aVSherman Douglas LAC 02/23/1999 LAC vs. GSW L 23 8 2 2 100.0 0 0 - 4 4 100.0 0 0 0 2 1 0 1 2 -10
+p422
+aVRodney Rogers LAC 02/23/1999 LAC vs. GSW L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 2 0 2 1 -3
+p423
+aVLamond Murray LAC 02/23/1999 LAC vs. GSW L 44 30 12 22 54.5 0 0 - 6 9 66.7 3 5 8 0 1 0 3 2 3
+p424
+aVLorenzen Wright LAC 02/23/1999 LAC vs. GSW L 22 4 2 6 33.3 0 0 - 0 1 0.0 3 0 3 0 0 0 2 3 -9
+p425
+aVMichael Olowokandi LAC 02/23/1999 LAC vs. GSW L 26 4 2 4 50.0 0 0 - 0 1 0.0 1 3 4 1 0 3 2 1 4
+p426
+aVTyrone Nesby LAC 02/23/1999 LAC vs. GSW L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p427
+aVMaurice Taylor LAC 02/23/1999 LAC vs. GSW L 38 23 11 22 50.0 0 0 - 1 1 100.0 2 9 11 1 1 0 1 5 -3
+p428
+aVDarrick Martin LAC 02/23/1999 LAC vs. GSW L 25 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 4 1 0 2 1 5
+p429
+aVJames Robinson LAC 02/23/1999 LAC vs. GSW L 28 8 4 9 44.4 0 0 - 0 0 - 1 2 3 2 1 0 1 3 2
+p430
+aVLorenzen Wright LAC 02/22/1999 LAC @ UTA L 26 9 3 9 33.3 0 0 - 3 3 100.0 5 6 11 0 0 0 0 3 2
+p431
+aVKeith Closs LAC 02/22/1999 LAC @ UTA L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 1
+p432
+aVLamond Murray LAC 02/22/1999 LAC @ UTA L 27 12 2 9 22.2 0 1 0.0 8 8 100.0 1 6 7 1 1 1 3 2 -21
+p433
+aVSherman Douglas LAC 02/22/1999 LAC @ UTA L 10 0 0 3 0.0 0 0 - 0 4 0.0 1 1 2 2 0 0 3 1 2
+p434
+aVTyrone Nesby LAC 02/22/1999 LAC @ UTA L 11 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 3 2 0 0 5 -6
+p435
+aVDarrick Martin LAC 02/22/1999 LAC @ UTA L 29 9 3 8 37.5 1 3 33.3 2 3 66.7 0 0 0 4 3 0 4 3 -17
+p436
+aVPooh Richardson LAC 02/22/1999 LAC @ UTA L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 0
+p437
+aVMichael Olowokandi LAC 02/22/1999 LAC @ UTA L 27 6 3 8 37.5 0 0 - 0 2 0.0 2 4 6 0 0 1 0 4 -22
+p438
+aVEric Piatkowski LAC 02/22/1999 LAC @ UTA L 15 5 2 7 28.6 0 1 0.0 1 1 100.0 0 1 1 1 0 0 3 0 -1
+p439
+aVRodney Rogers LAC 02/22/1999 LAC @ UTA L 25 7 2 5 40.0 1 2 50.0 2 4 50.0 0 3 3 2 1 1 0 3 -3
+p440
+aVMaurice Taylor LAC 02/22/1999 LAC @ UTA L 27 17 6 14 42.9 0 0 - 5 5 100.0 3 4 7 2 0 0 3 3 -4
+p441
+aVJames Robinson LAC 02/22/1999 LAC @ UTA L 31 17 7 10 70.0 1 2 50.0 2 3 66.7 1 0 1 2 0 0 1 3 -6
+p442
+aVLorenzen Wright LAC 02/20/1999 LAC vs. DAL L 17 8 3 6 50.0 0 0 - 2 2 100.0 0 5 5 1 1 1 2 4 7
+p443
+aVJames Robinson LAC 02/20/1999 LAC vs. DAL L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p444
+aVDarrick Martin LAC 02/20/1999 LAC vs. DAL L 34 13 6 11 54.5 1 5 20.0 0 3 0.0 0 4 4 10 1 0 2 4 -21
+p445
+aVLamond Murray LAC 02/20/1999 LAC vs. DAL L 23 6 2 8 25.0 0 0 - 2 2 100.0 1 0 1 1 1 1 0 2 -10
+p446
+aVEric Piatkowski LAC 02/20/1999 LAC vs. DAL L 28 16 6 14 42.9 2 5 40.0 2 2 100.0 0 1 1 0 0 0 0 2 -1
+p447
+aVRodney Rogers LAC 02/20/1999 LAC vs. DAL L 27 13 5 7 71.4 0 0 - 3 4 75.0 2 2 4 0 1 1 2 5 -17
+p448
+aVMaurice Taylor LAC 02/20/1999 LAC vs. DAL L 34 11 5 10 50.0 0 0 - 1 3 33.3 1 3 4 0 0 1 2 3 -25
+p449
+aVKeith Closs LAC 02/20/1999 LAC vs. DAL L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 3
+p450
+aVMichael Olowokandi LAC 02/20/1999 LAC vs. DAL L 35 8 4 13 30.8 0 0 - 0 1 0.0 2 9 11 0 1 1 1 1 -14
+p451
+aVTyrone Nesby LAC 02/20/1999 LAC vs. DAL L 24 7 3 9 33.3 1 2 50.0 0 1 0.0 1 4 5 1 1 1 1 3 -1
+p452
+aVPooh Richardson LAC 02/20/1999 LAC vs. DAL L 14 4 2 3 66.7 0 0 - 0 0 - 1 4 5 6 0 0 2 0 6
+p453
+aVLorenzen Wright LAC 02/16/1999 LAC vs. VAN L 31 15 6 8 75.0 0 0 - 3 3 100.0 4 3 7 0 0 0 1 6 7
+p454
+aVSherman Douglas LAC 02/16/1999 LAC vs. VAN L 32 9 3 8 37.5 0 0 - 3 8 37.5 2 2 4 4 0 0 2 3 7
+p455
+aVLamond Murray LAC 02/16/1999 LAC vs. VAN L 51 12 5 23 21.7 1 6 16.7 1 2 50.0 0 6 6 5 2 2 3 2 -7
+p456
+aVEric Piatkowski LAC 02/16/1999 LAC vs. VAN L 36 10 4 7 57.1 1 2 50.0 1 1 100.0 0 3 3 0 1 0 1 2 -1
+p457
+aVDarrick Martin LAC 02/16/1999 LAC vs. VAN L 26 10 3 11 27.3 1 4 25.0 3 6 50.0 0 2 2 1 2 0 3 3 -11
+p458
+aVTyrone Nesby LAC 02/16/1999 LAC vs. VAN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p459
+aVRodney Rogers LAC 02/16/1999 LAC vs. VAN L 25 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 2 1 1 2 3 6
+p460
+aVMaurice Taylor LAC 02/16/1999 LAC vs. VAN L 53 21 9 13 69.2 0 0 - 3 5 60.0 4 16 20 3 1 2 6 2 -9
+p461
+aVMichael Olowokandi LAC 02/16/1999 LAC vs. VAN L 35 10 4 11 36.4 0 0 - 2 7 28.6 7 8 15 0 0 3 4 6 -14
+p462
+aVEric Piatkowski LAC 02/14/1999 LAC vs. MIN L 22 6 3 8 37.5 0 3 0.0 0 0 - 0 2 2 1 2 0 0 1 -3
+p463
+aVLamond Murray LAC 02/14/1999 LAC vs. MIN L 28 12 5 10 50.0 0 2 0.0 2 4 50.0 1 5 6 0 1 0 2 0 -15
+p464
+aVPooh Richardson LAC 02/14/1999 LAC vs. MIN L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 2 2 -3
+p465
+aVLorenzen Wright LAC 02/14/1999 LAC vs. MIN L 23 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 0 0 1 2 -10
+p466
+aVDarrick Martin LAC 02/14/1999 LAC vs. MIN L 26 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 2 1 0 1 1 -8
+p467
+aVSherman Douglas LAC 02/14/1999 LAC vs. MIN L 15 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -11
+p468
+aVMichael Olowokandi LAC 02/14/1999 LAC vs. MIN L 27 6 3 5 60.0 0 0 - 0 0 - 0 4 4 1 0 1 4 1 -15
+p469
+aVMaurice Taylor LAC 02/14/1999 LAC vs. MIN L 25 19 6 16 37.5 0 1 0.0 7 7 100.0 1 3 4 1 0 1 1 4 -13
+p470
+aVJames Robinson LAC 02/14/1999 LAC vs. MIN L 20 4 2 8 25.0 0 3 0.0 0 1 0.0 0 2 2 0 0 1 2 1 -10
+p471
+aVRodney Rogers LAC 02/14/1999 LAC vs. MIN L 23 5 2 6 33.3 0 1 0.0 1 2 50.0 3 1 4 1 1 0 1 5 -13
+p472
+aVTyrone Nesby LAC 02/14/1999 LAC vs. MIN L 19 9 3 6 50.0 1 1 100.0 2 4 50.0 1 2 3 1 0 0 0 1 -7
+p473
+aVKeith Closs LAC 02/14/1999 LAC vs. MIN L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 0 1 1 0 -2
+p474
+aVTyrone Nesby LAC 02/13/1999 LAC @ PHX L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 2
+p475
+aVMichael Olowokandi LAC 02/13/1999 LAC @ PHX L 34 9 4 8 50.0 0 0 - 1 2 50.0 3 4 7 1 0 1 1 4 -8
+p476
+aVEric Piatkowski LAC 02/13/1999 LAC @ PHX L 18 5 1 5 20.0 1 3 33.3 2 2 100.0 0 1 1 2 0 0 2 1 -7
+p477
+aVMaurice Taylor LAC 02/13/1999 LAC @ PHX L 38 25 10 18 55.6 0 0 - 5 7 71.4 1 3 4 2 0 2 5 5 -9
+p478
+aVLamond Murray LAC 02/13/1999 LAC @ PHX L 46 26 9 19 47.4 5 7 71.4 3 3 100.0 1 5 6 2 1 0 5 3 -5
+p479
+aVSherman Douglas LAC 02/13/1999 LAC @ PHX L 25 9 3 9 33.3 0 0 - 3 4 75.0 0 3 3 5 1 0 1 4 -5
+p480
+aVRodney Rogers LAC 02/13/1999 LAC @ PHX L 10 7 2 4 50.0 1 2 50.0 2 4 50.0 2 3 5 2 0 0 0 1 8
+p481
+aVDarrick Martin LAC 02/13/1999 LAC @ PHX L 28 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 8 2 1 2 2 2
+p482
+aVJames Robinson LAC 02/13/1999 LAC @ PHX L 35 15 6 13 46.2 2 6 33.3 1 1 100.0 2 1 3 1 3 0 3 5 4
+p483
+aVLorenzen Wright LAC 02/13/1999 LAC @ PHX L 23 6 2 2 100.0 0 0 - 2 6 33.3 3 3 6 0 2 1 0 5 3
+p484
+aVLamond Murray LAC 02/10/1999 LAC @ VAN L 36 21 6 17 35.3 1 3 33.3 8 11 72.7 1 8 9 3 1 1 4 3 -10
+p485
+aVLorenzen Wright LAC 02/10/1999 LAC @ VAN L 30 2 1 5 20.0 0 0 - 0 0 - 2 5 7 1 1 2 0 4 -4
+p486
+aVMaurice Taylor LAC 02/10/1999 LAC @ VAN L 33 12 5 8 62.5 0 0 - 2 2 100.0 2 1 3 3 0 0 5 6 -3
+p487
+aVEric Piatkowski LAC 02/10/1999 LAC @ VAN L 26 15 6 9 66.7 2 3 66.7 1 2 50.0 0 3 3 1 2 0 1 3 -5
+p488
+aVSherman Douglas LAC 02/10/1999 LAC @ VAN L 24 9 4 7 57.1 0 1 0.0 1 2 50.0 1 1 2 4 1 1 4 1 0
+p489
+aVJames Robinson LAC 02/10/1999 LAC @ VAN L 22 9 2 7 28.6 1 1 100.0 4 4 100.0 0 3 3 2 1 0 0 1 -1
+p490
+aVDarrick Martin LAC 02/10/1999 LAC @ VAN L 24 8 3 6 50.0 0 1 0.0 2 2 100.0 0 0 0 5 3 0 1 2 -6
+p491
+aVMichael Olowokandi LAC 02/10/1999 LAC @ VAN L 33 17 5 10 50.0 0 0 - 7 10 70.0 4 5 9 0 0 2 2 5 -5
+p492
+aVTyrone Nesby LAC 02/10/1999 LAC @ VAN L 12 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 4
+p493
+aVLorenzen Wright LAC 02/07/1999 LAC vs. CHI L 29 3 0 1 0.0 0 0 - 3 4 75.0 3 5 8 0 0 2 0 4 3
+p494
+aVTyrone Nesby LAC 02/07/1999 LAC vs. CHI L 13 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 3
+p495
+aVStojko Vrankovic LAC 02/07/1999 LAC vs. CHI L 6 0 0 3 0.0 0 0 - 0 0 - 4 1 5 0 0 0 0 0 -12
+p496
+aVLamond Murray LAC 02/07/1999 LAC vs. CHI L 39 20 7 15 46.7 1 2 50.0 5 6 83.3 0 2 2 0 2 0 1 5 0
+p497
+aVSherman Douglas LAC 02/07/1999 LAC vs. CHI L 19 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 0
+p498
+aVEric Piatkowski LAC 02/07/1999 LAC vs. CHI L 15 6 2 5 40.0 0 3 0.0 2 2 100.0 0 2 2 1 0 0 1 3 -1
+p499
+aVJames Robinson LAC 02/07/1999 LAC vs. CHI L 30 6 1 8 12.5 0 3 0.0 4 4 100.0 0 5 5 1 2 0 1 3 -9
+p500
+aVMichael Olowokandi LAC 02/07/1999 LAC vs. CHI L 29 12 5 11 45.5 0 0 - 2 4 50.0 3 3 6 0 2 1 0 3 7
+p501
+aVDarrick Martin LAC 02/07/1999 LAC vs. CHI L 29 11 4 11 36.4 2 5 40.0 1 1 100.0 0 1 1 3 1 0 0 4 -5
+p502
+aVMaurice Taylor LAC 02/07/1999 LAC vs. CHI L 32 14 6 13 46.2 0 0 - 2 2 100.0 2 2 4 0 0 1 5 5 -11
+p503
+aVSherman Douglas LAC 02/05/1999 LAC vs. PHX L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 1 6
+p504
+aVRodney Rogers LAC 02/05/1999 LAC vs. PHX L 31 11 3 11 27.3 1 3 33.3 4 6 66.7 4 7 11 3 0 0 4 4 -2
+p505
+aVTyrone Nesby LAC 02/05/1999 LAC vs. PHX L 8 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 1 3
+p506
+aVLorenzen Wright LAC 02/05/1999 LAC vs. PHX L 26 11 5 7 71.4 0 0 - 1 1 100.0 2 8 10 0 2 1 1 4 -8
+p507
+aVPooh Richardson LAC 02/05/1999 LAC vs. PHX L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -6
+p508
+aVMaurice Taylor LAC 02/05/1999 LAC vs. PHX L 15 6 3 8 37.5 0 0 - 0 2 0.0 1 1 2 0 1 0 4 6 -15
+p509
+aVDarrick Martin LAC 02/05/1999 LAC vs. PHX L 38 11 2 6 33.3 2 5 40.0 5 5 100.0 1 1 2 6 3 0 3 4 -9
+p510
+aVJames Robinson LAC 02/05/1999 LAC vs. PHX L 18 7 2 6 33.3 1 2 50.0 2 2 100.0 0 0 0 0 1 1 0 2 0
+p511
+aVLamond Murray LAC 02/05/1999 LAC vs. PHX L 43 14 6 19 31.6 1 4 25.0 1 4 25.0 3 8 11 2 4 1 3 3 -2
+p512
+aVMichael Olowokandi LAC 02/05/1999 LAC vs. PHX L 21 14 5 9 55.6 0 0 - 4 5 80.0 3 3 6 0 0 1 2 4 -4
+p513
+aVEric Piatkowski LAC 02/05/1999 LAC vs. PHX L 29 16 6 10 60.0 3 6 50.0 1 2 50.0 0 0 0 1 0 0 2 1 -8
+p514
+a.

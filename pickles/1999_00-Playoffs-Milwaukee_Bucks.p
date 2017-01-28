@@ -1,0 +1,100 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVErvin Johnson MIL 05/04/2000 MIL @ IND L 35 9 2 2 100.0 0 0 - 5 6 83.3 4 3 7 0 1 0 1 4 -4
+p2
+aVGlenn Robinson MIL 05/04/2000 MIL @ IND L 31 11 4 16 25.0 0 1 0.0 3 4 75.0 0 2 2 2 0 0 3 4 -9
+p3
+aVDarvin Ham MIL 05/04/2000 MIL @ IND L 29 5 2 2 100.0 0 0 - 1 2 50.0 3 3 6 1 0 0 0 4 -2
+p4
+aVRay Allen MIL 05/04/2000 MIL @ IND L 41 18 6 21 28.6 2 6 33.3 4 4 100.0 2 4 6 3 2 0 1 3 4
+p5
+aVScott Williams MIL 05/04/2000 MIL @ IND L 15 8 3 3 100.0 0 0 - 2 3 66.7 1 4 5 0 0 0 0 2 2
+p6
+aVVinny Del Negro MIL 05/04/2000 MIL @ IND L 15 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 11
+p7
+aVSam Cassell MIL 05/04/2000 MIL @ IND L 37 22 9 17 52.9 0 2 0.0 4 4 100.0 0 5 5 6 1 0 2 6 -10
+p8
+aVTim Thomas MIL 05/04/2000 MIL @ IND L 33 18 8 16 50.0 0 0 - 2 2 100.0 1 8 9 2 0 0 0 3 3
+p9
+aVRay Allen MIL 05/01/2000 MIL vs. IND W 33 20 8 14 57.1 2 5 40.0 2 2 100.0 3 5 8 3 0 0 1 2 21
+p10
+aVDarvin Ham MIL 05/01/2000 MIL vs. IND W 27 7 3 4 75.0 0 0 - 1 2 50.0 3 2 5 1 0 1 2 5 -17
+p11
+aVGlenn Robinson MIL 05/01/2000 MIL vs. IND W 32 18 8 16 50.0 1 1 100.0 1 1 100.0 0 3 3 5 4 0 4 3 17
+p12
+aVVinny Del Negro MIL 05/01/2000 MIL vs. IND W 25 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 5 2 0 1 2 7
+p13
+aVSam Cassell MIL 05/01/2000 MIL vs. IND W 33 6 3 11 27.3 0 0 - 0 0 - 0 2 2 13 0 0 1 3 8
+p14
+aVScott Williams MIL 05/01/2000 MIL vs. IND W 25 20 9 13 69.2 0 0 - 2 2 100.0 2 6 8 0 2 1 0 3 19
+p15
+aVMirsad Turkcan MIL 05/01/2000 MIL vs. IND W 6 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -12
+p16
+aVTim Thomas MIL 05/01/2000 MIL vs. IND W 22 17 7 11 63.6 2 5 40.0 1 2 50.0 0 4 4 3 0 2 0 4 22
+p17
+aVRobert Traylor MIL 05/01/2000 MIL vs. IND W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 2 -6
+p18
+aVErvin Johnson MIL 05/01/2000 MIL vs. IND W 28 4 1 2 50.0 0 0 - 2 4 50.0 1 8 9 0 1 3 1 5 16
+p19
+aVRafer Alston MIL 05/01/2000 MIL vs. IND W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p20
+aVScott Williams MIL 04/29/2000 MIL vs. IND L 13 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -12
+p21
+aVRafer Alston MIL 04/29/2000 MIL vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p22
+aVTim Thomas MIL 04/29/2000 MIL vs. IND L 29 12 5 13 38.5 0 3 0.0 2 2 100.0 3 2 5 2 1 0 0 1 -10
+p23
+aVSam Cassell MIL 04/29/2000 MIL vs. IND L 32 13 5 12 41.7 0 0 - 3 4 75.0 0 4 4 12 1 0 2 3 -3
+p24
+aVDarvin Ham MIL 04/29/2000 MIL vs. IND L 30 0 0 1 0.0 0 1 0.0 0 2 0.0 2 2 4 2 0 3 2 5 -15
+p25
+aVGlenn Robinson MIL 04/29/2000 MIL vs. IND L 39 26 11 21 52.4 1 4 25.0 3 3 100.0 0 5 5 3 0 0 1 4 -4
+p26
+aVRay Allen MIL 04/29/2000 MIL vs. IND L 43 26 10 22 45.5 2 8 25.0 4 4 100.0 2 4 6 2 2 0 3 2 -8
+p27
+aVErvin Johnson MIL 04/29/2000 MIL vs. IND L 31 9 4 7 57.1 0 0 - 1 4 25.0 6 7 13 0 0 2 1 3 -3
+p28
+aVVinny Del Negro MIL 04/29/2000 MIL vs. IND L 17 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 1 0 0 0 -8
+p29
+aVMirsad Turkcan MIL 04/27/2000 MIL @ IND W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -12
+p30
+aVGlenn Robinson MIL 04/27/2000 MIL @ IND W 30 11 5 9 55.6 0 0 - 1 1 100.0 0 4 4 3 1 1 3 4 19
+p31
+aVTim Thomas MIL 04/27/2000 MIL @ IND W 28 19 6 11 54.5 1 4 25.0 6 7 85.7 1 1 2 1 0 2 0 5 18
+p32
+aVDarvin Ham MIL 04/27/2000 MIL @ IND W 35 4 2 4 50.0 0 0 - 0 1 0.0 3 3 6 3 0 4 3 5 -3
+p33
+aVSam Cassell MIL 04/27/2000 MIL @ IND W 32 20 7 15 46.7 1 3 33.3 5 5 100.0 0 3 3 8 1 0 0 3 24
+p34
+aVErvin Johnson MIL 04/27/2000 MIL @ IND W 24 5 2 4 50.0 0 0 - 1 2 50.0 2 10 12 2 2 0 0 4 27
+p35
+aVDanny Manning MIL 04/27/2000 MIL @ IND W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -12
+p36
+aVRafer Alston MIL 04/27/2000 MIL @ IND W 6 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 1 0 0 1 0 -12
+p37
+aVScott Williams MIL 04/27/2000 MIL @ IND W 18 15 7 11 63.6 0 0 - 1 1 100.0 1 5 6 1 0 0 1 5 2
+p38
+aVVinny Del Negro MIL 04/27/2000 MIL @ IND W 24 10 5 9 55.6 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -4
+p39
+aVRay Allen MIL 04/27/2000 MIL @ IND W 34 20 7 11 63.6 2 3 66.7 4 6 66.7 1 5 6 4 2 0 3 0 18
+p40
+aVRay Allen MIL 04/23/2000 MIL @ IND L 34 26 9 22 40.9 2 4 50.0 6 6 100.0 2 5 7 1 2 0 1 3 -4
+p41
+aVTim Thomas MIL 04/23/2000 MIL @ IND L 28 11 3 8 37.5 2 3 66.7 3 4 75.0 1 3 4 2 0 0 1 1 -2
+p42
+aVGlenn Robinson MIL 04/23/2000 MIL @ IND L 40 11 4 17 23.5 0 1 0.0 3 4 75.0 0 7 7 0 3 3 4 3 -5
+p43
+aVSam Cassell MIL 04/23/2000 MIL @ IND L 43 18 6 17 35.3 0 0 - 6 8 75.0 0 3 3 6 1 0 4 4 -3
+p44
+aVVinny Del Negro MIL 04/23/2000 MIL @ IND L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 6
+p45
+aVDarvin Ham MIL 04/23/2000 MIL @ IND L 21 9 4 6 66.7 0 0 - 1 2 50.0 6 2 8 0 1 0 0 3 -3
+p46
+aVErvin Johnson MIL 04/23/2000 MIL @ IND L 36 4 1 5 20.0 0 0 - 2 2 100.0 1 7 8 0 2 1 0 3 -6
+p47
+aVScott Williams MIL 04/23/2000 MIL @ IND L 19 6 3 6 50.0 0 0 - 0 0 - 3 3 6 1 0 4 2 4 2
+p48
+aVRafer Alston MIL 04/23/2000 MIL @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p49
+a.

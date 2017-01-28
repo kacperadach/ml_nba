@@ -1,0 +1,190 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDavid Wesley CHH 05/20/2001 CHH @ MIL L 43 15 7 17 41.2 0 4 0.0 1 1 100.0 1 1 2 5 1 0 0 5 -3
+p2
+aVBaron Davis CHH 05/20/2001 CHH @ MIL L 45 29 10 16 62.5 5 8 62.5 4 9 44.4 1 1 2 6 2 2 1 4 -4
+p3
+aVJamaal Magloire CHH 05/20/2001 CHH @ MIL L 13 4 1 3 33.3 0 0 - 2 6 33.3 1 4 5 1 0 1 0 3 -8
+p4
+aVEddie Robinson CHH 05/20/2001 CHH @ MIL L 17 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -10
+p5
+aVP.J. Brown CHH 05/20/2001 CHH @ MIL L 39 6 2 4 50.0 0 0 - 2 2 100.0 7 2 9 0 0 1 0 6 -6
+p6
+aVElden Campbell CHH 05/20/2001 CHH @ MIL L 33 18 8 15 53.3 0 0 - 2 2 100.0 3 7 10 2 1 2 3 4 -2
+p7
+aVOtis Thorpe CHH 05/20/2001 CHH @ MIL L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p8
+aVJamal Mashburn CHH 05/20/2001 CHH @ MIL L 41 21 7 25 28.0 1 2 50.0 6 8 75.0 1 3 4 9 0 1 1 5 -6
+p9
+aVJamaal Magloire CHH 05/17/2001 CHH vs. MIL L 16 7 3 4 75.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 2 -3
+p10
+aVJamal Mashburn CHH 05/17/2001 CHH vs. MIL L 43 24 5 20 25.0 1 2 50.0 13 15 86.7 4 5 9 7 0 0 6 2 -11
+p11
+aVElden Campbell CHH 05/17/2001 CHH vs. MIL L 26 12 2 8 25.0 0 0 - 8 10 80.0 3 4 7 0 0 0 1 5 -1
+p12
+aVDavid Wesley CHH 05/17/2001 CHH vs. MIL L 45 27 9 15 60.0 3 7 42.9 6 6 100.0 0 2 2 2 4 0 2 1 -8
+p13
+aVEddie Robinson CHH 05/17/2001 CHH vs. MIL L 20 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -3
+p14
+aVBaron Davis CHH 05/17/2001 CHH vs. MIL L 45 19 6 15 40.0 2 7 28.6 5 8 62.5 1 4 5 6 3 0 1 5 -3
+p15
+aVP.J. Brown CHH 05/17/2001 CHH vs. MIL L 39 2 0 3 0.0 0 0 - 2 2 100.0 1 5 6 1 0 4 2 2 -10
+p16
+aVOtis Thorpe CHH 05/17/2001 CHH vs. MIL L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p17
+aVOtis Thorpe CHH 05/15/2001 CHH @ MIL W 15 0 0 3 0.0 0 0 - 0 0 - 1 5 6 0 0 0 0 1 -2
+p18
+aVBaron Davis CHH 05/15/2001 CHH @ MIL W 34 19 7 10 70.0 5 5 100.0 0 0 - 1 5 6 5 3 0 1 5 0
+p19
+aVDavid Wesley CHH 05/15/2001 CHH @ MIL W 44 15 6 14 42.9 1 2 50.0 2 4 50.0 0 3 3 6 0 0 1 3 14
+p20
+aVHersey Hawkins CHH 05/15/2001 CHH @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p21
+aVJamaal Magloire CHH 05/15/2001 CHH @ MIL W 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 3 3
+p22
+aVEddie Robinson CHH 05/15/2001 CHH @ MIL W 22 11 4 9 44.4 1 1 100.0 2 2 100.0 0 5 5 0 1 1 0 2 11
+p23
+aVElden Campbell CHH 05/15/2001 CHH @ MIL W 32 13 5 11 45.5 0 0 - 3 4 75.0 6 4 10 1 0 2 2 5 8
+p24
+aVP.J. Brown CHH 05/15/2001 CHH @ MIL W 39 8 3 6 50.0 0 0 - 2 2 100.0 1 6 7 1 2 0 1 1 5
+p25
+aVJamal Mashburn CHH 05/15/2001 CHH @ MIL W 42 24 8 23 34.8 0 1 0.0 8 11 72.7 2 3 5 8 3 0 3 3 1
+p26
+aVEddie Robinson CHH 05/13/2001 CHH vs. MIL W 11 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p27
+aVBaron Davis CHH 05/13/2001 CHH vs. MIL W 43 18 6 14 42.9 3 8 37.5 3 3 100.0 1 4 5 7 6 0 4 2 13
+p28
+aVJamaal Magloire CHH 05/13/2001 CHH vs. MIL W 12 2 1 4 25.0 0 0 - 0 2 0.0 0 1 1 0 0 1 0 1 1
+p29
+aVElden Campbell CHH 05/13/2001 CHH vs. MIL W 36 12 5 16 31.3 0 0 - 2 2 100.0 4 6 10 1 0 0 3 3 6
+p30
+aVDavid Wesley CHH 05/13/2001 CHH vs. MIL W 45 13 3 13 23.1 1 3 33.3 6 10 60.0 0 4 4 3 1 0 2 4 7
+p31
+aVJamal Mashburn CHH 05/13/2001 CHH vs. MIL W 44 31 11 26 42.3 0 3 0.0 9 9 100.0 2 6 8 4 2 1 3 1 10
+p32
+aVP.J. Brown CHH 05/13/2001 CHH vs. MIL W 41 7 3 10 30.0 0 0 - 1 1 100.0 7 6 13 3 3 2 0 2 15
+p33
+aVOtis Thorpe CHH 05/13/2001 CHH vs. MIL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p34
+aVBaron Davis CHH 05/10/2001 CHH vs. MIL W 38 10 3 12 25.0 0 4 0.0 4 8 50.0 1 7 8 6 1 0 0 3 7
+p35
+aVOtis Thorpe CHH 05/10/2001 CHH vs. MIL W 8 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 0 0 0 3 -2
+p36
+aVElden Campbell CHH 05/10/2001 CHH vs. MIL W 30 17 7 12 58.3 0 0 - 3 8 37.5 3 5 8 1 1 2 2 2 -3
+p37
+aVJamal Mashburn CHH 05/10/2001 CHH vs. MIL W 43 36 15 23 65.2 3 5 60.0 3 4 75.0 1 4 5 6 0 1 4 1 11
+p38
+aVJamaal Magloire CHH 05/10/2001 CHH vs. MIL W 17 8 3 4 75.0 0 0 - 2 5 40.0 2 6 8 1 0 1 2 3 13
+p39
+aVEddie Robinson CHH 05/10/2001 CHH vs. MIL W 20 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 11
+p40
+aVDavid Wesley CHH 05/10/2001 CHH vs. MIL W 44 16 5 13 38.5 1 3 33.3 5 6 83.3 1 4 5 6 0 0 3 3 1
+p41
+aVP.J. Brown CHH 05/10/2001 CHH vs. MIL W 40 7 2 8 25.0 0 0 - 3 3 100.0 6 10 16 2 0 1 1 4 12
+p42
+aVEddie Robinson CHH 05/08/2001 CHH @ MIL L 17 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -8
+p43
+aVJamaal Magloire CHH 05/08/2001 CHH @ MIL L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p44
+aVJamal Mashburn CHH 05/08/2001 CHH @ MIL L 43 19 8 19 42.1 0 2 0.0 3 7 42.9 3 4 7 4 2 0 4 3 4
+p45
+aVDavid Wesley CHH 05/08/2001 CHH @ MIL L 40 20 9 17 52.9 0 2 0.0 2 2 100.0 0 1 1 7 1 0 3 4 6
+p46
+aVHersey Hawkins CHH 05/08/2001 CHH @ MIL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p47
+aVElden Campbell CHH 05/08/2001 CHH @ MIL L 32 13 4 11 36.4 0 0 - 5 5 100.0 2 6 8 0 0 1 0 2 0
+p48
+aVOtis Thorpe CHH 05/08/2001 CHH @ MIL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p49
+aVBaron Davis CHH 05/08/2001 CHH @ MIL L 42 4 0 4 0.0 0 2 0.0 4 4 100.0 0 2 2 6 0 0 2 5 2
+p50
+aVP.J. Brown CHH 05/08/2001 CHH @ MIL L 38 19 8 13 61.5 0 0 - 3 4 75.0 6 5 11 1 2 2 1 3 4
+p51
+aVDerrick Coleman CHH 05/08/2001 CHH @ MIL L 16 7 2 9 22.2 0 0 - 3 4 75.0 5 4 9 2 1 1 0 1 1
+p52
+aVJamaal Magloire CHH 05/06/2001 CHH @ MIL L 8 4 2 2 100.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 4
+p53
+aVDerrick Coleman CHH 05/06/2001 CHH @ MIL L 10 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 2 2 -17
+p54
+aVEddie Robinson CHH 05/06/2001 CHH @ MIL L 22 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 1 1 1 1 2 7
+p55
+aVElden Campbell CHH 05/06/2001 CHH @ MIL L 35 17 6 16 37.5 0 0 - 5 6 83.3 3 10 13 0 2 2 1 2 -5
+p56
+aVHersey Hawkins CHH 05/06/2001 CHH @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p57
+aVBaron Davis CHH 05/06/2001 CHH @ MIL L 40 18 5 12 41.7 1 6 16.7 7 9 77.8 0 2 2 7 4 3 3 3 -12
+p58
+aVDavid Wesley CHH 05/06/2001 CHH @ MIL L 38 14 6 12 50.0 0 2 0.0 2 3 66.7 0 4 4 4 1 0 1 4 -16
+p59
+aVP.J. Brown CHH 05/06/2001 CHH @ MIL L 39 7 3 6 50.0 0 0 - 1 2 50.0 4 7 11 0 0 0 0 4 -1
+p60
+aVJamal Mashburn CHH 05/06/2001 CHH @ MIL L 44 23 8 22 36.4 0 3 0.0 7 9 77.8 1 5 6 5 1 0 2 3 -12
+p61
+aVHersey Hawkins CHH 04/27/2001 CHH vs. MIA W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 0 8
+p62
+aVBaron Davis CHH 04/27/2001 CHH vs. MIA W 43 21 9 15 60.0 0 3 0.0 3 4 75.0 1 1 2 3 3 0 3 1 10
+p63
+aVP.J. Brown CHH 04/27/2001 CHH vs. MIA W 39 13 3 7 42.9 0 0 - 7 10 70.0 5 7 12 1 1 3 2 1 14
+p64
+aVEddie Robinson CHH 04/27/2001 CHH vs. MIA W 25 14 6 9 66.7 0 0 - 2 2 100.0 0 3 3 2 1 1 0 2 5
+p65
+aVElden Campbell CHH 04/27/2001 CHH vs. MIA W 17 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 0 0 1 1 6 -3
+p66
+aVDavid Wesley CHH 04/27/2001 CHH vs. MIA W 33 15 6 14 42.9 1 2 50.0 2 3 66.7 1 1 2 2 4 0 0 1 7
+p67
+aVDerrick Coleman CHH 04/27/2001 CHH vs. MIA W 23 5 2 8 25.0 0 2 0.0 1 2 50.0 3 6 9 1 0 1 2 4 18
+p68
+aVJamal Mashburn CHH 04/27/2001 CHH vs. MIA W 44 21 5 14 35.7 1 2 50.0 10 10 100.0 2 7 9 8 0 0 1 2 12
+p69
+aVJamaal Magloire CHH 04/27/2001 CHH vs. MIA W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 2 4
+p70
+aVElden Campbell CHH 04/23/2001 CHH @ MIA W 22 6 1 7 14.3 0 0 - 4 6 66.7 1 4 5 0 1 0 2 4 13
+p71
+aVHersey Hawkins CHH 04/23/2001 CHH @ MIA W 12 7 2 4 50.0 0 0 - 3 3 100.0 0 2 2 2 3 0 0 2 7
+p72
+aVDerrick Coleman CHH 04/23/2001 CHH @ MIA W 23 8 3 8 37.5 1 2 50.0 1 1 100.0 1 5 6 2 1 0 0 1 17
+p73
+aVJamaal Magloire CHH 04/23/2001 CHH @ MIA W 7 4 1 1 100.0 0 0 - 2 8 25.0 2 0 2 0 0 0 0 2 -5
+p74
+aVOtis Thorpe CHH 04/23/2001 CHH @ MIA W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -3
+p75
+aVJamal Mashburn CHH 04/23/2001 CHH @ MIA W 38 22 8 14 57.1 0 0 - 6 6 100.0 2 4 6 1 1 0 5 1 29
+p76
+aVDavid Wesley CHH 04/23/2001 CHH @ MIA W 32 18 5 8 62.5 3 4 75.0 5 6 83.3 0 3 3 3 1 1 0 2 26
+p77
+aVBaron Davis CHH 04/23/2001 CHH @ MIA W 32 17 5 15 33.3 2 4 50.0 5 5 100.0 2 5 7 4 2 0 1 1 17
+p78
+aVEldridge Recasner CHH 04/23/2001 CHH @ MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p79
+aVP.J. Brown CHH 04/23/2001 CHH @ MIA W 37 9 3 6 50.0 0 0 - 3 3 100.0 3 5 8 1 1 0 3 3 25
+p80
+aVScott Burrell CHH 04/23/2001 CHH @ MIA W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 1 0 0 0 -1
+p81
+aVEddie Robinson CHH 04/23/2001 CHH @ MIA W 20 8 4 6 66.7 0 0 - 0 0 - 3 2 5 2 0 0 2 0 6
+p82
+aVEddie Robinson CHH 04/21/2001 CHH @ MIA W 18 14 7 9 77.8 0 0 - 0 0 - 3 3 6 1 1 0 0 1 13
+p83
+aVElden Campbell CHH 04/21/2001 CHH @ MIA W 24 8 2 5 40.0 0 0 - 4 4 100.0 2 3 5 2 0 1 2 4 20
+p84
+aVJamal Mashburn CHH 04/21/2001 CHH @ MIA W 37 28 9 22 40.9 1 1 100.0 9 9 100.0 0 3 3 5 3 0 1 3 27
+p85
+aVP.J. Brown CHH 04/21/2001 CHH @ MIA W 34 2 1 4 25.0 0 0 - 0 0 - 1 6 7 1 3 1 2 5 14
+p86
+aVJamaal Magloire CHH 04/21/2001 CHH @ MIA W 15 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 2 0 2 5
+p87
+aVDerrick Coleman CHH 04/21/2001 CHH @ MIA W 16 2 0 6 0.0 0 3 0.0 2 2 100.0 0 1 1 1 2 0 1 4 4
+p88
+aVBaron Davis CHH 04/21/2001 CHH @ MIA W 35 23 8 10 80.0 2 3 66.7 5 6 83.3 1 4 5 8 4 0 6 4 25
+p89
+aVHersey Hawkins CHH 04/21/2001 CHH @ MIA W 19 5 1 3 33.3 1 3 33.3 2 4 50.0 1 2 3 0 0 0 0 2 2
+p90
+aVOtis Thorpe CHH 04/21/2001 CHH @ MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p91
+aVDavid Wesley CHH 04/21/2001 CHH @ MIA W 30 17 7 11 63.6 3 4 75.0 0 0 - 1 3 4 1 3 0 2 1 20
+p92
+aVScott Burrell CHH 04/21/2001 CHH @ MIA W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 0
+p93
+aVEldridge Recasner CHH 04/21/2001 CHH @ MIA W 4 3 0 0 - 0 0 - 3 4 75.0 0 1 1 2 0 0 1 0 0
+p94
+a.

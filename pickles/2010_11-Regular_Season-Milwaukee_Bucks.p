@@ -1,0 +1,1650 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCarlos Delfino MIL 04/13/2011 MIL @ OKC W 26 10 4 9 44.4 2 5 40.0 0 0 - 0 1 1 2 1 1 1 1 -9
+p2
+aVErsan Ilyasova MIL 04/13/2011 MIL @ OKC W 34 14 5 8 62.5 1 2 50.0 3 3 100.0 2 7 9 0 2 2 0 2 12
+p3
+aVLarry Sanders MIL 04/13/2011 MIL @ OKC W 28 10 5 9 55.6 0 0 - 0 0 - 4 4 8 0 1 2 3 1 13
+p4
+aVJohn Salmons MIL 04/13/2011 MIL @ OKC W 32 15 6 10 60.0 0 1 0.0 3 4 75.0 1 2 3 3 5 0 1 1 2
+p5
+aVKeyon Dooling MIL 04/13/2011 MIL @ OKC W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -4
+p6
+aVEarl Boykins MIL 04/13/2011 MIL @ OKC W 8 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 3 0 0 1 1 2
+p7
+aVLuc Mbah a Moute MIL 04/13/2011 MIL @ OKC W 22 6 2 6 33.3 0 0 - 2 4 50.0 1 0 1 1 0 0 0 0 -8
+p8
+aVMichael Redd MIL 04/13/2011 MIL @ OKC W 29 11 5 10 50.0 1 3 33.3 0 0 - 0 3 3 2 0 0 1 0 13
+p9
+aVDrew Gooden MIL 04/13/2011 MIL @ OKC W 22 10 4 13 30.8 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 2 -9
+p10
+aVBrandon Jennings MIL 04/13/2011 MIL @ OKC W 36 16 4 11 36.4 1 3 33.3 7 8 87.5 0 6 6 7 5 1 3 4 6
+p11
+aVCorey Maggette MIL 04/13/2011 MIL @ OKC W 19 12 3 5 60.0 0 0 - 6 6 100.0 0 1 1 2 1 0 2 2 2
+p12
+aVLuc Mbah a Moute MIL 04/11/2011 MIL vs. TOR W 19 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 3
+p13
+aVEarl Boykins MIL 04/11/2011 MIL vs. TOR W 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 -1
+p14
+aVKeyon Dooling MIL 04/11/2011 MIL vs. TOR W 13 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 2 1 3
+p15
+aVMichael Redd MIL 04/11/2011 MIL vs. TOR W 15 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 0 0 1 0 0 -6
+p16
+aVErsan Ilyasova MIL 04/11/2011 MIL vs. TOR W 22 6 1 5 20.0 0 3 0.0 4 4 100.0 4 4 8 1 1 0 1 4 5
+p17
+aVDrew Gooden MIL 04/11/2011 MIL vs. TOR W 37 19 6 14 42.9 0 0 - 7 7 100.0 4 7 11 5 0 2 2 4 10
+p18
+aVCarlos Delfino MIL 04/11/2011 MIL vs. TOR W 26 5 2 5 40.0 1 3 33.3 0 0 - 0 4 4 4 0 1 1 1 5
+p19
+aVLarry Sanders MIL 04/11/2011 MIL vs. TOR W 12 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 1 0 1 1 1 -8
+p20
+aVCorey Maggette MIL 04/11/2011 MIL vs. TOR W 6 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 1 0 1 0 4
+p21
+aVBrandon Jennings MIL 04/11/2011 MIL vs. TOR W 39 21 7 16 43.8 1 3 33.3 6 6 100.0 1 5 6 3 4 1 2 2 10
+p22
+aVJohn Salmons MIL 04/11/2011 MIL vs. TOR W 36 24 9 14 64.3 1 1 100.0 5 7 71.4 0 7 7 2 1 0 4 4 9
+p23
+aVChris Douglas-Roberts MIL 04/11/2011 MIL vs. TOR W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 1
+p24
+aVLuc Mbah a Moute MIL 04/09/2011 MIL vs. CLE W 37 12 5 10 50.0 0 0 - 2 4 50.0 3 3 6 1 0 1 1 2 13
+p25
+aVBrandon Jennings MIL 04/09/2011 MIL vs. CLE W 35 14 4 10 40.0 2 4 50.0 4 4 100.0 0 2 2 9 3 0 2 1 6
+p26
+aVLarry Sanders MIL 04/09/2011 MIL vs. CLE W 6 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 2 0 2 -2
+p27
+aVKeyon Dooling MIL 04/09/2011 MIL vs. CLE W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 3 1
+p28
+aVJohn Salmons MIL 04/09/2011 MIL vs. CLE W 40 32 14 18 77.8 2 4 50.0 2 2 100.0 0 1 1 2 0 1 0 1 9
+p29
+aVDrew Gooden MIL 04/09/2011 MIL vs. CLE W 37 15 6 12 50.0 0 2 0.0 3 4 75.0 1 12 13 13 0 2 4 6 10
+p30
+aVErsan Ilyasova MIL 04/09/2011 MIL vs. CLE W 16 11 4 7 57.1 2 3 66.7 1 2 50.0 0 5 5 0 0 0 0 1 -7
+p31
+aVCarlos Delfino MIL 04/09/2011 MIL vs. CLE W 30 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 1 0 0 1 1 15
+p32
+aVCorey Maggette MIL 04/09/2011 MIL vs. CLE W 8 4 0 3 0.0 0 0 - 4 4 100.0 0 1 1 1 0 0 1 1 -2
+p33
+aVMichael Redd MIL 04/09/2011 MIL vs. CLE W 18 10 4 9 44.4 2 5 40.0 0 0 - 0 0 0 1 0 0 1 0 -8
+p34
+aVDrew Gooden MIL 04/08/2011 MIL @ DET L 29 12 5 12 41.7 0 1 0.0 2 2 100.0 1 3 4 3 1 1 2 2 -13
+p35
+aVMichael Redd MIL 04/08/2011 MIL @ DET L 25 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 2 1 0 1 2 0
+p36
+aVLuc Mbah a Moute MIL 04/08/2011 MIL @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -13
+p37
+aVLarry Sanders MIL 04/08/2011 MIL @ DET L 13 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 2 0 2 4
+p38
+aVJohn Salmons MIL 04/08/2011 MIL @ DET L 28 10 4 8 50.0 0 1 0.0 2 2 100.0 0 3 3 3 0 0 1 1 -3
+p39
+aVCorey Maggette MIL 04/08/2011 MIL @ DET L 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -13
+p40
+aVEarl Boykins MIL 04/08/2011 MIL @ DET L 9 4 1 2 50.0 0 1 0.0 2 2 100.0 1 0 1 3 0 0 0 1 3
+p41
+aVBrandon Jennings MIL 04/08/2011 MIL @ DET L 33 31 13 21 61.9 2 5 40.0 3 3 100.0 1 1 2 4 3 0 2 4 0
+p42
+aVJon Brockman MIL 04/08/2011 MIL @ DET L 11 0 0 4 0.0 0 0 - 0 2 0.0 3 3 6 1 0 0 0 1 -5
+p43
+aVErsan Ilyasova MIL 04/08/2011 MIL @ DET L 36 18 7 14 50.0 0 2 0.0 4 4 100.0 2 4 6 1 1 0 2 3 7
+p44
+aVKeyon Dooling MIL 04/08/2011 MIL @ DET L 25 11 5 10 50.0 1 5 20.0 0 0 - 0 2 2 1 2 0 0 2 -9
+p45
+aVCarlos Delfino MIL 04/08/2011 MIL @ DET L 19 0 0 7 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 0 2 -8
+p46
+aVMichael Redd MIL 04/06/2011 MIL @ MIA W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 0
+p47
+aVLarry Sanders MIL 04/06/2011 MIL @ MIA W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p48
+aVJohn Salmons MIL 04/06/2011 MIL @ MIA W 39 17 7 16 43.8 1 3 33.3 2 2 100.0 0 5 5 1 0 0 3 0 4
+p49
+aVCorey Maggette MIL 04/06/2011 MIL @ MIA W 20 14 4 7 57.1 0 0 - 6 6 100.0 0 4 4 3 0 0 1 3 -6
+p50
+aVAndrew Bogut MIL 04/06/2011 MIL @ MIA W 36 6 3 7 42.9 0 1 0.0 0 0 - 2 8 10 4 3 4 0 2 9
+p51
+aVBrandon Jennings MIL 04/06/2011 MIL @ MIA W 32 9 3 9 33.3 1 4 25.0 2 2 100.0 0 2 2 4 2 0 2 1 12
+p52
+aVLuc Mbah a Moute MIL 04/06/2011 MIL @ MIA W 38 14 7 14 50.0 0 1 0.0 0 0 - 4 8 12 0 3 0 0 2 10
+p53
+aVCarlos Delfino MIL 04/06/2011 MIL @ MIA W 28 9 3 9 33.3 3 7 42.9 0 0 - 0 2 2 1 1 0 0 3 11
+p54
+aVDrew Gooden MIL 04/06/2011 MIL @ MIA W 18 9 3 7 42.9 0 0 - 3 3 100.0 0 1 1 0 1 0 1 2 -6
+p55
+aVKeyon Dooling MIL 04/06/2011 MIL @ MIA W 17 10 3 4 75.0 2 3 66.7 2 2 100.0 0 2 2 1 0 0 2 1 -6
+p56
+aVLarry Sanders MIL 04/05/2011 MIL @ ORL L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 3 0
+p57
+aVChris Douglas-Roberts MIL 04/05/2011 MIL @ ORL L 4 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 2 -2
+p58
+aVMichael Redd MIL 04/05/2011 MIL @ ORL L 4 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p59
+aVAndrew Bogut MIL 04/05/2011 MIL @ ORL L 27 2 1 4 25.0 0 0 - 0 2 0.0 1 5 6 1 0 0 1 5 -16
+p60
+aVJohn Salmons MIL 04/05/2011 MIL @ ORL L 32 9 3 9 33.3 2 3 66.7 1 2 50.0 0 8 8 3 2 0 2 2 -9
+p61
+aVBrandon Jennings MIL 04/05/2011 MIL @ ORL L 37 8 3 15 20.0 1 7 14.3 1 1 100.0 0 3 3 1 1 0 5 3 -9
+p62
+aVLuc Mbah a Moute MIL 04/05/2011 MIL @ ORL L 28 2 1 6 16.7 0 0 - 0 0 - 0 2 2 0 2 1 2 2 -4
+p63
+aVCorey Maggette MIL 04/05/2011 MIL @ ORL L 16 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 5 4
+p64
+aVEarl Boykins MIL 04/05/2011 MIL @ ORL L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p65
+aVCarlos Delfino MIL 04/05/2011 MIL @ ORL L 34 7 3 11 27.3 1 5 20.0 0 0 - 2 2 4 3 1 0 1 1 -12
+p66
+aVKeyon Dooling MIL 04/05/2011 MIL @ ORL L 17 10 3 4 75.0 2 3 66.7 2 2 100.0 0 2 2 0 1 0 5 0 7
+p67
+aVDrew Gooden MIL 04/05/2011 MIL @ ORL L 26 18 7 12 58.3 0 0 - 4 5 80.0 1 3 4 4 1 1 1 3 6
+p68
+aVMichael Redd MIL 04/02/2011 MIL vs. PHI W 7 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 3
+p69
+aVBrandon Jennings MIL 04/02/2011 MIL vs. PHI W 45 13 3 9 33.3 1 3 33.3 6 6 100.0 0 2 2 4 3 0 1 2 1
+p70
+aVKeyon Dooling MIL 04/02/2011 MIL vs. PHI W 28 8 3 4 75.0 1 2 50.0 1 2 50.0 0 2 2 1 0 1 1 2 6
+p71
+aVAndrew Bogut MIL 04/02/2011 MIL vs. PHI W 39 10 4 11 36.4 0 0 - 2 4 50.0 4 7 11 3 1 1 0 4 4
+p72
+aVLarry Sanders MIL 04/02/2011 MIL vs. PHI W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 1 0 3
+p73
+aVChris Douglas-Roberts MIL 04/02/2011 MIL vs. PHI W 12 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 0 1
+p74
+aVLuc Mbah a Moute MIL 04/02/2011 MIL vs. PHI W 26 12 5 9 55.6 0 0 - 2 4 50.0 0 5 5 0 0 0 3 1 -5
+p75
+aVCorey Maggette MIL 04/02/2011 MIL vs. PHI W 22 8 2 6 33.3 0 1 0.0 4 4 100.0 0 5 5 0 0 0 2 2 1
+p76
+aVJohn Salmons MIL 04/02/2011 MIL vs. PHI W 46 19 8 11 72.7 1 1 100.0 2 2 100.0 0 4 4 8 2 0 5 3 6
+p77
+aVDrew Gooden MIL 04/02/2011 MIL vs. PHI W 30 12 6 16 37.5 0 1 0.0 0 0 - 1 11 12 2 0 0 3 3 10
+p78
+aVMichael Redd MIL 04/01/2011 MIL @ IND L 6 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p79
+aVBrandon Jennings MIL 04/01/2011 MIL @ IND L 37 20 8 18 44.4 2 6 33.3 2 4 50.0 3 4 7 3 2 0 3 1 3
+p80
+aVAndrew Bogut MIL 04/01/2011 MIL @ IND L 33 16 7 11 63.6 0 0 - 2 2 100.0 1 5 6 0 1 2 1 6 3
+p81
+aVLarry Sanders MIL 04/01/2011 MIL @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p82
+aVJohn Salmons MIL 04/01/2011 MIL @ IND L 29 8 3 10 30.0 0 4 0.0 2 2 100.0 0 3 3 3 1 1 1 0 -2
+p83
+aVKeyon Dooling MIL 04/01/2011 MIL @ IND L 23 9 3 7 42.9 3 5 60.0 0 0 - 0 0 0 4 0 0 2 1 -7
+p84
+aVCorey Maggette MIL 04/01/2011 MIL @ IND L 22 13 4 6 66.7 1 1 100.0 4 6 66.7 0 4 4 0 0 0 0 5 12
+p85
+aVLuc Mbah a Moute MIL 04/01/2011 MIL @ IND L 34 10 5 8 62.5 0 0 - 0 1 0.0 3 4 7 2 1 0 0 2 -2
+p86
+aVDrew Gooden MIL 04/01/2011 MIL @ IND L 28 8 3 11 27.3 0 2 0.0 2 4 50.0 2 8 10 1 0 1 0 0 -1
+p87
+aVEarl Boykins MIL 04/01/2011 MIL @ IND L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p88
+aVCarlos Delfino MIL 04/01/2011 MIL @ IND L 19 0 0 4 0.0 0 4 0.0 0 0 - 0 2 2 1 2 0 1 2 -7
+p89
+aVJon Brockman MIL 03/30/2011 MIL @ TOR W 1 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 5
+p90
+aVLuc Mbah a Moute MIL 03/30/2011 MIL @ TOR W 32 7 2 7 28.6 0 0 - 3 4 75.0 1 1 2 0 0 0 0 1 -10
+p91
+aVJohn Salmons MIL 03/30/2011 MIL @ TOR W 40 5 2 6 33.3 1 1 100.0 0 0 - 1 7 8 7 0 2 1 1 2
+p92
+aVCarlos Delfino MIL 03/30/2011 MIL @ TOR W 42 14 5 12 41.7 4 10 40.0 0 0 - 0 2 2 3 4 0 1 0 2
+p93
+aVBrandon Jennings MIL 03/30/2011 MIL @ TOR W 41 25 8 18 44.4 2 6 33.3 7 8 87.5 0 1 1 7 2 0 3 2 2
+p94
+aVMichael Redd MIL 03/30/2011 MIL @ TOR W 8 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 -1
+p95
+aVEarl Boykins MIL 03/30/2011 MIL @ TOR W 7 7 2 2 100.0 1 1 100.0 2 2 100.0 0 0 0 5 0 0 0 1 4
+p96
+aVDrew Gooden MIL 03/30/2011 MIL @ TOR W 25 22 8 17 47.1 0 0 - 6 8 75.0 6 5 11 1 1 1 2 3 15
+p97
+aVKeyon Dooling MIL 03/30/2011 MIL @ TOR W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 9
+p98
+aVAndrew Bogut MIL 03/30/2011 MIL @ TOR W 37 17 8 12 66.7 0 0 - 1 2 50.0 5 5 10 2 2 2 5 3 2
+p99
+aVCarlos Delfino MIL 03/28/2011 MIL @ CHA L 34 5 1 7 14.3 1 4 25.0 2 2 100.0 1 2 3 5 2 0 0 0 -19
+p100
+aVDrew Gooden MIL 03/28/2011 MIL @ CHA L 17 2 1 6 16.7 0 0 - 0 0 - 4 4 8 0 0 0 1 4 -2
+p101
+aVLarry Sanders MIL 03/28/2011 MIL @ CHA L 13 2 1 3 33.3 0 0 - 0 1 0.0 0 4 4 0 1 1 1 2 3
+p102
+aVJohn Salmons MIL 03/28/2011 MIL @ CHA L 34 9 3 11 27.3 1 6 16.7 2 2 100.0 1 5 6 6 0 1 1 4 -3
+p103
+aVLuc Mbah a Moute MIL 03/28/2011 MIL @ CHA L 28 11 4 8 50.0 0 0 - 3 4 75.0 4 2 6 0 0 0 0 5 3
+p104
+aVAndrew Bogut MIL 03/28/2011 MIL @ CHA L 37 26 13 19 68.4 0 0 - 0 0 - 5 4 9 0 1 2 3 3 -6
+p105
+aVKeyon Dooling MIL 03/28/2011 MIL @ CHA L 19 5 2 6 33.3 1 3 33.3 0 0 - 1 0 1 1 0 0 0 2 4
+p106
+aVMichael Redd MIL 03/28/2011 MIL @ CHA L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 4 0 0 0 0 11
+p107
+aVBrandon Jennings MIL 03/28/2011 MIL @ CHA L 42 26 10 27 37.0 2 8 25.0 4 4 100.0 1 8 9 5 1 0 0 0 4
+p108
+aVJon Brockman MIL 03/26/2011 MIL vs. CHI L 8 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 1 1 3 -9
+p109
+aVBrandon Jennings MIL 03/26/2011 MIL vs. CHI L 46 13 5 15 33.3 1 1 100.0 2 2 100.0 0 4 4 5 1 2 4 5 -4
+p110
+aVKeyon Dooling MIL 03/26/2011 MIL vs. CHI L 15 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 2 1 -13
+p111
+aVAndrew Bogut MIL 03/26/2011 MIL vs. CHI L 37 9 4 10 40.0 0 0 - 1 2 50.0 3 6 9 2 1 3 1 1 -3
+p112
+aVCarlos Delfino MIL 03/26/2011 MIL vs. CHI L 43 23 7 11 63.6 5 7 71.4 4 4 100.0 0 7 7 3 0 0 2 1 -5
+p113
+aVLuc Mbah a Moute MIL 03/26/2011 MIL vs. CHI L 36 10 3 10 30.0 0 0 - 4 4 100.0 3 5 8 2 1 0 0 4 -4
+p114
+aVLarry Sanders MIL 03/26/2011 MIL vs. CHI L 15 5 2 6 33.3 0 0 - 1 1 100.0 0 0 0 0 0 1 0 3 0
+p115
+aVJohn Salmons MIL 03/26/2011 MIL vs. CHI L 41 25 9 21 42.9 0 4 0.0 7 8 87.5 0 5 5 2 2 0 1 3 -2
+p116
+aVJon Brockman MIL 03/25/2011 MIL @ NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p117
+aVBrandon Jennings MIL 03/25/2011 MIL @ NYK W 42 37 13 25 52.0 4 9 44.4 7 9 77.8 0 6 6 3 0 0 4 1 14
+p118
+aVCarlos Delfino MIL 03/25/2011 MIL @ NYK W 38 8 3 9 33.3 2 6 33.3 0 0 - 0 3 3 4 2 0 0 4 7
+p119
+aVLuc Mbah a Moute MIL 03/25/2011 MIL @ NYK W 31 12 5 9 55.6 0 0 - 2 2 100.0 2 2 4 1 0 1 2 2 10
+p120
+aVAndrew Bogut MIL 03/25/2011 MIL @ NYK W 39 21 8 14 57.1 0 0 - 5 6 83.3 5 12 17 3 2 4 0 3 15
+p121
+aVJohn Salmons MIL 03/25/2011 MIL @ NYK W 41 11 5 11 45.5 1 1 100.0 0 0 - 0 8 8 5 2 0 2 3 13
+p122
+aVLarry Sanders MIL 03/25/2011 MIL @ NYK W 21 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 2 2 4 -6
+p123
+aVCorey Maggette MIL 03/25/2011 MIL @ NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -4
+p124
+aVKeyon Dooling MIL 03/25/2011 MIL @ NYK W 21 7 2 3 66.7 2 2 100.0 1 2 50.0 0 1 1 3 0 0 1 2 -12
+p125
+aVLuc Mbah a Moute MIL 03/23/2011 MIL vs. SAC L 29 11 4 6 66.7 0 0 - 3 4 75.0 2 2 4 2 0 0 1 3 -8
+p126
+aVEarl Boykins MIL 03/23/2011 MIL vs. SAC L 13 4 2 7 28.6 0 0 - 0 0 - 0 0 0 3 0 0 2 0 3
+p127
+aVBrandon Jennings MIL 03/23/2011 MIL vs. SAC L 33 6 2 7 28.6 0 3 0.0 2 2 100.0 1 3 4 6 0 2 2 4 -6
+p128
+aVKeyon Dooling MIL 03/23/2011 MIL vs. SAC L 19 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 3 0 0 2 1 -6
+p129
+aVJohn Salmons MIL 03/23/2011 MIL vs. SAC L 33 8 3 14 21.4 1 4 25.0 1 1 100.0 1 3 4 3 0 0 1 3 -7
+p130
+aVLarry Sanders MIL 03/23/2011 MIL vs. SAC L 15 10 5 7 71.4 0 0 - 0 0 - 1 3 4 1 2 3 0 2 5
+p131
+aVAndrew Bogut MIL 03/23/2011 MIL vs. SAC L 39 15 7 13 53.8 0 0 - 1 1 100.0 3 6 9 4 0 1 4 2 -10
+p132
+aVJon Brockman MIL 03/23/2011 MIL vs. SAC L 12 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 4 -1
+p133
+aVCarlos Delfino MIL 03/23/2011 MIL vs. SAC L 47 30 12 20 60.0 5 9 55.6 1 2 50.0 0 2 2 1 4 0 2 4 -5
+p134
+aVJohn Salmons MIL 03/20/2011 MIL vs. NYK W 41 22 8 17 47.1 1 3 33.3 5 6 83.3 0 3 3 3 0 1 3 3 13
+p135
+aVBrandon Jennings MIL 03/20/2011 MIL vs. NYK W 42 14 5 13 38.5 0 4 0.0 4 6 66.7 0 11 11 9 1 0 2 3 13
+p136
+aVKeyon Dooling MIL 03/20/2011 MIL vs. NYK W 14 0 0 2 0.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 0 -9
+p137
+aVLuc Mbah a Moute MIL 03/20/2011 MIL vs. NYK W 46 19 3 11 27.3 0 0 - 13 13 100.0 5 3 8 1 3 3 2 3 9
+p138
+aVCarlos Delfino MIL 03/20/2011 MIL vs. NYK W 43 30 8 13 61.5 6 11 54.5 8 10 80.0 3 8 11 2 0 0 1 2 6
+p139
+aVJon Brockman MIL 03/20/2011 MIL vs. NYK W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -7
+p140
+aVLarry Sanders MIL 03/20/2011 MIL vs. NYK W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -7
+p141
+aVEarl Boykins MIL 03/20/2011 MIL vs. NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p142
+aVAndrew Bogut MIL 03/20/2011 MIL vs. NYK W 40 13 6 12 50.0 0 0 - 1 2 50.0 2 10 12 3 1 2 3 3 15
+p143
+aVCarlos Delfino MIL 03/18/2011 MIL vs. NJN W 44 26 9 13 69.2 8 11 72.7 0 0 - 0 8 8 3 3 0 1 0 10
+p144
+aVJohn Salmons MIL 03/18/2011 MIL vs. NJN W 38 25 11 16 68.8 2 3 66.7 1 1 100.0 0 5 5 7 0 1 2 4 15
+p145
+aVBrandon Jennings MIL 03/18/2011 MIL vs. NJN W 43 16 7 14 50.0 0 2 0.0 2 2 100.0 1 3 4 10 0 1 1 4 18
+p146
+aVJon Brockman MIL 03/18/2011 MIL vs. NJN W 17 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 0 3 9
+p147
+aVKeyon Dooling MIL 03/18/2011 MIL vs. NJN W 14 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 0 4
+p148
+aVAndrew Bogut MIL 03/18/2011 MIL vs. NJN W 35 13 6 12 50.0 0 0 - 1 1 100.0 1 6 7 0 0 4 3 4 9
+p149
+aVEarl Boykins MIL 03/18/2011 MIL vs. NJN W 5 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 2 0 0 0 0 -3
+p150
+aVLuc Mbah a Moute MIL 03/18/2011 MIL vs. NJN W 33 15 7 10 70.0 0 0 - 1 2 50.0 2 3 5 1 1 0 0 2 15
+p151
+aVLarry Sanders MIL 03/18/2011 MIL vs. NJN W 11 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 -2
+p152
+aVJon Brockman MIL 03/16/2011 MIL vs. ORL L 22 6 2 4 50.0 0 0 - 2 4 50.0 2 6 8 0 1 0 1 6 1
+p153
+aVEarl Boykins MIL 03/16/2011 MIL vs. ORL L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 5 0 0 1 0 3
+p154
+aVBrandon Jennings MIL 03/16/2011 MIL vs. ORL L 46 23 8 20 40.0 2 10 20.0 5 5 100.0 2 1 3 8 2 0 5 1 -7
+p155
+aVCorey Maggette MIL 03/16/2011 MIL vs. ORL L 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 1 0
+p156
+aVKeyon Dooling MIL 03/16/2011 MIL vs. ORL L 32 10 3 9 33.3 2 5 40.0 2 3 66.7 0 1 1 1 0 0 1 0 9
+p157
+aVEarl Barron MIL 03/16/2011 MIL vs. ORL L 21 6 3 6 50.0 0 0 - 0 0 - 2 1 3 0 1 0 0 5 1
+p158
+aVCarlos Delfino MIL 03/16/2011 MIL vs. ORL L 20 2 0 7 0.0 0 3 0.0 2 2 100.0 1 3 4 2 1 0 1 0 -9
+p159
+aVJohn Salmons MIL 03/16/2011 MIL vs. ORL L 45 22 10 19 52.6 2 4 50.0 0 0 - 3 4 7 5 1 0 3 4 -3
+p160
+aVLarry Sanders MIL 03/16/2011 MIL vs. ORL L 18 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 2 0 0 6 -10
+p161
+aVLuc Mbah a Moute MIL 03/16/2011 MIL vs. ORL L 45 10 5 9 55.6 0 0 - 0 1 0.0 1 4 5 4 2 0 0 4 -5
+p162
+aVLuc Mbah a Moute MIL 03/15/2011 MIL @ ATL L 26 2 1 6 16.7 0 0 - 0 0 - 2 0 2 2 3 0 2 2 -11
+p163
+aVCorey Maggette MIL 03/15/2011 MIL @ ATL L 18 11 4 6 66.7 1 1 100.0 2 2 100.0 0 1 1 2 1 0 2 0 -8
+p164
+aVChris Douglas-Roberts MIL 03/15/2011 MIL @ ATL L 15 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 1 0 1 0 1
+p165
+aVKeyon Dooling MIL 03/15/2011 MIL @ ATL L 14 3 1 4 25.0 1 2 50.0 0 1 0.0 0 0 0 2 0 0 0 1 -20
+p166
+aVJon Brockman MIL 03/15/2011 MIL @ ATL L 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p167
+aVAndrew Bogut MIL 03/15/2011 MIL @ ATL L 31 21 10 17 58.8 0 0 - 1 1 100.0 2 11 13 1 1 1 2 3 -17
+p168
+aVJohn Salmons MIL 03/15/2011 MIL @ ATL L 30 10 4 10 40.0 0 2 0.0 2 3 66.7 0 1 1 4 0 1 0 2 -17
+p169
+aVLarry Sanders MIL 03/15/2011 MIL @ ATL L 12 5 1 5 20.0 0 0 - 3 4 75.0 2 1 3 0 0 0 0 0 -27
+p170
+aVCarlos Delfino MIL 03/15/2011 MIL @ ATL L 28 13 6 10 60.0 1 4 25.0 0 0 - 1 1 2 2 3 0 1 1 -8
+p171
+aVBrandon Jennings MIL 03/15/2011 MIL @ ATL L 29 4 1 8 12.5 0 1 0.0 2 2 100.0 0 1 1 2 0 0 2 2 -14
+p172
+aVEarl Boykins MIL 03/15/2011 MIL @ ATL L 10 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 1 0 1 1 -9
+p173
+aVEarl Barron MIL 03/15/2011 MIL @ ATL L 15 8 4 10 40.0 0 0 - 0 0 - 3 1 4 4 1 0 1 1 1
+p174
+aVCarlos Delfino MIL 03/13/2011 MIL @ BOS L 24 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 1 0 0 1 2 -18
+p175
+aVJon Brockman MIL 03/13/2011 MIL @ BOS L 18 3 1 2 50.0 0 0 - 1 1 100.0 0 6 6 1 0 0 1 4 -13
+p176
+aVChris Douglas-Roberts MIL 03/13/2011 MIL @ BOS L 17 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 3 -11
+p177
+aVLarry Sanders MIL 03/13/2011 MIL @ BOS L 17 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 1 1 0 2 1 -12
+p178
+aVLuc Mbah a Moute MIL 03/13/2011 MIL @ BOS L 27 7 3 6 50.0 0 0 - 1 1 100.0 1 6 7 0 1 2 1 0 -18
+p179
+aVKeyon Dooling MIL 03/13/2011 MIL @ BOS L 27 7 3 9 33.3 1 3 33.3 0 2 0.0 2 1 3 2 1 0 1 3 -16
+p180
+aVJohn Salmons MIL 03/13/2011 MIL @ BOS L 21 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 4 3 -15
+p181
+aVEarl Barron MIL 03/13/2011 MIL @ BOS L 10 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -6
+p182
+aVBrandon Jennings MIL 03/13/2011 MIL @ BOS L 27 8 3 8 37.5 1 3 33.3 1 3 33.3 0 2 2 3 1 0 1 0 -20
+p183
+aVCorey Maggette MIL 03/13/2011 MIL @ BOS L 7 3 0 3 0.0 0 2 0.0 3 4 75.0 0 1 1 0 0 0 0 1 -2
+p184
+aVAndrew Bogut MIL 03/13/2011 MIL @ BOS L 25 8 4 6 66.7 0 0 - 0 0 - 3 5 8 1 1 0 3 3 -13
+p185
+aVEarl Boykins MIL 03/13/2011 MIL @ BOS L 21 2 1 7 14.3 0 1 0.0 0 0 - 0 2 2 1 1 0 3 1 -11
+p186
+aVBrandon Jennings MIL 03/12/2011 MIL vs. PHI W 29 15 5 15 33.3 4 7 57.1 1 2 50.0 2 0 2 5 2 0 2 2 10
+p187
+aVLarry Sanders MIL 03/12/2011 MIL vs. PHI W 26 8 4 6 66.7 0 0 - 0 2 0.0 1 3 4 1 0 5 0 2 22
+p188
+aVEarl Barron MIL 03/12/2011 MIL vs. PHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p189
+aVChris Douglas-Roberts MIL 03/12/2011 MIL vs. PHI W 7 9 4 4 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 2
+p190
+aVJohn Salmons MIL 03/12/2011 MIL vs. PHI W 34 6 3 6 50.0 0 0 - 0 0 - 0 1 1 7 3 0 0 1 20
+p191
+aVCarlos Delfino MIL 03/12/2011 MIL vs. PHI W 28 12 5 9 55.6 2 4 50.0 0 0 - 1 2 3 1 4 0 3 2 16
+p192
+aVAndrew Bogut MIL 03/12/2011 MIL vs. PHI W 30 17 7 12 58.3 0 0 - 3 5 60.0 2 7 9 2 1 1 6 2 8
+p193
+aVLuc Mbah a Moute MIL 03/12/2011 MIL vs. PHI W 33 14 4 8 50.0 0 0 - 6 7 85.7 6 6 12 3 5 0 0 2 28
+p194
+aVJon Brockman MIL 03/12/2011 MIL vs. PHI W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -2
+p195
+aVEarl Boykins MIL 03/12/2011 MIL vs. PHI W 19 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 7 0 0 0 1 18
+p196
+aVKeyon Dooling MIL 03/12/2011 MIL vs. PHI W 21 13 4 8 50.0 2 4 50.0 3 3 100.0 0 7 7 0 1 0 1 1 22
+p197
+aVLarry Sanders MIL 03/09/2011 MIL vs. CLE W 22 12 6 9 66.7 0 0 - 0 0 - 0 5 5 1 0 0 2 2 2
+p198
+aVLuc Mbah a Moute MIL 03/09/2011 MIL vs. CLE W 26 6 2 6 33.3 0 0 - 2 4 50.0 0 4 4 0 0 0 2 0 3
+p199
+aVChris Douglas-Roberts MIL 03/09/2011 MIL vs. CLE W 24 13 5 10 50.0 0 1 0.0 3 3 100.0 0 1 1 3 1 0 0 3 17
+p200
+aVCarlos Delfino MIL 03/09/2011 MIL vs. CLE W 18 4 1 4 25.0 0 0 - 2 2 100.0 0 5 5 0 0 0 0 1 3
+p201
+aVAndrew Bogut MIL 03/09/2011 MIL vs. CLE W 23 3 1 6 16.7 0 0 - 1 2 50.0 1 9 10 2 1 3 3 3 21
+p202
+aVBrandon Jennings MIL 03/09/2011 MIL vs. CLE W 24 18 7 10 70.0 2 3 66.7 2 3 66.7 0 2 2 4 1 0 2 3 -1
+p203
+aVJon Brockman MIL 03/09/2011 MIL vs. CLE W 21 11 2 5 40.0 0 0 - 7 8 87.5 3 3 6 1 1 1 1 4 14
+p204
+aVJohn Salmons MIL 03/09/2011 MIL vs. CLE W 30 12 5 11 45.5 1 2 50.0 1 2 50.0 0 2 2 4 1 0 0 0 11
+p205
+aVKeyon Dooling MIL 03/09/2011 MIL vs. CLE W 23 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 5 2 0 1 2 9
+p206
+aVEarl Barron MIL 03/09/2011 MIL vs. CLE W 4 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p207
+aVEarl Boykins MIL 03/09/2011 MIL vs. CLE W 24 18 8 9 88.9 2 3 66.7 0 0 - 1 1 2 3 0 0 1 2 21
+p208
+aVAndrew Bogut MIL 03/08/2011 MIL @ WAS W 34 14 7 13 53.8 0 0 - 0 2 0.0 1 8 9 7 1 0 3 5 14
+p209
+aVJohn Salmons MIL 03/08/2011 MIL @ WAS W 33 22 7 14 50.0 2 5 40.0 6 6 100.0 1 4 5 5 1 0 1 0 25
+p210
+aVJon Brockman MIL 03/08/2011 MIL @ WAS W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 2 7
+p211
+aVLarry Sanders MIL 03/08/2011 MIL @ WAS W 21 6 2 7 28.6 0 0 - 2 3 66.7 4 2 6 2 0 2 1 4 0
+p212
+aVChris Douglas-Roberts MIL 03/08/2011 MIL @ WAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p213
+aVKeyon Dooling MIL 03/08/2011 MIL @ WAS W 25 12 4 9 44.4 2 4 50.0 2 2 100.0 1 2 3 2 1 0 1 2 10
+p214
+aVBrandon Jennings MIL 03/08/2011 MIL @ WAS W 30 23 10 20 50.0 3 9 33.3 0 0 - 0 5 5 4 3 0 1 0 24
+p215
+aVLuc Mbah a Moute MIL 03/08/2011 MIL @ WAS W 34 1 0 3 0.0 0 0 - 1 2 50.0 1 4 5 1 2 1 2 1 17
+p216
+aVEarl Boykins MIL 03/08/2011 MIL @ WAS W 18 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 3 0 1 1 -5
+p217
+aVCarlos Delfino MIL 03/08/2011 MIL @ WAS W 36 15 5 11 45.5 2 4 50.0 3 3 100.0 1 6 7 2 3 0 2 3 5
+p218
+aVLarry Sanders MIL 03/06/2011 MIL vs. BOS L 25 8 4 10 40.0 0 0 - 0 0 - 2 5 7 0 1 0 1 3 -2
+p219
+aVChris Douglas-Roberts MIL 03/06/2011 MIL vs. BOS L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 1 1 0 -10
+p220
+aVJon Brockman MIL 03/06/2011 MIL vs. BOS L 34 4 2 4 50.0 0 0 - 0 0 - 4 5 9 1 1 0 0 2 -6
+p221
+aVCorey Maggette MIL 03/06/2011 MIL vs. BOS L 12 5 2 5 40.0 1 1 100.0 0 0 - 0 4 4 3 0 0 2 2 2
+p222
+aVKeyon Dooling MIL 03/06/2011 MIL vs. BOS L 14 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 5
+p223
+aVLuc Mbah a Moute MIL 03/06/2011 MIL vs. BOS L 37 19 8 13 61.5 0 0 - 3 5 60.0 4 3 7 1 2 0 3 2 -1
+p224
+aVJohn Salmons MIL 03/06/2011 MIL vs. BOS L 35 11 4 13 30.8 1 4 25.0 2 3 66.7 0 2 2 6 4 0 3 3 0
+p225
+aVBrandon Jennings MIL 03/06/2011 MIL vs. BOS L 41 23 8 19 42.1 3 7 42.9 4 5 80.0 2 4 6 5 3 1 4 1 -17
+p226
+aVCarlos Delfino MIL 03/06/2011 MIL vs. BOS L 30 6 2 7 28.6 2 6 33.3 0 0 - 0 1 1 2 0 0 1 4 -1
+p227
+aVCarlos Delfino MIL 03/04/2011 MIL vs. PHX L 26 3 1 7 14.3 1 2 50.0 0 0 - 2 7 9 3 5 0 3 0 -2
+p228
+aVCorey Maggette MIL 03/04/2011 MIL vs. PHX L 28 21 8 12 66.7 1 1 100.0 4 4 100.0 1 8 9 0 1 0 1 3 -13
+p229
+aVJohn Salmons MIL 03/04/2011 MIL vs. PHX L 36 6 2 8 25.0 0 2 0.0 2 2 100.0 0 4 4 3 0 1 1 1 -19
+p230
+aVBrandon Jennings MIL 03/04/2011 MIL vs. PHX L 33 16 5 17 29.4 0 5 0.0 6 7 85.7 0 4 4 1 2 0 2 3 -17
+p231
+aVJon Brockman MIL 03/04/2011 MIL vs. PHX L 29 3 1 4 25.0 0 0 - 1 2 50.0 5 1 6 1 0 0 2 4 4
+p232
+aVEarl Boykins MIL 03/04/2011 MIL vs. PHX L 20 14 7 13 53.8 0 2 0.0 0 0 - 1 1 2 3 2 0 2 2 3
+p233
+aVKeyon Dooling MIL 03/04/2011 MIL vs. PHX L 24 9 3 7 42.9 1 3 33.3 2 2 100.0 0 0 0 2 0 0 0 2 -8
+p234
+aVEarl Barron MIL 03/04/2011 MIL vs. PHX L 13 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 1 1 0 0
+p235
+aVChris Douglas-Roberts MIL 03/04/2011 MIL vs. PHX L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p236
+aVLarry Sanders MIL 03/04/2011 MIL vs. PHX L 26 10 5 10 50.0 0 0 - 0 0 - 2 3 5 0 1 1 2 6 -19
+p237
+aVBrandon Jennings MIL 03/01/2011 MIL vs. DET W 36 21 8 19 42.1 2 7 28.6 3 4 75.0 0 5 5 4 2 1 3 1 -2
+p238
+aVCorey Maggette MIL 03/01/2011 MIL vs. DET W 20 11 3 7 42.9 1 1 100.0 4 8 50.0 2 3 5 0 0 0 3 3 1
+p239
+aVLarry Sanders MIL 03/01/2011 MIL vs. DET W 30 2 1 6 16.7 0 0 - 0 2 0.0 1 7 8 0 0 3 2 5 3
+p240
+aVJohn Salmons MIL 03/01/2011 MIL vs. DET W 38 14 6 12 50.0 2 4 50.0 0 2 0.0 0 4 4 2 0 1 2 4 1
+p241
+aVCarlos Delfino MIL 03/01/2011 MIL vs. DET W 39 16 5 12 41.7 3 7 42.9 3 4 75.0 2 8 10 4 4 2 2 0 -6
+p242
+aVJon Brockman MIL 03/01/2011 MIL vs. DET W 26 8 4 6 66.7 0 0 - 0 0 - 7 1 8 2 1 0 1 1 -2
+p243
+aVEarl Barron MIL 03/01/2011 MIL vs. DET W 16 4 2 7 28.6 0 0 - 0 0 - 5 4 9 0 0 1 0 1 5
+p244
+aVEarl Boykins MIL 03/01/2011 MIL vs. DET W 12 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 7
+p245
+aVKeyon Dooling MIL 03/01/2011 MIL vs. DET W 22 12 5 9 55.6 1 3 33.3 1 1 100.0 0 1 1 2 0 0 2 1 3
+p246
+aVCorey Maggette MIL 02/26/2011 MIL vs. CHI L 14 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 2 0 0 1 3 -8
+p247
+aVEarl Boykins MIL 02/26/2011 MIL vs. CHI L 12 10 4 5 80.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 0 3
+p248
+aVKeyon Dooling MIL 02/26/2011 MIL vs. CHI L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -13
+p249
+aVBrandon Jennings MIL 02/26/2011 MIL vs. CHI L 28 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 1 0 3 1 -3
+p250
+aVCarlos Delfino MIL 02/26/2011 MIL vs. CHI L 37 9 3 13 23.1 1 5 20.0 2 2 100.0 0 3 3 2 0 0 0 1 -2
+p251
+aVJon Brockman MIL 02/26/2011 MIL vs. CHI L 10 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 2 3
+p252
+aVAndrew Bogut MIL 02/26/2011 MIL vs. CHI L 36 6 2 10 20.0 0 0 - 2 4 50.0 5 11 16 2 0 1 1 4 -10
+p253
+aVLuc Mbah a Moute MIL 02/26/2011 MIL vs. CHI L 26 16 7 9 77.8 0 0 - 2 2 100.0 4 4 8 1 4 0 1 4 9
+p254
+aVJohn Salmons MIL 02/26/2011 MIL vs. CHI L 37 14 5 16 31.3 2 6 33.3 2 2 100.0 0 2 2 1 0 2 4 1 -1
+p255
+aVLarry Sanders MIL 02/26/2011 MIL vs. CHI L 24 6 3 7 42.9 0 0 - 0 0 - 2 1 3 1 0 0 1 3 -18
+p256
+aVCorey Maggette MIL 02/23/2011 MIL @ NYK L 12 13 5 9 55.6 1 2 50.0 2 2 100.0 0 0 0 0 1 0 1 2 -2
+p257
+aVBrandon Jennings MIL 02/23/2011 MIL @ NYK L 35 12 4 11 36.4 2 4 50.0 2 2 100.0 0 2 2 3 2 0 4 3 0
+p258
+aVErsan Ilyasova MIL 02/23/2011 MIL @ NYK L 15 8 4 7 57.1 0 1 0.0 0 0 - 3 0 3 1 0 0 0 2 -3
+p259
+aVJohn Salmons MIL 02/23/2011 MIL @ NYK L 40 27 7 14 50.0 2 3 66.7 11 13 84.6 0 4 4 7 1 0 3 6 -5
+p260
+aVAndrew Bogut MIL 02/23/2011 MIL @ NYK L 41 14 5 12 41.7 0 0 - 4 6 66.7 1 11 12 2 0 2 3 2 -2
+p261
+aVLuc Mbah a Moute MIL 02/23/2011 MIL @ NYK L 25 7 1 5 20.0 0 0 - 5 6 83.3 6 2 8 0 2 1 1 2 -8
+p262
+aVKeyon Dooling MIL 02/23/2011 MIL @ NYK L 27 13 5 10 50.0 3 6 50.0 0 1 0.0 0 3 3 3 2 0 2 5 1
+p263
+aVCarlos Delfino MIL 02/23/2011 MIL @ NYK L 39 14 5 14 35.7 3 7 42.9 1 2 50.0 3 4 7 2 0 0 1 2 -10
+p264
+aVJon Brockman MIL 02/23/2011 MIL @ NYK L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p265
+aVJon Brockman MIL 02/22/2011 MIL vs. MIN W 25 4 1 3 33.3 0 0 - 2 3 66.7 4 10 14 0 1 0 0 5 7
+p266
+aVLuc Mbah a Moute MIL 02/22/2011 MIL vs. MIN W 12 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 1 4 8
+p267
+aVAndrew Bogut MIL 02/22/2011 MIL vs. MIN W 23 7 3 5 60.0 0 0 - 1 2 50.0 0 6 6 2 0 4 2 4 -1
+p268
+aVCorey Maggette MIL 02/22/2011 MIL vs. MIN W 26 20 7 17 41.2 0 4 0.0 6 7 85.7 1 5 6 2 0 0 4 3 3
+p269
+aVJohn Salmons MIL 02/22/2011 MIL vs. MIN W 38 12 4 13 30.8 1 4 25.0 3 3 100.0 0 2 2 5 2 0 2 0 -3
+p270
+aVCarlos Delfino MIL 02/22/2011 MIL vs. MIN W 37 13 4 10 40.0 3 9 33.3 2 2 100.0 2 7 9 1 2 1 1 2 6
+p271
+aVEarl Boykins MIL 02/22/2011 MIL vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p272
+aVKeyon Dooling MIL 02/22/2011 MIL vs. MIN W 21 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 1 0 0 0 3 11
+p273
+aVBrandon Jennings MIL 02/22/2011 MIL vs. MIN W 45 27 7 17 41.2 2 8 25.0 11 12 91.7 0 3 3 7 3 2 1 1 5
+p274
+aVErsan Ilyasova MIL 02/22/2011 MIL vs. MIN W 12 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 1 1 0 0 4 -6
+p275
+aVJohn Salmons MIL 02/16/2011 MIL vs. DEN L 42 33 13 23 56.5 1 6 16.7 6 6 100.0 0 4 4 1 0 2 0 0 -13
+p276
+aVJon Brockman MIL 02/16/2011 MIL vs. DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p277
+aVLuc Mbah a Moute MIL 02/16/2011 MIL vs. DEN L 42 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 0 1 0 1 3 -12
+p278
+aVCorey Maggette MIL 02/16/2011 MIL vs. DEN L 25 16 4 12 33.3 1 3 33.3 7 9 77.8 1 4 5 2 0 0 0 3 10
+p279
+aVBrandon Jennings MIL 02/16/2011 MIL vs. DEN L 27 4 1 11 9.1 0 6 0.0 2 2 100.0 0 2 2 3 2 0 1 4 -25
+p280
+aVAndrew Bogut MIL 02/16/2011 MIL vs. DEN L 45 3 1 7 14.3 0 0 - 1 4 25.0 1 19 20 2 0 5 3 3 -2
+p281
+aVEarl Boykins MIL 02/16/2011 MIL vs. DEN L 21 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 5 3 1 1 0 18
+p282
+aVLarry Sanders MIL 02/16/2011 MIL vs. DEN L 6 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 7
+p283
+aVCarlos Delfino MIL 02/16/2011 MIL vs. DEN L 29 12 4 10 40.0 0 6 0.0 4 5 80.0 0 3 3 1 1 1 0 3 -13
+p284
+aVAndrew Bogut MIL 02/14/2011 MIL vs. LAC W 30 10 5 9 55.6 0 0 - 0 4 0.0 1 3 4 2 0 3 3 6 5
+p285
+aVLuc Mbah a Moute MIL 02/14/2011 MIL vs. LAC W 39 13 3 4 75.0 0 1 0.0 7 8 87.5 4 6 10 1 1 0 0 5 27
+p286
+aVGarrett Temple MIL 02/14/2011 MIL vs. LAC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 8
+p287
+aVJon Brockman MIL 02/14/2011 MIL vs. LAC W 25 11 3 3 100.0 0 0 - 5 6 83.3 1 1 2 0 0 0 0 3 22
+p288
+aVKeyon Dooling MIL 02/14/2011 MIL vs. LAC W 20 6 2 6 33.3 1 4 25.0 1 2 50.0 0 2 2 2 1 0 2 0 14
+p289
+aVJohn Salmons MIL 02/14/2011 MIL vs. LAC W 45 16 5 13 38.5 1 5 20.0 5 6 83.3 0 1 1 12 1 0 0 1 21
+p290
+aVCarlos Delfino MIL 02/14/2011 MIL vs. LAC W 41 26 9 15 60.0 7 10 70.0 1 2 50.0 1 8 9 2 3 0 1 2 21
+p291
+aVBrandon Jennings MIL 02/14/2011 MIL vs. LAC W 34 20 8 17 47.1 2 5 40.0 2 2 100.0 0 5 5 4 1 0 5 2 5
+p292
+aVErsan Ilyasova MIL 02/14/2011 MIL vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p293
+aVKeyon Dooling MIL 02/12/2011 MIL vs. IND L 20 13 5 8 62.5 1 2 50.0 2 2 100.0 0 2 2 0 2 0 0 5 13
+p294
+aVCarlos Delfino MIL 02/12/2011 MIL vs. IND L 35 21 7 15 46.7 1 4 25.0 6 6 100.0 1 1 2 5 3 0 2 3 -4
+p295
+aVAndrew Bogut MIL 02/12/2011 MIL vs. IND L 35 9 4 10 40.0 0 0 - 1 2 50.0 2 10 12 3 0 0 1 4 -19
+p296
+aVLuc Mbah a Moute MIL 02/12/2011 MIL vs. IND L 25 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 2 0
+p297
+aVJohn Salmons MIL 02/12/2011 MIL vs. IND L 36 9 4 11 36.4 1 3 33.3 0 0 - 0 3 3 2 0 0 3 3 -16
+p298
+aVJon Brockman MIL 02/12/2011 MIL vs. IND L 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 8
+p299
+aVCorey Maggette MIL 02/12/2011 MIL vs. IND L 6 8 3 7 42.9 2 4 50.0 0 0 - 1 0 1 1 0 0 1 1 -1
+p300
+aVEarl Boykins MIL 02/12/2011 MIL vs. IND L 11 11 4 7 57.1 1 2 50.0 2 2 100.0 1 2 3 4 1 0 1 0 11
+p301
+aVBrandon Jennings MIL 02/12/2011 MIL vs. IND L 36 10 3 10 30.0 1 4 25.0 3 4 75.0 2 4 6 2 1 0 1 3 -21
+p302
+aVErsan Ilyasova MIL 02/12/2011 MIL vs. IND L 34 10 4 12 33.3 2 4 50.0 0 0 - 3 3 6 2 1 0 0 3 -1
+p303
+aVCorey Maggette MIL 02/11/2011 MIL @ MEM L 30 22 6 12 50.0 4 6 66.7 6 7 85.7 0 2 2 0 0 0 3 4 -7
+p304
+aVBrandon Jennings MIL 02/11/2011 MIL @ MEM L 36 16 6 17 35.3 3 7 42.9 1 1 100.0 0 2 2 3 2 1 4 2 4
+p305
+aVAndrew Bogut MIL 02/11/2011 MIL @ MEM L 40 5 2 9 22.2 0 0 - 1 2 50.0 3 11 14 1 1 2 2 4 -2
+p306
+aVCarlos Delfino MIL 02/11/2011 MIL @ MEM L 23 6 2 9 22.2 2 6 33.3 0 0 - 0 3 3 1 1 0 0 0 -2
+p307
+aVErsan Ilyasova MIL 02/11/2011 MIL @ MEM L 27 2 1 4 25.0 0 1 0.0 0 0 - 2 4 6 0 1 1 3 2 4
+p308
+aVKeyon Dooling MIL 02/11/2011 MIL @ MEM L 24 8 2 9 22.2 1 5 20.0 3 3 100.0 0 1 1 3 0 0 2 3 -3
+p309
+aVLuc Mbah a Moute MIL 02/11/2011 MIL @ MEM L 19 9 4 6 66.7 0 0 - 1 2 50.0 4 5 9 0 1 0 1 5 -12
+p310
+aVJohn Salmons MIL 02/11/2011 MIL @ MEM L 34 18 5 11 45.5 1 1 100.0 7 9 77.8 1 4 5 6 2 2 2 4 -1
+p311
+aVJon Brockman MIL 02/11/2011 MIL @ MEM L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 3 4
+p312
+aVChris Douglas-Roberts MIL 02/09/2011 MIL @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p313
+aVAndrew Bogut MIL 02/09/2011 MIL @ WAS L 38 12 6 12 50.0 0 0 - 0 3 0.0 4 7 11 4 0 4 2 5 -14
+p314
+aVErsan Ilyasova MIL 02/09/2011 MIL @ WAS L 33 10 4 10 40.0 2 2 100.0 0 0 - 3 6 9 1 0 0 1 2 -3
+p315
+aVCarlos Delfino MIL 02/09/2011 MIL @ WAS L 26 8 4 9 44.4 0 2 0.0 0 0 - 0 3 3 1 0 0 0 0 -2
+p316
+aVLuc Mbah a Moute MIL 02/09/2011 MIL @ WAS L 14 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 2 -6
+p317
+aVBrandon Jennings MIL 02/09/2011 MIL @ WAS L 38 20 9 24 37.5 1 6 16.7 1 2 50.0 3 2 5 4 3 0 2 2 -5
+p318
+aVEarl Boykins MIL 02/09/2011 MIL @ WAS L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p319
+aVJon Brockman MIL 02/09/2011 MIL @ WAS L 7 3 1 1 100.0 0 0 - 1 1 100.0 0 3 3 1 0 0 1 0 -6
+p320
+aVCorey Maggette MIL 02/09/2011 MIL @ WAS L 29 10 5 12 41.7 0 1 0.0 0 1 0.0 2 4 6 2 0 0 2 1 -21
+p321
+aVJohn Salmons MIL 02/09/2011 MIL @ WAS L 36 14 6 13 46.2 1 1 100.0 1 1 100.0 0 1 1 3 2 0 1 2 -6
+p322
+aVKeyon Dooling MIL 02/09/2011 MIL @ WAS L 16 6 2 5 40.0 0 2 0.0 2 2 100.0 0 0 0 4 1 0 2 0 -6
+p323
+aVBrandon Jennings MIL 02/08/2011 MIL vs. TOR W 27 12 6 14 42.9 0 2 0.0 0 0 - 0 2 2 3 4 0 2 1 14
+p324
+aVLuc Mbah a Moute MIL 02/08/2011 MIL vs. TOR W 29 10 3 6 50.0 0 0 - 4 7 57.1 7 7 14 0 0 0 2 3 6
+p325
+aVJon Brockman MIL 02/08/2011 MIL vs. TOR W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p326
+aVErsan Ilyasova MIL 02/08/2011 MIL vs. TOR W 34 6 3 6 50.0 0 0 - 0 0 - 2 6 8 1 0 2 0 3 18
+p327
+aVGarrett Temple MIL 02/08/2011 MIL vs. TOR W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p328
+aVJohn Salmons MIL 02/08/2011 MIL vs. TOR W 35 17 7 18 38.9 1 3 33.3 2 3 66.7 1 5 6 2 1 0 2 2 19
+p329
+aVCorey Maggette MIL 02/08/2011 MIL vs. TOR W 28 16 5 10 50.0 0 0 - 6 6 100.0 1 8 9 1 0 0 3 3 13
+p330
+aVAndrew Bogut MIL 02/08/2011 MIL vs. TOR W 30 14 6 8 75.0 0 0 - 2 3 66.7 0 5 5 3 1 5 1 2 13
+p331
+aVKeyon Dooling MIL 02/08/2011 MIL vs. TOR W 21 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 5 0 0 2 0 4
+p332
+aVCarlos Delfino MIL 02/08/2011 MIL vs. TOR W 22 9 4 11 36.4 1 6 16.7 0 1 0.0 0 2 2 2 1 0 1 0 5
+p333
+aVChris Douglas-Roberts MIL 02/08/2011 MIL vs. TOR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p334
+aVChris Douglas-Roberts MIL 02/05/2011 MIL vs. DET L 9 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -1
+p335
+aVCarlos Delfino MIL 02/05/2011 MIL vs. DET L 31 8 2 11 18.2 2 6 33.3 2 2 100.0 0 3 3 1 2 0 2 3 -6
+p336
+aVKeyon Dooling MIL 02/05/2011 MIL vs. DET L 14 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 1 0 0 3 1 -6
+p337
+aVEarl Boykins MIL 02/05/2011 MIL vs. DET L 9 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -1
+p338
+aVLarry Sanders MIL 02/05/2011 MIL vs. DET L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -1
+p339
+aVJohn Salmons MIL 02/05/2011 MIL vs. DET L 20 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 1 1 1 2 3 -11
+p340
+aVGarrett Temple MIL 02/05/2011 MIL vs. DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p341
+aVAndrew Bogut MIL 02/05/2011 MIL vs. DET L 38 18 8 15 53.3 0 0 - 2 2 100.0 2 7 9 2 0 3 1 3 -3
+p342
+aVBrandon Jennings MIL 02/05/2011 MIL vs. DET L 25 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 5 1 0 1 2 -4
+p343
+aVErsan Ilyasova MIL 02/05/2011 MIL vs. DET L 25 6 3 11 27.3 0 1 0.0 0 0 - 4 5 9 2 0 0 0 0 -16
+p344
+aVLuc Mbah a Moute MIL 02/05/2011 MIL vs. DET L 25 4 1 1 100.0 0 0 - 2 3 66.7 2 3 5 0 0 0 1 1 -2
+p345
+aVCorey Maggette MIL 02/05/2011 MIL vs. DET L 34 15 7 12 58.3 1 2 50.0 0 0 - 1 2 3 3 2 0 3 3 -6
+p346
+aVCarlos Delfino MIL 02/03/2011 MIL @ GSW L 45 20 9 22 40.9 2 10 20.0 0 0 - 2 6 8 5 5 0 2 1 -2
+p347
+aVJohn Salmons MIL 02/03/2011 MIL @ GSW L 21 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 0 -6
+p348
+aVLuc Mbah a Moute MIL 02/03/2011 MIL @ GSW L 41 15 6 12 50.0 0 0 - 3 3 100.0 11 8 19 5 2 0 3 4 -1
+p349
+aVCorey Maggette MIL 02/03/2011 MIL @ GSW L 30 21 8 14 57.1 0 1 0.0 5 7 71.4 0 0 0 2 1 0 0 1 -4
+p350
+aVBrandon Jennings MIL 02/03/2011 MIL @ GSW L 20 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 6 1 0 2 2 2
+p351
+aVGarrett Temple MIL 02/03/2011 MIL @ GSW L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 2
+p352
+aVKeyon Dooling MIL 02/03/2011 MIL @ GSW L 28 9 3 9 33.3 3 7 42.9 0 0 - 1 1 2 9 2 0 1 2 -8
+p353
+aVLarry Sanders MIL 02/03/2011 MIL @ GSW L 14 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -8
+p354
+aVErsan Ilyasova MIL 02/03/2011 MIL @ GSW L 34 23 10 20 50.0 1 2 50.0 2 2 100.0 5 8 13 2 1 1 3 3 -5
+p355
+aVChris Douglas-Roberts MIL 02/02/2011 MIL @ PHX L 27 9 2 12 16.7 0 2 0.0 5 5 100.0 0 3 3 0 1 0 1 5 -6
+p356
+aVLuc Mbah a Moute MIL 02/02/2011 MIL @ PHX L 40 4 1 6 16.7 0 0 - 2 2 100.0 4 1 5 1 3 1 0 2 -20
+p357
+aVJohn Salmons MIL 02/02/2011 MIL @ PHX L 11 2 1 7 14.3 0 2 0.0 0 0 - 1 1 2 0 0 0 0 0 -4
+p358
+aVErsan Ilyasova MIL 02/02/2011 MIL @ PHX L 33 15 7 20 35.0 1 5 20.0 0 0 - 1 8 9 0 4 0 1 3 -6
+p359
+aVCorey Maggette MIL 02/02/2011 MIL @ PHX L 29 15 6 12 50.0 1 2 50.0 2 2 100.0 1 7 8 2 0 1 3 2 -4
+p360
+aVBrandon Jennings MIL 02/02/2011 MIL @ PHX L 24 6 2 10 20.0 1 4 25.0 1 1 100.0 4 2 6 5 0 0 0 1 -13
+p361
+aVEarl Boykins MIL 02/02/2011 MIL @ PHX L 23 14 5 11 45.5 0 2 0.0 4 6 66.7 0 1 1 4 2 0 1 1 0
+p362
+aVGarrett Temple MIL 02/02/2011 MIL @ PHX L 10 2 1 4 25.0 0 2 0.0 0 2 0.0 0 0 0 0 1 0 1 1 -5
+p363
+aVCarlos Delfino MIL 02/02/2011 MIL @ PHX L 28 10 3 8 37.5 2 4 50.0 2 2 100.0 0 1 1 1 1 0 0 0 -22
+p364
+aVJon Brockman MIL 02/02/2011 MIL @ PHX L 14 0 0 0 - 0 0 - 0 0 - 3 1 4 0 0 1 0 1 5
+p365
+aVJon Brockman MIL 01/31/2011 MIL @ LAC L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -8
+p366
+aVAndrew Bogut MIL 01/31/2011 MIL @ LAC L 41 14 6 9 66.7 0 0 - 2 5 40.0 3 8 11 3 2 1 1 2 1
+p367
+aVErsan Ilyasova MIL 01/31/2011 MIL @ LAC L 26 15 7 8 87.5 1 1 100.0 0 0 - 1 5 6 0 2 0 2 6 -9
+p368
+aVBrandon Jennings MIL 01/31/2011 MIL @ LAC L 17 12 5 13 38.5 2 3 66.7 0 0 - 0 0 0 3 0 0 1 2 -1
+p369
+aVLuc Mbah a Moute MIL 01/31/2011 MIL @ LAC L 22 10 5 5 100.0 0 0 - 0 0 - 4 2 6 0 0 0 2 0 7
+p370
+aVCarlos Delfino MIL 01/31/2011 MIL @ LAC L 33 4 2 9 22.2 0 4 0.0 0 0 - 0 3 3 5 0 0 3 2 -5
+p371
+aVCorey Maggette MIL 01/31/2011 MIL @ LAC L 36 25 6 13 46.2 0 4 0.0 13 15 86.7 1 3 4 2 1 0 2 5 -3
+p372
+aVGarrett Temple MIL 01/31/2011 MIL @ LAC L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -15
+p373
+aVKeyon Dooling MIL 01/31/2011 MIL @ LAC L 31 11 5 11 45.5 1 4 25.0 0 0 - 0 2 2 8 3 0 1 4 -6
+p374
+aVChris Douglas-Roberts MIL 01/31/2011 MIL @ LAC L 24 4 0 4 0.0 0 0 - 4 4 100.0 0 0 0 4 1 0 2 4 4
+p375
+aVErsan Ilyasova MIL 01/29/2011 MIL vs. NJN W 32 14 6 9 66.7 0 1 0.0 2 4 50.0 3 5 8 2 1 0 2 3 12
+p376
+aVCorey Maggette MIL 01/29/2011 MIL vs. NJN W 28 14 3 8 37.5 2 3 66.7 6 6 100.0 0 1 1 0 0 0 4 3 2
+p377
+aVKeyon Dooling MIL 01/29/2011 MIL vs. NJN W 37 14 6 10 60.0 2 4 50.0 0 0 - 0 4 4 9 2 0 1 2 13
+p378
+aVLarry Sanders MIL 01/29/2011 MIL vs. NJN W 2 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -3
+p379
+aVBrandon Jennings MIL 01/29/2011 MIL vs. NJN W 11 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -3
+p380
+aVCarlos Delfino MIL 01/29/2011 MIL vs. NJN W 42 21 7 16 43.8 4 9 44.4 3 4 75.0 0 5 5 2 2 0 0 1 10
+p381
+aVAndrew Bogut MIL 01/29/2011 MIL vs. NJN W 38 17 7 18 38.9 0 0 - 3 7 42.9 6 12 18 1 0 7 0 5 3
+p382
+aVGarrett Temple MIL 01/29/2011 MIL vs. NJN W 26 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 0 0 0 1 4 8
+p383
+aVLuc Mbah a Moute MIL 01/29/2011 MIL vs. NJN W 23 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 1 0 0 2 9
+p384
+aVJon Brockman MIL 01/29/2011 MIL vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p385
+aVChris Douglas-Roberts MIL 01/28/2011 MIL @ TOR W 24 11 3 6 50.0 1 2 50.0 4 4 100.0 1 3 4 3 0 0 2 3 17
+p386
+aVJon Brockman MIL 01/28/2011 MIL @ TOR W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -6
+p387
+aVCarlos Delfino MIL 01/28/2011 MIL @ TOR W 36 15 4 13 30.8 1 4 25.0 6 8 75.0 0 2 2 6 2 1 3 3 -2
+p388
+aVEarl Boykins MIL 01/28/2011 MIL @ TOR W 13 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 1 -6
+p389
+aVLarry Sanders MIL 01/28/2011 MIL @ TOR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p390
+aVGarrett Temple MIL 01/28/2011 MIL @ TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -8
+p391
+aVCorey Maggette MIL 01/28/2011 MIL @ TOR W 44 29 10 21 47.6 1 3 33.3 8 10 80.0 1 10 11 5 0 0 5 3 5
+p392
+aVLuc Mbah a Moute MIL 01/28/2011 MIL @ TOR W 22 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 1 3 4
+p393
+aVErsan Ilyasova MIL 01/28/2011 MIL @ TOR W 34 25 9 10 90.0 2 2 100.0 5 5 100.0 0 7 7 1 3 2 2 6 10
+p394
+aVAndrew Bogut MIL 01/28/2011 MIL @ TOR W 38 24 12 14 85.7 0 0 - 0 2 0.0 3 4 7 2 0 4 1 4 11
+p395
+aVKeyon Dooling MIL 01/28/2011 MIL @ TOR W 40 10 3 6 50.0 1 3 33.3 3 6 50.0 0 3 3 5 1 0 1 2 12
+p396
+aVAndrew Bogut MIL 01/26/2011 MIL vs. ATL W 35 8 3 12 25.0 0 0 - 2 2 100.0 2 12 14 1 1 1 1 4 5
+p397
+aVGarrett Temple MIL 01/26/2011 MIL vs. ATL W 18 8 3 5 60.0 2 3 66.7 0 2 0.0 0 3 3 3 0 0 0 2 11
+p398
+aVLuc Mbah a Moute MIL 01/26/2011 MIL vs. ATL W 20 2 1 5 20.0 0 0 - 0 0 - 4 3 7 1 2 0 0 2 -16
+p399
+aVEarl Boykins MIL 01/26/2011 MIL vs. ATL W 26 20 7 11 63.6 0 0 - 6 8 75.0 0 1 1 3 0 0 0 1 9
+p400
+aVCorey Maggette MIL 01/26/2011 MIL vs. ATL W 26 22 8 12 66.7 3 4 75.0 3 4 75.0 2 2 4 1 1 1 1 6 8
+p401
+aVLarry Sanders MIL 01/26/2011 MIL vs. ATL W 13 8 4 7 57.1 0 0 - 0 0 - 0 4 4 0 0 3 0 1 3
+p402
+aVCarlos Delfino MIL 01/26/2011 MIL vs. ATL W 32 15 5 11 45.5 5 9 55.6 0 0 - 0 5 5 4 1 0 1 2 5
+p403
+aVErsan Ilyasova MIL 01/26/2011 MIL vs. ATL W 24 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 0 1 0 3 4 9
+p404
+aVChris Douglas-Roberts MIL 01/26/2011 MIL vs. ATL W 23 4 1 8 12.5 0 1 0.0 2 2 100.0 0 1 1 4 0 0 1 1 5
+p405
+aVKeyon Dooling MIL 01/26/2011 MIL vs. ATL W 22 3 0 4 0.0 0 2 0.0 3 3 100.0 0 1 1 5 0 0 0 1 1
+p406
+aVCarlos Delfino MIL 01/24/2011 MIL @ CHI L 31 3 1 5 20.0 0 2 0.0 1 2 50.0 0 2 2 1 1 0 1 1 -13
+p407
+aVCorey Maggette MIL 01/24/2011 MIL @ CHI L 20 4 1 4 25.0 0 1 0.0 2 2 100.0 1 3 4 0 1 0 3 3 3
+p408
+aVEarl Boykins MIL 01/24/2011 MIL @ CHI L 11 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p409
+aVErsan Ilyasova MIL 01/24/2011 MIL @ CHI L 32 17 8 16 50.0 1 3 33.3 0 0 - 1 1 2 1 0 1 2 3 -5
+p410
+aVAndrew Bogut MIL 01/24/2011 MIL @ CHI L 39 8 4 11 36.4 0 0 - 0 0 - 3 15 18 2 0 3 1 2 -2
+p411
+aVLuc Mbah a Moute MIL 01/24/2011 MIL @ CHI L 16 8 4 5 80.0 0 0 - 0 1 0.0 1 6 7 0 1 0 0 3 -4
+p412
+aVKeyon Dooling MIL 01/24/2011 MIL @ CHI L 39 13 4 7 57.1 4 6 66.7 1 1 100.0 0 3 3 10 1 0 3 5 -2
+p413
+aVChris Douglas-Roberts MIL 01/24/2011 MIL @ CHI L 44 30 13 21 61.9 0 1 0.0 4 5 80.0 1 2 3 2 0 0 2 0 -6
+p414
+aVLarry Sanders MIL 01/24/2011 MIL @ CHI L 9 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p415
+aVEarl Boykins MIL 01/22/2011 MIL vs. MEM L 36 23 8 22 36.4 3 6 50.0 4 4 100.0 1 2 3 3 4 1 2 1 -11
+p416
+aVAndrew Bogut MIL 01/22/2011 MIL vs. MEM L 32 14 7 14 50.0 0 0 - 0 0 - 6 3 9 3 2 3 2 4 -25
+p417
+aVErsan Ilyasova MIL 01/22/2011 MIL vs. MEM L 21 6 3 5 60.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 3 -7
+p418
+aVCarlos Delfino MIL 01/22/2011 MIL vs. MEM L 32 5 2 12 16.7 1 7 14.3 0 2 0.0 0 2 2 2 0 1 2 2 -7
+p419
+aVChris Douglas-Roberts MIL 01/22/2011 MIL vs. MEM L 15 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -3
+p420
+aVKeyon Dooling MIL 01/22/2011 MIL vs. MEM L 24 7 2 10 20.0 1 5 20.0 2 2 100.0 0 1 1 4 1 0 0 0 -12
+p421
+aVCorey Maggette MIL 01/22/2011 MIL vs. MEM L 37 12 5 11 45.5 0 0 - 2 4 50.0 2 6 8 5 2 0 3 3 -6
+p422
+aVLarry Sanders MIL 01/22/2011 MIL vs. MEM L 27 12 6 11 54.5 0 0 - 0 0 - 4 2 6 0 0 3 0 3 -6
+p423
+aVJon Brockman MIL 01/22/2011 MIL vs. MEM L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 12
+p424
+aVLuc Mbah a Moute MIL 01/22/2011 MIL vs. MEM L 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p425
+aVCorey Maggette MIL 01/21/2011 MIL @ CLE W 33 20 6 12 50.0 0 0 - 8 9 88.9 1 4 5 3 0 0 2 1 14
+p426
+aVLuc Mbah a Moute MIL 01/21/2011 MIL @ CLE W 19 6 2 3 66.7 0 0 - 2 2 100.0 3 6 9 0 1 1 2 5 -2
+p427
+aVChris Douglas-Roberts MIL 01/21/2011 MIL @ CLE W 30 5 2 6 33.3 0 1 0.0 1 1 100.0 0 3 3 1 3 0 1 3 3
+p428
+aVEarl Boykins MIL 01/21/2011 MIL @ CLE W 26 9 4 8 50.0 0 2 0.0 1 2 50.0 0 1 1 4 2 1 0 2 3
+p429
+aVErsan Ilyasova MIL 01/21/2011 MIL @ CLE W 14 7 3 5 60.0 1 2 50.0 0 0 - 2 3 5 1 0 0 0 4 11
+p430
+aVAndrew Bogut MIL 01/21/2011 MIL @ CLE W 32 23 11 14 78.6 0 0 - 1 2 50.0 2 4 6 2 0 2 3 4 20
+p431
+aVCarlos Delfino MIL 01/21/2011 MIL @ CLE W 23 9 4 11 36.4 1 7 14.3 0 0 - 0 5 5 1 0 0 0 2 4
+p432
+aVKeyon Dooling MIL 01/21/2011 MIL @ CLE W 32 12 3 10 30.0 2 4 50.0 4 4 100.0 0 1 1 11 1 0 1 4 18
+p433
+aVJon Brockman MIL 01/21/2011 MIL @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p434
+aVLarry Sanders MIL 01/21/2011 MIL @ CLE W 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 3 4 1 8
+p435
+aVDrew Gooden MIL 01/21/2011 MIL @ CLE W 16 7 2 5 40.0 0 0 - 3 4 75.0 0 3 3 0 0 0 0 2 -7
+p436
+aVLuc Mbah a Moute MIL 01/19/2011 MIL vs. WAS W 13 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 3 -1
+p437
+aVEarl Boykins MIL 01/19/2011 MIL vs. WAS W 31 19 5 10 50.0 2 2 100.0 7 8 87.5 0 3 3 4 2 0 1 0 15
+p438
+aVLarry Sanders MIL 01/19/2011 MIL vs. WAS W 2 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 0
+p439
+aVCorey Maggette MIL 01/19/2011 MIL vs. WAS W 35 21 7 18 38.9 0 2 0.0 7 7 100.0 1 4 5 4 2 0 2 3 14
+p440
+aVErsan Ilyasova MIL 01/19/2011 MIL vs. WAS W 27 9 2 6 33.3 0 0 - 5 5 100.0 1 8 9 1 4 0 0 3 5
+p441
+aVAndrew Bogut MIL 01/19/2011 MIL vs. WAS W 36 6 3 8 37.5 0 0 - 0 4 0.0 2 7 9 2 0 1 2 4 13
+p442
+aVDrew Gooden MIL 01/19/2011 MIL vs. WAS W 21 8 4 10 40.0 0 0 - 0 0 - 0 4 4 1 2 1 1 2 9
+p443
+aVJon Brockman MIL 01/19/2011 MIL vs. WAS W 9 4 1 2 50.0 0 0 - 2 4 50.0 2 2 4 0 0 0 2 1 -1
+p444
+aVChris Douglas-Roberts MIL 01/19/2011 MIL vs. WAS W 22 6 3 5 60.0 0 1 0.0 0 0 - 0 6 6 1 0 1 3 1 5
+p445
+aVKeyon Dooling MIL 01/19/2011 MIL vs. WAS W 43 23 9 11 81.8 3 4 75.0 2 2 100.0 0 1 1 3 0 0 3 1 6
+p446
+aVLuc Mbah a Moute MIL 01/17/2011 MIL @ HOU L 14 3 1 3 33.3 0 1 0.0 1 2 50.0 1 2 3 0 0 1 0 0 1
+p447
+aVAndrew Bogut MIL 01/17/2011 MIL @ HOU L 38 10 5 11 45.5 0 0 - 0 4 0.0 3 7 10 2 1 1 1 2 -10
+p448
+aVJohn Salmons MIL 01/17/2011 MIL @ HOU L 29 9 4 8 50.0 1 1 100.0 0 0 - 0 5 5 3 0 0 3 2 -10
+p449
+aVEarl Boykins MIL 01/17/2011 MIL @ HOU L 15 5 2 7 28.6 0 0 - 1 2 50.0 0 1 1 6 0 0 0 2 1
+p450
+aVDrew Gooden MIL 01/17/2011 MIL @ HOU L 29 14 6 9 66.7 0 0 - 2 2 100.0 1 10 11 0 0 2 0 2 0
+p451
+aVErsan Ilyasova MIL 01/17/2011 MIL @ HOU L 24 4 2 10 20.0 0 2 0.0 0 0 - 2 6 8 1 1 2 0 3 -8
+p452
+aVChris Douglas-Roberts MIL 01/17/2011 MIL @ HOU L 20 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 1 0 2 1
+p453
+aVKeyon Dooling MIL 01/17/2011 MIL @ HOU L 33 12 5 14 35.7 2 6 33.3 0 0 - 0 2 2 4 0 0 1 2 -10
+p454
+aVCorey Maggette MIL 01/17/2011 MIL @ HOU L 39 25 11 18 61.1 2 4 50.0 1 1 100.0 0 3 3 3 0 0 4 5 -10
+p455
+aVEarl Boykins MIL 01/14/2011 MIL @ PHI L 31 8 3 11 27.3 1 4 25.0 1 2 50.0 3 1 4 11 3 0 0 3 3
+p456
+aVChris Douglas-Roberts MIL 01/14/2011 MIL @ PHI L 13 8 2 3 66.7 0 0 - 4 4 100.0 0 1 1 1 0 0 1 1 2
+p457
+aVAndrew Bogut MIL 01/14/2011 MIL @ PHI L 33 10 4 10 40.0 0 0 - 2 3 66.7 3 9 12 5 3 3 1 1 -2
+p458
+aVErsan Ilyasova MIL 01/14/2011 MIL @ PHI L 33 14 5 8 62.5 1 1 100.0 3 3 100.0 1 3 4 1 1 1 1 4 9
+p459
+aVJohn Salmons MIL 01/14/2011 MIL @ PHI L 36 12 5 13 38.5 1 2 50.0 1 1 100.0 1 2 3 2 1 1 1 4 1
+p460
+aVCorey Maggette MIL 01/14/2011 MIL @ PHI L 29 16 7 10 70.0 0 0 - 2 2 100.0 1 4 5 3 0 1 2 3 -3
+p461
+aVDrew Gooden MIL 01/14/2011 MIL @ PHI L 22 12 6 12 50.0 0 3 0.0 0 0 - 1 1 2 1 0 0 1 2 1
+p462
+aVLuc Mbah a Moute MIL 01/14/2011 MIL @ PHI L 20 2 1 3 33.3 0 0 - 0 2 0.0 1 1 2 0 1 1 2 2 -16
+p463
+aVKeyon Dooling MIL 01/14/2011 MIL @ PHI L 24 12 5 10 50.0 2 4 50.0 0 0 - 0 0 0 4 1 0 1 1 0
+p464
+aVCorey Maggette MIL 01/12/2011 MIL vs. SAS L 18 9 2 9 22.2 0 2 0.0 5 6 83.3 1 1 2 2 0 0 2 3 -3
+p465
+aVEarl Boykins MIL 01/12/2011 MIL vs. SAS L 20 12 4 10 40.0 0 1 0.0 4 4 100.0 0 1 1 2 0 0 1 1 -8
+p466
+aVAndrew Bogut MIL 01/12/2011 MIL vs. SAS L 38 15 7 13 53.8 0 0 - 1 2 50.0 5 9 14 2 0 4 1 1 4
+p467
+aVDrew Gooden MIL 01/12/2011 MIL vs. SAS L 10 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 0 1 1 0 1 -11
+p468
+aVErsan Ilyasova MIL 01/12/2011 MIL vs. SAS L 34 11 5 13 38.5 0 2 0.0 1 1 100.0 2 8 10 0 0 0 2 3 -3
+p469
+aVJon Brockman MIL 01/12/2011 MIL vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p470
+aVJohn Salmons MIL 01/12/2011 MIL vs. SAS L 36 17 6 13 46.2 2 2 100.0 3 4 75.0 1 3 4 1 2 0 1 4 -5
+p471
+aVChris Douglas-Roberts MIL 01/12/2011 MIL vs. SAS L 23 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 4 -2
+p472
+aVKeyon Dooling MIL 01/12/2011 MIL vs. SAS L 28 5 2 9 22.2 1 2 50.0 0 0 - 1 0 1 6 0 0 1 0 1
+p473
+aVLuc Mbah a Moute MIL 01/12/2011 MIL vs. SAS L 30 7 3 5 60.0 0 0 - 1 1 100.0 1 3 4 1 0 1 3 2 -10
+p474
+aVLarry Sanders MIL 01/08/2011 MIL @ NJN W 20 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 1 0 3 1 2 -4
+p475
+aVChris Douglas-Roberts MIL 01/08/2011 MIL @ NJN W 36 24 9 14 64.3 1 3 33.3 5 5 100.0 0 2 2 4 3 0 2 3 10
+p476
+aVJohn Salmons MIL 01/08/2011 MIL @ NJN W 34 12 3 8 37.5 3 3 100.0 3 4 75.0 1 3 4 3 1 0 2 0 20
+p477
+aVCorey Maggette MIL 01/08/2011 MIL @ NJN W 28 20 5 9 55.6 0 1 0.0 10 11 90.9 0 6 6 0 0 0 3 5 11
+p478
+aVErsan Ilyasova MIL 01/08/2011 MIL @ NJN W 40 22 10 14 71.4 0 0 - 2 3 66.7 1 12 13 4 3 1 1 5 25
+p479
+aVLuc Mbah a Moute MIL 01/08/2011 MIL @ NJN W 17 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 1 0 1 0 3 24
+p480
+aVKeyon Dooling MIL 01/08/2011 MIL @ NJN W 23 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 7 0 0 0 0 23
+p481
+aVJon Brockman MIL 01/08/2011 MIL @ NJN W 14 0 0 0 - 0 0 - 0 0 - 0 3 3 1 1 0 1 2 6
+p482
+aVEarl Boykins MIL 01/08/2011 MIL @ NJN W 27 17 7 12 58.3 1 4 25.0 2 2 100.0 0 1 1 6 0 0 0 2 0
+p483
+aVEarl Boykins MIL 01/07/2011 MIL vs. MIA L 27 14 5 11 45.5 0 2 0.0 4 4 100.0 1 1 2 4 0 0 5 5 -7
+p484
+aVJon Brockman MIL 01/07/2011 MIL vs. MIA L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p485
+aVLarry Sanders MIL 01/07/2011 MIL vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p486
+aVErsan Ilyasova MIL 01/07/2011 MIL vs. MIA L 23 9 3 8 37.5 1 4 25.0 2 2 100.0 3 4 7 1 1 1 0 3 -3
+p487
+aVKeyon Dooling MIL 01/07/2011 MIL vs. MIA L 26 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 7 0 0 4 1 3
+p488
+aVAndrew Bogut MIL 01/07/2011 MIL vs. MIA L 48 12 4 17 23.5 0 0 - 4 8 50.0 7 20 27 3 3 2 4 3 -7
+p489
+aVLuc Mbah a Moute MIL 01/07/2011 MIL vs. MIA L 41 10 5 7 71.4 0 0 - 0 0 - 1 3 4 2 3 2 3 2 2
+p490
+aVJohn Salmons MIL 01/07/2011 MIL vs. MIA L 39 15 5 12 41.7 2 7 28.6 3 4 75.0 1 2 3 1 2 0 4 3 -11
+p491
+aVChris Douglas-Roberts MIL 01/07/2011 MIL vs. MIA L 41 30 12 19 63.2 2 3 66.7 4 6 66.7 1 4 5 2 2 4 2 2 4
+p492
+aVCorey Maggette MIL 01/07/2011 MIL vs. MIA L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 -10
+p493
+aVJohn Salmons MIL 01/05/2011 MIL @ ORL L 31 13 5 17 29.4 1 5 20.0 2 2 100.0 0 1 1 1 1 0 1 1 -17
+p494
+aVJon Brockman MIL 01/05/2011 MIL @ ORL L 11 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 0 0 0 0 5 -2
+p495
+aVChris Douglas-Roberts MIL 01/05/2011 MIL @ ORL L 27 7 3 8 37.5 1 1 100.0 0 0 - 0 2 2 1 0 1 0 2 -1
+p496
+aVLarry Sanders MIL 01/05/2011 MIL @ ORL L 31 15 7 10 70.0 0 0 - 1 4 25.0 5 3 8 1 0 1 1 3 8
+p497
+aVLuc Mbah a Moute MIL 01/05/2011 MIL @ ORL L 20 6 2 5 40.0 0 0 - 2 4 50.0 4 3 7 1 1 0 0 4 -7
+p498
+aVErsan Ilyasova MIL 01/05/2011 MIL @ ORL L 17 5 2 10 20.0 1 2 50.0 0 0 - 2 5 7 0 2 0 0 1 -14
+p499
+aVKeyon Dooling MIL 01/05/2011 MIL @ ORL L 23 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 2 1 0 1 1 -10
+p500
+aVAndrew Bogut MIL 01/05/2011 MIL @ ORL L 30 6 2 5 40.0 0 0 - 2 10 20.0 1 6 7 2 2 4 1 6 -7
+p501
+aVCorey Maggette MIL 01/05/2011 MIL @ ORL L 25 21 7 9 77.8 1 1 100.0 6 8 75.0 0 7 7 1 0 0 3 4 0
+p502
+aVEarl Boykins MIL 01/05/2011 MIL @ ORL L 25 12 4 14 28.6 2 2 100.0 2 2 100.0 1 4 5 2 1 0 2 0 0
+p503
+aVChris Douglas-Roberts MIL 01/04/2011 MIL @ MIA L 20 6 2 6 33.3 1 1 100.0 1 2 50.0 0 2 2 0 1 0 0 1 8
+p504
+aVJon Brockman MIL 01/04/2011 MIL @ MIA L 17 6 3 3 100.0 0 0 - 0 0 - 3 2 5 1 1 0 0 2 20
+p505
+aVLuc Mbah a Moute MIL 01/04/2011 MIL @ MIA L 42 9 1 6 16.7 0 0 - 7 10 70.0 0 7 7 1 1 1 1 3 -5
+p506
+aVCorey Maggette MIL 01/04/2011 MIL @ MIA L 18 7 1 4 25.0 0 1 0.0 5 6 83.3 0 3 3 1 0 0 2 4 -13
+p507
+aVAndrew Bogut MIL 01/04/2011 MIL @ MIA L 33 16 7 13 53.8 0 0 - 2 5 40.0 3 5 8 0 1 2 2 4 -24
+p508
+aVEarl Boykins MIL 01/04/2011 MIL @ MIA L 15 6 2 8 25.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 1 0 -9
+p509
+aVErsan Ilyasova MIL 01/04/2011 MIL @ MIA L 23 7 3 7 42.9 1 2 50.0 0 0 - 0 3 3 0 1 1 0 5 -21
+p510
+aVJohn Salmons MIL 01/04/2011 MIL @ MIA L 40 18 6 18 33.3 2 4 50.0 4 4 100.0 1 3 4 6 1 0 2 4 -13
+p511
+aVKeyon Dooling MIL 01/04/2011 MIL @ MIA L 33 14 4 8 50.0 1 2 50.0 5 5 100.0 0 1 1 5 2 0 1 2 -3
+p512
+aVJohn Salmons MIL 01/01/2011 MIL vs. DAL W 42 21 9 15 60.0 2 4 50.0 1 2 50.0 0 6 6 5 2 0 2 2 6
+p513
+aVAndrew Bogut MIL 01/01/2011 MIL vs. DAL W 36 8 4 9 44.4 0 0 - 0 0 - 1 7 8 5 0 3 4 5 19
+p514
+aVErsan Ilyasova MIL 01/01/2011 MIL vs. DAL W 36 16 5 11 45.5 0 2 0.0 6 6 100.0 3 14 17 1 0 0 2 3 8
+p515
+aVChris Douglas-Roberts MIL 01/01/2011 MIL vs. DAL W 15 6 3 6 50.0 0 2 0.0 0 2 0.0 0 2 2 1 0 1 0 1 3
+p516
+aVLuc Mbah a Moute MIL 01/01/2011 MIL vs. DAL W 12 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -2
+p517
+aVKeyon Dooling MIL 01/01/2011 MIL vs. DAL W 31 7 3 7 42.9 1 3 33.3 0 1 0.0 0 4 4 3 1 0 1 1 10
+p518
+aVCorey Maggette MIL 01/01/2011 MIL vs. DAL W 21 9 2 7 28.6 0 0 - 5 6 83.3 1 5 6 2 1 0 4 2 7
+p519
+aVEarl Boykins MIL 01/01/2011 MIL vs. DAL W 33 26 9 16 56.3 1 5 20.0 7 8 87.5 0 3 3 6 0 0 3 0 15
+p520
+aVJon Brockman MIL 01/01/2011 MIL vs. DAL W 10 4 2 2 100.0 0 0 - 0 0 - 2 0 2 1 0 0 0 4 3
+p521
+aVBrian Skinner MIL 01/01/2011 MIL vs. DAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p522
+aVChris Douglas-Roberts MIL 12/28/2010 MIL @ CHI L 16 5 2 11 18.2 1 2 50.0 0 0 - 3 1 4 0 0 0 1 0 -5
+p523
+aVLuc Mbah a Moute MIL 12/28/2010 MIL @ CHI L 34 12 5 9 55.6 0 1 0.0 2 2 100.0 6 4 10 0 1 1 2 2 -16
+p524
+aVErsan Ilyasova MIL 12/28/2010 MIL @ CHI L 29 10 4 13 30.8 0 2 0.0 2 2 100.0 2 5 7 0 1 0 3 1 3
+p525
+aVKeyon Dooling MIL 12/28/2010 MIL @ CHI L 38 11 4 9 44.4 1 2 50.0 2 2 100.0 1 1 2 6 2 1 4 2 -5
+p526
+aVJohn Salmons MIL 12/28/2010 MIL @ CHI L 42 18 5 17 29.4 2 5 40.0 6 7 85.7 0 4 4 2 0 1 0 1 -16
+p527
+aVLarry Sanders MIL 12/28/2010 MIL @ CHI L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p528
+aVAndrew Bogut MIL 12/28/2010 MIL @ CHI L 36 4 2 12 16.7 0 0 - 0 2 0.0 6 10 16 2 0 4 0 5 0
+p529
+aVJon Brockman MIL 12/28/2010 MIL @ CHI L 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -12
+p530
+aVCorey Maggette MIL 12/28/2010 MIL @ CHI L 27 15 4 8 50.0 1 2 50.0 6 10 60.0 1 3 4 1 0 0 3 4 -9
+p531
+aVAndrew Bogut MIL 12/27/2010 MIL vs. ATL L 43 14 7 19 36.8 0 0 - 0 1 0.0 4 7 11 1 1 1 0 2 -11
+p532
+aVJon Brockman MIL 12/27/2010 MIL vs. ATL L 15 3 1 2 50.0 0 0 - 1 2 50.0 2 4 6 0 0 0 0 0 -6
+p533
+aVLuc Mbah a Moute MIL 12/27/2010 MIL vs. ATL L 14 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 1 0 0 0 1 -15
+p534
+aVJohn Salmons MIL 12/27/2010 MIL vs. ATL L 41 18 6 12 50.0 3 3 100.0 3 4 75.0 0 2 2 1 0 1 4 3 -9
+p535
+aVLarry Sanders MIL 12/27/2010 MIL vs. ATL L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -2
+p536
+aVEarl Boykins MIL 12/27/2010 MIL vs. ATL L 26 13 4 11 36.4 0 2 0.0 5 6 83.3 0 0 0 2 1 0 4 1 -17
+p537
+aVErsan Ilyasova MIL 12/27/2010 MIL vs. ATL L 18 6 2 7 28.6 0 2 0.0 2 2 100.0 2 1 3 0 0 1 3 4 -1
+p538
+aVChris Douglas-Roberts MIL 12/27/2010 MIL vs. ATL L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 2 0 1 1 6
+p539
+aVCorey Maggette MIL 12/27/2010 MIL vs. ATL L 18 6 1 1 100.0 0 0 - 4 5 80.0 0 2 2 0 0 0 1 3 -11
+p540
+aVKeyon Dooling MIL 12/27/2010 MIL vs. ATL L 41 15 5 13 38.5 1 6 16.7 4 4 100.0 0 4 4 9 1 0 1 1 -9
+p541
+aVAndrew Bogut MIL 12/23/2010 MIL @ SAC W 38 15 7 14 50.0 0 0 - 1 4 25.0 2 11 13 0 1 4 4 4 -2
+p542
+aVEarl Boykins MIL 12/23/2010 MIL @ SAC W 29 19 9 17 52.9 1 2 50.0 0 0 - 0 2 2 1 1 0 3 1 14
+p543
+aVKeyon Dooling MIL 12/23/2010 MIL @ SAC W 43 14 5 12 41.7 1 6 16.7 3 4 75.0 1 3 4 5 1 0 1 1 12
+p544
+aVJon Brockman MIL 12/23/2010 MIL @ SAC W 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 11
+p545
+aVChris Douglas-Roberts MIL 12/23/2010 MIL @ SAC W 33 5 2 8 25.0 0 0 - 1 1 100.0 0 1 1 1 1 0 1 3 -13
+p546
+aVLuc Mbah a Moute MIL 12/23/2010 MIL @ SAC W 14 6 2 3 66.7 0 0 - 2 3 66.7 0 2 2 0 0 0 0 1 15
+p547
+aVLarry Sanders MIL 12/23/2010 MIL @ SAC W 23 8 4 7 57.1 0 0 - 0 0 - 1 3 4 0 1 4 0 3 0
+p548
+aVErsan Ilyasova MIL 12/23/2010 MIL @ SAC W 20 3 1 4 25.0 0 1 0.0 1 2 50.0 1 4 5 0 1 1 0 3 -3
+p549
+aVJohn Salmons MIL 12/23/2010 MIL @ SAC W 32 12 4 14 28.6 0 0 - 4 4 100.0 1 3 4 6 1 0 3 2 -9
+p550
+aVLarry Sanders MIL 12/21/2010 MIL @ LAL W 11 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 1 0 0 0 -5
+p551
+aVAndrew Bogut MIL 12/21/2010 MIL @ LAL W 37 15 7 9 77.8 0 0 - 1 1 100.0 2 6 8 4 1 2 5 4 24
+p552
+aVJohn Salmons MIL 12/21/2010 MIL @ LAL W 40 20 6 14 42.9 1 3 33.3 7 9 77.8 1 2 3 6 2 0 2 3 25
+p553
+aVLuc Mbah a Moute MIL 12/21/2010 MIL @ LAL W 28 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 3 12
+p554
+aVEarl Boykins MIL 12/21/2010 MIL @ LAL W 26 22 8 12 66.7 4 5 80.0 2 2 100.0 1 2 3 2 0 0 2 0 11
+p555
+aVKeyon Dooling MIL 12/21/2010 MIL @ LAL W 24 8 3 9 33.3 2 4 50.0 0 0 - 0 1 1 5 1 0 3 0 6
+p556
+aVJon Brockman MIL 12/21/2010 MIL @ LAL W 16 0 0 2 0.0 0 0 - 0 0 - 2 4 6 0 1 0 1 1 0
+p557
+aVChris Douglas-Roberts MIL 12/21/2010 MIL @ LAL W 25 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 2 0 0 4 3
+p558
+aVErsan Ilyasova MIL 12/21/2010 MIL @ LAL W 33 17 6 13 46.2 1 2 50.0 4 4 100.0 6 5 11 1 0 1 2 3 19
+p559
+aVJohn Salmons MIL 12/20/2010 MIL @ POR L 30 23 8 13 61.5 2 3 66.7 5 6 83.3 0 3 3 1 1 0 2 3 -14
+p560
+aVJon Brockman MIL 12/20/2010 MIL @ POR L 22 0 0 3 0.0 0 0 - 0 0 - 1 4 5 1 0 0 1 3 -3
+p561
+aVChris Douglas-Roberts MIL 12/20/2010 MIL @ POR L 26 4 1 7 14.3 0 0 - 2 2 100.0 0 3 3 1 1 0 1 3 -19
+p562
+aVLarry Sanders MIL 12/20/2010 MIL @ POR L 9 6 3 4 75.0 0 0 - 0 2 0.0 3 1 4 0 0 0 0 0 -9
+p563
+aVDrew Gooden MIL 12/20/2010 MIL @ POR L 20 10 4 10 40.0 1 3 33.3 1 1 100.0 1 3 4 0 0 0 2 4 -1
+p564
+aVKeyon Dooling MIL 12/20/2010 MIL @ POR L 28 12 4 12 33.3 0 4 0.0 4 4 100.0 0 0 0 5 1 0 0 1 -12
+p565
+aVErsan Ilyasova MIL 12/20/2010 MIL @ POR L 19 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -16
+p566
+aVAndrew Bogut MIL 12/20/2010 MIL @ POR L 26 5 2 7 28.6 0 0 - 1 2 50.0 1 4 5 0 0 0 1 3 -23
+p567
+aVLuc Mbah a Moute MIL 12/20/2010 MIL @ POR L 34 10 4 9 44.4 0 0 - 2 2 100.0 4 3 7 2 1 0 2 3 -18
+p568
+aVEarl Boykins MIL 12/20/2010 MIL @ POR L 27 6 2 11 18.2 1 4 25.0 1 3 33.3 1 0 1 3 3 0 1 1 -15
+p569
+aVBrandon Jennings MIL 12/18/2010 MIL vs. UTA L 30 6 3 7 42.9 0 3 0.0 0 0 - 0 3 3 4 2 1 3 4 -20
+p570
+aVErsan Ilyasova MIL 12/18/2010 MIL vs. UTA L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 0 0 0 1 4 1
+p571
+aVLuc Mbah a Moute MIL 12/18/2010 MIL vs. UTA L 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 1
+p572
+aVJon Brockman MIL 12/18/2010 MIL vs. UTA L 0 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p573
+aVJohn Salmons MIL 12/18/2010 MIL vs. UTA L 45 18 5 15 33.3 4 6 66.7 4 4 100.0 0 2 2 3 1 1 2 1 -9
+p574
+aVAndrew Bogut MIL 12/18/2010 MIL vs. UTA L 35 19 8 13 61.5 0 1 0.0 3 6 50.0 0 9 9 2 1 1 4 1 -15
+p575
+aVChris Douglas-Roberts MIL 12/18/2010 MIL vs. UTA L 37 13 3 9 33.3 0 1 0.0 7 7 100.0 0 2 2 1 0 1 0 2 -5
+p576
+aVDrew Gooden MIL 12/18/2010 MIL vs. UTA L 29 12 6 8 75.0 0 1 0.0 0 0 - 1 6 7 4 1 0 0 3 -5
+p577
+aVCorey Maggette MIL 12/18/2010 MIL vs. UTA L 8 0 0 5 0.0 0 0 - 0 0 - 1 0 1 1 1 0 2 1 5
+p578
+aVKeyon Dooling MIL 12/18/2010 MIL vs. UTA L 26 14 5 7 71.4 3 4 75.0 1 1 100.0 0 2 2 5 0 1 0 2 0
+p579
+aVEarl Boykins MIL 12/15/2010 MIL @ SAS L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p580
+aVDrew Gooden MIL 12/15/2010 MIL @ SAS L 25 20 7 15 46.7 0 0 - 6 7 85.7 4 7 11 0 0 1 3 3 10
+p581
+aVAndrew Bogut MIL 12/15/2010 MIL @ SAS L 36 15 7 11 63.6 0 0 - 1 2 50.0 1 6 7 4 1 7 2 2 -5
+p582
+aVChris Douglas-Roberts MIL 12/15/2010 MIL @ SAS L 40 21 8 15 53.3 2 3 66.7 3 3 100.0 0 3 3 2 2 1 3 2 -2
+p583
+aVErsan Ilyasova MIL 12/15/2010 MIL @ SAS L 30 13 5 9 55.6 1 2 50.0 2 2 100.0 1 5 6 0 1 1 3 3 -5
+p584
+aVCorey Maggette MIL 12/15/2010 MIL @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -2
+p585
+aVBrandon Jennings MIL 12/15/2010 MIL @ SAS L 43 12 4 18 22.2 2 4 50.0 2 2 100.0 1 2 3 7 0 0 1 1 2
+p586
+aVKeyon Dooling MIL 12/15/2010 MIL @ SAS L 35 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 3 2 0 1 3 -10
+p587
+aVLuc Mbah a Moute MIL 12/15/2010 MIL @ SAS L 22 2 1 3 33.3 0 0 - 0 0 - 0 5 5 1 2 0 0 1 8
+p588
+aVBrandon Jennings MIL 12/13/2010 MIL @ DAL W 41 23 9 19 47.4 3 4 75.0 2 2 100.0 0 5 5 10 2 0 4 1 14
+p589
+aVAndrew Bogut MIL 12/13/2010 MIL @ DAL W 42 21 10 12 83.3 0 0 - 1 6 16.7 4 10 14 2 1 2 2 6 12
+p590
+aVJon Brockman MIL 12/13/2010 MIL @ DAL W 1 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -2
+p591
+aVDrew Gooden MIL 12/13/2010 MIL @ DAL W 22 8 4 9 44.4 0 0 - 0 0 - 1 3 4 0 1 0 0 4 -9
+p592
+aVJohn Salmons MIL 12/13/2010 MIL @ DAL W 32 5 2 7 28.6 1 2 50.0 0 0 - 0 3 3 3 1 0 2 3 2
+p593
+aVLarry Sanders MIL 12/13/2010 MIL @ DAL W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -12
+p594
+aVKeyon Dooling MIL 12/13/2010 MIL @ DAL W 27 16 4 10 40.0 3 4 75.0 5 5 100.0 2 0 2 4 1 0 0 2 5
+p595
+aVLuc Mbah a Moute MIL 12/13/2010 MIL @ DAL W 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -9
+p596
+aVChris Douglas-Roberts MIL 12/13/2010 MIL @ DAL W 27 14 4 5 80.0 0 0 - 6 7 85.7 0 5 5 2 0 0 1 2 5
+p597
+aVErsan Ilyasova MIL 12/13/2010 MIL @ DAL W 23 12 5 11 45.5 2 3 66.7 0 0 - 2 1 3 1 0 0 0 2 20
+p598
+aVCorey Maggette MIL 12/13/2010 MIL @ DAL W 7 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p599
+aVJohn Salmons MIL 12/10/2010 MIL vs. HOU W 43 17 7 12 58.3 1 1 100.0 2 4 50.0 0 6 6 5 3 0 3 2 10
+p600
+aVLuc Mbah a Moute MIL 12/10/2010 MIL vs. HOU W 19 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 0 1 3 -5
+p601
+aVKeyon Dooling MIL 12/10/2010 MIL vs. HOU W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 1 3
+p602
+aVAndrew Bogut MIL 12/10/2010 MIL vs. HOU W 40 24 11 20 55.0 0 0 - 2 4 50.0 7 15 22 3 1 5 3 4 11
+p603
+aVChris Douglas-Roberts MIL 12/10/2010 MIL vs. HOU W 25 6 2 4 50.0 0 0 - 2 2 100.0 0 5 5 1 2 1 2 4 0
+p604
+aVLarry Sanders MIL 12/10/2010 MIL vs. HOU W 25 2 0 6 0.0 0 0 - 2 2 100.0 1 1 2 0 0 3 2 2 4
+p605
+aVBrandon Jennings MIL 12/10/2010 MIL vs. HOU W 34 19 7 16 43.8 3 5 60.0 2 4 50.0 0 1 1 3 0 0 1 1 3
+p606
+aVErsan Ilyasova MIL 12/10/2010 MIL vs. HOU W 26 13 4 8 50.0 0 2 0.0 5 7 71.4 1 1 2 1 1 1 2 4 8
+p607
+aVCorey Maggette MIL 12/10/2010 MIL vs. HOU W 14 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 0 0 0 1 2 -4
+p608
+aVLuc Mbah a Moute MIL 12/08/2010 MIL vs. IND W 32 8 3 6 50.0 0 0 - 2 2 100.0 3 3 6 3 0 1 0 3 0
+p609
+aVBrandon Jennings MIL 12/08/2010 MIL vs. IND W 34 22 6 16 37.5 1 2 50.0 9 13 69.2 3 2 5 4 1 1 3 2 5
+p610
+aVJohn Salmons MIL 12/08/2010 MIL vs. IND W 40 16 5 17 29.4 1 5 20.0 5 5 100.0 1 6 7 4 0 0 2 2 -1
+p611
+aVJon Brockman MIL 12/08/2010 MIL vs. IND W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p612
+aVCorey Maggette MIL 12/08/2010 MIL vs. IND W 16 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 1 0 1 3 3 2
+p613
+aVLarry Sanders MIL 12/08/2010 MIL vs. IND W 15 2 1 7 14.3 0 0 - 0 0 - 1 2 3 0 1 1 0 5 -6
+p614
+aVChris Douglas-Roberts MIL 12/08/2010 MIL vs. IND W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 3
+p615
+aVBrian Skinner MIL 12/08/2010 MIL vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p616
+aVKeyon Dooling MIL 12/08/2010 MIL vs. IND W 14 5 2 7 28.6 1 2 50.0 0 0 - 0 0 0 2 0 1 0 1 -3
+p617
+aVErsan Ilyasova MIL 12/08/2010 MIL vs. IND W 40 21 7 14 50.0 0 4 0.0 7 8 87.5 5 5 10 3 0 0 0 1 12
+p618
+aVAndrew Bogut MIL 12/08/2010 MIL vs. IND W 38 17 5 14 35.7 0 0 - 7 10 70.0 4 7 11 1 2 5 2 4 1
+p619
+aVJon Brockman MIL 12/06/2010 MIL vs. MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p620
+aVLuc Mbah a Moute MIL 12/06/2010 MIL vs. MIA L 23 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 1 2 -16
+p621
+aVKeyon Dooling MIL 12/06/2010 MIL vs. MIA L 11 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 0 6
+p622
+aVEarl Boykins MIL 12/06/2010 MIL vs. MIA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p623
+aVLarry Sanders MIL 12/06/2010 MIL vs. MIA L 29 10 5 12 41.7 0 0 - 0 0 - 1 5 6 0 0 2 1 3 -10
+p624
+aVAndrew Bogut MIL 12/06/2010 MIL vs. MIA L 39 11 4 12 33.3 0 0 - 3 4 75.0 4 9 13 3 0 3 1 2 -12
+p625
+aVBrandon Jennings MIL 12/06/2010 MIL vs. MIA L 32 13 5 16 31.3 2 6 33.3 1 2 50.0 1 1 2 3 1 0 1 5 -18
+p626
+aVErsan Ilyasova MIL 12/06/2010 MIL vs. MIA L 23 4 1 5 20.0 0 2 0.0 2 2 100.0 1 2 3 3 0 0 0 2 10
+p627
+aVJohn Salmons MIL 12/06/2010 MIL vs. MIA L 32 7 2 11 18.2 0 4 0.0 3 4 75.0 0 2 2 4 0 0 2 2 -5
+p628
+aVCorey Maggette MIL 12/06/2010 MIL vs. MIA L 30 20 6 12 50.0 1 1 100.0 7 9 77.8 1 2 3 1 1 0 2 3 -4
+p629
+aVChris Douglas-Roberts MIL 12/06/2010 MIL vs. MIA L 16 7 2 2 100.0 1 1 100.0 2 2 100.0 0 3 3 0 0 0 1 1 -5
+p630
+aVErsan Ilyasova MIL 12/04/2010 MIL vs. ORL W 30 4 1 4 25.0 0 1 0.0 2 2 100.0 2 6 8 2 0 0 0 2 -1
+p631
+aVJohn Salmons MIL 12/04/2010 MIL vs. ORL W 36 16 7 15 46.7 0 1 0.0 2 6 33.3 0 4 4 1 4 1 1 4 22
+p632
+aVKeyon Dooling MIL 12/04/2010 MIL vs. ORL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p633
+aVAndrew Bogut MIL 12/04/2010 MIL vs. ORL W 39 31 13 20 65.0 0 0 - 5 16 31.3 8 10 18 1 2 2 2 4 15
+p634
+aVChris Douglas-Roberts MIL 12/04/2010 MIL vs. ORL W 15 8 3 6 50.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 0 -9
+p635
+aVBrandon Jennings MIL 12/04/2010 MIL vs. ORL W 41 27 10 20 50.0 1 5 20.0 6 10 60.0 0 7 7 6 1 0 2 0 14
+p636
+aVLuc Mbah a Moute MIL 12/04/2010 MIL vs. ORL W 34 1 0 3 0.0 0 0 - 1 2 50.0 1 5 6 1 1 0 3 0 12
+p637
+aVJon Brockman MIL 12/04/2010 MIL vs. ORL W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p638
+aVCorey Maggette MIL 12/04/2010 MIL vs. ORL W 12 3 0 5 0.0 0 0 - 3 3 100.0 0 4 4 1 0 0 1 3 -1
+p639
+aVLarry Sanders MIL 12/04/2010 MIL vs. ORL W 23 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 1 1 1 8
+p640
+aVLuc Mbah a Moute MIL 12/01/2010 MIL @ DEN L 16 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 2 0 0 1 3 -8
+p641
+aVKeyon Dooling MIL 12/01/2010 MIL @ DEN L 15 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 1 1 0 3 2 5
+p642
+aVCorey Maggette MIL 12/01/2010 MIL @ DEN L 22 17 5 10 50.0 0 1 0.0 7 10 70.0 0 0 0 4 1 0 1 3 -2
+p643
+aVJon Brockman MIL 12/01/2010 MIL @ DEN L 12 2 0 2 0.0 0 0 - 2 4 50.0 2 1 3 0 1 0 0 3 5
+p644
+aVChris Douglas-Roberts MIL 12/01/2010 MIL @ DEN L 21 4 2 9 22.2 0 3 0.0 0 1 0.0 0 2 2 4 0 0 0 1 -6
+p645
+aVJohn Salmons MIL 12/01/2010 MIL @ DEN L 37 21 7 15 46.7 3 6 50.0 4 4 100.0 1 3 4 3 3 1 3 4 -6
+p646
+aVErsan Ilyasova MIL 12/01/2010 MIL @ DEN L 41 7 2 9 22.2 1 4 25.0 2 2 100.0 0 9 9 4 0 1 0 3 -13
+p647
+aVLarry Sanders MIL 12/01/2010 MIL @ DEN L 34 14 5 10 50.0 0 0 - 4 5 80.0 4 6 10 0 2 8 0 3 -11
+p648
+aVBrandon Jennings MIL 12/01/2010 MIL @ DEN L 33 14 5 13 38.5 1 4 25.0 3 4 75.0 0 5 5 4 0 1 3 1 -16
+p649
+aVDrew Gooden MIL 12/01/2010 MIL @ DEN L 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 5 -3
+p650
+aVBrandon Jennings MIL 11/29/2010 MIL @ UTA L 33 27 8 20 40.0 4 9 44.4 7 9 77.8 0 2 2 4 3 0 3 1 -13
+p651
+aVJohn Salmons MIL 11/29/2010 MIL @ UTA L 30 6 1 11 9.1 1 2 50.0 3 4 75.0 2 2 4 4 1 0 1 1 -9
+p652
+aVChris Douglas-Roberts MIL 11/29/2010 MIL @ UTA L 34 19 5 12 41.7 3 5 60.0 6 9 66.7 1 3 4 1 0 1 2 1 -2
+p653
+aVLarry Sanders MIL 11/29/2010 MIL @ UTA L 16 4 0 3 0.0 0 0 - 4 6 66.7 1 1 2 0 1 1 0 4 -9
+p654
+aVEarl Boykins MIL 11/29/2010 MIL @ UTA L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -16
+p655
+aVErsan Ilyasova MIL 11/29/2010 MIL @ UTA L 41 18 6 10 60.0 2 4 50.0 4 4 100.0 2 4 6 0 3 0 4 3 -21
+p656
+aVJon Brockman MIL 11/29/2010 MIL @ UTA L 19 4 2 2 100.0 0 0 - 0 0 - 2 0 2 1 1 0 0 0 -4
+p657
+aVKeyon Dooling MIL 11/29/2010 MIL @ UTA L 23 8 3 10 30.0 0 2 0.0 2 2 100.0 0 2 2 4 1 0 1 2 -14
+p658
+aVLuc Mbah a Moute MIL 11/29/2010 MIL @ UTA L 33 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 1 0 1 3 -17
+p659
+aVLarry Sanders MIL 11/27/2010 MIL vs. CHA W 25 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 0 0 2 2 5 5
+p660
+aVBrandon Jennings MIL 11/27/2010 MIL vs. CHA W 41 32 10 21 47.6 6 13 46.2 6 6 100.0 0 2 2 7 2 0 2 3 4
+p661
+aVJohn Salmons MIL 11/27/2010 MIL vs. CHA W 37 16 6 15 40.0 0 2 0.0 4 6 66.7 0 3 3 7 0 0 2 5 6
+p662
+aVLuc Mbah a Moute MIL 11/27/2010 MIL vs. CHA W 47 12 3 7 42.9 0 0 - 6 7 85.7 4 6 10 0 1 0 1 3 3
+p663
+aVErsan Ilyasova MIL 11/27/2010 MIL vs. CHA W 40 17 5 12 41.7 3 6 50.0 4 4 100.0 3 6 9 6 3 0 4 6 2
+p664
+aVEarl Boykins MIL 11/27/2010 MIL vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p665
+aVKeyon Dooling MIL 11/27/2010 MIL vs. CHA W 18 4 0 4 0.0 0 3 0.0 4 4 100.0 0 1 1 4 0 0 1 2 6
+p666
+aVChris Douglas-Roberts MIL 11/27/2010 MIL vs. CHA W 20 11 4 6 66.7 1 2 50.0 2 5 40.0 0 1 1 1 1 0 0 5 -11
+p667
+aVJon Brockman MIL 11/27/2010 MIL vs. CHA W 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 0
+p668
+aVCorey Maggette MIL 11/26/2010 MIL @ DET L 25 10 3 11 27.3 0 0 - 4 4 100.0 5 2 7 3 0 0 0 0 -3
+p669
+aVEarl Boykins MIL 11/26/2010 MIL @ DET L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 5
+p670
+aVLarry Sanders MIL 11/26/2010 MIL @ DET L 31 8 4 7 57.1 0 0 - 0 0 - 4 6 10 1 1 2 0 3 -8
+p671
+aVErsan Ilyasova MIL 11/26/2010 MIL @ DET L 34 14 5 11 45.5 1 3 33.3 3 4 75.0 3 8 11 1 2 2 3 1 -16
+p672
+aVJohn Salmons MIL 11/26/2010 MIL @ DET L 31 11 4 10 40.0 0 2 0.0 3 5 60.0 1 1 2 2 1 0 1 3 -17
+p673
+aVJon Brockman MIL 11/26/2010 MIL @ DET L 10 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 1 0 0 0 3
+p674
+aVKeyon Dooling MIL 11/26/2010 MIL @ DET L 22 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 3 1 0 2 3 2
+p675
+aVBrandon Jennings MIL 11/26/2010 MIL @ DET L 37 25 9 22 40.9 0 3 0.0 7 11 63.6 1 3 4 6 1 1 3 1 -13
+p676
+aVLuc Mbah a Moute MIL 11/26/2010 MIL @ DET L 21 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -16
+p677
+aVDrew Gooden MIL 11/26/2010 MIL @ DET L 21 8 4 14 28.6 0 0 - 0 0 - 5 0 5 0 0 0 0 1 -7
+p678
+aVKeyon Dooling MIL 11/24/2010 MIL @ CLE L 25 18 7 14 50.0 2 5 40.0 2 4 50.0 0 1 1 5 2 0 1 1 5
+p679
+aVErsan Ilyasova MIL 11/24/2010 MIL @ CLE L 16 4 2 7 28.6 0 2 0.0 0 0 - 2 2 4 1 0 0 0 2 5
+p680
+aVCorey Maggette MIL 11/24/2010 MIL @ CLE L 33 10 2 8 25.0 0 1 0.0 6 10 60.0 0 8 8 2 0 0 2 2 8
+p681
+aVDrew Gooden MIL 11/24/2010 MIL @ CLE L 34 8 3 8 37.5 0 0 - 2 2 100.0 2 7 9 2 0 0 2 3 -6
+p682
+aVLuc Mbah a Moute MIL 11/24/2010 MIL @ CLE L 26 10 4 7 57.1 0 0 - 2 4 50.0 3 6 9 0 0 0 1 2 -15
+p683
+aVLarry Sanders MIL 11/24/2010 MIL @ CLE L 23 8 4 10 40.0 0 0 - 0 0 - 1 6 7 1 2 1 0 1 10
+p684
+aVJohn Salmons MIL 11/24/2010 MIL @ CLE L 43 14 6 14 42.9 2 3 66.7 0 0 - 0 2 2 3 1 0 1 2 -6
+p685
+aVJon Brockman MIL 11/24/2010 MIL @ CLE L 13 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 3 -8
+p686
+aVBrandon Jennings MIL 11/24/2010 MIL @ CLE L 28 3 1 10 10.0 1 3 33.3 0 0 - 0 1 1 4 2 2 1 2 -3
+p687
+aVJohn Salmons MIL 11/20/2010 MIL vs. OKC L 36 9 3 9 33.3 0 3 0.0 3 4 75.0 0 6 6 2 0 0 2 4 -6
+p688
+aVCorey Maggette MIL 11/20/2010 MIL vs. OKC L 14 3 0 3 0.0 0 0 - 3 4 75.0 1 2 3 1 1 1 2 1 0
+p689
+aVDrew Gooden MIL 11/20/2010 MIL vs. OKC L 41 16 5 13 38.5 0 1 0.0 6 9 66.7 7 9 16 1 1 1 3 3 -4
+p690
+aVKeyon Dooling MIL 11/20/2010 MIL vs. OKC L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 3 -1
+p691
+aVErsan Ilyasova MIL 11/20/2010 MIL vs. OKC L 25 9 4 11 36.4 0 3 0.0 1 2 50.0 2 3 5 0 1 0 0 1 1
+p692
+aVAndrew Bogut MIL 11/20/2010 MIL vs. OKC L 30 8 4 10 40.0 0 1 0.0 0 0 - 2 10 12 1 0 2 1 5 1
+p693
+aVBrandon Jennings MIL 11/20/2010 MIL vs. OKC L 42 25 8 24 33.3 3 9 33.3 6 7 85.7 0 3 3 3 3 0 3 4 5
+p694
+aVLuc Mbah a Moute MIL 11/20/2010 MIL vs. OKC L 34 7 3 4 75.0 0 0 - 1 1 100.0 1 3 4 2 1 1 2 3 -1
+p695
+aVErsan Ilyasova MIL 11/19/2010 MIL @ PHI L 9 0 0 5 0.0 0 2 0.0 0 0 - 2 4 6 0 0 0 0 2 -2
+p696
+aVEarl Boykins MIL 11/19/2010 MIL @ PHI L 18 6 2 8 25.0 0 1 0.0 2 2 100.0 0 1 1 4 1 0 4 1 -4
+p697
+aVDrew Gooden MIL 11/19/2010 MIL @ PHI L 37 16 7 14 50.0 0 1 0.0 2 2 100.0 2 6 8 1 0 1 0 2 -8
+p698
+aVCorey Maggette MIL 11/19/2010 MIL @ PHI L 26 20 5 12 41.7 0 0 - 10 11 90.9 3 3 6 0 0 0 2 3 -10
+p699
+aVLarry Sanders MIL 11/19/2010 MIL @ PHI L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -13
+p700
+aVKeyon Dooling MIL 11/19/2010 MIL @ PHI L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 0 0 2 -4
+p701
+aVAndrew Bogut MIL 11/19/2010 MIL @ PHI L 32 4 2 7 28.6 0 0 - 0 0 - 3 3 6 2 0 5 1 3 -6
+p702
+aVBrandon Jennings MIL 11/19/2010 MIL @ PHI L 30 12 3 13 23.1 0 5 0.0 6 8 75.0 1 3 4 4 3 0 3 3 -7
+p703
+aVJohn Salmons MIL 11/19/2010 MIL @ PHI L 37 11 3 9 33.3 0 1 0.0 5 6 83.3 1 7 8 4 0 1 2 2 -7
+p704
+aVLuc Mbah a Moute MIL 11/19/2010 MIL @ PHI L 22 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 2 2 -1
+p705
+aVJon Brockman MIL 11/19/2010 MIL @ PHI L 9 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 7
+p706
+aVLuc Mbah a Moute MIL 11/16/2010 MIL vs. LAL L 24 0 0 4 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 4 -6
+p707
+aVKeyon Dooling MIL 11/16/2010 MIL vs. LAL L 18 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 4 1 0 0 2 -2
+p708
+aVBrandon Jennings MIL 11/16/2010 MIL vs. LAL L 39 31 12 26 46.2 4 11 36.4 3 3 100.0 1 2 3 6 1 0 3 2 -3
+p709
+aVAndrew Bogut MIL 11/16/2010 MIL vs. LAL L 43 12 5 13 38.5 0 0 - 2 10 20.0 9 9 18 1 0 4 1 2 -7
+p710
+aVJohn Salmons MIL 11/16/2010 MIL vs. LAL L 36 10 4 13 30.8 2 6 33.3 0 0 - 0 0 0 6 1 0 2 3 -3
+p711
+aVErsan Ilyasova MIL 11/16/2010 MIL vs. LAL L 15 9 3 5 60.0 1 2 50.0 2 2 100.0 2 2 4 1 1 0 1 1 -7
+p712
+aVLarry Sanders MIL 11/16/2010 MIL vs. LAL L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 2 1 2 -2
+p713
+aVCorey Maggette MIL 11/16/2010 MIL vs. LAL L 15 15 5 10 50.0 0 1 0.0 5 8 62.5 2 0 2 1 0 0 3 3 -12
+p714
+aVDrew Gooden MIL 11/16/2010 MIL vs. LAL L 34 22 8 11 72.7 2 2 100.0 4 4 100.0 4 9 13 0 1 1 1 3 -3
+p715
+aVEarl Boykins MIL 11/16/2010 MIL vs. LAL L 13 8 4 5 80.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -10
+p716
+aVErsan Ilyasova MIL 11/13/2010 MIL vs. GSW W 11 0 0 6 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 1 0 -8
+p717
+aVJohn Salmons MIL 11/13/2010 MIL vs. GSW W 40 26 9 17 52.9 4 6 66.7 4 4 100.0 0 4 4 1 2 0 3 1 12
+p718
+aVJon Brockman MIL 11/13/2010 MIL vs. GSW W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -8
+p719
+aVKeyon Dooling MIL 11/13/2010 MIL vs. GSW W 12 2 0 5 0.0 0 2 0.0 2 2 100.0 0 1 1 0 1 0 0 0 2
+p720
+aVDrew Gooden MIL 11/13/2010 MIL vs. GSW W 31 16 7 15 46.7 0 1 0.0 2 3 66.7 6 4 10 3 2 0 2 3 8
+p721
+aVLuc Mbah a Moute MIL 11/13/2010 MIL vs. GSW W 39 6 1 2 50.0 0 0 - 4 5 80.0 3 9 12 3 1 0 0 3 13
+p722
+aVBrandon Jennings MIL 11/13/2010 MIL vs. GSW W 42 19 6 19 31.6 2 5 40.0 5 5 100.0 4 7 11 6 2 2 5 2 14
+p723
+aVEarl Boykins MIL 11/13/2010 MIL vs. GSW W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -2
+p724
+aVAndrew Bogut MIL 11/13/2010 MIL vs. GSW W 39 8 4 12 33.3 0 0 - 0 2 0.0 5 12 17 0 0 7 2 2 13
+p725
+aVCorey Maggette MIL 11/13/2010 MIL vs. GSW W 15 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -9
+p726
+aVBrandon Jennings MIL 11/10/2010 MIL @ ATL W 29 19 7 16 43.8 4 5 80.0 1 1 100.0 0 5 5 6 0 0 1 0 9
+p727
+aVCorey Maggette MIL 11/10/2010 MIL @ ATL W 30 20 7 8 87.5 1 1 100.0 5 6 83.3 0 0 0 1 0 0 2 6 18
+p728
+aVEarl Boykins MIL 11/10/2010 MIL @ ATL W 19 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 8 1 0 0 0 8
+p729
+aVErsan Ilyasova MIL 11/10/2010 MIL @ ATL W 27 17 8 16 50.0 1 3 33.3 0 0 - 3 7 10 2 2 0 2 2 16
+p730
+aVJohn Salmons MIL 11/10/2010 MIL @ ATL W 30 16 7 12 58.3 1 2 50.0 1 1 100.0 0 2 2 3 2 1 1 1 5
+p731
+aVKeyon Dooling MIL 11/10/2010 MIL @ ATL W 18 9 4 7 57.1 1 4 25.0 0 0 - 0 1 1 1 1 0 2 0 12
+p732
+aVAndrew Bogut MIL 11/10/2010 MIL @ ATL W 26 8 4 8 50.0 0 0 - 0 0 - 1 5 6 2 0 1 1 2 1
+p733
+aVLarry Sanders MIL 11/10/2010 MIL @ ATL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p734
+aVLuc Mbah a Moute MIL 11/10/2010 MIL @ ATL W 18 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 2 0 1 0 -1
+p735
+aVDrew Gooden MIL 11/10/2010 MIL @ ATL W 21 6 2 7 28.6 0 0 - 2 4 50.0 5 5 10 0 1 1 1 1 5
+p736
+aVJon Brockman MIL 11/10/2010 MIL @ ATL W 21 2 1 2 50.0 0 0 - 0 0 - 2 6 8 0 1 0 1 4 12
+p737
+aVLarry Sanders MIL 11/09/2010 MIL vs. NYK W 7 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 1 1 0 3 1
+p738
+aVJon Brockman MIL 11/09/2010 MIL vs. NYK W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 -2
+p739
+aVEarl Boykins MIL 11/09/2010 MIL vs. NYK W 21 10 5 7 71.4 0 0 - 0 0 - 0 0 0 3 2 0 2 2 4
+p740
+aVLuc Mbah a Moute MIL 11/09/2010 MIL vs. NYK W 35 10 3 6 50.0 0 0 - 4 6 66.7 2 6 8 1 2 0 2 3 26
+p741
+aVAndrew Bogut MIL 11/09/2010 MIL vs. NYK W 25 10 5 5 100.0 0 0 - 0 0 - 1 2 3 1 0 2 3 3 10
+p742
+aVCorey Maggette MIL 11/09/2010 MIL vs. NYK W 22 14 4 6 66.7 0 1 0.0 6 6 100.0 1 3 4 0 0 0 2 4 10
+p743
+aVDrew Gooden MIL 11/09/2010 MIL vs. NYK W 27 17 5 15 33.3 0 0 - 7 8 87.5 2 6 8 0 2 0 2 0 12
+p744
+aVBrandon Jennings MIL 11/09/2010 MIL vs. NYK W 27 19 8 13 61.5 2 5 40.0 1 2 50.0 2 3 5 6 1 0 0 3 23
+p745
+aVJohn Salmons MIL 11/09/2010 MIL vs. NYK W 30 9 3 8 37.5 1 4 25.0 2 2 100.0 0 6 6 5 0 2 0 1 15
+p746
+aVErsan Ilyasova MIL 11/09/2010 MIL vs. NYK W 18 12 5 9 55.6 2 4 50.0 0 0 - 4 5 9 1 0 0 2 1 21
+p747
+aVKeyon Dooling MIL 11/09/2010 MIL vs. NYK W 23 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 1 0 0 0 1 15
+p748
+aVAndrew Bogut MIL 11/06/2010 MIL vs. NOH L 35 19 7 11 63.6 0 0 - 5 6 83.3 5 9 14 3 0 0 2 2 -14
+p749
+aVDrew Gooden MIL 11/06/2010 MIL vs. NOH L 20 8 4 8 50.0 0 0 - 0 2 0.0 0 5 5 1 0 0 1 3 -8
+p750
+aVCarlos Delfino MIL 11/06/2010 MIL vs. NOH L 17 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 1 1 0 0 0 -8
+p751
+aVErsan Ilyasova MIL 11/06/2010 MIL vs. NOH L 22 3 1 5 20.0 0 3 0.0 1 2 50.0 1 2 3 0 1 0 0 2 9
+p752
+aVJon Brockman MIL 11/06/2010 MIL vs. NOH L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 6
+p753
+aVKeyon Dooling MIL 11/06/2010 MIL vs. NOH L 15 5 2 8 25.0 0 2 0.0 1 1 100.0 0 1 1 1 2 0 0 2 4
+p754
+aVCorey Maggette MIL 11/06/2010 MIL vs. NOH L 17 8 3 9 33.3 0 0 - 2 4 50.0 0 3 3 1 0 0 0 3 8
+p755
+aVEarl Boykins MIL 11/06/2010 MIL vs. NOH L 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 2 0 0 0 1
+p756
+aVJohn Salmons MIL 11/06/2010 MIL vs. NOH L 39 14 4 11 36.4 2 3 66.7 4 4 100.0 0 3 3 4 0 0 2 1 -3
+p757
+aVLuc Mbah a Moute MIL 11/06/2010 MIL vs. NOH L 32 6 3 11 27.3 0 1 0.0 0 1 0.0 4 3 7 1 1 0 1 4 -13
+p758
+aVBrandon Jennings MIL 11/06/2010 MIL vs. NOH L 32 12 5 11 45.5 2 4 50.0 0 0 - 0 2 2 5 1 0 3 2 -12
+p759
+aVJohn Salmons MIL 11/05/2010 MIL @ IND W 40 22 6 12 50.0 2 5 40.0 8 10 80.0 0 5 5 5 1 0 3 1 -5
+p760
+aVJon Brockman MIL 11/05/2010 MIL @ IND W 13 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 7
+p761
+aVCorey Maggette MIL 11/05/2010 MIL @ IND W 18 10 4 11 36.4 0 1 0.0 2 4 50.0 0 7 7 1 0 0 1 1 6
+p762
+aVErsan Ilyasova MIL 11/05/2010 MIL @ IND W 27 9 3 7 42.9 1 1 100.0 2 2 100.0 0 2 2 1 2 0 2 3 15
+p763
+aVLuc Mbah a Moute MIL 11/05/2010 MIL @ IND W 39 10 2 7 28.6 0 0 - 6 8 75.0 6 9 15 2 1 1 2 4 -5
+p764
+aVDrew Gooden MIL 11/05/2010 MIL @ IND W 13 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 0 2 0 2 5 -2
+p765
+aVKeyon Dooling MIL 11/05/2010 MIL @ IND W 15 9 3 4 75.0 3 3 100.0 0 0 - 0 1 1 2 0 0 1 0 11
+p766
+aVLarry Sanders MIL 11/05/2010 MIL @ IND W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p767
+aVCarlos Delfino MIL 11/05/2010 MIL @ IND W 37 9 4 15 26.7 1 7 14.3 0 0 - 0 3 3 3 1 0 2 2 7
+p768
+aVBrandon Jennings MIL 11/05/2010 MIL @ IND W 33 18 7 19 36.8 1 3 33.3 3 4 75.0 1 4 5 2 2 1 2 3 -7
+p769
+aVKeyon Dooling MIL 11/03/2010 MIL @ BOS L 19 10 4 7 57.1 2 5 40.0 0 1 0.0 0 1 1 2 0 0 0 2 5
+p770
+aVDrew Gooden MIL 11/03/2010 MIL @ BOS L 18 6 2 5 40.0 0 0 - 2 2 100.0 3 1 4 0 2 0 1 4 -4
+p771
+aVCorey Maggette MIL 11/03/2010 MIL @ BOS L 22 11 2 6 33.3 0 0 - 7 8 87.5 0 3 3 0 0 0 2 5 -9
+p772
+aVErsan Ilyasova MIL 11/03/2010 MIL @ BOS L 35 15 5 10 50.0 2 2 100.0 3 3 100.0 1 6 7 1 0 0 1 4 9
+p773
+aVLuc Mbah a Moute MIL 11/03/2010 MIL @ BOS L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 7
+p774
+aVJon Brockman MIL 11/03/2010 MIL @ BOS L 5 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -4
+p775
+aVBrandon Jennings MIL 11/03/2010 MIL @ BOS L 34 13 5 13 38.5 0 1 0.0 3 4 75.0 0 3 3 4 1 0 3 3 -16
+p776
+aVAndrew Bogut MIL 11/03/2010 MIL @ BOS L 48 21 8 17 47.1 0 0 - 5 7 71.4 6 7 13 0 0 1 1 2 9
+p777
+aVCarlos Delfino MIL 11/03/2010 MIL @ BOS L 49 15 6 15 40.0 1 4 25.0 2 2 100.0 0 4 4 7 1 0 5 1 -1
+p778
+aVJohn Salmons MIL 11/03/2010 MIL @ BOS L 25 9 3 10 30.0 0 1 0.0 3 4 75.0 0 3 3 2 0 0 2 2 -11
+p779
+aVCorey Maggette MIL 11/02/2010 MIL vs. POR L 17 16 4 12 33.3 0 1 0.0 8 8 100.0 1 2 3 0 0 0 2 2 -12
+p780
+aVDrew Gooden MIL 11/02/2010 MIL vs. POR L 26 5 1 5 20.0 0 0 - 3 4 75.0 1 5 6 2 0 0 1 2 -11
+p781
+aVEarl Boykins MIL 11/02/2010 MIL vs. POR L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p782
+aVErsan Ilyasova MIL 11/02/2010 MIL vs. POR L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 1 0 1 0 0 2
+p783
+aVAndrew Bogut MIL 11/02/2010 MIL vs. POR L 30 12 5 10 50.0 0 0 - 2 4 50.0 4 5 9 1 1 2 1 3 -4
+p784
+aVLarry Sanders MIL 11/02/2010 MIL vs. POR L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 4
+p785
+aVCarlos Delfino MIL 11/02/2010 MIL vs. POR L 36 14 5 8 62.5 3 5 60.0 1 2 50.0 0 5 5 2 2 0 1 0 -18
+p786
+aVLuc Mbah a Moute MIL 11/02/2010 MIL vs. POR L 16 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 1 1 3 1 -1
+p787
+aVKeyon Dooling MIL 11/02/2010 MIL vs. POR L 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 3
+p788
+aVJohn Salmons MIL 11/02/2010 MIL vs. POR L 28 5 2 14 14.3 0 4 0.0 1 2 50.0 1 3 4 0 0 0 1 0 -8
+p789
+aVJon Brockman MIL 11/02/2010 MIL vs. POR L 12 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -14
+p790
+aVBrandon Jennings MIL 11/02/2010 MIL vs. POR L 36 8 2 7 28.6 0 4 0.0 4 5 80.0 1 3 4 7 0 0 6 0 -15
+p791
+aVJohn Salmons MIL 10/30/2010 MIL vs. CHA W 34 14 4 11 36.4 2 3 66.7 4 4 100.0 1 2 3 4 2 0 3 5 8
+p792
+aVCarlos Delfino MIL 10/30/2010 MIL vs. CHA W 42 23 8 17 47.1 5 11 45.5 2 2 100.0 0 3 3 3 2 0 1 0 8
+p793
+aVAndrew Bogut MIL 10/30/2010 MIL vs. CHA W 35 14 6 13 46.2 0 0 - 2 2 100.0 3 5 8 1 1 4 2 4 15
+p794
+aVBrandon Jennings MIL 10/30/2010 MIL vs. CHA W 40 20 6 8 75.0 3 3 100.0 5 6 83.3 1 9 10 10 0 0 3 4 14
+p795
+aVCorey Maggette MIL 10/30/2010 MIL vs. CHA W 18 9 2 10 20.0 0 3 0.0 5 5 100.0 2 1 3 0 1 0 4 3 -2
+p796
+aVJon Brockman MIL 10/30/2010 MIL vs. CHA W 13 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 2 1 -5
+p797
+aVLuc Mbah a Moute MIL 10/30/2010 MIL vs. CHA W 35 9 4 5 80.0 0 0 - 1 4 25.0 5 4 9 1 1 0 0 2 9
+p798
+aVKeyon Dooling MIL 10/30/2010 MIL vs. CHA W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p799
+aVErsan Ilyasova MIL 10/30/2010 MIL vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p800
+aVDrew Gooden MIL 10/30/2010 MIL vs. CHA W 13 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 0 0 1 2 4 1
+p801
+aVEarl Boykins MIL 10/30/2010 MIL vs. CHA W 5 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 0
+p802
+aVJohn Salmons MIL 10/29/2010 MIL @ MIN L 22 7 3 8 37.5 0 2 0.0 1 2 50.0 0 1 1 2 0 1 3 0 -4
+p803
+aVAndrew Bogut MIL 10/29/2010 MIL @ MIN L 28 8 4 7 57.1 0 0 - 0 0 - 3 7 10 2 0 3 1 4 -1
+p804
+aVLuc Mbah a Moute MIL 10/29/2010 MIL @ MIN L 18 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 1 0 1 0 3 3
+p805
+aVEarl Boykins MIL 10/29/2010 MIL @ MIN L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 1 7
+p806
+aVJon Brockman MIL 10/29/2010 MIL @ MIN L 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 5 1
+p807
+aVKeyon Dooling MIL 10/29/2010 MIL @ MIN L 12 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 2 2 1
+p808
+aVDrew Gooden MIL 10/29/2010 MIL @ MIN L 19 12 4 13 30.8 0 1 0.0 4 5 80.0 1 3 4 1 1 0 1 3 -8
+p809
+aVCorey Maggette MIL 10/29/2010 MIL @ MIN L 31 23 7 16 43.8 1 2 50.0 8 8 100.0 1 4 5 2 0 0 2 1 -13
+p810
+aVLarry Sanders MIL 10/29/2010 MIL @ MIN L 11 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -12
+p811
+aVBrandon Jennings MIL 10/29/2010 MIL @ MIN L 34 14 4 15 26.7 0 6 0.0 6 8 75.0 2 1 3 7 0 0 1 2 -15
+p812
+aVErsan Ilyasova MIL 10/29/2010 MIL @ MIN L 8 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 4 -2
+p813
+aVCarlos Delfino MIL 10/29/2010 MIL @ MIN L 29 8 3 8 37.5 2 5 40.0 0 0 - 0 6 6 0 1 0 1 2 -12
+p814
+aVCorey Maggette MIL 10/27/2010 MIL @ NOH L 20 16 4 8 50.0 0 1 0.0 8 8 100.0 0 7 7 0 0 0 3 5 -5
+p815
+aVBrandon Jennings MIL 10/27/2010 MIL @ NOH L 41 15 5 14 35.7 2 6 33.3 3 4 75.0 0 2 2 10 1 0 1 5 -1
+p816
+aVErsan Ilyasova MIL 10/27/2010 MIL @ NOH L 16 4 1 5 20.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 2 -15
+p817
+aVAndrew Bogut MIL 10/27/2010 MIL @ NOH L 36 15 6 12 50.0 0 1 0.0 3 10 30.0 4 11 15 1 0 1 1 4 -2
+p818
+aVDrew Gooden MIL 10/27/2010 MIL @ NOH L 33 15 7 14 50.0 0 0 - 1 2 50.0 3 8 11 1 0 0 1 4 -6
+p819
+aVKeyon Dooling MIL 10/27/2010 MIL @ NOH L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 1
+p820
+aVLarry Sanders MIL 10/27/2010 MIL @ NOH L 4 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 1 0 0 11
+p821
+aVEarl Boykins MIL 10/27/2010 MIL @ NOH L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p822
+aVCarlos Delfino MIL 10/27/2010 MIL @ NOH L 39 19 7 12 58.3 5 10 50.0 0 0 - 0 5 5 1 3 0 1 2 6
+p823
+aVJohn Salmons MIL 10/27/2010 MIL @ NOH L 32 5 2 8 25.0 1 3 33.3 0 0 - 1 1 2 0 0 0 4 2 -9
+p824
+a.

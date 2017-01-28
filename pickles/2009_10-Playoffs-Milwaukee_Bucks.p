@@ -1,0 +1,150 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLuc Mbah a Moute MIL 05/02/2010 MIL @ ATL L 22 13 5 9 55.6 0 0 - 3 4 75.0 3 3 6 0 1 0 1 2 -2
+p2
+aVPrimoz Brezec MIL 05/02/2010 MIL @ ATL L 12 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 1
+p3
+aVKurt Thomas MIL 05/02/2010 MIL @ ATL L 26 6 3 7 42.9 0 0 - 0 0 - 0 5 5 2 1 0 1 4 -17
+p4
+aVJohn Salmons MIL 05/02/2010 MIL @ ATL L 44 11 5 18 27.8 1 5 20.0 0 0 - 1 2 3 3 0 0 1 2 -22
+p5
+aVBrandon Jennings MIL 05/02/2010 MIL @ ATL L 41 15 6 18 33.3 1 4 25.0 2 4 50.0 0 2 2 5 1 0 0 2 -17
+p6
+aVJerry Stackhouse MIL 05/02/2010 MIL @ ATL L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -6
+p7
+aVErsan Ilyasova MIL 05/02/2010 MIL @ ATL L 31 13 4 11 36.4 0 2 0.0 5 5 100.0 6 5 11 1 1 0 0 4 -17
+p8
+aVDan Gadzuric MIL 05/02/2010 MIL @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -5
+p9
+aVLuke Ridnour MIL 05/02/2010 MIL @ ATL L 22 6 1 5 20.0 1 2 50.0 3 4 75.0 1 2 3 2 0 0 0 1 -9
+p10
+aVRoyal Ivey MIL 05/02/2010 MIL @ ATL L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 1
+p11
+aVCarlos Delfino MIL 05/02/2010 MIL @ ATL L 22 3 1 8 12.5 1 4 25.0 0 0 - 0 0 0 1 0 0 2 3 -12
+p12
+aVKurt Thomas MIL 04/30/2010 MIL vs. ATL L 39 11 5 10 50.0 0 0 - 1 1 100.0 2 7 9 2 0 1 1 5 -4
+p13
+aVCarlos Delfino MIL 04/30/2010 MIL vs. ATL L 43 20 8 19 42.1 4 9 44.4 0 0 - 1 5 6 3 3 1 2 5 -23
+p14
+aVErsan Ilyasova MIL 04/30/2010 MIL vs. ATL L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 0 0 0 1 3 -11
+p15
+aVLuke Ridnour MIL 04/30/2010 MIL vs. ATL L 15 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 1 0 1 4 1 -16
+p16
+aVLuc Mbah a Moute MIL 04/30/2010 MIL vs. ATL L 20 4 1 4 25.0 0 0 - 2 2 100.0 2 6 8 2 0 0 2 1 -11
+p17
+aVDan Gadzuric MIL 04/30/2010 MIL vs. ATL L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p18
+aVBrandon Jennings MIL 04/30/2010 MIL vs. ATL L 37 12 4 15 26.7 1 9 11.1 3 3 100.0 1 3 4 1 1 0 1 4 -1
+p19
+aVJohn Salmons MIL 04/30/2010 MIL vs. ATL L 41 8 2 13 15.4 0 3 0.0 4 4 100.0 1 5 6 4 0 0 0 4 0
+p20
+aVJerry Stackhouse MIL 04/30/2010 MIL vs. ATL L 25 7 2 6 33.3 1 1 100.0 2 2 100.0 0 2 2 1 0 0 0 0 -4
+p21
+aVLuke Ridnour MIL 04/28/2010 MIL @ ATL W 18 15 5 7 71.4 1 1 100.0 4 4 100.0 0 2 2 1 4 0 1 0 2
+p22
+aVBrandon Jennings MIL 04/28/2010 MIL @ ATL W 43 25 8 20 40.0 2 7 28.6 7 8 87.5 1 3 4 3 1 1 2 2 5
+p23
+aVPrimoz Brezec MIL 04/28/2010 MIL @ ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 1
+p24
+aVJerry Stackhouse MIL 04/28/2010 MIL @ ATL W 14 5 0 3 0.0 0 1 0.0 5 6 83.3 0 2 2 0 1 0 2 0 8
+p25
+aVDan Gadzuric MIL 04/28/2010 MIL @ ATL W 11 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 1 1 5 -12
+p26
+aVErsan Ilyasova MIL 04/28/2010 MIL @ ATL W 22 7 3 5 60.0 1 1 100.0 0 0 - 4 3 7 1 1 0 0 3 -1
+p27
+aVLuc Mbah a Moute MIL 04/28/2010 MIL @ ATL W 29 9 4 8 50.0 0 1 0.0 1 3 33.3 1 4 5 0 0 0 0 3 -1
+p28
+aVKurt Thomas MIL 04/28/2010 MIL @ ATL W 21 0 0 1 0.0 0 0 - 0 0 - 0 6 6 3 1 0 1 4 21
+p29
+aVJohn Salmons MIL 04/28/2010 MIL @ ATL W 45 19 6 17 35.3 2 3 66.7 5 6 83.3 2 4 6 5 1 1 2 3 1
+p30
+aVCarlos Delfino MIL 04/28/2010 MIL @ ATL W 34 7 2 7 28.6 2 5 40.0 1 2 50.0 1 4 5 3 0 0 1 1 -4
+p31
+aVDan Gadzuric MIL 04/26/2010 MIL vs. ATL W 16 7 3 3 100.0 0 0 - 1 1 100.0 2 3 5 0 1 2 2 1 3
+p32
+aVCarlos Delfino MIL 04/26/2010 MIL vs. ATL W 40 22 8 14 57.1 6 8 75.0 0 0 - 0 4 4 3 0 0 1 3 2
+p33
+aVBrandon Jennings MIL 04/26/2010 MIL vs. ATL W 34 23 9 16 56.3 0 3 0.0 5 5 100.0 0 4 4 6 1 0 1 2 1
+p34
+aVKurt Thomas MIL 04/26/2010 MIL vs. ATL W 32 9 3 4 75.0 0 0 - 3 4 75.0 4 5 9 0 0 0 3 4 4
+p35
+aVJerry Stackhouse MIL 04/26/2010 MIL vs. ATL W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p36
+aVCharlie Bell MIL 04/26/2010 MIL vs. ATL W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p37
+aVErsan Ilyasova MIL 04/26/2010 MIL vs. ATL W 19 11 3 6 50.0 1 2 50.0 4 4 100.0 0 5 5 0 0 0 1 2 6
+p38
+aVLuc Mbah a Moute MIL 04/26/2010 MIL vs. ATL W 28 10 3 9 33.3 0 0 - 4 6 66.7 2 3 5 1 0 0 2 2 -1
+p39
+aVJohn Salmons MIL 04/26/2010 MIL vs. ATL W 42 22 6 9 66.7 0 1 0.0 10 10 100.0 0 1 1 3 0 1 3 3 9
+p40
+aVLuke Ridnour MIL 04/26/2010 MIL vs. ATL W 14 5 2 5 40.0 0 2 0.0 1 2 50.0 0 0 0 3 0 0 2 3 6
+p41
+aVCharlie Bell MIL 04/24/2010 MIL vs. ATL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p42
+aVLuke Ridnour MIL 04/24/2010 MIL vs. ATL W 17 11 5 11 45.5 1 2 50.0 0 0 - 1 1 2 1 0 0 1 2 7
+p43
+aVDan Gadzuric MIL 04/24/2010 MIL vs. ATL W 17 2 1 3 33.3 0 0 - 0 0 - 4 6 10 1 0 0 1 5 9
+p44
+aVKurt Thomas MIL 04/24/2010 MIL vs. ATL W 26 8 4 4 100.0 0 0 - 0 0 - 2 11 13 1 0 1 1 2 17
+p45
+aVCarlos Delfino MIL 04/24/2010 MIL vs. ATL W 31 6 2 9 22.2 2 6 33.3 0 0 - 1 5 6 2 1 1 3 0 12
+p46
+aVBrandon Jennings MIL 04/24/2010 MIL vs. ATL W 26 13 5 11 45.5 3 6 50.0 0 0 - 0 0 0 5 2 2 0 3 21
+p47
+aVPrimoz Brezec MIL 04/24/2010 MIL vs. ATL W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -10
+p48
+aVLuc Mbah a Moute MIL 04/24/2010 MIL vs. ATL W 30 12 5 7 71.4 0 0 - 2 2 100.0 1 4 5 2 0 0 1 1 27
+p49
+aVRoyal Ivey MIL 04/24/2010 MIL vs. ATL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p50
+aVErsan Ilyasova MIL 04/24/2010 MIL vs. ATL W 21 11 4 8 50.0 1 3 33.3 2 3 66.7 2 3 5 1 1 0 1 0 -5
+p51
+aVJohn Salmons MIL 04/24/2010 MIL vs. ATL W 31 22 9 11 81.8 1 1 100.0 3 3 100.0 0 2 2 7 2 1 1 2 29
+p52
+aVJerry Stackhouse MIL 04/24/2010 MIL vs. ATL W 26 16 3 11 27.3 2 5 40.0 8 8 100.0 0 1 1 3 1 0 3 2 3
+p53
+aVJohn Salmons MIL 04/20/2010 MIL @ ATL L 40 21 10 23 43.5 0 5 0.0 1 1 100.0 1 2 3 4 1 1 3 2 -17
+p54
+aVCharlie Bell MIL 04/20/2010 MIL @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p55
+aVLuc Mbah a Moute MIL 04/20/2010 MIL @ ATL L 19 8 4 8 50.0 0 1 0.0 0 2 0.0 3 1 4 0 0 0 1 2 -14
+p56
+aVLuke Ridnour MIL 04/20/2010 MIL @ ATL L 18 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 3 0 0 1 4 2
+p57
+aVKurt Thomas MIL 04/20/2010 MIL @ ATL L 26 0 0 3 0.0 0 0 - 0 0 - 2 2 4 2 0 1 0 4 -23
+p58
+aVErsan Ilyasova MIL 04/20/2010 MIL @ ATL L 24 13 5 10 50.0 1 2 50.0 2 2 100.0 7 8 15 0 1 1 3 1 1
+p59
+aVJerry Stackhouse MIL 04/20/2010 MIL @ ATL L 24 15 5 8 62.5 2 3 66.7 3 4 75.0 0 4 4 2 1 1 0 0 3
+p60
+aVRoyal Ivey MIL 04/20/2010 MIL @ ATL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p61
+aVDan Gadzuric MIL 04/20/2010 MIL @ ATL L 18 6 3 4 75.0 0 0 - 0 3 0.0 3 3 6 0 0 1 1 2 14
+p62
+aVCarlos Delfino MIL 04/20/2010 MIL @ ATL L 33 8 4 12 33.3 0 4 0.0 0 0 - 0 6 6 4 1 0 2 2 -11
+p63
+aVPrimoz Brezec MIL 04/20/2010 MIL @ ATL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p64
+aVBrandon Jennings MIL 04/20/2010 MIL @ ATL L 28 9 3 15 20.0 1 6 16.7 2 2 100.0 2 2 4 2 1 1 1 3 -16
+p65
+aVJohn Salmons MIL 04/17/2010 MIL @ ATL L 43 16 6 18 33.3 0 5 0.0 4 4 100.0 2 3 5 2 6 0 2 3 -4
+p66
+aVKurt Thomas MIL 04/17/2010 MIL @ ATL L 30 4 2 6 33.3 0 0 - 0 0 - 2 7 9 1 1 1 1 3 4
+p67
+aVLuke Ridnour MIL 04/17/2010 MIL @ ATL L 17 9 3 8 37.5 1 3 33.3 2 2 100.0 1 2 3 2 0 0 1 2 -12
+p68
+aVLuc Mbah a Moute MIL 04/17/2010 MIL @ ATL L 31 8 4 5 80.0 0 0 - 0 1 0.0 2 4 6 0 1 0 0 4 -12
+p69
+aVBrandon Jennings MIL 04/17/2010 MIL @ ATL L 40 34 14 25 56.0 4 6 66.7 2 4 50.0 1 2 3 3 1 0 3 3 -7
+p70
+aVCarlos Delfino MIL 04/17/2010 MIL @ ATL L 23 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 0 -11
+p71
+aVErsan Ilyasova MIL 04/17/2010 MIL @ ATL L 23 11 4 6 66.7 1 2 50.0 2 4 50.0 2 4 6 0 1 0 4 1 1
+p72
+aVDan Gadzuric MIL 04/17/2010 MIL @ ATL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p73
+aVJerry Stackhouse MIL 04/17/2010 MIL @ ATL L 27 6 3 10 30.0 0 3 0.0 0 0 - 1 1 2 1 1 0 0 2 -1
+p74
+a.

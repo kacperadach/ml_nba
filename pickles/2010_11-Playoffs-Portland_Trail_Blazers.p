@@ -1,0 +1,118 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChris Johnson POR 04/28/2011 POR vs. DAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p2
+aVWesley Matthews POR 04/28/2011 POR vs. DAL L 38 19 5 14 35.7 2 7 28.6 7 7 100.0 0 2 2 1 0 0 0 0 -10
+p3
+aVRudy Fernandez POR 04/28/2011 POR vs. DAL L 13 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 0 1 4
+p4
+aVNicolas Batum POR 04/28/2011 POR vs. DAL L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 1 0 4 -3
+p5
+aVLaMarcus Aldridge POR 04/28/2011 POR vs. DAL L 43 24 11 25 44.0 0 0 - 2 4 50.0 6 4 10 0 0 0 1 2 -13
+p6
+aVAndre Miller POR 04/28/2011 POR vs. DAL L 25 5 2 7 28.6 0 2 0.0 1 3 33.3 1 2 3 4 0 0 2 3 -3
+p7
+aVMarcus Camby POR 04/28/2011 POR vs. DAL L 42 2 1 3 33.3 0 0 - 0 0 - 3 6 9 2 2 2 3 0 -4
+p8
+aVGerald Wallace POR 04/28/2011 POR vs. DAL L 33 32 10 17 58.8 1 6 16.7 11 12 91.7 5 7 12 2 1 0 1 3 9
+p9
+aVBrandon Roy POR 04/28/2011 POR vs. DAL L 29 9 4 6 66.7 1 2 50.0 0 0 - 0 3 3 3 0 0 0 3 -13
+p10
+aVWesley Matthews POR 04/25/2011 POR @ DAL L 36 8 3 7 42.9 0 2 0.0 2 4 50.0 0 0 0 0 0 0 1 4 -7
+p11
+aVArmon Johnson POR 04/25/2011 POR @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p12
+aVEarl Barron POR 04/25/2011 POR @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p13
+aVMarcus Camby POR 04/25/2011 POR @ DAL L 20 4 2 4 50.0 0 0 - 0 0 - 3 5 8 0 0 1 1 4 2
+p14
+aVChris Johnson POR 04/25/2011 POR @ DAL L 6 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 12
+p15
+aVNicolas Batum POR 04/25/2011 POR @ DAL L 31 12 5 12 41.7 2 7 28.6 0 0 - 1 3 4 0 2 2 1 2 -7
+p16
+aVRudy Fernandez POR 04/25/2011 POR @ DAL L 12 5 1 4 25.0 1 2 50.0 2 3 66.7 0 1 1 0 0 0 1 1 1
+p17
+aVGerald Wallace POR 04/25/2011 POR @ DAL L 34 16 5 11 45.5 0 2 0.0 6 6 100.0 0 9 9 2 2 2 4 4 -8
+p18
+aVPatty Mills POR 04/25/2011 POR @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p19
+aVAndre Miller POR 04/25/2011 POR @ DAL L 32 18 8 14 57.1 1 1 100.0 1 2 50.0 1 0 1 7 0 0 2 2 -11
+p20
+aVBrandon Roy POR 04/25/2011 POR @ DAL L 26 5 2 7 28.6 0 2 0.0 1 2 50.0 0 3 3 2 0 0 1 4 -18
+p21
+aVLaMarcus Aldridge POR 04/25/2011 POR @ DAL L 41 12 6 15 40.0 0 0 - 0 0 - 4 5 9 2 2 2 1 2 -21
+p22
+aVLaMarcus Aldridge POR 04/23/2011 POR vs. DAL W 47 18 6 16 37.5 0 0 - 6 6 100.0 1 5 6 1 4 3 1 3 4
+p23
+aVMarcus Camby POR 04/23/2011 POR vs. DAL W 19 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 1 3 0 4 -6
+p24
+aVGerald Wallace POR 04/23/2011 POR vs. DAL W 40 10 3 9 33.3 0 3 0.0 4 4 100.0 1 10 11 3 0 0 3 1 6
+p25
+aVWesley Matthews POR 04/23/2011 POR vs. DAL W 36 11 4 10 40.0 1 3 33.3 2 2 100.0 1 0 1 2 1 0 0 3 -3
+p26
+aVNicolas Batum POR 04/23/2011 POR vs. DAL W 25 5 2 5 40.0 1 4 25.0 0 0 - 0 3 3 0 1 2 1 4 -1
+p27
+aVBrandon Roy POR 04/23/2011 POR vs. DAL W 24 24 9 13 69.2 2 5 40.0 4 5 80.0 2 2 4 5 0 0 2 0 16
+p28
+aVChris Johnson POR 04/23/2011 POR vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p29
+aVAndre Miller POR 04/23/2011 POR vs. DAL W 30 14 5 10 50.0 0 1 0.0 4 4 100.0 0 3 3 1 1 0 3 0 -5
+p30
+aVRudy Fernandez POR 04/23/2011 POR vs. DAL W 16 2 0 5 0.0 0 3 0.0 2 2 100.0 0 1 1 1 0 0 0 0 1
+p31
+aVWesley Matthews POR 04/21/2011 POR vs. DAL W 36 25 8 12 66.7 4 6 66.7 5 6 83.3 0 2 2 3 2 0 0 2 5
+p32
+aVGerald Wallace POR 04/21/2011 POR vs. DAL W 42 7 2 6 33.3 1 1 100.0 2 2 100.0 1 10 11 3 2 1 2 4 -1
+p33
+aVBrandon Roy POR 04/21/2011 POR vs. DAL W 24 16 6 10 60.0 1 3 33.3 3 3 100.0 0 1 1 4 1 0 0 2 7
+p34
+aVChris Johnson POR 04/21/2011 POR vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 2 0 0 7
+p35
+aVAndre Miller POR 04/21/2011 POR vs. DAL W 33 16 6 13 46.2 1 2 50.0 3 3 100.0 1 1 2 7 0 0 3 2 6
+p36
+aVMarcus Camby POR 04/21/2011 POR vs. DAL W 21 6 3 6 50.0 0 0 - 0 2 0.0 4 6 10 0 1 1 0 4 0
+p37
+aVNicolas Batum POR 04/21/2011 POR vs. DAL W 24 7 2 5 40.0 1 1 100.0 2 2 100.0 0 1 1 0 1 0 2 1 -1
+p38
+aVRudy Fernandez POR 04/21/2011 POR vs. DAL W 11 0 0 2 0.0 0 1 0.0 0 1 0.0 0 3 3 0 0 1 1 2 2
+p39
+aVLaMarcus Aldridge POR 04/21/2011 POR vs. DAL W 43 20 9 21 42.9 0 0 - 2 2 100.0 1 3 4 1 1 1 1 3 0
+p40
+aVAndre Miller POR 04/19/2011 POR @ DAL L 38 18 5 10 50.0 2 2 100.0 6 7 85.7 1 5 6 8 0 0 1 5 -7
+p41
+aVArmon Johnson POR 04/19/2011 POR @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p42
+aVMarcus Camby POR 04/19/2011 POR @ DAL L 36 5 2 5 40.0 1 1 100.0 0 0 - 3 5 8 1 0 0 1 3 -7
+p43
+aVGerald Wallace POR 04/19/2011 POR @ DAL L 38 18 6 11 54.5 1 3 33.3 5 8 62.5 1 6 7 6 0 0 2 3 -6
+p44
+aVRudy Fernandez POR 04/19/2011 POR @ DAL L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 1 1 0 0 1 -7
+p45
+aVBrandon Roy POR 04/19/2011 POR @ DAL L 8 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -6
+p46
+aVLaMarcus Aldridge POR 04/19/2011 POR @ DAL L 44 24 9 18 50.0 0 0 - 6 8 75.0 1 9 10 2 0 3 1 4 -13
+p47
+aVPatty Mills POR 04/19/2011 POR @ DAL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 2
+p48
+aVWesley Matthews POR 04/19/2011 POR @ DAL L 36 13 6 11 54.5 1 2 50.0 0 0 - 1 0 1 0 0 1 3 4 -4
+p49
+aVNicolas Batum POR 04/19/2011 POR @ DAL L 25 10 4 7 57.1 2 5 40.0 0 0 - 0 0 0 2 1 0 2 2 -12
+p50
+aVGerald Wallace POR 04/16/2011 POR @ DAL L 39 8 4 13 30.8 0 2 0.0 0 0 - 1 4 5 1 3 0 3 4 -4
+p51
+aVBrandon Roy POR 04/16/2011 POR @ DAL L 26 2 1 7 14.3 0 2 0.0 0 1 0.0 0 2 2 3 0 0 0 4 -10
+p52
+aVNicolas Batum POR 04/16/2011 POR @ DAL L 34 14 6 14 42.9 1 7 14.3 1 2 50.0 0 2 2 4 0 0 1 1 -4
+p53
+aVMarcus Camby POR 04/16/2011 POR @ DAL L 29 4 2 3 66.7 0 0 - 0 0 - 4 14 18 5 0 2 0 3 -1
+p54
+aVWesley Matthews POR 04/16/2011 POR @ DAL L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 3 2 -7
+p55
+aVRudy Fernandez POR 04/16/2011 POR @ DAL L 18 6 2 3 66.7 1 2 50.0 1 1 100.0 2 0 2 1 1 0 0 2 0
+p56
+aVLaMarcus Aldridge POR 04/16/2011 POR @ DAL L 41 27 12 20 60.0 0 0 - 3 4 75.0 3 3 6 2 1 1 4 5 -8
+p57
+aVAndre Miller POR 04/16/2011 POR @ DAL L 34 18 7 13 53.8 0 2 0.0 4 5 80.0 1 3 4 6 1 0 2 5 -6
+p58
+a.

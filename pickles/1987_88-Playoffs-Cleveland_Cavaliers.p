@@ -1,0 +1,90 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCraig Ehlo CLE 05/08/1988 CLE @ CHI L 19 8 3 5 60.0 0 2 0.0 2 3 66.7 1 0 1 4 0 0 3 1 -
+p2
+aVMike Sanders CLE 05/08/1988 CLE @ CHI L 36 13 6 11 54.5 0 0 - 1 2 50.0 0 6 6 3 1 0 1 5 -
+p3
+aVRon Harper CLE 05/08/1988 CLE @ CHI L 34 17 8 13 61.5 0 0 - 1 3 33.3 1 1 2 4 6 1 3 2 -
+p4
+aVBrad Daugherty CLE 05/08/1988 CLE @ CHI L 44 16 5 15 33.3 0 0 - 6 10 60.0 3 7 10 5 0 0 4 2 -
+p5
+aVHot Rod Williams CLE 05/08/1988 CLE @ CHI L 22 11 5 6 83.3 0 0 - 1 4 25.0 1 2 3 0 0 1 1 3 -
+p6
+aVLarry Nance CLE 05/08/1988 CLE @ CHI L 38 11 4 9 44.4 0 0 - 3 4 75.0 2 7 9 2 0 1 2 5 -
+p7
+aVChris Dudley CLE 05/08/1988 CLE @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p8
+aVMark Price CLE 05/08/1988 CLE @ CHI L 43 25 9 15 60.0 1 3 33.3 6 6 100.0 0 1 1 7 0 0 2 2 -
+p9
+aVMark Price CLE 05/05/1988 CLE vs. CHI W 42 13 6 12 50.0 1 2 50.0 0 0 - 0 2 2 7 0 0 3 2 -
+p10
+aVChris Dudley CLE 05/05/1988 CLE vs. CHI W 5 1 0 1 0.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 0 -
+p11
+aVHot Rod Williams CLE 05/05/1988 CLE vs. CHI W 29 9 4 9 44.4 0 0 - 1 1 100.0 3 5 8 1 1 2 0 3 -
+p12
+aVMike Sanders CLE 05/05/1988 CLE vs. CHI W 25 10 5 12 41.7 0 0 - 0 0 - 4 2 6 2 1 0 2 4 -
+p13
+aVRon Harper CLE 05/05/1988 CLE vs. CHI W 40 30 12 23 52.2 0 2 0.0 6 6 100.0 1 7 8 5 3 1 4 1 -
+p14
+aVLarry Nance CLE 05/05/1988 CLE vs. CHI W 41 13 5 11 45.5 0 0 - 3 3 100.0 1 3 4 2 0 5 1 1 -
+p15
+aVCraig Ehlo CLE 05/05/1988 CLE vs. CHI W 17 4 1 5 20.0 0 1 0.0 2 4 50.0 0 4 4 2 1 0 1 2 -
+p16
+aVBrad Daugherty CLE 05/05/1988 CLE vs. CHI W 41 17 6 11 54.5 0 0 - 5 7 71.4 2 7 9 1 0 1 3 3 -
+p17
+aVPhil Hubbard CLE 05/03/1988 CLE vs. CHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p18
+aVHot Rod Williams CLE 05/03/1988 CLE vs. CHI W 34 20 8 13 61.5 0 0 - 4 8 50.0 4 3 7 0 1 0 0 3 -
+p19
+aVMike Sanders CLE 05/03/1988 CLE vs. CHI W 18 8 4 9 44.4 0 0 - 0 0 - 5 2 7 1 0 1 1 2 -
+p20
+aVRon Harper CLE 05/03/1988 CLE vs. CHI W 26 14 6 12 50.0 0 0 - 2 2 100.0 1 3 4 2 1 1 3 5 -
+p21
+aVCraig Ehlo CLE 05/03/1988 CLE vs. CHI W 24 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 3 5 -
+p22
+aVDell Curry CLE 05/03/1988 CLE vs. CHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p23
+aVLarry Nance CLE 05/03/1988 CLE vs. CHI W 38 16 6 13 46.2 0 0 - 4 4 100.0 2 7 9 3 0 3 4 1 -
+p24
+aVMark Price CLE 05/03/1988 CLE vs. CHI W 41 31 11 14 78.6 0 2 0.0 9 9 100.0 2 4 6 6 1 0 0 1 -
+p25
+aVChris Dudley CLE 05/03/1988 CLE vs. CHI W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -
+p26
+aVBrad Daugherty CLE 05/03/1988 CLE vs. CHI W 43 13 5 10 50.0 0 0 - 3 5 60.0 3 7 10 5 0 1 4 2 -
+p27
+aVCraig Ehlo CLE 05/01/1988 CLE @ CHI L 24 5 2 7 28.6 0 1 0.0 1 2 50.0 1 4 5 3 0 0 3 3 -
+p28
+aVRon Harper CLE 05/01/1988 CLE @ CHI L 34 10 4 15 26.7 0 0 - 2 5 40.0 1 5 6 4 1 1 1 1 -
+p29
+aVBrad Daugherty CLE 05/01/1988 CLE @ CHI L 38 21 9 17 52.9 0 0 - 3 4 75.0 2 11 13 4 1 3 2 0 -
+p30
+aVChris Dudley CLE 05/01/1988 CLE @ CHI L 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p31
+aVHot Rod Williams CLE 05/01/1988 CLE @ CHI L 21 2 1 5 20.0 0 0 - 0 0 - 3 2 5 2 1 2 1 3 -
+p32
+aVPhil Hubbard CLE 05/01/1988 CLE @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p33
+aVMark Price CLE 05/01/1988 CLE @ CHI L 37 19 6 12 50.0 3 4 75.0 4 4 100.0 0 4 4 6 0 0 2 6 -
+p34
+aVLarry Nance CLE 05/01/1988 CLE @ CHI L 41 27 11 15 73.3 0 0 - 5 6 83.3 2 4 6 8 1 2 4 3 -
+p35
+aVMike Sanders CLE 05/01/1988 CLE @ CHI L 31 15 6 11 54.5 0 1 0.0 3 3 100.0 0 2 2 0 0 0 2 5 -
+p36
+aVCraig Ehlo CLE 04/28/1988 CLE @ CHI L 44 21 9 18 50.0 0 3 0.0 3 5 60.0 1 5 6 6 4 0 2 3 -
+p37
+aVMark Price CLE 04/28/1988 CLE @ CHI L 42 17 6 14 42.9 0 1 0.0 5 6 83.3 1 4 5 12 2 0 1 0 -
+p38
+aVDell Curry CLE 04/28/1988 CLE @ CHI L 11 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 0 1 0 1 -
+p39
+aVPhil Hubbard CLE 04/28/1988 CLE @ CHI L 12 2 1 5 20.0 0 0 - 0 1 0.0 1 2 3 0 0 0 1 0 -
+p40
+aVHot Rod Williams CLE 04/28/1988 CLE @ CHI L 27 4 2 7 28.6 0 0 - 0 0 - 2 4 6 1 0 2 2 1 -
+p41
+aVMike Sanders CLE 04/28/1988 CLE @ CHI L 24 18 7 9 77.8 0 0 - 4 5 80.0 2 2 4 1 1 1 5 5 -
+p42
+aVLarry Nance CLE 04/28/1988 CLE @ CHI L 42 17 8 16 50.0 0 0 - 1 1 100.0 3 5 8 3 1 0 3 3 -
+p43
+aVBrad Daugherty CLE 04/28/1988 CLE @ CHI L 38 12 4 10 40.0 0 0 - 4 5 80.0 0 4 4 1 1 2 3 4 -
+p44
+a.

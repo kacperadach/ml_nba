@@ -1,0 +1,1692 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJoe Smith GSW 04/19/1997 GSW vs. SAC L 33 13 6 15 40.0 0 0 - 1 1 100.0 2 5 7 5 1 0 4 3 0
+p2
+aVScott Burrell GSW 04/19/1997 GSW vs. SAC L 37 21 9 13 69.2 3 4 75.0 0 1 0.0 5 1 6 4 1 1 2 4 4
+p3
+aVMelvin Booker GSW 04/19/1997 GSW vs. SAC L 29 14 6 12 50.0 0 4 0.0 2 2 100.0 1 2 3 4 1 0 1 3 0
+p4
+aVDonyell Marshall GSW 04/19/1997 GSW vs. SAC L 37 24 10 26 38.5 1 5 20.0 3 4 75.0 5 4 9 1 1 1 1 2 -11
+p5
+aVRay Owes GSW 04/19/1997 GSW vs. SAC L 8 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 1
+p6
+aVChris Mullin GSW 04/19/1997 GSW vs. SAC L 20 9 4 5 80.0 0 0 - 1 1 100.0 1 0 1 3 0 0 1 1 -1
+p7
+aVAndrew DeClercq GSW 04/19/1997 GSW vs. SAC L 28 10 2 4 50.0 0 0 - 6 9 66.7 4 4 8 1 1 0 2 4 -1
+p8
+aVFelton Spencer GSW 04/19/1997 GSW vs. SAC L 22 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 0 1 0 1 3 -3
+p9
+aVTodd Fuller GSW 04/19/1997 GSW vs. SAC L 25 12 6 14 42.9 0 0 - 0 0 - 4 6 10 2 0 0 2 0 -2
+p10
+aVMark Price GSW 04/19/1997 GSW vs. SAC L 25 10 4 10 40.0 2 4 50.0 0 0 - 0 1 1 6 1 1 0 1 5
+p11
+aVAndrew DeClercq GSW 04/17/1997 GSW @ UTA L 27 9 3 9 33.3 0 0 - 3 4 75.0 2 1 3 3 2 2 2 2 1
+p12
+aVScott Burrell GSW 04/17/1997 GSW @ UTA L 17 4 1 7 14.3 1 3 33.3 1 2 50.0 1 1 2 1 2 0 2 2 -6
+p13
+aVLatrell Sprewell GSW 04/17/1997 GSW @ UTA L 31 14 4 11 36.4 2 6 33.3 4 4 100.0 0 5 5 2 3 0 2 0 -7
+p14
+aVMelvin Booker GSW 04/17/1997 GSW @ UTA L 38 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 5 0 0 3 0 0
+p15
+aVDonyell Marshall GSW 04/17/1997 GSW @ UTA L 23 12 5 15 33.3 0 3 0.0 2 3 66.7 6 0 6 1 1 1 3 3 -8
+p16
+aVTodd Fuller GSW 04/17/1997 GSW @ UTA L 20 14 6 7 85.7 0 0 - 2 2 100.0 5 4 9 0 1 0 0 4 -13
+p17
+aVJoe Smith GSW 04/17/1997 GSW @ UTA L 31 13 6 18 33.3 0 1 0.0 1 2 50.0 4 2 6 4 2 0 2 3 -12
+p18
+aVChris Mullin GSW 04/17/1997 GSW @ UTA L 25 19 7 9 77.8 0 0 - 5 5 100.0 0 2 2 1 2 1 2 1 -2
+p19
+aVFelton Spencer GSW 04/17/1997 GSW @ UTA L 29 3 0 3 0.0 0 0 - 3 4 75.0 3 7 10 1 0 1 3 4 -4
+p20
+aVFelton Spencer GSW 04/14/1997 GSW @ DEN W 17 8 4 8 50.0 0 0 - 0 0 - 5 6 11 0 1 0 0 2 2
+p21
+aVJoe Smith GSW 04/14/1997 GSW @ DEN W 27 12 4 14 28.6 0 0 - 4 4 100.0 1 4 5 1 0 0 1 5 8
+p22
+aVAndrew DeClercq GSW 04/14/1997 GSW @ DEN W 18 9 3 7 42.9 0 0 - 3 4 75.0 3 4 7 0 0 0 2 1 -5
+p23
+aVMelvin Booker GSW 04/14/1997 GSW @ DEN W 48 12 5 14 35.7 0 3 0.0 2 2 100.0 1 2 3 7 0 0 0 2 0
+p24
+aVRay Owes GSW 04/14/1997 GSW @ DEN W 11 4 0 3 0.0 0 0 - 4 4 100.0 1 5 6 0 0 0 0 0 15
+p25
+aVScott Burrell GSW 04/14/1997 GSW @ DEN W 28 11 3 7 42.9 1 3 33.3 4 4 100.0 1 3 4 1 1 2 1 1 18
+p26
+aVTodd Fuller GSW 04/14/1997 GSW @ DEN W 28 14 6 10 60.0 0 0 - 2 2 100.0 2 6 8 1 1 0 0 2 5
+p27
+aVDonyell Marshall GSW 04/14/1997 GSW @ DEN W 28 13 5 14 35.7 1 3 33.3 2 2 100.0 1 6 7 0 0 1 1 2 -10
+p28
+aVChris Mullin GSW 04/14/1997 GSW @ DEN W 35 20 8 16 50.0 0 3 0.0 4 5 80.0 1 2 3 5 2 0 2 1 7
+p29
+aVScott Burrell GSW 04/13/1997 GSW vs. PHX L 26 9 3 7 42.9 1 2 50.0 2 2 100.0 3 3 6 3 0 0 1 4 0
+p30
+aVAndrew DeClercq GSW 04/13/1997 GSW vs. PHX L 21 14 6 10 60.0 0 0 - 2 5 40.0 3 3 6 0 2 0 3 2 -6
+p31
+aVMelvin Booker GSW 04/13/1997 GSW vs. PHX L 42 16 6 14 42.9 4 7 57.1 0 0 - 0 0 0 2 1 0 1 4 0
+p32
+aVChris Mullin GSW 04/13/1997 GSW vs. PHX L 31 11 5 9 55.6 0 1 0.0 1 1 100.0 0 3 3 4 1 1 2 0 4
+p33
+aVDonyell Marshall GSW 04/13/1997 GSW vs. PHX L 23 13 4 13 30.8 0 3 0.0 5 6 83.3 5 3 8 1 1 1 3 0 -6
+p34
+aVJoe Smith GSW 04/13/1997 GSW vs. PHX L 31 13 5 15 33.3 0 0 - 3 6 50.0 4 10 14 1 0 0 1 5 -2
+p35
+aVRay Owes GSW 04/13/1997 GSW vs. PHX L 19 10 5 9 55.6 0 0 - 0 0 - 1 5 6 1 1 0 1 1 -3
+p36
+aVLatrell Sprewell GSW 04/13/1997 GSW vs. PHX L 28 6 3 9 33.3 0 4 0.0 0 0 - 0 2 2 3 1 0 1 0 -7
+p37
+aVFelton Spencer GSW 04/13/1997 GSW vs. PHX L 19 5 1 4 25.0 0 0 - 3 5 60.0 3 3 6 0 0 1 0 3 -11
+p38
+aVJoe Smith GSW 04/11/1997 GSW @ SAC L 29 8 4 10 40.0 0 0 - 0 0 - 2 4 6 0 2 1 2 2 -10
+p39
+aVAndrew DeClercq GSW 04/11/1997 GSW @ SAC L 21 7 3 7 42.9 0 0 - 1 4 25.0 2 2 4 1 0 0 2 2 2
+p40
+aVChris Mullin GSW 04/11/1997 GSW @ SAC L 22 10 1 6 16.7 1 3 33.3 7 9 77.8 0 2 2 1 0 0 4 2 3
+p41
+aVMelvin Booker GSW 04/11/1997 GSW @ SAC L 28 9 4 7 57.1 1 2 50.0 0 1 0.0 0 1 1 1 0 0 0 2 0
+p42
+aVLatrell Sprewell GSW 04/11/1997 GSW @ SAC L 39 24 8 16 50.0 2 5 40.0 6 6 100.0 0 2 2 4 2 0 6 1 -12
+p43
+aVFelton Spencer GSW 04/11/1997 GSW @ SAC L 20 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 2 -15
+p44
+aVRay Owes GSW 04/11/1997 GSW @ SAC L 3 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 0 4
+p45
+aVDonyell Marshall GSW 04/11/1997 GSW @ SAC L 26 6 3 9 33.3 0 1 0.0 0 2 0.0 2 2 4 0 2 2 2 2 -13
+p46
+aVTodd Fuller GSW 04/11/1997 GSW @ SAC L 25 10 3 6 50.0 0 0 - 4 6 66.7 3 10 13 0 0 1 0 0 3
+p47
+aVMark Price GSW 04/11/1997 GSW @ SAC L 26 8 3 9 33.3 2 4 50.0 0 0 - 0 1 1 4 1 0 2 0 -7
+p48
+aVDonyell Marshall GSW 04/10/1997 GSW vs. DEN W 24 16 7 13 53.8 2 3 66.7 0 0 - 1 5 6 0 2 2 0 2 -11
+p49
+aVLatrell Sprewell GSW 04/10/1997 GSW vs. DEN W 43 22 7 16 43.8 1 4 25.0 7 10 70.0 0 2 2 7 1 0 0 0 0
+p50
+aVScott Burrell GSW 04/10/1997 GSW vs. DEN W 14 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 1 1 1 0 1 6
+p51
+aVJoe Smith GSW 04/10/1997 GSW vs. DEN W 41 25 11 23 47.8 0 0 - 3 3 100.0 4 5 9 1 0 1 1 3 -8
+p52
+aVChris Mullin GSW 04/10/1997 GSW vs. DEN W 32 21 8 11 72.7 4 5 80.0 1 2 50.0 0 4 4 3 2 0 2 1 12
+p53
+aVAndrew DeClercq GSW 04/10/1997 GSW vs. DEN W 26 10 4 10 40.0 0 0 - 2 4 50.0 6 9 15 2 0 2 2 3 11
+p54
+aVRay Owes GSW 04/10/1997 GSW vs. DEN W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 6
+p55
+aVFelton Spencer GSW 04/10/1997 GSW vs. DEN W 28 2 0 4 0.0 0 0 - 2 2 100.0 3 10 13 1 0 1 4 3 -6
+p56
+aVMark Price GSW 04/10/1997 GSW vs. DEN W 22 4 1 9 11.1 0 3 0.0 2 2 100.0 2 0 2 5 0 0 3 1 -10
+p57
+aVMelvin Booker GSW 04/10/1997 GSW vs. DEN W 28 9 4 11 36.4 0 2 0.0 1 1 100.0 1 3 4 6 1 0 0 0 0
+p58
+aVMark Price GSW 04/08/1997 GSW vs. LAL L 28 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 7 0 0 5 1 -15
+p59
+aVFelton Spencer GSW 04/08/1997 GSW vs. LAL L 23 7 3 8 37.5 0 0 - 1 2 50.0 4 2 6 0 1 0 0 3 -7
+p60
+aVRay Owes GSW 04/08/1997 GSW vs. LAL L 11 4 2 7 28.6 0 0 - 0 0 - 2 1 3 0 2 1 1 1 -5
+p61
+aVScott Burrell GSW 04/08/1997 GSW vs. LAL L 10 2 1 4 25.0 0 3 0.0 0 0 - 1 1 2 5 0 0 0 2 -15
+p62
+aVDonyell Marshall GSW 04/08/1997 GSW vs. LAL L 24 9 4 10 40.0 0 1 0.0 1 2 50.0 4 4 8 1 2 0 1 1 1
+p63
+aVTodd Fuller GSW 04/08/1997 GSW vs. LAL L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p64
+aVLatrell Sprewell GSW 04/08/1997 GSW vs. LAL L 41 10 4 10 40.0 0 1 0.0 2 3 66.7 0 1 1 6 2 0 6 1 -12
+p65
+aVAndrew DeClercq GSW 04/08/1997 GSW vs. LAL L 16 6 2 3 66.7 0 0 - 2 4 50.0 0 0 0 1 1 0 0 3 -18
+p66
+aVJoe Smith GSW 04/08/1997 GSW vs. LAL L 40 26 9 21 42.9 0 0 - 8 8 100.0 6 5 11 1 3 2 1 2 -13
+p67
+aVMelvin Booker GSW 04/08/1997 GSW vs. LAL L 17 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 2 1 0
+p68
+aVChris Mullin GSW 04/08/1997 GSW vs. LAL L 24 11 5 8 62.5 0 0 - 1 1 100.0 2 2 4 2 0 0 2 1 -26
+p69
+aVTodd Fuller GSW 04/06/1997 GSW vs. UTA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -3
+p70
+aVLatrell Sprewell GSW 04/06/1997 GSW vs. UTA L 33 13 4 9 44.4 2 3 66.7 3 3 100.0 0 2 2 4 0 0 3 3 -18
+p71
+aVMelvin Booker GSW 04/06/1997 GSW vs. UTA L 20 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 6 0 0 1 2 0
+p72
+aVAndrew DeClercq GSW 04/06/1997 GSW vs. UTA L 28 15 4 7 57.1 0 0 - 7 10 70.0 5 4 9 2 0 0 3 5 2
+p73
+aVChris Mullin GSW 04/06/1997 GSW vs. UTA L 30 16 7 13 53.8 0 1 0.0 2 2 100.0 2 3 5 4 1 0 2 1 -10
+p74
+aVDonyell Marshall GSW 04/06/1997 GSW vs. UTA L 19 8 3 7 42.9 1 3 33.3 1 2 50.0 1 2 3 2 1 0 1 2 -17
+p75
+aVMark Price GSW 04/06/1997 GSW vs. UTA L 28 12 4 8 50.0 1 4 25.0 3 3 100.0 1 0 1 6 1 0 3 2 -17
+p76
+aVJoe Smith GSW 04/06/1997 GSW vs. UTA L 32 9 3 10 30.0 0 0 - 3 4 75.0 3 1 4 2 1 1 3 3 -14
+p77
+aVFelton Spencer GSW 04/06/1997 GSW vs. UTA L 18 6 2 5 40.0 0 0 - 2 5 40.0 3 2 5 0 0 0 1 4 -9
+p78
+aVScott Burrell GSW 04/06/1997 GSW vs. UTA L 15 11 4 4 100.0 3 3 100.0 0 0 - 0 1 1 2 1 1 0 4 4
+p79
+aVRay Owes GSW 04/06/1997 GSW vs. UTA L 12 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 2 9
+p80
+aVChris Mullin GSW 04/05/1997 GSW vs. SAS W 24 22 8 10 80.0 2 3 66.7 4 4 100.0 0 3 3 2 4 0 2 2 10
+p81
+aVJoe Smith GSW 04/05/1997 GSW vs. SAS W 35 19 7 16 43.8 0 0 - 5 5 100.0 1 4 5 0 0 0 1 1 10
+p82
+aVTodd Fuller GSW 04/05/1997 GSW vs. SAS W 5 0 0 3 0.0 0 0 - 0 0 - 3 0 3 1 2 0 1 0 -3
+p83
+aVMelvin Booker GSW 04/05/1997 GSW vs. SAS W 22 7 3 4 75.0 1 2 50.0 0 0 - 1 1 2 3 0 0 0 2 0
+p84
+aVFelton Spencer GSW 04/05/1997 GSW vs. SAS W 25 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 1 0 1 2 10
+p85
+aVRay Owes GSW 04/05/1997 GSW vs. SAS W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p86
+aVMark Price GSW 04/05/1997 GSW vs. SAS W 27 12 4 8 50.0 2 4 50.0 2 2 100.0 0 3 3 12 0 0 1 1 16
+p87
+aVAndrew DeClercq GSW 04/05/1997 GSW vs. SAS W 22 7 3 6 50.0 0 0 - 1 2 50.0 3 0 3 0 1 0 3 4 5
+p88
+aVDonyell Marshall GSW 04/05/1997 GSW vs. SAS W 35 30 12 16 75.0 2 5 40.0 4 7 57.1 3 6 9 1 1 2 1 2 15
+p89
+aVLatrell Sprewell GSW 04/05/1997 GSW vs. SAS W 42 19 8 14 57.1 1 4 25.0 2 5 40.0 1 2 3 13 0 0 1 1 17
+p90
+aVRay Owes GSW 04/03/1997 GSW vs. DAL W 12 4 2 5 40.0 0 0 - 0 1 0.0 3 2 5 0 0 2 0 0 5
+p91
+aVLatrell Sprewell GSW 04/03/1997 GSW vs. DAL W 41 25 10 18 55.6 1 4 25.0 4 4 100.0 0 4 4 6 2 0 4 0 17
+p92
+aVMark Price GSW 04/03/1997 GSW vs. DAL W 29 16 5 8 62.5 3 6 50.0 3 3 100.0 0 0 0 8 2 0 0 1 18
+p93
+aVChris Mullin GSW 04/03/1997 GSW vs. DAL W 28 7 3 7 42.9 0 2 0.0 1 2 50.0 2 1 3 4 1 2 4 3 5
+p94
+aVMelvin Booker GSW 04/03/1997 GSW vs. DAL W 19 8 3 5 60.0 0 2 0.0 2 3 66.7 0 3 3 2 0 1 2 0 0
+p95
+aVFelton Spencer GSW 04/03/1997 GSW vs. DAL W 20 10 2 7 28.6 0 0 - 6 8 75.0 5 1 6 0 2 0 1 4 7
+p96
+aVScott Burrell GSW 04/03/1997 GSW vs. DAL W 8 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 1 1 0 2 2 -2
+p97
+aVDonyell Marshall GSW 04/03/1997 GSW vs. DAL W 24 9 4 9 44.4 0 1 0.0 1 2 50.0 3 7 10 2 0 1 0 2 21
+p98
+aVAndrew DeClercq GSW 04/03/1997 GSW vs. DAL W 16 9 3 5 60.0 0 0 - 3 4 75.0 3 1 4 0 0 0 1 4 0
+p99
+aVJoe Smith GSW 04/03/1997 GSW vs. DAL W 38 15 6 14 42.9 0 0 - 3 4 75.0 7 5 12 1 1 0 3 3 10
+p100
+aVTodd Fuller GSW 04/03/1997 GSW vs. DAL W 6 0 0 5 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p101
+aVTodd Fuller GSW 04/01/1997 GSW @ POR W 28 4 0 0 - 0 0 - 4 6 66.7 1 8 9 0 0 0 1 4 4
+p102
+aVFelton Spencer GSW 04/01/1997 GSW @ POR W 19 6 3 7 42.9 0 0 - 0 0 - 3 3 6 1 0 0 1 4 7
+p103
+aVAndrew DeClercq GSW 04/01/1997 GSW @ POR W 27 14 6 9 66.7 0 0 - 2 2 100.0 1 5 6 0 0 0 5 4 7
+p104
+aVMelvin Booker GSW 04/01/1997 GSW @ POR W 15 8 2 3 66.7 2 3 66.7 2 2 100.0 0 3 3 0 0 0 4 2 0
+p105
+aVChris Mullin GSW 04/01/1997 GSW @ POR W 29 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 4 0 0 1 0 -3
+p106
+aVLatrell Sprewell GSW 04/01/1997 GSW @ POR W 44 22 8 20 40.0 2 5 40.0 4 5 80.0 0 7 7 3 1 0 6 1 8
+p107
+aVScott Burrell GSW 04/01/1997 GSW @ POR W 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 1 2
+p108
+aVMark Price GSW 04/01/1997 GSW @ POR W 33 24 7 11 63.6 1 3 33.3 9 11 81.8 1 2 3 5 1 0 5 0 2
+p109
+aVDonyell Marshall GSW 04/01/1997 GSW @ POR W 21 4 2 8 25.0 0 2 0.0 0 0 - 1 3 4 0 0 2 1 2 8
+p110
+aVRay Owes GSW 04/01/1997 GSW @ POR W 20 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 1 1 0 5 6
+p111
+aVMark Price GSW 03/30/1997 GSW vs. MIN L 30 13 5 10 50.0 1 4 25.0 2 2 100.0 0 3 3 7 1 0 1 0 -20
+p112
+aVJoe Smith GSW 03/30/1997 GSW vs. MIN L 40 22 8 18 44.4 1 1 100.0 5 6 83.3 6 6 12 1 1 1 6 6 -6
+p113
+aVLatrell Sprewell GSW 03/30/1997 GSW vs. MIN L 44 15 5 10 50.0 1 1 100.0 4 4 100.0 0 1 1 7 0 0 2 5 -6
+p114
+aVFelton Spencer GSW 03/30/1997 GSW vs. MIN L 16 7 3 6 50.0 0 0 - 1 1 100.0 2 1 3 0 1 0 1 4 -14
+p115
+aVChris Mullin GSW 03/30/1997 GSW vs. MIN L 38 20 7 13 53.8 4 6 66.7 2 2 100.0 1 5 6 3 1 0 5 3 -1
+p116
+aVAndrew DeClercq GSW 03/30/1997 GSW vs. MIN L 30 17 7 11 63.6 0 0 - 3 5 60.0 3 7 10 0 0 1 2 3 2
+p117
+aVDonyell Marshall GSW 03/30/1997 GSW vs. MIN L 16 4 2 8 25.0 0 2 0.0 0 0 - 0 4 4 2 0 0 1 0 -12
+p118
+aVMelvin Booker GSW 03/30/1997 GSW vs. MIN L 20 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 5 0 0 1 3 0
+p119
+aVScott Burrell GSW 03/30/1997 GSW vs. MIN L 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -8
+p120
+aVJoe Smith GSW 03/28/1997 GSW @ PHX L 41 19 7 14 50.0 0 0 - 5 8 62.5 4 7 11 5 2 0 2 4 4
+p121
+aVMelvin Booker GSW 03/28/1997 GSW @ PHX L 25 9 3 5 60.0 0 0 - 3 3 100.0 1 0 1 1 0 0 1 4 0
+p122
+aVScott Burrell GSW 03/28/1997 GSW @ PHX L 25 6 2 7 28.6 2 5 40.0 0 0 - 1 4 5 0 1 2 2 4 -6
+p123
+aVLatrell Sprewell GSW 03/28/1997 GSW @ PHX L 53 31 13 28 46.4 1 1 100.0 4 6 66.7 3 8 11 11 0 1 5 1 -7
+p124
+aVMark Price GSW 03/28/1997 GSW @ PHX L 28 16 6 11 54.5 2 5 40.0 2 2 100.0 0 4 4 6 1 0 3 3 4
+p125
+aVDonyell Marshall GSW 03/28/1997 GSW @ PHX L 25 10 5 12 41.7 0 2 0.0 0 0 - 2 5 7 2 0 1 0 1 -1
+p126
+aVFelton Spencer GSW 03/28/1997 GSW @ PHX L 9 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 1 5 -6
+p127
+aVTodd Fuller GSW 03/28/1997 GSW @ PHX L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p128
+aVAndrew DeClercq GSW 03/28/1997 GSW @ PHX L 14 5 0 1 0.0 0 0 - 5 6 83.3 1 3 4 1 1 0 2 4 9
+p129
+aVChris Mullin GSW 03/28/1997 GSW @ PHX L 36 19 7 12 58.3 3 5 60.0 2 2 100.0 0 5 5 4 1 1 3 3 -14
+p130
+aVFelton Spencer GSW 03/25/1997 GSW vs. SEA L 27 13 6 7 85.7 0 0 - 1 3 33.3 2 4 6 0 0 1 1 5 -31
+p131
+aVTodd Fuller GSW 03/25/1997 GSW vs. SEA L 11 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 1 1 0 0 2 -14
+p132
+aVJoe Smith GSW 03/25/1997 GSW vs. SEA L 28 18 6 10 60.0 0 0 - 6 6 100.0 1 1 2 2 0 1 3 6 -10
+p133
+aVAndrew DeClercq GSW 03/25/1997 GSW vs. SEA L 13 5 1 2 50.0 0 0 - 3 4 75.0 2 0 2 0 0 1 1 4 1
+p134
+aVLou Roe GSW 03/25/1997 GSW vs. SEA L 9 5 2 5 40.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 2 3 -6
+p135
+aVDonyell Marshall GSW 03/25/1997 GSW vs. SEA L 17 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 0 0 1 2 1 -23
+p136
+aVScott Burrell GSW 03/25/1997 GSW vs. SEA L 14 5 2 5 40.0 0 2 0.0 1 2 50.0 1 1 2 1 1 0 3 2 -8
+p137
+aVRay Owes GSW 03/25/1997 GSW vs. SEA L 12 3 1 4 25.0 0 0 - 1 4 25.0 2 1 3 1 1 1 1 1 -11
+p138
+aVChris Mullin GSW 03/25/1997 GSW vs. SEA L 27 10 3 7 42.9 1 2 50.0 3 4 75.0 0 5 5 2 0 0 0 2 -17
+p139
+aVMelvin Booker GSW 03/25/1997 GSW vs. SEA L 17 7 2 4 50.0 1 2 50.0 2 2 100.0 1 2 3 3 0 1 3 0 0
+p140
+aVLatrell Sprewell GSW 03/25/1997 GSW vs. SEA L 37 8 3 9 33.3 0 3 0.0 2 2 100.0 0 2 2 9 1 1 3 1 -29
+p141
+aVMark Price GSW 03/25/1997 GSW vs. SEA L 29 5 1 7 14.3 1 4 25.0 2 4 50.0 0 1 1 0 0 0 4 0 -29
+p142
+aVJoe Smith GSW 03/22/1997 GSW @ CHH L 46 31 14 26 53.8 1 2 50.0 2 2 100.0 5 10 15 0 0 1 3 1 -4
+p143
+aVFelton Spencer GSW 03/22/1997 GSW @ CHH L 28 9 2 5 40.0 0 0 - 5 5 100.0 3 3 6 0 0 1 0 4 -6
+p144
+aVMelvin Booker GSW 03/22/1997 GSW @ CHH L 34 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 3 0 0 1 3 0
+p145
+aVTodd Fuller GSW 03/22/1997 GSW @ CHH L 12 2 1 3 33.3 0 0 - 0 0 - 3 4 7 1 0 0 1 2 3
+p146
+aVChris Mullin GSW 03/22/1997 GSW @ CHH L 38 22 7 12 58.3 2 4 50.0 6 6 100.0 0 2 2 2 0 1 1 1 5
+p147
+aVMark Price GSW 03/22/1997 GSW @ CHH L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 0 -10
+p148
+aVLatrell Sprewell GSW 03/22/1997 GSW @ CHH L 48 14 5 19 26.3 0 6 0.0 4 4 100.0 1 4 5 9 1 1 7 3 -10
+p149
+aVDonyell Marshall GSW 03/22/1997 GSW @ CHH L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 0 3 -12
+p150
+aVAndrew DeClercq GSW 03/22/1997 GSW @ CHH L 20 12 5 9 55.6 0 0 - 2 3 66.7 2 2 4 0 0 1 0 2 -6
+p151
+aVScott Burrell GSW 03/22/1997 GSW @ CHH L 14 0 0 6 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 2 2 4
+p152
+aVChris Mullin GSW 03/20/1997 GSW @ ORL L 34 7 3 7 42.9 0 1 0.0 1 2 50.0 0 5 5 6 3 0 1 1 -1
+p153
+aVJoe Smith GSW 03/20/1997 GSW @ ORL L 41 24 9 17 52.9 0 0 - 6 6 100.0 3 3 6 2 0 0 3 1 -1
+p154
+aVMark Price GSW 03/20/1997 GSW @ ORL L 41 12 5 10 50.0 0 3 0.0 2 2 100.0 1 5 6 7 0 0 1 1 1
+p155
+aVLatrell Sprewell GSW 03/20/1997 GSW @ ORL L 40 22 8 16 50.0 3 7 42.9 3 6 50.0 2 2 4 3 0 2 7 2 -4
+p156
+aVTodd Fuller GSW 03/20/1997 GSW @ ORL L 8 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 5 -2
+p157
+aVDonyell Marshall GSW 03/20/1997 GSW @ ORL L 21 12 5 7 71.4 1 2 50.0 1 2 50.0 0 3 3 2 1 1 1 1 5
+p158
+aVAndrew DeClercq GSW 03/20/1997 GSW @ ORL L 17 9 3 7 42.9 0 0 - 3 4 75.0 4 4 8 0 0 0 1 5 -4
+p159
+aVScott Burrell GSW 03/20/1997 GSW @ ORL L 15 0 0 2 0.0 0 2 0.0 0 0 - 1 3 4 1 0 0 1 1 -7
+p160
+aVFelton Spencer GSW 03/20/1997 GSW @ ORL L 24 7 3 3 100.0 0 0 - 1 2 50.0 0 4 4 0 2 1 5 4 -12
+p161
+aVJoe Smith GSW 03/19/1997 GSW @ MIA L 44 18 6 16 37.5 0 0 - 6 9 66.7 5 5 10 0 0 2 7 5 -6
+p162
+aVMelvin Booker GSW 03/19/1997 GSW @ MIA L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p163
+aVLatrell Sprewell GSW 03/19/1997 GSW @ MIA L 49 27 9 19 47.4 2 3 66.7 7 9 77.8 1 6 7 5 2 0 5 2 -2
+p164
+aVAndrew DeClercq GSW 03/19/1997 GSW @ MIA L 18 4 2 5 40.0 0 0 - 0 1 0.0 0 4 4 0 0 0 0 6 -7
+p165
+aVMark Price GSW 03/19/1997 GSW @ MIA L 43 24 9 13 69.2 3 6 50.0 3 3 100.0 0 6 6 3 0 0 1 2 8
+p166
+aVFelton Spencer GSW 03/19/1997 GSW @ MIA L 21 6 2 5 40.0 0 0 - 2 3 66.7 2 2 4 1 0 0 0 5 23
+p167
+aVScott Burrell GSW 03/19/1997 GSW @ MIA L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 3 0 2
+p168
+aVChris Mullin GSW 03/19/1997 GSW @ MIA L 36 2 0 5 0.0 0 3 0.0 2 2 100.0 0 4 4 0 3 1 2 2 -21
+p169
+aVRay Owes GSW 03/19/1997 GSW @ MIA L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -6
+p170
+aVDonyell Marshall GSW 03/19/1997 GSW @ MIA L 35 8 2 6 33.3 1 4 25.0 3 4 75.0 2 9 11 1 0 1 1 2 11
+p171
+aVRay Owes GSW 03/17/1997 GSW vs. PHX L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p172
+aVJoe Smith GSW 03/17/1997 GSW vs. PHX L 39 19 9 17 52.9 0 1 0.0 1 2 50.0 3 4 7 1 2 1 3 2 -9
+p173
+aVLatrell Sprewell GSW 03/17/1997 GSW vs. PHX L 46 20 6 14 42.9 0 3 0.0 8 8 100.0 1 5 6 12 0 0 4 3 -17
+p174
+aVFelton Spencer GSW 03/17/1997 GSW vs. PHX L 21 6 3 6 50.0 0 0 - 0 2 0.0 2 3 5 0 0 0 1 3 -3
+p175
+aVChris Mullin GSW 03/17/1997 GSW vs. PHX L 37 8 3 9 33.3 0 2 0.0 2 3 66.7 1 0 1 7 0 0 0 2 -16
+p176
+aVScott Burrell GSW 03/17/1997 GSW vs. PHX L 17 4 2 8 25.0 0 3 0.0 0 0 - 1 1 2 1 0 0 0 2 -6
+p177
+aVDonyell Marshall GSW 03/17/1997 GSW vs. PHX L 36 21 10 18 55.6 1 3 33.3 0 4 0.0 2 8 10 4 1 2 2 1 -18
+p178
+aVAndrew DeClercq GSW 03/17/1997 GSW vs. PHX L 23 15 6 7 85.7 0 0 - 3 6 50.0 2 7 9 1 1 1 0 1 -11
+p179
+aVLou Roe GSW 03/17/1997 GSW vs. PHX L 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -4
+p180
+aVTodd Fuller GSW 03/17/1997 GSW vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p181
+aVMark Price GSW 03/17/1997 GSW vs. PHX L 17 2 1 1 100.0 0 0 - 0 0 - 1 0 1 3 0 0 5 5 -13
+p182
+aVLatrell Sprewell GSW 03/15/1997 GSW vs. TOR W 40 16 6 13 46.2 0 3 0.0 4 5 80.0 1 2 3 6 0 0 3 3 15
+p183
+aVMark Price GSW 03/15/1997 GSW vs. TOR W 41 21 7 11 63.6 4 7 57.1 3 4 75.0 1 3 4 13 2 0 2 2 2
+p184
+aVLou Roe GSW 03/15/1997 GSW vs. TOR W 15 6 3 6 50.0 0 0 - 0 2 0.0 0 3 3 0 1 0 1 2 -12
+p185
+aVScott Burrell GSW 03/15/1997 GSW vs. TOR W 23 1 0 4 0.0 0 2 0.0 1 2 50.0 0 2 2 3 0 0 4 1 -9
+p186
+aVFelton Spencer GSW 03/15/1997 GSW vs. TOR W 23 7 3 6 50.0 0 0 - 1 1 100.0 2 6 8 0 0 0 0 0 20
+p187
+aVTodd Fuller GSW 03/15/1997 GSW vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p188
+aVJoe Smith GSW 03/15/1997 GSW vs. TOR W 40 20 9 15 60.0 0 0 - 2 2 100.0 3 4 7 3 1 0 2 3 6
+p189
+aVAndrew DeClercq GSW 03/15/1997 GSW vs. TOR W 20 15 7 8 87.5 0 0 - 1 2 50.0 3 2 5 0 0 1 0 2 6
+p190
+aVDonyell Marshall GSW 03/15/1997 GSW vs. TOR W 36 20 7 17 41.2 1 4 25.0 5 6 83.3 6 8 14 5 1 1 1 4 -4
+p191
+aVLatrell Sprewell GSW 03/13/1997 GSW vs. CLE W 53 12 4 16 25.0 0 5 0.0 4 5 80.0 0 4 4 11 2 1 6 1 6
+p192
+aVScott Burrell GSW 03/13/1997 GSW vs. CLE W 29 5 2 5 40.0 0 2 0.0 1 2 50.0 0 5 5 1 0 0 2 4 6
+p193
+aVRay Owes GSW 03/13/1997 GSW vs. CLE W 18 13 6 11 54.5 0 0 - 1 1 100.0 4 0 4 1 0 1 0 2 -7
+p194
+aVTodd Fuller GSW 03/13/1997 GSW vs. CLE W 20 9 3 5 60.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 2 -4
+p195
+aVMark Price GSW 03/13/1997 GSW vs. CLE W 42 18 6 8 75.0 2 3 66.7 4 4 100.0 0 0 0 4 2 0 3 5 10
+p196
+aVAndrew DeClercq GSW 03/13/1997 GSW vs. CLE W 33 13 5 6 83.3 0 0 - 3 3 100.0 0 4 4 2 2 0 1 2 8
+p197
+aVLou Roe GSW 03/13/1997 GSW vs. CLE W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 1 -2
+p198
+aVJoe Smith GSW 03/13/1997 GSW vs. CLE W 15 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 3
+p199
+aVDonyell Marshall GSW 03/13/1997 GSW vs. CLE W 44 30 11 15 73.3 5 6 83.3 3 4 75.0 1 9 10 0 0 1 4 3 10
+p200
+aVJoe Smith GSW 03/12/1997 GSW @ LAL L 40 12 5 21 23.8 0 1 0.0 2 2 100.0 4 3 7 1 0 2 0 2 -5
+p201
+aVLatrell Sprewell GSW 03/12/1997 GSW @ LAL L 44 37 12 21 57.1 6 8 75.0 7 7 100.0 0 4 4 8 2 0 5 2 -3
+p202
+aVScott Burrell GSW 03/12/1997 GSW @ LAL L 17 1 0 5 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 3 -5
+p203
+aVAndrew DeClercq GSW 03/12/1997 GSW @ LAL L 21 8 4 4 100.0 0 0 - 0 0 - 2 3 5 2 2 0 0 6 8
+p204
+aVDonyell Marshall GSW 03/12/1997 GSW @ LAL L 18 9 2 6 33.3 1 4 25.0 4 6 66.7 1 4 5 0 0 2 1 1 -2
+p205
+aVMark Price GSW 03/12/1997 GSW @ LAL L 37 8 3 9 33.3 0 5 0.0 2 2 100.0 2 1 3 10 0 1 2 1 -15
+p206
+aVChris Mullin GSW 03/12/1997 GSW @ LAL L 38 22 10 15 66.7 0 0 - 2 3 66.7 5 0 5 1 2 0 5 3 -6
+p207
+aVTodd Fuller GSW 03/12/1997 GSW @ LAL L 24 4 2 5 40.0 0 0 - 0 0 - 1 4 5 1 0 0 0 3 -12
+p208
+aVScott Burrell GSW 03/10/1997 GSW @ LAC L 14 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 0 0 0 0 2 -4
+p209
+aVBimbo Coles GSW 03/10/1997 GSW @ LAC L 34 11 5 12 41.7 1 6 16.7 0 0 - 2 3 5 5 1 1 5 4 -1
+p210
+aVTodd Fuller GSW 03/10/1997 GSW @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p211
+aVDonyell Marshall GSW 03/10/1997 GSW @ LAC L 12 3 1 1 100.0 0 0 - 1 3 33.3 1 3 4 1 0 1 0 1 -6
+p212
+aVMark Price GSW 03/10/1997 GSW @ LAC L 24 10 2 8 25.0 2 5 40.0 4 4 100.0 1 2 3 3 0 0 2 0 -5
+p213
+aVJoe Smith GSW 03/10/1997 GSW @ LAC L 45 16 5 10 50.0 0 0 - 6 7 85.7 2 4 6 1 2 0 0 6 -6
+p214
+aVFelton Spencer GSW 03/10/1997 GSW @ LAC L 23 0 0 3 0.0 0 0 - 0 0 - 4 6 10 0 0 1 3 3 -4
+p215
+aVChris Mullin GSW 03/10/1997 GSW @ LAC L 32 17 5 16 31.3 0 1 0.0 7 8 87.5 1 1 2 3 2 0 5 1 -2
+p216
+aVAndrew DeClercq GSW 03/10/1997 GSW @ LAC L 14 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 2 2 4 7
+p217
+aVLatrell Sprewell GSW 03/10/1997 GSW @ LAC L 40 41 9 17 52.9 1 4 25.0 22 25 88.0 0 2 2 2 3 1 2 5 -6
+p218
+aVAndrew DeClercq GSW 03/09/1997 GSW vs. SAC W 15 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 2 0 0 2 3
+p219
+aVMark Price GSW 03/09/1997 GSW vs. SAC W 24 15 4 8 50.0 0 3 0.0 7 7 100.0 0 5 5 3 0 0 3 1 5
+p220
+aVLatrell Sprewell GSW 03/09/1997 GSW vs. SAC W 45 20 7 17 41.2 0 0 - 6 6 100.0 1 5 6 7 3 1 7 2 1
+p221
+aVTodd Fuller GSW 03/09/1997 GSW vs. SAC W 20 10 2 4 50.0 0 0 - 6 7 85.7 3 1 4 1 0 0 1 4 1
+p222
+aVJoe Smith GSW 03/09/1997 GSW vs. SAC W 41 12 5 13 38.5 0 0 - 2 3 66.7 4 4 8 2 1 0 2 3 -3
+p223
+aVChris Mullin GSW 03/09/1997 GSW vs. SAC W 32 12 3 5 60.0 0 0 - 6 6 100.0 2 4 6 3 5 0 8 0 2
+p224
+aVScott Burrell GSW 03/09/1997 GSW vs. SAC W 19 11 4 7 57.1 1 2 50.0 2 2 100.0 0 1 1 0 0 1 0 2 6
+p225
+aVFelton Spencer GSW 03/09/1997 GSW vs. SAC W 20 10 4 6 66.7 0 0 - 2 2 100.0 4 1 5 0 1 0 0 5 6
+p226
+aVBimbo Coles GSW 03/09/1997 GSW vs. SAC W 24 9 3 9 33.3 1 1 100.0 2 2 100.0 0 1 1 2 2 1 2 1 -1
+p227
+aVAndrew DeClercq GSW 03/07/1997 GSW vs. ORL W 16 9 3 5 60.0 0 0 - 3 5 60.0 4 6 10 1 0 0 1 3 8
+p228
+aVLatrell Sprewell GSW 03/07/1997 GSW vs. ORL W 42 21 8 15 53.3 1 4 25.0 4 6 66.7 0 4 4 10 5 0 5 3 11
+p229
+aVTodd Fuller GSW 03/07/1997 GSW vs. ORL W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -3
+p230
+aVChris Mullin GSW 03/07/1997 GSW vs. ORL W 38 19 8 9 88.9 0 0 - 3 3 100.0 1 3 4 6 3 1 5 0 0
+p231
+aVJoe Smith GSW 03/07/1997 GSW vs. ORL W 44 23 8 16 50.0 0 0 - 7 7 100.0 3 5 8 1 0 0 3 3 12
+p232
+aVDonyell Marshall GSW 03/07/1997 GSW vs. ORL W 4 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -5
+p233
+aVFelton Spencer GSW 03/07/1997 GSW vs. ORL W 28 10 5 7 71.4 0 0 - 0 0 - 3 5 8 0 0 1 0 4 -1
+p234
+aVMark Price GSW 03/07/1997 GSW vs. ORL W 24 14 6 9 66.7 2 4 50.0 0 0 - 0 0 0 3 2 0 3 2 5
+p235
+aVBimbo Coles GSW 03/07/1997 GSW vs. ORL W 24 8 4 9 44.4 0 1 0.0 0 0 - 1 2 3 3 1 0 0 2 5
+p236
+aVScott Burrell GSW 03/07/1997 GSW vs. ORL W 17 2 1 5 20.0 0 1 0.0 0 2 0.0 1 4 5 2 0 0 0 1 3
+p237
+aVFelton Spencer GSW 03/05/1997 GSW vs. HOU L 34 6 2 6 33.3 0 0 - 2 4 50.0 4 6 10 0 1 0 1 5 -8
+p238
+aVJoe Smith GSW 03/05/1997 GSW vs. HOU L 44 19 8 18 44.4 0 0 - 3 4 75.0 5 8 13 0 2 1 4 4 -5
+p239
+aVMark Price GSW 03/05/1997 GSW vs. HOU L 23 6 3 9 33.3 0 3 0.0 0 0 - 0 2 2 5 0 0 3 0 -1
+p240
+aVChris Mullin GSW 03/05/1997 GSW vs. HOU L 36 19 5 11 45.5 0 0 - 9 9 100.0 1 4 5 2 0 0 3 3 -6
+p241
+aVAndrew DeClercq GSW 03/05/1997 GSW vs. HOU L 13 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 2 5 4
+p242
+aVScott Burrell GSW 03/05/1997 GSW vs. HOU L 16 6 2 6 33.3 2 4 50.0 0 0 - 1 2 3 2 0 0 0 0 6
+p243
+aVBimbo Coles GSW 03/05/1997 GSW vs. HOU L 25 1 0 4 0.0 0 3 0.0 1 2 50.0 0 2 2 2 0 0 0 3 -4
+p244
+aVLatrell Sprewell GSW 03/05/1997 GSW vs. HOU L 45 26 10 22 45.5 2 5 40.0 4 4 100.0 3 2 5 4 1 0 6 3 -8
+p245
+aVTodd Fuller GSW 03/05/1997 GSW vs. HOU L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -3
+p246
+aVBimbo Coles GSW 03/03/1997 GSW vs. UTA L 17 1 0 3 0.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 2 4 -13
+p247
+aVLatrell Sprewell GSW 03/03/1997 GSW vs. UTA L 48 21 7 15 46.7 2 7 28.6 5 6 83.3 0 2 2 7 1 0 5 1 -7
+p248
+aVChris Mullin GSW 03/03/1997 GSW vs. UTA L 41 28 10 12 83.3 0 0 - 8 8 100.0 0 4 4 3 1 0 2 4 -8
+p249
+aVScott Burrell GSW 03/03/1997 GSW vs. UTA L 7 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 2 1
+p250
+aVMark Price GSW 03/03/1997 GSW vs. UTA L 33 18 5 9 55.6 4 6 66.7 4 5 80.0 1 3 4 7 2 0 3 1 8
+p251
+aVAndrew DeClercq GSW 03/03/1997 GSW vs. UTA L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 5 7
+p252
+aVFelton Spencer GSW 03/03/1997 GSW vs. UTA L 37 14 6 9 66.7 0 0 - 2 3 66.7 3 8 11 1 1 0 2 5 -10
+p253
+aVJoe Smith GSW 03/03/1997 GSW vs. UTA L 48 14 6 12 50.0 0 1 0.0 2 2 100.0 2 1 3 5 2 0 4 5 -7
+p254
+aVTodd Fuller GSW 03/03/1997 GSW vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p255
+aVChris Mullin GSW 03/01/1997 GSW @ WAS L 34 9 4 11 36.4 0 5 0.0 1 1 100.0 1 1 2 3 1 0 3 1 -14
+p256
+aVFelton Spencer GSW 03/01/1997 GSW @ WAS L 14 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 1 0 0 2 4 0
+p257
+aVDonyell Marshall GSW 03/01/1997 GSW @ WAS L 23 15 5 10 50.0 1 3 33.3 4 5 80.0 2 5 7 0 1 0 2 4 5
+p258
+aVMark Price GSW 03/01/1997 GSW @ WAS L 22 8 2 4 50.0 2 3 66.7 2 2 100.0 0 2 2 2 0 0 2 1 3
+p259
+aVJoe Smith GSW 03/01/1997 GSW @ WAS L 46 14 5 14 35.7 0 1 0.0 4 5 80.0 3 1 4 1 1 0 3 4 -7
+p260
+aVLatrell Sprewell GSW 03/01/1997 GSW @ WAS L 44 40 11 24 45.8 3 4 75.0 15 18 83.3 2 3 5 5 3 0 5 4 -8
+p261
+aVAndrew DeClercq GSW 03/01/1997 GSW @ WAS L 17 5 2 3 66.7 0 0 - 1 4 25.0 2 3 5 0 0 0 0 4 -9
+p262
+aVTodd Fuller GSW 03/01/1997 GSW @ WAS L 7 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 5 -15
+p263
+aVBimbo Coles GSW 03/01/1997 GSW @ WAS L 34 12 4 11 36.4 2 3 66.7 2 2 100.0 0 2 2 4 1 0 1 2 -5
+p264
+aVChris Mullin GSW 02/28/1997 GSW @ NJN W 39 15 5 9 55.6 3 5 60.0 2 2 100.0 0 5 5 3 1 0 4 1 10
+p265
+aVBimbo Coles GSW 02/28/1997 GSW @ NJN W 33 12 3 7 42.9 0 1 0.0 6 6 100.0 3 4 7 8 0 0 0 4 13
+p266
+aVMark Price GSW 02/28/1997 GSW @ NJN W 23 5 1 7 14.3 1 4 25.0 2 2 100.0 3 0 3 6 1 0 2 2 -5
+p267
+aVTodd Fuller GSW 02/28/1997 GSW @ NJN W 28 18 4 8 50.0 0 0 - 10 10 100.0 5 2 7 0 0 1 0 4 16
+p268
+aVFelton Spencer GSW 02/28/1997 GSW @ NJN W 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 1 4 3
+p269
+aVJoe Smith GSW 02/28/1997 GSW @ NJN W 40 20 9 18 50.0 0 0 - 2 5 40.0 2 6 8 1 0 3 2 4 5
+p270
+aVScott Burrell GSW 02/28/1997 GSW @ NJN W 10 5 2 3 66.7 1 2 50.0 0 0 - 0 5 5 0 1 0 2 2 5
+p271
+aVLatrell Sprewell GSW 02/28/1997 GSW @ NJN W 43 37 10 18 55.6 2 4 50.0 15 17 88.2 0 8 8 6 1 1 7 1 1
+p272
+aVAndrew DeClercq GSW 02/28/1997 GSW @ NJN W 11 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 2 4 -3
+p273
+aVFelton Spencer GSW 02/26/1997 GSW @ DET L 29 7 3 6 50.0 0 0 - 1 2 50.0 5 7 12 1 0 0 1 2 -15
+p274
+aVBimbo Coles GSW 02/26/1997 GSW @ DET L 32 10 4 11 36.4 2 4 50.0 0 0 - 1 1 2 3 1 0 0 0 -9
+p275
+aVRay Owes GSW 02/26/1997 GSW @ DET L 10 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 1 1 1 0
+p276
+aVLou Roe GSW 02/26/1997 GSW @ DET L 5 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -1
+p277
+aVDonyell Marshall GSW 02/26/1997 GSW @ DET L 7 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -5
+p278
+aVTodd Fuller GSW 02/26/1997 GSW @ DET L 7 5 1 3 33.3 0 0 - 3 4 75.0 1 0 1 0 0 0 0 0 -5
+p279
+aVScott Burrell GSW 02/26/1997 GSW @ DET L 14 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -26
+p280
+aVChris Mullin GSW 02/26/1997 GSW @ DET L 35 15 5 11 45.5 1 4 25.0 4 4 100.0 3 2 5 5 0 0 2 2 -12
+p281
+aVAndrew DeClercq GSW 02/26/1997 GSW @ DET L 13 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 2 2 -30
+p282
+aVMark Price GSW 02/26/1997 GSW @ DET L 16 3 0 3 0.0 0 1 0.0 3 3 100.0 0 2 2 0 1 0 2 1 -26
+p283
+aVJoe Smith GSW 02/26/1997 GSW @ DET L 35 14 6 12 50.0 0 0 - 2 4 50.0 2 4 6 1 0 2 1 2 -14
+p284
+aVLatrell Sprewell GSW 02/26/1997 GSW @ DET L 37 19 7 16 43.8 2 5 40.0 3 4 75.0 0 3 3 4 0 1 4 3 -22
+p285
+aVFelton Spencer GSW 02/24/1997 GSW @ ATL L 29 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 6 3
+p286
+aVChris Mullin GSW 02/24/1997 GSW @ ATL L 43 24 10 11 90.9 2 2 100.0 2 2 100.0 0 5 5 5 2 0 5 1 -8
+p287
+aVAndrew DeClercq GSW 02/24/1997 GSW @ ATL L 9 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -3
+p288
+aVLatrell Sprewell GSW 02/24/1997 GSW @ ATL L 47 18 7 14 50.0 0 2 0.0 4 5 80.0 1 5 6 10 0 0 5 2 -6
+p289
+aVScott Burrell GSW 02/24/1997 GSW @ ATL L 7 5 2 5 40.0 1 4 25.0 0 0 - 0 0 0 0 2 0 0 1 2
+p290
+aVMark Price GSW 02/24/1997 GSW @ ATL L 28 11 3 8 37.5 1 4 25.0 4 4 100.0 0 2 2 4 0 0 1 2 0
+p291
+aVJoe Smith GSW 02/24/1997 GSW @ ATL L 43 25 9 16 56.3 1 2 50.0 6 9 66.7 2 6 8 0 0 1 0 4 0
+p292
+aVBimbo Coles GSW 02/24/1997 GSW @ ATL L 20 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 1 1 0 2 3 -8
+p293
+aVTodd Fuller GSW 02/24/1997 GSW @ ATL L 15 2 0 1 0.0 0 0 - 2 6 33.3 1 1 2 0 0 0 1 3 -10
+p294
+aVChris Mullin GSW 02/22/1997 GSW @ CHI L 31 5 2 9 22.2 0 3 0.0 1 1 100.0 1 1 2 3 0 0 1 1 -20
+p295
+aVScott Burrell GSW 02/22/1997 GSW @ CHI L 16 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 1 0 0 5 -18
+p296
+aVLou Roe GSW 02/22/1997 GSW @ CHI L 8 6 2 6 33.3 1 3 33.3 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p297
+aVFelton Spencer GSW 02/22/1997 GSW @ CHI L 15 4 2 3 66.7 0 0 - 0 0 - 3 2 5 1 0 0 3 2 -12
+p298
+aVRay Owes GSW 02/22/1997 GSW @ CHI L 9 4 2 2 100.0 0 0 - 0 0 - 2 4 6 1 0 0 0 1 -10
+p299
+aVTodd Fuller GSW 02/22/1997 GSW @ CHI L 10 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -14
+p300
+aVAndrew DeClercq GSW 02/22/1997 GSW @ CHI L 12 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 6 8
+p301
+aVMark Price GSW 02/22/1997 GSW @ CHI L 28 11 3 6 50.0 2 3 66.7 3 4 75.0 0 2 2 4 0 0 5 0 -12
+p302
+aVDonyell Marshall GSW 02/22/1997 GSW @ CHI L 18 2 1 10 10.0 0 2 0.0 0 0 - 5 1 6 1 0 1 1 1 -18
+p303
+aVLatrell Sprewell GSW 02/22/1997 GSW @ CHI L 39 18 8 23 34.8 2 6 33.3 0 0 - 1 1 2 7 5 0 6 1 -23
+p304
+aVBimbo Coles GSW 02/22/1997 GSW @ CHI L 21 11 5 9 55.6 1 2 50.0 0 0 - 1 0 1 0 0 0 0 0 -19
+p305
+aVJoe Smith GSW 02/22/1997 GSW @ CHI L 33 19 8 20 40.0 0 1 0.0 3 4 75.0 2 9 11 0 1 0 3 4 -23
+p306
+aVBimbo Coles GSW 02/21/1997 GSW @ MIN L 28 9 4 11 36.4 1 4 25.0 0 0 - 1 4 5 3 1 0 4 0 -20
+p307
+aVAndrew DeClercq GSW 02/21/1997 GSW @ MIN L 12 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 -2
+p308
+aVScott Burrell GSW 02/21/1997 GSW @ MIN L 11 9 4 7 57.1 1 2 50.0 0 0 - 2 2 4 1 1 0 0 2 2
+p309
+aVMark Price GSW 02/21/1997 GSW @ MIN L 20 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 3 1 0 2 1 1
+p310
+aVJoe Smith GSW 02/21/1997 GSW @ MIN L 37 17 6 18 33.3 0 1 0.0 5 5 100.0 9 8 17 1 1 1 3 3 -25
+p311
+aVLatrell Sprewell GSW 02/21/1997 GSW @ MIN L 37 17 7 21 33.3 0 6 0.0 3 4 75.0 0 3 3 4 2 1 3 1 -21
+p312
+aVDonyell Marshall GSW 02/21/1997 GSW @ MIN L 13 4 2 8 25.0 0 1 0.0 0 0 - 1 5 6 2 0 0 3 1 5
+p313
+aVChris Mullin GSW 02/21/1997 GSW @ MIN L 36 10 3 9 33.3 2 4 50.0 2 2 100.0 0 0 0 2 0 0 1 2 -21
+p314
+aVRay Owes GSW 02/21/1997 GSW @ MIN L 14 1 0 4 0.0 0 1 0.0 1 2 50.0 2 3 5 0 1 0 3 2 -7
+p315
+aVFelton Spencer GSW 02/21/1997 GSW @ MIN L 27 2 1 3 33.3 0 0 - 0 0 - 4 3 7 0 2 3 3 3 -12
+p316
+aVTodd Fuller GSW 02/21/1997 GSW @ MIN L 5 5 1 3 33.3 0 0 - 3 4 75.0 3 1 4 0 0 0 0 2 5
+p317
+aVJoe Smith GSW 02/19/1997 GSW vs. BOS W 43 15 6 11 54.5 0 0 - 3 4 75.0 2 6 8 5 0 6 4 4 20
+p318
+aVBimbo Coles GSW 02/19/1997 GSW vs. BOS W 31 14 5 12 41.7 2 4 50.0 2 5 40.0 1 4 5 6 4 0 2 4 29
+p319
+aVDonald Royal GSW 02/19/1997 GSW vs. BOS W 8 2 1 1 100.0 0 0 - 0 2 0.0 1 2 3 1 0 0 0 1 -5
+p320
+aVFelton Spencer GSW 02/19/1997 GSW vs. BOS W 22 0 0 2 0.0 0 0 - 0 2 0.0 0 5 5 1 3 0 0 3 11
+p321
+aVTodd Fuller GSW 02/19/1997 GSW vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -5
+p322
+aVRay Owes GSW 02/19/1997 GSW vs. BOS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p323
+aVLatrell Sprewell GSW 02/19/1997 GSW vs. BOS W 45 41 16 25 64.0 3 6 50.0 6 8 75.0 0 5 5 8 4 0 0 2 23
+p324
+aVAndrew DeClercq GSW 02/19/1997 GSW vs. BOS W 23 14 7 9 77.8 0 0 - 0 2 0.0 2 1 3 1 2 2 2 5 3
+p325
+aVDonyell Marshall GSW 02/19/1997 GSW vs. BOS W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p326
+aVMark Price GSW 02/19/1997 GSW vs. BOS W 17 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 1 0 0 4 1 -18
+p327
+aVChris Mullin GSW 02/19/1997 GSW vs. BOS W 45 19 6 10 60.0 1 2 50.0 6 6 100.0 5 5 10 12 7 0 4 2 11
+p328
+aVJoe Smith GSW 02/16/1997 GSW @ SAC L 40 18 6 17 35.3 0 0 - 6 6 100.0 5 4 9 3 1 2 0 2 -15
+p329
+aVDonald Royal GSW 02/16/1997 GSW @ SAC L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p330
+aVTodd Fuller GSW 02/16/1997 GSW @ SAC L 14 2 1 4 25.0 0 0 - 0 1 0.0 2 2 4 0 0 1 0 5 -9
+p331
+aVRay Owes GSW 02/16/1997 GSW @ SAC L 7 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p332
+aVChris Mullin GSW 02/16/1997 GSW @ SAC L 35 9 4 10 40.0 0 3 0.0 1 2 50.0 0 4 4 5 0 1 1 0 -10
+p333
+aVAndrew DeClercq GSW 02/16/1997 GSW @ SAC L 7 1 0 1 0.0 0 0 - 1 2 50.0 1 5 6 0 0 0 1 3 -3
+p334
+aVB.J. Armstrong GSW 02/16/1997 GSW @ SAC L 26 13 6 13 46.2 1 4 25.0 0 0 - 0 2 2 0 0 1 1 0 -2
+p335
+aVMark Price GSW 02/16/1997 GSW @ SAC L 15 6 2 7 28.6 2 4 50.0 0 0 - 0 3 3 1 0 0 3 1 -14
+p336
+aVBimbo Coles GSW 02/16/1997 GSW @ SAC L 19 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 3 1 -14
+p337
+aVFelton Spencer GSW 02/16/1997 GSW @ SAC L 23 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 1 2 4 -12
+p338
+aVDonyell Marshall GSW 02/16/1997 GSW @ SAC L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 -1
+p339
+aVLatrell Sprewell GSW 02/16/1997 GSW @ SAC L 40 20 8 18 44.4 1 4 25.0 3 7 42.9 1 6 7 4 0 0 5 0 -16
+p340
+aVB.J. Armstrong GSW 02/14/1997 GSW @ SAS W 19 7 2 6 33.3 1 3 33.3 2 2 100.0 0 2 2 1 1 0 1 1 11
+p341
+aVRay Owes GSW 02/14/1997 GSW @ SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -4
+p342
+aVFelton Spencer GSW 02/14/1997 GSW @ SAS W 34 7 3 6 50.0 0 0 - 1 2 50.0 4 7 11 1 2 5 0 4 24
+p343
+aVDonald Royal GSW 02/14/1997 GSW @ SAS W 8 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 1 0 1 0 2 -9
+p344
+aVMark Price GSW 02/14/1997 GSW @ SAS W 20 11 4 8 50.0 3 5 60.0 0 0 - 0 2 2 4 0 0 1 1 4
+p345
+aVJoe Smith GSW 02/14/1997 GSW @ SAS W 45 20 6 20 30.0 0 0 - 8 8 100.0 4 9 13 1 1 1 1 0 16
+p346
+aVAndrew DeClercq GSW 02/14/1997 GSW @ SAS W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p347
+aVBimbo Coles GSW 02/14/1997 GSW @ SAS W 29 9 3 6 50.0 1 3 33.3 2 2 100.0 0 6 6 5 1 0 1 2 3
+p348
+aVChris Mullin GSW 02/14/1997 GSW @ SAS W 32 18 7 12 58.3 2 5 40.0 2 3 66.7 1 2 3 5 0 1 0 3 6
+p349
+aVLatrell Sprewell GSW 02/14/1997 GSW @ SAS W 46 32 12 22 54.5 3 7 42.9 5 5 100.0 0 4 4 7 2 0 3 2 19
+p350
+aVMark Price GSW 02/13/1997 GSW @ DAL W 21 13 5 9 55.6 3 6 50.0 0 0 - 0 4 4 1 3 0 2 0 11
+p351
+aVAndrew DeClercq GSW 02/13/1997 GSW @ DAL W 7 4 2 4 50.0 0 0 - 0 0 - 4 2 6 0 0 0 2 4 -15
+p352
+aVFelton Spencer GSW 02/13/1997 GSW @ DAL W 14 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 0 1 3 1 5 10
+p353
+aVChris Mullin GSW 02/13/1997 GSW @ DAL W 39 14 5 8 62.5 2 2 100.0 2 2 100.0 1 4 5 5 1 1 1 2 3
+p354
+aVBimbo Coles GSW 02/13/1997 GSW @ DAL W 28 13 5 9 55.6 1 3 33.3 2 2 100.0 1 3 4 6 2 1 0 4 9
+p355
+aVTodd Fuller GSW 02/13/1997 GSW @ DAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p356
+aVJoe Smith GSW 02/13/1997 GSW @ DAL W 43 20 10 19 52.6 0 1 0.0 0 0 - 6 6 12 3 0 2 4 4 9
+p357
+aVB.J. Armstrong GSW 02/13/1997 GSW @ DAL W 20 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 0
+p358
+aVLatrell Sprewell GSW 02/13/1997 GSW @ DAL W 43 28 9 18 50.0 1 5 20.0 9 13 69.2 0 8 8 6 1 1 2 1 6
+p359
+aVDonald Royal GSW 02/13/1997 GSW @ DAL W 22 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 0 8
+p360
+aVJoe Smith GSW 02/04/1997 GSW vs. ATL L 38 14 7 15 46.7 0 1 0.0 0 0 - 3 5 8 3 1 1 2 3 -14
+p361
+aVChris Mullin GSW 02/04/1997 GSW vs. ATL L 38 11 5 10 50.0 1 4 25.0 0 0 - 1 2 3 6 0 0 2 0 -19
+p362
+aVBimbo Coles GSW 02/04/1997 GSW vs. ATL L 23 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 5 1 0 1 0 -13
+p363
+aVTodd Fuller GSW 02/04/1997 GSW vs. ATL L 16 11 5 8 62.5 0 0 - 1 1 100.0 4 3 7 0 0 0 0 3 0
+p364
+aVAndrew DeClercq GSW 02/04/1997 GSW vs. ATL L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -9
+p365
+aVDonyell Marshall GSW 02/04/1997 GSW vs. ATL L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p366
+aVFelton Spencer GSW 02/04/1997 GSW vs. ATL L 23 7 2 4 50.0 0 0 - 3 7 42.9 2 2 4 1 0 1 0 4 -10
+p367
+aVLatrell Sprewell GSW 02/04/1997 GSW vs. ATL L 45 20 8 18 44.4 1 6 16.7 3 4 75.0 0 10 10 8 1 0 1 3 -20
+p368
+aVDonald Royal GSW 02/04/1997 GSW vs. ATL L 6 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -6
+p369
+aVB.J. Armstrong GSW 02/04/1997 GSW vs. ATL L 32 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 4 1 0 2 1 -9
+p370
+aVLou Roe GSW 02/04/1997 GSW vs. ATL L 3 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -2
+p371
+aVRay Owes GSW 02/04/1997 GSW vs. ATL L 7 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 0 0 0 2 0 -5
+p372
+aVBimbo Coles GSW 02/01/1997 GSW @ LAC L 20 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 3 1 -12
+p373
+aVDonyell Marshall GSW 02/01/1997 GSW @ LAC L 12 3 0 4 0.0 0 1 0.0 3 4 75.0 3 3 6 0 0 0 0 2 -2
+p374
+aVAndrew DeClercq GSW 02/01/1997 GSW @ LAC L 11 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 0 1 1 4 -2
+p375
+aVJoe Smith GSW 02/01/1997 GSW @ LAC L 43 23 8 14 57.1 0 0 - 7 8 87.5 1 2 3 0 1 0 1 2 -9
+p376
+aVB.J. Armstrong GSW 02/01/1997 GSW @ LAC L 29 6 3 9 33.3 0 2 0.0 0 0 - 0 2 2 6 0 0 1 2 0
+p377
+aVChris Mullin GSW 02/01/1997 GSW @ LAC L 39 13 4 12 33.3 2 4 50.0 3 4 75.0 0 3 3 4 4 0 1 3 -19
+p378
+aVDonald Royal GSW 02/01/1997 GSW @ LAC L 19 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 3 -11
+p379
+aVLatrell Sprewell GSW 02/01/1997 GSW @ LAC L 44 40 12 22 54.5 5 8 62.5 11 12 91.7 1 2 3 4 3 0 3 0 -3
+p380
+aVFelton Spencer GSW 02/01/1997 GSW @ LAC L 23 4 1 4 25.0 0 0 - 2 2 100.0 2 6 8 0 0 1 0 4 -2
+p381
+aVAndrew DeClercq GSW 01/31/1997 GSW vs. CHI L 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 2 -4
+p382
+aVBimbo Coles GSW 01/31/1997 GSW vs. CHI L 25 3 1 3 33.3 1 1 100.0 0 0 - 1 3 4 6 0 0 2 1 -12
+p383
+aVFelton Spencer GSW 01/31/1997 GSW vs. CHI L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -15
+p384
+aVLou Roe GSW 01/31/1997 GSW vs. CHI L 7 4 2 6 33.3 0 1 0.0 0 0 - 2 0 2 0 0 0 1 0 5
+p385
+aVDonyell Marshall GSW 01/31/1997 GSW vs. CHI L 15 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 0 0 1 1 1 -10
+p386
+aVChris Mullin GSW 01/31/1997 GSW vs. CHI L 37 13 5 10 50.0 1 5 20.0 2 2 100.0 0 5 5 4 1 0 2 1 -20
+p387
+aVLatrell Sprewell GSW 01/31/1997 GSW vs. CHI L 37 18 6 16 37.5 2 5 40.0 4 4 100.0 0 4 4 4 2 0 6 3 -21
+p388
+aVTodd Fuller GSW 01/31/1997 GSW vs. CHI L 15 8 4 5 80.0 0 0 - 0 1 0.0 2 2 4 0 0 0 0 0 -6
+p389
+aVJoe Smith GSW 01/31/1997 GSW vs. CHI L 32 16 7 15 46.7 1 4 25.0 1 2 50.0 5 3 8 0 0 0 3 1 -23
+p390
+aVB.J. Armstrong GSW 01/31/1997 GSW vs. CHI L 23 15 7 12 58.3 1 1 100.0 0 1 0.0 0 1 1 4 1 0 1 0 -11
+p391
+aVDonald Royal GSW 01/31/1997 GSW vs. CHI L 20 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 2 1 0 2 2 8
+p392
+aVRay Owes GSW 01/31/1997 GSW vs. CHI L 8 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 1 0 0 1 0 -6
+p393
+aVFelton Spencer GSW 01/29/1997 GSW vs. SEA L 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 4 -15
+p394
+aVB.J. Armstrong GSW 01/29/1997 GSW vs. SEA L 20 4 1 6 16.7 0 1 0.0 2 2 100.0 1 1 2 1 0 0 1 3 -26
+p395
+aVBimbo Coles GSW 01/29/1997 GSW vs. SEA L 32 5 2 9 22.2 0 2 0.0 1 2 50.0 0 1 1 5 2 0 1 1 -9
+p396
+aVLou Roe GSW 01/29/1997 GSW vs. SEA L 9 4 1 3 33.3 1 2 50.0 1 2 50.0 0 2 2 2 0 0 1 1 7
+p397
+aVDonald Royal GSW 01/29/1997 GSW vs. SEA L 8 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 3
+p398
+aVAndrew DeClercq GSW 01/29/1997 GSW vs. SEA L 17 9 3 6 50.0 0 0 - 3 4 75.0 3 2 5 1 1 2 0 3 5
+p399
+aVChris Mullin GSW 01/29/1997 GSW vs. SEA L 36 26 10 16 62.5 2 6 33.3 4 6 66.7 0 2 2 3 2 0 4 1 -35
+p400
+aVTodd Fuller GSW 01/29/1997 GSW vs. SEA L 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 7
+p401
+aVJoe Smith GSW 01/29/1997 GSW vs. SEA L 31 8 3 9 33.3 0 0 - 2 2 100.0 3 8 11 2 2 1 2 1 -28
+p402
+aVRay Owes GSW 01/29/1997 GSW vs. SEA L 17 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -11
+p403
+aVLatrell Sprewell GSW 01/29/1997 GSW vs. SEA L 35 14 4 13 30.8 1 7 14.3 5 6 83.3 1 4 5 5 1 1 4 0 -22
+p404
+aVDonyell Marshall GSW 01/29/1997 GSW vs. SEA L 14 9 4 6 66.7 0 1 0.0 1 2 50.0 0 1 1 1 0 0 2 0 -1
+p405
+aVDonyell Marshall GSW 01/27/1997 GSW vs. VAN W 8 7 2 5 40.0 1 1 100.0 2 2 100.0 2 1 3 1 0 0 1 0 -1
+p406
+aVBimbo Coles GSW 01/27/1997 GSW vs. VAN W 28 13 5 8 62.5 0 2 0.0 3 4 75.0 0 0 0 7 0 0 0 3 7
+p407
+aVTodd Fuller GSW 01/27/1997 GSW vs. VAN W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 9
+p408
+aVLou Roe GSW 01/27/1997 GSW vs. VAN W 3 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p409
+aVB.J. Armstrong GSW 01/27/1997 GSW vs. VAN W 29 7 3 8 37.5 1 4 25.0 0 0 - 0 0 0 3 0 0 3 2 22
+p410
+aVFelton Spencer GSW 01/27/1997 GSW vs. VAN W 26 8 2 3 66.7 0 0 - 4 4 100.0 1 6 7 0 0 1 2 4 15
+p411
+aVAndrew DeClercq GSW 01/27/1997 GSW vs. VAN W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 6
+p412
+aVJoe Smith GSW 01/27/1997 GSW vs. VAN W 42 30 10 18 55.6 0 1 0.0 10 10 100.0 3 9 12 1 0 0 3 4 15
+p413
+aVRay Owes GSW 01/27/1997 GSW vs. VAN W 6 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 8
+p414
+aVDonald Royal GSW 01/27/1997 GSW vs. VAN W 10 4 0 2 0.0 0 0 - 4 4 100.0 1 2 3 0 0 0 1 2 -3
+p415
+aVChris Mullin GSW 01/27/1997 GSW vs. VAN W 33 10 5 9 55.6 0 0 - 0 0 - 0 6 6 7 5 0 0 2 20
+p416
+aVLatrell Sprewell GSW 01/27/1997 GSW vs. VAN W 42 33 10 16 62.5 2 4 50.0 11 11 100.0 1 3 4 11 3 0 4 2 22
+p417
+aVDonald Royal GSW 01/24/1997 GSW @ LAL L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -6
+p418
+aVFelton Spencer GSW 01/24/1997 GSW @ LAL L 22 6 3 3 100.0 0 0 - 0 0 - 2 2 4 0 1 0 1 6 -7
+p419
+aVDonyell Marshall GSW 01/24/1997 GSW @ LAL L 10 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 0 1 0 1 -5
+p420
+aVTodd Fuller GSW 01/24/1997 GSW @ LAL L 13 4 1 6 16.7 0 0 - 2 4 50.0 5 2 7 0 0 0 0 5 1
+p421
+aVLatrell Sprewell GSW 01/24/1997 GSW @ LAL L 43 27 8 21 38.1 0 5 0.0 11 14 78.6 1 4 5 7 2 1 1 1 -8
+p422
+aVJoe Smith GSW 01/24/1997 GSW @ LAL L 40 17 8 25 32.0 0 1 0.0 1 2 50.0 7 5 12 6 2 2 0 2 -12
+p423
+aVLou Roe GSW 01/24/1997 GSW @ LAL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p424
+aVBimbo Coles GSW 01/24/1997 GSW @ LAL L 17 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 1 1 0 3 -12
+p425
+aVChris Mullin GSW 01/24/1997 GSW @ LAL L 39 14 6 9 66.7 1 2 50.0 1 1 100.0 0 2 2 2 2 0 7 2 -10
+p426
+aVRay Owes GSW 01/24/1997 GSW @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -3
+p427
+aVAndrew DeClercq GSW 01/24/1997 GSW @ LAL L 13 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 1 2 5 -11
+p428
+aVB.J. Armstrong GSW 01/24/1997 GSW @ LAL L 32 20 9 14 64.3 1 3 33.3 1 2 50.0 0 1 1 5 2 0 2 0 -9
+p429
+aVJoe Smith GSW 01/23/1997 GSW vs. DET L 40 17 7 16 43.8 0 1 0.0 3 4 75.0 2 5 7 0 1 0 3 1 -14
+p430
+aVFelton Spencer GSW 01/23/1997 GSW vs. DET L 25 3 1 3 33.3 0 0 - 1 4 25.0 1 6 7 0 1 0 2 3 -5
+p431
+aVBimbo Coles GSW 01/23/1997 GSW vs. DET L 28 0 0 4 0.0 0 1 0.0 0 0 - 2 2 4 7 0 0 3 1 6
+p432
+aVB.J. Armstrong GSW 01/23/1997 GSW vs. DET L 24 6 3 8 37.5 0 2 0.0 0 0 - 1 1 2 4 0 0 0 1 -16
+p433
+aVTodd Fuller GSW 01/23/1997 GSW vs. DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p434
+aVDonyell Marshall GSW 01/23/1997 GSW vs. DET L 22 17 7 10 70.0 3 4 75.0 0 0 - 0 5 5 0 0 1 1 0 2
+p435
+aVRay Owes GSW 01/23/1997 GSW vs. DET L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p436
+aVChris Mullin GSW 01/23/1997 GSW vs. DET L 37 14 6 11 54.5 2 5 40.0 0 0 - 1 3 4 2 2 1 2 1 -25
+p437
+aVDonald Royal GSW 01/23/1997 GSW vs. DET L 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -11
+p438
+aVLatrell Sprewell GSW 01/23/1997 GSW vs. DET L 40 18 5 13 38.5 3 8 37.5 5 6 83.3 0 0 0 11 0 1 6 3 -22
+p439
+aVDonald Royal GSW 01/21/1997 GSW vs. DAL W 18 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 2 6
+p440
+aVRay Owes GSW 01/21/1997 GSW vs. DAL W 3 0 0 2 0.0 0 1 0.0 0 2 0.0 0 0 0 0 1 0 0 0 -1
+p441
+aVLatrell Sprewell GSW 01/21/1997 GSW vs. DAL W 46 46 16 27 59.3 6 10 60.0 8 9 88.9 1 5 6 10 5 1 3 1 11
+p442
+aVTodd Fuller GSW 01/21/1997 GSW vs. DAL W 17 3 0 2 0.0 0 0 - 3 4 75.0 1 4 5 0 0 1 1 2 5
+p443
+aVFelton Spencer GSW 01/21/1997 GSW vs. DAL W 23 1 0 3 0.0 0 0 - 1 4 25.0 2 3 5 0 0 0 1 2 5
+p444
+aVBimbo Coles GSW 01/21/1997 GSW vs. DAL W 27 6 2 10 20.0 0 5 0.0 2 2 100.0 1 3 4 2 2 0 0 1 9
+p445
+aVDonyell Marshall GSW 01/21/1997 GSW vs. DAL W 16 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 0 0 1 1 1 3
+p446
+aVChris Mullin GSW 01/21/1997 GSW vs. DAL W 37 18 7 12 58.3 1 3 33.3 3 5 60.0 1 6 7 6 2 0 1 5 9
+p447
+aVB.J. Armstrong GSW 01/21/1997 GSW vs. DAL W 21 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 3
+p448
+aVJoe Smith GSW 01/21/1997 GSW vs. DAL W 32 21 8 13 61.5 0 0 - 5 5 100.0 1 1 2 2 0 0 1 4 10
+p449
+aVDonald Royal GSW 01/18/1997 GSW @ MIN L 31 5 2 6 33.3 0 0 - 1 2 50.0 0 8 8 0 0 2 1 4 -11
+p450
+aVMark Price GSW 01/18/1997 GSW @ MIN L 18 5 2 6 33.3 1 3 33.3 0 0 - 1 1 2 5 0 0 1 0 -8
+p451
+aVB.J. Armstrong GSW 01/18/1997 GSW @ MIN L 27 18 6 8 75.0 1 1 100.0 5 6 83.3 1 1 2 5 1 0 2 2 -1
+p452
+aVBimbo Coles GSW 01/18/1997 GSW @ MIN L 21 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 2 0 -12
+p453
+aVLatrell Sprewell GSW 01/18/1997 GSW @ MIN L 40 25 7 21 33.3 3 7 42.9 8 8 100.0 0 3 3 6 1 0 3 1 -14
+p454
+aVJoe Smith GSW 01/18/1997 GSW @ MIN L 38 13 6 11 54.5 0 0 - 1 4 25.0 2 2 4 1 2 3 4 3 -13
+p455
+aVDonyell Marshall GSW 01/18/1997 GSW @ MIN L 12 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 1 0 0 4 -2
+p456
+aVTodd Fuller GSW 01/18/1997 GSW @ MIN L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 6
+p457
+aVAndrew DeClercq GSW 01/18/1997 GSW @ MIN L 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 1
+p458
+aVRay Owes GSW 01/18/1997 GSW @ MIN L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 3 -7
+p459
+aVChris Mullin GSW 01/18/1997 GSW @ MIN L 38 19 8 11 72.7 3 5 60.0 0 0 - 1 3 4 4 0 0 1 2 -14
+p460
+aVRay Owes GSW 01/17/1997 GSW @ IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 3
+p461
+aVB.J. Armstrong GSW 01/17/1997 GSW @ IND W 22 10 5 12 41.7 0 3 0.0 0 0 - 0 2 2 4 1 0 3 2 4
+p462
+aVJoe Smith GSW 01/17/1997 GSW @ IND W 44 26 8 16 50.0 0 0 - 10 10 100.0 3 8 11 0 1 2 3 3 6
+p463
+aVLatrell Sprewell GSW 01/17/1997 GSW @ IND W 42 26 8 18 44.4 1 5 20.0 9 10 90.0 3 5 8 8 1 2 3 3 13
+p464
+aVAndrew DeClercq GSW 01/17/1997 GSW @ IND W 12 8 3 5 60.0 0 0 - 2 2 100.0 3 2 5 0 1 2 0 2 8
+p465
+aVTodd Fuller GSW 01/17/1997 GSW @ IND W 8 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -2
+p466
+aVBimbo Coles GSW 01/17/1997 GSW @ IND W 26 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 1 2 3 -2
+p467
+aVDonald Royal GSW 01/17/1997 GSW @ IND W 28 8 1 5 20.0 0 0 - 6 6 100.0 3 5 8 1 0 0 0 5 3
+p468
+aVMark Price GSW 01/17/1997 GSW @ IND W 26 4 1 7 14.3 1 6 16.7 1 2 50.0 1 4 5 4 1 0 3 0 1
+p469
+aVDonyell Marshall GSW 01/17/1997 GSW @ IND W 27 8 3 8 37.5 2 2 100.0 0 0 - 2 5 7 2 1 3 0 3 1
+p470
+aVB.J. Armstrong GSW 01/15/1997 GSW @ PHI W 27 10 5 12 41.7 0 4 0.0 0 0 - 0 3 3 2 2 0 2 2 13
+p471
+aVChris Mullin GSW 01/15/1997 GSW @ PHI W 36 20 7 10 70.0 2 3 66.7 4 4 100.0 3 4 7 9 2 0 2 2 14
+p472
+aVJoe Smith GSW 01/15/1997 GSW @ PHI W 45 26 12 19 63.2 0 0 - 2 5 40.0 5 8 13 1 1 2 1 3 12
+p473
+aVTodd Fuller GSW 01/15/1997 GSW @ PHI W 12 3 1 1 100.0 0 0 - 1 1 100.0 0 3 3 0 0 0 1 5 10
+p474
+aVDonald Royal GSW 01/15/1997 GSW @ PHI W 21 7 2 2 100.0 0 0 - 3 6 50.0 2 2 4 0 1 0 1 2 8
+p475
+aVLatrell Sprewell GSW 01/15/1997 GSW @ PHI W 48 38 15 27 55.6 4 6 66.7 4 4 100.0 1 3 4 6 2 0 3 5 17
+p476
+aVDonyell Marshall GSW 01/15/1997 GSW @ PHI W 18 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 1 3 1 5 0
+p477
+aVAndrew DeClercq GSW 01/15/1997 GSW @ PHI W 12 0 0 0 - 0 0 - 0 2 0.0 0 4 4 1 0 0 1 4 7
+p478
+aVMark Price GSW 01/15/1997 GSW @ PHI W 21 19 6 13 46.2 2 5 40.0 5 5 100.0 0 1 1 4 1 0 2 1 4
+p479
+aVChris Mullin GSW 01/14/1997 GSW @ BOS L 40 6 3 6 50.0 0 1 0.0 0 0 - 1 5 6 6 2 0 4 2 3
+p480
+aVMark Price GSW 01/14/1997 GSW @ BOS L 16 8 3 5 60.0 0 1 0.0 2 2 100.0 0 2 2 4 1 0 3 1 -13
+p481
+aVLatrell Sprewell GSW 01/14/1997 GSW @ BOS L 41 32 9 22 40.9 3 9 33.3 11 12 91.7 1 1 2 4 2 2 5 4 -1
+p482
+aVB.J. Armstrong GSW 01/14/1997 GSW @ BOS L 35 12 5 9 55.6 0 3 0.0 2 3 66.7 0 3 3 7 0 0 3 1 -2
+p483
+aVFelton Spencer GSW 01/14/1997 GSW @ BOS L 21 8 4 4 100.0 0 0 - 0 0 - 3 4 7 0 2 0 2 3 3
+p484
+aVBimbo Coles GSW 01/14/1997 GSW @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p485
+aVDonald Royal GSW 01/14/1997 GSW @ BOS L 21 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 2 -4
+p486
+aVDonyell Marshall GSW 01/14/1997 GSW @ BOS L 12 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 0 0 1 0 3 -10
+p487
+aVRay Owes GSW 01/14/1997 GSW @ BOS L 11 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -7
+p488
+aVJoe Smith GSW 01/14/1997 GSW @ BOS L 42 33 14 24 58.3 1 1 100.0 4 6 66.7 2 4 6 2 1 1 4 4 -8
+p489
+aVMark Price GSW 01/12/1997 GSW @ MIL L 20 7 2 7 28.6 1 3 33.3 2 2 100.0 0 1 1 5 2 0 4 0 -18
+p490
+aVLatrell Sprewell GSW 01/12/1997 GSW @ MIL L 35 21 7 16 43.8 2 3 66.7 5 6 83.3 1 1 2 6 1 0 3 2 -25
+p491
+aVJoe Smith GSW 01/12/1997 GSW @ MIL L 34 18 8 16 50.0 0 1 0.0 2 2 100.0 5 2 7 1 1 0 2 4 -25
+p492
+aVBimbo Coles GSW 01/12/1997 GSW @ MIL L 28 14 6 11 54.5 2 3 66.7 0 0 - 0 1 1 1 0 0 0 2 -1
+p493
+aVChris Mullin GSW 01/12/1997 GSW @ MIL L 29 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 2 1 1 4 3 -29
+p494
+aVFelton Spencer GSW 01/12/1997 GSW @ MIL L 24 3 1 2 50.0 0 0 - 1 2 50.0 2 4 6 0 1 1 1 3 -16
+p495
+aVB.J. Armstrong GSW 01/12/1997 GSW @ MIL L 20 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 4 1 0 0 3 12
+p496
+aVDonyell Marshall GSW 01/12/1997 GSW @ MIL L 15 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 0 3 0 1 3 10
+p497
+aVRay Owes GSW 01/12/1997 GSW @ MIL L 16 5 2 4 50.0 1 1 100.0 0 0 - 1 3 4 0 0 1 0 2 -10
+p498
+aVDonald Royal GSW 01/12/1997 GSW @ MIL L 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p499
+aVTodd Fuller GSW 01/12/1997 GSW @ MIL L 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p500
+aVJoe Smith GSW 01/09/1997 GSW @ VAN W 40 13 5 10 50.0 1 1 100.0 2 4 50.0 1 5 6 3 1 0 2 1 9
+p501
+aVRay Owes GSW 01/09/1997 GSW @ VAN W 17 10 5 8 62.5 0 0 - 0 0 - 2 2 4 0 0 1 0 0 19
+p502
+aVB.J. Armstrong GSW 01/09/1997 GSW @ VAN W 23 15 6 10 60.0 1 3 33.3 2 2 100.0 0 0 0 2 1 0 2 1 -4
+p503
+aVDonyell Marshall GSW 01/09/1997 GSW @ VAN W 15 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 3 0 1 1 0 -1
+p504
+aVFelton Spencer GSW 01/09/1997 GSW @ VAN W 31 7 2 5 40.0 0 0 - 3 4 75.0 2 5 7 0 1 0 3 4 1
+p505
+aVChris Mullin GSW 01/09/1997 GSW @ VAN W 39 17 8 12 66.7 1 2 50.0 0 0 - 3 3 6 3 1 0 1 2 16
+p506
+aVTodd Fuller GSW 01/09/1997 GSW @ VAN W 9 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 1 0 0 3
+p507
+aVLatrell Sprewell GSW 01/09/1997 GSW @ VAN W 40 27 11 21 52.4 1 4 25.0 4 5 80.0 0 6 6 8 2 2 3 2 20
+p508
+aVBimbo Coles GSW 01/09/1997 GSW @ VAN W 26 11 5 7 71.4 1 1 100.0 0 0 - 0 4 4 5 0 0 1 2 17
+p509
+aVB.J. Armstrong GSW 01/08/1997 GSW vs. VAN L 12 5 1 3 33.3 1 3 33.3 2 2 100.0 0 1 1 0 0 1 1 1 -23
+p510
+aVTodd Fuller GSW 01/08/1997 GSW vs. VAN L 11 1 0 3 0.0 0 0 - 1 2 50.0 3 1 4 0 0 0 1 3 10
+p511
+aVFelton Spencer GSW 01/08/1997 GSW vs. VAN L 30 6 2 5 40.0 0 0 - 2 3 66.7 3 3 6 0 0 0 3 6 -1
+p512
+aVRay Owes GSW 01/08/1997 GSW vs. VAN L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -15
+p513
+aVChris Mullin GSW 01/08/1997 GSW vs. VAN L 2 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 6
+p514
+aVAndrew DeClercq GSW 01/08/1997 GSW vs. VAN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p515
+aVMark Price GSW 01/08/1997 GSW vs. VAN L 36 11 4 11 36.4 2 5 40.0 1 1 100.0 0 3 3 9 1 0 2 2 9
+p516
+aVLatrell Sprewell GSW 01/08/1997 GSW vs. VAN L 46 23 8 20 40.0 2 10 20.0 5 5 100.0 2 1 3 9 1 1 8 3 -5
+p517
+aVBimbo Coles GSW 01/08/1997 GSW vs. VAN L 26 0 0 6 0.0 0 4 0.0 0 0 - 2 1 3 1 0 0 1 0 -21
+p518
+aVDonyell Marshall GSW 01/08/1997 GSW vs. VAN L 22 9 4 13 30.8 0 2 0.0 1 2 50.0 5 4 9 1 1 2 1 4 -16
+p519
+aVJoe Smith GSW 01/08/1997 GSW vs. VAN L 44 38 12 25 48.0 1 2 50.0 13 15 86.7 7 8 15 1 0 1 0 5 -8
+p520
+aVRay Owes GSW 01/06/1997 GSW vs. CHH L 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 1 0 4 -11
+p521
+aVMark Price GSW 01/06/1997 GSW vs. CHH L 29 22 6 11 54.5 2 6 33.3 8 8 100.0 2 1 3 2 0 0 1 2 -5
+p522
+aVChris Mullin GSW 01/06/1997 GSW vs. CHH L 37 8 3 9 33.3 1 4 25.0 1 2 50.0 1 5 6 7 4 2 2 3 -8
+p523
+aVB.J. Armstrong GSW 01/06/1997 GSW vs. CHH L 16 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 0 0 1 0 -3
+p524
+aVJoe Smith GSW 01/06/1997 GSW vs. CHH L 38 23 11 20 55.0 0 1 0.0 1 1 100.0 2 8 10 3 0 3 1 2 -2
+p525
+aVLatrell Sprewell GSW 01/06/1997 GSW vs. CHH L 43 26 9 20 45.0 3 9 33.3 5 5 100.0 0 6 6 7 1 1 2 4 -5
+p526
+aVAndrew DeClercq GSW 01/06/1997 GSW vs. CHH L 6 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -7
+p527
+aVBimbo Coles GSW 01/06/1997 GSW vs. CHH L 19 4 2 4 50.0 0 1 0.0 0 0 - 2 2 4 2 0 0 1 3 -3
+p528
+aVTodd Fuller GSW 01/06/1997 GSW vs. CHH L 12 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 0 0 2 1 4 3
+p529
+aVFelton Spencer GSW 01/06/1997 GSW vs. CHH L 27 8 2 2 100.0 0 0 - 4 5 80.0 1 5 6 1 1 2 3 6 1
+p530
+aVTodd Fuller GSW 01/03/1997 GSW vs. PHI W 19 2 0 0 - 0 0 - 2 2 100.0 1 3 4 1 1 0 1 4 -11
+p531
+aVJoe Smith GSW 01/03/1997 GSW vs. PHI W 49 28 12 24 50.0 0 0 - 4 6 66.7 5 6 11 2 2 2 2 4 2
+p532
+aVChris Mullin GSW 01/03/1997 GSW vs. PHI W 44 19 8 10 80.0 1 3 33.3 2 2 100.0 0 10 10 10 3 1 2 3 3
+p533
+aVB.J. Armstrong GSW 01/03/1997 GSW vs. PHI W 15 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -1
+p534
+aVMark Price GSW 01/03/1997 GSW vs. PHI W 37 18 6 15 40.0 3 7 42.9 3 3 100.0 3 2 5 4 0 0 4 2 17
+p535
+aVBimbo Coles GSW 01/03/1997 GSW vs. PHI W 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 1 0 2 4 5
+p536
+aVAndrew DeClercq GSW 01/03/1997 GSW vs. PHI W 17 6 3 5 60.0 0 0 - 0 0 - 2 5 7 2 1 0 1 4 11
+p537
+aVLatrell Sprewell GSW 01/03/1997 GSW vs. PHI W 50 39 13 26 50.0 1 8 12.5 12 15 80.0 1 10 11 9 0 1 6 2 4
+p538
+aVRay Owes GSW 01/03/1997 GSW vs. PHI W 21 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 3 10
+p539
+aVRay Owes GSW 12/28/1996 GSW @ HOU L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p540
+aVMark Price GSW 12/28/1996 GSW @ HOU L 33 12 5 11 45.5 2 5 40.0 0 0 - 0 1 1 5 3 0 1 2 0
+p541
+aVAndrew DeClercq GSW 12/28/1996 GSW @ HOU L 23 10 4 7 57.1 0 0 - 2 6 33.3 3 7 10 1 0 0 2 4 -3
+p542
+aVB.J. Armstrong GSW 12/28/1996 GSW @ HOU L 15 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 -9
+p543
+aVChris Mullin GSW 12/28/1996 GSW @ HOU L 38 11 5 8 62.5 1 2 50.0 0 0 - 3 1 4 4 3 0 1 3 -14
+p544
+aVLatrell Sprewell GSW 12/28/1996 GSW @ HOU L 41 17 5 17 29.4 1 8 12.5 6 6 100.0 1 4 5 6 3 1 8 3 2
+p545
+aVBimbo Coles GSW 12/28/1996 GSW @ HOU L 22 10 4 8 50.0 0 2 0.0 2 2 100.0 1 2 3 3 0 0 0 0 -1
+p546
+aVTodd Fuller GSW 12/28/1996 GSW @ HOU L 18 4 2 7 28.6 0 0 - 0 0 - 3 3 6 0 0 1 0 4 -4
+p547
+aVJoe Smith GSW 12/28/1996 GSW @ HOU L 44 27 11 28 39.3 1 1 100.0 4 6 66.7 4 6 10 3 0 1 0 3 -13
+p548
+aVJoe Smith GSW 12/26/1996 GSW @ DAL W 43 30 13 24 54.2 0 0 - 4 5 80.0 5 11 16 0 5 0 3 3 14
+p549
+aVLatrell Sprewell GSW 12/26/1996 GSW @ DAL W 42 27 10 20 50.0 2 6 33.3 5 6 83.3 0 5 5 4 1 1 8 1 -11
+p550
+aVFelton Spencer GSW 12/26/1996 GSW @ DAL W 21 8 3 5 60.0 0 0 - 2 3 66.7 4 1 5 1 0 1 0 1 18
+p551
+aVB.J. Armstrong GSW 12/26/1996 GSW @ DAL W 21 15 4 5 80.0 3 4 75.0 4 4 100.0 0 1 1 2 1 0 0 1 -8
+p552
+aVBimbo Coles GSW 12/26/1996 GSW @ DAL W 26 6 2 5 40.0 1 2 50.0 1 2 50.0 2 0 2 5 0 0 0 1 -10
+p553
+aVTodd Fuller GSW 12/26/1996 GSW @ DAL W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -7
+p554
+aVRay Owes GSW 12/26/1996 GSW @ DAL W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p555
+aVChris Mullin GSW 12/26/1996 GSW @ DAL W 39 16 7 11 63.6 2 4 50.0 0 0 - 0 9 9 6 4 0 1 2 26
+p556
+aVMark Price GSW 12/26/1996 GSW @ DAL W 27 7 2 7 28.6 1 3 33.3 2 2 100.0 0 3 3 8 3 0 4 1 13
+p557
+aVAndrew DeClercq GSW 12/22/1996 GSW vs. LAC W 14 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 2 3
+p558
+aVBimbo Coles GSW 12/22/1996 GSW vs. LAC W 19 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 3 -7
+p559
+aVChris Mullin GSW 12/22/1996 GSW vs. LAC W 33 10 3 9 33.3 1 3 33.3 3 4 75.0 0 4 4 5 2 0 1 4 14
+p560
+aVRay Owes GSW 12/22/1996 GSW vs. LAC W 18 7 1 2 50.0 0 0 - 5 6 83.3 2 2 4 0 1 1 1 3 -7
+p561
+aVLatrell Sprewell GSW 12/22/1996 GSW vs. LAC W 46 27 9 19 47.4 3 7 42.9 6 9 66.7 0 3 3 5 1 1 4 2 6
+p562
+aVB.J. Armstrong GSW 12/22/1996 GSW vs. LAC W 14 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 2 0
+p563
+aVTodd Fuller GSW 12/22/1996 GSW vs. LAC W 18 8 3 7 42.9 0 0 - 2 4 50.0 3 3 6 1 0 1 0 2 9
+p564
+aVJoe Smith GSW 12/22/1996 GSW vs. LAC W 45 24 8 19 42.1 0 0 - 8 9 88.9 7 5 12 1 2 1 0 5 4
+p565
+aVMark Price GSW 12/22/1996 GSW vs. LAC W 34 14 4 10 40.0 2 5 40.0 4 4 100.0 2 3 5 2 1 0 2 2 8
+p566
+aVChris Mullin GSW 12/18/1996 GSW vs. MIN W 34 16 6 10 60.0 4 7 57.1 0 0 - 0 1 1 3 5 0 3 2 13
+p567
+aVDonyell Marshall GSW 12/18/1996 GSW vs. MIN W 16 3 1 3 33.3 1 2 50.0 0 0 - 2 5 7 3 0 1 0 1 8
+p568
+aVMark Price GSW 12/18/1996 GSW vs. MIN W 29 10 4 8 50.0 2 4 50.0 0 0 - 0 4 4 3 1 0 2 3 23
+p569
+aVRay Owes GSW 12/18/1996 GSW vs. MIN W 18 5 2 3 66.7 0 0 - 1 2 50.0 2 5 7 1 0 0 2 5 10
+p570
+aVTodd Fuller GSW 12/18/1996 GSW vs. MIN W 3 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p571
+aVLatrell Sprewell GSW 12/18/1996 GSW vs. MIN W 41 25 10 19 52.6 2 6 33.3 3 3 100.0 0 4 4 8 3 0 2 1 21
+p572
+aVFelton Spencer GSW 12/18/1996 GSW vs. MIN W 12 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 0 0 0 3 7
+p573
+aVJoe Smith GSW 12/18/1996 GSW vs. MIN W 40 30 11 21 52.4 0 0 - 8 10 80.0 6 6 12 5 0 0 5 4 21
+p574
+aVB.J. Armstrong GSW 12/18/1996 GSW vs. MIN W 19 9 3 6 50.0 2 5 40.0 1 2 50.0 0 0 0 2 0 0 0 2 4
+p575
+aVAndrew DeClercq GSW 12/18/1996 GSW vs. MIN W 10 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 0 0 0 5 9
+p576
+aVBimbo Coles GSW 12/18/1996 GSW vs. MIN W 18 10 4 6 66.7 1 2 50.0 1 2 50.0 0 2 2 7 0 0 1 1 15
+p577
+aVTodd Fuller GSW 12/17/1996 GSW @ SEA L 14 5 2 7 28.6 0 0 - 1 2 50.0 2 1 3 0 0 0 1 4 -13
+p578
+aVJoe Smith GSW 12/17/1996 GSW @ SEA L 20 3 1 6 16.7 0 0 - 1 2 50.0 0 1 1 0 0 1 5 1 -29
+p579
+aVMark Price GSW 12/17/1996 GSW @ SEA L 27 13 3 7 42.9 2 4 50.0 5 5 100.0 0 2 2 7 1 0 3 2 -22
+p580
+aVBimbo Coles GSW 12/17/1996 GSW @ SEA L 20 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -22
+p581
+aVLatrell Sprewell GSW 12/17/1996 GSW @ SEA L 33 26 7 16 43.8 2 7 28.6 10 10 100.0 2 5 7 4 1 1 4 0 -31
+p582
+aVChris Mullin GSW 12/17/1996 GSW @ SEA L 42 11 5 10 50.0 1 2 50.0 0 0 - 1 4 5 2 1 1 2 4 -21
+p583
+aVFelton Spencer GSW 12/17/1996 GSW @ SEA L 21 3 1 4 25.0 0 0 - 1 2 50.0 0 4 4 0 1 3 1 5 -9
+p584
+aVDonyell Marshall GSW 12/17/1996 GSW @ SEA L 19 3 1 6 16.7 0 1 0.0 1 2 50.0 2 5 7 3 0 0 5 3 -28
+p585
+aVRay Owes GSW 12/17/1996 GSW @ SEA L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 1 1 3 -11
+p586
+aVAndrew DeClercq GSW 12/17/1996 GSW @ SEA L 8 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 3 -4
+p587
+aVB.J. Armstrong GSW 12/17/1996 GSW @ SEA L 21 14 6 10 60.0 1 1 100.0 1 1 100.0 0 3 3 0 0 0 2 0 -20
+p588
+aVDonald Royal GSW 12/15/1996 GSW vs. WAS L 18 9 2 4 50.0 0 1 0.0 5 5 100.0 2 3 5 0 1 0 3 4 7
+p589
+aVTodd Fuller GSW 12/15/1996 GSW vs. WAS L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -7
+p590
+aVMark Price GSW 12/15/1996 GSW vs. WAS L 23 5 1 5 20.0 1 4 25.0 2 3 66.7 0 2 2 6 1 0 3 2 -13
+p591
+aVBimbo Coles GSW 12/15/1996 GSW vs. WAS L 23 9 4 9 44.4 1 1 100.0 0 0 - 2 0 2 2 1 0 1 1 4
+p592
+aVLatrell Sprewell GSW 12/15/1996 GSW vs. WAS L 43 43 14 23 60.9 6 7 85.7 9 15 60.0 0 4 4 3 0 0 6 2 -16
+p593
+aVB.J. Armstrong GSW 12/15/1996 GSW vs. WAS L 18 9 4 6 66.7 0 1 0.0 1 1 100.0 1 0 1 2 1 0 1 0 3
+p594
+aVAndrew DeClercq GSW 12/15/1996 GSW vs. WAS L 12 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -6
+p595
+aVChris Mullin GSW 12/15/1996 GSW vs. WAS L 39 7 3 6 50.0 1 2 50.0 0 0 - 1 3 4 2 1 1 3 3 0
+p596
+aVJoe Smith GSW 12/15/1996 GSW vs. WAS L 39 16 6 14 42.9 0 2 0.0 4 7 57.1 4 4 8 1 2 1 5 2 -18
+p597
+aVFelton Spencer GSW 12/15/1996 GSW vs. WAS L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 2 0 1 6 6
+p598
+aVJoe Smith GSW 12/13/1996 GSW @ CLE L 45 20 9 14 64.3 0 0 - 2 2 100.0 3 8 11 2 1 2 2 2 -10
+p599
+aVFelton Spencer GSW 12/13/1996 GSW @ CLE L 25 12 5 9 55.6 0 0 - 2 2 100.0 5 4 9 0 0 1 1 6 -5
+p600
+aVB.J. Armstrong GSW 12/13/1996 GSW @ CLE L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -18
+p601
+aVAndrew DeClercq GSW 12/13/1996 GSW @ CLE L 17 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 3 2 5 1
+p602
+aVChris Mullin GSW 12/13/1996 GSW @ CLE L 44 21 6 11 54.5 3 5 60.0 6 8 75.0 1 4 5 5 2 1 4 5 -8
+p603
+aVBimbo Coles GSW 12/13/1996 GSW @ CLE L 20 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 2 1 0 3 3 -35
+p604
+aVTodd Fuller GSW 12/13/1996 GSW @ CLE L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p605
+aVLatrell Sprewell GSW 12/13/1996 GSW @ CLE L 45 22 6 19 31.6 2 5 40.0 8 8 100.0 1 2 3 5 0 1 8 3 -5
+p606
+aVMark Price GSW 12/13/1996 GSW @ CLE L 28 7 3 8 37.5 1 3 33.3 0 0 - 1 5 6 9 1 0 2 3 23
+p607
+aVDonald Royal GSW 12/12/1996 GSW @ NYK L 14 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 -13
+p608
+aVBimbo Coles GSW 12/12/1996 GSW @ NYK L 25 5 2 9 22.2 0 4 0.0 1 1 100.0 2 0 2 4 3 0 1 1 0
+p609
+aVFelton Spencer GSW 12/12/1996 GSW @ NYK L 24 2 1 4 25.0 0 0 - 0 0 - 2 5 7 0 0 0 2 4 -8
+p610
+aVLatrell Sprewell GSW 12/12/1996 GSW @ NYK L 34 17 5 16 31.3 2 7 28.6 5 6 83.3 0 2 2 1 2 1 3 0 -12
+p611
+aVB.J. Armstrong GSW 12/12/1996 GSW @ NYK L 17 7 1 7 14.3 1 2 50.0 4 4 100.0 0 4 4 4 0 0 2 0 3
+p612
+aVDonyell Marshall GSW 12/12/1996 GSW @ NYK L 6 5 2 2 100.0 0 0 - 1 4 25.0 0 1 1 0 0 0 0 0 8
+p613
+aVJoe Smith GSW 12/12/1996 GSW @ NYK L 30 12 6 11 54.5 0 0 - 0 0 - 1 5 6 1 1 1 0 2 -11
+p614
+aVAndrew DeClercq GSW 12/12/1996 GSW @ NYK L 10 4 2 3 66.7 0 0 - 0 1 0.0 1 1 2 0 2 0 0 3 -9
+p615
+aVMark Price GSW 12/12/1996 GSW @ NYK L 22 8 2 6 33.3 2 3 66.7 2 2 100.0 1 2 3 4 1 0 0 0 -9
+p616
+aVTodd Fuller GSW 12/12/1996 GSW @ NYK L 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 2 0 4
+p617
+aVRay Owes GSW 12/12/1996 GSW @ NYK L 12 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 1 6
+p618
+aVChris Mullin GSW 12/12/1996 GSW @ NYK L 34 15 6 15 40.0 1 3 33.3 2 2 100.0 1 2 3 5 1 0 3 2 -14
+p619
+aVTodd Fuller GSW 12/10/1996 GSW @ TOR W 2 1 0 2 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 1 0 -8
+p620
+aVJoe Smith GSW 12/10/1996 GSW @ TOR W 41 36 12 23 52.2 0 0 - 12 14 85.7 6 11 17 0 1 2 2 5 30
+p621
+aVBimbo Coles GSW 12/10/1996 GSW @ TOR W 20 2 1 8 12.5 0 2 0.0 0 0 - 2 0 2 1 0 0 0 1 -7
+p622
+aVAndrew DeClercq GSW 12/10/1996 GSW @ TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -8
+p623
+aVFelton Spencer GSW 12/10/1996 GSW @ TOR W 29 3 0 3 0.0 0 0 - 3 4 75.0 4 3 7 0 1 0 1 3 13
+p624
+aVMark Price GSW 12/10/1996 GSW @ TOR W 33 13 3 10 30.0 1 4 25.0 6 6 100.0 1 2 3 3 3 0 2 2 17
+p625
+aVDonald Royal GSW 12/10/1996 GSW @ TOR W 12 5 2 7 28.6 0 0 - 1 1 100.0 4 1 5 1 0 1 0 0 -3
+p626
+aVB.J. Armstrong GSW 12/10/1996 GSW @ TOR W 14 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 1 0 -10
+p627
+aVLatrell Sprewell GSW 12/10/1996 GSW @ TOR W 42 23 7 14 50.0 2 4 50.0 7 9 77.8 1 5 6 3 2 1 4 4 14
+p628
+aVRay Owes GSW 12/10/1996 GSW @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p629
+aVChris Mullin GSW 12/10/1996 GSW @ TOR W 42 16 7 9 77.8 0 0 - 2 2 100.0 1 4 5 7 1 0 7 1 14
+p630
+aVTodd Fuller GSW 12/08/1996 GSW vs. SAS W 12 4 2 3 66.7 0 0 - 0 0 - 2 1 3 2 1 0 3 5 9
+p631
+aVDonyell Marshall GSW 12/08/1996 GSW vs. SAS W 10 7 3 6 50.0 1 1 100.0 0 0 - 3 1 4 0 0 0 0 0 1
+p632
+aVAndrew DeClercq GSW 12/08/1996 GSW vs. SAS W 20 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 4 10
+p633
+aVFelton Spencer GSW 12/08/1996 GSW vs. SAS W 16 2 1 2 50.0 0 0 - 0 0 - 3 2 5 2 0 1 0 3 7
+p634
+aVRay Owes GSW 12/08/1996 GSW vs. SAS W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 1 0 3 0
+p635
+aVLatrell Sprewell GSW 12/08/1996 GSW vs. SAS W 33 23 9 16 56.3 3 4 75.0 2 3 66.7 1 6 7 8 2 1 2 3 21
+p636
+aVDonald Royal GSW 12/08/1996 GSW vs. SAS W 13 5 1 4 25.0 0 0 - 3 4 75.0 0 1 1 0 3 0 1 1 1
+p637
+aVBimbo Coles GSW 12/08/1996 GSW vs. SAS W 26 12 5 6 83.3 2 3 66.7 0 1 0.0 0 0 0 4 1 0 2 4 10
+p638
+aVJoe Smith GSW 12/08/1996 GSW vs. SAS W 31 24 10 14 71.4 0 0 - 4 4 100.0 2 5 7 0 0 1 1 3 27
+p639
+aVMark Price GSW 12/08/1996 GSW vs. SAS W 25 11 4 8 50.0 1 1 100.0 2 2 100.0 1 5 6 8 0 0 2 0 16
+p640
+aVB.J. Armstrong GSW 12/08/1996 GSW vs. SAS W 23 7 2 7 28.6 1 2 50.0 2 2 100.0 0 1 1 2 0 0 1 1 10
+p641
+aVChris Mullin GSW 12/08/1996 GSW vs. SAS W 25 17 8 11 72.7 1 2 50.0 0 0 - 0 2 2 5 1 1 3 0 18
+p642
+aVChris Mullin GSW 12/06/1996 GSW vs. IND L 36 8 2 10 20.0 0 3 0.0 4 5 80.0 1 5 6 1 3 0 3 2 -14
+p643
+aVFelton Spencer GSW 12/06/1996 GSW vs. IND L 25 6 2 2 100.0 0 0 - 2 6 33.3 3 4 7 0 0 1 2 4 -2
+p644
+aVLou Roe GSW 12/06/1996 GSW vs. IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p645
+aVAndrew DeClercq GSW 12/06/1996 GSW vs. IND L 18 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 0 4 -13
+p646
+aVMark Price GSW 12/06/1996 GSW vs. IND L 21 3 1 8 12.5 0 4 0.0 1 2 50.0 0 2 2 5 0 0 1 0 -16
+p647
+aVJoe Smith GSW 12/06/1996 GSW vs. IND L 37 15 5 11 45.5 0 0 - 5 6 83.3 1 2 3 2 3 1 2 1 -18
+p648
+aVDonyell Marshall GSW 12/06/1996 GSW vs. IND L 8 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 1 0 1 0 1 1
+p649
+aVLatrell Sprewell GSW 12/06/1996 GSW vs. IND L 40 12 5 13 38.5 0 4 0.0 2 4 50.0 1 4 5 3 1 0 3 4 -9
+p650
+aVTodd Fuller GSW 12/06/1996 GSW vs. IND L 5 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 0 1 1 1
+p651
+aVB.J. Armstrong GSW 12/06/1996 GSW vs. IND L 26 8 2 9 22.2 0 3 0.0 4 4 100.0 0 2 2 2 1 0 2 0 1
+p652
+aVRay Owes GSW 12/06/1996 GSW vs. IND L 8 5 1 3 33.3 0 0 - 3 4 75.0 1 4 5 0 0 1 0 2 0
+p653
+aVDonald Royal GSW 12/06/1996 GSW vs. IND L 14 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -7
+p654
+aVLou Roe GSW 12/04/1996 GSW @ PHX L 14 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 0 1 0 2 0 -13
+p655
+aVRay Owes GSW 12/04/1996 GSW @ PHX L 18 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 0 1 2 -10
+p656
+aVMark Price GSW 12/04/1996 GSW @ PHX L 25 6 2 6 33.3 0 3 0.0 2 2 100.0 0 2 2 6 1 0 0 2 -15
+p657
+aVJoe Smith GSW 12/04/1996 GSW @ PHX L 30 15 5 14 35.7 1 1 100.0 4 5 80.0 2 3 5 0 0 0 0 4 -18
+p658
+aVDonald Royal GSW 12/04/1996 GSW @ PHX L 16 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -17
+p659
+aVFelton Spencer GSW 12/04/1996 GSW @ PHX L 18 7 2 3 66.7 0 0 - 3 3 100.0 2 4 6 1 0 3 2 5 -10
+p660
+aVDonyell Marshall GSW 12/04/1996 GSW @ PHX L 18 1 0 5 0.0 0 3 0.0 1 2 50.0 2 2 4 1 1 0 0 2 -18
+p661
+aVTodd Fuller GSW 12/04/1996 GSW @ PHX L 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -11
+p662
+aVAndrew DeClercq GSW 12/04/1996 GSW @ PHX L 8 0 0 0 - 0 0 - 0 0 - 0 3 3 1 2 0 1 4 -1
+p663
+aVB.J. Armstrong GSW 12/04/1996 GSW @ PHX L 20 6 3 8 37.5 0 2 0.0 0 0 - 0 1 1 1 1 0 1 3 -10
+p664
+aVChris Mullin GSW 12/04/1996 GSW @ PHX L 32 16 6 14 42.9 0 1 0.0 4 4 100.0 1 1 2 3 2 2 2 1 -14
+p665
+aVLatrell Sprewell GSW 12/04/1996 GSW @ PHX L 34 22 6 18 33.3 0 1 0.0 10 12 83.3 2 2 4 3 1 0 3 2 -18
+p666
+aVDonald Royal GSW 12/03/1996 GSW vs. DEN W 17 7 3 3 100.0 0 0 - 1 1 100.0 0 2 2 1 1 0 0 1 4
+p667
+aVDonyell Marshall GSW 12/03/1996 GSW vs. DEN W 1 4 1 2 50.0 1 1 100.0 1 2 50.0 1 1 2 0 0 0 0 0 1
+p668
+aVJoe Smith GSW 12/03/1996 GSW vs. DEN W 37 18 7 13 53.8 0 1 0.0 4 4 100.0 2 5 7 1 0 1 1 4 15
+p669
+aVLatrell Sprewell GSW 12/03/1996 GSW vs. DEN W 42 28 12 24 50.0 1 2 50.0 3 5 60.0 1 2 3 6 2 0 3 1 15
+p670
+aVChris Mullin GSW 12/03/1996 GSW vs. DEN W 40 12 4 9 44.4 0 2 0.0 4 5 80.0 3 5 8 11 1 2 3 2 11
+p671
+aVLou Roe GSW 12/03/1996 GSW vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p672
+aVAndrew DeClercq GSW 12/03/1996 GSW vs. DEN W 13 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 2 0 1 2 -5
+p673
+aVMark Price GSW 12/03/1996 GSW vs. DEN W 31 19 6 12 50.0 3 7 42.9 4 4 100.0 0 3 3 6 3 1 2 2 18
+p674
+aVTodd Fuller GSW 12/03/1996 GSW vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p675
+aVFelton Spencer GSW 12/03/1996 GSW vs. DEN W 31 10 5 7 71.4 0 0 - 0 1 0.0 2 4 6 0 0 2 2 5 10
+p676
+aVRay Owes GSW 12/03/1996 GSW vs. DEN W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p677
+aVB.J. Armstrong GSW 12/03/1996 GSW vs. DEN W 19 14 4 9 44.4 2 3 66.7 4 4 100.0 0 1 1 3 1 0 2 0 1
+p678
+aVChris Mullin GSW 12/01/1996 GSW vs. POR W 25 11 4 8 50.0 3 4 75.0 0 0 - 2 3 5 5 0 1 1 4 34
+p679
+aVLatrell Sprewell GSW 12/01/1996 GSW vs. POR W 44 28 10 22 45.5 2 6 33.3 6 8 75.0 1 6 7 4 4 1 3 3 29
+p680
+aVRay Owes GSW 12/01/1996 GSW vs. POR W 15 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 -4
+p681
+aVMark Price GSW 12/01/1996 GSW vs. POR W 22 6 1 4 25.0 1 3 33.3 3 3 100.0 0 2 2 6 3 0 2 1 14
+p682
+aVTodd Fuller GSW 12/01/1996 GSW vs. POR W 18 4 1 4 25.0 0 0 - 2 2 100.0 4 4 8 0 0 0 1 2 -5
+p683
+aVFelton Spencer GSW 12/01/1996 GSW vs. POR W 13 9 3 4 75.0 0 0 - 3 4 75.0 2 4 6 0 0 2 2 4 16
+p684
+aVB.J. Armstrong GSW 12/01/1996 GSW vs. POR W 26 18 5 8 62.5 1 2 50.0 7 8 87.5 0 3 3 2 2 0 0 1 14
+p685
+aVAndrew DeClercq GSW 12/01/1996 GSW vs. POR W 14 2 0 3 0.0 0 0 - 2 2 100.0 2 3 5 0 0 1 3 5 11
+p686
+aVLou Roe GSW 12/01/1996 GSW vs. POR W 4 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 0 -1
+p687
+aVJoe Smith GSW 12/01/1996 GSW vs. POR W 36 10 3 12 25.0 0 0 - 4 4 100.0 3 8 11 0 1 4 3 4 38
+p688
+aVDonald Royal GSW 12/01/1996 GSW vs. POR W 23 8 1 6 16.7 0 0 - 6 7 85.7 3 3 6 0 0 0 2 3 -6
+p689
+aVTodd Fuller GSW 11/29/1996 GSW @ POR L 21 6 2 3 66.7 0 0 - 2 2 100.0 2 3 5 0 0 0 0 4 -17
+p690
+aVLou Roe GSW 11/29/1996 GSW @ POR L 5 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -4
+p691
+aVB.J. Armstrong GSW 11/29/1996 GSW @ POR L 18 0 0 3 0.0 0 0 - 0 0 - 0 4 4 1 0 0 1 3 -24
+p692
+aVLatrell Sprewell GSW 11/29/1996 GSW @ POR L 38 32 9 21 42.9 2 5 40.0 12 14 85.7 0 5 5 8 3 1 3 0 -11
+p693
+aVDonyell Marshall GSW 11/29/1996 GSW @ POR L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p694
+aVAndrew DeClercq GSW 11/29/1996 GSW @ POR L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -17
+p695
+aVFelton Spencer GSW 11/29/1996 GSW @ POR L 15 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 5 5
+p696
+aVMark Price GSW 11/29/1996 GSW @ POR L 30 15 5 10 50.0 3 5 60.0 2 2 100.0 1 1 2 4 1 0 1 1 -2
+p697
+aVJoe Smith GSW 11/29/1996 GSW @ POR L 33 13 4 11 36.4 0 0 - 5 6 83.3 2 2 4 0 4 0 5 4 -1
+p698
+aVDonald Royal GSW 11/29/1996 GSW @ POR L 19 8 1 6 16.7 0 1 0.0 6 7 85.7 2 0 2 0 1 0 0 1 -16
+p699
+aVRay Owes GSW 11/29/1996 GSW @ POR L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -25
+p700
+aVChris Mullin GSW 11/29/1996 GSW @ POR L 34 14 6 8 75.0 0 2 0.0 2 2 100.0 1 0 1 3 0 1 0 1 -6
+p701
+aVTodd Fuller GSW 11/28/1996 GSW vs. NJN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p702
+aVDonyell Marshall GSW 11/28/1996 GSW vs. NJN W 17 2 1 5 20.0 0 2 0.0 0 0 - 3 7 10 2 0 1 0 4 9
+p703
+aVJoe Smith GSW 11/28/1996 GSW vs. NJN W 42 30 10 26 38.5 1 1 100.0 9 13 69.2 5 3 8 1 0 1 1 5 8
+p704
+aVRay Owes GSW 11/28/1996 GSW vs. NJN W 25 18 8 11 72.7 0 0 - 2 4 50.0 5 6 11 0 0 0 1 3 15
+p705
+aVB.J. Armstrong GSW 11/28/1996 GSW vs. NJN W 17 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 6 0 0 0 2 14
+p706
+aVFelton Spencer GSW 11/28/1996 GSW vs. NJN W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 4 0
+p707
+aVAndrew DeClercq GSW 11/28/1996 GSW vs. NJN W 16 4 1 3 33.3 0 0 - 2 4 50.0 3 2 5 0 0 0 0 3 -14
+p708
+aVMark Price GSW 11/28/1996 GSW vs. NJN W 32 21 7 10 70.0 2 3 66.7 5 6 83.3 0 3 3 6 1 0 2 4 -5
+p709
+aVLatrell Sprewell GSW 11/28/1996 GSW vs. NJN W 45 26 4 16 25.0 1 3 33.3 17 19 89.5 1 6 7 7 0 1 1 2 5
+p710
+aVChris Mullin GSW 11/28/1996 GSW vs. NJN W 36 14 6 9 66.7 1 2 50.0 1 1 100.0 0 3 3 5 1 0 2 2 0
+p711
+aVDonald Royal GSW 11/26/1996 GSW vs. MIA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -12
+p712
+aVJoe Smith GSW 11/26/1996 GSW vs. MIA L 37 24 11 25 44.0 0 0 - 2 2 100.0 8 7 15 0 0 2 2 2 -10
+p713
+aVAndrew DeClercq GSW 11/26/1996 GSW vs. MIA L 15 6 3 6 50.0 0 0 - 0 0 - 5 1 6 0 3 1 1 4 -19
+p714
+aVChris Mullin GSW 11/26/1996 GSW vs. MIA L 40 17 6 12 50.0 1 3 33.3 4 4 100.0 1 1 2 6 5 1 2 3 -9
+p715
+aVTodd Fuller GSW 11/26/1996 GSW vs. MIA L 10 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 1 2 -7
+p716
+aVLatrell Sprewell GSW 11/26/1996 GSW vs. MIA L 42 14 6 20 30.0 1 4 25.0 1 2 50.0 1 2 3 8 3 0 4 1 -18
+p717
+aVMark Price GSW 11/26/1996 GSW vs. MIA L 26 12 5 11 45.5 0 4 0.0 2 2 100.0 0 2 2 6 1 0 0 2 6
+p718
+aVLou Roe GSW 11/26/1996 GSW vs. MIA L 6 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 2 -1
+p719
+aVRay Owes GSW 11/26/1996 GSW vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p720
+aVB.J. Armstrong GSW 11/26/1996 GSW vs. MIA L 22 6 2 6 33.3 0 2 0.0 2 2 100.0 0 1 1 2 0 0 0 1 -25
+p721
+aVDonyell Marshall GSW 11/26/1996 GSW vs. MIA L 3 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 0 2
+p722
+aVFelton Spencer GSW 11/26/1996 GSW vs. MIA L 32 4 1 2 50.0 0 0 - 2 2 100.0 1 6 7 0 0 2 1 4 -4
+p723
+aVB.J. Armstrong GSW 11/23/1996 GSW vs. HOU L 17 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 3 2 0 1 2 5
+p724
+aVJoe Smith GSW 11/23/1996 GSW vs. HOU L 50 9 4 14 28.6 0 0 - 1 2 50.0 0 7 7 6 0 1 3 5 -3
+p725
+aVTodd Fuller GSW 11/23/1996 GSW vs. HOU L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 0
+p726
+aVChris Mullin GSW 11/23/1996 GSW vs. HOU L 46 27 11 14 78.6 3 4 75.0 2 3 66.7 0 5 5 5 0 0 1 5 -10
+p727
+aVMark Price GSW 11/23/1996 GSW vs. HOU L 36 32 11 14 78.6 5 6 83.3 5 6 83.3 1 0 1 5 2 0 5 4 -10
+p728
+aVDonyell Marshall GSW 11/23/1996 GSW vs. HOU L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 0
+p729
+aVDonald Royal GSW 11/23/1996 GSW vs. HOU L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 0 1 12
+p730
+aVFelton Spencer GSW 11/23/1996 GSW vs. HOU L 23 5 2 4 50.0 0 0 - 1 1 100.0 0 6 6 1 0 1 1 5 -11
+p731
+aVAndrew DeClercq GSW 11/23/1996 GSW vs. HOU L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 2 3 -3
+p732
+aVLatrell Sprewell GSW 11/23/1996 GSW vs. HOU L 53 28 10 19 52.6 2 5 40.0 6 6 100.0 0 4 4 11 2 1 6 1 -5
+p733
+aVChris Mullin GSW 11/21/1996 GSW @ UTA L 39 15 5 11 45.5 1 4 25.0 4 5 80.0 1 1 2 3 2 0 3 2 -3
+p734
+aVJoe Smith GSW 11/21/1996 GSW @ UTA L 48 18 8 19 42.1 0 1 0.0 2 2 100.0 5 9 14 0 1 3 5 5 0
+p735
+aVDonald Royal GSW 11/21/1996 GSW @ UTA L 21 9 2 3 66.7 0 0 - 5 5 100.0 1 4 5 1 1 1 2 2 -5
+p736
+aVAndrew DeClercq GSW 11/21/1996 GSW @ UTA L 16 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 5 -13
+p737
+aVMark Price GSW 11/21/1996 GSW @ UTA L 34 17 5 13 38.5 2 6 33.3 5 5 100.0 2 3 5 1 1 0 2 4 0
+p738
+aVTodd Fuller GSW 11/21/1996 GSW @ UTA L 10 0 0 1 0.0 0 0 - 0 2 0.0 2 2 4 0 0 1 1 3 -7
+p739
+aVB.J. Armstrong GSW 11/21/1996 GSW @ UTA L 23 7 2 6 33.3 0 3 0.0 3 5 60.0 0 0 0 3 0 0 1 2 1
+p740
+aVDonyell Marshall GSW 11/21/1996 GSW @ UTA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p741
+aVFelton Spencer GSW 11/21/1996 GSW @ UTA L 20 4 1 2 50.0 0 0 - 2 4 50.0 1 6 7 1 1 0 0 6 7
+p742
+aVLatrell Sprewell GSW 11/21/1996 GSW @ UTA L 48 32 9 25 36.0 3 7 42.9 11 13 84.6 3 4 7 5 1 1 3 2 -6
+p743
+aVMark Price GSW 11/19/1996 GSW vs. LAL L 26 18 7 11 63.6 4 6 66.7 0 0 - 0 1 1 6 1 0 1 0 -7
+p744
+aVBimbo Coles GSW 11/19/1996 GSW vs. LAL L 19 9 3 5 60.0 3 4 75.0 0 0 - 0 2 2 4 0 1 1 3 6
+p745
+aVB.J. Armstrong GSW 11/19/1996 GSW vs. LAL L 22 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 7 0 0 2 1 8
+p746
+aVAndrew DeClercq GSW 11/19/1996 GSW vs. LAL L 9 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 1 0 4 8
+p747
+aVDonald Royal GSW 11/19/1996 GSW vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p748
+aVFelton Spencer GSW 11/19/1996 GSW vs. LAL L 25 6 2 4 50.0 0 0 - 2 4 50.0 2 5 7 0 0 0 0 5 10
+p749
+aVJoe Smith GSW 11/19/1996 GSW vs. LAL L 45 19 7 16 43.8 1 1 100.0 4 5 80.0 2 10 12 3 0 1 3 2 -2
+p750
+aVChris Mullin GSW 11/19/1996 GSW vs. LAL L 31 17 6 11 54.5 2 4 50.0 3 3 100.0 2 3 5 2 0 0 2 1 -10
+p751
+aVLatrell Sprewell GSW 11/19/1996 GSW vs. LAL L 46 33 13 23 56.5 4 10 40.0 3 4 75.0 0 0 0 10 2 0 4 3 -2
+p752
+aVTodd Fuller GSW 11/19/1996 GSW vs. LAL L 15 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 0 0 2 3 -25
+p753
+aVFelton Spencer GSW 11/17/1996 GSW @ SAS W 18 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 0 0 1 0 2 25
+p754
+aVMark Price GSW 11/17/1996 GSW @ SAS W 19 6 2 4 50.0 1 3 33.3 1 3 33.3 0 2 2 2 1 0 3 4 10
+p755
+aVLatrell Sprewell GSW 11/17/1996 GSW @ SAS W 41 20 7 16 43.8 4 9 44.4 2 2 100.0 0 6 6 4 2 1 2 3 8
+p756
+aVRay Owes GSW 11/17/1996 GSW @ SAS W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -3
+p757
+aVBimbo Coles GSW 11/17/1996 GSW @ SAS W 22 12 4 8 50.0 1 3 33.3 3 3 100.0 0 2 2 2 0 1 1 1 -3
+p758
+aVJoe Smith GSW 11/17/1996 GSW @ SAS W 41 17 5 14 35.7 0 0 - 7 7 100.0 1 10 11 3 1 2 3 2 17
+p759
+aVB.J. Armstrong GSW 11/17/1996 GSW @ SAS W 31 24 8 10 80.0 1 1 100.0 7 8 87.5 1 2 3 6 2 0 1 2 -3
+p760
+aVDonald Royal GSW 11/17/1996 GSW @ SAS W 7 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 -2
+p761
+aVChris Mullin GSW 11/17/1996 GSW @ SAS W 38 15 7 9 77.8 1 1 100.0 0 0 - 3 2 5 3 2 2 2 3 15
+p762
+aVTodd Fuller GSW 11/17/1996 GSW @ SAS W 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p763
+aVAndrew DeClercq GSW 11/17/1996 GSW @ SAS W 14 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -11
+p764
+aVDonald Royal GSW 11/16/1996 GSW @ HOU L 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p765
+aVJoe Smith GSW 11/16/1996 GSW @ HOU L 40 18 8 18 44.4 0 1 0.0 2 2 100.0 3 3 6 1 2 1 3 1 -7
+p766
+aVB.J. Armstrong GSW 11/16/1996 GSW @ HOU L 16 8 4 10 40.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -11
+p767
+aVAndrew DeClercq GSW 11/16/1996 GSW @ HOU L 16 9 3 9 33.3 0 0 - 3 3 100.0 8 2 10 0 1 0 2 5 -3
+p768
+aVFelton Spencer GSW 11/16/1996 GSW @ HOU L 24 10 4 4 100.0 0 0 - 2 5 40.0 4 4 8 0 0 1 0 3 0
+p769
+aVBimbo Coles GSW 11/16/1996 GSW @ HOU L 29 5 2 6 33.3 1 3 33.3 0 0 - 1 3 4 5 3 0 0 0 2
+p770
+aVTodd Fuller GSW 11/16/1996 GSW @ HOU L 11 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 4 -5
+p771
+aVMark Price GSW 11/16/1996 GSW @ HOU L 20 5 2 8 25.0 1 4 25.0 0 0 - 1 2 3 2 3 0 3 0 -18
+p772
+aVChris Mullin GSW 11/16/1996 GSW @ HOU L 41 20 9 13 69.2 0 1 0.0 2 2 100.0 1 2 3 5 4 0 4 2 -14
+p773
+aVLatrell Sprewell GSW 11/16/1996 GSW @ HOU L 40 23 9 20 45.0 1 4 25.0 4 4 100.0 1 3 4 11 3 1 5 2 1
+p774
+aVChris Mullin GSW 11/14/1996 GSW vs. MIL W 37 16 7 10 70.0 0 1 0.0 2 4 50.0 2 1 3 5 3 1 3 2 10
+p775
+aVMark Price GSW 11/14/1996 GSW vs. MIL W 27 6 3 9 33.3 0 3 0.0 0 0 - 1 0 1 9 0 0 2 1 0
+p776
+aVLatrell Sprewell GSW 11/14/1996 GSW vs. MIL W 45 26 9 20 45.0 1 3 33.3 7 9 77.8 0 4 4 2 2 3 1 0 10
+p777
+aVJoe Smith GSW 11/14/1996 GSW vs. MIL W 39 26 12 24 50.0 0 2 0.0 2 2 100.0 2 7 9 1 2 3 2 3 5
+p778
+aVBimbo Coles GSW 11/14/1996 GSW vs. MIL W 17 0 0 0 - 0 0 - 0 0 - 0 3 3 3 0 0 1 3 11
+p779
+aVAndrew DeClercq GSW 11/14/1996 GSW vs. MIL W 19 9 3 4 75.0 0 0 - 3 4 75.0 2 5 7 0 0 0 1 2 11
+p780
+aVFelton Spencer GSW 11/14/1996 GSW vs. MIL W 16 5 2 2 100.0 0 0 - 1 3 33.3 1 2 3 0 0 0 1 1 -5
+p781
+aVDonald Royal GSW 11/14/1996 GSW vs. MIL W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p782
+aVTodd Fuller GSW 11/14/1996 GSW vs. MIL W 22 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 0 1 0 2 7
+p783
+aVB.J. Armstrong GSW 11/14/1996 GSW vs. MIL W 12 1 0 2 0.0 0 1 0.0 1 1 100.0 0 1 1 3 0 0 0 0 0
+p784
+aVDonald Royal GSW 11/12/1996 GSW @ SEA L 19 6 2 3 66.7 0 0 - 2 4 50.0 1 1 2 1 0 0 0 4 -23
+p785
+aVTodd Fuller GSW 11/12/1996 GSW @ SEA L 29 10 5 9 55.6 0 0 - 0 0 - 0 7 7 3 0 1 3 1 3
+p786
+aVDonyell Marshall GSW 11/12/1996 GSW @ SEA L 2 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p787
+aVBimbo Coles GSW 11/12/1996 GSW @ SEA L 18 4 2 8 25.0 0 0 - 0 0 - 2 1 3 2 0 0 1 1 -18
+p788
+aVRay Owes GSW 11/12/1996 GSW @ SEA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p789
+aVB.J. Armstrong GSW 11/12/1996 GSW @ SEA L 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -14
+p790
+aVMark Price GSW 11/12/1996 GSW @ SEA L 30 16 6 11 54.5 4 5 80.0 0 0 - 1 2 3 5 1 0 0 0 -5
+p791
+aVChris Mullin GSW 11/12/1996 GSW @ SEA L 36 21 9 15 60.0 2 4 50.0 1 1 100.0 1 4 5 4 0 0 7 4 -10
+p792
+aVLatrell Sprewell GSW 11/12/1996 GSW @ SEA L 40 27 8 15 53.3 4 8 50.0 7 7 100.0 1 3 4 7 2 0 4 2 -7
+p793
+aVFelton Spencer GSW 11/12/1996 GSW @ SEA L 11 0 0 3 0.0 0 0 - 0 2 0.0 3 2 5 0 0 0 1 4 -4
+p794
+aVJoe Smith GSW 11/12/1996 GSW @ SEA L 36 10 4 12 33.3 0 1 0.0 2 3 66.7 3 2 5 1 1 0 3 2 -13
+p795
+aVJoe Smith GSW 11/08/1996 GSW @ DEN L 34 11 5 12 41.7 0 1 0.0 1 1 100.0 1 9 10 1 0 2 7 4 -17
+p796
+aVLatrell Sprewell GSW 11/08/1996 GSW @ DEN L 44 29 10 21 47.6 0 3 0.0 9 9 100.0 0 2 2 1 4 1 3 1 3
+p797
+aVChris Mullin GSW 11/08/1996 GSW @ DEN L 36 8 3 9 33.3 0 1 0.0 2 2 100.0 0 3 3 1 0 2 1 2 -16
+p798
+aVFelton Spencer GSW 11/08/1996 GSW @ DEN L 18 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 1 0 2 3 2 10
+p799
+aVDonyell Marshall GSW 11/08/1996 GSW @ DEN L 9 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 0 5
+p800
+aVDonald Royal GSW 11/08/1996 GSW @ DEN L 17 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 2 0 2 0 2 5
+p801
+aVB.J. Armstrong GSW 11/08/1996 GSW @ DEN L 22 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 4 1 0 1 1 5
+p802
+aVBimbo Coles GSW 11/08/1996 GSW @ DEN L 16 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 7
+p803
+aVMark Price GSW 11/08/1996 GSW @ DEN L 26 16 6 10 60.0 3 6 50.0 1 2 50.0 1 2 3 7 1 0 3 4 -8
+p804
+aVRay Owes GSW 11/08/1996 GSW @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -2
+p805
+aVTodd Fuller GSW 11/08/1996 GSW @ DEN L 18 2 1 6 16.7 0 0 - 0 0 - 3 4 7 0 0 1 2 1 -7
+p806
+aVBimbo Coles GSW 11/07/1996 GSW vs. NYK L 17 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 2 0 0 0 3 3
+p807
+aVJoe Smith GSW 11/07/1996 GSW vs. NYK L 43 26 10 17 58.8 1 4 25.0 5 6 83.3 3 2 5 2 0 2 5 2 -5
+p808
+aVDonyell Marshall GSW 11/07/1996 GSW vs. NYK L 12 4 2 5 40.0 0 2 0.0 0 0 - 1 2 3 1 0 0 1 1 0
+p809
+aVTodd Fuller GSW 11/07/1996 GSW vs. NYK L 37 14 5 9 55.6 0 0 - 4 4 100.0 1 1 2 0 0 0 2 4 -11
+p810
+aVChris Mullin GSW 11/07/1996 GSW vs. NYK L 29 16 6 12 50.0 2 5 40.0 2 2 100.0 2 0 2 4 4 1 0 4 -2
+p811
+aVFelton Spencer GSW 11/07/1996 GSW vs. NYK L 5 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 5 -3
+p812
+aVLatrell Sprewell GSW 11/07/1996 GSW vs. NYK L 39 18 3 11 27.3 2 3 66.7 10 10 100.0 0 2 2 9 3 0 6 4 -11
+p813
+aVB.J. Armstrong GSW 11/07/1996 GSW vs. NYK L 20 7 2 3 66.7 0 0 - 3 4 75.0 0 1 1 5 1 0 0 4 0
+p814
+aVMark Price GSW 11/07/1996 GSW vs. NYK L 28 13 5 9 55.6 2 4 50.0 1 1 100.0 0 0 0 6 2 0 4 1 -4
+p815
+aVRay Owes GSW 11/07/1996 GSW vs. NYK L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 8
+p816
+aVB.J. Armstrong GSW 11/05/1996 GSW vs. POR L 12 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 3 0 0 2 2 -4
+p817
+aVFelton Spencer GSW 11/05/1996 GSW vs. POR L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 -6
+p818
+aVBimbo Coles GSW 11/05/1996 GSW vs. POR L 19 4 2 5 40.0 0 3 0.0 0 0 - 0 2 2 1 0 0 1 3 -1
+p819
+aVMark Price GSW 11/05/1996 GSW vs. POR L 25 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 8 0 0 4 1 -15
+p820
+aVTodd Fuller GSW 11/05/1996 GSW vs. POR L 29 14 5 11 45.5 0 0 - 4 6 66.7 3 3 6 1 0 1 3 3 -15
+p821
+aVDonald Royal GSW 11/05/1996 GSW vs. POR L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p822
+aVDonyell Marshall GSW 11/05/1996 GSW vs. POR L 18 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 1 1 1 1 3 -6
+p823
+aVChris Mullin GSW 11/05/1996 GSW vs. POR L 33 16 6 9 66.7 1 1 100.0 3 4 75.0 0 4 4 4 0 0 1 2 -12
+p824
+aVRay Owes GSW 11/05/1996 GSW vs. POR L 24 15 6 9 66.7 0 0 - 3 6 50.0 7 5 12 2 1 1 2 6 -6
+p825
+aVJoe Smith GSW 11/05/1996 GSW vs. POR L 33 18 7 15 46.7 0 1 0.0 4 4 100.0 2 4 6 1 0 0 2 1 -12
+p826
+aVLatrell Sprewell GSW 11/05/1996 GSW vs. POR L 36 12 4 13 30.8 0 5 0.0 4 5 80.0 1 3 4 5 2 0 3 1 -14
+p827
+aVLatrell Sprewell GSW 11/03/1996 GSW @ VAN W 41 20 6 20 30.0 3 6 50.0 5 6 83.3 3 6 9 7 1 0 6 1 15
+p828
+aVDonyell Marshall GSW 11/03/1996 GSW @ VAN W 19 10 4 5 80.0 0 1 0.0 2 2 100.0 3 4 7 0 1 2 4 3 -8
+p829
+aVChris Mullin GSW 11/03/1996 GSW @ VAN W 39 24 7 13 53.8 2 2 100.0 8 9 88.9 1 6 7 7 2 0 5 1 8
+p830
+aVB.J. Armstrong GSW 11/03/1996 GSW @ VAN W 20 9 4 9 44.4 0 3 0.0 1 1 100.0 0 2 2 1 0 0 1 0 -4
+p831
+aVBimbo Coles GSW 11/03/1996 GSW @ VAN W 22 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 0
+p832
+aVMark Price GSW 11/03/1996 GSW @ VAN W 29 14 5 9 55.6 3 6 50.0 1 1 100.0 0 6 6 3 1 0 2 1 14
+p833
+aVRay Owes GSW 11/03/1996 GSW @ VAN W 30 14 7 9 77.8 0 0 - 0 0 - 3 4 7 0 0 1 1 5 11
+p834
+aVTodd Fuller GSW 11/03/1996 GSW @ VAN W 39 12 4 11 36.4 0 0 - 4 8 50.0 2 7 9 2 1 2 2 2 14
+p835
+aVB.J. Armstrong GSW 11/01/1996 GSW vs. LAC L 16 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 2 0 0 2 0 -15
+p836
+aVBimbo Coles GSW 11/01/1996 GSW vs. LAC L 24 8 3 8 37.5 1 3 33.3 1 1 100.0 2 2 4 1 1 0 2 3 -14
+p837
+aVTodd Fuller GSW 11/01/1996 GSW vs. LAC L 28 8 4 11 36.4 0 0 - 0 0 - 4 1 5 2 1 0 2 2 -1
+p838
+aVClifford Rozier GSW 11/01/1996 GSW vs. LAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p839
+aVLatrell Sprewell GSW 11/01/1996 GSW vs. LAC L 44 29 8 18 44.4 4 7 57.1 9 11 81.8 3 10 13 6 0 1 5 1 -3
+p840
+aVMark Price GSW 11/01/1996 GSW vs. LAC L 32 19 4 9 44.4 2 5 40.0 9 10 90.0 1 4 5 2 1 0 2 3 3
+p841
+aVAndrew DeClercq GSW 11/01/1996 GSW vs. LAC L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 3 3 -7
+p842
+aVJoe Smith GSW 11/01/1996 GSW vs. LAC L 38 8 2 9 22.2 0 0 - 4 5 80.0 0 5 5 3 3 2 3 3 -5
+p843
+aVRay Owes GSW 11/01/1996 GSW vs. LAC L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 -3
+p844
+aVChris Mullin GSW 11/01/1996 GSW vs. LAC L 32 8 4 10 40.0 0 1 0.0 0 0 - 0 1 1 3 2 0 1 1 -7
+p845
+a.

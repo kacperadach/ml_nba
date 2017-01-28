@@ -1,0 +1,110 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKevin Garnett BOS 05/03/2013 BOS vs. NYK L 41 15 7 10 70.0 0 0 - 1 2 50.0 1 9 10 3 2 0 5 3 1
+p2
+aVPaul Pierce BOS 05/03/2013 BOS vs. NYK L 43 14 4 18 22.2 1 9 11.1 5 5 100.0 2 5 7 5 2 1 5 2 -6
+p3
+aVJason Terry BOS 05/03/2013 BOS vs. NYK L 24 14 4 6 66.7 3 5 60.0 3 4 75.0 0 4 4 0 0 0 1 1 4
+p4
+aVJeff Green BOS 05/03/2013 BOS vs. NYK L 43 21 4 12 33.3 2 5 40.0 11 14 78.6 0 5 5 1 1 0 5 6 -11
+p5
+aVBrandon Bass BOS 05/03/2013 BOS vs. NYK L 42 6 1 6 16.7 0 0 - 4 6 66.7 0 4 4 1 0 0 1 2 -2
+p6
+aVCourtney Lee BOS 05/03/2013 BOS vs. NYK L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -3
+p7
+aVAvery Bradley BOS 05/03/2013 BOS vs. NYK L 27 10 4 6 66.7 0 0 - 2 2 100.0 1 1 2 1 3 0 1 3 -4
+p8
+aVTerrence Williams BOS 05/03/2013 BOS vs. NYK L 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -15
+p9
+aVJordan Crawford BOS 05/03/2013 BOS vs. NYK L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p10
+aVJason Terry BOS 05/01/2013 BOS @ NYK W 35 17 6 16 37.5 5 9 55.6 0 0 - 0 4 4 3 1 1 0 2 13
+p11
+aVPaul Pierce BOS 05/01/2013 BOS @ NYK W 44 16 6 19 31.6 4 8 50.0 0 0 - 0 4 4 3 1 0 5 4 8
+p12
+aVAvery Bradley BOS 05/01/2013 BOS @ NYK W 22 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -1
+p13
+aVJeff Green BOS 05/01/2013 BOS @ NYK W 43 18 5 8 62.5 2 2 100.0 6 6 100.0 1 3 4 4 0 0 2 2 0
+p14
+aVKevin Garnett BOS 05/01/2013 BOS @ NYK W 39 16 5 9 55.6 0 0 - 6 6 100.0 2 16 18 5 0 2 5 4 -1
+p15
+aVTerrence Williams BOS 05/01/2013 BOS @ NYK W 17 4 2 5 40.0 0 3 0.0 0 0 - 0 4 4 2 0 0 0 1 8
+p16
+aVBrandon Bass BOS 05/01/2013 BOS @ NYK W 40 17 6 7 85.7 0 0 - 5 5 100.0 1 4 5 3 1 0 2 3 3
+p17
+aVTerrence Williams BOS 04/28/2013 BOS vs. NYK W 11 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 3 0 1 3 1 5
+p18
+aVJordan Crawford BOS 04/28/2013 BOS vs. NYK W 7 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 8
+p19
+aVBrandon Bass BOS 04/28/2013 BOS vs. NYK W 31 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 1 6 6
+p20
+aVChris Wilcox BOS 04/28/2013 BOS vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p21
+aVJeff Green BOS 04/28/2013 BOS vs. NYK W 48 26 9 22 40.9 1 4 25.0 7 8 87.5 1 5 6 2 1 0 1 5 2
+p22
+aVJason Terry BOS 04/28/2013 BOS vs. NYK W 41 18 7 10 70.0 1 4 25.0 3 3 100.0 0 0 0 4 1 0 0 2 -2
+p23
+aVKevin Garnett BOS 04/28/2013 BOS vs. NYK W 37 13 5 7 71.4 0 0 - 3 3 100.0 1 16 17 6 1 1 2 4 16
+p24
+aVPaul Pierce BOS 04/28/2013 BOS vs. NYK W 50 29 9 20 45.0 4 8 50.0 7 8 87.5 0 8 8 6 0 1 6 5 -2
+p25
+aVAvery Bradley BOS 04/28/2013 BOS vs. NYK W 40 3 1 7 14.3 1 3 33.3 0 0 - 0 3 3 1 4 1 3 3 8
+p26
+aVCourtney Lee BOS 04/26/2013 BOS vs. NYK L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p27
+aVAvery Bradley BOS 04/26/2013 BOS vs. NYK L 33 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 1 -9
+p28
+aVJordan Crawford BOS 04/26/2013 BOS vs. NYK L 13 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 2 -2
+p29
+aVJason Terry BOS 04/26/2013 BOS vs. NYK L 35 14 4 9 44.4 3 5 60.0 3 4 75.0 0 1 1 2 2 0 3 3 -12
+p30
+aVBrandon Bass BOS 04/26/2013 BOS vs. NYK L 23 3 1 5 20.0 0 0 - 1 2 50.0 3 4 7 1 0 1 1 1 -10
+p31
+aVKevin Garnett BOS 04/26/2013 BOS vs. NYK L 34 12 5 13 38.5 0 1 0.0 2 2 100.0 5 12 17 2 2 0 1 2 -8
+p32
+aVTerrence Williams BOS 04/26/2013 BOS vs. NYK L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p33
+aVPaul Pierce BOS 04/26/2013 BOS vs. NYK L 41 17 6 15 40.0 0 4 0.0 5 6 83.3 1 3 4 5 1 0 5 3 -11
+p34
+aVJeff Green BOS 04/26/2013 BOS vs. NYK L 44 21 8 17 47.1 2 5 40.0 3 4 75.0 2 7 9 4 0 0 5 2 -9
+p35
+aVPaul Pierce BOS 04/23/2013 BOS @ NYK L 38 18 8 19 42.1 1 5 20.0 1 2 50.0 1 5 6 6 0 1 5 5 -28
+p36
+aVKevin Garnett BOS 04/23/2013 BOS @ NYK L 24 12 4 9 44.4 0 0 - 4 4 100.0 0 11 11 1 0 2 3 5 -5
+p37
+aVJason Terry BOS 04/23/2013 BOS @ NYK L 34 9 3 8 37.5 3 7 42.9 0 0 - 0 1 1 3 0 0 0 0 1
+p38
+aVCourtney Lee BOS 04/23/2013 BOS @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p39
+aVShavlik Randolph BOS 04/23/2013 BOS @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -2
+p40
+aVAvery Bradley BOS 04/23/2013 BOS @ NYK L 34 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 1 -7
+p41
+aVTerrence Williams BOS 04/23/2013 BOS @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p42
+aVJordan Crawford BOS 04/23/2013 BOS @ NYK L 25 10 4 11 36.4 1 5 20.0 1 2 50.0 0 0 0 0 2 0 2 1 0
+p43
+aVJeff Green BOS 04/23/2013 BOS @ NYK L 35 10 3 11 27.3 0 1 0.0 4 6 66.7 0 1 1 1 0 1 0 4 -22
+p44
+aVChris Wilcox BOS 04/23/2013 BOS @ NYK L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -8
+p45
+aVBrandon Bass BOS 04/23/2013 BOS @ NYK L 34 6 2 6 33.3 0 0 - 2 2 100.0 2 8 10 1 1 0 0 3 -7
+p46
+aVJason Terry BOS 04/20/2013 BOS @ NYK L 20 0 0 5 0.0 0 4 0.0 0 0 - 0 3 3 0 0 1 1 1 -3
+p47
+aVKevin Garnett BOS 04/20/2013 BOS @ NYK L 37 8 4 12 33.3 0 1 0.0 0 0 - 0 9 9 4 0 1 3 5 -8
+p48
+aVBrandon Bass BOS 04/20/2013 BOS @ NYK L 33 4 2 2 100.0 0 0 - 0 0 - 1 9 10 1 0 0 0 2 2
+p49
+aVJordan Crawford BOS 04/20/2013 BOS @ NYK L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p50
+aVPaul Pierce BOS 04/20/2013 BOS @ NYK L 39 21 6 15 40.0 1 7 14.3 8 8 100.0 0 5 5 7 1 0 6 2 4
+p51
+aVJeff Green BOS 04/20/2013 BOS @ NYK L 46 26 8 15 53.3 3 5 60.0 7 7 100.0 2 5 7 2 0 3 6 3 -7
+p52
+aVCourtney Lee BOS 04/20/2013 BOS @ NYK L 20 4 0 2 0.0 0 1 0.0 4 4 100.0 0 2 2 0 1 0 0 1 -9
+p53
+aVAvery Bradley BOS 04/20/2013 BOS @ NYK L 35 15 7 14 50.0 1 2 50.0 0 0 - 1 2 3 4 3 0 4 3 -8
+p54
+a.

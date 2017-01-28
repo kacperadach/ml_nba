@@ -1,0 +1,208 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTim Duncan SAS 05/09/2010 SAS vs. PHX L 36 17 7 14 50.0 0 1 0.0 3 7 42.9 3 5 8 2 2 3 3 5 0
+p2
+aVTony Parker SAS 05/09/2010 SAS vs. PHX L 36 22 10 19 52.6 0 0 - 2 3 66.7 1 4 5 5 0 0 4 2 5
+p3
+aVRichard Jefferson SAS 05/09/2010 SAS vs. PHX L 34 12 4 8 50.0 0 0 - 4 5 80.0 0 8 8 2 1 1 1 3 -10
+p4
+aVDeJuan Blair SAS 05/09/2010 SAS vs. PHX L 7 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -4
+p5
+aVKeith Bogans SAS 05/09/2010 SAS vs. PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p6
+aVMatt Bonner SAS 05/09/2010 SAS vs. PHX L 30 14 5 6 83.3 2 3 66.7 2 2 100.0 1 2 3 0 0 0 3 3 -2
+p7
+aVGeorge Hill SAS 05/09/2010 SAS vs. PHX L 35 17 6 11 54.5 1 1 100.0 4 5 80.0 0 3 3 0 1 0 1 3 -5
+p8
+aVManu Ginobili SAS 05/09/2010 SAS vs. PHX L 38 15 2 11 18.2 1 6 16.7 10 12 83.3 0 6 6 9 5 0 3 1 -10
+p9
+aVAntonio McDyess SAS 05/09/2010 SAS vs. PHX L 19 4 1 2 50.0 0 0 - 2 2 100.0 0 6 6 1 0 0 0 2 2
+p10
+aVRoger Mason Jr. SAS 05/09/2010 SAS vs. PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p11
+aVAntonio McDyess SAS 05/07/2010 SAS vs. PHX L 29 12 6 11 54.5 0 0 - 0 0 - 3 7 10 2 0 2 1 1 -12
+p12
+aVManu Ginobili SAS 05/07/2010 SAS vs. PHX L 37 27 10 17 58.8 4 9 44.4 3 3 100.0 0 1 1 5 3 0 5 2 -7
+p13
+aVRichard Jefferson SAS 05/07/2010 SAS vs. PHX L 29 4 1 9 11.1 0 0 - 2 2 100.0 1 5 6 1 2 1 1 1 -9
+p14
+aVGarrett Temple SAS 05/07/2010 SAS vs. PHX L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 0
+p15
+aVTony Parker SAS 05/07/2010 SAS vs. PHX L 39 10 5 17 29.4 0 0 - 0 4 0.0 4 2 6 5 0 0 2 2 -11
+p16
+aVMatt Bonner SAS 05/07/2010 SAS vs. PHX L 19 11 4 6 66.7 3 4 75.0 0 0 - 1 0 1 1 0 0 1 1 -2
+p17
+aVKeith Bogans SAS 05/07/2010 SAS vs. PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p18
+aVGeorge Hill SAS 05/07/2010 SAS vs. PHX L 37 8 1 7 14.3 0 2 0.0 6 7 85.7 0 0 0 1 0 0 1 2 -15
+p19
+aVDeJuan Blair SAS 05/07/2010 SAS vs. PHX L 11 6 3 3 100.0 0 0 - 0 0 - 1 5 6 0 0 1 0 2 -3
+p20
+aVTim Duncan SAS 05/07/2010 SAS vs. PHX L 37 15 5 9 55.6 0 0 - 5 12 41.7 1 12 13 1 1 3 0 3 -11
+p21
+aVTony Parker SAS 05/05/2010 SAS @ PHX L 36 20 8 14 57.1 2 2 100.0 2 4 50.0 0 3 3 7 0 0 4 1 -7
+p22
+aVRichard Jefferson SAS 05/05/2010 SAS @ PHX L 42 18 8 13 61.5 0 1 0.0 2 4 50.0 0 10 10 3 0 2 2 4 -9
+p23
+aVDeJuan Blair SAS 05/05/2010 SAS @ PHX L 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 3 0 0 3 -2
+p24
+aVGarrett Temple SAS 05/05/2010 SAS @ PHX L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p25
+aVKeith Bogans SAS 05/05/2010 SAS @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 1 0 3 1
+p26
+aVGeorge Hill SAS 05/05/2010 SAS @ PHX L 31 14 5 11 45.5 2 5 40.0 2 2 100.0 0 3 3 1 1 0 1 6 -12
+p27
+aVTim Duncan SAS 05/05/2010 SAS @ PHX L 39 29 12 20 60.0 1 1 100.0 4 6 66.7 6 4 10 3 1 2 1 5 -6
+p28
+aVAntonio McDyess SAS 05/05/2010 SAS @ PHX L 22 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 1 0 0 2 1
+p29
+aVMatt Bonner SAS 05/05/2010 SAS @ PHX L 15 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 1 1 2 1 2 0
+p30
+aVManu Ginobili SAS 05/05/2010 SAS @ PHX L 40 11 2 8 25.0 2 5 40.0 5 6 83.3 0 3 3 11 0 1 3 5 -3
+p31
+aVDeJuan Blair SAS 05/03/2010 SAS @ PHX L 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 1 0 3 -2
+p32
+aVTony Parker SAS 05/03/2010 SAS @ PHX L 36 26 11 21 52.4 0 0 - 4 4 100.0 0 2 2 3 0 0 1 2 4
+p33
+aVGarrett Temple SAS 05/03/2010 SAS @ PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p34
+aVManu Ginobili SAS 05/03/2010 SAS @ PHX L 38 27 9 20 45.0 3 9 33.3 6 7 85.7 2 3 5 5 4 0 3 5 5
+p35
+aVGeorge Hill SAS 05/03/2010 SAS @ PHX L 33 9 2 9 22.2 0 5 0.0 5 6 83.3 0 2 2 1 1 0 1 4 -22
+p36
+aVKeith Bogans SAS 05/03/2010 SAS @ PHX L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 0 3 4
+p37
+aVTim Duncan SAS 05/03/2010 SAS @ PHX L 37 20 8 15 53.3 0 0 - 4 9 44.4 4 7 11 4 1 3 3 3 -6
+p38
+aVAntonio McDyess SAS 05/03/2010 SAS @ PHX L 19 6 3 7 42.9 0 0 - 0 0 - 1 6 7 1 0 0 1 2 -8
+p39
+aVRoger Mason Jr. SAS 05/03/2010 SAS @ PHX L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 3 -2
+p40
+aVRichard Jefferson SAS 05/03/2010 SAS @ PHX L 33 5 1 3 33.3 0 0 - 3 5 60.0 0 3 3 3 1 1 1 0 -11
+p41
+aVMatt Bonner SAS 05/03/2010 SAS @ PHX L 13 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 0 -7
+p42
+aVTim Duncan SAS 04/29/2010 SAS vs. DAL W 43 17 8 17 47.1 0 0 - 1 7 14.3 4 6 10 5 3 3 3 1 2
+p43
+aVManu Ginobili SAS 04/29/2010 SAS vs. DAL W 38 26 7 19 36.8 2 6 33.3 10 12 83.3 0 2 2 5 1 0 1 2 5
+p44
+aVGarrett Temple SAS 04/29/2010 SAS vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p45
+aVIan Mahinmi SAS 04/29/2010 SAS vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p46
+aVTony Parker SAS 04/29/2010 SAS vs. DAL W 35 10 5 12 41.7 0 1 0.0 0 2 0.0 1 6 7 8 2 0 0 2 14
+p47
+aVKeith Bogans SAS 04/29/2010 SAS vs. DAL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p48
+aVAntonio McDyess SAS 04/29/2010 SAS vs. DAL W 25 8 4 6 66.7 0 0 - 0 0 - 2 4 6 0 0 1 0 5 18
+p49
+aVRichard Jefferson SAS 04/29/2010 SAS vs. DAL W 31 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 2 0 0 2 1 -5
+p50
+aVGeorge Hill SAS 04/29/2010 SAS vs. DAL W 42 21 7 12 58.3 2 4 50.0 5 6 83.3 3 3 6 2 1 0 1 1 10
+p51
+aVMatt Bonner SAS 04/29/2010 SAS vs. DAL W 12 4 2 4 50.0 0 1 0.0 0 0 - 1 6 7 1 0 0 1 4 -2
+p52
+aVDeJuan Blair SAS 04/29/2010 SAS vs. DAL W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p53
+aVGeorge Hill SAS 04/27/2010 SAS @ DAL L 29 12 6 11 54.5 0 2 0.0 0 0 - 0 2 2 0 1 0 0 1 -13
+p54
+aVTony Parker SAS 04/27/2010 SAS @ DAL L 26 18 6 15 40.0 0 0 - 6 8 75.0 0 3 3 6 1 0 2 2 3
+p55
+aVRichard Jefferson SAS 04/27/2010 SAS @ DAL L 24 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -15
+p56
+aVGarrett Temple SAS 04/27/2010 SAS @ DAL L 11 1 0 1 0.0 0 1 0.0 1 1 100.0 0 2 2 1 1 0 1 1 -2
+p57
+aVTim Duncan SAS 04/27/2010 SAS @ DAL L 24 11 3 9 33.3 0 0 - 5 6 83.3 2 4 6 0 0 2 1 0 -12
+p58
+aVKeith Bogans SAS 04/27/2010 SAS @ DAL L 12 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 2 1 -4
+p59
+aVDeJuan Blair SAS 04/27/2010 SAS @ DAL L 14 8 2 6 33.3 0 0 - 4 5 80.0 4 4 8 1 0 0 1 4 -5
+p60
+aVMatt Bonner SAS 04/27/2010 SAS @ DAL L 22 6 2 5 40.0 2 5 40.0 0 0 - 0 6 6 0 0 1 0 2 -12
+p61
+aVRoger Mason Jr. SAS 04/27/2010 SAS @ DAL L 28 3 1 6 16.7 1 3 33.3 0 0 - 0 2 2 1 1 0 2 3 -8
+p62
+aVManu Ginobili SAS 04/27/2010 SAS @ DAL L 18 7 2 7 28.6 0 2 0.0 3 4 75.0 1 1 2 1 1 0 4 3 -20
+p63
+aVAntonio McDyess SAS 04/27/2010 SAS @ DAL L 14 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 1 2 1 -17
+p64
+aVIan Mahinmi SAS 04/27/2010 SAS @ DAL L 18 9 3 6 50.0 0 0 - 3 4 75.0 0 2 2 0 0 1 2 3 -5
+p65
+aVDeJuan Blair SAS 04/25/2010 SAS vs. DAL W 12 7 3 4 75.0 0 0 - 1 4 25.0 5 2 7 1 1 1 0 2 1
+p66
+aVTim Duncan SAS 04/25/2010 SAS vs. DAL W 36 4 1 9 11.1 0 0 - 2 4 50.0 2 9 11 3 0 0 2 1 2
+p67
+aVRichard Jefferson SAS 04/25/2010 SAS vs. DAL W 37 15 6 9 66.7 0 1 0.0 3 5 60.0 1 3 4 0 0 1 2 2 4
+p68
+aVAntonio McDyess SAS 04/25/2010 SAS vs. DAL W 35 10 5 9 55.6 0 0 - 0 0 - 1 7 8 3 0 1 2 5 2
+p69
+aVManu Ginobili SAS 04/25/2010 SAS vs. DAL W 34 17 4 16 25.0 1 7 14.3 8 9 88.9 0 4 4 7 4 0 1 4 -12
+p70
+aVKeith Bogans SAS 04/25/2010 SAS vs. DAL W 6 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 3
+p71
+aVTony Parker SAS 04/25/2010 SAS vs. DAL W 27 10 4 9 44.4 0 0 - 2 4 50.0 0 3 3 5 0 0 5 3 7
+p72
+aVGeorge Hill SAS 04/25/2010 SAS vs. DAL W 45 29 11 16 68.8 5 6 83.3 2 2 100.0 0 4 4 0 2 1 0 0 9
+p73
+aVMatt Bonner SAS 04/25/2010 SAS vs. DAL W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -1
+p74
+aVTim Duncan SAS 04/23/2010 SAS vs. DAL W 43 25 11 18 61.1 0 0 - 3 6 50.0 2 3 5 4 0 1 5 2 7
+p75
+aVDeJuan Blair SAS 04/23/2010 SAS vs. DAL W 4 2 1 3 33.3 0 0 - 0 0 - 3 2 5 1 0 0 0 1 -1
+p76
+aVManu Ginobili SAS 04/23/2010 SAS vs. DAL W 36 15 4 12 33.3 0 3 0.0 7 8 87.5 0 5 5 7 3 1 2 4 8
+p77
+aVAntonio McDyess SAS 04/23/2010 SAS vs. DAL W 31 6 3 5 60.0 0 0 - 0 0 - 3 3 6 0 0 1 1 2 -3
+p78
+aVMatt Bonner SAS 04/23/2010 SAS vs. DAL W 15 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 4
+p79
+aVRichard Jefferson SAS 04/23/2010 SAS vs. DAL W 31 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 3 0 0 1 2 11
+p80
+aVTony Parker SAS 04/23/2010 SAS vs. DAL W 33 23 10 16 62.5 0 0 - 3 5 60.0 1 3 4 3 1 0 2 2 -12
+p81
+aVRoger Mason Jr. SAS 04/23/2010 SAS vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p82
+aVGeorge Hill SAS 04/23/2010 SAS vs. DAL W 45 17 6 16 37.5 0 3 0.0 5 5 100.0 2 3 5 1 1 1 0 1 2
+p83
+aVTim Duncan SAS 04/21/2010 SAS @ DAL W 36 25 11 19 57.9 0 0 - 3 7 42.9 5 12 17 2 0 0 0 4 26
+p84
+aVTony Parker SAS 04/21/2010 SAS @ DAL W 33 16 7 16 43.8 0 0 - 2 4 50.0 1 3 4 8 0 0 0 1 0
+p85
+aVRoger Mason Jr. SAS 04/21/2010 SAS @ DAL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p86
+aVDeJuan Blair SAS 04/21/2010 SAS @ DAL W 11 0 0 4 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -8
+p87
+aVGeorge Hill SAS 04/21/2010 SAS @ DAL W 31 7 2 7 28.6 1 1 100.0 2 4 50.0 0 3 3 1 2 0 1 1 6
+p88
+aVManu Ginobili SAS 04/21/2010 SAS @ DAL W 33 23 8 13 61.5 4 6 66.7 3 3 100.0 0 5 5 4 2 0 3 2 13
+p89
+aVGarrett Temple SAS 04/21/2010 SAS @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p90
+aVAntonio McDyess SAS 04/21/2010 SAS @ DAL W 30 4 2 5 40.0 0 0 - 0 0 - 5 4 9 2 0 1 2 3 22
+p91
+aVMatt Bonner SAS 04/21/2010 SAS @ DAL W 20 8 3 6 50.0 2 5 40.0 0 0 - 0 2 2 0 0 0 0 2 -12
+p92
+aVRichard Jefferson SAS 04/21/2010 SAS @ DAL W 41 19 7 12 58.3 1 2 50.0 4 4 100.0 4 3 7 1 1 0 2 1 22
+p93
+aVTim Duncan SAS 04/18/2010 SAS @ DAL L 40 27 12 20 60.0 0 0 - 3 5 60.0 1 7 8 2 0 0 6 3 0
+p94
+aVMatt Bonner SAS 04/18/2010 SAS @ DAL L 19 5 2 6 33.3 1 2 50.0 0 0 - 2 2 4 1 0 0 0 4 7
+p95
+aVRichard Jefferson SAS 04/18/2010 SAS @ DAL L 32 4 1 4 25.0 0 1 0.0 2 2 100.0 0 7 7 2 1 0 2 4 -8
+p96
+aVManu Ginobili SAS 04/18/2010 SAS @ DAL L 40 26 10 17 58.8 3 7 42.9 3 3 100.0 1 3 4 6 3 0 5 2 -1
+p97
+aVAntonio McDyess SAS 04/18/2010 SAS @ DAL L 23 10 5 9 55.6 0 0 - 0 0 - 2 6 8 2 1 0 0 4 -7
+p98
+aVRoger Mason Jr. SAS 04/18/2010 SAS @ DAL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 4 1
+p99
+aVDeJuan Blair SAS 04/18/2010 SAS @ DAL L 8 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -6
+p100
+aVTony Parker SAS 04/18/2010 SAS @ DAL L 34 18 7 15 46.7 0 0 - 4 4 100.0 1 0 1 4 2 0 2 3 3
+p101
+aVGeorge Hill SAS 04/18/2010 SAS @ DAL L 18 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -7
+p102
+aVKeith Bogans SAS 04/18/2010 SAS @ DAL L 16 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p103
+a.

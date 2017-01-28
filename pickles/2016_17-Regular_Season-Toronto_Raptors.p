@@ -1,0 +1,908 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDeMarre Carroll TOR 01/22/2017 TOR vs. PHX L 32 14 4 12 33.3 2 5 40.0 4 4 100.0 1 3 4 0 2 1 2 1 0
+p2
+aVNorman Powell TOR 01/22/2017 TOR vs. PHX L 6 4 1 2 50.0 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 1 -4
+p3
+aVKyle Lowry TOR 01/22/2017 TOR vs. PHX L 37 15 5 17 29.4 1 9 11.1 4 5 80.0 0 4 4 6 1 0 2 4 -8
+p4
+aVLucas Nogueira TOR 01/22/2017 TOR vs. PHX L 35 13 5 5 100.0 1 1 100.0 2 2 100.0 0 5 5 1 1 2 1 5 -9
+p5
+aVTerrence Ross TOR 01/22/2017 TOR vs. PHX L 25 7 2 9 22.2 1 6 16.7 2 2 100.0 1 1 2 2 0 1 0 1 -9
+p6
+aVJared Sullinger TOR 01/22/2017 TOR vs. PHX L 12 9 3 6 50.0 1 2 50.0 2 2 100.0 0 3 3 0 2 0 0 0 -4
+p7
+aVJonas Valanciunas TOR 01/22/2017 TOR vs. PHX L 31 16 6 10 60.0 0 0 - 4 5 80.0 4 8 12 2 1 3 1 3 -1
+p8
+aVCory Joseph TOR 01/22/2017 TOR vs. PHX L 25 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 3 1 0 1 3 -14
+p9
+aVDeMar DeRozan TOR 01/22/2017 TOR vs. PHX L 37 22 6 17 35.3 0 1 0.0 10 11 90.9 1 2 3 4 1 1 2 2 -11
+p10
+aVKyle Lowry TOR 01/20/2017 TOR @ CHA L 34 24 7 18 38.9 3 10 30.0 7 7 100.0 0 1 1 3 1 0 1 3 -22
+p11
+aVTerrence Ross TOR 01/20/2017 TOR @ CHA L 27 5 2 9 22.2 1 4 25.0 0 0 - 0 4 4 1 2 0 0 1 -16
+p12
+aVDeMarre Carroll TOR 01/20/2017 TOR @ CHA L 26 2 1 7 14.3 0 2 0.0 0 0 - 1 0 1 0 1 1 0 1 -20
+p13
+aVPascal Siakam TOR 01/20/2017 TOR @ CHA L 19 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 2 1 0 1 -13
+p14
+aVNorman Powell TOR 01/20/2017 TOR @ CHA L 26 4 2 9 22.2 0 4 0.0 0 0 - 0 4 4 0 0 0 1 0 -26
+p15
+aVCory Joseph TOR 01/20/2017 TOR @ CHA L 21 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 5 -13
+p16
+aVFred VanVleet TOR 01/20/2017 TOR @ CHA L 5 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 0 0 0 0 0 -3
+p17
+aVDeMar DeRozan TOR 01/20/2017 TOR @ CHA L 31 23 8 17 47.1 2 3 66.7 5 6 83.3 0 3 3 2 0 0 4 0 -29
+p18
+aVJonas Valanciunas TOR 01/20/2017 TOR @ CHA L 25 11 5 8 62.5 0 0 - 1 1 100.0 3 3 6 1 1 1 2 3 -10
+p19
+aVJakob Poeltl TOR 01/20/2017 TOR @ CHA L 9 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 1 3 -12
+p20
+aVJared Sullinger TOR 01/20/2017 TOR @ CHA L 17 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 0 0 2 1 3 -11
+p21
+aVJakob Poeltl TOR 01/18/2017 TOR @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p22
+aVCory Joseph TOR 01/18/2017 TOR @ PHI L 26 5 2 5 40.0 0 1 0.0 1 2 50.0 0 2 2 3 1 0 0 2 -1
+p23
+aVKyle Lowry TOR 01/18/2017 TOR @ PHI L 40 24 5 13 38.5 3 8 37.5 11 16 68.8 3 1 4 4 5 1 5 6 -3
+p24
+aVNorman Powell TOR 01/18/2017 TOR @ PHI L 18 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 0 1 1 0 3 -2
+p25
+aVDeMar DeRozan TOR 01/18/2017 TOR @ PHI L 38 25 11 21 52.4 0 0 - 3 4 75.0 1 2 3 6 1 0 2 1 -6
+p26
+aVDeMarre Carroll TOR 01/18/2017 TOR @ PHI L 23 0 0 6 0.0 0 4 0.0 0 0 - 0 2 2 2 2 0 0 2 -3
+p27
+aVJared Sullinger TOR 01/18/2017 TOR @ PHI L 14 8 4 10 40.0 0 2 0.0 0 1 0.0 1 2 3 0 0 0 0 3 -3
+p28
+aVJonas Valanciunas TOR 01/18/2017 TOR @ PHI L 30 10 5 11 45.5 0 0 - 0 0 - 6 10 16 1 0 0 0 3 1
+p29
+aVPascal Siakam TOR 01/18/2017 TOR @ PHI L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -8
+p30
+aVFred VanVleet TOR 01/18/2017 TOR @ PHI L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -2
+p31
+aVTerrence Ross TOR 01/18/2017 TOR @ PHI L 31 8 3 10 30.0 2 7 28.6 0 0 - 0 6 6 0 0 0 1 1 5
+p32
+aVPascal Siakam TOR 01/17/2017 TOR @ BKN W 15 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 1 3 0 0 14
+p33
+aVDeMar DeRozan TOR 01/17/2017 TOR @ BKN W 37 36 13 28 46.4 0 0 - 10 10 100.0 2 9 11 6 1 0 3 2 5
+p34
+aVJonas Valanciunas TOR 01/17/2017 TOR @ BKN W 29 7 3 7 42.9 0 0 - 1 2 50.0 1 9 10 0 1 0 2 3 1
+p35
+aVDeMarre Carroll TOR 01/17/2017 TOR @ BKN W 26 9 3 8 37.5 3 4 75.0 0 0 - 2 1 3 1 2 0 0 5 2
+p36
+aVJakob Poeltl TOR 01/17/2017 TOR @ BKN W 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 1 1 2 5
+p37
+aVTerrence Ross TOR 01/17/2017 TOR @ BKN W 30 15 6 11 54.5 3 7 42.9 0 0 - 0 4 4 2 1 2 1 0 2
+p38
+aVFred VanVleet TOR 01/17/2017 TOR @ BKN W 25 10 4 6 66.7 2 3 66.7 0 2 0.0 0 4 4 2 2 0 0 4 4
+p39
+aVLucas Nogueira TOR 01/17/2017 TOR @ BKN W 7 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 1 3
+p40
+aVNorman Powell TOR 01/17/2017 TOR @ BKN W 18 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -2
+p41
+aVCory Joseph TOR 01/17/2017 TOR @ BKN W 37 33 15 22 68.2 1 4 25.0 2 2 100.0 2 2 4 4 0 0 1 0 16
+p42
+aVDeMar DeRozan TOR 01/15/2017 TOR vs. NYK W 28 23 8 17 47.1 0 0 - 7 7 100.0 0 5 5 5 0 0 2 2 24
+p43
+aVFred VanVleet TOR 01/15/2017 TOR vs. NYK W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p44
+aVKyle Lowry TOR 01/15/2017 TOR vs. NYK W 28 16 6 10 60.0 2 5 40.0 2 3 66.7 0 4 4 9 1 1 1 1 35
+p45
+aVBruno Caboclo TOR 01/15/2017 TOR vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p46
+aVNorman Powell TOR 01/15/2017 TOR vs. NYK W 24 21 7 13 53.8 1 3 33.3 6 6 100.0 1 0 1 0 1 0 2 2 -10
+p47
+aVLucas Nogueira TOR 01/15/2017 TOR vs. NYK W 35 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 1 3 1 0 2 32
+p48
+aVJonas Valanciunas TOR 01/15/2017 TOR vs. NYK W 28 12 6 11 54.5 0 0 - 0 0 - 5 11 16 1 0 0 2 3 20
+p49
+aVCory Joseph TOR 01/15/2017 TOR vs. NYK W 25 4 2 9 22.2 0 1 0.0 0 0 - 0 4 4 4 1 0 2 1 -13
+p50
+aVTerrence Ross TOR 01/15/2017 TOR vs. NYK W 23 12 4 7 57.1 4 6 66.7 0 0 - 0 2 2 1 0 0 0 1 1
+p51
+aVDeMarre Carroll TOR 01/15/2017 TOR vs. NYK W 27 20 7 13 53.8 1 6 16.7 5 5 100.0 1 1 2 0 2 1 0 1 29
+p52
+aVJakob Poeltl TOR 01/15/2017 TOR vs. NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 5 -14
+p53
+aVPascal Siakam TOR 01/15/2017 TOR vs. NYK W 13 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 1 1 0 2 -21
+p54
+aVTerrence Ross TOR 01/13/2017 TOR vs. BKN W 31 12 5 11 45.5 2 6 33.3 0 0 - 0 2 2 1 0 0 0 1 25
+p55
+aVDeMarre Carroll TOR 01/13/2017 TOR vs. BKN W 29 18 7 16 43.8 3 10 30.0 1 1 100.0 1 10 11 0 0 0 0 2 14
+p56
+aVPascal Siakam TOR 01/13/2017 TOR vs. BKN W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 1 3 2
+p57
+aVCory Joseph TOR 01/13/2017 TOR vs. BKN W 22 16 7 7 100.0 1 1 100.0 1 1 100.0 1 3 4 7 2 0 1 1 21
+p58
+aVLucas Nogueira TOR 01/13/2017 TOR vs. BKN W 30 10 5 5 100.0 0 0 - 0 1 0.0 2 7 9 2 0 4 2 2 13
+p59
+aVKyle Lowry TOR 01/13/2017 TOR vs. BKN W 36 20 8 14 57.1 3 7 42.9 1 2 50.0 2 4 6 6 2 2 3 1 20
+p60
+aVNorman Powell TOR 01/13/2017 TOR vs. BKN W 13 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 1 0 1 1 2
+p61
+aVJonas Valanciunas TOR 01/13/2017 TOR vs. BKN W 25 14 4 9 44.4 0 0 - 6 6 100.0 3 7 10 1 1 1 0 2 5
+p62
+aVBruno Caboclo TOR 01/13/2017 TOR vs. BKN W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p63
+aVDeMar DeRozan TOR 01/13/2017 TOR vs. BKN W 30 28 11 22 50.0 0 1 0.0 6 8 75.0 2 2 4 2 0 0 0 1 1
+p64
+aVFred VanVleet TOR 01/13/2017 TOR vs. BKN W 3 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p65
+aVJakob Poeltl TOR 01/13/2017 TOR vs. BKN W 8 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 3 -5
+p66
+aVJonas Valanciunas TOR 01/10/2017 TOR vs. BOS W 28 18 6 18 33.3 0 0 - 6 6 100.0 11 12 23 0 0 2 3 4 17
+p67
+aVTerrence Ross TOR 01/10/2017 TOR vs. BOS W 21 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 1 3 0 1 0 -12
+p68
+aVPatrick Patterson TOR 01/10/2017 TOR vs. BOS W 21 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 1 1 4 -3
+p69
+aVLucas Nogueira TOR 01/10/2017 TOR vs. BOS W 21 7 3 4 75.0 0 1 0.0 1 2 50.0 2 1 3 2 1 2 2 2 -1
+p70
+aVJakob Poeltl TOR 01/10/2017 TOR vs. BOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p71
+aVCory Joseph TOR 01/10/2017 TOR vs. BOS W 24 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 2 0 0 0 3 6
+p72
+aVDeMar DeRozan TOR 01/10/2017 TOR vs. BOS W 38 41 16 29 55.2 1 2 50.0 8 9 88.9 2 11 13 0 2 0 1 1 19
+p73
+aVKyle Lowry TOR 01/10/2017 TOR vs. BOS W 42 24 7 12 58.3 5 6 83.3 5 8 62.5 1 3 4 9 2 1 4 3 7
+p74
+aVNorman Powell TOR 01/10/2017 TOR vs. BOS W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p75
+aVDeMarre Carroll TOR 01/10/2017 TOR vs. BOS W 35 11 4 10 40.0 3 6 50.0 0 0 - 1 3 4 2 1 1 3 3 19
+p76
+aVCory Joseph TOR 01/08/2017 TOR vs. HOU L 23 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 2 -21
+p77
+aVDeMarre Carroll TOR 01/08/2017 TOR vs. HOU L 34 26 7 12 58.3 6 10 60.0 6 6 100.0 0 8 8 0 1 0 1 1 8
+p78
+aVTerrence Ross TOR 01/08/2017 TOR vs. HOU L 25 8 4 12 33.3 0 5 0.0 0 0 - 0 2 2 1 1 0 1 2 -24
+p79
+aVLucas Nogueira TOR 01/08/2017 TOR vs. HOU L 13 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 1 1 0 2 -8
+p80
+aVDeMar DeRozan TOR 01/08/2017 TOR vs. HOU L 39 36 13 21 61.9 0 0 - 10 10 100.0 0 6 6 5 0 1 6 4 8
+p81
+aVPatrick Patterson TOR 01/08/2017 TOR vs. HOU L 22 8 3 5 60.0 2 2 100.0 0 0 - 3 4 7 2 0 0 1 6 -6
+p82
+aVNorman Powell TOR 01/08/2017 TOR vs. HOU L 22 10 3 7 42.9 2 5 40.0 2 2 100.0 0 1 1 3 0 0 3 2 15
+p83
+aVJonas Valanciunas TOR 01/08/2017 TOR vs. HOU L 23 8 4 4 100.0 0 0 - 0 0 - 0 5 5 0 0 1 1 3 -3
+p84
+aVKyle Lowry TOR 01/08/2017 TOR vs. HOU L 40 12 2 7 28.6 1 3 33.3 7 10 70.0 0 5 5 6 4 0 3 3 -4
+p85
+aVDeMar DeRozan TOR 01/07/2017 TOR @ CHI L 43 36 10 23 43.5 0 1 0.0 16 17 94.1 1 7 8 2 2 1 2 3 -4
+p86
+aVTerrence Ross TOR 01/07/2017 TOR @ CHI L 25 7 3 10 30.0 1 7 14.3 0 0 - 0 3 3 1 2 0 0 3 -6
+p87
+aVDeMarre Carroll TOR 01/07/2017 TOR @ CHI L 41 9 3 8 37.5 2 7 28.6 1 2 50.0 0 2 2 2 1 0 0 5 -9
+p88
+aVCory Joseph TOR 01/07/2017 TOR @ CHI L 23 14 5 6 83.3 3 3 100.0 1 1 100.0 0 3 3 1 1 0 2 1 -5
+p89
+aVJonas Valanciunas TOR 01/07/2017 TOR @ CHI L 33 14 7 11 63.6 0 0 - 0 0 - 1 6 7 0 0 2 1 5 0
+p90
+aVLucas Nogueira TOR 01/07/2017 TOR @ CHI L 42 9 2 5 40.0 0 1 0.0 5 7 71.4 2 6 8 1 2 1 2 2 -7
+p91
+aVNorman Powell TOR 01/07/2017 TOR @ CHI L 12 2 0 5 0.0 0 3 0.0 2 2 100.0 0 0 0 1 0 0 0 0 4
+p92
+aVKyle Lowry TOR 01/07/2017 TOR @ CHI L 44 27 7 17 41.2 2 9 22.2 11 14 78.6 2 7 9 12 3 1 3 3 -3
+p93
+aVJakob Poeltl TOR 01/07/2017 TOR @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p94
+aVJonas Valanciunas TOR 01/05/2017 TOR vs. UTA W 31 18 7 11 63.6 0 0 - 4 4 100.0 8 5 13 0 0 0 0 3 7
+p95
+aVDeMarre Carroll TOR 01/05/2017 TOR vs. UTA W 39 8 3 6 50.0 2 4 50.0 0 0 - 1 3 4 0 2 0 0 3 18
+p96
+aVCory Joseph TOR 01/05/2017 TOR vs. UTA W 18 3 1 8 12.5 0 0 - 1 1 100.0 2 1 3 3 2 0 0 2 -1
+p97
+aVKyle Lowry TOR 01/05/2017 TOR vs. UTA W 41 33 10 17 58.8 4 8 50.0 9 11 81.8 1 5 6 5 3 0 2 2 9
+p98
+aVTerrence Ross TOR 01/05/2017 TOR vs. UTA W 30 12 5 12 41.7 2 8 25.0 0 0 - 0 0 0 1 0 2 0 2 8
+p99
+aVDeMar DeRozan TOR 01/05/2017 TOR vs. UTA W 37 23 8 26 30.8 0 1 0.0 7 10 70.0 2 5 7 2 2 1 1 2 8
+p100
+aVPascal Siakam TOR 01/05/2017 TOR vs. UTA W 4 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -5
+p101
+aVNorman Powell TOR 01/05/2017 TOR vs. UTA W 8 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p102
+aVJakob Poeltl TOR 01/05/2017 TOR vs. UTA W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -5
+p103
+aVLucas Nogueira TOR 01/05/2017 TOR vs. UTA W 26 4 2 5 40.0 0 0 - 0 2 0.0 5 1 6 3 1 2 1 4 4
+p104
+aVJakob Poeltl TOR 01/03/2017 TOR @ SAS L 26 4 1 4 25.0 0 0 - 2 4 50.0 6 3 9 0 2 0 2 2 -8
+p105
+aVLucas Nogueira TOR 01/03/2017 TOR @ SAS L 22 0 0 5 0.0 0 1 0.0 0 0 - 1 2 3 0 1 3 1 4 -11
+p106
+aVPascal Siakam TOR 01/03/2017 TOR @ SAS L 26 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -17
+p107
+aVBruno Caboclo TOR 01/03/2017 TOR @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p108
+aVKyle Lowry TOR 01/03/2017 TOR @ SAS L 29 6 2 9 22.2 0 7 0.0 2 2 100.0 0 4 4 2 0 0 1 3 -30
+p109
+aVCory Joseph TOR 01/03/2017 TOR @ SAS L 24 11 3 11 27.3 1 2 50.0 4 5 80.0 0 3 3 3 1 0 1 0 2
+p110
+aVDeMar DeRozan TOR 01/03/2017 TOR @ SAS L 32 26 12 21 57.1 0 0 - 2 3 66.7 1 3 4 2 0 0 3 2 -30
+p111
+aVFred VanVleet TOR 01/03/2017 TOR @ SAS L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p112
+aVTerrence Ross TOR 01/03/2017 TOR @ SAS L 25 17 7 11 63.6 2 4 50.0 1 2 50.0 0 5 5 0 1 0 1 0 -4
+p113
+aVJonas Valanciunas TOR 01/03/2017 TOR @ SAS L 22 2 1 5 20.0 0 0 - 0 0 - 1 5 6 0 0 0 1 2 -20
+p114
+aVNorman Powell TOR 01/03/2017 TOR @ SAS L 8 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 0 4
+p115
+aVDeMarre Carroll TOR 01/03/2017 TOR @ SAS L 19 10 3 7 42.9 1 3 33.3 3 4 75.0 4 1 5 0 2 0 1 2 -20
+p116
+aVTerrence Ross TOR 01/01/2017 TOR @ LAL W 24 11 4 9 44.4 3 6 50.0 0 0 - 0 5 5 0 0 0 1 2 12
+p117
+aVJonas Valanciunas TOR 01/01/2017 TOR @ LAL W 31 14 6 7 85.7 0 0 - 2 2 100.0 1 8 9 0 2 0 3 3 1
+p118
+aVPascal Siakam TOR 01/01/2017 TOR @ LAL W 31 3 1 4 25.0 0 0 - 1 2 50.0 1 9 10 0 0 4 2 5 -2
+p119
+aVDeMar DeRozan TOR 01/01/2017 TOR @ LAL W 35 31 10 25 40.0 0 0 - 11 13 84.6 0 1 1 3 1 1 1 3 -9
+p120
+aVNorman Powell TOR 01/01/2017 TOR @ LAL W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 2 0 0 0 2
+p121
+aVJakob Poeltl TOR 01/01/2017 TOR @ LAL W 9 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 15
+p122
+aVDeMarre Carroll TOR 01/01/2017 TOR @ LAL W 17 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 1 2 4 -6
+p123
+aVLucas Nogueira TOR 01/01/2017 TOR @ LAL W 20 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 2 0 2 12
+p124
+aVKyle Lowry TOR 01/01/2017 TOR @ LAL W 39 41 12 16 75.0 6 7 85.7 11 11 100.0 1 8 9 7 0 0 4 3 12
+p125
+aVCory Joseph TOR 01/01/2017 TOR @ LAL W 27 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 7 0 1 3 1 8
+p126
+aVKyle Lowry TOR 12/29/2016 TOR @ PHX L 38 24 7 15 46.7 3 9 33.3 7 9 77.8 0 5 5 5 2 1 4 4 -9
+p127
+aVNorman Powell TOR 12/29/2016 TOR @ PHX L 22 7 2 7 28.6 1 2 50.0 2 2 100.0 0 5 5 1 1 1 2 2 -5
+p128
+aVPascal Siakam TOR 12/29/2016 TOR @ PHX L 22 4 2 5 40.0 0 0 - 0 0 - 3 2 5 0 2 0 0 5 -14
+p129
+aVJonas Valanciunas TOR 12/29/2016 TOR @ PHX L 19 8 2 4 50.0 0 0 - 4 4 100.0 3 7 10 0 1 0 3 3 -9
+p130
+aVDeMarre Carroll TOR 12/29/2016 TOR @ PHX L 19 2 0 2 0.0 0 2 0.0 2 2 100.0 1 3 4 0 1 0 1 0 -5
+p131
+aVDeMar DeRozan TOR 12/29/2016 TOR @ PHX L 35 24 8 18 44.4 0 3 0.0 8 10 80.0 0 3 3 2 0 0 2 2 -10
+p132
+aVPatrick Patterson TOR 12/29/2016 TOR @ PHX L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p133
+aVCory Joseph TOR 12/29/2016 TOR @ PHX L 25 15 6 10 60.0 2 2 100.0 1 2 50.0 1 5 6 1 0 0 3 3 7
+p134
+aVTerrence Ross TOR 12/29/2016 TOR @ PHX L 30 7 3 11 27.3 1 7 14.3 0 0 - 0 4 4 1 4 1 1 2 5
+p135
+aVLucas Nogueira TOR 12/29/2016 TOR @ PHX L 22 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 2 2 3 -3
+p136
+aVPatrick Patterson TOR 12/28/2016 TOR @ GSW L 33 5 2 9 22.2 1 5 20.0 0 0 - 1 4 5 0 1 1 2 1 -8
+p137
+aVCory Joseph TOR 12/28/2016 TOR @ GSW L 17 4 1 5 20.0 0 1 0.0 2 2 100.0 3 1 4 4 1 0 1 2 -9
+p138
+aVLucas Nogueira TOR 12/28/2016 TOR @ GSW L 17 0 0 1 0.0 0 1 0.0 0 0 - 3 2 5 1 1 1 0 2 2
+p139
+aVTerrence Ross TOR 12/28/2016 TOR @ GSW L 34 24 10 23 43.5 4 9 44.4 0 0 - 3 4 7 1 2 0 0 4 8
+p140
+aVDeMarre Carroll TOR 12/28/2016 TOR @ GSW L 28 13 5 12 41.7 3 5 60.0 0 0 - 3 4 7 1 3 2 1 1 -10
+p141
+aVPascal Siakam TOR 12/28/2016 TOR @ GSW L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -15
+p142
+aVDeMar DeRozan TOR 12/28/2016 TOR @ GSW L 39 29 10 23 43.5 0 1 0.0 9 10 90.0 1 4 5 6 3 1 0 2 -15
+p143
+aVKyle Lowry TOR 12/28/2016 TOR @ GSW L 40 27 9 22 40.9 5 12 41.7 4 5 80.0 2 4 6 11 2 0 3 3 4
+p144
+aVJonas Valanciunas TOR 12/28/2016 TOR @ GSW L 21 7 2 5 40.0 0 0 - 3 3 100.0 2 3 5 0 0 1 0 3 -13
+p145
+aVNorman Powell TOR 12/28/2016 TOR @ GSW L 7 2 1 2 50.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 0 0 6
+p146
+aVCory Joseph TOR 12/26/2016 TOR @ POR W 23 6 2 11 18.2 0 1 0.0 2 2 100.0 0 2 2 1 1 0 0 1 3
+p147
+aVPascal Siakam TOR 12/26/2016 TOR @ POR W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p148
+aVDeMarre Carroll TOR 12/26/2016 TOR @ POR W 27 6 2 7 28.6 2 5 40.0 0 0 - 1 1 2 1 0 0 1 0 -11
+p149
+aVJonas Valanciunas TOR 12/26/2016 TOR @ POR W 27 12 5 13 38.5 0 0 - 2 2 100.0 3 10 13 1 1 1 0 2 -1
+p150
+aVKyle Lowry TOR 12/26/2016 TOR @ POR W 40 27 8 18 44.4 5 13 38.5 6 7 85.7 1 5 6 4 2 0 3 4 -8
+p151
+aVTerrence Ross TOR 12/26/2016 TOR @ POR W 15 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 0 4 1 2 1 2
+p152
+aVNorman Powell TOR 12/26/2016 TOR @ POR W 11 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 0 9
+p153
+aVPatrick Patterson TOR 12/26/2016 TOR @ POR W 31 15 5 12 41.7 5 11 45.5 0 0 - 3 5 8 0 0 0 1 1 12
+p154
+aVLucas Nogueira TOR 12/26/2016 TOR @ POR W 21 4 0 1 0.0 0 0 - 4 4 100.0 1 7 8 2 0 2 1 2 5
+p155
+aVDeMar DeRozan TOR 12/26/2016 TOR @ POR W 37 20 8 22 36.4 0 1 0.0 4 7 57.1 5 5 10 7 3 0 3 1 12
+p156
+aVPatrick Patterson TOR 12/23/2016 TOR @ UTA W 33 3 1 2 50.0 1 2 50.0 0 0 - 2 2 4 1 0 1 1 0 7
+p157
+aVPascal Siakam TOR 12/23/2016 TOR @ UTA W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p158
+aVJonas Valanciunas TOR 12/23/2016 TOR @ UTA W 16 14 5 5 100.0 0 0 - 4 6 66.7 0 7 7 0 1 1 0 4 7
+p159
+aVDeMar DeRozan TOR 12/23/2016 TOR @ UTA W 37 24 10 24 41.7 0 1 0.0 4 6 66.7 1 5 6 1 4 0 2 3 -11
+p160
+aVNorman Powell TOR 12/23/2016 TOR @ UTA W 19 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 1 0 3 3
+p161
+aVTerrence Ross TOR 12/23/2016 TOR @ UTA W 20 10 4 7 57.1 2 4 50.0 0 0 - 0 1 1 1 0 0 0 1 1
+p162
+aVLucas Nogueira TOR 12/23/2016 TOR @ UTA W 32 9 4 5 80.0 1 1 100.0 0 0 - 2 4 6 1 2 1 1 2 -1
+p163
+aVCory Joseph TOR 12/23/2016 TOR @ UTA W 20 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 -9
+p164
+aVDeMarre Carroll TOR 12/23/2016 TOR @ UTA W 24 2 1 6 16.7 0 3 0.0 0 0 - 0 4 4 0 2 0 2 2 11
+p165
+aVKyle Lowry TOR 12/23/2016 TOR @ UTA W 33 36 15 20 75.0 4 8 50.0 2 3 66.7 0 4 4 5 2 0 4 2 21
+p166
+aVPascal Siakam TOR 12/20/2016 TOR vs. BKN W 28 9 3 3 100.0 0 0 - 3 4 75.0 0 3 3 2 0 2 3 3 9
+p167
+aVDeMar DeRozan TOR 12/20/2016 TOR vs. BKN W 29 15 6 20 30.0 0 2 0.0 3 4 75.0 0 1 1 2 1 0 1 2 18
+p168
+aVCory Joseph TOR 12/20/2016 TOR vs. BKN W 26 11 4 11 36.4 1 1 100.0 2 3 66.7 1 6 7 4 0 0 3 0 1
+p169
+aVKyle Lowry TOR 12/20/2016 TOR vs. BKN W 34 23 8 12 66.7 3 5 60.0 4 5 80.0 1 3 4 8 3 1 3 2 9
+p170
+aVTerrence Ross TOR 12/20/2016 TOR vs. BKN W 23 4 2 7 28.6 0 2 0.0 0 0 - 1 3 4 1 1 1 0 2 -3
+p171
+aVFred VanVleet TOR 12/20/2016 TOR vs. BKN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p172
+aVJonas Valanciunas TOR 12/20/2016 TOR vs. BKN W 22 10 3 8 37.5 0 0 - 4 4 100.0 3 11 14 0 0 1 0 1 17
+p173
+aVBruno Caboclo TOR 12/20/2016 TOR vs. BKN W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p174
+aVJakob Poeltl TOR 12/20/2016 TOR vs. BKN W 5 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -5
+p175
+aVNorman Powell TOR 12/20/2016 TOR vs. BKN W 27 21 7 13 53.8 1 2 50.0 6 7 85.7 0 3 3 1 5 0 1 3 -1
+p176
+aVLucas Nogueira TOR 12/20/2016 TOR vs. BKN W 22 6 2 3 66.7 0 0 - 2 2 100.0 3 3 6 1 1 4 0 5 4
+p177
+aVDeMarre Carroll TOR 12/20/2016 TOR vs. BKN W 22 17 7 11 63.6 3 6 50.0 0 0 - 1 2 3 0 2 0 2 2 17
+p178
+aVLucas Nogueira TOR 12/18/2016 TOR @ ORL W 17 6 3 4 75.0 0 0 - 0 0 - 0 5 5 1 0 1 0 1 17
+p179
+aVJakob Poeltl TOR 12/18/2016 TOR @ ORL W 5 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 1 0 0 0 -3
+p180
+aVDeMar DeRozan TOR 12/18/2016 TOR @ ORL W 30 31 13 21 61.9 1 3 33.3 4 4 100.0 0 5 5 4 1 0 3 2 14
+p181
+aVPatrick Patterson TOR 12/18/2016 TOR @ ORL W 20 3 1 4 25.0 1 3 33.3 0 0 - 0 4 4 1 2 0 0 1 14
+p182
+aVFred VanVleet TOR 12/18/2016 TOR @ ORL W 23 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 4 3 0 0 3 19
+p183
+aVNorman Powell TOR 12/18/2016 TOR @ ORL W 8 8 4 6 66.7 0 2 0.0 0 0 - 0 1 1 0 1 0 1 0 3
+p184
+aVPascal Siakam TOR 12/18/2016 TOR @ ORL W 28 6 2 4 50.0 0 1 0.0 2 2 100.0 3 4 7 0 0 4 2 4 16
+p185
+aVDeMarre Carroll TOR 12/18/2016 TOR @ ORL W 21 8 3 4 75.0 0 1 0.0 2 5 40.0 0 3 3 0 0 0 0 2 8
+p186
+aVTerrence Ross TOR 12/18/2016 TOR @ ORL W 23 11 4 13 30.8 3 8 37.5 0 0 - 0 2 2 0 1 1 0 1 25
+p187
+aVBruno Caboclo TOR 12/18/2016 TOR @ ORL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p188
+aVJonas Valanciunas TOR 12/18/2016 TOR @ ORL W 26 16 8 15 53.3 0 0 - 0 0 - 6 7 13 0 0 1 0 1 16
+p189
+aVKyle Lowry TOR 12/18/2016 TOR @ ORL W 35 16 3 9 33.3 2 7 28.6 8 8 100.0 0 3 3 10 1 0 4 1 24
+p190
+aVDeMarre Carroll TOR 12/16/2016 TOR vs. ATL L 23 4 0 4 0.0 0 3 0.0 4 5 80.0 0 0 0 1 1 0 0 3 -6
+p191
+aVDeMar DeRozan TOR 12/16/2016 TOR vs. ATL L 37 34 15 26 57.7 0 0 - 4 6 66.7 0 5 5 4 2 1 3 3 -8
+p192
+aVKyle Lowry TOR 12/16/2016 TOR vs. ATL L 37 27 9 16 56.3 6 8 75.0 3 6 50.0 0 2 2 6 0 0 3 5 17
+p193
+aVPascal Siakam TOR 12/16/2016 TOR vs. ATL L 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 3 0 1 -9
+p194
+aVLucas Nogueira TOR 12/16/2016 TOR vs. ATL L 14 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 1 0 1 0 4 -13
+p195
+aVTerrence Ross TOR 12/16/2016 TOR vs. ATL L 22 10 4 7 57.1 1 4 25.0 1 1 100.0 0 1 1 0 0 0 0 1 -6
+p196
+aVNorman Powell TOR 12/16/2016 TOR vs. ATL L 12 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -8
+p197
+aVPatrick Patterson TOR 12/16/2016 TOR vs. ATL L 35 10 4 8 50.0 2 4 50.0 0 0 - 3 2 5 2 2 0 0 3 18
+p198
+aVCory Joseph TOR 12/16/2016 TOR vs. ATL L 27 17 7 12 58.3 1 1 100.0 2 2 100.0 2 2 4 4 0 0 0 2 -8
+p199
+aVJonas Valanciunas TOR 12/16/2016 TOR vs. ATL L 26 11 5 5 100.0 0 0 - 1 2 50.0 1 5 6 2 2 0 3 4 3
+p200
+aVNorman Powell TOR 12/14/2016 TOR @ PHI W 21 6 2 5 40.0 0 2 0.0 2 3 66.7 0 0 0 0 2 2 0 3 11
+p201
+aVPatrick Patterson TOR 12/14/2016 TOR @ PHI W 28 9 3 6 50.0 2 4 50.0 1 2 50.0 2 3 5 1 0 0 0 1 16
+p202
+aVCory Joseph TOR 12/14/2016 TOR @ PHI W 29 13 5 9 55.6 0 1 0.0 3 4 75.0 1 4 5 7 1 0 1 1 -4
+p203
+aVDeMarre Carroll TOR 12/14/2016 TOR @ PHI W 20 10 3 9 33.3 2 6 33.3 2 2 100.0 2 1 3 1 1 0 1 0 12
+p204
+aVDeMar DeRozan TOR 12/14/2016 TOR @ PHI W 30 31 11 18 61.1 0 1 0.0 9 11 81.8 2 3 5 3 0 0 2 1 17
+p205
+aVKyle Lowry TOR 12/14/2016 TOR @ PHI W 37 20 6 12 50.0 5 10 50.0 3 3 100.0 1 3 4 7 0 0 0 2 5
+p206
+aVTerrence Ross TOR 12/14/2016 TOR @ PHI W 19 13 3 8 37.5 1 5 20.0 6 6 100.0 0 2 2 0 1 0 0 1 5
+p207
+aVJonas Valanciunas TOR 12/14/2016 TOR @ PHI W 34 17 6 11 54.5 0 0 - 5 5 100.0 4 6 10 1 2 1 3 4 2
+p208
+aVPascal Siakam TOR 12/14/2016 TOR @ PHI W 15 4 2 8 25.0 0 0 - 0 0 - 3 2 5 1 2 0 2 4 -12
+p209
+aVJakob Poeltl TOR 12/14/2016 TOR @ PHI W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -7
+p210
+aVPatrick Patterson TOR 12/12/2016 TOR vs. MIL W 25 5 2 2 100.0 1 1 100.0 0 0 - 1 3 4 3 0 0 2 2 18
+p211
+aVJakob Poeltl TOR 12/12/2016 TOR vs. MIL W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p212
+aVTerrence Ross TOR 12/12/2016 TOR vs. MIL W 21 25 10 17 58.8 4 6 66.7 1 3 33.3 0 5 5 0 2 0 0 0 17
+p213
+aVKyle Lowry TOR 12/12/2016 TOR vs. MIL W 34 18 5 9 55.6 4 7 57.1 4 4 100.0 0 3 3 7 1 0 5 3 29
+p214
+aVFred VanVleet TOR 12/12/2016 TOR vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p215
+aVNorman Powell TOR 12/12/2016 TOR vs. MIL W 8 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p216
+aVJonas Valanciunas TOR 12/12/2016 TOR vs. MIL W 23 11 4 9 44.4 0 0 - 3 4 75.0 4 8 12 1 0 0 1 3 0
+p217
+aVDeMarre Carroll TOR 12/12/2016 TOR vs. MIL W 29 13 5 12 41.7 3 7 42.9 0 0 - 2 4 6 2 1 0 0 3 -1
+p218
+aVPascal Siakam TOR 12/12/2016 TOR vs. MIL W 16 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 1 0 1 0 4 8
+p219
+aVDeMar DeRozan TOR 12/12/2016 TOR vs. MIL W 32 30 7 11 63.6 1 1 100.0 15 15 100.0 1 2 3 3 0 0 2 0 -2
+p220
+aVCory Joseph TOR 12/12/2016 TOR vs. MIL W 27 6 3 8 37.5 0 1 0.0 0 0 - 1 3 4 7 2 0 3 2 15
+p221
+aVLucas Nogueira TOR 12/12/2016 TOR vs. MIL W 20 5 2 3 66.7 0 0 - 1 2 50.0 3 2 5 1 1 1 1 1 18
+p222
+aVKyle Lowry TOR 12/09/2016 TOR @ BOS W 36 34 9 18 50.0 4 8 50.0 12 13 92.3 1 6 7 2 3 0 2 4 12
+p223
+aVTerrence Ross TOR 12/09/2016 TOR @ BOS W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 3 1
+p224
+aVPascal Siakam TOR 12/09/2016 TOR @ BOS W 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -1
+p225
+aVNorman Powell TOR 12/09/2016 TOR @ BOS W 36 20 7 10 70.0 3 4 75.0 3 4 75.0 0 3 3 2 5 0 0 2 5
+p226
+aVLucas Nogueira TOR 12/09/2016 TOR @ BOS W 22 0 0 0 - 0 0 - 0 0 - 2 6 8 1 0 1 2 3 6
+p227
+aVJonas Valanciunas TOR 12/09/2016 TOR @ BOS W 24 6 3 7 42.9 0 0 - 0 0 - 2 8 10 0 0 0 2 2 0
+p228
+aVDeMar DeRozan TOR 12/09/2016 TOR @ BOS W 37 24 9 25 36.0 0 1 0.0 6 6 100.0 0 5 5 2 0 0 4 1 16
+p229
+aVCory Joseph TOR 12/09/2016 TOR @ BOS W 24 6 1 7 14.3 1 2 50.0 3 4 75.0 0 1 1 0 0 0 0 1 -17
+p230
+aVPatrick Patterson TOR 12/09/2016 TOR @ BOS W 30 5 2 7 28.6 1 4 25.0 0 0 - 2 8 10 4 1 0 1 5 13
+p231
+aVPatrick Patterson TOR 12/08/2016 TOR vs. MIN W 30 7 2 10 20.0 2 8 25.0 1 4 25.0 1 4 5 2 0 0 0 1 13
+p232
+aVNorman Powell TOR 12/08/2016 TOR vs. MIN W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p233
+aVDeMar DeRozan TOR 12/08/2016 TOR vs. MIN W 37 27 7 20 35.0 1 1 100.0 12 13 92.3 1 7 8 5 0 0 2 2 5
+p234
+aVJonas Valanciunas TOR 12/08/2016 TOR vs. MIN W 29 20 9 15 60.0 0 0 - 2 2 100.0 6 4 10 1 0 1 1 5 5
+p235
+aVTerrence Ross TOR 12/08/2016 TOR vs. MIN W 16 9 3 7 42.9 1 5 20.0 2 2 100.0 0 0 0 1 2 0 0 1 0
+p236
+aVLucas Nogueira TOR 12/08/2016 TOR vs. MIN W 19 8 4 5 80.0 0 0 - 0 0 - 4 5 9 1 0 3 1 1 9
+p237
+aVCory Joseph TOR 12/08/2016 TOR vs. MIN W 19 12 6 8 75.0 0 0 - 0 0 - 1 0 1 2 0 1 1 2 -10
+p238
+aVPascal Siakam TOR 12/08/2016 TOR vs. MIN W 11 6 1 1 100.0 0 0 - 4 4 100.0 0 1 1 0 0 0 0 2 -2
+p239
+aVDeMarre Carroll TOR 12/08/2016 TOR vs. MIN W 33 10 3 7 42.9 3 6 50.0 1 2 50.0 1 4 5 2 2 0 1 4 19
+p240
+aVKyle Lowry TOR 12/08/2016 TOR vs. MIN W 38 25 8 14 57.1 5 7 71.4 4 6 66.7 1 1 2 11 1 0 2 1 27
+p241
+aVNorman Powell TOR 12/05/2016 TOR vs. CLE L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p242
+aVDeMar DeRozan TOR 12/05/2016 TOR vs. CLE L 39 31 12 23 52.2 0 2 0.0 7 7 100.0 0 4 4 5 3 0 1 3 -5
+p243
+aVPascal Siakam TOR 12/05/2016 TOR vs. CLE L 18 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -21
+p244
+aVJonas Valanciunas TOR 12/05/2016 TOR vs. CLE L 25 4 1 8 12.5 0 0 - 2 2 100.0 3 7 10 1 0 0 0 1 -16
+p245
+aVTerrence Ross TOR 12/05/2016 TOR vs. CLE L 22 14 4 9 44.4 4 7 57.1 2 2 100.0 1 0 1 1 0 4 0 4 11
+p246
+aVPatrick Patterson TOR 12/05/2016 TOR vs. CLE L 30 12 3 12 25.0 3 7 42.9 3 4 75.0 3 6 9 0 0 0 2 3 17
+p247
+aVLucas Nogueira TOR 12/05/2016 TOR vs. CLE L 15 6 2 2 100.0 0 0 - 2 3 66.7 1 2 3 0 1 1 1 0 8
+p248
+aVKyle Lowry TOR 12/05/2016 TOR vs. CLE L 40 24 7 14 50.0 4 9 44.4 6 7 85.7 1 2 3 9 1 0 2 2 -5
+p249
+aVDeMarre Carroll TOR 12/05/2016 TOR vs. CLE L 33 8 3 10 30.0 1 6 16.7 1 2 50.0 0 0 0 3 1 0 1 4 -11
+p250
+aVCory Joseph TOR 12/05/2016 TOR vs. CLE L 13 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 3 1
+p251
+aVPatrick Patterson TOR 12/03/2016 TOR vs. ATL W 21 17 6 8 75.0 4 5 80.0 1 1 100.0 0 4 4 2 1 0 1 3 21
+p252
+aVPascal Siakam TOR 12/03/2016 TOR vs. ATL W 27 14 7 12 58.3 0 1 0.0 0 0 - 1 2 3 0 1 2 1 2 23
+p253
+aVBruno Caboclo TOR 12/03/2016 TOR vs. ATL W 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 0 0 1 1 6
+p254
+aVJakob Poeltl TOR 12/03/2016 TOR vs. ATL W 4 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 1 1 0 0 6
+p255
+aVCory Joseph TOR 12/03/2016 TOR vs. ATL W 23 10 5 12 41.7 0 1 0.0 0 0 - 1 4 5 6 1 0 1 3 20
+p256
+aVTerrence Ross TOR 12/03/2016 TOR vs. ATL W 18 15 6 8 75.0 3 4 75.0 0 0 - 0 1 1 2 0 0 0 0 32
+p257
+aVLucas Nogueira TOR 12/03/2016 TOR vs. ATL W 23 11 5 5 100.0 0 0 - 1 1 100.0 3 5 8 1 2 3 0 1 25
+p258
+aVFred VanVleet TOR 12/03/2016 TOR vs. ATL W 4 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 6
+p259
+aVNorman Powell TOR 12/03/2016 TOR vs. ATL W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 2 0 1 0 15
+p260
+aVKyle Lowry TOR 12/03/2016 TOR vs. ATL W 31 17 6 9 66.7 3 5 60.0 2 2 100.0 1 7 8 8 0 1 1 4 34
+p261
+aVJonas Valanciunas TOR 12/03/2016 TOR vs. ATL W 21 2 1 4 25.0 0 0 - 0 0 - 3 2 5 1 2 0 3 2 13
+p262
+aVDeMarre Carroll TOR 12/03/2016 TOR vs. ATL W 26 10 4 10 40.0 2 6 33.3 0 0 - 1 4 5 0 3 0 1 0 6
+p263
+aVDeMar DeRozan TOR 12/03/2016 TOR vs. ATL W 31 21 8 16 50.0 0 1 0.0 5 6 83.3 0 3 3 4 1 0 2 1 13
+p264
+aVNorman Powell TOR 12/02/2016 TOR vs. LAL W 32 16 7 14 50.0 2 6 33.3 0 2 0.0 1 6 7 2 0 0 0 2 21
+p265
+aVKyle Lowry TOR 12/02/2016 TOR vs. LAL W 31 24 8 12 66.7 6 9 66.7 2 2 100.0 0 4 4 7 1 0 4 1 18
+p266
+aVPascal Siakam TOR 12/02/2016 TOR vs. LAL W 24 8 4 5 80.0 0 1 0.0 0 0 - 2 5 7 1 1 1 1 2 14
+p267
+aVDeMar DeRozan TOR 12/02/2016 TOR vs. LAL W 29 16 6 18 33.3 0 1 0.0 4 4 100.0 1 3 4 6 2 0 1 0 16
+p268
+aVLucas Nogueira TOR 12/02/2016 TOR vs. LAL W 18 13 5 5 100.0 0 0 - 3 3 100.0 1 2 3 0 2 2 0 2 13
+p269
+aVTerrence Ross TOR 12/02/2016 TOR vs. LAL W 20 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 1 0 0 1 2 11
+p270
+aVBruno Caboclo TOR 12/02/2016 TOR vs. LAL W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 1 1 6
+p271
+aVPatrick Patterson TOR 12/02/2016 TOR vs. LAL W 24 5 2 4 50.0 1 3 33.3 0 0 - 1 6 7 0 0 1 1 2 19
+p272
+aVFred VanVleet TOR 12/02/2016 TOR vs. LAL W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 6
+p273
+aVJonas Valanciunas TOR 12/02/2016 TOR vs. LAL W 24 6 2 4 50.0 0 0 - 2 2 100.0 1 6 7 1 0 1 0 3 13
+p274
+aVCory Joseph TOR 12/02/2016 TOR vs. LAL W 25 14 7 10 70.0 0 1 0.0 0 0 - 0 2 2 4 0 0 0 1 21
+p275
+aVJakob Poeltl TOR 12/02/2016 TOR vs. LAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 7
+p276
+aVPascal Siakam TOR 11/30/2016 TOR vs. MEM W 18 4 2 2 100.0 0 0 - 0 0 - 2 0 2 2 0 1 3 1 0
+p277
+aVKyle Lowry TOR 11/30/2016 TOR vs. MEM W 37 29 8 13 61.5 4 7 57.1 9 10 90.0 0 3 3 8 2 0 2 4 1
+p278
+aVFred VanVleet TOR 11/30/2016 TOR vs. MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p279
+aVDeMarre Carroll TOR 11/30/2016 TOR vs. MEM W 29 17 6 11 54.5 3 7 42.9 2 4 50.0 0 0 0 1 0 0 0 4 12
+p280
+aVDeMar DeRozan TOR 11/30/2016 TOR vs. MEM W 36 24 6 9 66.7 2 3 66.7 10 11 90.9 1 8 9 6 0 0 7 2 16
+p281
+aVTerrence Ross TOR 11/30/2016 TOR vs. MEM W 17 3 1 6 16.7 1 5 20.0 0 0 - 0 1 1 0 0 0 0 1 0
+p282
+aVJonas Valanciunas TOR 11/30/2016 TOR vs. MEM W 23 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 1 1 4 2 -4
+p283
+aVCory Joseph TOR 11/30/2016 TOR vs. MEM W 28 16 4 8 50.0 1 3 33.3 7 8 87.5 2 6 8 3 0 0 1 3 16
+p284
+aVLucas Nogueira TOR 11/30/2016 TOR vs. MEM W 18 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 3 1 0 5 10
+p285
+aVPatrick Patterson TOR 11/30/2016 TOR vs. MEM W 30 14 5 10 50.0 4 6 66.7 0 0 - 3 10 13 0 1 0 1 1 17
+p286
+aVNorman Powell TOR 11/30/2016 TOR vs. MEM W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 3
+p287
+aVTerrence Ross TOR 11/28/2016 TOR vs. PHI W 23 22 8 11 72.7 3 5 60.0 3 3 100.0 1 2 3 0 0 0 0 0 20
+p288
+aVPascal Siakam TOR 11/28/2016 TOR vs. PHI W 23 11 4 6 66.7 0 0 - 3 4 75.0 0 2 2 0 1 1 1 2 6
+p289
+aVBruno Caboclo TOR 11/28/2016 TOR vs. PHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p290
+aVPatrick Patterson TOR 11/28/2016 TOR vs. PHI W 20 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 1 2 0 0 1 21
+p291
+aVJonas Valanciunas TOR 11/28/2016 TOR vs. PHI W 22 12 6 12 50.0 0 0 - 0 0 - 3 8 11 0 1 2 1 1 15
+p292
+aVCory Joseph TOR 11/28/2016 TOR vs. PHI W 24 8 4 10 40.0 0 1 0.0 0 0 - 0 4 4 2 1 0 1 3 17
+p293
+aVKyle Lowry TOR 11/28/2016 TOR vs. PHI W 32 24 7 9 77.8 6 6 100.0 4 5 80.0 0 4 4 8 1 0 3 0 15
+p294
+aVFred VanVleet TOR 11/28/2016 TOR vs. PHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p295
+aVLucas Nogueira TOR 11/28/2016 TOR vs. PHI W 22 6 1 2 50.0 0 0 - 4 6 66.7 2 2 4 0 1 1 1 1 12
+p296
+aVDeMarre Carroll TOR 11/28/2016 TOR vs. PHI W 21 10 4 5 80.0 2 3 66.7 0 0 - 1 4 5 3 1 2 0 2 7
+p297
+aVJakob Poeltl TOR 11/28/2016 TOR vs. PHI W 4 2 0 0 - 0 0 - 2 4 50.0 1 0 1 0 0 0 1 1 0
+p298
+aVDeMar DeRozan TOR 11/28/2016 TOR vs. PHI W 31 14 4 13 30.8 0 0 - 6 6 100.0 0 5 5 5 1 1 3 1 23
+p299
+aVNorman Powell TOR 11/28/2016 TOR vs. PHI W 11 5 1 3 33.3 0 0 - 3 3 100.0 0 0 0 3 1 1 1 2 -1
+p300
+aVPatrick Patterson TOR 11/25/2016 TOR @ MIL W 25 11 3 7 42.9 3 6 50.0 2 2 100.0 1 4 5 3 0 0 0 4 4
+p301
+aVTerrence Ross TOR 11/25/2016 TOR @ MIL W 20 8 3 7 42.9 2 5 40.0 0 0 - 1 0 1 1 1 0 1 1 -5
+p302
+aVDeMarre Carroll TOR 11/25/2016 TOR @ MIL W 26 14 4 9 44.4 4 8 50.0 2 2 100.0 0 1 1 1 0 0 0 1 10
+p303
+aVDeMar DeRozan TOR 11/25/2016 TOR @ MIL W 35 26 9 18 50.0 0 2 0.0 8 10 80.0 1 6 7 4 0 0 1 1 5
+p304
+aVPascal Siakam TOR 11/25/2016 TOR @ MIL W 23 6 2 3 66.7 0 0 - 2 4 50.0 3 4 7 0 0 1 2 1 2
+p305
+aVLucas Nogueira TOR 11/25/2016 TOR @ MIL W 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 4 1 4 1
+p306
+aVJonas Valanciunas TOR 11/25/2016 TOR @ MIL W 31 12 6 11 54.5 0 0 - 0 0 - 3 4 7 0 0 0 1 3 5
+p307
+aVKyle Lowry TOR 11/25/2016 TOR @ MIL W 37 19 7 15 46.7 4 8 50.0 1 1 100.0 1 4 5 6 2 0 2 1 5
+p308
+aVCory Joseph TOR 11/25/2016 TOR @ MIL W 27 9 4 11 36.4 1 3 33.3 0 0 - 1 3 4 3 0 0 1 1 3
+p309
+aVTerrence Ross TOR 11/23/2016 TOR @ HOU W 20 14 6 12 50.0 2 3 66.7 0 0 - 1 2 3 1 1 1 0 0 3
+p310
+aVPascal Siakam TOR 11/23/2016 TOR @ HOU W 21 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 9
+p311
+aVDeMar DeRozan TOR 11/23/2016 TOR @ HOU W 36 24 8 19 42.1 2 3 66.7 6 7 85.7 2 3 5 9 2 0 2 1 17
+p312
+aVPatrick Patterson TOR 11/23/2016 TOR @ HOU W 27 5 1 3 33.3 1 2 50.0 2 2 100.0 1 4 5 1 4 0 0 3 4
+p313
+aVLucas Nogueira TOR 11/23/2016 TOR @ HOU W 17 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 2 1 1 2 4 -4
+p314
+aVJonas Valanciunas TOR 11/23/2016 TOR @ HOU W 31 15 6 10 60.0 0 0 - 3 4 75.0 5 11 16 2 0 1 5 2 17
+p315
+aVCory Joseph TOR 11/23/2016 TOR @ HOU W 25 17 6 11 54.5 3 3 100.0 2 2 100.0 1 1 2 1 1 1 0 0 3
+p316
+aVKyle Lowry TOR 11/23/2016 TOR @ HOU W 36 17 6 15 40.0 2 7 28.6 3 4 75.0 1 0 1 9 1 0 3 3 4
+p317
+aVDeMarre Carroll TOR 11/23/2016 TOR @ HOU W 27 20 9 14 64.3 2 5 40.0 0 0 - 2 1 3 2 4 3 2 1 12
+p318
+aVDeMar DeRozan TOR 11/21/2016 TOR @ LAC L 36 25 11 21 52.4 0 1 0.0 3 4 75.0 1 3 4 7 1 0 1 3 -11
+p319
+aVKyle Lowry TOR 11/21/2016 TOR @ LAC L 42 27 8 18 44.4 3 7 42.9 8 9 88.9 0 6 6 7 0 0 3 4 -6
+p320
+aVTerrence Ross TOR 11/21/2016 TOR @ LAC L 26 8 4 6 66.7 0 0 - 0 0 - 0 3 3 0 1 0 1 5 2
+p321
+aVJonas Valanciunas TOR 11/21/2016 TOR @ LAC L 29 15 5 8 62.5 0 0 - 5 5 100.0 2 6 8 1 0 1 0 4 -4
+p322
+aVCory Joseph TOR 11/21/2016 TOR @ LAC L 18 12 3 7 42.9 0 0 - 6 8 75.0 1 3 4 1 3 0 0 2 -3
+p323
+aVLucas Nogueira TOR 11/21/2016 TOR @ LAC L 13 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 3 -9
+p324
+aVNorman Powell TOR 11/21/2016 TOR @ LAC L 26 11 4 9 44.4 2 5 40.0 1 1 100.0 0 0 0 1 1 0 3 1 -4
+p325
+aVPascal Siakam TOR 11/21/2016 TOR @ LAC L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 2 0 0 5 -1
+p326
+aVPatrick Patterson TOR 11/21/2016 TOR @ LAC L 36 14 4 8 50.0 3 6 50.0 3 3 100.0 0 6 6 2 2 0 2 4 -4
+p327
+aVJonas Valanciunas TOR 11/20/2016 TOR @ SAC L 37 23 9 18 50.0 0 0 - 5 6 83.3 7 6 13 2 0 2 1 2 -14
+p328
+aVLucas Nogueira TOR 11/20/2016 TOR @ SAC L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 2 0 1 11
+p329
+aVPatrick Patterson TOR 11/20/2016 TOR @ SAC L 27 11 4 7 57.1 3 6 50.0 0 0 - 1 4 5 1 1 0 2 2 9
+p330
+aVDeMar DeRozan TOR 11/20/2016 TOR @ SAC L 39 12 3 15 20.0 0 1 0.0 6 6 100.0 3 6 9 4 0 0 3 3 -17
+p331
+aVTerrence Ross TOR 11/20/2016 TOR @ SAC L 15 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 9
+p332
+aVPascal Siakam TOR 11/20/2016 TOR @ SAC L 21 4 2 5 40.0 0 0 - 0 0 - 3 3 6 1 1 2 0 1 -12
+p333
+aVCory Joseph TOR 11/20/2016 TOR @ SAC L 21 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 2 0 0 2 2 0
+p334
+aVDeMarre Carroll TOR 11/20/2016 TOR @ SAC L 33 17 6 12 50.0 3 6 50.0 2 2 100.0 1 3 4 0 2 0 0 3 -12
+p335
+aVKyle Lowry TOR 11/20/2016 TOR @ SAC L 36 25 7 17 41.2 2 7 28.6 9 10 90.0 1 7 8 6 2 0 7 5 11
+p336
+aVDeMar DeRozan TOR 11/18/2016 TOR @ DEN W 36 30 12 25 48.0 0 1 0.0 6 10 60.0 0 5 5 4 2 0 4 5 8
+p337
+aVJonas Valanciunas TOR 11/18/2016 TOR @ DEN W 37 15 6 9 66.7 0 0 - 3 7 42.9 2 7 9 1 0 1 0 4 4
+p338
+aVNorman Powell TOR 11/18/2016 TOR @ DEN W 11 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 1 0 1 4 -6
+p339
+aVJakob Poeltl TOR 11/18/2016 TOR @ DEN W 16 6 2 2 100.0 0 0 - 2 3 66.7 2 4 6 0 2 0 0 2 -2
+p340
+aVPascal Siakam TOR 11/18/2016 TOR @ DEN W 23 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 1 0 0 2 -2
+p341
+aVTerrence Ross TOR 11/18/2016 TOR @ DEN W 30 16 6 11 54.5 4 5 80.0 0 1 0.0 0 2 2 2 0 0 1 2 5
+p342
+aVKyle Lowry TOR 11/18/2016 TOR @ DEN W 38 18 6 15 40.0 3 7 42.9 3 4 75.0 0 5 5 13 0 0 4 1 9
+p343
+aVDeMarre Carroll TOR 11/18/2016 TOR @ DEN W 22 11 4 9 44.4 1 4 25.0 2 2 100.0 0 3 3 0 1 0 0 1 1
+p344
+aVPatrick Patterson TOR 11/18/2016 TOR @ DEN W 30 1 0 4 0.0 0 4 0.0 1 2 50.0 0 6 6 1 0 1 1 4 4
+p345
+aVCory Joseph TOR 11/18/2016 TOR @ DEN W 20 4 2 9 22.2 0 2 0.0 0 0 - 1 1 2 1 1 0 1 0 -11
+p346
+aVTerrence Ross TOR 11/16/2016 TOR vs. GSW L 22 11 2 8 25.0 2 4 50.0 5 5 100.0 1 2 3 0 1 1 0 2 -1
+p347
+aVJonas Valanciunas TOR 11/16/2016 TOR vs. GSW L 18 12 6 6 100.0 0 0 - 0 0 - 3 5 8 0 0 0 1 1 -4
+p348
+aVPascal Siakam TOR 11/16/2016 TOR vs. GSW L 30 10 5 10 50.0 0 0 - 0 0 - 4 5 9 0 1 0 1 4 6
+p349
+aVCory Joseph TOR 11/16/2016 TOR vs. GSW L 22 14 4 7 57.1 0 2 0.0 6 7 85.7 1 1 2 2 1 0 0 4 -4
+p350
+aVNorman Powell TOR 11/16/2016 TOR vs. GSW L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 4 -7
+p351
+aVKyle Lowry TOR 11/16/2016 TOR vs. GSW L 38 24 6 17 35.3 3 6 50.0 9 12 75.0 2 3 5 5 3 0 4 3 -9
+p352
+aVLucas Nogueira TOR 11/16/2016 TOR vs. GSW L 13 0 0 0 - 0 0 - 0 0 - 0 5 5 2 0 0 0 0 11
+p353
+aVDeMar DeRozan TOR 11/16/2016 TOR vs. GSW L 38 34 8 18 44.4 1 4 25.0 17 17 100.0 1 5 6 4 1 0 5 3 1
+p354
+aVPatrick Patterson TOR 11/16/2016 TOR vs. GSW L 25 5 2 7 28.6 1 3 33.3 0 0 - 1 3 4 1 0 0 1 0 -8
+p355
+aVDeMarre Carroll TOR 11/16/2016 TOR vs. GSW L 24 8 3 7 42.9 2 5 40.0 0 0 - 0 3 3 2 1 0 1 1 -15
+p356
+aVNorman Powell TOR 11/15/2016 TOR @ CLE L 29 12 4 7 57.1 3 5 60.0 1 2 50.0 0 3 3 3 0 1 1 5 -5
+p357
+aVDeMar DeRozan TOR 11/15/2016 TOR @ CLE L 34 26 10 27 37.0 2 5 40.0 4 8 50.0 1 5 6 4 3 0 2 1 -9
+p358
+aVLucas Nogueira TOR 11/15/2016 TOR @ CLE L 10 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 1 5 4
+p359
+aVJonas Valanciunas TOR 11/15/2016 TOR @ CLE L 34 14 5 9 55.6 0 0 - 4 4 100.0 3 6 9 2 0 0 2 1 -4
+p360
+aVKyle Lowry TOR 11/15/2016 TOR @ CLE L 40 28 11 23 47.8 4 8 50.0 2 2 100.0 3 2 5 9 4 0 1 3 8
+p361
+aVPatrick Patterson TOR 11/15/2016 TOR @ CLE L 34 2 1 6 16.7 0 3 0.0 0 0 - 2 4 6 2 2 0 0 4 -14
+p362
+aVPascal Siakam TOR 11/15/2016 TOR @ CLE L 16 8 4 5 80.0 0 0 - 0 0 - 2 1 3 2 0 3 1 5 5
+p363
+aVCory Joseph TOR 11/15/2016 TOR @ CLE L 18 9 4 7 57.1 0 1 0.0 1 2 50.0 0 1 1 2 0 0 0 1 -13
+p364
+aVTerrence Ross TOR 11/15/2016 TOR @ CLE L 25 18 7 12 58.3 4 7 57.1 0 0 - 0 3 3 0 2 0 0 0 8
+p365
+aVDeMar DeRozan TOR 11/12/2016 TOR vs. NYK W 36 33 11 23 47.8 1 1 100.0 10 13 76.9 2 5 7 4 2 0 2 1 7
+p366
+aVJonas Valanciunas TOR 11/12/2016 TOR vs. NYK W 22 13 4 8 50.0 0 0 - 5 6 83.3 2 6 8 0 1 1 3 2 3
+p367
+aVPascal Siakam TOR 11/12/2016 TOR vs. NYK W 20 9 4 5 80.0 0 0 - 1 1 100.0 0 2 2 0 1 0 1 2 -6
+p368
+aVCory Joseph TOR 11/12/2016 TOR vs. NYK W 20 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 3 0 0 3 3 -7
+p369
+aVPatrick Patterson TOR 11/12/2016 TOR vs. NYK W 28 10 3 8 37.5 2 7 28.6 2 2 100.0 0 5 5 2 1 0 0 3 17
+p370
+aVKyle Lowry TOR 11/12/2016 TOR vs. NYK W 41 16 7 15 46.7 0 5 0.0 2 2 100.0 3 3 6 6 0 0 2 3 18
+p371
+aVLucas Nogueira TOR 11/12/2016 TOR vs. NYK W 26 6 3 3 100.0 0 0 - 0 0 - 4 6 10 1 3 5 0 2 8
+p372
+aVNorman Powell TOR 11/12/2016 TOR vs. NYK W 29 19 4 10 40.0 3 6 50.0 8 8 100.0 0 5 5 2 1 0 0 3 15
+p373
+aVTerrence Ross TOR 11/12/2016 TOR vs. NYK W 18 11 3 8 37.5 1 2 50.0 4 4 100.0 0 0 0 0 1 0 0 1 0
+p374
+aVTerrence Ross TOR 11/11/2016 TOR @ CHA W 20 8 3 4 75.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 0 3
+p375
+aVDeMarre Carroll TOR 11/11/2016 TOR @ CHA W 23 10 4 7 57.1 0 2 0.0 2 2 100.0 0 4 4 1 0 0 0 2 -9
+p376
+aVDeMar DeRozan TOR 11/11/2016 TOR @ CHA W 36 34 14 26 53.8 0 1 0.0 6 7 85.7 0 3 3 3 2 0 1 1 -12
+p377
+aVPatrick Patterson TOR 11/11/2016 TOR @ CHA W 33 6 2 10 20.0 2 7 28.6 0 0 - 2 5 7 3 0 0 0 2 11
+p378
+aVNorman Powell TOR 11/11/2016 TOR @ CHA W 10 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 0 10
+p379
+aVKyle Lowry TOR 11/11/2016 TOR @ CHA W 36 19 7 16 43.8 2 8 25.0 3 3 100.0 1 7 8 6 2 1 0 5 12
+p380
+aVCory Joseph TOR 11/11/2016 TOR @ CHA W 25 12 4 8 50.0 2 3 66.7 2 2 100.0 0 4 4 2 0 1 2 2 2
+p381
+aVLucas Nogueira TOR 11/11/2016 TOR @ CHA W 27 10 4 6 66.7 0 0 - 2 2 100.0 2 5 7 1 1 2 2 4 12
+p382
+aVPascal Siakam TOR 11/11/2016 TOR @ CHA W 11 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -11
+p383
+aVJonas Valanciunas TOR 11/11/2016 TOR @ CHA W 21 12 5 8 62.5 0 0 - 2 2 100.0 2 6 8 0 2 1 0 2 -8
+p384
+aVNorman Powell TOR 11/09/2016 TOR @ OKC W 23 9 4 8 50.0 0 1 0.0 1 3 33.3 0 2 2 0 1 0 0 3 0
+p385
+aVDeMar DeRozan TOR 11/09/2016 TOR @ OKC W 39 37 13 22 59.1 0 2 0.0 11 15 73.3 0 4 4 6 3 0 4 2 20
+p386
+aVFred VanVleet TOR 11/09/2016 TOR @ OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p387
+aVDeMarre Carroll TOR 11/09/2016 TOR @ OKC W 22 10 4 6 66.7 2 3 66.7 0 0 - 1 3 4 0 0 0 1 1 4
+p388
+aVKyle Lowry TOR 11/09/2016 TOR @ OKC W 43 19 6 20 30.0 5 11 45.5 2 2 100.0 2 7 9 13 0 1 5 4 5
+p389
+aVJakob Poeltl TOR 11/09/2016 TOR @ OKC W 19 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 1 1 3 -20
+p390
+aVPatrick Patterson TOR 11/09/2016 TOR @ OKC W 33 13 5 11 45.5 3 8 37.5 0 0 - 0 3 3 3 2 0 0 3 17
+p391
+aVLucas Nogueira TOR 11/09/2016 TOR @ OKC W 29 10 5 5 100.0 0 0 - 0 0 - 2 5 7 1 2 2 0 5 30
+p392
+aVPascal Siakam TOR 11/09/2016 TOR @ OKC W 13 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 2 0 1 -5
+p393
+aVCory Joseph TOR 11/09/2016 TOR @ OKC W 19 6 2 4 50.0 1 1 100.0 1 2 50.0 0 0 0 2 2 0 0 2 -1
+p394
+aVPatrick Patterson TOR 11/06/2016 TOR vs. SAC L 31 6 1 6 16.7 0 2 0.0 4 5 80.0 2 7 9 2 1 2 1 5 -10
+p395
+aVLucas Nogueira TOR 11/06/2016 TOR vs. SAC L 21 7 3 3 100.0 0 0 - 1 2 50.0 3 2 5 0 1 1 1 3 -5
+p396
+aVPascal Siakam TOR 11/06/2016 TOR vs. SAC L 24 10 4 8 50.0 0 0 - 2 3 66.7 3 3 6 1 0 1 0 4 9
+p397
+aVCory Joseph TOR 11/06/2016 TOR vs. SAC L 17 8 2 7 28.6 1 2 50.0 3 4 75.0 0 1 1 2 0 0 0 0 -8
+p398
+aVJakob Poeltl TOR 11/06/2016 TOR vs. SAC L 18 6 3 4 75.0 0 0 - 0 0 - 2 2 4 2 0 0 0 6 -7
+p399
+aVKyle Lowry TOR 11/06/2016 TOR vs. SAC L 39 15 5 16 31.3 3 10 30.0 2 3 66.7 0 3 3 10 2 1 0 3 9
+p400
+aVDeMar DeRozan TOR 11/06/2016 TOR vs. SAC L 38 23 7 20 35.0 1 2 50.0 8 10 80.0 0 4 4 3 0 0 1 2 -12
+p401
+aVTerrence Ross TOR 11/06/2016 TOR vs. SAC L 19 8 3 9 33.3 2 7 28.6 0 0 - 0 2 2 0 2 0 3 1 -4
+p402
+aVNorman Powell TOR 11/06/2016 TOR vs. SAC L 10 4 1 3 33.3 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -2
+p403
+aVDeMarre Carroll TOR 11/06/2016 TOR vs. SAC L 22 4 1 8 12.5 0 5 0.0 2 2 100.0 2 6 8 1 0 0 0 1 5
+p404
+aVDeMarre Carroll TOR 11/04/2016 TOR vs. MIA W 20 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p405
+aVJakob Poeltl TOR 11/04/2016 TOR vs. MIA W 20 4 1 4 25.0 0 0 - 2 2 100.0 4 2 6 0 1 0 1 2 6
+p406
+aVTerrence Ross TOR 11/04/2016 TOR vs. MIA W 21 20 8 15 53.3 3 7 42.9 1 1 100.0 0 4 4 0 1 0 0 3 7
+p407
+aVNorman Powell TOR 11/04/2016 TOR vs. MIA W 14 6 2 2 100.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 0 1 7
+p408
+aVJonas Valanciunas TOR 11/04/2016 TOR vs. MIA W 28 5 1 2 50.0 0 0 - 3 4 75.0 2 9 11 0 1 2 2 3 3
+p409
+aVPatrick Patterson TOR 11/04/2016 TOR vs. MIA W 29 4 2 8 25.0 0 4 0.0 0 0 - 1 6 7 1 1 0 1 0 8
+p410
+aVKyle Lowry TOR 11/04/2016 TOR vs. MIA W 41 13 4 15 26.7 2 8 25.0 3 3 100.0 4 4 8 5 3 3 5 3 11
+p411
+aVCory Joseph TOR 11/04/2016 TOR vs. MIA W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 3 0 0 1 1 3
+p412
+aVDeMar DeRozan TOR 11/04/2016 TOR vs. MIA W 37 34 14 26 53.8 0 2 0.0 6 6 100.0 1 3 4 4 0 0 4 2 -1
+p413
+aVPascal Siakam TOR 11/04/2016 TOR vs. MIA W 16 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 0 0
+p414
+aVJakob Poeltl TOR 11/02/2016 TOR @ WAS W 17 0 0 0 - 0 0 - 0 0 - 1 4 5 0 1 1 1 6 8
+p415
+aVDeMarre Carroll TOR 11/02/2016 TOR @ WAS W 22 7 2 7 28.6 1 5 20.0 2 4 50.0 0 1 1 0 2 1 1 1 -10
+p416
+aVTerrence Ross TOR 11/02/2016 TOR @ WAS W 18 15 6 8 75.0 2 3 66.7 1 1 100.0 1 1 2 2 2 0 1 1 9
+p417
+aVNorman Powell TOR 11/02/2016 TOR @ WAS W 15 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 4 1 0 1 1 18
+p418
+aVJonas Valanciunas TOR 11/02/2016 TOR @ WAS W 31 10 4 6 66.7 0 0 - 2 2 100.0 0 7 7 3 0 0 1 5 2
+p419
+aVPatrick Patterson TOR 11/02/2016 TOR @ WAS W 30 10 4 9 44.4 2 6 33.3 0 0 - 1 2 3 2 0 0 1 2 16
+p420
+aVCory Joseph TOR 11/02/2016 TOR @ WAS W 17 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 3 0 2 0 -1
+p421
+aVKyle Lowry TOR 11/02/2016 TOR @ WAS W 36 18 7 13 53.8 3 6 50.0 1 2 50.0 0 1 1 2 4 0 3 2 4
+p422
+aVPascal Siakam TOR 11/02/2016 TOR @ WAS W 18 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 0 1 3 -6
+p423
+aVDeMar DeRozan TOR 11/02/2016 TOR @ WAS W 37 40 14 23 60.9 1 2 50.0 11 16 68.8 1 4 5 5 2 0 1 3 10
+p424
+aVNorman Powell TOR 10/31/2016 TOR vs. DEN W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p425
+aVJonas Valanciunas TOR 10/31/2016 TOR vs. DEN W 31 12 6 12 50.0 0 0 - 0 0 - 3 6 9 1 0 1 2 4 6
+p426
+aVDeMarre Carroll TOR 10/31/2016 TOR vs. DEN W 29 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 0 0 1 0 4 6
+p427
+aVDeMar DeRozan TOR 10/31/2016 TOR vs. DEN W 39 33 13 23 56.5 0 1 0.0 7 9 77.8 2 3 5 1 1 0 1 1 0
+p428
+aVTerrence Ross TOR 10/31/2016 TOR vs. DEN W 15 7 2 5 40.0 1 3 33.3 2 2 100.0 0 2 2 0 1 0 0 2 3
+p429
+aVCory Joseph TOR 10/31/2016 TOR vs. DEN W 24 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 4 1 0 1 3 -6
+p430
+aVJakob Poeltl TOR 10/31/2016 TOR vs. DEN W 17 1 0 3 0.0 0 0 - 1 2 50.0 1 4 5 0 0 2 0 3 -3
+p431
+aVPatrick Patterson TOR 10/31/2016 TOR vs. DEN W 33 3 1 4 25.0 0 1 0.0 1 2 50.0 3 4 7 3 1 5 0 3 7
+p432
+aVKyle Lowry TOR 10/31/2016 TOR vs. DEN W 36 29 10 20 50.0 1 5 20.0 8 10 80.0 0 5 5 7 3 0 3 4 7
+p433
+aVPascal Siakam TOR 10/31/2016 TOR vs. DEN W 15 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -4
+p434
+aVJonas Valanciunas TOR 10/28/2016 TOR vs. CLE L 31 10 5 15 33.3 0 0 - 0 0 - 6 11 17 0 0 1 3 2 -11
+p435
+aVCory Joseph TOR 10/28/2016 TOR vs. CLE L 21 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 1 0 3 0 7
+p436
+aVDeMarre Carroll TOR 10/28/2016 TOR vs. CLE L 36 8 2 7 28.6 2 4 50.0 2 2 100.0 2 4 6 2 2 2 0 4 -6
+p437
+aVDeMar DeRozan TOR 10/28/2016 TOR vs. CLE L 38 32 12 28 42.9 0 1 0.0 8 8 100.0 2 5 7 2 2 0 3 3 0
+p438
+aVKyle Lowry TOR 10/28/2016 TOR vs. CLE L 39 17 5 16 31.3 1 5 20.0 6 7 85.7 0 2 2 4 0 0 6 4 -9
+p439
+aVPatrick Patterson TOR 10/28/2016 TOR vs. CLE L 34 5 2 6 33.3 1 5 20.0 0 0 - 1 5 6 3 1 0 0 2 2
+p440
+aVPascal Siakam TOR 10/28/2016 TOR vs. CLE L 15 4 2 4 50.0 0 0 - 0 0 - 3 0 3 0 1 0 2 3 -7
+p441
+aVJakob Poeltl TOR 10/28/2016 TOR vs. CLE L 11 7 3 5 60.0 0 0 - 1 1 100.0 4 3 7 0 0 0 0 1 9
+p442
+aVTerrence Ross TOR 10/28/2016 TOR vs. CLE L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 2 0 1 1 0
+p443
+aVCory Joseph TOR 10/26/2016 TOR vs. DET W 22 6 3 6 50.0 0 0 - 0 0 - 2 2 4 2 1 0 1 1 12
+p444
+aVDeMarre Carroll TOR 10/26/2016 TOR vs. DET W 29 8 2 8 25.0 2 6 33.3 2 4 50.0 0 7 7 1 1 0 0 3 21
+p445
+aVNorman Powell TOR 10/26/2016 TOR vs. DET W 2 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p446
+aVKyle Lowry TOR 10/26/2016 TOR vs. DET W 38 10 3 13 23.1 1 5 20.0 3 3 100.0 1 4 5 8 1 0 2 2 2
+p447
+aVPascal Siakam TOR 10/26/2016 TOR vs. DET W 22 4 2 2 100.0 0 0 - 0 0 - 2 7 9 0 1 0 0 2 16
+p448
+aVPatrick Patterson TOR 10/26/2016 TOR vs. DET W 26 3 1 5 20.0 0 2 0.0 1 2 50.0 0 4 4 1 1 0 0 2 2
+p449
+aVDeMar DeRozan TOR 10/26/2016 TOR vs. DET W 34 40 17 27 63.0 0 2 0.0 6 6 100.0 1 3 4 1 1 0 6 1 21
+p450
+aVTerrence Ross TOR 10/26/2016 TOR vs. DET W 19 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 3 2 0 1 2 -3
+p451
+aVJakob Poeltl TOR 10/26/2016 TOR vs. DET W 13 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 0 5 -4
+p452
+aVJonas Valanciunas TOR 10/26/2016 TOR vs. DET W 35 32 10 15 66.7 0 0 - 12 14 85.7 6 5 11 1 0 0 1 4 22
+p453
+a.

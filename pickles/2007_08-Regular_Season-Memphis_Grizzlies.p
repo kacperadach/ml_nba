@@ -1,0 +1,1676 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAndre Brown MEM 04/16/2008 MEM @ DEN L 33 19 8 14 57.1 0 0 - 3 3 100.0 2 11 13 1 1 1 1 4 -3
+p2
+aVCasey Jacobsen MEM 04/16/2008 MEM @ DEN L 22 8 4 6 66.7 0 1 0.0 0 2 0.0 2 3 5 7 0 0 0 1 4
+p3
+aVJason Collins MEM 04/16/2008 MEM @ DEN L 15 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 1 0 2 -6
+p4
+aVHakim Warrick MEM 04/16/2008 MEM @ DEN L 26 19 8 14 57.1 1 2 50.0 2 2 100.0 1 4 5 1 0 0 1 2 -15
+p5
+aVMike Conley MEM 04/16/2008 MEM @ DEN L 23 12 5 11 45.5 2 4 50.0 0 0 - 0 3 3 6 1 0 1 5 6
+p6
+aVBrian Cardinal MEM 04/16/2008 MEM @ DEN L 21 3 1 3 33.3 1 3 33.3 0 0 - 0 5 5 1 0 0 1 3 5
+p7
+aVRudy Gay MEM 04/16/2008 MEM @ DEN L 27 12 4 15 26.7 1 5 20.0 3 3 100.0 1 6 7 6 0 2 5 2 -12
+p8
+aVKyle Lowry MEM 04/16/2008 MEM @ DEN L 38 22 8 21 38.1 3 7 42.9 3 4 75.0 0 2 2 2 1 1 2 3 -19
+p9
+aVJuan Carlos Navarro MEM 04/16/2008 MEM @ DEN L 35 16 5 19 26.3 4 14 28.6 2 2 100.0 0 4 4 7 2 0 1 2 -5
+p10
+aVHakim Warrick MEM 04/15/2008 MEM @ POR L 38 17 6 17 35.3 0 1 0.0 5 6 83.3 7 7 14 5 1 2 1 2 -20
+p11
+aVMike Conley MEM 04/15/2008 MEM @ POR L 35 13 4 11 36.4 1 5 20.0 4 6 66.7 3 4 7 8 0 0 2 2 -21
+p12
+aVBrian Cardinal MEM 04/15/2008 MEM @ POR L 23 5 2 9 22.2 1 6 16.7 0 0 - 1 3 4 0 1 0 1 3 -6
+p13
+aVCasey Jacobsen MEM 04/15/2008 MEM @ POR L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p14
+aVRudy Gay MEM 04/15/2008 MEM @ POR L 35 16 7 16 43.8 1 5 20.0 1 3 33.3 0 7 7 1 0 0 1 3 -15
+p15
+aVJason Collins MEM 04/15/2008 MEM @ POR L 21 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 4 -11
+p16
+aVJuan Carlos Navarro MEM 04/15/2008 MEM @ POR L 30 7 3 11 27.3 1 6 16.7 0 0 - 5 2 7 4 0 0 5 0 -13
+p17
+aVAndre Brown MEM 04/15/2008 MEM @ POR L 20 16 6 6 100.0 0 0 - 4 9 44.4 1 3 4 0 1 1 0 4 -5
+p18
+aVKyle Lowry MEM 04/15/2008 MEM @ POR L 23 10 4 7 57.1 1 3 33.3 1 4 25.0 0 2 2 4 3 0 0 0 -15
+p19
+aVMike Conley MEM 04/12/2008 MEM vs. MIN L 32 25 8 14 57.1 2 4 50.0 7 7 100.0 0 2 2 5 2 0 0 2 1
+p20
+aVAndre Brown MEM 04/12/2008 MEM vs. MIN L 34 13 5 13 38.5 0 0 - 3 6 50.0 9 9 18 1 0 0 0 2 -6
+p21
+aVJuan Carlos Navarro MEM 04/12/2008 MEM vs. MIN L 23 8 2 9 22.2 2 5 40.0 2 2 100.0 0 0 0 0 0 0 0 0 -19
+p22
+aVKyle Lowry MEM 04/12/2008 MEM vs. MIN L 31 10 3 8 37.5 0 2 0.0 4 7 57.1 1 3 4 5 1 0 1 1 -6
+p23
+aVBrian Cardinal MEM 04/12/2008 MEM vs. MIN L 10 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 3 -1
+p24
+aVRudy Gay MEM 04/12/2008 MEM vs. MIN L 28 22 9 20 45.0 2 5 40.0 2 4 50.0 4 3 7 1 0 2 3 2 -11
+p25
+aVCasey Jacobsen MEM 04/12/2008 MEM vs. MIN L 24 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 1 7
+p26
+aVHakim Warrick MEM 04/12/2008 MEM vs. MIN L 43 16 6 16 37.5 0 3 0.0 4 6 66.7 1 6 7 2 0 1 1 3 -7
+p27
+aVKwame Brown MEM 04/12/2008 MEM vs. MIN L 14 8 2 4 50.0 0 0 - 4 11 36.4 2 3 5 2 1 0 0 1 -3
+p28
+aVRudy Gay MEM 04/11/2008 MEM @ MIA W 26 14 5 18 27.8 0 6 0.0 4 5 80.0 2 2 4 2 2 1 1 0 -20
+p29
+aVAndre Brown MEM 04/11/2008 MEM @ MIA W 25 4 2 5 40.0 0 0 - 0 2 0.0 6 5 11 1 2 0 1 4 -3
+p30
+aVBrian Cardinal MEM 04/11/2008 MEM @ MIA W 14 2 1 2 50.0 0 1 0.0 0 0 - 3 4 7 1 0 0 1 0 20
+p31
+aVDarko Milicic MEM 04/11/2008 MEM @ MIA W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 5
+p32
+aVJason Collins MEM 04/11/2008 MEM @ MIA W 13 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 3 3
+p33
+aVHakim Warrick MEM 04/11/2008 MEM @ MIA W 36 17 5 11 45.5 1 2 50.0 6 9 66.7 2 1 3 2 0 0 0 1 -11
+p34
+aVKyle Lowry MEM 04/11/2008 MEM @ MIA W 31 17 6 12 50.0 1 2 50.0 4 9 44.4 0 6 6 4 3 0 1 0 12
+p35
+aVCasey Jacobsen MEM 04/11/2008 MEM @ MIA W 20 10 4 6 66.7 2 4 50.0 0 0 - 1 3 4 0 0 0 0 1 21
+p36
+aVMike Conley MEM 04/11/2008 MEM @ MIA W 35 15 5 10 50.0 3 5 60.0 2 4 50.0 1 6 7 3 2 0 2 2 -6
+p37
+aVJuan Carlos Navarro MEM 04/11/2008 MEM @ MIA W 31 15 5 12 41.7 1 5 20.0 4 4 100.0 1 3 4 1 0 0 3 1 4
+p38
+aVJuan Carlos Navarro MEM 04/08/2008 MEM vs. PHX L 33 9 4 8 50.0 1 3 33.3 0 0 - 0 1 1 3 2 0 1 0 -6
+p39
+aVMike Miller MEM 04/08/2008 MEM vs. PHX L 30 9 4 10 40.0 1 3 33.3 0 0 - 1 4 5 5 0 0 5 0 -8
+p40
+aVMike Conley MEM 04/08/2008 MEM vs. PHX L 36 19 7 12 58.3 3 4 75.0 2 3 66.7 0 7 7 5 0 0 2 6 -20
+p41
+aVDarko Milicic MEM 04/08/2008 MEM vs. PHX L 18 11 4 9 44.4 0 0 - 3 4 75.0 4 0 4 0 0 0 1 4 -14
+p42
+aVKyle Lowry MEM 04/08/2008 MEM vs. PHX L 23 13 5 6 83.3 1 1 100.0 2 4 50.0 0 0 0 2 2 0 0 0 8
+p43
+aVCasey Jacobsen MEM 04/08/2008 MEM vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p44
+aVJason Collins MEM 04/08/2008 MEM vs. PHX L 14 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 2 3 0
+p45
+aVHakim Warrick MEM 04/08/2008 MEM vs. PHX L 42 12 6 10 60.0 0 1 0.0 0 0 - 0 5 5 1 0 0 3 4 -16
+p46
+aVRudy Gay MEM 04/08/2008 MEM vs. PHX L 43 36 13 22 59.1 5 6 83.3 5 6 83.3 2 6 8 3 0 2 2 2 -12
+p47
+aVDarko Milicic MEM 04/06/2008 MEM @ MIN W 25 12 4 10 40.0 0 0 - 4 5 80.0 2 3 5 0 0 3 0 3 1
+p48
+aVJuan Carlos Navarro MEM 04/06/2008 MEM @ MIN W 23 9 2 6 33.3 1 4 25.0 4 4 100.0 0 3 3 2 1 0 0 0 0
+p49
+aVKyle Lowry MEM 04/06/2008 MEM @ MIN W 25 9 3 8 37.5 0 0 - 3 3 100.0 0 1 1 7 2 0 2 3 4
+p50
+aVMike Conley MEM 04/06/2008 MEM @ MIN W 23 4 2 9 22.2 0 2 0.0 0 0 - 0 4 4 3 2 1 2 1 8
+p51
+aVJavaris Crittenton MEM 04/06/2008 MEM @ MIN W 8 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 0 -2
+p52
+aVHakim Warrick MEM 04/06/2008 MEM @ MIN W 35 20 6 13 46.2 0 0 - 8 9 88.9 1 1 2 1 1 0 1 2 -5
+p53
+aVMike Miller MEM 04/06/2008 MEM @ MIN W 38 34 12 20 60.0 8 12 66.7 2 2 100.0 1 9 10 6 0 2 0 0 18
+p54
+aVJason Collins MEM 04/06/2008 MEM @ MIN W 23 2 0 0 - 0 0 - 2 2 100.0 1 5 6 0 0 0 1 4 11
+p55
+aVRudy Gay MEM 04/06/2008 MEM @ MIN W 40 23 9 17 52.9 0 4 0.0 5 7 71.4 1 8 9 6 3 1 2 3 25
+p56
+aVMike Miller MEM 04/04/2008 MEM vs. GSW L 31 5 1 6 16.7 1 4 25.0 2 3 66.7 1 6 7 4 0 1 0 1 -25
+p57
+aVCasey Jacobsen MEM 04/04/2008 MEM vs. GSW L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 -2
+p58
+aVJuan Carlos Navarro MEM 04/04/2008 MEM vs. GSW L 22 4 2 8 25.0 0 4 0.0 0 0 - 0 2 2 1 0 0 2 0 -10
+p59
+aVJavaris Crittenton MEM 04/04/2008 MEM vs. GSW L 27 9 3 11 27.3 1 2 50.0 2 2 100.0 0 4 4 2 2 0 2 0 -9
+p60
+aVMike Conley MEM 04/04/2008 MEM vs. GSW L 20 8 4 12 33.3 0 1 0.0 0 0 - 0 2 2 2 1 0 1 1 -23
+p61
+aVDarko Milicic MEM 04/04/2008 MEM vs. GSW L 14 8 4 5 80.0 0 0 - 0 0 - 3 4 7 0 0 2 1 3 -3
+p62
+aVKyle Lowry MEM 04/04/2008 MEM vs. GSW L 28 12 4 9 44.4 0 4 0.0 4 8 50.0 0 1 1 2 0 1 3 2 -8
+p63
+aVBrian Cardinal MEM 04/04/2008 MEM vs. GSW L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 0 0 0
+p64
+aVRudy Gay MEM 04/04/2008 MEM vs. GSW L 33 23 10 17 58.8 3 4 75.0 0 1 0.0 1 6 7 3 0 2 4 1 -19
+p65
+aVHakim Warrick MEM 04/04/2008 MEM vs. GSW L 34 13 4 12 33.3 0 1 0.0 5 8 62.5 2 3 5 0 3 0 2 2 -27
+p66
+aVJason Collins MEM 04/04/2008 MEM vs. GSW L 23 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -29
+p67
+aVKyle Lowry MEM 04/02/2008 MEM vs. NYK W 28 11 5 8 62.5 0 1 0.0 1 1 100.0 0 2 2 6 1 0 2 2 2
+p68
+aVMike Conley MEM 04/02/2008 MEM vs. NYK W 20 18 8 10 80.0 2 4 50.0 0 0 - 0 3 3 2 0 0 0 2 15
+p69
+aVJavaris Crittenton MEM 04/02/2008 MEM vs. NYK W 31 23 7 11 63.6 2 3 66.7 7 7 100.0 1 8 9 4 1 0 3 3 -5
+p70
+aVKwame Brown MEM 04/02/2008 MEM vs. NYK W 30 11 5 8 62.5 0 0 - 1 7 14.3 0 8 8 3 0 0 2 4 4
+p71
+aVDarko Milicic MEM 04/02/2008 MEM vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p72
+aVCasey Jacobsen MEM 04/02/2008 MEM vs. NYK W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p73
+aVHakim Warrick MEM 04/02/2008 MEM vs. NYK W 16 11 4 5 80.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 1 2 10
+p74
+aVJuan Carlos Navarro MEM 04/02/2008 MEM vs. NYK W 19 16 5 7 71.4 4 6 66.7 2 2 100.0 0 0 0 0 0 0 3 0 6
+p75
+aVMike Miller MEM 04/02/2008 MEM vs. NYK W 30 15 5 9 55.6 4 8 50.0 1 2 50.0 0 6 6 4 1 0 3 2 27
+p76
+aVJason Collins MEM 04/02/2008 MEM vs. NYK W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 10
+p77
+aVBrian Cardinal MEM 04/02/2008 MEM vs. NYK W 21 2 1 5 20.0 0 3 0.0 0 0 - 1 3 4 1 0 0 0 2 -8
+p78
+aVRudy Gay MEM 04/02/2008 MEM vs. NYK W 25 21 7 11 63.6 2 4 50.0 5 5 100.0 1 4 5 1 0 1 0 3 20
+p79
+aVJavaris Crittenton MEM 03/31/2008 MEM vs. ATL L 33 7 2 9 22.2 1 4 25.0 2 4 50.0 1 7 8 3 1 0 3 1 5
+p80
+aVKyle Lowry MEM 03/31/2008 MEM vs. ATL L 31 17 7 9 77.8 2 3 66.7 1 6 16.7 1 2 3 2 0 0 1 4 8
+p81
+aVCasey Jacobsen MEM 03/31/2008 MEM vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p82
+aVHakim Warrick MEM 03/31/2008 MEM vs. ATL L 22 11 3 8 37.5 0 0 - 5 6 83.3 2 2 4 1 0 1 2 2 -33
+p83
+aVBrian Cardinal MEM 03/31/2008 MEM vs. ATL L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p84
+aVJason Collins MEM 03/31/2008 MEM vs. ATL L 28 6 3 3 100.0 0 0 - 0 0 - 0 4 4 0 2 0 0 2 13
+p85
+aVMike Conley MEM 03/31/2008 MEM vs. ATL L 17 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 0 0 2 2 -25
+p86
+aVJuan Carlos Navarro MEM 03/31/2008 MEM vs. ATL L 25 17 7 14 50.0 3 7 42.9 0 0 - 1 1 2 2 0 0 0 1 14
+p87
+aVRudy Gay MEM 03/31/2008 MEM vs. ATL L 43 29 14 21 66.7 0 3 0.0 1 3 33.3 2 3 5 4 2 0 4 4 -15
+p88
+aVDarko Milicic MEM 03/31/2008 MEM vs. ATL L 16 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -29
+p89
+aVMike Miller MEM 03/31/2008 MEM vs. ATL L 18 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 2 0 0 3 3 -21
+p90
+aVJuan Carlos Navarro MEM 03/29/2008 MEM @ LAC L 11 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 1 0 1 2 -10
+p91
+aVCasey Jacobsen MEM 03/29/2008 MEM @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p92
+aVRudy Gay MEM 03/29/2008 MEM @ LAC L 40 23 9 18 50.0 0 3 0.0 5 7 71.4 0 6 6 1 1 0 4 2 -6
+p93
+aVDarko Milicic MEM 03/29/2008 MEM @ LAC L 27 7 3 11 27.3 0 0 - 1 2 50.0 5 4 9 1 0 2 1 2 -4
+p94
+aVMike Miller MEM 03/29/2008 MEM @ LAC L 31 6 3 10 30.0 0 4 0.0 0 0 - 0 4 4 1 2 0 2 2 -12
+p95
+aVHakim Warrick MEM 03/29/2008 MEM @ LAC L 35 14 7 11 63.6 0 1 0.0 0 0 - 2 1 3 3 0 0 0 2 -14
+p96
+aVJason Collins MEM 03/29/2008 MEM @ LAC L 12 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 2 -3
+p97
+aVKyle Lowry MEM 03/29/2008 MEM @ LAC L 22 20 7 9 77.8 0 0 - 6 9 66.7 0 2 2 3 0 0 1 3 -7
+p98
+aVBrian Cardinal MEM 03/29/2008 MEM @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p99
+aVMike Conley MEM 03/29/2008 MEM @ LAC L 32 17 6 12 50.0 1 3 33.3 4 4 100.0 0 1 1 5 0 0 4 2 -10
+p100
+aVJavaris Crittenton MEM 03/29/2008 MEM @ LAC L 25 9 3 5 60.0 0 0 - 3 3 100.0 1 4 5 1 0 0 3 4 -1
+p101
+aVJuan Carlos Navarro MEM 03/28/2008 MEM @ LAL W 18 9 3 6 50.0 1 3 33.3 2 3 66.7 0 3 3 1 0 0 1 0 -7
+p102
+aVMike Miller MEM 03/28/2008 MEM @ LAL W 35 10 3 8 37.5 0 1 0.0 4 6 66.7 0 10 10 3 0 0 3 3 -4
+p103
+aVKyle Lowry MEM 03/28/2008 MEM @ LAL W 24 13 4 6 66.7 0 0 - 5 5 100.0 0 0 0 2 1 0 2 3 -8
+p104
+aVHakim Warrick MEM 03/28/2008 MEM @ LAL W 30 16 6 10 60.0 0 0 - 4 4 100.0 3 2 5 1 0 0 4 0 -1
+p105
+aVJason Collins MEM 03/28/2008 MEM @ LAL W 15 6 2 2 100.0 0 0 - 2 2 100.0 2 3 5 0 1 0 1 2 -4
+p106
+aVDarko Milicic MEM 03/28/2008 MEM @ LAL W 33 20 7 14 50.0 0 0 - 6 7 85.7 3 9 12 3 0 4 2 1 6
+p107
+aVMike Conley MEM 03/28/2008 MEM @ LAL W 24 6 1 6 16.7 0 2 0.0 4 4 100.0 0 3 3 5 0 0 2 3 11
+p108
+aVRudy Gay MEM 03/28/2008 MEM @ LAL W 44 28 11 20 55.0 1 6 16.7 5 7 71.4 0 7 7 4 1 3 0 2 10
+p109
+aVJavaris Crittenton MEM 03/28/2008 MEM @ LAL W 18 6 3 9 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 2 12
+p110
+aVDarko Milicic MEM 03/26/2008 MEM @ SAC L 35 4 2 5 40.0 0 0 - 0 2 0.0 4 5 9 0 1 2 2 4 10
+p111
+aVKyle Lowry MEM 03/26/2008 MEM @ SAC L 30 16 6 13 46.2 0 1 0.0 4 6 66.7 1 4 5 5 0 1 3 4 7
+p112
+aVJavaris Crittenton MEM 03/26/2008 MEM @ SAC L 26 13 5 9 55.6 1 3 33.3 2 2 100.0 4 5 9 3 1 0 4 2 3
+p113
+aVRudy Gay MEM 03/26/2008 MEM @ SAC L 37 13 5 11 45.5 0 3 0.0 3 3 100.0 1 3 4 3 2 1 6 5 10
+p114
+aVHakim Warrick MEM 03/26/2008 MEM @ SAC L 44 26 9 17 52.9 2 3 66.7 6 7 85.7 0 8 8 0 2 0 1 5 -8
+p115
+aVMike Conley MEM 03/26/2008 MEM @ SAC L 23 9 4 9 44.4 0 2 0.0 1 2 50.0 0 2 2 3 0 0 2 2 -8
+p116
+aVMike Miller MEM 03/26/2008 MEM @ SAC L 32 14 6 11 54.5 2 5 40.0 0 0 - 0 4 4 6 1 0 2 6 -10
+p117
+aVBrian Cardinal MEM 03/26/2008 MEM @ SAC L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p118
+aVJuan Carlos Navarro MEM 03/26/2008 MEM @ SAC L 17 9 4 9 44.4 1 5 20.0 0 0 - 0 2 2 1 0 0 2 1 -1
+p119
+aVJason Collins MEM 03/26/2008 MEM @ SAC L 18 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 2 1 1 2 -11
+p120
+aVHakim Warrick MEM 03/24/2008 MEM vs. DEN L 34 29 10 13 76.9 2 2 100.0 7 8 87.5 3 4 7 0 3 0 1 0 -12
+p121
+aVJavaris Crittenton MEM 03/24/2008 MEM vs. DEN L 23 14 6 9 66.7 1 2 50.0 1 2 50.0 1 1 2 3 1 0 1 0 -1
+p122
+aVRudy Gay MEM 03/24/2008 MEM vs. DEN L 42 30 13 28 46.4 2 7 28.6 2 2 100.0 1 2 3 2 1 3 4 1 -19
+p123
+aVJason Collins MEM 03/24/2008 MEM vs. DEN L 25 2 1 1 100.0 0 0 - 0 2 0.0 3 5 8 2 0 1 2 5 7
+p124
+aVBrian Cardinal MEM 03/24/2008 MEM vs. DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p125
+aVMike Conley MEM 03/24/2008 MEM vs. DEN L 24 3 1 5 20.0 0 0 - 1 2 50.0 1 5 6 4 1 0 1 2 -20
+p126
+aVCasey Jacobsen MEM 03/24/2008 MEM vs. DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p127
+aVKyle Lowry MEM 03/24/2008 MEM vs. DEN L 24 9 4 11 36.4 0 1 0.0 1 2 50.0 0 2 2 4 1 0 1 3 6
+p128
+aVJuan Carlos Navarro MEM 03/24/2008 MEM vs. DEN L 15 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 3 0 0 1 1 1
+p129
+aVDarko Milicic MEM 03/24/2008 MEM vs. DEN L 11 0 0 4 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 4 -17
+p130
+aVMike Miller MEM 03/24/2008 MEM vs. DEN L 38 19 7 20 35.0 4 10 40.0 1 1 100.0 3 11 14 0 1 0 2 3 -25
+p131
+aVMike Conley MEM 03/22/2008 MEM vs. SAC W 27 10 4 6 66.7 1 1 100.0 1 2 50.0 1 1 2 6 1 0 3 3 11
+p132
+aVJavaris Crittenton MEM 03/22/2008 MEM vs. SAC W 18 8 2 7 28.6 0 0 - 4 8 50.0 1 2 3 1 0 0 1 3 5
+p133
+aVMike Miller MEM 03/22/2008 MEM vs. SAC W 30 12 5 8 62.5 1 4 25.0 1 3 33.3 0 3 3 3 0 0 0 2 9
+p134
+aVJuan Carlos Navarro MEM 03/22/2008 MEM vs. SAC W 29 22 7 12 58.3 6 9 66.7 2 3 66.7 0 2 2 2 1 0 0 1 6
+p135
+aVKyle Lowry MEM 03/22/2008 MEM vs. SAC W 21 10 3 6 50.0 0 0 - 4 4 100.0 0 3 3 5 2 0 0 2 -6
+p136
+aVHakim Warrick MEM 03/22/2008 MEM vs. SAC W 33 12 4 9 44.4 0 0 - 4 7 57.1 1 4 5 0 0 0 3 2 -5
+p137
+aVRudy Gay MEM 03/22/2008 MEM vs. SAC W 34 24 10 20 50.0 4 10 40.0 0 0 - 1 6 7 3 0 1 0 2 3
+p138
+aVDarko Milicic MEM 03/22/2008 MEM vs. SAC W 30 19 6 11 54.5 0 0 - 7 8 87.5 4 6 10 1 1 3 1 1 10
+p139
+aVJason Collins MEM 03/22/2008 MEM vs. SAC W 17 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 2 1 4 -3
+p140
+aVBrian Cardinal MEM 03/22/2008 MEM vs. SAC W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p141
+aVMike Conley MEM 03/21/2008 MEM @ NYK W 30 11 5 8 62.5 1 1 100.0 0 0 - 0 3 3 6 1 0 3 2 15
+p142
+aVHakim Warrick MEM 03/21/2008 MEM @ NYK W 39 11 4 12 33.3 0 0 - 3 3 100.0 2 8 10 0 0 0 3 2 -3
+p143
+aVDarko Milicic MEM 03/21/2008 MEM @ NYK W 19 7 3 6 50.0 0 0 - 1 4 25.0 0 2 2 0 1 0 1 2 3
+p144
+aVKyle Lowry MEM 03/21/2008 MEM @ NYK W 18 9 2 5 40.0 1 1 100.0 4 4 100.0 0 2 2 2 2 0 0 2 -1
+p145
+aVMike Miller MEM 03/21/2008 MEM @ NYK W 36 34 12 16 75.0 7 11 63.6 3 3 100.0 0 7 7 4 1 1 3 2 18
+p146
+aVJason Collins MEM 03/21/2008 MEM @ NYK W 15 5 1 2 50.0 0 0 - 3 3 100.0 3 1 4 0 0 0 0 2 10
+p147
+aVJavaris Crittenton MEM 03/21/2008 MEM @ NYK W 10 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 0 2
+p148
+aVCasey Jacobsen MEM 03/21/2008 MEM @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p149
+aVRudy Gay MEM 03/21/2008 MEM @ NYK W 34 24 8 15 53.3 0 4 0.0 8 8 100.0 2 5 7 0 0 2 3 1 0
+p150
+aVJuan Carlos Navarro MEM 03/21/2008 MEM @ NYK W 34 17 5 12 41.7 4 10 40.0 3 4 75.0 0 5 5 4 0 0 1 0 23
+p151
+aVBrian Cardinal MEM 03/21/2008 MEM @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 6
+p152
+aVMike Miller MEM 03/19/2008 MEM @ MIN L 34 20 7 15 46.7 3 5 60.0 3 4 75.0 1 9 10 0 0 1 2 1 -10
+p153
+aVKyle Lowry MEM 03/19/2008 MEM @ MIN L 21 8 2 4 50.0 0 1 0.0 4 4 100.0 0 1 1 1 1 0 0 3 6
+p154
+aVKwame Brown MEM 03/19/2008 MEM @ MIN L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p155
+aVMike Conley MEM 03/19/2008 MEM @ MIN L 27 9 3 10 30.0 0 1 0.0 3 4 75.0 0 3 3 0 1 0 1 3 -9
+p156
+aVJuan Carlos Navarro MEM 03/19/2008 MEM @ MIN L 28 11 5 17 29.4 1 8 12.5 0 0 - 0 2 2 0 1 0 0 1 -1
+p157
+aVJason Collins MEM 03/19/2008 MEM @ MIN L 19 2 1 1 100.0 0 0 - 0 3 0.0 1 3 4 0 0 1 0 5 -1
+p158
+aVRudy Gay MEM 03/19/2008 MEM @ MIN L 40 25 9 23 39.1 1 7 14.3 6 8 75.0 2 5 7 2 1 1 4 3 -1
+p159
+aVHakim Warrick MEM 03/19/2008 MEM @ MIN L 31 7 3 5 60.0 0 0 - 1 2 50.0 3 8 11 3 1 3 0 2 -3
+p160
+aVJavaris Crittenton MEM 03/19/2008 MEM @ MIN L 11 5 1 2 50.0 0 0 - 3 4 75.0 1 3 4 0 0 0 2 0 5
+p161
+aVDarko Milicic MEM 03/19/2008 MEM @ MIN L 26 5 2 4 50.0 0 0 - 1 4 25.0 2 7 9 3 0 2 0 3 -2
+p162
+aVMike Miller MEM 03/17/2008 MEM vs. CHA W 29 18 7 14 50.0 2 4 50.0 2 3 66.7 3 10 13 2 0 0 5 4 20
+p163
+aVMike Conley MEM 03/17/2008 MEM vs. CHA W 27 8 3 8 37.5 0 1 0.0 2 4 50.0 0 3 3 5 0 0 1 0 14
+p164
+aVHakim Warrick MEM 03/17/2008 MEM vs. CHA W 25 19 7 11 63.6 0 0 - 5 11 45.5 4 2 6 1 1 0 0 2 -2
+p165
+aVJavaris Crittenton MEM 03/17/2008 MEM vs. CHA W 29 7 3 7 42.9 0 0 - 1 1 100.0 1 3 4 0 1 0 0 1 10
+p166
+aVJason Collins MEM 03/17/2008 MEM vs. CHA W 17 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 3 4
+p167
+aVJuan Carlos Navarro MEM 03/17/2008 MEM vs. CHA W 35 21 7 11 63.6 3 5 60.0 4 5 80.0 0 1 1 2 2 0 1 1 14
+p168
+aVKyle Lowry MEM 03/17/2008 MEM vs. CHA W 21 4 2 6 33.3 0 2 0.0 0 1 0.0 1 2 3 2 1 1 2 2 4
+p169
+aVCasey Jacobsen MEM 03/17/2008 MEM vs. CHA W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p170
+aVKwame Brown MEM 03/17/2008 MEM vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p171
+aVRudy Gay MEM 03/17/2008 MEM vs. CHA W 25 8 4 10 40.0 0 1 0.0 0 0 - 1 3 4 2 0 1 3 5 14
+p172
+aVDarko Milicic MEM 03/17/2008 MEM vs. CHA W 29 11 4 13 30.8 0 0 - 3 6 50.0 4 6 10 1 1 1 0 1 17
+p173
+aVJuan Carlos Navarro MEM 03/15/2008 MEM @ GSW L 25 20 6 11 54.5 3 5 60.0 5 6 83.3 1 1 2 2 3 0 0 1 8
+p174
+aVMike Miller MEM 03/15/2008 MEM @ GSW L 38 19 7 13 53.8 1 5 20.0 4 5 80.0 1 12 13 6 1 0 2 2 3
+p175
+aVRudy Gay MEM 03/15/2008 MEM @ GSW L 40 20 8 24 33.3 0 3 0.0 4 4 100.0 4 7 11 2 2 2 3 3 -8
+p176
+aVHakim Warrick MEM 03/15/2008 MEM @ GSW L 45 23 9 18 50.0 0 0 - 5 8 62.5 4 3 7 1 3 1 2 3 -6
+p177
+aVKyle Lowry MEM 03/15/2008 MEM @ GSW L 43 12 5 10 50.0 0 0 - 2 4 50.0 0 1 1 5 5 1 3 5 -3
+p178
+aVJavaris Crittenton MEM 03/15/2008 MEM @ GSW L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p179
+aVMike Conley MEM 03/15/2008 MEM @ GSW L 28 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 2 1 0 2 3 -13
+p180
+aVBrian Cardinal MEM 03/15/2008 MEM @ GSW L 18 8 3 5 60.0 2 2 100.0 0 0 - 5 3 8 2 0 0 2 1 5
+p181
+aVCasey Jacobsen MEM 03/12/2008 MEM @ DEN L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 4
+p182
+aVRudy Gay MEM 03/12/2008 MEM @ DEN L 18 9 3 8 37.5 0 3 0.0 3 4 75.0 1 3 4 0 0 1 0 0 -10
+p183
+aVMike Conley MEM 03/12/2008 MEM @ DEN L 27 4 2 13 15.4 0 1 0.0 0 0 - 0 2 2 3 0 0 4 1 -3
+p184
+aVDarko Milicic MEM 03/12/2008 MEM @ DEN L 9 0 0 2 0.0 0 0 - 0 2 0.0 2 2 4 0 0 1 0 0 2
+p185
+aVJavaris Crittenton MEM 03/12/2008 MEM @ DEN L 15 11 4 9 44.4 0 1 0.0 3 3 100.0 1 1 2 1 1 0 1 0 3
+p186
+aVHakim Warrick MEM 03/12/2008 MEM @ DEN L 31 12 5 11 45.5 0 0 - 2 2 100.0 1 4 5 3 1 0 0 4 -19
+p187
+aVJuan Carlos Navarro MEM 03/12/2008 MEM @ DEN L 22 16 5 13 38.5 4 9 44.4 2 2 100.0 3 4 7 1 0 0 0 1 -22
+p188
+aVJason Collins MEM 03/12/2008 MEM @ DEN L 20 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 4 -10
+p189
+aVBrian Cardinal MEM 03/12/2008 MEM @ DEN L 17 12 5 11 45.5 1 6 16.7 1 3 33.3 1 2 3 1 0 0 1 4 -3
+p190
+aVMike Miller MEM 03/12/2008 MEM @ DEN L 30 12 3 12 25.0 1 7 14.3 5 5 100.0 0 9 9 4 0 0 3 2 -25
+p191
+aVKyle Lowry MEM 03/12/2008 MEM @ DEN L 23 6 3 5 60.0 0 1 0.0 0 2 0.0 0 2 2 5 0 1 2 2 -22
+p192
+aVKwame Brown MEM 03/12/2008 MEM @ DEN L 15 4 2 3 66.7 0 0 - 0 0 - 2 4 6 2 0 0 0 3 -5
+p193
+aVKyle Lowry MEM 03/11/2008 MEM @ PHX L 25 11 2 8 25.0 1 3 33.3 6 8 75.0 1 2 3 3 1 1 0 2 -15
+p194
+aVMike Conley MEM 03/11/2008 MEM @ PHX L 23 10 5 13 38.5 0 1 0.0 0 0 - 1 4 5 4 0 0 1 2 -6
+p195
+aVDarko Milicic MEM 03/11/2008 MEM @ PHX L 24 12 6 15 40.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -33
+p196
+aVJuan Carlos Navarro MEM 03/11/2008 MEM @ PHX L 28 5 1 9 11.1 1 5 20.0 2 2 100.0 0 0 0 2 1 0 2 1 -23
+p197
+aVRudy Gay MEM 03/11/2008 MEM @ PHX L 34 20 9 15 60.0 2 3 66.7 0 0 - 4 4 8 1 1 0 1 2 -28
+p198
+aVKwame Brown MEM 03/11/2008 MEM @ PHX L 14 8 3 5 60.0 0 0 - 2 2 100.0 2 5 7 0 1 0 1 3 8
+p199
+aVCasey Jacobsen MEM 03/11/2008 MEM @ PHX L 12 8 4 7 57.1 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 9
+p200
+aVMike Miller MEM 03/11/2008 MEM @ PHX L 22 12 1 5 20.0 1 4 25.0 9 9 100.0 0 1 1 2 0 0 1 0 -27
+p201
+aVJason Collins MEM 03/11/2008 MEM @ PHX L 9 5 1 1 100.0 0 0 - 3 4 75.0 1 3 4 0 0 1 1 1 4
+p202
+aVBrian Cardinal MEM 03/11/2008 MEM @ PHX L 12 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 9
+p203
+aVHakim Warrick MEM 03/11/2008 MEM @ PHX L 16 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 1 0 0 1 0 -5
+p204
+aVJavaris Crittenton MEM 03/11/2008 MEM @ PHX L 20 6 2 7 28.6 0 1 0.0 2 4 50.0 0 2 2 3 0 0 1 4 2
+p205
+aVMike Miller MEM 03/08/2008 MEM vs. BOS L 23 9 3 7 42.9 2 4 50.0 1 2 50.0 1 2 3 1 0 0 2 0 -18
+p206
+aVHakim Warrick MEM 03/08/2008 MEM vs. BOS L 31 15 4 9 44.4 0 0 - 7 9 77.8 3 2 5 0 0 1 1 1 -34
+p207
+aVMike Conley MEM 03/08/2008 MEM vs. BOS L 24 11 5 8 62.5 1 1 100.0 0 0 - 1 0 1 3 0 0 3 1 -17
+p208
+aVRudy Gay MEM 03/08/2008 MEM vs. BOS L 33 13 4 15 26.7 0 5 0.0 5 6 83.3 1 3 4 2 2 1 1 1 -27
+p209
+aVKwame Brown MEM 03/08/2008 MEM vs. BOS L 12 2 0 1 0.0 0 0 - 2 4 50.0 2 2 4 0 0 0 1 1 -4
+p210
+aVKyle Lowry MEM 03/08/2008 MEM vs. BOS L 24 5 1 3 33.3 0 2 0.0 3 5 60.0 0 3 3 4 0 0 2 5 -13
+p211
+aVDarko Milicic MEM 03/08/2008 MEM vs. BOS L 31 10 4 8 50.0 0 0 - 2 2 100.0 1 3 4 1 1 2 0 3 -24
+p212
+aVBrian Cardinal MEM 03/08/2008 MEM vs. BOS L 12 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 0 1 0 0 0 -4
+p213
+aVCasey Jacobsen MEM 03/08/2008 MEM vs. BOS L 7 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 0 6
+p214
+aVJavaris Crittenton MEM 03/08/2008 MEM vs. BOS L 17 8 3 7 42.9 0 1 0.0 2 3 66.7 1 2 3 1 0 0 1 1 5
+p215
+aVJuan Carlos Navarro MEM 03/08/2008 MEM vs. BOS L 16 3 1 6 16.7 1 5 20.0 0 0 - 0 1 1 2 0 0 1 1 -14
+p216
+aVJason Collins MEM 03/08/2008 MEM vs. BOS L 11 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 3 -6
+p217
+aVKyle Lowry MEM 03/05/2008 MEM vs. NJN W 35 15 5 12 41.7 1 3 33.3 4 5 80.0 0 4 4 7 1 0 0 2 4
+p218
+aVJason Collins MEM 03/05/2008 MEM vs. NJN W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 3
+p219
+aVMike Conley MEM 03/05/2008 MEM vs. NJN W 13 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 4 3
+p220
+aVDarko Milicic MEM 03/05/2008 MEM vs. NJN W 34 16 8 12 66.7 0 0 - 0 0 - 3 8 11 0 0 2 3 4 1
+p221
+aVRudy Gay MEM 03/05/2008 MEM vs. NJN W 45 13 5 15 33.3 1 4 25.0 2 2 100.0 2 8 10 5 1 0 2 4 10
+p222
+aVJuan Carlos Navarro MEM 03/05/2008 MEM vs. NJN W 24 6 2 6 33.3 0 4 0.0 2 2 100.0 0 1 1 3 0 0 2 2 12
+p223
+aVMike Miller MEM 03/05/2008 MEM vs. NJN W 30 22 9 13 69.2 1 2 50.0 3 6 50.0 1 5 6 1 2 0 2 1 -2
+p224
+aVJavaris Crittenton MEM 03/05/2008 MEM vs. NJN W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p225
+aVHakim Warrick MEM 03/05/2008 MEM vs. NJN W 37 25 9 15 60.0 0 0 - 7 8 87.5 2 5 7 0 0 0 2 2 7
+p226
+aVDarko Milicic MEM 03/04/2008 MEM @ CHI L 32 21 10 14 71.4 0 0 - 1 4 25.0 2 5 7 0 0 0 0 4 -2
+p227
+aVKwame Brown MEM 03/04/2008 MEM @ CHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -11
+p228
+aVBrian Cardinal MEM 03/04/2008 MEM @ CHI L 26 0 0 5 0.0 0 3 0.0 0 0 - 2 5 7 2 0 0 2 4 2
+p229
+aVAndre Brown MEM 03/04/2008 MEM @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p230
+aVRudy Gay MEM 03/04/2008 MEM @ CHI L 43 21 8 18 44.4 2 8 25.0 3 3 100.0 2 3 5 2 0 1 2 2 -13
+p231
+aVKyle Lowry MEM 03/04/2008 MEM @ CHI L 32 24 8 12 66.7 1 1 100.0 7 8 87.5 0 1 1 4 2 0 1 1 0
+p232
+aVMike Conley MEM 03/04/2008 MEM @ CHI L 16 0 0 6 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -15
+p233
+aVCasey Jacobsen MEM 03/04/2008 MEM @ CHI L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p234
+aVJason Collins MEM 03/04/2008 MEM @ CHI L 7 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 0 1 -2
+p235
+aVJuan Carlos Navarro MEM 03/04/2008 MEM @ CHI L 18 4 1 7 14.3 0 1 0.0 2 2 100.0 0 1 1 2 0 0 2 0 -17
+p236
+aVHakim Warrick MEM 03/04/2008 MEM @ CHI L 26 8 4 11 36.4 0 1 0.0 0 0 - 5 5 10 1 1 0 1 3 -19
+p237
+aVJavaris Crittenton MEM 03/04/2008 MEM @ CHI L 30 17 7 15 46.7 1 4 25.0 2 2 100.0 1 3 4 4 1 0 2 4 2
+p238
+aVRudy Gay MEM 03/01/2008 MEM vs. UTA L 43 20 6 17 35.3 3 9 33.3 5 6 83.3 4 3 7 1 3 1 5 6 -20
+p239
+aVJason Collins MEM 03/01/2008 MEM vs. UTA L 8 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 1 2 1 -20
+p240
+aVHakim Warrick MEM 03/01/2008 MEM vs. UTA L 37 17 7 14 50.0 0 1 0.0 3 6 50.0 2 11 13 1 1 1 4 4 -19
+p241
+aVJuan Carlos Navarro MEM 03/01/2008 MEM vs. UTA L 29 17 6 12 50.0 2 7 28.6 3 4 75.0 2 1 3 5 0 0 3 2 -15
+p242
+aVJavaris Crittenton MEM 03/01/2008 MEM vs. UTA L 19 8 1 3 33.3 0 1 0.0 6 10 60.0 0 0 0 1 0 0 0 2 -6
+p243
+aVDarko Milicic MEM 03/01/2008 MEM vs. UTA L 37 11 4 6 66.7 0 0 - 3 4 75.0 2 9 11 1 1 0 1 5 -2
+p244
+aVMike Conley MEM 03/01/2008 MEM vs. UTA L 28 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 0 -12
+p245
+aVBrian Cardinal MEM 03/01/2008 MEM vs. UTA L 18 5 2 4 50.0 1 3 33.3 0 1 0.0 0 3 3 0 0 0 0 1 -2
+p246
+aVKyle Lowry MEM 03/01/2008 MEM vs. UTA L 20 8 3 8 37.5 0 2 0.0 2 3 66.7 1 0 1 2 1 0 1 3 -9
+p247
+aVKyle Lowry MEM 02/29/2008 MEM @ HOU L 32 18 6 11 54.5 1 1 100.0 5 9 55.6 1 3 4 6 3 0 3 3 4
+p248
+aVKwame Brown MEM 02/29/2008 MEM @ HOU L 9 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 1 0
+p249
+aVAndre Brown MEM 02/29/2008 MEM @ HOU L 4 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 -1
+p250
+aVJuan Carlos Navarro MEM 02/29/2008 MEM @ HOU L 25 11 4 8 50.0 1 3 33.3 2 2 100.0 0 4 4 0 0 0 2 2 -20
+p251
+aVMike Conley MEM 02/29/2008 MEM @ HOU L 17 9 3 9 33.3 1 2 50.0 2 2 100.0 0 1 1 1 2 0 0 0 -20
+p252
+aVCasey Jacobsen MEM 02/29/2008 MEM @ HOU L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p253
+aVBrian Cardinal MEM 02/29/2008 MEM @ HOU L 20 8 2 4 50.0 2 4 50.0 2 2 100.0 1 2 3 0 0 1 2 4 -14
+p254
+aVHakim Warrick MEM 02/29/2008 MEM @ HOU L 29 8 3 15 20.0 0 1 0.0 2 2 100.0 5 3 8 1 2 1 2 1 -25
+p255
+aVRudy Gay MEM 02/29/2008 MEM @ HOU L 36 11 5 16 31.3 1 3 33.3 0 0 - 3 2 5 1 2 2 2 3 -26
+p256
+aVJason Collins MEM 02/29/2008 MEM @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p257
+aVJavaris Crittenton MEM 02/29/2008 MEM @ HOU L 34 22 9 19 47.4 1 3 33.3 3 5 60.0 2 1 3 4 1 1 0 2 -1
+p258
+aVDarko Milicic MEM 02/29/2008 MEM @ HOU L 21 2 1 4 25.0 0 0 - 0 0 - 0 8 8 0 0 2 1 4 3
+p259
+aVJuan Carlos Navarro MEM 02/26/2008 MEM vs. PHX L 43 23 7 18 38.9 6 11 54.5 3 3 100.0 1 2 3 5 1 0 2 1 -13
+p260
+aVJavaris Crittenton MEM 02/26/2008 MEM vs. PHX L 10 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -5
+p261
+aVHakim Warrick MEM 02/26/2008 MEM vs. PHX L 45 16 8 12 66.7 0 0 - 0 0 - 3 8 11 2 1 1 2 3 -18
+p262
+aVBrian Cardinal MEM 02/26/2008 MEM vs. PHX L 21 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 0 1 0 0 3 -8
+p263
+aVJason Collins MEM 02/26/2008 MEM vs. PHX L 6 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 3 -2
+p264
+aVKyle Lowry MEM 02/26/2008 MEM vs. PHX L 17 4 2 6 33.3 0 1 0.0 0 0 - 1 4 5 1 1 0 0 2 -4
+p265
+aVMike Conley MEM 02/26/2008 MEM vs. PHX L 31 15 7 15 46.7 0 3 0.0 1 1 100.0 0 2 2 11 2 0 3 4 -10
+p266
+aVDarko Milicic MEM 02/26/2008 MEM vs. PHX L 21 15 6 12 50.0 0 0 - 3 3 100.0 4 3 7 0 2 1 1 3 10
+p267
+aVRudy Gay MEM 02/26/2008 MEM vs. PHX L 45 36 14 27 51.9 4 9 44.4 4 4 100.0 1 2 3 0 1 1 1 2 -20
+p268
+aVKwame Brown MEM 02/24/2008 MEM @ CLE L 20 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 1 0 1 2 2 0
+p269
+aVKyle Lowry MEM 02/24/2008 MEM @ CLE L 28 13 5 11 45.5 0 2 0.0 3 4 75.0 0 2 2 3 1 0 3 1 -12
+p270
+aVBrian Cardinal MEM 02/24/2008 MEM @ CLE L 11 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 1 1 0 3 -7
+p271
+aVJuan Carlos Navarro MEM 02/24/2008 MEM @ CLE L 36 14 5 11 45.5 2 4 50.0 2 2 100.0 0 2 2 1 0 0 2 0 -9
+p272
+aVDarko Milicic MEM 02/24/2008 MEM @ CLE L 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -17
+p273
+aVRudy Gay MEM 02/24/2008 MEM @ CLE L 40 19 8 17 47.1 1 3 33.3 2 4 50.0 3 4 7 2 4 1 4 3 -21
+p274
+aVAndre Brown MEM 02/24/2008 MEM @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p275
+aVJavaris Crittenton MEM 02/24/2008 MEM @ CLE L 12 4 1 7 14.3 0 1 0.0 2 2 100.0 1 1 2 0 1 0 0 1 -11
+p276
+aVMike Conley MEM 02/24/2008 MEM @ CLE L 20 10 4 7 57.1 0 0 - 2 5 40.0 0 1 1 4 2 0 0 1 -8
+p277
+aVHakim Warrick MEM 02/24/2008 MEM @ CLE L 43 21 8 15 53.3 0 1 0.0 5 5 100.0 1 8 9 1 1 0 3 3 -13
+p278
+aVJason Collins MEM 02/24/2008 MEM @ CLE L 15 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 1 0 1 3 -3
+p279
+aVHakim Warrick MEM 02/22/2008 MEM vs. DAL L 34 15 5 16 31.3 0 2 0.0 5 8 62.5 5 4 9 0 1 0 3 5 -28
+p280
+aVMike Conley MEM 02/22/2008 MEM vs. DAL L 31 11 4 13 30.8 1 3 33.3 2 2 100.0 0 0 0 4 0 0 2 0 -2
+p281
+aVJavaris Crittenton MEM 02/22/2008 MEM vs. DAL L 18 10 3 6 50.0 1 2 50.0 3 4 75.0 0 4 4 0 0 0 2 0 -9
+p282
+aVAndre Brown MEM 02/22/2008 MEM vs. DAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p283
+aVBrian Cardinal MEM 02/22/2008 MEM vs. DAL L 20 7 3 4 75.0 1 2 50.0 0 0 - 1 4 5 2 0 0 2 5 13
+p284
+aVKwame Brown MEM 02/22/2008 MEM vs. DAL L 31 6 3 6 50.0 0 0 - 0 0 - 5 4 9 2 1 1 3 2 1
+p285
+aVJuan Carlos Navarro MEM 02/22/2008 MEM vs. DAL L 21 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 1 2 -19
+p286
+aVDarko Milicic MEM 02/22/2008 MEM vs. DAL L 15 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 1 0 1 3 -20
+p287
+aVRudy Gay MEM 02/22/2008 MEM vs. DAL L 38 18 5 15 33.3 1 5 20.0 7 9 77.8 1 5 6 3 3 2 2 1 -16
+p288
+aVKyle Lowry MEM 02/22/2008 MEM vs. DAL L 30 12 5 11 45.5 0 3 0.0 2 4 50.0 1 2 3 3 4 0 0 4 1
+p289
+aVRudy Gay MEM 02/20/2008 MEM @ LAC L 39 21 7 17 41.2 3 6 50.0 4 5 80.0 0 3 3 1 1 2 4 4 -3
+p290
+aVMike Conley MEM 02/20/2008 MEM @ LAC L 32 16 5 10 50.0 1 1 100.0 5 6 83.3 1 2 3 2 1 0 3 1 -9
+p291
+aVJuan Carlos Navarro MEM 02/20/2008 MEM @ LAC L 38 14 5 14 35.7 0 4 0.0 4 4 100.0 1 5 6 5 1 0 2 0 -11
+p292
+aVJason Collins MEM 02/20/2008 MEM @ LAC L 24 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 1 1 2 -15
+p293
+aVHakim Warrick MEM 02/20/2008 MEM @ LAC L 39 20 8 14 57.1 1 2 50.0 3 6 50.0 4 3 7 1 0 0 1 5 -14
+p294
+aVDarko Milicic MEM 02/20/2008 MEM @ LAC L 20 2 0 7 0.0 0 0 - 2 4 50.0 3 5 8 1 3 0 0 1 -1
+p295
+aVJavaris Crittenton MEM 02/20/2008 MEM @ LAC L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 0 0 0 1 1 -3
+p296
+aVBrian Cardinal MEM 02/20/2008 MEM @ LAC L 20 8 2 10 20.0 1 5 20.0 3 3 100.0 2 5 7 0 0 0 1 5 -9
+p297
+aVKyle Lowry MEM 02/20/2008 MEM @ LAC L 16 5 1 2 50.0 0 0 - 3 4 75.0 0 2 2 4 0 2 2 3 -5
+p298
+aVKyle Lowry MEM 02/19/2008 MEM @ SEA L 19 5 2 7 28.6 0 0 - 1 1 100.0 0 3 3 5 3 0 0 0 0
+p299
+aVHakim Warrick MEM 02/19/2008 MEM @ SEA L 39 22 10 18 55.6 0 1 0.0 2 2 100.0 3 3 6 2 0 2 4 2 -8
+p300
+aVMike Conley MEM 02/19/2008 MEM @ SEA L 31 8 3 9 33.3 0 0 - 2 2 100.0 0 4 4 9 2 0 1 2 -12
+p301
+aVJuan Carlos Navarro MEM 02/19/2008 MEM @ SEA L 35 16 6 15 40.0 2 7 28.6 2 2 100.0 2 1 3 1 2 0 3 1 -4
+p302
+aVBrian Cardinal MEM 02/19/2008 MEM @ SEA L 15 8 2 4 50.0 2 4 50.0 2 2 100.0 1 2 3 1 1 0 0 2 -5
+p303
+aVMike Miller MEM 02/19/2008 MEM @ SEA L 12 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 1 0 0 0 0 4
+p304
+aVJason Collins MEM 02/19/2008 MEM @ SEA L 27 8 4 7 57.1 0 0 - 0 3 0.0 3 7 10 0 0 1 0 6 -11
+p305
+aVRudy Gay MEM 02/19/2008 MEM @ SEA L 41 23 9 23 39.1 2 7 28.6 3 4 75.0 0 7 7 3 2 2 3 5 -5
+p306
+aVDarko Milicic MEM 02/19/2008 MEM @ SEA L 21 4 2 8 25.0 0 0 - 0 0 - 3 4 7 0 1 2 1 2 6
+p307
+aVDarko Milicic MEM 02/13/2008 MEM @ PHI L 13 0 0 4 0.0 0 0 - 0 0 - 1 4 5 0 1 1 3 1 -21
+p308
+aVKyle Lowry MEM 02/13/2008 MEM @ PHI L 39 15 4 8 50.0 3 5 60.0 4 4 100.0 1 5 6 6 0 0 3 2 6
+p309
+aVKwame Brown MEM 02/13/2008 MEM @ PHI L 20 1 0 3 0.0 0 0 - 1 2 50.0 4 0 4 5 1 0 2 1 -2
+p310
+aVMike Miller MEM 02/13/2008 MEM @ PHI L 29 13 6 10 60.0 1 5 20.0 0 0 - 0 3 3 1 1 0 2 1 -15
+p311
+aVHakim Warrick MEM 02/13/2008 MEM @ PHI L 34 23 11 17 64.7 0 1 0.0 1 4 25.0 5 3 8 0 1 0 2 1 -11
+p312
+aVJavaris Crittenton MEM 02/13/2008 MEM @ PHI L 15 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 0 0 0 3 1 2
+p313
+aVBrian Cardinal MEM 02/13/2008 MEM @ PHI L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 0
+p314
+aVJuan Carlos Navarro MEM 02/13/2008 MEM @ PHI L 31 7 3 11 27.3 1 7 14.3 0 0 - 0 4 4 2 1 0 3 2 1
+p315
+aVMike Conley MEM 02/13/2008 MEM @ PHI L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -20
+p316
+aVJason Collins MEM 02/13/2008 MEM @ PHI L 15 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 2 9
+p317
+aVRudy Gay MEM 02/13/2008 MEM @ PHI L 29 23 8 19 42.1 2 5 40.0 5 5 100.0 1 3 4 1 1 0 0 4 -19
+p318
+aVDarko Milicic MEM 02/12/2008 MEM vs. SAC W 33 14 5 10 50.0 0 0 - 4 6 66.7 4 4 8 3 0 1 5 3 4
+p319
+aVBrian Cardinal MEM 02/12/2008 MEM vs. SAC W 9 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 0 0 0 1 2 4
+p320
+aVMike Conley MEM 02/12/2008 MEM vs. SAC W 31 11 5 7 71.4 0 0 - 1 2 50.0 1 1 2 4 2 0 1 3 7
+p321
+aVMike Miller MEM 02/12/2008 MEM vs. SAC W 34 17 5 7 71.4 3 3 100.0 4 8 50.0 0 10 10 3 0 0 0 3 7
+p322
+aVKwame Brown MEM 02/12/2008 MEM vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p323
+aVJuan Carlos Navarro MEM 02/12/2008 MEM vs. SAC W 30 19 6 13 46.2 2 8 25.0 5 5 100.0 2 4 6 0 0 0 0 2 7
+p324
+aVRudy Gay MEM 02/12/2008 MEM vs. SAC W 39 21 6 15 40.0 3 7 42.9 6 8 75.0 0 3 3 2 1 1 1 2 9
+p325
+aVJason Collins MEM 02/12/2008 MEM vs. SAC W 12 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 2 2 5 8
+p326
+aVKyle Lowry MEM 02/12/2008 MEM vs. SAC W 17 0 0 2 0.0 0 0 - 0 0 - 0 2 2 6 1 0 3 1 6
+p327
+aVHakim Warrick MEM 02/12/2008 MEM vs. SAC W 32 24 10 16 62.5 0 2 0.0 4 7 57.1 2 11 13 0 1 0 2 2 12
+p328
+aVKyle Lowry MEM 02/09/2008 MEM @ NOH L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 3 0 0 0 1 -6
+p329
+aVMike Miller MEM 02/09/2008 MEM @ NOH L 41 18 7 15 46.7 3 6 50.0 1 1 100.0 2 4 6 5 0 0 1 2 -14
+p330
+aVRudy Gay MEM 02/09/2008 MEM @ NOH L 43 26 10 17 58.8 2 3 66.7 4 4 100.0 2 4 6 1 1 0 1 1 -5
+p331
+aVHakim Warrick MEM 02/09/2008 MEM @ NOH L 20 12 4 10 40.0 1 2 50.0 3 4 75.0 0 4 4 0 1 1 1 3 1
+p332
+aVJavaris Crittenton MEM 02/09/2008 MEM @ NOH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p333
+aVMike Conley MEM 02/09/2008 MEM @ NOH L 33 16 6 11 54.5 0 2 0.0 4 4 100.0 1 3 4 4 1 0 4 4 -7
+p334
+aVJuan Carlos Navarro MEM 02/09/2008 MEM @ NOH L 36 7 3 10 30.0 1 3 33.3 0 0 - 0 5 5 3 0 0 1 3 -14
+p335
+aVDarko Milicic MEM 02/09/2008 MEM @ NOH L 39 14 5 12 41.7 0 0 - 4 6 66.7 2 5 7 2 2 3 5 5 -18
+p336
+aVJason Collins MEM 02/09/2008 MEM @ NOH L 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 1 3 5
+p337
+aVBrian Cardinal MEM 02/08/2008 MEM @ DAL L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 2 1 11
+p338
+aVJuan Carlos Navarro MEM 02/08/2008 MEM @ DAL L 26 6 1 3 33.3 0 0 - 4 5 80.0 2 2 4 2 0 0 0 1 -6
+p339
+aVMike Miller MEM 02/08/2008 MEM @ DAL L 30 15 5 13 38.5 1 3 33.3 4 6 66.7 0 3 3 1 0 0 2 1 -24
+p340
+aVDarko Milicic MEM 02/08/2008 MEM @ DAL L 25 4 2 8 25.0 0 0 - 0 0 - 2 4 6 0 0 0 0 1 -13
+p341
+aVJavaris Crittenton MEM 02/08/2008 MEM @ DAL L 20 10 4 6 66.7 0 0 - 2 6 33.3 1 3 4 2 0 0 0 0 8
+p342
+aVRudy Gay MEM 02/08/2008 MEM @ DAL L 33 18 8 18 44.4 0 2 0.0 2 3 66.7 4 8 12 0 1 2 3 3 -14
+p343
+aVHakim Warrick MEM 02/08/2008 MEM @ DAL L 24 8 4 7 57.1 0 0 - 0 0 - 0 4 4 1 0 0 0 3 1
+p344
+aVKyle Lowry MEM 02/08/2008 MEM @ DAL L 14 5 1 6 16.7 0 1 0.0 3 4 75.0 0 3 3 1 0 1 1 1 -2
+p345
+aVMike Conley MEM 02/08/2008 MEM @ DAL L 34 8 2 8 25.0 0 1 0.0 4 5 80.0 0 4 4 5 0 0 0 0 -9
+p346
+aVJason Collins MEM 02/08/2008 MEM @ DAL L 17 2 1 4 25.0 0 0 - 0 1 0.0 1 1 2 0 0 0 2 2 -19
+p347
+aVKwame Brown MEM 02/08/2008 MEM @ DAL L 9 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 2 0 2 0 1 12
+p348
+aVMike Miller MEM 02/05/2008 MEM vs. MIL L 37 32 12 22 54.5 3 8 37.5 5 7 71.4 2 3 5 3 0 0 2 1 1
+p349
+aVJuan Carlos Navarro MEM 02/05/2008 MEM vs. MIL L 24 7 2 8 25.0 2 7 28.6 1 2 50.0 0 1 1 2 1 0 1 0 -3
+p350
+aVKwame Brown MEM 02/05/2008 MEM vs. MIL L 16 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 0 0 0 3 3 -14
+p351
+aVBrian Cardinal MEM 02/05/2008 MEM vs. MIL L 19 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 0 1 0 0 2 -7
+p352
+aVKyle Lowry MEM 02/05/2008 MEM vs. MIL L 40 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 7 0 0 1 3 -6
+p353
+aVHakim Warrick MEM 02/05/2008 MEM vs. MIL L 22 4 2 5 40.0 0 0 - 0 2 0.0 0 6 6 1 0 2 0 0 -2
+p354
+aVDarko Milicic MEM 02/05/2008 MEM vs. MIL L 32 11 5 11 45.5 0 0 - 1 2 50.0 3 9 12 2 0 2 2 4 9
+p355
+aVJavaris Crittenton MEM 02/05/2008 MEM vs. MIL L 8 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 -1
+p356
+aVRudy Gay MEM 02/05/2008 MEM vs. MIL L 41 21 9 17 52.9 3 8 37.5 0 0 - 0 5 5 6 4 0 4 1 -2
+p357
+aVDarko Milicic MEM 02/02/2008 MEM vs. UTA L 36 12 6 9 66.7 0 0 - 0 1 0.0 3 9 12 1 0 2 3 3 -10
+p358
+aVKyle Lowry MEM 02/02/2008 MEM vs. UTA L 40 10 4 11 36.4 0 1 0.0 2 4 50.0 0 2 2 4 1 0 3 3 -5
+p359
+aVMike Miller MEM 02/02/2008 MEM vs. UTA L 27 14 6 13 46.2 1 3 33.3 1 3 33.3 0 5 5 3 1 0 6 3 -23
+p360
+aVHakim Warrick MEM 02/02/2008 MEM vs. UTA L 24 14 6 10 60.0 1 1 100.0 1 2 50.0 2 3 5 2 0 2 1 3 -25
+p361
+aVRudy Gay MEM 02/02/2008 MEM vs. UTA L 39 15 5 15 33.3 1 6 16.7 4 6 66.7 1 9 10 2 1 0 6 2 -16
+p362
+aVBrian Cardinal MEM 02/02/2008 MEM vs. UTA L 15 10 2 5 40.0 2 4 50.0 4 4 100.0 1 1 2 2 1 0 0 3 3
+p363
+aVAndre Brown MEM 02/02/2008 MEM vs. UTA L 12 3 1 2 50.0 0 0 - 1 2 50.0 3 4 7 0 1 0 1 1 -9
+p364
+aVJuan Carlos Navarro MEM 02/02/2008 MEM vs. UTA L 32 11 4 13 30.8 2 7 28.6 1 1 100.0 0 4 4 5 1 0 3 1 -8
+p365
+aVCasey Jacobsen MEM 02/02/2008 MEM vs. UTA L 15 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -2
+p366
+aVKyle Lowry MEM 01/30/2008 MEM vs. DEN L 46 19 8 17 47.1 0 3 0.0 3 3 100.0 0 4 4 1 2 0 6 4 1
+p367
+aVDarko Milicic MEM 01/30/2008 MEM vs. DEN L 40 14 6 10 60.0 0 0 - 2 2 100.0 7 9 16 1 0 5 3 1 7
+p368
+aVJuan Carlos Navarro MEM 01/30/2008 MEM vs. DEN L 33 4 2 12 16.7 0 8 0.0 0 0 - 2 5 7 3 1 0 1 3 6
+p369
+aVRudy Gay MEM 01/30/2008 MEM vs. DEN L 44 30 12 26 46.2 4 10 40.0 2 4 50.0 2 8 10 3 2 0 3 1 -8
+p370
+aVMike Miller MEM 01/30/2008 MEM vs. DEN L 38 22 8 20 40.0 3 8 37.5 3 3 100.0 2 7 9 3 0 1 1 3 8
+p371
+aVHakim Warrick MEM 01/30/2008 MEM vs. DEN L 21 9 4 8 50.0 0 0 - 1 1 100.0 0 4 4 0 0 0 3 3 -17
+p372
+aVCasey Jacobsen MEM 01/30/2008 MEM vs. DEN L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -6
+p373
+aVAndre Brown MEM 01/30/2008 MEM vs. DEN L 8 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -11
+p374
+aVStromile Swift MEM 01/28/2008 MEM vs. DAL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p375
+aVHakim Warrick MEM 01/28/2008 MEM vs. DAL L 15 4 0 3 0.0 0 1 0.0 4 6 66.7 1 1 2 2 1 0 0 1 2
+p376
+aVRudy Gay MEM 01/28/2008 MEM vs. DAL L 40 18 7 14 50.0 1 2 50.0 3 3 100.0 1 3 4 1 1 0 2 2 -20
+p377
+aVCasey Jacobsen MEM 01/28/2008 MEM vs. DAL L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p378
+aVMike Miller MEM 01/28/2008 MEM vs. DAL L 37 8 3 10 30.0 0 2 0.0 2 2 100.0 1 3 4 2 1 0 2 2 -26
+p379
+aVAndre Brown MEM 01/28/2008 MEM vs. DAL L 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 2 1
+p380
+aVPau Gasol MEM 01/28/2008 MEM vs. DAL L 28 13 6 12 50.0 0 0 - 1 1 100.0 0 5 5 2 0 2 1 0 -9
+p381
+aVDarko Milicic MEM 01/28/2008 MEM vs. DAL L 23 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 0 2 0 4 -14
+p382
+aVKyle Lowry MEM 01/28/2008 MEM vs. DAL L 42 17 5 13 38.5 1 4 25.0 6 14 42.9 0 5 5 4 3 0 0 3 -12
+p383
+aVJuan Carlos Navarro MEM 01/28/2008 MEM vs. DAL L 33 16 5 10 50.0 1 2 50.0 5 8 62.5 0 4 4 2 0 1 0 2 -14
+p384
+aVRudy Gay MEM 01/26/2008 MEM vs. LAC W 52 34 13 25 52.0 4 8 50.0 4 4 100.0 4 8 12 2 1 1 5 4 5
+p385
+aVCasey Jacobsen MEM 01/26/2008 MEM vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p386
+aVHakim Warrick MEM 01/26/2008 MEM vs. LAC W 28 17 5 10 50.0 0 0 - 7 9 77.8 3 2 5 1 0 0 1 4 4
+p387
+aVKyle Lowry MEM 01/26/2008 MEM vs. LAC W 49 21 7 12 58.3 0 1 0.0 7 12 58.3 2 6 8 4 0 0 1 5 12
+p388
+aVDarko Milicic MEM 01/26/2008 MEM vs. LAC W 25 8 4 7 57.1 0 0 - 0 0 - 2 5 7 1 0 2 2 2 3
+p389
+aVMike Miller MEM 01/26/2008 MEM vs. LAC W 45 27 8 15 53.3 3 8 37.5 8 11 72.7 0 4 4 5 2 0 4 5 7
+p390
+aVJuan Carlos Navarro MEM 01/26/2008 MEM vs. LAC W 46 18 5 11 45.5 3 8 37.5 5 6 83.3 1 4 5 3 1 0 3 4 0
+p391
+aVAndre Brown MEM 01/26/2008 MEM vs. LAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p392
+aVBobby Jones MEM 01/26/2008 MEM vs. LAC W 13 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -5
+p393
+aVDarko Milicic MEM 01/25/2008 MEM @ WAS L 33 6 3 9 33.3 0 0 - 0 0 - 0 4 4 0 0 2 1 3 -20
+p394
+aVKyle Lowry MEM 01/25/2008 MEM @ WAS L 34 13 5 11 45.5 0 0 - 3 4 75.0 1 3 4 10 5 0 0 1 6
+p395
+aVBobby Jones MEM 01/25/2008 MEM @ WAS L 12 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 2 0 1 1 3 -6
+p396
+aVRudy Gay MEM 01/25/2008 MEM @ WAS L 30 14 5 10 50.0 1 4 25.0 3 3 100.0 2 4 6 1 2 1 3 4 -23
+p397
+aVMike Conley MEM 01/25/2008 MEM @ WAS L 14 7 2 4 50.0 0 0 - 3 4 75.0 1 0 1 1 0 0 2 1 -17
+p398
+aVMike Miller MEM 01/25/2008 MEM @ WAS L 36 21 8 18 44.4 5 11 45.5 0 0 - 1 8 9 1 1 0 4 3 -5
+p399
+aVAndre Brown MEM 01/25/2008 MEM @ WAS L 15 3 0 2 0.0 0 0 - 3 6 50.0 2 1 3 0 0 0 0 2 9
+p400
+aVCasey Jacobsen MEM 01/25/2008 MEM @ WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 10
+p401
+aVJuan Carlos Navarro MEM 01/25/2008 MEM @ WAS L 33 14 5 14 35.7 4 11 36.4 0 0 - 1 2 3 1 0 0 5 0 -9
+p402
+aVHakim Warrick MEM 01/25/2008 MEM @ WAS L 29 11 3 6 50.0 0 1 0.0 5 5 100.0 2 4 6 0 2 0 3 4 0
+p403
+aVRudy Gay MEM 01/23/2008 MEM vs. ORL L 41 20 7 11 63.6 4 4 100.0 2 2 100.0 2 6 8 0 0 1 3 2 -14
+p404
+aVHakim Warrick MEM 01/23/2008 MEM vs. ORL L 12 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -12
+p405
+aVStromile Swift MEM 01/23/2008 MEM vs. ORL L 16 8 4 7 57.1 0 0 - 0 1 0.0 4 2 6 0 0 0 0 4 -7
+p406
+aVPau Gasol MEM 01/23/2008 MEM vs. ORL L 39 17 4 12 33.3 1 2 50.0 8 10 80.0 4 7 11 5 0 0 5 2 -17
+p407
+aVBobby Jones MEM 01/23/2008 MEM vs. ORL L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 2 -8
+p408
+aVMike Miller MEM 01/23/2008 MEM vs. ORL L 37 10 4 8 50.0 1 2 50.0 1 1 100.0 0 3 3 3 0 0 4 0 -20
+p409
+aVJuan Carlos Navarro MEM 01/23/2008 MEM vs. ORL L 17 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 0 0 0 0 1 -17
+p410
+aVMike Conley MEM 01/23/2008 MEM vs. ORL L 37 13 5 13 38.5 0 3 0.0 3 5 60.0 0 3 3 5 1 0 1 2 -25
+p411
+aVKyle Lowry MEM 01/23/2008 MEM vs. ORL L 11 5 0 2 0.0 0 2 0.0 5 8 62.5 0 1 1 0 0 0 1 1 -2
+p412
+aVDarko Milicic MEM 01/23/2008 MEM vs. ORL L 23 8 4 5 80.0 0 0 - 0 2 0.0 1 0 1 0 0 1 0 4 -13
+p413
+aVMike Miller MEM 01/21/2008 MEM vs. CHI W 41 24 8 14 57.1 2 4 50.0 6 6 100.0 1 9 10 2 0 0 2 0 17
+p414
+aVStromile Swift MEM 01/21/2008 MEM vs. CHI W 8 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 0
+p415
+aVJuan Carlos Navarro MEM 01/21/2008 MEM vs. CHI W 16 9 3 6 50.0 3 3 100.0 0 0 - 1 1 2 1 0 0 2 0 8
+p416
+aVDarko Milicic MEM 01/21/2008 MEM vs. CHI W 16 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 0 0 1 2 1 -6
+p417
+aVPau Gasol MEM 01/21/2008 MEM vs. CHI W 41 12 5 11 45.5 0 0 - 2 4 50.0 1 9 10 5 0 3 4 3 17
+p418
+aVBobby Jones MEM 01/21/2008 MEM vs. CHI W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p419
+aVHakim Warrick MEM 01/21/2008 MEM vs. CHI W 21 12 5 9 55.6 0 2 0.0 2 2 100.0 1 3 4 0 0 0 0 1 1
+p420
+aVKyle Lowry MEM 01/21/2008 MEM vs. CHI W 15 2 0 1 0.0 0 1 0.0 2 4 50.0 0 2 2 4 0 0 0 4 1
+p421
+aVRudy Gay MEM 01/21/2008 MEM vs. CHI W 41 24 7 17 41.2 3 6 50.0 7 8 87.5 4 6 10 0 4 1 3 3 17
+p422
+aVMike Conley MEM 01/21/2008 MEM vs. CHI W 33 10 4 5 80.0 0 1 0.0 2 2 100.0 0 2 2 10 1 0 2 1 13
+p423
+aVKyle Lowry MEM 01/19/2008 MEM @ CHA L 17 5 2 5 40.0 0 1 0.0 1 1 100.0 0 5 5 2 0 0 2 1 -2
+p424
+aVPau Gasol MEM 01/19/2008 MEM @ CHA L 37 28 12 20 60.0 0 0 - 4 4 100.0 3 4 7 2 0 0 2 2 -7
+p425
+aVMike Conley MEM 01/19/2008 MEM @ CHA L 37 8 3 10 30.0 0 2 0.0 2 2 100.0 0 4 4 3 0 1 1 1 -20
+p426
+aVDarko Milicic MEM 01/19/2008 MEM @ CHA L 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -6
+p427
+aVStromile Swift MEM 01/19/2008 MEM @ CHA L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p428
+aVCasey Jacobsen MEM 01/19/2008 MEM @ CHA L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p429
+aVRudy Gay MEM 01/19/2008 MEM @ CHA L 40 17 6 15 40.0 0 3 0.0 5 7 71.4 3 6 9 1 4 1 2 1 -19
+p430
+aVBobby Jones MEM 01/19/2008 MEM @ CHA L 37 8 2 8 25.0 0 2 0.0 4 4 100.0 2 3 5 1 1 0 1 2 -12
+p431
+aVJuan Carlos Navarro MEM 01/19/2008 MEM @ CHA L 44 21 7 18 38.9 5 8 62.5 2 2 100.0 0 6 6 4 0 0 6 2 -17
+p432
+aVHakim Warrick MEM 01/19/2008 MEM @ CHA L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p433
+aVBobby Jones MEM 01/18/2008 MEM vs. SEA W 40 20 8 13 61.5 2 4 50.0 2 3 66.7 5 8 13 7 3 1 1 4 24
+p434
+aVMike Miller MEM 01/18/2008 MEM vs. SEA W 29 25 9 17 52.9 6 9 66.7 1 3 33.3 1 3 4 0 0 0 3 1 23
+p435
+aVHakim Warrick MEM 01/18/2008 MEM vs. SEA W 14 8 3 6 50.0 0 0 - 2 4 50.0 2 2 4 1 0 0 0 4 0
+p436
+aVJuan Carlos Navarro MEM 01/18/2008 MEM vs. SEA W 27 21 9 12 75.0 3 5 60.0 0 0 - 0 4 4 5 1 0 3 0 1
+p437
+aVStromile Swift MEM 01/18/2008 MEM vs. SEA W 15 6 3 5 60.0 0 0 - 0 0 - 0 4 4 1 0 1 1 2 -1
+p438
+aVDarko Milicic MEM 01/18/2008 MEM vs. SEA W 19 6 3 7 42.9 0 0 - 0 0 - 1 3 4 2 0 5 1 2 25
+p439
+aVAndre Brown MEM 01/18/2008 MEM vs. SEA W 10 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -4
+p440
+aVPau Gasol MEM 01/18/2008 MEM vs. SEA W 32 24 11 19 57.9 0 1 0.0 2 3 66.7 5 7 12 5 0 4 2 1 32
+p441
+aVMike Conley MEM 01/18/2008 MEM vs. SEA W 30 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 8 1 0 0 1 28
+p442
+aVKyle Lowry MEM 01/18/2008 MEM vs. SEA W 19 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 2 1 0 1 0 -4
+p443
+aVBrian Cardinal MEM 01/18/2008 MEM vs. SEA W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p444
+aVMike Conley MEM 01/15/2008 MEM vs. CLE L 39 20 7 10 70.0 2 3 66.7 4 6 66.7 0 1 1 7 2 0 4 1 -9
+p445
+aVBobby Jones MEM 01/15/2008 MEM vs. CLE L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p446
+aVJuan Carlos Navarro MEM 01/15/2008 MEM vs. CLE L 47 26 9 16 56.3 6 10 60.0 2 3 66.7 0 2 2 4 2 0 3 3 8
+p447
+aVDarko Milicic MEM 01/15/2008 MEM vs. CLE L 6 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -13
+p448
+aVKyle Lowry MEM 01/15/2008 MEM vs. CLE L 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 -1
+p449
+aVPau Gasol MEM 01/15/2008 MEM vs. CLE L 45 19 9 16 56.3 0 0 - 1 3 33.3 4 8 12 5 2 2 3 4 -5
+p450
+aVHakim Warrick MEM 01/15/2008 MEM vs. CLE L 14 9 4 6 66.7 0 0 - 1 2 50.0 0 1 1 1 0 0 0 3 -8
+p451
+aVRudy Gay MEM 01/15/2008 MEM vs. CLE L 47 30 12 22 54.5 3 6 50.0 3 4 75.0 3 6 9 3 2 1 2 6 -4
+p452
+aVMike Miller MEM 01/15/2008 MEM vs. CLE L 48 12 5 12 41.7 2 8 25.0 0 0 - 0 5 5 6 2 0 4 6 -11
+p453
+aVMike Conley MEM 01/13/2008 MEM @ LAL L 24 10 4 12 33.3 2 5 40.0 0 0 - 1 3 4 7 1 0 2 2 2
+p454
+aVPau Gasol MEM 01/13/2008 MEM @ LAL L 45 21 10 16 62.5 0 0 - 1 1 100.0 5 13 18 8 0 4 2 2 8
+p455
+aVBobby Jones MEM 01/13/2008 MEM @ LAL L 6 3 1 4 25.0 0 0 - 1 1 100.0 2 1 3 0 0 0 0 1 3
+p456
+aVHakim Warrick MEM 01/13/2008 MEM @ LAL L 16 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 0 0 3 1 3 -2
+p457
+aVMike Miller MEM 01/13/2008 MEM @ LAL L 46 27 11 16 68.8 4 6 66.7 1 2 50.0 1 4 5 3 2 0 3 2 8
+p458
+aVKyle Lowry MEM 01/13/2008 MEM @ LAL L 24 7 2 7 28.6 1 3 33.3 2 2 100.0 2 0 2 6 2 0 0 1 -3
+p459
+aVDarko Milicic MEM 01/13/2008 MEM @ LAL L 26 8 4 10 40.0 0 0 - 0 0 - 2 3 5 1 0 0 2 4 -7
+p460
+aVRudy Gay MEM 01/13/2008 MEM @ LAL L 31 11 5 19 26.3 1 5 20.0 0 1 0.0 2 4 6 2 2 0 3 6 -16
+p461
+aVJuan Carlos Navarro MEM 01/13/2008 MEM @ LAL L 22 8 3 7 42.9 2 5 40.0 0 2 0.0 0 4 4 1 0 0 1 0 2
+p462
+aVMike Miller MEM 01/11/2008 MEM @ GSW L 35 9 4 11 36.4 0 3 0.0 1 1 100.0 0 8 8 3 1 0 2 1 -10
+p463
+aVJuan Carlos Navarro MEM 01/11/2008 MEM @ GSW L 34 20 8 13 61.5 4 7 57.1 0 0 - 0 3 3 2 0 0 1 1 11
+p464
+aVKyle Lowry MEM 01/11/2008 MEM @ GSW L 29 5 1 5 20.0 1 3 33.3 2 4 50.0 0 4 4 5 1 1 3 3 14
+p465
+aVDarko Milicic MEM 01/11/2008 MEM @ GSW L 11 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 1 3 3 2 -27
+p466
+aVBobby Jones MEM 01/11/2008 MEM @ GSW L 9 2 0 4 0.0 0 2 0.0 2 2 100.0 0 2 2 0 1 0 0 1 3
+p467
+aVRudy Gay MEM 01/11/2008 MEM @ GSW L 43 10 3 12 25.0 1 4 25.0 3 4 75.0 3 3 6 2 0 1 3 4 -22
+p468
+aVPau Gasol MEM 01/11/2008 MEM @ GSW L 45 43 17 25 68.0 0 0 - 9 12 75.0 4 7 11 3 1 1 3 2 2
+p469
+aVMike Conley MEM 01/11/2008 MEM @ GSW L 19 5 2 6 33.3 0 1 0.0 1 1 100.0 1 1 2 1 0 0 1 0 -26
+p470
+aVHakim Warrick MEM 01/11/2008 MEM @ GSW L 17 10 5 8 62.5 0 0 - 0 3 0.0 3 2 5 2 1 0 1 2 -5
+p471
+aVMike Conley MEM 01/10/2008 MEM @ SAC L 30 15 5 9 55.6 2 5 40.0 3 4 75.0 0 1 1 3 1 0 4 1 -18
+p472
+aVKyle Lowry MEM 01/10/2008 MEM @ SAC L 19 8 2 4 50.0 1 3 33.3 3 3 100.0 1 1 2 6 2 0 1 1 8
+p473
+aVHakim Warrick MEM 01/10/2008 MEM @ SAC L 15 6 2 4 50.0 0 0 - 2 2 100.0 1 6 7 1 0 0 0 3 3
+p474
+aVMike Miller MEM 01/10/2008 MEM @ SAC L 32 18 7 9 77.8 4 5 80.0 0 0 - 0 3 3 4 1 0 2 4 -2
+p475
+aVJuan Carlos Navarro MEM 01/10/2008 MEM @ SAC L 36 10 2 13 15.4 2 8 25.0 4 5 80.0 0 2 2 6 1 0 0 2 11
+p476
+aVRudy Gay MEM 01/10/2008 MEM @ SAC L 40 31 9 13 69.2 4 7 57.1 9 10 90.0 1 6 7 2 2 0 3 4 -19
+p477
+aVDarko Milicic MEM 01/10/2008 MEM @ SAC L 31 6 3 6 50.0 0 0 - 0 4 0.0 1 6 7 1 2 3 4 2 7
+p478
+aVPau Gasol MEM 01/10/2008 MEM @ SAC L 38 19 8 16 50.0 0 0 - 3 4 75.0 0 5 5 0 0 2 1 5 -5
+p479
+aVDarko Milicic MEM 01/08/2008 MEM vs. LAL L 27 12 6 9 66.7 0 0 - 0 0 - 3 8 11 4 0 4 2 3 -8
+p480
+aVStromile Swift MEM 01/08/2008 MEM vs. LAL L 14 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -17
+p481
+aVRudy Gay MEM 01/08/2008 MEM vs. LAL L 40 15 5 15 33.3 2 4 50.0 3 4 75.0 2 3 5 1 1 0 5 4 -18
+p482
+aVAndre Brown MEM 01/08/2008 MEM vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p483
+aVKyle Lowry MEM 01/08/2008 MEM vs. LAL L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 -11
+p484
+aVJuan Carlos Navarro MEM 01/08/2008 MEM vs. LAL L 13 3 1 6 16.7 1 4 25.0 0 0 - 0 0 0 0 0 0 1 0 -8
+p485
+aVMike Conley MEM 01/08/2008 MEM vs. LAL L 38 11 5 15 33.3 1 2 50.0 0 0 - 2 3 5 6 2 0 2 2 -5
+p486
+aVMike Miller MEM 01/08/2008 MEM vs. LAL L 42 19 8 16 50.0 2 6 33.3 1 1 100.0 1 7 8 6 1 1 4 1 -5
+p487
+aVPau Gasol MEM 01/08/2008 MEM vs. LAL L 33 18 6 14 42.9 0 0 - 6 8 75.0 6 6 12 2 1 2 2 0 -18
+p488
+aVHakim Warrick MEM 01/08/2008 MEM vs. LAL L 22 15 6 10 60.0 0 2 0.0 3 4 75.0 3 2 5 0 0 0 2 3 11
+p489
+aVCasey Jacobsen MEM 01/06/2008 MEM vs. MIA W 17 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -7
+p490
+aVDarko Milicic MEM 01/06/2008 MEM vs. MIA W 25 8 4 5 80.0 0 0 - 0 0 - 2 3 5 1 0 2 2 4 9
+p491
+aVMike Conley MEM 01/06/2008 MEM vs. MIA W 35 11 4 8 50.0 0 1 0.0 3 4 75.0 1 4 5 7 2 0 4 0 10
+p492
+aVJuan Carlos Navarro MEM 01/06/2008 MEM vs. MIA W 17 3 0 3 0.0 0 3 0.0 3 4 75.0 0 2 2 1 0 0 1 0 -4
+p493
+aVStromile Swift MEM 01/06/2008 MEM vs. MIA W 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -9
+p494
+aVRudy Gay MEM 01/06/2008 MEM vs. MIA W 38 22 10 17 58.8 2 5 40.0 0 2 0.0 1 6 7 5 2 0 0 4 16
+p495
+aVMike Miller MEM 01/06/2008 MEM vs. MIA W 34 25 5 11 45.5 3 7 42.9 12 13 92.3 2 6 8 6 1 0 4 3 17
+p496
+aVPau Gasol MEM 01/06/2008 MEM vs. MIA W 45 28 10 21 47.6 0 1 0.0 8 9 88.9 4 9 13 0 0 1 1 3 6
+p497
+aVKyle Lowry MEM 01/06/2008 MEM vs. MIA W 13 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 1 0 -3
+p498
+aVCasey Jacobsen MEM 01/04/2008 MEM @ BOS L 18 3 1 3 33.3 1 3 33.3 0 0 - 1 3 4 0 0 0 0 2 7
+p499
+aVRudy Gay MEM 01/04/2008 MEM @ BOS L 38 21 10 21 47.6 1 7 14.3 0 0 - 1 4 5 3 3 1 2 2 0
+p500
+aVPau Gasol MEM 01/04/2008 MEM @ BOS L 40 12 3 13 23.1 0 1 0.0 6 8 75.0 4 4 8 5 0 3 0 2 -5
+p501
+aVStromile Swift MEM 01/04/2008 MEM @ BOS L 10 4 1 6 16.7 0 0 - 2 2 100.0 2 0 2 0 0 0 0 1 -1
+p502
+aVDarko Milicic MEM 01/04/2008 MEM @ BOS L 26 6 3 10 30.0 0 1 0.0 0 0 - 0 8 8 1 0 4 4 2 -17
+p503
+aVKyle Lowry MEM 01/04/2008 MEM @ BOS L 13 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 3 0 0 0 3 -9
+p504
+aVMike Conley MEM 01/04/2008 MEM @ BOS L 35 10 4 9 44.4 1 3 33.3 1 2 50.0 0 2 2 4 1 0 2 1 5
+p505
+aVMike Miller MEM 01/04/2008 MEM @ BOS L 42 16 6 10 60.0 2 5 40.0 2 3 66.7 0 8 8 3 0 0 1 6 -5
+p506
+aVJuan Carlos Navarro MEM 01/04/2008 MEM @ BOS L 17 20 7 9 77.8 3 3 100.0 3 4 75.0 1 1 2 2 0 0 2 2 5
+p507
+aVJeremy Richardson MEM 01/02/2008 MEM @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p508
+aVPau Gasol MEM 01/02/2008 MEM @ IND W 40 30 11 19 57.9 0 1 0.0 8 10 80.0 3 9 12 2 1 0 1 1 27
+p509
+aVMike Conley MEM 01/02/2008 MEM @ IND W 35 7 3 7 42.9 0 2 0.0 1 2 50.0 0 6 6 8 3 0 1 2 23
+p510
+aVMike Miller MEM 01/02/2008 MEM @ IND W 39 19 8 12 66.7 2 4 50.0 1 1 100.0 0 11 11 4 2 0 4 1 24
+p511
+aVCasey Jacobsen MEM 01/02/2008 MEM @ IND W 13 0 0 4 0.0 0 4 0.0 0 0 - 0 3 3 0 0 1 0 1 -5
+p512
+aVAndre Brown MEM 01/02/2008 MEM @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p513
+aVDarko Milicic MEM 01/02/2008 MEM @ IND W 20 5 2 6 33.3 0 0 - 1 2 50.0 0 4 4 0 0 3 0 4 10
+p514
+aVRudy Gay MEM 01/02/2008 MEM @ IND W 44 24 10 20 50.0 4 7 57.1 0 0 - 2 4 6 5 2 1 3 0 23
+p515
+aVKyle Lowry MEM 01/02/2008 MEM @ IND W 13 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 3 0 1 1 2 -5
+p516
+aVStromile Swift MEM 01/02/2008 MEM @ IND W 24 5 2 6 33.3 0 0 - 1 4 25.0 1 3 4 3 1 1 4 4 2
+p517
+aVJuan Carlos Navarro MEM 01/02/2008 MEM @ IND W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 3 0 -9
+p518
+aVDamon Stoudamire MEM 12/30/2007 MEM @ SAS L 17 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 3 1 0 4 2 -7
+p519
+aVMike Miller MEM 12/30/2007 MEM @ SAS L 39 8 3 8 37.5 0 3 0.0 2 3 66.7 0 4 4 4 1 0 1 2 -16
+p520
+aVCasey Jacobsen MEM 12/30/2007 MEM @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p521
+aVHakim Warrick MEM 12/30/2007 MEM @ SAS L 8 4 2 7 28.6 0 3 0.0 0 1 0.0 0 1 1 0 0 0 1 1 -7
+p522
+aVJuan Carlos Navarro MEM 12/30/2007 MEM @ SAS L 26 10 3 9 33.3 2 4 50.0 2 2 100.0 2 2 4 7 0 0 1 1 -15
+p523
+aVMike Conley MEM 12/30/2007 MEM @ SAS L 20 6 2 4 50.0 0 0 - 2 5 40.0 0 3 3 0 0 0 1 1 -9
+p524
+aVAndre Brown MEM 12/30/2007 MEM @ SAS L 6 6 3 3 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 2 -5
+p525
+aVDarko Milicic MEM 12/30/2007 MEM @ SAS L 28 11 5 11 45.5 0 0 - 1 1 100.0 2 3 5 2 2 3 3 5 -16
+p526
+aVStromile Swift MEM 12/30/2007 MEM @ SAS L 7 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -10
+p527
+aVPau Gasol MEM 12/30/2007 MEM @ SAS L 36 19 6 12 50.0 1 1 100.0 6 8 75.0 0 5 5 4 3 0 1 2 -12
+p528
+aVRudy Gay MEM 12/30/2007 MEM @ SAS L 32 16 6 13 46.2 1 4 25.0 3 6 50.0 2 3 5 1 1 0 0 4 -18
+p529
+aVKyle Lowry MEM 12/30/2007 MEM @ SAS L 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -1
+p530
+aVDarko Milicic MEM 12/28/2007 MEM vs. HOU L 27 12 5 12 41.7 0 0 - 2 2 100.0 3 5 8 1 0 1 3 6 -13
+p531
+aVJuan Carlos Navarro MEM 12/28/2007 MEM vs. HOU L 23 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 2 -9
+p532
+aVPau Gasol MEM 12/28/2007 MEM vs. HOU L 42 23 8 18 44.4 0 2 0.0 7 7 100.0 2 6 8 3 0 1 3 0 -16
+p533
+aVAndre Brown MEM 12/28/2007 MEM vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p534
+aVCasey Jacobsen MEM 12/28/2007 MEM vs. HOU L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p535
+aVRudy Gay MEM 12/28/2007 MEM vs. HOU L 26 8 3 13 23.1 2 3 66.7 0 2 0.0 0 2 2 2 1 0 2 4 -11
+p536
+aVDamon Stoudamire MEM 12/28/2007 MEM vs. HOU L 27 5 2 6 33.3 0 3 0.0 1 1 100.0 0 4 4 5 0 0 1 0 -5
+p537
+aVMike Miller MEM 12/28/2007 MEM vs. HOU L 42 11 3 9 33.3 3 5 60.0 2 2 100.0 0 9 9 8 0 0 2 4 -13
+p538
+aVStromile Swift MEM 12/28/2007 MEM vs. HOU L 21 10 4 12 33.3 0 0 - 2 2 100.0 4 3 7 0 0 3 1 4 0
+p539
+aVHakim Warrick MEM 12/28/2007 MEM vs. HOU L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p540
+aVKyle Lowry MEM 12/28/2007 MEM vs. HOU L 21 10 4 8 50.0 2 4 50.0 0 0 - 2 1 3 0 1 0 1 0 -15
+p541
+aVPau Gasol MEM 12/26/2007 MEM vs. NOH L 34 8 3 6 50.0 0 0 - 2 2 100.0 0 8 8 2 0 3 4 3 -12
+p542
+aVJeremy Richardson MEM 12/26/2007 MEM vs. NOH L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p543
+aVJuan Carlos Navarro MEM 12/26/2007 MEM vs. NOH L 16 10 4 9 44.4 1 4 25.0 1 1 100.0 0 1 1 0 0 0 0 1 -6
+p544
+aVCasey Jacobsen MEM 12/26/2007 MEM vs. NOH L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p545
+aVStromile Swift MEM 12/26/2007 MEM vs. NOH L 18 9 4 8 50.0 0 0 - 1 2 50.0 1 3 4 0 1 1 0 2 -6
+p546
+aVMike Miller MEM 12/26/2007 MEM vs. NOH L 38 19 6 14 42.9 3 7 42.9 4 4 100.0 2 2 4 1 0 0 3 1 -11
+p547
+aVDamon Stoudamire MEM 12/26/2007 MEM vs. NOH L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 1 0 1 2 -5
+p548
+aVHakim Warrick MEM 12/26/2007 MEM vs. NOH L 21 12 5 11 45.5 1 1 100.0 1 2 50.0 4 2 6 0 1 1 1 0 -7
+p549
+aVRudy Gay MEM 12/26/2007 MEM vs. NOH L 41 19 8 16 50.0 3 3 100.0 0 0 - 1 3 4 2 1 1 3 2 -11
+p550
+aVAndre Brown MEM 12/26/2007 MEM vs. NOH L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p551
+aVKyle Lowry MEM 12/26/2007 MEM vs. NOH L 32 15 6 8 75.0 1 3 33.3 2 2 100.0 1 6 7 8 2 0 3 4 -13
+p552
+aVDarko Milicic MEM 12/26/2007 MEM vs. NOH L 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 2 0 -6
+p553
+aVDarko Milicic MEM 12/22/2007 MEM vs. PHI L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 4 0 4 1
+p554
+aVDamon Stoudamire MEM 12/22/2007 MEM vs. PHI L 34 8 3 5 60.0 1 3 33.3 1 2 50.0 0 3 3 4 1 0 3 2 9
+p555
+aVRudy Gay MEM 12/22/2007 MEM vs. PHI L 41 19 7 18 38.9 1 5 20.0 4 6 66.7 5 2 7 1 2 1 4 6 1
+p556
+aVMike Miller MEM 12/22/2007 MEM vs. PHI L 44 19 7 13 53.8 3 6 50.0 2 2 100.0 0 5 5 4 0 1 4 2 -6
+p557
+aVJuan Carlos Navarro MEM 12/22/2007 MEM vs. PHI L 25 6 2 7 28.6 2 6 33.3 0 0 - 0 1 1 1 0 0 2 1 -6
+p558
+aVAndre Brown MEM 12/22/2007 MEM vs. PHI L 5 4 1 1 100.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 1 3
+p559
+aVStromile Swift MEM 12/22/2007 MEM vs. PHI L 17 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 2 0 0 3 4 5
+p560
+aVPau Gasol MEM 12/22/2007 MEM vs. PHI L 46 31 13 20 65.0 0 0 - 5 8 62.5 4 9 13 4 0 1 2 1 -1
+p561
+aVCasey Jacobsen MEM 12/22/2007 MEM vs. PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p562
+aVKyle Lowry MEM 12/22/2007 MEM vs. PHI L 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 2 0 0 2 -13
+p563
+aVJeremy Richardson MEM 12/21/2007 MEM @ DET L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -8
+p564
+aVRudy Gay MEM 12/21/2007 MEM @ DET L 36 18 7 17 41.2 2 4 50.0 2 3 66.7 0 5 5 1 1 3 3 3 -22
+p565
+aVHakim Warrick MEM 12/21/2007 MEM @ DET L 7 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 0 0 0 0 0 -6
+p566
+aVMike Miller MEM 12/21/2007 MEM @ DET L 32 8 4 6 66.7 0 0 - 0 0 - 1 5 6 5 0 0 4 0 -19
+p567
+aVDarko Milicic MEM 12/21/2007 MEM @ DET L 26 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 4 3 -10
+p568
+aVDamon Stoudamire MEM 12/21/2007 MEM @ DET L 18 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 1 0 3 4 -12
+p569
+aVStromile Swift MEM 12/21/2007 MEM @ DET L 12 6 2 2 100.0 0 0 - 2 5 40.0 1 1 2 1 1 0 1 1 2
+p570
+aVCasey Jacobsen MEM 12/21/2007 MEM @ DET L 11 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 2 -13
+p571
+aVKyle Lowry MEM 12/21/2007 MEM @ DET L 34 6 0 5 0.0 0 3 0.0 6 8 75.0 0 2 2 0 1 0 1 4 -19
+p572
+aVPau Gasol MEM 12/21/2007 MEM @ DET L 31 10 4 14 28.6 0 0 - 2 2 100.0 4 6 10 1 0 1 1 1 -16
+p573
+aVJuan Carlos Navarro MEM 12/21/2007 MEM @ DET L 16 6 2 4 50.0 0 2 0.0 2 3 66.7 0 1 1 2 1 0 2 2 -2
+p574
+aVAndre Brown MEM 12/21/2007 MEM @ DET L 9 3 1 3 33.3 0 0 - 1 2 50.0 3 4 7 0 0 0 2 1 -10
+p575
+aVStromile Swift MEM 12/19/2007 MEM vs. SAS W 23 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 0 1 2 3 3 -3
+p576
+aVMike Miller MEM 12/19/2007 MEM vs. SAS W 41 31 12 18 66.7 5 11 45.5 2 2 100.0 1 5 6 1 0 1 3 4 7
+p577
+aVDarko Milicic MEM 12/19/2007 MEM vs. SAS W 24 2 1 4 25.0 0 0 - 0 0 - 3 3 6 3 1 3 0 4 5
+p578
+aVHakim Warrick MEM 12/19/2007 MEM vs. SAS W 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p579
+aVKyle Lowry MEM 12/19/2007 MEM vs. SAS W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -1
+p580
+aVCasey Jacobsen MEM 12/19/2007 MEM vs. SAS W 13 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 0 3
+p581
+aVDamon Stoudamire MEM 12/19/2007 MEM vs. SAS W 34 10 3 9 33.3 1 2 50.0 3 4 75.0 2 4 6 3 1 0 4 0 4
+p582
+aVAndre Brown MEM 12/19/2007 MEM vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p583
+aVRudy Gay MEM 12/19/2007 MEM vs. SAS W 44 23 10 22 45.5 1 3 33.3 2 3 66.7 2 7 9 3 1 2 5 0 4
+p584
+aVJuan Carlos Navarro MEM 12/19/2007 MEM vs. SAS W 42 10 4 13 30.8 2 7 28.6 0 0 - 0 7 7 5 3 0 2 0 -4
+p585
+aVStromile Swift MEM 12/17/2007 MEM vs. GSW L 21 13 6 9 66.7 0 0 - 1 2 50.0 0 8 8 1 0 0 1 2 -16
+p586
+aVDamon Stoudamire MEM 12/17/2007 MEM vs. GSW L 29 8 4 12 33.3 0 4 0.0 0 0 - 2 3 5 7 1 0 2 4 -2
+p587
+aVAndre Brown MEM 12/17/2007 MEM vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p588
+aVCasey Jacobsen MEM 12/17/2007 MEM vs. GSW L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p589
+aVMike Miller MEM 12/17/2007 MEM vs. GSW L 45 20 6 12 50.0 3 6 50.0 5 7 71.4 0 6 6 7 1 1 7 2 6
+p590
+aVJuan Carlos Navarro MEM 12/17/2007 MEM vs. GSW L 36 17 7 14 50.0 3 8 37.5 0 0 - 0 2 2 2 1 0 1 3 -5
+p591
+aVKyle Lowry MEM 12/17/2007 MEM vs. GSW L 26 18 6 10 60.0 2 4 50.0 4 7 57.1 2 3 5 3 1 0 2 3 -4
+p592
+aVBrian Cardinal MEM 12/17/2007 MEM vs. GSW L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p593
+aVRudy Gay MEM 12/17/2007 MEM vs. GSW L 37 32 11 18 61.1 1 3 33.3 9 10 90.0 1 3 4 2 1 1 1 6 1
+p594
+aVHakim Warrick MEM 12/17/2007 MEM vs. GSW L 23 5 2 5 40.0 0 2 0.0 1 3 33.3 2 0 2 0 1 0 1 4 -12
+p595
+aVDarko Milicic MEM 12/17/2007 MEM vs. GSW L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 2
+p596
+aVHakim Warrick MEM 12/15/2007 MEM @ ORL W 13 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -4
+p597
+aVCasey Jacobsen MEM 12/15/2007 MEM @ ORL W 13 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 9
+p598
+aVDamon Stoudamire MEM 12/15/2007 MEM @ ORL W 17 11 4 10 40.0 1 6 16.7 2 2 100.0 0 1 1 2 1 0 1 3 -5
+p599
+aVKyle Lowry MEM 12/15/2007 MEM @ ORL W 31 12 4 10 40.0 2 5 40.0 2 2 100.0 0 4 4 7 1 0 1 4 9
+p600
+aVMike Miller MEM 12/15/2007 MEM @ ORL W 38 19 8 15 53.3 3 7 42.9 0 1 0.0 1 7 8 8 0 2 2 3 3
+p601
+aVAndre Brown MEM 12/15/2007 MEM @ ORL W 22 7 3 3 100.0 0 0 - 1 2 50.0 1 6 7 2 1 1 0 4 9
+p602
+aVJuan Carlos Navarro MEM 12/15/2007 MEM @ ORL W 40 27 7 13 53.8 5 11 45.5 8 8 100.0 0 2 2 4 0 0 2 2 2
+p603
+aVRudy Gay MEM 12/15/2007 MEM @ ORL W 40 32 13 21 61.9 1 2 50.0 5 7 71.4 2 5 7 0 2 0 3 2 2
+p604
+aVDarko Milicic MEM 12/15/2007 MEM @ ORL W 16 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 3 0 5 -12
+p605
+aVStromile Swift MEM 12/15/2007 MEM @ ORL W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 2 0 1 3 7
+p606
+aVMike Miller MEM 12/14/2007 MEM vs. LAC L 42 23 9 15 60.0 3 7 42.9 2 2 100.0 1 4 5 4 0 0 6 3 -8
+p607
+aVKyle Lowry MEM 12/14/2007 MEM vs. LAC L 25 9 1 6 16.7 0 1 0.0 7 8 87.5 1 3 4 3 1 1 4 5 -4
+p608
+aVTarence Kinsey MEM 12/14/2007 MEM vs. LAC L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p609
+aVDarko Milicic MEM 12/14/2007 MEM vs. LAC L 31 6 3 9 33.3 0 0 - 0 0 - 2 10 12 2 3 1 1 3 -4
+p610
+aVAndre Brown MEM 12/14/2007 MEM vs. LAC L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 1
+p611
+aVJuan Carlos Navarro MEM 12/14/2007 MEM vs. LAC L 25 8 2 8 25.0 2 7 28.6 2 2 100.0 0 5 5 0 1 0 4 0 -9
+p612
+aVHakim Warrick MEM 12/14/2007 MEM vs. LAC L 27 20 7 13 53.8 0 0 - 6 6 100.0 3 1 4 0 0 1 3 6 -9
+p613
+aVDamon Stoudamire MEM 12/14/2007 MEM vs. LAC L 24 7 3 8 37.5 1 3 33.3 0 0 - 2 1 3 3 0 0 3 1 -3
+p614
+aVStromile Swift MEM 12/14/2007 MEM vs. LAC L 23 4 1 6 16.7 0 0 - 2 2 100.0 1 8 9 1 1 2 1 3 -5
+p615
+aVRudy Gay MEM 12/14/2007 MEM vs. LAC L 28 12 5 11 45.5 0 4 0.0 2 2 100.0 1 3 4 0 1 0 3 5 6
+p616
+aVStromile Swift MEM 12/11/2007 MEM vs. DET L 11 2 1 3 33.3 0 0 - 0 2 0.0 2 1 3 1 0 1 0 2 -14
+p617
+aVHakim Warrick MEM 12/11/2007 MEM vs. DET L 17 17 4 7 57.1 0 0 - 9 10 90.0 2 4 6 0 1 0 0 0 11
+p618
+aVDarko Milicic MEM 12/11/2007 MEM vs. DET L 26 12 6 12 50.0 0 0 - 0 1 0.0 1 2 3 0 0 0 1 2 -7
+p619
+aVJuan Carlos Navarro MEM 12/11/2007 MEM vs. DET L 19 8 4 8 50.0 0 3 0.0 0 0 - 0 0 0 0 0 0 2 4 -4
+p620
+aVMike Miller MEM 12/11/2007 MEM vs. DET L 39 5 1 4 25.0 0 1 0.0 3 3 100.0 2 9 11 4 0 1 3 1 0
+p621
+aVDamon Stoudamire MEM 12/11/2007 MEM vs. DET L 15 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 3 -7
+p622
+aVPau Gasol MEM 12/11/2007 MEM vs. DET L 41 18 6 12 50.0 1 1 100.0 5 7 71.4 1 7 8 5 0 0 0 4 -9
+p623
+aVRudy Gay MEM 12/11/2007 MEM vs. DET L 38 20 8 17 47.1 1 3 33.3 3 4 75.0 3 5 8 3 1 1 1 1 -17
+p624
+aVKyle Lowry MEM 12/11/2007 MEM vs. DET L 33 18 6 12 50.0 2 4 50.0 4 4 100.0 1 2 3 2 0 1 5 4 -3
+p625
+aVMike Miller MEM 12/08/2007 MEM @ ATL L 29 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 0 0 0 5 2 -31
+p626
+aVTarence Kinsey MEM 12/08/2007 MEM @ ATL L 10 12 6 9 66.7 0 1 0.0 0 0 - 0 0 0 0 1 0 0 3 2
+p627
+aVPau Gasol MEM 12/08/2007 MEM @ ATL L 37 13 6 12 50.0 0 0 - 1 1 100.0 2 8 10 3 0 1 2 2 -18
+p628
+aVRudy Gay MEM 12/08/2007 MEM @ ATL L 43 17 6 18 33.3 0 5 0.0 5 5 100.0 1 10 11 4 1 1 3 1 -15
+p629
+aVHakim Warrick MEM 12/08/2007 MEM @ ATL L 26 14 5 7 71.4 0 0 - 4 6 66.7 3 5 8 2 0 0 1 3 23
+p630
+aVCasey Jacobsen MEM 12/08/2007 MEM @ ATL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 18
+p631
+aVDarko Milicic MEM 12/08/2007 MEM @ ATL L 27 2 1 8 12.5 0 0 - 0 0 - 1 6 7 3 0 1 1 1 -11
+p632
+aVKyle Lowry MEM 12/08/2007 MEM @ ATL L 32 15 6 10 60.0 0 1 0.0 3 4 75.0 2 2 4 4 2 1 2 2 18
+p633
+aVJuan Carlos Navarro MEM 12/08/2007 MEM @ ATL L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 0 3 1 0
+p634
+aVDamon Stoudamire MEM 12/08/2007 MEM @ ATL L 16 0 0 6 0.0 0 3 0.0 0 0 - 0 0 0 1 1 0 1 2 -26
+p635
+aVRudy Gay MEM 12/07/2007 MEM @ NOH L 46 31 12 21 57.1 2 5 40.0 5 5 100.0 1 3 4 4 2 2 1 2 4
+p636
+aVJuan Carlos Navarro MEM 12/07/2007 MEM @ NOH L 13 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 1 2 -10
+p637
+aVHakim Warrick MEM 12/07/2007 MEM @ NOH L 16 7 3 5 60.0 0 0 - 1 3 33.3 0 2 2 0 0 0 0 3 -9
+p638
+aVPau Gasol MEM 12/07/2007 MEM @ NOH L 47 26 11 17 64.7 0 0 - 4 4 100.0 3 7 10 7 1 0 6 4 4
+p639
+aVDarko Milicic MEM 12/07/2007 MEM @ NOH L 44 8 4 7 57.1 0 0 - 0 0 - 1 5 6 1 0 2 3 3 1
+p640
+aVKyle Lowry MEM 12/07/2007 MEM @ NOH L 50 14 4 12 33.3 0 4 0.0 6 9 66.7 0 9 9 9 1 1 4 5 -2
+p641
+aVMike Miller MEM 12/07/2007 MEM @ NOH L 41 26 9 15 60.0 3 7 42.9 5 7 71.4 2 3 5 3 0 1 3 0 4
+p642
+aVCasey Jacobsen MEM 12/07/2007 MEM @ NOH L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 -2
+p643
+aVHakim Warrick MEM 12/05/2007 MEM @ HOU L 11 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -6
+p644
+aVRudy Gay MEM 12/05/2007 MEM @ HOU L 42 17 8 20 40.0 1 4 25.0 0 0 - 6 4 10 1 1 1 1 5 -11
+p645
+aVKyle Lowry MEM 12/05/2007 MEM @ HOU L 19 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 1 -14
+p646
+aVMike Miller MEM 12/05/2007 MEM @ HOU L 41 14 6 11 54.5 1 5 20.0 1 2 50.0 1 8 9 4 0 0 3 1 -12
+p647
+aVPau Gasol MEM 12/05/2007 MEM @ HOU L 38 23 8 16 50.0 0 1 0.0 7 10 70.0 3 9 12 2 2 2 1 4 -5
+p648
+aVJuan Carlos Navarro MEM 12/05/2007 MEM @ HOU L 35 10 4 14 28.6 2 5 40.0 0 0 - 0 2 2 6 1 0 2 3 -6
+p649
+aVDamon Stoudamire MEM 12/05/2007 MEM @ HOU L 29 19 6 8 75.0 4 5 80.0 3 3 100.0 1 2 3 5 0 0 2 2 1
+p650
+aVCasey Jacobsen MEM 12/05/2007 MEM @ HOU L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 0 -4
+p651
+aVAndre Brown MEM 12/05/2007 MEM @ HOU L 10 1 0 1 0.0 0 0 - 1 4 25.0 1 0 1 1 0 0 1 1 -8
+p652
+aVStromile Swift MEM 12/03/2007 MEM vs. POR L 18 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 0 1 3 3 -11
+p653
+aVDamon Stoudamire MEM 12/03/2007 MEM vs. POR L 27 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 7 0 0 0 0 12
+p654
+aVPau Gasol MEM 12/03/2007 MEM vs. POR L 42 14 4 14 28.6 0 0 - 6 6 100.0 4 11 15 4 1 2 3 2 8
+p655
+aVDarko Milicic MEM 12/03/2007 MEM vs. POR L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p656
+aVAndre Brown MEM 12/03/2007 MEM vs. POR L 1 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p657
+aVRudy Gay MEM 12/03/2007 MEM vs. POR L 44 30 12 16 75.0 3 4 75.0 3 3 100.0 3 5 8 3 1 1 1 2 0
+p658
+aVMike Miller MEM 12/03/2007 MEM vs. POR L 44 30 11 19 57.9 6 11 54.5 2 3 66.7 1 6 7 2 0 0 4 1 3
+p659
+aVJuan Carlos Navarro MEM 12/03/2007 MEM vs. POR L 27 16 6 11 54.5 4 7 57.1 0 0 - 1 0 1 2 1 0 1 1 0
+p660
+aVKyle Lowry MEM 12/03/2007 MEM vs. POR L 21 3 1 8 12.5 0 1 0.0 1 2 50.0 0 2 2 3 2 1 1 0 -13
+p661
+aVHakim Warrick MEM 12/03/2007 MEM vs. POR L 9 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p662
+aVJuan Carlos Navarro MEM 12/01/2007 MEM vs. MIN W 18 14 4 10 40.0 3 7 42.9 3 4 75.0 0 3 3 3 1 0 2 2 21
+p663
+aVMike Miller MEM 12/01/2007 MEM vs. MIN W 31 18 7 12 58.3 2 6 33.3 2 3 66.7 0 14 14 3 1 0 3 1 21
+p664
+aVRudy Gay MEM 12/01/2007 MEM vs. MIN W 36 21 9 14 64.3 3 7 42.9 0 0 - 0 3 3 1 2 1 2 2 32
+p665
+aVPau Gasol MEM 12/01/2007 MEM vs. MIN W 26 13 6 14 42.9 0 1 0.0 1 1 100.0 2 2 4 4 0 2 2 1 16
+p666
+aVStromile Swift MEM 12/01/2007 MEM vs. MIN W 23 16 5 10 50.0 0 0 - 6 9 66.7 4 6 10 2 0 4 0 2 29
+p667
+aVDamon Stoudamire MEM 12/01/2007 MEM vs. MIN W 25 14 5 5 100.0 4 4 100.0 0 0 - 1 2 3 7 2 0 1 2 14
+p668
+aVAndre Brown MEM 12/01/2007 MEM vs. MIN W 7 2 1 5 20.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -6
+p669
+aVTarence Kinsey MEM 12/01/2007 MEM vs. MIN W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p670
+aVKyle Lowry MEM 12/01/2007 MEM vs. MIN W 23 2 1 2 50.0 0 1 0.0 0 0 - 1 5 6 6 1 0 0 1 15
+p671
+aVCasey Jacobsen MEM 12/01/2007 MEM vs. MIN W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 -6
+p672
+aVHakim Warrick MEM 12/01/2007 MEM vs. MIN W 5 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -8
+p673
+aVDarko Milicic MEM 12/01/2007 MEM vs. MIN W 34 0 0 5 0.0 0 0 - 0 0 - 0 5 5 2 1 5 3 3 25
+p674
+aVPau Gasol MEM 11/28/2007 MEM @ TOR L 25 13 4 12 33.3 0 0 - 5 6 83.3 1 6 7 1 0 1 0 0 -13
+p675
+aVDamon Stoudamire MEM 11/28/2007 MEM @ TOR L 19 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 3 0 0 0 0 -12
+p676
+aVTarence Kinsey MEM 11/28/2007 MEM @ TOR L 12 11 4 8 50.0 2 3 66.7 1 2 50.0 1 0 1 0 0 0 0 0 6
+p677
+aVBrian Cardinal MEM 11/28/2007 MEM @ TOR L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 3 0 0 1 1 7
+p678
+aVCasey Jacobsen MEM 11/28/2007 MEM @ TOR L 27 3 1 4 25.0 1 3 33.3 0 0 - 1 6 7 0 0 0 1 0 10
+p679
+aVJuan Carlos Navarro MEM 11/28/2007 MEM @ TOR L 37 15 6 14 42.9 3 10 30.0 0 0 - 0 1 1 0 0 0 2 1 -16
+p680
+aVKyle Lowry MEM 11/28/2007 MEM @ TOR L 31 12 3 9 33.3 0 0 - 6 10 60.0 0 4 4 3 4 0 0 1 -5
+p681
+aVStromile Swift MEM 11/28/2007 MEM @ TOR L 14 12 6 7 85.7 0 0 - 0 0 - 2 1 3 0 0 2 1 0 3
+p682
+aVRudy Gay MEM 11/28/2007 MEM @ TOR L 32 8 2 9 22.2 0 0 - 4 6 66.7 3 3 6 1 0 1 1 2 -21
+p683
+aVAndre Brown MEM 11/28/2007 MEM @ TOR L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 1 0 5
+p684
+aVHakim Warrick MEM 11/28/2007 MEM @ TOR L 9 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p685
+aVMike Miller MEM 11/28/2007 MEM @ TOR L 24 4 0 5 0.0 0 1 0.0 4 4 100.0 0 6 6 2 0 0 0 3 -22
+p686
+aVMike Miller MEM 11/27/2007 MEM @ NJN W 42 19 6 8 75.0 3 4 75.0 4 5 80.0 0 3 3 9 1 0 4 4 1
+p687
+aVDamon Stoudamire MEM 11/27/2007 MEM @ NJN W 24 13 5 9 55.6 3 5 60.0 0 1 0.0 0 0 0 6 1 0 0 1 2
+p688
+aVKyle Lowry MEM 11/27/2007 MEM @ NJN W 24 10 3 9 33.3 0 1 0.0 4 7 57.1 1 5 6 2 0 0 0 1 8
+p689
+aVPau Gasol MEM 11/27/2007 MEM @ NJN W 38 22 9 15 60.0 0 0 - 4 4 100.0 2 4 6 5 0 0 2 3 3
+p690
+aVStromile Swift MEM 11/27/2007 MEM @ NJN W 13 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 0 3 1 3 9
+p691
+aVRudy Gay MEM 11/27/2007 MEM @ NJN W 27 7 3 9 33.3 0 1 0.0 1 2 50.0 1 5 6 4 1 0 0 6 -1
+p692
+aVJuan Carlos Navarro MEM 11/27/2007 MEM @ NJN W 38 16 4 12 33.3 3 8 37.5 5 6 83.3 0 11 11 4 1 0 3 2 6
+p693
+aVCasey Jacobsen MEM 11/27/2007 MEM @ NJN W 16 8 2 3 66.7 2 3 66.7 2 2 100.0 0 2 2 2 0 0 0 3 3
+p694
+aVHakim Warrick MEM 11/27/2007 MEM @ NJN W 18 9 4 7 57.1 0 0 - 1 3 33.3 0 2 2 0 0 0 0 3 4
+p695
+aVStromile Swift MEM 11/24/2007 MEM vs. WAS W 12 7 3 3 100.0 0 0 - 1 2 50.0 1 0 1 0 1 0 2 1 -6
+p696
+aVDamon Stoudamire MEM 11/24/2007 MEM vs. WAS W 17 0 0 6 0.0 0 4 0.0 0 0 - 0 5 5 5 2 0 1 0 6
+p697
+aVKyle Lowry MEM 11/24/2007 MEM vs. WAS W 31 17 2 5 40.0 0 1 0.0 13 14 92.9 0 5 5 5 0 0 6 5 0
+p698
+aVCasey Jacobsen MEM 11/24/2007 MEM vs. WAS W 6 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -6
+p699
+aVMike Miller MEM 11/24/2007 MEM vs. WAS W 42 17 6 11 54.5 5 8 62.5 0 0 - 2 4 6 6 0 0 2 1 11
+p700
+aVTarence Kinsey MEM 11/24/2007 MEM vs. WAS W 0 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 0
+p701
+aVPau Gasol MEM 11/24/2007 MEM vs. WAS W 36 21 7 15 46.7 0 0 - 7 8 87.5 1 8 9 1 0 4 1 2 16
+p702
+aVRudy Gay MEM 11/24/2007 MEM vs. WAS W 44 27 11 19 57.9 3 6 50.0 2 2 100.0 5 3 8 2 3 0 2 3 -5
+p703
+aVHakim Warrick MEM 11/24/2007 MEM vs. WAS W 14 5 2 3 66.7 0 0 - 1 1 100.0 0 4 4 0 0 0 1 1 9
+p704
+aVJuan Carlos Navarro MEM 11/24/2007 MEM vs. WAS W 37 28 10 14 71.4 5 8 62.5 3 4 75.0 0 1 1 4 2 0 4 2 5
+p705
+aVJuan Carlos Navarro MEM 11/23/2007 MEM @ SAS L 35 16 7 12 58.3 1 4 25.0 1 1 100.0 0 4 4 4 0 0 0 2 -20
+p706
+aVBrian Cardinal MEM 11/23/2007 MEM @ SAS L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 0 4
+p707
+aVCasey Jacobsen MEM 11/23/2007 MEM @ SAS L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p708
+aVDamon Stoudamire MEM 11/23/2007 MEM @ SAS L 21 4 1 8 12.5 0 5 0.0 2 2 100.0 0 2 2 4 1 0 2 3 -2
+p709
+aVMike Miller MEM 11/23/2007 MEM @ SAS L 33 14 5 10 50.0 2 2 100.0 2 2 100.0 0 4 4 3 0 0 2 1 -7
+p710
+aVTarence Kinsey MEM 11/23/2007 MEM @ SAS L 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p711
+aVRudy Gay MEM 11/23/2007 MEM @ SAS L 29 15 6 13 46.2 1 3 33.3 2 2 100.0 1 6 7 0 2 0 1 2 -9
+p712
+aVStromile Swift MEM 11/23/2007 MEM @ SAS L 21 5 1 5 20.0 0 0 - 3 4 75.0 2 4 6 0 0 1 2 0 -3
+p713
+aVPau Gasol MEM 11/23/2007 MEM @ SAS L 33 12 6 14 42.9 0 0 - 0 0 - 3 3 6 2 1 0 0 3 -9
+p714
+aVHakim Warrick MEM 11/23/2007 MEM @ SAS L 14 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 0 1 1 1 2 -1
+p715
+aVAndre Brown MEM 11/23/2007 MEM @ SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p716
+aVKyle Lowry MEM 11/23/2007 MEM @ SAS L 22 8 3 8 37.5 0 2 0.0 2 3 66.7 0 5 5 2 1 1 3 2 -14
+p717
+aVCasey Jacobsen MEM 11/21/2007 MEM vs. TOR L 14 6 2 2 100.0 1 1 100.0 1 1 100.0 0 3 3 1 0 0 0 0 1
+p718
+aVHakim Warrick MEM 11/21/2007 MEM vs. TOR L 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 2 2 -7
+p719
+aVKyle Lowry MEM 11/21/2007 MEM vs. TOR L 26 11 3 8 37.5 0 3 0.0 5 6 83.3 0 6 6 5 2 0 2 1 -9
+p720
+aVStromile Swift MEM 11/21/2007 MEM vs. TOR L 26 10 5 11 45.5 0 0 - 0 0 - 4 4 8 0 0 1 2 4 -15
+p721
+aVTarence Kinsey MEM 11/21/2007 MEM vs. TOR L 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 6
+p722
+aVMike Miller MEM 11/21/2007 MEM vs. TOR L 38 16 6 13 46.2 0 5 0.0 4 5 80.0 1 9 10 3 1 0 1 4 -9
+p723
+aVRudy Gay MEM 11/21/2007 MEM vs. TOR L 41 15 5 17 29.4 2 8 25.0 3 4 75.0 0 6 6 3 0 3 1 0 3
+p724
+aVPau Gasol MEM 11/21/2007 MEM vs. TOR L 37 16 5 11 45.5 0 0 - 6 8 75.0 2 8 10 2 0 2 3 2 2
+p725
+aVJuan Carlos Navarro MEM 11/21/2007 MEM vs. TOR L 10 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p726
+aVDamon Stoudamire MEM 11/21/2007 MEM vs. TOR L 22 9 3 7 42.9 2 4 50.0 1 1 100.0 1 4 5 2 0 0 2 1 3
+p727
+aVTarence Kinsey MEM 11/19/2007 MEM vs. SEA W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p728
+aVPau Gasol MEM 11/19/2007 MEM vs. SEA W 30 14 5 9 55.6 0 0 - 4 5 80.0 1 6 7 5 1 7 3 3 21
+p729
+aVHakim Warrick MEM 11/19/2007 MEM vs. SEA W 25 16 8 13 61.5 0 0 - 0 0 - 3 2 5 1 1 1 2 5 -1
+p730
+aVMike Miller MEM 11/19/2007 MEM vs. SEA W 26 19 6 12 50.0 3 4 75.0 4 4 100.0 0 3 3 7 0 0 1 2 18
+p731
+aVDamon Stoudamire MEM 11/19/2007 MEM vs. SEA W 22 16 5 7 71.4 3 3 100.0 3 3 100.0 0 1 1 7 0 0 1 1 19
+p732
+aVStromile Swift MEM 11/19/2007 MEM vs. SEA W 24 24 10 14 71.4 0 0 - 4 8 50.0 3 2 5 4 1 1 1 5 13
+p733
+aVAndre Brown MEM 11/19/2007 MEM vs. SEA W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p734
+aVKyle Lowry MEM 11/19/2007 MEM vs. SEA W 26 12 4 7 57.1 0 1 0.0 4 6 66.7 0 2 2 2 1 1 1 1 -2
+p735
+aVCasey Jacobsen MEM 11/19/2007 MEM vs. SEA W 21 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 2 -3
+p736
+aVJuan Carlos Navarro MEM 11/19/2007 MEM vs. SEA W 22 8 4 5 80.0 0 1 0.0 0 0 - 0 2 2 2 1 0 4 1 -4
+p737
+aVRudy Gay MEM 11/19/2007 MEM vs. SEA W 32 12 4 12 33.3 2 4 50.0 2 2 100.0 2 5 7 4 2 0 0 3 30
+p738
+aVMike Conley MEM 11/17/2007 MEM @ DAL L 5 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -5
+p739
+aVPau Gasol MEM 11/17/2007 MEM @ DAL L 33 15 6 18 33.3 0 0 - 3 3 100.0 1 5 6 0 1 1 3 1 -6
+p740
+aVJuan Carlos Navarro MEM 11/17/2007 MEM @ DAL L 32 14 4 8 50.0 2 6 33.3 4 4 100.0 1 3 4 4 1 0 1 3 -2
+p741
+aVRudy Gay MEM 11/17/2007 MEM @ DAL L 25 9 3 12 25.0 1 6 16.7 2 2 100.0 1 3 4 1 3 0 2 5 -13
+p742
+aVTarence Kinsey MEM 11/17/2007 MEM @ DAL L 14 7 2 4 50.0 1 1 100.0 2 2 100.0 1 2 3 0 0 0 0 1 1
+p743
+aVMike Miller MEM 11/17/2007 MEM @ DAL L 37 23 9 13 69.2 2 2 100.0 3 4 75.0 0 7 7 2 0 1 4 3 2
+p744
+aVStromile Swift MEM 11/17/2007 MEM @ DAL L 18 9 3 7 42.9 0 1 0.0 3 4 75.0 3 3 6 1 0 2 2 1 1
+p745
+aVKyle Lowry MEM 11/17/2007 MEM @ DAL L 28 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 7 1 1 2 3 3
+p746
+aVHakim Warrick MEM 11/17/2007 MEM @ DAL L 27 17 7 10 70.0 0 0 - 3 4 75.0 3 2 5 0 1 0 2 3 -2
+p747
+aVDamon Stoudamire MEM 11/17/2007 MEM @ DAL L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 5 0 0 2 3 -1
+p748
+aVCasey Jacobsen MEM 11/17/2007 MEM @ DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 7
+p749
+aVDamon Stoudamire MEM 11/16/2007 MEM vs. NOH L 22 6 2 6 33.3 2 5 40.0 0 0 - 0 3 3 4 1 0 4 3 -5
+p750
+aVCasey Jacobsen MEM 11/16/2007 MEM vs. NOH L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 9
+p751
+aVHakim Warrick MEM 11/16/2007 MEM vs. NOH L 13 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 11
+p752
+aVMike Miller MEM 11/16/2007 MEM vs. NOH L 41 13 6 11 54.5 1 3 33.3 0 0 - 2 7 9 1 1 0 1 1 -13
+p753
+aVDarko Milicic MEM 11/16/2007 MEM vs. NOH L 11 4 2 2 100.0 0 0 - 0 2 0.0 0 2 2 1 0 1 0 2 -11
+p754
+aVPau Gasol MEM 11/16/2007 MEM vs. NOH L 42 20 9 16 56.3 0 0 - 2 2 100.0 2 6 8 1 1 0 2 3 -15
+p755
+aVRudy Gay MEM 11/16/2007 MEM vs. NOH L 39 20 7 18 38.9 4 6 66.7 2 3 66.7 1 3 4 0 2 1 3 2 -9
+p756
+aVKyle Lowry MEM 11/16/2007 MEM vs. NOH L 31 9 4 10 40.0 0 0 - 1 2 50.0 1 2 3 8 0 1 1 6 0
+p757
+aVJuan Carlos Navarro MEM 11/16/2007 MEM vs. NOH L 34 28 10 16 62.5 8 9 88.9 0 0 - 0 2 2 4 0 0 1 1 9
+p758
+aVStromile Swift MEM 11/16/2007 MEM vs. NOH L 25 10 3 5 60.0 0 0 - 4 5 80.0 1 2 3 1 1 2 0 2 14
+p759
+aVJuan Carlos Navarro MEM 11/14/2007 MEM @ MIL L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 1 0 0 0 1
+p760
+aVCasey Jacobsen MEM 11/14/2007 MEM @ MIL L 12 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 0 2
+p761
+aVBrian Cardinal MEM 11/14/2007 MEM @ MIL L 8 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 1 0 0 1 3 0
+p762
+aVRudy Gay MEM 11/14/2007 MEM @ MIL L 40 26 9 15 60.0 3 5 60.0 5 6 83.3 0 1 1 0 2 1 1 2 -3
+p763
+aVMike Conley MEM 11/14/2007 MEM @ MIL L 18 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 6 0 0 1 0 9
+p764
+aVPau Gasol MEM 11/14/2007 MEM @ MIL L 33 16 8 14 57.1 0 1 0.0 0 0 - 3 4 7 4 0 1 2 3 0
+p765
+aVKyle Lowry MEM 11/14/2007 MEM @ MIL L 22 6 3 5 60.0 0 0 - 0 0 - 2 1 3 3 2 0 4 2 -7
+p766
+aVMike Miller MEM 11/14/2007 MEM @ MIL L 34 17 6 16 37.5 1 7 14.3 4 5 80.0 0 4 4 2 0 1 1 2 -4
+p767
+aVDamon Stoudamire MEM 11/14/2007 MEM @ MIL L 16 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 5 1 0 0 1 3
+p768
+aVStromile Swift MEM 11/14/2007 MEM @ MIL L 15 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 -10
+p769
+aVDarko Milicic MEM 11/14/2007 MEM @ MIL L 34 10 4 10 40.0 0 0 - 2 4 50.0 5 8 13 1 0 4 2 1 -6
+p770
+aVMike Miller MEM 11/13/2007 MEM vs. HOU W 36 17 6 11 54.5 0 3 0.0 5 5 100.0 1 6 7 6 2 0 4 4 -3
+p771
+aVDarko Milicic MEM 11/13/2007 MEM vs. HOU W 35 20 9 14 64.3 0 0 - 2 4 50.0 3 3 6 0 2 2 2 5 -1
+p772
+aVPau Gasol MEM 11/13/2007 MEM vs. HOU W 36 26 6 11 54.5 0 0 - 14 17 82.4 2 4 6 3 0 0 2 1 4
+p773
+aVKyle Lowry MEM 11/13/2007 MEM vs. HOU W 32 9 1 4 25.0 0 1 0.0 7 8 87.5 0 8 8 3 0 0 0 1 14
+p774
+aVHakim Warrick MEM 11/13/2007 MEM vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 2
+p775
+aVRudy Gay MEM 11/13/2007 MEM vs. HOU W 33 15 6 11 54.5 0 2 0.0 3 4 75.0 2 1 3 0 0 1 3 3 17
+p776
+aVTarence Kinsey MEM 11/13/2007 MEM vs. HOU W 11 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 1 0 2 3 -3
+p777
+aVDamon Stoudamire MEM 11/13/2007 MEM vs. HOU W 16 0 0 4 0.0 0 0 - 0 0 - 0 2 2 6 1 0 2 1 -8
+p778
+aVStromile Swift MEM 11/13/2007 MEM vs. HOU W 14 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 3 10
+p779
+aVJuan Carlos Navarro MEM 11/13/2007 MEM vs. HOU W 11 8 3 6 50.0 1 4 25.0 1 1 100.0 0 1 1 0 0 0 0 0 12
+p780
+aVCasey Jacobsen MEM 11/13/2007 MEM vs. HOU W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -14
+p781
+aVStromile Swift MEM 11/10/2007 MEM @ UTA L 12 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 0 0 1 0 1 0
+p782
+aVBrian Cardinal MEM 11/10/2007 MEM @ UTA L 13 7 2 2 100.0 2 2 100.0 1 4 25.0 1 1 2 1 1 0 1 2 -2
+p783
+aVRudy Gay MEM 11/10/2007 MEM @ UTA L 29 18 6 11 54.5 1 3 33.3 5 6 83.3 1 2 3 1 1 1 2 3 -22
+p784
+aVPau Gasol MEM 11/10/2007 MEM @ UTA L 26 11 3 8 37.5 0 0 - 5 6 83.3 1 3 4 1 0 1 1 1 -19
+p785
+aVMike Miller MEM 11/10/2007 MEM @ UTA L 30 6 3 7 42.9 0 2 0.0 0 0 - 1 11 12 1 0 0 1 1 -20
+p786
+aVMike Conley MEM 11/10/2007 MEM @ UTA L 23 10 2 5 40.0 0 0 - 6 8 75.0 1 1 2 9 0 0 2 1 -10
+p787
+aVAndre Brown MEM 11/10/2007 MEM @ UTA L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p788
+aVJuan Carlos Navarro MEM 11/10/2007 MEM @ UTA L 22 10 3 9 33.3 3 6 50.0 1 1 100.0 0 0 0 0 0 0 2 1 -7
+p789
+aVCasey Jacobsen MEM 11/10/2007 MEM @ UTA L 19 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 0 1 0 3 2 1
+p790
+aVDarko Milicic MEM 11/10/2007 MEM @ UTA L 34 9 4 7 57.1 0 0 - 1 4 25.0 2 4 6 1 1 1 4 4 -25
+p791
+aVKyle Lowry MEM 11/10/2007 MEM @ UTA L 13 5 2 6 33.3 0 1 0.0 1 2 50.0 0 2 2 2 1 0 5 2 -6
+p792
+aVDamon Stoudamire MEM 11/10/2007 MEM @ UTA L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 3 0 0 4 1 -8
+p793
+aVDamon Stoudamire MEM 11/09/2007 MEM @ POR L 17 1 0 5 0.0 0 2 0.0 1 1 100.0 1 2 3 2 0 0 1 2 -7
+p794
+aVPau Gasol MEM 11/09/2007 MEM @ POR L 27 19 8 10 80.0 0 0 - 3 4 75.0 2 2 4 1 0 0 1 5 -4
+p795
+aVDarko Milicic MEM 11/09/2007 MEM @ POR L 29 7 3 13 23.1 0 0 - 1 2 50.0 3 7 10 2 0 0 2 2 -4
+p796
+aVKyle Lowry MEM 11/09/2007 MEM @ POR L 30 14 3 8 37.5 1 2 50.0 7 9 77.8 5 2 7 3 0 0 2 4 -5
+p797
+aVRudy Gay MEM 11/09/2007 MEM @ POR L 41 31 13 24 54.2 4 7 57.1 1 3 33.3 0 3 3 0 2 2 1 5 -23
+p798
+aVCasey Jacobsen MEM 11/09/2007 MEM @ POR L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 9
+p799
+aVMike Miller MEM 11/09/2007 MEM @ POR L 41 9 3 12 25.0 0 2 0.0 3 4 75.0 1 6 7 4 0 0 2 2 -18
+p800
+aVTarence Kinsey MEM 11/09/2007 MEM @ POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p801
+aVBrian Cardinal MEM 11/09/2007 MEM @ POR L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -6
+p802
+aVStromile Swift MEM 11/09/2007 MEM @ POR L 14 6 3 6 50.0 0 1 0.0 0 0 - 2 5 7 0 0 1 2 1 8
+p803
+aVJuan Carlos Navarro MEM 11/09/2007 MEM @ POR L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 0 0
+p804
+aVMike Conley MEM 11/09/2007 MEM @ POR L 17 8 3 4 75.0 1 1 100.0 1 1 100.0 1 0 1 4 1 0 1 1 -13
+p805
+aVDarko Milicic MEM 11/07/2007 MEM @ SEA W 30 15 5 8 62.5 0 0 - 5 7 71.4 4 6 10 1 1 2 2 5 9
+p806
+aVCasey Jacobsen MEM 11/07/2007 MEM @ SEA W 16 2 0 3 0.0 0 3 0.0 2 4 50.0 0 1 1 1 0 0 1 1 0
+p807
+aVHakim Warrick MEM 11/07/2007 MEM @ SEA W 7 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p808
+aVMike Miller MEM 11/07/2007 MEM @ SEA W 40 20 7 15 46.7 6 10 60.0 0 0 - 2 6 8 2 0 0 5 3 10
+p809
+aVRudy Gay MEM 11/07/2007 MEM @ SEA W 43 25 8 19 42.1 1 4 25.0 8 9 88.9 6 4 10 2 2 3 0 2 10
+p810
+aVPau Gasol MEM 11/07/2007 MEM @ SEA W 34 11 2 9 22.2 0 0 - 7 7 100.0 3 7 10 3 0 0 4 1 10
+p811
+aVJuan Carlos Navarro MEM 11/07/2007 MEM @ SEA W 10 0 0 6 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 0 -10
+p812
+aVMike Conley MEM 11/07/2007 MEM @ SEA W 9 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 1 -5
+p813
+aVDamon Stoudamire MEM 11/07/2007 MEM @ SEA W 18 14 6 10 60.0 2 3 66.7 0 0 - 0 1 1 4 0 0 3 0 11
+p814
+aVKyle Lowry MEM 11/07/2007 MEM @ SEA W 21 8 2 7 28.6 1 1 100.0 3 5 60.0 3 2 5 2 1 0 1 1 1
+p815
+aVBrian Cardinal MEM 11/07/2007 MEM @ SEA W 13 4 2 6 33.3 0 1 0.0 0 0 - 2 3 5 0 0 0 1 1 4
+p816
+aVStromile Swift MEM 11/03/2007 MEM vs. IND L 11 8 2 3 66.7 0 0 - 4 5 80.0 0 2 2 1 0 0 2 4 -2
+p817
+aVPau Gasol MEM 11/03/2007 MEM vs. IND L 35 18 6 10 60.0 0 1 0.0 6 7 85.7 2 8 10 3 0 0 3 3 -1
+p818
+aVCasey Jacobsen MEM 11/03/2007 MEM vs. IND L 25 12 3 8 37.5 2 6 33.3 4 4 100.0 0 1 1 0 0 0 1 4 -4
+p819
+aVAndre Brown MEM 11/03/2007 MEM vs. IND L 3 1 0 0 - 0 0 - 1 4 25.0 0 0 0 0 0 0 2 0 -8
+p820
+aVDarko Milicic MEM 11/03/2007 MEM vs. IND L 30 9 3 7 42.9 0 0 - 3 6 50.0 0 7 7 0 1 3 2 4 -4
+p821
+aVHakim Warrick MEM 11/03/2007 MEM vs. IND L 4 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p822
+aVDamon Stoudamire MEM 11/03/2007 MEM vs. IND L 25 10 2 7 28.6 2 4 50.0 4 6 66.7 2 0 2 3 0 0 1 1 -8
+p823
+aVJuan Carlos Navarro MEM 11/03/2007 MEM vs. IND L 19 3 1 6 16.7 1 5 20.0 0 0 - 1 1 2 0 1 0 3 1 -12
+p824
+aVKyle Lowry MEM 11/03/2007 MEM vs. IND L 25 19 4 5 80.0 0 0 - 11 13 84.6 1 2 3 6 2 0 6 5 2
+p825
+aVRudy Gay MEM 11/03/2007 MEM vs. IND L 19 13 5 9 55.6 2 4 50.0 1 1 100.0 0 0 0 0 0 0 4 5 -12
+p826
+aVMike Miller MEM 11/03/2007 MEM vs. IND L 42 14 5 10 50.0 2 6 33.3 2 3 66.7 0 10 10 7 1 0 3 1 3
+p827
+aVMike Miller MEM 10/31/2007 MEM vs. SAS L 36 11 4 8 50.0 2 3 66.7 1 2 50.0 0 10 10 5 1 0 1 3 4
+p828
+aVRudy Gay MEM 10/31/2007 MEM vs. SAS L 28 16 7 15 46.7 0 5 0.0 2 3 66.7 0 6 6 2 0 0 3 5 7
+p829
+aVDarko Milicic MEM 10/31/2007 MEM vs. SAS L 28 8 4 6 66.7 0 0 - 0 0 - 2 5 7 2 0 2 1 2 1
+p830
+aVPau Gasol MEM 10/31/2007 MEM vs. SAS L 41 22 8 16 50.0 1 1 100.0 5 5 100.0 0 3 3 1 0 2 1 3 2
+p831
+aVStromile Swift MEM 10/31/2007 MEM vs. SAS L 13 4 1 3 33.3 0 0 - 2 4 50.0 2 1 3 0 0 1 1 2 -9
+p832
+aVCasey Jacobsen MEM 10/31/2007 MEM vs. SAS L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 0 -7
+p833
+aVDamon Stoudamire MEM 10/31/2007 MEM vs. SAS L 31 18 7 14 50.0 4 8 50.0 0 0 - 1 3 4 4 2 0 0 1 5
+p834
+aVJuan Carlos Navarro MEM 10/31/2007 MEM vs. SAS L 17 9 3 6 50.0 3 4 75.0 0 0 - 0 0 0 2 1 0 4 1 1
+p835
+aVKyle Lowry MEM 10/31/2007 MEM vs. SAS L 21 8 2 6 33.3 0 1 0.0 4 4 100.0 0 5 5 4 0 1 1 1 -11
+p836
+aVHakim Warrick MEM 10/31/2007 MEM vs. SAS L 10 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 1 0 0 1 1 -8
+p837
+a.

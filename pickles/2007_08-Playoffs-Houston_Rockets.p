@@ -1,0 +1,132 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDikembe Mutombo HOU 05/02/2008 HOU @ UTA L 19 2 0 0 - 0 0 - 2 3 66.7 2 4 6 1 0 2 0 3 0
+p2
+aVBobby Jackson HOU 05/02/2008 HOU @ UTA L 26 6 2 12 16.7 1 3 33.3 1 3 33.3 0 2 2 1 2 0 1 2 -13
+p3
+aVSteve Novak HOU 05/02/2008 HOU @ UTA L 12 8 3 3 100.0 2 2 100.0 0 0 - 1 1 2 0 0 1 0 1 -2
+p4
+aVRafer Alston HOU 05/02/2008 HOU @ UTA L 16 8 2 7 28.6 0 2 0.0 4 5 80.0 1 0 1 2 0 0 2 1 -8
+p5
+aVShane Battier HOU 05/02/2008 HOU @ UTA L 42 5 2 7 28.6 1 4 25.0 0 0 - 3 1 4 1 1 2 2 4 -20
+p6
+aVTracy McGrady HOU 05/02/2008 HOU @ UTA L 42 40 13 26 50.0 2 7 28.6 12 18 66.7 1 9 10 5 0 1 1 1 -17
+p7
+aVMichael Harris HOU 05/02/2008 HOU @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p8
+aVCharles Hayes HOU 05/02/2008 HOU @ UTA L 17 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -10
+p9
+aVAaron Brooks HOU 05/02/2008 HOU @ UTA L 8 5 0 5 0.0 0 4 0.0 5 6 83.3 0 2 2 0 0 0 0 1 -4
+p10
+aVCarl Landry HOU 05/02/2008 HOU @ UTA L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -9
+p11
+aVLuther Head HOU 05/02/2008 HOU @ UTA L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p12
+aVLuis Scola HOU 05/02/2008 HOU @ UTA L 39 15 7 12 58.3 0 0 - 1 1 100.0 5 4 9 0 0 1 1 4 -23
+p13
+aVAaron Brooks HOU 04/29/2008 HOU vs. UTA W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 4
+p14
+aVRafer Alston HOU 04/29/2008 HOU vs. UTA W 31 14 5 9 55.6 4 7 57.1 0 0 - 0 1 1 6 2 0 1 2 8
+p15
+aVTracy McGrady HOU 04/29/2008 HOU vs. UTA W 39 29 13 26 50.0 1 4 25.0 2 2 100.0 1 4 5 5 2 0 5 1 21
+p16
+aVDikembe Mutombo HOU 04/29/2008 HOU vs. UTA W 24 5 1 2 50.0 0 0 - 3 6 50.0 2 8 10 1 0 1 0 3 10
+p17
+aVCarl Landry HOU 04/29/2008 HOU vs. UTA W 23 8 3 8 37.5 0 0 - 2 2 100.0 1 4 5 0 3 0 0 1 20
+p18
+aVLuis Scola HOU 04/29/2008 HOU vs. UTA W 35 18 7 12 58.3 0 1 0.0 4 5 80.0 4 8 12 2 0 0 2 4 9
+p19
+aVSteve Novak HOU 04/29/2008 HOU vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p20
+aVCharles Hayes HOU 04/29/2008 HOU vs. UTA W 14 4 2 2 100.0 0 0 - 0 0 - 2 1 3 1 0 2 0 1 13
+p21
+aVBobby Jackson HOU 04/29/2008 HOU vs. UTA W 17 9 3 6 50.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 0 2 10
+p22
+aVShane Battier HOU 04/29/2008 HOU vs. UTA W 37 3 1 8 12.5 0 5 0.0 1 1 100.0 0 6 6 1 2 0 2 3 12
+p23
+aVMichael Harris HOU 04/29/2008 HOU vs. UTA W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p24
+aVLuther Head HOU 04/29/2008 HOU vs. UTA W 14 1 0 4 0.0 0 0 - 1 1 100.0 0 0 0 2 1 1 2 1 15
+p25
+aVDikembe Mutombo HOU 04/26/2008 HOU @ UTA L 19 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 1 0 1 -3
+p26
+aVCarl Landry HOU 04/26/2008 HOU @ UTA L 31 13 3 6 50.0 0 0 - 7 9 77.8 6 0 6 0 2 1 0 2 0
+p27
+aVShane Battier HOU 04/26/2008 HOU @ UTA L 40 10 3 7 42.9 3 4 75.0 1 2 50.0 0 3 3 0 0 1 1 4 -1
+p28
+aVTracy McGrady HOU 04/26/2008 HOU @ UTA L 39 23 9 25 36.0 1 4 25.0 4 8 50.0 1 9 10 8 1 1 2 1 7
+p29
+aVCharles Hayes HOU 04/26/2008 HOU @ UTA L 19 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 2 3 3
+p30
+aVRafer Alston HOU 04/26/2008 HOU @ UTA L 44 15 6 18 33.3 3 8 37.5 0 0 - 1 3 4 5 2 0 2 3 -4
+p31
+aVLuis Scola HOU 04/26/2008 HOU @ UTA L 27 7 2 4 50.0 0 0 - 3 4 75.0 1 6 7 1 0 0 1 6 -6
+p32
+aVBobby Jackson HOU 04/26/2008 HOU @ UTA L 15 4 1 10 10.0 0 4 0.0 2 2 100.0 0 1 1 0 1 0 1 2 -9
+p33
+aVAaron Brooks HOU 04/26/2008 HOU @ UTA L 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -2
+p34
+aVLuther Head HOU 04/26/2008 HOU @ UTA L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p35
+aVLuis Scola HOU 04/24/2008 HOU @ UTA W 39 16 4 13 30.8 0 0 - 8 10 80.0 5 5 10 4 2 0 3 5 2
+p36
+aVTracy McGrady HOU 04/24/2008 HOU @ UTA W 44 27 11 26 42.3 0 0 - 5 9 55.6 2 3 5 7 1 1 2 4 1
+p37
+aVCharles Hayes HOU 04/24/2008 HOU @ UTA W 16 2 1 2 50.0 0 1 0.0 0 0 - 1 6 7 2 2 1 1 5 -2
+p38
+aVBobby Jackson HOU 04/24/2008 HOU @ UTA W 16 8 4 10 40.0 0 3 0.0 0 0 - 1 0 1 2 0 0 0 2 9
+p39
+aVShane Battier HOU 04/24/2008 HOU @ UTA W 45 12 4 9 44.4 2 4 50.0 2 2 100.0 0 2 2 0 1 1 1 4 1
+p40
+aVAaron Brooks HOU 04/24/2008 HOU @ UTA W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p41
+aVRafer Alston HOU 04/24/2008 HOU @ UTA W 35 20 8 14 57.1 4 8 50.0 0 0 - 0 0 0 5 0 0 1 1 -6
+p42
+aVCarl Landry HOU 04/24/2008 HOU @ UTA W 23 7 3 4 75.0 0 0 - 1 1 100.0 7 4 11 0 0 2 1 3 9
+p43
+aVDikembe Mutombo HOU 04/24/2008 HOU @ UTA W 18 2 1 1 100.0 0 0 - 0 0 - 0 7 7 0 1 2 0 1 -5
+p44
+aVBobby Jackson HOU 04/21/2008 HOU vs. UTA L 30 18 7 17 41.2 2 6 33.3 2 4 50.0 1 4 5 2 0 0 0 1 -5
+p45
+aVAaron Brooks HOU 04/21/2008 HOU vs. UTA L 18 11 5 9 55.6 0 3 0.0 1 1 100.0 0 0 0 2 0 0 0 4 -1
+p46
+aVTracy McGrady HOU 04/21/2008 HOU vs. UTA L 43 23 9 22 40.9 0 4 0.0 5 9 55.6 1 12 13 9 3 2 5 0 -2
+p47
+aVCharles Hayes HOU 04/21/2008 HOU vs. UTA L 26 2 1 3 33.3 0 0 - 0 0 - 2 8 10 1 0 2 0 4 -1
+p48
+aVCarl Landry HOU 04/21/2008 HOU vs. UTA L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p49
+aVLuther Head HOU 04/21/2008 HOU vs. UTA L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p50
+aVDikembe Mutombo HOU 04/21/2008 HOU vs. UTA L 18 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 0 0 2 0 0 -1
+p51
+aVLuis Scola HOU 04/21/2008 HOU vs. UTA L 44 14 4 11 36.4 0 0 - 6 10 60.0 1 4 5 1 0 0 3 6 -10
+p52
+aVShane Battier HOU 04/21/2008 HOU vs. UTA L 41 8 3 7 42.9 2 4 50.0 0 0 - 3 2 5 0 2 1 1 3 -8
+p53
+aVShane Battier HOU 04/19/2008 HOU vs. UTA L 41 22 7 7 100.0 4 4 100.0 4 6 66.7 1 2 3 1 0 0 1 1 -6
+p54
+aVCarl Landry HOU 04/19/2008 HOU vs. UTA L 11 4 1 4 25.0 0 0 - 2 4 50.0 1 3 4 0 1 0 0 0 -12
+p55
+aVLuther Head HOU 04/19/2008 HOU vs. UTA L 8 3 1 2 50.0 0 1 0.0 1 1 100.0 1 0 1 2 1 0 2 0 1
+p56
+aVDikembe Mutombo HOU 04/19/2008 HOU vs. UTA L 27 2 1 3 33.3 0 0 - 0 0 - 4 5 9 0 0 3 1 2 3
+p57
+aVSteve Novak HOU 04/19/2008 HOU vs. UTA L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p58
+aVBobby Jackson HOU 04/19/2008 HOU vs. UTA L 33 7 3 15 20.0 1 7 14.3 0 0 - 0 0 0 3 2 0 2 2 -6
+p59
+aVTracy McGrady HOU 04/19/2008 HOU vs. UTA L 41 20 7 21 33.3 1 5 20.0 5 7 71.4 1 5 6 7 2 0 3 1 -6
+p60
+aVLuis Scola HOU 04/19/2008 HOU vs. UTA L 37 14 6 15 40.0 0 0 - 2 5 40.0 8 5 13 0 2 0 2 5 0
+p61
+aVLoren Woods HOU 04/19/2008 HOU vs. UTA L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p62
+aVMichael Harris HOU 04/19/2008 HOU vs. UTA L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p63
+aVAaron Brooks HOU 04/19/2008 HOU vs. UTA L 15 5 1 7 14.3 0 3 0.0 3 4 75.0 0 1 1 1 0 0 1 3 -5
+p64
+aVCharles Hayes HOU 04/19/2008 HOU vs. UTA L 16 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 1 0 1 0 3 -17
+p65
+a.

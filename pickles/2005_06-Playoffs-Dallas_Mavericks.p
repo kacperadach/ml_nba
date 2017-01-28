@@ -1,0 +1,468 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMarquis Daniels DAL 06/20/2006 DAL vs. MIA L 18 12 4 6 66.7 0 1 0.0 4 5 80.0 2 0 2 1 0 0 0 2 3
+p2
+aVAdrian Griffin DAL 06/20/2006 DAL vs. MIA L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -1
+p3
+aVDevin Harris DAL 06/20/2006 DAL vs. MIA L 26 6 2 4 50.0 0 0 - 2 3 66.7 3 0 3 4 2 0 4 5 -3
+p4
+aVJason Terry DAL 06/20/2006 DAL vs. MIA L 43 16 7 25 28.0 2 11 18.2 0 0 - 0 1 1 5 2 0 2 1 -3
+p5
+aVDeSagana Diop DAL 06/20/2006 DAL vs. MIA L 16 2 1 3 33.3 0 0 - 0 1 0.0 0 4 4 1 0 2 0 3 7
+p6
+aVErick Dampier DAL 06/20/2006 DAL vs. MIA L 25 1 0 1 0.0 0 0 - 1 2 50.0 3 5 8 0 1 1 2 2 -8
+p7
+aVJosh Howard DAL 06/20/2006 DAL vs. MIA L 30 14 5 16 31.3 0 2 0.0 4 4 100.0 3 9 12 0 4 1 1 5 10
+p8
+aVDirk Nowitzki DAL 06/20/2006 DAL vs. MIA L 47 29 10 22 45.5 1 2 50.0 8 8 100.0 3 12 15 2 0 2 1 5 -3
+p9
+aVJerry Stackhouse DAL 06/20/2006 DAL vs. MIA L 29 12 5 13 38.5 2 6 33.3 0 0 - 1 3 4 3 2 1 3 5 -14
+p10
+aVDJ Mbenga DAL 06/20/2006 DAL vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p11
+aVKeith Van Horn DAL 06/18/2006 DAL @ MIA L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -7
+p12
+aVAdrian Griffin DAL 06/18/2006 DAL @ MIA L 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 1 3 -16
+p13
+aVDeSagana Diop DAL 06/18/2006 DAL @ MIA L 21 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 6 7
+p14
+aVMarquis Daniels DAL 06/18/2006 DAL @ MIA L 14 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 4 0 0 1 3 8
+p15
+aVDJ Mbenga DAL 06/18/2006 DAL @ MIA L 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 4 0
+p16
+aVJason Terry DAL 06/18/2006 DAL @ MIA L 50 35 13 23 56.5 4 9 44.4 5 5 100.0 1 4 5 1 1 0 4 2 4
+p17
+aVDirk Nowitzki DAL 06/18/2006 DAL @ MIA L 49 20 8 19 42.1 0 4 0.0 4 5 80.0 2 6 8 3 0 0 2 4 -1
+p18
+aVJosh Howard DAL 06/18/2006 DAL @ MIA L 49 25 8 17 47.1 0 3 0.0 9 11 81.8 5 5 10 3 0 0 3 4 4
+p19
+aVDevin Harris DAL 06/18/2006 DAL @ MIA L 35 6 2 12 16.7 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 5 -3
+p20
+aVErick Dampier DAL 06/18/2006 DAL @ MIA L 18 5 2 2 100.0 0 0 - 1 2 50.0 0 8 8 0 0 0 2 5 -1
+p21
+aVKeith Van Horn DAL 06/15/2006 DAL @ MIA L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p22
+aVErick Dampier DAL 06/15/2006 DAL @ MIA L 18 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 1 1 5 -16
+p23
+aVDeSagana Diop DAL 06/15/2006 DAL @ MIA L 18 5 1 1 100.0 0 0 - 3 5 60.0 1 1 2 0 0 1 0 3 -8
+p24
+aVAdrian Griffin DAL 06/15/2006 DAL @ MIA L 17 6 3 3 100.0 0 0 - 0 0 - 3 3 6 0 0 0 0 2 6
+p25
+aVJosh Howard DAL 06/15/2006 DAL @ MIA L 36 3 1 8 12.5 0 4 0.0 1 2 50.0 1 6 7 2 2 0 1 4 -18
+p26
+aVMarquis Daniels DAL 06/15/2006 DAL @ MIA L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -7
+p27
+aVDarrell Armstrong DAL 06/15/2006 DAL @ MIA L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p28
+aVDevin Harris DAL 06/15/2006 DAL @ MIA L 28 11 4 8 50.0 0 0 - 3 3 100.0 0 0 0 2 0 0 3 3 -5
+p29
+aVJosh Powell DAL 06/15/2006 DAL @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -2
+p30
+aVJerry Stackhouse DAL 06/15/2006 DAL @ MIA L 30 16 6 18 33.3 1 5 20.0 3 3 100.0 3 1 4 4 1 1 0 1 -9
+p31
+aVJason Terry DAL 06/15/2006 DAL @ MIA L 33 17 8 18 44.4 1 5 20.0 0 1 0.0 0 1 1 0 1 0 3 2 -28
+p32
+aVDirk Nowitzki DAL 06/15/2006 DAL @ MIA L 41 16 2 14 14.3 1 5 20.0 11 13 84.6 1 8 9 1 1 0 4 2 -19
+p33
+aVDevin Harris DAL 06/13/2006 DAL @ MIA L 18 9 4 7 57.1 0 0 - 1 3 33.3 0 0 0 4 1 0 2 3 -8
+p34
+aVErick Dampier DAL 06/13/2006 DAL @ MIA L 29 14 6 7 85.7 0 0 - 2 5 40.0 5 4 9 0 3 1 1 4 9
+p35
+aVAdrian Griffin DAL 06/13/2006 DAL @ MIA L 14 2 1 3 33.3 0 0 - 0 0 - 1 4 5 3 2 0 1 3 6
+p36
+aVJerry Stackhouse DAL 06/13/2006 DAL @ MIA L 31 4 1 9 11.1 0 1 0.0 2 2 100.0 0 1 1 1 1 0 2 2 -6
+p37
+aVDeSagana Diop DAL 06/13/2006 DAL @ MIA L 11 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 4 -1
+p38
+aVDirk Nowitzki DAL 06/13/2006 DAL @ MIA L 45 30 9 20 45.0 2 7 28.6 10 12 83.3 0 7 7 1 0 0 3 5 5
+p39
+aVKeith Van Horn DAL 06/13/2006 DAL @ MIA L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 2 -10
+p40
+aVJosh Howard DAL 06/13/2006 DAL @ MIA L 42 21 8 13 61.5 3 3 100.0 2 2 100.0 0 5 5 1 0 1 1 4 4
+p41
+aVMarquis Daniels DAL 06/13/2006 DAL @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p42
+aVJason Terry DAL 06/13/2006 DAL @ MIA L 36 16 7 14 50.0 1 3 33.3 1 2 50.0 0 1 1 5 2 0 2 2 -2
+p43
+aVAdrian Griffin DAL 06/11/2006 DAL vs. MIA W 18 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 1 4 8
+p44
+aVKeith Van Horn DAL 06/11/2006 DAL vs. MIA W 10 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -8
+p45
+aVDirk Nowitzki DAL 06/11/2006 DAL vs. MIA W 41 26 8 16 50.0 0 2 0.0 10 11 90.9 1 15 16 4 0 2 1 2 19
+p46
+aVDevin Harris DAL 06/11/2006 DAL vs. MIA W 23 11 4 10 40.0 0 1 0.0 3 3 100.0 0 1 1 4 1 0 1 4 6
+p47
+aVJosh Howard DAL 06/11/2006 DAL vs. MIA W 29 15 6 12 50.0 2 3 66.7 1 1 100.0 1 2 3 1 0 2 4 5 14
+p48
+aVMarquis Daniels DAL 06/11/2006 DAL vs. MIA W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p49
+aVDeSagana Diop DAL 06/11/2006 DAL vs. MIA W 12 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 1 0 1 5 -9
+p50
+aVErick Dampier DAL 06/11/2006 DAL vs. MIA W 29 6 2 3 66.7 0 0 - 2 3 66.7 4 9 13 1 1 1 2 2 25
+p51
+aVJason Terry DAL 06/11/2006 DAL vs. MIA W 41 16 6 15 40.0 1 6 16.7 3 5 60.0 0 1 1 9 2 0 3 2 6
+p52
+aVJerry Stackhouse DAL 06/11/2006 DAL vs. MIA W 30 19 6 11 54.5 4 5 80.0 3 3 100.0 1 2 3 3 0 0 3 1 9
+p53
+aVDirk Nowitzki DAL 06/08/2006 DAL vs. MIA W 39 16 4 14 28.6 2 4 50.0 6 6 100.0 2 8 10 4 3 0 2 2 7
+p54
+aVKeith Van Horn DAL 06/08/2006 DAL vs. MIA W 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p55
+aVMarquis Daniels DAL 06/08/2006 DAL vs. MIA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 3
+p56
+aVJason Terry DAL 06/08/2006 DAL vs. MIA W 37 32 13 18 72.2 4 7 57.1 2 2 100.0 0 4 4 1 3 0 1 2 12
+p57
+aVDeSagana Diop DAL 06/08/2006 DAL vs. MIA W 16 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 2 2 2 -2
+p58
+aVDevin Harris DAL 06/08/2006 DAL vs. MIA W 18 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 1 10
+p59
+aVJosh Howard DAL 06/08/2006 DAL vs. MIA W 44 10 3 14 21.4 0 4 0.0 4 6 66.7 0 12 12 4 1 0 5 4 11
+p60
+aVAdrian Griffin DAL 06/08/2006 DAL vs. MIA W 13 8 4 6 66.7 0 0 - 0 0 - 1 0 1 1 1 0 0 1 3
+p61
+aVJerry Stackhouse DAL 06/08/2006 DAL vs. MIA W 29 13 4 11 36.4 0 2 0.0 5 6 83.3 0 5 5 4 0 1 3 1 -9
+p62
+aVErick Dampier DAL 06/08/2006 DAL vs. MIA W 27 8 3 4 75.0 0 0 - 2 4 50.0 3 4 7 0 0 0 0 4 12
+p63
+aVDirk Nowitzki DAL 06/03/2006 DAL @ PHX W 44 24 8 20 40.0 0 5 0.0 8 9 88.9 1 9 10 3 3 3 2 2 11
+p64
+aVDeSagana Diop DAL 06/03/2006 DAL @ PHX W 21 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 1 0 5 -6
+p65
+aVJason Terry DAL 06/03/2006 DAL @ PHX W 26 17 6 13 46.2 1 5 20.0 4 6 66.7 1 2 3 3 0 0 1 4 22
+p66
+aVKeith Van Horn DAL 06/03/2006 DAL @ PHX W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p67
+aVJosh Howard DAL 06/03/2006 DAL @ PHX W 46 20 7 16 43.8 1 4 25.0 5 6 83.3 5 10 15 1 3 0 4 3 11
+p68
+aVMarquis Daniels DAL 06/03/2006 DAL @ PHX W 12 4 1 4 25.0 0 0 - 2 4 50.0 0 0 0 0 1 0 0 0 -1
+p69
+aVAdrian Griffin DAL 06/03/2006 DAL @ PHX W 36 6 3 4 75.0 0 0 - 0 0 - 1 4 5 1 1 0 2 2 15
+p70
+aVDevin Harris DAL 06/03/2006 DAL @ PHX W 12 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -13
+p71
+aVJerry Stackhouse DAL 06/03/2006 DAL @ PHX W 40 19 6 13 46.2 1 5 20.0 6 6 100.0 0 1 1 2 3 0 2 3 12
+p72
+aVAdrian Griffin DAL 06/01/2006 DAL vs. PHX W 23 0 0 3 0.0 0 0 - 0 0 - 1 6 7 3 1 1 0 2 13
+p73
+aVMarquis Daniels DAL 06/01/2006 DAL vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p74
+aVDirk Nowitzki DAL 06/01/2006 DAL vs. PHX W 44 50 14 26 53.8 5 6 83.3 17 18 94.4 1 11 12 3 1 0 1 2 22
+p75
+aVDarrell Armstrong DAL 06/01/2006 DAL vs. PHX W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p76
+aVJason Terry DAL 06/01/2006 DAL vs. PHX W 34 14 6 13 46.2 1 2 50.0 1 2 50.0 2 1 3 9 0 1 3 5 16
+p77
+aVJosh Powell DAL 06/01/2006 DAL vs. PHX W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p78
+aVDeSagana Diop DAL 06/01/2006 DAL vs. PHX W 29 7 3 5 60.0 0 0 - 1 1 100.0 5 4 9 1 1 2 0 2 10
+p79
+aVDevin Harris DAL 06/01/2006 DAL vs. PHX W 18 3 1 3 33.3 0 0 - 1 1 100.0 3 2 5 1 0 0 0 3 -1
+p80
+aVKeith Van Horn DAL 06/01/2006 DAL vs. PHX W 16 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -1
+p81
+aVJerry Stackhouse DAL 06/01/2006 DAL vs. PHX W 39 16 7 18 38.9 1 3 33.3 1 2 50.0 2 1 3 5 0 0 2 2 18
+p82
+aVJosh Howard DAL 06/01/2006 DAL vs. PHX W 31 23 9 15 60.0 2 5 40.0 3 4 75.0 1 6 7 2 2 1 3 5 15
+p83
+aVDeSagana Diop DAL 05/30/2006 DAL @ PHX L 19 2 1 1 100.0 0 0 - 0 0 - 3 2 5 0 1 1 1 2 -6
+p84
+aVJason Terry DAL 05/30/2006 DAL @ PHX L 33 13 4 11 36.4 2 4 50.0 3 4 75.0 1 1 2 0 2 0 2 1 -21
+p85
+aVDirk Nowitzki DAL 05/30/2006 DAL @ PHX L 33 11 3 13 23.1 1 1 100.0 4 5 80.0 1 6 7 2 1 0 2 3 -17
+p86
+aVDevin Harris DAL 05/30/2006 DAL @ PHX L 28 10 4 9 44.4 0 1 0.0 2 4 50.0 0 1 1 5 1 0 2 3 -12
+p87
+aVAdrian Griffin DAL 05/30/2006 DAL @ PHX L 18 13 6 8 75.0 0 0 - 1 1 100.0 2 5 7 0 0 0 1 2 -8
+p88
+aVJerry Stackhouse DAL 05/30/2006 DAL @ PHX L 25 10 4 10 40.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 2 4 -19
+p89
+aVErick Dampier DAL 05/30/2006 DAL @ PHX L 7 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 0 0 0 2 0
+p90
+aVJosh Powell DAL 05/30/2006 DAL @ PHX L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p91
+aVDarrell Armstrong DAL 05/30/2006 DAL @ PHX L 6 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 5
+p92
+aVJosh Howard DAL 05/30/2006 DAL @ PHX L 39 16 7 15 46.7 0 1 0.0 2 2 100.0 2 7 9 1 0 0 3 3 -15
+p93
+aVKeith Van Horn DAL 05/30/2006 DAL @ PHX L 24 7 3 7 42.9 1 2 50.0 0 0 - 0 5 5 0 0 1 0 1 -10
+p94
+aVMarquis Daniels DAL 05/30/2006 DAL @ PHX L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 0
+p95
+aVAdrian Griffin DAL 05/28/2006 DAL @ PHX W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p96
+aVKeith Van Horn DAL 05/28/2006 DAL @ PHX W 21 5 2 7 28.6 0 1 0.0 1 1 100.0 4 3 7 0 0 0 1 0 5
+p97
+aVDevin Harris DAL 05/28/2006 DAL @ PHX W 24 6 3 7 42.9 0 0 - 0 1 0.0 1 1 2 4 1 0 1 3 11
+p98
+aVJason Terry DAL 05/28/2006 DAL @ PHX W 38 19 9 20 45.0 0 3 0.0 1 1 100.0 0 2 2 2 2 0 1 3 6
+p99
+aVJerry Stackhouse DAL 05/28/2006 DAL @ PHX W 31 7 2 8 25.0 0 1 0.0 3 6 50.0 1 1 2 2 0 1 0 1 1
+p100
+aVDarrell Armstrong DAL 05/28/2006 DAL @ PHX W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p101
+aVDeSagana Diop DAL 05/28/2006 DAL @ PHX W 25 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 1 1 0 0 -5
+p102
+aVJosh Howard DAL 05/28/2006 DAL @ PHX W 44 22 9 22 40.9 2 5 40.0 2 2 100.0 4 8 12 2 3 0 1 3 7
+p103
+aVDirk Nowitzki DAL 05/28/2006 DAL @ PHX W 41 28 10 23 43.5 2 4 50.0 6 6 100.0 6 11 17 5 1 2 1 3 13
+p104
+aVMarquis Daniels DAL 05/26/2006 DAL vs. PHX W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p105
+aVAdrian Griffin DAL 05/26/2006 DAL vs. PHX W 14 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 1 0 0 0 2 3
+p106
+aVJerry Stackhouse DAL 05/26/2006 DAL vs. PHX W 29 11 3 7 42.9 1 2 50.0 4 5 80.0 2 5 7 2 0 0 3 0 6
+p107
+aVJason Terry DAL 05/26/2006 DAL vs. PHX W 41 18 6 15 40.0 0 1 0.0 6 7 85.7 0 4 4 4 0 0 1 1 3
+p108
+aVDevin Harris DAL 05/26/2006 DAL vs. PHX W 23 9 4 7 57.1 0 1 0.0 1 4 25.0 0 1 1 2 1 0 1 0 -10
+p109
+aVDeSagana Diop DAL 05/26/2006 DAL vs. PHX W 31 4 2 3 66.7 0 0 - 0 0 - 2 9 11 0 1 2 0 5 10
+p110
+aVKeith Van Horn DAL 05/26/2006 DAL vs. PHX W 16 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 -7
+p111
+aVJosh Howard DAL 05/26/2006 DAL vs. PHX W 39 29 10 19 52.6 3 5 60.0 6 10 60.0 2 5 7 0 1 2 2 4 21
+p112
+aVDirk Nowitzki DAL 05/26/2006 DAL vs. PHX W 45 30 12 21 57.1 0 0 - 6 8 75.0 2 12 14 6 1 0 1 0 12
+p113
+aVAdrian Griffin DAL 05/24/2006 DAL vs. PHX L 28 4 2 3 66.7 0 0 - 0 0 - 1 5 6 2 1 0 2 3 0
+p114
+aVJason Terry DAL 05/24/2006 DAL vs. PHX L 40 15 6 17 35.3 1 5 20.0 2 2 100.0 0 4 4 3 1 0 3 4 -6
+p115
+aVDirk Nowitzki DAL 05/24/2006 DAL vs. PHX L 41 25 8 18 44.4 0 0 - 9 10 90.0 8 11 19 2 1 0 3 2 -14
+p116
+aVKeith Van Horn DAL 05/24/2006 DAL vs. PHX L 23 7 3 11 27.3 1 7 14.3 0 0 - 2 3 5 0 0 1 0 3 -1
+p117
+aVErick Dampier DAL 05/24/2006 DAL vs. PHX L 16 6 3 4 75.0 0 0 - 0 0 - 3 2 5 1 0 0 0 2 10
+p118
+aVJerry Stackhouse DAL 05/24/2006 DAL vs. PHX L 35 16 7 13 53.8 1 2 50.0 1 1 100.0 1 3 4 3 1 0 3 4 9
+p119
+aVMarquis Daniels DAL 05/24/2006 DAL vs. PHX L 14 9 3 4 75.0 0 0 - 3 3 100.0 1 0 1 0 0 0 2 0 5
+p120
+aVJosh Howard DAL 05/24/2006 DAL vs. PHX L 6 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p121
+aVDarrell Armstrong DAL 05/24/2006 DAL vs. PHX L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 2 2
+p122
+aVDevin Harris DAL 05/24/2006 DAL vs. PHX L 30 30 12 17 70.6 0 0 - 6 7 85.7 2 0 2 2 5 0 3 5 -17
+p123
+aVDirk Nowitzki DAL 05/22/2006 DAL @ SAS W 49 37 11 20 55.0 0 1 0.0 15 16 93.8 2 13 15 3 1 1 0 3 0
+p124
+aVJosh Howard DAL 05/22/2006 DAL @ SAS W 36 18 7 12 58.3 1 3 33.3 3 4 75.0 1 5 6 3 0 0 3 6 7
+p125
+aVJason Terry DAL 05/22/2006 DAL @ SAS W 48 27 9 20 45.0 3 6 50.0 6 6 100.0 1 5 6 1 1 0 1 1 13
+p126
+aVAdrian Griffin DAL 05/22/2006 DAL @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p127
+aVDeSagana Diop DAL 05/22/2006 DAL @ SAS W 10 7 3 3 100.0 0 0 - 1 2 50.0 3 1 4 0 0 2 0 1 4
+p128
+aVErick Dampier DAL 05/22/2006 DAL @ SAS W 26 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 1 0 1 0 6 1
+p129
+aVDevin Harris DAL 05/22/2006 DAL @ SAS W 34 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 5 5 7
+p130
+aVDarrell Armstrong DAL 05/22/2006 DAL @ SAS W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 2 2
+p131
+aVKeith Van Horn DAL 05/22/2006 DAL @ SAS W 13 9 3 7 42.9 3 5 60.0 0 0 - 0 2 2 0 0 1 1 6 -3
+p132
+aVJerry Stackhouse DAL 05/22/2006 DAL @ SAS W 40 13 6 13 46.2 0 2 0.0 1 1 100.0 1 1 2 6 0 0 1 2 7
+p133
+aVMarquis Daniels DAL 05/19/2006 DAL vs. SAS L 18 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 1 1 1 1 4 -9
+p134
+aVJosh Howard DAL 05/19/2006 DAL vs. SAS L 42 17 7 17 41.2 1 2 50.0 2 2 100.0 2 4 6 1 1 2 3 3 -9
+p135
+aVErick Dampier DAL 05/19/2006 DAL vs. SAS L 27 6 2 4 50.0 0 0 - 2 2 100.0 4 1 5 0 1 2 0 5 -8
+p136
+aVAdrian Griffin DAL 05/19/2006 DAL vs. SAS L 17 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 1 0 2 -2
+p137
+aVDarrell Armstrong DAL 05/19/2006 DAL vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p138
+aVDevin Harris DAL 05/19/2006 DAL vs. SAS L 31 7 3 14 21.4 0 1 0.0 1 2 50.0 0 1 1 3 0 0 4 5 -4
+p139
+aVKeith Van Horn DAL 05/19/2006 DAL vs. SAS L 13 10 3 7 42.9 2 4 50.0 2 2 100.0 0 1 1 0 0 0 0 4 6
+p140
+aVDirk Nowitzki DAL 05/19/2006 DAL vs. SAS L 46 26 9 16 56.3 0 1 0.0 8 8 100.0 2 19 21 5 1 0 3 1 -7
+p141
+aVJerry Stackhouse DAL 05/19/2006 DAL vs. SAS L 39 10 4 15 26.7 2 6 33.3 0 2 0.0 1 2 3 4 0 1 3 1 1
+p142
+aVDeSagana Diop DAL 05/19/2006 DAL vs. SAS L 6 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 1 1 4 5
+p143
+aVJosh Howard DAL 05/17/2006 DAL @ SAS L 37 16 7 12 58.3 1 2 50.0 1 3 33.3 2 6 8 0 0 0 0 2 -3
+p144
+aVDirk Nowitzki DAL 05/17/2006 DAL @ SAS L 44 31 13 22 59.1 1 2 50.0 4 4 100.0 1 9 10 4 2 0 4 4 0
+p145
+aVDJ Mbenga DAL 05/17/2006 DAL @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p146
+aVJason Terry DAL 05/17/2006 DAL @ SAS L 43 15 6 14 42.9 1 4 25.0 2 2 100.0 2 2 4 5 0 0 4 3 0
+p147
+aVMarquis Daniels DAL 05/17/2006 DAL @ SAS L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -2
+p148
+aVKeith Van Horn DAL 05/17/2006 DAL @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 4 2
+p149
+aVJerry Stackhouse DAL 05/17/2006 DAL @ SAS L 32 10 4 12 33.3 0 3 0.0 2 2 100.0 1 4 5 2 0 0 0 0 5
+p150
+aVErick Dampier DAL 05/17/2006 DAL @ SAS L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 2 0 5 1
+p151
+aVDeSagana Diop DAL 05/17/2006 DAL @ SAS L 24 8 3 3 100.0 0 0 - 2 2 100.0 2 5 7 0 1 1 1 3 -4
+p152
+aVDevin Harris DAL 05/17/2006 DAL @ SAS L 32 15 5 12 41.7 0 0 - 5 6 83.3 1 0 1 0 1 1 2 4 -4
+p153
+aVJosh Howard DAL 05/15/2006 DAL vs. SAS W 32 8 4 13 30.8 0 1 0.0 0 0 - 1 4 5 2 0 0 2 4 -15
+p154
+aVErick Dampier DAL 05/15/2006 DAL vs. SAS W 36 8 4 6 66.7 0 0 - 0 0 - 6 3 9 0 0 1 0 6 4
+p155
+aVJason Terry DAL 05/15/2006 DAL vs. SAS W 51 32 12 25 48.0 2 6 33.3 6 6 100.0 0 2 2 5 2 0 1 2 11
+p156
+aVMarquis Daniels DAL 05/15/2006 DAL vs. SAS W 9 3 1 4 25.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 0 6
+p157
+aVJerry Stackhouse DAL 05/15/2006 DAL vs. SAS W 38 26 10 19 52.6 3 3 100.0 3 4 75.0 1 2 3 2 0 0 0 0 14
+p158
+aVDirk Nowitzki DAL 05/15/2006 DAL vs. SAS W 46 28 7 12 58.3 0 1 0.0 14 15 93.3 0 9 9 3 0 1 6 4 3
+p159
+aVDevin Harris DAL 05/15/2006 DAL vs. SAS W 40 18 7 10 70.0 0 0 - 4 6 66.7 2 4 6 6 0 2 3 4 12
+p160
+aVDeSagana Diop DAL 05/15/2006 DAL vs. SAS W 13 0 0 1 0.0 0 0 - 0 0 - 3 1 4 0 0 3 0 6 -10
+p161
+aVDarrell Armstrong DAL 05/13/2006 DAL vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p162
+aVDevin Harris DAL 05/13/2006 DAL vs. SAS W 36 24 7 14 50.0 0 1 0.0 10 11 90.9 1 1 2 0 1 0 4 2 14
+p163
+aVJosh Howard DAL 05/13/2006 DAL vs. SAS W 34 12 4 10 40.0 0 1 0.0 4 6 66.7 1 6 7 0 0 1 3 5 7
+p164
+aVJason Terry DAL 05/13/2006 DAL vs. SAS W 41 19 8 15 53.3 1 2 50.0 2 2 100.0 1 2 3 4 1 0 3 3 0
+p165
+aVJerry Stackhouse DAL 05/13/2006 DAL vs. SAS W 27 10 5 11 45.5 0 1 0.0 0 2 0.0 1 0 1 2 0 0 0 2 -8
+p166
+aVMarquis Daniels DAL 05/13/2006 DAL vs. SAS W 13 4 2 3 66.7 0 0 - 0 2 0.0 0 0 0 3 0 0 0 2 -14
+p167
+aVDeSagana Diop DAL 05/13/2006 DAL vs. SAS W 20 3 1 2 50.0 0 0 - 1 1 100.0 1 4 5 0 0 3 0 4 8
+p168
+aVDirk Nowitzki DAL 05/13/2006 DAL vs. SAS W 44 27 3 9 33.3 0 0 - 21 24 87.5 4 11 15 3 1 1 3 2 3
+p169
+aVErick Dampier DAL 05/13/2006 DAL vs. SAS W 24 5 2 2 100.0 0 0 - 1 2 50.0 3 3 6 0 0 0 1 5 -3
+p170
+aVJason Terry DAL 05/09/2006 DAL @ SAS W 24 11 5 13 38.5 1 2 50.0 0 0 - 0 1 1 3 1 0 1 3 8
+p171
+aVDJ Mbenga DAL 05/09/2006 DAL @ SAS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p172
+aVMarquis Daniels DAL 05/09/2006 DAL @ SAS W 23 8 2 6 33.3 0 0 - 4 4 100.0 3 0 3 3 1 0 0 4 9
+p173
+aVJosh Powell DAL 05/09/2006 DAL @ SAS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p174
+aVDevin Harris DAL 05/09/2006 DAL @ SAS W 32 20 7 12 58.3 0 1 0.0 6 9 66.7 0 4 4 3 1 0 0 2 13
+p175
+aVDeSagana Diop DAL 05/09/2006 DAL @ SAS W 20 3 1 2 50.0 0 0 - 1 2 50.0 2 5 7 0 2 1 0 5 0
+p176
+aVDarrell Armstrong DAL 05/09/2006 DAL @ SAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p177
+aVAdrian Griffin DAL 05/09/2006 DAL @ SAS W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 -2
+p178
+aVDirk Nowitzki DAL 05/09/2006 DAL @ SAS W 38 21 7 11 63.6 0 2 0.0 7 7 100.0 0 9 9 1 3 0 3 4 21
+p179
+aVErick Dampier DAL 05/09/2006 DAL @ SAS W 15 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 5 5
+p180
+aVJosh Howard DAL 05/09/2006 DAL @ SAS W 42 27 7 17 41.2 2 4 50.0 11 11 100.0 4 5 9 2 1 1 1 1 26
+p181
+aVJerry Stackhouse DAL 05/09/2006 DAL @ SAS W 32 19 6 12 50.0 3 4 75.0 4 6 66.7 0 1 1 0 0 1 1 0 19
+p182
+aVJerry Stackhouse DAL 05/07/2006 DAL @ SAS L 34 24 10 21 47.6 1 3 33.3 3 4 75.0 0 2 2 1 2 0 1 3 0
+p183
+aVDirk Nowitzki DAL 05/07/2006 DAL @ SAS L 42 20 8 20 40.0 0 1 0.0 4 6 66.7 4 10 14 0 2 0 2 2 -3
+p184
+aVJosh Howard DAL 05/07/2006 DAL @ SAS L 40 17 5 10 50.0 0 0 - 7 8 87.5 2 7 9 0 1 2 5 3 4
+p185
+aVErick Dampier DAL 05/07/2006 DAL @ SAS L 27 2 0 2 0.0 0 0 - 2 4 50.0 3 7 10 0 0 5 1 3 0
+p186
+aVDevin Harris DAL 05/07/2006 DAL @ SAS L 17 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 2 0 0 0 1 3
+p187
+aVJason Terry DAL 05/07/2006 DAL @ SAS L 34 14 6 18 33.3 1 3 33.3 1 2 50.0 0 2 2 1 2 0 1 2 -7
+p188
+aVDJ Mbenga DAL 05/07/2006 DAL @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p189
+aVDeSagana Diop DAL 05/07/2006 DAL @ SAS L 15 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 2 0 1 5 -4
+p190
+aVMarquis Daniels DAL 05/07/2006 DAL @ SAS L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -1
+p191
+aVAdrian Griffin DAL 05/07/2006 DAL @ SAS L 21 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 2 -2
+p192
+aVAdrian Griffin DAL 05/01/2006 DAL @ MEM W 26 6 3 6 50.0 0 0 - 0 0 - 3 2 5 2 0 0 1 3 0
+p193
+aVDirk Nowitzki DAL 05/01/2006 DAL @ MEM W 35 27 12 21 57.1 3 3 100.0 0 0 - 0 7 7 3 2 0 2 2 26
+p194
+aVDeSagana Diop DAL 05/01/2006 DAL @ MEM W 24 0 0 1 0.0 0 0 - 0 0 - 4 4 8 0 2 2 1 3 1
+p195
+aVJosh Powell DAL 05/01/2006 DAL @ MEM W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p196
+aVDevin Harris DAL 05/01/2006 DAL @ MEM W 19 6 3 3 100.0 0 0 - 0 0 - 0 1 1 3 0 0 0 3 22
+p197
+aVJerry Stackhouse DAL 05/01/2006 DAL @ MEM W 27 19 6 12 50.0 1 3 33.3 6 6 100.0 0 1 1 5 1 0 1 0 25
+p198
+aVJason Terry DAL 05/01/2006 DAL @ MEM W 27 12 4 11 36.4 0 2 0.0 4 4 100.0 0 2 2 5 1 0 2 4 10
+p199
+aVJosh Howard DAL 05/01/2006 DAL @ MEM W 38 24 9 17 52.9 3 4 75.0 3 3 100.0 1 8 9 2 0 1 1 4 31
+p200
+aVDarrell Armstrong DAL 05/01/2006 DAL @ MEM W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 -4
+p201
+aVErick Dampier DAL 05/01/2006 DAL @ MEM W 24 4 1 5 20.0 0 0 - 2 2 100.0 4 4 8 1 0 3 1 3 25
+p202
+aVDJ Mbenga DAL 05/01/2006 DAL @ MEM W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p203
+aVDevin Harris DAL 04/29/2006 DAL @ MEM W 8 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -10
+p204
+aVDeSagana Diop DAL 04/29/2006 DAL @ MEM W 25 0 0 0 - 0 0 - 0 0 - 0 6 6 0 0 1 0 3 -4
+p205
+aVJason Terry DAL 04/29/2006 DAL @ MEM W 45 22 9 22 40.9 0 5 0.0 4 5 80.0 1 3 4 4 1 0 0 3 15
+p206
+aVJerry Stackhouse DAL 04/29/2006 DAL @ MEM W 34 10 4 12 33.3 0 2 0.0 2 2 100.0 2 3 5 1 0 0 3 5 8
+p207
+aVDirk Nowitzki DAL 04/29/2006 DAL @ MEM W 48 36 12 25 48.0 4 10 40.0 8 9 88.9 2 7 9 5 0 1 1 2 4
+p208
+aVJosh Howard DAL 04/29/2006 DAL @ MEM W 33 16 6 13 46.2 1 3 33.3 3 4 75.0 2 4 6 1 1 0 3 5 12
+p209
+aVAdrian Griffin DAL 04/29/2006 DAL @ MEM W 31 4 2 4 50.0 0 0 - 0 0 - 6 3 9 4 1 0 0 4 -6
+p210
+aVErick Dampier DAL 04/29/2006 DAL @ MEM W 27 2 1 3 33.3 0 0 - 0 0 - 4 5 9 1 1 2 0 4 8
+p211
+aVMarquis Daniels DAL 04/29/2006 DAL @ MEM W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -2
+p212
+aVMarquis Daniels DAL 04/26/2006 DAL vs. MEM W 18 0 0 1 0.0 0 0 - 0 0 - 0 4 4 3 0 0 1 2 2
+p213
+aVAdrian Griffin DAL 04/26/2006 DAL vs. MEM W 19 6 3 3 100.0 0 0 - 0 0 - 2 1 3 2 1 0 1 2 10
+p214
+aVDeSagana Diop DAL 04/26/2006 DAL vs. MEM W 15 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 5 7
+p215
+aVDarrell Armstrong DAL 04/26/2006 DAL vs. MEM W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p216
+aVJosh Howard DAL 04/26/2006 DAL vs. MEM W 35 17 5 10 50.0 0 3 0.0 7 8 87.5 0 6 6 2 3 0 1 3 6
+p217
+aVJosh Powell DAL 04/26/2006 DAL vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p218
+aVDevin Harris DAL 04/26/2006 DAL vs. MEM W 16 7 3 4 75.0 0 0 - 1 3 33.3 0 1 1 0 0 0 1 2 3
+p219
+aVJason Terry DAL 04/26/2006 DAL vs. MEM W 38 16 6 14 42.9 3 6 50.0 1 1 100.0 1 5 6 9 0 0 2 3 15
+p220
+aVDJ Mbenga DAL 04/26/2006 DAL vs. MEM W 7 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 2 10
+p221
+aVErick Dampier DAL 04/26/2006 DAL vs. MEM W 25 8 2 8 25.0 0 0 - 4 6 66.7 4 2 6 0 0 2 1 3 0
+p222
+aVJerry Stackhouse DAL 04/26/2006 DAL vs. MEM W 25 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 1 1 0 2 3 7
+p223
+aVDirk Nowitzki DAL 04/26/2006 DAL vs. MEM W 37 31 9 19 47.4 1 3 33.3 12 14 85.7 2 2 4 1 0 1 1 5 16
+p224
+aVDeSagana Diop DAL 04/23/2006 DAL vs. MEM W 14 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 1 2 5 10
+p225
+aVJason Terry DAL 04/23/2006 DAL vs. MEM W 36 20 7 15 46.7 1 4 25.0 5 6 83.3 1 2 3 4 1 0 3 2 13
+p226
+aVJosh Howard DAL 04/23/2006 DAL vs. MEM W 18 8 3 7 42.9 2 2 100.0 0 0 - 1 0 1 2 0 0 2 4 -4
+p227
+aVDevin Harris DAL 04/23/2006 DAL vs. MEM W 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 2 0 3 2 -3
+p228
+aVErick Dampier DAL 04/23/2006 DAL vs. MEM W 33 12 4 7 57.1 0 0 - 4 4 100.0 7 5 12 0 2 2 0 4 0
+p229
+aVMarquis Daniels DAL 04/23/2006 DAL vs. MEM W 25 13 6 9 66.7 1 1 100.0 0 0 - 1 2 3 3 2 0 0 4 21
+p230
+aVJerry Stackhouse DAL 04/23/2006 DAL vs. MEM W 33 14 3 11 27.3 1 3 33.3 7 9 77.8 1 0 1 1 0 0 2 3 5
+p231
+aVAdrian Griffin DAL 04/23/2006 DAL vs. MEM W 24 5 2 5 40.0 0 0 - 1 1 100.0 0 3 3 2 4 0 1 0 -2
+p232
+aVDirk Nowitzki DAL 04/23/2006 DAL vs. MEM W 45 31 9 18 50.0 0 3 0.0 13 15 86.7 2 9 11 3 1 0 1 3 10
+p233
+a.

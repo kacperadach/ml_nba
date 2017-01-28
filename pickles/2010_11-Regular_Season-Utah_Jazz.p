@@ -1,0 +1,1718 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGordon Hayward UTA 04/13/2011 UTA vs. DEN W 41 34 12 17 70.6 5 6 83.3 5 5 100.0 0 3 3 4 1 0 1 2 4
+p2
+aVPaul Millsap UTA 04/13/2011 UTA vs. DEN W 40 12 4 9 44.4 1 1 100.0 3 4 75.0 1 5 6 5 2 1 2 3 5
+p3
+aVDerrick Favors UTA 04/13/2011 UTA vs. DEN W 32 12 5 10 50.0 0 0 - 2 3 66.7 5 2 7 3 3 2 1 4 -10
+p4
+aVJeremy Evans UTA 04/13/2011 UTA vs. DEN W 19 7 3 3 100.0 0 0 - 1 2 50.0 1 3 4 0 1 0 0 4 -2
+p5
+aVFrancisco Elson UTA 04/13/2011 UTA vs. DEN W 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 1 0 1 0
+p6
+aVDevin Harris UTA 04/13/2011 UTA vs. DEN W 41 21 6 17 35.3 2 7 28.6 7 8 87.5 1 1 2 6 1 0 4 2 13
+p7
+aVAl Jefferson UTA 04/13/2011 UTA vs. DEN W 33 17 8 15 53.3 0 0 - 1 2 50.0 1 9 10 3 0 1 2 3 11
+p8
+aVEarl Watson UTA 04/13/2011 UTA vs. DEN W 28 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 4 2 0 4 1 -1
+p9
+aVDerrick Favors UTA 04/11/2011 UTA @ NOH W 23 6 2 3 66.7 0 0 - 2 4 50.0 1 3 4 0 0 3 0 2 -4
+p10
+aVAl Jefferson UTA 04/11/2011 UTA @ NOH W 28 8 4 10 40.0 0 0 - 0 0 - 0 6 6 5 1 2 0 4 19
+p11
+aVJeremy Evans UTA 04/11/2011 UTA @ NOH W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -1
+p12
+aVGordon Hayward UTA 04/11/2011 UTA @ NOH W 37 14 6 8 75.0 1 1 100.0 1 2 50.0 0 2 2 2 1 0 4 3 8
+p13
+aVPaul Millsap UTA 04/11/2011 UTA @ NOH W 34 16 8 13 61.5 0 0 - 0 1 0.0 0 6 6 3 2 1 1 2 13
+p14
+aVDevin Harris UTA 04/11/2011 UTA @ NOH W 36 18 6 13 46.2 2 6 33.3 4 4 100.0 0 2 2 5 0 0 3 2 9
+p15
+aVFrancisco Elson UTA 04/11/2011 UTA @ NOH W 12 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 2
+p16
+aVEarl Watson UTA 04/11/2011 UTA @ NOH W 30 4 2 8 25.0 0 4 0.0 0 0 - 1 4 5 4 1 1 3 1 0
+p17
+aVCJ Miles UTA 04/11/2011 UTA @ NOH W 34 18 6 9 66.7 3 5 60.0 3 4 75.0 1 4 5 5 1 0 2 2 14
+p18
+aVEarl Watson UTA 04/09/2011 UTA @ SAS L 29 9 4 7 57.1 1 2 50.0 0 0 - 0 3 3 5 0 0 0 1 -3
+p19
+aVCJ Miles UTA 04/09/2011 UTA @ SAS L 17 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 2 0 0 2 4 -6
+p20
+aVDevin Harris UTA 04/09/2011 UTA @ SAS L 40 13 3 11 27.3 1 3 33.3 6 8 75.0 0 1 1 9 3 0 2 3 -10
+p21
+aVGordon Hayward UTA 04/09/2011 UTA @ SAS L 33 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 1 0 0 2 2 -10
+p22
+aVAl Jefferson UTA 04/09/2011 UTA @ SAS L 37 23 10 15 66.7 0 0 - 3 6 50.0 2 6 8 1 1 1 1 3 -9
+p23
+aVJeremy Evans UTA 04/09/2011 UTA @ SAS L 21 8 4 6 66.7 0 0 - 0 0 - 3 2 5 3 0 1 0 2 -4
+p24
+aVKyle Weaver UTA 04/09/2011 UTA @ SAS L 11 5 2 4 50.0 0 1 0.0 1 2 50.0 1 2 3 1 1 0 0 0 1
+p25
+aVPaul Millsap UTA 04/09/2011 UTA @ SAS L 23 16 7 12 58.3 1 3 33.3 1 1 100.0 1 2 3 3 1 0 3 5 -3
+p26
+aVDerrick Favors UTA 04/09/2011 UTA @ SAS L 29 17 8 13 61.5 0 0 - 1 1 100.0 1 4 5 2 1 1 3 3 -1
+p27
+aVDerrick Favors UTA 04/07/2011 UTA vs. POR L 20 8 4 7 57.1 0 0 - 0 0 - 3 4 7 1 1 0 0 1 1
+p28
+aVAl Jefferson UTA 04/07/2011 UTA vs. POR L 37 10 4 10 40.0 0 0 - 2 2 100.0 5 9 14 5 0 3 0 0 -13
+p29
+aVKyle Weaver UTA 04/07/2011 UTA vs. POR L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 2
+p30
+aVCJ Miles UTA 04/07/2011 UTA vs. POR L 28 6 3 11 27.3 0 4 0.0 0 0 - 0 0 0 3 0 2 2 5 -5
+p31
+aVDevin Harris UTA 04/07/2011 UTA vs. POR L 36 26 9 16 56.3 5 9 55.6 3 3 100.0 0 2 2 5 0 1 7 2 -15
+p32
+aVEarl Watson UTA 04/07/2011 UTA vs. POR L 30 6 3 7 42.9 0 3 0.0 0 0 - 0 3 3 1 0 0 0 3 0
+p33
+aVJeremy Evans UTA 04/07/2011 UTA vs. POR L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 1
+p34
+aVPaul Millsap UTA 04/07/2011 UTA vs. POR L 38 19 7 15 46.7 1 1 100.0 4 7 57.1 6 4 10 1 2 0 3 4 -12
+p35
+aVGordon Hayward UTA 04/07/2011 UTA vs. POR L 36 10 1 5 20.0 0 3 0.0 8 8 100.0 0 3 3 1 1 0 0 4 -14
+p36
+aVDerrick Favors UTA 04/05/2011 UTA @ LAL W 31 14 6 9 66.7 0 0 - 2 8 25.0 5 6 11 1 1 2 1 3 1
+p37
+aVPaul Millsap UTA 04/05/2011 UTA @ LAL W 40 22 7 18 38.9 0 0 - 8 8 100.0 5 2 7 3 3 2 3 4 2
+p38
+aVAl Jefferson UTA 04/05/2011 UTA @ LAL W 39 11 5 18 27.8 0 0 - 1 2 50.0 1 10 11 3 2 3 0 3 9
+p39
+aVCJ Miles UTA 04/05/2011 UTA @ LAL W 22 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 0 2 2 3 2 -7
+p40
+aVGordon Hayward UTA 04/05/2011 UTA @ LAL W 35 22 9 14 64.3 2 4 50.0 2 5 40.0 1 5 6 5 2 1 4 3 6
+p41
+aVJeremy Evans UTA 04/05/2011 UTA @ LAL W 21 2 1 4 25.0 0 1 0.0 0 0 - 3 1 4 1 1 0 0 2 5
+p42
+aVKyle Weaver UTA 04/05/2011 UTA @ LAL W 12 0 0 5 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 2 0 -2
+p43
+aVEarl Watson UTA 04/05/2011 UTA @ LAL W 36 11 4 8 50.0 3 6 50.0 0 0 - 0 8 8 6 2 0 3 2 3
+p44
+aVFrancisco Elson UTA 04/05/2011 UTA @ LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -12
+p45
+aVJeremy Evans UTA 04/03/2011 UTA @ SAC L 16 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 1 2 1 0 0 11
+p46
+aVFrancisco Elson UTA 04/03/2011 UTA @ SAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p47
+aVEarl Watson UTA 04/03/2011 UTA @ SAC L 36 9 4 7 57.1 1 3 33.3 0 0 - 0 2 2 8 0 2 1 1 -16
+p48
+aVPaul Millsap UTA 04/03/2011 UTA @ SAC L 35 21 8 13 61.5 0 0 - 5 6 83.3 1 6 7 4 3 0 2 3 3
+p49
+aVKyrylo Fesenko UTA 04/03/2011 UTA @ SAC L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -10
+p50
+aVDerrick Favors UTA 04/03/2011 UTA @ SAC L 18 4 2 7 28.6 0 0 - 0 2 0.0 4 3 7 1 1 0 2 3 -3
+p51
+aVAl Jefferson UTA 04/03/2011 UTA @ SAC L 30 11 4 13 30.8 0 0 - 3 4 75.0 4 5 9 3 0 0 3 1 -6
+p52
+aVKyle Weaver UTA 04/03/2011 UTA @ SAC L 30 19 7 11 63.6 3 5 60.0 2 2 100.0 0 2 2 3 1 2 2 2 1
+p53
+aVGordon Hayward UTA 04/03/2011 UTA @ SAC L 41 19 8 14 57.1 2 3 66.7 1 2 50.0 2 1 3 4 0 0 1 3 0
+p54
+aVCJ Miles UTA 04/03/2011 UTA @ SAC L 24 6 3 13 23.1 0 2 0.0 0 0 - 0 1 1 1 1 0 2 4 -14
+p55
+aVKyrylo Fesenko UTA 04/01/2011 UTA vs. LAL L 27 4 2 2 100.0 0 0 - 0 0 - 1 7 8 0 0 2 0 3 7
+p56
+aVDerrick Favors UTA 04/01/2011 UTA vs. LAL L 17 6 3 8 37.5 0 0 - 0 0 - 0 6 6 0 0 3 1 3 -7
+p57
+aVEarl Watson UTA 04/01/2011 UTA vs. LAL L 38 9 4 10 40.0 1 2 50.0 0 0 - 3 3 6 3 0 0 1 2 -9
+p58
+aVGordon Hayward UTA 04/01/2011 UTA vs. LAL L 29 7 3 9 33.3 1 2 50.0 0 0 - 1 2 3 1 1 0 1 0 -13
+p59
+aVCJ Miles UTA 04/01/2011 UTA vs. LAL L 37 24 8 16 50.0 0 5 0.0 8 10 80.0 1 2 3 2 0 0 0 3 -4
+p60
+aVJeremy Evans UTA 04/01/2011 UTA vs. LAL L 6 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 -21
+p61
+aVAl Jefferson UTA 04/01/2011 UTA vs. LAL L 36 17 7 18 38.9 0 0 - 3 4 75.0 5 5 10 5 1 1 3 4 -5
+p62
+aVKyle Weaver UTA 04/01/2011 UTA vs. LAL L 10 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 3 1 -2
+p63
+aVPaul Millsap UTA 04/01/2011 UTA vs. LAL L 40 16 7 15 46.7 0 1 0.0 2 2 100.0 2 3 5 2 3 0 3 5 -1
+p64
+aVPaul Millsap UTA 03/28/2011 UTA vs. WAS L 34 12 6 13 46.2 0 1 0.0 0 0 - 2 1 3 3 0 0 0 3 1
+p65
+aVEarl Watson UTA 03/28/2011 UTA vs. WAS L 33 13 5 9 55.6 2 3 66.7 1 3 33.3 3 4 7 9 1 0 4 5 -4
+p66
+aVGordon Hayward UTA 03/28/2011 UTA vs. WAS L 37 12 6 12 50.0 0 2 0.0 0 0 - 2 2 4 4 2 2 1 2 -6
+p67
+aVJeremy Evans UTA 03/28/2011 UTA vs. WAS L 22 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 2 0 1 4 2 -8
+p68
+aVCJ Miles UTA 03/28/2011 UTA vs. WAS L 44 17 5 18 27.8 3 12 25.0 4 7 57.1 1 3 4 2 1 0 4 2 0
+p69
+aVRaja Bell UTA 03/28/2011 UTA vs. WAS L 19 3 1 6 16.7 1 1 100.0 0 0 - 0 2 2 0 0 0 1 2 3
+p70
+aVDerrick Favors UTA 03/28/2011 UTA vs. WAS L 23 11 5 7 71.4 0 0 - 1 2 50.0 3 7 10 0 0 3 0 2 -2
+p71
+aVRonnie Price UTA 03/28/2011 UTA vs. WAS L 23 6 2 9 22.2 1 5 20.0 1 4 25.0 1 3 4 3 3 0 3 5 -6
+p72
+aVAl Jefferson UTA 03/28/2011 UTA vs. WAS L 30 15 7 15 46.7 0 0 - 1 3 33.3 4 12 16 0 0 1 0 2 -3
+p73
+aVDerrick Favors UTA 03/26/2011 UTA vs. DAL L 20 4 2 7 28.6 0 0 - 0 2 0.0 1 2 3 1 0 2 1 4 -13
+p74
+aVAl Jefferson UTA 03/26/2011 UTA vs. DAL L 39 21 9 21 42.9 0 0 - 3 3 100.0 3 4 7 2 0 0 1 2 -11
+p75
+aVGordon Hayward UTA 03/26/2011 UTA vs. DAL L 21 6 3 3 100.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -12
+p76
+aVRaja Bell UTA 03/26/2011 UTA vs. DAL L 39 7 2 6 33.3 1 3 33.3 2 2 100.0 0 4 4 1 3 2 3 1 -10
+p77
+aVEarl Watson UTA 03/26/2011 UTA vs. DAL L 19 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 5 0 0 4 4 -13
+p78
+aVRonnie Price UTA 03/26/2011 UTA vs. DAL L 30 6 2 9 22.2 1 2 50.0 1 2 50.0 1 4 5 6 3 0 5 6 -7
+p79
+aVPaul Millsap UTA 03/26/2011 UTA vs. DAL L 37 15 6 12 50.0 0 1 0.0 3 4 75.0 2 3 5 1 0 1 2 3 -10
+p80
+aVCJ Miles UTA 03/26/2011 UTA vs. DAL L 34 16 7 14 50.0 1 5 20.0 1 2 50.0 1 4 5 2 1 0 1 4 -9
+p81
+aVPaul Millsap UTA 03/24/2011 UTA vs. NOH L 40 33 13 20 65.0 0 0 - 7 8 87.5 5 6 11 4 0 3 1 6 -3
+p82
+aVJeremy Evans UTA 03/24/2011 UTA vs. NOH L 12 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p83
+aVGordon Hayward UTA 03/24/2011 UTA vs. NOH L 37 13 4 9 44.4 1 3 33.3 4 4 100.0 0 3 3 5 0 3 1 1 -10
+p84
+aVAl Jefferson UTA 03/24/2011 UTA vs. NOH L 37 22 11 17 64.7 0 0 - 0 0 - 5 8 13 2 1 1 3 3 -9
+p85
+aVEarl Watson UTA 03/24/2011 UTA vs. NOH L 41 14 5 9 55.6 3 4 75.0 1 2 50.0 1 2 3 8 1 1 0 4 3
+p86
+aVDerrick Favors UTA 03/24/2011 UTA vs. NOH L 17 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 1 2 1 2
+p87
+aVRonnie Price UTA 03/24/2011 UTA vs. NOH L 15 8 2 3 66.7 2 2 100.0 2 2 100.0 1 0 1 1 1 0 2 0 -1
+p88
+aVCJ Miles UTA 03/24/2011 UTA vs. NOH L 21 11 5 12 41.7 0 4 0.0 1 1 100.0 0 4 4 2 0 1 0 4 3
+p89
+aVRaja Bell UTA 03/24/2011 UTA vs. NOH L 45 13 3 11 27.3 2 5 40.0 5 6 83.3 0 5 5 1 1 0 2 3 -7
+p90
+aVRaja Bell UTA 03/23/2011 UTA @ OKC L 22 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 4 0 0 0 4 -17
+p91
+aVGordon Hayward UTA 03/23/2011 UTA @ OKC L 28 7 1 10 10.0 1 3 33.3 4 6 66.7 1 3 4 3 2 0 1 3 -8
+p92
+aVPaul Millsap UTA 03/23/2011 UTA @ OKC L 38 18 6 10 60.0 0 0 - 6 8 75.0 3 4 7 3 0 2 6 2 -9
+p93
+aVEarl Watson UTA 03/23/2011 UTA @ OKC L 33 10 3 4 75.0 2 3 66.7 2 2 100.0 0 2 2 1 3 0 2 2 -7
+p94
+aVRonnie Price UTA 03/23/2011 UTA @ OKC L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 1 -5
+p95
+aVCJ Miles UTA 03/23/2011 UTA @ OKC L 33 11 2 12 16.7 1 5 20.0 6 7 85.7 0 1 1 2 0 1 2 4 6
+p96
+aVKyrylo Fesenko UTA 03/23/2011 UTA @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p97
+aVAl Jefferson UTA 03/23/2011 UTA @ OKC L 41 32 14 18 77.8 0 0 - 4 5 80.0 3 9 12 2 0 0 0 4 -14
+p98
+aVAndrei Kirilenko UTA 03/23/2011 UTA @ OKC L 14 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 0 2 0 0 0 -5
+p99
+aVFrancisco Elson UTA 03/23/2011 UTA @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p100
+aVJeremy Evans UTA 03/23/2011 UTA @ OKC L 15 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 0
+p101
+aVJeremy Evans UTA 03/21/2011 UTA @ MEM L 15 8 4 6 66.7 0 0 - 0 0 - 3 3 6 0 0 2 0 0 -7
+p102
+aVKyrylo Fesenko UTA 03/21/2011 UTA @ MEM L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p103
+aVAndrei Kirilenko UTA 03/21/2011 UTA @ MEM L 17 5 1 2 50.0 0 0 - 3 5 60.0 1 0 1 2 1 0 4 1 -6
+p104
+aVAl Jefferson UTA 03/21/2011 UTA @ MEM L 34 12 6 10 60.0 0 0 - 0 0 - 0 4 4 0 0 1 2 2 -13
+p105
+aVRonnie Price UTA 03/21/2011 UTA @ MEM L 20 4 1 6 16.7 0 1 0.0 2 2 100.0 0 2 2 4 0 0 3 3 -3
+p106
+aVDerrick Favors UTA 03/21/2011 UTA @ MEM L 13 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 0 1 1 2 -17
+p107
+aVGordon Hayward UTA 03/21/2011 UTA @ MEM L 25 8 3 4 75.0 2 2 100.0 0 0 - 0 2 2 2 0 0 1 2 -15
+p108
+aVPaul Millsap UTA 03/21/2011 UTA @ MEM L 30 15 7 12 58.3 0 1 0.0 1 4 25.0 0 6 6 4 1 0 3 4 0
+p109
+aVEarl Watson UTA 03/21/2011 UTA @ MEM L 25 9 4 7 57.1 1 2 50.0 0 0 - 1 0 1 0 1 0 2 0 -19
+p110
+aVDevin Harris UTA 03/21/2011 UTA @ MEM L 3 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 4
+p111
+aVRaja Bell UTA 03/21/2011 UTA @ MEM L 29 5 2 7 28.6 0 3 0.0 1 2 50.0 1 0 1 3 0 0 0 1 -12
+p112
+aVCJ Miles UTA 03/21/2011 UTA @ MEM L 26 10 1 8 12.5 0 3 0.0 8 9 88.9 0 5 5 3 1 1 1 2 -6
+p113
+aVDevin Harris UTA 03/20/2011 UTA @ HOU L 30 12 4 15 26.7 2 4 50.0 2 4 50.0 0 5 5 3 0 0 4 4 1
+p114
+aVDerrick Favors UTA 03/20/2011 UTA @ HOU L 19 8 4 9 44.4 0 0 - 0 0 - 2 2 4 0 0 1 1 1 -7
+p115
+aVGordon Hayward UTA 03/20/2011 UTA @ HOU L 13 5 2 3 66.7 1 1 100.0 0 0 - 2 0 2 1 0 0 1 2 -3
+p116
+aVCJ Miles UTA 03/20/2011 UTA @ HOU L 33 19 8 16 50.0 2 5 40.0 1 2 50.0 1 1 2 2 0 0 1 3 -2
+p117
+aVAl Jefferson UTA 03/20/2011 UTA @ HOU L 38 17 7 23 30.4 0 0 - 3 5 60.0 9 10 19 4 0 1 2 3 -5
+p118
+aVAndrei Kirilenko UTA 03/20/2011 UTA @ HOU L 21 10 4 7 57.1 1 1 100.0 1 2 50.0 4 0 4 3 1 1 1 1 5
+p119
+aVRaja Bell UTA 03/20/2011 UTA @ HOU L 29 2 1 4 25.0 0 1 0.0 0 0 - 1 4 5 1 0 0 2 5 -5
+p120
+aVEarl Watson UTA 03/20/2011 UTA @ HOU L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 -3
+p121
+aVPaul Millsap UTA 03/20/2011 UTA @ HOU L 39 35 12 18 66.7 2 3 66.7 9 12 75.0 3 7 10 4 1 3 1 5 9
+p122
+aVAndrei Kirilenko UTA 03/16/2011 UTA vs. MIN W 33 15 7 14 50.0 0 2 0.0 1 2 50.0 1 5 6 6 0 1 1 6 13
+p123
+aVEarl Watson UTA 03/16/2011 UTA vs. MIN W 23 2 1 2 50.0 0 1 0.0 0 0 - 1 4 5 8 2 0 4 2 6
+p124
+aVCJ Miles UTA 03/16/2011 UTA vs. MIN W 32 40 14 18 77.8 6 7 85.7 6 7 85.7 1 3 4 2 0 0 1 4 17
+p125
+aVJeremy Evans UTA 03/16/2011 UTA vs. MIN W 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 3
+p126
+aVRaja Bell UTA 03/16/2011 UTA vs. MIN W 24 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 3 0 0 2 2 11
+p127
+aVDevin Harris UTA 03/16/2011 UTA vs. MIN W 26 12 4 11 36.4 1 6 16.7 3 4 75.0 0 2 2 4 1 0 1 1 6
+p128
+aVMarcus Cousin UTA 03/16/2011 UTA vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p129
+aVDerrick Favors UTA 03/16/2011 UTA vs. MIN W 24 13 5 8 62.5 0 0 - 3 4 75.0 2 3 5 1 0 3 1 4 2
+p130
+aVAl Jefferson UTA 03/16/2011 UTA vs. MIN W 39 26 11 20 55.0 0 0 - 4 5 80.0 1 10 11 2 0 4 1 2 21
+p131
+aVKyrylo Fesenko UTA 03/16/2011 UTA vs. MIN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p132
+aVGordon Hayward UTA 03/16/2011 UTA vs. MIN W 16 1 0 2 0.0 0 1 0.0 1 4 25.0 0 1 1 2 2 0 1 2 -1
+p133
+aVCJ Miles UTA 03/14/2011 UTA vs. PHI W 39 19 9 21 42.9 1 5 20.0 0 0 - 2 6 8 1 1 0 2 3 3
+p134
+aVDerrick Favors UTA 03/14/2011 UTA vs. PHI W 25 11 3 4 75.0 0 0 - 5 6 83.3 1 5 6 2 1 0 0 3 2
+p135
+aVDevin Harris UTA 03/14/2011 UTA vs. PHI W 29 19 6 12 50.0 1 3 33.3 6 6 100.0 0 2 2 4 0 0 2 0 4
+p136
+aVJeremy Evans UTA 03/14/2011 UTA vs. PHI W 20 8 3 4 75.0 0 0 - 2 2 100.0 1 5 6 1 1 0 0 0 -3
+p137
+aVEarl Watson UTA 03/14/2011 UTA vs. PHI W 25 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 4 1 0 3 3 1
+p138
+aVKyrylo Fesenko UTA 03/14/2011 UTA vs. PHI W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 2
+p139
+aVAl Jefferson UTA 03/14/2011 UTA vs. PHI W 45 30 11 26 42.3 0 0 - 8 9 88.9 6 11 17 6 0 2 1 2 5
+p140
+aVAndrei Kirilenko UTA 03/14/2011 UTA vs. PHI W 38 16 4 9 44.4 2 3 66.7 6 8 75.0 1 2 3 6 1 1 4 2 9
+p141
+aVRaja Bell UTA 03/14/2011 UTA vs. PHI W 36 5 2 6 33.3 1 3 33.3 0 0 - 0 4 4 1 1 0 1 3 2
+p142
+aVAndrei Kirilenko UTA 03/12/2011 UTA @ CHI L 34 11 2 14 14.3 0 1 0.0 7 8 87.5 3 3 6 2 3 1 2 3 -6
+p143
+aVGordon Hayward UTA 03/12/2011 UTA @ CHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -12
+p144
+aVDevin Harris UTA 03/12/2011 UTA @ CHI L 41 24 5 10 50.0 2 3 66.7 12 14 85.7 2 1 3 3 0 0 1 3 -6
+p145
+aVJeremy Evans UTA 03/12/2011 UTA @ CHI L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -12
+p146
+aVRaja Bell UTA 03/12/2011 UTA @ CHI L 37 14 3 7 42.9 2 3 66.7 6 6 100.0 1 7 8 3 1 0 0 2 -5
+p147
+aVMarcus Cousin UTA 03/12/2011 UTA @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p148
+aVCJ Miles UTA 03/12/2011 UTA @ CHI L 30 13 6 13 46.2 0 3 0.0 1 1 100.0 1 0 1 3 2 0 1 5 -1
+p149
+aVAl Jefferson UTA 03/12/2011 UTA @ CHI L 45 33 15 29 51.7 0 0 - 3 4 75.0 6 12 18 2 1 1 4 4 -11
+p150
+aVDerrick Favors UTA 03/12/2011 UTA @ CHI L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 1 -17
+p151
+aVEarl Watson UTA 03/12/2011 UTA @ CHI L 19 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 1 2 -13
+p152
+aVCJ Miles UTA 03/11/2011 UTA @ MIN L 29 15 5 12 41.7 2 3 66.7 3 4 75.0 0 2 2 4 1 0 2 1 -4
+p153
+aVDerrick Favors UTA 03/11/2011 UTA @ MIN L 20 9 3 5 60.0 0 0 - 3 4 75.0 3 5 8 0 0 1 2 5 -12
+p154
+aVAndrei Kirilenko UTA 03/11/2011 UTA @ MIN L 25 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 3 2 0 1 0 -22
+p155
+aVKyrylo Fesenko UTA 03/11/2011 UTA @ MIN L 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -4
+p156
+aVAl Jefferson UTA 03/11/2011 UTA @ MIN L 31 9 4 13 30.8 0 0 - 1 2 50.0 2 7 9 3 0 4 1 2 -25
+p157
+aVGordon Hayward UTA 03/11/2011 UTA @ MIN L 27 18 6 8 75.0 5 5 100.0 1 2 50.0 0 3 3 1 1 0 2 1 -2
+p158
+aVEarl Watson UTA 03/11/2011 UTA @ MIN L 27 10 3 5 60.0 1 2 50.0 3 4 75.0 0 1 1 9 1 1 4 1 -2
+p159
+aVMarcus Cousin UTA 03/11/2011 UTA @ MIN L 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -6
+p160
+aVJeremy Evans UTA 03/11/2011 UTA @ MIN L 17 14 6 7 85.7 0 0 - 2 5 40.0 2 3 5 2 1 1 0 4 10
+p161
+aVDevin Harris UTA 03/11/2011 UTA @ MIN L 21 8 3 7 42.9 0 2 0.0 2 4 50.0 0 0 0 2 0 0 4 0 -19
+p162
+aVRaja Bell UTA 03/11/2011 UTA @ MIN L 21 6 2 5 40.0 2 2 100.0 0 0 - 1 0 1 1 1 0 0 2 -19
+p163
+aVDerrick Favors UTA 03/09/2011 UTA @ TOR W 18 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 3 1 0 0 3 -4
+p164
+aVJeremy Evans UTA 03/09/2011 UTA @ TOR W 15 2 1 4 25.0 0 0 - 0 0 - 2 3 5 1 1 1 0 3 -17
+p165
+aVMarcus Cousin UTA 03/09/2011 UTA @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p166
+aVKyrylo Fesenko UTA 03/09/2011 UTA @ TOR W 10 3 1 4 25.0 0 0 - 1 2 50.0 2 0 2 0 0 0 1 1 -6
+p167
+aVRaja Bell UTA 03/09/2011 UTA @ TOR W 45 5 2 8 25.0 1 5 20.0 0 0 - 1 1 2 3 2 0 1 4 9
+p168
+aVDevin Harris UTA 03/09/2011 UTA @ TOR W 39 23 8 19 42.1 2 4 50.0 5 7 71.4 0 2 2 5 2 1 5 1 21
+p169
+aVGordon Hayward UTA 03/09/2011 UTA @ TOR W 16 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 1 2 0 -15
+p170
+aVEarl Watson UTA 03/09/2011 UTA @ TOR W 21 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 1 3 -8
+p171
+aVCJ Miles UTA 03/09/2011 UTA @ TOR W 34 23 9 17 52.9 2 4 50.0 3 3 100.0 1 6 7 4 1 0 1 2 13
+p172
+aVAl Jefferson UTA 03/09/2011 UTA @ TOR W 42 34 17 24 70.8 0 0 - 0 0 - 6 2 8 2 0 1 3 2 18
+p173
+aVDevin Harris UTA 03/07/2011 UTA @ NYK L 23 4 0 7 0.0 0 3 0.0 4 4 100.0 0 1 1 7 1 0 1 1 -26
+p174
+aVJeremy Evans UTA 03/07/2011 UTA @ NYK L 12 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 1 0 0 1 6
+p175
+aVCJ Miles UTA 03/07/2011 UTA @ NYK L 27 12 3 14 21.4 2 8 25.0 4 4 100.0 3 2 5 1 0 0 1 3 -9
+p176
+aVAl Jefferson UTA 03/07/2011 UTA @ NYK L 32 36 17 26 65.4 0 0 - 2 3 66.7 8 4 12 1 0 1 2 3 -33
+p177
+aVGordon Hayward UTA 03/07/2011 UTA @ NYK L 28 11 4 5 80.0 2 3 66.7 1 1 100.0 1 2 3 1 1 0 4 1 4
+p178
+aVAndrei Kirilenko UTA 03/07/2011 UTA @ NYK L 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -19
+p179
+aVPaul Millsap UTA 03/07/2011 UTA @ NYK L 24 4 2 6 33.3 0 0 - 0 0 - 1 2 3 5 0 0 3 2 -23
+p180
+aVRaja Bell UTA 03/07/2011 UTA @ NYK L 32 9 2 7 28.6 1 4 25.0 4 4 100.0 1 3 4 3 0 0 2 2 -20
+p181
+aVDerrick Favors UTA 03/07/2011 UTA @ NYK L 25 16 6 11 54.5 0 0 - 4 4 100.0 4 4 8 1 1 1 3 6 6
+p182
+aVEarl Watson UTA 03/07/2011 UTA @ NYK L 25 9 3 9 33.3 0 1 0.0 3 6 50.0 2 0 2 8 2 0 4 3 4
+p183
+aVRaja Bell UTA 03/05/2011 UTA vs. SAC W 40 16 4 7 57.1 2 3 66.7 6 6 100.0 0 2 2 2 2 0 3 2 8
+p184
+aVKyrylo Fesenko UTA 03/05/2011 UTA vs. SAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -7
+p185
+aVDevin Harris UTA 03/05/2011 UTA vs. SAC W 36 14 5 12 41.7 0 3 0.0 4 6 66.7 0 5 5 7 3 0 5 2 11
+p186
+aVFrancisco Elson UTA 03/05/2011 UTA vs. SAC W 24 4 2 2 100.0 0 0 - 0 0 - 2 7 9 1 1 1 2 3 4
+p187
+aVEarl Watson UTA 03/05/2011 UTA vs. SAC W 17 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 2 0 1 0 2 -4
+p188
+aVCJ Miles UTA 03/05/2011 UTA vs. SAC W 20 12 3 10 30.0 2 3 66.7 4 4 100.0 1 3 4 1 2 1 2 1 1
+p189
+aVAndrei Kirilenko UTA 03/05/2011 UTA vs. SAC W 33 16 6 10 60.0 0 1 0.0 4 5 80.0 2 3 5 2 0 2 0 2 8
+p190
+aVGordon Hayward UTA 03/05/2011 UTA vs. SAC W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 1 1 0 2 -1
+p191
+aVAl Jefferson UTA 03/05/2011 UTA vs. SAC W 44 27 13 25 52.0 0 0 - 1 2 50.0 1 6 7 4 1 2 1 5 14
+p192
+aVPaul Millsap UTA 03/05/2011 UTA vs. SAC W 21 12 4 8 50.0 0 0 - 4 6 66.7 3 4 7 1 2 4 1 2 2
+p193
+aVDerrick Favors UTA 03/05/2011 UTA vs. SAC W 13 4 2 7 28.6 0 0 - 0 2 0.0 2 2 4 0 0 0 0 5 -1
+p194
+aVEarl Watson UTA 03/03/2011 UTA vs. DEN L 15 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 5 0 0 1 0 5
+p195
+aVGordon Hayward UTA 03/03/2011 UTA vs. DEN L 17 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 0
+p196
+aVAndrei Kirilenko UTA 03/03/2011 UTA vs. DEN L 34 12 6 11 54.5 0 0 - 0 1 0.0 1 2 3 5 2 3 5 4 -3
+p197
+aVAl Jefferson UTA 03/03/2011 UTA vs. DEN L 37 19 9 17 52.9 0 0 - 1 1 100.0 1 9 10 1 1 6 1 4 0
+p198
+aVPaul Millsap UTA 03/03/2011 UTA vs. DEN L 36 10 4 8 50.0 0 0 - 2 2 100.0 3 5 8 2 2 1 3 4 2
+p199
+aVDevin Harris UTA 03/03/2011 UTA vs. DEN L 33 21 8 16 50.0 4 7 57.1 1 2 50.0 0 3 3 9 1 0 1 2 -7
+p200
+aVFrancisco Elson UTA 03/03/2011 UTA vs. DEN L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p201
+aVRaja Bell UTA 03/03/2011 UTA vs. DEN L 32 6 3 7 42.9 0 3 0.0 0 0 - 0 0 0 2 0 0 0 1 -3
+p202
+aVKyrylo Fesenko UTA 03/03/2011 UTA vs. DEN L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p203
+aVCJ Miles UTA 03/03/2011 UTA vs. DEN L 26 22 8 15 53.3 0 1 0.0 6 6 100.0 2 4 6 1 2 0 2 4 -1
+p204
+aVGordon Hayward UTA 02/28/2011 UTA vs. BOS L 21 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 2 1 0 0 1 15
+p205
+aVAl Jefferson UTA 02/28/2011 UTA vs. BOS L 42 28 11 21 52.4 0 0 - 6 7 85.7 4 15 19 1 0 2 2 4 -10
+p206
+aVDerrick Favors UTA 02/28/2011 UTA vs. BOS L 16 9 4 5 80.0 0 0 - 1 2 50.0 2 2 4 1 0 1 0 2 6
+p207
+aVRaja Bell UTA 02/28/2011 UTA vs. BOS L 27 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 2 1 0 1 3 -20
+p208
+aVCJ Miles UTA 02/28/2011 UTA vs. BOS L 16 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 0 1 0 1 3 -2
+p209
+aVAndrei Kirilenko UTA 02/28/2011 UTA vs. BOS L 32 18 6 11 54.5 0 0 - 6 8 75.0 1 3 4 3 1 0 2 1 -3
+p210
+aVEarl Watson UTA 02/28/2011 UTA vs. BOS L 14 3 0 2 0.0 0 0 - 3 4 75.0 1 3 4 2 0 0 3 2 2
+p211
+aVDevin Harris UTA 02/28/2011 UTA vs. BOS L 34 19 6 11 54.5 1 4 25.0 6 7 85.7 0 1 1 5 1 0 2 2 -7
+p212
+aVPaul Millsap UTA 02/28/2011 UTA vs. BOS L 38 17 5 13 38.5 0 0 - 7 7 100.0 0 3 3 0 0 0 2 3 -6
+p213
+aVRonnie Price UTA 02/26/2011 UTA @ DET L 15 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 1 0 1 1 -3
+p214
+aVEarl Watson UTA 02/26/2011 UTA @ DET L 16 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 7 1 0 2 4 -9
+p215
+aVDevin Harris UTA 02/26/2011 UTA @ DET L 32 17 3 9 33.3 2 5 40.0 9 11 81.8 1 1 2 12 0 0 2 5 5
+p216
+aVAl Jefferson UTA 02/26/2011 UTA @ DET L 37 20 10 17 58.8 0 0 - 0 0 - 1 8 9 1 0 1 0 2 -1
+p217
+aVFrancisco Elson UTA 02/26/2011 UTA @ DET L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -9
+p218
+aVPaul Millsap UTA 02/26/2011 UTA @ DET L 38 23 9 12 75.0 0 0 - 5 8 62.5 2 9 11 6 0 3 2 5 7
+p219
+aVRaja Bell UTA 02/26/2011 UTA @ DET L 33 14 6 9 66.7 2 3 66.7 0 0 - 0 2 2 2 1 1 1 4 -1
+p220
+aVAndrei Kirilenko UTA 02/26/2011 UTA @ DET L 37 21 9 11 81.8 0 1 0.0 3 5 60.0 1 6 7 7 0 1 5 2 9
+p221
+aVCJ Miles UTA 02/26/2011 UTA @ DET L 11 9 3 6 50.0 1 1 100.0 2 3 66.7 1 1 2 1 0 0 3 0 -13
+p222
+aVDerrick Favors UTA 02/26/2011 UTA @ DET L 16 10 3 5 60.0 0 0 - 4 7 57.1 1 1 2 0 0 1 0 1 -5
+p223
+aVAndrei Kirilenko UTA 02/25/2011 UTA @ IND W 32 14 4 11 36.4 0 1 0.0 6 7 85.7 4 2 6 3 2 1 1 1 8
+p224
+aVGordon Hayward UTA 02/25/2011 UTA @ IND W 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 2 1 -3
+p225
+aVPaul Millsap UTA 02/25/2011 UTA @ IND W 36 23 9 18 50.0 0 0 - 5 8 62.5 7 11 18 2 0 2 1 4 4
+p226
+aVRaja Bell UTA 02/25/2011 UTA @ IND W 24 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 2 1 0 1 0 13
+p227
+aVFrancisco Elson UTA 02/25/2011 UTA @ IND W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 1
+p228
+aVEarl Watson UTA 02/25/2011 UTA @ IND W 19 2 1 4 25.0 0 2 0.0 0 0 - 2 1 3 3 0 1 1 1 9
+p229
+aVDevin Harris UTA 02/25/2011 UTA @ IND W 29 14 6 14 42.9 0 1 0.0 2 2 100.0 2 5 7 5 0 0 5 3 2
+p230
+aVDerrick Favors UTA 02/25/2011 UTA @ IND W 15 6 3 3 100.0 0 0 - 0 0 - 2 1 3 0 0 1 0 4 2
+p231
+aVAl Jefferson UTA 02/25/2011 UTA @ IND W 39 30 14 26 53.8 0 0 - 2 2 100.0 2 7 9 3 2 5 2 1 15
+p232
+aVCJ Miles UTA 02/25/2011 UTA @ IND W 26 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 3 0 2 1 3 4
+p233
+aVGordon Hayward UTA 02/23/2011 UTA @ DAL L 20 2 1 6 16.7 0 0 - 0 0 - 2 1 3 2 1 0 3 3 -12
+p234
+aVEarl Watson UTA 02/23/2011 UTA @ DAL L 37 7 3 11 27.3 1 5 20.0 0 0 - 1 0 1 5 2 0 4 3 -11
+p235
+aVKyrylo Fesenko UTA 02/23/2011 UTA @ DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p236
+aVJeremy Evans UTA 02/23/2011 UTA @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p237
+aVCJ Miles UTA 02/23/2011 UTA @ DAL L 26 16 2 9 22.2 1 4 25.0 11 12 91.7 0 2 2 1 2 0 2 2 -11
+p238
+aVRaja Bell UTA 02/23/2011 UTA @ DAL L 31 5 1 7 14.3 0 4 0.0 3 3 100.0 0 3 3 2 1 0 3 2 -10
+p239
+aVAndrei Kirilenko UTA 02/23/2011 UTA @ DAL L 28 17 7 10 70.0 2 3 66.7 1 3 33.3 1 1 2 5 2 0 2 0 -14
+p240
+aVAl Jefferson UTA 02/23/2011 UTA @ DAL L 39 30 11 14 78.6 0 0 - 8 10 80.0 2 6 8 2 2 1 0 2 -14
+p241
+aVFrancisco Elson UTA 02/23/2011 UTA @ DAL L 17 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 2 3 -6
+p242
+aVPaul Millsap UTA 02/23/2011 UTA @ DAL L 33 18 8 17 47.1 0 0 - 2 3 66.7 2 7 9 1 4 0 4 4 -13
+p243
+aVCJ Miles UTA 02/16/2011 UTA vs. GSW L 42 20 7 18 38.9 2 6 33.3 4 4 100.0 1 5 6 1 3 1 0 4 2
+p244
+aVGordon Hayward UTA 02/16/2011 UTA vs. GSW L 33 5 2 6 33.3 0 2 0.0 1 2 50.0 0 3 3 1 1 0 3 4 -4
+p245
+aVJeremy Evans UTA 02/16/2011 UTA vs. GSW L 10 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 1 0 0 2 1 -14
+p246
+aVPaul Millsap UTA 02/16/2011 UTA vs. GSW L 37 22 8 13 61.5 0 0 - 6 6 100.0 1 5 6 1 2 0 1 5 1
+p247
+aVKyrylo Fesenko UTA 02/16/2011 UTA vs. GSW L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 2
+p248
+aVDeron Williams UTA 02/16/2011 UTA vs. GSW L 42 18 5 13 38.5 1 5 20.0 7 8 87.5 0 7 7 11 3 1 5 2 -5
+p249
+aVAl Jefferson UTA 02/16/2011 UTA vs. GSW L 41 23 10 20 50.0 0 0 - 3 4 75.0 6 5 11 0 0 1 0 2 -4
+p250
+aVEarl Watson UTA 02/16/2011 UTA vs. GSW L 26 6 1 3 33.3 0 1 0.0 4 4 100.0 0 1 1 2 2 0 2 4 -12
+p251
+aVFrancisco Elson UTA 02/16/2011 UTA vs. GSW L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p252
+aVFrancisco Elson UTA 02/15/2011 UTA @ PHX L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 2
+p253
+aVEarl Watson UTA 02/15/2011 UTA @ PHX L 36 11 3 8 37.5 3 5 60.0 2 2 100.0 0 3 3 3 3 0 1 2 0
+p254
+aVCJ Miles UTA 02/15/2011 UTA @ PHX L 40 19 8 19 42.1 1 5 20.0 2 2 100.0 0 3 3 2 0 0 1 3 1
+p255
+aVGordon Hayward UTA 02/15/2011 UTA @ PHX L 26 9 3 6 50.0 1 1 100.0 2 3 66.7 2 6 8 1 3 0 4 4 14
+p256
+aVKyrylo Fesenko UTA 02/15/2011 UTA @ PHX L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 2
+p257
+aVPaul Millsap UTA 02/15/2011 UTA @ PHX L 36 13 5 12 41.7 0 0 - 3 4 75.0 3 2 5 2 1 0 1 4 -10
+p258
+aVDeron Williams UTA 02/15/2011 UTA @ PHX L 39 11 2 11 18.2 1 3 33.3 6 6 100.0 0 6 6 11 2 1 6 4 -16
+p259
+aVJeremy Evans UTA 02/15/2011 UTA @ PHX L 13 6 3 3 100.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 5
+p260
+aVAl Jefferson UTA 02/15/2011 UTA @ PHX L 35 32 14 23 60.9 0 0 - 4 5 80.0 3 7 10 1 0 2 1 4 -3
+p261
+aVCJ Miles UTA 02/11/2011 UTA vs. PHX L 36 19 8 19 42.1 3 8 37.5 0 0 - 1 5 6 2 1 2 1 1 -9
+p262
+aVDeron Williams UTA 02/11/2011 UTA vs. PHX L 41 19 8 19 42.1 3 7 42.9 0 0 - 1 7 8 14 1 1 2 3 -5
+p263
+aVJeremy Evans UTA 02/11/2011 UTA vs. PHX L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 2 -5
+p264
+aVFrancisco Elson UTA 02/11/2011 UTA vs. PHX L 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -4
+p265
+aVPaul Millsap UTA 02/11/2011 UTA vs. PHX L 38 16 7 10 70.0 0 0 - 2 3 66.7 0 3 3 3 0 0 4 2 -10
+p266
+aVAndrei Kirilenko UTA 02/11/2011 UTA vs. PHX L 13 8 3 3 100.0 0 0 - 2 3 66.7 1 4 5 2 0 0 2 0 17
+p267
+aVGordon Hayward UTA 02/11/2011 UTA vs. PHX L 30 14 5 5 100.0 1 1 100.0 3 4 75.0 2 2 4 1 0 0 0 0 -23
+p268
+aVKyrylo Fesenko UTA 02/11/2011 UTA vs. PHX L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 2 -2
+p269
+aVEarl Watson UTA 02/11/2011 UTA vs. PHX L 16 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 3 0 1 3 3 -11
+p270
+aVAl Jefferson UTA 02/11/2011 UTA vs. PHX L 37 4 2 14 14.3 0 0 - 0 0 - 3 9 12 2 1 2 1 3 -8
+p271
+aVKyrylo Fesenko UTA 02/09/2011 UTA vs. CHI L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 2
+p272
+aVAl Jefferson UTA 02/09/2011 UTA vs. CHI L 41 26 12 19 63.2 0 0 - 2 5 40.0 2 6 8 1 0 3 2 2 -7
+p273
+aVRonnie Price UTA 02/09/2011 UTA vs. CHI L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p274
+aVDeron Williams UTA 02/09/2011 UTA vs. CHI L 40 11 5 13 38.5 0 3 0.0 1 2 50.0 0 4 4 12 0 0 5 3 -3
+p275
+aVPaul Millsap UTA 02/09/2011 UTA vs. CHI L 37 20 9 17 52.9 0 0 - 2 3 66.7 3 11 14 3 2 1 3 5 1
+p276
+aVGordon Hayward UTA 02/09/2011 UTA vs. CHI L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 2 2 -6
+p277
+aVEarl Watson UTA 02/09/2011 UTA vs. CHI L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 3 0 0 0 1 2
+p278
+aVAndrei Kirilenko UTA 02/09/2011 UTA vs. CHI L 42 13 5 14 35.7 0 1 0.0 3 6 50.0 1 9 10 2 2 4 2 2 -11
+p279
+aVCJ Miles UTA 02/09/2011 UTA vs. CHI L 17 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 2 0 3 0
+p280
+aVRaja Bell UTA 02/09/2011 UTA vs. CHI L 36 11 4 6 66.7 1 2 50.0 2 3 66.7 3 2 5 2 0 0 1 4 -4
+p281
+aVPaul Millsap UTA 02/07/2011 UTA @ SAC W 29 18 5 11 45.5 0 0 - 8 8 100.0 1 5 6 3 0 0 3 6 8
+p282
+aVKyrylo Fesenko UTA 02/07/2011 UTA @ SAC W 18 11 5 8 62.5 0 0 - 1 4 25.0 5 2 7 0 1 0 0 2 -2
+p283
+aVAl Jefferson UTA 02/07/2011 UTA @ SAC W 37 23 10 18 55.6 0 0 - 3 4 75.0 1 3 4 0 3 0 1 3 5
+p284
+aVDeron Williams UTA 02/07/2011 UTA @ SAC W 38 21 9 16 56.3 0 2 0.0 3 6 50.0 1 5 6 9 2 0 3 2 4
+p285
+aVCJ Miles UTA 02/07/2011 UTA @ SAC W 15 5 2 8 25.0 1 4 25.0 0 0 - 0 3 3 1 0 1 0 4 -7
+p286
+aVGordon Hayward UTA 02/07/2011 UTA @ SAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p287
+aVRaja Bell UTA 02/07/2011 UTA @ SAC W 38 17 8 16 50.0 0 2 0.0 1 2 50.0 0 0 0 1 1 0 1 1 -1
+p288
+aVRonnie Price UTA 02/07/2011 UTA @ SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p289
+aVEarl Watson UTA 02/07/2011 UTA @ SAC W 17 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 3 0 0 0 0 7
+p290
+aVJeremy Evans UTA 02/07/2011 UTA @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p291
+aVAndrei Kirilenko UTA 02/07/2011 UTA @ SAC W 37 10 3 6 50.0 0 0 - 4 6 66.7 2 6 8 2 1 3 3 4 6
+p292
+aVAl Jefferson UTA 02/05/2011 UTA vs. OKC L 40 21 7 12 58.3 0 0 - 7 9 77.8 3 5 8 2 0 2 1 3 -15
+p293
+aVRaja Bell UTA 02/05/2011 UTA vs. OKC L 36 14 5 8 62.5 3 5 60.0 1 2 50.0 0 3 3 3 0 0 0 1 -14
+p294
+aVFrancisco Elson UTA 02/05/2011 UTA vs. OKC L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p295
+aVPaul Millsap UTA 02/05/2011 UTA vs. OKC L 36 34 15 20 75.0 0 1 0.0 4 5 80.0 2 8 10 6 0 0 0 4 1
+p296
+aVGordon Hayward UTA 02/05/2011 UTA vs. OKC L 24 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 0 0 9
+p297
+aVCJ Miles UTA 02/05/2011 UTA vs. OKC L 24 6 2 11 18.2 0 5 0.0 2 4 50.0 1 2 3 0 0 0 0 4 -25
+p298
+aVEarl Watson UTA 02/05/2011 UTA vs. OKC L 15 2 0 2 0.0 0 1 0.0 2 2 100.0 1 0 1 2 0 0 1 0 -11
+p299
+aVJeremy Evans UTA 02/05/2011 UTA vs. OKC L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p300
+aVDeron Williams UTA 02/05/2011 UTA vs. OKC L 36 14 6 15 40.0 0 4 0.0 2 2 100.0 0 4 4 11 1 1 4 3 -8
+p301
+aVKyrylo Fesenko UTA 02/05/2011 UTA vs. OKC L 5 2 1 2 50.0 0 0 - 0 1 0.0 1 3 4 1 0 0 0 1 1
+p302
+aVRonnie Price UTA 02/05/2011 UTA vs. OKC L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 1
+p303
+aVRonnie Price UTA 02/04/2011 UTA @ DEN W 5 2 1 3 33.3 0 2 0.0 0 0 - 2 0 2 1 1 0 1 1 4
+p304
+aVCJ Miles UTA 02/04/2011 UTA @ DEN W 25 13 5 11 45.5 3 6 50.0 0 0 - 0 3 3 1 0 1 0 5 3
+p305
+aVKyrylo Fesenko UTA 02/04/2011 UTA @ DEN W 5 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 2 2 4 -6
+p306
+aVDeron Williams UTA 02/04/2011 UTA @ DEN W 41 26 9 23 39.1 2 10 20.0 6 6 100.0 0 2 2 12 0 0 4 1 1
+p307
+aVGordon Hayward UTA 02/04/2011 UTA @ DEN W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 4 2
+p308
+aVPaul Millsap UTA 02/04/2011 UTA @ DEN W 37 6 3 10 30.0 0 0 - 0 0 - 1 5 6 3 2 3 2 3 3
+p309
+aVFrancisco Elson UTA 02/04/2011 UTA @ DEN W 9 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 6
+p310
+aVEarl Watson UTA 02/04/2011 UTA @ DEN W 23 8 3 7 42.9 2 3 66.7 0 0 - 2 4 6 6 0 0 1 1 5
+p311
+aVAl Jefferson UTA 02/04/2011 UTA @ DEN W 33 28 12 20 60.0 0 0 - 4 4 100.0 3 7 10 0 0 3 0 4 7
+p312
+aVRaja Bell UTA 02/04/2011 UTA @ DEN W 41 20 7 11 63.6 1 5 20.0 5 6 83.3 1 6 7 4 2 0 0 2 6
+p313
+aVJeremy Evans UTA 02/04/2011 UTA @ DEN W 11 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 4
+p314
+aVAl Jefferson UTA 02/02/2011 UTA vs. HOU L 40 20 8 16 50.0 0 0 - 4 5 80.0 4 8 12 2 2 2 1 4 -1
+p315
+aVJeremy Evans UTA 02/02/2011 UTA vs. HOU L 11 8 4 4 100.0 0 0 - 0 0 - 1 1 2 0 1 2 2 2 5
+p316
+aVFrancisco Elson UTA 02/02/2011 UTA vs. HOU L 8 3 1 4 25.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 1 0
+p317
+aVGordon Hayward UTA 02/02/2011 UTA vs. HOU L 15 10 4 4 100.0 0 0 - 2 3 66.7 1 0 1 0 0 0 0 3 -11
+p318
+aVRaja Bell UTA 02/02/2011 UTA vs. HOU L 31 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 2 0 0 0 3 -1
+p319
+aVCJ Miles UTA 02/02/2011 UTA vs. HOU L 34 18 6 18 33.3 1 5 20.0 5 6 83.3 1 3 4 4 1 1 0 3 10
+p320
+aVPaul Millsap UTA 02/02/2011 UTA vs. HOU L 37 20 8 16 50.0 0 0 - 4 6 66.7 3 8 11 2 1 3 5 3 -6
+p321
+aVRonnie Price UTA 02/02/2011 UTA vs. HOU L 19 2 1 7 14.3 0 0 - 0 0 - 1 0 1 0 1 0 3 2 4
+p322
+aVEarl Watson UTA 02/02/2011 UTA vs. HOU L 45 11 5 12 41.7 0 4 0.0 1 2 50.0 4 5 9 8 2 0 0 2 -5
+p323
+aVEarl Watson UTA 01/31/2011 UTA vs. CHA W 20 5 2 2 100.0 0 0 - 1 2 50.0 0 3 3 6 0 0 0 5 26
+p324
+aVRaja Bell UTA 01/31/2011 UTA vs. CHA W 28 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 3 0 1 1 2 5
+p325
+aVRonnie Price UTA 01/31/2011 UTA vs. CHA W 28 2 1 9 11.1 0 1 0.0 0 0 - 2 2 4 2 0 1 3 4 -21
+p326
+aVKyrylo Fesenko UTA 01/31/2011 UTA vs. CHA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p327
+aVAl Jefferson UTA 01/31/2011 UTA vs. CHA W 37 21 9 18 50.0 0 0 - 3 3 100.0 2 9 11 1 0 3 3 1 -3
+p328
+aVCJ Miles UTA 01/31/2011 UTA vs. CHA W 28 20 8 17 47.1 2 6 33.3 2 2 100.0 0 2 2 2 1 0 1 2 3
+p329
+aVPaul Millsap UTA 01/31/2011 UTA vs. CHA W 43 14 5 13 38.5 0 0 - 4 5 80.0 3 9 12 2 0 1 3 2 0
+p330
+aVFrancisco Elson UTA 01/31/2011 UTA vs. CHA W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 8
+p331
+aVJeremy Evans UTA 01/31/2011 UTA vs. CHA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 1 1 5
+p332
+aVAndrei Kirilenko UTA 01/31/2011 UTA vs. CHA W 41 13 6 10 60.0 1 1 100.0 0 0 - 1 10 11 3 2 3 7 4 4
+p333
+aVEarl Watson UTA 01/30/2011 UTA @ GSW L 35 8 3 6 50.0 2 3 66.7 0 0 - 1 3 4 5 1 0 3 3 -4
+p334
+aVGordon Hayward UTA 01/30/2011 UTA @ GSW L 9 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p335
+aVAl Jefferson UTA 01/30/2011 UTA @ GSW L 33 16 6 18 33.3 0 0 - 4 6 66.7 5 9 14 0 1 1 0 3 -1
+p336
+aVAndrei Kirilenko UTA 01/30/2011 UTA @ GSW L 38 14 5 10 50.0 1 2 50.0 3 4 75.0 3 6 9 5 1 0 2 2 -11
+p337
+aVJeremy Evans UTA 01/30/2011 UTA @ GSW L 5 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 0
+p338
+aVCJ Miles UTA 01/30/2011 UTA @ GSW L 23 7 2 11 18.2 1 5 20.0 2 2 100.0 1 0 1 1 2 0 0 2 -22
+p339
+aVFrancisco Elson UTA 01/30/2011 UTA @ GSW L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -9
+p340
+aVRonnie Price UTA 01/30/2011 UTA @ GSW L 16 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 2 -15
+p341
+aVRaja Bell UTA 01/30/2011 UTA @ GSW L 31 12 6 13 46.2 0 1 0.0 0 1 0.0 1 1 2 3 2 0 1 2 0
+p342
+aVPaul Millsap UTA 01/30/2011 UTA @ GSW L 35 12 5 13 38.5 0 0 - 2 3 66.7 2 4 6 6 4 0 4 4 -2
+p343
+aVKyrylo Fesenko UTA 01/30/2011 UTA @ GSW L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 4 -5
+p344
+aVGordon Hayward UTA 01/28/2011 UTA vs. MIN W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -10
+p345
+aVPaul Millsap UTA 01/28/2011 UTA vs. MIN W 40 30 14 25 56.0 0 1 0.0 2 2 100.0 2 6 8 2 6 1 3 4 16
+p346
+aVRaja Bell UTA 01/28/2011 UTA vs. MIN W 30 4 1 8 12.5 0 3 0.0 2 2 100.0 0 2 2 0 2 0 0 2 13
+p347
+aVCJ Miles UTA 01/28/2011 UTA vs. MIN W 26 22 7 16 43.8 4 8 50.0 4 6 66.7 2 5 7 2 2 0 0 2 0
+p348
+aVAndrei Kirilenko UTA 01/28/2011 UTA vs. MIN W 35 27 10 13 76.9 1 1 100.0 6 8 75.0 5 1 6 7 5 1 2 1 10
+p349
+aVJeremy Evans UTA 01/28/2011 UTA vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -5
+p350
+aVAl Jefferson UTA 01/28/2011 UTA vs. MIN W 28 8 3 14 21.4 0 0 - 2 2 100.0 4 10 14 1 2 0 1 6 9
+p351
+aVRonnie Price UTA 01/28/2011 UTA vs. MIN W 9 3 1 2 50.0 1 1 100.0 0 2 0.0 0 0 0 0 0 0 1 1 -8
+p352
+aVFrancisco Elson UTA 01/28/2011 UTA vs. MIN W 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 0
+p353
+aVEarl Watson UTA 01/28/2011 UTA vs. MIN W 39 10 3 8 37.5 0 2 0.0 4 4 100.0 1 1 2 13 1 0 1 0 16
+p354
+aVMehmet Okur UTA 01/28/2011 UTA vs. MIN W 9 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 1 1 0 0 0 -1
+p355
+aVMehmet Okur UTA 01/26/2011 UTA vs. SAS L 14 3 0 4 0.0 0 1 0.0 3 4 75.0 1 1 2 2 0 0 1 0 -3
+p356
+aVAndrei Kirilenko UTA 01/26/2011 UTA vs. SAS L 37 10 2 6 33.3 0 1 0.0 6 9 66.7 1 5 6 3 2 0 1 3 -19
+p357
+aVPaul Millsap UTA 01/26/2011 UTA vs. SAS L 19 8 4 7 57.1 0 0 - 0 0 - 0 3 3 0 0 0 2 4 2
+p358
+aVFrancisco Elson UTA 01/26/2011 UTA vs. SAS L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -6
+p359
+aVEarl Watson UTA 01/26/2011 UTA vs. SAS L 16 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 3 1 0 1 3 -1
+p360
+aVRaja Bell UTA 01/26/2011 UTA vs. SAS L 34 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 1 1 6 -2
+p361
+aVGordon Hayward UTA 01/26/2011 UTA vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p362
+aVRonnie Price UTA 01/26/2011 UTA vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -3
+p363
+aVJeremy Evans UTA 01/26/2011 UTA vs. SAS L 9 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 13
+p364
+aVAl Jefferson UTA 01/26/2011 UTA vs. SAS L 36 22 10 15 66.7 0 0 - 2 3 66.7 2 7 9 2 1 2 1 3 -9
+p365
+aVDeron Williams UTA 01/26/2011 UTA vs. SAS L 41 39 16 24 66.7 0 5 0.0 7 8 87.5 0 4 4 9 1 0 4 3 -6
+p366
+aVCJ Miles UTA 01/26/2011 UTA vs. SAS L 26 13 5 8 62.5 2 4 50.0 1 1 100.0 0 1 1 0 2 2 2 4 -3
+p367
+aVPaul Millsap UTA 01/25/2011 UTA @ LAL L 27 11 4 10 40.0 0 0 - 3 4 75.0 4 2 6 2 0 1 1 1 -24
+p368
+aVFrancisco Elson UTA 01/25/2011 UTA @ LAL L 14 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 2 1
+p369
+aVRonnie Price UTA 01/25/2011 UTA @ LAL L 13 4 0 3 0.0 0 1 0.0 4 4 100.0 2 1 3 3 0 0 1 1 -2
+p370
+aVGordon Hayward UTA 01/25/2011 UTA @ LAL L 17 5 2 5 40.0 0 1 0.0 1 2 50.0 0 2 2 2 2 0 1 0 -3
+p371
+aVCJ Miles UTA 01/25/2011 UTA @ LAL L 28 14 5 11 45.5 2 4 50.0 2 2 100.0 1 3 4 5 3 0 4 4 -22
+p372
+aVRaja Bell UTA 01/25/2011 UTA @ LAL L 21 2 1 7 14.3 0 4 0.0 0 0 - 0 0 0 2 0 0 1 4 -20
+p373
+aVDeron Williams UTA 01/25/2011 UTA @ LAL L 32 17 8 13 61.5 1 2 50.0 0 1 0.0 0 0 0 8 2 0 5 3 -24
+p374
+aVAndrei Kirilenko UTA 01/25/2011 UTA @ LAL L 24 9 3 10 30.0 1 2 50.0 2 2 100.0 3 2 5 1 1 0 1 0 -17
+p375
+aVEarl Watson UTA 01/25/2011 UTA @ LAL L 16 3 1 5 20.0 1 1 100.0 0 0 - 1 1 2 4 0 0 3 1 -5
+p376
+aVMehmet Okur UTA 01/25/2011 UTA @ LAL L 12 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 1 1 1 0 2 -23
+p377
+aVJeremy Evans UTA 01/25/2011 UTA @ LAL L 8 10 5 6 83.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 9
+p378
+aVAl Jefferson UTA 01/25/2011 UTA @ LAL L 28 10 5 11 45.5 0 0 - 0 0 - 4 5 9 1 0 2 0 3 -15
+p379
+aVAl Jefferson UTA 01/22/2011 UTA @ PHI L 36 19 8 19 42.1 0 0 - 3 4 75.0 5 8 13 0 1 3 1 3 -5
+p380
+aVCJ Miles UTA 01/22/2011 UTA @ PHI L 22 6 2 8 25.0 1 4 25.0 1 2 50.0 0 3 3 1 2 0 1 3 -14
+p381
+aVAndrei Kirilenko UTA 01/22/2011 UTA @ PHI L 25 12 5 8 62.5 0 2 0.0 2 2 100.0 1 4 5 3 1 1 2 1 -6
+p382
+aVDeron Williams UTA 01/22/2011 UTA @ PHI L 39 20 7 19 36.8 2 7 28.6 4 4 100.0 0 6 6 14 2 0 5 2 -1
+p383
+aVMehmet Okur UTA 01/22/2011 UTA @ PHI L 12 3 1 3 33.3 0 0 - 1 1 100.0 1 2 3 2 1 0 0 2 -6
+p384
+aVEarl Watson UTA 01/22/2011 UTA @ PHI L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -10
+p385
+aVPaul Millsap UTA 01/22/2011 UTA @ PHI L 34 18 8 16 50.0 0 0 - 2 4 50.0 6 6 12 3 1 0 1 2 0
+p386
+aVRaja Bell UTA 01/22/2011 UTA @ PHI L 35 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 1 1 0 0 4 -3
+p387
+aVGordon Hayward UTA 01/22/2011 UTA @ PHI L 28 4 2 3 66.7 0 0 - 0 0 - 2 0 2 3 2 0 5 1 -10
+p388
+aVCJ Miles UTA 01/21/2011 UTA @ BOS L 14 9 3 7 42.9 2 4 50.0 1 1 100.0 0 2 2 0 1 0 0 4 -5
+p389
+aVMehmet Okur UTA 01/21/2011 UTA @ BOS L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p390
+aVDeron Williams UTA 01/21/2011 UTA @ BOS L 23 5 1 4 25.0 0 3 0.0 3 4 75.0 0 0 0 6 0 0 5 4 -12
+p391
+aVEarl Watson UTA 01/21/2011 UTA @ BOS L 25 12 3 9 33.3 1 3 33.3 5 8 62.5 2 1 3 2 2 1 5 2 -16
+p392
+aVGordon Hayward UTA 01/21/2011 UTA @ BOS L 22 11 4 6 66.7 1 1 100.0 2 2 100.0 1 4 5 3 0 1 0 2 -6
+p393
+aVAl Jefferson UTA 01/21/2011 UTA @ BOS L 25 7 1 11 9.1 0 0 - 5 6 83.3 2 3 5 4 0 2 3 3 -14
+p394
+aVFrancisco Elson UTA 01/21/2011 UTA @ BOS L 14 9 4 9 44.4 0 0 - 1 2 50.0 1 0 1 0 0 0 0 4 -5
+p395
+aVRonnie Price UTA 01/21/2011 UTA @ BOS L 16 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p396
+aVPaul Millsap UTA 01/21/2011 UTA @ BOS L 22 11 4 9 44.4 0 0 - 3 4 75.0 2 2 4 1 2 0 4 4 -17
+p397
+aVKyrylo Fesenko UTA 01/21/2011 UTA @ BOS L 17 7 3 5 60.0 0 0 - 1 2 50.0 1 4 5 1 0 0 3 1 -9
+p398
+aVRaja Bell UTA 01/21/2011 UTA @ BOS L 32 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 0 1 0 1 2 -18
+p399
+aVAndrei Kirilenko UTA 01/21/2011 UTA @ BOS L 23 11 4 7 57.1 0 1 0.0 3 3 100.0 3 4 7 2 0 1 0 1 -15
+p400
+aVEarl Watson UTA 01/19/2011 UTA @ NJN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 2 2 -5
+p401
+aVPaul Millsap UTA 01/19/2011 UTA @ NJN L 27 6 3 8 37.5 0 0 - 0 2 0.0 0 5 5 0 0 0 0 4 9
+p402
+aVFrancisco Elson UTA 01/19/2011 UTA @ NJN L 15 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 1 0 0 3 -13
+p403
+aVGordon Hayward UTA 01/19/2011 UTA @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p404
+aVMehmet Okur UTA 01/19/2011 UTA @ NJN L 16 8 3 7 42.9 0 1 0.0 2 2 100.0 0 0 0 0 0 1 0 1 -10
+p405
+aVRaja Bell UTA 01/19/2011 UTA @ NJN L 31 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 2 -11
+p406
+aVKyrylo Fesenko UTA 01/19/2011 UTA @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p407
+aVRonnie Price UTA 01/19/2011 UTA @ NJN L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 2 0
+p408
+aVAndrei Kirilenko UTA 01/19/2011 UTA @ NJN L 31 17 2 9 22.2 0 0 - 13 14 92.9 2 6 8 1 4 2 0 1 -4
+p409
+aVCJ Miles UTA 01/19/2011 UTA @ NJN L 27 13 4 13 30.8 2 5 40.0 3 4 75.0 0 1 1 1 2 0 2 3 -2
+p410
+aVDeron Williams UTA 01/19/2011 UTA @ NJN L 41 20 5 13 38.5 3 7 42.9 7 7 100.0 1 4 5 10 3 0 3 3 -3
+p411
+aVAl Jefferson UTA 01/19/2011 UTA @ NJN L 33 21 10 18 55.6 0 0 - 1 1 100.0 6 2 8 0 1 1 2 6 -1
+p412
+aVAl Jefferson UTA 01/17/2011 UTA @ WAS L 34 25 11 18 61.1 0 0 - 3 6 50.0 6 4 10 1 1 0 2 2 -4
+p413
+aVPaul Millsap UTA 01/17/2011 UTA @ WAS L 34 11 4 13 30.8 0 0 - 3 4 75.0 2 4 6 3 1 1 3 4 -7
+p414
+aVDeron Williams UTA 01/17/2011 UTA @ WAS L 39 28 9 18 50.0 6 10 60.0 4 4 100.0 1 3 4 11 2 0 2 3 -7
+p415
+aVMehmet Okur UTA 01/17/2011 UTA @ WAS L 13 8 2 4 50.0 1 2 50.0 3 4 75.0 1 1 2 3 0 0 0 3 -3
+p416
+aVRonnie Price UTA 01/17/2011 UTA @ WAS L 11 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 0 3 -1
+p417
+aVCJ Miles UTA 01/17/2011 UTA @ WAS L 28 8 3 10 30.0 2 6 33.3 0 0 - 0 3 3 3 0 0 2 3 4
+p418
+aVJeremy Evans UTA 01/17/2011 UTA @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p419
+aVFrancisco Elson UTA 01/17/2011 UTA @ WAS L 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -3
+p420
+aVAndrei Kirilenko UTA 01/17/2011 UTA @ WAS L 31 6 2 4 50.0 1 2 50.0 1 2 50.0 0 4 4 4 1 1 1 2 -9
+p421
+aVEarl Watson UTA 01/17/2011 UTA @ WAS L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 1 0
+p422
+aVRaja Bell UTA 01/17/2011 UTA @ WAS L 32 5 2 8 25.0 1 3 33.3 0 0 - 1 1 2 1 3 0 2 5 -8
+p423
+aVEarl Watson UTA 01/14/2011 UTA vs. CLE W 17 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 2 1 0 2 5 21
+p424
+aVGordon Hayward UTA 01/14/2011 UTA vs. CLE W 6 4 1 4 25.0 0 0 - 2 3 66.7 0 0 0 0 0 1 0 0 0
+p425
+aVKyrylo Fesenko UTA 01/14/2011 UTA vs. CLE W 3 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 -2
+p426
+aVFrancisco Elson UTA 01/14/2011 UTA vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 2 0 0 0 0
+p427
+aVMehmet Okur UTA 01/14/2011 UTA vs. CLE W 15 3 1 7 14.3 0 2 0.0 1 2 50.0 3 4 7 5 1 1 0 2 7
+p428
+aVRaja Bell UTA 01/14/2011 UTA vs. CLE W 31 15 5 7 71.4 2 2 100.0 3 4 75.0 0 1 1 5 3 1 0 1 1
+p429
+aVPaul Millsap UTA 01/14/2011 UTA vs. CLE W 27 11 5 11 45.5 0 0 - 1 1 100.0 1 4 5 1 1 1 1 4 -1
+p430
+aVRonnie Price UTA 01/14/2011 UTA vs. CLE W 15 7 3 6 50.0 1 2 50.0 0 0 - 1 0 1 1 4 0 1 0 16
+p431
+aVCJ Miles UTA 01/14/2011 UTA vs. CLE W 27 20 8 13 61.5 2 5 40.0 2 4 50.0 0 2 2 2 1 2 1 1 30
+p432
+aVAl Jefferson UTA 01/14/2011 UTA vs. CLE W 29 15 7 14 50.0 0 0 - 1 1 100.0 3 4 7 2 1 1 0 4 17
+p433
+aVAndrei Kirilenko UTA 01/14/2011 UTA vs. CLE W 35 15 5 8 62.5 0 1 0.0 5 6 83.3 0 7 7 4 2 1 1 2 15
+p434
+aVDeron Williams UTA 01/14/2011 UTA vs. CLE W 33 26 10 16 62.5 4 7 57.1 2 2 100.0 0 1 1 9 0 0 1 2 6
+p435
+aVAndrei Kirilenko UTA 01/12/2011 UTA vs. NYK W 37 14 6 10 60.0 0 0 - 2 2 100.0 4 2 6 7 0 2 2 3 14
+p436
+aVDeron Williams UTA 01/12/2011 UTA vs. NYK W 40 24 5 13 38.5 1 3 33.3 13 15 86.7 2 5 7 12 2 0 4 4 -1
+p437
+aVFrancisco Elson UTA 01/12/2011 UTA vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p438
+aVGordon Hayward UTA 01/12/2011 UTA vs. NYK W 5 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 1 1 1 0
+p439
+aVCJ Miles UTA 01/12/2011 UTA vs. NYK W 27 24 10 16 62.5 4 9 44.4 0 0 - 1 4 5 1 0 1 0 4 6
+p440
+aVPaul Millsap UTA 01/12/2011 UTA vs. NYK W 27 17 5 7 71.4 0 0 - 7 8 87.5 2 6 8 4 1 0 2 1 -8
+p441
+aVAl Jefferson UTA 01/12/2011 UTA vs. NYK W 30 19 9 13 69.2 0 0 - 1 2 50.0 2 4 6 1 1 3 2 4 -8
+p442
+aVEarl Watson UTA 01/12/2011 UTA vs. NYK W 13 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 3 0 0 1 19
+p443
+aVMehmet Okur UTA 01/12/2011 UTA vs. NYK W 12 10 4 5 80.0 1 2 50.0 1 2 50.0 0 2 2 2 0 0 1 3 17
+p444
+aVKyrylo Fesenko UTA 01/12/2011 UTA vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p445
+aVRaja Bell UTA 01/12/2011 UTA vs. NYK W 35 18 4 8 50.0 4 8 50.0 6 6 100.0 0 0 0 2 1 0 0 2 -13
+p446
+aVRonnie Price UTA 01/12/2011 UTA vs. NYK W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 2 7
+p447
+aVCJ Miles UTA 01/08/2011 UTA @ HOU W 21 16 6 11 54.5 2 5 40.0 2 2 100.0 0 5 5 0 0 0 4 5 -8
+p448
+aVKyrylo Fesenko UTA 01/08/2011 UTA @ HOU W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 1
+p449
+aVJeremy Evans UTA 01/08/2011 UTA @ HOU W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p450
+aVAndrei Kirilenko UTA 01/08/2011 UTA @ HOU W 34 6 2 8 25.0 0 3 0.0 2 6 33.3 3 5 8 2 1 2 1 3 11
+p451
+aVGordon Hayward UTA 01/08/2011 UTA @ HOU W 8 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 3 1
+p452
+aVRonnie Price UTA 01/08/2011 UTA @ HOU W 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p453
+aVEarl Watson UTA 01/08/2011 UTA @ HOU W 18 6 2 6 33.3 0 3 0.0 2 3 66.7 1 2 3 2 0 2 4 1 -7
+p454
+aVRaja Bell UTA 01/08/2011 UTA @ HOU W 31 5 2 4 50.0 1 1 100.0 0 0 - 1 3 4 1 0 0 0 4 10
+p455
+aVAl Jefferson UTA 01/08/2011 UTA @ HOU W 42 24 11 17 64.7 0 0 - 2 2 100.0 3 10 13 1 0 3 0 5 5
+p456
+aVPaul Millsap UTA 01/08/2011 UTA @ HOU W 41 27 11 20 55.0 0 0 - 5 5 100.0 1 9 10 4 2 1 2 4 3
+p457
+aVDeron Williams UTA 01/08/2011 UTA @ HOU W 47 14 5 16 31.3 1 6 16.7 3 5 60.0 1 1 2 15 1 2 4 4 7
+p458
+aVFrancisco Elson UTA 01/08/2011 UTA @ HOU W 9 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 0 0 0 0
+p459
+aVPaul Millsap UTA 01/07/2011 UTA @ MEM L 38 20 7 17 41.2 0 2 0.0 6 8 75.0 3 5 8 0 0 2 4 5 -7
+p460
+aVRaja Bell UTA 01/07/2011 UTA @ MEM L 24 4 2 7 28.6 0 4 0.0 0 0 - 0 2 2 2 0 1 3 3 -9
+p461
+aVAndrei Kirilenko UTA 01/07/2011 UTA @ MEM L 19 7 3 6 50.0 0 1 0.0 1 2 50.0 1 1 2 3 2 2 3 1 -11
+p462
+aVEarl Watson UTA 01/07/2011 UTA @ MEM L 19 12 5 5 100.0 2 2 100.0 0 0 - 0 3 3 3 1 0 2 1 1
+p463
+aVRonnie Price UTA 01/07/2011 UTA @ MEM L 17 7 2 4 50.0 1 2 50.0 2 2 100.0 2 0 2 2 1 1 1 2 -3
+p464
+aVAl Jefferson UTA 01/07/2011 UTA @ MEM L 37 16 5 10 50.0 0 0 - 6 9 66.7 5 8 13 4 0 5 0 4 -8
+p465
+aVGordon Hayward UTA 01/07/2011 UTA @ MEM L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 5 1 1 1 2 7
+p466
+aVCJ Miles UTA 01/07/2011 UTA @ MEM L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 2 -7
+p467
+aVDeron Williams UTA 01/07/2011 UTA @ MEM L 36 19 4 13 30.8 3 7 42.9 8 8 100.0 0 2 2 6 2 0 5 4 -11
+p468
+aVKyrylo Fesenko UTA 01/07/2011 UTA @ MEM L 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -3
+p469
+aVFrancisco Elson UTA 01/07/2011 UTA @ MEM L 10 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 1 0 2 -4
+p470
+aVRonnie Price UTA 01/05/2011 UTA vs. ATL L 14 5 1 5 20.0 0 1 0.0 3 4 75.0 1 3 4 0 0 0 1 2 -5
+p471
+aVFrancisco Elson UTA 01/05/2011 UTA vs. ATL L 18 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -12
+p472
+aVGordon Hayward UTA 01/05/2011 UTA vs. ATL L 17 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 1 1 2 -5
+p473
+aVKyrylo Fesenko UTA 01/05/2011 UTA vs. ATL L 13 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 0 0 0 1 4 -5
+p474
+aVJeremy Evans UTA 01/05/2011 UTA vs. ATL L 16 4 2 3 66.7 0 0 - 0 0 - 2 3 5 1 1 1 0 0 -3
+p475
+aVAl Jefferson UTA 01/05/2011 UTA vs. ATL L 37 13 6 17 35.3 0 0 - 1 2 50.0 4 3 7 1 0 2 2 3 -20
+p476
+aVAndrei Kirilenko UTA 01/05/2011 UTA vs. ATL L 29 19 7 13 53.8 3 3 100.0 2 2 100.0 2 4 6 1 1 3 2 1 -12
+p477
+aVEarl Watson UTA 01/05/2011 UTA vs. ATL L 16 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 2 0 0 0 1 -8
+p478
+aVRaja Bell UTA 01/05/2011 UTA vs. ATL L 26 9 3 5 60.0 2 3 66.7 1 2 50.0 0 2 2 0 0 1 0 1 -16
+p479
+aVCJ Miles UTA 01/05/2011 UTA vs. ATL L 19 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 1 1 1 0 1 -16
+p480
+aVDeron Williams UTA 01/05/2011 UTA vs. ATL L 35 19 5 15 33.3 2 6 33.3 7 9 77.8 1 2 3 9 0 0 5 0 -13
+p481
+aVAndrei Kirilenko UTA 01/03/2011 UTA vs. DET W 35 15 5 7 71.4 1 1 100.0 4 4 100.0 0 3 3 1 0 0 0 1 13
+p482
+aVDeron Williams UTA 01/03/2011 UTA vs. DET W 38 22 4 10 40.0 1 4 25.0 13 13 100.0 0 0 0 10 0 0 2 3 -5
+p483
+aVKyrylo Fesenko UTA 01/03/2011 UTA vs. DET W 14 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 2 8
+p484
+aVCJ Miles UTA 01/03/2011 UTA vs. DET W 17 12 4 9 44.4 2 5 40.0 2 3 66.7 1 1 2 2 1 0 1 1 8
+p485
+aVFrancisco Elson UTA 01/03/2011 UTA vs. DET W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p486
+aVPaul Millsap UTA 01/03/2011 UTA vs. DET W 33 15 5 9 55.6 0 0 - 5 6 83.3 1 9 10 2 0 0 3 4 -5
+p487
+aVGordon Hayward UTA 01/03/2011 UTA vs. DET W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -5
+p488
+aVRonnie Price UTA 01/03/2011 UTA vs. DET W 12 6 3 8 37.5 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 9
+p489
+aVAl Jefferson UTA 01/03/2011 UTA vs. DET W 34 16 7 13 53.8 0 0 - 2 2 100.0 3 5 8 0 1 3 2 1 -3
+p490
+aVRaja Bell UTA 01/03/2011 UTA vs. DET W 34 11 4 9 44.4 1 3 33.3 2 2 100.0 0 2 2 2 1 0 0 2 -5
+p491
+aVEarl Watson UTA 01/03/2011 UTA vs. DET W 12 0 0 2 0.0 0 0 - 0 0 - 2 2 4 5 1 0 0 1 11
+p492
+aVFrancisco Elson UTA 01/01/2011 UTA vs. MEM W 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 1 1 2 6
+p493
+aVKyrylo Fesenko UTA 01/01/2011 UTA vs. MEM W 18 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 2 1 1 0 1 8
+p494
+aVAl Jefferson UTA 01/01/2011 UTA vs. MEM W 30 11 3 12 25.0 0 0 - 5 10 50.0 1 3 4 2 1 2 0 5 -2
+p495
+aVGordon Hayward UTA 01/01/2011 UTA vs. MEM W 30 13 6 10 60.0 0 1 0.0 1 2 50.0 1 3 4 1 0 0 0 0 14
+p496
+aVAndrei Kirilenko UTA 01/01/2011 UTA vs. MEM W 18 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 4 0 0 1 0 -8
+p497
+aVRonnie Price UTA 01/01/2011 UTA vs. MEM W 17 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 1 2 0 1 3 8
+p498
+aVRaja Bell UTA 01/01/2011 UTA vs. MEM W 31 10 4 8 50.0 2 3 66.7 0 0 - 1 3 4 2 0 0 1 2 -2
+p499
+aVPaul Millsap UTA 01/01/2011 UTA vs. MEM W 34 22 8 11 72.7 0 0 - 6 6 100.0 3 7 10 3 2 3 1 3 4
+p500
+aVEarl Watson UTA 01/01/2011 UTA vs. MEM W 12 1 0 0 - 0 0 - 1 4 25.0 1 2 3 6 0 0 1 1 8
+p501
+aVJeremy Evans UTA 01/01/2011 UTA vs. MEM W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -4
+p502
+aVDeron Williams UTA 01/01/2011 UTA vs. MEM W 36 19 5 10 50.0 1 4 25.0 8 11 72.7 1 2 3 5 0 1 3 2 -2
+p503
+aVRaja Bell UTA 12/30/2010 UTA @ POR L 42 9 3 5 60.0 2 4 50.0 1 1 100.0 0 6 6 4 1 1 3 3 -15
+p504
+aVJeremy Evans UTA 12/30/2010 UTA @ POR L 17 5 2 3 66.7 0 0 - 1 2 50.0 0 4 4 0 1 2 1 1 15
+p505
+aVDeron Williams UTA 12/30/2010 UTA @ POR L 37 19 5 11 45.5 3 5 60.0 6 7 85.7 0 1 1 8 0 0 3 4 -17
+p506
+aVEarl Watson UTA 12/30/2010 UTA @ POR L 20 4 1 3 33.3 0 1 0.0 2 2 100.0 0 3 3 3 0 0 2 2 6
+p507
+aVPaul Millsap UTA 12/30/2010 UTA @ POR L 34 17 7 15 46.7 0 0 - 3 3 100.0 0 5 5 0 0 0 3 3 -20
+p508
+aVKyrylo Fesenko UTA 12/30/2010 UTA @ POR L 18 7 2 6 33.3 0 0 - 3 8 37.5 0 6 6 1 0 1 0 2 2
+p509
+aVRonnie Price UTA 12/30/2010 UTA @ POR L 17 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 3 0 3 6 -6
+p510
+aVAl Jefferson UTA 12/30/2010 UTA @ POR L 30 13 5 9 55.6 0 0 - 3 4 75.0 4 6 10 1 1 1 1 5 -13
+p511
+aVGordon Hayward UTA 12/30/2010 UTA @ POR L 26 11 3 6 50.0 1 3 33.3 4 6 66.7 0 4 4 2 0 1 2 5 -7
+p512
+aVKyrylo Fesenko UTA 12/29/2010 UTA @ LAC W 7 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 2
+p513
+aVFrancisco Elson UTA 12/29/2010 UTA @ LAC W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p514
+aVRonnie Price UTA 12/29/2010 UTA @ LAC W 12 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 2 0 0 0 1 10
+p515
+aVAl Jefferson UTA 12/29/2010 UTA @ LAC W 39 31 13 22 59.1 0 0 - 5 5 100.0 2 8 10 2 0 3 0 3 -1
+p516
+aVPaul Millsap UTA 12/29/2010 UTA @ LAC W 32 12 5 13 38.5 0 0 - 2 2 100.0 4 5 9 2 1 0 2 5 18
+p517
+aVGordon Hayward UTA 12/29/2010 UTA @ LAC W 44 17 6 12 50.0 3 5 60.0 2 2 100.0 3 3 6 3 0 0 1 1 7
+p518
+aVJeremy Evans UTA 12/29/2010 UTA @ LAC W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -6
+p519
+aVRaja Bell UTA 12/29/2010 UTA @ LAC W 25 2 1 5 20.0 0 4 0.0 0 0 - 0 2 2 2 1 0 0 3 4
+p520
+aVDeron Williams UTA 12/29/2010 UTA @ LAC W 37 16 5 11 45.5 1 3 33.3 5 7 71.4 0 6 6 7 1 0 5 3 2
+p521
+aVMehmet Okur UTA 12/29/2010 UTA @ LAC W 16 13 4 10 40.0 1 2 50.0 4 5 80.0 2 1 3 1 0 0 0 0 8
+p522
+aVEarl Watson UTA 12/29/2010 UTA @ LAC W 22 0 0 1 0.0 0 0 - 0 0 - 0 2 2 6 1 0 2 3 0
+p523
+aVAndrei Kirilenko UTA 12/27/2010 UTA vs. POR L 22 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 2 1 1 1 1 -2
+p524
+aVCJ Miles UTA 12/27/2010 UTA vs. POR L 21 10 4 12 33.3 2 6 33.3 0 0 - 2 2 4 1 1 0 0 0 -3
+p525
+aVPaul Millsap UTA 12/27/2010 UTA vs. POR L 34 11 5 12 41.7 0 0 - 1 2 50.0 0 3 3 1 1 2 1 4 -4
+p526
+aVAl Jefferson UTA 12/27/2010 UTA vs. POR L 33 11 5 12 41.7 0 0 - 1 1 100.0 3 6 9 3 0 1 4 2 -7
+p527
+aVRaja Bell UTA 12/27/2010 UTA vs. POR L 36 8 2 5 40.0 2 3 66.7 2 2 100.0 0 0 0 3 0 1 0 3 7
+p528
+aVDeron Williams UTA 12/27/2010 UTA vs. POR L 38 31 11 16 68.8 6 8 75.0 3 4 75.0 1 2 3 6 1 0 5 5 5
+p529
+aVRonnie Price UTA 12/27/2010 UTA vs. POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p530
+aVFrancisco Elson UTA 12/27/2010 UTA vs. POR L 13 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 2 0 1 3 -2
+p531
+aVGordon Hayward UTA 12/27/2010 UTA vs. POR L 12 4 0 4 0.0 0 1 0.0 4 4 100.0 1 0 1 0 0 0 0 0 -5
+p532
+aVMehmet Okur UTA 12/27/2010 UTA vs. POR L 17 6 3 6 50.0 0 1 0.0 0 0 - 0 5 5 1 0 0 4 0 3
+p533
+aVEarl Watson UTA 12/27/2010 UTA vs. POR L 10 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -10
+p534
+aVDeron Williams UTA 12/22/2010 UTA @ MIN W 40 25 6 19 31.6 0 3 0.0 13 14 92.9 3 4 7 7 2 0 3 1 5
+p535
+aVKyrylo Fesenko UTA 12/22/2010 UTA @ MIN W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -6
+p536
+aVPaul Millsap UTA 12/22/2010 UTA @ MIN W 31 23 10 16 62.5 0 0 - 3 4 75.0 4 7 11 4 3 1 3 5 4
+p537
+aVRaja Bell UTA 12/22/2010 UTA @ MIN W 34 6 1 4 25.0 0 1 0.0 4 4 100.0 0 3 3 3 1 1 2 3 -1
+p538
+aVCJ Miles UTA 12/22/2010 UTA @ MIN W 25 8 3 9 33.3 0 3 0.0 2 2 100.0 1 2 3 1 3 0 1 3 -1
+p539
+aVFrancisco Elson UTA 12/22/2010 UTA @ MIN W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p540
+aVEarl Watson UTA 12/22/2010 UTA @ MIN W 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 5
+p541
+aVAndrei Kirilenko UTA 12/22/2010 UTA @ MIN W 36 16 4 7 57.1 1 3 33.3 7 8 87.5 1 6 7 3 3 2 3 2 -3
+p542
+aVAl Jefferson UTA 12/22/2010 UTA @ MIN W 41 23 10 17 58.8 0 0 - 3 7 42.9 0 9 9 1 1 7 3 5 15
+p543
+aVRonnie Price UTA 12/22/2010 UTA @ MIN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -6
+p544
+aVGordon Hayward UTA 12/22/2010 UTA @ MIN W 12 5 1 1 100.0 0 0 - 3 3 100.0 1 2 3 3 0 0 0 0 17
+p545
+aVFrancisco Elson UTA 12/20/2010 UTA @ CLE W 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 5 7
+p546
+aVAl Jefferson UTA 12/20/2010 UTA @ CLE W 38 16 7 13 53.8 0 0 - 2 4 50.0 4 9 13 2 0 1 1 2 -1
+p547
+aVRonnie Price UTA 12/20/2010 UTA @ CLE W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p548
+aVGordon Hayward UTA 12/20/2010 UTA @ CLE W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p549
+aVDeron Williams UTA 12/20/2010 UTA @ CLE W 39 17 6 16 37.5 1 4 25.0 4 4 100.0 1 4 5 10 1 0 5 1 8
+p550
+aVAndrei Kirilenko UTA 12/20/2010 UTA @ CLE W 33 6 2 9 22.2 0 2 0.0 2 2 100.0 1 4 5 4 0 1 2 3 -1
+p551
+aVEarl Watson UTA 12/20/2010 UTA @ CLE W 16 0 0 1 0.0 0 0 - 0 0 - 1 3 4 3 1 1 0 1 1
+p552
+aVPaul Millsap UTA 12/20/2010 UTA @ CLE W 33 19 9 13 69.2 0 0 - 1 2 50.0 2 5 7 2 0 0 0 3 19
+p553
+aVRaja Bell UTA 12/20/2010 UTA @ CLE W 36 19 6 9 66.7 5 6 83.3 2 2 100.0 0 3 3 2 0 0 0 1 16
+p554
+aVCJ Miles UTA 12/20/2010 UTA @ CLE W 26 22 8 16 50.0 4 10 40.0 2 2 100.0 3 1 4 5 1 0 1 4 4
+p555
+aVRaja Bell UTA 12/18/2010 UTA @ MIL W 24 3 1 7 14.3 1 4 25.0 0 0 - 0 3 3 1 0 0 1 1 0
+p556
+aVCJ Miles UTA 12/18/2010 UTA @ MIL W 30 16 6 16 37.5 2 5 40.0 2 2 100.0 1 6 7 2 1 0 0 1 6
+p557
+aVRonnie Price UTA 12/18/2010 UTA @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p558
+aVFrancisco Elson UTA 12/18/2010 UTA @ MIL W 16 4 2 5 40.0 0 0 - 0 0 - 3 1 4 2 1 0 1 0 -8
+p559
+aVAl Jefferson UTA 12/18/2010 UTA @ MIL W 34 18 7 15 46.7 0 0 - 4 5 80.0 3 6 9 2 1 2 2 3 21
+p560
+aVMehmet Okur UTA 12/18/2010 UTA @ MIL W 13 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 0 0 1 1 2 -12
+p561
+aVAndrei Kirilenko UTA 12/18/2010 UTA @ MIL W 37 12 4 7 57.1 0 1 0.0 4 6 66.7 4 5 9 4 1 1 0 0 18
+p562
+aVEarl Watson UTA 12/18/2010 UTA @ MIL W 12 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 1 0 1 -7
+p563
+aVKyrylo Fesenko UTA 12/18/2010 UTA @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p564
+aVDeron Williams UTA 12/18/2010 UTA @ MIL W 38 22 7 15 46.7 3 3 100.0 5 8 62.5 1 1 2 11 0 0 2 2 19
+p565
+aVPaul Millsap UTA 12/18/2010 UTA @ MIL W 29 15 6 12 50.0 0 0 - 3 5 60.0 1 8 9 1 4 2 2 5 14
+p566
+aVRonnie Price UTA 12/17/2010 UTA @ NOH L 14 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 1 2 -12
+p567
+aVMehmet Okur UTA 12/17/2010 UTA @ NOH L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -9
+p568
+aVGordon Hayward UTA 12/17/2010 UTA @ NOH L 16 7 2 2 100.0 1 1 100.0 2 2 100.0 0 3 3 0 0 0 2 1 -1
+p569
+aVAl Jefferson UTA 12/17/2010 UTA @ NOH L 29 10 5 13 38.5 0 0 - 0 0 - 2 1 3 0 1 1 1 3 -14
+p570
+aVRaja Bell UTA 12/17/2010 UTA @ NOH L 22 8 3 11 27.3 2 8 25.0 0 0 - 0 1 1 0 0 1 1 3 -21
+p571
+aVEarl Watson UTA 12/17/2010 UTA @ NOH L 17 4 2 6 33.3 0 0 - 0 2 0.0 1 0 1 0 0 0 1 0 -8
+p572
+aVPaul Millsap UTA 12/17/2010 UTA @ NOH L 29 14 5 7 71.4 0 0 - 4 4 100.0 0 6 6 2 2 1 0 2 -15
+p573
+aVAndrei Kirilenko UTA 12/17/2010 UTA @ NOH L 29 7 3 9 33.3 0 1 0.0 1 3 33.3 1 0 1 3 3 1 2 1 -21
+p574
+aVDeron Williams UTA 12/17/2010 UTA @ NOH L 32 10 4 12 33.3 0 5 0.0 2 3 66.7 0 2 2 5 0 0 2 2 -21
+p575
+aVFrancisco Elson UTA 12/17/2010 UTA @ NOH L 15 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -7
+p576
+aVCJ Miles UTA 12/17/2010 UTA @ NOH L 18 5 2 11 18.2 0 2 0.0 1 4 25.0 0 3 3 0 1 1 0 0 -11
+p577
+aVKyrylo Fesenko UTA 12/17/2010 UTA @ NOH L 8 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 0 -5
+p578
+aVKyrylo Fesenko UTA 12/13/2010 UTA vs. GSW W 14 2 1 1 100.0 0 0 - 0 0 - 1 3 4 2 0 0 1 4 18
+p579
+aVAndrei Kirilenko UTA 12/13/2010 UTA vs. GSW W 37 12 4 6 66.7 0 0 - 4 4 100.0 1 3 4 4 4 1 1 1 20
+p580
+aVJeremy Evans UTA 12/13/2010 UTA vs. GSW W 9 9 4 4 100.0 0 0 - 1 1 100.0 1 2 3 1 0 0 1 0 6
+p581
+aVEarl Watson UTA 12/13/2010 UTA vs. GSW W 20 2 1 4 25.0 0 0 - 0 0 - 1 0 1 5 1 0 2 2 4
+p582
+aVGordon Hayward UTA 12/13/2010 UTA vs. GSW W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 4 4
+p583
+aVDeron Williams UTA 12/13/2010 UTA vs. GSW W 35 30 8 16 50.0 4 8 50.0 10 11 90.9 1 5 6 10 1 0 3 2 3
+p584
+aVAl Jefferson UTA 12/13/2010 UTA vs. GSW W 34 13 4 13 30.8 0 0 - 5 5 100.0 1 7 8 2 1 6 1 2 -5
+p585
+aVRonnie Price UTA 12/13/2010 UTA vs. GSW W 20 3 1 6 16.7 0 3 0.0 1 2 50.0 0 0 0 0 1 0 1 2 2
+p586
+aVCJ Miles UTA 12/13/2010 UTA vs. GSW W 28 20 9 14 64.3 2 6 33.3 0 1 0.0 1 5 6 2 2 1 3 4 13
+p587
+aVPaul Millsap UTA 12/13/2010 UTA vs. GSW W 32 16 7 14 50.0 0 0 - 2 3 66.7 3 5 8 0 2 0 1 3 0
+p588
+aVCJ Miles UTA 12/11/2010 UTA @ DAL L 28 10 5 13 38.5 0 5 0.0 0 0 - 0 3 3 4 1 0 1 4 15
+p589
+aVEarl Watson UTA 12/11/2010 UTA @ DAL L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 4
+p590
+aVDeron Williams UTA 12/11/2010 UTA @ DAL L 41 34 12 22 54.5 2 4 50.0 8 9 88.9 2 1 3 6 2 0 1 4 -10
+p591
+aVJeremy Evans UTA 12/11/2010 UTA @ DAL L 13 2 0 0 - 0 0 - 2 2 100.0 0 2 2 2 0 2 0 1 6
+p592
+aVPaul Millsap UTA 12/11/2010 UTA @ DAL L 35 16 6 13 46.2 0 0 - 4 6 66.7 2 6 8 2 3 0 0 5 -12
+p593
+aVFrancisco Elson UTA 12/11/2010 UTA @ DAL L 17 5 1 2 50.0 0 0 - 3 3 100.0 1 1 2 1 0 0 1 5 9
+p594
+aVAl Jefferson UTA 12/11/2010 UTA @ DAL L 31 8 4 14 28.6 0 0 - 0 0 - 3 6 9 2 1 0 2 0 -15
+p595
+aVRonnie Price UTA 12/11/2010 UTA @ DAL L 28 14 5 8 62.5 3 4 75.0 1 1 100.0 0 2 2 1 1 0 2 3 13
+p596
+aVGordon Hayward UTA 12/11/2010 UTA @ DAL L 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -23
+p597
+aVAndrei Kirilenko UTA 12/11/2010 UTA @ DAL L 22 6 2 4 50.0 0 2 0.0 2 2 100.0 3 2 5 0 1 0 4 3 -17
+p598
+aVPaul Millsap UTA 12/10/2010 UTA vs. ORL W 35 22 8 16 50.0 0 0 - 6 9 66.7 0 5 5 5 3 0 1 3 13
+p599
+aVRonnie Price UTA 12/10/2010 UTA vs. ORL W 18 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 4 13
+p600
+aVAl Jefferson UTA 12/10/2010 UTA vs. ORL W 42 16 7 13 53.8 0 0 - 2 2 100.0 1 7 8 3 2 3 0 3 10
+p601
+aVCJ Miles UTA 12/10/2010 UTA vs. ORL W 22 26 9 13 69.2 4 6 66.7 4 6 66.7 0 1 1 1 0 0 0 3 -1
+p602
+aVGordon Hayward UTA 12/10/2010 UTA vs. ORL W 18 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -1
+p603
+aVAndrei Kirilenko UTA 12/10/2010 UTA vs. ORL W 35 17 6 8 75.0 2 2 100.0 3 4 75.0 2 11 13 5 2 3 1 1 13
+p604
+aVEarl Watson UTA 12/10/2010 UTA vs. ORL W 14 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 2 1 0 1 1 2
+p605
+aVJeremy Evans UTA 12/10/2010 UTA vs. ORL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -4
+p606
+aVDeron Williams UTA 12/10/2010 UTA vs. ORL W 39 32 9 17 52.9 4 7 57.1 10 11 90.9 0 0 0 9 1 0 2 4 11
+p607
+aVFrancisco Elson UTA 12/10/2010 UTA vs. ORL W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 2 1 1 2 4
+p608
+aVAl Jefferson UTA 12/08/2010 UTA vs. MIA L 41 25 9 19 47.4 0 0 - 7 7 100.0 5 6 11 3 1 1 1 2 -13
+p609
+aVRonnie Price UTA 12/08/2010 UTA vs. MIA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -6
+p610
+aVCJ Miles UTA 12/08/2010 UTA vs. MIA L 18 8 3 11 27.3 0 3 0.0 2 2 100.0 1 0 1 1 2 0 1 3 -14
+p611
+aVAndrei Kirilenko UTA 12/08/2010 UTA vs. MIA L 39 13 6 10 60.0 0 2 0.0 1 1 100.0 1 2 3 3 1 0 4 4 -15
+p612
+aVEarl Watson UTA 12/08/2010 UTA vs. MIA L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p613
+aVDeron Williams UTA 12/08/2010 UTA vs. MIA L 42 21 6 13 46.2 0 5 0.0 9 12 75.0 1 3 4 12 0 1 3 2 -13
+p614
+aVPaul Millsap UTA 12/08/2010 UTA vs. MIA L 41 18 9 12 75.0 0 0 - 0 3 0.0 1 4 5 0 2 1 3 3 0
+p615
+aVFrancisco Elson UTA 12/08/2010 UTA vs. MIA L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -9
+p616
+aVRaja Bell UTA 12/08/2010 UTA vs. MIA L 38 11 4 6 66.7 1 3 33.3 2 2 100.0 1 1 2 1 2 0 2 1 5
+p617
+aVEarl Watson UTA 12/06/2010 UTA vs. MEM W 20 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 3 1 0
+p618
+aVAl Jefferson UTA 12/06/2010 UTA vs. MEM W 38 12 5 13 38.5 0 0 - 2 2 100.0 1 9 10 1 0 1 2 5 3
+p619
+aVDeron Williams UTA 12/06/2010 UTA vs. MEM W 35 27 11 21 52.4 1 7 14.3 4 4 100.0 0 4 4 8 1 0 3 3 14
+p620
+aVRaja Bell UTA 12/06/2010 UTA vs. MEM W 38 14 5 7 71.4 4 5 80.0 0 0 - 1 2 3 2 1 0 0 3 10
+p621
+aVCJ Miles UTA 12/06/2010 UTA vs. MEM W 29 20 7 14 50.0 3 7 42.9 3 3 100.0 0 2 2 3 2 2 1 1 9
+p622
+aVPaul Millsap UTA 12/06/2010 UTA vs. MEM W 33 7 3 11 27.3 0 0 - 1 2 50.0 4 3 7 1 2 2 1 3 6
+p623
+aVKyrylo Fesenko UTA 12/06/2010 UTA vs. MEM W 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 2 0 2 6
+p624
+aVAndrei Kirilenko UTA 12/06/2010 UTA vs. MEM W 26 8 1 10 10.0 0 1 0.0 6 7 85.7 2 3 5 1 2 2 1 2 0
+p625
+aVRonnie Price UTA 12/06/2010 UTA vs. MEM W 3 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -6
+p626
+aVFrancisco Elson UTA 12/06/2010 UTA vs. MEM W 8 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 0 3
+p627
+aVJeremy Evans UTA 12/03/2010 UTA vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p628
+aVEarl Watson UTA 12/03/2010 UTA vs. DAL L 20 0 0 4 0.0 0 2 0.0 0 0 - 1 3 4 5 2 0 1 3 4
+p629
+aVCJ Miles UTA 12/03/2010 UTA vs. DAL L 19 9 3 8 37.5 2 6 33.3 1 2 50.0 0 3 3 0 1 0 0 1 -11
+p630
+aVAndrei Kirilenko UTA 12/03/2010 UTA vs. DAL L 31 5 2 5 40.0 0 1 0.0 1 2 50.0 1 3 4 1 0 0 3 3 -8
+p631
+aVPaul Millsap UTA 12/03/2010 UTA vs. DAL L 33 21 6 10 60.0 0 0 - 9 14 64.3 3 4 7 2 0 2 0 2 -9
+p632
+aVKyrylo Fesenko UTA 12/03/2010 UTA vs. DAL L 11 5 2 3 66.7 0 0 - 1 2 50.0 2 5 7 0 0 0 0 2 -8
+p633
+aVRonnie Price UTA 12/03/2010 UTA vs. DAL L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 7
+p634
+aVFrancisco Elson UTA 12/03/2010 UTA vs. DAL L 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 4 0 -4
+p635
+aVDeron Williams UTA 12/03/2010 UTA vs. DAL L 39 12 4 13 30.8 1 3 33.3 3 3 100.0 0 5 5 7 4 1 4 2 -17
+p636
+aVGordon Hayward UTA 12/03/2010 UTA vs. DAL L 1 5 1 1 100.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 0 3
+p637
+aVAl Jefferson UTA 12/03/2010 UTA vs. DAL L 37 18 8 20 40.0 0 0 - 2 3 66.7 3 5 8 4 1 2 2 2 -4
+p638
+aVRaja Bell UTA 12/03/2010 UTA vs. DAL L 28 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 1 0 1 0 1 -16
+p639
+aVFrancisco Elson UTA 12/01/2010 UTA vs. IND W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 1 0 2 2
+p640
+aVEarl Watson UTA 12/01/2010 UTA vs. IND W 22 5 2 4 50.0 1 3 33.3 0 0 - 1 0 1 2 2 0 0 3 -1
+p641
+aVKyrylo Fesenko UTA 12/01/2010 UTA vs. IND W 9 0 0 1 0.0 0 0 - 0 0 - 3 3 6 0 0 0 0 0 14
+p642
+aVAl Jefferson UTA 12/01/2010 UTA vs. IND W 31 17 8 17 47.1 0 0 - 1 1 100.0 2 8 10 3 0 2 1 2 6
+p643
+aVRaja Bell UTA 12/01/2010 UTA vs. IND W 28 10 4 10 40.0 2 4 50.0 0 0 - 1 2 3 2 2 1 0 2 18
+p644
+aVCJ Miles UTA 12/01/2010 UTA vs. IND W 22 13 5 15 33.3 2 6 33.3 1 1 100.0 2 3 5 1 0 0 1 2 10
+p645
+aVDeron Williams UTA 12/01/2010 UTA vs. IND W 34 24 10 15 66.7 1 6 16.7 3 4 75.0 1 2 3 16 2 0 0 2 22
+p646
+aVJeremy Evans UTA 12/01/2010 UTA vs. IND W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p647
+aVGordon Hayward UTA 12/01/2010 UTA vs. IND W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p648
+aVPaul Millsap UTA 12/01/2010 UTA vs. IND W 34 16 7 15 46.7 0 0 - 2 3 66.7 3 5 8 1 2 1 2 4 19
+p649
+aVAndrei Kirilenko UTA 12/01/2010 UTA vs. IND W 37 18 6 15 40.0 1 3 33.3 5 6 83.3 5 2 7 1 2 1 0 3 6
+p650
+aVRonnie Price UTA 12/01/2010 UTA vs. IND W 11 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 1 1 0 3 1 5
+p651
+aVAl Jefferson UTA 11/29/2010 UTA vs. MIL W 31 22 11 14 78.6 0 0 - 0 0 - 3 8 11 0 0 4 2 3 22
+p652
+aVFrancisco Elson UTA 11/29/2010 UTA vs. MIL W 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p653
+aVDeron Williams UTA 11/29/2010 UTA vs. MIL W 30 22 8 12 66.7 2 4 50.0 4 4 100.0 0 5 5 10 1 0 5 4 13
+p654
+aVJeremy Evans UTA 11/29/2010 UTA vs. MIL W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p655
+aVRonnie Price UTA 11/29/2010 UTA vs. MIL W 14 10 4 7 57.1 0 1 0.0 2 2 100.0 1 2 3 0 3 0 3 4 6
+p656
+aVAndrei Kirilenko UTA 11/29/2010 UTA vs. MIL W 39 13 4 9 44.4 0 2 0.0 5 6 83.3 3 5 8 4 0 4 2 2 21
+p657
+aVGordon Hayward UTA 11/29/2010 UTA vs. MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p658
+aVPaul Millsap UTA 11/29/2010 UTA vs. MIL W 29 8 4 7 57.1 0 0 - 0 0 - 5 4 9 4 1 1 1 2 11
+p659
+aVEarl Watson UTA 11/29/2010 UTA vs. MIL W 27 12 5 8 62.5 2 3 66.7 0 0 - 2 4 6 7 2 1 2 5 20
+p660
+aVRaja Bell UTA 11/29/2010 UTA vs. MIL W 24 10 5 14 35.7 0 2 0.0 0 0 - 2 1 3 1 1 0 1 3 3
+p661
+aVCJ Miles UTA 11/29/2010 UTA vs. MIL W 21 6 2 9 22.2 1 5 20.0 1 2 50.0 0 1 1 2 0 0 2 4 10
+p662
+aVKyrylo Fesenko UTA 11/29/2010 UTA vs. MIL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p663
+aVCJ Miles UTA 11/28/2010 UTA @ LAC W 26 16 6 7 85.7 1 1 100.0 3 3 100.0 1 3 4 3 2 1 2 3 6
+p664
+aVAndrei Kirilenko UTA 11/28/2010 UTA @ LAC W 35 15 5 10 50.0 2 5 40.0 3 4 75.0 0 4 4 3 1 3 0 2 11
+p665
+aVRonnie Price UTA 11/28/2010 UTA @ LAC W 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 4 2
+p666
+aVKyrylo Fesenko UTA 11/28/2010 UTA @ LAC W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p667
+aVRaja Bell UTA 11/28/2010 UTA @ LAC W 30 12 5 7 71.4 2 4 50.0 0 0 - 1 2 3 1 0 0 0 2 4
+p668
+aVEarl Watson UTA 11/28/2010 UTA @ LAC W 18 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 7 0 0 1 1 6
+p669
+aVAl Jefferson UTA 11/28/2010 UTA @ LAC W 29 10 4 10 40.0 0 0 - 2 4 50.0 1 3 4 3 1 3 1 3 1
+p670
+aVPaul Millsap UTA 11/28/2010 UTA @ LAC W 32 15 7 11 63.6 0 0 - 1 2 50.0 1 1 2 3 1 0 1 3 5
+p671
+aVFrancisco Elson UTA 11/28/2010 UTA @ LAC W 21 7 3 3 100.0 0 0 - 1 1 100.0 0 4 4 4 2 0 0 1 8
+p672
+aVDeron Williams UTA 11/28/2010 UTA @ LAC W 36 26 8 14 57.1 2 7 28.6 8 9 88.9 0 5 5 9 1 1 4 5 13
+p673
+aVKyrylo Fesenko UTA 11/26/2010 UTA vs. LAL W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -6
+p674
+aVAl Jefferson UTA 11/26/2010 UTA vs. LAL W 41 20 9 18 50.0 0 0 - 2 2 100.0 2 6 8 1 1 0 0 3 14
+p675
+aVGordon Hayward UTA 11/26/2010 UTA vs. LAL W 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p676
+aVFrancisco Elson UTA 11/26/2010 UTA vs. LAL W 10 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 0 -10
+p677
+aVCJ Miles UTA 11/26/2010 UTA vs. LAL W 22 4 1 7 14.3 0 3 0.0 2 2 100.0 0 4 4 1 0 0 3 2 7
+p678
+aVRaja Bell UTA 11/26/2010 UTA vs. LAL W 26 9 3 7 42.9 1 3 33.3 2 2 100.0 0 3 3 0 0 0 1 3 0
+p679
+aVDeron Williams UTA 11/26/2010 UTA vs. LAL W 38 29 10 14 71.4 3 6 50.0 6 6 100.0 0 1 1 12 2 0 2 3 2
+p680
+aVRonnie Price UTA 11/26/2010 UTA vs. LAL W 10 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 3 4
+p681
+aVAndrei Kirilenko UTA 11/26/2010 UTA vs. LAL W 34 11 4 8 50.0 1 2 50.0 2 2 100.0 0 7 7 2 0 1 1 2 -3
+p682
+aVPaul Millsap UTA 11/26/2010 UTA vs. LAL W 31 13 6 12 50.0 0 0 - 1 1 100.0 1 7 8 2 0 1 1 5 14
+p683
+aVEarl Watson UTA 11/26/2010 UTA vs. LAL W 17 8 3 5 60.0 1 2 50.0 1 2 50.0 1 2 3 5 0 1 0 1 12
+p684
+aVAl Jefferson UTA 11/24/2010 UTA vs. NOH W 34 23 10 16 62.5 0 0 - 3 3 100.0 1 9 10 2 0 1 1 1 7
+p685
+aVJeremy Evans UTA 11/24/2010 UTA vs. NOH W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p686
+aVGordon Hayward UTA 11/24/2010 UTA vs. NOH W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p687
+aVRaja Bell UTA 11/24/2010 UTA vs. NOH W 27 9 4 6 66.7 1 2 50.0 0 0 - 1 2 3 0 1 0 1 2 -11
+p688
+aVDeron Williams UTA 11/24/2010 UTA vs. NOH W 36 26 9 18 50.0 4 5 80.0 4 4 100.0 0 3 3 11 5 0 5 3 12
+p689
+aVRonnie Price UTA 11/24/2010 UTA vs. NOH W 14 8 3 5 60.0 1 1 100.0 1 1 100.0 0 1 1 3 1 0 1 1 19
+p690
+aVAndrei Kirilenko UTA 11/24/2010 UTA vs. NOH W 26 0 0 6 0.0 0 0 - 0 0 - 1 2 3 1 0 1 0 2 -5
+p691
+aVFrancisco Elson UTA 11/24/2010 UTA vs. NOH W 18 8 2 6 33.3 0 0 - 4 4 100.0 2 2 4 2 1 0 0 2 17
+p692
+aVPaul Millsap UTA 11/24/2010 UTA vs. NOH W 33 17 6 10 60.0 0 1 0.0 5 5 100.0 1 6 7 3 2 0 1 4 8
+p693
+aVEarl Watson UTA 11/24/2010 UTA vs. NOH W 19 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 3 1 0 1 3 16
+p694
+aVCJ Miles UTA 11/24/2010 UTA vs. NOH W 20 6 2 7 28.6 0 4 0.0 2 2 100.0 0 2 2 2 0 1 1 2 24
+p695
+aVKyrylo Fesenko UTA 11/24/2010 UTA vs. NOH W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 5
+p696
+aVEarl Watson UTA 11/22/2010 UTA vs. SAC W 14 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 1 1 1 0 7
+p697
+aVAl Jefferson UTA 11/22/2010 UTA vs. SAC W 35 19 7 18 38.9 0 0 - 5 6 83.3 3 5 8 3 0 2 0 2 5
+p698
+aVFrancisco Elson UTA 11/22/2010 UTA vs. SAC W 13 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 2 1 0 2 1
+p699
+aVJeremy Evans UTA 11/22/2010 UTA vs. SAC W 1 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -4
+p700
+aVDeron Williams UTA 11/22/2010 UTA vs. SAC W 34 12 4 14 28.6 0 2 0.0 4 6 66.7 0 5 5 9 0 0 2 3 4
+p701
+aVRonnie Price UTA 11/22/2010 UTA vs. SAC W 12 9 3 4 75.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 2 10
+p702
+aVAndrei Kirilenko UTA 11/22/2010 UTA vs. SAC W 24 10 3 4 75.0 0 1 0.0 4 6 66.7 2 2 4 0 1 1 2 0 4
+p703
+aVCJ Miles UTA 11/22/2010 UTA vs. SAC W 24 20 8 13 61.5 1 3 33.3 3 3 100.0 0 4 4 4 1 2 0 4 7
+p704
+aVGordon Hayward UTA 11/22/2010 UTA vs. SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p705
+aVKyrylo Fesenko UTA 11/22/2010 UTA vs. SAC W 15 2 1 5 20.0 0 0 - 0 3 0.0 1 1 2 0 0 1 1 4 13
+p706
+aVRaja Bell UTA 11/22/2010 UTA vs. SAC W 31 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 1 2 0 0 1 10
+p707
+aVPaul Millsap UTA 11/22/2010 UTA vs. SAC W 32 11 4 10 40.0 0 0 - 3 3 100.0 1 8 9 1 2 1 1 2 7
+p708
+aVFrancisco Elson UTA 11/20/2010 UTA @ POR W 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -8
+p709
+aVGordon Hayward UTA 11/20/2010 UTA @ POR W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p710
+aVRaja Bell UTA 11/20/2010 UTA @ POR W 29 9 3 8 37.5 1 3 33.3 2 2 100.0 0 4 4 1 1 0 1 2 -3
+p711
+aVCJ Miles UTA 11/20/2010 UTA @ POR W 30 25 8 13 61.5 7 10 70.0 2 2 100.0 2 3 5 1 0 0 5 3 8
+p712
+aVPaul Millsap UTA 11/20/2010 UTA @ POR W 31 15 6 11 54.5 0 1 0.0 3 3 100.0 3 3 6 1 3 2 3 4 3
+p713
+aVEarl Watson UTA 11/20/2010 UTA @ POR W 16 0 0 0 - 0 0 - 0 0 - 0 2 2 6 2 0 1 2 12
+p714
+aVRonnie Price UTA 11/20/2010 UTA @ POR W 13 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 7
+p715
+aVAl Jefferson UTA 11/20/2010 UTA @ POR W 41 20 8 13 61.5 0 0 - 4 4 100.0 0 14 14 2 1 2 1 1 15
+p716
+aVAndrei Kirilenko UTA 11/20/2010 UTA @ POR W 33 13 4 10 40.0 1 2 50.0 4 4 100.0 0 4 4 4 0 2 1 4 16
+p717
+aVDeron Williams UTA 11/20/2010 UTA @ POR W 37 12 3 13 23.1 0 1 0.0 6 6 100.0 1 1 2 11 3 0 5 2 -3
+p718
+aVRonnie Price UTA 11/19/2010 UTA vs. SAS L 14 5 2 6 33.3 0 2 0.0 1 1 100.0 0 0 0 0 2 0 1 2 2
+p719
+aVAndrei Kirilenko UTA 11/19/2010 UTA vs. SAS L 35 10 3 10 30.0 0 1 0.0 4 6 66.7 2 4 6 5 1 0 4 0 -17
+p720
+aVEarl Watson UTA 11/19/2010 UTA vs. SAS L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -2
+p721
+aVKyrylo Fesenko UTA 11/19/2010 UTA vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p722
+aVFrancisco Elson UTA 11/19/2010 UTA vs. SAS L 18 2 1 2 50.0 0 0 - 0 0 - 0 3 3 3 0 0 1 2 6
+p723
+aVPaul Millsap UTA 11/19/2010 UTA vs. SAS L 39 12 5 11 45.5 0 0 - 2 3 66.7 2 5 7 2 0 3 2 4 -12
+p724
+aVCJ Miles UTA 11/19/2010 UTA vs. SAS L 22 11 5 11 45.5 1 3 33.3 0 0 - 0 3 3 2 1 0 0 2 5
+p725
+aVAl Jefferson UTA 11/19/2010 UTA vs. SAS L 29 10 4 7 57.1 0 0 - 2 2 100.0 1 5 6 1 0 0 2 6 -18
+p726
+aVDeron Williams UTA 11/19/2010 UTA vs. SAS L 38 23 7 19 36.8 1 6 16.7 8 11 72.7 0 4 4 5 0 0 2 2 -10
+p727
+aVRaja Bell UTA 11/19/2010 UTA vs. SAS L 34 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 1 0 0 2 3 -14
+p728
+aVFrancisco Elson UTA 11/17/2010 UTA vs. NJN W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 2 6
+p729
+aVCJ Miles UTA 11/17/2010 UTA vs. NJN W 8 2 1 7 14.3 0 0 - 0 0 - 0 3 3 0 2 1 0 0 0
+p730
+aVRonnie Price UTA 11/17/2010 UTA vs. NJN W 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 7
+p731
+aVAl Jefferson UTA 11/17/2010 UTA vs. NJN W 35 16 7 15 46.7 0 0 - 2 2 100.0 1 8 9 1 0 3 0 3 4
+p732
+aVAndrei Kirilenko UTA 11/17/2010 UTA vs. NJN W 38 15 5 9 55.6 0 2 0.0 5 7 71.4 0 4 4 2 2 3 1 2 15
+p733
+aVDeron Williams UTA 11/17/2010 UTA vs. NJN W 36 23 5 13 38.5 1 5 20.0 12 13 92.3 0 3 3 8 2 0 1 2 8
+p734
+aVGordon Hayward UTA 11/17/2010 UTA vs. NJN W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -3
+p735
+aVRaja Bell UTA 11/17/2010 UTA vs. NJN W 35 15 6 14 42.9 0 3 0.0 3 4 75.0 2 3 5 0 0 0 0 2 3
+p736
+aVPaul Millsap UTA 11/17/2010 UTA vs. NJN W 42 19 5 15 33.3 0 0 - 9 11 81.8 2 13 15 4 2 1 1 5 8
+p737
+aVEarl Watson UTA 11/17/2010 UTA vs. NJN W 12 2 1 4 25.0 0 2 0.0 0 0 - 3 0 3 2 0 0 0 0 2
+p738
+aVAl Jefferson UTA 11/15/2010 UTA vs. OKC L 37 12 5 14 35.7 0 0 - 2 2 100.0 1 4 5 1 0 0 3 1 -9
+p739
+aVRonnie Price UTA 11/15/2010 UTA vs. OKC L 14 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 1 1 2 0 -9
+p740
+aVAndrei Kirilenko UTA 11/15/2010 UTA vs. OKC L 36 13 3 9 33.3 1 3 33.3 6 6 100.0 2 1 3 2 2 2 1 4 -1
+p741
+aVGordon Hayward UTA 11/15/2010 UTA vs. OKC L 22 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 1 0 0 2 4
+p742
+aVFrancisco Elson UTA 11/15/2010 UTA vs. OKC L 8 2 1 1 100.0 0 0 - 0 0 - 1 5 6 0 0 0 0 1 3
+p743
+aVKyrylo Fesenko UTA 11/15/2010 UTA vs. OKC L 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -3
+p744
+aVDeron Williams UTA 11/15/2010 UTA vs. OKC L 40 31 12 18 66.7 4 7 57.1 3 3 100.0 1 4 5 11 1 0 4 2 -16
+p745
+aVPaul Millsap UTA 11/15/2010 UTA vs. OKC L 40 20 8 15 53.3 1 1 100.0 3 4 75.0 2 4 6 6 2 0 2 2 -6
+p746
+aVEarl Watson UTA 11/15/2010 UTA vs. OKC L 8 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 1 1 0 0 3 9
+p747
+aVJeremy Evans UTA 11/15/2010 UTA vs. OKC L 3 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 -5
+p748
+aVCJ Miles UTA 11/15/2010 UTA vs. OKC L 26 16 7 14 50.0 0 4 0.0 2 3 66.7 1 1 2 1 0 0 0 3 -2
+p749
+aVKyrylo Fesenko UTA 11/13/2010 UTA @ CHA W 17 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 1 0 1 0 2 7
+p750
+aVRaja Bell UTA 11/13/2010 UTA @ CHA W 22 4 1 4 25.0 0 1 0.0 2 2 100.0 0 4 4 1 0 0 0 5 -13
+p751
+aVJeremy Evans UTA 11/13/2010 UTA @ CHA W 8 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -3
+p752
+aVAndrei Kirilenko UTA 11/13/2010 UTA @ CHA W 38 12 4 11 36.4 1 3 33.3 3 5 60.0 1 6 7 4 1 0 0 0 -6
+p753
+aVCJ Miles UTA 11/13/2010 UTA @ CHA W 26 14 4 13 30.8 1 3 33.3 5 5 100.0 3 3 6 3 2 0 1 5 18
+p754
+aVGordon Hayward UTA 11/13/2010 UTA @ CHA W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 2
+p755
+aVDeron Williams UTA 11/13/2010 UTA @ CHA W 35 17 5 15 33.3 1 5 20.0 6 8 75.0 1 1 2 9 0 2 3 3 1
+p756
+aVFrancisco Elson UTA 11/13/2010 UTA @ CHA W 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 4
+p757
+aVAl Jefferson UTA 11/13/2010 UTA @ CHA W 31 19 8 13 61.5 0 0 - 3 3 100.0 2 4 6 1 1 3 0 0 -6
+p758
+aVEarl Watson UTA 11/13/2010 UTA @ CHA W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 0
+p759
+aVPaul Millsap UTA 11/13/2010 UTA @ CHA W 33 17 7 11 63.6 0 0 - 3 4 75.0 1 5 6 0 0 1 1 4 0
+p760
+aVRonnie Price UTA 11/13/2010 UTA @ CHA W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 1
+p761
+aVJeremy Evans UTA 11/12/2010 UTA @ ATL W 6 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 8
+p762
+aVFrancisco Elson UTA 11/12/2010 UTA @ ATL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p763
+aVAl Jefferson UTA 11/12/2010 UTA @ ATL W 35 15 7 15 46.7 0 0 - 1 2 50.0 2 8 10 5 0 0 0 2 -9
+p764
+aVPaul Millsap UTA 11/12/2010 UTA @ ATL W 35 11 5 9 55.6 0 1 0.0 1 1 100.0 1 5 6 1 1 2 2 5 -2
+p765
+aVDeron Williams UTA 11/12/2010 UTA @ ATL W 39 24 9 19 47.4 1 4 25.0 5 6 83.3 3 2 5 11 2 0 4 1 -5
+p766
+aVRonnie Price UTA 11/12/2010 UTA @ ATL W 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -2
+p767
+aVCJ Miles UTA 11/12/2010 UTA @ ATL W 26 13 5 13 38.5 1 3 33.3 2 4 50.0 1 1 2 1 1 0 2 2 10
+p768
+aVAndrei Kirilenko UTA 11/12/2010 UTA @ ATL W 36 14 5 11 45.5 2 3 66.7 2 2 100.0 4 8 12 2 1 0 1 0 4
+p769
+aVKyrylo Fesenko UTA 11/12/2010 UTA @ ATL W 13 2 1 5 20.0 0 0 - 0 0 - 2 3 5 0 0 0 0 3 13
+p770
+aVRaja Bell UTA 11/12/2010 UTA @ ATL W 28 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 1 2 0 0 3 -6
+p771
+aVEarl Watson UTA 11/12/2010 UTA @ ATL W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 3 0 1 0 1 9
+p772
+aVPaul Millsap UTA 11/10/2010 UTA @ ORL W 39 23 8 15 53.3 0 0 - 7 8 87.5 0 5 5 3 2 0 0 4 5
+p773
+aVCJ Miles UTA 11/10/2010 UTA @ ORL W 27 5 2 4 50.0 0 1 0.0 1 1 100.0 0 3 3 2 0 1 1 2 16
+p774
+aVAndrei Kirilenko UTA 11/10/2010 UTA @ ORL W 35 12 3 9 33.3 2 4 50.0 4 4 100.0 2 4 6 3 2 0 2 1 12
+p775
+aVRaja Bell UTA 11/10/2010 UTA @ ORL W 34 8 4 5 80.0 0 1 0.0 0 0 - 1 4 5 1 3 0 1 3 2
+p776
+aVGordon Hayward UTA 11/10/2010 UTA @ ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p777
+aVFrancisco Elson UTA 11/10/2010 UTA @ ORL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -1
+p778
+aVRonnie Price UTA 11/10/2010 UTA @ ORL W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -2
+p779
+aVDeron Williams UTA 11/10/2010 UTA @ ORL W 42 30 8 19 42.1 3 7 42.9 11 12 91.7 0 5 5 14 0 0 4 1 12
+p780
+aVKyrylo Fesenko UTA 11/10/2010 UTA @ ORL W 9 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 0 0 0 4 12
+p781
+aVAl Jefferson UTA 11/10/2010 UTA @ ORL W 39 21 10 16 62.5 0 0 - 1 1 100.0 3 5 8 0 0 1 5 3 -2
+p782
+aVRaja Bell UTA 11/09/2010 UTA @ MIA W 27 3 1 6 16.7 1 2 50.0 0 0 - 0 2 2 2 0 0 0 2 -10
+p783
+aVGordon Hayward UTA 11/09/2010 UTA @ MIA W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -1
+p784
+aVFrancisco Elson UTA 11/09/2010 UTA @ MIA W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -1
+p785
+aVAndrei Kirilenko UTA 11/09/2010 UTA @ MIA W 39 16 5 12 41.7 2 3 66.7 4 4 100.0 2 7 9 7 1 1 1 1 0
+p786
+aVKyrylo Fesenko UTA 11/09/2010 UTA @ MIA W 19 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 1 1 5 11
+p787
+aVEarl Watson UTA 11/09/2010 UTA @ MIA W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p788
+aVDeron Williams UTA 11/09/2010 UTA @ MIA W 43 21 9 15 60.0 1 2 50.0 2 2 100.0 1 3 4 14 0 0 3 6 4
+p789
+aVPaul Millsap UTA 11/09/2010 UTA @ MIA W 43 46 19 28 67.9 3 3 100.0 5 7 71.4 4 5 9 1 1 1 1 4 2
+p790
+aVRonnie Price UTA 11/09/2010 UTA @ MIA W 20 5 2 5 40.0 1 2 50.0 0 0 - 1 2 3 0 1 0 3 4 6
+p791
+aVAl Jefferson UTA 11/09/2010 UTA @ MIA W 28 2 1 7 14.3 0 0 - 0 0 - 1 8 9 2 1 1 0 3 -10
+p792
+aVCJ Miles UTA 11/09/2010 UTA @ MIA W 29 12 5 14 35.7 0 6 0.0 2 2 100.0 0 4 4 4 2 1 3 5 13
+p793
+aVDeron Williams UTA 11/06/2010 UTA vs. LAC W 54 30 12 26 46.2 2 6 33.3 4 6 66.7 2 6 8 7 2 0 4 4 5
+p794
+aVRonnie Price UTA 11/06/2010 UTA vs. LAC W 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p795
+aVPaul Millsap UTA 11/06/2010 UTA vs. LAC W 42 25 9 16 56.3 0 0 - 7 9 77.8 5 8 13 2 2 0 1 5 -1
+p796
+aVAndrei Kirilenko UTA 11/06/2010 UTA vs. LAC W 48 18 6 8 75.0 2 2 100.0 4 6 66.7 1 0 1 1 0 1 0 2 -3
+p797
+aVCJ Miles UTA 11/06/2010 UTA vs. LAC W 34 2 1 13 7.7 0 5 0.0 0 0 - 2 1 3 4 1 0 0 2 2
+p798
+aVRaja Bell UTA 11/06/2010 UTA vs. LAC W 29 9 2 6 33.3 1 4 25.0 4 4 100.0 0 0 0 1 1 0 0 1 4
+p799
+aVAl Jefferson UTA 11/06/2010 UTA vs. LAC W 51 18 7 20 35.0 0 0 - 4 6 66.7 4 6 10 3 0 3 3 4 3
+p800
+aVFrancisco Elson UTA 11/06/2010 UTA vs. LAC W 13 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 0 1 0 3 8
+p801
+aVGordon Hayward UTA 11/06/2010 UTA vs. LAC W 11 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 1 -5
+p802
+aVKyrylo Fesenko UTA 11/06/2010 UTA vs. LAC W 6 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 2 0 1 0
+p803
+aVGordon Hayward UTA 11/05/2010 UTA @ GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p804
+aVPaul Millsap UTA 11/05/2010 UTA @ GSW L 39 12 6 11 54.5 0 0 - 0 0 - 2 9 11 4 2 1 3 4 -1
+p805
+aVRaja Bell UTA 11/05/2010 UTA @ GSW L 28 7 3 10 30.0 1 4 25.0 0 0 - 1 2 3 2 0 0 3 6 -5
+p806
+aVAndrei Kirilenko UTA 11/05/2010 UTA @ GSW L 27 4 0 3 0.0 0 0 - 4 4 100.0 1 3 4 2 0 2 2 0 -13
+p807
+aVEarl Watson UTA 11/05/2010 UTA @ GSW L 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 1 1 3
+p808
+aVRonnie Price UTA 11/05/2010 UTA @ GSW L 20 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 3 3 0 0 1 -2
+p809
+aVAl Jefferson UTA 11/05/2010 UTA @ GSW L 36 16 6 14 42.9 0 0 - 4 6 66.7 3 12 15 0 0 1 2 3 -16
+p810
+aVCJ Miles UTA 11/05/2010 UTA @ GSW L 22 12 4 13 30.8 1 4 25.0 3 4 75.0 2 1 3 1 2 1 0 3 4
+p811
+aVDeron Williams UTA 11/05/2010 UTA @ GSW L 38 23 9 18 50.0 1 4 25.0 4 7 57.1 1 1 2 6 1 0 8 3 -10
+p812
+aVFrancisco Elson UTA 11/05/2010 UTA @ GSW L 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 8
+p813
+aVPaul Millsap UTA 11/03/2010 UTA vs. TOR W 38 21 10 16 62.5 0 0 - 1 1 100.0 0 6 6 5 0 0 2 3 20
+p814
+aVAl Jefferson UTA 11/03/2010 UTA vs. TOR W 40 27 12 20 60.0 0 0 - 3 3 100.0 4 2 6 2 0 1 0 4 18
+p815
+aVRaja Bell UTA 11/03/2010 UTA vs. TOR W 26 9 2 6 33.3 1 2 50.0 4 4 100.0 0 3 3 0 2 0 0 2 8
+p816
+aVAndrei Kirilenko UTA 11/03/2010 UTA vs. TOR W 27 10 4 6 66.7 0 1 0.0 2 4 50.0 0 3 3 4 2 1 6 3 2
+p817
+aVDeron Williams UTA 11/03/2010 UTA vs. TOR W 41 22 7 14 50.0 0 4 0.0 8 9 88.9 1 7 8 14 2 0 3 3 23
+p818
+aVRonnie Price UTA 11/03/2010 UTA vs. TOR W 16 11 4 6 66.7 1 2 50.0 2 2 100.0 0 1 1 3 2 1 0 3 13
+p819
+aVEarl Watson UTA 11/03/2010 UTA vs. TOR W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -6
+p820
+aVGordon Hayward UTA 11/03/2010 UTA vs. TOR W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -4
+p821
+aVFrancisco Elson UTA 11/03/2010 UTA vs. TOR W 12 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 1 3 3
+p822
+aVCJ Miles UTA 11/03/2010 UTA vs. TOR W 25 19 7 12 58.3 5 6 83.3 0 0 - 0 3 3 0 1 1 1 4 8
+p823
+aVEarl Watson UTA 10/31/2010 UTA @ OKC W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 1 3
+p824
+aVRonnie Price UTA 10/31/2010 UTA @ OKC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p825
+aVGordon Hayward UTA 10/31/2010 UTA @ OKC W 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -7
+p826
+aVCJ Miles UTA 10/31/2010 UTA @ OKC W 25 21 8 13 61.5 3 5 60.0 2 3 66.7 1 3 4 0 1 1 1 3 21
+p827
+aVPaul Millsap UTA 10/31/2010 UTA @ OKC W 38 30 12 19 63.2 0 0 - 6 8 75.0 3 13 16 6 1 0 2 2 24
+p828
+aVAl Jefferson UTA 10/31/2010 UTA @ OKC W 41 23 6 14 42.9 0 0 - 11 12 91.7 2 8 10 1 1 1 2 4 20
+p829
+aVJeremy Evans UTA 10/31/2010 UTA @ OKC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -1
+p830
+aVDeron Williams UTA 10/31/2010 UTA @ OKC W 37 16 6 12 50.0 1 1 100.0 3 3 100.0 0 6 6 15 0 0 3 4 18
+p831
+aVFrancisco Elson UTA 10/31/2010 UTA @ OKC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p832
+aVAndrei Kirilenko UTA 10/31/2010 UTA @ OKC W 38 19 7 12 58.3 2 3 66.7 3 4 75.0 2 2 4 4 1 1 3 3 22
+p833
+aVRaja Bell UTA 10/31/2010 UTA @ OKC W 19 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 2 5
+p834
+aVKyrylo Fesenko UTA 10/31/2010 UTA @ OKC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p835
+aVDeron Williams UTA 10/28/2010 UTA vs. PHX L 40 13 3 12 25.0 1 3 33.3 6 7 85.7 1 3 4 6 2 0 3 5 -16
+p836
+aVFrancisco Elson UTA 10/28/2010 UTA vs. PHX L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p837
+aVAndrei Kirilenko UTA 10/28/2010 UTA vs. PHX L 32 19 5 13 38.5 1 1 100.0 8 10 80.0 0 2 2 4 2 1 3 2 -10
+p838
+aVGordon Hayward UTA 10/28/2010 UTA vs. PHX L 25 6 3 6 50.0 0 2 0.0 0 0 - 2 4 6 0 1 3 1 2 -17
+p839
+aVKyrylo Fesenko UTA 10/28/2010 UTA vs. PHX L 7 4 2 4 50.0 0 1 0.0 0 0 - 2 2 4 1 0 0 1 0 -1
+p840
+aVCJ Miles UTA 10/28/2010 UTA vs. PHX L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 4 -8
+p841
+aVEarl Watson UTA 10/28/2010 UTA vs. PHX L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -2
+p842
+aVRonnie Price UTA 10/28/2010 UTA vs. PHX L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 4
+p843
+aVRaja Bell UTA 10/28/2010 UTA vs. PHX L 37 7 3 12 25.0 1 5 20.0 0 0 - 1 3 4 4 1 0 5 4 -9
+p844
+aVAl Jefferson UTA 10/28/2010 UTA vs. PHX L 37 20 8 18 44.4 0 0 - 4 7 57.1 2 7 9 0 0 0 0 3 -14
+p845
+aVPaul Millsap UTA 10/28/2010 UTA vs. PHX L 34 19 9 13 69.2 0 0 - 1 3 33.3 6 7 13 1 1 2 1 5 -6
+p846
+aVAl Jefferson UTA 10/27/2010 UTA @ DEN L 31 6 2 6 33.3 0 0 - 2 2 100.0 1 6 7 0 0 3 1 2 -17
+p847
+aVGordon Hayward UTA 10/27/2010 UTA @ DEN L 21 9 4 11 36.4 0 2 0.0 1 2 50.0 4 1 5 0 0 0 2 3 -8
+p848
+aVRonnie Price UTA 10/27/2010 UTA @ DEN L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 1 2 -8
+p849
+aVJeremy Evans UTA 10/27/2010 UTA @ DEN L 11 11 4 5 80.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 1 2
+p850
+aVCJ Miles UTA 10/27/2010 UTA @ DEN L 14 2 0 4 0.0 0 2 0.0 2 2 100.0 0 2 2 1 1 0 1 4 -6
+p851
+aVFrancisco Elson UTA 10/27/2010 UTA @ DEN L 16 6 3 5 60.0 0 0 - 0 0 - 2 6 8 0 0 1 2 3 -5
+p852
+aVDeron Williams UTA 10/27/2010 UTA @ DEN L 28 17 3 10 30.0 2 3 66.7 9 10 90.0 0 3 3 6 0 0 4 4 -12
+p853
+aVKyrylo Fesenko UTA 10/27/2010 UTA @ DEN L 11 2 1 1 100.0 0 0 - 0 4 0.0 0 0 0 3 0 0 1 2 -9
+p854
+aVAndrei Kirilenko UTA 10/27/2010 UTA @ DEN L 19 2 0 4 0.0 0 1 0.0 2 2 100.0 1 2 3 3 1 0 4 4 -13
+p855
+aVRaja Bell UTA 10/27/2010 UTA @ DEN L 29 12 3 8 37.5 1 4 25.0 5 6 83.3 1 1 2 2 1 0 1 1 -13
+p856
+aVPaul Millsap UTA 10/27/2010 UTA @ DEN L 27 15 5 9 55.6 0 0 - 5 7 71.4 2 6 8 2 1 0 1 0 -15
+p857
+aVEarl Watson UTA 10/27/2010 UTA @ DEN L 20 6 2 5 40.0 0 0 - 2 4 50.0 0 2 2 2 2 0 4 4 -6
+p858
+a.

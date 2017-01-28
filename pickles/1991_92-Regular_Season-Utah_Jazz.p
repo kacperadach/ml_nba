@@ -1,0 +1,1634 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTyrone Corbin UTH 04/19/1992 UTH @ SAN W 32 12 4 8 50.0 0 0 - 4 4 100.0 2 8 10 1 3 0 1 3 -
+p2
+aVBlue Edwards UTH 04/19/1992 UTH @ SAN W 26 10 5 9 55.6 0 0 - 0 0 - 1 3 4 1 1 0 1 4 -
+p3
+aVMark Eaton UTH 04/19/1992 UTH @ SAN W 31 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 1 2 4 -
+p4
+aVMike Brown UTH 04/19/1992 UTH @ SAN W 22 6 3 7 42.9 0 0 - 0 0 - 1 3 4 0 1 1 2 2 -
+p5
+aVDavid Benoit UTH 04/19/1992 UTH @ SAN W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -
+p6
+aVJohn Stockton UTH 04/19/1992 UTH @ SAN W 44 17 4 13 30.8 1 3 33.3 8 8 100.0 2 6 8 21 4 0 4 3 -
+p7
+aVKarl Malone UTH 04/19/1992 UTH @ SAN W 39 34 13 21 61.9 0 0 - 8 9 88.9 1 7 8 3 1 1 3 4 -
+p8
+aVJeff Malone UTH 04/19/1992 UTH @ SAN W 37 18 8 13 61.5 0 0 - 2 2 100.0 1 2 3 2 0 0 4 2 -
+p9
+aVBlue Edwards UTH 04/17/1992 UTH vs. MIN W 38 19 9 14 64.3 0 0 - 1 2 50.0 1 4 5 2 3 0 2 2 -
+p10
+aVTyrone Corbin UTH 04/17/1992 UTH vs. MIN W 23 12 4 8 50.0 0 0 - 4 4 100.0 2 1 3 1 1 0 1 0 -
+p11
+aVMike Brown UTH 04/17/1992 UTH vs. MIN W 21 8 3 4 75.0 0 0 - 2 2 100.0 0 5 5 0 1 1 1 3 -
+p12
+aVCorey Crowder UTH 04/17/1992 UTH vs. MIN W 2 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p13
+aVBob Thornton UTH 04/17/1992 UTH vs. MIN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p14
+aVMark Eaton UTH 04/17/1992 UTH vs. MIN W 24 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 2 2 3 -
+p15
+aVDavid Benoit UTH 04/17/1992 UTH vs. MIN W 18 7 3 6 50.0 0 0 - 1 2 50.0 2 3 5 1 1 1 1 1 -
+p16
+aVKarl Malone UTH 04/17/1992 UTH vs. MIN W 36 25 7 13 53.8 0 0 - 11 14 78.6 3 8 11 4 2 1 3 4 -
+p17
+aVJohn Stockton UTH 04/17/1992 UTH vs. MIN W 36 9 2 9 22.2 0 1 0.0 5 6 83.3 1 1 2 23 5 0 4 2 -
+p18
+aVJeff Malone UTH 04/17/1992 UTH vs. MIN W 35 35 13 19 68.4 0 0 - 9 10 90.0 1 2 3 3 0 0 0 1 -
+p19
+aVDelaney Rudd UTH 04/17/1992 UTH vs. MIN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -
+p20
+aVEric Murdock UTH 04/17/1992 UTH vs. MIN W 3 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 -
+p21
+aVBob Thornton UTH 04/15/1992 UTH vs. HOU W 4 4 1 5 20.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 1 -
+p22
+aVKarl Malone UTH 04/15/1992 UTH vs. HOU W 39 29 9 17 52.9 0 0 - 11 13 84.6 5 6 11 4 1 1 0 3 -
+p23
+aVMike Brown UTH 04/15/1992 UTH vs. HOU W 23 13 4 7 57.1 0 0 - 5 6 83.3 2 7 9 2 0 0 2 2 -
+p24
+aVTyrone Corbin UTH 04/15/1992 UTH vs. HOU W 25 15 5 9 55.6 0 0 - 5 5 100.0 1 6 7 0 1 0 4 3 -
+p25
+aVEric Murdock UTH 04/15/1992 UTH vs. HOU W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -
+p26
+aVCorey Crowder UTH 04/15/1992 UTH vs. HOU W 4 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -
+p27
+aVBlue Edwards UTH 04/15/1992 UTH vs. HOU W 35 15 6 11 54.5 1 3 33.3 2 2 100.0 2 2 4 7 1 0 1 3 -
+p28
+aVMark Eaton UTH 04/15/1992 UTH vs. HOU W 21 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 1 0 3 -
+p29
+aVJohn Stockton UTH 04/15/1992 UTH vs. HOU W 35 18 9 13 69.2 0 0 - 0 2 0.0 0 2 2 11 2 0 1 2 -
+p30
+aVDavid Benoit UTH 04/15/1992 UTH vs. HOU W 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 0 0 1 3 -
+p31
+aVJeff Malone UTH 04/15/1992 UTH vs. HOU W 35 25 9 16 56.3 0 0 - 7 7 100.0 0 5 5 4 3 0 3 0 -
+p32
+aVBlue Edwards UTH 04/13/1992 UTH vs. GOS W 36 19 6 15 40.0 0 0 - 7 7 100.0 4 4 8 1 0 0 0 3 -
+p33
+aVCorey Crowder UTH 04/13/1992 UTH vs. GOS W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 -
+p34
+aVMark Eaton UTH 04/13/1992 UTH vs. GOS W 17 4 1 2 50.0 0 0 - 2 2 100.0 2 4 6 0 1 0 0 1 -
+p35
+aVJohn Stockton UTH 04/13/1992 UTH vs. GOS W 29 16 7 12 58.3 2 4 50.0 0 0 - 1 4 5 14 3 0 2 4 -
+p36
+aVKarl Malone UTH 04/13/1992 UTH vs. GOS W 36 42 11 19 57.9 0 0 - 20 24 83.3 5 7 12 3 0 0 1 3 -
+p37
+aVDavid Benoit UTH 04/13/1992 UTH vs. GOS W 26 15 7 7 100.0 0 0 - 1 2 50.0 2 9 11 0 3 2 1 3 -
+p38
+aVTyrone Corbin UTH 04/13/1992 UTH vs. GOS W 24 11 3 5 60.0 0 0 - 5 5 100.0 2 3 5 1 0 0 0 4 -
+p39
+aVJeff Malone UTH 04/13/1992 UTH vs. GOS W 34 7 3 14 21.4 0 0 - 1 1 100.0 0 2 2 0 0 0 0 3 -
+p40
+aVDelaney Rudd UTH 04/13/1992 UTH vs. GOS W 5 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 -
+p41
+aVMike Brown UTH 04/13/1992 UTH vs. GOS W 21 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 1 0 1 1 2 -
+p42
+aVEric Murdock UTH 04/13/1992 UTH vs. GOS W 6 10 2 2 100.0 0 0 - 6 6 100.0 0 1 1 3 0 0 0 1 -
+p43
+aVTyrone Corbin UTH 04/11/1992 UTH @ LAL W 32 21 8 13 61.5 0 0 - 5 5 100.0 2 2 4 0 4 0 1 3 -
+p44
+aVMike Brown UTH 04/11/1992 UTH @ LAL W 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -
+p45
+aVBlue Edwards UTH 04/11/1992 UTH @ LAL W 29 14 5 13 38.5 2 2 100.0 2 2 100.0 3 1 4 4 1 1 2 4 -
+p46
+aVKarl Malone UTH 04/11/1992 UTH @ LAL W 41 27 10 18 55.6 0 0 - 7 10 70.0 2 9 11 5 1 1 3 3 -
+p47
+aVJohn Stockton UTH 04/11/1992 UTH @ LAL W 44 5 2 7 28.6 1 4 25.0 0 2 0.0 0 3 3 11 4 0 8 2 -
+p48
+aVMark Eaton UTH 04/11/1992 UTH @ LAL W 41 6 3 6 50.0 0 0 - 0 1 0.0 0 7 7 2 1 1 2 4 -
+p49
+aVJeff Malone UTH 04/11/1992 UTH @ LAL W 39 16 7 15 46.7 0 0 - 2 2 100.0 3 1 4 5 0 0 3 2 -
+p50
+aVMark Eaton UTH 04/09/1992 UTH vs. DAL W 22 0 0 3 0.0 0 0 - 0 0 - 3 3 6 0 1 1 0 2 -
+p51
+aVJohn Stockton UTH 04/09/1992 UTH vs. DAL W 26 6 3 8 37.5 0 1 0.0 0 0 - 1 3 4 14 2 0 2 1 -
+p52
+aVDelaney Rudd UTH 04/09/1992 UTH vs. DAL W 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p53
+aVJeff Malone UTH 04/09/1992 UTH vs. DAL W 31 26 10 17 58.8 0 0 - 6 6 100.0 1 5 6 1 2 0 0 1 -
+p54
+aVTyrone Corbin UTH 04/09/1992 UTH vs. DAL W 23 14 6 8 75.0 0 0 - 2 4 50.0 2 3 5 2 2 0 0 0 -
+p55
+aVDavid Benoit UTH 04/09/1992 UTH vs. DAL W 24 9 3 6 50.0 0 0 - 3 4 75.0 2 6 8 2 0 1 3 4 -
+p56
+aVCorey Crowder UTH 04/09/1992 UTH vs. DAL W 16 6 2 7 28.6 0 2 0.0 2 2 100.0 1 1 2 0 0 0 0 0 -
+p57
+aVKarl Malone UTH 04/09/1992 UTH vs. DAL W 28 28 9 13 69.2 0 0 - 10 12 83.3 3 8 11 1 1 1 5 3 -
+p58
+aVBlue Edwards UTH 04/09/1992 UTH vs. DAL W 25 10 3 9 33.3 0 0 - 4 5 80.0 0 1 1 4 3 0 3 2 -
+p59
+aVMike Brown UTH 04/09/1992 UTH vs. DAL W 22 8 3 5 60.0 0 0 - 2 4 50.0 0 2 2 1 1 0 0 2 -
+p60
+aVEric Murdock UTH 04/09/1992 UTH vs. DAL W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 2 0 -
+p61
+aVJohn Stockton UTH 04/07/1992 UTH @ DEN W 31 12 3 6 50.0 2 4 50.0 4 4 100.0 1 3 4 10 5 0 3 2 -
+p62
+aVBlue Edwards UTH 04/07/1992 UTH @ DEN W 37 13 6 11 54.5 1 4 25.0 0 1 0.0 2 3 5 1 5 2 2 3 -
+p63
+aVDavid Benoit UTH 04/07/1992 UTH @ DEN W 19 8 4 6 66.7 0 0 - 0 0 - 3 5 8 0 0 0 4 2 -
+p64
+aVTyrone Corbin UTH 04/07/1992 UTH @ DEN W 30 17 7 11 63.6 0 0 - 3 3 100.0 3 4 7 2 3 1 2 1 -
+p65
+aVMark Eaton UTH 04/07/1992 UTH @ DEN W 21 8 3 4 75.0 0 0 - 2 2 100.0 2 5 7 0 1 3 0 4 -
+p66
+aVKarl Malone UTH 04/07/1992 UTH @ DEN W 32 24 7 16 43.8 0 1 0.0 10 10 100.0 1 2 3 3 0 0 2 1 -
+p67
+aVJeff Malone UTH 04/07/1992 UTH @ DEN W 32 23 10 21 47.6 0 0 - 3 3 100.0 0 3 3 4 1 0 1 0 -
+p68
+aVDelaney Rudd UTH 04/07/1992 UTH @ DEN W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 -
+p69
+aVCorey Crowder UTH 04/07/1992 UTH @ DEN W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p70
+aVEric Murdock UTH 04/07/1992 UTH @ DEN W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p71
+aVMike Brown UTH 04/07/1992 UTH @ DEN W 25 10 4 11 36.4 0 0 - 2 2 100.0 5 4 9 1 0 0 2 4 -
+p72
+aVJeff Malone UTH 04/05/1992 UTH @ MIN L 37 18 9 20 45.0 0 0 - 0 0 - 0 1 1 1 1 0 2 0 -
+p73
+aVDavid Benoit UTH 04/05/1992 UTH @ MIN L 15 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 -
+p74
+aVTyrone Corbin UTH 04/05/1992 UTH @ MIN L 29 2 1 4 25.0 0 0 - 0 0 - 2 4 6 3 0 0 1 2 -
+p75
+aVBlue Edwards UTH 04/05/1992 UTH @ MIN L 32 12 5 8 62.5 2 3 66.7 0 0 - 2 5 7 2 0 1 2 4 -
+p76
+aVMark Eaton UTH 04/05/1992 UTH @ MIN L 25 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 5 1 2 -
+p77
+aVKarl Malone UTH 04/05/1992 UTH @ MIN L 39 33 11 23 47.8 1 1 100.0 10 11 90.9 5 8 13 5 2 1 6 4 -
+p78
+aVJohn Stockton UTH 04/05/1992 UTH @ MIN L 36 18 6 11 54.5 0 2 0.0 6 6 100.0 1 3 4 12 2 1 4 4 -
+p79
+aVDelaney Rudd UTH 04/05/1992 UTH @ MIN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -
+p80
+aVMike Brown UTH 04/05/1992 UTH @ MIN L 15 2 1 4 25.0 0 0 - 0 0 - 0 6 6 1 0 1 0 0 -
+p81
+aVEric Murdock UTH 04/05/1992 UTH @ MIN L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -
+p82
+aVCorey Crowder UTH 04/03/1992 UTH vs. PHX W 2 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -
+p83
+aVMark Eaton UTH 04/03/1992 UTH vs. PHX W 13 2 0 1 0.0 0 0 - 2 2 100.0 3 4 7 0 0 0 0 0 -
+p84
+aVDelaney Rudd UTH 04/03/1992 UTH vs. PHX W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p85
+aVMike Brown UTH 04/03/1992 UTH vs. PHX W 20 14 6 8 75.0 0 0 - 2 4 50.0 1 2 3 1 2 0 0 2 -
+p86
+aVKarl Malone UTH 04/03/1992 UTH vs. PHX W 37 32 10 21 47.6 0 0 - 12 15 80.0 2 9 11 0 0 0 5 3 -
+p87
+aVJohn Stockton UTH 04/03/1992 UTH vs. PHX W 39 17 8 14 57.1 0 2 0.0 1 1 100.0 1 1 2 13 4 0 1 0 -
+p88
+aVJeff Malone UTH 04/03/1992 UTH vs. PHX W 35 25 10 20 50.0 0 0 - 5 5 100.0 1 2 3 1 2 0 0 3 -
+p89
+aVBlue Edwards UTH 04/03/1992 UTH vs. PHX W 26 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 4 -
+p90
+aVTyrone Corbin UTH 04/03/1992 UTH vs. PHX W 30 6 3 6 50.0 0 0 - 0 0 - 2 5 7 1 0 1 3 2 -
+p91
+aVDavid Benoit UTH 04/03/1992 UTH vs. PHX W 24 2 0 7 0.0 0 1 0.0 2 2 100.0 3 5 8 0 1 0 0 2 -
+p92
+aVEric Murdock UTH 04/03/1992 UTH vs. PHX W 8 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -
+p93
+aVBlue Edwards UTH 04/02/1992 UTH @ POR L 23 9 4 9 44.4 1 1 100.0 0 0 - 1 0 1 1 2 0 1 0 -
+p94
+aVKarl Malone UTH 04/02/1992 UTH @ POR L 29 10 4 10 40.0 0 0 - 2 3 66.7 3 5 8 2 2 0 2 1 -
+p95
+aVDavid Benoit UTH 04/02/1992 UTH @ POR L 19 6 0 3 0.0 0 0 - 6 6 100.0 1 3 4 0 0 0 1 3 -
+p96
+aVMark Eaton UTH 04/02/1992 UTH @ POR L 26 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 0 2 1 4 -
+p97
+aVMike Brown UTH 04/02/1992 UTH @ POR L 14 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 3 -
+p98
+aVEric Murdock UTH 04/02/1992 UTH @ POR L 18 4 1 10 10.0 0 3 0.0 2 2 100.0 0 0 0 5 1 0 0 2 -
+p99
+aVJeff Malone UTH 04/02/1992 UTH @ POR L 29 17 7 14 50.0 0 0 - 3 3 100.0 0 1 1 2 0 0 1 1 -
+p100
+aVCorey Crowder UTH 04/02/1992 UTH @ POR L 11 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -
+p101
+aVJohn Stockton UTH 04/02/1992 UTH @ POR L 30 12 6 11 54.5 0 0 - 0 0 - 0 1 1 3 2 0 5 2 -
+p102
+aVTyrone Corbin UTH 04/02/1992 UTH @ POR L 25 15 5 9 55.6 0 0 - 5 5 100.0 0 5 5 1 1 0 2 2 -
+p103
+aVDelaney Rudd UTH 04/02/1992 UTH @ POR L 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 2 0 2 1 -
+p104
+aVDavid Benoit UTH 03/31/1992 UTH @ SEA L 15 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 1 1 3 1 0 -
+p105
+aVMark Eaton UTH 03/31/1992 UTH @ SEA L 16 8 2 4 50.0 0 0 - 4 5 80.0 3 2 5 2 0 1 0 2 -
+p106
+aVDelaney Rudd UTH 03/31/1992 UTH @ SEA L 2 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p107
+aVBlue Edwards UTH 03/31/1992 UTH @ SEA L 32 14 6 13 46.2 0 1 0.0 2 2 100.0 3 1 4 2 1 2 0 5 -
+p108
+aVCorey Crowder UTH 03/31/1992 UTH @ SEA L 2 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -
+p109
+aVTyrone Corbin UTH 03/31/1992 UTH @ SEA L 30 8 4 7 57.1 0 0 - 0 0 - 1 4 5 2 0 0 1 2 -
+p110
+aVJeff Malone UTH 03/31/1992 UTH @ SEA L 36 21 10 19 52.6 0 0 - 1 1 100.0 1 1 2 3 1 0 2 0 -
+p111
+aVMike Brown UTH 03/31/1992 UTH @ SEA L 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 4 4 -
+p112
+aVEric Murdock UTH 03/31/1992 UTH @ SEA L 11 2 0 4 0.0 0 1 0.0 2 2 100.0 1 2 3 0 1 1 2 1 -
+p113
+aVJohn Stockton UTH 03/31/1992 UTH @ SEA L 37 17 6 10 60.0 2 4 50.0 3 3 100.0 1 2 3 8 2 0 5 3 -
+p114
+aVKarl Malone UTH 03/31/1992 UTH @ SEA L 41 24 9 12 75.0 0 0 - 6 7 85.7 1 6 7 3 1 0 5 1 -
+p115
+aVDelaney Rudd UTH 03/30/1992 UTH vs. MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p116
+aVDavid Benoit UTH 03/30/1992 UTH vs. MIL W 18 10 3 5 60.0 0 0 - 4 5 80.0 2 5 7 1 0 0 0 1 -
+p117
+aVEric Murdock UTH 03/30/1992 UTH vs. MIL W 9 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -
+p118
+aVBlue Edwards UTH 03/30/1992 UTH vs. MIL W 35 16 8 15 53.3 0 0 - 0 0 - 2 4 6 1 2 2 3 4 -
+p119
+aVJeff Malone UTH 03/30/1992 UTH vs. MIL W 33 30 15 22 68.2 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -
+p120
+aVCorey Crowder UTH 03/30/1992 UTH vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p121
+aVKarl Malone UTH 03/30/1992 UTH vs. MIL W 34 27 8 16 50.0 0 0 - 11 11 100.0 2 7 9 3 1 0 3 3 -
+p122
+aVTyrone Corbin UTH 03/30/1992 UTH vs. MIL W 22 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 1 0 0 1 -
+p123
+aVMark Eaton UTH 03/30/1992 UTH vs. MIL W 26 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 4 0 3 -
+p124
+aVMike Brown UTH 03/30/1992 UTH vs. MIL W 17 6 2 7 28.6 0 0 - 2 2 100.0 4 4 8 1 0 1 1 1 -
+p125
+aVJohn Stockton UTH 03/30/1992 UTH vs. MIL W 37 16 6 16 37.5 1 4 25.0 3 4 75.0 2 1 3 13 4 0 2 2 -
+p126
+aVMike Brown UTH 03/27/1992 UTH vs. LAL L 19 4 2 9 22.2 0 1 0.0 0 0 - 2 4 6 2 0 0 0 2 -
+p127
+aVDavid Benoit UTH 03/27/1992 UTH vs. LAL L 22 12 5 10 50.0 0 1 0.0 2 2 100.0 2 0 2 0 1 1 0 2 -
+p128
+aVDelaney Rudd UTH 03/27/1992 UTH vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -
+p129
+aVMark Eaton UTH 03/27/1992 UTH vs. LAL L 29 6 3 3 100.0 0 0 - 0 2 0.0 2 2 4 0 0 1 0 0 -
+p130
+aVCorey Crowder UTH 03/27/1992 UTH vs. LAL L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p131
+aVEric Murdock UTH 03/27/1992 UTH vs. LAL L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -
+p132
+aVJohn Stockton UTH 03/27/1992 UTH vs. LAL L 38 17 6 14 42.9 0 5 0.0 5 5 100.0 1 3 4 12 2 0 6 4 -
+p133
+aVTyrone Corbin UTH 03/27/1992 UTH vs. LAL L 31 8 4 6 66.7 0 0 - 0 0 - 4 3 7 4 0 0 3 2 -
+p134
+aVJeff Malone UTH 03/27/1992 UTH vs. LAL L 36 10 4 12 33.3 0 0 - 2 2 100.0 1 1 2 2 1 0 0 2 -
+p135
+aVKarl Malone UTH 03/27/1992 UTH vs. LAL L 42 31 13 22 59.1 0 0 - 5 6 83.3 4 11 15 4 0 1 2 6 -
+p136
+aVJeff Malone UTH 03/25/1992 UTH vs. PHL W 38 18 7 16 43.8 0 0 - 4 4 100.0 0 3 3 5 0 1 2 4 -
+p137
+aVBlue Edwards UTH 03/25/1992 UTH vs. PHL W 24 8 3 8 37.5 1 1 100.0 1 2 50.0 0 1 1 2 1 0 0 1 -
+p138
+aVEric Murdock UTH 03/25/1992 UTH vs. PHL W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -
+p139
+aVKarl Malone UTH 03/25/1992 UTH vs. PHL W 39 28 11 20 55.0 0 0 - 6 9 66.7 0 10 10 6 1 0 1 3 -
+p140
+aVDavid Benoit UTH 03/25/1992 UTH vs. PHL W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -
+p141
+aVMike Brown UTH 03/25/1992 UTH vs. PHL W 13 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 0 0 0 3 0 -
+p142
+aVJohn Stockton UTH 03/25/1992 UTH vs. PHL W 38 12 3 6 50.0 0 2 0.0 6 9 66.7 0 4 4 12 7 1 5 3 -
+p143
+aVTyrone Corbin UTH 03/25/1992 UTH vs. PHL W 34 21 9 9 100.0 0 0 - 3 3 100.0 2 4 6 0 1 0 0 3 -
+p144
+aVMark Eaton UTH 03/25/1992 UTH vs. PHL W 34 4 2 3 66.7 0 0 - 0 0 - 0 7 7 0 2 5 2 5 -
+p145
+aVJeff Malone UTH 03/21/1992 UTH vs. POR W 35 14 6 15 40.0 0 0 - 2 2 100.0 2 2 4 4 2 0 2 2 -
+p146
+aVMike Brown UTH 03/21/1992 UTH vs. POR W 14 2 0 1 0.0 0 0 - 2 4 50.0 0 2 2 1 0 0 1 0 -
+p147
+aVEric Murdock UTH 03/21/1992 UTH vs. POR W 10 8 4 6 66.7 0 0 - 0 0 - 0 0 0 1 2 0 1 1 -
+p148
+aVDavid Benoit UTH 03/21/1992 UTH vs. POR W 20 12 4 8 50.0 0 0 - 4 5 80.0 0 3 3 0 0 0 0 0 -
+p149
+aVTyrone Corbin UTH 03/21/1992 UTH vs. POR W 30 13 4 9 44.4 0 0 - 5 6 83.3 8 4 12 2 1 1 0 3 -
+p150
+aVMark Eaton UTH 03/21/1992 UTH vs. POR W 26 2 1 3 33.3 0 0 - 0 1 0.0 0 4 4 0 1 8 0 1 -
+p151
+aVBlue Edwards UTH 03/21/1992 UTH vs. POR W 31 11 5 7 71.4 1 1 100.0 0 0 - 1 2 3 1 2 0 3 3 -
+p152
+aVJohn Stockton UTH 03/21/1992 UTH vs. POR W 38 11 4 9 44.4 0 0 - 3 5 60.0 0 5 5 10 4 0 5 4 -
+p153
+aVKarl Malone UTH 03/21/1992 UTH vs. POR W 36 22 6 21 28.6 0 0 - 10 12 83.3 3 15 18 0 0 0 2 3 -
+p154
+aVMark Eaton UTH 03/19/1992 UTH vs. DEN W 24 7 1 2 50.0 0 0 - 5 6 83.3 1 3 4 0 0 7 1 5 -
+p155
+aVMike Brown UTH 03/19/1992 UTH vs. DEN W 19 9 2 8 25.0 0 0 - 5 8 62.5 3 0 3 2 0 0 1 0 -
+p156
+aVJeff Malone UTH 03/19/1992 UTH vs. DEN W 37 22 9 18 50.0 0 0 - 4 4 100.0 0 2 2 5 0 0 3 2 -
+p157
+aVDelaney Rudd UTH 03/19/1992 UTH vs. DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -
+p158
+aVJohn Stockton UTH 03/19/1992 UTH vs. DEN W 37 19 6 13 46.2 0 1 0.0 7 7 100.0 1 2 3 13 2 0 2 4 -
+p159
+aVCorey Crowder UTH 03/19/1992 UTH vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p160
+aVKarl Malone UTH 03/19/1992 UTH vs. DEN W 42 31 11 17 64.7 0 0 - 9 14 64.3 3 10 13 3 4 1 3 1 -
+p161
+aVBlue Edwards UTH 03/19/1992 UTH vs. DEN W 25 8 4 8 50.0 0 0 - 0 0 - 4 5 9 2 0 1 2 1 -
+p162
+aVEric Murdock UTH 03/19/1992 UTH vs. DEN W 11 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 2 1 0 0 0 -
+p163
+aVTyrone Corbin UTH 03/19/1992 UTH vs. DEN W 30 8 3 5 60.0 0 0 - 2 2 100.0 2 3 5 3 0 0 2 2 -
+p164
+aVDavid Benoit UTH 03/19/1992 UTH vs. DEN W 11 7 2 4 50.0 0 0 - 3 4 75.0 2 3 5 1 0 2 0 1 -
+p165
+aVKarl Malone UTH 03/15/1992 UTH @ HOU L 42 36 14 29 48.3 0 1 0.0 8 13 61.5 6 10 16 1 2 1 4 5 -
+p166
+aVDelaney Rudd UTH 03/15/1992 UTH @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p167
+aVJeff Malone UTH 03/15/1992 UTH @ HOU L 36 10 4 12 33.3 0 0 - 2 2 100.0 2 2 4 2 2 0 3 1 -
+p168
+aVMark Eaton UTH 03/15/1992 UTH @ HOU L 36 1 0 3 0.0 0 0 - 1 4 25.0 3 4 7 1 0 1 0 5 -
+p169
+aVMike Brown UTH 03/15/1992 UTH @ HOU L 14 10 3 5 60.0 0 0 - 4 6 66.7 3 3 6 0 0 0 0 2 -
+p170
+aVBlue Edwards UTH 03/15/1992 UTH @ HOU L 36 11 5 11 45.5 0 1 0.0 1 1 100.0 1 2 3 0 0 0 2 4 -
+p171
+aVEric Murdock UTH 03/15/1992 UTH @ HOU L 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 1 0 3 -
+p172
+aVDavid Benoit UTH 03/15/1992 UTH @ HOU L 6 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 0 0 1 1 1 -
+p173
+aVJohn Stockton UTH 03/15/1992 UTH @ HOU L 42 25 9 15 60.0 3 6 50.0 4 5 80.0 1 2 3 16 4 0 4 4 -
+p174
+aVTyrone Corbin UTH 03/15/1992 UTH @ HOU L 21 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -
+p175
+aVMark Eaton UTH 03/14/1992 UTH @ SAN L 23 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 0 1 0 3 -
+p176
+aVEric Murdock UTH 03/14/1992 UTH @ SAN L 10 3 0 0 - 0 0 - 3 4 75.0 0 1 1 1 0 0 0 1 -
+p177
+aVJeff Malone UTH 03/14/1992 UTH @ SAN L 36 23 8 15 53.3 0 0 - 7 8 87.5 0 3 3 1 2 0 3 3 -
+p178
+aVTyrone Corbin UTH 03/14/1992 UTH @ SAN L 29 10 3 7 42.9 0 0 - 4 4 100.0 1 2 3 1 1 1 2 1 -
+p179
+aVKarl Malone UTH 03/14/1992 UTH @ SAN L 36 15 6 18 33.3 0 0 - 3 5 60.0 1 4 5 2 2 1 2 2 -
+p180
+aVBlue Edwards UTH 03/14/1992 UTH @ SAN L 31 14 7 9 77.8 0 1 0.0 0 0 - 1 6 7 2 1 1 1 5 -
+p181
+aVDavid Benoit UTH 03/14/1992 UTH @ SAN L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p182
+aVMike Brown UTH 03/14/1992 UTH @ SAN L 28 9 3 7 42.9 0 0 - 3 4 75.0 1 3 4 1 1 0 3 5 -
+p183
+aVJohn Stockton UTH 03/14/1992 UTH @ SAN L 38 24 9 11 81.8 5 5 100.0 1 1 100.0 0 1 1 10 6 0 4 5 -
+p184
+aVKarl Malone UTH 03/12/1992 UTH @ SAC W 43 40 14 22 63.6 0 0 - 12 13 92.3 3 8 11 2 3 3 2 2 -
+p185
+aVJeff Malone UTH 03/12/1992 UTH @ SAC W 40 19 8 15 53.3 0 0 - 3 4 75.0 0 2 2 3 2 0 1 1 -
+p186
+aVJohn Stockton UTH 03/12/1992 UTH @ SAC W 36 16 5 8 62.5 1 1 100.0 5 6 83.3 0 7 7 12 3 0 3 2 -
+p187
+aVTyrone Corbin UTH 03/12/1992 UTH @ SAC W 31 7 3 8 37.5 0 0 - 1 1 100.0 5 4 9 4 0 1 2 2 -
+p188
+aVDavid Benoit UTH 03/12/1992 UTH @ SAC W 13 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 0 1 4 -
+p189
+aVMike Brown UTH 03/12/1992 UTH @ SAC W 20 8 3 7 42.9 0 0 - 2 2 100.0 4 1 5 1 0 0 0 4 -
+p190
+aVEric Murdock UTH 03/12/1992 UTH @ SAC W 12 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 2 1 0 2 3 -
+p191
+aVBlue Edwards UTH 03/12/1992 UTH @ SAC W 25 9 2 12 16.7 0 1 0.0 5 7 71.4 1 7 8 1 0 0 3 1 -
+p192
+aVMark Eaton UTH 03/12/1992 UTH @ SAC W 19 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 1 4 1 4 -
+p193
+aVMark Eaton UTH 03/08/1992 UTH @ DEN W 26 2 1 1 100.0 0 0 - 0 0 - 3 8 11 0 1 6 0 3 -
+p194
+aVEric Murdock UTH 03/08/1992 UTH @ DEN W 16 9 3 8 37.5 1 2 50.0 2 4 50.0 2 3 5 1 0 1 3 1 -
+p195
+aVDavid Benoit UTH 03/08/1992 UTH @ DEN W 15 11 5 8 62.5 0 0 - 1 2 50.0 4 1 5 0 0 0 0 0 -
+p196
+aVTyrone Corbin UTH 03/08/1992 UTH @ DEN W 28 4 1 9 11.1 0 0 - 2 2 100.0 2 4 6 1 1 1 0 2 -
+p197
+aVJohn Stockton UTH 03/08/1992 UTH @ DEN W 32 13 4 8 50.0 0 1 0.0 5 6 83.3 1 0 1 13 4 1 2 1 -
+p198
+aVMike Brown UTH 03/08/1992 UTH @ DEN W 17 11 5 7 71.4 0 0 - 1 1 100.0 2 1 3 0 1 0 3 2 -
+p199
+aVJeff Malone UTH 03/08/1992 UTH @ DEN W 34 20 10 19 52.6 0 0 - 0 0 - 1 2 3 2 0 0 1 0 -
+p200
+aVCorey Crowder UTH 03/08/1992 UTH @ DEN W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 -
+p201
+aVBlue Edwards UTH 03/08/1992 UTH @ DEN W 27 10 5 11 45.5 0 0 - 0 0 - 0 3 3 3 1 1 2 3 -
+p202
+aVDelaney Rudd UTH 03/08/1992 UTH @ DEN W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -
+p203
+aVKarl Malone UTH 03/08/1992 UTH @ DEN W 34 23 8 12 66.7 0 0 - 7 10 70.0 1 9 10 2 1 0 2 3 -
+p204
+aVDelaney Rudd UTH 03/06/1992 UTH vs. NJN W 4 1 0 3 0.0 0 1 0.0 1 2 50.0 1 0 1 0 1 0 2 0 -
+p205
+aVTyrone Corbin UTH 03/06/1992 UTH vs. NJN W 21 4 2 4 50.0 0 0 - 0 0 - 1 5 6 2 0 0 0 3 -
+p206
+aVJohn Stockton UTH 03/06/1992 UTH vs. NJN W 33 17 6 11 54.5 1 2 50.0 4 7 57.1 0 0 0 16 4 2 4 1 -
+p207
+aVBlue Edwards UTH 03/06/1992 UTH vs. NJN W 23 11 4 8 50.0 1 1 100.0 2 2 100.0 1 2 3 0 0 0 3 1 -
+p208
+aVMark Eaton UTH 03/06/1992 UTH vs. NJN W 27 4 2 4 50.0 0 0 - 0 2 0.0 1 4 5 0 0 2 0 2 -
+p209
+aVEric Murdock UTH 03/06/1992 UTH vs. NJN W 15 6 3 5 60.0 0 0 - 0 0 - 2 3 5 4 1 0 2 1 -
+p210
+aVKarl Malone UTH 03/06/1992 UTH vs. NJN W 30 25 8 10 80.0 0 0 - 9 13 69.2 0 6 6 3 3 1 2 3 -
+p211
+aVDavid Benoit UTH 03/06/1992 UTH vs. NJN W 20 7 3 10 30.0 1 2 50.0 0 0 - 5 3 8 2 0 0 0 2 -
+p212
+aVJeff Malone UTH 03/06/1992 UTH vs. NJN W 31 27 13 17 76.5 0 0 - 1 1 100.0 0 0 0 1 0 0 2 0 -
+p213
+aVCorey Crowder UTH 03/06/1992 UTH vs. NJN W 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 2 0 0 2 -
+p214
+aVMike Brown UTH 03/06/1992 UTH vs. NJN W 17 8 1 3 33.3 0 0 - 6 8 75.0 2 5 7 2 2 0 1 3 -
+p215
+aVEric Murdock UTH 03/04/1992 UTH vs. SAN W 12 6 3 5 60.0 0 0 - 0 0 - 0 0 0 3 0 0 2 1 -
+p216
+aVBlue Edwards UTH 03/04/1992 UTH vs. SAN W 32 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 4 1 0 0 3 -
+p217
+aVTyrone Corbin UTH 03/04/1992 UTH vs. SAN W 29 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 1 0 1 3 -
+p218
+aVMark Eaton UTH 03/04/1992 UTH vs. SAN W 30 5 2 6 33.3 0 0 - 1 2 50.0 2 7 9 1 3 2 0 3 -
+p219
+aVJohn Stockton UTH 03/04/1992 UTH vs. SAN W 36 8 3 7 42.9 0 1 0.0 2 3 66.7 0 3 3 15 0 0 3 2 -
+p220
+aVJeff Malone UTH 03/04/1992 UTH vs. SAN W 34 24 11 17 64.7 0 0 - 2 2 100.0 1 1 2 2 0 0 1 0 -
+p221
+aVKarl Malone UTH 03/04/1992 UTH vs. SAN W 38 26 8 16 50.0 0 0 - 10 11 90.9 1 13 14 1 0 1 2 4 -
+p222
+aVDavid Benoit UTH 03/04/1992 UTH vs. SAN W 6 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -
+p223
+aVMike Brown UTH 03/04/1992 UTH vs. SAN W 23 17 5 8 62.5 0 0 - 7 8 87.5 3 3 6 2 0 2 1 3 -
+p224
+aVJohn Stockton UTH 03/03/1992 UTH @ GOS W 35 15 5 12 41.7 0 1 0.0 5 5 100.0 2 2 4 16 4 0 5 4 -
+p225
+aVDavid Benoit UTH 03/03/1992 UTH @ GOS W 17 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 1 0 2 4 -
+p226
+aVEric Murdock UTH 03/03/1992 UTH @ GOS W 13 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 4 0 0 3 0 -
+p227
+aVMark Eaton UTH 03/03/1992 UTH @ GOS W 15 5 2 2 100.0 0 0 - 1 2 50.0 0 4 4 0 2 0 0 1 -
+p228
+aVTyrone Corbin UTH 03/03/1992 UTH @ GOS W 31 4 2 7 28.6 0 0 - 0 0 - 0 10 10 3 1 0 1 2 -
+p229
+aVCorey Crowder UTH 03/03/1992 UTH @ GOS W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p230
+aVKarl Malone UTH 03/03/1992 UTH @ GOS W 40 44 16 21 76.2 0 0 - 12 12 100.0 4 7 11 5 2 2 4 3 -
+p231
+aVBlue Edwards UTH 03/03/1992 UTH @ GOS W 27 9 4 9 44.4 0 1 0.0 1 2 50.0 1 3 4 1 0 1 2 1 -
+p232
+aVJeff Malone UTH 03/03/1992 UTH @ GOS W 36 18 9 17 52.9 0 0 - 0 1 0.0 2 1 3 3 0 0 3 2 -
+p233
+aVMike Brown UTH 03/03/1992 UTH @ GOS W 21 13 5 6 83.3 0 0 - 3 6 50.0 2 1 3 0 0 0 1 3 -
+p234
+aVBlue Edwards UTH 03/01/1992 UTH @ PHX L 33 23 9 16 56.3 1 1 100.0 4 6 66.7 1 4 5 3 1 1 0 5 -
+p235
+aVTyrone Corbin UTH 03/01/1992 UTH @ PHX L 17 10 5 6 83.3 0 0 - 0 1 0.0 0 1 1 0 0 0 1 0 -
+p236
+aVJeff Malone UTH 03/01/1992 UTH @ PHX L 39 19 9 16 56.3 0 0 - 1 1 100.0 0 0 0 3 1 0 4 3 -
+p237
+aVMike Brown UTH 03/01/1992 UTH @ PHX L 9 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 1 3 3 -
+p238
+aVDelaney Rudd UTH 03/01/1992 UTH @ PHX L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p239
+aVKarl Malone UTH 03/01/1992 UTH @ PHX L 45 26 6 13 46.2 0 0 - 14 14 100.0 5 8 13 2 0 1 3 2 -
+p240
+aVMark Eaton UTH 03/01/1992 UTH @ PHX L 25 1 0 3 0.0 0 0 - 1 2 50.0 3 6 9 2 0 4 0 3 -
+p241
+aVDavid Benoit UTH 03/01/1992 UTH @ PHX L 23 13 6 9 66.7 0 1 0.0 1 1 100.0 1 4 5 1 0 0 2 3 -
+p242
+aVJohn Stockton UTH 03/01/1992 UTH @ PHX L 48 14 5 16 31.3 1 3 33.3 3 5 60.0 0 2 2 18 2 0 2 3 -
+p243
+aVTyrone Corbin UTH 02/27/1992 UTH vs. SEA L 21 10 4 6 66.7 0 0 - 2 2 100.0 2 3 5 1 0 0 0 5 -
+p244
+aVKarl Malone UTH 02/27/1992 UTH vs. SEA L 44 35 14 23 60.9 0 1 0.0 7 9 77.8 6 6 12 5 1 0 2 3 -
+p245
+aVJeff Malone UTH 02/27/1992 UTH vs. SEA L 40 14 7 18 38.9 0 3 0.0 0 2 0.0 0 3 3 3 0 0 2 1 -
+p246
+aVDelaney Rudd UTH 02/27/1992 UTH vs. SEA L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 3 -
+p247
+aVEric Murdock UTH 02/27/1992 UTH vs. SEA L 9 0 0 4 0.0 0 1 0.0 0 2 0.0 0 1 1 2 0 0 1 1 -
+p248
+aVDavid Benoit UTH 02/27/1992 UTH vs. SEA L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -
+p249
+aVJohn Stockton UTH 02/27/1992 UTH vs. SEA L 44 25 6 12 50.0 3 6 50.0 10 10 100.0 2 1 3 19 5 0 5 4 -
+p250
+aVMike Brown UTH 02/27/1992 UTH vs. SEA L 20 9 3 4 75.0 0 0 - 3 4 75.0 0 5 5 2 1 1 1 2 -
+p251
+aVMark Eaton UTH 02/27/1992 UTH vs. SEA L 41 2 1 4 25.0 0 0 - 0 0 - 2 5 7 0 0 4 0 1 -
+p252
+aVBlue Edwards UTH 02/27/1992 UTH vs. SEA L 40 24 10 19 52.6 2 4 50.0 2 3 66.7 2 4 6 1 0 0 4 5 -
+p253
+aVBlue Edwards UTH 02/25/1992 UTH @ LAC W 24 12 5 10 50.0 0 0 - 2 2 100.0 1 0 1 3 3 0 1 2 -
+p254
+aVEric Murdock UTH 02/25/1992 UTH @ LAC W 11 5 2 3 66.7 0 1 0.0 1 2 50.0 1 2 3 4 2 0 1 2 -
+p255
+aVMark Eaton UTH 02/25/1992 UTH @ LAC W 30 2 1 1 100.0 0 0 - 0 0 - 0 4 4 2 0 4 0 2 -
+p256
+aVJohn Stockton UTH 02/25/1992 UTH @ LAC W 37 13 5 8 62.5 1 1 100.0 2 2 100.0 0 0 0 12 4 0 6 2 -
+p257
+aVDelaney Rudd UTH 02/25/1992 UTH @ LAC W 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p258
+aVMike Brown UTH 02/25/1992 UTH @ LAC W 18 9 3 6 50.0 0 0 - 3 5 60.0 0 5 5 0 0 0 1 3 -
+p259
+aVDavid Benoit UTH 02/25/1992 UTH @ LAC W 16 10 4 6 66.7 0 0 - 2 2 100.0 3 0 3 0 0 2 3 1 -
+p260
+aVJeff Malone UTH 02/25/1992 UTH @ LAC W 34 12 5 14 35.7 0 0 - 2 2 100.0 0 3 3 2 0 0 1 0 -
+p261
+aVKarl Malone UTH 02/25/1992 UTH @ LAC W 38 33 9 16 56.3 0 0 - 15 17 88.2 3 6 9 1 1 3 3 1 -
+p262
+aVTyrone Corbin UTH 02/25/1992 UTH @ LAC W 27 6 1 6 16.7 0 0 - 4 4 100.0 2 2 4 1 2 0 1 1 -
+p263
+aVEric Murdock UTH 02/24/1992 UTH @ POR L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 3 1 -
+p264
+aVTyrone Corbin UTH 02/24/1992 UTH @ POR L 27 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 4 1 2 3 -
+p265
+aVKarl Malone UTH 02/24/1992 UTH @ POR L 40 30 12 22 54.5 0 0 - 6 6 100.0 2 7 9 2 2 0 3 4 -
+p266
+aVBlue Edwards UTH 02/24/1992 UTH @ POR L 34 21 8 14 57.1 1 4 25.0 4 4 100.0 1 1 2 2 0 0 1 4 -
+p267
+aVMark Eaton UTH 02/24/1992 UTH @ POR L 27 4 1 2 50.0 0 0 - 2 2 100.0 3 4 7 0 0 1 0 3 -
+p268
+aVJeff Malone UTH 02/24/1992 UTH @ POR L 35 18 9 18 50.0 0 1 0.0 0 1 0.0 1 1 2 3 0 0 4 2 -
+p269
+aVJohn Stockton UTH 02/24/1992 UTH @ POR L 38 21 7 14 50.0 1 4 25.0 6 6 100.0 2 1 3 15 4 0 3 4 -
+p270
+aVDavid Benoit UTH 02/24/1992 UTH @ POR L 14 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 0 0 0 0 -
+p271
+aVMike Brown UTH 02/24/1992 UTH @ POR L 15 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -
+p272
+aVJohn Stockton UTH 02/21/1992 UTH vs. HOU W 31 18 8 10 80.0 0 0 - 2 2 100.0 1 2 3 15 1 1 7 3 -
+p273
+aVJeff Malone UTH 02/21/1992 UTH vs. HOU W 30 28 12 16 75.0 0 0 - 4 4 100.0 0 0 0 1 0 0 1 1 -
+p274
+aVKarl Malone UTH 02/21/1992 UTH vs. HOU W 33 22 7 11 63.6 0 0 - 8 10 80.0 0 10 10 7 0 0 2 4 -
+p275
+aVCorey Crowder UTH 02/21/1992 UTH vs. HOU W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p276
+aVMike Brown UTH 02/21/1992 UTH vs. HOU W 25 7 2 4 50.0 0 0 - 3 5 60.0 3 6 9 1 0 0 1 3 -
+p277
+aVDavid Benoit UTH 02/21/1992 UTH vs. HOU W 18 7 2 6 33.3 0 0 - 3 4 75.0 3 4 7 0 0 2 0 0 -
+p278
+aVDelaney Rudd UTH 02/21/1992 UTH vs. HOU W 7 6 3 7 42.9 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p279
+aVBlue Edwards UTH 02/21/1992 UTH vs. HOU W 32 16 7 14 50.0 1 2 50.0 1 1 100.0 0 3 3 1 1 0 1 3 -
+p280
+aVTyrone Corbin UTH 02/21/1992 UTH vs. HOU W 26 6 3 7 42.9 0 0 - 0 0 - 1 4 5 2 2 0 1 1 -
+p281
+aVEric Murdock UTH 02/21/1992 UTH vs. HOU W 13 12 3 4 75.0 0 0 - 6 6 100.0 0 1 1 3 1 0 0 1 -
+p282
+aVMark Eaton UTH 02/21/1992 UTH vs. HOU W 17 0 0 2 0.0 0 0 - 0 0 - 4 2 6 3 0 3 0 4 -
+p283
+aVJeff Malone UTH 02/19/1992 UTH vs. DAL W 30 17 7 14 50.0 0 0 - 3 3 100.0 0 0 0 2 1 0 0 1 -
+p284
+aVCorey Crowder UTH 02/19/1992 UTH vs. DAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -
+p285
+aVDavid Benoit UTH 02/19/1992 UTH vs. DAL W 22 8 3 8 37.5 0 0 - 2 2 100.0 1 0 1 0 0 0 3 3 -
+p286
+aVTyrone Corbin UTH 02/19/1992 UTH vs. DAL W 31 12 4 6 66.7 0 0 - 4 4 100.0 1 3 4 1 3 0 0 3 -
+p287
+aVEric Murdock UTH 02/19/1992 UTH vs. DAL W 19 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 5 1 0 1 2 -
+p288
+aVKarl Malone UTH 02/19/1992 UTH vs. DAL W 28 23 9 12 75.0 0 0 - 5 9 55.6 2 7 9 3 2 0 3 3 -
+p289
+aVMark Eaton UTH 02/19/1992 UTH vs. DAL W 22 4 0 3 0.0 0 0 - 4 4 100.0 1 5 6 0 0 2 1 4 -
+p290
+aVDelaney Rudd UTH 02/19/1992 UTH vs. DAL W 5 2 0 3 0.0 0 1 0.0 2 2 100.0 1 2 3 2 0 0 1 0 -
+p291
+aVMike Brown UTH 02/19/1992 UTH vs. DAL W 26 9 3 7 42.9 0 0 - 3 3 100.0 2 2 4 2 0 0 0 3 -
+p292
+aVBlue Edwards UTH 02/19/1992 UTH vs. DAL W 25 12 5 8 62.5 0 1 0.0 2 3 66.7 0 4 4 0 1 0 1 3 -
+p293
+aVJohn Stockton UTH 02/19/1992 UTH vs. DAL W 24 13 5 8 62.5 0 1 0.0 3 3 100.0 1 1 2 11 3 1 0 2 -
+p294
+aVEric Murdock UTH 02/17/1992 UTH vs. BOS W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p295
+aVTyrone Corbin UTH 02/17/1992 UTH vs. BOS W 31 10 2 6 33.3 0 0 - 6 6 100.0 4 9 13 3 2 0 0 1 -
+p296
+aVBlue Edwards UTH 02/17/1992 UTH vs. BOS W 28 6 3 8 37.5 0 1 0.0 0 0 - 1 1 2 0 0 0 1 3 -
+p297
+aVMike Brown UTH 02/17/1992 UTH vs. BOS W 18 5 1 12 8.3 0 0 - 3 4 75.0 4 5 9 1 0 0 0 2 -
+p298
+aVJeff Malone UTH 02/17/1992 UTH vs. BOS W 37 18 7 14 50.0 0 0 - 4 4 100.0 1 2 3 1 0 0 3 3 -
+p299
+aVMark Eaton UTH 02/17/1992 UTH vs. BOS W 37 8 4 8 50.0 0 0 - 0 2 0.0 3 8 11 1 0 3 1 2 -
+p300
+aVJohn Stockton UTH 02/17/1992 UTH vs. BOS W 39 11 3 12 25.0 0 2 0.0 5 5 100.0 2 1 3 12 4 0 2 4 -
+p301
+aVKarl Malone UTH 02/17/1992 UTH vs. BOS W 41 30 11 22 50.0 0 0 - 8 11 72.7 1 12 13 3 2 2 4 3 -
+p302
+aVEric Murdock UTH 02/15/1992 UTH vs. DEN W 11 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 1 0 0 -
+p303
+aVBlue Edwards UTH 02/15/1992 UTH vs. DEN W 32 11 4 10 40.0 0 2 0.0 3 3 100.0 1 2 3 3 0 1 3 0 -
+p304
+aVJeff Malone UTH 02/15/1992 UTH vs. DEN W 37 24 10 21 47.6 0 0 - 4 4 100.0 3 4 7 1 1 0 4 0 -
+p305
+aVDavid Benoit UTH 02/15/1992 UTH vs. DEN W 11 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 0 1 1 2 0 -
+p306
+aVJohn Stockton UTH 02/15/1992 UTH vs. DEN W 37 21 7 13 53.8 0 3 0.0 7 8 87.5 1 2 3 10 4 1 2 5 -
+p307
+aVMark Eaton UTH 02/15/1992 UTH vs. DEN W 25 6 3 5 60.0 0 0 - 0 1 0.0 4 3 7 0 2 3 0 5 -
+p308
+aVTyrone Corbin UTH 02/15/1992 UTH vs. DEN W 26 8 2 5 40.0 0 1 0.0 4 4 100.0 1 3 4 1 0 0 2 1 -
+p309
+aVCorey Crowder UTH 02/15/1992 UTH vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p310
+aVMike Brown UTH 02/15/1992 UTH vs. DEN W 21 8 4 7 57.1 0 0 - 0 0 - 3 5 8 0 1 1 2 4 -
+p311
+aVKarl Malone UTH 02/15/1992 UTH vs. DEN W 39 23 6 22 27.3 0 0 - 11 15 73.3 7 8 15 3 1 0 2 2 -
+p312
+aVJohn Stockton UTH 02/13/1992 UTH vs. LAL W 38 16 6 9 66.7 1 2 50.0 3 4 75.0 1 3 4 18 5 0 1 0 -
+p313
+aVEric Murdock UTH 02/13/1992 UTH vs. LAL W 10 0 0 4 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -
+p314
+aVTyrone Corbin UTH 02/13/1992 UTH vs. LAL W 28 8 4 10 40.0 0 0 - 0 0 - 1 4 5 1 0 0 0 2 -
+p315
+aVBlue Edwards UTH 02/13/1992 UTH vs. LAL W 29 14 7 11 63.6 0 1 0.0 0 0 - 2 2 4 3 0 1 1 5 -
+p316
+aVKarl Malone UTH 02/13/1992 UTH vs. LAL W 43 35 14 27 51.9 0 0 - 7 8 87.5 3 10 13 4 1 1 3 2 -
+p317
+aVDavid Benoit UTH 02/13/1992 UTH vs. LAL W 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p318
+aVMark Eaton UTH 02/13/1992 UTH vs. LAL W 38 4 2 3 66.7 0 0 - 0 0 - 4 8 12 1 1 3 1 4 -
+p319
+aVJeff Malone UTH 02/13/1992 UTH vs. LAL W 39 12 6 20 30.0 0 0 - 0 0 - 2 3 5 3 0 0 2 0 -
+p320
+aVMike Brown UTH 02/13/1992 UTH vs. LAL W 11 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -
+p321
+aVDavid Benoit UTH 02/11/1992 UTH vs. CLE W 8 2 0 4 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 -
+p322
+aVKarl Malone UTH 02/11/1992 UTH vs. CLE W 39 26 9 21 42.9 0 0 - 8 11 72.7 6 11 17 5 0 0 3 2 -
+p323
+aVJohn Stockton UTH 02/11/1992 UTH vs. CLE W 39 24 9 17 52.9 0 2 0.0 6 6 100.0 1 0 1 19 7 0 2 4 -
+p324
+aVTyrone Corbin UTH 02/11/1992 UTH vs. CLE W 30 12 5 12 41.7 0 0 - 2 2 100.0 4 2 6 0 0 0 0 3 -
+p325
+aVDelaney Rudd UTH 02/11/1992 UTH vs. CLE W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -
+p326
+aVJeff Malone UTH 02/11/1992 UTH vs. CLE W 38 25 11 19 57.9 1 1 100.0 2 2 100.0 0 2 2 0 0 0 0 0 -
+p327
+aVMark Eaton UTH 02/11/1992 UTH vs. CLE W 31 6 2 5 40.0 0 0 - 2 2 100.0 6 4 10 0 0 1 0 5 -
+p328
+aVMike Brown UTH 02/11/1992 UTH vs. CLE W 25 7 2 4 50.0 0 0 - 3 4 75.0 2 3 5 1 1 1 3 2 -
+p329
+aVBlue Edwards UTH 02/11/1992 UTH vs. CLE W 21 9 4 11 36.4 0 1 0.0 1 2 50.0 0 5 5 2 1 0 0 3 -
+p330
+aVCorey Crowder UTH 02/05/1992 UTH @ SAC L 15 9 3 5 60.0 2 3 66.7 1 1 100.0 0 2 2 0 0 0 2 3 -
+p331
+aVKarl Malone UTH 02/05/1992 UTH @ SAC L 45 25 10 22 45.5 0 0 - 5 8 62.5 3 8 11 3 0 2 2 2 -
+p332
+aVTyrone Corbin UTH 02/05/1992 UTH @ SAC L 41 17 8 17 47.1 0 0 - 1 2 50.0 5 6 11 3 0 0 0 3 -
+p333
+aVDavid Benoit UTH 02/05/1992 UTH @ SAC L 15 2 0 5 0.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 0 2 -
+p334
+aVJohn Stockton UTH 02/05/1992 UTH @ SAC L 39 14 4 13 30.8 0 2 0.0 6 6 100.0 1 2 3 11 3 0 3 4 -
+p335
+aVMike Brown UTH 02/05/1992 UTH @ SAC L 40 15 6 16 37.5 0 0 - 3 5 60.0 10 6 16 0 0 0 0 2 -
+p336
+aVBlue Edwards UTH 02/05/1992 UTH @ SAC L 30 14 7 13 53.8 0 3 0.0 0 0 - 2 2 4 3 1 0 1 5 -
+p337
+aVDelaney Rudd UTH 02/05/1992 UTH @ SAC L 12 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 4 2 0 1 1 -
+p338
+aVDelaney Rudd UTH 02/03/1992 UTH vs. CHI W 7 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 2 0 0 1 1 -
+p339
+aVTyrone Corbin UTH 02/03/1992 UTH vs. CHI W 26 6 2 8 25.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 2 -
+p340
+aVDavid Benoit UTH 02/03/1992 UTH vs. CHI W 16 9 3 5 60.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 0 1 -
+p341
+aVJeff Malone UTH 02/03/1992 UTH vs. CHI W 54 13 4 21 19.0 0 1 0.0 5 6 83.3 0 3 3 3 1 0 1 4 -
+p342
+aVEric Murdock UTH 02/03/1992 UTH vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -
+p343
+aVKarl Malone UTH 02/03/1992 UTH vs. CHI W 57 34 11 25 44.0 0 0 - 12 13 92.3 6 15 21 5 2 1 6 4 -
+p344
+aVJohn Stockton UTH 02/03/1992 UTH vs. CHI W 53 19 7 13 53.8 1 2 50.0 4 5 80.0 1 4 5 12 4 1 8 4 -
+p345
+aVMark Eaton UTH 02/03/1992 UTH vs. CHI W 46 14 5 5 100.0 0 0 - 4 5 80.0 3 10 13 1 1 6 0 5 -
+p346
+aVMike Brown UTH 02/03/1992 UTH vs. CHI W 14 4 1 5 20.0 0 0 - 2 2 100.0 2 6 8 0 0 0 1 2 -
+p347
+aVBlue Edwards UTH 02/03/1992 UTH vs. CHI W 38 25 7 14 50.0 3 7 42.9 8 9 88.9 0 1 1 3 3 2 2 6 -
+p348
+aVDelaney Rudd UTH 02/01/1992 UTH @ DAL W 6 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 2 0 0 2 0 -
+p349
+aVMark Eaton UTH 02/01/1992 UTH @ DAL W 22 2 1 1 100.0 0 0 - 0 0 - 2 4 6 1 0 3 1 4 -
+p350
+aVMike Brown UTH 02/01/1992 UTH @ DAL W 17 2 1 5 20.0 0 0 - 0 0 - 0 3 3 3 0 0 1 0 -
+p351
+aVBlue Edwards UTH 02/01/1992 UTH @ DAL W 30 23 9 11 81.8 1 1 100.0 4 5 80.0 0 3 3 2 1 1 1 3 -
+p352
+aVDavid Benoit UTH 02/01/1992 UTH @ DAL W 24 12 5 9 55.6 0 0 - 2 4 50.0 3 4 7 1 0 0 3 3 -
+p353
+aVCorey Crowder UTH 02/01/1992 UTH @ DAL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p354
+aVJohn Stockton UTH 02/01/1992 UTH @ DAL W 34 14 6 11 54.5 0 3 0.0 2 2 100.0 2 3 5 13 1 0 0 0 -
+p355
+aVTyrone Corbin UTH 02/01/1992 UTH @ DAL W 22 0 0 2 0.0 0 0 - 0 0 - 2 5 7 4 2 0 1 1 -
+p356
+aVKarl Malone UTH 02/01/1992 UTH @ DAL W 38 26 10 19 52.6 0 0 - 6 10 60.0 5 6 11 1 2 0 2 1 -
+p357
+aVEric Murdock UTH 02/01/1992 UTH @ DAL W 9 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 0 2 0 1 1 -
+p358
+aVJeff Malone UTH 02/01/1992 UTH @ DAL W 36 15 7 16 43.8 0 0 - 1 3 33.3 1 4 5 1 1 0 0 0 -
+p359
+aVDavid Benoit UTH 01/31/1992 UTH vs. PHX W 21 4 2 5 40.0 0 0 - 0 0 - 1 5 6 1 0 1 1 2 -
+p360
+aVJohn Stockton UTH 01/31/1992 UTH vs. PHX W 39 13 5 14 35.7 1 3 33.3 2 2 100.0 2 2 4 11 2 0 2 6 -
+p361
+aVMark Eaton UTH 01/31/1992 UTH vs. PHX W 15 6 2 4 50.0 0 0 - 2 2 100.0 3 3 6 2 0 0 0 5 -
+p362
+aVDelaney Rudd UTH 01/31/1992 UTH vs. PHX W 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p363
+aVMike Brown UTH 01/31/1992 UTH vs. PHX W 25 5 0 5 0.0 0 0 - 5 8 62.5 1 2 3 0 0 0 1 3 -
+p364
+aVTyrone Corbin UTH 01/31/1992 UTH vs. PHX W 32 2 1 5 20.0 0 0 - 0 0 - 0 4 4 0 2 0 2 4 -
+p365
+aVKarl Malone UTH 01/31/1992 UTH vs. PHX W 45 43 13 23 56.5 0 0 - 17 21 81.0 3 13 16 1 1 0 1 3 -
+p366
+aVEric Murdock UTH 01/31/1992 UTH vs. PHX W 11 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 4 1 -
+p367
+aVBlue Edwards UTH 01/31/1992 UTH vs. PHX W 32 16 6 8 75.0 2 3 66.7 2 2 100.0 2 4 6 2 2 1 4 3 -
+p368
+aVJeff Malone UTH 01/31/1992 UTH vs. PHX W 42 22 8 20 40.0 0 0 - 6 7 85.7 0 3 3 4 0 0 1 1 -
+p369
+aVJohn Stockton UTH 01/29/1992 UTH vs. SAC W 36 18 6 13 46.2 1 2 50.0 5 5 100.0 0 2 2 16 2 0 3 1 -
+p370
+aVMike Brown UTH 01/29/1992 UTH vs. SAC W 29 14 5 7 71.4 0 0 - 4 5 80.0 4 4 8 0 1 0 2 3 -
+p371
+aVJeff Malone UTH 01/29/1992 UTH vs. SAC W 33 26 8 17 47.1 0 0 - 10 10 100.0 0 3 3 2 0 0 0 3 -
+p372
+aVEric Murdock UTH 01/29/1992 UTH vs. SAC W 13 5 2 7 28.6 0 1 0.0 1 2 50.0 0 2 2 5 3 0 2 2 -
+p373
+aVMark Eaton UTH 01/29/1992 UTH vs. SAC W 27 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 1 1 1 1 -
+p374
+aVDavid Benoit UTH 01/29/1992 UTH vs. SAC W 20 10 5 9 55.6 0 0 - 0 0 - 0 7 7 1 0 3 2 1 -
+p375
+aVTyrone Corbin UTH 01/29/1992 UTH vs. SAC W 13 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 4 -
+p376
+aVCorey Crowder UTH 01/29/1992 UTH vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p377
+aVDelaney Rudd UTH 01/29/1992 UTH vs. SAC W 2 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -
+p378
+aVKarl Malone UTH 01/29/1992 UTH vs. SAC W 34 26 10 17 58.8 0 0 - 6 9 66.7 4 7 11 4 2 0 5 4 -
+p379
+aVBlue Edwards UTH 01/29/1992 UTH vs. SAC W 27 17 6 9 66.7 0 1 0.0 5 6 83.3 1 6 7 1 2 1 0 4 -
+p380
+aVMike Brown UTH 01/27/1992 UTH vs. NYK L 24 5 2 5 40.0 0 0 - 1 2 50.0 2 0 2 1 1 1 1 2 -
+p381
+aVCorey Crowder UTH 01/27/1992 UTH vs. NYK L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p382
+aVKarl Malone UTH 01/27/1992 UTH vs. NYK L 43 28 11 21 52.4 0 2 0.0 6 10 60.0 2 9 11 3 2 0 4 3 -
+p383
+aVMark Eaton UTH 01/27/1992 UTH vs. NYK L 24 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -
+p384
+aVJeff Malone UTH 01/27/1992 UTH vs. NYK L 38 15 6 15 40.0 0 1 0.0 3 3 100.0 2 4 6 2 2 0 3 0 -
+p385
+aVDavid Benoit UTH 01/27/1992 UTH vs. NYK L 13 0 0 5 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -
+p386
+aVDelaney Rudd UTH 01/27/1992 UTH vs. NYK L 12 7 2 3 66.7 0 1 0.0 3 4 75.0 0 1 1 0 0 0 2 3 -
+p387
+aVBlue Edwards UTH 01/27/1992 UTH vs. NYK L 22 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 1 1 1 1 3 -
+p388
+aVJohn Stockton UTH 01/27/1992 UTH vs. NYK L 36 15 4 14 28.6 0 5 0.0 7 7 100.0 1 1 2 12 3 0 4 2 -
+p389
+aVTyrone Corbin UTH 01/27/1992 UTH vs. NYK L 23 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 4 0 0 0 1 -
+p390
+aVJohn Stockton UTH 01/25/1992 UTH @ SEA W 41 20 8 13 61.5 0 1 0.0 4 5 80.0 0 1 1 15 3 1 1 4 -
+p391
+aVJeff Malone UTH 01/25/1992 UTH @ SEA W 32 15 7 11 63.6 0 0 - 1 2 50.0 0 0 0 1 2 0 1 4 -
+p392
+aVDelaney Rudd UTH 01/25/1992 UTH @ SEA W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 3 -
+p393
+aVDavid Benoit UTH 01/25/1992 UTH @ SEA W 13 10 5 6 83.3 0 0 - 0 0 - 0 4 4 0 0 1 1 0 -
+p394
+aVBlue Edwards UTH 01/25/1992 UTH @ SEA W 22 6 3 9 33.3 0 1 0.0 0 0 - 1 2 3 1 2 0 0 3 -
+p395
+aVMark Eaton UTH 01/25/1992 UTH @ SEA W 32 4 1 4 25.0 0 0 - 2 6 33.3 2 4 6 1 1 0 0 2 -
+p396
+aVKarl Malone UTH 01/25/1992 UTH @ SEA W 40 30 12 28 42.9 0 2 0.0 6 8 75.0 3 10 13 3 0 2 1 2 -
+p397
+aVTyrone Corbin UTH 01/25/1992 UTH @ SEA W 29 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 0 0 0 3 2 -
+p398
+aVCorey Crowder UTH 01/25/1992 UTH @ SEA W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p399
+aVMike Brown UTH 01/25/1992 UTH @ SEA W 14 8 4 7 57.1 0 0 - 0 0 - 1 3 4 2 1 0 0 2 -
+p400
+aVDelaney Rudd UTH 01/23/1992 UTH @ DEN L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -
+p401
+aVMike Brown UTH 01/23/1992 UTH @ DEN L 26 4 1 6 16.7 0 0 - 2 7 28.6 8 3 11 1 0 0 1 3 -
+p402
+aVBlue Edwards UTH 01/23/1992 UTH @ DEN L 20 8 1 7 14.3 1 2 50.0 5 6 83.3 0 1 1 0 0 0 1 3 -
+p403
+aVDavid Benoit UTH 01/23/1992 UTH @ DEN L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p404
+aVMark Eaton UTH 01/23/1992 UTH @ DEN L 22 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 2 0 1 4 -
+p405
+aVTyrone Corbin UTH 01/23/1992 UTH @ DEN L 32 10 5 9 55.6 0 0 - 0 0 - 3 4 7 3 2 1 1 3 -
+p406
+aVKarl Malone UTH 01/23/1992 UTH @ DEN L 40 38 14 22 63.6 0 0 - 10 13 76.9 3 10 13 2 5 1 6 4 -
+p407
+aVJohn Stockton UTH 01/23/1992 UTH @ DEN L 37 20 8 16 50.0 4 8 50.0 0 0 - 2 1 3 9 2 1 2 4 -
+p408
+aVJeff Malone UTH 01/23/1992 UTH @ DEN L 40 23 10 19 52.6 0 1 0.0 3 4 75.0 0 1 1 1 3 0 4 1 -
+p409
+aVMike Brown UTH 01/22/1992 UTH vs. SAN W 25 16 4 6 66.7 0 0 - 8 9 88.9 0 5 5 0 1 0 1 4 -
+p410
+aVKarl Malone UTH 01/22/1992 UTH vs. SAN W 40 23 10 24 41.7 0 1 0.0 3 6 50.0 5 12 17 1 1 1 3 3 -
+p411
+aVTyrone Corbin UTH 01/22/1992 UTH vs. SAN W 25 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 1 3 0 0 3 -
+p412
+aVJohn Stockton UTH 01/22/1992 UTH vs. SAN W 37 15 3 12 25.0 2 5 40.0 7 10 70.0 5 4 9 19 1 0 2 2 -
+p413
+aVDavid Benoit UTH 01/22/1992 UTH vs. SAN W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -
+p414
+aVBlue Edwards UTH 01/22/1992 UTH vs. SAN W 34 18 8 16 50.0 1 5 20.0 1 2 50.0 1 2 3 3 2 1 1 2 -
+p415
+aVDelaney Rudd UTH 01/22/1992 UTH vs. SAN W 11 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 2 1 0 0 0 -
+p416
+aVJeff Malone UTH 01/22/1992 UTH vs. SAN W 37 16 7 16 43.8 0 0 - 2 3 66.7 2 0 2 2 0 0 0 1 -
+p417
+aVMark Eaton UTH 01/22/1992 UTH vs. SAN W 23 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 3 1 1 2 -
+p418
+aVDavid Benoit UTH 01/18/1992 UTH vs. HOU W 14 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 2 0 -
+p419
+aVMark Eaton UTH 01/18/1992 UTH vs. HOU W 25 7 3 4 75.0 0 0 - 1 2 50.0 3 3 6 1 0 2 1 5 -
+p420
+aVCorey Crowder UTH 01/18/1992 UTH vs. HOU W 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -
+p421
+aVTyrone Corbin UTH 01/18/1992 UTH vs. HOU W 31 6 3 5 60.0 0 0 - 0 0 - 3 6 9 1 1 1 3 2 -
+p422
+aVDelaney Rudd UTH 01/18/1992 UTH vs. HOU W 12 12 6 7 85.7 0 1 0.0 0 0 - 0 1 1 1 1 0 1 2 -
+p423
+aVEric Murdock UTH 01/18/1992 UTH vs. HOU W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p424
+aVJeff Malone UTH 01/18/1992 UTH vs. HOU W 32 20 7 17 41.2 0 0 - 6 7 85.7 0 2 2 0 0 0 1 0 -
+p425
+aVBlue Edwards UTH 01/18/1992 UTH vs. HOU W 26 4 1 6 16.7 0 0 - 2 2 100.0 0 5 5 1 1 0 2 2 -
+p426
+aVKarl Malone UTH 01/18/1992 UTH vs. HOU W 35 34 11 19 57.9 0 0 - 12 15 80.0 2 13 15 4 6 2 3 2 -
+p427
+aVMike Brown UTH 01/18/1992 UTH vs. HOU W 23 6 3 4 75.0 0 0 - 0 0 - 3 5 8 2 1 0 1 3 -
+p428
+aVJohn Stockton UTH 01/18/1992 UTH vs. HOU W 36 11 4 12 33.3 1 1 100.0 2 2 100.0 1 1 2 15 2 0 2 2 -
+p429
+aVJeff Malone UTH 01/16/1992 UTH vs. ATL W 39 21 9 20 45.0 0 1 0.0 3 3 100.0 1 3 4 1 1 1 1 2 -
+p430
+aVDelaney Rudd UTH 01/16/1992 UTH vs. ATL W 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 1 0 0 0 -
+p431
+aVDavid Benoit UTH 01/16/1992 UTH vs. ATL W 27 12 4 6 66.7 0 0 - 4 4 100.0 3 4 7 0 0 0 3 1 -
+p432
+aVMike Brown UTH 01/16/1992 UTH vs. ATL W 12 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -
+p433
+aVMark Eaton UTH 01/16/1992 UTH vs. ATL W 17 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 2 0 2 -
+p434
+aVTyrone Corbin UTH 01/16/1992 UTH vs. ATL W 32 13 6 9 66.7 0 0 - 1 2 50.0 2 8 10 1 1 2 2 3 -
+p435
+aVKarl Malone UTH 01/16/1992 UTH vs. ATL W 40 37 15 25 60.0 0 0 - 7 8 87.5 3 11 14 3 2 1 2 2 -
+p436
+aVJohn Stockton UTH 01/16/1992 UTH vs. ATL W 38 21 8 13 61.5 1 3 33.3 4 6 66.7 1 4 5 19 6 0 3 4 -
+p437
+aVBlue Edwards UTH 01/16/1992 UTH vs. ATL W 25 6 3 8 37.5 0 2 0.0 0 0 - 0 1 1 2 0 1 1 3 -
+p438
+aVMark Eaton UTH 01/14/1992 UTH vs. MIN W 21 4 2 3 66.7 0 0 - 0 1 0.0 3 3 6 1 2 1 0 0 -
+p439
+aVBlue Edwards UTH 01/14/1992 UTH vs. MIN W 28 15 7 9 77.8 1 3 33.3 0 0 - 0 2 2 1 2 2 0 2 -
+p440
+aVJohn Stockton UTH 01/14/1992 UTH vs. MIN W 37 23 6 12 50.0 4 6 66.7 7 8 87.5 0 2 2 13 2 0 3 0 -
+p441
+aVCorey Crowder UTH 01/14/1992 UTH vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p442
+aVJeff Malone UTH 01/14/1992 UTH vs. MIN W 35 17 7 15 46.7 0 0 - 3 3 100.0 0 4 4 1 1 0 2 3 -
+p443
+aVTyrone Corbin UTH 01/14/1992 UTH vs. MIN W 27 12 4 6 66.7 0 0 - 4 4 100.0 3 3 6 0 0 0 0 4 -
+p444
+aVKarl Malone UTH 01/14/1992 UTH vs. MIN W 38 28 8 14 57.1 0 0 - 12 15 80.0 3 7 10 1 1 1 9 5 -
+p445
+aVDavid Benoit UTH 01/14/1992 UTH vs. MIN W 16 8 2 4 50.0 0 0 - 4 6 66.7 1 1 2 0 0 1 0 3 -
+p446
+aVDelaney Rudd UTH 01/14/1992 UTH vs. MIN W 11 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 4 0 0 1 1 -
+p447
+aVMike Brown UTH 01/14/1992 UTH vs. MIN W 25 5 1 4 25.0 0 0 - 3 6 50.0 1 2 3 0 0 0 0 1 -
+p448
+aVTyrone Corbin UTH 01/11/1992 UTH @ MIN L 26 7 3 12 25.0 0 0 - 1 4 25.0 5 11 16 3 0 0 2 6 -
+p449
+aVDelaney Rudd UTH 01/11/1992 UTH @ MIN L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p450
+aVKarl Malone UTH 01/11/1992 UTH @ MIN L 39 14 3 14 21.4 0 0 - 8 9 88.9 0 9 9 5 1 2 1 1 -
+p451
+aVMike Brown UTH 01/11/1992 UTH @ MIN L 25 7 3 5 60.0 0 0 - 1 2 50.0 4 2 6 0 1 0 0 0 -
+p452
+aVDavid Benoit UTH 01/11/1992 UTH @ MIN L 16 13 5 9 55.6 0 0 - 3 3 100.0 3 3 6 0 0 1 2 1 -
+p453
+aVBlue Edwards UTH 01/11/1992 UTH @ MIN L 26 10 5 11 45.5 0 2 0.0 0 0 - 0 0 0 2 1 0 3 3 -
+p454
+aVJohn Stockton UTH 01/11/1992 UTH @ MIN L 37 9 2 11 18.2 1 2 50.0 4 4 100.0 0 2 2 18 2 1 3 2 -
+p455
+aVMark Eaton UTH 01/11/1992 UTH @ MIN L 22 4 1 3 33.3 0 0 - 2 2 100.0 2 5 7 0 0 2 3 4 -
+p456
+aVJeff Malone UTH 01/11/1992 UTH @ MIN L 38 32 15 24 62.5 0 0 - 2 2 100.0 2 4 6 2 1 0 2 1 -
+p457
+aVCorey Crowder UTH 01/10/1992 UTH @ CHI L 3 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p458
+aVTyrone Corbin UTH 01/10/1992 UTH @ CHI L 30 11 4 9 44.4 0 0 - 3 4 75.0 2 4 6 3 1 0 0 3 -
+p459
+aVDelaney Rudd UTH 01/10/1992 UTH @ CHI L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 2 1 -
+p460
+aVKarl Malone UTH 01/10/1992 UTH @ CHI L 34 17 6 14 42.9 0 0 - 5 6 83.3 6 2 8 0 0 1 5 3 -
+p461
+aVJeff Malone UTH 01/10/1992 UTH @ CHI L 32 16 6 14 42.9 0 0 - 4 4 100.0 1 1 2 4 2 0 3 3 -
+p462
+aVDavid Benoit UTH 01/10/1992 UTH @ CHI L 21 12 4 9 44.4 0 1 0.0 4 4 100.0 3 5 8 0 1 0 2 1 -
+p463
+aVBlue Edwards UTH 01/10/1992 UTH @ CHI L 29 9 4 9 44.4 1 4 25.0 0 0 - 0 2 2 2 0 0 1 3 -
+p464
+aVMike Brown UTH 01/10/1992 UTH @ CHI L 19 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 0 0 3 -
+p465
+aVJohn Stockton UTH 01/10/1992 UTH @ CHI L 34 14 3 7 42.9 0 1 0.0 8 8 100.0 0 3 3 15 2 0 6 2 -
+p466
+aVMark Eaton UTH 01/10/1992 UTH @ CHI L 22 2 1 5 20.0 0 0 - 0 0 - 3 5 8 1 1 2 1 3 -
+p467
+aVTyrone Corbin UTH 01/08/1992 UTH @ MIL L 32 9 4 8 50.0 0 0 - 1 1 100.0 2 3 5 2 1 0 2 1 -
+p468
+aVJohn Stockton UTH 01/08/1992 UTH @ MIL L 37 13 4 13 30.8 2 2 100.0 3 3 100.0 1 3 4 16 0 0 4 2 -
+p469
+aVBlue Edwards UTH 01/08/1992 UTH @ MIL L 30 16 7 12 58.3 1 4 25.0 1 2 50.0 2 4 6 0 1 2 4 3 -
+p470
+aVKarl Malone UTH 01/08/1992 UTH @ MIL L 40 28 11 20 55.0 0 0 - 6 7 85.7 0 11 11 3 1 0 3 3 -
+p471
+aVDavid Benoit UTH 01/08/1992 UTH @ MIL L 15 7 3 5 60.0 0 0 - 1 3 33.3 0 1 1 0 0 1 0 1 -
+p472
+aVMike Brown UTH 01/08/1992 UTH @ MIL L 20 7 3 7 42.9 0 0 - 1 2 50.0 2 4 6 0 0 1 3 2 -
+p473
+aVJeff Malone UTH 01/08/1992 UTH @ MIL L 33 14 7 15 46.7 0 1 0.0 0 0 - 0 2 2 2 2 0 5 1 -
+p474
+aVDelaney Rudd UTH 01/08/1992 UTH @ MIL L 12 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 2 1 0 0 1 -
+p475
+aVMark Eaton UTH 01/08/1992 UTH @ MIL L 21 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 2 0 4 -
+p476
+aVMark Eaton UTH 01/06/1992 UTH vs. IND W 26 6 3 4 75.0 0 0 - 0 0 - 2 4 6 0 0 2 0 1 -
+p477
+aVJeff Malone UTH 01/06/1992 UTH vs. IND W 38 20 8 14 57.1 0 0 - 4 4 100.0 0 1 1 3 2 0 6 2 -
+p478
+aVBlue Edwards UTH 01/06/1992 UTH vs. IND W 35 23 9 19 47.4 2 4 50.0 3 5 60.0 3 3 6 3 2 0 3 4 -
+p479
+aVMike Brown UTH 01/06/1992 UTH vs. IND W 19 7 2 5 40.0 0 0 - 3 6 50.0 3 2 5 1 0 1 2 3 -
+p480
+aVTyrone Corbin UTH 01/06/1992 UTH vs. IND W 26 10 5 10 50.0 0 0 - 0 0 - 3 1 4 2 2 0 2 3 -
+p481
+aVKarl Malone UTH 01/06/1992 UTH vs. IND W 41 34 13 23 56.5 0 0 - 8 9 88.9 6 8 14 5 2 0 4 3 -
+p482
+aVDelaney Rudd UTH 01/06/1992 UTH vs. IND W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -
+p483
+aVDavid Benoit UTH 01/06/1992 UTH vs. IND W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p484
+aVJohn Stockton UTH 01/06/1992 UTH vs. IND W 38 22 9 14 64.3 4 4 100.0 0 1 0.0 0 3 3 15 5 1 5 3 -
+p485
+aVKarl Malone UTH 01/04/1992 UTH vs. DAL W 34 26 10 14 71.4 0 0 - 6 9 66.7 2 6 8 4 3 1 2 1 -
+p486
+aVBlue Edwards UTH 01/04/1992 UTH vs. DAL W 31 10 5 11 45.5 0 0 - 0 0 - 0 5 5 0 1 0 2 2 -
+p487
+aVJeff Malone UTH 01/04/1992 UTH vs. DAL W 28 24 11 16 68.8 0 0 - 2 2 100.0 0 6 6 2 0 0 0 0 -
+p488
+aVMike Brown UTH 01/04/1992 UTH vs. DAL W 31 10 3 7 42.9 0 0 - 4 6 66.7 8 6 14 2 0 0 3 1 -
+p489
+aVJohn Stockton UTH 01/04/1992 UTH vs. DAL W 30 14 7 14 50.0 0 0 - 0 0 - 0 4 4 12 1 0 4 3 -
+p490
+aVDelaney Rudd UTH 01/04/1992 UTH vs. DAL W 11 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -
+p491
+aVTyrone Corbin UTH 01/04/1992 UTH vs. DAL W 27 8 4 7 57.1 0 0 - 0 0 - 4 5 9 4 1 1 2 1 -
+p492
+aVMark Eaton UTH 01/04/1992 UTH vs. DAL W 24 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 1 5 1 2 -
+p493
+aVEric Murdock UTH 01/04/1992 UTH vs. DAL W 12 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 4 1 1 0 2 -
+p494
+aVCorey Crowder UTH 01/04/1992 UTH vs. DAL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p495
+aVMark Eaton UTH 01/02/1992 UTH vs. POR W 33 2 1 5 20.0 0 0 - 0 0 - 2 3 5 2 0 5 2 3 -
+p496
+aVMike Brown UTH 01/02/1992 UTH vs. POR W 24 8 2 5 40.0 0 0 - 4 4 100.0 3 3 6 2 0 1 0 0 -
+p497
+aVKarl Malone UTH 01/02/1992 UTH vs. POR W 39 30 11 19 57.9 0 0 - 8 10 80.0 4 8 12 1 2 0 2 2 -
+p498
+aVDelaney Rudd UTH 01/02/1992 UTH vs. POR W 11 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 3 0 -
+p499
+aVTyrone Corbin UTH 01/02/1992 UTH vs. POR W 29 15 4 12 33.3 0 1 0.0 7 8 87.5 4 4 8 4 0 0 1 3 -
+p500
+aVJohn Stockton UTH 01/02/1992 UTH vs. POR W 37 12 5 14 35.7 0 1 0.0 2 3 66.7 3 4 7 10 2 0 4 3 -
+p501
+aVJeff Malone UTH 01/02/1992 UTH vs. POR W 37 23 9 13 69.2 0 0 - 5 5 100.0 0 2 2 4 0 1 1 2 -
+p502
+aVBlue Edwards UTH 01/02/1992 UTH vs. POR W 30 15 6 12 50.0 3 5 60.0 0 0 - 1 2 3 2 0 2 1 1 -
+p503
+aVTyrone Corbin UTH 12/28/1991 UTH vs. MIA W 26 7 3 7 42.9 0 0 - 1 1 100.0 2 3 5 2 1 0 0 1 -
+p504
+aVKarl Malone UTH 12/28/1991 UTH vs. MIA W 36 38 13 21 61.9 0 0 - 12 14 85.7 6 7 13 3 0 1 5 3 -
+p505
+aVBlue Edwards UTH 12/28/1991 UTH vs. MIA W 28 16 6 11 54.5 0 1 0.0 4 5 80.0 1 3 4 2 2 1 3 4 -
+p506
+aVMark Eaton UTH 12/28/1991 UTH vs. MIA W 20 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -
+p507
+aVDelaney Rudd UTH 12/28/1991 UTH vs. MIA W 14 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 5 0 0 0 1 -
+p508
+aVMike Brown UTH 12/28/1991 UTH vs. MIA W 25 13 6 9 66.7 0 0 - 1 4 25.0 5 4 9 4 2 2 0 1 -
+p509
+aVEric Murdock UTH 12/28/1991 UTH vs. MIA W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p510
+aVJohn Stockton UTH 12/28/1991 UTH vs. MIA W 31 12 4 11 36.4 2 4 50.0 2 4 50.0 0 4 4 14 2 0 3 5 -
+p511
+aVDavid Benoit UTH 12/28/1991 UTH vs. MIA W 11 10 5 6 83.3 0 0 - 0 0 - 3 1 4 0 0 0 3 3 -
+p512
+aVCorey Crowder UTH 12/28/1991 UTH vs. MIA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p513
+aVJeff Malone UTH 12/28/1991 UTH vs. MIA W 36 22 9 17 52.9 0 0 - 4 5 80.0 0 3 3 3 1 0 0 0 -
+p514
+aVKarl Malone UTH 12/26/1991 UTH vs. LAC W 26 23 8 16 50.0 0 0 - 7 9 77.8 0 12 12 3 0 0 4 5 -
+p515
+aVJeff Malone UTH 12/26/1991 UTH vs. LAC W 37 15 6 12 50.0 0 0 - 3 3 100.0 0 0 0 1 0 0 1 1 -
+p516
+aVBlue Edwards UTH 12/26/1991 UTH vs. LAC W 22 6 3 8 37.5 0 1 0.0 0 0 - 2 2 4 0 0 0 1 2 -
+p517
+aVCorey Crowder UTH 12/26/1991 UTH vs. LAC W 6 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -
+p518
+aVMark Eaton UTH 12/26/1991 UTH vs. LAC W 24 2 1 2 50.0 0 0 - 0 0 - 1 6 7 0 0 2 0 3 -
+p519
+aVJohn Stockton UTH 12/26/1991 UTH vs. LAC W 40 27 5 7 71.4 2 3 66.7 15 16 93.8 0 4 4 17 2 0 4 1 -
+p520
+aVMike Brown UTH 12/26/1991 UTH vs. LAC W 23 15 5 8 62.5 0 0 - 5 7 71.4 2 4 6 2 1 1 0 3 -
+p521
+aVTyrone Corbin UTH 12/26/1991 UTH vs. LAC W 29 20 10 15 66.7 0 1 0.0 0 1 0.0 3 3 6 1 3 0 0 1 -
+p522
+aVDelaney Rudd UTH 12/26/1991 UTH vs. LAC W 8 4 1 3 33.3 0 0 - 2 4 50.0 0 0 0 0 0 0 1 2 -
+p523
+aVDavid Benoit UTH 12/26/1991 UTH vs. LAC W 24 9 3 9 33.3 0 0 - 3 4 75.0 3 2 5 0 0 2 0 4 -
+p524
+aVJohn Stockton UTH 12/23/1991 UTH @ CLE L 39 20 8 12 66.7 2 3 66.7 2 2 100.0 1 1 2 19 2 1 2 5 -
+p525
+aVMike Brown UTH 12/23/1991 UTH @ CLE L 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -
+p526
+aVDelaney Rudd UTH 12/23/1991 UTH @ CLE L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 0 0 1 1 -
+p527
+aVKarl Malone UTH 12/23/1991 UTH @ CLE L 40 22 7 20 35.0 0 0 - 8 14 57.1 1 6 7 5 1 0 0 1 -
+p528
+aVTyrone Corbin UTH 12/23/1991 UTH @ CLE L 19 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 2 2 -
+p529
+aVMark Eaton UTH 12/23/1991 UTH @ CLE L 27 4 2 4 50.0 0 0 - 0 0 - 4 6 10 0 0 3 0 3 -
+p530
+aVJeff Malone UTH 12/23/1991 UTH @ CLE L 35 26 11 20 55.0 0 0 - 4 4 100.0 0 3 3 3 0 0 0 0 -
+p531
+aVDavid Benoit UTH 12/23/1991 UTH @ CLE L 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -
+p532
+aVBlue Edwards UTH 12/23/1991 UTH @ CLE L 41 30 14 19 73.7 1 1 100.0 1 2 50.0 2 5 7 3 0 2 2 5 -
+p533
+aVJohn Stockton UTH 12/21/1991 UTH @ NYK L 37 25 10 17 58.8 2 4 50.0 3 5 60.0 1 2 3 11 3 0 5 4 -
+p534
+aVTyrone Corbin UTH 12/21/1991 UTH @ NYK L 27 4 2 7 28.6 0 0 - 0 0 - 2 4 6 1 1 0 2 3 -
+p535
+aVDelaney Rudd UTH 12/21/1991 UTH @ NYK L 12 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 3 1 0 2 3 -
+p536
+aVMark Eaton UTH 12/21/1991 UTH @ NYK L 22 8 4 4 100.0 0 0 - 0 0 - 3 4 7 0 0 0 0 2 -
+p537
+aVMike Brown UTH 12/21/1991 UTH @ NYK L 28 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 0 1 0 1 3 -
+p538
+aVKarl Malone UTH 12/21/1991 UTH @ NYK L 38 14 4 16 25.0 0 0 - 6 7 85.7 1 9 10 4 1 0 1 0 -
+p539
+aVJeff Malone UTH 12/21/1991 UTH @ NYK L 31 11 5 14 35.7 0 0 - 1 1 100.0 1 3 4 1 0 0 1 1 -
+p540
+aVDavid Benoit UTH 12/21/1991 UTH @ NYK L 20 10 4 11 36.4 1 1 100.0 1 2 50.0 1 2 3 3 0 0 0 2 -
+p541
+aVBlue Edwards UTH 12/21/1991 UTH @ NYK L 25 10 4 10 40.0 1 2 50.0 1 1 100.0 1 2 3 0 1 0 0 2 -
+p542
+aVTyrone Corbin UTH 12/20/1991 UTH @ BOS L 22 2 1 2 50.0 0 0 - 0 0 - 1 5 6 2 0 0 1 2 -
+p543
+aVDelaney Rudd UTH 12/20/1991 UTH @ BOS L 11 7 2 5 40.0 0 2 0.0 3 4 75.0 0 0 0 1 0 0 0 1 -
+p544
+aVKarl Malone UTH 12/20/1991 UTH @ BOS L 40 39 15 24 62.5 1 1 100.0 8 12 66.7 4 4 8 1 2 0 1 2 -
+p545
+aVJohn Stockton UTH 12/20/1991 UTH @ BOS L 37 13 6 14 42.9 0 3 0.0 1 2 50.0 2 4 6 19 2 1 3 1 -
+p546
+aVJeff Malone UTH 12/20/1991 UTH @ BOS L 37 15 6 16 37.5 0 1 0.0 3 4 75.0 1 4 5 3 0 0 0 3 -
+p547
+aVMark Eaton UTH 12/20/1991 UTH @ BOS L 10 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -
+p548
+aVDavid Benoit UTH 12/20/1991 UTH @ BOS L 20 8 4 8 50.0 0 0 - 0 0 - 0 4 4 1 0 1 2 4 -
+p549
+aVMike Brown UTH 12/20/1991 UTH @ BOS L 36 11 5 12 41.7 0 0 - 1 2 50.0 4 3 7 1 1 0 3 3 -
+p550
+aVBlue Edwards UTH 12/20/1991 UTH @ BOS L 27 6 3 7 42.9 0 0 - 0 0 - 1 3 4 3 2 0 1 1 -
+p551
+aVMark Eaton UTH 12/18/1991 UTH @ PHL W 10 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 0 1 0 3 -
+p552
+aVMike Brown UTH 12/18/1991 UTH @ PHL W 19 7 2 4 50.0 0 0 - 3 4 75.0 0 5 5 1 1 0 1 3 -
+p553
+aVTyrone Corbin UTH 12/18/1991 UTH @ PHL W 31 18 7 8 87.5 0 0 - 4 4 100.0 0 5 5 4 2 0 1 3 -
+p554
+aVJeff Malone UTH 12/18/1991 UTH @ PHL W 39 14 7 16 43.8 0 0 - 0 1 0.0 3 1 4 3 0 0 1 0 -
+p555
+aVDelaney Rudd UTH 12/18/1991 UTH @ PHL W 10 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 2 1 -
+p556
+aVDavid Benoit UTH 12/18/1991 UTH @ PHL W 24 14 6 9 66.7 0 1 0.0 2 2 100.0 1 2 3 0 0 2 0 2 -
+p557
+aVJohn Stockton UTH 12/18/1991 UTH @ PHL W 38 17 7 11 63.6 0 1 0.0 3 4 75.0 0 1 1 18 3 0 3 1 -
+p558
+aVKarl Malone UTH 12/18/1991 UTH @ PHL W 43 30 10 22 45.5 0 0 - 10 12 83.3 2 7 9 1 3 2 0 0 -
+p559
+aVBlue Edwards UTH 12/18/1991 UTH @ PHL W 21 4 2 5 40.0 0 1 0.0 0 0 - 2 0 2 3 1 1 2 2 -
+p560
+aVCorey Crowder UTH 12/18/1991 UTH @ PHL W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p561
+aVDelaney Rudd UTH 12/17/1991 UTH @ CHH W 13 8 3 6 50.0 1 2 50.0 1 2 50.0 0 0 0 3 0 0 0 0 -
+p562
+aVMark Eaton UTH 12/17/1991 UTH @ CHH W 29 2 1 5 20.0 0 0 - 0 0 - 4 9 13 2 0 3 2 2 -
+p563
+aVJohn Stockton UTH 12/17/1991 UTH @ CHH W 35 13 2 10 20.0 1 2 50.0 8 8 100.0 1 4 5 13 3 0 4 2 -
+p564
+aVTyrone Corbin UTH 12/17/1991 UTH @ CHH W 25 7 3 10 30.0 0 0 - 1 1 100.0 3 3 6 2 3 0 1 1 -
+p565
+aVJeff Malone UTH 12/17/1991 UTH @ CHH W 38 34 15 22 68.2 0 0 - 4 4 100.0 0 4 4 5 0 0 2 0 -
+p566
+aVMike Brown UTH 12/17/1991 UTH @ CHH W 30 24 7 11 63.6 0 0 - 10 12 83.3 4 5 9 0 1 2 2 2 -
+p567
+aVDavid Benoit UTH 12/17/1991 UTH @ CHH W 29 12 5 8 62.5 0 0 - 2 2 100.0 1 4 5 0 0 1 0 4 -
+p568
+aVBlue Edwards UTH 12/17/1991 UTH @ CHH W 31 18 9 14 64.3 0 1 0.0 0 2 0.0 3 3 6 1 0 2 1 3 -
+p569
+aVCorey Crowder UTH 12/17/1991 UTH @ CHH W 10 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -
+p570
+aVMike Brown UTH 12/14/1991 UTH vs. DET W 35 17 4 9 44.4 0 0 - 9 10 90.0 1 6 7 1 0 0 2 2 -
+p571
+aVKarl Malone UTH 12/14/1991 UTH vs. DET W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -
+p572
+aVMark Eaton UTH 12/14/1991 UTH vs. DET W 20 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 2 4 -
+p573
+aVTyrone Corbin UTH 12/14/1991 UTH vs. DET W 28 9 4 5 80.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 2 -
+p574
+aVDelaney Rudd UTH 12/14/1991 UTH vs. DET W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 4 1 0 1 0 -
+p575
+aVDavid Benoit UTH 12/14/1991 UTH vs. DET W 27 8 4 7 57.1 0 0 - 0 0 - 1 4 5 0 0 1 1 3 -
+p576
+aVJohn Stockton UTH 12/14/1991 UTH vs. DET W 38 17 4 11 36.4 1 1 100.0 8 11 72.7 1 3 4 14 0 0 0 3 -
+p577
+aVBlue Edwards UTH 12/14/1991 UTH vs. DET W 41 19 8 13 61.5 2 2 100.0 1 1 100.0 1 3 4 2 3 1 4 4 -
+p578
+aVJeff Malone UTH 12/14/1991 UTH vs. DET W 37 26 12 19 63.2 0 0 - 2 2 100.0 1 7 8 0 1 0 6 6 -
+p579
+aVMike Brown UTH 12/13/1991 UTH @ LAC L 24 5 1 5 20.0 0 0 - 3 6 50.0 5 3 8 4 1 0 2 5 -
+p580
+aVJeff Malone UTH 12/13/1991 UTH @ LAC L 43 27 12 22 54.5 0 0 - 3 4 75.0 1 1 2 1 1 0 1 2 -
+p581
+aVKarl Malone UTH 12/13/1991 UTH @ LAC L 46 25 10 18 55.6 0 0 - 5 7 71.4 2 13 15 7 0 0 7 4 -
+p582
+aVMark Eaton UTH 12/13/1991 UTH @ LAC L 28 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 4 4 6 -
+p583
+aVDelaney Rudd UTH 12/13/1991 UTH @ LAC L 9 6 2 3 66.7 2 3 66.7 0 0 - 1 1 2 2 0 0 1 0 -
+p584
+aVBlue Edwards UTH 12/13/1991 UTH @ LAC L 28 10 5 10 50.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 -
+p585
+aVDavid Benoit UTH 12/13/1991 UTH @ LAC L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 2 4 -
+p586
+aVTyrone Corbin UTH 12/13/1991 UTH @ LAC L 35 10 4 7 57.1 0 0 - 2 2 100.0 1 4 5 2 2 0 2 5 -
+p587
+aVJohn Stockton UTH 12/13/1991 UTH @ LAC L 44 14 5 17 29.4 0 1 0.0 4 5 80.0 1 4 5 11 5 0 3 4 -
+p588
+aVDelaney Rudd UTH 12/11/1991 UTH @ LAL W 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 3 2 -
+p589
+aVCorey Crowder UTH 12/11/1991 UTH @ LAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p590
+aVKarl Malone UTH 12/11/1991 UTH @ LAL W 42 24 7 18 38.9 0 0 - 10 11 90.9 1 10 11 5 0 0 3 4 -
+p591
+aVJohn Stockton UTH 12/11/1991 UTH @ LAL W 39 15 4 7 57.1 3 4 75.0 4 5 80.0 0 4 4 14 2 0 3 1 -
+p592
+aVBlue Edwards UTH 12/11/1991 UTH @ LAL W 25 13 6 8 75.0 0 0 - 1 1 100.0 1 1 2 3 1 1 1 0 -
+p593
+aVJeff Malone UTH 12/11/1991 UTH @ LAL W 38 19 8 15 53.3 0 0 - 3 3 100.0 0 4 4 1 1 0 2 2 -
+p594
+aVMark Eaton UTH 12/11/1991 UTH @ LAL W 20 0 0 5 0.0 0 0 - 0 2 0.0 4 2 6 0 0 2 3 2 -
+p595
+aVTyrone Corbin UTH 12/11/1991 UTH @ LAL W 28 10 5 8 62.5 0 0 - 0 0 - 1 5 6 1 0 1 0 4 -
+p596
+aVMike Brown UTH 12/11/1991 UTH @ LAL W 34 15 6 7 85.7 0 0 - 3 3 100.0 3 3 6 4 0 1 3 2 -
+p597
+aVEric Murdock UTH 12/10/1991 UTH vs. ORL W 2 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 0 -
+p598
+aVMike Brown UTH 12/10/1991 UTH vs. ORL W 27 4 1 6 16.7 0 0 - 2 4 50.0 1 3 4 1 2 2 2 3 -
+p599
+aVKarl Malone UTH 12/10/1991 UTH vs. ORL W 33 27 5 10 50.0 0 0 - 17 19 89.5 2 8 10 7 0 1 2 3 -
+p600
+aVCorey Crowder UTH 12/10/1991 UTH vs. ORL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p601
+aVDelaney Rudd UTH 12/10/1991 UTH vs. ORL W 17 8 4 7 57.1 0 0 - 0 0 - 1 1 2 2 1 0 0 1 -
+p602
+aVJohn Stockton UTH 12/10/1991 UTH vs. ORL W 31 24 10 17 58.8 3 4 75.0 1 2 50.0 0 6 6 9 4 0 0 2 -
+p603
+aVBlue Edwards UTH 12/10/1991 UTH vs. ORL W 20 13 5 8 62.5 0 0 - 3 4 75.0 0 2 2 1 2 0 2 2 -
+p604
+aVTyrone Corbin UTH 12/10/1991 UTH vs. ORL W 25 13 5 9 55.6 0 0 - 3 4 75.0 2 5 7 0 0 0 0 3 -
+p605
+aVDavid Benoit UTH 12/10/1991 UTH vs. ORL W 19 12 5 8 62.5 0 0 - 2 2 100.0 1 4 5 1 2 0 1 5 -
+p606
+aVMark Eaton UTH 12/10/1991 UTH vs. ORL W 21 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 5 0 3 -
+p607
+aVJeff Malone UTH 12/10/1991 UTH vs. ORL W 36 15 5 11 45.5 0 0 - 5 6 83.3 1 2 3 3 0 1 3 2 -
+p608
+aVBlue Edwards UTH 12/07/1991 UTH @ HOU W 19 10 5 9 55.6 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -
+p609
+aVJeff Malone UTH 12/07/1991 UTH @ HOU W 36 22 8 15 53.3 0 0 - 6 6 100.0 0 4 4 4 1 0 0 0 -
+p610
+aVMark Eaton UTH 12/07/1991 UTH @ HOU W 37 4 2 3 66.7 0 0 - 0 0 - 1 3 4 3 1 2 0 6 -
+p611
+aVKarl Malone UTH 12/07/1991 UTH @ HOU W 30 15 5 11 45.5 0 0 - 5 6 83.3 1 7 8 2 4 0 3 3 -
+p612
+aVDavid Benoit UTH 12/07/1991 UTH @ HOU W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p613
+aVCorey Crowder UTH 12/07/1991 UTH @ HOU W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p614
+aVDelaney Rudd UTH 12/07/1991 UTH @ HOU W 10 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 3 0 0 1 0 -
+p615
+aVTyrone Corbin UTH 12/07/1991 UTH @ HOU W 30 14 3 7 42.9 0 0 - 8 9 88.9 1 4 5 0 0 0 1 5 -
+p616
+aVJohn Stockton UTH 12/07/1991 UTH @ HOU W 38 15 5 11 45.5 2 2 100.0 3 6 50.0 0 2 2 11 1 0 5 3 -
+p617
+aVMike Brown UTH 12/07/1991 UTH @ HOU W 29 9 3 7 42.9 0 0 - 3 4 75.0 2 5 7 2 1 0 3 4 -
+p618
+aVJeff Malone UTH 12/06/1991 UTH @ SAN W 37 24 11 18 61.1 0 0 - 2 3 66.7 0 3 3 1 0 0 3 2 -
+p619
+aVDavid Benoit UTH 12/06/1991 UTH @ SAN W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 0 3 -
+p620
+aVMark Eaton UTH 12/06/1991 UTH @ SAN W 27 0 0 0 - 0 0 - 0 0 - 1 5 6 0 0 2 0 3 -
+p621
+aVKarl Malone UTH 12/06/1991 UTH @ SAN W 39 31 12 22 54.5 0 0 - 7 10 70.0 2 10 12 5 0 0 4 2 -
+p622
+aVMike Brown UTH 12/06/1991 UTH @ SAN W 21 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 2 1 3 -
+p623
+aVJohn Stockton UTH 12/06/1991 UTH @ SAN W 39 18 6 13 46.2 1 3 33.3 5 7 71.4 1 4 5 10 2 1 6 2 -
+p624
+aVTyrone Corbin UTH 12/06/1991 UTH @ SAN W 19 6 3 3 100.0 0 0 - 0 0 - 0 4 4 2 1 0 1 1 -
+p625
+aVBlue Edwards UTH 12/06/1991 UTH @ SAN W 30 4 1 6 16.7 0 1 0.0 2 2 100.0 0 2 2 0 1 1 2 2 -
+p626
+aVDelaney Rudd UTH 12/06/1991 UTH @ SAN W 9 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -
+p627
+aVCorey Crowder UTH 12/06/1991 UTH @ SAN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p628
+aVCorey Crowder UTH 12/04/1991 UTH vs. WAS W 18 3 1 5 20.0 1 1 100.0 0 0 - 1 2 3 1 0 0 2 0 -
+p629
+aVJohn Stockton UTH 12/04/1991 UTH vs. WAS W 25 8 4 8 50.0 0 1 0.0 0 0 - 1 1 2 10 2 1 5 1 -
+p630
+aVBlue Edwards UTH 12/04/1991 UTH vs. WAS W 22 11 5 9 55.6 0 1 0.0 1 2 50.0 0 6 6 1 1 0 0 2 -
+p631
+aVDelaney Rudd UTH 12/04/1991 UTH vs. WAS W 16 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 4 0 0 2 1 -
+p632
+aVDavid Benoit UTH 12/04/1991 UTH vs. WAS W 23 5 2 10 20.0 0 0 - 1 2 50.0 3 3 6 0 2 0 1 0 -
+p633
+aVJeff Malone UTH 12/04/1991 UTH vs. WAS W 30 22 10 15 66.7 0 0 - 2 2 100.0 0 3 3 2 0 0 1 2 -
+p634
+aVMark Eaton UTH 12/04/1991 UTH vs. WAS W 19 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 1 5 0 0 -
+p635
+aVTyrone Corbin UTH 12/04/1991 UTH vs. WAS W 24 12 5 8 62.5 0 0 - 2 3 66.7 4 4 8 1 3 0 2 0 -
+p636
+aVKarl Malone UTH 12/04/1991 UTH vs. WAS W 27 20 8 17 47.1 0 0 - 4 6 66.7 5 9 14 3 1 0 3 1 -
+p637
+aVEric Murdock UTH 12/04/1991 UTH vs. WAS W 7 4 2 4 50.0 0 0 - 0 0 - 1 0 1 3 0 0 0 0 -
+p638
+aVMike Brown UTH 12/04/1991 UTH vs. WAS W 25 7 2 8 25.0 0 0 - 3 6 50.0 2 9 11 2 0 0 1 1 -
+p639
+aVMike Brown UTH 12/03/1991 UTH @ GOS L 10 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 0 0 0 2 0 -
+p640
+aVKarl Malone UTH 12/03/1991 UTH @ GOS L 44 34 13 26 50.0 0 1 0.0 8 11 72.7 2 10 12 4 3 0 3 3 -
+p641
+aVDavid Benoit UTH 12/03/1991 UTH @ GOS L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p642
+aVTyrone Corbin UTH 12/03/1991 UTH @ GOS L 24 7 1 4 25.0 0 0 - 5 5 100.0 2 2 4 0 0 0 0 2 -
+p643
+aVJeff Malone UTH 12/03/1991 UTH @ GOS L 39 23 9 16 56.3 0 0 - 5 6 83.3 0 4 4 3 1 0 2 5 -
+p644
+aVCorey Crowder UTH 12/03/1991 UTH @ GOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p645
+aVDelaney Rudd UTH 12/03/1991 UTH @ GOS L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -
+p646
+aVBlue Edwards UTH 12/03/1991 UTH @ GOS L 31 12 5 16 31.3 0 0 - 2 4 50.0 3 3 6 2 0 2 1 3 -
+p647
+aVJohn Stockton UTH 12/03/1991 UTH @ GOS L 38 15 5 10 50.0 1 2 50.0 4 4 100.0 0 5 5 12 5 0 2 5 -
+p648
+aVMark Eaton UTH 12/03/1991 UTH @ GOS L 34 6 1 3 33.3 0 0 - 4 4 100.0 1 7 8 1 0 5 1 3 -
+p649
+aVMike Brown UTH 11/30/1991 UTH @ PHX L 29 7 2 7 28.6 0 0 - 3 3 100.0 3 4 7 0 2 1 0 5 -
+p650
+aVDavid Benoit UTH 11/30/1991 UTH @ PHX L 13 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 1 2 3 -
+p651
+aVBlue Edwards UTH 11/30/1991 UTH @ PHX L 37 19 8 11 72.7 1 1 100.0 2 3 66.7 0 3 3 2 2 1 2 4 -
+p652
+aVJohn Stockton UTH 11/30/1991 UTH @ PHX L 29 14 5 6 83.3 0 0 - 4 4 100.0 0 4 4 12 2 1 2 6 -
+p653
+aVTyrone Corbin UTH 11/30/1991 UTH @ PHX L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 2 5 -
+p654
+aVJeff Malone UTH 11/30/1991 UTH @ PHX L 44 25 10 21 47.6 0 0 - 5 5 100.0 0 1 1 4 0 0 3 1 -
+p655
+aVKarl Malone UTH 11/30/1991 UTH @ PHX L 43 41 15 21 71.4 0 0 - 11 16 68.8 2 11 13 4 0 2 6 6 -
+p656
+aVCorey Crowder UTH 11/30/1991 UTH @ PHX L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p657
+aVDelaney Rudd UTH 11/30/1991 UTH @ PHX L 27 11 3 7 42.9 0 2 0.0 5 6 83.3 0 2 2 6 0 0 3 0 -
+p658
+aVMark Eaton UTH 11/30/1991 UTH @ PHX L 30 4 1 3 33.3 0 0 - 2 4 50.0 1 4 5 0 0 6 2 5 -
+p659
+aVMark Eaton UTH 11/29/1991 UTH vs. GOS W 11 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 0 1 0 0 -
+p660
+aVMike Brown UTH 11/29/1991 UTH vs. GOS W 33 8 4 6 66.7 0 0 - 0 0 - 1 11 12 5 1 1 4 3 -
+p661
+aVJeff Malone UTH 11/29/1991 UTH vs. GOS W 34 24 9 16 56.3 0 0 - 6 6 100.0 0 2 2 1 2 0 0 2 -
+p662
+aVDavid Benoit UTH 11/29/1991 UTH vs. GOS W 16 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 1 3 0 2 -
+p663
+aVDelaney Rudd UTH 11/29/1991 UTH vs. GOS W 12 6 3 3 100.0 0 0 - 0 0 - 1 1 2 3 0 0 0 2 -
+p664
+aVJohn Stockton UTH 11/29/1991 UTH vs. GOS W 36 21 10 13 76.9 1 2 50.0 0 0 - 1 1 2 23 2 1 4 2 -
+p665
+aVKarl Malone UTH 11/29/1991 UTH vs. GOS W 34 31 12 19 63.2 0 0 - 7 10 70.0 1 10 11 2 1 0 2 2 -
+p666
+aVTyrone Corbin UTH 11/29/1991 UTH vs. GOS W 26 17 7 12 58.3 0 0 - 3 3 100.0 3 2 5 1 1 0 0 4 -
+p667
+aVBlue Edwards UTH 11/29/1991 UTH vs. GOS W 26 15 7 11 63.6 0 0 - 1 1 100.0 0 3 3 1 2 0 2 5 -
+p668
+aVCorey Crowder UTH 11/29/1991 UTH vs. GOS W 10 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 3 0 0 0 0 -
+p669
+aVMark Eaton UTH 11/27/1991 UTH vs. CHH W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p670
+aVDelaney Rudd UTH 11/27/1991 UTH vs. CHH W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 5 0 1 0 2 -
+p671
+aVBlue Edwards UTH 11/27/1991 UTH vs. CHH W 22 7 3 8 37.5 0 0 - 1 1 100.0 2 4 6 3 1 0 2 1 -
+p672
+aVKarl Malone UTH 11/27/1991 UTH vs. CHH W 38 31 11 24 45.8 0 0 - 9 10 90.0 1 14 15 3 1 1 0 3 -
+p673
+aVJeff Malone UTH 11/27/1991 UTH vs. CHH W 38 26 12 23 52.2 0 0 - 2 2 100.0 1 1 2 1 1 1 1 0 -
+p674
+aVCorey Crowder UTH 11/27/1991 UTH vs. CHH W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -
+p675
+aVEric Murdock UTH 11/27/1991 UTH vs. CHH W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p676
+aVDavid Benoit UTH 11/27/1991 UTH vs. CHH W 15 4 2 7 28.6 0 0 - 0 0 - 4 4 8 2 0 0 0 0 -
+p677
+aVTyrone Corbin UTH 11/27/1991 UTH vs. CHH W 26 10 4 10 40.0 0 0 - 2 2 100.0 5 7 12 1 0 0 0 1 -
+p678
+aVJohn Stockton UTH 11/27/1991 UTH vs. CHH W 39 20 7 14 50.0 1 4 25.0 5 6 83.3 0 2 2 14 3 0 6 1 -
+p679
+aVMike Brown UTH 11/27/1991 UTH vs. CHH W 33 8 3 6 50.0 0 0 - 2 2 100.0 3 6 9 3 2 0 4 1 -
+p680
+aVJeff Malone UTH 11/23/1991 UTH @ DAL L 42 12 6 16 37.5 0 0 - 0 0 - 0 2 2 1 1 0 1 3 -
+p681
+aVThurl Bailey UTH 11/23/1991 UTH @ DAL L 29 10 4 9 44.4 0 1 0.0 2 4 50.0 5 4 9 2 0 0 1 3 -
+p682
+aVMike Brown UTH 11/23/1991 UTH @ DAL L 20 4 1 3 33.3 0 0 - 2 4 50.0 0 1 1 0 1 0 2 1 -
+p683
+aVCorey Crowder UTH 11/23/1991 UTH @ DAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p684
+aVBlue Edwards UTH 11/23/1991 UTH @ DAL L 21 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 2 1 0 2 2 -
+p685
+aVDelaney Rudd UTH 11/23/1991 UTH @ DAL L 8 9 3 5 60.0 2 4 50.0 1 2 50.0 0 0 0 0 0 0 0 1 -
+p686
+aVEric Murdock UTH 11/23/1991 UTH @ DAL L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 2 0 2 0 -
+p687
+aVJohn Stockton UTH 11/23/1991 UTH @ DAL L 42 22 8 14 57.1 2 5 40.0 4 4 100.0 0 3 3 16 0 0 4 3 -
+p688
+aVMark Eaton UTH 11/23/1991 UTH @ DAL L 16 8 3 4 75.0 0 0 - 2 2 100.0 4 5 9 1 0 0 1 1 -
+p689
+aVKarl Malone UTH 11/23/1991 UTH @ DAL L 47 33 11 24 45.8 1 1 100.0 10 16 62.5 3 10 13 3 1 0 6 5 -
+p690
+aVDavid Benoit UTH 11/23/1991 UTH @ DAL L 24 3 1 3 33.3 0 1 0.0 1 1 100.0 2 7 9 0 0 1 0 5 -
+p691
+aVDavid Benoit UTH 11/22/1991 UTH vs. DEN W 20 8 4 5 80.0 0 0 - 0 0 - 2 3 5 1 1 0 4 3 -
+p692
+aVMike Brown UTH 11/22/1991 UTH vs. DEN W 30 12 3 6 50.0 0 0 - 6 11 54.5 3 6 9 2 1 0 1 3 -
+p693
+aVJeff Malone UTH 11/22/1991 UTH vs. DEN W 35 31 14 18 77.8 0 0 - 3 3 100.0 0 1 1 3 1 0 1 3 -
+p694
+aVCorey Crowder UTH 11/22/1991 UTH vs. DEN W 11 6 2 2 100.0 1 1 100.0 1 1 100.0 0 0 0 0 1 0 0 2 -
+p695
+aVBlue Edwards UTH 11/22/1991 UTH vs. DEN W 28 15 6 10 60.0 0 0 - 3 4 75.0 1 5 6 1 0 1 2 2 -
+p696
+aVEric Murdock UTH 11/22/1991 UTH vs. DEN W 15 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 4 2 0 0 2 -
+p697
+aVJohn Stockton UTH 11/22/1991 UTH vs. DEN W 33 13 4 11 36.4 0 0 - 5 7 71.4 0 5 5 13 3 0 8 5 -
+p698
+aVDelaney Rudd UTH 11/22/1991 UTH vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -
+p699
+aVKarl Malone UTH 11/22/1991 UTH vs. DEN W 35 19 4 7 57.1 0 0 - 11 15 73.3 3 13 16 4 1 1 4 5 -
+p700
+aVThurl Bailey UTH 11/22/1991 UTH vs. DEN W 22 11 4 9 44.4 0 0 - 3 4 75.0 3 9 12 1 0 6 1 3 -
+p701
+aVMark Eaton UTH 11/22/1991 UTH vs. DEN W 7 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 3 1 4 -
+p702
+aVBlue Edwards UTH 11/20/1991 UTH @ ORL W 11 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -
+p703
+aVEric Murdock UTH 11/20/1991 UTH @ ORL W 8 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 1 0 2 1 -
+p704
+aVJeff Malone UTH 11/20/1991 UTH @ ORL W 37 26 10 21 47.6 0 0 - 6 6 100.0 1 1 2 2 3 0 4 3 -
+p705
+aVKarl Malone UTH 11/20/1991 UTH @ ORL W 40 26 11 20 55.0 0 1 0.0 4 8 50.0 1 3 4 2 0 0 1 5 -
+p706
+aVThurl Bailey UTH 11/20/1991 UTH @ ORL W 36 21 8 13 61.5 0 0 - 5 7 71.4 2 4 6 1 0 1 2 3 -
+p707
+aVMike Brown UTH 11/20/1991 UTH @ ORL W 18 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 1 2 0 3 -
+p708
+aVCorey Crowder UTH 11/20/1991 UTH @ ORL W 11 5 1 2 50.0 1 1 100.0 2 2 100.0 1 0 1 1 1 0 0 0 -
+p709
+aVJohn Stockton UTH 11/20/1991 UTH @ ORL W 40 7 1 6 16.7 0 0 - 5 5 100.0 0 5 5 15 2 0 4 3 -
+p710
+aVDavid Benoit UTH 11/20/1991 UTH @ ORL W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -
+p711
+aVMark Eaton UTH 11/20/1991 UTH @ ORL W 30 3 0 2 0.0 0 0 - 3 4 75.0 5 5 10 0 0 5 2 3 -
+p712
+aVKarl Malone UTH 11/19/1991 UTH @ MIA L 35 25 11 17 64.7 0 0 - 3 5 60.0 4 5 9 3 1 0 4 4 -
+p713
+aVMark Eaton UTH 11/19/1991 UTH @ MIA L 15 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 1 0 2 -
+p714
+aVJohn Stockton UTH 11/19/1991 UTH @ MIA L 27 4 1 6 16.7 0 1 0.0 2 2 100.0 0 1 1 8 0 0 3 5 -
+p715
+aVCorey Crowder UTH 11/19/1991 UTH @ MIA L 11 10 3 6 50.0 2 3 66.7 2 2 100.0 0 2 2 0 0 1 2 2 -
+p716
+aVJeff Malone UTH 11/19/1991 UTH @ MIA L 32 16 7 14 50.0 0 0 - 2 2 100.0 0 1 1 4 0 0 1 1 -
+p717
+aVDavid Benoit UTH 11/19/1991 UTH @ MIA L 18 6 2 2 100.0 0 0 - 2 2 100.0 0 4 4 0 0 0 3 2 -
+p718
+aVThurl Bailey UTH 11/19/1991 UTH @ MIA L 21 6 1 5 20.0 0 0 - 4 4 100.0 0 3 3 1 3 2 2 0 -
+p719
+aVBlue Edwards UTH 11/19/1991 UTH @ MIA L 27 14 7 11 63.6 0 0 - 0 0 - 0 2 2 3 0 0 3 3 -
+p720
+aVMike Brown UTH 11/19/1991 UTH @ MIA L 26 6 2 4 50.0 0 0 - 2 4 50.0 2 4 6 2 0 0 1 2 -
+p721
+aVDelaney Rudd UTH 11/19/1991 UTH @ MIA L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 1 0 1 0 -
+p722
+aVEric Murdock UTH 11/19/1991 UTH @ MIA L 12 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 0 0 1 3 -
+p723
+aVMike Brown UTH 11/16/1991 UTH @ WAS W 25 13 4 8 50.0 0 0 - 5 6 83.3 3 4 7 1 1 1 2 5 -
+p724
+aVMark Eaton UTH 11/16/1991 UTH @ WAS W 21 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 3 1 5 -
+p725
+aVKarl Malone UTH 11/16/1991 UTH @ WAS W 32 22 6 20 30.0 0 0 - 10 15 66.7 2 9 11 3 3 0 5 4 -
+p726
+aVCorey Crowder UTH 11/16/1991 UTH @ WAS W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -
+p727
+aVEric Murdock UTH 11/16/1991 UTH @ WAS W 10 6 3 4 75.0 0 0 - 0 0 - 0 0 0 2 1 0 0 2 -
+p728
+aVJohn Stockton UTH 11/16/1991 UTH @ WAS W 38 8 2 9 22.2 0 0 - 4 6 66.7 2 0 2 12 4 0 2 2 -
+p729
+aVDavid Benoit UTH 11/16/1991 UTH @ WAS W 16 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -
+p730
+aVThurl Bailey UTH 11/16/1991 UTH @ WAS W 33 10 2 7 28.6 0 0 - 6 6 100.0 3 2 5 3 0 2 2 2 -
+p731
+aVJeff Malone UTH 11/16/1991 UTH @ WAS W 38 28 13 21 61.9 0 1 0.0 2 2 100.0 1 3 4 5 0 0 2 2 -
+p732
+aVBlue Edwards UTH 11/16/1991 UTH @ WAS W 21 14 7 10 70.0 0 0 - 0 0 - 2 1 3 0 1 1 0 4 -
+p733
+aVMike Brown UTH 11/15/1991 UTH @ DET L 18 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 1 0 0 0 6 -
+p734
+aVJohn Stockton UTH 11/15/1991 UTH @ DET L 35 20 6 10 60.0 3 4 75.0 5 6 83.3 1 1 2 13 1 0 3 6 -
+p735
+aVKarl Malone UTH 11/15/1991 UTH @ DET L 41 31 13 20 65.0 0 1 0.0 5 7 71.4 3 7 10 4 2 1 5 4 -
+p736
+aVEric Murdock UTH 11/15/1991 UTH @ DET L 13 12 5 9 55.6 2 5 40.0 0 0 - 2 0 2 1 1 0 3 2 -
+p737
+aVJeff Malone UTH 11/15/1991 UTH @ DET L 39 25 9 17 52.9 0 0 - 7 8 87.5 0 2 2 1 1 0 3 2 -
+p738
+aVBlue Edwards UTH 11/15/1991 UTH @ DET L 27 16 6 10 60.0 1 1 100.0 3 4 75.0 2 2 4 1 0 1 1 4 -
+p739
+aVThurl Bailey UTH 11/15/1991 UTH @ DET L 25 5 1 5 20.0 0 0 - 3 4 75.0 0 3 3 2 0 1 2 4 -
+p740
+aVCorey Crowder UTH 11/15/1991 UTH @ DET L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p741
+aVMark Eaton UTH 11/15/1991 UTH @ DET L 25 4 2 2 100.0 0 0 - 0 0 - 0 3 3 2 1 0 0 2 -
+p742
+aVDavid Benoit UTH 11/15/1991 UTH @ DET L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p743
+aVThurl Bailey UTH 11/13/1991 UTH @ NJN W 18 3 0 5 0.0 0 0 - 3 4 75.0 1 2 3 1 1 0 2 1 -
+p744
+aVMark Eaton UTH 11/13/1991 UTH @ NJN W 41 7 3 7 42.9 0 0 - 1 2 50.0 3 7 10 0 0 7 1 3 -
+p745
+aVJeff Malone UTH 11/13/1991 UTH @ NJN W 36 15 5 12 41.7 0 0 - 5 6 83.3 0 5 5 0 0 0 3 2 -
+p746
+aVEric Murdock UTH 11/13/1991 UTH @ NJN W 12 7 2 7 28.6 0 1 0.0 3 5 60.0 0 0 0 1 2 0 0 2 -
+p747
+aVDavid Benoit UTH 11/13/1991 UTH @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p748
+aVMike Brown UTH 11/13/1991 UTH @ NJN W 17 10 3 6 50.0 0 0 - 4 6 66.7 2 3 5 0 1 0 1 3 -
+p749
+aVBlue Edwards UTH 11/13/1991 UTH @ NJN W 29 8 4 7 57.1 0 0 - 0 1 0.0 0 3 3 2 1 0 1 2 -
+p750
+aVDelaney Rudd UTH 11/13/1991 UTH @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p751
+aVKarl Malone UTH 11/13/1991 UTH @ NJN W 38 35 12 25 48.0 0 0 - 11 13 84.6 5 9 14 0 2 2 2 1 -
+p752
+aVCorey Crowder UTH 11/13/1991 UTH @ NJN W 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p753
+aVJohn Stockton UTH 11/13/1991 UTH @ NJN W 38 12 4 10 40.0 0 1 0.0 4 4 100.0 3 2 5 11 6 1 3 3 -
+p754
+aVJohn Stockton UTH 11/11/1991 UTH vs. SAC W 34 15 6 11 54.5 2 2 100.0 1 2 50.0 0 0 0 13 3 1 4 3 -
+p755
+aVMark Eaton UTH 11/11/1991 UTH vs. SAC W 27 2 1 2 50.0 0 0 - 0 0 - 0 10 10 0 0 8 0 3 -
+p756
+aVBlue Edwards UTH 11/11/1991 UTH vs. SAC W 28 11 4 6 66.7 0 0 - 3 4 75.0 0 3 3 4 0 1 2 3 -
+p757
+aVThurl Bailey UTH 11/11/1991 UTH vs. SAC W 22 13 6 12 50.0 0 0 - 1 2 50.0 3 2 5 1 0 0 1 2 -
+p758
+aVEric Murdock UTH 11/11/1991 UTH vs. SAC W 14 2 0 5 0.0 0 0 - 2 4 50.0 1 3 4 3 3 0 1 0 -
+p759
+aVKarl Malone UTH 11/11/1991 UTH vs. SAC W 35 29 12 18 66.7 0 1 0.0 5 8 62.5 2 8 10 3 1 0 7 3 -
+p760
+aVDavid Benoit UTH 11/11/1991 UTH vs. SAC W 12 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 1 1 1 0 -
+p761
+aVMike Brown UTH 11/11/1991 UTH vs. SAC W 21 6 3 9 33.3 0 0 - 0 0 - 5 5 10 1 2 1 1 1 -
+p762
+aVJeff Malone UTH 11/11/1991 UTH vs. SAC W 31 21 6 12 50.0 0 0 - 9 9 100.0 2 4 6 3 0 0 2 0 -
+p763
+aVCorey Crowder UTH 11/11/1991 UTH vs. SAC W 14 2 1 8 12.5 0 2 0.0 0 0 - 3 0 3 0 0 0 0 1 -
+p764
+aVJeff Malone UTH 11/09/1991 UTH vs. LAC W 33 13 5 14 35.7 0 0 - 3 5 60.0 0 3 3 1 0 0 2 3 -
+p765
+aVDelaney Rudd UTH 11/09/1991 UTH vs. LAC W 9 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 1 -
+p766
+aVEric Murdock UTH 11/09/1991 UTH vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p767
+aVThurl Bailey UTH 11/09/1991 UTH vs. LAC W 22 10 3 9 33.3 0 0 - 4 5 80.0 0 7 7 3 1 0 3 4 -
+p768
+aVMark Eaton UTH 11/09/1991 UTH vs. LAC W 36 6 3 5 60.0 0 0 - 0 0 - 1 10 11 0 1 3 1 4 -
+p769
+aVKarl Malone UTH 11/09/1991 UTH vs. LAC W 39 31 12 19 63.2 0 0 - 7 10 70.0 4 10 14 4 1 0 4 1 -
+p770
+aVBlue Edwards UTH 11/09/1991 UTH vs. LAC W 25 14 7 11 63.6 0 0 - 0 0 - 1 2 3 1 0 1 1 3 -
+p771
+aVMike Brown UTH 11/09/1991 UTH vs. LAC W 19 2 1 4 25.0 0 0 - 0 2 0.0 3 4 7 0 0 0 1 1 -
+p772
+aVCorey Crowder UTH 11/09/1991 UTH vs. LAC W 15 5 2 4 50.0 1 2 50.0 0 0 - 1 2 3 1 2 0 1 3 -
+p773
+aVDavid Benoit UTH 11/09/1991 UTH vs. LAC W 1 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -
+p774
+aVJohn Stockton UTH 11/09/1991 UTH vs. LAC W 36 12 5 13 38.5 1 4 25.0 1 2 50.0 2 2 4 14 2 1 4 1 -
+p775
+aVBlue Edwards UTH 11/07/1991 UTH vs. SEA L 34 14 7 9 77.8 0 0 - 0 0 - 1 1 2 1 2 0 1 3 -
+p776
+aVMike Brown UTH 11/07/1991 UTH vs. SEA L 25 17 7 8 87.5 0 0 - 3 6 50.0 6 6 12 0 0 1 1 4 -
+p777
+aVDavid Benoit UTH 11/07/1991 UTH vs. SEA L 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p778
+aVEric Murdock UTH 11/07/1991 UTH vs. SEA L 7 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 -
+p779
+aVDelaney Rudd UTH 11/07/1991 UTH vs. SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p780
+aVCorey Crowder UTH 11/07/1991 UTH vs. SEA L 8 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -
+p781
+aVJohn Stockton UTH 11/07/1991 UTH vs. SEA L 41 23 10 22 45.5 0 7 0.0 3 3 100.0 1 1 2 16 5 0 3 4 -
+p782
+aVKarl Malone UTH 11/07/1991 UTH vs. SEA L 27 19 7 15 46.7 0 1 0.0 5 6 83.3 1 4 5 3 1 0 4 2 -
+p783
+aVJeff Malone UTH 11/07/1991 UTH vs. SEA L 37 15 7 16 43.8 0 0 - 1 1 100.0 1 1 2 4 0 0 2 2 -
+p784
+aVThurl Bailey UTH 11/07/1991 UTH vs. SEA L 17 4 1 7 14.3 0 0 - 2 2 100.0 1 3 4 0 0 0 0 2 -
+p785
+aVMark Eaton UTH 11/07/1991 UTH vs. SEA L 31 0 0 3 0.0 0 0 - 0 4 0.0 4 6 10 0 0 5 1 5 -
+p786
+aVDelaney Rudd UTH 11/05/1991 UTH @ ATL L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 3 -
+p787
+aVJeff Malone UTH 11/05/1991 UTH @ ATL L 37 22 9 19 47.4 0 0 - 4 4 100.0 0 1 1 1 0 0 1 0 -
+p788
+aVCorey Crowder UTH 11/05/1991 UTH @ ATL L 7 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -
+p789
+aVMike Brown UTH 11/05/1991 UTH @ ATL L 20 6 3 8 37.5 0 0 - 0 0 - 3 2 5 1 0 2 1 1 -
+p790
+aVThurl Bailey UTH 11/05/1991 UTH @ ATL L 28 6 1 6 16.7 0 0 - 4 6 66.7 3 4 7 1 0 0 1 2 -
+p791
+aVJohn Stockton UTH 11/05/1991 UTH @ ATL L 38 19 7 10 70.0 4 5 80.0 1 1 100.0 0 1 1 15 6 0 6 5 -
+p792
+aVBlue Edwards UTH 11/05/1991 UTH @ ATL L 21 8 3 7 42.9 0 0 - 2 2 100.0 1 4 5 0 1 0 1 3 -
+p793
+aVKarl Malone UTH 11/05/1991 UTH @ ATL L 40 23 9 25 36.0 0 0 - 5 6 83.3 2 5 7 1 0 0 1 2 -
+p794
+aVDavid Benoit UTH 11/05/1991 UTH @ ATL L 12 2 1 3 33.3 0 0 - 0 0 - 4 2 6 0 0 0 1 0 -
+p795
+aVMark Eaton UTH 11/05/1991 UTH @ ATL L 27 4 2 2 100.0 0 0 - 0 0 - 1 6 7 1 0 0 1 1 -
+p796
+aVJeff Malone UTH 11/02/1991 UTH @ IND L 32 15 7 13 53.8 0 0 - 1 2 50.0 0 1 1 1 0 0 2 3 -
+p797
+aVDavid Benoit UTH 11/02/1991 UTH @ IND L 15 8 3 6 50.0 0 0 - 2 2 100.0 1 5 6 1 0 1 0 1 -
+p798
+aVDelaney Rudd UTH 11/02/1991 UTH @ IND L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 4 -
+p799
+aVBlue Edwards UTH 11/02/1991 UTH @ IND L 23 14 7 14 50.0 0 0 - 0 0 - 1 1 2 0 1 0 2 4 -
+p800
+aVEric Murdock UTH 11/02/1991 UTH @ IND L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 2 3 -
+p801
+aVThurl Bailey UTH 11/02/1991 UTH @ IND L 25 17 6 8 75.0 0 0 - 5 5 100.0 2 7 9 1 0 3 2 4 -
+p802
+aVMark Eaton UTH 11/02/1991 UTH @ IND L 27 0 0 4 0.0 0 0 - 0 0 - 2 7 9 0 0 0 4 3 -
+p803
+aVCorey Crowder UTH 11/02/1991 UTH @ IND L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p804
+aVKarl Malone UTH 11/02/1991 UTH @ IND L 37 37 12 22 54.5 0 0 - 13 15 86.7 4 9 13 0 2 0 3 2 -
+p805
+aVJohn Stockton UTH 11/02/1991 UTH @ IND L 32 10 3 7 42.9 0 1 0.0 4 4 100.0 1 1 2 19 2 0 4 2 -
+p806
+aVMike Brown UTH 11/02/1991 UTH @ IND L 15 3 1 4 25.0 0 0 - 1 3 33.3 3 3 6 0 1 0 1 3 -
+p807
+aVDavid Benoit UTH 11/01/1991 UTH @ MIN W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -
+p808
+aVJohn Stockton UTH 11/01/1991 UTH @ MIN W 37 21 7 9 77.8 1 1 100.0 6 6 100.0 0 6 6 12 4 0 5 3 -
+p809
+aVThurl Bailey UTH 11/01/1991 UTH @ MIN W 29 6 2 6 33.3 0 0 - 2 2 100.0 0 5 5 2 0 0 2 1 -
+p810
+aVKarl Malone UTH 11/01/1991 UTH @ MIN W 40 35 14 19 73.7 0 1 0.0 7 12 58.3 4 9 13 3 3 1 5 3 -
+p811
+aVDelaney Rudd UTH 11/01/1991 UTH @ MIN W 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p812
+aVMark Eaton UTH 11/01/1991 UTH @ MIN W 34 6 2 2 100.0 0 0 - 2 3 66.7 2 5 7 1 0 6 5 4 -
+p813
+aVMike Brown UTH 11/01/1991 UTH @ MIN W 20 3 1 4 25.0 0 0 - 1 2 50.0 3 2 5 0 0 0 2 4 -
+p814
+aVJeff Malone UTH 11/01/1991 UTH @ MIN W 39 25 9 16 56.3 0 0 - 7 9 77.8 1 3 4 3 1 0 0 2 -
+p815
+aVBlue Edwards UTH 11/01/1991 UTH @ MIN W 24 12 5 9 55.6 0 0 - 2 2 100.0 1 1 2 2 0 0 2 4 -
+p816
+a.

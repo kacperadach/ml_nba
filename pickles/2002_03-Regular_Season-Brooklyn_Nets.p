@@ -1,0 +1,1656 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRichard Jefferson NJN 04/16/2003 NJN @ IND L 29 7 3 7 42.9 0 0 - 1 2 50.0 2 4 6 0 0 0 1 1 -1
+p2
+aVAnthony Johnson NJN 04/16/2003 NJN @ IND L 27 16 5 11 45.5 0 2 0.0 6 7 85.7 0 3 3 3 0 0 1 2 -4
+p3
+aVJason Collins NJN 04/16/2003 NJN @ IND L 20 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 2 0 4 -3
+p4
+aVBrandon Armstrong NJN 04/16/2003 NJN @ IND L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p5
+aVKenyon Martin NJN 04/16/2003 NJN @ IND L 21 11 5 9 55.6 1 1 100.0 0 0 - 1 3 4 1 0 0 1 4 -2
+p6
+aVJason Kidd NJN 04/16/2003 NJN @ IND L 21 11 4 11 36.4 2 5 40.0 1 1 100.0 0 2 2 8 2 0 2 0 -3
+p7
+aVKerry Kittles NJN 04/16/2003 NJN @ IND L 17 2 1 8 12.5 0 3 0.0 0 0 - 0 1 1 0 0 1 0 0 -1
+p8
+aVLucious Harris NJN 04/16/2003 NJN @ IND L 19 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -9
+p9
+aVBrian Scalabrine NJN 04/16/2003 NJN @ IND L 19 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 2 2 -3
+p10
+aVAaron Williams NJN 04/16/2003 NJN @ IND L 28 14 6 8 75.0 0 0 - 2 2 100.0 5 4 9 1 0 0 2 2 -4
+p11
+aVTamar Slay NJN 04/16/2003 NJN @ IND L 14 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 2 0 5 4 -2
+p12
+aVRodney Rogers NJN 04/16/2003 NJN @ IND L 20 9 4 8 50.0 1 2 50.0 0 0 - 1 4 5 0 0 1 1 2 -3
+p13
+aVKerry Kittles NJN 04/14/2003 NJN vs. NOH L 20 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 0 1 0 3 -5
+p14
+aVJason Collins NJN 04/14/2003 NJN vs. NOH L 22 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 5 -4
+p15
+aVKenyon Martin NJN 04/14/2003 NJN vs. NOH L 45 23 10 24 41.7 0 1 0.0 3 3 100.0 2 13 15 4 3 0 4 4 -9
+p16
+aVAnthony Johnson NJN 04/14/2003 NJN vs. NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p17
+aVAaron Williams NJN 04/14/2003 NJN vs. NOH L 20 0 0 4 0.0 0 0 - 0 0 - 1 0 1 2 0 0 3 1 -3
+p18
+aVLucious Harris NJN 04/14/2003 NJN vs. NOH L 30 7 2 6 33.3 0 1 0.0 3 4 75.0 1 2 3 0 0 0 2 2 -12
+p19
+aVRichard Jefferson NJN 04/14/2003 NJN vs. NOH L 44 21 7 17 41.2 0 0 - 7 9 77.8 2 6 8 2 2 0 3 4 -17
+p20
+aVJason Kidd NJN 04/14/2003 NJN vs. NOH L 44 14 4 14 28.6 1 6 16.7 5 6 83.3 0 5 5 6 1 1 1 4 -9
+p21
+aVRodney Rogers NJN 04/14/2003 NJN vs. NOH L 13 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 0 0 1 0 0 -6
+p22
+aVDikembe Mutombo NJN 04/12/2003 NJN vs. TOR W 16 4 2 7 28.6 0 0 - 0 1 0.0 4 7 11 1 0 2 1 4 4
+p23
+aVAaron Williams NJN 04/12/2003 NJN vs. TOR W 12 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 1 0 0 3 3 -1
+p24
+aVJason Kidd NJN 04/12/2003 NJN vs. TOR W 38 17 7 17 41.2 3 8 37.5 0 0 - 1 3 4 8 1 0 4 2 10
+p25
+aVJason Collins NJN 04/12/2003 NJN vs. TOR W 20 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 1 3 1 2 5
+p26
+aVBrian Scalabrine NJN 04/12/2003 NJN vs. TOR W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 1 0 1 -8
+p27
+aVRodney Rogers NJN 04/12/2003 NJN vs. TOR W 22 8 3 8 37.5 0 0 - 2 2 100.0 3 1 4 2 3 0 0 4 -3
+p28
+aVKerry Kittles NJN 04/12/2003 NJN vs. TOR W 27 10 5 9 55.6 0 3 0.0 0 0 - 1 4 5 4 1 1 0 0 10
+p29
+aVRichard Jefferson NJN 04/12/2003 NJN vs. TOR W 31 21 7 11 63.6 1 1 100.0 6 8 75.0 1 3 4 1 0 0 3 1 14
+p30
+aVLucious Harris NJN 04/12/2003 NJN vs. TOR W 21 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 1 0 0 1 1 -2
+p31
+aVAnthony Johnson NJN 04/12/2003 NJN vs. TOR W 10 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 1 -2
+p32
+aVKenyon Martin NJN 04/12/2003 NJN vs. TOR W 38 19 8 16 50.0 0 1 0.0 3 6 50.0 2 7 9 5 0 1 1 3 13
+p33
+aVDikembe Mutombo NJN 04/11/2003 NJN @ CHI L 17 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 3 3 5
+p34
+aVLucious Harris NJN 04/11/2003 NJN @ CHI L 25 7 3 9 33.3 0 4 0.0 1 1 100.0 0 0 0 1 1 0 0 0 -19
+p35
+aVKenyon Martin NJN 04/11/2003 NJN @ CHI L 39 29 11 18 61.1 0 0 - 7 9 77.8 1 7 8 2 3 6 1 5 0
+p36
+aVAaron Williams NJN 04/11/2003 NJN @ CHI L 21 4 2 4 50.0 0 0 - 0 0 - 2 3 5 2 2 0 1 4 -18
+p37
+aVJason Kidd NJN 04/11/2003 NJN @ CHI L 45 11 3 12 25.0 0 4 0.0 5 5 100.0 1 3 4 12 4 0 6 2 -10
+p38
+aVRodney Rogers NJN 04/11/2003 NJN @ CHI L 14 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 1 0 0 1 3 -13
+p39
+aVKerry Kittles NJN 04/11/2003 NJN @ CHI L 26 13 4 10 40.0 1 2 50.0 4 4 100.0 1 5 6 3 0 0 2 0 11
+p40
+aVJason Collins NJN 04/11/2003 NJN @ CHI L 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 1 1 5 6
+p41
+aVRichard Jefferson NJN 04/11/2003 NJN @ CHI L 42 17 4 8 50.0 0 0 - 9 9 100.0 0 2 2 3 0 0 2 4 -7
+p42
+aVDikembe Mutombo NJN 04/09/2003 NJN @ ATL L 19 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 0 -3
+p43
+aVKenyon Martin NJN 04/09/2003 NJN @ ATL L 29 8 4 11 36.4 0 0 - 0 0 - 0 3 3 4 0 0 2 3 -5
+p44
+aVKerry Kittles NJN 04/09/2003 NJN @ ATL L 41 14 6 9 66.7 2 4 50.0 0 0 - 1 6 7 2 3 1 0 1 -5
+p45
+aVRichard Jefferson NJN 04/09/2003 NJN @ ATL L 32 14 5 13 38.5 0 1 0.0 4 4 100.0 0 6 6 1 0 0 1 2 -9
+p46
+aVJason Collins NJN 04/09/2003 NJN @ ATL L 23 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 1 0 1 2 2 2
+p47
+aVAaron Williams NJN 04/09/2003 NJN @ ATL L 9 8 4 6 66.7 0 0 - 0 0 - 4 1 5 1 0 0 0 1 -5
+p48
+aVRodney Rogers NJN 04/09/2003 NJN @ ATL L 21 15 4 8 50.0 3 4 75.0 4 4 100.0 2 2 4 0 1 0 1 3 2
+p49
+aVLucious Harris NJN 04/09/2003 NJN @ ATL L 23 4 2 9 22.2 0 3 0.0 0 0 - 2 0 2 2 2 0 0 1 4
+p50
+aVJason Kidd NJN 04/09/2003 NJN @ ATL L 43 23 9 20 45.0 2 8 25.0 3 4 75.0 2 9 11 12 0 0 4 0 -6
+p51
+aVJason Kidd NJN 04/06/2003 NJN @ TOR W 41 5 2 9 22.2 1 4 25.0 0 0 - 1 5 6 13 2 0 4 1 8
+p52
+aVLucious Harris NJN 04/06/2003 NJN @ TOR W 25 15 6 11 54.5 1 4 25.0 2 2 100.0 0 0 0 3 1 0 1 1 0
+p53
+aVKenyon Martin NJN 04/06/2003 NJN @ TOR W 36 24 10 21 47.6 0 1 0.0 4 4 100.0 1 9 10 4 0 0 0 3 11
+p54
+aVJason Collins NJN 04/06/2003 NJN @ TOR W 24 14 5 6 83.3 0 0 - 4 4 100.0 2 2 4 1 0 2 1 3 10
+p55
+aVKerry Kittles NJN 04/06/2003 NJN @ TOR W 30 8 4 9 44.4 0 0 - 0 2 0.0 2 4 6 2 1 2 0 3 10
+p56
+aVAaron Williams NJN 04/06/2003 NJN @ TOR W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p57
+aVRichard Jefferson NJN 04/06/2003 NJN @ TOR W 39 16 4 6 66.7 0 0 - 8 10 80.0 1 2 3 3 0 0 2 1 11
+p58
+aVBrian Scalabrine NJN 04/06/2003 NJN @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p59
+aVDikembe Mutombo NJN 04/06/2003 NJN @ TOR W 18 4 2 5 40.0 0 0 - 0 0 - 1 5 6 1 0 0 0 2 -4
+p60
+aVAnthony Johnson NJN 04/06/2003 NJN @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p61
+aVRodney Rogers NJN 04/06/2003 NJN @ TOR W 20 6 2 7 28.6 0 0 - 2 2 100.0 2 1 3 1 0 0 1 1 -3
+p62
+aVDikembe Mutombo NJN 04/04/2003 NJN vs. MIA W 10 2 0 3 0.0 0 0 - 2 4 50.0 1 2 3 0 0 0 1 2 0
+p63
+aVJason Kidd NJN 04/04/2003 NJN vs. MIA W 41 30 11 20 55.0 4 9 44.4 4 4 100.0 2 4 6 8 3 0 7 1 3
+p64
+aVKerry Kittles NJN 04/04/2003 NJN vs. MIA W 33 11 5 11 45.5 1 3 33.3 0 1 0.0 0 6 6 2 2 0 0 3 23
+p65
+aVAaron Williams NJN 04/04/2003 NJN vs. MIA W 17 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 3 1 0 0 0 9
+p66
+aVTamar Slay NJN 04/04/2003 NJN vs. MIA W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -3
+p67
+aVJason Collins NJN 04/04/2003 NJN vs. MIA W 23 6 2 8 25.0 0 0 - 2 5 40.0 4 1 5 3 1 0 1 2 2
+p68
+aVAnthony Johnson NJN 04/04/2003 NJN vs. MIA W 26 2 1 4 25.0 0 0 - 0 0 - 1 5 6 3 0 0 0 2 14
+p69
+aVBrian Scalabrine NJN 04/04/2003 NJN vs. MIA W 23 7 2 4 50.0 0 1 0.0 3 3 100.0 1 3 4 2 0 1 3 4 10
+p70
+aVRichard Jefferson NJN 04/04/2003 NJN vs. MIA W 39 18 7 13 53.8 0 1 0.0 4 7 57.1 2 3 5 6 1 0 1 5 7
+p71
+aVRodney Rogers NJN 04/04/2003 NJN vs. MIA W 22 12 4 7 57.1 2 4 50.0 2 2 100.0 1 6 7 1 3 1 0 4 15
+p72
+aVRichard Jefferson NJN 04/02/2003 NJN @ NOH L 43 24 9 19 47.4 0 1 0.0 6 8 75.0 1 1 2 5 1 0 1 4 0
+p73
+aVRodney Rogers NJN 04/02/2003 NJN @ NOH L 31 16 7 16 43.8 2 5 40.0 0 0 - 3 5 8 2 1 1 0 3 -12
+p74
+aVKerry Kittles NJN 04/02/2003 NJN @ NOH L 40 19 7 15 46.7 3 5 60.0 2 2 100.0 2 2 4 3 2 0 1 3 -14
+p75
+aVAaron Williams NJN 04/02/2003 NJN @ NOH L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -3
+p76
+aVAnthony Johnson NJN 04/02/2003 NJN @ NOH L 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 1 1 1 2
+p77
+aVDikembe Mutombo NJN 04/02/2003 NJN @ NOH L 14 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 1 0 1 0 2 1
+p78
+aVJason Kidd NJN 04/02/2003 NJN @ NOH L 45 17 5 15 33.3 0 2 0.0 7 8 87.5 2 2 4 13 3 1 4 2 -6
+p79
+aVJason Collins NJN 04/02/2003 NJN @ NOH L 30 10 2 6 33.3 0 0 - 6 9 66.7 2 5 7 0 0 0 1 5 -8
+p80
+aVBrian Scalabrine NJN 04/02/2003 NJN @ NOH L 22 7 2 3 66.7 1 2 50.0 2 2 100.0 1 3 4 0 1 1 1 1 -5
+p81
+aVDikembe Mutombo NJN 03/31/2003 NJN vs. HOU W 16 4 2 6 33.3 0 0 - 0 0 - 4 4 8 0 0 1 1 4 3
+p82
+aVKerry Kittles NJN 03/31/2003 NJN vs. HOU W 26 11 3 6 50.0 3 4 75.0 2 2 100.0 0 4 4 3 0 1 1 0 9
+p83
+aVAaron Williams NJN 03/31/2003 NJN vs. HOU W 15 4 2 5 40.0 0 0 - 0 0 - 3 2 5 1 0 2 1 3 9
+p84
+aVAnthony Johnson NJN 03/31/2003 NJN vs. HOU W 24 11 5 11 45.5 1 3 33.3 0 0 - 0 1 1 4 1 0 1 1 18
+p85
+aVRichard Jefferson NJN 03/31/2003 NJN vs. HOU W 47 30 10 17 58.8 0 0 - 10 13 76.9 5 5 10 11 0 0 1 1 28
+p86
+aVTamar Slay NJN 03/31/2003 NJN vs. HOU W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -5
+p87
+aVJason Kidd NJN 03/31/2003 NJN vs. HOU W 43 30 12 23 52.2 5 10 50.0 1 1 100.0 2 10 12 3 3 1 2 1 26
+p88
+aVBrian Scalabrine NJN 03/31/2003 NJN vs. HOU W 30 4 2 7 28.6 0 1 0.0 0 0 - 4 5 9 5 0 0 1 3 13
+p89
+aVJason Collins NJN 03/31/2003 NJN vs. HOU W 23 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 0 1 2 3
+p90
+aVRodney Rogers NJN 03/31/2003 NJN vs. HOU W 15 12 4 10 40.0 1 3 33.3 3 4 75.0 2 3 5 0 0 1 0 5 16
+p91
+aVKerry Kittles NJN 03/29/2003 NJN vs. GSW W 37 10 5 14 35.7 0 4 0.0 0 1 0.0 0 1 1 4 4 1 1 0 6
+p92
+aVRichard Jefferson NJN 03/29/2003 NJN vs. GSW W 39 22 8 13 61.5 0 0 - 6 10 60.0 1 2 3 3 4 1 5 5 4
+p93
+aVJason Collins NJN 03/29/2003 NJN vs. GSW W 22 13 4 4 100.0 0 0 - 5 5 100.0 2 4 6 1 0 1 0 5 16
+p94
+aVRodney Rogers NJN 03/29/2003 NJN vs. GSW W 27 11 5 10 50.0 0 1 0.0 1 1 100.0 2 3 5 4 1 0 3 3 11
+p95
+aVJason Kidd NJN 03/29/2003 NJN vs. GSW W 42 22 9 19 47.4 3 6 50.0 1 1 100.0 2 5 7 13 5 1 2 2 12
+p96
+aVLucious Harris NJN 03/29/2003 NJN vs. GSW W 23 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 5 0 1 0 3 3
+p97
+aVAaron Williams NJN 03/29/2003 NJN vs. GSW W 20 14 6 9 66.7 0 0 - 2 3 66.7 2 3 5 1 0 1 0 2 2
+p98
+aVDikembe Mutombo NJN 03/29/2003 NJN vs. GSW W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p99
+aVBrian Scalabrine NJN 03/29/2003 NJN vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p100
+aVKenyon Martin NJN 03/29/2003 NJN vs. GSW W 24 13 6 11 54.5 0 0 - 1 2 50.0 2 5 7 1 0 0 1 2 12
+p101
+aVRichard Jefferson NJN 03/28/2003 NJN @ NYK W 41 39 16 22 72.7 0 0 - 7 7 100.0 3 3 6 4 0 0 3 2 14
+p102
+aVKenyon Martin NJN 03/28/2003 NJN @ NYK W 32 25 11 15 73.3 0 1 0.0 3 3 100.0 0 4 4 0 2 0 3 3 17
+p103
+aVAaron Williams NJN 03/28/2003 NJN @ NYK W 20 8 4 6 66.7 0 0 - 0 0 - 1 2 3 3 1 2 0 1 16
+p104
+aVRodney Rogers NJN 03/28/2003 NJN @ NYK W 19 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 3 1 0 1 3 12
+p105
+aVJason Collins NJN 03/28/2003 NJN @ NYK W 24 8 3 5 60.0 0 0 - 2 2 100.0 2 3 5 1 2 0 2 2 6
+p106
+aVJason Kidd NJN 03/28/2003 NJN @ NYK W 30 8 3 6 50.0 2 3 66.7 0 0 - 1 6 7 16 3 0 1 2 11
+p107
+aVLucious Harris NJN 03/28/2003 NJN @ NYK W 22 4 2 7 28.6 0 3 0.0 0 0 - 1 3 4 2 0 0 1 2 20
+p108
+aVBrian Scalabrine NJN 03/28/2003 NJN @ NYK W 3 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -1
+p109
+aVDonny Marshall NJN 03/28/2003 NJN @ NYK W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 0 -1
+p110
+aVAnthony Johnson NJN 03/28/2003 NJN @ NYK W 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 0 -1
+p111
+aVKerry Kittles NJN 03/28/2003 NJN @ NYK W 37 19 7 11 63.6 3 5 60.0 2 2 100.0 1 4 5 4 0 0 2 2 13
+p112
+aVBrandon Armstrong NJN 03/28/2003 NJN @ NYK W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p113
+aVKerry Kittles NJN 03/26/2003 NJN vs. NYK W 37 23 10 14 71.4 3 3 100.0 0 0 - 0 4 4 2 1 1 2 2 -2
+p114
+aVKenyon Martin NJN 03/26/2003 NJN vs. NYK W 40 24 9 17 52.9 0 1 0.0 6 7 85.7 2 8 10 5 1 1 3 3 3
+p115
+aVAaron Williams NJN 03/26/2003 NJN vs. NYK W 15 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 6
+p116
+aVLucious Harris NJN 03/26/2003 NJN vs. NYK W 20 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 1 0 6
+p117
+aVRichard Jefferson NJN 03/26/2003 NJN vs. NYK W 34 18 9 14 64.3 0 0 - 0 0 - 2 5 7 4 0 0 2 4 0
+p118
+aVRodney Rogers NJN 03/26/2003 NJN vs. NYK W 19 11 3 5 60.0 1 1 100.0 4 4 100.0 2 5 7 0 0 0 1 2 2
+p119
+aVJason Kidd NJN 03/26/2003 NJN vs. NYK W 45 17 4 11 36.4 0 2 0.0 9 12 75.0 1 8 9 8 3 0 4 2 13
+p120
+aVJason Collins NJN 03/26/2003 NJN vs. NYK W 31 4 1 3 33.3 0 0 - 2 4 50.0 0 2 2 3 1 0 3 4 2
+p121
+aVRodney Rogers NJN 03/23/2003 NJN @ CLE L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -7
+p122
+aVBrian Scalabrine NJN 03/23/2003 NJN @ CLE L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 0
+p123
+aVAnthony Johnson NJN 03/23/2003 NJN @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p124
+aVJason Kidd NJN 03/23/2003 NJN @ CLE L 39 21 5 16 31.3 1 5 20.0 10 11 90.9 4 2 6 8 3 0 4 2 4
+p125
+aVKerry Kittles NJN 03/23/2003 NJN @ CLE L 36 11 5 13 38.5 1 3 33.3 0 0 - 0 0 0 6 4 0 2 1 2
+p126
+aVAaron Williams NJN 03/23/2003 NJN @ CLE L 19 8 3 5 60.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 2 -13
+p127
+aVLucious Harris NJN 03/23/2003 NJN @ CLE L 18 10 4 9 44.4 0 0 - 2 3 66.7 0 5 5 1 0 0 1 0 -14
+p128
+aVJason Collins NJN 03/23/2003 NJN @ CLE L 29 10 4 5 80.0 0 0 - 2 3 66.7 1 6 7 0 0 0 1 5 10
+p129
+aVRichard Jefferson NJN 03/23/2003 NJN @ CLE L 39 8 4 10 40.0 0 0 - 0 0 - 1 0 1 3 2 0 2 1 -7
+p130
+aVKenyon Martin NJN 03/23/2003 NJN @ CLE L 39 18 8 20 40.0 0 2 0.0 2 3 66.7 2 6 8 3 3 2 4 5 4
+p131
+aVJason Collins NJN 03/22/2003 NJN vs. MEM W 32 11 1 4 25.0 0 0 - 9 10 90.0 2 3 5 1 0 0 1 2 -7
+p132
+aVKerry Kittles NJN 03/22/2003 NJN vs. MEM W 40 25 10 15 66.7 0 2 0.0 5 6 83.3 1 10 11 2 3 0 0 0 8
+p133
+aVLucious Harris NJN 03/22/2003 NJN vs. MEM W 21 7 3 9 33.3 1 1 100.0 0 0 - 1 5 6 2 2 0 2 0 16
+p134
+aVJason Kidd NJN 03/22/2003 NJN vs. MEM W 39 14 5 10 50.0 0 1 0.0 4 5 80.0 1 5 6 18 0 0 2 2 -3
+p135
+aVRodney Rogers NJN 03/22/2003 NJN vs. MEM W 17 8 4 7 57.1 0 0 - 0 0 - 1 0 1 0 1 0 3 3 14
+p136
+aVAaron Williams NJN 03/22/2003 NJN vs. MEM W 19 8 4 5 80.0 0 0 - 0 1 0.0 2 2 4 0 1 0 4 1 18
+p137
+aVKenyon Martin NJN 03/22/2003 NJN vs. MEM W 31 17 7 11 63.6 0 1 0.0 3 6 50.0 2 5 7 4 1 2 4 5 -5
+p138
+aVRichard Jefferson NJN 03/22/2003 NJN vs. MEM W 39 17 6 11 54.5 0 0 - 5 5 100.0 1 5 6 4 0 0 2 4 -5
+p139
+aVBrian Scalabrine NJN 03/22/2003 NJN vs. MEM W 3 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 4
+p140
+aVKerry Kittles NJN 03/19/2003 NJN vs. MIL L 31 11 5 12 41.7 1 4 25.0 0 0 - 0 2 2 1 0 0 1 2 -2
+p141
+aVBrian Scalabrine NJN 03/19/2003 NJN vs. MIL L 9 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 1 0 0 3 1 -8
+p142
+aVAnthony Johnson NJN 03/19/2003 NJN vs. MIL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -13
+p143
+aVJason Kidd NJN 03/19/2003 NJN vs. MIL L 41 17 4 10 40.0 2 3 66.7 7 7 100.0 1 8 9 9 1 1 5 2 -2
+p144
+aVDonny Marshall NJN 03/19/2003 NJN vs. MIL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p145
+aVRichard Jefferson NJN 03/19/2003 NJN vs. MIL L 44 14 6 14 42.9 0 0 - 2 2 100.0 5 7 12 1 2 2 4 4 -17
+p146
+aVAaron Williams NJN 03/19/2003 NJN vs. MIL L 23 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 2 1 3 -12
+p147
+aVKenyon Martin NJN 03/19/2003 NJN vs. MIL L 42 28 10 21 47.6 0 0 - 8 11 72.7 4 10 14 2 1 1 7 4 -9
+p148
+aVJason Collins NJN 03/19/2003 NJN vs. MIL L 22 7 2 5 40.0 0 0 - 3 5 60.0 4 4 8 0 1 0 2 4 1
+p149
+aVBrandon Armstrong NJN 03/19/2003 NJN vs. MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p150
+aVLucious Harris NJN 03/19/2003 NJN vs. MIL L 21 2 1 7 14.3 0 0 - 0 0 - 2 0 2 2 1 0 3 1 -25
+p151
+aVJason Collins NJN 03/18/2003 NJN @ BOS W 31 0 0 2 0.0 0 0 - 0 0 - 2 6 8 1 1 2 3 2 14
+p152
+aVJason Kidd NJN 03/18/2003 NJN @ BOS W 31 9 4 8 50.0 1 2 50.0 0 0 - 1 12 13 7 2 0 3 0 19
+p153
+aVTamar Slay NJN 03/18/2003 NJN @ BOS W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p154
+aVKerry Kittles NJN 03/18/2003 NJN @ BOS W 21 6 3 7 42.9 0 3 0.0 0 0 - 0 4 4 2 1 1 1 3 10
+p155
+aVRichard Jefferson NJN 03/18/2003 NJN @ BOS W 39 27 11 20 55.0 0 1 0.0 5 6 83.3 2 5 7 1 2 0 0 2 11
+p156
+aVBrian Scalabrine NJN 03/18/2003 NJN @ BOS W 11 4 2 5 40.0 0 1 0.0 0 0 - 2 3 5 1 1 0 0 3 -2
+p157
+aVAnthony Johnson NJN 03/18/2003 NJN @ BOS W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -7
+p158
+aVAaron Williams NJN 03/18/2003 NJN @ BOS W 17 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 1 0 1 0 4 -1
+p159
+aVLucious Harris NJN 03/18/2003 NJN @ BOS W 29 10 3 8 37.5 0 2 0.0 4 6 66.7 0 2 2 5 0 0 1 1 8
+p160
+aVKenyon Martin NJN 03/18/2003 NJN @ BOS W 33 22 5 12 41.7 0 0 - 12 14 85.7 1 3 4 2 3 1 1 3 24
+p161
+aVRodney Rogers NJN 03/18/2003 NJN @ BOS W 14 2 1 8 12.5 0 1 0.0 0 0 - 1 1 2 0 1 0 2 2 -7
+p162
+aVBrian Scalabrine NJN 03/16/2003 NJN vs. PHI L 11 2 1 2 50.0 0 1 0.0 0 0 - 2 3 5 0 0 1 1 2 -8
+p163
+aVJason Kidd NJN 03/16/2003 NJN vs. PHI L 45 23 9 26 34.6 2 9 22.2 3 4 75.0 2 6 8 9 4 1 12 3 -2
+p164
+aVRichard Jefferson NJN 03/16/2003 NJN vs. PHI L 43 12 4 11 36.4 0 0 - 4 4 100.0 5 3 8 3 0 0 1 4 0
+p165
+aVKerry Kittles NJN 03/16/2003 NJN vs. PHI L 37 19 7 11 63.6 0 2 0.0 5 5 100.0 2 3 5 0 0 0 1 5 -11
+p166
+aVRodney Rogers NJN 03/16/2003 NJN vs. PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p167
+aVLucious Harris NJN 03/16/2003 NJN vs. PHI L 19 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 2 1 0 3 2 -6
+p168
+aVJason Collins NJN 03/16/2003 NJN vs. PHI L 30 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 4 0 1 1 5 10
+p169
+aVAaron Williams NJN 03/16/2003 NJN vs. PHI L 9 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -5
+p170
+aVKenyon Martin NJN 03/16/2003 NJN vs. PHI L 43 21 8 17 47.1 0 0 - 5 6 83.3 3 6 9 4 3 2 3 4 -1
+p171
+aVAaron Williams NJN 03/13/2003 NJN vs. BOS W 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 3 1 -6
+p172
+aVJason Kidd NJN 03/13/2003 NJN vs. BOS W 40 13 4 11 36.4 2 3 66.7 3 5 60.0 3 5 8 12 3 0 6 1 19
+p173
+aVAnthony Johnson NJN 03/13/2003 NJN vs. BOS W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -3
+p174
+aVDonny Marshall NJN 03/13/2003 NJN vs. BOS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p175
+aVKenyon Martin NJN 03/13/2003 NJN vs. BOS W 37 17 6 13 46.2 0 0 - 5 8 62.5 2 5 7 2 4 1 3 3 22
+p176
+aVLucious Harris NJN 03/13/2003 NJN vs. BOS W 26 24 10 16 62.5 1 1 100.0 3 4 75.0 0 4 4 1 0 0 1 0 4
+p177
+aVRichard Jefferson NJN 03/13/2003 NJN vs. BOS W 31 11 3 10 30.0 0 0 - 5 6 83.3 3 5 8 4 0 0 1 4 6
+p178
+aVBrian Scalabrine NJN 03/13/2003 NJN vs. BOS W 23 0 0 8 0.0 0 3 0.0 0 0 - 3 2 5 2 0 0 1 2 2
+p179
+aVRodney Rogers NJN 03/13/2003 NJN vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 0 2 2
+p180
+aVKerry Kittles NJN 03/13/2003 NJN vs. BOS W 24 10 4 9 44.4 1 2 50.0 1 1 100.0 0 6 6 1 2 0 0 2 14
+p181
+aVTamar Slay NJN 03/13/2003 NJN vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p182
+aVJason Collins NJN 03/13/2003 NJN vs. BOS W 29 15 4 5 80.0 0 1 0.0 7 8 87.5 2 3 5 0 0 0 1 5 19
+p183
+aVAaron Williams NJN 03/09/2003 NJN @ NOH W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 1 12
+p184
+aVBrian Scalabrine NJN 03/09/2003 NJN @ NOH W 27 16 7 9 77.8 1 1 100.0 1 3 33.3 0 4 4 0 0 0 3 3 7
+p185
+aVJason Kidd NJN 03/09/2003 NJN @ NOH W 43 17 6 17 35.3 0 1 0.0 5 6 83.3 3 6 9 10 1 0 3 0 12
+p186
+aVJason Collins NJN 03/09/2003 NJN @ NOH W 28 7 1 1 100.0 0 0 - 5 6 83.3 2 4 6 2 1 1 0 5 -1
+p187
+aVKerry Kittles NJN 03/09/2003 NJN @ NOH W 36 20 7 14 50.0 2 5 40.0 4 6 66.7 0 3 3 7 2 1 0 1 6
+p188
+aVRichard Jefferson NJN 03/09/2003 NJN @ NOH W 40 17 7 10 70.0 0 0 - 3 4 75.0 1 5 6 5 1 0 1 4 4
+p189
+aVRodney Rogers NJN 03/09/2003 NJN @ NOH W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 0
+p190
+aVKenyon Martin NJN 03/09/2003 NJN @ NOH W 37 19 9 19 47.4 0 0 - 1 2 50.0 2 1 3 3 3 0 3 3 8
+p191
+aVLucious Harris NJN 03/09/2003 NJN @ NOH W 17 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 2 0 0 2 0 2
+p192
+aVJason Collins NJN 03/08/2003 NJN @ HOU L 24 10 3 6 50.0 0 0 - 4 4 100.0 0 2 2 2 2 0 0 3 -6
+p193
+aVAaron Williams NJN 03/08/2003 NJN @ HOU L 24 2 0 3 0.0 0 0 - 2 2 100.0 1 4 5 2 0 0 0 2 -6
+p194
+aVAnthony Johnson NJN 03/08/2003 NJN @ HOU L 17 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 4 5
+p195
+aVJason Kidd NJN 03/08/2003 NJN @ HOU L 31 6 3 12 25.0 0 5 0.0 0 0 - 2 2 4 4 0 0 2 1 -17
+p196
+aVRodney Rogers NJN 03/08/2003 NJN @ HOU L 19 2 1 8 12.5 0 3 0.0 0 0 - 0 4 4 1 1 0 2 1 -18
+p197
+aVKerry Kittles NJN 03/08/2003 NJN @ HOU L 24 8 4 9 44.4 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -7
+p198
+aVRichard Jefferson NJN 03/08/2003 NJN @ HOU L 41 10 3 11 27.3 0 1 0.0 4 4 100.0 6 7 13 2 0 0 4 2 -4
+p199
+aVLucious Harris NJN 03/08/2003 NJN @ HOU L 20 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 2 0 0 3 0 -15
+p200
+aVTamar Slay NJN 03/08/2003 NJN @ HOU L 5 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 0 0 10
+p201
+aVKenyon Martin NJN 03/08/2003 NJN @ HOU L 32 16 6 12 50.0 0 0 - 4 8 50.0 0 6 6 2 1 2 4 4 -12
+p202
+aVBrian Scalabrine NJN 03/08/2003 NJN @ HOU L 5 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 10
+p203
+aVBrian Scalabrine NJN 03/06/2003 NJN @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p204
+aVRichard Jefferson NJN 03/06/2003 NJN @ SAS L 31 8 4 13 30.8 0 0 - 0 0 - 4 3 7 1 1 0 2 2 -12
+p205
+aVJason Kidd NJN 03/06/2003 NJN @ SAS L 37 11 4 19 21.1 2 5 40.0 1 1 100.0 2 6 8 13 1 2 1 1 -12
+p206
+aVJason Collins NJN 03/06/2003 NJN @ SAS L 25 4 2 2 100.0 0 0 - 0 0 - 0 4 4 2 0 0 1 4 -18
+p207
+aVLucious Harris NJN 03/06/2003 NJN @ SAS L 21 6 2 4 50.0 0 0 - 2 5 40.0 1 1 2 0 1 0 0 0 -11
+p208
+aVRodney Rogers NJN 03/06/2003 NJN @ SAS L 22 5 2 7 28.6 1 2 50.0 0 0 - 0 3 3 3 2 1 3 3 4
+p209
+aVKenyon Martin NJN 03/06/2003 NJN @ SAS L 34 19 7 17 41.2 0 1 0.0 5 8 62.5 2 6 8 1 0 1 2 5 -16
+p210
+aVKerry Kittles NJN 03/06/2003 NJN @ SAS L 35 14 5 12 41.7 2 3 66.7 2 2 100.0 2 4 6 2 2 0 1 1 -13
+p211
+aVAaron Williams NJN 03/06/2003 NJN @ SAS L 23 11 4 7 57.1 0 0 - 3 5 60.0 1 4 5 0 1 0 2 3 4
+p212
+aVAnthony Johnson NJN 03/06/2003 NJN @ SAS L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 3
+p213
+aVJason Collins NJN 03/04/2003 NJN @ DAL L 18 2 1 2 50.0 0 0 - 0 2 0.0 3 7 10 0 1 1 3 3 -12
+p214
+aVKerry Kittles NJN 03/04/2003 NJN @ DAL L 25 6 2 10 20.0 0 3 0.0 2 2 100.0 1 0 1 3 0 1 2 5 -11
+p215
+aVKenyon Martin NJN 03/04/2003 NJN @ DAL L 41 18 9 16 56.3 0 0 - 0 0 - 5 4 9 2 1 0 5 5 -7
+p216
+aVAnthony Johnson NJN 03/04/2003 NJN @ DAL L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 2 0 5
+p217
+aVRodney Rogers NJN 03/04/2003 NJN @ DAL L 19 9 4 5 80.0 0 1 0.0 1 1 100.0 1 1 2 2 0 0 2 3 3
+p218
+aVAaron Williams NJN 03/04/2003 NJN @ DAL L 30 13 6 11 54.5 0 0 - 1 3 33.3 5 3 8 2 1 1 1 2 3
+p219
+aVJason Kidd NJN 03/04/2003 NJN @ DAL L 38 13 5 15 33.3 1 6 16.7 2 3 66.7 0 7 7 4 1 0 4 0 -14
+p220
+aVLucious Harris NJN 03/04/2003 NJN @ DAL L 28 9 3 6 50.0 1 2 50.0 2 4 50.0 2 5 7 2 2 1 1 1 1
+p221
+aVRichard Jefferson NJN 03/04/2003 NJN @ DAL L 31 7 2 8 25.0 0 0 - 3 4 75.0 2 6 8 2 0 0 2 1 -13
+p222
+aVAnthony Johnson NJN 03/02/2003 NJN vs. UTA L 7 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p223
+aVRodney Rogers NJN 03/02/2003 NJN vs. UTA L 20 11 5 10 50.0 0 1 0.0 1 1 100.0 2 4 6 1 1 2 2 5 -2
+p224
+aVJason Kidd NJN 03/02/2003 NJN vs. UTA L 41 12 3 11 27.3 0 2 0.0 6 6 100.0 4 5 9 15 3 0 9 0 6
+p225
+aVJason Collins NJN 03/02/2003 NJN vs. UTA L 28 0 0 4 0.0 0 1 0.0 0 0 - 2 5 7 1 1 5 0 1 16
+p226
+aVRichard Jefferson NJN 03/02/2003 NJN vs. UTA L 37 13 4 9 44.4 0 0 - 5 6 83.3 3 7 10 3 0 1 7 3 -3
+p227
+aVKerry Kittles NJN 03/02/2003 NJN vs. UTA L 31 21 7 14 50.0 2 5 40.0 5 6 83.3 0 2 2 1 2 2 1 2 16
+p228
+aVLucious Harris NJN 03/02/2003 NJN vs. UTA L 18 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 0 0 -22
+p229
+aVKenyon Martin NJN 03/02/2003 NJN vs. UTA L 34 24 10 16 62.5 0 0 - 4 6 66.7 3 3 6 1 3 0 2 2 16
+p230
+aVAaron Williams NJN 03/02/2003 NJN vs. UTA L 20 2 0 6 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 1 -17
+p231
+aVBrian Scalabrine NJN 03/02/2003 NJN vs. UTA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 2 1 2 0 -8
+p232
+aVJason Collins NJN 02/26/2003 NJN vs. NYK W 28 8 3 5 60.0 0 0 - 2 2 100.0 2 7 9 2 1 1 2 4 16
+p233
+aVKenyon Martin NJN 02/26/2003 NJN vs. NYK W 25 12 6 14 42.9 0 0 - 0 2 0.0 0 5 5 2 1 2 4 3 14
+p234
+aVBrian Scalabrine NJN 02/26/2003 NJN vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 6
+p235
+aVLucious Harris NJN 02/26/2003 NJN vs. NYK W 19 13 5 7 71.4 0 0 - 3 4 75.0 1 2 3 0 1 0 0 1 9
+p236
+aVChris Childs NJN 02/26/2003 NJN vs. NYK W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 1 0 10
+p237
+aVJason Kidd NJN 02/26/2003 NJN vs. NYK W 28 21 8 11 72.7 2 2 100.0 3 3 100.0 2 2 4 5 2 0 3 0 14
+p238
+aVAnthony Johnson NJN 02/26/2003 NJN vs. NYK W 16 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 1 1 0 1 11
+p239
+aVTamar Slay NJN 02/26/2003 NJN vs. NYK W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 6
+p240
+aVRodney Rogers NJN 02/26/2003 NJN vs. NYK W 21 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 3 1 1 1 2 13
+p241
+aVRichard Jefferson NJN 02/26/2003 NJN vs. NYK W 37 17 8 16 50.0 0 0 - 1 2 50.0 2 8 10 1 0 0 0 4 23
+p242
+aVAaron Williams NJN 02/26/2003 NJN vs. NYK W 27 7 3 5 60.0 0 0 - 1 1 100.0 3 3 6 4 0 0 0 0 9
+p243
+aVKerry Kittles NJN 02/26/2003 NJN vs. NYK W 24 13 6 8 75.0 0 1 0.0 1 2 50.0 1 2 3 5 2 0 1 2 14
+p244
+aVJason Kidd NJN 02/25/2003 NJN @ CLE L 43 31 8 22 36.4 2 10 20.0 13 16 81.3 0 3 3 9 5 1 3 0 1
+p245
+aVJason Collins NJN 02/25/2003 NJN @ CLE L 12 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 5 -5
+p246
+aVAaron Williams NJN 02/25/2003 NJN @ CLE L 36 12 5 11 45.5 0 0 - 2 2 100.0 1 8 9 1 0 2 0 5 0
+p247
+aVAnthony Johnson NJN 02/25/2003 NJN @ CLE L 8 5 2 7 28.6 1 2 50.0 0 0 - 1 0 1 1 1 0 0 0 -1
+p248
+aVRichard Jefferson NJN 02/25/2003 NJN @ CLE L 34 12 5 15 33.3 0 0 - 2 2 100.0 4 5 9 4 1 0 2 5 -9
+p249
+aVRodney Rogers NJN 02/25/2003 NJN @ CLE L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 3 0 0 2 2 4
+p250
+aVBrian Scalabrine NJN 02/25/2003 NJN @ CLE L 31 4 2 8 25.0 0 1 0.0 0 0 - 4 3 7 1 2 2 0 1 -5
+p251
+aVKerry Kittles NJN 02/25/2003 NJN @ CLE L 25 6 2 9 22.2 0 2 0.0 2 2 100.0 2 2 4 1 0 0 0 6 -2
+p252
+aVLucious Harris NJN 02/25/2003 NJN @ CLE L 31 12 5 10 50.0 1 3 33.3 1 2 50.0 1 1 2 3 1 0 1 2 2
+p253
+aVAnthony Johnson NJN 02/23/2003 NJN vs. ORL L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p254
+aVRodney Rogers NJN 02/23/2003 NJN vs. ORL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p255
+aVAaron Williams NJN 02/23/2003 NJN vs. ORL L 31 12 5 12 41.7 0 0 - 2 2 100.0 2 9 11 1 0 0 0 3 -18
+p256
+aVLucious Harris NJN 02/23/2003 NJN vs. ORL L 29 13 5 15 33.3 1 4 25.0 2 3 66.7 1 2 3 4 0 0 2 2 -8
+p257
+aVKenyon Martin NJN 02/23/2003 NJN vs. ORL L 37 27 9 14 64.3 0 0 - 9 12 75.0 2 3 5 3 0 2 1 6 -3
+p258
+aVRichard Jefferson NJN 02/23/2003 NJN vs. ORL L 37 8 3 10 30.0 0 0 - 2 2 100.0 0 5 5 2 1 0 2 3 -13
+p259
+aVJason Collins NJN 02/23/2003 NJN vs. ORL L 17 2 1 2 50.0 0 0 - 0 0 - 4 2 6 1 0 0 0 3 10
+p260
+aVBrian Scalabrine NJN 02/23/2003 NJN vs. ORL L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -6
+p261
+aVKerry Kittles NJN 02/23/2003 NJN vs. ORL L 29 13 5 12 41.7 2 6 33.3 1 3 33.3 0 3 3 3 2 0 0 1 12
+p262
+aVJason Kidd NJN 02/23/2003 NJN vs. ORL L 43 26 9 25 36.0 3 9 33.3 5 5 100.0 5 6 11 15 6 0 3 1 -6
+p263
+aVAnthony Johnson NJN 02/21/2003 NJN @ WAS L 6 0 0 1 0.0 0 1 0.0 0 2 0.0 1 0 1 1 0 0 0 1 -7
+p264
+aVAaron Williams NJN 02/21/2003 NJN @ WAS L 23 14 6 10 60.0 0 0 - 2 2 100.0 3 4 7 0 0 2 2 3 7
+p265
+aVJason Kidd NJN 02/21/2003 NJN @ WAS L 39 10 2 13 15.4 1 4 25.0 5 5 100.0 1 4 5 7 2 0 0 2 -6
+p266
+aVJason Collins NJN 02/21/2003 NJN @ WAS L 25 10 5 6 83.3 0 0 - 0 2 0.0 3 4 7 1 1 0 0 3 -8
+p267
+aVKerry Kittles NJN 02/21/2003 NJN @ WAS L 40 7 3 14 21.4 1 4 25.0 0 1 0.0 2 3 5 7 1 1 1 3 1
+p268
+aVChris Childs NJN 02/21/2003 NJN @ WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p269
+aVLucious Harris NJN 02/21/2003 NJN @ WAS L 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 4
+p270
+aVBrian Scalabrine NJN 02/21/2003 NJN @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p271
+aVRichard Jefferson NJN 02/21/2003 NJN @ WAS L 39 25 10 16 62.5 0 1 0.0 5 10 50.0 2 1 3 3 0 0 2 2 -3
+p272
+aVRodney Rogers NJN 02/21/2003 NJN @ WAS L 17 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 2 0 1 0 4 5
+p273
+aVKenyon Martin NJN 02/21/2003 NJN @ WAS L 36 14 6 12 50.0 0 0 - 2 4 50.0 4 8 12 1 1 0 2 3 -7
+p274
+aVRichard Jefferson NJN 02/20/2003 NJN vs. IND W 40 5 1 11 9.1 0 0 - 3 6 50.0 2 10 12 2 0 0 4 5 5
+p275
+aVAaron Williams NJN 02/20/2003 NJN vs. IND W 20 10 2 5 40.0 0 0 - 6 6 100.0 2 3 5 0 0 3 0 3 21
+p276
+aVJason Collins NJN 02/20/2003 NJN vs. IND W 33 6 3 5 60.0 0 0 - 0 0 - 0 2 2 4 1 0 2 1 -5
+p277
+aVKenyon Martin NJN 02/20/2003 NJN vs. IND W 33 19 9 13 69.2 0 0 - 1 4 25.0 1 5 6 0 1 0 0 4 -6
+p278
+aVKerry Kittles NJN 02/20/2003 NJN vs. IND W 33 11 4 11 36.4 1 4 25.0 2 2 100.0 0 3 3 4 2 0 1 4 -10
+p279
+aVLucious Harris NJN 02/20/2003 NJN vs. IND W 19 12 4 6 66.7 0 1 0.0 4 6 66.7 1 1 2 0 0 0 0 2 14
+p280
+aVRodney Rogers NJN 02/20/2003 NJN vs. IND W 18 4 2 4 50.0 0 2 0.0 0 0 - 1 1 2 2 1 0 3 4 6
+p281
+aVJason Kidd NJN 02/20/2003 NJN vs. IND W 44 31 10 16 62.5 2 3 66.7 9 10 90.0 0 9 9 12 1 0 5 2 10
+p282
+aVJason Kidd NJN 02/18/2003 NJN vs. MIA W 38 12 4 6 66.7 2 3 66.7 2 4 50.0 0 8 8 10 2 0 5 0 15
+p283
+aVAaron Williams NJN 02/18/2003 NJN vs. MIA W 18 4 1 2 50.0 0 0 - 2 2 100.0 2 1 3 1 0 0 2 2 -4
+p284
+aVLucious Harris NJN 02/18/2003 NJN vs. MIA W 22 3 1 6 16.7 1 1 100.0 0 0 - 1 1 2 1 0 0 3 1 0
+p285
+aVKerry Kittles NJN 02/18/2003 NJN vs. MIA W 32 9 2 13 15.4 1 4 25.0 4 4 100.0 1 7 8 3 1 0 1 2 1
+p286
+aVKenyon Martin NJN 02/18/2003 NJN vs. MIA W 38 28 11 22 50.0 0 0 - 6 13 46.2 2 8 10 1 5 0 1 3 12
+p287
+aVChris Childs NJN 02/18/2003 NJN vs. MIA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -4
+p288
+aVRichard Jefferson NJN 02/18/2003 NJN vs. MIA W 40 17 5 14 35.7 0 0 - 7 8 87.5 1 5 6 1 2 0 1 1 2
+p289
+aVRodney Rogers NJN 02/18/2003 NJN vs. MIA W 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 3
+p290
+aVBrian Scalabrine NJN 02/18/2003 NJN vs. MIA W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -7
+p291
+aVJason Collins NJN 02/18/2003 NJN vs. MIA W 30 7 1 4 25.0 0 0 - 5 5 100.0 3 5 8 0 0 1 0 2 7
+p292
+aVRichard Jefferson NJN 02/16/2003 NJN vs. PHI L 39 10 4 11 36.4 0 0 - 2 2 100.0 1 5 6 2 0 1 0 5 -11
+p293
+aVBrian Scalabrine NJN 02/16/2003 NJN vs. PHI L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -3
+p294
+aVKenyon Martin NJN 02/16/2003 NJN vs. PHI L 39 17 7 16 43.8 0 0 - 3 6 50.0 3 2 5 5 3 0 5 4 2
+p295
+aVKerry Kittles NJN 02/16/2003 NJN vs. PHI L 31 8 2 5 40.0 0 1 0.0 4 6 66.7 1 2 3 3 0 0 3 1 -4
+p296
+aVAaron Williams NJN 02/16/2003 NJN vs. PHI L 24 8 3 5 60.0 0 0 - 2 2 100.0 4 3 7 0 0 0 1 1 -6
+p297
+aVJason Kidd NJN 02/16/2003 NJN vs. PHI L 42 21 8 17 47.1 4 6 66.7 1 5 20.0 2 4 6 5 0 1 8 1 -3
+p298
+aVLucious Harris NJN 02/16/2003 NJN vs. PHI L 17 8 2 6 33.3 1 2 50.0 3 4 75.0 0 3 3 0 0 0 0 0 -3
+p299
+aVRodney Rogers NJN 02/16/2003 NJN vs. PHI L 14 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 1 1 1 5 -1
+p300
+aVChris Childs NJN 02/16/2003 NJN vs. PHI L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 3 -6
+p301
+aVJason Collins NJN 02/16/2003 NJN vs. PHI L 24 9 2 3 66.7 0 0 - 5 6 83.3 0 3 3 1 0 0 1 3 0
+p302
+aVTamar Slay NJN 02/14/2003 NJN vs. CHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p303
+aVChris Childs NJN 02/14/2003 NJN vs. CHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p304
+aVRodney Rogers NJN 02/14/2003 NJN vs. CHI W 25 8 3 12 25.0 1 5 20.0 1 2 50.0 3 8 11 2 0 1 1 4 -2
+p305
+aVJason Kidd NJN 02/14/2003 NJN vs. CHI W 31 6 2 11 18.2 0 3 0.0 2 2 100.0 2 4 6 12 2 1 2 0 30
+p306
+aVLucious Harris NJN 02/14/2003 NJN vs. CHI W 24 13 4 9 44.4 1 2 50.0 4 4 100.0 0 1 1 1 1 0 1 2 -1
+p307
+aVBrian Scalabrine NJN 02/14/2003 NJN vs. CHI W 33 8 3 8 37.5 1 3 33.3 1 1 100.0 1 5 6 3 1 1 3 4 10
+p308
+aVKerry Kittles NJN 02/14/2003 NJN vs. CHI W 30 21 10 18 55.6 1 6 16.7 0 0 - 0 3 3 3 0 1 1 0 26
+p309
+aVAnthony Johnson NJN 02/14/2003 NJN vs. CHI W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -10
+p310
+aVJason Collins NJN 02/14/2003 NJN vs. CHI W 27 3 1 3 33.3 0 0 - 1 2 50.0 1 7 8 0 3 1 1 2 20
+p311
+aVAaron Williams NJN 02/14/2003 NJN vs. CHI W 21 9 3 9 33.3 0 0 - 3 4 75.0 4 5 9 0 1 1 1 3 -2
+p312
+aVRichard Jefferson NJN 02/14/2003 NJN vs. CHI W 29 20 5 14 35.7 0 0 - 10 13 76.9 2 2 4 1 1 0 1 1 25
+p313
+aVRichard Jefferson NJN 02/12/2003 NJN @ MEM L 40 10 2 7 28.6 0 0 - 6 6 100.0 3 5 8 2 1 1 5 3 -15
+p314
+aVLucious Harris NJN 02/12/2003 NJN @ MEM L 15 3 0 5 0.0 0 0 - 3 4 75.0 0 1 1 3 1 0 1 1 -13
+p315
+aVKerry Kittles NJN 02/12/2003 NJN @ MEM L 33 14 6 13 46.2 2 7 28.6 0 0 - 1 3 4 4 1 0 0 3 6
+p316
+aVJason Collins NJN 02/12/2003 NJN @ MEM L 35 6 1 5 20.0 0 0 - 4 4 100.0 3 6 9 0 1 2 1 6 5
+p317
+aVBrian Scalabrine NJN 02/12/2003 NJN @ MEM L 21 2 1 2 50.0 0 1 0.0 0 0 - 2 3 5 2 1 0 2 4 -3
+p318
+aVKenyon Martin NJN 02/12/2003 NJN @ MEM L 34 15 6 13 46.2 0 0 - 3 7 42.9 1 5 6 3 2 1 5 6 2
+p319
+aVJason Kidd NJN 02/12/2003 NJN @ MEM L 38 28 8 20 40.0 4 7 57.1 8 9 88.9 1 7 8 6 1 1 4 2 -2
+p320
+aVAaron Williams NJN 02/12/2003 NJN @ MEM L 13 8 4 8 50.0 0 0 - 0 0 - 4 0 4 0 0 2 0 4 -10
+p321
+aVAnthony Johnson NJN 02/12/2003 NJN @ MEM L 10 4 2 4 50.0 0 0 - 0 2 0.0 0 0 0 1 1 0 1 1 -5
+p322
+aVJason Collins NJN 02/11/2003 NJN @ ORL L 24 3 0 5 0.0 0 0 - 3 4 75.0 3 1 4 1 0 1 0 4 7
+p323
+aVBrian Scalabrine NJN 02/11/2003 NJN @ ORL L 25 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 3 1 1 0 2 -17
+p324
+aVJason Kidd NJN 02/11/2003 NJN @ ORL L 37 19 5 21 23.8 0 8 0.0 9 9 100.0 0 8 8 8 4 0 0 2 7
+p325
+aVAaron Williams NJN 02/11/2003 NJN @ ORL L 23 3 1 3 33.3 0 0 - 1 1 100.0 2 2 4 1 0 2 1 2 -10
+p326
+aVLucious Harris NJN 02/11/2003 NJN @ ORL L 19 6 2 9 22.2 0 1 0.0 2 2 100.0 1 2 3 1 0 0 0 0 -18
+p327
+aVAnthony Johnson NJN 02/11/2003 NJN @ ORL L 11 2 1 3 33.3 0 1 0.0 0 2 0.0 0 3 3 1 0 0 0 2 -16
+p328
+aVRichard Jefferson NJN 02/11/2003 NJN @ ORL L 35 15 5 13 38.5 0 0 - 5 6 83.3 2 3 5 1 2 0 5 6 -7
+p329
+aVKerry Kittles NJN 02/11/2003 NJN @ ORL L 30 13 6 16 37.5 1 6 16.7 0 0 - 2 6 8 1 2 2 0 1 3
+p330
+aVKenyon Martin NJN 02/11/2003 NJN @ ORL L 35 17 6 10 60.0 0 0 - 5 8 62.5 1 5 6 2 0 0 0 3 6
+p331
+aVRichard Jefferson NJN 02/05/2003 NJN @ PHI W 27 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 4 0 0 2 5 31
+p332
+aVTamar Slay NJN 02/05/2003 NJN @ PHI W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p333
+aVBrian Scalabrine NJN 02/05/2003 NJN @ PHI W 37 12 4 7 57.1 2 4 50.0 2 2 100.0 0 8 8 5 0 2 2 3 21
+p334
+aVLucious Harris NJN 02/05/2003 NJN @ PHI W 25 5 2 8 25.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 2 3
+p335
+aVAaron Williams NJN 02/05/2003 NJN @ PHI W 21 12 4 5 80.0 0 0 - 4 4 100.0 0 3 3 0 0 0 1 6 12
+p336
+aVAnthony Johnson NJN 02/05/2003 NJN @ PHI W 21 10 3 7 42.9 0 1 0.0 4 4 100.0 0 2 2 2 0 0 1 2 3
+p337
+aVJason Collins NJN 02/05/2003 NJN @ PHI W 27 13 4 4 100.0 0 0 - 5 6 83.3 2 3 5 7 0 0 1 3 14
+p338
+aVBrandon Armstrong NJN 02/05/2003 NJN @ PHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p339
+aVKerry Kittles NJN 02/05/2003 NJN @ PHI W 35 35 12 16 75.0 5 8 62.5 6 6 100.0 0 3 3 2 2 1 0 2 22
+p340
+aVKenyon Martin NJN 02/05/2003 NJN @ PHI W 12 4 1 5 20.0 0 1 0.0 2 2 100.0 0 5 5 1 0 0 0 1 -1
+p341
+aVJason Kidd NJN 02/05/2003 NJN @ PHI W 27 8 3 8 37.5 1 2 50.0 1 2 50.0 1 6 7 6 3 0 3 4 23
+p342
+aVKerry Kittles NJN 02/03/2003 NJN vs. SEA W 37 17 6 11 54.5 4 7 57.1 1 2 50.0 1 3 4 2 2 0 0 2 8
+p343
+aVLucious Harris NJN 02/03/2003 NJN vs. SEA W 18 5 2 6 33.3 1 2 50.0 0 1 0.0 1 1 2 1 0 0 0 1 -4
+p344
+aVJason Kidd NJN 02/03/2003 NJN vs. SEA W 44 20 6 14 42.9 4 9 44.4 4 6 66.7 1 1 2 12 1 0 6 2 4
+p345
+aVBrian Scalabrine NJN 02/03/2003 NJN vs. SEA W 14 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 1 2 2 -1
+p346
+aVAaron Williams NJN 02/03/2003 NJN vs. SEA W 20 10 4 7 57.1 0 0 - 2 2 100.0 1 3 4 1 0 0 3 5 -13
+p347
+aVJason Collins NJN 02/03/2003 NJN vs. SEA W 32 8 3 7 42.9 0 0 - 2 2 100.0 3 9 12 4 1 1 2 4 12
+p348
+aVKenyon Martin NJN 02/03/2003 NJN vs. SEA W 43 35 13 18 72.2 1 1 100.0 8 10 80.0 5 7 12 0 0 2 3 5 8
+p349
+aVAnthony Johnson NJN 02/03/2003 NJN vs. SEA W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p350
+aVRichard Jefferson NJN 02/03/2003 NJN vs. SEA W 47 10 4 10 40.0 0 0 - 2 4 50.0 0 3 3 2 0 0 3 4 -6
+p351
+aVBrandon Armstrong NJN 02/01/2003 NJN @ DET L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p352
+aVKerry Kittles NJN 02/01/2003 NJN @ DET L 42 15 6 16 37.5 1 2 50.0 2 2 100.0 0 4 4 3 1 0 1 2 -15
+p353
+aVBrian Scalabrine NJN 02/01/2003 NJN @ DET L 41 16 4 10 40.0 3 3 100.0 5 6 83.3 2 5 7 1 0 0 3 4 -18
+p354
+aVAaron Williams NJN 02/01/2003 NJN @ DET L 18 5 1 7 14.3 0 0 - 3 3 100.0 3 1 4 0 1 0 1 3 -3
+p355
+aVJason Collins NJN 02/01/2003 NJN @ DET L 28 1 0 2 0.0 0 0 - 1 4 25.0 0 0 0 3 0 0 0 3 -24
+p356
+aVTamar Slay NJN 02/01/2003 NJN @ DET L 15 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -11
+p357
+aVKenyon Martin NJN 02/01/2003 NJN @ DET L 40 29 11 23 47.8 0 2 0.0 7 8 87.5 5 10 15 4 0 1 3 4 -13
+p358
+aVAnthony Johnson NJN 02/01/2003 NJN @ DET L 26 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 4 0 0 0 3 -20
+p359
+aVLucious Harris NJN 02/01/2003 NJN @ DET L 28 11 4 12 33.3 1 2 50.0 2 2 100.0 2 2 4 2 0 0 0 2 1
+p360
+aVLucious Harris NJN 01/31/2003 NJN vs. NOH W 25 13 5 13 38.5 1 1 100.0 2 2 100.0 1 3 4 1 1 0 0 0 -2
+p361
+aVKenyon Martin NJN 01/31/2003 NJN vs. NOH W 43 23 9 17 52.9 0 0 - 5 6 83.3 2 11 13 5 0 2 3 3 18
+p362
+aVAaron Williams NJN 01/31/2003 NJN vs. NOH W 22 6 2 7 28.6 0 0 - 2 2 100.0 3 2 5 0 0 0 1 5 2
+p363
+aVKerry Kittles NJN 01/31/2003 NJN vs. NOH W 34 21 7 13 53.8 0 3 0.0 7 7 100.0 0 6 6 7 1 0 2 2 9
+p364
+aVJason Collins NJN 01/31/2003 NJN vs. NOH W 37 11 4 8 50.0 0 0 - 3 4 75.0 3 2 5 2 0 0 1 3 13
+p365
+aVChris Childs NJN 01/31/2003 NJN vs. NOH W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 1 1 1 0
+p366
+aVAnthony Johnson NJN 01/31/2003 NJN vs. NOH W 33 10 4 10 40.0 0 3 0.0 2 2 100.0 0 4 4 3 3 0 2 0 27
+p367
+aVBrian Scalabrine NJN 01/31/2003 NJN vs. NOH W 42 5 2 4 50.0 1 1 100.0 0 0 - 1 6 7 3 1 2 2 3 18
+p368
+aVAaron Williams NJN 01/29/2003 NJN vs. WAS W 20 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 1 0 2 1 3 -8
+p369
+aVJason Kidd NJN 01/29/2003 NJN vs. WAS W 26 4 1 10 10.0 1 4 25.0 1 1 100.0 1 3 4 4 0 0 0 0 -1
+p370
+aVChris Childs NJN 01/29/2003 NJN vs. WAS W 7 1 0 0 - 0 0 - 1 1 100.0 0 0 0 1 1 0 2 2 2
+p371
+aVRichard Jefferson NJN 01/29/2003 NJN vs. WAS W 43 24 9 13 69.2 0 0 - 6 8 75.0 2 5 7 3 2 0 5 3 11
+p372
+aVLucious Harris NJN 01/29/2003 NJN vs. WAS W 37 13 5 18 27.8 1 4 25.0 2 3 66.7 0 1 1 3 3 1 0 3 13
+p373
+aVAnthony Johnson NJN 01/29/2003 NJN vs. WAS W 26 10 4 8 50.0 0 0 - 2 2 100.0 0 3 3 5 0 0 0 6 2
+p374
+aVBrian Scalabrine NJN 01/29/2003 NJN vs. WAS W 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -12
+p375
+aVJason Collins NJN 01/29/2003 NJN vs. WAS W 28 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 1 1 0 2 16
+p376
+aVKenyon Martin NJN 01/29/2003 NJN vs. WAS W 42 19 6 16 37.5 0 0 - 7 12 58.3 6 15 21 8 0 0 1 2 17
+p377
+aVLucious Harris NJN 01/27/2003 NJN @ DEN W 34 16 7 18 38.9 0 2 0.0 2 2 100.0 3 4 7 4 1 0 1 0 14
+p378
+aVAaron Williams NJN 01/27/2003 NJN @ DEN W 22 9 3 6 50.0 0 0 - 3 5 60.0 3 0 3 2 2 0 1 6 3
+p379
+aVBrandon Armstrong NJN 01/27/2003 NJN @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 8
+p380
+aVJason Collins NJN 01/27/2003 NJN @ DEN W 22 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 2 0 3 6 17
+p381
+aVAnthony Johnson NJN 01/27/2003 NJN @ DEN W 26 15 5 10 50.0 2 2 100.0 3 4 75.0 1 4 5 3 3 0 5 2 17
+p382
+aVKenyon Martin NJN 01/27/2003 NJN @ DEN W 36 17 5 8 62.5 0 0 - 7 10 70.0 2 7 9 2 1 0 4 4 15
+p383
+aVBrian Scalabrine NJN 01/27/2003 NJN @ DEN W 23 1 0 4 0.0 0 0 - 1 2 50.0 0 4 4 1 1 0 2 3 13
+p384
+aVJason Kidd NJN 01/27/2003 NJN @ DEN W 27 7 1 4 25.0 1 3 33.3 4 4 100.0 2 3 5 5 1 0 4 1 17
+p385
+aVTamar Slay NJN 01/27/2003 NJN @ DEN W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 4
+p386
+aVRichard Jefferson NJN 01/27/2003 NJN @ DEN W 39 23 8 16 50.0 0 0 - 7 9 77.8 0 4 4 2 3 1 0 5 22
+p387
+aVAnthony Johnson NJN 01/24/2003 NJN @ LAL W 18 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 8
+p388
+aVKerry Kittles NJN 01/24/2003 NJN @ LAL W 40 17 6 15 40.0 3 9 33.3 2 2 100.0 0 4 4 4 3 1 1 1 11
+p389
+aVKenyon Martin NJN 01/24/2003 NJN @ LAL W 37 18 7 20 35.0 0 0 - 4 5 80.0 1 8 9 2 0 1 5 3 -7
+p390
+aVBrian Scalabrine NJN 01/24/2003 NJN @ LAL W 14 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 4 15
+p391
+aVJason Collins NJN 01/24/2003 NJN @ LAL W 19 10 5 6 83.3 0 0 - 0 0 - 1 3 4 0 0 0 0 4 -4
+p392
+aVJason Kidd NJN 01/24/2003 NJN @ LAL W 38 11 3 13 23.1 0 3 0.0 5 6 83.3 2 7 9 7 2 0 3 0 -7
+p393
+aVAaron Williams NJN 01/24/2003 NJN @ LAL W 29 12 5 6 83.3 0 0 - 2 3 66.7 2 3 5 3 2 0 0 5 10
+p394
+aVRichard Jefferson NJN 01/24/2003 NJN @ LAL W 45 12 5 10 50.0 0 0 - 2 4 50.0 2 6 8 4 1 0 1 3 4
+p395
+aVKerry Kittles NJN 01/23/2003 NJN @ GSW L 37 19 8 15 53.3 2 5 40.0 1 1 100.0 1 3 4 2 3 0 0 2 -3
+p396
+aVKenyon Martin NJN 01/23/2003 NJN @ GSW L 40 10 4 21 19.0 0 1 0.0 2 4 50.0 4 4 8 2 0 0 3 5 6
+p397
+aVBrandon Armstrong NJN 01/23/2003 NJN @ GSW L 1 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p398
+aVBrian Scalabrine NJN 01/23/2003 NJN @ GSW L 22 4 2 5 40.0 0 0 - 0 0 - 7 3 10 3 0 0 0 5 -8
+p399
+aVAaron Williams NJN 01/23/2003 NJN @ GSW L 19 0 0 2 0.0 0 0 - 0 2 0.0 0 3 3 1 0 0 0 0 -10
+p400
+aVChris Childs NJN 01/23/2003 NJN @ GSW L 15 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 3 2 0 0 2 -3
+p401
+aVRichard Jefferson NJN 01/23/2003 NJN @ GSW L 37 13 5 11 45.5 0 0 - 3 4 75.0 0 6 6 6 0 0 1 1 -13
+p402
+aVJason Collins NJN 01/23/2003 NJN @ GSW L 26 3 1 2 50.0 0 0 - 1 1 100.0 3 4 7 1 1 2 1 3 1
+p403
+aVJason Kidd NJN 01/23/2003 NJN @ GSW L 44 41 15 26 57.7 4 9 44.4 7 7 100.0 2 2 4 7 2 0 5 5 -13
+p404
+aVAaron Williams NJN 01/21/2003 NJN @ SAC L 26 15 5 13 38.5 0 0 - 5 7 71.4 5 1 6 0 1 1 0 2 -9
+p405
+aVJason Collins NJN 01/21/2003 NJN @ SAC L 14 0 0 5 0.0 0 0 - 0 0 - 2 3 5 1 0 0 0 2 -9
+p406
+aVKenyon Martin NJN 01/21/2003 NJN @ SAC L 36 17 5 8 62.5 0 0 - 7 11 63.6 3 10 13 4 1 1 2 5 -6
+p407
+aVChris Childs NJN 01/21/2003 NJN @ SAC L 16 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 2
+p408
+aVKerry Kittles NJN 01/21/2003 NJN @ SAC L 41 15 7 17 41.2 1 3 33.3 0 0 - 3 1 4 2 0 0 3 4 -7
+p409
+aVLucious Harris NJN 01/21/2003 NJN @ SAC L 23 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 3 0 0 2 0 7
+p410
+aVRichard Jefferson NJN 01/21/2003 NJN @ SAC L 43 19 8 18 44.4 0 0 - 3 4 75.0 5 2 7 3 1 0 2 4 -3
+p411
+aVJason Kidd NJN 01/21/2003 NJN @ SAC L 42 27 9 20 45.0 2 4 50.0 7 10 70.0 0 5 5 5 3 0 4 1 -10
+p412
+aVAaron Williams NJN 01/20/2003 NJN @ UTA L 32 13 5 7 71.4 0 0 - 3 4 75.0 5 2 7 1 0 0 2 5 10
+p413
+aVLucious Harris NJN 01/20/2003 NJN @ UTA L 27 2 0 4 0.0 0 2 0.0 2 4 50.0 0 1 1 0 0 0 2 3 -8
+p414
+aVJason Collins NJN 01/20/2003 NJN @ UTA L 24 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 1 2 2 -8
+p415
+aVKerry Kittles NJN 01/20/2003 NJN @ UTA L 36 22 6 12 50.0 2 5 40.0 8 10 80.0 1 4 5 2 4 0 1 5 5
+p416
+aVChris Childs NJN 01/20/2003 NJN @ UTA L 9 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 1
+p417
+aVJason Kidd NJN 01/20/2003 NJN @ UTA L 44 33 12 36 33.3 1 10 10.0 8 11 72.7 8 5 13 5 6 0 10 5 -6
+p418
+aVRichard Jefferson NJN 01/20/2003 NJN @ UTA L 43 18 8 12 66.7 0 0 - 2 2 100.0 1 5 6 0 0 1 1 2 -12
+p419
+aVBrian Scalabrine NJN 01/20/2003 NJN @ UTA L 16 6 1 3 33.3 0 0 - 4 4 100.0 2 2 4 1 0 0 1 3 10
+p420
+aVKenyon Martin NJN 01/20/2003 NJN @ UTA L 34 4 2 10 20.0 0 1 0.0 0 0 - 3 7 10 2 0 2 1 6 -7
+p421
+aVTamar Slay NJN 01/17/2003 NJN vs. TOR W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -17
+p422
+aVLucious Harris NJN 01/17/2003 NJN vs. TOR W 26 8 4 10 40.0 0 2 0.0 0 0 - 0 4 4 2 1 0 1 3 21
+p423
+aVChris Childs NJN 01/17/2003 NJN vs. TOR W 22 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 3 1 0 0 3 -10
+p424
+aVBrian Scalabrine NJN 01/17/2003 NJN vs. TOR W 35 8 2 10 20.0 0 3 0.0 4 4 100.0 0 4 4 1 0 2 1 4 0
+p425
+aVAaron Williams NJN 01/17/2003 NJN vs. TOR W 25 9 4 11 36.4 0 0 - 1 2 50.0 1 3 4 4 2 0 2 5 4
+p426
+aVJason Kidd NJN 01/17/2003 NJN vs. TOR W 26 18 7 14 50.0 0 1 0.0 4 5 80.0 1 3 4 5 2 0 4 2 21
+p427
+aVJason Collins NJN 01/17/2003 NJN vs. TOR W 23 3 1 4 25.0 0 0 - 1 1 100.0 0 1 1 0 1 0 1 3 7
+p428
+aVKenyon Martin NJN 01/17/2003 NJN vs. TOR W 22 13 6 15 40.0 0 0 - 1 2 50.0 4 4 8 1 3 1 0 4 6
+p429
+aVKerry Kittles NJN 01/17/2003 NJN vs. TOR W 21 11 4 9 44.4 1 5 20.0 2 2 100.0 0 3 3 1 4 0 0 1 17
+p430
+aVAnthony Johnson NJN 01/17/2003 NJN vs. TOR W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -17
+p431
+aVRichard Jefferson NJN 01/17/2003 NJN vs. TOR W 26 15 6 10 60.0 0 0 - 3 5 60.0 0 8 8 3 2 0 1 3 23
+p432
+aVRodney Rogers NJN 01/15/2003 NJN @ PHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p433
+aVKenyon Martin NJN 01/15/2003 NJN @ PHI L 40 24 9 17 52.9 0 0 - 6 7 85.7 6 10 16 2 3 2 2 5 15
+p434
+aVLucious Harris NJN 01/15/2003 NJN @ PHI L 35 26 10 17 58.8 2 3 66.7 4 4 100.0 5 2 7 4 2 0 1 1 -4
+p435
+aVRichard Jefferson NJN 01/15/2003 NJN @ PHI L 38 20 8 11 72.7 0 0 - 4 6 66.7 6 3 9 2 1 1 4 4 2
+p436
+aVAnthony Johnson NJN 01/15/2003 NJN @ PHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p437
+aVAaron Williams NJN 01/15/2003 NJN @ PHI L 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -11
+p438
+aVJason Collins NJN 01/15/2003 NJN @ PHI L 30 10 3 8 37.5 0 0 - 4 4 100.0 3 5 8 0 0 1 2 1 8
+p439
+aVKerry Kittles NJN 01/15/2003 NJN @ PHI L 26 14 5 13 38.5 2 5 40.0 2 2 100.0 1 2 3 0 1 0 0 0 -8
+p440
+aVJason Kidd NJN 01/15/2003 NJN @ PHI L 42 9 4 21 19.0 1 9 11.1 0 0 - 3 1 4 16 3 0 3 5 0
+p441
+aVKerry Kittles NJN 01/10/2003 NJN @ TOR W 24 13 5 9 55.6 0 0 - 3 4 75.0 0 3 3 2 1 0 1 1 9
+p442
+aVBrian Scalabrine NJN 01/10/2003 NJN @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p443
+aVTamar Slay NJN 01/10/2003 NJN @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p444
+aVLucious Harris NJN 01/10/2003 NJN @ TOR W 24 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 6
+p445
+aVKenyon Martin NJN 01/10/2003 NJN @ TOR W 34 10 5 10 50.0 0 0 - 0 2 0.0 3 7 10 2 0 0 5 1 7
+p446
+aVAnthony Johnson NJN 01/10/2003 NJN @ TOR W 11 4 1 2 50.0 0 0 - 2 4 50.0 0 2 2 1 0 0 1 2 5
+p447
+aVRichard Jefferson NJN 01/10/2003 NJN @ TOR W 38 12 4 8 50.0 0 1 0.0 4 5 80.0 1 3 4 0 1 0 0 2 12
+p448
+aVJason Collins NJN 01/10/2003 NJN @ TOR W 23 8 2 6 33.3 0 0 - 4 5 80.0 5 3 8 2 0 0 1 6 8
+p449
+aVJason Kidd NJN 01/10/2003 NJN @ TOR W 37 25 9 19 47.4 3 7 42.9 4 5 80.0 1 6 7 8 1 0 4 0 10
+p450
+aVAaron Williams NJN 01/10/2003 NJN @ TOR W 25 5 2 7 28.6 0 0 - 1 1 100.0 2 1 3 0 0 1 0 4 7
+p451
+aVRodney Rogers NJN 01/10/2003 NJN @ TOR W 23 13 4 10 40.0 3 4 75.0 2 2 100.0 0 4 4 2 1 1 1 3 11
+p452
+aVRichard Jefferson NJN 01/09/2003 NJN vs. SAC L 28 9 2 5 40.0 0 0 - 5 6 83.3 0 2 2 1 1 0 2 2 -20
+p453
+aVLucious Harris NJN 01/09/2003 NJN vs. SAC L 26 11 5 11 45.5 1 3 33.3 0 0 - 0 1 1 2 1 0 2 0 -22
+p454
+aVKerry Kittles NJN 01/09/2003 NJN vs. SAC L 16 6 3 6 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -22
+p455
+aVJason Collins NJN 01/09/2003 NJN vs. SAC L 30 11 5 10 50.0 0 0 - 1 1 100.0 3 2 5 1 1 0 0 2 -31
+p456
+aVChris Childs NJN 01/09/2003 NJN vs. SAC L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 0 2 6
+p457
+aVAaron Williams NJN 01/09/2003 NJN vs. SAC L 18 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 1 1 0 3 1 -5
+p458
+aVJason Kidd NJN 01/09/2003 NJN vs. SAC L 31 10 5 17 29.4 0 4 0.0 0 0 - 0 2 2 5 1 0 1 1 -25
+p459
+aVRodney Rogers NJN 01/09/2003 NJN vs. SAC L 18 1 0 5 0.0 0 3 0.0 1 2 50.0 0 4 4 1 0 0 2 2 -28
+p460
+aVBrian Scalabrine NJN 01/09/2003 NJN vs. SAC L 8 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 1 0 0 2 3
+p461
+aVKenyon Martin NJN 01/09/2003 NJN vs. SAC L 29 8 4 12 33.3 0 1 0.0 0 2 0.0 6 7 13 4 2 0 2 3 -27
+p462
+aVTamar Slay NJN 01/09/2003 NJN vs. SAC L 12 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 0 2
+p463
+aVAnthony Johnson NJN 01/09/2003 NJN vs. SAC L 17 11 4 5 80.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 2 3 -11
+p464
+aVLucious Harris NJN 01/06/2003 NJN @ ATL W 31 21 6 13 46.2 1 2 50.0 8 11 72.7 3 4 7 0 1 0 2 5 5
+p465
+aVKenyon Martin NJN 01/06/2003 NJN @ ATL W 34 17 5 10 50.0 0 0 - 7 9 77.8 5 7 12 2 0 0 5 3 7
+p466
+aVBrian Scalabrine NJN 01/06/2003 NJN @ ATL W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p467
+aVAnthony Johnson NJN 01/06/2003 NJN @ ATL W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 0 2 8
+p468
+aVAaron Williams NJN 01/06/2003 NJN @ ATL W 19 4 2 3 66.7 0 0 - 0 0 - 3 3 6 2 0 1 1 3 3
+p469
+aVKerry Kittles NJN 01/06/2003 NJN @ ATL W 17 9 4 9 44.4 0 2 0.0 1 1 100.0 0 1 1 0 2 0 0 0 2
+p470
+aVRodney Rogers NJN 01/06/2003 NJN @ ATL W 22 6 2 6 33.3 0 3 0.0 2 2 100.0 1 3 4 0 1 0 1 2 5
+p471
+aVJason Collins NJN 01/06/2003 NJN @ ATL W 29 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 1 1 2 4 4
+p472
+aVRichard Jefferson NJN 01/06/2003 NJN @ ATL W 28 17 6 9 66.7 0 0 - 5 9 55.6 0 1 1 2 0 0 0 3 2
+p473
+aVJason Kidd NJN 01/06/2003 NJN @ ATL W 40 21 7 19 36.8 1 6 16.7 6 8 75.0 1 3 4 4 6 1 12 2 -1
+p474
+aVAnthony Johnson NJN 01/04/2003 NJN @ ORL W 11 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 1 0 0 1 0 -7
+p475
+aVKerry Kittles NJN 01/04/2003 NJN @ ORL W 21 5 2 6 33.3 0 2 0.0 1 1 100.0 2 3 5 0 2 0 0 2 -3
+p476
+aVRodney Rogers NJN 01/04/2003 NJN @ ORL W 20 6 2 6 33.3 0 2 0.0 2 2 100.0 3 2 5 1 0 0 2 1 4
+p477
+aVBrian Scalabrine NJN 01/04/2003 NJN @ ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p478
+aVJason Collins NJN 01/04/2003 NJN @ ORL W 24 4 2 6 33.3 0 0 - 0 0 - 3 1 4 1 0 0 1 2 4
+p479
+aVJason Kidd NJN 01/04/2003 NJN @ ORL W 37 15 5 15 33.3 1 7 14.3 4 8 50.0 0 8 8 12 3 0 2 1 12
+p480
+aVRichard Jefferson NJN 01/04/2003 NJN @ ORL W 34 13 5 9 55.6 0 0 - 3 4 75.0 2 3 5 3 0 0 3 1 1
+p481
+aVLucious Harris NJN 01/04/2003 NJN @ ORL W 32 14 6 15 40.0 1 3 33.3 1 2 50.0 1 3 4 4 1 1 2 1 9
+p482
+aVAaron Williams NJN 01/04/2003 NJN @ ORL W 19 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 0 0 0 1 1 0
+p483
+aVKenyon Martin NJN 01/04/2003 NJN @ ORL W 39 19 4 12 33.3 0 2 0.0 11 16 68.8 5 7 12 2 1 1 3 5 9
+p484
+aVKerry Kittles NJN 01/03/2003 NJN @ MIA W 23 9 4 7 57.1 1 2 50.0 0 2 0.0 1 2 3 0 2 1 3 3 -10
+p485
+aVLucious Harris NJN 01/03/2003 NJN @ MIA W 25 16 6 11 54.5 2 4 50.0 2 2 100.0 2 4 6 2 1 0 0 1 30
+p486
+aVJason Kidd NJN 01/03/2003 NJN @ MIA W 28 13 5 8 62.5 1 2 50.0 2 4 50.0 1 1 2 13 3 1 4 2 23
+p487
+aVAnthony Johnson NJN 01/03/2003 NJN @ MIA W 20 2 1 4 25.0 0 0 - 0 1 0.0 0 2 2 1 1 0 2 4 -3
+p488
+aVTamar Slay NJN 01/03/2003 NJN @ MIA W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -5
+p489
+aVJason Collins NJN 01/03/2003 NJN @ MIA W 12 7 1 1 100.0 0 0 - 5 6 83.3 0 1 1 0 1 1 1 0 19
+p490
+aVAaron Williams NJN 01/03/2003 NJN @ MIA W 31 8 4 8 50.0 0 0 - 0 0 - 3 6 9 1 1 0 4 2 6
+p491
+aVBrian Scalabrine NJN 01/03/2003 NJN @ MIA W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p492
+aVRichard Jefferson NJN 01/03/2003 NJN @ MIA W 33 26 10 14 71.4 0 0 - 6 11 54.5 1 7 8 0 1 1 2 3 28
+p493
+aVBrandon Armstrong NJN 01/03/2003 NJN @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p494
+aVRodney Rogers NJN 01/03/2003 NJN @ MIA W 18 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 1 1 0 4 4 -6
+p495
+aVKenyon Martin NJN 01/03/2003 NJN @ MIA W 35 12 5 9 55.6 0 0 - 2 2 100.0 3 7 10 6 3 1 3 3 30
+p496
+aVTamar Slay NJN 12/30/2002 NJN vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p497
+aVJason Kidd NJN 12/30/2002 NJN vs. CLE W 36 17 5 15 33.3 2 7 28.6 5 5 100.0 2 3 5 10 2 3 1 0 16
+p498
+aVBrian Scalabrine NJN 12/30/2002 NJN vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p499
+aVLucious Harris NJN 12/30/2002 NJN vs. CLE W 36 15 6 16 37.5 0 1 0.0 3 4 75.0 3 7 10 3 0 2 1 3 0
+p500
+aVKenyon Martin NJN 12/30/2002 NJN vs. CLE W 35 28 11 18 61.1 0 1 0.0 6 6 100.0 2 8 10 6 2 3 1 0 14
+p501
+aVRichard Jefferson NJN 12/30/2002 NJN vs. CLE W 38 19 9 15 60.0 1 1 100.0 0 2 0.0 2 4 6 2 0 1 3 3 1
+p502
+aVAnthony Johnson NJN 12/30/2002 NJN vs. CLE W 23 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 2 2 0 0 4 10
+p503
+aVAaron Williams NJN 12/30/2002 NJN vs. CLE W 20 8 2 5 40.0 0 0 - 4 5 80.0 2 1 3 0 0 3 1 2 12
+p504
+aVJason Collins NJN 12/30/2002 NJN vs. CLE W 28 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 2 0 1 3 2
+p505
+aVRodney Rogers NJN 12/30/2002 NJN vs. CLE W 22 4 2 7 28.6 0 2 0.0 0 0 - 2 6 8 4 0 1 2 3 11
+p506
+aVRodney Rogers NJN 12/28/2002 NJN @ MIL W 27 5 2 6 33.3 1 1 100.0 0 0 - 1 2 3 1 2 0 0 2 -4
+p507
+aVRichard Jefferson NJN 12/28/2002 NJN @ MIL W 36 16 5 10 50.0 0 1 0.0 6 8 75.0 3 5 8 1 0 1 1 3 4
+p508
+aVAnthony Johnson NJN 12/28/2002 NJN @ MIL W 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -1
+p509
+aVJason Collins NJN 12/28/2002 NJN @ MIL W 23 11 3 6 50.0 0 0 - 5 6 83.3 1 2 3 2 2 0 1 4 18
+p510
+aVAaron Williams NJN 12/28/2002 NJN @ MIL W 22 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 1 0 1 0 6 -13
+p511
+aVKenyon Martin NJN 12/28/2002 NJN @ MIL W 35 24 9 20 45.0 0 0 - 6 8 75.0 3 9 12 0 3 0 3 4 19
+p512
+aVJason Kidd NJN 12/28/2002 NJN @ MIL W 40 23 8 16 50.0 2 3 66.7 5 7 71.4 0 5 5 7 3 0 1 2 3
+p513
+aVLucious Harris NJN 12/28/2002 NJN @ MIL W 38 17 6 10 60.0 0 0 - 5 7 71.4 4 4 8 7 0 0 1 2 14
+p514
+aVKenyon Martin NJN 12/27/2002 NJN vs. MIL W 36 21 9 13 69.2 1 1 100.0 2 6 33.3 1 7 8 4 1 1 2 3 19
+p515
+aVAnthony Johnson NJN 12/27/2002 NJN vs. MIL W 28 12 4 5 80.0 0 1 0.0 4 4 100.0 0 2 2 3 1 1 0 1 8
+p516
+aVRichard Jefferson NJN 12/27/2002 NJN vs. MIL W 33 8 2 7 28.6 0 0 - 4 6 66.7 0 3 3 1 2 0 1 1 16
+p517
+aVBrian Scalabrine NJN 12/27/2002 NJN vs. MIL W 6 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 0 2
+p518
+aVJason Kidd NJN 12/27/2002 NJN vs. MIL W 31 10 2 5 40.0 1 1 100.0 5 6 83.3 1 4 5 9 0 2 1 1 16
+p519
+aVTamar Slay NJN 12/27/2002 NJN vs. MIL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p520
+aVLucious Harris NJN 12/27/2002 NJN vs. MIL W 34 25 9 15 60.0 2 4 50.0 5 6 83.3 3 5 8 3 0 1 2 1 18
+p521
+aVJason Collins NJN 12/27/2002 NJN vs. MIL W 29 11 4 7 57.1 0 0 - 3 3 100.0 2 2 4 6 0 1 2 3 11
+p522
+aVRodney Rogers NJN 12/27/2002 NJN vs. MIL W 19 13 5 10 50.0 3 4 75.0 0 5 0.0 1 3 4 1 1 0 2 5 9
+p523
+aVAaron Williams NJN 12/27/2002 NJN vs. MIL W 17 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 5
+p524
+aVBrandon Armstrong NJN 12/27/2002 NJN vs. MIL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p525
+aVJason Kidd NJN 12/25/2002 NJN vs. BOS W 32 16 7 11 63.6 2 3 66.7 0 0 - 0 3 3 11 3 0 3 3 35
+p526
+aVJason Collins NJN 12/25/2002 NJN vs. BOS W 31 10 2 8 25.0 0 0 - 6 7 85.7 1 3 4 0 2 0 0 4 30
+p527
+aVAaron Williams NJN 12/25/2002 NJN vs. BOS W 17 9 4 4 100.0 0 0 - 1 1 100.0 0 3 3 1 0 0 1 4 6
+p528
+aVBrian Scalabrine NJN 12/25/2002 NJN vs. BOS W 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 1 0 6
+p529
+aVRodney Rogers NJN 12/25/2002 NJN vs. BOS W 24 13 5 11 45.5 0 5 0.0 3 6 50.0 0 5 5 4 1 0 1 4 15
+p530
+aVLucious Harris NJN 12/25/2002 NJN vs. BOS W 30 17 7 12 58.3 1 3 33.3 2 2 100.0 1 3 4 6 0 0 0 2 15
+p531
+aVKenyon Martin NJN 12/25/2002 NJN vs. BOS W 29 16 7 11 63.6 0 1 0.0 2 3 66.7 5 8 13 2 1 1 2 4 23
+p532
+aVTamar Slay NJN 12/25/2002 NJN vs. BOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 2 0 0 0 6
+p533
+aVAnthony Johnson NJN 12/25/2002 NJN vs. BOS W 28 8 4 10 40.0 0 1 0.0 0 0 - 0 2 2 5 0 0 1 2 16
+p534
+aVBrandon Armstrong NJN 12/25/2002 NJN vs. BOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 6
+p535
+aVRichard Jefferson NJN 12/25/2002 NJN vs. BOS W 32 22 6 11 54.5 0 0 - 10 11 90.9 0 8 8 1 2 2 2 4 22
+p536
+aVJason Collins NJN 12/23/2002 NJN vs. CHI W 27 5 1 3 33.3 0 0 - 3 4 75.0 1 4 5 2 2 2 0 1 8
+p537
+aVAaron Williams NJN 12/23/2002 NJN vs. CHI W 22 3 1 8 12.5 0 0 - 1 2 50.0 3 0 3 2 0 2 2 6 6
+p538
+aVTamar Slay NJN 12/23/2002 NJN vs. CHI W 15 4 2 8 25.0 0 3 0.0 0 0 - 1 1 2 1 0 0 0 1 -5
+p539
+aVLucious Harris NJN 12/23/2002 NJN vs. CHI W 30 20 7 17 41.2 3 5 60.0 3 3 100.0 1 6 7 4 2 0 1 0 17
+p540
+aVJason Kidd NJN 12/23/2002 NJN vs. CHI W 28 19 7 11 63.6 3 6 50.0 2 2 100.0 1 1 2 4 1 0 4 2 24
+p541
+aVRodney Rogers NJN 12/23/2002 NJN vs. CHI W 13 7 3 3 100.0 1 1 100.0 0 0 - 0 7 7 0 0 0 2 4 11
+p542
+aVRichard Jefferson NJN 12/23/2002 NJN vs. CHI W 34 18 7 12 58.3 0 0 - 4 10 40.0 3 7 10 5 1 0 0 2 26
+p543
+aVBrandon Armstrong NJN 12/23/2002 NJN vs. CHI W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p544
+aVBrian Scalabrine NJN 12/23/2002 NJN vs. CHI W 18 6 2 3 66.7 1 2 50.0 1 2 50.0 0 2 2 2 0 0 1 3 -4
+p545
+aVAnthony Johnson NJN 12/23/2002 NJN vs. CHI W 23 5 1 5 20.0 0 0 - 3 4 75.0 0 0 0 1 1 0 1 5 -3
+p546
+aVKenyon Martin NJN 12/23/2002 NJN vs. CHI W 27 12 4 9 44.4 0 1 0.0 4 6 66.7 1 7 8 3 1 1 2 5 6
+p547
+aVJason Collins NJN 12/21/2002 NJN vs. DET W 25 7 1 3 33.3 0 0 - 5 9 55.6 2 3 5 2 1 0 2 4 -4
+p548
+aVJason Kidd NJN 12/21/2002 NJN vs. DET W 42 27 8 17 47.1 2 5 40.0 9 10 90.0 1 2 3 12 5 0 3 1 3
+p549
+aVKenyon Martin NJN 12/21/2002 NJN vs. DET W 29 12 6 11 54.5 0 0 - 0 0 - 0 3 3 2 1 1 4 5 -2
+p550
+aVRichard Jefferson NJN 12/21/2002 NJN vs. DET W 39 19 8 10 80.0 0 1 0.0 3 6 50.0 0 5 5 2 2 2 1 3 4
+p551
+aVLucious Harris NJN 12/21/2002 NJN vs. DET W 37 16 7 14 50.0 1 3 33.3 1 2 50.0 1 1 2 3 0 1 2 2 1
+p552
+aVAaron Williams NJN 12/21/2002 NJN vs. DET W 23 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 1 0 0 3 12
+p553
+aVRodney Rogers NJN 12/21/2002 NJN vs. DET W 28 13 5 12 41.7 2 3 66.7 1 1 100.0 0 2 2 1 0 0 4 4 14
+p554
+aVAnthony Johnson NJN 12/21/2002 NJN vs. DET W 17 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 5 2 0 0 3 12
+p555
+aVBrian Scalabrine NJN 12/19/2002 NJN vs. LAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p556
+aVAnthony Johnson NJN 12/19/2002 NJN vs. LAL W 19 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 2 0 0 4 17
+p557
+aVRodney Rogers NJN 12/19/2002 NJN vs. LAL W 22 16 6 10 60.0 1 3 33.3 3 3 100.0 0 4 4 1 1 2 3 3 19
+p558
+aVAaron Williams NJN 12/19/2002 NJN vs. LAL W 26 2 1 10 10.0 0 0 - 0 0 - 4 6 10 2 0 1 1 2 13
+p559
+aVKenyon Martin NJN 12/19/2002 NJN vs. LAL W 33 16 5 15 33.3 0 1 0.0 6 7 85.7 3 6 9 5 1 0 2 3 3
+p560
+aVJason Collins NJN 12/19/2002 NJN vs. LAL W 22 3 1 1 100.0 0 0 - 1 2 50.0 2 4 6 0 0 0 1 3 14
+p561
+aVLucious Harris NJN 12/19/2002 NJN vs. LAL W 32 19 9 17 52.9 0 1 0.0 1 2 50.0 2 4 6 2 2 0 0 0 11
+p562
+aVJason Kidd NJN 12/19/2002 NJN vs. LAL W 40 27 12 20 60.0 1 2 50.0 2 2 100.0 1 10 11 8 3 0 3 3 22
+p563
+aVBrandon Armstrong NJN 12/19/2002 NJN vs. LAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p564
+aVTamar Slay NJN 12/19/2002 NJN vs. LAL W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 4
+p565
+aVRichard Jefferson NJN 12/19/2002 NJN vs. LAL W 38 11 4 10 40.0 0 1 0.0 3 4 75.0 2 5 7 1 0 0 2 1 24
+p566
+aVRodney Rogers NJN 12/17/2002 NJN @ NYK L 25 8 3 9 33.3 0 2 0.0 2 2 100.0 2 4 6 1 1 0 0 2 -3
+p567
+aVJason Collins NJN 12/17/2002 NJN @ NYK L 28 8 4 9 44.4 0 0 - 0 0 - 2 2 4 1 1 0 2 3 -4
+p568
+aVJason Kidd NJN 12/17/2002 NJN @ NYK L 42 39 10 19 52.6 2 2 100.0 17 18 94.4 2 3 5 11 2 0 6 3 -1
+p569
+aVBrandon Armstrong NJN 12/17/2002 NJN @ NYK L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 2 0 0 0 3
+p570
+aVKenyon Martin NJN 12/17/2002 NJN @ NYK L 38 18 8 15 53.3 0 0 - 2 4 50.0 4 7 11 3 0 0 1 4 1
+p571
+aVLucious Harris NJN 12/17/2002 NJN @ NYK L 38 10 5 12 41.7 0 2 0.0 0 0 - 1 3 4 3 0 0 0 3 -8
+p572
+aVRichard Jefferson NJN 12/17/2002 NJN @ NYK L 38 8 4 11 36.4 0 0 - 0 0 - 4 7 11 0 1 1 2 1 2
+p573
+aVAaron Williams NJN 12/17/2002 NJN @ NYK L 19 6 3 6 50.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 2
+p574
+aVAnthony Johnson NJN 12/17/2002 NJN @ NYK L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p575
+aVLucious Harris NJN 12/15/2002 NJN @ DET L 37 18 6 14 42.9 0 1 0.0 6 6 100.0 0 2 2 4 4 0 0 3 -8
+p576
+aVRodney Rogers NJN 12/15/2002 NJN @ DET L 22 12 3 8 37.5 0 1 0.0 6 6 100.0 1 2 3 0 0 1 3 3 -6
+p577
+aVBrandon Armstrong NJN 12/15/2002 NJN @ DET L 11 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -2
+p578
+aVJason Collins NJN 12/15/2002 NJN @ DET L 31 10 2 6 33.3 0 0 - 6 12 50.0 2 2 4 0 0 1 1 5 0
+p579
+aVKenyon Martin NJN 12/15/2002 NJN @ DET L 37 13 5 12 41.7 0 2 0.0 3 8 37.5 5 6 11 0 0 0 1 5 -10
+p580
+aVBrian Scalabrine NJN 12/15/2002 NJN @ DET L 1 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p581
+aVJason Kidd NJN 12/15/2002 NJN @ DET L 38 15 6 17 35.3 1 3 33.3 2 2 100.0 0 3 3 8 3 1 5 2 -10
+p582
+aVAaron Williams NJN 12/15/2002 NJN @ DET L 14 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 5 -4
+p583
+aVAnthony Johnson NJN 12/15/2002 NJN @ DET L 10 3 1 2 50.0 1 1 100.0 0 2 0.0 0 0 0 1 0 0 1 2 0
+p584
+aVRichard Jefferson NJN 12/15/2002 NJN @ DET L 38 6 3 9 33.3 0 1 0.0 0 0 - 1 5 6 3 0 1 1 5 -12
+p585
+aVJason Kidd NJN 12/13/2002 NJN vs. WAS W 39 11 5 17 29.4 0 2 0.0 1 1 100.0 0 10 10 10 2 1 2 1 19
+p586
+aVAaron Williams NJN 12/13/2002 NJN vs. WAS W 19 6 2 2 100.0 0 0 - 2 2 100.0 2 0 2 2 1 3 2 0 5
+p587
+aVAnthony Johnson NJN 12/13/2002 NJN vs. WAS W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 1
+p588
+aVKenyon Martin NJN 12/13/2002 NJN vs. WAS W 31 19 7 13 53.8 0 2 0.0 5 5 100.0 1 6 7 1 2 0 5 4 15
+p589
+aVJason Collins NJN 12/13/2002 NJN vs. WAS W 29 3 1 5 20.0 0 0 - 1 2 50.0 3 4 7 0 0 1 2 5 9
+p590
+aVRichard Jefferson NJN 12/13/2002 NJN vs. WAS W 38 21 8 15 53.3 0 0 - 5 6 83.3 2 6 8 2 2 1 3 1 15
+p591
+aVTamar Slay NJN 12/13/2002 NJN vs. WAS W 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 6
+p592
+aVLucious Harris NJN 12/13/2002 NJN vs. WAS W 36 12 3 9 33.3 0 1 0.0 6 6 100.0 0 0 0 1 1 0 0 1 2
+p593
+aVRodney Rogers NJN 12/13/2002 NJN vs. WAS W 27 7 3 9 33.3 1 3 33.3 0 0 - 1 4 5 2 1 1 0 2 -2
+p594
+aVLucious Harris NJN 12/11/2002 NJN vs. POR W 41 21 8 11 72.7 1 3 33.3 4 4 100.0 1 3 4 2 0 0 3 1 1
+p595
+aVTamar Slay NJN 12/11/2002 NJN vs. POR W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 0
+p596
+aVRichard Jefferson NJN 12/11/2002 NJN vs. POR W 39 22 9 15 60.0 0 0 - 4 5 80.0 5 10 15 7 4 3 3 4 8
+p597
+aVAaron Williams NJN 12/11/2002 NJN vs. POR W 33 12 6 8 75.0 0 0 - 0 0 - 1 5 6 2 0 2 1 4 6
+p598
+aVJason Collins NJN 12/11/2002 NJN vs. POR W 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 1 0 1 5 0
+p599
+aVRodney Rogers NJN 12/11/2002 NJN vs. POR W 21 9 4 8 50.0 1 2 50.0 0 0 - 1 0 1 4 3 0 0 2 -4
+p600
+aVJason Kidd NJN 12/11/2002 NJN vs. POR W 42 27 9 22 40.9 0 4 0.0 9 12 75.0 1 4 5 12 1 1 1 2 0
+p601
+aVAnthony Johnson NJN 12/11/2002 NJN vs. POR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 1
+p602
+aVKenyon Martin NJN 12/11/2002 NJN vs. POR W 37 10 4 14 28.6 1 1 100.0 1 3 33.3 4 5 9 1 2 2 7 4 -7
+p603
+aVBrandon Armstrong NJN 12/09/2002 NJN vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -7
+p604
+aVAaron Williams NJN 12/09/2002 NJN vs. PHX W 24 12 6 9 66.7 0 0 - 0 0 - 2 4 6 2 0 1 2 4 -7
+p605
+aVJason Kidd NJN 12/09/2002 NJN vs. PHX W 30 20 8 13 61.5 1 2 50.0 3 3 100.0 3 3 6 7 1 0 4 1 20
+p606
+aVLucious Harris NJN 12/09/2002 NJN vs. PHX W 25 12 4 9 44.4 2 3 66.7 2 2 100.0 0 4 4 2 1 0 0 1 20
+p607
+aVAnthony Johnson NJN 12/09/2002 NJN vs. PHX W 18 7 2 5 40.0 0 0 - 3 4 75.0 3 2 5 1 0 0 1 0 -7
+p608
+aVTamar Slay NJN 12/09/2002 NJN vs. PHX W 23 5 2 10 20.0 1 4 25.0 0 0 - 0 3 3 0 2 1 1 2 -7
+p609
+aVBrian Scalabrine NJN 12/09/2002 NJN vs. PHX W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p610
+aVRichard Jefferson NJN 12/09/2002 NJN vs. PHX W 31 19 7 12 58.3 0 0 - 5 8 62.5 1 4 5 3 1 0 1 1 29
+p611
+aVRodney Rogers NJN 12/09/2002 NJN vs. PHX W 22 18 8 14 57.1 1 3 33.3 1 2 50.0 1 1 2 3 1 0 2 3 -6
+p612
+aVKenyon Martin NJN 12/09/2002 NJN vs. PHX W 33 11 5 10 50.0 0 0 - 1 2 50.0 0 7 7 6 2 2 2 5 21
+p613
+aVJason Collins NJN 12/09/2002 NJN vs. PHX W 24 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 20
+p614
+aVRodney Rogers NJN 12/07/2002 NJN vs. ORL W 19 17 6 8 75.0 4 4 100.0 1 2 50.0 0 7 7 6 0 1 1 5 30
+p615
+aVKenyon Martin NJN 12/07/2002 NJN vs. ORL W 30 10 5 14 35.7 0 2 0.0 0 0 - 1 3 4 2 1 1 1 2 17
+p616
+aVAnthony Johnson NJN 12/07/2002 NJN vs. ORL W 18 5 2 8 25.0 0 2 0.0 1 1 100.0 1 1 2 2 1 0 0 0 16
+p617
+aVRichard Jefferson NJN 12/07/2002 NJN vs. ORL W 35 19 7 12 58.3 0 0 - 5 5 100.0 1 7 8 4 3 2 1 5 27
+p618
+aVTamar Slay NJN 12/07/2002 NJN vs. ORL W 23 14 6 9 66.7 2 2 100.0 0 0 - 3 1 4 1 0 0 0 2 23
+p619
+aVBrian Scalabrine NJN 12/07/2002 NJN vs. ORL W 9 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 2
+p620
+aVLucious Harris NJN 12/07/2002 NJN vs. ORL W 25 15 7 13 53.8 1 3 33.3 0 0 - 0 2 2 2 0 0 0 0 10
+p621
+aVJason Collins NJN 12/07/2002 NJN vs. ORL W 26 11 4 6 66.7 0 1 0.0 3 3 100.0 4 2 6 1 0 0 2 4 6
+p622
+aVJason Kidd NJN 12/07/2002 NJN vs. ORL W 30 15 5 8 62.5 3 3 100.0 2 3 66.7 1 7 8 13 1 0 1 1 17
+p623
+aVAaron Williams NJN 12/07/2002 NJN vs. ORL W 19 6 3 3 100.0 0 0 - 0 0 - 0 2 2 1 0 0 2 2 19
+p624
+aVBrandon Armstrong NJN 12/07/2002 NJN vs. ORL W 6 4 1 5 20.0 0 2 0.0 2 3 66.7 0 0 0 0 0 0 0 1 -2
+p625
+aVAaron Williams NJN 12/03/2002 NJN vs. ATL W 20 6 2 4 50.0 0 0 - 2 2 100.0 4 4 8 1 0 2 2 1 6
+p626
+aVJason Collins NJN 12/03/2002 NJN vs. ATL W 28 8 1 8 12.5 0 0 - 6 7 85.7 6 4 10 0 1 0 3 3 9
+p627
+aVKenyon Martin NJN 12/03/2002 NJN vs. ATL W 35 18 8 20 40.0 0 0 - 2 4 50.0 0 3 3 1 3 3 5 5 16
+p628
+aVAnthony Johnson NJN 12/03/2002 NJN vs. ATL W 13 6 2 4 50.0 0 1 0.0 2 3 66.7 0 0 0 0 0 0 0 3 -10
+p629
+aVJason Kidd NJN 12/03/2002 NJN vs. ATL W 35 7 3 13 23.1 1 4 25.0 0 0 - 0 4 4 6 3 0 2 1 25
+p630
+aVRichard Jefferson NJN 12/03/2002 NJN vs. ATL W 36 22 9 12 75.0 0 0 - 4 6 66.7 4 10 14 0 2 2 2 3 9
+p631
+aVBrian Scalabrine NJN 12/03/2002 NJN vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p632
+aVBrandon Armstrong NJN 12/03/2002 NJN vs. ATL W 2 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 0 0
+p633
+aVLucious Harris NJN 12/03/2002 NJN vs. ATL W 28 4 1 8 12.5 0 0 - 2 2 100.0 0 1 1 2 1 0 0 1 9
+p634
+aVTamar Slay NJN 12/03/2002 NJN vs. ATL W 20 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 1 1 0 4 2 6
+p635
+aVRodney Rogers NJN 12/03/2002 NJN vs. ATL W 23 12 5 11 45.5 2 3 66.7 0 0 - 3 4 7 1 0 1 1 1 5
+p636
+aVJason Collins NJN 12/01/2002 NJN @ SEA L 30 8 2 6 33.3 0 0 - 4 4 100.0 0 1 1 2 2 0 0 1 7
+p637
+aVRichard Jefferson NJN 12/01/2002 NJN @ SEA L 39 14 6 10 60.0 0 0 - 2 4 50.0 1 2 3 4 2 0 1 3 -3
+p638
+aVAaron Williams NJN 12/01/2002 NJN @ SEA L 18 3 1 4 25.0 0 0 - 1 1 100.0 1 2 3 1 0 1 3 1 -8
+p639
+aVRodney Rogers NJN 12/01/2002 NJN @ SEA L 19 6 2 4 50.0 1 2 50.0 1 2 50.0 0 8 8 1 1 1 1 1 -11
+p640
+aVAnthony Johnson NJN 12/01/2002 NJN @ SEA L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 1 0
+p641
+aVTamar Slay NJN 12/01/2002 NJN @ SEA L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p642
+aVJason Kidd NJN 12/01/2002 NJN @ SEA L 42 27 9 22 40.9 2 7 28.6 7 10 70.0 3 5 8 8 2 0 3 2 -1
+p643
+aVKenyon Martin NJN 12/01/2002 NJN @ SEA L 37 9 3 12 25.0 1 2 50.0 2 3 66.7 3 6 9 2 0 3 3 6 12
+p644
+aVLucious Harris NJN 12/01/2002 NJN @ SEA L 41 23 8 16 50.0 3 4 75.0 4 4 100.0 2 2 4 3 1 0 2 3 9
+p645
+aVRichard Jefferson NJN 11/30/2002 NJN @ POR W 37 12 3 5 60.0 0 0 - 6 6 100.0 1 9 10 4 0 3 0 2 24
+p646
+aVTamar Slay NJN 11/30/2002 NJN @ POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p647
+aVRodney Rogers NJN 11/30/2002 NJN @ POR W 23 6 2 7 28.6 1 2 50.0 1 2 50.0 1 8 9 0 1 2 3 5 -9
+p648
+aVLucious Harris NJN 11/30/2002 NJN @ POR W 31 5 2 7 28.6 1 2 50.0 0 0 - 1 1 2 2 2 0 1 2 -4
+p649
+aVAaron Williams NJN 11/30/2002 NJN @ POR W 18 8 3 8 37.5 0 0 - 2 2 100.0 2 4 6 0 0 1 2 0 -8
+p650
+aVAnthony Johnson NJN 11/30/2002 NJN @ POR W 9 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 2 -7
+p651
+aVKenyon Martin NJN 11/30/2002 NJN @ POR W 29 11 3 7 42.9 0 0 - 5 6 83.3 0 5 5 2 1 1 2 6 7
+p652
+aVKerry Kittles NJN 11/30/2002 NJN @ POR W 22 11 4 9 44.4 1 4 25.0 2 3 66.7 0 2 2 2 2 0 0 0 12
+p653
+aVJason Collins NJN 11/30/2002 NJN @ POR W 30 7 2 3 66.7 0 0 - 3 4 75.0 0 3 3 1 0 0 3 5 15
+p654
+aVJason Kidd NJN 11/30/2002 NJN @ POR W 39 28 10 17 58.8 1 3 33.3 7 8 87.5 0 4 4 8 2 0 7 0 14
+p655
+aVKerry Kittles NJN 11/28/2002 NJN @ LAC L 33 19 7 15 46.7 5 9 55.6 0 0 - 2 5 7 4 2 0 2 2 -14
+p656
+aVAnthony Johnson NJN 11/28/2002 NJN @ LAC L 11 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 4 2 0 0 0 -2
+p657
+aVLucious Harris NJN 11/28/2002 NJN @ LAC L 27 17 7 12 58.3 3 4 75.0 0 0 - 0 0 0 1 1 0 1 2 -6
+p658
+aVJason Collins NJN 11/28/2002 NJN @ LAC L 24 7 2 6 33.3 0 0 - 3 4 75.0 5 1 6 2 0 1 0 6 -6
+p659
+aVRichard Jefferson NJN 11/28/2002 NJN @ LAC L 44 17 6 14 42.9 0 2 0.0 5 7 71.4 6 5 11 2 1 2 1 1 -2
+p660
+aVDikembe Mutombo NJN 11/28/2002 NJN @ LAC L 31 8 4 5 80.0 0 0 - 0 0 - 2 6 8 0 0 4 5 4 -5
+p661
+aVJason Kidd NJN 11/28/2002 NJN @ LAC L 42 35 12 24 50.0 6 9 66.7 5 5 100.0 1 7 8 8 0 0 2 1 -6
+p662
+aVKenyon Martin NJN 11/28/2002 NJN @ LAC L 36 10 4 12 33.3 1 3 33.3 1 4 25.0 2 6 8 4 0 0 4 6 5
+p663
+aVRodney Rogers NJN 11/28/2002 NJN @ LAC L 16 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 4 0 0 1 1 -4
+p664
+aVKenyon Martin NJN 11/27/2002 NJN @ PHX L 33 13 5 19 26.3 0 1 0.0 3 6 50.0 3 9 12 2 2 0 0 5 0
+p665
+aVRodney Rogers NJN 11/27/2002 NJN @ PHX L 19 6 2 7 28.6 0 4 0.0 2 2 100.0 0 2 2 0 0 1 1 4 -11
+p666
+aVAnthony Johnson NJN 11/27/2002 NJN @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p667
+aVLucious Harris NJN 11/27/2002 NJN @ PHX L 15 4 1 6 16.7 0 0 - 2 3 66.7 0 3 3 0 1 0 2 3 -10
+p668
+aVRichard Jefferson NJN 11/27/2002 NJN @ PHX L 40 11 4 15 26.7 0 1 0.0 3 4 75.0 5 5 10 2 3 1 3 2 -8
+p669
+aVJason Kidd NJN 11/27/2002 NJN @ PHX L 40 17 5 21 23.8 3 8 37.5 4 4 100.0 1 3 4 4 3 0 2 3 -3
+p670
+aVKerry Kittles NJN 11/27/2002 NJN @ PHX L 38 9 3 8 37.5 1 5 20.0 2 2 100.0 0 4 4 6 2 3 2 2 1
+p671
+aVAaron Williams NJN 11/27/2002 NJN @ PHX L 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -12
+p672
+aVDikembe Mutombo NJN 11/27/2002 NJN @ PHX L 21 6 3 5 60.0 0 0 - 0 0 - 1 5 6 3 1 2 2 4 1
+p673
+aVJason Collins NJN 11/27/2002 NJN @ PHX L 20 9 3 3 100.0 0 0 - 3 4 75.0 3 1 4 0 0 0 0 2 9
+p674
+aVKerry Kittles NJN 11/23/2002 NJN @ MIN W 27 19 9 12 75.0 1 3 33.3 0 0 - 0 2 2 2 1 0 1 0 10
+p675
+aVLucious Harris NJN 11/23/2002 NJN @ MIN W 21 10 4 9 44.4 0 1 0.0 2 2 100.0 0 3 3 1 0 0 0 0 18
+p676
+aVJason Collins NJN 11/23/2002 NJN @ MIN W 15 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 1 1 0 2 4
+p677
+aVTamar Slay NJN 11/23/2002 NJN @ MIN W 6 4 2 3 66.7 0 1 0.0 0 1 0.0 0 0 0 0 0 1 0 1 -7
+p678
+aVAnthony Johnson NJN 11/23/2002 NJN @ MIN W 5 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p679
+aVBrian Scalabrine NJN 11/23/2002 NJN @ MIN W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p680
+aVDikembe Mutombo NJN 11/23/2002 NJN @ MIN W 26 4 2 6 33.3 0 0 - 0 0 - 2 4 6 3 0 3 1 2 8
+p681
+aVAaron Williams NJN 11/23/2002 NJN @ MIN W 21 9 4 6 66.7 0 0 - 1 1 100.0 2 6 8 1 0 2 1 6 8
+p682
+aVRodney Rogers NJN 11/23/2002 NJN @ MIN W 23 5 2 4 50.0 1 1 100.0 0 0 - 1 4 5 2 1 1 3 3 9
+p683
+aVJason Kidd NJN 11/23/2002 NJN @ MIN W 37 18 8 14 57.1 2 3 66.7 0 0 - 0 4 4 12 1 0 4 2 12
+p684
+aVRichard Jefferson NJN 11/23/2002 NJN @ MIN W 27 14 6 9 66.7 0 0 - 2 3 66.7 1 6 7 2 2 0 1 2 12
+p685
+aVKenyon Martin NJN 11/23/2002 NJN @ MIN W 29 12 6 16 37.5 0 1 0.0 0 1 0.0 0 2 2 3 2 0 1 4 4
+p686
+aVDikembe Mutombo NJN 11/22/2002 NJN vs. CLE W 23 12 5 8 62.5 0 0 - 2 2 100.0 1 6 7 1 0 1 2 1 19
+p687
+aVJason Kidd NJN 11/22/2002 NJN vs. CLE W 27 16 6 11 54.5 1 3 33.3 3 3 100.0 0 6 6 6 2 0 2 2 24
+p688
+aVAnthony Johnson NJN 11/22/2002 NJN vs. CLE W 22 13 4 6 66.7 1 1 100.0 4 4 100.0 1 1 2 4 3 0 1 3 16
+p689
+aVAaron Williams NJN 11/22/2002 NJN vs. CLE W 13 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 3 0 1 0 0 18
+p690
+aVJason Collins NJN 11/22/2002 NJN vs. CLE W 22 10 3 7 42.9 0 0 - 4 5 80.0 0 4 4 1 1 1 1 2 12
+p691
+aVTamar Slay NJN 11/22/2002 NJN vs. CLE W 9 11 4 7 57.1 2 2 100.0 1 1 100.0 0 2 2 1 2 0 0 1 12
+p692
+aVRodney Rogers NJN 11/22/2002 NJN vs. CLE W 18 10 5 8 62.5 0 1 0.0 0 2 0.0 2 3 5 2 0 0 1 3 8
+p693
+aVKenyon Martin NJN 11/22/2002 NJN vs. CLE W 32 21 8 11 72.7 1 1 100.0 4 8 50.0 3 7 10 3 2 0 1 0 30
+p694
+aVBrian Scalabrine NJN 11/22/2002 NJN vs. CLE W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 2 0 0 0 17
+p695
+aVLucious Harris NJN 11/22/2002 NJN vs. CLE W 21 2 1 7 14.3 0 0 - 0 0 - 0 0 0 3 0 0 1 2 18
+p696
+aVKerry Kittles NJN 11/22/2002 NJN vs. CLE W 20 6 2 7 28.6 0 1 0.0 2 2 100.0 1 0 1 3 4 0 3 2 20
+p697
+aVRichard Jefferson NJN 11/22/2002 NJN vs. CLE W 29 12 4 7 57.1 0 1 0.0 4 5 80.0 0 3 3 1 0 1 3 0 11
+p698
+aVBrian Scalabrine NJN 11/20/2002 NJN @ BOS L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p699
+aVRichard Jefferson NJN 11/20/2002 NJN @ BOS L 37 16 6 16 37.5 1 1 100.0 3 6 50.0 2 3 5 5 3 3 2 2 -12
+p700
+aVRodney Rogers NJN 11/20/2002 NJN @ BOS L 24 10 4 8 50.0 2 4 50.0 0 0 - 2 6 8 4 2 1 2 3 -1
+p701
+aVTamar Slay NJN 11/20/2002 NJN @ BOS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p702
+aVKenyon Martin NJN 11/20/2002 NJN @ BOS L 33 10 4 14 28.6 1 1 100.0 1 3 33.3 0 4 4 1 1 1 1 4 -19
+p703
+aVDikembe Mutombo NJN 11/20/2002 NJN @ BOS L 22 2 1 7 14.3 0 0 - 0 3 0.0 8 5 13 0 1 2 2 0 -19
+p704
+aVKerry Kittles NJN 11/20/2002 NJN @ BOS L 35 7 3 6 50.0 0 0 - 1 2 50.0 0 4 4 2 2 0 2 2 -5
+p705
+aVAnthony Johnson NJN 11/20/2002 NJN @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p706
+aVJason Collins NJN 11/20/2002 NJN @ BOS L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p707
+aVLucious Harris NJN 11/20/2002 NJN @ BOS L 22 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 2 0 0 0 2 -7
+p708
+aVJason Kidd NJN 11/20/2002 NJN @ BOS L 34 19 7 16 43.8 0 2 0.0 5 7 71.4 2 4 6 6 1 1 7 2 -18
+p709
+aVAaron Williams NJN 11/20/2002 NJN @ BOS L 21 9 2 8 25.0 0 0 - 5 5 100.0 2 2 4 0 0 1 0 3 2
+p710
+aVJason Kidd NJN 11/18/2002 NJN vs. DEN W 30 24 9 14 64.3 4 6 66.7 2 2 100.0 0 2 2 5 2 0 4 0 30
+p711
+aVDikembe Mutombo NJN 11/18/2002 NJN vs. DEN W 25 4 0 1 0.0 0 0 - 4 6 66.7 0 4 4 1 1 3 3 3 25
+p712
+aVRodney Rogers NJN 11/18/2002 NJN vs. DEN W 22 6 2 6 33.3 0 1 0.0 2 2 100.0 0 3 3 2 1 0 1 2 -3
+p713
+aVJason Collins NJN 11/18/2002 NJN vs. DEN W 19 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 1 3 2 -11
+p714
+aVKerry Kittles NJN 11/18/2002 NJN vs. DEN W 28 15 6 8 75.0 2 2 100.0 1 2 50.0 0 3 3 6 3 0 1 1 27
+p715
+aVRichard Jefferson NJN 11/18/2002 NJN vs. DEN W 27 13 5 9 55.6 0 0 - 3 3 100.0 1 7 8 2 2 0 0 0 26
+p716
+aVAnthony Johnson NJN 11/18/2002 NJN vs. DEN W 18 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 3 3 0 3 0 -10
+p717
+aVKenyon Martin NJN 11/18/2002 NJN vs. DEN W 29 15 6 10 60.0 1 2 50.0 2 2 100.0 0 5 5 2 2 2 2 4 27
+p718
+aVAaron Williams NJN 11/18/2002 NJN vs. DEN W 14 3 1 5 20.0 0 0 - 1 2 50.0 1 1 2 1 1 1 2 3 8
+p719
+aVBrian Scalabrine NJN 11/18/2002 NJN vs. DEN W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -12
+p720
+aVLucious Harris NJN 11/18/2002 NJN vs. DEN W 20 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -7
+p721
+aVDikembe Mutombo NJN 11/16/2002 NJN vs. DAL L 24 5 2 6 33.3 0 0 - 1 2 50.0 5 3 8 0 0 1 2 2 -9
+p722
+aVKenyon Martin NJN 11/16/2002 NJN vs. DAL L 37 11 4 9 44.4 0 0 - 3 4 75.0 1 6 7 1 0 0 5 5 -9
+p723
+aVLucious Harris NJN 11/16/2002 NJN vs. DAL L 22 11 3 10 30.0 3 6 50.0 2 2 100.0 0 2 2 0 0 0 0 1 -21
+p724
+aVJason Kidd NJN 11/16/2002 NJN vs. DAL L 43 22 9 20 45.0 3 8 37.5 1 2 50.0 1 8 9 13 5 0 5 3 -4
+p725
+aVAaron Williams NJN 11/16/2002 NJN vs. DAL L 21 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 1 2 1 5
+p726
+aVRichard Jefferson NJN 11/16/2002 NJN vs. DAL L 22 6 2 4 50.0 0 0 - 2 5 40.0 1 4 5 1 1 0 3 3 3
+p727
+aVRodney Rogers NJN 11/16/2002 NJN vs. DAL L 23 4 2 9 22.2 0 0 - 0 0 - 1 6 7 0 0 2 2 2 2
+p728
+aVKerry Kittles NJN 11/16/2002 NJN vs. DAL L 36 21 8 17 47.1 3 6 50.0 2 2 100.0 1 2 3 5 2 1 0 1 -2
+p729
+aVAnthony Johnson NJN 11/16/2002 NJN vs. DAL L 5 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -4
+p730
+aVJason Collins NJN 11/16/2002 NJN vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p731
+aVBrian Scalabrine NJN 11/15/2002 NJN @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 1
+p732
+aVLucious Harris NJN 11/15/2002 NJN @ MIA W 30 14 4 7 57.1 0 0 - 6 8 75.0 1 1 2 1 2 0 0 1 12
+p733
+aVAaron Williams NJN 11/15/2002 NJN @ MIA W 20 2 1 4 25.0 0 0 - 0 0 - 1 6 7 1 1 1 2 0 4
+p734
+aVKerry Kittles NJN 11/15/2002 NJN @ MIA W 28 11 4 9 44.4 1 2 50.0 2 4 50.0 2 4 6 4 2 0 0 0 5
+p735
+aVJason Kidd NJN 11/15/2002 NJN @ MIA W 38 33 13 25 52.0 1 2 50.0 6 6 100.0 1 5 6 6 1 0 3 3 16
+p736
+aVKenyon Martin NJN 11/15/2002 NJN @ MIA W 17 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 4 3
+p737
+aVRichard Jefferson NJN 11/15/2002 NJN @ MIA W 34 12 3 8 37.5 0 2 0.0 6 8 75.0 1 7 8 0 2 1 4 3 9
+p738
+aVRodney Rogers NJN 11/15/2002 NJN @ MIA W 31 5 1 9 11.1 0 3 0.0 3 4 75.0 0 2 2 4 1 0 0 6 -3
+p739
+aVDikembe Mutombo NJN 11/15/2002 NJN @ MIA W 28 5 1 6 16.7 0 0 - 3 4 75.0 3 7 10 2 0 0 0 1 5
+p740
+aVAnthony Johnson NJN 11/15/2002 NJN @ MIA W 10 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 1 0 2 3 -7
+p741
+aVKenyon Martin NJN 11/13/2002 NJN vs. SAS W 33 8 3 10 30.0 0 1 0.0 2 3 66.7 0 3 3 2 0 0 3 5 4
+p742
+aVJason Kidd NJN 11/13/2002 NJN vs. SAS W 42 18 7 16 43.8 0 2 0.0 4 4 100.0 2 6 8 8 4 0 8 1 7
+p743
+aVLucious Harris NJN 11/13/2002 NJN vs. SAS W 24 15 5 10 50.0 0 0 - 5 6 83.3 3 6 9 1 1 0 1 0 4
+p744
+aVRodney Rogers NJN 11/13/2002 NJN vs. SAS W 20 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 1 1 0 0 3 6
+p745
+aVKerry Kittles NJN 11/13/2002 NJN vs. SAS W 25 9 4 6 66.7 0 0 - 1 1 100.0 0 5 5 1 0 1 0 0 6
+p746
+aVDikembe Mutombo NJN 11/13/2002 NJN vs. SAS W 22 6 2 7 28.6 0 0 - 2 2 100.0 4 3 7 1 0 2 2 4 9
+p747
+aVAaron Williams NJN 11/13/2002 NJN vs. SAS W 24 4 1 5 20.0 0 0 - 2 4 50.0 1 3 4 1 1 1 1 3 2
+p748
+aVJason Collins NJN 11/13/2002 NJN vs. SAS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p749
+aVRichard Jefferson NJN 11/13/2002 NJN vs. SAS W 38 27 9 15 60.0 2 2 100.0 7 8 87.5 2 5 7 1 2 1 4 3 9
+p750
+aVAnthony Johnson NJN 11/13/2002 NJN vs. SAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p751
+aVKerry Kittles NJN 11/09/2002 NJN @ CHI L 26 12 6 11 54.5 0 2 0.0 0 0 - 1 2 3 4 0 1 1 0 4
+p752
+aVAnthony Johnson NJN 11/09/2002 NJN @ CHI L 8 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 1 -11
+p753
+aVRodney Rogers NJN 11/09/2002 NJN @ CHI L 21 5 2 5 40.0 0 2 0.0 1 2 50.0 0 8 8 6 1 0 2 3 -10
+p754
+aVAaron Williams NJN 11/09/2002 NJN @ CHI L 12 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 1 0 5 -13
+p755
+aVKenyon Martin NJN 11/09/2002 NJN @ CHI L 38 29 13 26 50.0 0 0 - 3 4 75.0 2 6 8 0 0 0 3 5 2
+p756
+aVLucious Harris NJN 11/09/2002 NJN @ CHI L 23 5 2 11 18.2 1 3 33.3 0 0 - 0 2 2 1 0 0 1 1 -11
+p757
+aVJason Kidd NJN 11/09/2002 NJN @ CHI L 40 25 5 15 33.3 2 5 40.0 13 15 86.7 3 8 11 12 2 0 0 2 4
+p758
+aVJason Collins NJN 11/09/2002 NJN @ CHI L 15 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 3 4
+p759
+aVRichard Jefferson NJN 11/09/2002 NJN @ CHI L 35 6 2 7 28.6 0 0 - 2 2 100.0 3 3 6 3 0 1 1 1 -6
+p760
+aVDikembe Mutombo NJN 11/09/2002 NJN @ CHI L 23 4 2 5 40.0 0 0 - 0 0 - 3 4 7 0 0 1 1 2 2
+p761
+aVJason Collins NJN 11/08/2002 NJN vs. LAC W 18 1 0 1 0.0 0 0 - 1 2 50.0 3 2 5 0 0 0 3 3 -4
+p762
+aVBrian Scalabrine NJN 11/08/2002 NJN vs. LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p763
+aVAaron Williams NJN 11/08/2002 NJN vs. LAC W 10 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 2 0 0 1 2 -6
+p764
+aVKerry Kittles NJN 11/08/2002 NJN vs. LAC W 35 15 7 14 50.0 1 2 50.0 0 0 - 0 2 2 3 2 0 0 0 10
+p765
+aVLucious Harris NJN 11/08/2002 NJN vs. LAC W 23 13 6 10 60.0 1 2 50.0 0 0 - 0 1 1 4 0 0 1 1 5
+p766
+aVKenyon Martin NJN 11/08/2002 NJN vs. LAC W 36 16 8 16 50.0 0 0 - 0 2 0.0 1 8 9 3 2 2 0 4 17
+p767
+aVRodney Rogers NJN 11/08/2002 NJN vs. LAC W 22 6 2 5 40.0 1 2 50.0 1 2 50.0 1 2 3 2 3 0 1 3 -4
+p768
+aVDikembe Mutombo NJN 11/08/2002 NJN vs. LAC W 29 6 3 5 60.0 0 0 - 0 0 - 1 3 4 2 0 0 2 4 12
+p769
+aVJason Kidd NJN 11/08/2002 NJN vs. LAC W 42 35 12 20 60.0 0 2 0.0 11 11 100.0 1 6 7 9 3 1 3 2 22
+p770
+aVRichard Jefferson NJN 11/08/2002 NJN vs. LAC W 21 11 4 6 66.7 0 0 - 3 6 50.0 0 2 2 2 1 1 1 4 21
+p771
+aVTamar Slay NJN 11/08/2002 NJN vs. LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p772
+aVDikembe Mutombo NJN 11/06/2002 NJN @ MIL L 27 16 5 11 45.5 0 0 - 6 7 85.7 3 5 8 0 0 2 1 0 2
+p773
+aVKenyon Martin NJN 11/06/2002 NJN @ MIL L 38 11 5 14 35.7 0 0 - 1 2 50.0 1 7 8 1 1 0 3 3 -3
+p774
+aVKerry Kittles NJN 11/06/2002 NJN @ MIL L 27 11 5 9 55.6 1 1 100.0 0 0 - 1 1 2 3 1 0 0 4 -7
+p775
+aVJason Collins NJN 11/06/2002 NJN @ MIL L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 0
+p776
+aVRichard Jefferson NJN 11/06/2002 NJN @ MIL L 26 1 0 7 0.0 0 0 - 1 2 50.0 2 2 4 4 1 1 2 0 -3
+p777
+aVRodney Rogers NJN 11/06/2002 NJN @ MIL L 27 9 3 6 50.0 0 3 0.0 3 4 75.0 3 3 6 2 0 1 1 4 -5
+p778
+aVAaron Williams NJN 11/06/2002 NJN @ MIL L 17 0 0 3 0.0 0 0 - 0 0 - 2 3 5 2 0 0 1 1 -13
+p779
+aVLucious Harris NJN 11/06/2002 NJN @ MIL L 26 15 5 10 50.0 1 1 100.0 4 4 100.0 1 2 3 4 1 0 1 1 3
+p780
+aVJason Kidd NJN 11/06/2002 NJN @ MIL L 39 24 7 18 38.9 3 7 42.9 7 7 100.0 1 2 3 5 1 0 2 3 -4
+p781
+aVTamar Slay NJN 11/06/2002 NJN @ MIL L 6 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 0 0
+p782
+aVLucious Harris NJN 11/04/2002 NJN vs. MIN W 19 16 6 14 42.9 2 4 50.0 2 2 100.0 1 2 3 3 0 0 1 1 9
+p783
+aVJason Kidd NJN 11/04/2002 NJN vs. MIN W 30 10 4 10 40.0 1 5 20.0 1 2 50.0 2 3 5 12 3 0 2 1 22
+p784
+aVJason Collins NJN 11/04/2002 NJN vs. MIN W 19 6 0 3 0.0 0 0 - 6 6 100.0 2 6 8 2 0 0 0 2 4
+p785
+aVTamar Slay NJN 11/04/2002 NJN vs. MIN W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 2 0 1 2 0
+p786
+aVBrian Scalabrine NJN 11/04/2002 NJN vs. MIN W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 0
+p787
+aVRichard Jefferson NJN 11/04/2002 NJN vs. MIN W 31 22 8 13 61.5 0 0 - 6 8 75.0 1 3 4 3 3 0 2 0 16
+p788
+aVAnthony Johnson NJN 11/04/2002 NJN vs. MIN W 12 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 2
+p789
+aVKerry Kittles NJN 11/04/2002 NJN vs. MIN W 24 14 6 13 46.2 2 5 40.0 0 0 - 2 2 4 2 2 0 0 1 15
+p790
+aVDikembe Mutombo NJN 11/04/2002 NJN vs. MIN W 23 4 0 2 0.0 0 0 - 4 4 100.0 1 4 5 3 0 2 0 1 10
+p791
+aVAaron Williams NJN 11/04/2002 NJN vs. MIN W 17 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 1 0 0 3 12
+p792
+aVRodney Rogers NJN 11/04/2002 NJN vs. MIN W 20 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 3 1 0 4 6 13
+p793
+aVKenyon Martin NJN 11/04/2002 NJN vs. MIN W 27 13 5 9 55.6 0 0 - 3 4 75.0 0 4 4 0 2 2 2 2 17
+p794
+aVDikembe Mutombo NJN 11/02/2002 NJN @ WAS W 25 8 2 7 28.6 0 0 - 4 6 66.7 2 5 7 0 0 2 0 2 16
+p795
+aVAnthony Johnson NJN 11/02/2002 NJN @ WAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p796
+aVAaron Williams NJN 11/02/2002 NJN @ WAS W 18 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 1 0 2 2 -2
+p797
+aVJason Kidd NJN 11/02/2002 NJN @ WAS W 37 18 5 13 38.5 0 2 0.0 8 8 100.0 2 8 10 9 2 0 7 1 9
+p798
+aVKenyon Martin NJN 11/02/2002 NJN @ WAS W 33 12 6 11 54.5 0 0 - 0 0 - 0 8 8 2 3 2 3 5 5
+p799
+aVRodney Rogers NJN 11/02/2002 NJN @ WAS W 20 2 1 8 12.5 0 1 0.0 0 0 - 1 4 5 1 0 0 2 1 -10
+p800
+aVKerry Kittles NJN 11/02/2002 NJN @ WAS W 22 15 5 11 45.5 2 4 50.0 3 3 100.0 0 2 2 1 2 2 0 1 4
+p801
+aVRichard Jefferson NJN 11/02/2002 NJN @ WAS W 32 13 4 7 57.1 0 0 - 5 5 100.0 3 4 7 3 0 1 1 3 22
+p802
+aVLucious Harris NJN 11/02/2002 NJN @ WAS W 26 10 3 9 33.3 0 0 - 4 4 100.0 1 1 2 2 1 0 2 2 4
+p803
+aVJason Collins NJN 11/02/2002 NJN @ WAS W 16 3 0 2 0.0 0 0 - 3 4 75.0 0 4 4 0 0 0 2 3 -7
+p804
+aVTamar Slay NJN 11/02/2002 NJN @ WAS W 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p805
+aVDikembe Mutombo NJN 11/01/2002 NJN vs. IND W 25 14 5 8 62.5 0 0 - 4 4 100.0 1 6 7 0 0 4 4 3 18
+p806
+aVKerry Kittles NJN 11/01/2002 NJN vs. IND W 31 7 2 9 22.2 1 2 50.0 2 2 100.0 4 1 5 3 2 0 3 3 9
+p807
+aVRichard Jefferson NJN 11/01/2002 NJN vs. IND W 31 19 7 9 77.8 0 1 0.0 5 7 71.4 0 3 3 2 0 1 3 3 2
+p808
+aVTamar Slay NJN 11/01/2002 NJN vs. IND W 11 5 2 4 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 2 1
+p809
+aVAaron Williams NJN 11/01/2002 NJN vs. IND W 19 7 2 4 50.0 0 0 - 3 4 75.0 1 0 1 2 0 0 1 3 -1
+p810
+aVKenyon Martin NJN 11/01/2002 NJN vs. IND W 31 11 5 11 45.5 0 0 - 1 2 50.0 1 6 7 2 0 1 1 3 18
+p811
+aVJason Collins NJN 11/01/2002 NJN vs. IND W 16 9 3 5 60.0 0 0 - 3 4 75.0 1 3 4 0 0 1 1 4 -1
+p812
+aVRodney Rogers NJN 11/01/2002 NJN vs. IND W 20 11 4 10 40.0 1 3 33.3 2 2 100.0 3 5 8 1 1 1 1 3 2
+p813
+aVAnthony Johnson NJN 11/01/2002 NJN vs. IND W 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 1
+p814
+aVBrian Scalabrine NJN 11/01/2002 NJN vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p815
+aVLucious Harris NJN 11/01/2002 NJN vs. IND W 24 10 2 6 33.3 0 0 - 6 7 85.7 0 3 3 2 0 0 0 2 3
+p816
+aVJason Kidd NJN 11/01/2002 NJN vs. IND W 30 9 3 13 23.1 1 3 33.3 2 3 66.7 1 7 8 8 0 0 2 1 8
+p817
+aVKerry Kittles NJN 10/30/2002 NJN vs. ATL W 30 13 4 9 44.4 1 3 33.3 4 6 66.7 3 1 4 3 3 1 2 1 -2
+p818
+aVLucious Harris NJN 10/30/2002 NJN vs. ATL W 20 13 5 7 71.4 0 0 - 3 4 75.0 1 3 4 0 1 0 2 1 7
+p819
+aVRichard Jefferson NJN 10/30/2002 NJN vs. ATL W 31 15 6 13 46.2 1 1 100.0 2 2 100.0 0 2 2 2 0 1 1 2 11
+p820
+aVTamar Slay NJN 10/30/2002 NJN vs. ATL W 9 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 0 0 1 1 0 7
+p821
+aVAaron Williams NJN 10/30/2002 NJN vs. ATL W 19 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 4 0 3 16
+p822
+aVRodney Rogers NJN 10/30/2002 NJN vs. ATL W 21 7 2 6 33.3 1 1 100.0 2 2 100.0 1 1 2 3 0 1 1 4 0
+p823
+aVDikembe Mutombo NJN 10/30/2002 NJN vs. ATL W 26 13 4 10 40.0 0 0 - 5 6 83.3 4 2 6 0 0 3 1 2 6
+p824
+aVJason Collins NJN 10/30/2002 NJN vs. ATL W 14 5 1 4 25.0 0 0 - 3 4 75.0 4 1 5 0 0 0 1 0 -2
+p825
+aVKenyon Martin NJN 10/30/2002 NJN vs. ATL W 34 15 6 14 42.9 0 0 - 3 4 75.0 2 9 11 1 1 2 3 3 2
+p826
+aVJason Kidd NJN 10/30/2002 NJN vs. ATL W 36 16 8 13 61.5 0 2 0.0 0 0 - 1 7 8 12 4 1 6 3 10
+p827
+a.

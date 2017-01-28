@@ -1,0 +1,62 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCharles Oakley TOR 04/30/2000 NYK @ TOR L 33 10 5 10 50.0 0 2 0.0 0 1 0.0 2 12 14 3 4 0 4 4 0
+p2
+aVMuggsy Bogues TOR 04/30/2000 TOR vs. NYK L 26 4 2 9 22.2 0 5 0.0 0 0 - 1 1 2 2 0 0 1 2 4
+p3
+aVKevin Willis TOR 04/30/2000 TOR vs. NYK L 22 10 2 9 22.2 0 0 - 6 8 75.0 2 3 5 0 1 0 0 3 0
+p4
+aVTracy McGrady TOR 04/30/2000 TOR vs. NYK L 33 12 5 14 35.7 0 3 0.0 2 2 100.0 1 3 4 5 1 0 3 2 -5
+p5
+aVDell Curry TOR 04/30/2000 TOR vs. NYK L 15 4 1 2 50.0 1 2 50.0 1 2 50.0 1 0 1 0 2 0 0 2 -6
+p6
+aVAlvin Williams TOR 04/30/2000 TOR vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p7
+aVVince Carter TOR 04/30/2000 TOR vs. NYK L 38 15 5 17 29.4 0 3 0.0 5 5 100.0 4 3 7 8 2 2 1 3 -4
+p8
+aVDoug Christie TOR 04/30/2000 TOR vs. NYK L 19 7 2 7 28.6 2 4 50.0 1 2 50.0 0 1 1 2 1 1 1 4 -3
+p9
+aVDee Brown TOR 04/30/2000 TOR vs. NYK L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 3 -7
+p10
+aVAntonio Davis TOR 04/30/2000 TOR vs. NYK L 40 18 7 12 58.3 0 0 - 4 4 100.0 6 6 12 1 0 4 1 3 -12
+p11
+aVDell Curry TOR 04/26/2000 TOR @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p12
+aVDoug Christie TOR 04/26/2000 TOR @ NYK L 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 1 0 1 5 1
+p13
+aVCharles Oakley TOR 04/26/2000 TOR @ NYK L 35 9 4 11 36.4 1 3 33.3 0 0 - 0 2 2 2 0 0 1 5 0
+p14
+aVKevin Willis TOR 04/26/2000 TOR @ NYK L 32 16 4 10 40.0 0 0 - 8 10 80.0 2 8 10 0 1 0 2 5 -6
+p15
+aVJohn Thomas TOR 04/26/2000 TOR @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p16
+aVDee Brown TOR 04/26/2000 TOR @ NYK L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p17
+aVVince Carter TOR 04/26/2000 TOR @ NYK L 43 27 7 13 53.8 0 3 0.0 13 16 81.3 3 4 7 5 0 2 5 5 -3
+p18
+aVTracy McGrady TOR 04/26/2000 TOR @ NYK L 38 13 3 9 33.3 0 2 0.0 7 8 87.5 1 6 7 2 0 2 1 5 0
+p19
+aVMuggsy Bogues TOR 04/26/2000 TOR @ NYK L 38 6 2 7 28.6 1 1 100.0 1 3 33.3 1 2 3 2 1 0 1 1 -6
+p20
+aVAntonio Davis TOR 04/26/2000 TOR @ NYK L 27 12 4 6 66.7 0 0 - 4 4 100.0 0 4 4 0 1 0 1 5 6
+p21
+aVDell Curry TOR 04/23/2000 TOR @ NYK L 10 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 2
+p22
+aVMuggsy Bogues TOR 04/23/2000 TOR @ NYK L 21 6 2 5 40.0 2 3 66.7 0 0 - 1 0 1 1 3 0 2 1 7
+p23
+aVAntonio Davis TOR 04/23/2000 TOR @ NYK L 36 9 3 6 50.0 0 0 - 3 6 50.0 1 8 9 2 0 0 2 1 -10
+p24
+aVVince Carter TOR 04/23/2000 TOR @ NYK L 36 16 3 20 15.0 1 4 25.0 9 10 90.0 2 2 4 6 1 0 2 4 -10
+p25
+aVTracy McGrady TOR 04/23/2000 TOR @ NYK L 38 25 9 21 42.9 2 2 100.0 5 6 83.3 8 2 10 2 2 1 6 3 -10
+p26
+aVCharles Oakley TOR 04/23/2000 TOR @ NYK L 41 11 5 8 62.5 1 2 50.0 0 0 - 0 7 7 6 2 1 0 5 0
+p27
+aVKevin Willis TOR 04/23/2000 TOR @ NYK L 22 13 6 14 42.9 0 0 - 1 2 50.0 2 9 11 1 0 0 0 3 9
+p28
+aVDoug Christie TOR 04/23/2000 TOR @ NYK L 25 5 1 5 20.0 1 4 25.0 2 4 50.0 1 1 2 2 2 0 2 1 -12
+p29
+aVDee Brown TOR 04/23/2000 TOR @ NYK L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 2 1 0 0 1 2
+p30
+a.

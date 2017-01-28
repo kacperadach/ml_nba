@@ -1,0 +1,1644 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDamir Markota MIL 04/18/2007 MIL @ CLE L 27 3 1 5 20.0 1 3 33.3 0 0 - 0 4 4 1 0 0 0 4 4
+p2
+aVLynn Greer MIL 04/18/2007 MIL @ CLE L 16 5 1 5 20.0 0 3 0.0 3 4 75.0 0 1 1 2 0 0 0 0 7
+p3
+aVCharlie Bell MIL 04/18/2007 MIL @ CLE L 29 12 4 12 33.3 2 4 50.0 2 2 100.0 1 3 4 3 0 0 3 2 -23
+p4
+aVJared Reiner MIL 04/18/2007 MIL @ CLE L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -8
+p5
+aVDavid Noel MIL 04/18/2007 MIL @ CLE L 30 8 2 7 28.6 2 4 50.0 2 2 100.0 0 4 4 3 1 0 2 1 9
+p6
+aVErsan Ilyasova MIL 04/18/2007 MIL @ CLE L 20 10 4 10 40.0 1 4 25.0 1 1 100.0 0 4 4 0 2 0 2 6 -1
+p7
+aVEarl Boykins MIL 04/18/2007 MIL @ CLE L 48 28 11 15 73.3 5 7 71.4 1 1 100.0 0 2 2 7 1 0 3 2 -13
+p8
+aVRuben Patterson MIL 04/18/2007 MIL @ CLE L 38 19 8 13 61.5 0 0 - 3 7 42.9 1 5 6 1 1 0 2 3 -16
+p9
+aVMo Williams MIL 04/18/2007 MIL @ CLE L 28 11 4 11 36.4 1 4 25.0 2 2 100.0 2 2 4 2 2 0 0 2 -24
+p10
+aVCharlie Bell MIL 04/16/2007 MIL vs. ATL W 35 14 5 10 50.0 4 6 66.7 0 0 - 0 4 4 4 0 0 0 2 19
+p11
+aVEarl Boykins MIL 04/16/2007 MIL vs. ATL W 33 9 4 8 50.0 1 3 33.3 0 0 - 1 1 2 8 0 0 0 1 14
+p12
+aVJared Reiner MIL 04/16/2007 MIL vs. ATL W 19 4 2 6 33.3 0 0 - 0 0 - 1 6 7 1 0 0 1 5 18
+p13
+aVErsan Ilyasova MIL 04/16/2007 MIL vs. ATL W 15 4 1 4 25.0 0 1 0.0 2 3 66.7 1 3 4 2 0 0 4 2 -10
+p14
+aVDamir Markota MIL 04/16/2007 MIL vs. ATL W 6 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -13
+p15
+aVDan Gadzuric MIL 04/16/2007 MIL vs. ATL W 28 8 4 9 44.4 0 0 - 0 0 - 3 5 8 2 0 3 1 2 15
+p16
+aVRuben Patterson MIL 04/16/2007 MIL vs. ATL W 31 23 8 13 61.5 0 0 - 7 13 53.8 2 2 4 4 2 1 2 4 7
+p17
+aVLynn Greer MIL 04/16/2007 MIL vs. ATL W 17 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 1 1 0 2 1 -4
+p18
+aVDavid Noel MIL 04/16/2007 MIL vs. ATL W 16 6 2 7 28.6 2 3 66.7 0 0 - 4 2 6 0 1 0 1 1 -10
+p19
+aVMo Williams MIL 04/16/2007 MIL vs. ATL W 40 26 11 20 55.0 4 6 66.7 0 0 - 1 5 6 7 1 0 2 3 -6
+p20
+aVEarl Boykins MIL 04/14/2007 MIL vs. CHA L 29 13 4 7 57.1 1 2 50.0 4 4 100.0 0 1 1 4 1 0 3 0 -11
+p21
+aVRuben Patterson MIL 04/14/2007 MIL vs. CHA L 25 10 3 8 37.5 0 0 - 4 5 80.0 2 5 7 5 2 0 6 3 -4
+p22
+aVJared Reiner MIL 04/14/2007 MIL vs. CHA L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p23
+aVLynn Greer MIL 04/14/2007 MIL vs. CHA L 28 14 6 8 75.0 0 1 0.0 2 2 100.0 0 2 2 3 1 0 3 3 -16
+p24
+aVCharlie Bell MIL 04/14/2007 MIL vs. CHA L 37 10 4 11 36.4 0 3 0.0 2 2 100.0 0 3 3 4 2 0 3 2 -11
+p25
+aVErsan Ilyasova MIL 04/14/2007 MIL vs. CHA L 19 9 3 5 60.0 1 2 50.0 2 3 66.7 0 1 1 1 1 2 0 1 -10
+p26
+aVMo Williams MIL 04/14/2007 MIL vs. CHA L 37 16 7 16 43.8 2 4 50.0 0 0 - 1 1 2 3 1 0 2 1 -12
+p27
+aVDan Gadzuric MIL 04/14/2007 MIL vs. CHA L 36 14 5 12 41.7 0 0 - 4 9 44.4 5 9 14 1 3 0 4 3 -21
+p28
+aVDavid Noel MIL 04/14/2007 MIL vs. CHA L 18 4 0 3 0.0 0 1 0.0 4 4 100.0 1 1 2 0 2 0 1 0 -13
+p29
+aVDamir Markota MIL 04/14/2007 MIL vs. CHA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p30
+aVEarl Boykins MIL 04/13/2007 MIL @ BOS W 46 15 5 11 45.5 1 4 25.0 4 4 100.0 0 2 2 5 1 0 2 2 2
+p31
+aVLynn Greer MIL 04/13/2007 MIL @ BOS W 24 10 4 7 57.1 2 4 50.0 0 0 - 0 3 3 3 2 0 1 1 -2
+p32
+aVRuben Patterson MIL 04/13/2007 MIL @ BOS W 34 21 5 10 50.0 0 0 - 11 12 91.7 1 4 5 5 2 2 3 1 3
+p33
+aVDavid Noel MIL 04/13/2007 MIL @ BOS W 23 8 2 6 33.3 1 2 50.0 3 4 75.0 0 4 4 1 2 0 1 2 -6
+p34
+aVJared Reiner MIL 04/13/2007 MIL @ BOS W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 1 0 1 -10
+p35
+aVCharlie Bell MIL 04/13/2007 MIL @ BOS W 43 24 8 16 50.0 2 6 33.3 6 8 75.0 1 4 5 5 3 0 4 3 13
+p36
+aVDan Gadzuric MIL 04/13/2007 MIL @ BOS W 40 21 10 12 83.3 0 0 - 1 3 33.3 2 9 11 1 0 3 2 5 9
+p37
+aVErsan Ilyasova MIL 04/13/2007 MIL @ BOS W 21 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 2 1 0 1 4 1
+p38
+aVEarl Boykins MIL 04/11/2007 MIL vs. IND L 31 2 1 7 14.3 0 2 0.0 0 1 0.0 2 3 5 6 1 0 2 2 -6
+p39
+aVMo Williams MIL 04/11/2007 MIL vs. IND L 42 23 10 22 45.5 3 8 37.5 0 0 - 1 5 6 7 1 0 2 2 -7
+p40
+aVCharlie Bell MIL 04/11/2007 MIL vs. IND L 37 14 5 14 35.7 0 2 0.0 4 4 100.0 1 3 4 3 0 0 0 2 -4
+p41
+aVLynn Greer MIL 04/11/2007 MIL vs. IND L 20 9 4 7 57.1 1 1 100.0 0 1 0.0 0 1 1 2 2 0 0 2 4
+p42
+aVDan Gadzuric MIL 04/11/2007 MIL vs. IND L 35 18 9 17 52.9 0 0 - 0 0 - 8 5 13 2 0 3 2 5 3
+p43
+aVDavid Noel MIL 04/11/2007 MIL vs. IND L 36 18 7 10 70.0 3 3 100.0 1 1 100.0 1 4 5 3 1 1 1 3 -1
+p44
+aVErsan Ilyasova MIL 04/11/2007 MIL vs. IND L 8 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 3 1
+p45
+aVRuben Patterson MIL 04/11/2007 MIL vs. IND L 17 10 4 8 50.0 0 0 - 2 3 66.7 0 1 1 1 0 0 1 3 -11
+p46
+aVJared Reiner MIL 04/11/2007 MIL vs. IND L 13 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 1 1 1 -9
+p47
+aVJared Reiner MIL 04/09/2007 MIL vs. ORL L 34 8 3 7 42.9 0 0 - 2 4 50.0 2 8 10 1 3 0 1 3 -15
+p48
+aVDamir Markota MIL 04/09/2007 MIL vs. ORL L 13 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 1 1 0 1 3 -4
+p49
+aVCharlie Bell MIL 04/09/2007 MIL vs. ORL L 30 13 5 14 35.7 1 4 25.0 2 4 50.0 0 2 2 4 0 0 0 3 -17
+p50
+aVDan Gadzuric MIL 04/09/2007 MIL vs. ORL L 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 -6
+p51
+aVDavid Noel MIL 04/09/2007 MIL vs. ORL L 24 4 1 4 25.0 0 0 - 2 4 50.0 2 2 4 2 0 0 2 1 -8
+p52
+aVLynn Greer MIL 04/09/2007 MIL vs. ORL L 23 12 3 5 60.0 1 1 100.0 5 5 100.0 0 1 1 3 3 0 1 0 -6
+p53
+aVEarl Boykins MIL 04/09/2007 MIL vs. ORL L 29 12 5 11 45.5 0 4 0.0 2 3 66.7 1 1 2 3 1 0 2 1 -18
+p54
+aVMo Williams MIL 04/09/2007 MIL vs. ORL L 30 13 6 11 54.5 1 3 33.3 0 0 - 0 2 2 3 1 0 2 2 -16
+p55
+aVRuben Patterson MIL 04/09/2007 MIL vs. ORL L 27 11 4 7 57.1 0 1 0.0 3 4 75.0 1 4 5 1 0 0 3 2 -21
+p56
+aVErsan Ilyasova MIL 04/09/2007 MIL vs. ORL L 23 18 6 14 42.9 1 5 20.0 5 5 100.0 1 4 5 0 0 0 1 3 -4
+p57
+aVEarl Boykins MIL 04/07/2007 MIL vs. NYK L 24 2 1 8 12.5 0 2 0.0 0 1 0.0 0 1 1 4 1 0 3 0 -6
+p58
+aVLynn Greer MIL 04/07/2007 MIL vs. NYK L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p59
+aVErsan Ilyasova MIL 04/07/2007 MIL vs. NYK L 24 14 6 14 42.9 2 5 40.0 0 0 - 4 1 5 0 0 1 0 2 0
+p60
+aVRuben Patterson MIL 04/07/2007 MIL vs. NYK L 42 27 12 24 50.0 1 2 50.0 2 4 50.0 5 2 7 4 7 1 3 3 -6
+p61
+aVMo Williams MIL 04/07/2007 MIL vs. NYK L 38 15 7 11 63.6 1 3 33.3 0 0 - 1 7 8 10 1 0 4 4 0
+p62
+aVDavid Noel MIL 04/07/2007 MIL vs. NYK L 6 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 0 -2
+p63
+aVDan Gadzuric MIL 04/07/2007 MIL vs. NYK L 31 9 3 6 50.0 0 0 - 3 6 50.0 4 7 11 2 3 1 1 6 3
+p64
+aVCharlie Bell MIL 04/07/2007 MIL vs. NYK L 44 14 6 17 35.3 1 6 16.7 1 1 100.0 2 3 5 4 1 0 1 4 0
+p65
+aVMichael Redd MIL 04/07/2007 MIL vs. NYK L 40 25 9 24 37.5 3 8 37.5 4 7 57.1 1 1 2 3 3 0 1 0 -3
+p66
+aVJared Reiner MIL 04/07/2007 MIL vs. NYK L 10 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 1 0 3 -7
+p67
+aVCharlie Bell MIL 04/06/2007 MIL @ ATL L 41 28 10 16 62.5 5 7 71.4 3 3 100.0 1 0 1 2 2 0 2 2 -5
+p68
+aVJared Reiner MIL 04/06/2007 MIL @ ATL L 21 2 1 2 50.0 0 0 - 0 2 0.0 0 4 4 0 0 0 3 4 -14
+p69
+aVErsan Ilyasova MIL 04/06/2007 MIL @ ATL L 16 7 2 7 28.6 0 2 0.0 3 3 100.0 2 3 5 0 0 0 2 1 -7
+p70
+aVEarl Boykins MIL 04/06/2007 MIL @ ATL L 43 36 10 16 62.5 4 7 57.1 12 13 92.3 0 2 2 9 3 0 1 1 -2
+p71
+aVLynn Greer MIL 04/06/2007 MIL @ ATL L 17 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 2 0 0 1 1 -16
+p72
+aVDamir Markota MIL 04/06/2007 MIL @ ATL L 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -9
+p73
+aVDan Gadzuric MIL 04/06/2007 MIL @ ATL L 27 4 1 2 50.0 0 0 - 2 6 33.3 2 4 6 1 1 3 1 5 1
+p74
+aVRuben Patterson MIL 04/06/2007 MIL @ ATL L 40 19 8 19 42.1 0 0 - 3 8 37.5 5 6 11 3 0 0 1 5 -4
+p75
+aVDavid Noel MIL 04/06/2007 MIL @ ATL L 30 6 1 6 16.7 0 1 0.0 4 4 100.0 0 3 3 3 0 0 1 3 -9
+p76
+aVDavid Noel MIL 04/04/2007 MIL vs. BOS W 20 4 2 3 66.7 0 1 0.0 0 0 - 1 4 5 1 0 0 1 0 -5
+p77
+aVJared Reiner MIL 04/04/2007 MIL vs. BOS W 16 2 1 3 33.3 0 0 - 0 2 0.0 2 5 7 0 0 3 0 2 1
+p78
+aVCharlie Bell MIL 04/04/2007 MIL vs. BOS W 42 25 10 19 52.6 3 4 75.0 2 2 100.0 1 3 4 2 3 0 5 4 10
+p79
+aVEarl Boykins MIL 04/04/2007 MIL vs. BOS W 45 32 13 19 68.4 4 6 66.7 2 2 100.0 0 0 0 5 0 0 0 1 12
+p80
+aVRuben Patterson MIL 04/04/2007 MIL vs. BOS W 41 21 7 16 43.8 0 1 0.0 7 11 63.6 3 9 12 3 2 1 2 4 16
+p81
+aVDan Gadzuric MIL 04/04/2007 MIL vs. BOS W 33 6 1 6 16.7 0 0 - 4 6 66.7 4 11 15 2 2 1 1 5 8
+p82
+aVDamir Markota MIL 04/04/2007 MIL vs. BOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p83
+aVLynn Greer MIL 04/04/2007 MIL vs. BOS W 29 6 3 9 33.3 0 4 0.0 0 0 - 0 2 2 4 1 0 1 1 11
+p84
+aVErsan Ilyasova MIL 04/04/2007 MIL vs. BOS W 8 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 0 1 2 4 -7
+p85
+aVRuben Patterson MIL 04/03/2007 MIL vs. NOK L 23 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 2 1 0 1 2 -20
+p86
+aVLynn Greer MIL 04/03/2007 MIL vs. NOK L 32 19 8 12 66.7 3 5 60.0 0 0 - 0 1 1 4 1 0 2 2 3
+p87
+aVBrian Skinner MIL 04/03/2007 MIL vs. NOK L 24 6 3 4 75.0 0 0 - 0 0 - 1 4 5 1 0 0 2 3 -2
+p88
+aVErsan Ilyasova MIL 04/03/2007 MIL vs. NOK L 19 9 4 8 50.0 1 3 33.3 0 0 - 2 1 3 2 0 0 0 3 0
+p89
+aVMichael Redd MIL 04/03/2007 MIL vs. NOK L 30 27 9 17 52.9 4 9 44.4 5 8 62.5 0 5 5 2 1 0 1 1 -21
+p90
+aVDan Gadzuric MIL 04/03/2007 MIL vs. NOK L 20 5 2 3 66.7 0 0 - 1 2 50.0 0 4 4 0 0 1 1 2 -22
+p91
+aVEarl Boykins MIL 04/03/2007 MIL vs. NOK L 20 8 3 8 37.5 1 4 25.0 1 1 100.0 0 0 0 3 1 0 2 1 -8
+p92
+aVDavid Noel MIL 04/03/2007 MIL vs. NOK L 16 8 4 6 66.7 0 1 0.0 0 0 - 0 3 3 2 0 0 0 1 0
+p93
+aVMo Williams MIL 04/03/2007 MIL vs. NOK L 23 4 2 9 22.2 0 2 0.0 0 0 - 0 1 1 4 2 0 2 4 -19
+p94
+aVDamir Markota MIL 04/03/2007 MIL vs. NOK L 6 5 2 5 40.0 0 1 0.0 1 1 100.0 1 0 1 0 1 1 0 1 2
+p95
+aVCharlie Bell MIL 04/03/2007 MIL vs. NOK L 24 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 4 1 0 2 2 -9
+p96
+aVJared Reiner MIL 04/03/2007 MIL vs. NOK L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p97
+aVMo Williams MIL 04/01/2007 MIL vs. WAS L 39 25 11 18 61.1 3 5 60.0 0 0 - 1 2 3 4 2 0 2 1 -11
+p98
+aVBrian Skinner MIL 04/01/2007 MIL vs. WAS L 29 10 3 7 42.9 0 0 - 4 4 100.0 4 4 8 0 0 0 4 5 -6
+p99
+aVErsan Ilyasova MIL 04/01/2007 MIL vs. WAS L 27 10 4 11 36.4 2 3 66.7 0 0 - 2 4 6 4 1 1 1 5 1
+p100
+aVDamir Markota MIL 04/01/2007 MIL vs. WAS L 3 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 1
+p101
+aVDan Gadzuric MIL 04/01/2007 MIL vs. WAS L 21 6 3 4 75.0 0 0 - 0 0 - 3 1 4 3 0 0 1 5 -9
+p102
+aVRuben Patterson MIL 04/01/2007 MIL vs. WAS L 38 19 7 11 63.6 0 0 - 5 8 62.5 0 10 10 6 2 0 4 1 -11
+p103
+aVDavid Noel MIL 04/01/2007 MIL vs. WAS L 27 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 2 0 0 1 4 -18
+p104
+aVEarl Boykins MIL 04/01/2007 MIL vs. WAS L 20 11 4 7 57.1 1 2 50.0 2 2 100.0 0 0 0 3 0 0 3 1 -24
+p105
+aVLynn Greer MIL 04/01/2007 MIL vs. WAS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 1
+p106
+aVCharlie Bell MIL 04/01/2007 MIL vs. WAS L 34 18 7 18 38.9 2 9 22.2 2 2 100.0 1 1 2 4 1 0 1 5 6
+p107
+aVMo Williams MIL 03/30/2007 MIL @ CHA L 27 9 4 10 40.0 1 1 100.0 0 0 - 1 5 6 3 0 0 7 3 -19
+p108
+aVLynn Greer MIL 03/30/2007 MIL @ CHA L 12 6 2 6 33.3 0 3 0.0 2 2 100.0 0 0 0 1 0 0 1 0 -1
+p109
+aVJared Reiner MIL 03/30/2007 MIL @ CHA L 5 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -3
+p110
+aVErsan Ilyasova MIL 03/30/2007 MIL @ CHA L 23 6 2 10 20.0 2 5 40.0 0 0 - 0 4 4 2 0 2 0 3 -3
+p111
+aVRuben Patterson MIL 03/30/2007 MIL @ CHA L 25 14 6 10 60.0 0 1 0.0 2 3 66.7 1 1 2 1 1 1 3 4 -13
+p112
+aVDavid Noel MIL 03/30/2007 MIL @ CHA L 23 5 2 4 50.0 1 1 100.0 0 0 - 1 4 5 0 0 2 1 3 1
+p113
+aVCharlie Bell MIL 03/30/2007 MIL @ CHA L 28 7 3 7 42.9 1 4 25.0 0 0 - 1 1 2 3 1 0 0 2 -16
+p114
+aVDamir Markota MIL 03/30/2007 MIL @ CHA L 18 5 1 4 25.0 0 1 0.0 3 4 75.0 3 4 7 1 0 0 2 2 -7
+p115
+aVMichael Redd MIL 03/30/2007 MIL @ CHA L 25 13 5 12 41.7 3 5 60.0 0 0 - 2 2 4 2 0 0 4 1 -17
+p116
+aVEarl Boykins MIL 03/30/2007 MIL @ CHA L 29 12 4 12 33.3 1 4 25.0 3 3 100.0 2 2 4 5 2 0 2 0 4
+p117
+aVBrian Skinner MIL 03/30/2007 MIL @ CHA L 25 2 1 3 33.3 0 0 - 0 0 - 2 7 9 0 0 0 4 4 -6
+p118
+aVJared Reiner MIL 03/28/2007 MIL @ DAL L 7 2 1 2 50.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 0 -2
+p119
+aVDavid Noel MIL 03/28/2007 MIL @ DAL L 16 2 0 4 0.0 0 2 0.0 2 2 100.0 2 2 4 3 1 1 1 3 -5
+p120
+aVMo Williams MIL 03/28/2007 MIL @ DAL L 37 17 7 21 33.3 0 3 0.0 3 4 75.0 2 4 6 8 3 0 2 3 -10
+p121
+aVBrian Skinner MIL 03/28/2007 MIL @ DAL L 41 4 2 4 50.0 0 0 - 0 0 - 1 11 12 2 1 2 1 1 0
+p122
+aVRuben Patterson MIL 03/28/2007 MIL @ DAL L 28 16 6 9 66.7 0 0 - 4 6 66.7 3 4 7 3 1 1 4 2 0
+p123
+aVMichael Redd MIL 03/28/2007 MIL @ DAL L 36 34 14 19 73.7 4 5 80.0 2 2 100.0 0 5 5 0 1 0 1 1 6
+p124
+aVErsan Ilyasova MIL 03/28/2007 MIL @ DAL L 20 15 5 6 83.3 1 1 100.0 4 4 100.0 0 3 3 1 0 0 3 5 -2
+p125
+aVCharlie Bell MIL 03/28/2007 MIL @ DAL L 40 11 4 9 44.4 0 0 - 3 5 60.0 0 2 2 7 1 1 2 3 6
+p126
+aVEarl Boykins MIL 03/28/2007 MIL @ DAL L 15 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 1 1 0 0 2 -3
+p127
+aVCharlie Bell MIL 03/26/2007 MIL @ HOU L 40 20 6 18 33.3 5 11 45.5 3 4 75.0 0 5 5 1 1 1 1 3 -20
+p128
+aVRuben Patterson MIL 03/26/2007 MIL @ HOU L 22 16 7 11 63.6 0 0 - 2 3 66.7 3 1 4 0 3 0 2 3 2
+p129
+aVErsan Ilyasova MIL 03/26/2007 MIL @ HOU L 26 6 2 7 28.6 1 3 33.3 1 2 50.0 0 7 7 0 3 1 0 3 -21
+p130
+aVJared Reiner MIL 03/26/2007 MIL @ HOU L 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 5 -14
+p131
+aVMichael Redd MIL 03/26/2007 MIL @ HOU L 39 26 9 19 47.4 0 1 0.0 8 11 72.7 2 3 5 3 0 1 5 0 -7
+p132
+aVEarl Boykins MIL 03/26/2007 MIL @ HOU L 45 13 5 15 33.3 0 4 0.0 3 4 75.0 1 2 3 7 1 0 0 0 -19
+p133
+aVDavid Noel MIL 03/26/2007 MIL @ HOU L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -1
+p134
+aVLynn Greer MIL 03/26/2007 MIL @ HOU L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -10
+p135
+aVBrian Skinner MIL 03/26/2007 MIL @ HOU L 38 4 2 4 50.0 0 0 - 0 1 0.0 2 9 11 2 0 2 3 4 -5
+p136
+aVRuben Patterson MIL 03/25/2007 MIL vs. DET L 16 7 3 9 33.3 0 0 - 1 2 50.0 2 0 2 0 0 0 2 2 -21
+p137
+aVLynn Greer MIL 03/25/2007 MIL vs. DET L 7 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 3 0 0 0 2 -2
+p138
+aVJared Reiner MIL 03/25/2007 MIL vs. DET L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -9
+p139
+aVCharlie Bell MIL 03/25/2007 MIL vs. DET L 31 17 6 11 54.5 1 3 33.3 4 4 100.0 1 1 2 4 0 0 1 3 -9
+p140
+aVEarl Boykins MIL 03/25/2007 MIL vs. DET L 19 9 4 9 44.4 1 4 25.0 0 0 - 3 0 3 4 0 0 2 2 -21
+p141
+aVDavid Noel MIL 03/25/2007 MIL vs. DET L 20 9 3 8 37.5 1 3 33.3 2 2 100.0 4 0 4 0 2 1 2 1 -21
+p142
+aVErsan Ilyasova MIL 03/25/2007 MIL vs. DET L 34 21 7 16 43.8 5 7 71.4 2 2 100.0 0 3 3 3 0 0 0 3 0
+p143
+aVDamir Markota MIL 03/25/2007 MIL vs. DET L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p144
+aVMichael Redd MIL 03/25/2007 MIL vs. DET L 38 14 5 12 41.7 1 3 33.3 3 3 100.0 0 3 3 3 2 0 2 1 -20
+p145
+aVMo Williams MIL 03/25/2007 MIL vs. DET L 29 8 4 8 50.0 0 1 0.0 0 0 - 0 4 4 6 2 0 2 1 -5
+p146
+aVBrian Skinner MIL 03/25/2007 MIL vs. DET L 34 4 2 5 40.0 0 0 - 0 0 - 3 5 8 0 0 1 4 3 -20
+p147
+aVDavid Noel MIL 03/21/2007 MIL vs. LAC L 13 2 1 7 14.3 0 0 - 0 0 - 2 1 3 0 0 0 2 1 2
+p148
+aVErsan Ilyasova MIL 03/21/2007 MIL vs. LAC L 11 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 2 -7
+p149
+aVCharlie Bell MIL 03/21/2007 MIL vs. LAC L 28 13 5 7 71.4 2 4 50.0 1 2 50.0 0 3 3 3 0 0 0 4 4
+p150
+aVMo Williams MIL 03/21/2007 MIL vs. LAC L 38 20 9 16 56.3 0 0 - 2 2 100.0 0 3 3 5 3 0 6 3 -6
+p151
+aVMichael Redd MIL 03/21/2007 MIL vs. LAC L 40 27 7 15 46.7 2 4 50.0 11 11 100.0 1 4 5 4 1 0 4 1 0
+p152
+aVBrian Skinner MIL 03/21/2007 MIL vs. LAC L 44 11 4 7 57.1 0 0 - 3 4 75.0 2 9 11 1 1 3 1 5 -1
+p153
+aVLynn Greer MIL 03/21/2007 MIL vs. LAC L 14 6 1 4 25.0 0 1 0.0 4 4 100.0 0 0 0 1 2 0 0 0 4
+p154
+aVJared Reiner MIL 03/21/2007 MIL vs. LAC L 16 0 0 2 0.0 0 0 - 0 0 - 2 3 5 1 0 0 2 3 -7
+p155
+aVRuben Patterson MIL 03/21/2007 MIL vs. LAC L 36 20 7 13 53.8 0 0 - 6 8 75.0 6 3 9 3 0 0 1 1 6
+p156
+aVAndrew Bogut MIL 03/17/2007 MIL vs. CHA W 40 17 7 11 63.6 0 0 - 3 4 75.0 2 9 11 1 0 0 1 2 6
+p157
+aVRuben Patterson MIL 03/17/2007 MIL vs. CHA W 21 7 3 8 37.5 0 0 - 1 4 25.0 4 7 11 1 1 0 5 5 0
+p158
+aVErsan Ilyasova MIL 03/17/2007 MIL vs. CHA W 13 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 -10
+p159
+aVMichael Redd MIL 03/17/2007 MIL vs. CHA W 45 27 8 18 44.4 1 4 25.0 10 10 100.0 2 2 4 5 3 0 1 2 6
+p160
+aVBrian Skinner MIL 03/17/2007 MIL vs. CHA W 24 2 1 6 16.7 0 0 - 0 2 0.0 4 8 12 1 0 1 0 4 14
+p161
+aVCharlie Bell MIL 03/17/2007 MIL vs. CHA W 35 18 8 15 53.3 2 6 33.3 0 0 - 0 0 0 6 0 0 2 4 6
+p162
+aVLynn Greer MIL 03/17/2007 MIL vs. CHA W 10 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 2 0 0 0 3 1
+p163
+aVMo Williams MIL 03/17/2007 MIL vs. CHA W 41 17 5 15 33.3 2 4 50.0 5 6 83.3 0 4 4 5 1 1 1 5 7
+p164
+aVDavid Noel MIL 03/17/2007 MIL vs. CHA W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p165
+aVBrian Skinner MIL 03/15/2007 MIL vs. SAS W 24 6 3 6 50.0 0 0 - 0 0 - 3 5 8 2 0 1 0 1 -1
+p166
+aVMo Williams MIL 03/15/2007 MIL vs. SAS W 15 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 5 -10
+p167
+aVRuben Patterson MIL 03/15/2007 MIL vs. SAS W 37 14 4 5 80.0 0 1 0.0 6 6 100.0 2 4 6 4 1 0 3 2 20
+p168
+aVCharlie Bell MIL 03/15/2007 MIL vs. SAS W 39 12 4 13 30.8 3 7 42.9 1 1 100.0 0 5 5 3 2 0 1 0 12
+p169
+aVLynn Greer MIL 03/15/2007 MIL vs. SAS W 15 14 4 6 66.7 3 3 100.0 3 3 100.0 0 3 3 3 0 0 1 2 7
+p170
+aVDavid Noel MIL 03/15/2007 MIL vs. SAS W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 2
+p171
+aVJared Reiner MIL 03/15/2007 MIL vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p172
+aVErsan Ilyasova MIL 03/15/2007 MIL vs. SAS W 16 9 3 5 60.0 2 3 66.7 1 2 50.0 0 3 3 0 2 1 2 1 7
+p173
+aVMichael Redd MIL 03/15/2007 MIL vs. SAS W 38 29 13 20 65.0 0 2 0.0 3 5 60.0 2 3 5 5 1 0 3 2 9
+p174
+aVAndrew Bogut MIL 03/15/2007 MIL vs. SAS W 41 13 6 9 66.7 0 0 - 1 1 100.0 3 9 12 6 0 0 4 5 4
+p175
+aVCharlie Villanueva MIL 03/12/2007 MIL vs. TOR L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -10
+p176
+aVDavid Noel MIL 03/12/2007 MIL vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p177
+aVCharlie Bell MIL 03/12/2007 MIL vs. TOR L 44 25 11 18 61.1 0 1 0.0 3 4 75.0 2 5 7 1 1 0 2 3 -11
+p178
+aVMichael Redd MIL 03/12/2007 MIL vs. TOR L 46 29 9 18 50.0 1 4 25.0 10 12 83.3 0 3 3 1 0 0 7 3 -15
+p179
+aVJared Reiner MIL 03/12/2007 MIL vs. TOR L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p180
+aVLynn Greer MIL 03/12/2007 MIL vs. TOR L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p181
+aVMo Williams MIL 03/12/2007 MIL vs. TOR L 44 18 6 15 40.0 0 5 0.0 6 6 100.0 2 6 8 5 1 0 2 4 -9
+p182
+aVAndrew Bogut MIL 03/12/2007 MIL vs. TOR L 35 6 3 5 60.0 0 0 - 0 2 0.0 3 5 8 8 0 0 3 6 -4
+p183
+aVBrian Skinner MIL 03/12/2007 MIL vs. TOR L 25 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 0 0 0 3 -8
+p184
+aVRuben Patterson MIL 03/12/2007 MIL vs. TOR L 29 13 5 10 50.0 0 0 - 3 4 75.0 1 4 5 2 4 0 4 4 -6
+p185
+aVErsan Ilyasova MIL 03/12/2007 MIL vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p186
+aVCharlie Villanueva MIL 03/10/2007 MIL vs. CLE L 19 4 2 9 22.2 0 3 0.0 0 0 - 1 2 3 0 0 0 1 1 -4
+p187
+aVMichael Redd MIL 03/10/2007 MIL vs. CLE L 40 29 12 25 48.0 4 6 66.7 1 2 50.0 1 4 5 4 1 0 2 1 7
+p188
+aVRuben Patterson MIL 03/10/2007 MIL vs. CLE L 28 24 10 13 76.9 0 0 - 4 4 100.0 1 0 1 2 3 0 1 3 -11
+p189
+aVMo Williams MIL 03/10/2007 MIL vs. CLE L 37 6 3 15 20.0 0 3 0.0 0 0 - 0 2 2 9 1 0 3 4 -7
+p190
+aVLynn Greer MIL 03/10/2007 MIL vs. CLE L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 0 -2
+p191
+aVAndrew Bogut MIL 03/10/2007 MIL vs. CLE L 39 13 5 9 55.6 0 0 - 3 4 75.0 4 8 12 0 2 0 3 2 4
+p192
+aVBrian Skinner MIL 03/10/2007 MIL vs. CLE L 36 8 4 5 80.0 0 0 - 0 0 - 0 9 9 1 1 1 1 4 -2
+p193
+aVCharlie Bell MIL 03/10/2007 MIL vs. CLE L 37 5 2 6 33.3 1 4 25.0 0 2 0.0 0 1 1 5 0 0 0 0 5
+p194
+aVBrian Skinner MIL 03/07/2007 MIL vs. LAL W 32 4 2 2 100.0 0 0 - 0 0 - 1 12 13 0 1 2 3 3 16
+p195
+aVLynn Greer MIL 03/07/2007 MIL vs. LAL W 12 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 1 0 1 2 2
+p196
+aVCharlie Villanueva MIL 03/07/2007 MIL vs. LAL W 25 26 10 12 83.3 6 8 75.0 0 0 - 2 2 4 3 0 0 3 5 6
+p197
+aVErsan Ilyasova MIL 03/07/2007 MIL vs. LAL W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p198
+aVMichael Redd MIL 03/07/2007 MIL vs. LAL W 33 10 3 11 27.3 1 7 14.3 3 4 75.0 0 1 1 1 0 0 1 1 20
+p199
+aVMo Williams MIL 03/07/2007 MIL vs. LAL W 35 10 4 10 40.0 0 1 0.0 2 4 50.0 0 0 0 13 2 0 1 4 14
+p200
+aVAndrew Bogut MIL 03/07/2007 MIL vs. LAL W 35 22 10 12 83.3 0 0 - 2 2 100.0 2 4 6 5 1 1 3 2 19
+p201
+aVDavid Noel MIL 03/07/2007 MIL vs. LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -1
+p202
+aVCharlie Bell MIL 03/07/2007 MIL vs. LAL W 36 20 7 12 58.3 2 4 50.0 4 4 100.0 1 3 4 2 0 0 2 3 19
+p203
+aVJared Reiner MIL 03/07/2007 MIL vs. LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p204
+aVRuben Patterson MIL 03/07/2007 MIL vs. LAL W 22 13 6 9 66.7 0 0 - 1 2 50.0 0 2 2 2 0 0 1 3 7
+p205
+aVDavid Noel MIL 03/05/2007 MIL @ ORL L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 7
+p206
+aVAndrew Bogut MIL 03/05/2007 MIL @ ORL L 26 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 2 0 3 4 -26
+p207
+aVJared Reiner MIL 03/05/2007 MIL @ ORL L 5 1 0 1 0.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 1 7
+p208
+aVMichael Redd MIL 03/05/2007 MIL @ ORL L 36 15 3 16 18.8 0 3 0.0 9 12 75.0 1 3 4 2 1 0 3 1 -22
+p209
+aVMo Williams MIL 03/05/2007 MIL @ ORL L 32 8 4 7 57.1 0 0 - 0 0 - 0 6 6 4 0 0 3 3 -28
+p210
+aVErsan Ilyasova MIL 03/05/2007 MIL @ ORL L 10 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 0 0 1 1 2 7
+p211
+aVCharlie Bell MIL 03/05/2007 MIL @ ORL L 35 10 4 11 36.4 2 6 33.3 0 0 - 1 0 1 2 2 0 2 0 -19
+p212
+aVCharlie Villanueva MIL 03/05/2007 MIL @ ORL L 31 11 3 13 23.1 0 3 0.0 5 5 100.0 3 3 6 2 1 1 2 4 1
+p213
+aVLynn Greer MIL 03/05/2007 MIL @ ORL L 16 11 5 9 55.6 1 2 50.0 0 0 - 1 0 1 1 0 0 0 0 10
+p214
+aVBrian Skinner MIL 03/05/2007 MIL @ ORL L 15 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 1 1 3 1 -17
+p215
+aVRuben Patterson MIL 03/05/2007 MIL @ ORL L 29 14 6 9 66.7 0 0 - 2 2 100.0 1 0 1 0 2 0 2 4 -10
+p216
+aVBrian Skinner MIL 03/04/2007 MIL vs. CHI L 25 4 2 3 66.7 0 0 - 0 0 - 0 7 7 2 0 0 0 1 13
+p217
+aVCharlie Bell MIL 03/04/2007 MIL vs. CHI L 32 8 4 12 33.3 0 4 0.0 0 0 - 3 1 4 3 2 0 0 5 -6
+p218
+aVCharlie Villanueva MIL 03/04/2007 MIL vs. CHI L 28 13 4 9 44.4 3 6 50.0 2 2 100.0 0 3 3 1 1 1 1 1 -3
+p219
+aVMichael Redd MIL 03/04/2007 MIL vs. CHI L 44 52 18 32 56.3 8 13 61.5 8 9 88.9 1 2 3 2 3 0 4 2 -12
+p220
+aVMo Williams MIL 03/04/2007 MIL vs. CHI L 49 14 7 19 36.8 0 3 0.0 0 0 - 2 5 7 8 0 0 7 5 4
+p221
+aVDavid Noel MIL 03/04/2007 MIL vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p222
+aVAndrew Bogut MIL 03/04/2007 MIL vs. CHI L 43 13 5 10 50.0 0 0 - 3 6 50.0 5 6 11 6 0 1 2 3 -8
+p223
+aVLynn Greer MIL 03/04/2007 MIL vs. CHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -1
+p224
+aVRuben Patterson MIL 03/04/2007 MIL vs. CHI L 38 17 6 9 66.7 0 0 - 5 8 62.5 4 4 8 2 1 0 2 4 -4
+p225
+aVLynn Greer MIL 03/02/2007 MIL @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p226
+aVBrian Skinner MIL 03/02/2007 MIL @ TOR W 21 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 1 1 3 -12
+p227
+aVMo Williams MIL 03/02/2007 MIL @ TOR W 42 13 5 17 29.4 1 3 33.3 2 2 100.0 1 5 6 8 1 0 4 3 11
+p228
+aVCharlie Bell MIL 03/02/2007 MIL @ TOR W 45 19 8 17 47.1 3 6 50.0 0 0 - 0 1 1 3 4 0 0 2 7
+p229
+aVCharlie Villanueva MIL 03/02/2007 MIL @ TOR W 25 14 5 8 62.5 1 3 33.3 3 4 75.0 4 7 11 0 0 1 1 3 18
+p230
+aVMichael Redd MIL 03/02/2007 MIL @ TOR W 38 21 7 18 38.9 2 7 28.6 5 5 100.0 0 2 2 3 0 1 3 3 8
+p231
+aVAndrew Bogut MIL 03/02/2007 MIL @ TOR W 38 18 8 14 57.1 0 1 0.0 2 3 66.7 2 9 11 3 1 0 0 3 12
+p232
+aVErsan Ilyasova MIL 03/02/2007 MIL @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p233
+aVRuben Patterson MIL 03/02/2007 MIL @ TOR W 21 9 4 7 57.1 0 0 - 1 2 50.0 2 3 5 0 1 0 2 2 13
+p234
+aVJared Reiner MIL 03/02/2007 MIL @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p235
+aVDavid Noel MIL 03/02/2007 MIL @ TOR W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 2
+p236
+aVLynn Greer MIL 02/27/2007 MIL vs. GSW W 9 8 2 3 66.7 2 3 66.7 2 2 100.0 0 0 0 0 0 0 0 2 1
+p237
+aVCharlie Bell MIL 02/27/2007 MIL vs. GSW W 27 20 8 15 53.3 3 6 50.0 1 2 50.0 1 2 3 2 2 0 0 4 6
+p238
+aVCharlie Villanueva MIL 02/27/2007 MIL vs. GSW W 24 6 2 9 22.2 1 5 20.0 1 2 50.0 2 6 8 1 1 2 4 1 10
+p239
+aVErsan Ilyasova MIL 02/27/2007 MIL vs. GSW W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -2
+p240
+aVJared Reiner MIL 02/27/2007 MIL vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p241
+aVDavid Noel MIL 02/27/2007 MIL vs. GSW W 29 5 2 4 50.0 1 1 100.0 0 0 - 2 2 4 6 1 0 1 3 19
+p242
+aVRuben Patterson MIL 02/27/2007 MIL vs. GSW W 27 19 9 12 75.0 0 0 - 1 2 50.0 4 4 8 2 2 0 4 4 31
+p243
+aVMichael Redd MIL 02/27/2007 MIL vs. GSW W 35 31 11 19 57.9 6 11 54.5 3 3 100.0 0 3 3 2 0 0 1 2 19
+p244
+aVMo Williams MIL 02/27/2007 MIL vs. GSW W 39 16 8 16 50.0 0 1 0.0 0 0 - 0 5 5 13 1 1 1 1 20
+p245
+aVBrian Skinner MIL 02/27/2007 MIL vs. GSW W 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 2 1 -9
+p246
+aVAndrew Bogut MIL 02/27/2007 MIL vs. GSW W 31 13 6 10 60.0 0 0 - 1 3 33.3 2 12 14 2 0 2 2 1 12
+p247
+aVJared Reiner MIL 02/24/2007 MIL vs. PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -8
+p248
+aVCharlie Bell MIL 02/24/2007 MIL vs. PHI W 37 13 6 13 46.2 0 3 0.0 1 2 50.0 1 3 4 1 1 0 2 3 22
+p249
+aVErsan Ilyasova MIL 02/24/2007 MIL vs. PHI W 4 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 0 0 0 -8
+p250
+aVCharlie Villanueva MIL 02/24/2007 MIL vs. PHI W 27 11 3 7 42.9 3 5 60.0 2 2 100.0 1 4 5 1 0 1 0 4 12
+p251
+aVDavid Noel MIL 02/24/2007 MIL vs. PHI W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p252
+aVLynn Greer MIL 02/24/2007 MIL vs. PHI W 8 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 2 0 1 2 -8
+p253
+aVMo Williams MIL 02/24/2007 MIL vs. PHI W 40 26 10 13 76.9 5 7 71.4 1 1 100.0 2 0 2 7 0 0 1 2 27
+p254
+aVRuben Patterson MIL 02/24/2007 MIL vs. PHI W 27 13 5 9 55.6 0 0 - 3 3 100.0 1 1 2 10 2 0 2 2 29
+p255
+aVAndrew Bogut MIL 02/24/2007 MIL vs. PHI W 29 9 4 8 50.0 0 0 - 1 2 50.0 2 5 7 0 0 0 4 1 -6
+p256
+aVMichael Redd MIL 02/24/2007 MIL vs. PHI W 33 26 9 18 50.0 3 7 42.9 5 6 83.3 0 2 2 2 1 0 1 0 18
+p257
+aVBrian Skinner MIL 02/24/2007 MIL vs. PHI W 27 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 27
+p258
+aVMichael Redd MIL 02/23/2007 MIL @ NYK L 30 12 4 13 30.8 1 6 16.7 3 5 60.0 1 3 4 3 0 0 1 2 -9
+p259
+aVJared Reiner MIL 02/23/2007 MIL @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p260
+aVRuben Patterson MIL 02/23/2007 MIL @ NYK L 29 13 5 8 62.5 0 0 - 3 3 100.0 1 3 4 1 2 0 3 5 3
+p261
+aVCharlie Bell MIL 02/23/2007 MIL @ NYK L 45 11 4 12 33.3 1 3 33.3 2 2 100.0 2 4 6 3 3 0 2 2 -2
+p262
+aVMo Williams MIL 02/23/2007 MIL @ NYK L 42 28 10 15 66.7 3 3 100.0 5 5 100.0 3 7 10 4 3 0 8 3 8
+p263
+aVDavid Noel MIL 02/23/2007 MIL @ NYK L 3 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 1
+p264
+aVCharlie Villanueva MIL 02/23/2007 MIL @ NYK L 20 9 3 6 50.0 1 1 100.0 2 2 100.0 1 3 4 0 1 0 0 4 2
+p265
+aVBrian Skinner MIL 02/23/2007 MIL @ NYK L 27 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 1 2 1 0 4 -16
+p266
+aVAndrew Bogut MIL 02/23/2007 MIL @ NYK L 44 19 8 20 40.0 0 1 0.0 3 5 60.0 3 6 9 3 1 1 2 4 2
+p267
+aVMo Williams MIL 02/21/2007 MIL @ IND L 39 24 8 18 44.4 1 2 50.0 7 7 100.0 3 3 6 10 2 0 1 6 -1
+p268
+aVBrian Skinner MIL 02/21/2007 MIL @ IND L 22 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 1 2 6 5
+p269
+aVEarl Boykins MIL 02/21/2007 MIL @ IND L 22 4 1 4 25.0 1 2 50.0 1 1 100.0 0 1 1 2 0 0 0 0 4
+p270
+aVErsan Ilyasova MIL 02/21/2007 MIL @ IND L 26 8 3 6 50.0 0 2 0.0 2 2 100.0 2 6 8 1 1 0 1 2 10
+p271
+aVLynn Greer MIL 02/21/2007 MIL @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p272
+aVAndrew Bogut MIL 02/21/2007 MIL @ IND L 38 19 9 15 60.0 0 0 - 1 5 20.0 2 4 6 1 2 1 3 6 -14
+p273
+aVJared Reiner MIL 02/21/2007 MIL @ IND L 23 2 1 1 100.0 0 0 - 0 0 - 1 4 5 2 1 0 1 6 3
+p274
+aVDavid Noel MIL 02/21/2007 MIL @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p275
+aVCharlie Bell MIL 02/21/2007 MIL @ IND L 45 21 7 12 58.3 3 5 60.0 4 4 100.0 1 4 5 2 1 0 5 4 -14
+p276
+aVRuben Patterson MIL 02/21/2007 MIL @ IND L 32 13 4 8 50.0 0 0 - 5 10 50.0 1 3 4 3 3 0 3 4 -10
+p277
+aVMichael Redd MIL 02/21/2007 MIL @ IND L 40 38 13 28 46.4 6 13 46.2 6 9 66.7 0 1 1 2 1 1 5 3 -3
+p278
+aVRuben Patterson MIL 02/20/2007 MIL vs. DET L 25 18 7 10 70.0 0 2 0.0 4 5 80.0 0 4 4 1 1 0 1 2 -1
+p279
+aVCharlie Bell MIL 02/20/2007 MIL vs. DET L 38 22 9 18 50.0 0 4 0.0 4 5 80.0 3 4 7 3 1 0 0 1 6
+p280
+aVEarl Boykins MIL 02/20/2007 MIL vs. DET L 21 0 0 4 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 3 -4
+p281
+aVAndrew Bogut MIL 02/20/2007 MIL vs. DET L 39 15 6 9 66.7 0 0 - 3 4 75.0 2 4 6 5 0 0 1 3 4
+p282
+aVMo Williams MIL 02/20/2007 MIL vs. DET L 39 7 3 8 37.5 0 0 - 1 2 50.0 0 1 1 6 0 0 5 4 -2
+p283
+aVDavid Noel MIL 02/20/2007 MIL vs. DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p284
+aVBrian Skinner MIL 02/20/2007 MIL vs. DET L 43 4 1 5 20.0 0 0 - 2 2 100.0 2 11 13 0 0 1 2 4 2
+p285
+aVMichael Redd MIL 02/20/2007 MIL vs. DET L 30 17 7 18 38.9 1 2 50.0 2 2 100.0 0 4 4 1 2 0 3 1 -7
+p286
+aVJared Reiner MIL 02/20/2007 MIL vs. DET L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p287
+aVAndrew Bogut MIL 02/14/2007 MIL @ BOS L 40 9 4 7 57.1 0 0 - 1 3 33.3 2 6 8 7 1 0 3 3 -23
+p288
+aVBrian Skinner MIL 02/14/2007 MIL @ BOS L 42 13 4 8 50.0 0 0 - 5 10 50.0 5 6 11 2 0 2 4 4 -15
+p289
+aVRuben Patterson MIL 02/14/2007 MIL @ BOS L 31 10 5 8 62.5 0 0 - 0 2 0.0 1 0 1 3 0 0 5 4 -18
+p290
+aVJared Reiner MIL 02/14/2007 MIL @ BOS L 6 2 1 2 50.0 0 0 - 0 0 - 4 2 6 1 0 0 0 0 6
+p291
+aVCharlie Bell MIL 02/14/2007 MIL @ BOS L 43 24 10 18 55.6 4 5 80.0 0 0 - 1 6 7 4 1 0 1 2 -21
+p292
+aVErsan Ilyasova MIL 02/14/2007 MIL @ BOS L 16 6 2 5 40.0 0 1 0.0 2 2 100.0 1 2 3 0 1 0 1 1 4
+p293
+aVEarl Boykins MIL 02/14/2007 MIL @ BOS L 11 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -6
+p294
+aVDavid Noel MIL 02/14/2007 MIL @ BOS L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -9
+p295
+aVLynn Greer MIL 02/14/2007 MIL @ BOS L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p296
+aVMo Williams MIL 02/14/2007 MIL @ BOS L 43 31 12 25 48.0 3 5 60.0 4 4 100.0 1 4 5 4 1 1 2 4 -11
+p297
+aVLynn Greer MIL 02/13/2007 MIL vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p298
+aVDavid Noel MIL 02/13/2007 MIL vs. DAL L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 1 4
+p299
+aVAndrew Bogut MIL 02/13/2007 MIL vs. DAL L 42 16 5 11 45.5 0 0 - 6 8 75.0 5 12 17 3 0 0 1 3 -3
+p300
+aVCharlie Bell MIL 02/13/2007 MIL vs. DAL L 23 11 4 7 57.1 1 1 100.0 2 2 100.0 0 4 4 2 0 0 0 5 -3
+p301
+aVBrian Skinner MIL 02/13/2007 MIL vs. DAL L 14 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -16
+p302
+aVMo Williams MIL 02/13/2007 MIL vs. DAL L 38 15 5 19 26.3 1 2 50.0 4 4 100.0 0 4 4 5 1 0 3 4 -14
+p303
+aVRuben Patterson MIL 02/13/2007 MIL vs. DAL L 41 20 7 11 63.6 0 0 - 6 9 66.7 3 3 6 4 2 0 2 2 -7
+p304
+aVErsan Ilyasova MIL 02/13/2007 MIL vs. DAL L 11 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 1 3 2
+p305
+aVCharlie Villanueva MIL 02/13/2007 MIL vs. DAL L 21 15 6 11 54.5 2 4 50.0 1 2 50.0 0 2 2 1 0 0 0 2 10
+p306
+aVEarl Boykins MIL 02/13/2007 MIL vs. DAL L 35 13 3 12 25.0 0 1 0.0 7 8 87.5 1 2 3 4 2 0 3 1 -10
+p307
+aVCharlie Bell MIL 02/10/2007 MIL vs. DEN L 33 16 7 13 53.8 2 4 50.0 0 0 - 1 1 2 4 1 0 1 2 -4
+p308
+aVBrian Skinner MIL 02/10/2007 MIL vs. DEN L 27 7 3 4 75.0 0 0 - 1 1 100.0 1 6 7 0 0 2 0 5 -3
+p309
+aVLynn Greer MIL 02/10/2007 MIL vs. DEN L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 2
+p310
+aVRuben Patterson MIL 02/10/2007 MIL vs. DEN L 37 13 6 10 60.0 0 0 - 1 1 100.0 2 4 6 4 2 1 5 3 1
+p311
+aVErsan Ilyasova MIL 02/10/2007 MIL vs. DEN L 10 8 2 3 66.7 2 2 100.0 2 2 100.0 0 0 0 1 1 1 0 2 6
+p312
+aVMo Williams MIL 02/10/2007 MIL vs. DEN L 38 16 6 20 30.0 0 4 0.0 4 4 100.0 0 3 3 6 1 0 5 3 -13
+p313
+aVAndrew Bogut MIL 02/10/2007 MIL vs. DEN L 31 8 4 8 50.0 0 0 - 0 2 0.0 2 10 12 1 0 1 0 4 -13
+p314
+aVEarl Boykins MIL 02/10/2007 MIL vs. DEN L 29 26 10 15 66.7 6 7 85.7 0 0 - 1 1 2 6 0 0 4 4 -2
+p315
+aVCharlie Villanueva MIL 02/10/2007 MIL vs. DEN L 22 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -9
+p316
+aVErsan Ilyasova MIL 02/08/2007 MIL @ NOK L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -5
+p317
+aVDavid Noel MIL 02/08/2007 MIL @ NOK L 16 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 0 1 0 0 3 3
+p318
+aVJared Reiner MIL 02/08/2007 MIL @ NOK L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -6
+p319
+aVEarl Boykins MIL 02/08/2007 MIL @ NOK L 39 10 4 12 33.3 1 5 20.0 1 2 50.0 1 2 3 5 2 0 2 6 3
+p320
+aVCharlie Bell MIL 02/08/2007 MIL @ NOK L 27 14 7 10 70.0 0 1 0.0 0 0 - 2 1 3 4 0 0 2 1 -14
+p321
+aVRuben Patterson MIL 02/08/2007 MIL @ NOK L 49 28 10 23 43.5 0 0 - 8 10 80.0 8 8 16 3 5 0 4 4 -10
+p322
+aVCharlie Villanueva MIL 02/08/2007 MIL @ NOK L 42 7 2 11 18.2 0 4 0.0 3 4 75.0 1 5 6 0 1 0 0 6 -7
+p323
+aVAndrew Bogut MIL 02/08/2007 MIL @ NOK L 50 10 5 10 50.0 0 0 - 0 1 0.0 2 6 8 0 0 1 2 3 -2
+p324
+aVMo Williams MIL 02/08/2007 MIL @ NOK L 50 30 11 23 47.8 1 5 20.0 7 9 77.8 1 6 7 5 3 0 3 2 -2
+p325
+aVErsan Ilyasova MIL 02/06/2007 MIL vs. ORL W 14 4 1 4 25.0 1 1 100.0 1 2 50.0 1 2 3 1 0 0 0 3 -5
+p326
+aVMo Williams MIL 02/06/2007 MIL vs. ORL W 40 13 3 14 21.4 1 3 33.3 6 6 100.0 0 3 3 8 2 1 1 3 7
+p327
+aVLynn Greer MIL 02/06/2007 MIL vs. ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p328
+aVRuben Patterson MIL 02/06/2007 MIL vs. ORL W 37 27 11 16 68.8 1 2 50.0 4 9 44.4 3 4 7 6 3 0 4 4 11
+p329
+aVEarl Boykins MIL 02/06/2007 MIL vs. ORL W 30 24 6 9 66.7 2 3 66.7 10 12 83.3 1 2 3 6 4 0 3 2 3
+p330
+aVBrian Skinner MIL 02/06/2007 MIL vs. ORL W 21 2 0 1 0.0 0 0 - 2 6 33.3 1 1 2 1 1 0 1 5 -2
+p331
+aVDavid Noel MIL 02/06/2007 MIL vs. ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p332
+aVCharlie Bell MIL 02/06/2007 MIL vs. ORL W 29 20 8 11 72.7 3 4 75.0 1 2 50.0 1 5 6 2 0 0 2 2 4
+p333
+aVAndrew Bogut MIL 02/06/2007 MIL vs. ORL W 28 4 2 7 28.6 0 0 - 0 2 0.0 2 6 8 3 0 1 0 5 4
+p334
+aVCharlie Villanueva MIL 02/06/2007 MIL vs. ORL W 41 22 8 15 53.3 1 4 25.0 5 7 71.4 1 8 9 1 0 1 0 4 7
+p335
+aVMo Williams MIL 02/03/2007 MIL vs. MIA L 40 38 16 31 51.6 1 6 16.7 5 6 83.3 1 4 5 7 3 0 9 4 -14
+p336
+aVDavid Noel MIL 02/03/2007 MIL vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p337
+aVCharlie Bell MIL 02/03/2007 MIL vs. MIA L 35 10 4 9 44.4 1 5 20.0 1 1 100.0 1 1 2 0 0 0 1 2 -21
+p338
+aVDan Gadzuric MIL 02/03/2007 MIL vs. MIA L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p339
+aVCharlie Villanueva MIL 02/03/2007 MIL vs. MIA L 26 16 5 9 55.6 0 1 0.0 6 6 100.0 4 7 11 0 0 0 0 3 -14
+p340
+aVAndrew Bogut MIL 02/03/2007 MIL vs. MIA L 36 4 2 5 40.0 0 0 - 0 0 - 0 7 7 3 0 2 3 5 -2
+p341
+aVJulius Hodge MIL 02/03/2007 MIL vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p342
+aVEarl Boykins MIL 02/03/2007 MIL vs. MIA L 29 10 2 9 22.2 2 7 28.6 4 5 80.0 0 0 0 3 1 0 3 1 -2
+p343
+aVLynn Greer MIL 02/03/2007 MIL vs. MIA L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p344
+aVRuben Patterson MIL 02/03/2007 MIL vs. MIA L 33 11 5 13 38.5 0 0 - 1 6 16.7 6 1 7 4 3 0 2 4 -20
+p345
+aVBrian Skinner MIL 02/03/2007 MIL vs. MIA L 25 5 2 3 66.7 0 0 - 1 1 100.0 2 3 5 0 1 1 0 3 -13
+p346
+aVErsan Ilyasova MIL 02/03/2007 MIL vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p347
+aVRuben Patterson MIL 02/02/2007 MIL @ DET L 38 16 7 11 63.6 0 1 0.0 2 4 50.0 2 4 6 1 2 1 4 1 -4
+p348
+aVDan Gadzuric MIL 02/02/2007 MIL @ DET L 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 4 2 -7
+p349
+aVCharlie Bell MIL 02/02/2007 MIL @ DET L 40 12 4 12 33.3 2 5 40.0 2 2 100.0 2 1 3 5 2 0 2 3 -18
+p350
+aVMo Williams MIL 02/02/2007 MIL @ DET L 43 15 4 13 30.8 2 5 40.0 5 5 100.0 0 5 5 7 2 0 2 4 -2
+p351
+aVBrian Skinner MIL 02/02/2007 MIL @ DET L 20 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 6 -8
+p352
+aVEarl Boykins MIL 02/02/2007 MIL @ DET L 30 10 4 12 33.3 2 2 100.0 0 0 - 1 1 2 2 0 0 1 1 -15
+p353
+aVCharlie Villanueva MIL 02/02/2007 MIL @ DET L 23 10 5 7 71.4 0 1 0.0 0 0 - 2 4 6 1 0 0 2 4 6
+p354
+aVAndrew Bogut MIL 02/02/2007 MIL @ DET L 41 21 9 18 50.0 0 0 - 3 5 60.0 2 11 13 3 0 1 3 4 -2
+p355
+aVDavid Noel MIL 01/31/2007 MIL @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p356
+aVAndrew Bogut MIL 01/31/2007 MIL @ ORL L 31 12 6 14 42.9 0 0 - 0 0 - 0 7 7 4 1 0 3 6 -13
+p357
+aVRuben Patterson MIL 01/31/2007 MIL @ ORL L 35 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 2 1 0 2 1 -12
+p358
+aVLynn Greer MIL 01/31/2007 MIL @ ORL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p359
+aVDamir Markota MIL 01/31/2007 MIL @ ORL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -5
+p360
+aVMo Williams MIL 01/31/2007 MIL @ ORL L 38 23 8 16 50.0 5 5 100.0 2 2 100.0 1 2 3 3 0 0 5 4 -13
+p361
+aVBrian Skinner MIL 01/31/2007 MIL @ ORL L 18 4 2 3 66.7 0 0 - 0 2 0.0 0 4 4 0 0 1 1 5 -12
+p362
+aVEarl Boykins MIL 01/31/2007 MIL @ ORL L 28 6 2 7 28.6 0 3 0.0 2 2 100.0 0 2 2 3 0 0 1 3 -24
+p363
+aVCharlie Villanueva MIL 01/31/2007 MIL @ ORL L 35 6 2 11 18.2 0 1 0.0 2 3 66.7 3 6 9 0 1 0 2 4 -6
+p364
+aVErsan Ilyasova MIL 01/31/2007 MIL @ ORL L 14 3 1 6 16.7 1 3 33.3 0 0 - 1 2 3 0 0 2 0 0 -19
+p365
+aVCharlie Bell MIL 01/31/2007 MIL @ ORL L 28 11 4 9 44.4 2 4 50.0 1 2 50.0 1 3 4 2 0 0 2 3 -6
+p366
+aVDan Gadzuric MIL 01/31/2007 MIL @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p367
+aVEarl Boykins MIL 01/30/2007 MIL @ MIA L 31 11 3 7 42.9 2 4 50.0 3 3 100.0 1 1 2 5 0 0 2 3 -23
+p368
+aVDan Gadzuric MIL 01/30/2007 MIL @ MIA L 21 3 1 5 20.0 0 0 - 1 2 50.0 5 6 11 2 1 0 1 2 -7
+p369
+aVDavid Noel MIL 01/30/2007 MIL @ MIA L 12 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 1 -1
+p370
+aVBrian Skinner MIL 01/30/2007 MIL @ MIA L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -13
+p371
+aVRuben Patterson MIL 01/30/2007 MIL @ MIA L 20 5 2 8 25.0 0 0 - 1 2 50.0 1 1 2 1 0 0 1 2 -21
+p372
+aVMo Williams MIL 01/30/2007 MIL @ MIA L 30 14 5 13 38.5 0 2 0.0 4 6 66.7 0 2 2 2 1 0 4 3 -29
+p373
+aVCharlie Villanueva MIL 01/30/2007 MIL @ MIA L 24 17 8 16 50.0 1 3 33.3 0 0 - 1 3 4 0 1 0 2 1 -16
+p374
+aVDamir Markota MIL 01/30/2007 MIL @ MIA L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 2 0 -1
+p375
+aVAndrew Bogut MIL 01/30/2007 MIL @ MIA L 26 6 3 6 50.0 0 0 - 0 0 - 2 2 4 1 2 1 1 0 -23
+p376
+aVLynn Greer MIL 01/30/2007 MIL @ MIA L 13 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 0 -1
+p377
+aVErsan Ilyasova MIL 01/30/2007 MIL @ MIA L 10 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 2 0 0 0 1 1
+p378
+aVCharlie Bell MIL 01/30/2007 MIL @ MIA L 26 12 4 7 57.1 1 1 100.0 3 6 50.0 0 1 1 0 1 0 2 4 -16
+p379
+aVMo Williams MIL 01/28/2007 MIL vs. NYK W 40 30 13 26 50.0 0 4 0.0 4 5 80.0 1 5 6 10 2 0 5 2 8
+p380
+aVCharlie Bell MIL 01/28/2007 MIL vs. NYK W 39 16 5 12 41.7 1 4 25.0 5 8 62.5 0 4 4 2 1 0 2 3 12
+p381
+aVRuben Patterson MIL 01/28/2007 MIL vs. NYK W 25 21 8 10 80.0 0 1 0.0 5 7 71.4 3 2 5 1 1 0 2 3 -4
+p382
+aVBrian Skinner MIL 01/28/2007 MIL vs. NYK W 32 4 2 5 40.0 0 0 - 0 0 - 5 9 14 4 1 3 0 5 5
+p383
+aVErsan Ilyasova MIL 01/28/2007 MIL vs. NYK W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p384
+aVEarl Boykins MIL 01/28/2007 MIL vs. NYK W 43 13 5 12 41.7 1 3 33.3 2 2 100.0 0 2 2 2 0 0 1 3 -8
+p385
+aVCharlie Villanueva MIL 01/28/2007 MIL vs. NYK W 16 5 2 5 40.0 1 2 50.0 0 0 - 1 3 4 0 0 0 3 4 -5
+p386
+aVAndrew Bogut MIL 01/28/2007 MIL vs. NYK W 36 18 9 16 56.3 0 0 - 0 3 0.0 3 6 9 1 0 0 0 1 8
+p387
+aVDavid Noel MIL 01/28/2007 MIL vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p388
+aVAndrew Bogut MIL 01/26/2007 MIL vs. PHX L 39 10 4 9 44.4 0 0 - 2 6 33.3 3 5 8 4 1 0 4 4 2
+p389
+aVCharlie Villanueva MIL 01/26/2007 MIL vs. PHX L 29 10 5 10 50.0 0 1 0.0 0 0 - 2 8 10 0 1 0 1 3 -8
+p390
+aVErsan Ilyasova MIL 01/26/2007 MIL vs. PHX L 28 13 5 11 45.5 3 5 60.0 0 0 - 4 3 7 2 0 0 1 4 4
+p391
+aVCharlie Bell MIL 01/26/2007 MIL vs. PHX L 43 21 9 22 40.9 0 3 0.0 3 3 100.0 1 5 6 1 2 0 2 2 -6
+p392
+aVLynn Greer MIL 01/26/2007 MIL vs. PHX L 7 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 1
+p393
+aVRuben Patterson MIL 01/26/2007 MIL vs. PHX L 32 11 4 10 40.0 0 1 0.0 3 6 50.0 3 4 7 1 0 1 5 3 -7
+p394
+aVDavid Noel MIL 01/26/2007 MIL vs. PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p395
+aVBrian Skinner MIL 01/26/2007 MIL vs. PHX L 13 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 0 0 0 3 -15
+p396
+aVEarl Boykins MIL 01/26/2007 MIL vs. PHX L 44 18 6 18 33.3 2 4 50.0 4 6 66.7 0 1 1 4 1 0 0 3 -9
+p397
+aVEarl Boykins MIL 01/24/2007 MIL @ SAC L 41 36 13 20 65.0 5 9 55.6 5 5 100.0 2 2 4 5 1 0 2 4 -12
+p398
+aVRuben Patterson MIL 01/24/2007 MIL @ SAC L 41 21 6 13 46.2 0 0 - 9 12 75.0 2 10 12 3 1 0 4 2 -11
+p399
+aVCharlie Bell MIL 01/24/2007 MIL @ SAC L 43 18 6 17 35.3 2 7 28.6 4 4 100.0 0 4 4 5 0 0 1 2 -6
+p400
+aVDavid Noel MIL 01/24/2007 MIL @ SAC L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p401
+aVBrian Skinner MIL 01/24/2007 MIL @ SAC L 22 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 1 0 0 2 5 -11
+p402
+aVDan Gadzuric MIL 01/24/2007 MIL @ SAC L 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 3
+p403
+aVErsan Ilyasova MIL 01/24/2007 MIL @ SAC L 32 13 4 11 36.4 1 4 25.0 4 5 80.0 1 4 5 3 1 0 1 5 2
+p404
+aVAndrew Bogut MIL 01/24/2007 MIL @ SAC L 42 9 4 7 57.1 0 0 - 1 2 50.0 2 6 8 1 2 0 2 3 -7
+p405
+aVLynn Greer MIL 01/24/2007 MIL @ SAC L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p406
+aVErsan Ilyasova MIL 01/23/2007 MIL @ LAC L 23 11 3 10 30.0 2 5 40.0 3 4 75.0 3 1 4 1 1 0 1 3 -13
+p407
+aVEarl Boykins MIL 01/23/2007 MIL @ LAC L 39 14 6 15 40.0 1 4 25.0 1 1 100.0 0 4 4 5 0 0 3 2 -22
+p408
+aVDavid Noel MIL 01/23/2007 MIL @ LAC L 21 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 4 -12
+p409
+aVJulius Hodge MIL 01/23/2007 MIL @ LAC L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 2 5
+p410
+aVDamir Markota MIL 01/23/2007 MIL @ LAC L 7 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 0 0 0 0 2 4
+p411
+aVLynn Greer MIL 01/23/2007 MIL @ LAC L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 0 3
+p412
+aVRuben Patterson MIL 01/23/2007 MIL @ LAC L 32 16 7 15 46.7 0 0 - 2 5 40.0 2 4 6 4 0 1 1 2 -15
+p413
+aVBrian Skinner MIL 01/23/2007 MIL @ LAC L 31 4 2 6 33.3 0 0 - 0 2 0.0 1 7 8 0 0 1 2 2 -13
+p414
+aVDan Gadzuric MIL 01/23/2007 MIL @ LAC L 14 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 1 2 -2
+p415
+aVCharlie Bell MIL 01/23/2007 MIL @ LAC L 36 24 10 20 50.0 1 4 25.0 3 3 100.0 0 6 6 3 1 0 0 1 -18
+p416
+aVAndrew Bogut MIL 01/23/2007 MIL @ LAC L 19 6 3 7 42.9 0 0 - 0 0 - 1 1 2 3 1 0 0 6 -12
+p417
+aVLynn Greer MIL 01/21/2007 MIL @ POR L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p418
+aVDamir Markota MIL 01/21/2007 MIL @ POR L 12 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 0 0 0 0 1 0
+p419
+aVDavid Noel MIL 01/21/2007 MIL @ POR L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 2 0 0 0 2 -6
+p420
+aVErsan Ilyasova MIL 01/21/2007 MIL @ POR L 37 8 2 11 18.2 0 5 0.0 4 7 57.1 2 7 9 3 0 0 2 5 5
+p421
+aVCharlie Bell MIL 01/21/2007 MIL @ POR L 38 23 7 14 50.0 3 7 42.9 6 6 100.0 1 3 4 1 3 0 1 2 -3
+p422
+aVRuben Patterson MIL 01/21/2007 MIL @ POR L 37 15 6 12 50.0 0 0 - 3 5 60.0 2 3 5 0 1 1 2 4 -5
+p423
+aVDan Gadzuric MIL 01/21/2007 MIL @ POR L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -1
+p424
+aVEarl Boykins MIL 01/21/2007 MIL @ POR L 45 28 8 19 42.1 3 6 50.0 9 9 100.0 2 3 5 6 0 0 2 3 0
+p425
+aVAndrew Bogut MIL 01/21/2007 MIL @ POR L 42 16 7 12 58.3 0 0 - 2 4 50.0 4 3 7 2 1 0 1 3 -6
+p426
+aVLynn Greer MIL 01/19/2007 MIL @ SEA L 19 4 2 7 28.6 0 1 0.0 0 3 0.0 1 1 2 2 0 1 0 0 -3
+p427
+aVBrian Skinner MIL 01/19/2007 MIL @ SEA L 26 8 3 9 33.3 0 0 - 2 3 66.7 4 5 9 0 2 2 1 1 -20
+p428
+aVDamir Markota MIL 01/19/2007 MIL @ SEA L 12 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p429
+aVDan Gadzuric MIL 01/19/2007 MIL @ SEA L 20 1 0 3 0.0 0 0 - 1 2 50.0 2 3 5 1 0 1 2 0 -5
+p430
+aVJulius Hodge MIL 01/19/2007 MIL @ SEA L 10 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -2
+p431
+aVRuben Patterson MIL 01/19/2007 MIL @ SEA L 21 16 5 9 55.6 0 0 - 6 6 100.0 2 0 2 2 2 1 3 2 -19
+p432
+aVCharlie Bell MIL 01/19/2007 MIL @ SEA L 30 4 2 11 18.2 0 4 0.0 0 0 - 0 3 3 1 0 0 1 2 -24
+p433
+aVErsan Ilyasova MIL 01/19/2007 MIL @ SEA L 21 9 4 13 30.8 1 4 25.0 0 2 0.0 3 3 6 1 1 0 0 3 -4
+p434
+aVAndrew Bogut MIL 01/19/2007 MIL @ SEA L 32 14 7 11 63.6 0 0 - 0 0 - 3 4 7 3 2 2 3 3 -26
+p435
+aVDavid Noel MIL 01/19/2007 MIL @ SEA L 12 8 3 7 42.9 0 3 0.0 2 2 100.0 1 0 1 0 2 0 1 1 -9
+p436
+aVEarl Boykins MIL 01/19/2007 MIL @ SEA L 32 4 1 10 10.0 0 2 0.0 2 2 100.0 0 1 1 5 0 0 2 0 -24
+p437
+aVCharlie Bell MIL 01/17/2007 MIL vs. CHI L 39 10 3 8 37.5 2 2 100.0 2 2 100.0 0 0 0 2 3 0 2 2 -10
+p438
+aVDavid Noel MIL 01/17/2007 MIL vs. CHI L 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 4 1 -1
+p439
+aVDan Gadzuric MIL 01/17/2007 MIL vs. CHI L 13 4 2 8 25.0 0 0 - 0 2 0.0 6 3 9 1 0 1 1 3 -8
+p440
+aVErsan Ilyasova MIL 01/17/2007 MIL vs. CHI L 31 22 7 14 50.0 4 8 50.0 4 6 66.7 2 7 9 1 1 0 1 5 -15
+p441
+aVEarl Boykins MIL 01/17/2007 MIL vs. CHI L 40 17 4 17 23.5 3 6 50.0 6 6 100.0 1 0 1 5 3 0 5 3 -7
+p442
+aVLynn Greer MIL 01/17/2007 MIL vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p443
+aVBrian Skinner MIL 01/17/2007 MIL vs. CHI L 21 12 6 9 66.7 0 0 - 0 1 0.0 3 5 8 0 0 0 1 1 2
+p444
+aVRuben Patterson MIL 01/17/2007 MIL vs. CHI L 38 15 4 13 30.8 0 0 - 7 8 87.5 3 8 11 5 1 0 7 4 -7
+p445
+aVAndrew Bogut MIL 01/17/2007 MIL vs. CHI L 39 6 2 6 33.3 0 0 - 2 4 50.0 1 7 8 3 1 1 5 4 1
+p446
+aVAndrew Bogut MIL 01/15/2007 MIL @ CHA W 37 27 12 15 80.0 0 0 - 3 4 75.0 3 8 11 6 0 3 1 2 13
+p447
+aVBrian Skinner MIL 01/15/2007 MIL @ CHA W 32 6 3 7 42.9 0 0 - 0 0 - 3 4 7 2 0 1 2 5 17
+p448
+aVDan Gadzuric MIL 01/15/2007 MIL @ CHA W 14 4 2 3 66.7 0 0 - 0 4 0.0 0 1 1 0 0 0 1 4 -5
+p449
+aVRuben Patterson MIL 01/15/2007 MIL @ CHA W 40 10 5 13 38.5 0 0 - 0 1 0.0 4 2 6 3 0 0 1 2 11
+p450
+aVJulius Hodge MIL 01/15/2007 MIL @ CHA W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -1
+p451
+aVDavid Noel MIL 01/15/2007 MIL @ CHA W 11 5 1 5 20.0 0 2 0.0 3 4 75.0 2 2 4 0 0 0 0 0 -10
+p452
+aVEarl Boykins MIL 01/15/2007 MIL @ CHA W 44 30 9 16 56.3 3 4 75.0 9 10 90.0 2 4 6 4 2 0 3 2 11
+p453
+aVCharlie Bell MIL 01/15/2007 MIL @ CHA W 39 10 3 13 23.1 2 8 25.0 2 2 100.0 1 3 4 5 2 0 3 3 13
+p454
+aVErsan Ilyasova MIL 01/15/2007 MIL @ CHA W 15 7 3 8 37.5 1 3 33.3 0 0 - 1 3 4 0 1 0 0 3 -9
+p455
+aVJulius Hodge MIL 01/12/2007 MIL @ PHI L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p456
+aVDamir Markota MIL 01/12/2007 MIL @ PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p457
+aVAndrew Bogut MIL 01/12/2007 MIL @ PHI L 40 20 9 14 64.3 0 1 0.0 2 5 40.0 9 15 24 2 0 1 2 3 -13
+p458
+aVDan Gadzuric MIL 01/12/2007 MIL @ PHI L 13 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 0 0 0 0
+p459
+aVErsan Ilyasova MIL 01/12/2007 MIL @ PHI L 23 9 4 5 80.0 0 0 - 1 1 100.0 1 3 4 2 0 2 2 3 -4
+p460
+aVLynn Greer MIL 01/12/2007 MIL @ PHI L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 9
+p461
+aVCharlie Bell MIL 01/12/2007 MIL @ PHI L 44 26 11 26 42.3 4 12 33.3 0 0 - 0 3 3 1 3 0 0 0 -5
+p462
+aVEarl Boykins MIL 01/12/2007 MIL @ PHI L 41 11 5 14 35.7 0 1 0.0 1 1 100.0 0 1 1 11 1 0 4 1 -22
+p463
+aVDavid Noel MIL 01/12/2007 MIL @ PHI L 16 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 6 -13
+p464
+aVRuben Patterson MIL 01/12/2007 MIL @ PHI L 33 13 5 10 50.0 0 0 - 3 3 100.0 2 2 4 6 0 1 4 3 -19
+p465
+aVBrian Skinner MIL 01/12/2007 MIL @ PHI L 19 10 4 6 66.7 0 0 - 2 2 100.0 2 1 3 0 0 1 3 4 -4
+p466
+aVAndrew Bogut MIL 01/10/2007 MIL vs. TOR L 42 17 8 15 53.3 0 0 - 1 2 50.0 9 9 18 4 1 0 5 5 -17
+p467
+aVErsan Ilyasova MIL 01/10/2007 MIL vs. TOR L 29 11 5 9 55.6 1 2 50.0 0 0 - 0 3 3 1 1 0 1 2 -1
+p468
+aVSteve Blake MIL 01/10/2007 MIL vs. TOR L 41 10 3 14 21.4 1 8 12.5 3 4 75.0 0 4 4 6 0 0 1 1 -12
+p469
+aVCharlie Bell MIL 01/10/2007 MIL vs. TOR L 41 4 2 11 18.2 0 5 0.0 0 0 - 1 4 5 1 0 0 3 4 -16
+p470
+aVDamir Markota MIL 01/10/2007 MIL vs. TOR L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p471
+aVDan Gadzuric MIL 01/10/2007 MIL vs. TOR L 10 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p472
+aVRuben Patterson MIL 01/10/2007 MIL vs. TOR L 40 17 7 15 46.7 0 0 - 3 7 42.9 2 1 3 1 0 0 4 2 -5
+p473
+aVBrian Skinner MIL 01/10/2007 MIL vs. TOR L 19 10 3 4 75.0 0 0 - 4 4 100.0 1 4 5 3 0 1 0 1 -12
+p474
+aVDavid Noel MIL 01/10/2007 MIL vs. TOR L 17 2 1 4 25.0 0 0 - 0 0 - 2 3 5 3 1 1 1 1 2
+p475
+aVDavid Noel MIL 01/08/2007 MIL @ DEN L 18 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 3 1 0 1 3 -11
+p476
+aVBrian Skinner MIL 01/08/2007 MIL @ DEN L 25 2 1 3 33.3 0 0 - 0 0 - 2 5 7 1 0 0 1 1 -3
+p477
+aVAndrew Bogut MIL 01/08/2007 MIL @ DEN L 27 9 3 15 20.0 0 0 - 3 4 75.0 3 8 11 1 2 0 0 6 -1
+p478
+aVMo Williams MIL 01/08/2007 MIL @ DEN L 22 9 4 11 36.4 0 0 - 1 3 33.3 0 3 3 3 0 0 2 1 -2
+p479
+aVRuben Patterson MIL 01/08/2007 MIL @ DEN L 37 29 13 21 61.9 0 0 - 3 6 50.0 7 5 12 7 4 0 2 3 -14
+p480
+aVCharlie Bell MIL 01/08/2007 MIL @ DEN L 37 8 3 12 25.0 0 3 0.0 2 2 100.0 0 1 1 2 0 0 1 3 -8
+p481
+aVLynn Greer MIL 01/08/2007 MIL @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p482
+aVDamir Markota MIL 01/08/2007 MIL @ DEN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p483
+aVErsan Ilyasova MIL 01/08/2007 MIL @ DEN L 24 15 5 10 50.0 1 5 20.0 4 4 100.0 0 3 3 0 1 0 0 3 0
+p484
+aVSteve Blake MIL 01/08/2007 MIL @ DEN L 33 11 4 12 33.3 3 6 50.0 0 0 - 2 3 5 7 0 1 1 5 -13
+p485
+aVDan Gadzuric MIL 01/08/2007 MIL @ DEN L 15 7 3 7 42.9 0 0 - 1 2 50.0 3 1 4 0 0 1 2 1 -8
+p486
+aVCharlie Bell MIL 01/05/2007 MIL vs. CLE L 37 3 1 6 16.7 1 3 33.3 0 0 - 1 1 2 5 1 0 1 1 -5
+p487
+aVRuben Patterson MIL 01/05/2007 MIL vs. CLE L 23 13 5 11 45.5 0 0 - 3 4 75.0 0 0 0 3 0 1 1 2 -4
+p488
+aVMichael Redd MIL 01/05/2007 MIL vs. CLE L 41 26 8 23 34.8 3 11 27.3 7 11 63.6 0 5 5 2 0 0 0 1 -12
+p489
+aVDan Gadzuric MIL 01/05/2007 MIL vs. CLE L 15 4 2 4 50.0 0 0 - 0 0 - 3 5 8 0 0 2 0 3 1
+p490
+aVSteve Blake MIL 01/05/2007 MIL vs. CLE L 16 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -8
+p491
+aVAndrew Bogut MIL 01/05/2007 MIL vs. CLE L 33 16 5 5 100.0 0 0 - 6 9 66.7 2 8 10 2 4 0 4 5 -3
+p492
+aVMo Williams MIL 01/05/2007 MIL vs. CLE L 40 11 5 18 27.8 1 3 33.3 0 0 - 0 3 3 4 1 0 1 4 -3
+p493
+aVBrian Skinner MIL 01/05/2007 MIL vs. CLE L 35 8 3 4 75.0 0 0 - 2 5 40.0 3 7 10 2 0 4 3 4 -11
+p494
+aVDan Gadzuric MIL 01/03/2007 MIL @ WAS L 15 10 5 6 83.3 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -5
+p495
+aVBrian Skinner MIL 01/03/2007 MIL @ WAS L 25 8 4 6 66.7 0 0 - 0 1 0.0 4 5 9 1 2 5 0 2 2
+p496
+aVRuben Patterson MIL 01/03/2007 MIL @ WAS L 23 12 5 9 55.6 0 0 - 2 3 66.7 3 3 6 4 1 0 3 1 -5
+p497
+aVMo Williams MIL 01/03/2007 MIL @ WAS L 43 24 10 20 50.0 2 6 33.3 2 2 100.0 1 6 7 5 4 0 3 1 -6
+p498
+aVMichael Redd MIL 01/03/2007 MIL @ WAS L 40 27 9 23 39.1 3 8 37.5 6 7 85.7 1 3 4 3 1 1 4 3 4
+p499
+aVAndrew Bogut MIL 01/03/2007 MIL @ WAS L 33 4 2 3 66.7 0 0 - 0 0 - 1 4 5 6 1 0 4 2 2
+p500
+aVCharlie Bell MIL 01/03/2007 MIL @ WAS L 42 14 6 17 35.3 2 11 18.2 0 2 0.0 1 4 5 5 1 0 3 2 -4
+p501
+aVSteve Blake MIL 01/03/2007 MIL @ WAS L 19 6 2 5 40.0 0 2 0.0 2 2 100.0 0 2 2 2 1 0 0 0 -3
+p502
+aVRuben Patterson MIL 12/30/2006 MIL vs. WAS W 28 21 9 13 69.2 0 0 - 3 5 60.0 4 3 7 4 0 1 1 2 9
+p503
+aVCharlie Bell MIL 12/30/2006 MIL vs. WAS W 33 19 8 13 61.5 3 7 42.9 0 0 - 0 2 2 4 0 0 1 3 14
+p504
+aVDavid Noel MIL 12/30/2006 MIL vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p505
+aVAndrew Bogut MIL 12/30/2006 MIL vs. WAS W 31 14 6 12 50.0 0 0 - 2 2 100.0 6 6 12 3 1 1 0 3 8
+p506
+aVBrian Skinner MIL 12/30/2006 MIL vs. WAS W 29 12 5 8 62.5 0 0 - 2 3 66.7 3 5 8 1 0 1 0 4 33
+p507
+aVSteve Blake MIL 12/30/2006 MIL vs. WAS W 30 7 3 8 37.5 1 4 25.0 0 0 - 0 2 2 7 0 0 1 2 -6
+p508
+aVErsan Ilyasova MIL 12/30/2006 MIL vs. WAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p509
+aVMo Williams MIL 12/30/2006 MIL vs. WAS W 35 16 7 17 41.2 1 5 20.0 1 1 100.0 0 8 8 9 3 0 2 1 19
+p510
+aVCharlie Villanueva MIL 12/30/2006 MIL vs. WAS W 3 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -10
+p511
+aVDamir Markota MIL 12/30/2006 MIL vs. WAS W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p512
+aVMichael Redd MIL 12/30/2006 MIL vs. WAS W 44 28 10 23 43.5 4 14 28.6 4 4 100.0 1 7 8 4 0 0 0 0 27
+p513
+aVBrian Skinner MIL 12/29/2006 MIL @ CLE L 10 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 3 -13
+p514
+aVDamir Markota MIL 12/29/2006 MIL @ CLE L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p515
+aVErsan Ilyasova MIL 12/29/2006 MIL @ CLE L 1 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p516
+aVDavid Noel MIL 12/29/2006 MIL @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p517
+aVRuben Patterson MIL 12/29/2006 MIL @ CLE L 36 17 6 13 46.2 0 0 - 5 10 50.0 8 2 10 4 1 0 4 5 9
+p518
+aVDan Gadzuric MIL 12/29/2006 MIL @ CLE L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 2 0 1 3 13
+p519
+aVMichael Redd MIL 12/29/2006 MIL @ CLE L 37 24 5 16 31.3 0 3 0.0 14 14 100.0 0 1 1 2 0 0 2 2 -17
+p520
+aVCharlie Villanueva MIL 12/29/2006 MIL @ CLE L 29 15 7 12 58.3 0 0 - 1 1 100.0 4 5 9 0 0 0 4 5 0
+p521
+aVAndrew Bogut MIL 12/29/2006 MIL @ CLE L 33 12 5 14 35.7 0 0 - 2 2 100.0 5 7 12 0 1 0 2 3 -23
+p522
+aVCharlie Bell MIL 12/29/2006 MIL @ CLE L 33 2 1 7 14.3 0 3 0.0 0 0 - 0 0 0 1 0 0 0 3 -14
+p523
+aVMo Williams MIL 12/29/2006 MIL @ CLE L 45 21 8 17 47.1 2 7 28.6 3 5 60.0 1 8 9 7 1 0 6 2 -13
+p524
+aVChris McCray MIL 12/29/2006 MIL @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p525
+aVDamir Markota MIL 12/27/2006 MIL @ MEM W 3 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p526
+aVAndrew Bogut MIL 12/27/2006 MIL @ MEM W 29 20 10 13 76.9 0 0 - 0 2 0.0 4 3 7 3 0 0 2 2 16
+p527
+aVMo Williams MIL 12/27/2006 MIL @ MEM W 39 18 7 12 58.3 2 2 100.0 2 3 66.7 0 1 1 6 2 0 2 2 21
+p528
+aVMichael Redd MIL 12/27/2006 MIL @ MEM W 31 20 6 17 35.3 3 7 42.9 5 6 83.3 2 3 5 4 1 0 1 0 14
+p529
+aVCharlie Bell MIL 12/27/2006 MIL @ MEM W 41 11 3 9 33.3 3 4 75.0 2 2 100.0 1 3 4 6 3 0 0 4 14
+p530
+aVRuben Patterson MIL 12/27/2006 MIL @ MEM W 22 19 8 12 66.7 0 1 0.0 3 3 100.0 3 3 6 5 0 0 1 2 23
+p531
+aVErsan Ilyasova MIL 12/27/2006 MIL @ MEM W 4 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 -9
+p532
+aVDavid Noel MIL 12/27/2006 MIL @ MEM W 9 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 -3
+p533
+aVBrian Skinner MIL 12/27/2006 MIL @ MEM W 29 2 0 4 0.0 0 0 - 2 2 100.0 4 7 11 0 0 2 2 5 6
+p534
+aVDan Gadzuric MIL 12/27/2006 MIL @ MEM W 6 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 2
+p535
+aVChris McCray MIL 12/27/2006 MIL @ MEM W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -7
+p536
+aVCharlie Villanueva MIL 12/27/2006 MIL @ MEM W 21 6 3 8 37.5 0 1 0.0 0 0 - 1 6 7 1 1 0 2 2 8
+p537
+aVMichael Redd MIL 12/26/2006 MIL @ SAS W 39 36 14 22 63.6 0 3 0.0 8 8 100.0 1 6 7 2 2 0 0 0 14
+p538
+aVBrian Skinner MIL 12/26/2006 MIL @ SAS W 24 10 5 10 50.0 0 0 - 0 1 0.0 0 2 2 1 0 1 0 4 -9
+p539
+aVCharlie Bell MIL 12/26/2006 MIL @ SAS W 39 10 5 10 50.0 0 3 0.0 0 0 - 1 3 4 4 0 0 0 3 0
+p540
+aVCharlie Villanueva MIL 12/26/2006 MIL @ SAS W 21 8 3 6 50.0 0 1 0.0 2 2 100.0 0 4 4 1 1 2 1 4 1
+p541
+aVDan Gadzuric MIL 12/26/2006 MIL @ SAS W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -1
+p542
+aVAndrew Bogut MIL 12/26/2006 MIL @ SAS W 39 14 7 11 63.6 0 0 - 0 0 - 3 8 11 3 0 1 5 4 12
+p543
+aVMo Williams MIL 12/26/2006 MIL @ SAS W 38 23 10 18 55.6 1 4 25.0 2 2 100.0 0 5 5 4 3 1 3 4 7
+p544
+aVRuben Patterson MIL 12/26/2006 MIL @ SAS W 27 13 6 7 85.7 0 0 - 1 1 100.0 3 2 5 3 0 0 1 3 14
+p545
+aVSteve Blake MIL 12/26/2006 MIL @ SAS W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p546
+aVMo Williams MIL 12/23/2006 MIL vs. NJN W 38 32 11 20 55.0 2 8 25.0 8 8 100.0 0 8 8 8 2 0 4 1 11
+p547
+aVSteve Blake MIL 12/23/2006 MIL vs. NJN W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 2 1 -1
+p548
+aVDan Gadzuric MIL 12/23/2006 MIL vs. NJN W 13 8 4 4 100.0 0 0 - 0 3 0.0 2 3 5 1 0 0 0 1 -4
+p549
+aVCharlie Villanueva MIL 12/23/2006 MIL vs. NJN W 23 9 3 8 37.5 0 1 0.0 3 4 75.0 0 3 3 0 0 0 0 4 -9
+p550
+aVCharlie Bell MIL 12/23/2006 MIL vs. NJN W 36 20 8 15 53.3 2 5 40.0 2 4 50.0 1 2 3 4 3 0 3 3 18
+p551
+aVBrian Skinner MIL 12/23/2006 MIL vs. NJN W 24 3 0 0 - 0 0 - 3 4 75.0 0 7 7 3 0 2 2 2 18
+p552
+aVAndrew Bogut MIL 12/23/2006 MIL vs. NJN W 34 18 7 8 87.5 0 0 - 4 4 100.0 1 9 10 5 1 1 1 5 14
+p553
+aVRuben Patterson MIL 12/23/2006 MIL vs. NJN W 17 2 0 3 0.0 0 0 - 2 4 50.0 2 1 3 3 1 1 1 1 1
+p554
+aVMichael Redd MIL 12/23/2006 MIL vs. NJN W 39 21 9 17 52.9 1 5 20.0 2 3 66.7 0 3 3 2 0 0 1 1 7
+p555
+aVCharlie Villanueva MIL 12/22/2006 MIL @ MIN W 18 9 3 9 33.3 1 3 33.3 2 2 100.0 1 2 3 0 0 0 1 1 -8
+p556
+aVDavid Noel MIL 12/22/2006 MIL @ MIN W 16 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -3
+p557
+aVSteve Blake MIL 12/22/2006 MIL @ MIN W 15 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 -3
+p558
+aVMo Williams MIL 12/22/2006 MIL @ MIN W 32 26 10 21 47.6 1 3 33.3 5 6 83.3 2 5 7 2 1 0 3 4 9
+p559
+aVAndrew Bogut MIL 12/22/2006 MIL @ MIN W 38 7 3 8 37.5 0 0 - 1 2 50.0 2 8 10 7 0 2 2 4 3
+p560
+aVBrian Skinner MIL 12/22/2006 MIL @ MIN W 25 6 3 6 50.0 0 0 - 0 0 - 4 6 10 0 0 0 0 4 12
+p561
+aVCharlie Bell MIL 12/22/2006 MIL @ MIN W 42 28 10 19 52.6 2 5 40.0 6 7 85.7 0 1 1 2 4 0 0 2 11
+p562
+aVMichael Redd MIL 12/22/2006 MIL @ MIN W 39 29 11 25 44.0 2 6 33.3 5 7 71.4 3 0 3 4 2 0 2 3 4
+p563
+aVDan Gadzuric MIL 12/22/2006 MIL @ MIN W 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 6 5
+p564
+aVSteve Blake MIL 12/20/2006 MIL vs. MIA W 13 6 2 5 40.0 2 3 66.7 0 0 - 1 0 1 2 0 0 0 0 -11
+p565
+aVDavid Noel MIL 12/20/2006 MIL vs. MIA W 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 4
+p566
+aVDan Gadzuric MIL 12/20/2006 MIL vs. MIA W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -2
+p567
+aVDamir Markota MIL 12/20/2006 MIL vs. MIA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p568
+aVMichael Redd MIL 12/20/2006 MIL vs. MIA W 34 28 9 16 56.3 3 7 42.9 7 7 100.0 1 3 4 2 1 0 3 1 22
+p569
+aVErsan Ilyasova MIL 12/20/2006 MIL vs. MIA W 4 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p570
+aVCharlie Villanueva MIL 12/20/2006 MIL vs. MIA W 21 16 5 8 62.5 2 2 100.0 4 4 100.0 1 6 7 2 0 0 0 2 12
+p571
+aVMo Williams MIL 12/20/2006 MIL vs. MIA W 37 19 8 16 50.0 2 2 100.0 1 2 50.0 1 10 11 10 0 0 5 4 39
+p572
+aVRuben Patterson MIL 12/20/2006 MIL vs. MIA W 23 6 1 8 12.5 0 1 0.0 4 6 66.7 1 1 2 4 2 0 0 1 16
+p573
+aVCharlie Bell MIL 12/20/2006 MIL vs. MIA W 25 16 6 10 60.0 4 6 66.7 0 0 - 0 0 0 4 1 0 0 3 7
+p574
+aVAndrew Bogut MIL 12/20/2006 MIL vs. MIA W 28 17 6 7 85.7 0 0 - 5 6 83.3 2 4 6 5 0 3 1 1 19
+p575
+aVBrian Skinner MIL 12/20/2006 MIL vs. MIA W 28 4 2 4 50.0 0 0 - 0 0 - 0 7 7 1 1 1 1 3 28
+p576
+aVSteve Blake MIL 12/16/2006 MIL vs. MIN W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 4
+p577
+aVDavid Noel MIL 12/16/2006 MIL vs. MIN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p578
+aVMichael Redd MIL 12/16/2006 MIL vs. MIN W 36 28 9 19 47.4 4 8 50.0 6 6 100.0 1 1 2 3 0 0 2 3 3
+p579
+aVMo Williams MIL 12/16/2006 MIL vs. MIN W 41 28 10 18 55.6 3 4 75.0 5 7 71.4 0 3 3 9 1 0 2 4 3
+p580
+aVDan Gadzuric MIL 12/16/2006 MIL vs. MIN W 15 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 1 2 3 0
+p581
+aVAndrew Bogut MIL 12/16/2006 MIL vs. MIN W 34 16 7 12 58.3 0 0 - 2 4 50.0 5 6 11 3 0 1 4 3 5
+p582
+aVBrian Skinner MIL 12/16/2006 MIL vs. MIN W 37 8 4 7 57.1 0 0 - 0 0 - 4 2 6 2 0 1 1 5 0
+p583
+aVRuben Patterson MIL 12/16/2006 MIL vs. MIN W 32 4 2 8 25.0 0 0 - 0 0 - 2 7 9 6 0 1 3 2 0
+p584
+aVCharlie Bell MIL 12/16/2006 MIL vs. MIN W 34 16 7 15 46.7 0 4 0.0 2 2 100.0 1 3 4 2 2 0 1 2 3
+p585
+aVDavid Noel MIL 12/15/2006 MIL @ CHI L 12 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 1
+p586
+aVRuben Patterson MIL 12/15/2006 MIL @ CHI L 37 21 9 17 52.9 0 0 - 3 10 30.0 7 6 13 7 2 0 0 4 -9
+p587
+aVMo Williams MIL 12/15/2006 MIL @ CHI L 32 18 8 15 53.3 1 2 50.0 1 1 100.0 2 3 5 5 2 0 6 3 -1
+p588
+aVAndrew Bogut MIL 12/15/2006 MIL @ CHI L 28 4 2 5 40.0 0 0 - 0 0 - 1 5 6 2 0 0 0 4 -4
+p589
+aVCharlie Bell MIL 12/15/2006 MIL @ CHI L 34 13 4 9 44.4 3 5 60.0 2 2 100.0 0 1 1 5 6 1 1 5 4
+p590
+aVDan Gadzuric MIL 12/15/2006 MIL @ CHI L 14 4 1 2 50.0 0 0 - 2 4 50.0 2 1 3 0 1 0 2 6 0
+p591
+aVSteve Blake MIL 12/15/2006 MIL @ CHI L 14 12 4 6 66.7 2 3 66.7 2 4 50.0 0 0 0 1 0 1 2 3 -10
+p592
+aVCharlie Villanueva MIL 12/15/2006 MIL @ CHI L 22 4 2 6 33.3 0 1 0.0 0 2 0.0 2 4 6 1 0 0 3 4 0
+p593
+aVMichael Redd MIL 12/15/2006 MIL @ CHI L 39 32 12 24 50.0 3 7 42.9 5 9 55.6 0 4 4 1 3 0 0 0 -4
+p594
+aVBrian Skinner MIL 12/15/2006 MIL @ CHI L 8 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -7
+p595
+aVCharlie Villanueva MIL 12/13/2006 MIL @ NJN L 39 23 9 16 56.3 0 0 - 5 5 100.0 1 4 5 1 3 1 2 2 -10
+p596
+aVDamir Markota MIL 12/13/2006 MIL @ NJN L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p597
+aVRuben Patterson MIL 12/13/2006 MIL @ NJN L 41 16 6 10 60.0 0 0 - 4 9 44.4 4 3 7 4 2 2 4 3 -10
+p598
+aVDan Gadzuric MIL 12/13/2006 MIL @ NJN L 6 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 0 0 1 2 -5
+p599
+aVCharlie Bell MIL 12/13/2006 MIL @ NJN L 20 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 2 2 0 0 2 -5
+p600
+aVSteve Blake MIL 12/13/2006 MIL @ NJN L 11 4 1 2 50.0 1 2 50.0 1 3 33.3 0 0 0 2 0 0 1 1 -10
+p601
+aVErsan Ilyasova MIL 12/13/2006 MIL @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p602
+aVAndrew Bogut MIL 12/13/2006 MIL @ NJN L 36 15 6 7 85.7 0 0 - 3 4 75.0 5 7 12 5 1 1 4 3 -3
+p603
+aVDavid Noel MIL 12/13/2006 MIL @ NJN L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -10
+p604
+aVBrian Skinner MIL 12/13/2006 MIL @ NJN L 5 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 2 -3
+p605
+aVMo Williams MIL 12/13/2006 MIL @ NJN L 37 17 5 12 41.7 2 5 40.0 5 6 83.3 1 3 4 6 0 0 1 3 1
+p606
+aVMichael Redd MIL 12/13/2006 MIL @ NJN L 34 9 3 13 23.1 0 4 0.0 3 6 50.0 0 1 1 5 2 0 5 3 -6
+p607
+aVMichael Redd MIL 12/12/2006 MIL vs. SEA W 39 22 6 16 37.5 0 2 0.0 10 10 100.0 0 1 1 0 0 0 4 1 8
+p608
+aVMo Williams MIL 12/12/2006 MIL vs. SEA W 31 12 5 9 55.6 0 1 0.0 2 2 100.0 1 4 5 9 3 0 4 4 4
+p609
+aVDan Gadzuric MIL 12/12/2006 MIL vs. SEA W 7 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 0 -5
+p610
+aVCharlie Villanueva MIL 12/12/2006 MIL vs. SEA W 33 15 6 13 46.2 0 2 0.0 3 3 100.0 1 5 6 0 1 0 4 4 2
+p611
+aVSteve Blake MIL 12/12/2006 MIL vs. SEA W 17 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 0 -3
+p612
+aVAndrew Bogut MIL 12/12/2006 MIL vs. SEA W 39 16 7 8 87.5 0 0 - 2 3 66.7 3 6 9 6 0 0 2 1 7
+p613
+aVDavid Noel MIL 12/12/2006 MIL vs. SEA W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -7
+p614
+aVRuben Patterson MIL 12/12/2006 MIL vs. SEA W 38 21 8 10 80.0 1 1 100.0 4 5 80.0 1 3 4 4 4 0 2 1 13
+p615
+aVCharlie Bell MIL 12/12/2006 MIL vs. SEA W 21 2 1 8 12.5 0 5 0.0 0 0 - 1 1 2 3 1 0 0 4 -8
+p616
+aVBrian Skinner MIL 12/12/2006 MIL vs. SEA W 8 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -6
+p617
+aVAndrew Bogut MIL 12/09/2006 MIL @ NYK L 16 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 0 0 1 3 -13
+p618
+aVDavid Noel MIL 12/09/2006 MIL @ NYK L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p619
+aVCharlie Villanueva MIL 12/09/2006 MIL @ NYK L 26 24 11 16 68.8 0 2 0.0 2 2 100.0 3 5 8 0 0 0 0 1 12
+p620
+aVCharlie Bell MIL 12/09/2006 MIL @ NYK L 26 6 3 7 42.9 0 1 0.0 0 0 - 1 0 1 1 1 0 2 3 -20
+p621
+aVSteve Blake MIL 12/09/2006 MIL @ NYK L 26 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 3 9
+p622
+aVMichael Redd MIL 12/09/2006 MIL @ NYK L 41 22 8 22 36.4 1 5 20.0 5 8 62.5 0 2 2 1 1 0 2 0 -15
+p623
+aVRuben Patterson MIL 12/09/2006 MIL @ NYK L 23 6 3 7 42.9 0 0 - 0 0 - 2 2 4 2 0 0 1 0 -20
+p624
+aVMo Williams MIL 12/09/2006 MIL @ NYK L 43 33 14 22 63.6 4 6 66.7 1 1 100.0 0 6 6 9 1 0 1 4 -2
+p625
+aVBrian Skinner MIL 12/09/2006 MIL @ NYK L 13 0 0 2 0.0 0 0 - 0 0 - 3 0 3 2 0 0 0 2 8
+p626
+aVDan Gadzuric MIL 12/09/2006 MIL @ NYK L 20 11 5 7 71.4 0 0 - 1 1 100.0 2 4 6 0 0 0 2 4 -3
+p627
+aVRuben Patterson MIL 12/08/2006 MIL vs. MEM W 31 30 13 18 72.2 0 0 - 4 7 57.1 4 3 7 5 2 0 1 5 17
+p628
+aVCharlie Bell MIL 12/08/2006 MIL vs. MEM W 35 7 3 7 42.9 1 3 33.3 0 0 - 1 3 4 4 0 0 1 3 26
+p629
+aVMichael Redd MIL 12/08/2006 MIL vs. MEM W 32 25 8 16 50.0 4 9 44.4 5 6 83.3 0 4 4 1 0 0 0 1 16
+p630
+aVDamir Markota MIL 12/08/2006 MIL vs. MEM W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p631
+aVCharlie Villanueva MIL 12/08/2006 MIL vs. MEM W 17 8 3 6 50.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 0 3 -11
+p632
+aVSteve Blake MIL 12/08/2006 MIL vs. MEM W 20 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 1 -27
+p633
+aVDavid Noel MIL 12/08/2006 MIL vs. MEM W 20 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 1 2 0 1 3 -9
+p634
+aVAndrew Bogut MIL 12/08/2006 MIL vs. MEM W 30 11 5 7 71.4 0 0 - 1 2 50.0 2 3 5 3 3 0 2 3 21
+p635
+aVDan Gadzuric MIL 12/08/2006 MIL vs. MEM W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 1 2 4 -6
+p636
+aVBrian Skinner MIL 12/08/2006 MIL vs. MEM W 6 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -10
+p637
+aVErsan Ilyasova MIL 12/08/2006 MIL vs. MEM W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -11
+p638
+aVMo Williams MIL 12/08/2006 MIL vs. MEM W 34 11 5 10 50.0 0 2 0.0 1 1 100.0 1 2 3 5 1 0 3 1 23
+p639
+aVRuben Patterson MIL 12/06/2006 MIL vs. POR W 44 26 13 22 59.1 0 0 - 0 1 0.0 5 2 7 2 2 0 1 6 2
+p640
+aVAndrew Bogut MIL 12/06/2006 MIL vs. POR W 39 6 3 5 60.0 0 0 - 0 0 - 3 10 13 3 0 0 3 4 4
+p641
+aVSteve Blake MIL 12/06/2006 MIL vs. POR W 26 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 1 0 0 3 1 11
+p642
+aVErsan Ilyasova MIL 12/06/2006 MIL vs. POR W 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 5
+p643
+aVCharlie Bell MIL 12/06/2006 MIL vs. POR W 44 6 1 8 12.5 0 2 0.0 4 4 100.0 1 1 2 6 1 0 1 1 9
+p644
+aVDan Gadzuric MIL 12/06/2006 MIL vs. POR W 17 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 1 0 1 2 3 4
+p645
+aVMichael Redd MIL 12/06/2006 MIL vs. POR W 43 33 11 20 55.0 1 6 16.7 10 10 100.0 2 5 7 2 0 1 1 1 8
+p646
+aVMo Williams MIL 12/06/2006 MIL vs. POR W 43 20 6 16 37.5 0 3 0.0 8 9 88.9 0 6 6 7 2 0 0 2 -3
+p647
+aVDamir Markota MIL 12/04/2006 MIL @ UTA L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 3
+p648
+aVMichael Redd MIL 12/04/2006 MIL @ UTA L 34 18 6 15 40.0 2 3 66.7 4 5 80.0 0 4 4 2 3 0 2 0 -21
+p649
+aVDavid Noel MIL 12/04/2006 MIL @ UTA L 23 7 1 4 25.0 0 1 0.0 5 6 83.3 3 0 3 1 2 0 1 1 5
+p650
+aVMo Williams MIL 12/04/2006 MIL @ UTA L 21 4 2 10 20.0 0 2 0.0 0 0 - 0 2 2 5 3 0 0 2 -8
+p651
+aVBrian Skinner MIL 12/04/2006 MIL @ UTA L 16 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 2 0 4 1
+p652
+aVChris McCray MIL 12/04/2006 MIL @ UTA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p653
+aVSteve Blake MIL 12/04/2006 MIL @ UTA L 27 4 2 6 33.3 0 3 0.0 0 0 - 1 3 4 3 0 0 1 3 -5
+p654
+aVAndrew Bogut MIL 12/04/2006 MIL @ UTA L 25 6 3 8 37.5 0 0 - 0 0 - 2 6 8 0 0 0 3 1 -18
+p655
+aVDan Gadzuric MIL 12/04/2006 MIL @ UTA L 13 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 1 0 0 1 4 -1
+p656
+aVErsan Ilyasova MIL 12/04/2006 MIL @ UTA L 16 9 3 9 33.3 3 5 60.0 0 0 - 1 3 4 2 0 0 0 3 1
+p657
+aVCharlie Bell MIL 12/04/2006 MIL @ UTA L 35 23 8 16 50.0 4 9 44.4 3 6 50.0 0 0 0 0 1 1 2 1 -13
+p658
+aVRuben Patterson MIL 12/04/2006 MIL @ UTA L 22 9 4 8 50.0 0 1 0.0 1 2 50.0 3 2 5 2 0 0 1 2 -12
+p659
+aVMichael Redd MIL 12/02/2006 MIL @ GSW W 40 24 5 11 45.5 1 5 20.0 13 17 76.5 3 3 6 0 2 0 5 1 7
+p660
+aVAndrew Bogut MIL 12/02/2006 MIL @ GSW W 33 11 5 7 71.4 0 0 - 1 2 50.0 3 5 8 3 1 1 3 4 10
+p661
+aVDavid Noel MIL 12/02/2006 MIL @ GSW W 8 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 3 1 0 1 0 3
+p662
+aVRuben Patterson MIL 12/02/2006 MIL @ GSW W 32 18 8 13 61.5 0 0 - 2 3 66.7 2 6 8 3 0 0 1 4 -2
+p663
+aVMo Williams MIL 12/02/2006 MIL @ GSW W 37 10 3 19 15.8 0 6 0.0 4 5 80.0 1 4 5 7 1 0 3 3 1
+p664
+aVErsan Ilyasova MIL 12/02/2006 MIL @ GSW W 15 7 2 7 28.6 1 2 50.0 2 3 66.7 4 1 5 2 0 0 2 3 2
+p665
+aVDan Gadzuric MIL 12/02/2006 MIL @ GSW W 16 4 2 2 100.0 0 0 - 0 2 0.0 2 3 5 0 0 0 1 0 -5
+p666
+aVCharlie Bell MIL 12/02/2006 MIL @ GSW W 41 28 11 20 55.0 5 10 50.0 1 2 50.0 0 1 1 5 3 0 2 2 1
+p667
+aVSteve Blake MIL 12/02/2006 MIL @ GSW W 18 8 3 4 75.0 2 3 66.7 0 0 - 0 3 3 6 0 0 1 2 8
+p668
+aVDavid Noel MIL 12/01/2006 MIL @ PHX L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p669
+aVDan Gadzuric MIL 12/01/2006 MIL @ PHX L 15 10 4 6 66.7 0 0 - 2 3 66.7 1 1 2 0 1 0 0 1 6
+p670
+aVErsan Ilyasova MIL 12/01/2006 MIL @ PHX L 16 2 0 6 0.0 0 2 0.0 2 2 100.0 1 5 6 0 0 0 1 6 1
+p671
+aVMichael Redd MIL 12/01/2006 MIL @ PHX L 44 37 12 20 60.0 1 3 33.3 12 15 80.0 2 2 4 3 1 1 2 2 -4
+p672
+aVMo Williams MIL 12/01/2006 MIL @ PHX L 40 31 15 22 68.2 1 2 50.0 0 1 0.0 2 8 10 5 0 1 4 1 -5
+p673
+aVRuben Patterson MIL 12/01/2006 MIL @ PHX L 31 16 8 15 53.3 0 0 - 0 3 0.0 3 2 5 3 3 0 2 6 -6
+p674
+aVAndrew Bogut MIL 12/01/2006 MIL @ PHX L 33 8 3 9 33.3 1 1 100.0 1 2 50.0 3 10 13 4 0 0 0 4 -12
+p675
+aVSteve Blake MIL 12/01/2006 MIL @ PHX L 20 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 1 0 3 3 13
+p676
+aVCharlie Bell MIL 12/01/2006 MIL @ PHX L 39 9 4 10 40.0 1 3 33.3 0 0 - 2 0 2 2 1 0 1 3 -19
+p677
+aVRuben Patterson MIL 11/28/2006 MIL @ LAL W 28 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 2 1 0 2 2 7
+p678
+aVMichael Redd MIL 11/28/2006 MIL @ LAL W 43 45 16 30 53.3 5 9 55.6 8 10 80.0 2 6 8 5 4 1 3 4 4
+p679
+aVMo Williams MIL 11/28/2006 MIL @ LAL W 36 22 8 14 57.1 1 2 50.0 5 5 100.0 1 2 3 6 1 0 6 3 7
+p680
+aVErsan Ilyasova MIL 11/28/2006 MIL @ LAL W 27 9 3 6 50.0 1 2 50.0 2 2 100.0 0 5 5 3 0 1 1 2 -1
+p681
+aVSteve Blake MIL 11/28/2006 MIL @ LAL W 20 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 1
+p682
+aVDan Gadzuric MIL 11/28/2006 MIL @ LAL W 16 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 1 0 4 10
+p683
+aVAndrew Bogut MIL 11/28/2006 MIL @ LAL W 31 8 4 11 36.4 0 0 - 0 0 - 2 7 9 3 2 0 2 4 -7
+p684
+aVCharlie Bell MIL 11/28/2006 MIL @ LAL W 39 14 7 12 58.3 0 3 0.0 0 0 - 1 1 2 3 1 0 2 1 -1
+p685
+aVDamir Markota MIL 11/25/2006 MIL vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p686
+aVMichael Redd MIL 11/25/2006 MIL vs. BOS L 42 24 8 16 50.0 1 3 33.3 7 8 87.5 1 2 3 2 1 0 1 1 -11
+p687
+aVErsan Ilyasova MIL 11/25/2006 MIL vs. BOS L 13 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 2 2 0 1 3 -9
+p688
+aVRuben Patterson MIL 11/25/2006 MIL vs. BOS L 30 15 6 8 75.0 0 0 - 3 3 100.0 1 0 1 3 0 0 0 5 -6
+p689
+aVChris McCray MIL 11/25/2006 MIL vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p690
+aVBrian Skinner MIL 11/25/2006 MIL vs. BOS L 12 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 1 0 0 0 1 -4
+p691
+aVMo Williams MIL 11/25/2006 MIL vs. BOS L 36 9 4 13 30.8 1 4 25.0 0 2 0.0 1 4 5 5 0 0 4 4 -23
+p692
+aVAndrew Bogut MIL 11/25/2006 MIL vs. BOS L 38 18 7 12 58.3 0 0 - 4 4 100.0 2 6 8 1 2 0 4 2 -18
+p693
+aVSteve Blake MIL 11/25/2006 MIL vs. BOS L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 3 0 0 0 1 11
+p694
+aVCharlie Bell MIL 11/25/2006 MIL vs. BOS L 27 13 5 6 83.3 3 3 100.0 0 0 - 0 2 2 3 1 0 1 4 -4
+p695
+aVDan Gadzuric MIL 11/25/2006 MIL vs. BOS L 15 2 1 5 20.0 0 0 - 0 2 0.0 0 2 2 2 0 2 1 4 -2
+p696
+aVDavid Noel MIL 11/25/2006 MIL vs. BOS L 17 5 2 7 28.6 0 1 0.0 1 1 100.0 2 4 6 0 0 0 1 1 1
+p697
+aVDan Gadzuric MIL 11/22/2006 MIL vs. PHI W 21 4 1 3 33.3 0 0 - 2 2 100.0 3 4 7 0 0 2 1 3 0
+p698
+aVBrian Skinner MIL 11/22/2006 MIL vs. PHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -1
+p699
+aVCharlie Bell MIL 11/22/2006 MIL vs. PHI W 36 13 4 8 50.0 1 3 33.3 4 5 80.0 0 5 5 2 0 0 1 5 9
+p700
+aVRuben Patterson MIL 11/22/2006 MIL vs. PHI W 41 18 7 11 63.6 0 0 - 4 8 50.0 4 3 7 5 1 0 3 3 6
+p701
+aVSteve Blake MIL 11/22/2006 MIL vs. PHI W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 0 0 2 4 -6
+p702
+aVErsan Ilyasova MIL 11/22/2006 MIL vs. PHI W 17 4 1 6 16.7 0 1 0.0 2 2 100.0 1 1 2 1 0 0 2 3 -9
+p703
+aVMichael Redd MIL 11/22/2006 MIL vs. PHI W 46 32 9 26 34.6 2 5 40.0 12 15 80.0 1 4 5 2 2 0 2 2 6
+p704
+aVAndrew Bogut MIL 11/22/2006 MIL vs. PHI W 31 14 5 8 62.5 0 0 - 4 8 50.0 3 6 9 4 0 1 1 2 3
+p705
+aVDavid Noel MIL 11/22/2006 MIL vs. PHI W 32 11 4 6 66.7 1 3 33.3 2 2 100.0 0 2 2 7 1 2 0 4 12
+p706
+aVBrian Skinner MIL 11/21/2006 MIL @ IND L 12 0 0 3 0.0 0 0 - 0 0 - 0 4 4 1 0 1 1 1 -4
+p707
+aVErsan Ilyasova MIL 11/21/2006 MIL @ IND L 21 3 1 8 12.5 1 6 16.7 0 0 - 2 5 7 0 2 1 2 4 -11
+p708
+aVMichael Redd MIL 11/21/2006 MIL @ IND L 44 21 9 24 37.5 1 4 25.0 2 2 100.0 0 0 0 6 2 0 5 2 2
+p709
+aVDavid Noel MIL 11/21/2006 MIL @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p710
+aVCharlie Bell MIL 11/21/2006 MIL @ IND L 31 9 3 5 60.0 0 0 - 3 3 100.0 1 2 3 1 1 0 2 2 -4
+p711
+aVRuben Patterson MIL 11/21/2006 MIL @ IND L 22 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 0
+p712
+aVDan Gadzuric MIL 11/21/2006 MIL @ IND L 27 13 5 13 38.5 0 0 - 3 3 100.0 4 7 11 0 1 1 1 4 -2
+p713
+aVSteve Blake MIL 11/21/2006 MIL @ IND L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -6
+p714
+aVAndrew Bogut MIL 11/21/2006 MIL @ IND L 33 14 7 14 50.0 0 0 - 0 0 - 3 5 8 1 0 0 3 2 -1
+p715
+aVMo Williams MIL 11/21/2006 MIL @ IND L 37 22 7 12 58.3 2 3 66.7 6 6 100.0 0 5 5 9 0 0 0 2 1
+p716
+aVBrian Skinner MIL 11/18/2006 MIL vs. IND L 23 5 1 4 25.0 0 0 - 3 5 60.0 2 5 7 1 0 3 0 4 4
+p717
+aVMichael Redd MIL 11/18/2006 MIL vs. IND L 37 21 6 14 42.9 1 3 33.3 8 10 80.0 0 5 5 0 1 1 2 2 4
+p718
+aVMo Williams MIL 11/18/2006 MIL vs. IND L 32 19 6 16 37.5 0 1 0.0 7 8 87.5 1 8 9 11 0 0 4 5 8
+p719
+aVDan Gadzuric MIL 11/18/2006 MIL vs. IND L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -2
+p720
+aVDavid Noel MIL 11/18/2006 MIL vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p721
+aVAndrew Bogut MIL 11/18/2006 MIL vs. IND L 30 14 6 10 60.0 0 0 - 2 2 100.0 3 9 12 2 0 0 1 5 1
+p722
+aVRuben Patterson MIL 11/18/2006 MIL vs. IND L 37 12 5 9 55.6 0 0 - 2 3 66.7 0 4 4 2 1 0 3 2 -3
+p723
+aVSteve Blake MIL 11/18/2006 MIL vs. IND L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -8
+p724
+aVCharlie Bell MIL 11/18/2006 MIL vs. IND L 34 11 4 12 33.3 3 6 50.0 0 1 0.0 2 1 3 4 1 0 2 3 -3
+p725
+aVErsan Ilyasova MIL 11/18/2006 MIL vs. IND L 23 12 5 6 83.3 2 2 100.0 0 0 - 1 1 2 0 2 0 2 5 -11
+p726
+aVErsan Ilyasova MIL 11/15/2006 MIL @ NJN L 8 6 3 10 30.0 0 4 0.0 0 0 - 3 2 5 1 0 0 1 3 -11
+p727
+aVRuben Patterson MIL 11/15/2006 MIL @ NJN L 23 15 5 7 71.4 0 0 - 5 5 100.0 2 3 5 2 1 0 4 3 -16
+p728
+aVCharlie Bell MIL 11/15/2006 MIL @ NJN L 7 9 3 10 30.0 2 7 28.6 1 2 50.0 0 3 3 4 1 0 1 3 -10
+p729
+aVChris McCray MIL 11/15/2006 MIL @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p730
+aVAndrew Bogut MIL 11/15/2006 MIL @ NJN L 16 0 0 4 0.0 0 0 - 0 2 0.0 0 4 4 4 3 0 2 3 -9
+p731
+aVDan Gadzuric MIL 11/15/2006 MIL @ NJN L 10 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 2 0 0 2 -9
+p732
+aVMichael Redd MIL 11/15/2006 MIL @ NJN L 20 25 7 19 36.8 3 7 42.9 8 9 88.9 1 1 2 2 1 0 5 2 -1
+p733
+aVDavid Noel MIL 11/15/2006 MIL @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p734
+aVBrian Skinner MIL 11/15/2006 MIL @ NJN L 21 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 0 2 4 -2
+p735
+aVSteve Blake MIL 11/15/2006 MIL @ NJN L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 2
+p736
+aVDamir Markota MIL 11/15/2006 MIL @ NJN L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p737
+aVMo Williams MIL 11/15/2006 MIL @ NJN L 25 26 11 20 55.0 2 6 33.3 2 2 100.0 0 4 4 4 2 0 4 3 -9
+p738
+aVDan Gadzuric MIL 11/14/2006 MIL @ ATL W 11 6 3 4 75.0 0 0 - 0 1 0.0 1 0 1 0 0 0 1 4 -12
+p739
+aVBrian Skinner MIL 11/14/2006 MIL @ ATL W 13 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 1 0 5 -2
+p740
+aVMichael Redd MIL 11/14/2006 MIL @ ATL W 43 30 10 20 50.0 1 5 20.0 9 13 69.2 1 6 7 1 2 0 0 2 0
+p741
+aVMo Williams MIL 11/14/2006 MIL @ ATL W 40 15 6 14 42.9 1 3 33.3 2 2 100.0 1 3 4 6 0 0 4 4 22
+p742
+aVRuben Patterson MIL 11/14/2006 MIL @ ATL W 34 16 7 13 53.8 0 0 - 2 3 66.7 2 3 5 0 2 0 3 4 22
+p743
+aVCharlie Villanueva MIL 11/14/2006 MIL @ ATL W 15 12 3 3 100.0 1 1 100.0 5 5 100.0 0 0 0 1 1 0 2 1 12
+p744
+aVSteve Blake MIL 11/14/2006 MIL @ ATL W 8 2 0 1 0.0 0 0 - 2 4 50.0 0 0 0 0 1 0 0 0 -20
+p745
+aVErsan Ilyasova MIL 11/14/2006 MIL @ ATL W 14 7 1 3 33.3 1 2 50.0 4 6 66.7 2 2 4 0 0 0 1 1 2
+p746
+aVAndrew Bogut MIL 11/14/2006 MIL @ ATL W 40 13 6 8 75.0 0 0 - 1 3 33.3 2 6 8 0 0 0 6 2 5
+p747
+aVCharlie Bell MIL 11/14/2006 MIL @ ATL W 22 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -19
+p748
+aVMo Williams MIL 11/11/2006 MIL vs. UTA L 28 4 2 12 16.7 0 2 0.0 0 0 - 1 1 2 8 1 0 0 0 2
+p749
+aVSteve Blake MIL 11/11/2006 MIL vs. UTA L 17 5 2 4 50.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 0 1 -12
+p750
+aVErsan Ilyasova MIL 11/11/2006 MIL vs. UTA L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 0
+p751
+aVMichael Redd MIL 11/11/2006 MIL vs. UTA L 46 57 18 32 56.3 6 12 50.0 15 17 88.2 0 2 2 0 3 1 3 2 2
+p752
+aVRuben Patterson MIL 11/11/2006 MIL vs. UTA L 34 18 8 9 88.9 0 0 - 2 2 100.0 1 3 4 3 1 0 4 5 7
+p753
+aVDan Gadzuric MIL 11/11/2006 MIL vs. UTA L 7 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 5 -9
+p754
+aVAndrew Bogut MIL 11/11/2006 MIL vs. UTA L 36 9 4 8 50.0 0 0 - 1 3 33.3 2 5 7 6 2 0 3 3 -6
+p755
+aVCharlie Villanueva MIL 11/11/2006 MIL vs. UTA L 21 4 1 6 16.7 0 0 - 2 4 50.0 2 2 4 0 2 0 1 1 1
+p756
+aVBrian Skinner MIL 11/11/2006 MIL vs. UTA L 21 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 1 2 0 1 6
+p757
+aVCharlie Bell MIL 11/11/2006 MIL vs. UTA L 23 11 4 8 50.0 2 5 40.0 1 2 50.0 0 1 1 4 0 0 0 4 -1
+p758
+aVMo Williams MIL 11/10/2006 MIL @ WAS L 37 12 6 15 40.0 0 6 0.0 0 0 - 0 10 10 4 1 0 1 3 11
+p759
+aVMichael Redd MIL 11/10/2006 MIL @ WAS L 41 28 10 21 47.6 2 6 33.3 6 6 100.0 1 2 3 6 2 0 3 4 -6
+p760
+aVSteve Blake MIL 11/10/2006 MIL @ WAS L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 1 0 3 -15
+p761
+aVRuben Patterson MIL 11/10/2006 MIL @ WAS L 22 9 4 7 57.1 0 0 - 1 1 100.0 2 4 6 1 1 1 3 2 0
+p762
+aVAndrew Bogut MIL 11/10/2006 MIL @ WAS L 37 15 6 10 60.0 0 0 - 3 6 50.0 1 4 5 2 0 0 1 6 6
+p763
+aVCharlie Bell MIL 11/10/2006 MIL @ WAS L 30 8 2 7 28.6 1 3 33.3 3 3 100.0 2 2 4 5 1 0 1 5 -14
+p764
+aVCharlie Villanueva MIL 11/10/2006 MIL @ WAS L 31 18 7 14 50.0 1 1 100.0 3 4 75.0 1 6 7 4 0 0 3 5 3
+p765
+aVBrian Skinner MIL 11/10/2006 MIL @ WAS L 6 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -10
+p766
+aVDan Gadzuric MIL 11/10/2006 MIL @ WAS L 17 15 6 10 60.0 0 0 - 3 5 60.0 6 2 8 1 1 1 0 2 0
+p767
+aVBrian Skinner MIL 11/08/2006 MIL vs. HOU L 22 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 0 1 1 3 16
+p768
+aVDan Gadzuric MIL 11/08/2006 MIL vs. HOU L 24 5 2 4 50.0 0 0 - 1 4 25.0 3 9 12 2 0 1 1 3 16
+p769
+aVMo Williams MIL 11/08/2006 MIL vs. HOU L 30 9 4 10 40.0 1 2 50.0 0 0 - 0 2 2 2 0 0 2 2 -18
+p770
+aVCharlie Villanueva MIL 11/08/2006 MIL vs. HOU L 25 8 3 8 37.5 0 2 0.0 2 2 100.0 2 3 5 2 2 0 3 0 -22
+p771
+aVSteve Blake MIL 11/08/2006 MIL vs. HOU L 21 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 5 1 0 0 2 16
+p772
+aVMichael Redd MIL 11/08/2006 MIL vs. HOU L 45 34 11 21 52.4 0 0 - 12 14 85.7 0 2 2 0 1 0 2 1 -4
+p773
+aVCharlie Bell MIL 11/08/2006 MIL vs. HOU L 32 22 9 15 60.0 2 5 40.0 2 4 50.0 0 3 3 5 1 0 0 5 10
+p774
+aVAndrew Bogut MIL 11/08/2006 MIL vs. HOU L 22 7 2 7 28.6 0 0 - 3 4 75.0 0 3 3 4 0 1 1 3 -20
+p775
+aVRuben Patterson MIL 11/08/2006 MIL vs. HOU L 19 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 -14
+p776
+aVBrian Skinner MIL 11/06/2006 MIL @ CHI L 18 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 0 2 2 -14
+p777
+aVCharlie Bell MIL 11/06/2006 MIL @ CHI L 24 7 3 12 25.0 0 6 0.0 1 1 100.0 0 1 1 2 1 0 0 0 -24
+p778
+aVAndrew Bogut MIL 11/06/2006 MIL @ CHI L 30 6 1 5 20.0 0 1 0.0 4 4 100.0 0 3 3 3 0 1 1 2 -5
+p779
+aVDamir Markota MIL 11/06/2006 MIL @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p780
+aVMo Williams MIL 11/06/2006 MIL @ CHI L 32 6 3 13 23.1 0 4 0.0 0 0 - 1 5 6 6 0 0 5 5 -5
+p781
+aVErsan Ilyasova MIL 11/06/2006 MIL @ CHI L 4 4 2 3 66.7 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -5
+p782
+aVMichael Redd MIL 11/06/2006 MIL @ CHI L 40 30 9 20 45.0 2 3 66.7 10 10 100.0 1 2 3 0 2 0 2 0 -13
+p783
+aVDavid Noel MIL 11/06/2006 MIL @ CHI L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p784
+aVCharlie Villanueva MIL 11/06/2006 MIL @ CHI L 34 17 8 11 72.7 1 4 25.0 0 0 - 3 10 13 2 0 2 1 4 -11
+p785
+aVRuben Patterson MIL 11/06/2006 MIL @ CHI L 27 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 2 1 1 3 2 -7
+p786
+aVDan Gadzuric MIL 11/06/2006 MIL @ CHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -12
+p787
+aVSteve Blake MIL 11/06/2006 MIL @ CHI L 17 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 3 3 -23
+p788
+aVDavid Noel MIL 11/04/2006 MIL vs. SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -6
+p789
+aVRuben Patterson MIL 11/04/2006 MIL vs. SAC W 32 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 5 0 1 3 4 18
+p790
+aVDan Gadzuric MIL 11/04/2006 MIL vs. SAC W 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -3
+p791
+aVBrian Skinner MIL 11/04/2006 MIL vs. SAC W 14 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 7
+p792
+aVAndrew Bogut MIL 11/04/2006 MIL vs. SAC W 30 21 7 10 70.0 0 0 - 7 7 100.0 1 7 8 2 1 0 5 4 16
+p793
+aVMo Williams MIL 11/04/2006 MIL vs. SAC W 30 15 6 7 85.7 2 2 100.0 1 1 100.0 2 4 6 12 1 0 6 2 15
+p794
+aVCharlie Villanueva MIL 11/04/2006 MIL vs. SAC W 29 25 11 17 64.7 3 4 75.0 0 0 - 2 5 7 1 0 0 0 2 20
+p795
+aVDamir Markota MIL 11/04/2006 MIL vs. SAC W 4 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -6
+p796
+aVSteve Blake MIL 11/04/2006 MIL vs. SAC W 23 2 1 4 25.0 0 3 0.0 0 0 - 0 5 5 1 0 0 1 0 -6
+p797
+aVMichael Redd MIL 11/04/2006 MIL vs. SAC W 35 26 9 16 56.3 4 6 66.7 4 5 80.0 1 2 3 4 1 0 0 0 23
+p798
+aVErsan Ilyasova MIL 11/04/2006 MIL vs. SAC W 4 4 0 1 0.0 0 1 0.0 4 4 100.0 0 1 1 0 0 0 2 0 -6
+p799
+aVCharlie Bell MIL 11/04/2006 MIL vs. SAC W 28 0 0 6 0.0 0 1 0.0 0 0 - 1 3 4 4 0 0 2 0 -7
+p800
+aVBrian Skinner MIL 11/03/2006 MIL @ TOR L 18 6 3 4 75.0 0 0 - 0 0 - 1 5 6 1 0 1 1 3 -1
+p801
+aVDamir Markota MIL 11/03/2006 MIL @ TOR L 4 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p802
+aVDavid Noel MIL 11/03/2006 MIL @ TOR L 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 2
+p803
+aVMo Williams MIL 11/03/2006 MIL @ TOR L 33 15 6 17 35.3 1 5 20.0 2 2 100.0 2 4 6 2 0 0 1 1 -16
+p804
+aVCharlie Bell MIL 11/03/2006 MIL @ TOR L 30 7 3 7 42.9 1 2 50.0 0 0 - 0 0 0 3 0 0 1 1 -14
+p805
+aVMichael Redd MIL 11/03/2006 MIL @ TOR L 35 15 5 14 35.7 1 3 33.3 4 4 100.0 1 2 3 2 1 0 2 1 -22
+p806
+aVAndrew Bogut MIL 11/03/2006 MIL @ TOR L 30 18 8 12 66.7 0 0 - 2 4 50.0 3 4 7 3 2 1 5 1 -18
+p807
+aVCharlie Villanueva MIL 11/03/2006 MIL @ TOR L 29 17 8 15 53.3 0 2 0.0 1 2 50.0 4 7 11 3 1 0 2 3 -7
+p808
+aVSteve Blake MIL 11/03/2006 MIL @ TOR L 16 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 4 1 0 0 3 -2
+p809
+aVErsan Ilyasova MIL 11/03/2006 MIL @ TOR L 8 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 3 1
+p810
+aVRuben Patterson MIL 11/03/2006 MIL @ TOR L 32 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 3 2 1 2 4 -10
+p811
+aVMo Williams MIL 11/01/2006 MIL @ DET W 33 14 6 14 42.9 1 1 100.0 1 1 100.0 2 1 3 4 1 0 0 5 9
+p812
+aVCharlie Bell MIL 11/01/2006 MIL @ DET W 28 10 4 8 50.0 0 3 0.0 2 2 100.0 0 0 0 1 3 0 0 3 6
+p813
+aVCharlie Villanueva MIL 11/01/2006 MIL @ DET W 33 16 6 21 28.6 0 3 0.0 4 6 66.7 2 10 12 4 4 0 0 3 10
+p814
+aVAndrew Bogut MIL 11/01/2006 MIL @ DET W 28 16 7 10 70.0 0 0 - 2 7 28.6 2 7 9 3 0 0 2 3 7
+p815
+aVMichael Redd MIL 11/01/2006 MIL @ DET W 38 37 14 22 63.6 1 4 25.0 8 8 100.0 1 4 5 1 0 0 3 4 4
+p816
+aVBrian Skinner MIL 11/01/2006 MIL @ DET W 21 4 2 4 50.0 0 0 - 0 0 - 2 0 2 3 1 0 1 2 1
+p817
+aVSteve Blake MIL 11/01/2006 MIL @ DET W 16 0 0 2 0.0 0 1 0.0 0 1 0.0 0 0 0 6 0 0 0 1 -1
+p818
+aVErsan Ilyasova MIL 11/01/2006 MIL @ DET W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p819
+aVRuben Patterson MIL 11/01/2006 MIL @ DET W 36 6 3 10 30.0 0 1 0.0 0 0 - 2 5 7 3 3 0 2 3 3
+p820
+aVDan Gadzuric MIL 11/01/2006 MIL @ DET W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p821
+a.

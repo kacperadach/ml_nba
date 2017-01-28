@@ -1,0 +1,1736 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrian Cardinal DAL 04/13/2011 DAL vs. NOH W 19 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 3 0 1 0 3 22
+p2
+aVJ.J. Barea DAL 04/13/2011 DAL vs. NOH W 20 14 3 6 50.0 1 2 50.0 7 7 100.0 0 5 5 8 0 0 2 0 22
+p3
+aVBrendan Haywood DAL 04/13/2011 DAL vs. NOH W 26 10 5 5 100.0 0 0 - 0 0 - 1 6 7 1 0 0 1 1 26
+p4
+aVJason Terry DAL 04/13/2011 DAL vs. NOH W 24 13 4 11 36.4 2 8 25.0 3 4 75.0 0 1 1 2 1 0 1 2 8
+p5
+aVJason Kidd DAL 04/13/2011 DAL vs. NOH W 29 12 4 6 66.7 4 6 66.7 0 0 - 0 3 3 8 4 0 1 0 11
+p6
+aVShawn Marion DAL 04/13/2011 DAL vs. NOH W 29 10 4 9 44.4 0 1 0.0 2 4 50.0 0 8 8 4 1 0 3 1 11
+p7
+aVTyson Chandler DAL 04/13/2011 DAL vs. NOH W 22 6 2 2 100.0 0 0 - 2 3 66.7 2 5 7 0 0 0 0 4 6
+p8
+aVDirk Nowitzki DAL 04/13/2011 DAL vs. NOH W 32 32 10 21 47.6 1 3 33.3 11 12 91.7 1 5 6 2 0 0 3 2 21
+p9
+aVRodrigue Beaubois DAL 04/13/2011 DAL vs. NOH W 5 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -2
+p10
+aVIan Mahinmi DAL 04/13/2011 DAL vs. NOH W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 8
+p11
+aVDeShawn Stevenson DAL 04/13/2011 DAL vs. NOH W 19 6 2 3 66.7 2 3 66.7 0 0 - 1 0 1 1 0 0 1 1 13
+p12
+aVCorey Brewer DAL 04/13/2011 DAL vs. NOH W 12 11 3 4 75.0 2 3 66.7 3 4 75.0 0 0 0 2 1 0 1 0 14
+p13
+aVTyson Chandler DAL 04/11/2011 DAL @ HOU W 35 8 3 4 75.0 0 0 - 2 2 100.0 3 9 12 0 0 2 2 3 6
+p14
+aVDirk Nowitzki DAL 04/11/2011 DAL @ HOU W 40 23 8 22 36.4 0 1 0.0 7 8 87.5 2 10 12 3 2 0 2 2 15
+p15
+aVCorey Brewer DAL 04/11/2011 DAL @ HOU W 9 0 0 3 0.0 0 3 0.0 0 0 - 1 3 4 0 1 0 0 1 1
+p16
+aVPeja Stojakovic DAL 04/11/2011 DAL @ HOU W 14 3 1 4 25.0 1 1 100.0 0 0 - 0 4 4 0 0 0 0 0 -1
+p17
+aVJason Terry DAL 04/11/2011 DAL @ HOU W 36 21 9 15 60.0 0 1 0.0 3 4 75.0 0 3 3 4 1 0 6 1 2
+p18
+aVJason Kidd DAL 04/11/2011 DAL @ HOU W 39 4 1 7 14.3 0 5 0.0 2 2 100.0 0 5 5 4 2 1 1 4 0
+p19
+aVRodrigue Beaubois DAL 04/11/2011 DAL @ HOU W 15 6 2 5 40.0 0 2 0.0 2 2 100.0 0 3 3 2 0 1 3 3 4
+p20
+aVIan Mahinmi DAL 04/11/2011 DAL @ HOU W 15 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 0 2 1 0 3 4
+p21
+aVBrian Cardinal DAL 04/11/2011 DAL @ HOU W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p22
+aVShawn Marion DAL 04/11/2011 DAL @ HOU W 38 21 10 14 71.4 0 0 - 1 1 100.0 0 4 4 4 1 0 3 2 3
+p23
+aVJ.J. Barea DAL 04/11/2011 DAL @ HOU W 17 6 2 5 40.0 2 2 100.0 0 0 - 0 0 0 4 0 0 3 0 8
+p24
+aVTyson Chandler DAL 04/10/2011 DAL vs. PHX W 19 4 2 3 66.7 0 0 - 0 0 - 4 8 12 0 0 0 1 4 14
+p25
+aVCorey Brewer DAL 04/10/2011 DAL vs. PHX W 11 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 0 5
+p26
+aVRodrigue Beaubois DAL 04/10/2011 DAL vs. PHX W 12 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 2 0 0 1 4 4
+p27
+aVShawn Marion DAL 04/10/2011 DAL vs. PHX W 28 18 9 20 45.0 0 0 - 0 0 - 6 5 11 2 1 1 2 3 16
+p28
+aVJ.J. Barea DAL 04/10/2011 DAL vs. PHX W 27 15 6 10 60.0 1 2 50.0 2 3 66.7 1 0 1 6 0 0 0 2 13
+p29
+aVPeja Stojakovic DAL 04/10/2011 DAL vs. PHX W 21 17 6 13 46.2 3 8 37.5 2 2 100.0 1 2 3 2 0 0 0 2 11
+p30
+aVDirk Nowitzki DAL 04/10/2011 DAL vs. PHX W 28 19 7 11 63.6 0 0 - 5 5 100.0 0 7 7 3 1 1 2 1 11
+p31
+aVBrendan Haywood DAL 04/10/2011 DAL vs. PHX W 29 5 1 3 33.3 0 0 - 3 6 50.0 4 7 11 0 1 1 1 4 11
+p32
+aVBrian Cardinal DAL 04/10/2011 DAL vs. PHX W 9 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 3 1 1 2 2 7
+p33
+aVJason Kidd DAL 04/10/2011 DAL vs. PHX W 28 7 3 7 42.9 1 5 20.0 0 0 - 0 2 2 7 3 0 3 0 14
+p34
+aVDeShawn Stevenson DAL 04/10/2011 DAL vs. PHX W 4 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p35
+aVJason Terry DAL 04/10/2011 DAL vs. PHX W 25 17 6 11 54.5 3 7 42.9 2 2 100.0 0 0 0 3 0 0 2 1 20
+p36
+aVJason Terry DAL 04/08/2011 DAL vs. LAC W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -7
+p37
+aVCorey Brewer DAL 04/08/2011 DAL vs. LAC W 30 20 8 16 50.0 0 1 0.0 4 4 100.0 5 1 6 4 4 1 4 2 9
+p38
+aVPeja Stojakovic DAL 04/08/2011 DAL vs. LAC W 12 10 4 7 57.1 2 5 40.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p39
+aVDirk Nowitzki DAL 04/08/2011 DAL vs. LAC W 38 20 10 16 62.5 0 0 - 0 0 - 0 8 8 7 1 0 1 1 30
+p40
+aVDeShawn Stevenson DAL 04/08/2011 DAL vs. LAC W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 1 1
+p41
+aVRodrigue Beaubois DAL 04/08/2011 DAL vs. LAC W 25 0 0 7 0.0 0 1 0.0 0 2 0.0 1 1 2 4 3 0 2 3 -5
+p42
+aVBrendan Haywood DAL 04/08/2011 DAL vs. LAC W 18 7 3 5 60.0 0 0 - 1 5 20.0 1 2 3 0 1 0 0 1 2
+p43
+aVTyson Chandler DAL 04/08/2011 DAL vs. LAC W 22 15 6 6 100.0 0 0 - 3 7 42.9 1 6 7 0 0 2 0 2 2
+p44
+aVBrian Cardinal DAL 04/08/2011 DAL vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p45
+aVShawn Marion DAL 04/08/2011 DAL vs. LAC W 30 13 5 10 50.0 0 0 - 3 4 75.0 4 6 10 4 2 1 2 2 9
+p46
+aVJ.J. Barea DAL 04/08/2011 DAL vs. LAC W 33 15 4 13 30.8 1 5 20.0 6 6 100.0 3 1 4 5 1 0 6 2 15
+p47
+aVIan Mahinmi DAL 04/08/2011 DAL vs. LAC W 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 7
+p48
+aVDeShawn Stevenson DAL 04/06/2011 DAL vs. DEN L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -1
+p49
+aVJason Terry DAL 04/06/2011 DAL vs. DEN L 31 15 5 10 50.0 3 8 37.5 2 2 100.0 0 1 1 3 3 0 4 2 0
+p50
+aVDirk Nowitzki DAL 04/06/2011 DAL vs. DEN L 33 20 9 16 56.3 0 1 0.0 2 2 100.0 0 7 7 2 0 2 0 2 -11
+p51
+aVShawn Marion DAL 04/06/2011 DAL vs. DEN L 31 21 10 14 71.4 0 1 0.0 1 2 50.0 4 6 10 0 0 0 1 0 -7
+p52
+aVIan Mahinmi DAL 04/06/2011 DAL vs. DEN L 15 1 0 1 0.0 0 0 - 1 2 50.0 3 1 4 0 1 1 0 5 1
+p53
+aVPeja Stojakovic DAL 04/06/2011 DAL vs. DEN L 21 7 3 7 42.9 1 5 20.0 0 0 - 0 1 1 1 0 1 0 0 4
+p54
+aVBrendan Haywood DAL 04/06/2011 DAL vs. DEN L 32 1 0 1 0.0 0 0 - 1 6 16.7 8 11 19 2 0 5 1 1 -6
+p55
+aVCorey Brewer DAL 04/06/2011 DAL vs. DEN L 20 13 5 9 55.6 1 2 50.0 2 2 100.0 0 1 1 1 3 0 1 2 -9
+p56
+aVJ.J. Barea DAL 04/06/2011 DAL vs. DEN L 30 12 5 12 41.7 0 2 0.0 2 2 100.0 0 0 0 10 1 0 4 4 -4
+p57
+aVBrian Cardinal DAL 04/06/2011 DAL vs. DEN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p58
+aVRodrigue Beaubois DAL 04/06/2011 DAL vs. DEN L 20 6 2 7 28.6 0 1 0.0 2 2 100.0 0 1 1 1 1 0 4 0 -8
+p59
+aVRodrigue Beaubois DAL 04/03/2011 DAL @ POR L 25 18 6 12 50.0 2 4 50.0 4 4 100.0 0 0 0 4 0 0 2 3 4
+p60
+aVDeShawn Stevenson DAL 04/03/2011 DAL @ POR L 13 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 2 0 0 0 1 10
+p61
+aVJason Terry DAL 04/03/2011 DAL @ POR L 26 4 1 6 16.7 1 3 33.3 1 1 100.0 0 0 0 1 0 0 1 4 -14
+p62
+aVCorey Brewer DAL 04/03/2011 DAL @ POR L 4 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 10
+p63
+aVDirk Nowitzki DAL 04/03/2011 DAL @ POR L 35 16 5 12 41.7 0 1 0.0 6 7 85.7 0 5 5 2 0 0 1 1 -14
+p64
+aVShawn Marion DAL 04/03/2011 DAL @ POR L 28 19 8 11 72.7 1 1 100.0 2 2 100.0 0 5 5 1 0 0 3 2 -16
+p65
+aVBrendan Haywood DAL 04/03/2011 DAL @ POR L 23 5 2 3 66.7 0 0 - 1 4 25.0 3 8 11 1 0 1 1 0 -13
+p66
+aVPeja Stojakovic DAL 04/03/2011 DAL @ POR L 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 0 -4
+p67
+aVBrian Cardinal DAL 04/03/2011 DAL @ POR L 12 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 10
+p68
+aVJason Kidd DAL 04/03/2011 DAL @ POR L 27 0 0 6 0.0 0 5 0.0 0 0 - 0 2 2 4 3 1 2 0 -16
+p69
+aVIan Mahinmi DAL 04/03/2011 DAL @ POR L 19 7 2 2 100.0 0 0 - 3 6 50.0 1 4 5 2 1 0 0 1 4
+p70
+aVJ.J. Barea DAL 04/03/2011 DAL @ POR L 17 12 5 10 50.0 2 4 50.0 0 0 - 0 0 0 3 0 0 2 6 -1
+p71
+aVIan Mahinmi DAL 04/02/2011 DAL @ GSW L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 4 -13
+p72
+aVJason Kidd DAL 04/02/2011 DAL @ GSW L 29 3 1 7 14.3 0 5 0.0 1 2 50.0 0 3 3 6 1 0 0 0 -12
+p73
+aVPeja Stojakovic DAL 04/02/2011 DAL @ GSW L 18 3 1 3 33.3 1 1 100.0 0 0 - 0 4 4 0 1 0 1 0 6
+p74
+aVTyson Chandler DAL 04/02/2011 DAL @ GSW L 25 12 5 6 83.3 0 0 - 2 5 40.0 3 4 7 0 0 1 0 4 -2
+p75
+aVJ.J. Barea DAL 04/02/2011 DAL @ GSW L 33 13 5 13 38.5 2 3 66.7 1 1 100.0 2 3 5 11 0 0 3 3 5
+p76
+aVShawn Marion DAL 04/02/2011 DAL @ GSW L 30 21 10 17 58.8 0 0 - 1 2 50.0 3 5 8 0 1 3 0 3 -6
+p77
+aVJason Terry DAL 04/02/2011 DAL @ GSW L 32 17 7 15 46.7 1 6 16.7 2 2 100.0 0 3 3 5 1 0 1 1 0
+p78
+aVRodrigue Beaubois DAL 04/02/2011 DAL @ GSW L 9 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 3 -11
+p79
+aVDeShawn Stevenson DAL 04/02/2011 DAL @ GSW L 16 3 1 6 16.7 1 5 20.0 0 0 - 1 2 3 0 0 0 0 1 -9
+p80
+aVDirk Nowitzki DAL 04/02/2011 DAL @ GSW L 35 16 5 16 31.3 0 4 0.0 6 8 75.0 0 6 6 3 1 0 3 2 7
+p81
+aVPeja Stojakovic DAL 03/31/2011 DAL @ LAL L 25 13 4 10 40.0 3 7 42.9 2 2 100.0 0 1 1 0 0 0 0 2 -13
+p82
+aVDirk Nowitzki DAL 03/31/2011 DAL @ LAL L 34 27 10 20 50.0 1 2 50.0 6 6 100.0 2 11 13 2 0 1 4 4 -16
+p83
+aVTyson Chandler DAL 03/31/2011 DAL @ LAL L 30 7 2 4 50.0 0 0 - 3 5 60.0 4 6 10 1 0 0 0 4 -19
+p84
+aVRodrigue Beaubois DAL 03/31/2011 DAL @ LAL L 16 5 2 8 25.0 0 3 0.0 1 3 33.3 1 3 4 2 0 0 0 3 -11
+p85
+aVJason Kidd DAL 03/31/2011 DAL @ LAL L 32 6 2 7 28.6 2 6 33.3 0 0 - 0 2 2 6 2 0 2 4 -16
+p86
+aVJ.J. Barea DAL 03/31/2011 DAL @ LAL L 20 10 4 8 50.0 0 2 0.0 2 3 66.7 0 3 3 3 0 0 2 2 -18
+p87
+aVBrian Cardinal DAL 03/31/2011 DAL @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p88
+aVBrendan Haywood DAL 03/31/2011 DAL @ LAL L 13 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -4
+p89
+aVDeShawn Stevenson DAL 03/31/2011 DAL @ LAL L 5 0 0 4 0.0 0 3 0.0 0 0 - 1 1 2 0 0 0 0 0 -7
+p90
+aVShawn Marion DAL 03/31/2011 DAL @ LAL L 26 9 4 9 44.4 0 0 - 1 2 50.0 1 3 4 1 1 1 2 3 -15
+p91
+aVIan Mahinmi DAL 03/31/2011 DAL @ LAL L 5 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -5
+p92
+aVJason Terry DAL 03/31/2011 DAL @ LAL L 28 5 2 9 22.2 0 3 0.0 1 2 50.0 0 1 1 3 0 1 2 2 -11
+p93
+aVShawn Marion DAL 03/30/2011 DAL @ LAC W 28 10 5 9 55.6 0 0 - 0 0 - 2 7 9 1 0 1 0 1 -6
+p94
+aVBrian Cardinal DAL 03/30/2011 DAL @ LAC W 7 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 2 0
+p95
+aVJason Terry DAL 03/30/2011 DAL @ LAC W 32 6 2 11 18.2 0 2 0.0 2 2 100.0 0 2 2 7 3 1 1 0 9
+p96
+aVDirk Nowitzki DAL 03/30/2011 DAL @ LAC W 37 24 9 19 47.4 1 3 33.3 5 7 71.4 0 6 6 3 1 0 4 1 5
+p97
+aVDeShawn Stevenson DAL 03/30/2011 DAL @ LAC W 4 0 0 1 0.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 0 -1
+p98
+aVTyson Chandler DAL 03/30/2011 DAL @ LAC W 25 6 3 7 42.9 0 0 - 0 4 0.0 1 2 3 0 2 0 1 4 -3
+p99
+aVRodrigue Beaubois DAL 03/30/2011 DAL @ LAC W 13 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 1 0 1 2 4 -5
+p100
+aVJ.J. Barea DAL 03/30/2011 DAL @ LAC W 21 22 6 8 75.0 2 3 66.7 8 10 80.0 0 2 2 6 2 0 1 1 3
+p101
+aVIan Mahinmi DAL 03/30/2011 DAL @ LAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p102
+aVPeja Stojakovic DAL 03/30/2011 DAL @ LAC W 22 11 4 8 50.0 3 4 75.0 0 0 - 0 0 0 0 0 0 0 1 12
+p103
+aVJason Kidd DAL 03/30/2011 DAL @ LAC W 29 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 10 1 1 2 1 7
+p104
+aVBrendan Haywood DAL 03/30/2011 DAL @ LAC W 20 6 3 3 100.0 0 0 - 0 3 0.0 1 4 5 1 1 1 0 4 10
+p105
+aVBrendan Haywood DAL 03/27/2011 DAL @ PHX W 7 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 1 1 1 1
+p106
+aVJ.J. Barea DAL 03/27/2011 DAL @ PHX W 24 7 3 13 23.1 0 4 0.0 1 2 50.0 1 2 3 5 0 0 1 2 11
+p107
+aVTyson Chandler DAL 03/27/2011 DAL @ PHX W 38 16 5 7 71.4 0 0 - 6 9 66.7 6 12 18 1 1 1 1 2 4
+p108
+aVShawn Marion DAL 03/27/2011 DAL @ PHX W 35 6 2 10 20.0 0 0 - 2 2 100.0 3 5 8 2 3 0 3 2 -1
+p109
+aVJason Kidd DAL 03/27/2011 DAL @ PHX W 32 16 5 8 62.5 4 7 57.1 2 2 100.0 0 2 2 3 0 0 3 0 1
+p110
+aVJason Terry DAL 03/27/2011 DAL @ PHX W 31 16 5 16 31.3 2 9 22.2 4 4 100.0 0 0 0 3 4 1 3 1 13
+p111
+aVRodrigue Beaubois DAL 03/27/2011 DAL @ PHX W 13 10 4 6 66.7 2 3 66.7 0 0 - 1 3 4 1 0 0 3 5 -8
+p112
+aVDirk Nowitzki DAL 03/27/2011 DAL @ PHX W 39 15 6 19 31.6 1 1 100.0 2 2 100.0 4 3 7 4 0 0 0 4 12
+p113
+aVPeja Stojakovic DAL 03/27/2011 DAL @ PHX W 20 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 1 7
+p114
+aVDeShawn Stevenson DAL 03/26/2011 DAL @ UTA W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p115
+aVBrendan Haywood DAL 03/26/2011 DAL @ UTA W 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 2
+p116
+aVIan Mahinmi DAL 03/26/2011 DAL @ UTA W 14 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 4 1
+p117
+aVJason Kidd DAL 03/26/2011 DAL @ UTA W 33 7 3 6 50.0 1 4 25.0 0 0 - 0 3 3 6 2 1 6 2 13
+p118
+aVPeja Stojakovic DAL 03/26/2011 DAL @ UTA W 22 5 1 6 16.7 1 3 33.3 2 2 100.0 0 2 2 1 1 0 1 2 4
+p119
+aVBrian Cardinal DAL 03/26/2011 DAL @ UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p120
+aVJ.J. Barea DAL 03/26/2011 DAL @ UTA W 19 9 2 8 25.0 1 2 50.0 4 6 66.7 0 0 0 6 0 0 2 4 18
+p121
+aVDirk Nowitzki DAL 03/26/2011 DAL @ UTA W 30 19 5 12 41.7 0 1 0.0 9 9 100.0 1 5 6 0 0 0 2 1 -2
+p122
+aVJason Terry DAL 03/26/2011 DAL @ UTA W 29 22 6 7 85.7 4 5 80.0 6 8 75.0 0 2 2 2 0 1 2 4 22
+p123
+aVShawn Marion DAL 03/26/2011 DAL @ UTA W 34 13 6 9 66.7 0 0 - 1 2 50.0 1 6 7 1 4 2 1 0 13
+p124
+aVRodrigue Beaubois DAL 03/26/2011 DAL @ UTA W 16 7 2 5 40.0 1 3 33.3 2 2 100.0 1 5 6 2 1 2 0 4 -2
+p125
+aVTyson Chandler DAL 03/26/2011 DAL @ UTA W 27 10 4 7 57.1 0 0 - 2 3 66.7 0 7 7 2 0 0 2 4 14
+p126
+aVBrian Cardinal DAL 03/24/2011 DAL vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p127
+aVShawn Marion DAL 03/24/2011 DAL vs. MIN W 32 17 8 14 57.1 0 1 0.0 1 2 50.0 3 3 6 2 2 2 1 1 5
+p128
+aVTyson Chandler DAL 03/24/2011 DAL vs. MIN W 27 9 4 7 57.1 0 0 - 1 1 100.0 4 6 10 0 1 2 1 2 6
+p129
+aVIan Mahinmi DAL 03/24/2011 DAL vs. MIN W 5 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 9
+p130
+aVPeja Stojakovic DAL 03/24/2011 DAL vs. MIN W 26 16 6 10 60.0 4 8 50.0 0 0 - 1 3 4 1 0 0 0 2 5
+p131
+aVJason Kidd DAL 03/24/2011 DAL vs. MIN W 35 0 0 5 0.0 0 5 0.0 0 0 - 0 6 6 13 3 1 2 1 10
+p132
+aVRodrigue Beaubois DAL 03/24/2011 DAL vs. MIN W 15 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 1 0 0 2 2 -2
+p133
+aVDirk Nowitzki DAL 03/24/2011 DAL vs. MIN W 36 30 12 26 46.2 1 5 20.0 5 5 100.0 2 9 11 4 1 1 3 2 8
+p134
+aVDeShawn Stevenson DAL 03/24/2011 DAL vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p135
+aVJ.J. Barea DAL 03/24/2011 DAL vs. MIN W 16 4 2 4 50.0 0 0 - 0 0 - 0 0 0 6 2 0 1 1 -5
+p136
+aVJason Terry DAL 03/24/2011 DAL vs. MIN W 30 18 7 12 58.3 2 5 40.0 2 2 100.0 0 2 2 3 1 0 2 1 13
+p137
+aVBrendan Haywood DAL 03/24/2011 DAL vs. MIN W 16 4 1 1 100.0 0 0 - 2 3 66.7 0 2 2 0 0 0 1 3 -7
+p138
+aVPeja Stojakovic DAL 03/20/2011 DAL vs. GSW W 19 17 6 11 54.5 5 8 62.5 0 0 - 0 1 1 1 0 0 0 1 25
+p139
+aVBrian Cardinal DAL 03/20/2011 DAL vs. GSW W 16 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 2 0 0 3 -3
+p140
+aVJ.J. Barea DAL 03/20/2011 DAL vs. GSW W 20 4 1 7 14.3 1 4 25.0 1 2 50.0 1 3 4 6 2 0 3 1 18
+p141
+aVDeShawn Stevenson DAL 03/20/2011 DAL vs. GSW W 16 8 3 6 50.0 2 5 40.0 0 0 - 0 0 0 2 1 0 2 1 8
+p142
+aVIan Mahinmi DAL 03/20/2011 DAL vs. GSW W 20 9 2 3 66.7 0 0 - 5 6 83.3 2 11 13 0 1 0 0 3 19
+p143
+aVJason Kidd DAL 03/20/2011 DAL vs. GSW W 25 8 3 8 37.5 2 7 28.6 0 0 - 0 2 2 6 0 0 0 1 4
+p144
+aVCorey Brewer DAL 03/20/2011 DAL vs. GSW W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 2 4 5
+p145
+aVDirk Nowitzki DAL 03/20/2011 DAL vs. GSW W 31 20 9 15 60.0 0 0 - 2 2 100.0 1 5 6 2 0 0 2 1 29
+p146
+aVRodrigue Beaubois DAL 03/20/2011 DAL vs. GSW W 27 15 5 11 45.5 1 4 25.0 4 5 80.0 1 3 4 4 2 1 5 5 7
+p147
+aVTyson Chandler DAL 03/20/2011 DAL vs. GSW W 28 7 0 4 0.0 0 0 - 7 8 87.5 5 12 17 0 1 1 0 2 9
+p148
+aVJason Terry DAL 03/20/2011 DAL vs. GSW W 25 9 4 10 40.0 1 3 33.3 0 0 - 1 2 3 2 1 0 1 0 19
+p149
+aVRodrigue Beaubois DAL 03/18/2011 DAL vs. SAS L 29 8 4 11 36.4 0 4 0.0 0 0 - 0 3 3 1 0 0 3 4 3
+p150
+aVJason Terry DAL 03/18/2011 DAL vs. SAS L 35 19 5 14 35.7 3 6 50.0 6 6 100.0 0 5 5 5 1 2 4 3 -1
+p151
+aVShawn Marion DAL 03/18/2011 DAL vs. SAS L 14 13 6 8 75.0 0 0 - 1 2 50.0 1 4 5 1 0 0 2 0 1
+p152
+aVTyson Chandler DAL 03/18/2011 DAL vs. SAS L 22 3 1 1 100.0 0 0 - 1 2 50.0 4 1 5 1 0 1 1 6 -5
+p153
+aVBrian Cardinal DAL 03/18/2011 DAL vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p154
+aVDirk Nowitzki DAL 03/18/2011 DAL vs. SAS L 38 23 10 16 62.5 0 2 0.0 3 3 100.0 1 8 9 3 0 0 1 3 -8
+p155
+aVIan Mahinmi DAL 03/18/2011 DAL vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p156
+aVJason Kidd DAL 03/18/2011 DAL vs. SAS L 37 7 3 7 42.9 1 4 25.0 0 0 - 0 5 5 9 1 0 3 1 -8
+p157
+aVBrendan Haywood DAL 03/18/2011 DAL vs. SAS L 19 2 1 3 33.3 0 0 - 0 2 0.0 1 2 3 0 0 2 1 2 -7
+p158
+aVDeShawn Stevenson DAL 03/18/2011 DAL vs. SAS L 13 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 1 0 1 1 -5
+p159
+aVJ.J. Barea DAL 03/18/2011 DAL vs. SAS L 25 13 5 9 55.6 1 3 33.3 2 2 100.0 0 2 2 0 0 0 3 0 0
+p160
+aVDirk Nowitzki DAL 03/16/2011 DAL @ GSW W 35 34 10 22 45.5 2 3 66.7 12 12 100.0 6 7 13 2 0 1 1 3 4
+p161
+aVRodrigue Beaubois DAL 03/16/2011 DAL @ GSW W 37 18 7 11 63.6 1 4 25.0 3 3 100.0 0 2 2 4 4 0 1 2 11
+p162
+aVJ.J. Barea DAL 03/16/2011 DAL @ GSW W 15 10 4 8 50.0 1 2 50.0 1 2 50.0 0 2 2 2 0 0 2 1 -4
+p163
+aVIan Mahinmi DAL 03/16/2011 DAL @ GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p164
+aVBrian Cardinal DAL 03/16/2011 DAL @ GSW W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -8
+p165
+aVCorey Brewer DAL 03/16/2011 DAL @ GSW W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p166
+aVJason Kidd DAL 03/16/2011 DAL @ GSW W 34 4 1 6 16.7 1 6 16.7 1 2 50.0 1 4 5 11 0 0 4 2 8
+p167
+aVTyson Chandler DAL 03/16/2011 DAL @ GSW W 38 13 5 6 83.3 0 0 - 3 4 75.0 2 7 9 1 2 0 1 3 18
+p168
+aVShawn Marion DAL 03/16/2011 DAL @ GSW W 28 14 6 10 60.0 0 0 - 2 2 100.0 0 4 4 2 0 0 1 3 2
+p169
+aVJason Terry DAL 03/16/2011 DAL @ GSW W 38 19 7 12 58.3 3 4 75.0 2 2 100.0 1 5 6 6 0 0 2 0 19
+p170
+aVDirk Nowitzki DAL 03/15/2011 DAL @ POR L 35 28 9 14 64.3 1 3 33.3 9 9 100.0 0 11 11 2 0 0 1 2 4
+p171
+aVJason Kidd DAL 03/15/2011 DAL @ POR L 35 1 0 1 0.0 0 1 0.0 1 2 50.0 0 5 5 14 0 0 3 2 4
+p172
+aVTyson Chandler DAL 03/15/2011 DAL @ POR L 32 12 6 7 85.7 0 0 - 0 0 - 1 4 5 1 1 2 1 5 8
+p173
+aVRodrigue Beaubois DAL 03/15/2011 DAL @ POR L 22 16 6 8 75.0 4 6 66.7 0 0 - 1 1 2 4 1 0 2 2 4
+p174
+aVShawn Marion DAL 03/15/2011 DAL @ POR L 38 18 9 15 60.0 0 0 - 0 0 - 2 3 5 4 0 0 3 3 -1
+p175
+aVDeShawn Stevenson DAL 03/15/2011 DAL @ POR L 14 5 2 6 33.3 1 4 25.0 0 0 - 2 1 3 1 0 0 0 1 -10
+p176
+aVJ.J. Barea DAL 03/15/2011 DAL @ POR L 13 5 1 4 25.0 1 2 50.0 2 2 100.0 0 2 2 0 0 0 2 0 -7
+p177
+aVJason Terry DAL 03/15/2011 DAL @ POR L 29 14 6 10 60.0 2 4 50.0 0 0 - 0 0 0 4 3 0 3 1 -3
+p178
+aVIan Mahinmi DAL 03/15/2011 DAL @ POR L 16 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -11
+p179
+aVBrian Cardinal DAL 03/15/2011 DAL @ POR L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p180
+aVJason Terry DAL 03/12/2011 DAL vs. LAL L 31 13 6 16 37.5 1 5 20.0 0 0 - 0 0 0 1 1 0 2 3 -2
+p181
+aVShawn Marion DAL 03/12/2011 DAL vs. LAL L 35 25 11 20 55.0 0 0 - 3 4 75.0 7 5 12 0 0 2 1 0 -4
+p182
+aVRodrigue Beaubois DAL 03/12/2011 DAL vs. LAL L 14 2 1 7 14.3 0 2 0.0 0 0 - 0 6 6 0 0 0 2 1 -6
+p183
+aVDirk Nowitzki DAL 03/12/2011 DAL vs. LAL L 37 25 10 19 52.6 0 2 0.0 5 5 100.0 1 9 10 6 1 2 2 3 1
+p184
+aVCorey Brewer DAL 03/12/2011 DAL vs. LAL L 7 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 0 0 0 0 1 -3
+p185
+aVBrian Cardinal DAL 03/12/2011 DAL vs. LAL L 17 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 3 -4
+p186
+aVBrendan Haywood DAL 03/12/2011 DAL vs. LAL L 13 4 1 4 25.0 0 0 - 2 2 100.0 5 3 8 1 0 1 1 1 -4
+p187
+aVJason Kidd DAL 03/12/2011 DAL vs. LAL L 33 5 2 5 40.0 1 4 25.0 0 0 - 0 4 4 9 2 1 3 4 -7
+p188
+aVJ.J. Barea DAL 03/12/2011 DAL vs. LAL L 18 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 1 1 0 2 0 5
+p189
+aVTyson Chandler DAL 03/12/2011 DAL vs. LAL L 35 4 2 4 50.0 0 0 - 0 0 - 2 4 6 3 1 2 0 4 -1
+p190
+aVDirk Nowitzki DAL 03/10/2011 DAL vs. NYK W 35 23 7 19 36.8 1 2 50.0 8 8 100.0 0 9 9 2 0 0 1 1 21
+p191
+aVJason Terry DAL 03/10/2011 DAL vs. NYK W 27 21 9 15 60.0 3 4 75.0 0 0 - 1 1 2 2 1 0 1 0 9
+p192
+aVBrian Cardinal DAL 03/10/2011 DAL vs. NYK W 14 5 1 4 25.0 1 4 25.0 2 2 100.0 0 2 2 1 0 0 0 4 -4
+p193
+aVJason Kidd DAL 03/10/2011 DAL vs. NYK W 31 6 2 5 40.0 2 5 40.0 0 0 - 0 3 3 8 1 0 2 1 11
+p194
+aVCorey Brewer DAL 03/10/2011 DAL vs. NYK W 17 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 4 2 0 1 5 8
+p195
+aVIan Mahinmi DAL 03/10/2011 DAL vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p196
+aVBrendan Haywood DAL 03/10/2011 DAL vs. NYK W 30 12 5 9 55.6 0 0 - 2 3 66.7 5 3 8 0 0 2 2 3 16
+p197
+aVRodrigue Beaubois DAL 03/10/2011 DAL vs. NYK W 21 14 5 11 45.5 2 4 50.0 2 2 100.0 0 0 0 6 1 0 1 2 9
+p198
+aVTyson Chandler DAL 03/10/2011 DAL vs. NYK W 17 9 3 4 75.0 0 0 - 3 5 60.0 3 5 8 0 1 3 2 5 4
+p199
+aVShawn Marion DAL 03/10/2011 DAL vs. NYK W 30 22 10 15 66.7 0 0 - 2 2 100.0 6 2 8 2 2 0 0 2 11
+p200
+aVJ.J. Barea DAL 03/10/2011 DAL vs. NYK W 17 8 3 8 37.5 2 5 40.0 0 0 - 1 2 3 1 1 0 1 2 7
+p201
+aVRodrigue Beaubois DAL 03/09/2011 DAL @ NOH L 13 9 4 10 40.0 1 4 25.0 0 0 - 0 0 0 1 0 1 1 2 11
+p202
+aVTyson Chandler DAL 03/09/2011 DAL @ NOH L 25 16 4 5 80.0 0 0 - 8 12 66.7 3 10 13 0 0 1 1 5 13
+p203
+aVShawn Marion DAL 03/09/2011 DAL @ NOH L 22 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 0 1 2 0 1 11
+p204
+aVJason Terry DAL 03/09/2011 DAL @ NOH L 29 10 4 10 40.0 2 4 50.0 0 0 - 0 1 1 5 0 0 0 3 -11
+p205
+aVJ.J. Barea DAL 03/09/2011 DAL @ NOH L 19 12 4 7 57.1 2 4 50.0 2 2 100.0 0 1 1 3 0 0 5 3 2
+p206
+aVBrendan Haywood DAL 03/09/2011 DAL @ NOH L 23 4 1 2 50.0 0 0 - 2 5 40.0 0 6 6 0 1 1 0 2 -14
+p207
+aVDeShawn Stevenson DAL 03/09/2011 DAL @ NOH L 17 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -10
+p208
+aVBrian Cardinal DAL 03/09/2011 DAL @ NOH L 21 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 2 0 0 1 1 -8
+p209
+aVDirk Nowitzki DAL 03/09/2011 DAL @ NOH L 35 26 10 18 55.6 0 0 - 6 6 100.0 0 4 4 3 1 0 1 4 2
+p210
+aVJason Kidd DAL 03/09/2011 DAL @ NOH L 35 3 0 7 0.0 0 5 0.0 3 3 100.0 0 1 1 7 1 0 0 2 -1
+p211
+aVBrian Cardinal DAL 03/07/2011 DAL @ MIN W 17 12 4 8 50.0 4 8 50.0 0 0 - 0 0 0 1 3 0 0 1 0
+p212
+aVShawn Marion DAL 03/07/2011 DAL @ MIN W 32 9 4 11 36.4 0 0 - 1 2 50.0 5 5 10 4 1 1 1 1 -11
+p213
+aVBrendan Haywood DAL 03/07/2011 DAL @ MIN W 29 8 3 4 75.0 0 0 - 2 3 66.7 1 9 10 0 1 1 3 3 8
+p214
+aVJason Terry DAL 03/07/2011 DAL @ MIN W 31 11 3 11 27.3 1 6 16.7 4 4 100.0 1 1 2 4 0 0 4 0 -5
+p215
+aVRodrigue Beaubois DAL 03/07/2011 DAL @ MIN W 18 9 4 10 40.0 1 4 25.0 0 0 - 0 3 3 4 0 0 0 2 8
+p216
+aVIan Mahinmi DAL 03/07/2011 DAL @ MIN W 17 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 1 1 1 5 0
+p217
+aVPeja Stojakovic DAL 03/07/2011 DAL @ MIN W 16 9 4 9 44.4 1 4 25.0 0 0 - 2 3 5 0 1 0 0 1 14
+p218
+aVJason Kidd DAL 03/07/2011 DAL @ MIN W 31 13 4 8 50.0 2 6 33.3 3 3 100.0 1 1 2 9 4 0 2 1 -7
+p219
+aVDirk Nowitzki DAL 03/07/2011 DAL @ MIN W 27 25 7 12 58.3 1 2 50.0 10 10 100.0 0 6 6 2 0 1 1 4 10
+p220
+aVJ.J. Barea DAL 03/07/2011 DAL @ MIN W 16 8 3 7 42.9 2 5 40.0 0 0 - 0 2 2 5 0 0 2 0 10
+p221
+aVCorey Brewer DAL 03/07/2011 DAL @ MIN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -12
+p222
+aVJason Kidd DAL 03/06/2011 DAL vs. MEM L 34 4 1 4 25.0 0 2 0.0 2 2 100.0 0 3 3 6 2 0 4 1 -8
+p223
+aVRodrigue Beaubois DAL 03/06/2011 DAL vs. MEM L 15 15 5 8 62.5 2 3 66.7 3 5 60.0 0 0 0 1 2 0 1 1 -2
+p224
+aVCorey Brewer DAL 03/06/2011 DAL vs. MEM L 10 6 2 4 50.0 0 0 - 2 3 66.7 2 1 3 0 0 0 0 3 -3
+p225
+aVDeShawn Stevenson DAL 03/06/2011 DAL vs. MEM L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -4
+p226
+aVBrendan Haywood DAL 03/06/2011 DAL vs. MEM L 39 5 2 3 66.7 0 0 - 1 2 50.0 3 5 8 1 0 6 0 3 -5
+p227
+aVJason Terry DAL 03/06/2011 DAL vs. MEM L 33 26 9 15 60.0 4 7 57.1 4 4 100.0 0 3 3 1 1 0 2 1 1
+p228
+aVIan Mahinmi DAL 03/06/2011 DAL vs. MEM L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 6 4
+p229
+aVShawn Marion DAL 03/06/2011 DAL vs. MEM L 33 10 4 9 44.4 0 0 - 2 2 100.0 2 10 12 3 1 0 3 4 0
+p230
+aVPeja Stojakovic DAL 03/06/2011 DAL vs. MEM L 13 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 2 0 0
+p231
+aVDirk Nowitzki DAL 03/06/2011 DAL vs. MEM L 34 23 9 17 52.9 3 6 50.0 2 2 100.0 1 4 5 2 1 1 1 2 7
+p232
+aVJ.J. Barea DAL 03/06/2011 DAL vs. MEM L 16 10 4 6 66.7 1 1 100.0 1 1 100.0 0 1 1 5 0 0 1 2 5
+p233
+aVJ.J. Barea DAL 03/04/2011 DAL vs. IND W 18 5 1 6 16.7 1 3 33.3 2 2 100.0 0 1 1 8 1 0 2 0 7
+p234
+aVDirk Nowitzki DAL 03/04/2011 DAL vs. IND W 35 29 10 12 83.3 0 1 0.0 9 10 90.0 0 4 4 2 0 0 2 3 10
+p235
+aVJason Kidd DAL 03/04/2011 DAL vs. IND W 33 15 3 4 75.0 3 4 75.0 6 6 100.0 1 5 6 5 1 0 4 1 1
+p236
+aVIan Mahinmi DAL 03/04/2011 DAL vs. IND W 20 7 3 4 75.0 0 0 - 1 4 25.0 1 4 5 0 0 1 1 3 4
+p237
+aVDeShawn Stevenson DAL 03/04/2011 DAL vs. IND W 11 3 1 3 33.3 1 3 33.3 0 0 - 1 3 4 0 0 0 0 2 2
+p238
+aVBrian Cardinal DAL 03/04/2011 DAL vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p239
+aVBrendan Haywood DAL 03/04/2011 DAL vs. IND W 28 10 5 8 62.5 0 0 - 0 0 - 4 1 5 0 3 1 1 2 4
+p240
+aVRodrigue Beaubois DAL 03/04/2011 DAL vs. IND W 15 13 6 11 54.5 1 3 33.3 0 0 - 0 1 1 1 0 1 1 2 -1
+p241
+aVShawn Marion DAL 03/04/2011 DAL vs. IND W 28 7 2 9 22.2 0 0 - 3 4 75.0 3 4 7 2 4 0 2 1 -1
+p242
+aVCorey Brewer DAL 03/04/2011 DAL vs. IND W 5 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 5 5
+p243
+aVPeja Stojakovic DAL 03/04/2011 DAL vs. IND W 17 6 2 6 33.3 0 3 0.0 2 2 100.0 3 1 4 4 0 0 0 0 -1
+p244
+aVJason Terry DAL 03/04/2011 DAL vs. IND W 30 21 8 16 50.0 1 2 50.0 4 4 100.0 1 1 2 6 0 1 2 2 7
+p245
+aVIan Mahinmi DAL 03/01/2011 DAL @ PHI W 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 9
+p246
+aVJason Terry DAL 03/01/2011 DAL @ PHI W 31 30 13 18 72.2 3 5 60.0 1 3 33.3 0 2 2 4 1 0 3 0 16
+p247
+aVPeja Stojakovic DAL 03/01/2011 DAL @ PHI W 30 4 2 8 25.0 0 3 0.0 0 0 - 2 2 4 2 0 0 0 1 2
+p248
+aVDirk Nowitzki DAL 03/01/2011 DAL @ PHI W 37 22 9 15 60.0 0 1 0.0 4 5 80.0 0 6 6 2 0 0 2 2 2
+p249
+aVRodrigue Beaubois DAL 03/01/2011 DAL @ PHI W 13 6 3 6 50.0 0 2 0.0 0 0 - 0 0 0 1 0 0 2 2 -8
+p250
+aVBrendan Haywood DAL 03/01/2011 DAL @ PHI W 23 7 3 4 75.0 0 0 - 1 6 16.7 1 3 4 0 0 2 1 0 -8
+p251
+aVTyson Chandler DAL 03/01/2011 DAL @ PHI W 13 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 0 0 1 1 7
+p252
+aVShawn Marion DAL 03/01/2011 DAL @ PHI W 30 10 4 8 50.0 0 0 - 2 4 50.0 2 8 10 0 1 0 2 2 12
+p253
+aVJ.J. Barea DAL 03/01/2011 DAL @ PHI W 16 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 3 0 0 3 1 3
+p254
+aVJason Kidd DAL 03/01/2011 DAL @ PHI W 37 13 3 8 37.5 3 7 42.9 4 4 100.0 0 10 10 13 3 0 0 3 5
+p255
+aVBrian Cardinal DAL 02/27/2011 DAL @ TOR W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p256
+aVIan Mahinmi DAL 02/27/2011 DAL @ TOR W 23 13 4 7 57.1 0 1 0.0 5 6 83.3 2 1 3 0 0 1 0 4 20
+p257
+aVJason Terry DAL 02/27/2011 DAL @ TOR W 29 19 7 13 53.8 2 2 100.0 3 4 75.0 0 4 4 5 0 0 0 3 29
+p258
+aVDirk Nowitzki DAL 02/27/2011 DAL @ TOR W 34 31 11 20 55.0 2 4 50.0 7 10 70.0 1 12 13 2 0 1 2 0 13
+p259
+aVDeShawn Stevenson DAL 02/27/2011 DAL @ TOR W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p260
+aVJ.J. Barea DAL 02/27/2011 DAL @ TOR W 27 12 6 10 60.0 0 2 0.0 0 0 - 1 1 2 9 0 0 1 1 19
+p261
+aVPeja Stojakovic DAL 02/27/2011 DAL @ TOR W 23 5 2 7 28.6 1 5 20.0 0 0 - 0 2 2 0 0 0 1 0 8
+p262
+aVTyson Chandler DAL 02/27/2011 DAL @ TOR W 25 3 1 6 16.7 0 0 - 1 2 50.0 5 4 9 1 1 1 0 1 -2
+p263
+aVShawn Marion DAL 02/27/2011 DAL @ TOR W 24 20 10 17 58.8 0 1 0.0 0 0 - 2 4 6 2 2 0 1 1 18
+p264
+aVJason Kidd DAL 02/27/2011 DAL @ TOR W 26 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 7 1 0 1 0 -2
+p265
+aVRodrigue Beaubois DAL 02/27/2011 DAL @ TOR W 15 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -8
+p266
+aVShawn Marion DAL 02/26/2011 DAL @ WAS W 30 13 4 6 66.7 0 0 - 5 6 83.3 2 8 10 0 1 1 3 1 3
+p267
+aVDeShawn Stevenson DAL 02/26/2011 DAL @ WAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p268
+aVJ.J. Barea DAL 02/26/2011 DAL @ WAS W 19 9 4 8 50.0 1 4 25.0 0 0 - 0 1 1 3 0 0 2 0 4
+p269
+aVRodrigue Beaubois DAL 02/26/2011 DAL @ WAS W 13 2 1 7 14.3 0 2 0.0 0 0 - 0 3 3 3 0 1 1 2 0
+p270
+aVPeja Stojakovic DAL 02/26/2011 DAL @ WAS W 31 5 2 6 33.3 1 3 33.3 0 0 - 0 5 5 1 0 0 1 1 7
+p271
+aVDirk Nowitzki DAL 02/26/2011 DAL @ WAS W 33 21 6 18 33.3 1 1 100.0 8 11 72.7 1 6 7 3 0 0 2 4 5
+p272
+aVIan Mahinmi DAL 02/26/2011 DAL @ WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p273
+aVJason Kidd DAL 02/26/2011 DAL @ WAS W 32 3 1 1 100.0 1 1 100.0 0 0 - 0 8 8 14 3 0 2 4 8
+p274
+aVTyson Chandler DAL 02/26/2011 DAL @ WAS W 31 23 10 14 71.4 0 0 - 3 4 75.0 4 9 13 0 0 1 0 0 14
+p275
+aVJason Terry DAL 02/26/2011 DAL @ WAS W 32 25 10 18 55.6 2 5 40.0 3 5 60.0 0 1 1 4 0 0 0 2 0
+p276
+aVBrendan Haywood DAL 02/26/2011 DAL @ WAS W 14 4 1 1 100.0 0 0 - 2 5 40.0 1 2 3 0 0 0 0 1 -4
+p277
+aVJason Kidd DAL 02/23/2011 DAL vs. UTA W 27 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 12 2 0 3 3 7
+p278
+aVShawn Marion DAL 02/23/2011 DAL vs. UTA W 21 16 6 9 66.7 0 0 - 4 4 100.0 2 4 6 1 0 0 1 3 5
+p279
+aVDirk Nowitzki DAL 02/23/2011 DAL vs. UTA W 31 23 9 15 60.0 1 4 25.0 4 5 80.0 0 7 7 1 1 0 2 0 16
+p280
+aVIan Mahinmi DAL 02/23/2011 DAL vs. UTA W 6 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 4
+p281
+aVBrendan Haywood DAL 02/23/2011 DAL vs. UTA W 26 12 4 7 57.1 0 1 0.0 4 9 44.4 4 6 10 1 0 0 1 2 10
+p282
+aVPeja Stojakovic DAL 02/23/2011 DAL vs. UTA W 23 18 7 9 77.8 4 5 80.0 0 0 - 0 2 2 0 1 1 0 1 12
+p283
+aVTyson Chandler DAL 02/23/2011 DAL vs. UTA W 22 7 3 7 42.9 0 0 - 1 2 50.0 3 7 10 1 1 1 5 4 9
+p284
+aVDeShawn Stevenson DAL 02/23/2011 DAL vs. UTA W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p285
+aVJason Terry DAL 02/23/2011 DAL vs. UTA W 27 13 4 9 44.4 1 3 33.3 4 4 100.0 0 0 0 5 0 0 3 3 16
+p286
+aVRodrigue Beaubois DAL 02/23/2011 DAL vs. UTA W 22 10 4 6 66.7 2 4 50.0 0 0 - 0 0 0 4 1 0 2 3 4
+p287
+aVJ.J. Barea DAL 02/23/2011 DAL vs. UTA W 19 13 5 8 62.5 1 1 100.0 2 2 100.0 1 0 1 5 0 0 1 0 13
+p288
+aVBrian Cardinal DAL 02/23/2011 DAL vs. UTA W 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 4 6
+p289
+aVDeShawn Stevenson DAL 02/17/2011 DAL @ PHX W 14 5 2 5 40.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 1 1 -1
+p290
+aVJason Kidd DAL 02/17/2011 DAL @ PHX W 42 6 2 8 25.0 1 6 16.7 1 2 50.0 0 8 8 12 1 1 1 0 3
+p291
+aVRodrigue Beaubois DAL 02/17/2011 DAL @ PHX W 19 9 4 10 40.0 1 4 25.0 0 0 - 0 1 1 2 1 0 2 5 -7
+p292
+aVDirk Nowitzki DAL 02/17/2011 DAL @ PHX W 37 35 13 18 72.2 3 3 100.0 6 6 100.0 0 1 1 4 1 0 2 2 12
+p293
+aVBrendan Haywood DAL 02/17/2011 DAL @ PHX W 11 7 3 4 75.0 0 0 - 1 4 25.0 0 5 5 0 0 1 0 1 2
+p294
+aVJason Terry DAL 02/17/2011 DAL @ PHX W 35 16 5 12 41.7 3 5 60.0 3 4 75.0 0 1 1 7 3 0 2 2 16
+p295
+aVTyson Chandler DAL 02/17/2011 DAL @ PHX W 30 12 5 8 62.5 0 0 - 2 3 66.7 3 9 12 0 0 0 2 4 -4
+p296
+aVPeja Stojakovic DAL 02/17/2011 DAL @ PHX W 20 10 3 7 42.9 2 6 33.3 2 2 100.0 0 2 2 1 2 0 1 3 2
+p297
+aVShawn Marion DAL 02/17/2011 DAL @ PHX W 33 12 6 10 60.0 0 1 0.0 0 0 - 2 6 8 0 0 2 1 2 7
+p298
+aVBrian Cardinal DAL 02/16/2011 DAL vs. SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -7
+p299
+aVDirk Nowitzki DAL 02/16/2011 DAL vs. SAC W 23 13 6 10 60.0 1 1 100.0 0 0 - 0 3 3 4 0 0 1 2 21
+p300
+aVShawn Marion DAL 02/16/2011 DAL vs. SAC W 27 14 7 14 50.0 0 0 - 0 0 - 1 5 6 5 1 0 1 1 17
+p301
+aVJason Kidd DAL 02/16/2011 DAL vs. SAC W 28 20 7 9 77.8 6 7 85.7 0 0 - 0 2 2 4 2 0 3 1 9
+p302
+aVRodrigue Beaubois DAL 02/16/2011 DAL vs. SAC W 21 13 6 13 46.2 1 4 25.0 0 0 - 0 1 1 6 3 0 3 4 -2
+p303
+aVPeja Stojakovic DAL 02/16/2011 DAL vs. SAC W 27 12 5 11 45.5 2 5 40.0 0 0 - 2 2 4 1 1 0 1 3 5
+p304
+aVJason Terry DAL 02/16/2011 DAL vs. SAC W 22 12 5 10 50.0 1 4 25.0 1 1 100.0 0 0 0 2 1 0 3 1 28
+p305
+aVTyson Chandler DAL 02/16/2011 DAL vs. SAC W 23 6 3 3 100.0 0 0 - 0 0 - 3 3 6 1 0 0 3 2 -4
+p306
+aVIan Mahinmi DAL 02/16/2011 DAL vs. SAC W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 6 -5
+p307
+aVBrendan Haywood DAL 02/16/2011 DAL vs. SAC W 22 12 5 8 62.5 0 0 - 2 5 40.0 4 6 10 0 0 0 1 2 21
+p308
+aVJ.J. Barea DAL 02/16/2011 DAL vs. SAC W 20 11 5 8 62.5 1 3 33.3 0 0 - 0 2 2 10 1 0 1 0 6
+p309
+aVDeShawn Stevenson DAL 02/16/2011 DAL vs. SAC W 13 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 1 0 3 3 -9
+p310
+aVDirk Nowitzki DAL 02/12/2011 DAL @ HOU W 34 22 8 16 50.0 1 1 100.0 5 5 100.0 1 5 6 2 1 2 0 1 6
+p311
+aVPeja Stojakovic DAL 02/12/2011 DAL @ HOU W 28 22 8 12 66.7 4 6 66.7 2 2 100.0 1 3 4 1 1 0 2 0 6
+p312
+aVShawn Marion DAL 02/12/2011 DAL @ HOU W 30 14 7 12 58.3 0 0 - 0 0 - 2 7 9 3 1 0 1 2 4
+p313
+aVJ.J. Barea DAL 02/12/2011 DAL @ HOU W 24 11 5 8 62.5 1 1 100.0 0 0 - 1 3 4 5 0 0 1 3 3
+p314
+aVJason Kidd DAL 02/12/2011 DAL @ HOU W 32 11 4 6 66.7 2 4 50.0 1 2 50.0 0 3 3 5 2 0 3 1 6
+p315
+aVJason Terry DAL 02/12/2011 DAL @ HOU W 29 7 2 7 28.6 0 1 0.0 3 4 75.0 0 0 0 7 1 0 4 0 -1
+p316
+aVIan Mahinmi DAL 02/12/2011 DAL @ HOU W 25 7 3 6 50.0 0 0 - 1 2 50.0 3 3 6 2 0 1 0 3 -3
+p317
+aVTyson Chandler DAL 02/12/2011 DAL @ HOU W 23 12 6 8 75.0 0 0 - 0 0 - 1 6 7 0 0 1 1 2 3
+p318
+aVDeShawn Stevenson DAL 02/12/2011 DAL @ HOU W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 3 1 -4
+p319
+aVDirk Nowitzki DAL 02/10/2011 DAL @ DEN L 36 16 5 10 50.0 0 3 0.0 6 8 75.0 0 8 8 6 0 0 0 3 -11
+p320
+aVPeja Stojakovic DAL 02/10/2011 DAL @ DEN L 9 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p321
+aVTyson Chandler DAL 02/10/2011 DAL @ DEN L 31 20 8 9 88.9 0 0 - 4 5 80.0 5 6 11 0 2 0 3 1 -7
+p322
+aVJason Kidd DAL 02/10/2011 DAL @ DEN L 34 10 3 9 33.3 2 5 40.0 2 2 100.0 0 7 7 6 1 1 1 1 -13
+p323
+aVBrian Cardinal DAL 02/10/2011 DAL @ DEN L 16 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 4 18
+p324
+aVDeShawn Stevenson DAL 02/10/2011 DAL @ DEN L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -13
+p325
+aVIan Mahinmi DAL 02/10/2011 DAL @ DEN L 7 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 3 3
+p326
+aVBrendan Haywood DAL 02/10/2011 DAL @ DEN L 10 4 2 4 50.0 0 0 - 0 1 0.0 1 0 1 0 0 1 0 0 3
+p327
+aVShawn Marion DAL 02/10/2011 DAL @ DEN L 28 19 9 16 56.3 0 0 - 1 2 50.0 4 1 5 0 3 1 1 2 -2
+p328
+aVJ.J. Barea DAL 02/10/2011 DAL @ DEN L 26 17 6 11 54.5 2 4 50.0 3 3 100.0 0 0 0 5 0 0 2 1 15
+p329
+aVJason Terry DAL 02/10/2011 DAL @ DEN L 32 25 9 17 52.9 6 8 75.0 1 2 50.0 1 0 1 3 1 0 2 3 11
+p330
+aVShawn Marion DAL 02/09/2011 DAL @ SAC W 22 6 3 9 33.3 0 0 - 0 0 - 2 3 5 2 0 3 2 2 -1
+p331
+aVTyson Chandler DAL 02/09/2011 DAL @ SAC W 28 13 5 6 83.3 0 0 - 3 4 75.0 0 4 4 0 0 1 2 3 3
+p332
+aVDeShawn Stevenson DAL 02/09/2011 DAL @ SAC W 19 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 0 -14
+p333
+aVPeja Stojakovic DAL 02/09/2011 DAL @ SAC W 20 4 1 7 14.3 0 3 0.0 2 2 100.0 0 4 4 5 1 0 0 0 5
+p334
+aVJason Terry DAL 02/09/2011 DAL @ SAC W 31 22 7 14 50.0 1 4 25.0 7 7 100.0 1 0 1 2 0 0 1 2 12
+p335
+aVDirk Nowitzki DAL 02/09/2011 DAL @ SAC W 34 10 4 14 28.6 0 2 0.0 2 3 66.7 0 6 6 2 0 0 2 5 -6
+p336
+aVJ.J. Barea DAL 02/09/2011 DAL @ SAC W 22 20 8 12 66.7 2 4 50.0 2 3 66.7 2 0 2 3 0 0 0 2 2
+p337
+aVBrian Cardinal DAL 02/09/2011 DAL @ SAC W 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 12
+p338
+aVJason Kidd DAL 02/09/2011 DAL @ SAC W 33 14 5 10 50.0 4 8 50.0 0 0 - 0 8 8 5 1 0 4 3 0
+p339
+aVBrendan Haywood DAL 02/09/2011 DAL @ SAC W 20 7 3 4 75.0 0 0 - 1 3 33.3 4 3 7 1 0 1 1 3 -3
+p340
+aVBrian Cardinal DAL 02/07/2011 DAL vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p341
+aVJason Terry DAL 02/07/2011 DAL vs. CLE W 34 23 7 16 43.8 2 5 40.0 7 7 100.0 1 3 4 5 2 0 2 1 9
+p342
+aVPeja Stojakovic DAL 02/07/2011 DAL vs. CLE W 20 8 3 9 33.3 1 6 16.7 1 2 50.0 1 4 5 0 0 0 0 1 2
+p343
+aVJ.J. Barea DAL 02/07/2011 DAL vs. CLE W 23 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 7 0 0 0 1 15
+p344
+aVTyson Chandler DAL 02/07/2011 DAL vs. CLE W 31 10 3 7 42.9 0 0 - 4 4 100.0 4 7 11 0 0 1 2 5 -16
+p345
+aVDeShawn Stevenson DAL 02/07/2011 DAL vs. CLE W 17 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 1 -8
+p346
+aVDirk Nowitzki DAL 02/07/2011 DAL vs. CLE W 31 12 5 11 45.5 0 0 - 2 2 100.0 1 5 6 1 0 0 5 3 -10
+p347
+aVJason Kidd DAL 02/07/2011 DAL vs. CLE W 34 6 2 6 33.3 2 5 40.0 0 0 - 0 4 4 8 2 1 3 0 -9
+p348
+aVShawn Marion DAL 02/07/2011 DAL vs. CLE W 27 17 5 15 33.3 0 0 - 7 8 87.5 7 3 10 0 1 0 1 2 12
+p349
+aVIan Mahinmi DAL 02/07/2011 DAL vs. CLE W 21 11 4 6 66.7 0 0 - 3 4 75.0 2 6 8 0 1 0 3 4 22
+p350
+aVDeShawn Stevenson DAL 02/05/2011 DAL @ CHA W 24 5 2 7 28.6 1 6 16.7 0 0 - 0 3 3 1 1 0 0 0 3
+p351
+aVJ.J. Barea DAL 02/05/2011 DAL @ CHA W 24 15 7 14 50.0 1 3 33.3 0 0 - 1 2 3 2 0 0 1 2 -4
+p352
+aVDirk Nowitzki DAL 02/05/2011 DAL @ CHA W 34 25 10 19 52.6 1 2 50.0 4 4 100.0 2 2 4 2 0 5 0 5 -4
+p353
+aVJason Kidd DAL 02/05/2011 DAL @ CHA W 37 13 4 8 50.0 4 8 50.0 1 2 50.0 0 5 5 6 2 3 3 1 14
+p354
+aVShawn Marion DAL 02/05/2011 DAL @ CHA W 32 10 5 9 55.6 0 0 - 0 0 - 2 5 7 4 0 3 3 3 10
+p355
+aVBrendan Haywood DAL 02/05/2011 DAL @ CHA W 13 3 1 4 25.0 0 0 - 1 2 50.0 1 6 7 0 0 1 0 2 -2
+p356
+aVJason Terry DAL 02/05/2011 DAL @ CHA W 34 21 7 14 50.0 0 2 0.0 7 7 100.0 0 0 0 3 0 0 3 3 8
+p357
+aVTyson Chandler DAL 02/05/2011 DAL @ CHA W 35 9 4 10 40.0 0 0 - 1 2 50.0 8 7 15 1 0 2 0 4 11
+p358
+aVBrian Cardinal DAL 02/05/2011 DAL @ CHA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 9
+p359
+aVJason Terry DAL 02/04/2011 DAL @ BOS W 35 17 7 15 46.7 1 3 33.3 2 2 100.0 0 0 0 2 2 0 2 0 3
+p360
+aVBrendan Haywood DAL 02/04/2011 DAL @ BOS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -4
+p361
+aVShawn Marion DAL 02/04/2011 DAL @ BOS W 27 13 6 11 54.5 0 1 0.0 1 1 100.0 3 6 9 1 0 0 2 1 3
+p362
+aVJason Kidd DAL 02/04/2011 DAL @ BOS W 37 10 4 9 44.4 2 5 40.0 0 0 - 0 0 0 9 0 1 3 3 12
+p363
+aVTyson Chandler DAL 02/04/2011 DAL @ BOS W 37 14 7 10 70.0 0 0 - 0 0 - 4 11 15 1 1 1 2 1 9
+p364
+aVDeShawn Stevenson DAL 02/04/2011 DAL @ BOS W 30 7 2 7 28.6 2 4 50.0 1 2 50.0 2 1 3 2 0 0 0 1 -1
+p365
+aVJ.J. Barea DAL 02/04/2011 DAL @ BOS W 26 11 4 11 36.4 2 3 66.7 1 2 50.0 0 0 0 3 1 0 3 3 -6
+p366
+aVDirk Nowitzki DAL 02/04/2011 DAL @ BOS W 36 29 9 14 64.3 1 1 100.0 10 10 100.0 1 3 4 3 0 0 0 4 6
+p367
+aVBrian Cardinal DAL 02/04/2011 DAL @ BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p368
+aVIan Mahinmi DAL 02/04/2011 DAL @ BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -1
+p369
+aVDominique Jones DAL 02/02/2011 DAL @ NYK W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p370
+aVDeShawn Stevenson DAL 02/02/2011 DAL @ NYK W 31 13 5 9 55.6 3 6 50.0 0 0 - 2 3 5 1 0 0 1 1 9
+p371
+aVJ.J. Barea DAL 02/02/2011 DAL @ NYK W 30 22 7 12 58.3 3 4 75.0 5 5 100.0 1 2 3 3 1 0 3 0 21
+p372
+aVBrian Cardinal DAL 02/02/2011 DAL @ NYK W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 1 -3
+p373
+aVBrendan Haywood DAL 02/02/2011 DAL @ NYK W 16 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 4 3
+p374
+aVJason Kidd DAL 02/02/2011 DAL @ NYK W 32 6 2 10 20.0 2 7 28.6 0 0 - 1 5 6 10 1 0 1 1 16
+p375
+aVIan Mahinmi DAL 02/02/2011 DAL @ NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -3
+p376
+aVJason Terry DAL 02/02/2011 DAL @ NYK W 30 12 6 12 50.0 0 3 0.0 0 1 0.0 1 3 4 2 1 0 2 2 7
+p377
+aVTyson Chandler DAL 02/02/2011 DAL @ NYK W 29 15 6 9 66.7 0 0 - 3 4 75.0 3 8 11 0 0 1 1 3 16
+p378
+aVShawn Marion DAL 02/02/2011 DAL @ NYK W 23 5 1 8 12.5 0 0 - 3 4 75.0 1 9 10 2 0 0 4 3 -9
+p379
+aVDirk Nowitzki DAL 02/02/2011 DAL @ NYK W 33 29 10 16 62.5 2 4 50.0 7 7 100.0 1 10 11 3 0 1 1 2 27
+p380
+aVIan Mahinmi DAL 01/31/2011 DAL vs. WAS W 8 7 2 3 66.7 0 0 - 3 4 75.0 2 0 2 0 0 1 0 0 2
+p381
+aVJ.J. Barea DAL 01/31/2011 DAL vs. WAS W 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 2 1 3
+p382
+aVDirk Nowitzki DAL 01/31/2011 DAL vs. WAS W 33 24 7 11 63.6 2 2 100.0 8 8 100.0 1 3 4 2 0 1 2 3 20
+p383
+aVShawn Marion DAL 01/31/2011 DAL vs. WAS W 31 14 5 9 55.6 0 0 - 4 5 80.0 1 8 9 2 1 0 0 3 3
+p384
+aVBrendan Haywood DAL 01/31/2011 DAL vs. WAS W 9 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 2 0
+p385
+aVTyson Chandler DAL 01/31/2011 DAL vs. WAS W 30 18 5 10 50.0 0 0 - 8 14 57.1 8 10 18 0 0 0 4 2 8
+p386
+aVJason Kidd DAL 01/31/2011 DAL vs. WAS W 35 11 3 8 37.5 3 7 42.9 2 2 100.0 0 9 9 11 1 1 1 3 7
+p387
+aVBrian Cardinal DAL 01/31/2011 DAL vs. WAS W 31 9 3 8 37.5 3 8 37.5 0 0 - 0 4 4 1 0 1 1 3 -1
+p388
+aVDeShawn Stevenson DAL 01/31/2011 DAL vs. WAS W 13 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 4
+p389
+aVJason Terry DAL 01/31/2011 DAL vs. WAS W 35 14 7 17 41.2 0 3 0.0 0 2 0.0 1 1 2 8 0 0 3 4 4
+p390
+aVTyson Chandler DAL 01/29/2011 DAL vs. ATL W 29 12 5 9 55.6 0 0 - 2 2 100.0 2 4 6 0 0 1 0 2 3
+p391
+aVShawn Marion DAL 01/29/2011 DAL vs. ATL W 30 10 5 12 41.7 0 1 0.0 0 0 - 0 4 4 2 0 1 1 2 11
+p392
+aVJ.J. Barea DAL 01/29/2011 DAL vs. ATL W 16 6 2 5 40.0 0 2 0.0 2 2 100.0 1 3 4 1 1 0 2 2 1
+p393
+aVJason Terry DAL 01/29/2011 DAL vs. ATL W 32 18 5 11 45.5 2 4 50.0 6 7 85.7 0 5 5 11 1 0 2 0 18
+p394
+aVSasha Pavlovic DAL 01/29/2011 DAL vs. ATL W 19 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p395
+aVDirk Nowitzki DAL 01/29/2011 DAL vs. ATL W 33 19 8 11 72.7 1 1 100.0 2 3 66.7 0 6 6 4 1 1 5 3 15
+p396
+aVBrendan Haywood DAL 01/29/2011 DAL vs. ATL W 19 10 2 2 100.0 0 0 - 6 9 66.7 2 3 5 0 1 1 1 4 8
+p397
+aVJason Kidd DAL 01/29/2011 DAL vs. ATL W 35 12 4 8 50.0 2 4 50.0 2 2 100.0 2 6 8 5 2 0 1 2 5
+p398
+aVDeShawn Stevenson DAL 01/29/2011 DAL vs. ATL W 27 11 3 10 30.0 3 9 33.3 2 2 100.0 1 1 2 5 0 0 1 2 -5
+p399
+aVDeShawn Stevenson DAL 01/27/2011 DAL vs. HOU W 20 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 3 0 0 1 2 7
+p400
+aVJason Kidd DAL 01/27/2011 DAL vs. HOU W 32 11 5 9 55.6 1 3 33.3 0 0 - 0 2 2 10 1 1 1 0 -1
+p401
+aVIan Mahinmi DAL 01/27/2011 DAL vs. HOU W 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 7
+p402
+aVTyson Chandler DAL 01/27/2011 DAL vs. HOU W 33 21 5 8 62.5 0 0 - 11 12 91.7 4 11 15 0 0 1 2 3 -2
+p403
+aVJ.J. Barea DAL 01/27/2011 DAL vs. HOU W 24 19 8 10 80.0 0 1 0.0 3 3 100.0 1 2 3 4 0 0 1 4 0
+p404
+aVBrian Cardinal DAL 01/27/2011 DAL vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p405
+aVSasha Pavlovic DAL 01/27/2011 DAL vs. HOU W 22 11 4 7 57.1 3 4 75.0 0 0 - 0 2 2 2 2 0 0 3 4
+p406
+aVShawn Marion DAL 01/27/2011 DAL vs. HOU W 28 10 5 11 45.5 0 0 - 0 0 - 0 6 6 0 2 0 3 3 9
+p407
+aVDirk Nowitzki DAL 01/27/2011 DAL vs. HOU W 34 18 7 16 43.8 1 2 50.0 3 4 75.0 0 2 2 3 0 2 0 1 9
+p408
+aVJason Terry DAL 01/27/2011 DAL vs. HOU W 27 15 4 12 33.3 1 3 33.3 6 6 100.0 1 3 4 3 1 0 0 4 -1
+p409
+aVBrendan Haywood DAL 01/27/2011 DAL vs. HOU W 8 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p410
+aVDeShawn Stevenson DAL 01/25/2011 DAL vs. LAC W 18 7 2 6 33.3 1 5 20.0 2 2 100.0 0 3 3 2 0 0 3 4 2
+p411
+aVSasha Pavlovic DAL 01/25/2011 DAL vs. LAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p412
+aVBrendan Haywood DAL 01/25/2011 DAL vs. LAC W 24 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 2 0 3 22
+p413
+aVJason Kidd DAL 01/25/2011 DAL vs. LAC W 33 1 0 4 0.0 0 3 0.0 1 1 100.0 1 1 2 7 2 1 0 2 -1
+p414
+aVDirk Nowitzki DAL 01/25/2011 DAL vs. LAC W 30 20 6 15 40.0 2 5 40.0 6 8 75.0 0 5 5 0 1 0 2 2 3
+p415
+aVJason Terry DAL 01/25/2011 DAL vs. LAC W 37 28 11 22 50.0 4 7 57.1 2 2 100.0 1 0 1 3 1 0 1 1 13
+p416
+aVShawn Marion DAL 01/25/2011 DAL vs. LAC W 30 10 4 7 57.1 0 0 - 2 2 100.0 4 6 10 2 0 1 2 1 9
+p417
+aVIan Mahinmi DAL 01/25/2011 DAL vs. LAC W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 3 3 -2
+p418
+aVTyson Chandler DAL 01/25/2011 DAL vs. LAC W 17 21 5 5 100.0 0 0 - 11 11 100.0 1 1 2 0 0 0 2 4 -10
+p419
+aVJ.J. Barea DAL 01/25/2011 DAL vs. LAC W 33 25 9 12 75.0 3 4 75.0 4 4 100.0 1 0 1 4 0 0 0 3 6
+p420
+aVTyson Chandler DAL 01/22/2011 DAL @ NJN W 30 19 7 11 63.6 0 0 - 5 6 83.3 2 6 8 0 3 0 1 5 -1
+p421
+aVDirk Nowitzki DAL 01/22/2011 DAL @ NJN W 36 23 7 24 29.2 2 6 33.3 7 8 87.5 0 7 7 2 1 0 3 2 3
+p422
+aVSasha Pavlovic DAL 01/22/2011 DAL @ NJN W 19 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 1 0 1 3 -4
+p423
+aVJ.J. Barea DAL 01/22/2011 DAL @ NJN W 22 8 3 6 50.0 2 3 66.7 0 0 - 1 0 1 3 0 0 3 4 1
+p424
+aVShawn Marion DAL 01/22/2011 DAL @ NJN W 25 6 2 8 25.0 0 0 - 2 2 100.0 4 7 11 0 2 0 3 1 0
+p425
+aVDeShawn Stevenson DAL 01/22/2011 DAL @ NJN W 23 4 1 3 33.3 1 3 33.3 1 1 100.0 0 2 2 3 1 0 1 2 0
+p426
+aVJason Kidd DAL 01/22/2011 DAL @ NJN W 34 5 1 6 16.7 1 4 25.0 2 2 100.0 1 4 5 8 3 0 1 2 -1
+p427
+aVJason Terry DAL 01/22/2011 DAL @ NJN W 33 11 4 14 28.6 1 4 25.0 2 2 100.0 1 0 1 0 0 0 1 3 5
+p428
+aVIan Mahinmi DAL 01/22/2011 DAL @ NJN W 13 6 0 0 - 0 0 - 6 6 100.0 0 1 1 0 0 0 0 2 4
+p429
+aVBrendan Haywood DAL 01/22/2011 DAL @ NJN W 5 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 0 -2
+p430
+aVJ.J. Barea DAL 01/20/2011 DAL @ CHI L 10 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 2 0 0 0 1 -6
+p431
+aVDeShawn Stevenson DAL 01/20/2011 DAL @ CHI L 30 12 4 10 40.0 4 10 40.0 0 0 - 0 3 3 2 2 0 2 2 15
+p432
+aVBrendan Haywood DAL 01/20/2011 DAL @ CHI L 16 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 3 0 1 -1
+p433
+aVShawn Marion DAL 01/20/2011 DAL @ CHI L 25 6 2 7 28.6 0 0 - 2 4 50.0 1 7 8 0 1 1 3 4 -4
+p434
+aVSasha Pavlovic DAL 01/20/2011 DAL @ CHI L 17 3 0 3 0.0 0 1 0.0 3 3 100.0 0 1 1 1 1 0 2 3 -2
+p435
+aVJason Kidd DAL 01/20/2011 DAL @ CHI L 38 8 3 7 42.9 2 4 50.0 0 0 - 1 5 6 3 1 1 6 1 1
+p436
+aVJason Terry DAL 01/20/2011 DAL @ CHI L 34 12 5 14 35.7 1 5 20.0 1 1 100.0 1 2 3 4 0 0 1 0 -11
+p437
+aVDirk Nowitzki DAL 01/20/2011 DAL @ CHI L 38 19 6 16 37.5 0 2 0.0 7 8 87.5 0 2 2 4 0 1 0 1 -13
+p438
+aVTyson Chandler DAL 01/20/2011 DAL @ CHI L 32 12 5 9 55.6 0 0 - 2 2 100.0 5 7 12 0 0 3 0 4 -4
+p439
+aVBrendan Haywood DAL 01/19/2011 DAL vs. LAL W 16 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 5
+p440
+aVShawn Marion DAL 01/19/2011 DAL vs. LAL W 30 22 10 13 76.9 0 0 - 2 4 50.0 1 3 4 1 0 0 0 1 11
+p441
+aVBrian Cardinal DAL 01/19/2011 DAL vs. LAL W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 -6
+p442
+aVJason Terry DAL 01/19/2011 DAL vs. LAL W 35 22 9 15 60.0 4 6 66.7 0 0 - 0 2 2 7 0 0 1 0 17
+p443
+aVTyson Chandler DAL 01/19/2011 DAL vs. LAL W 28 6 2 5 40.0 0 0 - 2 2 100.0 6 4 10 2 2 2 1 0 6
+p444
+aVDeShawn Stevenson DAL 01/19/2011 DAL vs. LAL W 13 0 0 5 0.0 0 4 0.0 0 0 - 0 1 1 0 1 0 0 1 -8
+p445
+aVJ.J. Barea DAL 01/19/2011 DAL vs. LAL W 13 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 1 1 0 1 2 -1
+p446
+aVDirk Nowitzki DAL 01/19/2011 DAL vs. LAL W 37 14 5 15 33.3 0 3 0.0 4 5 80.0 0 8 8 3 0 0 0 1 4
+p447
+aVSasha Pavlovic DAL 01/19/2011 DAL vs. LAL W 24 11 5 7 71.4 1 3 33.3 0 0 - 0 3 3 1 0 0 1 3 7
+p448
+aVJason Kidd DAL 01/19/2011 DAL vs. LAL W 35 21 8 12 66.7 5 8 62.5 0 0 - 0 2 2 10 0 0 1 1 10
+p449
+aVShawn Marion DAL 01/17/2011 DAL @ DET L 27 4 2 8 25.0 0 0 - 0 0 - 3 4 7 1 0 1 0 1 -15
+p450
+aVJ.J. Barea DAL 01/17/2011 DAL @ DET L 21 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 5 0 0 2 0 1
+p451
+aVAlexis Ajinca DAL 01/17/2011 DAL @ DET L 6 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 2 5
+p452
+aVSasha Pavlovic DAL 01/17/2011 DAL @ DET L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p453
+aVBrian Cardinal DAL 01/17/2011 DAL @ DET L 13 6 2 3 66.7 2 3 66.7 0 0 - 1 1 2 1 0 0 2 1 -5
+p454
+aVIan Mahinmi DAL 01/17/2011 DAL @ DET L 15 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -4
+p455
+aVBrendan Haywood DAL 01/17/2011 DAL @ DET L 27 6 2 4 50.0 0 0 - 2 6 33.3 5 2 7 0 1 0 1 3 -17
+p456
+aVJason Terry DAL 01/17/2011 DAL @ DET L 35 18 8 14 57.1 0 3 0.0 2 3 66.7 0 2 2 2 1 0 1 2 -19
+p457
+aVDominique Jones DAL 01/17/2011 DAL @ DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p458
+aVJason Kidd DAL 01/17/2011 DAL @ DET L 36 0 0 7 0.0 0 7 0.0 0 0 - 0 1 1 13 0 0 3 4 -15
+p459
+aVDirk Nowitzki DAL 01/17/2011 DAL @ DET L 31 32 10 17 58.8 4 7 57.1 8 8 100.0 0 5 5 5 1 0 4 3 -3
+p460
+aVDeShawn Stevenson DAL 01/17/2011 DAL @ DET L 21 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 1 -2
+p461
+aVBrian Cardinal DAL 01/15/2011 DAL @ MEM L 16 4 1 4 25.0 1 4 25.0 1 2 50.0 0 0 0 0 1 0 0 2 -8
+p462
+aVShawn Marion DAL 01/15/2011 DAL @ MEM L 29 11 4 7 57.1 0 1 0.0 3 4 75.0 1 5 6 1 1 1 5 4 -18
+p463
+aVSasha Pavlovic DAL 01/15/2011 DAL @ MEM L 14 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 0 0 -4
+p464
+aVJason Terry DAL 01/15/2011 DAL @ MEM L 27 8 4 14 28.6 0 5 0.0 0 0 - 0 2 2 2 3 0 2 3 -6
+p465
+aVDirk Nowitzki DAL 01/15/2011 DAL @ MEM L 15 7 2 7 28.6 1 3 33.3 2 3 66.7 0 5 5 1 0 0 0 2 -11
+p466
+aVDeShawn Stevenson DAL 01/15/2011 DAL @ MEM L 21 0 0 5 0.0 0 4 0.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p467
+aVJ.J. Barea DAL 01/15/2011 DAL @ MEM L 23 8 3 12 25.0 2 4 50.0 0 0 - 0 2 2 1 1 0 1 2 -9
+p468
+aVDominique Jones DAL 01/15/2011 DAL @ MEM L 14 4 0 6 0.0 0 1 0.0 4 4 100.0 1 5 6 2 1 0 2 0 0
+p469
+aVJason Kidd DAL 01/15/2011 DAL @ MEM L 30 3 1 7 14.3 1 6 16.7 0 0 - 0 4 4 4 0 0 1 1 -20
+p470
+aVAlexis Ajinca DAL 01/15/2011 DAL @ MEM L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 4
+p471
+aVIan Mahinmi DAL 01/15/2011 DAL @ MEM L 21 17 6 6 100.0 0 0 - 5 6 83.3 4 2 6 0 0 0 0 2 -4
+p472
+aVBrendan Haywood DAL 01/15/2011 DAL @ MEM L 27 5 2 3 66.7 0 0 - 1 4 25.0 3 3 6 1 0 1 1 1 -15
+p473
+aVAlexis Ajinca DAL 01/14/2011 DAL @ SAS L 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 1 1 2 2
+p474
+aVShawn Marion DAL 01/14/2011 DAL @ SAS L 30 14 6 11 54.5 0 0 - 2 3 66.7 2 8 10 1 0 1 0 2 -23
+p475
+aVJason Kidd DAL 01/14/2011 DAL @ SAS L 27 7 3 8 37.5 1 3 33.3 0 0 - 1 3 4 3 0 0 2 0 -14
+p476
+aVIan Mahinmi DAL 01/14/2011 DAL @ SAS L 11 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 2 -4
+p477
+aVJason Terry DAL 01/14/2011 DAL @ SAS L 22 9 3 14 21.4 1 3 33.3 2 2 100.0 1 3 4 2 1 0 2 0 -6
+p478
+aVDominique Jones DAL 01/14/2011 DAL @ SAS L 14 13 6 11 54.5 0 0 - 1 2 50.0 0 2 2 3 2 0 0 1 5
+p479
+aVDeShawn Stevenson DAL 01/14/2011 DAL @ SAS L 26 3 1 5 20.0 0 2 0.0 1 2 50.0 1 2 3 2 0 0 0 0 -10
+p480
+aVTyson Chandler DAL 01/14/2011 DAL @ SAS L 16 8 4 5 80.0 0 0 - 0 0 - 0 2 2 0 0 1 1 5 -6
+p481
+aVBrian Cardinal DAL 01/14/2011 DAL @ SAS L 17 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 3 -3
+p482
+aVJ.J. Barea DAL 01/14/2011 DAL @ SAS L 26 13 5 12 41.7 2 2 100.0 1 1 100.0 1 2 3 5 1 0 1 5 0
+p483
+aVSasha Pavlovic DAL 01/14/2011 DAL @ SAS L 19 4 1 3 33.3 1 2 50.0 1 2 50.0 0 2 2 0 0 0 0 0 1
+p484
+aVBrendan Haywood DAL 01/14/2011 DAL @ SAS L 21 6 2 5 40.0 0 0 - 2 4 50.0 0 4 4 1 0 1 1 4 -2
+p485
+aVJ.J. Barea DAL 01/12/2011 DAL @ IND L 19 9 4 8 50.0 1 2 50.0 0 1 0.0 0 2 2 3 0 0 0 3 -12
+p486
+aVJason Kidd DAL 01/12/2011 DAL @ IND L 32 13 4 9 44.4 4 7 57.1 1 1 100.0 0 3 3 7 3 2 2 0 -5
+p487
+aVAlexis Ajinca DAL 01/12/2011 DAL @ IND L 14 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 1 0 1 0 3 0
+p488
+aVShawn Marion DAL 01/12/2011 DAL @ IND L 31 12 5 12 41.7 0 0 - 2 2 100.0 1 6 7 4 0 0 3 2 -8
+p489
+aVDeShawn Stevenson DAL 01/12/2011 DAL @ IND L 30 10 3 8 37.5 3 7 42.9 1 2 50.0 0 4 4 1 0 0 0 1 4
+p490
+aVTyson Chandler DAL 01/12/2011 DAL @ IND L 35 13 3 6 50.0 0 0 - 7 9 77.8 4 5 9 0 0 3 0 1 -6
+p491
+aVJason Terry DAL 01/12/2011 DAL @ IND L 31 18 9 20 45.0 0 2 0.0 0 0 - 1 4 5 3 0 0 4 3 -13
+p492
+aVBrendan Haywood DAL 01/12/2011 DAL @ IND L 8 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 1 0 1 0 0 -3
+p493
+aVIan Mahinmi DAL 01/12/2011 DAL @ IND L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 -4
+p494
+aVBrian Cardinal DAL 01/12/2011 DAL @ IND L 17 3 1 2 50.0 1 1 100.0 0 0 - 2 0 2 0 0 0 1 1 -5
+p495
+aVDominique Jones DAL 01/12/2011 DAL @ IND L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p496
+aVSasha Pavlovic DAL 01/12/2011 DAL @ IND L 16 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 2 0 2 -13
+p497
+aVJ.J. Barea DAL 01/08/2011 DAL vs. ORL L 13 9 4 10 40.0 1 4 25.0 0 0 - 0 1 1 5 0 0 2 3 -1
+p498
+aVIan Mahinmi DAL 01/08/2011 DAL vs. ORL L 3 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 7
+p499
+aVAlexis Ajinca DAL 01/08/2011 DAL vs. ORL L 3 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 1 7
+p500
+aVBrian Cardinal DAL 01/08/2011 DAL vs. ORL L 7 9 3 5 60.0 3 4 75.0 0 0 - 0 0 0 1 2 0 1 1 -1
+p501
+aVShawn Marion DAL 01/08/2011 DAL vs. ORL L 29 18 7 11 63.6 0 0 - 4 4 100.0 3 5 8 0 0 0 4 3 -9
+p502
+aVJason Kidd DAL 01/08/2011 DAL vs. ORL L 33 6 2 8 25.0 1 5 20.0 1 1 100.0 0 5 5 7 3 0 2 0 -23
+p503
+aVDominique Jones DAL 01/08/2011 DAL vs. ORL L -3 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 0 0 0 0 9
+p504
+aVBrendan Haywood DAL 01/08/2011 DAL vs. ORL L 10 5 2 3 66.7 0 0 - 1 2 50.0 1 6 7 1 0 4 2 3 -8
+p505
+aVTyson Chandler DAL 01/08/2011 DAL vs. ORL L 23 6 1 2 50.0 0 0 - 4 6 66.7 1 6 7 1 0 0 2 6 -9
+p506
+aVJason Terry DAL 01/08/2011 DAL vs. ORL L 28 16 8 17 47.1 0 3 0.0 0 1 0.0 0 2 2 9 2 0 2 0 -15
+p507
+aVDeShawn Stevenson DAL 01/08/2011 DAL vs. ORL L 35 24 8 13 61.5 6 9 66.7 2 2 100.0 0 1 1 2 0 0 2 3 -7
+p508
+aVShawn Marion DAL 01/06/2011 DAL vs. OKC L 37 25 12 17 70.6 0 2 0.0 1 2 50.0 1 2 3 2 1 0 2 4 -7
+p509
+aVDominique Jones DAL 01/06/2011 DAL vs. OKC L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 1
+p510
+aVDeShawn Stevenson DAL 01/06/2011 DAL vs. OKC L 35 14 5 12 41.7 4 8 50.0 0 0 - 0 4 4 0 0 0 0 2 -6
+p511
+aVBrian Cardinal DAL 01/06/2011 DAL vs. OKC L 16 2 0 3 0.0 0 2 0.0 2 2 100.0 0 3 3 0 0 0 0 3 0
+p512
+aVBrendan Haywood DAL 01/06/2011 DAL vs. OKC L 13 7 3 5 60.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 1 2
+p513
+aVJ.J. Barea DAL 01/06/2011 DAL vs. OKC L 22 14 5 11 45.5 2 2 100.0 2 3 66.7 0 2 2 2 1 0 5 0 6
+p514
+aVTyson Chandler DAL 01/06/2011 DAL vs. OKC L 35 14 3 5 60.0 0 0 - 8 10 80.0 6 12 18 0 0 2 1 2 -6
+p515
+aVJason Terry DAL 01/06/2011 DAL vs. OKC L 38 19 9 16 56.3 0 2 0.0 1 1 100.0 0 0 0 4 1 0 4 2 -10
+p516
+aVIan Mahinmi DAL 01/06/2011 DAL vs. OKC L 1 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 7
+p517
+aVJason Kidd DAL 01/06/2011 DAL vs. OKC L 40 0 0 7 0.0 0 4 0.0 0 0 - 1 9 10 7 1 0 2 3 -7
+p518
+aVDominique Jones DAL 01/04/2011 DAL vs. POR W 11 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 1
+p519
+aVJason Kidd DAL 01/04/2011 DAL vs. POR W 39 8 3 12 25.0 1 5 20.0 1 1 100.0 0 6 6 8 2 0 5 0 5
+p520
+aVTyson Chandler DAL 01/04/2011 DAL vs. POR W 32 14 7 9 77.8 0 0 - 0 1 0.0 6 7 13 1 0 1 2 3 -2
+p521
+aVBrendan Haywood DAL 01/04/2011 DAL vs. POR W 16 8 4 6 66.7 0 0 - 0 2 0.0 1 5 6 0 0 0 1 0 5
+p522
+aVShawn Marion DAL 01/04/2011 DAL vs. POR W 27 8 3 8 37.5 0 0 - 2 2 100.0 3 6 9 2 0 1 2 3 -4
+p523
+aVJason Terry DAL 01/04/2011 DAL vs. POR W 38 18 8 19 42.1 2 5 40.0 0 0 - 0 3 3 4 0 0 2 3 -5
+p524
+aVBrian Cardinal DAL 01/04/2011 DAL vs. POR W 21 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 4 8
+p525
+aVJ.J. Barea DAL 01/04/2011 DAL vs. POR W 22 10 3 8 37.5 1 2 50.0 3 3 100.0 0 2 2 3 0 0 1 2 6
+p526
+aVDeShawn Stevenson DAL 01/04/2011 DAL vs. POR W 34 18 5 12 41.7 4 9 44.4 4 4 100.0 1 2 3 2 0 0 0 0 1
+p527
+aVTyson Chandler DAL 01/02/2011 DAL @ CLE W 30 14 6 6 100.0 0 0 - 2 6 33.3 4 10 14 0 0 1 3 4 16
+p528
+aVJason Terry DAL 01/02/2011 DAL @ CLE W 36 18 8 14 57.1 2 4 50.0 0 2 0.0 0 0 0 4 2 0 1 1 3
+p529
+aVBrendan Haywood DAL 01/02/2011 DAL @ CLE W 18 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 1 1 0 0 3 -7
+p530
+aVJason Kidd DAL 01/02/2011 DAL @ CLE W 34 10 3 13 23.1 2 6 33.3 2 2 100.0 1 3 4 8 2 1 4 1 9
+p531
+aVShawn Marion DAL 01/02/2011 DAL @ CLE W 31 22 11 16 68.8 0 0 - 0 0 - 1 4 5 1 0 0 0 0 4
+p532
+aVBrian Cardinal DAL 01/02/2011 DAL @ CLE W 17 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 1 1 1 1 2 5
+p533
+aVDominique Jones DAL 01/02/2011 DAL @ CLE W 21 9 2 10 20.0 0 2 0.0 5 5 100.0 2 3 5 3 1 2 0 1 -5
+p534
+aVDeShawn Stevenson DAL 01/02/2011 DAL @ CLE W 33 21 6 13 46.2 5 12 41.7 4 5 80.0 1 2 3 4 0 1 0 0 25
+p535
+aVJ.J. Barea DAL 01/02/2011 DAL @ CLE W 20 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 4 0 0 1 1 -5
+p536
+aVSteve Novak DAL 01/01/2011 DAL @ MIL L 8 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -12
+p537
+aVJason Terry DAL 01/01/2011 DAL @ MIL L 32 7 3 15 20.0 1 6 16.7 0 0 - 0 0 0 2 0 0 2 2 -16
+p538
+aVAlexis Ajinca DAL 01/01/2011 DAL @ MIL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -9
+p539
+aVBrendan Haywood DAL 01/01/2011 DAL @ MIL L 10 1 0 1 0.0 0 0 - 1 4 25.0 1 4 5 0 0 1 0 2 0
+p540
+aVIan Mahinmi DAL 01/01/2011 DAL @ MIL L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -2
+p541
+aVDeShawn Stevenson DAL 01/01/2011 DAL @ MIL L 29 8 3 9 33.3 2 8 25.0 0 1 0.0 0 2 2 0 3 0 1 3 0
+p542
+aVTyson Chandler DAL 01/01/2011 DAL @ MIL L 34 11 4 5 80.0 0 0 - 3 3 100.0 1 4 5 0 0 0 1 4 -10
+p543
+aVJason Kidd DAL 01/01/2011 DAL @ MIL L 38 14 5 12 41.7 2 5 40.0 2 2 100.0 2 5 7 9 6 1 3 0 -9
+p544
+aVBrian Cardinal DAL 01/01/2011 DAL @ MIL L 34 7 1 6 16.7 1 5 20.0 4 4 100.0 2 3 5 3 2 0 1 3 4
+p545
+aVJ.J. Barea DAL 01/01/2011 DAL @ MIL L 36 29 11 21 52.4 1 4 25.0 6 6 100.0 0 3 3 2 1 0 2 3 -3
+p546
+aVCaron Butler DAL 01/01/2011 DAL @ MIL L 9 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -3
+p547
+aVBrian Cardinal DAL 12/30/2010 DAL vs. SAS L 29 9 3 5 60.0 3 3 100.0 0 0 - 0 3 3 2 2 0 0 2 -8
+p548
+aVDeShawn Stevenson DAL 12/30/2010 DAL vs. SAS L 16 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 0 0 1 1 2 5
+p549
+aVJason Kidd DAL 12/30/2010 DAL vs. SAS L 38 12 5 15 33.3 2 5 40.0 0 0 - 2 8 10 13 2 2 3 3 7
+p550
+aVTyson Chandler DAL 12/30/2010 DAL vs. SAS L 37 8 4 4 100.0 0 0 - 0 1 0.0 0 11 11 1 0 1 2 5 9
+p551
+aVJason Terry DAL 12/30/2010 DAL vs. SAS L 30 8 3 16 18.8 2 5 40.0 0 0 - 1 1 2 4 2 0 1 3 -11
+p552
+aVCaron Butler DAL 12/30/2010 DAL vs. SAS L 39 30 10 21 47.6 1 3 33.3 9 9 100.0 0 3 3 1 1 0 2 2 10
+p553
+aVJ.J. Barea DAL 12/30/2010 DAL vs. SAS L 14 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 2 0 0 1 1 -13
+p554
+aVSteve Novak DAL 12/30/2010 DAL vs. SAS L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 4
+p555
+aVShawn Marion DAL 12/30/2010 DAL vs. SAS L 25 10 4 7 57.1 0 2 0.0 2 2 100.0 0 2 2 1 2 0 0 1 -18
+p556
+aVAlexis Ajinca DAL 12/30/2010 DAL vs. SAS L 11 7 3 7 42.9 0 2 0.0 1 1 100.0 0 2 2 0 0 1 0 2 -15
+p557
+aVCaron Butler DAL 12/28/2010 DAL vs. TOR L 38 15 7 16 43.8 0 2 0.0 1 2 50.0 1 2 3 0 2 0 4 3 -4
+p558
+aVTyson Chandler DAL 12/28/2010 DAL vs. TOR L 26 3 1 1 100.0 0 0 - 1 1 100.0 2 4 6 1 1 0 3 1 -13
+p559
+aVIan Mahinmi DAL 12/28/2010 DAL vs. TOR L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 2 0 2 6
+p560
+aVBrian Cardinal DAL 12/28/2010 DAL vs. TOR L 21 8 2 4 50.0 2 4 50.0 2 2 100.0 0 7 7 1 1 0 0 4 8
+p561
+aVBrendan Haywood DAL 12/28/2010 DAL vs. TOR L 10 2 0 0 - 0 0 - 2 2 100.0 2 0 2 0 0 1 0 3 0
+p562
+aVJason Kidd DAL 12/28/2010 DAL vs. TOR L 33 7 3 11 27.3 0 2 0.0 1 1 100.0 1 5 6 4 1 2 3 0 -16
+p563
+aVShawn Marion DAL 12/28/2010 DAL vs. TOR L 30 12 5 10 50.0 0 0 - 2 3 66.7 4 1 5 0 0 1 3 3 -17
+p564
+aVJason Terry DAL 12/28/2010 DAL vs. TOR L 35 18 8 19 42.1 2 8 25.0 0 1 0.0 0 4 4 6 0 0 1 0 7
+p565
+aVJ.J. Barea DAL 12/28/2010 DAL vs. TOR L 18 7 3 8 37.5 1 3 33.3 0 0 - 1 0 1 4 1 0 2 0 1
+p566
+aVDeShawn Stevenson DAL 12/28/2010 DAL vs. TOR L 20 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 2 0 0 1 1 -12
+p567
+aVAlexis Ajinca DAL 12/27/2010 DAL @ OKC W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p568
+aVJ.J. Barea DAL 12/27/2010 DAL @ OKC W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 2 0 0 2 3 -2
+p569
+aVShawn Marion DAL 12/27/2010 DAL @ OKC W 32 20 10 15 66.7 0 0 - 0 0 - 2 7 9 0 0 1 2 2 2
+p570
+aVTyson Chandler DAL 12/27/2010 DAL @ OKC W 30 7 3 6 50.0 0 0 - 1 2 50.0 3 7 10 0 1 1 1 4 18
+p571
+aVCaron Butler DAL 12/27/2010 DAL @ OKC W 39 21 9 22 40.9 3 5 60.0 0 0 - 0 4 4 3 1 0 0 1 10
+p572
+aVBrendan Haywood DAL 12/27/2010 DAL @ OKC W 18 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -8
+p573
+aVJason Kidd DAL 12/27/2010 DAL @ OKC W 36 10 4 11 36.4 2 7 28.6 0 0 - 0 9 9 10 4 0 2 1 12
+p574
+aVDeShawn Stevenson DAL 12/27/2010 DAL @ OKC W 20 12 3 4 75.0 3 4 75.0 3 3 100.0 0 2 2 3 0 0 1 2 8
+p575
+aVJason Terry DAL 12/27/2010 DAL @ OKC W 34 13 6 17 35.3 1 5 20.0 0 0 - 0 2 2 8 1 0 5 2 1
+p576
+aVDirk Nowitzki DAL 12/27/2010 DAL @ OKC W 12 13 4 6 66.7 1 1 100.0 4 4 100.0 0 2 2 3 0 0 1 1 7
+p577
+aVTyson Chandler DAL 12/21/2010 DAL @ ORL W 34 16 7 7 100.0 0 0 - 2 3 66.7 1 3 4 0 1 0 1 2 13
+p578
+aVShawn Marion DAL 12/21/2010 DAL @ ORL W 31 7 2 7 28.6 0 1 0.0 3 4 75.0 0 4 4 1 0 0 0 1 -1
+p579
+aVDeShawn Stevenson DAL 12/21/2010 DAL @ ORL W 16 11 4 5 80.0 3 4 75.0 0 0 - 0 4 4 1 1 0 2 2 9
+p580
+aVJ.J. Barea DAL 12/21/2010 DAL @ ORL W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 1 0
+p581
+aVJason Terry DAL 12/21/2010 DAL @ ORL W 30 13 5 10 50.0 1 3 33.3 2 2 100.0 1 1 2 5 1 0 3 3 -5
+p582
+aVJason Kidd DAL 12/21/2010 DAL @ ORL W 33 13 4 12 33.3 3 8 37.5 2 2 100.0 1 5 6 12 1 0 1 1 7
+p583
+aVBrendan Haywood DAL 12/21/2010 DAL @ ORL W 14 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 0 0 0 2 2 -7
+p584
+aVDirk Nowitzki DAL 12/21/2010 DAL @ ORL W 37 17 4 13 30.8 1 3 33.3 8 8 100.0 0 8 8 5 1 0 2 3 5
+p585
+aVCaron Butler DAL 12/21/2010 DAL @ ORL W 27 20 8 14 57.1 4 6 66.7 0 0 - 0 4 4 0 0 0 1 3 9
+p586
+aVJason Terry DAL 12/20/2010 DAL @ MIA W 31 19 6 15 40.0 3 6 50.0 4 4 100.0 1 0 1 2 0 0 1 1 -11
+p587
+aVDirk Nowitzki DAL 12/20/2010 DAL @ MIA W 39 26 8 21 38.1 0 4 0.0 10 10 100.0 0 9 9 2 1 0 0 4 16
+p588
+aVTyson Chandler DAL 12/20/2010 DAL @ MIA W 31 8 3 3 100.0 0 0 - 2 2 100.0 2 7 9 0 0 0 1 5 6
+p589
+aVJ.J. Barea DAL 12/20/2010 DAL @ MIA W 12 6 2 4 50.0 1 2 50.0 1 2 50.0 1 4 5 2 1 0 2 1 0
+p590
+aVBrendan Haywood DAL 12/20/2010 DAL @ MIA W 17 4 2 2 100.0 0 0 - 0 1 0.0 1 3 4 0 1 0 1 3 -4
+p591
+aVShawn Marion DAL 12/20/2010 DAL @ MIA W 29 7 2 7 28.6 0 0 - 3 4 75.0 5 8 13 3 0 1 3 3 -8
+p592
+aVCaron Butler DAL 12/20/2010 DAL @ MIA W 28 13 4 9 44.4 1 2 50.0 4 5 80.0 0 3 3 3 2 0 2 1 -4
+p593
+aVDeShawn Stevenson DAL 12/20/2010 DAL @ MIA W 15 8 3 8 37.5 2 5 40.0 0 0 - 0 0 0 0 1 0 0 2 16
+p594
+aVJason Kidd DAL 12/20/2010 DAL @ MIA W 39 7 3 5 60.0 1 2 50.0 0 0 - 0 4 4 7 0 0 3 3 -1
+p595
+aVIan Mahinmi DAL 12/17/2010 DAL vs. PHX W 3 6 1 1 100.0 0 0 - 4 4 100.0 1 1 2 1 0 0 0 1 2
+p596
+aVShawn Marion DAL 12/17/2010 DAL vs. PHX W 30 15 6 15 40.0 1 2 50.0 2 3 66.7 2 3 5 0 1 0 0 3 -4
+p597
+aVCaron Butler DAL 12/17/2010 DAL vs. PHX W 28 17 6 13 46.2 1 2 50.0 4 5 80.0 2 5 7 1 1 1 3 0 21
+p598
+aVBrian Cardinal DAL 12/17/2010 DAL vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p599
+aVJason Kidd DAL 12/17/2010 DAL vs. PHX W 25 4 2 5 40.0 0 3 0.0 0 0 - 0 4 4 8 2 0 2 2 15
+p600
+aVTyson Chandler DAL 12/17/2010 DAL vs. PHX W 24 7 3 8 37.5 0 0 - 1 4 25.0 1 11 12 1 2 3 0 1 17
+p601
+aVBrendan Haywood DAL 12/17/2010 DAL vs. PHX W 21 6 2 3 66.7 0 0 - 2 8 25.0 5 5 10 0 1 0 0 1 -4
+p602
+aVDeShawn Stevenson DAL 12/17/2010 DAL vs. PHX W 18 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 4 0 0 1 2 19
+p603
+aVJason Terry DAL 12/17/2010 DAL vs. PHX W 30 18 8 16 50.0 2 3 66.7 0 0 - 0 3 3 6 2 0 2 2 -4
+p604
+aVDirk Nowitzki DAL 12/17/2010 DAL vs. PHX W 29 18 5 12 41.7 2 2 100.0 6 6 100.0 0 5 5 2 0 0 0 3 8
+p605
+aVSteve Novak DAL 12/17/2010 DAL vs. PHX W 1 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 3
+p606
+aVJ.J. Barea DAL 12/17/2010 DAL vs. PHX W 28 3 1 5 20.0 0 2 0.0 1 1 100.0 0 2 2 4 0 0 1 3 1
+p607
+aVDeShawn Stevenson DAL 12/15/2010 DAL vs. POR W 13 2 1 5 20.0 0 4 0.0 0 0 - 0 0 0 1 0 0 0 1 -8
+p608
+aVBrendan Haywood DAL 12/15/2010 DAL vs. POR W 10 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -7
+p609
+aVJason Terry DAL 12/15/2010 DAL vs. POR W 32 13 5 12 41.7 0 2 0.0 3 4 75.0 0 1 1 3 2 0 0 2 9
+p610
+aVCaron Butler DAL 12/15/2010 DAL vs. POR W 33 23 10 19 52.6 0 2 0.0 3 3 100.0 1 6 7 4 0 0 1 1 14
+p611
+aVDirk Nowitzki DAL 12/15/2010 DAL vs. POR W 37 21 7 14 50.0 0 4 0.0 7 7 100.0 0 5 5 3 3 2 3 1 -6
+p612
+aVShawn Marion DAL 12/15/2010 DAL vs. POR W 25 8 4 5 80.0 0 0 - 0 0 - 1 4 5 1 0 0 3 2 2
+p613
+aVTyson Chandler DAL 12/15/2010 DAL vs. POR W 35 11 4 5 80.0 0 0 - 3 3 100.0 2 6 8 1 1 1 0 2 8
+p614
+aVJason Kidd DAL 12/15/2010 DAL vs. POR W 36 11 4 6 66.7 3 3 100.0 0 0 - 0 7 7 6 1 1 3 1 13
+p615
+aVIan Mahinmi DAL 12/15/2010 DAL vs. POR W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p616
+aVJ.J. Barea DAL 12/15/2010 DAL vs. POR W 15 10 4 7 57.1 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 3 -4
+p617
+aVJ.J. Barea DAL 12/13/2010 DAL vs. MIL L 21 8 2 8 25.0 0 2 0.0 4 4 100.0 2 1 3 5 0 0 0 0 -8
+p618
+aVSteve Novak DAL 12/13/2010 DAL vs. MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p619
+aVShawn Marion DAL 12/13/2010 DAL vs. MIL L 27 14 6 9 66.7 0 1 0.0 2 2 100.0 1 4 5 0 0 2 2 1 -1
+p620
+aVBrendan Haywood DAL 12/13/2010 DAL vs. MIL L 20 2 1 2 50.0 0 0 - 0 4 0.0 2 2 4 0 0 1 1 3 5
+p621
+aVTyson Chandler DAL 12/13/2010 DAL vs. MIL L 28 11 4 5 80.0 0 0 - 3 4 75.0 2 7 9 0 0 1 0 4 -11
+p622
+aVDeShawn Stevenson DAL 12/13/2010 DAL vs. MIL L 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p623
+aVCaron Butler DAL 12/13/2010 DAL vs. MIL L 28 9 4 11 36.4 0 4 0.0 1 2 50.0 0 3 3 0 0 0 2 3 7
+p624
+aVJason Kidd DAL 12/13/2010 DAL vs. MIL L 31 11 4 7 57.1 1 4 25.0 2 2 100.0 2 5 7 10 3 0 2 0 -9
+p625
+aVJason Terry DAL 12/13/2010 DAL vs. MIL L 31 12 3 8 37.5 1 3 33.3 5 6 83.3 0 3 3 8 0 1 3 3 -1
+p626
+aVDirk Nowitzki DAL 12/13/2010 DAL vs. MIL L 39 30 12 24 50.0 3 6 50.0 3 3 100.0 0 7 7 3 1 2 3 4 -4
+p627
+aVJason Terry DAL 12/11/2010 DAL vs. UTA W 23 14 4 12 33.3 2 4 50.0 4 4 100.0 0 0 0 0 1 1 5 3 -16
+p628
+aVDeShawn Stevenson DAL 12/11/2010 DAL vs. UTA W 22 17 5 9 55.6 5 7 71.4 2 2 100.0 0 1 1 4 1 0 2 2 19
+p629
+aVTyson Chandler DAL 12/11/2010 DAL vs. UTA W 29 6 3 4 75.0 0 0 - 0 0 - 4 5 9 0 0 3 1 6 16
+p630
+aVJason Kidd DAL 12/11/2010 DAL vs. UTA W 35 3 1 5 20.0 0 3 0.0 1 1 100.0 0 4 4 9 2 0 3 3 15
+p631
+aVBrendan Haywood DAL 12/11/2010 DAL vs. UTA W 18 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 0 0 -13
+p632
+aVCaron Butler DAL 12/11/2010 DAL vs. UTA W 34 16 6 9 66.7 4 5 80.0 0 0 - 0 4 4 3 2 0 2 1 15
+p633
+aVShawn Marion DAL 12/11/2010 DAL vs. UTA W 20 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 2 1 0 1 2 -16
+p634
+aVJ.J. Barea DAL 12/11/2010 DAL vs. UTA W 19 8 1 6 16.7 0 3 0.0 6 8 75.0 0 0 0 2 0 0 1 1 -11
+p635
+aVDirk Nowitzki DAL 12/11/2010 DAL vs. UTA W 39 31 10 12 83.3 3 4 75.0 8 11 72.7 1 14 15 4 0 1 3 1 21
+p636
+aVBrendan Haywood DAL 12/09/2010 DAL vs. NJN W 18 9 4 6 66.7 0 0 - 1 2 50.0 3 5 8 0 0 1 1 3 6
+p637
+aVShawn Marion DAL 12/09/2010 DAL vs. NJN W 32 18 8 10 80.0 0 0 - 2 2 100.0 0 6 6 0 4 1 3 3 12
+p638
+aVDeShawn Stevenson DAL 12/09/2010 DAL vs. NJN W 13 6 2 3 66.7 1 2 50.0 1 2 50.0 0 0 0 2 0 0 0 0 1
+p639
+aVJ.J. Barea DAL 12/09/2010 DAL vs. NJN W 27 6 1 5 20.0 0 3 0.0 4 4 100.0 0 1 1 13 0 0 4 0 11
+p640
+aVJason Terry DAL 12/09/2010 DAL vs. NJN W 30 15 7 16 43.8 0 3 0.0 1 2 50.0 0 0 0 2 2 0 0 0 14
+p641
+aVJason Kidd DAL 12/09/2010 DAL vs. NJN W 26 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 8 3 0 1 1 0
+p642
+aVDirk Nowitzki DAL 12/09/2010 DAL vs. NJN W 37 21 8 10 80.0 1 2 50.0 4 4 100.0 0 10 10 1 1 0 2 1 14
+p643
+aVCaron Butler DAL 12/09/2010 DAL vs. NJN W 27 15 7 11 63.6 0 1 0.0 1 1 100.0 1 3 4 4 0 2 3 1 0
+p644
+aVTyson Chandler DAL 12/09/2010 DAL vs. NJN W 22 2 1 5 20.0 0 0 - 0 0 - 0 5 5 0 1 0 1 5 4
+p645
+aVIan Mahinmi DAL 12/09/2010 DAL vs. NJN W 9 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 0 0 0 3 3
+p646
+aVJason Terry DAL 12/07/2010 DAL vs. GSW W 33 20 8 12 66.7 1 2 50.0 3 3 100.0 0 1 1 4 1 0 2 0 17
+p647
+aVJason Kidd DAL 12/07/2010 DAL vs. GSW W 32 3 1 7 14.3 1 5 20.0 0 0 - 0 4 4 7 2 0 0 0 -6
+p648
+aVDeShawn Stevenson DAL 12/07/2010 DAL vs. GSW W 13 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 2 0 0 2 1 -8
+p649
+aVIan Mahinmi DAL 12/07/2010 DAL vs. GSW W 21 12 2 5 40.0 0 0 - 8 10 80.0 7 3 10 0 2 1 0 3 8
+p650
+aVShawn Marion DAL 12/07/2010 DAL vs. GSW W 25 6 2 8 25.0 0 1 0.0 2 2 100.0 2 4 6 3 3 0 1 0 10
+p651
+aVJ.J. Barea DAL 12/07/2010 DAL vs. GSW W 17 6 2 6 33.3 0 2 0.0 2 3 66.7 0 2 2 2 1 0 3 0 7
+p652
+aVBrendan Haywood DAL 12/07/2010 DAL vs. GSW W 18 4 2 3 66.7 0 0 - 0 1 0.0 1 5 6 1 0 3 3 2 -4
+p653
+aVCaron Butler DAL 12/07/2010 DAL vs. GSW W 34 19 8 18 44.4 2 5 40.0 1 2 50.0 2 4 6 1 0 0 1 0 -5
+p654
+aVDirk Nowitzki DAL 12/07/2010 DAL vs. GSW W 37 25 10 18 55.6 2 3 66.7 3 4 75.0 0 2 2 2 2 4 4 4 5
+p655
+aVAlexis Ajinca DAL 12/07/2010 DAL vs. GSW W 9 3 1 4 25.0 0 0 - 1 2 50.0 3 3 6 0 1 2 0 0 1
+p656
+aVTyson Chandler DAL 12/04/2010 DAL @ SAC W 25 10 3 5 60.0 0 0 - 4 5 80.0 2 5 7 1 1 1 0 3 3
+p657
+aVDeShawn Stevenson DAL 12/04/2010 DAL @ SAC W 13 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 1 0 0 1 0 -9
+p658
+aVShawn Marion DAL 12/04/2010 DAL @ SAC W 27 4 2 6 33.3 0 0 - 0 0 - 2 6 8 1 0 1 1 2 3
+p659
+aVDirk Nowitzki DAL 12/04/2010 DAL @ SAC W 37 25 11 15 73.3 0 0 - 3 3 100.0 0 5 5 5 0 1 3 2 -3
+p660
+aVJason Terry DAL 12/04/2010 DAL @ SAC W 32 23 7 14 50.0 2 5 40.0 7 7 100.0 1 0 1 3 1 0 1 2 9
+p661
+aVCaron Butler DAL 12/04/2010 DAL @ SAC W 26 13 4 10 40.0 0 0 - 5 6 83.3 0 5 5 1 1 0 2 3 -3
+p662
+aVJason Kidd DAL 12/04/2010 DAL @ SAC W 33 8 2 10 20.0 1 8 12.5 3 3 100.0 0 5 5 5 0 0 2 2 2
+p663
+aVJ.J. Barea DAL 12/04/2010 DAL @ SAC W 25 7 3 6 50.0 0 0 - 1 3 33.3 0 3 3 6 1 0 1 3 9
+p664
+aVBrendan Haywood DAL 12/04/2010 DAL @ SAC W 24 9 4 5 80.0 0 0 - 1 2 50.0 1 1 2 0 0 3 0 3 -1
+p665
+aVJ.J. Barea DAL 12/03/2010 DAL @ UTA W 22 8 3 8 37.5 0 2 0.0 2 2 100.0 0 1 1 4 0 0 1 2 6
+p666
+aVCaron Butler DAL 12/03/2010 DAL @ UTA W 29 16 6 12 50.0 2 2 100.0 2 4 50.0 1 2 3 2 1 1 0 2 4
+p667
+aVIan Mahinmi DAL 12/03/2010 DAL @ UTA W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p668
+aVDeShawn Stevenson DAL 12/03/2010 DAL @ UTA W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -2
+p669
+aVBrendan Haywood DAL 12/03/2010 DAL @ UTA W 29 4 2 3 66.7 0 0 - 0 2 0.0 1 5 6 0 0 2 0 4 13
+p670
+aVShawn Marion DAL 12/03/2010 DAL @ UTA W 29 8 4 10 40.0 0 0 - 0 0 - 0 5 5 3 3 0 1 1 13
+p671
+aVBrian Cardinal DAL 12/03/2010 DAL @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p672
+aVJason Kidd DAL 12/03/2010 DAL @ UTA W 29 15 6 8 75.0 3 5 60.0 0 0 - 0 3 3 7 0 0 2 1 4
+p673
+aVJason Terry DAL 12/03/2010 DAL @ UTA W 30 12 5 12 41.7 0 6 0.0 2 2 100.0 0 3 3 5 5 0 3 1 16
+p674
+aVTyson Chandler DAL 12/03/2010 DAL @ UTA W 17 2 1 3 33.3 0 0 - 0 0 - 0 8 8 2 0 0 3 4 2
+p675
+aVDirk Nowitzki DAL 12/03/2010 DAL @ UTA W 35 26 12 18 66.7 1 3 33.3 1 1 100.0 1 5 6 2 2 1 1 3 13
+p676
+aVSteve Novak DAL 12/03/2010 DAL @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p677
+aVJason Kidd DAL 12/01/2010 DAL vs. MIN W 28 5 2 11 18.2 1 5 20.0 0 0 - 2 3 5 4 4 0 3 2 14
+p678
+aVJason Terry DAL 12/01/2010 DAL vs. MIN W 27 12 5 10 50.0 2 4 50.0 0 0 - 1 0 1 7 3 0 1 0 13
+p679
+aVCaron Butler DAL 12/01/2010 DAL vs. MIN W 20 10 4 8 50.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 2 4 4
+p680
+aVJ.J. Barea DAL 12/01/2010 DAL vs. MIN W 23 14 6 13 46.2 1 4 25.0 1 2 50.0 0 2 2 3 0 0 3 3 6
+p681
+aVIan Mahinmi DAL 12/01/2010 DAL vs. MIN W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -7
+p682
+aVBrendan Haywood DAL 12/01/2010 DAL vs. MIN W 21 7 3 7 42.9 0 0 - 1 3 33.3 2 8 10 1 0 0 1 1 12
+p683
+aVSteve Novak DAL 12/01/2010 DAL vs. MIN W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p684
+aVDeShawn Stevenson DAL 12/01/2010 DAL vs. MIN W 19 7 2 4 50.0 2 2 100.0 1 2 50.0 0 1 1 2 1 0 1 0 -3
+p685
+aVTyson Chandler DAL 12/01/2010 DAL vs. MIN W 22 9 2 3 66.7 0 0 - 5 6 83.3 4 14 18 0 0 1 2 3 7
+p686
+aVShawn Marion DAL 12/01/2010 DAL vs. MIN W 29 16 5 14 35.7 2 4 50.0 4 4 100.0 1 7 8 1 2 0 1 1 17
+p687
+aVBrian Cardinal DAL 12/01/2010 DAL vs. MIN W 19 6 2 3 66.7 2 2 100.0 0 0 - 1 2 3 0 1 0 0 3 2
+p688
+aVDirk Nowitzki DAL 12/01/2010 DAL vs. MIN W 24 10 4 11 36.4 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 1 12
+p689
+aVDeShawn Stevenson DAL 11/29/2010 DAL vs. HOU W 21 10 3 5 60.0 2 4 50.0 2 2 100.0 0 2 2 1 1 0 2 3 1
+p690
+aVCaron Butler DAL 11/29/2010 DAL vs. HOU W 27 19 8 14 57.1 1 3 33.3 2 2 100.0 0 1 1 2 1 0 0 2 11
+p691
+aVJason Kidd DAL 11/29/2010 DAL vs. HOU W 26 8 3 8 37.5 2 3 66.7 0 0 - 1 2 3 11 0 0 2 0 10
+p692
+aVJ.J. Barea DAL 11/29/2010 DAL vs. HOU W 27 11 5 8 62.5 1 1 100.0 0 0 - 0 3 3 6 1 0 1 3 7
+p693
+aVIan Mahinmi DAL 11/29/2010 DAL vs. HOU W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -11
+p694
+aVBrian Cardinal DAL 11/29/2010 DAL vs. HOU W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p695
+aVJason Terry DAL 11/29/2010 DAL vs. HOU W 21 6 2 7 28.6 0 2 0.0 2 2 100.0 0 0 0 0 0 0 1 3 2
+p696
+aVTyson Chandler DAL 11/29/2010 DAL vs. HOU W 23 5 0 2 0.0 0 0 - 5 6 83.3 2 6 8 1 1 0 0 1 18
+p697
+aVDirk Nowitzki DAL 11/29/2010 DAL vs. HOU W 29 20 10 16 62.5 0 1 0.0 0 0 - 0 10 10 1 0 3 3 2 18
+p698
+aVBrendan Haywood DAL 11/29/2010 DAL vs. HOU W 21 6 3 6 50.0 0 0 - 0 0 - 2 7 9 1 0 2 1 1 3
+p699
+aVShawn Marion DAL 11/29/2010 DAL vs. HOU W 27 14 5 10 50.0 0 0 - 4 5 80.0 4 6 10 0 0 0 1 1 8
+p700
+aVDominique Jones DAL 11/29/2010 DAL vs. HOU W 8 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 3 1 -8
+p701
+aVShawn Marion DAL 11/27/2010 DAL vs. MIA W 24 14 6 12 50.0 0 0 - 2 2 100.0 4 1 5 0 1 0 1 2 -16
+p702
+aVJ.J. Barea DAL 11/27/2010 DAL vs. MIA W 15 13 5 7 71.4 0 0 - 3 3 100.0 0 1 1 2 0 0 2 2 -9
+p703
+aVBrendan Haywood DAL 11/27/2010 DAL vs. MIA W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -5
+p704
+aVTyson Chandler DAL 11/27/2010 DAL vs. MIA W 36 14 6 10 60.0 0 0 - 2 4 50.0 7 10 17 0 0 3 0 4 14
+p705
+aVDirk Nowitzki DAL 11/27/2010 DAL vs. MIA W 34 22 9 23 39.1 1 5 20.0 3 3 100.0 0 6 6 4 3 0 2 4 28
+p706
+aVCaron Butler DAL 11/27/2010 DAL vs. MIA W 37 23 9 15 60.0 3 3 100.0 2 2 100.0 1 2 3 0 1 0 0 2 12
+p707
+aVDeShawn Stevenson DAL 11/27/2010 DAL vs. MIA W 15 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 2 0 0 0 1 17
+p708
+aVJason Terry DAL 11/27/2010 DAL vs. MIA W 29 12 3 12 25.0 1 3 33.3 5 6 83.3 1 1 2 4 1 0 3 2 5
+p709
+aVIan Mahinmi DAL 11/27/2010 DAL vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p710
+aVJason Kidd DAL 11/27/2010 DAL vs. MIA W 37 5 1 5 20.0 1 3 33.3 2 2 100.0 0 8 8 13 2 0 2 1 11
+p711
+aVBrian Cardinal DAL 11/27/2010 DAL vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p712
+aVDeShawn Stevenson DAL 11/26/2010 DAL @ SAS W 14 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 2 2 0 0 2 6
+p713
+aVIan Mahinmi DAL 11/26/2010 DAL @ SAS W 14 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 1 0 3 6
+p714
+aVJason Kidd DAL 11/26/2010 DAL @ SAS W 34 12 5 9 55.6 2 3 66.7 0 2 0.0 1 5 6 6 3 0 2 1 8
+p715
+aVCaron Butler DAL 11/26/2010 DAL @ SAS W 26 8 4 11 36.4 0 1 0.0 0 2 0.0 1 2 3 1 0 1 4 2 -3
+p716
+aVAlexis Ajinca DAL 11/26/2010 DAL @ SAS W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p717
+aVJ.J. Barea DAL 11/26/2010 DAL @ SAS W 15 4 1 4 25.0 0 2 0.0 2 2 100.0 1 0 1 7 0 0 0 3 -1
+p718
+aVShawn Marion DAL 11/26/2010 DAL @ SAS W 27 19 8 12 66.7 0 2 0.0 3 5 60.0 1 2 3 0 1 0 2 3 4
+p719
+aVDirk Nowitzki DAL 11/26/2010 DAL @ SAS W 40 26 12 14 85.7 2 2 100.0 0 0 - 1 7 8 5 0 0 2 4 15
+p720
+aVJason Terry DAL 11/26/2010 DAL @ SAS W 35 12 5 13 38.5 1 3 33.3 1 2 50.0 0 2 2 6 3 0 4 3 7
+p721
+aVTyson Chandler DAL 11/26/2010 DAL @ SAS W 32 19 3 3 100.0 0 0 - 13 16 81.3 3 5 8 1 0 1 0 1 7
+p722
+aVBrendan Haywood DAL 11/24/2010 DAL @ OKC W 13 3 1 1 100.0 0 0 - 1 3 33.3 1 2 3 0 0 1 0 1 -8
+p723
+aVTyson Chandler DAL 11/24/2010 DAL @ OKC W 35 17 5 9 55.6 0 0 - 7 8 87.5 7 11 18 0 1 1 2 2 16
+p724
+aVCaron Butler DAL 11/24/2010 DAL @ OKC W 30 15 6 13 46.2 1 3 33.3 2 2 100.0 0 5 5 1 1 0 1 2 -3
+p725
+aVBrian Cardinal DAL 11/24/2010 DAL @ OKC W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p726
+aVDirk Nowitzki DAL 11/24/2010 DAL @ OKC W 39 34 9 15 60.0 2 5 40.0 14 15 93.3 0 4 4 4 1 0 3 1 13
+p727
+aVJason Terry DAL 11/24/2010 DAL @ OKC W 29 10 3 11 27.3 2 5 40.0 2 2 100.0 0 4 4 4 2 0 1 4 2
+p728
+aVDeShawn Stevenson DAL 11/24/2010 DAL @ OKC W 17 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 5
+p729
+aVShawn Marion DAL 11/24/2010 DAL @ OKC W 20 12 5 9 55.6 0 0 - 2 2 100.0 4 3 7 2 1 0 1 3 10
+p730
+aVJason Kidd DAL 11/24/2010 DAL @ OKC W 36 8 3 12 25.0 2 9 22.2 0 0 - 1 1 2 12 1 0 3 0 14
+p731
+aVJ.J. Barea DAL 11/24/2010 DAL @ OKC W 14 6 2 7 28.6 0 2 0.0 2 2 100.0 0 5 5 0 0 0 1 2 -5
+p732
+aVTyson Chandler DAL 11/23/2010 DAL vs. DET W 26 3 1 2 50.0 0 0 - 1 2 50.0 1 4 5 0 0 1 2 5 5
+p733
+aVBrendan Haywood DAL 11/23/2010 DAL vs. DET W 19 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 2 1 4 4
+p734
+aVJason Terry DAL 11/23/2010 DAL vs. DET W 35 16 7 17 41.2 1 6 16.7 1 1 100.0 0 2 2 4 3 0 1 3 -2
+p735
+aVIan Mahinmi DAL 11/23/2010 DAL vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p736
+aVJason Kidd DAL 11/23/2010 DAL vs. DET W 39 7 2 9 22.2 1 5 20.0 2 2 100.0 0 4 4 10 1 0 0 1 3
+p737
+aVJ.J. Barea DAL 11/23/2010 DAL vs. DET W 16 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 1 1 1 1 2 -5
+p738
+aVShawn Marion DAL 11/23/2010 DAL vs. DET W 15 4 1 6 16.7 0 1 0.0 2 2 100.0 2 2 4 0 0 0 2 0 0
+p739
+aVDirk Nowitzki DAL 11/23/2010 DAL vs. DET W 40 42 13 23 56.5 3 3 100.0 13 16 81.3 5 7 12 1 0 2 1 4 9
+p740
+aVDeShawn Stevenson DAL 11/23/2010 DAL vs. DET W 10 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 7
+p741
+aVCaron Butler DAL 11/23/2010 DAL vs. DET W 38 11 4 11 36.4 0 0 - 3 4 75.0 2 6 8 4 2 1 0 3 4
+p742
+aVJason Kidd DAL 11/20/2010 DAL @ ATL W 32 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 9 1 0 2 1 -3
+p743
+aVTyson Chandler DAL 11/20/2010 DAL @ ATL W 28 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 1 0 1 2 3 -4
+p744
+aVJason Terry DAL 11/20/2010 DAL @ ATL W 29 15 6 10 60.0 1 2 50.0 2 2 100.0 0 1 1 7 1 0 4 2 -5
+p745
+aVCaron Butler DAL 11/20/2010 DAL @ ATL W 23 13 5 11 45.5 0 1 0.0 3 3 100.0 0 5 5 1 1 0 1 3 9
+p746
+aVJ.J. Barea DAL 11/20/2010 DAL @ ATL W 20 5 2 8 25.0 1 2 50.0 0 0 - 0 2 2 4 1 0 0 1 15
+p747
+aVDeShawn Stevenson DAL 11/20/2010 DAL @ ATL W 18 13 4 4 100.0 3 3 100.0 2 2 100.0 1 2 3 1 0 0 1 0 -3
+p748
+aVShawn Marion DAL 11/20/2010 DAL @ ATL W 31 12 6 11 54.5 0 0 - 0 0 - 3 7 10 1 1 1 1 0 3
+p749
+aVDirk Nowitzki DAL 11/20/2010 DAL @ ATL W 39 21 8 22 36.4 0 2 0.0 5 7 71.4 1 6 7 3 0 0 2 1 6
+p750
+aVBrendan Haywood DAL 11/20/2010 DAL @ ATL W 20 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 0 0 0 7
+p751
+aVDirk Nowitzki DAL 11/19/2010 DAL vs. CHI L 42 36 15 26 57.7 3 5 60.0 3 6 50.0 0 8 8 3 2 0 2 3 2
+p752
+aVTyson Chandler DAL 11/19/2010 DAL vs. CHI L 28 8 1 1 100.0 0 0 - 6 9 66.7 3 7 10 0 0 3 1 5 2
+p753
+aVCaron Butler DAL 11/19/2010 DAL vs. CHI L 31 12 3 10 30.0 0 0 - 6 6 100.0 1 4 5 2 1 0 2 5 6
+p754
+aVJason Terry DAL 11/19/2010 DAL vs. CHI L 38 9 3 15 20.0 1 8 12.5 2 2 100.0 1 2 3 8 2 0 1 2 2
+p755
+aVDeShawn Stevenson DAL 11/19/2010 DAL vs. CHI L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p756
+aVJ.J. Barea DAL 11/19/2010 DAL vs. CHI L 19 0 0 7 0.0 0 1 0.0 0 0 - 0 0 0 5 0 0 1 0 -11
+p757
+aVJason Kidd DAL 11/19/2010 DAL vs. CHI L 34 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 4 0 0 0 1 5
+p758
+aVBrendan Haywood DAL 11/19/2010 DAL vs. CHI L 17 7 3 3 100.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 2 -11
+p759
+aVShawn Marion DAL 11/19/2010 DAL vs. CHI L 24 8 4 8 50.0 0 1 0.0 0 0 - 2 1 3 0 1 1 0 1 -16
+p760
+aVJ.J. Barea DAL 11/17/2010 DAL @ NOH L 26 9 2 13 15.4 0 5 0.0 5 6 83.3 2 4 6 6 0 0 1 0 6
+p761
+aVTyson Chandler DAL 11/17/2010 DAL @ NOH L 29 10 4 4 100.0 0 0 - 2 2 100.0 1 6 7 0 0 3 2 3 -5
+p762
+aVBrendan Haywood DAL 11/17/2010 DAL @ NOH L 19 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 4 3
+p763
+aVJason Terry DAL 11/17/2010 DAL @ NOH L 34 16 6 8 75.0 2 4 50.0 2 2 100.0 0 2 2 7 1 2 3 2 -1
+p764
+aVJason Kidd DAL 11/17/2010 DAL @ NOH L 35 11 3 7 42.9 3 6 50.0 2 2 100.0 0 4 4 8 2 0 5 5 -5
+p765
+aVDirk Nowitzki DAL 11/17/2010 DAL @ NOH L 36 29 11 19 57.9 0 1 0.0 7 7 100.0 0 9 9 1 1 1 2 5 15
+p766
+aVShawn Marion DAL 11/17/2010 DAL @ NOH L 26 8 4 7 57.1 0 0 - 0 0 - 1 3 4 1 0 0 1 3 -11
+p767
+aVDeShawn Stevenson DAL 11/17/2010 DAL @ NOH L 9 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p768
+aVBrian Cardinal DAL 11/17/2010 DAL @ NOH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p769
+aVCaron Butler DAL 11/17/2010 DAL @ NOH L 22 5 2 7 28.6 0 0 - 1 2 50.0 0 0 0 2 0 0 1 0 2
+p770
+aVDominique Jones DAL 11/15/2010 DAL vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -5
+p771
+aVShawn Marion DAL 11/15/2010 DAL vs. NOH W 27 5 2 6 33.3 0 1 0.0 1 2 50.0 0 6 6 2 0 0 5 2 -3
+p772
+aVDirk Nowitzki DAL 11/15/2010 DAL vs. NOH W 37 25 7 12 58.3 1 2 50.0 10 13 76.9 3 7 10 3 0 0 3 3 3
+p773
+aVTyson Chandler DAL 11/15/2010 DAL vs. NOH W 23 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 0 0 0 0 5 10
+p774
+aVBrian Cardinal DAL 11/15/2010 DAL vs. NOH W 17 6 2 6 33.3 2 5 40.0 0 0 - 2 1 3 2 1 0 1 1 -8
+p775
+aVDeShawn Stevenson DAL 11/15/2010 DAL vs. NOH W 15 6 2 5 40.0 2 5 40.0 0 0 - 1 0 1 0 0 0 0 1 1
+p776
+aVBrendan Haywood DAL 11/15/2010 DAL vs. NOH W 25 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 2 2 -7
+p777
+aVJason Kidd DAL 11/15/2010 DAL vs. NOH W 35 16 6 8 75.0 3 5 60.0 1 2 50.0 1 7 8 6 1 0 3 0 9
+p778
+aVJ.J. Barea DAL 11/15/2010 DAL vs. NOH W 22 7 3 7 42.9 0 3 0.0 1 2 50.0 0 1 1 4 0 0 0 3 6
+p779
+aVJason Terry DAL 11/15/2010 DAL vs. NOH W 36 26 9 19 47.4 3 6 50.0 5 6 83.3 0 2 2 4 1 1 1 1 9
+p780
+aVIan Mahinmi DAL 11/15/2010 DAL vs. NOH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p781
+aVTyson Chandler DAL 11/12/2010 DAL vs. PHI W 25 11 3 4 75.0 0 0 - 5 7 71.4 3 9 12 0 1 2 1 6 1
+p782
+aVDirk Nowitzki DAL 11/12/2010 DAL vs. PHI W 36 16 5 15 33.3 0 2 0.0 6 6 100.0 1 4 5 2 1 0 3 5 14
+p783
+aVBrian Cardinal DAL 11/12/2010 DAL vs. PHI W 23 5 1 2 50.0 1 2 50.0 2 2 100.0 1 1 2 0 2 1 0 3 7
+p784
+aVJason Terry DAL 11/12/2010 DAL vs. PHI W 33 13 5 15 33.3 1 5 20.0 2 2 100.0 0 3 3 4 1 0 1 1 11
+p785
+aVJ.J. Barea DAL 11/12/2010 DAL vs. PHI W 22 19 7 14 50.0 1 4 25.0 4 4 100.0 0 0 0 2 0 0 0 1 10
+p786
+aVDeShawn Stevenson DAL 11/12/2010 DAL vs. PHI W 13 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 -3
+p787
+aVBrendan Haywood DAL 11/12/2010 DAL vs. PHI W 23 6 2 5 40.0 0 0 - 2 6 33.3 9 8 17 0 0 1 0 1 10
+p788
+aVShawn Marion DAL 11/12/2010 DAL vs. PHI W 30 16 8 11 72.7 0 1 0.0 0 0 - 2 3 5 2 0 0 2 0 -1
+p789
+aVDominique Jones DAL 11/12/2010 DAL vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p790
+aVIan Mahinmi DAL 11/12/2010 DAL vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p791
+aVJason Kidd DAL 11/12/2010 DAL vs. PHI W 34 10 3 10 30.0 2 7 28.6 2 2 100.0 0 2 2 8 4 0 2 3 -4
+p792
+aVBrendan Haywood DAL 11/10/2010 DAL @ MEM W 24 6 3 6 50.0 0 0 - 0 5 0.0 4 4 8 0 1 1 3 3 5
+p793
+aVBrian Cardinal DAL 11/10/2010 DAL @ MEM W 20 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 1 2 0 1 3 -1
+p794
+aVDeShawn Stevenson DAL 11/10/2010 DAL @ MEM W 21 11 3 5 60.0 3 5 60.0 2 3 66.7 1 3 4 1 1 0 0 1 16
+p795
+aVJ.J. Barea DAL 11/10/2010 DAL @ MEM W 23 10 5 10 50.0 0 2 0.0 0 0 - 0 5 5 7 0 0 1 3 1
+p796
+aVSteve Novak DAL 11/10/2010 DAL @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p797
+aVJason Terry DAL 11/10/2010 DAL @ MEM W 31 25 11 16 68.8 3 7 42.9 0 0 - 0 1 1 4 3 0 1 1 7
+p798
+aVJason Kidd DAL 11/10/2010 DAL @ MEM W 26 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 12 0 0 2 3 8
+p799
+aVIan Mahinmi DAL 11/10/2010 DAL @ MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p800
+aVDominique Jones DAL 11/10/2010 DAL @ MEM W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p801
+aVTyson Chandler DAL 11/10/2010 DAL @ MEM W 23 11 4 7 57.1 0 0 - 3 3 100.0 2 6 8 1 1 1 0 2 13
+p802
+aVDirk Nowitzki DAL 11/10/2010 DAL @ MEM W 30 12 6 14 42.9 0 2 0.0 0 0 - 1 9 10 2 0 1 0 0 26
+p803
+aVShawn Marion DAL 11/10/2010 DAL @ MEM W 35 20 10 15 66.7 0 0 - 0 0 - 2 5 7 2 0 2 1 2 12
+p804
+aVJ.J. Barea DAL 11/08/2010 DAL vs. BOS W 14 11 4 7 57.1 1 2 50.0 2 2 100.0 0 1 1 3 0 0 3 1 3
+p805
+aVShawn Marion DAL 11/08/2010 DAL vs. BOS W 27 2 1 2 50.0 0 0 - 0 0 - 0 8 8 1 0 2 1 2 10
+p806
+aVBrendan Haywood DAL 11/08/2010 DAL vs. BOS W 15 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 2 3
+p807
+aVDeShawn Stevenson DAL 11/08/2010 DAL vs. BOS W 14 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 0 0 2 0 0 -2
+p808
+aVTyson Chandler DAL 11/08/2010 DAL vs. BOS W 33 12 5 5 100.0 0 0 - 2 2 100.0 3 10 13 0 1 2 0 1 -1
+p809
+aVDirk Nowitzki DAL 11/08/2010 DAL vs. BOS W 41 25 9 16 56.3 0 0 - 7 7 100.0 1 6 7 2 0 0 4 0 4
+p810
+aVJason Terry DAL 11/08/2010 DAL vs. BOS W 34 17 5 11 45.5 2 3 66.7 5 5 100.0 0 3 3 4 0 1 3 2 5
+p811
+aVJason Kidd DAL 11/08/2010 DAL vs. BOS W 34 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 10 2 0 3 2 -3
+p812
+aVCaron Butler DAL 11/08/2010 DAL vs. BOS W 27 11 5 13 38.5 1 3 33.3 0 2 0.0 0 1 1 0 2 1 3 2 -9
+p813
+aVTyson Chandler DAL 11/06/2010 DAL vs. DEN L 27 3 1 2 50.0 0 0 - 1 1 100.0 2 3 5 0 1 1 2 3 8
+p814
+aVJason Kidd DAL 11/06/2010 DAL vs. DEN L 33 8 3 7 42.9 2 4 50.0 0 0 - 1 4 5 7 1 1 3 1 11
+p815
+aVBrian Cardinal DAL 11/06/2010 DAL vs. DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p816
+aVBrendan Haywood DAL 11/06/2010 DAL vs. DEN L 16 0 0 1 0.0 0 0 - 0 2 0.0 1 6 7 0 0 1 1 4 -21
+p817
+aVShawn Marion DAL 11/06/2010 DAL vs. DEN L 28 12 5 9 55.6 0 1 0.0 2 2 100.0 4 5 9 1 1 1 2 2 -22
+p818
+aVDominique Jones DAL 11/06/2010 DAL vs. DEN L 8 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 1 -6
+p819
+aVDirk Nowitzki DAL 11/06/2010 DAL vs. DEN L 37 23 7 15 46.7 0 1 0.0 9 9 100.0 0 6 6 0 0 1 7 0 -9
+p820
+aVDeShawn Stevenson DAL 11/06/2010 DAL vs. DEN L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p821
+aVJ.J. Barea DAL 11/06/2010 DAL vs. DEN L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -21
+p822
+aVJason Terry DAL 11/06/2010 DAL vs. DEN L 38 26 10 17 58.8 2 4 50.0 4 5 80.0 0 0 0 3 1 0 1 3 -6
+p823
+aVCaron Butler DAL 11/06/2010 DAL vs. DEN L 34 13 5 17 29.4 0 2 0.0 3 5 60.0 2 8 10 0 3 0 4 1 5
+p824
+aVIan Mahinmi DAL 11/06/2010 DAL vs. DEN L 1 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p825
+aVTyson Chandler DAL 11/03/2010 DAL @ DEN W 29 9 3 3 100.0 0 0 - 3 4 75.0 3 6 9 1 0 1 1 3 9
+p826
+aVDominique Jones DAL 11/03/2010 DAL @ DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p827
+aVJ.J. Barea DAL 11/03/2010 DAL @ DEN W 16 9 3 5 60.0 0 2 0.0 3 3 100.0 0 0 0 0 0 0 3 2 -4
+p828
+aVJason Terry DAL 11/03/2010 DAL @ DEN W 38 20 6 13 46.2 4 5 80.0 4 4 100.0 0 3 3 4 1 0 4 2 5
+p829
+aVJason Kidd DAL 11/03/2010 DAL @ DEN W 38 3 1 6 16.7 1 4 25.0 0 0 - 3 0 3 12 3 1 1 2 2
+p830
+aVDirk Nowitzki DAL 11/03/2010 DAL @ DEN W 39 35 15 31 48.4 0 0 - 5 6 83.3 2 10 12 3 1 0 2 3 8
+p831
+aVBrian Cardinal DAL 11/03/2010 DAL @ DEN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p832
+aVCaron Butler DAL 11/03/2010 DAL @ DEN W 35 16 7 14 50.0 2 3 66.7 0 0 - 2 5 7 1 1 0 0 5 -2
+p833
+aVBrendan Haywood DAL 11/03/2010 DAL @ DEN W 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 2 0 -4
+p834
+aVShawn Marion DAL 11/03/2010 DAL @ DEN W 22 8 3 8 37.5 0 0 - 2 2 100.0 1 5 6 1 0 2 0 0 -4
+p835
+aVBrendan Haywood DAL 10/31/2010 DAL @ LAC W 28 10 5 6 83.3 0 0 - 0 1 0.0 4 2 6 0 0 3 0 4 -3
+p836
+aVJ.J. Barea DAL 10/31/2010 DAL @ LAC W 19 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 3 0 0 2 2 -10
+p837
+aVDeShawn Stevenson DAL 10/31/2010 DAL @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p838
+aVTyson Chandler DAL 10/31/2010 DAL @ LAC W 19 8 2 2 100.0 0 0 - 4 4 100.0 0 5 5 0 1 0 1 3 21
+p839
+aVCaron Butler DAL 10/31/2010 DAL @ LAC W 28 17 4 10 40.0 1 1 100.0 8 10 80.0 1 3 4 2 1 0 2 2 20
+p840
+aVDominique Jones DAL 10/31/2010 DAL @ LAC W 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 2 1
+p841
+aVJason Kidd DAL 10/31/2010 DAL @ LAC W 32 13 3 8 37.5 3 5 60.0 4 4 100.0 1 8 9 7 2 0 3 2 21
+p842
+aVJason Terry DAL 10/31/2010 DAL @ LAC W 32 15 6 14 42.9 1 2 50.0 2 4 50.0 1 2 3 5 1 0 3 2 20
+p843
+aVDirk Nowitzki DAL 10/31/2010 DAL @ LAC W 31 16 7 14 50.0 0 2 0.0 2 4 50.0 0 7 7 1 0 3 2 4 21
+p844
+aVBrian Cardinal DAL 10/31/2010 DAL @ LAC W 8 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 1 -3
+p845
+aVShawn Marion DAL 10/31/2010 DAL @ LAC W 27 12 6 11 54.5 0 1 0.0 0 2 0.0 1 1 2 2 1 1 1 0 -4
+p846
+aVIan Mahinmi DAL 10/31/2010 DAL @ LAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p847
+aVTyson Chandler DAL 10/29/2010 DAL vs. MEM L 28 3 0 1 0.0 0 0 - 3 4 75.0 0 9 9 0 0 3 2 4 -1
+p848
+aVDominique Jones DAL 10/29/2010 DAL vs. MEM L 9 1 0 0 - 0 0 - 1 2 50.0 0 1 1 2 0 0 1 0 0
+p849
+aVJ.J. Barea DAL 10/29/2010 DAL vs. MEM L 16 7 2 5 40.0 1 4 25.0 2 2 100.0 0 2 2 4 1 0 2 1 2
+p850
+aVJason Terry DAL 10/29/2010 DAL vs. MEM L 36 13 6 13 46.2 1 5 20.0 0 1 0.0 0 3 3 5 0 0 1 1 3
+p851
+aVCaron Butler DAL 10/29/2010 DAL vs. MEM L 34 18 8 17 47.1 0 0 - 2 3 66.7 3 3 6 1 2 1 2 2 -4
+p852
+aVDirk Nowitzki DAL 10/29/2010 DAL vs. MEM L 38 27 11 15 73.3 1 1 100.0 4 6 66.7 1 6 7 2 0 0 2 3 -5
+p853
+aVBrendan Haywood DAL 10/29/2010 DAL vs. MEM L 20 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 1 2 2 4 0
+p854
+aVJason Kidd DAL 10/29/2010 DAL vs. MEM L 35 9 3 9 33.3 2 7 28.6 1 2 50.0 2 4 6 10 2 0 5 5 -7
+p855
+aVShawn Marion DAL 10/29/2010 DAL vs. MEM L 24 12 4 11 36.4 1 1 100.0 3 4 75.0 2 5 7 0 1 0 1 2 7
+p856
+aVDirk Nowitzki DAL 10/27/2010 DAL vs. CHA W 36 28 11 13 84.6 0 0 - 6 6 100.0 1 12 13 0 0 1 2 2 27
+p857
+aVJ.J. Barea DAL 10/27/2010 DAL vs. CHA W 20 8 4 9 44.4 0 1 0.0 0 1 0.0 0 4 4 1 2 0 3 2 -19
+p858
+aVJason Terry DAL 10/27/2010 DAL vs. CHA W 35 22 10 15 66.7 2 4 50.0 0 0 - 0 1 1 6 4 0 3 1 29
+p859
+aVBrendan Haywood DAL 10/27/2010 DAL vs. CHA W 20 2 1 2 50.0 0 0 - 0 1 0.0 0 3 3 0 0 1 0 2 0
+p860
+aVJason Kidd DAL 10/27/2010 DAL vs. CHA W 32 12 5 8 62.5 2 5 40.0 0 0 - 1 1 2 18 3 1 1 2 30
+p861
+aVIan Mahinmi DAL 10/27/2010 DAL vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p862
+aVDominique Jones DAL 10/27/2010 DAL vs. CHA W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p863
+aVShawn Marion DAL 10/27/2010 DAL vs. CHA W 26 6 2 6 33.3 0 2 0.0 2 2 100.0 2 5 7 0 1 0 2 2 -24
+p864
+aVCaron Butler DAL 10/27/2010 DAL vs. CHA W 34 13 5 16 31.3 0 2 0.0 3 4 75.0 1 1 2 4 1 0 3 2 25
+p865
+aVBrian Cardinal DAL 10/27/2010 DAL vs. CHA W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p866
+aVTyson Chandler DAL 10/27/2010 DAL vs. CHA W 23 8 2 3 66.7 0 0 - 4 4 100.0 2 6 8 0 1 2 1 5 15
+p867
+a.

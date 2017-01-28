@@ -1,0 +1,480 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVIman Shumpert CLE 06/19/2016 CLE @ GSW W 19 6 1 3 33.3 1 3 33.3 3 3 100.0 0 1 1 0 0 0 0 0 -9
+p2
+aVKyrie Irving CLE 06/19/2016 CLE @ GSW W 43 26 10 23 43.5 2 5 40.0 4 4 100.0 3 3 6 1 1 1 2 3 10
+p3
+aVMo Williams CLE 06/19/2016 CLE @ GSW W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p4
+aVKevin Love CLE 06/19/2016 CLE @ GSW W 30 9 3 9 33.3 0 3 0.0 3 4 75.0 4 10 14 3 2 0 1 2 19
+p5
+aVRichard Jefferson CLE 06/19/2016 CLE @ GSW W 26 2 1 4 25.0 0 0 - 0 0 - 1 8 9 0 1 0 0 1 -8
+p6
+aVJR Smith CLE 06/19/2016 CLE @ GSW W 39 12 5 13 38.5 2 8 25.0 0 0 - 0 4 4 2 1 0 2 3 7
+p7
+aVLeBron James CLE 06/19/2016 CLE @ GSW W 47 27 9 24 37.5 1 5 20.0 8 10 80.0 1 10 11 11 2 3 5 1 4
+p8
+aVTristan Thompson CLE 06/19/2016 CLE @ GSW W 32 9 3 3 100.0 0 0 - 3 4 75.0 0 3 3 0 0 2 0 4 2
+p9
+aVTimofey Mozgov CLE 06/16/2016 CLE vs. GSW W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -7
+p10
+aVMo Williams CLE 06/16/2016 CLE vs. GSW W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p11
+aVRichard Jefferson CLE 06/16/2016 CLE vs. GSW W 32 3 1 3 33.3 0 1 0.0 1 2 50.0 2 4 6 1 2 0 1 3 15
+p12
+aVIman Shumpert CLE 06/16/2016 CLE vs. GSW W 14 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 4 -13
+p13
+aVLeBron James CLE 06/16/2016 CLE vs. GSW W 43 41 16 27 59.3 3 6 50.0 6 8 75.0 2 6 8 11 4 3 1 3 26
+p14
+aVJR Smith CLE 06/16/2016 CLE vs. GSW W 40 14 5 11 45.5 4 10 40.0 0 0 - 0 4 4 3 3 1 0 5 20
+p15
+aVKevin Love CLE 06/16/2016 CLE vs. GSW W 12 7 1 3 33.3 1 2 50.0 4 6 66.7 1 2 3 2 0 0 1 3 -6
+p16
+aVTristan Thompson CLE 06/16/2016 CLE vs. GSW W 43 15 6 6 100.0 0 0 - 3 4 75.0 2 14 16 3 0 0 3 4 32
+p17
+aVKyrie Irving CLE 06/16/2016 CLE vs. GSW W 39 23 7 18 38.9 2 5 40.0 7 7 100.0 1 3 4 3 2 2 3 2 25
+p18
+aVJames Jones CLE 06/16/2016 CLE vs. GSW W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p19
+aVMatthew Dellavedova CLE 06/16/2016 CLE vs. GSW W 2 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -7
+p20
+aVDahntay Jones CLE 06/16/2016 CLE vs. GSW W 5 5 1 1 100.0 0 0 - 3 3 100.0 0 1 1 0 0 1 0 0 -6
+p21
+aVLeBron James CLE 06/13/2016 CLE @ GSW W 43 41 16 30 53.3 4 8 50.0 5 8 62.5 4 12 16 7 3 3 2 1 13
+p22
+aVTristan Thompson CLE 06/13/2016 CLE @ GSW W 42 6 1 3 33.3 0 0 - 4 10 40.0 3 12 15 0 1 2 0 1 11
+p23
+aVMatthew Dellavedova CLE 06/13/2016 CLE @ GSW W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 3 -5
+p24
+aVRichard Jefferson CLE 06/13/2016 CLE @ GSW W 14 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 0 3 0 3 1 7
+p25
+aVKevin Love CLE 06/13/2016 CLE @ GSW W 33 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 1 0 1 2 4 18
+p26
+aVKyrie Irving CLE 06/13/2016 CLE @ GSW W 40 41 17 24 70.8 5 7 71.4 2 2 100.0 0 3 3 6 2 1 4 4 20
+p27
+aVJR Smith CLE 06/13/2016 CLE @ GSW W 31 10 3 9 33.3 1 2 50.0 3 3 100.0 1 1 2 1 1 0 1 5 11
+p28
+aVJames Jones CLE 06/13/2016 CLE @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p29
+aVIman Shumpert CLE 06/13/2016 CLE @ GSW W 26 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 2 1 0 6
+p30
+aVTimofey Mozgov CLE 06/13/2016 CLE @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p31
+aVMo Williams CLE 06/13/2016 CLE @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p32
+aVDahntay Jones CLE 06/13/2016 CLE @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p33
+aVMatthew Dellavedova CLE 06/10/2016 CLE vs. GSW L 5 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 1 0
+p34
+aVRichard Jefferson CLE 06/10/2016 CLE vs. GSW L 25 3 1 2 50.0 0 0 - 1 2 50.0 2 4 6 0 0 0 2 6 -5
+p35
+aVIman Shumpert CLE 06/10/2016 CLE vs. GSW L 15 2 1 5 20.0 0 3 0.0 0 0 - 1 0 1 0 0 0 1 0 -1
+p36
+aVLeBron James CLE 06/10/2016 CLE vs. GSW L 46 25 11 21 52.4 1 5 20.0 2 4 50.0 4 9 13 9 2 3 7 4 -12
+p37
+aVChanning Frye CLE 06/10/2016 CLE vs. GSW L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p38
+aVKyrie Irving CLE 06/10/2016 CLE vs. GSW L 43 34 14 28 50.0 2 6 33.3 4 5 80.0 1 3 4 4 3 1 1 2 -11
+p39
+aVDahntay Jones CLE 06/10/2016 CLE vs. GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p40
+aVTristan Thompson CLE 06/10/2016 CLE vs. GSW L 29 10 5 7 71.4 0 0 - 0 5 0.0 6 1 7 0 0 1 0 3 -9
+p41
+aVKevin Love CLE 06/10/2016 CLE vs. GSW L 25 11 3 6 50.0 1 2 50.0 4 6 66.7 1 4 5 0 0 1 0 1 -4
+p42
+aVJR Smith CLE 06/10/2016 CLE vs. GSW L 43 10 3 10 30.0 2 8 25.0 2 2 100.0 0 2 2 1 0 0 0 5 -11
+p43
+aVRichard Jefferson CLE 06/08/2016 CLE vs. GSW W 33 9 4 7 57.1 1 3 33.3 0 0 - 3 5 8 2 2 0 1 3 11
+p44
+aVKyrie Irving CLE 06/08/2016 CLE vs. GSW W 37 30 12 25 48.0 3 7 42.9 3 3 100.0 1 3 4 8 1 0 2 4 24
+p45
+aVMo Williams CLE 06/08/2016 CLE vs. GSW W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 1 5
+p46
+aVMatthew Dellavedova CLE 06/08/2016 CLE vs. GSW W 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -10
+p47
+aVLeBron James CLE 06/08/2016 CLE vs. GSW W 40 32 14 26 53.8 1 2 50.0 3 5 60.0 2 9 11 6 1 2 5 2 24
+p48
+aVTimofey Mozgov CLE 06/08/2016 CLE vs. GSW W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 2 4 11
+p49
+aVJames Jones CLE 06/08/2016 CLE vs. GSW W 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 2 0 0 0 0 5
+p50
+aVJordan McRae CLE 06/08/2016 CLE vs. GSW W 3 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p51
+aVJR Smith CLE 06/08/2016 CLE vs. GSW W 38 20 7 13 53.8 5 10 50.0 1 2 50.0 0 4 4 1 3 0 0 1 33
+p52
+aVTristan Thompson CLE 06/08/2016 CLE vs. GSW W 31 14 5 6 83.3 0 0 - 4 5 80.0 7 6 13 2 0 0 0 2 21
+p53
+aVChanning Frye CLE 06/08/2016 CLE vs. GSW W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 4
+p54
+aVDahntay Jones CLE 06/08/2016 CLE vs. GSW W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p55
+aVIman Shumpert CLE 06/08/2016 CLE vs. GSW W 18 3 1 5 20.0 1 2 50.0 0 0 - 2 3 5 1 0 0 2 3 9
+p56
+aVRichard Jefferson CLE 06/05/2016 CLE @ GSW L 26 12 4 6 66.7 0 0 - 4 6 66.7 2 3 5 0 1 1 1 2 -14
+p57
+aVKyrie Irving CLE 06/05/2016 CLE @ GSW L 33 10 5 14 35.7 0 3 0.0 0 0 - 1 2 3 1 3 0 3 1 -26
+p58
+aVJames Jones CLE 06/05/2016 CLE @ GSW L 9 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 0 1 -4
+p59
+aVLeBron James CLE 06/05/2016 CLE @ GSW L 34 19 7 17 41.2 1 5 20.0 4 4 100.0 0 8 8 9 4 1 7 3 -20
+p60
+aVMo Williams CLE 06/05/2016 CLE @ GSW L 8 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 2 0 1 0 -6
+p61
+aVKevin Love CLE 06/05/2016 CLE @ GSW L 21 5 2 7 28.6 1 4 25.0 0 0 - 0 3 3 0 1 0 1 0 -8
+p62
+aVIman Shumpert CLE 06/05/2016 CLE @ GSW L 20 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 1 1 -20
+p63
+aVMatthew Dellavedova CLE 06/05/2016 CLE @ GSW L 17 7 2 9 22.2 1 2 50.0 2 2 100.0 0 1 1 2 0 0 0 1 -14
+p64
+aVTimofey Mozgov CLE 06/05/2016 CLE @ GSW L 12 5 1 3 33.3 0 0 - 3 4 75.0 2 1 3 0 1 0 2 3 -13
+p65
+aVJR Smith CLE 06/05/2016 CLE @ GSW L 33 5 2 6 33.3 1 4 25.0 0 2 0.0 1 1 2 2 2 0 1 3 -21
+p66
+aVTristan Thompson CLE 06/05/2016 CLE @ GSW L 19 8 3 8 37.5 0 0 - 2 2 100.0 3 2 5 0 1 0 0 4 -13
+p67
+aVDahntay Jones CLE 06/05/2016 CLE @ GSW L 5 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p68
+aVChanning Frye CLE 06/05/2016 CLE @ GSW L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -3
+p69
+aVTimofey Mozgov CLE 06/02/2016 CLE @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 2
+p70
+aVKevin Love CLE 06/02/2016 CLE @ GSW L 37 17 7 17 41.2 2 5 40.0 1 1 100.0 2 11 13 2 1 0 4 2 -8
+p71
+aVMatthew Dellavedova CLE 06/02/2016 CLE @ GSW L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -19
+p72
+aVIman Shumpert CLE 06/02/2016 CLE @ GSW L 17 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 -15
+p73
+aVRichard Jefferson CLE 06/02/2016 CLE @ GSW L 12 3 1 3 33.3 0 1 0.0 1 1 100.0 2 0 2 0 0 0 0 0 -10
+p74
+aVJames Jones CLE 06/02/2016 CLE @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p75
+aVJR Smith CLE 06/02/2016 CLE @ GSW L 36 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 1 1 5 -13
+p76
+aVMo Williams CLE 06/02/2016 CLE @ GSW L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 2
+p77
+aVKyrie Irving CLE 06/02/2016 CLE @ GSW L 38 26 7 22 31.8 1 4 25.0 11 12 91.7 1 2 3 4 3 0 3 2 -9
+p78
+aVDahntay Jones CLE 06/02/2016 CLE @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p79
+aVTristan Thompson CLE 06/02/2016 CLE @ GSW L 31 10 5 11 45.5 0 0 - 0 0 - 6 6 12 0 0 1 0 3 -4
+p80
+aVChanning Frye CLE 06/02/2016 CLE @ GSW L 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 4
+p81
+aVLeBron James CLE 06/02/2016 CLE @ GSW L 41 23 9 21 42.9 2 4 50.0 3 4 75.0 4 8 12 9 2 1 4 2 -9
+p82
+aVKyrie Irving CLE 05/27/2016 CLE @ TOR W 40 30 12 24 50.0 2 4 50.0 4 5 80.0 0 4 4 9 3 1 4 1 21
+p83
+aVChanning Frye CLE 05/27/2016 CLE @ TOR W 15 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 1 0 4 6
+p84
+aVJames Jones CLE 05/27/2016 CLE @ TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p85
+aVKevin Love CLE 05/27/2016 CLE @ TOR W 39 20 5 11 45.5 4 8 50.0 6 6 100.0 0 12 12 4 0 0 0 2 22
+p86
+aVDahntay Jones CLE 05/27/2016 CLE @ TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p87
+aVIman Shumpert CLE 05/27/2016 CLE @ TOR W 18 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 0 2 14
+p88
+aVMatthew Dellavedova CLE 05/27/2016 CLE @ TOR W 9 4 1 2 50.0 0 1 0.0 2 3 66.7 0 1 1 2 0 0 2 1 4
+p89
+aVTristan Thompson CLE 05/27/2016 CLE @ TOR W 24 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 0 1 4 11
+p90
+aVJR Smith CLE 05/27/2016 CLE @ TOR W 36 15 5 9 55.6 5 8 62.5 0 0 - 0 0 0 1 1 1 0 2 22
+p91
+aVLeBron James CLE 05/27/2016 CLE @ TOR W 41 33 13 22 59.1 3 6 50.0 4 7 57.1 2 9 11 6 1 3 3 2 22
+p92
+aVRichard Jefferson CLE 05/27/2016 CLE @ TOR W 12 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 6
+p93
+aVTimofey Mozgov CLE 05/25/2016 CLE vs. TOR W 12 4 2 2 100.0 0 0 - 0 0 - 1 6 7 1 0 0 2 2 -2
+p94
+aVMo Williams CLE 05/25/2016 CLE vs. TOR W 12 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 4 3 -2
+p95
+aVMatthew Dellavedova CLE 05/25/2016 CLE vs. TOR W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 5 0 0 0 0 11
+p96
+aVJR Smith CLE 05/25/2016 CLE vs. TOR W 29 7 3 5 60.0 1 3 33.3 0 0 - 0 6 6 0 4 0 1 2 34
+p97
+aVKevin Love CLE 05/25/2016 CLE vs. TOR W 24 25 8 10 80.0 3 4 75.0 6 6 100.0 0 2 2 2 1 2 2 1 31
+p98
+aVJames Jones CLE 05/25/2016 CLE vs. TOR W 12 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 1 0 0 0 1 -2
+p99
+aVLeBron James CLE 05/25/2016 CLE vs. TOR W 32 23 10 17 58.8 2 4 50.0 1 3 33.3 0 6 6 8 2 1 2 2 32
+p100
+aVTristan Thompson CLE 05/25/2016 CLE vs. TOR W 29 9 2 2 100.0 0 0 - 5 8 62.5 5 5 10 0 1 1 0 3 34
+p101
+aVChanning Frye CLE 05/25/2016 CLE vs. TOR W 13 7 3 4 75.0 1 2 50.0 0 0 - 1 2 3 0 0 1 1 4 9
+p102
+aVDahntay Jones CLE 05/25/2016 CLE vs. TOR W 9 2 1 3 33.3 0 0 - 0 0 - 0 3 3 2 0 0 1 0 2
+p103
+aVRichard Jefferson CLE 05/25/2016 CLE vs. TOR W 20 11 4 9 44.4 1 2 50.0 2 2 100.0 0 6 6 1 0 0 1 2 3
+p104
+aVIman Shumpert CLE 05/25/2016 CLE vs. TOR W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 14
+p105
+aVKyrie Irving CLE 05/25/2016 CLE vs. TOR W 27 23 9 17 52.9 1 2 50.0 4 5 80.0 2 1 3 3 3 1 1 3 26
+p106
+aVTristan Thompson CLE 05/23/2016 CLE @ TOR L 29 2 1 3 33.3 0 0 - 0 0 - 3 6 9 0 1 0 2 3 -14
+p107
+aVJR Smith CLE 05/23/2016 CLE @ TOR L 32 9 3 12 25.0 3 11 27.3 0 0 - 0 2 2 1 0 0 1 2 -4
+p108
+aVChanning Frye CLE 05/23/2016 CLE @ TOR L 21 12 4 8 50.0 4 8 50.0 0 0 - 1 5 6 1 0 0 0 3 6
+p109
+aVKevin Love CLE 05/23/2016 CLE @ TOR L 31 10 4 14 28.6 2 7 28.6 0 0 - 1 6 7 3 0 0 1 0 -4
+p110
+aVKyrie Irving CLE 05/23/2016 CLE @ TOR L 39 26 11 21 52.4 3 8 37.5 1 1 100.0 0 3 3 6 1 0 4 3 -8
+p111
+aVLeBron James CLE 05/23/2016 CLE @ TOR L 46 29 11 16 68.8 1 3 33.3 6 6 100.0 4 5 9 6 2 1 1 3 -3
+p112
+aVRichard Jefferson CLE 05/23/2016 CLE @ TOR L 15 8 4 4 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p113
+aVIman Shumpert CLE 05/23/2016 CLE @ TOR L 12 1 0 1 0.0 0 1 0.0 1 2 50.0 1 0 1 0 1 0 0 1 0
+p114
+aVMatthew Dellavedova CLE 05/23/2016 CLE @ TOR L 15 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 5 0 1 1 2 -3
+p115
+aVKyrie Irving CLE 05/21/2016 CLE @ TOR L 38 13 3 19 15.8 1 7 14.3 6 6 100.0 1 3 4 1 1 0 3 2 -14
+p116
+aVChanning Frye CLE 05/21/2016 CLE @ TOR L 21 11 4 5 80.0 3 4 75.0 0 0 - 0 3 3 0 3 1 0 1 -14
+p117
+aVIman Shumpert CLE 05/21/2016 CLE @ TOR L 22 3 1 2 50.0 1 1 100.0 0 0 - 0 4 4 2 0 1 1 1 -9
+p118
+aVJames Jones CLE 05/21/2016 CLE @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p119
+aVMatthew Dellavedova CLE 05/21/2016 CLE @ TOR L 13 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 3 0 0 1 0 -2
+p120
+aVJR Smith CLE 05/21/2016 CLE @ TOR L 37 22 7 16 43.8 6 15 40.0 2 2 100.0 0 5 5 0 1 0 0 1 -11
+p121
+aVMo Williams CLE 05/21/2016 CLE @ TOR L 2 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p122
+aVLeBron James CLE 05/21/2016 CLE @ TOR L 39 24 9 17 52.9 1 5 20.0 5 7 71.4 4 4 8 5 2 0 2 3 -12
+p123
+aVRichard Jefferson CLE 05/21/2016 CLE @ TOR L 9 5 2 4 50.0 0 2 0.0 1 1 100.0 0 2 2 0 0 0 1 0 -3
+p124
+aVTristan Thompson CLE 05/21/2016 CLE @ TOR L 25 0 0 1 0.0 0 0 - 0 0 - 2 6 8 2 0 2 1 2 0
+p125
+aVKevin Love CLE 05/21/2016 CLE @ TOR L 29 3 1 9 11.1 1 4 25.0 0 0 - 0 4 4 2 0 1 0 0 -6
+p126
+aVTimofey Mozgov CLE 05/21/2016 CLE @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p127
+aVDahntay Jones CLE 05/21/2016 CLE @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p128
+aVTristan Thompson CLE 05/19/2016 CLE vs. TOR W 30 9 2 5 40.0 0 0 - 5 6 83.3 2 10 12 0 0 1 0 2 14
+p129
+aVRichard Jefferson CLE 05/19/2016 CLE vs. TOR W 21 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 2
+p130
+aVDahntay Jones CLE 05/19/2016 CLE vs. TOR W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p131
+aVMo Williams CLE 05/19/2016 CLE vs. TOR W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 0
+p132
+aVTimofey Mozgov CLE 05/19/2016 CLE vs. TOR W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p133
+aVKevin Love CLE 05/19/2016 CLE vs. TOR W 31 19 5 8 62.5 1 2 50.0 8 9 88.9 0 5 5 3 0 1 2 1 14
+p134
+aVJames Jones CLE 05/19/2016 CLE vs. TOR W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p135
+aVMatthew Dellavedova CLE 05/19/2016 CLE vs. TOR W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 1 6
+p136
+aVKyrie Irving CLE 05/19/2016 CLE vs. TOR W 37 26 12 22 54.5 0 3 0.0 2 3 66.7 1 3 4 3 1 0 3 2 13
+p137
+aVLeBron James CLE 05/19/2016 CLE vs. TOR W 34 23 7 13 53.8 0 2 0.0 9 17 52.9 1 10 11 11 3 0 2 2 16
+p138
+aVJR Smith CLE 05/19/2016 CLE vs. TOR W 27 12 4 7 57.1 3 5 60.0 1 2 50.0 1 2 3 0 0 0 0 2 22
+p139
+aVIman Shumpert CLE 05/19/2016 CLE vs. TOR W 24 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 1 2 -4
+p140
+aVChanning Frye CLE 05/19/2016 CLE vs. TOR W 15 10 4 7 57.1 2 4 50.0 0 0 - 1 3 4 0 0 0 0 2 12
+p141
+aVRichard Jefferson CLE 05/17/2016 CLE vs. TOR W 22 9 2 6 33.3 0 2 0.0 5 6 83.3 2 9 11 1 0 0 1 2 20
+p142
+aVKevin Love CLE 05/17/2016 CLE vs. TOR W 28 14 4 8 50.0 2 4 50.0 4 4 100.0 0 4 4 3 1 0 2 3 12
+p143
+aVJR Smith CLE 05/17/2016 CLE vs. TOR W 27 5 1 5 20.0 0 3 0.0 3 4 75.0 0 2 2 3 2 0 0 0 11
+p144
+aVTristan Thompson CLE 05/17/2016 CLE vs. TOR W 28 6 1 4 25.0 0 0 - 4 4 100.0 5 2 7 0 1 0 2 2 8
+p145
+aVChanning Frye CLE 05/17/2016 CLE vs. TOR W 13 8 3 5 60.0 2 3 66.7 0 0 - 0 3 3 1 0 0 0 3 17
+p146
+aVTimofey Mozgov CLE 05/17/2016 CLE vs. TOR W 6 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 0 1 2
+p147
+aVMo Williams CLE 05/17/2016 CLE vs. TOR W 9 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 4
+p148
+aVDahntay Jones CLE 05/17/2016 CLE vs. TOR W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p149
+aVIman Shumpert CLE 05/17/2016 CLE vs. TOR W 22 8 3 4 75.0 1 1 100.0 1 2 50.0 0 3 3 2 1 0 1 1 24
+p150
+aVLeBron James CLE 05/17/2016 CLE vs. TOR W 28 24 11 13 84.6 0 1 0.0 2 4 50.0 2 4 6 4 2 1 4 3 20
+p151
+aVMatthew Dellavedova CLE 05/17/2016 CLE vs. TOR W 14 9 3 4 75.0 1 1 100.0 2 3 66.7 0 1 1 3 0 0 3 2 18
+p152
+aVKyrie Irving CLE 05/17/2016 CLE vs. TOR W 30 27 11 17 64.7 1 3 33.3 4 4 100.0 0 2 2 5 2 2 2 2 15
+p153
+aVJames Jones CLE 05/17/2016 CLE vs. TOR W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p154
+aVMatthew Dellavedova CLE 05/08/2016 CLE @ ATL W 15 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p155
+aVChanning Frye CLE 05/08/2016 CLE @ ATL W 20 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 1 0 1 1 2 -17
+p156
+aVTristan Thompson CLE 05/08/2016 CLE @ ATL W 29 5 2 3 66.7 0 0 - 1 2 50.0 4 6 10 0 1 2 1 3 9
+p157
+aVIman Shumpert CLE 05/08/2016 CLE @ ATL W 18 10 3 6 50.0 2 4 50.0 2 2 100.0 2 1 3 0 2 0 1 3 4
+p158
+aVRichard Jefferson CLE 05/08/2016 CLE @ ATL W 4 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p159
+aVLeBron James CLE 05/08/2016 CLE @ ATL W 38 21 10 23 43.5 1 5 20.0 0 3 0.0 5 5 10 9 2 1 6 2 2
+p160
+aVKyrie Irving CLE 05/08/2016 CLE @ ATL W 42 21 8 16 50.0 1 3 33.3 4 5 80.0 0 2 2 8 0 1 2 0 7
+p161
+aVJR Smith CLE 05/08/2016 CLE @ ATL W 36 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 0 1 2 2 2 1
+p162
+aVKevin Love CLE 05/08/2016 CLE @ ATL W 37 27 9 25 36.0 8 15 53.3 1 1 100.0 3 10 13 4 0 0 2 1 14
+p163
+aVMatthew Dellavedova CLE 05/06/2016 CLE @ ATL W 12 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 3 5
+p164
+aVJR Smith CLE 05/06/2016 CLE @ ATL W 36 6 2 4 50.0 2 4 50.0 0 0 - 1 2 3 3 1 0 1 2 5
+p165
+aVMo Williams CLE 05/06/2016 CLE @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p166
+aVKyrie Irving CLE 05/06/2016 CLE @ ATL W 40 24 9 19 47.4 4 5 80.0 2 2 100.0 0 1 1 3 3 0 2 5 12
+p167
+aVChanning Frye CLE 05/06/2016 CLE @ ATL W 28 27 10 13 76.9 7 9 77.8 0 0 - 1 6 7 0 1 0 2 3 28
+p168
+aVDahntay Jones CLE 05/06/2016 CLE @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p169
+aVLeBron James CLE 05/06/2016 CLE @ ATL W 39 24 8 16 50.0 1 4 25.0 7 9 77.8 2 11 13 8 2 0 5 2 17
+p170
+aVTristan Thompson CLE 05/06/2016 CLE @ ATL W 28 7 1 6 16.7 0 0 - 5 12 41.7 9 4 13 2 0 0 4 1 -14
+p171
+aVIman Shumpert CLE 05/06/2016 CLE @ ATL W 17 5 2 3 66.7 1 1 100.0 0 2 0.0 1 1 2 4 1 0 0 0 6
+p172
+aVKevin Love CLE 05/06/2016 CLE @ ATL W 29 21 7 17 41.2 5 12 41.7 2 2 100.0 4 11 15 3 0 1 3 4 9
+p173
+aVRichard Jefferson CLE 05/06/2016 CLE @ ATL W 10 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -3
+p174
+aVMatthew Dellavedova CLE 05/04/2016 CLE vs. ATL W 13 3 1 7 14.3 1 3 33.3 0 0 - 1 1 2 6 0 0 0 1 19
+p175
+aVJames Jones CLE 05/04/2016 CLE vs. ATL W 8 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -1
+p176
+aVMo Williams CLE 05/04/2016 CLE vs. ATL W 12 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 0 1 0 0 2 -11
+p177
+aVChanning Frye CLE 05/04/2016 CLE vs. ATL W 20 12 5 7 71.4 1 3 33.3 1 2 50.0 1 4 5 2 1 0 0 1 7
+p178
+aVTimofey Mozgov CLE 05/04/2016 CLE vs. ATL W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -13
+p179
+aVDahntay Jones CLE 05/04/2016 CLE vs. ATL W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p180
+aVRichard Jefferson CLE 05/04/2016 CLE vs. ATL W 24 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 3 0 0 2 2 10
+p181
+aVIman Shumpert CLE 05/04/2016 CLE vs. ATL W 19 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 3 0 0 0 2 4
+p182
+aVKyrie Irving CLE 05/04/2016 CLE vs. ATL W 23 19 5 9 55.6 4 5 80.0 5 6 83.3 0 2 2 6 1 0 1 2 17
+p183
+aVKevin Love CLE 05/04/2016 CLE vs. ATL W 26 11 3 12 25.0 3 4 75.0 2 2 100.0 6 7 13 2 0 0 1 1 25
+p184
+aVLeBron James CLE 05/04/2016 CLE vs. ATL W 28 27 9 15 60.0 4 6 66.7 5 9 55.6 0 4 4 5 3 0 2 4 24
+p185
+aVJR Smith CLE 05/04/2016 CLE vs. ATL W 28 23 8 14 57.1 7 13 53.8 0 0 - 0 2 2 0 2 0 0 2 29
+p186
+aVTristan Thompson CLE 05/04/2016 CLE vs. ATL W 19 5 1 5 20.0 0 0 - 3 4 75.0 4 3 7 0 0 1 1 3 18
+p187
+aVIman Shumpert CLE 05/02/2016 CLE vs. ATL W 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -9
+p188
+aVKyrie Irving CLE 05/02/2016 CLE vs. ATL W 34 21 8 18 44.4 3 5 60.0 2 2 100.0 0 1 1 8 1 2 2 3 17
+p189
+aVTristan Thompson CLE 05/02/2016 CLE vs. ATL W 40 8 3 6 50.0 0 0 - 2 4 50.0 7 7 14 2 0 2 0 1 16
+p190
+aVChanning Frye CLE 05/02/2016 CLE vs. ATL W 9 8 2 5 40.0 1 3 33.3 3 3 100.0 0 0 0 0 0 1 0 1 -4
+p191
+aVRichard Jefferson CLE 05/02/2016 CLE vs. ATL W 10 8 3 3 100.0 2 2 100.0 0 0 - 0 4 4 0 0 0 0 0 -5
+p192
+aVKevin Love CLE 05/02/2016 CLE vs. ATL W 38 17 4 17 23.5 3 9 33.3 6 7 85.7 2 9 11 1 1 1 1 2 15
+p193
+aVMatthew Dellavedova CLE 05/02/2016 CLE vs. ATL W 13 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 4 0 0 1 3 -5
+p194
+aVDahntay Jones CLE 05/02/2016 CLE vs. ATL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p195
+aVLeBron James CLE 05/02/2016 CLE vs. ATL W 41 25 11 21 52.4 2 4 50.0 1 1 100.0 0 7 7 9 5 1 4 3 16
+p196
+aVJR Smith CLE 05/02/2016 CLE vs. ATL W 38 12 4 8 50.0 4 7 57.1 0 2 0.0 1 4 5 3 1 0 0 3 16
+p197
+aVTimofey Mozgov CLE 05/02/2016 CLE vs. ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p198
+aVMo Williams CLE 05/02/2016 CLE vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p199
+aVChanning Frye CLE 04/24/2016 CLE @ DET W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 2
+p200
+aVJR Smith CLE 04/24/2016 CLE @ DET W 35 15 5 8 62.5 5 7 71.4 0 0 - 0 1 1 0 0 0 0 2 1
+p201
+aVIman Shumpert CLE 04/24/2016 CLE @ DET W 9 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 2
+p202
+aVMatthew Dellavedova CLE 04/24/2016 CLE @ DET W 15 11 3 5 60.0 1 2 50.0 4 4 100.0 0 0 0 1 0 0 0 2 -1
+p203
+aVKevin Love CLE 04/24/2016 CLE @ DET W 35 11 3 15 20.0 1 5 20.0 4 4 100.0 4 9 13 2 1 0 0 3 -2
+p204
+aVRichard Jefferson CLE 04/24/2016 CLE @ DET W 17 5 2 6 33.3 1 4 25.0 0 0 - 0 4 4 1 0 0 0 2 5
+p205
+aVLeBron James CLE 04/24/2016 CLE @ DET W 41 22 9 19 47.4 1 6 16.7 3 3 100.0 2 9 11 6 2 0 2 4 5
+p206
+aVTristan Thompson CLE 04/24/2016 CLE @ DET W 38 5 2 5 40.0 0 0 - 1 2 50.0 3 2 5 0 1 1 1 3 0
+p207
+aVKyrie Irving CLE 04/24/2016 CLE @ DET W 40 31 12 25 48.0 4 11 36.4 3 4 75.0 0 3 3 5 1 0 2 2 -2
+p208
+aVKevin Love CLE 04/22/2016 CLE @ DET W 39 20 7 10 70.0 1 3 33.3 5 6 83.3 2 10 12 2 0 0 1 0 8
+p209
+aVTristan Thompson CLE 04/22/2016 CLE @ DET W 31 8 4 7 57.1 0 0 - 0 1 0.0 8 2 10 1 1 2 1 3 5
+p210
+aVKyrie Irving CLE 04/22/2016 CLE @ DET W 39 26 11 20 55.0 3 6 50.0 1 1 100.0 0 0 0 4 0 0 2 1 9
+p211
+aVLeBron James CLE 04/22/2016 CLE @ DET W 43 20 8 24 33.3 1 6 16.7 3 5 60.0 1 12 13 7 0 1 5 2 17
+p212
+aVIman Shumpert CLE 04/22/2016 CLE @ DET W 12 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 1 1 0 1 2 0
+p213
+aVChanning Frye CLE 04/22/2016 CLE @ DET W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 1
+p214
+aVMatthew Dellavedova CLE 04/22/2016 CLE @ DET W 16 12 4 5 80.0 2 3 66.7 2 2 100.0 0 0 0 5 0 0 0 3 -1
+p215
+aVJR Smith CLE 04/22/2016 CLE @ DET W 37 9 3 9 33.3 3 8 37.5 0 0 - 1 8 9 3 1 0 0 3 15
+p216
+aVRichard Jefferson CLE 04/22/2016 CLE @ DET W 14 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -4
+p217
+aVChanning Frye CLE 04/20/2016 CLE vs. DET W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 0 0 1 1 4 18
+p218
+aVDahntay Jones CLE 04/20/2016 CLE vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p219
+aVTristan Thompson CLE 04/20/2016 CLE vs. DET W 13 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 2 4
+p220
+aVRichard Jefferson CLE 04/20/2016 CLE vs. DET W 23 3 1 3 33.3 1 3 33.3 0 0 - 1 1 2 0 0 0 0 3 25
+p221
+aVMatthew Dellavedova CLE 04/20/2016 CLE vs. DET W 22 8 3 5 60.0 1 1 100.0 1 2 50.0 0 1 1 9 1 0 1 3 25
+p222
+aVLeBron James CLE 04/20/2016 CLE vs. DET W 40 27 12 18 66.7 2 4 50.0 1 3 33.3 1 5 6 3 3 0 5 3 10
+p223
+aVKyrie Irving CLE 04/20/2016 CLE vs. DET W 34 22 8 18 44.4 4 7 57.1 2 3 66.7 1 0 1 4 2 0 1 0 -1
+p224
+aVTimofey Mozgov CLE 04/20/2016 CLE vs. DET W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -2
+p225
+aVJames Jones CLE 04/20/2016 CLE vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p226
+aVJR Smith CLE 04/20/2016 CLE vs. DET W 34 21 7 13 53.8 7 11 63.6 0 0 - 0 5 5 1 0 0 1 4 -4
+p227
+aVIman Shumpert CLE 04/20/2016 CLE vs. DET W 18 2 1 4 25.0 0 2 0.0 0 0 - 1 5 6 2 1 0 0 2 2
+p228
+aVJordan McRae CLE 04/20/2016 CLE vs. DET W 1 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 3
+p229
+aVKevin Love CLE 04/20/2016 CLE vs. DET W 32 16 5 14 35.7 3 7 42.9 3 6 50.0 1 9 10 2 0 0 1 2 -1
+p230
+aVKevin Love CLE 04/17/2016 CLE vs. DET W 38 28 10 22 45.5 4 8 50.0 4 5 80.0 3 10 13 1 1 0 2 2 12
+p231
+aVLeBron James CLE 04/17/2016 CLE vs. DET W 41 22 9 17 52.9 0 3 0.0 4 4 100.0 1 5 6 11 2 2 1 3 18
+p232
+aVIman Shumpert CLE 04/17/2016 CLE vs. DET W 22 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 2 -2
+p233
+aVMatthew Dellavedova CLE 04/17/2016 CLE vs. DET W 19 7 3 8 37.5 0 4 0.0 1 2 50.0 0 2 2 1 0 0 0 3 -3
+p234
+aVTimofey Mozgov CLE 04/17/2016 CLE vs. DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -5
+p235
+aVKyrie Irving CLE 04/17/2016 CLE vs. DET W 38 31 10 24 41.7 5 10 50.0 6 8 75.0 2 3 5 6 2 1 1 2 2
+p236
+aVTristan Thompson CLE 04/17/2016 CLE vs. DET W 30 2 1 1 100.0 0 0 - 0 0 - 4 2 6 2 0 0 0 2 1
+p237
+aVJR Smith CLE 04/17/2016 CLE vs. DET W 35 9 3 9 33.3 2 7 28.6 1 2 50.0 1 2 3 3 2 0 0 1 3
+p238
+aVRichard Jefferson CLE 04/17/2016 CLE vs. DET W 12 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 -1
+p239
+a.

@@ -1,0 +1,1702 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVShawne Williams DET 04/15/2015 DET @ NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p2
+aVJodie Meeks DET 04/15/2015 DET @ NYK W 24 10 4 9 44.4 0 3 0.0 2 2 100.0 2 2 4 1 3 0 2 1 8
+p3
+aVQuincy Miller DET 04/15/2015 DET @ NYK W 14 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p4
+aVJoel Anthony DET 04/15/2015 DET @ NYK W 17 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 1 1 2 2 19
+p5
+aVAndre Drummond DET 04/15/2015 DET @ NYK W 22 17 7 12 58.3 0 0 - 3 6 50.0 6 6 12 0 1 2 1 4 1
+p6
+aVKentavious Caldwell-Pope DET 04/15/2015 DET @ NYK W 34 17 5 9 55.6 4 6 66.7 3 4 75.0 1 4 5 4 1 0 1 2 22
+p7
+aVGreg Monroe DET 04/15/2015 DET @ NYK W 21 10 3 7 42.9 0 0 - 4 4 100.0 0 2 2 1 4 0 1 4 1
+p8
+aVAnthony Tolliver DET 04/15/2015 DET @ NYK W 30 10 4 9 44.4 2 5 40.0 0 0 - 0 6 6 0 1 0 1 2 25
+p9
+aVReggie Jackson DET 04/15/2015 DET @ NYK W 32 24 9 16 56.3 0 3 0.0 6 9 66.7 1 3 4 11 3 0 2 4 26
+p10
+aVCaron Butler DET 04/15/2015 DET @ NYK W 24 14 4 5 80.0 4 5 80.0 2 2 100.0 0 2 2 0 0 0 0 1 14
+p11
+aVJohn Lucas III DET 04/15/2015 DET @ NYK W 17 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 3 0 0 1 2 -4
+p12
+aVGreg Monroe DET 04/13/2015 DET @ CLE L 26 11 4 9 44.4 0 0 - 3 4 75.0 0 3 3 2 1 0 0 2 -10
+p13
+aVCaron Butler DET 04/13/2015 DET @ CLE L 27 19 6 10 60.0 6 9 66.7 1 2 50.0 0 0 0 2 1 0 2 1 -19
+p14
+aVShawne Williams DET 04/13/2015 DET @ CLE L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p15
+aVQuincy Miller DET 04/13/2015 DET @ CLE L 15 0 0 7 0.0 0 5 0.0 0 0 - 1 3 4 1 1 1 0 1 6
+p16
+aVReggie Jackson DET 04/13/2015 DET @ CLE L 43 18 7 18 38.9 1 2 50.0 3 4 75.0 0 2 2 8 0 0 4 0 -10
+p17
+aVKentavious Caldwell-Pope DET 04/13/2015 DET @ CLE L 25 13 5 9 55.6 1 2 50.0 2 2 100.0 1 3 4 4 1 0 0 0 -15
+p18
+aVJohn Lucas III DET 04/13/2015 DET @ CLE L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p19
+aVJodie Meeks DET 04/13/2015 DET @ CLE L 29 12 4 7 57.1 1 2 50.0 3 3 100.0 0 2 2 0 0 0 0 0 4
+p20
+aVAnthony Tolliver DET 04/13/2015 DET @ CLE L 25 4 2 7 28.6 0 4 0.0 0 0 - 2 5 7 3 0 0 0 1 5
+p21
+aVAndre Drummond DET 04/13/2015 DET @ CLE L 39 20 10 13 76.9 0 0 - 0 5 0.0 4 5 9 0 0 3 1 3 -20
+p22
+aVAndre Drummond DET 04/12/2015 DET vs. CHA W 32 15 7 12 58.3 0 0 - 1 3 33.3 5 14 19 4 0 2 1 4 15
+p23
+aVGreg Monroe DET 04/12/2015 DET vs. CHA W 33 17 4 10 40.0 0 0 - 9 10 90.0 1 8 9 4 2 1 0 1 19
+p24
+aVQuincy Miller DET 04/12/2015 DET vs. CHA W 27 6 2 7 28.6 2 5 40.0 0 0 - 1 3 4 3 0 1 1 4 29
+p25
+aVJodie Meeks DET 04/12/2015 DET vs. CHA W 27 24 8 12 66.7 4 7 57.1 4 5 80.0 0 1 1 0 3 0 2 1 11
+p26
+aVAnthony Tolliver DET 04/12/2015 DET vs. CHA W 19 17 6 7 85.7 5 6 83.3 0 0 - 1 3 4 0 0 0 2 5 21
+p27
+aVCaron Butler DET 04/12/2015 DET vs. CHA W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 14
+p28
+aVKentavious Caldwell-Pope DET 04/12/2015 DET vs. CHA W 28 10 4 9 44.4 2 4 50.0 0 0 - 0 6 6 1 1 0 3 1 10
+p29
+aVJoel Anthony DET 04/12/2015 DET vs. CHA W 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 14
+p30
+aVJohn Lucas III DET 04/12/2015 DET vs. CHA W 18 9 4 8 50.0 1 1 100.0 0 0 - 1 4 5 6 0 0 2 1 21
+p31
+aVShawne Williams DET 04/12/2015 DET vs. CHA W 8 10 4 6 66.7 2 3 66.7 0 0 - 1 0 1 0 0 0 0 2 9
+p32
+aVCartier Martin DET 04/12/2015 DET vs. CHA W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 14
+p33
+aVReggie Jackson DET 04/12/2015 DET vs. CHA W 30 5 1 7 14.3 0 1 0.0 3 3 100.0 2 2 4 13 0 0 2 3 18
+p34
+aVReggie Jackson DET 04/10/2015 DET vs. IND L 34 21 6 15 40.0 1 2 50.0 8 12 66.7 0 4 4 9 1 1 5 6 0
+p35
+aVAnthony Tolliver DET 04/10/2015 DET vs. IND L 25 6 2 9 22.2 2 8 25.0 0 0 - 1 2 3 1 0 0 0 1 4
+p36
+aVKentavious Caldwell-Pope DET 04/10/2015 DET vs. IND L 30 16 6 10 60.0 3 5 60.0 1 4 25.0 0 2 2 1 2 0 1 0 0
+p37
+aVJohn Lucas III DET 04/10/2015 DET vs. IND L 14 7 3 8 37.5 1 3 33.3 0 0 - 1 1 2 3 0 0 0 2 -4
+p38
+aVCaron Butler DET 04/10/2015 DET vs. IND L 20 8 3 5 60.0 2 2 100.0 0 0 - 0 2 2 2 1 0 1 0 6
+p39
+aVAndre Drummond DET 04/10/2015 DET vs. IND L 34 11 5 12 41.7 0 0 - 1 5 20.0 5 10 15 2 0 3 2 3 -16
+p40
+aVJodie Meeks DET 04/10/2015 DET vs. IND L 27 15 6 8 75.0 2 3 66.7 1 1 100.0 0 1 1 2 0 0 0 2 -5
+p41
+aVGreg Monroe DET 04/10/2015 DET vs. IND L 35 17 8 17 47.1 0 0 - 1 1 100.0 6 6 12 3 1 0 1 5 3
+p42
+aVJoel Anthony DET 04/10/2015 DET vs. IND L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 1
+p43
+aVTayshaun Prince DET 04/10/2015 DET vs. IND L 19 2 1 5 20.0 0 0 - 0 0 - 1 2 3 2 0 1 0 1 -9
+p44
+aVJohn Lucas III DET 04/08/2015 DET vs. BOS L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -20
+p45
+aVGreg Monroe DET 04/08/2015 DET vs. BOS L 31 19 9 14 64.3 0 0 - 1 2 50.0 5 5 10 1 3 2 3 4 21
+p46
+aVCaron Butler DET 04/08/2015 DET vs. BOS L 17 0 0 5 0.0 0 4 0.0 0 0 - 0 5 5 1 0 0 0 1 -1
+p47
+aVAnthony Tolliver DET 04/08/2015 DET vs. BOS L 19 3 1 4 25.0 0 3 0.0 1 1 100.0 0 2 2 1 0 0 0 4 -17
+p48
+aVReggie Jackson DET 04/08/2015 DET vs. BOS L 38 21 10 18 55.6 1 2 50.0 0 0 - 0 2 2 15 2 0 7 2 10
+p49
+aVAndre Drummond DET 04/08/2015 DET vs. BOS L 27 22 11 19 57.9 0 1 0.0 0 3 0.0 6 8 14 0 0 1 4 4 -11
+p50
+aVJoel Anthony DET 04/08/2015 DET vs. BOS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -15
+p51
+aVKentavious Caldwell-Pope DET 04/08/2015 DET vs. BOS L 37 10 3 10 30.0 2 4 50.0 2 2 100.0 0 2 2 3 0 0 2 6 -2
+p52
+aVJodie Meeks DET 04/08/2015 DET vs. BOS L 29 13 4 4 100.0 3 3 100.0 2 2 100.0 0 2 2 2 0 1 0 2 -6
+p53
+aVTayshaun Prince DET 04/08/2015 DET vs. BOS L 26 15 7 8 87.5 1 1 100.0 0 0 - 0 4 4 3 1 1 2 1 -9
+p54
+aVTayshaun Prince DET 04/04/2015 DET vs. MIA W 25 7 2 7 28.6 0 1 0.0 3 6 50.0 2 2 4 2 1 0 1 0 -8
+p55
+aVCaron Butler DET 04/04/2015 DET vs. MIA W 27 9 3 3 100.0 2 2 100.0 1 1 100.0 0 2 2 3 0 0 0 3 0
+p56
+aVJodie Meeks DET 04/04/2015 DET vs. MIA W 8 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -15
+p57
+aVAndre Drummond DET 04/04/2015 DET vs. MIA W 35 11 5 8 62.5 0 0 - 1 1 100.0 6 11 17 1 0 3 2 5 24
+p58
+aVReggie Jackson DET 04/04/2015 DET vs. MIA W 38 29 11 18 61.1 2 4 50.0 5 7 71.4 0 3 3 11 1 0 7 5 20
+p59
+aVJohn Lucas III DET 04/04/2015 DET vs. MIA W 14 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 3 1 -22
+p60
+aVAnthony Tolliver DET 04/04/2015 DET vs. MIA W 35 15 5 11 45.5 5 9 55.6 0 0 - 0 2 2 1 0 0 2 5 11
+p61
+aVShawne Williams DET 04/04/2015 DET vs. MIA W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 3
+p62
+aVKentavious Caldwell-Pope DET 04/04/2015 DET vs. MIA W 42 19 6 16 37.5 2 6 33.3 5 8 62.5 0 3 3 1 3 0 0 1 15
+p63
+aVJoel Anthony DET 04/04/2015 DET vs. MIA W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -23
+p64
+aVKentavious Caldwell-Pope DET 04/03/2015 DET @ CHI L 35 14 6 16 37.5 2 7 28.6 0 0 - 0 1 1 0 3 0 1 2 5
+p65
+aVJoel Anthony DET 04/03/2015 DET @ CHI L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 3 2
+p66
+aVCaron Butler DET 04/03/2015 DET @ CHI L 20 5 1 5 20.0 1 2 50.0 2 2 100.0 0 2 2 2 2 1 1 0 8
+p67
+aVAnthony Tolliver DET 04/03/2015 DET @ CHI L 28 9 3 8 37.5 3 6 50.0 0 0 - 2 5 7 0 1 1 1 2 -7
+p68
+aVTayshaun Prince DET 04/03/2015 DET @ CHI L 24 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 1 0 0 1 -21
+p69
+aVShawne Williams DET 04/03/2015 DET @ CHI L 16 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 3 1 3 1
+p70
+aVJodie Meeks DET 04/03/2015 DET @ CHI L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 2 0 -6
+p71
+aVAndre Drummond DET 04/03/2015 DET @ CHI L 43 14 5 12 41.7 0 0 - 4 6 66.7 7 15 22 0 0 6 4 6 -6
+p72
+aVJohn Lucas III DET 04/03/2015 DET @ CHI L 13 9 4 6 66.7 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 -13
+p73
+aVReggie Jackson DET 04/03/2015 DET @ CHI L 35 22 9 15 60.0 0 2 0.0 4 4 100.0 0 2 2 9 2 0 8 3 7
+p74
+aVReggie Jackson DET 04/01/2015 DET @ CHA L 29 9 3 16 18.8 1 4 25.0 2 3 66.7 2 5 7 8 0 0 3 3 -22
+p75
+aVAndre Drummond DET 04/01/2015 DET @ CHA L 28 13 6 15 40.0 0 0 - 1 7 14.3 2 7 9 0 2 0 1 4 -29
+p76
+aVShawne Williams DET 04/01/2015 DET @ CHA L 13 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 2 1 -11
+p77
+aVQuincy Miller DET 04/01/2015 DET @ CHA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p78
+aVCartier Martin DET 04/01/2015 DET @ CHA L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 1
+p79
+aVAnthony Tolliver DET 04/01/2015 DET @ CHA L 31 10 4 8 50.0 2 5 40.0 0 0 - 3 5 8 4 1 0 2 1 -15
+p80
+aVJohn Lucas III DET 04/01/2015 DET @ CHA L 19 6 2 8 25.0 0 2 0.0 2 2 100.0 0 1 1 4 0 0 1 0 -2
+p81
+aVKentavious Caldwell-Pope DET 04/01/2015 DET @ CHA L 14 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 1 0 0 1 4 -9
+p82
+aVCaron Butler DET 04/01/2015 DET @ CHA L 27 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 3 0 0 1 1 -16
+p83
+aVJodie Meeks DET 04/01/2015 DET @ CHA L 34 15 6 13 46.2 1 4 25.0 2 2 100.0 1 4 5 0 0 0 1 2 -18
+p84
+aVJoel Anthony DET 04/01/2015 DET @ CHA L 20 6 2 3 66.7 0 0 - 2 2 100.0 2 5 7 0 2 4 0 2 5
+p85
+aVTayshaun Prince DET 04/01/2015 DET @ CHA L 21 4 2 7 28.6 0 1 0.0 0 0 - 3 4 7 2 0 0 0 2 -5
+p86
+aVTayshaun Prince DET 03/31/2015 DET vs. ATL W 25 9 4 9 44.4 1 1 100.0 0 0 - 1 2 3 2 2 1 2 0 7
+p87
+aVReggie Jackson DET 03/31/2015 DET vs. ATL W 22 12 5 9 55.6 2 3 66.7 0 0 - 0 4 4 11 0 0 2 1 16
+p88
+aVAndre Drummond DET 03/31/2015 DET vs. ATL W 31 22 8 11 72.7 0 0 - 6 11 54.5 6 7 13 1 2 1 1 1 12
+p89
+aVAnthony Tolliver DET 03/31/2015 DET vs. ATL W 40 13 4 9 44.4 3 7 42.9 2 2 100.0 1 9 10 1 0 0 1 1 11
+p90
+aVJodie Meeks DET 03/31/2015 DET vs. ATL W 16 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 1 2 0 1 0 -2
+p91
+aVJohn Lucas III DET 03/31/2015 DET vs. ATL W 22 15 7 11 63.6 1 3 33.3 0 0 - 0 1 1 3 2 0 2 1 2
+p92
+aVSpencer Dinwiddie DET 03/31/2015 DET vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -8
+p93
+aVJoel Anthony DET 03/31/2015 DET vs. ATL W 17 5 2 2 100.0 0 0 - 1 1 100.0 0 4 4 1 1 4 0 3 -2
+p94
+aVCaron Butler DET 03/31/2015 DET vs. ATL W 23 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 1 1 0 2 1 3
+p95
+aVKentavious Caldwell-Pope DET 03/31/2015 DET vs. ATL W 32 18 7 16 43.8 3 9 33.3 1 1 100.0 0 1 1 3 1 0 0 2 12
+p96
+aVShawne Williams DET 03/31/2015 DET vs. ATL W 8 2 0 4 0.0 0 2 0.0 2 2 100.0 1 1 2 0 0 0 0 2 -1
+p97
+aVCaron Butler DET 03/29/2015 DET @ MIA L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -4
+p98
+aVReggie Jackson DET 03/29/2015 DET @ MIA L 36 31 12 17 70.6 3 4 75.0 4 8 50.0 3 3 6 9 0 0 4 4 3
+p99
+aVJodie Meeks DET 03/29/2015 DET @ MIA L 28 11 4 8 50.0 3 5 60.0 0 0 - 0 0 0 3 1 0 0 1 -3
+p100
+aVJoel Anthony DET 03/29/2015 DET @ MIA L 9 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 0 3 0 0 -8
+p101
+aVShawne Williams DET 03/29/2015 DET @ MIA L 7 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 0 -6
+p102
+aVSpencer Dinwiddie DET 03/29/2015 DET @ MIA L 12 2 0 5 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 1 -10
+p103
+aVAnthony Tolliver DET 03/29/2015 DET @ MIA L 28 7 3 6 50.0 1 4 25.0 0 0 - 0 2 2 4 1 0 1 2 -2
+p104
+aVKentavious Caldwell-Pope DET 03/29/2015 DET @ MIA L 41 9 4 15 26.7 0 6 0.0 1 2 50.0 0 4 4 1 2 0 4 4 4
+p105
+aVTayshaun Prince DET 03/29/2015 DET @ MIA L 24 6 2 8 25.0 1 3 33.3 1 1 100.0 1 3 4 2 0 0 1 3 -10
+p106
+aVAndre Drummond DET 03/29/2015 DET @ MIA L 39 32 14 17 82.4 0 0 - 4 7 57.1 5 9 14 2 1 2 0 3 1
+p107
+aVKentavious Caldwell-Pope DET 03/27/2015 DET @ ORL W 39 10 4 20 20.0 0 5 0.0 2 2 100.0 1 4 5 1 4 0 0 1 9
+p108
+aVTayshaun Prince DET 03/27/2015 DET @ ORL W 27 23 10 15 66.7 1 1 100.0 2 3 66.7 4 3 7 1 1 0 0 0 2
+p109
+aVAnthony Tolliver DET 03/27/2015 DET @ ORL W 31 11 4 6 66.7 3 5 60.0 0 0 - 0 4 4 2 0 0 0 1 8
+p110
+aVSpencer Dinwiddie DET 03/27/2015 DET @ ORL W 17 7 2 6 33.3 0 1 0.0 3 4 75.0 0 2 2 6 2 0 0 2 9
+p111
+aVJoel Anthony DET 03/27/2015 DET @ ORL W 20 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 1 4 1 3 -3
+p112
+aVJodie Meeks DET 03/27/2015 DET @ ORL W 22 12 4 8 50.0 1 3 33.3 3 3 100.0 0 2 2 0 0 0 0 1 11
+p113
+aVShawne Williams DET 03/27/2015 DET @ ORL W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p114
+aVReggie Jackson DET 03/27/2015 DET @ ORL W 31 26 9 19 47.4 1 2 50.0 7 9 77.8 3 8 11 10 1 0 3 0 5
+p115
+aVCaron Butler DET 03/27/2015 DET @ ORL W 19 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 11
+p116
+aVAndre Drummond DET 03/27/2015 DET @ ORL W 28 16 7 9 77.8 0 0 - 2 5 40.0 4 5 9 0 1 2 1 3 17
+p117
+aVAndre Drummond DET 03/24/2015 DET vs. TOR W 33 21 8 21 38.1 0 0 - 5 10 50.0 10 8 18 3 2 1 0 4 7
+p118
+aVShawne Williams DET 03/24/2015 DET vs. TOR W 13 2 1 5 20.0 0 2 0.0 0 0 - 2 2 4 1 0 1 0 0 -6
+p119
+aVKentavious Caldwell-Pope DET 03/24/2015 DET vs. TOR W 36 26 10 17 58.8 5 9 55.6 1 2 50.0 2 4 6 4 0 0 0 3 7
+p120
+aVReggie Jackson DET 03/24/2015 DET vs. TOR W 34 28 10 18 55.6 2 3 66.7 6 8 75.0 2 3 5 9 1 0 0 2 12
+p121
+aVJodie Meeks DET 03/24/2015 DET vs. TOR W 23 2 0 7 0.0 0 4 0.0 2 2 100.0 0 1 1 3 0 0 1 1 2
+p122
+aVJoel Anthony DET 03/24/2015 DET vs. TOR W 15 4 2 2 100.0 0 0 - 0 0 - 3 0 3 0 0 1 1 1 -3
+p123
+aVCaron Butler DET 03/24/2015 DET vs. TOR W 14 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 0 0 1 0 7
+p124
+aVTayshaun Prince DET 03/24/2015 DET vs. TOR W 32 4 2 9 22.2 0 2 0.0 0 0 - 0 3 3 2 0 0 1 3 -9
+p125
+aVSpencer Dinwiddie DET 03/24/2015 DET vs. TOR W 14 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 3 2 0 3 1 -8
+p126
+aVAnthony Tolliver DET 03/24/2015 DET vs. TOR W 26 11 3 5 60.0 3 5 60.0 2 2 100.0 1 0 1 1 0 0 0 6 11
+p127
+aVReggie Jackson DET 03/22/2015 DET @ BOS W 37 17 5 13 38.5 0 3 0.0 7 8 87.5 0 9 9 11 0 1 4 4 13
+p128
+aVAnthony Tolliver DET 03/22/2015 DET @ BOS W 25 0 0 7 0.0 0 3 0.0 0 0 - 1 1 2 3 0 1 0 2 -3
+p129
+aVCaron Butler DET 03/22/2015 DET @ BOS W 28 12 4 7 57.1 3 4 75.0 1 1 100.0 0 2 2 1 0 0 2 3 0
+p130
+aVJodie Meeks DET 03/22/2015 DET @ BOS W 34 14 5 8 62.5 1 4 25.0 3 4 75.0 0 5 5 0 0 0 1 0 4
+p131
+aVKentavious Caldwell-Pope DET 03/22/2015 DET @ BOS W 44 27 10 20 50.0 3 8 37.5 4 4 100.0 2 6 8 1 2 0 4 2 11
+p132
+aVJoel Anthony DET 03/22/2015 DET @ BOS W 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 2 0 1 -1
+p133
+aVSpencer Dinwiddie DET 03/22/2015 DET @ BOS W 16 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 4 2 2 3 3 -4
+p134
+aVAndre Drummond DET 03/22/2015 DET @ BOS W 40 18 8 17 47.1 0 0 - 2 11 18.2 8 14 22 2 0 4 0 4 12
+p135
+aVTayshaun Prince DET 03/22/2015 DET @ BOS W 29 9 3 9 33.3 2 3 66.7 1 2 50.0 0 3 3 2 1 0 0 2 8
+p136
+aVAnthony Tolliver DET 03/21/2015 DET vs. CHI W 22 4 2 7 28.6 0 4 0.0 0 0 - 1 5 6 1 1 0 0 4 -3
+p137
+aVSpencer Dinwiddie DET 03/21/2015 DET vs. CHI W 20 10 3 11 27.3 1 4 25.0 3 3 100.0 1 2 3 10 1 0 1 4 6
+p138
+aVCaron Butler DET 03/21/2015 DET vs. CHI W 29 20 7 11 63.6 4 6 66.7 2 2 100.0 0 5 5 1 1 0 1 2 18
+p139
+aVJodie Meeks DET 03/21/2015 DET vs. CHI W 21 12 5 11 45.5 2 2 100.0 0 0 - 0 1 1 0 0 1 0 0 4
+p140
+aVAndre Drummond DET 03/21/2015 DET vs. CHI W 27 14 7 13 53.8 0 0 - 0 2 0.0 4 5 9 1 1 0 1 4 6
+p141
+aVCartier Martin DET 03/21/2015 DET vs. CHI W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -13
+p142
+aVTayshaun Prince DET 03/21/2015 DET vs. CHI W 23 4 2 6 33.3 0 0 - 0 0 - 0 10 10 2 2 1 0 0 6
+p143
+aVReggie Jackson DET 03/21/2015 DET vs. CHI W 28 22 9 16 56.3 1 3 33.3 3 3 100.0 0 3 3 11 1 0 1 1 10
+p144
+aVKentavious Caldwell-Pope DET 03/21/2015 DET vs. CHI W 39 15 6 11 54.5 3 6 50.0 0 0 - 0 1 1 1 1 0 0 0 27
+p145
+aVJoel Anthony DET 03/21/2015 DET vs. CHI W 26 6 3 3 100.0 0 0 - 0 0 - 0 6 6 1 1 4 0 3 19
+p146
+aVJoel Anthony DET 03/18/2015 DET @ PHI L 16 6 2 4 50.0 0 0 - 2 2 100.0 3 1 4 1 0 4 1 1 -8
+p147
+aVShawne Williams DET 03/18/2015 DET @ PHI L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -6
+p148
+aVKentavious Caldwell-Pope DET 03/18/2015 DET @ PHI L 36 20 7 16 43.8 1 4 25.0 5 6 83.3 1 7 8 2 1 0 3 3 -2
+p149
+aVTayshaun Prince DET 03/18/2015 DET @ PHI L 22 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 2 0 0 2 1 -20
+p150
+aVSpencer Dinwiddie DET 03/18/2015 DET @ PHI L 19 7 2 11 18.2 1 3 33.3 2 2 100.0 1 2 3 3 0 0 0 2 -9
+p151
+aVAndre Drummond DET 03/18/2015 DET @ PHI L 32 9 3 8 37.5 0 0 - 3 3 100.0 7 7 14 0 1 2 1 4 -3
+p152
+aVJodie Meeks DET 03/18/2015 DET @ PHI L 24 8 2 12 16.7 2 5 40.0 2 2 100.0 0 2 2 0 4 0 2 0 -9
+p153
+aVReggie Jackson DET 03/18/2015 DET @ PHI L 32 11 4 17 23.5 1 3 33.3 2 2 100.0 3 8 11 10 0 0 5 3 -4
+p154
+aVAnthony Tolliver DET 03/18/2015 DET @ PHI L 34 9 3 5 60.0 2 4 50.0 1 2 50.0 3 2 5 0 0 1 2 2 5
+p155
+aVCaron Butler DET 03/18/2015 DET @ PHI L 18 7 3 8 37.5 1 6 16.7 0 0 - 0 0 0 0 2 0 0 1 1
+p156
+aVJodie Meeks DET 03/17/2015 DET vs. MEM W 11 5 1 3 33.3 1 3 33.3 2 4 50.0 0 1 1 0 0 0 1 1 -5
+p157
+aVAndre Drummond DET 03/17/2015 DET vs. MEM W 39 16 6 12 50.0 0 0 - 4 6 66.7 7 9 16 1 2 5 1 4 15
+p158
+aVReggie Jackson DET 03/17/2015 DET vs. MEM W 34 23 10 18 55.6 2 5 40.0 1 1 100.0 1 1 2 20 1 0 2 2 24
+p159
+aVJoel Anthony DET 03/17/2015 DET vs. MEM W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p160
+aVKentavious Caldwell-Pope DET 03/17/2015 DET vs. MEM W 37 24 10 16 62.5 2 7 28.6 2 3 66.7 0 0 0 1 0 0 1 1 15
+p161
+aVShawne Williams DET 03/17/2015 DET vs. MEM W 16 3 1 6 16.7 1 5 20.0 0 0 - 0 2 2 1 1 0 0 2 0
+p162
+aVAnthony Tolliver DET 03/17/2015 DET vs. MEM W 32 15 4 12 33.3 4 9 44.4 3 4 75.0 0 7 7 0 1 0 1 2 10
+p163
+aVSpencer Dinwiddie DET 03/17/2015 DET vs. MEM W 14 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 1 0 0 1 2 -14
+p164
+aVCaron Butler DET 03/17/2015 DET vs. MEM W 23 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 1 0 0 0 1 8
+p165
+aVTayshaun Prince DET 03/17/2015 DET vs. MEM W 25 11 4 7 57.1 0 0 - 3 4 75.0 1 4 5 1 0 0 2 1 2
+p166
+aVKentavious Caldwell-Pope DET 03/14/2015 DET @ UTA L 28 1 0 5 0.0 0 1 0.0 1 2 50.0 1 1 2 1 2 0 1 2 -8
+p167
+aVAnthony Tolliver DET 03/14/2015 DET @ UTA L 28 14 5 12 41.7 2 8 25.0 2 3 66.7 1 2 3 1 0 0 0 3 15
+p168
+aVGreg Monroe DET 03/14/2015 DET @ UTA L 33 16 7 15 46.7 0 0 - 2 3 66.7 5 8 13 2 0 2 2 2 -15
+p169
+aVAndre Drummond DET 03/14/2015 DET @ UTA L 11 4 2 4 50.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 2 -4
+p170
+aVJodie Meeks DET 03/14/2015 DET @ UTA L 33 11 2 9 22.2 1 3 33.3 6 8 75.0 0 2 2 5 4 0 1 1 -3
+p171
+aVSpencer Dinwiddie DET 03/14/2015 DET @ UTA L 20 9 3 9 33.3 1 4 25.0 2 3 66.7 1 1 2 6 2 0 0 2 10
+p172
+aVReggie Jackson DET 03/14/2015 DET @ UTA L 28 10 4 11 36.4 2 4 50.0 0 0 - 0 4 4 0 0 0 5 1 -13
+p173
+aVJoel Anthony DET 03/14/2015 DET @ UTA L 21 10 5 9 55.6 0 0 - 0 1 0.0 4 1 5 0 0 1 0 5 5
+p174
+aVTayshaun Prince DET 03/14/2015 DET @ UTA L 25 8 3 6 50.0 2 2 100.0 0 0 - 2 7 9 3 0 0 1 1 2
+p175
+aVCaron Butler DET 03/14/2015 DET @ UTA L 13 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 -4
+p176
+aVCartier Martin DET 03/13/2015 DET @ POR L 5 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 1
+p177
+aVGreg Monroe DET 03/13/2015 DET @ POR L 32 19 7 13 53.8 0 0 - 5 5 100.0 1 3 4 4 3 0 2 1 -20
+p178
+aVSpencer Dinwiddie DET 03/13/2015 DET @ POR L 16 5 2 6 33.3 1 4 25.0 0 0 - 0 3 3 2 0 0 1 1 -13
+p179
+aVJodie Meeks DET 03/13/2015 DET @ POR L 25 14 4 8 50.0 1 3 33.3 5 5 100.0 0 1 1 1 0 0 0 1 -15
+p180
+aVCaron Butler DET 03/13/2015 DET @ POR L 19 11 4 4 100.0 3 3 100.0 0 0 - 0 1 1 0 0 0 0 1 1
+p181
+aVJoel Anthony DET 03/13/2015 DET @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p182
+aVKentavious Caldwell-Pope DET 03/13/2015 DET @ POR L 26 12 6 14 42.9 0 4 0.0 0 0 - 0 2 2 1 0 0 0 1 -5
+p183
+aVAnthony Tolliver DET 03/13/2015 DET @ POR L 22 2 1 6 16.7 0 4 0.0 0 0 - 0 2 2 0 1 0 1 2 -6
+p184
+aVAndre Drummond DET 03/13/2015 DET @ POR L 34 16 8 17 47.1 0 0 - 0 2 0.0 9 8 17 0 0 0 0 4 -12
+p185
+aVReggie Jackson DET 03/13/2015 DET @ POR L 28 11 5 13 38.5 1 3 33.3 0 0 - 1 2 3 10 0 0 1 2 -7
+p186
+aVShawne Williams DET 03/13/2015 DET @ POR L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 -1
+p187
+aVJohn Lucas III DET 03/13/2015 DET @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p188
+aVTayshaun Prince DET 03/13/2015 DET @ POR L 21 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 3 0 1 0 1 -20
+p189
+aVReggie Jackson DET 03/11/2015 DET @ GSW L 31 14 7 15 46.7 0 1 0.0 0 0 - 1 1 2 9 0 0 4 4 -1
+p190
+aVCaron Butler DET 03/11/2015 DET @ GSW L 20 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -1
+p191
+aVTayshaun Prince DET 03/11/2015 DET @ GSW L 24 8 3 7 42.9 0 0 - 2 2 100.0 2 2 4 1 0 0 0 0 -15
+p192
+aVAndre Drummond DET 03/11/2015 DET @ GSW L 34 22 11 23 47.8 0 0 - 0 2 0.0 15 10 25 0 2 2 3 3 -8
+p193
+aVJodie Meeks DET 03/11/2015 DET @ GSW L 24 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 0 0 1 0 2 -5
+p194
+aVSpencer Dinwiddie DET 03/11/2015 DET @ GSW L 17 8 3 9 33.3 2 4 50.0 0 0 - 0 2 2 1 0 0 3 2 -6
+p195
+aVAnthony Tolliver DET 03/11/2015 DET @ GSW L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 6
+p196
+aVKentavious Caldwell-Pope DET 03/11/2015 DET @ GSW L 36 13 6 15 40.0 1 5 20.0 0 0 - 1 1 2 3 2 0 0 1 -5
+p197
+aVCartier Martin DET 03/11/2015 DET @ GSW L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -3
+p198
+aVGreg Monroe DET 03/11/2015 DET @ GSW L 32 20 7 18 38.9 0 0 - 6 6 100.0 0 8 8 1 1 2 3 3 3
+p199
+aVJohn Lucas III DET 03/10/2015 DET @ LAL L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 5
+p200
+aVKentavious Caldwell-Pope DET 03/10/2015 DET @ LAL L 36 15 5 14 35.7 4 10 40.0 1 1 100.0 0 2 2 2 0 1 1 3 -12
+p201
+aVCaron Butler DET 03/10/2015 DET @ LAL L 10 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 2 0 0 2 -1
+p202
+aVTayshaun Prince DET 03/10/2015 DET @ LAL L 22 5 2 5 40.0 0 2 0.0 1 2 50.0 0 1 1 1 1 0 0 0 -9
+p203
+aVAndre Drummond DET 03/10/2015 DET @ LAL L 32 14 7 12 58.3 0 0 - 0 0 - 6 15 21 0 1 2 1 1 0
+p204
+aVAnthony Tolliver DET 03/10/2015 DET @ LAL L 22 5 1 7 14.3 1 6 16.7 2 2 100.0 1 1 2 1 0 2 0 1 0
+p205
+aVShawne Williams DET 03/10/2015 DET @ LAL L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p206
+aVSpencer Dinwiddie DET 03/10/2015 DET @ LAL L 19 4 1 6 16.7 0 3 0.0 2 2 100.0 0 2 2 6 1 1 1 6 9
+p207
+aVReggie Jackson DET 03/10/2015 DET @ LAL L 22 2 1 9 11.1 0 4 0.0 0 0 - 0 2 2 3 0 0 5 3 -22
+p208
+aVJodie Meeks DET 03/10/2015 DET @ LAL L 28 12 4 10 40.0 3 6 50.0 1 2 50.0 0 2 2 3 2 0 3 3 6
+p209
+aVGreg Monroe DET 03/10/2015 DET @ LAL L 39 24 10 14 71.4 0 0 - 4 8 50.0 5 5 10 2 2 2 1 3 -14
+p210
+aVAnthony Tolliver DET 03/08/2015 DET vs. CHA L 17 4 2 3 66.7 0 1 0.0 0 0 - 1 2 3 0 0 0 0 3 0
+p211
+aVCaron Butler DET 03/08/2015 DET vs. CHA L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -2
+p212
+aVJodie Meeks DET 03/08/2015 DET vs. CHA L 24 13 3 12 25.0 1 3 33.3 6 6 100.0 0 1 1 0 3 0 0 1 -7
+p213
+aVKentavious Caldwell-Pope DET 03/08/2015 DET vs. CHA L 32 11 4 15 26.7 0 4 0.0 3 4 75.0 1 4 5 2 0 0 2 0 -6
+p214
+aVGreg Monroe DET 03/08/2015 DET vs. CHA L 35 18 7 11 63.6 0 0 - 4 6 66.7 3 8 11 4 2 0 4 3 -15
+p215
+aVJohn Lucas III DET 03/08/2015 DET vs. CHA L 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 2 0 1 0 -4
+p216
+aVShawne Williams DET 03/08/2015 DET vs. CHA L 15 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 1 6
+p217
+aVTayshaun Prince DET 03/08/2015 DET vs. CHA L 32 6 3 5 60.0 0 1 0.0 0 0 - 1 5 6 1 0 1 0 2 -8
+p218
+aVAndre Drummond DET 03/08/2015 DET vs. CHA L 24 16 7 13 53.8 0 0 - 2 4 50.0 2 3 5 1 0 2 1 4 4
+p219
+aVReggie Jackson DET 03/08/2015 DET vs. CHA L 34 25 9 21 42.9 2 4 50.0 5 5 100.0 4 3 7 7 1 0 2 2 -3
+p220
+aVTayshaun Prince DET 03/06/2015 DET @ HOU L 21 9 3 6 50.0 1 2 50.0 2 2 100.0 2 0 2 2 0 0 1 2 -7
+p221
+aVCartier Martin DET 03/06/2015 DET @ HOU L 6 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 0 1 0 0 2 12
+p222
+aVCaron Butler DET 03/06/2015 DET @ HOU L 18 7 3 9 33.3 1 4 25.0 0 0 - 1 2 3 0 2 1 1 2 -13
+p223
+aVShawne Williams DET 03/06/2015 DET @ HOU L 16 8 4 11 36.4 0 4 0.0 0 0 - 1 2 3 0 1 0 1 4 -1
+p224
+aVReggie Jackson DET 03/06/2015 DET @ HOU L 34 17 7 16 43.8 1 2 50.0 2 2 100.0 0 3 3 7 1 1 4 2 -4
+p225
+aVAnthony Tolliver DET 03/06/2015 DET @ HOU L 19 2 1 7 14.3 0 6 0.0 0 0 - 1 2 3 0 1 0 0 2 -10
+p226
+aVJodie Meeks DET 03/06/2015 DET @ HOU L 18 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 3 1 0 0 0 -14
+p227
+aVKentavious Caldwell-Pope DET 03/06/2015 DET @ HOU L 33 6 3 10 30.0 0 6 0.0 0 0 - 0 1 1 3 1 0 2 1 2
+p228
+aVSpencer Dinwiddie DET 03/06/2015 DET @ HOU L 14 4 0 4 0.0 0 1 0.0 4 4 100.0 0 2 2 0 0 0 0 1 -6
+p229
+aVGreg Monroe DET 03/06/2015 DET @ HOU L 30 19 7 13 53.8 0 0 - 5 6 83.3 2 6 8 3 4 1 1 2 -14
+p230
+aVAndre Drummond DET 03/06/2015 DET @ HOU L 31 8 4 16 25.0 0 0 - 0 3 0.0 12 9 21 2 0 2 2 4 5
+p231
+aVAndre Drummond DET 03/04/2015 DET @ NOP L 34 13 6 13 46.2 0 0 - 1 2 50.0 6 12 18 1 1 6 2 5 6
+p232
+aVShawne Williams DET 03/04/2015 DET @ NOP L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p233
+aVKentavious Caldwell-Pope DET 03/04/2015 DET @ NOP L 24 8 4 14 28.6 0 3 0.0 0 0 - 0 3 3 1 1 0 0 2 5
+p234
+aVAnthony Tolliver DET 03/04/2015 DET @ NOP L 14 5 2 6 33.3 1 4 25.0 0 0 - 1 1 2 0 0 0 2 3 -20
+p235
+aVJoel Anthony DET 03/04/2015 DET @ NOP L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p236
+aVReggie Jackson DET 03/04/2015 DET @ NOP L 33 14 7 16 43.8 0 2 0.0 0 0 - 0 5 5 11 2 0 4 3 12
+p237
+aVSpencer Dinwiddie DET 03/04/2015 DET @ NOP L 15 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 4 0 0 1 1 -15
+p238
+aVTayshaun Prince DET 03/04/2015 DET @ NOP L 29 8 3 8 37.5 0 1 0.0 2 2 100.0 3 3 6 1 1 1 1 0 5
+p239
+aVGreg Monroe DET 03/04/2015 DET @ NOP L 37 13 6 15 40.0 0 0 - 1 2 50.0 5 10 15 5 1 0 5 3 5
+p240
+aVJodie Meeks DET 03/04/2015 DET @ NOP L 28 20 8 14 57.1 1 2 50.0 3 3 100.0 0 0 0 1 2 0 2 0 -5
+p241
+aVCaron Butler DET 03/04/2015 DET @ NOP L 18 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -15
+p242
+aVReggie Jackson DET 02/28/2015 DET @ WAS L 23 9 4 12 33.3 1 4 25.0 0 0 - 1 2 3 7 3 0 2 3 -9
+p243
+aVGreg Monroe DET 02/28/2015 DET @ WAS L 33 21 8 15 53.3 0 0 - 5 6 83.3 3 7 10 0 1 1 6 2 0
+p244
+aVAndre Drummond DET 02/28/2015 DET @ WAS L 31 13 5 8 62.5 0 0 - 3 10 30.0 3 6 9 0 0 1 1 4 -17
+p245
+aVJodie Meeks DET 02/28/2015 DET @ WAS L 25 8 3 7 42.9 2 3 66.7 0 1 0.0 0 3 3 0 0 0 2 1 6
+p246
+aVTayshaun Prince DET 02/28/2015 DET @ WAS L 24 8 4 4 100.0 0 0 - 0 1 0.0 0 2 2 0 2 0 1 0 -10
+p247
+aVKentavious Caldwell-Pope DET 02/28/2015 DET @ WAS L 23 5 2 8 25.0 1 5 20.0 0 0 - 0 1 1 0 1 0 2 2 -10
+p248
+aVSpencer Dinwiddie DET 02/28/2015 DET @ WAS L 25 20 8 14 57.1 1 4 25.0 3 3 100.0 1 3 4 8 1 0 3 4 5
+p249
+aVCaron Butler DET 02/28/2015 DET @ WAS L 24 2 1 2 50.0 0 1 0.0 0 0 - 1 4 5 1 0 0 0 4 6
+p250
+aVAnthony Tolliver DET 02/28/2015 DET @ WAS L 27 9 3 8 37.5 3 8 37.5 0 0 - 0 3 3 1 0 0 0 0 14
+p251
+aVShawne Williams DET 02/28/2015 DET @ WAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -5
+p252
+aVAndre Drummond DET 02/27/2015 DET vs. NYK L 41 21 9 11 81.8 0 0 - 3 7 42.9 6 9 15 1 0 4 3 6 -6
+p253
+aVCaron Butler DET 02/27/2015 DET vs. NYK L 21 2 0 3 0.0 0 2 0.0 2 2 100.0 0 2 2 3 0 0 2 4 13
+p254
+aVAnthony Tolliver DET 02/27/2015 DET vs. NYK L 24 6 2 7 28.6 2 6 33.3 0 0 - 2 3 5 0 0 2 1 3 2
+p255
+aVKentavious Caldwell-Pope DET 02/27/2015 DET vs. NYK L 42 19 7 18 38.9 3 11 27.3 2 2 100.0 2 4 6 3 1 2 1 0 -16
+p256
+aVGreg Monroe DET 02/27/2015 DET vs. NYK L 44 28 9 13 69.2 0 0 - 10 15 66.7 4 9 13 2 2 2 1 2 -7
+p257
+aVTayshaun Prince DET 02/27/2015 DET vs. NYK L 20 0 0 5 0.0 0 0 - 0 0 - 1 4 5 1 0 0 0 2 -13
+p258
+aVJohn Lucas III DET 02/27/2015 DET vs. NYK L 17 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 5 0 0 1 2 4
+p259
+aVShawne Williams DET 02/27/2015 DET vs. NYK L 6 3 1 3 33.3 0 2 0.0 1 1 100.0 0 1 1 0 0 0 0 0 -1
+p260
+aVJodie Meeks DET 02/27/2015 DET vs. NYK L 33 16 5 8 62.5 2 4 50.0 4 6 66.7 0 2 2 2 0 0 2 3 4
+p261
+aVReggie Jackson DET 02/27/2015 DET vs. NYK L 41 16 5 24 20.8 1 5 20.0 5 5 100.0 1 4 5 5 0 0 4 4 -10
+p262
+aVKentavious Caldwell-Pope DET 02/24/2015 DET vs. CLE L 33 21 7 13 53.8 5 7 71.4 2 3 66.7 0 2 2 1 2 0 1 1 6
+p263
+aVGreg Monroe DET 02/24/2015 DET vs. CLE L 34 12 4 13 30.8 0 0 - 4 4 100.0 4 10 14 2 0 0 4 3 -13
+p264
+aVReggie Jackson DET 02/24/2015 DET vs. CLE L 35 22 7 15 46.7 1 4 25.0 7 8 87.5 1 7 8 9 0 1 2 5 5
+p265
+aVAnthony Tolliver DET 02/24/2015 DET vs. CLE L 28 6 2 5 40.0 1 4 25.0 1 4 25.0 1 2 3 1 0 0 0 2 0
+p266
+aVTayshaun Prince DET 02/24/2015 DET vs. CLE L 31 7 2 7 28.6 1 3 33.3 2 4 50.0 1 3 4 0 2 1 1 3 0
+p267
+aVAndre Drummond DET 02/24/2015 DET vs. CLE L 34 17 8 14 57.1 0 0 - 1 6 16.7 4 6 10 0 1 1 2 3 -5
+p268
+aVSpencer Dinwiddie DET 02/24/2015 DET vs. CLE L 9 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 -7
+p269
+aVJohn Lucas III DET 02/24/2015 DET vs. CLE L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p270
+aVCaron Butler DET 02/24/2015 DET vs. CLE L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 3 0 0 0 4 -9
+p271
+aVJodie Meeks DET 02/24/2015 DET vs. CLE L 15 3 1 5 20.0 0 2 0.0 1 1 100.0 0 1 1 0 0 0 0 0 -15
+p272
+aVJodie Meeks DET 02/22/2015 DET vs. WAS W 23 10 2 7 28.6 2 4 50.0 4 4 100.0 0 2 2 0 0 0 1 2 5
+p273
+aVAndre Drummond DET 02/22/2015 DET vs. WAS W 33 18 8 11 72.7 0 0 - 2 4 50.0 6 10 16 2 0 1 1 3 23
+p274
+aVAnthony Tolliver DET 02/22/2015 DET vs. WAS W 26 13 3 5 60.0 3 4 75.0 4 4 100.0 3 3 6 2 1 0 2 2 11
+p275
+aVCartier Martin DET 02/22/2015 DET vs. WAS W 20 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 2 14
+p276
+aVKentavious Caldwell-Pope DET 02/22/2015 DET vs. WAS W 31 26 10 20 50.0 6 13 46.2 0 0 - 1 1 2 1 2 0 1 2 14
+p277
+aVSpencer Dinwiddie DET 02/22/2015 DET vs. WAS W 18 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 7 0 0 2 2 9
+p278
+aVReggie Jackson DET 02/22/2015 DET vs. WAS W 30 17 7 18 38.9 1 4 25.0 2 2 100.0 2 3 5 5 0 0 3 1 8
+p279
+aVCaron Butler DET 02/22/2015 DET vs. WAS W 22 7 1 3 33.3 1 2 50.0 4 5 80.0 0 1 1 2 1 0 0 2 1
+p280
+aVGreg Monroe DET 02/22/2015 DET vs. WAS W 37 15 6 16 37.5 0 0 - 3 6 50.0 5 10 15 2 3 0 2 3 0
+p281
+aVSpencer Dinwiddie DET 02/20/2015 DET vs. CHI W 31 12 5 9 55.6 1 2 50.0 1 2 50.0 0 3 3 9 3 0 2 3 19
+p282
+aVJodie Meeks DET 02/20/2015 DET vs. CHI W 19 9 2 8 25.0 0 3 0.0 5 5 100.0 0 2 2 0 1 0 0 1 -4
+p283
+aVJohn Lucas III DET 02/20/2015 DET vs. CHI W 17 9 4 8 50.0 1 4 25.0 0 0 - 0 0 0 1 0 0 0 1 -10
+p284
+aVCartier Martin DET 02/20/2015 DET vs. CHI W 16 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 2 1
+p285
+aVGreg Monroe DET 02/20/2015 DET vs. CHI W 37 20 9 14 64.3 0 0 - 2 5 40.0 0 6 6 1 2 1 3 4 18
+p286
+aVAndre Drummond DET 02/20/2015 DET vs. CHI W 39 18 7 18 38.9 0 0 - 4 13 30.8 9 11 20 1 1 0 2 5 4
+p287
+aVCaron Butler DET 02/20/2015 DET vs. CHI W 32 20 6 10 60.0 2 5 40.0 6 6 100.0 0 4 4 3 4 0 0 3 8
+p288
+aVAnthony Tolliver DET 02/20/2015 DET vs. CHI W 21 0 0 3 0.0 0 3 0.0 0 0 - 2 3 5 2 0 0 1 3 -4
+p289
+aVKentavious Caldwell-Pope DET 02/20/2015 DET vs. CHI W 29 12 5 11 45.5 2 3 66.7 0 2 0.0 0 2 2 2 1 0 0 1 13
+p290
+aVJohn Lucas III DET 02/11/2015 DET vs. SAS L 12 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 6 1 0 1 0 1
+p291
+aVGreg Monroe DET 02/11/2015 DET vs. SAS L 30 6 3 10 30.0 0 0 - 0 1 0.0 4 2 6 2 1 0 1 1 -13
+p292
+aVKyle Singler DET 02/11/2015 DET vs. SAS L 27 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 1 -11
+p293
+aVSpencer Dinwiddie DET 02/11/2015 DET vs. SAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p294
+aVJodie Meeks DET 02/11/2015 DET vs. SAS L 30 7 3 9 33.3 1 3 33.3 0 0 - 1 1 2 1 1 0 1 1 -3
+p295
+aVAndre Drummond DET 02/11/2015 DET vs. SAS L 34 10 4 10 40.0 0 0 - 2 6 33.3 4 5 9 0 0 2 0 4 -19
+p296
+aVD.J. Augustin DET 02/11/2015 DET vs. SAS L 34 22 8 18 44.4 2 6 33.3 4 4 100.0 0 3 3 6 0 0 5 2 -19
+p297
+aVJonas Jerebko DET 02/11/2015 DET vs. SAS L 13 2 1 2 50.0 0 0 - 0 0 - 0 6 6 0 0 1 0 0 4
+p298
+aVAnthony Tolliver DET 02/11/2015 DET vs. SAS L 19 9 3 5 60.0 3 3 100.0 0 0 - 1 3 4 0 0 0 1 1 -6
+p299
+aVGigi Datome DET 02/11/2015 DET vs. SAS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p300
+aVJoel Anthony DET 02/11/2015 DET vs. SAS L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 1
+p301
+aVKentavious Caldwell-Pope DET 02/11/2015 DET vs. SAS L 36 20 7 15 46.7 2 5 40.0 4 4 100.0 0 3 3 0 0 1 1 3 -22
+p302
+aVKyle Singler DET 02/10/2015 DET @ CHA W 28 8 2 6 33.3 0 1 0.0 4 4 100.0 0 3 3 1 0 1 1 2 13
+p303
+aVAndre Drummond DET 02/10/2015 DET @ CHA W 29 14 7 14 50.0 0 0 - 0 0 - 1 8 9 2 1 1 2 3 12
+p304
+aVD.J. Augustin DET 02/10/2015 DET @ CHA W 28 18 5 14 35.7 1 3 33.3 7 7 100.0 0 1 1 5 1 0 1 0 13
+p305
+aVAnthony Tolliver DET 02/10/2015 DET @ CHA W 25 16 6 11 54.5 3 6 50.0 1 1 100.0 0 4 4 1 0 0 1 2 25
+p306
+aVJoel Anthony DET 02/10/2015 DET @ CHA W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -2
+p307
+aVKentavious Caldwell-Pope DET 02/10/2015 DET @ CHA W 27 5 2 6 33.3 1 4 25.0 0 0 - 0 6 6 3 0 1 1 3 10
+p308
+aVJodie Meeks DET 02/10/2015 DET @ CHA W 28 18 4 8 50.0 0 3 0.0 10 10 100.0 1 2 3 1 3 1 0 1 17
+p309
+aVGigi Datome DET 02/10/2015 DET @ CHA W 4 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -1
+p310
+aVJohn Lucas III DET 02/10/2015 DET @ CHA W 16 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 4 1 0 0 4 16
+p311
+aVGreg Monroe DET 02/10/2015 DET @ CHA W 32 23 9 15 60.0 0 0 - 5 8 62.5 4 8 12 2 2 0 0 1 21
+p312
+aVSpencer Dinwiddie DET 02/10/2015 DET @ CHA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p313
+aVJonas Jerebko DET 02/10/2015 DET @ CHA W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 17
+p314
+aVAndre Drummond DET 02/08/2015 DET vs. MIN L 29 17 8 8 100.0 0 0 - 1 4 25.0 8 6 14 1 2 2 5 6 -14
+p315
+aVJodie Meeks DET 02/08/2015 DET vs. MIN L 18 9 3 7 42.9 1 4 25.0 2 2 100.0 0 1 1 0 0 0 0 2 -4
+p316
+aVJoel Anthony DET 02/08/2015 DET vs. MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p317
+aVD.J. Augustin DET 02/08/2015 DET vs. MIN L 35 20 7 16 43.8 2 5 40.0 4 4 100.0 1 1 2 8 0 0 1 3 -10
+p318
+aVJohn Lucas III DET 02/08/2015 DET vs. MIN L 13 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 3 1 0 2 1 -1
+p319
+aVKentavious Caldwell-Pope DET 02/08/2015 DET vs. MIN L 30 15 6 15 40.0 2 8 25.0 1 2 50.0 0 1 1 0 4 0 0 2 -7
+p320
+aVCaron Butler DET 02/08/2015 DET vs. MIN L 16 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 2 0 0 1 0 -7
+p321
+aVGreg Monroe DET 02/08/2015 DET vs. MIN L 32 15 5 11 45.5 0 0 - 5 6 83.3 2 7 9 0 1 0 4 5 -7
+p322
+aVAnthony Tolliver DET 02/08/2015 DET vs. MIN L 34 15 4 8 50.0 3 7 42.9 4 4 100.0 1 3 4 1 0 0 0 2 1
+p323
+aVKyle Singler DET 02/08/2015 DET vs. MIN L 32 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 3 0 2 1 3 -4
+p324
+aVD.J. Augustin DET 02/06/2015 DET vs. DEN W 34 22 6 10 60.0 2 3 66.7 8 8 100.0 0 2 2 11 0 0 5 1 16
+p325
+aVJoel Anthony DET 02/06/2015 DET vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p326
+aVJonas Jerebko DET 02/06/2015 DET vs. DEN W 9 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -5
+p327
+aVAnthony Tolliver DET 02/06/2015 DET vs. DEN W 16 2 1 4 25.0 0 3 0.0 0 0 - 0 5 5 0 1 0 1 5 4
+p328
+aVAndre Drummond DET 02/06/2015 DET vs. DEN W 32 13 6 13 46.2 0 0 - 1 4 25.0 3 10 13 0 0 2 0 3 12
+p329
+aVGreg Monroe DET 02/06/2015 DET vs. DEN W 36 21 7 13 53.8 0 0 - 7 9 77.8 4 17 21 3 2 2 4 0 12
+p330
+aVKentavious Caldwell-Pope DET 02/06/2015 DET vs. DEN W 23 9 3 8 37.5 1 2 50.0 2 3 66.7 1 1 2 1 0 0 2 0 4
+p331
+aVKyle Singler DET 02/06/2015 DET vs. DEN W 28 2 1 7 14.3 0 5 0.0 0 0 - 0 3 3 2 0 0 0 1 14
+p332
+aVJohn Lucas III DET 02/06/2015 DET vs. DEN W 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 5 0 0 0 2 -6
+p333
+aVCaron Butler DET 02/06/2015 DET vs. DEN W 20 5 2 7 28.6 1 6 16.7 0 0 - 1 0 1 1 1 0 2 1 -4
+p334
+aVJodie Meeks DET 02/06/2015 DET vs. DEN W 25 18 8 12 66.7 0 4 0.0 2 2 100.0 0 2 2 0 0 0 2 1 6
+p335
+aVD.J. Augustin DET 02/04/2015 DET @ IND L 32 12 4 14 28.6 1 3 33.3 3 3 100.0 0 2 2 6 0 0 3 4 -8
+p336
+aVGreg Monroe DET 02/04/2015 DET @ IND L 36 16 7 15 46.7 0 0 - 2 4 50.0 5 4 9 1 3 0 2 2 -12
+p337
+aVAnthony Tolliver DET 02/04/2015 DET @ IND L 21 12 4 5 80.0 1 2 50.0 3 4 75.0 0 2 2 1 1 1 1 4 9
+p338
+aVJohn Lucas III DET 02/04/2015 DET @ IND L 16 10 4 6 66.7 2 3 66.7 0 0 - 0 0 0 6 0 0 0 0 3
+p339
+aVCaron Butler DET 02/04/2015 DET @ IND L 24 13 4 7 57.1 3 4 75.0 2 3 66.7 0 0 0 2 0 0 1 2 3
+p340
+aVKyle Singler DET 02/04/2015 DET @ IND L 28 8 3 9 33.3 2 4 50.0 0 0 - 0 1 1 1 0 0 1 0 -11
+p341
+aVKentavious Caldwell-Pope DET 02/04/2015 DET @ IND L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p342
+aVJoel Anthony DET 02/04/2015 DET @ IND L 6 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 1 0 0 0 -1
+p343
+aVJodie Meeks DET 02/04/2015 DET @ IND L 30 13 5 12 41.7 2 7 28.6 1 1 100.0 0 1 1 5 1 0 1 1 -6
+p344
+aVAndre Drummond DET 02/04/2015 DET @ IND L 33 18 9 15 60.0 0 0 - 0 0 - 7 9 16 1 1 0 1 3 -4
+p345
+aVCartier Martin DET 02/04/2015 DET @ IND L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 6
+p346
+aVJohn Lucas III DET 02/03/2015 DET vs. MIA W 6 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p347
+aVCaron Butler DET 02/03/2015 DET vs. MIA W 18 7 3 4 75.0 1 2 50.0 0 0 - 0 4 4 1 1 0 0 3 -9
+p348
+aVAnthony Tolliver DET 02/03/2015 DET vs. MIA W 21 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 0 0 0 2 3 12
+p349
+aVGreg Monroe DET 02/03/2015 DET vs. MIA W 28 12 6 11 54.5 0 0 - 0 0 - 1 8 9 2 1 1 2 5 4
+p350
+aVJoel Anthony DET 02/03/2015 DET vs. MIA W 8 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 0 0 2 0 1 -8
+p351
+aVSpencer Dinwiddie DET 02/03/2015 DET vs. MIA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -15
+p352
+aVAndre Drummond DET 02/03/2015 DET vs. MIA W 34 14 6 11 54.5 0 0 - 2 2 100.0 6 8 14 1 0 2 0 2 35
+p353
+aVJonas Jerebko DET 02/03/2015 DET vs. MIA W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p354
+aVKentavious Caldwell-Pope DET 02/03/2015 DET vs. MIA W 29 18 8 19 42.1 1 3 33.3 1 3 33.3 4 0 4 1 3 0 0 0 16
+p355
+aVJodie Meeks DET 02/03/2015 DET vs. MIA W 19 10 3 11 27.3 0 4 0.0 4 4 100.0 0 3 3 2 1 0 2 1 1
+p356
+aVD.J. Augustin DET 02/03/2015 DET vs. MIA W 35 25 8 14 57.1 2 3 66.7 7 7 100.0 0 4 4 13 1 0 0 0 37
+p357
+aVKyle Singler DET 02/03/2015 DET vs. MIA W 30 13 5 8 62.5 3 3 100.0 0 0 - 0 1 1 4 0 0 0 1 26
+p358
+aVJodie Meeks DET 01/31/2015 DET vs. HOU W 19 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 -5
+p359
+aVKyle Singler DET 01/31/2015 DET vs. HOU W 36 14 6 12 50.0 2 5 40.0 0 0 - 1 3 4 4 3 0 3 2 21
+p360
+aVAnthony Tolliver DET 01/31/2015 DET vs. HOU W 25 12 4 10 40.0 1 5 20.0 3 3 100.0 1 1 2 1 1 1 0 2 2
+p361
+aVGreg Monroe DET 01/31/2015 DET vs. HOU W 37 19 7 12 58.3 0 0 - 5 8 62.5 1 11 12 2 0 1 1 2 13
+p362
+aVAndre Drummond DET 01/31/2015 DET vs. HOU W 33 11 5 11 45.5 0 0 - 1 7 14.3 8 8 16 0 1 3 0 1 11
+p363
+aVD.J. Augustin DET 01/31/2015 DET vs. HOU W 37 28 8 13 61.5 1 2 50.0 11 13 84.6 0 2 2 12 2 0 5 0 22
+p364
+aVSpencer Dinwiddie DET 01/31/2015 DET vs. HOU W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 1 -9
+p365
+aVKentavious Caldwell-Pope DET 01/31/2015 DET vs. HOU W 40 28 10 21 47.6 6 11 54.5 2 4 50.0 1 4 5 4 1 3 0 3 10
+p366
+aVD.J. Augustin DET 01/28/2015 DET @ PHI L 34 2 0 7 0.0 0 4 0.0 2 2 100.0 0 1 1 4 2 0 3 0 -23
+p367
+aVKentavious Caldwell-Pope DET 01/28/2015 DET @ PHI L 23 4 2 9 22.2 0 2 0.0 0 0 - 0 2 2 1 0 0 3 2 -30
+p368
+aVAndre Drummond DET 01/28/2015 DET @ PHI L 19 6 3 7 42.9 0 0 - 0 0 - 4 3 7 0 1 1 3 4 -15
+p369
+aVKyle Singler DET 01/28/2015 DET @ PHI L 19 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 2 1 -10
+p370
+aVJoel Anthony DET 01/28/2015 DET @ PHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 1
+p371
+aVGreg Monroe DET 01/28/2015 DET @ PHI L 33 20 8 15 53.3 0 0 - 4 5 80.0 5 6 11 1 1 0 1 0 -20
+p372
+aVAnthony Tolliver DET 01/28/2015 DET @ PHI L 19 0 0 3 0.0 0 3 0.0 0 0 - 2 2 4 2 1 0 1 1 -3
+p373
+aVCaron Butler DET 01/28/2015 DET @ PHI L 20 2 1 4 25.0 0 2 0.0 0 0 - 2 5 7 0 2 0 1 2 1
+p374
+aVJonas Jerebko DET 01/28/2015 DET @ PHI L 19 10 4 6 66.7 1 1 100.0 1 1 100.0 1 2 3 0 1 2 1 2 -3
+p375
+aVSpencer Dinwiddie DET 01/28/2015 DET @ PHI L 14 6 1 6 16.7 0 2 0.0 4 4 100.0 0 1 1 2 1 1 1 2 3
+p376
+aVJodie Meeks DET 01/28/2015 DET @ PHI L 34 19 4 16 25.0 1 4 25.0 10 11 90.9 0 1 1 3 2 0 1 1 -1
+p377
+aVAnthony Tolliver DET 01/27/2015 DET vs. CLE L 30 16 4 5 80.0 3 4 75.0 5 5 100.0 1 3 4 2 0 0 3 4 -8
+p378
+aVD.J. Augustin DET 01/27/2015 DET vs. CLE L 36 19 8 15 53.3 3 6 50.0 0 0 - 1 3 4 9 2 0 5 1 -9
+p379
+aVKyle Singler DET 01/27/2015 DET vs. CLE L 24 5 2 9 22.2 1 5 20.0 0 0 - 1 5 6 0 0 0 1 1 -12
+p380
+aVKentavious Caldwell-Pope DET 01/27/2015 DET vs. CLE L 29 11 3 7 42.9 1 5 20.0 4 5 80.0 0 2 2 2 0 1 3 3 1
+p381
+aVCaron Butler DET 01/27/2015 DET vs. CLE L 16 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 3 0 0 1 1 0
+p382
+aVAndre Drummond DET 01/27/2015 DET vs. CLE L 35 12 6 17 35.3 0 0 - 0 4 0.0 7 10 17 0 0 6 0 4 -7
+p383
+aVSpencer Dinwiddie DET 01/27/2015 DET vs. CLE L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 3 0 1 2 0 1
+p384
+aVJodie Meeks DET 01/27/2015 DET vs. CLE L 27 11 3 7 42.9 0 1 0.0 5 6 83.3 1 0 1 2 2 0 0 2 -5
+p385
+aVGreg Monroe DET 01/27/2015 DET vs. CLE L 32 17 7 15 46.7 0 0 - 3 3 100.0 5 7 12 0 0 0 3 1 -1
+p386
+aVKentavious Caldwell-Pope DET 01/25/2015 DET @ TOR L 42 16 6 17 35.3 3 9 33.3 1 2 50.0 0 3 3 2 2 0 3 5 -5
+p387
+aVJonas Jerebko DET 01/25/2015 DET @ TOR L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 0 2
+p388
+aVSpencer Dinwiddie DET 01/25/2015 DET @ TOR L 11 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 0 1 0 3 -1
+p389
+aVKyle Singler DET 01/25/2015 DET @ TOR L 26 4 1 3 33.3 1 2 50.0 1 2 50.0 0 2 2 2 0 0 2 2 -13
+p390
+aVJodie Meeks DET 01/25/2015 DET @ TOR L 28 9 2 13 15.4 1 8 12.5 4 5 80.0 1 1 2 4 0 0 2 2 10
+p391
+aVGreg Monroe DET 01/25/2015 DET @ TOR L 35 21 9 17 52.9 0 0 - 3 5 60.0 8 8 16 4 0 0 3 5 -3
+p392
+aVD.J. Augustin DET 01/25/2015 DET @ TOR L 37 35 12 20 60.0 5 9 55.6 6 6 100.0 0 4 4 8 0 0 2 1 -3
+p393
+aVAndre Drummond DET 01/25/2015 DET @ TOR L 27 14 7 11 63.6 0 0 - 0 1 0.0 4 4 8 1 0 1 1 1 -12
+p394
+aVAnthony Tolliver DET 01/25/2015 DET @ TOR L 27 9 3 5 60.0 2 4 50.0 1 2 50.0 0 6 6 1 2 0 1 2 5
+p395
+aVBrandon Jennings DET 01/24/2015 DET @ MIL L 26 16 6 14 42.9 1 5 20.0 3 4 75.0 1 1 2 4 1 0 5 2 -8
+p396
+aVAndre Drummond DET 01/24/2015 DET @ MIL L 21 10 5 9 55.6 0 0 - 0 4 0.0 2 5 7 0 0 1 2 3 -24
+p397
+aVJonas Jerebko DET 01/24/2015 DET @ MIL L 14 7 3 6 50.0 1 1 100.0 0 1 0.0 2 0 2 1 0 0 1 2 12
+p398
+aVSpencer Dinwiddie DET 01/24/2015 DET @ MIL L 7 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 2 1 0 1 0 10
+p399
+aVCaron Butler DET 01/24/2015 DET @ MIL L 24 10 2 9 22.2 2 5 40.0 4 4 100.0 0 4 4 1 0 0 0 2 5
+p400
+aVJodie Meeks DET 01/24/2015 DET @ MIL L 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 2 2 -16
+p401
+aVAnthony Tolliver DET 01/24/2015 DET @ MIL L 21 12 3 3 100.0 1 1 100.0 5 6 83.3 0 2 2 3 0 0 3 0 -14
+p402
+aVD.J. Augustin DET 01/24/2015 DET @ MIL L 15 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 0 2 0 2 0 -17
+p403
+aVCartier Martin DET 01/24/2015 DET @ MIL L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 12
+p404
+aVKyle Singler DET 01/24/2015 DET @ MIL L 23 7 2 9 22.2 1 7 14.3 2 2 100.0 0 5 5 1 2 0 1 1 -11
+p405
+aVJoel Anthony DET 01/24/2015 DET @ MIL L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 2 0 1 1 16
+p406
+aVKentavious Caldwell-Pope DET 01/24/2015 DET @ MIL L 24 4 2 12 16.7 0 2 0.0 0 0 - 1 3 4 0 1 0 0 0 -20
+p407
+aVGreg Monroe DET 01/24/2015 DET @ MIL L 29 8 3 7 42.9 0 0 - 2 2 100.0 10 6 16 1 1 1 1 1 -20
+p408
+aVAnthony Tolliver DET 01/21/2015 DET vs. ORL W 33 9 3 7 42.9 1 4 25.0 2 2 100.0 2 5 7 1 1 1 0 1 -1
+p409
+aVKentavious Caldwell-Pope DET 01/21/2015 DET vs. ORL W 36 10 4 8 50.0 1 2 50.0 1 1 100.0 0 2 2 0 2 0 0 2 23
+p410
+aVCaron Butler DET 01/21/2015 DET vs. ORL W 14 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 1 0 0 1 -4
+p411
+aVGreg Monroe DET 01/21/2015 DET vs. ORL W 25 24 11 16 68.8 0 0 - 2 2 100.0 3 7 10 4 0 1 2 4 12
+p412
+aVAndre Drummond DET 01/21/2015 DET vs. ORL W 30 26 10 14 71.4 0 0 - 6 8 75.0 4 13 17 1 4 3 5 5 14
+p413
+aVJoel Anthony DET 01/21/2015 DET vs. ORL W 7 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 -5
+p414
+aVD.J. Augustin DET 01/21/2015 DET vs. ORL W 15 5 2 9 22.2 1 2 50.0 0 0 - 1 1 2 5 0 0 2 0 -14
+p415
+aVKyle Singler DET 01/21/2015 DET vs. ORL W 22 14 4 6 66.7 4 5 80.0 2 2 100.0 0 2 2 1 0 0 2 1 8
+p416
+aVJodie Meeks DET 01/21/2015 DET vs. ORL W 24 7 2 6 33.3 1 3 33.3 2 2 100.0 0 0 0 2 2 0 2 2 -7
+p417
+aVBrandon Jennings DET 01/21/2015 DET vs. ORL W 33 24 10 21 47.6 1 6 16.7 3 5 60.0 0 0 0 21 0 0 2 1 24
+p418
+aVGreg Monroe DET 01/19/2015 DET @ ATL L 34 16 5 11 45.5 0 0 - 6 6 100.0 6 14 20 2 1 1 6 4 -16
+p419
+aVCaron Butler DET 01/19/2015 DET @ ATL L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 0 -1
+p420
+aVKentavious Caldwell-Pope DET 01/19/2015 DET @ ATL L 39 10 4 15 26.7 2 9 22.2 0 0 - 1 3 4 1 1 1 2 1 -5
+p421
+aVJonas Jerebko DET 01/19/2015 DET @ ATL L 18 5 2 7 28.6 1 4 25.0 0 0 - 2 1 3 1 0 0 0 2 -3
+p422
+aVJodie Meeks DET 01/19/2015 DET @ ATL L 27 11 4 11 36.4 3 7 42.9 0 0 - 2 1 3 3 1 0 1 0 -8
+p423
+aVAnthony Tolliver DET 01/19/2015 DET @ ATL L 17 7 2 5 40.0 2 5 40.0 1 2 50.0 2 3 5 1 0 0 0 3 3
+p424
+aVAndre Drummond DET 01/19/2015 DET @ ATL L 27 13 5 9 55.6 0 0 - 3 12 25.0 6 12 18 0 0 0 2 2 -6
+p425
+aVBrandon Jennings DET 01/19/2015 DET @ ATL L 30 7 1 10 10.0 0 4 0.0 5 6 83.3 0 2 2 5 1 0 3 2 -6
+p426
+aVKyle Singler DET 01/19/2015 DET @ ATL L 22 5 2 7 28.6 1 4 25.0 0 0 - 1 3 4 1 1 0 0 2 -8
+p427
+aVD.J. Augustin DET 01/19/2015 DET @ ATL L 18 8 4 5 80.0 0 1 0.0 0 0 - 0 0 0 3 0 0 3 1 -5
+p428
+aVJonas Jerebko DET 01/17/2015 DET vs. PHI W 8 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 0 1 0 2 2 -1
+p429
+aVAnthony Tolliver DET 01/17/2015 DET vs. PHI W 24 16 6 10 60.0 2 5 40.0 2 5 40.0 3 3 6 2 2 0 1 1 12
+p430
+aVGreg Monroe DET 01/17/2015 DET vs. PHI W 32 12 4 11 36.4 0 0 - 4 4 100.0 6 7 13 4 2 1 3 2 19
+p431
+aVJoel Anthony DET 01/17/2015 DET vs. PHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p432
+aVD.J. Augustin DET 01/17/2015 DET vs. PHI W 26 6 3 6 50.0 0 3 0.0 0 0 - 0 3 3 10 2 0 2 2 13
+p433
+aVJodie Meeks DET 01/17/2015 DET vs. PHI W 26 15 4 8 50.0 1 3 33.3 6 6 100.0 0 2 2 2 6 0 1 1 11
+p434
+aVAndre Drummond DET 01/17/2015 DET vs. PHI W 30 8 4 15 26.7 0 0 - 0 0 - 7 8 15 0 1 3 0 4 7
+p435
+aVKentavious Caldwell-Pope DET 01/17/2015 DET vs. PHI W 35 17 6 11 54.5 3 6 50.0 2 2 100.0 0 3 3 2 0 1 1 0 11
+p436
+aVKyle Singler DET 01/17/2015 DET vs. PHI W 26 20 7 12 58.3 6 8 75.0 0 0 - 1 1 2 1 1 0 2 2 11
+p437
+aVCaron Butler DET 01/17/2015 DET vs. PHI W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 4
+p438
+aVCartier Martin DET 01/17/2015 DET vs. PHI W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p439
+aVBrandon Jennings DET 01/17/2015 DET vs. PHI W 22 10 3 9 33.3 2 6 33.3 2 2 100.0 0 1 1 6 1 0 4 1 5
+p440
+aVCaron Butler DET 01/16/2015 DET @ IND W 23 2 0 4 0.0 0 2 0.0 2 3 66.7 1 3 4 2 1 0 0 0 -13
+p441
+aVD.J. Augustin DET 01/16/2015 DET @ IND W 14 0 0 1 0.0 0 0 - 0 0 - 0 4 4 4 0 0 4 1 -18
+p442
+aVAndre Drummond DET 01/16/2015 DET @ IND W 29 16 6 14 42.9 0 0 - 4 4 100.0 10 6 16 2 0 0 2 5 -2
+p443
+aVJoel Anthony DET 01/16/2015 DET @ IND W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p444
+aVGreg Monroe DET 01/16/2015 DET @ IND W 35 11 4 12 33.3 0 0 - 3 4 75.0 3 5 8 4 1 2 2 1 10
+p445
+aVKentavious Caldwell-Pope DET 01/16/2015 DET @ IND W 28 10 4 7 57.1 2 3 66.7 0 0 - 1 3 4 0 0 1 1 1 6
+p446
+aVJonas Jerebko DET 01/16/2015 DET @ IND W 7 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 0 2 -4
+p447
+aVJodie Meeks DET 01/16/2015 DET @ IND W 20 9 4 10 40.0 1 5 20.0 0 0 - 0 2 2 1 0 0 3 1 -4
+p448
+aVBrandon Jennings DET 01/16/2015 DET @ IND W 34 37 10 23 43.5 8 13 61.5 9 9 100.0 0 2 2 3 2 0 2 1 20
+p449
+aVKyle Singler DET 01/16/2015 DET @ IND W 25 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 1 15
+p450
+aVAnthony Tolliver DET 01/16/2015 DET @ IND W 20 8 2 6 33.3 2 6 33.3 2 2 100.0 0 6 6 0 0 1 1 4 -1
+p451
+aVCartier Martin DET 01/14/2015 DET vs. NOP L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p452
+aVKyle Singler DET 01/14/2015 DET vs. NOP L 18 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 2 2 0 2 0 -11
+p453
+aVBrandon Jennings DET 01/14/2015 DET vs. NOP L 29 19 4 12 33.3 2 6 33.3 9 10 90.0 0 0 0 3 1 0 0 1 -11
+p454
+aVJonas Jerebko DET 01/14/2015 DET vs. NOP L 21 0 0 5 0.0 0 2 0.0 0 0 - 2 4 6 1 2 1 1 1 -11
+p455
+aVJoel Anthony DET 01/14/2015 DET vs. NOP L 11 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 3 1 2 9
+p456
+aVCaron Butler DET 01/14/2015 DET vs. NOP L 20 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 3 2
+p457
+aVJodie Meeks DET 01/14/2015 DET vs. NOP L 26 11 5 8 62.5 1 3 33.3 0 0 - 0 2 2 1 0 0 1 1 -10
+p458
+aVAndre Drummond DET 01/14/2015 DET vs. NOP L 22 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 2 0 2 -20
+p459
+aVAnthony Tolliver DET 01/14/2015 DET vs. NOP L 14 9 4 8 50.0 1 3 33.3 0 0 - 0 2 2 1 0 2 0 0 5
+p460
+aVKentavious Caldwell-Pope DET 01/14/2015 DET vs. NOP L 29 8 3 7 42.9 1 2 50.0 1 2 50.0 0 2 2 4 1 1 1 2 -7
+p461
+aVGreg Monroe DET 01/14/2015 DET vs. NOP L 28 16 6 11 54.5 0 0 - 4 7 57.1 1 7 8 5 1 1 0 2 -5
+p462
+aVD.J. Augustin DET 01/14/2015 DET vs. NOP L 19 13 4 5 80.0 1 1 100.0 4 4 100.0 0 1 1 4 0 0 1 2 0
+p463
+aVCaron Butler DET 01/12/2015 DET @ TOR W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -3
+p464
+aVJodie Meeks DET 01/12/2015 DET @ TOR W 23 13 5 14 35.7 1 4 25.0 2 2 100.0 1 2 3 1 0 0 0 2 -9
+p465
+aVKyle Singler DET 01/12/2015 DET @ TOR W 31 8 3 7 42.9 2 3 66.7 0 0 - 0 4 4 1 1 1 2 1 3
+p466
+aVJonas Jerebko DET 01/12/2015 DET @ TOR W 26 10 4 5 80.0 0 1 0.0 2 2 100.0 1 3 4 2 1 0 0 2 -9
+p467
+aVAndre Drummond DET 01/12/2015 DET @ TOR W 28 10 3 12 25.0 0 0 - 4 6 66.7 7 7 14 1 1 1 0 3 8
+p468
+aVBrandon Jennings DET 01/12/2015 DET @ TOR W 34 34 11 22 50.0 4 8 50.0 8 9 88.9 0 2 2 10 2 0 2 1 9
+p469
+aVAnthony Tolliver DET 01/12/2015 DET @ TOR W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -1
+p470
+aVD.J. Augustin DET 01/12/2015 DET @ TOR W 14 6 2 7 28.6 0 0 - 2 2 100.0 1 2 3 4 1 0 3 1 -6
+p471
+aVJoel Anthony DET 01/12/2015 DET @ TOR W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 1 0 0 -2
+p472
+aVGreg Monroe DET 01/12/2015 DET @ TOR W 33 22 9 16 56.3 0 0 - 4 7 57.1 6 4 10 2 1 1 0 1 10
+p473
+aVKentavious Caldwell-Pope DET 01/12/2015 DET @ TOR W 33 9 3 7 42.9 0 2 0.0 3 3 100.0 0 3 3 2 1 0 1 1 15
+p474
+aVJonas Jerebko DET 01/10/2015 DET vs. BKN W 26 11 4 6 66.7 3 5 60.0 0 0 - 2 5 7 1 0 0 0 2 -2
+p475
+aVGreg Monroe DET 01/10/2015 DET vs. BKN W 36 16 6 11 54.5 0 0 - 4 4 100.0 4 13 17 2 0 0 3 1 4
+p476
+aVKentavious Caldwell-Pope DET 01/10/2015 DET vs. BKN W 24 6 2 5 40.0 1 4 25.0 1 2 50.0 1 3 4 4 4 0 3 2 13
+p477
+aVAndre Drummond DET 01/10/2015 DET vs. BKN W 28 14 6 9 66.7 0 0 - 2 3 66.7 2 7 9 0 1 2 2 2 11
+p478
+aVBrandon Jennings DET 01/10/2015 DET vs. BKN W 29 20 6 17 35.3 3 8 37.5 5 9 55.6 0 3 3 11 2 0 1 2 6
+p479
+aVAnthony Tolliver DET 01/10/2015 DET vs. BKN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p480
+aVCaron Butler DET 01/10/2015 DET vs. BKN W 20 8 3 7 42.9 0 4 0.0 2 2 100.0 0 2 2 0 1 0 0 0 0
+p481
+aVD.J. Augustin DET 01/10/2015 DET vs. BKN W 19 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 6 0 0 1 0 -1
+p482
+aVKyle Singler DET 01/10/2015 DET vs. BKN W 28 11 4 9 44.4 3 4 75.0 0 1 0.0 0 2 2 2 0 1 0 1 6
+p483
+aVJodie Meeks DET 01/10/2015 DET vs. BKN W 24 7 1 9 11.1 0 5 0.0 5 5 100.0 0 0 0 1 0 0 0 0 -8
+p484
+aVJoel Anthony DET 01/09/2015 DET vs. ATL L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 6
+p485
+aVD.J. Augustin DET 01/09/2015 DET vs. ATL L 20 4 0 0 - 0 0 - 4 4 100.0 0 0 0 5 1 0 1 1 2
+p486
+aVAnthony Tolliver DET 01/09/2015 DET vs. ATL L 18 15 5 8 62.5 3 6 50.0 2 2 100.0 0 1 1 0 0 2 2 6 3
+p487
+aVGreg Monroe DET 01/09/2015 DET vs. ATL L 37 15 5 14 35.7 0 0 - 5 5 100.0 3 9 12 2 3 0 2 1 3
+p488
+aVBrandon Jennings DET 01/09/2015 DET vs. ATL L 28 14 6 14 42.9 2 6 33.3 0 0 - 1 3 4 8 1 0 1 2 -5
+p489
+aVCaron Butler DET 01/09/2015 DET vs. ATL L 10 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 -8
+p490
+aVJodie Meeks DET 01/09/2015 DET vs. ATL L 25 6 3 12 25.0 0 4 0.0 0 0 - 0 3 3 0 0 0 1 1 -3
+p491
+aVKentavious Caldwell-Pope DET 01/09/2015 DET vs. ATL L 35 20 8 23 34.8 4 16 25.0 0 1 0.0 0 6 6 0 1 1 0 0 4
+p492
+aVKyle Singler DET 01/09/2015 DET vs. ATL L 26 16 6 12 50.0 3 6 50.0 1 2 50.0 3 3 6 5 0 0 0 1 1
+p493
+aVJonas Jerebko DET 01/09/2015 DET vs. ATL L 15 4 1 4 25.0 0 3 0.0 2 2 100.0 1 4 5 3 1 0 0 1 -5
+p494
+aVAndre Drummond DET 01/09/2015 DET vs. ATL L 17 4 2 6 33.3 0 0 - 0 2 0.0 2 3 5 1 2 0 0 2 -13
+p495
+aVKyle Singler DET 01/07/2015 DET @ DAL W 20 4 2 8 25.0 0 3 0.0 0 0 - 0 2 2 1 1 0 2 2 5
+p496
+aVJonas Jerebko DET 01/07/2015 DET @ DAL W 20 6 3 6 50.0 0 0 - 0 0 - 6 3 9 2 2 0 2 3 14
+p497
+aVJodie Meeks DET 01/07/2015 DET @ DAL W 30 11 3 11 27.3 3 5 60.0 2 2 100.0 0 0 0 2 0 0 2 2 12
+p498
+aVKentavious Caldwell-Pope DET 01/07/2015 DET @ DAL W 18 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 1 1 0 2 2 1
+p499
+aVGreg Monroe DET 01/07/2015 DET @ DAL W 34 27 11 16 68.8 0 0 - 5 5 100.0 3 15 18 6 0 1 4 2 11
+p500
+aVJoel Anthony DET 01/07/2015 DET @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p501
+aVCaron Butler DET 01/07/2015 DET @ DAL W 28 3 1 4 25.0 1 3 33.3 0 0 - 0 5 5 1 2 0 0 0 8
+p502
+aVBrandon Jennings DET 01/07/2015 DET @ DAL W 26 14 7 18 38.9 0 2 0.0 0 0 - 2 2 4 6 1 0 1 0 9
+p503
+aVD.J. Augustin DET 01/07/2015 DET @ DAL W 22 26 9 16 56.3 4 5 80.0 4 5 80.0 0 1 1 2 1 0 2 1 4
+p504
+aVAnthony Tolliver DET 01/07/2015 DET @ DAL W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -1
+p505
+aVAndre Drummond DET 01/07/2015 DET @ DAL W 30 6 3 11 27.3 0 0 - 0 0 - 7 12 19 1 1 1 0 3 2
+p506
+aVAnthony Tolliver DET 01/06/2015 DET @ SAS W 23 3 1 5 20.0 0 4 0.0 1 1 100.0 1 4 5 0 1 0 2 4 6
+p507
+aVJoel Anthony DET 01/06/2015 DET @ SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p508
+aVJodie Meeks DET 01/06/2015 DET @ SAS W 30 13 4 11 36.4 0 2 0.0 5 5 100.0 0 3 3 3 0 0 0 4 -7
+p509
+aVCaron Butler DET 01/06/2015 DET @ SAS W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 0
+p510
+aVBrandon Jennings DET 01/06/2015 DET @ SAS W 29 13 5 18 27.8 1 5 20.0 2 2 100.0 1 0 1 7 1 1 2 1 9
+p511
+aVKyle Singler DET 01/06/2015 DET @ SAS W 16 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 2 0 1 0 9
+p512
+aVKentavious Caldwell-Pope DET 01/06/2015 DET @ SAS W 37 10 4 9 44.4 0 2 0.0 2 2 100.0 0 0 0 1 1 1 1 5 1
+p513
+aVJonas Jerebko DET 01/06/2015 DET @ SAS W 11 5 2 3 66.7 1 2 50.0 0 0 - 1 4 5 0 1 0 0 4 -13
+p514
+aVGreg Monroe DET 01/06/2015 DET @ SAS W 28 17 7 10 70.0 0 0 - 3 4 75.0 5 6 11 3 2 0 1 2 2
+p515
+aVAndre Drummond DET 01/06/2015 DET @ SAS W 35 20 8 10 80.0 0 0 - 4 9 44.4 7 10 17 0 2 1 4 3 7
+p516
+aVD.J. Augustin DET 01/06/2015 DET @ SAS W 22 19 8 18 44.4 1 3 33.3 2 3 66.7 0 0 0 5 0 0 2 3 -9
+p517
+aVAndre Drummond DET 01/04/2015 DET vs. SAC W 28 15 6 11 54.5 0 0 - 3 5 60.0 4 10 14 1 0 2 0 4 17
+p518
+aVJoel Anthony DET 01/04/2015 DET vs. SAC W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p519
+aVD.J. Augustin DET 01/04/2015 DET vs. SAC W 17 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 5 0 0 2 0 7
+p520
+aVBrandon Jennings DET 01/04/2015 DET vs. SAC W 31 35 14 21 66.7 5 8 62.5 2 2 100.0 0 2 2 7 2 0 2 3 12
+p521
+aVJonas Jerebko DET 01/04/2015 DET vs. SAC W 25 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 1 1 0 3 4 13
+p522
+aVJodie Meeks DET 01/04/2015 DET vs. SAC W 26 13 5 12 41.7 1 3 33.3 2 2 100.0 0 4 4 1 0 0 0 4 17
+p523
+aVKentavious Caldwell-Pope DET 01/04/2015 DET vs. SAC W 27 9 4 9 44.4 1 5 20.0 0 0 - 0 4 4 1 2 1 2 3 12
+p524
+aVCaron Butler DET 01/04/2015 DET vs. SAC W 24 8 2 6 33.3 1 5 20.0 3 3 100.0 0 2 2 2 2 0 1 3 8
+p525
+aVAnthony Tolliver DET 01/04/2015 DET vs. SAC W 7 6 2 4 50.0 2 4 50.0 0 0 - 1 3 4 2 0 0 0 2 10
+p526
+aVGreg Monroe DET 01/04/2015 DET vs. SAC W 27 14 6 10 60.0 0 0 - 2 4 50.0 3 8 11 0 1 0 2 1 -2
+p527
+aVKyle Singler DET 01/04/2015 DET vs. SAC W 20 3 1 7 14.3 1 3 33.3 0 0 - 0 1 1 1 0 0 1 2 1
+p528
+aVGreg Monroe DET 01/02/2015 DET @ NYK W 22 12 5 11 45.5 0 0 - 2 2 100.0 4 6 10 2 1 0 3 3 10
+p529
+aVCartier Martin DET 01/02/2015 DET @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p530
+aVJodie Meeks DET 01/02/2015 DET @ NYK W 25 15 6 13 46.2 3 7 42.9 0 0 - 0 1 1 1 2 0 1 0 5
+p531
+aVAnthony Tolliver DET 01/02/2015 DET @ NYK W 10 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p532
+aVBrandon Jennings DET 01/02/2015 DET @ NYK W 25 29 11 17 64.7 4 8 50.0 3 4 75.0 1 2 3 3 2 0 2 1 17
+p533
+aVKyle Singler DET 01/02/2015 DET @ NYK W 19 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 3 13
+p534
+aVCaron Butler DET 01/02/2015 DET @ NYK W 16 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 1 -6
+p535
+aVD.J. Augustin DET 01/02/2015 DET @ NYK W 23 5 2 7 28.6 1 5 20.0 0 0 - 0 1 1 9 0 1 5 0 -1
+p536
+aVKentavious Caldwell-Pope DET 01/02/2015 DET @ NYK W 32 12 5 9 55.6 2 5 40.0 0 0 - 1 2 3 2 1 0 1 2 22
+p537
+aVJonas Jerebko DET 01/02/2015 DET @ NYK W 21 7 2 2 100.0 1 1 100.0 2 2 100.0 0 4 4 1 1 0 1 3 13
+p538
+aVAndre Drummond DET 01/02/2015 DET @ NYK W 34 7 3 5 60.0 0 0 - 1 6 16.7 2 18 20 4 3 1 2 1 26
+p539
+aVJoel Anthony DET 01/02/2015 DET @ NYK W 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -14
+p540
+aVCartier Martin DET 12/30/2014 DET @ ORL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p541
+aVAnthony Tolliver DET 12/30/2014 DET @ ORL W 11 5 2 6 33.3 1 5 20.0 0 0 - 0 2 2 0 0 0 0 1 2
+p542
+aVKyle Singler DET 12/30/2014 DET @ ORL W 20 9 4 8 50.0 1 4 25.0 0 0 - 1 2 3 2 0 0 0 2 4
+p543
+aVKentavious Caldwell-Pope DET 12/30/2014 DET @ ORL W 25 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 2 17
+p544
+aVJonas Jerebko DET 12/30/2014 DET @ ORL W 21 4 1 4 25.0 0 1 0.0 2 4 50.0 1 1 2 4 0 1 1 3 17
+p545
+aVGreg Monroe DET 12/30/2014 DET @ ORL W 21 9 3 8 37.5 0 0 - 3 3 100.0 4 5 9 1 1 0 3 0 -3
+p546
+aVJoel Anthony DET 12/30/2014 DET @ ORL W 12 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 4 1 2 13
+p547
+aVD.J. Augustin DET 12/30/2014 DET @ ORL W 30 11 4 8 50.0 1 3 33.3 2 2 100.0 0 5 5 10 1 1 2 1 22
+p548
+aVJodie Meeks DET 12/30/2014 DET @ ORL W 27 34 11 16 68.8 9 11 81.8 3 4 75.0 0 0 0 0 2 0 2 1 19
+p549
+aVCaron Butler DET 12/30/2014 DET @ ORL W 18 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 0 1 0 0 0 4
+p550
+aVBrandon Jennings DET 12/30/2014 DET @ ORL W 18 5 2 9 22.2 1 5 20.0 0 0 - 0 1 1 2 0 0 2 0 1
+p551
+aVSpencer Dinwiddie DET 12/30/2014 DET @ ORL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 1
+p552
+aVAndre Drummond DET 12/30/2014 DET @ ORL W 31 17 6 11 54.5 0 0 - 5 16 31.3 9 13 22 2 2 3 0 1 17
+p553
+aVJoel Anthony DET 12/28/2014 DET @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p554
+aVAndre Drummond DET 12/28/2014 DET @ CLE W 34 16 8 12 66.7 0 0 - 0 2 0.0 8 9 17 0 1 5 2 3 18
+p555
+aVCaron Butler DET 12/28/2014 DET @ CLE W 21 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 3 1 0 1 3 22
+p556
+aVKyle Singler DET 12/28/2014 DET @ CLE W 27 7 2 7 28.6 2 3 66.7 1 2 50.0 1 2 3 1 3 0 0 5 1
+p557
+aVKentavious Caldwell-Pope DET 12/28/2014 DET @ CLE W 22 13 5 9 55.6 3 7 42.9 0 0 - 0 2 2 0 2 0 1 1 16
+p558
+aVJodie Meeks DET 12/28/2014 DET @ CLE W 26 14 5 8 62.5 3 4 75.0 1 1 100.0 0 4 4 2 1 0 0 3 7
+p559
+aVJonas Jerebko DET 12/28/2014 DET @ CLE W 27 10 4 8 50.0 2 3 66.7 0 0 - 0 7 7 2 1 1 0 0 1
+p560
+aVGreg Monroe DET 12/28/2014 DET @ CLE W 34 10 4 18 22.2 0 0 - 2 4 50.0 4 2 6 4 1 0 1 3 22
+p561
+aVBrandon Jennings DET 12/28/2014 DET @ CLE W 31 25 10 18 55.6 5 9 55.6 0 0 - 0 5 5 6 1 0 3 3 22
+p562
+aVD.J. Augustin DET 12/28/2014 DET @ CLE W 17 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 3 1 0 2 0 1
+p563
+aVJoel Anthony DET 12/26/2014 DET vs. IND W 9 2 0 1 0.0 0 0 - 2 4 50.0 1 0 1 0 0 1 0 3 2
+p564
+aVJonas Jerebko DET 12/26/2014 DET vs. IND W 28 10 3 7 42.9 1 3 33.3 3 4 75.0 0 6 6 3 0 1 0 3 -1
+p565
+aVD.J. Augustin DET 12/26/2014 DET vs. IND W 24 14 6 8 75.0 1 3 33.3 1 2 50.0 1 0 1 8 1 0 1 2 -4
+p566
+aVJodie Meeks DET 12/26/2014 DET vs. IND W 21 13 6 9 66.7 1 2 50.0 0 0 - 0 0 0 0 0 1 0 2 -5
+p567
+aVGreg Monroe DET 12/26/2014 DET vs. IND W 31 19 7 11 63.6 0 0 - 5 8 62.5 5 10 15 1 3 1 1 1 17
+p568
+aVCaron Butler DET 12/26/2014 DET vs. IND W 15 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 0 -1
+p569
+aVKyle Singler DET 12/26/2014 DET vs. IND W 22 9 3 9 33.3 2 5 40.0 1 2 50.0 1 3 4 1 0 1 1 2 16
+p570
+aVBrandon Jennings DET 12/26/2014 DET vs. IND W 28 14 6 12 50.0 2 5 40.0 0 0 - 2 2 4 10 2 0 1 2 13
+p571
+aVAndre Drummond DET 12/26/2014 DET vs. IND W 28 20 9 12 75.0 0 0 - 2 8 25.0 2 4 6 0 3 1 4 5 2
+p572
+aVKentavious Caldwell-Pope DET 12/26/2014 DET vs. IND W 34 15 6 13 46.2 2 5 40.0 1 1 100.0 0 3 3 1 2 0 1 2 11
+p573
+aVJosh Smith DET 12/21/2014 DET @ BKN L 28 13 5 16 31.3 0 2 0.0 3 6 50.0 1 4 5 6 3 3 2 5 -8
+p574
+aVCaron Butler DET 12/21/2014 DET @ BKN L 19 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 1
+p575
+aVKentavious Caldwell-Pope DET 12/21/2014 DET @ BKN L 33 20 6 15 40.0 5 10 50.0 3 3 100.0 0 6 6 0 0 0 0 2 2
+p576
+aVBrandon Jennings DET 12/21/2014 DET @ BKN L 28 8 3 12 25.0 2 5 40.0 0 0 - 1 1 2 9 2 0 2 3 -4
+p577
+aVGreg Monroe DET 12/21/2014 DET @ BKN L 21 16 7 10 70.0 0 0 - 2 4 50.0 1 7 8 2 1 2 0 0 3
+p578
+aVJonas Jerebko DET 12/21/2014 DET @ BKN L 18 10 3 4 75.0 1 1 100.0 3 3 100.0 2 2 4 2 1 0 4 2 -2
+p579
+aVKyle Singler DET 12/21/2014 DET @ BKN L 21 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -13
+p580
+aVAndre Drummond DET 12/21/2014 DET @ BKN L 28 18 7 15 46.7 0 0 - 4 8 50.0 13 7 20 0 0 1 2 4 -7
+p581
+aVJodie Meeks DET 12/21/2014 DET @ BKN L 24 13 6 9 66.7 0 3 0.0 1 2 50.0 0 1 1 2 1 0 1 2 4
+p582
+aVD.J. Augustin DET 12/21/2014 DET @ BKN L 20 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 5 2 0 1 0 -1
+p583
+aVJodie Meeks DET 12/19/2014 DET vs. TOR L 25 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 2 0 1 0 2 -10
+p584
+aVJosh Smith DET 12/19/2014 DET vs. TOR L 25 10 5 10 50.0 0 0 - 0 2 0.0 3 5 8 4 0 1 2 1 -14
+p585
+aVBrandon Jennings DET 12/19/2014 DET vs. TOR L 31 22 8 18 44.4 2 6 33.3 4 5 80.0 0 4 4 8 1 1 3 3 3
+p586
+aVKentavious Caldwell-Pope DET 12/19/2014 DET vs. TOR L 27 18 7 12 58.3 4 6 66.7 0 0 - 0 1 1 3 0 0 1 3 3
+p587
+aVCartier Martin DET 12/19/2014 DET vs. TOR L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 7
+p588
+aVJoel Anthony DET 12/19/2014 DET vs. TOR L 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 7
+p589
+aVJonas Jerebko DET 12/19/2014 DET vs. TOR L 22 7 2 8 25.0 1 2 50.0 2 2 100.0 1 6 7 4 0 0 0 2 7
+p590
+aVAndre Drummond DET 12/19/2014 DET vs. TOR L 21 7 3 7 42.9 0 0 - 1 2 50.0 3 8 11 0 0 3 1 4 -8
+p591
+aVGreg Monroe DET 12/19/2014 DET vs. TOR L 26 17 7 13 53.8 0 0 - 3 4 75.0 4 3 7 1 1 0 1 1 -12
+p592
+aVKyle Singler DET 12/19/2014 DET vs. TOR L 21 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 0 1 1 2 1 -14
+p593
+aVD.J. Augustin DET 12/19/2014 DET vs. TOR L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 4 2 0 1 1 -13
+p594
+aVCaron Butler DET 12/19/2014 DET vs. TOR L 18 11 5 8 62.5 1 4 25.0 0 0 - 1 2 3 2 0 0 0 1 -6
+p595
+aVGreg Monroe DET 12/17/2014 DET vs. DAL L 21 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 1 0 0 1 3 -13
+p596
+aVBrandon Jennings DET 12/17/2014 DET vs. DAL L 24 13 5 14 35.7 1 5 20.0 2 2 100.0 1 2 3 7 0 0 2 1 -10
+p597
+aVKyle Singler DET 12/17/2014 DET vs. DAL L 20 9 3 6 50.0 3 5 60.0 0 0 - 0 2 2 4 0 0 1 4 9
+p598
+aVJosh Smith DET 12/17/2014 DET vs. DAL L 19 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 4 3 1 1 4 -4
+p599
+aVD.J. Augustin DET 12/17/2014 DET vs. DAL L 24 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 2 1 0 2 2 -1
+p600
+aVJonas Jerebko DET 12/17/2014 DET vs. DAL L 13 13 5 5 100.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 1 2 -1
+p601
+aVAndre Drummond DET 12/17/2014 DET vs. DAL L 41 19 9 16 56.3 0 1 0.0 1 6 16.7 7 17 24 1 4 3 2 6 -6
+p602
+aVJodie Meeks DET 12/17/2014 DET vs. DAL L 20 9 2 8 25.0 1 3 33.3 4 4 100.0 0 2 2 0 0 0 1 3 -14
+p603
+aVCaron Butler DET 12/17/2014 DET vs. DAL L 28 8 3 9 33.3 2 6 33.3 0 0 - 0 0 0 3 1 0 0 1 -18
+p604
+aVKentavious Caldwell-Pope DET 12/17/2014 DET vs. DAL L 28 14 5 15 33.3 3 9 33.3 1 1 100.0 0 2 2 0 0 0 0 1 3
+p605
+aVJodie Meeks DET 12/15/2014 DET @ LAC L 30 20 5 10 50.0 3 5 60.0 7 7 100.0 0 1 1 4 2 0 1 3 -12
+p606
+aVJosh Smith DET 12/15/2014 DET @ LAC L 27 8 4 11 36.4 0 1 0.0 0 2 0.0 3 3 6 4 3 1 2 2 -17
+p607
+aVGreg Monroe DET 12/15/2014 DET @ LAC L 20 15 6 11 54.5 0 0 - 3 4 75.0 5 3 8 0 0 0 5 1 -2
+p608
+aVKyle Singler DET 12/15/2014 DET @ LAC L 18 6 2 9 22.2 2 7 28.6 0 0 - 0 1 1 0 0 0 1 3 -6
+p609
+aVD.J. Augustin DET 12/15/2014 DET @ LAC L 17 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 4 0 0 3 0 -5
+p610
+aVSpencer Dinwiddie DET 12/15/2014 DET @ LAC L 9 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 1 1
+p611
+aVBrandon Jennings DET 12/15/2014 DET @ LAC L 24 6 2 6 33.3 1 3 33.3 1 1 100.0 0 1 1 6 1 0 2 3 -20
+p612
+aVCaron Butler DET 12/15/2014 DET @ LAC L 20 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -11
+p613
+aVJonas Jerebko DET 12/15/2014 DET @ LAC L 12 7 3 6 50.0 1 3 33.3 0 0 - 0 3 3 3 1 0 0 0 1
+p614
+aVKentavious Caldwell-Pope DET 12/15/2014 DET @ LAC L 26 2 1 5 20.0 0 3 0.0 0 2 0.0 0 4 4 0 2 0 2 3 -13
+p615
+aVAndre Drummond DET 12/15/2014 DET @ LAC L 37 18 8 16 50.0 0 0 - 2 6 33.3 8 5 13 1 1 2 1 3 -26
+p616
+aVKentavious Caldwell-Pope DET 12/13/2014 DET @ SAC W 28 8 2 6 33.3 2 5 40.0 2 2 100.0 0 2 2 0 0 0 0 1 1
+p617
+aVGreg Monroe DET 12/13/2014 DET @ SAC W 32 24 8 13 61.5 0 0 - 8 9 88.9 2 6 8 0 1 0 1 2 5
+p618
+aVCaron Butler DET 12/13/2014 DET @ SAC W 22 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 1 0 3 -4
+p619
+aVKyle Singler DET 12/13/2014 DET @ SAC W 26 11 4 7 57.1 3 5 60.0 0 0 - 0 4 4 0 0 2 1 4 9
+p620
+aVJosh Smith DET 12/13/2014 DET @ SAC W 38 21 9 16 56.3 0 0 - 3 5 60.0 1 12 13 6 2 5 7 1 2
+p621
+aVD.J. Augustin DET 12/13/2014 DET @ SAC W 24 8 2 10 20.0 0 2 0.0 4 4 100.0 1 2 3 6 0 0 1 1 -4
+p622
+aVJodie Meeks DET 12/13/2014 DET @ SAC W 20 6 2 9 22.2 0 4 0.0 2 2 100.0 1 1 2 2 4 0 2 0 4
+p623
+aVBrandon Jennings DET 12/13/2014 DET @ SAC W 24 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 8 0 0 1 2 9
+p624
+aVAndre Drummond DET 12/13/2014 DET @ SAC W 26 12 6 10 60.0 0 0 - 0 1 0.0 3 7 10 0 2 1 0 4 3
+p625
+aVD.J. Augustin DET 12/12/2014 DET @ PHX W 24 11 4 5 80.0 0 1 0.0 3 4 75.0 0 1 1 6 2 0 2 2 6
+p626
+aVKentavious Caldwell-Pope DET 12/12/2014 DET @ PHX W 30 14 5 9 55.6 2 4 50.0 2 2 100.0 1 4 5 1 3 0 3 4 1
+p627
+aVJosh Smith DET 12/12/2014 DET @ PHX W 34 12 5 14 35.7 1 4 25.0 1 4 25.0 1 10 11 3 2 2 4 2 -5
+p628
+aVKyle Singler DET 12/12/2014 DET @ PHX W 12 5 1 2 50.0 1 1 100.0 2 2 100.0 0 2 2 0 1 0 0 1 -3
+p629
+aVJodie Meeks DET 12/12/2014 DET @ PHX W 22 12 4 10 40.0 0 0 - 4 4 100.0 1 0 1 1 1 0 1 1 1
+p630
+aVBrandon Jennings DET 12/12/2014 DET @ PHX W 29 8 4 13 30.8 0 2 0.0 0 0 - 0 1 1 4 1 0 3 0 -3
+p631
+aVAndre Drummond DET 12/12/2014 DET @ PHX W 30 23 10 14 71.4 0 0 - 3 4 75.0 7 7 14 1 1 1 1 3 3
+p632
+aVCaron Butler DET 12/12/2014 DET @ PHX W 21 4 2 6 33.3 0 3 0.0 0 0 - 1 2 3 1 0 0 1 4 4
+p633
+aVGreg Monroe DET 12/12/2014 DET @ PHX W 25 12 3 9 33.3 0 0 - 6 7 85.7 2 6 8 0 0 0 2 0 -1
+p634
+aVJonas Jerebko DET 12/12/2014 DET @ PHX W 14 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 7
+p635
+aVKentavious Caldwell-Pope DET 12/09/2014 DET vs. POR L 25 11 4 7 57.1 1 2 50.0 2 2 100.0 0 0 0 0 2 0 3 2 -13
+p636
+aVSpencer Dinwiddie DET 12/09/2014 DET vs. POR L 14 3 1 6 16.7 0 4 0.0 1 1 100.0 0 1 1 3 0 0 0 0 2
+p637
+aVGreg Monroe DET 12/09/2014 DET vs. POR L 33 22 10 22 45.5 0 0 - 2 2 100.0 3 7 10 1 2 0 0 1 -1
+p638
+aVBrandon Jennings DET 12/09/2014 DET vs. POR L 20 1 0 5 0.0 0 2 0.0 1 1 100.0 1 2 3 6 0 0 3 1 -15
+p639
+aVCartier Martin DET 12/09/2014 DET vs. POR L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p640
+aVCaron Butler DET 12/09/2014 DET vs. POR L 29 13 6 14 42.9 0 4 0.0 1 1 100.0 2 5 7 2 2 0 0 1 6
+p641
+aVJosh Smith DET 12/09/2014 DET vs. POR L 21 10 4 10 40.0 0 0 - 2 2 100.0 0 5 5 2 0 2 0 1 -19
+p642
+aVAndre Drummond DET 12/09/2014 DET vs. POR L 30 10 3 12 25.0 0 0 - 4 7 57.1 9 6 15 1 1 0 0 1 -6
+p643
+aVJonas Jerebko DET 12/09/2014 DET vs. POR L 12 3 1 4 25.0 1 2 50.0 0 0 - 2 0 2 1 0 0 0 0 2
+p644
+aVKyle Singler DET 12/09/2014 DET vs. POR L 19 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 0 0 0 0 1 -18
+p645
+aVD.J. Augustin DET 12/09/2014 DET vs. POR L 27 5 2 8 25.0 1 3 33.3 0 0 - 0 2 2 6 0 0 0 0 3
+p646
+aVCaron Butler DET 12/07/2014 DET vs. OKC L 13 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 1 1 3
+p647
+aVJosh Smith DET 12/07/2014 DET vs. OKC L 22 12 5 13 38.5 1 2 50.0 1 4 25.0 0 5 5 2 0 0 1 4 9
+p648
+aVJonas Jerebko DET 12/07/2014 DET vs. OKC L 17 9 4 9 44.4 1 3 33.3 0 0 - 2 2 4 1 0 0 0 2 -5
+p649
+aVKentavious Caldwell-Pope DET 12/07/2014 DET vs. OKC L 33 19 6 12 50.0 1 5 20.0 6 7 85.7 1 2 3 5 1 0 3 4 6
+p650
+aVCartier Martin DET 12/07/2014 DET vs. OKC L 16 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 -8
+p651
+aVD.J. Augustin DET 12/07/2014 DET vs. OKC L 19 7 2 3 66.7 1 2 50.0 2 2 100.0 0 3 3 1 0 0 0 0 -6
+p652
+aVBrandon Jennings DET 12/07/2014 DET vs. OKC L 29 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 9 0 0 1 0 4
+p653
+aVGreg Monroe DET 12/07/2014 DET vs. OKC L 24 12 3 7 42.9 0 0 - 6 9 66.7 2 6 8 2 0 0 4 2 -15
+p654
+aVKyle Singler DET 12/07/2014 DET vs. OKC L 35 10 3 8 37.5 2 6 33.3 2 2 100.0 0 2 2 1 2 0 2 3 -5
+p655
+aVAndre Drummond DET 12/07/2014 DET vs. OKC L 32 16 7 12 58.3 0 0 - 2 4 50.0 3 6 9 0 2 1 0 4 7
+p656
+aVKyle Singler DET 12/06/2014 DET vs. PHI L 40 21 8 14 57.1 3 5 60.0 2 2 100.0 3 3 6 2 2 0 0 2 -7
+p657
+aVCaron Butler DET 12/06/2014 DET vs. PHI L 13 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 1 1 1 3 0
+p658
+aVJonas Jerebko DET 12/06/2014 DET vs. PHI L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p659
+aVGreg Monroe DET 12/06/2014 DET vs. PHI L 33 15 4 12 33.3 0 0 - 7 9 77.8 2 7 9 2 2 0 4 3 -8
+p660
+aVBrandon Jennings DET 12/06/2014 DET vs. PHI L 35 8 2 10 20.0 0 2 0.0 4 4 100.0 1 4 5 6 1 0 5 3 -6
+p661
+aVJosh Smith DET 12/06/2014 DET vs. PHI L 48 23 9 18 50.0 1 2 50.0 4 6 66.7 2 6 8 7 1 3 5 4 -1
+p662
+aVD.J. Augustin DET 12/06/2014 DET vs. PHI L 18 6 1 7 14.3 0 4 0.0 4 5 80.0 0 1 1 3 1 0 0 2 -1
+p663
+aVAndre Drummond DET 12/06/2014 DET vs. PHI L 21 7 3 6 50.0 0 0 - 1 2 50.0 3 5 8 0 1 2 0 4 -4
+p664
+aVCartier Martin DET 12/06/2014 DET vs. PHI L 23 9 4 7 57.1 1 4 25.0 0 0 - 0 2 2 2 0 0 2 2 -1
+p665
+aVJoel Anthony DET 12/06/2014 DET vs. PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p666
+aVKentavious Caldwell-Pope DET 12/06/2014 DET vs. PHI L 30 9 2 10 20.0 0 3 0.0 5 7 71.4 1 5 6 0 2 0 2 1 -6
+p667
+aVBrandon Jennings DET 12/03/2014 DET @ BOS L 39 1 0 11 0.0 0 6 0.0 1 2 50.0 2 2 4 12 0 0 2 1 6
+p668
+aVJosh Smith DET 12/03/2014 DET @ BOS L 28 12 4 15 26.7 0 0 - 4 6 66.7 2 9 11 3 1 1 3 6 -10
+p669
+aVGreg Monroe DET 12/03/2014 DET @ BOS L 32 29 9 17 52.9 0 0 - 11 11 100.0 1 6 7 0 0 1 2 2 5
+p670
+aVKyle Singler DET 12/03/2014 DET @ BOS L 24 3 1 7 14.3 1 4 25.0 0 0 - 2 2 4 1 0 0 0 1 -15
+p671
+aVKentavious Caldwell-Pope DET 12/03/2014 DET @ BOS L 41 15 6 15 40.0 3 8 37.5 0 0 - 1 5 6 1 2 0 1 3 1
+p672
+aVCartier Martin DET 12/03/2014 DET @ BOS L 12 6 2 3 66.7 2 3 66.7 0 0 - 0 3 3 0 0 0 0 1 -8
+p673
+aVJonas Jerebko DET 12/03/2014 DET @ BOS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p674
+aVAndre Drummond DET 12/03/2014 DET @ BOS L 42 27 12 18 66.7 0 0 - 3 8 37.5 7 7 14 0 4 5 2 6 -1
+p675
+aVD.J. Augustin DET 12/03/2014 DET @ BOS L 14 1 0 6 0.0 0 1 0.0 1 2 50.0 1 2 3 3 0 0 1 0 -13
+p676
+aVCaron Butler DET 12/03/2014 DET @ BOS L 29 8 3 9 33.3 2 4 50.0 0 0 - 0 2 2 0 0 0 0 2 8
+p677
+aVGreg Monroe DET 12/02/2014 DET vs. LAL L 26 8 2 7 28.6 0 0 - 4 6 66.7 2 8 10 3 1 0 1 3 3
+p678
+aVD.J. Augustin DET 12/02/2014 DET vs. LAL L 24 13 4 7 57.1 1 2 50.0 4 6 66.7 1 0 1 5 0 0 0 1 9
+p679
+aVJosh Smith DET 12/02/2014 DET vs. LAL L 33 18 7 17 41.2 0 1 0.0 4 4 100.0 2 8 10 6 3 1 5 3 -16
+p680
+aVBrandon Jennings DET 12/02/2014 DET vs. LAL L 24 10 2 10 20.0 0 1 0.0 6 6 100.0 0 2 2 4 0 0 3 1 -19
+p681
+aVKentavious Caldwell-Pope DET 12/02/2014 DET vs. LAL L 33 7 3 9 33.3 0 3 0.0 1 2 50.0 1 3 4 0 0 0 1 2 -12
+p682
+aVCaron Butler DET 12/02/2014 DET vs. LAL L 29 11 4 7 57.1 2 4 50.0 1 1 100.0 0 2 2 0 0 0 1 2 4
+p683
+aVJonas Jerebko DET 12/02/2014 DET vs. LAL L 12 9 3 8 37.5 1 4 25.0 2 2 100.0 2 2 4 0 1 1 0 1 6
+p684
+aVAndre Drummond DET 12/02/2014 DET vs. LAL L 25 8 3 9 33.3 0 0 - 2 4 50.0 7 6 13 0 0 3 1 1 -13
+p685
+aVCartier Martin DET 12/02/2014 DET vs. LAL L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -6
+p686
+aVKyle Singler DET 12/02/2014 DET vs. LAL L 17 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 1 0 0 0 0 -12
+p687
+aVGigi Datome DET 12/02/2014 DET vs. LAL L 12 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 1 1 0 1 1 6
+p688
+aVCartier Martin DET 11/30/2014 DET vs. GSW L 14 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 -8
+p689
+aVAndre Drummond DET 11/30/2014 DET vs. GSW L 24 2 1 8 12.5 0 0 - 0 0 - 2 5 7 1 0 2 1 4 -13
+p690
+aVKyle Singler DET 11/30/2014 DET vs. GSW L 28 9 3 8 37.5 2 4 50.0 1 1 100.0 0 4 4 4 2 1 0 1 0
+p691
+aVJonas Jerebko DET 11/30/2014 DET vs. GSW L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -4
+p692
+aVBrandon Jennings DET 11/30/2014 DET vs. GSW L 35 22 6 19 31.6 3 7 42.9 7 7 100.0 2 2 4 6 1 0 1 0 2
+p693
+aVD.J. Augustin DET 11/30/2014 DET vs. GSW L 13 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 3 3 -13
+p694
+aVCaron Butler DET 11/30/2014 DET vs. GSW L 18 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 1 0 1 3 -11
+p695
+aVKentavious Caldwell-Pope DET 11/30/2014 DET vs. GSW L 36 23 8 15 53.3 4 7 57.1 3 5 60.0 1 3 4 1 2 0 2 2 -3
+p696
+aVGreg Monroe DET 11/30/2014 DET vs. GSW L 31 13 5 12 41.7 0 0 - 3 7 42.9 5 5 10 0 0 1 3 3 -6
+p697
+aVJosh Smith DET 11/30/2014 DET vs. GSW L 34 14 6 18 33.3 0 1 0.0 2 4 50.0 4 5 9 12 4 1 1 3 1
+p698
+aVD.J. Augustin DET 11/28/2014 DET vs. MIL L 34 10 1 7 14.3 1 4 25.0 7 9 77.8 0 0 0 6 0 0 2 0 -2
+p699
+aVKyle Singler DET 11/28/2014 DET vs. MIL L 26 11 5 9 55.6 1 4 25.0 0 0 - 0 1 1 4 0 0 0 2 -25
+p700
+aVGreg Monroe DET 11/28/2014 DET vs. MIL L 23 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 2 2 0 1 4 -2
+p701
+aVCaron Butler DET 11/28/2014 DET vs. MIL L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 0 -19
+p702
+aVJosh Smith DET 11/28/2014 DET vs. MIL L 38 13 6 15 40.0 0 0 - 1 4 25.0 1 3 4 9 1 3 6 1 -2
+p703
+aVJonas Jerebko DET 11/28/2014 DET vs. MIL L 12 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 0 2 1 1 3 -17
+p704
+aVKentavious Caldwell-Pope DET 11/28/2014 DET vs. MIL L 35 21 7 19 36.8 4 9 44.4 3 6 50.0 4 2 6 0 1 0 0 3 3
+p705
+aVSpencer Dinwiddie DET 11/28/2014 DET vs. MIL L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 3 1 0 0 3 -14
+p706
+aVAndre Drummond DET 11/28/2014 DET vs. MIL L 38 26 12 19 63.2 0 0 - 2 4 50.0 7 13 20 0 1 1 3 3 -2
+p707
+aVJonas Jerebko DET 11/26/2014 DET vs. LAC L 11 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 0 1 0 0 1 -2
+p708
+aVJosh Smith DET 11/26/2014 DET vs. LAC L 36 17 7 17 41.2 1 1 100.0 2 2 100.0 1 3 4 6 2 2 2 3 -1
+p709
+aVCartier Martin DET 11/26/2014 DET vs. LAC L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p710
+aVSpencer Dinwiddie DET 11/26/2014 DET vs. LAC L 17 10 4 7 57.1 2 4 50.0 0 0 - 0 0 0 4 0 0 0 1 -7
+p711
+aVCaron Butler DET 11/26/2014 DET vs. LAC L 20 3 1 3 33.3 1 2 50.0 0 0 - 1 3 4 0 0 0 2 1 -5
+p712
+aVGreg Monroe DET 11/26/2014 DET vs. LAC L 27 6 1 6 16.7 0 0 - 4 6 66.7 2 7 9 1 1 0 3 2 -9
+p713
+aVKyle Singler DET 11/26/2014 DET vs. LAC L 7 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 2 2
+p714
+aVKentavious Caldwell-Pope DET 11/26/2014 DET vs. LAC L 41 17 5 11 45.5 3 7 42.9 4 4 100.0 1 0 1 1 1 0 2 4 -4
+p715
+aVD.J. Augustin DET 11/26/2014 DET vs. LAC L 35 19 7 14 50.0 2 8 25.0 3 3 100.0 0 3 3 6 0 0 3 2 0
+p716
+aVAndre Drummond DET 11/26/2014 DET vs. LAC L 38 17 6 11 54.5 0 0 - 5 9 55.6 6 7 13 0 2 2 2 0 -2
+p717
+aVAndre Drummond DET 11/25/2014 DET @ MIL L 32 23 11 15 73.3 0 0 - 1 2 50.0 2 8 10 1 1 2 3 4 -3
+p718
+aVKyle Singler DET 11/25/2014 DET @ MIL L 30 8 3 10 30.0 2 7 28.6 0 0 - 0 3 3 0 0 0 1 4 -8
+p719
+aVGreg Monroe DET 11/25/2014 DET @ MIL L 32 15 7 10 70.0 0 0 - 1 2 50.0 1 7 8 1 0 0 3 0 -13
+p720
+aVJoel Anthony DET 11/25/2014 DET @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p721
+aVSpencer Dinwiddie DET 11/25/2014 DET @ MIL L 11 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 3 1 0 2 0 -2
+p722
+aVD.J. Augustin DET 11/25/2014 DET @ MIL L 37 11 4 11 36.4 1 1 100.0 2 2 100.0 0 2 2 7 1 0 5 3 -10
+p723
+aVJosh Smith DET 11/25/2014 DET @ MIL L 34 11 4 10 40.0 1 2 50.0 2 10 20.0 4 6 10 8 1 3 2 2 -17
+p724
+aVCartier Martin DET 11/25/2014 DET @ MIL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p725
+aVJonas Jerebko DET 11/25/2014 DET @ MIL L 14 1 0 0 - 0 0 - 1 1 100.0 1 0 1 1 1 0 0 1 5
+p726
+aVKentavious Caldwell-Pope DET 11/25/2014 DET @ MIL L 21 6 2 9 22.2 2 7 28.6 0 0 - 0 0 0 2 2 0 1 3 -11
+p727
+aVCaron Butler DET 11/25/2014 DET @ MIL L 25 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -3
+p728
+aVJonas Jerebko DET 11/21/2014 DET @ ATL L 13 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 0 0 1 1 0 1
+p729
+aVKentavious Caldwell-Pope DET 11/21/2014 DET @ ATL L 32 4 1 7 14.3 0 2 0.0 2 2 100.0 0 0 0 0 3 0 0 2 -16
+p730
+aVKyle Singler DET 11/21/2014 DET @ ATL L 23 9 4 6 66.7 1 3 33.3 0 0 - 0 2 2 0 1 0 0 3 -3
+p731
+aVBrandon Jennings DET 11/21/2014 DET @ ATL L 23 9 2 6 33.3 0 4 0.0 5 5 100.0 0 2 2 2 1 0 4 2 -11
+p732
+aVGreg Monroe DET 11/21/2014 DET @ ATL L 21 10 4 7 57.1 0 0 - 2 2 100.0 2 6 8 2 0 0 2 3 -4
+p733
+aVJosh Smith DET 11/21/2014 DET @ ATL L 35 16 8 19 42.1 0 1 0.0 0 0 - 2 6 8 5 0 1 1 4 -11
+p734
+aVD.J. Augustin DET 11/21/2014 DET @ ATL L 25 14 4 17 23.5 1 6 16.7 5 5 100.0 1 4 5 1 0 0 1 2 1
+p735
+aVAndre Drummond DET 11/21/2014 DET @ ATL L 38 13 5 12 41.7 0 0 - 3 4 75.0 7 9 16 0 1 1 2 1 -13
+p736
+aVCaron Butler DET 11/21/2014 DET @ ATL L 30 10 3 8 37.5 2 5 40.0 2 2 100.0 1 3 4 2 0 0 1 3 6
+p737
+aVAndre Drummond DET 11/19/2014 DET vs. PHX L 25 4 2 10 20.0 0 0 - 0 2 0.0 3 10 13 1 0 0 3 3 1
+p738
+aVJosh Smith DET 11/19/2014 DET vs. PHX L 23 5 2 5 40.0 0 0 - 1 3 33.3 2 2 4 3 0 0 2 1 -7
+p739
+aVGreg Monroe DET 11/19/2014 DET vs. PHX L 34 18 7 17 41.2 0 0 - 4 5 80.0 4 8 12 3 1 0 3 2 -4
+p740
+aVCaron Butler DET 11/19/2014 DET vs. PHX L 22 5 2 7 28.6 1 5 20.0 0 0 - 0 2 2 0 0 0 0 1 -2
+p741
+aVSpencer Dinwiddie DET 11/19/2014 DET vs. PHX L 14 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 1 1 -4
+p742
+aVBrandon Jennings DET 11/19/2014 DET vs. PHX L 35 19 7 19 36.8 1 9 11.1 4 5 80.0 1 0 1 7 2 0 2 2 6
+p743
+aVKyle Singler DET 11/19/2014 DET vs. PHX L 17 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -6
+p744
+aVKentavious Caldwell-Pope DET 11/19/2014 DET vs. PHX L 28 15 6 13 46.2 3 7 42.9 0 0 - 1 1 2 2 3 0 1 3 3
+p745
+aVD.J. Augustin DET 11/19/2014 DET vs. PHX L 22 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 2 2 0 2 0 -5
+p746
+aVJonas Jerebko DET 11/19/2014 DET vs. PHX L 21 7 3 5 60.0 1 1 100.0 0 0 - 4 2 6 1 1 1 0 3 8
+p747
+aVCaron Butler DET 11/17/2014 DET vs. ORL L 27 20 5 11 45.5 3 5 60.0 7 7 100.0 1 5 6 1 0 0 0 0 5
+p748
+aVBrandon Jennings DET 11/17/2014 DET vs. ORL L 32 18 6 13 46.2 5 7 71.4 1 2 50.0 0 3 3 6 3 0 3 1 -18
+p749
+aVKentavious Caldwell-Pope DET 11/17/2014 DET vs. ORL L 34 10 4 10 40.0 2 4 50.0 0 0 - 0 5 5 2 0 0 1 3 -14
+p750
+aVKyle Singler DET 11/17/2014 DET vs. ORL L 19 7 2 4 50.0 1 2 50.0 2 2 100.0 0 3 3 0 0 0 0 0 -5
+p751
+aVJonas Jerebko DET 11/17/2014 DET vs. ORL L 17 6 3 11 27.3 0 3 0.0 0 0 - 3 2 5 1 0 0 1 4 -12
+p752
+aVJosh Smith DET 11/17/2014 DET vs. ORL L 30 7 3 7 42.9 0 3 0.0 1 3 33.3 0 0 0 5 1 1 4 3 -6
+p753
+aVJoel Anthony DET 11/17/2014 DET vs. ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p754
+aVD.J. Augustin DET 11/17/2014 DET vs. ORL L 18 7 2 3 66.7 0 0 - 3 4 75.0 0 2 2 1 1 0 1 1 1
+p755
+aVGreg Monroe DET 11/17/2014 DET vs. ORL L 32 6 2 9 22.2 0 0 - 2 2 100.0 2 5 7 0 0 0 2 3 -7
+p756
+aVAndre Drummond DET 11/17/2014 DET vs. ORL L 28 12 5 12 41.7 0 0 - 2 4 50.0 4 6 10 0 0 3 2 4 -10
+p757
+aVAndre Drummond DET 11/15/2014 DET @ MEM L 20 6 2 4 50.0 0 0 - 2 4 50.0 2 8 10 0 0 1 1 5 -8
+p758
+aVJonas Jerebko DET 11/15/2014 DET @ MEM L 19 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p759
+aVGreg Monroe DET 11/15/2014 DET @ MEM L 32 16 8 13 61.5 0 0 - 0 2 0.0 3 8 11 1 0 0 2 3 -3
+p760
+aVJoel Anthony DET 11/15/2014 DET @ MEM L 3 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 1 2
+p761
+aVKyle Singler DET 11/15/2014 DET @ MEM L 27 21 5 8 62.5 5 7 71.4 6 6 100.0 1 3 4 0 2 1 0 5 7
+p762
+aVKentavious Caldwell-Pope DET 11/15/2014 DET @ MEM L 26 2 1 11 9.1 0 4 0.0 0 0 - 1 2 3 1 0 0 0 1 -7
+p763
+aVD.J. Augustin DET 11/15/2014 DET @ MEM L 20 7 3 10 30.0 1 4 25.0 0 0 - 0 0 0 5 0 0 1 1 2
+p764
+aVBrandon Jennings DET 11/15/2014 DET @ MEM L 33 14 6 16 37.5 1 6 16.7 1 2 50.0 0 2 2 4 1 0 2 1 -8
+p765
+aVJosh Smith DET 11/15/2014 DET @ MEM L 33 11 5 13 38.5 1 1 100.0 0 0 - 1 6 7 3 1 4 2 3 -6
+p766
+aVCaron Butler DET 11/15/2014 DET @ MEM L 27 4 1 3 33.3 1 3 33.3 1 2 50.0 0 4 4 1 0 0 1 2 -15
+p767
+aVCaron Butler DET 11/14/2014 DET @ OKC W 26 0 0 2 0.0 0 2 0.0 0 0 - 0 8 8 0 0 0 1 0 -2
+p768
+aVJosh Smith DET 11/14/2014 DET @ OKC W 36 18 8 16 50.0 2 4 50.0 0 2 0.0 1 3 4 1 2 0 3 2 4
+p769
+aVJonas Jerebko DET 11/14/2014 DET @ OKC W 17 12 5 10 50.0 2 5 40.0 0 0 - 1 5 6 0 2 0 1 2 3
+p770
+aVD.J. Augustin DET 11/14/2014 DET @ OKC W 17 1 0 3 0.0 0 2 0.0 1 2 50.0 1 0 1 5 0 0 2 2 8
+p771
+aVKyle Singler DET 11/14/2014 DET @ OKC W 26 5 2 6 33.3 1 4 25.0 0 0 - 1 3 4 0 0 1 2 4 10
+p772
+aVGreg Monroe DET 11/14/2014 DET @ OKC W 34 14 6 13 46.2 0 0 - 2 3 66.7 4 5 9 5 1 1 3 0 30
+p773
+aVBrandon Jennings DET 11/14/2014 DET @ OKC W 36 29 10 18 55.6 5 8 62.5 4 5 80.0 0 5 5 5 2 1 0 3 -1
+p774
+aVAndre Drummond DET 11/14/2014 DET @ OKC W 32 9 4 11 36.4 0 0 - 1 1 100.0 4 11 15 1 1 2 2 3 -11
+p775
+aVKentavious Caldwell-Pope DET 11/14/2014 DET @ OKC W 41 8 3 10 30.0 1 6 16.7 1 2 50.0 2 1 3 1 0 0 2 1 -6
+p776
+aVKyle Singler DET 11/12/2014 DET @ WAS L 26 6 2 7 28.6 1 4 25.0 1 2 50.0 2 0 2 0 1 0 1 1 -12
+p777
+aVD.J. Augustin DET 11/12/2014 DET @ WAS L 14 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 1 -4
+p778
+aVJoel Anthony DET 11/12/2014 DET @ WAS L 4 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 2 2
+p779
+aVAndre Drummond DET 11/12/2014 DET @ WAS L 23 2 1 3 33.3 0 0 - 0 0 - 0 5 5 1 0 2 2 4 -4
+p780
+aVCaron Butler DET 11/12/2014 DET @ WAS L 25 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 1 0 0 1 3 11
+p781
+aVKentavious Caldwell-Pope DET 11/12/2014 DET @ WAS L 35 20 8 14 57.1 4 6 66.7 0 0 - 0 2 2 0 0 1 1 3 -1
+p782
+aVJonas Jerebko DET 11/12/2014 DET @ WAS L 19 6 2 3 66.7 0 1 0.0 2 2 100.0 1 1 2 1 1 0 0 2 4
+p783
+aVBrandon Jennings DET 11/12/2014 DET @ WAS L 34 32 11 19 57.9 3 7 42.9 7 9 77.8 0 3 3 10 2 0 2 4 0
+p784
+aVGreg Monroe DET 11/12/2014 DET @ WAS L 33 18 6 13 46.2 0 0 - 6 7 85.7 3 6 9 3 0 1 3 0 -4
+p785
+aVJosh Smith DET 11/12/2014 DET @ WAS L 27 6 3 10 30.0 0 1 0.0 0 0 - 0 9 9 3 1 1 2 5 -12
+p786
+aVKentavious Caldwell-Pope DET 11/10/2014 DET @ CHI L 29 9 3 9 33.3 1 3 33.3 2 4 50.0 0 1 1 1 0 0 0 1 -10
+p787
+aVAndre Drummond DET 11/10/2014 DET @ CHI L 36 2 0 5 0.0 0 0 - 2 4 50.0 4 8 12 0 1 1 3 6 -4
+p788
+aVGreg Monroe DET 11/10/2014 DET @ CHI L 36 16 8 15 53.3 0 0 - 0 0 - 1 9 10 2 0 0 3 3 -4
+p789
+aVCaron Butler DET 11/10/2014 DET @ CHI L 27 9 3 6 50.0 2 2 100.0 1 1 100.0 1 4 5 2 0 0 0 2 1
+p790
+aVKyle Singler DET 11/10/2014 DET @ CHI L 26 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 0 1 1 0 0 -12
+p791
+aVBrandon Jennings DET 11/10/2014 DET @ CHI L 27 11 3 11 27.3 2 4 50.0 3 4 75.0 1 4 5 8 2 1 4 3 0
+p792
+aVD.J. Augustin DET 11/10/2014 DET @ CHI L 21 16 5 8 62.5 0 1 0.0 6 9 66.7 0 1 1 2 1 0 2 2 -11
+p793
+aVJosh Smith DET 11/10/2014 DET @ CHI L 39 19 8 19 42.1 1 2 50.0 2 3 66.7 2 9 11 4 0 3 3 4 -15
+p794
+aVJosh Smith DET 11/09/2014 DET vs. UTA L 30 13 6 14 42.9 0 0 - 1 2 50.0 4 5 9 4 0 1 1 3 -1
+p795
+aVKyle Singler DET 11/09/2014 DET vs. UTA L 21 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 4 0 0 0 5 -1
+p796
+aVAndre Drummond DET 11/09/2014 DET vs. UTA L 31 11 5 11 45.5 0 0 - 1 2 50.0 7 11 18 0 1 1 3 2 -7
+p797
+aVD.J. Augustin DET 11/09/2014 DET vs. UTA L 17 9 2 9 22.2 0 1 0.0 5 6 83.3 0 3 3 3 1 0 2 2 -4
+p798
+aVJonas Jerebko DET 11/09/2014 DET vs. UTA L 15 8 3 6 50.0 0 1 0.0 2 2 100.0 2 0 2 0 0 0 1 2 -8
+p799
+aVCaron Butler DET 11/09/2014 DET vs. UTA L 30 2 1 5 20.0 0 4 0.0 0 0 - 0 3 3 0 2 0 1 2 -5
+p800
+aVBrandon Jennings DET 11/09/2014 DET vs. UTA L 31 23 8 15 53.3 3 7 42.9 4 4 100.0 1 1 2 5 1 0 2 0 3
+p801
+aVKentavious Caldwell-Pope DET 11/09/2014 DET vs. UTA L 34 11 3 13 23.1 3 9 33.3 2 4 50.0 0 1 1 1 0 0 0 3 8
+p802
+aVGreg Monroe DET 11/09/2014 DET vs. UTA L 32 19 8 18 44.4 0 0 - 3 5 60.0 3 8 11 2 1 0 1 3 10
+p803
+aVD.J. Augustin DET 11/07/2014 DET vs. MIL W 23 9 2 7 28.6 1 5 20.0 4 6 66.7 0 1 1 2 1 0 2 0 0
+p804
+aVJosh Smith DET 11/07/2014 DET vs. MIL W 36 14 5 14 35.7 0 2 0.0 4 10 40.0 5 3 8 5 2 1 4 3 4
+p805
+aVKentavious Caldwell-Pope DET 11/07/2014 DET vs. MIL W 30 19 7 11 63.6 3 5 60.0 2 2 100.0 0 5 5 0 0 0 1 3 5
+p806
+aVKyle Singler DET 11/07/2014 DET vs. MIL W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 2 1 -5
+p807
+aVBrandon Jennings DET 11/07/2014 DET vs. MIL W 31 15 5 12 41.7 4 6 66.7 1 2 50.0 0 2 2 6 2 0 1 2 7
+p808
+aVAndre Drummond DET 11/07/2014 DET vs. MIL W 26 11 5 10 50.0 0 0 - 1 2 50.0 3 7 10 0 0 2 1 2 -4
+p809
+aVJoel Anthony DET 11/07/2014 DET vs. MIL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 0
+p810
+aVJonas Jerebko DET 11/07/2014 DET vs. MIL W 11 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 1 0 1 4 -1
+p811
+aVGreg Monroe DET 11/07/2014 DET vs. MIL W 26 10 5 8 62.5 0 0 - 0 0 - 4 3 7 3 0 0 4 4 13
+p812
+aVCaron Butler DET 11/07/2014 DET vs. MIL W 36 14 5 8 62.5 3 4 75.0 1 2 50.0 0 4 4 0 1 0 2 3 -4
+p813
+aVAndre Drummond DET 11/05/2014 DET vs. NYK W 29 7 3 10 30.0 0 0 - 1 4 25.0 6 7 13 0 0 2 2 5 9
+p814
+aVBrandon Jennings DET 11/05/2014 DET vs. NYK W 23 12 2 9 22.2 1 3 33.3 7 8 87.5 1 1 2 5 0 0 1 0 9
+p815
+aVKyle Singler DET 11/05/2014 DET vs. NYK W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 7
+p816
+aVJonas Jerebko DET 11/05/2014 DET vs. NYK W 15 11 4 6 66.7 3 4 75.0 0 0 - 1 2 3 1 0 0 0 1 9
+p817
+aVD.J. Augustin DET 11/05/2014 DET vs. NYK W 25 12 3 6 50.0 2 4 50.0 4 5 80.0 0 1 1 3 0 0 2 1 -3
+p818
+aVKentavious Caldwell-Pope DET 11/05/2014 DET vs. NYK W 35 20 8 14 57.1 4 7 57.1 0 2 0.0 0 2 2 0 0 0 0 3 -7
+p819
+aVGreg Monroe DET 11/05/2014 DET vs. NYK W 36 23 8 17 47.1 0 0 - 7 8 87.5 6 12 18 3 1 0 1 2 -6
+p820
+aVJoel Anthony DET 11/05/2014 DET vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p821
+aVCaron Butler DET 11/05/2014 DET vs. NYK W 31 5 2 7 28.6 1 3 33.3 0 0 - 1 4 5 0 1 0 1 2 3
+p822
+aVJosh Smith DET 11/05/2014 DET vs. NYK W 34 8 2 17 11.8 0 1 0.0 4 6 66.7 4 6 10 5 3 2 1 2 -6
+p823
+aVBrandon Jennings DET 11/01/2014 DET vs. BKN L 36 18 6 14 42.9 0 3 0.0 6 7 85.7 0 2 2 9 1 0 3 2 -4
+p824
+aVKyle Singler DET 11/01/2014 DET vs. BKN L 33 5 2 7 28.6 1 3 33.3 0 0 - 0 3 3 0 0 0 0 3 0
+p825
+aVCaron Butler DET 11/01/2014 DET vs. BKN L 16 5 1 4 25.0 0 2 0.0 3 3 100.0 0 1 1 2 0 0 0 1 -8
+p826
+aVAndre Drummond DET 11/01/2014 DET vs. BKN L 22 14 6 9 66.7 0 0 - 2 4 50.0 3 5 8 0 0 2 0 5 -8
+p827
+aVGreg Monroe DET 11/01/2014 DET vs. BKN L 30 18 7 12 58.3 0 0 - 4 5 80.0 4 7 11 3 1 0 0 0 -9
+p828
+aVJosh Smith DET 11/01/2014 DET vs. BKN L 44 14 6 15 40.0 0 1 0.0 2 8 25.0 3 6 9 5 0 1 1 1 -7
+p829
+aVD.J. Augustin DET 11/01/2014 DET vs. BKN L 19 6 1 5 20.0 0 2 0.0 4 4 100.0 0 1 1 2 0 0 0 1 -14
+p830
+aVKentavious Caldwell-Pope DET 11/01/2014 DET vs. BKN L 41 10 3 10 30.0 0 6 0.0 4 4 100.0 0 6 6 0 1 0 3 2 -10
+p831
+aVAndre Drummond DET 10/30/2014 DET @ MIN L 31 11 5 14 35.7 0 0 - 1 4 25.0 2 10 12 1 0 2 2 5 -3
+p832
+aVJosh Smith DET 10/30/2014 DET @ MIN L 30 10 5 16 31.3 0 2 0.0 0 0 - 2 5 7 4 0 2 3 4 -16
+p833
+aVCaron Butler DET 10/30/2014 DET @ MIN L 31 24 10 14 71.4 4 7 57.1 0 0 - 3 5 8 0 0 0 1 4 9
+p834
+aVJoel Anthony DET 10/30/2014 DET @ MIN L 17 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 1 1 0 2 -3
+p835
+aVBrandon Jennings DET 10/30/2014 DET @ MIN L 16 4 2 4 50.0 0 0 - 0 0 - 1 1 2 6 0 0 2 3 -8
+p836
+aVD.J. Augustin DET 10/30/2014 DET @ MIN L 33 20 6 18 33.3 1 5 20.0 7 7 100.0 1 2 3 6 0 0 2 2 2
+p837
+aVJonas Jerebko DET 10/30/2014 DET @ MIN L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 10
+p838
+aVKyle Singler DET 10/30/2014 DET @ MIN L 24 5 2 6 33.3 1 4 25.0 0 0 - 1 2 3 0 0 0 1 1 -12
+p839
+aVKentavious Caldwell-Pope DET 10/30/2014 DET @ MIN L 41 11 5 13 38.5 1 2 50.0 0 2 0.0 4 2 6 2 2 0 1 2 -9
+p840
+aVKyle Singler DET 10/29/2014 DET @ DEN L 30 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 1 0 0 2 4 -10
+p841
+aVJosh Smith DET 10/29/2014 DET @ DEN L 36 25 9 22 40.9 0 3 0.0 7 11 63.6 1 4 5 3 1 2 2 5 -13
+p842
+aVJoel Anthony DET 10/29/2014 DET @ DEN L 21 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 1 2 3 -13
+p843
+aVSpencer Dinwiddie DET 10/29/2014 DET @ DEN L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p844
+aVKentavious Caldwell-Pope DET 10/29/2014 DET @ DEN L 36 7 3 19 15.8 1 8 12.5 0 0 - 2 5 7 3 0 1 1 1 -4
+p845
+aVBrandon Jennings DET 10/29/2014 DET @ DEN L 20 4 2 4 50.0 0 0 - 0 0 - 0 4 4 2 0 0 3 0 -7
+p846
+aVAndre Drummond DET 10/29/2014 DET @ DEN L 27 11 5 10 50.0 0 0 - 1 4 25.0 3 6 9 1 2 1 1 6 3
+p847
+aVJonas Jerebko DET 10/29/2014 DET @ DEN L 12 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 3
+p848
+aVD.J. Augustin DET 10/29/2014 DET @ DEN L 28 15 5 10 50.0 2 6 33.3 3 4 75.0 0 6 6 3 0 0 3 2 -3
+p849
+aVCaron Butler DET 10/29/2014 DET @ DEN L 23 0 0 5 0.0 0 3 0.0 0 0 - 1 5 6 1 1 0 1 2 -3
+p850
+a.

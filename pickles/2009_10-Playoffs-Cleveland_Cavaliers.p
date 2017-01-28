@@ -1,0 +1,238 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAnthony Parker CLE 05/13/2010 CLE @ BOS L 29 7 2 4 50.0 2 3 66.7 1 2 50.0 0 4 4 0 0 1 0 2 -4
+p2
+aVLeBron James CLE 05/13/2010 CLE @ BOS L 46 27 8 21 38.1 2 4 50.0 9 12 75.0 3 16 19 10 3 1 9 2 -5
+p3
+aVShaquille O'Neal CLE 05/13/2010 CLE @ BOS L 24 11 4 7 57.1 0 0 - 3 6 50.0 3 1 4 1 0 0 1 5 -6
+p4
+aVAntawn Jamison CLE 05/13/2010 CLE @ BOS L 30 5 2 10 20.0 0 3 0.0 1 2 50.0 1 4 5 0 2 0 1 1 -1
+p5
+aVJamario Moon CLE 05/13/2010 CLE @ BOS L 9 2 1 2 50.0 0 1 0.0 0 1 0.0 0 1 1 1 1 0 0 1 5
+p6
+aVZydrunas Ilgauskas CLE 05/13/2010 CLE @ BOS L 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 0 3 -8
+p7
+aVAnderson Varejao CLE 05/13/2010 CLE @ BOS L 27 6 2 7 28.6 0 1 0.0 2 2 100.0 2 5 7 0 1 0 3 3 -2
+p8
+aVJJ Hickson CLE 05/13/2010 CLE @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p9
+aVDelonte West CLE 05/13/2010 CLE @ BOS L 14 3 0 2 0.0 0 1 0.0 3 4 75.0 1 0 1 0 1 0 3 0 -12
+p10
+aVMo Williams CLE 05/13/2010 CLE @ BOS L 47 22 8 18 44.4 1 4 25.0 5 5 100.0 2 5 7 4 2 0 5 5 -12
+p11
+aVLeon Powe CLE 05/11/2010 CLE vs. BOS L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -7
+p12
+aVAnthony Parker CLE 05/11/2010 CLE vs. BOS L 40 14 5 9 55.6 2 5 40.0 2 2 100.0 1 1 2 1 0 0 2 2 -30
+p13
+aVShaquille O'Neal CLE 05/11/2010 CLE vs. BOS L 27 21 7 11 63.6 0 0 - 7 10 70.0 1 3 4 2 1 4 2 3 -26
+p14
+aVJamario Moon CLE 05/11/2010 CLE vs. BOS L 7 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 -8
+p15
+aVZydrunas Ilgauskas CLE 05/11/2010 CLE vs. BOS L 14 5 2 5 40.0 0 0 - 1 1 100.0 1 2 3 0 0 4 1 2 9
+p16
+aVAntawn Jamison CLE 05/11/2010 CLE vs. BOS L 31 9 4 10 40.0 1 2 50.0 0 0 - 1 5 6 1 0 1 3 4 -33
+p17
+aVMo Williams CLE 05/11/2010 CLE vs. BOS L 34 9 3 8 37.5 1 2 50.0 2 2 100.0 0 1 1 5 0 0 2 5 -27
+p18
+aVDelonte West CLE 05/11/2010 CLE vs. BOS L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 1 1 5
+p19
+aVLeBron James CLE 05/11/2010 CLE vs. BOS L 42 15 3 14 21.4 0 4 0.0 9 12 75.0 1 5 6 7 1 0 3 3 -22
+p20
+aVJJ Hickson CLE 05/11/2010 CLE vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p21
+aVDaniel Gibson CLE 05/11/2010 CLE vs. BOS L 12 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -14
+p22
+aVAnderson Varejao CLE 05/11/2010 CLE vs. BOS L 17 5 1 3 33.3 0 0 - 3 3 100.0 2 6 8 2 1 1 1 4 1
+p23
+aVJJ Hickson CLE 05/09/2010 CLE @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -11
+p24
+aVMo Williams CLE 05/09/2010 CLE @ BOS L 36 13 3 9 33.3 2 5 40.0 5 7 71.4 0 3 3 4 0 0 3 4 9
+p25
+aVLeBron James CLE 05/09/2010 CLE @ BOS L 43 22 7 18 38.9 0 5 0.0 8 11 72.7 1 8 9 8 2 1 7 4 -10
+p26
+aVAnthony Parker CLE 05/09/2010 CLE @ BOS L 42 10 3 7 42.9 2 5 40.0 2 2 100.0 0 3 3 2 2 0 1 3 -9
+p27
+aVLeon Powe CLE 05/09/2010 CLE @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p28
+aVJamario Moon CLE 05/09/2010 CLE @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p29
+aVAnderson Varejao CLE 05/09/2010 CLE @ BOS L 25 8 3 4 75.0 0 0 - 2 3 66.7 1 2 3 1 1 1 1 3 -9
+p30
+aVDelonte West CLE 05/09/2010 CLE @ BOS L 20 3 0 7 0.0 0 3 0.0 3 3 100.0 1 1 2 1 1 0 1 2 -18
+p31
+aVAntawn Jamison CLE 05/09/2010 CLE @ BOS L 37 14 6 12 50.0 0 3 0.0 2 2 100.0 0 6 6 3 0 1 0 4 3
+p32
+aVShaquille O'Neal CLE 05/09/2010 CLE @ BOS L 28 17 5 9 55.6 0 0 - 7 11 63.6 0 5 5 0 0 2 3 5 1
+p33
+aVDaniel Gibson CLE 05/07/2010 CLE @ BOS W 5 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 2 -2
+p34
+aVAnthony Parker CLE 05/07/2010 CLE @ BOS W 34 11 4 4 100.0 3 3 100.0 0 0 - 0 0 0 2 0 0 3 4 24
+p35
+aVAntawn Jamison CLE 05/07/2010 CLE @ BOS W 29 20 7 15 46.7 0 2 0.0 6 7 85.7 5 7 12 2 1 0 1 4 27
+p36
+aVDelonte West CLE 05/07/2010 CLE @ BOS W 29 14 5 7 71.4 0 1 0.0 4 4 100.0 0 3 3 3 1 1 4 2 15
+p37
+aVJJ Hickson CLE 05/07/2010 CLE @ BOS W 16 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 1 0 0 1 0 -3
+p38
+aVLeon Powe CLE 05/07/2010 CLE @ BOS W 5 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -2
+p39
+aVJamario Moon CLE 05/07/2010 CLE @ BOS W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 3
+p40
+aVMo Williams CLE 05/07/2010 CLE @ BOS W 34 12 4 8 50.0 0 1 0.0 4 4 100.0 0 3 3 7 0 0 0 2 20
+p41
+aVAnderson Varejao CLE 05/07/2010 CLE @ BOS W 17 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 0 0 1 0 5 11
+p42
+aVShaquille O'Neal CLE 05/07/2010 CLE @ BOS W 23 12 5 7 71.4 0 0 - 2 2 100.0 2 7 9 2 0 0 2 3 22
+p43
+aVLeBron James CLE 05/07/2010 CLE @ BOS W 39 38 14 22 63.6 2 3 66.7 8 9 88.9 2 6 8 7 1 2 1 1 30
+p44
+aVDelonte West CLE 05/03/2010 CLE vs. BOS L 31 4 1 4 25.0 0 1 0.0 2 2 100.0 1 2 3 4 0 1 2 2 -1
+p45
+aVAntawn Jamison CLE 05/03/2010 CLE vs. BOS L 36 16 6 11 54.5 2 5 40.0 2 4 50.0 1 5 6 0 0 1 2 3 -13
+p46
+aVJawad Williams CLE 05/03/2010 CLE vs. BOS L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p47
+aVDaniel Gibson CLE 05/03/2010 CLE vs. BOS L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p48
+aVJamario Moon CLE 05/03/2010 CLE vs. BOS L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p49
+aVShaquille O'Neal CLE 05/03/2010 CLE vs. BOS L 19 9 4 10 40.0 0 0 - 1 2 50.0 3 1 4 1 0 0 1 1 -18
+p50
+aVLeBron James CLE 05/03/2010 CLE vs. BOS L 41 24 7 15 46.7 0 4 0.0 10 15 66.7 0 7 7 4 3 2 5 1 -16
+p51
+aVAnthony Parker CLE 05/03/2010 CLE vs. BOS L 28 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 1 3 1 1 2 -19
+p52
+aVAnderson Varejao CLE 05/03/2010 CLE vs. BOS L 21 8 2 3 66.7 0 0 - 4 5 80.0 1 6 7 0 2 0 1 3 2
+p53
+aVMo Williams CLE 05/03/2010 CLE vs. BOS L 35 4 1 9 11.1 0 4 0.0 2 3 66.7 0 2 2 7 1 0 1 2 -16
+p54
+aVJJ Hickson CLE 05/03/2010 CLE vs. BOS L 19 13 4 6 66.7 0 0 - 5 7 71.4 0 1 1 0 0 0 2 2 -7
+p55
+aVAntawn Jamison CLE 05/01/2010 CLE vs. BOS W 37 7 2 6 33.3 0 1 0.0 3 6 50.0 1 8 9 0 1 2 2 4 11
+p56
+aVAnthony Parker CLE 05/01/2010 CLE vs. BOS W 26 2 1 3 33.3 0 1 0.0 0 0 - 0 5 5 1 2 0 0 0 0
+p57
+aVDelonte West CLE 05/01/2010 CLE vs. BOS W 27 8 4 6 66.7 0 0 - 0 0 - 0 1 1 2 0 0 3 1 -4
+p58
+aVJJ Hickson CLE 05/01/2010 CLE vs. BOS W 12 11 5 7 71.4 0 0 - 1 3 33.3 0 2 2 0 0 0 1 0 5
+p59
+aVZydrunas Ilgauskas CLE 05/01/2010 CLE vs. BOS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p60
+aVShaquille O'Neal CLE 05/01/2010 CLE vs. BOS W 20 11 4 12 33.3 0 0 - 3 4 75.0 3 1 4 0 0 0 1 5 1
+p61
+aVJamario Moon CLE 05/01/2010 CLE vs. BOS W 9 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 0 -5
+p62
+aVMo Williams CLE 05/01/2010 CLE vs. BOS W 40 20 8 14 57.1 0 3 0.0 4 5 80.0 0 5 5 6 1 0 1 3 23
+p63
+aVAnderson Varejao CLE 05/01/2010 CLE vs. BOS W 22 4 1 4 25.0 0 0 - 2 2 100.0 4 2 6 1 1 1 0 1 3
+p64
+aVLeBron James CLE 05/01/2010 CLE vs. BOS W 43 35 12 24 50.0 3 6 50.0 8 11 72.7 2 5 7 7 3 2 2 1 7
+p65
+aVShaquille O'Neal CLE 04/27/2010 CLE vs. CHI W 26 14 7 9 77.8 0 0 - 0 1 0.0 1 7 8 3 1 1 4 5 8
+p66
+aVJJ Hickson CLE 04/27/2010 CLE vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p67
+aVDelonte West CLE 04/27/2010 CLE vs. CHI W 31 16 6 11 54.5 2 5 40.0 2 2 100.0 0 2 2 4 1 0 1 2 2
+p68
+aVJamario Moon CLE 04/27/2010 CLE vs. CHI W 16 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 1 1 1 0 1 -1
+p69
+aVLeBron James CLE 04/27/2010 CLE vs. CHI W 43 19 5 12 41.7 1 2 50.0 8 14 57.1 3 7 10 9 0 2 3 1 1
+p70
+aVAnthony Parker CLE 04/27/2010 CLE vs. CHI W 19 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 2
+p71
+aVAnderson Varejao CLE 04/27/2010 CLE vs. CHI W 27 5 2 7 28.6 0 0 - 1 2 50.0 4 3 7 0 1 1 2 5 -3
+p72
+aVAntawn Jamison CLE 04/27/2010 CLE vs. CHI W 38 25 8 14 57.1 3 7 42.9 6 8 75.0 0 5 5 1 2 1 2 4 3
+p73
+aVMo Williams CLE 04/27/2010 CLE vs. CHI W 36 7 2 13 15.4 2 7 28.6 1 1 100.0 0 2 2 5 0 0 1 3 1
+p74
+aVJawad Williams CLE 04/25/2010 CLE @ CHI W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p75
+aVLeBron James CLE 04/25/2010 CLE @ CHI W 36 37 11 17 64.7 6 9 66.7 9 10 90.0 0 12 12 11 2 1 2 3 29
+p76
+aVAnthony Parker CLE 04/25/2010 CLE @ CHI W 30 12 4 7 57.1 2 3 66.7 2 3 66.7 0 1 1 2 1 0 0 0 26
+p77
+aVDelonte West CLE 04/25/2010 CLE @ CHI W 26 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 3 0 0 2 3 1
+p78
+aVAnderson Varejao CLE 04/25/2010 CLE @ CHI W 19 3 1 4 25.0 0 0 - 1 4 25.0 1 2 3 0 1 2 1 3 14
+p79
+aVShaquille O'Neal CLE 04/25/2010 CLE @ CHI W 17 6 3 7 42.9 0 0 - 0 0 - 1 6 7 0 0 1 2 5 5
+p80
+aVAntawn Jamison CLE 04/25/2010 CLE @ CHI W 37 24 9 16 56.3 1 3 33.3 5 7 71.4 2 5 7 2 0 2 0 3 33
+p81
+aVJamario Moon CLE 04/25/2010 CLE @ CHI W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 1 1 0 3 -9
+p82
+aVMo Williams CLE 04/25/2010 CLE @ CHI W 34 19 6 10 60.0 3 6 50.0 4 6 66.7 0 2 2 2 1 0 2 2 23
+p83
+aVDaniel Gibson CLE 04/25/2010 CLE @ CHI W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p84
+aVZydrunas Ilgauskas CLE 04/25/2010 CLE @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p85
+aVJJ Hickson CLE 04/25/2010 CLE @ CHI W 17 10 3 4 75.0 0 0 - 4 4 100.0 1 1 2 0 0 0 1 3 0
+p86
+aVJJ Hickson CLE 04/22/2010 CLE @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p87
+aVAntawn Jamison CLE 04/22/2010 CLE @ CHI L 37 19 7 17 41.2 1 6 16.7 4 4 100.0 4 7 11 2 0 0 1 5 -4
+p88
+aVAnthony Parker CLE 04/22/2010 CLE @ CHI L 28 8 2 7 28.6 2 6 33.3 2 3 66.7 0 6 6 1 0 0 1 2 -4
+p89
+aVJamario Moon CLE 04/22/2010 CLE @ CHI L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 1 0 0 1
+p90
+aVShaquille O'Neal CLE 04/22/2010 CLE @ CHI L 20 6 2 8 25.0 0 0 - 2 2 100.0 3 1 4 1 0 2 1 3 -5
+p91
+aVDelonte West CLE 04/22/2010 CLE @ CHI L 30 7 3 5 60.0 1 2 50.0 0 0 - 2 0 2 3 2 1 1 1 -1
+p92
+aVAnderson Varejao CLE 04/22/2010 CLE @ CHI L 20 3 0 1 0.0 0 0 - 3 4 75.0 2 4 6 2 1 0 1 6 1
+p93
+aVMo Williams CLE 04/22/2010 CLE @ CHI L 40 21 7 16 43.8 5 11 45.5 2 5 40.0 0 2 2 3 0 0 3 4 5
+p94
+aVLeBron James CLE 04/22/2010 CLE @ CHI L 44 39 14 26 53.8 4 8 50.0 7 13 53.8 2 8 10 8 2 3 5 3 5
+p95
+aVZydrunas Ilgauskas CLE 04/22/2010 CLE @ CHI L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p96
+aVAntawn Jamison CLE 04/19/2010 CLE vs. CHI W 30 14 6 12 50.0 1 3 33.3 1 1 100.0 0 4 4 3 0 0 3 3 3
+p97
+aVAnderson Varejao CLE 04/19/2010 CLE vs. CHI W 28 7 3 5 60.0 0 0 - 1 2 50.0 0 5 5 1 0 1 1 4 7
+p98
+aVZydrunas Ilgauskas CLE 04/19/2010 CLE vs. CHI W 16 3 1 2 50.0 0 0 - 1 2 50.0 3 1 4 0 0 2 0 2 5
+p99
+aVJJ Hickson CLE 04/19/2010 CLE vs. CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p100
+aVShaquille O'Neal CLE 04/19/2010 CLE vs. CHI W 15 8 2 4 50.0 0 0 - 4 4 100.0 1 6 7 1 0 0 4 4 -1
+p101
+aVLeBron James CLE 04/19/2010 CLE vs. CHI W 41 40 16 23 69.6 2 4 50.0 6 6 100.0 1 7 8 8 1 2 2 2 6
+p102
+aVAnthony Parker CLE 04/19/2010 CLE vs. CHI W 24 9 3 5 60.0 3 5 60.0 0 0 - 0 1 1 0 1 1 0 0 -2
+p103
+aVDelonte West CLE 04/19/2010 CLE vs. CHI W 27 7 3 7 42.9 0 1 0.0 1 1 100.0 0 1 1 5 0 0 1 1 12
+p104
+aVMo Williams CLE 04/19/2010 CLE vs. CHI W 38 12 2 8 25.0 0 2 0.0 8 8 100.0 0 3 3 6 0 1 0 1 6
+p105
+aVJamario Moon CLE 04/19/2010 CLE vs. CHI W 20 12 4 5 80.0 4 5 80.0 0 0 - 0 3 3 0 0 2 0 2 14
+p106
+aVMo Williams CLE 04/17/2010 CLE vs. CHI W 38 19 8 14 57.1 3 7 42.9 0 0 - 1 3 4 10 1 1 5 4 14
+p107
+aVAntawn Jamison CLE 04/17/2010 CLE vs. CHI W 32 15 7 14 50.0 1 4 25.0 0 0 - 1 9 10 0 1 3 3 3 15
+p108
+aVLeBron James CLE 04/17/2010 CLE vs. CHI W 40 24 9 19 47.4 0 1 0.0 6 7 85.7 0 6 6 5 1 4 3 2 19
+p109
+aVShaquille O'Neal CLE 04/17/2010 CLE vs. CHI W 25 12 5 9 55.6 0 0 - 2 5 40.0 3 2 5 4 0 3 3 2 6
+p110
+aVJJ Hickson CLE 04/17/2010 CLE vs. CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p111
+aVZydrunas Ilgauskas CLE 04/17/2010 CLE vs. CHI W 9 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 0 1 0
+p112
+aVJamario Moon CLE 04/17/2010 CLE vs. CHI W 7 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 0 -4
+p113
+aVDelonte West CLE 04/17/2010 CLE vs. CHI W 24 4 2 7 28.6 0 3 0.0 0 0 - 1 3 4 3 2 0 0 1 -1
+p114
+aVDaniel Gibson CLE 04/17/2010 CLE vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p115
+aVAnthony Parker CLE 04/17/2010 CLE vs. CHI W 31 9 3 8 37.5 1 6 16.7 2 3 66.7 0 2 2 4 0 0 3 1 13
+p116
+aVAnderson Varejao CLE 04/17/2010 CLE vs. CHI W 32 8 3 7 42.9 0 0 - 2 2 100.0 4 11 15 0 2 1 1 1 3
+p117
+aVJawad Williams CLE 04/17/2010 CLE vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p118
+a.

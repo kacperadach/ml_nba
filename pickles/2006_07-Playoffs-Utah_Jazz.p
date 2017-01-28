@@ -1,0 +1,344 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGordan Giricek UTA 05/30/2007 UTA @ SAS L 21 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 0 1 1 2 1 -22
+p2
+aVAndrei Kirilenko UTA 05/30/2007 UTA @ SAS L 32 13 4 11 36.4 0 1 0.0 5 6 83.3 1 4 5 2 1 1 2 2 -12
+p3
+aVRafael Araujo UTA 05/30/2007 UTA @ SAS L 13 7 2 3 66.7 0 0 - 3 8 37.5 0 4 4 0 1 0 0 2 -5
+p4
+aVMatt Harpring UTA 05/30/2007 UTA @ SAS L 20 11 4 7 57.1 0 0 - 3 6 50.0 4 0 4 1 0 0 1 3 -20
+p5
+aVDee Brown UTA 05/30/2007 UTA @ SAS L 18 3 1 5 20.0 0 1 0.0 1 2 50.0 1 1 2 2 0 0 2 0 0
+p6
+aVDerek Fisher UTA 05/30/2007 UTA @ SAS L 15 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 1 -8
+p7
+aVCarlos Boozer UTA 05/30/2007 UTA @ SAS L 29 9 3 10 30.0 0 0 - 3 4 75.0 2 10 12 4 0 0 1 4 -22
+p8
+aVMehmet Okur UTA 05/30/2007 UTA @ SAS L 24 8 3 8 37.5 0 2 0.0 2 3 66.7 2 1 3 0 1 0 0 2 -14
+p9
+aVJarron Collins UTA 05/30/2007 UTA @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p10
+aVRonnie Brewer UTA 05/30/2007 UTA @ SAS L 17 7 1 3 33.3 0 0 - 5 6 83.3 0 2 2 0 0 0 0 0 8
+p11
+aVPaul Millsap UTA 05/30/2007 UTA @ SAS L 23 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 0 0 0 1 5 -13
+p12
+aVDeron Williams UTA 05/30/2007 UTA @ SAS L 24 11 4 9 44.4 1 2 50.0 2 2 100.0 0 3 3 2 0 0 2 4 -17
+p13
+aVDerek Fisher UTA 05/28/2007 UTA vs. SAS L 38 9 2 5 40.0 0 0 - 5 5 100.0 0 2 2 2 4 0 2 6 -17
+p14
+aVGordan Giricek UTA 05/28/2007 UTA vs. SAS L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 2
+p15
+aVPaul Millsap UTA 05/28/2007 UTA vs. SAS L 17 2 1 4 25.0 0 0 - 0 0 - 2 4 6 1 0 2 1 2 -12
+p16
+aVRonnie Brewer UTA 05/28/2007 UTA vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p17
+aVMatt Harpring UTA 05/28/2007 UTA vs. SAS L 19 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 1 0 2 3 -8
+p18
+aVCarlos Boozer UTA 05/28/2007 UTA vs. SAS L 39 18 9 16 56.3 0 0 - 0 0 - 1 8 9 1 0 1 3 4 -3
+p19
+aVMehmet Okur UTA 05/28/2007 UTA vs. SAS L 36 7 3 7 42.9 1 2 50.0 0 0 - 2 3 5 1 1 0 1 6 -10
+p20
+aVDeron Williams UTA 05/28/2007 UTA vs. SAS L 38 27 11 21 52.4 0 3 0.0 5 7 71.4 0 3 3 10 3 1 5 0 -7
+p21
+aVAndrei Kirilenko UTA 05/28/2007 UTA vs. SAS L 36 9 3 7 42.9 0 1 0.0 3 4 75.0 3 5 8 1 1 4 3 2 -11
+p22
+aVJarron Collins UTA 05/28/2007 UTA vs. SAS L 4 1 0 0 - 0 0 - 1 4 25.0 0 1 1 0 0 0 0 1 1
+p23
+aVDee Brown UTA 05/28/2007 UTA vs. SAS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 5
+p24
+aVCarlos Boozer UTA 05/26/2007 UTA vs. SAS W 34 27 12 19 63.2 0 0 - 3 4 75.0 4 8 12 2 2 0 1 4 12
+p25
+aVAndrei Kirilenko UTA 05/26/2007 UTA vs. SAS W 30 2 0 2 0.0 0 0 - 2 4 50.0 0 2 2 3 0 2 0 0 17
+p26
+aVDee Brown UTA 05/26/2007 UTA vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p27
+aVDeron Williams UTA 05/26/2007 UTA vs. SAS W 38 31 10 19 52.6 4 5 80.0 7 8 87.5 0 1 1 8 5 1 2 3 19
+p28
+aVMehmet Okur UTA 05/26/2007 UTA vs. SAS W 21 0 0 3 0.0 0 0 - 0 0 - 2 2 4 2 1 1 1 5 3
+p29
+aVMatt Harpring UTA 05/26/2007 UTA vs. SAS W 22 8 4 6 66.7 0 0 - 0 3 0.0 2 2 4 2 0 0 3 1 16
+p30
+aVRafael Araujo UTA 05/26/2007 UTA vs. SAS W 2 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 3
+p31
+aVRonnie Brewer UTA 05/26/2007 UTA vs. SAS W 2 2 1 2 50.0 0 0 - 0 4 0.0 0 0 0 0 1 0 0 0 3
+p32
+aVGordan Giricek UTA 05/26/2007 UTA vs. SAS W 26 11 4 8 50.0 1 2 50.0 2 2 100.0 0 1 1 6 0 0 2 3 17
+p33
+aVPaul Millsap UTA 05/26/2007 UTA vs. SAS W 22 8 4 7 57.1 0 0 - 0 0 - 0 2 2 2 3 1 1 3 16
+p34
+aVJarron Collins UTA 05/26/2007 UTA vs. SAS W 11 7 2 3 66.7 0 0 - 3 3 100.0 1 2 3 0 0 0 0 1 8
+p35
+aVDerek Fisher UTA 05/26/2007 UTA vs. SAS W 30 11 4 8 50.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 2 5 13
+p36
+aVCarlos Boozer UTA 05/22/2007 UTA @ SAS L 42 33 14 23 60.9 0 0 - 5 7 71.4 4 11 15 3 2 0 1 3 0
+p37
+aVMehmet Okur UTA 05/22/2007 UTA @ SAS L 41 11 4 13 30.8 2 5 40.0 1 1 100.0 2 3 5 2 2 2 1 2 -11
+p38
+aVPaul Millsap UTA 05/22/2007 UTA @ SAS L 12 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 0 2 1 0 3 -4
+p39
+aVAndrei Kirilenko UTA 05/22/2007 UTA @ SAS L 38 15 5 11 45.5 0 0 - 5 7 71.4 1 2 3 3 2 1 5 3 4
+p40
+aVMatt Harpring UTA 05/22/2007 UTA @ SAS L 27 2 0 3 0.0 0 0 - 2 2 100.0 2 2 4 2 1 0 1 2 -3
+p41
+aVGordan Giricek UTA 05/22/2007 UTA @ SAS L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p42
+aVDerek Fisher UTA 05/22/2007 UTA @ SAS L 31 3 1 9 11.1 0 4 0.0 1 2 50.0 1 0 1 1 2 0 1 1 -10
+p43
+aVDeron Williams UTA 05/22/2007 UTA @ SAS L 42 26 10 19 52.6 1 2 50.0 5 8 62.5 1 3 4 10 3 0 6 3 -14
+p44
+aVDerek Fisher UTA 05/20/2007 UTA @ SAS L 38 6 1 7 14.3 0 1 0.0 4 4 100.0 1 1 2 1 1 0 0 6 -1
+p45
+aVMehmet Okur UTA 05/20/2007 UTA @ SAS L 31 10 3 15 20.0 2 7 28.6 2 2 100.0 2 4 6 1 1 2 2 3 -7
+p46
+aVRafael Araujo UTA 05/20/2007 UTA @ SAS L 9 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 7
+p47
+aVAndrei Kirilenko UTA 05/20/2007 UTA @ SAS L 29 7 3 5 60.0 1 1 100.0 0 0 - 2 3 5 2 0 0 3 5 -5
+p48
+aVMatt Harpring UTA 05/20/2007 UTA @ SAS L 22 10 3 6 50.0 0 0 - 4 4 100.0 3 0 3 1 1 1 0 1 -6
+p49
+aVCarlos Boozer UTA 05/20/2007 UTA @ SAS L 37 20 7 17 41.2 0 0 - 6 6 100.0 6 6 12 1 0 1 5 5 1
+p50
+aVGordan Giricek UTA 05/20/2007 UTA @ SAS L 13 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -5
+p51
+aVDeron Williams UTA 05/20/2007 UTA @ SAS L 42 34 13 23 56.5 2 5 40.0 6 7 85.7 1 6 7 9 1 0 1 4 -7
+p52
+aVPaul Millsap UTA 05/20/2007 UTA @ SAS L 15 7 3 7 42.9 0 0 - 1 2 50.0 4 3 7 0 0 0 3 0 -13
+p53
+aVJarron Collins UTA 05/20/2007 UTA @ SAS L 4 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 -4
+p54
+aVMatt Harpring UTA 05/15/2007 UTA vs. GSW W 19 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 3
+p55
+aVMehmet Okur UTA 05/15/2007 UTA vs. GSW W 35 14 4 10 40.0 1 5 20.0 5 6 83.3 2 8 10 2 0 1 5 4 8
+p56
+aVAndrei Kirilenko UTA 05/15/2007 UTA vs. GSW W 34 21 8 12 66.7 0 0 - 5 5 100.0 6 9 15 1 3 0 1 2 4
+p57
+aVGordan Giricek UTA 05/15/2007 UTA vs. GSW W 17 6 3 9 33.3 0 1 0.0 0 1 0.0 0 0 0 0 0 0 2 0 9
+p58
+aVPaul Millsap UTA 05/15/2007 UTA vs. GSW W 23 9 2 7 28.6 0 1 0.0 5 10 50.0 6 6 12 1 1 1 3 2 7
+p59
+aVCarlos Boozer UTA 05/15/2007 UTA vs. GSW W 38 21 9 16 56.3 0 0 - 3 5 60.0 4 10 14 2 0 0 5 1 11
+p60
+aVDee Brown UTA 05/15/2007 UTA vs. GSW W 9 2 1 4 25.0 0 2 0.0 0 2 0.0 0 0 0 2 0 0 0 0 12
+p61
+aVDerek Fisher UTA 05/15/2007 UTA vs. GSW W 30 20 7 10 70.0 4 5 80.0 2 2 100.0 0 3 3 4 0 0 4 4 7
+p62
+aVDeron Williams UTA 05/15/2007 UTA vs. GSW W 35 2 1 11 9.1 0 3 0.0 0 0 - 0 2 2 7 1 1 5 5 4
+p63
+aVMehmet Okur UTA 05/13/2007 UTA @ GSW W 26 14 3 4 75.0 1 1 100.0 7 8 87.5 2 5 7 0 1 0 2 5 11
+p64
+aVDerek Fisher UTA 05/13/2007 UTA @ GSW W 40 21 6 11 54.5 2 3 66.7 7 7 100.0 0 3 3 5 1 0 0 5 19
+p65
+aVPaul Millsap UTA 05/13/2007 UTA @ GSW W 19 8 4 5 80.0 0 0 - 0 0 - 3 3 6 1 1 0 0 4 6
+p66
+aVRonnie Brewer UTA 05/13/2007 UTA @ GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p67
+aVCarlos Boozer UTA 05/13/2007 UTA @ GSW W 44 34 13 19 68.4 0 0 - 8 11 72.7 1 11 12 2 1 1 3 3 13
+p68
+aVMatt Harpring UTA 05/13/2007 UTA @ GSW W 27 6 3 8 37.5 0 1 0.0 0 0 - 0 6 6 2 1 0 2 3 -6
+p69
+aVAndrei Kirilenko UTA 05/13/2007 UTA @ GSW W 22 12 2 5 40.0 0 0 - 8 8 100.0 3 5 8 2 0 0 1 5 6
+p70
+aVGordan Giricek UTA 05/13/2007 UTA @ GSW W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 4 1 4
+p71
+aVJarron Collins UTA 05/13/2007 UTA @ GSW W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 2
+p72
+aVDeron Williams UTA 05/13/2007 UTA @ GSW W 43 20 6 18 33.3 1 2 50.0 7 9 77.8 1 5 6 13 2 1 7 3 15
+p73
+aVDerek Fisher UTA 05/11/2007 UTA @ GSW L 16 9 1 6 16.7 0 2 0.0 7 7 100.0 0 0 0 0 1 0 2 6 -12
+p74
+aVCJ Miles UTA 05/11/2007 UTA @ GSW L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p75
+aVMatt Harpring UTA 05/11/2007 UTA @ GSW L 26 12 5 10 50.0 0 1 0.0 2 2 100.0 1 2 3 2 1 0 2 2 0
+p76
+aVAndrei Kirilenko UTA 05/11/2007 UTA @ GSW L 39 15 6 14 42.9 1 1 100.0 2 2 100.0 1 4 5 5 0 3 5 3 -15
+p77
+aVMehmet Okur UTA 05/11/2007 UTA @ GSW L 36 15 5 12 41.7 2 4 50.0 3 3 100.0 2 4 6 2 1 0 0 4 -35
+p78
+aVDeron Williams UTA 05/11/2007 UTA @ GSW L 27 14 5 12 41.7 2 4 50.0 2 3 66.7 0 4 4 6 0 0 7 4 -19
+p79
+aVGordan Giricek UTA 05/11/2007 UTA @ GSW L 21 7 2 4 50.0 1 2 50.0 2 3 66.7 0 4 4 2 0 0 3 2 -12
+p80
+aVRafael Araujo UTA 05/11/2007 UTA @ GSW L 3 0 0 2 0.0 0 0 - 0 2 0.0 2 0 2 0 0 0 0 1 2
+p81
+aVRonnie Brewer UTA 05/11/2007 UTA @ GSW L 7 6 2 2 100.0 0 0 - 2 3 66.7 1 1 2 1 0 0 0 0 -4
+p82
+aVJarron Collins UTA 05/11/2007 UTA @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p83
+aVCarlos Boozer UTA 05/11/2007 UTA @ GSW L 40 19 8 10 80.0 0 0 - 3 4 75.0 3 8 11 5 1 0 3 3 -17
+p84
+aVPaul Millsap UTA 05/11/2007 UTA @ GSW L 20 7 3 6 50.0 0 0 - 1 2 50.0 4 2 6 0 1 0 1 3 8
+p85
+aVPaul Millsap UTA 05/09/2007 UTA vs. GSW W 21 10 5 9 55.6 0 0 - 0 0 - 4 2 6 1 1 1 0 3 6
+p86
+aVDeron Williams UTA 05/09/2007 UTA vs. GSW W 37 17 6 13 46.2 1 2 50.0 4 5 80.0 1 2 3 14 1 0 3 4 11
+p87
+aVGordan Giricek UTA 05/09/2007 UTA vs. GSW W 26 10 3 5 60.0 2 2 100.0 2 2 100.0 1 0 1 1 1 0 2 2 2
+p88
+aVMatt Harpring UTA 05/09/2007 UTA vs. GSW W 28 6 3 8 37.5 0 1 0.0 0 0 - 3 4 7 2 0 0 3 3 8
+p89
+aVAndrei Kirilenko UTA 05/09/2007 UTA vs. GSW W 41 20 7 18 38.9 0 2 0.0 6 7 85.7 3 6 9 5 1 6 4 6 -9
+p90
+aVCarlos Boozer UTA 05/09/2007 UTA vs. GSW W 42 30 9 14 64.3 0 0 - 12 14 85.7 2 11 13 3 1 0 6 4 0
+p91
+aVDerek Fisher UTA 05/09/2007 UTA vs. GSW W 10 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 3 0 0 1 2 10
+p92
+aVDee Brown UTA 05/09/2007 UTA vs. GSW W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 2
+p93
+aVMehmet Okur UTA 05/09/2007 UTA vs. GSW W 43 23 9 15 60.0 3 7 42.9 2 3 66.7 4 14 18 1 1 1 2 2 14
+p94
+aVRonnie Brewer UTA 05/09/2007 UTA vs. GSW W 11 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 6
+p95
+aVDee Brown UTA 05/07/2007 UTA vs. GSW W 13 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 10
+p96
+aVRonnie Brewer UTA 05/07/2007 UTA vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p97
+aVDeron Williams UTA 05/07/2007 UTA vs. GSW W 41 31 11 21 52.4 4 7 57.1 5 7 71.4 0 5 5 8 2 0 6 5 2
+p98
+aVAndrei Kirilenko UTA 05/07/2007 UTA vs. GSW W 40 13 3 8 37.5 0 1 0.0 7 8 87.5 0 7 7 4 1 7 3 3 9
+p99
+aVCarlos Boozer UTA 05/07/2007 UTA vs. GSW W 42 17 6 15 40.0 0 0 - 5 8 62.5 10 10 20 3 3 0 5 3 3
+p100
+aVMatt Harpring UTA 05/07/2007 UTA vs. GSW W 31 21 7 11 63.6 0 0 - 7 9 77.8 3 2 5 2 0 0 1 4 4
+p101
+aVGordan Giricek UTA 05/07/2007 UTA vs. GSW W 27 5 2 10 20.0 1 5 20.0 0 0 - 1 3 4 2 0 0 1 2 -3
+p102
+aVPaul Millsap UTA 05/07/2007 UTA vs. GSW W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 1 3 -6
+p103
+aVMehmet Okur UTA 05/07/2007 UTA vs. GSW W 39 21 9 17 52.9 3 9 33.3 0 0 - 5 6 11 2 3 0 2 4 7
+p104
+aVAndrei Kirilenko UTA 05/05/2007 UTA @ HOU W 32 8 2 6 33.3 1 1 100.0 3 4 75.0 1 1 2 1 0 1 1 2 -3
+p105
+aVDeron Williams UTA 05/05/2007 UTA @ HOU W 45 20 7 13 53.8 1 3 33.3 5 6 83.3 1 1 2 14 1 0 4 3 13
+p106
+aVMatt Harpring UTA 05/05/2007 UTA @ HOU W 28 8 4 9 44.4 0 0 - 0 0 - 3 5 8 2 1 0 0 3 13
+p107
+aVMehmet Okur UTA 05/05/2007 UTA @ HOU W 41 16 7 13 53.8 2 5 40.0 0 0 - 0 11 11 1 0 0 1 4 3
+p108
+aVJarron Collins UTA 05/05/2007 UTA @ HOU W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 1
+p109
+aVGordan Giricek UTA 05/05/2007 UTA @ HOU W 12 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 4 12
+p110
+aVPaul Millsap UTA 05/05/2007 UTA @ HOU W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 3 7
+p111
+aVDerek Fisher UTA 05/05/2007 UTA @ HOU W 27 7 3 5 60.0 0 1 0.0 1 2 50.0 0 1 1 3 1 0 0 2 -23
+p112
+aVCarlos Boozer UTA 05/05/2007 UTA @ HOU W 41 35 13 23 56.5 0 0 - 9 12 75.0 4 10 14 5 1 1 4 2 -3
+p113
+aVCarlos Boozer UTA 05/03/2007 UTA vs. HOU W 39 22 9 16 56.3 0 0 - 4 5 80.0 0 9 9 3 0 1 2 2 18
+p114
+aVAndrei Kirilenko UTA 05/03/2007 UTA vs. HOU W 35 14 6 10 60.0 0 0 - 2 2 100.0 2 3 5 4 3 5 1 4 20
+p115
+aVJarron Collins UTA 05/03/2007 UTA vs. HOU W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -13
+p116
+aVDeron Williams UTA 05/03/2007 UTA vs. HOU W 39 15 6 11 54.5 1 3 33.3 2 3 66.7 0 5 5 8 0 0 2 2 19
+p117
+aVMatt Harpring UTA 05/03/2007 UTA vs. HOU W 26 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 -1
+p118
+aVDerek Fisher UTA 05/03/2007 UTA vs. HOU W 24 6 3 11 27.3 0 3 0.0 0 0 - 0 2 2 4 1 0 1 0 2
+p119
+aVGordan Giricek UTA 05/03/2007 UTA vs. HOU W 13 8 2 5 40.0 2 2 100.0 2 2 100.0 0 3 3 0 0 0 0 3 -5
+p120
+aVMehmet Okur UTA 05/03/2007 UTA vs. HOU W 40 19 5 11 45.5 4 7 57.1 5 5 100.0 1 8 9 3 3 0 3 4 25
+p121
+aVPaul Millsap UTA 05/03/2007 UTA vs. HOU W 16 8 4 4 100.0 0 0 - 0 0 - 1 2 3 0 1 1 1 2 -5
+p122
+aVGordan Giricek UTA 04/30/2007 UTA @ HOU L 19 6 2 5 40.0 2 2 100.0 0 0 - 0 2 2 2 0 1 1 0 -4
+p123
+aVCarlos Boozer UTA 04/30/2007 UTA @ HOU L 37 26 12 23 52.2 0 0 - 2 3 66.7 0 8 8 4 3 0 2 1 -7
+p124
+aVPaul Millsap UTA 04/30/2007 UTA @ HOU L 11 6 3 5 60.0 0 0 - 0 0 - 3 2 5 1 0 1 0 2 3
+p125
+aVMatt Harpring UTA 04/30/2007 UTA @ HOU L 22 7 3 7 42.9 0 1 0.0 1 2 50.0 0 4 4 2 0 1 2 1 0
+p126
+aVDerek Fisher UTA 04/30/2007 UTA @ HOU L 32 17 6 11 54.5 2 2 100.0 3 3 100.0 2 2 4 3 1 1 2 4 6
+p127
+aVDeron Williams UTA 04/30/2007 UTA @ HOU L 41 13 4 16 25.0 0 3 0.0 5 6 83.3 1 2 3 6 1 0 4 1 -10
+p128
+aVMehmet Okur UTA 04/30/2007 UTA @ HOU L 38 9 3 7 42.9 1 4 25.0 2 4 50.0 2 7 9 4 0 0 1 6 -7
+p129
+aVAndrei Kirilenko UTA 04/30/2007 UTA @ HOU L 31 8 4 5 80.0 0 0 - 0 0 - 1 3 4 5 0 3 2 1 -4
+p130
+aVJarron Collins UTA 04/30/2007 UTA @ HOU L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 3
+p131
+aVDee Brown UTA 04/28/2007 UTA vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p132
+aVRafael Araujo UTA 04/28/2007 UTA vs. HOU W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p133
+aVGordan Giricek UTA 04/28/2007 UTA vs. HOU W 16 9 3 6 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 2 2 11
+p134
+aVPaul Millsap UTA 04/28/2007 UTA vs. HOU W 17 4 2 6 33.3 0 0 - 0 0 - 3 3 6 1 0 0 0 1 -1
+p135
+aVJarron Collins UTA 04/28/2007 UTA vs. HOU W 21 3 0 2 0.0 0 0 - 3 4 75.0 2 1 3 0 0 0 0 2 0
+p136
+aVMehmet Okur UTA 04/28/2007 UTA vs. HOU W 27 16 7 13 53.8 1 6 16.7 1 2 50.0 1 5 6 1 2 1 1 3 13
+p137
+aVAndrei Kirilenko UTA 04/28/2007 UTA vs. HOU W 29 3 0 1 0.0 0 0 - 3 4 75.0 2 2 4 4 1 4 1 4 11
+p138
+aVRonnie Brewer UTA 04/28/2007 UTA vs. HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -10
+p139
+aVMatt Harpring UTA 04/28/2007 UTA vs. HOU W 25 17 5 10 50.0 0 0 - 7 9 77.8 2 4 6 1 0 0 1 3 14
+p140
+aVDerek Fisher UTA 04/28/2007 UTA vs. HOU W 27 6 1 6 16.7 0 0 - 4 5 80.0 0 1 1 6 1 1 0 2 14
+p141
+aVDeron Williams UTA 04/28/2007 UTA vs. HOU W 38 25 10 14 71.4 0 0 - 5 5 100.0 0 2 2 7 1 0 1 2 16
+p142
+aVCarlos Boozer UTA 04/28/2007 UTA vs. HOU W 33 15 7 16 43.8 0 0 - 1 2 50.0 1 9 10 1 2 0 4 4 15
+p143
+aVMehmet Okur UTA 04/26/2007 UTA vs. HOU W 36 7 2 12 16.7 0 6 0.0 3 3 100.0 1 2 3 1 4 4 1 3 -1
+p144
+aVDerek Fisher UTA 04/26/2007 UTA vs. HOU W 25 6 3 9 33.3 0 2 0.0 0 0 - 0 1 1 1 3 0 0 1 10
+p145
+aVDeron Williams UTA 04/26/2007 UTA vs. HOU W 39 11 5 18 27.8 0 5 0.0 1 1 100.0 2 5 7 8 2 0 5 2 6
+p146
+aVAndrei Kirilenko UTA 04/26/2007 UTA vs. HOU W 27 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 1 1 0 1 4 0
+p147
+aVPaul Millsap UTA 04/26/2007 UTA vs. HOU W 14 9 4 4 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 0 15
+p148
+aVMatt Harpring UTA 04/26/2007 UTA vs. HOU W 30 13 4 12 33.3 0 0 - 5 5 100.0 3 4 7 1 0 0 0 1 10
+p149
+aVCarlos Boozer UTA 04/26/2007 UTA vs. HOU W 35 22 10 18 55.6 0 0 - 2 3 66.7 5 7 12 4 0 0 1 2 1
+p150
+aVGordan Giricek UTA 04/26/2007 UTA vs. HOU W 22 10 4 9 44.4 2 2 100.0 0 0 - 0 3 3 1 0 0 2 3 14
+p151
+aVJarron Collins UTA 04/26/2007 UTA vs. HOU W 12 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 2 2 0 0 3 15
+p152
+aVPaul Millsap UTA 04/23/2007 UTA @ HOU L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p153
+aVMehmet Okur UTA 04/23/2007 UTA @ HOU L 35 4 2 9 22.2 0 2 0.0 0 0 - 4 6 10 6 1 4 1 5 -6
+p154
+aVCarlos Boozer UTA 04/23/2007 UTA @ HOU L 42 41 17 30 56.7 0 0 - 7 9 77.8 3 9 12 6 0 0 1 4 -6
+p155
+aVGordan Giricek UTA 04/23/2007 UTA @ HOU L 25 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 0 1 0 1 6 -4
+p156
+aVMatt Harpring UTA 04/23/2007 UTA @ HOU L 30 14 7 14 50.0 0 0 - 0 1 0.0 2 2 4 2 1 0 1 2 -5
+p157
+aVDeron Williams UTA 04/23/2007 UTA @ HOU L 43 15 6 13 46.2 1 3 33.3 2 2 100.0 1 6 7 7 0 0 4 3 -18
+p158
+aVDee Brown UTA 04/23/2007 UTA @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p159
+aVDerek Fisher UTA 04/23/2007 UTA @ HOU L 28 9 4 8 50.0 0 2 0.0 1 1 100.0 0 0 0 4 0 0 2 4 6
+p160
+aVJarron Collins UTA 04/23/2007 UTA @ HOU L 11 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 1 0 0 0 -1
+p161
+aVAndrei Kirilenko UTA 04/23/2007 UTA @ HOU L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 0 2 2 5 -3
+p162
+aVCarlos Boozer UTA 04/21/2007 UTA @ HOU L 39 11 4 17 23.5 0 0 - 3 6 50.0 4 8 12 1 1 0 4 3 -11
+p163
+aVDerek Fisher UTA 04/21/2007 UTA @ HOU L 34 15 6 11 54.5 2 3 66.7 1 1 100.0 0 4 4 2 0 0 1 2 -12
+p164
+aVPaul Millsap UTA 04/21/2007 UTA @ HOU L 13 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 3 3
+p165
+aVGordan Giricek UTA 04/21/2007 UTA @ HOU L 19 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 0 2 -1
+p166
+aVMatt Harpring UTA 04/21/2007 UTA @ HOU L 32 14 7 14 50.0 0 0 - 0 0 - 3 5 8 0 0 1 2 6 -3
+p167
+aVDeron Williams UTA 04/21/2007 UTA @ HOU L 43 15 7 19 36.8 0 5 0.0 1 2 50.0 0 9 9 9 3 0 4 1 -5
+p168
+aVJarron Collins UTA 04/21/2007 UTA @ HOU L 7 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -4
+p169
+aVMehmet Okur UTA 04/21/2007 UTA @ HOU L 36 6 2 14 14.3 2 7 28.6 0 2 0.0 3 6 9 1 2 0 0 3 -6
+p170
+aVAndrei Kirilenko UTA 04/21/2007 UTA @ HOU L 16 2 1 3 33.3 0 0 - 0 2 0.0 1 0 1 1 1 1 0 1 -6
+p171
+a.

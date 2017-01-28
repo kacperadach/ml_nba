@@ -1,0 +1,274 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMarcus Camby NYK 06/02/2000 NYK vs. IND L 20 0 0 2 0.0 0 0 - 0 0 - 0 6 6 0 0 0 1 2 -14
+p2
+aVAllan Houston NYK 06/02/2000 NYK vs. IND L 40 10 5 15 33.3 0 2 0.0 0 0 - 0 1 1 2 0 1 4 5 -15
+p3
+aVLarry Johnson NYK 06/02/2000 NYK vs. IND L 42 7 3 10 30.0 1 2 50.0 0 0 - 1 3 4 0 1 0 2 4 -10
+p4
+aVLatrell Sprewell NYK 06/02/2000 NYK vs. IND L 45 32 13 26 50.0 3 5 60.0 3 4 75.0 0 5 5 3 1 0 1 2 -9
+p5
+aVKurt Thomas NYK 06/02/2000 NYK vs. IND L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -2
+p6
+aVPatrick Ewing NYK 06/02/2000 NYK vs. IND L 37 18 6 15 40.0 0 0 - 6 9 66.7 3 9 12 1 2 3 4 1 -8
+p7
+aVCharlie Ward NYK 06/02/2000 NYK vs. IND L 26 6 2 3 66.7 0 1 0.0 2 2 100.0 1 3 4 6 2 0 0 6 -2
+p8
+aVChris Childs NYK 06/02/2000 NYK vs. IND L 18 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 5 0 0 1 5 -5
+p9
+aVAllan Houston NYK 05/31/2000 NYK @ IND L 44 25 10 20 50.0 3 5 60.0 2 2 100.0 0 4 4 0 1 0 2 2 0
+p10
+aVLatrell Sprewell NYK 05/31/2000 NYK @ IND L 38 10 4 14 28.6 0 2 0.0 2 2 100.0 2 5 7 3 0 1 1 1 -6
+p11
+aVPatrick Ewing NYK 05/31/2000 NYK @ IND L 29 13 5 10 50.0 0 0 - 3 5 60.0 1 6 7 1 0 1 1 4 -14
+p12
+aVCharlie Ward NYK 05/31/2000 NYK @ IND L 28 11 4 6 66.7 2 3 66.7 1 2 50.0 1 6 7 7 1 0 1 4 -2
+p13
+aVKurt Thomas NYK 05/31/2000 NYK @ IND L 22 8 4 7 57.1 0 0 - 0 0 - 2 5 7 0 0 0 0 2 -3
+p14
+aVChris Childs NYK 05/31/2000 NYK @ IND L 21 3 1 7 14.3 1 4 25.0 0 0 - 1 2 3 3 1 0 1 4 -11
+p15
+aVMarcus Camby NYK 05/31/2000 NYK @ IND L 23 5 0 3 0.0 0 0 - 5 6 83.3 1 3 4 0 1 1 0 4 -10
+p16
+aVLarry Johnson NYK 05/31/2000 NYK @ IND L 30 4 2 8 25.0 0 1 0.0 0 0 - 1 3 4 2 0 0 3 4 1
+p17
+aVKurt Thomas NYK 05/29/2000 NYK vs. IND W 34 16 6 11 54.5 0 0 - 4 4 100.0 1 4 5 3 0 2 2 3 7
+p18
+aVLarry Johnson NYK 05/29/2000 NYK vs. IND W 43 25 10 16 62.5 5 5 100.0 0 0 - 1 6 7 4 0 0 3 0 12
+p19
+aVChris Dudley NYK 05/29/2000 NYK vs. IND W 7 0 0 1 0.0 0 0 - 0 0 - 3 2 5 2 1 0 1 5 -6
+p20
+aVMarcus Camby NYK 05/29/2000 NYK vs. IND W 18 5 2 4 50.0 0 0 - 1 1 100.0 3 6 9 1 0 3 0 3 1
+p21
+aVAllan Houston NYK 05/29/2000 NYK vs. IND W 42 17 6 12 50.0 1 1 100.0 4 5 80.0 0 6 6 1 1 1 3 1 1
+p22
+aVChris Childs NYK 05/29/2000 NYK vs. IND W 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 3 -7
+p23
+aVCharlie Ward NYK 05/29/2000 NYK vs. IND W 33 16 6 13 46.2 4 6 66.7 0 2 0.0 2 4 6 7 3 0 1 3 7
+p24
+aVLatrell Sprewell NYK 05/29/2000 NYK vs. IND W 43 12 5 12 41.7 0 1 0.0 2 4 50.0 0 3 3 2 1 0 4 0 -5
+p25
+aVCharlie Ward NYK 05/27/2000 NYK vs. IND W 30 14 6 11 54.5 0 2 0.0 2 2 100.0 2 2 4 9 3 1 1 2 8
+p26
+aVKurt Thomas NYK 05/27/2000 NYK vs. IND W 26 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 1 3 -7
+p27
+aVAllan Houston NYK 05/27/2000 NYK vs. IND W 44 28 11 21 52.4 1 1 100.0 5 7 71.4 0 0 0 1 1 0 0 2 5
+p28
+aVChris Childs NYK 05/27/2000 NYK vs. IND W 18 4 1 3 33.3 0 1 0.0 2 2 100.0 0 4 4 2 0 0 0 3 -8
+p29
+aVMarcus Camby NYK 05/27/2000 NYK vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p30
+aVLatrell Sprewell NYK 05/27/2000 NYK vs. IND W 46 32 13 23 56.5 1 4 25.0 5 9 55.6 1 7 8 2 1 0 3 3 5
+p31
+aVLarry Johnson NYK 05/27/2000 NYK vs. IND W 43 14 6 11 54.5 0 0 - 2 2 100.0 0 3 3 1 2 0 1 1 1
+p32
+aVChris Dudley NYK 05/27/2000 NYK vs. IND W 24 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 0 0 0 5 15
+p33
+aVKurt Thomas NYK 05/25/2000 NYK @ IND L 27 10 5 6 83.3 0 0 - 0 0 - 4 4 8 0 0 0 1 6 -2
+p34
+aVMarcus Camby NYK 05/25/2000 NYK @ IND L 29 6 3 7 42.9 0 0 - 0 0 - 2 9 11 0 2 2 0 4 -10
+p35
+aVLarry Johnson NYK 05/25/2000 NYK @ IND L 44 25 10 17 58.8 1 5 20.0 4 6 66.7 2 5 7 2 0 1 2 5 -3
+p36
+aVLatrell Sprewell NYK 05/25/2000 NYK @ IND L 43 10 3 14 21.4 0 1 0.0 4 4 100.0 1 0 1 6 0 0 2 1 -2
+p37
+aVChris Childs NYK 05/25/2000 NYK @ IND L 27 12 4 9 44.4 1 3 33.3 3 5 60.0 0 2 2 3 1 0 1 5 -2
+p38
+aVCharlie Ward NYK 05/25/2000 NYK @ IND L 19 0 0 5 0.0 0 3 0.0 0 0 - 0 4 4 4 1 0 1 2 4
+p39
+aVJohn Wallace NYK 05/25/2000 NYK @ IND L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 0
+p40
+aVChris Dudley NYK 05/25/2000 NYK @ IND L 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -3
+p41
+aVRick Brunson NYK 05/25/2000 NYK @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p42
+aVAllan Houston NYK 05/25/2000 NYK @ IND L 28 15 6 13 46.2 0 0 - 3 3 100.0 0 7 7 1 0 0 2 5 -6
+p43
+aVPatrick Ewing NYK 05/25/2000 NYK @ IND L 6 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p44
+aVCharlie Ward NYK 05/23/2000 NYK @ IND L 35 14 5 7 71.4 2 3 66.7 2 2 100.0 0 4 4 2 1 1 0 2 -1
+p45
+aVRick Brunson NYK 05/23/2000 NYK @ IND L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -1
+p46
+aVChris Childs NYK 05/23/2000 NYK @ IND L 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 0 0 0 3 -15
+p47
+aVPatrick Ewing NYK 05/23/2000 NYK @ IND L 33 21 8 18 44.4 0 0 - 5 9 55.6 3 5 8 2 0 1 3 3 0
+p48
+aVAllan Houston NYK 05/23/2000 NYK @ IND L 40 18 8 16 50.0 2 3 66.7 0 0 - 0 2 2 4 0 0 2 3 -8
+p49
+aVKurt Thomas NYK 05/23/2000 NYK @ IND L 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -11
+p50
+aVMarcus Camby NYK 05/23/2000 NYK @ IND L 30 4 2 9 22.2 0 1 0.0 0 0 - 2 6 8 0 0 1 0 2 -3
+p51
+aVLatrell Sprewell NYK 05/23/2000 NYK @ IND L 41 22 8 19 42.1 1 3 33.3 5 6 83.3 0 5 5 3 2 0 1 0 -18
+p52
+aVLarry Johnson NYK 05/23/2000 NYK @ IND L 31 3 1 5 20.0 1 1 100.0 0 0 - 0 5 5 2 0 0 1 1 -13
+p53
+aVKurt Thomas NYK 05/21/2000 NYK @ MIA W 10 4 2 2 100.0 0 0 - 0 0 - 2 1 3 1 2 0 0 3 7
+p54
+aVPatrick Ewing NYK 05/21/2000 NYK @ MIA W 33 20 5 10 50.0 0 0 - 10 12 83.3 3 7 10 0 0 2 1 5 -3
+p55
+aVCharlie Ward NYK 05/21/2000 NYK @ MIA W 22 7 2 9 22.2 1 6 16.7 2 2 100.0 2 5 7 1 0 0 0 0 -13
+p56
+aVMarcus Camby NYK 05/21/2000 NYK @ MIA W 24 0 0 4 0.0 0 0 - 0 0 - 5 7 12 0 0 1 0 3 7
+p57
+aVLatrell Sprewell NYK 05/21/2000 NYK @ MIA W 46 24 8 20 40.0 1 1 100.0 7 7 100.0 1 4 5 5 0 1 0 0 2
+p58
+aVLarry Johnson NYK 05/21/2000 NYK @ MIA W 35 8 3 7 42.9 0 1 0.0 2 2 100.0 0 4 4 1 0 0 2 3 -9
+p59
+aVAllan Houston NYK 05/21/2000 NYK @ MIA W 42 5 2 10 20.0 0 3 0.0 1 1 100.0 0 2 2 1 0 0 2 2 0
+p60
+aVChris Childs NYK 05/21/2000 NYK @ MIA W 25 15 4 10 40.0 1 3 33.3 6 7 85.7 0 3 3 2 1 0 1 3 14
+p61
+aVChris Childs NYK 05/19/2000 NYK vs. MIA W 22 4 1 5 20.0 0 2 0.0 2 2 100.0 0 4 4 3 0 0 0 2 2
+p62
+aVAllan Houston NYK 05/19/2000 NYK vs. MIA W 40 21 8 15 53.3 2 2 100.0 3 4 75.0 0 5 5 2 0 0 2 3 -1
+p63
+aVLatrell Sprewell NYK 05/19/2000 NYK vs. MIA W 44 15 6 16 37.5 0 1 0.0 3 4 75.0 1 8 9 2 2 0 2 3 8
+p64
+aVMarcus Camby NYK 05/19/2000 NYK vs. MIA W 27 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -4
+p65
+aVLarry Johnson NYK 05/19/2000 NYK vs. MIA W 29 6 2 6 33.3 0 1 0.0 2 2 100.0 1 1 2 2 0 0 1 5 3
+p66
+aVCharlie Ward NYK 05/19/2000 NYK vs. MIA W 29 7 2 6 33.3 1 4 25.0 2 3 66.7 0 3 3 4 1 0 3 4 1
+p67
+aVPatrick Ewing NYK 05/19/2000 NYK vs. MIA W 42 15 6 17 35.3 0 0 - 3 4 75.0 5 13 18 0 2 0 2 4 6
+p68
+aVKurt Thomas NYK 05/19/2000 NYK vs. MIA W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -5
+p69
+aVAllan Houston NYK 05/17/2000 NYK @ MIA L 42 12 4 10 40.0 0 0 - 4 4 100.0 0 3 3 2 1 0 2 4 -9
+p70
+aVKurt Thomas NYK 05/17/2000 NYK @ MIA L 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -3
+p71
+aVCharlie Ward NYK 05/17/2000 NYK @ MIA L 31 12 5 9 55.6 2 5 40.0 0 0 - 0 2 2 3 0 0 1 0 4
+p72
+aVChris Dudley NYK 05/17/2000 NYK @ MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p73
+aVLatrell Sprewell NYK 05/17/2000 NYK @ MIA L 43 24 11 25 44.0 0 1 0.0 2 4 50.0 1 3 4 6 5 0 2 4 -4
+p74
+aVLarry Johnson NYK 05/17/2000 NYK @ MIA L 39 10 5 9 55.6 0 1 0.0 0 0 - 2 3 5 3 0 0 2 3 5
+p75
+aVPatrick Ewing NYK 05/17/2000 NYK @ MIA L 33 16 7 12 58.3 0 0 - 2 4 50.0 0 11 11 1 1 1 0 4 2
+p76
+aVChris Childs NYK 05/17/2000 NYK @ MIA L 17 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 -11
+p77
+aVMarcus Camby NYK 05/17/2000 NYK @ MIA L 23 2 1 6 16.7 0 0 - 0 0 - 1 3 4 1 0 0 0 6 -14
+p78
+aVPatrick Ewing NYK 05/14/2000 NYK vs. MIA W 35 12 4 12 33.3 0 0 - 4 5 80.0 4 7 11 0 1 1 2 2 9
+p79
+aVKurt Thomas NYK 05/14/2000 NYK vs. MIA W 12 4 2 5 40.0 0 0 - 0 0 - 3 1 4 1 0 0 0 2 0
+p80
+aVLarry Johnson NYK 05/14/2000 NYK vs. MIA W 35 13 4 10 40.0 1 3 33.3 4 4 100.0 2 4 6 1 2 0 0 2 11
+p81
+aVAllan Houston NYK 05/14/2000 NYK vs. MIA W 39 17 6 16 37.5 3 6 50.0 2 2 100.0 0 3 3 2 2 0 1 1 1
+p82
+aVMarcus Camby NYK 05/14/2000 NYK vs. MIA W 24 6 2 5 40.0 0 0 - 2 4 50.0 2 2 4 1 0 1 0 5 0
+p83
+aVCharlie Ward NYK 05/14/2000 NYK vs. MIA W 31 20 8 13 61.5 3 6 50.0 1 3 33.3 2 5 7 4 3 0 2 2 9
+p84
+aVChris Childs NYK 05/14/2000 NYK vs. MIA W 16 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 4 0 0 2 5 -2
+p85
+aVLatrell Sprewell NYK 05/14/2000 NYK vs. MIA W 44 16 6 15 40.0 0 1 0.0 4 4 100.0 0 1 1 6 1 0 4 2 7
+p86
+aVMarcus Camby NYK 05/12/2000 NYK vs. MIA L 32 4 1 7 14.3 0 0 - 2 2 100.0 3 2 5 1 2 6 3 5 -3
+p87
+aVLatrell Sprewell NYK 05/12/2000 NYK vs. MIA L 47 23 6 14 42.9 0 0 - 11 11 100.0 1 4 5 3 2 0 3 1 -1
+p88
+aVChris Childs NYK 05/12/2000 NYK vs. MIA L 18 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 1
+p89
+aVLarry Johnson NYK 05/12/2000 NYK vs. MIA L 34 5 1 5 20.0 1 2 50.0 2 4 50.0 0 3 3 1 0 0 2 2 0
+p90
+aVAllan Houston NYK 05/12/2000 NYK vs. MIA L 45 24 9 18 50.0 2 5 40.0 4 5 80.0 1 5 6 2 1 0 3 2 1
+p91
+aVKurt Thomas NYK 05/12/2000 NYK vs. MIA L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -2
+p92
+aVPatrick Ewing NYK 05/12/2000 NYK vs. MIA L 40 9 4 10 40.0 0 0 - 1 2 50.0 0 9 9 0 2 3 4 5 1
+p93
+aVCharlie Ward NYK 05/12/2000 NYK vs. MIA L 34 9 4 6 66.7 1 2 50.0 0 0 - 0 4 4 4 1 0 2 2 -2
+p94
+aVChris Childs NYK 05/09/2000 NYK @ MIA W 10 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 6 -1
+p95
+aVKurt Thomas NYK 05/09/2000 NYK @ MIA W 16 6 2 3 66.7 0 0 - 2 4 50.0 1 3 4 0 0 0 0 3 11
+p96
+aVPatrick Ewing NYK 05/09/2000 NYK @ MIA W 32 13 4 12 33.3 0 0 - 5 8 62.5 3 5 8 0 0 2 2 4 -6
+p97
+aVLatrell Sprewell NYK 05/09/2000 NYK @ MIA W 39 11 2 13 15.4 0 1 0.0 7 9 77.8 0 6 6 5 1 1 6 3 0
+p98
+aVLarry Johnson NYK 05/09/2000 NYK @ MIA W 40 12 4 7 57.1 0 1 0.0 4 6 66.7 1 7 8 2 0 0 1 3 2
+p99
+aVCharlie Ward NYK 05/09/2000 NYK @ MIA W 37 13 5 10 50.0 2 6 33.3 1 1 100.0 0 6 6 2 2 1 0 4 7
+p100
+aVMarcus Camby NYK 05/09/2000 NYK @ MIA W 20 10 3 8 37.5 0 0 - 4 6 66.7 2 5 7 0 0 3 1 3 7
+p101
+aVAllan Houston NYK 05/09/2000 NYK @ MIA W 43 12 3 14 21.4 0 1 0.0 6 6 100.0 1 3 4 1 3 0 1 2 10
+p102
+aVCharlie Ward NYK 05/07/2000 NYK @ MIA L 22 9 4 8 50.0 1 3 33.3 0 0 - 0 3 3 5 1 0 3 2 -6
+p103
+aVKurt Thomas NYK 05/07/2000 NYK @ MIA L 6 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 0
+p104
+aVLatrell Sprewell NYK 05/07/2000 NYK @ MIA L 39 11 4 12 33.3 0 0 - 3 4 75.0 1 2 3 1 2 2 1 1 -8
+p105
+aVPatrick Ewing NYK 05/07/2000 NYK @ MIA L 39 17 6 16 37.5 0 0 - 5 7 71.4 3 6 9 0 3 1 0 5 -6
+p106
+aVAllan Houston NYK 05/07/2000 NYK @ MIA L 40 21 8 18 44.4 1 3 33.3 4 4 100.0 0 0 0 1 1 0 5 2 -6
+p107
+aVChris Childs NYK 05/07/2000 NYK @ MIA L 25 4 2 6 33.3 0 3 0.0 0 0 - 0 3 3 6 1 0 2 1 2
+p108
+aVLarry Johnson NYK 05/07/2000 NYK @ MIA L 38 8 4 9 44.4 0 1 0.0 0 0 - 0 6 6 1 0 0 0 3 -5
+p109
+aVMarcus Camby NYK 05/07/2000 NYK @ MIA L 27 11 4 5 80.0 0 0 - 3 5 60.0 3 10 13 0 1 1 0 3 9
+p110
+aVAllan Houston NYK 04/30/2000 NYK @ TOR W 39 23 8 14 57.1 2 2 100.0 5 6 83.3 0 4 4 1 4 1 4 3 4
+p111
+aVChris Childs NYK 04/30/2000 NYK @ TOR W 27 10 3 6 50.0 2 3 66.7 2 2 100.0 0 7 7 1 0 0 1 1 9
+p112
+aVMarcus Camby NYK 04/30/2000 NYK @ TOR W 20 7 3 4 75.0 0 0 - 1 4 25.0 3 2 5 1 1 1 1 2 8
+p113
+aVKurt Thomas NYK 04/30/2000 NYK @ TOR W 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 2 5 2
+p114
+aVLarry Johnson NYK 04/30/2000 NYK @ TOR W 37 14 5 14 35.7 2 5 40.0 2 2 100.0 2 3 5 1 1 1 1 2 3
+p115
+aVPatrick Ewing NYK 04/30/2000 NYK @ TOR W 34 12 2 8 25.0 0 0 - 8 10 80.0 1 10 11 1 3 4 3 3 5
+p116
+aVLatrell Sprewell NYK 04/30/2000 NYK @ TOR W 45 11 4 11 36.4 1 4 25.0 2 4 50.0 1 3 4 6 0 0 2 2 10
+p117
+aVCharlie Ward NYK 04/30/2000 NYK @ TOR W 21 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 2 0 1 3 2 -6
+p118
+aVChris Childs NYK 04/26/2000 NYK vs. TOR W 28 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 3 1 0 2 5 9
+p119
+aVMarcus Camby NYK 04/26/2000 NYK vs. TOR W 36 9 4 14 28.6 0 0 - 1 3 33.3 7 6 13 0 1 1 2 2 14
+p120
+aVKurt Thomas NYK 04/26/2000 NYK vs. TOR W 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 3 3 -3
+p121
+aVCharlie Ward NYK 04/26/2000 NYK vs. TOR W 19 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 2 0 1 2 -8
+p122
+aVLatrell Sprewell NYK 04/26/2000 NYK vs. TOR W 45 25 8 16 50.0 2 4 50.0 7 8 87.5 1 1 2 1 0 0 1 2 3
+p123
+aVLarry Johnson NYK 04/26/2000 NYK vs. TOR W 25 11 3 7 42.9 0 1 0.0 5 6 83.3 1 4 5 1 0 0 1 6 -11
+p124
+aVPatrick Ewing NYK 04/26/2000 NYK vs. TOR W 31 19 6 11 54.5 0 0 - 7 11 63.6 1 8 9 0 1 0 2 5 5
+p125
+aVAllan Houston NYK 04/26/2000 NYK vs. TOR W 38 12 2 8 25.0 0 0 - 8 10 80.0 0 1 1 4 0 0 1 3 -4
+p126
+aVLarry Johnson NYK 04/23/2000 NYK vs. TOR W 36 15 7 11 63.6 1 3 33.3 0 0 - 1 5 6 2 2 0 1 3 -1
+p127
+aVKurt Thomas NYK 04/23/2000 NYK vs. TOR W 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 1 2 2 -3
+p128
+aVMarcus Camby NYK 04/23/2000 NYK vs. TOR W 23 4 2 4 50.0 0 0 - 0 0 - 0 5 5 1 0 2 2 5 -10
+p129
+aVChris Dudley NYK 04/23/2000 NYK vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p130
+aVLatrell Sprewell NYK 04/23/2000 NYK vs. TOR W 44 21 9 16 56.3 1 1 100.0 2 4 50.0 1 1 2 4 0 0 4 3 14
+p131
+aVChris Childs NYK 04/23/2000 NYK vs. TOR W 31 12 3 5 60.0 1 3 33.3 5 6 83.3 0 5 5 1 1 0 2 3 1
+p132
+aVAllan Houston NYK 04/23/2000 NYK vs. TOR W 40 21 7 15 46.7 2 4 50.0 5 6 83.3 1 3 4 1 4 0 2 2 4
+p133
+aVPatrick Ewing NYK 04/23/2000 NYK vs. TOR W 31 15 6 15 40.0 0 0 - 3 3 100.0 2 7 9 0 1 1 3 3 10
+p134
+aVCharlie Ward NYK 04/23/2000 NYK vs. TOR W 15 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 5 1 1 1 3 5
+p135
+aVRick Brunson NYK 04/23/2000 NYK vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p136
+a.

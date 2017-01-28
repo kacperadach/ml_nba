@@ -1,0 +1,1392 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBen Wallace DET 04/26/2012 DET vs. PHI W 23 7 3 7 42.9 0 2 0.0 1 2 50.0 3 9 12 2 1 1 2 0 -1
+p2
+aVBrandon Knight DET 04/26/2012 DET vs. PHI W 25 6 2 6 33.3 2 5 40.0 0 0 - 0 3 3 7 0 0 3 3 9
+p3
+aVCharlie Villanueva DET 04/26/2012 DET vs. PHI W 18 11 4 11 36.4 3 7 42.9 0 0 - 1 6 7 1 1 1 0 3 14
+p4
+aVRodney Stuckey DET 04/26/2012 DET vs. PHI W 27 13 5 11 45.5 0 3 0.0 3 3 100.0 0 1 1 4 0 0 3 1 15
+p5
+aVWill Bynum DET 04/26/2012 DET vs. PHI W 21 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 3 0 0 2 3 7
+p6
+aVTayshaun Prince DET 04/26/2012 DET vs. PHI W 23 7 3 7 42.9 0 3 0.0 1 1 100.0 1 1 2 2 0 1 0 0 17
+p7
+aVJonas Jerebko DET 04/26/2012 DET vs. PHI W 20 6 2 4 50.0 1 2 50.0 1 2 50.0 0 2 2 1 0 0 1 1 16
+p8
+aVJason Maxiell DET 04/26/2012 DET vs. PHI W 14 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 0 1 0 2 26
+p9
+aVVernon Macklin DET 04/26/2012 DET vs. PHI W 5 6 2 2 100.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 0 -2
+p10
+aVBen Gordon DET 04/26/2012 DET vs. PHI W 22 26 9 13 69.2 8 10 80.0 0 0 - 0 2 2 5 0 1 1 0 8
+p11
+aVAustin Daye DET 04/26/2012 DET vs. PHI W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p12
+aVDamien Wilkins DET 04/26/2012 DET vs. PHI W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p13
+aVGreg Monroe DET 04/26/2012 DET vs. PHI W 26 8 4 7 57.1 0 0 - 0 0 - 3 4 7 3 4 0 1 1 10
+p14
+aVRodney Stuckey DET 04/23/2012 DET @ IND L 20 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 2 0 2 3 -5
+p15
+aVWill Bynum DET 04/23/2012 DET @ IND L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 5 0 2 2 1 -7
+p16
+aVJason Maxiell DET 04/23/2012 DET @ IND L 30 10 4 9 44.4 0 0 - 2 4 50.0 1 6 7 1 2 2 0 3 8
+p17
+aVAustin Daye DET 04/23/2012 DET @ IND L 19 11 4 7 57.1 1 2 50.0 2 3 66.7 0 4 4 1 1 1 1 5 -4
+p18
+aVVernon Macklin DET 04/23/2012 DET @ IND L 14 6 3 6 50.0 0 0 - 0 0 - 4 2 6 0 0 1 1 1 -11
+p19
+aVBrandon Knight DET 04/23/2012 DET @ IND L 35 16 6 14 42.9 3 5 60.0 1 2 50.0 1 3 4 4 0 0 4 3 1
+p20
+aVTayshaun Prince DET 04/23/2012 DET @ IND L 30 14 5 11 45.5 1 1 100.0 3 3 100.0 1 2 3 2 1 0 0 1 -2
+p21
+aVCharlie Villanueva DET 04/23/2012 DET @ IND L 18 13 5 9 55.6 3 5 60.0 0 0 - 1 2 3 0 1 0 1 5 -14
+p22
+aVGreg Monroe DET 04/23/2012 DET @ IND L 36 18 8 15 53.3 0 0 - 2 6 33.3 7 5 12 0 1 1 5 2 5
+p23
+aVBen Gordon DET 04/23/2012 DET @ IND L 28 7 2 8 25.0 0 1 0.0 3 4 75.0 0 3 3 1 0 2 2 2 -1
+p24
+aVRodney Stuckey DET 04/22/2012 DET vs. TOR W 32 7 1 7 14.3 0 1 0.0 5 6 83.3 0 3 3 6 2 0 2 2 -1
+p25
+aVJason Maxiell DET 04/22/2012 DET vs. TOR W 19 3 1 5 20.0 0 0 - 1 4 25.0 0 3 3 0 0 2 2 2 8
+p26
+aVBrandon Knight DET 04/22/2012 DET vs. TOR W 32 19 7 17 41.2 0 3 0.0 5 6 83.3 1 2 3 2 1 0 2 2 11
+p27
+aVWill Bynum DET 04/22/2012 DET vs. TOR W 4 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 1 0 0 1 0 2
+p28
+aVJonas Jerebko DET 04/22/2012 DET vs. TOR W 22 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -1
+p29
+aVTayshaun Prince DET 04/22/2012 DET vs. TOR W 36 9 3 8 37.5 0 2 0.0 3 4 75.0 0 4 4 0 0 1 3 0 4
+p30
+aVGreg Monroe DET 04/22/2012 DET vs. TOR W 34 8 3 9 33.3 0 1 0.0 2 4 50.0 5 12 17 1 2 1 0 1 6
+p31
+aVBen Gordon DET 04/22/2012 DET vs. TOR W 28 19 6 11 54.5 1 2 50.0 6 8 75.0 0 2 2 2 0 0 1 0 -6
+p32
+aVCharlie Villanueva DET 04/22/2012 DET vs. TOR W 19 7 3 6 50.0 1 4 25.0 0 0 - 0 3 3 1 0 0 1 1 -5
+p33
+aVBen Wallace DET 04/22/2012 DET vs. TOR W 14 0 0 3 0.0 0 0 - 0 2 0.0 1 2 3 3 0 0 0 0 -3
+p34
+aVGreg Monroe DET 04/19/2012 DET vs. MIN L 28 6 3 7 42.9 0 0 - 0 0 - 2 3 5 2 2 0 2 2 -17
+p35
+aVBrandon Knight DET 04/19/2012 DET vs. MIN L 28 5 2 12 16.7 1 4 25.0 0 0 - 0 3 3 1 1 0 0 1 -18
+p36
+aVWill Bynum DET 04/19/2012 DET vs. MIN L 12 17 8 15 53.3 0 2 0.0 1 1 100.0 0 2 2 1 0 0 2 2 9
+p37
+aVJason Maxiell DET 04/19/2012 DET vs. MIN L 25 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -13
+p38
+aVVernon Macklin DET 04/19/2012 DET vs. MIN L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 3 8
+p39
+aVBen Gordon DET 04/19/2012 DET vs. MIN L 26 14 5 14 35.7 1 4 25.0 3 3 100.0 1 3 4 3 0 0 2 2 1
+p40
+aVTayshaun Prince DET 04/19/2012 DET vs. MIN L 33 18 7 17 41.2 1 3 33.3 3 5 60.0 3 2 5 3 1 1 2 1 -16
+p41
+aVJonas Jerebko DET 04/19/2012 DET vs. MIN L 16 6 2 3 66.7 2 2 100.0 0 0 - 2 4 6 1 0 0 2 2 2
+p42
+aVCharlie Villanueva DET 04/19/2012 DET vs. MIN L 23 6 2 6 33.3 2 4 50.0 0 0 - 1 11 12 0 0 0 0 5 7
+p43
+aVDamien Wilkins DET 04/19/2012 DET vs. MIN L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p44
+aVRodney Stuckey DET 04/19/2012 DET vs. MIN L 30 4 2 8 25.0 0 0 - 0 0 - 1 0 1 3 0 0 1 2 -14
+p45
+aVWalker Russell DET 04/18/2012 DET @ ATL L 12 15 5 8 62.5 1 1 100.0 4 4 100.0 1 1 2 1 1 0 2 0 3
+p46
+aVWill Bynum DET 04/18/2012 DET @ ATL L 16 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 3 0 0 1 0 -21
+p47
+aVDamien Wilkins DET 04/18/2012 DET @ ATL L 19 0 0 4 0.0 0 0 - 0 2 0.0 2 3 5 1 2 0 0 1 -7
+p48
+aVBen Gordon DET 04/18/2012 DET @ ATL L 15 8 3 11 27.3 2 6 33.3 0 0 - 1 1 2 2 0 0 1 4 -19
+p49
+aVJonas Jerebko DET 04/18/2012 DET @ ATL L 19 7 3 5 60.0 1 1 100.0 0 0 - 0 8 8 1 0 0 1 0 -4
+p50
+aVCharlie Villanueva DET 04/18/2012 DET @ ATL L 20 14 5 11 45.5 2 5 40.0 2 2 100.0 3 3 6 1 0 1 2 4 -16
+p51
+aVAustin Daye DET 04/18/2012 DET @ ATL L 30 4 1 11 9.1 0 2 0.0 2 5 40.0 1 4 5 0 0 1 0 0 -19
+p52
+aVRodney Stuckey DET 04/18/2012 DET @ ATL L 21 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 0 -13
+p53
+aVBrandon Knight DET 04/18/2012 DET @ ATL L 27 5 2 9 22.2 1 6 16.7 0 0 - 0 2 2 3 0 1 3 1 -20
+p54
+aVVernon Macklin DET 04/18/2012 DET @ ATL L 23 8 3 7 42.9 0 0 - 2 2 100.0 4 5 9 2 0 1 1 3 -8
+p55
+aVGreg Monroe DET 04/18/2012 DET @ ATL L 25 17 7 13 53.8 0 0 - 3 4 75.0 2 3 5 1 1 0 1 3 -24
+p56
+aVJason Maxiell DET 04/18/2012 DET @ ATL L 14 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -12
+p57
+aVJason Maxiell DET 04/17/2012 DET vs. CLE W 20 11 5 8 62.5 0 0 - 1 1 100.0 2 2 4 0 1 1 0 3 36
+p58
+aVBrandon Knight DET 04/17/2012 DET vs. CLE W 30 28 11 12 91.7 4 5 80.0 2 2 100.0 0 2 2 7 0 0 2 1 41
+p59
+aVWalker Russell DET 04/17/2012 DET vs. CLE W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -7
+p60
+aVGreg Monroe DET 04/17/2012 DET vs. CLE W 27 12 4 7 57.1 0 0 - 4 4 100.0 1 12 13 3 4 2 1 0 41
+p61
+aVCharlie Villanueva DET 04/17/2012 DET vs. CLE W 22 10 4 9 44.4 1 4 25.0 1 2 50.0 1 7 8 1 1 1 1 3 -3
+p62
+aVWill Bynum DET 04/17/2012 DET vs. CLE W 10 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 4 0 0 1 1 4
+p63
+aVDamien Wilkins DET 04/17/2012 DET vs. CLE W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -4
+p64
+aVJonas Jerebko DET 04/17/2012 DET vs. CLE W 21 14 5 6 83.3 1 2 50.0 3 4 75.0 2 2 4 0 1 0 3 1 1
+p65
+aVBen Wallace DET 04/17/2012 DET vs. CLE W 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 3 1 1 5
+p66
+aVTayshaun Prince DET 04/17/2012 DET vs. CLE W 30 15 6 8 75.0 1 3 33.3 2 2 100.0 0 3 3 2 1 1 1 0 41
+p67
+aVRodney Stuckey DET 04/17/2012 DET vs. CLE W 28 8 3 8 37.5 0 1 0.0 2 2 100.0 0 4 4 6 1 1 0 3 46
+p68
+aVBen Gordon DET 04/17/2012 DET vs. CLE W 16 9 3 7 42.9 0 2 0.0 3 3 100.0 0 1 1 2 0 0 1 2 1
+p69
+aVAustin Daye DET 04/17/2012 DET vs. CLE W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 2 0 0 3 -7
+p70
+aVWill Bynum DET 04/15/2012 DET vs. CHI L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p71
+aVRodney Stuckey DET 04/15/2012 DET vs. CHI L 35 32 8 19 42.1 3 5 60.0 13 18 72.2 1 3 4 1 3 0 0 1 -16
+p72
+aVDamien Wilkins DET 04/15/2012 DET vs. CHI L 18 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 1 0 0 1 14
+p73
+aVBen Gordon DET 04/15/2012 DET vs. CHI L 29 9 2 5 40.0 1 1 100.0 4 4 100.0 0 3 3 3 1 2 3 4 13
+p74
+aVTayshaun Prince DET 04/15/2012 DET vs. CHI L 35 4 2 8 25.0 0 0 - 0 0 - 0 5 5 4 2 1 3 4 -20
+p75
+aVCharlie Villanueva DET 04/15/2012 DET vs. CHI L 20 13 6 15 40.0 1 6 16.7 0 0 - 0 3 3 0 1 0 1 2 -5
+p76
+aVBrandon Knight DET 04/15/2012 DET vs. CHI L 38 13 5 10 50.0 1 1 100.0 2 2 100.0 2 3 5 7 1 0 7 2 -11
+p77
+aVBen Wallace DET 04/15/2012 DET vs. CHI L 11 0 0 0 - 0 0 - 0 0 - 2 1 3 1 1 1 0 0 0
+p78
+aVJason Maxiell DET 04/15/2012 DET vs. CHI L 33 6 3 9 33.3 0 0 - 0 0 - 2 7 9 0 0 1 2 3 -1
+p79
+aVGreg Monroe DET 04/15/2012 DET vs. CHI L 42 13 5 13 38.5 0 0 - 3 4 75.0 3 5 8 0 1 1 2 4 -5
+p80
+aVTayshaun Prince DET 04/13/2012 DET vs. MIL L 24 4 1 7 14.3 0 0 - 2 2 100.0 0 0 0 3 0 1 0 2 -27
+p81
+aVBen Wallace DET 04/13/2012 DET vs. MIL L 17 0 0 0 - 0 0 - 0 0 - 1 3 4 1 1 2 0 1 0
+p82
+aVDamien Wilkins DET 04/13/2012 DET vs. MIL L 15 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 11
+p83
+aVJonas Jerebko DET 04/13/2012 DET vs. MIL L 20 4 1 6 16.7 0 2 0.0 2 4 50.0 1 6 7 1 0 0 0 0 5
+p84
+aVJason Maxiell DET 04/13/2012 DET vs. MIL L 28 6 3 7 42.9 0 0 - 0 1 0.0 1 3 4 0 0 0 0 1 -21
+p85
+aVBrandon Knight DET 04/13/2012 DET vs. MIL L 34 25 9 16 56.3 2 4 50.0 5 5 100.0 0 5 5 8 1 0 2 1 -17
+p86
+aVWalker Russell DET 04/13/2012 DET vs. MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p87
+aVGreg Monroe DET 04/13/2012 DET vs. MIL L 31 16 8 12 66.7 0 0 - 0 0 - 4 6 10 2 1 2 2 2 -16
+p88
+aVBen Gordon DET 04/13/2012 DET vs. MIL L 31 24 8 12 66.7 1 1 100.0 7 7 100.0 0 4 4 0 0 0 1 4 3
+p89
+aVWill Bynum DET 04/13/2012 DET vs. MIL L 23 7 2 7 28.6 0 3 0.0 3 4 75.0 0 2 2 2 2 0 4 3 1
+p90
+aVRodney Stuckey DET 04/13/2012 DET vs. MIL L 16 7 3 6 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 5 3 -19
+p91
+aVAustin Daye DET 04/12/2012 DET @ CHA W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p92
+aVJonas Jerebko DET 04/12/2012 DET @ CHA W 28 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 1 0 0 2 4 -1
+p93
+aVGreg Monroe DET 04/12/2012 DET @ CHA W 26 25 11 14 78.6 0 0 - 3 4 75.0 2 9 11 4 1 1 0 3 31
+p94
+aVDamien Wilkins DET 04/12/2012 DET @ CHA W 21 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 6
+p95
+aVRodney Stuckey DET 04/12/2012 DET @ CHA W 27 9 2 7 28.6 0 2 0.0 5 5 100.0 2 0 2 7 0 0 1 3 18
+p96
+aVCharlie Villanueva DET 04/12/2012 DET @ CHA W 6 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 1 0 1 -12
+p97
+aVBen Gordon DET 04/12/2012 DET @ CHA W 16 9 1 3 33.3 1 2 50.0 6 6 100.0 0 0 0 2 0 0 1 1 3
+p98
+aVWalker Russell DET 04/12/2012 DET @ CHA W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -10
+p99
+aVJason Maxiell DET 04/12/2012 DET @ CHA W 20 17 8 8 100.0 0 0 - 1 2 50.0 3 2 5 0 0 0 2 3 27
+p100
+aVBrandon Knight DET 04/12/2012 DET @ CHA W 28 21 8 12 66.7 3 4 75.0 2 2 100.0 0 3 3 7 3 0 3 2 27
+p101
+aVWill Bynum DET 04/12/2012 DET @ CHA W 15 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 2 1 0 0 3 20
+p102
+aVBen Wallace DET 04/12/2012 DET @ CHA W 17 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 3
+p103
+aVTayshaun Prince DET 04/12/2012 DET @ CHA W 27 6 3 14 21.4 0 2 0.0 0 0 - 3 4 7 3 1 0 0 0 18
+p104
+aVJonas Jerebko DET 04/09/2012 DET @ ORL L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p105
+aVBrandon Knight DET 04/09/2012 DET @ ORL L 28 7 2 7 28.6 1 5 20.0 2 3 66.7 0 3 3 3 0 0 1 2 -22
+p106
+aVAustin Daye DET 04/09/2012 DET @ ORL L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 0 0 1 1 2 -7
+p107
+aVDamien Wilkins DET 04/09/2012 DET @ ORL L 12 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 2 -7
+p108
+aVBen Gordon DET 04/09/2012 DET @ ORL L 24 11 2 3 66.7 2 3 66.7 5 5 100.0 0 1 1 1 0 0 1 1 -15
+p109
+aVRodney Stuckey DET 04/09/2012 DET @ ORL L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -20
+p110
+aVJason Maxiell DET 04/09/2012 DET @ ORL L 27 6 3 9 33.3 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -14
+p111
+aVTayshaun Prince DET 04/09/2012 DET @ ORL L 33 21 7 15 46.7 1 4 25.0 6 6 100.0 2 6 8 1 2 0 1 0 -14
+p112
+aVWill Bynum DET 04/09/2012 DET @ ORL L 14 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 5 0 0 0 2 -9
+p113
+aVBen Wallace DET 04/09/2012 DET @ ORL L 19 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 0 1 0 1 2 -13
+p114
+aVWalker Russell DET 04/09/2012 DET @ ORL L 6 5 2 3 66.7 0 0 - 1 3 33.3 0 1 1 1 1 0 3 0 1
+p115
+aVCharlie Villanueva DET 04/09/2012 DET @ ORL L 19 10 4 11 36.4 2 5 40.0 0 0 - 2 2 4 1 2 0 0 1 -2
+p116
+aVGreg Monroe DET 04/09/2012 DET @ ORL L 23 9 2 6 33.3 0 0 - 5 5 100.0 2 3 5 0 0 1 2 3 -18
+p117
+aVDamien Wilkins DET 04/08/2012 DET @ MIA L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -7
+p118
+aVRodney Stuckey DET 04/08/2012 DET @ MIA L 27 11 4 13 30.8 0 5 0.0 3 5 60.0 1 1 2 0 1 0 2 4 -16
+p119
+aVBrandon Knight DET 04/08/2012 DET @ MIA L 29 16 6 12 50.0 2 4 50.0 2 4 50.0 0 5 5 1 1 1 2 1 -15
+p120
+aVBen Wallace DET 04/08/2012 DET @ MIA L 17 0 0 0 - 0 0 - 0 0 - 2 3 5 0 1 1 1 2 0
+p121
+aVJason Maxiell DET 04/08/2012 DET @ MIA L 24 7 2 6 33.3 0 0 - 3 4 75.0 4 1 5 0 0 0 2 2 -20
+p122
+aVTayshaun Prince DET 04/08/2012 DET @ MIA L 29 8 4 12 33.3 0 2 0.0 0 0 - 2 5 7 1 0 0 1 3 -19
+p123
+aVJonas Jerebko DET 04/08/2012 DET @ MIA L 23 3 1 6 16.7 0 2 0.0 1 2 50.0 1 3 4 1 1 0 1 5 -6
+p124
+aVGreg Monroe DET 04/08/2012 DET @ MIA L 26 11 5 8 62.5 0 0 - 1 2 50.0 3 4 7 1 1 1 2 2 -21
+p125
+aVWill Bynum DET 04/08/2012 DET @ MIA L 18 6 1 4 25.0 0 0 - 4 4 100.0 1 4 5 1 0 0 4 2 -8
+p126
+aVAustin Daye DET 04/08/2012 DET @ MIA L 13 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 2 2 1
+p127
+aVBen Gordon DET 04/08/2012 DET @ MIA L 22 9 3 6 50.0 1 4 25.0 2 2 100.0 2 1 3 2 1 0 2 1 -4
+p128
+aVBrandon Knight DET 04/06/2012 DET @ ATL L 20 13 5 8 62.5 2 4 50.0 1 1 100.0 0 0 0 2 0 0 2 2 -13
+p129
+aVTayshaun Prince DET 04/06/2012 DET @ ATL L 32 10 4 9 44.4 1 2 50.0 1 2 50.0 0 5 5 2 0 2 1 4 -30
+p130
+aVWill Bynum DET 04/06/2012 DET @ ATL L 26 15 7 12 58.3 1 3 33.3 0 0 - 0 4 4 1 2 1 3 2 12
+p131
+aVRodney Stuckey DET 04/06/2012 DET @ ATL L 29 27 8 22 36.4 2 3 66.7 9 11 81.8 3 0 3 3 0 1 1 2 7
+p132
+aVJonas Jerebko DET 04/06/2012 DET @ ATL L 28 10 4 9 44.4 1 1 100.0 1 1 100.0 2 1 3 0 0 2 1 4 5
+p133
+aVBen Wallace DET 04/06/2012 DET @ ATL L 17 0 0 1 0.0 0 0 - 0 0 - 2 5 7 1 0 0 0 0 11
+p134
+aVJason Maxiell DET 04/06/2012 DET @ ATL L 20 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 1 2 3 -10
+p135
+aVGreg Monroe DET 04/06/2012 DET @ ATL L 31 8 3 7 42.9 0 0 - 2 6 33.3 1 7 8 4 0 0 4 4 -16
+p136
+aVDamien Wilkins DET 04/06/2012 DET @ ATL L 18 5 2 3 66.7 0 1 0.0 1 1 100.0 0 3 3 1 1 1 0 3 21
+p137
+aVBen Gordon DET 04/06/2012 DET @ ATL L 18 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 4 -12
+p138
+aVDamien Wilkins DET 04/05/2012 DET vs. WAS W 16 7 3 5 60.0 0 0 - 1 4 25.0 1 2 3 0 0 0 0 0 3
+p139
+aVBen Gordon DET 04/05/2012 DET vs. WAS W 35 13 6 14 42.9 0 1 0.0 1 2 50.0 0 3 3 2 0 0 4 3 -1
+p140
+aVBrandon Knight DET 04/05/2012 DET vs. WAS W 28 6 2 8 25.0 2 4 50.0 0 0 - 1 2 3 1 1 0 4 3 0
+p141
+aVWill Bynum DET 04/05/2012 DET vs. WAS W 14 1 0 2 0.0 0 1 0.0 1 1 100.0 0 0 0 1 2 0 1 2 3
+p142
+aVBen Wallace DET 04/05/2012 DET vs. WAS W 27 5 0 0 - 0 0 - 5 10 50.0 2 6 8 3 2 1 1 1 -1
+p143
+aVJonas Jerebko DET 04/05/2012 DET vs. WAS W 20 9 3 5 60.0 1 2 50.0 2 2 100.0 0 3 3 0 1 1 3 0 12
+p144
+aVTayshaun Prince DET 04/05/2012 DET vs. WAS W 32 14 5 11 45.5 1 1 100.0 3 4 75.0 0 2 2 3 0 0 3 1 2
+p145
+aVGreg Monroe DET 04/05/2012 DET vs. WAS W 21 18 7 10 70.0 0 0 - 4 6 66.7 2 5 7 1 0 0 2 3 6
+p146
+aVJason Maxiell DET 04/05/2012 DET vs. WAS W 28 11 4 6 66.7 0 0 - 3 6 50.0 5 6 11 2 1 0 0 4 -7
+p147
+aVRodney Stuckey DET 04/05/2012 DET vs. WAS W 19 15 6 7 85.7 0 1 0.0 3 4 75.0 0 0 0 3 0 0 1 6 8
+p148
+aVBen Gordon DET 04/03/2012 DET vs. ORL W 35 18 7 13 53.8 1 3 33.3 3 3 100.0 2 4 6 7 2 0 3 4 -1
+p149
+aVJonas Jerebko DET 04/03/2012 DET vs. ORL W 21 13 5 8 62.5 1 2 50.0 2 2 100.0 1 4 5 0 1 0 0 1 2
+p150
+aVJason Maxiell DET 04/03/2012 DET vs. ORL W 25 15 7 11 63.6 0 0 - 1 2 50.0 3 4 7 2 1 2 2 4 4
+p151
+aVTayshaun Prince DET 04/03/2012 DET vs. ORL W 34 15 7 12 58.3 0 1 0.0 1 2 50.0 2 4 6 3 1 0 1 0 1
+p152
+aVBen Wallace DET 04/03/2012 DET vs. ORL W 14 0 0 1 0.0 0 0 - 0 0 - 0 6 6 1 0 2 1 1 -3
+p153
+aVDamien Wilkins DET 04/03/2012 DET vs. ORL W 17 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 7
+p154
+aVBrandon Knight DET 04/03/2012 DET vs. ORL W 42 11 5 12 41.7 1 4 25.0 0 0 - 0 1 1 4 0 0 2 1 14
+p155
+aVGreg Monroe DET 04/03/2012 DET vs. ORL W 34 22 9 11 81.8 0 0 - 4 8 50.0 4 7 11 3 1 1 2 3 10
+p156
+aVWill Bynum DET 04/03/2012 DET vs. ORL W 19 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 5 0 0 3 1 1
+p157
+aVWill Bynum DET 03/31/2012 DET vs. CHA W 24 17 5 9 55.6 1 2 50.0 6 9 66.7 1 1 2 2 0 0 2 3 5
+p158
+aVBen Wallace DET 03/31/2012 DET vs. CHA W 16 2 1 1 100.0 0 0 - 0 2 0.0 2 4 6 0 0 1 2 0 0
+p159
+aVAustin Daye DET 03/31/2012 DET vs. CHA W 20 5 1 3 33.3 0 0 - 3 3 100.0 0 2 2 0 2 0 1 4 2
+p160
+aVJonas Jerebko DET 03/31/2012 DET vs. CHA W 26 18 8 11 72.7 1 2 50.0 1 1 100.0 2 3 5 3 1 0 0 2 10
+p161
+aVJason Maxiell DET 03/31/2012 DET vs. CHA W 27 6 3 6 50.0 0 0 - 0 0 - 2 2 4 2 1 2 0 1 -7
+p162
+aVWalker Russell DET 03/31/2012 DET vs. CHA W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p163
+aVTayshaun Prince DET 03/31/2012 DET vs. CHA W 39 24 11 21 52.4 0 0 - 2 2 100.0 3 6 9 4 0 0 1 3 4
+p164
+aVDamien Wilkins DET 03/31/2012 DET vs. CHA W 25 8 4 7 57.1 0 1 0.0 0 0 - 1 3 4 0 0 0 3 1 -2
+p165
+aVBrandon Knight DET 03/31/2012 DET vs. CHA W 43 12 5 15 33.3 2 5 40.0 0 0 - 1 4 5 6 2 0 4 3 6
+p166
+aVGreg Monroe DET 03/31/2012 DET vs. CHA W 37 16 6 13 46.2 0 0 - 4 5 80.0 3 6 9 2 2 1 3 3 3
+p167
+aVGreg Monroe DET 03/30/2012 DET @ CHI L 35 14 7 13 53.8 0 0 - 0 0 - 5 5 10 5 2 0 0 3 -6
+p168
+aVAustin Daye DET 03/30/2012 DET @ CHI L 33 11 5 14 35.7 1 2 50.0 0 0 - 0 2 2 1 3 2 2 4 -11
+p169
+aVBrandon Knight DET 03/30/2012 DET @ CHI L 38 16 7 18 38.9 2 7 28.6 0 0 - 1 0 1 1 1 2 3 3 -11
+p170
+aVJason Maxiell DET 03/30/2012 DET @ CHI L 29 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 1 0 0 2 4 -9
+p171
+aVJonas Jerebko DET 03/30/2012 DET @ CHI L 19 5 1 6 16.7 0 1 0.0 3 3 100.0 5 1 6 1 0 0 0 0 -3
+p172
+aVTayshaun Prince DET 03/30/2012 DET @ CHI L 38 14 6 14 42.9 0 1 0.0 2 2 100.0 0 2 2 6 0 0 1 0 -9
+p173
+aVWill Bynum DET 03/30/2012 DET @ CHI L 12 0 0 8 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 3 0
+p174
+aVDamien Wilkins DET 03/30/2012 DET @ CHI L 23 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 1 0 1 2 -5
+p175
+aVBen Wallace DET 03/30/2012 DET @ CHI L 13 2 1 2 50.0 0 0 - 0 0 - 3 2 5 0 1 0 1 0 -6
+p176
+aVRodney Stuckey DET 03/28/2012 DET @ CLE W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 1 0 0 0 -4
+p177
+aVAustin Daye DET 03/28/2012 DET @ CLE W 29 8 3 7 42.9 1 4 25.0 1 2 50.0 1 1 2 2 2 2 1 1 16
+p178
+aVJonas Jerebko DET 03/28/2012 DET @ CLE W 15 3 0 2 0.0 0 1 0.0 3 4 75.0 0 4 4 0 1 0 1 4 5
+p179
+aVBrandon Knight DET 03/28/2012 DET @ CLE W 38 16 7 15 46.7 2 3 66.7 0 0 - 0 4 4 5 0 0 3 1 14
+p180
+aVWill Bynum DET 03/28/2012 DET @ CLE W 20 8 3 9 33.3 0 1 0.0 2 2 100.0 0 3 3 1 1 0 1 1 -4
+p181
+aVTayshaun Prince DET 03/28/2012 DET @ CLE W 37 29 11 21 52.4 4 4 100.0 3 4 75.0 1 7 8 3 0 0 0 1 19
+p182
+aVJason Maxiell DET 03/28/2012 DET @ CLE W 33 12 6 9 66.7 0 0 - 0 0 - 4 5 9 1 0 3 1 2 7
+p183
+aVGreg Monroe DET 03/28/2012 DET @ CLE W 32 8 4 13 30.8 0 0 - 0 2 0.0 3 7 10 2 2 2 3 3 6
+p184
+aVDamien Wilkins DET 03/28/2012 DET @ CLE W 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 0 0 0 0 -5
+p185
+aVBen Wallace DET 03/28/2012 DET @ CLE W 16 1 0 1 0.0 0 0 - 1 2 50.0 3 3 6 0 0 4 0 0 6
+p186
+aVBrandon Knight DET 03/26/2012 DET @ WAS W 36 8 3 13 23.1 0 2 0.0 2 4 50.0 3 3 6 7 3 0 1 1 3
+p187
+aVJonas Jerebko DET 03/26/2012 DET @ WAS W 31 9 3 5 60.0 0 1 0.0 3 3 100.0 3 9 12 0 1 0 1 2 5
+p188
+aVDamien Wilkins DET 03/26/2012 DET @ WAS W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -4
+p189
+aVBen Wallace DET 03/26/2012 DET @ WAS W 24 5 2 2 100.0 0 0 - 1 4 25.0 3 4 7 0 0 1 0 3 6
+p190
+aVRodney Stuckey DET 03/26/2012 DET @ WAS W 35 24 9 20 45.0 2 6 33.3 4 5 80.0 1 1 2 0 0 1 4 4 -2
+p191
+aVWill Bynum DET 03/26/2012 DET @ WAS W 18 5 2 7 28.6 0 0 - 1 1 100.0 0 2 2 0 1 0 3 4 2
+p192
+aVGreg Monroe DET 03/26/2012 DET @ WAS W 24 10 3 4 75.0 0 0 - 4 4 100.0 2 8 10 2 2 1 5 5 -4
+p193
+aVAustin Daye DET 03/26/2012 DET @ WAS W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 2
+p194
+aVTayshaun Prince DET 03/26/2012 DET @ WAS W 36 18 6 15 40.0 1 3 33.3 5 6 83.3 1 2 3 2 0 0 1 1 4
+p195
+aVBen Gordon DET 03/26/2012 DET @ WAS W 6 0 0 4 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 0 1
+p196
+aVJason Maxiell DET 03/26/2012 DET @ WAS W 17 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -3
+p197
+aVTayshaun Prince DET 03/24/2012 DET @ NYK L 29 6 2 10 20.0 0 3 0.0 2 3 66.7 0 1 1 3 1 1 1 2 -17
+p198
+aVWalker Russell DET 03/24/2012 DET @ NYK L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 4 1 0 4 2 -7
+p199
+aVJason Maxiell DET 03/24/2012 DET @ NYK L 22 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 4 -10
+p200
+aVBen Gordon DET 03/24/2012 DET @ NYK L 32 20 7 13 53.8 4 8 50.0 2 2 100.0 0 1 1 2 2 1 0 2 -12
+p201
+aVGreg Monroe DET 03/24/2012 DET @ NYK L 29 12 5 10 50.0 0 0 - 2 2 100.0 2 3 5 0 1 0 2 2 -2
+p202
+aVBrandon Knight DET 03/24/2012 DET @ NYK L 32 9 4 11 36.4 1 3 33.3 0 0 - 0 3 3 2 2 0 6 1 -15
+p203
+aVBen Wallace DET 03/24/2012 DET @ NYK L 19 0 0 1 0.0 0 0 - 0 2 0.0 4 3 7 0 1 1 1 3 -20
+p204
+aVJonas Jerebko DET 03/24/2012 DET @ NYK L 20 8 2 5 40.0 0 0 - 4 4 100.0 0 0 0 0 2 1 0 2 -9
+p205
+aVAustin Daye DET 03/24/2012 DET @ NYK L 16 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 1 0 0 0 0 -10
+p206
+aVDamien Wilkins DET 03/24/2012 DET @ NYK L 19 8 2 6 33.3 0 0 - 4 6 66.7 0 3 3 0 2 0 0 1 -5
+p207
+aVCharlie Villanueva DET 03/24/2012 DET @ NYK L 6 5 1 6 16.7 0 2 0.0 3 3 100.0 0 1 1 0 0 1 1 0 -3
+p208
+aVWill Bynum DET 03/23/2012 DET vs. MIA L 24 6 1 5 20.0 0 1 0.0 4 4 100.0 0 0 0 6 2 0 1 4 -1
+p209
+aVBen Wallace DET 03/23/2012 DET vs. MIA L 25 2 1 4 25.0 0 0 - 0 2 0.0 3 3 6 2 4 1 3 1 3
+p210
+aVBen Gordon DET 03/23/2012 DET vs. MIA L 31 10 4 10 40.0 0 4 0.0 2 3 66.7 0 4 4 1 2 0 7 3 -23
+p211
+aVTayshaun Prince DET 03/23/2012 DET vs. MIA L 33 11 5 12 41.7 1 3 33.3 0 0 - 1 5 6 1 0 1 4 1 -8
+p212
+aVJason Maxiell DET 03/23/2012 DET vs. MIA L 27 0 0 6 0.0 0 0 - 0 2 0.0 2 5 7 0 1 0 0 1 -6
+p213
+aVGreg Monroe DET 03/23/2012 DET vs. MIA L 23 5 2 5 40.0 0 0 - 1 1 100.0 3 3 6 3 0 0 3 1 -18
+p214
+aVBrandon Knight DET 03/23/2012 DET vs. MIA L 26 18 6 12 50.0 4 4 100.0 2 4 50.0 0 1 1 2 0 0 3 4 -16
+p215
+aVDamien Wilkins DET 03/23/2012 DET vs. MIA L 22 9 4 9 44.4 1 1 100.0 0 0 - 1 3 4 1 0 0 0 2 3
+p216
+aVJonas Jerebko DET 03/23/2012 DET vs. MIA L 21 6 3 8 37.5 0 2 0.0 0 1 0.0 0 3 3 0 1 0 0 1 -9
+p217
+aVAustin Daye DET 03/23/2012 DET vs. MIA L 8 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 0
+p218
+aVBrandon Knight DET 03/21/2012 DET @ DEN L 33 16 6 9 66.7 2 4 50.0 2 4 50.0 0 0 0 4 1 0 2 1 -12
+p219
+aVBen Gordon DET 03/21/2012 DET @ DEN L 41 45 13 22 59.1 9 9 100.0 10 11 90.9 0 0 0 8 2 0 2 5 10
+p220
+aVJonas Jerebko DET 03/21/2012 DET @ DEN L 26 12 4 8 50.0 1 1 100.0 3 3 100.0 2 4 6 2 0 0 0 1 -3
+p221
+aVDamien Wilkins DET 03/21/2012 DET @ DEN L 19 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 2 1 1 1 2 -4
+p222
+aVJason Maxiell DET 03/21/2012 DET @ DEN L 22 7 3 6 50.0 0 0 - 1 2 50.0 0 3 3 1 1 1 2 2 2
+p223
+aVBen Wallace DET 03/21/2012 DET @ DEN L 19 1 0 0 - 0 0 - 1 4 25.0 1 3 4 0 3 0 0 2 9
+p224
+aVWill Bynum DET 03/21/2012 DET @ DEN L 22 10 4 11 36.4 0 0 - 2 3 66.7 1 2 3 6 2 0 1 2 0
+p225
+aVTayshaun Prince DET 03/21/2012 DET @ DEN L 29 6 2 9 22.2 2 4 50.0 0 0 - 1 1 2 1 0 2 0 2 1
+p226
+aVGreg Monroe DET 03/21/2012 DET @ DEN L 29 13 6 9 66.7 0 0 - 1 2 50.0 2 9 11 2 3 1 3 0 -8
+p227
+aVJason Maxiell DET 03/18/2012 DET @ LAC L 17 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 0 0 5 -3
+p228
+aVGreg Monroe DET 03/18/2012 DET @ LAC L 37 23 6 11 54.5 0 0 - 11 13 84.6 5 10 15 1 0 1 2 4 -10
+p229
+aVTayshaun Prince DET 03/18/2012 DET @ LAC L 41 20 9 17 52.9 1 2 50.0 1 2 50.0 2 5 7 1 0 2 2 1 -10
+p230
+aVBen Wallace DET 03/18/2012 DET @ LAC L 17 0 0 2 0.0 0 0 - 0 0 - 2 5 7 0 0 2 1 2 8
+p231
+aVBrandon Knight DET 03/18/2012 DET @ LAC L 40 6 3 14 21.4 0 7 0.0 0 0 - 0 1 1 2 1 0 4 4 -13
+p232
+aVRodney Stuckey DET 03/18/2012 DET @ LAC L 36 7 1 8 12.5 1 3 33.3 4 4 100.0 0 1 1 5 1 0 2 0 1
+p233
+aVDamien Wilkins DET 03/18/2012 DET @ LAC L 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 2 0 0 4
+p234
+aVBen Gordon DET 03/18/2012 DET @ LAC L 37 7 3 11 27.3 0 2 0.0 1 2 50.0 0 5 5 5 0 0 5 3 -4
+p235
+aVJonas Jerebko DET 03/18/2012 DET @ LAC L 29 14 6 11 54.5 0 2 0.0 2 2 100.0 2 6 8 1 1 1 1 1 7
+p236
+aVRodney Stuckey DET 03/16/2012 DET @ PHX L 38 23 7 13 53.8 2 4 50.0 7 8 87.5 1 2 3 8 1 0 3 3 -3
+p237
+aVBen Gordon DET 03/16/2012 DET @ PHX L 21 6 2 3 66.7 1 1 100.0 1 1 100.0 0 2 2 3 2 0 0 2 -6
+p238
+aVDamien Wilkins DET 03/16/2012 DET @ PHX L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 2 0 0 2 3
+p239
+aVBrandon Knight DET 03/16/2012 DET @ PHX L 38 17 6 16 37.5 4 8 50.0 1 2 50.0 0 3 3 6 0 1 2 2 -11
+p240
+aVGreg Monroe DET 03/16/2012 DET @ PHX L 27 8 3 7 42.9 0 0 - 2 4 50.0 3 6 9 2 0 2 5 1 -4
+p241
+aVJason Maxiell DET 03/16/2012 DET @ PHX L 26 12 6 10 60.0 0 0 - 0 0 - 0 4 4 0 0 0 0 0 -12
+p242
+aVTayshaun Prince DET 03/16/2012 DET @ PHX L 38 12 6 16 37.5 0 1 0.0 0 0 - 2 4 6 2 0 0 3 3 -11
+p243
+aVBen Wallace DET 03/16/2012 DET @ PHX L 21 10 5 5 100.0 0 0 - 0 1 0.0 1 1 2 2 0 0 0 1 -4
+p244
+aVJonas Jerebko DET 03/16/2012 DET @ PHX L 22 11 4 5 80.0 1 1 100.0 2 2 100.0 1 1 2 0 1 0 2 2 8
+p245
+aVJason Maxiell DET 03/14/2012 DET @ SAC W 29 9 4 6 66.7 0 0 - 1 1 100.0 0 5 5 0 0 0 0 4 17
+p246
+aVRodney Stuckey DET 03/14/2012 DET @ SAC W 42 35 10 18 55.6 4 6 66.7 11 12 91.7 1 4 5 6 0 0 1 0 23
+p247
+aVBen Gordon DET 03/14/2012 DET @ SAC W 17 6 2 4 50.0 1 1 100.0 1 2 50.0 0 0 0 1 1 0 3 0 -9
+p248
+aVDamien Wilkins DET 03/14/2012 DET @ SAC W 15 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -17
+p249
+aVGreg Monroe DET 03/14/2012 DET @ SAC W 35 32 15 20 75.0 0 0 - 2 3 66.7 6 5 11 3 0 0 2 4 15
+p250
+aVJonas Jerebko DET 03/14/2012 DET @ SAC W 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 4 -6
+p251
+aVBrandon Knight DET 03/14/2012 DET @ SAC W 38 10 5 10 50.0 0 3 0.0 0 0 - 0 5 5 11 2 0 0 2 14
+p252
+aVBen Wallace DET 03/14/2012 DET @ SAC W 13 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 1 0 0 1 -3
+p253
+aVTayshaun Prince DET 03/14/2012 DET @ SAC W 37 28 12 20 60.0 3 3 100.0 1 2 50.0 1 4 5 7 1 2 2 3 26
+p254
+aVDamien Wilkins DET 03/12/2012 DET @ UTA L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p255
+aVBrandon Knight DET 03/12/2012 DET @ UTA L 32 11 4 12 33.3 2 5 40.0 1 3 33.3 0 2 2 3 1 0 4 4 -15
+p256
+aVBen Gordon DET 03/12/2012 DET @ UTA L 28 12 5 10 50.0 0 4 0.0 2 2 100.0 0 2 2 1 0 0 1 3 -9
+p257
+aVJonas Jerebko DET 03/12/2012 DET @ UTA L 19 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 1 1 0 1 1 -3
+p258
+aVJason Maxiell DET 03/12/2012 DET @ UTA L 28 8 3 7 42.9 0 0 - 2 2 100.0 2 2 4 1 0 3 2 2 -6
+p259
+aVGreg Monroe DET 03/12/2012 DET @ UTA L 29 14 5 12 41.7 0 0 - 4 8 50.0 1 4 5 5 2 1 1 3 -10
+p260
+aVTayshaun Prince DET 03/12/2012 DET @ UTA L 34 9 4 6 66.7 0 0 - 1 2 50.0 0 3 3 0 0 1 2 0 -13
+p261
+aVRodney Stuckey DET 03/12/2012 DET @ UTA L 37 29 10 17 58.8 0 1 0.0 9 11 81.8 1 3 4 7 2 0 1 4 -12
+p262
+aVBen Wallace DET 03/12/2012 DET @ UTA L 19 0 0 0 - 0 0 - 0 0 - 1 4 5 0 1 0 0 1 -5
+p263
+aVGreg Monroe DET 03/10/2012 DET vs. TOR W 24 11 3 4 75.0 0 0 - 5 5 100.0 0 5 5 0 0 1 2 2 21
+p264
+aVBen Wallace DET 03/10/2012 DET vs. TOR W 21 2 0 1 0.0 0 0 - 2 2 100.0 2 6 8 2 1 0 0 2 1
+p265
+aVCharlie Villanueva DET 03/10/2012 DET vs. TOR W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p266
+aVBrandon Knight DET 03/10/2012 DET vs. TOR W 33 19 7 13 53.8 3 7 42.9 2 4 50.0 1 3 4 7 1 0 3 3 16
+p267
+aVAustin Daye DET 03/10/2012 DET vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p268
+aVDamien Wilkins DET 03/10/2012 DET vs. TOR W 19 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 1 2 1 1 2 -5
+p269
+aVJason Maxiell DET 03/10/2012 DET vs. TOR W 25 12 6 10 60.0 0 0 - 0 2 0.0 2 5 7 0 1 1 0 2 20
+p270
+aVRodney Stuckey DET 03/10/2012 DET vs. TOR W 34 20 8 12 66.7 1 3 33.3 3 4 75.0 1 3 4 8 2 0 3 3 21
+p271
+aVWalker Russell DET 03/10/2012 DET vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p272
+aVTayshaun Prince DET 03/10/2012 DET vs. TOR W 26 10 4 8 50.0 2 2 100.0 0 0 - 0 2 2 2 0 0 0 3 27
+p273
+aVJonas Jerebko DET 03/10/2012 DET vs. TOR W 23 13 4 10 40.0 1 4 25.0 4 4 100.0 1 5 6 1 0 1 3 4 -1
+p274
+aVBen Gordon DET 03/10/2012 DET vs. TOR W 19 8 4 7 57.1 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 7
+p275
+aVWill Bynum DET 03/10/2012 DET vs. TOR W 6 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 2 0 1 0 -3
+p276
+aVTayshaun Prince DET 03/09/2012 DET vs. ATL W 32 17 7 14 50.0 1 2 50.0 2 2 100.0 1 4 5 2 0 0 3 0 -3
+p277
+aVBen Gordon DET 03/09/2012 DET vs. ATL W 24 3 1 7 14.3 0 1 0.0 1 1 100.0 0 2 2 3 0 0 3 0 2
+p278
+aVGreg Monroe DET 03/09/2012 DET vs. ATL W 35 20 10 14 71.4 0 0 - 0 2 0.0 1 6 7 2 0 1 6 4 6
+p279
+aVDamien Wilkins DET 03/09/2012 DET vs. ATL W 17 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 0 1 0 2 4
+p280
+aVJason Maxiell DET 03/09/2012 DET vs. ATL W 29 19 9 11 81.8 0 0 - 1 3 33.3 5 7 12 2 0 0 0 4 2
+p281
+aVJonas Jerebko DET 03/09/2012 DET vs. ATL W 19 10 5 7 71.4 0 2 0.0 0 0 - 1 1 2 1 1 0 0 3 -1
+p282
+aVBen Wallace DET 03/09/2012 DET vs. ATL W 13 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 2 2 2 -5
+p283
+aVBrandon Knight DET 03/09/2012 DET vs. ATL W 35 6 2 5 40.0 0 2 0.0 2 2 100.0 0 0 0 4 1 0 3 2 5
+p284
+aVRodney Stuckey DET 03/09/2012 DET vs. ATL W 37 11 4 7 57.1 0 1 0.0 3 5 60.0 0 3 3 7 1 0 3 5 -5
+p285
+aVTayshaun Prince DET 03/06/2012 DET vs. LAL W 38 10 5 15 33.3 0 2 0.0 0 0 - 1 1 2 4 0 0 0 4 -9
+p286
+aVDamien Wilkins DET 03/06/2012 DET vs. LAL W 15 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 1 1 0 1 2 12
+p287
+aVBen Wallace DET 03/06/2012 DET vs. LAL W 27 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 1 0 0 1 9
+p288
+aVBrandon Knight DET 03/06/2012 DET vs. LAL W 25 0 0 6 0.0 0 2 0.0 0 0 - 0 2 2 3 0 0 1 0 -14
+p289
+aVJason Maxiell DET 03/06/2012 DET vs. LAL W 36 10 5 11 45.5 0 0 - 0 0 - 4 6 10 0 0 0 2 3 -7
+p290
+aVBen Gordon DET 03/06/2012 DET vs. LAL W 39 15 7 15 46.7 0 2 0.0 1 1 100.0 0 5 5 5 1 0 1 2 24
+p291
+aVRodney Stuckey DET 03/06/2012 DET vs. LAL W 42 34 13 20 65.0 1 1 100.0 7 7 100.0 1 0 1 1 0 0 2 3 -4
+p292
+aVGreg Monroe DET 03/06/2012 DET vs. LAL W 26 2 1 10 10.0 0 0 - 0 0 - 7 8 15 3 1 1 0 2 -6
+p293
+aVJonas Jerebko DET 03/06/2012 DET vs. LAL W 17 10 3 8 37.5 2 3 66.7 2 2 100.0 0 5 5 0 0 0 0 2 10
+p294
+aVWalker Russell DET 03/03/2012 DET @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p295
+aVAustin Daye DET 03/03/2012 DET @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p296
+aVBrandon Knight DET 03/03/2012 DET @ MEM L 41 15 5 16 31.3 1 4 25.0 4 6 66.7 3 4 7 2 1 0 2 1 -14
+p297
+aVDamien Wilkins DET 03/03/2012 DET @ MEM L 13 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 0 2 1 0 2 -10
+p298
+aVGreg Monroe DET 03/03/2012 DET @ MEM L 36 14 4 12 33.3 0 0 - 6 6 100.0 6 5 11 1 0 1 4 3 -6
+p299
+aVBen Wallace DET 03/03/2012 DET @ MEM L 10 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 2 1 -10
+p300
+aVVernon Macklin DET 03/03/2012 DET @ MEM L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p301
+aVBen Gordon DET 03/03/2012 DET @ MEM L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -13
+p302
+aVJason Maxiell DET 03/03/2012 DET @ MEM L 22 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 1 1 0 2 4 10
+p303
+aVRodney Stuckey DET 03/03/2012 DET @ MEM L 38 20 6 22 27.3 1 2 50.0 7 9 77.8 3 1 4 4 2 1 4 3 -12
+p304
+aVTayshaun Prince DET 03/03/2012 DET @ MEM L 38 13 6 10 60.0 0 0 - 1 2 50.0 0 3 3 4 0 0 0 1 -8
+p305
+aVJonas Jerebko DET 03/03/2012 DET @ MEM L 22 4 2 6 33.3 0 3 0.0 0 0 - 1 4 5 1 0 0 2 1 -16
+p306
+aVTayshaun Prince DET 02/29/2012 DET vs. CHA W 31 14 7 11 63.6 0 1 0.0 0 0 - 4 6 10 2 0 1 2 1 9
+p307
+aVBen Wallace DET 02/29/2012 DET vs. CHA W 13 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 1 0 2 11
+p308
+aVWalker Russell DET 02/29/2012 DET vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 0
+p309
+aVJonas Jerebko DET 02/29/2012 DET vs. CHA W 20 8 3 7 42.9 0 1 0.0 2 2 100.0 2 4 6 0 1 1 4 6 -4
+p310
+aVDamien Wilkins DET 02/29/2012 DET vs. CHA W 18 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 0 3 6
+p311
+aVGreg Monroe DET 02/29/2012 DET vs. CHA W 33 19 6 11 54.5 0 0 - 7 9 77.8 8 12 20 2 0 1 2 2 4
+p312
+aVBrandon Knight DET 02/29/2012 DET vs. CHA W 36 20 7 14 50.0 1 4 25.0 5 6 83.3 0 1 1 5 0 0 0 4 12
+p313
+aVBen Gordon DET 02/29/2012 DET vs. CHA W 23 10 5 11 45.5 0 3 0.0 0 0 - 0 1 1 2 0 0 2 4 4
+p314
+aVJason Maxiell DET 02/29/2012 DET vs. CHA W 27 3 1 7 14.3 0 0 - 1 4 25.0 1 6 7 1 0 4 0 1 19
+p315
+aVRodney Stuckey DET 02/29/2012 DET vs. CHA W 36 29 10 18 55.6 0 1 0.0 9 11 81.8 2 2 4 3 0 0 3 2 14
+p316
+aVVernon Macklin DET 02/29/2012 DET vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p317
+aVJason Maxiell DET 02/28/2012 DET vs. PHI L 27 4 2 4 50.0 0 0 - 0 0 - 6 2 8 2 1 0 5 1 -13
+p318
+aVBrandon Knight DET 02/28/2012 DET vs. PHI L 28 8 2 8 25.0 1 4 25.0 3 4 75.0 1 2 3 1 0 0 3 0 -13
+p319
+aVBen Wallace DET 02/28/2012 DET vs. PHI L 12 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 1 0 0 0 -18
+p320
+aVGreg Monroe DET 02/28/2012 DET vs. PHI L 31 20 7 16 43.8 0 0 - 6 7 85.7 3 5 8 3 0 0 2 3 -12
+p321
+aVWill Bynum DET 02/28/2012 DET vs. PHI L 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -13
+p322
+aVBen Gordon DET 02/28/2012 DET vs. PHI L 26 3 1 10 10.0 1 2 50.0 0 0 - 1 2 3 1 0 0 1 0 -17
+p323
+aVJonas Jerebko DET 02/28/2012 DET vs. PHI L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 5 5 0 1 0 0 2 -15
+p324
+aVDamien Wilkins DET 02/28/2012 DET vs. PHI L 18 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 -14
+p325
+aVTayshaun Prince DET 02/28/2012 DET vs. PHI L 30 4 2 10 20.0 0 1 0.0 0 0 - 0 4 4 2 1 0 2 0 -15
+p326
+aVVernon Macklin DET 02/28/2012 DET vs. PHI L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p327
+aVAustin Daye DET 02/28/2012 DET vs. PHI L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 0
+p328
+aVRodney Stuckey DET 02/28/2012 DET vs. PHI L 31 17 5 12 41.7 0 0 - 7 9 77.8 1 3 4 2 0 0 5 4 -15
+p329
+aVRodney Stuckey DET 02/22/2012 DET @ TOR L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 1 2 -8
+p330
+aVBen Gordon DET 02/22/2012 DET @ TOR L 18 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 2 0 -17
+p331
+aVTayshaun Prince DET 02/22/2012 DET @ TOR L 36 14 6 16 37.5 0 1 0.0 2 2 100.0 2 5 7 2 1 2 0 2 -10
+p332
+aVGreg Monroe DET 02/22/2012 DET @ TOR L 38 30 9 21 42.9 0 0 - 12 16 75.0 5 9 14 2 1 2 4 4 -6
+p333
+aVBen Wallace DET 02/22/2012 DET @ TOR L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p334
+aVJason Maxiell DET 02/22/2012 DET @ TOR L 29 12 5 11 45.5 0 0 - 2 2 100.0 3 2 5 2 0 2 2 2 -8
+p335
+aVBrandon Knight DET 02/22/2012 DET @ TOR L 38 16 6 14 42.9 2 8 25.0 2 2 100.0 1 1 2 3 0 0 0 4 -1
+p336
+aVWalker Russell DET 02/22/2012 DET @ TOR L 21 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 4 1 0 1 1 6
+p337
+aVDamien Wilkins DET 02/22/2012 DET @ TOR L 16 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 2 0 0 2 2
+p338
+aVJonas Jerebko DET 02/22/2012 DET @ TOR L 19 8 3 8 37.5 0 1 0.0 2 2 100.0 3 0 3 1 0 0 0 6 -4
+p339
+aVBen Wallace DET 02/21/2012 DET @ CLE L 13 0 0 0 - 0 0 - 0 0 - 2 2 4 0 1 3 0 1 -6
+p340
+aVWill Bynum DET 02/21/2012 DET @ CLE L 9 2 0 4 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -9
+p341
+aVGreg Monroe DET 02/21/2012 DET @ CLE L 35 19 8 16 50.0 0 0 - 3 4 75.0 4 7 11 7 3 1 2 2 5
+p342
+aVDamien Wilkins DET 02/21/2012 DET @ CLE L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 2 0 1 2 -4
+p343
+aVJason Maxiell DET 02/21/2012 DET @ CLE L 18 5 2 4 50.0 0 0 - 1 2 50.0 3 0 3 1 1 1 1 4 -14
+p344
+aVRodney Stuckey DET 02/21/2012 DET @ CLE L 34 16 5 13 38.5 0 2 0.0 6 8 75.0 0 5 5 5 0 2 3 2 6
+p345
+aVBen Gordon DET 02/21/2012 DET @ CLE L 26 16 7 17 41.2 2 3 66.7 0 0 - 0 4 4 0 0 0 2 3 -5
+p346
+aVBrandon Knight DET 02/21/2012 DET @ CLE L 36 24 8 12 66.7 4 5 80.0 4 4 100.0 2 3 5 3 1 0 2 3 1
+p347
+aVTayshaun Prince DET 02/21/2012 DET @ CLE L 33 7 2 15 13.3 1 3 33.3 2 2 100.0 0 6 6 4 0 1 0 1 8
+p348
+aVJonas Jerebko DET 02/21/2012 DET @ CLE L 24 9 4 12 33.3 0 2 0.0 1 2 50.0 5 1 6 1 1 0 0 4 13
+p349
+aVJonas Jerebko DET 02/19/2012 DET vs. BOS W 22 13 4 10 40.0 0 2 0.0 5 6 83.3 2 4 6 0 2 1 0 0 15
+p350
+aVWalker Russell DET 02/19/2012 DET vs. BOS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p351
+aVGreg Monroe DET 02/19/2012 DET vs. BOS W 33 17 8 19 42.1 0 0 - 1 7 14.3 6 4 10 3 1 0 2 3 2
+p352
+aVVernon Macklin DET 02/19/2012 DET vs. BOS W 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p353
+aVTayshaun Prince DET 02/19/2012 DET vs. BOS W 37 13 5 14 35.7 1 1 100.0 2 4 50.0 3 3 6 1 0 0 0 2 3
+p354
+aVBen Gordon DET 02/19/2012 DET vs. BOS W 24 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 3 1 1 1 1 13
+p355
+aVJason Maxiell DET 02/19/2012 DET vs. BOS W 21 6 3 7 42.9 0 0 - 0 0 - 3 7 10 3 2 1 3 5 -1
+p356
+aVBen Wallace DET 02/19/2012 DET vs. BOS W 15 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 0 1 1 0 1 13
+p357
+aVRodney Stuckey DET 02/19/2012 DET vs. BOS W 38 16 2 10 20.0 0 1 0.0 12 15 80.0 0 3 3 1 4 0 2 2 10
+p358
+aVWill Bynum DET 02/19/2012 DET vs. BOS W 13 7 2 3 66.7 1 1 100.0 2 4 50.0 0 0 0 1 2 0 2 3 4
+p359
+aVBrandon Knight DET 02/19/2012 DET vs. BOS W 30 12 3 7 42.9 2 2 100.0 4 4 100.0 1 3 4 2 0 0 4 2 7
+p360
+aVDamien Wilkins DET 02/19/2012 DET vs. BOS W 7 6 1 2 50.0 1 1 100.0 3 4 75.0 0 0 0 0 0 0 0 0 9
+p361
+aVDamien Wilkins DET 02/17/2012 DET vs. SAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p362
+aVRodney Stuckey DET 02/17/2012 DET vs. SAC W 40 36 12 20 60.0 1 1 100.0 11 12 91.7 1 2 3 0 1 1 1 1 11
+p363
+aVJason Maxiell DET 02/17/2012 DET vs. SAC W 22 6 2 5 40.0 0 0 - 2 2 100.0 3 4 7 0 0 0 4 3 -2
+p364
+aVGreg Monroe DET 02/17/2012 DET vs. SAC W 33 3 1 7 14.3 0 0 - 1 2 50.0 4 4 8 2 1 0 2 2 0
+p365
+aVBen Wallace DET 02/17/2012 DET vs. SAC W 21 0 0 1 0.0 0 0 - 0 0 - 1 6 7 1 1 1 0 0 9
+p366
+aVTayshaun Prince DET 02/17/2012 DET vs. SAC W 37 22 10 19 52.6 0 1 0.0 2 2 100.0 2 8 10 5 2 2 2 0 4
+p367
+aVBrandon Knight DET 02/17/2012 DET vs. SAC W 39 23 9 21 42.9 4 6 66.7 1 1 100.0 3 3 6 10 0 0 0 2 1
+p368
+aVBen Gordon DET 02/17/2012 DET vs. SAC W 21 13 5 13 38.5 1 3 33.3 2 2 100.0 0 1 1 2 1 0 1 1 2
+p369
+aVJonas Jerebko DET 02/17/2012 DET vs. SAC W 20 11 4 6 66.7 0 1 0.0 3 4 75.0 2 3 5 1 1 0 2 5 3
+p370
+aVBrandon Knight DET 02/15/2012 DET @ BOS W 19 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 1 1 0 2 4 5
+p371
+aVBen Wallace DET 02/15/2012 DET @ BOS W 16 0 0 1 0.0 0 0 - 0 0 - 3 8 11 2 0 0 0 1 1
+p372
+aVWalker Russell DET 02/15/2012 DET @ BOS W 10 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 0 1 0 1 2 -1
+p373
+aVJason Maxiell DET 02/15/2012 DET @ BOS W 32 6 2 4 50.0 0 0 - 2 4 50.0 1 6 7 1 1 1 1 2 8
+p374
+aVDamien Wilkins DET 02/15/2012 DET @ BOS W 14 2 0 2 0.0 0 0 - 2 4 50.0 1 1 2 1 0 0 0 1 3
+p375
+aVRodney Stuckey DET 02/15/2012 DET @ BOS W 37 25 7 16 43.8 0 2 0.0 11 11 100.0 1 2 3 4 1 0 1 5 0
+p376
+aVWill Bynum DET 02/15/2012 DET @ BOS W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p377
+aVBen Gordon DET 02/15/2012 DET @ BOS W 28 22 8 15 53.3 4 6 66.7 2 2 100.0 0 3 3 3 1 0 2 4 16
+p378
+aVTayshaun Prince DET 02/15/2012 DET @ BOS W 37 10 3 12 25.0 0 2 0.0 4 4 100.0 1 4 5 2 0 0 0 2 6
+p379
+aVJonas Jerebko DET 02/15/2012 DET @ BOS W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p380
+aVGreg Monroe DET 02/15/2012 DET @ BOS W 36 22 11 14 78.6 0 0 - 0 0 - 4 5 9 1 0 1 4 2 11
+p381
+aVBen Wallace DET 02/14/2012 DET vs. SAS L 26 9 2 2 100.0 1 1 100.0 4 8 50.0 3 2 5 2 1 1 2 4 8
+p382
+aVTayshaun Prince DET 02/14/2012 DET vs. SAS L 37 18 8 16 50.0 0 2 0.0 2 2 100.0 1 4 5 4 0 0 3 2 -12
+p383
+aVBen Gordon DET 02/14/2012 DET vs. SAS L 20 10 5 13 38.5 0 3 0.0 0 0 - 1 2 3 0 0 0 1 0 10
+p384
+aVRodney Stuckey DET 02/14/2012 DET vs. SAS L 37 23 8 12 66.7 0 0 - 7 10 70.0 1 3 4 8 0 0 1 5 2
+p385
+aVAustin Daye DET 02/14/2012 DET vs. SAS L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 1 2 2 -2
+p386
+aVBrandon Knight DET 02/14/2012 DET vs. SAS L 36 16 7 17 41.2 1 4 25.0 1 1 100.0 1 2 3 4 2 0 3 3 -8
+p387
+aVWalker Russell DET 02/14/2012 DET vs. SAS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -3
+p388
+aVJason Maxiell DET 02/14/2012 DET vs. SAS L 27 6 3 7 42.9 0 0 - 0 2 0.0 1 8 9 0 1 2 0 3 -10
+p389
+aVGreg Monroe DET 02/14/2012 DET vs. SAS L 22 4 2 11 18.2 0 0 - 0 2 0.0 2 4 6 1 0 1 0 2 -12
+p390
+aVJonas Jerebko DET 02/14/2012 DET vs. SAS L 20 7 3 4 75.0 1 2 50.0 0 0 - 1 4 5 3 0 0 1 2 7
+p391
+aVBen Wallace DET 02/12/2012 DET vs. WAS L 12 0 0 1 0.0 0 0 - 0 0 - 4 3 7 0 0 0 0 0 -10
+p392
+aVRodney Stuckey DET 02/12/2012 DET vs. WAS L 31 11 2 9 22.2 0 0 - 7 8 87.5 2 1 3 3 3 0 2 4 -10
+p393
+aVDamien Wilkins DET 02/12/2012 DET vs. WAS L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p394
+aVBrandon Knight DET 02/12/2012 DET vs. WAS L 31 2 1 9 11.1 0 3 0.0 0 0 - 1 0 1 2 1 0 3 2 -17
+p395
+aVAustin Daye DET 02/12/2012 DET vs. WAS L 14 4 2 9 22.2 0 1 0.0 0 0 - 1 4 5 0 1 1 0 1 -9
+p396
+aVWalker Russell DET 02/12/2012 DET vs. WAS L 11 2 1 7 14.3 0 0 - 0 0 - 0 2 2 4 1 0 1 1 2
+p397
+aVJason Maxiell DET 02/12/2012 DET vs. WAS L 20 6 3 5 60.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 3
+p398
+aVJonas Jerebko DET 02/12/2012 DET vs. WAS L 25 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 0 2 0 3 2 -28
+p399
+aVTayshaun Prince DET 02/12/2012 DET vs. WAS L 32 10 5 10 50.0 0 1 0.0 0 0 - 3 3 6 2 0 0 0 2 -8
+p400
+aVVernon Macklin DET 02/12/2012 DET vs. WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p401
+aVGreg Monroe DET 02/12/2012 DET vs. WAS L 33 27 9 19 47.4 0 0 - 9 9 100.0 4 2 6 3 1 1 6 2 -15
+p402
+aVWill Bynum DET 02/12/2012 DET vs. WAS L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -2
+p403
+aVBen Gordon DET 02/12/2012 DET vs. WAS L 17 7 2 9 22.2 1 4 25.0 2 2 100.0 0 3 3 0 1 0 1 2 -19
+p404
+aVBen Gordon DET 02/10/2012 DET vs. NJN W 23 14 6 10 60.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 3 1 -4
+p405
+aVJason Maxiell DET 02/10/2012 DET vs. NJN W 20 6 2 2 100.0 0 0 - 2 2 100.0 3 2 5 1 1 4 3 4 14
+p406
+aVDamien Wilkins DET 02/10/2012 DET vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p407
+aVBen Wallace DET 02/10/2012 DET vs. NJN W 14 4 2 3 66.7 0 0 - 0 2 0.0 1 4 5 1 1 1 0 1 2
+p408
+aVGreg Monroe DET 02/10/2012 DET vs. NJN W 30 18 8 9 88.9 0 0 - 2 2 100.0 5 6 11 2 2 1 3 3 23
+p409
+aVJonas Jerebko DET 02/10/2012 DET vs. NJN W 25 20 7 13 53.8 1 2 50.0 5 6 83.3 3 1 4 2 1 0 2 2 8
+p410
+aVAustin Daye DET 02/10/2012 DET vs. NJN W 19 2 1 7 14.3 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -6
+p411
+aVWalker Russell DET 02/10/2012 DET vs. NJN W 26 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 5 0 0 3 2 8
+p412
+aVBrandon Knight DET 02/10/2012 DET vs. NJN W 17 13 4 7 57.1 3 3 100.0 2 3 66.7 1 6 7 5 1 0 2 4 17
+p413
+aVTayshaun Prince DET 02/10/2012 DET vs. NJN W 28 8 4 12 33.3 0 1 0.0 0 0 - 1 6 7 4 0 0 1 2 26
+p414
+aVWill Bynum DET 02/10/2012 DET vs. NJN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -8
+p415
+aVRodney Stuckey DET 02/10/2012 DET vs. NJN W 26 19 7 10 70.0 0 0 - 5 6 83.3 0 3 3 5 1 0 2 3 18
+p416
+aVVernon Macklin DET 02/10/2012 DET vs. NJN W 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -8
+p417
+aVRodney Stuckey DET 02/08/2012 DET @ NJN W 35 12 5 9 55.6 1 2 50.0 1 3 33.3 0 3 3 6 2 0 1 3 0
+p418
+aVJason Maxiell DET 02/08/2012 DET @ NJN W 13 4 2 3 66.7 0 0 - 0 2 0.0 2 2 4 1 0 1 0 3 -4
+p419
+aVBen Gordon DET 02/08/2012 DET @ NJN W 21 14 6 7 85.7 0 0 - 2 3 66.7 1 4 5 2 2 0 4 2 10
+p420
+aVTayshaun Prince DET 02/08/2012 DET @ NJN W 35 15 5 13 38.5 0 1 0.0 5 6 83.3 1 1 2 5 0 0 1 0 -1
+p421
+aVJonas Jerebko DET 02/08/2012 DET @ NJN W 35 16 5 12 41.7 0 2 0.0 6 8 75.0 4 3 7 2 2 2 0 4 11
+p422
+aVGreg Monroe DET 02/08/2012 DET @ NJN W 35 20 10 16 62.5 0 0 - 0 0 - 3 9 12 4 2 1 1 5 0
+p423
+aVBrandon Knight DET 02/08/2012 DET @ NJN W 37 13 4 10 40.0 1 4 25.0 4 5 80.0 0 2 2 4 0 1 4 0 4
+p424
+aVBen Wallace DET 02/08/2012 DET @ NJN W 13 0 0 0 - 0 0 - 0 0 - 0 4 4 1 2 1 1 1 7
+p425
+aVWalker Russell DET 02/08/2012 DET @ NJN W 10 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 3 0 0 0 3 -1
+p426
+aVAustin Daye DET 02/08/2012 DET @ NJN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 9
+p427
+aVBrandon Knight DET 02/04/2012 DET vs. NOH W 5 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 1 3
+p428
+aVAustin Daye DET 02/04/2012 DET vs. NOH W 20 4 1 5 20.0 0 3 0.0 2 2 100.0 0 3 3 0 1 0 1 1 -2
+p429
+aVTayshaun Prince DET 02/04/2012 DET vs. NOH W 35 11 5 14 35.7 1 2 50.0 0 0 - 3 3 6 5 0 0 1 2 0
+p430
+aVJason Maxiell DET 02/04/2012 DET vs. NOH W 33 10 5 7 71.4 0 0 - 0 2 0.0 4 1 5 2 1 1 2 3 1
+p431
+aVBen Wallace DET 02/04/2012 DET vs. NOH W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 1 0 1
+p432
+aVRodney Stuckey DET 02/04/2012 DET vs. NOH W 38 17 5 13 38.5 0 0 - 7 8 87.5 1 2 3 3 1 0 1 2 2
+p433
+aVJonas Jerebko DET 02/04/2012 DET vs. NOH W 18 11 5 10 50.0 1 3 33.3 0 0 - 1 4 5 0 0 0 0 2 -1
+p434
+aVGreg Monroe DET 02/04/2012 DET vs. NOH W 38 24 10 17 58.8 0 0 - 4 4 100.0 6 10 16 2 1 0 5 2 6
+p435
+aVWalker Russell DET 02/04/2012 DET vs. NOH W 33 9 4 9 44.4 0 1 0.0 1 3 33.3 0 1 1 4 2 1 2 0 4
+p436
+aVDamien Wilkins DET 02/04/2012 DET vs. NOH W 14 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -4
+p437
+aVWalker Russell DET 02/03/2012 DET vs. MIL W 16 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 3 1 -12
+p438
+aVDamien Wilkins DET 02/03/2012 DET vs. MIL W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 3 11
+p439
+aVGreg Monroe DET 02/03/2012 DET vs. MIL W 38 18 7 14 50.0 0 0 - 4 6 66.7 4 7 11 2 2 1 4 4 25
+p440
+aVAustin Daye DET 02/03/2012 DET vs. MIL W 10 4 0 3 0.0 0 0 - 4 4 100.0 0 2 2 0 0 2 2 2 -17
+p441
+aVTayshaun Prince DET 02/03/2012 DET vs. MIL W 38 13 6 15 40.0 0 1 0.0 1 2 50.0 3 6 9 3 0 0 2 1 25
+p442
+aVJason Maxiell DET 02/03/2012 DET vs. MIL W 37 8 4 9 44.4 0 0 - 0 0 - 2 10 12 0 0 2 0 1 -13
+p443
+aVJonas Jerebko DET 02/03/2012 DET vs. MIL W 21 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 1 1 1 2 2 4
+p444
+aVBrandon Knight DET 02/03/2012 DET vs. MIL W 39 26 10 23 43.5 3 8 37.5 3 3 100.0 0 3 3 7 0 0 0 2 18
+p445
+aVRodney Stuckey DET 02/03/2012 DET vs. MIL W 30 10 3 8 37.5 0 2 0.0 4 4 100.0 2 4 6 4 2 0 1 3 -1
+p446
+aVAustin Daye DET 02/01/2012 DET @ NJN L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p447
+aVWalker Russell DET 02/01/2012 DET @ NJN L 21 12 5 8 62.5 2 3 66.7 0 0 - 4 2 6 2 0 0 0 3 -9
+p448
+aVTayshaun Prince DET 02/01/2012 DET @ NJN L 39 21 9 16 56.3 0 2 0.0 3 4 75.0 1 5 6 4 0 0 1 1 1
+p449
+aVRodney Stuckey DET 02/01/2012 DET @ NJN L 24 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 3 0 0 1 0 9
+p450
+aVDamien Wilkins DET 02/01/2012 DET @ NJN L 5 2 1 3 33.3 0 1 0.0 0 1 0.0 0 1 1 0 0 0 0 0 -3
+p451
+aVBrandon Knight DET 02/01/2012 DET @ NJN L 43 15 7 18 38.9 1 8 12.5 0 0 - 0 5 5 4 0 0 1 4 4
+p452
+aVBen Wallace DET 02/01/2012 DET @ NJN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p453
+aVJonas Jerebko DET 02/01/2012 DET @ NJN L 31 14 5 10 50.0 1 3 33.3 3 3 100.0 2 1 3 1 0 1 1 3 -8
+p454
+aVJason Maxiell DET 02/01/2012 DET @ NJN L 23 4 2 8 25.0 0 0 - 0 0 - 1 0 1 4 0 0 1 4 1
+p455
+aVGreg Monroe DET 02/01/2012 DET @ NJN L 37 21 8 11 72.7 0 0 - 5 6 83.3 3 5 8 0 3 1 4 5 5
+p456
+aVBen Wallace DET 01/31/2012 DET @ NYK L 17 0 0 2 0.0 0 0 - 0 0 - 3 3 6 0 0 0 1 2 -17
+p457
+aVJason Maxiell DET 01/31/2012 DET @ NYK L 23 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 3 -4
+p458
+aVRodney Stuckey DET 01/31/2012 DET @ NYK L 26 13 5 8 62.5 0 0 - 3 3 100.0 0 0 0 3 0 0 3 2 -18
+p459
+aVAustin Daye DET 01/31/2012 DET @ NYK L 25 7 2 7 28.6 1 3 33.3 2 2 100.0 0 3 3 2 1 1 3 2 -9
+p460
+aVVernon Macklin DET 01/31/2012 DET @ NYK L 6 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 1 0 0 1 0 -4
+p461
+aVWalker Russell DET 01/31/2012 DET @ NYK L 22 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 3 1 0 2 1 -12
+p462
+aVTayshaun Prince DET 01/31/2012 DET @ NYK L 28 10 5 13 38.5 0 1 0.0 0 0 - 2 2 4 1 0 0 0 3 -27
+p463
+aVBrandon Knight DET 01/31/2012 DET @ NYK L 26 9 3 8 37.5 1 3 33.3 2 4 50.0 0 1 1 1 0 0 3 2 -19
+p464
+aVGreg Monroe DET 01/31/2012 DET @ NYK L 32 13 6 11 54.5 0 0 - 1 2 50.0 4 8 12 0 4 0 6 1 -18
+p465
+aVDamien Wilkins DET 01/31/2012 DET @ NYK L 21 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 3 -1
+p466
+aVJonas Jerebko DET 01/31/2012 DET @ NYK L 15 15 4 4 100.0 1 1 100.0 6 6 100.0 1 3 4 0 0 0 1 3 -6
+p467
+aVVernon Macklin DET 01/30/2012 DET @ MIL L 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p468
+aVBrandon Knight DET 01/30/2012 DET @ MIL L 24 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 4 3 -20
+p469
+aVGreg Monroe DET 01/30/2012 DET @ MIL L 31 16 8 12 66.7 0 0 - 0 1 0.0 4 6 10 2 1 0 2 4 -6
+p470
+aVBen Wallace DET 01/30/2012 DET @ MIL L 8 0 0 0 - 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -10
+p471
+aVJason Maxiell DET 01/30/2012 DET @ MIL L 16 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 0 1 0 1 2 -5
+p472
+aVTayshaun Prince DET 01/30/2012 DET @ MIL L 30 14 7 15 46.7 0 0 - 0 0 - 3 5 8 1 1 1 0 0 -18
+p473
+aVWalker Russell DET 01/30/2012 DET @ MIL L 24 2 1 5 20.0 0 0 - 0 0 - 0 0 0 6 1 0 2 1 -8
+p474
+aVJonas Jerebko DET 01/30/2012 DET @ MIL L 17 10 3 7 42.9 1 2 50.0 3 4 75.0 2 1 3 1 0 0 1 6 -20
+p475
+aVDamien Wilkins DET 01/30/2012 DET @ MIL L 21 4 0 5 0.0 0 1 0.0 4 4 100.0 0 2 2 0 0 0 0 1 -8
+p476
+aVAustin Daye DET 01/30/2012 DET @ MIL L 37 10 4 14 28.6 0 3 0.0 2 2 100.0 1 4 5 3 2 2 2 2 -7
+p477
+aVRodney Stuckey DET 01/30/2012 DET @ MIL L 26 19 6 14 42.9 0 2 0.0 7 7 100.0 3 0 3 6 2 0 4 1 -1
+p478
+aVWalker Russell DET 01/28/2012 DET @ PHI L 25 3 1 8 12.5 1 3 33.3 0 0 - 1 3 4 5 0 0 1 0 -11
+p479
+aVJonas Jerebko DET 01/28/2012 DET @ PHI L 10 2 0 2 0.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 0 0 1
+p480
+aVDamien Wilkins DET 01/28/2012 DET @ PHI L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -5
+p481
+aVAustin Daye DET 01/28/2012 DET @ PHI L 27 12 5 8 62.5 1 2 50.0 1 2 50.0 0 3 3 2 0 1 1 2 -10
+p482
+aVBrandon Knight DET 01/28/2012 DET @ PHI L 37 9 4 17 23.5 1 4 25.0 0 0 - 1 4 5 3 0 1 2 1 -19
+p483
+aVGreg Monroe DET 01/28/2012 DET @ PHI L 30 16 6 19 31.6 0 0 - 4 4 100.0 5 5 10 2 1 0 0 2 -19
+p484
+aVRodney Stuckey DET 01/28/2012 DET @ PHI L 29 11 3 9 33.3 0 0 - 5 5 100.0 0 0 0 2 1 0 3 1 -14
+p485
+aVVernon Macklin DET 01/28/2012 DET @ PHI L 8 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 6
+p486
+aVJason Maxiell DET 01/28/2012 DET @ PHI L 20 9 4 7 57.1 0 0 - 1 2 50.0 3 4 7 0 0 1 2 3 -13
+p487
+aVTayshaun Prince DET 01/28/2012 DET @ PHI L 25 6 3 9 33.3 0 1 0.0 0 2 0.0 0 4 4 1 0 0 1 0 -9
+p488
+aVBen Wallace DET 01/28/2012 DET @ PHI L 17 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 0 0 -12
+p489
+aVGreg Monroe DET 01/27/2012 DET vs. ATL L 42 22 10 20 50.0 0 0 - 2 3 66.7 4 7 11 4 2 0 0 2 -3
+p490
+aVBrandon Knight DET 01/27/2012 DET vs. ATL L 42 20 6 18 33.3 4 8 50.0 4 4 100.0 0 5 5 8 1 0 0 3 -6
+p491
+aVWalker Russell DET 01/27/2012 DET vs. ATL L 17 0 0 4 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 4
+p492
+aVRodney Stuckey DET 01/27/2012 DET vs. ATL L 41 14 4 13 30.8 1 2 50.0 5 5 100.0 1 2 3 5 1 0 2 1 -4
+p493
+aVJason Maxiell DET 01/27/2012 DET vs. ATL L 27 19 8 14 57.1 0 0 - 3 6 50.0 4 4 8 0 0 1 1 2 1
+p494
+aVDamien Wilkins DET 01/27/2012 DET vs. ATL L 34 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 3 0 1 0 3 -3
+p495
+aVJonas Jerebko DET 01/27/2012 DET vs. ATL L 18 12 5 9 55.6 0 1 0.0 2 2 100.0 3 3 6 1 1 0 2 4 -10
+p496
+aVBen Wallace DET 01/27/2012 DET vs. ATL L 17 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 0 1 3 1 -4
+p497
+aVAustin Daye DET 01/27/2012 DET vs. ATL L 27 12 4 11 36.4 2 4 50.0 2 2 100.0 0 3 3 1 1 1 2 6 -5
+p498
+aVJonas Jerebko DET 01/25/2012 DET vs. MIA L 25 7 3 7 42.9 1 3 33.3 0 0 - 1 5 6 1 0 0 2 2 5
+p499
+aVJason Maxiell DET 01/25/2012 DET vs. MIA L 17 0 0 2 0.0 0 0 - 0 0 - 2 3 5 1 0 2 0 0 -1
+p500
+aVAustin Daye DET 01/25/2012 DET vs. MIA L 30 28 10 18 55.6 4 8 50.0 4 4 100.0 3 3 6 3 1 0 2 2 2
+p501
+aVGreg Monroe DET 01/25/2012 DET vs. MIA L 31 20 8 14 57.1 0 0 - 4 4 100.0 2 8 10 1 3 1 3 3 -4
+p502
+aVBrandon Knight DET 01/25/2012 DET vs. MIA L 41 17 7 14 50.0 1 4 25.0 2 5 40.0 1 3 4 5 0 0 3 4 1
+p503
+aVDamien Wilkins DET 01/25/2012 DET vs. MIA L 34 9 4 9 44.4 1 5 20.0 0 0 - 2 1 3 2 0 0 3 4 -11
+p504
+aVRodney Stuckey DET 01/25/2012 DET vs. MIA L 34 15 3 5 60.0 0 2 0.0 9 12 75.0 0 4 4 6 1 0 4 6 2
+p505
+aVBen Wallace DET 01/25/2012 DET vs. MIA L 23 0 0 2 0.0 0 0 - 0 0 - 3 2 5 0 0 3 0 2 -6
+p506
+aVWalker Russell DET 01/25/2012 DET vs. MIA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p507
+aVBen Wallace DET 01/23/2012 DET @ OKC L 18 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 2 1 0 0 -10
+p508
+aVAustin Daye DET 01/23/2012 DET @ OKC L 20 9 3 10 30.0 1 3 33.3 2 2 100.0 1 6 7 2 0 0 0 1 -1
+p509
+aVWalker Russell DET 01/23/2012 DET @ OKC L 17 2 0 5 0.0 0 1 0.0 2 2 100.0 0 1 1 3 1 0 0 1 1
+p510
+aVDamien Wilkins DET 01/23/2012 DET @ OKC L 26 5 2 5 40.0 0 0 - 1 3 33.3 0 3 3 0 0 0 0 1 -8
+p511
+aVJonas Jerebko DET 01/23/2012 DET @ OKC L 24 11 4 9 44.4 1 2 50.0 2 2 100.0 1 4 5 0 2 0 2 1 -2
+p512
+aVBrandon Knight DET 01/23/2012 DET @ OKC L 33 13 5 9 55.6 1 4 25.0 2 5 40.0 0 3 3 2 1 0 2 2 -23
+p513
+aVRodney Stuckey DET 01/23/2012 DET @ OKC L 23 12 5 11 45.5 0 2 0.0 2 3 66.7 0 3 3 0 0 0 1 3 -15
+p514
+aVJason Maxiell DET 01/23/2012 DET @ OKC L 12 2 1 2 50.0 0 0 - 0 2 0.0 1 0 1 0 0 0 2 1 -3
+p515
+aVTayshaun Prince DET 01/23/2012 DET @ OKC L 32 9 3 9 33.3 1 2 50.0 2 2 100.0 1 1 2 3 1 0 1 0 -22
+p516
+aVVernon Macklin DET 01/23/2012 DET @ OKC L 9 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 1 0 0 0 6
+p517
+aVGreg Monroe DET 01/23/2012 DET @ OKC L 27 12 3 14 21.4 0 0 - 6 6 100.0 5 2 7 2 2 0 1 1 -23
+p518
+aVGreg Monroe DET 01/21/2012 DET vs. POR W 31 10 3 6 50.0 0 0 - 4 4 100.0 3 5 8 1 2 1 4 4 -7
+p519
+aVTayshaun Prince DET 01/21/2012 DET vs. POR W 38 17 6 14 42.9 1 2 50.0 4 4 100.0 1 1 2 0 0 3 1 2 4
+p520
+aVJason Maxiell DET 01/21/2012 DET vs. POR W 26 7 3 8 37.5 0 0 - 1 4 25.0 3 4 7 0 1 0 0 4 15
+p521
+aVJonas Jerebko DET 01/21/2012 DET vs. POR W 22 11 4 8 50.0 1 3 33.3 2 2 100.0 1 4 5 0 0 2 0 3 4
+p522
+aVDamien Wilkins DET 01/21/2012 DET vs. POR W 19 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 0 0 2
+p523
+aVBen Wallace DET 01/21/2012 DET vs. POR W 17 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -4
+p524
+aVBrandon Knight DET 01/21/2012 DET vs. POR W 37 14 4 10 40.0 1 3 33.3 5 6 83.3 0 3 3 3 0 1 1 2 -9
+p525
+aVRodney Stuckey DET 01/21/2012 DET vs. POR W 38 28 8 15 53.3 4 5 80.0 8 9 88.9 0 4 4 5 0 0 3 4 -1
+p526
+aVWalker Russell DET 01/21/2012 DET vs. POR W 12 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 2 2 0 2 1 11
+p527
+aVWalker Russell DET 01/20/2012 DET vs. MEM L 20 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 2 1 0 3 2 -12
+p528
+aVVernon Macklin DET 01/20/2012 DET vs. MEM L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 4
+p529
+aVJonas Jerebko DET 01/20/2012 DET vs. MEM L 31 9 4 5 80.0 1 2 50.0 0 0 - 2 5 7 1 1 0 2 3 -10
+p530
+aVJason Maxiell DET 01/20/2012 DET vs. MEM L 13 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 2 0 -15
+p531
+aVBen Wallace DET 01/20/2012 DET vs. MEM L 16 0 0 0 - 0 0 - 0 0 - 1 1 2 1 1 0 2 0 -8
+p532
+aVAustin Daye DET 01/20/2012 DET vs. MEM L 18 9 4 7 57.1 0 1 0.0 1 2 50.0 1 2 3 2 0 2 4 1 -17
+p533
+aVBen Gordon DET 01/20/2012 DET vs. MEM L 31 10 3 6 50.0 2 3 66.7 2 4 50.0 0 1 1 1 0 0 3 3 -4
+p534
+aVBrandon Knight DET 01/20/2012 DET vs. MEM L 35 22 6 18 33.3 0 2 0.0 10 10 100.0 0 1 1 4 1 0 4 4 -13
+p535
+aVDamien Wilkins DET 01/20/2012 DET vs. MEM L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p536
+aVTayshaun Prince DET 01/20/2012 DET vs. MEM L 37 14 5 13 38.5 1 2 50.0 3 4 75.0 3 2 5 1 1 0 1 0 -8
+p537
+aVGreg Monroe DET 01/20/2012 DET vs. MEM L 31 10 4 12 33.3 0 0 - 2 4 50.0 3 10 13 4 3 1 4 3 -3
+p538
+aVBrandon Knight DET 01/18/2012 DET @ MIN L 36 7 3 11 27.3 0 2 0.0 1 2 50.0 1 4 5 6 1 0 4 5 -1
+p539
+aVJason Maxiell DET 01/18/2012 DET @ MIN L 23 4 1 2 50.0 0 0 - 2 6 33.3 4 3 7 0 1 1 4 4 1
+p540
+aVTayshaun Prince DET 01/18/2012 DET @ MIN L 41 29 13 23 56.5 3 5 60.0 0 0 - 1 2 3 2 1 1 1 2 0
+p541
+aVDamien Wilkins DET 01/18/2012 DET @ MIN L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p542
+aVGreg Monroe DET 01/18/2012 DET @ MIN L 28 13 5 11 45.5 0 0 - 3 5 60.0 4 8 12 1 2 0 1 6 -6
+p543
+aVBen Wallace DET 01/18/2012 DET @ MIN L 20 2 1 1 100.0 0 0 - 0 0 - 2 0 2 1 3 1 3 0 -6
+p544
+aVRodney Stuckey DET 01/18/2012 DET @ MIN L 27 10 4 12 33.3 1 2 50.0 1 4 25.0 0 0 0 3 0 0 1 1 -1
+p545
+aVJonas Jerebko DET 01/18/2012 DET @ MIN L 25 2 1 4 25.0 0 1 0.0 0 0 - 2 6 8 1 0 2 2 5 -7
+p546
+aVBen Gordon DET 01/18/2012 DET @ MIN L 33 18 7 15 46.7 1 1 100.0 3 4 75.0 0 3 3 1 2 0 2 3 -14
+p547
+aVAustin Daye DET 01/18/2012 DET @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p548
+aVBen Gordon DET 01/17/2012 DET @ HOU L 40 18 7 15 46.7 1 3 33.3 3 3 100.0 0 2 2 2 3 2 2 2 -22
+p549
+aVBrandon Knight DET 01/17/2012 DET @ HOU L 36 15 7 16 43.8 1 2 50.0 0 0 - 0 3 3 4 3 0 6 5 -13
+p550
+aVVernon Macklin DET 01/17/2012 DET @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p551
+aVJonas Jerebko DET 01/17/2012 DET @ HOU L 29 7 2 8 25.0 0 2 0.0 3 4 75.0 3 3 6 1 1 1 2 3 -3
+p552
+aVGreg Monroe DET 01/17/2012 DET @ HOU L 37 4 2 9 22.2 0 0 - 0 0 - 6 5 11 6 1 1 4 3 -17
+p553
+aVRodney Stuckey DET 01/17/2012 DET @ HOU L 21 16 6 11 54.5 2 4 50.0 2 2 100.0 1 2 3 3 0 0 1 1 3
+p554
+aVTayshaun Prince DET 01/17/2012 DET @ HOU L 36 20 10 22 45.5 0 2 0.0 0 0 - 0 3 3 0 2 0 3 1 -18
+p555
+aVBen Wallace DET 01/17/2012 DET @ HOU L 19 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 3 0 0 -16
+p556
+aVJason Maxiell DET 01/17/2012 DET @ HOU L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p557
+aVDamien Wilkins DET 01/17/2012 DET @ HOU L 12 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 1
+p558
+aVBen Wallace DET 01/15/2012 DET vs. GSW L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 2 -9
+p559
+aVJason Maxiell DET 01/15/2012 DET vs. GSW L 9 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 1 1 0 1 -6
+p560
+aVBen Gordon DET 01/15/2012 DET vs. GSW L 35 15 6 12 50.0 3 5 60.0 0 1 0.0 0 2 2 6 1 0 1 2 -8
+p561
+aVAustin Daye DET 01/15/2012 DET vs. GSW L 12 3 1 5 20.0 0 3 0.0 1 2 50.0 1 0 1 1 1 0 1 0 2
+p562
+aVGreg Monroe DET 01/15/2012 DET vs. GSW L 39 25 6 12 50.0 0 0 - 13 14 92.9 3 5 8 1 1 1 3 4 -1
+p563
+aVTayshaun Prince DET 01/15/2012 DET vs. GSW L 40 20 8 15 53.3 2 2 100.0 2 2 100.0 1 6 7 1 0 1 2 2 -1
+p564
+aVJonas Jerebko DET 01/15/2012 DET vs. GSW L 25 6 3 7 42.9 0 1 0.0 0 0 - 1 6 7 0 0 0 2 3 -13
+p565
+aVRodney Stuckey DET 01/15/2012 DET vs. GSW L 27 14 4 11 36.4 0 1 0.0 6 7 85.7 0 0 0 6 0 0 1 2 -6
+p566
+aVBrandon Knight DET 01/15/2012 DET vs. GSW L 40 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 5 2 0 3 3 2
+p567
+aVBen Gordon DET 01/13/2012 DET @ CHA W 29 14 5 11 45.5 1 3 33.3 3 3 100.0 1 5 6 5 0 1 4 3 8
+p568
+aVBen Wallace DET 01/13/2012 DET @ CHA W 22 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 1 1 0 1 10
+p569
+aVJonas Jerebko DET 01/13/2012 DET @ CHA W 38 22 9 12 75.0 2 3 66.7 2 2 100.0 4 5 9 1 2 2 1 2 16
+p570
+aVBrandon Knight DET 01/13/2012 DET @ CHA W 35 13 5 11 45.5 2 4 50.0 1 1 100.0 2 8 10 4 1 1 0 4 14
+p571
+aVGreg Monroe DET 01/13/2012 DET @ CHA W 33 19 9 20 45.0 0 0 - 1 2 50.0 3 6 9 5 1 1 1 1 11
+p572
+aVAustin Daye DET 01/13/2012 DET @ CHA W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p573
+aVRodney Stuckey DET 01/13/2012 DET @ CHA W 20 8 2 8 25.0 1 3 33.3 3 4 75.0 1 4 5 3 0 0 2 2 13
+p574
+aVDamien Wilkins DET 01/13/2012 DET @ CHA W 16 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 3 1 0 2 2 -1
+p575
+aVTayshaun Prince DET 01/13/2012 DET @ CHA W 32 10 5 11 45.5 0 0 - 0 2 0.0 1 1 2 3 1 0 1 0 18
+p576
+aVWill Bynum DET 01/13/2012 DET @ CHA W 8 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 2
+p577
+aVVernon Macklin DET 01/13/2012 DET @ CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p578
+aVJason Maxiell DET 01/12/2012 DET @ MIL L 23 2 1 5 20.0 0 0 - 0 0 - 3 2 5 1 2 0 0 1 1
+p579
+aVTayshaun Prince DET 01/12/2012 DET @ MIL L 36 13 6 17 35.3 1 2 50.0 0 0 - 0 1 1 4 0 0 0 1 -19
+p580
+aVJonas Jerebko DET 01/12/2012 DET @ MIL L 23 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 5 -2
+p581
+aVRodney Stuckey DET 01/12/2012 DET @ MIL L 20 11 2 7 28.6 0 0 - 7 7 100.0 2 1 3 4 0 1 2 1 0
+p582
+aVBen Wallace DET 01/12/2012 DET @ MIL L 11 0 0 0 - 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -5
+p583
+aVDamien Wilkins DET 01/12/2012 DET @ MIL L 12 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 2 0 10
+p584
+aVWill Bynum DET 01/12/2012 DET @ MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p585
+aVBen Gordon DET 01/12/2012 DET @ MIL L 40 9 3 14 21.4 0 1 0.0 3 3 100.0 0 1 1 4 0 0 3 4 -8
+p586
+aVBrandon Knight DET 01/12/2012 DET @ MIL L 35 20 7 9 77.8 2 2 100.0 4 4 100.0 0 2 2 3 0 1 5 4 -10
+p587
+aVGreg Monroe DET 01/12/2012 DET @ MIL L 40 32 12 16 75.0 0 0 - 8 8 100.0 4 12 16 2 2 1 2 4 -9
+p588
+aVAustin Daye DET 01/10/2012 DET vs. DAL L 18 7 1 6 16.7 0 2 0.0 5 5 100.0 0 3 3 4 0 0 3 2 12
+p589
+aVTayshaun Prince DET 01/10/2012 DET vs. DAL L 22 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -29
+p590
+aVJonas Jerebko DET 01/10/2012 DET vs. DAL L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 2 3 -17
+p591
+aVBen Gordon DET 01/10/2012 DET vs. DAL L 25 11 3 7 42.9 1 1 100.0 4 5 80.0 0 0 0 3 2 0 1 1 -19
+p592
+aVWill Bynum DET 01/10/2012 DET vs. DAL L 25 20 7 14 50.0 1 3 33.3 5 6 83.3 0 2 2 3 1 0 2 0 6
+p593
+aVDamien Wilkins DET 01/10/2012 DET vs. DAL L 22 8 4 8 50.0 0 1 0.0 0 0 - 0 0 0 1 0 1 2 3 4
+p594
+aVBrandon Knight DET 01/10/2012 DET vs. DAL L 36 12 4 9 44.4 4 5 80.0 0 0 - 0 5 5 2 0 0 6 3 -14
+p595
+aVVernon Macklin DET 01/10/2012 DET vs. DAL L 9 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 0 2 1 0 2 9
+p596
+aVBen Wallace DET 01/10/2012 DET vs. DAL L 10 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 4
+p597
+aVGreg Monroe DET 01/10/2012 DET vs. DAL L 29 9 4 6 66.7 0 0 - 1 2 50.0 3 4 7 2 1 0 2 2 -27
+p598
+aVJason Maxiell DET 01/10/2012 DET vs. DAL L 28 6 2 5 40.0 0 0 - 2 3 66.7 2 4 6 0 1 0 1 2 1
+p599
+aVVernon Macklin DET 01/09/2012 DET @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p600
+aVDamien Wilkins DET 01/09/2012 DET @ CHI L 24 5 2 3 66.7 0 0 - 1 2 50.0 1 5 6 1 0 1 2 2 -5
+p601
+aVGreg Monroe DET 01/09/2012 DET @ CHI L 32 14 5 9 55.6 0 0 - 4 4 100.0 1 9 10 6 1 0 1 2 -12
+p602
+aVJason Maxiell DET 01/09/2012 DET @ CHI L 24 4 1 12 8.3 0 1 0.0 2 2 100.0 4 1 5 0 0 1 1 1 -8
+p603
+aVTayshaun Prince DET 01/09/2012 DET @ CHI L 33 11 5 12 41.7 0 0 - 1 2 50.0 1 1 2 2 1 1 1 0 -20
+p604
+aVJonas Jerebko DET 01/09/2012 DET @ CHI L 24 4 2 8 25.0 0 1 0.0 0 0 - 1 0 1 0 0 1 0 4 -16
+p605
+aVBrandon Knight DET 01/09/2012 DET @ CHI L 37 13 6 10 60.0 1 1 100.0 0 0 - 0 5 5 1 0 0 4 2 -20
+p606
+aVWill Bynum DET 01/09/2012 DET @ CHI L 11 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 0 0 0 4 3 -4
+p607
+aVAustin Daye DET 01/09/2012 DET @ CHI L 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -9
+p608
+aVBen Gordon DET 01/09/2012 DET @ CHI L 27 11 4 8 50.0 0 0 - 3 4 75.0 0 0 0 4 0 0 4 4 -14
+p609
+aVBen Wallace DET 01/09/2012 DET @ CHI L 12 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 0 1 -10
+p610
+aVBen Wallace DET 01/07/2012 DET vs. NYK L 14 4 2 6 33.3 0 0 - 0 0 - 0 3 3 1 0 3 0 1 4
+p611
+aVJason Maxiell DET 01/07/2012 DET vs. NYK L 24 11 2 4 50.0 0 0 - 7 7 100.0 3 3 6 1 1 1 1 2 -4
+p612
+aVVernon Macklin DET 01/07/2012 DET vs. NYK L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 1
+p613
+aVJonas Jerebko DET 01/07/2012 DET vs. NYK L 22 4 1 6 16.7 1 3 33.3 1 2 50.0 3 2 5 1 0 0 0 2 -27
+p614
+aVBrandon Knight DET 01/07/2012 DET vs. NYK L 40 19 7 19 36.8 5 13 38.5 0 0 - 1 5 6 4 3 0 3 3 -25
+p615
+aVWill Bynum DET 01/07/2012 DET vs. NYK L 24 4 1 9 11.1 0 1 0.0 2 4 50.0 2 4 6 1 1 0 1 3 -2
+p616
+aVDamien Wilkins DET 01/07/2012 DET vs. NYK L 25 7 3 5 60.0 0 2 0.0 1 2 50.0 2 2 4 3 1 0 3 2 0
+p617
+aVTayshaun Prince DET 01/07/2012 DET vs. NYK L 23 4 1 6 16.7 1 2 50.0 1 2 50.0 1 1 2 2 0 1 0 2 -23
+p618
+aVBen Gordon DET 01/07/2012 DET vs. NYK L 32 12 5 12 41.7 2 5 40.0 0 1 0.0 0 3 3 3 1 0 9 3 -19
+p619
+aVGreg Monroe DET 01/07/2012 DET vs. NYK L 31 15 7 11 63.6 0 0 - 1 4 25.0 3 2 5 1 0 0 3 3 -20
+p620
+aVDamien Wilkins DET 01/06/2012 DET @ PHI L 23 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 1 0 2 2 -14
+p621
+aVGreg Monroe DET 01/06/2012 DET @ PHI L 35 22 8 16 50.0 0 0 - 6 7 85.7 4 3 7 3 1 2 2 2 -8
+p622
+aVBen Wallace DET 01/06/2012 DET @ PHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p623
+aVVernon Macklin DET 01/06/2012 DET @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p624
+aVJonas Jerebko DET 01/06/2012 DET @ PHI L 32 7 3 9 33.3 0 1 0.0 1 2 50.0 4 5 9 2 2 0 0 1 -21
+p625
+aVTayshaun Prince DET 01/06/2012 DET @ PHI L 34 8 4 13 30.8 0 1 0.0 0 0 - 1 3 4 3 0 0 1 1 -12
+p626
+aVAustin Daye DET 01/06/2012 DET @ PHI L 24 4 2 11 18.2 0 3 0.0 0 0 - 0 2 2 3 1 1 1 2 -10
+p627
+aVWill Bynum DET 01/06/2012 DET @ PHI L 28 10 3 9 33.3 0 0 - 4 5 80.0 0 2 2 2 2 0 2 3 -20
+p628
+aVJason Maxiell DET 01/06/2012 DET @ PHI L 18 10 5 8 62.5 0 0 - 0 0 - 3 2 5 0 2 0 2 3 -9
+p629
+aVBrandon Knight DET 01/06/2012 DET @ PHI L 37 10 5 15 33.3 0 5 0.0 0 0 - 0 9 9 4 0 0 4 2 -14
+p630
+aVDamien Wilkins DET 01/04/2012 DET vs. CHI L 30 10 5 7 71.4 0 0 - 0 0 - 1 2 3 3 2 0 0 3 -2
+p631
+aVWill Bynum DET 01/04/2012 DET vs. CHI L 16 10 5 9 55.6 0 0 - 0 1 0.0 0 1 1 1 1 0 3 1 -7
+p632
+aVBen Gordon DET 01/04/2012 DET vs. CHI L 28 7 2 10 20.0 0 0 - 3 3 100.0 0 4 4 0 0 0 3 4 -17
+p633
+aVBrandon Knight DET 01/04/2012 DET vs. CHI L 22 4 2 9 22.2 0 2 0.0 0 0 - 0 1 1 1 1 0 1 1 -2
+p634
+aVGreg Monroe DET 01/04/2012 DET vs. CHI L 35 19 8 15 53.3 0 0 - 3 3 100.0 5 8 13 5 0 1 2 1 -14
+p635
+aVTayshaun Prince DET 01/04/2012 DET vs. CHI L 33 7 3 11 27.3 0 1 0.0 1 2 50.0 0 4 4 4 3 0 1 1 -14
+p636
+aVJason Maxiell DET 01/04/2012 DET vs. CHI L 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p637
+aVJonas Jerebko DET 01/04/2012 DET vs. CHI L 27 13 5 13 38.5 1 3 33.3 2 2 100.0 3 1 4 0 1 0 1 4 -9
+p638
+aVRodney Stuckey DET 01/04/2012 DET vs. CHI L 15 5 2 5 40.0 0 0 - 1 1 100.0 0 2 2 2 0 0 0 0 -6
+p639
+aVBen Wallace DET 01/04/2012 DET vs. CHI L 14 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -2
+p640
+aVCharlie Villanueva DET 01/04/2012 DET vs. CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -6
+p641
+aVBen Wallace DET 01/02/2012 DET vs. ORL W 20 0 0 0 - 0 0 - 0 0 - 0 5 5 0 5 1 1 3 6
+p642
+aVAustin Daye DET 01/02/2012 DET vs. ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p643
+aVJason Maxiell DET 01/02/2012 DET vs. ORL W 16 9 3 4 75.0 0 0 - 3 4 75.0 0 2 2 0 1 1 1 4 5
+p644
+aVCharlie Villanueva DET 01/02/2012 DET vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p645
+aVBen Gordon DET 01/02/2012 DET vs. ORL W 39 26 8 15 53.3 2 3 66.7 8 9 88.9 0 3 3 6 0 0 5 3 14
+p646
+aVGreg Monroe DET 01/02/2012 DET vs. ORL W 23 10 5 10 50.0 0 0 - 0 1 0.0 6 3 9 1 0 0 1 5 0
+p647
+aVBrandon Knight DET 01/02/2012 DET vs. ORL W 21 8 4 7 57.1 0 2 0.0 0 0 - 1 0 1 3 0 0 3 0 2
+p648
+aVDamien Wilkins DET 01/02/2012 DET vs. ORL W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 1 0 1 -1
+p649
+aVTayshaun Prince DET 01/02/2012 DET vs. ORL W 37 14 5 10 50.0 0 0 - 4 4 100.0 2 3 5 2 0 0 2 0 12
+p650
+aVRodney Stuckey DET 01/02/2012 DET vs. ORL W 37 14 2 8 25.0 0 2 0.0 10 13 76.9 0 2 2 4 2 0 2 0 6
+p651
+aVJonas Jerebko DET 01/02/2012 DET vs. ORL W 36 8 4 6 66.7 0 1 0.0 0 2 0.0 2 9 11 1 0 0 2 3 7
+p652
+aVJonas Jerebko DET 12/31/2011 DET vs. IND W 37 20 8 14 57.1 3 4 75.0 1 3 33.3 1 11 12 1 1 0 1 5 10
+p653
+aVDamien Wilkins DET 12/31/2011 DET vs. IND W 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -11
+p654
+aVRodney Stuckey DET 12/31/2011 DET vs. IND W 39 15 5 12 41.7 1 1 100.0 4 4 100.0 1 6 7 7 0 0 4 2 2
+p655
+aVBrandon Knight DET 12/31/2011 DET vs. IND W 23 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 6 0 0 3 2 1
+p656
+aVBen Gordon DET 12/31/2011 DET vs. IND W 34 16 6 12 50.0 2 4 50.0 2 2 100.0 1 2 3 4 1 0 2 2 13
+p657
+aVBen Wallace DET 12/31/2011 DET vs. IND W 10 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 6
+p658
+aVGreg Monroe DET 12/31/2011 DET vs. IND W 33 19 8 12 66.7 0 0 - 3 4 75.0 4 7 11 4 0 1 4 4 7
+p659
+aVAustin Daye DET 12/31/2011 DET vs. IND W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 0 8
+p660
+aVTayshaun Prince DET 12/31/2011 DET vs. IND W 36 12 5 13 38.5 2 3 66.7 0 0 - 0 4 4 1 1 0 3 2 2
+p661
+aVJason Maxiell DET 12/31/2011 DET vs. IND W 13 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 1 0 0 3 2
+p662
+aVJonas Jerebko DET 12/30/2011 DET @ BOS L 28 10 4 6 66.7 0 0 - 2 2 100.0 2 3 5 0 0 0 1 1 -18
+p663
+aVWill Bynum DET 12/30/2011 DET @ BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p664
+aVRodney Stuckey DET 12/30/2011 DET @ BOS L 27 3 1 11 9.1 0 4 0.0 1 2 50.0 0 2 2 7 1 0 1 0 -15
+p665
+aVBen Gordon DET 12/30/2011 DET @ BOS L 29 9 4 10 40.0 0 2 0.0 1 1 100.0 0 3 3 5 0 0 0 3 -4
+p666
+aVBen Wallace DET 12/30/2011 DET @ BOS L 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 14
+p667
+aVBrandon Knight DET 12/30/2011 DET @ BOS L 26 10 3 11 27.3 2 5 40.0 2 2 100.0 1 2 3 0 0 0 2 3 -13
+p668
+aVDamien Wilkins DET 12/30/2011 DET @ BOS L 12 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 4
+p669
+aVAustin Daye DET 12/30/2011 DET @ BOS L 16 11 5 11 45.5 0 2 0.0 1 1 100.0 1 4 5 0 0 0 1 3 5
+p670
+aVJason Maxiell DET 12/30/2011 DET @ BOS L 18 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 2 0 -6
+p671
+aVTayshaun Prince DET 12/30/2011 DET @ BOS L 31 10 4 9 44.4 1 2 50.0 1 1 100.0 1 1 2 1 0 0 0 0 -17
+p672
+aVGreg Monroe DET 12/30/2011 DET @ BOS L 34 22 9 12 75.0 0 0 - 4 4 100.0 6 3 9 4 2 0 2 3 -19
+p673
+aVVernon Macklin DET 12/30/2011 DET @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p674
+aVGreg Monroe DET 12/28/2011 DET vs. CLE L 36 10 5 10 50.0 0 0 - 0 0 - 3 4 7 2 1 0 5 1 -5
+p675
+aVVernon Macklin DET 12/28/2011 DET vs. CLE L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p676
+aVDamien Wilkins DET 12/28/2011 DET vs. CLE L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p677
+aVTayshaun Prince DET 12/28/2011 DET vs. CLE L 27 10 4 8 50.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 3 1 -15
+p678
+aVRodney Stuckey DET 12/28/2011 DET vs. CLE L 32 11 4 12 33.3 1 3 33.3 2 2 100.0 1 2 3 3 0 0 1 2 -9
+p679
+aVJonas Jerebko DET 12/28/2011 DET vs. CLE L 31 8 3 10 30.0 1 2 50.0 1 2 50.0 4 2 6 0 2 0 0 5 -13
+p680
+aVJason Maxiell DET 12/28/2011 DET vs. CLE L 15 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 1 0 0 1 -6
+p681
+aVBrandon Knight DET 12/28/2011 DET vs. CLE L 29 23 10 13 76.9 3 5 60.0 0 1 0.0 0 1 1 6 2 0 2 4 -6
+p682
+aVBen Gordon DET 12/28/2011 DET vs. CLE L 40 25 9 19 47.4 4 9 44.4 3 4 75.0 0 0 0 4 1 0 2 3 -13
+p683
+aVAustin Daye DET 12/28/2011 DET vs. CLE L 14 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 0 2 1 3 2 -5
+p684
+aVBen Wallace DET 12/28/2011 DET vs. CLE L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 1 -13
+p685
+aVJonas Jerebko DET 12/26/2011 DET @ IND L 38 17 7 11 63.6 0 2 0.0 3 4 75.0 2 3 5 1 1 1 0 3 -6
+p686
+aVWill Bynum DET 12/26/2011 DET @ IND L 13 6 1 5 20.0 1 2 50.0 3 4 75.0 1 2 3 3 0 0 2 4 -3
+p687
+aVBrandon Knight DET 12/26/2011 DET @ IND L 17 9 3 9 33.3 3 6 50.0 0 0 - 0 1 1 0 1 0 4 0 -10
+p688
+aVRodney Stuckey DET 12/26/2011 DET @ IND L 33 17 5 11 45.5 2 3 66.7 5 5 100.0 0 3 3 6 2 1 3 2 0
+p689
+aVBen Gordon DET 12/26/2011 DET @ IND L 34 14 4 14 28.6 1 4 25.0 5 6 83.3 1 3 4 2 0 1 5 1 -11
+p690
+aVTayshaun Prince DET 12/26/2011 DET @ IND L 34 6 3 10 30.0 0 1 0.0 0 0 - 0 3 3 2 0 1 0 0 -7
+p691
+aVJason Maxiell DET 12/26/2011 DET @ IND L 17 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -5
+p692
+aVBen Wallace DET 12/26/2011 DET @ IND L 20 2 1 3 33.3 0 0 - 0 0 - 2 5 7 1 0 3 1 1 -11
+p693
+aVAustin Daye DET 12/26/2011 DET @ IND L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 7 7 1 0 0 1 2 -5
+p694
+aVGreg Monroe DET 12/26/2011 DET @ IND L 22 8 3 7 42.9 0 0 - 2 2 100.0 3 4 7 1 1 0 0 5 -2
+p695
+a.

@@ -1,0 +1,1640 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDion Glover ATL 04/19/2000 ATL @ IND L 24 8 3 11 27.3 0 3 0.0 2 2 100.0 0 1 1 0 2 0 0 1 -7
+p2
+aVRoshown McLeod ATL 04/19/2000 ATL @ IND L 20 9 2 7 28.6 0 1 0.0 5 6 83.3 2 2 4 0 0 0 2 3 -14
+p3
+aVDikembe Mutombo ATL 04/19/2000 ATL @ IND L 13 5 2 5 40.0 0 0 - 1 2 50.0 3 2 5 1 0 2 0 1 -3
+p4
+aVBimbo Coles ATL 04/19/2000 ATL @ IND L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 1 0 0 1 0
+p5
+aVCal Bowdler ATL 04/19/2000 ATL @ IND L 21 5 2 7 28.6 0 1 0.0 1 2 50.0 1 3 4 1 2 1 2 0 -4
+p6
+aVJason Terry ATL 04/19/2000 ATL @ IND L 28 8 4 12 33.3 0 2 0.0 0 0 - 1 3 4 6 1 0 0 0 -13
+p7
+aVJim Jackson ATL 04/19/2000 ATL @ IND L 24 16 6 15 40.0 2 5 40.0 2 2 100.0 1 1 2 2 2 0 0 0 -12
+p8
+aVLaPhonso Ellis ATL 04/19/2000 ATL @ IND L 28 5 2 9 22.2 0 0 - 1 2 50.0 0 10 10 2 1 0 0 4 -5
+p9
+aVAlan Henderson ATL 04/19/2000 ATL @ IND L 27 8 2 7 28.6 0 0 - 4 4 100.0 1 1 2 0 0 0 0 2 -15
+p10
+aVLorenzen Wright ATL 04/19/2000 ATL @ IND L 35 23 9 13 69.2 1 1 100.0 4 9 44.4 1 7 8 1 3 2 2 4 -16
+p11
+aVDrew Barry ATL 04/19/2000 ATL @ IND L 10 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 -6
+p12
+aVAlan Henderson ATL 04/18/2000 ATL vs. NJN W 29 13 5 8 62.5 0 0 - 3 5 60.0 2 1 3 0 0 0 0 4 5
+p13
+aVCal Bowdler ATL 04/18/2000 ATL vs. NJN W 12 4 1 4 25.0 0 0 - 2 3 66.7 3 2 5 0 0 0 1 2 -11
+p14
+aVDikembe Mutombo ATL 04/18/2000 ATL vs. NJN W 48 13 6 13 46.2 0 0 - 1 2 50.0 4 18 22 0 3 7 2 1 23
+p15
+aVBimbo Coles ATL 04/18/2000 ATL vs. NJN W 33 14 6 11 54.5 0 2 0.0 2 2 100.0 1 1 2 2 4 0 3 4 -3
+p16
+aVDion Glover ATL 04/18/2000 ATL vs. NJN W 24 10 3 9 33.3 0 0 - 4 4 100.0 2 2 4 3 0 0 1 1 -11
+p17
+aVLorenzen Wright ATL 04/18/2000 ATL vs. NJN W 28 10 3 8 37.5 0 0 - 4 4 100.0 3 6 9 1 0 2 2 3 -14
+p18
+aVJim Jackson ATL 04/18/2000 ATL vs. NJN W 48 15 7 25 28.0 0 2 0.0 1 2 50.0 0 4 4 5 0 0 4 5 8
+p19
+aVJason Terry ATL 04/18/2000 ATL vs. NJN W 39 16 6 11 54.5 2 3 66.7 2 2 100.0 1 7 8 9 1 0 6 3 10
+p20
+aVLaPhonso Ellis ATL 04/18/2000 ATL vs. NJN W 31 16 8 12 66.7 0 1 0.0 0 0 - 1 2 3 1 1 1 2 2 3
+p21
+aVCal Bowdler ATL 04/16/2000 ATL vs. CLE W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p22
+aVJason Terry ATL 04/16/2000 ATL vs. CLE W 31 3 1 7 14.3 1 2 50.0 0 0 - 1 1 2 11 0 0 2 1 3
+p23
+aVLorenzen Wright ATL 04/16/2000 ATL vs. CLE W 25 12 4 7 57.1 0 0 - 4 6 66.7 2 4 6 1 1 1 2 5 -3
+p24
+aVJim Jackson ATL 04/16/2000 ATL vs. CLE W 24 17 6 10 60.0 4 6 66.7 1 1 100.0 0 1 1 6 2 0 1 2 13
+p25
+aVRoshown McLeod ATL 04/16/2000 ATL vs. CLE W 18 7 3 8 37.5 0 0 - 1 2 50.0 2 3 5 2 0 0 6 4 -3
+p26
+aVBimbo Coles ATL 04/16/2000 ATL vs. CLE W 17 10 3 5 60.0 0 2 0.0 4 4 100.0 0 1 1 2 1 0 3 0 2
+p27
+aVDikembe Mutombo ATL 04/16/2000 ATL vs. CLE W 28 12 5 6 83.3 0 0 - 2 2 100.0 4 14 18 0 0 2 1 6 6
+p28
+aVAlan Henderson ATL 04/16/2000 ATL vs. CLE W 31 19 7 13 53.8 0 1 0.0 5 8 62.5 2 1 3 0 1 0 1 3 5
+p29
+aVLaPhonso Ellis ATL 04/16/2000 ATL vs. CLE W 34 12 5 12 41.7 0 0 - 2 5 40.0 1 7 8 0 0 0 1 1 3
+p30
+aVDion Glover ATL 04/16/2000 ATL vs. CLE W 24 12 5 6 83.3 1 1 100.0 1 3 33.3 0 2 2 3 1 0 2 1 -10
+p31
+aVDikembe Mutombo ATL 04/14/2000 ATL vs. PHI L 41 16 7 9 77.8 0 0 - 2 2 100.0 3 9 12 2 1 3 1 5 -4
+p32
+aVLorenzen Wright ATL 04/14/2000 ATL vs. PHI L 25 9 2 11 18.2 0 0 - 5 6 83.3 6 2 8 0 0 0 2 4 -3
+p33
+aVJim Jackson ATL 04/14/2000 ATL vs. PHI L 24 11 5 13 38.5 1 2 50.0 0 0 - 0 0 0 3 1 0 2 0 -5
+p34
+aVBimbo Coles ATL 04/14/2000 ATL vs. PHI L 8 3 0 1 0.0 0 0 - 3 3 100.0 0 0 0 1 0 0 0 1 -6
+p35
+aVJason Terry ATL 04/14/2000 ATL vs. PHI L 40 20 9 14 64.3 2 3 66.7 0 0 - 1 2 3 9 2 0 1 1 -6
+p36
+aVDion Glover ATL 04/14/2000 ATL vs. PHI L 24 12 3 8 37.5 1 2 50.0 5 5 100.0 0 2 2 0 2 0 4 2 -7
+p37
+aVAlan Henderson ATL 04/14/2000 ATL vs. PHI L 24 6 3 11 27.3 0 0 - 0 0 - 3 2 5 1 1 0 1 2 -7
+p38
+aVCal Bowdler ATL 04/14/2000 ATL vs. PHI L 19 4 2 4 50.0 0 0 - 0 0 - 0 5 5 0 1 1 1 4 -4
+p39
+aVRoshown McLeod ATL 04/14/2000 ATL vs. PHI L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p40
+aVLaPhonso Ellis ATL 04/14/2000 ATL vs. PHI L 31 9 4 10 40.0 1 2 50.0 0 0 - 1 3 4 3 1 0 1 3 -13
+p41
+aVLaPhonso Ellis ATL 04/12/2000 ATL @ CHH L 32 10 5 11 45.5 0 1 0.0 0 0 - 1 2 3 1 0 2 1 2 -18
+p42
+aVDion Glover ATL 04/12/2000 ATL @ CHH L 24 14 6 13 46.2 0 2 0.0 2 2 100.0 2 1 3 1 0 1 0 2 -22
+p43
+aVJason Terry ATL 04/12/2000 ATL @ CHH L 32 7 3 8 37.5 0 2 0.0 1 2 50.0 0 3 3 8 3 0 5 1 -10
+p44
+aVCal Bowdler ATL 04/12/2000 ATL @ CHH L 17 13 6 8 75.0 0 0 - 1 1 100.0 1 1 2 1 1 0 0 3 -15
+p45
+aVJim Jackson ATL 04/12/2000 ATL @ CHH L 31 13 6 14 42.9 1 1 100.0 0 0 - 0 3 3 4 0 0 4 1 -17
+p46
+aVDikembe Mutombo ATL 04/12/2000 ATL @ CHH L 29 3 0 0 - 0 0 - 3 4 75.0 2 5 7 3 0 0 3 3 -12
+p47
+aVAlan Henderson ATL 04/12/2000 ATL @ CHH L 23 8 3 11 27.3 0 1 0.0 2 3 66.7 1 2 3 1 3 1 1 5 -8
+p48
+aVBimbo Coles ATL 04/12/2000 ATL @ CHH L 20 12 5 7 71.4 0 1 0.0 2 2 100.0 0 0 0 3 0 0 1 1 -24
+p49
+aVDrew Barry ATL 04/12/2000 ATL @ CHH L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 2 -7
+p50
+aVLorenzen Wright ATL 04/12/2000 ATL @ CHH L 23 7 2 9 22.2 0 1 0.0 3 4 75.0 3 4 7 1 0 1 2 6 -27
+p51
+aVCal Bowdler ATL 04/10/2000 ATL @ BOS L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -2
+p52
+aVLaPhonso Ellis ATL 04/10/2000 ATL @ BOS L 34 13 5 11 45.5 1 1 100.0 2 2 100.0 2 5 7 0 0 2 1 1 -7
+p53
+aVDrew Barry ATL 04/10/2000 ATL @ BOS L 20 8 2 3 66.7 1 2 50.0 3 3 100.0 0 0 0 3 0 0 2 3 -6
+p54
+aVBimbo Coles ATL 04/10/2000 ATL @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p55
+aVDikembe Mutombo ATL 04/10/2000 ATL @ BOS L 42 12 5 6 83.3 0 0 - 2 4 50.0 2 13 15 3 0 4 4 3 3
+p56
+aVDion Glover ATL 04/10/2000 ATL @ BOS L 21 7 2 4 50.0 0 1 0.0 3 4 75.0 1 1 2 2 0 0 1 3 -2
+p57
+aVAlan Henderson ATL 04/10/2000 ATL @ BOS L 28 14 5 9 55.6 0 0 - 4 8 50.0 1 2 3 0 3 1 3 3 -8
+p58
+aVLorenzen Wright ATL 04/10/2000 ATL @ BOS L 18 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 1 0 1 0 1 -3
+p59
+aVJason Terry ATL 04/10/2000 ATL @ BOS L 23 7 3 7 42.9 1 2 50.0 0 0 - 0 0 0 4 1 0 2 3 -1
+p60
+aVJim Jackson ATL 04/10/2000 ATL @ BOS L 45 27 9 21 42.9 1 6 16.7 8 8 100.0 3 7 10 4 0 0 5 2 1
+p61
+aVDikembe Mutombo ATL 04/08/2000 ATL @ WAS L 24 10 4 8 50.0 0 0 - 2 3 66.7 1 8 9 1 0 2 1 3 -2
+p62
+aVLaPhonso Ellis ATL 04/08/2000 ATL @ WAS L 37 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 0 1 1 0 2 -19
+p63
+aVLorenzen Wright ATL 04/08/2000 ATL @ WAS L 24 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 0 1 1 5 -8
+p64
+aVJason Terry ATL 04/08/2000 ATL @ WAS L 23 4 2 10 20.0 0 0 - 0 0 - 0 0 0 1 0 0 4 1 -13
+p65
+aVCal Bowdler ATL 04/08/2000 ATL @ WAS L 20 9 3 3 100.0 0 0 - 3 3 100.0 2 5 7 0 0 2 0 0 6
+p66
+aVJim Jackson ATL 04/08/2000 ATL @ WAS L 31 9 2 11 18.2 0 2 0.0 5 5 100.0 1 2 3 2 1 0 3 0 -18
+p67
+aVBimbo Coles ATL 04/08/2000 ATL @ WAS L 25 15 6 13 46.2 2 2 100.0 1 2 50.0 0 0 0 6 1 0 1 3 3
+p68
+aVDrew Barry ATL 04/08/2000 ATL @ WAS L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 10
+p69
+aVDion Glover ATL 04/08/2000 ATL @ WAS L 17 15 4 5 80.0 0 0 - 7 9 77.8 1 0 1 0 1 0 2 1 8
+p70
+aVAlan Henderson ATL 04/08/2000 ATL @ WAS L 32 22 9 15 60.0 0 0 - 4 4 100.0 4 2 6 1 2 0 3 4 -17
+p71
+aVJim Jackson ATL 04/07/2000 ATL vs. TOR L 31 14 6 14 42.9 2 5 40.0 0 0 - 0 2 2 2 0 0 1 1 -23
+p72
+aVCal Bowdler ATL 04/07/2000 ATL vs. TOR L 17 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -9
+p73
+aVDikembe Mutombo ATL 04/07/2000 ATL vs. TOR L 41 11 4 7 57.1 0 0 - 3 3 100.0 3 12 15 3 1 1 2 3 -9
+p74
+aVRoshown McLeod ATL 04/07/2000 ATL vs. TOR L 13 2 1 6 16.7 0 0 - 0 0 - 4 0 4 0 0 0 0 2 -9
+p75
+aVDion Glover ATL 04/07/2000 ATL vs. TOR L 23 4 1 8 12.5 1 4 25.0 1 2 50.0 1 3 4 1 0 0 2 2 -1
+p76
+aVLaPhonso Ellis ATL 04/07/2000 ATL vs. TOR L 28 10 4 11 36.4 0 1 0.0 2 4 50.0 2 3 5 1 2 0 1 2 -12
+p77
+aVBimbo Coles ATL 04/07/2000 ATL vs. TOR L 19 0 0 4 0.0 0 0 - 0 0 - 0 1 1 3 2 0 2 0 -10
+p78
+aVDrew Barry ATL 04/07/2000 ATL vs. TOR L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 0
+p79
+aVJason Terry ATL 04/07/2000 ATL vs. TOR L 29 14 4 8 50.0 1 2 50.0 5 6 83.3 0 2 2 7 0 1 2 0 -10
+p80
+aVAlan Henderson ATL 04/07/2000 ATL vs. TOR L 33 24 11 16 68.8 0 0 - 2 3 66.7 3 4 7 0 2 0 1 2 -17
+p81
+aVDion Glover ATL 04/05/2000 ATL @ PHI L 24 18 5 8 62.5 1 3 33.3 7 7 100.0 2 0 2 0 2 0 1 2 -7
+p82
+aVJason Terry ATL 04/05/2000 ATL @ PHI L 35 11 4 10 40.0 0 2 0.0 3 4 75.0 0 0 0 2 2 0 2 4 -25
+p83
+aVDikembe Mutombo ATL 04/05/2000 ATL @ PHI L 40 12 5 10 50.0 0 0 - 2 4 50.0 5 11 16 5 0 1 1 1 -12
+p84
+aVRoshown McLeod ATL 04/05/2000 ATL @ PHI L 19 7 3 5 60.0 0 1 0.0 1 2 50.0 1 2 3 2 0 0 1 3 -6
+p85
+aVAlan Henderson ATL 04/05/2000 ATL @ PHI L 28 7 3 9 33.3 0 0 - 1 4 25.0 1 2 3 1 2 0 5 2 -23
+p86
+aVBimbo Coles ATL 04/05/2000 ATL @ PHI L 28 13 6 11 54.5 0 0 - 1 2 50.0 0 1 1 5 1 1 2 2 -11
+p87
+aVLaPhonso Ellis ATL 04/05/2000 ATL @ PHI L 33 12 5 13 38.5 0 1 0.0 2 2 100.0 2 6 8 2 0 0 1 4 -17
+p88
+aVDrew Barry ATL 04/05/2000 ATL @ PHI L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 2 1
+p89
+aVCal Bowdler ATL 04/05/2000 ATL @ PHI L 24 6 3 8 37.5 0 0 - 0 0 - 1 3 4 1 0 2 1 3 -5
+p90
+aVLaPhonso Ellis ATL 04/04/2000 ATL @ MIN L 33 10 5 14 35.7 0 1 0.0 0 0 - 3 4 7 3 1 0 4 3 -11
+p91
+aVJason Terry ATL 04/04/2000 ATL @ MIN L 31 11 5 11 45.5 1 3 33.3 0 0 - 0 0 0 3 0 0 4 1 4
+p92
+aVCal Bowdler ATL 04/04/2000 ATL @ MIN L 28 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 2 0 0 0 3 -9
+p93
+aVAlan Henderson ATL 04/04/2000 ATL @ MIN L 32 6 3 10 30.0 0 1 0.0 0 0 - 3 3 6 2 0 2 1 3 -12
+p94
+aVRoshown McLeod ATL 04/04/2000 ATL @ MIN L 20 8 4 9 44.4 0 1 0.0 0 1 0.0 0 6 6 3 0 0 0 2 1
+p95
+aVBimbo Coles ATL 04/04/2000 ATL @ MIN L 23 4 2 7 28.6 0 0 - 0 0 - 1 0 1 5 0 0 1 2 -12
+p96
+aVDikembe Mutombo ATL 04/04/2000 ATL @ MIN L 46 9 4 5 80.0 0 0 - 1 3 33.3 2 14 16 1 0 4 3 4 1
+p97
+aVJim Jackson ATL 04/04/2000 ATL @ MIN L 31 13 5 12 41.7 1 2 50.0 2 2 100.0 0 4 4 3 2 0 3 1 5
+p98
+aVDion Glover ATL 04/04/2000 ATL @ MIN L 22 10 4 8 50.0 1 1 100.0 1 3 33.3 0 3 3 0 0 0 1 0 -17
+p99
+aVDion Glover ATL 04/01/2000 ATL @ HOU L 19 7 2 9 22.2 1 3 33.3 2 2 100.0 1 0 1 1 0 0 1 2 -20
+p100
+aVLorenzen Wright ATL 04/01/2000 ATL @ HOU L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p101
+aVCal Bowdler ATL 04/01/2000 ATL @ HOU L 15 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 2 0 0 0 -12
+p102
+aVAlan Henderson ATL 04/01/2000 ATL @ HOU L 34 20 10 20 50.0 0 1 0.0 0 0 - 5 1 6 1 3 0 0 0 -14
+p103
+aVBimbo Coles ATL 04/01/2000 ATL @ HOU L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -13
+p104
+aVDrew Barry ATL 04/01/2000 ATL @ HOU L 4 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 0
+p105
+aVRoshown McLeod ATL 04/01/2000 ATL @ HOU L 24 4 2 12 16.7 0 0 - 0 0 - 2 5 7 0 0 0 3 3 -13
+p106
+aVDikembe Mutombo ATL 04/01/2000 ATL @ HOU L 34 8 2 7 28.6 0 0 - 4 6 66.7 3 12 15 0 1 6 0 3 -4
+p107
+aVJason Terry ATL 04/01/2000 ATL @ HOU L 32 14 6 12 50.0 2 3 66.7 0 0 - 0 1 1 10 2 0 2 2 -9
+p108
+aVJim Jackson ATL 04/01/2000 ATL @ HOU L 29 21 8 21 38.1 1 4 25.0 4 5 80.0 4 3 7 6 0 0 1 4 -2
+p109
+aVLaPhonso Ellis ATL 04/01/2000 ATL @ HOU L 29 6 3 9 33.3 0 0 - 0 0 - 3 2 5 0 0 0 0 4 -11
+p110
+aVJim Jackson ATL 03/30/2000 ATL vs. PHX L 21 11 5 12 41.7 1 2 50.0 0 0 - 0 2 2 1 0 0 3 1 -13
+p111
+aVRoshown McLeod ATL 03/30/2000 ATL vs. PHX L 23 6 3 11 27.3 0 1 0.0 0 0 - 0 1 1 0 1 0 1 2 -14
+p112
+aVDion Glover ATL 03/30/2000 ATL vs. PHX L 24 6 2 11 18.2 0 2 0.0 2 2 100.0 1 1 2 1 0 0 2 2 -24
+p113
+aVAlan Henderson ATL 03/30/2000 ATL vs. PHX L 26 6 3 8 37.5 0 0 - 0 0 - 3 3 6 1 2 0 3 1 -21
+p114
+aVDikembe Mutombo ATL 03/30/2000 ATL vs. PHX L 30 7 2 2 100.0 0 0 - 3 3 100.0 3 7 10 0 0 4 2 0 -28
+p115
+aVBimbo Coles ATL 03/30/2000 ATL vs. PHX L 19 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 1 -25
+p116
+aVCal Bowdler ATL 03/30/2000 ATL vs. PHX L 14 8 4 8 50.0 0 0 - 0 0 - 1 4 5 0 0 0 1 0 -10
+p117
+aVDrew Barry ATL 03/30/2000 ATL vs. PHX L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 3 0 -6
+p118
+aVLorenzen Wright ATL 03/30/2000 ATL vs. PHX L 20 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 0 0 0 1 1 -20
+p119
+aVChris Crawford ATL 03/30/2000 ATL vs. PHX L 10 4 0 4 0.0 0 0 - 4 6 66.7 0 2 2 0 1 0 0 0 -9
+p120
+aVJason Terry ATL 03/30/2000 ATL vs. PHX L 24 11 4 6 66.7 1 1 100.0 2 2 100.0 0 1 1 9 2 0 6 1 -20
+p121
+aVLaPhonso Ellis ATL 03/30/2000 ATL vs. PHX L 21 3 1 5 20.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 0 -30
+p122
+aVBimbo Coles ATL 03/28/2000 ATL vs. DEN W 17 9 2 6 33.3 0 0 - 5 8 62.5 1 2 3 4 2 0 1 2 6
+p123
+aVLorenzen Wright ATL 03/28/2000 ATL vs. DEN W 17 8 4 6 66.7 0 0 - 0 0 - 3 1 4 1 0 0 0 0 10
+p124
+aVRoshown McLeod ATL 03/28/2000 ATL vs. DEN W 21 6 3 8 37.5 0 0 - 0 0 - 2 1 3 4 0 0 2 2 -9
+p125
+aVAlan Henderson ATL 03/28/2000 ATL vs. DEN W 37 24 8 15 53.3 0 0 - 8 10 80.0 3 2 5 3 1 0 5 3 -3
+p126
+aVJason Terry ATL 03/28/2000 ATL vs. DEN W 31 12 5 6 83.3 0 0 - 2 2 100.0 0 3 3 6 1 0 1 3 -1
+p127
+aVDikembe Mutombo ATL 03/28/2000 ATL vs. DEN W 42 24 9 10 90.0 0 0 - 6 7 85.7 5 11 16 0 0 7 6 5 3
+p128
+aVDion Glover ATL 03/28/2000 ATL vs. DEN W 20 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 1 0 1 1 12
+p129
+aVLaPhonso Ellis ATL 03/28/2000 ATL vs. DEN W 27 16 7 16 43.8 0 1 0.0 2 2 100.0 4 4 8 4 1 1 0 3 14
+p130
+aVJim Jackson ATL 03/28/2000 ATL vs. DEN W 28 14 6 11 54.5 0 1 0.0 2 2 100.0 1 4 5 3 1 0 2 1 -7
+p131
+aVJim Jackson ATL 03/25/2000 ATL vs. CHH L 28 6 2 13 15.4 1 5 20.0 1 1 100.0 0 1 1 2 1 0 0 0 0
+p132
+aVLorenzen Wright ATL 03/25/2000 ATL vs. CHH L 18 4 2 10 20.0 0 0 - 0 0 - 4 2 6 0 0 1 1 3 -14
+p133
+aVLaPhonso Ellis ATL 03/25/2000 ATL vs. CHH L 23 6 2 10 20.0 0 0 - 2 4 50.0 2 5 7 2 0 0 0 2 -20
+p134
+aVCal Bowdler ATL 03/25/2000 ATL vs. CHH L 10 5 1 5 20.0 0 0 - 3 4 75.0 0 0 0 0 1 0 1 2 -11
+p135
+aVRoshown McLeod ATL 03/25/2000 ATL vs. CHH L 25 7 3 10 30.0 0 0 - 1 2 50.0 1 7 8 2 1 0 1 2 4
+p136
+aVBimbo Coles ATL 03/25/2000 ATL vs. CHH L 21 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 2 0 -18
+p137
+aVAlan Henderson ATL 03/25/2000 ATL vs. CHH L 34 17 8 10 80.0 0 0 - 1 1 100.0 1 2 3 1 2 0 0 3 -6
+p138
+aVJason Terry ATL 03/25/2000 ATL vs. CHH L 27 6 3 10 30.0 0 0 - 0 0 - 0 1 1 6 0 0 3 2 2
+p139
+aVDion Glover ATL 03/25/2000 ATL vs. CHH L 20 6 2 8 25.0 0 2 0.0 2 3 66.7 0 0 0 0 0 0 2 1 -16
+p140
+aVDikembe Mutombo ATL 03/25/2000 ATL vs. CHH L 35 11 5 8 62.5 0 0 - 1 1 100.0 7 13 20 0 0 2 2 1 -1
+p141
+aVRoshown McLeod ATL 03/24/2000 ATL @ NYK L 27 11 5 8 62.5 0 0 - 1 2 50.0 3 3 6 0 1 1 2 3 -8
+p142
+aVCal Bowdler ATL 03/24/2000 ATL @ NYK L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -4
+p143
+aVLaPhonso Ellis ATL 03/24/2000 ATL @ NYK L 20 6 2 7 28.6 0 1 0.0 2 2 100.0 2 3 5 1 1 0 2 2 3
+p144
+aVChris Crawford ATL 03/24/2000 ATL @ NYK L 13 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 2 2
+p145
+aVAlan Henderson ATL 03/24/2000 ATL @ NYK L 26 6 3 7 42.9 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -11
+p146
+aVDion Glover ATL 03/24/2000 ATL @ NYK L 22 9 3 6 50.0 1 3 33.3 2 3 66.7 2 3 5 2 1 0 1 1 -1
+p147
+aVLorenzen Wright ATL 03/24/2000 ATL @ NYK L 24 10 4 12 33.3 0 0 - 2 2 100.0 1 4 5 1 0 0 0 1 -4
+p148
+aVBimbo Coles ATL 03/24/2000 ATL @ NYK L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p149
+aVJason Terry ATL 03/24/2000 ATL @ NYK L 35 17 7 12 58.3 0 0 - 3 3 100.0 0 3 3 8 0 0 1 3 -5
+p150
+aVJim Jackson ATL 03/24/2000 ATL @ NYK L 29 12 6 15 40.0 0 3 0.0 0 0 - 1 1 2 2 1 1 3 4 -17
+p151
+aVDikembe Mutombo ATL 03/24/2000 ATL @ NYK L 24 3 1 5 20.0 0 0 - 1 2 50.0 0 6 6 1 0 1 1 1 -8
+p152
+aVChris Crawford ATL 03/22/2000 ATL @ ORL L 31 18 6 14 42.9 0 2 0.0 6 6 100.0 1 4 5 1 2 2 1 2 5
+p153
+aVLaPhonso Ellis ATL 03/22/2000 ATL @ ORL L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 4 -3
+p154
+aVJim Jackson ATL 03/22/2000 ATL @ ORL L 21 7 2 11 18.2 0 0 - 3 4 75.0 3 3 6 1 2 0 1 1 -19
+p155
+aVCal Bowdler ATL 03/22/2000 ATL @ ORL L 15 0 0 0 - 0 0 - 0 2 0.0 1 1 2 1 1 0 3 4 11
+p156
+aVDion Glover ATL 03/22/2000 ATL @ ORL L 27 18 7 12 58.3 1 4 25.0 3 7 42.9 0 3 3 5 2 2 1 1 8
+p157
+aVBimbo Coles ATL 03/22/2000 ATL @ ORL L 24 7 3 8 37.5 0 1 0.0 1 2 50.0 0 3 3 3 0 0 0 3 7
+p158
+aVLorenzen Wright ATL 03/22/2000 ATL @ ORL L 34 18 8 12 66.7 0 0 - 2 4 50.0 1 4 5 0 4 3 3 4 -2
+p159
+aVDikembe Mutombo ATL 03/22/2000 ATL @ ORL L 14 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 4 3 2 -9
+p160
+aVAlan Henderson ATL 03/22/2000 ATL @ ORL L 20 4 2 8 25.0 0 1 0.0 0 3 0.0 3 0 3 0 0 0 1 1 -19
+p161
+aVRoshown McLeod ATL 03/22/2000 ATL @ ORL L 17 2 0 6 0.0 0 0 - 2 2 100.0 1 4 5 1 1 0 0 1 -16
+p162
+aVJason Terry ATL 03/22/2000 ATL @ ORL L 24 12 6 11 54.5 0 4 0.0 0 0 - 0 2 2 0 0 0 2 3 -18
+p163
+aVChris Crawford ATL 03/21/2000 ATL vs. MIA W 9 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 0 0 0 1 0 1
+p164
+aVBimbo Coles ATL 03/21/2000 ATL vs. MIA W 9 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 0 0 0 2 3 2
+p165
+aVRoshown McLeod ATL 03/21/2000 ATL vs. MIA W 28 13 6 15 40.0 0 0 - 1 2 50.0 2 3 5 0 0 0 2 2 6
+p166
+aVJason Terry ATL 03/21/2000 ATL vs. MIA W 40 11 5 14 35.7 0 2 0.0 1 2 50.0 0 2 2 11 4 0 2 1 2
+p167
+aVLorenzen Wright ATL 03/21/2000 ATL vs. MIA W 20 8 4 6 66.7 0 0 - 0 0 - 3 3 6 0 2 1 1 4 6
+p168
+aVLaPhonso Ellis ATL 03/21/2000 ATL vs. MIA W 13 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 0 2 0
+p169
+aVAlan Henderson ATL 03/21/2000 ATL vs. MIA W 30 15 6 19 31.6 0 0 - 3 3 100.0 4 3 7 1 1 1 0 0 5
+p170
+aVDikembe Mutombo ATL 03/21/2000 ATL vs. MIA W 34 4 2 4 50.0 0 0 - 0 0 - 4 10 14 0 1 3 1 3 0
+p171
+aVJim Jackson ATL 03/21/2000 ATL vs. MIA W 28 15 5 15 33.3 1 4 25.0 4 4 100.0 1 4 5 4 0 0 2 1 7
+p172
+aVCal Bowdler ATL 03/21/2000 ATL vs. MIA W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p173
+aVDion Glover ATL 03/21/2000 ATL vs. MIA W 22 4 2 6 33.3 0 1 0.0 0 1 0.0 2 0 2 2 1 1 1 1 -2
+p174
+aVAlan Henderson ATL 03/19/2000 ATL vs. DAL L 35 24 9 16 56.3 0 0 - 6 7 85.7 5 5 10 0 1 0 3 2 -2
+p175
+aVJason Terry ATL 03/19/2000 ATL vs. DAL L 37 7 3 13 23.1 1 5 20.0 0 0 - 2 3 5 7 1 0 1 5 -8
+p176
+aVChris Crawford ATL 03/19/2000 ATL vs. DAL L 4 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 -6
+p177
+aVJim Jackson ATL 03/19/2000 ATL vs. DAL L 43 20 8 21 38.1 2 4 50.0 2 3 66.7 3 3 6 3 0 0 1 3 -2
+p178
+aVRoshown McLeod ATL 03/19/2000 ATL vs. DAL L 15 2 0 5 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 1 -13
+p179
+aVBimbo Coles ATL 03/19/2000 ATL vs. DAL L 30 10 4 12 33.3 0 2 0.0 2 2 100.0 1 7 8 3 0 0 1 2 7
+p180
+aVDikembe Mutombo ATL 03/19/2000 ATL vs. DAL L 35 9 2 4 50.0 0 0 - 5 8 62.5 4 14 18 0 0 0 1 2 -3
+p181
+aVLaPhonso Ellis ATL 03/19/2000 ATL vs. DAL L 25 7 2 8 25.0 0 0 - 3 6 50.0 4 4 8 0 0 0 0 0 8
+p182
+aVDion Glover ATL 03/19/2000 ATL vs. DAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p183
+aVLorenzen Wright ATL 03/19/2000 ATL vs. DAL L 13 6 3 5 60.0 0 0 - 0 2 0.0 3 3 6 0 0 0 0 2 1
+p184
+aVLaPhonso Ellis ATL 03/17/2000 ATL vs. BOS L 20 7 3 6 50.0 0 0 - 1 4 25.0 1 3 4 1 1 0 1 3 0
+p185
+aVChris Crawford ATL 03/17/2000 ATL vs. BOS L 21 9 4 5 80.0 0 0 - 1 1 100.0 1 2 3 2 2 0 0 1 -8
+p186
+aVJason Terry ATL 03/17/2000 ATL vs. BOS L 28 2 1 7 14.3 0 1 0.0 0 0 - 0 3 3 5 2 0 1 1 -25
+p187
+aVCal Bowdler ATL 03/17/2000 ATL vs. BOS L 7 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -2
+p188
+aVRoshown McLeod ATL 03/17/2000 ATL vs. BOS L 18 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 1 0 0 2 0 -20
+p189
+aVDion Glover ATL 03/17/2000 ATL vs. BOS L 10 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 0 -7
+p190
+aVBimbo Coles ATL 03/17/2000 ATL vs. BOS L 20 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 2 0 0 2 1 -1
+p191
+aVAlan Henderson ATL 03/17/2000 ATL vs. BOS L 30 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 1 4 0 -18
+p192
+aVLorenzen Wright ATL 03/17/2000 ATL vs. BOS L 18 7 3 8 37.5 0 0 - 1 2 50.0 3 2 5 0 0 1 1 6 -8
+p193
+aVDikembe Mutombo ATL 03/17/2000 ATL vs. BOS L 30 19 6 8 75.0 0 0 - 7 8 87.5 2 4 6 0 0 2 3 4 -14
+p194
+aVJim Jackson ATL 03/17/2000 ATL vs. BOS L 38 26 7 20 35.0 2 4 50.0 10 11 90.9 3 3 6 4 1 0 3 3 -17
+p195
+aVLaPhonso Ellis ATL 03/15/2000 ATL vs. IND L 22 12 5 10 50.0 0 1 0.0 2 3 66.7 3 5 8 1 1 0 1 6 5
+p196
+aVJason Terry ATL 03/15/2000 ATL vs. IND L 24 5 1 6 16.7 1 2 50.0 2 2 100.0 0 2 2 4 1 0 2 3 -10
+p197
+aVJim Jackson ATL 03/15/2000 ATL vs. IND L 41 17 6 17 35.3 1 3 33.3 4 6 66.7 3 2 5 6 2 0 2 4 2
+p198
+aVBimbo Coles ATL 03/15/2000 ATL vs. IND L 24 8 2 3 66.7 0 0 - 4 4 100.0 0 4 4 4 1 0 1 2 4
+p199
+aVDikembe Mutombo ATL 03/15/2000 ATL vs. IND L 32 16 6 9 66.7 0 0 - 4 4 100.0 1 8 9 2 0 3 3 4 -9
+p200
+aVLorenzen Wright ATL 03/15/2000 ATL vs. IND L 16 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 1 0 0 1 2 3
+p201
+aVChris Crawford ATL 03/15/2000 ATL vs. IND L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -7
+p202
+aVIsaiah Rider ATL 03/15/2000 ATL vs. IND L 7 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -8
+p203
+aVRoshown McLeod ATL 03/15/2000 ATL vs. IND L 28 15 6 14 42.9 1 3 33.3 2 3 66.7 2 0 2 0 0 0 0 3 -3
+p204
+aVAlan Henderson ATL 03/15/2000 ATL vs. IND L 40 21 7 11 63.6 0 0 - 7 11 63.6 4 4 8 2 0 0 1 1 -7
+p205
+aVChris Crawford ATL 03/14/2000 ATL @ SAS L 5 5 2 2 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 1 0 4
+p206
+aVRoshown McLeod ATL 03/14/2000 ATL @ SAS L 25 8 4 10 40.0 0 0 - 0 0 - 0 3 3 0 1 0 2 0 -12
+p207
+aVDikembe Mutombo ATL 03/14/2000 ATL @ SAS L 44 14 6 9 66.7 0 0 - 2 2 100.0 3 9 12 2 1 0 3 5 -17
+p208
+aVLaPhonso Ellis ATL 03/14/2000 ATL @ SAS L 25 10 5 9 55.6 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -7
+p209
+aVIsaiah Rider ATL 03/14/2000 ATL @ SAS L 8 0 0 4 0.0 0 0 - 0 0 - 0 3 3 1 1 0 0 0 6
+p210
+aVAlan Henderson ATL 03/14/2000 ATL @ SAS L 41 12 6 15 40.0 0 0 - 0 2 0.0 6 5 11 0 0 0 2 1 -15
+p211
+aVLorenzen Wright ATL 03/14/2000 ATL @ SAS L 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 1 1 1 2
+p212
+aVJason Terry ATL 03/14/2000 ATL @ SAS L 32 8 3 8 37.5 0 2 0.0 2 2 100.0 0 1 1 9 2 1 3 3 -13
+p213
+aVJim Jackson ATL 03/14/2000 ATL @ SAS L 40 22 10 22 45.5 0 5 0.0 2 2 100.0 1 3 4 1 0 0 2 2 -21
+p214
+aVBimbo Coles ATL 03/14/2000 ATL @ SAS L 16 0 0 4 0.0 0 0 - 0 0 - 2 1 3 5 1 0 1 4 -2
+p215
+aVDikembe Mutombo ATL 03/11/2000 ATL vs. VAN W 34 5 2 4 50.0 0 0 - 1 2 50.0 0 10 10 0 0 3 3 3 5
+p216
+aVBimbo Coles ATL 03/11/2000 ATL vs. VAN W 13 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 5 -9
+p217
+aVJim Jackson ATL 03/11/2000 ATL vs. VAN W 35 22 9 16 56.3 0 4 0.0 4 4 100.0 1 5 6 0 0 1 4 2 -2
+p218
+aVAlan Henderson ATL 03/11/2000 ATL vs. VAN W 40 20 8 10 80.0 0 0 - 4 6 66.7 2 1 3 1 0 1 4 3 11
+p219
+aVRoshown McLeod ATL 03/11/2000 ATL vs. VAN W 30 10 5 12 41.7 0 0 - 0 0 - 1 3 4 4 0 1 2 3 -6
+p220
+aVLorenzen Wright ATL 03/11/2000 ATL vs. VAN W 14 4 2 6 33.3 0 0 - 0 0 - 3 3 6 1 2 0 1 1 0
+p221
+aVJason Terry ATL 03/11/2000 ATL vs. VAN W 35 15 6 11 54.5 0 1 0.0 3 4 75.0 0 2 2 12 0 0 3 4 14
+p222
+aVIsaiah Rider ATL 03/11/2000 ATL vs. VAN W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 5
+p223
+aVLaPhonso Ellis ATL 03/11/2000 ATL vs. VAN W 24 13 6 9 66.7 0 1 0.0 1 2 50.0 1 3 4 0 2 1 0 1 7
+p224
+aVJason Terry ATL 03/09/2000 ATL vs. SAS L 34 13 5 10 50.0 1 1 100.0 2 2 100.0 0 2 2 10 2 0 3 1 -14
+p225
+aVChris Crawford ATL 03/09/2000 ATL vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p226
+aVDikembe Mutombo ATL 03/09/2000 ATL vs. SAS L 38 11 4 4 100.0 0 0 - 3 3 100.0 2 9 11 1 0 3 5 2 -15
+p227
+aVCal Bowdler ATL 03/09/2000 ATL vs. SAS L 10 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -2
+p228
+aVLaPhonso Ellis ATL 03/09/2000 ATL vs. SAS L 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -12
+p229
+aVIsaiah Rider ATL 03/09/2000 ATL vs. SAS L 15 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 3 2 -11
+p230
+aVDion Glover ATL 03/09/2000 ATL vs. SAS L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p231
+aVLorenzen Wright ATL 03/09/2000 ATL vs. SAS L 15 4 2 8 25.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -12
+p232
+aVAlan Henderson ATL 03/09/2000 ATL vs. SAS L 33 9 4 14 28.6 0 0 - 1 1 100.0 0 4 4 1 0 0 0 2 -23
+p233
+aVBimbo Coles ATL 03/09/2000 ATL vs. SAS L 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 2 -12
+p234
+aVRoshown McLeod ATL 03/09/2000 ATL vs. SAS L 32 15 7 12 58.3 0 0 - 1 2 50.0 1 1 2 2 1 0 2 1 -12
+p235
+aVJim Jackson ATL 03/09/2000 ATL vs. SAS L 30 12 5 15 33.3 1 1 100.0 1 1 100.0 1 5 6 4 3 0 1 2 -13
+p236
+aVLaPhonso Ellis ATL 03/07/2000 ATL @ CHI L 28 10 5 9 55.6 0 0 - 0 0 - 3 4 7 1 0 3 1 0 3
+p237
+aVDikembe Mutombo ATL 03/07/2000 ATL @ CHI L 39 12 5 7 71.4 0 0 - 2 3 66.7 4 17 21 4 0 5 2 1 -7
+p238
+aVJason Terry ATL 03/07/2000 ATL @ CHI L 39 12 6 11 54.5 0 3 0.0 0 0 - 0 4 4 9 0 0 2 1 -6
+p239
+aVJim Jackson ATL 03/07/2000 ATL @ CHI L 33 10 4 14 28.6 0 4 0.0 2 2 100.0 1 0 1 3 0 0 1 3 -4
+p240
+aVBimbo Coles ATL 03/07/2000 ATL @ CHI L 9 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 3 0 0 1 0 -1
+p241
+aVIsaiah Rider ATL 03/07/2000 ATL @ CHI L 27 10 4 13 30.8 0 1 0.0 2 3 66.7 0 2 2 2 1 0 4 1 -7
+p242
+aVLorenzen Wright ATL 03/07/2000 ATL @ CHI L 19 4 2 3 66.7 0 0 - 0 0 - 1 3 4 2 0 0 1 3 -9
+p243
+aVChris Crawford ATL 03/07/2000 ATL @ CHI L 17 2 1 8 12.5 0 0 - 0 0 - 2 0 2 2 0 1 0 3 -3
+p244
+aVAlan Henderson ATL 03/07/2000 ATL @ CHI L 30 15 7 15 46.7 0 0 - 1 1 100.0 6 5 11 1 0 2 2 6 -1
+p245
+aVBimbo Coles ATL 03/06/2000 ATL @ MIL L 11 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 1 1 0 -8
+p246
+aVAlan Henderson ATL 03/06/2000 ATL @ MIL L 30 6 3 7 42.9 0 0 - 0 2 0.0 1 2 3 3 1 0 2 1 -28
+p247
+aVIsaiah Rider ATL 03/06/2000 ATL @ MIL L 23 12 5 11 45.5 0 2 0.0 2 2 100.0 1 0 1 4 1 0 2 0 -14
+p248
+aVJim Jackson ATL 03/06/2000 ATL @ MIL L 26 11 5 11 45.5 1 3 33.3 0 0 - 0 2 2 3 0 0 3 2 -26
+p249
+aVJason Terry ATL 03/06/2000 ATL @ MIL L 37 12 5 11 45.5 2 6 33.3 0 0 - 0 0 0 11 6 0 2 2 -25
+p250
+aVChris Crawford ATL 03/06/2000 ATL @ MIL L 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -20
+p251
+aVLaPhonso Ellis ATL 03/06/2000 ATL @ MIL L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p252
+aVDikembe Mutombo ATL 03/06/2000 ATL @ MIL L 26 9 4 7 57.1 0 0 - 1 2 50.0 1 4 5 0 0 2 1 3 -29
+p253
+aVDion Glover ATL 03/06/2000 ATL @ MIL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p254
+aVRoshown McLeod ATL 03/06/2000 ATL @ MIL L 19 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 2 2 -5
+p255
+aVLorenzen Wright ATL 03/06/2000 ATL @ MIL L 25 18 8 10 80.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 3 -5
+p256
+aVCal Bowdler ATL 03/06/2000 ATL @ MIL L 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 1 0 1 1
+p257
+aVIsaiah Rider ATL 03/04/2000 ATL vs. SEA L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 2 1 -3
+p258
+aVRoshown McLeod ATL 03/04/2000 ATL vs. SEA L 7 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 0
+p259
+aVJim Jackson ATL 03/04/2000 ATL vs. SEA L 30 11 5 12 41.7 1 6 16.7 0 0 - 0 3 3 2 0 0 1 2 -24
+p260
+aVLorenzen Wright ATL 03/04/2000 ATL vs. SEA L 24 9 3 7 42.9 0 0 - 3 4 75.0 3 5 8 0 0 1 1 5 0
+p261
+aVJason Terry ATL 03/04/2000 ATL vs. SEA L 31 9 3 8 37.5 0 1 0.0 3 4 75.0 0 1 1 7 2 0 2 2 -1
+p262
+aVDikembe Mutombo ATL 03/04/2000 ATL vs. SEA L 27 3 1 5 20.0 0 0 - 1 4 25.0 4 8 12 1 0 3 1 5 -15
+p263
+aVBimbo Coles ATL 03/04/2000 ATL vs. SEA L 17 11 5 7 71.4 1 1 100.0 0 0 - 1 2 3 0 0 0 0 1 -11
+p264
+aVChris Crawford ATL 03/04/2000 ATL vs. SEA L 17 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 2 1 1 2 2 -2
+p265
+aVAlan Henderson ATL 03/04/2000 ATL vs. SEA L 33 11 5 11 45.5 0 0 - 1 4 25.0 3 3 6 2 2 0 3 1 -14
+p266
+aVDion Glover ATL 03/04/2000 ATL vs. SEA L 8 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 9
+p267
+aVCal Bowdler ATL 03/04/2000 ATL vs. SEA L 8 9 4 5 80.0 0 0 - 1 1 100.0 2 3 5 0 0 0 0 0 9
+p268
+aVLaPhonso Ellis ATL 03/04/2000 ATL vs. SEA L 22 5 2 8 25.0 0 1 0.0 1 2 50.0 1 6 7 2 0 0 2 1 -8
+p269
+aVBimbo Coles ATL 03/03/2000 ATL vs. NYK W 9 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 3
+p270
+aVJason Terry ATL 03/03/2000 ATL vs. NYK W 39 17 7 11 63.6 1 2 50.0 2 2 100.0 1 3 4 5 1 0 3 3 10
+p271
+aVJim Jackson ATL 03/03/2000 ATL vs. NYK W 29 5 2 10 20.0 0 5 0.0 1 2 50.0 1 1 2 2 1 2 3 2 -8
+p272
+aVChris Crawford ATL 03/03/2000 ATL vs. NYK W 21 0 0 6 0.0 0 0 - 0 0 - 1 1 2 3 0 0 2 2 -3
+p273
+aVDikembe Mutombo ATL 03/03/2000 ATL vs. NYK W 38 12 5 9 55.6 0 0 - 2 2 100.0 4 16 20 2 1 1 1 2 -2
+p274
+aVAlan Henderson ATL 03/03/2000 ATL vs. NYK W 39 12 5 10 50.0 0 0 - 2 2 100.0 3 6 9 0 0 3 4 1 7
+p275
+aVLorenzen Wright ATL 03/03/2000 ATL vs. NYK W 12 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 2 1 3 13
+p276
+aVIsaiah Rider ATL 03/03/2000 ATL vs. NYK W 25 13 4 11 36.4 1 3 33.3 4 4 100.0 2 4 6 1 0 0 2 1 20
+p277
+aVLaPhonso Ellis ATL 03/03/2000 ATL vs. NYK W 27 16 7 12 58.3 0 0 - 2 2 100.0 1 3 4 2 0 0 1 1 25
+p278
+aVLaPhonso Ellis ATL 03/01/2000 ATL vs. WAS L 20 14 6 12 50.0 0 0 - 2 2 100.0 2 4 6 0 1 0 1 3 3
+p279
+aVJim Jackson ATL 03/01/2000 ATL vs. WAS L 31 22 9 18 50.0 2 3 66.7 2 2 100.0 1 3 4 0 1 0 4 1 -5
+p280
+aVChris Crawford ATL 03/01/2000 ATL vs. WAS L 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 1 0 2 -8
+p281
+aVBimbo Coles ATL 03/01/2000 ATL vs. WAS L 21 6 3 3 100.0 0 0 - 0 0 - 0 1 1 3 0 0 0 3 -21
+p282
+aVDion Glover ATL 03/01/2000 ATL vs. WAS L 4 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -2
+p283
+aVDikembe Mutombo ATL 03/01/2000 ATL vs. WAS L 35 16 5 10 50.0 0 0 - 6 9 66.7 5 12 17 2 1 2 1 3 -7
+p284
+aVCal Bowdler ATL 03/01/2000 ATL vs. WAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p285
+aVIsaiah Rider ATL 03/01/2000 ATL vs. WAS L 34 5 2 7 28.6 0 0 - 1 2 50.0 0 1 1 2 1 0 5 2 -29
+p286
+aVRoshown McLeod ATL 03/01/2000 ATL vs. WAS L 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p287
+aVLorenzen Wright ATL 03/01/2000 ATL vs. WAS L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 2 3 -10
+p288
+aVAlan Henderson ATL 03/01/2000 ATL vs. WAS L 26 12 3 7 42.9 0 0 - 6 6 100.0 3 5 8 0 0 0 2 5 -20
+p289
+aVJason Terry ATL 03/01/2000 ATL vs. WAS L 27 0 0 7 0.0 0 3 0.0 0 0 - 0 4 4 5 2 1 1 1 2
+p290
+aVBimbo Coles ATL 02/28/2000 ATL @ GSW L 42 2 1 9 11.1 0 0 - 0 0 - 0 2 2 5 0 0 0 1 -10
+p291
+aVJason Terry ATL 02/28/2000 ATL @ GSW L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 2 3
+p292
+aVAlan Henderson ATL 02/28/2000 ATL @ GSW L 34 4 0 8 0.0 0 0 - 4 6 66.7 3 4 7 0 2 1 1 5 -5
+p293
+aVChris Crawford ATL 02/28/2000 ATL @ GSW L 13 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 1 1 0 0 2 1
+p294
+aVLorenzen Wright ATL 02/28/2000 ATL @ GSW L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p295
+aVJim Jackson ATL 02/28/2000 ATL @ GSW L 39 21 9 22 40.9 1 6 16.7 2 2 100.0 1 4 5 1 2 1 0 4 2
+p296
+aVIsaiah Rider ATL 02/28/2000 ATL @ GSW L 41 24 10 24 41.7 2 4 50.0 2 2 100.0 3 6 9 4 0 0 5 2 -9
+p297
+aVLaPhonso Ellis ATL 02/28/2000 ATL @ GSW L 17 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 1 0 1 1 0 -8
+p298
+aVDikembe Mutombo ATL 02/28/2000 ATL @ GSW L 43 13 4 8 50.0 0 0 - 5 5 100.0 5 17 22 2 0 3 3 4 6
+p299
+aVIsaiah Rider ATL 02/26/2000 ATL @ LAC L 39 16 7 14 50.0 2 3 66.7 0 0 - 2 6 8 7 0 0 4 1 -8
+p300
+aVDikembe Mutombo ATL 02/26/2000 ATL @ LAC L 40 4 2 8 25.0 0 0 - 0 0 - 6 11 17 2 1 8 1 3 -2
+p301
+aVAlan Henderson ATL 02/26/2000 ATL @ LAC L 41 9 4 15 26.7 0 0 - 1 1 100.0 3 5 8 1 1 1 0 2 -4
+p302
+aVLorenzen Wright ATL 02/26/2000 ATL @ LAC L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 1
+p303
+aVLaPhonso Ellis ATL 02/26/2000 ATL @ LAC L 24 10 5 9 55.6 0 0 - 0 0 - 1 4 5 1 2 0 2 3 4
+p304
+aVBimbo Coles ATL 02/26/2000 ATL @ LAC L 37 16 7 13 53.8 0 0 - 2 2 100.0 0 3 3 5 0 0 6 3 6
+p305
+aVJim Jackson ATL 02/26/2000 ATL @ LAC L 33 14 6 20 30.0 2 5 40.0 0 0 - 1 4 5 2 1 0 2 1 2
+p306
+aVChris Crawford ATL 02/26/2000 ATL @ LAC L 7 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 0 3
+p307
+aVJason Terry ATL 02/26/2000 ATL @ LAC L 11 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 -7
+p308
+aVIsaiah Rider ATL 02/25/2000 ATL @ SEA W 37 24 9 18 50.0 2 3 66.7 4 4 100.0 1 2 3 3 1 0 0 0 8
+p309
+aVLaPhonso Ellis ATL 02/25/2000 ATL @ SEA W 14 0 0 4 0.0 0 0 - 0 0 - 3 2 5 1 0 1 1 0 -2
+p310
+aVLorenzen Wright ATL 02/25/2000 ATL @ SEA W 14 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 1 1 0 0 5
+p311
+aVChris Crawford ATL 02/25/2000 ATL @ SEA W 17 9 4 8 50.0 1 2 50.0 0 0 - 2 2 4 2 1 1 0 0 11
+p312
+aVJim Jackson ATL 02/25/2000 ATL @ SEA W 38 23 9 20 45.0 4 9 44.4 1 2 50.0 1 1 2 6 3 0 3 1 -4
+p313
+aVJason Terry ATL 02/25/2000 ATL @ SEA W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 2 9
+p314
+aVBimbo Coles ATL 02/25/2000 ATL @ SEA W 34 10 3 10 30.0 0 1 0.0 4 6 66.7 0 3 3 10 0 0 1 3 2
+p315
+aVAlan Henderson ATL 02/25/2000 ATL @ SEA W 38 14 7 11 63.6 0 0 - 0 1 0.0 3 6 9 0 2 1 2 5 11
+p316
+aVDikembe Mutombo ATL 02/25/2000 ATL @ SEA W 33 9 3 5 60.0 0 0 - 3 4 75.0 3 10 13 1 0 4 0 3 0
+p317
+aVCal Bowdler ATL 02/23/2000 ATL @ SAC W 6 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p318
+aVChris Crawford ATL 02/23/2000 ATL @ SAC W 6 4 1 1 100.0 0 0 - 2 2 100.0 2 0 2 0 0 1 0 2 -3
+p319
+aVJim Jackson ATL 02/23/2000 ATL @ SAC W 44 17 7 21 33.3 1 1 100.0 2 2 100.0 3 9 12 6 2 0 4 2 2
+p320
+aVLaPhonso Ellis ATL 02/23/2000 ATL @ SAC W 21 6 3 6 50.0 0 0 - 0 0 - 3 2 5 1 1 0 0 0 -2
+p321
+aVBimbo Coles ATL 02/23/2000 ATL @ SAC W 36 14 7 16 43.8 0 0 - 0 0 - 1 1 2 6 3 0 1 1 14
+p322
+aVAlan Henderson ATL 02/23/2000 ATL @ SAC W 33 12 6 14 42.9 0 0 - 0 0 - 6 2 8 1 4 0 2 3 14
+p323
+aVIsaiah Rider ATL 02/23/2000 ATL @ SAC W 40 33 14 28 50.0 1 1 100.0 4 4 100.0 0 6 6 7 1 0 0 1 7
+p324
+aVDikembe Mutombo ATL 02/23/2000 ATL @ SAC W 42 10 5 11 45.5 0 0 - 0 2 0.0 2 9 11 1 1 8 2 5 10
+p325
+aVJason Terry ATL 02/23/2000 ATL @ SAC W 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -8
+p326
+aVAlan Henderson ATL 02/21/2000 ATL @ UTA L 33 12 5 10 50.0 0 0 - 2 2 100.0 5 1 6 2 2 1 0 5 2
+p327
+aVLorenzen Wright ATL 02/21/2000 ATL @ UTA L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p328
+aVJason Terry ATL 02/21/2000 ATL @ UTA L 19 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 5 0 0 1 1 7
+p329
+aVIsaiah Rider ATL 02/21/2000 ATL @ UTA L 37 22 10 22 45.5 0 3 0.0 2 3 66.7 0 2 2 4 0 0 5 3 -7
+p330
+aVChris Crawford ATL 02/21/2000 ATL @ UTA L 7 3 0 1 0.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 1 3
+p331
+aVBimbo Coles ATL 02/21/2000 ATL @ UTA L 29 14 7 11 63.6 0 0 - 0 2 0.0 1 2 3 2 0 0 1 2 -9
+p332
+aVJim Jackson ATL 02/21/2000 ATL @ UTA L 37 15 6 14 42.9 3 4 75.0 0 0 - 0 6 6 2 2 0 3 2 -1
+p333
+aVLaPhonso Ellis ATL 02/21/2000 ATL @ UTA L 24 10 5 5 100.0 0 0 - 0 0 - 0 5 5 0 1 0 1 3 -1
+p334
+aVDikembe Mutombo ATL 02/21/2000 ATL @ UTA L 47 12 5 8 62.5 0 0 - 2 2 100.0 4 12 16 0 0 4 2 3 -4
+p335
+aVJim Jackson ATL 02/18/2000 ATL @ PHX L 32 9 3 16 18.8 0 3 0.0 3 3 100.0 1 6 7 2 1 0 2 1 -10
+p336
+aVJason Terry ATL 02/18/2000 ATL @ PHX L 22 6 2 4 50.0 0 1 0.0 2 6 33.3 1 1 2 1 0 0 3 1 -13
+p337
+aVAnthony Johnson ATL 02/18/2000 ATL @ PHX L 9 8 3 4 75.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -1
+p338
+aVDikembe Mutombo ATL 02/18/2000 ATL @ PHX L 39 12 2 6 33.3 0 0 - 8 10 80.0 8 17 25 2 0 4 4 0 -10
+p339
+aVLaPhonso Ellis ATL 02/18/2000 ATL @ PHX L 20 3 1 6 16.7 0 0 - 1 2 50.0 1 4 5 0 2 2 1 5 -17
+p340
+aVRoshown McLeod ATL 02/18/2000 ATL @ PHX L 13 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -4
+p341
+aVAlan Henderson ATL 02/18/2000 ATL @ PHX L 32 10 5 10 50.0 0 0 - 0 2 0.0 5 0 5 0 0 0 3 2 -11
+p342
+aVBimbo Coles ATL 02/18/2000 ATL @ PHX L 26 4 2 7 28.6 0 0 - 0 0 - 1 5 6 3 0 0 3 2 1
+p343
+aVChris Crawford ATL 02/18/2000 ATL @ PHX L 4 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 1 0 0 5
+p344
+aVIsaiah Rider ATL 02/18/2000 ATL @ PHX L 30 9 4 11 36.4 1 1 100.0 0 2 0.0 2 2 4 3 2 0 3 6 -1
+p345
+aVCal Bowdler ATL 02/18/2000 ATL @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p346
+aVLorenzen Wright ATL 02/18/2000 ATL @ PHX L 9 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 2 1 1 -2
+p347
+aVLorenzen Wright ATL 02/15/2000 ATL vs. NJN W 10 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 1 2 2 2 -6
+p348
+aVAlan Henderson ATL 02/15/2000 ATL vs. NJN W 28 21 7 9 77.8 0 0 - 7 8 87.5 4 7 11 1 1 1 0 3 16
+p349
+aVCal Bowdler ATL 02/15/2000 ATL vs. NJN W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p350
+aVJim Jackson ATL 02/15/2000 ATL vs. NJN W 41 20 7 13 53.8 4 8 50.0 2 2 100.0 0 3 3 2 1 0 3 3 21
+p351
+aVDikembe Mutombo ATL 02/15/2000 ATL vs. NJN W 38 21 7 13 53.8 0 0 - 7 12 58.3 4 9 13 1 1 11 0 1 23
+p352
+aVJason Terry ATL 02/15/2000 ATL vs. NJN W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 4 2 -10
+p353
+aVBimbo Coles ATL 02/15/2000 ATL vs. NJN W 38 10 4 9 44.4 0 1 0.0 2 2 100.0 1 2 3 7 0 0 3 4 27
+p354
+aVRoshown McLeod ATL 02/15/2000 ATL vs. NJN W 9 0 0 4 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -2
+p355
+aVChris Crawford ATL 02/15/2000 ATL vs. NJN W 4 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -2
+p356
+aVLaPhonso Ellis ATL 02/15/2000 ATL vs. NJN W 19 12 6 6 100.0 0 0 - 0 0 - 4 4 8 2 2 0 3 4 1
+p357
+aVIsaiah Rider ATL 02/15/2000 ATL vs. NJN W 33 9 4 13 30.8 0 0 - 1 3 33.3 0 3 3 3 0 1 2 1 21
+p358
+aVAnthony Johnson ATL 02/15/2000 ATL vs. NJN W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -2
+p359
+aVAnthony Johnson ATL 02/09/2000 ATL vs. HOU W 8 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 1 1 0 1 1 -14
+p360
+aVDikembe Mutombo ATL 02/09/2000 ATL vs. HOU W 25 10 4 7 57.1 0 0 - 2 3 66.7 1 6 7 0 0 4 2 4 26
+p361
+aVCal Bowdler ATL 02/09/2000 ATL vs. HOU W 5 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 2 -7
+p362
+aVJim Jackson ATL 02/09/2000 ATL vs. HOU W 33 23 10 14 71.4 1 1 100.0 2 2 100.0 1 5 6 2 0 0 1 3 27
+p363
+aVJason Terry ATL 02/09/2000 ATL vs. HOU W 24 10 5 9 55.6 0 0 - 0 0 - 0 3 3 5 0 0 1 1 -6
+p364
+aVAlan Henderson ATL 02/09/2000 ATL vs. HOU W 25 10 5 8 62.5 0 0 - 0 0 - 2 3 5 1 0 0 3 1 22
+p365
+aVRoshown McLeod ATL 02/09/2000 ATL vs. HOU W 20 8 4 10 40.0 0 0 - 0 0 - 1 3 4 1 0 0 2 1 -7
+p366
+aVBimbo Coles ATL 02/09/2000 ATL vs. HOU W 24 16 7 12 58.3 0 0 - 2 2 100.0 3 5 8 5 2 0 0 3 22
+p367
+aVIsaiah Rider ATL 02/09/2000 ATL vs. HOU W 31 14 5 9 55.6 0 2 0.0 4 8 50.0 0 5 5 1 0 0 1 1 22
+p368
+aVLaPhonso Ellis ATL 02/09/2000 ATL vs. HOU W 20 3 1 5 20.0 0 1 0.0 1 1 100.0 1 6 7 3 0 1 1 3 5
+p369
+aVLorenzen Wright ATL 02/09/2000 ATL vs. HOU W 18 14 7 8 87.5 0 0 - 0 0 - 4 2 6 0 0 0 2 2 -3
+p370
+aVChris Crawford ATL 02/09/2000 ATL vs. HOU W 6 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 -7
+p371
+aVIsaiah Rider ATL 02/08/2000 ATL @ TOR L 27 12 5 13 38.5 0 3 0.0 2 2 100.0 2 2 4 1 0 0 2 1 -24
+p372
+aVAlan Henderson ATL 02/08/2000 ATL @ TOR L 27 8 4 9 44.4 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -25
+p373
+aVAnthony Johnson ATL 02/08/2000 ATL @ TOR L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 1 0 -1
+p374
+aVCal Bowdler ATL 02/08/2000 ATL @ TOR L 12 8 3 3 100.0 0 0 - 2 4 50.0 0 1 1 1 0 0 0 0 2
+p375
+aVLaPhonso Ellis ATL 02/08/2000 ATL @ TOR L 21 9 4 7 57.1 0 1 0.0 1 1 100.0 2 4 6 0 0 0 1 2 -7
+p376
+aVJason Terry ATL 02/08/2000 ATL @ TOR L 29 6 1 4 25.0 0 1 0.0 4 4 100.0 0 2 2 3 0 0 4 0 -9
+p377
+aVBimbo Coles ATL 02/08/2000 ATL @ TOR L 19 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 2 0 1 1 4 -12
+p378
+aVJim Jackson ATL 02/08/2000 ATL @ TOR L 31 7 3 13 23.1 0 3 0.0 1 2 50.0 2 3 5 1 0 0 1 1 -18
+p379
+aVDikembe Mutombo ATL 02/08/2000 ATL @ TOR L 34 22 6 7 85.7 0 0 - 10 10 100.0 0 15 15 0 0 0 2 3 -20
+p380
+aVChris Crawford ATL 02/08/2000 ATL @ TOR L 7 7 2 2 100.0 1 1 100.0 2 4 50.0 0 0 0 0 0 0 0 0 5
+p381
+aVLorenzen Wright ATL 02/08/2000 ATL @ TOR L 14 4 2 4 50.0 0 0 - 0 0 - 1 4 5 2 0 0 0 4 -1
+p382
+aVRoshown McLeod ATL 02/08/2000 ATL @ TOR L 13 1 0 6 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 0 5
+p383
+aVRoshown McLeod ATL 02/05/2000 ATL @ CLE W 20 12 4 10 40.0 0 0 - 4 4 100.0 3 4 7 1 2 0 1 3 0
+p384
+aVBimbo Coles ATL 02/05/2000 ATL @ CLE W 37 16 8 18 44.4 0 1 0.0 0 0 - 0 2 2 4 1 0 2 3 10
+p385
+aVJason Terry ATL 02/05/2000 ATL @ CLE W 11 0 0 4 0.0 0 2 0.0 0 0 - 1 3 4 2 0 1 0 1 -2
+p386
+aVDikembe Mutombo ATL 02/05/2000 ATL @ CLE W 41 10 3 6 50.0 0 0 - 4 6 66.7 3 14 17 3 0 4 2 5 12
+p387
+aVLorenzen Wright ATL 02/05/2000 ATL @ CLE W 7 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 5 -4
+p388
+aVIsaiah Rider ATL 02/05/2000 ATL @ CLE W 40 23 9 19 47.4 0 0 - 5 5 100.0 0 4 4 9 0 0 4 3 4
+p389
+aVJim Jackson ATL 02/05/2000 ATL @ CLE W 36 15 5 13 38.5 1 3 33.3 4 4 100.0 0 6 6 3 1 0 2 3 12
+p390
+aVAlan Henderson ATL 02/05/2000 ATL @ CLE W 34 16 6 14 42.9 0 0 - 4 4 100.0 6 1 7 0 1 1 3 3 14
+p391
+aVLaPhonso Ellis ATL 02/05/2000 ATL @ CLE W 14 8 4 5 80.0 0 0 - 0 0 - 1 0 1 0 0 1 1 5 -6
+p392
+aVIsaiah Rider ATL 02/04/2000 ATL vs. POR L 34 10 4 16 25.0 1 3 33.3 1 2 50.0 2 8 10 3 3 0 3 4 -9
+p393
+aVJim Jackson ATL 02/04/2000 ATL vs. POR L 35 25 8 22 36.4 1 7 14.3 8 8 100.0 4 4 8 4 2 0 2 4 -2
+p394
+aVLorenzen Wright ATL 02/04/2000 ATL vs. POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -5
+p395
+aVAnthony Johnson ATL 02/04/2000 ATL vs. POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p396
+aVLaPhonso Ellis ATL 02/04/2000 ATL vs. POR L 32 17 6 12 50.0 0 0 - 5 6 83.3 5 2 7 1 0 1 0 2 1
+p397
+aVDikembe Mutombo ATL 02/04/2000 ATL vs. POR L 47 14 6 12 50.0 0 0 - 2 3 66.7 2 11 13 2 0 2 0 4 -2
+p398
+aVJason Terry ATL 02/04/2000 ATL vs. POR L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p399
+aVBimbo Coles ATL 02/04/2000 ATL vs. POR L 39 6 1 5 20.0 0 1 0.0 4 4 100.0 0 4 4 3 1 1 0 4 -5
+p400
+aVAlan Henderson ATL 02/04/2000 ATL vs. POR L 41 18 8 20 40.0 0 0 - 2 4 50.0 5 3 8 2 3 0 1 4 -11
+p401
+aVJim Jackson ATL 02/02/2000 ATL @ NJN W 42 18 7 14 50.0 2 2 100.0 2 3 66.7 3 4 7 3 0 0 2 2 13
+p402
+aVLaPhonso Ellis ATL 02/02/2000 ATL @ NJN W 17 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 1 1 1 0 2 7
+p403
+aVAnthony Johnson ATL 02/02/2000 ATL @ NJN W 19 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 4 3 0 0 2 14
+p404
+aVChris Crawford ATL 02/02/2000 ATL @ NJN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p405
+aVBimbo Coles ATL 02/02/2000 ATL @ NJN W 23 6 3 6 50.0 0 0 - 0 0 - 0 2 2 4 1 0 1 4 -1
+p406
+aVJason Terry ATL 02/02/2000 ATL @ NJN W 7 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 2 2 0 1 0 -5
+p407
+aVAlan Henderson ATL 02/02/2000 ATL @ NJN W 37 22 9 19 47.4 0 0 - 4 6 66.7 5 3 8 3 0 3 0 3 -3
+p408
+aVDikembe Mutombo ATL 02/02/2000 ATL @ NJN W 42 13 3 9 33.3 0 0 - 7 8 87.5 2 14 16 4 0 2 1 3 10
+p409
+aVIsaiah Rider ATL 02/02/2000 ATL @ NJN W 43 25 10 20 50.0 0 0 - 5 7 71.4 2 3 5 4 0 0 4 3 7
+p410
+aVLorenzen Wright ATL 02/02/2000 ATL @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p411
+aVJason Terry ATL 01/29/2000 ATL @ ORL L 16 5 2 6 33.3 0 3 0.0 1 2 50.0 0 2 2 1 0 0 3 3 -14
+p412
+aVBimbo Coles ATL 01/29/2000 ATL @ ORL L 28 12 6 10 60.0 0 0 - 0 1 0.0 1 4 5 3 0 0 1 3 2
+p413
+aVChris Crawford ATL 01/29/2000 ATL @ ORL L 5 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 1 -1
+p414
+aVLorenzen Wright ATL 01/29/2000 ATL @ ORL L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -9
+p415
+aVRoshown McLeod ATL 01/29/2000 ATL @ ORL L 6 6 1 2 50.0 0 1 0.0 4 4 100.0 0 0 0 0 0 0 0 1 -2
+p416
+aVIsaiah Rider ATL 01/29/2000 ATL @ ORL L 30 10 4 18 22.2 0 3 0.0 2 3 66.7 0 2 2 4 1 0 2 2 -17
+p417
+aVCal Bowdler ATL 01/29/2000 ATL @ ORL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p418
+aVAlan Henderson ATL 01/29/2000 ATL @ ORL L 36 12 4 9 44.4 1 1 100.0 3 4 75.0 2 3 5 2 0 1 2 3 -2
+p419
+aVJim Jackson ATL 01/29/2000 ATL @ ORL L 30 15 7 21 33.3 1 8 12.5 0 1 0.0 2 6 8 5 0 0 1 3 -4
+p420
+aVAnthony Johnson ATL 01/29/2000 ATL @ ORL L 14 3 0 5 0.0 0 0 - 3 4 75.0 2 1 3 1 0 0 1 2 0
+p421
+aVLaPhonso Ellis ATL 01/29/2000 ATL @ ORL L 19 9 2 3 66.7 0 0 - 5 7 71.4 0 1 1 3 1 0 0 3 -23
+p422
+aVDikembe Mutombo ATL 01/29/2000 ATL @ ORL L 38 9 1 2 50.0 0 0 - 7 8 87.5 2 10 12 1 1 3 1 4 -12
+p423
+aVLaPhonso Ellis ATL 01/28/2000 ATL vs. NYK W 21 3 1 4 25.0 1 1 100.0 0 0 - 1 2 3 1 0 0 0 0 9
+p424
+aVJim Jackson ATL 01/28/2000 ATL vs. NYK W 42 13 5 20 25.0 2 5 40.0 1 1 100.0 2 5 7 3 0 1 1 3 -3
+p425
+aVJason Terry ATL 01/28/2000 ATL vs. NYK W 21 10 4 6 66.7 2 2 100.0 0 0 - 2 1 3 4 0 0 1 1 1
+p426
+aVAlan Henderson ATL 01/28/2000 ATL vs. NYK W 48 16 6 13 46.2 0 0 - 4 4 100.0 4 3 7 0 1 1 1 3 3
+p427
+aVIsaiah Rider ATL 01/28/2000 ATL vs. NYK W 43 22 6 25 24.0 2 5 40.0 8 8 100.0 0 7 7 3 0 0 2 3 -2
+p428
+aVDikembe Mutombo ATL 01/28/2000 ATL vs. NYK W 43 18 4 10 40.0 0 0 - 10 12 83.3 13 11 24 2 1 4 4 4 1
+p429
+aVLorenzen Wright ATL 01/28/2000 ATL vs. NYK W 15 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 2 0 2 4 2
+p430
+aVBimbo Coles ATL 01/28/2000 ATL vs. NYK W 32 14 6 12 50.0 0 0 - 2 2 100.0 0 0 0 3 3 0 3 3 -1
+p431
+aVAlan Henderson ATL 01/25/2000 ATL vs. CHI W 31 8 2 7 28.6 0 0 - 4 6 66.7 2 3 5 0 2 1 3 5 10
+p432
+aVLorenzen Wright ATL 01/25/2000 ATL vs. CHI W 11 0 0 2 0.0 0 0 - 0 0 - 1 5 6 1 0 1 0 1 -2
+p433
+aVAnthony Johnson ATL 01/25/2000 ATL vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -1
+p434
+aVJim Jackson ATL 01/25/2000 ATL vs. CHI W 39 21 9 20 45.0 1 3 33.3 2 2 100.0 1 4 5 2 0 0 2 3 6
+p435
+aVDikembe Mutombo ATL 01/25/2000 ATL vs. CHI W 43 14 4 6 66.7 0 0 - 6 6 100.0 9 14 23 0 0 2 0 3 6
+p436
+aVIsaiah Rider ATL 01/25/2000 ATL vs. CHI W 43 28 12 23 52.2 1 1 100.0 3 5 60.0 3 4 7 5 1 0 2 5 8
+p437
+aVLaPhonso Ellis ATL 01/25/2000 ATL vs. CHI W 16 6 2 8 25.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 4 2
+p438
+aVBimbo Coles ATL 01/25/2000 ATL vs. CHI W 23 8 4 7 57.1 0 0 - 0 0 - 0 2 2 3 1 0 3 3 5
+p439
+aVCal Bowdler ATL 01/25/2000 ATL vs. CHI W 6 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 1 3 -1
+p440
+aVJason Terry ATL 01/25/2000 ATL vs. CHI W 25 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 2
+p441
+aVChris Crawford ATL 01/22/2000 ATL vs. WAS W 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p442
+aVBimbo Coles ATL 01/22/2000 ATL vs. WAS W 27 4 1 7 14.3 0 1 0.0 2 2 100.0 2 5 7 9 1 0 0 4 10
+p443
+aVJason Terry ATL 01/22/2000 ATL vs. WAS W 21 6 2 9 22.2 0 4 0.0 2 2 100.0 0 1 1 4 1 0 2 1 8
+p444
+aVLorenzen Wright ATL 01/22/2000 ATL vs. WAS W 12 9 1 1 100.0 0 0 - 7 10 70.0 1 1 2 0 0 1 1 4 1
+p445
+aVLaPhonso Ellis ATL 01/22/2000 ATL vs. WAS W 24 6 2 4 50.0 0 0 - 2 4 50.0 4 4 8 1 2 0 1 1 6
+p446
+aVAnthony Johnson ATL 01/22/2000 ATL vs. WAS W 3 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 0 0 1 0 0
+p447
+aVCal Bowdler ATL 01/22/2000 ATL vs. WAS W 3 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p448
+aVDikembe Mutombo ATL 01/22/2000 ATL vs. WAS W 36 17 6 9 66.7 0 0 - 5 6 83.3 6 13 19 0 0 6 0 3 17
+p449
+aVAlan Henderson ATL 01/22/2000 ATL vs. WAS W 31 19 7 12 58.3 0 0 - 5 6 83.3 2 1 3 0 0 1 1 4 6
+p450
+aVIsaiah Rider ATL 01/22/2000 ATL vs. WAS W 40 28 12 20 60.0 2 2 100.0 2 3 66.7 1 0 1 5 1 0 2 2 16
+p451
+aVJim Jackson ATL 01/22/2000 ATL vs. WAS W 36 20 8 17 47.1 3 6 50.0 1 2 50.0 0 8 8 5 2 0 3 3 25
+p452
+aVLorenzen Wright ATL 01/21/2000 ATL @ MIA L 10 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -5
+p453
+aVJason Terry ATL 01/21/2000 ATL @ MIA L 16 6 3 9 33.3 0 2 0.0 0 0 - 2 0 2 1 2 0 1 1 -8
+p454
+aVJim Jackson ATL 01/21/2000 ATL @ MIA L 36 18 6 18 33.3 1 4 25.0 5 6 83.3 2 2 4 1 1 1 1 3 -16
+p455
+aVAlan Henderson ATL 01/21/2000 ATL @ MIA L 29 14 4 11 36.4 0 0 - 6 6 100.0 2 1 3 0 1 1 1 4 -18
+p456
+aVBimbo Coles ATL 01/21/2000 ATL @ MIA L 32 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 4 0 0 0 2 -14
+p457
+aVLaPhonso Ellis ATL 01/21/2000 ATL @ MIA L 24 10 4 9 44.4 0 0 - 2 4 50.0 5 5 10 2 0 1 0 4 -7
+p458
+aVDikembe Mutombo ATL 01/21/2000 ATL @ MIA L 38 6 1 11 9.1 0 0 - 4 8 50.0 7 13 20 0 1 0 2 3 -17
+p459
+aVCal Bowdler ATL 01/21/2000 ATL @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p460
+aVAnthony Johnson ATL 01/21/2000 ATL @ MIA L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p461
+aVChris Crawford ATL 01/21/2000 ATL @ MIA L 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 0
+p462
+aVIsaiah Rider ATL 01/21/2000 ATL @ MIA L 39 12 6 22 27.3 0 4 0.0 0 0 - 0 6 6 3 0 0 1 0 -17
+p463
+aVJim Jackson ATL 01/19/2000 ATL @ PHI L 33 16 4 13 30.8 1 4 25.0 7 7 100.0 1 2 3 1 0 0 1 4 -19
+p464
+aVCal Bowdler ATL 01/19/2000 ATL @ PHI L 7 4 2 3 66.7 0 0 - 0 1 0.0 0 2 2 1 2 0 0 0 9
+p465
+aVBimbo Coles ATL 01/19/2000 ATL @ PHI L 22 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 3 1 1 3 2 -11
+p466
+aVDion Glover ATL 01/19/2000 ATL @ PHI L 5 6 1 1 100.0 1 1 100.0 3 4 75.0 0 0 0 0 0 0 0 0 9
+p467
+aVIsaiah Rider ATL 01/19/2000 ATL @ PHI L 34 17 6 19 31.6 0 5 0.0 5 5 100.0 4 1 5 5 0 0 2 4 -16
+p468
+aVDikembe Mutombo ATL 01/19/2000 ATL @ PHI L 25 3 1 3 33.3 0 0 - 1 2 50.0 3 9 12 0 1 2 2 1 -13
+p469
+aVAnthony Johnson ATL 01/19/2000 ATL @ PHI L 14 3 1 5 20.0 0 0 - 1 2 50.0 0 0 0 2 2 0 0 1 -1
+p470
+aVLorenzen Wright ATL 01/19/2000 ATL @ PHI L 25 6 2 6 33.3 0 0 - 2 4 50.0 1 4 5 1 0 0 3 4 -12
+p471
+aVAlan Henderson ATL 01/19/2000 ATL @ PHI L 34 22 7 16 43.8 0 0 - 8 11 72.7 3 4 7 1 1 0 2 3 -9
+p472
+aVLaPhonso Ellis ATL 01/19/2000 ATL @ PHI L 24 8 4 9 44.4 0 1 0.0 0 0 - 1 4 5 2 2 2 2 4 -12
+p473
+aVJason Terry ATL 01/19/2000 ATL @ PHI L 17 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 5 1 0 1 2 -15
+p474
+aVLorenzen Wright ATL 01/17/2000 ATL vs. MIL L 27 14 6 9 66.7 0 0 - 2 2 100.0 1 2 3 1 1 0 0 3 19
+p475
+aVIsaiah Rider ATL 01/17/2000 ATL vs. MIL L 40 15 7 18 38.9 0 4 0.0 1 2 50.0 1 2 3 4 2 0 3 1 -8
+p476
+aVChris Crawford ATL 01/17/2000 ATL vs. MIL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 4
+p477
+aVAlan Henderson ATL 01/17/2000 ATL vs. MIL L 37 20 7 14 50.0 0 1 0.0 6 6 100.0 5 6 11 3 2 0 4 5 -12
+p478
+aVJim Jackson ATL 01/17/2000 ATL vs. MIL L 35 17 6 14 42.9 2 6 33.3 3 3 100.0 1 1 2 4 1 1 2 2 -18
+p479
+aVAnthony Johnson ATL 01/17/2000 ATL vs. MIL L 21 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 3 1 0 0 2 -18
+p480
+aVDikembe Mutombo ATL 01/17/2000 ATL vs. MIL L 22 5 1 3 33.3 0 0 - 3 4 75.0 3 4 7 0 0 2 1 2 -21
+p481
+aVLaPhonso Ellis ATL 01/17/2000 ATL vs. MIL L 27 13 6 9 66.7 0 0 - 1 1 100.0 3 10 13 0 0 0 3 3 12
+p482
+aVJason Terry ATL 01/17/2000 ATL vs. MIL L 27 13 5 7 71.4 0 0 - 3 5 60.0 0 2 2 8 2 0 1 3 12
+p483
+aVDikembe Mutombo ATL 01/15/2000 ATL vs. PHI L 37 10 4 8 50.0 0 0 - 2 4 50.0 3 13 16 2 1 3 4 3 -1
+p484
+aVCal Bowdler ATL 01/15/2000 ATL vs. PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p485
+aVJason Terry ATL 01/15/2000 ATL vs. PHI L 28 14 4 12 33.3 3 7 42.9 3 3 100.0 0 1 1 6 2 1 2 4 8
+p486
+aVAnthony Johnson ATL 01/15/2000 ATL vs. PHI L 22 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 0 1 2 2 -7
+p487
+aVLaPhonso Ellis ATL 01/15/2000 ATL vs. PHI L 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 4
+p488
+aVJim Jackson ATL 01/15/2000 ATL vs. PHI L 38 16 5 13 38.5 3 7 42.9 3 4 75.0 2 4 6 1 0 0 1 2 0
+p489
+aVIsaiah Rider ATL 01/15/2000 ATL vs. PHI L 41 35 12 23 52.2 3 4 75.0 8 9 88.9 1 2 3 3 1 0 2 2 -11
+p490
+aVLorenzen Wright ATL 01/15/2000 ATL vs. PHI L 12 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 3 -6
+p491
+aVAlan Henderson ATL 01/15/2000 ATL vs. PHI L 45 12 5 12 41.7 0 0 - 2 2 100.0 3 6 9 1 1 3 3 6 -2
+p492
+aVJason Terry ATL 01/14/2000 ATL @ CHI W 20 4 1 6 16.7 0 0 - 2 2 100.0 0 1 1 6 3 0 3 2 -10
+p493
+aVLorenzen Wright ATL 01/14/2000 ATL @ CHI W 21 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 1 0 0 3 -13
+p494
+aVJim Jackson ATL 01/14/2000 ATL @ CHI W 32 18 7 13 53.8 2 4 50.0 2 2 100.0 1 5 6 1 3 0 5 3 7
+p495
+aVAlan Henderson ATL 01/14/2000 ATL @ CHI W 32 14 6 10 60.0 0 0 - 2 5 40.0 3 5 8 1 5 1 2 3 19
+p496
+aVBimbo Coles ATL 01/14/2000 ATL @ CHI W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p497
+aVAnthony Johnson ATL 01/14/2000 ATL @ CHI W 29 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 8 1 0 1 2 10
+p498
+aVDikembe Mutombo ATL 01/14/2000 ATL @ CHI W 38 7 2 6 33.3 0 0 - 3 4 75.0 5 8 13 3 0 4 0 5 5
+p499
+aVLaPhonso Ellis ATL 01/14/2000 ATL @ CHI W 21 8 4 8 50.0 0 0 - 0 0 - 1 0 1 2 1 0 1 2 0
+p500
+aVIsaiah Rider ATL 01/14/2000 ATL @ CHI W 38 24 9 24 37.5 3 6 50.0 3 4 75.0 0 2 2 0 2 0 4 1 13
+p501
+aVIsaiah Rider ATL 01/08/2000 ATL @ DAL L 44 24 9 28 32.1 1 4 25.0 5 6 83.3 2 4 6 5 1 0 0 2 2
+p502
+aVAnthony Johnson ATL 01/08/2000 ATL @ DAL L 21 6 3 8 37.5 0 1 0.0 0 0 - 1 4 5 1 3 0 1 3 -3
+p503
+aVLaPhonso Ellis ATL 01/08/2000 ATL @ DAL L 21 4 2 8 25.0 0 1 0.0 0 0 - 3 6 9 1 1 0 1 1 -11
+p504
+aVAlan Henderson ATL 01/08/2000 ATL @ DAL L 37 13 5 12 41.7 0 0 - 3 8 37.5 6 3 9 0 1 3 3 4 -18
+p505
+aVLorenzen Wright ATL 01/08/2000 ATL @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -8
+p506
+aVDikembe Mutombo ATL 01/08/2000 ATL @ DAL L 42 8 3 8 37.5 0 0 - 2 2 100.0 4 15 19 1 0 4 2 3 2
+p507
+aVBimbo Coles ATL 01/08/2000 ATL @ DAL L 32 12 5 15 33.3 2 3 66.7 0 0 - 0 2 2 4 2 0 2 1 -9
+p508
+aVJim Jackson ATL 01/08/2000 ATL @ DAL L 41 18 7 19 36.8 4 6 66.7 0 0 - 3 2 5 0 0 0 2 4 -5
+p509
+aVJim Jackson ATL 01/07/2000 ATL vs. TOR W 39 31 12 17 70.6 5 8 62.5 2 2 100.0 2 7 9 3 0 0 0 1 8
+p510
+aVJason Terry ATL 01/07/2000 ATL vs. TOR W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -4
+p511
+aVDikembe Mutombo ATL 01/07/2000 ATL vs. TOR W 36 7 2 4 50.0 0 0 - 3 3 100.0 1 10 11 2 2 1 4 6 14
+p512
+aVBimbo Coles ATL 01/07/2000 ATL vs. TOR W 25 6 3 7 42.9 0 0 - 0 0 - 1 0 1 5 0 0 2 1 4
+p513
+aVAlan Henderson ATL 01/07/2000 ATL vs. TOR W 38 21 8 12 66.7 0 0 - 5 6 83.3 4 3 7 1 1 1 1 2 10
+p514
+aVIsaiah Rider ATL 01/07/2000 ATL vs. TOR W 44 27 10 25 40.0 1 3 33.3 6 7 85.7 0 5 5 4 1 1 1 4 8
+p515
+aVAnthony Johnson ATL 01/07/2000 ATL vs. TOR W 25 4 2 5 40.0 0 0 - 0 0 - 1 1 2 4 0 0 3 5 7
+p516
+aVLorenzen Wright ATL 01/07/2000 ATL vs. TOR W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -6
+p517
+aVCal Bowdler ATL 01/07/2000 ATL vs. TOR W 0 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -2
+p518
+aVChris Crawford ATL 01/07/2000 ATL vs. TOR W 4 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p519
+aVLaPhonso Ellis ATL 01/07/2000 ATL vs. TOR W 18 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 0 0 1 4 -1
+p520
+aVDikembe Mutombo ATL 01/05/2000 ATL vs. DET L 40 15 5 9 55.6 0 0 - 5 8 62.5 2 6 8 1 1 2 3 5 -1
+p521
+aVLaPhonso Ellis ATL 01/05/2000 ATL vs. DET L 17 5 1 5 20.0 0 0 - 3 4 75.0 3 2 5 1 0 0 1 4 -9
+p522
+aVJim Jackson ATL 01/05/2000 ATL vs. DET L 37 12 5 10 50.0 2 6 33.3 0 0 - 2 5 7 6 0 0 1 4 -20
+p523
+aVLorenzen Wright ATL 01/05/2000 ATL vs. DET L 13 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -5
+p524
+aVChris Crawford ATL 01/05/2000 ATL vs. DET L 14 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -1
+p525
+aVAlan Henderson ATL 01/05/2000 ATL vs. DET L 26 10 5 5 100.0 0 0 - 0 0 - 0 3 3 1 1 0 0 3 -9
+p526
+aVBimbo Coles ATL 01/05/2000 ATL vs. DET L 31 12 5 7 71.4 0 0 - 2 3 66.7 0 1 1 4 0 1 0 3 -5
+p527
+aVAnthony Johnson ATL 01/05/2000 ATL vs. DET L 10 4 2 5 40.0 0 0 - 0 0 - 1 0 1 3 1 0 2 1 2
+p528
+aVIsaiah Rider ATL 01/05/2000 ATL vs. DET L 39 27 10 21 47.6 2 5 40.0 5 5 100.0 0 1 1 6 1 0 2 4 -10
+p529
+aVJason Terry ATL 01/05/2000 ATL vs. DET L 13 11 4 4 100.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 2 2 -2
+p530
+aVLaPhonso Ellis ATL 01/04/2000 ATL @ MIL L 20 8 4 8 50.0 0 0 - 0 0 - 2 1 3 1 0 1 0 3 -5
+p531
+aVChris Crawford ATL 01/04/2000 ATL @ MIL L 10 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 1 0 1 1 2
+p532
+aVJason Terry ATL 01/04/2000 ATL @ MIL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p533
+aVJim Jackson ATL 01/04/2000 ATL @ MIL L 40 30 11 21 52.4 4 8 50.0 4 4 100.0 1 2 3 5 2 0 2 4 -3
+p534
+aVBimbo Coles ATL 01/04/2000 ATL @ MIL L 39 25 11 14 78.6 0 1 0.0 3 3 100.0 1 2 3 7 1 0 1 3 7
+p535
+aVDikembe Mutombo ATL 01/04/2000 ATL @ MIL L 40 8 2 4 50.0 0 0 - 4 6 66.7 2 8 10 2 0 0 4 2 4
+p536
+aVAnthony Johnson ATL 01/04/2000 ATL @ MIL L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 1 0 0 1 -4
+p537
+aVAlan Henderson ATL 01/04/2000 ATL @ MIL L 33 17 7 9 77.8 0 0 - 3 3 100.0 4 5 9 0 1 1 2 3 -2
+p538
+aVLorenzen Wright ATL 01/04/2000 ATL @ MIL L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -7
+p539
+aVIsaiah Rider ATL 01/04/2000 ATL @ MIL L 37 17 7 16 43.8 2 3 66.7 1 2 50.0 0 3 3 4 0 0 3 1 1
+p540
+aVJason Terry ATL 12/30/1999 ATL @ DET L 16 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 4 0 0 1 1 -18
+p541
+aVAlan Henderson ATL 12/30/1999 ATL @ DET L 37 13 3 11 27.3 0 0 - 7 8 87.5 5 6 11 1 0 1 2 3 -4
+p542
+aVChris Crawford ATL 12/30/1999 ATL @ DET L 30 11 5 12 41.7 0 2 0.0 1 4 25.0 3 2 5 1 1 0 1 5 4
+p543
+aVLaPhonso Ellis ATL 12/30/1999 ATL @ DET L 27 16 7 16 43.8 0 1 0.0 2 2 100.0 5 3 8 0 0 0 2 3 -5
+p544
+aVAnthony Johnson ATL 12/30/1999 ATL @ DET L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 2 0 2
+p545
+aVBimbo Coles ATL 12/30/1999 ATL @ DET L 40 14 7 12 58.3 0 0 - 0 0 - 2 5 7 8 1 0 1 1 10
+p546
+aVDikembe Mutombo ATL 12/30/1999 ATL @ DET L 39 13 5 10 50.0 0 0 - 3 4 75.0 4 9 13 2 0 5 0 4 3
+p547
+aVLorenzen Wright ATL 12/30/1999 ATL @ DET L 15 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 0 0 1 2 0 6
+p548
+aVJim Jackson ATL 12/30/1999 ATL @ DET L 50 26 11 27 40.7 3 8 37.5 1 2 50.0 4 6 10 8 2 0 5 4 -3
+p549
+aVLorenzen Wright ATL 12/29/1999 ATL vs. IND L 31 11 4 7 57.1 0 0 - 3 7 42.9 5 2 7 0 0 0 1 4 -16
+p550
+aVAnthony Johnson ATL 12/29/1999 ATL vs. IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p551
+aVJim Jackson ATL 12/29/1999 ATL vs. IND L 32 19 6 15 40.0 4 7 57.1 3 3 100.0 2 7 9 4 0 0 1 1 -20
+p552
+aVCal Bowdler ATL 12/29/1999 ATL vs. IND L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p553
+aVDion Glover ATL 12/29/1999 ATL vs. IND L 7 7 2 5 40.0 0 1 0.0 3 4 75.0 0 0 0 0 2 0 2 0 -4
+p554
+aVDikembe Mutombo ATL 12/29/1999 ATL vs. IND L 23 4 1 3 33.3 0 0 - 2 2 100.0 2 7 9 1 0 1 4 2 -12
+p555
+aVBimbo Coles ATL 12/29/1999 ATL vs. IND L 19 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 2 0 0 2 0 -15
+p556
+aVJason Terry ATL 12/29/1999 ATL vs. IND L 29 6 2 9 22.2 0 5 0.0 2 2 100.0 1 2 3 7 2 0 1 3 -12
+p557
+aVAlan Henderson ATL 12/29/1999 ATL vs. IND L 34 10 5 10 50.0 0 0 - 0 0 - 0 5 5 0 1 3 2 1 -23
+p558
+aVLaPhonso Ellis ATL 12/29/1999 ATL vs. IND L 12 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 1 0 2 0 4
+p559
+aVIsaiah Rider ATL 12/29/1999 ATL vs. IND L 36 16 8 19 42.1 0 2 0.0 0 2 0.0 2 2 4 6 1 0 5 2 -21
+p560
+aVChris Crawford ATL 12/29/1999 ATL vs. IND L 7 6 2 5 40.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 1 -4
+p561
+aVJason Terry ATL 12/27/1999 ATL @ CHH L 23 12 4 9 44.4 1 4 25.0 3 4 75.0 0 3 3 3 3 0 3 3 3
+p562
+aVDikembe Mutombo ATL 12/27/1999 ATL @ CHH L 40 10 3 5 60.0 0 0 - 4 4 100.0 2 8 10 1 1 0 1 4 -15
+p563
+aVAnthony Johnson ATL 12/27/1999 ATL @ CHH L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 2 5
+p564
+aVJim Jackson ATL 12/27/1999 ATL @ CHH L 37 20 8 13 61.5 4 4 100.0 0 0 - 1 1 2 1 0 0 3 2 -6
+p565
+aVLorenzen Wright ATL 12/27/1999 ATL @ CHH L 8 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 0 0 0 4 11
+p566
+aVIsaiah Rider ATL 12/27/1999 ATL @ CHH L 40 25 8 20 40.0 1 5 20.0 8 8 100.0 0 0 0 5 1 0 7 3 -1
+p567
+aVAlan Henderson ATL 12/27/1999 ATL @ CHH L 39 19 4 10 40.0 0 0 - 11 15 73.3 3 4 7 3 0 1 1 6 -4
+p568
+aVBimbo Coles ATL 12/27/1999 ATL @ CHH L 18 4 2 5 40.0 0 0 - 0 0 - 0 1 1 4 0 0 0 4 -8
+p569
+aVLaPhonso Ellis ATL 12/27/1999 ATL @ CHH L 24 8 4 7 57.1 0 0 - 0 0 - 2 2 4 1 0 1 1 4 -5
+p570
+aVDikembe Mutombo ATL 12/23/1999 ATL vs. CLE W 39 16 4 5 80.0 0 0 - 8 8 100.0 7 14 21 3 0 9 4 4 17
+p571
+aVJason Terry ATL 12/23/1999 ATL vs. CLE W 24 6 3 7 42.9 0 2 0.0 0 2 0.0 1 1 2 2 1 0 2 1 15
+p572
+aVJim Jackson ATL 12/23/1999 ATL vs. CLE W 40 19 7 15 46.7 1 2 50.0 4 4 100.0 2 8 10 4 1 0 2 3 6
+p573
+aVBimbo Coles ATL 12/23/1999 ATL vs. CLE W 17 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 0 0 2 3 -10
+p574
+aVLaPhonso Ellis ATL 12/23/1999 ATL vs. CLE W 16 17 6 13 46.2 0 1 0.0 5 5 100.0 1 1 2 1 0 0 1 2 15
+p575
+aVAlan Henderson ATL 12/23/1999 ATL vs. CLE W 21 5 1 6 16.7 0 0 - 3 4 75.0 1 5 6 1 0 0 1 5 0
+p576
+aVIsaiah Rider ATL 12/23/1999 ATL vs. CLE W 42 30 13 31 41.9 1 7 14.3 3 5 60.0 3 3 6 5 1 0 2 1 18
+p577
+aVLorenzen Wright ATL 12/23/1999 ATL vs. CLE W 15 7 3 6 50.0 0 0 - 1 1 100.0 2 2 4 0 2 1 0 2 -7
+p578
+aVAnthony Johnson ATL 12/23/1999 ATL vs. CLE W 26 4 2 5 40.0 0 0 - 0 0 - 3 0 3 3 0 1 0 1 36
+p579
+aVLaPhonso Ellis ATL 12/22/1999 ATL @ BOS L 19 13 5 11 45.5 0 1 0.0 3 4 75.0 0 5 5 0 0 0 1 2 0
+p580
+aVBimbo Coles ATL 12/22/1999 ATL @ BOS L 29 13 6 10 60.0 0 0 - 1 2 50.0 1 1 2 3 0 0 1 1 -17
+p581
+aVCal Bowdler ATL 12/22/1999 ATL @ BOS L 15 0 0 3 0.0 0 0 - 0 0 - 2 4 6 1 0 0 1 1 14
+p582
+aVJim Jackson ATL 12/22/1999 ATL @ BOS L 33 9 4 13 30.8 0 1 0.0 1 1 100.0 0 4 4 2 1 0 2 1 -16
+p583
+aVAlan Henderson ATL 12/22/1999 ATL @ BOS L 33 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 0 0 3 3 -26
+p584
+aVIsaiah Rider ATL 12/22/1999 ATL @ BOS L 32 11 4 14 28.6 0 1 0.0 3 4 75.0 0 3 3 2 1 0 2 2 -25
+p585
+aVDikembe Mutombo ATL 12/22/1999 ATL @ BOS L 30 6 2 3 66.7 0 0 - 2 6 33.3 5 8 13 0 0 2 2 0 -24
+p586
+aVDion Glover ATL 12/22/1999 ATL @ BOS L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 2
+p587
+aVAnthony Johnson ATL 12/22/1999 ATL @ BOS L 10 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 1 0 0 1 6
+p588
+aVJason Terry ATL 12/22/1999 ATL @ BOS L 14 7 1 4 25.0 1 1 100.0 4 4 100.0 0 1 1 4 2 0 1 1 -3
+p589
+aVChris Crawford ATL 12/22/1999 ATL @ BOS L 17 9 4 7 57.1 0 0 - 1 2 50.0 3 3 6 0 0 0 0 1 4
+p590
+aVAlan Henderson ATL 12/19/1999 ATL @ NJN L 36 13 6 13 46.2 0 0 - 1 2 50.0 6 5 11 3 0 3 3 4 -4
+p591
+aVAnthony Johnson ATL 12/19/1999 ATL @ NJN L 20 7 2 4 50.0 0 0 - 3 4 75.0 2 2 4 1 1 0 0 1 3
+p592
+aVBimbo Coles ATL 12/19/1999 ATL @ NJN L 27 4 2 7 28.6 0 0 - 0 0 - 1 1 2 3 1 0 3 1 -12
+p593
+aVJason Terry ATL 12/19/1999 ATL @ NJN L 21 12 5 9 55.6 0 0 - 2 2 100.0 1 0 1 0 0 0 3 2 4
+p594
+aVIsaiah Rider ATL 12/19/1999 ATL @ NJN L 40 20 8 19 42.1 1 2 50.0 3 4 75.0 1 3 4 3 3 0 4 0 -7
+p595
+aVChris Crawford ATL 12/19/1999 ATL @ NJN L 25 13 4 11 36.4 0 0 - 5 5 100.0 4 4 8 0 0 1 0 3 3
+p596
+aVJim Jackson ATL 12/19/1999 ATL @ NJN L 36 15 6 12 50.0 3 5 60.0 0 0 - 0 6 6 1 0 0 3 1 -12
+p597
+aVDikembe Mutombo ATL 12/19/1999 ATL @ NJN L 35 4 1 2 50.0 0 0 - 2 4 50.0 3 10 13 2 0 2 4 3 -15
+p598
+aVJason Terry ATL 12/18/1999 ATL vs. UTA L 25 11 3 9 33.3 0 2 0.0 5 5 100.0 1 2 3 2 0 0 2 3 2
+p599
+aVJim Jackson ATL 12/18/1999 ATL vs. UTA L 45 22 6 17 35.3 1 4 25.0 9 9 100.0 3 2 5 2 0 0 3 1 -17
+p600
+aVBimbo Coles ATL 12/18/1999 ATL vs. UTA L 23 6 3 4 75.0 0 0 - 0 0 - 0 3 3 3 1 1 2 1 -12
+p601
+aVChris Crawford ATL 12/18/1999 ATL vs. UTA L 8 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 1 2 7
+p602
+aVAlan Henderson ATL 12/18/1999 ATL vs. UTA L 37 10 2 7 28.6 0 0 - 6 12 50.0 3 5 8 1 2 0 1 4 -16
+p603
+aVCal Bowdler ATL 12/18/1999 ATL vs. UTA L 15 2 1 5 20.0 0 0 - 0 0 - 0 4 4 0 0 0 0 0 3
+p604
+aVIsaiah Rider ATL 12/18/1999 ATL vs. UTA L 43 24 9 22 40.9 0 1 0.0 6 8 75.0 2 4 6 4 0 0 2 4 -10
+p605
+aVDikembe Mutombo ATL 12/18/1999 ATL vs. UTA L 44 21 8 11 72.7 0 0 - 5 6 83.3 4 7 11 1 0 5 2 1 -7
+p606
+aVChris Crawford ATL 12/16/1999 ATL vs. LAL L 13 3 0 1 0.0 0 0 - 3 5 60.0 2 0 2 1 0 1 1 3 -18
+p607
+aVLorenzen Wright ATL 12/16/1999 ATL vs. LAL L 20 6 3 6 50.0 0 0 - 0 2 0.0 4 6 10 0 1 0 1 4 -3
+p608
+aVAlan Henderson ATL 12/16/1999 ATL vs. LAL L 38 13 6 11 54.5 0 0 - 1 4 25.0 3 6 9 1 0 1 1 4 -13
+p609
+aVJason Terry ATL 12/16/1999 ATL vs. LAL L 26 7 2 10 20.0 1 5 20.0 2 2 100.0 0 5 5 3 2 0 0 1 -7
+p610
+aVIsaiah Rider ATL 12/16/1999 ATL vs. LAL L 43 33 11 24 45.8 1 4 25.0 10 11 90.9 1 5 6 5 1 0 4 5 -2
+p611
+aVBimbo Coles ATL 12/16/1999 ATL vs. LAL L 22 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 2 3 0
+p612
+aVDikembe Mutombo ATL 12/16/1999 ATL vs. LAL L 39 11 3 5 60.0 0 0 - 5 6 83.3 3 8 11 0 0 4 4 6 2
+p613
+aVJim Jackson ATL 12/16/1999 ATL vs. LAL L 40 11 3 15 20.0 0 1 0.0 5 6 83.3 0 2 2 1 0 1 3 4 6
+p614
+aVBimbo Coles ATL 12/14/1999 ATL vs. MIN W 23 6 3 10 30.0 0 2 0.0 0 0 - 1 2 3 4 2 0 1 2 3
+p615
+aVAlan Henderson ATL 12/14/1999 ATL vs. MIN W 35 17 8 16 50.0 0 1 0.0 1 1 100.0 2 1 3 0 1 0 1 2 3
+p616
+aVAnthony Johnson ATL 12/14/1999 ATL vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p617
+aVLorenzen Wright ATL 12/14/1999 ATL vs. MIN W 17 8 3 6 50.0 0 0 - 2 4 50.0 3 2 5 1 1 2 0 1 0
+p618
+aVIsaiah Rider ATL 12/14/1999 ATL vs. MIN W 43 16 5 13 38.5 1 1 100.0 5 6 83.3 1 7 8 6 2 0 5 4 8
+p619
+aVChris Crawford ATL 12/14/1999 ATL vs. MIN W 14 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 6
+p620
+aVJim Jackson ATL 12/14/1999 ATL vs. MIN W 39 23 9 18 50.0 3 5 60.0 2 4 50.0 0 4 4 1 1 0 5 1 11
+p621
+aVDikembe Mutombo ATL 12/14/1999 ATL vs. MIN W 41 27 11 11 100.0 0 0 - 5 7 71.4 11 18 29 3 0 6 5 2 13
+p622
+aVJason Terry ATL 12/14/1999 ATL vs. MIN W 25 6 1 7 14.3 0 2 0.0 4 4 100.0 1 5 6 6 1 0 1 0 8
+p623
+aVAlan Henderson ATL 12/11/1999 ATL @ CLE L 41 21 6 11 54.5 0 0 - 9 11 81.8 2 6 8 0 1 1 1 2 -8
+p624
+aVIsaiah Rider ATL 12/11/1999 ATL @ CLE L 44 27 8 20 40.0 0 2 0.0 11 12 91.7 1 3 4 5 0 0 4 6 -8
+p625
+aVChris Crawford ATL 12/11/1999 ATL @ CLE L 15 8 2 5 40.0 0 0 - 4 7 57.1 0 1 1 2 0 0 2 1 2
+p626
+aVJason Terry ATL 12/11/1999 ATL @ CLE L 19 8 3 8 37.5 1 5 20.0 1 2 50.0 0 2 2 3 0 1 0 4 -3
+p627
+aVDikembe Mutombo ATL 12/11/1999 ATL @ CLE L 30 5 0 2 0.0 0 0 - 5 6 83.3 5 8 13 1 0 8 2 3 -5
+p628
+aVLorenzen Wright ATL 12/11/1999 ATL @ CLE L 18 14 3 6 50.0 0 1 0.0 8 11 72.7 5 1 6 0 1 0 0 3 -8
+p629
+aVAnthony Johnson ATL 12/11/1999 ATL @ CLE L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -9
+p630
+aVJim Jackson ATL 12/11/1999 ATL @ CLE L 38 20 6 18 33.3 5 8 62.5 3 4 75.0 1 3 4 4 0 0 5 3 -9
+p631
+aVCal Bowdler ATL 12/11/1999 ATL @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p632
+aVBimbo Coles ATL 12/11/1999 ATL @ CLE L 20 11 4 8 50.0 1 1 100.0 2 2 100.0 0 3 3 5 0 1 6 4 -3
+p633
+aVJason Terry ATL 12/10/1999 ATL vs. GSW L 35 16 5 13 38.5 3 7 42.9 3 4 75.0 0 3 3 6 2 0 3 1 1
+p634
+aVLorenzen Wright ATL 12/10/1999 ATL vs. GSW L 18 2 0 2 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 1 -1
+p635
+aVBimbo Coles ATL 12/10/1999 ATL vs. GSW L 31 12 4 7 57.1 0 0 - 4 4 100.0 0 3 3 2 0 0 1 5 -6
+p636
+aVCal Bowdler ATL 12/10/1999 ATL vs. GSW L 8 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 0 1 0 0 2
+p637
+aVChris Crawford ATL 12/10/1999 ATL vs. GSW L 30 13 5 13 38.5 2 5 40.0 1 3 33.3 2 1 3 2 0 0 2 2 -10
+p638
+aVAnthony Johnson ATL 12/10/1999 ATL vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p639
+aVDikembe Mutombo ATL 12/10/1999 ATL vs. GSW L 35 9 2 4 50.0 0 0 - 5 10 50.0 6 8 14 1 0 2 5 4 -9
+p640
+aVIsaiah Rider ATL 12/10/1999 ATL vs. GSW L 45 34 13 27 48.1 1 7 14.3 7 8 87.5 2 6 8 4 0 0 5 2 -6
+p641
+aVAlan Henderson ATL 12/10/1999 ATL vs. GSW L 35 8 4 13 30.8 0 0 - 0 0 - 2 2 4 0 1 1 2 4 -9
+p642
+aVAnthony Johnson ATL 12/08/1999 ATL vs. LAC W 18 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 12
+p643
+aVBimbo Coles ATL 12/08/1999 ATL vs. LAC W 28 10 5 12 41.7 0 1 0.0 0 0 - 0 2 2 3 1 0 1 3 6
+p644
+aVAlan Henderson ATL 12/08/1999 ATL vs. LAC W 30 2 1 7 14.3 0 0 - 0 2 0.0 6 2 8 2 1 0 3 2 5
+p645
+aVCal Bowdler ATL 12/08/1999 ATL vs. LAC W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p646
+aVDion Glover ATL 12/08/1999 ATL vs. LAC W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 5
+p647
+aVDikembe Mutombo ATL 12/08/1999 ATL vs. LAC W 44 16 6 8 75.0 0 0 - 4 4 100.0 0 14 14 1 0 3 0 4 18
+p648
+aVIsaiah Rider ATL 12/08/1999 ATL vs. LAC W 42 38 18 29 62.1 1 2 50.0 1 2 50.0 1 8 9 7 0 0 3 3 11
+p649
+aVJason Terry ATL 12/08/1999 ATL vs. LAC W 20 9 4 10 40.0 0 0 - 1 2 50.0 0 3 3 3 0 1 2 0 12
+p650
+aVChris Crawford ATL 12/08/1999 ATL vs. LAC W 34 10 4 8 50.0 0 1 0.0 2 3 66.7 3 3 6 1 1 2 0 2 8
+p651
+aVLorenzen Wright ATL 12/08/1999 ATL vs. LAC W 20 9 4 7 57.1 0 0 - 1 1 100.0 2 5 7 2 1 0 1 2 8
+p652
+aVJason Terry ATL 12/04/1999 ATL vs. DET W 11 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 3 1 -1
+p653
+aVChris Crawford ATL 12/04/1999 ATL vs. DET W 9 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -5
+p654
+aVAlan Henderson ATL 12/04/1999 ATL vs. DET W 44 15 5 9 55.6 0 0 - 5 6 83.3 3 5 8 4 2 2 4 3 6
+p655
+aVJim Jackson ATL 12/04/1999 ATL vs. DET W 42 33 12 19 63.2 3 4 75.0 6 7 85.7 1 6 7 2 0 1 1 4 5
+p656
+aVAnthony Johnson ATL 12/04/1999 ATL vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p657
+aVIsaiah Rider ATL 12/04/1999 ATL vs. DET W 42 30 10 18 55.6 1 6 16.7 9 10 90.0 3 6 9 6 2 1 3 4 5
+p658
+aVDikembe Mutombo ATL 12/04/1999 ATL vs. DET W 38 11 4 7 57.1 0 0 - 3 4 75.0 2 7 9 1 0 2 2 5 5
+p659
+aVLorenzen Wright ATL 12/04/1999 ATL vs. DET W 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -7
+p660
+aVBimbo Coles ATL 12/04/1999 ATL vs. DET W 37 15 5 13 38.5 0 0 - 5 5 100.0 0 4 4 8 0 1 2 3 3
+p661
+aVBimbo Coles ATL 12/02/1999 ATL vs. SAC W 28 2 1 7 14.3 0 0 - 0 0 - 0 0 0 7 2 0 1 3 2
+p662
+aVDikembe Mutombo ATL 12/02/1999 ATL vs. SAC W 43 19 7 9 77.8 0 0 - 5 9 55.6 2 16 18 2 0 2 2 4 7
+p663
+aVIsaiah Rider ATL 12/02/1999 ATL vs. SAC W 46 32 13 30 43.3 3 7 42.9 3 3 100.0 0 4 4 6 1 0 4 1 12
+p664
+aVLorenzen Wright ATL 12/02/1999 ATL vs. SAC W 15 11 5 5 100.0 0 0 - 1 2 50.0 2 3 5 0 0 0 2 2 12
+p665
+aVJason Terry ATL 12/02/1999 ATL vs. SAC W 21 6 3 7 42.9 0 0 - 0 0 - 0 6 6 4 1 0 0 2 10
+p666
+aVAlan Henderson ATL 12/02/1999 ATL vs. SAC W 36 11 4 9 44.4 0 0 - 3 4 75.0 3 7 10 1 1 0 3 2 -3
+p667
+aVJim Jackson ATL 12/02/1999 ATL vs. SAC W 37 26 11 16 68.8 1 2 50.0 3 3 100.0 2 4 6 1 0 0 2 1 1
+p668
+aVRoshown McLeod ATL 12/02/1999 ATL vs. SAC W 14 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 2 0 0 1 0 9
+p669
+aVAnthony Johnson ATL 11/30/1999 ATL @ TOR W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 -1
+p670
+aVBimbo Coles ATL 11/30/1999 ATL @ TOR W 26 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 5 2 2 0 2 11
+p671
+aVDion Glover ATL 11/30/1999 ATL @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p672
+aVAlan Henderson ATL 11/30/1999 ATL @ TOR W 29 13 6 14 42.9 0 0 - 1 2 50.0 3 7 10 1 0 0 1 2 8
+p673
+aVDikembe Mutombo ATL 11/30/1999 ATL @ TOR W 38 10 5 5 100.0 0 0 - 0 0 - 2 9 11 3 0 4 2 3 17
+p674
+aVJason Terry ATL 11/30/1999 ATL @ TOR W 20 7 2 5 40.0 0 2 0.0 3 4 75.0 0 2 2 3 1 0 1 1 6
+p675
+aVRoshown McLeod ATL 11/30/1999 ATL @ TOR W 23 13 6 12 50.0 0 0 - 1 2 50.0 1 3 4 0 1 1 1 1 12
+p676
+aVJim Jackson ATL 11/30/1999 ATL @ TOR W 32 15 6 11 54.5 2 4 50.0 1 2 50.0 2 4 6 5 1 0 1 0 7
+p677
+aVIsaiah Rider ATL 11/30/1999 ATL @ TOR W 32 23 8 16 50.0 2 4 50.0 5 9 55.6 3 5 8 6 0 2 3 2 17
+p678
+aVChris Crawford ATL 11/30/1999 ATL @ TOR W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p679
+aVLorenzen Wright ATL 11/30/1999 ATL @ TOR W 26 13 5 8 62.5 0 0 - 3 5 60.0 4 3 7 0 0 1 2 4 10
+p680
+aVCal Bowdler ATL 11/30/1999 ATL @ TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p681
+aVJason Terry ATL 11/27/1999 ATL vs. BOS W 27 4 2 7 28.6 0 4 0.0 0 0 - 1 1 2 1 0 0 1 1 18
+p682
+aVAlan Henderson ATL 11/27/1999 ATL vs. BOS W 35 14 5 9 55.6 0 1 0.0 4 4 100.0 1 8 9 4 1 1 1 4 -7
+p683
+aVDikembe Mutombo ATL 11/27/1999 ATL vs. BOS W 40 17 5 9 55.6 0 0 - 7 10 70.0 5 12 17 1 0 3 4 2 10
+p684
+aVIsaiah Rider ATL 11/27/1999 ATL vs. BOS W 44 30 11 21 52.4 1 5 20.0 7 7 100.0 0 8 8 3 0 0 7 3 13
+p685
+aVBimbo Coles ATL 11/27/1999 ATL vs. BOS W 21 8 4 7 57.1 0 0 - 0 0 - 0 1 1 6 1 0 1 3 -8
+p686
+aVLorenzen Wright ATL 11/27/1999 ATL vs. BOS W 21 9 3 5 60.0 0 0 - 3 5 60.0 0 2 2 0 0 1 2 2 17
+p687
+aVJim Jackson ATL 11/27/1999 ATL vs. BOS W 31 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 0 2 2 -17
+p688
+aVRoshown McLeod ATL 11/27/1999 ATL vs. BOS W 22 10 3 6 50.0 0 0 - 4 6 66.7 3 3 6 1 1 0 0 3 24
+p689
+aVDikembe Mutombo ATL 11/26/1999 ATL @ DET L 44 16 6 12 50.0 0 0 - 4 7 57.1 4 16 20 2 1 4 3 2 -3
+p690
+aVBimbo Coles ATL 11/26/1999 ATL @ DET L 34 16 7 14 50.0 1 2 50.0 1 1 100.0 0 0 0 2 0 0 3 3 3
+p691
+aVLorenzen Wright ATL 11/26/1999 ATL @ DET L 9 2 1 1 100.0 0 0 - 0 3 0.0 1 2 3 0 1 0 0 2 -6
+p692
+aVJason Terry ATL 11/26/1999 ATL @ DET L 11 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 2 1 0 1 0 -5
+p693
+aVAlan Henderson ATL 11/26/1999 ATL @ DET L 43 9 2 5 40.0 0 0 - 5 6 83.3 3 5 8 0 2 0 0 3 3
+p694
+aVJim Jackson ATL 11/26/1999 ATL @ DET L 33 18 8 13 61.5 2 3 66.7 0 0 - 0 8 8 4 0 0 3 5 6
+p695
+aVChris Crawford ATL 11/26/1999 ATL @ DET L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p696
+aVAnthony Johnson ATL 11/26/1999 ATL @ DET L 9 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p697
+aVRoshown McLeod ATL 11/26/1999 ATL @ DET L 19 9 3 7 42.9 0 0 - 3 4 75.0 2 3 5 1 0 0 1 1 -5
+p698
+aVIsaiah Rider ATL 11/26/1999 ATL @ DET L 35 16 7 23 30.4 2 7 28.6 0 1 0.0 2 4 6 3 0 0 4 6 0
+p699
+aVLorenzen Wright ATL 11/24/1999 ATL @ MIA L 14 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 4
+p700
+aVJim Jackson ATL 11/24/1999 ATL @ MIA L 38 12 6 11 54.5 0 0 - 0 0 - 0 3 3 4 0 0 5 2 -5
+p701
+aVAlan Henderson ATL 11/24/1999 ATL @ MIA L 33 6 3 9 33.3 0 0 - 0 1 0.0 3 4 7 1 0 0 1 2 -3
+p702
+aVJason Terry ATL 11/24/1999 ATL @ MIA L 22 7 2 5 40.0 1 1 100.0 2 2 100.0 0 3 3 3 2 0 3 2 4
+p703
+aVRoshown McLeod ATL 11/24/1999 ATL @ MIA L 11 7 3 6 50.0 0 0 - 1 1 100.0 2 2 4 1 0 0 2 0 5
+p704
+aVDikembe Mutombo ATL 11/24/1999 ATL @ MIA L 43 20 8 12 66.7 0 0 - 4 6 66.7 6 12 18 2 1 3 1 5 -4
+p705
+aVIsaiah Rider ATL 11/24/1999 ATL @ MIA L 43 28 10 24 41.7 3 6 50.0 5 8 62.5 2 3 5 2 0 0 3 1 -3
+p706
+aVChris Crawford ATL 11/24/1999 ATL @ MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p707
+aVBimbo Coles ATL 11/24/1999 ATL @ MIA L 26 9 3 6 50.0 0 0 - 3 3 100.0 0 3 3 4 3 0 2 4 -6
+p708
+aVAnthony Johnson ATL 11/24/1999 ATL @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p709
+aVChris Crawford ATL 11/23/1999 ATL vs. MIA W 8 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 1 0 0 -1
+p710
+aVRoshown McLeod ATL 11/23/1999 ATL vs. MIA W 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 7
+p711
+aVCal Bowdler ATL 11/23/1999 ATL vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p712
+aVJim Jackson ATL 11/23/1999 ATL vs. MIA W 41 21 7 14 50.0 0 1 0.0 7 8 87.5 2 5 7 3 1 0 3 2 5
+p713
+aVDikembe Mutombo ATL 11/23/1999 ATL vs. MIA W 30 7 2 4 50.0 0 0 - 3 3 100.0 5 11 16 1 0 4 2 5 16
+p714
+aVBimbo Coles ATL 11/23/1999 ATL vs. MIA W 23 12 5 8 62.5 0 0 - 2 4 50.0 0 1 1 3 1 0 0 1 10
+p715
+aVAlan Henderson ATL 11/23/1999 ATL vs. MIA W 42 14 6 13 46.2 0 0 - 2 5 40.0 5 4 9 1 1 2 2 2 8
+p716
+aVIsaiah Rider ATL 11/23/1999 ATL vs. MIA W 43 32 13 24 54.2 1 3 33.3 5 6 83.3 2 2 4 2 2 1 2 1 2
+p717
+aVLorenzen Wright ATL 11/23/1999 ATL vs. MIA W 14 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 1 3 5 -8
+p718
+aVJason Terry ATL 11/23/1999 ATL vs. MIA W 27 21 9 11 81.8 2 3 66.7 1 2 50.0 0 2 2 3 2 0 3 0 -3
+p719
+aVLorenzen Wright ATL 11/20/1999 ATL vs. ORL L 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -11
+p720
+aVDikembe Mutombo ATL 11/20/1999 ATL vs. ORL L 42 22 7 11 63.6 0 0 - 8 14 57.1 5 16 21 1 0 6 5 2 7
+p721
+aVRoshown McLeod ATL 11/20/1999 ATL vs. ORL L 27 10 5 13 38.5 0 2 0.0 0 0 - 0 3 3 4 1 0 1 1 -3
+p722
+aVJim Jackson ATL 11/20/1999 ATL vs. ORL L 38 19 9 19 47.4 1 3 33.3 0 0 - 2 4 6 5 2 0 2 1 -2
+p723
+aVAlan Henderson ATL 11/20/1999 ATL vs. ORL L 38 16 6 15 40.0 0 0 - 4 6 66.7 5 7 12 0 1 1 1 4 -4
+p724
+aVJason Terry ATL 11/20/1999 ATL vs. ORL L 15 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 3 0 1 1 2 -9
+p725
+aVBimbo Coles ATL 11/20/1999 ATL vs. ORL L 33 17 8 14 57.1 0 1 0.0 1 2 50.0 0 5 5 7 1 0 1 2 5
+p726
+aVChris Crawford ATL 11/20/1999 ATL vs. ORL L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p727
+aVIsaiah Rider ATL 11/20/1999 ATL vs. ORL L 27 10 4 12 33.3 2 4 50.0 0 0 - 0 2 2 5 2 0 3 2 0
+p728
+aVJason Terry ATL 11/19/1999 ATL @ IND W 18 4 1 4 25.0 0 2 0.0 2 2 100.0 1 1 2 1 1 0 0 0 -4
+p729
+aVAlan Henderson ATL 11/19/1999 ATL @ IND W 41 16 7 15 46.7 0 0 - 2 5 40.0 6 4 10 0 0 1 0 4 10
+p730
+aVJim Jackson ATL 11/19/1999 ATL @ IND W 38 19 6 16 37.5 1 2 50.0 6 6 100.0 1 3 4 3 1 0 2 3 6
+p731
+aVDikembe Mutombo ATL 11/19/1999 ATL @ IND W 42 16 6 11 54.5 0 0 - 4 6 66.7 7 9 16 2 0 5 3 4 6
+p732
+aVIsaiah Rider ATL 11/19/1999 ATL @ IND W 31 15 7 22 31.8 1 4 25.0 0 0 - 1 1 2 3 0 0 0 2 1
+p733
+aVRoshown McLeod ATL 11/19/1999 ATL @ IND W 27 12 6 10 60.0 0 0 - 0 0 - 1 5 6 1 0 0 3 5 5
+p734
+aVLorenzen Wright ATL 11/19/1999 ATL @ IND W 13 7 3 7 42.9 0 0 - 1 1 100.0 1 2 3 0 0 0 1 3 -4
+p735
+aVBimbo Coles ATL 11/19/1999 ATL @ IND W 30 16 7 11 63.6 0 0 - 2 2 100.0 1 2 3 2 0 0 0 1 10
+p736
+aVLorenzen Wright ATL 11/16/1999 ATL vs. CHH W 20 8 3 5 60.0 0 0 - 2 2 100.0 3 4 7 0 0 1 2 3 -1
+p737
+aVJason Terry ATL 11/16/1999 ATL vs. CHH W 35 22 7 14 50.0 2 4 50.0 6 8 75.0 1 2 3 5 4 0 2 2 19
+p738
+aVAlan Henderson ATL 11/16/1999 ATL vs. CHH W 31 12 5 15 33.3 0 0 - 2 4 50.0 6 6 12 1 1 1 1 2 10
+p739
+aVJim Jackson ATL 11/16/1999 ATL vs. CHH W 43 20 8 24 33.3 1 6 16.7 3 4 75.0 0 6 6 4 0 0 1 0 8
+p740
+aVAnthony Johnson ATL 11/16/1999 ATL vs. CHH W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p741
+aVRoshown McLeod ATL 11/16/1999 ATL vs. CHH W 44 18 8 12 66.7 0 0 - 2 2 100.0 1 2 3 5 0 1 3 4 16
+p742
+aVDikembe Mutombo ATL 11/16/1999 ATL vs. CHH W 44 19 7 11 63.6 0 0 - 5 9 55.6 4 13 17 2 0 0 2 1 1
+p743
+aVBimbo Coles ATL 11/16/1999 ATL vs. CHH W 13 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 0 0 0 3 -14
+p744
+aVChris Crawford ATL 11/16/1999 ATL vs. CHH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 3 -4
+p745
+aVAlan Henderson ATL 11/14/1999 ATL @ LAL L 37 14 5 15 33.3 0 0 - 4 8 50.0 3 11 14 1 2 0 0 3 -14
+p746
+aVLorenzen Wright ATL 11/14/1999 ATL @ LAL L 19 11 5 6 83.3 0 0 - 1 5 20.0 6 1 7 0 0 0 1 2 12
+p747
+aVAnthony Johnson ATL 11/14/1999 ATL @ LAL L 9 4 0 0 - 0 0 - 4 4 100.0 0 1 1 2 1 0 1 0 -6
+p748
+aVRoshown McLeod ATL 11/14/1999 ATL @ LAL L 15 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -9
+p749
+aVDikembe Mutombo ATL 11/14/1999 ATL @ LAL L 40 12 3 8 37.5 0 0 - 6 10 60.0 7 9 16 0 2 3 2 5 -8
+p750
+aVIsaiah Rider ATL 11/14/1999 ATL @ LAL L 40 24 9 23 39.1 2 5 40.0 4 6 66.7 3 5 8 5 0 0 5 3 -2
+p751
+aVJason Terry ATL 11/14/1999 ATL @ LAL L 22 6 2 7 28.6 2 4 50.0 0 0 - 0 3 3 2 2 2 2 3 19
+p752
+aVChris Crawford ATL 11/14/1999 ATL @ LAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -8
+p753
+aVJim Jackson ATL 11/14/1999 ATL @ LAL L 35 13 6 13 46.2 1 3 33.3 0 0 - 0 2 2 3 0 0 5 2 9
+p754
+aVBimbo Coles ATL 11/14/1999 ATL @ LAL L 18 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 1 0 1 6 -18
+p755
+aVDion Glover ATL 11/13/1999 ATL @ POR L 6 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 1
+p756
+aVDikembe Mutombo ATL 11/13/1999 ATL @ POR L 27 6 0 4 0.0 0 0 - 6 8 75.0 1 6 7 0 0 1 1 1 -20
+p757
+aVChris Crawford ATL 11/13/1999 ATL @ POR L 21 6 2 4 50.0 0 1 0.0 2 2 100.0 2 4 6 2 1 0 1 3 2
+p758
+aVLorenzen Wright ATL 11/13/1999 ATL @ POR L 18 6 3 9 33.3 0 0 - 0 0 - 2 1 3 0 2 0 0 3 -23
+p759
+aVAlan Henderson ATL 11/13/1999 ATL @ POR L 31 22 11 18 61.1 0 1 0.0 0 1 0.0 5 3 8 0 0 0 3 4 -18
+p760
+aVIsaiah Rider ATL 11/13/1999 ATL @ POR L 30 14 5 15 33.3 2 4 50.0 2 3 66.7 1 2 3 1 1 0 2 3 -19
+p761
+aVJim Jackson ATL 11/13/1999 ATL @ POR L 21 5 2 11 18.2 0 1 0.0 1 2 50.0 1 1 2 1 0 0 2 0 -31
+p762
+aVCal Bowdler ATL 11/13/1999 ATL @ POR L 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 7 -9
+p763
+aVRoshown McLeod ATL 11/13/1999 ATL @ POR L 15 5 2 2 100.0 0 0 - 1 1 100.0 0 3 3 1 0 0 3 4 -14
+p764
+aVAnthony Johnson ATL 11/13/1999 ATL @ POR L 17 6 3 4 75.0 0 1 0.0 0 1 0.0 0 0 0 6 1 0 0 0 -7
+p765
+aVBimbo Coles ATL 11/13/1999 ATL @ POR L 16 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 1 -13
+p766
+aVJason Terry ATL 11/13/1999 ATL @ POR L 22 17 7 14 50.0 3 5 60.0 0 2 0.0 0 2 2 3 2 0 3 2 -29
+p767
+aVIsaiah Rider ATL 11/10/1999 ATL @ VAN L 14 5 2 7 28.6 0 1 0.0 1 2 50.0 0 0 0 1 0 0 2 0 -8
+p768
+aVJim Jackson ATL 11/10/1999 ATL @ VAN L 42 12 5 16 31.3 0 1 0.0 2 2 100.0 3 5 8 3 2 0 5 0 0
+p769
+aVBimbo Coles ATL 11/10/1999 ATL @ VAN L 44 20 10 18 55.6 0 2 0.0 0 0 - 1 5 6 8 3 0 0 2 2
+p770
+aVAlan Henderson ATL 11/10/1999 ATL @ VAN L 45 16 7 16 43.8 0 0 - 2 4 50.0 3 5 8 1 0 0 2 2 -6
+p771
+aVCal Bowdler ATL 11/10/1999 ATL @ VAN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -6
+p772
+aVChris Crawford ATL 11/10/1999 ATL @ VAN L 40 18 7 17 41.2 1 3 33.3 3 3 100.0 2 0 2 4 2 1 0 3 7
+p773
+aVRoshown McLeod ATL 11/10/1999 ATL @ VAN L 10 6 2 4 50.0 0 0 - 2 3 66.7 0 2 2 0 1 0 0 0 -7
+p774
+aVJason Terry ATL 11/10/1999 ATL @ VAN L 9 3 0 4 0.0 0 0 - 3 4 75.0 0 1 1 0 0 0 2 1 -9
+p775
+aVDikembe Mutombo ATL 11/10/1999 ATL @ VAN L 32 7 2 4 50.0 0 0 - 3 4 75.0 1 5 6 0 1 4 2 4 -9
+p776
+aVLorenzen Wright ATL 11/10/1999 ATL @ VAN L 24 10 4 6 66.7 0 0 - 2 2 100.0 0 7 7 0 0 1 1 5 11
+p777
+aVIsaiah Rider ATL 11/08/1999 ATL @ DEN L 42 28 10 17 58.8 0 4 0.0 8 10 80.0 0 1 1 2 0 0 2 3 -17
+p778
+aVDikembe Mutombo ATL 11/08/1999 ATL @ DEN L 39 13 5 9 55.6 0 0 - 3 5 60.0 5 8 13 1 0 5 4 3 -9
+p779
+aVRoshown McLeod ATL 11/08/1999 ATL @ DEN L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 2 -5
+p780
+aVJim Jackson ATL 11/08/1999 ATL @ DEN L 40 16 8 20 40.0 0 2 0.0 0 0 - 1 5 6 6 0 0 0 2 -9
+p781
+aVChris Crawford ATL 11/08/1999 ATL @ DEN L 13 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -5
+p782
+aVBimbo Coles ATL 11/08/1999 ATL @ DEN L 25 11 5 11 45.5 0 0 - 1 1 100.0 0 0 0 8 1 0 1 3 -3
+p783
+aVJason Terry ATL 11/08/1999 ATL @ DEN L 23 12 6 10 60.0 0 1 0.0 0 0 - 1 0 1 2 1 0 2 1 -12
+p784
+aVAlan Henderson ATL 11/08/1999 ATL @ DEN L 37 13 4 10 40.0 0 0 - 5 8 62.5 6 5 11 2 0 0 0 0 -9
+p785
+aVLorenzen Wright ATL 11/08/1999 ATL @ DEN L 9 1 0 0 - 0 0 - 1 2 50.0 0 4 4 0 0 1 1 6 -6
+p786
+aVCal Bowdler ATL 11/06/1999 ATL vs. CHI W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 -7
+p787
+aVDion Glover ATL 11/06/1999 ATL vs. CHI W 5 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -11
+p788
+aVAnthony Johnson ATL 11/06/1999 ATL vs. CHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p789
+aVIsaiah Rider ATL 11/06/1999 ATL vs. CHI W 22 18 7 15 46.7 0 2 0.0 4 6 66.7 1 3 4 3 0 0 2 0 24
+p790
+aVJim Jackson ATL 11/06/1999 ATL vs. CHI W 27 15 6 9 66.7 3 3 100.0 0 0 - 1 4 5 3 0 0 0 3 14
+p791
+aVDikembe Mutombo ATL 11/06/1999 ATL vs. CHI W 36 16 7 10 70.0 0 0 - 2 3 66.7 5 8 13 1 0 3 0 2 14
+p792
+aVBimbo Coles ATL 11/06/1999 ATL vs. CHI W 24 12 5 8 62.5 0 0 - 2 4 50.0 0 2 2 3 1 0 0 1 13
+p793
+aVJason Terry ATL 11/06/1999 ATL vs. CHI W 24 12 4 7 57.1 0 1 0.0 4 4 100.0 0 2 2 5 5 0 4 2 3
+p794
+aVChris Crawford ATL 11/06/1999 ATL vs. CHI W 24 14 5 11 45.5 0 0 - 4 4 100.0 1 1 2 2 0 0 3 6 19
+p795
+aVAlan Henderson ATL 11/06/1999 ATL vs. CHI W 32 13 4 9 44.4 0 0 - 5 11 45.5 2 6 8 1 3 0 0 2 22
+p796
+aVRoshown McLeod ATL 11/06/1999 ATL vs. CHI W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 5 -2
+p797
+aVLorenzen Wright ATL 11/06/1999 ATL vs. CHI W 22 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 5 1
+p798
+aVIsaiah Rider ATL 11/04/1999 ATL vs. MIL L 30 19 7 22 31.8 2 5 40.0 3 3 100.0 2 3 5 5 0 0 6 4 -4
+p799
+aVLorenzen Wright ATL 11/04/1999 ATL vs. MIL L 13 5 2 4 50.0 0 0 - 1 1 100.0 3 1 4 0 1 0 1 5 -5
+p800
+aVChris Crawford ATL 11/04/1999 ATL vs. MIL L 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 2 0
+p801
+aVRoshown McLeod ATL 11/04/1999 ATL vs. MIL L 29 16 7 12 58.3 0 1 0.0 2 2 100.0 1 2 3 1 1 1 4 3 -2
+p802
+aVAnthony Johnson ATL 11/04/1999 ATL vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p803
+aVCal Bowdler ATL 11/04/1999 ATL vs. MIL L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -8
+p804
+aVBimbo Coles ATL 11/04/1999 ATL vs. MIL L 28 13 6 9 66.7 0 1 0.0 1 1 100.0 1 3 4 6 1 0 2 4 -4
+p805
+aVDikembe Mutombo ATL 11/04/1999 ATL vs. MIL L 38 12 4 5 80.0 0 0 - 4 11 36.4 5 11 16 2 0 4 0 0 2
+p806
+aVJason Terry ATL 11/04/1999 ATL vs. MIL L 20 13 4 6 66.7 3 4 75.0 2 2 100.0 0 1 1 4 0 0 3 1 -6
+p807
+aVJim Jackson ATL 11/04/1999 ATL vs. MIL L 31 19 7 13 53.8 1 2 50.0 4 5 80.0 1 3 4 2 0 0 6 2 -15
+p808
+aVAlan Henderson ATL 11/04/1999 ATL vs. MIL L 41 9 4 10 40.0 0 0 - 1 1 100.0 4 5 9 2 0 0 3 5 -7
+p809
+aVDikembe Mutombo ATL 11/02/1999 ATL @ WAS L 37 12 2 7 28.6 0 0 - 8 12 66.7 4 8 12 2 0 5 3 2 -1
+p810
+aVBimbo Coles ATL 11/02/1999 ATL @ WAS L 32 9 4 14 28.6 0 1 0.0 1 1 100.0 0 3 3 5 1 0 6 3 -9
+p811
+aVJim Jackson ATL 11/02/1999 ATL @ WAS L 39 17 5 15 33.3 0 2 0.0 7 7 100.0 4 5 9 3 0 0 6 1 3
+p812
+aVLorenzen Wright ATL 11/02/1999 ATL @ WAS L 14 2 1 3 33.3 0 0 - 0 2 0.0 0 3 3 0 0 0 0 2 -10
+p813
+aVAlan Henderson ATL 11/02/1999 ATL @ WAS L 35 8 4 9 44.4 0 0 - 0 0 - 5 7 12 0 0 0 2 2 1
+p814
+aVCal Bowdler ATL 11/02/1999 ATL @ WAS L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p815
+aVJason Terry ATL 11/02/1999 ATL @ WAS L 11 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 1 2 0 2 3 -2
+p816
+aVAnthony Johnson ATL 11/02/1999 ATL @ WAS L 14 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 0 0 2 4 -6
+p817
+aVRoshown McLeod ATL 11/02/1999 ATL @ WAS L 37 22 8 16 50.0 1 1 100.0 5 6 83.3 0 5 5 2 2 0 0 4 -3
+p818
+aVChris Crawford ATL 11/02/1999 ATL @ WAS L 14 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -5
+p819
+a.

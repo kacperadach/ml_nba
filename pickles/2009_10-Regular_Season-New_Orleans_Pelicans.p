@@ -1,0 +1,1616 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJulian Wright NOH 04/14/2010 NOH @ HOU W 15 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 1 -6
+p2
+aVDarius Songaila NOH 04/14/2010 NOH @ HOU W 19 2 1 8 12.5 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -5
+p3
+aVAaron Gray NOH 04/14/2010 NOH @ HOU W 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 2 1
+p4
+aVMarcus Thornton NOH 04/14/2010 NOH @ HOU W 32 20 8 12 66.7 2 3 66.7 2 3 66.7 0 1 1 6 2 0 1 4 16
+p5
+aVJames Posey NOH 04/14/2010 NOH @ HOU W 24 10 3 7 42.9 2 5 40.0 2 2 100.0 0 5 5 1 2 0 0 0 0
+p6
+aVDavid West NOH 04/14/2010 NOH @ HOU W 43 35 16 20 80.0 0 0 - 3 3 100.0 0 10 10 6 1 1 5 2 15
+p7
+aVEmeka Okafor NOH 04/14/2010 NOH @ HOU W 28 8 3 4 75.0 0 0 - 2 4 50.0 3 6 9 2 1 0 3 3 4
+p8
+aVMorris Peterson NOH 04/14/2010 NOH @ HOU W 24 13 5 7 71.4 3 3 100.0 0 0 - 0 4 4 1 0 0 0 3 8
+p9
+aVDarren Collison NOH 04/14/2010 NOH @ HOU W 46 26 11 17 64.7 2 4 50.0 2 2 100.0 0 2 2 11 0 0 4 0 7
+p10
+aVAaron Gray NOH 04/11/2010 NOH vs. MIN W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 4 4 3 1 0 2 3 8
+p11
+aVDavid West NOH 04/11/2010 NOH vs. MIN W 34 10 2 6 33.3 0 0 - 6 8 75.0 1 11 12 7 0 1 1 3 16
+p12
+aVDarren Collison NOH 04/11/2010 NOH vs. MIN W 37 17 7 14 50.0 0 1 0.0 3 3 100.0 3 2 5 11 3 0 6 3 19
+p13
+aVMorris Peterson NOH 04/11/2010 NOH vs. MIN W 24 8 3 8 37.5 2 5 40.0 0 0 - 1 6 7 0 0 0 1 3 4
+p14
+aVJames Posey NOH 04/11/2010 NOH vs. MIN W 24 6 2 4 50.0 2 4 50.0 0 0 - 0 5 5 3 2 0 1 5 24
+p15
+aVDarius Songaila NOH 04/11/2010 NOH vs. MIN W 21 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 2 1 0 3 4 19
+p16
+aVMarcus Thornton NOH 04/11/2010 NOH vs. MIN W 34 22 7 17 41.2 0 5 0.0 8 9 88.9 1 2 3 3 2 0 2 1 13
+p17
+aVEmeka Okafor NOH 04/11/2010 NOH vs. MIN W 30 23 11 14 78.6 0 0 - 1 1 100.0 3 4 7 0 1 1 2 3 13
+p18
+aVJulian Wright NOH 04/11/2010 NOH vs. MIN W 24 16 7 10 70.0 0 0 - 2 2 100.0 2 2 4 1 1 0 2 3 24
+p19
+aVMorris Peterson NOH 04/09/2010 NOH vs. UTA L 20 8 3 7 42.9 1 2 50.0 1 2 50.0 0 0 0 0 1 0 0 2 -17
+p20
+aVJulian Wright NOH 04/09/2010 NOH vs. UTA L 19 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 7
+p21
+aVDavid West NOH 04/09/2010 NOH vs. UTA L 39 19 8 13 61.5 0 0 - 3 4 75.0 1 3 4 4 2 2 4 3 -12
+p22
+aVDarius Songaila NOH 04/09/2010 NOH vs. UTA L 24 8 3 7 42.9 0 0 - 2 3 66.7 0 6 6 1 0 1 1 2 3
+p23
+aVAaron Gray NOH 04/09/2010 NOH vs. UTA L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p24
+aVMarcus Thornton NOH 04/09/2010 NOH vs. UTA L 34 15 4 13 30.8 1 6 16.7 6 8 75.0 2 1 3 7 1 0 3 1 -22
+p25
+aVJames Posey NOH 04/09/2010 NOH vs. UTA L 28 13 4 5 80.0 4 5 80.0 1 2 50.0 1 6 7 0 3 0 0 4 6
+p26
+aVEmeka Okafor NOH 04/09/2010 NOH vs. UTA L 26 6 3 7 42.9 0 0 - 0 0 - 1 7 8 0 0 0 2 2 -16
+p27
+aVDarren Collison NOH 04/09/2010 NOH vs. UTA L 43 28 11 19 57.9 2 2 100.0 4 5 80.0 1 2 3 7 0 0 3 3 -7
+p28
+aVEmeka Okafor NOH 04/07/2010 NOH vs. CHA L 23 7 3 4 75.0 0 0 - 1 2 50.0 2 7 9 1 0 0 1 2 15
+p29
+aVDarius Songaila NOH 04/07/2010 NOH vs. CHA L 19 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 2 0 2 4 -6
+p30
+aVAaron Gray NOH 04/07/2010 NOH vs. CHA L 13 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 1 2 0 2 -16
+p31
+aVDavid West NOH 04/07/2010 NOH vs. CHA L 41 13 6 16 37.5 0 0 - 1 1 100.0 3 5 8 4 4 0 2 2 5
+p32
+aVMorris Peterson NOH 04/07/2010 NOH vs. CHA L 24 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 2 3 2 0 2 10
+p33
+aVJames Posey NOH 04/07/2010 NOH vs. CHA L 24 5 1 6 16.7 1 5 20.0 2 2 100.0 0 1 1 3 1 0 1 5 -11
+p34
+aVDarren Collison NOH 04/07/2010 NOH vs. CHA L 45 24 8 14 57.1 1 1 100.0 7 8 87.5 2 3 5 9 1 0 3 2 8
+p35
+aVMarcus Thornton NOH 04/07/2010 NOH vs. CHA L 42 36 14 26 53.8 4 10 40.0 4 5 80.0 0 3 3 3 1 1 2 3 3
+p36
+aVJulian Wright NOH 04/07/2010 NOH vs. CHA L 9 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 1 0 3 1 -13
+p37
+aVDavid West NOH 04/03/2010 NOH @ NJN L 32 25 10 17 58.8 0 0 - 5 6 83.3 3 4 7 6 1 1 1 4 -7
+p38
+aVJames Posey NOH 04/03/2010 NOH @ NJN L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 2 1 0 -9
+p39
+aVAaron Gray NOH 04/03/2010 NOH @ NJN L 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 1 -11
+p40
+aVMorris Peterson NOH 04/03/2010 NOH @ NJN L 27 8 3 8 37.5 0 3 0.0 2 2 100.0 1 2 3 2 1 0 1 1 -14
+p41
+aVJulian Wright NOH 04/03/2010 NOH @ NJN L 10 8 4 7 57.1 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p42
+aVMarcus Thornton NOH 04/03/2010 NOH @ NJN L 42 18 7 21 33.3 1 4 25.0 3 5 60.0 4 4 8 3 2 0 2 1 -18
+p43
+aVChris Paul NOH 04/03/2010 NOH @ NJN L 37 4 2 11 18.2 0 2 0.0 0 0 - 0 4 4 6 1 0 2 3 -20
+p44
+aVEmeka Okafor NOH 04/03/2010 NOH @ NJN L 24 6 3 6 50.0 0 0 - 0 2 0.0 4 1 5 0 2 2 1 2 -7
+p45
+aVDarren Collison NOH 04/03/2010 NOH @ NJN L 27 4 2 9 22.2 0 0 - 0 0 - 0 2 2 5 1 0 1 0 -28
+p46
+aVDarius Songaila NOH 04/03/2010 NOH @ NJN L 21 10 4 9 44.4 0 1 0.0 2 3 66.7 1 2 3 2 2 0 1 3 -16
+p47
+aVMorris Peterson NOH 04/02/2010 NOH @ MEM L 25 6 2 6 33.3 1 2 50.0 1 1 100.0 0 1 1 0 1 1 1 2 -10
+p48
+aVEmeka Okafor NOH 04/02/2010 NOH @ MEM L 21 7 3 7 42.9 0 0 - 1 2 50.0 3 3 6 0 1 2 1 1 2
+p49
+aVDavid West NOH 04/02/2010 NOH @ MEM L 29 13 6 13 46.2 0 0 - 1 1 100.0 1 8 9 2 1 2 1 3 -13
+p50
+aVJames Posey NOH 04/02/2010 NOH @ MEM L 21 6 2 5 40.0 2 5 40.0 0 0 - 0 3 3 0 0 0 1 4 1
+p51
+aVJulian Wright NOH 04/02/2010 NOH @ MEM L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 7
+p52
+aVAaron Gray NOH 04/02/2010 NOH @ MEM L 17 8 2 4 50.0 0 0 - 4 4 100.0 3 2 5 2 0 2 0 3 -18
+p53
+aVDarren Collison NOH 04/02/2010 NOH @ MEM L 27 15 7 14 50.0 1 3 33.3 0 0 - 0 2 2 3 3 0 1 0 -8
+p54
+aVDarius Songaila NOH 04/02/2010 NOH @ MEM L 17 4 2 7 28.6 0 0 - 0 0 - 2 6 8 1 0 0 1 4 0
+p55
+aVChris Paul NOH 04/02/2010 NOH @ MEM L 36 16 8 14 57.1 0 1 0.0 0 3 0.0 0 1 1 8 1 0 3 2 -11
+p56
+aVMarcus Thornton NOH 04/02/2010 NOH @ MEM L 38 19 8 21 38.1 1 9 11.1 2 2 100.0 2 3 5 0 0 0 1 3 -5
+p57
+aVDarren Collison NOH 03/31/2010 NOH vs. WAS L 24 14 5 11 45.5 1 1 100.0 3 3 100.0 0 0 0 3 1 0 3 0 3
+p58
+aVJames Posey NOH 03/31/2010 NOH vs. WAS L 25 5 2 5 40.0 0 2 0.0 1 2 50.0 1 2 3 2 1 0 1 6 10
+p59
+aVMarcus Thornton NOH 03/31/2010 NOH vs. WAS L 35 15 6 11 54.5 1 3 33.3 2 2 100.0 1 5 6 0 1 0 1 2 -3
+p60
+aVAaron Gray NOH 03/31/2010 NOH vs. WAS L 13 12 4 6 66.7 0 0 - 4 4 100.0 6 1 7 0 0 1 1 0 9
+p61
+aVChris Paul NOH 03/31/2010 NOH vs. WAS L 44 8 4 9 44.4 0 1 0.0 0 0 - 0 4 4 9 1 0 1 4 -3
+p62
+aVMorris Peterson NOH 03/31/2010 NOH vs. WAS L 20 4 1 5 20.0 1 3 33.3 1 2 50.0 0 1 1 1 0 0 0 2 -13
+p63
+aVEmeka Okafor NOH 03/31/2010 NOH vs. WAS L 23 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 1 0 0 1 1 -14
+p64
+aVDarius Songaila NOH 03/31/2010 NOH vs. WAS L 22 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 1 0 0 2 -11
+p65
+aVDavid West NOH 03/31/2010 NOH vs. WAS L 34 18 8 15 53.3 0 1 0.0 2 3 66.7 1 4 5 2 3 0 5 5 -3
+p66
+aVAaron Gray NOH 03/29/2010 NOH vs. LAL W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p67
+aVMarcus Thornton NOH 03/29/2010 NOH vs. LAL W 39 18 5 13 38.5 3 9 33.3 5 6 83.3 1 2 3 2 0 0 0 1 -10
+p68
+aVDarren Collison NOH 03/29/2010 NOH vs. LAL W 21 17 6 9 66.7 2 2 100.0 3 3 100.0 0 3 3 3 1 0 2 0 14
+p69
+aVMorris Peterson NOH 03/29/2010 NOH vs. LAL W 16 5 1 5 20.0 1 5 20.0 2 4 50.0 0 1 1 0 1 0 0 2 -5
+p70
+aVChris Paul NOH 03/29/2010 NOH vs. LAL W 39 15 5 11 45.5 1 2 50.0 4 4 100.0 0 4 4 13 1 0 2 3 14
+p71
+aVJames Posey NOH 03/29/2010 NOH vs. LAL W 28 13 3 5 60.0 3 5 60.0 4 4 100.0 1 5 6 3 0 1 2 4 11
+p72
+aVDavid West NOH 03/29/2010 NOH vs. LAL W 45 20 7 15 46.7 0 0 - 6 8 75.0 1 6 7 1 0 1 1 2 10
+p73
+aVDarius Songaila NOH 03/29/2010 NOH vs. LAL W 16 10 5 6 83.3 0 0 - 0 0 - 1 0 1 0 2 0 1 5 -3
+p74
+aVEmeka Okafor NOH 03/29/2010 NOH vs. LAL W 29 8 3 8 37.5 0 0 - 2 5 40.0 3 10 13 0 1 2 0 2 10
+p75
+aVChris Paul NOH 03/27/2010 NOH vs. POR L 31 7 3 8 37.5 0 0 - 1 2 50.0 1 1 2 10 3 0 3 2 -19
+p76
+aVEmeka Okafor NOH 03/27/2010 NOH vs. POR L 24 14 5 7 71.4 0 0 - 4 7 57.1 1 4 5 0 0 1 2 1 -11
+p77
+aVMorris Peterson NOH 03/27/2010 NOH vs. POR L 23 8 3 6 50.0 2 4 50.0 0 0 - 0 5 5 1 0 0 1 3 -22
+p78
+aVAaron Gray NOH 03/27/2010 NOH vs. POR L 10 4 1 5 20.0 0 0 - 2 2 100.0 4 2 6 1 1 0 1 1 1
+p79
+aVMarcus Thornton NOH 03/27/2010 NOH vs. POR L 29 8 2 7 28.6 2 4 50.0 2 2 100.0 0 1 1 2 1 0 0 4 0
+p80
+aVJulian Wright NOH 03/27/2010 NOH vs. POR L 11 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p81
+aVDavid West NOH 03/27/2010 NOH vs. POR L 39 18 9 14 64.3 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -23
+p82
+aVDarren Collison NOH 03/27/2010 NOH vs. POR L 38 22 10 10 100.0 0 0 - 2 2 100.0 0 1 1 5 0 0 2 2 7
+p83
+aVDarius Songaila NOH 03/27/2010 NOH vs. POR L 18 8 4 7 57.1 0 0 - 0 0 - 0 1 1 2 1 0 1 3 1
+p84
+aVJames Posey NOH 03/27/2010 NOH vs. POR L 18 9 3 4 75.0 3 4 75.0 0 0 - 0 1 1 2 0 0 1 4 10
+p85
+aVJames Posey NOH 03/24/2010 NOH vs. CLE L 21 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 2 1 1 0 1 7
+p86
+aVEmeka Okafor NOH 03/24/2010 NOH vs. CLE L 23 6 3 7 42.9 0 0 - 0 0 - 5 5 10 1 0 0 1 3 -7
+p87
+aVJulian Wright NOH 03/24/2010 NOH vs. CLE L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p88
+aVMarcus Thornton NOH 03/24/2010 NOH vs. CLE L 43 20 8 17 47.1 1 6 16.7 3 3 100.0 2 2 4 5 1 0 1 2 -14
+p89
+aVDarius Songaila NOH 03/24/2010 NOH vs. CLE L 24 11 5 9 55.6 0 0 - 1 2 50.0 0 3 3 1 2 0 0 2 -1
+p90
+aVChris Paul NOH 03/24/2010 NOH vs. CLE L 31 5 2 8 25.0 1 4 25.0 0 0 - 1 1 2 7 2 0 3 4 -12
+p91
+aVDarren Collison NOH 03/24/2010 NOH vs. CLE L 31 17 7 13 53.8 1 2 50.0 2 2 100.0 1 3 4 7 0 0 2 1 2
+p92
+aVMorris Peterson NOH 03/24/2010 NOH vs. CLE L 27 9 4 8 50.0 1 4 25.0 0 0 - 0 5 5 0 0 0 0 2 -20
+p93
+aVDavid West NOH 03/24/2010 NOH vs. CLE L 38 16 5 16 31.3 0 1 0.0 6 8 75.0 4 3 7 6 0 1 2 2 -21
+p94
+aVEmeka Okafor NOH 03/22/2010 NOH vs. DAL W 21 1 0 2 0.0 0 0 - 1 4 25.0 2 4 6 1 0 2 3 1 -13
+p95
+aVDarius Songaila NOH 03/22/2010 NOH vs. DAL W 22 8 4 4 100.0 0 0 - 0 0 - 0 5 5 2 1 0 0 2 30
+p96
+aVChris Paul NOH 03/22/2010 NOH vs. DAL W 21 11 4 9 44.4 3 5 60.0 0 0 - 0 0 0 3 1 0 2 3 -8
+p97
+aVMarcus Thornton NOH 03/22/2010 NOH vs. DAL W 37 28 12 22 54.5 4 9 44.4 0 0 - 1 3 4 2 0 0 0 0 1
+p98
+aVDavid West NOH 03/22/2010 NOH vs. DAL W 40 25 10 17 58.8 0 0 - 5 5 100.0 2 4 6 10 2 0 1 2 14
+p99
+aVAaron Gray NOH 03/22/2010 NOH vs. DAL W 10 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 0 3
+p100
+aVDarren Collison NOH 03/22/2010 NOH vs. DAL W 35 16 6 15 40.0 1 2 50.0 3 4 75.0 1 3 4 8 2 0 3 1 28
+p101
+aVMorris Peterson NOH 03/22/2010 NOH vs. DAL W 36 20 8 11 72.7 4 7 57.1 0 0 - 1 4 5 1 2 0 0 2 4
+p102
+aVJulian Wright NOH 03/22/2010 NOH vs. DAL W 1 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 1
+p103
+aVJames Posey NOH 03/22/2010 NOH vs. DAL W 18 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 5 1 0 0 4 20
+p104
+aVDavid West NOH 03/20/2010 NOH @ UTA L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -8
+p105
+aVDarren Collison NOH 03/20/2010 NOH @ UTA L 40 19 9 19 47.4 1 2 50.0 0 0 - 1 3 4 6 0 0 2 1 -21
+p106
+aVJames Posey NOH 03/20/2010 NOH @ UTA L 24 3 1 6 16.7 1 4 25.0 0 0 - 2 2 4 2 0 0 0 2 -3
+p107
+aVDarius Songaila NOH 03/20/2010 NOH @ UTA L 19 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 2 1 0 4 1 -19
+p108
+aVEmeka Okafor NOH 03/20/2010 NOH @ UTA L 40 14 4 7 57.1 0 0 - 6 9 66.7 3 7 10 1 1 4 2 2 -20
+p109
+aVAaron Gray NOH 03/20/2010 NOH @ UTA L 20 7 3 5 60.0 0 0 - 1 2 50.0 3 8 11 2 0 2 1 3 14
+p110
+aVMarcus Thornton NOH 03/20/2010 NOH @ UTA L 32 22 9 17 52.9 0 2 0.0 4 5 80.0 2 1 3 4 1 0 4 1 5
+p111
+aVJulian Wright NOH 03/20/2010 NOH @ UTA L 26 4 1 6 16.7 0 0 - 2 4 50.0 3 1 4 0 0 0 1 1 -21
+p112
+aVMorris Peterson NOH 03/20/2010 NOH @ UTA L 29 3 1 8 12.5 1 5 20.0 0 2 0.0 3 2 5 1 0 0 2 4 -27
+p113
+aVJulian Wright NOH 03/18/2010 NOH @ DEN L 23 2 1 2 50.0 0 0 - 0 0 - 2 0 2 2 0 1 2 0 -5
+p114
+aVMarcus Thornton NOH 03/18/2010 NOH @ DEN L 30 15 6 14 42.9 1 4 25.0 2 2 100.0 0 2 2 1 1 0 1 3 -15
+p115
+aVJames Posey NOH 03/18/2010 NOH @ DEN L 21 0 0 2 0.0 0 2 0.0 0 0 - 0 6 6 2 0 1 0 2 -3
+p116
+aVDarius Songaila NOH 03/18/2010 NOH @ DEN L 28 13 5 9 55.6 0 0 - 3 4 75.0 2 7 9 0 3 1 3 3 -13
+p117
+aVDavid West NOH 03/18/2010 NOH @ DEN L 31 14 7 16 43.8 0 0 - 0 0 - 2 4 6 2 0 0 5 5 -11
+p118
+aVMorris Peterson NOH 03/18/2010 NOH @ DEN L 29 8 3 8 37.5 1 2 50.0 1 1 100.0 1 4 5 1 0 0 2 2 -7
+p119
+aVEmeka Okafor NOH 03/18/2010 NOH @ DEN L 30 11 5 9 55.6 0 0 - 1 2 50.0 3 7 10 0 0 1 1 3 2
+p120
+aVDarren Collison NOH 03/18/2010 NOH @ DEN L 42 15 5 15 33.3 0 0 - 5 6 83.3 0 3 3 6 1 0 5 4 -9
+p121
+aVAaron Gray NOH 03/18/2010 NOH @ DEN L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -4
+p122
+aVDavid West NOH 03/17/2010 NOH @ GSW L 43 36 14 26 53.8 0 0 - 8 8 100.0 4 11 15 5 1 0 4 4 -20
+p123
+aVDarius Songaila NOH 03/17/2010 NOH @ GSW L 31 13 2 5 40.0 0 0 - 9 9 100.0 3 1 4 0 1 1 3 4 -11
+p124
+aVJulian Wright NOH 03/17/2010 NOH @ GSW L 20 10 5 7 71.4 0 0 - 0 2 0.0 0 2 2 1 2 0 0 1 9
+p125
+aVEmeka Okafor NOH 03/17/2010 NOH @ GSW L 19 6 3 7 42.9 0 0 - 0 0 - 2 4 6 0 0 1 1 3 9
+p126
+aVJames Posey NOH 03/17/2010 NOH @ GSW L 19 5 2 3 66.7 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 3 -10
+p127
+aVMorris Peterson NOH 03/17/2010 NOH @ GSW L 35 17 6 12 50.0 4 9 44.4 1 5 20.0 1 0 1 2 1 0 1 0 -5
+p128
+aVDarren Collison NOH 03/17/2010 NOH @ GSW L 45 20 7 14 50.0 2 5 40.0 4 5 80.0 1 5 6 14 1 0 8 2 -8
+p129
+aVMarcus Thornton NOH 03/17/2010 NOH @ GSW L 28 14 5 12 41.7 1 6 16.7 3 3 100.0 2 2 4 6 1 0 1 2 -14
+p130
+aVAaron Gray NOH 03/15/2010 NOH @ LAC W 10 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -6
+p131
+aVEmeka Okafor NOH 03/15/2010 NOH @ LAC W 29 12 6 9 66.7 0 0 - 0 2 0.0 1 13 14 0 0 1 1 0 4
+p132
+aVDavid West NOH 03/15/2010 NOH @ LAC W 40 24 11 17 64.7 0 0 - 2 2 100.0 0 5 5 7 1 1 3 4 15
+p133
+aVDarren Collison NOH 03/15/2010 NOH @ LAC W 48 18 8 13 61.5 2 3 66.7 0 0 - 1 2 3 14 0 0 4 3 8
+p134
+aVJulian Wright NOH 03/15/2010 NOH @ LAC W 23 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 1 0 1 0 6
+p135
+aVMarcus Thornton NOH 03/15/2010 NOH @ LAC W 30 17 7 18 38.9 2 5 40.0 1 1 100.0 1 3 4 4 0 0 2 1 0
+p136
+aVDarius Songaila NOH 03/15/2010 NOH @ LAC W 17 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 1 0 1 3 3
+p137
+aVMorris Peterson NOH 03/15/2010 NOH @ LAC W 43 17 6 12 50.0 5 10 50.0 0 0 - 1 7 8 5 0 0 1 3 10
+p138
+aVMorris Peterson NOH 03/14/2010 NOH @ PHX L 28 13 4 11 36.4 3 6 50.0 2 2 100.0 1 3 4 4 2 0 3 5 -13
+p139
+aVEmeka Okafor NOH 03/14/2010 NOH @ PHX L 33 15 7 12 58.3 0 0 - 1 3 33.3 4 8 12 2 0 0 1 5 -8
+p140
+aVDarius Songaila NOH 03/14/2010 NOH @ PHX L 16 4 2 6 33.3 0 0 - 0 0 - 0 4 4 0 0 0 1 4 -10
+p141
+aVMarcus Thornton NOH 03/14/2010 NOH @ PHX L 35 28 12 21 57.1 4 7 57.1 0 0 - 0 1 1 2 2 1 1 2 0
+p142
+aVDavid West NOH 03/14/2010 NOH @ PHX L 34 24 7 15 46.7 0 1 0.0 10 10 100.0 3 4 7 2 2 0 0 4 -12
+p143
+aVJulian Wright NOH 03/14/2010 NOH @ PHX L 40 7 3 8 37.5 0 0 - 1 4 25.0 2 2 4 2 2 1 3 0 -4
+p144
+aVAaron Gray NOH 03/14/2010 NOH @ PHX L 12 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 1 0 1 1 4
+p145
+aVDarren Collison NOH 03/14/2010 NOH @ PHX L 41 13 6 14 42.9 0 1 0.0 1 1 100.0 1 3 4 10 2 0 3 2 -27
+p146
+aVMorris Peterson NOH 03/12/2010 NOH vs. DEN L 33 1 0 6 0.0 0 4 0.0 1 3 33.3 1 3 4 0 1 0 1 4 -12
+p147
+aVJulian Wright NOH 03/12/2010 NOH vs. DEN L 37 13 6 13 46.2 0 0 - 1 1 100.0 4 4 8 4 5 0 1 1 0
+p148
+aVMarcus Thornton NOH 03/12/2010 NOH vs. DEN L 32 23 7 18 38.9 4 8 50.0 5 6 83.3 1 5 6 5 2 0 3 0 -3
+p149
+aVDavid West NOH 03/12/2010 NOH vs. DEN L 42 30 12 20 60.0 0 1 0.0 6 6 100.0 0 6 6 3 0 1 0 3 -10
+p150
+aVDarius Songaila NOH 03/12/2010 NOH vs. DEN L 9 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 1 5 -1
+p151
+aVAaron Gray NOH 03/12/2010 NOH vs. DEN L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p152
+aVEmeka Okafor NOH 03/12/2010 NOH vs. DEN L 31 9 4 12 33.3 0 0 - 1 2 50.0 2 7 9 0 2 0 2 2 -4
+p153
+aVDarren Collison NOH 03/12/2010 NOH vs. DEN L 45 17 7 15 46.7 0 4 0.0 3 3 100.0 1 1 2 10 2 0 4 1 -3
+p154
+aVEmeka Okafor NOH 03/10/2010 NOH @ OKC L 24 2 1 2 50.0 0 0 - 0 2 0.0 2 1 3 0 1 2 2 0 -17
+p155
+aVJulian Wright NOH 03/10/2010 NOH @ OKC L 37 10 5 7 71.4 0 0 - 0 0 - 2 1 3 0 1 0 1 1 -4
+p156
+aVDarren Collison NOH 03/10/2010 NOH @ OKC L 38 8 3 14 21.4 1 1 100.0 1 2 50.0 0 3 3 9 0 1 2 2 -13
+p157
+aVDarius Songaila NOH 03/10/2010 NOH @ OKC L 17 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 2 2 4
+p158
+aVDavid West NOH 03/10/2010 NOH @ OKC L 38 33 14 22 63.6 0 2 0.0 5 5 100.0 1 5 6 2 1 0 3 1 -18
+p159
+aVMorris Peterson NOH 03/10/2010 NOH @ OKC L 22 8 3 8 37.5 1 5 20.0 1 2 50.0 0 5 5 1 0 0 2 3 -11
+p160
+aVAaron Gray NOH 03/10/2010 NOH @ OKC L 17 6 2 3 66.7 0 0 - 2 4 50.0 1 6 7 3 1 1 1 3 1
+p161
+aVJames Posey NOH 03/10/2010 NOH @ OKC L 13 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 0 1 0 0 4 -6
+p162
+aVMarcus Thornton NOH 03/10/2010 NOH @ OKC L 33 11 4 13 30.8 1 3 33.3 2 2 100.0 1 4 5 1 2 1 1 1 -11
+p163
+aVJulian Wright NOH 03/08/2010 NOH vs. GSW W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p164
+aVJames Posey NOH 03/08/2010 NOH vs. GSW W 22 4 1 3 33.3 1 3 33.3 1 2 50.0 0 3 3 4 0 0 1 2 -14
+p165
+aVDarius Songaila NOH 03/08/2010 NOH vs. GSW W 12 7 3 6 50.0 0 0 - 1 1 100.0 1 3 4 1 0 0 1 3 2
+p166
+aVMorris Peterson NOH 03/08/2010 NOH vs. GSW W 22 12 4 8 50.0 4 7 57.1 0 0 - 0 4 4 2 1 0 0 0 11
+p167
+aVDavid West NOH 03/08/2010 NOH vs. GSW W 41 28 11 16 68.8 0 0 - 6 7 85.7 6 7 13 3 2 0 2 4 12
+p168
+aVPeja Stojakovic NOH 03/08/2010 NOH vs. GSW W 27 16 6 14 42.9 1 3 33.3 3 4 75.0 0 1 1 3 0 0 1 2 10
+p169
+aVEmeka Okafor NOH 03/08/2010 NOH vs. GSW W 33 22 10 12 83.3 0 0 - 2 3 66.7 5 6 11 3 0 1 2 2 5
+p170
+aVDarren Collison NOH 03/08/2010 NOH vs. GSW W 46 16 7 12 58.3 2 3 66.7 0 2 0.0 1 0 1 20 3 0 7 1 5
+p171
+aVMarcus Thornton NOH 03/08/2010 NOH vs. GSW W 29 28 11 19 57.9 2 6 33.3 4 5 80.0 2 4 6 2 2 0 2 3 -2
+p172
+aVMarcus Thornton NOH 03/05/2010 NOH @ SAS L 24 18 8 15 53.3 1 3 33.3 1 2 50.0 0 1 1 0 1 1 0 1 -3
+p173
+aVPeja Stojakovic NOH 03/05/2010 NOH @ SAS L 35 3 1 10 10.0 0 2 0.0 1 1 100.0 1 4 5 1 2 0 2 0 -11
+p174
+aVJames Posey NOH 03/05/2010 NOH @ SAS L 21 5 2 2 100.0 1 1 100.0 0 0 - 0 5 5 0 0 0 1 3 -5
+p175
+aVDavid West NOH 03/05/2010 NOH @ SAS L 42 22 11 19 57.9 0 0 - 0 0 - 3 6 9 7 4 2 1 2 -8
+p176
+aVDarius Songaila NOH 03/05/2010 NOH @ SAS L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 3 0
+p177
+aVAaron Gray NOH 03/05/2010 NOH @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p178
+aVDarren Collison NOH 03/05/2010 NOH @ SAS L 44 32 14 19 73.7 2 3 66.7 2 2 100.0 0 2 2 2 0 0 4 2 -9
+p179
+aVMorris Peterson NOH 03/05/2010 NOH @ SAS L 21 3 1 6 16.7 0 1 0.0 1 2 50.0 0 3 3 4 1 1 1 1 -5
+p180
+aVJulian Wright NOH 03/05/2010 NOH @ SAS L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p181
+aVEmeka Okafor NOH 03/05/2010 NOH @ SAS L 32 4 2 7 28.6 0 0 - 0 2 0.0 2 3 5 0 2 1 1 3 -10
+p182
+aVAaron Gray NOH 03/03/2010 NOH vs. MEM L 20 7 3 4 75.0 0 0 - 1 1 100.0 3 5 8 2 1 1 4 4 7
+p183
+aVJulian Wright NOH 03/03/2010 NOH vs. MEM L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -1
+p184
+aVEmeka Okafor NOH 03/03/2010 NOH vs. MEM L 15 10 5 6 83.3 0 0 - 0 0 - 1 0 1 0 0 1 1 4 -4
+p185
+aVDarren Collison NOH 03/03/2010 NOH vs. MEM L 45 17 7 15 46.7 1 3 33.3 2 2 100.0 0 1 1 14 5 0 4 2 -3
+p186
+aVPeja Stojakovic NOH 03/03/2010 NOH vs. MEM L 38 18 7 18 38.9 0 4 0.0 4 4 100.0 1 8 9 3 1 0 3 1 -2
+p187
+aVJames Posey NOH 03/03/2010 NOH vs. MEM L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 5 -1
+p188
+aVMarcus Thornton NOH 03/03/2010 NOH vs. MEM L 32 24 8 16 50.0 3 7 42.9 5 5 100.0 2 1 3 2 1 1 3 5 8
+p189
+aVDavid West NOH 03/03/2010 NOH vs. MEM L 42 15 7 12 58.3 0 0 - 1 1 100.0 1 5 6 5 2 5 1 4 -4
+p190
+aVDarius Songaila NOH 03/03/2010 NOH vs. MEM L 15 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 1 3 2 -13
+p191
+aVMorris Peterson NOH 03/03/2010 NOH vs. MEM L 17 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p192
+aVMorris Peterson NOH 03/01/2010 NOH vs. SAS L 27 7 1 3 33.3 0 2 0.0 5 6 83.3 0 6 6 0 0 1 0 0 -6
+p193
+aVMarcus Thornton NOH 03/01/2010 NOH vs. SAS L 27 30 12 19 63.2 6 7 85.7 0 1 0.0 2 5 7 2 0 0 2 2 -9
+p194
+aVDavid West NOH 03/01/2010 NOH vs. SAS L 38 13 6 17 35.3 0 0 - 1 1 100.0 3 6 9 4 1 1 1 2 -5
+p195
+aVJulian Wright NOH 03/01/2010 NOH vs. SAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 0 -1
+p196
+aVEmeka Okafor NOH 03/01/2010 NOH vs. SAS L 32 18 8 13 61.5 0 0 - 2 3 66.7 2 5 7 0 1 2 0 5 -13
+p197
+aVDarren Collison NOH 03/01/2010 NOH vs. SAS L 47 10 5 12 41.7 0 1 0.0 0 0 - 1 4 5 15 2 0 2 3 -14
+p198
+aVPeja Stojakovic NOH 03/01/2010 NOH vs. SAS L 37 11 4 12 33.3 1 5 20.0 2 2 100.0 3 0 3 0 0 0 4 0 -14
+p199
+aVJames Posey NOH 03/01/2010 NOH vs. SAS L 23 3 1 5 20.0 1 3 33.3 0 0 - 0 4 4 1 0 0 0 2 -8
+p200
+aVSean Marks NOH 03/01/2010 NOH vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p201
+aVDavid West NOH 02/28/2010 NOH @ DAL L 44 10 3 15 20.0 0 0 - 4 4 100.0 3 5 8 6 0 2 4 3 5
+p202
+aVEmeka Okafor NOH 02/28/2010 NOH @ DAL L 28 8 3 5 60.0 0 0 - 2 2 100.0 7 10 17 1 5 3 2 3 -10
+p203
+aVMarcus Thornton NOH 02/28/2010 NOH @ DAL L 33 21 6 15 40.0 1 4 25.0 8 10 80.0 3 2 5 1 0 0 2 2 1
+p204
+aVMorris Peterson NOH 02/28/2010 NOH @ DAL L 19 6 2 7 28.6 0 2 0.0 2 2 100.0 0 1 1 1 2 0 0 1 2
+p205
+aVJames Posey NOH 02/28/2010 NOH @ DAL L 24 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 4 -11
+p206
+aVJulian Wright NOH 02/28/2010 NOH @ DAL L 9 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -8
+p207
+aVPeja Stojakovic NOH 02/28/2010 NOH @ DAL L 39 16 6 16 37.5 2 9 22.2 2 2 100.0 0 4 4 1 0 0 0 2 0
+p208
+aVDarren Collison NOH 02/28/2010 NOH @ DAL L 44 35 15 21 71.4 3 5 60.0 2 3 66.7 0 3 3 3 1 0 5 0 -19
+p209
+aVDarren Collison NOH 02/26/2010 NOH vs. ORL W 46 16 6 18 33.3 1 2 50.0 3 4 75.0 1 0 1 7 1 0 4 0 10
+p210
+aVMorris Peterson NOH 02/26/2010 NOH vs. ORL W 18 5 2 7 28.6 0 1 0.0 1 1 100.0 1 1 2 0 1 0 0 1 -2
+p211
+aVEmeka Okafor NOH 02/26/2010 NOH vs. ORL W 21 9 2 6 33.3 0 0 - 5 8 62.5 3 4 7 0 2 1 1 4 -4
+p212
+aVAaron Gray NOH 02/26/2010 NOH vs. ORL W 24 6 3 4 75.0 0 0 - 0 0 - 3 4 7 1 1 0 1 5 14
+p213
+aVMarcus Thornton NOH 02/26/2010 NOH vs. ORL W 32 18 8 14 57.1 1 3 33.3 1 2 50.0 2 5 7 1 1 0 2 1 6
+p214
+aVJames Posey NOH 02/26/2010 NOH vs. ORL W 25 2 0 1 0.0 0 0 - 2 2 100.0 0 9 9 3 2 0 0 3 9
+p215
+aVPeja Stojakovic NOH 02/26/2010 NOH vs. ORL W 27 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 0 2 0 1 0 -8
+p216
+aVDavid West NOH 02/26/2010 NOH vs. ORL W 46 40 16 24 66.7 1 1 100.0 7 8 87.5 2 8 10 1 0 2 1 2 10
+p217
+aVDavid West NOH 02/24/2010 NOH @ MIL L 35 19 8 16 50.0 0 1 0.0 3 4 75.0 2 7 9 2 0 0 2 4 -13
+p218
+aVAaron Gray NOH 02/24/2010 NOH @ MIL L 8 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 0
+p219
+aVJames Posey NOH 02/24/2010 NOH @ MIL L 27 2 1 6 16.7 0 4 0.0 0 0 - 0 7 7 2 1 1 2 2 -6
+p220
+aVEmeka Okafor NOH 02/24/2010 NOH @ MIL L 23 8 3 5 60.0 0 0 - 2 2 100.0 2 5 7 0 0 0 0 4 -18
+p221
+aVSean Marks NOH 02/24/2010 NOH @ MIL L 5 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 -4
+p222
+aVPeja Stojakovic NOH 02/24/2010 NOH @ MIL L 30 11 4 8 50.0 2 2 100.0 1 2 50.0 0 2 2 1 1 1 1 0 -23
+p223
+aVDarren Collison NOH 02/24/2010 NOH @ MIL L 42 22 7 16 43.8 0 1 0.0 8 9 88.9 1 2 3 9 1 0 3 0 -10
+p224
+aVJulian Wright NOH 02/24/2010 NOH @ MIL L 25 4 2 5 40.0 0 0 - 0 0 - 1 3 4 2 1 0 1 1 -9
+p225
+aVMorris Peterson NOH 02/24/2010 NOH @ MIL L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -6
+p226
+aVMarcus Thornton NOH 02/24/2010 NOH @ MIL L 41 25 8 21 38.1 3 5 60.0 6 6 100.0 2 3 5 1 1 0 1 1 -11
+p227
+aVJames Posey NOH 02/23/2010 NOH @ CLE L 28 0 0 2 0.0 0 2 0.0 0 0 - 0 9 9 1 0 0 0 3 10
+p228
+aVEmeka Okafor NOH 02/23/2010 NOH @ CLE L 31 4 2 5 40.0 0 0 - 0 0 - 3 5 8 3 0 0 0 3 -14
+p229
+aVSean Marks NOH 02/23/2010 NOH @ CLE L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 4
+p230
+aVPeja Stojakovic NOH 02/23/2010 NOH @ CLE L 34 9 3 12 25.0 1 5 20.0 2 2 100.0 0 3 3 1 0 0 1 3 -21
+p231
+aVDavid West NOH 02/23/2010 NOH @ CLE L 30 17 7 10 70.0 0 0 - 3 3 100.0 0 6 6 2 1 0 3 4 -21
+p232
+aVMorris Peterson NOH 02/23/2010 NOH @ CLE L 21 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -9
+p233
+aVDarren Collison NOH 02/23/2010 NOH @ CLE L 43 22 9 19 47.4 0 3 0.0 4 4 100.0 0 4 4 10 1 0 6 1 -15
+p234
+aVMarcus Thornton NOH 02/23/2010 NOH @ CLE L 31 37 15 22 68.2 3 7 42.9 4 4 100.0 1 1 2 2 2 0 2 0 4
+p235
+aVJulian Wright NOH 02/23/2010 NOH @ CLE L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 12
+p236
+aVEmeka Okafor NOH 02/21/2010 NOH vs. HOU W 31 4 2 7 28.6 0 0 - 0 0 - 2 9 11 1 1 6 2 5 16
+p237
+aVMarcus Thornton NOH 02/21/2010 NOH vs. HOU W 23 12 5 13 38.5 2 4 50.0 0 0 - 2 3 5 1 2 0 1 2 -5
+p238
+aVPeja Stojakovic NOH 02/21/2010 NOH vs. HOU W 39 14 5 16 31.3 1 7 14.3 3 3 100.0 2 5 7 2 0 0 1 2 5
+p239
+aVDarren Collison NOH 02/21/2010 NOH vs. HOU W 42 26 10 17 58.8 0 1 0.0 6 7 85.7 1 3 4 9 4 0 5 4 11
+p240
+aVDavid West NOH 02/21/2010 NOH vs. HOU W 44 27 8 18 44.4 0 0 - 11 13 84.6 1 8 9 4 1 0 4 3 7
+p241
+aVJames Posey NOH 02/21/2010 NOH vs. HOU W 24 0 0 1 0.0 0 1 0.0 0 0 - 1 6 7 1 1 0 0 2 -1
+p242
+aVMorris Peterson NOH 02/21/2010 NOH vs. HOU W 32 15 5 9 55.6 3 6 50.0 2 4 50.0 0 3 3 0 2 0 1 2 11
+p243
+aVJulian Wright NOH 02/21/2010 NOH vs. HOU W 6 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 0 -4
+p244
+aVDarren Collison NOH 02/19/2010 NOH vs. IND W 45 18 7 13 53.8 1 2 50.0 3 4 75.0 1 12 13 12 3 1 8 2 2
+p245
+aVDavid West NOH 02/19/2010 NOH vs. IND W 42 29 8 15 53.3 0 0 - 13 15 86.7 4 5 9 7 1 0 1 1 2
+p246
+aVPeja Stojakovic NOH 02/19/2010 NOH vs. IND W 35 17 7 13 53.8 2 3 66.7 1 2 50.0 2 6 8 2 0 0 3 2 11
+p247
+aVMarcus Thornton NOH 02/19/2010 NOH vs. IND W 21 12 4 13 30.8 1 3 33.3 3 4 75.0 0 2 2 0 0 1 1 2 1
+p248
+aVAaron Gray NOH 02/19/2010 NOH vs. IND W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p249
+aVEmeka Okafor NOH 02/19/2010 NOH vs. IND W 35 13 6 11 54.5 0 0 - 1 5 20.0 6 7 13 1 0 1 3 2 5
+p250
+aVJulian Wright NOH 02/19/2010 NOH vs. IND W 14 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 1 1 0 1 1 3
+p251
+aVJames Posey NOH 02/19/2010 NOH vs. IND W 25 2 1 5 20.0 0 4 0.0 0 0 - 0 5 5 4 0 2 0 3 2
+p252
+aVMorris Peterson NOH 02/19/2010 NOH vs. IND W 22 11 4 9 44.4 3 6 50.0 0 0 - 0 1 1 0 1 0 1 1 4
+p253
+aVDavid West NOH 02/17/2010 NOH vs. UTA L 26 5 2 9 22.2 0 0 - 1 2 50.0 1 4 5 3 3 0 6 5 -9
+p254
+aVJulian Wright NOH 02/17/2010 NOH vs. UTA L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p255
+aVPeja Stojakovic NOH 02/17/2010 NOH vs. UTA L 36 24 8 12 66.7 4 5 80.0 4 4 100.0 1 3 4 4 3 0 3 2 -7
+p256
+aVJames Posey NOH 02/17/2010 NOH vs. UTA L 24 8 3 9 33.3 2 5 40.0 0 0 - 2 2 4 1 1 1 0 3 -8
+p257
+aVDarren Collison NOH 02/17/2010 NOH vs. UTA L 42 24 9 23 39.1 1 4 25.0 5 6 83.3 1 3 4 9 2 0 2 1 -5
+p258
+aVMarcus Thornton NOH 02/17/2010 NOH vs. UTA L 28 14 6 16 37.5 2 5 40.0 0 0 - 3 1 4 1 0 0 0 4 -3
+p259
+aVEmeka Okafor NOH 02/17/2010 NOH vs. UTA L 26 8 3 6 50.0 0 0 - 2 4 50.0 3 7 10 0 0 3 3 2 3
+p260
+aVDarius Songaila NOH 02/17/2010 NOH vs. UTA L 28 2 1 6 16.7 0 0 - 0 0 - 0 4 4 3 4 1 1 3 -5
+p261
+aVMorris Peterson NOH 02/17/2010 NOH vs. UTA L 21 3 1 6 16.7 0 2 0.0 1 2 50.0 0 2 2 1 0 0 1 1 -3
+p262
+aVAaron Gray NOH 02/10/2010 NOH vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p263
+aVDavid West NOH 02/10/2010 NOH vs. BOS W 41 15 4 13 30.8 0 0 - 7 8 87.5 2 5 7 6 1 1 4 4 14
+p264
+aVEmeka Okafor NOH 02/10/2010 NOH vs. BOS W 24 3 1 3 33.3 0 0 - 1 2 50.0 2 7 9 2 1 3 1 1 19
+p265
+aVJulian Wright NOH 02/10/2010 NOH vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p266
+aVDarius Songaila NOH 02/10/2010 NOH vs. BOS W 27 12 6 10 60.0 0 0 - 0 0 - 1 3 4 0 1 0 2 2 -9
+p267
+aVDarren Collison NOH 02/10/2010 NOH vs. BOS W 42 25 10 16 62.5 1 2 50.0 4 5 80.0 1 2 3 9 4 0 10 2 13
+p268
+aVMorris Peterson NOH 02/10/2010 NOH vs. BOS W 29 16 5 10 50.0 3 6 50.0 3 4 75.0 1 9 10 1 1 0 1 5 13
+p269
+aVMarcus Thornton NOH 02/10/2010 NOH vs. BOS W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -8
+p270
+aVJames Posey NOH 02/10/2010 NOH vs. BOS W 22 0 0 4 0.0 0 2 0.0 0 0 - 1 6 7 0 0 0 1 2 -11
+p271
+aVPeja Stojakovic NOH 02/10/2010 NOH vs. BOS W 39 20 7 16 43.8 4 8 50.0 2 2 100.0 0 4 4 1 2 1 2 1 17
+p272
+aVJason Hart NOH 02/10/2010 NOH vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 0
+p273
+aVAaron Gray NOH 02/08/2010 NOH @ ORL L 8 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 0 1 3 10
+p274
+aVEmeka Okafor NOH 02/08/2010 NOH @ ORL L 9 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 4 -13
+p275
+aVDarren Collison NOH 02/08/2010 NOH @ ORL L 47 27 12 22 54.5 1 2 50.0 2 4 50.0 1 2 3 9 4 0 4 1 -8
+p276
+aVDarius Songaila NOH 02/08/2010 NOH @ ORL L 28 10 5 10 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 5 0
+p277
+aVMorris Peterson NOH 02/08/2010 NOH @ ORL L 21 8 2 4 50.0 2 4 50.0 2 2 100.0 0 2 2 1 0 0 0 1 -10
+p278
+aVSean Marks NOH 02/08/2010 NOH @ ORL L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 3 3
+p279
+aVJames Posey NOH 02/08/2010 NOH @ ORL L 27 10 3 8 37.5 1 4 25.0 3 3 100.0 0 6 6 0 1 0 1 1 2
+p280
+aVDavid West NOH 02/08/2010 NOH @ ORL L 44 27 10 19 52.6 0 0 - 7 7 100.0 1 3 4 3 2 0 3 3 -10
+p281
+aVPeja Stojakovic NOH 02/08/2010 NOH @ ORL L 41 29 11 18 61.1 5 8 62.5 2 3 66.7 1 8 9 5 0 0 0 0 -8
+p282
+aVJulian Wright NOH 02/08/2010 NOH @ ORL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p283
+aVJason Hart NOH 02/08/2010 NOH @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p284
+aVEmeka Okafor NOH 02/06/2010 NOH @ CHA W 32 16 6 10 60.0 0 0 - 4 4 100.0 1 6 7 0 1 2 1 3 0
+p285
+aVDavid West NOH 02/06/2010 NOH @ CHA W 42 21 7 14 50.0 0 0 - 7 9 77.8 1 4 5 4 1 1 3 3 14
+p286
+aVJulian Wright NOH 02/06/2010 NOH @ CHA W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -5
+p287
+aVJason Hart NOH 02/06/2010 NOH @ CHA W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 3
+p288
+aVDarren Collison NOH 02/06/2010 NOH @ CHA W 42 24 9 17 52.9 1 4 25.0 5 5 100.0 1 4 5 4 1 0 2 2 2
+p289
+aVPeja Stojakovic NOH 02/06/2010 NOH @ CHA W 34 18 7 12 58.3 3 7 42.9 1 1 100.0 1 3 4 3 0 0 1 0 -2
+p290
+aVDarius Songaila NOH 02/06/2010 NOH @ CHA W 22 2 1 5 20.0 0 0 - 0 0 - 1 4 5 2 1 0 0 4 -4
+p291
+aVJames Posey NOH 02/06/2010 NOH @ CHA W 24 11 4 9 44.4 3 6 50.0 0 0 - 1 7 8 0 0 1 0 4 -5
+p292
+aVMorris Peterson NOH 02/06/2010 NOH @ CHA W 29 8 3 7 42.9 2 5 40.0 0 2 0.0 0 3 3 4 1 0 0 3 22
+p293
+aVJames Posey NOH 02/05/2010 NOH vs. PHI L 28 8 3 8 37.5 2 4 50.0 0 0 - 2 8 10 6 1 0 4 2 -8
+p294
+aVJason Hart NOH 02/05/2010 NOH vs. PHI L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 1 1 2 -3
+p295
+aVJulian Wright NOH 02/05/2010 NOH vs. PHI L 13 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -18
+p296
+aVDarren Collison NOH 02/05/2010 NOH vs. PHI L 40 17 7 14 50.0 3 5 60.0 0 0 - 0 2 2 4 0 0 4 5 -4
+p297
+aVDavid West NOH 02/05/2010 NOH vs. PHI L 45 11 4 12 33.3 0 0 - 3 6 50.0 2 6 8 5 0 1 1 3 -7
+p298
+aVMorris Peterson NOH 02/05/2010 NOH vs. PHI L 20 8 3 7 42.9 1 3 33.3 1 1 100.0 1 2 3 2 0 0 2 2 1
+p299
+aVEmeka Okafor NOH 02/05/2010 NOH vs. PHI L 27 8 3 8 37.5 0 0 - 2 4 50.0 2 4 6 4 2 0 0 1 -6
+p300
+aVDarius Songaila NOH 02/05/2010 NOH vs. PHI L 21 10 5 9 55.6 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -1
+p301
+aVPeja Stojakovic NOH 02/05/2010 NOH vs. PHI L 37 23 8 14 57.1 4 8 50.0 3 3 100.0 0 3 3 2 1 1 0 3 11
+p302
+aVMarcus Thornton NOH 02/03/2010 NOH vs. OKC L 33 22 8 18 44.4 2 7 28.6 4 4 100.0 1 2 3 6 1 2 0 3 -6
+p303
+aVDavid West NOH 02/03/2010 NOH vs. OKC L 29 15 6 13 46.2 0 0 - 3 3 100.0 1 4 5 1 1 0 0 4 -14
+p304
+aVEmeka Okafor NOH 02/03/2010 NOH vs. OKC L 38 14 7 11 63.6 0 0 - 0 0 - 4 8 12 1 2 2 2 1 -4
+p305
+aVDarren Collison NOH 02/03/2010 NOH vs. OKC L 32 9 4 12 33.3 1 3 33.3 0 0 - 1 1 2 9 0 0 5 1 -10
+p306
+aVJulian Wright NOH 02/03/2010 NOH vs. OKC L 4 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 1 0 0 1 0 3
+p307
+aVJames Posey NOH 02/03/2010 NOH vs. OKC L 31 8 3 7 42.9 1 4 25.0 1 3 33.3 2 8 10 6 0 1 1 3 8
+p308
+aVPeja Stojakovic NOH 02/03/2010 NOH vs. OKC L 40 15 6 16 37.5 3 8 37.5 0 0 - 0 2 2 1 4 0 0 0 -3
+p309
+aVDarius Songaila NOH 02/03/2010 NOH vs. OKC L 25 4 2 9 22.2 0 0 - 0 0 - 0 2 2 5 2 0 0 1 7
+p310
+aVMorris Peterson NOH 02/03/2010 NOH vs. OKC L 8 9 4 4 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p311
+aVPeja Stojakovic NOH 02/01/2010 NOH vs. PHX L 30 11 2 7 28.6 0 1 0.0 7 8 87.5 0 3 3 2 1 0 1 1 -7
+p312
+aVMorris Peterson NOH 02/01/2010 NOH vs. PHX L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p313
+aVDarren Collison NOH 02/01/2010 NOH vs. PHX L 36 16 7 18 38.9 1 3 33.3 1 1 100.0 2 2 4 14 1 0 4 3 -13
+p314
+aVEmeka Okafor NOH 02/01/2010 NOH vs. PHX L 24 12 6 9 66.7 0 0 - 0 2 0.0 1 1 2 0 1 1 1 2 -10
+p315
+aVJulian Wright NOH 02/01/2010 NOH vs. PHX L 15 6 3 5 60.0 0 0 - 0 0 - 3 2 5 0 0 0 1 1 3
+p316
+aVJames Posey NOH 02/01/2010 NOH vs. PHX L 24 2 1 3 33.3 0 2 0.0 0 0 - 1 7 8 6 0 0 0 2 -8
+p317
+aVDarius Songaila NOH 02/01/2010 NOH vs. PHX L 22 8 3 7 42.9 0 0 - 2 2 100.0 2 2 4 0 3 0 1 2 3
+p318
+aVSean Marks NOH 02/01/2010 NOH vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p319
+aVMarcus Thornton NOH 02/01/2010 NOH vs. PHX L 39 25 10 21 47.6 5 9 55.6 0 1 0.0 1 3 4 4 1 0 3 2 -10
+p320
+aVDavid West NOH 02/01/2010 NOH vs. PHX L 38 20 9 18 50.0 0 1 0.0 2 2 100.0 1 7 8 4 1 0 0 5 -1
+p321
+aVPeja Stojakovic NOH 01/30/2010 NOH @ MEM W 46 20 5 15 33.3 3 9 33.3 7 7 100.0 1 4 5 2 1 0 1 4 4
+p322
+aVAaron Gray NOH 01/30/2010 NOH @ MEM W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 3 1
+p323
+aVMorris Peterson NOH 01/30/2010 NOH @ MEM W 21 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 1 0 0 0 13
+p324
+aVJulian Wright NOH 01/30/2010 NOH @ MEM W 9 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 1 0 2 1 -2
+p325
+aVDarren Collison NOH 01/30/2010 NOH @ MEM W 47 17 4 11 36.4 0 0 - 9 10 90.0 1 5 6 18 0 1 5 2 4
+p326
+aVDavid West NOH 01/30/2010 NOH @ MEM W 38 22 9 13 69.2 0 1 0.0 4 5 80.0 0 4 4 0 2 1 3 4 -2
+p327
+aVMarcus Thornton NOH 01/30/2010 NOH @ MEM W 37 14 5 17 29.4 0 2 0.0 4 4 100.0 3 6 9 1 0 0 1 2 2
+p328
+aVDarius Songaila NOH 01/30/2010 NOH @ MEM W 23 8 4 9 44.4 0 0 - 0 1 0.0 1 2 3 0 0 0 1 1 0
+p329
+aVEmeka Okafor NOH 01/30/2010 NOH @ MEM W 38 21 10 14 71.4 0 0 - 1 4 25.0 4 6 10 0 2 2 0 4 15
+p330
+aVEmeka Okafor NOH 01/29/2010 NOH vs. CHI L 28 7 2 10 20.0 0 0 - 3 5 60.0 4 8 12 1 0 2 0 0 -6
+p331
+aVChris Paul NOH 01/29/2010 NOH vs. CHI L 48 18 6 13 46.2 3 5 60.0 3 3 100.0 0 3 3 12 2 0 3 2 2
+p332
+aVDarren Collison NOH 01/29/2010 NOH vs. CHI L 21 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 2 2 0 2 2 -2
+p333
+aVDarius Songaila NOH 01/29/2010 NOH vs. CHI L 27 12 6 15 40.0 0 0 - 0 0 - 2 2 4 1 1 0 2 5 1
+p334
+aVMarcus Thornton NOH 01/29/2010 NOH vs. CHI L 40 20 6 12 50.0 5 8 62.5 3 3 100.0 1 4 5 0 1 0 1 4 -12
+p335
+aVPeja Stojakovic NOH 01/29/2010 NOH vs. CHI L 43 13 4 15 26.7 3 7 42.9 2 2 100.0 2 5 7 1 1 0 1 2 2
+p336
+aVJulian Wright NOH 01/29/2010 NOH vs. CHI L 17 4 2 8 25.0 0 0 - 0 0 - 2 3 5 1 1 0 0 1 16
+p337
+aVDavid West NOH 01/29/2010 NOH vs. CHI L 41 29 12 22 54.5 1 2 50.0 4 4 100.0 2 12 14 4 0 3 3 5 -11
+p338
+aVSean Marks NOH 01/27/2010 NOH @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p339
+aVMarcus Thornton NOH 01/27/2010 NOH @ GSW W 40 18 6 13 46.2 1 3 33.3 5 6 83.3 0 2 2 0 2 0 0 1 2
+p340
+aVDarren Collison NOH 01/27/2010 NOH @ GSW W 23 12 4 10 40.0 2 3 66.7 2 2 100.0 2 1 3 3 1 0 3 0 2
+p341
+aVPeja Stojakovic NOH 01/27/2010 NOH @ GSW W 28 14 4 6 66.7 2 4 50.0 4 4 100.0 1 3 4 1 2 0 4 0 26
+p342
+aVMorris Peterson NOH 01/27/2010 NOH @ GSW W 4 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 2 -6
+p343
+aVDavid West NOH 01/27/2010 NOH @ GSW W 35 17 6 14 42.9 0 0 - 5 6 83.3 4 8 12 3 1 1 5 2 9
+p344
+aVEmeka Okafor NOH 01/27/2010 NOH @ GSW W 28 12 5 6 83.3 0 0 - 2 2 100.0 3 9 12 0 1 1 1 2 27
+p345
+aVDarius Songaila NOH 01/27/2010 NOH @ GSW W 23 8 4 9 44.4 0 0 - 0 0 - 1 3 4 2 1 0 2 4 2
+p346
+aVJulian Wright NOH 01/27/2010 NOH @ GSW W 13 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -11
+p347
+aVChris Paul NOH 01/27/2010 NOH @ GSW W 38 38 14 19 73.7 1 4 25.0 9 9 100.0 1 5 6 9 3 0 7 3 20
+p348
+aVJames Posey NOH 01/27/2010 NOH @ GSW W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p349
+aVDarius Songaila NOH 01/25/2010 NOH @ POR W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -4
+p350
+aVChris Paul NOH 01/25/2010 NOH @ POR W 42 24 9 17 52.9 3 5 60.0 3 3 100.0 0 7 7 12 5 0 2 0 6
+p351
+aVPeja Stojakovic NOH 01/25/2010 NOH @ POR W 27 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 2 6
+p352
+aVDarren Collison NOH 01/25/2010 NOH @ POR W 18 9 4 5 80.0 1 1 100.0 0 0 - 1 1 2 2 1 0 1 0 -2
+p353
+aVJames Posey NOH 01/25/2010 NOH @ POR W 21 5 1 5 20.0 1 4 25.0 2 2 100.0 0 5 5 1 0 1 2 1 -16
+p354
+aVJulian Wright NOH 01/25/2010 NOH @ POR W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -8
+p355
+aVSean Marks NOH 01/25/2010 NOH @ POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p356
+aVEmeka Okafor NOH 01/25/2010 NOH @ POR W 39 14 5 6 83.3 0 0 - 4 6 66.7 3 6 9 1 0 1 1 3 10
+p357
+aVDavid West NOH 01/25/2010 NOH @ POR W 38 18 4 13 30.8 0 1 0.0 10 11 90.9 1 6 7 2 0 1 3 3 8
+p358
+aVMarcus Thornton NOH 01/25/2010 NOH @ POR W 39 19 8 12 66.7 3 5 60.0 0 0 - 0 1 1 1 0 1 2 3 7
+p359
+aVEmeka Okafor NOH 01/23/2010 NOH @ DEN L 44 16 7 13 53.8 0 0 - 2 4 50.0 4 6 10 1 1 1 0 2 -9
+p360
+aVJames Posey NOH 01/23/2010 NOH @ DEN L 25 7 3 7 42.9 1 5 20.0 0 0 - 0 3 3 2 1 0 1 3 6
+p361
+aVPeja Stojakovic NOH 01/23/2010 NOH @ DEN L 33 16 6 15 40.0 4 10 40.0 0 0 - 0 4 4 0 2 0 3 2 -24
+p362
+aVDevin Brown NOH 01/23/2010 NOH @ DEN L 30 7 1 8 12.5 1 4 25.0 4 4 100.0 1 4 5 3 2 0 0 4 -11
+p363
+aVJulian Wright NOH 01/23/2010 NOH @ DEN L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 5
+p364
+aVChris Paul NOH 01/23/2010 NOH @ DEN L 45 26 10 18 55.6 1 4 25.0 5 5 100.0 0 3 3 10 2 0 3 3 -6
+p365
+aVSean Marks NOH 01/23/2010 NOH @ DEN L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 7
+p366
+aVMarcus Thornton NOH 01/23/2010 NOH @ DEN L 23 13 5 12 41.7 0 3 0.0 3 3 100.0 1 1 2 2 0 0 0 1 5
+p367
+aVDarren Collison NOH 01/23/2010 NOH @ DEN L 9 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p368
+aVDarius Songaila NOH 01/23/2010 NOH @ DEN L 39 20 8 13 61.5 0 0 - 4 4 100.0 1 6 7 3 1 1 1 2 -4
+p369
+aVJulian Wright NOH 01/22/2010 NOH @ MIN W 19 8 3 6 50.0 0 0 - 2 4 50.0 5 0 5 0 1 1 0 0 11
+p370
+aVChris Paul NOH 01/22/2010 NOH @ MIN W 37 23 7 14 50.0 2 4 50.0 7 8 87.5 1 3 4 9 1 0 4 1 -9
+p371
+aVSean Marks NOH 01/22/2010 NOH @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p372
+aVDavid West NOH 01/22/2010 NOH @ MIN W 12 14 3 4 75.0 0 0 - 8 9 88.9 1 0 1 1 0 0 2 2 4
+p373
+aVMarcus Thornton NOH 01/22/2010 NOH @ MIN W 18 9 3 7 42.9 1 3 33.3 2 2 100.0 0 2 2 0 1 0 0 2 2
+p374
+aVDarius Songaila NOH 01/22/2010 NOH @ MIN W 24 13 4 9 44.4 0 0 - 5 7 71.4 1 4 5 1 3 0 1 5 1
+p375
+aVPeja Stojakovic NOH 01/22/2010 NOH @ MIN W 29 6 1 8 12.5 0 6 0.0 4 4 100.0 0 2 2 0 0 0 1 0 1
+p376
+aVDarren Collison NOH 01/22/2010 NOH @ MIN W 21 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 4 2 0 2 0 12
+p377
+aVJames Posey NOH 01/22/2010 NOH @ MIN W 26 6 3 7 42.9 0 4 0.0 0 0 - 0 3 3 1 0 0 0 4 -3
+p378
+aVDevin Brown NOH 01/22/2010 NOH @ MIN W 19 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p379
+aVEmeka Okafor NOH 01/22/2010 NOH @ MIN W 31 4 2 5 40.0 0 0 - 0 0 - 2 8 10 2 0 0 2 4 -6
+p380
+aVJames Posey NOH 01/20/2010 NOH vs. MEM W 19 6 3 6 50.0 0 2 0.0 0 1 0.0 2 2 4 1 0 0 0 4 6
+p381
+aVChris Paul NOH 01/20/2010 NOH vs. MEM W 42 21 7 14 50.0 0 2 0.0 7 8 87.5 0 6 6 13 0 0 4 2 3
+p382
+aVMarcus Thornton NOH 01/20/2010 NOH vs. MEM W 25 12 5 8 62.5 1 3 33.3 1 1 100.0 1 1 2 1 0 0 0 0 16
+p383
+aVDarius Songaila NOH 01/20/2010 NOH vs. MEM W 15 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 2 1 0 1 4 9
+p384
+aVPeja Stojakovic NOH 01/20/2010 NOH vs. MEM W 29 18 8 12 66.7 2 6 33.3 0 0 - 1 1 2 4 2 0 0 1 9
+p385
+aVDarren Collison NOH 01/20/2010 NOH vs. MEM W 10 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 3 1 0 0 0 1
+p386
+aVEmeka Okafor NOH 01/20/2010 NOH vs. MEM W 30 12 5 9 55.6 0 0 - 2 4 50.0 3 6 9 2 0 3 3 1 -15
+p387
+aVDavid West NOH 01/20/2010 NOH vs. MEM W 40 21 9 13 69.2 0 0 - 3 3 100.0 3 10 13 1 3 1 3 2 3
+p388
+aVDevin Brown NOH 01/20/2010 NOH vs. MEM W 20 4 2 8 25.0 0 4 0.0 0 0 - 0 0 0 1 1 1 0 1 -21
+p389
+aVJulian Wright NOH 01/20/2010 NOH vs. MEM W 10 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 1 0 0 2 -1
+p390
+aVJames Posey NOH 01/18/2010 NOH vs. SAS L 28 4 1 4 25.0 0 2 0.0 2 2 100.0 1 9 10 0 0 0 1 4 8
+p391
+aVDevin Brown NOH 01/18/2010 NOH vs. SAS L 22 9 4 7 57.1 1 3 33.3 0 0 - 2 2 4 0 0 0 0 0 -14
+p392
+aVDarius Songaila NOH 01/18/2010 NOH vs. SAS L 25 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 2 0 0 4 -9
+p393
+aVDavid West NOH 01/18/2010 NOH vs. SAS L 37 18 9 16 56.3 0 0 - 0 0 - 2 6 8 3 0 1 1 2 -3
+p394
+aVPeja Stojakovic NOH 01/18/2010 NOH vs. SAS L 24 9 3 7 42.9 1 2 50.0 2 2 100.0 0 2 2 3 1 0 0 1 -10
+p395
+aVChris Paul NOH 01/18/2010 NOH vs. SAS L 37 18 7 16 43.8 1 3 33.3 3 3 100.0 0 4 4 9 0 0 3 6 -16
+p396
+aVJulian Wright NOH 01/18/2010 NOH vs. SAS L 11 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 0 0 0 7
+p397
+aVEmeka Okafor NOH 01/18/2010 NOH vs. SAS L 14 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 1 1 4 -3
+p398
+aVMarcus Thornton NOH 01/18/2010 NOH vs. SAS L 24 16 7 14 50.0 1 3 33.3 1 1 100.0 1 0 1 3 0 1 2 1 4
+p399
+aVDarren Collison NOH 01/18/2010 NOH vs. SAS L 17 4 1 5 20.0 0 0 - 2 4 50.0 0 2 2 3 0 0 1 1 1
+p400
+aVDarius Songaila NOH 01/16/2010 NOH @ IND W 15 8 3 7 42.9 0 0 - 2 2 100.0 1 3 4 2 0 0 1 3 -3
+p401
+aVDevin Brown NOH 01/16/2010 NOH @ IND W 19 3 1 4 25.0 1 3 33.3 0 0 - 1 3 4 0 0 0 0 3 0
+p402
+aVEmeka Okafor NOH 01/16/2010 NOH @ IND W 35 14 6 15 40.0 0 0 - 2 6 33.3 5 7 12 1 0 3 2 2 9
+p403
+aVPeja Stojakovic NOH 01/16/2010 NOH @ IND W 30 6 2 7 28.6 1 2 50.0 1 1 100.0 0 5 5 2 1 0 1 1 8
+p404
+aVDavid West NOH 01/16/2010 NOH @ IND W 39 24 10 21 47.6 0 1 0.0 4 4 100.0 2 4 6 1 1 1 0 4 11
+p405
+aVChris Paul NOH 01/16/2010 NOH @ IND W 39 22 8 19 42.1 0 2 0.0 6 6 100.0 0 8 8 11 2 1 2 1 3
+p406
+aVMarcus Thornton NOH 01/16/2010 NOH @ IND W 22 13 5 8 62.5 1 3 33.3 2 2 100.0 0 5 5 1 1 0 1 3 3
+p407
+aVJames Posey NOH 01/16/2010 NOH @ IND W 22 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 0 1 0 0 1 -1
+p408
+aVDarren Collison NOH 01/16/2010 NOH @ IND W 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p409
+aVJulian Wright NOH 01/16/2010 NOH @ IND W 7 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 1 0 0 1 -7
+p410
+aVJulian Wright NOH 01/15/2010 NOH @ DET L 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p411
+aVDarren Collison NOH 01/15/2010 NOH @ DET L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p412
+aVDavid West NOH 01/15/2010 NOH @ DET L 40 25 10 18 55.6 0 0 - 5 5 100.0 1 8 9 0 1 0 5 5 -9
+p413
+aVPeja Stojakovic NOH 01/15/2010 NOH @ DET L 34 13 5 11 45.5 1 5 20.0 2 2 100.0 0 1 1 2 0 0 0 1 -4
+p414
+aVJames Posey NOH 01/15/2010 NOH @ DET L 29 6 2 6 33.3 2 5 40.0 0 0 - 0 7 7 3 1 0 0 5 3
+p415
+aVMarcus Thornton NOH 01/15/2010 NOH @ DET L 30 13 4 10 40.0 2 6 33.3 3 4 75.0 0 5 5 2 2 0 1 4 7
+p416
+aVEmeka Okafor NOH 01/15/2010 NOH @ DET L 30 7 3 6 50.0 0 0 - 1 2 50.0 1 5 6 0 0 2 2 5 -16
+p417
+aVChris Paul NOH 01/15/2010 NOH @ DET L 47 24 7 14 50.0 2 4 50.0 8 10 80.0 0 5 5 14 4 0 3 6 -1
+p418
+aVDevin Brown NOH 01/15/2010 NOH @ DET L 21 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 2 2 -16
+p419
+aVDarius Songaila NOH 01/15/2010 NOH @ DET L 19 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 3 9
+p420
+aVChris Paul NOH 01/13/2010 NOH vs. LAC W 38 15 7 11 63.6 1 3 33.3 0 0 - 0 2 2 15 4 0 0 2 27
+p421
+aVMarcus Thornton NOH 01/13/2010 NOH vs. LAC W 19 11 4 9 44.4 2 4 50.0 1 1 100.0 3 2 5 2 0 0 0 1 -3
+p422
+aVPeja Stojakovic NOH 01/13/2010 NOH vs. LAC W 32 20 8 14 57.1 4 6 66.7 0 1 0.0 0 4 4 1 0 0 0 2 20
+p423
+aVDevin Brown NOH 01/13/2010 NOH vs. LAC W 29 10 5 13 38.5 0 7 0.0 0 0 - 0 2 2 0 0 0 1 2 17
+p424
+aVMorris Peterson NOH 01/13/2010 NOH vs. LAC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p425
+aVJames Posey NOH 01/13/2010 NOH vs. LAC W 19 8 3 7 42.9 2 6 33.3 0 0 - 1 4 5 1 0 0 1 2 5
+p426
+aVBobby Brown NOH 01/13/2010 NOH vs. LAC W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -13
+p427
+aVDavid West NOH 01/13/2010 NOH vs. LAC W 34 11 5 13 38.5 0 0 - 1 1 100.0 0 8 8 4 1 0 1 3 15
+p428
+aVEmeka Okafor NOH 01/13/2010 NOH vs. LAC W 34 21 7 8 87.5 0 0 - 7 9 77.8 3 4 7 1 2 0 2 4 14
+p429
+aVJulian Wright NOH 01/13/2010 NOH vs. LAC W 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -10
+p430
+aVDarius Songaila NOH 01/13/2010 NOH vs. LAC W 15 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 1
+p431
+aVJames Posey NOH 01/11/2010 NOH @ PHI L 21 9 3 5 60.0 3 4 75.0 0 0 - 1 3 4 0 0 0 0 1 9
+p432
+aVDavid West NOH 01/11/2010 NOH @ PHI L 33 13 6 17 35.3 0 0 - 1 2 50.0 3 10 13 1 0 0 1 2 -9
+p433
+aVDevin Brown NOH 01/11/2010 NOH @ PHI L 26 6 3 9 33.3 0 0 - 0 0 - 1 1 2 2 0 0 2 2 -20
+p434
+aVEmeka Okafor NOH 01/11/2010 NOH @ PHI L 35 20 6 11 54.5 0 0 - 8 9 88.9 7 4 11 2 0 0 2 3 -10
+p435
+aVChris Paul NOH 01/11/2010 NOH @ PHI L 41 13 5 13 38.5 2 3 66.7 1 1 100.0 1 4 5 14 2 0 1 2 13
+p436
+aVBobby Brown NOH 01/11/2010 NOH @ PHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -17
+p437
+aVMarcus Thornton NOH 01/11/2010 NOH @ PHI L 22 10 4 13 30.8 2 4 50.0 0 0 - 3 2 5 0 0 0 1 2 18
+p438
+aVJulian Wright NOH 01/11/2010 NOH @ PHI L 4 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p439
+aVPeja Stojakovic NOH 01/11/2010 NOH @ PHI L 32 9 4 12 33.3 1 7 14.3 0 0 - 1 4 5 2 2 0 2 3 -5
+p440
+aVDarius Songaila NOH 01/11/2010 NOH @ PHI L 19 8 4 7 57.1 0 0 - 0 0 - 1 3 4 0 1 0 1 3 1
+p441
+aVMarcus Thornton NOH 01/10/2010 NOH @ WAS W 18 15 6 8 75.0 3 3 100.0 0 0 - 0 4 4 1 3 0 2 3 10
+p442
+aVPeja Stojakovic NOH 01/10/2010 NOH @ WAS W 33 20 7 13 53.8 3 5 60.0 3 3 100.0 0 3 3 2 0 0 1 3 -19
+p443
+aVDarius Songaila NOH 01/10/2010 NOH @ WAS W 21 6 3 7 42.9 0 0 - 0 4 0.0 0 1 1 1 0 0 0 0 13
+p444
+aVDavid West NOH 01/10/2010 NOH @ WAS W 33 15 6 9 66.7 0 0 - 3 4 75.0 0 2 2 2 0 1 2 4 0
+p445
+aVJulian Wright NOH 01/10/2010 NOH @ WAS W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 11
+p446
+aVEmeka Okafor NOH 01/10/2010 NOH @ WAS W 29 8 3 7 42.9 0 0 - 2 3 66.7 4 3 7 0 0 0 0 2 -11
+p447
+aVDevin Brown NOH 01/10/2010 NOH @ WAS W 30 10 3 8 37.5 2 6 33.3 2 4 50.0 1 2 3 1 2 1 1 3 -5
+p448
+aVChris Paul NOH 01/10/2010 NOH @ WAS W 42 26 10 20 50.0 2 4 50.0 4 6 66.7 1 2 3 14 3 0 3 3 -1
+p449
+aVDarren Collison NOH 01/10/2010 NOH @ WAS W 6 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 6
+p450
+aVJames Posey NOH 01/10/2010 NOH @ WAS W 24 11 3 4 75.0 3 4 75.0 2 2 100.0 0 4 4 0 1 0 1 3 21
+p451
+aVMarcus Thornton NOH 01/08/2010 NOH vs. NJN W 20 5 1 7 14.3 1 4 25.0 2 2 100.0 1 1 2 2 0 0 0 0 1
+p452
+aVDarius Songaila NOH 01/08/2010 NOH vs. NJN W 19 10 5 9 55.6 0 0 - 0 0 - 0 2 2 4 1 0 1 1 2
+p453
+aVEmeka Okafor NOH 01/08/2010 NOH vs. NJN W 29 13 4 10 40.0 0 0 - 5 6 83.3 4 9 13 0 1 1 2 5 2
+p454
+aVChris Paul NOH 01/08/2010 NOH vs. NJN W 40 11 4 9 44.4 1 2 50.0 2 5 40.0 1 4 5 18 3 0 3 1 7
+p455
+aVDavid West NOH 01/08/2010 NOH vs. NJN W 34 32 13 18 72.2 1 1 100.0 5 6 83.3 5 5 10 0 1 0 0 3 11
+p456
+aVJames Posey NOH 01/08/2010 NOH vs. NJN W 24 7 2 6 33.3 1 4 25.0 2 2 100.0 1 2 3 0 1 0 1 3 -3
+p457
+aVDarren Collison NOH 01/08/2010 NOH vs. NJN W 8 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -7
+p458
+aVDevin Brown NOH 01/08/2010 NOH vs. NJN W 28 8 2 9 22.2 1 5 20.0 3 4 75.0 0 1 1 3 1 0 1 1 3
+p459
+aVPeja Stojakovic NOH 01/08/2010 NOH vs. NJN W 28 9 4 11 36.4 0 5 0.0 1 1 100.0 0 4 4 0 1 0 0 1 6
+p460
+aVJulian Wright NOH 01/08/2010 NOH vs. NJN W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p461
+aVPeja Stojakovic NOH 01/06/2010 NOH @ OKC W 27 12 4 10 40.0 4 10 40.0 0 0 - 1 1 2 1 1 0 1 1 3
+p462
+aVChris Paul NOH 01/06/2010 NOH @ OKC W 39 14 5 15 33.3 0 2 0.0 4 4 100.0 1 3 4 13 3 0 1 3 4
+p463
+aVDarius Songaila NOH 01/06/2010 NOH @ OKC W 20 8 3 7 42.9 0 0 - 2 2 100.0 0 3 3 0 0 0 1 3 -4
+p464
+aVEmeka Okafor NOH 01/06/2010 NOH @ OKC W 37 15 7 10 70.0 0 0 - 1 2 50.0 1 7 8 0 0 3 1 1 -3
+p465
+aVMarcus Thornton NOH 01/06/2010 NOH @ OKC W 14 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 1 0 2 2 4
+p466
+aVDavid West NOH 01/06/2010 NOH @ OKC W 39 19 8 14 57.1 0 1 0.0 3 3 100.0 1 7 8 3 1 2 1 4 13
+p467
+aVJames Posey NOH 01/06/2010 NOH @ OKC W 22 9 2 4 50.0 1 3 33.3 4 4 100.0 0 5 5 1 0 0 0 2 6
+p468
+aVDarren Collison NOH 01/06/2010 NOH @ OKC W 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 1
+p469
+aVDevin Brown NOH 01/06/2010 NOH @ OKC W 34 11 4 9 44.4 1 3 33.3 2 2 100.0 1 3 4 0 0 0 0 2 1
+p470
+aVJames Posey NOH 01/04/2010 NOH @ UTA W 27 12 3 7 42.9 2 5 40.0 4 4 100.0 1 4 5 2 0 1 1 2 4
+p471
+aVPeja Stojakovic NOH 01/04/2010 NOH @ UTA W 25 5 2 9 22.2 1 6 16.7 0 0 - 2 4 6 2 1 0 0 0 7
+p472
+aVChris Paul NOH 01/04/2010 NOH @ UTA W 39 12 5 15 33.3 0 4 0.0 2 2 100.0 3 3 6 9 3 0 2 4 3
+p473
+aVDarren Collison NOH 01/04/2010 NOH @ UTA W 11 2 1 4 25.0 0 0 - 0 0 - 1 3 4 3 0 0 2 2 -1
+p474
+aVEmeka Okafor NOH 01/04/2010 NOH @ UTA W 31 5 2 2 100.0 0 0 - 1 4 25.0 3 5 8 0 0 3 4 3 1
+p475
+aVDarius Songaila NOH 01/04/2010 NOH @ UTA W 15 2 0 4 0.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 1 1 3
+p476
+aVJulian Wright NOH 01/04/2010 NOH @ UTA W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -2
+p477
+aVDevin Brown NOH 01/04/2010 NOH @ UTA W 37 30 11 20 55.0 5 8 62.5 3 5 60.0 1 3 4 1 0 0 2 3 4
+p478
+aVMorris Peterson NOH 01/04/2010 NOH @ UTA W 9 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 2 1 2
+p479
+aVDavid West NOH 01/04/2010 NOH @ UTA W 40 20 9 13 69.2 0 0 - 2 2 100.0 1 8 9 1 3 2 3 2 -1
+p480
+aVChris Paul NOH 01/02/2010 NOH vs. HOU W 43 28 9 21 42.9 1 2 50.0 9 10 90.0 0 2 2 9 2 1 1 3 8
+p481
+aVEmeka Okafor NOH 01/02/2010 NOH vs. HOU W 37 14 6 8 75.0 0 0 - 2 4 50.0 4 12 16 1 1 0 0 4 1
+p482
+aVDavid West NOH 01/02/2010 NOH vs. HOU W 36 15 6 14 42.9 0 0 - 3 4 75.0 1 4 5 2 1 0 1 2 8
+p483
+aVDarius Songaila NOH 01/02/2010 NOH vs. HOU W 16 12 5 11 45.5 0 0 - 2 2 100.0 2 1 3 1 0 0 1 1 -2
+p484
+aVMarcus Thornton NOH 01/02/2010 NOH vs. HOU W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p485
+aVDevin Brown NOH 01/02/2010 NOH vs. HOU W 26 12 5 9 55.6 0 3 0.0 2 2 100.0 1 1 2 1 1 0 2 1 13
+p486
+aVDarren Collison NOH 01/02/2010 NOH vs. HOU W 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p487
+aVPeja Stojakovic NOH 01/02/2010 NOH vs. HOU W 25 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 1 0 0 2 3 -10
+p488
+aVJames Posey NOH 01/02/2010 NOH vs. HOU W 23 5 1 2 50.0 1 2 50.0 2 2 100.0 0 6 6 2 0 0 0 3 14
+p489
+aVJulian Wright NOH 01/02/2010 NOH vs. HOU W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 0
+p490
+aVBobby Brown NOH 01/02/2010 NOH vs. HOU W 13 4 2 6 33.3 0 3 0.0 0 0 - 1 0 1 0 1 0 0 1 2
+p491
+aVJulian Wright NOH 12/30/2009 NOH vs. MIA W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 1
+p492
+aVEmeka Okafor NOH 12/30/2009 NOH vs. MIA W 35 15 5 10 50.0 0 0 - 5 6 83.3 7 7 14 0 0 1 0 1 12
+p493
+aVDarren Collison NOH 12/30/2009 NOH vs. MIA W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 5 1 -6
+p494
+aVMarcus Thornton NOH 12/30/2009 NOH vs. MIA W 16 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 1 -1
+p495
+aVDavid West NOH 12/30/2009 NOH vs. MIA W 40 21 8 17 47.1 0 0 - 5 6 83.3 2 8 10 3 1 0 2 2 -1
+p496
+aVPeja Stojakovic NOH 12/30/2009 NOH vs. MIA W 29 6 2 10 20.0 2 6 33.3 0 0 - 0 1 1 2 0 0 0 0 14
+p497
+aVDevin Brown NOH 12/30/2009 NOH vs. MIA W 32 16 4 11 36.4 2 4 50.0 6 6 100.0 1 5 6 0 0 0 2 2 5
+p498
+aVJames Posey NOH 12/30/2009 NOH vs. MIA W 19 3 1 3 33.3 1 3 33.3 0 0 - 0 5 5 0 0 0 0 3 -10
+p499
+aVDarius Songaila NOH 12/30/2009 NOH vs. MIA W 14 11 5 7 71.4 0 0 - 1 1 100.0 0 1 1 0 0 1 0 1 -4
+p500
+aVChris Paul NOH 12/30/2009 NOH vs. MIA W 37 18 7 12 58.3 1 1 100.0 3 3 100.0 0 5 5 9 4 0 2 4 10
+p501
+aVMarcus Thornton NOH 12/29/2009 NOH @ HOU L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p502
+aVJulian Wright NOH 12/29/2009 NOH @ HOU L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p503
+aVDevin Brown NOH 12/29/2009 NOH @ HOU L 31 8 3 6 50.0 2 3 66.7 0 0 - 2 2 4 3 1 0 2 2 8
+p504
+aVDavid West NOH 12/29/2009 NOH @ HOU L 39 44 18 30 60.0 2 4 50.0 6 8 75.0 2 10 12 4 2 0 3 3 0
+p505
+aVDarius Songaila NOH 12/29/2009 NOH @ HOU L 17 8 4 9 44.4 0 0 - 0 0 - 2 0 2 1 0 0 1 4 -21
+p506
+aVDarren Collison NOH 12/29/2009 NOH @ HOU L 16 8 3 5 60.0 0 0 - 2 3 66.7 0 1 1 1 1 0 0 2 -16
+p507
+aVPeja Stojakovic NOH 12/29/2009 NOH @ HOU L 29 0 0 4 0.0 0 2 0.0 0 0 - 0 4 4 0 0 0 0 2 12
+p508
+aVJames Posey NOH 12/29/2009 NOH @ HOU L 19 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 1 3 -20
+p509
+aVChris Paul NOH 12/29/2009 NOH @ HOU L 42 16 7 15 46.7 0 3 0.0 2 4 50.0 1 10 11 10 2 2 1 1 -11
+p510
+aVEmeka Okafor NOH 12/29/2009 NOH @ HOU L 31 9 4 6 66.7 0 0 - 1 1 100.0 2 4 6 0 1 5 1 6 8
+p511
+aVJulian Wright NOH 12/26/2009 NOH @ CHI L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 3 0 0 11
+p512
+aVDarius Songaila NOH 12/26/2009 NOH @ CHI L 28 6 3 10 30.0 0 0 - 0 0 - 0 3 3 1 0 1 1 4 -1
+p513
+aVEmeka Okafor NOH 12/26/2009 NOH @ CHI L 20 4 0 5 0.0 0 0 - 4 8 50.0 3 6 9 0 0 2 3 3 -9
+p514
+aVDevin Brown NOH 12/26/2009 NOH @ CHI L 31 22 6 9 66.7 6 7 85.7 4 4 100.0 0 4 4 1 2 0 2 1 -9
+p515
+aVBobby Brown NOH 12/26/2009 NOH @ CHI L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p516
+aVChris Paul NOH 12/26/2009 NOH @ CHI L 39 15 7 14 50.0 1 2 50.0 0 0 - 0 1 1 7 3 2 1 1 -12
+p517
+aVPeja Stojakovic NOH 12/26/2009 NOH @ CHI L 28 8 4 9 44.4 0 3 0.0 0 0 - 0 5 5 1 2 0 0 1 -16
+p518
+aVMarcus Thornton NOH 12/26/2009 NOH @ CHI L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p519
+aVDavid West NOH 12/26/2009 NOH @ CHI L 25 12 6 14 42.9 0 0 - 0 0 - 0 3 3 1 0 0 4 2 -19
+p520
+aVDarren Collison NOH 12/26/2009 NOH @ CHI L 14 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 1 1 0 0 0 3
+p521
+aVJames Posey NOH 12/26/2009 NOH @ CHI L 22 5 1 5 20.0 1 4 25.0 2 2 100.0 0 5 5 2 0 0 1 2 -1
+p522
+aVChris Paul NOH 12/23/2009 NOH vs. GSW W 39 20 8 17 47.1 1 3 33.3 3 6 50.0 0 5 5 7 1 0 0 3 9
+p523
+aVDarius Songaila NOH 12/23/2009 NOH vs. GSW W 9 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 0 0 0 3 3 9
+p524
+aVPeja Stojakovic NOH 12/23/2009 NOH vs. GSW W 28 13 4 9 44.4 1 1 100.0 4 4 100.0 0 0 0 2 0 0 1 1 0
+p525
+aVDavid West NOH 12/23/2009 NOH vs. GSW W 35 14 6 13 46.2 0 0 - 2 2 100.0 3 5 8 4 0 2 6 3 -8
+p526
+aVBobby Brown NOH 12/23/2009 NOH vs. GSW W 14 8 2 5 40.0 2 5 40.0 2 2 100.0 0 2 2 0 0 0 0 2 9
+p527
+aVDevin Brown NOH 12/23/2009 NOH vs. GSW W 25 11 4 12 33.3 2 3 66.7 1 1 100.0 1 1 2 2 2 0 3 1 -4
+p528
+aVJames Posey NOH 12/23/2009 NOH vs. GSW W 28 5 1 3 33.3 1 3 33.3 2 2 100.0 0 8 8 2 0 0 0 3 9
+p529
+aVJulian Wright NOH 12/23/2009 NOH vs. GSW W 20 8 4 6 66.7 0 0 - 0 0 - 2 4 6 1 2 1 1 0 8
+p530
+aVDarren Collison NOH 12/23/2009 NOH vs. GSW W 13 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 4 0 0 2 1 4
+p531
+aVMarcus Thornton NOH 12/23/2009 NOH vs. GSW W 6 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p532
+aVEmeka Okafor NOH 12/23/2009 NOH vs. GSW W 22 10 4 17 23.5 0 0 - 2 3 66.7 9 5 14 0 1 0 1 2 0
+p533
+aVDevin Brown NOH 12/20/2009 NOH @ TOR L 32 10 4 9 44.4 1 5 20.0 1 2 50.0 1 2 3 1 3 0 1 1 6
+p534
+aVDavid West NOH 12/20/2009 NOH @ TOR L 35 21 9 21 42.9 0 1 0.0 3 3 100.0 4 8 12 2 0 1 1 3 -8
+p535
+aVDarren Collison NOH 12/20/2009 NOH @ TOR L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 0 0 0 0 6
+p536
+aVDarius Songaila NOH 12/20/2009 NOH @ TOR L 16 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -1
+p537
+aVMarcus Thornton NOH 12/20/2009 NOH @ TOR L 20 10 4 11 36.4 0 3 0.0 2 2 100.0 2 0 2 2 0 0 1 3 -8
+p538
+aVChris Paul NOH 12/20/2009 NOH @ TOR L 40 10 3 13 23.1 0 1 0.0 4 4 100.0 1 7 8 7 1 0 5 1 -12
+p539
+aVPeja Stojakovic NOH 12/20/2009 NOH @ TOR L 36 12 4 15 26.7 1 7 14.3 3 4 75.0 2 2 4 1 2 0 1 1 0
+p540
+aVEmeka Okafor NOH 12/20/2009 NOH @ TOR L 30 16 7 13 53.8 0 0 - 2 5 40.0 7 4 11 1 0 0 0 4 -9
+p541
+aVJames Posey NOH 12/20/2009 NOH @ TOR L 21 3 1 4 25.0 1 4 25.0 0 0 - 0 6 6 2 0 0 2 1 -4
+p542
+aVDarren Collison NOH 12/18/2009 NOH vs. DEN W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 2 0 -12
+p543
+aVPeja Stojakovic NOH 12/18/2009 NOH vs. DEN W 35 24 9 14 64.3 4 8 50.0 2 2 100.0 0 2 2 1 0 0 0 3 14
+p544
+aVJames Posey NOH 12/18/2009 NOH vs. DEN W 24 7 2 4 50.0 1 2 50.0 2 3 66.7 2 5 7 0 0 0 0 3 -10
+p545
+aVMarcus Thornton NOH 12/18/2009 NOH vs. DEN W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 0 -2
+p546
+aVDarius Songaila NOH 12/18/2009 NOH vs. DEN W 19 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 4 -11
+p547
+aVChris Paul NOH 12/18/2009 NOH vs. DEN W 42 30 13 20 65.0 1 2 50.0 3 3 100.0 1 8 9 19 1 0 4 2 18
+p548
+aVDevin Brown NOH 12/18/2009 NOH vs. DEN W 36 10 3 10 30.0 2 5 40.0 2 4 50.0 0 3 3 1 1 0 1 2 14
+p549
+aVEmeka Okafor NOH 12/18/2009 NOH vs. DEN W 29 9 4 9 44.4 0 0 - 1 3 33.3 3 9 12 0 0 5 0 1 22
+p550
+aVDavid West NOH 12/18/2009 NOH vs. DEN W 40 12 6 16 37.5 0 0 - 0 0 - 1 7 8 1 1 0 0 2 -3
+p551
+aVDevin Brown NOH 12/16/2009 NOH vs. DET W 24 13 4 9 44.4 3 8 37.5 2 2 100.0 0 1 1 0 1 0 3 1 12
+p552
+aVChris Paul NOH 12/16/2009 NOH vs. DET W 43 16 5 9 55.6 0 0 - 6 6 100.0 0 4 4 12 1 1 4 3 15
+p553
+aVMarcus Thornton NOH 12/16/2009 NOH vs. DET W 16 2 1 6 16.7 0 3 0.0 0 2 0.0 1 1 2 0 0 0 0 4 -3
+p554
+aVJames Posey NOH 12/16/2009 NOH vs. DET W 19 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 1 0 0
+p555
+aVEmeka Okafor NOH 12/16/2009 NOH vs. DET W 29 15 5 6 83.3 0 0 - 5 7 71.4 3 5 8 1 0 0 1 1 0
+p556
+aVPeja Stojakovic NOH 12/16/2009 NOH vs. DET W 33 11 3 9 33.3 3 7 42.9 2 2 100.0 0 4 4 3 0 0 0 0 13
+p557
+aVDarren Collison NOH 12/16/2009 NOH vs. DET W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 -13
+p558
+aVDarius Songaila NOH 12/16/2009 NOH vs. DET W 22 4 2 5 40.0 0 0 - 0 0 - 2 6 8 0 1 0 1 5 6
+p559
+aVDavid West NOH 12/16/2009 NOH vs. DET W 45 32 15 22 68.2 0 0 - 2 2 100.0 5 7 12 1 2 0 6 3 10
+p560
+aVDevin Brown NOH 12/14/2009 NOH @ DAL L 16 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 1 0 0 2 1 -11
+p561
+aVPeja Stojakovic NOH 12/14/2009 NOH @ DAL L 30 8 3 8 37.5 2 5 40.0 0 0 - 0 4 4 1 0 0 1 3 -4
+p562
+aVJulian Wright NOH 12/14/2009 NOH @ DAL L 10 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 1 0 0 13
+p563
+aVDarius Songaila NOH 12/14/2009 NOH @ DAL L 11 12 6 6 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 3
+p564
+aVMarcus Thornton NOH 12/14/2009 NOH @ DAL L 15 5 2 7 28.6 0 1 0.0 1 2 50.0 1 0 1 1 0 0 0 0 -3
+p565
+aVChris Paul NOH 12/14/2009 NOH @ DAL L 40 20 9 22 40.9 0 4 0.0 2 2 100.0 1 3 4 16 5 0 1 1 4
+p566
+aVJames Posey NOH 12/14/2009 NOH @ DAL L 28 10 3 6 50.0 3 6 50.0 1 3 33.3 1 4 5 1 3 1 0 5 7
+p567
+aVHilton Armstrong NOH 12/14/2009 NOH @ DAL L 14 6 3 4 75.0 0 0 - 0 2 0.0 0 2 2 0 0 1 0 1 7
+p568
+aVDarren Collison NOH 12/14/2009 NOH @ DAL L 20 2 1 8 12.5 0 3 0.0 0 0 - 0 2 2 2 3 0 1 2 -3
+p569
+aVEmeka Okafor NOH 12/14/2009 NOH @ DAL L 23 4 2 7 28.6 0 0 - 0 1 0.0 2 3 5 1 2 2 3 1 -18
+p570
+aVDavid West NOH 12/14/2009 NOH @ DAL L 32 11 5 13 38.5 0 0 - 1 1 100.0 2 2 4 0 0 0 1 2 -15
+p571
+aVDevin Brown NOH 12/11/2009 NOH vs. NYK L 22 9 3 7 42.9 1 3 33.3 2 2 100.0 0 3 3 0 1 1 0 0 -5
+p572
+aVPeja Stojakovic NOH 12/11/2009 NOH vs. NYK L 39 16 6 13 46.2 3 8 37.5 1 2 50.0 0 4 4 1 1 0 0 0 -12
+p573
+aVEmeka Okafor NOH 12/11/2009 NOH vs. NYK L 20 12 4 8 50.0 0 0 - 4 5 80.0 1 4 5 1 0 0 1 3 -10
+p574
+aVMarcus Thornton NOH 12/11/2009 NOH vs. NYK L 26 10 3 12 25.0 2 6 33.3 2 2 100.0 2 4 6 0 0 0 0 2 -12
+p575
+aVDarius Songaila NOH 12/11/2009 NOH vs. NYK L 25 10 5 9 55.6 0 1 0.0 0 1 0.0 1 4 5 3 1 0 2 3 2
+p576
+aVChris Paul NOH 12/11/2009 NOH vs. NYK L 37 13 4 14 28.6 0 3 0.0 5 5 100.0 1 5 6 13 1 0 3 2 -14
+p577
+aVDavid West NOH 12/11/2009 NOH vs. NYK L 36 20 6 11 54.5 0 1 0.0 8 8 100.0 6 1 7 0 0 1 4 2 -16
+p578
+aVDarren Collison NOH 12/11/2009 NOH vs. NYK L 11 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 4 0 0 1 1 -3
+p579
+aVJames Posey NOH 12/11/2009 NOH vs. NYK L 24 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 1 0 0 0 3 -15
+p580
+aVHilton Armstrong NOH 12/09/2009 NOH @ MIN W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 1 3 -4
+p581
+aVEmeka Okafor NOH 12/09/2009 NOH @ MIN W 33 7 2 6 33.3 0 0 - 3 4 75.0 2 4 6 1 2 2 1 4 1
+p582
+aVPeja Stojakovic NOH 12/09/2009 NOH @ MIN W 36 21 8 12 66.7 5 6 83.3 0 1 0.0 0 3 3 1 2 0 1 0 4
+p583
+aVChris Paul NOH 12/09/2009 NOH @ MIN W 39 15 6 14 42.9 1 5 20.0 2 2 100.0 0 3 3 14 0 0 5 3 7
+p584
+aVDarius Songaila NOH 12/09/2009 NOH @ MIN W 19 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 2 0 0 4 8
+p585
+aVDevin Brown NOH 12/09/2009 NOH @ MIN W 19 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 0 1 0 0 0 0
+p586
+aVDavid West NOH 12/09/2009 NOH @ MIN W 29 13 6 15 40.0 1 1 100.0 0 0 - 1 5 6 3 0 0 1 2 -7
+p587
+aVDarren Collison NOH 12/09/2009 NOH @ MIN W 16 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 4 1 0 2 0 -3
+p588
+aVMarcus Thornton NOH 12/09/2009 NOH @ MIN W 24 20 8 13 61.5 3 5 60.0 1 2 50.0 0 1 1 2 2 0 1 1 0
+p589
+aVJames Posey NOH 12/09/2009 NOH @ MIN W 21 3 1 5 20.0 1 4 25.0 0 1 0.0 0 4 4 0 1 0 0 3 -1
+p590
+aVDarren Collison NOH 12/08/2009 NOH vs. SAC W 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 3 1 0 4 0 -12
+p591
+aVPeja Stojakovic NOH 12/08/2009 NOH vs. SAC W 27 14 5 8 62.5 4 5 80.0 0 0 - 1 0 1 1 1 0 0 1 8
+p592
+aVDavid West NOH 12/08/2009 NOH vs. SAC W 36 24 9 13 69.2 0 0 - 6 8 75.0 1 11 12 5 0 1 1 4 12
+p593
+aVJames Posey NOH 12/08/2009 NOH vs. SAC W 21 3 1 5 20.0 1 5 20.0 0 0 - 0 1 1 2 0 0 0 2 -6
+p594
+aVMarcus Thornton NOH 12/08/2009 NOH vs. SAC W 23 8 3 8 37.5 1 2 50.0 1 3 33.3 1 4 5 0 1 1 0 1 -6
+p595
+aVDarius Songaila NOH 12/08/2009 NOH vs. SAC W 22 11 5 5 100.0 0 0 - 1 2 50.0 1 1 2 0 1 0 2 6 -11
+p596
+aVDevin Brown NOH 12/08/2009 NOH vs. SAC W 21 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 0 0 1 0 0 11
+p597
+aVChris Paul NOH 12/08/2009 NOH vs. SAC W 39 15 6 13 46.2 2 3 66.7 1 2 50.0 1 4 5 12 3 0 4 3 11
+p598
+aVEmeka Okafor NOH 12/08/2009 NOH vs. SAC W 35 17 6 11 54.5 0 0 - 5 6 83.3 2 10 12 1 0 4 1 2 8
+p599
+aVHilton Armstrong NOH 12/08/2009 NOH vs. SAC W 3 0 0 1 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -5
+p600
+aVJames Posey NOH 12/04/2009 NOH vs. MIN W 21 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 3 -12
+p601
+aVDarius Songaila NOH 12/04/2009 NOH vs. MIN W 11 6 2 3 66.7 0 1 0.0 2 2 100.0 0 2 2 0 1 0 2 1 -10
+p602
+aVDarren Collison NOH 12/04/2009 NOH vs. MIN W 18 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 3 0 0 0 1 -6
+p603
+aVHilton Armstrong NOH 12/04/2009 NOH vs. MIN W 11 1 0 4 0.0 0 0 - 1 2 50.0 1 3 4 0 0 1 1 1 -9
+p604
+aVPeja Stojakovic NOH 12/04/2009 NOH vs. MIN W 27 8 3 10 30.0 2 8 25.0 0 1 0.0 0 4 4 1 0 0 2 1 21
+p605
+aVDevin Brown NOH 12/04/2009 NOH vs. MIN W 27 19 7 10 70.0 3 5 60.0 2 6 33.3 0 2 2 2 1 0 2 1 12
+p606
+aVMarcus Thornton NOH 12/04/2009 NOH vs. MIN W 12 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p607
+aVDavid West NOH 12/04/2009 NOH vs. MIN W 37 17 8 18 44.4 0 0 - 1 2 50.0 3 3 6 5 0 3 0 3 19
+p608
+aVChris Paul NOH 12/04/2009 NOH vs. MIN W 39 16 6 13 46.2 1 3 33.3 3 3 100.0 0 6 6 15 8 1 3 3 12
+p609
+aVEmeka Okafor NOH 12/04/2009 NOH vs. MIN W 37 17 8 12 66.7 0 0 - 1 3 33.3 3 10 13 2 0 3 5 3 18
+p610
+aVHilton Armstrong NOH 12/01/2009 NOH @ LAL L 13 3 1 3 33.3 0 0 - 1 2 50.0 3 3 6 0 0 0 2 6 -5
+p611
+aVBobby Brown NOH 12/01/2009 NOH @ LAL L 17 10 5 11 45.5 0 2 0.0 0 0 - 0 0 0 4 2 0 0 0 5
+p612
+aVEmeka Okafor NOH 12/01/2009 NOH @ LAL L 32 17 7 10 70.0 0 0 - 3 3 100.0 2 10 12 1 2 0 0 3 -11
+p613
+aVDarren Collison NOH 12/01/2009 NOH @ LAL L 34 20 7 14 50.0 2 4 50.0 4 4 100.0 0 2 2 5 2 0 4 2 -11
+p614
+aVJames Posey NOH 12/01/2009 NOH @ LAL L 30 7 3 6 50.0 1 3 33.3 0 0 - 0 4 4 1 1 1 2 3 -17
+p615
+aVDarius Songaila NOH 12/01/2009 NOH @ LAL L 21 12 6 8 75.0 0 0 - 0 0 - 2 1 3 2 2 0 1 3 12
+p616
+aVMarcus Thornton NOH 12/01/2009 NOH @ LAL L 25 9 4 10 40.0 1 5 20.0 0 0 - 0 0 0 1 0 0 2 3 -8
+p617
+aVDavid West NOH 12/01/2009 NOH @ LAL L 27 8 4 9 44.4 0 1 0.0 0 0 - 0 3 3 2 0 0 2 2 -23
+p618
+aVDevin Brown NOH 12/01/2009 NOH @ LAL L 25 6 1 9 11.1 0 4 0.0 4 4 100.0 1 2 3 8 0 0 1 3 -7
+p619
+aVJulian Wright NOH 12/01/2009 NOH @ LAL L 16 7 3 6 50.0 0 2 0.0 1 2 50.0 0 5 5 3 1 0 1 1 10
+p620
+aVJulian Wright NOH 11/29/2009 NOH @ SAC L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p621
+aVDevin Brown NOH 11/29/2009 NOH @ SAC L 31 10 1 6 16.7 0 1 0.0 8 8 100.0 1 7 8 3 2 1 4 2 0
+p622
+aVMarcus Thornton NOH 11/29/2009 NOH @ SAC L 28 10 4 15 26.7 2 7 28.6 0 0 - 1 0 1 2 0 0 1 2 -20
+p623
+aVBobby Brown NOH 11/29/2009 NOH @ SAC L 9 9 4 7 57.1 1 3 33.3 0 0 - 0 2 2 1 0 0 1 2 -5
+p624
+aVHilton Armstrong NOH 11/29/2009 NOH @ SAC L 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -4
+p625
+aVEmeka Okafor NOH 11/29/2009 NOH @ SAC L 32 20 9 11 81.8 0 0 - 2 4 50.0 6 5 11 0 0 3 0 4 -3
+p626
+aVDavid West NOH 11/29/2009 NOH @ SAC L 40 24 9 16 56.3 0 0 - 6 6 100.0 0 2 2 2 0 1 2 3 -12
+p627
+aVJames Posey NOH 11/29/2009 NOH @ SAC L 42 8 3 8 37.5 2 6 33.3 0 0 - 1 1 2 4 2 1 3 1 -9
+p628
+aVDarren Collison NOH 11/29/2009 NOH @ SAC L 31 11 5 12 41.7 0 2 0.0 1 2 50.0 0 1 1 6 1 0 2 0 -8
+p629
+aVDarius Songaila NOH 11/29/2009 NOH @ SAC L 13 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -12
+p630
+aVJames Posey NOH 11/25/2009 NOH vs. MIL W 29 9 3 8 37.5 2 4 50.0 1 1 100.0 1 3 4 1 1 0 0 3 4
+p631
+aVPeja Stojakovic NOH 11/25/2009 NOH vs. MIL W 38 10 3 16 18.8 2 9 22.2 2 2 100.0 3 5 8 2 0 0 1 4 -4
+p632
+aVDarren Collison NOH 11/25/2009 NOH vs. MIL W 36 18 5 12 41.7 1 1 100.0 7 8 87.5 2 5 7 8 2 0 5 2 8
+p633
+aVDevin Brown NOH 11/25/2009 NOH vs. MIL W 25 13 5 11 45.5 0 3 0.0 3 3 100.0 3 3 6 1 1 0 4 1 -7
+p634
+aVMorris Peterson NOH 11/25/2009 NOH vs. MIL W 4 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p635
+aVDavid West NOH 11/25/2009 NOH vs. MIL W 43 27 9 19 47.4 0 0 - 9 9 100.0 4 6 10 5 1 1 3 5 8
+p636
+aVEmeka Okafor NOH 11/25/2009 NOH vs. MIL W 26 8 2 6 33.3 0 0 - 4 6 66.7 2 11 13 0 2 3 1 3 7
+p637
+aVSean Marks NOH 11/25/2009 NOH vs. MIL W 6 0 0 1 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 1 -7
+p638
+aVBobby Brown NOH 11/25/2009 NOH vs. MIL W 11 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 2 0 2
+p639
+aVDarius Songaila NOH 11/25/2009 NOH vs. MIL W 26 6 3 6 50.0 0 0 - 0 0 - 1 6 7 1 1 0 3 1 2
+p640
+aVMarcus Thornton NOH 11/25/2009 NOH vs. MIL W 20 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 4 4 11
+p641
+aVBobby Brown NOH 11/22/2009 NOH @ MIA L 16 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 7 1 0 1 0 12
+p642
+aVJames Posey NOH 11/22/2009 NOH @ MIA L 24 14 5 11 45.5 4 8 50.0 0 0 - 0 6 6 3 1 0 1 4 3
+p643
+aVPeja Stojakovic NOH 11/22/2009 NOH @ MIA L 35 14 5 12 41.7 3 8 37.5 1 1 100.0 0 2 2 3 1 0 0 3 -9
+p644
+aVEmeka Okafor NOH 11/22/2009 NOH @ MIA L 14 5 2 4 50.0 0 0 - 1 1 100.0 3 3 6 0 0 1 0 3 -11
+p645
+aVSean Marks NOH 11/22/2009 NOH @ MIA L 10 2 1 1 100.0 0 0 - 0 0 - 3 3 6 1 0 1 0 1 8
+p646
+aVDavid West NOH 11/22/2009 NOH @ MIA L 32 13 6 15 40.0 0 0 - 1 1 100.0 2 7 9 1 0 1 3 4 -16
+p647
+aVDarius Songaila NOH 11/22/2009 NOH @ MIA L 21 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 14
+p648
+aVMarcus Thornton NOH 11/22/2009 NOH @ MIA L 38 24 9 19 47.4 5 7 71.4 1 2 50.0 1 1 2 1 3 0 1 3 8
+p649
+aVJulian Wright NOH 11/22/2009 NOH @ MIA L 8 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 0 8
+p650
+aVDarren Collison NOH 11/22/2009 NOH @ MIA L 32 11 3 12 25.0 0 1 0.0 5 6 83.3 1 4 5 6 0 0 1 1 -13
+p651
+aVDevin Brown NOH 11/22/2009 NOH @ MIA L 10 7 2 6 33.3 0 2 0.0 3 3 100.0 1 0 1 0 1 0 2 4 -9
+p652
+aVPeja Stojakovic NOH 11/21/2009 NOH vs. ATL W 25 17 5 12 41.7 5 7 71.4 2 2 100.0 2 2 4 3 1 0 0 1 0
+p653
+aVDarren Collison NOH 11/21/2009 NOH vs. ATL W 34 22 8 13 61.5 2 2 100.0 4 4 100.0 0 2 2 11 0 0 5 1 5
+p654
+aVMarcus Thornton NOH 11/21/2009 NOH vs. ATL W 26 21 9 16 56.3 2 3 66.7 1 1 100.0 2 1 3 0 1 0 0 1 7
+p655
+aVDevin Brown NOH 11/21/2009 NOH vs. ATL W 22 1 0 4 0.0 0 1 0.0 1 2 50.0 1 3 4 3 1 0 3 2 1
+p656
+aVEmeka Okafor NOH 11/21/2009 NOH vs. ATL W 33 4 2 4 50.0 0 0 - 0 6 0.0 3 7 10 0 0 3 0 0 1
+p657
+aVDarius Songaila NOH 11/21/2009 NOH vs. ATL W 12 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 0 0 1 0 2 4
+p658
+aVHilton Armstrong NOH 11/21/2009 NOH vs. ATL W 14 0 0 3 0.0 0 0 - 0 0 - 0 5 5 1 0 0 2 3 5
+p659
+aVDavid West NOH 11/21/2009 NOH vs. ATL W 34 12 6 20 30.0 0 0 - 0 0 - 5 5 10 1 0 4 0 3 4
+p660
+aVJames Posey NOH 11/21/2009 NOH vs. ATL W 25 8 3 4 75.0 2 2 100.0 0 0 - 0 6 6 1 0 1 1 3 10
+p661
+aVBobby Brown NOH 11/21/2009 NOH vs. ATL W 14 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 2 0 0 1 0 3
+p662
+aVDavid West NOH 11/19/2009 NOH vs. PHX W 29 6 2 11 18.2 0 0 - 2 2 100.0 2 2 4 5 1 0 1 4 14
+p663
+aVDevin Brown NOH 11/19/2009 NOH vs. PHX W 36 19 8 17 47.1 2 5 40.0 1 3 33.3 1 5 6 5 0 0 3 3 14
+p664
+aVMarcus Thornton NOH 11/19/2009 NOH vs. PHX W 20 19 7 12 58.3 2 5 40.0 3 4 75.0 3 1 4 1 1 0 2 0 -2
+p665
+aVDarren Collison NOH 11/19/2009 NOH vs. PHX W 32 15 4 15 26.7 1 1 100.0 6 6 100.0 3 2 5 5 1 0 1 3 1
+p666
+aVBobby Brown NOH 11/19/2009 NOH vs. PHX W 11 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 4 0 0 2 0 0
+p667
+aVJames Posey NOH 11/19/2009 NOH vs. PHX W 16 7 1 1 100.0 1 1 100.0 4 4 100.0 1 3 4 1 0 0 1 2 -7
+p668
+aVDarius Songaila NOH 11/19/2009 NOH vs. PHX W 24 6 2 8 25.0 0 0 - 2 2 100.0 3 4 7 2 3 1 3 4 -6
+p669
+aVEmeka Okafor NOH 11/19/2009 NOH vs. PHX W 36 13 6 10 60.0 0 0 - 1 2 50.0 7 5 12 0 2 1 2 2 12
+p670
+aVPeja Stojakovic NOH 11/19/2009 NOH vs. PHX W 35 25 9 19 47.4 7 11 63.6 0 0 - 5 8 13 1 0 0 1 0 9
+p671
+aVPeja Stojakovic NOH 11/17/2009 NOH vs. LAC W 26 15 3 10 30.0 1 7 14.3 8 9 88.9 1 4 5 0 2 0 0 3 5
+p672
+aVEmeka Okafor NOH 11/17/2009 NOH vs. LAC W 38 7 2 5 40.0 0 0 - 3 6 50.0 5 9 14 0 1 2 2 4 1
+p673
+aVSean Marks NOH 11/17/2009 NOH vs. LAC W 4 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -2
+p674
+aVDarius Songaila NOH 11/17/2009 NOH vs. LAC W 12 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 2 0 0 4 11
+p675
+aVJames Posey NOH 11/17/2009 NOH vs. LAC W 26 2 1 7 14.3 0 3 0.0 0 0 - 0 4 4 3 1 0 1 1 3
+p676
+aVDavid West NOH 11/17/2009 NOH vs. LAC W 36 24 9 14 64.3 0 0 - 6 6 100.0 6 4 10 5 1 0 3 1 -3
+p677
+aVDevin Brown NOH 11/17/2009 NOH vs. LAC W 31 16 4 10 40.0 3 6 50.0 5 6 83.3 2 2 4 3 0 0 3 1 2
+p678
+aVJulian Wright NOH 11/17/2009 NOH vs. LAC W 5 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 1 5
+p679
+aVDarren Collison NOH 11/17/2009 NOH vs. LAC W 23 12 6 11 54.5 0 1 0.0 0 0 - 1 2 3 6 1 0 2 2 5
+p680
+aVMarcus Thornton NOH 11/17/2009 NOH vs. LAC W 21 12 4 10 40.0 2 5 40.0 2 2 100.0 0 3 3 1 0 0 0 1 9
+p681
+aVBobby Brown NOH 11/17/2009 NOH vs. LAC W 18 12 4 8 50.0 2 6 33.3 2 2 100.0 0 1 1 5 1 0 4 5 4
+p682
+aVDarren Collison NOH 11/14/2009 NOH @ ATL L 26 10 4 11 36.4 0 1 0.0 2 2 100.0 0 0 0 4 2 0 4 1 -32
+p683
+aVBobby Brown NOH 11/14/2009 NOH @ ATL L 23 13 6 13 46.2 1 6 16.7 0 0 - 0 2 2 7 0 0 3 0 9
+p684
+aVJulian Wright NOH 11/14/2009 NOH @ ATL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p685
+aVMarcus Thornton NOH 11/14/2009 NOH @ ATL L 18 12 4 10 40.0 1 5 20.0 3 4 75.0 0 1 1 3 0 0 0 1 5
+p686
+aVSean Marks NOH 11/14/2009 NOH @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p687
+aVPeja Stojakovic NOH 11/14/2009 NOH @ ATL L 34 25 10 17 58.8 4 9 44.4 1 1 100.0 2 2 4 0 0 0 0 2 -28
+p688
+aVHilton Armstrong NOH 11/14/2009 NOH @ ATL L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 2
+p689
+aVDavid West NOH 11/14/2009 NOH @ ATL L 38 8 4 17 23.5 0 0 - 0 0 - 6 6 12 3 0 0 4 5 -19
+p690
+aVDarius Songaila NOH 11/14/2009 NOH @ ATL L 16 8 4 4 100.0 0 0 - 0 0 - 0 2 2 2 1 1 2 3 -10
+p691
+aVDevin Brown NOH 11/14/2009 NOH @ ATL L 21 4 1 6 16.7 1 4 25.0 1 2 50.0 0 2 2 4 1 0 1 3 -20
+p692
+aVEmeka Okafor NOH 11/14/2009 NOH @ ATL L 27 8 3 7 42.9 0 0 - 2 6 33.3 5 7 12 0 1 2 2 2 -15
+p693
+aVJames Posey NOH 11/14/2009 NOH @ ATL L 25 5 2 4 50.0 0 2 0.0 1 1 100.0 1 4 5 2 2 0 0 3 -3
+p694
+aVMarcus Thornton NOH 11/13/2009 NOH vs. POR L 24 20 8 15 53.3 2 5 40.0 2 2 100.0 0 2 2 1 1 0 0 2 9
+p695
+aVDarius Songaila NOH 11/13/2009 NOH vs. POR L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 5
+p696
+aVDarren Collison NOH 11/13/2009 NOH vs. POR L 26 18 7 14 50.0 0 1 0.0 4 4 100.0 0 1 1 2 2 0 0 4 9
+p697
+aVJames Posey NOH 11/13/2009 NOH vs. POR L 24 3 0 3 0.0 0 2 0.0 3 4 75.0 0 3 3 2 0 1 2 1 4
+p698
+aVDavid West NOH 11/13/2009 NOH vs. POR L 39 15 7 13 53.8 0 0 - 1 2 50.0 2 8 10 1 0 1 2 1 -16
+p699
+aVPeja Stojakovic NOH 11/13/2009 NOH vs. POR L 23 2 1 7 14.3 0 3 0.0 0 0 - 0 6 6 0 0 0 0 0 -14
+p700
+aVChris Paul NOH 11/13/2009 NOH vs. POR L 31 3 1 8 12.5 0 0 - 1 2 50.0 1 4 5 8 3 0 1 2 -17
+p701
+aVEmeka Okafor NOH 11/13/2009 NOH vs. POR L 25 7 2 7 28.6 0 0 - 3 4 75.0 1 3 4 0 0 1 1 4 -5
+p702
+aVJulian Wright NOH 11/13/2009 NOH vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p703
+aVHilton Armstrong NOH 11/13/2009 NOH vs. POR L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 1
+p704
+aVSean Marks NOH 11/13/2009 NOH vs. POR L 15 1 0 2 0.0 0 0 - 1 2 50.0 4 3 7 1 0 1 2 4 -3
+p705
+aVDevin Brown NOH 11/13/2009 NOH vs. POR L 20 7 2 7 28.6 1 3 33.3 2 2 100.0 0 0 0 0 0 0 1 2 -15
+p706
+aVDevin Brown NOH 11/11/2009 NOH @ PHX L 29 8 3 12 25.0 1 3 33.3 1 1 100.0 3 2 5 3 1 0 2 0 -16
+p707
+aVJulian Wright NOH 11/11/2009 NOH @ PHX L 7 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 0 4
+p708
+aVDavid West NOH 11/11/2009 NOH @ PHX L 28 10 3 9 33.3 0 0 - 4 4 100.0 2 2 4 1 0 0 1 0 -15
+p709
+aVBobby Brown NOH 11/11/2009 NOH @ PHX L 8 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p710
+aVPeja Stojakovic NOH 11/11/2009 NOH @ PHX L 23 0 0 8 0.0 0 4 0.0 0 0 - 0 2 2 0 0 0 0 0 -16
+p711
+aVJames Posey NOH 11/11/2009 NOH @ PHX L 20 11 3 5 60.0 3 3 100.0 2 2 100.0 0 0 0 2 1 0 0 3 -7
+p712
+aVDarius Songaila NOH 11/11/2009 NOH @ PHX L 18 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 4 -6
+p713
+aVEmeka Okafor NOH 11/11/2009 NOH @ PHX L 26 13 5 7 71.4 0 0 - 3 4 75.0 2 2 4 0 0 2 1 4 -12
+p714
+aVChris Paul NOH 11/11/2009 NOH @ PHX L 30 25 9 16 56.3 4 7 57.1 3 4 75.0 0 0 0 6 4 0 2 2 -17
+p715
+aVMarcus Thornton NOH 11/11/2009 NOH @ PHX L 13 7 2 6 33.3 0 2 0.0 3 6 50.0 0 3 3 1 1 0 0 4 -11
+p716
+aVHilton Armstrong NOH 11/11/2009 NOH @ PHX L 22 6 3 7 42.9 0 0 - 0 0 - 3 0 3 1 0 0 2 4 -8
+p717
+aVDarren Collison NOH 11/11/2009 NOH @ PHX L 15 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 2 1 0 0 0 2
+p718
+aVDarius Songaila NOH 11/09/2009 NOH @ LAC W 19 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 2 0 0 0 1 -1
+p719
+aVDavid West NOH 11/09/2009 NOH @ LAC W 29 17 8 14 57.1 0 0 - 1 2 50.0 5 4 9 2 1 0 2 1 29
+p720
+aVDevin Brown NOH 11/09/2009 NOH @ LAC W 30 25 8 14 57.1 5 8 62.5 4 4 100.0 0 5 5 2 3 0 1 0 27
+p721
+aVJames Posey NOH 11/09/2009 NOH @ LAC W 17 7 2 4 50.0 1 2 50.0 2 2 100.0 1 4 5 1 0 1 1 2 2
+p722
+aVPeja Stojakovic NOH 11/09/2009 NOH @ LAC W 25 12 5 11 45.5 2 6 33.3 0 0 - 0 3 3 2 2 0 0 0 23
+p723
+aVChris Paul NOH 11/09/2009 NOH @ LAC W 25 24 10 14 71.4 2 3 66.7 2 2 100.0 1 4 5 10 2 0 1 2 25
+p724
+aVMarcus Thornton NOH 11/09/2009 NOH @ LAC W 18 5 2 9 22.2 0 6 0.0 1 2 50.0 0 0 0 0 2 0 3 3 1
+p725
+aVJulian Wright NOH 11/09/2009 NOH @ LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 3
+p726
+aVEmeka Okafor NOH 11/09/2009 NOH @ LAC W 25 2 1 2 50.0 0 0 - 0 2 0.0 0 6 6 0 0 2 0 2 18
+p727
+aVBobby Brown NOH 11/09/2009 NOH @ LAC W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 3
+p728
+aVHilton Armstrong NOH 11/09/2009 NOH @ LAC W 23 12 4 4 100.0 0 0 - 4 4 100.0 2 4 6 2 2 0 2 3 10
+p729
+aVDarren Collison NOH 11/09/2009 NOH @ LAC W 17 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 2 0 0 2 0 0
+p730
+aVMarcus Thornton NOH 11/08/2009 NOH @ LAL L 7 8 2 4 50.0 2 3 66.7 2 2 100.0 1 0 1 0 0 0 0 0 6
+p731
+aVDarren Collison NOH 11/08/2009 NOH @ LAL L 7 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 3 1 0 0 0 6
+p732
+aVDevin Brown NOH 11/08/2009 NOH @ LAL L 21 10 4 7 57.1 2 2 100.0 0 0 - 0 1 1 1 0 0 1 4 -15
+p733
+aVPeja Stojakovic NOH 11/08/2009 NOH @ LAL L 23 6 2 8 25.0 1 6 16.7 1 1 100.0 1 2 3 1 0 1 0 1 0
+p734
+aVDavid West NOH 11/08/2009 NOH @ LAL L 30 11 4 11 36.4 0 0 - 3 4 75.0 1 3 4 0 1 0 2 1 -18
+p735
+aVJames Posey NOH 11/08/2009 NOH @ LAL L 24 10 3 7 42.9 2 5 40.0 2 2 100.0 2 4 6 1 2 0 1 3 -5
+p736
+aVDarius Songaila NOH 11/08/2009 NOH @ LAL L 18 6 3 10 30.0 0 0 - 0 0 - 2 3 5 3 1 0 2 2 2
+p737
+aVJulian Wright NOH 11/08/2009 NOH @ LAL L 18 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 3 1 -14
+p738
+aVHilton Armstrong NOH 11/08/2009 NOH @ LAL L 21 0 0 2 0.0 0 0 - 0 0 - 3 3 6 3 1 0 0 3 0
+p739
+aVEmeka Okafor NOH 11/08/2009 NOH @ LAL L 27 10 5 12 41.7 0 0 - 0 1 0.0 5 9 14 0 0 1 3 2 -16
+p740
+aVBobby Brown NOH 11/08/2009 NOH @ LAL L 14 4 2 9 22.2 0 4 0.0 0 0 - 0 1 1 1 0 0 0 2 -8
+p741
+aVChris Paul NOH 11/08/2009 NOH @ LAL L 30 15 3 8 37.5 0 1 0.0 9 11 81.8 0 1 1 9 1 0 0 4 -18
+p742
+aVChris Paul NOH 11/06/2009 NOH vs. TOR L 36 21 8 13 61.5 1 3 33.3 4 4 100.0 0 7 7 18 2 0 1 2 -10
+p743
+aVDavid West NOH 11/06/2009 NOH vs. TOR L 34 14 7 12 58.3 0 0 - 0 2 0.0 1 3 4 1 1 0 2 4 -6
+p744
+aVEmeka Okafor NOH 11/06/2009 NOH vs. TOR L 30 6 3 8 37.5 0 0 - 0 1 0.0 4 4 8 0 1 1 3 3 -18
+p745
+aVJames Posey NOH 11/06/2009 NOH vs. TOR L 16 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 -1
+p746
+aVMorris Peterson NOH 11/06/2009 NOH vs. TOR L 13 5 2 7 28.6 1 5 20.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p747
+aVBobby Brown NOH 11/06/2009 NOH vs. TOR L 27 16 6 12 50.0 2 6 33.3 2 2 100.0 0 0 0 1 1 0 3 1 -6
+p748
+aVJulian Wright NOH 11/06/2009 NOH vs. TOR L 24 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 0 -18
+p749
+aVDarren Collison NOH 11/06/2009 NOH vs. TOR L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 2
+p750
+aVHilton Armstrong NOH 11/06/2009 NOH vs. TOR L 18 7 2 4 50.0 0 0 - 3 6 50.0 1 5 6 1 0 0 2 3 1
+p751
+aVPeja Stojakovic NOH 11/06/2009 NOH vs. TOR L 25 6 2 6 33.3 2 5 40.0 0 0 - 0 4 4 1 0 0 1 2 -13
+p752
+aVDarius Songaila NOH 11/06/2009 NOH vs. TOR L 14 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -11
+p753
+aVMarcus Thornton NOH 11/06/2009 NOH vs. TOR L 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p754
+aVJulian Wright NOH 11/04/2009 NOH vs. DAL W 18 0 0 3 0.0 0 0 - 0 0 - 2 5 7 1 0 1 1 1 5
+p755
+aVEmeka Okafor NOH 11/04/2009 NOH vs. DAL W 41 11 5 7 71.4 0 0 - 1 4 25.0 4 9 13 3 1 3 3 4 14
+p756
+aVDarius Songaila NOH 11/04/2009 NOH vs. DAL W 16 10 5 5 100.0 0 0 - 0 0 - 0 2 2 1 2 0 1 2 -10
+p757
+aVMorris Peterson NOH 11/04/2009 NOH vs. DAL W 29 8 3 9 33.3 2 5 40.0 0 0 - 1 4 5 0 1 0 0 2 9
+p758
+aVPeja Stojakovic NOH 11/04/2009 NOH vs. DAL W 29 3 1 8 12.5 1 6 16.7 0 0 - 0 1 1 3 0 1 1 0 7
+p759
+aVDavid West NOH 11/04/2009 NOH vs. DAL W 43 25 10 18 55.6 0 0 - 5 5 100.0 6 4 10 5 3 0 0 3 13
+p760
+aVHilton Armstrong NOH 11/04/2009 NOH vs. DAL W 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -3
+p761
+aVChris Paul NOH 11/04/2009 NOH vs. DAL W 45 39 14 23 60.9 3 4 75.0 8 8 100.0 1 4 5 7 2 0 3 5 3
+p762
+aVJames Posey NOH 11/04/2009 NOH vs. DAL W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 -9
+p763
+aVBobby Brown NOH 11/04/2009 NOH vs. DAL W 30 18 8 15 53.3 2 4 50.0 0 0 - 0 1 1 1 1 0 3 5 6
+p764
+aVJulian Wright NOH 11/02/2009 NOH @ NYK L 22 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 0 2 0 -8
+p765
+aVBobby Brown NOH 11/02/2009 NOH @ NYK L 12 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 4 0 0 0 1 -11
+p766
+aVJames Posey NOH 11/02/2009 NOH @ NYK L 19 3 1 4 25.0 1 3 33.3 0 0 - 0 5 5 0 0 0 0 4 -10
+p767
+aVMorris Peterson NOH 11/02/2009 NOH @ NYK L 20 9 4 10 40.0 1 6 16.7 0 0 - 1 2 3 0 0 0 1 3 10
+p768
+aVChris Paul NOH 11/02/2009 NOH @ NYK L 37 32 12 18 66.7 4 5 80.0 4 5 80.0 0 5 5 13 1 0 2 3 5
+p769
+aVEmeka Okafor NOH 11/02/2009 NOH @ NYK L 33 24 9 13 69.2 0 0 - 6 6 100.0 3 7 10 0 0 3 1 2 3
+p770
+aVHilton Armstrong NOH 11/02/2009 NOH @ NYK L 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 1 0 2 -9
+p771
+aVDevin Brown NOH 11/02/2009 NOH @ NYK L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p772
+aVPeja Stojakovic NOH 11/02/2009 NOH @ NYK L 30 11 4 9 44.4 3 6 50.0 0 0 - 0 1 1 2 2 0 2 3 -1
+p773
+aVDarius Songaila NOH 11/02/2009 NOH @ NYK L 11 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 -2
+p774
+aVDavid West NOH 11/02/2009 NOH @ NYK L 37 21 7 13 53.8 0 1 0.0 7 8 87.5 1 2 3 3 0 0 3 3 -4
+p775
+aVMorris Peterson NOH 11/01/2009 NOH @ BOS L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 1 3
+p776
+aVEmeka Okafor NOH 11/01/2009 NOH @ BOS L 29 5 2 9 22.2 0 0 - 1 2 50.0 2 8 10 2 1 2 4 4 -6
+p777
+aVDavid West NOH 11/01/2009 NOH @ BOS L 37 10 4 14 28.6 1 2 50.0 1 1 100.0 1 1 2 2 0 1 1 0 -5
+p778
+aVHilton Armstrong NOH 11/01/2009 NOH @ BOS L 19 6 3 5 60.0 0 0 - 0 0 - 1 3 4 2 3 1 1 3 -4
+p779
+aVChris Paul NOH 11/01/2009 NOH @ BOS L 37 22 9 13 69.2 2 3 66.7 2 3 66.7 0 3 3 8 2 0 2 3 -1
+p780
+aVJames Posey NOH 11/01/2009 NOH @ BOS L 20 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 1 1 0 2 3 -9
+p781
+aVJulian Wright NOH 11/01/2009 NOH @ BOS L 19 7 3 6 50.0 1 1 100.0 0 0 - 0 4 4 1 0 0 2 3 -5
+p782
+aVDarius Songaila NOH 11/01/2009 NOH @ BOS L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -5
+p783
+aVBobby Brown NOH 11/01/2009 NOH @ BOS L 20 8 3 12 25.0 2 7 28.6 0 0 - 0 1 1 1 1 0 2 3 -7
+p784
+aVPeja Stojakovic NOH 11/01/2009 NOH @ BOS L 32 26 9 15 60.0 6 10 60.0 2 2 100.0 1 3 4 1 0 0 2 2 -11
+p785
+aVJames Posey NOH 10/30/2009 NOH vs. SAC W 22 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 1 1 0 0 0 2
+p786
+aVHilton Armstrong NOH 10/30/2009 NOH vs. SAC W 15 3 0 1 0.0 0 0 - 3 6 50.0 0 5 5 1 0 2 0 3 7
+p787
+aVEmeka Okafor NOH 10/30/2009 NOH vs. SAC W 32 11 5 8 62.5 0 0 - 1 1 100.0 3 10 13 2 1 4 1 4 -1
+p788
+aVChris Paul NOH 10/30/2009 NOH vs. SAC W 36 31 8 14 57.1 1 1 100.0 14 15 93.3 0 2 2 4 0 0 4 4 3
+p789
+aVDarius Songaila NOH 10/30/2009 NOH vs. SAC W 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 1 0 3 1 3
+p790
+aVJulian Wright NOH 10/30/2009 NOH vs. SAC W 29 11 4 8 50.0 0 0 - 3 4 75.0 5 2 7 2 0 0 2 1 7
+p791
+aVPeja Stojakovic NOH 10/30/2009 NOH vs. SAC W 22 10 3 9 33.3 2 5 40.0 2 2 100.0 0 2 2 1 0 0 0 1 7
+p792
+aVDavid West NOH 10/30/2009 NOH vs. SAC W 35 13 5 12 41.7 0 0 - 3 4 75.0 1 7 8 2 3 2 1 3 2
+p793
+aVMorris Peterson NOH 10/30/2009 NOH vs. SAC W 19 7 3 8 37.5 1 5 20.0 0 0 - 0 1 1 0 0 0 0 2 -9
+p794
+aVBobby Brown NOH 10/30/2009 NOH vs. SAC W 18 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 1 0 2 4
+p795
+aVPeja Stojakovic NOH 10/28/2009 NOH @ SAS L 20 4 1 2 50.0 1 1 100.0 1 1 100.0 0 1 1 0 0 0 1 2 -14
+p796
+aVDarius Songaila NOH 10/28/2009 NOH @ SAS L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -9
+p797
+aVDarren Collison NOH 10/28/2009 NOH @ SAS L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 1
+p798
+aVBobby Brown NOH 10/28/2009 NOH @ SAS L 23 9 4 12 33.3 1 5 20.0 0 0 - 0 2 2 3 1 0 0 1 -13
+p799
+aVHilton Armstrong NOH 10/28/2009 NOH @ SAS L 19 2 1 4 25.0 0 0 - 0 2 0.0 1 3 4 0 1 0 0 2 -16
+p800
+aVJames Posey NOH 10/28/2009 NOH @ SAS L 19 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -16
+p801
+aVMorris Peterson NOH 10/28/2009 NOH @ SAS L 16 7 2 6 33.3 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 2 -1
+p802
+aVDavid West NOH 10/28/2009 NOH @ SAS L 38 18 7 12 58.3 0 0 - 4 6 66.7 1 8 9 3 3 1 1 2 -9
+p803
+aVJulian Wright NOH 10/28/2009 NOH @ SAS L 28 8 4 9 44.4 0 0 - 0 0 - 0 4 4 1 0 2 1 3 -3
+p804
+aVChris Paul NOH 10/28/2009 NOH @ SAS L 34 26 11 16 68.8 2 2 100.0 2 4 50.0 0 1 1 9 0 0 5 1 -5
+p805
+aVEmeka Okafor NOH 10/28/2009 NOH @ SAS L 29 18 8 14 57.1 0 0 - 2 3 66.7 3 7 10 0 0 0 0 3 -1
+p806
+aVDevin Brown NOH 10/28/2009 NOH @ SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 1
+p807
+a.

@@ -1,0 +1,1688 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGrant Hill DET 04/19/1998 DET @ NJN L 40 21 7 14 50.0 0 1 0.0 7 10 70.0 2 10 12 7 0 0 10 3 -13
+p2
+aVJerry Stackhouse DET 04/19/1998 DET @ NJN L 30 20 5 10 50.0 0 2 0.0 10 13 76.9 1 1 2 7 3 0 3 5 2
+p3
+aVCharles O'Bannon DET 04/19/1998 DET @ NJN L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -17
+p4
+aVScot Pollard DET 04/19/1998 DET @ NJN L 28 11 5 6 83.3 0 0 - 1 1 100.0 1 2 3 0 2 1 1 3 -12
+p5
+aVJoe Dumars DET 04/19/1998 DET @ NJN L 12 11 4 7 57.1 3 4 75.0 0 0 - 0 0 0 0 0 0 0 1 1
+p6
+aVBison Dele DET 04/19/1998 DET @ NJN L 12 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 1 2 5 4
+p7
+aVLindsey Hunter DET 04/19/1998 DET @ NJN L 34 14 4 10 40.0 4 7 57.1 2 4 50.0 1 1 2 1 1 0 5 4 -7
+p8
+aVJerome Williams DET 04/19/1998 DET @ NJN L 25 9 3 5 60.0 0 0 - 3 6 50.0 3 2 5 1 3 0 1 2 -2
+p9
+aVSteve Henson DET 04/19/1998 DET @ NJN L 5 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 -5
+p10
+aVDon Reid DET 04/19/1998 DET @ NJN L 31 4 2 5 40.0 0 0 - 0 0 - 2 1 3 1 1 3 1 4 -16
+p11
+aVMalik Sealy DET 04/19/1998 DET @ NJN L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 1 1 1 0
+p12
+aVGrant Hill DET 04/17/1998 DET vs. MIL W 42 31 10 16 62.5 0 0 - 11 13 84.6 3 9 12 9 2 0 5 3 13
+p13
+aVRick Mahorn DET 04/17/1998 DET vs. MIL W 10 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 1 -2
+p14
+aVJerry Stackhouse DET 04/17/1998 DET vs. MIL W 41 27 12 21 57.1 3 7 42.9 0 0 - 2 4 6 6 1 0 3 2 7
+p15
+aVLindsey Hunter DET 04/17/1998 DET vs. MIL W 33 6 2 11 18.2 1 4 25.0 1 2 50.0 1 0 1 4 3 1 1 1 6
+p16
+aVScot Pollard DET 04/17/1998 DET vs. MIL W 11 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 0 0 0 0 1 4
+p17
+aVJoe Dumars DET 04/17/1998 DET vs. MIL W 12 3 1 3 33.3 0 2 0.0 1 1 100.0 0 1 1 2 0 0 0 0 0
+p18
+aVJerome Williams DET 04/17/1998 DET vs. MIL W 26 13 3 5 60.0 0 0 - 7 12 58.3 5 5 10 1 1 0 2 3 11
+p19
+aVMalik Sealy DET 04/17/1998 DET vs. MIL W 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 1 1 1 -5
+p20
+aVBison Dele DET 04/17/1998 DET vs. MIL W 34 12 5 10 50.0 0 0 - 2 2 100.0 1 2 3 2 2 1 2 4 4
+p21
+aVSteve Henson DET 04/17/1998 DET vs. MIL W 10 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p22
+aVDon Reid DET 04/17/1998 DET vs. MIL W 16 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 2 0 0 0 2 -5
+p23
+aVGrant Hill DET 04/15/1998 DET vs. CHI W 46 17 7 16 43.8 0 0 - 3 7 42.9 1 8 9 12 1 0 2 4 9
+p24
+aVJerome Williams DET 04/15/1998 DET vs. CHI W 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p25
+aVJerry Stackhouse DET 04/15/1998 DET vs. CHI W 37 20 8 17 47.1 0 3 0.0 4 4 100.0 2 4 6 2 0 1 4 2 4
+p26
+aVMalik Sealy DET 04/15/1998 DET vs. CHI W 18 4 2 10 20.0 0 2 0.0 0 0 - 2 2 4 0 0 0 0 1 3
+p27
+aVLindsey Hunter DET 04/15/1998 DET vs. CHI W 31 2 1 8 12.5 0 3 0.0 0 0 - 1 5 6 6 2 0 2 1 0
+p28
+aVRick Mahorn DET 04/15/1998 DET vs. CHI W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p29
+aVDon Reid DET 04/15/1998 DET vs. CHI W 19 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 2 0 3 15
+p30
+aVJoe Dumars DET 04/15/1998 DET vs. CHI W 28 17 5 10 50.0 5 8 62.5 2 4 50.0 0 2 2 1 0 0 1 0 9
+p31
+aVBison Dele DET 04/15/1998 DET vs. CHI W 42 25 12 17 70.6 0 0 - 1 4 25.0 6 11 17 1 3 2 5 3 3
+p32
+aVLindsey Hunter DET 04/12/1998 DET @ CHH L 32 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 3 2 0 1 1 8
+p33
+aVJoe Dumars DET 04/12/1998 DET @ CHH L 37 20 8 17 47.1 4 10 40.0 0 0 - 0 2 2 0 0 0 1 1 -12
+p34
+aVRick Mahorn DET 04/12/1998 DET @ CHH L 18 2 1 3 33.3 0 0 - 0 0 - 1 6 7 1 0 0 0 4 0
+p35
+aVBison Dele DET 04/12/1998 DET @ CHH L 21 8 3 5 60.0 0 0 - 2 4 50.0 5 3 8 1 0 0 2 5 -5
+p36
+aVDon Reid DET 04/12/1998 DET @ CHH L 37 11 5 7 71.4 0 0 - 1 1 100.0 2 1 3 0 0 5 0 3 -8
+p37
+aVGrant Hill DET 04/12/1998 DET @ CHH L 43 17 7 19 36.8 0 0 - 3 4 75.0 3 10 13 10 3 1 1 1 -4
+p38
+aVJerome Williams DET 04/12/1998 DET @ CHH L 11 6 2 6 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 6
+p39
+aVJerry Stackhouse DET 04/12/1998 DET @ CHH L 32 12 4 14 28.6 0 2 0.0 4 9 44.4 3 2 5 5 1 1 4 2 2
+p40
+aVScot Pollard DET 04/12/1998 DET @ CHH L 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 2 0 0 3
+p41
+aVJoe Dumars DET 04/09/1998 DET @ WAS W 36 33 10 16 62.5 6 9 66.7 7 9 77.8 0 1 1 2 0 0 3 4 15
+p42
+aVBison Dele DET 04/09/1998 DET @ WAS W 11 0 0 5 0.0 0 0 - 0 0 - 0 2 2 2 1 1 1 2 6
+p43
+aVCharles O'Bannon DET 04/09/1998 DET @ WAS W 9 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p44
+aVJerome Williams DET 04/09/1998 DET @ WAS W 16 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 4 22
+p45
+aVScot Pollard DET 04/09/1998 DET @ WAS W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p46
+aVRick Mahorn DET 04/09/1998 DET @ WAS W 16 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 3 10
+p47
+aVSteve Henson DET 04/09/1998 DET @ WAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p48
+aVLindsey Hunter DET 04/09/1998 DET @ WAS W 33 7 3 6 50.0 0 1 0.0 1 1 100.0 0 2 2 8 5 1 2 2 4
+p49
+aVJerry Stackhouse DET 04/09/1998 DET @ WAS W 34 20 6 10 60.0 0 1 0.0 8 12 66.7 1 4 5 4 1 0 5 4 13
+p50
+aVGrant Hill DET 04/09/1998 DET @ WAS W 44 23 8 14 57.1 1 1 100.0 6 7 85.7 0 9 9 7 1 2 4 0 26
+p51
+aVDon Reid DET 04/09/1998 DET @ WAS W 28 9 4 5 80.0 0 0 - 1 2 50.0 2 2 4 0 0 2 3 4 8
+p52
+aVDon Reid DET 04/08/1998 DET @ ORL L 39 16 8 15 53.3 0 0 - 0 0 - 5 10 15 5 1 1 1 6 -2
+p53
+aVJoe Dumars DET 04/08/1998 DET @ ORL L 32 17 6 16 37.5 2 6 33.3 3 3 100.0 0 2 2 2 2 0 2 0 -1
+p54
+aVRick Mahorn DET 04/08/1998 DET @ ORL L 9 4 2 6 33.3 0 0 - 0 0 - 4 1 5 0 0 0 0 2 -3
+p55
+aVBison Dele DET 04/08/1998 DET @ ORL L 34 7 2 8 25.0 1 1 100.0 2 2 100.0 0 3 3 1 1 0 2 0 -1
+p56
+aVGrant Hill DET 04/08/1998 DET @ ORL L 40 15 5 13 38.5 0 1 0.0 5 7 71.4 1 4 5 9 1 1 2 2 -4
+p57
+aVJerry Stackhouse DET 04/08/1998 DET @ ORL L 26 6 2 10 20.0 1 2 50.0 1 1 100.0 2 3 5 3 2 1 4 2 -12
+p58
+aVLindsey Hunter DET 04/08/1998 DET @ ORL L 38 20 8 11 72.7 0 0 - 4 4 100.0 2 0 2 1 1 0 1 3 -4
+p59
+aVMalik Sealy DET 04/08/1998 DET @ ORL L 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -4
+p60
+aVScot Pollard DET 04/08/1998 DET @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p61
+aVJerome Williams DET 04/08/1998 DET @ ORL L 8 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -9
+p62
+aVJoe Dumars DET 04/05/1998 DET vs. LAL L 42 23 8 14 57.1 5 8 62.5 2 2 100.0 0 3 3 4 0 0 4 2 -4
+p63
+aVLindsey Hunter DET 04/05/1998 DET vs. LAL L 45 13 6 13 46.2 1 3 33.3 0 0 - 1 5 6 3 2 0 2 3 -3
+p64
+aVDon Reid DET 04/05/1998 DET vs. LAL L 14 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 1 1 0 0 3 4
+p65
+aVGrant Hill DET 04/05/1998 DET vs. LAL L 51 18 4 17 23.5 0 0 - 10 12 83.3 4 12 16 12 3 0 6 1 0
+p66
+aVJerry Stackhouse DET 04/05/1998 DET vs. LAL L 26 0 0 6 0.0 0 0 - 0 0 - 0 2 2 2 1 1 3 0 7
+p67
+aVBison Dele DET 04/05/1998 DET vs. LAL L 43 26 10 20 50.0 0 0 - 6 8 75.0 5 2 7 0 0 0 2 5 -7
+p68
+aVRick Mahorn DET 04/05/1998 DET vs. LAL L 12 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 0 3 1
+p69
+aVJerome Williams DET 04/05/1998 DET vs. LAL L 32 13 6 7 85.7 0 0 - 1 2 50.0 7 3 10 1 0 0 3 4 -6
+p70
+aVSteve Henson DET 04/05/1998 DET vs. LAL L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p71
+aVCharles O'Bannon DET 04/05/1998 DET vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p72
+aVGrant Hill DET 04/03/1998 DET vs. BOS L 24 2 1 4 25.0 0 0 - 0 0 - 0 2 2 7 0 0 1 1 9
+p73
+aVScot Pollard DET 04/03/1998 DET vs. BOS L 8 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 0
+p74
+aVJerry Stackhouse DET 04/03/1998 DET vs. BOS L 37 16 5 10 50.0 0 1 0.0 6 7 85.7 0 6 6 6 1 1 3 1 -9
+p75
+aVBison Dele DET 04/03/1998 DET vs. BOS L 35 29 13 20 65.0 0 0 - 3 3 100.0 2 6 8 0 0 2 4 3 -2
+p76
+aVJerome Williams DET 04/03/1998 DET vs. BOS L 29 11 5 7 71.4 0 0 - 1 4 25.0 5 4 9 1 1 0 0 2 -10
+p77
+aVMalik Sealy DET 04/03/1998 DET vs. BOS L 12 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 0 -1
+p78
+aVJoe Dumars DET 04/03/1998 DET vs. BOS L 39 20 6 12 50.0 4 8 50.0 4 5 80.0 0 1 1 7 1 0 1 2 2
+p79
+aVDon Reid DET 04/03/1998 DET vs. BOS L 19 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 1 0 2 1 4 6
+p80
+aVLindsey Hunter DET 04/03/1998 DET vs. BOS L 33 11 4 13 30.8 3 7 42.9 0 0 - 1 0 1 2 2 0 4 1 -1
+p81
+aVRick Mahorn DET 04/03/1998 DET vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p82
+aVJerry Stackhouse DET 04/01/1998 DET vs. CLE L 29 6 3 9 33.3 0 0 - 0 0 - 2 4 6 4 0 1 6 3 -2
+p83
+aVSteve Henson DET 04/01/1998 DET vs. CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p84
+aVJoe Dumars DET 04/01/1998 DET vs. CLE L 32 15 6 12 50.0 3 7 42.9 0 0 - 0 1 1 3 0 0 2 2 -9
+p85
+aVDon Reid DET 04/01/1998 DET vs. CLE L 14 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 1 0 2 0 4 2
+p86
+aVGrant Hill DET 04/01/1998 DET vs. CLE L 39 16 5 15 33.3 0 0 - 6 8 75.0 1 5 6 10 2 0 3 4 2
+p87
+aVMalik Sealy DET 04/01/1998 DET vs. CLE L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 2 0 0 0 0 -4
+p88
+aVBison Dele DET 04/01/1998 DET vs. CLE L 35 12 6 9 66.7 0 0 - 0 2 0.0 2 6 8 2 0 1 3 2 0
+p89
+aVLindsey Hunter DET 04/01/1998 DET vs. CLE L 42 17 7 13 53.8 3 6 50.0 0 0 - 2 2 4 1 0 0 4 2 3
+p90
+aVRick Mahorn DET 04/01/1998 DET vs. CLE L 18 10 5 6 83.3 0 0 - 0 0 - 1 4 5 0 0 0 1 5 -6
+p91
+aVJerome Williams DET 04/01/1998 DET vs. CLE L 27 9 4 4 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 3
+p92
+aVBison Dele DET 03/31/1998 DET @ CHI L 49 27 12 17 70.6 0 0 - 3 4 75.0 2 11 13 0 0 1 6 2 -7
+p93
+aVJerome Williams DET 03/31/1998 DET @ CHI L 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -1
+p94
+aVGrant Hill DET 03/31/1998 DET @ CHI L 50 37 13 24 54.2 0 1 0.0 11 13 84.6 3 7 10 5 3 0 4 1 -4
+p95
+aVJerry Stackhouse DET 03/31/1998 DET @ CHI L 45 22 9 14 64.3 0 2 0.0 4 6 66.7 0 2 2 7 4 0 1 6 -1
+p96
+aVDon Reid DET 03/31/1998 DET @ CHI L 10 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -4
+p97
+aVRick Mahorn DET 03/31/1998 DET @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p98
+aVSteve Henson DET 03/31/1998 DET @ CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p99
+aVMalik Sealy DET 03/31/1998 DET @ CHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -9
+p100
+aVLindsey Hunter DET 03/31/1998 DET @ CHI L 47 9 4 11 36.4 1 3 33.3 0 0 - 0 2 2 4 3 1 2 5 4
+p101
+aVJoe Dumars DET 03/31/1998 DET @ CHI L 44 6 2 8 25.0 1 6 16.7 1 1 100.0 0 0 0 4 1 0 0 3 -7
+p102
+aVJerome Williams DET 03/29/1998 DET @ ATL L 21 0 0 1 0.0 0 0 - 0 0 - 1 7 8 2 1 0 4 0 1
+p103
+aVCharles O'Bannon DET 03/29/1998 DET @ ATL L 7 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -1
+p104
+aVSteve Henson DET 03/29/1998 DET @ ATL L 4 1 0 0 - 0 0 - 1 1 100.0 0 0 0 1 0 0 0 1 -4
+p105
+aVDon Reid DET 03/29/1998 DET @ ATL L 19 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 1 0 2 1 2 -28
+p106
+aVJerry Stackhouse DET 03/29/1998 DET @ ATL L 26 12 4 12 33.3 0 2 0.0 4 5 80.0 3 0 3 3 2 0 3 4 -6
+p107
+aVRick Mahorn DET 03/29/1998 DET @ ATL L 11 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 0 1 1 -10
+p108
+aVLindsey Hunter DET 03/29/1998 DET @ ATL L 31 12 5 11 45.5 1 4 25.0 1 2 50.0 0 0 0 0 2 0 2 1 -24
+p109
+aVJoe Dumars DET 03/29/1998 DET @ ATL L 32 18 5 9 55.6 4 6 66.7 4 4 100.0 0 1 1 3 0 0 0 0 -6
+p110
+aVGrant Hill DET 03/29/1998 DET @ ATL L 30 10 4 11 36.4 0 1 0.0 2 2 100.0 0 3 3 3 1 0 7 3 -21
+p111
+aVMalik Sealy DET 03/29/1998 DET @ ATL L 13 4 1 6 16.7 0 3 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -7
+p112
+aVBison Dele DET 03/29/1998 DET @ ATL L 30 22 10 15 66.7 0 0 - 2 6 33.3 3 5 8 2 0 0 2 3 -12
+p113
+aVScot Pollard DET 03/29/1998 DET @ ATL L 15 10 5 6 83.3 0 0 - 0 0 - 2 1 3 0 1 0 0 2 3
+p114
+aVJerome Williams DET 03/27/1998 DET @ CLE L 27 2 1 3 33.3 0 0 - 0 0 - 2 3 5 2 0 0 1 3 -4
+p115
+aVLindsey Hunter DET 03/27/1998 DET @ CLE L 31 5 2 9 22.2 1 3 33.3 0 0 - 0 1 1 2 0 0 2 0 0
+p116
+aVJoe Dumars DET 03/27/1998 DET @ CLE L 36 12 4 13 30.8 2 6 33.3 2 2 100.0 0 1 1 6 0 0 2 1 1
+p117
+aVScot Pollard DET 03/27/1998 DET @ CLE L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 3 4
+p118
+aVDon Reid DET 03/27/1998 DET @ CLE L 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 1 0 5 -4
+p119
+aVGrant Hill DET 03/27/1998 DET @ CLE L 44 25 9 13 69.2 0 0 - 7 7 100.0 2 9 11 3 2 0 6 2 2
+p120
+aVBison Dele DET 03/27/1998 DET @ CLE L 44 8 3 10 30.0 0 0 - 2 4 50.0 3 9 12 1 0 3 1 2 -7
+p121
+aVRick Mahorn DET 03/27/1998 DET @ CLE L 9 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 3
+p122
+aVJerry Stackhouse DET 03/27/1998 DET @ CLE L 40 26 8 14 57.1 2 5 40.0 8 10 80.0 0 2 2 6 2 1 5 2 0
+p123
+aVMalik Sealy DET 03/27/1998 DET @ CLE L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p124
+aVBison Dele DET 03/25/1998 DET vs. SAS W 27 11 5 11 45.5 0 0 - 1 1 100.0 1 4 5 0 0 2 2 4 -2
+p125
+aVRick Mahorn DET 03/25/1998 DET vs. SAS W 13 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 0 0 2 7
+p126
+aVJerome Williams DET 03/25/1998 DET vs. SAS W 22 4 1 1 100.0 0 0 - 2 2 100.0 2 5 7 1 4 0 2 3 12
+p127
+aVSteve Henson DET 03/25/1998 DET vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p128
+aVDon Reid DET 03/25/1998 DET vs. SAS W 26 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 0 0 0 5 -9
+p129
+aVGrant Hill DET 03/25/1998 DET vs. SAS W 42 24 7 14 50.0 0 1 0.0 10 10 100.0 1 6 7 10 1 0 4 3 16
+p130
+aVScot Pollard DET 03/25/1998 DET vs. SAS W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 10
+p131
+aVLindsey Hunter DET 03/25/1998 DET vs. SAS W 30 15 6 9 66.7 1 3 33.3 2 4 50.0 0 3 3 4 1 0 0 1 -9
+p132
+aVJerry Stackhouse DET 03/25/1998 DET vs. SAS W 31 22 7 16 43.8 0 2 0.0 8 12 66.7 1 1 2 2 1 1 1 0 12
+p133
+aVJoe Dumars DET 03/25/1998 DET vs. SAS W 40 17 6 13 46.2 3 4 75.0 2 2 100.0 0 2 2 7 0 0 1 1 10
+p134
+aVDon Reid DET 03/23/1998 DET @ PHI W 29 8 3 6 50.0 0 0 - 2 3 66.7 1 3 4 1 0 1 0 4 0
+p135
+aVBison Dele DET 03/23/1998 DET @ PHI W 34 14 7 12 58.3 0 0 - 0 2 0.0 1 12 13 4 0 1 2 5 21
+p136
+aVSteve Henson DET 03/23/1998 DET @ PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p137
+aVJoe Dumars DET 03/23/1998 DET @ PHI W 35 20 6 16 37.5 0 5 0.0 8 8 100.0 1 0 1 5 0 0 2 1 9
+p138
+aVRick Mahorn DET 03/23/1998 DET @ PHI W 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -6
+p139
+aVLindsey Hunter DET 03/23/1998 DET @ PHI W 37 13 4 7 57.1 2 4 50.0 3 8 37.5 3 1 4 4 1 0 1 3 14
+p140
+aVJerry Stackhouse DET 03/23/1998 DET @ PHI W 31 15 3 10 30.0 0 2 0.0 9 9 100.0 1 3 4 4 0 1 1 3 14
+p141
+aVGrant Hill DET 03/23/1998 DET @ PHI W 44 17 5 11 45.5 0 1 0.0 7 11 63.6 1 10 11 5 2 0 3 3 15
+p142
+aVScot Pollard DET 03/23/1998 DET @ PHI W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p143
+aVJerome Williams DET 03/23/1998 DET @ PHI W 12 5 1 2 50.0 0 0 - 3 4 75.0 2 1 3 0 0 0 0 2 5
+p144
+aVGrant Hill DET 03/22/1998 DET vs. ATL W 45 24 11 19 57.9 0 0 - 2 2 100.0 2 4 6 11 0 1 2 4 18
+p145
+aVLindsey Hunter DET 03/22/1998 DET vs. ATL W 27 14 6 12 50.0 0 1 0.0 2 2 100.0 0 4 4 5 1 0 0 3 3
+p146
+aVRick Mahorn DET 03/22/1998 DET vs. ATL W 15 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -5
+p147
+aVBison Dele DET 03/22/1998 DET vs. ATL W 33 23 11 17 64.7 0 0 - 1 1 100.0 2 7 9 1 0 0 2 5 12
+p148
+aVDon Reid DET 03/22/1998 DET vs. ATL W 38 2 1 3 33.3 0 0 - 0 1 0.0 3 1 4 0 0 4 1 4 17
+p149
+aVJoe Dumars DET 03/22/1998 DET vs. ATL W 38 16 5 13 38.5 1 3 33.3 5 5 100.0 0 1 1 2 0 0 0 0 12
+p150
+aVCharles O'Bannon DET 03/22/1998 DET vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p151
+aVMalik Sealy DET 03/22/1998 DET vs. ATL W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p152
+aVJerome Williams DET 03/22/1998 DET vs. ATL W 10 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 1 0 0 0 -10
+p153
+aVJerry Stackhouse DET 03/22/1998 DET vs. ATL W 30 23 8 9 88.9 0 1 0.0 7 7 100.0 0 1 1 2 2 1 4 4 1
+p154
+aVJoe Dumars DET 03/20/1998 DET vs. TOR W 40 10 4 10 40.0 2 7 28.6 0 2 0.0 0 2 2 2 0 0 1 4 18
+p155
+aVJerry Stackhouse DET 03/20/1998 DET vs. TOR W 25 13 4 11 36.4 1 6 16.7 4 6 66.7 2 0 2 3 1 1 2 3 -11
+p156
+aVDon Reid DET 03/20/1998 DET vs. TOR W 13 5 2 2 100.0 0 0 - 1 2 50.0 2 0 2 0 2 0 1 4 3
+p157
+aVMalik Sealy DET 03/20/1998 DET vs. TOR W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p158
+aVScot Pollard DET 03/20/1998 DET vs. TOR W 12 3 1 5 20.0 0 0 - 1 3 33.3 3 3 6 0 1 1 0 0 -4
+p159
+aVBison Dele DET 03/20/1998 DET vs. TOR W 41 24 7 12 58.3 0 0 - 10 11 90.9 5 13 18 5 4 3 5 3 4
+p160
+aVRick Mahorn DET 03/20/1998 DET vs. TOR W 7 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 2
+p161
+aVJerome Williams DET 03/20/1998 DET vs. TOR W 23 11 5 8 62.5 0 0 - 1 2 50.0 2 4 6 2 1 0 0 3 7
+p162
+aVGrant Hill DET 03/20/1998 DET vs. TOR W 45 25 10 19 52.6 0 0 - 5 8 62.5 1 5 6 5 3 0 3 2 7
+p163
+aVLindsey Hunter DET 03/20/1998 DET vs. TOR W 28 12 6 12 50.0 0 4 0.0 0 0 - 0 2 2 2 0 0 1 2 5
+p164
+aVRick Mahorn DET 03/18/1998 DET vs. PHI L 17 2 1 1 100.0 0 0 - 0 0 - 3 2 5 0 0 1 1 1 -12
+p165
+aVJerry Stackhouse DET 03/18/1998 DET vs. PHI L 27 13 5 11 45.5 2 3 66.7 1 2 50.0 1 2 3 0 0 1 4 3 -9
+p166
+aVJerome Williams DET 03/18/1998 DET vs. PHI L 13 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 0 0 1 1 -1
+p167
+aVDon Reid DET 03/18/1998 DET vs. PHI L 22 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 1 1 2 0 4 3
+p168
+aVLindsey Hunter DET 03/18/1998 DET vs. PHI L 28 6 2 7 28.6 0 5 0.0 2 2 100.0 2 1 3 1 1 1 0 2 -7
+p169
+aVJoe Dumars DET 03/18/1998 DET vs. PHI L 37 18 7 18 38.9 2 8 25.0 2 2 100.0 0 1 1 4 3 0 1 5 -1
+p170
+aVMalik Sealy DET 03/18/1998 DET vs. PHI L 18 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 0 0 1 1 2 -2
+p171
+aVGrant Hill DET 03/18/1998 DET vs. PHI L 41 31 9 20 45.0 0 1 0.0 13 16 81.3 4 5 9 6 1 0 3 1 -2
+p172
+aVBison Dele DET 03/18/1998 DET vs. PHI L 37 12 3 12 25.0 0 0 - 6 7 85.7 2 7 9 2 1 1 2 4 1
+p173
+aVDon Reid DET 03/16/1998 DET @ MIA W 21 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 2 3 0 1 3
+p174
+aVBison Dele DET 03/16/1998 DET @ MIA W 32 17 6 9 66.7 0 0 - 5 6 83.3 4 6 10 1 3 0 1 3 21
+p175
+aVRick Mahorn DET 03/16/1998 DET @ MIA W 15 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 -7
+p176
+aVGrant Hill DET 03/16/1998 DET @ MIA W 40 26 11 16 68.8 0 0 - 4 7 57.1 2 3 5 3 4 0 8 2 8
+p177
+aVJoe Dumars DET 03/16/1998 DET @ MIA W 32 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 2 0 0 1 1 23
+p178
+aVJerome Williams DET 03/16/1998 DET @ MIA W 26 11 4 6 66.7 0 0 - 3 4 75.0 4 5 9 1 0 0 0 3 7
+p179
+aVCharles O'Bannon DET 03/16/1998 DET @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p180
+aVSteve Henson DET 03/16/1998 DET @ MIA W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p181
+aVMalik Sealy DET 03/16/1998 DET @ MIA W 19 11 4 7 57.1 1 1 100.0 2 4 50.0 1 3 4 1 2 0 1 1 10
+p182
+aVJerry Stackhouse DET 03/16/1998 DET @ MIA W 28 13 4 11 36.4 0 2 0.0 5 6 83.3 0 0 0 2 1 0 0 1 1
+p183
+aVLindsey Hunter DET 03/16/1998 DET @ MIA W 26 11 4 13 30.8 1 2 50.0 2 4 50.0 0 1 1 3 2 0 0 1 -1
+p184
+aVRick Mahorn DET 03/15/1998 DET vs. UTA L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 4 -8
+p185
+aVMalik Sealy DET 03/15/1998 DET vs. UTA L 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p186
+aVSteve Henson DET 03/15/1998 DET vs. UTA L 9 9 4 5 80.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 3 4
+p187
+aVBison Dele DET 03/15/1998 DET vs. UTA L 44 24 10 15 66.7 0 0 - 4 7 57.1 4 10 14 2 1 0 3 1 -13
+p188
+aVJerry Stackhouse DET 03/15/1998 DET vs. UTA L 38 19 7 16 43.8 0 2 0.0 5 5 100.0 0 4 4 6 2 1 2 1 -7
+p189
+aVJoe Dumars DET 03/15/1998 DET vs. UTA L 32 6 2 11 18.2 2 8 25.0 0 0 - 0 1 1 3 0 0 0 0 -15
+p190
+aVLindsey Hunter DET 03/15/1998 DET vs. UTA L 24 5 2 9 22.2 1 5 20.0 0 0 - 0 1 1 4 1 1 1 6 -1
+p191
+aVGrant Hill DET 03/15/1998 DET vs. UTA L 43 29 11 19 57.9 0 0 - 7 12 58.3 3 5 8 1 1 0 3 0 -13
+p192
+aVDon Reid DET 03/15/1998 DET vs. UTA L 16 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 1 0 4 0
+p193
+aVJerome Williams DET 03/15/1998 DET vs. UTA L 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -2
+p194
+aVMalik Sealy DET 03/13/1998 DET @ BOS W 21 10 4 9 44.4 0 0 - 2 2 100.0 2 1 3 1 2 1 0 2 13
+p195
+aVJerry Stackhouse DET 03/13/1998 DET @ BOS W 31 19 5 9 55.6 0 1 0.0 9 12 75.0 3 2 5 3 1 2 4 0 13
+p196
+aVGrant Hill DET 03/13/1998 DET @ BOS W 44 19 4 11 36.4 0 0 - 11 13 84.6 0 6 6 3 1 0 3 4 1
+p197
+aVDon Reid DET 03/13/1998 DET @ BOS W 9 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 3 -3
+p198
+aVJoe Dumars DET 03/13/1998 DET @ BOS W 32 17 5 11 45.5 2 6 33.3 5 6 83.3 0 0 0 2 1 0 3 2 -12
+p199
+aVBison Dele DET 03/13/1998 DET @ BOS W 39 15 4 11 36.4 0 0 - 7 12 58.3 6 2 8 2 0 1 4 0 -3
+p200
+aVJerome Williams DET 03/13/1998 DET @ BOS W 22 10 4 4 100.0 0 0 - 2 2 100.0 2 6 8 0 1 0 0 1 -2
+p201
+aVLindsey Hunter DET 03/13/1998 DET @ BOS W 34 4 2 10 20.0 0 4 0.0 0 0 - 0 5 5 4 2 0 2 4 6
+p202
+aVRick Mahorn DET 03/13/1998 DET @ BOS W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 7
+p203
+aVDon Reid DET 03/11/1998 DET vs. IND W 21 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 4 14
+p204
+aVJerome Williams DET 03/11/1998 DET vs. IND W 21 12 3 3 100.0 0 0 - 6 7 85.7 0 2 2 3 2 1 2 4 18
+p205
+aVRick Mahorn DET 03/11/1998 DET vs. IND W 18 4 2 3 66.7 0 0 - 0 1 0.0 2 3 5 0 0 0 2 4 14
+p206
+aVScot Pollard DET 03/11/1998 DET vs. IND W 13 6 3 5 60.0 0 0 - 0 0 - 1 1 2 4 1 0 1 3 -2
+p207
+aVJoe Dumars DET 03/11/1998 DET vs. IND W 29 18 6 11 54.5 1 3 33.3 5 5 100.0 0 0 0 2 1 0 1 0 24
+p208
+aVCharles O'Bannon DET 03/11/1998 DET vs. IND W 10 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 1 1 0 0 0 -2
+p209
+aVSteve Henson DET 03/11/1998 DET vs. IND W 5 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 0
+p210
+aVJerry Stackhouse DET 03/11/1998 DET vs. IND W 25 19 6 8 75.0 0 0 - 7 8 87.5 0 4 4 2 1 0 0 2 29
+p211
+aVLindsey Hunter DET 03/11/1998 DET vs. IND W 23 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 1 2 1 1 0 -1
+p212
+aVBison Dele DET 03/11/1998 DET vs. IND W 22 20 7 10 70.0 0 0 - 6 6 100.0 3 4 7 0 3 0 1 3 18
+p213
+aVGrant Hill DET 03/11/1998 DET vs. IND W 31 23 7 13 53.8 0 0 - 9 10 90.0 1 11 12 5 1 0 2 2 36
+p214
+aVMalik Sealy DET 03/11/1998 DET vs. IND W 22 6 3 5 60.0 0 0 - 0 0 - 0 3 3 2 0 0 2 0 7
+p215
+aVGrant Hill DET 03/08/1998 DET @ LAL L 44 19 8 17 47.1 0 1 0.0 3 3 100.0 1 11 12 6 2 1 2 5 -13
+p216
+aVJerry Stackhouse DET 03/08/1998 DET @ LAL L 29 23 8 9 88.9 1 2 50.0 6 8 75.0 1 2 3 1 0 1 3 3 -1
+p217
+aVRick Mahorn DET 03/08/1998 DET @ LAL L 21 8 4 6 66.7 0 0 - 0 0 - 3 2 5 1 0 0 0 5 4
+p218
+aVLindsey Hunter DET 03/08/1998 DET @ LAL L 34 9 4 12 33.3 1 4 25.0 0 0 - 0 2 2 6 4 0 2 1 8
+p219
+aVDon Reid DET 03/08/1998 DET @ LAL L 16 2 1 4 25.0 0 0 - 0 0 - 3 2 5 0 0 0 0 4 -7
+p220
+aVJerome Williams DET 03/08/1998 DET @ LAL L 19 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 0 0 0 0 3 -2
+p221
+aVBison Dele DET 03/08/1998 DET @ LAL L 28 9 3 11 27.3 0 0 - 3 4 75.0 0 2 2 0 1 1 2 5 -3
+p222
+aVJoe Dumars DET 03/08/1998 DET @ LAL L 38 13 4 15 26.7 3 11 27.3 2 2 100.0 0 2 2 5 0 0 3 1 -20
+p223
+aVMalik Sealy DET 03/08/1998 DET @ LAL L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 2 1 0 0 0 4
+p224
+aVScot Pollard DET 03/08/1998 DET @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p225
+aVRick Mahorn DET 03/05/1998 DET @ PHX L 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 0
+p226
+aVLindsey Hunter DET 03/05/1998 DET @ PHX L 27 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 5 1 0 0 1 -8
+p227
+aVGrant Hill DET 03/05/1998 DET @ PHX L 39 11 5 14 35.7 0 1 0.0 1 3 33.3 1 6 7 5 1 0 3 4 -2
+p228
+aVJerome Williams DET 03/05/1998 DET @ PHX L 20 7 2 5 40.0 0 0 - 3 6 50.0 4 1 5 0 2 0 1 1 -16
+p229
+aVBison Dele DET 03/05/1998 DET @ PHX L 31 18 6 14 42.9 0 0 - 6 6 100.0 1 2 3 1 1 1 1 3 -1
+p230
+aVMalik Sealy DET 03/05/1998 DET @ PHX L 23 6 1 4 25.0 0 1 0.0 4 4 100.0 0 4 4 2 1 1 0 4 -6
+p231
+aVJoe Dumars DET 03/05/1998 DET @ PHX L 31 20 7 13 53.8 4 6 66.7 2 2 100.0 0 1 1 3 0 0 1 1 -14
+p232
+aVSteve Henson DET 03/05/1998 DET @ PHX L 2 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p233
+aVJerry Stackhouse DET 03/05/1998 DET @ PHX L 25 14 3 11 27.3 0 3 0.0 8 8 100.0 5 1 6 1 1 0 2 2 -6
+p234
+aVCharles O'Bannon DET 03/05/1998 DET @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p235
+aVDon Reid DET 03/05/1998 DET @ PHX L 16 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p236
+aVScot Pollard DET 03/05/1998 DET @ PHX L 11 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 1 0 0 2 2 -1
+p237
+aVRick Mahorn DET 03/04/1998 DET @ SAC L 19 4 2 6 33.3 0 0 - 0 0 - 4 5 9 2 0 0 3 1 -9
+p238
+aVJerry Stackhouse DET 03/04/1998 DET @ SAC L 24 5 2 9 22.2 1 3 33.3 0 0 - 0 1 1 2 0 0 1 1 -5
+p239
+aVSteve Henson DET 03/04/1998 DET @ SAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 3
+p240
+aVScot Pollard DET 03/04/1998 DET @ SAC L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 3
+p241
+aVJerome Williams DET 03/04/1998 DET @ SAC L 23 12 4 4 100.0 0 0 - 4 4 100.0 2 7 9 0 0 0 0 1 -7
+p242
+aVBison Dele DET 03/04/1998 DET @ SAC L 27 10 3 12 25.0 0 0 - 4 8 50.0 2 8 10 0 1 0 3 4 -10
+p243
+aVCharles O'Bannon DET 03/04/1998 DET @ SAC L 4 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 0 3
+p244
+aVJoe Dumars DET 03/04/1998 DET @ SAC L 33 9 3 9 33.3 3 6 50.0 0 0 - 0 1 1 1 1 0 1 0 -9
+p245
+aVMalik Sealy DET 03/04/1998 DET @ SAC L 18 7 2 4 50.0 1 1 100.0 2 2 100.0 1 0 1 0 0 1 0 4 -11
+p246
+aVDon Reid DET 03/04/1998 DET @ SAC L 22 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -16
+p247
+aVGrant Hill DET 03/04/1998 DET @ SAC L 35 22 8 22 36.4 0 0 - 6 7 85.7 1 1 2 3 2 0 3 3 -16
+p248
+aVLindsey Hunter DET 03/04/1998 DET @ SAC L 29 10 4 8 50.0 1 2 50.0 1 2 50.0 1 0 1 2 1 0 0 2 -26
+p249
+aVBison Dele DET 03/02/1998 DET vs. DAL W 33 8 3 8 37.5 0 0 - 2 3 66.7 3 3 6 2 1 0 4 3 7
+p250
+aVGrant Hill DET 03/02/1998 DET vs. DAL W 39 35 12 20 60.0 0 0 - 11 14 78.6 2 7 9 5 1 0 3 3 7
+p251
+aVRick Mahorn DET 03/02/1998 DET vs. DAL W 12 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 1 1 1
+p252
+aVLindsey Hunter DET 03/02/1998 DET vs. DAL W 34 10 2 9 22.2 1 3 33.3 5 6 83.3 2 2 4 1 1 0 2 1 1
+p253
+aVJerry Stackhouse DET 03/02/1998 DET vs. DAL W 32 20 7 14 50.0 1 3 33.3 5 7 71.4 0 2 2 3 0 1 2 3 14
+p254
+aVDon Reid DET 03/02/1998 DET vs. DAL W 25 6 3 4 75.0 0 0 - 0 0 - 3 2 5 0 1 1 0 3 -4
+p255
+aVJerome Williams DET 03/02/1998 DET vs. DAL W 22 9 4 7 57.1 0 0 - 1 2 50.0 7 7 14 1 1 0 2 5 10
+p256
+aVMalik Sealy DET 03/02/1998 DET vs. DAL W 12 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 1 -1
+p257
+aVJoe Dumars DET 03/02/1998 DET vs. DAL W 27 8 3 12 25.0 2 9 22.2 0 1 0.0 1 3 4 7 0 0 3 1 -2
+p258
+aVScot Pollard DET 03/02/1998 DET vs. DAL W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p259
+aVGrant Hill DET 03/01/1998 DET @ MIN L 47 19 8 19 42.1 0 0 - 3 6 50.0 1 4 5 9 0 2 4 5 0
+p260
+aVJerome Williams DET 03/01/1998 DET @ MIN L 37 10 3 8 37.5 0 0 - 4 5 80.0 3 5 8 0 2 0 2 1 -7
+p261
+aVMalik Sealy DET 03/01/1998 DET @ MIN L 14 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 2 1 0 1 -2
+p262
+aVJerry Stackhouse DET 03/01/1998 DET @ MIN L 28 9 2 8 25.0 0 2 0.0 5 6 83.3 1 2 3 3 0 0 2 1 -11
+p263
+aVDon Reid DET 03/01/1998 DET @ MIN L 21 6 2 2 100.0 0 0 - 2 3 66.7 1 3 4 0 0 1 0 2 5
+p264
+aVLindsey Hunter DET 03/01/1998 DET @ MIN L 40 14 6 11 54.5 2 3 66.7 0 0 - 1 5 6 9 3 0 2 6 11
+p265
+aVBison Dele DET 03/01/1998 DET @ MIN L 46 22 10 17 58.8 0 0 - 2 3 66.7 6 6 12 1 3 1 4 3 -2
+p266
+aVJoe Dumars DET 03/01/1998 DET @ MIN L 45 28 11 20 55.0 3 6 50.0 3 3 100.0 0 2 2 3 0 0 0 2 -4
+p267
+aVRick Mahorn DET 03/01/1998 DET @ MIN L 12 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 0 0
+p268
+aVDon Reid DET 02/27/1998 DET vs. CLE W 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 1 4 -2
+p269
+aVScot Pollard DET 02/27/1998 DET vs. CLE W 11 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 0 2 2 -6
+p270
+aVBison Dele DET 02/27/1998 DET vs. CLE W 25 17 7 11 63.6 0 0 - 3 4 75.0 3 5 8 0 0 1 4 6 -5
+p271
+aVLindsey Hunter DET 02/27/1998 DET vs. CLE W 38 16 5 10 50.0 1 4 25.0 5 9 55.6 0 2 2 0 2 0 0 0 13
+p272
+aVGrant Hill DET 02/27/1998 DET vs. CLE W 35 12 4 12 33.3 0 0 - 4 7 57.1 0 6 6 7 1 0 5 4 5
+p273
+aVRick Mahorn DET 02/27/1998 DET vs. CLE W 23 6 1 2 50.0 0 0 - 4 4 100.0 1 2 3 0 2 0 1 4 8
+p274
+aVJoe Dumars DET 02/27/1998 DET vs. CLE W 31 5 2 9 22.2 1 4 25.0 0 1 0.0 0 3 3 2 0 0 1 2 -8
+p275
+aVJerry Stackhouse DET 02/27/1998 DET vs. CLE W 23 10 4 8 50.0 1 2 50.0 1 4 25.0 1 2 3 4 0 0 2 0 4
+p276
+aVCharles O'Bannon DET 02/27/1998 DET vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p277
+aVJerome Williams DET 02/27/1998 DET vs. CLE W 30 17 7 16 43.8 0 0 - 3 3 100.0 8 4 12 1 0 1 0 3 11
+p278
+aVMalik Sealy DET 02/27/1998 DET vs. CLE W 17 3 0 3 0.0 0 1 0.0 3 4 75.0 1 3 4 2 1 0 2 2 -5
+p279
+aVJoe Dumars DET 02/25/1998 DET vs. CHH L 30 10 3 10 30.0 3 9 33.3 1 2 50.0 0 1 1 4 1 0 0 2 -8
+p280
+aVJerry Stackhouse DET 02/25/1998 DET vs. CHH L 25 6 2 7 28.6 0 4 0.0 2 4 50.0 0 2 2 1 0 0 1 1 -5
+p281
+aVDon Reid DET 02/25/1998 DET vs. CHH L 14 6 2 2 100.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 4 4
+p282
+aVScot Pollard DET 02/25/1998 DET vs. CHH L 14 2 1 5 20.0 0 0 - 0 0 - 3 1 4 1 0 0 0 1 -13
+p283
+aVJerome Williams DET 02/25/1998 DET vs. CHH L 20 5 2 4 50.0 0 0 - 1 2 50.0 4 7 11 1 1 0 0 4 0
+p284
+aVLindsey Hunter DET 02/25/1998 DET vs. CHH L 43 12 5 12 41.7 2 6 33.3 0 2 0.0 0 3 3 3 0 0 4 2 -10
+p285
+aVGrant Hill DET 02/25/1998 DET vs. CHH L 38 27 10 17 58.8 0 0 - 7 8 87.5 1 2 3 7 2 0 4 2 -6
+p286
+aVMalik Sealy DET 02/25/1998 DET vs. CHH L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -4
+p287
+aVRick Mahorn DET 02/25/1998 DET vs. CHH L 15 6 3 5 60.0 0 0 - 0 0 - 5 7 12 0 0 0 1 1 -7
+p288
+aVBison Dele DET 02/25/1998 DET vs. CHH L 30 14 7 12 58.3 0 0 - 0 0 - 2 4 6 2 0 1 1 6 -1
+p289
+aVJerry Stackhouse DET 02/23/1998 DET vs. SAC W 29 15 5 10 50.0 0 0 - 5 6 83.3 0 4 4 4 3 2 1 4 9
+p290
+aVEric Montross DET 02/23/1998 DET vs. SAC W 13 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 1 1 1 -4
+p291
+aVJoe Dumars DET 02/23/1998 DET vs. SAC W 24 14 5 8 62.5 4 7 57.1 0 0 - 0 1 1 3 2 0 0 1 16
+p292
+aVDon Reid DET 02/23/1998 DET vs. SAC W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 4 1
+p293
+aVCharles O'Bannon DET 02/23/1998 DET vs. SAC W 9 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -1
+p294
+aVJerome Williams DET 02/23/1998 DET vs. SAC W 29 7 2 3 66.7 0 0 - 3 4 75.0 1 5 6 1 4 0 1 3 18
+p295
+aVGrant Hill DET 02/23/1998 DET vs. SAC W 31 28 11 16 68.8 0 0 - 6 10 60.0 1 12 13 5 1 0 0 2 28
+p296
+aVRick Mahorn DET 02/23/1998 DET vs. SAC W 12 7 2 3 66.7 0 0 - 3 4 75.0 2 1 3 0 1 0 1 2 7
+p297
+aVMalik Sealy DET 02/23/1998 DET vs. SAC W 15 4 2 9 22.2 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 8
+p298
+aVLindsey Hunter DET 02/23/1998 DET vs. SAC W 31 5 2 9 22.2 0 4 0.0 1 2 50.0 1 3 4 7 1 0 0 3 22
+p299
+aVBison Dele DET 02/23/1998 DET vs. SAC W 23 19 8 14 57.1 0 0 - 3 3 100.0 2 2 4 1 2 0 3 2 21
+p300
+aVScot Pollard DET 02/23/1998 DET vs. SAC W 12 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 0 0 1 1 1 5
+p301
+aVEric Montross DET 02/21/1998 DET @ DAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 2
+p302
+aVBison Dele DET 02/21/1998 DET @ DAL W 29 19 9 13 69.2 0 0 - 1 1 100.0 4 5 9 2 1 0 2 4 6
+p303
+aVMalik Sealy DET 02/21/1998 DET @ DAL W 20 6 2 8 25.0 0 0 - 2 2 100.0 0 5 5 2 0 0 0 2 4
+p304
+aVLindsey Hunter DET 02/21/1998 DET @ DAL W 38 14 5 13 38.5 2 5 40.0 2 2 100.0 2 6 8 1 2 0 1 1 7
+p305
+aVDon Reid DET 02/21/1998 DET @ DAL W 12 2 0 0 - 0 0 - 2 4 50.0 0 2 2 0 0 0 1 0 0
+p306
+aVJerry Stackhouse DET 02/21/1998 DET @ DAL W 28 14 5 12 41.7 0 3 0.0 4 6 66.7 3 2 5 4 2 0 3 2 11
+p307
+aVRick Mahorn DET 02/21/1998 DET @ DAL W 13 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 0 1 2 1 7
+p308
+aVJoe Dumars DET 02/21/1998 DET @ DAL W 31 18 7 13 53.8 3 7 42.9 1 3 33.3 0 2 2 2 2 0 1 0 3
+p309
+aVGrant Hill DET 02/21/1998 DET @ DAL W 39 5 2 11 18.2 0 0 - 1 1 100.0 1 4 5 6 2 0 1 4 9
+p310
+aVJerome Williams DET 02/21/1998 DET @ DAL W 25 8 3 7 42.9 0 0 - 2 2 100.0 5 3 8 0 0 0 0 2 11
+p311
+aVCharles O'Bannon DET 02/19/1998 DET @ HOU L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p312
+aVJerome Williams DET 02/19/1998 DET @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p313
+aVBison Dele DET 02/19/1998 DET @ HOU L 32 6 2 9 22.2 0 0 - 2 2 100.0 1 4 5 2 1 1 0 3 -23
+p314
+aVJoe Dumars DET 02/19/1998 DET @ HOU L 31 19 7 14 50.0 3 7 42.9 2 2 100.0 0 2 2 2 1 0 1 1 -15
+p315
+aVEric Montross DET 02/19/1998 DET @ HOU L 23 6 3 3 100.0 0 0 - 0 0 - 4 4 8 1 0 1 0 4 3
+p316
+aVScot Pollard DET 02/19/1998 DET @ HOU L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p317
+aVRick Mahorn DET 02/19/1998 DET @ HOU L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 3
+p318
+aVLindsey Hunter DET 02/19/1998 DET @ HOU L 36 15 6 14 42.9 1 5 20.0 2 2 100.0 1 5 6 3 1 0 2 2 -9
+p319
+aVDon Reid DET 02/19/1998 DET @ HOU L 27 4 2 8 25.0 0 0 - 0 0 - 2 4 6 0 1 0 1 2 -7
+p320
+aVJerry Stackhouse DET 02/19/1998 DET @ HOU L 26 13 5 10 50.0 1 1 100.0 2 3 66.7 0 0 0 3 3 0 3 0 3
+p321
+aVMalik Sealy DET 02/19/1998 DET @ HOU L 13 9 4 5 80.0 0 0 - 1 2 50.0 0 3 3 1 2 0 1 2 -1
+p322
+aVGrant Hill DET 02/19/1998 DET @ HOU L 35 16 5 17 29.4 0 0 - 6 6 100.0 3 3 6 5 0 0 2 2 -15
+p323
+aVScot Pollard DET 02/17/1998 DET @ SAS L 23 4 1 2 50.0 0 0 - 2 2 100.0 4 1 5 0 0 0 0 2 -10
+p324
+aVMalik Sealy DET 02/17/1998 DET @ SAS L 26 13 6 9 66.7 0 0 - 1 3 33.3 0 3 3 1 1 0 1 1 -3
+p325
+aVJoe Dumars DET 02/17/1998 DET @ SAS L 35 21 9 18 50.0 3 8 37.5 0 0 - 0 0 0 4 1 0 1 2 9
+p326
+aVBison Dele DET 02/17/1998 DET @ SAS L 8 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 3 -3
+p327
+aVDon Reid DET 02/17/1998 DET @ SAS L 14 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 4 13
+p328
+aVLindsey Hunter DET 02/17/1998 DET @ SAS L 37 15 4 12 33.3 1 3 33.3 6 6 100.0 2 3 5 6 2 0 0 1 6
+p329
+aVRick Mahorn DET 02/17/1998 DET @ SAS L 14 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 7
+p330
+aVEric Montross DET 02/17/1998 DET @ SAS L 14 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 1 2 -11
+p331
+aVGrant Hill DET 02/17/1998 DET @ SAS L 44 20 8 17 47.1 0 0 - 4 4 100.0 0 4 4 12 4 0 2 1 4
+p332
+aVJerry Stackhouse DET 02/17/1998 DET @ SAS L 24 8 3 9 33.3 1 2 50.0 1 2 50.0 2 0 2 1 1 0 1 2 -17
+p333
+aVBison Dele DET 02/15/1998 DET @ CHI L 29 21 9 14 64.3 0 0 - 3 6 50.0 0 6 6 1 3 2 3 6 -1
+p334
+aVRick Mahorn DET 02/15/1998 DET @ CHI L 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 0 -15
+p335
+aVGrant Hill DET 02/15/1998 DET @ CHI L 44 20 9 22 40.9 0 0 - 2 4 50.0 1 8 9 13 4 1 3 1 -3
+p336
+aVDon Reid DET 02/15/1998 DET @ CHI L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -19
+p337
+aVMalik Sealy DET 02/15/1998 DET @ CHI L 15 4 2 7 28.6 0 0 - 0 1 0.0 0 1 1 2 2 0 1 1 -5
+p338
+aVJerry Stackhouse DET 02/15/1998 DET @ CHI L 18 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 3 2 -12
+p339
+aVJerome Williams DET 02/15/1998 DET @ CHI L 34 5 2 2 100.0 0 0 - 1 6 16.7 1 8 9 0 0 0 1 2 13
+p340
+aVJoe Dumars DET 02/15/1998 DET @ CHI L 35 5 1 5 20.0 0 4 0.0 3 4 75.0 0 0 0 3 1 0 1 4 -3
+p341
+aVLindsey Hunter DET 02/15/1998 DET @ CHI L 36 31 10 15 66.7 7 9 77.8 4 4 100.0 1 0 1 1 2 0 3 1 -4
+p342
+aVEric Montross DET 02/15/1998 DET @ CHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p343
+aVMalik Sealy DET 02/13/1998 DET @ MIA L 17 7 2 5 40.0 1 1 100.0 2 2 100.0 1 2 3 1 0 0 1 3 -8
+p344
+aVJerry Stackhouse DET 02/13/1998 DET @ MIA L 27 15 4 14 28.6 0 1 0.0 7 9 77.8 1 1 2 0 0 1 1 1 -1
+p345
+aVRick Mahorn DET 02/13/1998 DET @ MIA L 20 6 2 2 100.0 0 0 - 2 2 100.0 4 3 7 0 0 0 3 3 0
+p346
+aVEric Montross DET 02/13/1998 DET @ MIA L 6 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 4 -2
+p347
+aVGrant Hill DET 02/13/1998 DET @ MIA L 39 22 9 21 42.9 0 0 - 4 4 100.0 1 6 7 5 0 0 2 3 -9
+p348
+aVSteve Henson DET 02/13/1998 DET @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p349
+aVDon Reid DET 02/13/1998 DET @ MIA L 14 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 1 0 0 3 -11
+p350
+aVJoe Dumars DET 02/13/1998 DET @ MIA L 33 16 6 13 46.2 3 7 42.9 1 1 100.0 0 1 1 2 2 1 1 1 -16
+p351
+aVLindsey Hunter DET 02/13/1998 DET @ MIA L 26 0 0 6 0.0 0 4 0.0 0 0 - 0 3 3 1 2 0 1 1 -11
+p352
+aVGrant Long DET 02/13/1998 DET @ MIA L 11 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 0 3 -5
+p353
+aVJerome Williams DET 02/13/1998 DET @ MIA L 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 1
+p354
+aVBison Dele DET 02/13/1998 DET @ MIA L 34 14 4 11 36.4 0 1 0.0 6 6 100.0 4 12 16 2 2 0 4 3 -12
+p355
+aVGrant Long DET 02/11/1998 DET vs. MIL W 17 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 1 0 2 1 -1
+p356
+aVGrant Hill DET 02/11/1998 DET vs. MIL W 38 21 7 15 46.7 0 0 - 7 10 70.0 0 6 6 9 3 1 2 2 22
+p357
+aVJerry Stackhouse DET 02/11/1998 DET vs. MIL W 28 15 3 7 42.9 0 1 0.0 9 9 100.0 1 0 1 1 0 1 2 3 4
+p358
+aVMalik Sealy DET 02/11/1998 DET vs. MIL W 15 6 3 7 42.9 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -9
+p359
+aVEric Montross DET 02/11/1998 DET vs. MIL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p360
+aVLindsey Hunter DET 02/11/1998 DET vs. MIL W 29 9 2 7 28.6 1 2 50.0 4 4 100.0 1 3 4 3 1 0 2 2 5
+p361
+aVJoe Dumars DET 02/11/1998 DET vs. MIL W 34 16 6 12 50.0 4 7 57.1 0 0 - 1 0 1 5 4 0 2 0 16
+p362
+aVDon Reid DET 02/11/1998 DET vs. MIL W 24 6 3 5 60.0 0 0 - 0 0 - 1 4 5 2 1 3 1 2 13
+p363
+aVJerome Williams DET 02/11/1998 DET vs. MIL W 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -4
+p364
+aVBison Dele DET 02/11/1998 DET vs. MIL W 24 12 4 9 44.4 0 0 - 4 4 100.0 0 4 4 0 1 0 3 5 -4
+p365
+aVRick Mahorn DET 02/11/1998 DET vs. MIL W 18 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 0 1 4 20
+p366
+aVMalik Sealy DET 02/05/1998 DET vs. HOU W 19 14 7 9 77.8 0 0 - 0 1 0.0 0 3 3 0 2 0 1 2 -2
+p367
+aVGrant Long DET 02/05/1998 DET vs. HOU W 22 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 1 1 0 0 2 9
+p368
+aVGrant Hill DET 02/05/1998 DET vs. HOU W 38 24 11 18 61.1 0 0 - 2 4 50.0 2 5 7 5 0 0 2 2 22
+p369
+aVLindsey Hunter DET 02/05/1998 DET vs. HOU W 32 10 4 9 44.4 2 4 50.0 0 0 - 0 3 3 5 0 0 2 1 13
+p370
+aVJerome Williams DET 02/05/1998 DET vs. HOU W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -1
+p371
+aVDon Reid DET 02/05/1998 DET vs. HOU W 16 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 5 3
+p372
+aVEric Montross DET 02/05/1998 DET vs. HOU W 7 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 0 0 0 0 1 -14
+p373
+aVBison Dele DET 02/05/1998 DET vs. HOU W 31 13 6 8 75.0 0 0 - 1 2 50.0 5 6 11 1 0 0 2 2 15
+p374
+aVJerry Stackhouse DET 02/05/1998 DET vs. HOU W 19 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 0 0 1 2 1 -13
+p375
+aVRick Mahorn DET 02/05/1998 DET vs. HOU W 15 6 3 6 50.0 0 0 - 0 0 - 3 4 7 1 0 0 1 3 12
+p376
+aVSteve Henson DET 02/05/1998 DET vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p377
+aVJoe Dumars DET 02/05/1998 DET vs. HOU W 36 16 7 13 53.8 2 6 33.3 0 0 - 0 0 0 10 1 0 0 1 16
+p378
+aVLindsey Hunter DET 02/02/1998 DET @ WAS L 36 16 6 15 40.0 1 4 25.0 3 3 100.0 2 3 5 4 2 0 0 2 -12
+p379
+aVGrant Long DET 02/02/1998 DET @ WAS L 14 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 -7
+p380
+aVMalik Sealy DET 02/02/1998 DET @ WAS L 19 14 4 6 66.7 0 0 - 6 8 75.0 0 2 2 0 1 0 1 0 6
+p381
+aVJoe Dumars DET 02/02/1998 DET @ WAS L 27 4 1 9 11.1 0 4 0.0 2 3 66.7 0 2 2 6 0 0 1 0 -10
+p382
+aVJerry Stackhouse DET 02/02/1998 DET @ WAS L 27 22 7 16 43.8 2 4 50.0 6 7 85.7 3 1 4 0 1 3 3 3 -7
+p383
+aVDon Reid DET 02/02/1998 DET @ WAS L 34 11 3 7 42.9 0 0 - 5 6 83.3 3 4 7 2 0 2 0 3 1
+p384
+aVRick Mahorn DET 02/02/1998 DET @ WAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p385
+aVBison Dele DET 02/02/1998 DET @ WAS L 26 10 5 12 41.7 0 1 0.0 0 0 - 1 0 1 2 0 1 1 2 -16
+p386
+aVJerome Williams DET 02/02/1998 DET @ WAS L 20 4 0 2 0.0 0 0 - 4 6 66.7 2 2 4 0 1 0 0 0 4
+p387
+aVSteve Henson DET 02/02/1998 DET @ WAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p388
+aVGrant Hill DET 02/02/1998 DET @ WAS L 34 16 5 9 55.6 0 0 - 6 8 75.0 1 9 10 4 1 1 3 2 -15
+p389
+aVRick Mahorn DET 01/31/1998 DET @ CLE L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -2
+p390
+aVDon Reid DET 01/31/1998 DET @ CLE L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 3
+p391
+aVLindsey Hunter DET 01/31/1998 DET @ CLE L 31 18 7 18 38.9 0 3 0.0 4 5 80.0 0 1 1 3 2 0 2 3 7
+p392
+aVGrant Hill DET 01/31/1998 DET @ CLE L 42 19 6 17 35.3 0 0 - 7 9 77.8 3 7 10 7 3 0 1 2 0
+p393
+aVMalik Sealy DET 01/31/1998 DET @ CLE L 16 4 1 5 20.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 0 9
+p394
+aVBison Dele DET 01/31/1998 DET @ CLE L 37 10 5 10 50.0 0 0 - 0 0 - 1 6 7 2 2 1 0 4 -10
+p395
+aVJoe Dumars DET 01/31/1998 DET @ CLE L 25 11 3 11 27.3 2 6 33.3 3 3 100.0 1 0 1 2 1 0 0 0 -3
+p396
+aVJerry Stackhouse DET 01/31/1998 DET @ CLE L 33 11 3 12 25.0 1 5 20.0 4 5 80.0 0 4 4 1 0 0 1 1 -6
+p397
+aVEric Montross DET 01/31/1998 DET @ CLE L 17 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -6
+p398
+aVJerome Williams DET 01/31/1998 DET @ CLE L 27 7 3 6 50.0 0 0 - 1 1 100.0 3 3 6 2 0 0 1 5 3
+p399
+aVEric Montross DET 01/30/1998 DET vs. WAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p400
+aVGrant Long DET 01/30/1998 DET vs. WAS L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -10
+p401
+aVSteve Henson DET 01/30/1998 DET vs. WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p402
+aVJerry Stackhouse DET 01/30/1998 DET vs. WAS L 41 10 3 10 30.0 0 2 0.0 4 6 66.7 3 3 6 3 0 1 4 1 -5
+p403
+aVMalik Sealy DET 01/30/1998 DET vs. WAS L 24 12 5 12 41.7 1 2 50.0 1 2 50.0 0 4 4 1 0 0 1 4 4
+p404
+aVGrant Hill DET 01/30/1998 DET vs. WAS L 44 28 10 18 55.6 0 0 - 8 11 72.7 1 9 10 5 0 1 2 5 -11
+p405
+aVLindsey Hunter DET 01/30/1998 DET vs. WAS L 23 10 4 12 33.3 0 3 0.0 2 4 50.0 1 1 2 1 2 0 3 3 -10
+p406
+aVRick Mahorn DET 01/30/1998 DET vs. WAS L 17 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -10
+p407
+aVJerome Williams DET 01/30/1998 DET vs. WAS L 38 11 4 6 66.7 0 0 - 3 4 75.0 5 5 10 2 2 1 2 4 9
+p408
+aVJoe Dumars DET 01/30/1998 DET vs. WAS L 32 15 4 10 40.0 3 8 37.5 4 4 100.0 0 2 2 1 0 1 3 5 3
+p409
+aVDon Reid DET 01/30/1998 DET vs. WAS L 11 4 1 4 25.0 0 0 - 2 2 100.0 3 0 3 0 1 0 0 5 -2
+p410
+aVRick Mahorn DET 01/28/1998 DET vs. ORL W 24 4 2 3 66.7 0 0 - 0 0 - 1 3 4 2 0 1 0 2 15
+p411
+aVJerry Stackhouse DET 01/28/1998 DET vs. ORL W 29 18 7 13 53.8 1 4 25.0 3 5 60.0 0 0 0 1 0 0 3 2 -5
+p412
+aVJerome Williams DET 01/28/1998 DET vs. ORL W 24 9 3 5 60.0 0 0 - 3 4 75.0 3 4 7 2 2 0 3 3 13
+p413
+aVJoe Dumars DET 01/28/1998 DET vs. ORL W 30 8 2 5 40.0 2 5 40.0 2 3 66.7 0 1 1 5 1 0 0 1 7
+p414
+aVGrant Hill DET 01/28/1998 DET vs. ORL W 37 29 9 17 52.9 0 0 - 11 17 64.7 1 11 12 6 2 1 8 5 2
+p415
+aVMalik Sealy DET 01/28/1998 DET vs. ORL W 22 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 2 0 2 3 11
+p416
+aVDon Reid DET 01/28/1998 DET vs. ORL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 2 3
+p417
+aVEric Montross DET 01/28/1998 DET vs. ORL W 9 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -9
+p418
+aVGrant Long DET 01/28/1998 DET vs. ORL W 30 8 4 8 50.0 0 0 - 0 0 - 1 3 4 1 1 0 0 2 -14
+p419
+aVLindsey Hunter DET 01/28/1998 DET vs. ORL W 28 11 5 9 55.6 0 1 0.0 1 3 33.3 1 0 1 4 4 0 1 1 2
+p420
+aVDon Reid DET 01/27/1998 DET @ MIL L 27 10 4 6 66.7 0 0 - 2 2 100.0 2 2 4 1 1 1 1 4 2
+p421
+aVGrant Hill DET 01/27/1998 DET @ MIL L 40 19 8 14 57.1 0 0 - 3 5 60.0 1 12 13 6 1 3 6 3 8
+p422
+aVEric Montross DET 01/27/1998 DET @ MIL L 24 1 0 1 0.0 0 0 - 1 4 25.0 2 6 8 0 1 2 0 3 2
+p423
+aVJerome Williams DET 01/27/1998 DET @ MIL L 13 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 0 1 2 -9
+p424
+aVMalik Sealy DET 01/27/1998 DET @ MIL L 21 8 3 8 37.5 0 0 - 2 2 100.0 1 3 4 3 1 0 1 4 -15
+p425
+aVLindsey Hunter DET 01/27/1998 DET @ MIL L 18 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -11
+p426
+aVRick Mahorn DET 01/27/1998 DET @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -5
+p427
+aVJoe Dumars DET 01/27/1998 DET @ MIL L 39 20 8 16 50.0 3 9 33.3 1 1 100.0 1 1 2 3 0 0 3 2 11
+p428
+aVGrant Long DET 01/27/1998 DET @ MIL L 14 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p429
+aVJerry Stackhouse DET 01/27/1998 DET @ MIL L 41 19 6 21 28.6 2 7 28.6 5 7 71.4 5 3 8 5 2 1 3 0 3
+p430
+aVSteve Henson DET 01/27/1998 DET @ MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p431
+aVGrant Hill DET 01/24/1998 DET vs. NYK L 43 20 7 17 41.2 0 0 - 6 10 60.0 0 8 8 7 1 1 4 2 3
+p432
+aVGrant Long DET 01/24/1998 DET vs. NYK L 23 5 1 2 50.0 0 0 - 3 4 75.0 4 3 7 0 1 0 0 2 -15
+p433
+aVEric Montross DET 01/24/1998 DET vs. NYK L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p434
+aVRick Mahorn DET 01/24/1998 DET vs. NYK L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p435
+aVSteve Henson DET 01/24/1998 DET vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p436
+aVJerry Stackhouse DET 01/24/1998 DET vs. NYK L 45 35 13 20 65.0 0 3 0.0 9 10 90.0 2 3 5 4 1 0 4 4 0
+p437
+aVMalik Sealy DET 01/24/1998 DET vs. NYK L 31 8 3 10 30.0 0 1 0.0 2 2 100.0 1 3 4 1 1 0 0 4 -6
+p438
+aVJerome Williams DET 01/24/1998 DET vs. NYK L 10 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 1 2 0 0 3 -5
+p439
+aVJoe Dumars DET 01/24/1998 DET vs. NYK L 44 12 4 10 40.0 2 4 50.0 2 2 100.0 1 1 2 5 2 0 0 1 -10
+p440
+aVBison Dele DET 01/24/1998 DET vs. NYK L 37 8 4 10 40.0 0 0 - 0 0 - 1 9 10 2 0 1 3 2 -5
+p441
+aVDon Reid DET 01/22/1998 DET @ LAC W 11 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 0 2 2 4 4
+p442
+aVCharles O'Bannon DET 01/22/1998 DET @ LAC W 2 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 0 0
+p443
+aVSteve Henson DET 01/22/1998 DET @ LAC W 8 6 1 1 100.0 0 0 - 4 4 100.0 0 1 1 0 0 0 0 1 3
+p444
+aVJerry Stackhouse DET 01/22/1998 DET @ LAC W 33 8 3 14 21.4 0 1 0.0 2 4 50.0 2 1 3 3 1 0 1 3 9
+p445
+aVJoe Dumars DET 01/22/1998 DET @ LAC W 33 18 7 17 41.2 2 8 25.0 2 2 100.0 0 5 5 2 0 0 0 2 6
+p446
+aVRick Mahorn DET 01/22/1998 DET @ LAC W 20 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 15
+p447
+aVEric Montross DET 01/22/1998 DET @ LAC W 13 6 3 4 75.0 0 0 - 0 0 - 4 1 5 0 0 2 0 4 -4
+p448
+aVGrant Hill DET 01/22/1998 DET @ LAC W 42 35 12 22 54.5 0 0 - 11 14 78.6 0 4 4 4 0 0 1 2 19
+p449
+aVGrant Long DET 01/22/1998 DET @ LAC W 24 4 1 5 20.0 0 0 - 2 2 100.0 6 4 10 0 3 1 0 4 7
+p450
+aVJerome Williams DET 01/22/1998 DET @ LAC W 24 6 3 7 42.9 0 0 - 0 2 0.0 2 5 7 1 0 0 2 2 8
+p451
+aVMalik Sealy DET 01/22/1998 DET @ LAC W 30 4 1 5 20.0 0 0 - 2 2 100.0 0 4 4 2 0 0 2 3 23
+p452
+aVGrant Hill DET 01/21/1998 DET @ DEN W 40 10 5 18 27.8 0 1 0.0 0 2 0.0 3 7 10 5 2 4 2 2 22
+p453
+aVGrant Long DET 01/21/1998 DET @ DEN W 19 3 1 3 33.3 0 0 - 1 1 100.0 3 6 9 3 0 0 1 0 -4
+p454
+aVRick Mahorn DET 01/21/1998 DET @ DEN W 18 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 0 0 1 2 3 9
+p455
+aVEric Montross DET 01/21/1998 DET @ DEN W 14 5 1 2 50.0 0 0 - 3 4 75.0 3 3 6 0 0 1 2 4 -1
+p456
+aVJerry Stackhouse DET 01/21/1998 DET @ DEN W 46 21 6 18 33.3 2 5 40.0 7 10 70.0 2 4 6 3 0 0 0 1 17
+p457
+aVCharles O'Bannon DET 01/21/1998 DET @ DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p458
+aVDon Reid DET 01/21/1998 DET @ DEN W 10 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 0 1 2 1 2 11
+p459
+aVMalik Sealy DET 01/21/1998 DET @ DEN W 31 10 4 11 36.4 0 0 - 2 2 100.0 0 5 5 7 1 1 0 1 24
+p460
+aVJoe Dumars DET 01/21/1998 DET @ DEN W 35 20 7 16 43.8 5 10 50.0 1 1 100.0 0 0 0 2 1 0 1 2 15
+p461
+aVBison Dele DET 01/21/1998 DET @ DEN W 6 3 1 3 33.3 0 0 - 1 1 100.0 2 0 2 0 0 0 0 3 -2
+p462
+aVJerome Williams DET 01/21/1998 DET @ DEN W 18 5 2 3 66.7 0 0 - 1 2 50.0 3 4 7 1 0 1 1 1 2
+p463
+aVSteve Henson DET 01/21/1998 DET @ DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p464
+aVGrant Long DET 01/19/1998 DET @ UTA L 29 1 0 2 0.0 0 0 - 1 4 25.0 2 5 7 3 2 3 1 4 3
+p465
+aVJerry Stackhouse DET 01/19/1998 DET @ UTA L 42 17 5 12 41.7 1 4 25.0 6 8 75.0 2 2 4 2 1 0 1 4 0
+p466
+aVEric Montross DET 01/19/1998 DET @ UTA L 17 6 3 4 75.0 0 0 - 0 0 - 5 1 6 1 0 0 1 6 -3
+p467
+aVRick Mahorn DET 01/19/1998 DET @ UTA L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -11
+p468
+aVMalik Sealy DET 01/19/1998 DET @ UTA L 29 9 3 4 75.0 1 1 100.0 2 2 100.0 2 3 5 1 1 0 0 0 -9
+p469
+aVJoe Dumars DET 01/19/1998 DET @ UTA L 36 12 5 13 38.5 1 6 16.7 1 2 50.0 0 1 1 6 2 0 1 2 -16
+p470
+aVSteve Henson DET 01/19/1998 DET @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p471
+aVBison Dele DET 01/19/1998 DET @ UTA L 40 18 7 15 46.7 0 0 - 4 4 100.0 4 13 17 4 0 0 5 4 -8
+p472
+aVGrant Hill DET 01/19/1998 DET @ UTA L 39 26 8 23 34.8 0 1 0.0 10 16 62.5 1 3 4 1 0 0 1 4 -1
+p473
+aVGrant Hill DET 01/15/1998 DET vs. CHH W 46 30 11 21 52.4 0 0 - 8 10 80.0 0 5 5 9 2 1 5 2 -2
+p474
+aVMalik Sealy DET 01/15/1998 DET vs. CHH W 30 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 2 4 0 0 3 8
+p475
+aVJoe Dumars DET 01/15/1998 DET vs. CHH W 47 16 6 14 42.9 4 8 50.0 0 0 - 2 3 5 9 1 0 1 1 1
+p476
+aVGrant Long DET 01/15/1998 DET vs. CHH W 39 6 3 9 33.3 0 1 0.0 0 0 - 1 3 4 4 2 1 2 5 1
+p477
+aVDon Reid DET 01/15/1998 DET vs. CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p478
+aVJerome Williams DET 01/15/1998 DET vs. CHH W 9 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 2 4 2
+p479
+aVJerry Stackhouse DET 01/15/1998 DET vs. CHH W 38 18 8 16 50.0 2 7 28.6 0 1 0.0 1 0 1 4 2 0 4 1 -4
+p480
+aVEric Montross DET 01/15/1998 DET vs. CHH W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p481
+aVRick Mahorn DET 01/15/1998 DET vs. CHH W 11 0 0 0 - 0 0 - 0 2 0.0 1 3 4 0 0 0 0 1 7
+p482
+aVBison Dele DET 01/15/1998 DET vs. CHH W 38 15 7 15 46.7 0 0 - 1 2 50.0 4 5 9 0 1 0 3 5 -6
+p483
+aVJerome Williams DET 01/14/1998 DET @ IND L 15 4 1 3 33.3 0 0 - 2 2 100.0 4 4 8 0 3 0 1 1 12
+p484
+aVGrant Hill DET 01/14/1998 DET @ IND L 44 37 15 29 51.7 0 0 - 7 11 63.6 2 5 7 5 6 0 3 4 -6
+p485
+aVBison Dele DET 01/14/1998 DET @ IND L 31 10 3 8 37.5 0 0 - 4 6 66.7 3 4 7 0 2 1 2 1 -15
+p486
+aVGrant Long DET 01/14/1998 DET @ IND L 18 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 2
+p487
+aVEric Montross DET 01/14/1998 DET @ IND L 16 2 1 3 33.3 0 0 - 0 0 - 3 1 4 1 0 1 1 4 -17
+p488
+aVMalik Sealy DET 01/14/1998 DET @ IND L 27 6 1 3 33.3 0 0 - 4 4 100.0 1 1 2 0 0 1 2 3 8
+p489
+aVJerry Stackhouse DET 01/14/1998 DET @ IND L 22 6 3 8 37.5 0 1 0.0 0 0 - 1 0 1 0 1 2 7 4 -24
+p490
+aVRick Mahorn DET 01/14/1998 DET @ IND L 19 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 0 0 5 3
+p491
+aVCharles O'Bannon DET 01/14/1998 DET @ IND L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p492
+aVJoe Dumars DET 01/14/1998 DET @ IND L 42 23 10 21 47.6 1 6 16.7 2 3 66.7 0 0 0 1 0 0 0 1 1
+p493
+aVEric Montross DET 01/11/1998 DET vs. LAC W 11 6 3 6 50.0 0 0 - 0 0 - 3 2 5 0 0 2 1 2 -3
+p494
+aVRick Mahorn DET 01/11/1998 DET vs. LAC W 14 1 0 2 0.0 0 0 - 1 2 50.0 1 4 5 0 1 0 1 1 21
+p495
+aVDon Reid DET 01/11/1998 DET vs. LAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p496
+aVGrant Hill DET 01/11/1998 DET vs. LAC W 36 33 15 23 65.2 0 0 - 3 3 100.0 1 9 10 6 3 3 4 1 23
+p497
+aVJoe Dumars DET 01/11/1998 DET vs. LAC W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 6
+p498
+aVJerry Stackhouse DET 01/11/1998 DET vs. LAC W 41 20 6 13 46.2 1 4 25.0 7 9 77.8 1 4 5 8 3 0 3 0 37
+p499
+aVCharles O'Bannon DET 01/11/1998 DET vs. LAC W 16 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 1 0 2 2 0
+p500
+aVGrant Long DET 01/11/1998 DET vs. LAC W 21 8 4 8 50.0 0 0 - 0 0 - 4 2 6 1 1 0 0 3 6
+p501
+aVBison Dele DET 01/11/1998 DET vs. LAC W 31 12 6 15 40.0 0 0 - 0 0 - 4 3 7 2 1 2 5 3 24
+p502
+aVScot Pollard DET 01/11/1998 DET vs. LAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -2
+p503
+aVMalik Sealy DET 01/11/1998 DET vs. LAC W 38 17 5 10 50.0 0 0 - 7 8 87.5 4 7 11 6 4 0 2 4 18
+p504
+aVJerome Williams DET 01/11/1998 DET vs. LAC W 19 8 2 6 33.3 0 0 - 4 4 100.0 3 3 6 1 1 0 0 0 14
+p505
+aVDon Reid DET 01/09/1998 DET vs. GSW W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p506
+aVCharles O'Bannon DET 01/09/1998 DET vs. GSW W 10 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 8
+p507
+aVRick Mahorn DET 01/09/1998 DET vs. GSW W 17 8 3 5 60.0 0 0 - 2 2 100.0 2 3 5 0 1 0 1 3 12
+p508
+aVEric Montross DET 01/09/1998 DET vs. GSW W 12 5 2 5 40.0 0 0 - 1 1 100.0 1 3 4 0 0 1 0 1 4
+p509
+aVGrant Hill DET 01/09/1998 DET vs. GSW W 37 14 6 16 37.5 0 0 - 2 4 50.0 0 4 4 9 4 1 1 1 30
+p510
+aVJoe Dumars DET 01/09/1998 DET vs. GSW W 30 5 1 7 14.3 1 3 33.3 2 2 100.0 0 1 1 5 0 0 1 0 13
+p511
+aVJerry Stackhouse DET 01/09/1998 DET vs. GSW W 32 19 5 14 35.7 0 2 0.0 9 10 90.0 0 5 5 5 1 1 1 2 17
+p512
+aVJerome Williams DET 01/09/1998 DET vs. GSW W 20 8 4 4 100.0 0 0 - 0 0 - 4 8 12 1 1 0 0 2 14
+p513
+aVScot Pollard DET 01/09/1998 DET vs. GSW W 4 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 0 4
+p514
+aVMalik Sealy DET 01/09/1998 DET vs. GSW W 31 14 6 12 50.0 0 1 0.0 2 2 100.0 1 3 4 1 1 0 4 2 15
+p515
+aVGrant Long DET 01/09/1998 DET vs. GSW W 18 8 3 4 75.0 0 0 - 2 2 100.0 4 3 7 1 1 0 1 1 16
+p516
+aVBison Dele DET 01/09/1998 DET vs. GSW W 24 12 6 11 54.5 0 0 - 0 0 - 2 0 2 0 0 1 2 3 12
+p517
+aVBison Dele DET 01/03/1998 DET vs. CHI L 40 10 4 14 28.6 0 0 - 2 3 66.7 1 5 6 0 1 0 1 5 -16
+p518
+aVJerry Stackhouse DET 01/03/1998 DET vs. CHI L 47 22 10 22 45.5 0 3 0.0 2 3 66.7 4 0 4 4 3 1 1 2 -9
+p519
+aVJoe Dumars DET 01/03/1998 DET vs. CHI L 42 17 6 12 50.0 5 9 55.6 0 0 - 0 1 1 6 0 0 1 3 -5
+p520
+aVEric Montross DET 01/03/1998 DET vs. CHI L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -9
+p521
+aVCharles O'Bannon DET 01/03/1998 DET vs. CHI L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p522
+aVRick Mahorn DET 01/03/1998 DET vs. CHI L 21 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 0 0 1 3 12
+p523
+aVJerome Williams DET 01/03/1998 DET vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p524
+aVMalik Sealy DET 01/03/1998 DET vs. CHI L 16 10 5 10 50.0 0 2 0.0 0 0 - 2 3 5 1 1 1 0 1 -5
+p525
+aVGrant Long DET 01/03/1998 DET vs. CHI L 19 4 2 6 33.3 0 0 - 0 0 - 0 3 3 0 1 1 0 2 -3
+p526
+aVGrant Hill DET 01/03/1998 DET vs. CHI L 45 31 11 21 52.4 0 0 - 9 11 81.8 1 6 7 6 6 1 5 0 -10
+p527
+aVJoe Dumars DET 01/02/1998 DET @ TOR W 42 23 9 15 60.0 5 8 62.5 0 0 - 1 1 2 8 0 0 0 0 18
+p528
+aVMalik Sealy DET 01/02/1998 DET @ TOR W 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 1 3 -6
+p529
+aVBison Dele DET 01/02/1998 DET @ TOR W 37 26 12 24 50.0 0 0 - 2 2 100.0 6 7 13 1 0 1 2 2 19
+p530
+aVGrant Long DET 01/02/1998 DET @ TOR W 31 5 1 3 33.3 0 0 - 3 4 75.0 4 2 6 2 1 1 0 6 13
+p531
+aVJerome Williams DET 01/02/1998 DET @ TOR W 18 4 2 5 40.0 0 0 - 0 0 - 4 2 6 0 2 1 0 2 -17
+p532
+aVJerry Stackhouse DET 01/02/1998 DET @ TOR W 43 20 7 12 58.3 0 3 0.0 6 8 75.0 0 2 2 7 0 1 4 1 6
+p533
+aVGrant Hill DET 01/02/1998 DET @ TOR W 42 11 4 15 26.7 0 0 - 3 7 42.9 0 5 5 10 4 2 4 1 -4
+p534
+aVEric Montross DET 01/02/1998 DET @ TOR W 8 0 0 1 0.0 0 0 - 0 2 0.0 1 3 4 0 1 0 0 1 -9
+p535
+aVCharles O'Bannon DET 01/02/1998 DET @ TOR W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -5
+p536
+aVJoe Dumars DET 12/30/1997 DET vs. TOR W 39 24 7 11 63.6 2 3 66.7 8 8 100.0 2 2 4 7 0 0 3 2 4
+p537
+aVGrant Hill DET 12/30/1997 DET vs. TOR W 46 29 10 16 62.5 0 0 - 9 13 69.2 1 6 7 2 1 2 5 3 3
+p538
+aVCharles O'Bannon DET 12/30/1997 DET vs. TOR W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p539
+aVJerome Williams DET 12/30/1997 DET vs. TOR W 14 3 1 6 16.7 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 1
+p540
+aVGrant Long DET 12/30/1997 DET vs. TOR W 30 3 1 3 33.3 0 0 - 1 2 50.0 2 5 7 2 1 0 1 6 14
+p541
+aVJerry Stackhouse DET 12/30/1997 DET vs. TOR W 41 24 5 19 26.3 1 3 33.3 13 14 92.9 6 2 8 1 2 2 2 2 8
+p542
+aVBison Dele DET 12/30/1997 DET vs. TOR W 40 13 5 11 45.5 0 0 - 3 4 75.0 2 13 15 1 0 1 3 3 6
+p543
+aVEric Montross DET 12/30/1997 DET vs. TOR W 11 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -9
+p544
+aVMalik Sealy DET 12/30/1997 DET vs. TOR W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 3 -1
+p545
+aVGrant Hill DET 12/28/1997 DET vs. MIN L 42 27 12 17 70.6 0 0 - 3 5 60.0 0 6 6 6 4 1 3 2 2
+p546
+aVBison Dele DET 12/28/1997 DET vs. MIN L 40 19 8 16 50.0 0 0 - 3 6 50.0 5 11 16 0 0 1 2 1 4
+p547
+aVLindsey Hunter DET 12/28/1997 DET vs. MIN L 37 12 4 11 36.4 3 9 33.3 1 2 50.0 1 2 3 4 1 0 1 4 -8
+p548
+aVGrant Long DET 12/28/1997 DET vs. MIN L 31 2 0 3 0.0 0 1 0.0 2 2 100.0 1 3 4 0 1 0 0 4 -3
+p549
+aVJoe Dumars DET 12/28/1997 DET vs. MIN L 36 16 7 17 41.2 1 7 14.3 1 1 100.0 0 3 3 4 2 0 2 2 0
+p550
+aVJerry Stackhouse DET 12/28/1997 DET vs. MIN L 19 2 1 9 11.1 0 4 0.0 0 0 - 1 1 2 2 0 0 1 1 -11
+p551
+aVJerome Williams DET 12/28/1997 DET vs. MIN L 18 8 3 11 27.3 0 0 - 2 3 66.7 4 1 5 1 1 0 0 1 -3
+p552
+aVEric Montross DET 12/28/1997 DET vs. MIN L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -8
+p553
+aVMalik Sealy DET 12/28/1997 DET vs. MIN L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 7
+p554
+aVCharles O'Bannon DET 12/26/1997 DET vs. MIA L 4 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 2 0 0 0 1 1
+p555
+aVGrant Hill DET 12/26/1997 DET vs. MIA L 39 15 5 15 33.3 0 0 - 5 6 83.3 1 8 9 5 1 1 4 2 -8
+p556
+aVMalik Sealy DET 12/26/1997 DET vs. MIA L 11 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 1 -1
+p557
+aVJerry Stackhouse DET 12/26/1997 DET vs. MIA L 33 11 3 9 33.3 0 1 0.0 5 8 62.5 3 1 4 1 1 0 3 4 -9
+p558
+aVJoe Dumars DET 12/26/1997 DET vs. MIA L 29 8 2 5 40.0 0 3 0.0 4 4 100.0 0 1 1 4 2 0 2 0 -19
+p559
+aVBison Dele DET 12/26/1997 DET vs. MIA L 35 20 9 17 52.9 0 0 - 2 4 50.0 6 8 14 0 1 2 1 1 -7
+p560
+aVLindsey Hunter DET 12/26/1997 DET vs. MIA L 32 8 3 9 33.3 2 4 50.0 0 0 - 1 2 3 4 0 0 2 2 -7
+p561
+aVEric Montross DET 12/26/1997 DET vs. MIA L 27 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 0 1 1 3 3 -7
+p562
+aVJerome Williams DET 12/26/1997 DET vs. MIA L 15 0 0 3 0.0 0 0 - 0 2 0.0 2 3 5 0 0 0 1 4 -4
+p563
+aVGrant Long DET 12/26/1997 DET vs. MIA L 14 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 0 2 0 0 1 -9
+p564
+aVGrant Long DET 12/22/1997 DET @ PHI W 13 8 3 4 75.0 0 0 - 2 3 66.7 1 2 3 0 0 0 2 2 15
+p565
+aVBison Dele DET 12/22/1997 DET @ PHI W 37 17 7 13 53.8 0 0 - 3 3 100.0 2 6 8 0 0 1 4 4 -1
+p566
+aVMalik Sealy DET 12/22/1997 DET @ PHI W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p567
+aVEric Montross DET 12/22/1997 DET @ PHI W 17 0 0 3 0.0 0 0 - 0 2 0.0 2 5 7 0 1 0 1 2 1
+p568
+aVJerry Stackhouse DET 12/22/1997 DET @ PHI W 34 17 3 10 30.0 1 5 20.0 10 11 90.9 1 4 5 3 0 3 7 3 8
+p569
+aVDon Reid DET 12/22/1997 DET @ PHI W 6 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 1 3 1
+p570
+aVLindsey Hunter DET 12/22/1997 DET @ PHI W 44 17 6 11 54.5 3 4 75.0 2 4 50.0 0 6 6 5 1 1 0 2 5
+p571
+aVJerome Williams DET 12/22/1997 DET @ PHI W 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 2 -8
+p572
+aVGrant Hill DET 12/22/1997 DET @ PHI W 43 22 5 11 45.5 1 2 50.0 11 14 78.6 1 9 10 8 1 3 3 6 7
+p573
+aVJoe Dumars DET 12/22/1997 DET @ PHI W 23 11 3 8 37.5 1 5 20.0 4 5 80.0 1 2 3 0 0 0 0 3 -2
+p574
+aVMalik Sealy DET 12/20/1997 DET vs. PHI W 26 14 5 9 55.6 0 0 - 4 5 80.0 1 6 7 2 1 2 1 0 34
+p575
+aVJerome Williams DET 12/20/1997 DET vs. PHI W 25 22 8 10 80.0 0 0 - 6 10 60.0 6 7 13 2 2 0 0 2 26
+p576
+aVDon Reid DET 12/20/1997 DET vs. PHI W 13 2 0 1 0.0 0 0 - 2 4 50.0 0 2 2 0 0 1 0 5 8
+p577
+aVBison Dele DET 12/20/1997 DET vs. PHI W 11 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 -2
+p578
+aVGrant Hill DET 12/20/1997 DET vs. PHI W 31 18 7 18 38.9 0 0 - 4 6 66.7 3 4 7 3 1 0 1 1 19
+p579
+aVScot Pollard DET 12/20/1997 DET vs. PHI W 7 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 2 3
+p580
+aVCharles O'Bannon DET 12/20/1997 DET vs. PHI W 8 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 0 6
+p581
+aVJoe Dumars DET 12/20/1997 DET vs. PHI W 19 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 3 1 0 1 2 -4
+p582
+aVEric Montross DET 12/20/1997 DET vs. PHI W 22 6 3 7 42.9 0 0 - 0 0 - 4 10 14 0 0 1 1 5 9
+p583
+aVJerry Stackhouse DET 12/20/1997 DET vs. PHI W 29 20 5 14 35.7 1 3 33.3 9 10 90.0 1 2 3 4 2 1 2 0 35
+p584
+aVGrant Long DET 12/20/1997 DET vs. PHI W 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 1 23
+p585
+aVLindsey Hunter DET 12/20/1997 DET vs. PHI W 37 17 6 16 37.5 2 5 40.0 3 4 75.0 0 4 4 7 3 0 1 3 28
+p586
+aVLindsey Hunter DET 12/19/1997 DET @ IND L 28 2 1 8 12.5 0 0 - 0 0 - 1 1 2 1 2 0 0 1 -9
+p587
+aVScot Pollard DET 12/19/1997 DET @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p588
+aVBison Dele DET 12/19/1997 DET @ IND L 43 25 12 21 57.1 0 0 - 1 3 33.3 5 9 14 2 1 1 1 2 -8
+p589
+aVEric Montross DET 12/19/1997 DET @ IND L 35 0 0 1 0.0 0 0 - 0 0 - 0 5 5 1 1 1 1 5 -6
+p590
+aVDon Reid DET 12/19/1997 DET @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p591
+aVCharles O'Bannon DET 12/19/1997 DET @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p592
+aVMalik Sealy DET 12/19/1997 DET @ IND L 24 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 4 2 0 3 5 1
+p593
+aVJerry Stackhouse DET 12/19/1997 DET @ IND L 31 33 13 20 65.0 0 0 - 7 7 100.0 0 1 1 4 0 0 4 4 -2
+p594
+aVGrant Hill DET 12/19/1997 DET @ IND L 38 20 8 18 44.4 0 0 - 4 7 57.1 1 5 6 7 3 0 3 1 -10
+p595
+aVJerome Williams DET 12/19/1997 DET @ IND L 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p596
+aVJoe Dumars DET 12/19/1997 DET @ IND L 24 5 2 4 50.0 0 1 0.0 1 1 100.0 0 2 2 1 1 0 3 1 -9
+p597
+aVGrant Hill DET 12/17/1997 DET @ NJN L 45 25 10 19 52.6 0 1 0.0 5 8 62.5 2 8 10 6 4 0 6 4 1
+p598
+aVAaron McKie DET 12/17/1997 DET @ NJN L 14 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 4 0 0 4 2 -5
+p599
+aVTheo Ratliff DET 12/17/1997 DET @ NJN L 26 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 2 1 4 2 4 -13
+p600
+aVJoe Dumars DET 12/17/1997 DET @ NJN L 30 7 2 7 28.6 1 4 25.0 2 2 100.0 0 0 0 4 0 0 0 4 -6
+p601
+aVLindsey Hunter DET 12/17/1997 DET @ NJN L 34 11 3 13 23.1 1 4 25.0 4 4 100.0 0 4 4 1 0 0 1 2 2
+p602
+aVBison Dele DET 12/17/1997 DET @ NJN L 40 18 9 15 60.0 0 0 - 0 0 - 1 9 10 0 1 1 2 4 -7
+p603
+aVJerome Williams DET 12/17/1997 DET @ NJN L 28 13 4 5 80.0 0 0 - 5 6 83.3 5 2 7 1 1 0 1 4 7
+p604
+aVMalik Sealy DET 12/17/1997 DET @ NJN L 22 15 6 10 60.0 0 1 0.0 3 6 50.0 1 0 1 3 1 0 1 1 1
+p605
+aVLindsey Hunter DET 12/16/1997 DET @ NYK L 31 5 2 10 20.0 0 1 0.0 1 2 50.0 1 6 7 4 0 1 3 4 -6
+p606
+aVJerome Williams DET 12/16/1997 DET @ NYK L 20 4 2 6 33.3 0 0 - 0 0 - 2 1 3 1 1 0 3 1 -5
+p607
+aVGrant Hill DET 12/16/1997 DET @ NYK L 39 10 3 10 30.0 0 0 - 4 6 66.7 1 4 5 6 1 0 8 2 -11
+p608
+aVMalik Sealy DET 12/16/1997 DET @ NYK L 30 10 5 13 38.5 0 2 0.0 0 0 - 0 4 4 1 3 0 1 2 6
+p609
+aVTheo Ratliff DET 12/16/1997 DET @ NYK L 34 12 4 7 57.1 0 0 - 4 4 100.0 5 4 9 0 2 3 2 3 1
+p610
+aVAaron McKie DET 12/16/1997 DET @ NYK L 22 11 5 8 62.5 0 1 0.0 1 2 50.0 3 6 9 3 1 0 0 2 12
+p611
+aVBison Dele DET 12/16/1997 DET @ NYK L 40 19 7 15 46.7 0 0 - 5 6 83.3 2 8 10 1 1 2 3 4 -8
+p612
+aVJoe Dumars DET 12/16/1997 DET @ NYK L 23 7 3 9 33.3 1 5 20.0 0 0 - 1 0 1 4 0 0 0 1 -14
+p613
+aVTheo Ratliff DET 12/13/1997 DET vs. BOS W 35 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 1 5 3 3 11
+p614
+aVGrant Hill DET 12/13/1997 DET vs. BOS W 43 19 5 14 35.7 0 0 - 9 10 90.0 0 8 8 8 2 1 4 3 16
+p615
+aVBison Dele DET 12/13/1997 DET vs. BOS W 37 31 15 22 68.2 0 0 - 1 1 100.0 6 9 15 1 1 0 3 2 16
+p616
+aVMalik Sealy DET 12/13/1997 DET vs. BOS W 18 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 9
+p617
+aVJerome Williams DET 12/13/1997 DET vs. BOS W 23 9 3 8 37.5 0 0 - 3 4 75.0 7 2 9 0 0 0 3 2 5
+p618
+aVJoe Dumars DET 12/13/1997 DET vs. BOS W 37 10 4 10 40.0 1 4 25.0 1 1 100.0 0 1 1 7 1 0 1 1 12
+p619
+aVCharles O'Bannon DET 12/13/1997 DET vs. BOS W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p620
+aVLindsey Hunter DET 12/13/1997 DET vs. BOS W 41 10 5 12 41.7 0 2 0.0 0 0 - 0 2 2 3 2 0 0 0 9
+p621
+aVDon Reid DET 12/11/1997 DET vs. NJN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -8
+p622
+aVGrant Hill DET 12/11/1997 DET vs. NJN W 40 18 8 16 50.0 0 0 - 2 2 100.0 0 6 6 9 1 1 3 4 9
+p623
+aVLindsey Hunter DET 12/11/1997 DET vs. NJN W 33 15 6 12 50.0 1 2 50.0 2 4 50.0 0 2 2 3 2 0 0 6 17
+p624
+aVAaron McKie DET 12/11/1997 DET vs. NJN W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -11
+p625
+aVTheo Ratliff DET 12/11/1997 DET vs. NJN W 24 3 1 2 50.0 0 0 - 1 2 50.0 2 4 6 1 0 4 3 4 12
+p626
+aVMalik Sealy DET 12/11/1997 DET vs. NJN W 23 14 3 4 75.0 1 1 100.0 7 8 87.5 0 3 3 1 0 0 1 3 -8
+p627
+aVCharles O'Bannon DET 12/11/1997 DET vs. NJN W 13 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 0 3
+p628
+aVJerome Williams DET 12/11/1997 DET vs. NJN W 25 8 3 4 75.0 0 0 - 2 4 50.0 2 4 6 3 0 0 2 6 -8
+p629
+aVBison Dele DET 12/11/1997 DET vs. NJN W 42 19 9 14 64.3 0 0 - 1 1 100.0 2 9 11 0 0 0 2 2 12
+p630
+aVJoe Dumars DET 12/11/1997 DET vs. NJN W 31 22 6 11 54.5 3 6 50.0 7 10 70.0 0 3 3 3 1 0 4 2 2
+p631
+aVAaron McKie DET 12/09/1997 DET vs. DEN W 8 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 1 0 1 0 8
+p632
+aVJerome Williams DET 12/09/1997 DET vs. DEN W 24 12 5 13 38.5 0 0 - 2 3 66.7 8 1 9 0 0 0 1 1 7
+p633
+aVTheo Ratliff DET 12/09/1997 DET vs. DEN W 30 11 5 12 41.7 0 0 - 1 1 100.0 5 5 10 1 0 2 0 4 -3
+p634
+aVMalik Sealy DET 12/09/1997 DET vs. DEN W 9 6 1 6 16.7 0 0 - 4 4 100.0 2 0 2 1 1 1 1 0 4
+p635
+aVDon Reid DET 12/09/1997 DET vs. DEN W 6 4 1 2 50.0 0 0 - 2 3 66.7 1 0 1 0 0 0 0 1 7
+p636
+aVLindsey Hunter DET 12/09/1997 DET vs. DEN W 44 16 5 17 29.4 0 1 0.0 6 6 100.0 3 3 6 1 2 0 2 3 8
+p637
+aVCharles O'Bannon DET 12/09/1997 DET vs. DEN W 14 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 1 0 0 2 0 0
+p638
+aVBison Dele DET 12/09/1997 DET vs. DEN W 31 21 9 17 52.9 0 0 - 3 7 42.9 2 6 8 1 4 1 1 5 2
+p639
+aVJoe Dumars DET 12/09/1997 DET vs. DEN W 34 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 5 0 0 3 2 7
+p640
+aVGrant Hill DET 12/09/1997 DET vs. DEN W 39 13 5 12 41.7 0 0 - 3 5 60.0 0 8 8 10 0 1 3 0 5
+p641
+aVJerome Williams DET 12/07/1997 DET @ TOR W 28 20 9 12 75.0 0 0 - 2 5 40.0 7 4 11 4 2 3 1 2 14
+p642
+aVLindsey Hunter DET 12/07/1997 DET @ TOR W 33 5 2 9 22.2 1 2 50.0 0 0 - 0 3 3 2 3 0 1 2 -1
+p643
+aVGrant Hill DET 12/07/1997 DET @ TOR W 43 20 9 17 52.9 0 1 0.0 2 2 100.0 2 8 10 5 2 1 2 2 8
+p644
+aVBison Dele DET 12/07/1997 DET @ TOR W 41 18 7 22 31.8 0 0 - 4 6 66.7 3 5 8 4 0 0 2 2 6
+p645
+aVDon Reid DET 12/07/1997 DET @ TOR W 5 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 2
+p646
+aVCharles O'Bannon DET 12/07/1997 DET @ TOR W 30 8 4 11 36.4 0 0 - 0 0 - 4 1 5 4 0 0 1 1 8
+p647
+aVAaron McKie DET 12/07/1997 DET @ TOR W 16 1 0 0 - 0 0 - 1 1 100.0 1 0 1 2 1 0 1 2 9
+p648
+aVMalik Sealy DET 12/07/1997 DET @ TOR W 9 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 1 5
+p649
+aVTheo Ratliff DET 12/07/1997 DET @ TOR W 21 12 5 6 83.3 0 0 - 2 5 40.0 3 3 6 1 1 4 1 4 -4
+p650
+aVJoe Dumars DET 12/07/1997 DET @ TOR W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 3
+p651
+aVJerome Williams DET 12/05/1997 DET vs. SEA L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -9
+p652
+aVJoe Dumars DET 12/05/1997 DET vs. SEA L 40 9 3 10 30.0 3 7 42.9 0 0 - 0 2 2 3 1 0 1 4 4
+p653
+aVTheo Ratliff DET 12/05/1997 DET vs. SEA L 34 9 3 7 42.9 0 0 - 3 4 75.0 2 2 4 0 0 5 1 4 11
+p654
+aVDon Reid DET 12/05/1997 DET vs. SEA L 5 1 0 0 - 0 0 - 1 4 25.0 1 0 1 0 1 0 0 4 -6
+p655
+aVLindsey Hunter DET 12/05/1997 DET vs. SEA L 41 15 6 21 28.6 3 10 30.0 0 1 0.0 2 1 3 5 1 0 0 3 -12
+p656
+aVGrant Long DET 12/05/1997 DET vs. SEA L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -16
+p657
+aVGrant Hill DET 12/05/1997 DET vs. SEA L 43 27 10 23 43.5 0 1 0.0 7 8 87.5 1 9 10 8 2 2 1 2 2
+p658
+aVAaron McKie DET 12/05/1997 DET vs. SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p659
+aVMalik Sealy DET 12/05/1997 DET vs. SEA L 16 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 2 0 0 1 3 1
+p660
+aVBison Dele DET 12/05/1997 DET vs. SEA L 43 26 11 17 64.7 0 0 - 4 5 80.0 8 12 20 1 0 1 3 3 4
+p661
+aVMalik Sealy DET 12/03/1997 DET vs. PHX W 37 13 3 11 27.3 0 0 - 7 8 87.5 2 2 4 1 2 0 1 3 2
+p662
+aVJoe Dumars DET 12/03/1997 DET vs. PHX W 49 10 3 13 23.1 2 8 25.0 2 3 66.7 0 2 2 4 0 0 2 2 6
+p663
+aVGrant Long DET 12/03/1997 DET vs. PHX W 22 5 2 4 50.0 0 0 - 1 3 33.3 3 5 8 0 0 2 1 1 -4
+p664
+aVJerome Williams DET 12/03/1997 DET vs. PHX W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p665
+aVLindsey Hunter DET 12/03/1997 DET vs. PHX W 57 20 6 17 35.3 2 5 40.0 6 6 100.0 4 7 11 2 3 0 3 4 9
+p666
+aVDon Reid DET 12/03/1997 DET vs. PHX W 14 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 1 1 1 4 -3
+p667
+aVGrant Hill DET 12/03/1997 DET vs. PHX W 55 27 11 24 45.8 0 0 - 5 6 83.3 1 15 16 10 1 2 7 4 4
+p668
+aVBison Dele DET 12/03/1997 DET vs. PHX W 54 21 10 16 62.5 0 0 - 1 3 33.3 4 13 17 0 0 1 4 1 7
+p669
+aVScot Pollard DET 12/03/1997 DET vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p670
+aVAaron McKie DET 12/03/1997 DET vs. PHX W 16 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 1 1 0
+p671
+aVTheo Ratliff DET 12/03/1997 DET vs. PHX W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -1
+p672
+aVJoe Dumars DET 11/30/1997 DET vs. VAN L 28 5 2 10 20.0 1 7 14.3 0 0 - 0 1 1 5 0 0 1 0 -2
+p673
+aVLindsey Hunter DET 11/30/1997 DET vs. VAN L 39 22 8 16 50.0 2 5 40.0 4 4 100.0 3 3 6 1 3 0 0 3 5
+p674
+aVBison Dele DET 11/30/1997 DET vs. VAN L 35 26 11 17 64.7 0 0 - 4 6 66.7 5 4 9 3 2 1 3 4 3
+p675
+aVDon Reid DET 11/30/1997 DET vs. VAN L 11 2 1 3 33.3 0 0 - 0 2 0.0 2 3 5 0 1 0 1 3 2
+p676
+aVGrant Long DET 11/30/1997 DET vs. VAN L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p677
+aVTheo Ratliff DET 11/30/1997 DET vs. VAN L 22 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 0 0 4 -10
+p678
+aVGrant Hill DET 11/30/1997 DET vs. VAN L 44 20 7 22 31.8 0 1 0.0 6 10 60.0 0 2 2 8 4 1 0 2 -1
+p679
+aVMalik Sealy DET 11/30/1997 DET vs. VAN L 23 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 2 0 0 3 1 -3
+p680
+aVScot Pollard DET 11/30/1997 DET vs. VAN L 10 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 1 0 2 -2
+p681
+aVAaron McKie DET 11/30/1997 DET vs. VAN L 17 6 1 3 33.3 0 0 - 4 4 100.0 2 0 2 0 2 0 0 2 1
+p682
+aVJerome Williams DET 11/30/1997 DET vs. VAN L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 0
+p683
+aVRick Mahorn DET 11/30/1997 DET vs. VAN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p684
+aVBison Dele DET 11/28/1997 DET vs. NYK W 37 26 12 22 54.5 0 0 - 2 2 100.0 4 10 14 1 1 0 1 5 0
+p685
+aVGrant Hill DET 11/28/1997 DET vs. NYK W 41 24 6 13 46.2 0 0 - 12 16 75.0 0 4 4 7 1 1 3 3 3
+p686
+aVAaron McKie DET 11/28/1997 DET vs. NYK W 18 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 2 0 0 0 0 26
+p687
+aVLindsey Hunter DET 11/28/1997 DET vs. NYK W 27 4 2 9 22.2 0 2 0.0 0 0 - 1 3 4 3 0 0 4 2 -20
+p688
+aVMalik Sealy DET 11/28/1997 DET vs. NYK W 27 13 5 5 100.0 0 0 - 3 6 50.0 0 10 10 0 0 0 4 1 14
+p689
+aVJoe Dumars DET 11/28/1997 DET vs. NYK W 34 13 4 14 28.6 4 11 36.4 1 1 100.0 0 1 1 5 2 0 1 0 11
+p690
+aVDon Reid DET 11/28/1997 DET vs. NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p691
+aVGrant Long DET 11/28/1997 DET vs. NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -8
+p692
+aVScot Pollard DET 11/28/1997 DET vs. NYK W 20 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 1 1 0 5 18
+p693
+aVTheo Ratliff DET 11/28/1997 DET vs. NYK W 22 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 1 3 1 5 -2
+p694
+aVRick Mahorn DET 11/28/1997 DET vs. NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p695
+aVGrant Hill DET 11/25/1997 DET @ CHH L 48 19 6 14 42.9 0 0 - 7 11 63.6 0 5 5 4 1 0 4 2 3
+p696
+aVJoe Dumars DET 11/25/1997 DET @ CHH L 37 5 2 9 22.2 0 5 0.0 1 2 50.0 0 1 1 3 0 0 0 1 -5
+p697
+aVDon Reid DET 11/25/1997 DET @ CHH L 22 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 0 2 1 6 -9
+p698
+aVMalik Sealy DET 11/25/1997 DET @ CHH L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 3 -2
+p699
+aVBison Dele DET 11/25/1997 DET @ CHH L 39 27 10 20 50.0 0 0 - 7 9 77.8 7 3 10 2 0 0 5 2 3
+p700
+aVLindsey Hunter DET 11/25/1997 DET @ CHH L 38 16 7 18 38.9 2 8 25.0 0 0 - 1 4 5 6 4 0 2 3 -9
+p701
+aVScot Pollard DET 11/25/1997 DET @ CHH L 12 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 1 1 0 0 -6
+p702
+aVAaron McKie DET 11/25/1997 DET @ CHH L 11 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 0 1 0 1 1 0
+p703
+aVGrant Long DET 11/25/1997 DET @ CHH L 22 8 2 5 40.0 0 0 - 4 4 100.0 1 5 6 0 1 0 1 5 0
+p704
+aVJoe Dumars DET 11/23/1997 DET @ BOS L 41 10 4 14 28.6 2 7 28.6 0 0 - 0 1 1 4 0 0 2 1 -16
+p705
+aVBison Dele DET 11/23/1997 DET @ BOS L 34 19 8 14 57.1 0 0 - 3 5 60.0 3 7 10 2 0 0 2 1 -11
+p706
+aVDon Reid DET 11/23/1997 DET @ BOS L 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 5
+p707
+aVTheo Ratliff DET 11/23/1997 DET @ BOS L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 2 3
+p708
+aVLindsey Hunter DET 11/23/1997 DET @ BOS L 45 16 4 11 36.4 1 4 25.0 7 8 87.5 0 6 6 4 1 0 2 5 -4
+p709
+aVMalik Sealy DET 11/23/1997 DET @ BOS L 33 11 4 9 44.4 0 0 - 3 5 60.0 0 4 4 2 1 0 1 3 7
+p710
+aVGrant Hill DET 11/23/1997 DET @ BOS L 35 21 5 12 41.7 0 0 - 11 11 100.0 0 11 11 4 2 1 8 5 0
+p711
+aVAaron McKie DET 11/23/1997 DET @ BOS L 31 4 2 5 40.0 0 1 0.0 0 0 - 1 5 6 1 1 1 6 2 -1
+p712
+aVJerome Williams DET 11/23/1997 DET @ BOS L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p713
+aVGrant Long DET 11/22/1997 DET vs. ATL W 22 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 1 1 0 0 4 7
+p714
+aVDon Reid DET 11/22/1997 DET vs. ATL W 12 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 1 1 1 5 -7
+p715
+aVMalik Sealy DET 11/22/1997 DET vs. ATL W 18 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 2 0 0 0 1 15
+p716
+aVGrant Hill DET 11/22/1997 DET vs. ATL W 41 19 9 16 56.3 0 0 - 1 4 25.0 0 5 5 9 1 1 2 0 -5
+p717
+aVJoe Dumars DET 11/22/1997 DET vs. ATL W 37 16 6 13 46.2 2 6 33.3 2 4 50.0 0 2 2 3 0 0 3 1 1
+p718
+aVRick Mahorn DET 11/22/1997 DET vs. ATL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -2
+p719
+aVBison Dele DET 11/22/1997 DET vs. ATL W 40 23 9 15 60.0 0 0 - 5 6 83.3 2 6 8 1 0 0 5 4 5
+p720
+aVAaron McKie DET 11/22/1997 DET vs. ATL W 15 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 0 3
+p721
+aVTheo Ratliff DET 11/22/1997 DET vs. ATL W 13 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 0 2 0 3 0
+p722
+aVLindsey Hunter DET 11/22/1997 DET vs. ATL W 35 4 2 8 25.0 0 4 0.0 0 0 - 0 2 2 2 2 0 1 1 -7
+p723
+aVAaron McKie DET 11/20/1997 DET vs. POR L 22 4 2 5 40.0 0 1 0.0 0 0 - 2 0 2 1 3 0 0 1 -11
+p724
+aVGrant Hill DET 11/20/1997 DET vs. POR L 45 17 6 23 26.1 0 0 - 5 8 62.5 1 6 7 7 2 3 1 0 -2
+p725
+aVJerome Williams DET 11/20/1997 DET vs. POR L 5 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 2
+p726
+aVCharles O'Bannon DET 11/20/1997 DET vs. POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p727
+aVLindsey Hunter DET 11/20/1997 DET vs. POR L 35 15 7 16 43.8 0 1 0.0 1 2 50.0 1 1 2 4 2 0 3 4 6
+p728
+aVBison Dele DET 11/20/1997 DET vs. POR L 29 15 7 16 43.8 0 0 - 1 1 100.0 6 8 14 2 1 0 2 4 -10
+p729
+aVTheo Ratliff DET 11/20/1997 DET vs. POR L 33 5 2 6 33.3 0 0 - 1 1 100.0 2 4 6 0 1 3 2 4 7
+p730
+aVMalik Sealy DET 11/20/1997 DET vs. POR L 37 17 5 12 41.7 0 1 0.0 7 7 100.0 2 3 5 3 3 1 2 3 -12
+p731
+aVRick Mahorn DET 11/20/1997 DET vs. POR L 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 2 0 1 2 -4
+p732
+aVGrant Long DET 11/20/1997 DET vs. POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p733
+aVDon Reid DET 11/20/1997 DET vs. POR L 17 10 4 4 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 3 2
+p734
+aVGrant Hill DET 11/18/1997 DET @ MIL L 32 8 3 12 25.0 0 0 - 2 8 25.0 1 1 2 8 1 0 6 2 -16
+p735
+aVTheo Ratliff DET 11/18/1997 DET @ MIL L 33 15 4 4 100.0 0 0 - 7 9 77.8 0 7 7 2 1 4 0 4 3
+p736
+aVGrant Long DET 11/18/1997 DET @ MIL L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p737
+aVMalik Sealy DET 11/18/1997 DET @ MIL L 44 13 6 16 37.5 0 0 - 1 2 50.0 1 4 5 3 3 0 1 4 -3
+p738
+aVAaron McKie DET 11/18/1997 DET @ MIL L 15 0 0 4 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 3
+p739
+aVCharles O'Bannon DET 11/18/1997 DET @ MIL L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 -6
+p740
+aVBison Dele DET 11/18/1997 DET @ MIL L 41 28 11 14 78.6 0 0 - 6 9 66.7 4 6 10 1 0 0 0 5 -9
+p741
+aVScot Pollard DET 11/18/1997 DET @ MIL L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 0
+p742
+aVRick Mahorn DET 11/18/1997 DET @ MIL L 7 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -1
+p743
+aVDon Reid DET 11/18/1997 DET @ MIL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p744
+aVLindsey Hunter DET 11/18/1997 DET @ MIL L 43 8 3 15 20.0 0 2 0.0 2 4 50.0 0 7 7 3 1 0 2 4 -10
+p745
+aVJerome Williams DET 11/18/1997 DET @ MIL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p746
+aVJerome Williams DET 11/15/1997 DET vs. NJN W 18 6 3 8 37.5 0 0 - 0 0 - 2 3 5 1 0 0 1 2 -4
+p747
+aVBison Dele DET 11/15/1997 DET vs. NJN W 45 21 8 22 36.4 0 0 - 5 6 83.3 5 7 12 2 1 0 2 4 16
+p748
+aVMalik Sealy DET 11/15/1997 DET vs. NJN W 42 22 8 11 72.7 1 2 50.0 5 6 83.3 0 4 4 1 3 0 4 6 9
+p749
+aVTheo Ratliff DET 11/15/1997 DET vs. NJN W 38 6 2 5 40.0 0 0 - 2 4 50.0 4 5 9 1 0 3 3 4 8
+p750
+aVAaron McKie DET 11/15/1997 DET vs. NJN W 27 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 1 0 1 4 -2
+p751
+aVLindsey Hunter DET 11/15/1997 DET vs. NJN W 53 35 9 23 39.1 1 4 25.0 16 18 88.9 0 7 7 5 3 0 5 5 8
+p752
+aVGrant Long DET 11/15/1997 DET vs. NJN W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -7
+p753
+aVCharles O'Bannon DET 11/15/1997 DET vs. NJN W 35 6 2 6 33.3 0 1 0.0 2 4 50.0 1 2 3 1 2 1 1 1 12
+p754
+aVTheo Ratliff DET 11/13/1997 DET @ SEA L 31 12 6 10 60.0 0 0 - 0 1 0.0 3 1 4 0 1 2 1 5 12
+p755
+aVJerome Williams DET 11/13/1997 DET @ SEA L 8 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 -14
+p756
+aVAaron McKie DET 11/13/1997 DET @ SEA L 34 11 4 7 57.1 1 3 33.3 2 2 100.0 0 3 3 5 3 0 1 3 7
+p757
+aVGrant Hill DET 11/13/1997 DET @ SEA L 43 20 6 17 35.3 0 0 - 8 9 88.9 5 7 12 5 2 0 8 4 -10
+p758
+aVLindsey Hunter DET 11/13/1997 DET @ SEA L 36 16 6 12 50.0 3 7 42.9 1 2 50.0 2 3 5 4 2 0 1 5 -11
+p759
+aVBison Dele DET 11/13/1997 DET @ SEA L 29 12 5 14 35.7 0 0 - 2 2 100.0 4 3 7 1 1 0 1 1 -12
+p760
+aVGrant Long DET 11/13/1997 DET @ SEA L 18 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 2 0 0 1 1 2
+p761
+aVMalik Sealy DET 11/13/1997 DET @ SEA L 42 14 5 15 33.3 0 0 - 4 4 100.0 3 2 5 4 0 1 1 5 -4
+p762
+aVAaron McKie DET 11/12/1997 DET @ GSW W 26 4 1 4 25.0 0 0 - 2 2 100.0 1 6 7 2 1 0 1 4 17
+p763
+aVJerome Williams DET 11/12/1997 DET @ GSW W 29 7 2 5 40.0 0 0 - 3 4 75.0 2 7 9 1 1 0 2 5 20
+p764
+aVTheo Ratliff DET 11/12/1997 DET @ GSW W 15 3 1 3 33.3 0 0 - 1 1 100.0 1 1 2 2 0 0 3 4 4
+p765
+aVBison Dele DET 11/12/1997 DET @ GSW W 30 19 9 13 69.2 0 0 - 1 2 50.0 1 8 9 2 1 1 0 0 25
+p766
+aVGrant Hill DET 11/12/1997 DET @ GSW W 34 13 4 16 25.0 0 0 - 5 6 83.3 1 4 5 13 4 0 3 1 26
+p767
+aVLindsey Hunter DET 11/12/1997 DET @ GSW W 34 22 9 15 60.0 2 3 66.7 2 3 66.7 1 3 4 2 2 0 0 1 16
+p768
+aVScot Pollard DET 11/12/1997 DET @ GSW W 17 8 1 4 25.0 0 0 - 6 7 85.7 2 4 6 0 0 0 1 5 11
+p769
+aVDon Reid DET 11/12/1997 DET @ GSW W 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 1 0 0 2
+p770
+aVGrant Long DET 11/12/1997 DET @ GSW W 21 8 2 4 50.0 0 1 0.0 4 4 100.0 0 3 3 0 2 0 3 2 18
+p771
+aVMalik Sealy DET 11/12/1997 DET @ GSW W 23 16 5 7 71.4 1 1 100.0 5 6 83.3 0 2 2 3 1 1 2 0 16
+p772
+aVGrant Hill DET 11/10/1997 DET @ POR L 38 21 6 19 31.6 0 0 - 9 10 90.0 0 2 2 7 1 1 4 5 -8
+p773
+aVMalik Sealy DET 11/10/1997 DET @ POR L 37 9 4 12 33.3 0 2 0.0 1 1 100.0 0 4 4 3 0 0 0 5 -4
+p774
+aVBison Dele DET 11/10/1997 DET @ POR L 31 19 9 17 52.9 0 0 - 1 2 50.0 2 6 8 2 0 0 4 5 8
+p775
+aVRick Mahorn DET 11/10/1997 DET @ POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p776
+aVGrant Long DET 11/10/1997 DET @ POR L 18 3 1 2 50.0 0 0 - 1 2 50.0 3 2 5 0 1 0 0 1 2
+p777
+aVTheo Ratliff DET 11/10/1997 DET @ POR L 41 11 3 9 33.3 0 0 - 5 9 55.6 6 5 11 1 0 3 3 2 -9
+p778
+aVDon Reid DET 11/10/1997 DET @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p779
+aVScot Pollard DET 11/10/1997 DET @ POR L 16 2 0 0 - 0 0 - 2 2 100.0 3 0 3 0 0 0 0 3 -8
+p780
+aVAaron McKie DET 11/10/1997 DET @ POR L 22 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 2 0 0 0 3 1
+p781
+aVJerome Williams DET 11/10/1997 DET @ POR L 0 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 0
+p782
+aVLindsey Hunter DET 11/10/1997 DET @ POR L 36 12 3 10 30.0 3 6 50.0 3 6 50.0 1 3 4 4 2 0 2 5 2
+p783
+aVMalik Sealy DET 11/09/1997 DET @ VAN L 40 20 7 12 58.3 1 4 25.0 5 5 100.0 1 1 2 0 2 1 1 6 9
+p784
+aVBison Dele DET 11/09/1997 DET @ VAN L 41 14 7 13 53.8 0 0 - 0 0 - 1 7 8 0 0 2 3 6 -6
+p785
+aVTheo Ratliff DET 11/09/1997 DET @ VAN L 32 6 2 3 66.7 0 0 - 2 5 40.0 1 8 9 1 1 2 4 6 3
+p786
+aVGrant Long DET 11/09/1997 DET @ VAN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p787
+aVGrant Hill DET 11/09/1997 DET @ VAN L 48 14 6 21 28.6 0 0 - 2 2 100.0 2 8 10 14 1 1 3 3 -4
+p788
+aVDon Reid DET 11/09/1997 DET @ VAN L 10 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 2 0 2 0 -3
+p789
+aVLindsey Hunter DET 11/09/1997 DET @ VAN L 45 23 10 26 38.5 1 6 16.7 2 2 100.0 1 2 3 3 4 0 1 4 -10
+p790
+aVAaron McKie DET 11/09/1997 DET @ VAN L 32 12 4 7 57.1 0 2 0.0 4 4 100.0 2 2 4 3 1 0 0 4 -9
+p791
+aVJoe Dumars DET 11/09/1997 DET @ VAN L 11 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 0 0 0 0 0 -4
+p792
+aVJerome Williams DET 11/09/1997 DET @ VAN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p793
+aVTheo Ratliff DET 11/07/1997 DET vs. ORL L 28 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 1 1 3 4 4 -2
+p794
+aVBison Dele DET 11/07/1997 DET vs. ORL L 42 17 7 15 46.7 0 0 - 3 3 100.0 3 4 7 3 0 1 3 3 0
+p795
+aVLindsey Hunter DET 11/07/1997 DET vs. ORL L 43 13 5 11 45.5 1 3 33.3 2 2 100.0 1 3 4 2 0 1 2 5 -1
+p796
+aVGrant Long DET 11/07/1997 DET vs. ORL L 15 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 0 0 0 2 -10
+p797
+aVDon Reid DET 11/07/1997 DET vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p798
+aVMalik Sealy DET 11/07/1997 DET vs. ORL L 42 18 7 17 41.2 0 1 0.0 4 4 100.0 0 3 3 1 1 0 3 3 -7
+p799
+aVJerome Williams DET 11/07/1997 DET vs. ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p800
+aVGrant Hill DET 11/07/1997 DET vs. ORL L 43 15 7 19 36.8 0 1 0.0 1 2 50.0 1 7 8 11 1 0 4 1 0
+p801
+aVAaron McKie DET 11/07/1997 DET vs. ORL L 17 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 1 0 2 3 -6
+p802
+aVRick Mahorn DET 11/07/1997 DET vs. ORL L 8 5 1 2 50.0 0 0 - 3 4 75.0 1 2 3 0 1 0 1 1 5
+p803
+aVTheo Ratliff DET 11/05/1997 DET vs. IND L 17 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 6 -10
+p804
+aVJerome Williams DET 11/05/1997 DET vs. IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p805
+aVGrant Hill DET 11/05/1997 DET vs. IND L 41 29 9 18 50.0 0 0 - 11 13 84.6 0 8 8 8 1 0 8 3 -15
+p806
+aVBison Dele DET 11/05/1997 DET vs. IND L 36 10 4 15 26.7 0 0 - 2 2 100.0 1 12 13 1 2 0 2 5 -13
+p807
+aVRick Mahorn DET 11/05/1997 DET vs. IND L 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 3 0
+p808
+aVGrant Long DET 11/05/1997 DET vs. IND L 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p809
+aVLindsey Hunter DET 11/05/1997 DET vs. IND L 43 17 6 17 35.3 3 8 37.5 2 2 100.0 0 1 1 2 0 1 3 2 -10
+p810
+aVMalik Sealy DET 11/05/1997 DET vs. IND L 42 17 6 13 46.2 0 0 - 5 6 83.3 3 1 4 1 0 0 1 5 -11
+p811
+aVAaron McKie DET 11/05/1997 DET vs. IND L 19 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -1
+p812
+aVDon Reid DET 11/05/1997 DET vs. IND L 15 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 1 1 0 3 9
+p813
+aVAaron McKie DET 11/04/1997 DET @ ATL L 26 8 4 8 50.0 0 1 0.0 0 2 0.0 0 2 2 2 0 0 0 3 -3
+p814
+aVMalik Sealy DET 11/04/1997 DET @ ATL L 38 14 5 11 45.5 0 0 - 4 5 80.0 1 1 2 3 2 1 2 4 -9
+p815
+aVLindsey Hunter DET 11/04/1997 DET @ ATL L 41 11 3 11 27.3 1 4 25.0 4 4 100.0 0 2 2 4 2 0 2 3 -13
+p816
+aVBison Dele DET 11/04/1997 DET @ ATL L 39 16 8 18 44.4 0 0 - 0 1 0.0 3 8 11 1 1 1 0 3 -5
+p817
+aVTheo Ratliff DET 11/04/1997 DET @ ATL L 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 0 1 9
+p818
+aVJerome Williams DET 11/04/1997 DET @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p819
+aVGrant Long DET 11/04/1997 DET @ ATL L 29 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 2 1 2 4 -12
+p820
+aVGrant Hill DET 11/04/1997 DET @ ATL L 45 14 5 20 25.0 0 1 0.0 4 5 80.0 0 5 5 5 3 0 2 1 -17
+p821
+aVRick Mahorn DET 11/04/1997 DET @ ATL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -4
+p822
+aVRick Mahorn DET 11/02/1997 DET @ NYK W 13 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 1 1 0 4 0
+p823
+aVLindsey Hunter DET 11/02/1997 DET @ NYK W 48 23 7 12 58.3 1 1 100.0 8 11 72.7 3 3 6 2 5 0 3 1 9
+p824
+aVBison Dele DET 11/02/1997 DET @ NYK W 33 10 4 14 28.6 0 0 - 2 2 100.0 0 2 2 2 2 0 2 5 11
+p825
+aVDon Reid DET 11/02/1997 DET @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p826
+aVTheo Ratliff DET 11/02/1997 DET @ NYK W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p827
+aVGrant Long DET 11/02/1997 DET @ NYK W 28 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -7
+p828
+aVMalik Sealy DET 11/02/1997 DET @ NYK W 38 11 4 11 36.4 0 0 - 3 3 100.0 0 0 0 4 1 0 1 4 9
+p829
+aVGrant Hill DET 11/02/1997 DET @ NYK W 41 34 9 16 56.3 1 1 100.0 15 18 83.3 1 8 9 5 3 0 2 2 8
+p830
+aVJerome Williams DET 11/02/1997 DET @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p831
+aVAaron McKie DET 11/02/1997 DET @ NYK W 27 11 5 10 50.0 1 1 100.0 0 0 - 3 0 3 1 2 0 0 4 14
+p832
+aVLindsey Hunter DET 10/31/1997 DET vs. WAS W 40 23 8 15 53.3 1 2 50.0 6 8 75.0 2 7 9 1 3 0 2 4 15
+p833
+aVJoe Dumars DET 10/31/1997 DET vs. WAS W 10 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 0 6
+p834
+aVGrant Long DET 10/31/1997 DET vs. WAS W 33 13 3 3 100.0 0 0 - 7 10 70.0 2 2 4 0 1 0 1 3 16
+p835
+aVScot Pollard DET 10/31/1997 DET vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p836
+aVDon Reid DET 10/31/1997 DET vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p837
+aVBison Dele DET 10/31/1997 DET vs. WAS W 29 9 3 10 30.0 0 0 - 3 7 42.9 1 4 5 0 1 1 1 4 8
+p838
+aVAaron McKie DET 10/31/1997 DET vs. WAS W 24 2 1 9 11.1 0 2 0.0 0 0 - 2 3 5 0 2 0 1 3 12
+p839
+aVMalik Sealy DET 10/31/1997 DET vs. WAS W 30 4 2 9 22.2 0 0 - 0 0 - 0 6 6 0 1 0 3 1 -3
+p840
+aVJerome Williams DET 10/31/1997 DET vs. WAS W 9 2 1 3 33.3 0 0 - 0 2 0.0 2 0 2 0 0 1 1 1 -8
+p841
+aVGrant Hill DET 10/31/1997 DET vs. WAS W 38 25 9 17 52.9 0 0 - 7 8 87.5 1 11 12 8 0 0 4 1 16
+p842
+aVTheo Ratliff DET 10/31/1997 DET vs. WAS W 26 11 4 5 80.0 0 0 - 3 5 60.0 5 3 8 0 0 2 0 1 5
+p843
+a.

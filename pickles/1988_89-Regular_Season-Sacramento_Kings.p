@@ -1,0 +1,1550 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHarold Pressley SAC 04/23/1989 SAC @ POR L 38 9 4 8 50.0 0 1 0.0 1 1 100.0 5 2 7 8 2 2 0 3 -
+p2
+aVVinny Del Negro SAC 04/23/1989 SAC @ POR L 45 28 13 16 81.3 0 0 - 2 2 100.0 1 3 4 2 4 0 3 2 -
+p3
+aVMichael Jackson SAC 04/23/1989 SAC @ POR L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -
+p4
+aVWayman Tisdale SAC 04/23/1989 SAC @ POR L 44 31 14 24 58.3 0 0 - 3 4 75.0 3 6 9 3 0 0 5 6 -
+p5
+aVBrad Lohaus SAC 04/23/1989 SAC @ POR L 27 8 3 10 30.0 0 0 - 2 2 100.0 2 4 6 0 0 1 2 4 -
+p6
+aVRicky Berry SAC 04/23/1989 SAC @ POR L 36 17 6 17 35.3 1 3 33.3 4 6 66.7 1 2 3 1 0 1 1 6 -
+p7
+aVJim Petersen SAC 04/23/1989 SAC @ POR L 25 8 3 6 50.0 0 0 - 2 3 66.7 2 4 6 0 1 2 2 3 -
+p8
+aVKenny Smith SAC 04/23/1989 SAC @ POR L 46 19 6 13 46.2 1 4 25.0 6 10 60.0 1 2 3 9 0 0 4 1 -
+p9
+aVVinny Del Negro SAC 04/22/1989 SAC vs. LAC W 21 4 2 9 22.2 0 0 - 0 0 - 1 2 3 3 1 0 1 0 -
+p10
+aVWayman Tisdale SAC 04/22/1989 SAC vs. LAC W 38 27 11 18 61.1 0 0 - 5 8 62.5 4 6 10 0 1 1 1 2 -
+p11
+aVDanny Ainge SAC 04/22/1989 SAC vs. LAC W 36 18 7 15 46.7 3 8 37.5 1 1 100.0 2 1 3 10 8 0 2 2 -
+p12
+aVMichael Jackson SAC 04/22/1989 SAC vs. LAC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p13
+aVRicky Berry SAC 04/22/1989 SAC vs. LAC W 23 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 2 0 0 1 3 -
+p14
+aVJim Petersen SAC 04/22/1989 SAC vs. LAC W 16 11 4 6 66.7 0 0 - 3 4 75.0 2 3 5 3 1 0 2 5 -
+p15
+aVKenny Smith SAC 04/22/1989 SAC vs. LAC W 34 10 3 11 27.3 0 1 0.0 4 4 100.0 0 4 4 10 1 0 3 1 -
+p16
+aVBrad Lohaus SAC 04/22/1989 SAC vs. LAC W 27 22 11 16 68.8 0 1 0.0 0 1 0.0 2 8 10 1 1 1 2 1 -
+p17
+aVRandy Allen SAC 04/22/1989 SAC vs. LAC W 7 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p18
+aVBen Gillery SAC 04/22/1989 SAC vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -
+p19
+aVHarold Pressley SAC 04/22/1989 SAC vs. LAC W 29 7 3 11 27.3 0 5 0.0 1 1 100.0 3 5 8 4 1 0 3 1 -
+p20
+aVRicky Berry SAC 04/20/1989 SAC @ LAL L 32 19 9 15 60.0 1 2 50.0 0 0 - 3 6 9 1 0 0 1 4 -
+p21
+aVVinny Del Negro SAC 04/20/1989 SAC @ LAL L 21 4 2 7 28.6 0 0 - 0 0 - 0 1 1 1 1 1 1 1 -
+p22
+aVKenny Smith SAC 04/20/1989 SAC @ LAL L 42 19 7 17 41.2 2 5 40.0 3 4 75.0 1 2 3 13 1 0 3 3 -
+p23
+aVDanny Ainge SAC 04/20/1989 SAC @ LAL L 39 10 4 17 23.5 1 4 25.0 1 4 25.0 2 3 5 8 1 0 3 4 -
+p24
+aVJim Petersen SAC 04/20/1989 SAC @ LAL L 21 14 6 10 60.0 0 2 0.0 2 2 100.0 2 3 5 1 1 2 2 3 -
+p25
+aVHarold Pressley SAC 04/20/1989 SAC @ LAL L 34 21 7 12 58.3 4 6 66.7 3 4 75.0 0 7 7 6 5 0 0 6 -
+p26
+aVWayman Tisdale SAC 04/20/1989 SAC @ LAL L 40 22 10 14 71.4 0 0 - 2 2 100.0 4 5 9 3 1 0 1 2 -
+p27
+aVBrad Lohaus SAC 04/20/1989 SAC @ LAL L 11 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -
+p28
+aVKenny Smith SAC 04/18/1989 SAC vs. POR W 42 25 10 19 52.6 1 1 100.0 4 6 66.7 1 3 4 12 2 0 6 2 -
+p29
+aVJim Petersen SAC 04/18/1989 SAC vs. POR W 24 6 2 8 25.0 0 0 - 2 3 66.7 1 5 6 0 0 4 4 3 -
+p30
+aVDanny Ainge SAC 04/18/1989 SAC vs. POR W 43 32 10 16 62.5 5 7 71.4 7 8 87.5 0 2 2 9 0 1 2 2 -
+p31
+aVHarold Pressley SAC 04/18/1989 SAC vs. POR W 29 11 5 8 62.5 1 2 50.0 0 0 - 4 7 11 4 1 2 2 2 -
+p32
+aVWayman Tisdale SAC 04/18/1989 SAC vs. POR W 29 19 9 15 60.0 0 0 - 1 2 50.0 1 9 10 3 0 1 4 5 -
+p33
+aVRicky Berry SAC 04/18/1989 SAC vs. POR W 40 11 4 13 30.8 2 3 66.7 1 2 50.0 2 4 6 1 1 1 1 3 -
+p34
+aVVinny Del Negro SAC 04/18/1989 SAC vs. POR W 11 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 0 -
+p35
+aVBrad Lohaus SAC 04/18/1989 SAC vs. POR W 22 12 4 7 57.1 0 0 - 4 4 100.0 1 2 3 2 1 0 1 3 -
+p36
+aVRicky Berry SAC 04/17/1989 SAC @ PHX L 29 11 4 8 50.0 1 2 50.0 2 2 100.0 3 4 7 4 2 0 4 5 -
+p37
+aVJim Petersen SAC 04/17/1989 SAC @ PHX L 23 8 2 4 50.0 0 1 0.0 4 4 100.0 1 3 4 0 0 0 2 1 -
+p38
+aVVinny Del Negro SAC 04/17/1989 SAC @ PHX L 27 6 3 7 42.9 0 0 - 0 0 - 1 1 2 3 1 0 1 2 -
+p39
+aVBen Gillery SAC 04/17/1989 SAC @ PHX L 5 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 1 -
+p40
+aVWayman Tisdale SAC 04/17/1989 SAC @ PHX L 32 14 6 15 40.0 0 0 - 2 2 100.0 1 5 6 0 0 0 5 3 -
+p41
+aVKenny Smith SAC 04/17/1989 SAC @ PHX L 29 10 4 10 40.0 0 1 0.0 2 4 50.0 0 1 1 3 1 0 4 3 -
+p42
+aVHarold Pressley SAC 04/17/1989 SAC @ PHX L 22 4 2 8 25.0 0 3 0.0 0 0 - 7 4 11 0 0 0 1 2 -
+p43
+aVRandy Allen SAC 04/17/1989 SAC @ PHX L 13 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p44
+aVBrad Lohaus SAC 04/17/1989 SAC @ PHX L 20 12 6 10 60.0 0 0 - 0 0 - 1 1 2 1 2 1 1 4 -
+p45
+aVDanny Ainge SAC 04/17/1989 SAC @ PHX L 23 7 1 12 8.3 1 4 25.0 4 4 100.0 1 0 1 5 0 0 4 3 -
+p46
+aVMichael Jackson SAC 04/17/1989 SAC @ PHX L 17 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 3 1 0 1 4 -
+p47
+aVRicky Berry SAC 04/15/1989 SAC @ GOS W 43 26 9 28 32.1 4 9 44.4 4 4 100.0 3 7 10 1 1 1 3 5 -
+p48
+aVDanny Ainge SAC 04/15/1989 SAC @ GOS W 45 27 10 22 45.5 2 8 25.0 5 6 83.3 0 6 6 11 2 0 1 2 -
+p49
+aVKenny Smith SAC 04/15/1989 SAC @ GOS W 35 13 5 11 45.5 0 0 - 3 3 100.0 1 2 3 5 2 0 8 2 -
+p50
+aVHarold Pressley SAC 04/15/1989 SAC @ GOS W 33 8 3 11 27.3 1 5 20.0 1 2 50.0 4 5 9 1 0 0 0 3 -
+p51
+aVBrad Lohaus SAC 04/15/1989 SAC @ GOS W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 1 -
+p52
+aVJim Petersen SAC 04/15/1989 SAC @ GOS W 25 12 4 7 57.1 0 0 - 4 6 66.7 3 8 11 1 0 1 2 4 -
+p53
+aVVinny Del Negro SAC 04/15/1989 SAC @ GOS W 16 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 5 0 1 0 2 -
+p54
+aVWayman Tisdale SAC 04/15/1989 SAC @ GOS W 37 22 8 15 53.3 0 0 - 6 6 100.0 1 9 10 2 0 1 2 4 -
+p55
+aVDanny Ainge SAC 04/13/1989 SAC vs. DEN W 37 24 11 18 61.1 0 3 0.0 2 2 100.0 3 5 8 12 0 0 2 3 -
+p56
+aVBrad Lohaus SAC 04/13/1989 SAC vs. DEN W 16 4 2 5 40.0 0 0 - 0 0 - 0 5 5 0 0 0 2 1 -
+p57
+aVHarold Pressley SAC 04/13/1989 SAC vs. DEN W 28 10 2 6 33.3 1 2 50.0 5 5 100.0 2 7 9 1 1 1 2 4 -
+p58
+aVRodney McCray SAC 04/13/1989 SAC vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p59
+aVJim Petersen SAC 04/13/1989 SAC vs. DEN W 20 15 6 8 75.0 0 0 - 3 5 60.0 2 6 8 4 0 0 2 4 -
+p60
+aVKenny Smith SAC 04/13/1989 SAC vs. DEN W 39 17 8 18 44.4 1 2 50.0 0 3 0.0 0 4 4 6 2 1 1 0 -
+p61
+aVVinny Del Negro SAC 04/13/1989 SAC vs. DEN W 26 7 3 8 37.5 0 0 - 1 2 50.0 0 2 2 1 1 1 0 2 -
+p62
+aVWayman Tisdale SAC 04/13/1989 SAC vs. DEN W 40 19 7 15 46.7 0 0 - 5 6 83.3 3 10 13 1 0 1 1 3 -
+p63
+aVRicky Berry SAC 04/13/1989 SAC vs. DEN W 29 25 7 13 53.8 1 3 33.3 10 10 100.0 0 4 4 2 0 0 1 5 -
+p64
+aVHarold Pressley SAC 04/10/1989 SAC vs. MIA W 33 11 4 10 40.0 2 6 33.3 1 2 50.0 1 6 7 5 2 2 0 1 -
+p65
+aVMichael Jackson SAC 04/10/1989 SAC vs. MIA W 12 3 1 7 14.3 1 2 50.0 0 0 - 0 0 0 1 0 0 2 2 -
+p66
+aVWayman Tisdale SAC 04/10/1989 SAC vs. MIA W 32 18 7 10 70.0 0 0 - 4 6 66.7 2 4 6 2 2 0 2 4 -
+p67
+aVJim Petersen SAC 04/10/1989 SAC vs. MIA W 23 16 6 9 66.7 0 0 - 4 6 66.7 3 8 11 1 0 1 2 2 -
+p68
+aVKenny Smith SAC 04/10/1989 SAC vs. MIA W 33 23 9 15 60.0 0 0 - 5 6 83.3 1 2 3 11 2 0 2 1 -
+p69
+aVRandy Allen SAC 04/10/1989 SAC vs. MIA W 7 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 -
+p70
+aVVinny Del Negro SAC 04/10/1989 SAC vs. MIA W 35 20 10 17 58.8 0 0 - 0 0 - 2 3 5 3 4 1 1 1 -
+p71
+aVRodney McCray SAC 04/10/1989 SAC vs. MIA W 24 3 0 5 0.0 0 1 0.0 3 4 75.0 1 6 7 3 2 1 1 2 -
+p72
+aVDanny Ainge SAC 04/10/1989 SAC vs. MIA W 16 4 2 6 33.3 0 0 - 0 1 0.0 2 3 5 4 0 0 0 0 -
+p73
+aVBen Gillery SAC 04/10/1989 SAC vs. MIA W 8 0 0 4 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 2 -
+p74
+aVBrad Lohaus SAC 04/10/1989 SAC vs. MIA W 17 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 2 1 2 -
+p75
+aVHarold Pressley SAC 04/07/1989 SAC @ DAL L 22 10 4 6 66.7 1 2 50.0 1 1 100.0 0 3 3 0 0 0 1 3 -
+p76
+aVDanny Ainge SAC 04/07/1989 SAC @ DAL L 36 11 4 9 44.4 2 3 66.7 1 2 50.0 0 0 0 5 0 0 2 4 -
+p77
+aVRicky Berry SAC 04/07/1989 SAC @ DAL L 41 23 7 13 53.8 1 4 25.0 8 10 80.0 2 6 8 1 0 0 3 4 -
+p78
+aVJim Petersen SAC 04/07/1989 SAC @ DAL L 17 4 2 3 66.7 0 0 - 0 0 - 1 4 5 2 0 0 2 2 -
+p79
+aVVinny Del Negro SAC 04/07/1989 SAC @ DAL L 15 6 3 3 100.0 0 0 - 0 0 - 0 2 2 3 1 0 0 0 -
+p80
+aVWayman Tisdale SAC 04/07/1989 SAC @ DAL L 41 17 8 12 66.7 0 0 - 1 2 50.0 1 11 12 6 1 1 3 3 -
+p81
+aVBrad Lohaus SAC 04/07/1989 SAC @ DAL L 28 17 7 14 50.0 0 0 - 3 5 60.0 3 2 5 0 0 1 1 2 -
+p82
+aVKenny Smith SAC 04/07/1989 SAC @ DAL L 40 14 6 19 31.6 0 2 0.0 2 3 66.7 0 2 2 13 0 0 2 5 -
+p83
+aVVinny Del Negro SAC 04/06/1989 SAC @ SAN L 15 6 3 7 42.9 0 0 - 0 0 - 1 1 2 7 1 0 0 2 -
+p84
+aVHarold Pressley SAC 04/06/1989 SAC @ SAN L 33 15 6 11 54.5 3 7 42.9 0 0 - 0 4 4 2 1 2 2 3 -
+p85
+aVJim Petersen SAC 04/06/1989 SAC @ SAN L 21 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 3 2 0 2 4 -
+p86
+aVRicky Berry SAC 04/06/1989 SAC @ SAN L 37 18 6 12 50.0 1 2 50.0 5 6 83.3 2 5 7 4 2 2 1 2 -
+p87
+aVKenny Smith SAC 04/06/1989 SAC @ SAN L 33 14 7 12 58.3 0 0 - 0 0 - 0 0 0 1 1 0 4 1 -
+p88
+aVDanny Ainge SAC 04/06/1989 SAC @ SAN L 37 20 6 16 37.5 3 10 30.0 5 6 83.3 1 1 2 5 1 0 5 4 -
+p89
+aVBrad Lohaus SAC 04/06/1989 SAC @ SAN L 26 10 4 8 50.0 1 1 100.0 1 1 100.0 1 5 6 2 3 1 2 1 -
+p90
+aVWayman Tisdale SAC 04/06/1989 SAC @ SAN L 38 23 9 11 81.8 0 0 - 5 6 83.3 1 9 10 2 2 0 7 4 -
+p91
+aVDanny Ainge SAC 04/04/1989 SAC @ DEN L 39 24 10 19 52.6 1 2 50.0 3 3 100.0 1 3 4 7 0 1 0 2 -
+p92
+aVWayman Tisdale SAC 04/04/1989 SAC @ DEN L 30 22 9 16 56.3 0 0 - 4 5 80.0 0 5 5 3 1 1 2 4 -
+p93
+aVRicky Berry SAC 04/04/1989 SAC @ DEN L 38 14 5 13 38.5 1 4 25.0 3 4 75.0 0 6 6 1 1 1 1 3 -
+p94
+aVVinny Del Negro SAC 04/04/1989 SAC @ DEN L 19 8 4 7 57.1 0 0 - 0 0 - 1 1 2 0 0 0 1 6 -
+p95
+aVKenny Smith SAC 04/04/1989 SAC @ DEN L 40 17 7 17 41.2 0 2 0.0 3 4 75.0 0 5 5 10 3 0 5 1 -
+p96
+aVJim Petersen SAC 04/04/1989 SAC @ DEN L 22 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 3 0 0 1 3 -
+p97
+aVHarold Pressley SAC 04/04/1989 SAC @ DEN L 27 24 9 15 60.0 4 6 66.7 2 2 100.0 5 4 9 2 0 1 2 4 -
+p98
+aVBrad Lohaus SAC 04/04/1989 SAC @ DEN L 21 10 4 9 44.4 0 1 0.0 2 2 100.0 1 6 7 1 0 2 0 1 -
+p99
+aVMichael Jackson SAC 04/04/1989 SAC @ DEN L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -
+p100
+aVBrad Lohaus SAC 04/01/1989 SAC vs. UTH W 15 6 1 7 14.3 0 1 0.0 4 4 100.0 0 1 1 1 0 1 2 5 -
+p101
+aVWayman Tisdale SAC 04/01/1989 SAC vs. UTH W 35 14 5 10 50.0 0 0 - 4 4 100.0 4 7 11 2 1 1 2 4 -
+p102
+aVVinny Del Negro SAC 04/01/1989 SAC vs. UTH W 14 5 1 5 20.0 0 0 - 3 4 75.0 2 1 3 0 1 0 0 0 -
+p103
+aVHarold Pressley SAC 04/01/1989 SAC vs. UTH W 18 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 1 0 0 2 2 -
+p104
+aVRicky Berry SAC 04/01/1989 SAC vs. UTH W 36 33 10 17 58.8 6 10 60.0 7 7 100.0 1 1 2 1 4 1 0 4 -
+p105
+aVKenny Smith SAC 04/01/1989 SAC vs. UTH W 44 24 10 21 47.6 3 5 60.0 1 4 25.0 2 1 3 6 1 0 3 2 -
+p106
+aVDanny Ainge SAC 04/01/1989 SAC vs. UTH W 38 18 7 12 58.3 0 4 0.0 4 4 100.0 1 3 4 13 2 0 2 2 -
+p107
+aVJim Petersen SAC 04/01/1989 SAC vs. UTH W 40 11 5 9 55.6 0 1 0.0 1 2 50.0 1 6 7 1 4 1 1 4 -
+p108
+aVDanny Ainge SAC 03/30/1989 SAC vs. PHX W 42 25 9 15 60.0 2 4 50.0 5 5 100.0 0 5 5 6 1 1 2 3 -
+p109
+aVRicky Berry SAC 03/30/1989 SAC vs. PHX W 21 9 3 6 50.0 1 2 50.0 2 2 100.0 1 2 3 2 1 0 0 2 -
+p110
+aVHarold Pressley SAC 03/30/1989 SAC vs. PHX W 28 16 5 9 55.6 4 7 57.1 2 2 100.0 5 4 9 3 1 0 0 4 -
+p111
+aVKenny Smith SAC 03/30/1989 SAC vs. PHX W 37 17 7 14 50.0 0 2 0.0 3 7 42.9 1 2 3 13 0 0 7 2 -
+p112
+aVBrad Lohaus SAC 03/30/1989 SAC vs. PHX W 33 29 11 18 61.1 0 0 - 7 10 70.0 2 8 10 0 0 3 1 3 -
+p113
+aVJim Petersen SAC 03/30/1989 SAC vs. PHX W 22 7 3 7 42.9 0 0 - 1 2 50.0 2 4 6 0 1 1 3 5 -
+p114
+aVVinny Del Negro SAC 03/30/1989 SAC vs. PHX W 17 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -
+p115
+aVWayman Tisdale SAC 03/30/1989 SAC vs. PHX W 40 27 10 20 50.0 0 0 - 7 9 77.8 4 5 9 4 0 0 3 4 -
+p116
+aVBrad Lohaus SAC 03/29/1989 SAC @ LAC L 18 8 4 9 44.4 0 0 - 0 0 - 2 0 2 1 0 3 0 2 -
+p117
+aVRicky Berry SAC 03/29/1989 SAC @ LAC L 26 4 2 9 22.2 0 3 0.0 0 0 - 5 1 6 1 1 2 2 1 -
+p118
+aVDanny Ainge SAC 03/29/1989 SAC @ LAC L 39 26 10 24 41.7 4 9 44.4 2 4 50.0 3 0 3 10 2 0 1 1 -
+p119
+aVVinny Del Negro SAC 03/29/1989 SAC @ LAC L 21 12 5 6 83.3 0 0 - 2 2 100.0 0 5 5 3 1 0 0 0 -
+p120
+aVWayman Tisdale SAC 03/29/1989 SAC @ LAC L 28 17 8 12 66.7 0 0 - 1 1 100.0 1 11 12 0 1 0 3 6 -
+p121
+aVHarold Pressley SAC 03/29/1989 SAC @ LAC L 37 14 6 9 66.7 1 3 33.3 1 1 100.0 2 1 3 4 1 2 2 3 -
+p122
+aVJim Petersen SAC 03/29/1989 SAC @ LAC L 35 14 7 16 43.8 0 1 0.0 0 0 - 0 5 5 4 1 0 2 6 -
+p123
+aVKenny Smith SAC 03/29/1989 SAC @ LAC L 36 13 5 14 35.7 1 2 50.0 2 4 50.0 1 1 2 9 2 1 3 2 -
+p124
+aVBrad Lohaus SAC 03/25/1989 SAC vs. POR W 26 14 6 14 42.9 0 0 - 2 2 100.0 2 6 8 4 0 2 1 2 -
+p125
+aVVinny Del Negro SAC 03/25/1989 SAC vs. POR W 17 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p126
+aVJim Petersen SAC 03/25/1989 SAC vs. POR W 18 5 2 9 22.2 0 0 - 1 1 100.0 1 3 4 0 0 0 2 5 -
+p127
+aVWayman Tisdale SAC 03/25/1989 SAC vs. POR W 42 19 6 18 33.3 0 0 - 7 8 87.5 9 9 18 0 1 2 0 2 -
+p128
+aVKenny Smith SAC 03/25/1989 SAC vs. POR W 36 6 1 11 9.1 0 0 - 4 4 100.0 1 3 4 5 0 0 5 2 -
+p129
+aVDanny Ainge SAC 03/25/1989 SAC vs. POR W 32 21 7 17 41.2 5 7 71.4 2 2 100.0 1 2 3 3 1 0 1 0 -
+p130
+aVRicky Berry SAC 03/25/1989 SAC vs. POR W 31 19 6 10 60.0 3 4 75.0 4 6 66.7 1 3 4 1 0 1 3 5 -
+p131
+aVHarold Pressley SAC 03/25/1989 SAC vs. POR W 38 16 6 11 54.5 3 6 50.0 1 2 50.0 5 5 10 5 2 0 2 3 -
+p132
+aVRodney McCray SAC 03/23/1989 SAC vs. LAL L 23 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -
+p133
+aVDanny Ainge SAC 03/23/1989 SAC vs. LAL L 33 12 3 15 20.0 1 5 20.0 5 5 100.0 0 3 3 4 2 1 2 1 -
+p134
+aVBen Gillery SAC 03/23/1989 SAC vs. LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 1 1 -
+p135
+aVWayman Tisdale SAC 03/23/1989 SAC vs. LAL L 26 14 7 15 46.7 0 0 - 0 2 0.0 2 3 5 1 0 0 1 3 -
+p136
+aVHarold Pressley SAC 03/23/1989 SAC vs. LAL L 27 10 4 13 30.8 2 4 50.0 0 2 0.0 7 5 12 3 1 1 1 1 -
+p137
+aVKenny Smith SAC 03/23/1989 SAC vs. LAL L 40 21 8 16 50.0 0 1 0.0 5 5 100.0 0 2 2 10 2 0 1 2 -
+p138
+aVMichael Jackson SAC 03/23/1989 SAC vs. LAL L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p139
+aVJim Petersen SAC 03/23/1989 SAC vs. LAL L 36 16 8 15 53.3 0 0 - 0 0 - 2 6 8 1 0 1 0 2 -
+p140
+aVBrad Lohaus SAC 03/23/1989 SAC vs. LAL L 6 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p141
+aVRicky Berry SAC 03/23/1989 SAC vs. LAL L 20 4 2 8 25.0 0 2 0.0 0 0 - 2 2 4 0 0 0 1 3 -
+p142
+aVRandy Allen SAC 03/23/1989 SAC vs. LAL L 4 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 -
+p143
+aVVinny Del Negro SAC 03/23/1989 SAC vs. LAL L 17 6 3 7 42.9 0 0 - 0 0 - 0 0 0 1 2 0 0 2 -
+p144
+aVJim Petersen SAC 03/20/1989 SAC vs. CHH L 20 4 2 6 33.3 0 0 - 0 2 0.0 0 5 5 2 1 0 2 3 -
+p145
+aVRodney McCray SAC 03/20/1989 SAC vs. CHH L 38 6 3 9 33.3 0 0 - 0 0 - 5 4 9 3 0 1 1 2 -
+p146
+aVBrad Lohaus SAC 03/20/1989 SAC vs. CHH L 5 1 0 1 0.0 0 0 - 1 4 25.0 1 0 1 0 0 0 0 1 -
+p147
+aVVinny Del Negro SAC 03/20/1989 SAC vs. CHH L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p148
+aVRicky Berry SAC 03/20/1989 SAC vs. CHH L 15 2 1 5 20.0 0 0 - 0 0 - 2 3 5 2 0 0 1 2 -
+p149
+aVKenny Smith SAC 03/20/1989 SAC vs. CHH L 44 25 8 13 61.5 3 5 60.0 6 7 85.7 0 4 4 11 2 1 3 2 -
+p150
+aVDanny Ainge SAC 03/20/1989 SAC vs. CHH L 40 20 8 18 44.4 2 6 33.3 2 3 66.7 0 1 1 6 0 0 1 4 -
+p151
+aVWayman Tisdale SAC 03/20/1989 SAC vs. CHH L 44 34 14 24 58.3 0 0 - 6 8 75.0 2 7 9 2 2 1 2 1 -
+p152
+aVHarold Pressley SAC 03/20/1989 SAC vs. CHH L 30 18 6 14 42.9 2 3 66.7 4 4 100.0 3 2 5 1 0 2 1 5 -
+p153
+aVKenny Smith SAC 03/18/1989 SAC vs. DAL W 44 23 9 15 60.0 2 2 100.0 3 4 75.0 1 1 2 11 0 0 1 4 -
+p154
+aVHarold Pressley SAC 03/18/1989 SAC vs. DAL W 28 17 7 11 63.6 3 6 50.0 0 0 - 2 3 5 4 2 1 2 4 -
+p155
+aVVinny Del Negro SAC 03/18/1989 SAC vs. DAL W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p156
+aVJim Petersen SAC 03/18/1989 SAC vs. DAL W 36 14 7 10 70.0 0 0 - 0 0 - 1 5 6 1 0 2 5 2 -
+p157
+aVRodney McCray SAC 03/18/1989 SAC vs. DAL W 32 8 3 7 42.9 0 0 - 2 2 100.0 1 10 11 2 1 0 1 2 -
+p158
+aVDanny Ainge SAC 03/18/1989 SAC vs. DAL W 38 15 4 10 40.0 1 2 50.0 6 7 85.7 0 3 3 7 3 0 4 4 -
+p159
+aVBrad Lohaus SAC 03/18/1989 SAC vs. DAL W 8 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 -
+p160
+aVRicky Berry SAC 03/18/1989 SAC vs. DAL W 10 5 2 8 25.0 1 3 33.3 0 0 - 1 1 2 0 0 0 1 1 -
+p161
+aVWayman Tisdale SAC 03/18/1989 SAC vs. DAL W 40 15 6 12 50.0 0 0 - 3 5 60.0 4 9 13 1 2 0 2 4 -
+p162
+aVVinny Del Negro SAC 03/16/1989 SAC vs. ATL L 22 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 0 1 1 0 2 -
+p163
+aVDanny Ainge SAC 03/16/1989 SAC vs. ATL L 40 36 13 22 59.1 3 6 50.0 7 8 87.5 3 3 6 4 1 1 3 4 -
+p164
+aVRicky Berry SAC 03/16/1989 SAC vs. ATL L 24 13 5 9 55.6 1 3 33.3 2 2 100.0 2 3 5 3 3 0 1 5 -
+p165
+aVRandy Allen SAC 03/16/1989 SAC vs. ATL L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p166
+aVRodney McCray SAC 03/16/1989 SAC vs. ATL L 29 6 3 10 30.0 0 0 - 0 0 - 1 5 6 4 0 1 2 0 -
+p167
+aVKenny Smith SAC 03/16/1989 SAC vs. ATL L 43 24 11 20 55.0 0 2 0.0 2 2 100.0 0 3 3 6 1 0 5 2 -
+p168
+aVJim Petersen SAC 03/16/1989 SAC vs. ATL L 26 8 3 13 23.1 0 0 - 2 3 66.7 4 6 10 2 1 3 2 5 -
+p169
+aVWayman Tisdale SAC 03/16/1989 SAC vs. ATL L 15 4 2 5 40.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -
+p170
+aVHarold Pressley SAC 03/16/1989 SAC vs. ATL L 25 2 1 10 10.0 0 4 0.0 0 0 - 4 4 8 0 1 0 1 2 -
+p171
+aVMichael Jackson SAC 03/16/1989 SAC vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p172
+aVBrad Lohaus SAC 03/16/1989 SAC vs. ATL L 6 0 0 5 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -
+p173
+aVJim Petersen SAC 03/14/1989 SAC vs. HOU W 28 2 1 8 12.5 0 0 - 0 0 - 0 4 4 1 1 1 2 4 -
+p174
+aVKenny Smith SAC 03/14/1989 SAC vs. HOU W 40 12 5 15 33.3 0 2 0.0 2 2 100.0 1 3 4 10 0 0 1 3 -
+p175
+aVBrad Lohaus SAC 03/14/1989 SAC vs. HOU W 15 10 3 5 60.0 0 0 - 4 4 100.0 0 0 0 0 0 2 1 2 -
+p176
+aVWayman Tisdale SAC 03/14/1989 SAC vs. HOU W 39 15 5 12 41.7 0 0 - 5 8 62.5 5 6 11 3 1 1 2 4 -
+p177
+aVHarold Pressley SAC 03/14/1989 SAC vs. HOU W 30 18 7 8 87.5 4 4 100.0 0 0 - 0 5 5 3 1 2 2 2 -
+p178
+aVDanny Ainge SAC 03/14/1989 SAC vs. HOU W 42 29 12 20 60.0 5 8 62.5 0 0 - 0 3 3 6 4 0 4 3 -
+p179
+aVVinny Del Negro SAC 03/14/1989 SAC vs. HOU W 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p180
+aVRodney McCray SAC 03/14/1989 SAC vs. HOU W 32 7 3 9 33.3 0 0 - 1 2 50.0 1 5 6 3 0 1 4 2 -
+p181
+aVKenny Smith SAC 03/12/1989 SAC @ CHH W 42 22 7 12 58.3 1 1 100.0 7 8 87.5 1 3 4 4 0 0 3 0 -
+p182
+aVVinny Del Negro SAC 03/12/1989 SAC @ CHH W 13 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 1 2 0 0 2 -
+p183
+aVRodney McCray SAC 03/12/1989 SAC @ CHH W 40 12 6 7 85.7 0 1 0.0 0 0 - 2 5 7 8 2 0 2 3 -
+p184
+aVHarold Pressley SAC 03/12/1989 SAC @ CHH W 30 18 7 12 58.3 2 5 40.0 2 2 100.0 1 2 3 2 1 0 2 3 -
+p185
+aVWayman Tisdale SAC 03/12/1989 SAC @ CHH W 35 28 9 16 56.3 0 0 - 10 10 100.0 3 7 10 2 1 0 2 5 -
+p186
+aVDanny Ainge SAC 03/12/1989 SAC @ CHH W 37 15 6 13 46.2 1 2 50.0 2 4 50.0 1 1 2 10 1 0 1 4 -
+p187
+aVJim Petersen SAC 03/12/1989 SAC @ CHH W 31 14 6 14 42.9 0 0 - 2 2 100.0 3 6 9 1 3 2 4 4 -
+p188
+aVBrad Lohaus SAC 03/12/1989 SAC @ CHH W 12 2 1 6 16.7 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p189
+aVJim Petersen SAC 03/10/1989 SAC @ WAS L 38 19 8 16 50.0 0 0 - 3 5 60.0 3 5 8 1 0 2 3 2 -
+p190
+aVMichael Jackson SAC 03/10/1989 SAC @ WAS L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p191
+aVVinny Del Negro SAC 03/10/1989 SAC @ WAS L 19 6 2 5 40.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 3 -
+p192
+aVHarold Pressley SAC 03/10/1989 SAC @ WAS L 19 10 3 6 50.0 1 2 50.0 3 4 75.0 1 2 3 1 0 1 0 0 -
+p193
+aVRandy Allen SAC 03/10/1989 SAC @ WAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p194
+aVBen Gillery SAC 03/10/1989 SAC @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p195
+aVRodney McCray SAC 03/10/1989 SAC @ WAS L 33 12 6 8 75.0 0 0 - 0 0 - 4 8 12 3 0 0 2 2 -
+p196
+aVWayman Tisdale SAC 03/10/1989 SAC @ WAS L 39 27 10 19 52.6 0 0 - 7 10 70.0 6 7 13 1 1 2 3 3 -
+p197
+aVKenny Smith SAC 03/10/1989 SAC @ WAS L 35 0 0 10 0.0 0 1 0.0 0 0 - 0 1 1 6 2 0 2 2 -
+p198
+aVDanny Ainge SAC 03/10/1989 SAC @ WAS L 38 17 8 17 47.1 0 5 0.0 1 1 100.0 1 1 2 4 4 0 2 1 -
+p199
+aVBrad Lohaus SAC 03/10/1989 SAC @ WAS L 11 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 0 -
+p200
+aVKenny Smith SAC 03/09/1989 SAC @ PHL L 42 18 7 17 41.2 0 0 - 4 6 66.7 0 2 2 5 1 0 4 2 -
+p201
+aVWayman Tisdale SAC 03/09/1989 SAC @ PHL L 39 26 10 17 58.8 0 0 - 6 7 85.7 5 10 15 3 0 2 0 4 -
+p202
+aVRodney McCray SAC 03/09/1989 SAC @ PHL L 38 10 5 12 41.7 0 0 - 0 0 - 2 5 7 3 1 1 3 2 -
+p203
+aVRandy Allen SAC 03/09/1989 SAC @ PHL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -
+p204
+aVJim Petersen SAC 03/09/1989 SAC @ PHL L 34 13 3 6 50.0 0 0 - 7 8 87.5 1 5 6 4 0 1 2 3 -
+p205
+aVMichael Jackson SAC 03/09/1989 SAC @ PHL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p206
+aVVinny Del Negro SAC 03/09/1989 SAC @ PHL L 15 7 3 3 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 1 1 -
+p207
+aVBrad Lohaus SAC 03/09/1989 SAC @ PHL L 9 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 2 0 0 4 -
+p208
+aVDanny Ainge SAC 03/09/1989 SAC @ PHL L 37 18 4 15 26.7 2 4 50.0 8 10 80.0 1 4 5 3 0 0 3 3 -
+p209
+aVHarold Pressley SAC 03/09/1989 SAC @ PHL L 22 0 0 4 0.0 0 1 0.0 0 0 - 2 4 6 1 1 1 0 2 -
+p210
+aVJim Petersen SAC 03/07/1989 SAC vs. CLE L 25 16 7 18 38.9 0 0 - 2 2 100.0 6 6 12 0 0 0 1 5 -
+p211
+aVWayman Tisdale SAC 03/07/1989 SAC vs. CLE L 37 14 6 11 54.5 0 0 - 2 3 66.7 0 9 9 0 1 0 2 3 -
+p212
+aVDanny Ainge SAC 03/07/1989 SAC vs. CLE L 40 19 7 18 38.9 3 6 50.0 2 2 100.0 4 0 4 7 3 0 1 3 -
+p213
+aVHarold Pressley SAC 03/07/1989 SAC vs. CLE L 27 14 6 12 50.0 2 4 50.0 0 0 - 5 4 9 1 1 2 1 4 -
+p214
+aVVinny Del Negro SAC 03/07/1989 SAC vs. CLE L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -
+p215
+aVBrad Lohaus SAC 03/07/1989 SAC vs. CLE L 15 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 1 0 2 1 2 -
+p216
+aVKenny Smith SAC 03/07/1989 SAC vs. CLE L 45 12 6 14 42.9 0 0 - 0 2 0.0 1 0 1 10 0 0 2 0 -
+p217
+aVRodney McCray SAC 03/07/1989 SAC vs. CLE L 40 12 5 13 38.5 0 1 0.0 2 3 66.7 1 6 7 4 1 2 1 1 -
+p218
+aVJim Petersen SAC 03/05/1989 SAC vs. GOS W 32 12 5 12 41.7 0 0 - 2 2 100.0 3 5 8 0 0 3 3 5 -
+p219
+aVDanny Ainge SAC 03/05/1989 SAC vs. GOS W 30 18 7 15 46.7 3 6 50.0 1 2 50.0 0 3 3 3 0 1 1 4 -
+p220
+aVWayman Tisdale SAC 03/05/1989 SAC vs. GOS W 37 19 8 24 33.3 0 0 - 3 7 42.9 9 8 17 2 0 2 2 4 -
+p221
+aVRodney McCray SAC 03/05/1989 SAC vs. GOS W 43 8 4 10 40.0 0 1 0.0 0 0 - 4 12 16 7 0 2 3 3 -
+p222
+aVHarold Pressley SAC 03/05/1989 SAC vs. GOS W 31 21 8 17 47.1 4 9 44.4 1 1 100.0 6 6 12 1 0 4 1 4 -
+p223
+aVBrad Lohaus SAC 03/05/1989 SAC vs. GOS W 11 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p224
+aVKenny Smith SAC 03/05/1989 SAC vs. GOS W 46 28 12 22 54.5 0 2 0.0 4 6 66.7 0 5 5 10 4 0 2 3 -
+p225
+aVVinny Del Negro SAC 03/05/1989 SAC vs. GOS W 10 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p226
+aVRodney McCray SAC 03/04/1989 SAC @ GOS L 41 13 6 14 42.9 0 0 - 1 2 50.0 4 7 11 5 0 1 1 1 -
+p227
+aVBrad Lohaus SAC 03/04/1989 SAC @ GOS L 6 7 1 4 25.0 0 0 - 5 6 83.3 2 2 4 0 0 2 0 2 -
+p228
+aVVinny Del Negro SAC 03/04/1989 SAC @ GOS L 25 4 1 5 20.0 0 1 0.0 2 2 100.0 1 0 1 4 1 0 0 2 -
+p229
+aVKenny Smith SAC 03/04/1989 SAC @ GOS L 43 26 10 16 62.5 1 3 33.3 5 9 55.6 0 4 4 13 3 0 2 3 -
+p230
+aVWayman Tisdale SAC 03/04/1989 SAC @ GOS L 24 14 6 13 46.2 0 0 - 2 2 100.0 0 4 4 1 0 0 1 5 -
+p231
+aVDanny Ainge SAC 03/04/1989 SAC @ GOS L 40 45 16 29 55.2 6 13 46.2 7 8 87.5 4 3 7 4 1 0 6 6 -
+p232
+aVMichael Jackson SAC 03/04/1989 SAC @ GOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p233
+aVJim Petersen SAC 03/04/1989 SAC @ GOS L 24 14 5 11 45.5 0 0 - 4 6 66.7 3 5 8 0 1 0 5 6 -
+p234
+aVHarold Pressley SAC 03/04/1989 SAC @ GOS L 36 20 7 16 43.8 6 11 54.5 0 0 - 3 6 9 2 3 1 2 0 -
+p235
+aVHarold Pressley SAC 03/02/1989 SAC @ PHX L 33 16 7 18 38.9 2 4 50.0 0 0 - 4 6 10 5 1 1 0 3 -
+p236
+aVWayman Tisdale SAC 03/02/1989 SAC @ PHX L 37 19 7 18 38.9 0 0 - 5 7 71.4 3 9 12 0 0 2 2 3 -
+p237
+aVVinny Del Negro SAC 03/02/1989 SAC @ PHX L 17 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 -
+p238
+aVJim Petersen SAC 03/02/1989 SAC @ PHX L 36 2 1 14 7.1 0 0 - 0 0 - 5 7 12 1 0 3 0 4 -
+p239
+aVMichael Jackson SAC 03/02/1989 SAC @ PHX L 8 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -
+p240
+aVBrad Lohaus SAC 03/02/1989 SAC @ PHX L 17 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 0 0 2 3 3 -
+p241
+aVDanny Ainge SAC 03/02/1989 SAC @ PHX L 40 18 8 19 42.1 0 3 0.0 2 3 66.7 2 3 5 5 1 0 1 3 -
+p242
+aVKenny Smith SAC 03/02/1989 SAC @ PHX L 46 19 8 16 50.0 0 0 - 3 5 60.0 1 2 3 11 0 0 4 3 -
+p243
+aVBen Gillery SAC 03/02/1989 SAC @ PHX L 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 -
+p244
+aVJim Petersen SAC 03/01/1989 SAC vs. PHL L 23 11 5 8 62.5 0 0 - 1 2 50.0 2 3 5 0 1 0 1 6 -
+p245
+aVVinny Del Negro SAC 03/01/1989 SAC vs. PHL L 21 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 2 0 0 1 3 -
+p246
+aVHarold Pressley SAC 03/01/1989 SAC vs. PHL L 29 16 7 15 46.7 2 3 66.7 0 0 - 2 1 3 1 1 2 1 4 -
+p247
+aVKenny Smith SAC 03/01/1989 SAC vs. PHL L 45 25 10 21 47.6 1 3 33.3 4 4 100.0 1 3 4 7 3 0 3 3 -
+p248
+aVRicky Berry SAC 03/01/1989 SAC vs. PHL L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -
+p249
+aVDanny Ainge SAC 03/01/1989 SAC vs. PHL L 36 16 6 11 54.5 1 4 25.0 3 4 75.0 1 1 2 8 3 0 4 4 -
+p250
+aVRodney McCray SAC 03/01/1989 SAC vs. PHL L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 2 0 0 0 0 -
+p251
+aVWayman Tisdale SAC 03/01/1989 SAC vs. PHL L 45 25 10 15 66.7 0 0 - 5 8 62.5 1 5 6 2 1 1 1 5 -
+p252
+aVBrad Lohaus SAC 03/01/1989 SAC vs. PHL L 24 12 5 12 41.7 0 2 0.0 2 2 100.0 4 6 10 0 0 2 1 4 -
+p253
+aVJim Petersen SAC 02/27/1989 SAC vs. SEA L 31 8 4 10 40.0 0 0 - 0 0 - 2 3 5 1 1 1 5 3 -
+p254
+aVDanny Ainge SAC 02/27/1989 SAC vs. SEA L 35 22 9 22 40.9 1 7 14.3 3 3 100.0 0 4 4 8 0 1 3 2 -
+p255
+aVRodney McCray SAC 02/27/1989 SAC vs. SEA L 41 18 7 10 70.0 1 1 100.0 3 3 100.0 4 6 10 5 0 1 1 4 -
+p256
+aVHarold Pressley SAC 02/27/1989 SAC vs. SEA L 23 11 4 8 50.0 3 6 50.0 0 0 - 3 3 6 1 1 0 0 3 -
+p257
+aVKenny Smith SAC 02/27/1989 SAC vs. SEA L 40 19 8 14 57.1 0 2 0.0 3 5 60.0 0 3 3 6 1 0 5 2 -
+p258
+aVRicky Berry SAC 02/27/1989 SAC vs. SEA L 26 15 6 10 60.0 2 3 66.7 1 1 100.0 0 1 1 1 0 1 1 4 -
+p259
+aVBrad Lohaus SAC 02/27/1989 SAC vs. SEA L 18 12 5 11 45.5 0 0 - 2 2 100.0 6 1 7 0 0 0 2 3 -
+p260
+aVVinny Del Negro SAC 02/27/1989 SAC vs. SEA L 26 2 1 5 20.0 0 0 - 0 0 - 0 5 5 4 0 1 3 2 -
+p261
+aVWayman Tisdale SAC 02/25/1989 SAC @ SEA W 44 20 9 16 56.3 0 0 - 2 2 100.0 3 5 8 1 0 0 1 1 -
+p262
+aVVinny Del Negro SAC 02/25/1989 SAC @ SEA W 27 16 8 14 57.1 0 2 0.0 0 0 - 2 2 4 1 1 0 1 5 -
+p263
+aVHarold Pressley SAC 02/25/1989 SAC @ SEA W 29 8 4 10 40.0 0 3 0.0 0 0 - 3 5 8 4 0 0 3 1 -
+p264
+aVJim Petersen SAC 02/25/1989 SAC @ SEA W 25 15 7 14 50.0 0 0 - 1 2 50.0 5 5 10 1 0 2 1 0 -
+p265
+aVKenny Smith SAC 02/25/1989 SAC @ SEA W 42 24 10 20 50.0 1 2 50.0 3 3 100.0 1 3 4 12 3 0 2 0 -
+p266
+aVRicky Berry SAC 02/25/1989 SAC @ SEA W 27 5 2 9 22.2 0 3 0.0 1 2 50.0 0 3 3 3 0 0 2 5 -
+p267
+aVRodney McCray SAC 02/25/1989 SAC @ SEA W 46 9 3 11 27.3 0 1 0.0 3 4 75.0 1 12 13 6 1 1 2 5 -
+p268
+aVJim Petersen SAC 02/24/1989 SAC @ LAL L 35 14 7 14 50.0 0 0 - 0 1 0.0 2 6 8 2 0 3 5 6 -
+p269
+aVBen Gillery SAC 02/24/1989 SAC @ LAL L 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p270
+aVRodney McCray SAC 02/24/1989 SAC @ LAL L 39 15 6 14 42.9 0 0 - 3 4 75.0 5 7 12 5 0 0 3 1 -
+p271
+aVKenny Smith SAC 02/24/1989 SAC @ LAL L 41 30 13 23 56.5 1 2 50.0 3 4 75.0 1 2 3 10 1 0 1 1 -
+p272
+aVWayman Tisdale SAC 02/24/1989 SAC @ LAL L 30 11 4 12 33.3 0 0 - 3 3 100.0 2 5 7 2 0 0 2 5 -
+p273
+aVVinny Del Negro SAC 02/24/1989 SAC @ LAL L 30 10 4 7 57.1 0 1 0.0 2 2 100.0 0 2 2 8 1 0 1 4 -
+p274
+aVRicky Berry SAC 02/24/1989 SAC @ LAL L 30 10 4 10 40.0 0 3 0.0 2 3 66.7 1 4 5 2 0 2 1 4 -
+p275
+aVMichael Jackson SAC 02/24/1989 SAC @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -
+p276
+aVHarold Pressley SAC 02/24/1989 SAC @ LAL L 29 10 4 9 44.4 2 3 66.7 0 0 - 1 4 5 2 1 0 1 3 -
+p277
+aVEd Pinckney SAC 02/22/1989 SAC vs. BOS L 17 5 2 9 22.2 0 0 - 1 3 33.3 2 4 6 1 0 0 0 2 -
+p278
+aVRicky Berry SAC 02/22/1989 SAC vs. BOS L 27 6 2 9 22.2 0 2 0.0 2 2 100.0 0 1 1 0 0 0 1 1 -
+p279
+aVKenny Smith SAC 02/22/1989 SAC vs. BOS L 38 16 5 11 45.5 0 2 0.0 6 8 75.0 0 1 1 9 1 0 2 2 -
+p280
+aVJim Petersen SAC 02/22/1989 SAC vs. BOS L 22 8 4 5 80.0 0 0 - 0 0 - 0 5 5 0 0 1 2 2 -
+p281
+aVVinny Del Negro SAC 02/22/1989 SAC vs. BOS L 24 5 1 5 20.0 0 0 - 3 4 75.0 1 0 1 3 0 0 1 1 -
+p282
+aVWayman Tisdale SAC 02/22/1989 SAC vs. BOS L 31 17 7 18 38.9 0 0 - 3 5 60.0 3 6 9 1 0 0 1 2 -
+p283
+aVHarold Pressley SAC 02/22/1989 SAC vs. BOS L 29 19 7 11 63.6 0 1 0.0 5 5 100.0 3 6 9 3 2 0 1 3 -
+p284
+aVJoe Kleine SAC 02/22/1989 SAC vs. BOS L 26 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 0 2 0 0 6 -
+p285
+aVRodney McCray SAC 02/22/1989 SAC vs. BOS L 26 7 2 7 28.6 0 0 - 3 3 100.0 1 1 2 0 0 1 2 0 -
+p286
+aVHarold Pressley SAC 02/20/1989 SAC vs. LAL L 33 14 5 10 50.0 0 0 - 4 4 100.0 5 2 7 0 1 1 0 0 -
+p287
+aVJim Petersen SAC 02/20/1989 SAC vs. LAL L 23 14 7 14 50.0 0 0 - 0 0 - 3 1 4 1 2 2 1 6 -
+p288
+aVRicky Berry SAC 02/20/1989 SAC vs. LAL L 20 15 5 12 41.7 2 5 40.0 3 3 100.0 0 3 3 0 1 0 1 5 -
+p289
+aVRodney McCray SAC 02/20/1989 SAC vs. LAL L 35 12 4 10 40.0 0 0 - 4 4 100.0 0 1 1 0 0 0 2 1 -
+p290
+aVEd Pinckney SAC 02/20/1989 SAC vs. LAL L 27 9 2 8 25.0 0 0 - 5 5 100.0 3 4 7 0 2 0 2 2 -
+p291
+aVJoe Kleine SAC 02/20/1989 SAC vs. LAL L 32 12 5 8 62.5 0 0 - 2 2 100.0 1 5 6 0 2 0 2 3 -
+p292
+aVVinny Del Negro SAC 02/20/1989 SAC vs. LAL L 24 6 3 8 37.5 0 0 - 0 0 - 0 1 1 4 0 0 1 4 -
+p293
+aVKenny Smith SAC 02/20/1989 SAC vs. LAL L 46 15 6 11 54.5 0 1 0.0 3 4 75.0 0 3 3 8 4 0 3 1 -
+p294
+aVVinny Del Negro SAC 02/18/1989 SAC vs. PHX L 28 21 8 14 57.1 0 0 - 5 5 100.0 1 2 3 3 0 0 0 1 -
+p295
+aVRodney McCray SAC 02/18/1989 SAC vs. PHX L 37 14 5 10 50.0 0 0 - 4 8 50.0 3 2 5 4 0 0 2 0 -
+p296
+aVRicky Berry SAC 02/18/1989 SAC vs. PHX L 27 6 2 13 15.4 0 3 0.0 2 2 100.0 1 4 5 0 1 1 0 4 -
+p297
+aVLaSalle Thompson SAC 02/18/1989 SAC vs. PHX L 23 15 6 12 50.0 0 0 - 3 4 75.0 1 7 8 0 2 1 1 4 -
+p298
+aVBen Gillery SAC 02/18/1989 SAC vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p299
+aVJoe Kleine SAC 02/18/1989 SAC vs. PHX L 11 0 0 4 0.0 0 0 - 0 0 - 2 5 7 0 0 0 0 1 -
+p300
+aVKenny Smith SAC 02/18/1989 SAC vs. PHX L 44 16 7 16 43.8 0 2 0.0 2 3 66.7 1 2 3 11 1 0 2 5 -
+p301
+aVRandy Wittman SAC 02/18/1989 SAC vs. PHX L 3 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -
+p302
+aVHarold Pressley SAC 02/18/1989 SAC vs. PHX L 18 8 4 11 36.4 0 2 0.0 0 0 - 2 2 4 2 1 0 1 3 -
+p303
+aVMichael Jackson SAC 02/18/1989 SAC vs. PHX L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p304
+aVJim Petersen SAC 02/18/1989 SAC vs. PHX L 12 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 0 1 0 1 1 -
+p305
+aVEd Pinckney SAC 02/18/1989 SAC vs. PHX L 33 17 7 14 50.0 0 1 0.0 3 4 75.0 3 2 5 3 1 2 1 4 -
+p306
+aVEd Pinckney SAC 02/16/1989 SAC vs. DET L 36 16 7 11 63.6 0 0 - 2 3 66.7 4 3 7 0 4 3 1 2 -
+p307
+aVHarold Pressley SAC 02/16/1989 SAC vs. DET L 26 7 3 12 25.0 1 3 33.3 0 0 - 3 1 4 0 3 0 5 2 -
+p308
+aVJoe Kleine SAC 02/16/1989 SAC vs. DET L 22 12 4 6 66.7 0 0 - 4 4 100.0 2 3 5 2 0 0 0 3 -
+p309
+aVKenny Smith SAC 02/16/1989 SAC vs. DET L 39 15 5 16 31.3 0 1 0.0 5 6 83.3 0 4 4 3 0 0 4 0 -
+p310
+aVRicky Berry SAC 02/16/1989 SAC vs. DET L 25 8 3 10 30.0 1 2 50.0 1 2 50.0 1 5 6 2 0 0 2 3 -
+p311
+aVRodney McCray SAC 02/16/1989 SAC vs. DET L 41 10 4 10 40.0 0 0 - 2 2 100.0 2 4 6 5 0 0 2 0 -
+p312
+aVVinny Del Negro SAC 02/16/1989 SAC vs. DET L 14 4 2 6 33.3 0 0 - 0 0 - 1 0 1 3 0 0 0 2 -
+p313
+aVJim Petersen SAC 02/16/1989 SAC vs. DET L 12 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 1 0 1 3 -
+p314
+aVLaSalle Thompson SAC 02/16/1989 SAC vs. DET L 25 12 5 17 29.4 0 0 - 2 4 50.0 4 6 10 1 1 0 2 3 -
+p315
+aVRandy Wittman SAC 02/14/1989 SAC vs. WAS L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p316
+aVJim Petersen SAC 02/14/1989 SAC vs. WAS L 19 8 4 7 57.1 0 0 - 0 0 - 1 3 4 0 0 2 2 0 -
+p317
+aVLaSalle Thompson SAC 02/14/1989 SAC vs. WAS L 26 4 1 6 16.7 0 0 - 2 2 100.0 0 6 6 1 1 2 1 5 -
+p318
+aVRodney McCray SAC 02/14/1989 SAC vs. WAS L 39 16 5 14 35.7 0 2 0.0 6 9 66.7 6 6 12 4 0 0 2 2 -
+p319
+aVHarold Pressley SAC 02/14/1989 SAC vs. WAS L 38 5 2 11 18.2 1 5 20.0 0 0 - 0 2 2 3 2 1 0 4 -
+p320
+aVVinny Del Negro SAC 02/14/1989 SAC vs. WAS L 19 2 1 8 12.5 0 1 0.0 0 0 - 0 1 1 0 0 0 2 3 -
+p321
+aVJoe Kleine SAC 02/14/1989 SAC vs. WAS L 20 9 3 6 50.0 0 0 - 3 4 75.0 1 5 6 1 0 1 0 2 -
+p322
+aVKenny Smith SAC 02/14/1989 SAC vs. WAS L 46 29 11 21 52.4 1 3 33.3 6 6 100.0 1 1 2 5 1 0 4 2 -
+p323
+aVEd Pinckney SAC 02/14/1989 SAC vs. WAS L 29 26 11 17 64.7 0 0 - 4 5 80.0 6 3 9 2 1 3 1 4 -
+p324
+aVHarold Pressley SAC 02/09/1989 SAC vs. GOS W 31 20 8 16 50.0 4 9 44.4 0 0 - 5 4 9 2 2 3 1 4 -
+p325
+aVRodney McCray SAC 02/09/1989 SAC vs. GOS W 36 15 6 8 75.0 2 2 100.0 1 2 50.0 2 3 5 6 1 2 1 1 -
+p326
+aVRicky Berry SAC 02/09/1989 SAC vs. GOS W 32 34 11 23 47.8 7 14 50.0 5 5 100.0 2 6 8 3 2 1 1 4 -
+p327
+aVLaSalle Thompson SAC 02/09/1989 SAC vs. GOS W 23 6 3 9 33.3 0 0 - 0 0 - 3 6 9 0 0 2 2 2 -
+p328
+aVVinny Del Negro SAC 02/09/1989 SAC vs. GOS W 36 22 10 16 62.5 2 3 66.7 0 0 - 1 3 4 4 1 2 1 1 -
+p329
+aVKenny Smith SAC 02/09/1989 SAC vs. GOS W 45 25 9 17 52.9 1 3 33.3 6 8 75.0 2 2 4 15 2 0 5 4 -
+p330
+aVRandy Wittman SAC 02/09/1989 SAC vs. GOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p331
+aVMichael Jackson SAC 02/09/1989 SAC vs. GOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p332
+aVBen Gillery SAC 02/09/1989 SAC vs. GOS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -
+p333
+aVEd Pinckney SAC 02/09/1989 SAC vs. GOS W 32 20 6 11 54.5 0 0 - 8 8 100.0 4 3 7 2 3 3 2 4 -
+p334
+aVRodney McCray SAC 02/07/1989 SAC vs. SAN W 40 17 7 17 41.2 0 1 0.0 3 3 100.0 6 9 15 4 2 0 2 1 -
+p335
+aVJoe Kleine SAC 02/07/1989 SAC vs. SAN W 24 6 3 5 60.0 0 0 - 0 1 0.0 4 4 8 1 1 2 1 6 -
+p336
+aVEd Pinckney SAC 02/07/1989 SAC vs. SAN W 23 6 3 8 37.5 0 0 - 0 0 - 2 4 6 1 0 1 2 2 -
+p337
+aVHarold Pressley SAC 02/07/1989 SAC vs. SAN W 33 17 7 16 43.8 1 4 25.0 2 2 100.0 5 2 7 4 0 3 2 2 -
+p338
+aVLaSalle Thompson SAC 02/07/1989 SAC vs. SAN W 24 19 9 15 60.0 0 0 - 1 2 50.0 5 10 15 2 0 1 2 4 -
+p339
+aVKenny Smith SAC 02/07/1989 SAC vs. SAN W 42 20 8 21 38.1 0 1 0.0 4 4 100.0 1 0 1 6 1 0 5 2 -
+p340
+aVVinny Del Negro SAC 02/07/1989 SAC vs. SAN W 21 6 3 5 60.0 0 1 0.0 0 0 - 1 2 3 8 2 0 1 2 -
+p341
+aVRicky Berry SAC 02/07/1989 SAC vs. SAN W 33 23 9 16 56.3 4 8 50.0 1 2 50.0 0 4 4 2 0 1 3 4 -
+p342
+aVRicky Berry SAC 02/05/1989 SAC @ MIA L 29 14 5 10 50.0 2 3 66.7 2 2 100.0 1 0 1 1 0 0 2 2 -
+p343
+aVRodney McCray SAC 02/05/1989 SAC @ MIA L 37 12 4 9 44.4 0 0 - 4 5 80.0 1 7 8 3 1 0 2 5 -
+p344
+aVHarold Pressley SAC 02/05/1989 SAC @ MIA L 27 11 4 8 50.0 1 4 25.0 2 2 100.0 2 2 4 3 0 1 4 4 -
+p345
+aVEd Pinckney SAC 02/05/1989 SAC @ MIA L 31 13 6 12 50.0 0 0 - 1 4 25.0 5 4 9 2 1 3 4 3 -
+p346
+aVKenny Smith SAC 02/05/1989 SAC @ MIA L 43 20 8 18 44.4 0 0 - 4 5 80.0 1 3 4 8 3 0 3 2 -
+p347
+aVJoe Kleine SAC 02/05/1989 SAC @ MIA L 28 12 5 6 83.3 0 0 - 2 2 100.0 3 7 10 0 0 1 2 1 -
+p348
+aVVinny Del Negro SAC 02/05/1989 SAC @ MIA L 26 8 4 9 44.4 0 0 - 0 0 - 1 1 2 4 1 0 1 4 -
+p349
+aVLaSalle Thompson SAC 02/05/1989 SAC @ MIA L 19 8 3 8 37.5 0 0 - 2 3 66.7 5 2 7 2 0 1 2 1 -
+p350
+aVHarold Pressley SAC 02/03/1989 SAC @ CLE L 39 15 6 14 42.9 1 4 25.0 2 3 66.7 1 5 6 3 1 0 3 2 -
+p351
+aVJoe Kleine SAC 02/03/1989 SAC @ CLE L 12 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p352
+aVBen Gillery SAC 02/03/1989 SAC @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p353
+aVLaSalle Thompson SAC 02/03/1989 SAC @ CLE L 24 6 2 8 25.0 0 0 - 2 2 100.0 2 5 7 0 0 0 0 6 -
+p354
+aVVinny Del Negro SAC 02/03/1989 SAC @ CLE L 21 2 1 4 25.0 0 0 - 0 0 - 0 1 1 5 1 0 1 2 -
+p355
+aVRodney McCray SAC 02/03/1989 SAC @ CLE L 39 18 8 11 72.7 0 1 0.0 2 4 50.0 2 8 10 3 1 1 7 3 -
+p356
+aVRicky Berry SAC 02/03/1989 SAC @ CLE L 38 24 10 16 62.5 1 2 50.0 3 6 50.0 2 4 6 3 0 0 1 3 -
+p357
+aVEd Pinckney SAC 02/03/1989 SAC @ CLE L 32 13 6 8 75.0 0 0 - 1 2 50.0 2 5 7 2 1 1 4 1 -
+p358
+aVKenny Smith SAC 02/03/1989 SAC @ CLE L 34 12 5 14 35.7 0 1 0.0 2 3 66.7 0 2 2 6 1 0 3 3 -
+p359
+aVVinny Del Negro SAC 02/02/1989 SAC @ CHI L 22 13 6 9 66.7 0 0 - 1 2 50.0 0 1 1 5 0 0 1 3 -
+p360
+aVLaSalle Thompson SAC 02/02/1989 SAC @ CHI L 39 16 7 13 53.8 0 1 0.0 2 2 100.0 0 4 4 3 2 1 1 3 -
+p361
+aVKenny Smith SAC 02/02/1989 SAC @ CHI L 37 18 7 11 63.6 2 3 66.7 2 2 100.0 1 1 2 7 1 0 7 5 -
+p362
+aVRicky Berry SAC 02/02/1989 SAC @ CHI L 25 18 8 11 72.7 2 4 50.0 0 2 0.0 1 1 2 1 1 0 1 6 -
+p363
+aVRodney McCray SAC 02/02/1989 SAC @ CHI L 40 9 4 11 36.4 0 0 - 1 3 33.3 3 7 10 7 2 0 2 3 -
+p364
+aVHarold Pressley SAC 02/02/1989 SAC @ CHI L 34 17 7 16 43.8 2 5 40.0 1 1 100.0 2 10 12 0 3 2 2 5 -
+p365
+aVJoe Kleine SAC 02/02/1989 SAC @ CHI L 14 2 1 7 14.3 0 0 - 0 0 - 0 3 3 0 0 1 1 1 -
+p366
+aVEd Pinckney SAC 02/02/1989 SAC @ CHI L 29 5 2 11 18.2 0 1 0.0 1 2 50.0 1 1 2 1 1 0 1 2 -
+p367
+aVRicky Berry SAC 01/31/1989 SAC @ MIL L 18 12 3 8 37.5 1 3 33.3 5 6 83.3 0 0 0 1 0 0 1 5 -
+p368
+aVRodney McCray SAC 01/31/1989 SAC @ MIL L 40 13 5 10 50.0 0 1 0.0 3 4 75.0 2 6 8 5 2 0 4 4 -
+p369
+aVEd Pinckney SAC 01/31/1989 SAC @ MIL L 30 21 9 11 81.8 0 0 - 3 3 100.0 3 2 5 2 1 0 1 1 -
+p370
+aVRandy Wittman SAC 01/31/1989 SAC @ MIL L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p371
+aVLaSalle Thompson SAC 01/31/1989 SAC @ MIL L 35 20 8 17 47.1 0 0 - 4 5 80.0 7 7 14 3 2 0 3 2 -
+p372
+aVHarold Pressley SAC 01/31/1989 SAC @ MIL L 38 18 8 18 44.4 2 6 33.3 0 0 - 2 6 8 2 1 0 3 2 -
+p373
+aVJoe Kleine SAC 01/31/1989 SAC @ MIL L 13 5 2 6 33.3 0 0 - 1 1 100.0 0 0 0 2 0 0 0 3 -
+p374
+aVVinny Del Negro SAC 01/31/1989 SAC @ MIL L 46 12 3 12 25.0 0 1 0.0 6 6 100.0 1 5 6 7 2 0 1 3 -
+p375
+aVJim Petersen SAC 01/31/1989 SAC @ MIL L 18 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 2 0 0 3 2 -
+p376
+aVJoe Kleine SAC 01/29/1989 SAC @ DET L 13 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p377
+aVBen Gillery SAC 01/29/1989 SAC @ DET L 3 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 1 -
+p378
+aVLaSalle Thompson SAC 01/29/1989 SAC @ DET L 27 12 5 11 45.5 0 0 - 2 2 100.0 4 2 6 1 1 1 4 6 -
+p379
+aVEd Pinckney SAC 01/29/1989 SAC @ DET L 23 13 5 5 100.0 0 0 - 3 4 75.0 0 0 0 2 1 1 2 2 -
+p380
+aVHarold Pressley SAC 01/29/1989 SAC @ DET L 28 8 4 13 30.8 0 1 0.0 0 0 - 5 7 12 4 1 1 1 1 -
+p381
+aVDerek Smith SAC 01/29/1989 SAC @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p382
+aVRodney McCray SAC 01/29/1989 SAC @ DET L 29 9 4 8 50.0 0 0 - 1 2 50.0 0 2 2 4 0 1 1 1 -
+p383
+aVJim Petersen SAC 01/29/1989 SAC @ DET L 30 10 4 10 40.0 0 0 - 2 2 100.0 1 6 7 2 0 0 4 4 -
+p384
+aVVinny Del Negro SAC 01/29/1989 SAC @ DET L 23 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 2 3 0 5 4 -
+p385
+aVRicky Berry SAC 01/29/1989 SAC @ DET L 23 13 5 14 35.7 0 3 0.0 3 3 100.0 0 3 3 0 1 0 1 4 -
+p386
+aVKenny Smith SAC 01/29/1989 SAC @ DET L 35 21 9 16 56.3 1 2 50.0 2 2 100.0 1 1 2 5 1 0 6 2 -
+p387
+aVHarold Pressley SAC 01/27/1989 SAC @ BOS L 25 6 2 6 33.3 0 2 0.0 2 2 100.0 0 0 0 3 1 1 1 2 -
+p388
+aVVinny Del Negro SAC 01/27/1989 SAC @ BOS L 17 2 1 4 25.0 0 0 - 0 0 - 0 4 4 6 1 0 0 1 -
+p389
+aVKenny Smith SAC 01/27/1989 SAC @ BOS L 31 14 6 10 60.0 1 2 50.0 1 2 50.0 0 0 0 8 2 0 2 3 -
+p390
+aVRodney McCray SAC 01/27/1989 SAC @ BOS L 37 15 6 9 66.7 0 0 - 3 3 100.0 3 4 7 6 0 0 3 2 -
+p391
+aVEd Pinckney SAC 01/27/1989 SAC @ BOS L 22 18 5 10 50.0 0 0 - 8 9 88.9 0 3 3 2 1 0 0 4 -
+p392
+aVJoe Kleine SAC 01/27/1989 SAC @ BOS L 13 0 0 4 0.0 0 0 - 0 0 - 0 5 5 1 0 0 1 1 -
+p393
+aVRicky Berry SAC 01/27/1989 SAC @ BOS L 34 28 9 16 56.3 3 5 60.0 7 9 77.8 0 1 1 4 0 0 1 3 -
+p394
+aVJim Petersen SAC 01/27/1989 SAC @ BOS L 30 14 6 15 40.0 0 1 0.0 2 3 66.7 2 6 8 2 3 1 2 4 -
+p395
+aVLaSalle Thompson SAC 01/27/1989 SAC @ BOS L 31 19 6 12 50.0 0 0 - 7 8 87.5 2 5 7 1 1 3 0 5 -
+p396
+aVEd Pinckney SAC 01/26/1989 SAC @ NJN W 28 10 4 9 44.4 0 0 - 2 2 100.0 3 6 9 2 2 3 2 3 -
+p397
+aVRicky Berry SAC 01/26/1989 SAC @ NJN W 25 20 8 14 57.1 1 4 25.0 3 3 100.0 0 1 1 1 0 0 1 5 -
+p398
+aVKenny Smith SAC 01/26/1989 SAC @ NJN W 48 24 8 18 44.4 0 0 - 8 10 80.0 1 4 5 10 0 0 6 4 -
+p399
+aVJim Petersen SAC 01/26/1989 SAC @ NJN W 20 16 8 12 66.7 0 0 - 0 0 - 3 2 5 1 0 0 0 6 -
+p400
+aVRodney McCray SAC 01/26/1989 SAC @ NJN W 38 19 6 15 40.0 0 1 0.0 7 8 87.5 3 5 8 3 1 0 1 3 -
+p401
+aVLaSalle Thompson SAC 01/26/1989 SAC @ NJN W 30 8 4 11 36.4 0 0 - 0 0 - 2 8 10 2 0 1 1 2 -
+p402
+aVHarold Pressley SAC 01/26/1989 SAC @ NJN W 33 11 3 13 23.1 1 4 25.0 4 5 80.0 5 5 10 2 0 1 3 3 -
+p403
+aVJoe Kleine SAC 01/26/1989 SAC @ NJN W 18 4 1 3 33.3 0 0 - 2 2 100.0 2 4 6 2 1 0 0 2 -
+p404
+aVRodney McCray SAC 01/24/1989 SAC vs. MIL L 38 13 5 13 38.5 0 0 - 3 3 100.0 3 3 6 3 1 1 3 0 -
+p405
+aVRicky Berry SAC 01/24/1989 SAC vs. MIL L 25 12 5 10 50.0 1 2 50.0 1 1 100.0 2 3 5 2 0 1 2 3 -
+p406
+aVJoe Kleine SAC 01/24/1989 SAC vs. MIL L 17 11 4 8 50.0 0 0 - 3 3 100.0 0 2 2 0 0 0 1 5 -
+p407
+aVJim Petersen SAC 01/24/1989 SAC vs. MIL L 26 16 7 8 87.5 0 0 - 2 2 100.0 1 8 9 0 0 1 1 3 -
+p408
+aVLaSalle Thompson SAC 01/24/1989 SAC vs. MIL L 31 15 4 11 36.4 0 0 - 7 8 87.5 2 5 7 1 0 1 6 3 -
+p409
+aVHarold Pressley SAC 01/24/1989 SAC vs. MIL L 33 16 6 11 54.5 3 4 75.0 1 2 50.0 2 0 2 3 5 0 4 3 -
+p410
+aVKenny Smith SAC 01/24/1989 SAC vs. MIL L 48 19 8 13 61.5 1 2 50.0 2 2 100.0 0 6 6 11 3 0 5 2 -
+p411
+aVEd Pinckney SAC 01/24/1989 SAC vs. MIL L 22 8 4 6 66.7 0 0 - 0 0 - 1 3 4 2 0 0 0 2 -
+p412
+aVBen Gillery SAC 01/21/1989 SAC vs. GOS L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p413
+aVEd Pinckney SAC 01/21/1989 SAC vs. GOS L 25 14 4 4 100.0 0 0 - 6 9 66.7 3 5 8 3 2 0 5 1 -
+p414
+aVRodney McCray SAC 01/21/1989 SAC vs. GOS L 34 17 5 15 33.3 0 0 - 7 10 70.0 6 3 9 3 1 0 4 2 -
+p415
+aVLaSalle Thompson SAC 01/21/1989 SAC vs. GOS L 21 7 3 9 33.3 0 0 - 1 2 50.0 2 4 6 0 0 1 1 1 -
+p416
+aVDerek Smith SAC 01/21/1989 SAC vs. GOS L 10 7 1 3 33.3 1 2 50.0 4 6 66.7 1 3 4 2 0 0 0 1 -
+p417
+aVKenny Smith SAC 01/21/1989 SAC vs. GOS L 40 16 6 15 40.0 0 1 0.0 4 4 100.0 1 4 5 7 2 1 5 1 -
+p418
+aVRandy Wittman SAC 01/21/1989 SAC vs. GOS L 10 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p419
+aVHarold Pressley SAC 01/21/1989 SAC vs. GOS L 31 14 6 15 40.0 2 7 28.6 0 0 - 3 6 9 2 2 0 1 1 -
+p420
+aVVinny Del Negro SAC 01/21/1989 SAC vs. GOS L 32 17 7 14 50.0 0 0 - 3 3 100.0 1 1 2 2 0 2 3 1 -
+p421
+aVJoe Kleine SAC 01/21/1989 SAC vs. GOS L 16 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 1 1 0 2 0 -
+p422
+aVRicky Berry SAC 01/21/1989 SAC vs. GOS L 17 5 2 7 28.6 1 4 25.0 0 0 - 1 2 3 2 0 0 1 6 -
+p423
+aVRicky Berry SAC 01/19/1989 SAC vs. NYK W 21 10 4 5 80.0 0 1 0.0 2 4 50.0 0 4 4 2 0 0 0 1 -
+p424
+aVJoe Kleine SAC 01/19/1989 SAC vs. NYK W 16 4 2 8 25.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -
+p425
+aVEd Pinckney SAC 01/19/1989 SAC vs. NYK W 31 15 5 9 55.6 0 0 - 5 5 100.0 3 2 5 1 0 1 1 1 -
+p426
+aVVinny Del Negro SAC 01/19/1989 SAC vs. NYK W 25 3 1 7 14.3 0 0 - 1 1 100.0 1 4 5 6 2 1 1 3 -
+p427
+aVKenny Smith SAC 01/19/1989 SAC vs. NYK W 40 23 8 13 61.5 2 3 66.7 5 6 83.3 0 4 4 9 1 0 4 4 -
+p428
+aVRodney McCray SAC 01/19/1989 SAC vs. NYK W 44 22 10 14 71.4 0 0 - 2 2 100.0 1 8 9 7 1 1 4 3 -
+p429
+aVLaSalle Thompson SAC 01/19/1989 SAC vs. NYK W 32 21 9 14 64.3 0 0 - 3 3 100.0 3 5 8 3 1 6 5 4 -
+p430
+aVHarold Pressley SAC 01/19/1989 SAC vs. NYK W 31 14 6 12 50.0 1 3 33.3 1 2 50.0 4 4 8 1 1 5 0 5 -
+p431
+aVRandy Wittman SAC 01/17/1989 SAC vs. HOU W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p432
+aVJim Petersen SAC 01/17/1989 SAC vs. HOU W 29 5 2 4 50.0 0 0 - 1 2 50.0 1 8 9 1 2 0 4 4 -
+p433
+aVLaSalle Thompson SAC 01/17/1989 SAC vs. HOU W 25 18 8 16 50.0 0 0 - 2 2 100.0 3 5 8 1 1 1 0 4 -
+p434
+aVRodney McCray SAC 01/17/1989 SAC vs. HOU W 36 15 7 13 53.8 0 0 - 1 4 25.0 1 7 8 6 1 0 3 3 -
+p435
+aVRicky Berry SAC 01/17/1989 SAC vs. HOU W 16 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 4 -
+p436
+aVEd Pinckney SAC 01/17/1989 SAC vs. HOU W 19 20 6 12 50.0 0 0 - 8 9 88.9 0 7 7 1 0 1 3 4 -
+p437
+aVKenny Smith SAC 01/17/1989 SAC vs. HOU W 28 11 5 12 41.7 0 0 - 1 1 100.0 1 1 2 6 1 0 3 1 -
+p438
+aVHarold Pressley SAC 01/17/1989 SAC vs. HOU W 38 24 10 17 58.8 2 5 40.0 2 2 100.0 4 2 6 2 1 1 0 2 -
+p439
+aVVinny Del Negro SAC 01/17/1989 SAC vs. HOU W 22 9 4 9 44.4 0 0 - 1 2 50.0 1 4 5 5 1 0 1 3 -
+p440
+aVJoe Kleine SAC 01/17/1989 SAC vs. HOU W 21 12 5 6 83.3 0 0 - 2 2 100.0 4 3 7 0 1 0 0 4 -
+p441
+aVBen Gillery SAC 01/17/1989 SAC vs. HOU W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -
+p442
+aVDerek Smith SAC 01/17/1989 SAC vs. HOU W 2 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -
+p443
+aVJoe Kleine SAC 01/16/1989 SAC @ DEN L 18 6 2 6 33.3 0 0 - 2 2 100.0 2 5 7 1 1 0 3 0 -
+p444
+aVJim Petersen SAC 01/16/1989 SAC @ DEN L 21 8 4 11 36.4 0 0 - 0 0 - 0 6 6 0 2 0 1 5 -
+p445
+aVHarold Pressley SAC 01/16/1989 SAC @ DEN L 34 17 8 14 57.1 1 3 33.3 0 1 0.0 4 11 15 6 1 1 4 5 -
+p446
+aVVinny Del Negro SAC 01/16/1989 SAC @ DEN L 28 11 5 10 50.0 1 1 100.0 0 0 - 1 2 3 6 0 0 1 3 -
+p447
+aVKenny Smith SAC 01/16/1989 SAC @ DEN L 39 14 5 14 35.7 0 0 - 4 6 66.7 1 0 1 6 1 0 2 2 -
+p448
+aVLaSalle Thompson SAC 01/16/1989 SAC @ DEN L 22 14 7 13 53.8 0 0 - 0 0 - 1 0 1 2 0 3 6 5 -
+p449
+aVRodney McCray SAC 01/16/1989 SAC @ DEN L 39 14 5 7 71.4 0 0 - 4 6 66.7 1 7 8 5 2 0 1 2 -
+p450
+aVRicky Berry SAC 01/16/1989 SAC @ DEN L 12 5 2 3 66.7 1 2 50.0 0 0 - 2 0 2 1 1 0 2 4 -
+p451
+aVEd Pinckney SAC 01/16/1989 SAC @ DEN L 27 21 6 10 60.0 0 0 - 9 11 81.8 2 3 5 1 1 2 2 3 -
+p452
+aVHarold Pressley SAC 01/14/1989 SAC vs. SEA L 40 13 5 11 45.5 2 5 40.0 1 2 50.0 2 2 4 2 2 2 2 2 -
+p453
+aVRicky Berry SAC 01/14/1989 SAC vs. SEA L 23 12 3 9 33.3 0 0 - 6 8 75.0 0 2 2 2 0 0 3 3 -
+p454
+aVJim Petersen SAC 01/14/1989 SAC vs. SEA L 13 0 0 8 0.0 0 0 - 0 0 - 3 2 5 1 2 1 1 2 -
+p455
+aVJoe Kleine SAC 01/14/1989 SAC vs. SEA L 17 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 2 -
+p456
+aVVinny Del Negro SAC 01/14/1989 SAC vs. SEA L 12 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 1 0 0 1 1 -
+p457
+aVLaSalle Thompson SAC 01/14/1989 SAC vs. SEA L 31 16 6 14 42.9 0 0 - 4 5 80.0 4 10 14 0 0 1 6 4 -
+p458
+aVKenny Smith SAC 01/14/1989 SAC vs. SEA L 36 6 1 7 14.3 0 1 0.0 4 4 100.0 0 0 0 3 2 0 0 0 -
+p459
+aVRodney McCray SAC 01/14/1989 SAC vs. SEA L 42 19 6 13 46.2 0 0 - 7 11 63.6 1 6 7 4 0 0 4 3 -
+p460
+aVEd Pinckney SAC 01/14/1989 SAC vs. SEA L 26 13 6 10 60.0 0 0 - 1 5 20.0 4 3 7 2 0 0 3 4 -
+p461
+aVJim Petersen SAC 01/13/1989 SAC @ PHX L 26 12 6 11 54.5 0 0 - 0 0 - 2 4 6 4 0 1 3 4 -
+p462
+aVHarold Pressley SAC 01/13/1989 SAC @ PHX L 24 3 1 9 11.1 1 2 50.0 0 1 0.0 2 5 7 1 1 2 3 1 -
+p463
+aVDerek Smith SAC 01/13/1989 SAC @ PHX L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p464
+aVJoe Kleine SAC 01/13/1989 SAC @ PHX L 21 4 2 6 33.3 0 0 - 0 0 - 1 4 5 2 0 0 1 4 -
+p465
+aVEd Pinckney SAC 01/13/1989 SAC @ PHX L 22 14 4 8 50.0 0 0 - 6 8 75.0 3 4 7 0 0 1 1 0 -
+p466
+aVRandy Wittman SAC 01/13/1989 SAC @ PHX L 7 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 1 0 1 0 -
+p467
+aVRodney McCray SAC 01/13/1989 SAC @ PHX L 32 20 9 11 81.8 0 1 0.0 2 2 100.0 0 7 7 1 0 0 2 1 -
+p468
+aVBen Gillery SAC 01/13/1989 SAC @ PHX L 2 2 1 2 50.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 0 -
+p469
+aVKenny Smith SAC 01/13/1989 SAC @ PHX L 28 5 2 9 22.2 0 2 0.0 1 1 100.0 0 0 0 5 0 0 1 4 -
+p470
+aVLaSalle Thompson SAC 01/13/1989 SAC @ PHX L 25 10 4 17 23.5 0 0 - 2 3 66.7 3 3 6 0 2 0 3 3 -
+p471
+aVRicky Berry SAC 01/13/1989 SAC @ PHX L 18 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 3 2 -
+p472
+aVVinny Del Negro SAC 01/13/1989 SAC @ PHX L 28 10 5 13 38.5 0 0 - 0 0 - 0 2 2 2 1 0 4 1 -
+p473
+aVVinny Del Negro SAC 01/11/1989 SAC @ LAC W 11 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p474
+aVEd Pinckney SAC 01/11/1989 SAC @ LAC W 14 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 0 1 2 2 -
+p475
+aVJim Petersen SAC 01/11/1989 SAC @ LAC W 28 8 3 8 37.5 0 0 - 2 2 100.0 1 2 3 3 1 2 0 2 -
+p476
+aVRodney McCray SAC 01/11/1989 SAC @ LAC W 43 18 8 18 44.4 0 0 - 2 2 100.0 6 4 10 10 4 1 2 1 -
+p477
+aVRicky Berry SAC 01/11/1989 SAC @ LAC W 19 8 3 7 42.9 2 2 100.0 0 0 - 1 1 2 0 1 0 3 3 -
+p478
+aVHarold Pressley SAC 01/11/1989 SAC @ LAC W 40 17 7 14 50.0 3 5 60.0 0 0 - 3 4 7 4 0 3 1 5 -
+p479
+aVKenny Smith SAC 01/11/1989 SAC @ LAC W 37 23 8 20 40.0 1 2 50.0 6 7 85.7 1 3 4 8 1 0 1 1 -
+p480
+aVJoe Kleine SAC 01/11/1989 SAC @ LAC W 18 9 4 11 36.4 0 0 - 1 2 50.0 3 6 9 1 1 0 1 0 -
+p481
+aVLaSalle Thompson SAC 01/11/1989 SAC @ LAC W 30 13 5 12 41.7 0 0 - 3 3 100.0 2 8 10 0 1 4 2 3 -
+p482
+aVHarold Pressley SAC 01/10/1989 SAC vs. LAL W 34 17 7 11 63.6 3 3 100.0 0 0 - 2 4 6 1 1 1 2 1 -
+p483
+aVJim Petersen SAC 01/10/1989 SAC vs. LAL W 26 8 4 13 30.8 0 0 - 0 0 - 1 9 10 0 0 2 2 3 -
+p484
+aVRodney McCray SAC 01/10/1989 SAC vs. LAL W 36 11 3 10 30.0 0 0 - 5 6 83.3 1 3 4 6 0 1 3 3 -
+p485
+aVJoe Kleine SAC 01/10/1989 SAC vs. LAL W 11 5 2 6 33.3 0 0 - 1 1 100.0 1 2 3 0 0 0 0 2 -
+p486
+aVRicky Berry SAC 01/10/1989 SAC vs. LAL W 16 7 3 5 60.0 1 2 50.0 0 1 0.0 0 3 3 0 2 0 1 1 -
+p487
+aVEd Pinckney SAC 01/10/1989 SAC vs. LAL W 22 10 5 12 41.7 0 0 - 0 0 - 4 3 7 1 1 2 0 1 -
+p488
+aVLaSalle Thompson SAC 01/10/1989 SAC vs. LAL W 37 23 8 16 50.0 0 0 - 7 9 77.8 4 7 11 3 2 4 4 5 -
+p489
+aVKenny Smith SAC 01/10/1989 SAC vs. LAL W 39 19 7 13 53.8 3 4 75.0 2 6 33.3 1 6 7 14 3 0 4 1 -
+p490
+aVVinny Del Negro SAC 01/10/1989 SAC vs. LAL W 19 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -
+p491
+aVJim Petersen SAC 01/06/1989 SAC @ POR L 28 10 5 8 62.5 0 0 - 0 0 - 2 3 5 0 0 0 7 6 -
+p492
+aVKenny Smith SAC 01/06/1989 SAC @ POR L 49 19 5 14 35.7 1 3 33.3 8 9 88.9 1 2 3 8 0 0 4 5 -
+p493
+aVJoe Kleine SAC 01/06/1989 SAC @ POR L 15 8 2 2 100.0 0 0 - 4 5 80.0 0 7 7 2 0 0 1 5 -
+p494
+aVEd Pinckney SAC 01/06/1989 SAC @ POR L 25 13 4 9 44.4 0 1 0.0 5 5 100.0 2 3 5 1 2 0 2 4 -
+p495
+aVLaSalle Thompson SAC 01/06/1989 SAC @ POR L 46 31 9 17 52.9 0 0 - 13 14 92.9 2 14 16 3 1 1 7 2 -
+p496
+aVRandy Wittman SAC 01/06/1989 SAC @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p497
+aVRicky Berry SAC 01/06/1989 SAC @ POR L 37 20 7 13 53.8 2 2 100.0 4 5 80.0 1 5 6 3 0 1 5 6 -
+p498
+aVRodney McCray SAC 01/06/1989 SAC @ POR L 50 26 11 16 68.8 0 0 - 4 5 80.0 2 4 6 5 0 0 5 2 -
+p499
+aVVinny Del Negro SAC 01/06/1989 SAC @ POR L 35 15 6 11 54.5 1 2 50.0 2 2 100.0 2 2 4 3 1 0 5 6 -
+p500
+aVJoe Kleine SAC 01/05/1989 SAC @ SEA L 18 8 4 8 50.0 0 0 - 0 0 - 3 0 3 1 0 0 2 2 -
+p501
+aVLaSalle Thompson SAC 01/05/1989 SAC @ SEA L 30 12 4 10 40.0 0 0 - 4 4 100.0 0 2 2 1 0 1 4 2 -
+p502
+aVDerek Smith SAC 01/05/1989 SAC @ SEA L 21 6 1 7 14.3 0 0 - 4 6 66.7 0 3 3 4 0 1 1 1 -
+p503
+aVKenny Smith SAC 01/05/1989 SAC @ SEA L 34 16 6 9 66.7 2 3 66.7 2 4 50.0 1 0 1 10 2 0 4 1 -
+p504
+aVRicky Berry SAC 01/05/1989 SAC @ SEA L 26 15 5 7 71.4 1 1 100.0 4 4 100.0 0 0 0 1 3 1 0 4 -
+p505
+aVVinny Del Negro SAC 01/05/1989 SAC @ SEA L 17 8 4 6 66.7 0 0 - 0 0 - 2 2 4 1 2 0 5 3 -
+p506
+aVRodney McCray SAC 01/05/1989 SAC @ SEA L 35 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 4 2 -
+p507
+aVEd Pinckney SAC 01/05/1989 SAC @ SEA L 23 10 4 9 44.4 0 0 - 2 3 66.7 1 2 3 3 1 0 0 0 -
+p508
+aVJim Petersen SAC 01/05/1989 SAC @ SEA L 36 23 10 15 66.7 0 0 - 3 4 75.0 3 8 11 2 1 1 1 2 -
+p509
+aVHarold Pressley SAC 01/03/1989 SAC vs. DAL W 30 5 2 5 40.0 1 1 100.0 0 0 - 5 1 6 3 0 1 1 3 -
+p510
+aVLaSalle Thompson SAC 01/03/1989 SAC vs. DAL W 28 19 9 18 50.0 0 0 - 1 1 100.0 4 9 13 1 0 2 1 2 -
+p511
+aVVinny Del Negro SAC 01/03/1989 SAC vs. DAL W 20 14 4 6 66.7 0 0 - 6 6 100.0 0 1 1 3 0 0 5 4 -
+p512
+aVBen Gillery SAC 01/03/1989 SAC vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -
+p513
+aVRodney McCray SAC 01/03/1989 SAC vs. DAL W 36 17 7 11 63.6 1 1 100.0 2 4 50.0 0 5 5 5 0 0 0 1 -
+p514
+aVEd Pinckney SAC 01/03/1989 SAC vs. DAL W 20 13 4 8 50.0 0 0 - 5 5 100.0 1 4 5 1 2 2 1 2 -
+p515
+aVDerek Smith SAC 01/03/1989 SAC vs. DAL W 12 0 0 3 0.0 0 0 - 0 0 - 2 4 6 3 0 0 1 1 -
+p516
+aVKenny Smith SAC 01/03/1989 SAC vs. DAL W 31 13 5 15 33.3 1 2 50.0 2 2 100.0 1 3 4 5 1 0 3 4 -
+p517
+aVRicky Berry SAC 01/03/1989 SAC vs. DAL W 12 10 2 4 50.0 0 0 - 6 6 100.0 0 2 2 0 1 1 0 4 -
+p518
+aVRandy Wittman SAC 01/03/1989 SAC vs. DAL W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p519
+aVJoe Kleine SAC 01/03/1989 SAC vs. DAL W 17 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 0 0 1 2 -
+p520
+aVJim Petersen SAC 01/03/1989 SAC vs. DAL W 28 25 10 14 71.4 0 0 - 5 5 100.0 1 7 8 0 0 2 5 3 -
+p521
+aVRandy Wittman SAC 12/28/1988 SAC @ UTH L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p522
+aVJim Petersen SAC 12/28/1988 SAC @ UTH L 28 10 3 13 23.1 0 0 - 4 4 100.0 1 3 4 2 3 0 2 3 -
+p523
+aVJoe Kleine SAC 12/28/1988 SAC @ UTH L 22 4 0 6 0.0 0 0 - 4 4 100.0 0 4 4 1 1 0 2 3 -
+p524
+aVEd Pinckney SAC 12/28/1988 SAC @ UTH L 29 14 6 12 50.0 0 1 0.0 2 3 66.7 5 6 11 4 2 1 2 3 -
+p525
+aVDerek Smith SAC 12/28/1988 SAC @ UTH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p526
+aVKenny Smith SAC 12/28/1988 SAC @ UTH L 40 9 3 16 18.8 0 2 0.0 3 6 50.0 2 2 4 2 2 1 0 2 -
+p527
+aVRodney McCray SAC 12/28/1988 SAC @ UTH L 32 13 4 12 33.3 0 0 - 5 8 62.5 1 5 6 5 1 0 2 3 -
+p528
+aVHarold Pressley SAC 12/28/1988 SAC @ UTH L 26 0 0 10 0.0 0 2 0.0 0 0 - 1 7 8 3 3 1 1 2 -
+p529
+aVVinny Del Negro SAC 12/28/1988 SAC @ UTH L 30 15 6 11 54.5 1 1 100.0 2 2 100.0 1 4 5 2 1 0 1 4 -
+p530
+aVRicky Berry SAC 12/28/1988 SAC @ UTH L 25 15 5 13 38.5 1 4 25.0 4 6 66.7 0 3 3 0 3 2 1 2 -
+p531
+aVJoe Kleine SAC 12/27/1988 SAC vs. POR W 41 15 6 15 40.0 0 0 - 3 3 100.0 8 8 16 3 1 1 4 5 -
+p532
+aVRicky Berry SAC 12/27/1988 SAC vs. POR W 16 8 3 8 37.5 0 0 - 2 2 100.0 1 2 3 2 0 0 2 2 -
+p533
+aVRodney McCray SAC 12/27/1988 SAC vs. POR W 37 16 7 13 53.8 0 0 - 2 2 100.0 1 4 5 6 0 0 3 5 -
+p534
+aVKenny Smith SAC 12/27/1988 SAC vs. POR W 43 25 7 16 43.8 0 3 0.0 11 12 91.7 0 5 5 12 2 0 3 0 -
+p535
+aVJim Petersen SAC 12/27/1988 SAC vs. POR W 34 15 7 16 43.8 0 0 - 1 1 100.0 3 6 9 3 2 3 6 4 -
+p536
+aVVinny Del Negro SAC 12/27/1988 SAC vs. POR W 15 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -
+p537
+aVHarold Pressley SAC 12/27/1988 SAC vs. POR W 33 20 8 16 50.0 0 5 0.0 4 4 100.0 1 1 2 2 2 0 1 5 -
+p538
+aVEd Pinckney SAC 12/27/1988 SAC vs. POR W 21 9 2 4 50.0 0 0 - 5 6 83.3 0 7 7 1 1 0 0 1 -
+p539
+aVKenny Smith SAC 12/23/1988 SAC @ LAL L 36 20 9 14 64.3 2 3 66.7 0 0 - 0 0 0 6 1 0 3 0 -
+p540
+aVVinny Del Negro SAC 12/23/1988 SAC @ LAL L 12 2 1 1 100.0 0 0 - 0 0 - 1 4 5 4 0 0 1 0 -
+p541
+aVJoe Kleine SAC 12/23/1988 SAC @ LAL L 26 13 4 11 36.4 0 0 - 5 5 100.0 4 6 10 0 0 0 1 3 -
+p542
+aVDerek Smith SAC 12/23/1988 SAC @ LAL L 10 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 -
+p543
+aVBen Gillery SAC 12/23/1988 SAC @ LAL L 4 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 3 -
+p544
+aVRicky Berry SAC 12/23/1988 SAC @ LAL L 8 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p545
+aVRandy Wittman SAC 12/23/1988 SAC @ LAL L 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -
+p546
+aVEd Pinckney SAC 12/23/1988 SAC @ LAL L 31 12 3 13 23.1 0 0 - 6 6 100.0 1 3 4 0 2 1 2 1 -
+p547
+aVHarold Pressley SAC 12/23/1988 SAC @ LAL L 33 18 7 13 53.8 1 2 50.0 3 3 100.0 2 1 3 5 2 0 3 5 -
+p548
+aVLaSalle Thompson SAC 12/23/1988 SAC @ LAL L 9 6 3 5 60.0 0 0 - 0 1 0.0 1 0 1 1 0 0 1 0 -
+p549
+aVJim Petersen SAC 12/23/1988 SAC @ LAL L 23 8 4 7 57.1 0 0 - 0 0 - 0 5 5 1 0 0 1 5 -
+p550
+aVRodney McCray SAC 12/23/1988 SAC @ LAL L 35 9 4 9 44.4 0 0 - 1 1 100.0 1 8 9 8 0 1 4 2 -
+p551
+aVVinny Del Negro SAC 12/21/1988 SAC @ SAN L 29 13 4 10 40.0 0 0 - 5 5 100.0 1 1 2 4 3 0 1 1 -
+p552
+aVHarold Pressley SAC 12/21/1988 SAC @ SAN L 35 26 11 21 52.4 0 2 0.0 4 5 80.0 4 2 6 0 2 0 1 3 -
+p553
+aVJim Petersen SAC 12/21/1988 SAC @ SAN L 22 7 3 7 42.9 0 0 - 1 1 100.0 3 5 8 1 1 2 6 3 -
+p554
+aVRodney McCray SAC 12/21/1988 SAC @ SAN L 24 14 6 7 85.7 0 0 - 2 2 100.0 2 4 6 2 1 1 3 1 -
+p555
+aVRicky Berry SAC 12/21/1988 SAC @ SAN L 22 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 6 1 0 3 3 -
+p556
+aVEd Pinckney SAC 12/21/1988 SAC @ SAN L 25 14 5 8 62.5 0 0 - 4 4 100.0 1 2 3 3 1 0 2 2 -
+p557
+aVRandy Wittman SAC 12/21/1988 SAC @ SAN L 20 2 1 4 25.0 0 0 - 0 0 - 0 0 0 4 0 0 1 1 -
+p558
+aVLaSalle Thompson SAC 12/21/1988 SAC @ SAN L 14 9 4 9 44.4 0 0 - 1 2 50.0 0 5 5 0 4 1 5 6 -
+p559
+aVKenny Smith SAC 12/21/1988 SAC @ SAN L 37 16 7 13 53.8 1 1 100.0 1 2 50.0 0 2 2 2 1 0 6 4 -
+p560
+aVJoe Kleine SAC 12/21/1988 SAC @ SAN L 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p561
+aVRodney McCray SAC 12/20/1988 SAC @ HOU L 40 9 3 10 30.0 0 0 - 3 4 75.0 2 11 13 2 1 1 2 2 -
+p562
+aVKenny Smith SAC 12/20/1988 SAC @ HOU L 40 22 10 19 52.6 0 1 0.0 2 4 50.0 0 3 3 7 2 0 2 3 -
+p563
+aVJoe Kleine SAC 12/20/1988 SAC @ HOU L 19 10 3 5 60.0 0 0 - 4 4 100.0 0 1 1 2 0 1 1 4 -
+p564
+aVDerek Smith SAC 12/20/1988 SAC @ HOU L 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 1 0 3 2 -
+p565
+aVHarold Pressley SAC 12/20/1988 SAC @ HOU L 27 14 5 10 50.0 0 2 0.0 4 5 80.0 2 4 6 3 3 1 2 5 -
+p566
+aVJim Petersen SAC 12/20/1988 SAC @ HOU L 30 17 8 16 50.0 0 0 - 1 2 50.0 4 2 6 2 0 1 1 6 -
+p567
+aVRandy Wittman SAC 12/20/1988 SAC @ HOU L 36 10 4 10 40.0 0 0 - 2 4 50.0 0 7 7 1 0 0 0 1 -
+p568
+aVVinny Del Negro SAC 12/20/1988 SAC @ HOU L 8 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -
+p569
+aVEd Pinckney SAC 12/20/1988 SAC @ HOU L 22 13 5 8 62.5 0 0 - 3 4 75.0 2 5 7 1 1 0 0 4 -
+p570
+aVRicky Berry SAC 12/20/1988 SAC @ HOU L 8 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 1 -
+p571
+aVHarold Pressley SAC 12/17/1988 SAC @ SEA L 26 21 7 9 77.8 2 2 100.0 5 7 71.4 1 1 2 4 2 1 5 3 -
+p572
+aVVinny Del Negro SAC 12/17/1988 SAC @ SEA L 28 11 5 7 71.4 0 1 0.0 1 2 50.0 1 2 3 6 0 1 1 3 -
+p573
+aVEd Pinckney SAC 12/17/1988 SAC @ SEA L 20 11 4 7 57.1 0 0 - 3 4 75.0 3 0 3 1 1 1 1 2 -
+p574
+aVJim Petersen SAC 12/17/1988 SAC @ SEA L 20 7 3 7 42.9 0 0 - 1 1 100.0 1 3 4 2 0 1 2 5 -
+p575
+aVJoe Kleine SAC 12/17/1988 SAC @ SEA L 24 6 3 11 27.3 0 0 - 0 0 - 1 3 4 2 2 1 2 3 -
+p576
+aVDerek Smith SAC 12/17/1988 SAC @ SEA L 22 6 2 9 22.2 0 0 - 2 2 100.0 3 1 4 1 1 3 1 3 -
+p577
+aVRicky Berry SAC 12/17/1988 SAC @ SEA L 14 9 4 9 44.4 0 0 - 1 2 50.0 0 2 2 1 0 0 4 3 -
+p578
+aVRandy Wittman SAC 12/17/1988 SAC @ SEA L 22 14 7 9 77.8 0 0 - 0 0 - 0 4 4 3 1 0 0 0 -
+p579
+aVBen Gillery SAC 12/17/1988 SAC @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p580
+aVRodney McCray SAC 12/17/1988 SAC @ SEA L 32 16 6 16 37.5 0 1 0.0 4 5 80.0 5 4 9 4 1 2 4 1 -
+p581
+aVKenny Smith SAC 12/17/1988 SAC @ SEA L 29 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 6 0 1 3 2 -
+p582
+aVKenny Smith SAC 12/15/1988 SAC vs. MIA W 42 19 6 13 46.2 0 1 0.0 7 9 77.8 1 0 1 7 0 1 2 4 -
+p583
+aVEd Pinckney SAC 12/15/1988 SAC vs. MIA W 27 9 2 5 40.0 0 0 - 5 8 62.5 2 5 7 1 1 1 3 2 -
+p584
+aVVinny Del Negro SAC 12/15/1988 SAC vs. MIA W 18 13 4 9 44.4 0 0 - 5 5 100.0 1 0 1 1 3 0 1 3 -
+p585
+aVDerek Smith SAC 12/15/1988 SAC vs. MIA W 16 8 4 8 50.0 0 2 0.0 0 0 - 0 1 1 1 1 0 1 3 -
+p586
+aVRandy Wittman SAC 12/15/1988 SAC vs. MIA W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p587
+aVJim Petersen SAC 12/15/1988 SAC vs. MIA W 21 11 4 7 57.1 0 0 - 3 4 75.0 3 3 6 1 0 2 4 5 -
+p588
+aVJoe Kleine SAC 12/15/1988 SAC vs. MIA W 15 1 0 3 0.0 0 0 - 1 2 50.0 1 6 7 0 1 2 1 2 -
+p589
+aVHarold Pressley SAC 12/15/1988 SAC vs. MIA W 18 1 0 9 0.0 0 1 0.0 1 2 50.0 1 3 4 1 1 0 2 2 -
+p590
+aVRodney McCray SAC 12/15/1988 SAC vs. MIA W 43 15 6 12 50.0 0 1 0.0 3 4 75.0 2 3 5 4 3 0 1 1 -
+p591
+aVLaSalle Thompson SAC 12/15/1988 SAC vs. MIA W 33 15 6 13 46.2 0 0 - 3 4 75.0 3 6 9 0 0 0 2 3 -
+p592
+aVDerek Smith SAC 12/13/1988 SAC vs. SAN W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p593
+aVJoe Kleine SAC 12/13/1988 SAC vs. SAN W 14 7 3 9 33.3 0 0 - 1 1 100.0 3 4 7 1 0 0 3 2 -
+p594
+aVJim Petersen SAC 12/13/1988 SAC vs. SAN W 30 22 5 12 41.7 0 0 - 12 16 75.0 3 8 11 1 1 2 4 4 -
+p595
+aVRandy Wittman SAC 12/13/1988 SAC vs. SAN W 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p596
+aVEd Pinckney SAC 12/13/1988 SAC vs. SAN W 34 12 2 5 40.0 0 0 - 8 10 80.0 2 7 9 3 1 4 4 3 -
+p597
+aVKenny Smith SAC 12/13/1988 SAC vs. SAN W 40 14 6 14 42.9 1 2 50.0 1 1 100.0 0 2 2 3 2 0 3 4 -
+p598
+aVHarold Pressley SAC 12/13/1988 SAC vs. SAN W 39 26 8 17 47.1 4 7 57.1 6 9 66.7 3 6 9 2 1 2 3 3 -
+p599
+aVRodney McCray SAC 12/13/1988 SAC vs. SAN W 41 16 6 12 50.0 0 1 0.0 4 6 66.7 5 5 10 5 1 1 5 2 -
+p600
+aVRicky Berry SAC 12/13/1988 SAC vs. SAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p601
+aVVinny Del Negro SAC 12/13/1988 SAC vs. SAN W 22 11 5 11 45.5 0 0 - 1 1 100.0 1 2 3 5 1 1 0 5 -
+p602
+aVKenny Smith SAC 12/10/1988 SAC @ NYK L 37 16 7 18 38.9 2 4 50.0 0 0 - 2 3 5 13 0 0 1 3 -
+p603
+aVRandy Wittman SAC 12/10/1988 SAC @ NYK L 25 12 6 8 75.0 0 0 - 0 0 - 1 2 3 4 1 0 0 0 -
+p604
+aVRodney McCray SAC 12/10/1988 SAC @ NYK L 42 13 6 14 42.9 0 0 - 1 3 33.3 3 6 9 2 0 0 6 1 -
+p605
+aVJoe Kleine SAC 12/10/1988 SAC @ NYK L 30 19 9 13 69.2 0 0 - 1 1 100.0 3 3 6 1 0 0 2 5 -
+p606
+aVDerek Smith SAC 12/10/1988 SAC @ NYK L 23 10 5 11 45.5 0 2 0.0 0 0 - 0 9 9 5 0 0 1 3 -
+p607
+aVEd Pinckney SAC 12/10/1988 SAC @ NYK L 44 17 7 13 53.8 0 1 0.0 3 3 100.0 2 7 9 4 1 1 5 2 -
+p608
+aVVinny Del Negro SAC 12/10/1988 SAC @ NYK L 11 6 2 4 50.0 0 1 0.0 2 2 100.0 1 0 1 3 0 0 0 1 -
+p609
+aVHarold Pressley SAC 12/10/1988 SAC @ NYK L 28 18 7 14 50.0 4 8 50.0 0 0 - 1 1 2 2 1 0 1 3 -
+p610
+aVDerek Smith SAC 12/09/1988 SAC @ IND L 16 3 1 5 20.0 0 1 0.0 1 1 100.0 1 1 2 1 2 0 2 3 -
+p611
+aVVinny Del Negro SAC 12/09/1988 SAC @ IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -
+p612
+aVRandy Wittman SAC 12/09/1988 SAC @ IND L 32 15 5 8 62.5 1 1 100.0 4 4 100.0 1 0 1 3 0 0 1 1 -
+p613
+aVRodney McCray SAC 12/09/1988 SAC @ IND L 40 12 5 14 35.7 0 0 - 2 3 66.7 3 6 9 5 1 0 4 1 -
+p614
+aVHarold Pressley SAC 12/09/1988 SAC @ IND L 9 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 1 0 1 1 0 -
+p615
+aVJim Petersen SAC 12/09/1988 SAC @ IND L 29 18 7 15 46.7 0 1 0.0 4 4 100.0 2 7 9 2 0 1 1 4 -
+p616
+aVJoe Kleine SAC 12/09/1988 SAC @ IND L 19 0 0 6 0.0 0 0 - 0 0 - 2 0 2 0 1 1 3 1 -
+p617
+aVKenny Smith SAC 12/09/1988 SAC @ IND L 42 33 12 19 63.2 2 3 66.7 7 8 87.5 3 0 3 8 1 0 2 4 -
+p618
+aVEd Pinckney SAC 12/09/1988 SAC @ IND L 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -
+p619
+aVLaSalle Thompson SAC 12/09/1988 SAC @ IND L 28 20 7 14 50.0 0 0 - 6 7 85.7 4 6 10 1 2 1 3 1 -
+p620
+aVJim Petersen SAC 12/07/1988 SAC @ MIA W 9 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 1 1 4 -
+p621
+aVLaSalle Thompson SAC 12/07/1988 SAC @ MIA W 32 17 4 11 36.4 0 0 - 9 10 90.0 2 3 5 0 0 1 1 6 -
+p622
+aVRandy Wittman SAC 12/07/1988 SAC @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p623
+aVVinny Del Negro SAC 12/07/1988 SAC @ MIA W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 2 0 1 1 -
+p624
+aVRodney McCray SAC 12/07/1988 SAC @ MIA W 41 17 7 14 50.0 0 0 - 3 3 100.0 2 6 8 8 0 1 2 1 -
+p625
+aVRicky Berry SAC 12/07/1988 SAC @ MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -
+p626
+aVKenny Smith SAC 12/07/1988 SAC @ MIA W 40 17 7 18 38.9 0 1 0.0 3 6 50.0 0 6 6 5 2 0 1 0 -
+p627
+aVEd Pinckney SAC 12/07/1988 SAC @ MIA W 39 11 3 5 60.0 0 0 - 5 5 100.0 1 9 10 0 1 0 1 4 -
+p628
+aVHarold Pressley SAC 12/07/1988 SAC @ MIA W 11 4 1 5 20.0 0 1 0.0 2 2 100.0 2 2 4 1 0 1 0 1 -
+p629
+aVJoe Kleine SAC 12/07/1988 SAC @ MIA W 16 6 1 3 33.3 0 0 - 4 4 100.0 2 2 4 0 0 2 2 4 -
+p630
+aVDerek Smith SAC 12/07/1988 SAC @ MIA W 37 21 5 13 38.5 0 0 - 11 15 73.3 3 3 6 4 2 1 2 2 -
+p631
+aVRicky Berry SAC 12/06/1988 SAC @ ATL L 4 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 1 -
+p632
+aVJim Petersen SAC 12/06/1988 SAC @ ATL L 19 6 3 6 50.0 0 0 - 0 0 - 0 3 3 3 0 0 3 4 -
+p633
+aVLaSalle Thompson SAC 12/06/1988 SAC @ ATL L 34 25 11 16 68.8 0 0 - 3 4 75.0 2 4 6 0 1 0 2 4 -
+p634
+aVRodney McCray SAC 12/06/1988 SAC @ ATL L 30 4 2 4 50.0 0 0 - 0 0 - 0 3 3 4 1 0 1 4 -
+p635
+aVRandy Wittman SAC 12/06/1988 SAC @ ATL L 19 6 3 5 60.0 0 0 - 0 0 - 1 0 1 4 0 0 0 0 -
+p636
+aVKenny Smith SAC 12/06/1988 SAC @ ATL L 33 11 4 11 36.4 0 1 0.0 3 4 75.0 1 4 5 6 0 0 2 2 -
+p637
+aVVinny Del Negro SAC 12/06/1988 SAC @ ATL L 15 4 2 6 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p638
+aVEd Pinckney SAC 12/06/1988 SAC @ ATL L 27 16 7 12 58.3 0 0 - 2 2 100.0 2 2 4 2 1 0 2 4 -
+p639
+aVHarold Pressley SAC 12/06/1988 SAC @ ATL L 18 14 6 10 60.0 2 4 50.0 0 0 - 2 3 5 2 0 0 1 2 -
+p640
+aVDerek Smith SAC 12/06/1988 SAC @ ATL L 25 16 8 12 66.7 0 0 - 0 2 0.0 1 1 2 5 1 0 3 4 -
+p641
+aVJoe Kleine SAC 12/06/1988 SAC @ ATL L 16 7 1 2 50.0 0 0 - 5 5 100.0 2 3 5 0 0 1 4 3 -
+p642
+aVLaSalle Thompson SAC 12/03/1988 SAC vs. UTH L 29 13 4 11 36.4 0 0 - 5 5 100.0 4 8 12 2 2 0 2 4 -
+p643
+aVRodney McCray SAC 12/03/1988 SAC vs. UTH L 29 14 7 15 46.7 0 0 - 0 0 - 2 1 3 0 0 0 4 1 -
+p644
+aVEd Pinckney SAC 12/03/1988 SAC vs. UTH L 18 5 2 6 33.3 0 0 - 1 3 33.3 0 1 1 0 0 0 1 1 -
+p645
+aVJim Petersen SAC 12/03/1988 SAC vs. UTH L 25 6 0 7 0.0 0 0 - 6 10 60.0 4 0 4 0 2 1 0 2 -
+p646
+aVVinny Del Negro SAC 12/03/1988 SAC vs. UTH L 17 6 2 4 50.0 0 1 0.0 2 2 100.0 1 3 4 2 0 0 1 3 -
+p647
+aVBen Gillery SAC 12/03/1988 SAC vs. UTH L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -
+p648
+aVRicky Berry SAC 12/03/1988 SAC vs. UTH L 16 7 2 10 20.0 0 2 0.0 3 4 75.0 3 1 4 1 0 0 0 3 -
+p649
+aVJoe Kleine SAC 12/03/1988 SAC vs. UTH L 20 8 4 13 30.8 0 0 - 0 0 - 3 6 9 0 0 0 1 2 -
+p650
+aVRandy Wittman SAC 12/03/1988 SAC vs. UTH L 14 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p651
+aVHarold Pressley SAC 12/03/1988 SAC vs. UTH L 24 5 1 7 14.3 1 2 50.0 2 2 100.0 2 3 5 3 0 2 2 1 -
+p652
+aVKenny Smith SAC 12/03/1988 SAC vs. UTH L 31 6 3 10 30.0 0 0 - 0 2 0.0 0 2 2 0 3 0 3 0 -
+p653
+aVDerek Smith SAC 12/03/1988 SAC vs. UTH L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 1 1 1 -
+p654
+aVEd Pinckney SAC 12/01/1988 SAC vs. DEN L 35 17 6 8 75.0 0 0 - 5 7 71.4 4 3 7 3 0 2 4 3 -
+p655
+aVRicky Berry SAC 12/01/1988 SAC vs. DEN L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p656
+aVJim Petersen SAC 12/01/1988 SAC vs. DEN L 18 11 3 6 50.0 0 0 - 5 6 83.3 0 3 3 0 0 0 1 5 -
+p657
+aVHarold Pressley SAC 12/01/1988 SAC vs. DEN L 16 8 3 6 50.0 0 2 0.0 2 2 100.0 1 1 2 2 0 0 0 2 -
+p658
+aVDerek Smith SAC 12/01/1988 SAC vs. DEN L 38 19 6 14 42.9 0 0 - 7 10 70.0 2 4 6 2 2 0 5 4 -
+p659
+aVLaSalle Thompson SAC 12/01/1988 SAC vs. DEN L 39 18 6 16 37.5 0 0 - 6 7 85.7 1 10 11 1 2 2 3 4 -
+p660
+aVKenny Smith SAC 12/01/1988 SAC vs. DEN L 41 19 8 15 53.3 0 1 0.0 3 4 75.0 1 3 4 8 0 0 3 2 -
+p661
+aVJoe Kleine SAC 12/01/1988 SAC vs. DEN L 14 4 1 2 50.0 0 0 - 2 3 66.7 0 2 2 1 1 1 1 2 -
+p662
+aVVinny Del Negro SAC 12/01/1988 SAC vs. DEN L 12 8 3 3 100.0 0 0 - 2 2 100.0 1 1 2 2 0 0 1 2 -
+p663
+aVRodney McCray SAC 12/01/1988 SAC vs. DEN L 48 20 9 13 69.2 0 0 - 2 2 100.0 1 11 12 10 2 0 5 1 -
+p664
+aVLaSalle Thompson SAC 11/29/1988 SAC vs. LAC W 24 18 6 13 46.2 0 0 - 6 8 75.0 4 7 11 0 1 2 2 1 -
+p665
+aVRodney McCray SAC 11/29/1988 SAC vs. LAC W 28 5 2 7 28.6 0 0 - 1 2 50.0 2 4 6 6 4 1 4 1 -
+p666
+aVRicky Berry SAC 11/29/1988 SAC vs. LAC W 16 10 5 7 71.4 0 0 - 0 0 - 0 0 0 2 1 0 0 3 -
+p667
+aVDerek Smith SAC 11/29/1988 SAC vs. LAC W 25 14 5 11 45.5 0 1 0.0 4 6 66.7 1 3 4 8 0 0 2 2 -
+p668
+aVEd Pinckney SAC 11/29/1988 SAC vs. LAC W 27 12 5 9 55.6 0 0 - 2 2 100.0 2 5 7 3 2 0 0 2 -
+p669
+aVJoe Kleine SAC 11/29/1988 SAC vs. LAC W 21 12 4 7 57.1 0 0 - 4 4 100.0 2 3 5 2 0 0 4 1 -
+p670
+aVHarold Pressley SAC 11/29/1988 SAC vs. LAC W 23 17 7 10 70.0 3 3 100.0 0 0 - 1 2 3 1 2 0 2 4 -
+p671
+aVBen Gillery SAC 11/29/1988 SAC vs. LAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p672
+aVRandy Wittman SAC 11/29/1988 SAC vs. LAC W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p673
+aVKenny Smith SAC 11/29/1988 SAC vs. LAC W 33 17 8 12 66.7 1 1 100.0 0 0 - 1 2 3 7 1 0 3 1 -
+p674
+aVJim Petersen SAC 11/29/1988 SAC vs. LAC W 20 12 4 7 57.1 0 0 - 4 4 100.0 1 4 5 2 3 2 0 3 -
+p675
+aVVinny Del Negro SAC 11/29/1988 SAC vs. LAC W 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 1 1 3 -
+p676
+aVEd Pinckney SAC 11/26/1988 SAC vs. NJN L 21 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 2 1 0 2 0 -
+p677
+aVKenny Smith SAC 11/26/1988 SAC vs. NJN L 33 5 2 9 22.2 0 1 0.0 1 1 100.0 0 1 1 10 2 0 0 2 -
+p678
+aVRicky Berry SAC 11/26/1988 SAC vs. NJN L 16 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 2 0 0 1 3 -
+p679
+aVDerek Smith SAC 11/26/1988 SAC vs. NJN L 25 15 6 15 40.0 0 1 0.0 3 6 50.0 2 3 5 1 0 0 1 4 -
+p680
+aVRodney McCray SAC 11/26/1988 SAC vs. NJN L 38 10 5 11 45.5 0 0 - 0 0 - 0 5 5 4 0 0 3 1 -
+p681
+aVJim Petersen SAC 11/26/1988 SAC vs. NJN L 13 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -
+p682
+aVVinny Del Negro SAC 11/26/1988 SAC vs. NJN L 28 14 6 11 54.5 0 0 - 2 5 40.0 3 3 6 4 2 0 1 2 -
+p683
+aVLaSalle Thompson SAC 11/26/1988 SAC vs. NJN L 35 22 10 15 66.7 0 0 - 2 2 100.0 3 9 12 0 3 1 5 2 -
+p684
+aVJoe Kleine SAC 11/26/1988 SAC vs. NJN L 15 7 2 3 66.7 0 0 - 3 3 100.0 1 2 3 2 0 0 2 2 -
+p685
+aVHarold Pressley SAC 11/26/1988 SAC vs. NJN L 16 9 4 8 50.0 1 2 50.0 0 0 - 1 2 3 1 0 0 2 2 -
+p686
+aVLaSalle Thompson SAC 11/22/1988 SAC vs. CHI L 36 18 7 12 58.3 0 0 - 4 4 100.0 2 4 6 3 2 1 3 4 -
+p687
+aVRodney McCray SAC 11/22/1988 SAC vs. CHI L 38 14 7 10 70.0 0 0 - 0 0 - 3 3 6 6 0 0 1 1 -
+p688
+aVRandy Wittman SAC 11/22/1988 SAC vs. CHI L 12 3 1 5 20.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -
+p689
+aVVinny Del Negro SAC 11/22/1988 SAC vs. CHI L 24 15 7 8 87.5 0 0 - 1 1 100.0 1 2 3 7 3 0 1 4 -
+p690
+aVHarold Pressley SAC 11/22/1988 SAC vs. CHI L 10 7 3 6 50.0 0 2 0.0 1 2 50.0 3 1 4 0 0 0 1 0 -
+p691
+aVDerek Smith SAC 11/22/1988 SAC vs. CHI L 27 14 7 17 41.2 0 0 - 0 0 - 0 1 1 2 1 0 2 0 -
+p692
+aVKenny Smith SAC 11/22/1988 SAC vs. CHI L 33 9 4 10 40.0 0 0 - 1 2 50.0 0 0 0 3 0 0 1 1 -
+p693
+aVJoe Kleine SAC 11/22/1988 SAC vs. CHI L 12 2 1 6 16.7 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -
+p694
+aVJim Petersen SAC 11/22/1988 SAC vs. CHI L 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -
+p695
+aVEd Pinckney SAC 11/22/1988 SAC vs. CHI L 35 14 7 16 43.8 0 1 0.0 0 0 - 1 4 5 2 4 1 2 2 -
+p696
+aVRodney McCray SAC 11/19/1988 SAC vs. IND W 42 18 5 10 50.0 0 0 - 8 12 66.7 0 11 11 6 2 0 3 2 -
+p697
+aVVinny Del Negro SAC 11/19/1988 SAC vs. IND W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p698
+aVKenny Smith SAC 11/19/1988 SAC vs. IND W 40 20 6 12 50.0 0 0 - 8 10 80.0 0 2 2 9 0 0 0 2 -
+p699
+aVRandy Wittman SAC 11/19/1988 SAC vs. IND W 18 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p700
+aVEd Pinckney SAC 11/19/1988 SAC vs. IND W 31 26 9 10 90.0 0 0 - 8 9 88.9 2 6 8 0 2 1 2 5 -
+p701
+aVJoe Kleine SAC 11/19/1988 SAC vs. IND W 25 7 1 8 12.5 0 0 - 5 6 83.3 1 9 10 0 0 0 2 4 -
+p702
+aVDerek Smith SAC 11/19/1988 SAC vs. IND W 30 17 7 20 35.0 0 0 - 3 4 75.0 3 1 4 1 2 0 2 3 -
+p703
+aVLaSalle Thompson SAC 11/19/1988 SAC vs. IND W 35 13 4 12 33.3 0 0 - 5 6 83.3 0 11 11 1 2 0 1 5 -
+p704
+aVHarold Pressley SAC 11/19/1988 SAC vs. IND W 11 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 1 0 2 -
+p705
+aVEd Pinckney SAC 11/16/1988 SAC @ LAC L 11 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 0 0 0 2 -
+p706
+aVVinny Del Negro SAC 11/16/1988 SAC @ LAC L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -
+p707
+aVRodney McCray SAC 11/16/1988 SAC @ LAC L 41 22 8 15 53.3 0 0 - 6 6 100.0 3 7 10 4 1 3 6 4 -
+p708
+aVKenny Smith SAC 11/16/1988 SAC @ LAC L 41 12 5 15 33.3 0 0 - 2 3 66.7 0 2 2 8 1 0 4 1 -
+p709
+aVDerek Smith SAC 11/16/1988 SAC @ LAC L 41 27 9 25 36.0 0 0 - 9 13 69.2 4 0 4 2 1 0 2 5 -
+p710
+aVRandy Wittman SAC 11/16/1988 SAC @ LAC L 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p711
+aVHarold Pressley SAC 11/16/1988 SAC @ LAC L 43 12 5 17 29.4 0 3 0.0 2 2 100.0 7 3 10 2 5 2 4 5 -
+p712
+aVLaSalle Thompson SAC 11/16/1988 SAC @ LAC L 44 24 8 16 50.0 0 0 - 8 11 72.7 7 15 22 2 4 2 5 4 -
+p713
+aVDerek Smith SAC 11/15/1988 SAC vs. PHX L 35 22 10 22 45.5 0 1 0.0 2 3 66.7 0 4 4 3 1 0 3 2 -
+p714
+aVLaSalle Thompson SAC 11/15/1988 SAC vs. PHX L 30 2 1 8 12.5 0 0 - 0 0 - 1 7 8 0 1 1 1 5 -
+p715
+aVHarold Pressley SAC 11/15/1988 SAC vs. PHX L 32 12 5 13 38.5 2 3 66.7 0 1 0.0 4 0 4 2 1 1 0 3 -
+p716
+aVRodney McCray SAC 11/15/1988 SAC vs. PHX L 36 10 4 11 36.4 0 1 0.0 2 6 33.3 2 8 10 3 1 1 0 2 -
+p717
+aVKenny Smith SAC 11/15/1988 SAC vs. PHX L 37 23 10 14 71.4 0 1 0.0 3 6 50.0 0 0 0 11 0 0 5 2 -
+p718
+aVRandy Wittman SAC 11/15/1988 SAC vs. PHX L 24 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -
+p719
+aVBen Gillery SAC 11/15/1988 SAC vs. PHX L 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -
+p720
+aVEd Pinckney SAC 11/15/1988 SAC vs. PHX L 25 10 2 7 28.6 0 0 - 6 9 66.7 1 5 6 0 0 0 0 2 -
+p721
+aVVinny Del Negro SAC 11/15/1988 SAC vs. PHX L 16 4 2 5 40.0 0 0 - 0 0 - 0 2 2 5 0 0 1 4 -
+p722
+aVRodney McCray SAC 11/13/1988 SAC @ HOU L 40 29 11 20 55.0 1 1 100.0 6 8 75.0 3 9 12 7 1 0 2 2 -
+p723
+aVRandy Wittman SAC 11/13/1988 SAC @ HOU L 24 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 2 -
+p724
+aVHarold Pressley SAC 11/13/1988 SAC @ HOU L 37 13 6 11 54.5 1 3 33.3 0 2 0.0 3 3 6 1 0 0 4 4 -
+p725
+aVVinny Del Negro SAC 11/13/1988 SAC @ HOU L 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p726
+aVDerek Smith SAC 11/13/1988 SAC @ HOU L 34 22 10 16 62.5 0 1 0.0 2 4 50.0 0 3 3 3 3 1 3 6 -
+p727
+aVLaSalle Thompson SAC 11/13/1988 SAC @ HOU L 34 24 9 11 81.8 0 0 - 6 10 60.0 4 7 11 0 2 1 4 6 -
+p728
+aVEd Pinckney SAC 11/13/1988 SAC @ HOU L 23 11 5 10 50.0 0 0 - 1 2 50.0 5 6 11 1 2 0 1 6 -
+p729
+aVKenny Smith SAC 11/13/1988 SAC @ HOU L 46 21 8 16 50.0 0 1 0.0 5 6 83.3 0 2 2 11 3 0 2 5 -
+p730
+aVBen Gillery SAC 11/12/1988 SAC @ DAL L 8 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -
+p731
+aVRandy Wittman SAC 11/12/1988 SAC @ DAL L 20 2 1 7 14.3 0 0 - 0 0 - 1 0 1 2 2 0 0 0 -
+p732
+aVHarold Pressley SAC 11/12/1988 SAC @ DAL L 24 10 5 14 35.7 0 2 0.0 0 1 0.0 4 0 4 1 1 1 3 4 -
+p733
+aVRodney McCray SAC 11/12/1988 SAC @ DAL L 32 14 5 10 50.0 0 0 - 4 8 50.0 1 5 6 2 0 2 1 1 -
+p734
+aVDerek Smith SAC 11/12/1988 SAC @ DAL L 17 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p735
+aVJoe Kleine SAC 11/12/1988 SAC @ DAL L 19 0 0 6 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 3 -
+p736
+aVLaSalle Thompson SAC 11/12/1988 SAC @ DAL L 31 12 5 14 35.7 0 0 - 2 4 50.0 4 10 14 0 0 0 5 3 -
+p737
+aVVinny Del Negro SAC 11/12/1988 SAC @ DAL L 18 3 1 6 16.7 0 1 0.0 1 3 33.3 0 3 3 2 1 0 0 4 -
+p738
+aVKenny Smith SAC 11/12/1988 SAC @ DAL L 30 11 3 9 33.3 0 0 - 5 7 71.4 0 2 2 6 0 0 1 2 -
+p739
+aVRicky Berry SAC 11/12/1988 SAC @ DAL L 11 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 -
+p740
+aVEd Pinckney SAC 11/12/1988 SAC @ DAL L 30 15 5 14 35.7 0 0 - 5 5 100.0 2 7 9 2 1 0 0 4 -
+p741
+aVEd Pinckney SAC 11/09/1988 SAC @ UTH L 20 0 0 5 0.0 0 0 - 0 0 - 1 3 4 1 0 0 2 3 -
+p742
+aVRicky Berry SAC 11/09/1988 SAC @ UTH L 9 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 2 -
+p743
+aVRandy Wittman SAC 11/09/1988 SAC @ UTH L 20 4 1 7 14.3 0 0 - 2 2 100.0 0 1 1 1 1 0 0 0 -
+p744
+aVRodney McCray SAC 11/09/1988 SAC @ UTH L 34 4 0 15 0.0 0 0 - 4 4 100.0 2 6 8 8 3 1 2 0 -
+p745
+aVVinny Del Negro SAC 11/09/1988 SAC @ UTH L 9 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 3 -
+p746
+aVHarold Pressley SAC 11/09/1988 SAC @ UTH L 14 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 1 0 2 -
+p747
+aVJoe Kleine SAC 11/09/1988 SAC @ UTH L 29 12 5 10 50.0 0 0 - 2 2 100.0 4 2 6 0 1 0 1 5 -
+p748
+aVDerek Smith SAC 11/09/1988 SAC @ UTH L 28 18 7 18 38.9 0 1 0.0 4 6 66.7 4 1 5 1 1 1 3 4 -
+p749
+aVKenny Smith SAC 11/09/1988 SAC @ UTH L 39 22 9 16 56.3 0 1 0.0 4 6 66.7 1 2 3 4 2 0 2 3 -
+p750
+aVBen Gillery SAC 11/09/1988 SAC @ UTH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p751
+aVLaSalle Thompson SAC 11/09/1988 SAC @ UTH L 35 12 6 10 60.0 0 0 - 0 0 - 4 10 14 0 0 0 6 6 -
+p752
+aVEd Pinckney SAC 11/08/1988 SAC vs. SEA L 29 7 1 4 25.0 0 0 - 5 6 83.3 2 3 5 1 1 0 1 0 -
+p753
+aVRodney McCray SAC 11/08/1988 SAC vs. SEA L 31 5 2 9 22.2 0 0 - 1 2 50.0 2 3 5 1 3 0 1 0 -
+p754
+aVJoe Kleine SAC 11/08/1988 SAC vs. SEA L 27 4 1 8 12.5 0 0 - 2 2 100.0 1 5 6 0 0 1 3 3 -
+p755
+aVHarold Pressley SAC 11/08/1988 SAC vs. SEA L 18 9 2 9 22.2 1 3 33.3 4 4 100.0 4 1 5 1 0 1 0 2 -
+p756
+aVLaSalle Thompson SAC 11/08/1988 SAC vs. SEA L 34 16 5 13 38.5 0 0 - 6 8 75.0 4 6 10 1 1 3 0 3 -
+p757
+aVRicky Berry SAC 11/08/1988 SAC vs. SEA L 3 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p758
+aVVinny Del Negro SAC 11/08/1988 SAC vs. SEA L 19 7 2 6 33.3 1 1 100.0 2 2 100.0 1 1 2 2 2 0 1 2 -
+p759
+aVRandy Wittman SAC 11/08/1988 SAC vs. SEA L 23 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 1 -
+p760
+aVBen Gillery SAC 11/08/1988 SAC vs. SEA L 3 0 0 1 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 1 0 -
+p761
+aVDerek Smith SAC 11/08/1988 SAC vs. SEA L 25 11 4 14 28.6 1 2 50.0 2 3 66.7 1 0 1 3 0 0 0 4 -
+p762
+aVKenny Smith SAC 11/08/1988 SAC vs. SEA L 28 6 3 8 37.5 0 0 - 0 0 - 1 1 2 4 0 0 3 0 -
+p763
+aVBen Gillery SAC 11/05/1988 SAC @ POR L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p764
+aVLaSalle Thompson SAC 11/05/1988 SAC @ POR L 36 18 6 11 54.5 0 0 - 6 7 85.7 5 4 9 1 1 1 2 5 -
+p765
+aVRicky Berry SAC 11/05/1988 SAC @ POR L 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p766
+aVVinny Del Negro SAC 11/05/1988 SAC @ POR L 15 6 3 6 50.0 0 0 - 0 0 - 0 2 2 2 1 0 1 0 -
+p767
+aVDerek Smith SAC 11/05/1988 SAC @ POR L 35 19 7 12 58.3 0 0 - 5 6 83.3 1 2 3 3 0 0 4 2 -
+p768
+aVRandy Wittman SAC 11/05/1988 SAC @ POR L 13 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 2 1 0 2 0 -
+p769
+aVRodney McCray SAC 11/05/1988 SAC @ POR L 33 6 3 7 42.9 0 0 - 0 0 - 2 7 9 7 1 0 4 1 -
+p770
+aVKenny Smith SAC 11/05/1988 SAC @ POR L 33 22 9 19 47.4 1 1 100.0 3 3 100.0 1 0 1 2 1 0 5 3 -
+p771
+aVJoe Kleine SAC 11/05/1988 SAC @ POR L 26 8 2 8 25.0 0 0 - 4 4 100.0 2 6 8 1 0 1 2 4 -
+p772
+aVEd Pinckney SAC 11/05/1988 SAC @ POR L 23 7 2 9 22.2 0 0 - 3 3 100.0 1 4 5 1 0 0 0 3 -
+p773
+aVHarold Pressley SAC 11/05/1988 SAC @ POR L 22 8 3 11 27.3 2 6 33.3 0 0 - 2 2 4 0 2 0 3 1 -
+p774
+a.

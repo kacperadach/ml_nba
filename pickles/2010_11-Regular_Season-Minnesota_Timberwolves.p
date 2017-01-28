@@ -1,0 +1,1734 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVWesley Johnson MIN 04/13/2011 MIN vs. HOU L 32 8 4 7 57.1 0 0 - 0 0 - 1 4 5 2 1 0 2 2 7
+p2
+aVAnthony Randolph MIN 04/13/2011 MIN vs. HOU L 32 23 11 17 64.7 0 0 - 1 1 100.0 0 4 4 0 0 1 3 3 -3
+p3
+aVMichael Beasley MIN 04/13/2011 MIN vs. HOU L 33 34 13 27 48.1 2 6 33.3 6 6 100.0 2 5 7 2 2 0 3 4 -7
+p4
+aVLazar Hayward MIN 04/13/2011 MIN vs. HOU L 10 3 1 4 25.0 1 2 50.0 0 2 0.0 1 1 2 1 2 0 0 1 -17
+p5
+aVAnthony Tolliver MIN 04/13/2011 MIN vs. HOU L 43 6 3 7 42.9 0 1 0.0 0 0 - 2 11 13 0 0 1 2 5 -12
+p6
+aVMartell Webster MIN 04/13/2011 MIN vs. HOU L 26 11 3 10 30.0 0 2 0.0 5 7 71.4 3 2 5 3 1 0 1 1 -31
+p7
+aVLuke Ridnour MIN 04/13/2011 MIN vs. HOU L 43 7 3 11 27.3 1 2 50.0 0 0 - 1 3 4 11 1 0 0 2 -9
+p8
+aVNikola Pekovic MIN 04/13/2011 MIN vs. HOU L 12 10 3 7 42.9 0 0 - 4 5 80.0 2 0 2 1 1 0 2 3 -12
+p9
+aVWayne Ellington MIN 04/13/2011 MIN vs. HOU L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -11
+p10
+aVJonny Flynn MIN 04/11/2011 MIN @ PHX L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 0
+p11
+aVAnthony Tolliver MIN 04/11/2011 MIN @ PHX L 44 22 8 12 66.7 0 0 - 6 8 75.0 5 5 10 4 0 0 1 3 -10
+p12
+aVWayne Ellington MIN 04/11/2011 MIN @ PHX L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 7
+p13
+aVMartell Webster MIN 04/11/2011 MIN @ PHX L 36 7 3 8 37.5 1 2 50.0 0 0 - 1 3 4 2 3 0 2 2 -8
+p14
+aVMichael Beasley MIN 04/11/2011 MIN @ PHX L 40 26 11 20 55.0 2 6 33.3 2 3 66.7 1 5 6 2 0 1 1 5 -7
+p15
+aVWesley Johnson MIN 04/11/2011 MIN @ PHX L 30 14 5 11 45.5 2 4 50.0 2 2 100.0 0 1 1 0 0 1 0 1 -4
+p16
+aVAnthony Randolph MIN 04/11/2011 MIN @ PHX L 33 24 10 20 50.0 0 0 - 4 5 80.0 3 7 10 3 2 0 3 1 -7
+p17
+aVLazar Hayward MIN 04/11/2011 MIN @ PHX L 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p18
+aVNikola Pekovic MIN 04/11/2011 MIN @ PHX L 13 10 4 6 66.7 0 0 - 2 2 100.0 2 1 3 0 1 0 1 2 -2
+p19
+aVLuke Ridnour MIN 04/11/2011 MIN @ PHX L 48 21 10 13 76.9 1 1 100.0 0 0 - 1 8 9 9 1 1 5 1 -7
+p20
+aVAnthony Tolliver MIN 04/09/2011 MIN @ DEN L 26 5 2 5 40.0 1 4 25.0 0 0 - 2 5 7 2 0 0 0 4 -27
+p21
+aVNikola Pekovic MIN 04/09/2011 MIN @ DEN L 19 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 0 1 4 5 -1
+p22
+aVMartell Webster MIN 04/09/2011 MIN @ DEN L 33 15 5 11 45.5 2 3 66.7 3 3 100.0 1 4 5 1 0 1 2 3 -17
+p23
+aVMichael Beasley MIN 04/09/2011 MIN @ DEN L 29 14 5 12 41.7 1 3 33.3 3 4 75.0 1 1 2 2 0 0 5 1 -21
+p24
+aVWayne Ellington MIN 04/09/2011 MIN @ DEN L 24 10 2 6 33.3 2 4 50.0 4 4 100.0 1 0 1 2 0 0 1 2 -1
+p25
+aVJonny Flynn MIN 04/09/2011 MIN @ DEN L 23 10 5 6 83.3 0 0 - 0 1 0.0 0 3 3 9 1 0 1 1 4
+p26
+aVLazar Hayward MIN 04/09/2011 MIN @ DEN L 16 15 6 10 60.0 1 4 25.0 2 2 100.0 0 2 2 0 0 1 1 3 1
+p27
+aVAnthony Randolph MIN 04/09/2011 MIN @ DEN L 22 13 5 9 55.6 0 0 - 3 4 75.0 0 6 6 0 1 1 0 3 -7
+p28
+aVWesley Johnson MIN 04/09/2011 MIN @ DEN L 24 13 4 12 33.3 3 8 37.5 2 2 100.0 1 5 6 3 1 2 0 1 -23
+p29
+aVLuke Ridnour MIN 04/09/2011 MIN @ DEN L 25 7 3 11 27.3 1 6 16.7 0 0 - 0 3 3 1 2 0 1 1 -28
+p30
+aVNikola Pekovic MIN 04/06/2011 MIN vs. PHX L 19 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 0 1 0 1 2 -1
+p31
+aVJonny Flynn MIN 04/06/2011 MIN vs. PHX L 16 3 1 5 20.0 1 2 50.0 0 0 - 1 0 1 2 0 0 1 0 -12
+p32
+aVAnthony Randolph MIN 04/06/2011 MIN vs. PHX L 28 19 6 14 42.9 0 0 - 7 8 87.5 0 3 3 3 0 1 0 2 -8
+p33
+aVLuke Ridnour MIN 04/06/2011 MIN vs. PHX L 32 9 4 13 30.8 1 3 33.3 0 0 - 0 5 5 5 2 0 3 4 2
+p34
+aVAnthony Tolliver MIN 04/06/2011 MIN vs. PHX L 39 10 4 7 57.1 0 1 0.0 2 2 100.0 5 4 9 3 0 0 0 3 -6
+p35
+aVMichael Beasley MIN 04/06/2011 MIN vs. PHX L 40 24 10 23 43.5 0 0 - 4 4 100.0 2 9 11 3 5 0 5 3 -8
+p36
+aVMartell Webster MIN 04/06/2011 MIN vs. PHX L 27 13 5 5 100.0 2 2 100.0 1 2 50.0 0 2 2 1 0 0 0 2 -6
+p37
+aVWesley Johnson MIN 04/06/2011 MIN vs. PHX L 29 10 4 13 30.8 2 5 40.0 0 0 - 0 3 3 2 3 1 2 0 -6
+p38
+aVDarko Milicic MIN 04/06/2011 MIN vs. PHX L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 1 1 0 -5
+p39
+aVAnthony Randolph MIN 04/05/2011 MIN @ NJN L 30 20 8 16 50.0 0 0 - 4 7 57.1 3 7 10 0 1 2 6 4 2
+p40
+aVJonny Flynn MIN 04/05/2011 MIN @ NJN L 13 0 0 4 0.0 0 1 0.0 0 2 0.0 0 0 0 2 0 0 0 3 0
+p41
+aVNikola Pekovic MIN 04/05/2011 MIN @ NJN L 18 12 5 7 71.4 0 0 - 2 2 100.0 1 2 3 0 0 0 5 3 -4
+p42
+aVAnthony Tolliver MIN 04/05/2011 MIN @ NJN L 30 14 4 8 50.0 1 2 50.0 5 5 100.0 1 4 5 2 0 1 0 2 7
+p43
+aVLuke Ridnour MIN 04/05/2011 MIN @ NJN L 35 11 5 9 55.6 1 2 50.0 0 1 0.0 1 3 4 9 1 0 4 4 -2
+p44
+aVWesley Johnson MIN 04/05/2011 MIN @ NJN L 21 8 3 4 75.0 2 2 100.0 0 0 - 0 5 5 2 0 1 1 0 -12
+p45
+aVMartell Webster MIN 04/05/2011 MIN @ NJN L 25 16 5 7 71.4 3 3 100.0 3 4 75.0 1 4 5 0 0 0 0 2 10
+p46
+aVMichael Beasley MIN 04/05/2011 MIN @ NJN L 42 20 7 17 41.2 1 3 33.3 5 6 83.3 3 8 11 7 0 1 1 0 -1
+p47
+aVWayne Ellington MIN 04/05/2011 MIN @ NJN L 26 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 1 1 0 0 1 -10
+p48
+aVLuke Ridnour MIN 04/02/2011 MIN @ MEM L 31 17 7 11 63.6 1 2 50.0 2 2 100.0 1 2 3 3 1 1 3 2 -12
+p49
+aVLazar Hayward MIN 04/02/2011 MIN @ MEM L 6 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -1
+p50
+aVNikola Pekovic MIN 04/02/2011 MIN @ MEM L 30 14 6 9 66.7 0 0 - 2 2 100.0 2 4 6 0 2 2 4 5 -1
+p51
+aVAnthony Tolliver MIN 04/02/2011 MIN @ MEM L 32 12 5 8 62.5 1 2 50.0 1 2 50.0 0 2 2 4 0 0 1 3 -9
+p52
+aVWesley Johnson MIN 04/02/2011 MIN @ MEM L 25 2 1 7 14.3 0 3 0.0 0 0 - 1 3 4 4 3 2 1 1 -4
+p53
+aVMichael Beasley MIN 04/02/2011 MIN @ MEM L 37 20 8 16 50.0 1 2 50.0 3 4 75.0 0 5 5 4 0 2 4 4 -12
+p54
+aVWayne Ellington MIN 04/02/2011 MIN @ MEM L 26 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 2 -18
+p55
+aVAnthony Randolph MIN 04/02/2011 MIN @ MEM L 9 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 4 1 -13
+p56
+aVMartell Webster MIN 04/02/2011 MIN @ MEM L 27 12 4 8 50.0 2 5 40.0 2 2 100.0 0 5 5 2 1 0 3 4 -10
+p57
+aVJonny Flynn MIN 04/02/2011 MIN @ MEM L 17 2 0 2 0.0 0 2 0.0 2 2 100.0 1 2 3 1 1 0 4 1 -5
+p58
+aVMartell Webster MIN 04/01/2011 MIN vs. MIA L 29 22 8 12 66.7 4 5 80.0 2 2 100.0 2 4 6 0 0 0 1 4 -1
+p59
+aVWesley Johnson MIN 04/01/2011 MIN vs. MIA L 21 6 2 9 22.2 0 3 0.0 2 3 66.7 0 2 2 0 2 1 2 0 -24
+p60
+aVAnthony Tolliver MIN 04/01/2011 MIN vs. MIA L 21 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 0 1 0 0 3 18
+p61
+aVDarko Milicic MIN 04/01/2011 MIN vs. MIA L 9 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -10
+p62
+aVJonny Flynn MIN 04/01/2011 MIN vs. MIA L 13 3 1 4 25.0 0 2 0.0 1 2 50.0 0 0 0 1 0 0 2 1 -4
+p63
+aVLuke Ridnour MIN 04/01/2011 MIN vs. MIA L 35 14 5 11 45.5 3 5 60.0 1 2 50.0 0 3 3 9 3 0 6 2 -15
+p64
+aVKevin Love MIN 04/01/2011 MIN vs. MIA L 36 18 5 12 41.7 0 1 0.0 8 10 80.0 3 4 7 3 0 1 0 1 -17
+p65
+aVMichael Beasley MIN 04/01/2011 MIN vs. MIA L 29 13 6 11 54.5 1 3 33.3 0 0 - 0 1 1 1 0 0 3 6 -30
+p66
+aVAnthony Randolph MIN 04/01/2011 MIN vs. MIA L 14 4 2 7 28.6 0 0 - 0 0 - 0 4 4 1 0 1 0 3 -12
+p67
+aVWayne Ellington MIN 04/01/2011 MIN vs. MIA L 26 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 14
+p68
+aVLazar Hayward MIN 04/01/2011 MIN vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -3
+p69
+aVNikola Pekovic MIN 04/01/2011 MIN vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -11
+p70
+aVMartell Webster MIN 03/30/2011 MIN vs. CHI L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 3 -3
+p71
+aVLuke Ridnour MIN 03/30/2011 MIN vs. CHI L 22 11 4 6 66.7 1 1 100.0 2 2 100.0 0 2 2 0 0 0 2 0 -20
+p72
+aVAnthony Randolph MIN 03/30/2011 MIN vs. CHI L 19 15 6 10 60.0 0 0 - 3 4 75.0 2 3 5 0 3 0 1 2 -1
+p73
+aVJonny Flynn MIN 03/30/2011 MIN vs. CHI L 26 2 1 7 14.3 0 1 0.0 0 0 - 0 1 1 5 1 0 0 0 3
+p74
+aVDarko Milicic MIN 03/30/2011 MIN vs. CHI L 26 7 3 7 42.9 0 0 - 1 2 50.0 0 3 3 2 1 0 0 2 -16
+p75
+aVKevin Love MIN 03/30/2011 MIN vs. CHI L 27 16 6 13 46.2 0 2 0.0 4 5 80.0 4 5 9 0 0 0 3 2 -14
+p76
+aVAnthony Tolliver MIN 03/30/2011 MIN vs. CHI L 24 14 5 7 71.4 3 4 75.0 1 2 50.0 0 3 3 1 0 0 1 3 -3
+p77
+aVLazar Hayward MIN 03/30/2011 MIN vs. CHI L 6 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 4
+p78
+aVMichael Beasley MIN 03/30/2011 MIN vs. CHI L 28 12 5 11 45.5 0 3 0.0 2 2 100.0 0 3 3 1 1 0 1 0 -18
+p79
+aVWayne Ellington MIN 03/30/2011 MIN vs. CHI L 32 9 3 11 27.3 1 3 33.3 2 2 100.0 1 0 1 2 1 1 0 1 -2
+p80
+aVWesley Johnson MIN 03/30/2011 MIN vs. CHI L 16 0 0 6 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 1 -15
+p81
+aVMichael Beasley MIN 03/27/2011 MIN vs. BOS L 46 28 11 28 39.3 2 4 50.0 4 6 66.7 6 4 10 3 1 3 3 3 -1
+p82
+aVMartell Webster MIN 03/27/2011 MIN vs. BOS L 15 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 1 6
+p83
+aVDarko Milicic MIN 03/27/2011 MIN vs. BOS L 39 15 6 10 60.0 0 0 - 3 3 100.0 3 6 9 0 2 2 3 5 5
+p84
+aVJonny Flynn MIN 03/27/2011 MIN vs. BOS L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 2 0
+p85
+aVAnthony Tolliver MIN 03/27/2011 MIN vs. BOS L 36 16 5 10 50.0 2 5 40.0 4 6 66.7 4 11 15 4 0 4 1 3 -5
+p86
+aVAnthony Randolph MIN 03/27/2011 MIN vs. BOS L 17 3 0 5 0.0 0 0 - 3 6 50.0 1 3 4 0 1 0 3 4 -4
+p87
+aVLuke Ridnour MIN 03/27/2011 MIN vs. BOS L 38 10 4 10 40.0 1 3 33.3 1 2 50.0 2 2 4 8 1 0 0 1 -3
+p88
+aVWesley Johnson MIN 03/27/2011 MIN vs. BOS L 32 5 2 9 22.2 1 3 33.3 0 0 - 0 3 3 0 0 1 2 2 -10
+p89
+aVWayne Ellington MIN 03/27/2011 MIN vs. BOS L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p90
+aVAnthony Randolph MIN 03/25/2011 MIN @ OKC L 37 24 9 16 56.3 0 0 - 6 6 100.0 3 12 15 2 1 2 2 1 6
+p91
+aVNikola Pekovic MIN 03/25/2011 MIN @ OKC L 13 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 1 0 1 2 3 -6
+p92
+aVWayne Ellington MIN 03/25/2011 MIN @ OKC L 14 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -13
+p93
+aVDarko Milicic MIN 03/25/2011 MIN @ OKC L 32 16 7 11 63.6 0 0 - 2 2 100.0 3 1 4 1 2 0 2 5 -8
+p94
+aVLazar Hayward MIN 03/25/2011 MIN @ OKC L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p95
+aVLuke Ridnour MIN 03/25/2011 MIN @ OKC L 30 12 5 8 62.5 1 2 50.0 1 2 50.0 0 1 1 5 1 0 3 1 2
+p96
+aVMichael Beasley MIN 03/25/2011 MIN @ OKC L 31 20 8 18 44.4 2 2 100.0 2 2 100.0 2 6 8 2 2 0 7 4 0
+p97
+aVAnthony Tolliver MIN 03/25/2011 MIN @ OKC L 23 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 1 1 2 -2
+p98
+aVJonny Flynn MIN 03/25/2011 MIN @ OKC L 18 5 1 4 25.0 0 0 - 3 4 75.0 0 0 0 4 1 1 1 0 -10
+p99
+aVMartell Webster MIN 03/25/2011 MIN @ OKC L 12 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 0 0 0 1 1 -11
+p100
+aVWesley Johnson MIN 03/25/2011 MIN @ OKC L 25 10 4 10 40.0 2 3 66.7 0 0 - 1 1 2 3 0 0 0 2 -1
+p101
+aVAnthony Randolph MIN 03/24/2011 MIN @ DAL L 36 31 14 20 70.0 0 0 - 3 3 100.0 3 8 11 3 2 1 2 1 -6
+p102
+aVAnthony Tolliver MIN 03/24/2011 MIN @ DAL L 28 11 4 5 80.0 2 2 100.0 1 1 100.0 2 2 4 1 0 0 0 5 -10
+p103
+aVMartell Webster MIN 03/24/2011 MIN @ DAL L 24 4 2 3 66.7 0 0 - 0 0 - 0 3 3 3 0 0 1 2 -11
+p104
+aVJonny Flynn MIN 03/24/2011 MIN @ DAL L 24 13 5 10 50.0 3 3 100.0 0 0 - 0 3 3 5 2 0 3 0 -8
+p105
+aVMichael Beasley MIN 03/24/2011 MIN @ DAL L 24 12 4 11 36.4 0 1 0.0 4 4 100.0 2 4 6 2 1 0 5 1 3
+p106
+aVNikola Pekovic MIN 03/24/2011 MIN @ DAL L 18 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 2 -1
+p107
+aVLuke Ridnour MIN 03/24/2011 MIN @ DAL L 24 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 3 0 0 2 1 0
+p108
+aVDarko Milicic MIN 03/24/2011 MIN @ DAL L 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 1 2 4 1
+p109
+aVWesley Johnson MIN 03/24/2011 MIN @ DAL L 27 11 3 12 25.0 3 7 42.9 2 2 100.0 0 4 4 1 0 1 1 0 -5
+p110
+aVWayne Ellington MIN 03/24/2011 MIN @ DAL L 21 8 4 9 44.4 0 3 0.0 0 0 - 0 1 1 2 0 0 1 3 -3
+p111
+aVKevin Love MIN 03/20/2011 MIN vs. SAC L 14 0 0 2 0.0 0 0 - 0 0 - 0 3 3 4 0 0 0 0 -1
+p112
+aVDarko Milicic MIN 03/20/2011 MIN vs. SAC L 26 13 6 10 60.0 0 0 - 1 2 50.0 0 6 6 1 3 2 2 2 -16
+p113
+aVWayne Ellington MIN 03/20/2011 MIN vs. SAC L 23 8 4 9 44.4 0 2 0.0 0 0 - 0 0 0 1 0 0 2 2 -23
+p114
+aVAnthony Randolph MIN 03/20/2011 MIN vs. SAC L 24 14 6 11 54.5 0 0 - 2 3 66.7 1 3 4 3 0 0 7 4 -18
+p115
+aVMartell Webster MIN 03/20/2011 MIN vs. SAC L 22 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 2 0 0 1 1 -8
+p116
+aVWesley Johnson MIN 03/20/2011 MIN vs. SAC L 22 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 0 0 0 0 1 -15
+p117
+aVLuke Ridnour MIN 03/20/2011 MIN vs. SAC L 36 22 8 13 61.5 3 3 100.0 3 4 75.0 1 0 1 4 1 0 4 2 -18
+p118
+aVLazar Hayward MIN 03/20/2011 MIN vs. SAC L 8 7 2 5 40.0 1 3 33.3 2 2 100.0 1 2 3 1 1 0 0 1 -11
+p119
+aVAnthony Tolliver MIN 03/20/2011 MIN vs. SAC L 17 4 1 2 50.0 1 1 100.0 1 2 50.0 0 1 1 3 0 0 2 1 -12
+p120
+aVMichael Beasley MIN 03/20/2011 MIN vs. SAC L 15 13 3 8 37.5 0 1 0.0 7 9 77.8 0 1 1 0 0 0 1 2 -11
+p121
+aVNikola Pekovic MIN 03/20/2011 MIN vs. SAC L 20 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 3 4 -13
+p122
+aVJonny Flynn MIN 03/20/2011 MIN vs. SAC L 13 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 1 2 0 3 0 -14
+p123
+aVMichael Beasley MIN 03/18/2011 MIN @ LAL L 30 18 6 14 42.9 2 2 100.0 4 4 100.0 5 2 7 2 1 0 4 3 19
+p124
+aVWayne Ellington MIN 03/18/2011 MIN @ LAL L 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -1
+p125
+aVNikola Pekovic MIN 03/18/2011 MIN @ LAL L 16 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 1 1 0 1 3 -1
+p126
+aVAnthony Tolliver MIN 03/18/2011 MIN @ LAL L 15 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 1 0 -3
+p127
+aVDarko Milicic MIN 03/18/2011 MIN @ LAL L 32 8 4 8 50.0 0 0 - 0 2 0.0 0 5 5 3 1 1 2 4 -7
+p128
+aVMartell Webster MIN 03/18/2011 MIN @ LAL L 24 10 4 9 44.4 1 4 25.0 1 3 33.3 0 3 3 1 1 1 0 4 -22
+p129
+aVLuke Ridnour MIN 03/18/2011 MIN @ LAL L 33 7 3 8 37.5 0 2 0.0 1 1 100.0 1 4 5 8 3 0 2 1 1
+p130
+aVKevin Love MIN 03/18/2011 MIN @ LAL L 33 15 6 13 46.2 1 2 50.0 2 2 100.0 5 8 13 2 2 0 3 2 -5
+p131
+aVWesley Johnson MIN 03/18/2011 MIN @ LAL L 37 29 11 21 52.4 3 11 27.3 4 4 100.0 2 2 4 1 3 1 1 2 -12
+p132
+aVJonny Flynn MIN 03/18/2011 MIN @ LAL L 15 0 0 4 0.0 0 0 - 0 0 - 0 0 0 4 0 0 2 0 -9
+p133
+aVLazar Hayward MIN 03/16/2011 MIN @ UTA L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 4
+p134
+aVJonny Flynn MIN 03/16/2011 MIN @ UTA L 16 6 2 7 28.6 1 3 33.3 1 1 100.0 0 0 0 1 0 0 1 0 -10
+p135
+aVMichael Beasley MIN 03/16/2011 MIN @ UTA L 30 16 7 16 43.8 0 1 0.0 2 4 50.0 1 4 5 1 1 0 1 4 -4
+p136
+aVDarko Milicic MIN 03/16/2011 MIN @ UTA L 27 10 3 7 42.9 0 0 - 4 4 100.0 1 5 6 2 1 1 0 5 -7
+p137
+aVAnthony Tolliver MIN 03/16/2011 MIN @ UTA L 14 3 1 5 20.0 0 4 0.0 1 2 50.0 2 1 3 0 2 0 1 2 -11
+p138
+aVWesley Johnson MIN 03/16/2011 MIN @ UTA L 18 5 1 4 25.0 1 3 33.3 2 3 66.7 0 0 0 0 0 0 0 1 -6
+p139
+aVKevin Love MIN 03/16/2011 MIN @ UTA L 32 22 8 18 44.4 0 2 0.0 6 7 85.7 4 7 11 3 2 0 1 3 0
+p140
+aVMartell Webster MIN 03/16/2011 MIN @ UTA L 21 7 2 4 50.0 2 3 66.7 1 2 50.0 1 0 1 0 1 0 2 2 -16
+p141
+aVAnthony Randolph MIN 03/16/2011 MIN @ UTA L 15 10 4 6 66.7 0 0 - 2 4 50.0 4 4 8 0 1 1 2 2 6
+p142
+aVWayne Ellington MIN 03/16/2011 MIN @ UTA L 21 9 3 7 42.9 0 1 0.0 3 3 100.0 1 1 2 2 0 0 0 2 -10
+p143
+aVNikola Pekovic MIN 03/16/2011 MIN @ UTA L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -16
+p144
+aVLuke Ridnour MIN 03/16/2011 MIN @ UTA L 32 16 6 9 66.7 2 2 100.0 2 2 100.0 2 2 4 3 0 1 2 1 -5
+p145
+aVMartell Webster MIN 03/13/2011 MIN @ GSW L 27 16 6 10 60.0 2 3 66.7 2 5 40.0 2 0 2 3 0 0 0 2 -14
+p146
+aVLazar Hayward MIN 03/13/2011 MIN @ GSW L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p147
+aVAnthony Tolliver MIN 03/13/2011 MIN @ GSW L 20 3 1 3 33.3 0 0 - 1 1 100.0 0 5 5 2 0 0 3 1 -13
+p148
+aVKevin Love MIN 03/13/2011 MIN @ GSW L 33 6 1 6 16.7 0 1 0.0 4 6 66.7 2 10 12 5 1 0 3 2 -5
+p149
+aVWesley Johnson MIN 03/13/2011 MIN @ GSW L 22 3 1 9 11.1 1 3 33.3 0 0 - 1 1 2 1 1 0 1 1 -10
+p150
+aVNikola Pekovic MIN 03/13/2011 MIN @ GSW L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p151
+aVJonny Flynn MIN 03/13/2011 MIN @ GSW L 21 4 1 6 16.7 1 3 33.3 1 2 50.0 1 4 5 0 0 0 2 1 -14
+p152
+aVDarko Milicic MIN 03/13/2011 MIN @ GSW L 19 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 2 6 3 -9
+p153
+aVAnthony Randolph MIN 03/13/2011 MIN @ GSW L 20 8 2 6 33.3 0 0 - 4 6 66.7 0 2 2 2 0 1 2 4 -17
+p154
+aVWayne Ellington MIN 03/13/2011 MIN @ GSW L 18 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -9
+p155
+aVLuke Ridnour MIN 03/13/2011 MIN @ GSW L 27 13 5 8 62.5 2 5 40.0 1 1 100.0 1 3 4 6 1 1 5 3 -9
+p156
+aVMichael Beasley MIN 03/13/2011 MIN @ GSW L 26 16 5 12 41.7 1 2 50.0 5 8 62.5 0 5 5 0 2 0 3 0 -13
+p157
+aVLuke Ridnour MIN 03/11/2011 MIN vs. UTA W 24 6 3 5 60.0 0 1 0.0 0 0 - 1 3 4 7 0 0 1 1 13
+p158
+aVNikola Pekovic MIN 03/11/2011 MIN vs. UTA W 15 9 2 5 40.0 0 0 - 5 6 83.3 0 2 2 1 1 0 1 2 10
+p159
+aVAnthony Randolph MIN 03/11/2011 MIN vs. UTA W 7 2 1 6 16.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p160
+aVKevin Love MIN 03/11/2011 MIN vs. UTA W 30 24 9 12 75.0 2 2 100.0 4 4 100.0 2 10 12 2 0 1 1 1 20
+p161
+aVLazar Hayward MIN 03/11/2011 MIN vs. UTA W 7 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 0 0 0 0 0 -9
+p162
+aVMichael Beasley MIN 03/11/2011 MIN vs. UTA W 31 23 9 18 50.0 2 2 100.0 3 4 75.0 3 0 3 3 0 1 3 1 18
+p163
+aVMartell Webster MIN 03/11/2011 MIN vs. UTA W 17 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 3 2 0 1 1 3
+p164
+aVWesley Johnson MIN 03/11/2011 MIN vs. UTA W 24 6 2 2 100.0 2 2 100.0 0 0 - 2 0 2 2 1 0 1 2 5
+p165
+aVAnthony Tolliver MIN 03/11/2011 MIN vs. UTA W 18 9 2 7 28.6 0 3 0.0 5 6 83.3 1 3 4 2 0 1 0 2 1
+p166
+aVWayne Ellington MIN 03/11/2011 MIN vs. UTA W 18 13 5 7 71.4 1 2 50.0 2 2 100.0 1 1 2 1 1 0 0 1 25
+p167
+aVDarko Milicic MIN 03/11/2011 MIN vs. UTA W 26 14 7 13 53.8 0 0 - 0 2 0.0 1 5 6 4 2 2 2 3 20
+p168
+aVJonny Flynn MIN 03/11/2011 MIN vs. UTA W 24 11 4 5 80.0 2 2 100.0 1 1 100.0 0 3 3 4 2 0 3 3 8
+p169
+aVJonny Flynn MIN 03/09/2011 MIN vs. IND W 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 6 0 0 4 2 4
+p170
+aVAnthony Randolph MIN 03/09/2011 MIN vs. IND W 19 14 5 13 38.5 0 0 - 4 4 100.0 2 5 7 1 1 0 2 2 4
+p171
+aVKevin Love MIN 03/09/2011 MIN vs. IND W 27 16 4 10 40.0 0 2 0.0 8 15 53.3 4 17 21 0 1 0 1 3 18
+p172
+aVWayne Ellington MIN 03/09/2011 MIN vs. IND W 36 5 1 11 9.1 1 3 33.3 2 2 100.0 0 5 5 3 1 0 0 1 24
+p173
+aVMichael Beasley MIN 03/09/2011 MIN vs. IND W 22 16 6 16 37.5 0 1 0.0 4 4 100.0 4 4 8 2 1 1 2 2 16
+p174
+aVAnthony Tolliver MIN 03/09/2011 MIN vs. IND W 28 14 4 8 50.0 2 4 50.0 4 4 100.0 2 4 6 2 0 0 1 1 16
+p175
+aVLuke Ridnour MIN 03/09/2011 MIN vs. IND W 25 13 5 10 50.0 1 3 33.3 2 2 100.0 0 3 3 2 2 0 2 1 22
+p176
+aVWesley Johnson MIN 03/09/2011 MIN vs. IND W 12 2 0 3 0.0 0 1 0.0 2 4 50.0 0 5 5 0 0 0 0 2 2
+p177
+aVDarko Milicic MIN 03/09/2011 MIN vs. IND W 17 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 4 1 4 17
+p178
+aVNikola Pekovic MIN 03/09/2011 MIN vs. IND W 5 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -3
+p179
+aVMartell Webster MIN 03/09/2011 MIN vs. IND W 26 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 0 1 0 2 4 10
+p180
+aVSebastian Telfair MIN 03/09/2011 MIN vs. IND W 6 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 0
+p181
+aVMichael Beasley MIN 03/07/2011 MIN vs. DAL L 38 20 8 22 36.4 0 1 0.0 4 9 44.4 3 6 9 1 1 2 5 3 6
+p182
+aVAnthony Randolph MIN 03/07/2011 MIN vs. DAL L 10 2 1 3 33.3 0 0 - 0 2 0.0 0 2 2 3 1 0 0 0 0
+p183
+aVWayne Ellington MIN 03/07/2011 MIN vs. DAL L 32 12 5 7 71.4 2 3 66.7 0 0 - 0 0 0 2 0 0 1 2 0
+p184
+aVAnthony Tolliver MIN 03/07/2011 MIN vs. DAL L 17 8 2 5 40.0 1 1 100.0 3 3 100.0 2 1 3 1 0 0 0 3 -11
+p185
+aVDarko Milicic MIN 03/07/2011 MIN vs. DAL L 19 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 1 1 2 2 -4
+p186
+aVJonny Flynn MIN 03/07/2011 MIN vs. DAL L 13 11 5 8 62.5 1 4 25.0 0 0 - 1 1 2 1 0 0 0 0 -16
+p187
+aVKevin Love MIN 03/07/2011 MIN vs. DAL L 36 23 7 14 50.0 4 6 66.7 5 6 83.3 6 11 17 5 1 1 3 4 2
+p188
+aVNikola Pekovic MIN 03/07/2011 MIN vs. DAL L 13 6 2 4 50.0 0 0 - 2 4 50.0 0 2 2 1 0 0 2 2 3
+p189
+aVMartell Webster MIN 03/07/2011 MIN vs. DAL L 13 3 1 5 20.0 0 2 0.0 1 1 100.0 1 1 2 2 0 0 0 2 -9
+p190
+aVLuke Ridnour MIN 03/07/2011 MIN vs. DAL L 35 9 3 10 30.0 2 3 66.7 1 1 100.0 0 2 2 4 4 0 3 2 13
+p191
+aVWesley Johnson MIN 03/07/2011 MIN vs. DAL L 14 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 2 0 0 0 1 1
+p192
+aVMichael Beasley MIN 03/05/2011 MIN @ WAS L 34 18 8 20 40.0 1 4 25.0 1 2 50.0 0 4 4 2 0 0 2 5 -1
+p193
+aVNikola Pekovic MIN 03/05/2011 MIN @ WAS L 26 13 6 7 85.7 0 0 - 1 2 50.0 4 4 8 1 0 0 3 4 -3
+p194
+aVJonny Flynn MIN 03/05/2011 MIN @ WAS L 13 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 3 1 0 2 0 -1
+p195
+aVAnthony Tolliver MIN 03/05/2011 MIN @ WAS L 18 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 0 -9
+p196
+aVAnthony Randolph MIN 03/05/2011 MIN @ WAS L 15 6 2 6 33.3 0 0 - 2 4 50.0 3 2 5 0 0 3 3 3 2
+p197
+aVLazar Hayward MIN 03/05/2011 MIN @ WAS L 21 2 0 6 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 2 -9
+p198
+aVKevin Love MIN 03/05/2011 MIN @ WAS L 37 20 8 18 44.4 0 2 0.0 4 5 80.0 8 13 21 3 0 0 5 0 -2
+p199
+aVLuke Ridnour MIN 03/05/2011 MIN @ WAS L 35 14 7 15 46.7 0 1 0.0 0 0 - 1 1 2 6 3 0 3 6 -6
+p200
+aVWayne Ellington MIN 03/05/2011 MIN @ WAS L 40 15 6 11 54.5 2 2 100.0 1 2 50.0 1 4 5 4 2 0 3 2 -6
+p201
+aVJonny Flynn MIN 03/04/2011 MIN @ PHI L 17 6 2 4 50.0 1 1 100.0 1 1 100.0 0 0 0 4 0 0 3 3 -5
+p202
+aVLuke Ridnour MIN 03/04/2011 MIN @ PHI L 31 8 4 11 36.4 0 1 0.0 0 0 - 1 1 2 10 2 0 3 2 -6
+p203
+aVAnthony Randolph MIN 03/04/2011 MIN @ PHI L 27 12 6 10 60.0 0 0 - 0 0 - 1 1 2 4 1 2 1 2 -16
+p204
+aVMichael Beasley MIN 03/04/2011 MIN @ PHI L 39 15 6 15 40.0 0 2 0.0 3 3 100.0 2 2 4 4 1 0 1 3 -12
+p205
+aVAnthony Tolliver MIN 03/04/2011 MIN @ PHI L 15 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 1 2 -5
+p206
+aVLazar Hayward MIN 03/04/2011 MIN @ PHI L 24 11 4 10 40.0 1 4 25.0 2 2 100.0 1 5 6 2 2 0 0 0 -4
+p207
+aVNikola Pekovic MIN 03/04/2011 MIN @ PHI L 14 16 6 8 75.0 0 0 - 4 4 100.0 0 1 1 0 0 1 2 4 6
+p208
+aVKevin Love MIN 03/04/2011 MIN @ PHI L 40 21 10 17 58.8 1 2 50.0 0 1 0.0 4 19 23 3 0 2 2 2 -7
+p209
+aVWayne Ellington MIN 03/04/2011 MIN @ PHI L 33 9 4 13 30.8 1 3 33.3 0 0 - 2 1 3 2 0 0 0 2 -6
+p210
+aVKevin Love MIN 03/02/2011 MIN @ DET W 34 20 7 13 53.8 0 1 0.0 6 8 75.0 2 18 20 3 1 2 3 1 0
+p211
+aVAnthony Randolph MIN 03/02/2011 MIN @ DET W 25 19 8 13 61.5 0 0 - 3 5 60.0 1 9 10 0 1 0 0 3 13
+p212
+aVLuke Ridnour MIN 03/02/2011 MIN @ DET W 18 15 5 5 100.0 0 0 - 5 5 100.0 0 1 1 1 0 0 1 2 -1
+p213
+aVNikola Pekovic MIN 03/02/2011 MIN @ DET W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 3 0
+p214
+aVMichael Beasley MIN 03/02/2011 MIN @ DET W 20 7 3 9 33.3 1 2 50.0 0 0 - 1 1 2 2 0 0 2 3 -5
+p215
+aVLazar Hayward MIN 03/02/2011 MIN @ DET W 22 16 5 7 71.4 2 4 50.0 4 6 66.7 1 1 2 1 0 0 1 2 19
+p216
+aVAnthony Tolliver MIN 03/02/2011 MIN @ DET W 30 13 4 6 66.7 2 3 66.7 3 4 75.0 2 2 4 2 1 0 2 2 6
+p217
+aVJonny Flynn MIN 03/02/2011 MIN @ DET W 30 8 2 7 28.6 0 1 0.0 4 4 100.0 0 2 2 14 2 0 2 2 12
+p218
+aVWayne Ellington MIN 03/02/2011 MIN @ DET W 19 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 1 0 14
+p219
+aVWesley Johnson MIN 03/02/2011 MIN @ DET W 29 11 3 9 33.3 1 3 33.3 4 5 80.0 0 4 4 4 1 3 2 2 -3
+p220
+aVJonny Flynn MIN 03/01/2011 MIN vs. LAL L 16 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 5 2 0 0 2 -6
+p221
+aVLazar Hayward MIN 03/01/2011 MIN vs. LAL L 11 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -13
+p222
+aVLuke Ridnour MIN 03/01/2011 MIN vs. LAL L 32 9 4 7 57.1 0 1 0.0 1 2 50.0 1 2 3 5 0 0 1 2 -5
+p223
+aVKevin Love MIN 03/01/2011 MIN vs. LAL L 37 13 2 10 20.0 0 1 0.0 9 10 90.0 4 7 11 2 1 0 1 0 -4
+p224
+aVWesley Johnson MIN 03/01/2011 MIN vs. LAL L 37 20 8 17 47.1 3 7 42.9 1 2 50.0 1 7 8 2 1 0 0 6 -11
+p225
+aVWayne Ellington MIN 03/01/2011 MIN vs. LAL L 11 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p226
+aVAnthony Randolph MIN 03/01/2011 MIN vs. LAL L 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 1 0 0 0 -12
+p227
+aVNikola Pekovic MIN 03/01/2011 MIN vs. LAL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 3 4 6
+p228
+aVAnthony Tolliver MIN 03/01/2011 MIN vs. LAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 0 1 1 -5
+p229
+aVMichael Beasley MIN 03/01/2011 MIN vs. LAL L 38 14 6 18 33.3 0 1 0.0 2 2 100.0 0 4 4 3 1 1 3 2 0
+p230
+aVDarko Milicic MIN 03/01/2011 MIN vs. LAL L 26 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 1 1 2 5 -5
+p231
+aVWayne Ellington MIN 02/27/2011 MIN vs. GSW W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p232
+aVJonny Flynn MIN 02/27/2011 MIN vs. GSW W 20 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 9 0 0 4 2 -11
+p233
+aVNikola Pekovic MIN 02/27/2011 MIN vs. GSW W 9 11 4 5 80.0 0 0 - 3 3 100.0 2 0 2 0 0 0 1 3 -16
+p234
+aVAnthony Tolliver MIN 02/27/2011 MIN vs. GSW W 29 12 3 8 37.5 2 3 66.7 4 4 100.0 6 4 10 1 0 1 0 2 -9
+p235
+aVKevin Love MIN 02/27/2011 MIN vs. GSW W 41 37 8 13 61.5 3 4 75.0 18 23 78.3 7 16 23 1 2 0 3 3 18
+p236
+aVMichael Beasley MIN 02/27/2011 MIN vs. GSW W 32 25 12 23 52.2 1 4 25.0 0 0 - 4 5 9 2 1 1 1 4 13
+p237
+aVLazar Hayward MIN 02/27/2011 MIN vs. GSW W 21 5 1 4 25.0 0 1 0.0 3 4 75.0 2 1 3 0 0 0 1 1 -14
+p238
+aVAnthony Randolph MIN 02/27/2011 MIN vs. GSW W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 -11
+p239
+aVDarko Milicic MIN 02/27/2011 MIN vs. GSW W 13 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 1 1 1 4 24
+p240
+aVLuke Ridnour MIN 02/27/2011 MIN vs. GSW W 28 13 5 16 31.3 2 2 100.0 1 1 100.0 1 1 2 5 0 0 3 2 14
+p241
+aVWesley Johnson MIN 02/27/2011 MIN vs. GSW W 38 17 6 14 42.9 4 9 44.4 1 2 50.0 1 6 7 3 4 2 3 1 18
+p242
+aVAnthony Randolph MIN 02/25/2011 MIN vs. NOH L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p243
+aVLazar Hayward MIN 02/25/2011 MIN vs. NOH L 18 7 3 7 42.9 0 3 0.0 1 1 100.0 1 4 5 2 0 0 2 1 -8
+p244
+aVDarko Milicic MIN 02/25/2011 MIN vs. NOH L 23 5 2 5 40.0 0 0 - 1 2 50.0 5 3 8 0 1 2 2 5 -13
+p245
+aVMichael Beasley MIN 02/25/2011 MIN vs. NOH L 31 8 4 16 25.0 0 1 0.0 0 0 - 2 4 6 2 0 0 5 3 -9
+p246
+aVNikola Pekovic MIN 02/25/2011 MIN vs. NOH L 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 -7
+p247
+aVJonny Flynn MIN 02/25/2011 MIN vs. NOH L 15 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 3 1 -5
+p248
+aVWesley Johnson MIN 02/25/2011 MIN vs. NOH L 43 22 10 19 52.6 2 5 40.0 0 0 - 0 3 3 4 0 1 1 1 -6
+p249
+aVLuke Ridnour MIN 02/25/2011 MIN vs. NOH L 33 22 6 11 54.5 2 6 33.3 8 9 88.9 0 1 1 2 1 0 3 0 -9
+p250
+aVKevin Love MIN 02/25/2011 MIN vs. NOH L 33 11 4 10 40.0 1 3 33.3 2 2 100.0 3 11 14 5 1 1 1 1 -9
+p251
+aVAnthony Tolliver MIN 02/25/2011 MIN vs. NOH L 25 2 1 3 33.3 0 1 0.0 0 0 - 3 4 7 3 1 1 0 2 -2
+p252
+aVLazar Hayward MIN 02/23/2011 MIN vs. MEM L 16 8 3 6 50.0 0 1 0.0 2 2 100.0 2 4 6 0 0 0 1 1 5
+p253
+aVWesley Johnson MIN 02/23/2011 MIN vs. MEM L 24 4 2 7 28.6 0 2 0.0 0 1 0.0 0 0 0 2 0 1 1 2 -10
+p254
+aVAnthony Tolliver MIN 02/23/2011 MIN vs. MEM L 18 8 4 8 50.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 2 1
+p255
+aVWayne Ellington MIN 02/23/2011 MIN vs. MEM L 24 16 5 11 45.5 3 4 75.0 3 4 75.0 0 2 2 3 1 0 2 2 1
+p256
+aVMichael Beasley MIN 02/23/2011 MIN vs. MEM L 32 14 5 17 29.4 0 1 0.0 4 5 80.0 2 5 7 1 0 1 2 5 -16
+p257
+aVNikola Pekovic MIN 02/23/2011 MIN vs. MEM L 17 2 1 4 25.0 0 0 - 0 0 - 5 2 7 1 1 0 2 3 2
+p258
+aVDarko Milicic MIN 02/23/2011 MIN vs. MEM L 30 8 4 10 40.0 0 0 - 0 0 - 4 3 7 1 1 3 3 5 -12
+p259
+aVKevin Love MIN 02/23/2011 MIN vs. MEM L 30 15 4 11 36.4 0 2 0.0 7 8 87.5 3 8 11 2 1 1 1 2 -7
+p260
+aVLuke Ridnour MIN 02/23/2011 MIN vs. MEM L 34 15 5 12 41.7 2 3 66.7 3 4 75.0 0 5 5 5 3 0 1 4 -8
+p261
+aVSebastian Telfair MIN 02/23/2011 MIN vs. MEM L 14 5 1 6 16.7 0 2 0.0 3 3 100.0 2 1 3 4 2 0 1 1 -1
+p262
+aVNikola Pekovic MIN 02/22/2011 MIN @ MIL L 14 5 2 3 66.7 0 0 - 1 4 25.0 1 1 2 1 0 0 0 2 -1
+p263
+aVMichael Beasley MIN 02/22/2011 MIN @ MIL L 30 21 10 17 58.8 0 1 0.0 1 2 50.0 1 0 1 1 0 0 5 3 -5
+p264
+aVAnthony Tolliver MIN 02/22/2011 MIN @ MIL L 20 5 0 2 0.0 0 0 - 5 6 83.3 2 1 3 1 0 1 1 3 1
+p265
+aVSebastian Telfair MIN 02/22/2011 MIN @ MIL L 14 2 0 7 0.0 0 2 0.0 2 2 100.0 2 0 2 0 1 0 0 1 -6
+p266
+aVKevin Love MIN 02/22/2011 MIN @ MIL L 33 20 6 10 60.0 2 4 50.0 6 9 66.7 4 13 17 6 1 0 0 2 -5
+p267
+aVLuke Ridnour MIN 02/22/2011 MIN @ MIL L 34 12 5 14 35.7 1 3 33.3 1 1 100.0 1 3 4 3 1 0 4 5 0
+p268
+aVWesley Johnson MIN 02/22/2011 MIN @ MIL L 38 14 5 14 35.7 1 6 16.7 3 4 75.0 2 6 8 3 1 1 2 3 2
+p269
+aVWayne Ellington MIN 02/22/2011 MIN @ MIL L 19 0 0 4 0.0 0 0 - 0 0 - 0 3 3 1 0 0 2 3 -11
+p270
+aVDarko Milicic MIN 02/22/2011 MIN @ MIL L 22 5 2 6 33.3 0 0 - 1 2 50.0 4 1 5 1 0 0 3 4 -2
+p271
+aVMartell Webster MIN 02/22/2011 MIN @ MIL L 16 4 2 7 28.6 0 2 0.0 0 1 0.0 1 4 5 1 0 0 0 0 -3
+p272
+aVLuke Ridnour MIN 02/16/2011 MIN vs. LAC L 32 10 3 12 25.0 1 3 33.3 3 3 100.0 2 0 2 3 0 0 3 1 -21
+p273
+aVDarko Milicic MIN 02/16/2011 MIN vs. LAC L 36 12 6 12 50.0 0 0 - 0 3 0.0 5 1 6 3 1 1 4 3 -20
+p274
+aVAnthony Tolliver MIN 02/16/2011 MIN vs. LAC L 19 11 3 6 50.0 0 2 0.0 5 6 83.3 0 5 5 1 0 0 1 6 10
+p275
+aVWayne Ellington MIN 02/16/2011 MIN vs. LAC L 29 18 5 15 33.3 5 7 71.4 3 4 75.0 2 2 4 1 0 0 2 6 1
+p276
+aVNikola Pekovic MIN 02/16/2011 MIN vs. LAC L 7 4 0 2 0.0 0 0 - 4 4 100.0 2 3 5 0 0 1 0 1 6
+p277
+aVWesley Johnson MIN 02/16/2011 MIN vs. LAC L 10 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 0 1 0 2 0 6
+p278
+aVSebastian Telfair MIN 02/16/2011 MIN vs. LAC L 16 2 1 7 14.3 0 3 0.0 0 0 - 0 3 3 5 0 0 1 1 13
+p279
+aVKevin Love MIN 02/16/2011 MIN vs. LAC L 33 18 6 12 50.0 0 2 0.0 6 8 75.0 3 15 18 0 1 0 2 1 -14
+p280
+aVCorey Brewer MIN 02/16/2011 MIN vs. LAC L 18 4 2 5 40.0 0 2 0.0 0 2 0.0 2 0 2 2 2 0 1 3 -9
+p281
+aVMartell Webster MIN 02/16/2011 MIN vs. LAC L 40 11 3 9 33.3 1 3 33.3 4 6 66.7 0 2 2 1 2 0 0 1 -12
+p282
+aVDarko Milicic MIN 02/14/2011 MIN vs. POR L 32 15 7 15 46.7 0 0 - 1 1 100.0 1 4 5 1 1 2 2 5 -12
+p283
+aVWesley Johnson MIN 02/14/2011 MIN vs. POR L 12 1 0 6 0.0 0 0 - 1 2 50.0 0 0 0 0 1 1 1 0 -21
+p284
+aVCorey Brewer MIN 02/14/2011 MIN vs. POR L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -21
+p285
+aVJonny Flynn MIN 02/14/2011 MIN vs. POR L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 -23
+p286
+aVNikola Pekovic MIN 02/14/2011 MIN vs. POR L 10 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 6
+p287
+aVWayne Ellington MIN 02/14/2011 MIN vs. POR L 36 13 6 14 42.9 1 5 20.0 0 0 - 3 0 3 5 1 0 3 1 7
+p288
+aVKosta Koufos MIN 02/14/2011 MIN vs. POR L 5 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 1 1 1 -8
+p289
+aVKevin Love MIN 02/14/2011 MIN vs. POR L 37 12 3 7 42.9 0 1 0.0 6 7 85.7 5 6 11 1 0 0 1 2 -14
+p290
+aVLuke Ridnour MIN 02/14/2011 MIN vs. POR L 35 16 6 13 46.2 3 5 60.0 1 1 100.0 0 2 2 4 1 0 3 2 9
+p291
+aVMartell Webster MIN 02/14/2011 MIN vs. POR L 35 17 5 10 50.0 4 5 80.0 3 4 75.0 1 5 6 3 0 0 1 3 7
+p292
+aVAnthony Tolliver MIN 02/14/2011 MIN vs. POR L 11 0 0 0 - 0 0 - 0 0 - 1 2 3 0 2 0 0 2 0
+p293
+aVKevin Love MIN 02/12/2011 MIN vs. PHI L 34 16 6 13 46.2 1 3 33.3 3 3 100.0 3 10 13 0 0 0 0 1 -16
+p294
+aVCorey Brewer MIN 02/12/2011 MIN vs. PHI L 34 15 5 12 41.7 0 1 0.0 5 7 71.4 2 2 4 0 3 0 5 2 -14
+p295
+aVWesley Johnson MIN 02/12/2011 MIN vs. PHI L 25 6 2 10 20.0 0 6 0.0 2 3 66.7 0 2 2 3 1 0 1 4 -2
+p296
+aVJonny Flynn MIN 02/12/2011 MIN vs. PHI L 29 12 4 11 36.4 2 4 50.0 2 2 100.0 0 4 4 1 0 0 3 1 -8
+p297
+aVLuke Ridnour MIN 02/12/2011 MIN vs. PHI L 19 13 5 11 45.5 1 4 25.0 2 2 100.0 0 0 0 5 0 0 0 2 -12
+p298
+aVKosta Koufos MIN 02/12/2011 MIN vs. PHI L 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p299
+aVAnthony Tolliver MIN 02/12/2011 MIN vs. PHI L 25 9 4 12 33.3 0 2 0.0 1 1 100.0 3 7 10 2 1 0 0 2 -6
+p300
+aVLazar Hayward MIN 02/12/2011 MIN vs. PHI L 18 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 3 -9
+p301
+aVWayne Ellington MIN 02/12/2011 MIN vs. PHI L 20 4 2 10 20.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 0 -17
+p302
+aVNikola Pekovic MIN 02/12/2011 MIN vs. PHI L 29 6 2 2 100.0 0 0 - 2 2 100.0 2 7 9 2 0 3 3 3 -10
+p303
+aVKevin Love MIN 02/11/2011 MIN @ IND L 39 22 6 15 40.0 1 4 25.0 9 9 100.0 7 8 15 3 2 0 1 2 -14
+p304
+aVKosta Koufos MIN 02/11/2011 MIN @ IND L 16 9 4 5 80.0 0 0 - 1 2 50.0 3 3 6 0 0 3 2 1 9
+p305
+aVWayne Ellington MIN 02/11/2011 MIN @ IND L 34 14 6 15 40.0 0 1 0.0 2 2 100.0 0 4 4 3 1 0 1 2 -6
+p306
+aVSebastian Telfair MIN 02/11/2011 MIN @ IND L 24 8 2 7 28.6 1 3 33.3 3 4 75.0 0 2 2 4 1 0 3 6 -6
+p307
+aVCorey Brewer MIN 02/11/2011 MIN @ IND L 22 12 4 9 44.4 0 0 - 4 7 57.1 3 0 3 1 1 2 1 2 -15
+p308
+aVLazar Hayward MIN 02/11/2011 MIN @ IND L 26 14 5 11 45.5 2 4 50.0 2 3 66.7 2 2 4 0 1 1 1 4 4
+p309
+aVAnthony Tolliver MIN 02/11/2011 MIN @ IND L 17 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 1 2 1 1 3 -1
+p310
+aVJonny Flynn MIN 02/11/2011 MIN @ IND L 23 4 2 8 25.0 0 0 - 0 0 - 0 0 0 2 0 0 5 1 -4
+p311
+aVNikola Pekovic MIN 02/11/2011 MIN @ IND L 23 15 6 9 66.7 0 0 - 3 3 100.0 4 2 6 0 0 0 1 5 -15
+p312
+aVWesley Johnson MIN 02/11/2011 MIN @ IND L 15 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 1 0 0 1 4 -7
+p313
+aVNikola Pekovic MIN 02/08/2011 MIN @ HOU W 19 6 2 6 33.3 0 0 - 2 2 100.0 4 3 7 1 0 0 0 3 -7
+p314
+aVWesley Johnson MIN 02/08/2011 MIN @ HOU W 28 13 6 11 54.5 1 2 50.0 0 0 - 2 4 6 1 0 4 0 0 5
+p315
+aVKosta Koufos MIN 02/08/2011 MIN @ HOU W 19 8 4 7 57.1 0 0 - 0 2 0.0 3 2 5 0 0 2 1 2 8
+p316
+aVSebastian Telfair MIN 02/08/2011 MIN @ HOU W 17 14 6 9 66.7 2 4 50.0 0 0 - 0 0 0 3 0 0 2 1 5
+p317
+aVJonny Flynn MIN 02/08/2011 MIN @ HOU W 31 15 7 14 50.0 0 2 0.0 1 1 100.0 1 3 4 7 1 0 5 2 -1
+p318
+aVCorey Brewer MIN 02/08/2011 MIN @ HOU W 28 10 5 11 45.5 0 2 0.0 0 1 0.0 1 0 1 0 0 0 3 4 -9
+p319
+aVWayne Ellington MIN 02/08/2011 MIN @ HOU W 25 18 6 10 60.0 2 3 66.7 4 4 100.0 0 1 1 4 0 0 0 0 10
+p320
+aVAnthony Tolliver MIN 02/08/2011 MIN @ HOU W 22 4 1 2 50.0 0 0 - 2 2 100.0 2 8 10 1 0 0 0 4 8
+p321
+aVKevin Love MIN 02/08/2011 MIN @ HOU W 36 20 6 14 42.9 3 5 60.0 5 6 83.3 2 12 14 3 0 0 3 1 -1
+p322
+aVLazar Hayward MIN 02/08/2011 MIN @ HOU W 15 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 0 0 1 4 2
+p323
+aVSebastian Telfair MIN 02/07/2011 MIN @ NOH W 13 9 3 6 50.0 3 5 60.0 0 0 - 1 2 3 0 2 0 2 2 15
+p324
+aVKevin Love MIN 02/07/2011 MIN @ NOH W 44 27 6 12 50.0 1 2 50.0 14 14 100.0 3 14 17 3 0 1 2 2 9
+p325
+aVLazar Hayward MIN 02/07/2011 MIN @ NOH W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 1
+p326
+aVMichael Beasley MIN 02/07/2011 MIN @ NOH W 31 14 6 16 37.5 0 1 0.0 2 2 100.0 2 3 5 3 0 1 1 2 12
+p327
+aVNikola Pekovic MIN 02/07/2011 MIN @ NOH W 13 12 4 4 100.0 0 0 - 4 4 100.0 1 2 3 1 1 1 2 4 -2
+p328
+aVWesley Johnson MIN 02/07/2011 MIN @ NOH W 22 3 1 7 14.3 1 3 33.3 0 0 - 1 3 4 5 0 1 0 2 5
+p329
+aVAnthony Tolliver MIN 02/07/2011 MIN @ NOH W 28 12 4 8 50.0 4 7 57.1 0 0 - 2 5 7 1 1 0 0 3 15
+p330
+aVKosta Koufos MIN 02/07/2011 MIN @ NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p331
+aVWayne Ellington MIN 02/07/2011 MIN @ NOH W 27 11 4 10 40.0 0 3 0.0 3 3 100.0 1 1 2 1 0 0 0 1 18
+p332
+aVCorey Brewer MIN 02/07/2011 MIN @ NOH W 15 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 1 -7
+p333
+aVJonny Flynn MIN 02/07/2011 MIN @ NOH W 35 13 5 10 50.0 1 2 50.0 2 2 100.0 0 2 2 6 2 1 6 1 -3
+p334
+aVDarko Milicic MIN 02/07/2011 MIN @ NOH W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p335
+aVCorey Brewer MIN 02/05/2011 MIN vs. DEN L 27 15 6 10 60.0 2 2 100.0 1 1 100.0 1 4 5 5 0 1 0 4 -10
+p336
+aVLazar Hayward MIN 02/05/2011 MIN vs. DEN L 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p337
+aVMichael Beasley MIN 02/05/2011 MIN vs. DEN L 39 23 7 20 35.0 1 4 25.0 8 12 66.7 1 3 4 5 1 0 0 2 -11
+p338
+aVNikola Pekovic MIN 02/05/2011 MIN vs. DEN L 10 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 0 1 1 4 -1
+p339
+aVSebastian Telfair MIN 02/05/2011 MIN vs. DEN L 17 7 3 9 33.3 0 3 0.0 1 2 50.0 2 1 3 3 1 0 1 1 1
+p340
+aVWesley Johnson MIN 02/05/2011 MIN vs. DEN L 22 10 4 11 36.4 2 7 28.6 0 0 - 1 3 4 2 2 0 1 1 -5
+p341
+aVDarko Milicic MIN 02/05/2011 MIN vs. DEN L 37 10 5 9 55.6 0 0 - 0 0 - 1 4 5 0 1 3 2 4 -10
+p342
+aVKevin Love MIN 02/05/2011 MIN vs. DEN L 36 18 6 14 42.9 0 3 0.0 6 7 85.7 6 13 19 2 0 0 2 1 -15
+p343
+aVJonny Flynn MIN 02/05/2011 MIN vs. DEN L 32 11 5 13 38.5 1 5 20.0 0 0 - 0 1 1 4 1 0 1 2 -14
+p344
+aVAnthony Tolliver MIN 02/05/2011 MIN vs. DEN L 13 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 2
+p345
+aVNikola Pekovic MIN 02/04/2011 MIN @ TOR L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p346
+aVWesley Johnson MIN 02/04/2011 MIN @ TOR L 23 10 4 11 36.4 2 5 40.0 0 0 - 2 1 3 3 2 0 0 1 4
+p347
+aVSebastian Telfair MIN 02/04/2011 MIN @ TOR L 22 16 5 11 45.5 3 6 50.0 3 4 75.0 0 2 2 0 0 0 3 2 3
+p348
+aVKosta Koufos MIN 02/04/2011 MIN @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p349
+aVJonny Flynn MIN 02/04/2011 MIN @ TOR L 26 8 4 9 44.4 0 2 0.0 0 0 - 1 0 1 7 1 0 3 0 -14
+p350
+aVKevin Love MIN 02/04/2011 MIN @ TOR L 37 20 5 11 45.5 3 6 50.0 7 8 87.5 3 12 15 2 0 0 3 3 -12
+p351
+aVCorey Brewer MIN 02/04/2011 MIN @ TOR L 36 15 5 10 50.0 2 4 50.0 3 4 75.0 0 2 2 1 2 0 3 1 -19
+p352
+aVDarko Milicic MIN 02/04/2011 MIN @ TOR L 32 15 7 13 53.8 0 0 - 1 2 50.0 3 4 7 0 2 4 2 4 -16
+p353
+aVMichael Beasley MIN 02/04/2011 MIN @ TOR L 13 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -9
+p354
+aVMartell Webster MIN 02/04/2011 MIN @ TOR L 25 7 1 7 14.3 1 4 25.0 4 4 100.0 0 2 2 3 1 0 0 1 0
+p355
+aVAnthony Tolliver MIN 02/04/2011 MIN @ TOR L 18 3 1 5 20.0 1 2 50.0 0 0 - 2 3 5 1 0 0 0 2 6
+p356
+aVKevin Love MIN 02/02/2011 MIN vs. MEM L 35 10 4 9 44.4 0 2 0.0 2 5 40.0 1 9 10 3 1 1 2 2 -17
+p357
+aVKosta Koufos MIN 02/02/2011 MIN vs. MEM L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 2
+p358
+aVSebastian Telfair MIN 02/02/2011 MIN vs. MEM L 22 6 3 8 37.5 0 0 - 0 1 0.0 1 2 3 5 1 0 2 2 -13
+p359
+aVCorey Brewer MIN 02/02/2011 MIN vs. MEM L 19 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 0 0 3 1 -15
+p360
+aVMichael Beasley MIN 02/02/2011 MIN vs. MEM L 26 19 8 14 57.1 1 3 33.3 2 2 100.0 1 1 2 2 1 2 2 3 -18
+p361
+aVJonny Flynn MIN 02/02/2011 MIN vs. MEM L 26 11 5 9 55.6 1 3 33.3 0 0 - 1 3 4 5 2 0 1 0 -5
+p362
+aVWesley Johnson MIN 02/02/2011 MIN vs. MEM L 15 4 2 11 18.2 0 4 0.0 0 0 - 0 1 1 1 1 0 1 1 -5
+p363
+aVWayne Ellington MIN 02/02/2011 MIN vs. MEM L 14 13 5 8 62.5 3 4 75.0 0 0 - 1 1 2 0 0 0 0 0 2
+p364
+aVNikola Pekovic MIN 02/02/2011 MIN vs. MEM L 14 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 1 1 4 -9
+p365
+aVAnthony Tolliver MIN 02/02/2011 MIN vs. MEM L 23 0 0 2 0.0 0 2 0.0 0 0 - 4 3 7 0 0 1 0 1 -1
+p366
+aVDarko Milicic MIN 02/02/2011 MIN vs. MEM L 20 3 1 6 16.7 0 0 - 1 2 50.0 0 2 2 3 0 1 5 0 -11
+p367
+aVMartell Webster MIN 02/02/2011 MIN vs. MEM L 22 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 0 0
+p368
+aVCorey Brewer MIN 01/29/2011 MIN vs. TOR W 13 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 1 2
+p369
+aVLuke Ridnour MIN 01/29/2011 MIN vs. TOR W 17 4 2 2 100.0 0 0 - 0 0 - 0 3 3 3 1 0 3 1 -1
+p370
+aVWesley Johnson MIN 01/29/2011 MIN vs. TOR W 28 14 5 11 45.5 2 6 33.3 2 2 100.0 1 1 2 2 0 1 1 1 25
+p371
+aVMichael Beasley MIN 01/29/2011 MIN vs. TOR W 24 7 2 12 16.7 0 2 0.0 3 6 50.0 2 4 6 2 0 0 1 3 9
+p372
+aVJonny Flynn MIN 01/29/2011 MIN vs. TOR W 25 10 3 7 42.9 2 4 50.0 2 2 100.0 0 6 6 8 0 0 2 3 28
+p373
+aVSebastian Telfair MIN 01/29/2011 MIN vs. TOR W 6 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 0 -11
+p374
+aVWayne Ellington MIN 01/29/2011 MIN vs. TOR W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -11
+p375
+aVNikola Pekovic MIN 01/29/2011 MIN vs. TOR W 21 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 1 3 2 3 -4
+p376
+aVAnthony Tolliver MIN 01/29/2011 MIN vs. TOR W 24 7 1 6 16.7 1 4 25.0 4 6 66.7 0 6 6 1 1 0 2 3 0
+p377
+aVKevin Love MIN 01/29/2011 MIN vs. TOR W 24 21 6 10 60.0 2 4 50.0 7 8 87.5 2 10 12 1 1 1 2 2 16
+p378
+aVDarko Milicic MIN 01/29/2011 MIN vs. TOR W 27 9 3 8 37.5 0 0 - 3 4 75.0 2 6 8 2 1 3 2 2 20
+p379
+aVMartell Webster MIN 01/29/2011 MIN vs. TOR W 24 15 6 11 54.5 3 5 60.0 0 0 - 0 6 6 0 1 1 1 2 7
+p380
+aVMartell Webster MIN 01/28/2011 MIN @ UTA L 21 7 2 3 66.7 1 1 100.0 2 2 100.0 1 0 1 1 0 1 2 3 -2
+p381
+aVAnthony Tolliver MIN 01/28/2011 MIN @ UTA L 18 9 3 4 75.0 2 2 100.0 1 2 50.0 1 1 2 2 0 2 2 2 -1
+p382
+aVDarko Milicic MIN 01/28/2011 MIN @ UTA L 31 11 5 12 41.7 0 0 - 1 3 33.3 1 8 9 1 1 2 2 0 -10
+p383
+aVMichael Beasley MIN 01/28/2011 MIN @ UTA L 28 16 6 14 42.9 0 3 0.0 4 4 100.0 1 10 11 2 0 2 5 3 3
+p384
+aVNikola Pekovic MIN 01/28/2011 MIN @ UTA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p385
+aVWesley Johnson MIN 01/28/2011 MIN @ UTA L 27 19 8 14 57.1 3 7 42.9 0 0 - 0 1 1 2 0 0 0 2 -7
+p386
+aVKevin Love MIN 01/28/2011 MIN @ UTA L 37 22 6 11 54.5 0 1 0.0 10 11 90.9 5 10 15 2 0 1 3 3 -10
+p387
+aVCorey Brewer MIN 01/28/2011 MIN @ UTA L 23 3 1 7 14.3 1 4 25.0 0 0 - 0 2 2 1 0 0 2 4 -5
+p388
+aVLuke Ridnour MIN 01/28/2011 MIN @ UTA L 30 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 4 1 0 3 2 -7
+p389
+aVJonny Flynn MIN 01/28/2011 MIN @ UTA L 18 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 6 2 0 6 2 -1
+p390
+aVCorey Brewer MIN 01/26/2011 MIN vs. OKC L 29 11 5 10 50.0 0 0 - 1 2 50.0 4 1 5 4 2 0 1 5 -2
+p391
+aVAnthony Tolliver MIN 01/26/2011 MIN vs. OKC L 17 7 1 3 33.3 0 1 0.0 5 5 100.0 0 2 2 0 0 0 0 3 2
+p392
+aVMartell Webster MIN 01/26/2011 MIN vs. OKC L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 4
+p393
+aVLuke Ridnour MIN 01/26/2011 MIN vs. OKC L 37 12 4 13 30.8 0 4 0.0 4 6 66.7 0 1 1 8 3 0 3 1 -2
+p394
+aVDarko Milicic MIN 01/26/2011 MIN vs. OKC L 20 7 3 8 37.5 0 0 - 1 3 33.3 2 2 4 1 0 1 4 4 0
+p395
+aVNikola Pekovic MIN 01/26/2011 MIN vs. OKC L 14 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 0 0 1 1 0 -8
+p396
+aVWesley Johnson MIN 01/26/2011 MIN vs. OKC L 33 13 5 10 50.0 2 5 40.0 1 2 50.0 2 3 5 1 2 0 2 3 -3
+p397
+aVJonny Flynn MIN 01/26/2011 MIN vs. OKC L 16 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 1
+p398
+aVMichael Beasley MIN 01/26/2011 MIN vs. OKC L 44 30 13 25 52.0 2 5 40.0 2 2 100.0 2 7 9 7 0 1 6 4 -1
+p399
+aVKevin Love MIN 01/26/2011 MIN vs. OKC L 44 31 13 23 56.5 3 3 100.0 2 3 66.7 8 13 21 2 0 1 1 1 4
+p400
+aVWayne Ellington MIN 01/24/2011 MIN vs. HOU L 5 4 1 1 100.0 1 1 100.0 1 2 50.0 0 1 1 1 1 0 0 2 3
+p401
+aVCorey Brewer MIN 01/24/2011 MIN vs. HOU L 10 4 2 4 50.0 0 0 - 0 1 0.0 0 0 0 2 1 0 1 3 -7
+p402
+aVJonny Flynn MIN 01/24/2011 MIN vs. HOU L 20 5 1 5 20.0 1 3 33.3 2 2 100.0 0 1 1 5 0 0 4 1 3
+p403
+aVLuke Ridnour MIN 01/24/2011 MIN vs. HOU L 28 18 6 12 50.0 3 3 100.0 3 3 100.0 0 1 1 4 2 0 1 1 -7
+p404
+aVLazar Hayward MIN 01/24/2011 MIN vs. HOU L 9 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 1 3 7
+p405
+aVAnthony Tolliver MIN 01/24/2011 MIN vs. HOU L 14 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 1 1 0 1 3 6
+p406
+aVNikola Pekovic MIN 01/24/2011 MIN vs. HOU L 18 8 3 4 75.0 0 0 - 2 2 100.0 0 4 4 0 0 1 1 2 -10
+p407
+aVMichael Beasley MIN 01/24/2011 MIN vs. HOU L 28 16 8 16 50.0 0 2 0.0 0 0 - 0 4 4 2 0 1 1 2 -7
+p408
+aVMartell Webster MIN 01/24/2011 MIN vs. HOU L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 1 1 3 -4
+p409
+aVWesley Johnson MIN 01/24/2011 MIN vs. HOU L 33 19 7 13 53.8 2 3 66.7 3 5 60.0 0 3 3 4 3 2 1 6 -1
+p410
+aVDarko Milicic MIN 01/24/2011 MIN vs. HOU L 30 15 7 13 53.8 0 0 - 1 2 50.0 0 6 6 3 0 1 2 3 5
+p411
+aVKevin Love MIN 01/24/2011 MIN vs. HOU L 34 24 6 12 50.0 1 3 33.3 11 11 100.0 9 8 17 7 0 0 2 2 -8
+p412
+aVLazar Hayward MIN 01/19/2011 MIN @ LAC L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 3
+p413
+aVLuke Ridnour MIN 01/19/2011 MIN @ LAC L 29 16 7 11 63.6 1 3 33.3 1 1 100.0 0 3 3 5 1 0 2 4 -18
+p414
+aVKevin Love MIN 01/19/2011 MIN @ LAC L 32 26 8 14 57.1 0 2 0.0 10 11 90.9 4 7 11 1 1 1 3 3 -12
+p415
+aVDarko Milicic MIN 01/19/2011 MIN @ LAC L 24 6 3 6 50.0 0 0 - 0 0 - 2 1 3 1 2 4 3 2 -12
+p416
+aVCorey Brewer MIN 01/19/2011 MIN @ LAC L 27 12 3 6 50.0 0 1 0.0 6 7 85.7 1 1 2 2 3 0 1 4 -6
+p417
+aVMichael Beasley MIN 01/19/2011 MIN @ LAC L 31 21 9 18 50.0 0 3 0.0 3 3 100.0 0 3 3 4 1 1 2 2 -21
+p418
+aVMartell Webster MIN 01/19/2011 MIN @ LAC L 18 7 2 4 50.0 0 1 0.0 3 3 100.0 1 1 2 1 1 0 1 2 -9
+p419
+aVKosta Koufos MIN 01/19/2011 MIN @ LAC L 9 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 1 0 1 2 -4
+p420
+aVJonny Flynn MIN 01/19/2011 MIN @ LAC L 19 7 3 6 50.0 0 1 0.0 1 2 50.0 0 0 0 6 3 0 5 1 3
+p421
+aVWesley Johnson MIN 01/19/2011 MIN @ LAC L 12 0 0 5 0.0 0 4 0.0 0 1 0.0 0 0 0 1 1 1 0 1 3
+p422
+aVWayne Ellington MIN 01/19/2011 MIN @ LAC L 21 6 3 6 50.0 0 1 0.0 0 0 - 1 2 3 1 0 0 1 1 -6
+p423
+aVAnthony Tolliver MIN 01/19/2011 MIN @ LAC L 14 5 2 4 50.0 0 0 - 1 1 100.0 2 2 4 1 0 1 0 2 4
+p424
+aVJonny Flynn MIN 01/17/2011 MIN @ POR L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 2 1
+p425
+aVDarko Milicic MIN 01/17/2011 MIN @ POR L 34 22 11 16 68.8 0 0 - 0 2 0.0 5 3 8 0 2 4 3 5 -12
+p426
+aVLuke Ridnour MIN 01/17/2011 MIN @ POR L 33 7 3 11 27.3 1 4 25.0 0 0 - 2 6 8 6 0 0 3 4 -12
+p427
+aVWayne Ellington MIN 01/17/2011 MIN @ POR L 24 7 3 9 33.3 0 2 0.0 1 1 100.0 0 1 1 1 0 0 1 2 -9
+p428
+aVNikola Pekovic MIN 01/17/2011 MIN @ POR L 10 9 3 3 100.0 0 0 - 3 6 50.0 1 0 1 1 0 0 1 3 4
+p429
+aVKevin Love MIN 01/17/2011 MIN @ POR L 39 22 8 20 40.0 0 0 - 6 7 85.7 7 10 17 4 1 0 3 3 -13
+p430
+aVAnthony Tolliver MIN 01/17/2011 MIN @ POR L 12 3 1 3 33.3 0 1 0.0 1 1 100.0 0 2 2 0 0 0 0 0 -1
+p431
+aVMichael Beasley MIN 01/17/2011 MIN @ POR L 26 12 4 8 50.0 2 3 66.7 2 2 100.0 2 1 3 4 1 0 2 4 -4
+p432
+aVMartell Webster MIN 01/17/2011 MIN @ POR L 23 8 1 6 16.7 0 3 0.0 6 8 75.0 3 1 4 1 0 0 0 2 -6
+p433
+aVCorey Brewer MIN 01/17/2011 MIN @ POR L 23 10 3 7 42.9 0 1 0.0 4 7 57.1 1 2 3 1 1 1 1 2 -3
+p434
+aVJonny Flynn MIN 01/15/2011 MIN vs. ORL L 13 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 1 0 0 0 -10
+p435
+aVNikola Pekovic MIN 01/15/2011 MIN vs. ORL L 18 8 3 6 50.0 0 0 - 2 2 100.0 3 3 6 0 0 0 2 6 -6
+p436
+aVWayne Ellington MIN 01/15/2011 MIN vs. ORL L 24 8 4 11 36.4 0 1 0.0 0 0 - 1 3 4 0 1 0 2 3 -9
+p437
+aVKevin Love MIN 01/15/2011 MIN vs. ORL L 42 11 5 12 41.7 0 3 0.0 1 2 50.0 2 13 15 4 1 1 2 3 -7
+p438
+aVAnthony Tolliver MIN 01/15/2011 MIN vs. ORL L 17 9 3 5 60.0 2 3 66.7 1 2 50.0 3 4 7 0 0 1 2 2 2
+p439
+aVDarko Milicic MIN 01/15/2011 MIN vs. ORL L 19 13 5 7 71.4 0 0 - 3 4 75.0 2 4 6 1 0 3 2 6 -7
+p440
+aVLuke Ridnour MIN 01/15/2011 MIN vs. ORL L 35 19 6 15 40.0 3 5 60.0 4 4 100.0 0 1 1 6 1 0 0 2 1
+p441
+aVCorey Brewer MIN 01/15/2011 MIN vs. ORL L 34 23 8 15 53.3 2 5 40.0 5 6 83.3 0 3 3 1 5 0 3 1 -3
+p442
+aVWesley Johnson MIN 01/15/2011 MIN vs. ORL L 21 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 0 0 3 1 9
+p443
+aVMartell Webster MIN 01/15/2011 MIN vs. ORL L 16 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 1 0 0 2 1 -15
+p444
+aVDarko Milicic MIN 01/13/2011 MIN vs. WAS W 33 14 7 16 43.8 0 0 - 0 0 - 3 8 11 2 0 2 4 0 21
+p445
+aVAnthony Tolliver MIN 01/13/2011 MIN vs. WAS W 12 0 0 5 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -12
+p446
+aVMartell Webster MIN 01/13/2011 MIN vs. WAS W 23 11 4 7 57.1 0 2 0.0 3 3 100.0 1 3 4 0 1 0 2 2 -20
+p447
+aVWayne Ellington MIN 01/13/2011 MIN vs. WAS W 24 11 4 8 50.0 2 3 66.7 1 1 100.0 1 6 7 5 1 1 2 3 11
+p448
+aVKevin Love MIN 01/13/2011 MIN vs. WAS W 41 35 13 18 72.2 5 6 83.3 4 4 100.0 5 6 11 4 0 0 1 1 21
+p449
+aVJonny Flynn MIN 01/13/2011 MIN vs. WAS W 13 4 1 6 16.7 0 2 0.0 2 2 100.0 0 0 0 3 0 0 1 1 -12
+p450
+aVCorey Brewer MIN 01/13/2011 MIN vs. WAS W 34 10 3 10 30.0 0 1 0.0 4 6 66.7 1 3 4 1 4 0 0 2 25
+p451
+aVNikola Pekovic MIN 01/13/2011 MIN vs. WAS W 10 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 1 0 3 3 -6
+p452
+aVLuke Ridnour MIN 01/13/2011 MIN vs. WAS W 35 16 5 11 45.5 3 4 75.0 3 4 75.0 2 2 4 9 1 0 4 2 24
+p453
+aVWesley Johnson MIN 01/13/2011 MIN vs. WAS W 15 6 2 6 33.3 2 2 100.0 0 0 - 0 2 2 0 0 0 0 2 8
+p454
+aVCorey Brewer MIN 01/11/2011 MIN vs. SAS L 30 11 4 8 50.0 0 3 0.0 3 3 100.0 2 1 3 0 2 0 1 3 -8
+p455
+aVJonny Flynn MIN 01/11/2011 MIN vs. SAS L 14 3 1 7 14.3 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -2
+p456
+aVMichael Beasley MIN 01/11/2011 MIN vs. SAS L 27 7 3 11 27.3 1 3 33.3 0 0 - 0 3 3 3 1 0 2 1 -10
+p457
+aVMartell Webster MIN 01/11/2011 MIN vs. SAS L 25 18 5 14 35.7 2 5 40.0 6 7 85.7 3 2 5 0 1 0 1 1 0
+p458
+aVNikola Pekovic MIN 01/11/2011 MIN vs. SAS L 8 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 1 1 0 3 2 3
+p459
+aVLuke Ridnour MIN 01/11/2011 MIN vs. SAS L 34 18 7 13 53.8 1 3 33.3 3 3 100.0 0 2 2 9 1 0 2 3 -9
+p460
+aVWesley Johnson MIN 01/11/2011 MIN vs. SAS L 16 7 3 8 37.5 1 2 50.0 0 0 - 1 0 1 2 2 1 0 2 -2
+p461
+aVKevin Love MIN 01/11/2011 MIN vs. SAS L 42 20 7 20 35.0 2 5 40.0 4 6 66.7 5 15 20 2 2 0 1 1 -14
+p462
+aVDarko Milicic MIN 01/11/2011 MIN vs. SAS L 23 7 2 6 33.3 0 0 - 3 4 75.0 0 1 1 0 2 1 3 4 -13
+p463
+aVAnthony Tolliver MIN 01/11/2011 MIN vs. SAS L 20 0 0 0 - 0 0 - 0 0 - 2 6 8 1 1 0 1 3 0
+p464
+aVDarko Milicic MIN 01/09/2011 MIN @ SAS L 32 11 5 16 31.3 0 0 - 1 2 50.0 6 4 10 2 2 5 2 4 2
+p465
+aVLuke Ridnour MIN 01/09/2011 MIN @ SAS L 32 16 7 12 58.3 2 3 66.7 0 0 - 2 4 6 7 1 0 1 4 8
+p466
+aVKevin Love MIN 01/09/2011 MIN @ SAS L 35 18 7 15 46.7 1 4 25.0 3 4 75.0 5 12 17 1 0 0 1 1 1
+p467
+aVWesley Johnson MIN 01/09/2011 MIN @ SAS L 25 9 4 13 30.8 1 3 33.3 0 0 - 0 3 3 0 0 0 1 1 -5
+p468
+aVJonny Flynn MIN 01/09/2011 MIN @ SAS L 16 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 2 1 0 2 2 -11
+p469
+aVCorey Brewer MIN 01/09/2011 MIN @ SAS L 31 8 3 10 30.0 1 2 50.0 1 2 50.0 2 0 2 0 2 0 2 2 6
+p470
+aVMartell Webster MIN 01/09/2011 MIN @ SAS L 28 9 4 9 44.4 1 3 33.3 0 0 - 0 3 3 0 1 0 0 2 -15
+p471
+aVNikola Pekovic MIN 01/09/2011 MIN @ SAS L 10 5 1 2 50.0 0 0 - 3 4 75.0 2 1 3 0 0 0 0 2 -3
+p472
+aVAnthony Tolliver MIN 01/09/2011 MIN @ SAS L 20 9 4 8 50.0 1 3 33.3 0 0 - 1 1 2 2 2 0 0 1 -6
+p473
+aVMichael Beasley MIN 01/09/2011 MIN @ SAS L 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 8
+p474
+aVKosta Koufos MIN 01/07/2011 MIN vs. POR L 13 6 3 5 60.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 2 -11
+p475
+aVMartell Webster MIN 01/07/2011 MIN vs. POR L 24 11 4 11 36.4 1 3 33.3 2 2 100.0 2 3 5 0 0 0 1 3 0
+p476
+aVAnthony Tolliver MIN 01/07/2011 MIN vs. POR L 21 10 4 5 80.0 1 1 100.0 1 2 50.0 1 1 2 0 1 1 1 2 0
+p477
+aVLuke Ridnour MIN 01/07/2011 MIN vs. POR L 34 10 4 6 66.7 1 2 50.0 1 1 100.0 0 0 0 11 2 0 4 0 -9
+p478
+aVDarko Milicic MIN 01/07/2011 MIN vs. POR L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 2 4 3
+p479
+aVMichael Beasley MIN 01/07/2011 MIN vs. POR L 30 17 8 18 44.4 1 2 50.0 0 0 - 1 1 2 4 0 2 0 1 -13
+p480
+aVWesley Johnson MIN 01/07/2011 MIN vs. POR L 19 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 2 0 1 1 -15
+p481
+aVCorey Brewer MIN 01/07/2011 MIN vs. POR L 29 10 2 9 22.2 1 3 33.3 5 6 83.3 0 3 3 1 2 0 1 6 3
+p482
+aVKevin Love MIN 01/07/2011 MIN vs. POR L 39 30 10 15 66.7 3 4 75.0 7 7 100.0 7 12 19 2 1 0 4 4 -7
+p483
+aVJonny Flynn MIN 01/07/2011 MIN vs. POR L 14 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 1 0 0 3 0 -1
+p484
+aVCorey Brewer MIN 01/05/2011 MIN vs. CHA L 24 6 3 6 50.0 0 1 0.0 0 2 0.0 0 2 2 0 1 3 0 2 -3
+p485
+aVWesley Johnson MIN 01/05/2011 MIN vs. CHA L 33 10 4 14 28.6 2 8 25.0 0 0 - 0 2 2 1 1 0 3 2 -6
+p486
+aVNikola Pekovic MIN 01/05/2011 MIN vs. CHA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p487
+aVKosta Koufos MIN 01/05/2011 MIN vs. CHA L 14 2 1 3 33.3 0 0 - 0 0 - 0 6 6 1 0 1 2 1 13
+p488
+aVLuke Ridnour MIN 01/05/2011 MIN vs. CHA L 30 8 4 7 57.1 0 1 0.0 0 0 - 2 2 4 4 1 0 2 3 11
+p489
+aVMichael Beasley MIN 01/05/2011 MIN vs. CHA L 48 28 11 25 44.0 2 4 50.0 4 8 50.0 2 10 12 2 1 0 0 1 -12
+p490
+aVKevin Love MIN 01/05/2011 MIN vs. CHA L 45 35 11 16 68.8 3 5 60.0 10 11 90.9 4 11 15 5 0 0 2 3 4
+p491
+aVDarko Milicic MIN 01/05/2011 MIN vs. CHA L 26 3 1 2 50.0 0 0 - 1 3 33.3 2 5 7 1 1 3 5 5 -5
+p492
+aVMartell Webster MIN 01/05/2011 MIN vs. CHA L 19 5 1 8 12.5 1 4 25.0 2 4 50.0 1 2 3 1 1 0 0 0 3
+p493
+aVJonny Flynn MIN 01/05/2011 MIN vs. CHA L 23 8 2 3 66.7 2 2 100.0 2 2 100.0 0 2 2 3 0 0 2 3 -14
+p494
+aVCorey Brewer MIN 01/03/2011 MIN @ BOS L 22 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 1 1 0 0 0 -15
+p495
+aVMichael Beasley MIN 01/03/2011 MIN @ BOS L 23 19 9 17 52.9 1 3 33.3 0 0 - 1 2 3 2 1 0 3 4 -2
+p496
+aVKosta Koufos MIN 01/03/2011 MIN @ BOS L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 0
+p497
+aVNikola Pekovic MIN 01/03/2011 MIN @ BOS L 21 4 1 6 16.7 0 0 - 2 2 100.0 1 0 1 0 0 0 0 3 -9
+p498
+aVJonny Flynn MIN 01/03/2011 MIN @ BOS L 13 0 0 3 0.0 0 0 - 0 0 - 1 0 1 2 1 0 1 1 -5
+p499
+aVKevin Love MIN 01/03/2011 MIN @ BOS L 44 12 3 11 27.3 0 3 0.0 6 8 75.0 5 19 24 1 1 0 2 0 2
+p500
+aVMartell Webster MIN 01/03/2011 MIN @ BOS L 26 15 5 13 38.5 2 7 28.6 3 3 100.0 0 2 2 0 0 0 3 1 -5
+p501
+aVLuke Ridnour MIN 01/03/2011 MIN @ BOS L 35 13 4 14 28.6 0 1 0.0 5 5 100.0 1 1 2 5 1 1 2 3 2
+p502
+aVWesley Johnson MIN 01/03/2011 MIN @ BOS L 28 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 2 0 1 2 1 9
+p503
+aVDarko Milicic MIN 01/03/2011 MIN @ BOS L 24 14 6 10 60.0 0 0 - 2 4 50.0 3 3 6 3 0 0 1 5 8
+p504
+aVSebastian Telfair MIN 01/01/2011 MIN vs. NJN W 15 8 4 7 57.1 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p505
+aVMartell Webster MIN 01/01/2011 MIN vs. NJN W 25 10 3 5 60.0 3 4 75.0 1 2 50.0 0 2 2 2 1 0 1 5 1
+p506
+aVKevin Love MIN 01/01/2011 MIN vs. NJN W 39 23 7 12 58.3 2 3 66.7 7 8 87.5 2 8 10 4 2 0 3 2 17
+p507
+aVKosta Koufos MIN 01/01/2011 MIN vs. NJN W 8 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 1 1 0 2 -5
+p508
+aVMichael Beasley MIN 01/01/2011 MIN vs. NJN W 32 10 4 10 40.0 0 0 - 2 2 100.0 1 2 3 0 0 0 6 3 9
+p509
+aVSundiata Gaines MIN 01/01/2011 MIN vs. NJN W 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -2
+p510
+aVLuke Ridnour MIN 01/01/2011 MIN vs. NJN W 33 9 3 8 37.5 1 3 33.3 2 2 100.0 0 0 0 6 3 0 1 1 17
+p511
+aVNikola Pekovic MIN 01/01/2011 MIN vs. NJN W 20 8 2 5 40.0 0 0 - 4 4 100.0 3 2 5 0 1 0 1 5 4
+p512
+aVWesley Johnson MIN 01/01/2011 MIN vs. NJN W 17 7 2 8 25.0 0 3 0.0 3 4 75.0 0 4 4 2 0 1 1 2 10
+p513
+aVDarko Milicic MIN 01/01/2011 MIN vs. NJN W 20 16 8 9 88.9 0 0 - 0 0 - 2 0 2 3 2 0 3 5 16
+p514
+aVWayne Ellington MIN 01/01/2011 MIN vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p515
+aVCorey Brewer MIN 01/01/2011 MIN vs. NJN W 29 7 2 7 28.6 1 3 33.3 2 2 100.0 1 3 4 1 2 1 1 1 11
+p516
+aVLuke Ridnour MIN 12/29/2010 MIN vs. DEN L 37 20 8 10 80.0 1 1 100.0 3 3 100.0 0 4 4 8 2 0 4 5 -3
+p517
+aVCorey Brewer MIN 12/29/2010 MIN vs. DEN L 19 0 0 2 0.0 0 0 - 0 0 - 2 1 3 2 0 0 1 0 -5
+p518
+aVKosta Koufos MIN 12/29/2010 MIN vs. DEN L 3 1 0 3 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 0 -6
+p519
+aVJonny Flynn MIN 12/29/2010 MIN vs. DEN L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 0 -3
+p520
+aVWesley Johnson MIN 12/29/2010 MIN vs. DEN L 31 10 4 11 36.4 2 6 33.3 0 0 - 0 1 1 5 2 0 2 3 -4
+p521
+aVNikola Pekovic MIN 12/29/2010 MIN vs. DEN L 20 4 2 5 40.0 0 0 - 0 0 - 2 4 6 2 0 3 2 3 1
+p522
+aVDarko Milicic MIN 12/29/2010 MIN vs. DEN L 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 3 2 2 1
+p523
+aVMichael Beasley MIN 12/29/2010 MIN vs. DEN L 39 33 12 20 60.0 2 2 100.0 7 8 87.5 0 5 5 4 1 0 1 4 2
+p524
+aVWayne Ellington MIN 12/29/2010 MIN vs. DEN L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p525
+aVKevin Love MIN 12/29/2010 MIN vs. DEN L 39 26 9 19 47.4 0 1 0.0 8 8 100.0 6 8 14 5 0 0 2 5 -9
+p526
+aVMartell Webster MIN 12/29/2010 MIN vs. DEN L 24 17 6 11 54.5 2 5 40.0 3 4 75.0 0 3 3 1 0 0 3 4 -3
+p527
+aVMichael Beasley MIN 12/27/2010 MIN vs. NOH W 45 30 12 20 60.0 3 4 75.0 3 3 100.0 2 7 9 7 0 0 4 1 16
+p528
+aVKevin Love MIN 12/27/2010 MIN vs. NOH W 41 16 5 12 41.7 1 4 25.0 5 5 100.0 2 9 11 2 1 0 4 1 13
+p529
+aVCorey Brewer MIN 12/27/2010 MIN vs. NOH W 13 5 1 2 50.0 0 1 0.0 3 7 42.9 1 1 2 0 2 1 0 0 -1
+p530
+aVWesley Johnson MIN 12/27/2010 MIN vs. NOH W 36 24 8 12 66.7 6 8 75.0 2 2 100.0 0 0 0 3 1 0 2 2 13
+p531
+aVNikola Pekovic MIN 12/27/2010 MIN vs. NOH W 13 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 1 2 0 3 11
+p532
+aVDarko Milicic MIN 12/27/2010 MIN vs. NOH W 20 14 7 9 77.8 0 0 - 0 0 - 1 4 5 3 1 2 1 4 6
+p533
+aVKosta Koufos MIN 12/27/2010 MIN vs. NOH W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p534
+aVLuke Ridnour MIN 12/27/2010 MIN vs. NOH W 32 12 3 7 42.9 0 3 0.0 6 7 85.7 0 4 4 11 1 0 1 1 3
+p535
+aVJonny Flynn MIN 12/27/2010 MIN vs. NOH W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 3 1 0 2 3 12
+p536
+aVMartell Webster MIN 12/27/2010 MIN vs. NOH W 23 9 4 9 44.4 0 1 0.0 1 1 100.0 0 1 1 0 0 1 0 2 3
+p537
+aVKosta Koufos MIN 12/26/2010 MIN @ CLE W 12 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -2
+p538
+aVKevin Love MIN 12/26/2010 MIN @ CLE W 38 16 4 9 44.4 2 3 66.7 6 6 100.0 6 12 18 1 2 0 4 3 -3
+p539
+aVDarko Milicic MIN 12/26/2010 MIN @ CLE W 18 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 2 1 1 3 -6
+p540
+aVMartell Webster MIN 12/26/2010 MIN @ CLE W 32 8 3 12 25.0 1 6 16.7 1 2 50.0 0 3 3 0 2 2 2 3 5
+p541
+aVJonny Flynn MIN 12/26/2010 MIN @ CLE W 20 11 4 11 36.4 1 2 50.0 2 2 100.0 0 1 1 4 0 0 1 1 -5
+p542
+aVWayne Ellington MIN 12/26/2010 MIN @ CLE W 13 1 0 1 0.0 0 1 0.0 1 2 50.0 0 4 4 0 1 1 1 1 7
+p543
+aVLuke Ridnour MIN 12/26/2010 MIN @ CLE W 28 23 7 12 58.3 5 5 100.0 4 4 100.0 0 5 5 6 1 0 1 2 6
+p544
+aVWesley Johnson MIN 12/26/2010 MIN @ CLE W 23 3 1 5 20.0 1 4 25.0 0 0 - 0 5 5 1 0 0 1 0 -8
+p545
+aVMichael Beasley MIN 12/26/2010 MIN @ CLE W 42 28 10 25 40.0 2 2 100.0 6 6 100.0 3 3 6 1 1 0 1 4 9
+p546
+aVCorey Brewer MIN 12/26/2010 MIN @ CLE W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p547
+aVWayne Ellington MIN 12/22/2010 MIN vs. UTA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 0
+p548
+aVMichael Beasley MIN 12/22/2010 MIN vs. UTA L 38 24 9 16 56.3 0 0 - 6 8 75.0 1 9 10 3 1 2 1 4 6
+p549
+aVMartell Webster MIN 12/22/2010 MIN vs. UTA L 25 16 4 9 44.4 2 5 40.0 6 6 100.0 1 1 2 0 0 0 4 5 -19
+p550
+aVKosta Koufos MIN 12/22/2010 MIN vs. UTA L 8 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 1 1 1 2
+p551
+aVLuke Ridnour MIN 12/22/2010 MIN vs. UTA L 33 16 7 12 58.3 1 3 33.3 1 1 100.0 0 1 1 5 1 0 1 2 -3
+p552
+aVDarko Milicic MIN 12/22/2010 MIN vs. UTA L 24 6 3 10 30.0 0 0 - 0 2 0.0 3 1 4 1 2 2 2 6 -7
+p553
+aVWesley Johnson MIN 12/22/2010 MIN vs. UTA L 40 14 5 8 62.5 4 6 66.7 0 0 - 0 2 2 3 2 1 2 2 -8
+p554
+aVJonny Flynn MIN 12/22/2010 MIN vs. UTA L 15 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 0 0 3 2 -2
+p555
+aVKevin Love MIN 12/22/2010 MIN vs. UTA L 40 25 7 20 35.0 2 3 66.7 9 10 90.0 9 10 19 2 0 0 4 5 -3
+p556
+aVCorey Brewer MIN 12/22/2010 MIN vs. UTA L 13 1 0 3 0.0 0 0 - 1 2 50.0 0 3 3 1 1 0 0 2 9
+p557
+aVKosta Koufos MIN 12/20/2010 MIN @ LAC L 23 8 4 9 44.4 0 0 - 0 0 - 2 2 4 1 2 0 1 2 -10
+p558
+aVLuke Ridnour MIN 12/20/2010 MIN @ LAC L 25 10 4 8 50.0 2 2 100.0 0 0 - 0 0 0 6 0 0 1 2 -23
+p559
+aVWesley Johnson MIN 12/20/2010 MIN @ LAC L 24 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 3 5 -18
+p560
+aVJonny Flynn MIN 12/20/2010 MIN @ LAC L 20 3 1 4 25.0 1 4 25.0 0 0 - 0 3 3 3 0 0 1 0 0
+p561
+aVKevin Love MIN 12/20/2010 MIN @ LAC L 32 12 4 9 44.4 0 1 0.0 4 6 66.7 2 8 10 3 1 0 2 2 -20
+p562
+aVCorey Brewer MIN 12/20/2010 MIN @ LAC L 19 7 2 6 33.3 0 2 0.0 3 4 75.0 0 4 4 0 0 0 2 2 2
+p563
+aVWayne Ellington MIN 12/20/2010 MIN @ LAC L 14 5 2 5 40.0 0 1 0.0 1 2 50.0 1 1 2 1 2 0 1 1 -12
+p564
+aVSebastian Telfair MIN 12/20/2010 MIN @ LAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p565
+aVLazar Hayward MIN 12/20/2010 MIN @ LAC L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p566
+aVMartell Webster MIN 12/20/2010 MIN @ LAC L 34 18 6 11 54.5 2 3 66.7 4 6 66.7 0 5 5 2 1 0 2 3 -16
+p567
+aVDarko Milicic MIN 12/20/2010 MIN @ LAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 2
+p568
+aVMichael Beasley MIN 12/20/2010 MIN @ LAC L 39 20 6 19 31.6 1 3 33.3 7 9 77.8 2 2 4 1 1 0 0 2 -20
+p569
+aVCorey Brewer MIN 12/18/2010 MIN @ DEN L 30 9 2 8 25.0 0 3 0.0 5 5 100.0 0 3 3 2 2 0 4 4 3
+p570
+aVMichael Beasley MIN 12/18/2010 MIN @ DEN L 38 17 7 18 38.9 0 1 0.0 3 5 60.0 0 5 5 4 0 2 5 2 3
+p571
+aVMartell Webster MIN 12/18/2010 MIN @ DEN L 28 12 2 5 40.0 0 2 0.0 8 10 80.0 1 1 2 2 2 0 0 2 -1
+p572
+aVWesley Johnson MIN 12/18/2010 MIN @ DEN L 23 8 4 7 57.1 0 3 0.0 0 0 - 1 2 3 3 0 2 0 4 -2
+p573
+aVLuke Ridnour MIN 12/18/2010 MIN @ DEN L 24 3 1 7 14.3 0 3 0.0 1 1 100.0 0 4 4 5 2 1 2 2 -5
+p574
+aVJonny Flynn MIN 12/18/2010 MIN @ DEN L 24 12 5 7 71.4 0 2 0.0 2 2 100.0 1 3 4 2 0 1 1 2 3
+p575
+aVWayne Ellington MIN 12/18/2010 MIN @ DEN L 1 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p576
+aVKevin Love MIN 12/18/2010 MIN @ DEN L 43 43 14 23 60.9 5 5 100.0 10 12 83.3 7 10 17 3 0 0 2 2 1
+p577
+aVKosta Koufos MIN 12/18/2010 MIN @ DEN L 21 4 2 5 40.0 0 0 - 0 0 - 1 9 10 1 0 3 1 5 -7
+p578
+aVLazar Hayward MIN 12/18/2010 MIN @ DEN L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 2 0 0 1 0 -4
+p579
+aVLuke Ridnour MIN 12/17/2010 MIN @ POR L 31 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 3 3 0 3 2 2
+p580
+aVDarko Milicic MIN 12/17/2010 MIN @ POR L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p581
+aVCorey Brewer MIN 12/17/2010 MIN @ POR L 30 8 3 7 42.9 0 2 0.0 2 2 100.0 0 0 0 1 2 0 2 2 -8
+p582
+aVJonny Flynn MIN 12/17/2010 MIN @ POR L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 3 0 0 3 1 -7
+p583
+aVMartell Webster MIN 12/17/2010 MIN @ POR L 30 19 7 15 46.7 1 5 20.0 4 4 100.0 4 5 9 2 1 0 6 4 -10
+p584
+aVWesley Johnson MIN 12/17/2010 MIN @ POR L 24 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 1 1 1 0 1 -3
+p585
+aVNikola Pekovic MIN 12/17/2010 MIN @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p586
+aVKosta Koufos MIN 12/17/2010 MIN @ POR L 25 6 3 9 33.3 0 0 - 0 0 - 7 4 11 1 0 1 0 5 8
+p587
+aVMichael Beasley MIN 12/17/2010 MIN @ POR L 40 33 12 24 50.0 1 3 33.3 8 9 88.9 3 3 6 2 3 4 2 3 -7
+p588
+aVKevin Love MIN 12/17/2010 MIN @ POR L 40 19 8 17 47.1 0 1 0.0 3 4 75.0 7 10 17 4 0 0 1 2 7
+p589
+aVDarko Milicic MIN 12/15/2010 MIN @ PHX L 34 16 8 15 53.3 0 0 - 0 2 0.0 2 3 5 2 3 2 3 2 -14
+p590
+aVMichael Beasley MIN 12/15/2010 MIN @ PHX L 27 17 7 12 58.3 1 1 100.0 2 2 100.0 2 4 6 1 0 1 5 5 -14
+p591
+aVLuke Ridnour MIN 12/15/2010 MIN @ PHX L 32 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 8 2 0 2 3 -21
+p592
+aVKevin Love MIN 12/15/2010 MIN @ PHX L 38 23 7 15 46.7 1 4 25.0 8 9 88.9 3 13 16 4 1 0 0 2 -4
+p593
+aVNikola Pekovic MIN 12/15/2010 MIN @ PHX L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 0 5
+p594
+aVWesley Johnson MIN 12/15/2010 MIN @ PHX L 36 17 7 12 58.3 1 4 25.0 2 2 100.0 0 4 4 5 0 2 2 4 -11
+p595
+aVCorey Brewer MIN 12/15/2010 MIN @ PHX L 28 20 9 18 50.0 1 5 20.0 1 1 100.0 1 2 3 3 1 0 1 3 10
+p596
+aVJonny Flynn MIN 12/15/2010 MIN @ PHX L 17 7 3 6 50.0 1 2 50.0 0 1 0.0 0 1 1 4 1 0 2 1 15
+p597
+aVMartell Webster MIN 12/15/2010 MIN @ PHX L 24 11 4 6 66.7 3 4 75.0 0 0 - 0 2 2 2 0 0 1 2 4
+p598
+aVCorey Brewer MIN 12/14/2010 MIN @ GSW L 29 11 1 6 16.7 1 2 50.0 8 10 80.0 0 0 0 3 1 1 2 2 -2
+p599
+aVLuke Ridnour MIN 12/14/2010 MIN @ GSW L 31 5 1 9 11.1 0 3 0.0 3 4 75.0 1 2 3 11 3 0 1 3 -9
+p600
+aVDarko Milicic MIN 12/14/2010 MIN @ GSW L 32 25 12 19 63.2 0 0 - 1 1 100.0 6 5 11 0 1 0 4 5 -15
+p601
+aVWesley Johnson MIN 12/14/2010 MIN @ GSW L 20 4 2 5 40.0 0 3 0.0 0 0 - 0 2 2 1 0 0 0 2 -5
+p602
+aVMartell Webster MIN 12/14/2010 MIN @ GSW L 26 17 6 8 75.0 2 2 100.0 3 5 60.0 0 5 5 2 1 0 5 3 -7
+p603
+aVJonny Flynn MIN 12/14/2010 MIN @ GSW L 17 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 4 0 0 1 0 0
+p604
+aVMichael Beasley MIN 12/14/2010 MIN @ GSW L 35 19 9 16 56.3 1 3 33.3 0 1 0.0 2 5 7 2 1 0 3 6 -3
+p605
+aVKevin Love MIN 12/14/2010 MIN @ GSW L 44 13 6 18 33.3 0 3 0.0 1 2 50.0 4 10 14 3 0 0 2 2 -4
+p606
+aVNikola Pekovic MIN 12/14/2010 MIN @ GSW L 6 2 1 2 50.0 0 0 - 0 1 0.0 2 1 3 0 0 0 2 2 0
+p607
+aVNikola Pekovic MIN 12/11/2010 MIN @ CHI L 24 5 2 5 40.0 0 0 - 1 2 50.0 3 1 4 0 0 4 6 4 -22
+p608
+aVSundiata Gaines MIN 12/11/2010 MIN @ CHI L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -7
+p609
+aVSebastian Telfair MIN 12/11/2010 MIN @ CHI L 13 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 0 -8
+p610
+aVMichael Beasley MIN 12/11/2010 MIN @ CHI L 37 16 7 17 41.2 0 2 0.0 2 3 66.7 1 5 6 2 1 2 2 3 -16
+p611
+aVLuke Ridnour MIN 12/11/2010 MIN @ CHI L 29 7 3 8 37.5 1 2 50.0 0 0 - 0 1 1 8 0 0 1 1 -16
+p612
+aVLazar Hayward MIN 12/11/2010 MIN @ CHI L 6 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 0 0 1 0 0 -7
+p613
+aVWayne Ellington MIN 12/11/2010 MIN @ CHI L 25 8 3 9 33.3 1 3 33.3 1 2 50.0 0 0 0 0 2 0 1 1 -10
+p614
+aVWesley Johnson MIN 12/11/2010 MIN @ CHI L 24 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 1 0 0 2 1 -13
+p615
+aVCorey Brewer MIN 12/11/2010 MIN @ CHI L 23 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 0 1 0 0 2 -27
+p616
+aVKevin Love MIN 12/11/2010 MIN @ CHI L 32 23 9 15 60.0 3 5 60.0 2 2 100.0 3 12 15 1 1 1 3 2 -17
+p617
+aVKosta Koufos MIN 12/11/2010 MIN @ CHI L 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 2 2 -1
+p618
+aVDarko Milicic MIN 12/11/2010 MIN @ CHI L 14 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 0 2 1 3 -11
+p619
+aVKevin Love MIN 12/10/2010 MIN vs. DET W 41 27 10 14 71.4 2 4 50.0 5 7 71.4 7 11 18 3 0 0 1 1 7
+p620
+aVCorey Brewer MIN 12/10/2010 MIN vs. DET W 33 10 4 14 28.6 0 4 0.0 2 2 100.0 0 3 3 3 3 0 2 2 21
+p621
+aVLuke Ridnour MIN 12/10/2010 MIN vs. DET W 38 20 7 11 63.6 3 5 60.0 3 4 75.0 0 3 3 10 3 0 2 3 9
+p622
+aVMichael Beasley MIN 12/10/2010 MIN vs. DET W 25 12 6 14 42.9 0 1 0.0 0 0 - 2 5 7 1 0 1 1 5 -4
+p623
+aVSebastian Telfair MIN 12/10/2010 MIN vs. DET W 10 7 3 5 60.0 0 0 - 1 1 100.0 0 0 0 1 0 0 3 2 1
+p624
+aVWesley Johnson MIN 12/10/2010 MIN vs. DET W 26 11 5 9 55.6 1 1 100.0 0 0 - 1 4 5 1 0 1 2 5 3
+p625
+aVNikola Pekovic MIN 12/10/2010 MIN vs. DET W 11 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 0 0 2 1 2 8
+p626
+aVLazar Hayward MIN 12/10/2010 MIN vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p627
+aVWayne Ellington MIN 12/10/2010 MIN vs. DET W 17 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 1 0 0 2 6
+p628
+aVDarko Milicic MIN 12/10/2010 MIN vs. DET W 37 11 3 8 37.5 0 0 - 5 6 83.3 2 3 5 2 0 7 3 1 2
+p629
+aVWesley Johnson MIN 12/08/2010 MIN vs. OKC L 43 5 2 5 40.0 1 2 50.0 0 0 - 1 4 5 3 2 0 2 0 -10
+p630
+aVMichael Beasley MIN 12/08/2010 MIN vs. OKC L 32 26 11 27 40.7 1 3 33.3 3 7 42.9 3 3 6 0 0 1 1 3 -13
+p631
+aVKosta Koufos MIN 12/08/2010 MIN vs. OKC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p632
+aVSebastian Telfair MIN 12/08/2010 MIN vs. OKC L 12 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 1 -17
+p633
+aVWayne Ellington MIN 12/08/2010 MIN vs. OKC L 17 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 0 0 0 1 1 -15
+p634
+aVCorey Brewer MIN 12/08/2010 MIN vs. OKC L 31 13 4 11 36.4 2 4 50.0 3 5 60.0 0 3 3 6 3 0 1 5 14
+p635
+aVKevin Love MIN 12/08/2010 MIN vs. OKC L 41 22 7 22 31.8 2 4 50.0 6 7 85.7 8 13 21 2 1 0 3 2 4
+p636
+aVNikola Pekovic MIN 12/08/2010 MIN vs. OKC L 25 15 6 10 60.0 0 0 - 3 4 75.0 3 0 3 1 1 3 1 4 -7
+p637
+aVLuke Ridnour MIN 12/08/2010 MIN vs. OKC L 36 7 3 6 50.0 0 1 0.0 1 1 100.0 0 1 1 9 1 1 1 4 9
+p638
+aVNikola Pekovic MIN 12/06/2010 MIN @ NYK L 9 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -13
+p639
+aVWesley Johnson MIN 12/06/2010 MIN @ NYK L 34 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 3 0 0 1 1 0
+p640
+aVKevin Love MIN 12/06/2010 MIN @ NYK L 42 33 10 18 55.6 3 5 60.0 10 10 100.0 3 12 15 3 1 0 0 1 7
+p641
+aVSebastian Telfair MIN 12/06/2010 MIN @ NYK L 20 11 3 6 50.0 1 3 33.3 4 8 50.0 0 1 1 2 0 0 2 3 -15
+p642
+aVDarko Milicic MIN 12/06/2010 MIN @ NYK L 8 10 4 4 100.0 0 0 - 2 2 100.0 1 0 1 1 0 1 2 2 8
+p643
+aVWayne Ellington MIN 12/06/2010 MIN @ NYK L 22 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 0 1 0 1 3 -10
+p644
+aVMichael Beasley MIN 12/06/2010 MIN @ NYK L 44 25 10 18 55.6 1 2 50.0 4 4 100.0 1 5 6 1 0 1 3 6 -7
+p645
+aVLuke Ridnour MIN 12/06/2010 MIN @ NYK L 28 16 6 9 66.7 3 4 75.0 1 1 100.0 0 0 0 4 1 0 5 2 8
+p646
+aVCorey Brewer MIN 12/06/2010 MIN @ NYK L 33 7 3 7 42.9 1 2 50.0 0 0 - 1 5 6 2 0 0 3 4 -13
+p647
+aVSundiata Gaines MIN 12/04/2010 MIN vs. CLE W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -2
+p648
+aVLuke Ridnour MIN 12/04/2010 MIN vs. CLE W 22 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 5 0 0 0 2 20
+p649
+aVCorey Brewer MIN 12/04/2010 MIN vs. CLE W 30 15 6 10 60.0 2 4 50.0 1 1 100.0 0 0 0 3 1 0 2 2 27
+p650
+aVKosta Koufos MIN 12/04/2010 MIN vs. CLE W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -7
+p651
+aVNikola Pekovic MIN 12/04/2010 MIN vs. CLE W 12 7 3 5 60.0 0 0 - 1 2 50.0 1 6 7 1 0 0 2 3 0
+p652
+aVLazar Hayward MIN 12/04/2010 MIN vs. CLE W 15 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 1 0 1 2 3 0
+p653
+aVWesley Johnson MIN 12/04/2010 MIN vs. CLE W 30 20 8 9 88.9 3 4 75.0 1 1 100.0 0 6 6 2 0 2 4 2 28
+p654
+aVWayne Ellington MIN 12/04/2010 MIN vs. CLE W 30 16 6 9 66.7 4 6 66.7 0 0 - 0 2 2 3 1 0 1 3 17
+p655
+aVSebastian Telfair MIN 12/04/2010 MIN vs. CLE W 26 10 3 5 60.0 1 2 50.0 3 4 75.0 0 0 0 7 2 0 2 1 14
+p656
+aVDarko Milicic MIN 12/04/2010 MIN vs. CLE W 26 14 6 12 50.0 0 0 - 2 2 100.0 1 8 9 3 0 3 1 3 41
+p657
+aVKevin Love MIN 12/04/2010 MIN vs. CLE W 32 28 8 15 53.3 5 5 100.0 7 8 87.5 3 16 19 3 0 1 3 2 32
+p658
+aVLuke Ridnour MIN 12/03/2010 MIN @ SAS L 34 14 5 7 71.4 0 1 0.0 4 4 100.0 2 5 7 2 1 0 3 4 -13
+p659
+aVKosta Koufos MIN 12/03/2010 MIN @ SAS L 15 6 3 8 37.5 0 1 0.0 0 0 - 4 4 8 0 1 1 1 1 3
+p660
+aVMichael Beasley MIN 12/03/2010 MIN @ SAS L 40 28 12 24 50.0 0 1 0.0 4 4 100.0 1 5 6 0 1 1 3 3 9
+p661
+aVSebastian Telfair MIN 12/03/2010 MIN @ SAS L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 1 7
+p662
+aVKevin Love MIN 12/03/2010 MIN @ SAS L 43 25 8 18 44.4 1 3 33.3 8 11 72.7 7 11 18 3 0 1 4 4 -4
+p663
+aVWesley Johnson MIN 12/03/2010 MIN @ SAS L 31 4 1 7 14.3 1 4 25.0 1 2 50.0 2 4 6 2 1 0 4 1 -10
+p664
+aVDarko Milicic MIN 12/03/2010 MIN @ SAS L 25 4 2 10 20.0 0 0 - 0 0 - 4 2 6 4 0 1 1 6 -13
+p665
+aVCorey Brewer MIN 12/03/2010 MIN @ SAS L 25 14 5 14 35.7 1 1 100.0 3 4 75.0 3 1 4 2 3 0 0 4 -4
+p666
+aVWayne Ellington MIN 12/03/2010 MIN @ SAS L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p667
+aVAnthony Tolliver MIN 12/03/2010 MIN @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 3 0 0 0 0 7
+p668
+aVDarko Milicic MIN 12/01/2010 MIN @ DAL L 36 12 6 15 40.0 0 0 - 0 2 0.0 3 5 8 3 0 2 4 3 -9
+p669
+aVLazar Hayward MIN 12/01/2010 MIN @ DAL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p670
+aVCorey Brewer MIN 12/01/2010 MIN @ DAL L 21 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -13
+p671
+aVSebastian Telfair MIN 12/01/2010 MIN @ DAL L 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 1 0 3 1 -7
+p672
+aVWesley Johnson MIN 12/01/2010 MIN @ DAL L 20 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 1 0 0 0 4 3
+p673
+aVKosta Koufos MIN 12/01/2010 MIN @ DAL L 2 5 1 1 100.0 0 0 - 3 3 100.0 1 0 1 0 0 0 1 0 5
+p674
+aVMichael Beasley MIN 12/01/2010 MIN @ DAL L 29 16 6 14 42.9 0 3 0.0 4 6 66.7 1 2 3 0 1 1 0 4 0
+p675
+aVLuke Ridnour MIN 12/01/2010 MIN @ DAL L 32 9 4 11 36.4 1 3 33.3 0 0 - 0 3 3 3 4 2 2 0 -6
+p676
+aVKevin Love MIN 12/01/2010 MIN @ DAL L 38 12 3 10 30.0 0 2 0.0 6 6 100.0 3 12 15 3 1 0 2 1 -13
+p677
+aVWayne Ellington MIN 12/01/2010 MIN @ DAL L 26 13 5 12 41.7 1 2 50.0 2 2 100.0 0 1 1 1 1 0 0 2 -18
+p678
+aVSundiata Gaines MIN 12/01/2010 MIN @ DAL L 10 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 1 1 0 1 0 -1
+p679
+aVAnthony Tolliver MIN 12/01/2010 MIN @ DAL L 16 3 1 4 25.0 1 1 100.0 0 0 - 2 3 5 1 0 0 2 2 -16
+p680
+aVKevin Love MIN 11/27/2010 MIN vs. GSW L 42 21 6 16 37.5 0 3 0.0 9 9 100.0 5 17 22 2 0 2 0 1 -8
+p681
+aVKosta Koufos MIN 11/27/2010 MIN vs. GSW L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p682
+aVSebastian Telfair MIN 11/27/2010 MIN vs. GSW L 11 4 1 4 25.0 0 1 0.0 2 2 100.0 2 0 2 2 2 0 1 0 -9
+p683
+aVWayne Ellington MIN 11/27/2010 MIN vs. GSW L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 2 0 9
+p684
+aVDarko Milicic MIN 11/27/2010 MIN vs. GSW L 30 9 4 10 40.0 0 0 - 1 2 50.0 4 3 7 3 0 2 3 2 -24
+p685
+aVLuke Ridnour MIN 11/27/2010 MIN vs. GSW L 37 16 5 10 50.0 2 4 50.0 4 4 100.0 1 2 3 5 1 0 5 1 -1
+p686
+aVCorey Brewer MIN 11/27/2010 MIN vs. GSW L 28 0 0 4 0.0 0 2 0.0 0 0 - 2 2 4 1 0 0 3 2 -2
+p687
+aVAnthony Tolliver MIN 11/27/2010 MIN vs. GSW L 21 8 2 4 50.0 1 2 50.0 3 6 50.0 2 2 4 1 0 0 1 2 12
+p688
+aVWesley Johnson MIN 11/27/2010 MIN vs. GSW L 21 5 2 6 33.3 0 3 0.0 1 1 100.0 1 3 4 0 1 1 2 4 -15
+p689
+aVMichael Beasley MIN 11/27/2010 MIN vs. GSW L 35 28 11 25 44.0 1 2 50.0 5 7 71.4 6 3 9 3 0 1 3 3 -12
+p690
+aVCorey Brewer MIN 11/24/2010 MIN vs. SAS L 28 6 3 9 33.3 0 1 0.0 0 0 - 0 3 3 1 1 1 0 2 -6
+p691
+aVWayne Ellington MIN 11/24/2010 MIN vs. SAS L 13 5 2 7 28.6 1 1 100.0 0 0 - 0 2 2 1 0 0 0 3 -3
+p692
+aVDarko Milicic MIN 11/24/2010 MIN vs. SAS L 33 22 10 17 58.8 0 0 - 2 5 40.0 1 7 8 4 0 5 7 6 3
+p693
+aVKevin Love MIN 11/24/2010 MIN vs. SAS L 46 32 11 19 57.9 1 3 33.3 9 9 100.0 7 15 22 3 0 0 3 4 0
+p694
+aVKosta Koufos MIN 11/24/2010 MIN vs. SAS L 6 3 1 1 100.0 0 0 - 1 2 50.0 2 0 2 0 1 0 0 2 1
+p695
+aVLuke Ridnour MIN 11/24/2010 MIN vs. SAS L 41 7 2 12 16.7 1 4 25.0 2 2 100.0 0 3 3 5 0 0 1 0 -1
+p696
+aVSebastian Telfair MIN 11/24/2010 MIN vs. SAS L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 5 1 0 1 2 -3
+p697
+aVMichael Beasley MIN 11/24/2010 MIN vs. SAS L 30 11 5 12 41.7 1 1 100.0 0 0 - 0 9 9 1 1 1 4 4 -2
+p698
+aVAnthony Tolliver MIN 11/24/2010 MIN vs. SAS L 21 5 2 2 100.0 0 0 - 1 2 50.0 2 0 2 0 0 0 2 3 -12
+p699
+aVWesley Johnson MIN 11/24/2010 MIN vs. SAS L 36 15 5 7 71.4 2 3 66.7 3 4 75.0 0 1 1 1 0 3 0 6 3
+p700
+aVWayne Ellington MIN 11/22/2010 MIN @ OKC L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p701
+aVMichael Beasley MIN 11/22/2010 MIN @ OKC L 37 15 7 20 35.0 0 3 0.0 1 3 33.3 2 5 7 3 0 1 5 5 -20
+p702
+aVCorey Brewer MIN 11/22/2010 MIN @ OKC L 17 12 5 9 55.6 1 1 100.0 1 1 100.0 1 0 1 1 4 0 1 3 8
+p703
+aVDarko Milicic MIN 11/22/2010 MIN @ OKC L 36 21 9 14 64.3 0 0 - 3 4 75.0 1 3 4 2 0 3 1 5 -1
+p704
+aVLazar Hayward MIN 11/22/2010 MIN @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p705
+aVAnthony Tolliver MIN 11/22/2010 MIN @ OKC L 32 11 3 7 42.9 1 2 50.0 4 4 100.0 2 2 4 0 0 0 2 2 1
+p706
+aVKevin Love MIN 11/22/2010 MIN @ OKC L 38 24 10 17 58.8 4 6 66.7 0 0 - 4 13 17 3 0 0 2 1 -25
+p707
+aVKosta Koufos MIN 11/22/2010 MIN @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p708
+aVLuke Ridnour MIN 11/22/2010 MIN @ OKC L 32 17 7 14 50.0 1 3 33.3 2 2 100.0 1 4 5 7 0 0 2 3 13
+p709
+aVSebastian Telfair MIN 11/22/2010 MIN @ OKC L 16 0 0 1 0.0 0 0 - 0 0 - 0 0 0 5 1 0 2 3 -23
+p710
+aVWesley Johnson MIN 11/22/2010 MIN @ OKC L 25 7 3 6 50.0 1 2 50.0 0 2 0.0 0 1 1 1 1 0 1 4 -6
+p711
+aVLazar Hayward MIN 11/19/2010 MIN vs. LAL L 7 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 1 1 5
+p712
+aVKevin Love MIN 11/19/2010 MIN vs. LAL L 34 0 0 7 0.0 0 2 0.0 0 0 - 2 5 7 3 0 0 2 0 -27
+p713
+aVWesley Johnson MIN 11/19/2010 MIN vs. LAL L 26 5 2 9 22.2 1 5 20.0 0 0 - 1 0 1 3 0 1 1 3 -8
+p714
+aVCorey Brewer MIN 11/19/2010 MIN vs. LAL L 21 4 1 5 20.0 0 2 0.0 2 4 50.0 0 1 1 1 1 1 1 2 -25
+p715
+aVSebastian Telfair MIN 11/19/2010 MIN vs. LAL L 26 8 3 10 30.0 2 5 40.0 0 0 - 0 3 3 2 0 0 1 2 -8
+p716
+aVMichael Beasley MIN 11/19/2010 MIN vs. LAL L 39 25 9 22 40.9 1 4 25.0 6 6 100.0 4 6 10 2 2 2 6 4 -14
+p717
+aVWayne Ellington MIN 11/19/2010 MIN vs. LAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 8
+p718
+aVDarko Milicic MIN 11/19/2010 MIN vs. LAL L 40 23 10 18 55.6 0 0 - 3 3 100.0 6 10 16 5 2 6 2 4 -21
+p719
+aVAnthony Tolliver MIN 11/19/2010 MIN vs. LAL L 16 11 4 5 80.0 0 1 0.0 3 4 75.0 1 2 3 1 1 1 0 0 9
+p720
+aVLuke Ridnour MIN 11/19/2010 MIN vs. LAL L 18 11 4 7 57.1 1 3 33.3 2 2 100.0 0 1 1 1 0 0 1 1 -17
+p721
+aVSundiata Gaines MIN 11/19/2010 MIN vs. LAL L 4 4 1 2 50.0 1 2 50.0 1 2 50.0 0 0 0 0 1 0 1 0 8
+p722
+aVKosta Koufos MIN 11/19/2010 MIN vs. LAL L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 2 5
+p723
+aVCorey Brewer MIN 11/17/2010 MIN vs. LAC W 27 14 4 8 50.0 1 2 50.0 5 6 83.3 0 3 3 2 1 0 1 4 3
+p724
+aVMichael Beasley MIN 11/17/2010 MIN vs. LAC W 38 33 14 23 60.9 2 3 66.7 3 3 100.0 2 5 7 1 1 1 2 2 7
+p725
+aVDarko Milicic MIN 11/17/2010 MIN vs. LAC W 32 11 5 6 83.3 0 0 - 1 2 50.0 0 3 3 2 1 3 5 4 4
+p726
+aVWesley Johnson MIN 11/17/2010 MIN vs. LAC W 29 7 2 6 33.3 1 3 33.3 2 3 66.7 0 1 1 2 0 1 0 2 -1
+p727
+aVKosta Koufos MIN 11/17/2010 MIN vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p728
+aVLuke Ridnour MIN 11/17/2010 MIN vs. LAC W 25 12 3 8 37.5 2 3 66.7 4 4 100.0 1 1 2 8 3 0 1 2 5
+p729
+aVWayne Ellington MIN 11/17/2010 MIN vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p730
+aVKevin Love MIN 11/17/2010 MIN vs. LAC W 38 24 7 11 63.6 2 3 66.7 8 8 100.0 2 12 14 4 2 1 1 1 0
+p731
+aVSebastian Telfair MIN 11/17/2010 MIN vs. LAC W 23 7 2 8 25.0 1 4 25.0 2 2 100.0 0 0 0 5 0 0 1 1 -5
+p732
+aVAnthony Tolliver MIN 11/17/2010 MIN vs. LAC W 21 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 1 3 2 3 2
+p733
+aVWesley Johnson MIN 11/15/2010 MIN @ CHA L 29 4 2 5 40.0 0 2 0.0 0 2 0.0 0 2 2 4 0 2 0 1 0
+p734
+aVMichael Beasley MIN 11/15/2010 MIN @ CHA L 39 28 12 25 48.0 3 3 100.0 1 3 33.3 2 3 5 2 0 2 2 4 -10
+p735
+aVKosta Koufos MIN 11/15/2010 MIN @ CHA L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p736
+aVSundiata Gaines MIN 11/15/2010 MIN @ CHA L 17 10 4 5 80.0 1 2 50.0 1 2 50.0 0 1 1 2 0 0 0 1 8
+p737
+aVSebastian Telfair MIN 11/15/2010 MIN @ CHA L 31 11 5 11 45.5 1 2 50.0 0 0 - 0 1 1 6 0 0 3 3 -10
+p738
+aVCorey Brewer MIN 11/15/2010 MIN @ CHA L 26 11 3 9 33.3 1 2 50.0 4 5 80.0 1 2 3 1 2 0 1 4 4
+p739
+aVKevin Love MIN 11/15/2010 MIN @ CHA L 32 20 8 16 50.0 1 3 33.3 3 3 100.0 2 7 9 0 1 1 4 5 -7
+p740
+aVAnthony Tolliver MIN 11/15/2010 MIN @ CHA L 22 13 4 8 50.0 2 4 50.0 3 4 75.0 0 4 4 0 1 0 0 2 14
+p741
+aVLazar Hayward MIN 11/15/2010 MIN @ CHA L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 3 -3
+p742
+aVDarko Milicic MIN 11/15/2010 MIN @ CHA L 38 13 5 11 45.5 0 0 - 3 4 75.0 4 8 12 5 0 4 0 4 -11
+p743
+aVWesley Johnson MIN 11/14/2010 MIN @ ATL L 37 10 4 8 50.0 2 6 33.3 0 0 - 1 3 4 3 0 0 1 6 -1
+p744
+aVCorey Brewer MIN 11/14/2010 MIN @ ATL L 23 11 2 8 25.0 1 3 33.3 6 8 75.0 1 3 4 1 2 0 2 5 0
+p745
+aVKosta Koufos MIN 11/14/2010 MIN @ ATL L 6 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -12
+p746
+aVDarko Milicic MIN 11/14/2010 MIN @ ATL L 20 2 1 7 14.3 0 0 - 0 2 0.0 2 0 2 2 0 3 2 4 -6
+p747
+aVSebastian Telfair MIN 11/14/2010 MIN @ ATL L 39 18 6 9 66.7 2 4 50.0 4 5 80.0 0 0 0 8 3 0 5 2 6
+p748
+aVLazar Hayward MIN 11/14/2010 MIN @ ATL L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -14
+p749
+aVAnthony Tolliver MIN 11/14/2010 MIN @ ATL L 21 13 5 7 71.4 2 3 66.7 1 1 100.0 1 3 4 1 0 1 0 0 1
+p750
+aVKevin Love MIN 11/14/2010 MIN @ ATL L 41 22 7 15 46.7 0 2 0.0 8 8 100.0 5 12 17 0 2 0 5 2 2
+p751
+aVMichael Beasley MIN 11/14/2010 MIN @ ATL L 34 25 10 16 62.5 1 3 33.3 4 7 57.1 1 3 4 3 1 0 5 5 6
+p752
+aVSundiata Gaines MIN 11/14/2010 MIN @ ATL L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -12
+p753
+aVNikola Pekovic MIN 11/12/2010 MIN vs. NYK W 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p754
+aVKosta Koufos MIN 11/12/2010 MIN vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p755
+aVMichael Beasley MIN 11/12/2010 MIN vs. NYK W 41 35 16 29 55.2 2 4 50.0 1 2 50.0 1 5 6 4 3 1 1 3 2
+p756
+aVAnthony Tolliver MIN 11/12/2010 MIN vs. NYK W 11 5 1 7 14.3 1 4 25.0 2 2 100.0 0 1 1 0 0 0 2 2 -7
+p757
+aVKevin Love MIN 11/12/2010 MIN vs. NYK W 41 31 11 26 42.3 1 4 25.0 8 10 80.0 12 19 31 5 0 1 2 3 12
+p758
+aVCorey Brewer MIN 11/12/2010 MIN vs. NYK W 30 12 4 7 57.1 1 2 50.0 3 4 75.0 1 7 8 1 3 0 2 2 18
+p759
+aVLazar Hayward MIN 11/12/2010 MIN vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p760
+aVDarko Milicic MIN 11/12/2010 MIN vs. NYK W 20 9 4 11 36.4 0 0 - 1 1 100.0 1 3 4 0 1 1 0 3 -4
+p761
+aVSebastian Telfair MIN 11/12/2010 MIN vs. NYK W 37 0 0 5 0.0 0 0 - 0 0 - 0 1 1 8 1 2 3 5 8
+p762
+aVWesley Johnson MIN 11/12/2010 MIN vs. NYK W 37 15 6 9 66.7 3 5 60.0 0 0 - 2 2 4 3 0 3 1 3 15
+p763
+aVSundiata Gaines MIN 11/12/2010 MIN vs. NYK W 11 1 0 4 0.0 0 1 0.0 1 2 50.0 0 0 0 1 1 0 2 0 1
+p764
+aVAnthony Tolliver MIN 11/10/2010 MIN @ SAC W 19 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 3 1 0 0 2 16
+p765
+aVWesley Johnson MIN 11/10/2010 MIN @ SAC W 31 12 5 8 62.5 2 4 50.0 0 0 - 2 5 7 2 0 0 2 3 -6
+p766
+aVNikola Pekovic MIN 11/10/2010 MIN @ SAC W 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 1 0 4 14
+p767
+aVLazar Hayward MIN 11/10/2010 MIN @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p768
+aVSebastian Telfair MIN 11/10/2010 MIN @ SAC W 40 16 8 14 57.1 0 1 0.0 0 0 - 0 0 0 1 0 0 2 4 5
+p769
+aVMaurice Ager MIN 11/10/2010 MIN @ SAC W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 2 2 4
+p770
+aVMichael Beasley MIN 11/10/2010 MIN @ SAC W 41 42 17 31 54.8 1 2 50.0 7 10 70.0 2 7 9 2 1 0 3 3 9
+p771
+aVKevin Love MIN 11/10/2010 MIN @ SAC W 28 8 3 9 33.3 0 0 - 2 4 50.0 1 8 9 0 0 0 2 1 -4
+p772
+aVDarko Milicic MIN 11/10/2010 MIN @ SAC W 32 9 4 12 33.3 0 0 - 1 2 50.0 6 2 8 4 0 1 2 3 -5
+p773
+aVCorey Brewer MIN 11/10/2010 MIN @ SAC W 24 4 1 5 20.0 0 2 0.0 2 4 50.0 0 2 2 1 2 0 2 2 12
+p774
+aVMichael Beasley MIN 11/09/2010 MIN @ LAL L 36 17 6 15 40.0 0 1 0.0 5 5 100.0 0 1 1 2 4 0 5 5 -2
+p775
+aVLazar Hayward MIN 11/09/2010 MIN @ LAL L 13 3 1 6 16.7 1 4 25.0 0 0 - 3 1 4 2 2 0 0 3 -6
+p776
+aVAnthony Tolliver MIN 11/09/2010 MIN @ LAL L 12 2 1 2 50.0 0 0 - 0 0 - 4 2 6 1 0 0 0 0 -2
+p777
+aVMaurice Ager MIN 11/09/2010 MIN @ LAL L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 2 2 -3
+p778
+aVWesley Johnson MIN 11/09/2010 MIN @ LAL L 25 7 3 11 27.3 1 3 33.3 0 0 - 2 2 4 2 0 0 3 5 3
+p779
+aVCorey Brewer MIN 11/09/2010 MIN @ LAL L 21 12 4 10 40.0 0 1 0.0 4 4 100.0 1 0 1 0 3 0 3 3 -5
+p780
+aVKosta Koufos MIN 11/09/2010 MIN @ LAL L 9 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -6
+p781
+aVNikola Pekovic MIN 11/09/2010 MIN @ LAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p782
+aVDarko Milicic MIN 11/09/2010 MIN @ LAL L 35 10 5 11 45.5 0 0 - 0 2 0.0 3 4 7 2 2 2 3 2 4
+p783
+aVSebastian Telfair MIN 11/09/2010 MIN @ LAL L 39 13 5 12 41.7 3 7 42.9 0 0 - 1 4 5 9 1 0 4 0 -2
+p784
+aVKevin Love MIN 11/09/2010 MIN @ LAL L 38 23 7 17 41.2 2 3 66.7 7 8 87.5 11 13 24 5 0 1 3 1 -6
+p785
+aVAnthony Tolliver MIN 11/07/2010 MIN @ HOU L 10 4 1 2 50.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 2 -12
+p786
+aVWayne Ellington MIN 11/07/2010 MIN @ HOU L 24 7 3 10 30.0 1 3 33.3 0 0 - 0 3 3 0 1 0 2 3 -20
+p787
+aVLuke Ridnour MIN 11/07/2010 MIN @ HOU L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 1 2 0 -11
+p788
+aVCorey Brewer MIN 11/07/2010 MIN @ HOU L 24 10 3 11 27.3 0 1 0.0 4 8 50.0 2 4 6 3 1 0 0 4 -26
+p789
+aVSebastian Telfair MIN 11/07/2010 MIN @ HOU L 21 7 3 8 37.5 1 2 50.0 0 0 - 0 1 1 1 0 0 2 5 -8
+p790
+aVDarko Milicic MIN 11/07/2010 MIN @ HOU L 20 7 3 4 75.0 0 0 - 1 2 50.0 2 1 3 2 1 3 2 5 -3
+p791
+aVKevin Love MIN 11/07/2010 MIN @ HOU L 30 16 6 14 42.9 0 2 0.0 4 6 66.7 4 12 16 1 0 1 2 3 -21
+p792
+aVMichael Beasley MIN 11/07/2010 MIN @ HOU L 23 15 5 12 41.7 0 1 0.0 5 6 83.3 0 2 2 0 0 0 1 5 -5
+p793
+aVNikola Pekovic MIN 11/07/2010 MIN @ HOU L 22 12 3 9 33.3 0 0 - 6 7 85.7 7 4 11 1 0 0 2 3 -12
+p794
+aVWesley Johnson MIN 11/07/2010 MIN @ HOU L 29 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 1 1 0 2 2 -6
+p795
+aVMaurice Ager MIN 11/07/2010 MIN @ HOU L 6 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p796
+aVKosta Koufos MIN 11/07/2010 MIN @ HOU L 14 3 1 4 25.0 0 0 - 1 2 50.0 3 3 6 0 1 0 1 2 -4
+p797
+aVMichael Beasley MIN 11/05/2010 MIN vs. ATL L 36 16 6 17 35.3 0 3 0.0 4 5 80.0 1 5 6 2 1 2 3 4 -9
+p798
+aVWesley Johnson MIN 11/05/2010 MIN vs. ATL L 35 18 7 11 63.6 4 6 66.7 0 0 - 0 1 1 2 1 1 0 2 -2
+p799
+aVWayne Ellington MIN 11/05/2010 MIN vs. ATL L 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -10
+p800
+aVAnthony Tolliver MIN 11/05/2010 MIN vs. ATL L 22 4 2 6 33.3 0 3 0.0 0 0 - 2 4 6 6 0 0 1 4 3
+p801
+aVDarko Milicic MIN 11/05/2010 MIN vs. ATL L 21 4 2 7 28.6 0 0 - 0 0 - 3 5 8 1 0 3 1 1 -8
+p802
+aVSebastian Telfair MIN 11/05/2010 MIN vs. ATL L 27 8 3 8 37.5 2 3 66.7 0 0 - 1 2 3 7 0 1 1 2 1
+p803
+aVCorey Brewer MIN 11/05/2010 MIN vs. ATL L 25 18 8 16 50.0 0 1 0.0 2 2 100.0 1 1 2 2 5 1 1 1 3
+p804
+aVKevin Love MIN 11/05/2010 MIN vs. ATL L 27 18 6 19 31.6 1 4 25.0 5 5 100.0 6 6 12 2 1 0 1 4 -17
+p805
+aVLuke Ridnour MIN 11/05/2010 MIN vs. ATL L 21 9 4 6 66.7 1 2 50.0 0 0 - 1 1 2 2 0 0 1 1 -11
+p806
+aVNikola Pekovic MIN 11/05/2010 MIN vs. ATL L 13 4 2 6 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 3 0
+p807
+aVNikola Pekovic MIN 11/03/2010 MIN @ ORL L 14 4 1 3 33.3 0 0 - 2 4 50.0 1 0 1 0 0 0 1 6 -26
+p808
+aVCorey Brewer MIN 11/03/2010 MIN @ ORL L 24 12 2 7 28.6 2 2 100.0 6 6 100.0 2 3 5 2 2 0 0 2 -13
+p809
+aVDarko Milicic MIN 11/03/2010 MIN @ ORL L 18 0 0 6 0.0 0 0 - 0 0 - 0 4 4 0 0 3 1 2 -15
+p810
+aVLuke Ridnour MIN 11/03/2010 MIN @ ORL L 22 9 3 4 75.0 0 0 - 3 3 100.0 0 0 0 1 1 0 3 3 -21
+p811
+aVWayne Ellington MIN 11/03/2010 MIN @ ORL L 18 7 3 9 33.3 0 4 0.0 1 1 100.0 1 5 6 0 1 0 3 1 -24
+p812
+aVLazar Hayward MIN 11/03/2010 MIN @ ORL L 24 5 1 8 12.5 1 2 50.0 2 2 100.0 1 4 5 0 0 1 1 2 -31
+p813
+aVMaurice Ager MIN 11/03/2010 MIN @ ORL L 6 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p814
+aVSebastian Telfair MIN 11/03/2010 MIN @ ORL L 20 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 5 1 0 1 1 -16
+p815
+aVWesley Johnson MIN 11/03/2010 MIN @ ORL L 30 8 3 11 27.3 0 2 0.0 2 2 100.0 2 2 4 2 0 0 0 2 -16
+p816
+aVKosta Koufos MIN 11/03/2010 MIN @ ORL L 16 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -7
+p817
+aVAnthony Tolliver MIN 11/03/2010 MIN @ ORL L 17 4 1 2 50.0 1 1 100.0 1 2 50.0 1 3 4 0 0 0 2 3 -10
+p818
+aVKevin Love MIN 11/03/2010 MIN @ ORL L 31 22 8 19 42.1 1 3 33.3 5 6 83.3 4 5 9 0 1 0 5 5 -26
+p819
+aVWayne Ellington MIN 11/02/2010 MIN @ MIA L 32 7 2 8 25.0 1 3 33.3 2 6 33.3 0 3 3 1 0 0 4 2 -32
+p820
+aVLuke Ridnour MIN 11/02/2010 MIN @ MIA L 18 3 1 7 14.3 1 3 33.3 0 0 - 0 1 1 1 2 0 0 3 -26
+p821
+aVSebastian Telfair MIN 11/02/2010 MIN @ MIA L 24 13 5 7 71.4 0 1 0.0 3 4 75.0 0 1 1 1 1 0 1 4 0
+p822
+aVCorey Brewer MIN 11/02/2010 MIN @ MIA L 26 5 1 8 12.5 0 2 0.0 3 4 75.0 0 3 3 2 2 0 1 1 -10
+p823
+aVMichael Beasley MIN 11/02/2010 MIN @ MIA L 11 11 4 9 44.4 1 1 100.0 2 2 100.0 1 1 2 0 0 0 2 1 -6
+p824
+aVWesley Johnson MIN 11/02/2010 MIN @ MIA L 24 13 4 12 33.3 1 3 33.3 4 6 66.7 2 1 3 5 2 0 4 0 -15
+p825
+aVAnthony Tolliver MIN 11/02/2010 MIN @ MIA L 16 4 1 3 33.3 0 0 - 2 2 100.0 0 5 5 1 1 0 1 4 -9
+p826
+aVKosta Koufos MIN 11/02/2010 MIN @ MIA L 11 2 1 1 100.0 0 0 - 0 1 0.0 1 2 3 0 0 1 0 2 -6
+p827
+aVKevin Love MIN 11/02/2010 MIN @ MIA L 26 20 7 11 63.6 1 2 50.0 5 5 100.0 3 3 6 1 0 1 1 1 -16
+p828
+aVDarko Milicic MIN 11/02/2010 MIN @ MIA L 16 0 0 5 0.0 0 0 - 0 0 - 1 3 4 2 1 0 1 2 -20
+p829
+aVLazar Hayward MIN 11/02/2010 MIN @ MIA L 9 7 1 3 33.3 1 3 33.3 4 4 100.0 1 0 1 0 0 0 0 1 -7
+p830
+aVNikola Pekovic MIN 11/02/2010 MIN @ MIA L 27 12 4 10 40.0 0 0 - 4 4 100.0 4 4 8 0 1 0 3 2 -13
+p831
+aVKevin Love MIN 10/30/2010 MIN @ MEM L 25 14 6 14 42.9 0 2 0.0 2 2 100.0 6 7 13 1 0 1 4 0 -22
+p832
+aVCorey Brewer MIN 10/30/2010 MIN @ MEM L 20 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 2 2 0 2 2 4
+p833
+aVWesley Johnson MIN 10/30/2010 MIN @ MEM L 25 6 2 10 20.0 0 2 0.0 2 3 66.7 1 6 7 1 1 0 0 2 -2
+p834
+aVLazar Hayward MIN 10/30/2010 MIN @ MEM L 12 2 0 2 0.0 0 1 0.0 2 4 50.0 2 2 4 2 1 0 0 0 -1
+p835
+aVNikola Pekovic MIN 10/30/2010 MIN @ MEM L 14 7 3 5 60.0 0 0 - 1 2 50.0 3 2 5 1 0 0 3 4 -5
+p836
+aVWayne Ellington MIN 10/30/2010 MIN @ MEM L 29 15 5 13 38.5 3 4 75.0 2 2 100.0 1 1 2 1 2 0 0 3 -24
+p837
+aVDarko Milicic MIN 10/30/2010 MIN @ MEM L 19 6 2 6 33.3 0 0 - 2 3 66.7 0 3 3 0 1 1 5 2 -20
+p838
+aVLuke Ridnour MIN 10/30/2010 MIN @ MEM L 25 7 3 10 30.0 1 3 33.3 0 1 0.0 0 4 4 3 1 0 3 2 -20
+p839
+aVKosta Koufos MIN 10/30/2010 MIN @ MEM L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 4
+p840
+aVSebastian Telfair MIN 10/30/2010 MIN @ MEM L 23 12 3 9 33.3 2 4 50.0 4 4 100.0 1 2 3 2 1 0 4 0 0
+p841
+aVAnthony Tolliver MIN 10/30/2010 MIN @ MEM L 22 6 1 4 25.0 0 2 0.0 4 5 80.0 3 5 8 1 0 0 0 2 8
+p842
+aVMichael Beasley MIN 10/30/2010 MIN @ MEM L 21 6 2 6 33.3 0 0 - 2 6 33.3 1 4 5 1 0 1 6 3 -22
+p843
+aVMichael Beasley MIN 10/29/2010 MIN vs. MIL W 31 21 8 14 57.1 2 3 66.7 3 5 60.0 4 6 10 2 1 0 3 3 11
+p844
+aVLazar Hayward MIN 10/29/2010 MIN vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p845
+aVAnthony Tolliver MIN 10/29/2010 MIN vs. MIL W 23 6 2 4 50.0 1 2 50.0 1 2 50.0 1 7 8 1 1 1 2 3 -1
+p846
+aVCorey Brewer MIN 10/29/2010 MIN vs. MIL W 21 8 3 12 25.0 0 3 0.0 2 4 50.0 2 2 4 0 2 1 0 2 7
+p847
+aVWayne Ellington MIN 10/29/2010 MIN vs. MIL W 21 9 4 9 44.4 1 3 33.3 0 0 - 0 2 2 1 0 0 0 1 6
+p848
+aVSebastian Telfair MIN 10/29/2010 MIN vs. MIL W 15 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 0 1 0 1 0 3
+p849
+aVNikola Pekovic MIN 10/29/2010 MIN vs. MIL W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 4 3
+p850
+aVKevin Love MIN 10/29/2010 MIN vs. MIL W 27 17 3 13 23.1 0 2 0.0 11 12 91.7 5 11 16 1 1 0 1 3 19
+p851
+aVKosta Koufos MIN 10/29/2010 MIN vs. MIL W 9 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 2 1 3 -3
+p852
+aVLuke Ridnour MIN 10/29/2010 MIN vs. MIL W 33 13 4 6 66.7 0 1 0.0 5 6 83.3 1 5 6 7 2 0 2 0 8
+p853
+aVDarko Milicic MIN 10/29/2010 MIN vs. MIL W 25 2 0 6 0.0 0 0 - 2 4 50.0 2 7 9 0 0 5 3 4 -1
+p854
+aVWesley Johnson MIN 10/29/2010 MIN vs. MIL W 27 12 4 10 40.0 2 6 33.3 2 3 66.7 3 0 3 1 0 1 5 4 5
+p855
+aVWayne Ellington MIN 10/27/2010 MIN vs. SAC L 29 8 4 11 36.4 0 4 0.0 0 0 - 0 1 1 2 1 0 0 4 -4
+p856
+aVWesley Johnson MIN 10/27/2010 MIN vs. SAC L 18 13 5 10 50.0 0 2 0.0 3 4 75.0 3 1 4 1 1 0 1 4 14
+p857
+aVMichael Beasley MIN 10/27/2010 MIN vs. SAC L 34 17 6 16 37.5 1 1 100.0 4 6 66.7 2 5 7 1 0 0 1 2 -3
+p858
+aVNikola Pekovic MIN 10/27/2010 MIN vs. SAC L 12 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -2
+p859
+aVKosta Koufos MIN 10/27/2010 MIN vs. SAC L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p860
+aVAnthony Tolliver MIN 10/27/2010 MIN vs. SAC L 28 14 3 8 37.5 2 3 66.7 6 6 100.0 0 7 7 3 1 4 1 4 6
+p861
+aVSebastian Telfair MIN 10/27/2010 MIN vs. SAC L 16 15 5 9 55.6 1 3 33.3 4 6 66.7 0 2 2 6 0 0 2 1 -1
+p862
+aVKevin Love MIN 10/27/2010 MIN vs. SAC L 24 11 4 11 36.4 2 3 66.7 1 2 50.0 3 7 10 2 0 0 3 3 -2
+p863
+aVLuke Ridnour MIN 10/27/2010 MIN vs. SAC L 32 20 8 13 61.5 2 2 100.0 2 2 100.0 1 4 5 5 0 0 3 3 0
+p864
+aVDarko Milicic MIN 10/27/2010 MIN vs. SAC L 24 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 2 1 4 1 4 2
+p865
+aVCorey Brewer MIN 10/27/2010 MIN vs. SAC L 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -9
+p866
+a.

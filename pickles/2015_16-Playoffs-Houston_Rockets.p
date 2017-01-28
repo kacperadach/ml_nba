@@ -1,0 +1,118 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKJ McDaniels HOU 04/27/2016 HOU @ GSW L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -3
+p2
+aVCorey Brewer HOU 04/27/2016 HOU @ GSW L 18 7 2 8 25.0 1 4 25.0 2 2 100.0 0 0 0 0 0 0 3 4 -10
+p3
+aVAndrew Goudelock HOU 04/27/2016 HOU @ GSW L 5 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p4
+aVMontrezl Harrell HOU 04/27/2016 HOU @ GSW L 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 1 -3
+p5
+aVJosh Smith HOU 04/27/2016 HOU @ GSW L 6 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 2 0 1 0 0 -10
+p6
+aVClint Capela HOU 04/27/2016 HOU @ GSW L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 2 0 1 0 -3
+p7
+aVDwight Howard HOU 04/27/2016 HOU @ GSW L 45 8 3 13 23.1 0 1 0.0 2 4 50.0 11 10 21 1 1 1 0 5 -30
+p8
+aVTrevor Ariza HOU 04/27/2016 HOU @ GSW L 29 2 1 8 12.5 0 7 0.0 0 0 - 0 1 1 1 2 0 2 4 -32
+p9
+aVJason Terry HOU 04/27/2016 HOU @ GSW L 22 0 0 7 0.0 0 4 0.0 0 0 - 1 3 4 1 0 0 0 1 -7
+p10
+aVPatrick Beverley HOU 04/27/2016 HOU @ GSW L 26 2 1 5 20.0 0 3 0.0 0 0 - 1 3 4 2 0 0 1 4 -21
+p11
+aVDonatas Motiejunas HOU 04/27/2016 HOU @ GSW L 15 7 3 7 42.9 1 2 50.0 0 2 0.0 2 2 4 0 1 1 0 1 -4
+p12
+aVMichael Beasley HOU 04/27/2016 HOU @ GSW L 23 11 5 13 38.5 1 2 50.0 0 0 - 1 6 7 2 0 0 1 1 -12
+p13
+aVJames Harden HOU 04/27/2016 HOU @ GSW L 37 35 12 23 52.2 3 7 42.9 8 9 88.9 3 3 6 6 2 0 7 0 -27
+p14
+aVClint Capela HOU 04/24/2016 HOU vs. GSW L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 1 0 1 0 1 -8
+p15
+aVMontrezl Harrell HOU 04/24/2016 HOU vs. GSW L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p16
+aVJames Harden HOU 04/24/2016 HOU vs. GSW L 40 18 4 13 30.8 2 8 25.0 8 10 80.0 1 6 7 10 7 0 4 1 -23
+p17
+aVPatrick Beverley HOU 04/24/2016 HOU vs. GSW L 16 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 1 1 0 2 2 -2
+p18
+aVDwight Howard HOU 04/24/2016 HOU vs. GSW L 36 19 7 9 77.8 0 0 - 5 13 38.5 3 12 15 0 0 1 2 2 -24
+p19
+aVKJ McDaniels HOU 04/24/2016 HOU vs. GSW L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -4
+p20
+aVCorey Brewer HOU 04/24/2016 HOU vs. GSW L 18 10 4 10 40.0 0 3 0.0 2 2 100.0 2 0 2 1 0 0 0 2 -8
+p21
+aVTrevor Ariza HOU 04/24/2016 HOU vs. GSW L 36 8 3 11 27.3 0 4 0.0 2 3 66.7 1 1 2 0 2 0 2 4 -27
+p22
+aVDonatas Motiejunas HOU 04/24/2016 HOU vs. GSW L 25 8 3 6 50.0 1 3 33.3 1 4 25.0 0 4 4 2 1 0 4 2 -17
+p23
+aVJason Terry HOU 04/24/2016 HOU vs. GSW L 27 9 4 7 57.1 1 3 33.3 0 0 - 0 4 4 3 0 0 3 5 -17
+p24
+aVMichael Beasley HOU 04/24/2016 HOU vs. GSW L 19 17 6 12 50.0 1 2 50.0 4 4 100.0 0 3 3 0 0 0 1 1 -3
+p25
+aVPatrick Beverley HOU 04/21/2016 HOU vs. GSW W 33 10 4 12 33.3 2 4 50.0 0 0 - 0 6 6 3 0 0 1 3 5
+p26
+aVMichael Beasley HOU 04/21/2016 HOU vs. GSW W 21 12 5 10 50.0 0 2 0.0 2 2 100.0 1 4 5 0 1 0 1 2 -10
+p27
+aVDonatas Motiejunas HOU 04/21/2016 HOU vs. GSW W 31 14 5 11 45.5 2 3 66.7 2 2 100.0 5 8 13 2 2 1 3 4 3
+p28
+aVClint Capela HOU 04/21/2016 HOU vs. GSW W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -1
+p29
+aVTrevor Ariza HOU 04/21/2016 HOU vs. GSW W 42 7 3 12 25.0 1 6 16.7 0 0 - 1 4 5 1 3 1 3 4 7
+p30
+aVCorey Brewer HOU 04/21/2016 HOU vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p31
+aVDwight Howard HOU 04/21/2016 HOU vs. GSW W 33 13 6 9 66.7 0 0 - 1 6 16.7 6 7 13 2 1 2 2 3 6
+p32
+aVJason Terry HOU 04/21/2016 HOU vs. GSW W 22 6 2 10 20.0 2 6 33.3 0 0 - 0 0 0 1 0 0 0 2 -13
+p33
+aVJames Harden HOU 04/21/2016 HOU vs. GSW W 44 35 11 26 42.3 4 14 28.6 9 11 81.8 2 6 8 9 2 0 4 3 5
+p34
+aVJosh Smith HOU 04/21/2016 HOU vs. GSW W 5 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 1 1 4
+p35
+aVMichael Beasley HOU 04/18/2016 HOU @ GSW L 12 10 5 9 55.6 0 0 - 0 1 0.0 1 4 5 0 0 0 3 2 13
+p36
+aVClint Capela HOU 04/18/2016 HOU @ GSW L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p37
+aVJosh Smith HOU 04/18/2016 HOU @ GSW L 18 9 3 5 60.0 3 4 75.0 0 0 - 0 1 1 1 1 0 2 5 -9
+p38
+aVCorey Brewer HOU 04/18/2016 HOU @ GSW L 10 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 4 9
+p39
+aVKJ McDaniels HOU 04/18/2016 HOU @ GSW L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 4
+p40
+aVDonatas Motiejunas HOU 04/18/2016 HOU @ GSW L 15 7 3 10 30.0 0 1 0.0 1 3 33.3 3 0 3 1 0 0 2 2 -3
+p41
+aVDwight Howard HOU 04/18/2016 HOU @ GSW L 35 12 5 7 71.4 0 0 - 2 4 50.0 5 5 10 4 1 2 3 6 -22
+p42
+aVPatrick Beverley HOU 04/18/2016 HOU @ GSW L 33 13 3 8 37.5 1 1 100.0 6 6 100.0 1 6 7 2 0 2 0 4 -9
+p43
+aVJason Terry HOU 04/18/2016 HOU @ GSW L 30 13 4 8 50.0 3 5 60.0 2 2 100.0 0 2 2 0 0 0 0 3 -3
+p44
+aVTrevor Ariza HOU 04/18/2016 HOU @ GSW L 39 7 3 10 30.0 1 5 20.0 0 0 - 1 4 5 1 2 0 3 2 -15
+p45
+aVJames Harden HOU 04/18/2016 HOU @ GSW L 40 28 7 19 36.8 1 8 12.5 13 15 86.7 0 2 2 11 0 1 5 5 -10
+p46
+aVAndrew Goudelock HOU 04/16/2016 HOU @ GSW L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 -1
+p47
+aVMichael Beasley HOU 04/16/2016 HOU @ GSW L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -11
+p48
+aVClint Capela HOU 04/16/2016 HOU @ GSW L 18 3 1 4 25.0 0 0 - 1 3 33.3 4 8 12 0 1 1 1 2 -10
+p49
+aVCorey Brewer HOU 04/16/2016 HOU @ GSW L 28 3 1 8 12.5 0 3 0.0 1 2 50.0 1 4 5 6 0 1 2 3 -6
+p50
+aVJason Terry HOU 04/16/2016 HOU @ GSW L 24 7 3 6 50.0 0 1 0.0 1 1 100.0 0 1 1 1 2 1 0 2 -25
+p51
+aVKJ McDaniels HOU 04/16/2016 HOU @ GSW L 20 4 2 9 22.2 0 1 0.0 0 0 - 0 4 4 0 0 2 0 1 4
+p52
+aVDonatas Motiejunas HOU 04/16/2016 HOU @ GSW L 12 8 2 3 66.7 0 0 - 4 6 66.7 0 2 2 0 0 0 3 2 -4
+p53
+aVJames Harden HOU 04/16/2016 HOU @ GSW L 32 17 7 19 36.8 3 5 60.0 0 0 - 1 2 3 2 1 0 6 4 -27
+p54
+aVJosh Smith HOU 04/16/2016 HOU @ GSW L 8 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 1 0 0 2 1 -1
+p55
+aVPatrick Beverley HOU 04/16/2016 HOU @ GSW L 20 2 1 7 14.3 0 3 0.0 0 0 - 1 2 3 3 1 0 0 4 -10
+p56
+aVTrevor Ariza HOU 04/16/2016 HOU @ GSW L 36 9 3 10 30.0 2 6 33.3 1 1 100.0 4 4 8 1 4 0 2 2 -23
+p57
+aVDwight Howard HOU 04/16/2016 HOU @ GSW L 30 14 5 10 50.0 0 0 - 4 11 36.4 1 10 11 1 1 1 5 5 -16
+p58
+a.

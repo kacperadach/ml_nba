@@ -1,0 +1,1670 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDorell Wright GSW 04/13/2011 GSW vs. POR W 36 20 8 21 38.1 3 9 33.3 1 2 50.0 0 5 5 6 4 1 1 1 20
+p2
+aVStephen Curry GSW 04/13/2011 GSW vs. POR W 24 18 7 11 63.6 2 4 50.0 2 2 100.0 0 3 3 9 0 0 1 4 16
+p3
+aVJeff Adrien GSW 04/13/2011 GSW vs. POR W 10 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 1 0 2 2 9
+p4
+aVEkpe Udoh GSW 04/13/2011 GSW vs. POR W 29 3 1 5 20.0 0 0 - 1 2 50.0 4 4 8 4 4 2 1 4 16
+p5
+aVLou Amundson GSW 04/13/2011 GSW vs. POR W 12 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 3 1 2 4
+p6
+aVAl Thornton GSW 04/13/2011 GSW vs. POR W 12 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 4
+p7
+aVReggie Williams GSW 04/13/2011 GSW vs. POR W 48 28 12 18 66.7 4 8 50.0 0 0 - 0 7 7 5 1 0 1 2 24
+p8
+aVVladimir Radmanovic GSW 04/13/2011 GSW vs. POR W 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 1
+p9
+aVDavid Lee GSW 04/13/2011 GSW vs. POR W 40 13 6 13 46.2 0 0 - 1 3 33.3 1 5 6 2 3 1 2 2 18
+p10
+aVJeremy Lin GSW 04/13/2011 GSW vs. POR W 24 12 5 8 62.5 1 2 50.0 1 2 50.0 2 3 5 5 2 0 0 2 8
+p11
+aVLou Amundson GSW 04/11/2011 GSW @ DEN L 18 7 3 5 60.0 0 0 - 1 2 50.0 2 4 6 1 1 0 0 3 -18
+p12
+aVEkpe Udoh GSW 04/11/2011 GSW @ DEN L 32 8 3 5 60.0 0 0 - 2 4 50.0 3 1 4 1 0 6 1 3 -12
+p13
+aVAl Thornton GSW 04/11/2011 GSW @ DEN L 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 1
+p14
+aVVladimir Radmanovic GSW 04/11/2011 GSW @ DEN L 17 9 3 6 50.0 3 4 75.0 0 0 - 0 2 2 0 1 0 0 2 -12
+p15
+aVJeff Adrien GSW 04/11/2011 GSW @ DEN L 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p16
+aVStephen Curry GSW 04/11/2011 GSW @ DEN L 36 27 10 13 76.9 3 4 75.0 4 4 100.0 1 4 5 5 0 0 5 1 -8
+p17
+aVDavid Lee GSW 04/11/2011 GSW @ DEN L 27 10 5 10 50.0 0 1 0.0 0 0 - 1 4 5 5 0 0 2 4 -11
+p18
+aVReggie Williams GSW 04/11/2011 GSW @ DEN L 35 17 7 16 43.8 3 4 75.0 0 0 - 0 3 3 3 0 0 1 3 -19
+p19
+aVJeremy Lin GSW 04/11/2011 GSW @ DEN L 21 4 0 5 0.0 0 1 0.0 4 4 100.0 1 3 4 4 1 0 1 3 -14
+p20
+aVDorell Wright GSW 04/11/2011 GSW @ DEN L 38 27 8 23 34.8 4 11 36.4 7 7 100.0 1 4 5 1 2 0 1 1 -22
+p21
+aVMonta Ellis GSW 04/10/2011 GSW vs. SAC L 26 7 2 9 22.2 0 1 0.0 3 4 75.0 0 2 2 4 2 0 2 0 5
+p22
+aVDavid Lee GSW 04/10/2011 GSW vs. SAC L 45 24 11 22 50.0 0 0 - 2 2 100.0 4 10 14 4 0 1 1 4 0
+p23
+aVVladimir Radmanovic GSW 04/10/2011 GSW vs. SAC L 5 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 5
+p24
+aVJeremy Lin GSW 04/10/2011 GSW vs. SAC L 14 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 4 2 0 1 1 -5
+p25
+aVEkpe Udoh GSW 04/10/2011 GSW vs. SAC L 26 10 4 9 44.4 0 0 - 2 4 50.0 4 0 4 0 1 4 1 3 -2
+p26
+aVStephen Curry GSW 04/10/2011 GSW vs. SAC L 32 27 11 17 64.7 3 6 50.0 2 2 100.0 3 3 6 8 1 0 3 4 1
+p27
+aVLou Amundson GSW 04/10/2011 GSW vs. SAC L 14 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 0 0 1 2 3 -7
+p28
+aVDorell Wright GSW 04/10/2011 GSW vs. SAC L 48 19 8 22 36.4 2 10 20.0 1 2 50.0 2 1 3 4 6 1 0 2 -1
+p29
+aVAl Thornton GSW 04/10/2011 GSW vs. SAC L 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 4
+p30
+aVReggie Williams GSW 04/10/2011 GSW vs. SAC L 19 4 2 9 22.2 0 2 0.0 0 0 - 3 1 4 2 0 0 0 3 -5
+p31
+aVLou Amundson GSW 04/06/2011 GSW vs. LAL W 25 11 4 6 66.7 0 0 - 3 5 60.0 2 3 5 1 0 0 0 4 1
+p32
+aVStephen Curry GSW 04/06/2011 GSW vs. LAL W 42 20 8 23 34.8 2 6 33.3 2 2 100.0 2 4 6 5 2 0 2 3 2
+p33
+aVEkpe Udoh GSW 04/06/2011 GSW vs. LAL W 19 0 0 3 0.0 0 0 - 0 0 - 5 3 8 2 0 1 0 2 1
+p34
+aVAl Thornton GSW 04/06/2011 GSW vs. LAL W 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 0 0 1 1 5
+p35
+aVReggie Williams GSW 04/06/2011 GSW vs. LAL W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 0
+p36
+aVDorell Wright GSW 04/06/2011 GSW vs. LAL W 44 10 3 13 23.1 2 8 25.0 2 2 100.0 0 7 7 2 2 0 0 1 9
+p37
+aVVladimir Radmanovic GSW 04/06/2011 GSW vs. LAL W 7 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 1 0 1 0 6
+p38
+aVDavid Lee GSW 04/06/2011 GSW vs. LAL W 45 22 9 17 52.9 0 0 - 4 4 100.0 8 9 17 5 4 1 4 2 8
+p39
+aVMonta Ellis GSW 04/06/2011 GSW vs. LAL W 42 26 9 22 40.9 3 9 33.3 5 6 83.3 0 3 3 6 1 0 3 4 8
+p40
+aVEkpe Udoh GSW 04/05/2011 GSW @ POR W 19 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 2 4 6
+p41
+aVDavid Lee GSW 04/05/2011 GSW @ POR W 41 29 13 17 76.5 0 0 - 3 3 100.0 4 16 20 2 2 1 4 3 24
+p42
+aVDorell Wright GSW 04/05/2011 GSW @ POR W 33 4 2 11 18.2 0 4 0.0 0 0 - 3 2 5 2 2 0 0 3 21
+p43
+aVLou Amundson GSW 04/05/2011 GSW @ POR W 27 9 1 3 33.3 0 0 - 7 9 77.8 0 4 4 0 0 1 0 1 12
+p44
+aVAl Thornton GSW 04/05/2011 GSW @ POR W 15 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 2
+p45
+aVStephen Curry GSW 04/05/2011 GSW @ POR W 42 28 10 21 47.6 3 5 60.0 5 6 83.3 1 7 8 4 2 1 2 2 20
+p46
+aVVladimir Radmanovic GSW 04/05/2011 GSW @ POR W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 0
+p47
+aVJeff Adrien GSW 04/05/2011 GSW @ POR W 2 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -2
+p48
+aVReggie Williams GSW 04/05/2011 GSW @ POR W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 1
+p49
+aVJeremy Lin GSW 04/05/2011 GSW @ POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -2
+p50
+aVMonta Ellis GSW 04/05/2011 GSW @ POR W 44 30 11 19 57.9 4 6 66.7 4 4 100.0 1 2 3 5 1 1 2 2 23
+p51
+aVDavid Lee GSW 04/02/2011 GSW vs. DAL W 44 16 6 10 60.0 0 0 - 4 4 100.0 1 7 8 3 1 0 2 4 4
+p52
+aVAl Thornton GSW 04/02/2011 GSW vs. DAL W 23 12 5 10 50.0 0 0 - 2 3 66.7 1 8 9 2 0 2 1 4 0
+p53
+aVMonta Ellis GSW 04/02/2011 GSW vs. DAL W 44 32 11 20 55.0 4 8 50.0 6 6 100.0 0 3 3 5 1 1 3 1 2
+p54
+aVEkpe Udoh GSW 04/02/2011 GSW vs. DAL W 16 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 2 5 5
+p55
+aVDorell Wright GSW 04/02/2011 GSW vs. DAL W 39 13 5 18 27.8 2 9 22.2 1 2 50.0 0 6 6 0 0 0 2 1 3
+p56
+aVStephen Curry GSW 04/02/2011 GSW vs. DAL W 32 12 3 8 37.5 1 3 33.3 5 5 100.0 0 4 4 8 2 0 3 5 9
+p57
+aVReggie Williams GSW 04/02/2011 GSW vs. DAL W 8 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 0 -1
+p58
+aVLou Amundson GSW 04/02/2011 GSW vs. DAL W 28 8 3 5 60.0 0 0 - 2 2 100.0 3 7 10 1 0 2 0 1 7
+p59
+aVJeremy Lin GSW 04/02/2011 GSW vs. DAL W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 6
+p60
+aVJeff Adrien GSW 03/30/2011 GSW @ MEM L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p61
+aVReggie Williams GSW 03/30/2011 GSW @ MEM L 18 6 2 5 40.0 0 2 0.0 2 3 66.7 1 3 4 1 1 0 0 0 0
+p62
+aVDavid Lee GSW 03/30/2011 GSW @ MEM L 33 12 6 10 60.0 0 0 - 0 0 - 2 7 9 0 0 2 3 2 -19
+p63
+aVDorell Wright GSW 03/30/2011 GSW @ MEM L 31 16 7 15 46.7 1 6 16.7 1 1 100.0 2 2 4 2 0 3 0 1 -19
+p64
+aVVladimir Radmanovic GSW 03/30/2011 GSW @ MEM L 14 11 4 6 66.7 3 4 75.0 0 0 - 2 1 3 0 0 0 1 1 0
+p65
+aVMonta Ellis GSW 03/30/2011 GSW @ MEM L 30 16 7 14 50.0 1 3 33.3 1 2 50.0 0 4 4 3 0 1 1 0 -19
+p66
+aVStephen Curry GSW 03/30/2011 GSW @ MEM L 31 6 2 14 14.3 1 6 16.7 1 1 100.0 4 2 6 9 1 0 6 4 -21
+p67
+aVJeremy Lin GSW 03/30/2011 GSW @ MEM L 17 8 4 5 80.0 0 0 - 0 0 - 0 0 0 2 1 0 1 4 2
+p68
+aVAl Thornton GSW 03/30/2011 GSW @ MEM L 17 6 3 3 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 0
+p69
+aVEkpe Udoh GSW 03/30/2011 GSW @ MEM L 26 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 1 0 0 1 3 -8
+p70
+aVLou Amundson GSW 03/30/2011 GSW @ MEM L 21 7 3 6 50.0 0 0 - 1 2 50.0 0 4 4 0 0 3 1 2 -8
+p71
+aVStephen Curry GSW 03/29/2011 GSW @ OKC L 49 35 13 23 56.5 5 8 62.5 4 4 100.0 1 5 6 5 2 0 6 3 6
+p72
+aVMonta Ellis GSW 03/29/2011 GSW @ OKC L 47 20 9 30 30.0 2 6 33.3 0 0 - 0 2 2 11 3 0 1 2 3
+p73
+aVLou Amundson GSW 03/29/2011 GSW @ OKC L 11 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 1 -13
+p74
+aVDavid Lee GSW 03/29/2011 GSW @ OKC L 48 24 11 17 64.7 0 0 - 2 3 66.7 6 9 15 4 1 0 4 5 8
+p75
+aVAl Thornton GSW 03/29/2011 GSW @ OKC L 11 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -14
+p76
+aVDorell Wright GSW 03/29/2011 GSW @ OKC L 48 7 2 13 15.4 2 8 25.0 1 2 50.0 0 10 10 4 0 2 1 2 10
+p77
+aVEkpe Udoh GSW 03/29/2011 GSW @ OKC L 39 12 4 11 36.4 0 0 - 4 4 100.0 0 6 6 0 2 3 0 5 9
+p78
+aVReggie Williams GSW 03/29/2011 GSW @ OKC L 13 10 3 4 75.0 2 3 66.7 2 2 100.0 0 1 1 0 1 0 0 3 -14
+p79
+aVEkpe Udoh GSW 03/27/2011 GSW vs. WAS W 29 4 2 7 28.6 0 0 - 0 0 - 4 3 7 1 1 3 2 4 13
+p80
+aVLou Amundson GSW 03/27/2011 GSW vs. WAS W 9 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -2
+p81
+aVStephen Curry GSW 03/27/2011 GSW vs. WAS W 28 10 3 11 27.3 1 4 25.0 3 3 100.0 1 4 5 4 1 1 5 5 11
+p82
+aVReggie Williams GSW 03/27/2011 GSW vs. WAS W 20 7 3 6 50.0 1 3 33.3 0 0 - 0 3 3 1 0 0 1 0 -1
+p83
+aVDavid Lee GSW 03/27/2011 GSW vs. WAS W 44 33 15 26 57.7 0 0 - 3 5 60.0 4 8 12 5 3 2 0 0 12
+p84
+aVDorell Wright GSW 03/27/2011 GSW vs. WAS W 43 19 6 14 42.9 5 11 45.5 2 2 100.0 0 3 3 2 0 1 0 2 13
+p85
+aVAl Thornton GSW 03/27/2011 GSW vs. WAS W 19 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 0 0 3 -6
+p86
+aVMonta Ellis GSW 03/27/2011 GSW vs. WAS W 48 37 14 24 58.3 4 6 66.7 5 7 71.4 3 4 7 13 0 0 2 4 10
+p87
+aVJeff Adrien GSW 03/25/2011 GSW vs. TOR W 8 2 1 4 25.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 0 -7
+p88
+aVDorell Wright GSW 03/25/2011 GSW vs. TOR W 30 26 9 11 81.8 1 3 33.3 7 8 87.5 0 4 4 3 4 0 1 0 34
+p89
+aVEkpe Udoh GSW 03/25/2011 GSW vs. TOR W 29 10 5 7 71.4 0 0 - 0 0 - 2 3 5 3 1 4 0 5 28
+p90
+aVStephen Curry GSW 03/25/2011 GSW vs. TOR W 36 23 7 13 53.8 4 6 66.7 5 5 100.0 0 3 3 8 0 0 3 2 43
+p91
+aVMonta Ellis GSW 03/25/2011 GSW vs. TOR W 42 27 9 17 52.9 3 5 60.0 6 6 100.0 0 4 4 10 4 0 1 2 42
+p92
+aVDavid Lee GSW 03/25/2011 GSW vs. TOR W 24 21 8 9 88.9 1 1 100.0 4 4 100.0 0 7 7 4 1 1 1 2 34
+p93
+aVReggie Williams GSW 03/25/2011 GSW vs. TOR W 23 10 4 6 66.7 1 2 50.0 1 1 100.0 1 4 5 4 0 0 0 0 4
+p94
+aVVladimir Radmanovic GSW 03/25/2011 GSW vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -6
+p95
+aVAl Thornton GSW 03/25/2011 GSW vs. TOR W 20 12 5 11 45.5 0 0 - 2 4 50.0 1 5 6 0 1 0 3 6 14
+p96
+aVLou Amundson GSW 03/25/2011 GSW vs. TOR W 24 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 0 1 0 0 2 4
+p97
+aVLou Amundson GSW 03/23/2011 GSW @ HOU L 16 9 4 5 80.0 0 0 - 1 5 20.0 3 4 7 0 0 1 1 0 -3
+p98
+aVAcie Law GSW 03/23/2011 GSW @ HOU L 13 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 2 0 0 0 2 -5
+p99
+aVReggie Williams GSW 03/23/2011 GSW @ HOU L 17 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 2 1 0 0 3 -5
+p100
+aVStephen Curry GSW 03/23/2011 GSW @ HOU L 30 16 7 16 43.8 2 3 66.7 0 0 - 3 3 6 6 1 0 4 4 -14
+p101
+aVVladimir Radmanovic GSW 03/23/2011 GSW @ HOU L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 4 -8
+p102
+aVAl Thornton GSW 03/23/2011 GSW @ HOU L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p103
+aVDavid Lee GSW 03/23/2011 GSW @ HOU L 35 19 9 19 47.4 0 0 - 1 1 100.0 2 7 9 4 0 0 2 4 -13
+p104
+aVMonta Ellis GSW 03/23/2011 GSW @ HOU L 35 15 5 13 38.5 1 3 33.3 4 4 100.0 0 5 5 5 1 0 3 3 -14
+p105
+aVEkpe Udoh GSW 03/23/2011 GSW @ HOU L 34 9 4 7 57.1 0 0 - 1 2 50.0 2 3 5 0 0 2 1 4 -10
+p106
+aVJeff Adrien GSW 03/23/2011 GSW @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p107
+aVDorell Wright GSW 03/23/2011 GSW @ HOU L 43 34 14 21 66.7 3 6 50.0 3 4 75.0 1 4 5 6 3 1 1 2 -13
+p108
+aVDavid Lee GSW 03/21/2011 GSW @ SAS L 31 13 4 8 50.0 0 0 - 5 6 83.3 5 4 9 3 2 1 2 4 -26
+p109
+aVAcie Law GSW 03/21/2011 GSW @ SAS L 22 14 6 11 54.5 0 0 - 2 2 100.0 1 3 4 3 2 0 5 2 -5
+p110
+aVEkpe Udoh GSW 03/21/2011 GSW @ SAS L 38 15 7 14 50.0 0 0 - 1 2 50.0 4 3 7 1 1 2 2 2 -18
+p111
+aVStephen Curry GSW 03/21/2011 GSW @ SAS L 20 8 3 8 37.5 1 2 50.0 1 1 100.0 0 0 0 2 0 0 1 4 -12
+p112
+aVMonta Ellis GSW 03/21/2011 GSW @ SAS L 31 10 4 13 30.8 2 5 40.0 0 0 - 0 3 3 4 1 0 3 1 -22
+p113
+aVVladimir Radmanovic GSW 03/21/2011 GSW @ SAS L 27 5 2 5 40.0 1 4 25.0 0 0 - 1 4 5 0 1 0 1 2 12
+p114
+aVReggie Williams GSW 03/21/2011 GSW @ SAS L 23 7 3 5 60.0 1 3 33.3 0 0 - 0 8 8 0 0 0 1 2 9
+p115
+aVAl Thornton GSW 03/21/2011 GSW @ SAS L 18 10 4 6 66.7 0 0 - 2 2 100.0 0 3 3 0 0 0 2 1 6
+p116
+aVDorell Wright GSW 03/21/2011 GSW @ SAS L 30 14 5 14 35.7 1 5 20.0 3 5 60.0 1 5 6 3 0 0 0 1 -19
+p117
+aVVladimir Radmanovic GSW 03/20/2011 GSW @ DAL L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 1 0 1 -3
+p118
+aVEkpe Udoh GSW 03/20/2011 GSW @ DAL L 29 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 0 3 1 4 -1
+p119
+aVAl Thornton GSW 03/20/2011 GSW @ DAL L 24 8 2 7 28.6 0 0 - 4 4 100.0 0 4 4 0 1 0 2 3 -27
+p120
+aVReggie Williams GSW 03/20/2011 GSW @ DAL L 15 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 0 1 0 2 0 -11
+p121
+aVDorell Wright GSW 03/20/2011 GSW @ DAL L 36 6 2 8 25.0 2 6 33.3 0 0 - 0 5 5 2 2 0 4 1 -18
+p122
+aVLou Amundson GSW 03/20/2011 GSW @ DAL L 14 2 1 3 33.3 0 0 - 0 4 0.0 0 4 4 0 1 0 0 1 -15
+p123
+aVJeff Adrien GSW 03/20/2011 GSW @ DAL L 3 3 0 0 - 0 0 - 3 4 75.0 1 0 1 0 0 0 1 0 -3
+p124
+aVAcie Law GSW 03/20/2011 GSW @ DAL L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p125
+aVDavid Lee GSW 03/20/2011 GSW @ DAL L 31 10 4 10 40.0 0 0 - 2 2 100.0 4 8 12 2 1 0 1 4 -18
+p126
+aVMonta Ellis GSW 03/20/2011 GSW @ DAL L 40 18 7 18 38.9 1 6 16.7 3 3 100.0 0 2 2 4 1 0 3 1 -26
+p127
+aVStephen Curry GSW 03/20/2011 GSW @ DAL L 31 11 4 12 33.3 1 3 33.3 2 3 66.7 1 5 6 6 0 0 2 4 -8
+p128
+aVReggie Williams GSW 03/18/2011 GSW @ PHX L 14 4 2 6 33.3 0 1 0.0 0 2 0.0 2 5 7 2 1 0 0 0 8
+p129
+aVVladimir Radmanovic GSW 03/18/2011 GSW @ PHX L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 0
+p130
+aVLou Amundson GSW 03/18/2011 GSW @ PHX L 26 3 1 4 25.0 0 0 - 1 4 25.0 1 2 3 2 1 0 0 3 -5
+p131
+aVDavid Lee GSW 03/18/2011 GSW @ PHX L 32 16 7 15 46.7 0 0 - 2 2 100.0 6 4 10 0 0 0 3 3 -14
+p132
+aVAl Thornton GSW 03/18/2011 GSW @ PHX L 20 9 3 4 75.0 0 0 - 3 3 100.0 1 8 9 0 0 0 5 3 3
+p133
+aVDorell Wright GSW 03/18/2011 GSW @ PHX L 42 30 9 21 42.9 4 10 40.0 8 9 88.9 2 4 6 2 1 2 1 1 -11
+p134
+aVStephen Curry GSW 03/18/2011 GSW @ PHX L 35 15 6 13 46.2 2 5 40.0 1 1 100.0 1 1 2 5 0 0 2 3 -18
+p135
+aVEkpe Udoh GSW 03/18/2011 GSW @ PHX L 18 3 1 5 20.0 0 0 - 1 1 100.0 2 3 5 1 0 2 4 3 -6
+p136
+aVMonta Ellis GSW 03/18/2011 GSW @ PHX L 34 8 3 11 27.3 0 3 0.0 2 2 100.0 0 7 7 2 2 0 3 2 -19
+p137
+aVAcie Law GSW 03/18/2011 GSW @ PHX L 13 7 2 2 100.0 0 0 - 3 3 100.0 0 0 0 2 1 0 2 3 7
+p138
+aVDavid Lee GSW 03/16/2011 GSW vs. DAL L 39 22 10 14 71.4 0 0 - 2 2 100.0 1 8 9 1 3 0 2 2 1
+p139
+aVVladimir Radmanovic GSW 03/16/2011 GSW vs. DAL L 12 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 0 1 0 0 1 1
+p140
+aVMonta Ellis GSW 03/16/2011 GSW vs. DAL L 44 26 10 20 50.0 2 8 25.0 4 4 100.0 1 5 6 11 2 1 5 2 -4
+p141
+aVAndris Biedrins GSW 03/16/2011 GSW vs. DAL L 22 7 3 5 60.0 0 0 - 1 2 50.0 3 5 8 0 1 0 2 1 0
+p142
+aVDorell Wright GSW 03/16/2011 GSW vs. DAL L 40 14 5 13 38.5 4 8 50.0 0 0 - 0 1 1 1 2 0 0 3 2
+p143
+aVAl Thornton GSW 03/16/2011 GSW vs. DAL L 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p144
+aVEkpe Udoh GSW 03/16/2011 GSW vs. DAL L 19 5 2 6 33.3 0 0 - 1 4 25.0 1 0 1 0 0 2 0 3 -5
+p145
+aVStephen Curry GSW 03/16/2011 GSW vs. DAL L 32 10 4 10 40.0 2 4 50.0 0 1 0.0 0 0 0 5 1 0 3 2 -10
+p146
+aVAcie Law GSW 03/16/2011 GSW vs. DAL L 23 15 5 7 71.4 0 1 0.0 5 6 83.3 0 2 2 6 2 0 1 4 -6
+p147
+aVStephen Curry GSW 03/14/2011 GSW @ SAC L 24 19 7 14 50.0 5 8 62.5 0 0 - 0 3 3 1 1 1 3 1 -12
+p148
+aVEkpe Udoh GSW 03/14/2011 GSW @ SAC L 13 10 3 4 75.0 0 0 - 4 4 100.0 0 1 1 0 0 1 1 4 8
+p149
+aVLou Amundson GSW 03/14/2011 GSW @ SAC L 11 0 0 1 0.0 0 0 - 0 4 0.0 0 1 1 0 0 1 1 2 -5
+p150
+aVDavid Lee GSW 03/14/2011 GSW @ SAC L 25 8 4 8 50.0 0 0 - 0 0 - 1 3 4 3 0 0 0 3 -25
+p151
+aVDorell Wright GSW 03/14/2011 GSW @ SAC L 29 18 5 8 62.5 2 4 50.0 6 7 85.7 0 2 2 2 3 0 2 1 -24
+p152
+aVVladimir Radmanovic GSW 03/14/2011 GSW @ SAC L 29 16 6 10 60.0 4 6 66.7 0 0 - 2 2 4 1 0 1 2 4 0
+p153
+aVReggie Williams GSW 03/14/2011 GSW @ SAC L 20 10 5 10 50.0 0 4 0.0 0 1 0.0 0 2 2 3 0 0 0 1 11
+p154
+aVMonta Ellis GSW 03/14/2011 GSW @ SAC L 28 15 6 16 37.5 0 3 0.0 3 5 60.0 0 1 1 9 0 0 2 2 -21
+p155
+aVAl Thornton GSW 03/14/2011 GSW @ SAC L 22 23 7 8 87.5 0 0 - 9 12 75.0 1 2 3 1 1 1 1 1 25
+p156
+aVAndris Biedrins GSW 03/14/2011 GSW @ SAC L 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 2 0 0 4 -9
+p157
+aVAcie Law GSW 03/14/2011 GSW @ SAC L 24 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 4 2 0 1 2 2
+p158
+aVLou Amundson GSW 03/13/2011 GSW vs. MIN W 19 11 5 11 45.5 0 0 - 1 4 25.0 2 5 7 0 0 1 0 3 5
+p159
+aVMonta Ellis GSW 03/13/2011 GSW vs. MIN W 28 16 7 15 46.7 0 5 0.0 2 2 100.0 1 1 2 5 1 1 4 4 16
+p160
+aVDavid Lee GSW 03/13/2011 GSW vs. MIN W 36 8 3 7 42.9 0 0 - 2 4 50.0 1 5 6 2 2 0 4 4 18
+p161
+aVAndris Biedrins GSW 03/13/2011 GSW vs. MIN W 12 0 0 2 0.0 0 0 - 0 0 - 2 4 6 0 4 1 0 2 5
+p162
+aVJeff Adrien GSW 03/13/2011 GSW vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p163
+aVReggie Williams GSW 03/13/2011 GSW vs. MIN W 9 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 1 1 0 0 0 1
+p164
+aVEkpe Udoh GSW 03/13/2011 GSW vs. MIN W 18 2 0 4 0.0 0 0 - 2 2 100.0 2 2 4 0 0 5 2 2 13
+p165
+aVStephen Curry GSW 03/13/2011 GSW vs. MIN W 38 24 8 15 53.3 4 6 66.7 4 4 100.0 1 8 9 6 2 0 1 2 18
+p166
+aVAcie Law GSW 03/13/2011 GSW vs. MIN W 19 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 5 1 0 0 2 11
+p167
+aVDorell Wright GSW 03/13/2011 GSW vs. MIN W 29 16 7 15 46.7 2 7 28.6 0 0 - 1 3 4 2 2 1 1 1 11
+p168
+aVVladimir Radmanovic GSW 03/13/2011 GSW vs. MIN W 11 5 1 2 50.0 1 1 100.0 2 2 100.0 2 1 3 1 0 1 1 1 5
+p169
+aVAl Thornton GSW 03/13/2011 GSW vs. MIN W 19 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 1 3 0 1 4 12
+p170
+aVDorell Wright GSW 03/11/2011 GSW vs. ORL W 38 32 12 17 70.6 8 11 72.7 0 0 - 0 6 6 0 0 0 1 4 18
+p171
+aVVladimir Radmanovic GSW 03/11/2011 GSW vs. ORL W 24 8 3 5 60.0 2 4 50.0 0 0 - 0 0 0 1 2 0 0 1 8
+p172
+aVDavid Lee GSW 03/11/2011 GSW vs. ORL W 46 16 6 14 42.9 0 0 - 4 6 66.7 1 5 6 9 2 1 1 4 5
+p173
+aVAcie Law GSW 03/11/2011 GSW vs. ORL W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 2
+p174
+aVStephen Curry GSW 03/11/2011 GSW vs. ORL W 40 22 8 19 42.1 4 10 40.0 2 2 100.0 0 4 4 12 3 0 5 4 1
+p175
+aVEkpe Udoh GSW 03/11/2011 GSW vs. ORL W 8 4 2 4 50.0 0 0 - 0 0 - 3 0 3 0 0 0 1 2 -2
+p176
+aVAndris Biedrins GSW 03/11/2011 GSW vs. ORL W 24 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 1 0 3 5
+p177
+aVMonta Ellis GSW 03/11/2011 GSW vs. ORL W 53 39 14 24 58.3 7 9 77.8 4 5 80.0 0 6 6 11 4 1 3 2 3
+p178
+aVAl Thornton GSW 03/11/2011 GSW vs. ORL W 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -10
+p179
+aVReggie Williams GSW 03/11/2011 GSW vs. ORL W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p180
+aVLou Amundson GSW 03/11/2011 GSW vs. ORL W 4 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -10
+p181
+aVStephen Curry GSW 03/09/2011 GSW @ NJN L 30 15 6 15 40.0 2 4 50.0 1 1 100.0 0 3 3 3 2 0 3 3 -13
+p182
+aVReggie Williams GSW 03/09/2011 GSW @ NJN L 15 10 3 7 42.9 3 3 100.0 1 2 50.0 0 0 0 0 0 0 0 0 1
+p183
+aVAcie Law GSW 03/09/2011 GSW @ NJN L 18 8 4 5 80.0 0 0 - 0 0 - 0 4 4 2 1 0 0 1 9
+p184
+aVEkpe Udoh GSW 03/09/2011 GSW @ NJN L 15 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 0 1 0 1 4
+p185
+aVMonta Ellis GSW 03/09/2011 GSW @ NJN L 36 16 7 22 31.8 0 3 0.0 2 2 100.0 0 3 3 4 2 0 2 3 -9
+p186
+aVDavid Lee GSW 03/09/2011 GSW @ NJN L 37 17 7 12 58.3 0 0 - 3 4 75.0 2 8 10 2 2 0 1 4 -2
+p187
+aVVladimir Radmanovic GSW 03/09/2011 GSW @ NJN L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 3
+p188
+aVAl Thornton GSW 03/09/2011 GSW @ NJN L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p189
+aVAndris Biedrins GSW 03/09/2011 GSW @ NJN L 24 4 2 2 100.0 0 0 - 0 0 - 3 2 5 2 2 0 1 3 -2
+p190
+aVLou Amundson GSW 03/09/2011 GSW @ NJN L 11 2 0 2 0.0 0 0 - 2 4 50.0 1 2 3 0 0 2 0 1 -2
+p191
+aVDorell Wright GSW 03/09/2011 GSW @ NJN L 36 10 4 10 40.0 1 2 50.0 1 2 50.0 0 7 7 2 2 0 2 2 -3
+p192
+aVLou Amundson GSW 03/08/2011 GSW @ CLE W 6 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -1
+p193
+aVAcie Law GSW 03/08/2011 GSW @ CLE W 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -5
+p194
+aVDorell Wright GSW 03/08/2011 GSW @ CLE W 33 7 3 9 33.3 0 2 0.0 1 2 50.0 0 1 1 4 2 1 1 1 2
+p195
+aVAndris Biedrins GSW 03/08/2011 GSW @ CLE W 20 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 1 0 3 1
+p196
+aVReggie Williams GSW 03/08/2011 GSW @ CLE W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p197
+aVMonta Ellis GSW 03/08/2011 GSW @ CLE W 43 24 9 21 42.9 6 9 66.7 0 0 - 0 7 7 7 3 2 4 2 5
+p198
+aVStephen Curry GSW 03/08/2011 GSW @ CLE W 39 23 10 18 55.6 2 5 40.0 1 1 100.0 4 3 7 6 2 1 3 3 20
+p199
+aVDavid Lee GSW 03/08/2011 GSW @ CLE W 26 14 6 16 37.5 0 0 - 2 2 100.0 7 7 14 2 0 1 2 4 5
+p200
+aVEkpe Udoh GSW 03/08/2011 GSW @ CLE W 20 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 2 1 1 3
+p201
+aVAl Thornton GSW 03/08/2011 GSW @ CLE W 19 9 3 3 100.0 0 0 - 3 3 100.0 0 3 3 1 0 0 2 1 11
+p202
+aVVladimir Radmanovic GSW 03/08/2011 GSW @ CLE W 17 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 0 1 3 1 0 14
+p203
+aVDorell Wright GSW 03/06/2011 GSW @ PHI L 41 16 5 11 45.5 0 5 0.0 6 6 100.0 2 1 3 4 4 1 4 3 -10
+p204
+aVVladimir Radmanovic GSW 03/06/2011 GSW @ PHI L 28 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 1 2 6 -3
+p205
+aVReggie Williams GSW 03/06/2011 GSW @ PHI L 20 7 3 8 37.5 1 2 50.0 0 0 - 1 1 2 1 2 0 0 1 9
+p206
+aVLou Amundson GSW 03/06/2011 GSW @ PHI L 11 10 4 6 66.7 0 0 - 2 2 100.0 4 0 4 0 0 0 0 0 4
+p207
+aVMonta Ellis GSW 03/06/2011 GSW @ PHI L 45 27 11 27 40.7 2 7 28.6 3 4 75.0 0 1 1 2 3 0 6 3 -11
+p208
+aVAcie Law GSW 03/06/2011 GSW @ PHI L 18 7 3 8 37.5 0 1 0.0 1 1 100.0 1 2 3 3 0 0 0 1 -16
+p209
+aVStephen Curry GSW 03/06/2011 GSW @ PHI L 35 22 8 16 50.0 1 3 33.3 5 5 100.0 0 1 1 7 0 2 4 3 6
+p210
+aVAndris Biedrins GSW 03/06/2011 GSW @ PHI L 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -16
+p211
+aVEkpe Udoh GSW 03/06/2011 GSW @ PHI L 12 4 2 3 66.7 0 0 - 0 0 - 0 5 5 1 0 2 0 4 6
+p212
+aVDavid Lee GSW 03/06/2011 GSW @ PHI L 38 14 7 11 63.6 0 0 - 0 0 - 3 11 14 1 0 0 3 3 -12
+p213
+aVAl Thornton GSW 03/06/2011 GSW @ PHI L 7 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 3
+p214
+aVLou Amundson GSW 03/04/2011 GSW @ BOS L 17 2 1 3 33.3 0 0 - 0 0 - 3 3 6 0 1 1 0 2 1
+p215
+aVAl Thornton GSW 03/04/2011 GSW @ BOS L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p216
+aVEkpe Udoh GSW 03/04/2011 GSW @ BOS L 13 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 1 0 0 2 -1
+p217
+aVReggie Williams GSW 03/04/2011 GSW @ BOS L 8 2 1 2 50.0 0 1 0.0 0 1 0.0 0 0 0 0 1 0 1 1 -2
+p218
+aVDavid Lee GSW 03/04/2011 GSW @ BOS L 40 26 10 19 52.6 0 0 - 6 6 100.0 3 9 12 2 2 0 4 4 1
+p219
+aVVladimir Radmanovic GSW 03/04/2011 GSW @ BOS L 21 4 2 7 28.6 0 2 0.0 0 0 - 3 2 5 2 0 1 1 1 4
+p220
+aVAndris Biedrins GSW 03/04/2011 GSW @ BOS L 18 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 2 0 1 2 -13
+p221
+aVStephen Curry GSW 03/04/2011 GSW @ BOS L 32 9 4 11 36.4 1 4 25.0 0 0 - 2 1 3 5 0 0 4 3 -8
+p222
+aVMonta Ellis GSW 03/04/2011 GSW @ BOS L 44 41 13 24 54.2 4 9 44.4 11 12 91.7 0 6 6 4 1 1 2 2 3
+p223
+aVAcie Law GSW 03/04/2011 GSW @ BOS L 17 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 2 0 4
+p224
+aVDorell Wright GSW 03/04/2011 GSW @ BOS L 28 11 5 10 50.0 0 3 0.0 1 2 50.0 1 2 3 1 1 0 1 1 -8
+p225
+aVMonta Ellis GSW 03/02/2011 GSW @ WAS W 31 21 9 20 45.0 0 2 0.0 3 4 75.0 1 2 3 4 0 0 0 5 0
+p226
+aVDorell Wright GSW 03/02/2011 GSW @ WAS W 45 14 4 14 28.6 1 5 20.0 5 6 83.3 2 4 6 3 1 2 2 3 10
+p227
+aVEkpe Udoh GSW 03/02/2011 GSW @ WAS W 30 6 2 6 33.3 0 0 - 2 3 66.7 1 1 2 0 1 3 2 4 -1
+p228
+aVAcie Law GSW 03/02/2011 GSW @ WAS W 19 6 2 4 50.0 0 0 - 2 4 50.0 0 2 2 3 2 0 1 2 1
+p229
+aVDavid Lee GSW 03/02/2011 GSW @ WAS W 32 9 3 9 33.3 0 0 - 3 4 75.0 5 11 16 6 1 0 0 5 -8
+p230
+aVReggie Williams GSW 03/02/2011 GSW @ WAS W 18 11 4 9 44.4 1 3 33.3 2 2 100.0 0 4 4 1 0 0 0 1 9
+p231
+aVStephen Curry GSW 03/02/2011 GSW @ WAS W 37 29 9 18 50.0 3 7 42.9 8 9 88.9 2 7 9 5 1 0 3 2 -8
+p232
+aVAndris Biedrins GSW 03/02/2011 GSW @ WAS W 13 2 1 2 50.0 0 0 - 0 0 - 3 3 6 1 0 0 4 2 3
+p233
+aVVladimir Radmanovic GSW 03/02/2011 GSW @ WAS W 15 8 2 3 66.7 2 3 66.7 2 2 100.0 0 6 6 1 0 2 1 1 14
+p234
+aVDorell Wright GSW 03/01/2011 GSW @ IND L 24 6 2 9 22.2 2 6 33.3 0 0 - 0 2 2 2 0 1 1 4 -26
+p235
+aVLou Amundson GSW 03/01/2011 GSW @ IND L 9 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 2 9
+p236
+aVAndris Biedrins GSW 03/01/2011 GSW @ IND L 14 0 0 4 0.0 0 0 - 0 0 - 3 2 5 0 0 0 2 2 -22
+p237
+aVVladimir Radmanovic GSW 03/01/2011 GSW @ IND L 18 4 1 4 25.0 0 2 0.0 2 2 100.0 1 2 3 1 1 1 1 4 2
+p238
+aVStephen Curry GSW 03/01/2011 GSW @ IND L 35 20 7 17 41.2 4 8 50.0 2 2 100.0 1 5 6 7 0 1 5 5 -19
+p239
+aVMonta Ellis GSW 03/01/2011 GSW @ IND L 38 13 5 16 31.3 0 3 0.0 3 5 60.0 0 2 2 4 2 0 1 2 -14
+p240
+aVJeremy Lin GSW 03/01/2011 GSW @ IND L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 10
+p241
+aVDavid Lee GSW 03/01/2011 GSW @ IND L 35 19 7 14 50.0 0 0 - 5 7 71.4 4 7 11 0 0 1 1 1 -14
+p242
+aVAcie Law GSW 03/01/2011 GSW @ IND L 17 6 3 6 50.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 0 5
+p243
+aVReggie Williams GSW 03/01/2011 GSW @ IND L 26 25 10 14 71.4 5 7 71.4 0 0 - 1 3 4 2 0 0 0 2 14
+p244
+aVEkpe Udoh GSW 03/01/2011 GSW @ IND L 19 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 0 3 0 3 10
+p245
+aVLou Amundson GSW 02/27/2011 GSW @ MIN L 7 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 0 3 -2
+p246
+aVDorell Wright GSW 02/27/2011 GSW @ MIN L 40 26 7 20 35.0 4 12 33.3 8 8 100.0 1 2 3 4 1 2 3 3 1
+p247
+aVVladimir Radmanovic GSW 02/27/2011 GSW @ MIN L 18 12 5 8 62.5 2 5 40.0 0 0 - 1 3 4 1 1 2 0 2 8
+p248
+aVReggie Williams GSW 02/27/2011 GSW @ MIN L 14 6 2 4 50.0 2 4 50.0 0 0 - 1 0 1 0 1 0 0 1 -9
+p249
+aVStephen Curry GSW 02/27/2011 GSW @ MIN L 45 33 13 21 61.9 5 7 71.4 2 2 100.0 1 10 11 2 2 0 2 1 4
+p250
+aVAndris Biedrins GSW 02/27/2011 GSW @ MIN L 18 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 3 2 2 -6
+p251
+aVEkpe Udoh GSW 02/27/2011 GSW @ MIN L 10 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 1 1 0 4 -9
+p252
+aVAcie Law GSW 02/27/2011 GSW @ MIN L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -13
+p253
+aVDavid Lee GSW 02/27/2011 GSW @ MIN L 38 20 7 12 58.3 0 0 - 6 8 75.0 5 5 10 5 1 0 2 5 8
+p254
+aVMonta Ellis GSW 02/27/2011 GSW @ MIN L 43 20 7 19 36.8 0 4 0.0 6 6 100.0 2 3 5 8 6 0 4 1 3
+p255
+aVDavid Lee GSW 02/25/2011 GSW vs. ATL L 25 20 9 19 47.4 0 0 - 2 2 100.0 4 6 10 0 0 0 2 1 -30
+p256
+aVStephen Curry GSW 02/25/2011 GSW vs. ATL L 30 7 2 7 28.6 0 2 0.0 3 3 100.0 1 1 2 5 0 0 3 1 -27
+p257
+aVVladimir Radmanovic GSW 02/25/2011 GSW vs. ATL L 13 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 1 1 1 0 1 -10
+p258
+aVLou Amundson GSW 02/25/2011 GSW vs. ATL L 18 8 4 7 57.1 0 0 - 0 0 - 5 2 7 0 0 1 0 1 6
+p259
+aVEkpe Udoh GSW 02/25/2011 GSW vs. ATL L 23 5 2 5 40.0 0 0 - 1 2 50.0 2 0 2 1 1 1 2 2 6
+p260
+aVMonta Ellis GSW 02/25/2011 GSW vs. ATL L 32 16 7 21 33.3 0 2 0.0 2 2 100.0 2 1 3 5 4 0 6 0 -25
+p261
+aVReggie Williams GSW 02/25/2011 GSW vs. ATL L 23 9 3 11 27.3 1 2 50.0 2 2 100.0 2 5 7 4 0 0 0 2 14
+p262
+aVAcie Law GSW 02/25/2011 GSW vs. ATL L 18 7 3 6 50.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 3 8
+p263
+aVDorell Wright GSW 02/25/2011 GSW vs. ATL L 33 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 1 1 1 1 0 -14
+p264
+aVAndris Biedrins GSW 02/25/2011 GSW vs. ATL L 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 3 0 2 -18
+p265
+aVJeremy Lin GSW 02/25/2011 GSW vs. ATL L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 3 1 0 1 10
+p266
+aVDavid Lee GSW 02/22/2011 GSW vs. BOS L 34 17 5 14 35.7 0 0 - 7 7 100.0 0 5 5 2 2 1 1 2 -22
+p267
+aVStephen Curry GSW 02/22/2011 GSW vs. BOS L 30 18 7 10 70.0 1 2 50.0 3 5 60.0 0 4 4 2 1 0 5 4 -15
+p268
+aVVladimir Radmanovic GSW 02/22/2011 GSW vs. BOS L 11 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 2 0 2 0 2 -1
+p269
+aVCharlie Bell GSW 02/22/2011 GSW vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p270
+aVAcie Law GSW 02/22/2011 GSW vs. BOS L 24 5 1 7 14.3 0 3 0.0 3 5 60.0 0 2 2 5 2 0 1 0 -2
+p271
+aVEkpe Udoh GSW 02/22/2011 GSW vs. BOS L 26 6 1 5 20.0 0 0 - 4 4 100.0 4 2 6 2 0 3 0 3 -17
+p272
+aVReggie Williams GSW 02/22/2011 GSW vs. BOS L 21 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 1 -6
+p273
+aVAndris Biedrins GSW 02/22/2011 GSW vs. BOS L 21 4 2 5 40.0 0 0 - 0 2 0.0 3 2 5 0 3 1 0 2 -4
+p274
+aVMonta Ellis GSW 02/22/2011 GSW vs. BOS L 36 15 6 18 33.3 1 7 14.3 2 2 100.0 2 0 2 4 2 0 4 1 -23
+p275
+aVDorell Wright GSW 02/22/2011 GSW vs. BOS L 35 19 8 16 50.0 2 5 40.0 1 1 100.0 2 4 6 1 1 1 0 3 -16
+p276
+aVVladimir Radmanovic GSW 02/16/2011 GSW @ UTA W 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 12
+p277
+aVStephen Curry GSW 02/16/2011 GSW @ UTA W 21 4 1 7 14.3 0 3 0.0 2 2 100.0 0 0 0 4 2 0 1 5 -6
+p278
+aVCharlie Bell GSW 02/16/2011 GSW @ UTA W 17 5 1 2 50.0 1 1 100.0 2 2 100.0 0 2 2 1 1 0 0 1 11
+p279
+aVMonta Ellis GSW 02/16/2011 GSW @ UTA W 43 35 16 25 64.0 2 5 40.0 1 4 25.0 0 4 4 7 3 1 5 3 10
+p280
+aVAndris Biedrins GSW 02/16/2011 GSW @ UTA W 25 2 1 3 33.3 0 0 - 0 2 0.0 3 6 9 1 0 0 1 3 -7
+p281
+aVJeremy Lin GSW 02/16/2011 GSW @ UTA W 7 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 1 2 1 0 2 4
+p282
+aVDavid Lee GSW 02/16/2011 GSW @ UTA W 31 13 6 12 50.0 0 0 - 1 2 50.0 2 4 6 1 0 1 5 5 -7
+p283
+aVDorell Wright GSW 02/16/2011 GSW @ UTA W 38 22 8 13 61.5 4 7 57.1 2 2 100.0 0 5 5 1 0 0 2 0 4
+p284
+aVReggie Williams GSW 02/16/2011 GSW @ UTA W 24 15 4 6 66.7 1 3 33.3 6 6 100.0 0 3 3 1 0 0 0 1 4
+p285
+aVBrandan Wright GSW 02/16/2011 GSW @ UTA W 10 6 3 3 100.0 0 0 - 0 1 0.0 1 2 3 0 0 0 1 0 5
+p286
+aVEkpe Udoh GSW 02/16/2011 GSW @ UTA W 16 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 2 4 5
+p287
+aVJeremy Lin GSW 02/15/2011 GSW vs. NOH W 9 4 2 3 66.7 0 0 - 0 0 - 1 2 3 3 0 0 2 1 0
+p288
+aVDavid Lee GSW 02/15/2011 GSW vs. NOH W 29 16 6 14 42.9 0 0 - 4 4 100.0 0 4 4 3 0 0 1 1 5
+p289
+aVDorell Wright GSW 02/15/2011 GSW vs. NOH W 44 16 7 13 53.8 1 3 33.3 1 2 50.0 2 3 5 5 2 2 2 1 15
+p290
+aVEkpe Udoh GSW 02/15/2011 GSW vs. NOH W 19 2 1 2 50.0 0 0 - 0 0 - 2 5 7 0 0 2 3 4 11
+p291
+aVReggie Williams GSW 02/15/2011 GSW vs. NOH W 20 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 0 1 0 0 2 -5
+p292
+aVVladimir Radmanovic GSW 02/15/2011 GSW vs. NOH W 19 13 5 6 83.3 2 3 66.7 1 2 50.0 1 1 2 1 1 0 0 2 9
+p293
+aVCharlie Bell GSW 02/15/2011 GSW vs. NOH W 19 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 2 1 0 0 4 6
+p294
+aVBrandan Wright GSW 02/15/2011 GSW vs. NOH W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p295
+aVMonta Ellis GSW 02/15/2011 GSW vs. NOH W 39 21 7 20 35.0 2 6 33.3 5 6 83.3 0 2 2 3 2 0 2 3 13
+p296
+aVStephen Curry GSW 02/15/2011 GSW vs. NOH W 24 14 5 5 100.0 3 3 100.0 1 1 100.0 0 0 0 8 1 0 3 3 13
+p297
+aVAndris Biedrins GSW 02/15/2011 GSW vs. NOH W 17 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 0 1 0 2 2
+p298
+aVDavid Lee GSW 02/13/2011 GSW vs. OKC W 45 23 11 22 50.0 0 0 - 1 2 50.0 4 15 19 2 3 0 2 3 9
+p299
+aVStephen Curry GSW 02/13/2011 GSW vs. OKC W 38 23 10 18 55.6 2 5 40.0 1 1 100.0 0 2 2 13 2 0 0 2 17
+p300
+aVMonta Ellis GSW 02/13/2011 GSW vs. OKC W 46 33 13 25 52.0 3 7 42.9 4 4 100.0 0 2 2 7 1 0 4 1 2
+p301
+aVReggie Williams GSW 02/13/2011 GSW vs. OKC W 18 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 0 0 0 0 2 1
+p302
+aVAndris Biedrins GSW 02/13/2011 GSW vs. OKC W 20 2 1 3 33.3 0 0 - 0 0 - 4 3 7 1 0 0 0 4 -2
+p303
+aVDorell Wright GSW 02/13/2011 GSW vs. OKC W 39 10 4 16 25.0 1 8 12.5 1 2 50.0 4 3 7 3 0 0 2 4 18
+p304
+aVEkpe Udoh GSW 02/13/2011 GSW vs. OKC W 27 0 0 4 0.0 0 0 - 0 0 - 4 0 4 0 1 1 0 1 -4
+p305
+aVVladimir Radmanovic GSW 02/13/2011 GSW vs. OKC W 7 2 1 4 25.0 0 1 0.0 0 0 - 3 1 4 2 1 0 0 3 -11
+p306
+aVDavid Lee GSW 02/10/2011 GSW @ PHX L 25 11 5 12 41.7 0 0 - 1 1 100.0 2 1 3 4 0 0 1 4 -25
+p307
+aVAndris Biedrins GSW 02/10/2011 GSW @ PHX L 11 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 2 2 0 2 -8
+p308
+aVReggie Williams GSW 02/10/2011 GSW @ PHX L 28 16 3 9 33.3 1 5 20.0 9 10 90.0 1 3 4 6 0 0 1 2 -11
+p309
+aVVladimir Radmanovic GSW 02/10/2011 GSW @ PHX L 12 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 1 1 1 0 0 -1
+p310
+aVEkpe Udoh GSW 02/10/2011 GSW @ PHX L 30 16 8 12 66.7 0 0 - 0 2 0.0 3 4 7 0 3 0 2 2 1
+p311
+aVCharlie Bell GSW 02/10/2011 GSW @ PHX L 16 6 2 6 33.3 2 4 50.0 0 0 - 0 2 2 0 0 1 1 1 -1
+p312
+aVBrandan Wright GSW 02/10/2011 GSW @ PHX L 24 10 5 7 71.4 0 0 - 0 3 0.0 1 1 2 2 2 2 0 0 -2
+p313
+aVDorell Wright GSW 02/10/2011 GSW @ PHX L 23 3 1 9 11.1 1 5 20.0 0 0 - 0 1 1 1 1 0 1 0 -25
+p314
+aVStephen Curry GSW 02/10/2011 GSW @ PHX L 25 12 5 9 55.6 2 3 66.7 0 0 - 0 2 2 2 1 0 4 0 -26
+p315
+aVJeremy Lin GSW 02/10/2011 GSW @ PHX L 18 2 1 5 20.0 0 0 - 0 1 0.0 0 3 3 2 1 0 0 0 0
+p316
+aVMonta Ellis GSW 02/10/2011 GSW @ PHX L 28 8 4 13 30.8 0 2 0.0 0 0 - 0 2 2 1 0 0 2 4 -22
+p317
+aVAndris Biedrins GSW 02/09/2011 GSW vs. DEN W 24 6 3 4 75.0 0 0 - 0 0 - 3 9 12 2 2 0 0 4 5
+p318
+aVDorell Wright GSW 02/09/2011 GSW vs. DEN W 43 23 8 20 40.0 4 11 36.4 3 4 75.0 2 9 11 8 4 0 0 3 5
+p319
+aVEkpe Udoh GSW 02/09/2011 GSW vs. DEN W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p320
+aVJeremy Lin GSW 02/09/2011 GSW vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p321
+aVMonta Ellis GSW 02/09/2011 GSW vs. DEN W 42 37 16 30 53.3 4 7 57.1 1 3 33.3 0 2 2 5 3 0 4 2 -4
+p322
+aVStephen Curry GSW 02/09/2011 GSW vs. DEN W 29 13 5 9 55.6 1 3 33.3 2 2 100.0 0 1 1 2 0 0 3 4 -2
+p323
+aVBrandan Wright GSW 02/09/2011 GSW vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p324
+aVVladimir Radmanovic GSW 02/09/2011 GSW vs. DEN W 9 3 1 3 33.3 1 3 33.3 0 0 - 2 0 2 1 0 1 0 2 -4
+p325
+aVDavid Lee GSW 02/09/2011 GSW vs. DEN W 44 16 7 15 46.7 0 0 - 2 3 66.7 5 7 12 6 2 1 4 3 4
+p326
+aVReggie Williams GSW 02/09/2011 GSW vs. DEN W 29 18 7 10 70.0 4 4 100.0 0 0 - 0 2 2 6 1 0 2 1 5
+p327
+aVVladimir Radmanovic GSW 02/07/2011 GSW vs. PHX L 24 2 1 5 20.0 0 3 0.0 0 0 - 2 7 9 0 0 0 2 2 -1
+p328
+aVDavid Lee GSW 02/07/2011 GSW vs. PHX L 29 16 7 14 50.0 0 0 - 2 2 100.0 3 7 10 2 0 0 1 1 -22
+p329
+aVReggie Williams GSW 02/07/2011 GSW vs. PHX L 30 19 8 10 80.0 1 2 50.0 2 4 50.0 1 4 5 0 0 0 0 1 1
+p330
+aVDorell Wright GSW 02/07/2011 GSW vs. PHX L 29 9 3 13 23.1 0 4 0.0 3 4 75.0 3 2 5 4 1 1 1 2 -11
+p331
+aVBrandan Wright GSW 02/07/2011 GSW vs. PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p332
+aVEkpe Udoh GSW 02/07/2011 GSW vs. PHX L 15 6 3 5 60.0 0 0 - 0 2 0.0 1 2 3 1 0 2 0 0 13
+p333
+aVStephen Curry GSW 02/07/2011 GSW vs. PHX L 44 15 7 17 41.2 0 6 0.0 1 1 100.0 0 2 2 8 1 0 5 1 -12
+p334
+aVAndris Biedrins GSW 02/07/2011 GSW vs. PHX L 17 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 1 0 0 4 -16
+p335
+aVMonta Ellis GSW 02/07/2011 GSW vs. PHX L 47 21 5 17 29.4 1 3 33.3 10 13 76.9 2 10 12 5 1 0 2 3 -12
+p336
+aVMonta Ellis GSW 02/05/2011 GSW vs. CHI W 44 33 11 22 50.0 1 4 25.0 10 10 100.0 0 3 3 5 4 0 2 0 2
+p337
+aVEkpe Udoh GSW 02/05/2011 GSW vs. CHI W 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 3 1 3 6
+p338
+aVStephen Curry GSW 02/05/2011 GSW vs. CHI W 44 23 9 15 60.0 2 4 50.0 3 3 100.0 1 5 6 8 1 0 2 1 14
+p339
+aVDavid Lee GSW 02/05/2011 GSW vs. CHI W 30 13 5 15 33.3 0 0 - 3 6 50.0 1 3 4 2 0 1 1 4 -7
+p340
+aVDorell Wright GSW 02/05/2011 GSW vs. CHI W 48 20 8 16 50.0 3 9 33.3 1 2 50.0 0 6 6 2 2 0 1 2 11
+p341
+aVVladimir Radmanovic GSW 02/05/2011 GSW vs. CHI W 20 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 1 0 0 2 23
+p342
+aVAndris Biedrins GSW 02/05/2011 GSW vs. CHI W 28 6 3 4 75.0 0 0 - 0 0 - 2 6 8 3 0 0 0 2 -3
+p343
+aVReggie Williams GSW 02/05/2011 GSW vs. CHI W 12 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 4 0 0 0 1 9
+p344
+aVEkpe Udoh GSW 02/03/2011 GSW vs. MIL W 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -1
+p345
+aVVladimir Radmanovic GSW 02/03/2011 GSW vs. MIL W 24 10 4 7 57.1 2 4 50.0 0 0 - 0 2 2 1 1 1 0 3 9
+p346
+aVReggie Williams GSW 02/03/2011 GSW vs. MIL W 21 13 5 6 83.3 3 3 100.0 0 2 0.0 0 1 1 0 0 0 0 0 6
+p347
+aVDorell Wright GSW 02/03/2011 GSW vs. MIL W 41 16 5 11 45.5 4 7 57.1 2 2 100.0 0 4 4 6 2 1 3 2 8
+p348
+aVAndris Biedrins GSW 02/03/2011 GSW vs. MIL W 28 6 3 6 50.0 0 0 - 0 0 - 4 6 10 0 1 3 0 3 -2
+p349
+aVDavid Lee GSW 02/03/2011 GSW vs. MIL W 35 15 6 12 50.0 0 0 - 3 4 75.0 2 5 7 4 1 0 3 2 2
+p350
+aVMonta Ellis GSW 02/03/2011 GSW vs. MIL W 44 24 10 22 45.5 1 5 20.0 3 3 100.0 0 5 5 6 1 0 4 1 6
+p351
+aVCharlie Bell GSW 02/03/2011 GSW vs. MIL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p352
+aVStephen Curry GSW 02/03/2011 GSW vs. MIL W 34 16 6 11 54.5 2 4 50.0 2 2 100.0 1 4 5 5 1 1 7 2 4
+p353
+aVStephen Curry GSW 01/30/2011 GSW vs. UTA W 35 27 10 18 55.6 3 8 37.5 4 4 100.0 1 5 6 7 2 1 2 2 13
+p354
+aVBrandan Wright GSW 01/30/2011 GSW vs. UTA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p355
+aVAcie Law GSW 01/30/2011 GSW vs. UTA W 13 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 1 1 0 2 0 2
+p356
+aVDavid Lee GSW 01/30/2011 GSW vs. UTA W 30 14 6 10 60.0 0 0 - 2 2 100.0 0 5 5 3 1 0 1 2 7
+p357
+aVLou Amundson GSW 01/30/2011 GSW vs. UTA W 18 4 2 5 40.0 0 0 - 0 2 0.0 5 6 11 0 0 4 0 2 8
+p358
+aVReggie Williams GSW 01/30/2011 GSW vs. UTA W 17 15 6 6 100.0 3 3 100.0 0 0 - 0 2 2 0 0 0 0 1 5
+p359
+aVAndris Biedrins GSW 01/30/2011 GSW vs. UTA W 26 11 5 7 71.4 0 0 - 1 1 100.0 2 8 10 1 1 3 2 2 2
+p360
+aVDorell Wright GSW 01/30/2011 GSW vs. UTA W 45 16 4 10 40.0 2 6 33.3 6 7 85.7 0 4 4 2 1 0 5 2 17
+p361
+aVMonta Ellis GSW 01/30/2011 GSW vs. UTA W 32 2 1 9 11.1 0 2 0.0 0 0 - 0 4 4 5 2 1 2 1 10
+p362
+aVEkpe Udoh GSW 01/30/2011 GSW vs. UTA W 21 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 2 0 1 2 5 13
+p363
+aVAcie Law GSW 01/28/2011 GSW vs. CHA L 12 7 3 5 60.0 0 1 0.0 1 2 50.0 0 2 2 2 1 0 0 1 -7
+p364
+aVReggie Williams GSW 01/28/2011 GSW vs. CHA L 16 8 3 6 50.0 2 4 50.0 0 0 - 1 4 5 1 1 0 2 0 -2
+p365
+aVVladimir Radmanovic GSW 01/28/2011 GSW vs. CHA L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 2 1 1 1 -7
+p366
+aVStephen Curry GSW 01/28/2011 GSW vs. CHA L 43 27 8 12 66.7 4 5 80.0 7 7 100.0 0 3 3 5 2 0 3 5 -3
+p367
+aVAndris Biedrins GSW 01/28/2011 GSW vs. CHA L 30 10 5 8 62.5 0 0 - 0 0 - 5 7 12 1 1 1 1 5 -6
+p368
+aVDavid Lee GSW 01/28/2011 GSW vs. CHA L 40 12 6 8 75.0 0 0 - 0 0 - 2 9 11 3 0 0 2 5 1
+p369
+aVEkpe Udoh GSW 01/28/2011 GSW vs. CHA L 20 7 3 7 42.9 0 0 - 1 2 50.0 3 0 3 1 0 1 0 4 -4
+p370
+aVMonta Ellis GSW 01/28/2011 GSW vs. CHA L 48 21 6 24 25.0 2 6 33.3 7 8 87.5 3 1 4 6 5 0 5 1 -7
+p371
+aVDorell Wright GSW 01/28/2011 GSW vs. CHA L 43 21 7 16 43.8 3 8 37.5 4 4 100.0 2 4 6 6 0 1 4 2 -5
+p372
+aVMonta Ellis GSW 01/26/2011 GSW vs. NOH L 38 26 8 13 61.5 1 4 25.0 9 11 81.8 0 1 1 5 0 0 3 3 -20
+p373
+aVStephen Curry GSW 01/26/2011 GSW vs. NOH L 39 20 8 13 61.5 1 3 33.3 3 3 100.0 0 3 3 6 2 0 5 1 -4
+p374
+aVVladimir Radmanovic GSW 01/26/2011 GSW vs. NOH L 19 2 1 5 20.0 0 1 0.0 0 0 - 2 0 2 1 0 0 2 3 -1
+p375
+aVAcie Law GSW 01/26/2011 GSW vs. NOH L 12 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 1 12
+p376
+aVDorell Wright GSW 01/26/2011 GSW vs. NOH L 42 25 10 15 66.7 2 4 50.0 3 3 100.0 0 2 2 3 1 1 2 2 -1
+p377
+aVReggie Williams GSW 01/26/2011 GSW vs. NOH L 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p378
+aVEkpe Udoh GSW 01/26/2011 GSW vs. NOH L 12 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 2 2 8
+p379
+aVLou Amundson GSW 01/26/2011 GSW vs. NOH L 11 0 0 3 0.0 0 0 - 0 0 - 2 3 5 1 0 1 1 0 -3
+p380
+aVAndris Biedrins GSW 01/26/2011 GSW vs. NOH L 16 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 1 -14
+p381
+aVDavid Lee GSW 01/26/2011 GSW vs. NOH L 38 16 7 15 46.7 0 0 - 2 3 66.7 3 7 10 2 0 1 5 4 -8
+p382
+aVDan Gadzuric GSW 01/24/2011 GSW vs. SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p383
+aVVladimir Radmanovic GSW 01/24/2011 GSW vs. SAS L 14 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 1 -3
+p384
+aVAndris Biedrins GSW 01/24/2011 GSW vs. SAS L 27 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 0 1 0 2 -18
+p385
+aVAcie Law GSW 01/24/2011 GSW vs. SAS L 9 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 2 1
+p386
+aVDavid Lee GSW 01/24/2011 GSW vs. SAS L 38 31 13 19 68.4 0 0 - 5 5 100.0 3 9 12 1 0 1 1 3 -9
+p387
+aVLou Amundson GSW 01/24/2011 GSW vs. SAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 1
+p388
+aVEkpe Udoh GSW 01/24/2011 GSW vs. SAS L 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p389
+aVStephen Curry GSW 01/24/2011 GSW vs. SAS L 36 14 6 15 40.0 2 5 40.0 0 0 - 1 5 6 5 0 1 4 4 -4
+p390
+aVDorell Wright GSW 01/24/2011 GSW vs. SAS L 41 18 4 7 57.1 0 1 0.0 10 11 90.9 2 5 7 9 1 1 1 2 -6
+p391
+aVMonta Ellis GSW 01/24/2011 GSW vs. SAS L 43 25 10 26 38.5 1 4 25.0 4 4 100.0 0 3 3 2 3 0 3 0 -13
+p392
+aVReggie Williams GSW 01/24/2011 GSW vs. SAS L 14 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -11
+p393
+aVDorell Wright GSW 01/22/2011 GSW @ LAC L 42 14 3 6 50.0 2 4 50.0 6 6 100.0 3 4 7 4 0 1 0 4 -3
+p394
+aVVladimir Radmanovic GSW 01/22/2011 GSW @ LAC L 27 8 3 5 60.0 2 4 50.0 0 0 - 1 2 3 2 1 0 0 4 4
+p395
+aVBrandan Wright GSW 01/22/2011 GSW @ LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p396
+aVReggie Williams GSW 01/22/2011 GSW @ LAC L 18 16 6 10 60.0 2 4 50.0 2 2 100.0 0 0 0 1 0 0 0 1 -1
+p397
+aVDavid Lee GSW 01/22/2011 GSW @ LAC L 41 16 6 16 37.5 0 0 - 4 5 80.0 3 12 15 3 2 0 3 5 4
+p398
+aVEkpe Udoh GSW 01/22/2011 GSW @ LAC L 6 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 0 1 -6
+p399
+aVCharlie Bell GSW 01/22/2011 GSW @ LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p400
+aVAndris Biedrins GSW 01/22/2011 GSW @ LAC L 22 6 3 4 75.0 0 0 - 0 0 - 2 4 6 1 2 0 1 4 -18
+p401
+aVMonta Ellis GSW 01/22/2011 GSW @ LAC L 42 17 6 21 28.6 0 6 0.0 5 7 71.4 2 1 3 4 0 0 5 5 -4
+p402
+aVStephen Curry GSW 01/22/2011 GSW @ LAC L 41 32 12 23 52.2 3 9 33.3 5 5 100.0 2 4 6 8 1 1 2 5 9
+p403
+aVDavid Lee GSW 01/21/2011 GSW vs. SAC W 43 22 9 16 56.3 0 0 - 4 5 80.0 1 9 10 3 1 0 3 3 8
+p404
+aVDorell Wright GSW 01/21/2011 GSW vs. SAC W 46 13 5 11 45.5 0 3 0.0 3 4 75.0 0 12 12 3 3 1 3 2 18
+p405
+aVAcie Law GSW 01/21/2011 GSW vs. SAC W 14 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -8
+p406
+aVVladimir Radmanovic GSW 01/21/2011 GSW vs. SAC W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 0 2 -1
+p407
+aVDan Gadzuric GSW 01/21/2011 GSW vs. SAC W 15 4 2 5 40.0 0 0 - 0 0 - 5 0 5 0 1 2 0 4 16
+p408
+aVAndris Biedrins GSW 01/21/2011 GSW vs. SAC W 24 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 1 1 6 -14
+p409
+aVEkpe Udoh GSW 01/21/2011 GSW vs. SAC W 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p410
+aVBrandan Wright GSW 01/21/2011 GSW vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p411
+aVReggie Williams GSW 01/21/2011 GSW vs. SAC W 5 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 4
+p412
+aVStephen Curry GSW 01/21/2011 GSW vs. SAC W 44 34 12 21 57.1 3 7 42.9 7 7 100.0 1 2 3 3 4 0 4 2 9
+p413
+aVMonta Ellis GSW 01/21/2011 GSW vs. SAC W 49 28 12 29 41.4 1 6 16.7 3 4 75.0 0 4 4 9 3 1 7 4 10
+p414
+aVStephen Curry GSW 01/19/2011 GSW vs. IND W 33 11 4 10 40.0 0 3 0.0 3 3 100.0 0 4 4 8 2 0 1 1 17
+p415
+aVMonta Ellis GSW 01/19/2011 GSW vs. IND W 44 36 16 28 57.1 2 3 66.7 2 3 66.7 1 4 5 6 2 0 4 2 11
+p416
+aVReggie Williams GSW 01/19/2011 GSW vs. IND W 10 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 1 1
+p417
+aVDavid Lee GSW 01/19/2011 GSW vs. IND W 36 21 7 11 63.6 0 0 - 7 10 70.0 2 7 9 3 0 0 4 4 12
+p418
+aVBrandan Wright GSW 01/19/2011 GSW vs. IND W 12 6 3 3 100.0 0 0 - 0 0 - 2 2 4 0 1 0 0 2 1
+p419
+aVLou Amundson GSW 01/19/2011 GSW vs. IND W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -9
+p420
+aVEkpe Udoh GSW 01/19/2011 GSW vs. IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p421
+aVDorell Wright GSW 01/19/2011 GSW vs. IND W 42 21 9 17 52.9 2 3 66.7 1 1 100.0 0 2 2 3 4 2 1 0 -5
+p422
+aVAndris Biedrins GSW 01/19/2011 GSW vs. IND W 24 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 1 3 0 4 8
+p423
+aVVladimir Radmanovic GSW 01/19/2011 GSW vs. IND W 13 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 -14
+p424
+aVAcie Law GSW 01/19/2011 GSW vs. IND W 16 7 2 4 50.0 2 2 100.0 1 2 50.0 0 0 0 2 0 0 0 0 -14
+p425
+aVStephen Curry GSW 01/17/2011 GSW vs. NJN W 23 13 4 10 40.0 2 5 40.0 3 4 75.0 0 2 2 6 0 1 2 4 11
+p426
+aVEkpe Udoh GSW 01/17/2011 GSW vs. NJN W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 3
+p427
+aVVladimir Radmanovic GSW 01/17/2011 GSW vs. NJN W 21 5 2 3 66.7 1 1 100.0 0 0 - 1 0 1 1 1 0 0 0 4
+p428
+aVAndris Biedrins GSW 01/17/2011 GSW vs. NJN W 30 9 4 6 66.7 0 0 - 1 2 50.0 3 4 7 0 0 3 0 4 12
+p429
+aVAcie Law GSW 01/17/2011 GSW vs. NJN W 18 8 3 6 50.0 0 1 0.0 2 2 100.0 0 0 0 2 1 0 0 3 5
+p430
+aVLou Amundson GSW 01/17/2011 GSW vs. NJN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 3
+p431
+aVMonta Ellis GSW 01/17/2011 GSW vs. NJN W 42 26 11 25 44.0 0 4 0.0 4 7 57.1 1 4 5 9 3 1 1 2 4
+p432
+aVDavid Lee GSW 01/17/2011 GSW vs. NJN W 36 24 9 13 69.2 0 0 - 6 7 85.7 3 7 10 4 0 0 1 2 4
+p433
+aVDorell Wright GSW 01/17/2011 GSW vs. NJN W 27 10 2 7 28.6 1 4 25.0 5 6 83.3 2 1 3 1 0 1 1 2 3
+p434
+aVDan Gadzuric GSW 01/17/2011 GSW vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 2 1 0 -4
+p435
+aVReggie Williams GSW 01/17/2011 GSW vs. NJN W 27 12 5 9 55.6 2 3 66.7 0 0 - 0 4 4 1 0 0 0 1 0
+p436
+aVAcie Law GSW 01/14/2011 GSW vs. LAC W 15 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -8
+p437
+aVLou Amundson GSW 01/14/2011 GSW vs. LAC W 5 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 4
+p438
+aVReggie Williams GSW 01/14/2011 GSW vs. LAC W 30 16 5 9 55.6 2 5 40.0 4 4 100.0 0 4 4 4 0 0 1 3 17
+p439
+aVMonta Ellis GSW 01/14/2011 GSW vs. LAC W 32 30 10 17 58.8 2 4 50.0 8 8 100.0 0 0 0 6 2 0 1 4 3
+p440
+aVVladimir Radmanovic GSW 01/14/2011 GSW vs. LAC W 20 13 3 5 60.0 3 5 60.0 4 4 100.0 0 6 6 2 0 0 2 3 19
+p441
+aVEkpe Udoh GSW 01/14/2011 GSW vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p442
+aVDavid Lee GSW 01/14/2011 GSW vs. LAC W 44 19 9 17 52.9 0 0 - 1 1 100.0 2 7 9 6 3 0 2 1 7
+p443
+aVStephen Curry GSW 01/14/2011 GSW vs. LAC W 27 23 7 15 46.7 5 7 71.4 4 4 100.0 1 3 4 4 1 0 2 2 9
+p444
+aVDorell Wright GSW 01/14/2011 GSW vs. LAC W 38 11 4 10 40.0 2 5 40.0 1 1 100.0 1 2 3 4 2 1 5 2 6
+p445
+aVAndris Biedrins GSW 01/14/2011 GSW vs. LAC W 25 8 4 7 57.1 0 0 - 0 0 - 2 5 7 1 1 2 1 6 -10
+p446
+aVVladimir Radmanovic GSW 01/12/2011 GSW vs. LAL L 18 11 4 7 57.1 3 6 50.0 0 0 - 0 1 1 2 0 1 0 2 -6
+p447
+aVAndris Biedrins GSW 01/12/2011 GSW vs. LAL L 25 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 1 0 2 6 -1
+p448
+aVDavid Lee GSW 01/12/2011 GSW vs. LAL L 36 14 7 13 53.8 0 0 - 0 0 - 2 5 7 6 2 0 1 3 -1
+p449
+aVDorell Wright GSW 01/12/2011 GSW vs. LAL L 48 27 11 24 45.8 5 11 45.5 0 0 - 3 4 7 4 3 2 0 3 -5
+p450
+aVDan Gadzuric GSW 01/12/2011 GSW vs. LAL L 17 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 2 0 4 -2
+p451
+aVStephen Curry GSW 01/12/2011 GSW vs. LAL L 38 15 5 12 41.7 1 6 16.7 4 4 100.0 1 3 4 10 2 0 3 3 2
+p452
+aVAcie Law GSW 01/12/2011 GSW vs. LAL L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -7
+p453
+aVMonta Ellis GSW 01/12/2011 GSW vs. LAL L 48 38 15 26 57.7 4 7 57.1 4 5 80.0 0 0 0 3 2 0 3 3 -5
+p454
+aVVladimir Radmanovic GSW 01/09/2011 GSW @ LAC L 21 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 1 0 2 3 5 -3
+p455
+aVReggie Williams GSW 01/09/2011 GSW @ LAC L 17 9 3 5 60.0 2 3 66.7 1 4 25.0 2 2 4 2 2 0 3 0 0
+p456
+aVAcie Law GSW 01/09/2011 GSW @ LAC L 13 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 2 2 0 1 1 -4
+p457
+aVMonta Ellis GSW 01/09/2011 GSW @ LAC L 40 13 4 19 21.1 0 5 0.0 5 7 71.4 0 5 5 6 1 0 1 2 -9
+p458
+aVDan Gadzuric GSW 01/09/2011 GSW @ LAC L 9 4 2 7 28.6 0 0 - 0 0 - 7 0 7 0 2 0 2 1 -1
+p459
+aVDorell Wright GSW 01/09/2011 GSW @ LAC L 29 27 9 15 60.0 5 6 83.3 4 6 66.7 0 1 1 0 0 0 1 5 -15
+p460
+aVDavid Lee GSW 01/09/2011 GSW @ LAC L 25 8 2 6 33.3 0 1 0.0 4 4 100.0 0 3 3 4 2 0 3 6 -13
+p461
+aVAndris Biedrins GSW 01/09/2011 GSW @ LAC L 26 0 0 1 0.0 0 0 - 0 0 - 0 6 6 0 1 1 2 6 -13
+p462
+aVEkpe Udoh GSW 01/09/2011 GSW @ LAC L 12 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 2 0 1 5
+p463
+aVStephen Curry GSW 01/09/2011 GSW @ LAC L 26 8 2 13 15.4 0 6 0.0 4 5 80.0 0 5 5 4 1 0 2 4 -13
+p464
+aVBrandan Wright GSW 01/09/2011 GSW @ LAC L 9 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -5
+p465
+aVLou Amundson GSW 01/09/2011 GSW @ LAC L 13 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 0 1 1 1
+p466
+aVAndris Biedrins GSW 01/07/2011 GSW vs. CLE W 19 2 1 1 100.0 0 0 - 0 0 - 3 5 8 2 2 3 0 4 12
+p467
+aVVladimir Radmanovic GSW 01/07/2011 GSW vs. CLE W 22 13 4 9 44.4 3 5 60.0 2 2 100.0 0 5 5 1 0 2 1 2 8
+p468
+aVDavid Lee GSW 01/07/2011 GSW vs. CLE W 39 22 10 16 62.5 0 0 - 2 2 100.0 5 9 14 5 0 2 3 5 24
+p469
+aVReggie Williams GSW 01/07/2011 GSW vs. CLE W 16 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 2 2 9
+p470
+aVEkpe Udoh GSW 01/07/2011 GSW vs. CLE W 12 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 4 -2
+p471
+aVLou Amundson GSW 01/07/2011 GSW vs. CLE W 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p472
+aVDorell Wright GSW 01/07/2011 GSW vs. CLE W 40 20 7 18 38.9 3 11 27.3 3 3 100.0 1 5 6 2 1 0 3 2 16
+p473
+aVBrandan Wright GSW 01/07/2011 GSW vs. CLE W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p474
+aVMonta Ellis GSW 01/07/2011 GSW vs. CLE W 37 32 10 21 47.6 4 5 80.0 8 8 100.0 1 1 2 10 3 0 6 1 11
+p475
+aVStephen Curry GSW 01/07/2011 GSW vs. CLE W 25 15 4 7 57.1 3 4 75.0 4 4 100.0 0 2 2 4 2 1 0 2 15
+p476
+aVAcie Law GSW 01/07/2011 GSW vs. CLE W 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 2 1
+p477
+aVDavid Lee GSW 01/05/2011 GSW @ NOH W 25 13 4 8 50.0 0 0 - 5 5 100.0 0 2 2 3 0 0 0 2 -4
+p478
+aVAcie Law GSW 01/05/2011 GSW @ NOH W 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -1
+p479
+aVLou Amundson GSW 01/05/2011 GSW @ NOH W 22 7 3 8 37.5 0 0 - 1 3 33.3 5 7 12 2 0 0 0 4 4
+p480
+aVEkpe Udoh GSW 01/05/2011 GSW @ NOH W 18 6 3 3 100.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 17
+p481
+aVMonta Ellis GSW 01/05/2011 GSW @ NOH W 46 29 10 23 43.5 3 6 50.0 6 7 85.7 2 3 5 4 2 0 1 4 7
+p482
+aVAndris Biedrins GSW 01/05/2011 GSW @ NOH W 13 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -14
+p483
+aVDorell Wright GSW 01/05/2011 GSW @ NOH W 36 13 5 13 38.5 3 5 60.0 0 4 0.0 0 4 4 2 2 1 3 3 8
+p484
+aVStephen Curry GSW 01/05/2011 GSW @ NOH W 40 21 6 11 54.5 1 3 33.3 8 8 100.0 1 2 3 5 4 0 2 3 8
+p485
+aVReggie Williams GSW 01/05/2011 GSW @ NOH W 16 5 1 5 20.0 0 3 0.0 3 3 100.0 1 3 4 1 0 0 1 1 -6
+p486
+aVVladimir Radmanovic GSW 01/05/2011 GSW @ NOH W 17 8 3 4 75.0 1 2 50.0 1 2 50.0 0 3 3 3 0 1 0 2 16
+p487
+aVReggie Williams GSW 01/03/2011 GSW @ ORL L 18 7 2 6 33.3 1 1 100.0 2 2 100.0 1 1 2 1 0 0 5 2 -12
+p488
+aVBrandan Wright GSW 01/03/2011 GSW @ ORL L 19 7 3 6 50.0 0 0 - 1 2 50.0 1 5 6 1 0 0 0 2 -10
+p489
+aVVladimir Radmanovic GSW 01/03/2011 GSW @ ORL L 23 9 4 6 66.7 1 2 50.0 0 0 - 4 2 6 0 1 2 4 3 -1
+p490
+aVDan Gadzuric GSW 01/03/2011 GSW @ ORL L 9 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 6 -3
+p491
+aVStephen Curry GSW 01/03/2011 GSW @ ORL L 35 15 5 13 38.5 3 6 50.0 2 2 100.0 0 6 6 5 2 0 5 3 -13
+p492
+aVAcie Law GSW 01/03/2011 GSW @ ORL L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -6
+p493
+aVLou Amundson GSW 01/03/2011 GSW @ ORL L 20 5 2 7 28.6 0 0 - 1 2 50.0 2 3 5 2 2 0 0 4 -13
+p494
+aVMonta Ellis GSW 01/03/2011 GSW @ ORL L 39 20 8 19 42.1 1 5 20.0 3 3 100.0 1 6 7 4 1 0 2 2 -24
+p495
+aVEkpe Udoh GSW 01/03/2011 GSW @ ORL L 20 6 3 8 37.5 0 0 - 0 0 - 2 2 4 1 0 1 1 1 -6
+p496
+aVDorell Wright GSW 01/03/2011 GSW @ ORL L 46 17 7 16 43.8 2 6 33.3 1 2 50.0 1 5 6 4 2 0 1 2 -12
+p497
+aVEkpe Udoh GSW 01/01/2011 GSW @ MIA L 17 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 1 0 1 0 5 6
+p498
+aVLou Amundson GSW 01/01/2011 GSW @ MIA L 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p499
+aVMonta Ellis GSW 01/01/2011 GSW @ MIA L 47 25 7 16 43.8 3 5 60.0 8 10 80.0 1 2 3 7 1 0 5 3 -4
+p500
+aVRodney Carney GSW 01/01/2011 GSW @ MIA L 8 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 -2
+p501
+aVStephen Curry GSW 01/01/2011 GSW @ MIA L 36 15 7 12 58.3 1 2 50.0 0 0 - 1 1 2 6 3 0 1 5 -12
+p502
+aVDorell Wright GSW 01/01/2011 GSW @ MIA L 40 30 12 21 57.1 6 13 46.2 0 0 - 0 2 2 1 2 1 1 3 -7
+p503
+aVDavid Lee GSW 01/01/2011 GSW @ MIA L 36 13 6 14 42.9 0 0 - 1 2 50.0 2 10 12 3 1 0 2 2 6
+p504
+aVReggie Williams GSW 01/01/2011 GSW @ MIA L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -5
+p505
+aVVladimir Radmanovic GSW 01/01/2011 GSW @ MIA L 22 6 2 7 28.6 1 3 33.3 1 2 50.0 2 4 6 0 0 0 1 4 -10
+p506
+aVAcie Law GSW 01/01/2011 GSW @ MIA L 14 7 3 6 50.0 1 2 50.0 0 0 - 1 3 4 0 0 0 2 3 -1
+p507
+aVDorell Wright GSW 12/31/2010 GSW @ CHA W 34 17 6 13 46.2 3 8 37.5 2 2 100.0 0 5 5 1 1 0 2 3 7
+p508
+aVRodney Carney GSW 12/31/2010 GSW @ CHA W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 2 0 2 -4
+p509
+aVAcie Law GSW 12/31/2010 GSW @ CHA W 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p510
+aVVladimir Radmanovic GSW 12/31/2010 GSW @ CHA W 32 6 3 5 60.0 0 2 0.0 0 0 - 2 3 5 0 0 1 0 5 7
+p511
+aVStephen Curry GSW 12/31/2010 GSW @ CHA W 36 24 10 17 58.8 4 5 80.0 0 0 - 0 1 1 3 1 0 3 3 6
+p512
+aVReggie Williams GSW 12/31/2010 GSW @ CHA W 14 6 2 4 50.0 1 3 33.3 1 2 50.0 0 4 4 3 0 0 0 0 1
+p513
+aVMonta Ellis GSW 12/31/2010 GSW @ CHA W 38 25 11 23 47.8 2 5 40.0 1 2 50.0 0 4 4 5 3 1 5 1 2
+p514
+aVLou Amundson GSW 12/31/2010 GSW @ CHA W 14 2 1 3 33.3 0 0 - 0 2 0.0 3 5 8 1 2 1 1 2 3
+p515
+aVDavid Lee GSW 12/31/2010 GSW @ CHA W 32 8 3 8 37.5 0 0 - 2 4 50.0 1 7 8 2 2 2 1 2 0
+p516
+aVEkpe Udoh GSW 12/31/2010 GSW @ CHA W 18 4 0 0 - 0 0 - 4 4 100.0 1 2 3 1 0 1 1 2 -8
+p517
+aVLou Amundson GSW 12/29/2010 GSW @ ATL L 22 10 5 7 71.4 0 0 - 0 3 0.0 2 5 7 0 1 0 1 1 -4
+p518
+aVDorell Wright GSW 12/29/2010 GSW @ ATL L 48 32 13 21 61.9 4 9 44.4 2 2 100.0 1 10 11 0 2 0 3 1 -10
+p519
+aVReggie Williams GSW 12/29/2010 GSW @ ATL L 28 9 4 10 40.0 1 4 25.0 0 0 - 0 2 2 3 0 0 1 1 -3
+p520
+aVMonta Ellis GSW 12/29/2010 GSW @ ATL L 43 12 4 13 30.8 2 4 50.0 2 2 100.0 0 1 1 4 1 2 2 3 -15
+p521
+aVBrandan Wright GSW 12/29/2010 GSW @ ATL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p522
+aVEkpe Udoh GSW 12/29/2010 GSW @ ATL L 6 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 1
+p523
+aVVladimir Radmanovic GSW 12/29/2010 GSW @ ATL L 22 3 1 4 25.0 1 4 25.0 0 0 - 0 6 6 0 3 0 2 4 -7
+p524
+aVDavid Lee GSW 12/29/2010 GSW @ ATL L 39 14 5 12 41.7 0 0 - 4 5 80.0 4 4 8 3 1 0 3 1 -8
+p525
+aVStephen Curry GSW 12/29/2010 GSW @ ATL L 29 9 4 13 30.8 0 3 0.0 1 1 100.0 1 4 5 12 0 0 3 2 -1
+p526
+aVMonta Ellis GSW 12/27/2010 GSW vs. PHI W 43 22 8 19 42.1 2 4 50.0 4 4 100.0 0 1 1 12 2 0 5 1 11
+p527
+aVLou Amundson GSW 12/27/2010 GSW vs. PHI W 13 4 2 6 33.3 0 0 - 0 2 0.0 1 2 3 0 1 2 0 1 -1
+p528
+aVRodney Carney GSW 12/27/2010 GSW vs. PHI W 8 6 2 4 50.0 2 2 100.0 0 0 - 1 4 5 0 0 0 0 1 9
+p529
+aVEkpe Udoh GSW 12/27/2010 GSW vs. PHI W 14 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 1 1 1 3
+p530
+aVAcie Law GSW 12/27/2010 GSW vs. PHI W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 8
+p531
+aVDavid Lee GSW 12/27/2010 GSW vs. PHI W 41 21 9 18 50.0 0 0 - 3 4 75.0 5 11 16 2 0 2 3 1 15
+p532
+aVReggie Williams GSW 12/27/2010 GSW vs. PHI W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p533
+aVStephen Curry GSW 12/27/2010 GSW vs. PHI W 28 17 5 13 38.5 4 6 66.7 3 3 100.0 0 5 5 8 1 0 2 5 18
+p534
+aVDorell Wright GSW 12/27/2010 GSW vs. PHI W 43 28 8 11 72.7 5 7 71.4 7 8 87.5 0 6 6 4 2 0 0 4 15
+p535
+aVVladimir Radmanovic GSW 12/27/2010 GSW vs. PHI W 26 8 3 4 75.0 2 2 100.0 0 0 - 2 4 6 2 3 1 1 1 4
+p536
+aVDorell Wright GSW 12/25/2010 GSW vs. POR W 31 16 6 9 66.7 4 4 100.0 0 0 - 0 8 8 4 3 1 1 2 10
+p537
+aVStephen Curry GSW 12/25/2010 GSW vs. POR W 29 4 2 15 13.3 0 5 0.0 0 0 - 1 3 4 11 0 0 2 2 7
+p538
+aVLou Amundson GSW 12/25/2010 GSW vs. POR W 17 6 3 5 60.0 0 0 - 0 0 - 2 0 2 1 0 0 1 0 -1
+p539
+aVRodney Carney GSW 12/25/2010 GSW vs. POR W 15 5 1 1 100.0 1 1 100.0 2 2 100.0 0 3 3 0 1 1 1 1 -3
+p540
+aVMonta Ellis GSW 12/25/2010 GSW vs. POR W 46 39 13 26 50.0 3 5 60.0 10 11 90.9 1 1 2 7 2 1 1 3 9
+p541
+aVDavid Lee GSW 12/25/2010 GSW vs. POR W 45 21 8 11 72.7 0 0 - 5 6 83.3 2 5 7 5 0 0 5 4 10
+p542
+aVVladimir Radmanovic GSW 12/25/2010 GSW vs. POR W 17 5 1 4 25.0 1 3 33.3 2 2 100.0 0 1 1 1 0 2 0 1 11
+p543
+aVAcie Law GSW 12/25/2010 GSW vs. POR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -9
+p544
+aVReggie Williams GSW 12/25/2010 GSW vs. POR W 18 9 4 9 44.4 1 4 25.0 0 0 - 1 3 4 0 0 0 0 1 7
+p545
+aVEkpe Udoh GSW 12/25/2010 GSW vs. POR W 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 3 1 2 -6
+p546
+aVAcie Law GSW 12/21/2010 GSW @ SAC W 19 8 3 6 50.0 1 1 100.0 1 2 50.0 2 1 3 2 0 0 3 1 -6
+p547
+aVEkpe Udoh GSW 12/21/2010 GSW @ SAC W 23 0 0 0 - 0 0 - 0 0 - 0 5 5 1 1 3 2 1 -9
+p548
+aVVladimir Radmanovic GSW 12/21/2010 GSW @ SAC W 28 15 5 10 50.0 3 5 60.0 2 2 100.0 2 6 8 2 3 0 3 5 11
+p549
+aVDavid Lee GSW 12/21/2010 GSW @ SAC W 46 15 6 13 46.2 0 0 - 3 4 75.0 2 10 12 2 0 1 4 4 11
+p550
+aVMonta Ellis GSW 12/21/2010 GSW @ SAC W 49 36 12 29 41.4 2 7 28.6 10 12 83.3 0 4 4 7 4 1 4 4 15
+p551
+aVDorell Wright GSW 12/21/2010 GSW @ SAC W 46 17 7 14 50.0 1 5 20.0 2 4 50.0 1 5 6 6 3 1 2 3 10
+p552
+aVLou Amundson GSW 12/21/2010 GSW @ SAC W 13 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 2 1 6 -6
+p553
+aVReggie Williams GSW 12/21/2010 GSW @ SAC W 43 24 8 15 53.3 3 7 42.9 5 9 55.6 2 5 7 4 1 0 0 4 14
+p554
+aVAcie Law GSW 12/20/2010 GSW vs. HOU L 32 8 4 10 40.0 0 5 0.0 0 0 - 0 2 2 4 1 0 0 1 -2
+p555
+aVDorell Wright GSW 12/20/2010 GSW vs. HOU L 29 9 4 13 30.8 1 5 20.0 0 2 0.0 0 3 3 4 0 0 3 3 -22
+p556
+aVDavid Lee GSW 12/20/2010 GSW vs. HOU L 32 19 8 11 72.7 0 0 - 3 3 100.0 1 5 6 3 1 1 1 5 -9
+p557
+aVJeremy Lin GSW 12/20/2010 GSW vs. HOU L 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 1 1 1 5
+p558
+aVReggie Williams GSW 12/20/2010 GSW vs. HOU L 27 11 3 11 27.3 1 4 25.0 4 6 66.7 2 1 3 2 0 1 0 6 -6
+p559
+aVLou Amundson GSW 12/20/2010 GSW vs. HOU L 17 6 3 5 60.0 0 0 - 0 0 - 3 4 7 0 1 0 1 4 -14
+p560
+aVVladimir Radmanovic GSW 12/20/2010 GSW vs. HOU L 16 5 2 3 66.7 1 2 50.0 0 0 - 2 3 5 3 1 0 2 2 3
+p561
+aVRodney Carney GSW 12/20/2010 GSW vs. HOU L 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 1 0 1 0 -1
+p562
+aVMonta Ellis GSW 12/20/2010 GSW vs. HOU L 42 44 15 20 75.0 3 4 75.0 11 14 78.6 0 1 1 7 3 0 3 4 -8
+p563
+aVEkpe Udoh GSW 12/20/2010 GSW vs. HOU L 25 5 2 4 50.0 0 0 - 1 2 50.0 4 3 7 4 0 3 2 4 9
+p564
+aVLou Amundson GSW 12/18/2010 GSW @ POR L 15 3 1 3 33.3 0 0 - 1 2 50.0 3 1 4 1 0 0 1 4 -8
+p565
+aVDan Gadzuric GSW 12/18/2010 GSW @ POR L 11 4 2 4 50.0 0 0 - 0 1 0.0 3 3 6 0 1 0 2 1 2
+p566
+aVVladimir Radmanovic GSW 12/18/2010 GSW @ POR L 23 9 3 6 50.0 2 4 50.0 1 1 100.0 1 1 2 4 0 2 0 4 11
+p567
+aVDorell Wright GSW 12/18/2010 GSW @ POR L 38 12 5 14 35.7 0 3 0.0 2 4 50.0 3 3 6 1 4 0 1 1 -7
+p568
+aVAcie Law GSW 12/18/2010 GSW @ POR L 18 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -3
+p569
+aVRodney Carney GSW 12/18/2010 GSW @ POR L 19 10 4 6 66.7 2 2 100.0 0 0 - 1 2 3 0 1 0 0 1 6
+p570
+aVMonta Ellis GSW 12/18/2010 GSW @ POR L 35 26 9 20 45.0 1 3 33.3 7 9 77.8 0 4 4 5 3 1 7 5 -4
+p571
+aVDavid Lee GSW 12/18/2010 GSW @ POR L 43 13 5 11 45.5 0 0 - 3 3 100.0 2 9 11 1 2 1 3 2 -2
+p572
+aVReggie Williams GSW 12/18/2010 GSW @ POR L 38 16 6 14 42.9 1 5 20.0 3 3 100.0 2 4 6 3 0 0 2 3 0
+p573
+aVDavid Lee GSW 12/14/2010 GSW vs. MIN W 30 10 4 10 40.0 0 0 - 2 2 100.0 3 8 11 4 2 0 1 1 -13
+p574
+aVEkpe Udoh GSW 12/14/2010 GSW vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -8
+p575
+aVAcie Law GSW 12/14/2010 GSW vs. MIN W 21 9 3 4 75.0 1 2 50.0 2 3 66.7 1 0 1 3 2 0 2 2 6
+p576
+aVDorell Wright GSW 12/14/2010 GSW vs. MIN W 30 12 4 14 28.6 2 8 25.0 2 3 66.7 2 3 5 3 2 2 2 0 -1
+p577
+aVAndris Biedrins GSW 12/14/2010 GSW vs. MIN W 32 7 3 4 75.0 0 0 - 1 4 25.0 4 8 12 1 1 0 0 3 13
+p578
+aVDan Gadzuric GSW 12/14/2010 GSW vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 5
+p579
+aVLou Amundson GSW 12/14/2010 GSW vs. MIN W 26 7 3 6 50.0 0 0 - 1 4 25.0 1 2 3 0 0 1 3 2 22
+p580
+aVMonta Ellis GSW 12/14/2010 GSW vs. MIN W 48 34 13 24 54.2 3 4 75.0 5 7 71.4 1 3 4 6 1 0 5 3 9
+p581
+aVVladimir Radmanovic GSW 12/14/2010 GSW vs. MIN W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 1 2
+p582
+aVReggie Williams GSW 12/14/2010 GSW vs. MIN W 39 26 8 13 61.5 4 7 57.1 6 8 75.0 0 5 5 2 0 0 1 5 10
+p583
+aVDorell Wright GSW 12/13/2010 GSW @ UTA L 37 20 8 17 47.1 4 9 44.4 0 0 - 2 4 6 3 0 0 2 3 -6
+p584
+aVCharlie Bell GSW 12/13/2010 GSW @ UTA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p585
+aVDavid Lee GSW 12/13/2010 GSW @ UTA L 41 18 3 15 20.0 0 0 - 12 14 85.7 5 7 12 2 0 0 4 3 -9
+p586
+aVDan Gadzuric GSW 12/13/2010 GSW @ UTA L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -13
+p587
+aVReggie Williams GSW 12/13/2010 GSW @ UTA L 38 19 7 12 58.3 4 6 66.7 1 3 33.3 1 4 5 6 2 0 1 4 -10
+p588
+aVMonta Ellis GSW 12/13/2010 GSW @ UTA L 40 16 7 16 43.8 2 6 33.3 0 2 0.0 0 4 4 5 4 1 7 5 -5
+p589
+aVEkpe Udoh GSW 12/13/2010 GSW @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p590
+aVAcie Law GSW 12/13/2010 GSW @ UTA L 15 8 1 2 50.0 0 0 - 6 6 100.0 0 1 1 0 0 0 1 1 -17
+p591
+aVLou Amundson GSW 12/13/2010 GSW @ UTA L 8 0 0 3 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 -3
+p592
+aVVladimir Radmanovic GSW 12/13/2010 GSW @ UTA L 17 5 2 4 50.0 1 3 33.3 0 0 - 2 2 4 0 2 0 3 0 -7
+p593
+aVAndris Biedrins GSW 12/13/2010 GSW @ UTA L 28 8 4 10 40.0 0 0 - 0 2 0.0 7 5 12 2 0 0 1 4 4
+p594
+aVJeremy Lin GSW 12/13/2010 GSW @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p595
+aVJeremy Lin GSW 12/10/2010 GSW vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 1 0 0 0 4
+p596
+aVReggie Williams GSW 12/10/2010 GSW vs. MIA L 37 13 4 11 36.4 1 4 25.0 4 5 80.0 2 0 2 3 2 0 2 1 -26
+p597
+aVMonta Ellis GSW 12/10/2010 GSW vs. MIA L 42 20 8 18 44.4 2 7 28.6 2 4 50.0 0 3 3 7 1 1 3 4 -22
+p598
+aVLou Amundson GSW 12/10/2010 GSW vs. MIA L 20 8 2 5 40.0 0 0 - 4 6 66.7 4 1 5 1 0 0 2 1 -6
+p599
+aVVladimir Radmanovic GSW 12/10/2010 GSW vs. MIA L 11 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p600
+aVDan Gadzuric GSW 12/10/2010 GSW vs. MIA L 7 4 2 3 66.7 0 0 - 0 0 - 4 1 5 0 1 1 2 1 4
+p601
+aVAcie Law GSW 12/10/2010 GSW vs. MIA L 18 3 0 4 0.0 0 2 0.0 3 4 75.0 0 3 3 1 0 0 0 1 -5
+p602
+aVDorell Wright GSW 12/10/2010 GSW vs. MIA L 42 12 4 15 26.7 4 9 44.4 0 0 - 4 6 10 4 2 0 2 2 -17
+p603
+aVAndris Biedrins GSW 12/10/2010 GSW vs. MIA L 25 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 2 0 2 3 -14
+p604
+aVDavid Lee GSW 12/10/2010 GSW vs. MIA L 32 13 6 14 42.9 0 0 - 1 2 50.0 1 7 8 4 0 0 1 3 -28
+p605
+aVEkpe Udoh GSW 12/10/2010 GSW vs. MIA L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p606
+aVDorell Wright GSW 12/08/2010 GSW @ SAS L 40 13 5 15 33.3 3 8 37.5 0 0 - 2 7 9 1 1 2 4 1 -18
+p607
+aVVladimir Radmanovic GSW 12/08/2010 GSW @ SAS L 16 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 4 1 0 1 1 1
+p608
+aVJeremy Lin GSW 12/08/2010 GSW @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -7
+p609
+aVReggie Williams GSW 12/08/2010 GSW @ SAS L 36 31 11 16 68.8 8 10 80.0 1 2 50.0 1 1 2 2 0 0 1 2 -1
+p610
+aVDavid Lee GSW 12/08/2010 GSW @ SAS L 36 16 7 10 70.0 0 0 - 2 2 100.0 6 7 13 6 0 0 6 1 -3
+p611
+aVDan Gadzuric GSW 12/08/2010 GSW @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -4
+p612
+aVMonta Ellis GSW 12/08/2010 GSW @ SAS L 44 19 7 24 29.2 0 4 0.0 5 6 83.3 0 3 3 6 1 0 3 1 -13
+p613
+aVJeff Adrien GSW 12/08/2010 GSW @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p614
+aVLou Amundson GSW 12/08/2010 GSW @ SAS L 22 6 3 7 42.9 0 0 - 0 0 - 3 2 5 0 1 0 2 3 -10
+p615
+aVAndris Biedrins GSW 12/08/2010 GSW @ SAS L 24 2 1 5 20.0 0 0 - 0 1 0.0 1 9 10 1 0 0 1 3 -12
+p616
+aVStephen Curry GSW 12/08/2010 GSW @ SAS L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 2 2 -15
+p617
+aVReggie Williams GSW 12/07/2010 GSW @ DAL L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -1
+p618
+aVMonta Ellis GSW 12/07/2010 GSW @ DAL L 43 18 7 17 41.2 2 3 66.7 2 5 40.0 1 1 2 7 3 0 6 2 -7
+p619
+aVLou Amundson GSW 12/07/2010 GSW @ DAL L 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 2 0 2 -6
+p620
+aVDan Gadzuric GSW 12/07/2010 GSW @ DAL L 5 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 8
+p621
+aVStephen Curry GSW 12/07/2010 GSW @ DAL L 42 21 8 16 50.0 3 5 60.0 2 2 100.0 1 5 6 4 2 0 6 2 -2
+p622
+aVAndris Biedrins GSW 12/07/2010 GSW @ DAL L 32 8 4 5 80.0 0 0 - 0 0 - 2 9 11 1 0 1 1 5 -5
+p623
+aVDavid Lee GSW 12/07/2010 GSW @ DAL L 40 20 9 22 40.9 0 0 - 2 6 33.3 7 1 8 7 1 0 3 2 -10
+p624
+aVDorell Wright GSW 12/07/2010 GSW @ DAL L 45 17 7 16 43.8 3 7 42.9 0 0 - 1 10 11 4 3 1 2 3 -3
+p625
+aVVladimir Radmanovic GSW 12/07/2010 GSW @ DAL L 5 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 0 0 0 0 3 1
+p626
+aVMonta Ellis GSW 12/05/2010 GSW @ OKC L 39 29 11 21 52.4 1 4 25.0 6 7 85.7 1 4 5 0 2 0 3 5 -6
+p627
+aVDavid Lee GSW 12/05/2010 GSW @ OKC L 30 8 4 12 33.3 0 0 - 0 0 - 5 4 9 5 0 0 1 4 -18
+p628
+aVDan Gadzuric GSW 12/05/2010 GSW @ OKC L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p629
+aVReggie Williams GSW 12/05/2010 GSW @ OKC L 23 11 4 11 36.4 1 4 25.0 2 2 100.0 2 2 4 2 1 0 2 1 12
+p630
+aVJeremy Lin GSW 12/05/2010 GSW @ OKC L 9 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 0 -2
+p631
+aVDorell Wright GSW 12/05/2010 GSW @ OKC L 48 12 5 17 29.4 1 5 20.0 1 2 50.0 4 7 11 2 0 2 2 3 -5
+p632
+aVStephen Curry GSW 12/05/2010 GSW @ OKC L 46 39 14 20 70.0 4 7 57.1 7 7 100.0 0 1 1 6 2 1 5 5 -9
+p633
+aVAndris Biedrins GSW 12/05/2010 GSW @ OKC L 23 4 2 4 50.0 0 0 - 0 0 - 2 4 6 3 1 1 1 5 1
+p634
+aVCharlie Bell GSW 12/05/2010 GSW @ OKC L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p635
+aVJeff Adrien GSW 12/05/2010 GSW @ OKC L 11 5 2 5 40.0 0 0 - 1 1 100.0 4 2 6 2 0 0 1 3 2
+p636
+aVCharlie Bell GSW 12/02/2010 GSW vs. PHX L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -1
+p637
+aVJeremy Lin GSW 12/02/2010 GSW vs. PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -2
+p638
+aVReggie Williams GSW 12/02/2010 GSW vs. PHX L 16 8 3 4 75.0 2 2 100.0 0 0 - 0 2 2 0 0 0 1 4 7
+p639
+aVDorell Wright GSW 12/02/2010 GSW vs. PHX L 40 10 4 13 30.8 2 7 28.6 0 0 - 2 8 10 7 1 2 1 1 -11
+p640
+aVMonta Ellis GSW 12/02/2010 GSW vs. PHX L 48 38 16 27 59.3 3 5 60.0 3 7 42.9 1 3 4 7 1 0 3 5 -6
+p641
+aVAndris Biedrins GSW 12/02/2010 GSW vs. PHX L 24 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 2 0 0 2 -5
+p642
+aVJeff Adrien GSW 12/02/2010 GSW vs. PHX L 7 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 -2
+p643
+aVRodney Carney GSW 12/02/2010 GSW vs. PHX L 17 4 1 3 33.3 1 1 100.0 1 2 50.0 0 1 1 0 0 0 1 2 3
+p644
+aVStephen Curry GSW 12/02/2010 GSW vs. PHX L 34 9 4 10 40.0 1 3 33.3 0 0 - 1 0 1 7 4 0 4 4 -6
+p645
+aVDavid Lee GSW 12/02/2010 GSW vs. PHX L 45 25 10 17 58.8 0 0 - 5 6 83.3 2 6 8 5 1 0 5 2 -7
+p646
+aVAndris Biedrins GSW 11/30/2010 GSW vs. SAS L 31 4 2 6 33.3 0 0 - 0 0 - 4 14 18 2 0 0 2 2 -14
+p647
+aVDavid Lee GSW 11/30/2010 GSW vs. SAS L 37 18 7 12 58.3 0 0 - 4 7 57.1 3 4 7 5 2 0 3 0 -9
+p648
+aVDan Gadzuric GSW 11/30/2010 GSW vs. SAS L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 2 1 3 -2
+p649
+aVJeremy Lin GSW 11/30/2010 GSW vs. SAS L 4 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 1 0
+p650
+aVMonta Ellis GSW 11/30/2010 GSW vs. SAS L 33 12 6 16 37.5 0 3 0.0 0 0 - 0 0 0 3 1 0 1 4 -18
+p651
+aVRodney Carney GSW 11/30/2010 GSW vs. SAS L 19 7 3 8 37.5 1 2 50.0 0 0 - 1 5 6 0 0 0 0 2 -12
+p652
+aVJeff Adrien GSW 11/30/2010 GSW vs. SAS L 4 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 0
+p653
+aVStephen Curry GSW 11/30/2010 GSW vs. SAS L 40 32 13 22 59.1 3 6 50.0 3 3 100.0 1 2 3 5 1 1 5 2 -14
+p654
+aVVladimir Radmanovic GSW 11/30/2010 GSW vs. SAS L 12 3 1 3 33.3 0 2 0.0 1 1 100.0 0 2 2 0 1 0 0 0 -5
+p655
+aVReggie Williams GSW 11/30/2010 GSW vs. SAS L 11 4 1 1 100.0 0 0 - 2 4 50.0 0 2 2 2 0 0 0 0 -8
+p656
+aVDorell Wright GSW 11/30/2010 GSW vs. SAS L 42 13 6 16 37.5 1 5 20.0 0 0 - 1 4 5 2 0 1 3 4 -18
+p657
+aVStephen Curry GSW 11/27/2010 GSW @ MIN W 28 20 6 10 60.0 2 3 66.7 6 7 85.7 0 3 3 7 3 0 1 5 16
+p658
+aVCharlie Bell GSW 11/27/2010 GSW @ MIN W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p659
+aVReggie Williams GSW 11/27/2010 GSW @ MIN W 15 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -7
+p660
+aVDavid Lee GSW 11/27/2010 GSW @ MIN W 43 10 5 15 33.3 0 0 - 0 0 - 2 4 6 4 2 1 1 2 14
+p661
+aVAndris Biedrins GSW 11/27/2010 GSW @ MIN W 24 2 1 6 16.7 0 0 - 0 0 - 2 10 12 1 0 0 2 6 1
+p662
+aVDan Gadzuric GSW 11/27/2010 GSW @ MIN W 18 8 4 6 66.7 0 0 - 0 0 - 0 2 2 2 0 1 0 2 18
+p663
+aVDorell Wright GSW 11/27/2010 GSW @ MIN W 45 30 10 15 66.7 9 12 75.0 1 2 50.0 0 1 1 1 2 1 2 1 13
+p664
+aVJeff Adrien GSW 11/27/2010 GSW @ MIN W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -3
+p665
+aVMonta Ellis GSW 11/27/2010 GSW @ MIN W 48 26 10 20 50.0 1 2 50.0 5 8 62.5 2 2 4 11 7 0 3 3 10
+p666
+aVRodney Carney GSW 11/27/2010 GSW @ MIN W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p667
+aVCharlie Bell GSW 11/26/2010 GSW @ MEM L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p668
+aVDorell Wright GSW 11/26/2010 GSW @ MEM L 43 10 2 11 18.2 1 4 25.0 5 5 100.0 2 4 6 8 0 1 2 3 1
+p669
+aVReggie Williams GSW 11/26/2010 GSW @ MEM L 17 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 1 0 0 0 0 -2
+p670
+aVStephen Curry GSW 11/26/2010 GSW @ MEM L 30 26 8 13 61.5 4 5 80.0 6 6 100.0 0 2 2 4 1 0 3 5 -1
+p671
+aVJeremy Lin GSW 11/26/2010 GSW @ MEM L 11 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 2 1 0 1 -3
+p672
+aVJeff Adrien GSW 11/26/2010 GSW @ MEM L 31 12 6 11 54.5 0 0 - 0 0 - 2 6 8 2 0 0 1 6 6
+p673
+aVRodney Carney GSW 11/26/2010 GSW @ MEM L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -8
+p674
+aVMonta Ellis GSW 11/26/2010 GSW @ MEM L 39 23 8 18 44.4 2 4 50.0 5 6 83.3 1 2 3 8 3 0 3 5 2
+p675
+aVAndris Biedrins GSW 11/26/2010 GSW @ MEM L 42 28 13 15 86.7 0 0 - 2 4 50.0 7 14 21 2 2 1 3 3 2
+p676
+aVVladimir Radmanovic GSW 11/26/2010 GSW @ MEM L 10 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 2 1 2 2 0 -4
+p677
+aVDan Gadzuric GSW 11/26/2010 GSW @ MEM L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -15
+p678
+aVMonta Ellis GSW 11/24/2010 GSW @ HOU L 42 18 7 21 33.3 1 5 20.0 3 6 50.0 1 2 3 3 2 0 0 3 -13
+p679
+aVStephen Curry GSW 11/24/2010 GSW @ HOU L 36 21 8 19 42.1 0 2 0.0 5 5 100.0 0 4 4 6 4 0 1 6 -11
+p680
+aVJeff Adrien GSW 11/24/2010 GSW @ HOU L 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -4
+p681
+aVAndris Biedrins GSW 11/24/2010 GSW @ HOU L 30 6 3 4 75.0 0 0 - 0 0 - 2 8 10 0 0 0 2 5 -1
+p682
+aVDan Gadzuric GSW 11/24/2010 GSW @ HOU L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -1
+p683
+aVVladimir Radmanovic GSW 11/24/2010 GSW @ HOU L 15 5 2 5 40.0 1 3 33.3 0 0 - 2 3 5 0 0 0 2 5 -17
+p684
+aVJeremy Lin GSW 11/24/2010 GSW @ HOU L 13 8 4 5 80.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -2
+p685
+aVDorell Wright GSW 11/24/2010 GSW @ HOU L 45 24 10 19 52.6 1 3 33.3 3 6 50.0 2 6 8 4 2 1 2 3 -12
+p686
+aVRodney Carney GSW 11/24/2010 GSW @ HOU L 14 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 2 3
+p687
+aVReggie Williams GSW 11/24/2010 GSW @ HOU L 28 15 6 10 60.0 2 5 40.0 1 1 100.0 1 1 2 0 1 0 0 4 8
+p688
+aVDorell Wright GSW 11/22/2010 GSW vs. DEN L 31 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 2 1 0 2 5 -5
+p689
+aVDan Gadzuric GSW 11/22/2010 GSW vs. DEN L 32 8 3 8 37.5 0 0 - 2 4 50.0 3 8 11 1 0 2 1 4 -13
+p690
+aVReggie Williams GSW 11/22/2010 GSW vs. DEN L 30 16 4 13 30.8 1 7 14.3 7 8 87.5 0 1 1 2 0 0 0 4 -12
+p691
+aVJeremy Lin GSW 11/22/2010 GSW vs. DEN L 14 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 1 1 1 0 0
+p692
+aVAndris Biedrins GSW 11/22/2010 GSW vs. DEN L 28 8 4 5 80.0 0 0 - 0 0 - 4 5 9 0 2 2 1 3 -16
+p693
+aVStephen Curry GSW 11/22/2010 GSW vs. DEN L 41 17 8 21 38.1 1 6 16.7 0 0 - 1 6 7 5 3 0 2 3 -19
+p694
+aVMonta Ellis GSW 11/22/2010 GSW vs. DEN L 41 20 7 22 31.8 2 8 25.0 4 4 100.0 1 3 4 4 1 0 1 0 -15
+p695
+aVJeff Adrien GSW 11/22/2010 GSW vs. DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p696
+aVRodney Carney GSW 11/22/2010 GSW vs. DEN L 20 16 7 9 77.8 2 3 66.7 0 0 - 0 0 0 0 1 0 2 1 -8
+p697
+aVVladimir Radmanovic GSW 11/21/2010 GSW @ LAL L 18 9 3 6 50.0 1 2 50.0 2 2 100.0 2 2 4 1 0 0 3 0 -1
+p698
+aVMonta Ellis GSW 11/21/2010 GSW @ LAL L 23 5 2 10 20.0 1 3 33.3 0 0 - 1 1 2 3 0 0 3 0 -31
+p699
+aVDorell Wright GSW 11/21/2010 GSW @ LAL L 32 16 5 17 29.4 0 3 0.0 6 6 100.0 0 1 1 1 3 1 2 2 -35
+p700
+aVCharlie Bell GSW 11/21/2010 GSW @ LAL L 22 4 2 5 40.0 0 3 0.0 0 0 - 1 0 1 3 1 0 2 3 3
+p701
+aVJeremy Lin GSW 11/21/2010 GSW @ LAL L 18 13 4 9 44.4 0 1 0.0 5 5 100.0 1 2 3 2 2 0 2 1 6
+p702
+aVRodney Carney GSW 11/21/2010 GSW @ LAL L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -7
+p703
+aVJeff Adrien GSW 11/21/2010 GSW @ LAL L 26 9 3 8 37.5 0 0 - 3 5 60.0 6 4 10 1 0 1 0 2 -3
+p704
+aVDan Gadzuric GSW 11/21/2010 GSW @ LAL L 15 2 1 4 25.0 0 0 - 0 0 - 4 3 7 0 1 0 1 3 -10
+p705
+aVStephen Curry GSW 11/21/2010 GSW @ LAL L 24 13 5 10 50.0 1 3 33.3 2 2 100.0 0 3 3 2 1 2 0 3 -26
+p706
+aVReggie Williams GSW 11/21/2010 GSW @ LAL L 23 5 1 10 10.0 0 4 0.0 3 4 75.0 1 2 3 1 0 0 0 0 -6
+p707
+aVAndris Biedrins GSW 11/21/2010 GSW @ LAL L 29 9 4 8 50.0 0 0 - 1 2 50.0 7 2 9 2 1 1 3 3 -30
+p708
+aVVladimir Radmanovic GSW 11/19/2010 GSW vs. NYK L 17 6 2 7 28.6 2 3 66.7 0 0 - 1 1 2 2 2 0 0 2 -4
+p709
+aVAndris Biedrins GSW 11/19/2010 GSW vs. NYK L 30 8 4 5 80.0 0 0 - 0 0 - 5 3 8 3 1 1 0 5 8
+p710
+aVReggie Williams GSW 11/19/2010 GSW vs. NYK L 25 18 6 9 66.7 4 5 80.0 2 2 100.0 1 4 5 0 0 0 0 4 0
+p711
+aVDan Gadzuric GSW 11/19/2010 GSW vs. NYK L 13 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 1 1 3 -9
+p712
+aVStephen Curry GSW 11/19/2010 GSW vs. NYK L 42 29 9 21 42.9 3 6 50.0 8 9 88.9 0 5 5 8 1 0 4 4 -3
+p713
+aVJeff Adrien GSW 11/19/2010 GSW vs. NYK L 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 0 1 2 -10
+p714
+aVDorell Wright GSW 11/19/2010 GSW vs. NYK L 44 16 8 15 53.3 0 2 0.0 0 0 - 1 5 6 4 0 0 0 1 -4
+p715
+aVMonta Ellis GSW 11/19/2010 GSW vs. NYK L 46 40 17 30 56.7 4 7 57.1 2 4 50.0 0 3 3 5 3 0 4 2 2
+p716
+aVRodney Carney GSW 11/19/2010 GSW vs. NYK L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -10
+p717
+aVJeff Adrien GSW 11/15/2010 GSW vs. DET W 16 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 3 0 1 1 16
+p718
+aVJeremy Lin GSW 11/15/2010 GSW vs. DET W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 1 1 1 -7
+p719
+aVMonta Ellis GSW 11/15/2010 GSW vs. DET W 31 27 9 18 50.0 2 2 100.0 7 9 77.8 0 3 3 3 1 0 1 5 14
+p720
+aVReggie Williams GSW 11/15/2010 GSW vs. DET W 30 14 6 10 60.0 2 3 66.7 0 0 - 0 1 1 2 0 1 2 4 -16
+p721
+aVVladimir Radmanovic GSW 11/15/2010 GSW vs. DET W 23 4 2 6 33.3 0 3 0.0 0 0 - 1 1 2 4 2 0 0 0 -13
+p722
+aVAndris Biedrins GSW 11/15/2010 GSW vs. DET W 31 9 4 5 80.0 0 0 - 1 2 50.0 4 4 8 3 0 3 2 4 -5
+p723
+aVRodney Carney GSW 11/15/2010 GSW vs. DET W 15 7 2 5 40.0 0 1 0.0 3 4 75.0 0 3 3 0 3 0 0 0 9
+p724
+aVDorell Wright GSW 11/15/2010 GSW vs. DET W 45 16 5 15 33.3 1 6 16.7 5 5 100.0 1 6 7 6 1 0 1 3 7
+p725
+aVDan Gadzuric GSW 11/15/2010 GSW vs. DET W 12 1 0 6 0.0 0 0 - 1 2 50.0 7 4 11 0 0 0 1 1 0
+p726
+aVStephen Curry GSW 11/15/2010 GSW vs. DET W 30 21 7 14 50.0 2 3 66.7 5 5 100.0 0 5 5 4 2 0 3 6 15
+p727
+aVAndris Biedrins GSW 11/13/2010 GSW @ MIL L 28 0 0 4 0.0 0 0 - 0 0 - 2 7 9 1 1 1 1 3 -7
+p728
+aVDan Gadzuric GSW 11/13/2010 GSW @ MIL L 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 1 0 0 0 -11
+p729
+aVMonta Ellis GSW 11/13/2010 GSW @ MIL L 42 24 9 16 56.3 4 5 80.0 2 2 100.0 0 5 5 8 3 0 7 5 -2
+p730
+aVRodney Carney GSW 11/13/2010 GSW @ MIL L 7 3 1 4 25.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 1 -5
+p731
+aVJeff Adrien GSW 11/13/2010 GSW @ MIL L 19 6 3 4 75.0 0 0 - 0 0 - 3 5 8 0 0 2 0 1 10
+p732
+aVDorell Wright GSW 11/13/2010 GSW @ MIL L 32 7 2 14 14.3 1 5 20.0 2 4 50.0 1 3 4 2 1 0 1 1 -10
+p733
+aVReggie Williams GSW 11/13/2010 GSW @ MIL L 24 11 4 11 36.4 2 4 50.0 1 2 50.0 0 5 5 0 0 0 2 2 3
+p734
+aVCharlie Bell GSW 11/13/2010 GSW @ MIL L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 5
+p735
+aVStephen Curry GSW 11/13/2010 GSW @ MIL L 30 7 3 14 21.4 0 3 0.0 1 2 50.0 1 1 2 4 3 1 2 5 -12
+p736
+aVBrandan Wright GSW 11/13/2010 GSW @ MIL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p737
+aVVladimir Radmanovic GSW 11/13/2010 GSW @ MIL L 26 8 3 8 37.5 2 4 50.0 0 0 - 1 2 3 2 0 0 1 5 -5
+p738
+aVDorell Wright GSW 11/11/2010 GSW @ CHI L 35 12 5 13 38.5 2 7 28.6 0 0 - 1 7 8 2 0 1 3 1 -20
+p739
+aVDan Gadzuric GSW 11/11/2010 GSW @ CHI L 21 8 4 8 50.0 0 0 - 0 0 - 5 1 6 0 0 1 0 3 -11
+p740
+aVVladimir Radmanovic GSW 11/11/2010 GSW @ CHI L 23 9 4 9 44.4 1 3 33.3 0 0 - 4 2 6 0 0 1 0 5 -9
+p741
+aVJeff Adrien GSW 11/11/2010 GSW @ CHI L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -6
+p742
+aVJeremy Lin GSW 11/11/2010 GSW @ CHI L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -7
+p743
+aVReggie Williams GSW 11/11/2010 GSW @ CHI L 15 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -10
+p744
+aVBrandan Wright GSW 11/11/2010 GSW @ CHI L 16 4 2 6 33.3 0 0 - 0 0 - 2 1 3 0 0 1 1 1 -15
+p745
+aVRodney Carney GSW 11/11/2010 GSW @ CHI L 18 5 2 5 40.0 1 1 100.0 0 1 0.0 0 1 1 0 1 0 0 0 -10
+p746
+aVStephen Curry GSW 11/11/2010 GSW @ CHI L 31 17 7 18 38.9 2 5 40.0 1 2 50.0 0 3 3 6 5 0 5 2 -13
+p747
+aVAndris Biedrins GSW 11/11/2010 GSW @ CHI L 22 2 1 3 33.3 0 0 - 0 0 - 5 0 5 2 1 0 3 3 -14
+p748
+aVMonta Ellis GSW 11/11/2010 GSW @ CHI L 37 24 10 20 50.0 0 3 0.0 4 4 100.0 0 5 5 5 1 0 4 0 -37
+p749
+aVCharlie Bell GSW 11/11/2010 GSW @ CHI L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 0 2
+p750
+aVAndris Biedrins GSW 11/10/2010 GSW @ NYK W 26 10 5 10 50.0 0 0 - 0 2 0.0 3 6 9 1 1 2 0 4 15
+p751
+aVMonta Ellis GSW 11/10/2010 GSW @ NYK W 41 22 7 16 43.8 0 2 0.0 8 11 72.7 0 2 2 6 4 0 2 4 7
+p752
+aVReggie Williams GSW 11/10/2010 GSW @ NYK W 23 12 5 9 55.6 0 0 - 2 2 100.0 0 1 1 1 1 0 2 5 -7
+p753
+aVVladimir Radmanovic GSW 11/10/2010 GSW @ NYK W 6 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 4 -9
+p754
+aVDorell Wright GSW 11/10/2010 GSW @ NYK W 42 15 5 11 45.5 3 5 60.0 2 2 100.0 1 6 7 3 0 0 2 5 3
+p755
+aVDavid Lee GSW 11/10/2010 GSW @ NYK W 40 28 11 17 64.7 0 0 - 6 8 75.0 4 6 10 2 4 0 4 1 9
+p756
+aVBrandan Wright GSW 11/10/2010 GSW @ NYK W 9 7 2 3 66.7 0 0 - 3 4 75.0 1 0 1 0 0 0 1 3 3
+p757
+aVJeremy Lin GSW 11/10/2010 GSW @ NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -1
+p758
+aVStephen Curry GSW 11/10/2010 GSW @ NYK W 45 25 11 20 55.0 1 1 100.0 2 3 66.7 0 6 6 8 2 1 2 4 6
+p759
+aVRodney Carney GSW 11/10/2010 GSW @ NYK W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -1
+p760
+aVJeremy Lin GSW 11/08/2010 GSW @ TOR W 15 3 0 2 0.0 0 1 0.0 3 4 75.0 0 1 1 3 2 2 1 1 3
+p761
+aVBrandan Wright GSW 11/08/2010 GSW @ TOR W 21 8 4 8 50.0 0 0 - 0 1 0.0 2 3 5 0 0 2 2 2 6
+p762
+aVVladimir Radmanovic GSW 11/08/2010 GSW @ TOR W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 1 -1
+p763
+aVMonta Ellis GSW 11/08/2010 GSW @ TOR W 43 28 10 17 58.8 1 3 33.3 7 9 77.8 0 3 3 3 3 1 6 3 -4
+p764
+aVAndris Biedrins GSW 11/08/2010 GSW @ TOR W 25 8 4 5 80.0 0 0 - 0 2 0.0 1 8 9 0 2 0 1 4 10
+p765
+aVStephen Curry GSW 11/08/2010 GSW @ TOR W 36 34 12 21 57.1 2 4 50.0 8 8 100.0 2 3 5 4 3 0 5 2 13
+p766
+aVDavid Lee GSW 11/08/2010 GSW @ TOR W 32 14 6 11 54.5 0 0 - 2 2 100.0 4 8 12 3 2 0 3 6 8
+p767
+aVRodney Carney GSW 11/08/2010 GSW @ TOR W 19 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 0 3 -1
+p768
+aVDorell Wright GSW 11/08/2010 GSW @ TOR W 34 7 1 5 20.0 1 4 25.0 4 4 100.0 0 2 2 3 1 1 1 3 7
+p769
+aVReggie Williams GSW 11/08/2010 GSW @ TOR W 8 2 0 1 0.0 0 1 0.0 2 2 100.0 2 1 3 1 0 0 1 1 -6
+p770
+aVReggie Williams GSW 11/07/2010 GSW @ DET L 28 12 4 8 50.0 1 3 33.3 3 3 100.0 2 2 4 0 0 0 3 2 -6
+p771
+aVStephen Curry GSW 11/07/2010 GSW @ DET L 29 10 3 12 25.0 0 3 0.0 4 4 100.0 1 3 4 6 2 0 2 4 -3
+p772
+aVBrandan Wright GSW 11/07/2010 GSW @ DET L 5 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 1 0 1 -3
+p773
+aVDavid Lee GSW 11/07/2010 GSW @ DET L 36 11 5 11 45.5 0 0 - 1 2 50.0 4 3 7 3 0 0 3 0 4
+p774
+aVRodney Carney GSW 11/07/2010 GSW @ DET L 10 6 1 2 50.0 1 2 50.0 3 4 75.0 0 2 2 0 0 0 0 3 -3
+p775
+aVCharlie Bell GSW 11/07/2010 GSW @ DET L 4 0 0 2 0.0 0 2 0.0 0 2 0.0 1 0 1 0 0 0 0 1 -4
+p776
+aVMonta Ellis GSW 11/07/2010 GSW @ DET L 44 24 11 23 47.8 0 5 0.0 2 2 100.0 1 5 6 2 1 0 1 2 -1
+p777
+aVAndris Biedrins GSW 11/07/2010 GSW @ DET L 26 6 3 6 50.0 0 0 - 0 0 - 3 10 13 1 0 0 3 2 4
+p778
+aVVladimir Radmanovic GSW 11/07/2010 GSW @ DET L 20 7 3 6 50.0 1 3 33.3 0 0 - 0 3 3 2 1 1 1 4 -12
+p779
+aVDorell Wright GSW 11/07/2010 GSW @ DET L 39 19 6 14 42.9 3 5 60.0 4 4 100.0 3 1 4 5 2 0 1 3 -1
+p780
+aVDorell Wright GSW 11/05/2010 GSW vs. UTA W 36 7 3 13 23.1 1 3 33.3 0 0 - 2 3 5 5 2 2 2 2 8
+p781
+aVMonta Ellis GSW 11/05/2010 GSW vs. UTA W 40 23 9 22 40.9 0 4 0.0 5 9 55.6 1 3 4 2 7 0 3 3 9
+p782
+aVDavid Lee GSW 11/05/2010 GSW vs. UTA W 43 14 6 15 40.0 0 0 - 2 4 50.0 7 8 15 1 0 0 0 1 6
+p783
+aVRodney Carney GSW 11/05/2010 GSW vs. UTA W 16 2 1 5 20.0 0 2 0.0 0 1 0.0 0 0 0 1 0 0 2 3 -6
+p784
+aVStephen Curry GSW 11/05/2010 GSW vs. UTA W 33 20 7 17 41.2 1 4 25.0 5 5 100.0 0 1 1 6 2 0 5 5 8
+p785
+aVVladimir Radmanovic GSW 11/05/2010 GSW vs. UTA W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 1
+p786
+aVCharlie Bell GSW 11/05/2010 GSW vs. UTA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p787
+aVDan Gadzuric GSW 11/05/2010 GSW vs. UTA W 12 6 3 4 75.0 0 0 - 0 0 - 3 3 6 0 0 1 2 3 -1
+p788
+aVReggie Williams GSW 11/05/2010 GSW vs. UTA W 15 5 2 4 50.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 1 6
+p789
+aVAndris Biedrins GSW 11/05/2010 GSW vs. UTA W 36 8 4 11 36.4 0 0 - 0 1 0.0 7 13 20 0 0 0 0 3 8
+p790
+aVRodney Carney GSW 11/03/2010 GSW vs. MEM W 20 7 3 7 42.9 0 2 0.0 1 1 100.0 0 2 2 0 0 1 2 1 -2
+p791
+aVAndris Biedrins GSW 11/03/2010 GSW vs. MEM W 30 2 1 3 33.3 0 0 - 0 0 - 3 2 5 3 1 1 2 5 -9
+p792
+aVDan Gadzuric GSW 11/03/2010 GSW vs. MEM W 6 2 1 3 33.3 0 0 - 0 1 0.0 3 0 3 0 0 0 2 1 5
+p793
+aVReggie Williams GSW 11/03/2010 GSW vs. MEM W 34 16 5 11 45.5 2 4 50.0 4 5 80.0 0 4 4 8 1 0 4 2 8
+p794
+aVDavid Lee GSW 11/03/2010 GSW vs. MEM W 37 15 5 17 29.4 0 0 - 5 5 100.0 9 7 16 2 3 1 2 2 -5
+p795
+aVCharlie Bell GSW 11/03/2010 GSW vs. MEM W 12 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 3 0 0 0 0 7
+p796
+aVVladimir Radmanovic GSW 11/03/2010 GSW vs. MEM W 16 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 2 1 3 0 5 14
+p797
+aVMonta Ellis GSW 11/03/2010 GSW vs. MEM W 43 39 12 26 46.2 1 5 20.0 14 19 73.7 2 7 9 8 3 0 4 5 6
+p798
+aVDorell Wright GSW 11/03/2010 GSW vs. MEM W 43 25 8 17 47.1 7 13 53.8 2 3 66.7 1 5 6 0 2 2 3 2 6
+p799
+aVDorell Wright GSW 10/31/2010 GSW @ LAL L 33 18 7 15 46.7 2 6 33.3 2 4 50.0 1 4 5 1 1 2 1 1 -22
+p800
+aVBrandan Wright GSW 10/31/2010 GSW @ LAL L 17 11 5 6 83.3 0 0 - 1 1 100.0 2 1 3 2 0 0 0 3 3
+p801
+aVRodney Carney GSW 10/31/2010 GSW @ LAL L 17 8 3 7 42.9 0 1 0.0 2 2 100.0 1 7 8 2 1 0 4 0 -6
+p802
+aVJeremy Lin GSW 10/31/2010 GSW @ LAL L 16 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 4 0 0 5 3
+p803
+aVMonta Ellis GSW 10/31/2010 GSW @ LAL L 38 20 9 20 45.0 1 4 25.0 1 2 50.0 1 1 2 3 3 0 4 2 -33
+p804
+aVReggie Williams GSW 10/31/2010 GSW @ LAL L 23 5 2 7 28.6 1 4 25.0 0 0 - 1 2 3 4 1 0 1 2 -17
+p805
+aVDan Gadzuric GSW 10/31/2010 GSW @ LAL L 16 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 1 0 5 -5
+p806
+aVVladimir Radmanovic GSW 10/31/2010 GSW @ LAL L 9 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 2 1 0 1 1 1
+p807
+aVDavid Lee GSW 10/31/2010 GSW @ LAL L 19 0 0 3 0.0 0 0 - 0 2 0.0 2 1 3 2 0 0 5 3 -26
+p808
+aVCharlie Bell GSW 10/31/2010 GSW @ LAL L 21 7 3 10 30.0 1 3 33.3 0 0 - 1 2 3 1 0 0 1 1 -2
+p809
+aVJeff Adrien GSW 10/31/2010 GSW @ LAL L 4 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 2 0 0 0 1 2
+p810
+aVAndris Biedrins GSW 10/31/2010 GSW @ LAL L 27 6 3 7 42.9 0 0 - 0 0 - 3 5 8 4 0 1 0 2 -18
+p811
+aVReggie Williams GSW 10/29/2010 GSW vs. LAC W 26 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 3 1 1 3 2 0
+p812
+aVDavid Lee GSW 10/29/2010 GSW vs. LAC W 31 15 6 12 50.0 0 0 - 3 4 75.0 1 11 12 3 0 0 2 3 12
+p813
+aVAndris Biedrins GSW 10/29/2010 GSW vs. LAC W 16 8 4 4 100.0 0 0 - 0 0 - 0 4 4 0 3 0 2 4 21
+p814
+aVDan Gadzuric GSW 10/29/2010 GSW vs. LAC W 13 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 1 2 0 3 -1
+p815
+aVRodney Carney GSW 10/29/2010 GSW vs. LAC W 20 12 4 8 50.0 2 2 100.0 2 6 33.3 3 0 3 3 0 0 0 2 1
+p816
+aVStephen Curry GSW 10/29/2010 GSW vs. LAC W 27 16 7 9 77.8 1 3 33.3 1 3 33.3 0 2 2 6 2 0 2 2 17
+p817
+aVJeremy Lin GSW 10/29/2010 GSW vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p818
+aVBrandan Wright GSW 10/29/2010 GSW vs. LAC W 14 4 2 6 33.3 0 0 - 0 0 - 1 5 6 0 0 2 1 3 1
+p819
+aVMonta Ellis GSW 10/29/2010 GSW vs. LAC W 33 15 6 12 50.0 3 4 75.0 0 0 - 1 2 3 11 0 1 3 2 22
+p820
+aVDorell Wright GSW 10/29/2010 GSW vs. LAC W 38 24 9 13 69.2 6 8 75.0 0 0 - 1 7 8 3 0 0 2 1 14
+p821
+aVVladimir Radmanovic GSW 10/29/2010 GSW vs. LAC W 20 6 1 6 16.7 1 4 25.0 3 4 75.0 1 4 5 2 0 1 2 3 3
+p822
+aVDan Gadzuric GSW 10/27/2010 GSW vs. HOU W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p823
+aVAndris Biedrins GSW 10/27/2010 GSW vs. HOU W 27 8 4 6 66.7 0 0 - 0 0 - 4 7 11 1 1 2 0 6 10
+p824
+aVVladimir Radmanovic GSW 10/27/2010 GSW vs. HOU W 6 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 1 -1
+p825
+aVCharlie Bell GSW 10/27/2010 GSW vs. HOU W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p826
+aVReggie Williams GSW 10/27/2010 GSW vs. HOU W 17 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 3 -8
+p827
+aVRodney Carney GSW 10/27/2010 GSW vs. HOU W 17 8 2 7 28.6 0 3 0.0 4 4 100.0 3 1 4 1 0 1 0 2 -12
+p828
+aVJeff Adrien GSW 10/27/2010 GSW vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p829
+aVMonta Ellis GSW 10/27/2010 GSW vs. HOU W 40 46 18 24 75.0 1 2 50.0 9 12 75.0 0 3 3 2 2 0 1 4 9
+p830
+aVBrandan Wright GSW 10/27/2010 GSW vs. HOU W 11 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 0
+p831
+aVDorell Wright GSW 10/27/2010 GSW vs. HOU W 36 15 6 14 42.9 3 6 50.0 0 0 - 1 2 3 2 2 1 2 2 10
+p832
+aVStephen Curry GSW 10/27/2010 GSW vs. HOU W 39 25 9 16 56.3 3 6 50.0 4 4 100.0 1 1 2 11 0 1 5 4 4
+p833
+aVDavid Lee GSW 10/27/2010 GSW vs. HOU W 40 17 6 11 54.5 0 0 - 5 6 83.3 3 12 15 6 0 1 3 3 10
+p834
+a.

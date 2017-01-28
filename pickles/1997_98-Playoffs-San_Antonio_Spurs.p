@@ -1,0 +1,182 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVWill Perdue SAS 05/12/1998 SAS @ UTA L 23 0 0 5 0.0 0 0 - 0 0 - 4 3 7 0 0 1 0 3 -14
+p2
+aVTim Duncan SAS 05/12/1998 SAS @ UTA L 37 14 5 10 50.0 0 0 - 4 6 66.7 4 7 11 0 0 2 3 6 -11
+p3
+aVDavid Robinson SAS 05/12/1998 SAS @ UTA L 38 21 5 16 31.3 0 0 - 11 15 73.3 5 8 13 4 2 1 2 4 1
+p4
+aVCarl Herrera SAS 05/12/1998 SAS @ UTA L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p5
+aVReggie Geary SAS 05/12/1998 SAS @ UTA L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -1
+p6
+aVJaren Jackson SAS 05/12/1998 SAS @ UTA L 36 6 3 9 33.3 0 5 0.0 0 0 - 0 2 2 0 0 1 1 3 -1
+p7
+aVVinny Del Negro SAS 05/12/1998 SAS @ UTA L 34 17 8 14 57.1 1 1 100.0 0 1 0.0 0 2 2 1 2 0 3 4 -4
+p8
+aVMalik Rose SAS 05/12/1998 SAS @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p9
+aVChuck Person SAS 05/12/1998 SAS @ UTA L 15 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 2 -12
+p10
+aVAvery Johnson SAS 05/12/1998 SAS @ UTA L 41 13 4 11 36.4 0 1 0.0 5 6 83.3 1 1 2 8 0 0 6 4 -9
+p11
+aVTim Duncan SAS 05/10/1998 SAS vs. UTA L 42 22 8 18 44.4 0 0 - 6 9 66.7 2 4 6 1 0 0 2 2 -11
+p12
+aVBrad Lohaus SAS 05/10/1998 SAS vs. UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p13
+aVChuck Person SAS 05/10/1998 SAS vs. UTA L 24 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 1 1 0 1 2 6
+p14
+aVJaren Jackson SAS 05/10/1998 SAS vs. UTA L 41 8 3 15 20.0 1 7 14.3 1 2 50.0 0 4 4 2 0 0 1 2 -7
+p15
+aVWill Perdue SAS 05/10/1998 SAS vs. UTA L 21 0 0 4 0.0 0 0 - 0 0 - 5 2 7 0 2 0 0 0 -8
+p16
+aVDavid Robinson SAS 05/10/1998 SAS vs. UTA L 40 15 5 13 38.5 0 0 - 5 8 62.5 3 8 11 2 0 4 1 6 -12
+p17
+aVVinny Del Negro SAS 05/10/1998 SAS vs. UTA L 29 12 5 9 55.6 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -5
+p18
+aVAvery Johnson SAS 05/10/1998 SAS vs. UTA L 39 13 5 6 83.3 0 0 - 3 5 60.0 0 1 1 7 2 0 1 4 -8
+p19
+aVBrad Lohaus SAS 05/09/1998 SAS vs. UTA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p20
+aVMonty Williams SAS 05/09/1998 SAS vs. UTA W 5 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -2
+p21
+aVReggie Geary SAS 05/09/1998 SAS vs. UTA W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 3 -5
+p22
+aVVinny Del Negro SAS 05/09/1998 SAS vs. UTA W 16 9 4 4 100.0 0 0 - 1 1 100.0 1 4 5 2 0 0 0 4 5
+p23
+aVTim Duncan SAS 05/09/1998 SAS vs. UTA W 35 10 5 12 41.7 0 0 - 0 0 - 5 5 10 2 0 1 0 0 19
+p24
+aVJaren Jackson SAS 05/09/1998 SAS vs. UTA W 34 14 4 10 40.0 2 6 33.3 4 4 100.0 0 6 6 1 1 0 0 2 25
+p25
+aVDavid Robinson SAS 05/09/1998 SAS vs. UTA W 28 21 6 14 42.9 0 0 - 9 12 75.0 4 5 9 0 1 7 4 1 17
+p26
+aVWill Perdue SAS 05/09/1998 SAS vs. UTA W 25 5 0 4 0.0 0 0 - 5 6 83.3 5 6 11 0 1 2 3 5 22
+p27
+aVMalik Rose SAS 05/09/1998 SAS vs. UTA W 7 4 1 2 50.0 0 0 - 2 4 50.0 2 3 5 0 0 0 2 0 -1
+p28
+aVChuck Person SAS 05/09/1998 SAS vs. UTA W 27 6 2 7 28.6 2 6 33.3 0 0 - 0 6 6 1 2 0 1 2 8
+p29
+aVAvery Johnson SAS 05/09/1998 SAS vs. UTA W 30 13 3 8 37.5 0 0 - 7 8 87.5 1 1 2 5 1 0 4 0 22
+p30
+aVCarl Herrera SAS 05/09/1998 SAS vs. UTA W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 2
+p31
+aVAvery Johnson SAS 05/07/1998 SAS @ UTA L 40 21 10 14 71.4 0 1 0.0 1 1 100.0 0 1 1 3 2 0 3 5 -8
+p32
+aVTim Duncan SAS 05/07/1998 SAS @ UTA L 49 26 8 17 47.1 0 1 0.0 10 15 66.7 0 5 5 3 2 1 3 1 -10
+p33
+aVDavid Robinson SAS 05/07/1998 SAS @ UTA L 41 21 9 16 56.3 0 0 - 3 5 60.0 6 8 14 2 1 3 2 5 1
+p34
+aVWill Perdue SAS 05/07/1998 SAS @ UTA L 21 5 2 2 100.0 0 0 - 1 2 50.0 2 6 8 0 0 3 2 4 0
+p35
+aVJaren Jackson SAS 05/07/1998 SAS @ UTA L 27 13 4 11 36.4 3 7 42.9 2 2 100.0 0 1 1 2 0 0 3 5 -4
+p36
+aVCarl Herrera SAS 05/07/1998 SAS @ UTA L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p37
+aVVinny Del Negro SAS 05/07/1998 SAS @ UTA L 34 10 5 9 55.6 0 1 0.0 0 0 - 0 3 3 5 1 0 2 4 -4
+p38
+aVChuck Person SAS 05/07/1998 SAS @ UTA L 32 5 2 5 40.0 1 4 25.0 0 0 - 0 5 5 1 0 0 1 6 -1
+p39
+aVReggie Geary SAS 05/07/1998 SAS @ UTA L 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 0 2 5
+p40
+aVAvery Johnson SAS 05/05/1998 SAS @ UTA L 39 14 6 11 54.5 0 0 - 2 4 50.0 0 1 1 8 1 0 2 2 3
+p41
+aVVinny Del Negro SAS 05/05/1998 SAS @ UTA L 30 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 5 0 0 3 3 -3
+p42
+aVMonty Williams SAS 05/05/1998 SAS @ UTA L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 8
+p43
+aVChuck Person SAS 05/05/1998 SAS @ UTA L 22 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 1 1 0 1 1 -7
+p44
+aVJaren Jackson SAS 05/05/1998 SAS @ UTA L 26 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 2 1 0 0 5 -2
+p45
+aVWill Perdue SAS 05/05/1998 SAS @ UTA L 24 8 1 1 100.0 0 0 - 6 6 100.0 2 8 10 0 0 0 3 4 -7
+p46
+aVTim Duncan SAS 05/05/1998 SAS @ UTA L 44 33 13 22 59.1 0 0 - 7 8 87.5 1 9 10 0 1 4 3 3 -6
+p47
+aVCarl Herrera SAS 05/05/1998 SAS @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p48
+aVDavid Robinson SAS 05/05/1998 SAS @ UTA L 41 16 5 17 29.4 0 0 - 6 11 54.5 4 12 16 0 0 4 4 4 4
+p49
+aVWill Perdue SAS 04/29/1998 SAS vs. PHX W 10 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 2
+p50
+aVAvery Johnson SAS 04/29/1998 SAS vs. PHX W 41 30 11 15 73.3 0 0 - 8 12 66.7 1 1 2 7 0 0 1 3 25
+p51
+aVReggie Geary SAS 04/29/1998 SAS vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p52
+aVJaren Jackson SAS 04/29/1998 SAS vs. PHX W 37 8 2 10 20.0 1 9 11.1 3 6 50.0 2 9 11 2 2 0 2 1 33
+p53
+aVDavid Robinson SAS 04/29/1998 SAS vs. PHX W 40 15 3 12 25.0 0 0 - 9 12 75.0 5 16 21 3 3 1 2 0 26
+p54
+aVMalik Rose SAS 04/29/1998 SAS vs. PHX W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p55
+aVBrad Lohaus SAS 04/29/1998 SAS vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 0 0 -6
+p56
+aVTim Duncan SAS 04/29/1998 SAS vs. PHX W 37 11 5 8 62.5 0 0 - 1 2 50.0 1 4 5 2 0 6 4 3 16
+p57
+aVVinny Del Negro SAS 04/29/1998 SAS vs. PHX W 30 6 1 9 11.1 0 2 0.0 4 4 100.0 1 3 4 1 0 0 1 4 -5
+p58
+aVMonty Williams SAS 04/29/1998 SAS vs. PHX W 10 6 2 3 66.7 0 0 - 2 3 66.7 0 1 1 0 0 0 3 2 -7
+p59
+aVChuck Person SAS 04/29/1998 SAS vs. PHX W 22 18 6 11 54.5 6 8 75.0 0 0 - 0 5 5 1 0 0 1 1 19
+p60
+aVMonty Williams SAS 04/27/1998 SAS vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p61
+aVBrad Lohaus SAS 04/27/1998 SAS vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p62
+aVAvery Johnson SAS 04/27/1998 SAS vs. PHX W 35 10 5 10 50.0 0 0 - 0 0 - 0 3 3 5 0 0 3 3 20
+p63
+aVDavid Robinson SAS 04/27/1998 SAS vs. PHX W 36 17 7 18 38.9 0 0 - 3 9 33.3 7 5 12 4 0 4 2 1 10
+p64
+aVChuck Person SAS 04/27/1998 SAS vs. PHX W 17 9 3 8 37.5 3 7 42.9 0 0 - 0 3 3 1 0 0 0 1 1
+p65
+aVWill Perdue SAS 04/27/1998 SAS vs. PHX W 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 2 1 2 5
+p66
+aVTim Duncan SAS 04/27/1998 SAS vs. PHX W 42 22 11 21 52.4 0 0 - 0 0 - 4 10 14 4 1 3 1 3 16
+p67
+aVReggie Geary SAS 04/27/1998 SAS vs. PHX W 9 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 1 0 0 0 3 -6
+p68
+aVJaren Jackson SAS 04/27/1998 SAS vs. PHX W 41 18 6 8 75.0 4 5 80.0 2 3 66.7 2 5 7 2 0 0 2 2 12
+p69
+aVMalik Rose SAS 04/27/1998 SAS vs. PHX W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -1
+p70
+aVCarl Herrera SAS 04/27/1998 SAS vs. PHX W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p71
+aVVinny Del Negro SAS 04/27/1998 SAS vs. PHX W 37 18 7 13 53.8 0 1 0.0 4 4 100.0 0 5 5 4 3 0 0 4 15
+p72
+aVAvery Johnson SAS 04/25/1998 SAS @ PHX L 41 20 9 15 60.0 0 0 - 2 7 28.6 0 1 1 8 1 0 0 4 3
+p73
+aVJaren Jackson SAS 04/25/1998 SAS @ PHX L 33 13 4 14 28.6 3 11 27.3 2 2 100.0 0 3 3 2 0 0 2 5 -5
+p74
+aVWill Perdue SAS 04/25/1998 SAS @ PHX L 18 10 4 5 80.0 0 0 - 2 2 100.0 2 3 5 1 2 1 2 3 -14
+p75
+aVTim Duncan SAS 04/25/1998 SAS @ PHX L 46 16 6 11 54.5 0 0 - 4 6 66.7 2 8 10 4 0 4 6 3 -9
+p76
+aVVinny Del Negro SAS 04/25/1998 SAS @ PHX L 38 12 5 11 45.5 1 3 33.3 1 1 100.0 0 1 1 5 1 0 1 2 5
+p77
+aVDavid Robinson SAS 04/25/1998 SAS @ PHX L 41 23 8 13 61.5 0 0 - 7 8 87.5 3 13 16 3 1 1 3 4 -2
+p78
+aVReggie Geary SAS 04/25/1998 SAS @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p79
+aVChuck Person SAS 04/25/1998 SAS @ PHX L 17 7 2 6 33.3 1 4 25.0 2 2 100.0 0 1 1 0 0 0 1 0 -7
+p80
+aVReggie Geary SAS 04/23/1998 SAS @ PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p81
+aVMonty Williams SAS 04/23/1998 SAS @ PHX W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p82
+aVTim Duncan SAS 04/23/1998 SAS @ PHX W 37 32 12 21 57.1 0 0 - 8 14 57.1 1 9 10 1 1 2 3 3 12
+p83
+aVChuck Person SAS 04/23/1998 SAS @ PHX W 17 0 0 4 0.0 0 4 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p84
+aVDavid Robinson SAS 04/23/1998 SAS @ PHX W 43 26 9 15 60.0 0 0 - 8 16 50.0 4 11 15 5 3 5 5 3 7
+p85
+aVMalik Rose SAS 04/23/1998 SAS @ PHX W 0 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p86
+aVVinny Del Negro SAS 04/23/1998 SAS @ PHX W 31 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 6 1 0 3 3 -2
+p87
+aVJaren Jackson SAS 04/23/1998 SAS @ PHX W 38 9 3 8 37.5 3 7 42.9 0 0 - 0 2 2 1 1 0 1 6 12
+p88
+aVAvery Johnson SAS 04/23/1998 SAS @ PHX W 33 22 8 11 72.7 0 0 - 6 8 75.0 0 0 0 4 2 0 1 2 8
+p89
+aVWill Perdue SAS 04/23/1998 SAS @ PHX W 32 7 2 3 66.7 0 0 - 3 3 100.0 2 4 6 0 1 0 0 3 -7
+p90
+a.

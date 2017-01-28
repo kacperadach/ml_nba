@@ -1,0 +1,1710 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJeff Adrien CHA 04/17/2013 CHA vs. CLE W 12 7 2 4 50.0 0 0 - 3 4 75.0 2 3 5 2 0 0 0 1 10
+p2
+aVJosh McRoberts CHA 04/17/2013 CHA vs. CLE W 41 20 6 6 100.0 3 3 100.0 5 6 83.3 1 7 8 2 1 0 3 2 -6
+p3
+aVBismack Biyombo CHA 04/17/2013 CHA vs. CLE W 36 8 3 5 60.0 0 0 - 2 2 100.0 0 4 4 0 0 3 0 2 -3
+p4
+aVTyrus Thomas CHA 04/17/2013 CHA vs. CLE W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 13
+p5
+aVKemba Walker CHA 04/17/2013 CHA vs. CLE W 36 24 6 16 37.5 3 7 42.9 9 12 75.0 1 3 4 7 2 1 5 3 14
+p6
+aVJannero Pargo CHA 04/17/2013 CHA vs. CLE W 12 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 0 -7
+p7
+aVJeff Taylor CHA 04/17/2013 CHA vs. CLE W 24 6 3 6 50.0 0 1 0.0 0 0 - 1 4 5 3 1 0 0 3 12
+p8
+aVGerald Henderson CHA 04/17/2013 CHA vs. CLE W 35 15 6 13 46.2 0 0 - 3 4 75.0 1 2 3 6 1 0 5 2 2
+p9
+aVMichael Kidd-Gilchrist CHA 04/17/2013 CHA vs. CLE W 25 11 5 7 71.4 0 0 - 1 2 50.0 1 7 8 4 1 0 0 0 12
+p10
+aVBen Gordon CHA 04/17/2013 CHA vs. CLE W 12 7 3 9 33.3 1 6 16.7 0 0 - 0 1 1 1 0 0 0 0 -12
+p11
+aVBen Gordon CHA 04/15/2013 CHA vs. NYK W 10 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 2 -7
+p12
+aVMichael Kidd-Gilchrist CHA 04/15/2013 CHA vs. NYK W 30 8 4 7 57.1 0 0 - 0 0 - 0 5 5 1 1 0 0 3 14
+p13
+aVJannero Pargo CHA 04/15/2013 CHA vs. NYK W 17 5 2 9 22.2 1 3 33.3 0 0 - 0 1 1 2 2 0 2 0 -9
+p14
+aVTyrus Thomas CHA 04/15/2013 CHA vs. NYK W 5 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p15
+aVGerald Henderson CHA 04/15/2013 CHA vs. NYK W 39 27 11 16 68.8 1 3 33.3 4 4 100.0 0 3 3 5 0 1 2 2 24
+p16
+aVJosh McRoberts CHA 04/15/2013 CHA vs. NYK W 37 10 4 5 80.0 0 0 - 2 2 100.0 0 7 7 8 0 1 5 2 21
+p17
+aVBismack Biyombo CHA 04/15/2013 CHA vs. NYK W 43 10 4 6 66.7 0 0 - 2 3 66.7 2 9 11 1 0 3 0 1 18
+p18
+aVKemba Walker CHA 04/15/2013 CHA vs. NYK W 31 23 9 15 60.0 2 5 40.0 3 3 100.0 1 3 4 13 1 0 1 0 20
+p19
+aVJeff Adrien CHA 04/15/2013 CHA vs. NYK W 11 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 1 1 2 -10
+p20
+aVJeff Taylor CHA 04/15/2013 CHA vs. NYK W 17 12 5 7 71.4 2 3 66.7 0 0 - 0 0 0 3 0 0 0 3 -9
+p21
+aVMichael Kidd-Gilchrist CHA 04/13/2013 CHA vs. MIL W 30 7 2 7 28.6 0 0 - 3 4 75.0 3 5 8 2 0 0 3 4 21
+p22
+aVBismack Biyombo CHA 04/13/2013 CHA vs. MIL W 37 13 6 9 66.7 0 0 - 1 5 20.0 6 11 17 0 0 2 3 4 1
+p23
+aVBen Gordon CHA 04/13/2013 CHA vs. MIL W 18 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -11
+p24
+aVJeff Taylor CHA 04/13/2013 CHA vs. MIL W 14 9 4 5 80.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 2 6
+p25
+aVKemba Walker CHA 04/13/2013 CHA vs. MIL W 35 21 7 18 38.9 2 5 40.0 5 6 83.3 0 4 4 3 1 0 2 0 3
+p26
+aVJannero Pargo CHA 04/13/2013 CHA vs. MIL W 13 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 2 0 0 3 0 7
+p27
+aVJosh McRoberts CHA 04/13/2013 CHA vs. MIL W 39 18 7 9 77.8 0 0 - 4 4 100.0 2 7 9 9 1 0 1 4 7
+p28
+aVGerald Henderson CHA 04/13/2013 CHA vs. MIL W 34 12 5 18 27.8 0 0 - 2 3 66.7 0 3 3 4 0 0 1 2 4
+p29
+aVJeff Adrien CHA 04/13/2013 CHA vs. MIL W 20 6 2 4 50.0 0 1 0.0 2 2 100.0 0 7 7 2 4 3 0 1 12
+p30
+aVMichael Kidd-Gilchrist CHA 04/12/2013 CHA @ DET L 31 7 3 7 42.9 0 0 - 1 2 50.0 5 2 7 2 1 2 1 4 -6
+p31
+aVBismack Biyombo CHA 04/12/2013 CHA @ DET L 37 8 4 6 66.7 0 0 - 0 1 0.0 1 7 8 0 0 2 2 0 -7
+p32
+aVTyrus Thomas CHA 04/12/2013 CHA @ DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 2 1 1 2 -6
+p33
+aVJeff Adrien CHA 04/12/2013 CHA @ DET L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 2 0 1 1 -2
+p34
+aVJannero Pargo CHA 04/12/2013 CHA @ DET L 20 11 4 8 50.0 3 6 50.0 0 0 - 1 0 1 0 1 0 1 2 -6
+p35
+aVKemba Walker CHA 04/12/2013 CHA @ DET L 37 28 9 21 42.9 4 8 50.0 6 6 100.0 0 5 5 6 0 0 5 2 -15
+p36
+aVBen Gordon CHA 04/12/2013 CHA @ DET L 16 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 5 2 -15
+p37
+aVGerald Henderson CHA 04/12/2013 CHA @ DET L 35 15 6 18 33.3 1 4 25.0 2 2 100.0 0 1 1 5 3 0 3 3 -6
+p38
+aVJosh McRoberts CHA 04/12/2013 CHA @ DET L 36 17 7 11 63.6 0 2 0.0 3 4 75.0 2 5 7 2 1 0 3 1 -25
+p39
+aVJeff Taylor CHA 04/12/2013 CHA @ DET L 12 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 -12
+p40
+aVBen Gordon CHA 04/09/2013 CHA @ MEM L 16 3 0 4 0.0 0 1 0.0 3 4 75.0 0 1 1 0 0 0 0 3 -8
+p41
+aVJosh McRoberts CHA 04/09/2013 CHA @ MEM L 41 8 3 11 27.3 0 1 0.0 2 2 100.0 4 4 8 2 0 2 1 2 -23
+p42
+aVBismack Biyombo CHA 04/09/2013 CHA @ MEM L 38 3 1 7 14.3 0 0 - 1 1 100.0 2 10 12 1 0 3 1 2 -21
+p43
+aVTyrus Thomas CHA 04/09/2013 CHA @ MEM L 10 5 2 4 50.0 0 0 - 1 1 100.0 0 3 3 1 1 0 1 1 -1
+p44
+aVMichael Kidd-Gilchrist CHA 04/09/2013 CHA @ MEM L 27 6 3 7 42.9 0 0 - 0 1 0.0 2 4 6 1 0 0 2 3 -4
+p45
+aVGerald Henderson CHA 04/09/2013 CHA @ MEM L 41 13 6 16 37.5 0 1 0.0 1 1 100.0 1 5 6 2 0 0 1 2 -23
+p46
+aVJeff Adrien CHA 04/09/2013 CHA @ MEM L 7 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 0 1 7
+p47
+aVKemba Walker CHA 04/09/2013 CHA @ MEM L 34 19 9 17 52.9 0 5 0.0 1 1 100.0 1 1 2 3 0 0 1 2 -19
+p48
+aVReggie Williams CHA 04/09/2013 CHA @ MEM L 7 2 1 2 50.0 0 1 0.0 0 2 0.0 0 1 1 1 0 0 1 0 4
+p49
+aVJannero Pargo CHA 04/09/2013 CHA @ MEM L 14 10 4 9 44.4 2 5 40.0 0 0 - 0 0 0 1 0 0 2 1 -9
+p50
+aVJeff Taylor CHA 04/09/2013 CHA @ MEM L 4 4 0 1 0.0 0 0 - 4 5 80.0 0 1 1 0 1 0 0 0 2
+p51
+aVGerald Henderson CHA 04/06/2013 CHA @ BKN L 37 22 8 12 66.7 0 3 0.0 6 8 75.0 1 2 3 5 2 0 3 3 -9
+p52
+aVReggie Williams CHA 04/06/2013 CHA @ BKN L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -4
+p53
+aVJosh McRoberts CHA 04/06/2013 CHA @ BKN L 41 6 3 11 27.3 0 1 0.0 0 0 - 3 5 8 3 1 0 0 5 3
+p54
+aVJannero Pargo CHA 04/06/2013 CHA @ BKN L 23 12 5 13 38.5 1 4 25.0 1 1 100.0 1 3 4 2 0 0 1 3 6
+p55
+aVBismack Biyombo CHA 04/06/2013 CHA @ BKN L 33 10 4 8 50.0 0 0 - 2 2 100.0 6 4 10 0 0 5 2 5 -11
+p56
+aVByron Mullens CHA 04/06/2013 CHA @ BKN L 4 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -9
+p57
+aVBen Gordon CHA 04/06/2013 CHA @ BKN L 28 27 8 16 50.0 6 11 54.5 5 6 83.3 0 2 2 2 0 0 5 2 0
+p58
+aVMichael Kidd-Gilchrist CHA 04/06/2013 CHA @ BKN L 19 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 1 0 0 1 0 -5
+p59
+aVKemba Walker CHA 04/06/2013 CHA @ BKN L 25 7 3 9 33.3 0 1 0.0 1 2 50.0 0 2 2 4 1 1 3 1 -15
+p60
+aVJeff Adrien CHA 04/06/2013 CHA @ BKN L 15 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 0 0 0 3 -5
+p61
+aVTyrus Thomas CHA 04/06/2013 CHA @ BKN L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p62
+aVMichael Kidd-Gilchrist CHA 04/05/2013 CHA vs. MIA L 38 18 7 17 41.2 0 0 - 4 4 100.0 4 10 14 1 1 1 1 3 -4
+p63
+aVJosh McRoberts CHA 04/05/2013 CHA vs. MIA L 37 8 4 12 33.3 0 0 - 0 0 - 7 4 11 3 1 2 1 2 -18
+p64
+aVTyrus Thomas CHA 04/05/2013 CHA vs. MIA L 17 6 3 6 50.0 0 1 0.0 0 0 - 2 0 2 0 1 0 0 1 2
+p65
+aVKemba Walker CHA 04/05/2013 CHA vs. MIA L 41 12 3 15 20.0 0 6 0.0 6 6 100.0 1 2 3 4 3 0 2 3 -13
+p66
+aVJannero Pargo CHA 04/05/2013 CHA vs. MIA L 11 9 3 6 50.0 1 3 33.3 2 2 100.0 2 0 2 1 1 0 0 0 4
+p67
+aVBismack Biyombo CHA 04/05/2013 CHA vs. MIA L 25 4 2 7 28.6 0 0 - 0 0 - 4 4 8 0 0 1 1 1 -1
+p68
+aVJeff Taylor CHA 04/05/2013 CHA vs. MIA L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p69
+aVReggie Williams CHA 04/05/2013 CHA vs. MIA L 21 8 3 6 50.0 1 2 50.0 1 2 50.0 2 1 3 1 2 0 2 1 1
+p70
+aVGerald Henderson CHA 04/05/2013 CHA vs. MIA L 37 11 2 16 12.5 0 3 0.0 7 8 87.5 1 2 3 3 2 0 4 0 -14
+p71
+aVBen Gordon CHA 04/05/2013 CHA vs. MIA L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -6
+p72
+aVMichael Kidd-Gilchrist CHA 04/03/2013 CHA vs. PHI W 17 4 2 6 33.3 0 0 - 0 0 - 2 5 7 0 0 0 3 0 -1
+p73
+aVReggie Williams CHA 04/03/2013 CHA vs. PHI W 17 12 5 7 71.4 2 3 66.7 0 0 - 0 3 3 1 0 0 2 1 8
+p74
+aVKemba Walker CHA 04/03/2013 CHA vs. PHI W 40 17 6 14 42.9 2 4 50.0 3 4 75.0 0 5 5 10 5 1 6 2 13
+p75
+aVGerald Henderson CHA 04/03/2013 CHA vs. PHI W 36 24 10 18 55.6 0 3 0.0 4 4 100.0 3 1 4 4 2 1 1 2 0
+p76
+aVBen Gordon CHA 04/03/2013 CHA vs. PHI W 25 9 2 9 22.2 0 3 0.0 5 6 83.3 0 1 1 3 0 0 2 1 5
+p77
+aVJeff Adrien CHA 04/03/2013 CHA vs. PHI W 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p78
+aVJosh McRoberts CHA 04/03/2013 CHA vs. PHI W 43 12 6 7 85.7 0 0 - 0 0 - 4 12 16 4 1 0 1 3 15
+p79
+aVTyrus Thomas CHA 04/03/2013 CHA vs. PHI W 12 6 2 9 22.2 0 1 0.0 2 2 100.0 1 1 2 0 1 0 0 1 -8
+p80
+aVBismack Biyombo CHA 04/03/2013 CHA vs. PHI W 38 4 2 7 28.6 0 0 - 0 0 - 3 8 11 0 1 3 0 2 5
+p81
+aVJannero Pargo CHA 04/03/2013 CHA vs. PHI W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -8
+p82
+aVTyrus Thomas CHA 04/01/2013 CHA @ MIL L 23 13 5 9 55.6 2 4 50.0 1 2 50.0 1 1 2 2 1 0 1 4 -12
+p83
+aVKemba Walker CHA 04/01/2013 CHA @ MIL L 35 27 8 11 72.7 0 3 0.0 11 13 84.6 0 2 2 6 1 1 4 2 -20
+p84
+aVJeff Taylor CHA 04/01/2013 CHA @ MIL L 29 7 3 7 42.9 1 3 33.3 0 0 - 1 4 5 1 1 1 3 2 -10
+p85
+aVGerald Henderson CHA 04/01/2013 CHA @ MIL L 34 17 6 11 54.5 0 1 0.0 5 6 83.3 0 2 2 1 1 2 2 3 -33
+p86
+aVReggie Williams CHA 04/01/2013 CHA @ MIL L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -2
+p87
+aVJosh McRoberts CHA 04/01/2013 CHA @ MIL L 39 8 2 8 25.0 0 1 0.0 4 4 100.0 1 9 10 4 1 0 3 2 -29
+p88
+aVJeff Adrien CHA 04/01/2013 CHA @ MIL L 12 4 2 3 66.7 0 0 - 0 1 0.0 0 2 2 0 1 0 0 0 1
+p89
+aVBen Gordon CHA 04/01/2013 CHA @ MIL L 20 14 6 8 75.0 2 3 66.7 0 0 - 0 0 0 0 0 0 6 3 -13
+p90
+aVBismack Biyombo CHA 04/01/2013 CHA @ MIL L 25 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 0 1 0 2 -16
+p91
+aVJannero Pargo CHA 04/01/2013 CHA @ MIL L 19 8 3 10 30.0 1 4 25.0 1 2 50.0 0 1 1 3 1 0 1 1 -11
+p92
+aVKemba Walker CHA 03/30/2013 CHA @ PHI L 38 16 6 14 42.9 0 3 0.0 4 4 100.0 0 3 3 9 1 0 4 4 0
+p93
+aVJannero Pargo CHA 03/30/2013 CHA @ PHI L 17 11 5 12 41.7 1 4 25.0 0 0 - 2 1 3 1 1 0 2 3 -7
+p94
+aVJosh McRoberts CHA 03/30/2013 CHA @ PHI L 41 15 6 13 46.2 0 0 - 3 4 75.0 1 2 3 1 0 0 1 4 -2
+p95
+aVMichael Kidd-Gilchrist CHA 03/30/2013 CHA @ PHI L 34 21 9 11 81.8 0 0 - 3 4 75.0 0 9 9 0 0 0 1 4 2
+p96
+aVBen Gordon CHA 03/30/2013 CHA @ PHI L 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 1 0 2 0 -11
+p97
+aVJeff Adrien CHA 03/30/2013 CHA @ PHI L 13 2 0 1 0.0 0 0 - 2 6 33.3 2 1 3 0 0 0 0 1 -7
+p98
+aVGerald Henderson CHA 03/30/2013 CHA @ PHI L 40 19 8 18 44.4 1 1 100.0 2 5 40.0 0 3 3 7 2 0 0 1 -8
+p99
+aVBismack Biyombo CHA 03/30/2013 CHA @ PHI L 42 8 4 5 80.0 0 0 - 0 0 - 3 6 9 1 0 3 2 5 -7
+p100
+aVGerald Henderson CHA 03/29/2013 CHA @ NYK L 46 35 9 16 56.3 2 5 40.0 15 17 88.2 0 7 7 3 2 0 3 5 -5
+p101
+aVBen Gordon CHA 03/29/2013 CHA @ NYK L 25 12 4 9 44.4 4 8 50.0 0 0 - 0 1 1 1 0 0 2 1 5
+p102
+aVMichael Kidd-Gilchrist CHA 03/29/2013 CHA @ NYK L 31 14 6 11 54.5 0 0 - 2 2 100.0 3 5 8 1 1 1 0 2 -8
+p103
+aVJosh McRoberts CHA 03/29/2013 CHA @ NYK L 28 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 2 1 1 2 6 -10
+p104
+aVJannero Pargo CHA 03/29/2013 CHA @ NYK L 16 9 3 8 37.5 3 7 42.9 0 0 - 0 0 0 1 0 0 2 4 -8
+p105
+aVKemba Walker CHA 03/29/2013 CHA @ NYK L 41 16 6 19 31.6 1 5 20.0 3 4 75.0 2 1 3 8 2 0 5 2 -6
+p106
+aVBismack Biyombo CHA 03/29/2013 CHA @ NYK L 34 2 1 2 50.0 0 0 - 0 4 0.0 2 7 9 2 1 1 1 4 -9
+p107
+aVJeff Taylor CHA 03/29/2013 CHA @ NYK L 19 8 3 4 75.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 2 2 -4
+p108
+aVJeff Adrien CHA 03/27/2013 CHA vs. ORL W 9 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -16
+p109
+aVJannero Pargo CHA 03/27/2013 CHA vs. ORL W 19 5 2 6 33.3 1 5 20.0 0 0 - 1 0 1 3 1 0 1 1 1
+p110
+aVJosh McRoberts CHA 03/27/2013 CHA vs. ORL W 33 6 3 4 75.0 0 1 0.0 0 0 - 1 7 8 3 0 1 0 1 13
+p111
+aVKemba Walker CHA 03/27/2013 CHA vs. ORL W 44 34 13 23 56.5 2 6 33.3 6 9 66.7 3 4 7 9 2 2 2 0 15
+p112
+aVBen Gordon CHA 03/27/2013 CHA vs. ORL W 19 8 2 5 40.0 2 4 50.0 2 2 100.0 0 3 3 3 0 1 2 2 -7
+p113
+aVBismack Biyombo CHA 03/27/2013 CHA vs. ORL W 34 11 5 9 55.6 0 0 - 1 5 20.0 2 5 7 3 1 3 1 3 23
+p114
+aVMichael Kidd-Gilchrist CHA 03/27/2013 CHA vs. ORL W 20 6 2 9 22.2 0 0 - 2 2 100.0 1 5 6 0 0 1 0 2 2
+p115
+aVGerald Henderson CHA 03/27/2013 CHA vs. ORL W 42 34 12 18 66.7 1 2 50.0 9 10 90.0 1 6 7 2 1 0 3 1 7
+p116
+aVJeff Taylor CHA 03/27/2013 CHA vs. ORL W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 9
+p117
+aVByron Mullens CHA 03/27/2013 CHA vs. ORL W 14 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 -17
+p118
+aVJeff Adrien CHA 03/24/2013 CHA @ MIA L 14 3 0 3 0.0 0 0 - 3 4 75.0 2 1 3 1 1 0 0 1 -11
+p119
+aVReggie Williams CHA 03/24/2013 CHA @ MIA L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p120
+aVBismack Biyombo CHA 03/24/2013 CHA @ MIA L 37 2 1 4 25.0 0 0 - 0 0 - 2 9 11 0 1 1 2 4 -8
+p121
+aVKemba Walker CHA 03/24/2013 CHA @ MIA L 36 20 7 21 33.3 2 7 28.6 4 6 66.7 1 5 6 3 1 0 2 2 -10
+p122
+aVByron Mullens CHA 03/24/2013 CHA @ MIA L 23 5 2 8 25.0 1 5 20.0 0 0 - 1 1 2 0 0 0 2 4 -25
+p123
+aVMichael Kidd-Gilchrist CHA 03/24/2013 CHA @ MIA L 32 13 5 8 62.5 0 0 - 3 4 75.0 3 7 10 2 0 1 1 1 -8
+p124
+aVJeff Taylor CHA 03/24/2013 CHA @ MIA L 27 8 4 12 33.3 0 4 0.0 0 0 - 3 2 5 1 1 0 1 4 -29
+p125
+aVJannero Pargo CHA 03/24/2013 CHA @ MIA L 17 5 2 7 28.6 1 5 20.0 0 0 - 0 1 1 1 1 0 3 0 -31
+p126
+aVBen Gordon CHA 03/24/2013 CHA @ MIA L 16 0 0 7 0.0 0 3 0.0 0 0 - 0 2 2 0 1 0 0 2 -22
+p127
+aVGerald Henderson CHA 03/24/2013 CHA @ MIA L 36 18 8 18 44.4 0 0 - 2 4 50.0 2 3 5 1 2 0 2 2 -11
+p128
+aVJosh McRoberts CHA 03/23/2013 CHA vs. DET L 25 4 2 4 50.0 0 0 - 0 0 - 2 7 9 1 2 0 1 0 -10
+p129
+aVByron Mullens CHA 03/23/2013 CHA vs. DET L 22 0 0 5 0.0 0 2 0.0 0 0 - 0 5 5 1 0 1 3 2 3
+p130
+aVJannero Pargo CHA 03/23/2013 CHA vs. DET L 29 16 7 14 50.0 2 7 28.6 0 0 - 0 1 1 3 1 1 1 1 -6
+p131
+aVBen Gordon CHA 03/23/2013 CHA vs. DET L 15 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 1 1 0 3 1 4
+p132
+aVJeff Taylor CHA 03/23/2013 CHA vs. DET L 17 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 1 1 0 0 1 -5
+p133
+aVBismack Biyombo CHA 03/23/2013 CHA vs. DET L 35 12 3 3 100.0 0 0 - 6 6 100.0 2 8 10 1 1 2 0 3 -2
+p134
+aVMichael Kidd-Gilchrist CHA 03/23/2013 CHA vs. DET L 20 11 4 7 57.1 0 0 - 3 3 100.0 0 3 3 2 0 3 0 0 8
+p135
+aVJeff Adrien CHA 03/23/2013 CHA vs. DET L 5 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 1 0 3
+p136
+aVKemba Walker CHA 03/23/2013 CHA vs. DET L 37 25 10 20 50.0 0 2 0.0 5 5 100.0 0 2 2 3 4 0 4 3 -2
+p137
+aVGerald Henderson CHA 03/23/2013 CHA vs. DET L 33 15 4 10 40.0 0 0 - 7 9 77.8 2 4 6 1 0 2 1 2 2
+p138
+aVJosh McRoberts CHA 03/20/2013 CHA vs. TOR W 32 12 5 9 55.6 0 0 - 2 5 40.0 2 10 12 3 0 0 3 3 -2
+p139
+aVBismack Biyombo CHA 03/20/2013 CHA vs. TOR W 32 4 2 6 33.3 0 0 - 0 0 - 3 0 3 0 0 2 1 2 -3
+p140
+aVBen Gordon CHA 03/20/2013 CHA vs. TOR W 26 16 5 11 45.5 2 5 40.0 4 5 80.0 0 0 0 1 0 0 1 3 13
+p141
+aVKemba Walker CHA 03/20/2013 CHA vs. TOR W 36 14 4 14 28.6 0 3 0.0 6 6 100.0 2 5 7 8 4 0 1 6 -2
+p142
+aVJannero Pargo CHA 03/20/2013 CHA vs. TOR W 12 11 4 5 80.0 3 4 75.0 0 0 - 0 1 1 1 2 0 0 5 10
+p143
+aVByron Mullens CHA 03/20/2013 CHA vs. TOR W 28 25 7 11 63.6 3 4 75.0 8 12 66.7 1 4 5 2 2 3 0 2 13
+p144
+aVJeff Taylor CHA 03/20/2013 CHA vs. TOR W 16 2 0 4 0.0 0 0 - 2 4 50.0 2 0 2 0 1 0 0 2 11
+p145
+aVMichael Kidd-Gilchrist CHA 03/20/2013 CHA vs. TOR W 20 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 1 0 0 3 1 -11
+p146
+aVGerald Henderson CHA 03/20/2013 CHA vs. TOR W 39 21 8 14 57.1 0 0 - 5 6 83.3 2 5 7 5 1 2 3 2 1
+p147
+aVKemba Walker CHA 03/18/2013 CHA vs. WAS W 34 18 8 14 57.1 0 2 0.0 2 4 50.0 1 2 3 7 3 0 0 1 3
+p148
+aVBismack Biyombo CHA 03/18/2013 CHA vs. WAS W 18 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -5
+p149
+aVJeff Adrien CHA 03/18/2013 CHA vs. WAS W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 0
+p150
+aVGerald Henderson CHA 03/18/2013 CHA vs. WAS W 45 27 8 16 50.0 1 2 50.0 10 11 90.9 1 2 3 8 1 1 2 2 5
+p151
+aVBrendan Haywood CHA 03/18/2013 CHA vs. WAS W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 2 0 1 4
+p152
+aVJosh McRoberts CHA 03/18/2013 CHA vs. WAS W 36 17 5 11 45.5 0 1 0.0 7 9 77.8 3 4 7 3 2 0 2 3 1
+p153
+aVByron Mullens CHA 03/18/2013 CHA vs. WAS W 30 12 4 8 50.0 2 6 33.3 2 4 50.0 0 5 5 5 0 1 0 3 10
+p154
+aVMichael Kidd-Gilchrist CHA 03/18/2013 CHA vs. WAS W 25 11 5 9 55.6 0 0 - 1 1 100.0 2 5 7 2 1 0 0 1 3
+p155
+aVBen Gordon CHA 03/18/2013 CHA vs. WAS W 21 19 7 10 70.0 3 5 60.0 2 2 100.0 0 3 3 0 0 0 3 4 5
+p156
+aVJannero Pargo CHA 03/18/2013 CHA vs. WAS W 19 11 4 10 40.0 3 6 50.0 0 0 - 1 0 1 6 2 0 3 3 -1
+p157
+aVKemba Walker CHA 03/16/2013 CHA @ BOS L 27 14 6 13 46.2 2 5 40.0 0 1 0.0 0 0 0 4 1 0 2 1 -20
+p158
+aVJosh McRoberts CHA 03/16/2013 CHA @ BOS L 38 9 4 9 44.4 0 3 0.0 1 1 100.0 1 9 10 3 2 2 0 5 -4
+p159
+aVJannero Pargo CHA 03/16/2013 CHA @ BOS L 21 18 5 12 41.7 4 6 66.7 4 4 100.0 1 1 2 4 1 1 2 1 3
+p160
+aVByron Mullens CHA 03/16/2013 CHA @ BOS L 17 8 3 5 60.0 1 2 50.0 1 5 20.0 1 4 5 2 0 0 0 2 -15
+p161
+aVGerald Henderson CHA 03/16/2013 CHA @ BOS L 34 16 6 12 50.0 0 0 - 4 4 100.0 0 1 1 4 1 1 1 1 -6
+p162
+aVJeff Taylor CHA 03/16/2013 CHA @ BOS L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -10
+p163
+aVBen Gordon CHA 03/16/2013 CHA @ BOS L 25 8 4 11 36.4 0 4 0.0 0 0 - 0 4 4 3 0 0 4 1 -9
+p164
+aVMichael Kidd-Gilchrist CHA 03/16/2013 CHA @ BOS L 25 6 3 7 42.9 0 0 - 0 0 - 0 2 2 2 0 0 0 2 -9
+p165
+aVBismack Biyombo CHA 03/16/2013 CHA @ BOS L 31 5 2 3 66.7 0 0 - 1 2 50.0 3 6 9 0 1 3 2 3 -2
+p166
+aVJeff Adrien CHA 03/16/2013 CHA @ BOS L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 1 -13
+p167
+aVGerald Henderson CHA 03/15/2013 CHA @ TOR L 43 22 8 17 47.1 1 2 50.0 5 6 83.3 2 5 7 2 3 0 1 2 -6
+p168
+aVByron Mullens CHA 03/15/2013 CHA @ TOR L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -5
+p169
+aVJeff Taylor CHA 03/15/2013 CHA @ TOR L 25 8 2 3 66.7 1 1 100.0 3 4 75.0 2 2 4 0 0 0 2 2 -6
+p170
+aVKemba Walker CHA 03/15/2013 CHA @ TOR L 41 20 5 17 29.4 2 8 25.0 8 12 66.7 1 3 4 5 3 0 3 3 -9
+p171
+aVJannero Pargo CHA 03/15/2013 CHA @ TOR L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 1
+p172
+aVMichael Kidd-Gilchrist CHA 03/15/2013 CHA @ TOR L 28 4 2 12 16.7 0 0 - 0 2 0.0 2 1 3 0 2 0 2 4 -14
+p173
+aVBen Gordon CHA 03/15/2013 CHA @ TOR L 26 10 4 16 25.0 2 7 28.6 0 0 - 1 1 2 1 0 0 1 1 -12
+p174
+aVJosh McRoberts CHA 03/15/2013 CHA @ TOR L 38 10 4 9 44.4 0 2 0.0 2 3 66.7 2 7 9 3 3 2 2 2 -11
+p175
+aVJeff Adrien CHA 03/15/2013 CHA @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p176
+aVReggie Williams CHA 03/15/2013 CHA @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p177
+aVBismack Biyombo CHA 03/15/2013 CHA @ TOR L 23 4 1 3 33.3 0 0 - 2 2 100.0 4 1 5 1 2 1 1 1 -3
+p178
+aVByron Mullens CHA 03/12/2013 CHA vs. BOS W 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 3 0 0 0 0 0
+p179
+aVBismack Biyombo CHA 03/12/2013 CHA vs. BOS W 21 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 8
+p180
+aVJosh McRoberts CHA 03/12/2013 CHA vs. BOS W 31 13 5 6 83.3 1 1 100.0 2 2 100.0 3 7 10 2 1 0 1 3 21
+p181
+aVBen Gordon CHA 03/12/2013 CHA vs. BOS W 22 17 5 13 38.5 3 9 33.3 4 4 100.0 1 1 2 2 2 0 0 3 20
+p182
+aVJeff Adrien CHA 03/12/2013 CHA vs. BOS W 13 8 3 6 50.0 0 0 - 2 2 100.0 2 5 7 1 1 0 2 3 13
+p183
+aVKemba Walker CHA 03/12/2013 CHA vs. BOS W 34 10 4 11 36.4 0 2 0.0 2 4 50.0 1 2 3 4 4 0 1 0 16
+p184
+aVBrendan Haywood CHA 03/12/2013 CHA vs. BOS W 20 1 0 3 0.0 0 0 - 1 2 50.0 3 2 5 0 0 0 0 2 10
+p185
+aVJeff Taylor CHA 03/12/2013 CHA vs. BOS W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p186
+aVGerald Henderson CHA 03/12/2013 CHA vs. BOS W 37 35 11 19 57.9 1 2 50.0 12 12 100.0 2 0 2 3 0 1 5 3 17
+p187
+aVReggie Williams CHA 03/12/2013 CHA vs. BOS W 14 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 3 0 0 0 0 10
+p188
+aVMichael Kidd-Gilchrist CHA 03/12/2013 CHA vs. BOS W 32 9 4 8 50.0 0 0 - 1 4 25.0 2 6 8 2 0 2 1 2 12
+p189
+aVBen Gordon CHA 03/09/2013 CHA @ WAS L 25 13 4 10 40.0 1 3 33.3 4 4 100.0 0 1 1 1 0 0 2 1 -8
+p190
+aVBrendan Haywood CHA 03/09/2013 CHA @ WAS L 29 10 5 7 71.4 0 0 - 0 2 0.0 2 5 7 0 0 0 0 3 -6
+p191
+aVMichael Kidd-Gilchrist CHA 03/09/2013 CHA @ WAS L 19 2 1 4 25.0 0 0 - 0 0 - 0 3 3 4 2 0 1 2 -1
+p192
+aVJeff Adrien CHA 03/09/2013 CHA @ WAS L 23 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 2 0 0 2 4 -6
+p193
+aVGerald Henderson CHA 03/09/2013 CHA @ WAS L 39 17 5 15 33.3 0 1 0.0 7 8 87.5 0 2 2 2 1 1 1 1 -21
+p194
+aVByron Mullens CHA 03/09/2013 CHA @ WAS L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 1
+p195
+aVJosh McRoberts CHA 03/09/2013 CHA @ WAS L 22 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 6 -13
+p196
+aVBismack Biyombo CHA 03/09/2013 CHA @ WAS L 17 2 1 6 16.7 0 0 - 0 0 - 2 5 7 1 1 1 0 2 -10
+p197
+aVReggie Williams CHA 03/09/2013 CHA @ WAS L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 2 0 -2
+p198
+aVKemba Walker CHA 03/09/2013 CHA @ WAS L 44 29 11 25 44.0 3 9 33.3 4 5 80.0 0 3 3 6 4 0 3 1 -15
+p199
+aVJeff Taylor CHA 03/09/2013 CHA @ WAS L 14 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p200
+aVJeff Taylor CHA 03/08/2013 CHA vs. OKC L 18 8 3 8 37.5 1 3 33.3 1 2 50.0 0 0 0 2 0 0 0 1 -2
+p201
+aVBrendan Haywood CHA 03/08/2013 CHA vs. OKC L 14 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -6
+p202
+aVBismack Biyombo CHA 03/08/2013 CHA vs. OKC L 29 4 2 5 40.0 0 0 - 0 2 0.0 3 2 5 0 0 2 1 2 -9
+p203
+aVBen Gordon CHA 03/08/2013 CHA vs. OKC L 28 19 7 18 38.9 3 8 37.5 2 3 66.7 1 3 4 3 0 0 1 3 -12
+p204
+aVJeff Adrien CHA 03/08/2013 CHA vs. OKC L 16 12 5 7 71.4 0 0 - 2 4 50.0 3 3 6 1 0 1 0 0 -7
+p205
+aVJosh McRoberts CHA 03/08/2013 CHA vs. OKC L 15 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 1 1 0 1 0 -14
+p206
+aVKemba Walker CHA 03/08/2013 CHA vs. OKC L 31 11 3 12 25.0 0 3 0.0 5 6 83.3 2 3 5 4 0 1 2 2 -25
+p207
+aVGerald Henderson CHA 03/08/2013 CHA vs. OKC L 30 21 7 13 53.8 1 1 100.0 6 6 100.0 2 3 5 5 0 0 0 2 -20
+p208
+aVMichael Kidd-Gilchrist CHA 03/08/2013 CHA vs. OKC L 22 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 1 1 0 1 -7
+p209
+aVReggie Williams CHA 03/08/2013 CHA vs. OKC L 20 5 2 6 33.3 1 4 25.0 0 0 - 1 4 5 5 1 0 2 1 0
+p210
+aVByron Mullens CHA 03/08/2013 CHA vs. OKC L 17 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 2 0 0 1 1 -8
+p211
+aVJeff Adrien CHA 03/06/2013 CHA vs. BKN L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 1 0 2 -4
+p212
+aVKemba Walker CHA 03/06/2013 CHA vs. BKN L 32 10 4 12 33.3 1 3 33.3 1 1 100.0 0 2 2 8 3 1 3 2 -21
+p213
+aVBismack Biyombo CHA 03/06/2013 CHA vs. BKN L 16 7 3 4 75.0 0 0 - 1 2 50.0 0 3 3 0 0 1 1 3 -1
+p214
+aVJeff Taylor CHA 03/06/2013 CHA vs. BKN L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p215
+aVMichael Kidd-Gilchrist CHA 03/06/2013 CHA vs. BKN L 32 17 8 13 61.5 0 0 - 1 1 100.0 1 4 5 1 2 0 1 5 -22
+p216
+aVBrendan Haywood CHA 03/06/2013 CHA vs. BKN L 20 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -11
+p217
+aVByron Mullens CHA 03/06/2013 CHA vs. BKN L 13 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -9
+p218
+aVJosh McRoberts CHA 03/06/2013 CHA vs. BKN L 25 2 1 5 20.0 0 1 0.0 0 2 0.0 3 3 6 5 0 0 1 2 -8
+p219
+aVRamon Sessions CHA 03/06/2013 CHA vs. BKN L 20 9 3 10 30.0 1 3 33.3 2 2 100.0 1 2 3 2 1 0 1 0 4
+p220
+aVGerald Henderson CHA 03/06/2013 CHA vs. BKN L 33 11 4 13 30.8 0 2 0.0 3 4 75.0 0 3 3 3 1 0 1 3 -23
+p221
+aVBen Gordon CHA 03/06/2013 CHA vs. BKN L 26 16 6 15 40.0 2 6 33.3 2 3 66.7 0 2 2 0 1 0 3 2 -13
+p222
+aVJeff Adrien CHA 03/04/2013 CHA @ POR L 22 4 2 5 40.0 0 0 - 0 0 - 3 2 5 1 0 0 1 2 -3
+p223
+aVKemba Walker CHA 03/04/2013 CHA @ POR L 36 15 5 20 25.0 0 4 0.0 5 5 100.0 1 3 4 11 3 0 2 2 -12
+p224
+aVMichael Kidd-Gilchrist CHA 03/04/2013 CHA @ POR L 28 17 8 11 72.7 0 0 - 1 2 50.0 5 5 10 0 0 0 0 2 -10
+p225
+aVJeff Taylor CHA 03/04/2013 CHA @ POR L 14 4 1 2 50.0 0 0 - 2 3 66.7 1 0 1 0 0 0 0 0 -6
+p226
+aVByron Mullens CHA 03/04/2013 CHA @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p227
+aVBen Gordon CHA 03/04/2013 CHA @ POR L 16 14 6 12 50.0 1 2 50.0 1 2 50.0 1 1 2 3 0 0 2 1 -9
+p228
+aVRamon Sessions CHA 03/04/2013 CHA @ POR L 27 18 8 11 72.7 0 1 0.0 2 3 66.7 0 0 0 3 1 0 1 1 -9
+p229
+aVJosh McRoberts CHA 03/04/2013 CHA @ POR L 23 9 4 9 44.4 0 1 0.0 1 1 100.0 3 5 8 3 0 1 1 4 -9
+p230
+aVDeSagana Diop CHA 03/04/2013 CHA @ POR L 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -8
+p231
+aVGerald Henderson CHA 03/04/2013 CHA @ POR L 28 14 6 16 37.5 0 2 0.0 2 2 100.0 2 1 3 0 0 0 1 2 -5
+p232
+aVBismack Biyombo CHA 03/04/2013 CHA @ POR L 26 8 4 10 40.0 0 0 - 0 0 - 5 4 9 0 1 0 0 1 -9
+p233
+aVJosh McRoberts CHA 03/03/2013 CHA @ SAC L 30 6 3 12 25.0 0 5 0.0 0 0 - 0 6 6 2 1 2 3 1 -16
+p234
+aVDeSagana Diop CHA 03/03/2013 CHA @ SAC L 24 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 1 0 3 2 -1
+p235
+aVReggie Williams CHA 03/03/2013 CHA @ SAC L 12 9 4 6 66.7 1 3 33.3 0 0 - 0 1 1 2 0 0 0 0 2
+p236
+aVJeff Adrien CHA 03/03/2013 CHA @ SAC L 16 3 0 3 0.0 0 0 - 3 4 75.0 2 3 5 0 0 0 0 2 -32
+p237
+aVByron Mullens CHA 03/03/2013 CHA @ SAC L 19 12 5 11 45.5 2 5 40.0 0 0 - 0 2 2 2 1 0 0 4 -10
+p238
+aVRamon Sessions CHA 03/03/2013 CHA @ SAC L 17 4 0 5 0.0 0 1 0.0 4 4 100.0 0 0 0 2 0 0 0 1 -27
+p239
+aVBismack Biyombo CHA 03/03/2013 CHA @ SAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -13
+p240
+aVBen Gordon CHA 03/03/2013 CHA @ SAC L 13 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 -16
+p241
+aVMichael Kidd-Gilchrist CHA 03/03/2013 CHA @ SAC L 28 10 4 8 50.0 0 0 - 2 2 100.0 1 5 6 1 0 1 2 0 -12
+p242
+aVJeff Taylor CHA 03/03/2013 CHA @ SAC L 19 9 3 8 37.5 1 3 33.3 2 4 50.0 0 0 0 0 1 0 1 2 -18
+p243
+aVKemba Walker CHA 03/03/2013 CHA @ SAC L 26 11 2 7 28.6 1 4 25.0 6 9 66.7 0 0 0 6 2 0 2 0 -19
+p244
+aVGerald Henderson CHA 03/03/2013 CHA @ SAC L 28 12 4 9 44.4 0 1 0.0 4 4 100.0 0 3 3 3 0 0 2 2 -18
+p245
+aVGerald Henderson CHA 03/01/2013 CHA @ UTA L 28 5 2 9 22.2 0 0 - 1 4 25.0 1 1 2 3 0 2 1 4 -7
+p246
+aVReggie Williams CHA 03/01/2013 CHA @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p247
+aVBismack Biyombo CHA 03/01/2013 CHA @ UTA L 19 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 2 -4
+p248
+aVBen Gordon CHA 03/01/2013 CHA @ UTA L 17 5 2 8 25.0 1 3 33.3 0 0 - 0 3 3 1 1 0 1 2 -19
+p249
+aVJosh McRoberts CHA 03/01/2013 CHA @ UTA L 21 7 3 4 75.0 1 2 50.0 0 0 - 1 1 2 2 2 1 1 1 -9
+p250
+aVBrendan Haywood CHA 03/01/2013 CHA @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p251
+aVByron Mullens CHA 03/01/2013 CHA @ UTA L 23 12 5 14 35.7 2 5 40.0 0 0 - 3 4 7 0 0 0 1 3 -12
+p252
+aVRamon Sessions CHA 03/01/2013 CHA @ UTA L 18 11 4 8 50.0 0 2 0.0 3 4 75.0 0 0 0 1 1 0 5 1 -13
+p253
+aVDeSagana Diop CHA 03/01/2013 CHA @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p254
+aVMichael Kidd-Gilchrist CHA 03/01/2013 CHA @ UTA L 27 8 4 11 36.4 0 0 - 0 0 - 1 3 4 0 2 1 0 2 -10
+p255
+aVJeff Adrien CHA 03/01/2013 CHA @ UTA L 24 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 0 2 1 0 2 -23
+p256
+aVJeff Taylor CHA 03/01/2013 CHA @ UTA L 20 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 0 0 1 2 -20
+p257
+aVKemba Walker CHA 03/01/2013 CHA @ UTA L 33 8 4 13 30.8 0 3 0.0 0 0 - 1 1 2 7 2 0 2 1 -20
+p258
+aVRamon Sessions CHA 02/26/2013 CHA @ LAC L 26 11 3 7 42.9 0 0 - 5 6 83.3 0 0 0 3 0 0 2 1 -11
+p259
+aVJosh McRoberts CHA 02/26/2013 CHA @ LAC L 7 10 3 3 100.0 2 2 100.0 2 2 100.0 1 2 3 0 0 0 0 2 -5
+p260
+aVMichael Kidd-Gilchrist CHA 02/26/2013 CHA @ LAC L 22 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 1 1 0 -11
+p261
+aVBrendan Haywood CHA 02/26/2013 CHA @ LAC L 18 0 0 3 0.0 0 0 - 0 0 - 0 4 4 0 0 2 0 4 -4
+p262
+aVKemba Walker CHA 02/26/2013 CHA @ LAC L 34 15 5 15 33.3 3 5 60.0 2 2 100.0 1 4 5 5 4 0 3 0 -17
+p263
+aVReggie Williams CHA 02/26/2013 CHA @ LAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 0
+p264
+aVGerald Henderson CHA 02/26/2013 CHA @ LAC L 35 24 12 19 63.2 0 2 0.0 0 0 - 0 2 2 3 3 0 2 3 -21
+p265
+aVByron Mullens CHA 02/26/2013 CHA @ LAC L 27 13 6 13 46.2 1 4 25.0 0 0 - 2 6 8 1 0 0 5 4 -13
+p266
+aVJeff Adrien CHA 02/26/2013 CHA @ LAC L 16 2 1 7 14.3 0 0 - 0 0 - 2 2 4 0 1 0 1 1 -8
+p267
+aVBismack Biyombo CHA 02/26/2013 CHA @ LAC L 29 2 1 4 25.0 0 0 - 0 0 - 0 6 6 0 0 0 1 5 -14
+p268
+aVJeff Taylor CHA 02/26/2013 CHA @ LAC L 22 7 2 7 28.6 0 3 0.0 3 4 75.0 1 2 3 0 1 1 1 0 -6
+p269
+aVMichael Kidd-Gilchrist CHA 02/23/2013 CHA vs. DEN L 21 12 4 11 36.4 0 0 - 4 4 100.0 0 4 4 3 0 1 3 0 0
+p270
+aVKemba Walker CHA 02/23/2013 CHA vs. DEN L 32 24 9 14 64.3 1 2 50.0 5 6 83.3 0 2 2 5 2 0 3 4 -1
+p271
+aVBismack Biyombo CHA 02/23/2013 CHA vs. DEN L 37 9 3 8 37.5 0 0 - 3 4 75.0 5 4 9 0 0 2 2 3 -16
+p272
+aVRamon Sessions CHA 02/23/2013 CHA vs. DEN L 22 9 4 8 50.0 0 1 0.0 1 2 50.0 0 1 1 4 0 0 1 2 -14
+p273
+aVJosh McRoberts CHA 02/23/2013 CHA vs. DEN L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 0
+p274
+aVGerald Henderson CHA 02/23/2013 CHA vs. DEN L 32 19 7 11 63.6 1 1 100.0 4 4 100.0 1 3 4 2 0 2 2 5 -5
+p275
+aVByron Mullens CHA 02/23/2013 CHA vs. DEN L 28 4 1 9 11.1 0 3 0.0 2 4 50.0 1 2 3 3 2 0 2 2 -20
+p276
+aVBen Gordon CHA 02/23/2013 CHA vs. DEN L 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -6
+p277
+aVBrendan Haywood CHA 02/23/2013 CHA vs. DEN L 8 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 1 1 0 1 1
+p278
+aVJeff Taylor CHA 02/23/2013 CHA vs. DEN L 33 18 7 13 53.8 0 3 0.0 4 6 66.7 2 1 3 2 2 2 4 2 -14
+p279
+aVJeff Adrien CHA 02/23/2013 CHA vs. DEN L 10 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 2 0 1 5
+p280
+aVBismack Biyombo CHA 02/22/2013 CHA vs. CHI L 36 7 3 4 75.0 0 0 - 1 2 50.0 6 6 12 0 0 3 1 2 -20
+p281
+aVJeff Adrien CHA 02/22/2013 CHA vs. CHI L 21 7 3 5 60.0 0 0 - 1 2 50.0 1 0 1 2 0 1 0 5 -1
+p282
+aVKemba Walker CHA 02/22/2013 CHA vs. CHI L 36 27 9 17 52.9 4 6 66.7 5 5 100.0 0 5 5 1 1 0 2 1 -12
+p283
+aVByron Mullens CHA 02/22/2013 CHA vs. CHI L 27 2 1 12 8.3 0 4 0.0 0 0 - 1 5 6 3 0 0 3 1 -31
+p284
+aVGerald Henderson CHA 02/22/2013 CHA vs. CHI L 27 9 3 11 27.3 0 2 0.0 3 5 60.0 0 4 4 1 0 1 0 3 -10
+p285
+aVReggie Williams CHA 02/22/2013 CHA vs. CHI L 11 0 0 2 0.0 0 2 0.0 0 2 0.0 0 0 0 1 0 0 1 1 -12
+p286
+aVRamon Sessions CHA 02/22/2013 CHA vs. CHI L 23 5 0 9 0.0 0 1 0.0 5 8 62.5 1 1 2 2 0 0 1 0 -11
+p287
+aVJeff Taylor CHA 02/22/2013 CHA vs. CHI L 24 8 4 5 80.0 0 1 0.0 0 2 0.0 1 2 3 2 0 1 0 2 -16
+p288
+aVMichael Kidd-Gilchrist CHA 02/22/2013 CHA vs. CHI L 25 10 2 8 25.0 0 0 - 6 9 66.7 4 3 7 0 1 0 3 1 -26
+p289
+aVBrendan Haywood CHA 02/22/2013 CHA vs. CHI L 9 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 0 0 1 1 -11
+p290
+aVBen Gordon CHA 02/20/2013 CHA vs. DET L 11 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 1 0 0 0 1 0
+p291
+aVJeff Adrien CHA 02/20/2013 CHA vs. DET L 18 8 3 5 60.0 0 0 - 2 2 100.0 3 0 3 2 1 2 0 0 11
+p292
+aVMichael Kidd-Gilchrist CHA 02/20/2013 CHA vs. DET L 30 11 5 10 50.0 0 0 - 1 2 50.0 3 3 6 3 0 3 1 2 0
+p293
+aVGerald Henderson CHA 02/20/2013 CHA vs. DET L 35 13 4 14 28.6 1 3 33.3 4 4 100.0 1 6 7 5 0 0 1 2 -6
+p294
+aVKemba Walker CHA 02/20/2013 CHA vs. DET L 41 24 8 19 42.1 4 9 44.4 4 4 100.0 1 3 4 3 0 2 5 1 -5
+p295
+aVBismack Biyombo CHA 02/20/2013 CHA vs. DET L 21 0 0 4 0.0 0 0 - 0 0 - 3 5 8 2 0 1 0 1 -12
+p296
+aVJeff Taylor CHA 02/20/2013 CHA vs. DET L 6 3 1 3 33.3 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -8
+p297
+aVBrendan Haywood CHA 02/20/2013 CHA vs. DET L 18 2 1 4 25.0 0 0 - 0 1 0.0 2 3 5 0 0 1 0 3 1
+p298
+aVByron Mullens CHA 02/20/2013 CHA vs. DET L 29 15 6 12 50.0 3 5 60.0 0 0 - 2 4 6 1 0 0 0 5 -15
+p299
+aVRamon Sessions CHA 02/20/2013 CHA vs. DET L 32 18 6 11 54.5 2 3 66.7 4 6 66.7 1 5 6 8 2 0 1 2 4
+p300
+aVBismack Biyombo CHA 02/19/2013 CHA @ ORL W 31 7 2 3 66.7 0 0 - 3 4 75.0 2 3 5 0 0 2 1 5 9
+p301
+aVRamon Sessions CHA 02/19/2013 CHA @ ORL W 29 10 2 9 22.2 1 3 33.3 5 8 62.5 1 3 4 4 0 0 3 2 2
+p302
+aVJeff Taylor CHA 02/19/2013 CHA @ ORL W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 8
+p303
+aVKemba Walker CHA 02/19/2013 CHA @ ORL W 34 24 9 16 56.3 3 6 50.0 3 4 75.0 0 4 4 7 3 0 4 2 19
+p304
+aVBen Gordon CHA 02/19/2013 CHA @ ORL W 17 10 4 11 36.4 2 6 33.3 0 0 - 0 0 0 0 2 0 3 2 -5
+p305
+aVByron Mullens CHA 02/19/2013 CHA @ ORL W 41 20 8 17 47.1 2 6 33.3 2 2 100.0 1 11 12 1 1 0 2 2 19
+p306
+aVBrendan Haywood CHA 02/19/2013 CHA @ ORL W 17 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 1 0 0 4
+p307
+aVMichael Kidd-Gilchrist CHA 02/19/2013 CHA @ ORL W 17 6 3 4 75.0 0 0 - 0 1 0.0 0 3 3 2 0 2 0 1 0
+p308
+aVJeff Adrien CHA 02/19/2013 CHA @ ORL W 7 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -6
+p309
+aVGerald Henderson CHA 02/19/2013 CHA @ ORL W 37 24 8 16 50.0 1 2 50.0 7 8 87.5 2 8 10 3 0 0 1 2 15
+p310
+aVReggie Williams CHA 02/13/2013 CHA @ IND L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p311
+aVBrendan Haywood CHA 02/13/2013 CHA @ IND L 10 0 0 6 0.0 0 0 - 0 2 0.0 2 1 3 0 0 0 2 1 1
+p312
+aVByron Mullens CHA 02/13/2013 CHA @ IND L 35 19 9 19 47.4 1 5 20.0 0 0 - 0 3 3 1 0 0 2 2 -23
+p313
+aVJeff Adrien CHA 02/13/2013 CHA @ IND L 15 2 1 4 25.0 0 0 - 0 0 - 3 7 10 0 0 1 3 4 -3
+p314
+aVBen Gordon CHA 02/13/2013 CHA @ IND L 16 8 2 9 22.2 1 3 33.3 3 3 100.0 0 2 2 1 0 0 1 0 -6
+p315
+aVMichael Kidd-Gilchrist CHA 02/13/2013 CHA @ IND L 19 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 0 1 2 0 1 -7
+p316
+aVJeff Taylor CHA 02/13/2013 CHA @ IND L 21 6 2 4 50.0 1 1 100.0 1 2 50.0 1 2 3 1 0 0 1 2 -8
+p317
+aVGerald Henderson CHA 02/13/2013 CHA @ IND L 30 14 5 10 50.0 0 0 - 4 5 80.0 1 1 2 2 1 0 1 2 -19
+p318
+aVKemba Walker CHA 02/13/2013 CHA @ IND L 30 8 3 9 33.3 1 2 50.0 1 2 50.0 0 1 1 6 1 1 1 3 -18
+p319
+aVRamon Sessions CHA 02/13/2013 CHA @ IND L 25 13 3 9 33.3 1 2 50.0 6 6 100.0 1 2 3 1 2 0 3 1 -13
+p320
+aVBismack Biyombo CHA 02/13/2013 CHA @ IND L 36 5 1 7 14.3 0 0 - 3 6 50.0 8 8 16 2 0 4 2 4 -23
+p321
+aVRamon Sessions CHA 02/11/2013 CHA vs. BOS W 31 19 6 11 54.5 1 2 50.0 6 8 75.0 0 2 2 1 1 0 1 3 -10
+p322
+aVJeff Adrien CHA 02/11/2013 CHA vs. BOS W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -2
+p323
+aVKemba Walker CHA 02/11/2013 CHA vs. BOS W 36 18 6 15 40.0 1 3 33.3 5 6 83.3 2 4 6 6 3 0 2 1 11
+p324
+aVGerald Henderson CHA 02/11/2013 CHA vs. BOS W 35 16 6 15 40.0 1 2 50.0 3 5 60.0 1 3 4 4 0 1 1 1 6
+p325
+aVBen Gordon CHA 02/11/2013 CHA vs. BOS W 14 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 1 1 0 2 0 -10
+p326
+aVByron Mullens CHA 02/11/2013 CHA vs. BOS W 43 25 10 16 62.5 4 5 80.0 1 4 25.0 5 13 18 4 0 0 3 4 5
+p327
+aVBismack Biyombo CHA 02/11/2013 CHA vs. BOS W 36 4 2 5 40.0 0 0 - 0 0 - 1 7 8 1 0 4 0 1 13
+p328
+aVBrendan Haywood CHA 02/11/2013 CHA vs. BOS W 12 0 0 0 - 0 0 - 0 2 0.0 0 4 4 2 1 1 0 3 -10
+p329
+aVMichael Kidd-Gilchrist CHA 02/11/2013 CHA vs. BOS W 15 5 1 4 25.0 0 0 - 3 3 100.0 1 0 1 1 0 1 0 3 11
+p330
+aVJeff Taylor CHA 02/11/2013 CHA vs. BOS W 14 2 0 2 0.0 0 2 0.0 2 2 100.0 0 2 2 1 0 0 0 2 1
+p331
+aVMichael Kidd-Gilchrist CHA 02/09/2013 CHA @ PHI L 14 2 1 6 16.7 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -13
+p332
+aVJeff Adrien CHA 02/09/2013 CHA @ PHI L 10 2 1 4 25.0 0 0 - 0 0 - 2 4 6 1 0 0 0 1 3
+p333
+aVJeff Taylor CHA 02/09/2013 CHA @ PHI L 10 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 2 0 0 1 1 5
+p334
+aVKemba Walker CHA 02/09/2013 CHA @ PHI L 24 6 2 9 22.2 0 2 0.0 2 2 100.0 2 2 4 4 0 0 1 1 -15
+p335
+aVRamon Sessions CHA 02/09/2013 CHA @ PHI L 34 20 6 16 37.5 1 2 50.0 7 7 100.0 0 3 3 4 1 1 1 3 2
+p336
+aVBismack Biyombo CHA 02/09/2013 CHA @ PHI L 20 0 0 2 0.0 0 0 - 0 0 - 1 6 7 1 1 1 0 3 -17
+p337
+aVBrendan Haywood CHA 02/09/2013 CHA @ PHI L 28 9 3 7 42.9 0 0 - 3 4 75.0 4 3 7 1 1 0 0 2 6
+p338
+aVGerald Henderson CHA 02/09/2013 CHA @ PHI L 34 13 4 12 33.3 0 2 0.0 5 6 83.3 0 1 1 3 1 0 0 1 -18
+p339
+aVByron Mullens CHA 02/09/2013 CHA @ PHI L 38 16 7 19 36.8 0 4 0.0 2 3 66.7 0 3 3 0 1 1 2 0 -14
+p340
+aVBen Gordon CHA 02/09/2013 CHA @ PHI L 28 8 3 10 30.0 1 4 25.0 1 1 100.0 2 2 4 2 0 0 1 4 6
+p341
+aVKemba Walker CHA 02/08/2013 CHA vs. LAL L 38 18 7 15 46.7 1 3 33.3 3 4 75.0 0 1 1 8 2 1 1 2 6
+p342
+aVRamon Sessions CHA 02/08/2013 CHA vs. LAL L 29 12 5 12 41.7 1 2 50.0 1 2 50.0 0 2 2 7 0 0 0 1 -19
+p343
+aVGerald Henderson CHA 02/08/2013 CHA vs. LAL L 39 20 8 17 47.1 0 1 0.0 4 6 66.7 1 9 10 3 3 1 1 5 -2
+p344
+aVByron Mullens CHA 02/08/2013 CHA vs. LAL L 39 20 8 18 44.4 1 4 25.0 3 3 100.0 2 10 12 1 1 1 3 4 1
+p345
+aVMichael Kidd-Gilchrist CHA 02/08/2013 CHA vs. LAL L 25 4 1 5 20.0 0 0 - 2 4 50.0 3 7 10 2 2 1 3 1 -1
+p346
+aVBismack Biyombo CHA 02/08/2013 CHA vs. LAL L 33 8 4 5 80.0 0 0 - 0 0 - 2 8 10 2 1 0 1 3 5
+p347
+aVJeff Taylor CHA 02/08/2013 CHA vs. LAL L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 -11
+p348
+aVBrendan Haywood CHA 02/08/2013 CHA vs. LAL L 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p349
+aVBen Gordon CHA 02/08/2013 CHA vs. LAL L 24 9 4 13 30.8 1 3 33.3 0 0 - 0 0 0 7 0 0 0 1 -11
+p350
+aVBen Gordon CHA 02/06/2013 CHA @ CLE L 15 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 2 0 0 2 3 -19
+p351
+aVTyrus Thomas CHA 02/06/2013 CHA @ CLE L 25 10 5 9 55.6 0 1 0.0 0 1 0.0 0 2 2 1 0 1 1 3 -2
+p352
+aVGerald Henderson CHA 02/06/2013 CHA @ CLE L 29 12 5 10 50.0 0 0 - 2 2 100.0 1 3 4 1 1 1 1 1 -9
+p353
+aVByron Mullens CHA 02/06/2013 CHA @ CLE L 18 15 4 7 57.1 3 5 60.0 4 5 80.0 0 7 7 3 0 1 1 0 -13
+p354
+aVReggie Williams CHA 02/06/2013 CHA @ CLE L 18 4 2 5 40.0 0 2 0.0 0 0 - 0 4 4 2 0 0 1 0 -1
+p355
+aVHakim Warrick CHA 02/06/2013 CHA @ CLE L 6 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p356
+aVBismack Biyombo CHA 02/06/2013 CHA @ CLE L 28 4 2 3 66.7 0 0 - 0 2 0.0 4 4 8 1 0 2 1 1 -7
+p357
+aVJeff Adrien CHA 02/06/2013 CHA @ CLE L 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -12
+p358
+aVKemba Walker CHA 02/06/2013 CHA @ CLE L 24 5 2 11 18.2 0 2 0.0 1 3 33.3 0 0 0 4 1 0 0 0 -21
+p359
+aVJeff Taylor CHA 02/06/2013 CHA @ CLE L 24 10 4 6 66.7 2 2 100.0 0 1 0.0 0 1 1 0 1 0 1 0 -21
+p360
+aVBrendan Haywood CHA 02/06/2013 CHA @ CLE L 17 6 2 4 50.0 0 0 - 2 5 40.0 4 2 6 2 1 0 0 2 -20
+p361
+aVRamon Sessions CHA 02/06/2013 CHA @ CLE L 27 14 5 10 50.0 0 0 - 4 4 100.0 0 3 3 3 1 0 5 0 -9
+p362
+aVByron Mullens CHA 02/04/2013 CHA @ MIA L 28 12 5 14 35.7 2 5 40.0 0 0 - 2 7 9 1 2 1 2 1 -14
+p363
+aVReggie Williams CHA 02/04/2013 CHA @ MIA L 13 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 4
+p364
+aVBismack Biyombo CHA 02/04/2013 CHA @ MIA L 23 2 1 4 25.0 0 0 - 0 0 - 4 5 9 1 0 1 2 3 2
+p365
+aVBrendan Haywood CHA 02/04/2013 CHA @ MIA L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 1
+p366
+aVGerald Henderson CHA 02/04/2013 CHA @ MIA L 38 12 5 11 45.5 0 1 0.0 2 2 100.0 3 4 7 1 2 0 1 2 -9
+p367
+aVRamon Sessions CHA 02/04/2013 CHA @ MIA L 36 18 4 9 44.4 0 1 0.0 10 10 100.0 0 3 3 2 1 1 2 2 -4
+p368
+aVJeff Adrien CHA 02/04/2013 CHA @ MIA L 15 8 4 7 57.1 0 0 - 0 1 0.0 0 3 3 1 0 1 2 2 3
+p369
+aVJeff Taylor CHA 02/04/2013 CHA @ MIA L 28 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 0 1 1 0 4 -10
+p370
+aVKemba Walker CHA 02/04/2013 CHA @ MIA L 22 11 4 9 44.4 1 4 25.0 2 2 100.0 2 1 3 3 2 0 3 5 5
+p371
+aVBen Gordon CHA 02/04/2013 CHA @ MIA L 28 16 6 16 37.5 2 7 28.6 2 3 66.7 1 0 1 4 0 0 1 4 -3
+p372
+aVTyrus Thomas CHA 02/02/2013 CHA @ HOU L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p373
+aVBen Gordon CHA 02/02/2013 CHA @ HOU L 20 11 4 14 28.6 3 8 37.5 0 0 - 0 2 2 3 0 0 1 2 -17
+p374
+aVRamon Sessions CHA 02/02/2013 CHA @ HOU L 29 20 5 9 55.6 1 2 50.0 9 11 81.8 0 2 2 6 0 0 3 1 3
+p375
+aVJeff Taylor CHA 02/02/2013 CHA @ HOU L 29 15 6 8 75.0 2 3 66.7 1 2 50.0 0 3 3 3 1 1 0 3 -4
+p376
+aVBrendan Haywood CHA 02/02/2013 CHA @ HOU L 16 0 0 3 0.0 0 0 - 0 0 - 3 3 6 0 0 0 1 3 -1
+p377
+aVBismack Biyombo CHA 02/02/2013 CHA @ HOU L 32 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 4 0 3 -13
+p378
+aVMichael Kidd-Gilchrist CHA 02/02/2013 CHA @ HOU L 20 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 0 0 1 2 2 -1
+p379
+aVKemba Walker CHA 02/02/2013 CHA @ HOU L 43 24 10 23 43.5 2 6 33.3 2 2 100.0 1 2 3 3 4 1 2 4 -17
+p380
+aVGerald Henderson CHA 02/02/2013 CHA @ HOU L 24 15 5 8 62.5 0 0 - 5 5 100.0 0 3 3 0 2 0 1 3 -13
+p381
+aVJeff Adrien CHA 02/02/2013 CHA @ HOU L 21 4 1 4 25.0 0 0 - 2 2 100.0 2 5 7 3 0 0 3 1 -2
+p382
+aVJeff Adrien CHA 01/30/2013 CHA @ SAS L 20 7 1 3 33.3 0 0 - 5 6 83.3 2 4 6 0 0 0 2 1 -12
+p383
+aVRamon Sessions CHA 01/30/2013 CHA @ SAS L 37 20 8 19 42.1 0 2 0.0 4 4 100.0 1 2 3 1 3 0 3 1 -14
+p384
+aVMichael Kidd-Gilchrist CHA 01/30/2013 CHA @ SAS L 28 4 2 5 40.0 0 1 0.0 0 0 - 2 2 4 1 4 0 1 0 -14
+p385
+aVJeff Taylor CHA 01/30/2013 CHA @ SAS L 27 9 4 8 50.0 1 5 20.0 0 0 - 1 2 3 4 2 0 0 5 -6
+p386
+aVKemba Walker CHA 01/30/2013 CHA @ SAS L 39 16 6 13 46.2 1 5 20.0 3 4 75.0 0 6 6 4 2 0 5 1 -20
+p387
+aVBismack Biyombo CHA 01/30/2013 CHA @ SAS L 28 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 2 2 3 -26
+p388
+aVBrendan Haywood CHA 01/30/2013 CHA @ SAS L 20 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 3 3 2
+p389
+aVGerald Henderson CHA 01/30/2013 CHA @ SAS L 17 6 3 9 33.3 0 2 0.0 0 0 - 1 0 1 0 0 0 2 0 -15
+p390
+aVBen Gordon CHA 01/30/2013 CHA @ SAS L 24 11 4 10 40.0 2 4 50.0 1 1 100.0 0 1 1 3 1 0 5 2 -15
+p391
+aVGerald Henderson CHA 01/28/2013 CHA @ CHI L 28 10 4 12 33.3 0 1 0.0 2 3 66.7 0 2 2 0 0 0 2 2 4
+p392
+aVMichael Kidd-Gilchrist CHA 01/28/2013 CHA @ CHI L 29 6 2 9 22.2 0 0 - 2 2 100.0 0 5 5 0 0 0 0 2 -5
+p393
+aVBrendan Haywood CHA 01/28/2013 CHA @ CHI L 18 4 2 3 66.7 0 0 - 0 2 0.0 2 2 4 0 0 2 1 3 -18
+p394
+aVTyrus Thomas CHA 01/28/2013 CHA @ CHI L 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -11
+p395
+aVRamon Sessions CHA 01/28/2013 CHA @ CHI L 26 7 2 9 22.2 0 0 - 3 3 100.0 0 2 2 4 1 0 1 3 -15
+p396
+aVBen Gordon CHA 01/28/2013 CHA @ CHI L 28 18 7 15 46.7 4 5 80.0 0 0 - 1 2 3 0 0 0 3 2 -16
+p397
+aVKemba Walker CHA 01/28/2013 CHA @ CHI L 40 18 6 17 35.3 2 6 33.3 4 4 100.0 1 3 4 6 0 0 0 0 5
+p398
+aVBismack Biyombo CHA 01/28/2013 CHA @ CHI L 29 8 4 6 66.7 0 0 - 0 1 0.0 1 8 9 1 2 1 2 1 11
+p399
+aVJeff Taylor CHA 01/28/2013 CHA @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p400
+aVJeff Adrien CHA 01/28/2013 CHA @ CHI L 35 14 5 7 71.4 0 0 - 4 6 66.7 5 5 10 1 0 2 1 4 7
+p401
+aVGerald Henderson CHA 01/26/2013 CHA vs. MIN W 32 15 6 14 42.9 1 1 100.0 2 2 100.0 1 3 4 2 0 1 0 0 -9
+p402
+aVBismack Biyombo CHA 01/26/2013 CHA vs. MIN W 32 10 4 4 100.0 0 0 - 2 4 50.0 5 8 13 1 0 2 1 5 -12
+p403
+aVBrendan Haywood CHA 01/26/2013 CHA vs. MIN W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 3 1 1 10
+p404
+aVMichael Kidd-Gilchrist CHA 01/26/2013 CHA vs. MIN W 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -10
+p405
+aVJeff Taylor CHA 01/26/2013 CHA vs. MIN W 13 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 1 1 5
+p406
+aVBen Gordon CHA 01/26/2013 CHA vs. MIN W 29 18 7 13 53.8 0 2 0.0 4 4 100.0 1 1 2 2 1 2 3 3 8
+p407
+aVHakim Warrick CHA 01/26/2013 CHA vs. MIN W 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p408
+aVRamon Sessions CHA 01/26/2013 CHA vs. MIN W 34 23 7 11 63.6 0 1 0.0 9 10 90.0 1 2 3 4 0 0 6 2 12
+p409
+aVKemba Walker CHA 01/26/2013 CHA vs. MIN W 37 25 8 17 47.1 3 5 60.0 6 6 100.0 0 8 8 8 3 2 4 0 -2
+p410
+aVJeff Adrien CHA 01/26/2013 CHA vs. MIN W 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 15
+p411
+aVTyrus Thomas CHA 01/26/2013 CHA vs. MIN W 18 2 1 6 16.7 0 0 - 0 0 - 0 6 6 2 1 0 1 4 -2
+p412
+aVHakim Warrick CHA 01/23/2013 CHA vs. ATL L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 1 -11
+p413
+aVRamon Sessions CHA 01/23/2013 CHA vs. ATL L 30 27 10 16 62.5 1 2 50.0 6 6 100.0 0 3 3 5 2 0 1 2 -1
+p414
+aVJeff Adrien CHA 01/23/2013 CHA vs. ATL L 26 6 1 6 16.7 0 0 - 4 4 100.0 1 3 4 1 1 2 0 1 1
+p415
+aVMichael Kidd-Gilchrist CHA 01/23/2013 CHA vs. ATL L 25 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 1 2 0 1 2 -10
+p416
+aVBismack Biyombo CHA 01/23/2013 CHA vs. ATL L 27 2 1 5 20.0 0 0 - 0 2 0.0 3 7 10 0 2 4 2 2 -8
+p417
+aVGerald Henderson CHA 01/23/2013 CHA vs. ATL L 15 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -15
+p418
+aVKemba Walker CHA 01/23/2013 CHA vs. ATL L 33 11 4 11 36.4 1 3 33.3 2 3 66.7 1 2 3 5 1 0 5 1 -14
+p419
+aVJeff Taylor CHA 01/23/2013 CHA vs. ATL L 24 9 3 8 37.5 1 5 20.0 2 2 100.0 0 1 1 2 0 0 1 1 -3
+p420
+aVBen Gordon CHA 01/23/2013 CHA vs. ATL L 23 15 6 12 50.0 3 4 75.0 0 0 - 0 6 6 1 1 2 4 2 7
+p421
+aVBrendan Haywood CHA 01/23/2013 CHA vs. ATL L 22 4 0 2 0.0 0 0 - 4 6 66.7 6 3 9 1 1 0 2 1 -6
+p422
+aVBismack Biyombo CHA 01/21/2013 CHA vs. HOU L 36 2 1 5 20.0 0 0 - 0 0 - 4 5 9 0 1 7 1 4 3
+p423
+aVJeff Adrien CHA 01/21/2013 CHA vs. HOU L 14 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 0 -6
+p424
+aVJeff Taylor CHA 01/21/2013 CHA vs. HOU L 17 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 2 2 0 0 3 6
+p425
+aVMichael Kidd-Gilchrist CHA 01/21/2013 CHA vs. HOU L 24 9 4 7 57.1 0 0 - 1 2 50.0 0 4 4 1 0 1 0 5 -3
+p426
+aVGerald Henderson CHA 01/21/2013 CHA vs. HOU L 26 8 3 11 27.3 0 2 0.0 2 2 100.0 0 4 4 1 1 0 2 5 0
+p427
+aVRamon Sessions CHA 01/21/2013 CHA vs. HOU L 29 19 6 15 40.0 0 3 0.0 7 8 87.5 0 8 8 5 0 0 1 1 -16
+p428
+aVTyrus Thomas CHA 01/21/2013 CHA vs. HOU L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 0
+p429
+aVHakim Warrick CHA 01/21/2013 CHA vs. HOU L 24 10 4 9 44.4 0 1 0.0 2 2 100.0 1 2 3 2 0 0 2 2 0
+p430
+aVBrendan Haywood CHA 01/21/2013 CHA vs. HOU L 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 3 -9
+p431
+aVKemba Walker CHA 01/21/2013 CHA vs. HOU L 39 35 12 21 57.1 6 7 85.7 5 6 83.3 2 1 3 5 1 0 4 3 4
+p432
+aVBen Gordon CHA 01/21/2013 CHA vs. HOU L 8 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p433
+aVKemba Walker CHA 01/19/2013 CHA vs. SAC L 38 14 6 17 35.3 1 7 14.3 1 1 100.0 1 3 4 10 4 0 1 2 -8
+p434
+aVBen Gordon CHA 01/19/2013 CHA vs. SAC L 17 12 4 10 40.0 3 4 75.0 1 2 50.0 0 1 1 1 0 0 1 0 4
+p435
+aVGerald Henderson CHA 01/19/2013 CHA vs. SAC L 35 15 7 15 46.7 0 2 0.0 1 2 50.0 2 3 5 3 2 1 4 2 -1
+p436
+aVBrendan Haywood CHA 01/19/2013 CHA vs. SAC L 27 9 3 5 60.0 0 0 - 3 5 60.0 2 5 7 0 1 5 0 4 8
+p437
+aVBismack Biyombo CHA 01/19/2013 CHA vs. SAC L 19 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 1 4 -13
+p438
+aVJeff Adrien CHA 01/19/2013 CHA vs. SAC L 20 9 2 3 66.7 0 0 - 5 7 71.4 1 3 4 0 0 1 0 2 3
+p439
+aVJeff Taylor CHA 01/19/2013 CHA vs. SAC L 7 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 0 -2
+p440
+aVRamon Sessions CHA 01/19/2013 CHA vs. SAC L 29 16 5 10 50.0 1 1 100.0 5 7 71.4 0 5 5 4 1 1 2 1 -1
+p441
+aVHakim Warrick CHA 01/19/2013 CHA vs. SAC L 30 12 3 7 42.9 0 0 - 6 8 75.0 0 5 5 0 0 0 3 2 -8
+p442
+aVMichael Kidd-Gilchrist CHA 01/19/2013 CHA vs. SAC L 18 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 2 0 0 1 1 -2
+p443
+aVBrendan Haywood CHA 01/18/2013 CHA @ ORL W 30 8 3 7 42.9 0 0 - 2 2 100.0 3 4 7 1 0 1 2 4 8
+p444
+aVJeff Taylor CHA 01/18/2013 CHA @ ORL W 19 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 1 0 0 2 -3
+p445
+aVKemba Walker CHA 01/18/2013 CHA @ ORL W 36 25 8 16 50.0 2 6 33.3 7 9 77.8 3 5 8 5 2 0 1 2 0
+p446
+aVHakim Warrick CHA 01/18/2013 CHA @ ORL W 31 15 5 12 41.7 0 1 0.0 5 8 62.5 3 2 5 0 1 0 0 2 6
+p447
+aVJeff Adrien CHA 01/18/2013 CHA @ ORL W 17 9 3 5 60.0 0 0 - 3 5 60.0 1 4 5 0 0 0 1 3 0
+p448
+aVMichael Kidd-Gilchrist CHA 01/18/2013 CHA @ ORL W 23 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 1 0 1 0 0 5
+p449
+aVBismack Biyombo CHA 01/18/2013 CHA @ ORL W 18 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 0 0 1 2 0 -4
+p450
+aVGerald Henderson CHA 01/18/2013 CHA @ ORL W 21 17 8 11 72.7 0 1 0.0 1 2 50.0 0 3 3 0 1 0 2 3 8
+p451
+aVRamon Sessions CHA 01/18/2013 CHA @ ORL W 30 15 4 13 30.8 1 2 50.0 6 8 75.0 0 4 4 7 0 1 1 4 4
+p452
+aVBen Gordon CHA 01/18/2013 CHA @ ORL W 15 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 2 0 0 1 4 6
+p453
+aVDeSagana Diop CHA 01/15/2013 CHA vs. IND L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 1
+p454
+aVTyrus Thomas CHA 01/15/2013 CHA vs. IND L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p455
+aVJeff Taylor CHA 01/15/2013 CHA vs. IND L 20 5 1 6 16.7 1 4 25.0 2 2 100.0 0 2 2 1 1 0 0 2 4
+p456
+aVHakim Warrick CHA 01/15/2013 CHA vs. IND L 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -16
+p457
+aVJeff Adrien CHA 01/15/2013 CHA vs. IND L 23 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 0 0 0 1 5 -6
+p458
+aVBrendan Haywood CHA 01/15/2013 CHA vs. IND L 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 2 0 2 -7
+p459
+aVKemba Walker CHA 01/15/2013 CHA vs. IND L 27 13 6 9 66.7 1 1 100.0 0 0 - 0 1 1 1 3 0 1 2 -25
+p460
+aVRamon Sessions CHA 01/15/2013 CHA vs. IND L 28 13 3 10 30.0 0 1 0.0 7 8 87.5 0 2 2 1 1 0 1 1 -8
+p461
+aVGerald Henderson CHA 01/15/2013 CHA vs. IND L 25 15 3 10 30.0 1 1 100.0 8 12 66.7 0 0 0 3 0 0 2 1 -24
+p462
+aVBismack Biyombo CHA 01/15/2013 CHA vs. IND L 22 5 2 6 33.3 0 0 - 1 2 50.0 2 4 6 0 0 2 1 4 -21
+p463
+aVReggie Williams CHA 01/15/2013 CHA vs. IND L 6 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 0 3
+p464
+aVMichael Kidd-Gilchrist CHA 01/15/2013 CHA vs. IND L 32 4 1 5 20.0 0 0 - 2 3 66.7 1 4 5 1 1 1 2 2 -27
+p465
+aVBen Gordon CHA 01/15/2013 CHA vs. IND L 14 7 3 9 33.3 0 0 - 1 1 100.0 0 1 1 2 0 1 1 1 -6
+p466
+aVGerald Henderson CHA 01/14/2013 CHA @ BOS L 27 10 4 8 50.0 0 0 - 2 2 100.0 1 1 2 2 2 0 1 4 -15
+p467
+aVHakim Warrick CHA 01/14/2013 CHA @ BOS L 34 16 6 11 54.5 0 0 - 4 6 66.7 2 2 4 3 2 0 0 1 -7
+p468
+aVBismack Biyombo CHA 01/14/2013 CHA @ BOS L 28 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 0 0 2 1 2 -11
+p469
+aVJeff Taylor CHA 01/14/2013 CHA @ BOS L 15 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 1 2 0 1 3 6
+p470
+aVMichael Kidd-Gilchrist CHA 01/14/2013 CHA @ BOS L 22 10 5 10 50.0 0 0 - 0 1 0.0 3 5 8 0 0 0 2 1 -6
+p471
+aVBrendan Haywood CHA 01/14/2013 CHA @ BOS L 20 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 1 0
+p472
+aVKemba Walker CHA 01/14/2013 CHA @ BOS L 28 12 4 16 25.0 2 5 40.0 2 2 100.0 0 2 2 4 1 0 3 3 -14
+p473
+aVJeff Adrien CHA 01/14/2013 CHA @ BOS L 11 1 0 0 - 0 0 - 1 4 25.0 2 4 6 0 1 0 0 1 -1
+p474
+aVRamon Sessions CHA 01/14/2013 CHA @ BOS L 24 16 5 11 45.5 1 2 50.0 5 6 83.3 1 3 4 3 0 1 1 2 7
+p475
+aVBen Gordon CHA 01/14/2013 CHA @ BOS L 30 12 5 14 35.7 1 5 20.0 1 1 100.0 0 2 2 1 0 0 3 2 -14
+p476
+aVBismack Biyombo CHA 01/12/2013 CHA @ IND L 21 8 4 4 100.0 0 0 - 0 0 - 1 2 3 1 0 2 1 2 8
+p477
+aVJeff Adrien CHA 01/12/2013 CHA @ IND L 15 0 0 2 0.0 0 0 - 0 0 - 2 5 7 0 0 0 1 3 -11
+p478
+aVBrendan Haywood CHA 01/12/2013 CHA @ IND L 27 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 1 2 1 -16
+p479
+aVJeff Taylor CHA 01/12/2013 CHA @ IND L 17 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 -13
+p480
+aVRamon Sessions CHA 01/12/2013 CHA @ IND L 22 7 2 11 18.2 0 1 0.0 3 3 100.0 0 2 2 6 1 0 0 0 -24
+p481
+aVBen Gordon CHA 01/12/2013 CHA @ IND L 26 21 9 14 64.3 1 1 100.0 2 3 66.7 0 3 3 0 0 0 0 4 -12
+p482
+aVHakim Warrick CHA 01/12/2013 CHA @ IND L 33 13 5 13 38.5 0 1 0.0 3 5 60.0 1 6 7 2 1 1 2 4 3
+p483
+aVKemba Walker CHA 01/12/2013 CHA @ IND L 31 16 5 9 55.6 1 2 50.0 5 5 100.0 0 5 5 4 3 3 2 3 11
+p484
+aVMichael Kidd-Gilchrist CHA 01/12/2013 CHA @ IND L 21 4 2 7 28.6 0 0 - 0 0 - 3 5 8 2 0 0 2 1 8
+p485
+aVGerald Henderson CHA 01/12/2013 CHA @ IND L 28 12 6 12 50.0 0 1 0.0 0 0 - 1 1 2 3 0 0 3 2 6
+p486
+aVKemba Walker CHA 01/11/2013 CHA @ TOR L 29 12 4 10 40.0 0 1 0.0 4 6 66.7 4 4 8 2 2 0 2 1 -17
+p487
+aVDeSagana Diop CHA 01/11/2013 CHA @ TOR L 8 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 0 1 2
+p488
+aVGerald Henderson CHA 01/11/2013 CHA @ TOR L 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -12
+p489
+aVJeff Adrien CHA 01/11/2013 CHA @ TOR L 18 4 2 8 25.0 0 0 - 0 0 - 5 4 9 1 0 0 0 1 2
+p490
+aVBrendan Haywood CHA 01/11/2013 CHA @ TOR L 15 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 1 0 2 2 -7
+p491
+aVTyrus Thomas CHA 01/11/2013 CHA @ TOR L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -6
+p492
+aVHakim Warrick CHA 01/11/2013 CHA @ TOR L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -10
+p493
+aVBismack Biyombo CHA 01/11/2013 CHA @ TOR L 17 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 1 3 2 1 -16
+p494
+aVReggie Williams CHA 01/11/2013 CHA @ TOR L 15 5 1 4 25.0 1 4 25.0 2 2 100.0 0 2 2 3 0 0 0 0 -2
+p495
+aVMichael Kidd-Gilchrist CHA 01/11/2013 CHA @ TOR L 31 12 4 11 36.4 0 0 - 4 4 100.0 2 3 5 1 1 0 3 3 -14
+p496
+aVBen Gordon CHA 01/11/2013 CHA @ TOR L 26 12 5 14 35.7 0 3 0.0 2 2 100.0 0 2 2 2 1 0 1 1 -2
+p497
+aVRamon Sessions CHA 01/11/2013 CHA @ TOR L 29 11 3 11 27.3 0 1 0.0 5 6 83.3 0 1 1 3 0 0 0 2 -13
+p498
+aVJeff Taylor CHA 01/11/2013 CHA @ TOR L 18 10 3 6 50.0 2 3 66.7 2 2 100.0 1 0 1 0 0 0 0 1 -10
+p499
+aVKemba Walker CHA 01/09/2013 CHA vs. UTA L 32 14 6 12 50.0 1 2 50.0 1 3 33.3 1 0 1 6 1 0 2 2 -19
+p500
+aVBen Gordon CHA 01/09/2013 CHA vs. UTA L 25 20 8 16 50.0 2 4 50.0 2 4 50.0 0 2 2 3 1 0 1 2 -2
+p501
+aVTyrus Thomas CHA 01/09/2013 CHA vs. UTA L 10 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -11
+p502
+aVJeff Taylor CHA 01/09/2013 CHA vs. UTA L 18 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 0 0 1 1 1 2
+p503
+aVBismack Biyombo CHA 01/09/2013 CHA vs. UTA L 24 0 0 1 0.0 0 0 - 0 0 - 3 2 5 2 0 2 2 0 -5
+p504
+aVRamon Sessions CHA 01/09/2013 CHA vs. UTA L 19 14 5 10 50.0 0 0 - 4 5 80.0 0 0 0 4 0 1 1 2 -6
+p505
+aVMichael Kidd-Gilchrist CHA 01/09/2013 CHA vs. UTA L 29 15 7 11 63.6 0 0 - 1 1 100.0 1 7 8 4 2 0 2 3 -27
+p506
+aVReggie Williams CHA 01/09/2013 CHA vs. UTA L 2 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p507
+aVHakim Warrick CHA 01/09/2013 CHA vs. UTA L 18 10 4 9 44.4 0 0 - 2 2 100.0 3 5 8 1 0 0 1 2 -6
+p508
+aVBrendan Haywood CHA 01/09/2013 CHA vs. UTA L 24 2 1 4 25.0 0 0 - 0 1 0.0 2 4 6 1 0 1 2 3 -3
+p509
+aVJeff Adrien CHA 01/09/2013 CHA vs. UTA L 15 2 1 1 100.0 0 0 - 0 2 0.0 1 3 4 1 0 1 0 3 5
+p510
+aVGerald Henderson CHA 01/09/2013 CHA vs. UTA L 24 14 5 9 55.6 0 0 - 4 4 100.0 1 1 2 4 3 1 1 2 17
+p511
+aVKemba Walker CHA 01/06/2013 CHA @ DET W 34 20 9 23 39.1 0 4 0.0 2 2 100.0 0 2 2 7 2 1 3 2 2
+p512
+aVBrendan Haywood CHA 01/06/2013 CHA @ DET W 17 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 2 1 1 1 -1
+p513
+aVMichael Kidd-Gilchrist CHA 01/06/2013 CHA @ DET W 33 11 3 10 30.0 0 1 0.0 5 5 100.0 4 4 8 0 0 1 0 2 8
+p514
+aVBen Gordon CHA 01/06/2013 CHA @ DET W 29 18 7 12 58.3 2 5 40.0 2 2 100.0 0 3 3 4 3 0 2 2 9
+p515
+aVJeff Taylor CHA 01/06/2013 CHA @ DET W 23 8 4 6 66.7 0 1 0.0 0 1 0.0 1 0 1 0 0 0 0 2 1
+p516
+aVTyrus Thomas CHA 01/06/2013 CHA @ DET W 38 13 4 14 28.6 0 0 - 5 5 100.0 2 3 5 0 1 1 1 2 5
+p517
+aVRamon Sessions CHA 01/06/2013 CHA @ DET W 23 15 5 11 45.5 1 2 50.0 4 4 100.0 1 1 2 1 2 0 2 2 4
+p518
+aVBismack Biyombo CHA 01/06/2013 CHA @ DET W 34 10 3 6 50.0 0 0 - 4 4 100.0 7 10 17 0 0 0 0 4 2
+p519
+aVGerald Henderson CHA 01/06/2013 CHA @ DET W 22 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 2 1 1 1 4
+p520
+aVJeff Adrien CHA 01/06/2013 CHA @ DET W 12 5 2 2 100.0 0 0 - 1 4 25.0 2 1 3 2 1 0 1 2 1
+p521
+aVKemba Walker CHA 01/04/2013 CHA vs. CLE L 24 11 4 8 50.0 1 3 33.3 2 4 50.0 0 3 3 5 1 0 3 2 -9
+p522
+aVMichael Kidd-Gilchrist CHA 01/04/2013 CHA vs. CLE L 21 7 3 10 30.0 0 0 - 1 2 50.0 3 6 9 2 0 0 2 1 1
+p523
+aVBismack Biyombo CHA 01/04/2013 CHA vs. CLE L 16 2 1 2 50.0 0 0 - 0 0 - 0 7 7 0 0 0 1 2 -12
+p524
+aVJeff Taylor CHA 01/04/2013 CHA vs. CLE L 27 11 5 10 50.0 1 3 33.3 0 0 - 1 1 2 0 1 0 0 4 13
+p525
+aVJeff Adrien CHA 01/04/2013 CHA vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p526
+aVGerald Henderson CHA 01/04/2013 CHA vs. CLE L 33 17 6 11 54.5 4 5 80.0 1 2 50.0 0 2 2 2 0 0 1 2 -2
+p527
+aVBrendan Haywood CHA 01/04/2013 CHA vs. CLE L 28 1 0 0 - 0 0 - 1 2 50.0 3 4 7 3 0 2 1 3 12
+p528
+aVTyrus Thomas CHA 01/04/2013 CHA vs. CLE L 13 4 2 6 33.3 0 0 - 0 0 - 0 4 4 1 1 0 0 2 -7
+p529
+aVDeSagana Diop CHA 01/04/2013 CHA vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p530
+aVHakim Warrick CHA 01/04/2013 CHA vs. CLE L 12 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 2 0 0 2 1 -12
+p531
+aVRamon Sessions CHA 01/04/2013 CHA vs. CLE L 35 20 4 11 36.4 0 2 0.0 12 12 100.0 0 5 5 6 1 0 0 3 1
+p532
+aVBen Gordon CHA 01/04/2013 CHA vs. CLE L 28 27 11 20 55.0 2 4 50.0 3 4 75.0 1 1 2 4 1 1 4 2 7
+p533
+aVBismack Biyombo CHA 12/31/2012 CHA @ CHI W 24 5 1 4 25.0 0 0 - 3 8 37.5 3 8 11 0 1 0 2 3 7
+p534
+aVHakim Warrick CHA 12/31/2012 CHA @ CHI W 29 8 3 10 30.0 0 0 - 2 5 40.0 1 5 6 1 0 0 3 3 4
+p535
+aVGerald Henderson CHA 12/31/2012 CHA @ CHI W 35 16 6 11 54.5 1 3 33.3 3 5 60.0 1 3 4 2 0 1 1 2 17
+p536
+aVJeff Taylor CHA 12/31/2012 CHA @ CHI W 25 5 2 3 66.7 1 2 50.0 0 0 - 1 3 4 0 0 0 3 2 6
+p537
+aVRamon Sessions CHA 12/31/2012 CHA @ CHI W 25 15 5 9 55.6 1 2 50.0 4 4 100.0 0 2 2 2 1 0 1 1 -11
+p538
+aVJeff Adrien CHA 12/31/2012 CHA @ CHI W 23 9 3 5 60.0 0 0 - 3 6 50.0 4 6 10 0 0 3 2 3 8
+p539
+aVBen Gordon CHA 12/31/2012 CHA @ CHI W 24 15 7 12 58.3 0 0 - 1 2 50.0 0 3 3 3 2 1 3 4 6
+p540
+aVKemba Walker CHA 12/31/2012 CHA @ CHI W 35 18 6 13 46.2 1 3 33.3 5 6 83.3 0 8 8 6 4 2 3 0 12
+p541
+aVBrendan Haywood CHA 12/31/2012 CHA @ CHI W 20 0 0 3 0.0 0 0 - 0 2 0.0 2 2 4 0 0 2 0 1 1
+p542
+aVBismack Biyombo CHA 12/29/2012 CHA vs. NOH L 26 0 0 4 0.0 0 0 - 0 0 - 2 5 7 0 0 2 1 1 10
+p543
+aVBen Gordon CHA 12/29/2012 CHA vs. NOH L 18 14 6 13 46.2 0 2 0.0 2 2 100.0 0 0 0 3 0 0 3 1 -3
+p544
+aVMichael Kidd-Gilchrist CHA 12/29/2012 CHA vs. NOH L 26 22 11 14 78.6 0 0 - 0 2 0.0 2 7 9 1 1 2 3 4 5
+p545
+aVHakim Warrick CHA 12/29/2012 CHA vs. NOH L 30 12 4 9 44.4 0 0 - 4 6 66.7 2 8 10 2 1 2 3 1 -8
+p546
+aVKemba Walker CHA 12/29/2012 CHA vs. NOH L 40 15 7 15 46.7 0 1 0.0 1 2 50.0 1 2 3 9 2 0 2 4 7
+p547
+aVRamon Sessions CHA 12/29/2012 CHA vs. NOH L 30 3 1 9 11.1 0 2 0.0 1 2 50.0 0 1 1 5 1 0 1 0 -8
+p548
+aVBrendan Haywood CHA 12/29/2012 CHA vs. NOH L 20 4 2 3 66.7 0 0 - 0 0 - 4 2 6 2 1 0 1 2 -13
+p549
+aVGerald Henderson CHA 12/29/2012 CHA vs. NOH L 30 19 6 10 60.0 2 3 66.7 5 6 83.3 1 4 5 4 1 1 1 2 -7
+p550
+aVJeff Taylor CHA 12/29/2012 CHA vs. NOH L 20 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 1 1 0 0 2 2
+p551
+aVKemba Walker CHA 12/28/2012 CHA @ BKN L 33 5 2 10 20.0 0 2 0.0 1 2 50.0 1 0 1 2 0 0 3 2 -25
+p552
+aVBismack Biyombo CHA 12/28/2012 CHA @ BKN L 25 6 0 0 - 0 0 - 6 12 50.0 3 4 7 0 0 0 2 2 -16
+p553
+aVJeff Taylor CHA 12/28/2012 CHA @ BKN L 20 9 2 4 50.0 1 2 50.0 4 4 100.0 0 2 2 1 1 0 0 3 6
+p554
+aVHakim Warrick CHA 12/28/2012 CHA @ BKN L 26 13 4 10 40.0 0 0 - 5 6 83.3 2 2 4 0 0 0 0 3 -13
+p555
+aVBen Gordon CHA 12/28/2012 CHA @ BKN L 20 10 3 10 30.0 0 2 0.0 4 4 100.0 0 1 1 1 1 0 0 3 2
+p556
+aVRamon Sessions CHA 12/28/2012 CHA @ BKN L 26 12 6 15 40.0 0 2 0.0 0 2 0.0 1 1 2 2 1 0 2 0 -14
+p557
+aVGerald Henderson CHA 12/28/2012 CHA @ BKN L 29 6 2 7 28.6 0 0 - 2 2 100.0 0 5 5 4 3 0 2 2 -9
+p558
+aVMichael Kidd-Gilchrist CHA 12/28/2012 CHA @ BKN L 19 3 1 6 16.7 1 1 100.0 0 0 - 1 3 4 1 0 0 0 4 -15
+p559
+aVJeff Adrien CHA 12/28/2012 CHA @ BKN L 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 2
+p560
+aVDeSagana Diop CHA 12/28/2012 CHA @ BKN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p561
+aVBrendan Haywood CHA 12/28/2012 CHA @ BKN L 23 8 4 7 57.1 0 0 - 0 0 - 4 4 8 0 0 0 1 1 -2
+p562
+aVReggie Williams CHA 12/28/2012 CHA @ BKN L 6 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 8
+p563
+aVDeSagana Diop CHA 12/26/2012 CHA vs. MIA L 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 4 0 0 3
+p564
+aVRamon Sessions CHA 12/26/2012 CHA vs. MIA L 36 19 7 12 58.3 1 3 33.3 4 6 66.7 0 1 1 5 0 0 1 4 -13
+p565
+aVHakim Warrick CHA 12/26/2012 CHA vs. MIA L 38 18 8 12 66.7 0 0 - 2 3 66.7 0 9 9 0 1 0 4 2 -12
+p566
+aVGerald Henderson CHA 12/26/2012 CHA vs. MIA L 44 14 5 19 26.3 0 3 0.0 4 5 80.0 2 5 7 4 2 1 2 3 -13
+p567
+aVBismack Biyombo CHA 12/26/2012 CHA vs. MIA L 38 7 3 8 37.5 0 0 - 1 3 33.3 4 6 10 0 0 1 1 5 -12
+p568
+aVMichael Kidd-Gilchrist CHA 12/26/2012 CHA vs. MIA L 22 6 2 6 33.3 0 0 - 2 2 100.0 0 5 5 2 1 0 2 4 -1
+p569
+aVKemba Walker CHA 12/26/2012 CHA vs. MIA L 43 27 9 20 45.0 4 8 50.0 5 7 71.4 3 3 6 6 2 0 5 2 -10
+p570
+aVJeff Taylor CHA 12/26/2012 CHA vs. MIA L 7 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 0 1 2 -7
+p571
+aVDeSagana Diop CHA 12/22/2012 CHA @ DEN L 20 2 1 5 20.0 0 1 0.0 0 0 - 2 5 7 3 0 5 2 0 -1
+p572
+aVByron Mullens CHA 12/22/2012 CHA @ DEN L 32 16 6 14 42.9 2 6 33.3 2 4 50.0 4 10 14 4 1 2 2 1 -21
+p573
+aVHakim Warrick CHA 12/22/2012 CHA @ DEN L 17 7 2 6 33.3 0 0 - 3 6 50.0 0 2 2 2 1 1 0 1 -8
+p574
+aVBrendan Haywood CHA 12/22/2012 CHA @ DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p575
+aVReggie Williams CHA 12/22/2012 CHA @ DEN L 21 10 4 12 33.3 1 5 20.0 1 3 33.3 0 2 2 3 0 0 0 0 -4
+p576
+aVBismack Biyombo CHA 12/22/2012 CHA @ DEN L 21 3 0 3 0.0 0 0 - 3 4 75.0 0 2 2 1 1 2 0 2 -16
+p577
+aVJeff Adrien CHA 12/22/2012 CHA @ DEN L 3 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 1 4
+p578
+aVJeff Taylor CHA 12/22/2012 CHA @ DEN L 24 4 2 10 20.0 0 2 0.0 0 0 - 3 5 8 2 3 0 0 1 -4
+p579
+aVMichael Kidd-Gilchrist CHA 12/22/2012 CHA @ DEN L 34 11 5 7 71.4 0 1 0.0 1 2 50.0 2 2 4 1 0 3 5 3 -23
+p580
+aVKemba Walker CHA 12/22/2012 CHA @ DEN L 36 8 4 15 26.7 0 4 0.0 0 0 - 0 3 3 4 0 0 1 1 -23
+p581
+aVRamon Sessions CHA 12/22/2012 CHA @ DEN L 29 23 8 13 61.5 0 1 0.0 7 9 77.8 0 1 1 1 2 0 1 4 -12
+p582
+aVHakim Warrick CHA 12/21/2012 CHA @ GSW L 24 9 3 8 37.5 0 0 - 3 4 75.0 3 3 6 2 1 0 2 2 -3
+p583
+aVKemba Walker CHA 12/21/2012 CHA @ GSW L 34 16 6 17 35.3 4 7 57.1 0 0 - 0 1 1 6 1 0 1 1 -13
+p584
+aVJeff Taylor CHA 12/21/2012 CHA @ GSW L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p585
+aVRamon Sessions CHA 12/21/2012 CHA @ GSW L 23 17 4 10 40.0 3 4 75.0 6 6 100.0 0 1 1 1 0 0 1 3 -13
+p586
+aVMichael Kidd-Gilchrist CHA 12/21/2012 CHA @ GSW L 32 12 5 10 50.0 0 1 0.0 2 2 100.0 3 3 6 2 1 1 0 1 -7
+p587
+aVBrendan Haywood CHA 12/21/2012 CHA @ GSW L 16 1 0 2 0.0 0 0 - 1 4 25.0 2 1 3 0 0 0 0 4 -15
+p588
+aVJeff Adrien CHA 12/21/2012 CHA @ GSW L 3 1 0 2 0.0 0 0 - 1 4 25.0 2 0 2 0 0 0 0 0 5
+p589
+aVByron Mullens CHA 12/21/2012 CHA @ GSW L 22 0 0 6 0.0 0 2 0.0 0 0 - 1 3 4 2 1 0 3 1 -14
+p590
+aVBismack Biyombo CHA 12/21/2012 CHA @ GSW L 32 12 4 6 66.7 0 0 - 4 4 100.0 4 10 14 1 1 2 0 2 -3
+p591
+aVReggie Williams CHA 12/21/2012 CHA @ GSW L 13 9 3 8 37.5 1 5 20.0 2 3 66.7 1 0 1 0 0 0 0 3 -6
+p592
+aVDeSagana Diop CHA 12/21/2012 CHA @ GSW L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p593
+aVGerald Henderson CHA 12/21/2012 CHA @ GSW L 33 23 8 19 42.1 0 1 0.0 7 8 87.5 0 4 4 5 0 1 0 0 -9
+p594
+aVBrendan Haywood CHA 12/19/2012 CHA @ PHX L 21 6 3 7 42.9 0 0 - 0 0 - 5 1 6 0 0 0 1 3 -1
+p595
+aVByron Mullens CHA 12/19/2012 CHA @ PHX L 39 13 5 11 45.5 2 2 100.0 1 2 50.0 1 8 9 1 0 0 2 1 -25
+p596
+aVMichael Kidd-Gilchrist CHA 12/19/2012 CHA @ PHX L 36 25 9 14 64.3 0 0 - 7 8 87.5 5 7 12 4 3 1 0 0 1
+p597
+aVGerald Henderson CHA 12/19/2012 CHA @ PHX L 20 4 2 9 22.2 0 0 - 0 0 - 1 3 4 3 0 1 2 1 -19
+p598
+aVBen Gordon CHA 12/19/2012 CHA @ PHX L 22 15 7 12 58.3 1 3 33.3 0 0 - 0 0 0 1 1 0 2 3 -2
+p599
+aVBismack Biyombo CHA 12/19/2012 CHA @ PHX L 21 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 2 0 -14
+p600
+aVJeff Taylor CHA 12/19/2012 CHA @ PHX L 26 10 3 11 27.3 1 3 33.3 3 4 75.0 2 2 4 0 0 1 0 1 -2
+p601
+aVKemba Walker CHA 12/19/2012 CHA @ PHX L 37 27 9 14 64.3 2 2 100.0 7 8 87.5 0 4 4 6 1 0 3 2 -1
+p602
+aVRamon Sessions CHA 12/19/2012 CHA @ PHX L 18 2 1 4 25.0 0 0 - 0 0 - 0 1 1 4 1 0 3 0 -22
+p603
+aVJeff Taylor CHA 12/18/2012 CHA @ LAL L 11 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 1 -14
+p604
+aVReggie Williams CHA 12/18/2012 CHA @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -6
+p605
+aVGerald Henderson CHA 12/18/2012 CHA @ LAL L 38 19 6 16 37.5 3 4 75.0 4 4 100.0 3 6 9 4 0 0 1 5 16
+p606
+aVBen Gordon CHA 12/18/2012 CHA @ LAL L 8 4 2 7 28.6 0 2 0.0 0 0 - 1 0 1 0 0 0 2 0 -19
+p607
+aVKemba Walker CHA 12/18/2012 CHA @ LAL L 42 28 12 25 48.0 2 6 33.3 2 4 50.0 0 5 5 7 3 0 1 2 10
+p608
+aVBrendan Haywood CHA 12/18/2012 CHA @ LAL L 8 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 3 -13
+p609
+aVRamon Sessions CHA 12/18/2012 CHA @ LAL L 29 20 7 13 53.8 2 3 66.7 4 4 100.0 1 3 4 6 0 0 1 1 -5
+p610
+aVMichael Kidd-Gilchrist CHA 12/18/2012 CHA @ LAL L 24 7 3 4 75.0 0 0 - 1 2 50.0 1 2 3 1 0 1 2 2 -9
+p611
+aVBismack Biyombo CHA 12/18/2012 CHA @ LAL L 33 8 3 7 42.9 0 0 - 2 6 33.3 7 4 11 1 0 2 0 5 27
+p612
+aVByron Mullens CHA 12/18/2012 CHA @ LAL L 44 13 5 19 26.3 3 8 37.5 0 0 - 5 12 17 5 1 4 3 4 8
+p613
+aVMichael Kidd-Gilchrist CHA 12/15/2012 CHA vs. ORL L 21 3 1 4 25.0 0 0 - 1 2 50.0 1 4 5 0 0 3 2 4 -2
+p614
+aVBen Gordon CHA 12/15/2012 CHA vs. ORL L 13 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 3 0 0 0 1 0
+p615
+aVKemba Walker CHA 12/15/2012 CHA vs. ORL L 38 32 11 20 55.0 2 5 40.0 8 9 88.9 0 2 2 7 1 0 2 1 -7
+p616
+aVBrendan Haywood CHA 12/15/2012 CHA vs. ORL L 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -2
+p617
+aVByron Mullens CHA 12/15/2012 CHA vs. ORL L 37 12 4 11 36.4 1 3 33.3 3 6 50.0 1 3 4 1 1 1 2 0 -10
+p618
+aVBismack Biyombo CHA 12/15/2012 CHA vs. ORL L 40 8 4 8 50.0 0 0 - 0 0 - 5 4 9 1 0 3 2 2 -8
+p619
+aVRamon Sessions CHA 12/15/2012 CHA vs. ORL L 25 14 5 10 50.0 0 1 0.0 4 6 66.7 0 1 1 2 0 0 1 1 -6
+p620
+aVGerald Henderson CHA 12/15/2012 CHA vs. ORL L 34 16 5 15 33.3 0 0 - 6 6 100.0 0 4 4 4 2 0 1 2 -2
+p621
+aVJeff Taylor CHA 12/15/2012 CHA vs. ORL L 16 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 4 -8
+p622
+aVBen Gordon CHA 12/13/2012 CHA @ ATL L 17 7 2 9 22.2 1 3 33.3 2 2 100.0 0 1 1 4 0 0 0 1 -1
+p623
+aVHakim Warrick CHA 12/13/2012 CHA @ ATL L 3 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 1
+p624
+aVBismack Biyombo CHA 12/13/2012 CHA @ ATL L 26 4 2 3 66.7 0 0 - 0 2 0.0 1 5 6 1 1 0 1 3 -9
+p625
+aVGerald Henderson CHA 12/13/2012 CHA @ ATL L 31 17 6 11 54.5 0 1 0.0 5 6 83.3 0 3 3 3 1 0 2 1 -4
+p626
+aVMichael Kidd-Gilchrist CHA 12/13/2012 CHA @ ATL L 27 8 4 9 44.4 0 0 - 0 0 - 4 2 6 1 0 0 1 3 -21
+p627
+aVByron Mullens CHA 12/13/2012 CHA @ ATL L 14 3 1 8 12.5 1 3 33.3 0 0 - 1 1 2 0 0 0 2 1 -19
+p628
+aVReggie Williams CHA 12/13/2012 CHA @ ATL L 4 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p629
+aVDeSagana Diop CHA 12/13/2012 CHA @ ATL L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p630
+aVKemba Walker CHA 12/13/2012 CHA @ ATL L 31 13 6 15 40.0 0 5 0.0 1 1 100.0 0 0 0 6 3 0 2 0 -18
+p631
+aVBrendan Haywood CHA 12/13/2012 CHA @ ATL L 23 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 0 0 1 -13
+p632
+aVJeff Taylor CHA 12/13/2012 CHA @ ATL L 30 12 3 6 50.0 2 4 50.0 4 4 100.0 0 2 2 0 0 0 1 2 -20
+p633
+aVRamon Sessions CHA 12/13/2012 CHA @ ATL L 22 16 5 8 62.5 2 3 66.7 4 4 100.0 1 2 3 4 0 0 3 4 -8
+p634
+aVJeff Adrien CHA 12/13/2012 CHA @ ATL L 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 2 1 1
+p635
+aVJeff Taylor CHA 12/12/2012 CHA vs. LAC L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 3 -2
+p636
+aVMichael Kidd-Gilchrist CHA 12/12/2012 CHA vs. LAC L 33 11 3 10 30.0 0 0 - 5 5 100.0 3 5 8 2 0 1 1 1 -5
+p637
+aVGerald Henderson CHA 12/12/2012 CHA vs. LAC L 21 12 4 9 44.4 0 1 0.0 4 5 80.0 0 4 4 2 0 0 2 4 -4
+p638
+aVBen Gordon CHA 12/12/2012 CHA vs. LAC L 23 8 3 11 27.3 1 6 16.7 1 1 100.0 0 2 2 1 0 1 0 2 -8
+p639
+aVBrendan Haywood CHA 12/12/2012 CHA vs. LAC L 14 6 3 3 100.0 0 0 - 0 0 - 4 2 6 0 0 1 1 2 -2
+p640
+aVByron Mullens CHA 12/12/2012 CHA vs. LAC L 38 19 8 15 53.3 2 4 50.0 1 2 50.0 1 7 8 2 0 1 3 3 -4
+p641
+aVKemba Walker CHA 12/12/2012 CHA vs. LAC L 36 17 6 14 42.9 1 2 50.0 4 5 80.0 0 2 2 6 1 1 2 4 5
+p642
+aVRamon Sessions CHA 12/12/2012 CHA vs. LAC L 22 11 3 10 30.0 1 2 50.0 4 5 80.0 2 0 2 3 1 0 1 1 -7
+p643
+aVBismack Biyombo CHA 12/12/2012 CHA vs. LAC L 39 10 5 8 62.5 0 0 - 0 1 0.0 2 7 9 0 2 0 2 4 -3
+p644
+aVReggie Williams CHA 12/10/2012 CHA vs. GSW L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p645
+aVBen Gordon CHA 12/10/2012 CHA vs. GSW L 15 14 5 11 45.5 3 6 50.0 1 1 100.0 0 1 1 1 0 1 2 0 -5
+p646
+aVByron Mullens CHA 12/10/2012 CHA vs. GSW L 29 13 6 14 42.9 1 4 25.0 0 0 - 3 1 4 3 2 1 1 1 -13
+p647
+aVMichael Kidd-Gilchrist CHA 12/10/2012 CHA vs. GSW L 34 17 6 10 60.0 0 0 - 5 6 83.3 1 6 7 3 1 1 3 4 6
+p648
+aVRamon Sessions CHA 12/10/2012 CHA vs. GSW L 23 12 3 8 37.5 2 2 100.0 4 4 100.0 1 0 1 6 0 1 0 1 2
+p649
+aVBismack Biyombo CHA 12/10/2012 CHA vs. GSW L 33 5 2 4 50.0 0 0 - 1 2 50.0 3 8 11 0 0 3 1 2 -8
+p650
+aVBrendan Haywood CHA 12/10/2012 CHA vs. GSW L 3 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p651
+aVGerald Henderson CHA 12/10/2012 CHA vs. GSW L 18 7 2 7 28.6 0 1 0.0 3 4 75.0 0 3 3 0 0 1 4 3 -21
+p652
+aVDeSagana Diop CHA 12/10/2012 CHA vs. GSW L 14 0 0 0 - 0 0 - 0 0 - 0 6 6 0 1 1 0 2 2
+p653
+aVJeff Taylor CHA 12/10/2012 CHA vs. GSW L 33 4 1 8 12.5 0 3 0.0 2 3 66.7 2 1 3 2 1 0 0 1 -1
+p654
+aVKemba Walker CHA 12/10/2012 CHA vs. GSW L 34 24 6 16 37.5 3 9 33.3 9 12 75.0 1 0 1 6 1 1 4 4 2
+p655
+aVJeff Taylor CHA 12/08/2012 CHA vs. SAS L 32 10 5 7 71.4 0 1 0.0 0 0 - 1 1 2 1 0 1 3 2 -17
+p656
+aVHakim Warrick CHA 12/08/2012 CHA vs. SAS L 8 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 2 0 0 0 2 -4
+p657
+aVKemba Walker CHA 12/08/2012 CHA vs. SAS L 31 23 9 18 50.0 3 4 75.0 2 3 66.7 0 0 0 3 1 0 1 2 -11
+p658
+aVRamon Sessions CHA 12/08/2012 CHA vs. SAS L 24 12 4 12 33.3 0 0 - 4 4 100.0 0 0 0 4 1 0 0 0 -22
+p659
+aVDeSagana Diop CHA 12/08/2012 CHA vs. SAS L 9 0 0 1 0.0 0 0 - 0 1 0.0 0 2 2 1 0 0 1 0 -1
+p660
+aVByron Mullens CHA 12/08/2012 CHA vs. SAS L 14 7 1 5 20.0 1 5 20.0 4 4 100.0 1 3 4 0 0 0 2 2 -20
+p661
+aVReggie Williams CHA 12/08/2012 CHA vs. SAS L 10 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 0 -3
+p662
+aVCory Higgins CHA 12/08/2012 CHA vs. SAS L 6 7 3 6 50.0 0 1 0.0 1 2 50.0 1 0 1 1 1 0 0 1 0
+p663
+aVBrendan Haywood CHA 12/08/2012 CHA vs. SAS L 10 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 -13
+p664
+aVGerald Henderson CHA 12/08/2012 CHA vs. SAS L 26 13 5 10 50.0 1 1 100.0 2 4 50.0 0 1 1 0 2 1 0 3 -27
+p665
+aVBismack Biyombo CHA 12/08/2012 CHA vs. SAS L 33 4 1 3 33.3 0 0 - 2 4 50.0 2 6 8 0 0 2 1 2 -9
+p666
+aVBen Gordon CHA 12/08/2012 CHA vs. SAS L 11 6 2 3 66.7 0 0 - 2 3 66.7 0 0 0 0 1 0 0 0 -19
+p667
+aVMichael Kidd-Gilchrist CHA 12/08/2012 CHA vs. SAS L 26 8 4 7 57.1 0 0 - 0 0 - 1 4 5 6 0 3 2 1 -4
+p668
+aVHakim Warrick CHA 12/07/2012 CHA @ MIL L 13 4 2 6 33.3 0 0 - 0 4 0.0 0 0 0 2 2 0 1 1 8
+p669
+aVReggie Williams CHA 12/07/2012 CHA @ MIL L 9 8 3 4 75.0 2 2 100.0 0 3 0.0 0 0 0 1 0 0 0 1 1
+p670
+aVBismack Biyombo CHA 12/07/2012 CHA @ MIL L 29 2 1 7 14.3 0 0 - 0 2 0.0 3 5 8 1 0 4 1 2 -18
+p671
+aVBrendan Haywood CHA 12/07/2012 CHA @ MIL L 9 1 0 4 0.0 0 0 - 1 2 50.0 2 0 2 0 2 0 1 1 -5
+p672
+aVByron Mullens CHA 12/07/2012 CHA @ MIL L 14 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 0 0 0 0 -17
+p673
+aVRamon Sessions CHA 12/07/2012 CHA @ MIL L 21 8 2 6 33.3 0 0 - 4 4 100.0 1 4 5 2 2 0 2 2 -18
+p674
+aVBen Gordon CHA 12/07/2012 CHA @ MIL L 15 8 3 9 33.3 0 4 0.0 2 2 100.0 1 0 1 0 0 0 2 2 -15
+p675
+aVJeff Taylor CHA 12/07/2012 CHA @ MIL L 27 4 1 10 10.0 0 5 0.0 2 2 100.0 1 1 2 1 0 0 0 1 -3
+p676
+aVMichael Kidd-Gilchrist CHA 12/07/2012 CHA @ MIL L 32 11 4 4 100.0 0 0 - 3 6 50.0 2 9 11 2 0 1 0 5 4
+p677
+aVDeSagana Diop CHA 12/07/2012 CHA @ MIL L 22 6 3 4 75.0 0 0 - 0 0 - 2 3 5 2 0 1 1 4 4
+p678
+aVKemba Walker CHA 12/07/2012 CHA @ MIL L 26 16 8 13 61.5 0 1 0.0 0 0 - 0 2 2 6 3 0 1 1 -6
+p679
+aVGerald Henderson CHA 12/07/2012 CHA @ MIL L 24 19 6 10 60.0 1 1 100.0 6 7 85.7 0 4 4 1 0 0 2 3 -10
+p680
+aVBismack Biyombo CHA 12/05/2012 CHA vs. NYK L 30 2 1 5 20.0 0 0 - 0 0 - 5 7 12 1 0 1 0 2 7
+p681
+aVMichael Kidd-Gilchrist CHA 12/05/2012 CHA vs. NYK L 27 12 6 8 75.0 0 0 - 0 0 - 1 2 3 2 0 1 4 3 -10
+p682
+aVGerald Henderson CHA 12/05/2012 CHA vs. NYK L 25 18 7 14 50.0 2 3 66.7 2 4 50.0 3 3 6 0 0 1 0 0 -6
+p683
+aVByron Mullens CHA 12/05/2012 CHA vs. NYK L 19 6 3 8 37.5 0 1 0.0 0 0 - 0 5 5 3 0 1 1 3 -13
+p684
+aVBen Gordon CHA 12/05/2012 CHA vs. NYK L 26 17 7 15 46.7 3 5 60.0 0 0 - 0 3 3 2 1 0 4 2 3
+p685
+aVRamon Sessions CHA 12/05/2012 CHA vs. NYK L 14 8 3 7 42.9 0 1 0.0 2 2 100.0 1 4 5 1 0 0 2 0 9
+p686
+aVJeff Taylor CHA 12/05/2012 CHA vs. NYK L 39 6 2 5 40.0 0 1 0.0 2 2 100.0 0 3 3 3 0 0 0 2 6
+p687
+aVReggie Williams CHA 12/05/2012 CHA vs. NYK L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 0 5
+p688
+aVBrendan Haywood CHA 12/05/2012 CHA vs. NYK L 22 4 2 4 50.0 0 0 - 0 0 - 2 7 9 0 0 0 0 2 0
+p689
+aVKemba Walker CHA 12/05/2012 CHA vs. NYK L 34 25 8 15 53.3 2 4 50.0 7 7 100.0 0 2 2 11 1 0 1 0 -11
+p690
+aVJeff Taylor CHA 12/03/2012 CHA vs. POR L 27 11 4 10 40.0 1 4 25.0 2 2 100.0 1 3 4 2 1 0 0 3 7
+p691
+aVMichael Kidd-Gilchrist CHA 12/03/2012 CHA vs. POR L 27 8 4 8 50.0 0 0 - 0 0 - 1 2 3 3 0 2 1 0 11
+p692
+aVBismack Biyombo CHA 12/03/2012 CHA vs. POR L 25 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 2 4 1
+p693
+aVDeSagana Diop CHA 12/03/2012 CHA vs. POR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -2
+p694
+aVByron Mullens CHA 12/03/2012 CHA vs. POR L 41 12 5 14 35.7 2 6 33.3 0 1 0.0 2 10 12 1 1 1 1 2 -16
+p695
+aVBrendan Haywood CHA 12/03/2012 CHA vs. POR L 23 8 3 4 75.0 0 0 - 2 2 100.0 3 2 5 1 0 2 1 0 8
+p696
+aVGerald Henderson CHA 12/03/2012 CHA vs. POR L 15 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 -3
+p697
+aVKemba Walker CHA 12/03/2012 CHA vs. POR L 39 22 9 19 47.4 1 3 33.3 3 5 60.0 1 4 5 7 3 0 2 5 -19
+p698
+aVRamon Sessions CHA 12/03/2012 CHA vs. POR L 30 11 2 9 22.2 0 1 0.0 7 9 77.8 1 3 4 9 0 0 4 1 -1
+p699
+aVBen Gordon CHA 12/03/2012 CHA vs. POR L 35 29 9 16 56.3 8 12 66.7 3 3 100.0 0 3 3 5 1 0 3 2 -16
+p700
+aVMichael Kidd-Gilchrist CHA 11/30/2012 CHA vs. PHI L 28 10 5 10 50.0 0 0 - 0 0 - 1 7 8 2 1 0 0 0 -12
+p701
+aVDeSagana Diop CHA 11/30/2012 CHA vs. PHI L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -6
+p702
+aVByron Mullens CHA 11/30/2012 CHA vs. PHI L 34 10 3 12 25.0 0 3 0.0 4 4 100.0 1 5 6 0 0 0 1 3 -4
+p703
+aVJeff Taylor CHA 11/30/2012 CHA vs. PHI L 33 16 6 10 60.0 2 4 50.0 2 2 100.0 1 0 1 2 1 0 1 2 -8
+p704
+aVBrendan Haywood CHA 11/30/2012 CHA vs. PHI L 25 8 4 9 44.4 0 0 - 0 2 0.0 4 0 4 0 0 1 1 1 -4
+p705
+aVKemba Walker CHA 11/30/2012 CHA vs. PHI L 27 13 5 11 45.5 3 6 50.0 0 0 - 1 3 4 9 2 1 2 0 -8
+p706
+aVBen Gordon CHA 11/30/2012 CHA vs. PHI L 33 19 8 15 53.3 3 4 75.0 0 0 - 0 4 4 5 0 1 3 1 5
+p707
+aVBismack Biyombo CHA 11/30/2012 CHA vs. PHI L 24 14 5 6 83.3 0 0 - 4 8 50.0 2 5 7 1 0 3 1 2 4
+p708
+aVRamon Sessions CHA 11/30/2012 CHA vs. PHI L 28 8 3 9 33.3 0 0 - 2 2 100.0 2 3 5 6 1 0 1 1 3
+p709
+aVMichael Kidd-Gilchrist CHA 11/28/2012 CHA @ ATL L 24 6 3 9 33.3 0 1 0.0 0 0 - 0 3 3 1 1 1 2 0 6
+p710
+aVReggie Williams CHA 11/28/2012 CHA @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p711
+aVDeSagana Diop CHA 11/28/2012 CHA @ ATL L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p712
+aVJeff Taylor CHA 11/28/2012 CHA @ ATL L 22 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 1 2 0 1 5 -16
+p713
+aVBismack Biyombo CHA 11/28/2012 CHA @ ATL L 27 6 2 6 33.3 0 0 - 2 3 66.7 3 5 8 0 0 4 2 3 7
+p714
+aVByron Mullens CHA 11/28/2012 CHA @ ATL L 29 10 3 9 33.3 1 4 25.0 3 4 75.0 2 7 9 0 0 0 2 2 -7
+p715
+aVBrendan Haywood CHA 11/28/2012 CHA @ ATL L 34 4 2 3 66.7 0 0 - 0 0 - 3 8 11 0 0 1 2 5 -2
+p716
+aVKemba Walker CHA 11/28/2012 CHA @ ATL L 38 15 4 15 26.7 2 4 50.0 5 6 83.3 1 4 5 5 0 1 2 0 -5
+p717
+aVBen Gordon CHA 11/28/2012 CHA @ ATL L 27 26 7 11 63.6 7 10 70.0 5 5 100.0 0 4 4 3 1 0 2 3 5
+p718
+aVRamon Sessions CHA 11/28/2012 CHA @ ATL L 34 18 7 17 41.2 0 2 0.0 4 5 80.0 0 2 2 8 2 0 3 1 1
+p719
+aVMichael Kidd-Gilchrist CHA 11/26/2012 CHA @ OKC L 22 8 3 9 33.3 0 0 - 2 2 100.0 2 1 3 0 0 1 1 1 -32
+p720
+aVCory Higgins CHA 11/26/2012 CHA @ OKC L 14 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 3 1 0 0 1 1
+p721
+aVDeSagana Diop CHA 11/26/2012 CHA @ OKC L 19 0 0 1 0.0 0 0 - 0 0 - 1 8 9 1 0 1 0 1 -4
+p722
+aVByron Mullens CHA 11/26/2012 CHA @ OKC L 27 9 3 11 27.3 2 7 28.6 1 2 50.0 0 3 3 1 0 0 0 1 -35
+p723
+aVBrendan Haywood CHA 11/26/2012 CHA @ OKC L 24 4 2 6 33.3 0 0 - 0 0 - 5 3 8 1 0 0 2 2 -39
+p724
+aVBen Gordon CHA 11/26/2012 CHA @ OKC L 26 9 2 7 28.6 1 4 25.0 4 4 100.0 0 1 1 1 1 1 2 2 -26
+p725
+aVHakim Warrick CHA 11/26/2012 CHA @ OKC L 24 6 1 8 12.5 0 0 - 4 4 100.0 1 2 3 0 1 1 1 1 -12
+p726
+aVRamon Sessions CHA 11/26/2012 CHA @ OKC L 19 7 1 9 11.1 0 0 - 5 6 83.3 1 4 5 1 0 0 2 3 -14
+p727
+aVReggie Williams CHA 11/26/2012 CHA @ OKC L 18 9 4 8 50.0 1 4 25.0 0 0 - 0 1 1 2 1 0 0 2 5
+p728
+aVJeff Taylor CHA 11/26/2012 CHA @ OKC L 26 10 4 7 57.1 1 3 33.3 1 2 50.0 1 1 2 0 4 0 1 3 -38
+p729
+aVKemba Walker CHA 11/26/2012 CHA @ OKC L 20 0 0 6 0.0 0 2 0.0 0 2 0.0 0 0 0 2 1 0 2 2 -31
+p730
+aVReggie Williams CHA 11/24/2012 CHA @ WAS W 8 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 -6
+p731
+aVBen Gordon CHA 11/24/2012 CHA @ WAS W 31 19 6 13 46.2 4 6 66.7 3 4 75.0 0 2 2 2 1 0 2 6 0
+p732
+aVDeSagana Diop CHA 11/24/2012 CHA @ WAS W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -1
+p733
+aVBrendan Haywood CHA 11/24/2012 CHA @ WAS W 37 2 1 2 50.0 0 0 - 0 0 - 1 4 5 2 0 2 3 4 0
+p734
+aVRamon Sessions CHA 11/24/2012 CHA @ WAS W 41 21 6 14 42.9 0 2 0.0 9 11 81.8 1 4 5 3 4 0 2 2 -13
+p735
+aVKemba Walker CHA 11/24/2012 CHA @ WAS W 47 12 3 17 17.6 0 3 0.0 6 8 75.0 2 5 7 8 2 0 2 1 -2
+p736
+aVHakim Warrick CHA 11/24/2012 CHA @ WAS W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 4
+p737
+aVByron Mullens CHA 11/24/2012 CHA @ WAS W 46 27 9 15 60.0 5 11 45.5 4 5 80.0 0 8 8 2 1 2 2 4 2
+p738
+aVJeff Taylor CHA 11/24/2012 CHA @ WAS W 37 12 3 6 50.0 2 3 66.7 4 6 66.7 1 2 3 0 2 0 3 6 19
+p739
+aVMichael Kidd-Gilchrist CHA 11/24/2012 CHA @ WAS W 24 10 5 10 50.0 0 0 - 0 0 - 0 8 8 3 2 0 1 6 7
+p740
+aVByron Mullens CHA 11/23/2012 CHA vs. ATL L 37 12 4 14 28.6 0 3 0.0 4 4 100.0 3 5 8 2 6 2 4 0 1
+p741
+aVBrendan Haywood CHA 11/23/2012 CHA vs. ATL L 22 8 4 5 80.0 0 0 - 0 0 - 2 1 3 0 0 2 1 3 -4
+p742
+aVRamon Sessions CHA 11/23/2012 CHA vs. ATL L 29 22 6 15 40.0 2 4 50.0 8 11 72.7 0 4 4 4 2 0 0 2 5
+p743
+aVJeff Taylor CHA 11/23/2012 CHA vs. ATL L 36 16 5 13 38.5 4 6 66.7 2 2 100.0 1 1 2 0 3 0 1 1 -2
+p744
+aVBen Gordon CHA 11/23/2012 CHA vs. ATL L 16 4 1 8 12.5 0 3 0.0 2 2 100.0 1 0 1 2 0 0 0 0 -7
+p745
+aVKemba Walker CHA 11/23/2012 CHA vs. ATL L 44 16 6 15 40.0 2 6 33.3 2 3 66.7 0 4 4 9 2 0 4 2 -6
+p746
+aVBismack Biyombo CHA 11/23/2012 CHA vs. ATL L 19 2 0 1 0.0 0 0 - 2 2 100.0 0 6 6 0 1 1 1 1 -10
+p747
+aVHakim Warrick CHA 11/23/2012 CHA vs. ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p748
+aVMichael Kidd-Gilchrist CHA 11/23/2012 CHA vs. ATL L 34 11 5 11 45.5 0 0 - 1 2 50.0 0 7 7 0 2 4 1 5 -20
+p749
+aVMichael Kidd-Gilchrist CHA 11/21/2012 CHA vs. TOR W 31 14 4 7 57.1 0 0 - 6 7 85.7 1 2 3 2 2 0 0 2 -2
+p750
+aVBismack Biyombo CHA 11/21/2012 CHA vs. TOR W 26 11 5 6 83.3 0 0 - 1 2 50.0 4 4 8 1 1 2 2 4 11
+p751
+aVByron Mullens CHA 11/21/2012 CHA vs. TOR W 25 10 4 14 28.6 0 5 0.0 2 4 50.0 1 7 8 1 0 0 1 3 -5
+p752
+aVRamon Sessions CHA 11/21/2012 CHA vs. TOR W 33 14 5 19 26.3 0 3 0.0 4 4 100.0 0 4 4 6 1 0 2 1 9
+p753
+aVKemba Walker CHA 11/21/2012 CHA vs. TOR W 39 19 8 16 50.0 1 4 25.0 2 3 66.7 0 3 3 7 1 3 4 1 -5
+p754
+aVBrendan Haywood CHA 11/21/2012 CHA vs. TOR W 26 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 0 1 1 1 -4
+p755
+aVBen Gordon CHA 11/21/2012 CHA vs. TOR W 23 13 4 11 36.4 1 5 20.0 4 4 100.0 0 2 2 4 0 2 2 2 9
+p756
+aVJeff Taylor CHA 11/21/2012 CHA vs. TOR W 30 11 4 8 50.0 1 2 50.0 2 2 100.0 3 3 6 0 2 1 0 5 -8
+p757
+aVHakim Warrick CHA 11/21/2012 CHA vs. TOR W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p758
+aVMichael Kidd-Gilchrist CHA 11/19/2012 CHA vs. MIL W 30 15 4 13 30.8 0 0 - 7 8 87.5 4 5 9 4 1 1 1 0 5
+p759
+aVByron Mullens CHA 11/19/2012 CHA vs. MIL W 40 19 7 14 50.0 1 2 50.0 4 4 100.0 0 9 9 1 1 0 3 2 12
+p760
+aVRamon Sessions CHA 11/19/2012 CHA vs. MIL W 32 23 6 13 46.2 1 2 50.0 10 10 100.0 0 4 4 4 1 0 5 3 6
+p761
+aVBen Gordon CHA 11/19/2012 CHA vs. MIL W 14 8 3 8 37.5 0 2 0.0 2 2 100.0 0 0 0 2 1 0 2 1 -9
+p762
+aVKemba Walker CHA 11/19/2012 CHA vs. MIL W 36 19 7 13 53.8 1 3 33.3 4 4 100.0 0 3 3 4 3 0 3 2 5
+p763
+aVJeff Taylor CHA 11/19/2012 CHA vs. MIL W 33 10 5 11 45.5 0 2 0.0 0 0 - 2 0 2 4 0 1 0 2 7
+p764
+aVHakim Warrick CHA 11/19/2012 CHA vs. MIL W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -11
+p765
+aVBrendan Haywood CHA 11/19/2012 CHA vs. MIL W 33 6 3 6 50.0 0 0 - 0 2 0.0 2 9 11 2 0 2 1 1 13
+p766
+aVBismack Biyombo CHA 11/19/2012 CHA vs. MIL W 13 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 1 1 2 -8
+p767
+aVTyrus Thomas CHA 11/17/2012 CHA vs. MEM L 15 0 0 6 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 2 -3
+p768
+aVRamon Sessions CHA 11/17/2012 CHA vs. MEM L 25 12 6 11 54.5 0 2 0.0 0 0 - 0 4 4 2 1 0 2 1 0
+p769
+aVBrendan Haywood CHA 11/17/2012 CHA vs. MEM L 20 5 2 4 50.0 0 0 - 1 1 100.0 1 3 4 1 0 0 0 1 -15
+p770
+aVMichael Kidd-Gilchrist CHA 11/17/2012 CHA vs. MEM L 22 12 3 4 75.0 0 0 - 6 10 60.0 4 4 8 1 1 1 3 5 1
+p771
+aVByron Mullens CHA 11/17/2012 CHA vs. MEM L 34 18 7 21 33.3 2 4 50.0 2 3 66.7 2 7 9 1 1 0 2 5 -4
+p772
+aVBen Gordon CHA 11/17/2012 CHA vs. MEM L 29 10 4 10 40.0 2 5 40.0 0 0 - 1 2 3 3 2 0 4 2 -6
+p773
+aVJeff Taylor CHA 11/17/2012 CHA vs. MEM L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -5
+p774
+aVKemba Walker CHA 11/17/2012 CHA vs. MEM L 42 17 6 17 35.3 0 1 0.0 5 6 83.3 1 4 5 8 0 1 4 3 -5
+p775
+aVHakim Warrick CHA 11/17/2012 CHA vs. MEM L 10 5 1 2 50.0 0 0 - 3 6 50.0 2 2 4 0 0 1 0 0 3
+p776
+aVReggie Williams CHA 11/17/2012 CHA vs. MEM L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -6
+p777
+aVBismack Biyombo CHA 11/17/2012 CHA vs. MEM L 26 4 2 6 33.3 0 0 - 0 0 - 3 4 7 0 1 1 0 6 5
+p778
+aVCory Higgins CHA 11/14/2012 CHA @ MIN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p779
+aVKemba Walker CHA 11/14/2012 CHA @ MIN W 45 22 9 19 47.4 1 3 33.3 3 3 100.0 0 4 4 5 4 1 5 3 4
+p780
+aVBrendan Haywood CHA 11/14/2012 CHA @ MIN W 27 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 0 2 3 4 -7
+p781
+aVRamon Sessions CHA 11/14/2012 CHA @ MIN W 32 18 8 20 40.0 0 5 0.0 2 5 40.0 1 5 6 4 2 0 0 0 2
+p782
+aVBismack Biyombo CHA 11/14/2012 CHA @ MIN W 18 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 0 2 1 2 16
+p783
+aVReggie Williams CHA 11/14/2012 CHA @ MIN W 21 8 3 7 42.9 2 3 66.7 0 0 - 1 2 3 2 3 0 0 0 10
+p784
+aVMichael Kidd-Gilchrist CHA 11/14/2012 CHA @ MIN W 17 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 2 3 -5
+p785
+aVByron Mullens CHA 11/14/2012 CHA @ MIN W 34 12 5 12 41.7 0 2 0.0 2 2 100.0 4 11 15 2 1 4 0 5 -11
+p786
+aVJeff Taylor CHA 11/14/2012 CHA @ MIN W 25 7 3 7 42.9 1 3 33.3 0 2 0.0 0 1 1 0 0 0 2 3 -3
+p787
+aVTyrus Thomas CHA 11/14/2012 CHA @ MIN W 18 10 4 6 66.7 0 0 - 2 2 100.0 0 4 4 0 1 3 2 5 6
+p788
+aVRamon Sessions CHA 11/13/2012 CHA vs. WAS W 30 21 7 18 38.9 1 2 50.0 6 8 75.0 1 4 5 2 0 0 2 1 11
+p789
+aVKemba Walker CHA 11/13/2012 CHA vs. WAS W 35 17 5 13 38.5 1 4 25.0 6 7 85.7 0 3 3 2 2 0 0 2 25
+p790
+aVDeSagana Diop CHA 11/13/2012 CHA vs. WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p791
+aVBrendan Haywood CHA 11/13/2012 CHA vs. WAS W 31 8 4 6 66.7 0 0 - 0 0 - 4 7 11 1 2 1 1 3 10
+p792
+aVTyrus Thomas CHA 11/13/2012 CHA vs. WAS W 21 10 2 7 28.6 0 0 - 6 6 100.0 2 4 6 1 0 2 2 3 6
+p793
+aVByron Mullens CHA 11/13/2012 CHA vs. WAS W 27 9 3 8 37.5 1 3 33.3 2 4 50.0 0 6 6 4 2 2 1 0 10
+p794
+aVBismack Biyombo CHA 11/13/2012 CHA vs. WAS W 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 3
+p795
+aVMichael Kidd-Gilchrist CHA 11/13/2012 CHA vs. WAS W 27 15 6 11 54.5 0 0 - 3 3 100.0 2 6 8 2 0 1 2 5 2
+p796
+aVReggie Williams CHA 11/13/2012 CHA vs. WAS W 14 6 2 4 50.0 0 2 0.0 2 2 100.0 1 3 4 1 0 0 1 0 5
+p797
+aVCory Higgins CHA 11/13/2012 CHA vs. WAS W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -2
+p798
+aVJeff Taylor CHA 11/13/2012 CHA vs. WAS W 32 6 2 7 28.6 0 2 0.0 2 2 100.0 3 3 6 4 1 1 3 1 7
+p799
+aVReggie Williams CHA 11/10/2012 CHA vs. DAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p800
+aVTyrus Thomas CHA 11/10/2012 CHA vs. DAL W 15 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -12
+p801
+aVByron Mullens CHA 11/10/2012 CHA vs. DAL W 38 7 3 9 33.3 1 5 20.0 0 0 - 3 11 14 1 0 0 2 3 16
+p802
+aVBrendan Haywood CHA 11/10/2012 CHA vs. DAL W 34 8 4 7 57.1 0 0 - 0 2 0.0 4 3 7 0 0 0 2 3 17
+p803
+aVDeSagana Diop CHA 11/10/2012 CHA vs. DAL W 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 1 0 0 4
+p804
+aVKemba Walker CHA 11/10/2012 CHA vs. DAL W 41 26 10 22 45.5 0 2 0.0 6 8 75.0 3 3 6 7 8 0 4 4 14
+p805
+aVJeff Taylor CHA 11/10/2012 CHA vs. DAL W 32 8 4 10 40.0 0 4 0.0 0 0 - 2 4 6 0 2 2 2 1 -1
+p806
+aVCory Higgins CHA 11/10/2012 CHA vs. DAL W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p807
+aVMichael Kidd-Gilchrist CHA 11/10/2012 CHA vs. DAL W 41 25 8 12 66.7 0 0 - 9 10 90.0 5 7 12 0 1 2 0 4 19
+p808
+aVRamon Sessions CHA 11/10/2012 CHA vs. DAL W 22 12 5 15 33.3 0 3 0.0 2 4 50.0 2 1 3 4 0 0 4 1 0
+p809
+aVBen Gordon CHA 11/10/2012 CHA vs. DAL W 20 11 4 14 28.6 2 4 50.0 1 4 25.0 0 1 1 2 0 0 1 6 -12
+p810
+aVBismack Biyombo CHA 11/10/2012 CHA vs. DAL W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -19
+p811
+aVKemba Walker CHA 11/09/2012 CHA @ NOH L 25 11 5 14 35.7 0 2 0.0 1 1 100.0 1 3 4 6 1 0 2 2 3
+p812
+aVTyrus Thomas CHA 11/09/2012 CHA @ NOH L 23 6 2 8 25.0 0 0 - 2 4 50.0 2 3 5 3 0 3 1 4 1
+p813
+aVRamon Sessions CHA 11/09/2012 CHA @ NOH L 24 13 4 8 50.0 0 2 0.0 5 6 83.3 0 1 1 4 0 0 1 2 -9
+p814
+aVBen Gordon CHA 11/09/2012 CHA @ NOH L 35 34 14 21 66.7 3 6 50.0 3 4 75.0 3 3 6 4 0 0 4 1 -9
+p815
+aVMichael Kidd-Gilchrist CHA 11/09/2012 CHA @ NOH L 33 12 5 9 55.6 1 1 100.0 1 1 100.0 2 4 6 0 2 3 2 3 -3
+p816
+aVJeff Taylor CHA 11/09/2012 CHA @ NOH L 13 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 2 3
+p817
+aVBismack Biyombo CHA 11/09/2012 CHA @ NOH L 36 6 3 6 50.0 0 0 - 0 2 0.0 6 7 13 0 0 3 1 1 2
+p818
+aVByron Mullens CHA 11/09/2012 CHA @ NOH L 25 5 2 9 22.2 1 5 20.0 0 0 - 1 2 3 0 1 0 0 2 -7
+p819
+aVReggie Williams CHA 11/09/2012 CHA @ NOH L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 2 0 1 0 -3
+p820
+aVDeSagana Diop CHA 11/09/2012 CHA @ NOH L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -8
+p821
+aVReggie Williams CHA 11/07/2012 CHA vs. PHX L 10 9 4 5 80.0 1 1 100.0 0 0 - 2 0 2 0 0 0 0 0 0
+p822
+aVJeff Taylor CHA 11/07/2012 CHA vs. PHX L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p823
+aVRamon Sessions CHA 11/07/2012 CHA vs. PHX L 35 17 2 10 20.0 1 3 33.3 12 14 85.7 1 2 3 9 0 0 3 0 -8
+p824
+aVKemba Walker CHA 11/07/2012 CHA vs. PHX L 40 17 6 14 42.9 0 2 0.0 5 6 83.3 0 1 1 8 1 0 0 5 -9
+p825
+aVTyrus Thomas CHA 11/07/2012 CHA vs. PHX L 16 10 3 8 37.5 0 0 - 4 4 100.0 2 0 2 1 1 2 0 2 -1
+p826
+aVMichael Kidd-Gilchrist CHA 11/07/2012 CHA vs. PHX L 29 9 4 10 40.0 0 0 - 1 1 100.0 2 6 8 3 0 3 3 3 4
+p827
+aVBismack Biyombo CHA 11/07/2012 CHA vs. PHX L 22 5 2 3 66.7 0 0 - 1 1 100.0 2 3 5 0 0 3 1 2 -1
+p828
+aVBrendan Haywood CHA 11/07/2012 CHA vs. PHX L 17 7 3 4 75.0 0 0 - 1 1 100.0 3 4 7 0 0 2 2 2 -3
+p829
+aVBen Gordon CHA 11/07/2012 CHA vs. PHX L 25 12 5 14 35.7 2 6 33.3 0 0 - 1 2 3 5 1 2 2 1 -11
+p830
+aVByron Mullens CHA 11/07/2012 CHA vs. PHX L 37 24 9 16 56.3 6 10 60.0 0 0 - 2 6 8 0 1 0 1 5 -8
+p831
+aVJeff Taylor CHA 11/03/2012 CHA @ DAL L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p832
+aVRamon Sessions CHA 11/03/2012 CHA @ DAL L 28 22 8 13 61.5 1 3 33.3 5 5 100.0 0 4 4 5 0 0 1 0 -16
+p833
+aVMatt Carroll CHA 11/03/2012 CHA @ DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p834
+aVBismack Biyombo CHA 11/03/2012 CHA @ DAL L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -16
+p835
+aVMichael Kidd-Gilchrist CHA 11/03/2012 CHA @ DAL L 27 13 4 8 50.0 0 0 - 5 9 55.6 3 2 5 2 5 1 3 1 7
+p836
+aVKemba Walker CHA 11/03/2012 CHA @ DAL L 31 10 4 10 40.0 0 3 0.0 2 2 100.0 0 3 3 5 3 0 1 1 -17
+p837
+aVBrendan Haywood CHA 11/03/2012 CHA @ DAL L 31 14 7 13 53.8 0 0 - 0 0 - 7 4 11 0 0 1 0 3 -2
+p838
+aVGerald Henderson CHA 11/03/2012 CHA @ DAL L 20 7 2 9 22.2 0 0 - 3 4 75.0 2 1 3 2 1 0 1 1 -16
+p839
+aVBen Gordon CHA 11/03/2012 CHA @ DAL L 19 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 1 1 0 1 0 -15
+p840
+aVCory Higgins CHA 11/03/2012 CHA @ DAL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p841
+aVReggie Williams CHA 11/03/2012 CHA @ DAL L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 -17
+p842
+aVByron Mullens CHA 11/03/2012 CHA @ DAL L 32 16 7 18 38.9 2 8 25.0 0 0 - 3 7 10 1 0 0 1 2 -19
+p843
+aVTyrus Thomas CHA 11/03/2012 CHA @ DAL L 19 9 4 7 57.1 0 0 - 1 2 50.0 0 2 2 1 1 0 0 3 -18
+p844
+aVTyrus Thomas CHA 11/02/2012 CHA vs. IND W 17 4 1 9 11.1 0 0 - 2 2 100.0 0 3 3 1 1 0 1 4 -11
+p845
+aVGerald Henderson CHA 11/02/2012 CHA vs. IND W 36 18 6 14 42.9 2 5 40.0 4 4 100.0 0 1 1 3 5 2 2 4 10
+p846
+aVBrendan Haywood CHA 11/02/2012 CHA vs. IND W 31 4 1 3 33.3 0 0 - 2 4 50.0 3 6 9 2 0 0 1 5 14
+p847
+aVReggie Williams CHA 11/02/2012 CHA vs. IND W 12 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -9
+p848
+aVRamon Sessions CHA 11/02/2012 CHA vs. IND W 21 11 3 8 37.5 1 1 100.0 4 4 100.0 0 2 2 4 1 0 2 3 -12
+p849
+aVByron Mullens CHA 11/02/2012 CHA vs. IND W 31 6 3 10 30.0 0 6 0.0 0 0 - 2 5 7 2 2 2 0 2 12
+p850
+aVBismack Biyombo CHA 11/02/2012 CHA vs. IND W 17 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 2 0 1 -13
+p851
+aVKemba Walker CHA 11/02/2012 CHA vs. IND W 33 30 10 21 47.6 1 1 100.0 9 10 90.0 3 2 5 3 1 1 1 1 13
+p852
+aVBen Gordon CHA 11/02/2012 CHA vs. IND W 22 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 2 0 0 1 1 -11
+p853
+aVMichael Kidd-Gilchrist CHA 11/02/2012 CHA vs. IND W 20 2 1 7 14.3 0 0 - 0 0 - 2 5 7 1 0 2 1 0 12
+p854
+a.

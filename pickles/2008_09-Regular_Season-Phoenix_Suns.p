@@ -1,0 +1,1666 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLeandro Barbosa PHX 04/15/2009 PHX vs. GSW W 27 18 8 18 44.4 2 5 40.0 0 0 - 2 1 3 0 1 0 0 0 -2
+p2
+aVJared Dudley PHX 04/15/2009 PHX vs. GSW W 19 9 3 6 50.0 0 2 0.0 3 5 60.0 4 3 7 0 2 0 1 3 5
+p3
+aVMatt Barnes PHX 04/15/2009 PHX vs. GSW W 31 12 4 7 57.1 2 4 50.0 2 2 100.0 1 7 8 4 1 1 2 3 -6
+p4
+aVRobin Lopez PHX 04/15/2009 PHX vs. GSW W 17 7 2 3 66.7 0 0 - 3 4 75.0 0 7 7 0 1 2 0 2 5
+p5
+aVLou Amundson PHX 04/15/2009 PHX vs. GSW W 13 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 0 0 2 0 1 9
+p6
+aVGrant Hill PHX 04/15/2009 PHX vs. GSW W 32 27 7 25 28.0 0 1 0.0 13 16 81.3 8 2 10 5 4 1 1 1 -2
+p7
+aVSteve Nash PHX 04/15/2009 PHX vs. GSW W 37 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 10 0 0 3 3 0
+p8
+aVGoran Dragic PHX 04/15/2009 PHX vs. GSW W 15 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 6
+p9
+aVShaquille O'Neal PHX 04/15/2009 PHX vs. GSW W 31 15 5 9 55.6 0 0 - 5 11 45.5 3 3 6 0 0 1 1 4 1
+p10
+aVJason Richardson PHX 04/15/2009 PHX vs. GSW W 17 10 4 7 57.1 2 3 66.7 0 0 - 1 1 2 1 0 0 0 3 4
+p11
+aVShaquille O'Neal PHX 04/13/2009 PHX vs. MEM W 30 19 8 11 72.7 0 0 - 3 9 33.3 1 2 3 1 4 1 2 3 14
+p12
+aVJared Dudley PHX 04/13/2009 PHX vs. MEM W 17 3 1 4 25.0 0 2 0.0 1 2 50.0 1 0 1 0 1 0 0 0 -10
+p13
+aVGrant Hill PHX 04/13/2009 PHX vs. MEM W 35 14 5 9 55.6 0 0 - 4 5 80.0 2 6 8 3 0 1 4 1 15
+p14
+aVSteve Nash PHX 04/13/2009 PHX vs. MEM W 32 18 7 10 70.0 0 1 0.0 4 4 100.0 0 0 0 12 0 0 4 3 13
+p15
+aVLou Amundson PHX 04/13/2009 PHX vs. MEM W 13 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -6
+p16
+aVRobin Lopez PHX 04/13/2009 PHX vs. MEM W 18 14 5 7 71.4 0 0 - 4 4 100.0 4 1 5 0 0 1 2 4 -5
+p17
+aVLeandro Barbosa PHX 04/13/2009 PHX vs. MEM W 18 10 2 7 28.6 0 1 0.0 6 7 85.7 0 1 1 1 1 0 1 1 -7
+p18
+aVJason Richardson PHX 04/13/2009 PHX vs. MEM W 30 18 7 15 46.7 2 4 50.0 2 2 100.0 2 6 8 2 2 2 1 3 16
+p19
+aVGoran Dragic PHX 04/13/2009 PHX vs. MEM W 16 7 2 5 40.0 1 2 50.0 2 4 50.0 0 4 4 2 0 0 1 2 -4
+p20
+aVMatt Barnes PHX 04/13/2009 PHX vs. MEM W 31 12 5 9 55.6 2 5 40.0 0 0 - 1 4 5 4 1 0 0 3 19
+p21
+aVAlando Tucker PHX 04/11/2009 PHX @ MIN W 13 10 4 8 50.0 0 1 0.0 2 3 66.7 2 0 2 2 0 0 0 0 -9
+p22
+aVJared Dudley PHX 04/11/2009 PHX @ MIN W 25 16 6 12 50.0 4 5 80.0 0 0 - 1 1 2 1 0 0 2 0 -4
+p23
+aVJason Richardson PHX 04/11/2009 PHX @ MIN W 16 8 3 6 50.0 1 4 25.0 1 1 100.0 0 0 0 0 0 0 1 2 0
+p24
+aVGrant Hill PHX 04/11/2009 PHX @ MIN W 23 19 7 8 87.5 0 0 - 5 5 100.0 1 2 3 2 4 0 3 3 17
+p25
+aVSteve Nash PHX 04/11/2009 PHX @ MIN W 17 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 7 1 0 2 0 17
+p26
+aVLeandro Barbosa PHX 04/11/2009 PHX @ MIN W 23 16 6 10 60.0 1 1 100.0 3 3 100.0 0 2 2 2 2 0 2 1 25
+p27
+aVStromile Swift PHX 04/11/2009 PHX @ MIN W 6 2 0 1 0.0 0 0 - 2 4 50.0 1 0 1 0 0 1 1 3 2
+p28
+aVShaquille O'Neal PHX 04/11/2009 PHX @ MIN W 18 10 2 7 28.6 0 0 - 6 9 66.7 4 6 10 1 0 1 1 2 3
+p29
+aVMatt Barnes PHX 04/11/2009 PHX @ MIN W 16 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 0 1 0 1 1 15
+p30
+aVLou Amundson PHX 04/11/2009 PHX @ MIN W 29 4 2 4 50.0 0 0 - 0 1 0.0 1 6 7 1 0 0 1 0 -5
+p31
+aVGoran Dragic PHX 04/11/2009 PHX @ MIN W 27 8 3 11 27.3 1 2 50.0 1 1 100.0 1 3 4 8 0 1 4 3 -7
+p32
+aVRobin Lopez PHX 04/11/2009 PHX @ MIN W 26 6 3 6 50.0 0 0 - 0 0 - 3 8 11 1 0 1 3 3 11
+p33
+aVMatt Barnes PHX 04/10/2009 PHX @ MEM L 27 9 3 4 75.0 1 2 50.0 2 2 100.0 0 5 5 2 1 0 2 1 -10
+p34
+aVSteve Nash PHX 04/10/2009 PHX @ MEM L 20 9 4 4 100.0 0 0 - 1 2 50.0 0 3 3 6 2 0 2 0 -10
+p35
+aVLou Amundson PHX 04/10/2009 PHX @ MEM L 21 13 5 8 62.5 0 0 - 3 6 50.0 5 4 9 1 2 0 2 5 -7
+p36
+aVJason Richardson PHX 04/10/2009 PHX @ MEM L 26 13 6 12 50.0 1 4 25.0 0 0 - 2 1 3 1 1 1 2 0 -13
+p37
+aVJared Dudley PHX 04/10/2009 PHX @ MEM L 27 7 3 7 42.9 0 2 0.0 1 1 100.0 1 3 4 1 0 1 2 1 -3
+p38
+aVGrant Hill PHX 04/10/2009 PHX @ MEM L 21 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 0 1 1 1 0 -14
+p39
+aVLeandro Barbosa PHX 04/10/2009 PHX @ MEM L 22 5 2 5 40.0 0 1 0.0 1 1 100.0 0 2 2 3 0 0 4 0 0
+p40
+aVRobin Lopez PHX 04/10/2009 PHX @ MEM L 21 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 0 3 1 4 -2
+p41
+aVAlando Tucker PHX 04/10/2009 PHX @ MEM L 3 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p42
+aVShaquille O'Neal PHX 04/10/2009 PHX @ MEM L 18 9 4 9 44.4 0 0 - 1 4 25.0 2 1 3 1 2 1 4 3 -15
+p43
+aVGoran Dragic PHX 04/10/2009 PHX @ MEM L 25 6 2 7 28.6 1 3 33.3 1 4 25.0 0 4 4 7 4 0 2 1 -8
+p44
+aVStromile Swift PHX 04/10/2009 PHX @ MEM L 9 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p45
+aVLou Amundson PHX 04/08/2009 PHX @ NOH W 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 6
+p46
+aVLeandro Barbosa PHX 04/08/2009 PHX @ NOH W 20 7 3 7 42.9 0 1 0.0 1 1 100.0 1 1 2 1 0 0 3 1 1
+p47
+aVJason Richardson PHX 04/08/2009 PHX @ NOH W 28 17 6 12 50.0 0 4 0.0 5 5 100.0 0 2 2 1 0 1 1 0 4
+p48
+aVJared Dudley PHX 04/08/2009 PHX @ NOH W 29 10 3 7 42.9 3 5 60.0 1 2 50.0 0 2 2 2 0 0 0 4 3
+p49
+aVRobin Lopez PHX 04/08/2009 PHX @ NOH W 11 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 6
+p50
+aVGoran Dragic PHX 04/08/2009 PHX @ NOH W 14 9 3 5 60.0 1 2 50.0 2 2 100.0 0 5 5 2 1 0 0 2 3
+p51
+aVGrant Hill PHX 04/08/2009 PHX @ NOH W 33 10 5 9 55.6 0 1 0.0 0 0 - 2 2 4 1 1 0 3 1 -3
+p52
+aVMatt Barnes PHX 04/08/2009 PHX @ NOH W 21 9 2 8 25.0 1 4 25.0 4 6 66.7 0 5 5 1 0 0 0 1 3
+p53
+aVShaquille O'Neal PHX 04/08/2009 PHX @ NOH W 37 17 7 10 70.0 0 0 - 3 8 37.5 1 10 11 4 0 2 4 1 0
+p54
+aVSteve Nash PHX 04/08/2009 PHX @ NOH W 34 24 7 9 77.8 1 2 50.0 9 9 100.0 1 1 2 13 1 0 1 1 2
+p55
+aVShaquille O'Neal PHX 04/05/2009 PHX @ DAL L 27 14 6 9 66.7 0 0 - 2 5 40.0 3 4 7 3 1 0 2 2 -15
+p56
+aVLou Amundson PHX 04/05/2009 PHX @ DAL L 21 4 1 4 25.0 0 0 - 2 4 50.0 3 2 5 1 1 2 3 2 2
+p57
+aVLeandro Barbosa PHX 04/05/2009 PHX @ DAL L 24 24 9 14 64.3 2 4 50.0 4 4 100.0 0 2 2 3 1 0 1 0 -16
+p58
+aVGrant Hill PHX 04/05/2009 PHX @ DAL L 29 23 8 12 66.7 0 1 0.0 7 9 77.8 3 3 6 0 1 0 0 2 -24
+p59
+aVJason Richardson PHX 04/05/2009 PHX @ DAL L 16 2 0 4 0.0 0 3 0.0 2 4 50.0 1 3 4 0 0 0 1 0 -20
+p60
+aVMatt Barnes PHX 04/05/2009 PHX @ DAL L 20 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 2 1 -19
+p61
+aVAlando Tucker PHX 04/05/2009 PHX @ DAL L 10 13 4 6 66.7 0 1 0.0 5 5 100.0 1 1 2 0 0 0 1 0 8
+p62
+aVGoran Dragic PHX 04/05/2009 PHX @ DAL L 20 12 5 9 55.6 2 4 50.0 0 0 - 1 0 1 0 0 0 1 2 3
+p63
+aVJared Dudley PHX 04/05/2009 PHX @ DAL L 27 10 2 7 28.6 1 4 25.0 5 5 100.0 0 3 3 3 2 0 1 5 -6
+p64
+aVSteve Nash PHX 04/05/2009 PHX @ DAL L 27 12 4 12 33.3 1 3 33.3 3 3 100.0 1 1 2 8 1 0 2 3 -22
+p65
+aVRobin Lopez PHX 04/05/2009 PHX @ DAL L 18 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 2 0 2 -11
+p66
+aVGrant Hill PHX 04/03/2009 PHX vs. SAC W 25 12 5 7 71.4 0 0 - 2 3 66.7 0 3 3 2 0 0 4 3 8
+p67
+aVAlando Tucker PHX 04/03/2009 PHX vs. SAC W 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p68
+aVRobin Lopez PHX 04/03/2009 PHX vs. SAC W 21 8 2 4 50.0 0 1 0.0 4 5 80.0 2 2 4 0 1 3 2 4 13
+p69
+aVLeandro Barbosa PHX 04/03/2009 PHX vs. SAC W 15 15 6 9 66.7 1 2 50.0 2 2 100.0 0 1 1 3 1 0 0 4 9
+p70
+aVJason Richardson PHX 04/03/2009 PHX vs. SAC W 25 19 6 14 42.9 2 4 50.0 5 5 100.0 3 2 5 2 1 0 0 2 18
+p71
+aVLou Amundson PHX 04/03/2009 PHX vs. SAC W 21 6 3 9 33.3 0 0 - 0 1 0.0 6 0 6 0 0 2 1 2 11
+p72
+aVSteve Nash PHX 04/03/2009 PHX vs. SAC W 31 29 12 19 63.2 3 4 75.0 2 2 100.0 1 2 3 9 1 0 3 0 19
+p73
+aVMatt Barnes PHX 04/03/2009 PHX vs. SAC W 28 11 3 8 37.5 3 5 60.0 2 4 50.0 1 10 11 5 1 1 3 2 18
+p74
+aVJared Dudley PHX 04/03/2009 PHX vs. SAC W 28 15 5 10 50.0 4 8 50.0 1 2 50.0 3 3 6 0 0 0 0 3 13
+p75
+aVShaquille O'Neal PHX 04/03/2009 PHX vs. SAC W 24 11 4 4 100.0 0 0 - 3 7 42.9 0 6 6 1 2 3 1 3 15
+p76
+aVGoran Dragic PHX 04/03/2009 PHX vs. SAC W 18 11 5 8 62.5 1 2 50.0 0 0 - 1 4 5 5 2 1 0 1 12
+p77
+aVMatt Barnes PHX 04/01/2009 PHX vs. HOU W 33 16 6 7 85.7 2 3 66.7 2 4 50.0 0 9 9 2 2 0 1 3 1
+p78
+aVShaquille O'Neal PHX 04/01/2009 PHX vs. HOU W 38 22 8 17 47.1 0 0 - 6 11 54.5 3 7 10 1 3 2 3 1 1
+p79
+aVAlando Tucker PHX 04/01/2009 PHX vs. HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p80
+aVStromile Swift PHX 04/01/2009 PHX vs. HOU W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p81
+aVSteve Nash PHX 04/01/2009 PHX vs. HOU W 39 25 9 15 60.0 2 2 100.0 5 8 62.5 1 0 1 17 3 0 1 1 18
+p82
+aVJason Richardson PHX 04/01/2009 PHX vs. HOU W 36 18 8 15 53.3 1 4 25.0 1 3 33.3 2 3 5 3 1 0 1 2 2
+p83
+aVJared Dudley PHX 04/01/2009 PHX vs. HOU W 22 7 2 4 50.0 1 2 50.0 2 4 50.0 3 3 6 0 0 2 2 2 2
+p84
+aVLou Amundson PHX 04/01/2009 PHX vs. HOU W 16 0 0 4 0.0 0 0 - 0 0 - 2 6 8 0 0 2 0 3 19
+p85
+aVRobin Lopez PHX 04/01/2009 PHX vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p86
+aVGoran Dragic PHX 04/01/2009 PHX vs. HOU W 9 3 1 3 33.3 0 1 0.0 1 2 50.0 1 1 2 1 0 0 1 0 -13
+p87
+aVGrant Hill PHX 04/01/2009 PHX vs. HOU W 39 23 10 13 76.9 0 0 - 3 3 100.0 0 3 3 1 1 0 3 1 9
+p88
+aVShaquille O'Neal PHX 03/29/2009 PHX @ SAC L 35 24 9 13 69.2 0 1 0.0 6 15 40.0 3 6 9 3 0 1 2 3 7
+p89
+aVRobin Lopez PHX 03/29/2009 PHX @ SAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p90
+aVJason Richardson PHX 03/29/2009 PHX @ SAC L 41 16 5 13 38.5 4 9 44.4 2 4 50.0 1 7 8 2 1 1 1 1 -7
+p91
+aVAlando Tucker PHX 03/29/2009 PHX @ SAC L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p92
+aVGoran Dragic PHX 03/29/2009 PHX @ SAC L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 4 0
+p93
+aVStromile Swift PHX 03/29/2009 PHX @ SAC L 11 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 1 0 1 2 -6
+p94
+aVSteve Nash PHX 03/29/2009 PHX @ SAC L 42 31 12 21 57.1 5 8 62.5 2 2 100.0 1 3 4 14 0 0 5 1 -7
+p95
+aVMatt Barnes PHX 03/29/2009 PHX @ SAC L 22 4 1 6 16.7 0 2 0.0 2 2 100.0 1 3 4 3 1 0 1 2 6
+p96
+aVLou Amundson PHX 03/29/2009 PHX @ SAC L 9 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 2 1 1 1 -10
+p97
+aVJared Dudley PHX 03/29/2009 PHX @ SAC L 27 17 7 13 53.8 1 4 25.0 2 2 100.0 6 5 11 1 3 0 5 2 -14
+p98
+aVGrant Hill PHX 03/29/2009 PHX @ SAC L 38 19 9 15 60.0 0 0 - 1 1 100.0 3 3 6 3 1 2 0 4 -2
+p99
+aVSteve Nash PHX 03/28/2009 PHX @ UTA L 45 20 7 21 33.3 3 10 30.0 3 3 100.0 0 2 2 6 0 0 2 2 -10
+p100
+aVLou Amundson PHX 03/28/2009 PHX @ UTA L 14 2 1 3 33.3 0 0 - 0 3 0.0 1 2 3 0 0 1 1 4 6
+p101
+aVShaquille O'Neal PHX 03/28/2009 PHX @ UTA L 33 16 6 13 46.2 0 0 - 4 5 80.0 5 5 10 1 4 0 2 4 -17
+p102
+aVGrant Hill PHX 03/28/2009 PHX @ UTA L 43 19 8 18 44.4 0 1 0.0 3 4 75.0 3 5 8 5 3 1 3 5 -7
+p103
+aVGoran Dragic PHX 03/28/2009 PHX @ UTA L 13 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 2 2 0 2 0 10
+p104
+aVStromile Swift PHX 03/28/2009 PHX @ UTA L 14 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 2 2 3 4
+p105
+aVAlando Tucker PHX 03/28/2009 PHX @ UTA L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p106
+aVJason Richardson PHX 03/28/2009 PHX @ UTA L 31 4 2 11 18.2 0 4 0.0 0 0 - 0 2 2 4 2 0 0 0 -17
+p107
+aVMatt Barnes PHX 03/28/2009 PHX @ UTA L 33 14 5 16 31.3 2 8 25.0 2 2 100.0 2 8 10 3 2 0 2 6 0
+p108
+aVRobin Lopez PHX 03/28/2009 PHX @ UTA L 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 8
+p109
+aVJared Dudley PHX 03/28/2009 PHX @ UTA L 29 15 6 12 50.0 2 4 50.0 1 2 50.0 3 5 8 0 0 0 2 3 2
+p110
+aVStromile Swift PHX 03/26/2009 PHX @ POR L 16 12 4 6 66.7 1 1 100.0 3 6 50.0 2 4 6 0 1 0 0 2 -11
+p111
+aVMatt Barnes PHX 03/26/2009 PHX @ POR L 23 2 1 8 12.5 0 1 0.0 0 0 - 1 3 4 3 0 0 1 2 -12
+p112
+aVGrant Hill PHX 03/26/2009 PHX @ POR L 25 6 3 6 50.0 0 0 - 0 0 - 0 1 1 2 0 1 0 1 -2
+p113
+aVRobin Lopez PHX 03/26/2009 PHX @ POR L 15 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 4 -2
+p114
+aVJason Richardson PHX 03/26/2009 PHX @ POR L 30 16 7 13 53.8 2 6 33.3 0 0 - 1 5 6 1 1 0 4 4 -21
+p115
+aVAlando Tucker PHX 03/26/2009 PHX @ POR L 17 9 4 10 40.0 1 3 33.3 0 0 - 3 0 3 0 1 0 0 0 1
+p116
+aVJared Dudley PHX 03/26/2009 PHX @ POR L 26 10 5 8 62.5 0 2 0.0 0 0 - 2 1 3 2 0 0 1 3 -18
+p117
+aVShaquille O'Neal PHX 03/26/2009 PHX @ POR L 25 20 9 14 64.3 0 0 - 2 2 100.0 5 2 7 4 1 0 3 2 -9
+p118
+aVSteve Nash PHX 03/26/2009 PHX @ POR L 27 15 6 13 46.2 2 5 40.0 1 1 100.0 0 2 2 5 0 0 3 0 -10
+p119
+aVGoran Dragic PHX 03/26/2009 PHX @ POR L 21 4 2 9 22.2 0 2 0.0 0 0 - 0 2 2 3 1 0 2 1 -10
+p120
+aVLou Amundson PHX 03/26/2009 PHX @ POR L 14 9 4 5 80.0 0 0 - 1 5 20.0 2 1 3 1 0 0 0 2 -6
+p121
+aVStromile Swift PHX 03/25/2009 PHX vs. UTA W 8 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 0 7
+p122
+aVLou Amundson PHX 03/25/2009 PHX vs. UTA W 18 10 5 6 83.3 0 0 - 0 0 - 3 2 5 0 0 2 1 3 7
+p123
+aVJared Dudley PHX 03/25/2009 PHX vs. UTA W 15 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 1 2 0 1 1 7
+p124
+aVAlando Tucker PHX 03/25/2009 PHX vs. UTA W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p125
+aVMatt Barnes PHX 03/25/2009 PHX vs. UTA W 35 21 8 14 57.1 1 4 25.0 4 5 80.0 0 9 9 5 0 2 0 2 -8
+p126
+aVSteve Nash PHX 03/25/2009 PHX vs. UTA W 35 12 4 10 40.0 0 2 0.0 4 4 100.0 0 4 4 14 0 0 3 2 1
+p127
+aVShaquille O'Neal PHX 03/25/2009 PHX vs. UTA W 35 12 4 8 50.0 0 0 - 4 6 66.7 2 10 12 5 0 3 1 3 -6
+p128
+aVGrant Hill PHX 03/25/2009 PHX vs. UTA W 37 26 10 16 62.5 0 0 - 6 6 100.0 2 3 5 1 2 2 3 4 6
+p129
+aVGoran Dragic PHX 03/25/2009 PHX vs. UTA W 13 11 4 7 57.1 2 3 66.7 1 2 50.0 0 2 2 2 1 0 2 3 3
+p130
+aVJason Richardson PHX 03/25/2009 PHX vs. UTA W 38 21 9 16 56.3 3 5 60.0 0 0 - 0 5 5 2 2 2 3 3 1
+p131
+aVLou Amundson PHX 03/23/2009 PHX vs. DEN W 20 7 3 4 75.0 0 0 - 1 4 25.0 4 3 7 2 2 3 3 4 9
+p132
+aVRobin Lopez PHX 03/23/2009 PHX vs. DEN W 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -7
+p133
+aVJason Richardson PHX 03/23/2009 PHX vs. DEN W 39 22 7 13 53.8 1 5 20.0 7 9 77.8 2 3 5 1 2 1 2 1 -3
+p134
+aVMatt Barnes PHX 03/23/2009 PHX vs. DEN W 27 3 1 8 12.5 1 5 20.0 0 0 - 0 6 6 2 1 0 4 3 -11
+p135
+aVShaquille O'Neal PHX 03/23/2009 PHX vs. DEN W 24 19 6 8 75.0 0 0 - 7 8 87.5 3 4 7 2 1 3 2 5 3
+p136
+aVStromile Swift PHX 03/23/2009 PHX vs. DEN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -5
+p137
+aVGrant Hill PHX 03/23/2009 PHX vs. DEN W 35 23 9 19 47.4 0 0 - 5 7 71.4 4 6 10 5 2 0 6 3 8
+p138
+aVJared Dudley PHX 03/23/2009 PHX vs. DEN W 29 12 3 5 60.0 1 2 50.0 5 6 83.3 2 6 8 1 0 0 1 4 12
+p139
+aVSteve Nash PHX 03/23/2009 PHX vs. DEN W 35 15 5 10 50.0 1 1 100.0 4 4 100.0 0 3 3 9 1 0 0 2 0
+p140
+aVAlando Tucker PHX 03/23/2009 PHX vs. DEN W 9 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 0 6
+p141
+aVGoran Dragic PHX 03/23/2009 PHX vs. DEN W 13 8 2 4 50.0 2 3 66.7 2 2 100.0 0 0 0 3 0 0 1 0 3
+p142
+aVShaquille O'Neal PHX 03/21/2009 PHX vs. WAS W 23 13 5 10 50.0 0 0 - 3 7 42.9 3 7 10 4 0 1 2 3 9
+p143
+aVMatt Barnes PHX 03/21/2009 PHX vs. WAS W 26 7 2 7 28.6 1 3 33.3 2 3 66.7 0 6 6 4 0 2 1 1 17
+p144
+aVAlando Tucker PHX 03/21/2009 PHX vs. WAS W 11 11 5 6 83.3 1 1 100.0 0 0 - 1 0 1 0 0 0 1 0 2
+p145
+aVJason Richardson PHX 03/21/2009 PHX vs. WAS W 37 35 13 18 72.2 6 9 66.7 3 3 100.0 0 7 7 3 1 2 2 1 30
+p146
+aVJared Dudley PHX 03/21/2009 PHX vs. WAS W 26 11 3 6 50.0 1 2 50.0 4 4 100.0 1 2 3 6 2 0 1 2 27
+p147
+aVGrant Hill PHX 03/21/2009 PHX vs. WAS W 24 11 5 9 55.6 1 3 33.3 0 0 - 0 3 3 4 0 1 0 0 9
+p148
+aVStromile Swift PHX 03/21/2009 PHX vs. WAS W 21 10 5 12 41.7 0 0 - 0 0 - 4 8 12 2 1 1 0 5 13
+p149
+aVGoran Dragic PHX 03/21/2009 PHX vs. WAS W 19 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 4 0 0 0 2 14
+p150
+aVLou Amundson PHX 03/21/2009 PHX vs. WAS W 17 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 0 2 1 2 9
+p151
+aVRobin Lopez PHX 03/21/2009 PHX vs. WAS W 6 5 2 4 50.0 0 0 - 1 1 100.0 1 0 1 0 0 1 0 0 12
+p152
+aVSteve Nash PHX 03/21/2009 PHX vs. WAS W 29 17 8 12 66.7 1 2 50.0 0 0 - 0 0 0 4 0 0 0 0 18
+p153
+aVSteve Nash PHX 03/18/2009 PHX vs. PHI W 39 24 10 18 55.6 2 4 50.0 2 2 100.0 0 5 5 10 0 1 2 1 0
+p154
+aVShaquille O'Neal PHX 03/18/2009 PHX vs. PHI W 39 26 12 18 66.7 0 0 - 2 5 40.0 6 5 11 3 0 3 2 1 11
+p155
+aVAlando Tucker PHX 03/18/2009 PHX vs. PHI W 6 4 1 3 33.3 0 0 - 2 3 66.7 0 1 1 0 0 0 0 1 9
+p156
+aVRobin Lopez PHX 03/18/2009 PHX vs. PHI W 2 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 0 -2
+p157
+aVLou Amundson PHX 03/18/2009 PHX vs. PHI W 6 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 0 3 1
+p158
+aVGrant Hill PHX 03/18/2009 PHX vs. PHI W 39 21 10 13 76.9 1 2 50.0 0 0 - 1 5 6 3 2 1 1 2 -1
+p159
+aVGoran Dragic PHX 03/18/2009 PHX vs. PHI W 9 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 2 10
+p160
+aVLeandro Barbosa PHX 03/18/2009 PHX vs. PHI W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p161
+aVMatt Barnes PHX 03/18/2009 PHX vs. PHI W 39 5 2 9 22.2 1 5 20.0 0 0 - 3 6 9 5 1 0 0 3 19
+p162
+aVJason Richardson PHX 03/18/2009 PHX vs. PHI W 38 25 9 16 56.3 2 7 28.6 5 6 83.3 1 6 7 1 0 1 1 0 -3
+p163
+aVJared Dudley PHX 03/18/2009 PHX vs. PHI W 20 9 4 7 57.1 0 1 0.0 1 1 100.0 1 1 2 2 0 0 0 2 5
+p164
+aVSteve Nash PHX 03/15/2009 PHX @ GSW W 23 11 4 8 50.0 1 3 33.3 2 2 100.0 2 5 7 9 1 0 2 1 -2
+p165
+aVAlando Tucker PHX 03/15/2009 PHX @ GSW W 14 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -15
+p166
+aVGrant Hill PHX 03/15/2009 PHX @ GSW W 30 9 3 4 75.0 0 0 - 3 4 75.0 1 7 8 7 2 0 1 3 26
+p167
+aVJared Dudley PHX 03/15/2009 PHX @ GSW W 21 11 4 4 100.0 1 1 100.0 2 2 100.0 2 3 5 1 3 0 3 1 16
+p168
+aVGoran Dragic PHX 03/15/2009 PHX @ GSW W 17 9 4 8 50.0 1 2 50.0 0 0 - 1 1 2 3 0 0 0 3 6
+p169
+aVRobin Lopez PHX 03/15/2009 PHX @ GSW W 6 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 -3
+p170
+aVJason Richardson PHX 03/15/2009 PHX @ GSW W 31 31 11 15 73.3 4 5 80.0 5 5 100.0 0 3 3 1 0 0 1 1 18
+p171
+aVStromile Swift PHX 03/15/2009 PHX @ GSW W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -3
+p172
+aVLou Amundson PHX 03/15/2009 PHX @ GSW W 16 9 4 7 57.1 0 0 - 1 2 50.0 3 1 4 1 3 2 1 5 16
+p173
+aVShaquille O'Neal PHX 03/15/2009 PHX @ GSW W 24 26 11 13 84.6 0 0 - 4 9 44.4 1 3 4 2 0 1 2 2 11
+p174
+aVLeandro Barbosa PHX 03/15/2009 PHX @ GSW W 21 21 7 15 46.7 1 5 20.0 6 7 85.7 1 1 2 4 1 0 1 1 32
+p175
+aVMatt Barnes PHX 03/15/2009 PHX @ GSW W 31 20 8 14 57.1 0 2 0.0 4 4 100.0 2 4 6 11 1 1 1 3 18
+p176
+aVAlando Tucker PHX 03/14/2009 PHX vs. OKC W 10 3 1 4 25.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 2 3
+p177
+aVJared Dudley PHX 03/14/2009 PHX vs. OKC W 23 9 3 6 50.0 1 3 33.3 2 4 50.0 5 4 9 0 2 1 2 3 13
+p178
+aVGoran Dragic PHX 03/14/2009 PHX vs. OKC W 12 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 -2
+p179
+aVSteve Nash PHX 03/14/2009 PHX vs. OKC W 36 18 8 14 57.1 2 5 40.0 0 0 - 0 1 1 8 3 0 7 0 13
+p180
+aVGrant Hill PHX 03/14/2009 PHX vs. OKC W 38 16 6 10 60.0 1 2 50.0 3 4 75.0 3 5 8 1 1 0 1 1 8
+p181
+aVMatt Barnes PHX 03/14/2009 PHX vs. OKC W 26 10 4 11 36.4 0 3 0.0 2 2 100.0 2 2 4 4 2 0 5 1 -2
+p182
+aVJason Richardson PHX 03/14/2009 PHX vs. OKC W 21 6 3 9 33.3 0 1 0.0 0 0 - 1 4 5 1 0 0 0 0 -2
+p183
+aVLeandro Barbosa PHX 03/14/2009 PHX vs. OKC W 27 22 7 11 63.6 3 4 75.0 5 6 83.3 1 4 5 2 0 0 0 2 13
+p184
+aVRobin Lopez PHX 03/14/2009 PHX vs. OKC W 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 1
+p185
+aVLou Amundson PHX 03/14/2009 PHX vs. OKC W 14 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 0 2 0 4 -3
+p186
+aVShaquille O'Neal PHX 03/14/2009 PHX vs. OKC W 25 12 3 7 42.9 0 0 - 6 8 75.0 1 3 4 2 2 0 0 4 13
+p187
+aVJared Dudley PHX 03/12/2009 PHX vs. CLE L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p188
+aVLeandro Barbosa PHX 03/12/2009 PHX vs. CLE L 20 14 4 12 33.3 0 3 0.0 6 7 85.7 0 2 2 2 0 0 2 1 -4
+p189
+aVShaquille O'Neal PHX 03/12/2009 PHX vs. CLE L 26 12 5 6 83.3 0 0 - 2 3 66.7 3 4 7 0 0 1 4 6 -14
+p190
+aVGoran Dragic PHX 03/12/2009 PHX vs. CLE L 11 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 1 -6
+p191
+aVMatt Barnes PHX 03/12/2009 PHX vs. CLE L 43 21 9 14 64.3 2 6 33.3 1 2 50.0 0 4 4 5 1 2 4 4 -8
+p192
+aVJason Richardson PHX 03/12/2009 PHX vs. CLE L 32 13 6 14 42.9 1 5 20.0 0 0 - 3 4 7 3 2 0 0 2 -3
+p193
+aVGrant Hill PHX 03/12/2009 PHX vs. CLE L 41 15 6 12 50.0 0 0 - 3 3 100.0 1 5 6 4 0 1 0 2 0
+p194
+aVRobin Lopez PHX 03/12/2009 PHX vs. CLE L 10 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 3 4
+p195
+aVStromile Swift PHX 03/12/2009 PHX vs. CLE L 5 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 2 2 0
+p196
+aVLou Amundson PHX 03/12/2009 PHX vs. CLE L 9 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 2 1 0 2 1
+p197
+aVSteve Nash PHX 03/12/2009 PHX vs. CLE L 37 20 9 15 60.0 1 2 50.0 1 1 100.0 0 2 2 6 0 1 2 0 -2
+p198
+aVJared Dudley PHX 03/10/2009 PHX vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p199
+aVShaquille O'Neal PHX 03/10/2009 PHX vs. DAL L 33 21 9 10 90.0 0 0 - 3 7 42.9 1 7 8 1 0 1 2 3 -13
+p200
+aVSteve Nash PHX 03/10/2009 PHX vs. DAL L 40 23 10 17 58.8 1 3 33.3 2 3 66.7 0 0 0 13 0 0 4 5 -1
+p201
+aVGoran Dragic PHX 03/10/2009 PHX vs. DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p202
+aVMatt Barnes PHX 03/10/2009 PHX vs. DAL L 39 21 7 12 58.3 1 5 20.0 6 9 66.7 0 7 7 4 0 1 1 6 -8
+p203
+aVLou Amundson PHX 03/10/2009 PHX vs. DAL L 23 5 2 7 28.6 0 0 - 1 2 50.0 6 3 9 1 2 1 2 0 0
+p204
+aVGrant Hill PHX 03/10/2009 PHX vs. DAL L 38 13 5 9 55.6 1 2 50.0 2 2 100.0 0 3 3 4 3 0 0 2 -7
+p205
+aVJason Richardson PHX 03/10/2009 PHX vs. DAL L 29 16 7 15 46.7 2 5 40.0 0 0 - 2 5 7 2 0 0 0 3 8
+p206
+aVLeandro Barbosa PHX 03/10/2009 PHX vs. DAL L 32 18 8 16 50.0 1 3 33.3 1 1 100.0 1 1 2 3 2 0 0 2 -7
+p207
+aVGoran Dragic PHX 03/08/2009 PHX @ SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p208
+aVGrant Hill PHX 03/08/2009 PHX @ SAS L 37 11 5 8 62.5 1 1 100.0 0 0 - 0 8 8 2 0 1 1 5 -6
+p209
+aVJared Dudley PHX 03/08/2009 PHX @ SAS L 11 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 1
+p210
+aVSteve Nash PHX 03/08/2009 PHX @ SAS L 38 23 10 22 45.5 1 4 25.0 2 2 100.0 0 2 2 11 0 0 3 1 -3
+p211
+aVLou Amundson PHX 03/08/2009 PHX @ SAS L 14 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 2 1 2 -1
+p212
+aVLeandro Barbosa PHX 03/08/2009 PHX @ SAS L 31 20 7 15 46.7 4 4 100.0 2 2 100.0 2 4 6 0 0 1 1 1 -14
+p213
+aVShaquille O'Neal PHX 03/08/2009 PHX @ SAS L 31 14 6 16 37.5 0 0 - 2 4 50.0 3 2 5 0 1 0 0 4 -11
+p214
+aVStromile Swift PHX 03/08/2009 PHX @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p215
+aVJason Richardson PHX 03/08/2009 PHX @ SAS L 37 15 6 15 40.0 1 4 25.0 2 3 66.7 0 4 4 1 4 0 0 2 -2
+p216
+aVMatt Barnes PHX 03/08/2009 PHX @ SAS L 34 13 5 10 50.0 1 4 25.0 2 2 100.0 0 2 2 5 0 1 1 3 20
+p217
+aVMatt Barnes PHX 03/06/2009 PHX @ HOU L 38 17 6 16 37.5 4 10 40.0 1 2 50.0 3 6 9 1 1 0 3 2 2
+p218
+aVShaquille O'Neal PHX 03/06/2009 PHX @ HOU L 37 17 8 12 66.7 0 0 - 1 2 50.0 3 2 5 2 1 2 3 4 -7
+p219
+aVSteve Nash PHX 03/06/2009 PHX @ HOU L 40 32 14 27 51.9 4 6 66.7 0 0 - 1 4 5 13 1 0 1 2 -2
+p220
+aVRobin Lopez PHX 03/06/2009 PHX @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -8
+p221
+aVGrant Hill PHX 03/06/2009 PHX @ HOU L 25 0 0 3 0.0 0 0 - 0 0 - 0 6 6 1 1 3 2 3 -3
+p222
+aVLeandro Barbosa PHX 03/06/2009 PHX @ HOU L 33 24 8 15 53.3 4 8 50.0 4 4 100.0 2 1 3 3 0 0 3 0 -4
+p223
+aVStromile Swift PHX 03/06/2009 PHX @ HOU L 11 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 1 0 1 3 -2
+p224
+aVLou Amundson PHX 03/06/2009 PHX @ HOU L 15 8 4 5 80.0 0 0 - 0 1 0.0 0 2 2 0 0 0 0 5 6
+p225
+aVJason Richardson PHX 03/06/2009 PHX @ HOU L 39 14 5 11 45.5 0 4 0.0 4 6 66.7 2 5 7 1 0 0 2 4 -2
+p226
+aVShaquille O'Neal PHX 03/04/2009 PHX @ MIA L 30 22 8 13 61.5 0 0 - 6 9 66.7 4 4 8 1 2 2 1 6 3
+p227
+aVMatt Barnes PHX 03/04/2009 PHX @ MIA L 40 19 6 10 60.0 5 8 62.5 2 2 100.0 0 3 3 1 1 0 3 5 -9
+p228
+aVGrant Hill PHX 03/04/2009 PHX @ MIA L 33 13 5 13 38.5 0 1 0.0 3 6 50.0 0 6 6 3 0 0 1 4 -12
+p229
+aVSteve Nash PHX 03/04/2009 PHX @ MIA L 38 29 12 17 70.6 2 3 66.7 3 4 75.0 0 5 5 10 1 0 3 3 4
+p230
+aVLeandro Barbosa PHX 03/04/2009 PHX @ MIA L 30 9 3 10 30.0 2 6 33.3 1 1 100.0 0 1 1 4 1 0 1 2 -3
+p231
+aVLou Amundson PHX 03/04/2009 PHX @ MIA L 14 7 3 3 100.0 0 0 - 1 2 50.0 2 0 2 0 0 0 2 3 -9
+p232
+aVJason Richardson PHX 03/04/2009 PHX @ MIA L 39 22 8 16 50.0 3 8 37.5 3 3 100.0 1 3 4 3 0 0 2 0 -11
+p233
+aVJared Dudley PHX 03/04/2009 PHX @ MIA L 16 8 3 4 75.0 2 2 100.0 0 2 0.0 1 0 1 1 0 0 2 1 7
+p234
+aVGrant Hill PHX 03/03/2009 PHX @ ORL L 32 6 3 11 27.3 0 1 0.0 0 0 - 1 5 6 4 1 0 2 3 -18
+p235
+aVShaquille O'Neal PHX 03/03/2009 PHX @ ORL L 35 19 9 13 69.2 0 0 - 1 3 33.3 6 5 11 0 3 2 4 4 5
+p236
+aVSteve Nash PHX 03/03/2009 PHX @ ORL L 41 20 8 14 57.1 1 3 33.3 3 3 100.0 0 7 7 8 4 0 7 1 -12
+p237
+aVLou Amundson PHX 03/03/2009 PHX @ ORL L 10 4 2 3 66.7 0 0 - 0 2 0.0 2 0 2 0 1 0 0 4 -17
+p238
+aVLeandro Barbosa PHX 03/03/2009 PHX @ ORL L 39 14 6 16 37.5 1 5 20.0 1 1 100.0 0 2 2 4 4 1 2 1 -3
+p239
+aVMatt Barnes PHX 03/03/2009 PHX @ ORL L 19 5 1 6 16.7 1 4 25.0 2 2 100.0 1 4 5 2 0 0 3 3 9
+p240
+aVJared Dudley PHX 03/03/2009 PHX @ ORL L 10 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 0 1 0 0 2 -9
+p241
+aVGoran Dragic PHX 03/03/2009 PHX @ ORL L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 2 0 2 1 -2
+p242
+aVJason Richardson PHX 03/03/2009 PHX @ ORL L 40 27 11 20 55.0 4 7 57.1 1 2 50.0 2 4 6 2 1 0 1 3 -13
+p243
+aVRobin Lopez PHX 03/03/2009 PHX @ ORL L 2 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 2 0
+p244
+aVShaquille O'Neal PHX 03/01/2009 PHX vs. LAL W 35 33 13 18 72.2 0 0 - 7 12 58.3 2 5 7 3 0 0 6 6 16
+p245
+aVJason Richardson PHX 03/01/2009 PHX vs. LAL W 35 8 3 10 30.0 0 5 0.0 2 5 40.0 0 3 3 1 1 1 0 1 -4
+p246
+aVRobin Lopez PHX 03/01/2009 PHX vs. LAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -6
+p247
+aVMatt Barnes PHX 03/01/2009 PHX vs. LAL W 42 26 8 12 66.7 5 7 71.4 5 8 62.5 3 7 10 7 3 0 3 5 1
+p248
+aVJared Dudley PHX 03/01/2009 PHX vs. LAL W 15 7 2 3 66.7 1 1 100.0 2 2 100.0 2 2 4 2 1 0 1 1 3
+p249
+aVGoran Dragic PHX 03/01/2009 PHX vs. LAL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -3
+p250
+aVGrant Hill PHX 03/01/2009 PHX vs. LAL W 36 17 7 11 63.6 0 0 - 3 4 75.0 1 5 6 2 1 2 1 5 10
+p251
+aVLeandro Barbosa PHX 03/01/2009 PHX vs. LAL W 44 22 8 17 47.1 0 4 0.0 6 9 66.7 1 2 3 7 2 0 3 0 10
+p252
+aVLou Amundson PHX 03/01/2009 PHX vs. LAL W 24 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 1 8
+p253
+aVGoran Dragic PHX 02/27/2009 PHX vs. TOR W 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 0 1 5 8
+p254
+aVShaquille O'Neal PHX 02/27/2009 PHX vs. TOR W 35 45 20 25 80.0 0 0 - 5 8 62.5 3 8 11 2 3 1 3 4 17
+p255
+aVJason Richardson PHX 02/27/2009 PHX vs. TOR W 35 11 5 12 41.7 1 1 100.0 0 0 - 2 1 3 3 1 0 0 0 6
+p256
+aVJared Dudley PHX 02/27/2009 PHX vs. TOR W 17 5 1 4 25.0 0 1 0.0 3 5 60.0 1 2 3 1 1 0 0 1 8
+p257
+aVMatt Barnes PHX 02/27/2009 PHX vs. TOR W 32 18 7 15 46.7 1 5 20.0 3 3 100.0 3 3 6 6 0 0 0 4 22
+p258
+aVRobin Lopez PHX 02/27/2009 PHX vs. TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 5
+p259
+aVAlando Tucker PHX 02/27/2009 PHX vs. TOR W 8 7 2 5 40.0 1 1 100.0 2 2 100.0 1 0 1 0 0 0 0 2 3
+p260
+aVLou Amundson PHX 02/27/2009 PHX vs. TOR W 26 20 9 11 81.8 0 0 - 2 2 100.0 3 7 10 1 0 4 1 2 10
+p261
+aVGrant Hill PHX 02/27/2009 PHX vs. TOR W 36 14 6 9 66.7 0 0 - 2 2 100.0 0 4 4 12 2 2 4 2 9
+p262
+aVLeandro Barbosa PHX 02/27/2009 PHX vs. TOR W 34 11 4 14 28.6 0 5 0.0 3 3 100.0 0 3 3 4 4 1 1 4 12
+p263
+aVRobin Lopez PHX 02/26/2009 PHX @ LAL L 24 6 3 7 42.9 0 0 - 0 0 - 4 0 4 0 1 2 0 4 -5
+p264
+aVGrant Hill PHX 02/26/2009 PHX @ LAL L 25 8 3 8 37.5 0 1 0.0 2 3 66.7 2 4 6 5 3 1 1 1 -10
+p265
+aVGoran Dragic PHX 02/26/2009 PHX @ LAL L 17 14 4 8 50.0 2 3 66.7 4 4 100.0 0 0 0 3 0 0 4 1 -10
+p266
+aVLou Amundson PHX 02/26/2009 PHX @ LAL L 17 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 1 0 0 2 -11
+p267
+aVAlando Tucker PHX 02/26/2009 PHX @ LAL L 32 16 7 11 63.6 2 3 66.7 0 0 - 2 2 4 1 0 0 2 1 -5
+p268
+aVJason Richardson PHX 02/26/2009 PHX @ LAL L 27 13 6 14 42.9 1 5 20.0 0 0 - 1 2 3 1 0 0 1 0 -19
+p269
+aVJared Dudley PHX 02/26/2009 PHX @ LAL L 26 13 4 7 57.1 1 3 33.3 4 6 66.7 1 7 8 2 2 1 2 2 -22
+p270
+aVShaquille O'Neal PHX 02/26/2009 PHX @ LAL L 21 12 3 7 42.9 0 0 - 6 7 85.7 2 5 7 0 0 2 2 2 -13
+p271
+aVLeandro Barbosa PHX 02/26/2009 PHX @ LAL L 31 18 7 18 38.9 2 7 28.6 2 3 66.7 2 4 6 7 1 0 4 2 -16
+p272
+aVMatt Barnes PHX 02/26/2009 PHX @ LAL L 20 4 1 8 12.5 0 3 0.0 2 2 100.0 1 1 2 4 3 0 3 1 -19
+p273
+aVJason Richardson PHX 02/24/2009 PHX vs. CHA W 33 20 6 10 60.0 2 5 40.0 6 6 100.0 1 2 3 3 2 1 2 6 19
+p274
+aVRobin Lopez PHX 02/24/2009 PHX vs. CHA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p275
+aVLeandro Barbosa PHX 02/24/2009 PHX vs. CHA W 39 17 7 15 46.7 1 4 25.0 2 2 100.0 1 2 3 1 1 1 3 2 -3
+p276
+aVMatt Barnes PHX 02/24/2009 PHX vs. CHA W 31 14 5 10 50.0 2 5 40.0 2 2 100.0 0 2 2 1 0 1 0 3 1
+p277
+aVGrant Hill PHX 02/24/2009 PHX vs. CHA W 31 6 3 10 30.0 0 0 - 0 0 - 2 6 8 2 1 0 2 2 6
+p278
+aVShaquille O'Neal PHX 02/24/2009 PHX vs. CHA W 30 20 7 12 58.3 0 0 - 6 7 85.7 1 10 11 2 0 3 3 3 11
+p279
+aVLou Amundson PHX 02/24/2009 PHX vs. CHA W 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 3 0 2 6
+p280
+aVSteve Nash PHX 02/24/2009 PHX vs. CHA W 26 22 8 10 80.0 4 4 100.0 2 2 100.0 0 2 2 5 0 0 6 3 4
+p281
+aVGoran Dragic PHX 02/24/2009 PHX vs. CHA W 13 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 4 0 0 2 1 7
+p282
+aVJared Dudley PHX 02/24/2009 PHX vs. CHA W 19 2 0 3 0.0 0 1 0.0 2 2 100.0 1 3 4 1 2 0 1 3 3
+p283
+aVAlando Tucker PHX 02/22/2009 PHX vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p284
+aVCourtney Sims PHX 02/22/2009 PHX vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p285
+aVRobin Lopez PHX 02/22/2009 PHX vs. BOS L 2 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -1
+p286
+aVLeandro Barbosa PHX 02/22/2009 PHX vs. BOS L 36 18 8 15 53.3 1 2 50.0 1 3 33.3 2 2 4 2 3 1 3 3 -12
+p287
+aVLou Amundson PHX 02/22/2009 PHX vs. BOS L 12 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p288
+aVShaquille O'Neal PHX 02/22/2009 PHX vs. BOS L 27 17 7 11 63.6 0 0 - 3 6 50.0 0 6 6 0 0 2 2 5 -17
+p289
+aVGrant Hill PHX 02/22/2009 PHX vs. BOS L 30 8 2 7 28.6 0 0 - 4 7 57.1 0 2 2 1 1 0 2 2 -8
+p290
+aVSteve Nash PHX 02/22/2009 PHX vs. BOS L 34 19 8 20 40.0 2 5 40.0 1 1 100.0 0 0 0 11 1 0 2 4 -13
+p291
+aVGoran Dragic PHX 02/22/2009 PHX vs. BOS L 13 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 2 1 0 1 3 -7
+p292
+aVMatt Barnes PHX 02/22/2009 PHX vs. BOS L 26 10 4 8 50.0 2 4 50.0 0 0 - 0 5 5 1 0 0 1 5 -10
+p293
+aVJared Dudley PHX 02/22/2009 PHX vs. BOS L 22 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 1 0 1 0 -8
+p294
+aVJason Richardson PHX 02/22/2009 PHX vs. BOS L 35 21 7 12 58.3 2 5 40.0 5 5 100.0 1 0 1 2 2 0 1 3 -21
+p295
+aVMatt Barnes PHX 02/20/2009 PHX vs. OKC W 30 14 5 10 50.0 2 4 50.0 2 2 100.0 0 6 6 9 4 0 1 4 6
+p296
+aVLou Amundson PHX 02/20/2009 PHX vs. OKC W 13 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 1 2 5 6
+p297
+aVSteve Nash PHX 02/20/2009 PHX vs. OKC W 35 13 5 9 55.6 1 4 25.0 2 2 100.0 0 3 3 8 1 0 0 2 19
+p298
+aVJason Richardson PHX 02/20/2009 PHX vs. OKC W 39 34 14 20 70.0 4 5 80.0 2 2 100.0 1 4 5 3 2 1 4 2 20
+p299
+aVJared Dudley PHX 02/20/2009 PHX vs. OKC W 16 5 1 4 25.0 0 1 0.0 3 4 75.0 1 0 1 2 0 0 0 2 -1
+p300
+aVGrant Hill PHX 02/20/2009 PHX vs. OKC W 17 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 1 0 1 1 0 14
+p301
+aVRobin Lopez PHX 02/20/2009 PHX vs. OKC W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p302
+aVShaquille O'Neal PHX 02/20/2009 PHX vs. OKC W 31 22 9 14 64.3 0 0 - 4 7 57.1 5 4 9 2 0 1 0 1 11
+p303
+aVLeandro Barbosa PHX 02/20/2009 PHX vs. OKC W 42 41 16 21 76.2 5 7 71.4 4 4 100.0 0 7 7 7 6 0 1 3 29
+p304
+aVGoran Dragic PHX 02/20/2009 PHX vs. OKC W 13 2 0 5 0.0 0 1 0.0 2 2 100.0 2 1 3 2 1 0 2 1 3
+p305
+aVLeandro Barbosa PHX 02/18/2009 PHX @ LAC W 22 13 6 12 50.0 1 3 33.3 0 0 - 1 1 2 4 2 0 0 2 14
+p306
+aVJared Dudley PHX 02/18/2009 PHX @ LAC W 15 9 4 5 80.0 1 1 100.0 0 0 - 1 1 2 1 1 1 0 1 3
+p307
+aVGoran Dragic PHX 02/18/2009 PHX @ LAC W 21 12 5 7 71.4 1 1 100.0 1 2 50.0 1 2 3 2 0 0 1 5 9
+p308
+aVShaquille O'Neal PHX 02/18/2009 PHX @ LAC W 26 16 8 10 80.0 0 0 - 0 0 - 1 5 6 3 0 2 2 3 12
+p309
+aVMatt Barnes PHX 02/18/2009 PHX @ LAC W 21 7 3 7 42.9 1 4 25.0 0 0 - 0 5 5 5 0 0 0 5 9
+p310
+aVLou Amundson PHX 02/18/2009 PHX @ LAC W 11 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -2
+p311
+aVGrant Hill PHX 02/18/2009 PHX @ LAC W 21 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 4 0 0 0 1 13
+p312
+aVJason Richardson PHX 02/18/2009 PHX @ LAC W 29 17 7 10 70.0 3 5 60.0 0 2 0.0 3 4 7 1 1 0 0 1 13
+p313
+aVAlando Tucker PHX 02/18/2009 PHX @ LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p314
+aVSteve Nash PHX 02/18/2009 PHX @ LAC W 27 21 6 11 54.5 3 5 60.0 6 6 100.0 0 3 3 12 0 0 3 1 14
+p315
+aVAmar'e Stoudemire PHX 02/18/2009 PHX @ LAC W 36 42 15 20 75.0 0 0 - 12 13 92.3 5 6 11 1 0 0 1 3 38
+p316
+aVRobin Lopez PHX 02/18/2009 PHX @ LAC W 5 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -4
+p317
+aVAlando Tucker PHX 02/17/2009 PHX vs. LAC W 20 8 2 9 22.2 0 2 0.0 4 5 80.0 2 0 2 1 1 0 3 0 2
+p318
+aVMatt Barnes PHX 02/17/2009 PHX vs. LAC W 24 6 3 9 33.3 0 5 0.0 0 0 - 2 7 9 6 2 0 2 0 22
+p319
+aVAmar'e Stoudemire PHX 02/17/2009 PHX vs. LAC W 20 23 9 12 75.0 0 0 - 5 7 71.4 3 2 5 3 0 0 1 3 26
+p320
+aVGoran Dragic PHX 02/17/2009 PHX vs. LAC W 23 12 4 6 66.7 1 1 100.0 3 4 75.0 1 3 4 2 0 0 4 2 1
+p321
+aVSteve Nash PHX 02/17/2009 PHX vs. LAC W 25 8 2 4 50.0 0 2 0.0 4 4 100.0 0 1 1 10 1 0 1 0 39
+p322
+aVLou Amundson PHX 02/17/2009 PHX vs. LAC W 20 13 6 8 75.0 0 0 - 1 2 50.0 3 5 8 0 0 1 3 2 10
+p323
+aVRobin Lopez PHX 02/17/2009 PHX vs. LAC W 12 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 1 1 0 1 3 -6
+p324
+aVLeandro Barbosa PHX 02/17/2009 PHX vs. LAC W 28 24 9 12 75.0 3 4 75.0 3 3 100.0 1 6 7 5 5 0 2 1 38
+p325
+aVShaquille O'Neal PHX 02/17/2009 PHX vs. LAC W 21 15 6 6 100.0 0 0 - 3 3 100.0 0 8 8 1 0 0 3 2 26
+p326
+aVJared Dudley PHX 02/17/2009 PHX vs. LAC W 24 6 3 8 37.5 0 0 - 0 2 0.0 3 5 8 2 5 0 1 3 4
+p327
+aVGrant Hill PHX 02/17/2009 PHX vs. LAC W 23 20 10 13 76.9 0 0 - 0 0 - 0 3 3 3 0 0 1 3 38
+p328
+aVGrant Hill PHX 02/11/2009 PHX @ CLE L 33 14 6 8 75.0 0 0 - 2 3 66.7 0 5 5 3 0 1 3 0 -9
+p329
+aVMatt Barnes PHX 02/11/2009 PHX @ CLE L 19 4 1 7 14.3 0 4 0.0 2 2 100.0 2 4 6 1 0 0 1 1 -15
+p330
+aVGoran Dragic PHX 02/11/2009 PHX @ CLE L 21 9 4 5 80.0 0 0 - 1 2 50.0 3 1 4 5 2 0 5 4 -13
+p331
+aVShaquille O'Neal PHX 02/11/2009 PHX @ CLE L 34 11 5 7 71.4 0 0 - 1 1 100.0 1 5 6 1 1 2 4 2 -16
+p332
+aVJason Richardson PHX 02/11/2009 PHX @ CLE L 27 10 4 9 44.4 1 2 50.0 1 2 50.0 0 2 2 3 2 0 3 2 -5
+p333
+aVAlando Tucker PHX 02/11/2009 PHX @ CLE L 7 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 1 4
+p334
+aVAmar'e Stoudemire PHX 02/11/2009 PHX @ CLE L 38 27 9 21 42.9 0 0 - 9 10 90.0 2 4 6 0 0 3 3 2 -22
+p335
+aVLeandro Barbosa PHX 02/11/2009 PHX @ CLE L 32 9 4 10 40.0 1 3 33.3 0 0 - 1 3 4 7 2 0 3 3 -15
+p336
+aVRobin Lopez PHX 02/11/2009 PHX @ CLE L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 4
+p337
+aVJared Dudley PHX 02/11/2009 PHX @ CLE L 7 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 4
+p338
+aVLou Amundson PHX 02/11/2009 PHX @ CLE L 16 1 0 0 - 0 0 - 1 4 25.0 1 2 3 1 1 1 2 1 -2
+p339
+aVLou Amundson PHX 02/09/2009 PHX @ PHI L 16 6 3 7 42.9 0 0 - 0 0 - 3 2 5 1 1 0 0 2 -11
+p340
+aVLeandro Barbosa PHX 02/09/2009 PHX @ PHI L 21 9 4 12 33.3 1 4 25.0 0 0 - 1 1 2 0 2 0 2 1 -5
+p341
+aVSteve Nash PHX 02/09/2009 PHX @ PHI L 22 2 1 8 12.5 0 1 0.0 0 0 - 0 2 2 8 0 0 3 0 -11
+p342
+aVRobin Lopez PHX 02/09/2009 PHX @ PHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p343
+aVAlando Tucker PHX 02/09/2009 PHX @ PHI L 21 9 4 10 40.0 1 1 100.0 0 0 - 1 2 3 1 0 1 2 2 -6
+p344
+aVJared Dudley PHX 02/09/2009 PHX @ PHI L 7 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -1
+p345
+aVJason Richardson PHX 02/09/2009 PHX @ PHI L 29 16 7 14 50.0 0 3 0.0 2 2 100.0 0 2 2 2 0 0 0 1 -14
+p346
+aVMatt Barnes PHX 02/09/2009 PHX @ PHI L 22 9 3 6 50.0 1 4 25.0 2 2 100.0 1 2 3 3 0 2 3 3 -5
+p347
+aVGoran Dragic PHX 02/09/2009 PHX @ PHI L 15 6 1 4 25.0 0 1 0.0 4 4 100.0 1 3 4 2 0 0 1 1 0
+p348
+aVAmar'e Stoudemire PHX 02/09/2009 PHX @ PHI L 39 19 7 13 53.8 0 0 - 5 5 100.0 3 3 6 0 0 3 4 1 -14
+p349
+aVGrant Hill PHX 02/09/2009 PHX @ PHI L 20 6 3 4 75.0 0 0 - 0 1 0.0 0 2 2 1 0 0 0 4 -11
+p350
+aVShaquille O'Neal PHX 02/09/2009 PHX @ PHI L 21 7 3 7 42.9 0 0 - 1 4 25.0 4 6 10 1 1 0 3 2 -8
+p351
+aVGrant Hill PHX 02/08/2009 PHX @ DET W 37 10 5 8 62.5 0 0 - 0 2 0.0 0 5 5 1 1 2 0 3 4
+p352
+aVLeandro Barbosa PHX 02/08/2009 PHX @ DET W 23 17 8 11 72.7 1 2 50.0 0 0 - 1 2 3 5 1 0 1 1 6
+p353
+aVGoran Dragic PHX 02/08/2009 PHX @ DET W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p354
+aVSteve Nash PHX 02/08/2009 PHX @ DET W 34 15 5 12 41.7 1 2 50.0 4 5 80.0 2 1 3 21 1 0 2 2 9
+p355
+aVMatt Barnes PHX 02/08/2009 PHX @ DET W 18 2 1 4 25.0 0 2 0.0 0 0 - 0 5 5 2 0 1 0 1 10
+p356
+aVJason Richardson PHX 02/08/2009 PHX @ DET W 33 21 8 16 50.0 2 5 40.0 3 4 75.0 2 1 3 0 1 0 0 3 9
+p357
+aVShaquille O'Neal PHX 02/08/2009 PHX @ DET W 33 20 7 16 43.8 0 0 - 6 8 75.0 5 5 10 0 0 1 2 3 2
+p358
+aVAmar'e Stoudemire PHX 02/08/2009 PHX @ DET W 38 18 7 13 53.8 0 0 - 4 5 80.0 1 6 7 2 2 1 4 4 7
+p359
+aVLou Amundson PHX 02/08/2009 PHX @ DET W 20 4 0 1 0.0 0 0 - 4 6 66.7 2 3 5 0 0 0 3 4 6
+p360
+aVLeandro Barbosa PHX 02/06/2009 PHX vs. GSW W 17 8 2 5 40.0 0 0 - 4 4 100.0 0 2 2 4 0 0 1 0 -2
+p361
+aVGrant Hill PHX 02/06/2009 PHX vs. GSW W 35 27 12 17 70.6 0 0 - 3 3 100.0 0 5 5 1 2 1 0 4 10
+p362
+aVSteve Nash PHX 02/06/2009 PHX vs. GSW W 41 19 9 19 47.4 0 1 0.0 1 1 100.0 0 5 5 8 4 0 5 1 10
+p363
+aVLou Amundson PHX 02/06/2009 PHX vs. GSW W 17 3 1 2 50.0 0 0 - 1 2 50.0 3 1 4 1 1 1 0 4 12
+p364
+aVAmar'e Stoudemire PHX 02/06/2009 PHX vs. GSW W 41 19 7 18 38.9 0 0 - 5 7 71.4 3 12 15 2 0 0 2 1 10
+p365
+aVJason Richardson PHX 02/06/2009 PHX vs. GSW W 39 25 9 14 64.3 2 3 66.7 5 6 83.3 0 3 3 0 0 1 0 3 12
+p366
+aVMatt Barnes PHX 02/06/2009 PHX vs. GSW W 24 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 0 0 0 3 11
+p367
+aVShaquille O'Neal PHX 02/06/2009 PHX vs. GSW W 26 12 4 11 36.4 0 0 - 4 8 50.0 4 3 7 1 1 0 3 6 -13
+p368
+aVSteve Nash PHX 02/04/2009 PHX @ GSW L 31 16 6 16 37.5 0 4 0.0 4 4 100.0 0 3 3 9 0 0 5 1 -14
+p369
+aVGoran Dragic PHX 02/04/2009 PHX @ GSW L 4 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 0 0 0 3
+p370
+aVLeandro Barbosa PHX 02/04/2009 PHX @ GSW L 27 20 8 15 53.3 2 6 33.3 2 2 100.0 1 2 3 3 1 0 0 0 -3
+p371
+aVMatt Barnes PHX 02/04/2009 PHX @ GSW L 30 10 2 10 20.0 2 6 33.3 4 4 100.0 1 4 5 1 0 0 1 5 -11
+p372
+aVJared Dudley PHX 02/04/2009 PHX @ GSW L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 3 0
+p373
+aVRobin Lopez PHX 02/04/2009 PHX @ GSW L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 6
+p374
+aVGrant Hill PHX 02/04/2009 PHX @ GSW L 31 8 2 6 33.3 0 1 0.0 4 6 66.7 0 3 3 2 2 1 1 3 3
+p375
+aVShaquille O'Neal PHX 02/04/2009 PHX @ GSW L 28 17 8 9 88.9 0 0 - 1 2 50.0 3 9 12 1 0 1 0 3 -10
+p376
+aVJason Richardson PHX 02/04/2009 PHX @ GSW L 36 24 9 22 40.9 3 7 42.9 3 6 50.0 4 1 5 3 3 0 2 2 -18
+p377
+aVAlando Tucker PHX 02/04/2009 PHX @ GSW L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 6
+p378
+aVLou Amundson PHX 02/04/2009 PHX @ GSW L 3 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 3 -1
+p379
+aVAmar'e Stoudemire PHX 02/04/2009 PHX @ GSW L 28 13 4 8 50.0 0 0 - 5 6 83.3 2 6 8 0 1 0 4 2 -21
+p380
+aVShaquille O'Neal PHX 02/02/2009 PHX vs. SAC W 23 10 4 7 57.1 0 0 - 2 6 33.3 4 5 9 3 0 2 3 1 15
+p381
+aVLeandro Barbosa PHX 02/02/2009 PHX vs. SAC W 15 11 3 6 50.0 1 1 100.0 4 4 100.0 0 3 3 2 0 0 0 0 22
+p382
+aVJared Dudley PHX 02/02/2009 PHX vs. SAC W 12 2 1 4 25.0 0 0 - 0 0 - 3 2 5 1 5 0 0 1 0
+p383
+aVAmar'e Stoudemire PHX 02/02/2009 PHX vs. SAC W 28 25 6 12 50.0 0 0 - 13 13 100.0 3 5 8 0 1 0 2 3 49
+p384
+aVGoran Dragic PHX 02/02/2009 PHX vs. SAC W 12 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 2 1 0
+p385
+aVRobin Lopez PHX 02/02/2009 PHX vs. SAC W 14 7 3 6 50.0 0 0 - 1 2 50.0 4 0 4 1 0 0 1 0 0
+p386
+aVLou Amundson PHX 02/02/2009 PHX vs. SAC W 19 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 0 1 0 3 32
+p387
+aVMatt Barnes PHX 02/02/2009 PHX vs. SAC W 26 8 3 9 33.3 0 4 0.0 2 2 100.0 1 5 6 1 2 0 2 1 16
+p388
+aVGrant Hill PHX 02/02/2009 PHX vs. SAC W 24 14 5 9 55.6 0 0 - 4 6 66.7 2 5 7 1 3 2 1 3 37
+p389
+aVAlando Tucker PHX 02/02/2009 PHX vs. SAC W 21 6 1 8 12.5 0 2 0.0 4 4 100.0 1 2 3 1 0 0 1 1 9
+p390
+aVJason Richardson PHX 02/02/2009 PHX vs. SAC W 25 24 10 12 83.3 3 4 75.0 1 1 100.0 2 3 5 6 4 0 2 2 34
+p391
+aVSteve Nash PHX 02/02/2009 PHX vs. SAC W 21 9 3 6 50.0 1 2 50.0 2 2 100.0 0 3 3 9 1 0 3 2 26
+p392
+aVSteve Nash PHX 01/31/2009 PHX vs. CHI L 38 15 7 14 50.0 0 3 0.0 1 2 50.0 0 2 2 10 0 0 7 4 -2
+p393
+aVLeandro Barbosa PHX 01/31/2009 PHX vs. CHI L 32 32 11 17 64.7 3 5 60.0 7 7 100.0 0 5 5 1 0 0 0 2 -3
+p394
+aVJason Richardson PHX 01/31/2009 PHX vs. CHI L 33 12 3 8 37.5 1 4 25.0 5 6 83.3 0 3 3 1 1 0 1 1 -16
+p395
+aVMatt Barnes PHX 01/31/2009 PHX vs. CHI L 15 3 1 4 25.0 1 2 50.0 0 0 - 1 3 4 1 0 0 1 0 -8
+p396
+aVAmar'e Stoudemire PHX 01/31/2009 PHX vs. CHI L 43 12 4 7 57.1 0 0 - 4 7 57.1 0 6 6 1 1 0 1 2 -10
+p397
+aVGrant Hill PHX 01/31/2009 PHX vs. CHI L 40 19 5 9 55.6 0 0 - 9 9 100.0 0 5 5 5 0 2 0 2 -3
+p398
+aVLou Amundson PHX 01/31/2009 PHX vs. CHI L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p399
+aVShaquille O'Neal PHX 01/31/2009 PHX vs. CHI L 35 18 6 11 54.5 0 0 - 6 9 66.7 2 6 8 2 0 2 3 6 -13
+p400
+aVGrant Hill PHX 01/29/2009 PHX vs. SAS L 36 20 9 12 75.0 0 0 - 2 3 66.7 0 10 10 0 1 1 1 3 -7
+p401
+aVJason Richardson PHX 01/29/2009 PHX vs. SAS L 26 7 3 6 50.0 0 1 0.0 1 1 100.0 0 2 2 1 1 0 0 5 1
+p402
+aVAmar'e Stoudemire PHX 01/29/2009 PHX vs. SAS L 43 28 11 23 47.8 0 0 - 6 6 100.0 3 7 10 1 0 1 0 2 -9
+p403
+aVSteve Nash PHX 01/29/2009 PHX vs. SAS L 43 16 5 12 41.7 1 1 100.0 5 5 100.0 0 2 2 18 0 1 3 4 -11
+p404
+aVShaquille O'Neal PHX 01/29/2009 PHX vs. SAS L 35 13 5 14 35.7 0 0 - 3 5 60.0 2 4 6 0 0 1 3 5 1
+p405
+aVLou Amundson PHX 01/29/2009 PHX vs. SAS L 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 0
+p406
+aVLeandro Barbosa PHX 01/29/2009 PHX vs. SAS L 22 7 2 5 40.0 0 1 0.0 3 3 100.0 0 2 2 1 1 0 0 2 -11
+p407
+aVMatt Barnes PHX 01/29/2009 PHX vs. SAS L 19 13 5 8 62.5 3 4 75.0 0 2 0.0 0 1 1 1 0 0 0 3 -15
+p408
+aVJared Dudley PHX 01/29/2009 PHX vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p409
+aVLeandro Barbosa PHX 01/26/2009 PHX @ WAS W 27 23 9 14 64.3 3 4 75.0 2 2 100.0 0 3 3 2 0 0 2 3 14
+p410
+aVLou Amundson PHX 01/26/2009 PHX @ WAS W 19 4 2 4 50.0 0 0 - 0 1 0.0 4 2 6 1 0 1 1 4 1
+p411
+aVSteve Nash PHX 01/26/2009 PHX @ WAS W 36 14 6 13 46.2 2 4 50.0 0 0 - 0 5 5 15 0 1 4 1 8
+p412
+aVGrant Hill PHX 01/26/2009 PHX @ WAS W 20 2 1 6 16.7 0 0 - 0 0 - 0 3 3 2 0 0 0 2 4
+p413
+aVShaquille O'Neal PHX 01/26/2009 PHX @ WAS W 37 29 10 14 71.4 0 0 - 9 10 90.0 2 6 8 2 1 3 3 3 24
+p414
+aVMatt Barnes PHX 01/26/2009 PHX @ WAS W 24 0 0 5 0.0 0 4 0.0 0 0 - 1 4 5 2 1 0 2 3 6
+p415
+aVAmar'e Stoudemire PHX 01/26/2009 PHX @ WAS W 38 22 9 13 69.2 0 0 - 4 4 100.0 4 11 15 2 1 3 4 2 4
+p416
+aVJason Richardson PHX 01/26/2009 PHX @ WAS W 36 9 3 13 23.1 1 5 20.0 2 2 100.0 1 6 7 3 2 0 1 2 21
+p417
+aVJared Dudley PHX 01/26/2009 PHX @ WAS W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p418
+aVGrant Hill PHX 01/25/2009 PHX @ ATL W 24 8 2 4 50.0 0 0 - 4 4 100.0 0 7 7 1 0 0 0 5 4
+p419
+aVAmar'e Stoudemire PHX 01/25/2009 PHX @ ATL W 43 23 9 17 52.9 0 0 - 5 6 83.3 1 4 5 3 0 0 5 2 15
+p420
+aVLou Amundson PHX 01/25/2009 PHX @ ATL W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -11
+p421
+aVMatt Barnes PHX 01/25/2009 PHX @ ATL W 20 5 2 5 40.0 0 1 0.0 1 1 100.0 1 4 5 2 1 1 1 3 -12
+p422
+aVShaquille O'Neal PHX 01/25/2009 PHX @ ATL W 39 19 7 9 77.8 0 0 - 5 8 62.5 0 11 11 1 1 1 4 5 20
+p423
+aVLeandro Barbosa PHX 01/25/2009 PHX @ ATL W 30 20 7 10 70.0 3 4 75.0 3 4 75.0 0 2 2 1 3 0 1 2 -3
+p424
+aVSteve Nash PHX 01/25/2009 PHX @ ATL W 33 14 4 7 57.1 1 1 100.0 5 5 100.0 0 3 3 13 1 0 6 3 14
+p425
+aVJared Dudley PHX 01/25/2009 PHX @ ATL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -13
+p426
+aVJason Richardson PHX 01/25/2009 PHX @ ATL W 39 15 5 13 38.5 1 4 25.0 4 4 100.0 1 6 7 2 1 2 1 1 11
+p427
+aVLeandro Barbosa PHX 01/23/2009 PHX @ CHA L 19 0 0 6 0.0 0 2 0.0 0 0 - 1 0 1 3 1 0 2 4 -2
+p428
+aVJared Dudley PHX 01/23/2009 PHX @ CHA L 12 8 2 4 50.0 1 1 100.0 3 4 75.0 2 2 4 0 1 0 0 1 4
+p429
+aVRobin Lopez PHX 01/23/2009 PHX @ CHA L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p430
+aVShaquille O'Neal PHX 01/23/2009 PHX @ CHA L 30 20 6 10 60.0 0 0 - 8 12 66.7 0 7 7 0 1 1 2 3 -23
+p431
+aVJason Richardson PHX 01/23/2009 PHX @ CHA L 33 8 3 9 33.3 2 3 66.7 0 0 - 1 5 6 1 2 1 1 0 -28
+p432
+aVAlando Tucker PHX 01/23/2009 PHX @ CHA L 10 6 2 6 33.3 1 2 50.0 1 2 50.0 1 0 1 0 0 0 0 0 10
+p433
+aVGoran Dragic PHX 01/23/2009 PHX @ CHA L 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 4 2 0 3 0 10
+p434
+aVMatt Barnes PHX 01/23/2009 PHX @ CHA L 13 3 1 5 20.0 1 3 33.3 0 0 - 1 3 4 1 0 0 0 2 -10
+p435
+aVSteve Nash PHX 01/23/2009 PHX @ CHA L 21 4 2 6 33.3 0 2 0.0 0 1 0.0 0 0 0 5 1 0 6 2 -27
+p436
+aVLou Amundson PHX 01/23/2009 PHX @ CHA L 25 6 2 2 100.0 0 0 - 2 4 50.0 3 1 4 0 1 0 3 1 -2
+p437
+aVGrant Hill PHX 01/23/2009 PHX @ CHA L 27 7 3 8 37.5 1 1 100.0 0 0 - 0 6 6 1 0 0 1 3 -23
+p438
+aVAmar'e Stoudemire PHX 01/23/2009 PHX @ CHA L 29 12 5 14 35.7 0 0 - 2 3 66.7 6 3 9 0 0 3 6 3 -23
+p439
+aVSteve Nash PHX 01/21/2009 PHX @ NYK L 39 9 3 9 33.3 2 5 40.0 1 1 100.0 0 6 6 19 0 0 4 5 4
+p440
+aVJason Richardson PHX 01/21/2009 PHX @ NYK L 36 27 11 21 52.4 2 6 33.3 3 3 100.0 2 7 9 0 3 0 0 2 14
+p441
+aVShaquille O'Neal PHX 01/21/2009 PHX @ NYK L 38 21 8 16 50.0 0 0 - 5 13 38.5 1 11 12 1 0 3 4 4 4
+p442
+aVLeandro Barbosa PHX 01/21/2009 PHX @ NYK L 17 9 3 5 60.0 0 1 0.0 3 3 100.0 1 0 1 0 0 0 2 0 -20
+p443
+aVMatt Barnes PHX 01/21/2009 PHX @ NYK L 21 6 2 5 40.0 1 2 50.0 1 4 25.0 0 4 4 0 0 0 0 2 -20
+p444
+aVAmar'e Stoudemire PHX 01/21/2009 PHX @ NYK L 39 20 6 17 35.3 0 1 0.0 8 10 80.0 2 2 4 3 0 0 1 5 6
+p445
+aVLou Amundson PHX 01/21/2009 PHX @ NYK L 14 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 1 1 2 1 3 -17
+p446
+aVGrant Hill PHX 01/21/2009 PHX @ NYK L 32 14 7 11 63.6 0 0 - 0 0 - 1 4 5 2 1 0 3 0 12
+p447
+aVAlando Tucker PHX 01/21/2009 PHX @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p448
+aVAlando Tucker PHX 01/19/2009 PHX @ BOS L 12 11 4 6 66.7 0 1 0.0 3 4 75.0 1 0 1 1 1 0 1 0 14
+p449
+aVSteve Nash PHX 01/19/2009 PHX @ BOS L 32 12 5 7 71.4 2 2 100.0 0 0 - 0 4 4 8 0 0 5 3 -23
+p450
+aVGoran Dragic PHX 01/19/2009 PHX @ BOS L 7 4 0 1 0.0 0 0 - 4 4 100.0 0 2 2 2 0 0 1 0 10
+p451
+aVLeandro Barbosa PHX 01/19/2009 PHX @ BOS L 17 3 1 5 20.0 0 0 - 1 1 100.0 0 1 1 1 0 0 3 1 -11
+p452
+aVJared Dudley PHX 01/19/2009 PHX @ BOS L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 12
+p453
+aVAmar'e Stoudemire PHX 01/19/2009 PHX @ BOS L 30 3 0 7 0.0 0 0 - 3 4 75.0 1 0 1 0 0 1 4 4 -21
+p454
+aVJason Richardson PHX 01/19/2009 PHX @ BOS L 28 8 4 7 57.1 0 2 0.0 0 1 0.0 0 3 3 0 0 1 1 0 -24
+p455
+aVShaquille O'Neal PHX 01/19/2009 PHX @ BOS L 30 16 8 13 61.5 0 0 - 0 0 - 1 10 11 2 0 2 3 2 -26
+p456
+aVLou Amundson PHX 01/19/2009 PHX @ BOS L 23 13 5 6 83.3 0 0 - 3 5 60.0 1 3 4 1 2 3 2 4 0
+p457
+aVRobin Lopez PHX 01/19/2009 PHX @ BOS L 12 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 1 0 1 0 0 13
+p458
+aVMatt Barnes PHX 01/19/2009 PHX @ BOS L 14 2 1 7 14.3 0 3 0.0 0 0 - 0 6 6 0 0 0 2 1 -14
+p459
+aVGrant Hill PHX 01/19/2009 PHX @ BOS L 27 10 4 10 40.0 2 3 66.7 0 0 - 0 1 1 1 0 1 1 1 -15
+p460
+aVSteve Nash PHX 01/18/2009 PHX @ TOR W 36 9 2 6 33.3 0 3 0.0 5 5 100.0 1 5 6 18 1 0 2 1 2
+p461
+aVMatt Barnes PHX 01/18/2009 PHX @ TOR W 25 16 6 11 54.5 1 5 20.0 3 3 100.0 1 4 5 2 0 0 1 3 13
+p462
+aVLou Amundson PHX 01/18/2009 PHX @ TOR W 11 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 1 3 -3
+p463
+aVLeandro Barbosa PHX 01/18/2009 PHX @ TOR W 21 14 5 10 50.0 2 3 66.7 2 2 100.0 1 2 3 1 0 0 1 0 1
+p464
+aVGrant Hill PHX 01/18/2009 PHX @ TOR W 38 11 4 8 50.0 1 2 50.0 2 2 100.0 1 8 9 4 1 0 1 1 4
+p465
+aVAlando Tucker PHX 01/18/2009 PHX @ TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p466
+aVJason Richardson PHX 01/18/2009 PHX @ TOR W 35 17 7 13 53.8 1 4 25.0 2 2 100.0 1 0 1 1 2 0 1 3 3
+p467
+aVAmar'e Stoudemire PHX 01/18/2009 PHX @ TOR W 43 31 12 20 60.0 0 1 0.0 7 10 70.0 3 3 6 1 0 0 1 2 0
+p468
+aVJared Dudley PHX 01/18/2009 PHX @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p469
+aVShaquille O'Neal PHX 01/18/2009 PHX @ TOR W 25 16 6 9 66.7 0 0 - 4 4 100.0 2 2 4 2 0 1 5 6 -5
+p470
+aVAlando Tucker PHX 01/16/2009 PHX vs. MIN L 7 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 4
+p471
+aVShaquille O'Neal PHX 01/16/2009 PHX vs. MIN L 32 22 9 13 69.2 0 0 - 4 7 57.1 2 9 11 4 1 0 1 5 10
+p472
+aVGrant Hill PHX 01/16/2009 PHX vs. MIN L 24 6 2 5 40.0 0 1 0.0 2 2 100.0 0 7 7 0 1 1 1 0 0
+p473
+aVLeandro Barbosa PHX 01/16/2009 PHX vs. MIN L 23 22 8 14 57.1 1 3 33.3 5 5 100.0 0 0 0 1 0 0 1 1 -8
+p474
+aVSteve Nash PHX 01/16/2009 PHX vs. MIN L 34 6 3 8 37.5 0 3 0.0 0 0 - 0 4 4 6 0 0 3 1 0
+p475
+aVAmar'e Stoudemire PHX 01/16/2009 PHX vs. MIN L 38 19 8 15 53.3 0 0 - 3 4 75.0 3 4 7 5 0 3 2 4 -7
+p476
+aVJason Richardson PHX 01/16/2009 PHX vs. MIN L 32 8 4 11 36.4 0 3 0.0 0 0 - 0 1 1 0 1 0 1 1 0
+p477
+aVMatt Barnes PHX 01/16/2009 PHX vs. MIN L 26 9 3 8 37.5 1 4 25.0 2 2 100.0 1 5 6 3 0 0 2 3 -5
+p478
+aVLou Amundson PHX 01/16/2009 PHX vs. MIN L 24 6 3 8 37.5 0 0 - 0 0 - 3 3 6 1 1 1 2 2 -4
+p479
+aVLeandro Barbosa PHX 01/15/2009 PHX @ DEN L 29 6 1 11 9.1 0 5 0.0 4 4 100.0 1 2 3 1 2 0 0 3 -1
+p480
+aVAmar'e Stoudemire PHX 01/15/2009 PHX @ DEN L 35 21 6 9 66.7 0 0 - 9 10 90.0 1 7 8 3 3 1 5 5 2
+p481
+aVSteve Nash PHX 01/15/2009 PHX @ DEN L 46 20 5 10 50.0 4 5 80.0 6 6 100.0 1 6 7 14 0 1 6 2 -9
+p482
+aVLou Amundson PHX 01/15/2009 PHX @ DEN L 14 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 1 0 2 0 3 6
+p483
+aVGrant Hill PHX 01/15/2009 PHX @ DEN L 43 25 10 18 55.6 0 1 0.0 5 5 100.0 2 6 8 1 1 0 1 2 6
+p484
+aVJared Dudley PHX 01/15/2009 PHX @ DEN L 4 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -2
+p485
+aVJason Richardson PHX 01/15/2009 PHX @ DEN L 45 16 7 18 38.9 2 10 20.0 0 0 - 1 5 6 5 2 2 3 4 -8
+p486
+aVRobin Lopez PHX 01/15/2009 PHX @ DEN L 22 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 0 3 4 -19
+p487
+aVMatt Barnes PHX 01/15/2009 PHX @ DEN L 24 13 5 12 41.7 1 6 16.7 2 2 100.0 2 4 6 1 0 0 5 6 -3
+p488
+aVAlando Tucker PHX 01/15/2009 PHX @ DEN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p489
+aVLou Amundson PHX 01/13/2009 PHX vs. ATL W 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 3 4 -1
+p490
+aVGrant Hill PHX 01/13/2009 PHX vs. ATL W 35 6 1 6 16.7 0 2 0.0 4 4 100.0 1 5 6 3 0 0 1 2 10
+p491
+aVMatt Barnes PHX 01/13/2009 PHX vs. ATL W 23 6 2 6 33.3 2 3 66.7 0 0 - 1 9 10 4 1 0 3 3 7
+p492
+aVAmar'e Stoudemire PHX 01/13/2009 PHX vs. ATL W 35 17 7 11 63.6 0 0 - 3 3 100.0 1 4 5 5 0 3 2 4 8
+p493
+aVJason Richardson PHX 01/13/2009 PHX vs. ATL W 31 7 3 10 30.0 1 4 25.0 0 0 - 1 3 4 4 0 0 2 2 -11
+p494
+aVJared Dudley PHX 01/13/2009 PHX vs. ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p495
+aVSteve Nash PHX 01/13/2009 PHX vs. ATL W 36 23 7 13 53.8 4 7 57.1 5 5 100.0 1 4 5 6 1 1 2 3 5
+p496
+aVShaquille O'Neal PHX 01/13/2009 PHX vs. ATL W 40 26 10 17 58.8 0 0 - 6 11 54.5 2 8 10 2 0 3 1 3 3
+p497
+aVLeandro Barbosa PHX 01/13/2009 PHX vs. ATL W 24 22 8 11 72.7 4 5 80.0 2 2 100.0 0 1 1 2 1 0 1 2 7
+p498
+aVSteve Nash PHX 01/11/2009 PHX @ LAC W 37 14 5 8 62.5 2 5 40.0 2 2 100.0 1 4 5 12 1 1 4 1 22
+p499
+aVMatt Barnes PHX 01/11/2009 PHX @ LAC W 16 0 0 4 0.0 0 4 0.0 0 0 - 2 2 4 2 1 0 2 2 -15
+p500
+aVAmar'e Stoudemire PHX 01/11/2009 PHX @ LAC W 41 26 8 15 53.3 0 0 - 10 13 76.9 3 4 7 1 0 1 4 3 2
+p501
+aVLeandro Barbosa PHX 01/11/2009 PHX @ LAC W 19 10 3 7 42.9 0 2 0.0 4 4 100.0 0 1 1 2 0 0 0 4 -16
+p502
+aVLou Amundson PHX 01/11/2009 PHX @ LAC W 17 2 1 8 12.5 0 0 - 0 0 - 3 3 6 1 0 1 1 0 -7
+p503
+aVGrant Hill PHX 01/11/2009 PHX @ LAC W 32 21 8 15 53.3 1 3 33.3 4 4 100.0 0 3 3 5 1 2 3 4 23
+p504
+aVShaquille O'Neal PHX 01/11/2009 PHX @ LAC W 38 15 5 11 45.5 0 0 - 5 5 100.0 2 8 10 2 1 2 0 3 15
+p505
+aVJason Richardson PHX 01/11/2009 PHX @ LAC W 41 21 9 18 50.0 3 7 42.9 0 0 - 2 3 5 3 1 0 1 0 6
+p506
+aVLou Amundson PHX 01/09/2009 PHX vs. DAL W 29 8 3 3 100.0 0 0 - 2 5 40.0 2 5 7 2 1 2 1 2 7
+p507
+aVSteve Nash PHX 01/09/2009 PHX vs. DAL W 30 9 4 9 44.4 0 2 0.0 1 1 100.0 0 3 3 12 2 0 0 1 22
+p508
+aVGoran Dragic PHX 01/09/2009 PHX vs. DAL W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p509
+aVMatt Barnes PHX 01/09/2009 PHX vs. DAL W 17 7 3 8 37.5 1 3 33.3 0 0 - 2 3 5 1 1 0 2 2 12
+p510
+aVRobin Lopez PHX 01/09/2009 PHX vs. DAL W 13 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 1 0 0 3
+p511
+aVShaquille O'Neal PHX 01/09/2009 PHX vs. DAL W 27 25 9 15 60.0 0 0 - 7 7 100.0 2 8 10 0 0 2 2 2 18
+p512
+aVLeandro Barbosa PHX 01/09/2009 PHX vs. DAL W 19 20 8 11 72.7 2 2 100.0 2 2 100.0 2 0 2 2 0 1 0 0 13
+p513
+aVAlando Tucker PHX 01/09/2009 PHX vs. DAL W 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p514
+aVAmar'e Stoudemire PHX 01/09/2009 PHX vs. DAL W 26 16 7 11 63.6 0 0 - 2 2 100.0 0 5 5 1 3 0 2 4 28
+p515
+aVJared Dudley PHX 01/09/2009 PHX vs. DAL W 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 0 0 -3
+p516
+aVGrant Hill PHX 01/09/2009 PHX vs. DAL W 24 10 4 5 80.0 1 1 100.0 1 1 100.0 0 3 3 3 0 0 0 3 19
+p517
+aVJason Richardson PHX 01/09/2009 PHX vs. DAL W 33 21 9 13 69.2 1 2 50.0 2 2 100.0 2 1 3 4 0 0 2 2 27
+p518
+aVSteve Nash PHX 01/07/2009 PHX vs. IND L 43 16 4 9 44.4 3 4 75.0 5 5 100.0 0 4 4 12 0 0 4 1 1
+p519
+aVMatt Barnes PHX 01/07/2009 PHX vs. IND L 25 6 2 10 20.0 0 5 0.0 2 3 66.7 0 2 2 1 0 0 3 2 13
+p520
+aVAmar'e Stoudemire PHX 01/07/2009 PHX vs. IND L 44 23 7 19 36.8 0 0 - 9 9 100.0 4 7 11 2 3 0 5 1 -9
+p521
+aVLou Amundson PHX 01/07/2009 PHX vs. IND L 25 9 4 9 44.4 0 0 - 1 7 14.3 9 5 14 0 1 1 1 2 -7
+p522
+aVGrant Hill PHX 01/07/2009 PHX vs. IND L 33 18 6 14 42.9 0 2 0.0 6 6 100.0 2 4 6 1 0 0 2 3 -6
+p523
+aVLeandro Barbosa PHX 01/07/2009 PHX vs. IND L 22 18 6 10 60.0 3 5 60.0 3 3 100.0 0 3 3 3 0 0 2 2 6
+p524
+aVJared Dudley PHX 01/07/2009 PHX vs. IND L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p525
+aVRobin Lopez PHX 01/07/2009 PHX vs. IND L 5 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 1 0 4 -10
+p526
+aVJason Richardson PHX 01/07/2009 PHX vs. IND L 38 16 7 15 46.7 1 4 25.0 1 2 50.0 3 7 10 1 1 0 2 1 -9
+p527
+aVSteve Nash PHX 01/02/2009 PHX vs. LAC W 32 9 3 7 42.9 1 2 50.0 2 2 100.0 0 1 1 11 1 0 3 1 20
+p528
+aVMatt Barnes PHX 01/02/2009 PHX vs. LAC W 21 8 3 7 42.9 2 4 50.0 0 0 - 1 3 4 1 1 0 0 1 1
+p529
+aVShaquille O'Neal PHX 01/02/2009 PHX vs. LAC W 36 17 6 13 46.2 0 0 - 5 8 62.5 1 8 9 1 1 2 2 4 4
+p530
+aVJared Dudley PHX 01/02/2009 PHX vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p531
+aVAmar'e Stoudemire PHX 01/02/2009 PHX vs. LAC W 38 23 10 17 58.8 0 0 - 3 5 60.0 3 5 8 3 0 1 3 5 8
+p532
+aVGrant Hill PHX 01/02/2009 PHX vs. LAC W 30 13 5 7 71.4 2 2 100.0 1 2 50.0 0 4 4 2 0 0 0 1 0
+p533
+aVLou Amundson PHX 01/02/2009 PHX vs. LAC W 20 9 4 5 80.0 0 0 - 1 6 16.7 4 1 5 1 0 0 1 3 3
+p534
+aVLeandro Barbosa PHX 01/02/2009 PHX vs. LAC W 23 12 4 9 44.4 0 1 0.0 4 4 100.0 0 5 5 4 2 0 0 3 -5
+p535
+aVJason Richardson PHX 01/02/2009 PHX vs. LAC W 38 15 6 9 66.7 2 3 66.7 1 2 50.0 0 1 1 2 2 2 5 3 8
+p536
+aVRobin Lopez PHX 12/30/2008 PHX @ MEM W 7 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -3
+p537
+aVLou Amundson PHX 12/30/2008 PHX @ MEM W 18 10 4 6 66.7 0 0 - 2 5 40.0 3 5 8 0 0 1 1 3 -6
+p538
+aVShaquille O'Neal PHX 12/30/2008 PHX @ MEM W 39 24 8 13 61.5 0 0 - 8 10 80.0 3 10 13 1 1 3 4 3 18
+p539
+aVAmar'e Stoudemire PHX 12/30/2008 PHX @ MEM W 11 8 3 6 50.0 0 0 - 2 3 66.7 2 2 4 0 0 0 1 3 -3
+p540
+aVJared Dudley PHX 12/30/2008 PHX @ MEM W 13 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 4
+p541
+aVGrant Hill PHX 12/30/2008 PHX @ MEM W 39 15 5 10 50.0 0 1 0.0 5 5 100.0 0 7 7 4 6 0 1 3 10
+p542
+aVJason Richardson PHX 12/30/2008 PHX @ MEM W 37 7 3 12 25.0 1 4 25.0 0 0 - 0 4 4 3 0 0 0 0 12
+p543
+aVLeandro Barbosa PHX 12/30/2008 PHX @ MEM W 33 28 10 18 55.6 4 6 66.7 4 5 80.0 0 6 6 1 0 0 3 4 15
+p544
+aVMatt Barnes PHX 12/30/2008 PHX @ MEM W 27 4 1 6 16.7 0 3 0.0 2 2 100.0 1 3 4 5 0 0 3 3 16
+p545
+aVDee Brown PHX 12/30/2008 PHX @ MEM W 15 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 3 3 -3
+p546
+aVJared Dudley PHX 12/29/2008 PHX @ OKC W 10 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 0 0 7
+p547
+aVDee Brown PHX 12/29/2008 PHX @ OKC W 13 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 3 -2
+p548
+aVRobin Lopez PHX 12/29/2008 PHX @ OKC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -4
+p549
+aVJason Richardson PHX 12/29/2008 PHX @ OKC W 35 20 8 20 40.0 2 4 50.0 2 2 100.0 2 0 2 3 0 0 1 1 -1
+p550
+aVAmar'e Stoudemire PHX 12/29/2008 PHX @ OKC W 23 14 5 10 50.0 0 0 - 4 4 100.0 1 0 1 5 0 0 2 6 0
+p551
+aVShaquille O'Neal PHX 12/29/2008 PHX @ OKC W 32 28 10 12 83.3 0 0 - 8 12 66.7 3 9 12 2 0 2 3 2 11
+p552
+aVLou Amundson PHX 12/29/2008 PHX @ OKC W 13 3 1 2 50.0 0 1 0.0 1 1 100.0 2 2 4 0 0 0 0 4 -2
+p553
+aVGrant Hill PHX 12/29/2008 PHX @ OKC W 36 11 4 7 57.1 1 2 50.0 2 2 100.0 1 3 4 2 2 1 2 2 2
+p554
+aVMatt Barnes PHX 12/29/2008 PHX @ OKC W 29 19 8 16 50.0 3 7 42.9 0 1 0.0 3 3 6 2 2 0 3 1 16
+p555
+aVLeandro Barbosa PHX 12/29/2008 PHX @ OKC W 37 10 4 11 36.4 0 5 0.0 2 2 100.0 0 3 3 5 6 0 2 2 17
+p556
+aVSteve Nash PHX 12/29/2008 PHX @ OKC W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -4
+p557
+aVJason Richardson PHX 12/25/2008 PHX vs. SAS L 38 11 4 9 44.4 2 3 66.7 1 2 50.0 1 7 8 0 2 0 1 1 3
+p558
+aVMatt Barnes PHX 12/25/2008 PHX vs. SAS L 20 0 0 5 0.0 0 4 0.0 0 0 - 1 6 7 1 0 0 2 2 -7
+p559
+aVRobin Lopez PHX 12/25/2008 PHX vs. SAS L 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -3
+p560
+aVSteve Nash PHX 12/25/2008 PHX vs. SAS L 38 13 5 8 62.5 1 1 100.0 2 2 100.0 0 4 4 8 1 0 6 2 3
+p561
+aVShaquille O'Neal PHX 12/25/2008 PHX vs. SAS L 38 23 7 15 46.7 0 0 - 9 16 56.3 2 10 12 2 1 4 1 3 5
+p562
+aVAmar'e Stoudemire PHX 12/25/2008 PHX vs. SAS L 43 25 10 20 50.0 0 0 - 5 5 100.0 3 10 13 3 2 2 3 2 -5
+p563
+aVLou Amundson PHX 12/25/2008 PHX vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p564
+aVLeandro Barbosa PHX 12/25/2008 PHX vs. SAS L 16 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -10
+p565
+aVGrant Hill PHX 12/25/2008 PHX vs. SAS L 35 16 7 11 63.6 0 2 0.0 2 2 100.0 0 3 3 0 0 0 0 0 7
+p566
+aVSteve Nash PHX 12/20/2008 PHX vs. DEN W 37 16 5 11 45.5 2 4 50.0 4 4 100.0 0 2 2 11 2 0 3 1 22
+p567
+aVShaquille O'Neal PHX 12/20/2008 PHX vs. DEN W 33 19 7 14 50.0 0 0 - 5 8 62.5 5 4 9 3 0 1 2 5 11
+p568
+aVRobin Lopez PHX 12/20/2008 PHX vs. DEN W 15 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 0 0 1 1 1 -4
+p569
+aVLou Amundson PHX 12/20/2008 PHX vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p570
+aVMatt Barnes PHX 12/20/2008 PHX vs. DEN W 22 7 2 8 25.0 1 4 25.0 2 2 100.0 0 2 2 1 2 0 3 2 -16
+p571
+aVGrant Hill PHX 12/20/2008 PHX vs. DEN W 29 11 4 5 80.0 1 1 100.0 2 2 100.0 1 3 4 0 0 0 1 2 29
+p572
+aVLeandro Barbosa PHX 12/20/2008 PHX vs. DEN W 19 5 2 9 22.2 1 3 33.3 0 0 - 0 0 0 3 2 0 0 3 -7
+p573
+aVJason Richardson PHX 12/20/2008 PHX vs. DEN W 39 19 6 12 50.0 4 6 66.7 3 4 75.0 0 7 7 6 0 1 2 2 -5
+p574
+aVAmar'e Stoudemire PHX 12/20/2008 PHX vs. DEN W 43 27 11 17 64.7 0 0 - 5 6 83.3 3 7 10 2 1 2 4 2 7
+p575
+aVMatt Barnes PHX 12/18/2008 PHX @ POR L 29 22 7 8 87.5 5 6 83.3 3 4 75.0 1 2 3 2 0 1 2 4 1
+p576
+aVShaquille O'Neal PHX 12/18/2008 PHX @ POR L 37 19 7 11 63.6 0 0 - 5 7 71.4 3 3 6 2 0 1 3 3 2
+p577
+aVGrant Hill PHX 12/18/2008 PHX @ POR L 28 9 4 4 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 3 2 -6
+p578
+aVLeandro Barbosa PHX 12/18/2008 PHX @ POR L 18 12 5 7 71.4 1 1 100.0 1 1 100.0 0 5 5 3 1 0 1 1 15
+p579
+aVRobin Lopez PHX 12/18/2008 PHX @ POR L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p580
+aVLou Amundson PHX 12/18/2008 PHX @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p581
+aVAmar'e Stoudemire PHX 12/18/2008 PHX @ POR L 39 23 6 13 46.2 0 0 - 11 11 100.0 1 7 8 8 1 2 0 4 1
+p582
+aVJason Richardson PHX 12/18/2008 PHX @ POR L 40 17 6 12 50.0 4 7 57.1 1 2 50.0 1 4 5 0 0 0 0 5 -9
+p583
+aVSteve Nash PHX 12/18/2008 PHX @ POR L 36 15 5 14 35.7 1 3 33.3 4 4 100.0 0 1 1 11 1 0 6 3 -19
+p584
+aVSteve Nash PHX 12/15/2008 PHX vs. NYK W 39 21 8 18 44.4 2 5 40.0 3 3 100.0 0 6 6 6 2 0 3 1 21
+p585
+aVAmar'e Stoudemire PHX 12/15/2008 PHX vs. NYK W 42 21 7 13 53.8 1 1 100.0 6 8 75.0 5 9 14 2 0 1 2 3 12
+p586
+aVMatt Barnes PHX 12/15/2008 PHX vs. NYK W 27 9 4 9 44.4 1 4 25.0 0 0 - 2 4 6 2 0 1 1 2 -3
+p587
+aVGrant Hill PHX 12/15/2008 PHX vs. NYK W 37 11 5 11 45.5 1 3 33.3 0 0 - 0 3 3 2 1 1 2 3 10
+p588
+aVJason Richardson PHX 12/15/2008 PHX vs. NYK W 37 16 5 14 35.7 4 7 57.1 2 2 100.0 1 6 7 1 1 0 2 2 10
+p589
+aVLeandro Barbosa PHX 12/15/2008 PHX vs. NYK W 18 6 2 7 28.6 0 2 0.0 2 2 100.0 0 3 3 2 0 0 0 1 -10
+p590
+aVShaquille O'Neal PHX 12/15/2008 PHX vs. NYK W 35 23 6 12 50.0 0 0 - 11 18 61.1 4 8 12 4 0 0 3 4 4
+p591
+aVLou Amundson PHX 12/15/2008 PHX vs. NYK W 5 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -4
+p592
+aVLou Amundson PHX 12/12/2008 PHX vs. ORL W 18 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 1 3 -4
+p593
+aVJason Richardson PHX 12/12/2008 PHX vs. ORL W 34 21 8 16 50.0 1 4 25.0 4 5 80.0 0 3 3 3 0 1 2 2 -4
+p594
+aVSteve Nash PHX 12/12/2008 PHX vs. ORL W 36 21 8 18 44.4 4 5 80.0 1 1 100.0 1 4 5 10 1 0 4 1 15
+p595
+aVMatt Barnes PHX 12/12/2008 PHX vs. ORL W 34 14 6 12 50.0 2 5 40.0 0 0 - 4 5 9 1 0 1 3 4 4
+p596
+aVAmar'e Stoudemire PHX 12/12/2008 PHX vs. ORL W 42 21 6 14 42.9 0 0 - 9 11 81.8 2 12 14 2 0 0 2 4 5
+p597
+aVJared Dudley PHX 12/12/2008 PHX vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p598
+aVLeandro Barbosa PHX 12/12/2008 PHX vs. ORL W 21 15 6 9 66.7 2 3 66.7 1 2 50.0 1 0 1 3 0 0 0 2 -16
+p599
+aVGrant Hill PHX 12/12/2008 PHX vs. ORL W 33 15 7 13 53.8 1 2 50.0 0 0 - 0 9 9 2 3 1 1 3 1
+p600
+aVRobin Lopez PHX 12/12/2008 PHX vs. ORL W 20 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 1 1 0 3 10
+p601
+aVSteve Nash PHX 12/10/2008 PHX @ LAL L 35 7 2 12 16.7 2 9 22.2 1 1 100.0 0 1 1 9 0 0 4 2 -1
+p602
+aVLou Amundson PHX 12/10/2008 PHX @ LAL L 16 6 3 5 60.0 0 0 - 0 2 0.0 1 2 3 1 1 0 0 2 -3
+p603
+aVAmar'e Stoudemire PHX 12/10/2008 PHX @ LAL L 40 21 9 15 60.0 0 0 - 3 5 60.0 4 7 11 3 2 1 4 4 -12
+p604
+aVGrant Hill PHX 12/10/2008 PHX @ LAL L 36 23 9 11 81.8 1 3 33.3 4 4 100.0 1 6 7 3 4 0 3 4 5
+p605
+aVRobin Lopez PHX 12/10/2008 PHX @ LAL L 32 8 3 4 75.0 0 0 - 2 4 50.0 0 3 3 1 0 1 0 2 7
+p606
+aVLeandro Barbosa PHX 12/10/2008 PHX @ LAL L 28 18 7 16 43.8 2 8 25.0 2 2 100.0 0 2 2 2 3 0 1 4 -9
+p607
+aVMatt Barnes PHX 12/10/2008 PHX @ LAL L 41 25 10 20 50.0 5 11 45.5 0 0 - 2 8 10 5 0 0 1 4 -9
+p608
+aVGoran Dragic PHX 12/10/2008 PHX @ LAL L 12 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 5 0 0 1 1 -3
+p609
+aVShaquille O'Neal PHX 12/09/2008 PHX vs. MIL W 34 35 14 19 73.7 0 0 - 7 12 58.3 3 5 8 1 0 3 1 4 23
+p610
+aVAmar'e Stoudemire PHX 12/09/2008 PHX vs. MIL W 35 22 8 15 53.3 1 1 100.0 5 5 100.0 3 5 8 2 3 0 2 0 8
+p611
+aVGoran Dragic PHX 12/09/2008 PHX vs. MIL W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 1 -9
+p612
+aVRobin Lopez PHX 12/09/2008 PHX vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p613
+aVLou Amundson PHX 12/09/2008 PHX vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p614
+aVSteve Nash PHX 12/09/2008 PHX vs. MIL W 31 19 6 8 75.0 1 1 100.0 6 6 100.0 1 3 4 10 1 0 5 2 17
+p615
+aVSean Singletary PHX 12/09/2008 PHX vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p616
+aVMatt Barnes PHX 12/09/2008 PHX vs. MIL W 21 5 2 4 50.0 1 3 33.3 0 2 0.0 1 0 1 5 0 0 0 2 14
+p617
+aVRaja Bell PHX 12/09/2008 PHX vs. MIL W 36 14 4 7 57.1 4 6 66.7 2 2 100.0 1 6 7 0 1 1 0 2 16
+p618
+aVLeandro Barbosa PHX 12/09/2008 PHX vs. MIL W 21 15 6 11 54.5 1 2 50.0 2 3 66.7 1 2 3 2 0 0 3 2 6
+p619
+aVGrant Hill PHX 12/09/2008 PHX vs. MIL W 27 11 3 5 60.0 0 1 0.0 5 6 83.3 0 4 4 1 0 2 3 2 5
+p620
+aVBoris Diaw PHX 12/09/2008 PHX vs. MIL W 20 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 1 0 0 2 3 1
+p621
+aVBoris Diaw PHX 12/06/2008 PHX vs. UTA W 30 12 4 7 57.1 1 1 100.0 3 5 60.0 1 5 6 4 1 0 4 3 7
+p622
+aVRaja Bell PHX 12/06/2008 PHX vs. UTA W 18 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 0 1 0 0 2 -6
+p623
+aVGrant Hill PHX 12/06/2008 PHX vs. UTA W 19 6 2 4 50.0 0 1 0.0 2 4 50.0 0 1 1 1 0 1 0 1 -8
+p624
+aVRobin Lopez PHX 12/06/2008 PHX vs. UTA W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p625
+aVGoran Dragic PHX 12/06/2008 PHX vs. UTA W 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -4
+p626
+aVSteve Nash PHX 12/06/2008 PHX vs. UTA W 38 12 4 14 28.6 0 6 0.0 4 4 100.0 0 5 5 9 1 0 4 0 6
+p627
+aVShaquille O'Neal PHX 12/06/2008 PHX vs. UTA W 23 15 5 7 71.4 0 0 - 5 6 83.3 2 8 10 1 0 0 0 5 9
+p628
+aVAmar'e Stoudemire PHX 12/06/2008 PHX vs. UTA W 39 22 9 17 52.9 0 0 - 4 9 44.4 11 9 20 2 0 0 5 5 -4
+p629
+aVMatt Barnes PHX 12/06/2008 PHX vs. UTA W 31 14 5 11 45.5 3 6 50.0 1 2 50.0 0 7 7 3 2 1 1 3 7
+p630
+aVLeandro Barbosa PHX 12/06/2008 PHX vs. UTA W 30 25 7 12 58.3 1 3 33.3 10 10 100.0 0 1 1 0 3 0 0 4 8
+p631
+aVRaja Bell PHX 12/04/2008 PHX @ DAL L 33 5 2 6 33.3 1 3 33.3 0 0 - 1 4 5 2 1 0 0 2 1
+p632
+aVSean Singletary PHX 12/04/2008 PHX @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 5
+p633
+aVShaquille O'Neal PHX 12/04/2008 PHX @ DAL L 26 4 1 6 16.7 0 0 - 2 2 100.0 1 4 5 2 1 1 0 2 -11
+p634
+aVBoris Diaw PHX 12/04/2008 PHX @ DAL L 24 11 5 7 71.4 0 0 - 1 2 50.0 1 3 4 0 2 0 1 3 -5
+p635
+aVMatt Barnes PHX 12/04/2008 PHX @ DAL L 32 8 3 7 42.9 2 4 50.0 0 2 0.0 2 4 6 2 0 0 3 5 -5
+p636
+aVLou Amundson PHX 12/04/2008 PHX @ DAL L 4 6 1 2 50.0 0 0 - 4 4 100.0 1 1 2 0 0 1 0 1 8
+p637
+aVRobin Lopez PHX 12/04/2008 PHX @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p638
+aVSteve Nash PHX 12/04/2008 PHX @ DAL L 30 20 7 11 63.6 3 5 60.0 3 4 75.0 0 1 1 10 1 0 1 1 -3
+p639
+aVGoran Dragic PHX 12/04/2008 PHX @ DAL L 10 7 2 6 33.3 0 1 0.0 3 3 100.0 1 1 2 3 0 0 1 2 -3
+p640
+aVLeandro Barbosa PHX 12/04/2008 PHX @ DAL L 21 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 0 0 1 3 1 -17
+p641
+aVAmar'e Stoudemire PHX 12/04/2008 PHX @ DAL L 33 28 11 21 52.4 0 0 - 6 6 100.0 2 3 5 2 1 1 4 5 -13
+p642
+aVGrant Hill PHX 12/04/2008 PHX @ DAL L 21 4 2 8 25.0 0 1 0.0 0 0 - 1 4 5 1 1 1 1 1 -22
+p643
+aVMatt Barnes PHX 12/03/2008 PHX @ NOH L 32 13 5 11 45.5 3 7 42.9 0 0 - 3 4 7 2 0 0 1 5 -3
+p644
+aVBoris Diaw PHX 12/03/2008 PHX @ NOH L 25 8 4 8 50.0 0 1 0.0 0 0 - 2 2 4 4 2 1 0 0 -4
+p645
+aVLou Amundson PHX 12/03/2008 PHX @ NOH L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p646
+aVAmar'e Stoudemire PHX 12/03/2008 PHX @ NOH L 41 26 11 19 57.9 0 0 - 4 4 100.0 1 3 4 1 1 0 6 5 -10
+p647
+aVRaja Bell PHX 12/03/2008 PHX @ NOH L 29 6 2 6 33.3 2 4 50.0 0 0 - 1 2 3 3 0 0 0 2 -27
+p648
+aVLeandro Barbosa PHX 12/03/2008 PHX @ NOH L 39 19 7 15 46.7 2 6 33.3 3 4 75.0 1 3 4 3 1 0 2 0 -18
+p649
+aVSean Singletary PHX 12/03/2008 PHX @ NOH L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 5
+p650
+aVGrant Hill PHX 12/03/2008 PHX @ NOH L 40 17 7 16 43.8 0 1 0.0 3 5 60.0 1 5 6 6 2 1 4 4 3
+p651
+aVRobin Lopez PHX 12/03/2008 PHX @ NOH L 20 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 4 -12
+p652
+aVSean Singletary PHX 11/30/2008 PHX vs. NJN L 11 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 2 0 1 2 -8
+p653
+aVRaja Bell PHX 11/30/2008 PHX vs. NJN L 35 13 5 8 62.5 3 4 75.0 0 0 - 0 4 4 0 0 0 0 6 3
+p654
+aVRobin Lopez PHX 11/30/2008 PHX vs. NJN L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 2 0 1 0
+p655
+aVAmar'e Stoudemire PHX 11/30/2008 PHX vs. NJN L 38 25 8 14 57.1 0 0 - 9 12 75.0 4 8 12 3 2 2 4 2 8
+p656
+aVSteve Nash PHX 11/30/2008 PHX vs. NJN L 38 26 11 20 55.0 3 5 60.0 1 1 100.0 0 1 1 9 2 0 3 1 -3
+p657
+aVGrant Hill PHX 11/30/2008 PHX vs. NJN L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 3 0 -12
+p658
+aVBoris Diaw PHX 11/30/2008 PHX vs. NJN L 23 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 1 0 0 3 2 -18
+p659
+aVLeandro Barbosa PHX 11/30/2008 PHX vs. NJN L 14 8 3 6 50.0 1 4 25.0 1 2 50.0 0 0 0 0 0 0 1 1 -12
+p660
+aVShaquille O'Neal PHX 11/30/2008 PHX vs. NJN L 26 9 4 6 66.7 0 0 - 1 3 33.3 1 4 5 1 1 2 2 3 -2
+p661
+aVMatt Barnes PHX 11/30/2008 PHX vs. NJN L 35 18 6 8 75.0 4 6 66.7 2 2 100.0 1 7 8 2 1 1 4 3 4
+p662
+aVGoran Dragic PHX 11/28/2008 PHX vs. MIA L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p663
+aVBoris Diaw PHX 11/28/2008 PHX vs. MIA L 28 8 4 5 80.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 5
+p664
+aVGrant Hill PHX 11/28/2008 PHX vs. MIA L 25 6 3 9 33.3 0 0 - 0 1 0.0 2 6 8 4 0 3 4 1 -4
+p665
+aVShaquille O'Neal PHX 11/28/2008 PHX vs. MIA L 29 12 6 8 75.0 0 0 - 0 0 - 4 5 9 0 1 1 1 3 -18
+p666
+aVLeandro Barbosa PHX 11/28/2008 PHX vs. MIA L 37 20 9 20 45.0 2 7 28.6 0 0 - 0 1 1 5 2 0 3 3 -2
+p667
+aVRaja Bell PHX 11/28/2008 PHX vs. MIA L 35 16 5 13 38.5 4 8 50.0 2 2 100.0 1 1 2 3 0 0 1 4 -12
+p668
+aVMatt Barnes PHX 11/28/2008 PHX vs. MIA L 30 8 3 10 30.0 2 6 33.3 0 2 0.0 1 6 7 3 1 1 4 5 -16
+p669
+aVAmar'e Stoudemire PHX 11/28/2008 PHX vs. MIA L 33 14 6 10 60.0 0 0 - 2 2 100.0 0 6 6 2 2 0 4 2 -16
+p670
+aVSean Singletary PHX 11/28/2008 PHX vs. MIA L 11 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 2 1 0 1 0 -13
+p671
+aVLou Amundson PHX 11/28/2008 PHX vs. MIA L 7 2 1 1 100.0 0 0 - 0 2 0.0 1 2 3 0 0 1 1 0 -1
+p672
+aVBoris Diaw PHX 11/26/2008 PHX @ MIN W 22 2 0 0 - 0 0 - 2 2 100.0 0 2 2 2 1 0 0 2 5
+p673
+aVAmar'e Stoudemire PHX 11/26/2008 PHX @ MIN W 39 16 4 9 44.4 0 0 - 8 9 88.9 0 3 3 0 2 3 2 4 7
+p674
+aVLeandro Barbosa PHX 11/26/2008 PHX @ MIN W 18 9 4 9 44.4 1 3 33.3 0 2 0.0 0 1 1 0 1 0 2 0 6
+p675
+aVSteve Nash PHX 11/26/2008 PHX @ MIN W 28 20 6 10 60.0 0 2 0.0 8 8 100.0 0 3 3 6 2 0 4 1 9
+p676
+aVSean Singletary PHX 11/26/2008 PHX @ MIN W 20 8 3 6 50.0 0 2 0.0 2 2 100.0 0 5 5 1 1 0 1 3 -1
+p677
+aVRobin Lopez PHX 11/26/2008 PHX @ MIN W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p678
+aVShaquille O'Neal PHX 11/26/2008 PHX @ MIN W 33 18 7 13 53.8 0 0 - 4 9 44.4 1 9 10 1 1 3 0 3 8
+p679
+aVMatt Barnes PHX 11/26/2008 PHX @ MIN W 31 12 4 8 50.0 0 4 0.0 4 4 100.0 0 4 4 4 2 1 1 3 0
+p680
+aVRaja Bell PHX 11/26/2008 PHX @ MIN W 31 15 6 8 75.0 3 3 100.0 0 0 - 0 3 3 2 0 0 2 2 2
+p681
+aVGrant Hill PHX 11/26/2008 PHX @ MIN W 17 8 2 5 40.0 0 0 - 4 4 100.0 1 3 4 1 1 0 1 1 8
+p682
+aVRobin Lopez PHX 11/25/2008 PHX @ OKC W 25 11 4 7 57.1 0 0 - 3 5 60.0 2 3 5 0 2 3 1 3 -8
+p683
+aVSteve Nash PHX 11/25/2008 PHX @ OKC W 43 20 8 14 57.1 2 5 40.0 2 2 100.0 1 7 8 15 0 0 7 0 3
+p684
+aVGrant Hill PHX 11/25/2008 PHX @ OKC W 20 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 2 3
+p685
+aVSean Singletary PHX 11/25/2008 PHX @ OKC W 5 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p686
+aVLou Amundson PHX 11/25/2008 PHX @ OKC W 4 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 1 0 0 1 -4
+p687
+aVAmar'e Stoudemire PHX 11/25/2008 PHX @ OKC W 37 22 10 13 76.9 1 1 100.0 1 2 50.0 0 7 7 2 0 1 3 3 11
+p688
+aVBoris Diaw PHX 11/25/2008 PHX @ OKC W 28 11 5 10 50.0 1 3 33.3 0 0 - 2 4 6 2 0 0 4 3 -4
+p689
+aVRaja Bell PHX 11/25/2008 PHX @ OKC W 35 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 0 2 0 0 4 -3
+p690
+aVLeandro Barbosa PHX 11/25/2008 PHX @ OKC W 13 4 1 6 16.7 0 2 0.0 2 2 100.0 1 1 2 0 1 0 1 2 4
+p691
+aVMatt Barnes PHX 11/25/2008 PHX @ OKC W 30 16 4 8 50.0 4 7 57.1 4 4 100.0 0 3 3 2 0 1 1 3 5
+p692
+aVAmar'e Stoudemire PHX 11/22/2008 PHX vs. POR W 39 17 6 12 50.0 0 0 - 5 5 100.0 1 8 9 2 2 2 2 4 5
+p693
+aVSean Singletary PHX 11/22/2008 PHX vs. POR W 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p694
+aVShaquille O'Neal PHX 11/22/2008 PHX vs. POR W 36 19 8 12 66.7 0 0 - 3 8 37.5 7 10 17 1 0 2 4 3 12
+p695
+aVSteve Nash PHX 11/22/2008 PHX vs. POR W 40 16 6 7 85.7 2 2 100.0 2 2 100.0 0 3 3 7 0 0 8 0 9
+p696
+aVMatt Barnes PHX 11/22/2008 PHX vs. POR W 31 9 3 9 33.3 3 6 50.0 0 0 - 1 4 5 6 0 0 2 1 -2
+p697
+aVBoris Diaw PHX 11/22/2008 PHX vs. POR W 26 10 4 6 66.7 0 0 - 2 2 100.0 2 1 3 5 0 0 1 3 5
+p698
+aVRaja Bell PHX 11/22/2008 PHX vs. POR W 34 14 5 14 35.7 3 9 33.3 1 2 50.0 0 2 2 2 0 0 1 2 17
+p699
+aVGrant Hill PHX 11/22/2008 PHX vs. POR W 26 15 7 11 63.6 0 1 0.0 1 2 50.0 0 5 5 0 1 0 0 0 3
+p700
+aVSean Singletary PHX 11/20/2008 PHX vs. LAL L 13 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 1 0 2 3 -3
+p701
+aVGoran Dragic PHX 11/20/2008 PHX vs. LAL L 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p702
+aVShaquille O'Neal PHX 11/20/2008 PHX vs. LAL L 27 15 6 12 50.0 0 0 - 3 6 50.0 6 3 9 1 0 0 4 3 -7
+p703
+aVAmar'e Stoudemire PHX 11/20/2008 PHX vs. LAL L 38 21 9 21 42.9 0 0 - 3 3 100.0 1 7 8 0 1 2 2 4 -19
+p704
+aVBoris Diaw PHX 11/20/2008 PHX vs. LAL L 23 10 5 8 62.5 0 0 - 0 0 - 1 5 6 4 0 0 2 0 -1
+p705
+aVRobin Lopez PHX 11/20/2008 PHX vs. LAL L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p706
+aVGrant Hill PHX 11/20/2008 PHX vs. LAL L 25 11 4 9 44.4 1 2 50.0 2 3 66.7 1 4 5 2 0 0 0 2 -6
+p707
+aVMatt Barnes PHX 11/20/2008 PHX vs. LAL L 31 12 5 10 50.0 2 6 33.3 0 1 0.0 0 7 7 2 1 0 1 2 -6
+p708
+aVSteve Nash PHX 11/20/2008 PHX vs. LAL L 35 8 3 9 33.3 0 4 0.0 2 2 100.0 0 1 1 10 0 0 2 0 -10
+p709
+aVRaja Bell PHX 11/20/2008 PHX vs. LAL L 37 6 2 7 28.6 2 4 50.0 0 0 - 2 5 7 1 1 0 2 2 -16
+p710
+aVLou Amundson PHX 11/20/2008 PHX vs. LAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 2 0 0 2
+p711
+aVSteve Nash PHX 11/17/2008 PHX @ UTA L 32 14 6 10 60.0 2 5 40.0 0 0 - 0 3 3 8 0 0 2 5 -2
+p712
+aVRaja Bell PHX 11/17/2008 PHX @ UTA L 32 9 3 8 37.5 1 3 33.3 2 2 100.0 0 1 1 3 2 0 0 4 -5
+p713
+aVRobin Lopez PHX 11/17/2008 PHX @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p714
+aVShaquille O'Neal PHX 11/17/2008 PHX @ UTA L 32 9 3 11 27.3 0 0 - 3 4 75.0 0 1 1 5 0 3 3 4 -27
+p715
+aVGoran Dragic PHX 11/17/2008 PHX @ UTA L 16 2 0 4 0.0 0 2 0.0 2 2 100.0 2 1 3 1 0 0 1 1 -10
+p716
+aVLou Amundson PHX 11/17/2008 PHX @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p717
+aVGrant Hill PHX 11/17/2008 PHX @ UTA L 23 6 2 6 33.3 0 1 0.0 2 2 100.0 1 2 3 0 0 0 1 3 -13
+p718
+aVBoris Diaw PHX 11/17/2008 PHX @ UTA L 24 8 4 5 80.0 0 0 - 0 1 0.0 0 1 1 2 0 0 1 2 9
+p719
+aVAmar'e Stoudemire PHX 11/17/2008 PHX @ UTA L 40 30 10 17 58.8 0 0 - 10 14 71.4 1 7 8 0 1 1 2 2 -3
+p720
+aVMatt Barnes PHX 11/17/2008 PHX @ UTA L 39 19 8 13 61.5 2 5 40.0 1 2 50.0 1 4 5 0 0 1 2 5 -8
+p721
+aVAmar'e Stoudemire PHX 11/16/2008 PHX vs. DET W 39 29 11 17 64.7 0 0 - 7 8 87.5 0 11 11 1 2 1 1 1 16
+p722
+aVBoris Diaw PHX 11/16/2008 PHX vs. DET W 35 13 5 8 62.5 1 2 50.0 2 5 40.0 1 6 7 2 1 1 3 1 19
+p723
+aVSteve Nash PHX 11/16/2008 PHX vs. DET W 37 17 6 10 60.0 2 5 40.0 3 3 100.0 0 3 3 7 0 2 4 1 8
+p724
+aVRaja Bell PHX 11/16/2008 PHX vs. DET W 35 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 4 16
+p725
+aVGrant Hill PHX 11/16/2008 PHX vs. DET W 36 11 5 8 62.5 1 2 50.0 0 0 - 3 5 8 1 1 1 2 4 29
+p726
+aVRobin Lopez PHX 11/16/2008 PHX vs. DET W 14 9 3 6 50.0 0 0 - 3 6 50.0 3 1 4 0 1 0 2 2 -1
+p727
+aVSean Singletary PHX 11/16/2008 PHX vs. DET W 7 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 1 0 0 0 0 0
+p728
+aVGoran Dragic PHX 11/16/2008 PHX vs. DET W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 1 1 3 5
+p729
+aVShaquille O'Neal PHX 11/16/2008 PHX vs. DET W 13 12 6 12 50.0 0 0 - 0 3 0.0 1 1 2 0 0 0 1 3 4
+p730
+aVLou Amundson PHX 11/16/2008 PHX vs. DET W 16 5 2 2 100.0 0 0 - 1 3 33.3 0 3 3 0 1 3 0 2 -6
+p731
+aVShaquille O'Neal PHX 11/14/2008 PHX @ SAC W 43 29 10 15 66.7 0 0 - 9 15 60.0 4 9 13 6 1 1 4 3 9
+p732
+aVRaja Bell PHX 11/14/2008 PHX @ SAC W 49 14 5 12 41.7 3 7 42.9 1 2 50.0 2 5 7 3 1 0 1 4 2
+p733
+aVBoris Diaw PHX 11/14/2008 PHX @ SAC W 25 9 4 5 80.0 1 1 100.0 0 0 - 2 2 4 3 1 0 3 4 7
+p734
+aVAmar'e Stoudemire PHX 11/14/2008 PHX @ SAC W 38 12 4 11 36.4 0 0 - 4 8 50.0 1 4 5 1 1 3 4 4 -11
+p735
+aVLou Amundson PHX 11/14/2008 PHX @ SAC W 11 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 1
+p736
+aVGrant Hill PHX 11/14/2008 PHX @ SAC W 45 22 9 19 47.4 0 2 0.0 4 5 80.0 1 8 9 4 4 0 7 5 1
+p737
+aVSean Singletary PHX 11/14/2008 PHX @ SAC W 23 5 2 7 28.6 1 3 33.3 0 0 - 2 3 5 1 0 0 0 2 -2
+p738
+aVGoran Dragic PHX 11/14/2008 PHX @ SAC W 30 5 2 7 28.6 0 2 0.0 1 2 50.0 3 1 4 4 3 0 2 2 3
+p739
+aVRobin Lopez PHX 11/12/2008 PHX vs. HOU L 7 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -5
+p740
+aVMatt Barnes PHX 11/12/2008 PHX vs. HOU L 27 11 5 13 38.5 1 4 25.0 0 0 - 4 3 7 1 1 0 1 2 -17
+p741
+aVLou Amundson PHX 11/12/2008 PHX vs. HOU L 6 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 4
+p742
+aVLeandro Barbosa PHX 11/12/2008 PHX vs. HOU L 25 18 5 15 33.3 1 4 25.0 7 8 87.5 0 3 3 0 1 0 0 1 -4
+p743
+aVAmar'e Stoudemire PHX 11/12/2008 PHX vs. HOU L 36 11 5 13 38.5 0 0 - 1 2 50.0 1 8 9 2 1 0 5 3 -9
+p744
+aVGrant Hill PHX 11/12/2008 PHX vs. HOU L 21 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 1 5
+p745
+aVBoris Diaw PHX 11/12/2008 PHX vs. HOU L 14 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -1
+p746
+aVRaja Bell PHX 11/12/2008 PHX vs. HOU L 23 0 0 6 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 0 -10
+p747
+aVGoran Dragic PHX 11/12/2008 PHX vs. HOU L 15 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 3
+p748
+aVShaquille O'Neal PHX 11/12/2008 PHX vs. HOU L 32 18 7 12 58.3 0 0 - 4 4 100.0 7 6 13 3 0 4 2 3 -11
+p749
+aVSteve Nash PHX 11/12/2008 PHX vs. HOU L 33 10 4 10 40.0 1 4 25.0 1 1 100.0 0 4 4 3 0 0 2 0 -15
+p750
+aVGrant Hill PHX 11/10/2008 PHX vs. MEM W 15 0 0 4 0.0 0 3 0.0 0 0 - 0 6 6 2 1 0 1 2 -11
+p751
+aVShaquille O'Neal PHX 11/10/2008 PHX vs. MEM W 22 9 3 8 37.5 0 0 - 3 5 60.0 0 5 5 2 0 0 2 6 -2
+p752
+aVBoris Diaw PHX 11/10/2008 PHX vs. MEM W 30 13 6 10 60.0 1 3 33.3 0 0 - 2 1 3 1 0 2 2 1 6
+p753
+aVMatt Barnes PHX 11/10/2008 PHX vs. MEM W 25 8 3 7 42.9 2 4 50.0 0 0 - 1 7 8 2 1 0 3 1 14
+p754
+aVLeandro Barbosa PHX 11/10/2008 PHX vs. MEM W 22 27 10 13 76.9 2 3 66.7 5 6 83.3 1 2 3 0 1 0 0 3 -7
+p755
+aVAmar'e Stoudemire PHX 11/10/2008 PHX vs. MEM W 35 18 6 13 46.2 0 0 - 6 6 100.0 3 3 6 2 0 2 2 4 17
+p756
+aVGoran Dragic PHX 11/10/2008 PHX vs. MEM W 13 8 2 2 100.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 1 -8
+p757
+aVRaja Bell PHX 11/10/2008 PHX vs. MEM W 34 10 4 8 50.0 2 5 40.0 0 0 - 0 4 4 1 0 0 1 0 12
+p758
+aVSteve Nash PHX 11/10/2008 PHX vs. MEM W 35 12 3 11 27.3 1 3 33.3 5 5 100.0 0 2 2 6 0 0 6 0 13
+p759
+aVRobin Lopez PHX 11/10/2008 PHX vs. MEM W 9 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 1 3 -9
+p760
+aVLeandro Barbosa PHX 11/08/2008 PHX @ MIL W 19 7 2 6 33.3 1 5 20.0 2 2 100.0 0 3 3 3 0 0 0 1 -2
+p761
+aVSteve Nash PHX 11/08/2008 PHX @ MIL W 35 16 3 9 33.3 2 4 50.0 8 9 88.9 1 4 5 7 1 0 1 1 17
+p762
+aVAmar'e Stoudemire PHX 11/08/2008 PHX @ MIL W 42 24 3 8 37.5 0 0 - 18 20 90.0 0 5 5 2 0 1 4 5 14
+p763
+aVGoran Dragic PHX 11/08/2008 PHX @ MIL W 13 0 0 3 0.0 0 2 0.0 0 0 - 2 1 3 1 0 0 2 5 -9
+p764
+aVShaquille O'Neal PHX 11/08/2008 PHX @ MIL W 35 29 12 16 75.0 0 0 - 5 9 55.6 4 7 11 4 1 0 2 5 14
+p765
+aVRobin Lopez PHX 11/08/2008 PHX @ MIL W 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p766
+aVLou Amundson PHX 11/08/2008 PHX @ MIL W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -6
+p767
+aVGrant Hill PHX 11/08/2008 PHX @ MIL W 38 13 3 6 50.0 1 2 50.0 6 8 75.0 0 11 11 2 3 0 2 3 13
+p768
+aVRaja Bell PHX 11/08/2008 PHX @ MIL W 29 8 2 8 25.0 2 7 28.6 2 2 100.0 0 1 1 1 0 0 4 2 10
+p769
+aVBoris Diaw PHX 11/08/2008 PHX @ MIL W 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 2 0 1 1 -8
+p770
+aVAmar'e Stoudemire PHX 11/07/2008 PHX @ CHI L 35 26 5 10 50.0 0 0 - 16 18 88.9 0 7 7 3 2 1 4 2 -13
+p771
+aVBoris Diaw PHX 11/07/2008 PHX @ CHI L 28 11 5 9 55.6 0 1 0.0 1 1 100.0 1 2 3 0 0 0 2 2 -7
+p772
+aVRaja Bell PHX 11/07/2008 PHX @ CHI L 30 9 3 6 50.0 2 2 100.0 1 2 50.0 0 5 5 0 0 0 1 3 -6
+p773
+aVRobin Lopez PHX 11/07/2008 PHX @ CHI L 30 14 6 9 66.7 0 0 - 2 5 40.0 3 4 7 0 0 2 1 0 -6
+p774
+aVSteve Nash PHX 11/07/2008 PHX @ CHI L 24 6 2 7 28.6 0 2 0.0 2 2 100.0 0 0 0 5 0 0 3 0 -10
+p775
+aVSean Singletary PHX 11/07/2008 PHX @ CHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 3
+p776
+aVGrant Hill PHX 11/07/2008 PHX @ CHI L 21 3 1 4 25.0 1 1 100.0 0 0 - 0 3 3 3 0 0 3 3 -15
+p777
+aVLou Amundson PHX 11/07/2008 PHX @ CHI L 23 7 3 7 42.9 0 0 - 1 1 100.0 0 4 4 1 1 1 0 3 -10
+p778
+aVLeandro Barbosa PHX 11/07/2008 PHX @ CHI L 17 2 1 8 12.5 0 3 0.0 0 0 - 0 1 1 1 1 0 2 3 -14
+p779
+aVGoran Dragic PHX 11/07/2008 PHX @ CHI L 24 5 2 8 25.0 1 1 100.0 0 0 - 1 1 2 2 1 0 2 3 -7
+p780
+aVGoran Dragic PHX 11/05/2008 PHX @ IND W 15 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 3 0 0 2 6
+p781
+aVAmar'e Stoudemire PHX 11/05/2008 PHX @ IND W 44 49 17 21 81.0 0 2 0.0 15 15 100.0 1 10 11 6 5 2 4 3 11
+p782
+aVShaquille O'Neal PHX 11/05/2008 PHX @ IND W 12 3 1 2 50.0 0 0 - 1 4 25.0 1 5 6 1 0 0 1 4 1
+p783
+aVBoris Diaw PHX 11/05/2008 PHX @ IND W 30 14 7 15 46.7 0 2 0.0 0 1 0.0 3 2 5 5 0 3 1 3 6
+p784
+aVSteve Nash PHX 11/05/2008 PHX @ IND W 33 7 2 5 40.0 1 1 100.0 2 3 66.7 0 3 3 6 1 0 3 1 4
+p785
+aVRaja Bell PHX 11/05/2008 PHX @ IND W 37 10 4 8 50.0 1 4 25.0 1 2 50.0 0 3 3 3 1 0 1 3 5
+p786
+aVLou Amundson PHX 11/05/2008 PHX @ IND W 10 6 2 3 66.7 0 0 - 2 2 100.0 3 2 5 0 1 0 0 1 2
+p787
+aVGrant Hill PHX 11/05/2008 PHX @ IND W 36 11 5 10 50.0 0 1 0.0 1 2 50.0 0 4 4 3 1 4 3 3 5
+p788
+aVLeandro Barbosa PHX 11/05/2008 PHX @ IND W 23 11 4 9 44.4 3 6 50.0 0 0 - 0 4 4 4 2 0 3 3 10
+p789
+aVMatt Barnes PHX 11/04/2008 PHX @ NJN W 24 10 3 6 50.0 3 6 50.0 1 2 50.0 1 6 7 4 0 1 1 2 10
+p790
+aVSteve Nash PHX 11/04/2008 PHX @ NJN W 26 12 5 7 71.4 2 3 66.7 0 0 - 0 2 2 11 1 0 4 2 4
+p791
+aVRobin Lopez PHX 11/04/2008 PHX @ NJN W 20 2 1 4 25.0 0 0 - 0 1 0.0 0 1 1 0 1 3 0 3 18
+p792
+aVGrant Hill PHX 11/04/2008 PHX @ NJN W 24 11 5 7 71.4 0 0 - 1 1 100.0 0 1 1 4 2 0 3 0 18
+p793
+aVGoran Dragic PHX 11/04/2008 PHX @ NJN W 17 6 2 3 66.7 0 1 0.0 2 3 66.7 0 3 3 2 0 0 2 2 22
+p794
+aVRaja Bell PHX 11/04/2008 PHX @ NJN W 28 22 7 9 77.8 6 6 100.0 2 3 66.7 0 2 2 2 0 1 1 0 11
+p795
+aVBoris Diaw PHX 11/04/2008 PHX @ NJN W 18 4 2 6 33.3 0 0 - 0 0 - 1 5 6 2 0 0 1 1 17
+p796
+aVAmar'e Stoudemire PHX 11/04/2008 PHX @ NJN W 28 14 6 9 66.7 0 0 - 2 2 100.0 0 5 5 1 0 2 0 4 14
+p797
+aVLou Amundson PHX 11/04/2008 PHX @ NJN W 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 4
+p798
+aVShaquille O'Neal PHX 11/04/2008 PHX @ NJN W 24 18 7 8 87.5 0 0 - 4 5 80.0 1 5 6 0 1 2 5 3 3
+p799
+aVSean Singletary PHX 11/04/2008 PHX @ NJN W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p800
+aVLeandro Barbosa PHX 11/04/2008 PHX @ NJN W 20 12 4 7 57.1 1 2 50.0 3 4 75.0 1 5 6 4 2 0 2 1 17
+p801
+aVGoran Dragic PHX 11/01/2008 PHX vs. POR W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -16
+p802
+aVSteve Nash PHX 11/01/2008 PHX vs. POR W 31 20 6 10 60.0 2 2 100.0 6 6 100.0 0 3 3 7 1 0 1 0 23
+p803
+aVGrant Hill PHX 11/01/2008 PHX vs. POR W 20 4 1 6 16.7 0 1 0.0 2 2 100.0 0 2 2 1 1 0 0 1 -5
+p804
+aVAmar'e Stoudemire PHX 11/01/2008 PHX vs. POR W 41 23 8 12 66.7 0 0 - 7 10 70.0 2 11 13 2 1 0 2 1 22
+p805
+aVMatt Barnes PHX 11/01/2008 PHX vs. POR W 36 21 7 12 58.3 3 8 37.5 4 4 100.0 1 4 5 3 1 0 1 1 18
+p806
+aVLou Amundson PHX 11/01/2008 PHX vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -9
+p807
+aVLeandro Barbosa PHX 11/01/2008 PHX vs. POR W 18 1 0 3 0.0 0 3 0.0 1 2 50.0 0 2 2 1 0 0 1 0 -8
+p808
+aVShaquille O'Neal PHX 11/01/2008 PHX vs. POR W 30 16 6 8 75.0 0 0 - 4 5 80.0 0 8 8 1 1 1 0 3 23
+p809
+aVBoris Diaw PHX 11/01/2008 PHX vs. POR W 22 9 4 5 80.0 0 0 - 1 1 100.0 0 2 2 1 0 1 3 2 -14
+p810
+aVRaja Bell PHX 11/01/2008 PHX vs. POR W 33 13 6 12 50.0 1 3 33.3 0 0 - 0 0 0 0 2 0 2 3 21
+p811
+aVShaquille O'Neal PHX 10/30/2008 PHX vs. NOH L 22 8 3 4 75.0 0 0 - 2 5 40.0 2 6 8 0 0 1 2 1 -10
+p812
+aVSteve Nash PHX 10/30/2008 PHX vs. NOH L 36 24 9 16 56.3 2 4 50.0 4 5 80.0 0 4 4 9 0 0 7 2 -15
+p813
+aVRaja Bell PHX 10/30/2008 PHX vs. NOH L 27 13 5 9 55.6 3 4 75.0 0 0 - 0 1 1 0 0 0 1 4 -12
+p814
+aVBoris Diaw PHX 10/30/2008 PHX vs. NOH L 26 10 4 5 80.0 0 0 - 2 2 100.0 0 5 5 3 0 1 2 1 -3
+p815
+aVRobin Lopez PHX 10/30/2008 PHX vs. NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -2
+p816
+aVAmar'e Stoudemire PHX 10/30/2008 PHX vs. NOH L 43 21 9 16 56.3 0 0 - 3 4 75.0 4 8 12 2 0 0 2 3 -8
+p817
+aVGrant Hill PHX 10/30/2008 PHX vs. NOH L 22 6 2 4 50.0 0 1 0.0 2 3 66.7 0 1 1 0 2 1 1 2 -4
+p818
+aVMatt Barnes PHX 10/30/2008 PHX vs. NOH L 26 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 1 0 0 2 3 -9
+p819
+aVLou Amundson PHX 10/30/2008 PHX vs. NOH L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -3
+p820
+aVGoran Dragic PHX 10/30/2008 PHX vs. NOH L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 1 2
+p821
+aVLeandro Barbosa PHX 10/30/2008 PHX vs. NOH L 21 2 1 6 16.7 0 5 0.0 0 0 - 0 2 2 0 0 0 3 3 -1
+p822
+aVRobin Lopez PHX 10/29/2008 PHX @ SAS W 9 3 1 1 100.0 0 0 - 1 1 100.0 1 1 2 0 0 1 0 2 -6
+p823
+aVLeandro Barbosa PHX 10/29/2008 PHX @ SAS W 27 18 6 14 42.9 2 3 66.7 4 5 80.0 0 3 3 1 1 0 0 0 -2
+p824
+aVSteve Nash PHX 10/29/2008 PHX @ SAS W 34 13 5 11 45.5 2 4 50.0 1 2 50.0 0 2 2 13 0 1 3 0 17
+p825
+aVMatt Barnes PHX 10/29/2008 PHX @ SAS W 19 7 3 10 30.0 1 4 25.0 0 1 0.0 2 5 7 1 0 0 2 3 3
+p826
+aVAmar'e Stoudemire PHX 10/29/2008 PHX @ SAS W 39 22 8 11 72.7 0 0 - 6 8 75.0 2 6 8 2 1 1 2 2 11
+p827
+aVRaja Bell PHX 10/29/2008 PHX @ SAS W 31 4 1 4 25.0 0 2 0.0 2 2 100.0 0 0 0 1 1 0 0 2 17
+p828
+aVGoran Dragic PHX 10/29/2008 PHX @ SAS W 14 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 3 -12
+p829
+aVShaquille O'Neal PHX 10/29/2008 PHX @ SAS W 30 15 5 10 50.0 0 0 - 5 8 62.5 2 11 13 1 0 2 1 5 14
+p830
+aVBoris Diaw PHX 10/29/2008 PHX @ SAS W 17 8 4 8 50.0 0 0 - 0 0 - 1 0 1 3 0 0 1 0 -11
+p831
+aVGrant Hill PHX 10/29/2008 PHX @ SAS W 19 13 6 8 75.0 1 1 100.0 0 0 - 0 2 2 0 2 0 0 3 -6
+p832
+a.

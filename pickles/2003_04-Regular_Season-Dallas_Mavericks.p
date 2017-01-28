@@ -1,0 +1,1640 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEduardo Najera DAL 04/14/2004 DAL @ HOU W 12 4 1 1 100.0 0 0 - 2 4 50.0 0 4 4 0 0 2 0 0 0
+p2
+aVAntoine Walker DAL 04/14/2004 DAL @ HOU W 21 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 1 1 1 0 3 12
+p3
+aVAntawn Jamison DAL 04/14/2004 DAL @ HOU W 27 18 5 8 62.5 1 1 100.0 7 10 70.0 0 4 4 0 2 0 0 1 -6
+p4
+aVShawn Bradley DAL 04/14/2004 DAL @ HOU W 13 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 1 1 1 0 -7
+p5
+aVDanny Fortson DAL 04/14/2004 DAL @ HOU W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 2
+p6
+aVScott Williams DAL 04/14/2004 DAL @ HOU W 6 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 3
+p7
+aVSteve Nash DAL 04/14/2004 DAL @ HOU W 21 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 8 0 0 0 1 9
+p8
+aVMarquis Daniels DAL 04/14/2004 DAL @ HOU W 48 21 8 16 50.0 2 3 66.7 3 4 75.0 2 6 8 7 3 1 3 2 3
+p9
+aVDirk Nowitzki DAL 04/14/2004 DAL @ HOU W 23 10 3 10 30.0 0 3 0.0 4 6 66.7 1 5 6 1 0 1 1 3 5
+p10
+aVTony Delk DAL 04/14/2004 DAL @ HOU W 19 5 2 6 33.3 0 2 0.0 1 2 50.0 0 1 1 2 3 2 1 3 -8
+p11
+aVMichael Finley DAL 04/14/2004 DAL @ HOU W 42 16 5 15 33.3 1 4 25.0 5 6 83.3 0 7 7 3 3 0 1 0 2
+p12
+aVMichael Finley DAL 04/13/2004 DAL vs. MEM W 31 9 4 12 33.3 1 5 20.0 0 0 - 0 1 1 1 0 0 2 1 9
+p13
+aVDirk Nowitzki DAL 04/13/2004 DAL vs. MEM W 27 11 4 9 44.4 0 0 - 3 4 75.0 2 8 10 0 1 3 0 4 4
+p14
+aVAntawn Jamison DAL 04/13/2004 DAL vs. MEM W 32 18 8 11 72.7 0 1 0.0 2 2 100.0 1 4 5 0 1 1 1 4 1
+p15
+aVTravis Best DAL 04/13/2004 DAL vs. MEM W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 -7
+p16
+aVEduardo Najera DAL 04/13/2004 DAL vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p17
+aVMarquis Daniels DAL 04/13/2004 DAL vs. MEM W 48 30 12 19 63.2 0 2 0.0 6 6 100.0 3 5 8 7 4 0 3 2 7
+p18
+aVJosh Howard DAL 04/13/2004 DAL vs. MEM W 22 7 2 7 28.6 0 1 0.0 3 4 75.0 0 2 2 0 2 0 0 3 6
+p19
+aVSteve Nash DAL 04/13/2004 DAL vs. MEM W 37 25 9 14 64.3 4 6 66.7 3 4 75.0 1 3 4 4 0 0 5 1 13
+p20
+aVAntoine Walker DAL 04/13/2004 DAL vs. MEM W 38 8 4 9 44.4 0 2 0.0 0 0 - 0 7 7 9 4 1 3 3 9
+p21
+aVTravis Best DAL 04/11/2004 DAL @ GSW L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p22
+aVMarquis Daniels DAL 04/11/2004 DAL @ GSW L 45 21 9 25 36.0 1 3 33.3 2 2 100.0 4 3 7 6 2 0 3 0 -2
+p23
+aVAntawn Jamison DAL 04/11/2004 DAL @ GSW L 32 14 5 12 41.7 0 1 0.0 4 5 80.0 4 3 7 0 0 0 0 1 -3
+p24
+aVAntoine Walker DAL 04/11/2004 DAL @ GSW L 37 16 6 14 42.9 0 0 - 4 4 100.0 3 6 9 3 1 2 0 4 1
+p25
+aVEduardo Najera DAL 04/11/2004 DAL @ GSW L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p26
+aVSteve Nash DAL 04/11/2004 DAL @ GSW L 37 11 5 12 41.7 0 0 - 1 1 100.0 1 0 1 12 4 0 2 4 0
+p27
+aVDirk Nowitzki DAL 04/11/2004 DAL @ GSW L 46 29 10 15 66.7 1 2 50.0 8 9 88.9 1 13 14 3 2 1 6 3 0
+p28
+aVShawn Bradley DAL 04/11/2004 DAL @ GSW L 16 7 1 4 25.0 0 0 - 5 5 100.0 2 3 5 1 0 0 0 3 0
+p29
+aVJosh Howard DAL 04/11/2004 DAL @ GSW L 17 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 2 3
+p30
+aVTravis Best DAL 04/10/2004 DAL @ SEA L 23 0 0 2 0.0 0 0 - 0 0 - 0 2 2 6 0 0 0 1 10
+p31
+aVSteve Nash DAL 04/10/2004 DAL @ SEA L 28 4 2 10 20.0 0 2 0.0 0 0 - 1 0 1 7 0 1 3 2 -28
+p32
+aVAntoine Walker DAL 04/10/2004 DAL @ SEA L 25 19 8 15 53.3 1 3 33.3 2 4 50.0 1 6 7 2 1 1 3 1 -7
+p33
+aVScott Williams DAL 04/10/2004 DAL @ SEA L 9 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 0 0
+p34
+aVEduardo Najera DAL 04/10/2004 DAL @ SEA L 11 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 1
+p35
+aVDirk Nowitzki DAL 04/10/2004 DAL @ SEA L 27 10 3 15 20.0 2 4 50.0 2 2 100.0 0 6 6 1 0 2 1 1 -31
+p36
+aVMarquis Daniels DAL 04/10/2004 DAL @ SEA L 44 33 14 18 77.8 1 2 50.0 4 4 100.0 3 2 5 3 2 0 3 2 -24
+p37
+aVJosh Howard DAL 04/10/2004 DAL @ SEA L 34 5 2 10 20.0 1 3 33.3 0 0 - 2 3 5 3 1 1 0 1 -12
+p38
+aVAntawn Jamison DAL 04/10/2004 DAL @ SEA L 37 22 9 18 50.0 2 2 100.0 2 2 100.0 3 7 10 2 2 1 2 2 -9
+p39
+aVShawn Bradley DAL 04/10/2004 DAL @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p40
+aVScott Williams DAL 04/08/2004 DAL vs. UTA W 7 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -1
+p41
+aVAntoine Walker DAL 04/08/2004 DAL vs. UTA W 30 15 6 9 66.7 1 1 100.0 2 4 50.0 1 3 4 3 1 0 1 1 16
+p42
+aVMichael Finley DAL 04/08/2004 DAL vs. UTA W 28 14 5 11 45.5 3 5 60.0 1 2 50.0 0 0 0 1 2 0 1 3 7
+p43
+aVMarquis Daniels DAL 04/08/2004 DAL vs. UTA W 34 12 5 10 50.0 0 0 - 2 2 100.0 0 5 5 5 3 0 0 0 26
+p44
+aVSteve Nash DAL 04/08/2004 DAL vs. UTA W 29 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 8 0 1 0 0 12
+p45
+aVTravis Best DAL 04/08/2004 DAL vs. UTA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -1
+p46
+aVShawn Bradley DAL 04/08/2004 DAL vs. UTA W 11 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 0 2 8
+p47
+aVJosh Howard DAL 04/08/2004 DAL vs. UTA W 32 12 5 12 41.7 2 5 40.0 0 0 - 3 5 8 3 1 2 1 5 14
+p48
+aVDirk Nowitzki DAL 04/08/2004 DAL vs. UTA W 34 27 7 10 70.0 2 4 50.0 11 11 100.0 1 3 4 3 1 2 0 3 31
+p49
+aVAntawn Jamison DAL 04/08/2004 DAL vs. UTA W 25 25 8 12 66.7 1 1 100.0 8 9 88.9 5 4 9 0 0 0 1 1 4
+p50
+aVEduardo Najera DAL 04/08/2004 DAL vs. UTA W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p51
+aVAntawn Jamison DAL 04/06/2004 DAL vs. SEA W 30 17 8 10 80.0 0 0 - 1 1 100.0 2 4 6 0 0 0 2 3 0
+p52
+aVAntoine Walker DAL 04/06/2004 DAL vs. SEA W 28 12 5 10 50.0 0 0 - 2 2 100.0 1 7 8 5 2 2 3 2 4
+p53
+aVMarquis Daniels DAL 04/06/2004 DAL vs. SEA W 41 16 6 14 42.9 0 0 - 4 4 100.0 4 2 6 5 0 2 1 1 5
+p54
+aVSteve Nash DAL 04/06/2004 DAL vs. SEA W 34 14 5 8 62.5 0 2 0.0 4 4 100.0 0 1 1 14 0 1 1 1 5
+p55
+aVMichael Finley DAL 04/06/2004 DAL vs. SEA W 43 24 9 18 50.0 4 8 50.0 2 2 100.0 0 6 6 3 1 0 0 0 21
+p56
+aVJosh Howard DAL 04/06/2004 DAL vs. SEA W 15 4 2 5 40.0 0 2 0.0 0 0 - 1 2 3 1 0 0 0 1 -5
+p57
+aVEduardo Najera DAL 04/06/2004 DAL vs. SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p58
+aVDirk Nowitzki DAL 04/06/2004 DAL vs. SEA W 36 23 9 17 52.9 1 2 50.0 4 4 100.0 2 6 8 2 0 4 2 2 11
+p59
+aVShawn Bradley DAL 04/06/2004 DAL vs. SEA W 10 8 4 5 80.0 0 0 - 0 0 - 2 3 5 0 0 0 0 0 15
+p60
+aVMichael Finley DAL 04/03/2004 DAL vs. PHX W 39 20 8 16 50.0 4 8 50.0 0 0 - 1 4 5 4 2 2 1 1 13
+p61
+aVSteve Nash DAL 04/03/2004 DAL vs. PHX W 30 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 14 0 0 3 2 10
+p62
+aVDirk Nowitzki DAL 04/03/2004 DAL vs. PHX W 34 34 14 22 63.6 3 7 42.9 3 3 100.0 0 7 7 4 1 1 1 2 13
+p63
+aVMarquis Daniels DAL 04/03/2004 DAL vs. PHX W 38 11 5 10 50.0 0 2 0.0 1 2 50.0 1 4 5 6 1 0 0 1 8
+p64
+aVAntawn Jamison DAL 04/03/2004 DAL vs. PHX W 27 22 8 10 80.0 0 0 - 6 6 100.0 2 5 7 0 3 0 2 1 28
+p65
+aVEduardo Najera DAL 04/03/2004 DAL vs. PHX W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 1 1 1 1 10
+p66
+aVAntoine Walker DAL 04/03/2004 DAL vs. PHX W 29 11 5 8 62.5 0 2 0.0 1 2 50.0 4 5 9 4 0 1 3 3 -1
+p67
+aVScott Williams DAL 04/03/2004 DAL vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p68
+aVTravis Best DAL 04/03/2004 DAL vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p69
+aVJosh Howard DAL 04/03/2004 DAL vs. PHX W 27 14 5 6 83.3 1 1 100.0 3 4 75.0 2 6 8 5 0 1 3 2 24
+p70
+aVAntoine Walker DAL 04/01/2004 DAL vs. SAC W 23 9 4 9 44.4 1 3 33.3 0 1 0.0 1 3 4 3 1 0 1 4 2
+p71
+aVDirk Nowitzki DAL 04/01/2004 DAL vs. SAC W 40 27 8 18 44.4 1 2 50.0 10 12 83.3 1 9 10 4 2 1 3 5 1
+p72
+aVAntawn Jamison DAL 04/01/2004 DAL vs. SAC W 23 16 8 11 72.7 0 0 - 0 0 - 5 3 8 1 1 0 2 6 4
+p73
+aVSteve Nash DAL 04/01/2004 DAL vs. SAC W 40 20 8 13 61.5 3 5 60.0 1 1 100.0 2 2 4 19 0 0 2 3 11
+p74
+aVShawn Bradley DAL 04/01/2004 DAL vs. SAC W 7 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -3
+p75
+aVMichael Finley DAL 04/01/2004 DAL vs. SAC W 42 29 13 22 59.1 3 8 37.5 0 0 - 1 6 7 1 0 1 1 3 6
+p76
+aVEduardo Najera DAL 04/01/2004 DAL vs. SAC W 17 8 4 5 80.0 0 0 - 0 0 - 0 3 3 1 1 1 0 2 11
+p77
+aVJosh Howard DAL 04/01/2004 DAL vs. SAC W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 1 0 0 5
+p78
+aVMarquis Daniels DAL 04/01/2004 DAL vs. SAC W 38 16 6 13 46.2 0 2 0.0 4 4 100.0 1 5 6 2 3 0 3 4 13
+p79
+aVSteve Nash DAL 03/30/2004 DAL vs. CLE W 36 31 11 17 64.7 3 4 75.0 6 7 85.7 2 0 2 10 1 0 2 1 12
+p80
+aVMarquis Daniels DAL 03/30/2004 DAL vs. CLE W 38 17 7 17 41.2 0 0 - 3 5 60.0 2 2 4 2 1 0 3 3 12
+p81
+aVDirk Nowitzki DAL 03/30/2004 DAL vs. CLE W 42 35 14 23 60.9 1 2 50.0 6 6 100.0 2 16 18 4 1 1 1 3 19
+p82
+aVShawn Bradley DAL 03/30/2004 DAL vs. CLE W 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 3 2 2 1 5 4
+p83
+aVAntoine Walker DAL 03/30/2004 DAL vs. CLE W 31 11 5 10 50.0 0 1 0.0 1 2 50.0 4 5 9 2 1 1 5 3 7
+p84
+aVEduardo Najera DAL 03/30/2004 DAL vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p85
+aVDanny Fortson DAL 03/30/2004 DAL vs. CLE W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 4
+p86
+aVAntawn Jamison DAL 03/30/2004 DAL vs. CLE W 20 5 1 2 50.0 0 0 - 3 4 75.0 3 0 3 0 2 0 0 2 10
+p87
+aVJosh Howard DAL 03/30/2004 DAL vs. CLE W 38 19 7 12 58.3 2 2 100.0 3 6 50.0 3 4 7 2 2 1 1 3 29
+p88
+aVMichael Finley DAL 03/30/2004 DAL vs. CLE W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -12
+p89
+aVTravis Best DAL 03/30/2004 DAL vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p90
+aVDirk Nowitzki DAL 03/28/2004 DAL @ ORL W 34 25 11 19 57.9 3 3 100.0 0 1 0.0 1 8 9 2 3 2 0 2 33
+p91
+aVSteve Nash DAL 03/28/2004 DAL @ ORL W 28 12 4 8 50.0 0 1 0.0 4 4 100.0 0 2 2 11 0 0 2 0 8
+p92
+aVScott Williams DAL 03/28/2004 DAL @ ORL W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p93
+aVJosh Howard DAL 03/28/2004 DAL @ ORL W 42 19 8 16 50.0 1 2 50.0 2 2 100.0 1 11 12 5 2 0 1 6 28
+p94
+aVShawn Bradley DAL 03/28/2004 DAL @ ORL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 3 0 1 4
+p95
+aVEduardo Najera DAL 03/28/2004 DAL @ ORL W 10 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 0 6
+p96
+aVMarquis Daniels DAL 03/28/2004 DAL @ ORL W 44 20 9 16 56.3 1 1 100.0 1 2 50.0 3 2 5 7 1 2 0 2 27
+p97
+aVAntawn Jamison DAL 03/28/2004 DAL @ ORL W 27 21 9 13 69.2 1 1 100.0 2 2 100.0 5 4 9 2 3 1 1 1 18
+p98
+aVDanny Fortson DAL 03/28/2004 DAL @ ORL W 5 2 0 0 - 0 0 - 2 2 100.0 1 0 1 1 0 1 2 2 7
+p99
+aVAntoine Walker DAL 03/28/2004 DAL @ ORL W 33 10 5 11 45.5 0 4 0.0 0 0 - 2 7 9 4 0 0 2 4 17
+p100
+aVTravis Best DAL 03/28/2004 DAL @ ORL W 7 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 0
+p101
+aVShawn Bradley DAL 03/26/2004 DAL @ MIA L 21 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 3 1 3 -6
+p102
+aVMarquis Daniels DAL 03/26/2004 DAL @ MIA L 48 31 15 23 65.2 0 2 0.0 1 2 50.0 4 5 9 4 3 2 2 1 7
+p103
+aVDirk Nowitzki DAL 03/26/2004 DAL @ MIA L 43 25 9 20 45.0 0 2 0.0 7 8 87.5 1 11 12 1 0 1 4 6 7
+p104
+aVAntoine Walker DAL 03/26/2004 DAL @ MIA L 26 3 1 9 11.1 0 0 - 1 2 50.0 2 4 6 4 0 0 0 2 -17
+p105
+aVEduardo Najera DAL 03/26/2004 DAL @ MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -3
+p106
+aVDanny Fortson DAL 03/26/2004 DAL @ MIA L 18 11 1 4 25.0 0 0 - 9 9 100.0 2 5 7 0 0 0 1 4 15
+p107
+aVScott Williams DAL 03/26/2004 DAL @ MIA L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -8
+p108
+aVAntawn Jamison DAL 03/26/2004 DAL @ MIA L 32 20 9 14 64.3 1 2 50.0 1 2 50.0 2 2 4 0 2 0 1 2 10
+p109
+aVSteve Nash DAL 03/26/2004 DAL @ MIA L 44 18 7 16 43.8 1 4 25.0 3 3 100.0 1 5 6 7 1 0 5 1 -5
+p110
+aVJosh Howard DAL 03/26/2004 DAL @ MIA L 21 6 2 7 28.6 0 1 0.0 2 2 100.0 2 4 6 1 0 0 0 2 -5
+p111
+aVShawn Bradley DAL 03/24/2004 DAL @ IND L 24 9 4 5 80.0 0 0 - 1 2 50.0 2 3 5 2 0 1 0 3 2
+p112
+aVSteve Nash DAL 03/24/2004 DAL @ IND L 39 13 6 13 46.2 0 1 0.0 1 2 50.0 1 5 6 14 1 0 6 1 -6
+p113
+aVScott Williams DAL 03/24/2004 DAL @ IND L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 1 2 -11
+p114
+aVEduardo Najera DAL 03/24/2004 DAL @ IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p115
+aVMarquis Daniels DAL 03/24/2004 DAL @ IND L 16 6 3 8 37.5 0 0 - 0 0 - 2 1 3 1 1 0 1 0 -13
+p116
+aVAntoine Walker DAL 03/24/2004 DAL @ IND L 29 15 7 11 63.6 1 3 33.3 0 0 - 2 9 11 1 1 3 5 2 -4
+p117
+aVAntawn Jamison DAL 03/24/2004 DAL @ IND L 34 15 5 11 45.5 1 1 100.0 4 4 100.0 0 3 3 0 2 0 0 3 9
+p118
+aVTravis Best DAL 03/24/2004 DAL @ IND L 8 6 3 3 100.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 6
+p119
+aVDirk Nowitzki DAL 03/24/2004 DAL @ IND L 39 22 8 19 42.1 1 4 25.0 5 6 83.3 0 7 7 2 2 5 2 6 -8
+p120
+aVJosh Howard DAL 03/24/2004 DAL @ IND L 33 13 5 12 41.7 1 1 100.0 2 2 100.0 1 4 5 1 3 0 2 2 5
+p121
+aVAntawn Jamison DAL 03/22/2004 DAL @ PHI L 23 14 6 10 60.0 0 0 - 2 4 50.0 5 1 6 1 2 1 0 1 3
+p122
+aVShawn Bradley DAL 03/22/2004 DAL @ PHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p123
+aVMichael Finley DAL 03/22/2004 DAL @ PHI L 40 10 4 14 28.6 2 9 22.2 0 0 - 1 2 3 3 4 1 2 4 -5
+p124
+aVSteve Nash DAL 03/22/2004 DAL @ PHI L 35 10 4 10 40.0 1 3 33.3 1 1 100.0 0 2 2 8 1 0 4 2 -8
+p125
+aVDirk Nowitzki DAL 03/22/2004 DAL @ PHI L 44 30 11 20 55.0 3 4 75.0 5 7 71.4 0 6 6 2 2 0 0 4 -8
+p126
+aVMarquis Daniels DAL 03/22/2004 DAL @ PHI L 12 6 3 6 50.0 0 0 - 0 0 - 0 1 1 2 2 0 0 0 -1
+p127
+aVDanny Fortson DAL 03/22/2004 DAL @ PHI L 7 9 4 4 100.0 0 0 - 1 1 100.0 2 0 2 0 0 0 0 2 1
+p128
+aVEduardo Najera DAL 03/22/2004 DAL @ PHI L 19 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 1 4 -11
+p129
+aVJosh Howard DAL 03/22/2004 DAL @ PHI L 21 8 4 6 66.7 0 0 - 0 0 - 2 2 4 2 1 0 1 0 -6
+p130
+aVAntoine Walker DAL 03/22/2004 DAL @ PHI L 34 9 3 9 33.3 1 2 50.0 2 4 50.0 4 2 6 3 1 1 3 2 -8
+p131
+aVEduardo Najera DAL 03/21/2004 DAL @ NJN W 8 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -11
+p132
+aVScott Williams DAL 03/21/2004 DAL @ NJN W 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 1
+p133
+aVDirk Nowitzki DAL 03/21/2004 DAL @ NJN W 34 21 7 19 36.8 1 2 50.0 6 6 100.0 0 5 5 1 0 2 2 2 -2
+p134
+aVMarquis Daniels DAL 03/21/2004 DAL @ NJN W 18 12 6 7 85.7 0 0 - 0 0 - 0 1 1 1 2 0 1 1 9
+p135
+aVAntawn Jamison DAL 03/21/2004 DAL @ NJN W 33 20 9 13 69.2 0 0 - 2 6 33.3 2 3 5 0 1 0 2 0 17
+p136
+aVShawn Bradley DAL 03/21/2004 DAL @ NJN W 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 2 1 0 4 12
+p137
+aVDanny Fortson DAL 03/21/2004 DAL @ NJN W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -9
+p138
+aVAntoine Walker DAL 03/21/2004 DAL @ NJN W 26 4 2 6 33.3 0 0 - 0 0 - 1 3 4 3 1 0 3 1 -14
+p139
+aVMichael Finley DAL 03/21/2004 DAL @ NJN W 37 15 7 13 53.8 1 4 25.0 0 0 - 1 4 5 4 1 0 1 0 -13
+p140
+aVJosh Howard DAL 03/21/2004 DAL @ NJN W 23 6 3 6 50.0 0 0 - 0 0 - 2 1 3 2 1 2 1 3 20
+p141
+aVSteve Nash DAL 03/21/2004 DAL @ NJN W 41 15 5 12 41.7 3 4 75.0 2 2 100.0 2 3 5 16 2 0 4 3 5
+p142
+aVTravis Best DAL 03/19/2004 DAL vs. BOS W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -4
+p143
+aVJosh Howard DAL 03/19/2004 DAL vs. BOS W 21 19 7 13 53.8 0 0 - 5 5 100.0 3 3 6 1 2 1 0 1 3
+p144
+aVDirk Nowitzki DAL 03/19/2004 DAL vs. BOS W 41 24 9 19 47.4 0 0 - 6 6 100.0 2 5 7 5 1 0 3 4 23
+p145
+aVMarquis Daniels DAL 03/19/2004 DAL vs. BOS W 17 12 3 4 75.0 2 3 66.7 4 6 66.7 1 1 2 1 1 0 1 2 -9
+p146
+aVAntoine Walker DAL 03/19/2004 DAL vs. BOS W 39 21 9 13 69.2 1 3 33.3 2 4 50.0 3 6 9 3 2 1 1 4 22
+p147
+aVScott Williams DAL 03/19/2004 DAL vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -4
+p148
+aVDanny Fortson DAL 03/19/2004 DAL vs. BOS W 5 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 1 1 7
+p149
+aVMichael Finley DAL 03/19/2004 DAL vs. BOS W 32 8 4 15 26.7 0 4 0.0 0 0 - 2 2 4 4 1 0 1 1 8
+p150
+aVEduardo Najera DAL 03/19/2004 DAL vs. BOS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p151
+aVSteve Nash DAL 03/19/2004 DAL vs. BOS W 34 13 4 6 66.7 2 2 100.0 3 3 100.0 0 5 5 10 2 1 4 3 26
+p152
+aVShawn Bradley DAL 03/19/2004 DAL vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p153
+aVAntawn Jamison DAL 03/19/2004 DAL vs. BOS W 36 18 7 12 58.3 0 0 - 4 4 100.0 4 8 12 2 2 1 4 5 11
+p154
+aVMichael Finley DAL 03/17/2004 DAL vs. ATL L 36 17 7 16 43.8 2 6 33.3 1 2 50.0 0 1 1 4 0 0 1 1 -4
+p155
+aVTravis Best DAL 03/17/2004 DAL vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 8
+p156
+aVAntawn Jamison DAL 03/17/2004 DAL vs. ATL L 25 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 0 1 0 7
+p157
+aVAntoine Walker DAL 03/17/2004 DAL vs. ATL L 32 12 6 11 54.5 0 0 - 0 0 - 3 9 12 6 3 1 1 6 2
+p158
+aVJosh Howard DAL 03/17/2004 DAL vs. ATL L 17 5 2 9 22.2 0 1 0.0 1 2 50.0 3 3 6 0 1 0 1 2 -14
+p159
+aVShawn Bradley DAL 03/17/2004 DAL vs. ATL L 7 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -2
+p160
+aVEduardo Najera DAL 03/17/2004 DAL vs. ATL L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p161
+aVScott Williams DAL 03/17/2004 DAL vs. ATL L 8 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 3
+p162
+aVDirk Nowitzki DAL 03/17/2004 DAL vs. ATL L 43 28 11 22 50.0 1 3 33.3 5 6 83.3 1 9 10 1 0 0 1 4 4
+p163
+aVMarquis Daniels DAL 03/17/2004 DAL vs. ATL L 14 11 5 7 71.4 1 2 50.0 0 0 - 0 2 2 1 1 0 1 1 -3
+p164
+aVSteve Nash DAL 03/17/2004 DAL vs. ATL L 40 30 12 19 63.2 4 7 57.1 2 2 100.0 3 0 3 9 1 0 5 2 -7
+p165
+aVDirk Nowitzki DAL 03/14/2004 DAL @ LAC W 45 34 12 23 52.2 0 2 0.0 10 12 83.3 1 14 15 3 2 1 1 1 13
+p166
+aVMarquis Daniels DAL 03/14/2004 DAL @ LAC W 21 2 1 5 20.0 0 0 - 0 0 - 0 1 1 4 0 0 0 2 7
+p167
+aVMichael Finley DAL 03/14/2004 DAL @ LAC W 37 14 6 16 37.5 2 6 33.3 0 0 - 0 1 1 6 1 0 2 2 14
+p168
+aVDanny Fortson DAL 03/14/2004 DAL @ LAC W 17 2 0 4 0.0 0 0 - 2 2 100.0 0 9 9 0 1 2 1 4 5
+p169
+aVScott Williams DAL 03/14/2004 DAL @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 6
+p170
+aVEduardo Najera DAL 03/14/2004 DAL @ LAC W 14 4 2 3 66.7 0 0 - 0 0 - 4 4 8 0 1 1 1 2 6
+p171
+aVAntawn Jamison DAL 03/14/2004 DAL @ LAC W 29 17 6 11 54.5 0 0 - 5 6 83.3 1 5 6 0 0 0 0 2 17
+p172
+aVAntoine Walker DAL 03/14/2004 DAL @ LAC W 22 6 3 7 42.9 0 0 - 0 0 - 2 4 6 0 1 1 3 2 -4
+p173
+aVShawn Bradley DAL 03/14/2004 DAL @ LAC W 13 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -4
+p174
+aVSteve Nash DAL 03/14/2004 DAL @ LAC W 38 16 5 10 50.0 2 3 66.7 4 4 100.0 0 1 1 11 1 0 1 2 5
+p175
+aVEduardo Najera DAL 03/13/2004 DAL @ PHX W 20 10 4 5 80.0 0 0 - 2 2 100.0 3 3 6 1 2 0 2 3 5
+p176
+aVScott Williams DAL 03/13/2004 DAL @ PHX W 4 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 4
+p177
+aVAntoine Walker DAL 03/13/2004 DAL @ PHX W 35 18 8 17 47.1 0 2 0.0 2 2 100.0 4 6 10 5 0 1 0 2 19
+p178
+aVAntawn Jamison DAL 03/13/2004 DAL @ PHX W 31 15 6 13 46.2 1 1 100.0 2 4 50.0 2 8 10 0 0 1 2 0 4
+p179
+aVTravis Best DAL 03/13/2004 DAL @ PHX W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p180
+aVDanny Fortson DAL 03/13/2004 DAL @ PHX W 9 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 0 0 1 1 4 -6
+p181
+aVMichael Finley DAL 03/13/2004 DAL @ PHX W 38 38 15 23 65.2 5 7 71.4 3 4 75.0 3 0 3 1 2 1 2 2 19
+p182
+aVMarquis Daniels DAL 03/13/2004 DAL @ PHX W 27 7 3 10 30.0 0 0 - 1 3 33.3 2 5 7 5 2 1 2 1 14
+p183
+aVDirk Nowitzki DAL 03/13/2004 DAL @ PHX W 29 8 3 12 25.0 0 3 0.0 2 2 100.0 2 10 12 4 0 0 1 3 23
+p184
+aVSteve Nash DAL 03/13/2004 DAL @ PHX W 26 7 2 6 33.3 0 1 0.0 3 3 100.0 0 1 1 7 0 0 2 0 14
+p185
+aVShawn Bradley DAL 03/13/2004 DAL @ PHX W 15 6 2 3 66.7 0 0 - 2 2 100.0 3 5 8 0 0 2 0 4 20
+p186
+aVMarquis Daniels DAL 03/11/2004 DAL @ SAC L 19 10 4 11 36.4 0 1 0.0 2 3 66.7 5 0 5 2 2 0 3 1 -13
+p187
+aVScott Williams DAL 03/11/2004 DAL @ SAC L 9 8 4 6 66.7 0 0 - 0 0 - 1 0 1 0 0 1 0 1 4
+p188
+aVAntoine Walker DAL 03/11/2004 DAL @ SAC L 28 6 3 10 30.0 0 1 0.0 0 0 - 3 6 9 1 1 0 1 2 -13
+p189
+aVAntawn Jamison DAL 03/11/2004 DAL @ SAC L 30 9 4 11 36.4 0 0 - 1 2 50.0 1 5 6 2 2 0 1 2 -12
+p190
+aVShawn Bradley DAL 03/11/2004 DAL @ SAC L 11 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 1 3 1 1 3
+p191
+aVDanny Fortson DAL 03/11/2004 DAL @ SAC L 7 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 0 0 0 1 -4
+p192
+aVMichael Finley DAL 03/11/2004 DAL @ SAC L 39 18 7 18 38.9 4 5 80.0 0 0 - 1 1 2 6 1 1 1 1 -14
+p193
+aVDirk Nowitzki DAL 03/11/2004 DAL @ SAC L 37 21 8 19 42.1 1 6 16.7 4 4 100.0 1 7 8 4 1 0 2 1 -20
+p194
+aVSteve Nash DAL 03/11/2004 DAL @ SAC L 32 13 6 12 50.0 1 3 33.3 0 0 - 1 1 2 7 2 0 2 1 -10
+p195
+aVJosh Howard DAL 03/11/2004 DAL @ SAC L 13 4 2 7 28.6 0 0 - 0 0 - 2 2 4 1 1 0 0 1 -8
+p196
+aVTravis Best DAL 03/11/2004 DAL @ SAC L 5 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 1
+p197
+aVEduardo Najera DAL 03/11/2004 DAL @ SAC L 10 1 0 4 0.0 0 0 - 1 2 50.0 0 2 2 0 0 1 0 0 -4
+p198
+aVDanny Fortson DAL 03/08/2004 DAL vs. PHX W 9 4 2 6 33.3 0 0 - 0 0 - 3 1 4 0 0 0 0 4 5
+p199
+aVJosh Howard DAL 03/08/2004 DAL vs. PHX W 33 10 4 14 28.6 0 2 0.0 2 2 100.0 4 4 8 2 2 2 1 1 8
+p200
+aVSteve Nash DAL 03/08/2004 DAL vs. PHX W 25 12 4 9 44.4 2 5 40.0 2 2 100.0 0 0 0 3 1 0 0 0 19
+p201
+aVMichael Finley DAL 03/08/2004 DAL vs. PHX W 38 13 5 20 25.0 1 7 14.3 2 2 100.0 1 2 3 5 2 0 2 3 4
+p202
+aVEduardo Najera DAL 03/08/2004 DAL vs. PHX W 28 8 3 5 60.0 0 0 - 2 2 100.0 5 4 9 1 5 2 1 1 11
+p203
+aVMarquis Daniels DAL 03/08/2004 DAL vs. PHX W 16 3 1 4 25.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 0 1
+p204
+aVShawn Bradley DAL 03/08/2004 DAL vs. PHX W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p205
+aVDirk Nowitzki DAL 03/08/2004 DAL vs. PHX W 28 26 11 13 84.6 0 0 - 4 4 100.0 1 5 6 1 0 0 1 4 15
+p206
+aVScott Williams DAL 03/08/2004 DAL vs. PHX W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -1
+p207
+aVAntawn Jamison DAL 03/08/2004 DAL vs. PHX W 34 21 8 12 66.7 0 0 - 5 6 83.3 3 5 8 2 1 1 0 2 18
+p208
+aVAntoine Walker DAL 03/08/2004 DAL vs. PHX W 18 6 2 9 22.2 0 1 0.0 2 2 100.0 5 3 8 1 1 0 2 1 -8
+p209
+aVDirk Nowitzki DAL 03/07/2004 DAL @ HOU L 45 18 7 19 36.8 2 4 50.0 2 2 100.0 1 0 1 1 9 2 2 2 -3
+p210
+aVJosh Howard DAL 03/07/2004 DAL @ HOU L 13 5 1 4 25.0 0 1 0.0 3 6 50.0 1 2 3 0 0 0 1 1 -1
+p211
+aVMarquis Daniels DAL 03/07/2004 DAL @ HOU L 8 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 0 -4
+p212
+aVAntawn Jamison DAL 03/07/2004 DAL @ HOU L 27 14 6 12 50.0 0 1 0.0 2 2 100.0 1 4 5 0 1 1 0 3 -2
+p213
+aVEduardo Najera DAL 03/07/2004 DAL @ HOU L 15 2 1 6 16.7 0 0 - 0 0 - 1 2 3 2 4 0 0 0 7
+p214
+aVScott Williams DAL 03/07/2004 DAL @ HOU L 15 8 3 9 33.3 0 0 - 2 2 100.0 2 3 5 0 0 0 0 3 -4
+p215
+aVShawn Bradley DAL 03/07/2004 DAL @ HOU L 16 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 2 0 4 -3
+p216
+aVSteve Nash DAL 03/07/2004 DAL @ HOU L 39 22 7 9 77.8 1 2 50.0 7 9 77.8 1 3 4 9 0 0 4 3 -4
+p217
+aVAntoine Walker DAL 03/07/2004 DAL @ HOU L 22 9 3 10 30.0 3 7 42.9 0 2 0.0 0 3 3 2 1 0 5 2 -5
+p218
+aVMichael Finley DAL 03/07/2004 DAL @ HOU L 40 16 6 12 50.0 2 3 66.7 2 2 100.0 4 3 7 7 3 1 5 1 4
+p219
+aVDirk Nowitzki DAL 03/05/2004 DAL @ SAS L 39 21 8 19 42.1 1 2 50.0 4 4 100.0 1 8 9 1 4 0 2 4 -11
+p220
+aVTravis Best DAL 03/05/2004 DAL @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p221
+aVMichael Finley DAL 03/05/2004 DAL @ SAS L 29 19 8 16 50.0 1 2 50.0 2 3 66.7 1 1 2 0 0 0 0 3 -13
+p222
+aVAntawn Jamison DAL 03/05/2004 DAL @ SAS L 28 12 4 12 33.3 0 1 0.0 4 6 66.7 1 1 2 0 1 1 2 4 -6
+p223
+aVEduardo Najera DAL 03/05/2004 DAL @ SAS L 15 4 1 3 33.3 0 0 - 2 2 100.0 3 1 4 0 1 0 1 6 12
+p224
+aVJosh Howard DAL 03/05/2004 DAL @ SAS L 27 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 0 3 1 2 6 1
+p225
+aVScott Williams DAL 03/05/2004 DAL @ SAS L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 3 3
+p226
+aVShawn Bradley DAL 03/05/2004 DAL @ SAS L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -13
+p227
+aVAntoine Walker DAL 03/05/2004 DAL @ SAS L 25 7 2 11 18.2 1 3 33.3 2 2 100.0 3 4 7 3 0 0 0 0 -19
+p228
+aVDanny Fortson DAL 03/05/2004 DAL @ SAS L 10 9 2 2 100.0 0 0 - 5 6 83.3 1 3 4 1 1 0 2 4 -5
+p229
+aVSteve Nash DAL 03/05/2004 DAL @ SAS L 34 13 3 9 33.3 0 1 0.0 7 8 87.5 1 2 3 12 2 0 4 1 0
+p230
+aVMarquis Daniels DAL 03/05/2004 DAL @ SAS L 15 4 1 8 12.5 0 1 0.0 2 2 100.0 3 1 4 2 1 0 1 0 -11
+p231
+aVAntawn Jamison DAL 03/03/2004 DAL @ MIN L 23 9 4 11 36.4 0 0 - 1 1 100.0 3 2 5 2 0 1 0 1 -6
+p232
+aVDanny Fortson DAL 03/03/2004 DAL @ MIN L 22 7 3 5 60.0 0 0 - 1 2 50.0 3 7 10 0 1 1 2 4 -7
+p233
+aVJosh Howard DAL 03/03/2004 DAL @ MIN L 21 4 2 7 28.6 0 0 - 0 0 - 4 3 7 2 0 0 0 0 -15
+p234
+aVTony Delk DAL 03/03/2004 DAL @ MIN L 10 0 0 4 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -2
+p235
+aVEduardo Najera DAL 03/03/2004 DAL @ MIN L 17 7 2 6 33.3 0 0 - 3 4 75.0 2 0 2 1 1 0 0 1 -8
+p236
+aVDirk Nowitzki DAL 03/03/2004 DAL @ MIN L 28 15 5 13 38.5 0 3 0.0 5 5 100.0 0 3 3 4 2 0 0 3 -15
+p237
+aVMichael Finley DAL 03/03/2004 DAL @ MIN L 27 16 6 15 40.0 0 3 0.0 4 4 100.0 2 3 5 5 1 0 1 0 -23
+p238
+aVAntoine Walker DAL 03/03/2004 DAL @ MIN L 27 11 4 12 33.3 1 3 33.3 2 3 66.7 2 2 4 3 0 0 3 1 -19
+p239
+aVScott Williams DAL 03/03/2004 DAL @ MIN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p240
+aVMarquis Daniels DAL 03/03/2004 DAL @ MIN L 42 16 7 21 33.3 1 1 100.0 1 2 50.0 3 4 7 8 0 0 0 1 -12
+p241
+aVShawn Bradley DAL 03/03/2004 DAL @ MIN L 18 12 6 13 46.2 0 0 - 0 0 - 4 4 8 0 0 1 1 2 -8
+p242
+aVAntoine Walker DAL 03/02/2004 DAL vs. SEA W 34 6 2 6 33.3 0 2 0.0 2 6 33.3 1 5 6 2 1 0 1 1 -12
+p243
+aVDanny Fortson DAL 03/02/2004 DAL vs. SEA W 11 5 2 4 50.0 0 0 - 1 1 100.0 4 4 8 0 0 0 0 3 3
+p244
+aVShawn Bradley DAL 03/02/2004 DAL vs. SEA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 14
+p245
+aVDirk Nowitzki DAL 03/02/2004 DAL vs. SEA W 42 19 7 19 36.8 0 3 0.0 5 6 83.3 3 9 12 3 0 2 1 2 11
+p246
+aVAntawn Jamison DAL 03/02/2004 DAL vs. SEA W 30 21 8 9 88.9 0 0 - 5 7 71.4 3 5 8 0 0 0 3 2 17
+p247
+aVEduardo Najera DAL 03/02/2004 DAL vs. SEA W 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p248
+aVScott Williams DAL 03/02/2004 DAL vs. SEA W 16 7 3 5 60.0 0 0 - 1 2 50.0 0 5 5 3 0 0 0 4 1
+p249
+aVMichael Finley DAL 03/02/2004 DAL vs. SEA W 45 35 13 25 52.0 3 8 37.5 6 6 100.0 1 3 4 5 1 1 2 3 14
+p250
+aVMarquis Daniels DAL 03/02/2004 DAL vs. SEA W 45 14 6 15 40.0 0 1 0.0 2 2 100.0 2 7 9 9 0 1 4 2 11
+p251
+aVAntawn Jamison DAL 02/28/2004 DAL vs. POR W 26 4 2 7 28.6 0 0 - 0 0 - 4 1 5 2 1 0 1 2 7
+p252
+aVSteve Nash DAL 02/28/2004 DAL vs. POR W 36 22 9 13 69.2 0 2 0.0 4 4 100.0 0 3 3 11 0 0 1 2 18
+p253
+aVShawn Bradley DAL 02/28/2004 DAL vs. POR W 12 6 3 6 50.0 0 0 - 0 0 - 3 1 4 0 0 1 1 6 14
+p254
+aVMichael Finley DAL 02/28/2004 DAL vs. POR W 41 12 5 15 33.3 0 4 0.0 2 2 100.0 1 2 3 4 1 4 1 2 14
+p255
+aVTony Delk DAL 02/28/2004 DAL vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p256
+aVDirk Nowitzki DAL 02/28/2004 DAL vs. POR W 38 21 7 16 43.8 1 4 25.0 6 6 100.0 2 5 7 3 0 3 1 2 19
+p257
+aVMarquis Daniels DAL 02/28/2004 DAL vs. POR W 7 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 1 0 0 0 5
+p258
+aVScott Williams DAL 02/28/2004 DAL vs. POR W 19 11 5 6 83.3 0 0 - 1 2 50.0 0 5 5 2 0 0 0 5 5
+p259
+aVEduardo Najera DAL 02/28/2004 DAL vs. POR W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -2
+p260
+aVDanny Fortson DAL 02/28/2004 DAL vs. POR W 12 4 2 3 66.7 0 0 - 0 1 0.0 1 5 6 1 1 1 1 4 4
+p261
+aVAntoine Walker DAL 02/28/2004 DAL vs. POR W 41 25 10 16 62.5 2 5 40.0 3 3 100.0 1 7 8 4 0 2 2 1 14
+p262
+aVAntawn Jamison DAL 02/26/2004 DAL vs. SAS W 30 13 6 11 54.5 0 0 - 1 2 50.0 3 5 8 0 0 0 2 3 13
+p263
+aVJosh Howard DAL 02/26/2004 DAL vs. SAS W 32 6 2 9 22.2 0 1 0.0 2 2 100.0 5 2 7 1 0 1 1 3 16
+p264
+aVScott Williams DAL 02/26/2004 DAL vs. SAS W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 2 3 1
+p265
+aVEduardo Najera DAL 02/26/2004 DAL vs. SAS W 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 2 0 1 2 -1
+p266
+aVShawn Bradley DAL 02/26/2004 DAL vs. SAS W 12 7 2 2 100.0 0 0 - 3 4 75.0 1 3 4 0 0 1 0 4 13
+p267
+aVTony Delk DAL 02/26/2004 DAL vs. SAS W 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p268
+aVMarquis Daniels DAL 02/26/2004 DAL vs. SAS W 9 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 1 0 2 0 -1
+p269
+aVAntoine Walker DAL 02/26/2004 DAL vs. SAS W 29 11 4 9 44.4 1 2 50.0 2 2 100.0 2 4 6 3 1 0 1 2 21
+p270
+aVMichael Finley DAL 02/26/2004 DAL vs. SAS W 34 30 10 14 71.4 5 7 71.4 5 6 83.3 0 6 6 4 1 2 0 0 22
+p271
+aVDirk Nowitzki DAL 02/26/2004 DAL vs. SAS W 34 23 8 15 53.3 3 5 60.0 4 4 100.0 0 6 6 5 1 0 0 2 23
+p272
+aVSteve Nash DAL 02/26/2004 DAL vs. SAS W 31 15 4 7 57.1 1 2 50.0 6 6 100.0 0 3 3 9 0 0 6 2 18
+p273
+aVAntawn Jamison DAL 02/24/2004 DAL vs. LAC W 30 11 3 7 42.9 0 0 - 5 8 62.5 6 4 10 2 0 0 0 1 -5
+p274
+aVDirk Nowitzki DAL 02/24/2004 DAL vs. LAC W 37 16 6 18 33.3 0 4 0.0 4 4 100.0 2 7 9 5 2 5 2 3 27
+p275
+aVMarquis Daniels DAL 02/24/2004 DAL vs. LAC W 8 8 4 6 66.7 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -1
+p276
+aVDanny Fortson DAL 02/24/2004 DAL vs. LAC W 16 8 2 4 50.0 0 0 - 4 4 100.0 1 1 2 1 0 1 1 2 17
+p277
+aVSteve Nash DAL 02/24/2004 DAL vs. LAC W 24 12 3 6 50.0 1 2 50.0 5 5 100.0 0 3 3 8 1 1 2 3 12
+p278
+aVJosh Howard DAL 02/24/2004 DAL vs. LAC W 32 10 5 10 50.0 0 2 0.0 0 0 - 3 3 6 2 0 0 1 4 10
+p279
+aVEduardo Najera DAL 02/24/2004 DAL vs. LAC W 15 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 0 0 0 2 5
+p280
+aVAntoine Walker DAL 02/24/2004 DAL vs. LAC W 30 21 8 13 61.5 1 3 33.3 4 5 80.0 0 5 5 3 0 0 5 3 30
+p281
+aVScott Williams DAL 02/24/2004 DAL vs. LAC W 12 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 -1
+p282
+aVMichael Finley DAL 02/24/2004 DAL vs. LAC W 36 20 7 15 46.7 4 6 66.7 2 2 100.0 1 4 5 2 0 0 1 3 31
+p283
+aVJosh Howard DAL 02/21/2004 DAL vs. HOU W 28 14 6 11 54.5 1 2 50.0 1 2 50.0 2 2 4 1 0 1 2 3 11
+p284
+aVMichael Finley DAL 02/21/2004 DAL vs. HOU W 39 19 6 15 40.0 1 4 25.0 6 8 75.0 1 0 1 2 2 0 0 1 -4
+p285
+aVScott Williams DAL 02/21/2004 DAL vs. HOU W 15 2 1 7 14.3 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -11
+p286
+aVSteve Nash DAL 02/21/2004 DAL vs. HOU W 34 10 4 7 57.1 2 3 66.7 0 0 - 0 2 2 9 1 0 3 0 1
+p287
+aVAntawn Jamison DAL 02/21/2004 DAL vs. HOU W 23 4 2 11 18.2 0 1 0.0 0 0 - 4 4 8 1 0 0 1 0 11
+p288
+aVEduardo Najera DAL 02/21/2004 DAL vs. HOU W 22 5 2 4 50.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 2 22
+p289
+aVAntoine Walker DAL 02/21/2004 DAL vs. HOU W 33 17 7 14 50.0 1 4 25.0 2 2 100.0 3 7 10 5 3 0 3 3 13
+p290
+aVDirk Nowitzki DAL 02/21/2004 DAL vs. HOU W 41 25 9 17 52.9 3 4 75.0 4 5 80.0 3 9 12 3 1 2 2 3 4
+p291
+aVShawn Bradley DAL 02/21/2004 DAL vs. HOU W 5 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -2
+p292
+aVAntawn Jamison DAL 02/18/2004 DAL @ CLE W 23 12 6 12 50.0 0 1 0.0 0 0 - 4 0 4 1 1 0 1 2 8
+p293
+aVScott Williams DAL 02/18/2004 DAL @ CLE W 21 16 7 8 87.5 0 0 - 2 2 100.0 1 5 6 0 1 1 0 2 27
+p294
+aVMichael Finley DAL 02/18/2004 DAL @ CLE W 43 23 9 20 45.0 1 4 25.0 4 4 100.0 1 5 6 2 1 0 0 3 12
+p295
+aVAntoine Walker DAL 02/18/2004 DAL @ CLE W 36 11 5 18 27.8 0 2 0.0 1 2 50.0 4 7 11 7 2 4 3 1 8
+p296
+aVSteve Nash DAL 02/18/2004 DAL @ CLE W 36 20 8 11 72.7 2 3 66.7 2 2 100.0 1 5 6 10 1 0 1 0 26
+p297
+aVJosh Howard DAL 02/18/2004 DAL @ CLE W 20 10 3 6 50.0 1 1 100.0 3 4 75.0 1 3 4 0 0 1 1 4 0
+p298
+aVTravis Best DAL 02/18/2004 DAL @ CLE W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -7
+p299
+aVShawn Bradley DAL 02/18/2004 DAL @ CLE W 14 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 1 0 3 -12
+p300
+aVEduardo Najera DAL 02/18/2004 DAL @ CLE W 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 3
+p301
+aVDirk Nowitzki DAL 02/18/2004 DAL @ CLE W 39 18 5 15 33.3 0 3 0.0 8 8 100.0 2 8 10 4 2 1 0 1 15
+p302
+aVShawn Bradley DAL 02/17/2004 DAL @ MEM L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 2 0 4 -3
+p303
+aVAntawn Jamison DAL 02/17/2004 DAL @ MEM L 30 10 5 11 45.5 0 1 0.0 0 2 0.0 1 4 5 0 0 0 0 2 -17
+p304
+aVDirk Nowitzki DAL 02/17/2004 DAL @ MEM L 36 24 9 19 47.4 0 2 0.0 6 6 100.0 2 7 9 0 1 3 1 2 -15
+p305
+aVMarquis Daniels DAL 02/17/2004 DAL @ MEM L 7 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p306
+aVTravis Best DAL 02/17/2004 DAL @ MEM L 11 4 2 2 100.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -7
+p307
+aVAntoine Walker DAL 02/17/2004 DAL @ MEM L 26 6 3 14 21.4 0 1 0.0 0 0 - 6 2 8 3 0 2 4 2 -9
+p308
+aVEduardo Najera DAL 02/17/2004 DAL @ MEM L 15 4 2 3 66.7 0 0 - 0 0 - 1 3 4 2 0 0 2 5 -5
+p309
+aVJosh Howard DAL 02/17/2004 DAL @ MEM L 29 10 4 11 36.4 0 0 - 2 4 50.0 8 3 11 2 1 3 3 3 4
+p310
+aVSteve Nash DAL 02/17/2004 DAL @ MEM L 31 8 4 11 36.4 0 3 0.0 0 0 - 0 3 3 10 1 0 3 0 -11
+p311
+aVDanny Fortson DAL 02/17/2004 DAL @ MEM L 15 7 3 7 42.9 0 0 - 1 1 100.0 2 3 5 0 1 0 1 3 -1
+p312
+aVMichael Finley DAL 02/17/2004 DAL @ MEM L 33 15 5 13 38.5 2 4 50.0 3 4 75.0 1 2 3 0 0 0 1 2 -18
+p313
+aVDirk Nowitzki DAL 02/10/2004 DAL vs. NYK W 37 27 9 19 47.4 2 4 50.0 7 9 77.8 2 10 12 3 1 1 1 2 9
+p314
+aVSteve Nash DAL 02/10/2004 DAL vs. NYK W 35 12 5 13 38.5 1 4 25.0 1 2 50.0 1 2 3 8 0 0 0 1 9
+p315
+aVTravis Best DAL 02/10/2004 DAL vs. NYK W 13 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 1 1 1 1 6
+p316
+aVAntawn Jamison DAL 02/10/2004 DAL vs. NYK W 23 6 3 6 50.0 0 0 - 0 0 - 2 4 6 1 2 0 0 1 0
+p317
+aVMarquis Daniels DAL 02/10/2004 DAL vs. NYK W 12 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 1 0 0 1 -7
+p318
+aVAntoine Walker DAL 02/10/2004 DAL vs. NYK W 39 14 7 19 36.8 0 2 0.0 0 0 - 2 8 10 5 0 4 2 3 24
+p319
+aVJosh Howard DAL 02/10/2004 DAL vs. NYK W 33 17 8 11 72.7 0 0 - 1 3 33.3 3 5 8 0 4 3 1 5 19
+p320
+aVMichael Finley DAL 02/10/2004 DAL vs. NYK W 48 25 9 16 56.3 2 5 40.0 5 7 71.4 2 8 10 3 0 1 1 3 15
+p321
+aVTravis Best DAL 02/09/2004 DAL @ ATL L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 1 0 1 0 4
+p322
+aVAntoine Walker DAL 02/09/2004 DAL @ ATL L 35 14 6 13 46.2 1 5 20.0 1 3 33.3 5 7 12 2 2 1 5 3 -7
+p323
+aVSteve Nash DAL 02/09/2004 DAL @ ATL L 38 14 6 15 40.0 0 5 0.0 2 2 100.0 2 1 3 11 2 0 5 5 -10
+p324
+aVJosh Howard DAL 02/09/2004 DAL @ ATL L 25 9 4 9 44.4 0 1 0.0 1 1 100.0 0 4 4 1 1 1 0 3 5
+p325
+aVScott Williams DAL 02/09/2004 DAL @ ATL L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p326
+aVDanny Fortson DAL 02/09/2004 DAL @ ATL L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 3 5
+p327
+aVAntawn Jamison DAL 02/09/2004 DAL @ ATL L 22 4 2 4 50.0 0 1 0.0 0 0 - 2 1 3 0 2 0 1 2 -13
+p328
+aVDirk Nowitzki DAL 02/09/2004 DAL @ ATL L 42 23 10 20 50.0 0 4 0.0 3 5 60.0 1 9 10 2 1 1 3 4 -5
+p329
+aVShawn Bradley DAL 02/09/2004 DAL @ ATL L 19 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 0 0 2 0 4 -1
+p330
+aVMichael Finley DAL 02/09/2004 DAL @ ATL L 37 24 9 23 39.1 4 9 44.4 2 3 66.7 3 6 9 1 2 0 0 2 -10
+p331
+aVDirk Nowitzki DAL 02/07/2004 DAL vs. DET W 42 40 15 24 62.5 3 4 75.0 7 8 87.5 0 8 8 3 4 1 2 3 10
+p332
+aVMarquis Daniels DAL 02/07/2004 DAL vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p333
+aVAntoine Walker DAL 02/07/2004 DAL vs. DET W 35 11 4 10 40.0 1 4 25.0 2 2 100.0 2 3 5 2 0 1 4 2 4
+p334
+aVTravis Best DAL 02/07/2004 DAL vs. DET W 11 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 2 2 0 2 0 0
+p335
+aVShawn Bradley DAL 02/07/2004 DAL vs. DET W 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -10
+p336
+aVAntawn Jamison DAL 02/07/2004 DAL vs. DET W 14 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -4
+p337
+aVScott Williams DAL 02/07/2004 DAL vs. DET W 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 1 1 1 3 5
+p338
+aVSteve Nash DAL 02/07/2004 DAL vs. DET W 37 29 9 11 81.8 2 3 66.7 9 9 100.0 0 3 3 11 0 1 4 2 3
+p339
+aVJosh Howard DAL 02/07/2004 DAL vs. DET W 24 10 5 7 71.4 0 0 - 0 0 - 1 1 2 3 0 1 1 2 2
+p340
+aVMichael Finley DAL 02/07/2004 DAL vs. DET W 39 11 4 15 26.7 1 4 25.0 2 2 100.0 0 1 1 1 2 1 1 4 4
+p341
+aVDanny Fortson DAL 02/07/2004 DAL vs. DET W 7 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 0 0 0 4 1
+p342
+aVShawn Bradley DAL 02/04/2004 DAL @ NOH W 14 8 4 6 66.7 0 0 - 0 0 - 2 3 5 0 0 2 1 3 7
+p343
+aVDanny Fortson DAL 02/04/2004 DAL @ NOH W 11 4 0 1 0.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 1 -10
+p344
+aVAntawn Jamison DAL 02/04/2004 DAL @ NOH W 34 17 8 11 72.7 1 2 50.0 0 0 - 2 6 8 0 0 0 1 2 16
+p345
+aVAntoine Walker DAL 02/04/2004 DAL @ NOH W 30 4 2 5 40.0 0 0 - 0 2 0.0 1 3 4 5 1 0 2 4 6
+p346
+aVMichael Finley DAL 02/04/2004 DAL @ NOH W 40 22 7 16 43.8 2 4 50.0 6 6 100.0 0 3 3 4 0 0 0 1 3
+p347
+aVDirk Nowitzki DAL 02/04/2004 DAL @ NOH W 38 28 10 19 52.6 1 2 50.0 7 7 100.0 1 10 11 4 3 1 2 3 9
+p348
+aVTravis Best DAL 02/04/2004 DAL @ NOH W 14 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 0 1 14
+p349
+aVScott Williams DAL 02/04/2004 DAL @ NOH W 12 0 0 4 0.0 0 0 - 0 2 0.0 1 1 2 1 1 0 1 4 8
+p350
+aVSteve Nash DAL 02/04/2004 DAL @ NOH W 34 18 7 15 46.7 0 2 0.0 4 4 100.0 1 2 3 12 1 0 1 0 -5
+p351
+aVJosh Howard DAL 02/04/2004 DAL @ NOH W 13 8 4 4 100.0 0 0 - 0 0 - 4 0 4 0 0 1 1 0 -3
+p352
+aVAntoine Walker DAL 02/03/2004 DAL vs. GSW W 32 15 7 12 58.3 1 3 33.3 0 3 0.0 2 3 5 2 0 1 2 1 -2
+p353
+aVTravis Best DAL 02/03/2004 DAL vs. GSW W 18 0 0 2 0.0 0 0 - 0 0 - 0 1 1 4 0 0 0 5 -3
+p354
+aVAntawn Jamison DAL 02/03/2004 DAL vs. GSW W 32 20 8 12 66.7 0 0 - 4 6 66.7 6 6 12 1 0 0 2 0 14
+p355
+aVDirk Nowitzki DAL 02/03/2004 DAL vs. GSW W 34 9 4 14 28.6 1 5 20.0 0 0 - 0 4 4 2 3 2 0 0 17
+p356
+aVDanny Fortson DAL 02/03/2004 DAL vs. GSW W 9 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -2
+p357
+aVShawn Bradley DAL 02/03/2004 DAL vs. GSW W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p358
+aVSteve Nash DAL 02/03/2004 DAL vs. GSW W 30 17 6 11 54.5 2 4 50.0 3 3 100.0 1 3 4 8 1 0 2 4 17
+p359
+aVMichael Finley DAL 02/03/2004 DAL vs. GSW W 38 23 8 18 44.4 1 6 16.7 6 6 100.0 1 5 6 4 2 0 1 0 12
+p360
+aVMarquis Daniels DAL 02/03/2004 DAL vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p361
+aVScott Williams DAL 02/03/2004 DAL vs. GSW W 11 6 3 7 42.9 0 0 - 0 0 - 2 1 3 0 0 1 0 4 8
+p362
+aVJosh Howard DAL 02/03/2004 DAL vs. GSW W 26 15 6 8 75.0 0 1 0.0 3 3 100.0 3 5 8 2 1 1 2 2 9
+p363
+aVAntawn Jamison DAL 01/31/2004 DAL vs. DEN L 21 8 1 4 25.0 0 0 - 6 8 75.0 1 4 5 2 0 0 1 4 -4
+p364
+aVSteve Nash DAL 01/31/2004 DAL vs. DEN L 34 14 6 13 46.2 2 4 50.0 0 0 - 0 0 0 4 1 1 2 1 -10
+p365
+aVJosh Howard DAL 01/31/2004 DAL vs. DEN L 22 9 4 6 66.7 0 0 - 1 2 50.0 2 2 4 0 4 0 2 1 -7
+p366
+aVShawn Bradley DAL 01/31/2004 DAL vs. DEN L 12 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 3 0 2 -12
+p367
+aVDanny Fortson DAL 01/31/2004 DAL vs. DEN L 17 2 0 0 - 0 0 - 2 2 100.0 2 6 8 0 0 1 1 3 10
+p368
+aVAntoine Walker DAL 01/31/2004 DAL vs. DEN L 36 16 7 14 50.0 0 3 0.0 2 3 66.7 4 6 10 6 0 0 4 4 -1
+p369
+aVDirk Nowitzki DAL 01/31/2004 DAL vs. DEN L 43 16 8 23 34.8 0 6 0.0 0 0 - 0 6 6 4 1 2 3 2 -7
+p370
+aVTravis Best DAL 01/31/2004 DAL vs. DEN L 13 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 2 1 0 3 1 5
+p371
+aVMichael Finley DAL 01/31/2004 DAL vs. DEN L 42 37 16 25 64.0 4 7 57.1 1 1 100.0 1 4 5 1 2 1 2 5 1
+p372
+aVDirk Nowitzki DAL 01/28/2004 DAL @ UTA L 40 17 6 14 42.9 1 6 16.7 4 4 100.0 0 2 2 4 0 0 1 4 -4
+p373
+aVMichael Finley DAL 01/28/2004 DAL @ UTA L 43 29 10 18 55.6 5 8 62.5 4 4 100.0 0 3 3 1 2 1 1 1 2
+p374
+aVShawn Bradley DAL 01/28/2004 DAL @ UTA L 33 4 2 5 40.0 0 0 - 0 0 - 1 6 7 2 2 5 0 4 2
+p375
+aVSteve Nash DAL 01/28/2004 DAL @ UTA L 31 7 2 4 50.0 1 3 33.3 2 2 100.0 1 0 1 5 1 0 4 2 -14
+p376
+aVDanny Fortson DAL 01/28/2004 DAL @ UTA L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -1
+p377
+aVAntoine Walker DAL 01/28/2004 DAL @ UTA L 31 6 3 10 30.0 0 4 0.0 0 0 - 0 3 3 8 0 0 2 2 -7
+p378
+aVTravis Best DAL 01/28/2004 DAL @ UTA L 8 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p379
+aVJosh Howard DAL 01/28/2004 DAL @ UTA L 19 6 2 5 40.0 0 1 0.0 2 2 100.0 1 2 3 4 0 0 1 3 3
+p380
+aVAntawn Jamison DAL 01/28/2004 DAL @ UTA L 27 13 6 11 54.5 1 1 100.0 0 0 - 1 2 3 0 2 1 1 1 0
+p381
+aVMichael Finley DAL 01/27/2004 DAL @ SEA W 41 17 8 22 36.4 1 5 20.0 0 0 - 4 2 6 3 0 1 1 2 8
+p382
+aVShawn Bradley DAL 01/27/2004 DAL @ SEA W 12 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 1 0 4 2
+p383
+aVAntoine Walker DAL 01/27/2004 DAL @ SEA W 40 17 8 14 57.1 0 5 0.0 1 2 50.0 0 8 8 7 0 0 2 2 2
+p384
+aVDirk Nowitzki DAL 01/27/2004 DAL @ SEA W 41 43 16 22 72.7 8 11 72.7 3 5 60.0 1 3 4 2 2 1 5 1 -1
+p385
+aVTravis Best DAL 01/27/2004 DAL @ SEA W 14 2 0 3 0.0 0 0 - 2 2 100.0 2 4 6 2 0 0 1 2 8
+p386
+aVJosh Howard DAL 01/27/2004 DAL @ SEA W 29 5 1 6 16.7 0 0 - 3 4 75.0 5 3 8 2 3 1 0 2 -10
+p387
+aVAntawn Jamison DAL 01/27/2004 DAL @ SEA W 26 15 4 5 80.0 0 0 - 7 8 87.5 3 2 5 2 0 0 1 3 2
+p388
+aVSteve Nash DAL 01/27/2004 DAL @ SEA W 37 19 6 16 37.5 2 5 40.0 5 6 83.3 2 3 5 8 1 0 2 4 -1
+p389
+aVTravis Best DAL 01/25/2004 DAL vs. SAC W 13 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 15
+p390
+aVJosh Howard DAL 01/25/2004 DAL vs. SAC W 24 6 2 8 25.0 0 0 - 2 2 100.0 2 5 7 3 2 3 2 4 10
+p391
+aVAntawn Jamison DAL 01/25/2004 DAL vs. SAC W 33 13 6 17 35.3 0 1 0.0 1 2 50.0 4 6 10 2 2 1 1 1 22
+p392
+aVMichael Finley DAL 01/25/2004 DAL vs. SAC W 42 23 10 17 58.8 3 5 60.0 0 0 - 2 6 8 2 0 1 2 2 4
+p393
+aVAntoine Walker DAL 01/25/2004 DAL vs. SAC W 33 17 7 15 46.7 2 3 66.7 1 2 50.0 1 2 3 5 3 0 6 3 -8
+p394
+aVDirk Nowitzki DAL 01/25/2004 DAL vs. SAC W 38 20 8 17 47.1 1 4 25.0 3 3 100.0 1 11 12 3 2 2 1 1 4
+p395
+aVSteve Nash DAL 01/25/2004 DAL vs. SAC W 36 21 7 13 53.8 1 3 33.3 6 6 100.0 0 1 1 13 3 0 1 3 -6
+p396
+aVShawn Bradley DAL 01/25/2004 DAL vs. SAC W 21 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 1 2 0 2 4
+p397
+aVJosh Howard DAL 01/23/2004 DAL @ CHI W 28 10 4 9 44.4 1 2 50.0 1 2 50.0 2 5 7 3 1 3 0 2 12
+p398
+aVAntawn Jamison DAL 01/23/2004 DAL @ CHI W 23 10 5 6 83.3 0 0 - 0 0 - 2 3 5 2 2 0 2 2 17
+p399
+aVShawn Bradley DAL 01/23/2004 DAL @ CHI W 29 13 3 6 50.0 0 0 - 7 7 100.0 2 2 4 0 4 3 0 0 13
+p400
+aVMamadou N'diaye DAL 01/23/2004 DAL @ CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p401
+aVSteve Nash DAL 01/23/2004 DAL @ CHI W 32 10 4 6 66.7 0 1 0.0 2 2 100.0 0 1 1 7 1 0 3 1 -1
+p402
+aVDirk Nowitzki DAL 01/23/2004 DAL @ CHI W 40 26 10 23 43.5 2 8 25.0 4 4 100.0 2 9 11 5 1 2 0 1 13
+p403
+aVTravis Best DAL 01/23/2004 DAL @ CHI W 16 10 5 6 83.3 0 0 - 0 0 - 0 1 1 1 0 0 2 2 14
+p404
+aVAntoine Walker DAL 01/23/2004 DAL @ CHI W 35 4 2 11 18.2 0 3 0.0 0 0 - 1 5 6 4 0 1 3 1 -3
+p405
+aVMichael Finley DAL 01/23/2004 DAL @ CHI W 36 23 8 17 47.1 3 7 42.9 4 6 66.7 2 1 3 4 0 1 3 2 1
+p406
+aVAntoine Walker DAL 01/22/2004 DAL vs. LAL W 42 23 9 16 56.3 2 4 50.0 3 7 42.9 0 9 9 7 1 0 2 2 12
+p407
+aVTravis Best DAL 01/22/2004 DAL vs. LAL W 25 0 0 4 0.0 0 0 - 0 0 - 1 3 4 0 1 0 1 4 8
+p408
+aVMamadou N'diaye DAL 01/22/2004 DAL vs. LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p409
+aVAntawn Jamison DAL 01/22/2004 DAL vs. LAL W 27 26 10 13 76.9 0 0 - 6 6 100.0 4 5 9 0 0 0 0 5 25
+p410
+aVDirk Nowitzki DAL 01/22/2004 DAL vs. LAL W 42 16 6 16 37.5 1 2 50.0 3 3 100.0 0 9 9 6 0 2 2 2 21
+p411
+aVMichael Finley DAL 01/22/2004 DAL vs. LAL W 35 31 11 18 61.1 4 4 100.0 5 6 83.3 4 3 7 4 1 0 0 0 17
+p412
+aVJosh Howard DAL 01/22/2004 DAL vs. LAL W 25 5 2 5 40.0 0 0 - 1 2 50.0 4 3 7 2 0 0 0 6 -4
+p413
+aVShawn Bradley DAL 01/22/2004 DAL vs. LAL W 18 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 1 1 0 1 1 6
+p414
+aVSteve Nash DAL 01/22/2004 DAL vs. LAL W 23 2 1 6 16.7 0 3 0.0 0 0 - 1 2 3 8 1 0 3 2 11
+p415
+aVDirk Nowitzki DAL 01/20/2004 DAL vs. NJN W 38 19 7 14 50.0 3 6 50.0 2 2 100.0 0 10 10 6 0 1 1 4 9
+p416
+aVMichael Finley DAL 01/20/2004 DAL vs. NJN W 43 18 7 21 33.3 2 4 50.0 2 2 100.0 1 5 6 4 0 0 0 0 13
+p417
+aVShawn Bradley DAL 01/20/2004 DAL vs. NJN W 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 1 4 -1
+p418
+aVAntoine Walker DAL 01/20/2004 DAL vs. NJN W 36 22 10 19 52.6 1 3 33.3 1 2 50.0 8 5 13 3 0 1 0 2 2
+p419
+aVTravis Best DAL 01/20/2004 DAL vs. NJN W 12 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 3
+p420
+aVJosh Howard DAL 01/20/2004 DAL vs. NJN W 20 11 3 7 42.9 0 1 0.0 5 7 71.4 3 4 7 1 0 0 0 2 1
+p421
+aVAntawn Jamison DAL 01/20/2004 DAL vs. NJN W 30 8 3 6 50.0 0 0 - 2 4 50.0 1 5 6 0 1 0 0 2 18
+p422
+aVDanny Fortson DAL 01/20/2004 DAL vs. NJN W 17 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 0 0 0 0 2 11
+p423
+aVSteve Nash DAL 01/20/2004 DAL vs. NJN W 36 18 6 12 50.0 1 3 33.3 5 5 100.0 0 3 3 5 2 0 2 0 9
+p424
+aVDanny Fortson DAL 01/17/2004 DAL @ POR W 16 10 4 4 100.0 0 0 - 2 2 100.0 5 1 6 0 0 0 1 4 -2
+p425
+aVMichael Finley DAL 01/17/2004 DAL @ POR W 40 33 13 23 56.5 3 7 42.9 4 4 100.0 0 2 2 2 1 0 2 3 11
+p426
+aVTravis Best DAL 01/17/2004 DAL @ POR W 34 0 0 4 0.0 0 2 0.0 0 0 - 2 0 2 7 2 0 0 1 3
+p427
+aVAntawn Jamison DAL 01/17/2004 DAL @ POR W 33 16 7 16 43.8 0 0 - 2 4 50.0 1 2 3 0 3 0 1 2 0
+p428
+aVShawn Bradley DAL 01/17/2004 DAL @ POR W 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 1 1 5 4
+p429
+aVDirk Nowitzki DAL 01/17/2004 DAL @ POR W 41 32 10 18 55.6 2 5 40.0 10 10 100.0 1 6 7 6 1 1 2 2 7
+p430
+aVAntoine Walker DAL 01/17/2004 DAL @ POR W 38 10 4 12 33.3 0 3 0.0 2 2 100.0 2 4 6 11 2 1 1 4 1
+p431
+aVJosh Howard DAL 01/17/2004 DAL @ POR W 26 5 2 8 25.0 0 0 - 1 2 50.0 2 3 5 3 0 0 0 3 -4
+p432
+aVDanny Fortson DAL 01/16/2004 DAL @ DEN W 13 10 2 2 100.0 0 0 - 6 7 85.7 1 7 8 0 0 0 1 3 3
+p433
+aVMichael Finley DAL 01/16/2004 DAL @ DEN W 37 16 5 11 45.5 2 4 50.0 4 4 100.0 1 4 5 5 1 0 2 0 0
+p434
+aVTravis Best DAL 01/16/2004 DAL @ DEN W 36 2 0 6 0.0 0 0 - 2 2 100.0 0 2 2 6 1 2 2 2 11
+p435
+aVShawn Bradley DAL 01/16/2004 DAL @ DEN W 17 2 1 7 14.3 0 1 0.0 0 0 - 5 1 6 0 1 4 1 3 6
+p436
+aVSteve Nash DAL 01/16/2004 DAL @ DEN W 10 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 4 0 0 1 0 -3
+p437
+aVAntoine Walker DAL 01/16/2004 DAL @ DEN W 36 13 5 13 38.5 1 3 33.3 2 2 100.0 2 8 10 3 0 1 4 2 -11
+p438
+aVDirk Nowitzki DAL 01/16/2004 DAL @ DEN W 38 22 8 18 44.4 1 4 25.0 5 5 100.0 0 7 7 2 1 2 4 3 9
+p439
+aVMarquis Daniels DAL 01/16/2004 DAL @ DEN W 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 1 1 0 0 3
+p440
+aVJosh Howard DAL 01/16/2004 DAL @ DEN W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p441
+aVAntawn Jamison DAL 01/16/2004 DAL @ DEN W 32 16 7 11 63.6 0 0 - 2 4 50.0 3 3 6 0 1 1 0 3 4
+p442
+aVTravis Best DAL 01/14/2004 DAL vs. PHI W 32 13 5 6 83.3 1 2 50.0 2 2 100.0 1 2 3 3 0 0 1 1 3
+p443
+aVAntawn Jamison DAL 01/14/2004 DAL vs. PHI W 32 23 9 15 60.0 0 0 - 5 5 100.0 6 1 7 2 1 0 0 2 -3
+p444
+aVSteve Nash DAL 01/14/2004 DAL vs. PHI W 41 9 2 8 25.0 1 4 25.0 4 5 80.0 0 4 4 12 0 0 1 2 1
+p445
+aVDanny Fortson DAL 01/14/2004 DAL vs. PHI W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 3
+p446
+aVMarquis Daniels DAL 01/14/2004 DAL vs. PHI W 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p447
+aVAntoine Walker DAL 01/14/2004 DAL vs. PHI W 51 11 4 19 21.1 0 6 0.0 3 6 50.0 8 9 17 13 0 0 1 6 -1
+p448
+aVMichael Finley DAL 01/14/2004 DAL vs. PHI W 51 32 14 32 43.8 2 8 25.0 2 3 66.7 1 7 8 3 2 0 1 0 3
+p449
+aVShawn Bradley DAL 01/14/2004 DAL vs. PHI W 22 10 4 10 40.0 0 0 - 2 2 100.0 2 0 2 0 0 2 0 3 6
+p450
+aVDirk Nowitzki DAL 01/14/2004 DAL vs. PHI W 48 25 9 22 40.9 1 3 33.3 6 10 60.0 1 13 14 4 1 3 2 2 1
+p451
+aVMarquis Daniels DAL 01/12/2004 DAL @ NYK W 22 4 2 3 66.7 0 0 - 0 0 - 0 4 4 3 1 0 0 4 -6
+p452
+aVSteve Nash DAL 01/12/2004 DAL @ NYK W 45 28 12 16 75.0 3 5 60.0 1 1 100.0 0 3 3 8 3 0 2 5 17
+p453
+aVAntoine Walker DAL 01/12/2004 DAL @ NYK W 47 14 6 18 33.3 2 5 40.0 0 1 0.0 3 9 12 11 1 1 1 3 7
+p454
+aVTravis Best DAL 01/12/2004 DAL @ NYK W 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -11
+p455
+aVAntawn Jamison DAL 01/12/2004 DAL @ NYK W 38 23 9 17 52.9 0 0 - 5 7 71.4 4 0 4 1 2 0 2 3 4
+p456
+aVMichael Finley DAL 01/12/2004 DAL @ NYK W 53 25 8 21 38.1 4 10 40.0 5 6 83.3 2 8 10 6 1 0 1 1 6
+p457
+aVDirk Nowitzki DAL 01/12/2004 DAL @ NYK W 47 31 12 24 50.0 3 9 33.3 4 4 100.0 1 9 10 1 1 0 2 2 12
+p458
+aVShawn Bradley DAL 01/12/2004 DAL @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 4
+p459
+aVTony Delk DAL 01/12/2004 DAL @ NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p460
+aVSteve Nash DAL 01/11/2004 DAL @ DET L 35 18 8 14 57.1 2 5 40.0 0 0 - 2 2 4 10 1 0 3 2 -9
+p461
+aVDirk Nowitzki DAL 01/11/2004 DAL @ DET L 33 14 6 11 54.5 1 3 33.3 1 2 50.0 2 13 15 3 1 0 1 3 -7
+p462
+aVShawn Bradley DAL 01/11/2004 DAL @ DET L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p463
+aVTravis Best DAL 01/11/2004 DAL @ DET L 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 0 0 2
+p464
+aVMichael Finley DAL 01/11/2004 DAL @ DET L 35 6 2 10 20.0 0 2 0.0 2 2 100.0 2 5 7 2 0 0 0 2 -9
+p465
+aVAntawn Jamison DAL 01/11/2004 DAL @ DET L 29 15 6 12 50.0 0 2 0.0 3 4 75.0 0 0 0 0 3 0 1 2 -22
+p466
+aVAntoine Walker DAL 01/11/2004 DAL @ DET L 30 9 4 11 36.4 0 5 0.0 1 4 25.0 2 4 6 2 0 0 2 2 -8
+p467
+aVTony Delk DAL 01/11/2004 DAL @ DET L 16 16 5 9 55.6 2 5 40.0 4 4 100.0 0 0 0 1 0 0 0 3 -7
+p468
+aVMamadou N'diaye DAL 01/11/2004 DAL @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 6
+p469
+aVMarquis Daniels DAL 01/11/2004 DAL @ DET L 34 16 6 11 54.5 0 2 0.0 4 5 80.0 0 0 0 1 1 0 1 2 -8
+p470
+aVDanny Fortson DAL 01/11/2004 DAL @ DET L 8 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 5
+p471
+aVTony Delk DAL 01/09/2004 DAL vs. IND L 21 5 2 9 22.2 1 2 50.0 0 0 - 1 2 3 1 1 0 3 2 -3
+p472
+aVShawn Bradley DAL 01/09/2004 DAL vs. IND L 19 12 6 6 100.0 0 0 - 0 0 - 1 0 1 2 1 1 0 0 -5
+p473
+aVMarquis Daniels DAL 01/09/2004 DAL vs. IND L 11 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 1 -3
+p474
+aVSteve Nash DAL 01/09/2004 DAL vs. IND L 29 10 3 11 27.3 1 5 20.0 3 3 100.0 0 6 6 7 2 0 5 2 -14
+p475
+aVAntoine Walker DAL 01/09/2004 DAL vs. IND L 37 5 2 11 18.2 0 3 0.0 1 2 50.0 3 6 9 3 0 1 2 3 -14
+p476
+aVDirk Nowitzki DAL 01/09/2004 DAL vs. IND L 41 20 7 20 35.0 1 5 20.0 5 6 83.3 1 6 7 3 1 3 2 4 -2
+p477
+aVDanny Fortson DAL 01/09/2004 DAL vs. IND L 11 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -1
+p478
+aVMichael Finley DAL 01/09/2004 DAL vs. IND L 37 5 2 10 20.0 1 3 33.3 0 0 - 0 3 3 4 3 0 2 1 -12
+p479
+aVAntawn Jamison DAL 01/09/2004 DAL vs. IND L 34 19 8 12 66.7 0 0 - 3 4 75.0 4 4 8 0 0 1 1 2 -6
+p480
+aVMichael Finley DAL 01/07/2004 DAL vs. GSW W 48 21 10 22 45.5 1 5 20.0 0 0 - 0 5 5 3 3 2 1 1 6
+p481
+aVDanny Fortson DAL 01/07/2004 DAL vs. GSW W 16 4 1 3 33.3 0 0 - 2 2 100.0 6 5 11 1 0 0 1 1 0
+p482
+aVAntoine Walker DAL 01/07/2004 DAL vs. GSW W 47 20 9 16 56.3 1 5 20.0 1 1 100.0 1 7 8 6 0 0 5 4 9
+p483
+aVTony Delk DAL 01/07/2004 DAL vs. GSW W 19 16 6 9 66.7 2 2 100.0 2 2 100.0 0 1 1 1 2 0 2 0 5
+p484
+aVSteve Nash DAL 01/07/2004 DAL vs. GSW W 37 7 1 9 11.1 0 1 0.0 5 6 83.3 0 3 3 12 1 0 1 0 10
+p485
+aVAntawn Jamison DAL 01/07/2004 DAL vs. GSW W 33 14 6 10 60.0 0 0 - 2 4 50.0 2 5 7 2 1 1 1 3 2
+p486
+aVDirk Nowitzki DAL 01/07/2004 DAL vs. GSW W 40 23 8 19 42.1 2 6 33.3 5 5 100.0 3 8 11 1 1 1 2 4 -2
+p487
+aVTony Delk DAL 01/05/2004 DAL @ UTA L 22 8 2 5 40.0 0 2 0.0 4 5 80.0 1 0 1 1 1 1 2 2 8
+p488
+aVDanny Fortson DAL 01/05/2004 DAL @ UTA L 12 6 1 1 100.0 0 0 - 4 4 100.0 1 4 5 0 1 0 2 5 5
+p489
+aVSteve Nash DAL 01/05/2004 DAL @ UTA L 29 8 4 9 44.4 0 1 0.0 0 0 - 1 1 2 3 1 0 4 1 -13
+p490
+aVAntoine Walker DAL 01/05/2004 DAL @ UTA L 28 11 4 12 33.3 3 6 50.0 0 0 - 2 4 6 2 0 0 1 3 -17
+p491
+aVMichael Finley DAL 01/05/2004 DAL @ UTA L 35 9 3 12 25.0 1 6 16.7 2 2 100.0 0 4 4 4 1 2 1 3 -24
+p492
+aVTravis Best DAL 01/05/2004 DAL @ UTA L 12 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 3 0 1 0 3 5
+p493
+aVShawn Bradley DAL 01/05/2004 DAL @ UTA L 12 3 0 2 0.0 0 0 - 3 4 75.0 1 2 3 0 1 2 0 1 7
+p494
+aVAntawn Jamison DAL 01/05/2004 DAL @ UTA L 26 9 4 13 30.8 1 1 100.0 0 0 - 0 0 0 2 1 0 0 2 -13
+p495
+aVMarquis Daniels DAL 01/05/2004 DAL @ UTA L 26 10 5 10 50.0 0 1 0.0 0 0 - 1 2 3 4 4 2 3 2 -8
+p496
+aVDirk Nowitzki DAL 01/05/2004 DAL @ UTA L 38 24 8 15 53.3 2 3 66.7 6 7 85.7 2 7 9 1 1 4 0 2 -20
+p497
+aVTravis Best DAL 01/03/2004 DAL vs. MIN W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 13
+p498
+aVJosh Howard DAL 01/03/2004 DAL vs. MIN W 30 13 6 10 60.0 1 2 50.0 0 0 - 3 4 7 3 1 0 2 2 0
+p499
+aVAntawn Jamison DAL 01/03/2004 DAL vs. MIN W 30 10 3 10 30.0 0 0 - 4 6 66.7 2 7 9 0 2 1 1 4 14
+p500
+aVDirk Nowitzki DAL 01/03/2004 DAL vs. MIN W 41 31 10 15 66.7 3 3 100.0 8 10 80.0 1 8 9 4 1 0 1 3 -4
+p501
+aVMichael Finley DAL 01/03/2004 DAL vs. MIN W 42 24 9 15 60.0 6 9 66.7 0 0 - 1 2 3 1 1 0 0 2 2
+p502
+aVSteve Nash DAL 01/03/2004 DAL vs. MIN W 39 20 7 16 43.8 1 5 20.0 5 5 100.0 2 3 5 13 0 0 1 1 0
+p503
+aVAntoine Walker DAL 01/03/2004 DAL vs. MIN W 40 12 5 14 35.7 1 5 20.0 1 4 25.0 1 5 6 5 1 0 4 4 -7
+p504
+aVDanny Fortson DAL 01/03/2004 DAL vs. MIN W 11 7 2 3 66.7 0 0 - 3 3 100.0 2 2 4 0 0 0 1 2 17
+p505
+aVMarquis Daniels DAL 01/02/2004 DAL @ MIL L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -4
+p506
+aVShawn Bradley DAL 01/02/2004 DAL @ MIL L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p507
+aVJosh Howard DAL 01/02/2004 DAL @ MIL L 35 10 4 9 44.4 0 1 0.0 2 2 100.0 2 5 7 1 0 1 1 4 -5
+p508
+aVDirk Nowitzki DAL 01/02/2004 DAL @ MIL L 43 23 9 17 52.9 2 5 40.0 3 3 100.0 2 12 14 5 1 2 2 4 1
+p509
+aVTravis Best DAL 01/02/2004 DAL @ MIL L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p510
+aVMichael Finley DAL 01/02/2004 DAL @ MIL L 42 13 5 15 33.3 2 5 40.0 1 1 100.0 1 2 3 2 0 0 1 3 0
+p511
+aVSteve Nash DAL 01/02/2004 DAL @ MIL L 36 17 5 13 38.5 4 5 80.0 3 4 75.0 1 3 4 10 1 0 3 3 -5
+p512
+aVAntoine Walker DAL 01/02/2004 DAL @ MIL L 36 15 7 16 43.8 1 5 20.0 0 0 - 2 2 4 6 0 0 2 3 -19
+p513
+aVAntawn Jamison DAL 01/02/2004 DAL @ MIL L 33 20 8 10 80.0 0 0 - 4 4 100.0 4 5 9 0 1 0 1 0 -4
+p514
+aVMarquis Daniels DAL 12/30/2003 DAL vs. MIL W 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 11
+p515
+aVDanny Fortson DAL 12/30/2003 DAL vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p516
+aVSteve Nash DAL 12/30/2003 DAL vs. MIL W 33 14 6 13 46.2 0 4 0.0 2 2 100.0 2 2 4 12 1 0 0 3 9
+p517
+aVAntawn Jamison DAL 12/30/2003 DAL vs. MIL W 30 17 7 12 58.3 0 0 - 3 3 100.0 2 2 4 0 1 0 2 2 15
+p518
+aVAntoine Walker DAL 12/30/2003 DAL vs. MIL W 44 22 8 18 44.4 1 5 20.0 5 8 62.5 4 10 14 4 0 1 1 1 12
+p519
+aVDirk Nowitzki DAL 12/30/2003 DAL vs. MIL W 35 20 8 19 42.1 2 5 40.0 2 3 66.7 1 10 11 1 0 0 1 2 8
+p520
+aVJosh Howard DAL 12/30/2003 DAL vs. MIL W 31 7 3 8 37.5 0 1 0.0 1 2 50.0 3 3 6 1 0 3 1 1 -6
+p521
+aVTravis Best DAL 12/30/2003 DAL vs. MIL W 14 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -2
+p522
+aVMichael Finley DAL 12/30/2003 DAL vs. MIL W 43 11 4 11 36.4 0 1 0.0 3 3 100.0 1 8 9 4 0 0 1 1 0
+p523
+aVDanny Fortson DAL 12/27/2003 DAL vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p524
+aVJosh Howard DAL 12/27/2003 DAL vs. MEM W 43 15 6 12 50.0 0 0 - 3 3 100.0 2 4 6 0 2 0 5 1 11
+p525
+aVAntawn Jamison DAL 12/27/2003 DAL vs. MEM W 26 14 5 14 35.7 0 1 0.0 4 4 100.0 7 1 8 1 0 0 1 5 -22
+p526
+aVSteve Nash DAL 12/27/2003 DAL vs. MEM W 41 16 6 14 42.9 3 6 50.0 1 1 100.0 1 3 4 10 2 0 2 1 20
+p527
+aVMichael Finley DAL 12/27/2003 DAL vs. MEM W 41 24 9 15 60.0 5 7 71.4 1 2 50.0 0 3 3 0 0 1 1 3 10
+p528
+aVTony Delk DAL 12/27/2003 DAL vs. MEM W 7 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 1 0 2 2 -14
+p529
+aVDirk Nowitzki DAL 12/27/2003 DAL vs. MEM W 42 18 6 10 60.0 2 3 66.7 4 4 100.0 2 15 17 4 0 0 4 3 11
+p530
+aVAntoine Walker DAL 12/27/2003 DAL vs. MEM W 38 13 6 17 35.3 1 3 33.3 0 0 - 4 6 10 8 2 2 2 2 16
+p531
+aVTony Delk DAL 12/25/2003 DAL @ SAC W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 9
+p532
+aVTravis Best DAL 12/25/2003 DAL @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p533
+aVMichael Finley DAL 12/25/2003 DAL @ SAC W 38 12 3 15 20.0 2 6 33.3 4 6 66.7 2 2 4 1 1 3 2 1 14
+p534
+aVAntoine Walker DAL 12/25/2003 DAL @ SAC W 37 23 9 21 42.9 5 11 45.5 0 0 - 2 10 12 8 0 2 4 5 18
+p535
+aVDanny Fortson DAL 12/25/2003 DAL @ SAC W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -10
+p536
+aVSteve Nash DAL 12/25/2003 DAL @ SAC W 35 14 5 9 55.6 3 4 75.0 1 1 100.0 0 2 2 11 0 0 3 3 7
+p537
+aVDirk Nowitzki DAL 12/25/2003 DAL @ SAC W 47 31 9 22 40.9 3 6 50.0 10 10 100.0 1 13 14 5 3 3 0 4 9
+p538
+aVEduardo Najera DAL 12/25/2003 DAL @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p539
+aVAntawn Jamison DAL 12/25/2003 DAL @ SAC W 35 22 10 14 71.4 0 1 0.0 2 4 50.0 7 2 9 1 1 1 2 3 -10
+p540
+aVJosh Howard DAL 12/25/2003 DAL @ SAC W 34 9 4 11 36.4 0 1 0.0 1 2 50.0 2 2 4 2 1 2 2 2 5
+p541
+aVAntawn Jamison DAL 12/23/2003 DAL @ POR L 24 20 7 11 63.6 0 0 - 6 6 100.0 3 1 4 0 0 0 0 4 -1
+p542
+aVJosh Howard DAL 12/23/2003 DAL @ POR L 30 14 6 10 60.0 0 0 - 2 3 66.7 4 4 8 1 2 1 3 4 0
+p543
+aVAntoine Walker DAL 12/23/2003 DAL @ POR L 44 19 7 19 36.8 2 5 40.0 3 3 100.0 3 5 8 6 0 0 2 4 -16
+p544
+aVTony Delk DAL 12/23/2003 DAL @ POR L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p545
+aVDanny Fortson DAL 12/23/2003 DAL @ POR L 10 9 4 5 80.0 0 0 - 1 2 50.0 2 1 3 0 0 0 2 1 -6
+p546
+aVMichael Finley DAL 12/23/2003 DAL @ POR L 37 12 5 12 41.7 2 4 50.0 0 0 - 0 1 1 5 0 0 0 3 3
+p547
+aVEduardo Najera DAL 12/23/2003 DAL @ POR L 10 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 -4
+p548
+aVSteve Nash DAL 12/23/2003 DAL @ POR L 37 4 0 5 0.0 0 4 0.0 4 4 100.0 1 1 2 6 1 0 2 0 -13
+p549
+aVDirk Nowitzki DAL 12/23/2003 DAL @ POR L 42 6 3 12 25.0 0 3 0.0 0 0 - 1 8 9 2 0 1 5 3 -5
+p550
+aVTravis Best DAL 12/20/2003 DAL vs. LAC L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 2 1 -2
+p551
+aVTony Delk DAL 12/20/2003 DAL vs. LAC L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 0
+p552
+aVDirk Nowitzki DAL 12/20/2003 DAL vs. LAC L 45 23 6 23 26.1 0 7 0.0 11 14 78.6 4 5 9 1 1 1 5 1 -10
+p553
+aVAntoine Walker DAL 12/20/2003 DAL vs. LAC L 38 13 5 11 45.5 2 5 40.0 1 4 25.0 1 7 8 6 1 3 2 4 -5
+p554
+aVSteve Nash DAL 12/20/2003 DAL vs. LAC L 39 20 8 18 44.4 3 7 42.9 1 1 100.0 1 1 2 11 0 0 2 0 -8
+p555
+aVDanny Fortson DAL 12/20/2003 DAL vs. LAC L 15 3 1 4 25.0 0 0 - 1 1 100.0 5 5 10 0 1 0 0 4 -9
+p556
+aVMarquis Daniels DAL 12/20/2003 DAL vs. LAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p557
+aVEduardo Najera DAL 12/20/2003 DAL vs. LAC L 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -8
+p558
+aVAntawn Jamison DAL 12/20/2003 DAL vs. LAC L 35 26 12 17 70.6 2 2 100.0 0 3 0.0 6 3 9 1 0 2 2 5 -1
+p559
+aVJosh Howard DAL 12/20/2003 DAL vs. LAC L 33 11 4 10 40.0 1 1 100.0 2 4 50.0 3 3 6 2 2 2 1 6 3
+p560
+aVTony Delk DAL 12/18/2003 DAL @ MIN L 13 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 2 0 0 1 2 -3
+p561
+aVJosh Howard DAL 12/18/2003 DAL @ MIN L 40 14 3 8 37.5 0 0 - 8 10 80.0 2 4 6 1 2 0 1 2 -7
+p562
+aVSteve Nash DAL 12/18/2003 DAL @ MIN L 37 27 9 16 56.3 4 7 57.1 5 5 100.0 0 1 1 9 1 0 3 3 -1
+p563
+aVDirk Nowitzki DAL 12/18/2003 DAL @ MIN L 41 15 4 13 30.8 1 6 16.7 6 7 85.7 1 6 7 1 0 0 2 4 -5
+p564
+aVAntoine Walker DAL 12/18/2003 DAL @ MIN L 36 8 4 10 40.0 0 4 0.0 0 0 - 1 5 6 6 0 2 3 4 9
+p565
+aVDanny Fortson DAL 12/18/2003 DAL @ MIN L 18 6 3 7 42.9 0 0 - 0 0 - 8 1 9 0 0 0 1 4 -11
+p566
+aVMarquis Daniels DAL 12/18/2003 DAL @ MIN L 14 12 5 7 71.4 0 0 - 2 3 66.7 1 2 3 0 1 0 0 1 1
+p567
+aVEduardo Najera DAL 12/18/2003 DAL @ MIN L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p568
+aVAntawn Jamison DAL 12/18/2003 DAL @ MIN L 36 22 9 16 56.3 1 1 100.0 3 4 75.0 2 5 7 2 2 0 1 4 -6
+p569
+aVEduardo Najera DAL 12/17/2003 DAL @ BOS L 7 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 -3
+p570
+aVSteve Nash DAL 12/17/2003 DAL @ BOS L 38 14 3 9 33.3 3 6 50.0 5 6 83.3 0 1 1 9 1 0 6 2 6
+p571
+aVAntawn Jamison DAL 12/17/2003 DAL @ BOS L 29 21 7 14 50.0 0 1 0.0 7 7 100.0 4 5 9 0 2 0 2 2 -13
+p572
+aVMarquis Daniels DAL 12/17/2003 DAL @ BOS L 19 10 3 6 50.0 1 1 100.0 3 4 75.0 2 0 2 0 0 0 0 1 0
+p573
+aVDanny Fortson DAL 12/17/2003 DAL @ BOS L 31 10 3 8 37.5 0 0 - 4 5 80.0 8 8 16 2 1 0 2 4 4
+p574
+aVTravis Best DAL 12/17/2003 DAL @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p575
+aVTony Delk DAL 12/17/2003 DAL @ BOS L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 2 0 1 0 -7
+p576
+aVAntoine Walker DAL 12/17/2003 DAL @ BOS L 36 7 3 14 21.4 0 6 0.0 1 4 25.0 1 6 7 8 0 2 2 2 -4
+p577
+aVDirk Nowitzki DAL 12/17/2003 DAL @ BOS L 41 30 11 28 39.3 3 7 42.9 5 8 62.5 5 8 13 1 2 1 1 5 10
+p578
+aVJosh Howard DAL 12/17/2003 DAL @ BOS L 27 9 4 11 36.4 0 4 0.0 1 3 33.3 3 3 6 1 1 1 2 4 -1
+p579
+aVSteve Nash DAL 12/15/2003 DAL vs. TOR W 40 23 9 20 45.0 2 4 50.0 3 3 100.0 2 3 5 11 1 1 2 1 20
+p580
+aVJosh Howard DAL 12/15/2003 DAL vs. TOR W 38 14 6 9 66.7 1 2 50.0 1 2 50.0 4 10 14 1 1 0 3 5 12
+p581
+aVDanny Fortson DAL 12/15/2003 DAL vs. TOR W 4 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -6
+p582
+aVEduardo Najera DAL 12/15/2003 DAL vs. TOR W 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -2
+p583
+aVAntoine Walker DAL 12/15/2003 DAL vs. TOR W 42 27 10 20 50.0 5 9 55.6 2 4 50.0 1 7 8 5 1 1 3 0 18
+p584
+aVMarquis Daniels DAL 12/15/2003 DAL vs. TOR W 7 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -3
+p585
+aVDirk Nowitzki DAL 12/15/2003 DAL vs. TOR W 33 14 4 13 30.8 1 4 25.0 5 6 83.3 0 5 5 2 2 1 1 2 18
+p586
+aVAntawn Jamison DAL 12/15/2003 DAL vs. TOR W 37 23 10 16 62.5 0 1 0.0 3 3 100.0 6 3 9 2 3 2 1 2 20
+p587
+aVTony Delk DAL 12/15/2003 DAL vs. TOR W 28 10 3 6 50.0 2 4 50.0 2 2 100.0 0 4 4 2 1 0 0 1 8
+p588
+aVTony Delk DAL 12/12/2003 DAL @ LAL W 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 2
+p589
+aVEduardo Najera DAL 12/12/2003 DAL @ LAL W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 2
+p590
+aVShawn Bradley DAL 12/12/2003 DAL @ LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p591
+aVAntoine Walker DAL 12/12/2003 DAL @ LAL W 43 27 12 22 54.5 3 7 42.9 0 0 - 2 8 10 7 2 0 3 4 29
+p592
+aVDirk Nowitzki DAL 12/12/2003 DAL @ LAL W 46 27 10 22 45.5 1 2 50.0 6 6 100.0 1 11 12 5 1 1 1 3 17
+p593
+aVJosh Howard DAL 12/12/2003 DAL @ LAL W 44 17 7 15 46.7 0 2 0.0 3 3 100.0 5 8 13 3 1 0 2 5 28
+p594
+aVAntawn Jamison DAL 12/12/2003 DAL @ LAL W 23 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 0 0 0 0 6 -4
+p595
+aVDanny Fortson DAL 12/12/2003 DAL @ LAL W 18 4 1 3 33.3 0 0 - 2 4 50.0 4 2 6 1 0 0 1 5 14
+p596
+aVTravis Best DAL 12/12/2003 DAL @ LAL W 4 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -1
+p597
+aVSteve Nash DAL 12/12/2003 DAL @ LAL W 39 23 6 16 37.5 0 3 0.0 11 12 91.7 2 3 5 7 0 0 1 1 7
+p598
+aVAntawn Jamison DAL 12/10/2003 DAL @ LAC L 29 10 4 8 50.0 0 0 - 2 2 100.0 3 5 8 1 1 0 1 2 -14
+p599
+aVJosh Howard DAL 12/10/2003 DAL @ LAC L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 2 -11
+p600
+aVShawn Bradley DAL 12/10/2003 DAL @ LAC L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -8
+p601
+aVMichael Finley DAL 12/10/2003 DAL @ LAC L 48 38 17 26 65.4 3 4 75.0 1 1 100.0 1 6 7 1 2 0 1 0 -1
+p602
+aVEduardo Najera DAL 12/10/2003 DAL @ LAC L 12 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -2
+p603
+aVSteve Nash DAL 12/10/2003 DAL @ LAC L 34 6 2 12 16.7 1 4 25.0 1 3 33.3 1 2 3 5 1 0 2 2 3
+p604
+aVTravis Best DAL 12/10/2003 DAL @ LAC L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 2 -7
+p605
+aVDanny Fortson DAL 12/10/2003 DAL @ LAC L 20 10 4 4 100.0 0 0 - 2 2 100.0 3 4 7 1 1 0 2 5 22
+p606
+aVDirk Nowitzki DAL 12/10/2003 DAL @ LAC L 27 9 4 12 33.3 1 2 50.0 0 0 - 0 3 3 2 0 0 0 5 8
+p607
+aVTony Delk DAL 12/10/2003 DAL @ LAC L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 3
+p608
+aVAntoine Walker DAL 12/10/2003 DAL @ LAC L 44 21 9 19 47.4 1 4 25.0 2 4 50.0 2 5 7 10 2 1 2 4 2
+p609
+aVSteve Nash DAL 12/06/2003 DAL vs. ORL W 34 9 4 9 44.4 0 2 0.0 1 1 100.0 0 3 3 9 1 0 4 2 10
+p610
+aVAntawn Jamison DAL 12/06/2003 DAL vs. ORL W 31 18 8 16 50.0 0 0 - 2 4 50.0 4 3 7 1 0 2 1 2 14
+p611
+aVAntoine Walker DAL 12/06/2003 DAL vs. ORL W 39 24 11 18 61.1 1 5 20.0 1 4 25.0 3 13 16 3 2 1 4 3 13
+p612
+aVEduardo Najera DAL 12/06/2003 DAL vs. ORL W 16 9 3 6 50.0 0 0 - 3 4 75.0 5 3 8 0 1 0 2 1 8
+p613
+aVTravis Best DAL 12/06/2003 DAL vs. ORL W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 2 1 0 2 0 3
+p614
+aVTony Delk DAL 12/06/2003 DAL vs. ORL W 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 2 0 0 2 12
+p615
+aVDanny Fortson DAL 12/06/2003 DAL vs. ORL W 9 5 2 2 100.0 0 0 - 1 2 50.0 2 2 4 0 0 0 2 4 0
+p616
+aVShawn Bradley DAL 12/06/2003 DAL vs. ORL W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p617
+aVJosh Howard DAL 12/06/2003 DAL vs. ORL W 30 13 4 12 33.3 1 2 50.0 4 4 100.0 3 5 8 1 3 3 2 3 17
+p618
+aVMarquis Daniels DAL 12/06/2003 DAL vs. ORL W 8 4 2 4 50.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 0 -7
+p619
+aVMichael Finley DAL 12/06/2003 DAL vs. ORL W 43 22 9 12 75.0 3 4 75.0 1 1 100.0 1 3 4 3 0 0 4 2 1
+p620
+aVJosh Howard DAL 12/04/2003 DAL vs. LAL L 31 9 4 12 33.3 1 2 50.0 0 1 0.0 3 11 14 3 1 0 1 6 16
+p621
+aVEduardo Najera DAL 12/04/2003 DAL vs. LAL L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 4 -5
+p622
+aVTony Delk DAL 12/04/2003 DAL vs. LAL L 9 4 1 5 20.0 0 4 0.0 2 2 100.0 0 0 0 1 0 1 0 3 -15
+p623
+aVAntoine Walker DAL 12/04/2003 DAL vs. LAL L 43 24 9 18 50.0 3 8 37.5 3 4 75.0 3 9 12 2 0 1 4 5 -17
+p624
+aVMichael Finley DAL 12/04/2003 DAL vs. LAL L 43 19 8 24 33.3 1 6 16.7 2 3 66.7 0 3 3 1 2 0 1 4 -9
+p625
+aVMarquis Daniels DAL 12/04/2003 DAL vs. LAL L 4 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p626
+aVAntawn Jamison DAL 12/04/2003 DAL vs. LAL L 39 15 4 13 30.8 0 0 - 7 8 87.5 5 5 10 0 1 1 2 2 2
+p627
+aVShawn Bradley DAL 12/04/2003 DAL vs. LAL L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -7
+p628
+aVTravis Best DAL 12/04/2003 DAL vs. LAL L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p629
+aVDanny Fortson DAL 12/04/2003 DAL vs. LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p630
+aVSteve Nash DAL 12/04/2003 DAL vs. LAL L 37 30 10 18 55.6 4 4 100.0 6 6 100.0 0 2 2 8 1 0 2 2 -8
+p631
+aVEduardo Najera DAL 12/02/2003 DAL vs. WAS W 24 11 5 7 71.4 1 1 100.0 0 0 - 2 9 11 0 0 1 1 4 19
+p632
+aVAntawn Jamison DAL 12/02/2003 DAL vs. WAS W 32 21 8 14 57.1 0 1 0.0 5 6 83.3 4 3 7 1 2 0 1 4 17
+p633
+aVAntoine Walker DAL 12/02/2003 DAL vs. WAS W 30 8 3 12 25.0 0 3 0.0 2 2 100.0 5 5 10 7 0 1 5 2 17
+p634
+aVTravis Best DAL 12/02/2003 DAL vs. WAS W 20 4 2 3 66.7 0 0 - 0 0 - 0 2 2 4 0 0 1 2 9
+p635
+aVJosh Howard DAL 12/02/2003 DAL vs. WAS W 21 6 2 11 18.2 0 1 0.0 2 2 100.0 5 5 10 1 1 0 1 2 12
+p636
+aVTony Delk DAL 12/02/2003 DAL vs. WAS W 22 9 3 11 27.3 0 2 0.0 3 3 100.0 1 3 4 0 2 0 0 2 9
+p637
+aVMichael Finley DAL 12/02/2003 DAL vs. WAS W 39 16 7 16 43.8 1 2 50.0 1 2 50.0 1 11 12 6 2 0 1 0 14
+p638
+aVMarquis Daniels DAL 12/02/2003 DAL vs. WAS W 10 6 3 4 75.0 0 0 - 0 0 - 2 0 2 2 1 0 1 2 8
+p639
+aVShawn Bradley DAL 12/02/2003 DAL vs. WAS W 13 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 2 2 0 3 4
+p640
+aVSteve Nash DAL 12/02/2003 DAL vs. WAS W 28 14 6 13 46.2 0 3 0.0 2 2 100.0 1 2 3 3 1 0 2 1 16
+p641
+aVMichael Finley DAL 11/29/2003 DAL vs. MIN W 44 25 8 23 34.8 5 12 41.7 4 5 80.0 3 5 8 1 2 1 1 0 8
+p642
+aVShawn Bradley DAL 11/29/2003 DAL vs. MIN W 17 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -3
+p643
+aVEduardo Najera DAL 11/29/2003 DAL vs. MIN W 22 3 1 5 20.0 0 0 - 1 2 50.0 6 3 9 1 0 1 2 3 -4
+p644
+aVTony Delk DAL 11/29/2003 DAL vs. MIN W 14 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 -16
+p645
+aVJosh Howard DAL 11/29/2003 DAL vs. MIN W 24 15 6 11 54.5 1 1 100.0 2 5 40.0 4 3 7 2 3 1 0 2 21
+p646
+aVSteve Nash DAL 11/29/2003 DAL vs. MIN W 33 17 4 18 22.2 0 5 0.0 9 9 100.0 1 1 2 3 0 0 3 3 -10
+p647
+aVAntawn Jamison DAL 11/29/2003 DAL vs. MIN W 32 14 6 13 46.2 0 0 - 2 2 100.0 6 7 13 1 1 1 2 3 19
+p648
+aVAntoine Walker DAL 11/29/2003 DAL vs. MIN W 38 8 4 18 22.2 0 3 0.0 0 4 0.0 2 8 10 3 0 0 1 3 -8
+p649
+aVTravis Best DAL 11/29/2003 DAL vs. MIN W 15 2 1 5 20.0 0 2 0.0 0 0 - 2 3 5 2 0 0 1 2 13
+p650
+aVTony Delk DAL 11/28/2003 DAL @ DEN L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -11
+p651
+aVMichael Finley DAL 11/28/2003 DAL @ DEN L 35 20 8 15 53.3 2 3 66.7 2 2 100.0 0 2 2 3 2 0 1 2 -1
+p652
+aVEduardo Najera DAL 11/28/2003 DAL @ DEN L 12 2 1 5 20.0 0 0 - 0 0 - 4 2 6 0 0 1 2 3 0
+p653
+aVAntoine Walker DAL 11/28/2003 DAL @ DEN L 40 30 13 30 43.3 2 7 28.6 2 4 50.0 4 11 15 4 1 0 2 3 -15
+p654
+aVJosh Howard DAL 11/28/2003 DAL @ DEN L 25 10 3 7 42.9 0 1 0.0 4 4 100.0 2 5 7 0 1 1 1 4 -6
+p655
+aVAntawn Jamison DAL 11/28/2003 DAL @ DEN L 36 13 6 13 46.2 0 0 - 1 3 33.3 3 1 4 2 1 0 0 3 -12
+p656
+aVMarquis Daniels DAL 11/28/2003 DAL @ DEN L 8 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p657
+aVTravis Best DAL 11/28/2003 DAL @ DEN L 16 12 3 5 60.0 0 0 - 6 8 75.0 1 0 1 1 1 0 1 3 -1
+p658
+aVShawn Bradley DAL 11/28/2003 DAL @ DEN L 18 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 4
+p659
+aVSteve Nash DAL 11/28/2003 DAL @ DEN L 35 10 4 11 36.4 2 4 50.0 0 0 - 1 0 1 9 1 0 6 5 -10
+p660
+aVTravis Best DAL 11/26/2003 DAL @ PHX L 24 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 3 2 0 0 2 -7
+p661
+aVDanny Fortson DAL 11/26/2003 DAL @ PHX L 13 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 4 -5
+p662
+aVTony Delk DAL 11/26/2003 DAL @ PHX L 22 12 4 13 30.8 1 7 14.3 3 4 75.0 1 1 2 1 0 0 0 1 -2
+p663
+aVJosh Howard DAL 11/26/2003 DAL @ PHX L 18 10 4 7 57.1 0 0 - 2 2 100.0 3 2 5 1 0 0 2 1 -6
+p664
+aVAntoine Walker DAL 11/26/2003 DAL @ PHX L 27 14 6 14 42.9 1 5 20.0 1 1 100.0 3 5 8 0 2 1 3 1 -24
+p665
+aVDirk Nowitzki DAL 11/26/2003 DAL @ PHX L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -2
+p666
+aVShawn Bradley DAL 11/26/2003 DAL @ PHX L 14 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -10
+p667
+aVEduardo Najera DAL 11/26/2003 DAL @ PHX L 14 0 0 3 0.0 0 0 - 0 0 - 1 0 1 2 1 0 0 1 -24
+p668
+aVMarquis Daniels DAL 11/26/2003 DAL @ PHX L 12 8 3 6 50.0 1 2 50.0 1 2 50.0 2 0 2 1 0 0 1 0 -6
+p669
+aVMichael Finley DAL 11/26/2003 DAL @ PHX L 28 14 5 14 35.7 2 8 25.0 2 2 100.0 0 1 1 1 0 0 0 1 -21
+p670
+aVAntawn Jamison DAL 11/26/2003 DAL @ PHX L 37 17 5 11 45.5 1 1 100.0 6 8 75.0 3 2 5 2 2 0 1 2 -24
+p671
+aVSteve Nash DAL 11/26/2003 DAL @ PHX L 24 2 1 8 12.5 0 4 0.0 0 0 - 0 0 0 4 0 0 2 1 -24
+p672
+aVShawn Bradley DAL 11/25/2003 DAL vs. CHI W 9 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 0 0 1 4 -3
+p673
+aVMarquis Daniels DAL 11/25/2003 DAL vs. CHI W 9 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p674
+aVDanny Fortson DAL 11/25/2003 DAL vs. CHI W 16 4 1 3 33.3 0 0 - 2 2 100.0 7 6 13 0 0 0 2 4 5
+p675
+aVTravis Best DAL 11/25/2003 DAL vs. CHI W 16 3 0 1 0.0 0 0 - 3 4 75.0 0 2 2 5 0 0 1 0 16
+p676
+aVMichael Finley DAL 11/25/2003 DAL vs. CHI W 33 28 12 18 66.7 2 5 40.0 2 2 100.0 0 2 2 6 1 0 1 1 30
+p677
+aVSteve Nash DAL 11/25/2003 DAL vs. CHI W 20 11 5 6 83.3 1 1 100.0 0 0 - 0 2 2 7 0 0 1 1 15
+p678
+aVJosh Howard DAL 11/25/2003 DAL vs. CHI W 13 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 2 0 2 0 1 -2
+p679
+aVDirk Nowitzki DAL 11/25/2003 DAL vs. CHI W 28 19 4 9 44.4 1 2 50.0 10 10 100.0 1 8 9 1 0 1 0 2 13
+p680
+aVAntawn Jamison DAL 11/25/2003 DAL vs. CHI W 24 15 7 14 50.0 0 0 - 1 1 100.0 0 4 4 1 1 0 0 2 25
+p681
+aVEduardo Najera DAL 11/25/2003 DAL vs. CHI W 24 8 3 5 60.0 0 0 - 2 4 50.0 3 4 7 1 1 0 0 1 10
+p682
+aVTony Delk DAL 11/25/2003 DAL vs. CHI W 18 9 4 10 40.0 1 4 25.0 0 0 - 0 0 0 0 1 0 0 1 -6
+p683
+aVAntoine Walker DAL 11/25/2003 DAL vs. CHI W 29 12 4 11 36.4 1 4 25.0 3 5 60.0 0 5 5 5 1 0 1 1 30
+p684
+aVJosh Howard DAL 11/22/2003 DAL vs. DEN W 15 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 1 2 2 0 6 -19
+p685
+aVAntoine Walker DAL 11/22/2003 DAL vs. DEN W 40 25 11 18 61.1 2 5 40.0 1 1 100.0 2 12 14 6 1 2 3 2 25
+p686
+aVTravis Best DAL 11/22/2003 DAL vs. DEN W 17 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 2 0 1 2 7
+p687
+aVEduardo Najera DAL 11/22/2003 DAL vs. DEN W 16 5 2 6 33.3 0 0 - 1 3 33.3 2 1 3 0 1 1 0 2 1
+p688
+aVAntawn Jamison DAL 11/22/2003 DAL vs. DEN W 34 26 10 16 62.5 0 0 - 6 7 85.7 1 7 8 0 2 1 2 2 13
+p689
+aVMarquis Daniels DAL 11/22/2003 DAL vs. DEN W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p690
+aVSteve Nash DAL 11/22/2003 DAL vs. DEN W 35 18 5 10 50.0 4 4 100.0 4 4 100.0 2 1 3 8 2 0 3 2 8
+p691
+aVTony Delk DAL 11/22/2003 DAL vs. DEN W 8 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -4
+p692
+aVDirk Nowitzki DAL 11/22/2003 DAL vs. DEN W 39 19 5 15 33.3 1 2 50.0 8 9 88.9 2 9 11 1 0 2 0 3 18
+p693
+aVMichael Finley DAL 11/22/2003 DAL vs. DEN W 34 12 5 12 41.7 2 4 50.0 0 0 - 1 0 1 6 0 1 2 0 22
+p694
+aVTravis Best DAL 11/20/2003 DAL vs. SAS W 13 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 3 3 0 1 1 6
+p695
+aVEduardo Najera DAL 11/20/2003 DAL vs. SAS W 10 2 1 1 100.0 0 0 - 0 1 0.0 0 2 2 0 0 1 0 5 -1
+p696
+aVDanny Fortson DAL 11/20/2003 DAL vs. SAS W 13 5 1 1 100.0 0 0 - 3 4 75.0 3 2 5 0 0 0 0 3 4
+p697
+aVSteve Nash DAL 11/20/2003 DAL vs. SAS W 35 12 3 9 33.3 1 2 50.0 5 6 83.3 2 6 8 7 1 0 3 1 -3
+p698
+aVAntoine Walker DAL 11/20/2003 DAL vs. SAS W 45 22 10 25 40.0 1 7 14.3 1 2 50.0 2 9 11 5 1 0 1 4 0
+p699
+aVMichael Finley DAL 11/20/2003 DAL vs. SAS W 44 17 5 17 29.4 1 7 14.3 6 8 75.0 1 1 2 1 4 2 2 1 2
+p700
+aVDirk Nowitzki DAL 11/20/2003 DAL vs. SAS W 43 26 7 19 36.8 2 5 40.0 10 10 100.0 2 4 6 1 1 0 1 2 3
+p701
+aVAntawn Jamison DAL 11/20/2003 DAL vs. SAS W 16 2 0 1 0.0 0 0 - 2 2 100.0 0 8 8 0 1 0 1 2 8
+p702
+aVShawn Bradley DAL 11/20/2003 DAL vs. SAS W 22 5 2 4 50.0 0 0 - 1 1 100.0 2 5 7 1 0 3 0 5 -4
+p703
+aVAntawn Jamison DAL 11/17/2003 DAL vs. POR W 33 20 8 11 72.7 0 0 - 4 5 80.0 3 1 4 2 2 0 0 2 14
+p704
+aVMichael Finley DAL 11/17/2003 DAL vs. POR W 44 25 10 20 50.0 3 5 60.0 2 3 66.7 3 4 7 4 1 0 0 1 11
+p705
+aVDanny Fortson DAL 11/17/2003 DAL vs. POR W 18 4 2 4 50.0 0 0 - 0 2 0.0 5 2 7 0 0 0 1 3 -2
+p706
+aVDirk Nowitzki DAL 11/17/2003 DAL vs. POR W 38 20 8 19 42.1 2 5 40.0 2 2 100.0 2 6 8 5 0 3 1 4 9
+p707
+aVTravis Best DAL 11/17/2003 DAL vs. POR W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -14
+p708
+aVEduardo Najera DAL 11/17/2003 DAL vs. POR W 14 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 1 1 1 1 1 1
+p709
+aVAntoine Walker DAL 11/17/2003 DAL vs. POR W 40 14 5 14 35.7 2 5 40.0 2 4 50.0 0 6 6 1 2 0 3 6 -1
+p710
+aVJosh Howard DAL 11/17/2003 DAL vs. POR W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -4
+p711
+aVSteve Nash DAL 11/17/2003 DAL vs. POR W 40 14 5 11 45.5 2 4 50.0 2 2 100.0 4 6 10 12 0 0 3 1 21
+p712
+aVDanny Fortson DAL 11/15/2003 DAL @ MEM L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p713
+aVDirk Nowitzki DAL 11/15/2003 DAL @ MEM L 39 19 7 14 50.0 0 1 0.0 5 8 62.5 3 8 11 2 2 1 6 6 -6
+p714
+aVShawn Bradley DAL 11/15/2003 DAL @ MEM L 20 4 1 3 33.3 0 0 - 2 2 100.0 2 4 6 0 3 5 0 2 -6
+p715
+aVAntawn Jamison DAL 11/15/2003 DAL @ MEM L 29 8 4 15 26.7 0 1 0.0 0 0 - 4 5 9 2 1 0 0 1 8
+p716
+aVSteve Nash DAL 11/15/2003 DAL @ MEM L 39 16 5 13 38.5 1 4 25.0 5 5 100.0 2 3 5 8 1 0 8 1 -12
+p717
+aVAntoine Walker DAL 11/15/2003 DAL @ MEM L 44 15 6 18 33.3 2 8 25.0 1 5 20.0 4 6 10 6 0 0 1 5 -6
+p718
+aVEduardo Najera DAL 11/15/2003 DAL @ MEM L 14 10 5 6 83.3 0 0 - 0 0 - 1 1 2 0 2 1 0 3 6
+p719
+aVMichael Finley DAL 11/15/2003 DAL @ MEM L 46 19 8 17 47.1 3 4 75.0 0 0 - 1 6 7 2 1 1 2 3 -14
+p720
+aVTravis Best DAL 11/15/2003 DAL @ MEM L 14 2 0 4 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 5
+p721
+aVJosh Howard DAL 11/15/2003 DAL @ MEM L 14 8 3 7 42.9 0 1 0.0 2 5 40.0 1 4 5 2 0 0 0 2 1
+p722
+aVMarquis Daniels DAL 11/13/2003 DAL vs. HOU W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p723
+aVDirk Nowitzki DAL 11/13/2003 DAL vs. HOU W 38 23 9 16 56.3 0 4 0.0 5 6 83.3 0 5 5 1 0 1 1 1 13
+p724
+aVAntoine Walker DAL 11/13/2003 DAL vs. HOU W 35 17 6 13 46.2 0 3 0.0 5 7 71.4 3 9 12 7 1 1 2 2 12
+p725
+aVMichael Finley DAL 11/13/2003 DAL vs. HOU W 45 14 6 11 54.5 0 4 0.0 2 2 100.0 3 1 4 2 1 2 0 1 8
+p726
+aVAntawn Jamison DAL 11/13/2003 DAL vs. HOU W 23 13 6 15 40.0 0 1 0.0 1 1 100.0 3 5 8 0 0 0 0 0 2
+p727
+aVShawn Bradley DAL 11/13/2003 DAL vs. HOU W 16 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 0 3 1 0 4 13
+p728
+aVDanny Fortson DAL 11/13/2003 DAL vs. HOU W 14 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 2 -1
+p729
+aVSteve Nash DAL 11/13/2003 DAL vs. HOU W 35 16 4 7 57.1 1 2 50.0 7 8 87.5 0 5 5 7 0 0 4 3 23
+p730
+aVJosh Howard DAL 11/13/2003 DAL vs. HOU W 17 7 3 10 30.0 1 3 33.3 0 0 - 1 4 5 0 3 1 0 3 3
+p731
+aVTravis Best DAL 11/13/2003 DAL vs. HOU W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -10
+p732
+aVEduardo Najera DAL 11/13/2003 DAL vs. HOU W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p733
+aVAntawn Jamison DAL 11/11/2003 DAL vs. NOH W 28 12 6 9 66.7 0 0 - 0 0 - 2 1 3 2 1 3 1 1 9
+p734
+aVJosh Howard DAL 11/11/2003 DAL vs. NOH W 7 7 3 3 100.0 1 1 100.0 0 0 - 1 2 3 1 0 0 0 3 -1
+p735
+aVShawn Bradley DAL 11/11/2003 DAL vs. NOH W 4 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 2 1 3
+p736
+aVMichael Finley DAL 11/11/2003 DAL vs. NOH W 36 20 8 20 40.0 2 6 33.3 2 2 100.0 4 1 5 6 1 0 1 4 34
+p737
+aVSteve Nash DAL 11/11/2003 DAL vs. NOH W 32 17 6 7 85.7 5 5 100.0 0 1 0.0 1 0 1 11 2 0 2 3 31
+p738
+aVDanny Fortson DAL 11/11/2003 DAL vs. NOH W 23 9 4 5 80.0 0 0 - 1 1 100.0 3 8 11 0 0 0 1 3 27
+p739
+aVAntoine Walker DAL 11/11/2003 DAL vs. NOH W 35 21 9 16 56.3 0 3 0.0 3 3 100.0 4 5 9 6 1 1 2 2 22
+p740
+aVTravis Best DAL 11/11/2003 DAL vs. NOH W 24 12 6 12 50.0 0 1 0.0 0 0 - 0 1 1 5 2 0 2 2 -3
+p741
+aVDirk Nowitzki DAL 11/11/2003 DAL vs. NOH W 30 18 8 12 66.7 1 3 33.3 1 1 100.0 0 5 5 4 1 1 2 2 27
+p742
+aVMarquis Daniels DAL 11/11/2003 DAL vs. NOH W 8 6 3 5 60.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -2
+p743
+aVEduardo Najera DAL 11/11/2003 DAL vs. NOH W 13 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 2 1 1 2 1 -7
+p744
+aVTravis Best DAL 11/08/2003 DAL @ SAS W 10 0 0 5 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p745
+aVShawn Bradley DAL 11/08/2003 DAL @ SAS W 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 0
+p746
+aVAntawn Jamison DAL 11/08/2003 DAL @ SAS W 32 20 8 15 53.3 0 0 - 4 6 66.7 4 5 9 1 0 0 0 1 8
+p747
+aVEduardo Najera DAL 11/08/2003 DAL @ SAS W 14 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 1 0 1 1 -1
+p748
+aVAntoine Walker DAL 11/08/2003 DAL @ SAS W 36 9 4 12 33.3 1 4 25.0 0 0 - 4 4 8 1 0 1 3 3 2
+p749
+aVDanny Fortson DAL 11/08/2003 DAL @ SAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p750
+aVTony Delk DAL 11/08/2003 DAL @ SAS W 29 12 6 12 50.0 0 3 0.0 0 1 0.0 2 2 4 1 1 0 1 2 -4
+p751
+aVDirk Nowitzki DAL 11/08/2003 DAL @ SAS W 40 15 7 18 38.9 1 7 14.3 0 2 0.0 0 11 11 3 3 0 5 2 3
+p752
+aVMichael Finley DAL 11/08/2003 DAL @ SAS W 36 7 2 8 25.0 1 3 33.3 2 2 100.0 1 2 3 5 4 1 0 3 2
+p753
+aVSteve Nash DAL 11/08/2003 DAL @ SAS W 38 15 6 12 50.0 2 3 66.7 1 2 50.0 0 3 3 6 0 0 3 4 2
+p754
+aVAntawn Jamison DAL 11/06/2003 DAL @ TOR L 21 2 1 6 16.7 0 0 - 0 0 - 1 1 2 3 0 0 0 1 -14
+p755
+aVMichael Finley DAL 11/06/2003 DAL @ TOR L 40 11 4 13 30.8 1 3 33.3 2 2 100.0 1 2 3 1 0 0 2 2 1
+p756
+aVEduardo Najera DAL 11/06/2003 DAL @ TOR L 30 9 4 7 57.1 0 0 - 1 2 50.0 3 5 8 0 2 0 1 2 6
+p757
+aVShawn Bradley DAL 11/06/2003 DAL @ TOR L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -5
+p758
+aVMarquis Daniels DAL 11/06/2003 DAL @ TOR L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -3
+p759
+aVDirk Nowitzki DAL 11/06/2003 DAL @ TOR L 42 27 11 20 55.0 1 2 50.0 4 4 100.0 0 5 5 3 0 3 4 4 -6
+p760
+aVJosh Howard DAL 11/06/2003 DAL @ TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p761
+aVTravis Best DAL 11/06/2003 DAL @ TOR L 13 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 2 1 0 0 1 -10
+p762
+aVTony Delk DAL 11/06/2003 DAL @ TOR L 36 6 2 7 28.6 1 2 50.0 1 2 50.0 2 5 7 3 2 1 1 4 2
+p763
+aVAntoine Walker DAL 11/06/2003 DAL @ TOR L 39 14 6 20 30.0 1 4 25.0 1 1 100.0 8 9 17 7 1 2 9 0 0
+p764
+aVDanny Fortson DAL 11/05/2003 DAL @ WAS L 11 7 3 5 60.0 0 0 - 1 1 100.0 3 2 5 0 0 0 2 4 4
+p765
+aVJosh Howard DAL 11/05/2003 DAL @ WAS L 12 0 0 6 0.0 0 1 0.0 0 0 - 0 2 2 1 1 1 2 0 10
+p766
+aVAntawn Jamison DAL 11/05/2003 DAL @ WAS L 33 21 9 15 60.0 0 1 0.0 3 4 75.0 5 4 9 1 0 0 3 0 -11
+p767
+aVMarquis Daniels DAL 11/05/2003 DAL @ WAS L 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 7
+p768
+aVSteve Nash DAL 11/05/2003 DAL @ WAS L 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 0 2 2 -4
+p769
+aVEduardo Najera DAL 11/05/2003 DAL @ WAS L 7 3 1 2 50.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 0 9
+p770
+aVShawn Bradley DAL 11/05/2003 DAL @ WAS L 14 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 3 0 2 4
+p771
+aVTravis Best DAL 11/05/2003 DAL @ WAS L 27 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 3 0 0 0 3 7
+p772
+aVMichael Finley DAL 11/05/2003 DAL @ WAS L 36 11 3 13 23.1 0 1 0.0 5 7 71.4 0 4 4 5 2 0 2 0 -18
+p773
+aVAntoine Walker DAL 11/05/2003 DAL @ WAS L 35 18 8 16 50.0 2 6 33.3 0 0 - 2 6 8 5 0 1 1 1 -24
+p774
+aVDirk Nowitzki DAL 11/05/2003 DAL @ WAS L 33 9 1 9 11.1 0 1 0.0 7 8 87.5 0 2 2 3 2 0 2 2 -16
+p775
+aVTony Delk DAL 11/05/2003 DAL @ WAS L 19 7 2 6 33.3 0 1 0.0 3 4 75.0 1 1 2 2 2 0 1 1 -18
+p776
+aVTravis Best DAL 11/03/2003 DAL vs. MIA W 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -2
+p777
+aVTony Delk DAL 11/03/2003 DAL vs. MIA W 28 17 6 9 66.7 3 6 50.0 2 2 100.0 1 2 3 0 1 1 0 2 6
+p778
+aVAntawn Jamison DAL 11/03/2003 DAL vs. MIA W 23 10 5 10 50.0 0 0 - 0 0 - 1 5 6 0 1 0 1 0 -4
+p779
+aVEduardo Najera DAL 11/03/2003 DAL vs. MIA W 19 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 1 1 2 7
+p780
+aVShawn Bradley DAL 11/03/2003 DAL vs. MIA W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p781
+aVSteve Nash DAL 11/03/2003 DAL vs. MIA W 35 18 4 8 50.0 2 2 100.0 8 9 88.9 0 3 3 11 2 0 4 1 9
+p782
+aVDirk Nowitzki DAL 11/03/2003 DAL vs. MIA W 43 30 12 22 54.5 2 6 33.3 4 4 100.0 1 5 6 3 0 0 2 3 17
+p783
+aVAntoine Walker DAL 11/03/2003 DAL vs. MIA W 34 13 6 14 42.9 1 4 25.0 0 0 - 1 8 9 6 1 1 3 1 8
+p784
+aVMichael Finley DAL 11/03/2003 DAL vs. MIA W 35 11 4 10 40.0 1 1 100.0 2 2 100.0 0 7 7 2 1 1 0 0 11
+p785
+aVAntawn Jamison DAL 11/01/2003 DAL vs. UTA W 33 18 6 15 40.0 0 1 0.0 6 7 85.7 3 7 10 4 1 1 3 3 22
+p786
+aVEduardo Najera DAL 11/01/2003 DAL vs. UTA W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 6
+p787
+aVDanny Fortson DAL 11/01/2003 DAL vs. UTA W 9 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 0 1 0 2 3
+p788
+aVTony Delk DAL 11/01/2003 DAL vs. UTA W 25 22 7 13 53.8 4 7 57.1 4 5 80.0 3 4 7 2 3 0 0 1 21
+p789
+aVAntoine Walker DAL 11/01/2003 DAL vs. UTA W 33 16 6 10 60.0 2 3 66.7 2 3 66.7 0 4 4 6 0 0 1 2 17
+p790
+aVMarquis Daniels DAL 11/01/2003 DAL vs. UTA W 8 10 4 7 57.1 0 0 - 2 2 100.0 1 0 1 0 2 0 0 0 -1
+p791
+aVSteve Nash DAL 11/01/2003 DAL vs. UTA W 23 12 4 10 40.0 0 4 0.0 4 4 100.0 1 3 4 7 0 0 1 4 11
+p792
+aVTravis Best DAL 11/01/2003 DAL vs. UTA W 25 6 2 7 28.6 0 1 0.0 2 3 66.7 0 3 3 3 0 0 0 3 14
+p793
+aVMichael Finley DAL 11/01/2003 DAL vs. UTA W 36 16 6 11 54.5 1 4 25.0 3 4 75.0 1 4 5 3 1 0 1 1 7
+p794
+aVShawn Bradley DAL 11/01/2003 DAL vs. UTA W 10 6 2 3 66.7 0 0 - 2 2 100.0 4 2 6 0 1 0 0 1 9
+p795
+aVDirk Nowitzki DAL 11/01/2003 DAL vs. UTA W 25 15 6 8 75.0 2 3 66.7 1 1 100.0 0 3 3 3 1 2 1 4 16
+p796
+aVShawn Bradley DAL 10/29/2003 DAL @ GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p797
+aVTony Delk DAL 10/29/2003 DAL @ GSW W 13 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 1 2 1
+p798
+aVDanny Fortson DAL 10/29/2003 DAL @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p799
+aVAntawn Jamison DAL 10/29/2003 DAL @ GSW W 16 5 1 6 16.7 0 0 - 3 5 60.0 2 0 2 0 0 0 1 1 -5
+p800
+aVAntoine Walker DAL 10/29/2003 DAL @ GSW W 42 20 10 20 50.0 0 4 0.0 0 1 0.0 5 9 14 4 1 0 3 2 3
+p801
+aVSteve Nash DAL 10/29/2003 DAL @ GSW W 38 16 3 9 33.3 1 4 25.0 9 10 90.0 0 5 5 11 0 0 2 0 14
+p802
+aVJosh Howard DAL 10/29/2003 DAL @ GSW W 12 6 3 7 42.9 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -3
+p803
+aVTravis Best DAL 10/29/2003 DAL @ GSW W 10 6 1 1 100.0 0 0 - 4 4 100.0 0 1 1 1 0 0 0 2 -6
+p804
+aVMichael Finley DAL 10/29/2003 DAL @ GSW W 42 7 3 8 37.5 1 3 33.3 0 0 - 1 9 10 1 2 0 4 4 18
+p805
+aVDirk Nowitzki DAL 10/29/2003 DAL @ GSW W 45 29 11 18 61.1 0 1 0.0 7 7 100.0 2 13 15 1 3 4 3 3 19
+p806
+aVEduardo Najera DAL 10/29/2003 DAL @ GSW W 19 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 2 1 0 1 12
+p807
+aVAntawn Jamison DAL 10/28/2003 DAL @ LAL L 33 17 7 13 53.8 1 1 100.0 2 4 50.0 3 3 6 1 0 0 0 2 2
+p808
+aVEduardo Najera DAL 10/28/2003 DAL @ LAL L 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 0 2 3
+p809
+aVAntoine Walker DAL 10/28/2003 DAL @ LAL L 33 19 7 13 53.8 5 6 83.3 0 0 - 2 5 7 1 0 0 2 3 -16
+p810
+aVJosh Howard DAL 10/28/2003 DAL @ LAL L 5 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 0
+p811
+aVTravis Best DAL 10/28/2003 DAL @ LAL L 16 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 4 2 0 1 2 8
+p812
+aVMarquis Daniels DAL 10/28/2003 DAL @ LAL L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p813
+aVDirk Nowitzki DAL 10/28/2003 DAL @ LAL L 33 19 5 17 29.4 0 6 0.0 9 12 75.0 3 10 13 1 1 1 3 2 -20
+p814
+aVShawn Bradley DAL 10/28/2003 DAL @ LAL L 4 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p815
+aVTony Delk DAL 10/28/2003 DAL @ LAL L 27 7 2 9 22.2 1 3 33.3 2 2 100.0 1 5 6 1 0 0 0 3 0
+p816
+aVMichael Finley DAL 10/28/2003 DAL @ LAL L 30 12 2 8 25.0 0 4 0.0 8 8 100.0 0 4 4 1 0 0 1 1 -14
+p817
+aVDanny Fortson DAL 10/28/2003 DAL @ LAL L 14 0 0 0 - 0 0 - 0 2 0.0 0 3 3 0 0 0 0 1 -23
+p818
+aVSteve Nash DAL 10/28/2003 DAL @ LAL L 28 8 4 10 40.0 0 4 0.0 0 0 - 0 0 0 7 0 0 4 4 -24
+p819
+a.

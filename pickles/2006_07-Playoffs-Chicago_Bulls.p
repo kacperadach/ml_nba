@@ -1,0 +1,200 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBen Wallace CHI 05/17/2007 CHI vs. DET L 29 6 2 2 100.0 0 0 - 2 8 25.0 2 5 7 0 2 1 0 0 -17
+p2
+aVBen Gordon CHI 05/17/2007 CHI vs. DET L 45 19 7 18 38.9 4 9 44.4 1 1 100.0 0 3 3 3 2 0 3 3 -8
+p3
+aVLuol Deng CHI 05/17/2007 CHI vs. DET L 44 17 7 14 50.0 0 0 - 3 4 75.0 3 2 5 4 0 0 1 3 -12
+p4
+aVChris Duhon CHI 05/17/2007 CHI vs. DET L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -4
+p5
+aVP.J. Brown CHI 05/17/2007 CHI vs. DET L 31 20 7 15 46.7 0 0 - 6 6 100.0 3 2 5 3 0 0 1 3 -6
+p6
+aVThabo Sefolosha CHI 05/17/2007 CHI vs. DET L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p7
+aVKirk Hinrich CHI 05/17/2007 CHI vs. DET L 43 11 3 13 23.1 0 3 0.0 5 7 71.4 0 3 3 11 0 0 2 5 -9
+p8
+aVAdrian Griffin CHI 05/17/2007 CHI vs. DET L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p9
+aVAndres Nocioni CHI 05/17/2007 CHI vs. DET L 19 10 2 7 28.6 1 3 33.3 5 5 100.0 1 5 6 0 1 0 0 5 7
+p10
+aVTyrus Thomas CHI 05/17/2007 CHI vs. DET L 15 2 0 0 - 0 0 - 2 4 50.0 1 4 5 1 0 0 3 4 -2
+p11
+aVP.J. Brown CHI 05/15/2007 CHI @ DET W 31 15 7 9 77.8 0 0 - 1 2 50.0 2 6 8 3 0 1 0 3 17
+p12
+aVKirk Hinrich CHI 05/15/2007 CHI @ DET W 36 17 6 15 40.0 3 7 42.9 2 2 100.0 1 4 5 13 1 0 3 3 20
+p13
+aVTyrus Thomas CHI 05/15/2007 CHI @ DET W 21 10 5 7 71.4 0 0 - 0 2 0.0 1 5 6 1 5 1 2 5 -2
+p14
+aVChris Duhon CHI 05/15/2007 CHI @ DET W 21 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 1 1 0 1 2 -5
+p15
+aVAdrian Griffin CHI 05/15/2007 CHI @ DET W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -5
+p16
+aVAndres Nocioni CHI 05/15/2007 CHI @ DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p17
+aVThabo Sefolosha CHI 05/15/2007 CHI @ DET W 11 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 1 -3
+p18
+aVLuol Deng CHI 05/15/2007 CHI @ DET W 38 20 8 13 61.5 0 0 - 4 4 100.0 2 5 7 4 0 2 1 0 18
+p19
+aVBen Wallace CHI 05/15/2007 CHI @ DET W 36 6 2 3 66.7 0 0 - 2 6 33.3 3 2 5 4 1 2 2 2 17
+p20
+aVBen Gordon CHI 05/15/2007 CHI @ DET W 35 28 10 16 62.5 5 6 83.3 3 3 100.0 0 0 0 1 1 0 2 4 25
+p21
+aVMalik Allen CHI 05/15/2007 CHI @ DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p22
+aVBen Gordon CHI 05/13/2007 CHI vs. DET W 39 19 4 11 36.4 2 3 66.7 9 9 100.0 1 4 5 4 0 0 2 5 27
+p23
+aVBen Wallace CHI 05/13/2007 CHI vs. DET W 41 11 3 4 75.0 0 0 - 5 8 62.5 4 13 17 3 2 2 1 3 22
+p24
+aVAndres Nocioni CHI 05/13/2007 CHI vs. DET W 15 9 4 8 50.0 1 3 33.3 0 0 - 0 2 2 0 0 1 1 4 -4
+p25
+aVChris Duhon CHI 05/13/2007 CHI vs. DET W 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 1 1 0 -15
+p26
+aVP.J. Brown CHI 05/13/2007 CHI vs. DET W 26 6 3 9 33.3 0 0 - 0 0 - 0 3 3 0 1 0 2 3 0
+p27
+aVTyrus Thomas CHI 05/13/2007 CHI vs. DET W 14 10 3 8 37.5 0 0 - 4 6 66.7 4 3 7 0 0 1 2 1 12
+p28
+aVKirk Hinrich CHI 05/13/2007 CHI vs. DET W 46 19 7 15 46.7 1 5 20.0 4 6 66.7 0 4 4 10 2 0 5 3 18
+p29
+aVLuol Deng CHI 05/13/2007 CHI vs. DET W 48 25 10 15 66.7 0 0 - 5 6 83.3 6 7 13 1 0 0 4 2 15
+p30
+aVKirk Hinrich CHI 05/10/2007 CHI vs. DET L 47 13 6 15 40.0 1 5 20.0 0 0 - 1 10 11 7 0 1 3 3 -5
+p31
+aVThabo Sefolosha CHI 05/10/2007 CHI vs. DET L 5 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -3
+p32
+aVAndres Nocioni CHI 05/10/2007 CHI vs. DET L 17 7 3 7 42.9 1 4 25.0 0 2 0.0 0 2 2 0 0 0 0 1 1
+p33
+aVBen Wallace CHI 05/10/2007 CHI vs. DET L 40 5 2 6 33.3 0 0 - 1 2 50.0 6 6 12 0 1 2 2 2 -4
+p34
+aVBen Gordon CHI 05/10/2007 CHI vs. DET L 44 16 4 16 25.0 0 3 0.0 8 8 100.0 1 5 6 3 0 0 3 4 -6
+p35
+aVTyrus Thomas CHI 05/10/2007 CHI vs. DET L 9 2 1 6 16.7 0 0 - 0 0 - 3 1 4 0 0 0 1 1 1
+p36
+aVP.J. Brown CHI 05/10/2007 CHI vs. DET L 38 10 4 9 44.4 0 0 - 2 4 50.0 5 5 10 0 2 1 1 3 -3
+p37
+aVLuol Deng CHI 05/10/2007 CHI vs. DET L 41 21 8 22 36.4 0 1 0.0 5 8 62.5 5 9 14 2 0 2 2 2 -16
+p38
+aVMalik Allen CHI 05/07/2007 CHI @ DET L 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p39
+aVKirk Hinrich CHI 05/07/2007 CHI @ DET L 34 2 0 7 0.0 0 4 0.0 2 4 50.0 0 6 6 7 0 1 1 4 -29
+p40
+aVThabo Sefolosha CHI 05/07/2007 CHI @ DET L 17 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 2 0 0 1 1 -4
+p41
+aVLuol Deng CHI 05/07/2007 CHI @ DET L 40 16 4 12 33.3 0 0 - 8 8 100.0 1 3 4 0 2 0 1 2 -15
+p42
+aVMichael Sweetney CHI 05/07/2007 CHI @ DET L 3 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -6
+p43
+aVAndres Nocioni CHI 05/07/2007 CHI @ DET L 22 12 4 10 40.0 1 6 16.7 3 5 60.0 0 1 1 2 0 0 4 1 0
+p44
+aVTyrus Thomas CHI 05/07/2007 CHI @ DET L 22 18 5 9 55.6 0 0 - 8 11 72.7 1 3 4 1 3 1 1 5 -9
+p45
+aVBen Wallace CHI 05/07/2007 CHI @ DET L 29 13 4 9 44.4 0 1 0.0 5 9 55.6 2 5 7 0 1 3 0 1 -14
+p46
+aVAdrian Griffin CHI 05/07/2007 CHI @ DET L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p47
+aVBen Gordon CHI 05/07/2007 CHI @ DET L 34 13 3 7 42.9 2 4 50.0 5 5 100.0 1 0 1 1 1 0 3 4 -2
+p48
+aVChris Duhon CHI 05/07/2007 CHI @ DET L 22 3 0 4 0.0 0 3 0.0 3 4 75.0 1 0 1 6 1 0 1 2 -5
+p49
+aVP.J. Brown CHI 05/07/2007 CHI @ DET L 8 3 0 0 - 0 0 - 3 4 75.0 1 0 1 0 1 0 1 2 -13
+p50
+aVP.J. Brown CHI 05/05/2007 CHI @ DET L 13 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 0 0 0 0 4 -3
+p51
+aVLuol Deng CHI 05/05/2007 CHI @ DET L 34 18 7 16 43.8 0 0 - 4 7 57.1 3 5 8 1 1 0 4 3 -19
+p52
+aVTyrus Thomas CHI 05/05/2007 CHI @ DET L 19 5 1 5 20.0 0 0 - 3 4 75.0 1 4 5 1 1 0 5 4 -12
+p53
+aVBen Gordon CHI 05/05/2007 CHI @ DET L 27 7 2 9 22.2 1 5 20.0 2 2 100.0 1 1 2 4 0 0 2 3 -11
+p54
+aVThabo Sefolosha CHI 05/05/2007 CHI @ DET L 18 5 0 3 0.0 0 1 0.0 5 8 62.5 0 2 2 1 1 0 0 0 -1
+p55
+aVChris Duhon CHI 05/05/2007 CHI @ DET L 26 5 1 7 14.3 1 4 25.0 2 2 100.0 0 1 1 0 0 0 1 1 -25
+p56
+aVKirk Hinrich CHI 05/05/2007 CHI @ DET L 36 15 6 7 85.7 3 3 100.0 0 0 - 0 4 4 6 1 0 1 1 -16
+p57
+aVAndres Nocioni CHI 05/05/2007 CHI @ DET L 18 2 1 8 12.5 0 4 0.0 0 0 - 0 2 2 0 0 0 4 0 -8
+p58
+aVMalik Allen CHI 05/05/2007 CHI @ DET L 16 0 0 7 0.0 0 0 - 0 0 - 2 2 4 0 1 1 2 3 -13
+p59
+aVBen Wallace CHI 05/05/2007 CHI @ DET L 35 9 4 5 80.0 0 0 - 1 3 33.3 2 6 8 0 2 1 2 0 -22
+p60
+aVTyrus Thomas CHI 04/29/2007 CHI @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p61
+aVChris Duhon CHI 04/29/2007 CHI @ MIA W 19 6 2 4 50.0 2 3 66.7 0 0 - 1 0 1 3 0 0 0 2 12
+p62
+aVKirk Hinrich CHI 04/29/2007 CHI @ MIA W 31 6 2 12 16.7 2 6 33.3 0 0 - 1 2 3 4 2 1 0 4 4
+p63
+aVThabo Sefolosha CHI 04/29/2007 CHI @ MIA W 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 5
+p64
+aVMalik Allen CHI 04/29/2007 CHI @ MIA W 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -2
+p65
+aVP.J. Brown CHI 04/29/2007 CHI @ MIA W 19 8 4 10 40.0 0 0 - 0 1 0.0 1 4 5 1 0 0 0 2 3
+p66
+aVAndres Nocioni CHI 04/29/2007 CHI @ MIA W 26 11 4 14 28.6 2 5 40.0 1 2 50.0 0 5 5 1 1 0 0 2 10
+p67
+aVBen Gordon CHI 04/29/2007 CHI @ MIA W 45 24 6 16 37.5 3 7 42.9 9 10 90.0 1 1 2 4 3 0 2 3 8
+p68
+aVBen Wallace CHI 04/29/2007 CHI @ MIA W 36 13 3 6 50.0 0 0 - 7 8 87.5 2 9 11 2 1 1 1 4 10
+p69
+aVLuol Deng CHI 04/29/2007 CHI @ MIA W 43 22 10 18 55.6 0 0 - 2 3 66.7 3 9 12 1 4 0 1 0 13
+p70
+aVKirk Hinrich CHI 04/27/2007 CHI @ MIA W 42 22 7 14 50.0 1 4 25.0 7 7 100.0 0 1 1 6 1 0 2 4 15
+p71
+aVAndres Nocioni CHI 04/27/2007 CHI @ MIA W 28 10 4 9 44.4 2 4 50.0 0 0 - 1 7 8 2 0 2 2 5 6
+p72
+aVLuol Deng CHI 04/27/2007 CHI @ MIA W 37 24 9 17 52.9 0 0 - 6 8 75.0 2 9 11 3 0 1 5 5 7
+p73
+aVBen Gordon CHI 04/27/2007 CHI @ MIA W 38 27 7 16 43.8 2 5 40.0 11 14 78.6 1 4 5 2 0 0 6 4 3
+p74
+aVP.J. Brown CHI 04/27/2007 CHI @ MIA W 17 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 1 0 0 1 4 3
+p75
+aVTyrus Thomas CHI 04/27/2007 CHI @ MIA W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -8
+p76
+aVThabo Sefolosha CHI 04/27/2007 CHI @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -11
+p77
+aVBen Wallace CHI 04/27/2007 CHI @ MIA W 41 11 4 6 66.7 0 0 - 3 6 50.0 0 8 8 2 3 1 0 3 5
+p78
+aVChris Duhon CHI 04/27/2007 CHI @ MIA W 31 4 2 4 50.0 0 2 0.0 0 0 - 1 5 6 4 1 0 0 1 20
+p79
+aVMalik Allen CHI 04/24/2007 CHI vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p80
+aVBen Gordon CHI 04/24/2007 CHI vs. MIA W 44 27 11 19 57.9 5 8 62.5 0 0 - 2 5 7 5 1 1 6 2 19
+p81
+aVTyrus Thomas CHI 04/24/2007 CHI vs. MIA W 7 2 0 2 0.0 0 0 - 2 3 66.7 0 1 1 2 1 0 0 1 -2
+p82
+aVP.J. Brown CHI 04/24/2007 CHI vs. MIA W 31 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 2 4 0 2 1 26
+p83
+aVBen Wallace CHI 04/24/2007 CHI vs. MIA W 38 9 4 6 66.7 0 0 - 1 2 50.0 2 4 6 2 2 3 0 2 19
+p84
+aVChris Duhon CHI 04/24/2007 CHI vs. MIA W 18 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 2 0 0 2 2 -2
+p85
+aVAdrian Griffin CHI 04/24/2007 CHI vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p86
+aVAndres Nocioni CHI 04/24/2007 CHI vs. MIA W 19 10 3 7 42.9 3 4 75.0 1 1 100.0 1 4 5 1 0 0 1 2 -7
+p87
+aVKirk Hinrich CHI 04/24/2007 CHI vs. MIA W 28 14 6 12 50.0 2 2 100.0 0 0 - 1 2 3 8 1 0 2 5 10
+p88
+aVThabo Sefolosha CHI 04/24/2007 CHI vs. MIA W 13 9 4 5 80.0 1 1 100.0 0 0 - 0 3 3 0 0 0 2 1 11
+p89
+aVLuol Deng CHI 04/24/2007 CHI vs. MIA W 39 26 11 19 57.9 0 0 - 4 4 100.0 3 2 5 6 2 1 3 2 20
+p90
+aVLuol Deng CHI 04/21/2007 CHI vs. MIA W 46 33 14 22 63.6 0 0 - 5 5 100.0 2 6 8 2 1 1 1 3 7
+p91
+aVKirk Hinrich CHI 04/21/2007 CHI vs. MIA W 19 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 3 1 0 4 5 -7
+p92
+aVBen Wallace CHI 04/21/2007 CHI vs. MIA W 45 4 2 6 33.3 0 0 - 0 2 0.0 6 8 14 1 0 1 2 2 8
+p93
+aVTyrus Thomas CHI 04/21/2007 CHI vs. MIA W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -3
+p94
+aVChris Duhon CHI 04/21/2007 CHI vs. MIA W 16 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 4 0 0 0 2 -7
+p95
+aVP.J. Brown CHI 04/21/2007 CHI vs. MIA W 14 2 1 2 50.0 0 0 - 0 0 - 2 3 5 2 0 0 0 4 2
+p96
+aVBen Gordon CHI 04/21/2007 CHI vs. MIA W 43 24 7 19 36.8 0 5 0.0 10 11 90.9 1 6 7 11 1 0 5 2 16
+p97
+aVThabo Sefolosha CHI 04/21/2007 CHI vs. MIA W 18 9 3 6 50.0 1 2 50.0 2 2 100.0 2 2 4 2 1 0 0 1 8
+p98
+aVAndres Nocioni CHI 04/21/2007 CHI vs. MIA W 30 17 6 15 40.0 2 6 33.3 3 3 100.0 0 4 4 2 0 2 1 4 1
+p99
+a.

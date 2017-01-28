@@ -1,0 +1,1692 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVIsaiah Rider POR 04/20/1997 POR vs. LAL W 41 20 7 12 58.3 1 1 100.0 5 6 83.3 0 4 4 2 0 0 6 1 -1
+p2
+aVGary Trent POR 04/20/1997 POR vs. LAL W 16 9 4 8 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 0 -3
+p3
+aVStacey Augmon POR 04/20/1997 POR vs. LAL W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 5
+p4
+aVJermaine O'Neal POR 04/20/1997 POR vs. LAL W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 4
+p5
+aVRasheed Wallace POR 04/20/1997 POR vs. LAL W 30 11 4 9 44.4 0 0 - 3 6 50.0 1 6 7 0 1 0 3 4 10
+p6
+aVKenny Anderson POR 04/20/1997 POR vs. LAL W 44 18 7 16 43.8 2 5 40.0 2 2 100.0 2 3 5 4 2 0 1 0 1
+p7
+aVArvydas Sabonis POR 04/20/1997 POR vs. LAL W 29 16 5 9 55.6 1 2 50.0 5 6 83.3 3 6 9 4 1 2 3 5 6
+p8
+aVDontonio Wingfield POR 04/20/1997 POR vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p9
+aVChris Dudley POR 04/20/1997 POR vs. LAL W 18 1 0 0 - 0 0 - 1 2 50.0 2 2 4 1 0 0 0 3 -3
+p10
+aVRumeal Robinson POR 04/20/1997 POR vs. LAL W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 3
+p11
+aVClifford Robinson POR 04/20/1997 POR vs. LAL W 45 18 5 10 50.0 1 4 25.0 7 8 87.5 2 4 6 7 3 0 2 4 0
+p12
+aVMitchell Butler POR 04/20/1997 POR vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p13
+aVArvydas Sabonis POR 04/17/1997 POR @ VAN W 22 15 6 9 66.7 1 1 100.0 2 2 100.0 4 5 9 1 0 0 2 5 8
+p14
+aVMitchell Butler POR 04/17/1997 POR @ VAN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 11
+p15
+aVStacey Augmon POR 04/17/1997 POR @ VAN W 24 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 4 0 0 1 1 28
+p16
+aVRasheed Wallace POR 04/17/1997 POR @ VAN W 36 25 10 15 66.7 0 1 0.0 5 7 71.4 0 5 5 2 1 1 2 2 22
+p17
+aVRumeal Robinson POR 04/17/1997 POR @ VAN W 22 14 6 9 66.7 1 3 33.3 1 1 100.0 0 2 2 7 1 0 2 4 20
+p18
+aVKenny Anderson POR 04/17/1997 POR @ VAN W 23 7 2 6 33.3 2 4 50.0 1 2 50.0 1 1 2 5 0 0 1 1 3
+p19
+aVClifford Robinson POR 04/17/1997 POR @ VAN W 34 7 2 7 28.6 0 2 0.0 3 5 60.0 0 1 1 3 6 1 1 1 3
+p20
+aVDontonio Wingfield POR 04/17/1997 POR @ VAN W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 11
+p21
+aVIsaiah Rider POR 04/17/1997 POR @ VAN W 24 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 0 0 1 2 4
+p22
+aVChris Dudley POR 04/17/1997 POR @ VAN W 26 11 3 5 60.0 0 0 - 5 8 62.5 2 7 9 0 1 1 0 3 24
+p23
+aVGary Trent POR 04/17/1997 POR @ VAN W 21 13 4 7 57.1 0 0 - 5 7 71.4 2 6 8 0 1 1 1 2 26
+p24
+aVRumeal Robinson POR 04/16/1997 POR vs. DEN W 21 6 1 7 14.3 0 0 - 4 4 100.0 0 0 0 3 3 0 2 2 8
+p25
+aVDontonio Wingfield POR 04/16/1997 POR vs. DEN W 18 13 6 11 54.5 1 3 33.3 0 1 0.0 5 2 7 0 0 1 4 3 5
+p26
+aVStacey Augmon POR 04/16/1997 POR vs. DEN W 21 10 5 7 71.4 0 0 - 0 0 - 1 2 3 1 1 0 1 2 8
+p27
+aVGary Trent POR 04/16/1997 POR vs. DEN W 29 20 8 15 53.3 0 0 - 4 5 80.0 3 8 11 1 1 0 3 1 19
+p28
+aVRasheed Wallace POR 04/16/1997 POR vs. DEN W 19 6 3 3 100.0 0 0 - 0 0 - 0 10 10 1 2 0 2 1 25
+p29
+aVChris Dudley POR 04/16/1997 POR vs. DEN W 22 5 2 8 25.0 0 0 - 1 2 50.0 4 8 12 1 0 0 0 0 14
+p30
+aVMitchell Butler POR 04/16/1997 POR vs. DEN W 27 11 5 6 83.3 0 0 - 1 2 50.0 2 2 4 1 1 0 2 1 36
+p31
+aVKenny Anderson POR 04/16/1997 POR vs. DEN W 27 16 4 14 28.6 2 6 33.3 6 6 100.0 0 1 1 10 5 0 0 0 36
+p32
+aVClifford Robinson POR 04/16/1997 POR vs. DEN W 30 10 4 10 40.0 0 3 0.0 2 3 66.7 1 3 4 1 1 0 5 5 39
+p33
+aVArvydas Sabonis POR 04/16/1997 POR vs. DEN W 26 10 5 13 38.5 0 1 0.0 0 1 0.0 2 10 12 2 1 1 0 0 30
+p34
+aVClifford Robinson POR 04/10/1997 POR @ SAS W 36 11 5 12 41.7 1 4 25.0 0 0 - 1 3 4 4 4 1 2 3 19
+p35
+aVDontonio Wingfield POR 04/10/1997 POR @ SAS W 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p36
+aVIsaiah Rider POR 04/10/1997 POR @ SAS W 24 12 5 9 55.6 0 1 0.0 2 2 100.0 0 1 1 3 0 0 4 3 15
+p37
+aVKenny Anderson POR 04/10/1997 POR @ SAS W 38 15 6 16 37.5 0 3 0.0 3 4 75.0 0 2 2 11 6 0 2 0 15
+p38
+aVRumeal Robinson POR 04/10/1997 POR @ SAS W 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 4 0 0 0 2 2
+p39
+aVChris Dudley POR 04/10/1997 POR @ SAS W 17 6 1 2 50.0 0 0 - 4 4 100.0 2 6 8 0 0 1 1 2 3
+p40
+aVRasheed Wallace POR 04/10/1997 POR @ SAS W 32 19 8 12 66.7 0 0 - 3 4 75.0 2 3 5 3 2 1 1 5 2
+p41
+aVMitchell Butler POR 04/10/1997 POR @ SAS W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 2
+p42
+aVStacey Augmon POR 04/10/1997 POR @ SAS W 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 0 2 2 6
+p43
+aVGary Trent POR 04/10/1997 POR @ SAS W 22 10 4 8 50.0 0 0 - 2 2 100.0 2 5 7 0 1 1 0 1 8
+p44
+aVArvydas Sabonis POR 04/10/1997 POR @ SAS W 31 18 7 11 63.6 0 0 - 4 6 66.7 2 10 12 1 0 3 1 5 14
+p45
+aVRumeal Robinson POR 04/08/1997 POR @ DAL L 8 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 2 1 0 1 0 7
+p46
+aVGary Trent POR 04/08/1997 POR @ DAL L 26 13 4 8 50.0 0 0 - 5 5 100.0 3 2 5 0 1 0 2 3 -10
+p47
+aVStacey Augmon POR 04/08/1997 POR @ DAL L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 2
+p48
+aVDontonio Wingfield POR 04/08/1997 POR @ DAL L 14 4 0 2 0.0 0 1 0.0 4 4 100.0 2 0 2 0 0 0 2 2 2
+p49
+aVJermaine O'Neal POR 04/08/1997 POR @ DAL L 10 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 0 1 1 1 2 10
+p50
+aVKenny Anderson POR 04/08/1997 POR @ DAL L 40 10 4 13 30.8 1 4 25.0 1 1 100.0 1 7 8 9 1 0 3 3 -12
+p51
+aVIsaiah Rider POR 04/08/1997 POR @ DAL L 35 12 4 13 30.8 2 4 50.0 2 2 100.0 0 3 3 1 1 2 1 4 -9
+p52
+aVChris Dudley POR 04/08/1997 POR @ DAL L 30 4 2 3 66.7 0 0 - 0 0 - 0 7 7 1 1 2 1 4 -4
+p53
+aVRasheed Wallace POR 04/08/1997 POR @ DAL L 26 10 4 8 50.0 0 0 - 2 4 50.0 1 2 3 1 1 1 1 3 0
+p54
+aVClifford Robinson POR 04/08/1997 POR @ DAL L 38 15 6 16 37.5 3 7 42.9 0 0 - 1 5 6 2 2 1 1 2 -11
+p55
+aVRumeal Robinson POR 04/07/1997 POR @ DEN W 15 5 1 3 33.3 1 1 100.0 2 2 100.0 1 3 4 4 0 0 2 2 -13
+p56
+aVIsaiah Rider POR 04/07/1997 POR @ DEN W 34 28 12 17 70.6 2 2 100.0 2 2 100.0 1 1 2 2 0 0 2 2 9
+p57
+aVChris Dudley POR 04/07/1997 POR @ DEN W 28 11 4 6 66.7 0 0 - 3 5 60.0 6 7 13 1 0 0 0 3 6
+p58
+aVClifford Robinson POR 04/07/1997 POR @ DEN W 37 23 9 17 52.9 3 5 60.0 2 2 100.0 0 7 7 2 2 2 1 5 5
+p59
+aVRasheed Wallace POR 04/07/1997 POR @ DEN W 32 17 8 18 44.4 0 1 0.0 1 3 33.3 3 4 7 1 1 2 1 1 13
+p60
+aVJermaine O'Neal POR 04/07/1997 POR @ DEN W 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 0
+p61
+aVDontonio Wingfield POR 04/07/1997 POR @ DEN W 9 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 5
+p62
+aVGary Trent POR 04/07/1997 POR @ DEN W 29 8 3 8 37.5 0 0 - 2 3 66.7 2 2 4 0 0 1 1 3 -12
+p63
+aVStacey Augmon POR 04/07/1997 POR @ DEN W 16 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 0 0 0 2 -2
+p64
+aVKenny Anderson POR 04/07/1997 POR @ DEN W 33 14 6 14 42.9 0 3 0.0 2 3 66.7 3 2 5 9 1 1 3 4 19
+p65
+aVGary Trent POR 04/05/1997 POR vs. PHX L 21 12 6 8 75.0 0 0 - 0 0 - 2 2 4 2 0 0 3 1 5
+p66
+aVRumeal Robinson POR 04/05/1997 POR vs. PHX L 9 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 1 2 4
+p67
+aVMitchell Butler POR 04/05/1997 POR vs. PHX L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p68
+aVArvydas Sabonis POR 04/05/1997 POR vs. PHX L 19 5 2 5 40.0 1 1 100.0 0 0 - 1 7 8 3 2 0 5 1 -7
+p69
+aVKenny Anderson POR 04/05/1997 POR vs. PHX L 39 22 8 18 44.4 1 5 20.0 5 6 83.3 0 3 3 6 2 0 3 6 -13
+p70
+aVClifford Robinson POR 04/05/1997 POR vs. PHX L 44 19 7 18 38.9 0 3 0.0 5 6 83.3 3 2 5 2 1 0 1 2 -11
+p71
+aVStacey Augmon POR 04/05/1997 POR vs. PHX L 21 4 2 5 40.0 0 0 - 0 0 - 1 2 3 3 0 0 2 3 1
+p72
+aVIsaiah Rider POR 04/05/1997 POR vs. PHX L 28 12 5 14 35.7 2 3 66.7 0 0 - 0 2 2 1 1 0 3 6 -10
+p73
+aVRasheed Wallace POR 04/05/1997 POR vs. PHX L 34 10 5 10 50.0 0 1 0.0 0 0 - 4 6 10 1 1 1 2 0 -15
+p74
+aVChris Dudley POR 04/05/1997 POR vs. PHX L 23 2 1 4 25.0 0 0 - 0 1 0.0 4 7 11 0 1 0 0 1 5
+p75
+aVKenny Anderson POR 04/04/1997 POR vs. MIL W 35 17 6 15 40.0 2 6 33.3 3 3 100.0 1 3 4 4 2 1 2 0 22
+p76
+aVDontonio Wingfield POR 04/04/1997 POR vs. MIL W 5 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 2
+p77
+aVClifford Robinson POR 04/04/1997 POR vs. MIL W 38 8 2 10 20.0 0 2 0.0 4 4 100.0 2 2 4 5 1 1 4 3 11
+p78
+aVRasheed Wallace POR 04/04/1997 POR vs. MIL W 17 8 4 8 50.0 0 0 - 0 1 0.0 1 3 4 0 1 0 1 4 1
+p79
+aVGary Trent POR 04/04/1997 POR vs. MIL W 22 8 3 6 50.0 0 0 - 2 6 33.3 3 7 10 3 0 1 0 2 12
+p80
+aVIsaiah Rider POR 04/04/1997 POR vs. MIL W 37 27 9 14 64.3 1 2 50.0 8 8 100.0 1 3 4 2 1 0 2 2 17
+p81
+aVJermaine O'Neal POR 04/04/1997 POR vs. MIL W 16 13 5 10 50.0 0 0 - 3 6 50.0 2 4 6 0 0 1 0 0 2
+p82
+aVStacey Augmon POR 04/04/1997 POR vs. MIL W 11 6 3 3 100.0 0 0 - 0 0 - 0 2 2 3 1 0 1 0 -2
+p83
+aVArvydas Sabonis POR 04/04/1997 POR vs. MIL W 25 16 6 10 60.0 1 2 50.0 3 3 100.0 1 7 8 2 0 1 4 1 20
+p84
+aVChris Dudley POR 04/04/1997 POR vs. MIL W 22 2 1 3 33.3 0 0 - 0 0 - 2 6 8 1 1 1 0 3 -3
+p85
+aVRumeal Robinson POR 04/04/1997 POR vs. MIL W 13 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 3 2 0 2 0 -7
+p86
+aVRasheed Wallace POR 04/01/1997 POR vs. GSW L 38 21 9 16 56.3 0 1 0.0 3 6 50.0 2 5 7 3 0 1 0 3 -8
+p87
+aVChris Dudley POR 04/01/1997 POR vs. GSW L 17 0 0 3 0.0 0 0 - 0 2 0.0 4 2 6 0 1 0 0 3 -14
+p88
+aVRumeal Robinson POR 04/01/1997 POR vs. GSW L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p89
+aVStacey Augmon POR 04/01/1997 POR vs. GSW L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 4 0 1 0 -10
+p90
+aVGary Trent POR 04/01/1997 POR vs. GSW L 21 8 3 6 50.0 0 0 - 2 2 100.0 1 5 6 1 1 1 1 3 7
+p91
+aVClifford Robinson POR 04/01/1997 POR vs. GSW L 39 9 3 13 23.1 1 5 20.0 2 2 100.0 1 1 2 7 1 0 1 1 -2
+p92
+aVMitchell Butler POR 04/01/1997 POR vs. GSW L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p93
+aVKenny Anderson POR 04/01/1997 POR vs. GSW L 41 11 3 11 27.3 1 3 33.3 4 6 66.7 2 3 5 4 5 0 1 4 -5
+p94
+aVIsaiah Rider POR 04/01/1997 POR vs. GSW L 39 21 9 24 37.5 1 7 14.3 2 2 100.0 1 3 4 2 1 0 3 3 -3
+p95
+aVArvydas Sabonis POR 04/01/1997 POR vs. GSW L 22 9 3 11 27.3 1 2 50.0 2 2 100.0 4 2 6 1 1 1 1 0 -1
+p96
+aVArvydas Sabonis POR 03/28/1997 POR vs. VAN W 22 18 7 10 70.0 1 2 50.0 3 4 75.0 1 5 6 1 3 2 1 3 20
+p97
+aVRasheed Wallace POR 03/28/1997 POR vs. VAN W 24 13 6 9 66.7 0 0 - 1 2 50.0 1 5 6 1 1 1 0 1 19
+p98
+aVStacey Augmon POR 03/28/1997 POR vs. VAN W 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 0 0 12
+p99
+aVDontonio Wingfield POR 03/28/1997 POR vs. VAN W 14 4 2 8 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 2
+p100
+aVIsaiah Rider POR 03/28/1997 POR vs. VAN W 24 8 3 8 37.5 0 3 0.0 2 2 100.0 0 0 0 3 0 0 1 2 19
+p101
+aVRumeal Robinson POR 03/28/1997 POR vs. VAN W 22 6 3 3 100.0 0 0 - 0 0 - 1 3 4 5 3 0 1 3 13
+p102
+aVMitchell Butler POR 03/28/1997 POR vs. VAN W 12 7 3 6 50.0 1 1 100.0 0 1 0.0 1 1 2 1 1 0 0 0 3
+p103
+aVJermaine O'Neal POR 03/28/1997 POR vs. VAN W 14 6 2 6 33.3 0 0 - 2 2 100.0 3 1 4 0 0 0 0 0 10
+p104
+aVChris Dudley POR 03/28/1997 POR vs. VAN W 17 8 3 4 75.0 0 0 - 2 4 50.0 3 3 6 0 0 1 0 2 8
+p105
+aVGary Trent POR 03/28/1997 POR vs. VAN W 23 5 2 6 33.3 0 0 - 1 4 25.0 0 5 5 7 1 0 2 2 19
+p106
+aVKenny Anderson POR 03/28/1997 POR vs. VAN W 26 10 4 8 50.0 0 1 0.0 2 2 100.0 0 3 3 7 4 0 1 0 21
+p107
+aVClifford Robinson POR 03/28/1997 POR vs. VAN W 29 26 10 15 66.7 6 8 75.0 0 0 - 0 2 2 2 0 0 4 2 24
+p108
+aVKenny Anderson POR 03/26/1997 POR @ CHH W 39 16 6 13 46.2 2 4 50.0 2 2 100.0 0 3 3 8 2 1 5 0 4
+p109
+aVClifford Robinson POR 03/26/1997 POR @ CHH W 44 25 10 17 58.8 3 6 50.0 2 4 50.0 1 2 3 4 1 0 2 3 0
+p110
+aVRumeal Robinson POR 03/26/1997 POR @ CHH W 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 0 0 1 2 -3
+p111
+aVChris Dudley POR 03/26/1997 POR @ CHH W 24 4 2 5 40.0 0 0 - 0 0 - 2 5 7 0 0 1 1 3 -8
+p112
+aVStacey Augmon POR 03/26/1997 POR @ CHH W 20 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 1 0 0 3 0
+p113
+aVArvydas Sabonis POR 03/26/1997 POR @ CHH W 24 10 5 10 50.0 0 0 - 0 1 0.0 0 5 5 1 2 1 0 2 9
+p114
+aVGary Trent POR 03/26/1997 POR @ CHH W 14 8 3 8 37.5 0 0 - 2 3 66.7 0 3 3 0 0 0 2 1 -2
+p115
+aVIsaiah Rider POR 03/26/1997 POR @ CHH W 31 2 1 7 14.3 0 2 0.0 0 0 - 1 1 2 5 1 1 1 1 1
+p116
+aVRasheed Wallace POR 03/26/1997 POR @ CHH W 34 17 8 15 53.3 0 1 0.0 1 2 50.0 3 6 9 4 1 2 1 2 4
+p117
+aVRumeal Robinson POR 03/25/1997 POR @ ATL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p118
+aVArvydas Sabonis POR 03/25/1997 POR @ ATL L 24 10 3 10 30.0 2 4 50.0 2 2 100.0 3 3 6 5 2 0 2 4 0
+p119
+aVGary Trent POR 03/25/1997 POR @ ATL L 30 13 5 7 71.4 0 0 - 3 3 100.0 2 3 5 1 2 0 2 4 -10
+p120
+aVRasheed Wallace POR 03/25/1997 POR @ ATL L 35 13 6 15 40.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 4 -8
+p121
+aVKenny Anderson POR 03/25/1997 POR @ ATL L 42 15 7 17 41.2 0 5 0.0 1 4 25.0 1 2 3 9 0 0 2 1 -4
+p122
+aVStacey Augmon POR 03/25/1997 POR @ ATL L 8 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p123
+aVChris Dudley POR 03/25/1997 POR @ ATL L 24 4 2 8 25.0 0 0 - 0 0 - 7 7 14 2 1 1 0 2 -7
+p124
+aVIsaiah Rider POR 03/25/1997 POR @ ATL L 40 22 9 13 69.2 2 3 66.7 2 2 100.0 0 5 5 0 1 0 5 2 -6
+p125
+aVClifford Robinson POR 03/25/1997 POR @ ATL L 18 0 0 3 0.0 0 3 0.0 0 0 - 1 4 5 0 1 0 2 1 1
+p126
+aVDontonio Wingfield POR 03/25/1997 POR @ ATL L 12 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 4 3
+p127
+aVKenny Anderson POR 03/23/1997 POR @ NYK W 43 24 7 13 53.8 0 4 0.0 10 12 83.3 2 5 7 7 1 0 4 3 9
+p128
+aVRumeal Robinson POR 03/23/1997 POR @ NYK W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -3
+p129
+aVIsaiah Rider POR 03/23/1997 POR @ NYK W 44 23 8 12 66.7 2 5 40.0 5 6 83.3 1 1 2 3 2 0 6 4 3
+p130
+aVArvydas Sabonis POR 03/23/1997 POR @ NYK W 28 15 5 8 62.5 1 2 50.0 4 8 50.0 0 8 8 1 3 0 1 6 -1
+p131
+aVRasheed Wallace POR 03/23/1997 POR @ NYK W 38 13 4 14 28.6 0 1 0.0 5 9 55.6 1 7 8 0 0 2 1 3 8
+p132
+aVClifford Robinson POR 03/23/1997 POR @ NYK W 45 17 7 13 53.8 1 5 20.0 2 3 66.7 0 5 5 3 3 0 1 2 9
+p133
+aVGary Trent POR 03/23/1997 POR @ NYK W 21 2 1 3 33.3 0 0 - 0 4 0.0 0 4 4 1 1 0 0 0 10
+p134
+aVChris Dudley POR 03/23/1997 POR @ NYK W 12 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 1 5 -8
+p135
+aVStacey Augmon POR 03/23/1997 POR @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p136
+aVClifford Robinson POR 03/22/1997 POR @ WAS L 41 0 0 7 0.0 0 3 0.0 0 0 - 0 5 5 2 0 0 2 2 6
+p137
+aVChris Dudley POR 03/22/1997 POR @ WAS L 23 5 1 1 100.0 0 0 - 3 4 75.0 0 7 7 1 1 0 2 4 3
+p138
+aVStacey Augmon POR 03/22/1997 POR @ WAS L 12 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 -11
+p139
+aVKenny Anderson POR 03/22/1997 POR @ WAS L 38 14 4 11 36.4 0 4 0.0 6 10 60.0 1 5 6 9 0 0 2 5 -6
+p140
+aVRasheed Wallace POR 03/22/1997 POR @ WAS L 43 25 9 14 64.3 1 1 100.0 6 8 75.0 3 7 10 0 0 1 2 5 -1
+p141
+aVIsaiah Rider POR 03/22/1997 POR @ WAS L 38 28 9 17 52.9 1 3 33.3 9 9 100.0 2 4 6 2 0 0 6 3 2
+p142
+aVMitchell Butler POR 03/22/1997 POR @ WAS L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -6
+p143
+aVGary Trent POR 03/22/1997 POR @ WAS L 10 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -4
+p144
+aVRumeal Robinson POR 03/22/1997 POR @ WAS L 10 2 0 2 0.0 0 1 0.0 2 4 50.0 1 0 1 1 2 0 0 3 2
+p145
+aVArvydas Sabonis POR 03/22/1997 POR @ WAS L 23 20 8 15 53.3 0 2 0.0 4 5 80.0 4 5 9 1 1 0 2 5 -5
+p146
+aVArvydas Sabonis POR 03/20/1997 POR @ MIL W 20 13 6 9 66.7 0 1 0.0 1 2 50.0 1 8 9 2 0 1 2 1 12
+p147
+aVStacey Augmon POR 03/20/1997 POR @ MIL W 15 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 2 3 1 -1
+p148
+aVJermaine O'Neal POR 03/20/1997 POR @ MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p149
+aVChris Dudley POR 03/20/1997 POR @ MIL W 18 5 2 3 66.7 0 0 - 1 2 50.0 4 5 9 0 0 1 0 4 12
+p150
+aVDontonio Wingfield POR 03/20/1997 POR @ MIL W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -6
+p151
+aVRasheed Wallace POR 03/20/1997 POR @ MIL W 30 20 10 14 71.4 0 0 - 0 1 0.0 4 4 8 2 2 2 3 4 19
+p152
+aVGary Trent POR 03/20/1997 POR @ MIL W 23 11 5 14 35.7 0 0 - 1 2 50.0 5 6 11 1 1 0 2 2 2
+p153
+aVRumeal Robinson POR 03/20/1997 POR @ MIL W 13 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -8
+p154
+aVKenny Anderson POR 03/20/1997 POR @ MIL W 35 4 1 8 12.5 1 4 25.0 1 2 50.0 0 4 4 11 1 0 2 0 27
+p155
+aVIsaiah Rider POR 03/20/1997 POR @ MIL W 29 15 6 9 66.7 1 2 50.0 2 5 40.0 0 2 2 3 0 1 0 2 24
+p156
+aVClifford Robinson POR 03/20/1997 POR @ MIL W 35 20 6 12 50.0 4 7 57.1 4 5 80.0 0 1 1 4 1 1 0 1 24
+p157
+aVMitchell Butler POR 03/20/1997 POR @ MIL W 7 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 1 0 1 0 -6
+p158
+aVChris Dudley POR 03/18/1997 POR vs. SAC W 22 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 0 1 2 1 1 1
+p159
+aVArvydas Sabonis POR 03/18/1997 POR vs. SAC W 26 13 4 7 57.1 0 0 - 5 6 83.3 0 9 9 0 2 1 4 5 4
+p160
+aVIsaiah Rider POR 03/18/1997 POR vs. SAC W 19 4 1 4 25.0 1 2 50.0 1 2 50.0 0 1 1 2 0 0 1 2 -1
+p161
+aVStacey Augmon POR 03/18/1997 POR vs. SAC W 24 7 3 3 100.0 0 0 - 1 2 50.0 3 1 4 1 2 0 0 2 2
+p162
+aVRasheed Wallace POR 03/18/1997 POR vs. SAC W 35 15 6 11 54.5 0 0 - 3 4 75.0 2 4 6 1 1 1 3 3 8
+p163
+aVClifford Robinson POR 03/18/1997 POR vs. SAC W 41 10 4 10 40.0 2 2 100.0 0 0 - 0 1 1 1 2 1 2 2 -1
+p164
+aVRumeal Robinson POR 03/18/1997 POR vs. SAC W 8 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 0
+p165
+aVMitchell Butler POR 03/18/1997 POR vs. SAC W 9 3 0 0 - 0 0 - 3 4 75.0 0 0 0 1 0 0 1 0 9
+p166
+aVKenny Anderson POR 03/18/1997 POR vs. SAC W 40 22 7 15 46.7 3 6 50.0 5 6 83.3 1 4 5 8 3 0 7 2 5
+p167
+aVGary Trent POR 03/18/1997 POR vs. SAC W 16 7 3 7 42.9 0 0 - 1 3 33.3 2 3 5 0 1 0 0 0 -2
+p168
+aVClifford Robinson POR 03/16/1997 POR @ LAC W 29 26 11 17 64.7 3 6 50.0 1 3 33.3 0 5 5 0 2 0 1 5 12
+p169
+aVGary Trent POR 03/16/1997 POR @ LAC W 27 11 4 9 44.4 0 0 - 3 4 75.0 0 6 6 0 0 0 0 4 6
+p170
+aVJermaine O'Neal POR 03/16/1997 POR @ LAC W 2 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 0 0 0 0 -2
+p171
+aVRasheed Wallace POR 03/16/1997 POR @ LAC W 28 10 5 9 55.6 0 1 0.0 0 0 - 2 4 6 1 1 1 3 5 8
+p172
+aVArvydas Sabonis POR 03/16/1997 POR @ LAC W 20 6 3 5 60.0 0 0 - 0 0 - 3 2 5 5 1 4 3 2 12
+p173
+aVDontonio Wingfield POR 03/16/1997 POR @ LAC W 4 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -3
+p174
+aVRumeal Robinson POR 03/16/1997 POR @ LAC W 18 7 2 3 66.7 1 1 100.0 2 2 100.0 0 0 0 2 0 0 2 3 -5
+p175
+aVChris Dudley POR 03/16/1997 POR @ LAC W 28 10 4 6 66.7 0 0 - 2 2 100.0 1 6 7 0 0 4 1 5 0
+p176
+aVStacey Augmon POR 03/16/1997 POR @ LAC W 24 13 3 6 50.0 0 0 - 7 8 87.5 2 1 3 2 3 0 0 2 21
+p177
+aVKenny Anderson POR 03/16/1997 POR @ LAC W 30 8 3 11 27.3 1 2 50.0 1 2 50.0 0 5 5 2 2 0 4 2 17
+p178
+aVMitchell Butler POR 03/16/1997 POR @ LAC W 30 8 2 4 50.0 2 3 66.7 2 4 50.0 0 3 3 3 0 0 3 4 -6
+p179
+aVDontonio Wingfield POR 03/14/1997 POR vs. CLE W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 2 6
+p180
+aVJermaine O'Neal POR 03/14/1997 POR vs. CLE W 12 0 0 4 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 4
+p181
+aVArvydas Sabonis POR 03/14/1997 POR vs. CLE W 27 20 6 12 50.0 3 7 42.9 5 6 83.3 0 7 7 0 0 0 3 3 17
+p182
+aVKenny Anderson POR 03/14/1997 POR vs. CLE W 38 20 5 9 55.6 0 1 0.0 10 13 76.9 1 2 3 7 2 0 3 0 23
+p183
+aVRumeal Robinson POR 03/14/1997 POR vs. CLE W 10 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 0
+p184
+aVGary Trent POR 03/14/1997 POR vs. CLE W 16 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 0 2 1 7
+p185
+aVChris Dudley POR 03/14/1997 POR vs. CLE W 20 3 1 4 25.0 0 0 - 1 4 25.0 4 6 10 0 2 1 1 2 3
+p186
+aVStacey Augmon POR 03/14/1997 POR vs. CLE W 21 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 1 1 0 1 1 19
+p187
+aVMitchell Butler POR 03/14/1997 POR vs. CLE W 27 17 6 7 85.7 2 3 66.7 3 4 75.0 0 1 1 1 0 0 3 4 4
+p188
+aVRasheed Wallace POR 03/14/1997 POR vs. CLE W 26 12 3 7 42.9 0 0 - 6 10 60.0 1 8 9 1 1 0 2 2 14
+p189
+aVClifford Robinson POR 03/14/1997 POR vs. CLE W 35 13 6 12 50.0 1 4 25.0 0 2 0.0 2 2 4 4 3 3 2 3 18
+p190
+aVGary Trent POR 03/11/1997 POR vs. LAC W 16 4 2 6 33.3 0 0 - 0 0 - 1 5 6 2 0 0 2 1 1
+p191
+aVIsaiah Rider POR 03/11/1997 POR vs. LAC W 30 15 6 12 50.0 1 3 33.3 2 2 100.0 0 3 3 1 0 0 3 3 12
+p192
+aVRumeal Robinson POR 03/11/1997 POR vs. LAC W 5 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 0
+p193
+aVClifford Robinson POR 03/11/1997 POR vs. LAC W 35 13 6 12 50.0 0 4 0.0 1 1 100.0 1 3 4 3 1 1 3 4 5
+p194
+aVJermaine O'Neal POR 03/11/1997 POR vs. LAC W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -9
+p195
+aVRasheed Wallace POR 03/11/1997 POR vs. LAC W 39 26 11 15 73.3 1 1 100.0 3 6 50.0 2 2 4 3 1 0 3 3 9
+p196
+aVChris Dudley POR 03/11/1997 POR vs. LAC W 18 7 3 3 100.0 0 0 - 1 1 100.0 2 5 7 0 0 0 2 4 0
+p197
+aVStacey Augmon POR 03/11/1997 POR vs. LAC W 19 7 2 6 33.3 0 0 - 3 4 75.0 1 1 2 1 2 0 0 0 -7
+p198
+aVKenny Anderson POR 03/11/1997 POR vs. LAC W 43 16 4 12 33.3 2 5 40.0 6 7 85.7 2 4 6 7 2 0 3 2 4
+p199
+aVArvydas Sabonis POR 03/11/1997 POR vs. LAC W 30 14 4 11 36.4 0 1 0.0 6 6 100.0 4 9 13 3 2 2 2 4 5
+p200
+aVStacey Augmon POR 03/09/1997 POR vs. SEA W 13 2 0 2 0.0 0 0 - 2 4 50.0 2 1 3 1 0 1 0 1 0
+p201
+aVChris Dudley POR 03/09/1997 POR vs. SEA W 21 2 1 3 33.3 0 0 - 0 1 0.0 5 2 7 1 0 0 0 3 -7
+p202
+aVIsaiah Rider POR 03/09/1997 POR vs. SEA W 42 25 9 14 64.3 3 5 60.0 4 4 100.0 3 4 7 5 0 1 4 3 11
+p203
+aVKenny Anderson POR 03/09/1997 POR vs. SEA W 42 16 6 14 42.9 3 8 37.5 1 2 50.0 1 3 4 8 0 0 2 2 17
+p204
+aVRumeal Robinson POR 03/09/1997 POR vs. SEA W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -7
+p205
+aVRasheed Wallace POR 03/09/1997 POR vs. SEA W 20 10 3 8 37.5 0 1 0.0 4 6 66.7 3 2 5 1 0 0 1 2 4
+p206
+aVClifford Robinson POR 03/09/1997 POR vs. SEA W 41 14 4 15 26.7 2 7 28.6 4 6 66.7 1 3 4 3 1 1 2 3 9
+p207
+aVArvydas Sabonis POR 03/09/1997 POR vs. SEA W 27 11 5 10 50.0 0 1 0.0 1 2 50.0 2 6 8 7 1 1 3 1 17
+p208
+aVGary Trent POR 03/09/1997 POR vs. SEA W 25 23 10 11 90.9 0 0 - 3 4 75.0 4 5 9 0 0 1 2 2 1
+p209
+aVJermaine O'Neal POR 03/09/1997 POR vs. SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p210
+aVRumeal Robinson POR 03/07/1997 POR vs. DAL W 19 3 1 7 14.3 1 5 20.0 0 0 - 0 3 3 0 2 0 0 2 -2
+p211
+aVRasheed Wallace POR 03/07/1997 POR vs. DAL W 32 5 2 2 100.0 0 0 - 1 2 50.0 0 4 4 1 3 0 3 2 15
+p212
+aVClifford Robinson POR 03/07/1997 POR vs. DAL W 30 15 6 12 50.0 3 5 60.0 0 0 - 0 1 1 1 1 2 0 2 22
+p213
+aVStacey Augmon POR 03/07/1997 POR vs. DAL W 27 2 0 2 0.0 0 0 - 2 2 100.0 1 4 5 3 2 0 1 2 13
+p214
+aVMitchell Butler POR 03/07/1997 POR vs. DAL W 4 0 0 5 0.0 0 0 - 0 0 - 3 0 3 0 0 0 1 1 -7
+p215
+aVArvydas Sabonis POR 03/07/1997 POR vs. DAL W 22 13 6 9 66.7 0 1 0.0 1 1 100.0 1 8 9 0 1 1 4 3 3
+p216
+aVDontonio Wingfield POR 03/07/1997 POR vs. DAL W 7 5 1 3 33.3 1 2 50.0 2 2 100.0 1 0 1 0 0 0 0 1 -8
+p217
+aVGary Trent POR 03/07/1997 POR vs. DAL W 17 13 6 10 60.0 0 1 0.0 1 3 33.3 2 0 2 2 0 0 0 1 8
+p218
+aVJermaine O'Neal POR 03/07/1997 POR vs. DAL W 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -15
+p219
+aVKenny Anderson POR 03/07/1997 POR vs. DAL W 29 10 2 9 22.2 0 3 0.0 6 7 85.7 1 4 5 7 3 0 5 1 13
+p220
+aVIsaiah Rider POR 03/07/1997 POR vs. DAL W 21 10 5 10 50.0 0 3 0.0 0 0 - 0 2 2 3 0 0 4 5 -2
+p221
+aVChris Dudley POR 03/07/1997 POR vs. DAL W 22 4 2 4 50.0 0 0 - 0 2 0.0 5 2 7 1 0 2 1 2 15
+p222
+aVIsaiah Rider POR 03/05/1997 POR @ PHX W 29 24 9 12 75.0 3 3 100.0 3 4 75.0 0 4 4 4 0 0 3 2 6
+p223
+aVJermaine O'Neal POR 03/05/1997 POR @ PHX W 3 3 0 1 0.0 0 0 - 3 6 50.0 0 0 0 0 0 0 0 0 4
+p224
+aVDontonio Wingfield POR 03/05/1997 POR @ PHX W 3 5 2 3 66.7 1 1 100.0 0 0 - 1 0 1 0 0 0 0 1 4
+p225
+aVRasheed Wallace POR 03/05/1997 POR @ PHX W 32 11 3 9 33.3 0 1 0.0 5 6 83.3 0 5 5 4 2 0 0 3 34
+p226
+aVMarcus Brown POR 03/05/1997 POR @ PHX W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p227
+aVClifford Robinson POR 03/05/1997 POR @ PHX W 42 24 8 15 53.3 5 8 62.5 3 4 75.0 1 4 5 6 1 0 2 4 24
+p228
+aVRumeal Robinson POR 03/05/1997 POR @ PHX W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 5 2 0 2 2 8
+p229
+aVChris Dudley POR 03/05/1997 POR @ PHX W 18 6 2 3 66.7 0 0 - 2 2 100.0 1 6 7 0 1 1 2 4 6
+p230
+aVStacey Augmon POR 03/05/1997 POR @ PHX W 26 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 1 0 0 3 3 8
+p231
+aVGary Trent POR 03/05/1997 POR @ PHX W 18 4 1 6 16.7 0 0 - 2 2 100.0 0 1 1 0 1 0 2 2 -18
+p232
+aVKenny Anderson POR 03/05/1997 POR @ PHX W 33 26 10 14 71.4 6 9 66.7 0 0 - 1 3 4 6 4 0 2 2 15
+p233
+aVArvydas Sabonis POR 03/05/1997 POR @ PHX W 16 10 3 6 50.0 1 1 100.0 3 4 75.0 0 4 4 2 1 2 0 3 15
+p234
+aVStacey Augmon POR 03/04/1997 POR vs. NJN W 23 5 1 3 33.3 0 0 - 3 4 75.0 1 4 5 2 2 0 4 3 20
+p235
+aVGary Trent POR 03/04/1997 POR vs. NJN W 22 11 4 8 50.0 0 0 - 3 5 60.0 1 3 4 1 0 0 0 1 15
+p236
+aVArvydas Sabonis POR 03/04/1997 POR vs. NJN W 21 10 4 9 44.4 0 2 0.0 2 2 100.0 2 4 6 4 1 2 3 2 -18
+p237
+aVRasheed Wallace POR 03/04/1997 POR vs. NJN W 30 9 4 10 40.0 0 0 - 1 4 25.0 2 6 8 1 0 0 1 4 -9
+p238
+aVChris Dudley POR 03/04/1997 POR vs. NJN W 23 2 1 2 50.0 0 0 - 0 0 - 3 6 9 1 0 2 1 1 22
+p239
+aVRumeal Robinson POR 03/04/1997 POR vs. NJN W 11 9 3 4 75.0 3 3 100.0 0 0 - 0 0 0 2 0 0 2 2 -3
+p240
+aVClifford Robinson POR 03/04/1997 POR vs. NJN W 40 28 9 13 69.2 3 4 75.0 7 12 58.3 0 2 2 3 1 1 0 3 9
+p241
+aVKenny Anderson POR 03/04/1997 POR vs. NJN W 37 28 9 16 56.3 4 8 50.0 6 9 66.7 1 3 4 14 1 0 2 4 8
+p242
+aVIsaiah Rider POR 03/04/1997 POR vs. NJN W 33 21 9 15 60.0 1 4 25.0 2 3 66.7 0 0 0 3 1 0 2 2 -19
+p243
+aVKenny Anderson POR 03/02/1997 POR vs. PHI W 40 20 9 14 64.3 1 3 33.3 1 1 100.0 0 3 3 9 2 0 7 1 18
+p244
+aVArvydas Sabonis POR 03/02/1997 POR vs. PHI W 22 12 4 7 57.1 0 1 0.0 4 4 100.0 1 9 10 2 0 1 1 0 21
+p245
+aVChris Dudley POR 03/02/1997 POR vs. PHI W 15 0 0 0 - 0 0 - 0 0 - 0 5 5 0 0 1 0 0 0
+p246
+aVIsaiah Rider POR 03/02/1997 POR vs. PHI W 31 19 6 12 50.0 3 4 75.0 4 6 66.7 2 3 5 4 1 0 2 4 17
+p247
+aVMarcus Brown POR 03/02/1997 POR vs. PHI W 12 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 2 2 0 1 1 3
+p248
+aVRasheed Wallace POR 03/02/1997 POR vs. PHI W 31 14 7 11 63.6 0 0 - 0 0 - 1 2 3 2 1 2 2 3 13
+p249
+aVJermaine O'Neal POR 03/02/1997 POR vs. PHI W 8 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 3 1 2 -1
+p250
+aVRumeal Robinson POR 03/02/1997 POR vs. PHI W 3 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 2 0 1
+p251
+aVGary Trent POR 03/02/1997 POR vs. PHI W 24 20 9 13 69.2 0 0 - 2 3 66.7 3 3 6 1 0 0 1 5 1
+p252
+aVClifford Robinson POR 03/02/1997 POR vs. PHI W 36 13 5 12 41.7 1 3 33.3 2 3 66.7 0 6 6 7 1 0 1 3 18
+p253
+aVStacey Augmon POR 03/02/1997 POR vs. PHI W 19 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 1 0 0 1 4 -6
+p254
+aVStacey Augmon POR 02/28/1997 POR vs. UTA W 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -3
+p255
+aVKenny Anderson POR 02/28/1997 POR vs. UTA W 44 30 11 16 68.8 3 6 50.0 5 6 83.3 1 1 2 12 2 0 2 3 6
+p256
+aVRumeal Robinson POR 02/28/1997 POR vs. UTA W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p257
+aVJermaine O'Neal POR 02/28/1997 POR vs. UTA W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p258
+aVArvydas Sabonis POR 02/28/1997 POR vs. UTA W 27 9 4 9 44.4 0 0 - 1 1 100.0 2 7 9 5 3 0 3 3 15
+p259
+aVClifford Robinson POR 02/28/1997 POR vs. UTA W 39 20 6 15 40.0 4 7 57.1 4 7 57.1 4 4 8 2 1 0 4 2 12
+p260
+aVIsaiah Rider POR 02/28/1997 POR vs. UTA W 38 26 11 17 64.7 2 3 66.7 2 2 100.0 1 0 1 4 0 0 3 2 11
+p261
+aVGary Trent POR 02/28/1997 POR vs. UTA W 24 6 2 2 100.0 0 0 - 2 5 40.0 2 1 3 2 3 0 2 2 13
+p262
+aVRasheed Wallace POR 02/28/1997 POR vs. UTA W 26 20 9 14 64.3 0 0 - 2 4 50.0 0 2 2 0 0 0 0 5 -8
+p263
+aVChris Dudley POR 02/28/1997 POR vs. UTA W 24 0 0 0 - 0 0 - 0 0 - 0 4 4 0 2 2 1 2 3
+p264
+aVKenny Anderson POR 02/26/1997 POR vs. NYK L 48 19 6 19 31.6 3 9 33.3 4 4 100.0 2 1 3 9 0 0 1 2 8
+p265
+aVChris Dudley POR 02/26/1997 POR vs. NYK L 19 4 2 5 40.0 0 0 - 0 0 - 3 7 10 0 0 0 0 6 -4
+p266
+aVRumeal Robinson POR 02/26/1997 POR vs. NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -9
+p267
+aVGary Trent POR 02/26/1997 POR vs. NYK L 19 11 4 9 44.4 0 0 - 3 4 75.0 1 5 6 0 0 0 3 3 -13
+p268
+aVRasheed Wallace POR 02/26/1997 POR vs. NYK L 45 20 6 14 42.9 0 1 0.0 8 12 66.7 2 10 12 1 1 1 2 2 15
+p269
+aVStacey Augmon POR 02/26/1997 POR vs. NYK L 13 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p270
+aVArvydas Sabonis POR 02/26/1997 POR vs. NYK L 28 17 6 12 50.0 2 4 50.0 3 3 100.0 1 7 8 2 2 0 3 6 5
+p271
+aVClifford Robinson POR 02/26/1997 POR vs. NYK L 46 9 3 12 25.0 0 1 0.0 3 3 100.0 1 6 7 4 0 2 0 6 -8
+p272
+aVIsaiah Rider POR 02/26/1997 POR vs. NYK L 41 11 3 10 30.0 0 1 0.0 5 6 83.3 1 4 5 2 1 0 1 1 12
+p273
+aVChris Dudley POR 02/24/1997 POR @ CHI L 24 4 2 2 100.0 0 0 - 0 0 - 3 3 6 2 1 0 2 3 -5
+p274
+aVRasheed Wallace POR 02/24/1997 POR @ CHI L 12 11 5 8 62.5 0 0 - 1 1 100.0 1 1 2 0 2 0 0 1 -10
+p275
+aVDontonio Wingfield POR 02/24/1997 POR @ CHI L 12 1 0 3 0.0 0 1 0.0 1 2 50.0 3 3 6 2 1 0 2 1 1
+p276
+aVRumeal Robinson POR 02/24/1997 POR @ CHI L 14 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 0 -2
+p277
+aVGary Trent POR 02/24/1997 POR @ CHI L 28 14 7 14 50.0 0 2 0.0 0 0 - 5 4 9 2 0 0 0 2 -27
+p278
+aVStacey Augmon POR 02/24/1997 POR @ CHI L 30 13 6 10 60.0 0 0 - 1 4 25.0 4 1 5 0 0 0 2 2 -25
+p279
+aVKenny Anderson POR 02/24/1997 POR @ CHI L 26 12 5 9 55.6 1 5 20.0 1 1 100.0 0 3 3 8 2 0 2 3 -12
+p280
+aVJermaine O'Neal POR 02/24/1997 POR @ CHI L 12 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 0 1 1 2 1 1
+p281
+aVArvydas Sabonis POR 02/24/1997 POR @ CHI L 22 12 3 11 27.3 0 4 0.0 6 8 75.0 0 4 4 2 0 0 2 1 -18
+p282
+aVClifford Robinson POR 02/24/1997 POR @ CHI L 34 4 1 8 12.5 0 3 0.0 2 2 100.0 0 2 2 3 1 0 0 2 -23
+p283
+aVMarcus Brown POR 02/24/1997 POR @ CHI L 26 13 4 8 50.0 3 4 75.0 2 2 100.0 0 0 0 2 2 1 3 3 -15
+p284
+aVClifford Robinson POR 02/22/1997 POR @ PHI L 40 16 6 16 37.5 1 4 25.0 3 3 100.0 2 2 4 2 2 2 0 2 -16
+p285
+aVArvydas Sabonis POR 02/22/1997 POR @ PHI L 23 9 3 6 50.0 1 2 50.0 2 4 50.0 1 5 6 1 1 0 2 0 -18
+p286
+aVRasheed Wallace POR 02/22/1997 POR @ PHI L 40 10 4 14 28.6 0 0 - 2 2 100.0 1 5 6 2 1 1 4 5 -18
+p287
+aVGary Trent POR 02/22/1997 POR @ PHI L 23 10 4 8 50.0 0 0 - 2 3 66.7 2 0 2 1 1 2 2 1 1
+p288
+aVMarcus Brown POR 02/22/1997 POR @ PHI L 12 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 2 0 0 1 3 8
+p289
+aVKenny Anderson POR 02/22/1997 POR @ PHI L 36 20 8 21 38.1 2 5 40.0 2 2 100.0 4 2 6 6 4 0 5 3 -25
+p290
+aVChris Dudley POR 02/22/1997 POR @ PHI L 18 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 1 3 1 0 1 0
+p291
+aVStacey Augmon POR 02/22/1997 POR @ PHI L 25 8 3 5 60.0 0 0 - 2 2 100.0 2 2 4 1 0 0 1 4 -4
+p292
+aVIsaiah Rider POR 02/22/1997 POR @ PHI L 23 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 2 0 0 1 2 -13
+p293
+aVJermaine O'Neal POR 02/21/1997 POR @ MIA W 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 3 0
+p294
+aVKenny Anderson POR 02/21/1997 POR @ MIA W 42 16 5 17 29.4 1 4 25.0 5 7 71.4 1 7 8 9 2 1 1 3 2
+p295
+aVMarcus Brown POR 02/21/1997 POR @ MIA W 6 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 2 2
+p296
+aVRasheed Wallace POR 02/21/1997 POR @ MIA W 39 25 9 15 60.0 0 1 0.0 7 9 77.8 3 7 10 3 1 2 0 4 9
+p297
+aVIsaiah Rider POR 02/21/1997 POR @ MIA W 26 16 6 11 54.5 2 3 66.7 2 2 100.0 1 2 3 1 0 2 2 1 -9
+p298
+aVClifford Robinson POR 02/21/1997 POR @ MIA W 37 18 5 11 45.5 3 4 75.0 5 6 83.3 1 5 6 3 1 0 2 4 -5
+p299
+aVStacey Augmon POR 02/21/1997 POR @ MIA W 22 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 2 0 2 2 13
+p300
+aVGary Trent POR 02/21/1997 POR @ MIA W 20 14 6 11 54.5 0 0 - 2 4 50.0 3 3 6 0 1 0 0 2 0
+p301
+aVArvydas Sabonis POR 02/21/1997 POR @ MIA W 23 17 7 9 77.8 1 2 50.0 2 2 100.0 1 3 4 0 0 2 4 4 -9
+p302
+aVChris Dudley POR 02/21/1997 POR @ MIA W 17 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 1 0 3 17
+p303
+aVGary Trent POR 02/19/1997 POR @ ORL L 16 4 2 3 66.7 0 0 - 0 0 - 0 3 3 2 1 0 0 1 2
+p304
+aVIsaiah Rider POR 02/19/1997 POR @ ORL L 35 10 4 13 30.8 0 5 0.0 2 2 100.0 2 2 4 4 0 0 5 2 -15
+p305
+aVChris Dudley POR 02/19/1997 POR @ ORL L 23 10 5 8 62.5 0 0 - 0 2 0.0 5 5 10 0 0 1 2 3 9
+p306
+aVRasheed Wallace POR 02/19/1997 POR @ ORL L 38 20 7 12 58.3 1 1 100.0 5 6 83.3 4 6 10 0 0 1 5 0 -14
+p307
+aVMarcus Brown POR 02/19/1997 POR @ ORL L 12 4 2 3 66.7 0 0 - 0 0 - 2 2 4 2 0 0 0 0 1
+p308
+aVStacey Augmon POR 02/19/1997 POR @ ORL L 16 4 2 5 40.0 0 0 - 0 0 - 3 0 3 2 2 1 0 2 4
+p309
+aVKenny Anderson POR 02/19/1997 POR @ ORL L 36 13 6 17 35.3 1 4 25.0 0 1 0.0 1 3 4 4 3 0 5 1 -12
+p310
+aVArvydas Sabonis POR 02/19/1997 POR @ ORL L 21 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 0 0 1 2 1 -15
+p311
+aVClifford Robinson POR 02/19/1997 POR @ ORL L 42 11 4 14 28.6 0 5 0.0 3 4 75.0 2 1 3 4 0 2 1 0 -15
+p312
+aVStacey Augmon POR 02/16/1997 POR vs. BOS W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 2 0 1 4 11
+p313
+aVClifford Robinson POR 02/16/1997 POR vs. BOS W 36 10 3 9 33.3 1 5 20.0 3 6 50.0 0 3 3 5 1 1 3 5 3
+p314
+aVMitchell Butler POR 02/16/1997 POR vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p315
+aVDontonio Wingfield POR 02/16/1997 POR vs. BOS W 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -5
+p316
+aVMarcus Brown POR 02/16/1997 POR vs. BOS W 8 3 1 2 50.0 1 1 100.0 0 2 0.0 0 0 0 0 0 0 0 1 -3
+p317
+aVKenny Anderson POR 02/16/1997 POR vs. BOS W 43 13 4 13 30.8 1 3 33.3 4 6 66.7 1 5 6 9 5 2 2 3 17
+p318
+aVIsaiah Rider POR 02/16/1997 POR vs. BOS W 43 40 13 19 68.4 2 2 100.0 12 13 92.3 0 3 3 2 1 0 4 2 6
+p319
+aVGary Trent POR 02/16/1997 POR vs. BOS W 38 19 8 13 61.5 0 0 - 3 5 60.0 3 7 10 5 3 3 2 6 12
+p320
+aVRasheed Wallace POR 02/16/1997 POR vs. BOS W 34 22 9 15 60.0 0 0 - 4 5 80.0 3 6 9 2 1 2 0 4 15
+p321
+aVJermaine O'Neal POR 02/16/1997 POR vs. BOS W 20 5 2 4 50.0 0 0 - 1 2 50.0 1 5 6 0 0 1 1 2 4
+p322
+aVMarcus Brown POR 02/15/1997 POR vs. HOU W 13 7 3 11 27.3 1 6 16.7 0 0 - 0 0 0 1 1 0 0 0 11
+p323
+aVIsaiah Rider POR 02/15/1997 POR vs. HOU W 44 26 9 12 75.0 3 3 100.0 5 5 100.0 2 3 5 3 0 0 1 3 3
+p324
+aVStacey Augmon POR 02/15/1997 POR vs. HOU W 19 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 13
+p325
+aVRasheed Wallace POR 02/15/1997 POR vs. HOU W 33 16 5 10 50.0 0 1 0.0 6 15 40.0 3 11 14 0 2 3 1 4 14
+p326
+aVChris Dudley POR 02/15/1997 POR vs. HOU W 22 2 1 7 14.3 0 0 - 0 0 - 1 2 3 1 0 0 0 4 -12
+p327
+aVGary Trent POR 02/15/1997 POR vs. HOU W 30 6 3 11 27.3 0 0 - 0 0 - 2 8 10 2 2 1 3 2 11
+p328
+aVRuben Nembhard POR 02/15/1997 POR vs. HOU W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -5
+p329
+aVJermaine O'Neal POR 02/15/1997 POR vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p330
+aVClifford Robinson POR 02/15/1997 POR vs. HOU W 39 11 4 8 50.0 2 4 50.0 1 4 25.0 4 3 7 2 1 0 3 6 -7
+p331
+aVKenny Anderson POR 02/15/1997 POR vs. HOU W 36 35 13 19 68.4 5 6 83.3 4 6 66.7 0 2 2 4 3 0 2 5 -3
+p332
+aVKenny Anderson POR 02/13/1997 POR @ UTA L 31 15 6 12 50.0 0 3 0.0 3 5 60.0 1 0 1 4 3 0 2 3 -33
+p333
+aVMarcus Brown POR 02/13/1997 POR @ UTA L 8 6 2 3 66.7 1 2 50.0 1 2 50.0 0 2 2 1 0 0 0 0 9
+p334
+aVJermaine O'Neal POR 02/13/1997 POR @ UTA L 22 9 4 6 66.7 0 0 - 1 2 50.0 1 7 8 0 0 1 1 4 11
+p335
+aVRasheed Wallace POR 02/13/1997 POR @ UTA L 27 12 3 11 27.3 0 2 0.0 6 8 75.0 4 4 8 1 2 0 1 4 -23
+p336
+aVChris Dudley POR 02/13/1997 POR @ UTA L 13 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 1 0 3 -21
+p337
+aVIsaiah Rider POR 02/13/1997 POR @ UTA L 28 7 3 13 23.1 0 1 0.0 1 1 100.0 0 1 1 0 0 1 2 3 -35
+p338
+aVGary Trent POR 02/13/1997 POR @ UTA L 23 10 4 11 36.4 0 0 - 2 3 66.7 4 4 8 0 0 0 3 4 -30
+p339
+aVRuben Nembhard POR 02/13/1997 POR @ UTA L 17 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 5 3 0 3 2 9
+p340
+aVMitchell Butler POR 02/13/1997 POR @ UTA L 21 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 11
+p341
+aVClifford Robinson POR 02/13/1997 POR @ UTA L 31 7 3 11 27.3 1 2 50.0 0 0 - 2 4 6 2 1 1 2 2 -29
+p342
+aVStacey Augmon POR 02/13/1997 POR @ UTA L 20 12 4 6 66.7 0 0 - 4 5 80.0 0 1 1 0 2 1 1 0 11
+p343
+aVRasheed Wallace POR 02/11/1997 POR vs. PHX W 31 30 10 14 71.4 2 4 50.0 8 10 80.0 0 5 5 3 0 0 0 4 16
+p344
+aVJermaine O'Neal POR 02/11/1997 POR vs. PHX W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 8
+p345
+aVMarcus Brown POR 02/11/1997 POR vs. PHX W 11 2 0 2 0.0 0 2 0.0 2 3 66.7 0 1 1 3 1 0 1 0 -2
+p346
+aVChris Dudley POR 02/11/1997 POR vs. PHX W 29 4 2 7 28.6 0 0 - 0 0 - 5 4 9 1 1 0 0 3 -8
+p347
+aVGary Trent POR 02/11/1997 POR vs. PHX W 33 12 4 10 40.0 0 0 - 4 6 66.7 1 1 2 3 0 0 3 3 -8
+p348
+aVClifford Robinson POR 02/11/1997 POR vs. PHX W 37 14 5 12 41.7 0 3 0.0 4 5 80.0 1 6 7 3 1 1 1 5 -1
+p349
+aVKenny Anderson POR 02/11/1997 POR vs. PHX W 37 33 10 19 52.6 3 8 37.5 10 12 83.3 1 2 3 6 1 0 2 5 5
+p350
+aVStacey Augmon POR 02/11/1997 POR vs. PHX W 26 12 5 5 100.0 0 0 - 2 4 50.0 1 7 8 2 1 0 1 1 11
+p351
+aVIsaiah Rider POR 02/11/1997 POR vs. PHX W 29 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 3 0 1 3 2 -6
+p352
+aVKenny Anderson POR 02/04/1997 POR vs. CHI L 41 18 4 18 22.2 3 6 50.0 7 10 70.0 3 3 6 6 0 1 4 1 -2
+p353
+aVStacey Augmon POR 02/04/1997 POR vs. CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p354
+aVJermaine O'Neal POR 02/04/1997 POR vs. CHI L 16 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 0 0 1 2 -7
+p355
+aVGary Trent POR 02/04/1997 POR vs. CHI L 27 18 8 11 72.7 0 1 0.0 2 4 50.0 3 2 5 2 2 0 3 4 3
+p356
+aVChris Dudley POR 02/04/1997 POR vs. CHI L 43 7 3 6 50.0 0 0 - 1 2 50.0 4 11 15 2 1 1 1 4 3
+p357
+aVClifford Robinson POR 02/04/1997 POR vs. CHI L 40 13 6 14 42.9 0 3 0.0 1 1 100.0 0 1 1 1 1 0 1 4 -1
+p358
+aVRasheed Wallace POR 02/04/1997 POR vs. CHI L 14 2 1 3 33.3 0 1 0.0 0 0 - 2 2 4 0 0 0 4 5 -7
+p359
+aVMarcus Brown POR 02/04/1997 POR vs. CHI L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p360
+aVIsaiah Rider POR 02/04/1997 POR vs. CHI L 45 19 6 15 40.0 2 2 100.0 5 7 71.4 1 4 5 1 0 0 1 4 5
+p361
+aVDontonio Wingfield POR 02/04/1997 POR vs. CHI L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p362
+aVStacey Augmon POR 02/02/1997 POR @ MIN L 9 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -8
+p363
+aVMarcus Brown POR 02/02/1997 POR @ MIN L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 4 -2
+p364
+aVEnnis Whatley POR 02/02/1997 POR @ MIN L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p365
+aVJermaine O'Neal POR 02/02/1997 POR @ MIN L 14 11 4 7 57.1 0 0 - 3 5 60.0 1 2 3 0 0 0 0 1 -2
+p366
+aVIsaiah Rider POR 02/02/1997 POR @ MIN L 41 16 6 17 35.3 2 5 40.0 2 3 66.7 1 2 3 2 1 1 3 4 4
+p367
+aVGary Trent POR 02/02/1997 POR @ MIN L 38 24 9 12 75.0 0 0 - 6 7 85.7 2 4 6 2 0 1 2 3 8
+p368
+aVDontonio Wingfield POR 02/02/1997 POR @ MIN L 16 2 0 4 0.0 0 1 0.0 2 2 100.0 4 3 7 0 0 0 2 2 -8
+p369
+aVChris Dudley POR 02/02/1997 POR @ MIN L 30 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 2 6 3
+p370
+aVKenny Anderson POR 02/02/1997 POR @ MIN L 39 26 8 16 50.0 2 6 33.3 8 12 66.7 1 5 6 4 2 0 4 5 5
+p371
+aVMitchell Butler POR 02/02/1997 POR @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p372
+aVClifford Robinson POR 02/02/1997 POR @ MIN L 41 15 3 16 18.8 2 5 40.0 7 10 70.0 2 8 10 6 4 1 1 6 2
+p373
+aVChris Dudley POR 01/31/1997 POR @ BOS L 19 8 3 5 60.0 0 0 - 2 2 100.0 1 7 8 1 0 1 2 5 -8
+p374
+aVMarcus Brown POR 01/31/1997 POR @ BOS L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 5
+p375
+aVGary Trent POR 01/31/1997 POR @ BOS L 34 24 10 17 58.8 0 1 0.0 4 4 100.0 0 5 5 2 0 1 1 4 -5
+p376
+aVStacey Augmon POR 01/31/1997 POR @ BOS L 9 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 4
+p377
+aVIsaiah Rider POR 01/31/1997 POR @ BOS L 38 18 8 15 53.3 2 2 100.0 0 0 - 2 3 5 2 2 0 4 1 -10
+p378
+aVDontonio Wingfield POR 01/31/1997 POR @ BOS L 24 14 6 9 66.7 2 3 66.7 0 0 - 5 7 12 2 0 2 3 2 -4
+p379
+aVKenny Anderson POR 01/31/1997 POR @ BOS L 41 13 5 15 33.3 2 4 50.0 1 3 33.3 2 4 6 6 3 1 4 2 -11
+p380
+aVMitchell Butler POR 01/31/1997 POR @ BOS L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -1
+p381
+aVJermaine O'Neal POR 01/31/1997 POR @ BOS L 18 7 3 5 60.0 0 0 - 1 2 50.0 2 4 6 1 0 2 0 2 5
+p382
+aVClifford Robinson POR 01/31/1997 POR @ BOS L 43 21 8 14 57.1 3 6 50.0 2 2 100.0 0 4 4 4 0 1 2 2 -5
+p383
+aVMarcus Brown POR 01/29/1997 POR @ DET L 16 13 4 8 50.0 3 5 60.0 2 2 100.0 0 2 2 1 1 0 1 1 2
+p384
+aVChris Dudley POR 01/29/1997 POR @ DET L 36 7 3 6 50.0 0 0 - 1 1 100.0 4 6 10 1 1 2 2 4 2
+p385
+aVKenny Anderson POR 01/29/1997 POR @ DET L 26 14 4 6 66.7 1 1 100.0 5 6 83.3 0 5 5 4 0 0 5 4 -2
+p386
+aVGary Trent POR 01/29/1997 POR @ DET L 30 13 4 7 57.1 0 0 - 5 8 62.5 1 5 6 1 2 0 2 1 -10
+p387
+aVDontonio Wingfield POR 01/29/1997 POR @ DET L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p388
+aVMitchell Butler POR 01/29/1997 POR @ DET L 20 5 1 2 50.0 0 1 0.0 3 4 75.0 0 2 2 1 1 0 1 6 -8
+p389
+aVStacey Augmon POR 01/29/1997 POR @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -11
+p390
+aVJermaine O'Neal POR 01/29/1997 POR @ DET L 16 10 4 8 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 0 -4
+p391
+aVIsaiah Rider POR 01/29/1997 POR @ DET L 41 12 6 15 40.0 0 3 0.0 0 0 - 4 2 6 2 0 0 2 6 4
+p392
+aVEnnis Whatley POR 01/29/1997 POR @ DET L 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 4 -11
+p393
+aVClifford Robinson POR 01/29/1997 POR @ DET L 34 11 5 13 38.5 1 4 25.0 0 1 0.0 0 1 1 5 1 1 3 4 2
+p394
+aVEnnis Whatley POR 01/28/1997 POR @ TOR L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -11
+p395
+aVJermaine O'Neal POR 01/28/1997 POR @ TOR L 20 4 1 6 16.7 0 0 - 2 4 50.0 2 4 6 0 0 2 2 1 -19
+p396
+aVClifford Robinson POR 01/28/1997 POR @ TOR L 30 11 5 11 45.5 0 3 0.0 1 5 20.0 0 4 4 3 1 2 4 3 -21
+p397
+aVMarcus Brown POR 01/28/1997 POR @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p398
+aVMitchell Butler POR 01/28/1997 POR @ TOR L 12 11 5 6 83.3 1 2 50.0 0 0 - 0 0 0 0 0 1 1 2 -9
+p399
+aVDontonio Wingfield POR 01/28/1997 POR @ TOR L 22 0 0 5 0.0 0 2 0.0 0 0 - 0 4 4 2 2 2 3 4 -22
+p400
+aVChris Dudley POR 01/28/1997 POR @ TOR L 34 12 5 10 50.0 0 0 - 2 2 100.0 4 5 9 1 0 3 1 3 -23
+p401
+aVStacey Augmon POR 01/28/1997 POR @ TOR L 16 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 0 -16
+p402
+aVIsaiah Rider POR 01/28/1997 POR @ TOR L 32 16 6 18 33.3 2 7 28.6 2 5 40.0 3 4 7 6 0 1 2 3 -20
+p403
+aVKenny Anderson POR 01/28/1997 POR @ TOR L 33 13 4 12 33.3 2 4 50.0 3 3 100.0 2 4 6 5 1 2 4 4 -24
+p404
+aVGary Trent POR 01/28/1997 POR @ TOR L 26 13 6 11 54.5 0 0 - 1 2 50.0 3 1 4 0 0 2 0 3 -14
+p405
+aVChris Dudley POR 01/25/1997 POR vs. MIN W 33 2 1 3 33.3 0 0 - 0 0 - 3 9 12 0 0 1 2 4 2
+p406
+aVGary Trent POR 01/25/1997 POR vs. MIN W 38 18 7 9 77.8 0 0 - 4 4 100.0 1 6 7 0 1 0 2 1 5
+p407
+aVDontonio Wingfield POR 01/25/1997 POR vs. MIN W 25 14 5 10 50.0 2 4 50.0 2 2 100.0 2 3 5 0 1 0 1 1 5
+p408
+aVMitchell Butler POR 01/25/1997 POR vs. MIN W 7 2 1 2 50.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 1 0 -8
+p409
+aVMarcus Brown POR 01/25/1997 POR vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p410
+aVIsaiah Rider POR 01/25/1997 POR vs. MIN W 38 26 12 21 57.1 2 4 50.0 0 0 - 2 4 6 2 1 0 4 0 11
+p411
+aVJermaine O'Neal POR 01/25/1997 POR vs. MIN W 10 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 1 1 2 -5
+p412
+aVStacey Augmon POR 01/25/1997 POR vs. MIN W 5 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 0 0
+p413
+aVClifford Robinson POR 01/25/1997 POR vs. MIN W 36 15 5 13 38.5 3 4 75.0 2 2 100.0 3 2 5 9 2 0 4 6 18
+p414
+aVKenny Anderson POR 01/25/1997 POR vs. MIN W 47 19 6 18 33.3 1 2 50.0 6 6 100.0 1 2 3 8 2 0 2 3 4
+p415
+aVKenny Anderson POR 01/24/1997 POR @ PHX W 43 22 7 17 41.2 3 6 50.0 5 10 50.0 0 7 7 15 0 1 1 3 5
+p416
+aVMarcus Brown POR 01/24/1997 POR @ PHX W 6 7 1 2 50.0 1 1 100.0 4 4 100.0 0 0 0 0 0 0 0 0 5
+p417
+aVGary Trent POR 01/24/1997 POR @ PHX W 36 24 10 14 71.4 0 1 0.0 4 6 66.7 3 10 13 4 2 2 1 4 7
+p418
+aVClifford Robinson POR 01/24/1997 POR @ PHX W 39 18 8 18 44.4 1 3 33.3 1 2 50.0 1 1 2 4 2 1 1 6 4
+p419
+aVMitchell Butler POR 01/24/1997 POR @ PHX W 14 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 7
+p420
+aVDontonio Wingfield POR 01/24/1997 POR @ PHX W 18 16 6 7 85.7 3 3 100.0 1 3 33.3 3 0 3 1 1 0 2 3 7
+p421
+aVChris Dudley POR 01/24/1997 POR @ PHX W 37 7 3 8 37.5 0 0 - 1 2 50.0 2 9 11 1 2 1 1 2 7
+p422
+aVIsaiah Rider POR 01/24/1997 POR @ PHX W 36 16 5 12 41.7 0 2 0.0 6 6 100.0 3 1 4 2 1 0 4 0 4
+p423
+aVJermaine O'Neal POR 01/24/1997 POR @ PHX W 10 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 2 4
+p424
+aVKenny Anderson POR 01/22/1997 POR @ SEA L 43 5 2 10 20.0 0 3 0.0 1 1 100.0 1 4 5 10 2 0 4 2 -1
+p425
+aVIsaiah Rider POR 01/22/1997 POR @ SEA L 43 13 6 16 37.5 1 4 25.0 0 2 0.0 0 6 6 4 1 0 5 4 -9
+p426
+aVArvydas Sabonis POR 01/22/1997 POR @ SEA L 25 12 5 10 50.0 0 0 - 2 2 100.0 1 4 5 2 1 1 4 2 -1
+p427
+aVGary Trent POR 01/22/1997 POR @ SEA L 32 24 9 11 81.8 0 0 - 6 6 100.0 3 4 7 2 1 2 1 5 -15
+p428
+aVMarcus Brown POR 01/22/1997 POR @ SEA L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 2 1
+p429
+aVAaron McKie POR 01/22/1997 POR @ SEA L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 7
+p430
+aVClifford Robinson POR 01/22/1997 POR @ SEA L 35 17 5 11 45.5 2 4 50.0 5 6 83.3 1 1 2 2 1 1 2 5 4
+p431
+aVChris Dudley POR 01/22/1997 POR @ SEA L 17 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 4 -18
+p432
+aVDontonio Wingfield POR 01/22/1997 POR @ SEA L 8 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 2 0 1 2 8
+p433
+aVJermaine O'Neal POR 01/22/1997 POR @ SEA L 25 20 8 10 80.0 0 0 - 4 4 100.0 2 4 6 0 0 2 1 4 19
+p434
+aVJermaine O'Neal POR 01/21/1997 POR vs. LAC W 12 4 2 4 50.0 0 0 - 0 0 - 0 6 6 0 0 0 0 1 4
+p435
+aVAaron McKie POR 01/21/1997 POR vs. LAC W 16 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 2 0 0 1 8
+p436
+aVChris Dudley POR 01/21/1997 POR vs. LAC W 23 3 0 3 0.0 0 0 - 3 4 75.0 4 3 7 0 1 3 2 0 -2
+p437
+aVKenny Anderson POR 01/21/1997 POR vs. LAC W 36 15 5 10 50.0 1 4 25.0 4 4 100.0 0 4 4 12 3 0 2 3 21
+p438
+aVMarcus Brown POR 01/21/1997 POR vs. LAC W 12 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 1 1 0 1 0 -3
+p439
+aVGary Trent POR 01/21/1997 POR vs. LAC W 25 13 5 7 71.4 0 0 - 3 4 75.0 1 0 1 2 1 2 0 3 14
+p440
+aVArvydas Sabonis POR 01/21/1997 POR vs. LAC W 27 17 7 17 41.2 1 4 25.0 2 5 40.0 2 5 7 2 2 1 1 2 28
+p441
+aVClifford Robinson POR 01/21/1997 POR vs. LAC W 37 23 10 13 76.9 3 4 75.0 0 1 0.0 0 9 9 1 0 1 4 1 11
+p442
+aVRandolph Childress POR 01/21/1997 POR vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p443
+aVDontonio Wingfield POR 01/21/1997 POR vs. LAC W 15 6 2 7 28.6 1 2 50.0 1 3 33.3 0 2 2 2 0 0 1 5 -1
+p444
+aVIsaiah Rider POR 01/21/1997 POR vs. LAC W 29 9 4 8 50.0 0 0 - 1 1 100.0 1 2 3 3 1 1 5 3 9
+p445
+aVMitchell Butler POR 01/21/1997 POR vs. LAC W 5 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 0
+p446
+aVKenny Anderson POR 01/19/1997 POR vs. UTA W 42 26 7 15 46.7 4 6 66.7 8 11 72.7 0 2 2 7 0 0 1 3 15
+p447
+aVIsaiah Rider POR 01/19/1997 POR vs. UTA W 39 21 8 16 50.0 1 2 50.0 4 4 100.0 3 2 5 4 0 2 4 3 1
+p448
+aVMarcus Brown POR 01/19/1997 POR vs. UTA W 4 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 2 -6
+p449
+aVArvydas Sabonis POR 01/19/1997 POR vs. UTA W 41 22 6 10 60.0 1 3 33.3 9 11 81.8 0 7 7 5 1 0 3 5 10
+p450
+aVDontonio Wingfield POR 01/19/1997 POR vs. UTA W 20 11 4 6 66.7 2 2 100.0 1 2 50.0 5 2 7 1 0 1 0 3 15
+p451
+aVClifford Robinson POR 01/19/1997 POR vs. UTA W 42 17 7 16 43.8 3 9 33.3 0 1 0.0 2 2 4 1 1 0 4 3 8
+p452
+aVChris Dudley POR 01/19/1997 POR vs. UTA W 25 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 0 2 5 -3
+p453
+aVGary Trent POR 01/19/1997 POR vs. UTA W 16 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 1 0 1 1 2 -12
+p454
+aVAaron McKie POR 01/19/1997 POR vs. UTA W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 4 2 0 0 0 2
+p455
+aVArvydas Sabonis POR 01/17/1997 POR vs. TOR L 29 14 7 14 50.0 0 0 - 0 0 - 3 6 9 0 0 2 1 2 -11
+p456
+aVJermaine O'Neal POR 01/17/1997 POR vs. TOR L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p457
+aVChris Dudley POR 01/17/1997 POR vs. TOR L 19 6 3 3 100.0 0 0 - 0 3 0.0 2 3 5 0 0 0 2 0 9
+p458
+aVClifford Robinson POR 01/17/1997 POR vs. TOR L 40 12 5 13 38.5 0 3 0.0 2 2 100.0 1 5 6 6 1 2 0 2 -6
+p459
+aVIsaiah Rider POR 01/17/1997 POR vs. TOR L 40 23 10 20 50.0 1 3 33.3 2 3 66.7 2 4 6 1 0 0 2 4 -10
+p460
+aVDontonio Wingfield POR 01/17/1997 POR vs. TOR L 22 9 3 7 42.9 1 2 50.0 2 2 100.0 2 3 5 3 0 0 2 3 17
+p461
+aVGary Trent POR 01/17/1997 POR vs. TOR L 26 9 3 7 42.9 0 0 - 3 3 100.0 3 4 7 3 0 0 2 1 -19
+p462
+aVKenny Anderson POR 01/17/1997 POR vs. TOR L 44 17 7 15 46.7 0 2 0.0 3 4 75.0 2 3 5 9 3 0 4 3 -7
+p463
+aVAaron McKie POR 01/17/1997 POR vs. TOR L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 1 1 1 1 13
+p464
+aVMitchell Butler POR 01/17/1997 POR vs. TOR L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p465
+aVKenny Anderson POR 01/16/1997 POR @ LAL W 39 16 6 14 42.9 3 6 50.0 1 3 33.3 0 1 1 6 0 0 2 4 -7
+p466
+aVGary Trent POR 01/16/1997 POR @ LAL W 41 17 7 13 53.8 0 0 - 3 3 100.0 4 4 8 2 2 1 2 4 -2
+p467
+aVIsaiah Rider POR 01/16/1997 POR @ LAL W 44 30 7 12 58.3 1 1 100.0 15 18 83.3 2 0 2 3 0 0 8 3 7
+p468
+aVClifford Robinson POR 01/16/1997 POR @ LAL W 42 18 7 15 46.7 3 6 50.0 1 2 50.0 0 4 4 3 1 2 3 4 2
+p469
+aVArvydas Sabonis POR 01/16/1997 POR @ LAL W 24 11 2 5 40.0 1 2 50.0 6 8 75.0 0 6 6 2 1 1 3 5 -3
+p470
+aVAaron McKie POR 01/16/1997 POR @ LAL W 13 0 0 1 0.0 0 0 - 0 0 - 0 5 5 1 1 1 1 2 8
+p471
+aVJermaine O'Neal POR 01/16/1997 POR @ LAL W 6 1 0 0 - 0 0 - 1 4 25.0 1 2 3 1 0 0 0 1 6
+p472
+aVDontonio Wingfield POR 01/16/1997 POR @ LAL W 13 7 3 5 60.0 1 1 100.0 0 0 - 1 2 3 2 0 0 0 2 -1
+p473
+aVChris Dudley POR 01/16/1997 POR @ LAL W 18 2 1 2 50.0 0 0 - 0 0 - 3 5 8 0 0 1 0 6 10
+p474
+aVJermaine O'Neal POR 01/14/1997 POR vs. DET W 11 10 5 8 62.5 0 0 - 0 0 - 2 1 3 0 0 0 2 0 -4
+p475
+aVDontonio Wingfield POR 01/14/1997 POR vs. DET W 11 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 2 0 0 2 3 -8
+p476
+aVMitchell Butler POR 01/14/1997 POR vs. DET W 33 13 5 10 50.0 1 1 100.0 2 2 100.0 2 6 8 1 2 0 2 5 9
+p477
+aVAaron McKie POR 01/14/1997 POR vs. DET W 22 5 1 3 33.3 1 2 50.0 2 2 100.0 0 3 3 4 0 2 2 2 4
+p478
+aVArvydas Sabonis POR 01/14/1997 POR vs. DET W 36 16 5 13 38.5 1 2 50.0 5 5 100.0 4 9 13 3 0 4 3 2 17
+p479
+aVChris Dudley POR 01/14/1997 POR vs. DET W 20 0 0 1 0.0 0 0 - 0 0 - 1 6 7 0 0 1 0 1 -4
+p480
+aVKenny Anderson POR 01/14/1997 POR vs. DET W 45 14 4 14 28.6 1 5 20.0 5 5 100.0 1 4 5 12 0 0 2 3 7
+p481
+aVGary Trent POR 01/14/1997 POR vs. DET W 27 10 5 12 41.7 0 0 - 0 0 - 2 3 5 1 0 0 2 0 12
+p482
+aVIsaiah Rider POR 01/14/1997 POR vs. DET W 36 22 8 14 57.1 3 5 60.0 3 3 100.0 1 5 6 2 0 0 3 3 12
+p483
+aVDontonio Wingfield POR 01/08/1997 POR vs. MIA L 16 4 2 6 33.3 0 2 0.0 0 0 - 2 3 5 0 1 0 0 4 -9
+p484
+aVGary Trent POR 01/08/1997 POR vs. MIA L 34 14 5 9 55.6 0 0 - 4 4 100.0 2 2 4 0 2 1 4 3 2
+p485
+aVChris Dudley POR 01/08/1997 POR vs. MIA L 21 4 2 3 66.7 0 0 - 0 0 - 1 6 7 0 1 1 0 4 6
+p486
+aVAaron McKie POR 01/08/1997 POR vs. MIA L 14 2 1 4 25.0 0 1 0.0 0 1 0.0 0 1 1 1 0 0 1 1 -12
+p487
+aVArvydas Sabonis POR 01/08/1997 POR vs. MIA L 37 17 5 18 27.8 1 5 20.0 6 9 66.7 5 10 15 3 1 1 2 3 -2
+p488
+aVRandolph Childress POR 01/08/1997 POR vs. MIA L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -11
+p489
+aVIsaiah Rider POR 01/08/1997 POR vs. MIA L 29 17 6 14 42.9 1 3 33.3 4 4 100.0 0 1 1 2 1 0 3 5 11
+p490
+aVKenny Anderson POR 01/08/1997 POR vs. MIA L 37 12 4 10 40.0 2 2 100.0 2 2 100.0 1 1 2 7 2 0 5 4 3
+p491
+aVJermaine O'Neal POR 01/08/1997 POR vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p492
+aVMitchell Butler POR 01/08/1997 POR vs. MIA L 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 1
+p493
+aVClifford Robinson POR 01/08/1997 POR vs. MIA L 33 11 4 11 36.4 2 4 50.0 1 2 50.0 0 2 2 0 0 1 2 5 -10
+p494
+aVMitchell Butler POR 01/06/1997 POR vs. LAL W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p495
+aVAaron McKie POR 01/06/1997 POR vs. LAL W 14 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -7
+p496
+aVClifford Robinson POR 01/06/1997 POR vs. LAL W 1 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 0
+p497
+aVIsaiah Rider POR 01/06/1997 POR vs. LAL W 42 17 3 13 23.1 0 1 0.0 11 14 78.6 1 8 9 5 0 0 1 2 7
+p498
+aVChris Dudley POR 01/06/1997 POR vs. LAL W 38 6 2 7 28.6 0 0 - 2 4 50.0 4 9 13 2 0 2 1 4 9
+p499
+aVDontonio Wingfield POR 01/06/1997 POR vs. LAL W 27 11 5 7 71.4 1 3 33.3 0 2 0.0 2 7 9 1 1 0 4 5 5
+p500
+aVJermaine O'Neal POR 01/06/1997 POR vs. LAL W 5 1 0 0 - 0 0 - 1 4 25.0 1 1 2 1 0 1 1 1 -6
+p501
+aVGary Trent POR 01/06/1997 POR vs. LAL W 29 12 4 9 44.4 0 0 - 4 5 80.0 3 0 3 1 1 0 2 3 -4
+p502
+aVKenny Anderson POR 01/06/1997 POR vs. LAL W 40 15 5 13 38.5 2 4 50.0 3 4 75.0 1 3 4 4 4 0 1 1 8
+p503
+aVArvydas Sabonis POR 01/06/1997 POR vs. LAL W 37 24 8 18 44.4 1 4 25.0 7 7 100.0 1 2 3 5 1 0 2 4 10
+p504
+aVAaron McKie POR 01/04/1997 POR @ DAL W 13 2 0 2 0.0 0 1 0.0 2 2 100.0 0 5 5 0 0 0 3 2 5
+p505
+aVRandolph Childress POR 01/04/1997 POR @ DAL W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -7
+p506
+aVChris Dudley POR 01/04/1997 POR @ DAL W 19 0 0 0 - 0 0 - 0 0 - 0 8 8 0 0 3 1 4 -3
+p507
+aVGary Trent POR 01/04/1997 POR @ DAL W 39 12 5 9 55.6 0 0 - 2 3 66.7 3 0 3 2 1 2 3 3 8
+p508
+aVJermaine O'Neal POR 01/04/1997 POR @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p509
+aVClifford Robinson POR 01/04/1997 POR @ DAL W 45 19 8 22 36.4 1 6 16.7 2 2 100.0 4 2 6 4 4 2 4 5 7
+p510
+aVKenny Anderson POR 01/04/1997 POR @ DAL W 41 25 9 14 64.3 2 4 50.0 5 6 83.3 2 6 8 11 1 0 3 3 15
+p511
+aVMitchell Butler POR 01/04/1997 POR @ DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p512
+aVArvydas Sabonis POR 01/04/1997 POR @ DAL W 35 33 11 14 78.6 3 3 100.0 8 14 57.1 1 11 12 3 0 0 0 3 15
+p513
+aVIsaiah Rider POR 01/04/1997 POR @ DAL W 38 19 7 18 38.9 1 2 50.0 4 7 57.1 5 5 10 1 1 1 1 2 1
+p514
+aVKenny Anderson POR 01/02/1997 POR @ HOU W 44 23 7 14 50.0 1 4 25.0 8 10 80.0 1 4 5 10 2 0 1 4 17
+p515
+aVIsaiah Rider POR 01/02/1997 POR @ HOU W 37 31 12 24 50.0 3 10 30.0 4 4 100.0 1 4 5 2 0 0 1 0 21
+p516
+aVRandolph Childress POR 01/02/1997 POR @ HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p517
+aVJermaine O'Neal POR 01/02/1997 POR @ HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 4
+p518
+aVDontonio Wingfield POR 01/02/1997 POR @ HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p519
+aVChris Dudley POR 01/02/1997 POR @ HOU W 16 4 2 2 100.0 0 0 - 0 2 0.0 1 3 4 0 0 0 1 5 -8
+p520
+aVAaron McKie POR 01/02/1997 POR @ HOU W 12 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 -5
+p521
+aVGary Trent POR 01/02/1997 POR @ HOU W 44 19 8 11 72.7 0 0 - 3 3 100.0 4 4 8 2 2 2 2 2 16
+p522
+aVArvydas Sabonis POR 01/02/1997 POR @ HOU W 35 18 3 10 30.0 0 0 - 12 12 100.0 3 9 12 5 1 1 2 5 21
+p523
+aVMitchell Butler POR 01/02/1997 POR @ HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p524
+aVClifford Robinson POR 01/02/1997 POR @ HOU W 44 14 6 13 46.2 2 4 50.0 0 0 - 0 3 3 2 0 2 5 5 19
+p525
+aVRandolph Childress POR 12/29/1996 POR vs. SAS W 22 8 3 6 50.0 1 4 25.0 1 2 50.0 0 0 0 1 2 0 3 2 -12
+p526
+aVArvydas Sabonis POR 12/29/1996 POR vs. SAS W 25 15 5 9 55.6 2 2 100.0 3 5 60.0 2 9 11 1 1 1 0 3 33
+p527
+aVDontonio Wingfield POR 12/29/1996 POR vs. SAS W 14 4 2 5 40.0 0 2 0.0 0 0 - 2 0 2 2 1 0 1 3 6
+p528
+aVAaron McKie POR 12/29/1996 POR vs. SAS W 16 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 3 0 2 2 -12
+p529
+aVJermaine O'Neal POR 12/29/1996 POR vs. SAS W 24 8 2 6 33.3 0 0 - 4 6 66.7 1 4 5 1 0 3 4 2 -7
+p530
+aVMarcus Brown POR 12/29/1996 POR vs. SAS W 5 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 0 0 1 0 2 0
+p531
+aVClifford Robinson POR 12/29/1996 POR vs. SAS W 29 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 3 1 0 2 3 21
+p532
+aVChris Dudley POR 12/29/1996 POR vs. SAS W 18 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 1 0 3 2 -9
+p533
+aVGary Trent POR 12/29/1996 POR vs. SAS W 24 17 7 11 63.6 0 0 - 3 3 100.0 2 2 4 2 0 2 1 4 31
+p534
+aVKenny Anderson POR 12/29/1996 POR vs. SAS W 26 13 5 6 83.3 0 0 - 3 3 100.0 0 2 2 9 3 0 1 4 36
+p535
+aVIsaiah Rider POR 12/29/1996 POR vs. SAS W 27 19 7 10 70.0 1 3 33.3 4 4 100.0 0 3 3 2 0 0 1 3 36
+p536
+aVMitchell Butler POR 12/29/1996 POR vs. SAS W 9 8 3 4 75.0 0 1 0.0 2 2 100.0 3 2 5 0 1 0 1 1 -3
+p537
+aVKenny Anderson POR 12/27/1996 POR @ LAC W 38 25 9 20 45.0 1 4 25.0 6 7 85.7 2 6 8 1 3 0 0 2 1
+p538
+aVChris Dudley POR 12/27/1996 POR @ LAC W 21 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 4 0 2 7
+p539
+aVIsaiah Rider POR 12/27/1996 POR @ LAC W 35 20 6 13 46.2 0 2 0.0 8 8 100.0 2 5 7 2 4 0 3 1 0
+p540
+aVAaron McKie POR 12/27/1996 POR @ LAC W 18 0 0 3 0.0 0 1 0.0 0 0 - 0 5 5 2 0 0 0 1 5
+p541
+aVGary Trent POR 12/27/1996 POR @ LAC W 22 7 3 10 30.0 0 0 - 1 4 25.0 3 2 5 1 0 0 5 4 -5
+p542
+aVArvydas Sabonis POR 12/27/1996 POR @ LAC W 29 15 5 9 55.6 1 1 100.0 4 4 100.0 1 7 8 3 2 0 1 2 -2
+p543
+aVMitchell Butler POR 12/27/1996 POR @ LAC W 13 6 2 5 40.0 0 0 - 2 3 66.7 2 1 3 0 1 0 1 2 3
+p544
+aVClifford Robinson POR 12/27/1996 POR @ LAC W 40 19 6 16 37.5 1 5 20.0 6 7 85.7 2 2 4 0 1 0 1 5 -1
+p545
+aVRandolph Childress POR 12/27/1996 POR @ LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p546
+aVJermaine O'Neal POR 12/27/1996 POR @ LAC W 19 7 2 4 50.0 0 0 - 3 4 75.0 2 4 6 0 0 1 0 1 10
+p547
+aVClifford Robinson POR 12/26/1996 POR @ UTA L 45 17 6 12 50.0 0 3 0.0 5 8 62.5 3 3 6 2 3 3 3 5 -3
+p548
+aVIsaiah Rider POR 12/26/1996 POR @ UTA L 34 19 7 15 46.7 3 4 75.0 2 3 66.7 1 2 3 2 1 1 4 1 -7
+p549
+aVGary Trent POR 12/26/1996 POR @ UTA L 33 14 7 11 63.6 0 1 0.0 0 0 - 1 2 3 0 0 0 1 3 -5
+p550
+aVKenny Anderson POR 12/26/1996 POR @ UTA L 36 10 4 12 33.3 2 3 66.7 0 0 - 0 2 2 8 2 2 2 5 8
+p551
+aVArvydas Sabonis POR 12/26/1996 POR @ UTA L 34 26 8 13 61.5 2 4 50.0 8 8 100.0 2 11 13 2 0 0 6 2 -2
+p552
+aVMitchell Butler POR 12/26/1996 POR @ UTA L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 0 8
+p553
+aVAaron McKie POR 12/26/1996 POR @ UTA L 14 8 2 4 50.0 1 2 50.0 3 3 100.0 2 1 3 0 1 0 1 3 0
+p554
+aVReggie Jordan POR 12/26/1996 POR @ UTA L 12 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 1 0 1 3 -13
+p555
+aVChris Dudley POR 12/26/1996 POR @ UTA L 25 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 0 3 2 5 -11
+p556
+aVIsaiah Rider POR 12/23/1996 POR vs. WAS L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 0 -10
+p557
+aVMitchell Butler POR 12/23/1996 POR vs. WAS L 13 5 2 6 33.3 0 2 0.0 1 4 25.0 2 1 3 1 0 0 0 1 -11
+p558
+aVRasheed Wallace POR 12/23/1996 POR vs. WAS L 16 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 3 0 -3
+p559
+aVArvydas Sabonis POR 12/23/1996 POR vs. WAS L 29 23 10 20 50.0 2 4 50.0 1 4 25.0 1 7 8 1 0 1 4 4 -10
+p560
+aVGary Trent POR 12/23/1996 POR vs. WAS L 19 4 2 7 28.6 0 0 - 0 0 - 3 2 5 1 0 1 1 4 -23
+p561
+aVKenny Anderson POR 12/23/1996 POR vs. WAS L 37 12 4 12 33.3 2 4 50.0 2 3 66.7 2 1 3 6 3 1 0 5 -14
+p562
+aVReggie Jordan POR 12/23/1996 POR vs. WAS L 17 4 2 6 33.3 0 0 - 0 2 0.0 3 2 5 2 0 1 0 0 -3
+p563
+aVClifford Robinson POR 12/23/1996 POR vs. WAS L 42 11 4 11 36.4 1 4 25.0 2 2 100.0 0 1 1 8 1 0 3 3 -17
+p564
+aVAaron McKie POR 12/23/1996 POR vs. WAS L 24 6 2 8 25.0 0 2 0.0 2 2 100.0 0 2 2 3 4 0 1 0 -17
+p565
+aVJermaine O'Neal POR 12/23/1996 POR vs. WAS L 15 8 3 5 60.0 0 0 - 2 4 50.0 1 1 2 0 0 1 0 0 2
+p566
+aVChris Dudley POR 12/23/1996 POR vs. WAS L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -4
+p567
+aVKenny Anderson POR 12/21/1996 POR @ SAC L 44 11 5 16 31.3 1 8 12.5 0 0 - 2 6 8 8 2 0 1 4 4
+p568
+aVArvydas Sabonis POR 12/21/1996 POR @ SAC L 24 8 2 7 28.6 0 2 0.0 4 4 100.0 1 10 11 1 0 3 2 5 -3
+p569
+aVRasheed Wallace POR 12/21/1996 POR @ SAC L 40 38 17 25 68.0 0 1 0.0 4 5 80.0 2 3 5 2 1 1 3 2 6
+p570
+aVGary Trent POR 12/21/1996 POR @ SAC L 13 6 2 3 66.7 0 0 - 2 4 50.0 1 2 3 0 0 0 2 2 -8
+p571
+aVIsaiah Rider POR 12/21/1996 POR @ SAC L 26 8 3 9 33.3 0 0 - 2 2 100.0 1 2 3 3 1 0 1 2 -6
+p572
+aVClifford Robinson POR 12/21/1996 POR @ SAC L 47 16 5 15 33.3 2 5 40.0 4 5 80.0 1 3 4 3 2 4 2 2 -4
+p573
+aVMitchell Butler POR 12/21/1996 POR @ SAC L 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -3
+p574
+aVChris Dudley POR 12/21/1996 POR @ SAC L 28 5 2 3 66.7 0 0 - 1 2 50.0 0 7 7 0 0 1 2 1 6
+p575
+aVAaron McKie POR 12/21/1996 POR @ SAC L 27 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 2 0 1 0 3 4
+p576
+aVReggie Jordan POR 12/21/1996 POR @ SAC L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 2 2 4 -6
+p577
+aVJermaine O'Neal POR 12/20/1996 POR vs. DAL W 16 4 2 7 28.6 0 1 0.0 0 0 - 2 1 3 1 0 0 1 2 -1
+p578
+aVRasheed Wallace POR 12/20/1996 POR vs. DAL W 16 12 5 6 83.3 0 0 - 2 2 100.0 0 6 6 0 0 1 0 4 26
+p579
+aVClifford Robinson POR 12/20/1996 POR vs. DAL W 32 21 7 11 63.6 3 4 75.0 4 4 100.0 1 4 5 3 0 0 1 1 24
+p580
+aVMitchell Butler POR 12/20/1996 POR vs. DAL W 12 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 1 0 0 1 1 0
+p581
+aVAaron McKie POR 12/20/1996 POR vs. DAL W 12 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 1 -4
+p582
+aVReggie Jordan POR 12/20/1996 POR vs. DAL W 24 8 2 2 100.0 0 0 - 4 6 66.7 4 5 9 3 1 0 1 2 17
+p583
+aVKenny Anderson POR 12/20/1996 POR vs. DAL W 25 7 3 8 37.5 0 2 0.0 1 2 50.0 0 3 3 10 2 0 2 1 13
+p584
+aVIsaiah Rider POR 12/20/1996 POR vs. DAL W 31 18 7 15 46.7 2 7 28.6 2 3 66.7 0 0 0 2 1 0 1 1 32
+p585
+aVGary Trent POR 12/20/1996 POR vs. DAL W 26 18 8 11 72.7 0 1 0.0 2 5 40.0 4 5 9 1 0 0 2 5 12
+p586
+aVArvydas Sabonis POR 12/20/1996 POR vs. DAL W 20 9 3 7 42.9 0 2 0.0 3 3 100.0 0 6 6 2 0 3 2 4 13
+p587
+aVChris Dudley POR 12/20/1996 POR vs. DAL W 22 6 2 6 33.3 0 0 - 2 4 50.0 2 6 8 2 1 3 2 2 16
+p588
+aVRandolph Childress POR 12/20/1996 POR vs. DAL W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 2
+p589
+aVClifford Robinson POR 12/18/1996 POR vs. SEA L 44 18 8 16 50.0 1 6 16.7 1 2 50.0 2 5 7 4 0 0 2 4 0
+p590
+aVRandolph Childress POR 12/18/1996 POR vs. SEA L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p591
+aVChris Dudley POR 12/18/1996 POR vs. SEA L 20 4 1 2 50.0 0 0 - 2 6 33.3 3 2 5 2 1 1 1 4 -3
+p592
+aVGary Trent POR 12/18/1996 POR vs. SEA L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -2
+p593
+aVAaron McKie POR 12/18/1996 POR vs. SEA L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p594
+aVIsaiah Rider POR 12/18/1996 POR vs. SEA L 38 23 7 17 41.2 0 3 0.0 9 10 90.0 6 5 11 2 2 0 3 3 -1
+p595
+aVArvydas Sabonis POR 12/18/1996 POR vs. SEA L 27 8 3 5 60.0 1 2 50.0 1 2 50.0 0 3 3 4 1 1 2 2 -3
+p596
+aVJermaine O'Neal POR 12/18/1996 POR vs. SEA L 18 7 3 6 50.0 0 0 - 1 1 100.0 1 4 5 0 0 0 0 3 -6
+p597
+aVRasheed Wallace POR 12/18/1996 POR vs. SEA L 25 19 7 12 58.3 2 2 100.0 3 7 42.9 2 4 6 0 1 2 1 5 1
+p598
+aVKenny Anderson POR 12/18/1996 POR vs. SEA L 42 21 8 19 42.1 2 8 25.0 3 3 100.0 2 3 5 11 1 0 3 4 -2
+p599
+aVArvydas Sabonis POR 12/15/1996 POR vs. HOU L 32 18 6 12 50.0 0 4 0.0 6 7 85.7 3 6 9 2 1 1 6 4 10
+p600
+aVClifford Robinson POR 12/15/1996 POR vs. HOU L 39 13 5 12 41.7 0 2 0.0 3 4 75.0 1 1 2 2 1 1 2 3 -1
+p601
+aVKenny Anderson POR 12/15/1996 POR vs. HOU L 44 26 10 24 41.7 3 8 37.5 3 3 100.0 0 1 1 10 5 0 1 5 -4
+p602
+aVMitchell Butler POR 12/15/1996 POR vs. HOU L 9 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -9
+p603
+aVGary Trent POR 12/15/1996 POR vs. HOU L 8 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -8
+p604
+aVChris Dudley POR 12/15/1996 POR vs. HOU L 16 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 1 0 4 -20
+p605
+aVRasheed Wallace POR 12/15/1996 POR vs. HOU L 40 15 6 11 54.5 0 1 0.0 3 8 37.5 2 5 7 4 1 1 1 5 -2
+p606
+aVIsaiah Rider POR 12/15/1996 POR vs. HOU L 31 12 4 13 30.8 2 4 50.0 2 2 100.0 2 4 6 1 0 0 0 4 4
+p607
+aVAaron McKie POR 12/15/1996 POR vs. HOU L 17 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 2 0 0 0 0 -14
+p608
+aVAleksandar Djordjevic POR 12/15/1996 POR vs. HOU L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p609
+aVGary Trent POR 12/13/1996 POR @ LAL L 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -10
+p610
+aVChris Dudley POR 12/13/1996 POR @ LAL L 17 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 5 -7
+p611
+aVIsaiah Rider POR 12/13/1996 POR @ LAL L 35 11 4 5 80.0 1 1 100.0 2 4 50.0 1 4 5 5 0 0 4 2 6
+p612
+aVAaron McKie POR 12/13/1996 POR @ LAL L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -7
+p613
+aVKenny Anderson POR 12/13/1996 POR @ LAL L 49 34 13 22 59.1 3 5 60.0 5 6 83.3 2 5 7 5 1 0 3 4 -4
+p614
+aVRandolph Childress POR 12/13/1996 POR @ LAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 3
+p615
+aVMitchell Butler POR 12/13/1996 POR @ LAL L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p616
+aVJermaine O'Neal POR 12/13/1996 POR @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p617
+aVArvydas Sabonis POR 12/13/1996 POR @ LAL L 41 13 4 12 33.3 2 5 40.0 3 4 75.0 1 8 9 3 1 4 2 4 -2
+p618
+aVRasheed Wallace POR 12/13/1996 POR @ LAL L 36 29 9 10 90.0 0 0 - 11 15 73.3 1 8 9 1 0 1 3 4 16
+p619
+aVClifford Robinson POR 12/13/1996 POR @ LAL L 49 18 7 18 38.9 3 7 42.9 1 1 100.0 2 1 3 6 2 1 3 4 -4
+p620
+aVRasheed Wallace POR 12/12/1996 POR vs. VAN W 31 14 6 18 33.3 0 0 - 2 3 66.7 4 9 13 0 0 3 2 4 9
+p621
+aVAleksandar Djordjevic POR 12/12/1996 POR vs. VAN W 14 8 3 3 100.0 2 2 100.0 0 1 0.0 0 1 1 0 0 0 2 0 9
+p622
+aVGary Trent POR 12/12/1996 POR vs. VAN W 26 10 3 7 42.9 0 0 - 4 6 66.7 4 2 6 1 0 0 4 3 11
+p623
+aVKenny Anderson POR 12/12/1996 POR vs. VAN W 37 22 8 15 53.3 1 5 20.0 5 6 83.3 2 7 9 3 2 0 3 4 17
+p624
+aVArvydas Sabonis POR 12/12/1996 POR vs. VAN W 22 13 6 11 54.5 1 4 25.0 0 1 0.0 1 5 6 1 0 4 0 0 7
+p625
+aVRandolph Childress POR 12/12/1996 POR vs. VAN W 16 7 2 6 33.3 1 3 33.3 2 2 100.0 0 0 0 1 0 0 0 2 2
+p626
+aVClifford Robinson POR 12/12/1996 POR vs. VAN W 38 17 5 8 62.5 1 2 50.0 6 9 66.7 0 2 2 6 1 0 4 2 20
+p627
+aVAaron McKie POR 12/12/1996 POR vs. VAN W 29 3 1 3 33.3 0 1 0.0 1 1 100.0 0 3 3 5 2 0 1 4 14
+p628
+aVJermaine O'Neal POR 12/12/1996 POR vs. VAN W 3 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 3
+p629
+aVDontonio Wingfield POR 12/12/1996 POR vs. VAN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p630
+aVChris Dudley POR 12/12/1996 POR vs. VAN W 22 0 0 5 0.0 0 0 - 0 2 0.0 6 3 9 0 0 0 0 2 11
+p631
+aVClifford Robinson POR 12/10/1996 POR vs. ORL L 46 33 11 18 61.1 3 7 42.9 8 12 66.7 2 2 4 2 1 0 1 2 -6
+p632
+aVArvydas Sabonis POR 12/10/1996 POR vs. ORL L 19 11 4 8 50.0 1 1 100.0 2 2 100.0 1 4 5 2 0 0 2 5 -2
+p633
+aVAaron McKie POR 12/10/1996 POR vs. ORL L 41 7 2 6 33.3 2 2 100.0 1 2 50.0 0 3 3 5 2 0 4 3 -3
+p634
+aVChris Dudley POR 12/10/1996 POR vs. ORL L 28 1 0 2 0.0 0 0 - 1 2 50.0 3 4 7 1 0 3 0 1 -3
+p635
+aVRasheed Wallace POR 12/10/1996 POR vs. ORL L 33 20 10 16 62.5 0 0 - 0 0 - 3 7 10 0 0 0 2 4 -1
+p636
+aVRandolph Childress POR 12/10/1996 POR vs. ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p637
+aVGary Trent POR 12/10/1996 POR vs. ORL L 16 8 4 8 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -5
+p638
+aVAleksandar Djordjevic POR 12/10/1996 POR vs. ORL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p639
+aVIsaiah Rider POR 12/10/1996 POR vs. ORL L 15 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 0 1 0 4 1 -6
+p640
+aVKenny Anderson POR 12/10/1996 POR vs. ORL L 35 11 5 14 35.7 0 2 0.0 1 3 33.3 3 3 6 12 1 0 0 6 2
+p641
+aVGary Trent POR 12/06/1996 POR vs. CHH W 19 3 1 6 16.7 0 0 - 1 2 50.0 2 6 8 3 2 1 1 2 13
+p642
+aVIsaiah Rider POR 12/06/1996 POR vs. CHH W 40 18 8 14 57.1 2 3 66.7 0 2 0.0 0 2 2 3 1 0 2 0 7
+p643
+aVJermaine O'Neal POR 12/06/1996 POR vs. CHH W 9 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 2 2 2
+p644
+aVChris Dudley POR 12/06/1996 POR vs. CHH W 20 3 1 6 16.7 0 0 - 1 4 25.0 4 3 7 0 1 3 2 3 -4
+p645
+aVClifford Robinson POR 12/06/1996 POR vs. CHH W 39 11 5 9 55.6 1 1 100.0 0 2 0.0 1 1 2 4 0 0 2 3 2
+p646
+aVAleksandar Djordjevic POR 12/06/1996 POR vs. CHH W 12 7 2 3 66.7 1 1 100.0 2 2 100.0 0 0 0 2 0 0 1 0 2
+p647
+aVKenny Anderson POR 12/06/1996 POR vs. CHH W 36 16 5 14 35.7 1 4 25.0 5 10 50.0 2 5 7 9 0 0 4 4 2
+p648
+aVAaron McKie POR 12/06/1996 POR vs. CHH W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p649
+aVArvydas Sabonis POR 12/06/1996 POR vs. CHH W 24 22 8 11 72.7 2 2 100.0 4 4 100.0 3 7 10 1 1 0 1 4 9
+p650
+aVRasheed Wallace POR 12/06/1996 POR vs. CHH W 33 15 5 9 55.6 0 1 0.0 5 5 100.0 1 4 5 3 1 1 2 5 -10
+p651
+aVRandolph Childress POR 12/05/1996 POR @ DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p652
+aVChris Dudley POR 12/05/1996 POR @ DEN W 19 1 0 0 - 0 0 - 1 2 50.0 2 4 6 0 0 1 1 4 0
+p653
+aVAaron McKie POR 12/05/1996 POR @ DEN W 23 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 1 6 2
+p654
+aVKenny Anderson POR 12/05/1996 POR @ DEN W 42 26 8 17 47.1 3 7 42.9 7 8 87.5 1 4 5 9 2 0 1 2 13
+p655
+aVGary Trent POR 12/05/1996 POR @ DEN W 19 2 1 4 25.0 0 0 - 0 2 0.0 1 2 3 1 0 0 1 1 1
+p656
+aVRasheed Wallace POR 12/05/1996 POR @ DEN W 29 14 6 9 66.7 2 2 100.0 0 1 0.0 3 6 9 1 0 0 1 4 12
+p657
+aVAleksandar Djordjevic POR 12/05/1996 POR @ DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p658
+aVJermaine O'Neal POR 12/05/1996 POR @ DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -1
+p659
+aVClifford Robinson POR 12/05/1996 POR @ DEN W 44 21 9 22 40.9 1 6 16.7 2 3 66.7 3 0 3 4 2 0 1 4 10
+p660
+aVArvydas Sabonis POR 12/05/1996 POR @ DEN W 29 22 6 11 54.5 2 3 66.7 8 9 88.9 2 13 15 3 0 1 1 0 13
+p661
+aVIsaiah Rider POR 12/05/1996 POR @ DEN W 27 21 9 16 56.3 2 6 33.3 1 3 33.3 2 1 3 1 1 0 2 5 10
+p662
+aVAaron McKie POR 12/03/1996 POR vs. IND L 21 3 1 5 20.0 1 1 100.0 0 0 - 0 0 0 2 1 1 0 5 -9
+p663
+aVChris Dudley POR 12/03/1996 POR vs. IND L 35 6 3 4 75.0 0 0 - 0 0 - 3 8 11 2 3 2 2 5 0
+p664
+aVClifford Robinson POR 12/03/1996 POR vs. IND L 51 23 6 16 37.5 1 5 20.0 10 12 83.3 2 2 4 4 0 0 2 2 -1
+p665
+aVAleksandar Djordjevic POR 12/03/1996 POR vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -3
+p666
+aVArvydas Sabonis POR 12/03/1996 POR vs. IND L 20 10 4 8 50.0 0 0 - 2 4 50.0 3 4 7 2 0 2 2 5 -7
+p667
+aVGary Trent POR 12/03/1996 POR vs. IND L 22 8 4 9 44.4 0 1 0.0 0 0 - 2 4 6 0 1 0 3 3 1
+p668
+aVRasheed Wallace POR 12/03/1996 POR vs. IND L 31 4 2 8 25.0 0 0 - 0 0 - 0 4 4 0 1 0 1 2 -6
+p669
+aVKenny Anderson POR 12/03/1996 POR vs. IND L 46 29 9 21 42.9 1 8 12.5 10 12 83.3 2 3 5 3 0 0 1 3 -1
+p670
+aVIsaiah Rider POR 12/03/1996 POR vs. IND L 34 10 4 15 26.7 0 6 0.0 2 2 100.0 2 2 4 2 0 1 2 5 1
+p671
+aVRasheed Wallace POR 12/01/1996 POR @ GSW L 27 8 3 11 27.3 0 0 - 2 4 50.0 3 4 7 0 0 2 2 3 -32
+p672
+aVMitchell Butler POR 12/01/1996 POR @ GSW L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 3 2
+p673
+aVIsaiah Rider POR 12/01/1996 POR @ GSW L 37 13 5 15 33.3 2 7 28.6 1 2 50.0 1 2 3 3 1 1 3 2 -18
+p674
+aVChris Dudley POR 12/01/1996 POR @ GSW L 23 1 0 3 0.0 0 0 - 1 4 25.0 2 5 7 0 1 5 3 2 -19
+p675
+aVAaron McKie POR 12/01/1996 POR @ GSW L 22 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 3 0 0 3 1 -12
+p676
+aVDontonio Wingfield POR 12/01/1996 POR @ GSW L 12 3 1 3 33.3 1 3 33.3 0 2 0.0 2 1 3 1 0 0 1 3 -6
+p677
+aVGary Trent POR 12/01/1996 POR @ GSW L 21 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 2 1 -6
+p678
+aVKenny Anderson POR 12/01/1996 POR @ GSW L 25 7 1 9 11.1 0 2 0.0 5 5 100.0 2 2 4 2 2 0 2 4 -37
+p679
+aVAleksandar Djordjevic POR 12/01/1996 POR @ GSW L 12 8 2 4 50.0 2 2 100.0 2 2 100.0 1 2 3 1 0 0 0 3 11
+p680
+aVClifford Robinson POR 12/01/1996 POR @ GSW L 33 13 5 12 41.7 2 4 50.0 1 2 50.0 1 1 2 1 3 1 2 2 -20
+p681
+aVArvydas Sabonis POR 12/01/1996 POR @ GSW L 18 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 1 0 2 0 4 -3
+p682
+aVArvydas Sabonis POR 11/29/1996 POR vs. GSW W 13 5 2 5 40.0 1 1 100.0 0 0 - 2 1 3 1 2 0 2 4 -5
+p683
+aVIsaiah Rider POR 11/29/1996 POR vs. GSW W 32 16 7 16 43.8 2 4 50.0 0 0 - 3 2 5 1 0 0 2 4 5
+p684
+aVAleksandar Djordjevic POR 11/29/1996 POR vs. GSW W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p685
+aVClifford Robinson POR 11/29/1996 POR vs. GSW W 37 14 4 10 40.0 1 4 25.0 5 10 50.0 4 0 4 6 0 1 2 2 13
+p686
+aVKenny Anderson POR 11/29/1996 POR vs. GSW W 19 12 4 8 50.0 2 4 50.0 2 2 100.0 1 1 2 2 0 0 1 2 6
+p687
+aVChris Dudley POR 11/29/1996 POR vs. GSW W 22 5 1 1 100.0 0 0 - 3 4 75.0 2 2 4 0 1 0 2 4 11
+p688
+aVDontonio Wingfield POR 11/29/1996 POR vs. GSW W 5 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 0 0 1 3 4
+p689
+aVMitchell Butler POR 11/29/1996 POR vs. GSW W 15 7 2 5 40.0 1 3 33.3 2 2 100.0 0 1 1 0 1 1 0 4 19
+p690
+aVRandolph Childress POR 11/29/1996 POR vs. GSW W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 2
+p691
+aVRasheed Wallace POR 11/29/1996 POR vs. GSW W 34 20 9 13 69.2 0 0 - 2 2 100.0 5 7 12 4 0 0 3 3 12
+p692
+aVGary Trent POR 11/29/1996 POR vs. GSW W 23 18 7 11 63.6 0 0 - 4 5 80.0 2 8 10 0 0 0 1 3 30
+p693
+aVAaron McKie POR 11/29/1996 POR vs. GSW W 32 17 7 12 58.3 2 5 40.0 1 2 50.0 1 5 6 6 2 1 2 2 29
+p694
+aVGary Trent POR 11/27/1996 POR @ SAS W 19 9 3 7 42.9 0 0 - 3 4 75.0 3 4 7 1 0 0 2 0 7
+p695
+aVClifford Robinson POR 11/27/1996 POR @ SAS W 34 20 6 15 40.0 1 4 25.0 7 8 87.5 1 4 5 2 4 0 2 3 8
+p696
+aVChris Dudley POR 11/27/1996 POR @ SAS W 23 3 1 2 50.0 0 0 - 1 2 50.0 4 4 8 1 1 3 0 1 2
+p697
+aVArvydas Sabonis POR 11/27/1996 POR @ SAS W 24 23 8 13 61.5 0 2 0.0 7 10 70.0 2 3 5 4 1 1 2 0 7
+p698
+aVRasheed Wallace POR 11/27/1996 POR @ SAS W 29 10 3 5 60.0 0 0 - 4 8 50.0 4 1 5 1 0 1 3 2 4
+p699
+aVIsaiah Rider POR 11/27/1996 POR @ SAS W 34 17 6 9 66.7 4 6 66.7 1 2 50.0 2 3 5 3 0 0 1 5 9
+p700
+aVKenny Anderson POR 11/27/1996 POR @ SAS W 38 25 8 15 53.3 1 5 20.0 8 10 80.0 3 3 6 8 1 0 2 3 7
+p701
+aVAaron McKie POR 11/27/1996 POR @ SAS W 16 5 2 5 40.0 1 1 100.0 0 0 - 2 1 3 2 0 0 1 3 4
+p702
+aVMitchell Butler POR 11/27/1996 POR @ SAS W 14 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 5
+p703
+aVRandolph Childress POR 11/27/1996 POR @ SAS W 9 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 2
+p704
+aVIsaiah Rider POR 11/26/1996 POR @ HOU L 43 8 3 12 25.0 2 5 40.0 0 0 - 3 1 4 11 2 0 0 2 2
+p705
+aVAaron McKie POR 11/26/1996 POR @ HOU L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 0 0 1 1 -1
+p706
+aVArvydas Sabonis POR 11/26/1996 POR @ HOU L 31 6 2 5 40.0 0 2 0.0 2 2 100.0 1 6 7 3 1 1 5 6 9
+p707
+aVKenny Anderson POR 11/26/1996 POR @ HOU L 45 32 10 19 52.6 4 8 50.0 8 8 100.0 0 4 4 5 3 0 3 3 2
+p708
+aVChris Dudley POR 11/26/1996 POR @ HOU L 28 5 2 3 66.7 0 0 - 1 2 50.0 3 5 8 1 0 2 3 5 -19
+p709
+aVClifford Robinson POR 11/26/1996 POR @ HOU L 50 22 9 18 50.0 3 6 50.0 1 2 50.0 2 2 4 4 2 2 2 4 -3
+p710
+aVRasheed Wallace POR 11/26/1996 POR @ HOU L 37 16 8 12 66.7 0 2 0.0 0 0 - 1 11 12 0 2 3 5 5 12
+p711
+aVRandolph Childress POR 11/26/1996 POR @ HOU L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 2 1 -5
+p712
+aVGary Trent POR 11/26/1996 POR @ HOU L 14 10 5 9 55.6 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -2
+p713
+aVReggie Jordan POR 11/23/1996 POR vs. DEN W 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 4
+p714
+aVArvydas Sabonis POR 11/23/1996 POR vs. DEN W 25 11 5 9 55.6 1 2 50.0 0 0 - 1 5 6 4 1 1 3 1 16
+p715
+aVClifford Robinson POR 11/23/1996 POR vs. DEN W 36 11 5 11 45.5 1 3 33.3 0 2 0.0 1 1 2 5 0 1 1 3 33
+p716
+aVDontonio Wingfield POR 11/23/1996 POR vs. DEN W 9 5 1 4 25.0 1 3 33.3 2 2 100.0 1 4 5 0 0 0 2 3 9
+p717
+aVAaron McKie POR 11/23/1996 POR vs. DEN W 13 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 1 1 0 1 22
+p718
+aVIsaiah Rider POR 11/23/1996 POR vs. DEN W 28 10 4 9 44.4 1 5 20.0 1 2 50.0 1 3 4 1 0 0 2 2 14
+p719
+aVRandolph Childress POR 11/23/1996 POR vs. DEN W 18 5 2 5 40.0 0 2 0.0 1 2 50.0 0 0 0 6 3 0 2 1 21
+p720
+aVChris Dudley POR 11/23/1996 POR vs. DEN W 23 7 3 6 50.0 0 0 - 1 3 33.3 3 7 10 1 1 3 3 2 24
+p721
+aVMitchell Butler POR 11/23/1996 POR vs. DEN W 7 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 0 0 0 0 2 4
+p722
+aVGary Trent POR 11/23/1996 POR vs. DEN W 25 22 9 12 75.0 0 0 - 4 4 100.0 3 10 13 1 0 0 2 4 23
+p723
+aVRasheed Wallace POR 11/23/1996 POR vs. DEN W 19 7 2 6 33.3 0 0 - 3 4 75.0 1 3 4 0 0 1 5 3 11
+p724
+aVKenny Anderson POR 11/23/1996 POR vs. DEN W 30 14 5 7 71.4 4 5 80.0 0 0 - 1 5 6 8 0 0 0 3 19
+p725
+aVGary Trent POR 11/19/1996 POR vs. SAC W 21 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -11
+p726
+aVChris Dudley POR 11/19/1996 POR vs. SAC W 21 6 3 5 60.0 0 0 - 0 2 0.0 5 5 10 0 0 0 0 2 -12
+p727
+aVAaron McKie POR 11/19/1996 POR vs. SAC W 19 3 0 3 0.0 0 2 0.0 3 4 75.0 0 3 3 3 0 1 1 1 3
+p728
+aVArvydas Sabonis POR 11/19/1996 POR vs. SAC W 32 14 5 13 38.5 0 1 0.0 4 6 66.7 2 8 10 1 2 0 2 2 14
+p729
+aVKenny Anderson POR 11/19/1996 POR vs. SAC W 46 20 6 14 42.9 2 4 50.0 6 7 85.7 2 2 4 3 2 0 1 3 -10
+p730
+aVRasheed Wallace POR 11/19/1996 POR vs. SAC W 37 14 7 17 41.2 0 0 - 0 0 - 5 3 8 2 1 0 2 1 16
+p731
+aVClifford Robinson POR 11/19/1996 POR vs. SAC W 48 23 10 19 52.6 1 2 50.0 2 2 100.0 2 2 4 2 1 0 0 2 -1
+p732
+aVIsaiah Rider POR 11/19/1996 POR vs. SAC W 41 6 3 12 25.0 0 3 0.0 0 0 - 2 2 4 5 1 0 2 4 11
+p733
+aVArvydas Sabonis POR 11/17/1996 POR @ IND W 32 18 6 11 54.5 1 1 100.0 5 5 100.0 3 5 8 2 1 3 3 4 9
+p734
+aVKenny Anderson POR 11/17/1996 POR @ IND W 44 11 5 15 33.3 0 4 0.0 1 2 50.0 0 8 8 12 2 0 3 0 7
+p735
+aVRasheed Wallace POR 11/17/1996 POR @ IND W 27 17 7 14 50.0 0 1 0.0 3 4 75.0 3 5 8 0 1 1 0 4 14
+p736
+aVClifford Robinson POR 11/17/1996 POR @ IND W 43 16 4 12 33.3 1 6 16.7 7 8 87.5 0 4 4 3 0 0 1 1 9
+p737
+aVGary Trent POR 11/17/1996 POR @ IND W 22 6 3 6 50.0 0 0 - 0 0 - 2 0 2 1 1 0 0 4 -8
+p738
+aVAaron McKie POR 11/17/1996 POR @ IND W 31 10 4 8 50.0 2 4 50.0 0 0 - 1 3 4 2 1 1 3 1 5
+p739
+aVChris Dudley POR 11/17/1996 POR @ IND W 20 4 2 2 100.0 0 0 - 0 0 - 3 5 8 0 0 2 0 2 -9
+p740
+aVIsaiah Rider POR 11/17/1996 POR @ IND W 21 6 3 8 37.5 0 2 0.0 0 0 - 2 7 9 1 0 0 2 4 -2
+p741
+aVAaron McKie POR 11/15/1996 POR @ NJN W 14 6 1 2 50.0 1 1 100.0 3 4 75.0 0 0 0 0 1 1 0 0 -3
+p742
+aVGary Trent POR 11/15/1996 POR @ NJN W 28 10 3 7 42.9 0 0 - 4 4 100.0 0 2 2 1 2 0 2 2 5
+p743
+aVChris Dudley POR 11/15/1996 POR @ NJN W 41 7 3 7 42.9 0 0 - 1 2 50.0 4 9 13 0 0 2 0 5 4
+p744
+aVIsaiah Rider POR 11/15/1996 POR @ NJN W 42 15 6 17 35.3 1 6 16.7 2 2 100.0 0 3 3 4 2 0 5 3 11
+p745
+aVKenny Anderson POR 11/15/1996 POR @ NJN W 40 22 5 11 45.5 0 5 0.0 12 14 85.7 1 6 7 2 1 0 2 1 8
+p746
+aVClifford Robinson POR 11/15/1996 POR @ NJN W 35 21 7 19 36.8 0 5 0.0 7 12 58.3 1 5 6 2 1 1 3 5 12
+p747
+aVDontonio Wingfield POR 11/15/1996 POR @ NJN W 26 8 3 4 75.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 1 3 9
+p748
+aVArvydas Sabonis POR 11/15/1996 POR @ NJN W 5 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -2
+p749
+aVMitchell Butler POR 11/15/1996 POR @ NJN W 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p750
+aVChris Dudley POR 11/13/1996 POR @ CLE L 13 0 0 4 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -17
+p751
+aVKenny Anderson POR 11/13/1996 POR @ CLE L 39 12 4 12 33.3 1 4 25.0 3 6 50.0 1 2 3 3 3 0 5 4 -4
+p752
+aVDontonio Wingfield POR 11/13/1996 POR @ CLE L 13 3 1 4 25.0 1 1 100.0 0 0 - 2 1 3 1 0 0 3 2 1
+p753
+aVIsaiah Rider POR 11/13/1996 POR @ CLE L 37 15 6 17 35.3 1 1 100.0 2 3 66.7 3 3 6 5 1 0 5 4 -5
+p754
+aVGary Trent POR 11/13/1996 POR @ CLE L 28 12 6 8 75.0 0 0 - 0 0 - 1 6 7 1 0 0 2 1 -1
+p755
+aVArvydas Sabonis POR 11/13/1996 POR @ CLE L 22 2 1 4 25.0 0 1 0.0 0 2 0.0 1 5 6 2 1 3 0 2 -2
+p756
+aVRasheed Wallace POR 11/13/1996 POR @ CLE L 31 12 5 9 55.6 0 0 - 2 3 66.7 0 7 7 1 0 2 1 2 -15
+p757
+aVClifford Robinson POR 11/13/1996 POR @ CLE L 38 11 4 12 33.3 1 5 20.0 2 2 100.0 1 5 6 6 0 1 3 2 1
+p758
+aVAaron McKie POR 11/13/1996 POR @ CLE L 19 3 1 4 25.0 1 1 100.0 0 0 - 0 3 3 3 1 0 1 2 -13
+p759
+aVAaron McKie POR 11/12/1996 POR @ MIN L 21 5 1 5 20.0 1 2 50.0 2 2 100.0 0 2 2 0 0 0 0 1 -4
+p760
+aVClifford Robinson POR 11/12/1996 POR @ MIN L 42 14 4 12 33.3 3 7 42.9 3 4 75.0 1 2 3 4 1 2 3 2 -4
+p761
+aVIsaiah Rider POR 11/12/1996 POR @ MIN L 39 22 8 21 38.1 4 8 50.0 2 4 50.0 0 4 4 1 1 0 3 0 -5
+p762
+aVDontonio Wingfield POR 11/12/1996 POR @ MIN L 12 6 2 4 50.0 0 0 - 2 3 66.7 2 1 3 1 0 0 0 2 -2
+p763
+aVMitchell Butler POR 11/12/1996 POR @ MIN L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p764
+aVKenny Anderson POR 11/12/1996 POR @ MIN L 36 15 2 12 16.7 0 2 0.0 11 14 78.6 1 1 2 8 3 1 1 4 3
+p765
+aVArvydas Sabonis POR 11/12/1996 POR @ MIN L 22 8 3 5 60.0 1 1 100.0 1 2 50.0 3 5 8 0 1 1 1 6 -4
+p766
+aVChris Dudley POR 11/12/1996 POR @ MIN L 25 6 3 6 50.0 0 0 - 0 3 0.0 1 6 7 1 0 0 1 5 3
+p767
+aVGary Trent POR 11/12/1996 POR @ MIN L 10 6 3 4 75.0 0 0 - 0 0 - 3 2 5 0 0 0 2 0 -6
+p768
+aVRasheed Wallace POR 11/12/1996 POR @ MIN L 32 15 4 8 50.0 0 0 - 7 8 87.5 2 5 7 0 1 1 2 5 6
+p769
+aVIsaiah Rider POR 11/10/1996 POR vs. SAS W 36 23 8 15 53.3 3 6 50.0 4 6 66.7 3 3 6 2 0 0 2 4 12
+p770
+aVGary Trent POR 11/10/1996 POR vs. SAS W 14 6 2 7 28.6 0 1 0.0 2 2 100.0 4 4 8 0 0 0 1 2 -1
+p771
+aVDontonio Wingfield POR 11/10/1996 POR vs. SAS W 24 9 4 11 36.4 1 3 33.3 0 0 - 3 2 5 3 0 0 2 2 -1
+p772
+aVRandolph Childress POR 11/10/1996 POR vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p773
+aVClifford Robinson POR 11/10/1996 POR vs. SAS W 32 9 4 8 50.0 1 4 25.0 0 0 - 1 2 3 4 2 1 7 3 10
+p774
+aVChris Dudley POR 11/10/1996 POR vs. SAS W 25 3 1 4 25.0 0 0 - 1 2 50.0 5 7 12 2 0 0 1 1 -2
+p775
+aVRasheed Wallace POR 11/10/1996 POR vs. SAS W 26 12 5 7 71.4 0 0 - 2 3 66.7 1 3 4 0 1 1 1 4 18
+p776
+aVArvydas Sabonis POR 11/10/1996 POR vs. SAS W 21 7 3 7 42.9 0 3 0.0 1 1 100.0 0 6 6 3 2 1 2 2 17
+p777
+aVReggie Jordan POR 11/10/1996 POR vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p778
+aVAaron McKie POR 11/10/1996 POR vs. SAS W 19 8 2 6 33.3 0 3 0.0 4 4 100.0 1 1 2 3 1 0 0 2 -2
+p779
+aVKenny Anderson POR 11/10/1996 POR vs. SAS W 35 17 5 10 50.0 2 3 66.7 5 6 83.3 0 0 0 7 0 0 0 2 22
+p780
+aVMitchell Butler POR 11/10/1996 POR vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p781
+aVGary Trent POR 11/09/1996 POR @ SAC L 20 8 3 8 37.5 0 1 0.0 2 2 100.0 0 3 3 0 0 0 3 1 1
+p782
+aVClifford Robinson POR 11/09/1996 POR @ SAC L 45 18 6 17 35.3 1 5 20.0 5 7 71.4 2 5 7 4 1 2 4 4 1
+p783
+aVAaron McKie POR 11/09/1996 POR @ SAC L 18 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 1 2 3 -4
+p784
+aVMitchell Butler POR 11/09/1996 POR @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -4
+p785
+aVDontonio Wingfield POR 11/09/1996 POR @ SAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p786
+aVRasheed Wallace POR 11/09/1996 POR @ SAC L 30 15 6 9 66.7 0 0 - 3 4 75.0 3 4 7 1 0 2 2 5 1
+p787
+aVIsaiah Rider POR 11/09/1996 POR @ SAC L 33 10 2 9 22.2 1 3 33.3 5 6 83.3 2 3 5 2 0 1 5 3 8
+p788
+aVChris Dudley POR 11/09/1996 POR @ SAC L 17 8 3 6 50.0 0 0 - 2 2 100.0 5 4 9 0 0 0 1 3 -4
+p789
+aVArvydas Sabonis POR 11/09/1996 POR @ SAC L 29 21 5 10 50.0 0 3 0.0 11 12 91.7 3 10 13 1 1 1 0 2 2
+p790
+aVKenny Anderson POR 11/09/1996 POR @ SAC L 44 17 6 16 37.5 3 4 75.0 2 5 40.0 1 3 4 5 3 0 2 3 -2
+p791
+aVChris Dudley POR 11/07/1996 POR vs. MIN W 20 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 0 4 0 4 -19
+p792
+aVGary Trent POR 11/07/1996 POR vs. MIN W 15 4 2 6 33.3 0 0 - 0 1 0.0 1 2 3 0 0 0 0 1 -4
+p793
+aVIsaiah Rider POR 11/07/1996 POR vs. MIN W 27 9 2 8 25.0 1 2 50.0 4 4 100.0 1 3 4 3 0 0 5 2 2
+p794
+aVKenny Anderson POR 11/07/1996 POR vs. MIN W 43 21 6 17 35.3 1 5 20.0 8 9 88.9 0 5 5 3 3 0 1 3 -2
+p795
+aVArvydas Sabonis POR 11/07/1996 POR vs. MIN W 33 17 5 12 41.7 2 5 40.0 5 6 83.3 1 16 17 4 0 3 2 4 21
+p796
+aVMitchell Butler POR 11/07/1996 POR vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p797
+aVClifford Robinson POR 11/07/1996 POR vs. MIN W 34 6 2 11 18.2 1 5 20.0 1 2 50.0 0 3 3 2 0 1 3 2 6
+p798
+aVAaron McKie POR 11/07/1996 POR vs. MIN W 32 6 2 4 50.0 0 0 - 2 3 66.7 3 3 6 4 0 1 1 2 -1
+p799
+aVDontonio Wingfield POR 11/07/1996 POR vs. MIN W 17 3 1 6 16.7 0 5 0.0 1 2 50.0 1 3 4 0 0 0 3 4 -6
+p800
+aVRasheed Wallace POR 11/07/1996 POR vs. MIN W 41 25 10 13 76.9 0 0 - 5 6 83.3 1 4 5 2 2 0 4 6 6
+p801
+aVArvydas Sabonis POR 11/05/1996 POR @ GSW W 14 9 3 5 60.0 0 1 0.0 3 4 75.0 0 3 3 1 1 1 1 5 9
+p802
+aVClifford Robinson POR 11/05/1996 POR @ GSW W 42 13 5 11 45.5 1 3 33.3 2 3 66.7 0 1 1 4 1 0 0 2 20
+p803
+aVMitchell Butler POR 11/05/1996 POR @ GSW W 8 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 1 2 0
+p804
+aVRasheed Wallace POR 11/05/1996 POR @ GSW W 40 32 15 20 75.0 0 1 0.0 2 2 100.0 7 2 9 3 1 0 3 1 28
+p805
+aVChris Dudley POR 11/05/1996 POR @ GSW W 28 2 1 5 20.0 0 0 - 0 3 0.0 5 4 9 3 1 2 1 4 3
+p806
+aVIsaiah Rider POR 11/05/1996 POR @ GSW W 33 14 5 13 38.5 1 4 25.0 3 4 75.0 1 8 9 4 1 0 4 3 22
+p807
+aVGary Trent POR 11/05/1996 POR @ GSW W 14 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 1 0 2 4 -4
+p808
+aVKenny Anderson POR 11/05/1996 POR @ GSW W 35 23 8 16 50.0 3 5 60.0 4 5 80.0 0 3 3 9 5 0 2 1 16
+p809
+aVAaron McKie POR 11/05/1996 POR @ GSW W 22 10 4 7 57.1 2 2 100.0 0 0 - 1 4 5 3 0 0 3 3 0
+p810
+aVDontonio Wingfield POR 11/05/1996 POR @ GSW W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p811
+aVDontonio Wingfield POR 11/04/1996 POR vs. ATL L 7 3 1 4 25.0 1 2 50.0 0 0 - 2 0 2 1 0 0 0 0 -5
+p812
+aVChris Dudley POR 11/04/1996 POR vs. ATL L 26 5 2 3 66.7 0 0 - 1 2 50.0 4 5 9 0 2 2 2 2 -7
+p813
+aVAaron McKie POR 11/04/1996 POR vs. ATL L 17 9 2 4 50.0 1 1 100.0 4 4 100.0 0 4 4 0 0 0 4 0 -14
+p814
+aVReggie Jordan POR 11/04/1996 POR vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -2
+p815
+aVClifford Robinson POR 11/04/1996 POR vs. ATL L 33 9 1 8 12.5 1 4 25.0 6 10 60.0 2 3 5 2 0 1 5 6 -12
+p816
+aVArvydas Sabonis POR 11/04/1996 POR vs. ATL L 22 8 4 8 50.0 0 1 0.0 0 0 - 2 4 6 0 1 2 5 3 -11
+p817
+aVMitchell Butler POR 11/04/1996 POR vs. ATL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p818
+aVIsaiah Rider POR 11/04/1996 POR vs. ATL L 37 12 5 14 35.7 2 7 28.6 0 0 - 1 3 4 6 2 0 4 4 -10
+p819
+aVKenny Anderson POR 11/04/1996 POR vs. ATL L 35 14 4 12 33.3 2 4 50.0 4 6 66.7 2 4 6 3 2 0 0 1 -7
+p820
+aVGary Trent POR 11/04/1996 POR vs. ATL L 27 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 4 6 -3
+p821
+aVRasheed Wallace POR 11/04/1996 POR vs. ATL L 28 8 4 7 57.1 0 0 - 0 0 - 1 5 6 1 0 2 2 1 -16
+p822
+aVReggie Jordan POR 11/02/1996 POR @ SEA L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 5
+p823
+aVIsaiah Rider POR 11/02/1996 POR @ SEA L 26 21 7 10 70.0 3 5 60.0 4 4 100.0 0 3 3 0 1 0 3 2 -12
+p824
+aVKenny Anderson POR 11/02/1996 POR @ SEA L 26 13 4 11 36.4 0 1 0.0 5 6 83.3 1 2 3 4 1 0 2 4 -13
+p825
+aVGary Trent POR 11/02/1996 POR @ SEA L 25 15 6 8 75.0 0 0 - 3 4 75.0 2 3 5 0 0 1 1 5 6
+p826
+aVRasheed Wallace POR 11/02/1996 POR @ SEA L 20 4 2 5 40.0 0 0 - 0 2 0.0 0 4 4 1 0 1 3 5 14
+p827
+aVRandolph Childress POR 11/02/1996 POR @ SEA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p828
+aVMitchell Butler POR 11/02/1996 POR @ SEA L 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 0 0 -4
+p829
+aVArvydas Sabonis POR 11/02/1996 POR @ SEA L 24 8 3 5 60.0 0 1 0.0 2 3 66.7 2 7 9 1 1 0 0 1 -13
+p830
+aVDontonio Wingfield POR 11/02/1996 POR @ SEA L 22 5 2 5 40.0 1 3 33.3 0 0 - 0 5 5 5 1 0 2 4 -7
+p831
+aVAaron McKie POR 11/02/1996 POR @ SEA L 30 8 2 5 40.0 1 2 50.0 3 4 75.0 0 1 1 5 2 0 4 0 -5
+p832
+aVClifford Robinson POR 11/02/1996 POR @ SEA L 36 17 6 14 42.9 1 4 25.0 4 4 100.0 1 2 3 1 0 0 5 2 -22
+p833
+aVChris Dudley POR 11/02/1996 POR @ SEA L 18 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 1 4 4 -11
+p834
+aVReggie Jordan POR 11/01/1996 POR @ VAN W 16 6 3 6 50.0 0 0 - 0 0 - 2 1 3 2 1 0 1 2 6
+p835
+aVArvydas Sabonis POR 11/01/1996 POR @ VAN W 23 9 3 5 60.0 0 1 0.0 3 7 42.9 3 7 10 2 1 3 7 3 18
+p836
+aVMitchell Butler POR 11/01/1996 POR @ VAN W 24 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 6 1 0 0 0 7
+p837
+aVClifford Robinson POR 11/01/1996 POR @ VAN W 29 22 8 15 53.3 2 5 40.0 4 6 66.7 0 2 2 1 0 1 2 2 15
+p838
+aVAaron McKie POR 11/01/1996 POR @ VAN W 24 8 2 5 40.0 0 0 - 4 5 80.0 0 1 1 4 3 1 0 0 22
+p839
+aVChris Dudley POR 11/01/1996 POR @ VAN W 25 8 4 10 40.0 0 0 - 0 0 - 4 6 10 0 0 0 1 3 11
+p840
+aVKenny Anderson POR 11/01/1996 POR @ VAN W 29 20 8 13 61.5 3 5 60.0 1 2 50.0 3 4 7 8 3 0 4 2 20
+p841
+aVDontonio Wingfield POR 11/01/1996 POR @ VAN W 19 4 2 9 22.2 0 2 0.0 0 0 - 5 4 9 4 3 0 0 6 16
+p842
+aVGary Trent POR 11/01/1996 POR @ VAN W 22 15 6 7 85.7 0 0 - 3 3 100.0 3 4 7 1 0 0 1 0 5
+p843
+aVRasheed Wallace POR 11/01/1996 POR @ VAN W 26 10 5 7 71.4 0 0 - 0 2 0.0 2 2 4 1 0 2 1 2 24
+p844
+aVRandolph Childress POR 11/01/1996 POR @ VAN W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 1
+p845
+a.

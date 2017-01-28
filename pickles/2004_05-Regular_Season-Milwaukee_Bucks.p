@@ -1,0 +1,1626 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMo Williams MIL 04/19/2005 MIL vs. TOR L 40 15 4 13 30.8 1 5 20.0 6 6 100.0 0 2 2 6 1 0 2 4 -4
+p2
+aVDaniel Santiago MIL 04/19/2005 MIL vs. TOR L 2 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 2 1
+p3
+aVZaza Pachulia MIL 04/19/2005 MIL vs. TOR L 6 6 0 1 0.0 0 0 - 6 6 100.0 1 2 3 0 1 0 0 2 4
+p4
+aVToni Kukoc MIL 04/19/2005 MIL vs. TOR L 36 11 5 9 55.6 1 4 25.0 0 0 - 2 8 10 5 0 1 4 2 -13
+p5
+aVErick Strickland MIL 04/19/2005 MIL vs. TOR L 32 14 5 10 50.0 0 0 - 4 4 100.0 0 4 4 4 1 0 2 1 -8
+p6
+aVDesmond Mason MIL 04/19/2005 MIL vs. TOR L 40 25 10 19 52.6 0 0 - 5 7 71.4 4 0 4 2 0 1 2 2 -14
+p7
+aVReece Gaines MIL 04/19/2005 MIL vs. TOR L 14 6 3 9 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -16
+p8
+aVAnthony Goldwire MIL 04/19/2005 MIL vs. TOR L 23 13 5 8 62.5 2 5 40.0 1 2 50.0 0 2 2 3 1 0 2 1 -21
+p9
+aVDan Gadzuric MIL 04/19/2005 MIL vs. TOR L 32 13 6 11 54.5 0 0 - 1 1 100.0 5 7 12 1 1 0 1 2 -5
+p10
+aVMarcus Fizer MIL 04/19/2005 MIL vs. TOR L 16 4 1 5 20.0 0 1 0.0 2 2 100.0 1 3 4 1 0 0 1 1 -14
+p11
+aVDan Gadzuric MIL 04/18/2005 MIL @ PHI L 32 21 9 14 64.3 0 0 - 3 4 75.0 8 12 20 0 2 1 2 2 -12
+p12
+aVZaza Pachulia MIL 04/18/2005 MIL @ PHI L 28 4 2 7 28.6 0 0 - 0 0 - 0 2 2 0 2 0 3 2 -5
+p13
+aVMarcus Fizer MIL 04/18/2005 MIL @ PHI L 20 17 6 12 50.0 0 0 - 5 5 100.0 0 6 6 1 0 1 1 0 -11
+p14
+aVDesmond Mason MIL 04/18/2005 MIL @ PHI L 31 22 5 12 41.7 0 0 - 12 14 85.7 1 0 1 0 0 0 2 0 -14
+p15
+aVReece Gaines MIL 04/18/2005 MIL @ PHI L 14 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -4
+p16
+aVAnthony Goldwire MIL 04/18/2005 MIL @ PHI L 18 6 2 7 28.6 2 5 40.0 0 0 - 0 2 2 2 0 0 0 0 -5
+p17
+aVCalvin Booth MIL 04/18/2005 MIL @ PHI L 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -4
+p18
+aVToni Kukoc MIL 04/18/2005 MIL @ PHI L 24 10 3 5 60.0 3 3 100.0 1 1 100.0 0 4 4 3 1 0 1 0 -9
+p19
+aVErick Strickland MIL 04/18/2005 MIL @ PHI L 27 9 4 11 36.4 1 4 25.0 0 0 - 0 2 2 5 2 0 1 3 -5
+p20
+aVMo Williams MIL 04/18/2005 MIL @ PHI L 30 13 6 10 60.0 0 1 0.0 1 2 50.0 2 2 4 7 3 0 6 2 -11
+p21
+aVJoe Smith MIL 04/16/2005 MIL vs. ORL W 27 15 6 8 75.0 0 0 - 3 7 42.9 5 3 8 1 2 0 1 1 9
+p22
+aVDesmond Mason MIL 04/16/2005 MIL vs. ORL W 28 22 8 13 61.5 0 0 - 6 9 66.7 1 4 5 2 0 0 2 1 13
+p23
+aVToni Kukoc MIL 04/16/2005 MIL vs. ORL W 27 3 1 5 20.0 1 3 33.3 0 0 - 0 4 4 4 1 1 2 2 -1
+p24
+aVErick Strickland MIL 04/16/2005 MIL vs. ORL W 34 15 6 14 42.9 2 4 50.0 1 2 50.0 2 2 4 6 0 0 2 2 19
+p25
+aVReece Gaines MIL 04/16/2005 MIL vs. ORL W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p26
+aVCalvin Booth MIL 04/16/2005 MIL vs. ORL W 6 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 2 1 -12
+p27
+aVMarcus Fizer MIL 04/16/2005 MIL vs. ORL W 21 12 5 10 50.0 0 0 - 2 2 100.0 1 1 2 3 3 0 0 3 1
+p28
+aVAnthony Goldwire MIL 04/16/2005 MIL vs. ORL W 26 11 4 6 66.7 2 3 66.7 1 2 50.0 0 3 3 5 0 0 0 4 -4
+p29
+aVDan Gadzuric MIL 04/16/2005 MIL vs. ORL W 23 6 1 6 16.7 0 0 - 4 8 50.0 2 7 9 0 1 1 1 4 8
+p30
+aVZaza Pachulia MIL 04/16/2005 MIL vs. ORL W 18 9 2 5 40.0 0 0 - 5 6 83.3 1 5 6 2 0 0 0 2 14
+p31
+aVMo Williams MIL 04/16/2005 MIL vs. ORL W 23 13 6 12 50.0 1 3 33.3 0 0 - 0 1 1 7 1 0 2 2 15
+p32
+aVDan Gadzuric MIL 04/15/2005 MIL @ DET L 26 4 2 7 28.6 0 0 - 0 2 0.0 4 5 9 1 1 1 1 3 -7
+p33
+aVAnthony Goldwire MIL 04/15/2005 MIL @ DET L 21 6 2 4 50.0 0 2 0.0 2 2 100.0 0 1 1 3 2 0 2 1 -21
+p34
+aVDesmond Mason MIL 04/15/2005 MIL @ DET L 28 15 4 12 33.3 0 0 - 7 8 87.5 0 3 3 1 1 0 1 3 -10
+p35
+aVMarcus Fizer MIL 04/15/2005 MIL @ DET L 24 8 4 10 40.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -21
+p36
+aVMichael Redd MIL 04/15/2005 MIL @ DET L 24 8 2 9 22.2 1 2 50.0 3 4 75.0 2 0 2 1 0 1 2 0 -7
+p37
+aVCalvin Booth MIL 04/15/2005 MIL @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p38
+aVMo Williams MIL 04/15/2005 MIL @ DET L 27 8 3 8 37.5 0 1 0.0 2 3 66.7 2 1 3 5 1 0 1 1 -5
+p39
+aVJoe Smith MIL 04/15/2005 MIL @ DET L 24 14 7 11 63.6 0 0 - 0 0 - 0 4 4 1 0 1 1 4 -5
+p40
+aVToni Kukoc MIL 04/15/2005 MIL @ DET L 20 4 2 3 66.7 0 0 - 0 0 - 0 1 1 3 0 0 0 0 -16
+p41
+aVZaza Pachulia MIL 04/15/2005 MIL @ DET L 18 2 1 6 16.7 0 0 - 0 0 - 2 5 7 1 1 1 2 1 -16
+p42
+aVErick Strickland MIL 04/15/2005 MIL @ DET L 24 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 1 1 0 3 2 -19
+p43
+aVDesmond Mason MIL 04/13/2005 MIL vs. BOS L 41 15 6 16 37.5 0 0 - 3 5 60.0 1 0 1 4 0 0 2 3 -2
+p44
+aVJoe Smith MIL 04/13/2005 MIL vs. BOS L 31 10 5 11 45.5 0 0 - 0 0 - 2 5 7 4 2 0 2 4 2
+p45
+aVErick Strickland MIL 04/13/2005 MIL vs. BOS L 17 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 0 1 3
+p46
+aVZaza Pachulia MIL 04/13/2005 MIL vs. BOS L 14 11 2 2 100.0 0 0 - 7 10 70.0 3 0 3 0 0 0 1 2 -3
+p47
+aVMarcus Fizer MIL 04/13/2005 MIL vs. BOS L 17 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 1 -5
+p48
+aVMo Williams MIL 04/13/2005 MIL vs. BOS L 24 4 1 5 20.0 0 2 0.0 2 2 100.0 1 1 2 4 2 0 2 3 -3
+p49
+aVMichael Redd MIL 04/13/2005 MIL vs. BOS L 38 28 10 22 45.5 1 6 16.7 7 8 87.5 0 3 3 4 0 0 1 3 -8
+p50
+aVAnthony Goldwire MIL 04/13/2005 MIL vs. BOS L 25 9 3 4 75.0 3 4 75.0 0 0 - 0 2 2 4 0 0 0 1 0
+p51
+aVDan Gadzuric MIL 04/13/2005 MIL vs. BOS L 33 22 8 10 80.0 0 0 - 6 6 100.0 7 5 12 1 0 0 1 1 1
+p52
+aVMarcus Fizer MIL 04/11/2005 MIL @ WAS L 25 8 1 6 16.7 0 1 0.0 6 6 100.0 1 5 6 3 0 0 1 5 -6
+p53
+aVDan Gadzuric MIL 04/11/2005 MIL @ WAS L 23 4 2 4 50.0 0 0 - 0 2 0.0 2 9 11 0 0 4 1 2 -1
+p54
+aVMo Williams MIL 04/11/2005 MIL @ WAS L 29 10 5 16 31.3 0 3 0.0 0 0 - 1 0 1 4 1 0 2 4 -6
+p55
+aVCalvin Booth MIL 04/11/2005 MIL @ WAS L 11 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -7
+p56
+aVAnthony Goldwire MIL 04/11/2005 MIL @ WAS L 19 11 4 6 66.7 2 4 50.0 1 1 100.0 0 0 0 4 2 0 0 1 -1
+p57
+aVToni Kukoc MIL 04/11/2005 MIL @ WAS L 28 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 -7
+p58
+aVMichael Redd MIL 04/11/2005 MIL @ WAS L 39 35 12 22 54.5 4 12 33.3 7 10 70.0 1 0 1 2 2 1 2 3 -6
+p59
+aVDesmond Mason MIL 04/11/2005 MIL @ WAS L 37 18 8 14 57.1 0 0 - 2 2 100.0 3 4 7 4 0 0 2 4 -3
+p60
+aVErick Strickland MIL 04/11/2005 MIL @ WAS L 29 22 9 12 75.0 2 4 50.0 2 2 100.0 1 0 1 5 0 0 2 3 2
+p61
+aVZaza Pachulia MIL 04/09/2005 MIL @ CLE L 27 4 0 3 0.0 0 0 - 4 4 100.0 4 3 7 0 0 0 1 2 -3
+p62
+aVErick Strickland MIL 04/09/2005 MIL @ CLE L 24 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 0 3 -1
+p63
+aVToni Kukoc MIL 04/09/2005 MIL @ CLE L 25 6 2 6 33.3 2 4 50.0 0 0 - 0 5 5 0 0 0 1 1 -22
+p64
+aVMichael Redd MIL 04/09/2005 MIL @ CLE L 35 26 7 20 35.0 1 6 16.7 11 13 84.6 1 3 4 0 0 0 0 2 -9
+p65
+aVAnthony Goldwire MIL 04/09/2005 MIL @ CLE L 14 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 5 0 0 1 1 -7
+p66
+aVReece Gaines MIL 04/09/2005 MIL @ CLE L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p67
+aVDesmond Mason MIL 04/09/2005 MIL @ CLE L 19 12 6 11 54.5 0 0 - 0 1 0.0 1 0 1 0 0 0 2 2 -11
+p68
+aVCalvin Booth MIL 04/09/2005 MIL @ CLE L 18 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 1 0 1 -9
+p69
+aVMo Williams MIL 04/09/2005 MIL @ CLE L 34 7 3 7 42.9 0 1 0.0 1 2 50.0 0 2 2 8 0 1 3 3 -10
+p70
+aVDan Gadzuric MIL 04/09/2005 MIL @ CLE L 26 8 4 4 100.0 0 0 - 0 0 - 1 7 8 1 0 0 1 2 2
+p71
+aVMarcus Fizer MIL 04/09/2005 MIL @ CLE L 16 7 3 7 42.9 0 0 - 1 2 50.0 0 4 4 1 1 0 3 1 -11
+p72
+aVZaza Pachulia MIL 04/08/2005 MIL vs. CHA W 21 9 4 6 66.7 0 0 - 1 2 50.0 2 6 8 1 0 1 0 2 21
+p73
+aVAnthony Goldwire MIL 04/08/2005 MIL vs. CHA W 26 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 6 1 0 1 1 26
+p74
+aVJoe Smith MIL 04/08/2005 MIL vs. CHA W 18 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 1 0 0 3 2 -7
+p75
+aVDan Gadzuric MIL 04/08/2005 MIL vs. CHA W 25 4 2 3 66.7 0 0 - 0 0 - 3 11 14 0 1 1 2 1 -2
+p76
+aVCalvin Booth MIL 04/08/2005 MIL vs. CHA W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -1
+p77
+aVReece Gaines MIL 04/08/2005 MIL vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p78
+aVMichael Redd MIL 04/08/2005 MIL vs. CHA W 33 17 6 17 35.3 1 5 20.0 4 4 100.0 0 3 3 1 1 0 2 2 -2
+p79
+aVDesmond Mason MIL 04/08/2005 MIL vs. CHA W 37 21 6 14 42.9 0 0 - 9 10 90.0 0 1 1 0 0 0 1 2 12
+p80
+aVMo Williams MIL 04/08/2005 MIL vs. CHA W 21 5 2 4 50.0 0 0 - 1 2 50.0 1 5 6 5 0 0 3 3 -8
+p81
+aVToni Kukoc MIL 04/08/2005 MIL vs. CHA W 24 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 9 3 0 0 0 27
+p82
+aVMarcus Fizer MIL 04/08/2005 MIL vs. CHA W 31 18 8 15 53.3 0 1 0.0 2 3 66.7 1 4 5 3 0 1 3 2 25
+p83
+aVErick Strickland MIL 04/06/2005 MIL @ BOS L 33 5 2 7 28.6 0 0 - 1 2 50.0 0 3 3 7 2 0 1 4 5
+p84
+aVMarcus Fizer MIL 04/06/2005 MIL @ BOS L 15 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 0 5
+p85
+aVZaza Pachulia MIL 04/06/2005 MIL @ BOS L 20 3 1 5 20.0 0 0 - 1 2 50.0 2 6 8 1 0 1 2 1 -2
+p86
+aVToni Kukoc MIL 04/06/2005 MIL @ BOS L 20 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 2 0 0 0 1 -6
+p87
+aVDesmond Mason MIL 04/06/2005 MIL @ BOS L 43 23 6 23 26.1 0 0 - 11 13 84.6 0 2 2 6 2 0 4 3 -12
+p88
+aVDan Gadzuric MIL 04/06/2005 MIL @ BOS L 28 17 8 10 80.0 0 0 - 1 2 50.0 7 7 14 1 0 1 1 4 -3
+p89
+aVJoe Smith MIL 04/06/2005 MIL @ BOS L 33 16 8 13 61.5 0 0 - 0 0 - 2 7 9 0 0 0 1 2 -11
+p90
+aVMo Williams MIL 04/06/2005 MIL @ BOS L 31 9 4 11 36.4 0 3 0.0 1 2 50.0 0 1 1 5 0 0 2 3 -6
+p91
+aVAnthony Goldwire MIL 04/06/2005 MIL @ BOS L 17 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 3 1 0 0 0 0
+p92
+aVZaza Pachulia MIL 04/03/2005 MIL vs. NYK W 26 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 0 1 1 1 4 -7
+p93
+aVJoe Smith MIL 04/03/2005 MIL vs. NYK W 27 6 3 4 75.0 0 0 - 0 0 - 1 5 6 2 0 1 0 3 11
+p94
+aVCalvin Booth MIL 04/03/2005 MIL vs. NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 4
+p95
+aVMo Williams MIL 04/03/2005 MIL vs. NYK W 35 18 5 10 50.0 2 3 66.7 6 6 100.0 1 4 5 5 0 0 3 4 0
+p96
+aVToni Kukoc MIL 04/03/2005 MIL vs. NYK W 18 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -6
+p97
+aVDan Gadzuric MIL 04/03/2005 MIL vs. NYK W 16 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 1 1 1 2 8
+p98
+aVMarcus Fizer MIL 04/03/2005 MIL vs. NYK W 21 14 4 6 66.7 0 0 - 6 8 75.0 1 4 5 1 0 1 4 1 -7
+p99
+aVAnthony Goldwire MIL 04/03/2005 MIL vs. NYK W 13 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 4
+p100
+aVDesmond Mason MIL 04/03/2005 MIL vs. NYK W 31 20 6 11 54.5 0 0 - 8 10 80.0 0 1 1 4 0 1 3 2 9
+p101
+aVMichael Redd MIL 04/03/2005 MIL vs. NYK W 36 32 11 16 68.8 0 0 - 10 10 100.0 0 4 4 3 1 0 0 4 3
+p102
+aVErick Strickland MIL 04/03/2005 MIL vs. NYK W 13 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 1 1
+p103
+aVZaza Pachulia MIL 04/01/2005 MIL vs. MEM L 12 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 7
+p104
+aVMo Williams MIL 04/01/2005 MIL vs. MEM L 36 10 3 10 30.0 1 3 33.3 3 4 75.0 0 7 7 3 1 0 4 4 -13
+p105
+aVAnthony Goldwire MIL 04/01/2005 MIL vs. MEM L 12 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 3 0 0 0 0 2
+p106
+aVErick Strickland MIL 04/01/2005 MIL vs. MEM L 11 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 1 0 1 2 5
+p107
+aVDesmond Mason MIL 04/01/2005 MIL vs. MEM L 35 24 8 15 53.3 0 0 - 8 13 61.5 2 0 2 0 3 1 3 5 -18
+p108
+aVToni Kukoc MIL 04/01/2005 MIL vs. MEM L 29 8 3 8 37.5 0 2 0.0 2 2 100.0 3 2 5 3 1 2 3 4 -7
+p109
+aVDan Gadzuric MIL 04/01/2005 MIL vs. MEM L 23 8 1 9 11.1 0 0 - 6 7 85.7 7 2 9 1 1 0 0 3 -2
+p110
+aVMichael Redd MIL 04/01/2005 MIL vs. MEM L 44 17 5 13 38.5 0 4 0.0 7 8 87.5 1 2 3 1 1 0 3 2 -13
+p111
+aVJoe Smith MIL 04/01/2005 MIL vs. MEM L 38 7 2 10 20.0 0 0 - 3 8 37.5 3 9 12 2 3 0 4 2 -16
+p112
+aVZaza Pachulia MIL 03/30/2005 MIL vs. GSW L 27 15 6 8 75.0 0 0 - 3 4 75.0 2 3 5 2 1 1 0 2 -9
+p113
+aVDan Gadzuric MIL 03/30/2005 MIL vs. GSW L 19 8 4 6 66.7 0 0 - 0 0 - 2 5 7 0 1 2 0 4 8
+p114
+aVMarcus Fizer MIL 03/30/2005 MIL vs. GSW L 8 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -14
+p115
+aVErick Strickland MIL 03/30/2005 MIL vs. GSW L 20 6 2 7 28.6 0 2 0.0 2 2 100.0 1 1 2 4 0 0 0 3 -22
+p116
+aVJoe Smith MIL 03/30/2005 MIL vs. GSW L 37 10 5 14 35.7 0 0 - 0 0 - 3 6 9 1 0 1 1 2 13
+p117
+aVToni Kukoc MIL 03/30/2005 MIL vs. GSW L 34 15 6 11 54.5 1 3 33.3 2 3 66.7 2 6 8 4 0 0 2 3 12
+p118
+aVReece Gaines MIL 03/30/2005 MIL vs. GSW L 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p119
+aVCalvin Booth MIL 03/30/2005 MIL vs. GSW L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p120
+aVMichael Redd MIL 03/30/2005 MIL vs. GSW L 42 24 7 16 43.8 2 4 50.0 8 9 88.9 1 4 5 2 2 0 1 2 2
+p121
+aVAnthony Goldwire MIL 03/30/2005 MIL vs. GSW L 12 5 1 3 33.3 1 3 33.3 2 2 100.0 0 2 2 3 0 0 1 0 -12
+p122
+aVMo Williams MIL 03/30/2005 MIL vs. GSW L 36 21 9 16 56.3 0 1 0.0 3 4 75.0 3 1 4 10 1 0 0 5 8
+p123
+aVReece Gaines MIL 03/28/2005 MIL vs. IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p124
+aVDesmond Mason MIL 03/28/2005 MIL vs. IND L 26 6 2 8 25.0 0 0 - 2 4 50.0 0 1 1 3 0 1 3 3 -18
+p125
+aVMichael Redd MIL 03/28/2005 MIL vs. IND L 27 14 5 13 38.5 1 3 33.3 3 5 60.0 0 3 3 0 0 0 2 1 -20
+p126
+aVMarcus Fizer MIL 03/28/2005 MIL vs. IND L 24 8 3 6 50.0 0 0 - 2 4 50.0 1 2 3 2 0 0 0 1 9
+p127
+aVMo Williams MIL 03/28/2005 MIL vs. IND L 26 3 1 6 16.7 0 1 0.0 1 2 50.0 0 2 2 3 1 0 0 0 -24
+p128
+aVAnthony Goldwire MIL 03/28/2005 MIL vs. IND L 22 11 4 7 57.1 1 3 33.3 2 4 50.0 1 3 4 2 2 0 0 1 10
+p129
+aVJoe Smith MIL 03/28/2005 MIL vs. IND L 24 6 2 5 40.0 0 0 - 2 2 100.0 3 1 4 0 1 1 2 3 -23
+p130
+aVCalvin Booth MIL 03/28/2005 MIL vs. IND L 4 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p131
+aVToni Kukoc MIL 03/28/2005 MIL vs. IND L 22 0 0 3 0.0 0 0 - 0 0 - 0 3 3 3 0 0 1 3 4
+p132
+aVDan Gadzuric MIL 03/28/2005 MIL vs. IND L 23 12 5 5 100.0 0 0 - 2 8 25.0 4 6 10 0 0 1 1 1 -21
+p133
+aVZaza Pachulia MIL 03/28/2005 MIL vs. IND L 21 6 1 7 14.3 0 0 - 4 4 100.0 5 3 8 0 0 1 1 1 3
+p134
+aVErick Strickland MIL 03/28/2005 MIL vs. IND L 17 6 3 6 50.0 0 0 - 0 0 - 0 2 2 2 0 0 2 3 2
+p135
+aVToni Kukoc MIL 03/26/2005 MIL @ UTA L 21 13 4 6 66.7 3 4 75.0 2 2 100.0 0 1 1 4 1 0 3 3 -3
+p136
+aVErick Strickland MIL 03/26/2005 MIL @ UTA L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 3 3 -5
+p137
+aVJoe Smith MIL 03/26/2005 MIL @ UTA L 27 6 1 5 20.0 0 0 - 4 4 100.0 4 3 7 1 0 1 0 3 -8
+p138
+aVDan Gadzuric MIL 03/26/2005 MIL @ UTA L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -7
+p139
+aVZaza Pachulia MIL 03/26/2005 MIL @ UTA L 16 5 2 3 66.7 0 0 - 1 1 100.0 0 5 5 0 1 0 0 3 3
+p140
+aVMarcus Fizer MIL 03/26/2005 MIL @ UTA L 21 10 5 10 50.0 0 0 - 0 0 - 0 3 3 2 2 0 3 2 3
+p141
+aVCalvin Booth MIL 03/26/2005 MIL @ UTA L 26 0 0 0 - 0 0 - 0 0 - 1 4 5 0 1 2 0 4 0
+p142
+aVDesmond Mason MIL 03/26/2005 MIL @ UTA L 27 16 5 15 33.3 0 1 0.0 6 6 100.0 2 2 4 2 0 0 1 4 -3
+p143
+aVMichael Redd MIL 03/26/2005 MIL @ UTA L 33 14 5 14 35.7 1 3 33.3 3 5 60.0 1 2 3 2 1 0 1 1 0
+p144
+aVMo Williams MIL 03/26/2005 MIL @ UTA L 33 19 7 12 58.3 1 1 100.0 4 4 100.0 0 2 2 0 2 0 2 2 -1
+p145
+aVAnthony Goldwire MIL 03/26/2005 MIL @ UTA L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -4
+p146
+aVAnthony Goldwire MIL 03/25/2005 MIL @ GSW L 19 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 3 0 0 0 1 -8
+p147
+aVZaza Pachulia MIL 03/25/2005 MIL @ GSW L 30 13 4 5 80.0 0 0 - 5 6 83.3 1 8 9 0 1 2 0 3 1
+p148
+aVMarcus Fizer MIL 03/25/2005 MIL @ GSW L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p149
+aVErick Strickland MIL 03/25/2005 MIL @ GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p150
+aVDesmond Mason MIL 03/25/2005 MIL @ GSW L 49 32 12 22 54.5 0 0 - 8 9 88.9 3 3 6 4 0 0 6 4 0
+p151
+aVMichael Redd MIL 03/25/2005 MIL @ GSW L 47 33 14 26 53.8 3 6 50.0 2 3 66.7 1 3 4 2 1 0 3 3 -5
+p152
+aVDan Gadzuric MIL 03/25/2005 MIL @ GSW L 23 4 2 5 40.0 0 0 - 0 1 0.0 2 7 9 0 0 0 2 3 -1
+p153
+aVToni Kukoc MIL 03/25/2005 MIL @ GSW L 19 2 1 3 33.3 0 2 0.0 0 1 0.0 0 0 0 5 1 0 2 1 -4
+p154
+aVMo Williams MIL 03/25/2005 MIL @ GSW L 33 17 5 7 71.4 2 3 66.7 5 6 83.3 2 4 6 8 0 0 6 6 7
+p155
+aVJoe Smith MIL 03/25/2005 MIL @ GSW L 35 11 3 11 27.3 0 0 - 5 5 100.0 5 5 10 2 2 0 0 5 5
+p156
+aVAnthony Goldwire MIL 03/23/2005 MIL @ LAC L 33 13 4 7 57.1 1 3 33.3 4 4 100.0 2 0 2 5 2 0 0 3 0
+p157
+aVDan Gadzuric MIL 03/23/2005 MIL @ LAC L 21 15 6 8 75.0 0 0 - 3 4 75.0 6 5 11 0 0 0 0 2 -16
+p158
+aVMarcus Fizer MIL 03/23/2005 MIL @ LAC L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 3 -7
+p159
+aVCalvin Booth MIL 03/23/2005 MIL @ LAC L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -1
+p160
+aVJoe Smith MIL 03/23/2005 MIL @ LAC L 33 6 1 3 33.3 0 0 - 4 6 66.7 3 4 7 3 2 1 2 3 2
+p161
+aVZaza Pachulia MIL 03/23/2005 MIL @ LAC L 17 9 3 8 37.5 0 0 - 3 4 75.0 4 4 8 0 0 0 0 3 0
+p162
+aVMichael Redd MIL 03/23/2005 MIL @ LAC L 45 31 10 27 37.0 1 3 33.3 10 12 83.3 2 4 6 3 1 0 2 4 -10
+p163
+aVErick Strickland MIL 03/23/2005 MIL @ LAC L 15 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 3 1 0 2 0 -8
+p164
+aVDesmond Mason MIL 03/23/2005 MIL @ LAC L 38 14 3 11 27.3 0 0 - 8 11 72.7 0 1 1 0 1 0 1 2 -6
+p165
+aVToni Kukoc MIL 03/23/2005 MIL @ LAC L 24 16 6 9 66.7 3 5 60.0 1 2 50.0 1 2 3 4 1 0 0 4 -1
+p166
+aVReece Gaines MIL 03/23/2005 MIL @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p167
+aVCalvin Booth MIL 03/22/2005 MIL @ SEA L 19 4 1 1 100.0 0 0 - 2 2 100.0 2 6 8 0 0 0 1 1 -4
+p168
+aVMarcus Fizer MIL 03/22/2005 MIL @ SEA L 7 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -8
+p169
+aVErick Strickland MIL 03/22/2005 MIL @ SEA L 5 4 2 4 50.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 0 0
+p170
+aVJoe Smith MIL 03/22/2005 MIL @ SEA L 29 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 2 1 0 0 1 3
+p171
+aVDan Gadzuric MIL 03/22/2005 MIL @ SEA L 24 9 4 8 50.0 0 0 - 1 2 50.0 7 3 10 0 0 2 3 3 0
+p172
+aVToni Kukoc MIL 03/22/2005 MIL @ SEA L 21 5 2 7 28.6 1 2 50.0 0 0 - 1 0 1 1 0 0 2 2 -11
+p173
+aVZaza Pachulia MIL 03/22/2005 MIL @ SEA L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -4
+p174
+aVDesmond Mason MIL 03/22/2005 MIL @ SEA L 42 21 8 19 42.1 0 0 - 5 6 83.3 1 4 5 4 1 1 1 4 -2
+p175
+aVMichael Redd MIL 03/22/2005 MIL @ SEA L 40 22 7 18 38.9 0 3 0.0 8 10 80.0 0 4 4 3 1 0 1 2 -6
+p176
+aVReece Gaines MIL 03/22/2005 MIL @ SEA L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -13
+p177
+aVAnthony Goldwire MIL 03/22/2005 MIL @ SEA L 38 9 4 13 30.8 1 7 14.3 0 0 - 1 8 9 2 1 0 2 3 5
+p178
+aVMarcus Fizer MIL 03/20/2005 MIL @ DEN L 14 8 4 8 50.0 0 0 - 0 1 0.0 0 4 4 0 0 0 1 1 -3
+p179
+aVMichael Redd MIL 03/20/2005 MIL @ DEN L 39 23 8 25 32.0 1 4 25.0 6 6 100.0 0 1 1 3 0 0 3 4 -3
+p180
+aVDan Gadzuric MIL 03/20/2005 MIL @ DEN L 28 10 4 7 57.1 0 0 - 2 4 50.0 7 5 12 1 1 1 1 2 -10
+p181
+aVDesmond Mason MIL 03/20/2005 MIL @ DEN L 36 24 9 16 56.3 0 0 - 6 8 75.0 1 5 6 3 1 1 1 6 -16
+p182
+aVJoe Smith MIL 03/20/2005 MIL @ DEN L 34 10 2 5 40.0 0 0 - 6 6 100.0 1 1 2 2 0 0 1 3 -9
+p183
+aVMo Williams MIL 03/20/2005 MIL @ DEN L 30 5 1 8 12.5 0 2 0.0 3 4 75.0 0 1 1 5 4 0 0 5 -15
+p184
+aVAnthony Goldwire MIL 03/20/2005 MIL @ DEN L 19 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 9 1 0 2 3 6
+p185
+aVToni Kukoc MIL 03/20/2005 MIL @ DEN L 20 12 4 7 57.1 4 7 57.1 0 0 - 0 0 0 0 0 0 3 1 -8
+p186
+aVZaza Pachulia MIL 03/20/2005 MIL @ DEN L 20 8 4 6 66.7 0 0 - 0 0 - 6 5 11 1 0 0 1 2 -2
+p187
+aVDesmond Mason MIL 03/18/2005 MIL vs. WAS W 43 17 5 13 38.5 0 0 - 7 8 87.5 2 2 4 4 0 0 2 1 9
+p188
+aVAnthony Goldwire MIL 03/18/2005 MIL vs. WAS W 31 5 1 8 12.5 1 5 20.0 2 2 100.0 1 6 7 6 1 0 1 0 16
+p189
+aVErick Strickland MIL 03/18/2005 MIL vs. WAS W 18 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 2 9
+p190
+aVMichael Redd MIL 03/18/2005 MIL vs. WAS W 33 26 8 20 40.0 2 5 40.0 8 8 100.0 1 6 7 2 1 0 2 5 0
+p191
+aVDan Gadzuric MIL 03/18/2005 MIL vs. WAS W 27 6 3 7 42.9 0 0 - 0 0 - 4 6 10 2 1 3 2 2 -4
+p192
+aVJoe Smith MIL 03/18/2005 MIL vs. WAS W 35 24 9 11 81.8 0 0 - 6 7 85.7 4 6 10 1 1 0 2 4 4
+p193
+aVMarcus Fizer MIL 03/18/2005 MIL vs. WAS W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -7
+p194
+aVZaza Pachulia MIL 03/18/2005 MIL vs. WAS W 20 13 6 7 85.7 0 0 - 1 1 100.0 1 5 6 0 0 0 0 3 9
+p195
+aVMo Williams MIL 03/18/2005 MIL vs. WAS W 17 2 1 5 20.0 0 0 - 0 0 - 0 0 0 2 0 0 3 1 -7
+p196
+aVToni Kukoc MIL 03/18/2005 MIL vs. WAS W 12 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 4 0 0 0 1 16
+p197
+aVCalvin Booth MIL 03/16/2005 MIL vs. CLE W 25 9 2 3 66.7 0 0 - 5 6 83.3 1 2 3 1 1 2 1 1 1
+p198
+aVErick Strickland MIL 03/16/2005 MIL vs. CLE W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 2 3 -16
+p199
+aVToni Kukoc MIL 03/16/2005 MIL vs. CLE W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 3 0 0 1 0 -2
+p200
+aVDan Gadzuric MIL 03/16/2005 MIL vs. CLE W 23 4 2 4 50.0 0 0 - 0 0 - 2 6 8 0 3 1 1 2 7
+p201
+aVDesmond Mason MIL 03/16/2005 MIL vs. CLE W 41 13 6 16 37.5 0 0 - 1 1 100.0 0 2 2 5 1 0 1 3 -3
+p202
+aVAnthony Goldwire MIL 03/16/2005 MIL vs. CLE W 15 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 1 1 -3
+p203
+aVMichael Redd MIL 03/16/2005 MIL vs. CLE W 41 32 12 22 54.5 1 5 20.0 7 7 100.0 2 7 9 0 0 1 5 2 26
+p204
+aVJoe Smith MIL 03/16/2005 MIL vs. CLE W 44 21 6 12 50.0 0 1 0.0 9 10 90.0 3 12 15 0 0 0 0 1 19
+p205
+aVMo Williams MIL 03/16/2005 MIL vs. CLE W 33 12 3 9 33.3 0 2 0.0 6 6 100.0 0 1 1 10 0 0 1 2 11
+p206
+aVToni Kukoc MIL 03/14/2005 MIL @ MIA L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -11
+p207
+aVDesmond Mason MIL 03/14/2005 MIL @ MIA L 28 7 1 7 14.3 0 0 - 5 5 100.0 0 3 3 0 0 0 2 1 -22
+p208
+aVReece Gaines MIL 03/14/2005 MIL @ MIA L 11 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 1 0 -1
+p209
+aVMo Williams MIL 03/14/2005 MIL @ MIA L 21 10 4 8 50.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 1 1 -20
+p210
+aVDan Gadzuric MIL 03/14/2005 MIL @ MIA L 14 6 3 4 75.0 0 0 - 0 0 - 2 4 6 0 1 0 0 4 -8
+p211
+aVMarcus Fizer MIL 03/14/2005 MIL @ MIA L 30 11 5 8 62.5 0 0 - 1 2 50.0 1 6 7 2 0 1 3 3 -24
+p212
+aVMichael Redd MIL 03/14/2005 MIL @ MIA L 26 14 5 13 38.5 1 2 50.0 3 4 75.0 1 4 5 0 0 0 2 0 -30
+p213
+aVAnthony Goldwire MIL 03/14/2005 MIL @ MIA L 27 7 2 9 22.2 1 5 20.0 2 2 100.0 1 2 3 2 0 0 0 0 -19
+p214
+aVCalvin Booth MIL 03/14/2005 MIL @ MIA L 17 3 1 6 16.7 0 0 - 1 2 50.0 3 4 7 0 0 2 0 3 -9
+p215
+aVErick Strickland MIL 03/14/2005 MIL @ MIA L 23 5 2 11 18.2 1 5 20.0 0 0 - 0 2 2 0 0 0 0 2 -14
+p216
+aVJoe Smith MIL 03/14/2005 MIL @ MIA L 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -15
+p217
+aVZaza Pachulia MIL 03/14/2005 MIL @ MIA L 18 3 0 7 0.0 0 0 - 3 4 75.0 2 1 3 1 1 0 2 1 -22
+p218
+aVAnthony Goldwire MIL 03/12/2005 MIL @ NOH L 19 14 5 7 71.4 4 5 80.0 0 0 - 0 1 1 1 0 0 0 1 0
+p219
+aVMo Williams MIL 03/12/2005 MIL @ NOH L 29 19 6 11 54.5 2 4 50.0 5 6 83.3 0 2 2 7 0 1 2 2 -5
+p220
+aVZaza Pachulia MIL 03/12/2005 MIL @ NOH L 6 0 0 0 - 0 0 - 0 0 - 1 3 4 2 0 1 0 2 -2
+p221
+aVToni Kukoc MIL 03/12/2005 MIL @ NOH L 16 8 3 7 42.9 0 3 0.0 2 3 66.7 0 0 0 3 0 0 3 4 8
+p222
+aVErick Strickland MIL 03/12/2005 MIL @ NOH L 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 4
+p223
+aVDan Gadzuric MIL 03/12/2005 MIL @ NOH L 42 10 3 6 50.0 0 0 - 4 4 100.0 5 11 16 0 0 2 1 3 -1
+p224
+aVDesmond Mason MIL 03/12/2005 MIL @ NOH L 36 11 5 11 45.5 0 0 - 1 2 50.0 0 4 4 2 0 0 5 3 -10
+p225
+aVMichael Redd MIL 03/12/2005 MIL @ NOH L 39 29 9 24 37.5 2 7 28.6 9 10 90.0 1 0 1 3 0 0 0 1 -11
+p226
+aVJoe Smith MIL 03/12/2005 MIL @ NOH L 31 8 4 7 57.1 0 0 - 0 0 - 2 2 4 1 0 1 2 2 -12
+p227
+aVMarcus Fizer MIL 03/12/2005 MIL @ NOH L 16 6 3 3 100.0 0 0 - 0 0 - 0 5 5 1 0 3 3 1 9
+p228
+aVErick Strickland MIL 03/11/2005 MIL vs. DAL L 14 9 3 6 50.0 2 4 50.0 1 2 50.0 0 2 2 1 0 0 2 0 5
+p229
+aVMichael Redd MIL 03/11/2005 MIL vs. DAL L 42 33 12 25 48.0 1 4 25.0 8 10 80.0 3 4 7 2 0 1 0 2 -8
+p230
+aVAnthony Goldwire MIL 03/11/2005 MIL vs. DAL L 16 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 3 -6
+p231
+aVMo Williams MIL 03/11/2005 MIL vs. DAL L 32 10 4 13 30.8 2 3 66.7 0 0 - 1 8 9 8 1 0 4 2 4
+p232
+aVJoe Smith MIL 03/11/2005 MIL vs. DAL L 30 19 7 9 77.8 0 0 - 5 6 83.3 4 5 9 2 2 1 2 3 6
+p233
+aVDan Gadzuric MIL 03/11/2005 MIL vs. DAL L 21 7 3 4 75.0 0 0 - 1 2 50.0 4 2 6 0 0 1 1 2 2
+p234
+aVZaza Pachulia MIL 03/11/2005 MIL vs. DAL L 21 6 1 6 16.7 0 0 - 4 4 100.0 4 2 6 1 0 1 0 1 -2
+p235
+aVToni Kukoc MIL 03/11/2005 MIL vs. DAL L 26 3 1 3 33.3 0 2 0.0 1 2 50.0 0 1 1 7 0 0 1 2 -5
+p236
+aVDesmond Mason MIL 03/11/2005 MIL vs. DAL L 38 20 7 15 46.7 0 0 - 6 6 100.0 0 4 4 3 2 1 2 4 -6
+p237
+aVMichael Redd MIL 03/08/2005 MIL vs. ATL W 42 21 9 24 37.5 1 6 16.7 2 3 66.7 1 1 2 3 1 0 0 0 1
+p238
+aVDesmond Mason MIL 03/08/2005 MIL vs. ATL W 43 22 5 12 41.7 0 0 - 12 13 92.3 0 2 2 2 1 0 2 1 2
+p239
+aVZaza Pachulia MIL 03/08/2005 MIL vs. ATL W 12 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 1 0 2 3
+p240
+aVMo Williams MIL 03/08/2005 MIL vs. ATL W 34 22 9 13 69.2 2 2 100.0 2 2 100.0 0 2 2 10 3 0 2 0 14
+p241
+aVErick Strickland MIL 03/08/2005 MIL vs. ATL W 14 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -10
+p242
+aVMarcus Fizer MIL 03/08/2005 MIL vs. ATL W 19 10 4 7 57.1 0 0 - 2 3 66.7 0 3 3 0 0 1 2 2 3
+p243
+aVToni Kukoc MIL 03/08/2005 MIL vs. ATL W 18 5 1 4 25.0 1 3 33.3 2 2 100.0 0 3 3 4 2 0 1 0 2
+p244
+aVDan Gadzuric MIL 03/08/2005 MIL vs. ATL W 24 6 2 2 100.0 0 0 - 2 4 50.0 1 6 7 0 1 1 0 4 1
+p245
+aVJoe Smith MIL 03/08/2005 MIL vs. ATL W 34 19 6 9 66.7 0 0 - 7 9 77.8 4 5 9 0 0 1 1 4 4
+p246
+aVErick Strickland MIL 03/07/2005 MIL @ CHI L 17 13 5 8 62.5 2 3 66.7 1 2 50.0 0 2 2 3 0 0 0 0 -3
+p247
+aVJoe Smith MIL 03/07/2005 MIL @ CHI L 38 9 2 8 25.0 0 0 - 5 8 62.5 4 8 12 1 0 1 3 1 3
+p248
+aVToni Kukoc MIL 03/07/2005 MIL @ CHI L 22 8 3 5 60.0 1 3 33.3 1 2 50.0 0 3 3 3 0 0 0 0 -2
+p249
+aVMarcus Fizer MIL 03/07/2005 MIL @ CHI L 12 0 0 5 0.0 0 0 - 0 2 0.0 0 1 1 1 3 1 1 2 -7
+p250
+aVMichael Redd MIL 03/07/2005 MIL @ CHI L 45 26 10 20 50.0 0 2 0.0 6 6 100.0 1 3 4 5 2 0 3 5 0
+p251
+aVMo Williams MIL 03/07/2005 MIL @ CHI L 31 5 2 9 22.2 1 3 33.3 0 0 - 0 4 4 8 1 0 3 2 -2
+p252
+aVDesmond Mason MIL 03/07/2005 MIL @ CHI L 32 13 6 9 66.7 0 0 - 1 2 50.0 0 1 1 1 0 0 3 2 -4
+p253
+aVDan Gadzuric MIL 03/07/2005 MIL @ CHI L 13 6 3 4 75.0 0 0 - 0 1 0.0 1 3 4 0 0 1 0 5 7
+p254
+aVZaza Pachulia MIL 03/07/2005 MIL @ CHI L 26 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 2 0 0 1 4 -14
+p255
+aVCalvin Booth MIL 03/07/2005 MIL @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p256
+aVMo Williams MIL 03/05/2005 MIL vs. CHI W 33 16 4 10 40.0 0 1 0.0 8 10 80.0 2 3 5 11 2 0 4 2 23
+p257
+aVDan Gadzuric MIL 03/05/2005 MIL vs. CHI W 19 9 4 7 57.1 0 0 - 1 2 50.0 4 2 6 0 3 1 1 1 3
+p258
+aVJoe Smith MIL 03/05/2005 MIL vs. CHI W 30 10 4 10 40.0 0 0 - 2 2 100.0 3 13 16 1 1 0 1 1 23
+p259
+aVZaza Pachulia MIL 03/05/2005 MIL vs. CHI W 28 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 3 2 0 2 2 3
+p260
+aVMarcus Fizer MIL 03/05/2005 MIL vs. CHI W 18 8 4 8 50.0 0 0 - 0 2 0.0 0 2 2 0 1 0 0 3 -15
+p261
+aVDesmond Mason MIL 03/05/2005 MIL vs. CHI W 38 20 6 14 42.9 0 0 - 8 9 88.9 2 2 4 2 0 0 2 2 16
+p262
+aVMichael Redd MIL 03/05/2005 MIL vs. CHI W 39 16 7 24 29.2 2 6 33.3 0 0 - 3 2 5 1 1 1 1 1 10
+p263
+aVToni Kukoc MIL 03/05/2005 MIL vs. CHI W 21 8 3 4 75.0 2 3 66.7 0 0 - 1 3 4 3 1 0 4 3 -8
+p264
+aVErick Strickland MIL 03/05/2005 MIL vs. CHI W 14 2 1 5 20.0 0 1 0.0 0 1 0.0 0 0 0 3 2 0 1 1 -15
+p265
+aVMichael Redd MIL 03/04/2005 MIL @ MIN L 45 24 8 21 38.1 0 1 0.0 8 10 80.0 0 7 7 3 2 0 3 1 -5
+p266
+aVDan Gadzuric MIL 03/04/2005 MIL @ MIN L 30 16 7 10 70.0 0 0 - 2 2 100.0 6 6 12 0 0 2 1 3 22
+p267
+aVZaza Pachulia MIL 03/04/2005 MIL @ MIN L 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -24
+p268
+aVToni Kukoc MIL 03/04/2005 MIL @ MIN L 20 4 1 3 33.3 1 2 50.0 1 2 50.0 1 1 2 0 0 0 1 1 -23
+p269
+aVDesmond Mason MIL 03/04/2005 MIL @ MIN L 43 18 7 14 50.0 0 0 - 4 4 100.0 0 3 3 9 1 1 1 3 3
+p270
+aVJoe Smith MIL 03/04/2005 MIL @ MIN L 32 12 5 9 55.6 0 0 - 2 3 66.7 2 6 8 1 0 0 1 5 13
+p271
+aVErick Strickland MIL 03/04/2005 MIL @ MIN L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -21
+p272
+aVMo Williams MIL 03/04/2005 MIL @ MIN L 44 21 10 20 50.0 0 2 0.0 1 1 100.0 0 6 6 7 0 1 2 2 5
+p273
+aVMichael Redd MIL 03/01/2005 MIL vs. PHI L 40 35 9 19 47.4 3 6 50.0 14 14 100.0 0 1 1 4 1 0 0 0 -12
+p274
+aVErick Strickland MIL 03/01/2005 MIL vs. PHI L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 3 2 -9
+p275
+aVDan Gadzuric MIL 03/01/2005 MIL vs. PHI L 17 4 2 5 40.0 0 0 - 0 0 - 4 3 7 0 0 1 1 4 -8
+p276
+aVJoe Smith MIL 03/01/2005 MIL vs. PHI L 33 16 6 8 75.0 0 0 - 4 4 100.0 0 3 3 0 0 0 0 2 14
+p277
+aVToni Kukoc MIL 03/01/2005 MIL vs. PHI L 26 4 1 5 20.0 0 3 0.0 2 4 50.0 2 1 3 3 1 1 3 1 -1
+p278
+aVMarcus Fizer MIL 03/01/2005 MIL vs. PHI L 10 0 0 0 - 0 0 - 0 0 - 0 5 5 1 0 0 0 1 -3
+p279
+aVDesmond Mason MIL 03/01/2005 MIL vs. PHI L 42 28 10 20 50.0 0 0 - 8 9 88.9 1 4 5 4 1 2 2 4 -14
+p280
+aVMo Williams MIL 03/01/2005 MIL vs. PHI L 40 22 8 13 61.5 2 3 66.7 4 4 100.0 0 4 4 9 3 0 5 3 2
+p281
+aVZaza Pachulia MIL 03/01/2005 MIL vs. PHI L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 4 10
+p282
+aVCalvin Booth MIL 03/01/2005 MIL vs. PHI L 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 1 1 -14
+p283
+aVJoe Smith MIL 02/27/2005 MIL vs. SEA W 31 16 7 12 58.3 0 0 - 2 2 100.0 1 8 9 2 0 1 0 3 28
+p284
+aVMichael Redd MIL 02/27/2005 MIL vs. SEA W 41 35 14 25 56.0 2 3 66.7 5 6 83.3 2 4 6 1 1 1 1 1 20
+p285
+aVMo Williams MIL 02/27/2005 MIL vs. SEA W 35 8 4 8 50.0 0 0 - 0 0 - 1 1 2 10 3 1 2 1 31
+p286
+aVDesmond Mason MIL 02/27/2005 MIL vs. SEA W 41 19 8 17 47.1 0 0 - 3 4 75.0 2 9 11 4 0 0 2 2 33
+p287
+aVZaza Pachulia MIL 02/27/2005 MIL vs. SEA W 10 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 3
+p288
+aVMarcus Fizer MIL 02/27/2005 MIL vs. SEA W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -11
+p289
+aVToni Kukoc MIL 02/27/2005 MIL vs. SEA W 18 3 1 4 25.0 0 2 0.0 1 2 50.0 1 4 5 2 0 0 1 1 5
+p290
+aVDan Gadzuric MIL 02/27/2005 MIL vs. SEA W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 1 0 13
+p291
+aVErick Strickland MIL 02/27/2005 MIL vs. SEA W 18 7 2 5 40.0 1 2 50.0 2 2 100.0 1 1 2 3 0 0 2 2 -4
+p292
+aVReece Gaines MIL 02/27/2005 MIL vs. SEA W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -2
+p293
+aVCalvin Booth MIL 02/27/2005 MIL vs. SEA W 17 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 2 1 3 0 3 14
+p294
+aVJoe Smith MIL 02/25/2005 MIL vs. TOR L 30 20 8 13 61.5 0 0 - 4 6 66.7 6 8 14 0 0 0 0 4 2
+p295
+aVDesmond Mason MIL 02/25/2005 MIL vs. TOR L 43 18 7 17 41.2 0 1 0.0 4 4 100.0 1 2 3 2 2 0 3 2 -10
+p296
+aVMo Williams MIL 02/25/2005 MIL vs. TOR L 36 21 8 12 66.7 1 2 50.0 4 4 100.0 2 2 4 7 1 0 2 3 -3
+p297
+aVZaza Pachulia MIL 02/25/2005 MIL vs. TOR L 12 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 1 0 0 3 -2
+p298
+aVMarcus Fizer MIL 02/25/2005 MIL vs. TOR L 18 10 2 7 28.6 0 2 0.0 6 7 85.7 1 2 3 1 0 0 0 1 -5
+p299
+aVMichael Redd MIL 02/25/2005 MIL vs. TOR L 39 14 5 20 25.0 0 3 0.0 4 5 80.0 2 4 6 2 0 0 3 3 5
+p300
+aVErick Strickland MIL 02/25/2005 MIL vs. TOR L 24 4 1 7 14.3 1 3 33.3 1 2 50.0 0 3 3 0 1 0 2 1 0
+p301
+aVToni Kukoc MIL 02/25/2005 MIL vs. TOR L 27 6 1 9 11.1 0 3 0.0 4 4 100.0 1 4 5 5 1 0 1 1 2
+p302
+aVDan Gadzuric MIL 02/25/2005 MIL vs. TOR L 11 5 2 4 50.0 0 0 - 1 1 100.0 2 4 6 0 0 0 1 4 -9
+p303
+aVMichael Redd MIL 02/23/2005 MIL vs. NJN W 35 11 5 13 38.5 0 2 0.0 1 1 100.0 0 3 3 1 3 0 3 3 18
+p304
+aVDesmond Mason MIL 02/23/2005 MIL vs. NJN W 39 15 6 13 46.2 0 0 - 3 8 37.5 1 4 5 4 0 1 2 3 10
+p305
+aVDan Gadzuric MIL 02/23/2005 MIL vs. NJN W 13 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 2 -14
+p306
+aVMike James MIL 02/23/2005 MIL vs. NJN W 26 11 5 10 50.0 0 2 0.0 1 1 100.0 0 2 2 7 1 1 3 0 10
+p307
+aVKeith Van Horn MIL 02/23/2005 MIL vs. NJN W 13 7 2 5 40.0 0 2 0.0 3 4 75.0 0 2 2 0 1 0 0 2 8
+p308
+aVMo Williams MIL 02/23/2005 MIL vs. NJN W 22 13 6 8 75.0 1 1 100.0 0 0 - 0 3 3 2 0 0 3 2 6
+p309
+aVMarcus Fizer MIL 02/23/2005 MIL vs. NJN W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p310
+aVErick Strickland MIL 02/23/2005 MIL vs. NJN W 4 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 3
+p311
+aVZaza Pachulia MIL 02/23/2005 MIL vs. NJN W 31 14 6 10 60.0 0 0 - 2 4 50.0 3 9 12 2 1 0 1 2 30
+p312
+aVJoe Smith MIL 02/23/2005 MIL vs. NJN W 24 10 5 7 71.4 0 0 - 0 0 - 2 6 8 1 0 0 0 2 4
+p313
+aVZendon Hamilton MIL 02/23/2005 MIL vs. NJN W 4 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 3
+p314
+aVToni Kukoc MIL 02/23/2005 MIL vs. NJN W 25 8 3 3 100.0 1 1 100.0 1 2 50.0 1 3 4 4 1 0 3 0 13
+p315
+aVToni Kukoc MIL 02/22/2005 MIL @ CHA W 23 6 2 8 25.0 2 4 50.0 0 0 - 0 3 3 5 2 0 0 1 5
+p316
+aVDesmond Mason MIL 02/22/2005 MIL @ CHA W 42 20 9 17 52.9 0 0 - 2 3 66.7 1 4 5 6 0 0 4 1 13
+p317
+aVMike James MIL 02/22/2005 MIL @ CHA W 23 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 5 1 0 4 5 6
+p318
+aVMo Williams MIL 02/22/2005 MIL @ CHA W 25 8 3 5 60.0 0 0 - 2 2 100.0 0 5 5 14 0 1 1 2 4
+p319
+aVKeith Van Horn MIL 02/22/2005 MIL @ CHA W 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -8
+p320
+aVZaza Pachulia MIL 02/22/2005 MIL @ CHA W 18 5 2 4 50.0 0 0 - 1 3 33.3 1 3 4 1 0 1 1 4 2
+p321
+aVJoe Smith MIL 02/22/2005 MIL @ CHA W 40 12 3 6 50.0 0 0 - 6 8 75.0 2 8 10 1 1 0 0 3 11
+p322
+aVMichael Redd MIL 02/22/2005 MIL @ CHA W 37 39 15 24 62.5 4 6 66.7 5 8 62.5 1 4 5 2 0 0 1 2 6
+p323
+aVDan Gadzuric MIL 02/22/2005 MIL @ CHA W 19 9 4 5 80.0 0 0 - 1 2 50.0 1 7 8 1 1 4 0 5 11
+p324
+aVJoe Smith MIL 02/16/2005 MIL @ NYK L 32 12 3 6 50.0 0 0 - 6 8 75.0 3 5 8 0 1 0 0 2 -8
+p325
+aVKeith Van Horn MIL 02/16/2005 MIL @ NYK L 16 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 1 2 -10
+p326
+aVMo Williams MIL 02/16/2005 MIL @ NYK L 26 10 5 13 38.5 0 4 0.0 0 0 - 1 4 5 3 0 0 5 3 -9
+p327
+aVDesmond Mason MIL 02/16/2005 MIL @ NYK L 41 18 7 17 41.2 0 0 - 4 6 66.7 1 4 5 5 0 0 2 0 -17
+p328
+aVDan Gadzuric MIL 02/16/2005 MIL @ NYK L 30 12 4 6 66.7 0 0 - 4 8 50.0 3 4 7 0 1 1 2 1 -7
+p329
+aVToni Kukoc MIL 02/16/2005 MIL @ NYK L 40 20 8 13 61.5 4 7 57.1 0 0 - 1 5 6 1 4 0 1 1 -8
+p330
+aVMike James MIL 02/16/2005 MIL @ NYK L 25 9 3 11 27.3 1 4 25.0 2 2 100.0 0 1 1 4 0 0 0 1 -14
+p331
+aVZaza Pachulia MIL 02/16/2005 MIL @ NYK L 15 3 1 4 25.0 0 0 - 1 2 50.0 4 1 5 0 1 0 1 4 -6
+p332
+aVErick Strickland MIL 02/16/2005 MIL @ NYK L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 3 0 0 2 0 -11
+p333
+aVToni Kukoc MIL 02/14/2005 MIL @ DET L 32 6 3 9 33.3 0 3 0.0 0 0 - 0 0 0 6 0 0 1 1 -27
+p334
+aVDan Gadzuric MIL 02/14/2005 MIL @ DET L 26 10 4 8 50.0 0 0 - 2 2 100.0 3 10 13 0 1 1 0 4 -3
+p335
+aVDaniel Santiago MIL 02/14/2005 MIL @ DET L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p336
+aVMike James MIL 02/14/2005 MIL @ DET L 30 13 5 15 33.3 3 9 33.3 0 0 - 1 1 2 3 1 0 1 2 -2
+p337
+aVJoe Smith MIL 02/14/2005 MIL @ DET L 26 11 5 12 41.7 0 0 - 1 1 100.0 0 7 7 0 1 1 0 1 -14
+p338
+aVErick Strickland MIL 02/14/2005 MIL @ DET L 27 18 7 11 63.6 1 2 50.0 3 4 75.0 1 3 4 2 0 0 1 2 -3
+p339
+aVZaza Pachulia MIL 02/14/2005 MIL @ DET L 14 4 2 3 66.7 0 0 - 0 0 - 2 6 8 0 0 0 1 1 -19
+p340
+aVDesmond Mason MIL 02/14/2005 MIL @ DET L 32 6 2 9 22.2 0 0 - 2 5 40.0 0 1 1 3 0 1 3 2 -22
+p341
+aVKeith Van Horn MIL 02/14/2005 MIL @ DET L 16 9 4 5 80.0 1 2 50.0 0 0 - 1 1 2 0 0 1 1 3 -11
+p342
+aVMo Williams MIL 02/14/2005 MIL @ DET L 30 2 1 6 16.7 0 1 0.0 0 0 - 2 1 3 8 1 0 4 5 -19
+p343
+aVZendon Hamilton MIL 02/14/2005 MIL @ DET L 6 2 1 2 50.0 0 0 - 0 2 0.0 1 0 1 0 0 0 1 0 1
+p344
+aVMo Williams MIL 02/12/2005 MIL vs. ATL W 28 10 3 10 30.0 0 1 0.0 4 4 100.0 1 0 1 5 3 1 1 1 3
+p345
+aVZendon Hamilton MIL 02/12/2005 MIL vs. ATL W 7 5 1 1 100.0 0 0 - 3 4 75.0 1 2 3 1 0 0 1 1 -7
+p346
+aVDaniel Santiago MIL 02/12/2005 MIL vs. ATL W 7 6 1 3 33.3 0 0 - 4 4 100.0 2 0 2 1 1 1 0 4 -7
+p347
+aVMike James MIL 02/12/2005 MIL vs. ATL W 27 18 6 11 54.5 3 5 60.0 3 3 100.0 1 1 2 6 1 0 2 1 20
+p348
+aVZaza Pachulia MIL 02/12/2005 MIL vs. ATL W 27 11 5 9 55.6 0 0 - 1 2 50.0 1 7 8 1 3 3 1 3 31
+p349
+aVKeith Van Horn MIL 02/12/2005 MIL vs. ATL W 16 11 3 5 60.0 1 2 50.0 4 4 100.0 0 4 4 1 2 1 2 2 16
+p350
+aVErick Strickland MIL 02/12/2005 MIL vs. ATL W 26 11 4 8 50.0 0 0 - 3 3 100.0 0 3 3 1 2 0 1 3 13
+p351
+aVToni Kukoc MIL 02/12/2005 MIL vs. ATL W 37 5 2 6 33.3 1 3 33.3 0 1 0.0 0 7 7 6 4 1 0 2 42
+p352
+aVDesmond Mason MIL 02/12/2005 MIL vs. ATL W 32 23 8 16 50.0 0 0 - 7 9 77.8 0 2 2 3 0 0 0 3 23
+p353
+aVJoe Smith MIL 02/12/2005 MIL vs. ATL W 19 10 4 5 80.0 0 0 - 2 3 66.7 1 4 5 2 0 0 2 3 10
+p354
+aVDan Gadzuric MIL 02/12/2005 MIL vs. ATL W 14 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 1 3 1 4 6
+p355
+aVDan Gadzuric MIL 02/09/2005 MIL @ TOR W 28 10 3 6 50.0 0 0 - 4 5 80.0 5 7 12 0 0 1 1 3 -9
+p356
+aVJoe Smith MIL 02/09/2005 MIL @ TOR W 32 11 3 6 50.0 0 0 - 5 6 83.3 0 6 6 0 0 0 1 5 3
+p357
+aVDesmond Mason MIL 02/09/2005 MIL @ TOR W 38 18 8 15 53.3 0 0 - 2 4 50.0 1 5 6 1 1 1 4 1 8
+p358
+aVKeith Van Horn MIL 02/09/2005 MIL @ TOR W 15 6 3 8 37.5 0 2 0.0 0 0 - 2 5 7 0 0 1 1 0 3
+p359
+aVZaza Pachulia MIL 02/09/2005 MIL @ TOR W 17 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 2 13
+p360
+aVMo Williams MIL 02/09/2005 MIL @ TOR W 21 8 4 7 57.1 0 2 0.0 0 0 - 0 0 0 5 1 0 0 3 -2
+p361
+aVToni Kukoc MIL 02/09/2005 MIL @ TOR W 27 10 3 7 42.9 2 5 40.0 2 2 100.0 0 6 6 8 1 1 1 1 7
+p362
+aVMike James MIL 02/09/2005 MIL @ TOR W 27 14 6 10 60.0 2 4 50.0 0 0 - 1 2 3 5 2 0 1 3 5
+p363
+aVMichael Redd MIL 02/09/2005 MIL @ TOR W 35 29 11 20 55.0 1 3 33.3 6 8 75.0 1 2 3 3 1 0 4 3 -13
+p364
+aVMichael Redd MIL 02/08/2005 MIL vs. BOS W 28 17 5 10 50.0 1 2 50.0 6 7 85.7 1 3 4 2 2 0 1 2 22
+p365
+aVDan Gadzuric MIL 02/08/2005 MIL vs. BOS W 22 10 4 9 44.4 0 0 - 2 4 50.0 2 4 6 0 3 2 2 3 11
+p366
+aVErick Strickland MIL 02/08/2005 MIL vs. BOS W 14 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -12
+p367
+aVKeith Van Horn MIL 02/08/2005 MIL vs. BOS W 14 8 3 5 60.0 0 1 0.0 2 2 100.0 0 2 2 1 1 1 0 1 15
+p368
+aVDaniel Santiago MIL 02/08/2005 MIL vs. BOS W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 -13
+p369
+aVMo Williams MIL 02/08/2005 MIL vs. BOS W 32 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 8 0 0 3 3 -8
+p370
+aVJoe Smith MIL 02/08/2005 MIL vs. BOS W 25 12 4 7 57.1 0 0 - 4 5 80.0 4 1 5 1 0 0 0 2 25
+p371
+aVDesmond Mason MIL 02/08/2005 MIL vs. BOS W 32 11 3 12 25.0 0 0 - 5 8 62.5 3 7 10 5 1 0 1 1 32
+p372
+aVZaza Pachulia MIL 02/08/2005 MIL vs. BOS W 12 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 1 2 0 0 2 22
+p373
+aVZendon Hamilton MIL 02/08/2005 MIL vs. BOS W 9 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 2 2 -11
+p374
+aVToni Kukoc MIL 02/08/2005 MIL vs. BOS W 15 8 3 4 75.0 0 1 0.0 2 2 100.0 1 1 2 5 0 0 1 1 17
+p375
+aVMike James MIL 02/08/2005 MIL vs. BOS W 27 28 9 15 60.0 8 13 61.5 2 2 100.0 0 3 3 1 1 0 4 2 20
+p376
+aVMo Williams MIL 02/05/2005 MIL @ WAS L 16 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 2 4 -14
+p377
+aVZaza Pachulia MIL 02/05/2005 MIL @ WAS L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -17
+p378
+aVMike James MIL 02/05/2005 MIL @ WAS L 37 22 10 15 66.7 1 2 50.0 1 1 100.0 1 3 4 5 0 0 3 3 -2
+p379
+aVDan Gadzuric MIL 02/05/2005 MIL @ WAS L 16 0 0 1 0.0 0 0 - 0 0 - 3 5 8 0 0 0 1 4 -3
+p380
+aVJoe Smith MIL 02/05/2005 MIL @ WAS L 20 6 3 7 42.9 0 0 - 0 0 - 1 1 2 1 0 0 2 4 -22
+p381
+aVToni Kukoc MIL 02/05/2005 MIL @ WAS L 28 9 3 7 42.9 0 3 0.0 3 4 75.0 1 7 8 6 1 1 2 0 4
+p382
+aVDesmond Mason MIL 02/05/2005 MIL @ WAS L 28 13 4 9 44.4 0 0 - 5 6 83.3 1 1 2 2 1 0 4 2 -15
+p383
+aVErick Strickland MIL 02/05/2005 MIL @ WAS L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -6
+p384
+aVKeith Van Horn MIL 02/05/2005 MIL @ WAS L 16 7 2 2 100.0 1 1 100.0 2 2 100.0 0 1 1 0 1 0 4 2 -5
+p385
+aVDaniel Santiago MIL 02/05/2005 MIL @ WAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p386
+aVMichael Redd MIL 02/05/2005 MIL @ WAS L 28 26 8 17 47.1 1 2 50.0 9 10 90.0 2 4 6 1 1 0 3 2 -12
+p387
+aVZendon Hamilton MIL 02/05/2005 MIL @ WAS L 14 5 1 2 50.0 0 0 - 3 4 75.0 1 3 4 0 0 0 2 2 0
+p388
+aVDan Gadzuric MIL 02/04/2005 MIL vs. LAC W 26 11 3 5 60.0 0 0 - 5 6 83.3 2 12 14 0 0 4 1 5 2
+p389
+aVMike James MIL 02/04/2005 MIL vs. LAC W 23 6 3 10 30.0 0 4 0.0 0 0 - 0 2 2 4 0 0 3 0 -3
+p390
+aVDesmond Mason MIL 02/04/2005 MIL vs. LAC W 42 15 4 11 36.4 0 0 - 7 8 87.5 1 1 2 3 0 0 3 2 7
+p391
+aVMichael Redd MIL 02/04/2005 MIL vs. LAC W 38 32 13 23 56.5 1 4 25.0 5 5 100.0 3 2 5 3 0 0 0 0 -8
+p392
+aVToni Kukoc MIL 02/04/2005 MIL vs. LAC W 16 2 1 4 25.0 0 1 0.0 0 0 - 3 3 6 2 0 2 1 0 0
+p393
+aVKeith Van Horn MIL 02/04/2005 MIL vs. LAC W 16 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 2 1 0 1 3 5
+p394
+aVZaza Pachulia MIL 02/04/2005 MIL vs. LAC W 22 9 4 8 50.0 0 0 - 1 2 50.0 5 4 9 1 0 1 1 1 0
+p395
+aVJoe Smith MIL 02/04/2005 MIL vs. LAC W 32 7 3 6 50.0 0 0 - 1 1 100.0 3 3 6 0 2 1 1 2 2
+p396
+aVMo Williams MIL 02/04/2005 MIL vs. LAC W 25 6 3 10 30.0 0 2 0.0 0 0 - 1 2 3 7 0 0 0 1 5
+p397
+aVMichael Redd MIL 02/01/2005 MIL vs. MIN W 35 19 8 21 38.1 0 3 0.0 3 3 100.0 1 3 4 0 0 0 2 2 -2
+p398
+aVZaza Pachulia MIL 02/01/2005 MIL vs. MIN W 21 9 4 8 50.0 0 0 - 1 2 50.0 0 3 3 2 0 0 0 0 4
+p399
+aVDan Gadzuric MIL 02/01/2005 MIL vs. MIN W 24 8 4 8 50.0 0 0 - 0 0 - 5 7 12 0 0 2 1 2 4
+p400
+aVJoe Smith MIL 02/01/2005 MIL vs. MIN W 40 17 4 12 33.3 0 0 - 9 9 100.0 7 5 12 1 1 0 1 3 2
+p401
+aVMike James MIL 02/01/2005 MIL vs. MIN W 25 10 4 11 36.4 0 2 0.0 2 2 100.0 0 1 1 3 1 0 1 3 1
+p402
+aVToni Kukoc MIL 02/01/2005 MIL vs. MIN W 33 9 2 5 40.0 0 2 0.0 5 6 83.3 0 6 6 5 2 1 2 3 13
+p403
+aVMo Williams MIL 02/01/2005 MIL vs. MIN W 23 4 2 10 20.0 0 2 0.0 0 0 - 2 0 2 6 1 1 1 2 2
+p404
+aVErick Strickland MIL 02/01/2005 MIL vs. MIN W 24 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 2 0 1 0 2 1
+p405
+aVKeith Van Horn MIL 02/01/2005 MIL vs. MIN W 15 5 2 5 40.0 1 1 100.0 0 0 - 4 4 8 0 0 0 0 1 0
+p406
+aVMichael Redd MIL 01/30/2005 MIL @ CLE L 41 23 8 18 44.4 0 0 - 7 7 100.0 1 2 3 4 2 0 2 2 -17
+p407
+aVErick Strickland MIL 01/30/2005 MIL @ CLE L 12 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 5
+p408
+aVDesmond Mason MIL 01/30/2005 MIL @ CLE L 39 17 7 16 43.8 0 0 - 3 4 75.0 0 2 2 5 2 1 1 3 -16
+p409
+aVToni Kukoc MIL 01/30/2005 MIL @ CLE L 13 2 0 1 0.0 0 1 0.0 2 2 100.0 0 3 3 2 0 1 1 0 -6
+p410
+aVJoe Smith MIL 01/30/2005 MIL @ CLE L 36 9 4 11 36.4 0 0 - 1 4 25.0 2 4 6 1 0 2 1 6 -20
+p411
+aVDan Gadzuric MIL 01/30/2005 MIL @ CLE L 16 4 2 4 50.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 4 1
+p412
+aVMo Williams MIL 01/30/2005 MIL @ CLE L 31 16 7 8 87.5 0 0 - 2 2 100.0 0 3 3 5 0 0 3 1 -14
+p413
+aVZaza Pachulia MIL 01/30/2005 MIL @ CLE L 36 8 2 9 22.2 0 0 - 4 5 80.0 1 4 5 3 1 1 2 2 -15
+p414
+aVMike James MIL 01/30/2005 MIL @ CLE L 16 8 4 7 57.1 0 1 0.0 0 0 - 0 4 4 1 2 0 2 1 -3
+p415
+aVMo Williams MIL 01/28/2005 MIL vs. DEN L 28 13 6 10 60.0 1 2 50.0 0 0 - 2 3 5 7 2 1 2 1 20
+p416
+aVMike James MIL 01/28/2005 MIL vs. DEN L 20 8 3 8 37.5 1 3 33.3 1 2 50.0 2 1 3 1 0 0 3 4 -26
+p417
+aVToni Kukoc MIL 01/28/2005 MIL vs. DEN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 0 1
+p418
+aVMichael Redd MIL 01/28/2005 MIL vs. DEN L 35 26 9 20 45.0 2 3 66.7 6 6 100.0 0 2 2 3 2 0 1 4 2
+p419
+aVDan Gadzuric MIL 01/28/2005 MIL vs. DEN L 36 19 8 12 66.7 0 0 - 3 5 60.0 6 8 14 0 0 1 0 1 8
+p420
+aVDesmond Mason MIL 01/28/2005 MIL vs. DEN L 45 18 5 19 26.3 0 1 0.0 8 9 88.9 2 1 3 8 1 0 2 4 2
+p421
+aVZaza Pachulia MIL 01/28/2005 MIL vs. DEN L 12 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -14
+p422
+aVJoe Smith MIL 01/28/2005 MIL vs. DEN L 41 12 5 9 55.6 0 0 - 2 2 100.0 1 8 9 0 1 0 2 6 -1
+p423
+aVKeith Van Horn MIL 01/28/2005 MIL vs. DEN L 18 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -22
+p424
+aVMo Williams MIL 01/26/2005 MIL vs. PHX L 27 17 7 14 50.0 2 4 50.0 1 1 100.0 1 2 3 4 0 0 2 3 -6
+p425
+aVMike James MIL 01/26/2005 MIL vs. PHX L 21 15 6 17 35.3 3 6 50.0 0 0 - 1 5 6 5 1 0 0 5 0
+p426
+aVZaza Pachulia MIL 01/26/2005 MIL vs. PHX L 13 13 4 5 80.0 0 0 - 5 6 83.3 2 5 7 0 1 0 0 2 2
+p427
+aVKeith Van Horn MIL 01/26/2005 MIL vs. PHX L 22 4 1 3 33.3 0 1 0.0 2 2 100.0 4 2 6 2 1 0 4 2 0
+p428
+aVErick Strickland MIL 01/26/2005 MIL vs. PHX L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -8
+p429
+aVMichael Redd MIL 01/26/2005 MIL vs. PHX L 39 27 11 24 45.8 0 4 0.0 5 5 100.0 0 7 7 3 0 0 3 3 -2
+p430
+aVToni Kukoc MIL 01/26/2005 MIL vs. PHX L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -3
+p431
+aVDesmond Mason MIL 01/26/2005 MIL vs. PHX L 37 19 6 18 33.3 0 0 - 7 7 100.0 4 0 4 4 0 2 0 3 -4
+p432
+aVDan Gadzuric MIL 01/26/2005 MIL vs. PHX L 22 8 3 3 100.0 0 0 - 2 4 50.0 4 4 8 1 1 0 1 3 -11
+p433
+aVJoe Smith MIL 01/26/2005 MIL vs. PHX L 36 8 4 6 66.7 0 0 - 0 0 - 4 2 6 0 1 0 1 4 2
+p434
+aVDan Gadzuric MIL 01/23/2005 MIL @ NYK W 24 10 3 8 37.5 0 0 - 4 5 80.0 7 6 13 0 0 3 1 2 6
+p435
+aVJoe Smith MIL 01/23/2005 MIL @ NYK W 26 14 5 7 71.4 0 0 - 4 6 66.7 3 4 7 0 0 0 0 2 -2
+p436
+aVToni Kukoc MIL 01/23/2005 MIL @ NYK W 16 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 2 1 0 3 1 11
+p437
+aVZaza Pachulia MIL 01/23/2005 MIL @ NYK W 24 13 6 7 85.7 0 0 - 1 1 100.0 3 4 7 0 0 0 2 3 -1
+p438
+aVDesmond Mason MIL 01/23/2005 MIL @ NYK W 42 22 7 15 46.7 0 0 - 8 8 100.0 0 2 2 7 1 0 2 1 -1
+p439
+aVKeith Van Horn MIL 01/23/2005 MIL @ NYK W 26 7 3 8 37.5 0 2 0.0 1 2 50.0 1 2 3 1 2 0 0 4 9
+p440
+aVMo Williams MIL 01/23/2005 MIL @ NYK W 24 10 4 8 50.0 0 0 - 2 2 100.0 0 0 0 5 0 0 2 4 -3
+p441
+aVMichael Redd MIL 01/23/2005 MIL @ NYK W 34 14 6 16 37.5 1 3 33.3 1 1 100.0 0 4 4 1 0 0 1 3 -2
+p442
+aVMike James MIL 01/23/2005 MIL @ NYK W 24 8 2 9 22.2 1 3 33.3 3 3 100.0 0 3 3 5 3 0 2 5 8
+p443
+aVMarcus Fizer MIL 01/21/2005 MIL vs. DET W 17 4 2 5 40.0 0 0 - 0 0 - 0 2 2 4 2 0 0 2 8
+p444
+aVZaza Pachulia MIL 01/21/2005 MIL vs. DET W 17 7 2 3 66.7 0 0 - 3 4 75.0 0 1 1 0 1 0 1 1 6
+p445
+aVDan Gadzuric MIL 01/21/2005 MIL vs. DET W 26 9 4 6 66.7 0 0 - 1 2 50.0 2 3 5 1 0 3 0 1 -3
+p446
+aVMichael Redd MIL 01/21/2005 MIL vs. DET W 39 13 5 11 45.5 2 3 66.7 1 2 50.0 1 2 3 2 1 0 2 1 3
+p447
+aVDesmond Mason MIL 01/21/2005 MIL vs. DET W 39 10 3 13 23.1 0 0 - 4 4 100.0 3 4 7 2 0 1 4 2 -5
+p448
+aVKeith Van Horn MIL 01/21/2005 MIL vs. DET W 23 7 2 6 33.3 1 2 50.0 2 2 100.0 1 4 5 0 1 0 1 3 8
+p449
+aVMo Williams MIL 01/21/2005 MIL vs. DET W 20 5 2 6 33.3 1 1 100.0 0 0 - 1 2 3 4 0 0 3 2 -4
+p450
+aVMike James MIL 01/21/2005 MIL vs. DET W 28 20 6 9 66.7 4 5 80.0 4 6 66.7 0 2 2 4 1 1 0 2 7
+p451
+aVJoe Smith MIL 01/21/2005 MIL vs. DET W 31 14 6 11 54.5 0 0 - 2 4 50.0 4 5 9 0 1 0 1 2 -5
+p452
+aVMarcus Fizer MIL 01/19/2005 MIL @ NJN L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -5
+p453
+aVMichael Redd MIL 01/19/2005 MIL @ NJN L 38 30 12 24 50.0 4 7 57.1 2 4 50.0 2 2 4 1 0 0 0 3 -4
+p454
+aVMike James MIL 01/19/2005 MIL @ NJN L 24 13 4 9 44.4 2 3 66.7 3 3 100.0 2 2 4 3 0 0 3 0 -4
+p455
+aVDan Gadzuric MIL 01/19/2005 MIL @ NJN L 31 6 3 4 75.0 0 0 - 0 0 - 3 11 14 0 2 1 2 3 1
+p456
+aVKeith Van Horn MIL 01/19/2005 MIL @ NJN L 19 6 3 9 33.3 0 2 0.0 0 0 - 3 2 5 1 1 0 2 3 -6
+p457
+aVDesmond Mason MIL 01/19/2005 MIL @ NJN L 41 17 7 13 53.8 0 0 - 3 4 75.0 0 3 3 4 0 0 3 2 -4
+p458
+aVErick Strickland MIL 01/19/2005 MIL @ NJN L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 0 -2
+p459
+aVJoe Smith MIL 01/19/2005 MIL @ NJN L 32 8 3 9 33.3 0 0 - 2 2 100.0 1 6 7 0 0 1 0 0 -1
+p460
+aVMo Williams MIL 01/19/2005 MIL @ NJN L 25 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 6 1 0 2 3 -3
+p461
+aVZaza Pachulia MIL 01/19/2005 MIL @ NJN L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 2 1 1 -2
+p462
+aVDesmond Mason MIL 01/17/2005 MIL @ CHA W 39 16 5 12 41.7 0 0 - 6 6 100.0 4 4 8 0 1 0 2 3 1
+p463
+aVMichael Redd MIL 01/17/2005 MIL @ CHA W 39 27 8 20 40.0 4 11 36.4 7 9 77.8 1 3 4 1 1 0 0 2 8
+p464
+aVZaza Pachulia MIL 01/17/2005 MIL @ CHA W 21 8 4 8 50.0 0 0 - 0 0 - 3 6 9 1 1 1 3 2 9
+p465
+aVToni Kukoc MIL 01/17/2005 MIL @ CHA W 13 0 0 4 0.0 0 0 - 0 0 - 2 1 3 2 0 0 3 2 -3
+p466
+aVJoe Smith MIL 01/17/2005 MIL @ CHA W 29 12 5 10 50.0 0 0 - 2 2 100.0 1 5 6 0 0 0 0 4 5
+p467
+aVErick Strickland MIL 01/17/2005 MIL @ CHA W 11 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 0 3
+p468
+aVKeith Van Horn MIL 01/17/2005 MIL @ CHA W 13 7 2 5 40.0 0 0 - 3 5 60.0 0 0 0 1 1 0 3 2 6
+p469
+aVDan Gadzuric MIL 01/17/2005 MIL @ CHA W 27 13 6 10 60.0 0 0 - 1 5 20.0 5 5 10 1 2 2 0 5 -1
+p470
+aVMo Williams MIL 01/17/2005 MIL @ CHA W 24 4 1 6 16.7 0 1 0.0 2 2 100.0 0 2 2 9 1 0 3 3 -1
+p471
+aVMike James MIL 01/17/2005 MIL @ CHA W 24 11 4 9 44.4 0 4 0.0 3 5 60.0 2 6 8 4 1 0 1 3 8
+p472
+aVZaza Pachulia MIL 01/15/2005 MIL @ MEM L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p473
+aVDesmond Mason MIL 01/15/2005 MIL @ MEM L 32 6 2 8 25.0 0 0 - 2 4 50.0 4 2 6 2 1 2 3 1 -21
+p474
+aVMarcus Fizer MIL 01/15/2005 MIL @ MEM L 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -2
+p475
+aVMichael Redd MIL 01/15/2005 MIL @ MEM L 46 26 12 22 54.5 2 4 50.0 0 0 - 0 6 6 1 0 0 2 3 -23
+p476
+aVMike James MIL 01/15/2005 MIL @ MEM L 30 12 4 11 36.4 1 2 50.0 3 4 75.0 0 2 2 6 0 0 3 2 -8
+p477
+aVErick Strickland MIL 01/15/2005 MIL @ MEM L 14 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -8
+p478
+aVMo Williams MIL 01/15/2005 MIL @ MEM L 18 9 4 8 50.0 1 3 33.3 0 0 - 0 2 2 4 0 0 4 2 -11
+p479
+aVJoe Smith MIL 01/15/2005 MIL @ MEM L 36 12 5 9 55.6 0 0 - 2 4 50.0 1 10 11 0 0 3 2 4 -17
+p480
+aVDan Gadzuric MIL 01/15/2005 MIL @ MEM L 23 4 2 6 33.3 0 0 - 0 0 - 3 8 11 1 0 4 1 0 -5
+p481
+aVKeith Van Horn MIL 01/15/2005 MIL @ MEM L 19 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 3 0 1 0 2 7
+p482
+aVToni Kukoc MIL 01/15/2005 MIL @ MEM L 6 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -7
+p483
+aVDan Gadzuric MIL 01/14/2005 MIL vs. WAS L 23 11 4 6 66.7 0 0 - 3 5 60.0 1 5 6 0 1 1 0 4 2
+p484
+aVZaza Pachulia MIL 01/14/2005 MIL vs. WAS L 24 11 4 5 80.0 0 0 - 3 4 75.0 3 2 5 1 2 0 2 3 0
+p485
+aVDesmond Mason MIL 01/14/2005 MIL vs. WAS L 41 16 6 12 50.0 0 0 - 4 4 100.0 0 3 3 7 2 0 3 1 -1
+p486
+aVMike James MIL 01/14/2005 MIL vs. WAS L 20 11 5 10 50.0 0 3 0.0 1 2 50.0 0 3 3 3 1 0 4 6 -3
+p487
+aVErick Strickland MIL 01/14/2005 MIL vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p488
+aVKeith Van Horn MIL 01/14/2005 MIL vs. WAS L 18 9 3 6 50.0 0 2 0.0 3 4 75.0 0 1 1 1 0 0 1 2 2
+p489
+aVMichael Redd MIL 01/14/2005 MIL vs. WAS L 37 20 8 17 47.1 1 3 33.3 3 3 100.0 3 2 5 4 2 0 1 1 -2
+p490
+aVMo Williams MIL 01/14/2005 MIL vs. WAS L 27 15 6 12 50.0 0 1 0.0 3 3 100.0 0 4 4 8 1 0 3 2 1
+p491
+aVJoe Smith MIL 01/14/2005 MIL vs. WAS L 28 4 2 6 33.3 0 0 - 0 0 - 3 4 7 0 0 0 3 2 -1
+p492
+aVMarcus Fizer MIL 01/14/2005 MIL vs. WAS L 21 6 3 5 60.0 0 0 - 0 0 - 0 3 3 2 0 0 2 2 -4
+p493
+aVKeith Van Horn MIL 01/12/2005 MIL @ SAS L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 3 1 -1
+p494
+aVJoe Smith MIL 01/12/2005 MIL @ SAS L 26 7 2 4 50.0 0 0 - 3 4 75.0 0 4 4 0 0 2 0 4 -4
+p495
+aVMarcus Fizer MIL 01/12/2005 MIL @ SAS L 32 12 6 12 50.0 0 0 - 0 0 - 1 10 11 0 2 2 5 2 -4
+p496
+aVMo Williams MIL 01/12/2005 MIL @ SAS L 30 9 4 9 44.4 1 2 50.0 0 0 - 0 3 3 3 1 0 1 1 -10
+p497
+aVMike James MIL 01/12/2005 MIL @ SAS L 18 8 3 8 37.5 1 3 33.3 1 2 50.0 0 0 0 3 0 0 2 2 -5
+p498
+aVDan Gadzuric MIL 01/12/2005 MIL @ SAS L 23 8 4 6 66.7 0 0 - 0 1 0.0 3 5 8 0 0 3 1 2 -13
+p499
+aVMichael Redd MIL 01/12/2005 MIL @ SAS L 39 24 9 23 39.1 0 1 0.0 6 7 85.7 0 4 4 3 0 0 2 2 -6
+p500
+aVDesmond Mason MIL 01/12/2005 MIL @ SAS L 42 2 1 8 12.5 0 0 - 0 0 - 2 4 6 2 0 0 2 1 -23
+p501
+aVZaza Pachulia MIL 01/12/2005 MIL @ SAS L 15 9 2 3 66.7 0 0 - 5 6 83.3 2 0 2 0 1 0 0 0 -9
+p502
+aVDesmond Mason MIL 01/11/2005 MIL @ ATL L 33 13 6 14 42.9 0 0 - 1 2 50.0 0 2 2 3 1 0 0 0 -8
+p503
+aVMichael Redd MIL 01/11/2005 MIL @ ATL L 32 10 5 17 29.4 0 3 0.0 0 0 - 3 2 5 2 0 0 0 0 -31
+p504
+aVMarcus Fizer MIL 01/11/2005 MIL @ ATL L 21 6 3 9 33.3 0 0 - 0 0 - 1 4 5 0 1 0 1 2 2
+p505
+aVMike James MIL 01/11/2005 MIL @ ATL L 23 14 6 10 60.0 1 3 33.3 1 2 50.0 0 0 0 4 2 0 1 1 -4
+p506
+aVDaniel Santiago MIL 01/11/2005 MIL @ ATL L 15 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 6 2
+p507
+aVErick Strickland MIL 01/11/2005 MIL @ ATL L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p508
+aVDan Gadzuric MIL 01/11/2005 MIL @ ATL L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -4
+p509
+aVToni Kukoc MIL 01/11/2005 MIL @ ATL L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 4 3 0 1 1 -1
+p510
+aVKeith Van Horn MIL 01/11/2005 MIL @ ATL L 15 10 4 8 50.0 2 3 66.7 0 0 - 1 3 4 0 0 0 1 1 -7
+p511
+aVJoe Smith MIL 01/11/2005 MIL @ ATL L 27 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 3 4 3 -25
+p512
+aVZaza Pachulia MIL 01/11/2005 MIL @ ATL L 27 8 3 9 33.3 0 0 - 2 2 100.0 1 7 8 1 1 1 1 1 -21
+p513
+aVMo Williams MIL 01/11/2005 MIL @ ATL L 25 8 4 11 36.4 0 1 0.0 0 0 - 0 0 0 7 1 0 4 1 -19
+p514
+aVMike James MIL 01/08/2005 MIL vs. UTA W 23 10 3 6 50.0 2 2 100.0 2 2 100.0 0 3 3 5 1 0 3 3 10
+p515
+aVDesmond Mason MIL 01/08/2005 MIL vs. UTA W 29 9 2 6 33.3 0 0 - 5 8 62.5 0 2 2 2 0 1 3 1 2
+p516
+aVMarcus Fizer MIL 01/08/2005 MIL vs. UTA W 22 12 4 7 57.1 0 0 - 4 4 100.0 0 9 9 1 1 0 1 2 13
+p517
+aVErick Strickland MIL 01/08/2005 MIL vs. UTA W 17 0 0 4 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -2
+p518
+aVToni Kukoc MIL 01/08/2005 MIL vs. UTA W 19 7 1 6 16.7 0 2 0.0 5 6 83.3 4 0 4 3 1 0 0 0 1
+p519
+aVZaza Pachulia MIL 01/08/2005 MIL vs. UTA W 33 5 1 8 12.5 0 0 - 3 4 75.0 3 6 9 2 1 2 2 3 11
+p520
+aVMichael Redd MIL 01/08/2005 MIL vs. UTA W 32 26 8 13 61.5 3 4 75.0 7 7 100.0 0 3 3 0 0 0 1 2 5
+p521
+aVDan Gadzuric MIL 01/08/2005 MIL vs. UTA W 15 6 3 4 75.0 0 0 - 0 2 0.0 0 4 4 1 0 1 1 4 -8
+p522
+aVJoe Smith MIL 01/08/2005 MIL vs. UTA W 26 7 3 7 42.9 0 0 - 1 1 100.0 3 5 8 0 0 0 1 1 -10
+p523
+aVMo Williams MIL 01/08/2005 MIL vs. UTA W 25 7 3 7 42.9 1 1 100.0 0 0 - 1 0 1 2 0 0 3 1 -7
+p524
+aVMo Williams MIL 01/07/2005 MIL @ TOR W 35 22 8 12 66.7 1 1 100.0 5 9 55.6 0 2 2 8 1 0 1 5 10
+p525
+aVMarcus Fizer MIL 01/07/2005 MIL @ TOR W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 1 -9
+p526
+aVZaza Pachulia MIL 01/07/2005 MIL @ TOR W 20 8 3 4 75.0 0 0 - 2 2 100.0 3 6 9 1 0 0 1 5 17
+p527
+aVMike James MIL 01/07/2005 MIL @ TOR W 19 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 1 0 2 1 -14
+p528
+aVDan Gadzuric MIL 01/07/2005 MIL @ TOR W 28 5 2 3 66.7 0 0 - 1 2 50.0 1 6 7 0 0 4 0 2 -5
+p529
+aVJoe Smith MIL 01/07/2005 MIL @ TOR W 38 19 9 14 64.3 0 0 - 1 3 33.3 1 9 10 4 2 0 2 5 3
+p530
+aVErick Strickland MIL 01/07/2005 MIL @ TOR W 11 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 6 0
+p531
+aVDesmond Mason MIL 01/07/2005 MIL @ TOR W 46 23 6 16 37.5 0 0 - 11 14 78.6 1 3 4 4 2 0 0 2 11
+p532
+aVToni Kukoc MIL 01/07/2005 MIL @ TOR W 15 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 0 0 0 0 2 -3
+p533
+aVMichael Redd MIL 01/07/2005 MIL @ TOR W 46 15 5 20 25.0 0 1 0.0 5 7 71.4 1 4 5 3 1 0 1 2 0
+p534
+aVJoe Smith MIL 01/05/2005 MIL vs. NJN W 24 17 7 9 77.8 0 0 - 3 3 100.0 0 1 1 0 0 1 0 3 7
+p535
+aVMarcus Fizer MIL 01/05/2005 MIL vs. NJN W 20 8 3 4 75.0 0 0 - 2 6 33.3 0 3 3 3 1 0 1 3 15
+p536
+aVToni Kukoc MIL 01/05/2005 MIL vs. NJN W 24 2 1 3 33.3 0 0 - 0 2 0.0 1 1 2 0 2 0 1 3 16
+p537
+aVDaniel Santiago MIL 01/05/2005 MIL vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p538
+aVZaza Pachulia MIL 01/05/2005 MIL vs. NJN W 26 9 4 7 57.1 0 0 - 1 3 33.3 2 6 8 3 0 1 0 2 8
+p539
+aVMichael Redd MIL 01/05/2005 MIL vs. NJN W 40 13 4 11 36.4 0 2 0.0 5 5 100.0 0 5 5 8 2 0 5 2 29
+p540
+aVZendon Hamilton MIL 01/05/2005 MIL vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p541
+aVErick Strickland MIL 01/05/2005 MIL vs. NJN W 27 10 3 5 60.0 0 1 0.0 4 4 100.0 1 4 5 3 1 0 0 2 15
+p542
+aVMike James MIL 01/05/2005 MIL vs. NJN W 31 17 7 12 58.3 2 5 40.0 1 2 50.0 0 5 5 6 3 0 6 1 18
+p543
+aVDesmond Mason MIL 01/05/2005 MIL vs. NJN W 26 16 5 12 41.7 0 0 - 6 7 85.7 0 2 2 0 0 2 0 2 2
+p544
+aVMo Williams MIL 01/05/2005 MIL vs. NJN W 17 5 1 2 50.0 1 1 100.0 2 2 100.0 1 5 6 5 1 0 2 1 5
+p545
+aVDan Gadzuric MIL 01/04/2005 MIL @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -2
+p546
+aVEddie House MIL 01/04/2005 MIL @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p547
+aVKendall Gill MIL 01/04/2005 MIL @ IND L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 3 0
+p548
+aVMichael Redd MIL 01/04/2005 MIL @ IND L 32 19 6 18 33.3 1 3 33.3 6 6 100.0 1 1 2 2 0 0 1 2 -19
+p549
+aVJoe Smith MIL 01/04/2005 MIL @ IND L 26 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 6 -20
+p550
+aVMarcus Fizer MIL 01/04/2005 MIL @ IND L 25 13 5 8 62.5 0 0 - 3 4 75.0 0 5 5 4 0 0 1 4 -2
+p551
+aVMike James MIL 01/04/2005 MIL @ IND L 25 15 5 9 55.6 0 2 0.0 5 7 71.4 0 4 4 7 1 0 0 1 2
+p552
+aVZaza Pachulia MIL 01/04/2005 MIL @ IND L 28 10 3 4 75.0 0 0 - 4 5 80.0 3 1 4 1 1 0 1 5 -13
+p553
+aVZendon Hamilton MIL 01/04/2005 MIL @ IND L 12 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 0 0 1 0 5 2
+p554
+aVDesmond Mason MIL 01/04/2005 MIL @ IND L 36 21 8 15 53.3 0 1 0.0 5 6 83.3 2 3 5 3 0 0 3 3 -17
+p555
+aVMo Williams MIL 01/04/2005 MIL @ IND L 23 8 4 9 44.4 0 0 - 0 0 - 0 4 4 3 0 0 2 5 -19
+p556
+aVErick Strickland MIL 01/04/2005 MIL @ IND L 15 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 2 1 0 1 0 5
+p557
+aVDan Gadzuric MIL 01/02/2005 MIL @ DAL L 25 12 5 7 71.4 0 0 - 2 6 33.3 9 5 14 1 0 3 1 2 -9
+p558
+aVJoe Smith MIL 01/02/2005 MIL @ DAL L 33 6 2 10 20.0 0 0 - 2 2 100.0 2 4 6 1 0 0 1 4 -16
+p559
+aVMarcus Fizer MIL 01/02/2005 MIL @ DAL L 16 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 3 0 0 2 3 1
+p560
+aVMichael Redd MIL 01/02/2005 MIL @ DAL L 39 18 8 18 44.4 2 7 28.6 0 0 - 0 1 1 0 2 0 0 1 -10
+p561
+aVMike James MIL 01/02/2005 MIL @ DAL L 25 20 9 13 69.2 2 3 66.7 0 0 - 1 4 5 3 0 0 2 1 -14
+p562
+aVKendall Gill MIL 01/02/2005 MIL @ DAL L 20 5 1 4 25.0 0 0 - 3 4 75.0 1 2 3 2 1 0 0 2 -7
+p563
+aVMo Williams MIL 01/02/2005 MIL @ DAL L 26 13 4 7 57.1 1 1 100.0 4 4 100.0 2 0 2 5 1 0 1 4 -10
+p564
+aVDesmond Mason MIL 01/02/2005 MIL @ DAL L 38 12 5 13 38.5 0 0 - 2 3 66.7 1 4 5 1 2 1 3 2 -23
+p565
+aVZaza Pachulia MIL 01/02/2005 MIL @ DAL L 18 11 4 9 44.4 0 0 - 3 6 50.0 2 3 5 1 0 1 2 3 -7
+p566
+aVMichael Redd MIL 12/31/2004 MIL @ HOU L 42 21 9 22 40.9 3 7 42.9 0 0 - 1 1 2 1 0 0 1 3 -18
+p567
+aVMo Williams MIL 12/31/2004 MIL @ HOU L 22 9 1 5 20.0 0 0 - 7 8 87.5 1 2 3 5 2 0 1 4 -14
+p568
+aVMarcus Fizer MIL 12/31/2004 MIL @ HOU L 25 8 3 5 60.0 0 0 - 2 2 100.0 4 1 5 3 1 1 4 2 -1
+p569
+aVMike James MIL 12/31/2004 MIL @ HOU L 29 17 8 19 42.1 1 4 25.0 0 2 0.0 2 3 5 7 2 0 2 2 -4
+p570
+aVKendall Gill MIL 12/31/2004 MIL @ HOU L 25 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 3 -5
+p571
+aVDan Gadzuric MIL 12/31/2004 MIL @ HOU L 24 5 2 6 33.3 0 0 - 1 4 25.0 4 6 10 0 2 2 1 1 -9
+p572
+aVJoe Smith MIL 12/31/2004 MIL @ HOU L 23 8 3 6 50.0 0 0 - 2 2 100.0 0 4 4 1 0 0 0 1 -14
+p573
+aVDesmond Mason MIL 12/31/2004 MIL @ HOU L 37 15 4 12 33.3 0 0 - 7 9 77.8 0 3 3 3 2 0 2 5 -9
+p574
+aVZaza Pachulia MIL 12/31/2004 MIL @ HOU L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 1 2 2 -1
+p575
+aVMarcus Fizer MIL 12/29/2004 MIL @ ORL W 19 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -3
+p576
+aVZendon Hamilton MIL 12/29/2004 MIL @ ORL W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p577
+aVDesmond Mason MIL 12/29/2004 MIL @ ORL W 41 21 7 14 50.0 0 0 - 7 8 87.5 0 2 2 4 4 0 1 3 1
+p578
+aVMichael Redd MIL 12/29/2004 MIL @ ORL W 41 29 12 19 63.2 1 1 100.0 4 4 100.0 0 1 1 4 3 0 0 2 20
+p579
+aVKendall Gill MIL 12/29/2004 MIL @ ORL W 15 8 2 6 33.3 0 0 - 4 4 100.0 1 1 2 1 0 1 1 5 -12
+p580
+aVMo Williams MIL 12/29/2004 MIL @ ORL W 28 16 6 11 54.5 0 0 - 4 4 100.0 1 0 1 5 0 0 3 6 9
+p581
+aVDan Gadzuric MIL 12/29/2004 MIL @ ORL W 32 15 6 9 66.7 0 0 - 3 4 75.0 5 9 14 0 1 1 2 3 13
+p582
+aVMike James MIL 12/29/2004 MIL @ ORL W 20 6 2 9 22.2 1 4 25.0 1 2 50.0 0 1 1 2 0 0 0 2 -3
+p583
+aVZaza Pachulia MIL 12/29/2004 MIL @ ORL W 37 9 3 9 33.3 0 1 0.0 3 6 50.0 4 7 11 6 3 2 0 3 10
+p584
+aVEddie House MIL 12/29/2004 MIL @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p585
+aVZendon Hamilton MIL 12/28/2004 MIL vs. HOU W 5 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 1 0 0 0 1
+p586
+aVMichael Redd MIL 12/28/2004 MIL vs. HOU W 33 28 8 14 57.1 3 4 75.0 9 12 75.0 1 4 5 3 2 0 4 0 27
+p587
+aVJoe Smith MIL 12/28/2004 MIL vs. HOU W 19 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 20
+p588
+aVKendall Gill MIL 12/28/2004 MIL vs. HOU W 27 5 1 7 14.3 0 1 0.0 3 3 100.0 0 3 3 2 1 0 0 3 10
+p589
+aVEddie House MIL 12/28/2004 MIL vs. HOU W 10 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 -1
+p590
+aVDan Gadzuric MIL 12/28/2004 MIL vs. HOU W 14 2 1 3 33.3 0 0 - 0 2 0.0 4 5 9 4 2 0 0 4 18
+p591
+aVMarcus Fizer MIL 12/28/2004 MIL vs. HOU W 29 15 6 8 75.0 0 0 - 3 6 50.0 2 5 7 5 1 0 2 4 8
+p592
+aVMike James MIL 12/28/2004 MIL vs. HOU W 27 13 5 10 50.0 1 2 50.0 2 2 100.0 1 1 2 3 1 0 4 4 5
+p593
+aVDesmond Mason MIL 12/28/2004 MIL vs. HOU W 26 24 11 15 73.3 0 0 - 2 3 66.7 0 2 2 2 0 0 1 4 20
+p594
+aVZaza Pachulia MIL 12/28/2004 MIL vs. HOU W 29 8 3 9 33.3 0 0 - 2 4 50.0 4 8 12 0 3 0 1 3 9
+p595
+aVMo Williams MIL 12/28/2004 MIL vs. HOU W 21 11 4 5 80.0 0 1 0.0 3 3 100.0 0 4 4 6 0 0 2 1 23
+p596
+aVZaza Pachulia MIL 12/26/2004 MIL vs. CHI W 35 11 4 10 40.0 0 0 - 3 3 100.0 5 4 9 3 0 2 2 3 10
+p597
+aVDan Gadzuric MIL 12/26/2004 MIL vs. CHI W 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -3
+p598
+aVDesmond Mason MIL 12/26/2004 MIL vs. CHI W 44 13 5 12 41.7 0 0 - 3 4 75.0 0 2 2 4 0 1 4 3 5
+p599
+aVJoe Smith MIL 12/26/2004 MIL vs. CHI W 32 21 9 12 75.0 0 0 - 3 4 75.0 5 4 9 1 2 0 1 5 11
+p600
+aVMike James MIL 12/26/2004 MIL vs. CHI W 24 6 3 8 37.5 0 0 - 0 0 - 1 3 4 8 2 0 0 2 -1
+p601
+aVMo Williams MIL 12/26/2004 MIL vs. CHI W 25 3 1 6 16.7 0 0 - 1 2 50.0 0 3 3 6 1 0 2 1 9
+p602
+aVKendall Gill MIL 12/26/2004 MIL vs. CHI W 13 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -2
+p603
+aVMarcus Fizer MIL 12/26/2004 MIL vs. CHI W 15 4 2 6 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -5
+p604
+aVMichael Redd MIL 12/26/2004 MIL vs. CHI W 39 39 15 27 55.6 1 3 33.3 8 8 100.0 2 6 8 3 1 0 4 2 11
+p605
+aVMike James MIL 12/22/2004 MIL vs. POR L 30 22 9 17 52.9 1 4 25.0 3 3 100.0 1 2 3 4 1 0 0 0 6
+p606
+aVJoe Smith MIL 12/22/2004 MIL vs. POR L 31 14 6 9 66.7 0 0 - 2 2 100.0 3 6 9 4 1 1 1 2 -15
+p607
+aVMichael Redd MIL 12/22/2004 MIL vs. POR L 35 4 2 10 20.0 0 3 0.0 0 1 0.0 1 3 4 4 2 0 0 2 -16
+p608
+aVKendall Gill MIL 12/22/2004 MIL vs. POR L 26 12 6 9 66.7 0 0 - 0 0 - 1 4 5 3 2 1 0 1 14
+p609
+aVEddie House MIL 12/22/2004 MIL vs. POR L 11 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 3
+p610
+aVDesmond Mason MIL 12/22/2004 MIL vs. POR L 28 16 7 15 46.7 0 0 - 2 3 66.7 1 1 2 2 1 0 3 2 -10
+p611
+aVDan Gadzuric MIL 12/22/2004 MIL vs. POR L 21 12 6 9 66.7 0 0 - 0 1 0.0 2 1 3 0 1 0 1 4 -11
+p612
+aVMarcus Fizer MIL 12/22/2004 MIL vs. POR L 15 4 2 7 28.6 0 0 - 0 0 - 2 1 3 3 0 0 1 3 -1
+p613
+aVZendon Hamilton MIL 12/22/2004 MIL vs. POR L 12 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 2 0 0 1 1
+p614
+aVMo Williams MIL 12/22/2004 MIL vs. POR L 18 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 2 1 -15
+p615
+aVZaza Pachulia MIL 12/22/2004 MIL vs. POR L 13 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 2 1 0 1 1 -1
+p616
+aVMo Williams MIL 12/18/2004 MIL vs. PHI L 26 7 3 7 42.9 0 0 - 1 1 100.0 1 2 3 7 1 0 3 4 4
+p617
+aVDesmond Mason MIL 12/18/2004 MIL vs. PHI L 25 14 2 10 20.0 0 1 0.0 10 12 83.3 1 3 4 2 0 0 2 3 -8
+p618
+aVEddie House MIL 12/18/2004 MIL vs. PHI L 17 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 4 1 0 0 2 -10
+p619
+aVJoe Smith MIL 12/18/2004 MIL vs. PHI L 32 12 3 9 33.3 0 0 - 6 8 75.0 5 9 14 0 0 1 1 3 -12
+p620
+aVKendall Gill MIL 12/18/2004 MIL vs. PHI L 18 8 4 6 66.7 0 0 - 0 0 - 1 1 2 1 0 1 2 2 -6
+p621
+aVZaza Pachulia MIL 12/18/2004 MIL vs. PHI L 2 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 0
+p622
+aVMichael Redd MIL 12/18/2004 MIL vs. PHI L 37 29 9 25 36.0 1 4 25.0 10 12 83.3 1 4 5 2 1 0 2 2 -11
+p623
+aVMarcus Fizer MIL 12/18/2004 MIL vs. PHI L 15 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 3 -11
+p624
+aVMike James MIL 12/18/2004 MIL vs. PHI L 21 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 1 0 0 2 5 -26
+p625
+aVZendon Hamilton MIL 12/18/2004 MIL vs. PHI L 18 6 2 5 40.0 0 0 - 2 4 50.0 4 4 8 2 0 0 1 3 -10
+p626
+aVDan Gadzuric MIL 12/18/2004 MIL vs. PHI L 29 8 3 9 33.3 0 0 - 2 4 50.0 7 7 14 0 1 1 0 2 -5
+p627
+aVMo Williams MIL 12/16/2004 MIL @ CHI L 25 6 3 11 27.3 0 0 - 0 0 - 0 7 7 5 1 0 1 3 -4
+p628
+aVKendall Gill MIL 12/16/2004 MIL @ CHI L 24 6 3 8 37.5 0 1 0.0 0 0 - 1 0 1 0 4 0 0 3 -10
+p629
+aVMike James MIL 12/16/2004 MIL @ CHI L 23 7 3 6 50.0 1 1 100.0 0 0 - 0 2 2 4 1 0 1 1 -4
+p630
+aVDesmond Mason MIL 12/16/2004 MIL @ CHI L 38 15 5 13 38.5 0 0 - 5 8 62.5 1 3 4 3 1 1 3 4 -9
+p631
+aVZaza Pachulia MIL 12/16/2004 MIL @ CHI L 16 5 1 4 25.0 0 0 - 3 3 100.0 1 2 3 0 0 0 2 3 -5
+p632
+aVDan Gadzuric MIL 12/16/2004 MIL @ CHI L 21 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 0 1 1 3 -3
+p633
+aVMarcus Fizer MIL 12/16/2004 MIL @ CHI L 13 2 1 7 14.3 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -11
+p634
+aVJoe Smith MIL 12/16/2004 MIL @ CHI L 40 12 6 11 54.5 0 0 - 0 0 - 7 4 11 1 1 2 1 2 3
+p635
+aVMichael Redd MIL 12/16/2004 MIL @ CHI L 40 22 10 22 45.5 1 4 25.0 1 3 33.3 0 2 2 1 1 0 3 2 3
+p636
+aVMo Williams MIL 12/14/2004 MIL vs. SAC L 20 10 5 9 55.6 0 0 - 0 0 - 0 6 6 6 2 0 2 3 4
+p637
+aVDan Gadzuric MIL 12/14/2004 MIL vs. SAC L 24 2 1 6 16.7 0 0 - 0 0 - 3 5 8 0 0 1 1 3 -1
+p638
+aVZendon Hamilton MIL 12/14/2004 MIL vs. SAC L 19 1 0 3 0.0 0 0 - 1 2 50.0 2 6 8 0 1 1 1 1 -1
+p639
+aVKendall Gill MIL 12/14/2004 MIL vs. SAC L 17 2 0 5 0.0 0 0 - 2 2 100.0 1 2 3 3 0 0 1 1 -5
+p640
+aVZaza Pachulia MIL 12/14/2004 MIL vs. SAC L 17 2 1 5 20.0 0 0 - 0 1 0.0 0 6 6 1 1 0 1 3 6
+p641
+aVMike James MIL 12/14/2004 MIL vs. SAC L 28 15 4 11 36.4 2 5 40.0 5 6 83.3 1 3 4 4 1 0 0 2 -7
+p642
+aVDesmond Mason MIL 12/14/2004 MIL vs. SAC L 41 23 10 16 62.5 0 0 - 3 3 100.0 1 3 4 0 3 0 3 1 3
+p643
+aVJoe Smith MIL 12/14/2004 MIL vs. SAC L 36 11 5 14 35.7 0 0 - 1 1 100.0 3 2 5 1 1 2 3 2 -8
+p644
+aVMichael Redd MIL 12/14/2004 MIL vs. SAC L 38 20 8 17 47.1 0 1 0.0 4 5 80.0 2 4 6 1 0 0 1 0 -6
+p645
+aVMike James MIL 12/12/2004 MIL @ PHI L 25 11 3 6 50.0 2 5 40.0 3 4 75.0 0 3 3 3 1 0 0 3 8
+p646
+aVDesmond Mason MIL 12/12/2004 MIL @ PHI L 43 21 7 16 43.8 0 0 - 7 8 87.5 1 6 7 1 0 0 1 5 -13
+p647
+aVMichael Redd MIL 12/12/2004 MIL @ PHI L 42 28 8 20 40.0 3 6 50.0 9 10 90.0 1 3 4 3 2 0 1 1 -8
+p648
+aVKendall Gill MIL 12/12/2004 MIL @ PHI L 24 7 3 8 37.5 1 3 33.3 0 0 - 1 4 5 4 0 1 0 1 -2
+p649
+aVZaza Pachulia MIL 12/12/2004 MIL @ PHI L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 1
+p650
+aVMo Williams MIL 12/12/2004 MIL @ PHI L 25 6 3 6 50.0 0 0 - 0 0 - 0 3 3 7 1 0 3 3 -11
+p651
+aVJoe Smith MIL 12/12/2004 MIL @ PHI L 36 15 7 16 43.8 0 0 - 1 2 50.0 3 3 6 2 0 1 1 2 -5
+p652
+aVDan Gadzuric MIL 12/12/2004 MIL @ PHI L 29 10 4 10 40.0 0 0 - 2 6 33.3 6 7 13 0 1 1 1 2 -5
+p653
+aVZendon Hamilton MIL 12/12/2004 MIL @ PHI L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 5
+p654
+aVJoe Smith MIL 12/10/2004 MIL vs. IND W 29 9 4 6 66.7 0 0 - 1 2 50.0 0 5 5 2 0 0 1 3 16
+p655
+aVMike James MIL 12/10/2004 MIL vs. IND W 29 16 5 12 41.7 3 4 75.0 3 3 100.0 1 2 3 4 0 0 1 2 5
+p656
+aVKendall Gill MIL 12/10/2004 MIL vs. IND W 21 5 2 7 28.6 0 0 - 1 1 100.0 0 1 1 3 2 0 1 5 -7
+p657
+aVDesmond Mason MIL 12/10/2004 MIL vs. IND W 40 12 2 12 16.7 1 1 100.0 7 8 87.5 1 3 4 4 1 0 4 2 7
+p658
+aVMarcus Fizer MIL 12/10/2004 MIL vs. IND W 5 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -1
+p659
+aVDan Gadzuric MIL 12/10/2004 MIL vs. IND W 22 10 4 7 57.1 0 0 - 2 2 100.0 7 3 10 0 0 0 1 2 16
+p660
+aVMichael Redd MIL 12/10/2004 MIL vs. IND W 42 21 7 15 46.7 1 2 50.0 6 7 85.7 0 3 3 1 0 1 0 1 11
+p661
+aVZaza Pachulia MIL 12/10/2004 MIL vs. IND W 23 5 2 6 33.3 0 0 - 1 2 50.0 2 6 8 1 3 2 0 3 -11
+p662
+aVMo Williams MIL 12/10/2004 MIL vs. IND W 29 13 3 10 30.0 0 0 - 7 8 87.5 2 5 7 5 2 0 4 5 9
+p663
+aVMichael Redd MIL 12/08/2004 MIL vs. MIA L 29 16 6 16 37.5 0 1 0.0 4 4 100.0 0 1 1 3 0 0 3 1 -8
+p664
+aVMike James MIL 12/08/2004 MIL vs. MIA L 20 2 1 8 12.5 0 2 0.0 0 0 - 0 0 0 1 0 0 0 4 15
+p665
+aVErick Strickland MIL 12/08/2004 MIL vs. MIA L 24 12 4 9 44.4 2 5 40.0 2 4 50.0 1 2 3 2 0 0 0 3 7
+p666
+aVDan Gadzuric MIL 12/08/2004 MIL vs. MIA L 11 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 1 0 4 -6
+p667
+aVZaza Pachulia MIL 12/08/2004 MIL vs. MIA L 27 8 2 9 22.2 0 0 - 4 6 66.7 6 7 13 2 1 0 2 3 1
+p668
+aVJoe Smith MIL 12/08/2004 MIL vs. MIA L 29 14 6 9 66.7 0 0 - 2 2 100.0 2 5 7 2 0 0 1 6 -14
+p669
+aVKendall Gill MIL 12/08/2004 MIL vs. MIA L 28 14 6 8 75.0 2 3 66.7 0 0 - 1 4 5 5 2 0 1 4 13
+p670
+aVMo Williams MIL 12/08/2004 MIL vs. MIA L 29 11 4 7 57.1 0 0 - 3 4 75.0 0 2 2 7 1 0 2 1 -18
+p671
+aVDesmond Mason MIL 12/08/2004 MIL vs. MIA L 42 19 6 11 54.5 0 0 - 7 8 87.5 1 3 4 0 0 0 1 3 -15
+p672
+aVZendon Hamilton MIL 12/07/2004 MIL @ IND W 8 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 4 -7
+p673
+aVZaza Pachulia MIL 12/07/2004 MIL @ IND W 9 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 2 0 -3
+p674
+aVMichael Redd MIL 12/07/2004 MIL @ IND W 34 28 10 21 47.6 1 6 16.7 7 8 87.5 0 3 3 3 1 0 0 1 -3
+p675
+aVKendall Gill MIL 12/07/2004 MIL @ IND W 13 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 2 4 2
+p676
+aVJoe Smith MIL 12/07/2004 MIL @ IND W 43 12 6 11 54.5 0 0 - 0 0 - 1 8 9 2 0 0 1 3 0
+p677
+aVMike James MIL 12/07/2004 MIL @ IND W 23 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 4 1 0 0 2 4
+p678
+aVMo Williams MIL 12/07/2004 MIL @ IND W 28 6 3 8 37.5 0 0 - 0 0 - 1 4 5 2 0 1 2 3 5
+p679
+aVDan Gadzuric MIL 12/07/2004 MIL @ IND W 28 9 4 10 40.0 0 0 - 1 2 50.0 8 5 13 0 0 3 2 1 7
+p680
+aVErick Strickland MIL 12/07/2004 MIL @ IND W 14 6 2 5 40.0 0 1 0.0 2 2 100.0 1 3 4 2 1 0 1 2 6
+p681
+aVDesmond Mason MIL 12/07/2004 MIL @ IND W 40 21 8 13 61.5 0 0 - 5 7 71.4 0 7 7 1 0 0 2 4 4
+p682
+aVMarcus Fizer MIL 12/04/2004 MIL vs. SAS L 21 8 4 8 50.0 0 0 - 0 0 - 4 0 4 0 1 0 3 1 -25
+p683
+aVDan Gadzuric MIL 12/04/2004 MIL vs. SAS L 27 4 0 2 0.0 0 0 - 4 6 66.7 1 6 7 1 1 2 3 5 4
+p684
+aVZaza Pachulia MIL 12/04/2004 MIL vs. SAS L 17 7 2 4 50.0 0 0 - 3 4 75.0 0 0 0 1 0 0 2 0 -13
+p685
+aVMichael Redd MIL 12/04/2004 MIL vs. SAS L 36 15 7 18 38.9 0 2 0.0 1 2 50.0 1 2 3 2 1 0 1 2 -12
+p686
+aVMo Williams MIL 12/04/2004 MIL vs. SAS L 22 2 1 6 16.7 0 0 - 0 0 - 0 0 0 5 1 0 0 2 -1
+p687
+aVErick Strickland MIL 12/04/2004 MIL vs. SAS L 24 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 3 2 0 1 4 -18
+p688
+aVJoe Smith MIL 12/04/2004 MIL vs. SAS L 23 10 4 6 66.7 0 0 - 2 3 66.7 0 5 5 1 0 1 1 1 -2
+p689
+aVDesmond Mason MIL 12/04/2004 MIL vs. SAS L 32 18 7 12 58.3 0 0 - 4 4 100.0 2 4 6 1 2 0 1 0 -11
+p690
+aVZendon Hamilton MIL 12/04/2004 MIL vs. SAS L 8 6 1 2 50.0 0 0 - 4 5 80.0 0 2 2 0 0 0 1 2 -6
+p691
+aVMike James MIL 12/04/2004 MIL vs. SAS L 30 11 5 9 55.6 1 5 20.0 0 0 - 0 0 0 4 1 0 1 3 -21
+p692
+aVErick Strickland MIL 12/01/2004 MIL @ BOS L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 2 13
+p693
+aVDan Gadzuric MIL 12/01/2004 MIL @ BOS L 8 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -5
+p694
+aVKeith Van Horn MIL 12/01/2004 MIL @ BOS L 39 21 7 12 58.3 1 1 100.0 6 6 100.0 1 6 7 1 1 1 1 4 -3
+p695
+aVZaza Pachulia MIL 12/01/2004 MIL @ BOS L 5 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 2 -1
+p696
+aVMarcus Fizer MIL 12/01/2004 MIL @ BOS L 19 11 5 10 50.0 0 0 - 1 2 50.0 2 6 8 1 1 0 1 3 6
+p697
+aVMichael Redd MIL 12/01/2004 MIL @ BOS L 40 23 9 16 56.3 4 6 66.7 1 2 50.0 1 2 3 5 0 0 2 4 -8
+p698
+aVZendon Hamilton MIL 12/01/2004 MIL @ BOS L 16 12 3 7 42.9 0 0 - 6 11 54.5 5 1 6 0 1 0 2 2 -1
+p699
+aVMike James MIL 12/01/2004 MIL @ BOS L 16 2 1 5 20.0 0 1 0.0 0 2 0.0 0 2 2 2 0 1 1 6 9
+p700
+aVDesmond Mason MIL 12/01/2004 MIL @ BOS L 40 16 4 10 40.0 0 0 - 8 9 88.9 5 3 8 5 1 0 5 2 -10
+p701
+aVMo Williams MIL 12/01/2004 MIL @ BOS L 42 10 5 15 33.3 0 2 0.0 0 0 - 0 4 4 8 3 0 3 3 -5
+p702
+aVDan Gadzuric MIL 11/30/2004 MIL vs. LAL L 25 9 3 4 75.0 0 0 - 3 3 100.0 4 3 7 0 0 2 3 4 16
+p703
+aVMichael Redd MIL 11/30/2004 MIL vs. LAL L 39 8 3 13 23.1 2 4 50.0 0 0 - 2 5 7 0 1 0 5 3 -4
+p704
+aVKeith Van Horn MIL 11/30/2004 MIL vs. LAL L 45 11 4 13 30.8 1 5 20.0 2 2 100.0 1 9 10 5 0 0 0 3 1
+p705
+aVDesmond Mason MIL 11/30/2004 MIL vs. LAL L 42 32 10 16 62.5 0 0 - 12 13 92.3 0 5 5 1 2 1 1 4 -1
+p706
+aVErick Strickland MIL 11/30/2004 MIL vs. LAL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p707
+aVMike James MIL 11/30/2004 MIL vs. LAL L 25 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 4 0 0 0 3 -7
+p708
+aVMarcus Fizer MIL 11/30/2004 MIL vs. LAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p709
+aVZaza Pachulia MIL 11/30/2004 MIL vs. LAL L 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -14
+p710
+aVMo Williams MIL 11/30/2004 MIL vs. LAL L 38 21 10 19 52.6 0 1 0.0 1 2 50.0 2 5 7 11 1 0 5 4 2
+p711
+aVDesmond Mason MIL 11/27/2004 MIL vs. DET W 28 5 2 7 28.6 0 0 - 1 2 50.0 1 2 3 1 0 0 0 4 12
+p712
+aVMo Williams MIL 11/27/2004 MIL vs. DET W 39 10 5 13 38.5 0 2 0.0 0 0 - 0 1 1 13 0 0 4 3 12
+p713
+aVErick Strickland MIL 11/27/2004 MIL vs. DET W 12 4 1 4 25.0 1 2 50.0 1 2 50.0 0 1 1 1 1 0 1 2 -10
+p714
+aVDan Gadzuric MIL 11/27/2004 MIL vs. DET W 23 4 2 4 50.0 0 0 - 0 0 - 1 7 8 2 0 1 2 2 5
+p715
+aVZaza Pachulia MIL 11/27/2004 MIL vs. DET W 31 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 1 2 0 2 5 3
+p716
+aVMarcus Fizer MIL 11/27/2004 MIL vs. DET W 18 8 4 5 80.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -3
+p717
+aVMichael Redd MIL 11/27/2004 MIL vs. DET W 41 29 10 17 58.8 4 5 80.0 5 5 100.0 0 3 3 4 1 0 4 1 3
+p718
+aVKeith Van Horn MIL 11/27/2004 MIL vs. DET W 25 20 7 11 63.6 4 6 66.7 2 2 100.0 3 1 4 0 2 0 0 5 -1
+p719
+aVMike James MIL 11/27/2004 MIL vs. DET W 23 8 4 8 50.0 0 2 0.0 0 0 - 1 1 2 3 0 0 1 2 9
+p720
+aVMarcus Fizer MIL 11/24/2004 MIL @ PHX L 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -6
+p721
+aVMike James MIL 11/24/2004 MIL @ PHX L 25 7 3 10 30.0 1 3 33.3 0 0 - 0 1 1 3 1 1 2 0 3
+p722
+aVMichael Redd MIL 11/24/2004 MIL @ PHX L 42 22 9 23 39.1 2 5 40.0 2 3 66.7 2 8 10 3 0 0 3 2 -4
+p723
+aVMo Williams MIL 11/24/2004 MIL @ PHX L 28 9 4 8 50.0 0 1 0.0 1 1 100.0 0 2 2 4 1 0 3 3 -14
+p724
+aVErick Strickland MIL 11/24/2004 MIL @ PHX L 27 14 5 9 55.6 2 4 50.0 2 2 100.0 0 3 3 3 0 0 2 3 8
+p725
+aVJoe Smith MIL 11/24/2004 MIL @ PHX L 24 18 7 9 77.8 0 0 - 4 6 66.7 4 3 7 0 0 3 0 2 4
+p726
+aVDan Gadzuric MIL 11/24/2004 MIL @ PHX L 11 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 1 1 3 -5
+p727
+aVDesmond Mason MIL 11/24/2004 MIL @ PHX L 40 20 9 15 60.0 0 0 - 2 3 66.7 1 9 10 3 0 0 1 4 -9
+p728
+aVKeith Van Horn MIL 11/24/2004 MIL @ PHX L 30 12 5 12 41.7 2 2 100.0 0 0 - 5 4 9 0 0 0 2 2 -12
+p729
+aVMo Williams MIL 11/23/2004 MIL @ LAL L 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 0 2 4 -10
+p730
+aVDan Gadzuric MIL 11/23/2004 MIL @ LAL L 21 7 3 5 60.0 0 0 - 1 4 25.0 4 7 11 0 0 2 0 2 -12
+p731
+aVDesmond Mason MIL 11/23/2004 MIL @ LAL L 33 26 12 16 75.0 0 0 - 2 5 40.0 1 4 5 0 0 0 1 4 4
+p732
+aVMike James MIL 11/23/2004 MIL @ LAL L 37 18 7 15 46.7 2 2 100.0 2 2 100.0 1 4 5 11 2 0 3 4 6
+p733
+aVJoe Smith MIL 11/23/2004 MIL @ LAL L 29 8 4 8 50.0 0 0 - 0 0 - 2 4 6 2 1 0 1 3 -16
+p734
+aVMichael Redd MIL 11/23/2004 MIL @ LAL L 30 6 1 8 12.5 0 0 - 4 4 100.0 1 3 4 2 0 0 6 2 -13
+p735
+aVMarcus Fizer MIL 11/23/2004 MIL @ LAL L 21 7 2 5 40.0 0 0 - 3 4 75.0 0 3 3 1 0 0 1 0 10
+p736
+aVZaza Pachulia MIL 11/23/2004 MIL @ LAL L 18 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 10
+p737
+aVKeith Van Horn MIL 11/23/2004 MIL @ LAL L 28 10 2 11 18.2 1 2 50.0 5 6 83.3 2 8 10 0 0 1 1 1 -12
+p738
+aVErick Strickland MIL 11/23/2004 MIL @ LAL L 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 13
+p739
+aVJoe Smith MIL 11/21/2004 MIL @ SAC L 32 9 3 9 33.3 0 0 - 3 3 100.0 2 8 10 0 0 0 1 4 -10
+p740
+aVMarcus Fizer MIL 11/21/2004 MIL @ SAC L 14 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 4 -1
+p741
+aVZaza Pachulia MIL 11/21/2004 MIL @ SAC L 15 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 2 0 -10
+p742
+aVDesmond Mason MIL 11/21/2004 MIL @ SAC L 31 10 4 13 30.8 0 0 - 2 3 66.7 0 3 3 4 0 0 2 1 -7
+p743
+aVKeith Van Horn MIL 11/21/2004 MIL @ SAC L 28 15 7 14 50.0 1 2 50.0 0 0 - 0 4 4 1 1 0 0 6 -4
+p744
+aVErick Strickland MIL 11/21/2004 MIL @ SAC L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p745
+aVMichael Redd MIL 11/21/2004 MIL @ SAC L 38 16 6 22 27.3 1 7 14.3 3 4 75.0 3 3 6 3 1 0 2 2 -12
+p746
+aVDan Gadzuric MIL 11/21/2004 MIL @ SAC L 24 7 3 5 60.0 0 0 - 1 2 50.0 4 9 13 0 2 1 2 1 7
+p747
+aVMike James MIL 11/21/2004 MIL @ SAC L 25 11 4 11 36.4 1 6 16.7 2 2 100.0 1 2 3 3 0 0 0 1 -5
+p748
+aVMo Williams MIL 11/21/2004 MIL @ SAC L 24 8 4 10 40.0 0 0 - 0 0 - 0 4 4 3 0 0 3 5 -6
+p749
+aVKeith Van Horn MIL 11/19/2004 MIL @ POR L 34 10 5 11 45.5 0 3 0.0 0 0 - 4 3 7 3 1 0 2 2 -13
+p750
+aVMarcus Fizer MIL 11/19/2004 MIL @ POR L 16 5 2 2 100.0 0 0 - 1 4 25.0 0 1 1 1 2 0 0 3 -4
+p751
+aVMo Williams MIL 11/19/2004 MIL @ POR L 24 4 2 4 50.0 0 0 - 0 0 - 0 0 0 6 1 0 3 1 -3
+p752
+aVDan Gadzuric MIL 11/19/2004 MIL @ POR L 31 7 3 7 42.9 0 0 - 1 3 33.3 3 4 7 1 2 0 1 3 -2
+p753
+aVJoe Smith MIL 11/19/2004 MIL @ POR L 36 13 6 13 46.2 0 0 - 1 1 100.0 6 5 11 1 1 0 1 6 -9
+p754
+aVErick Strickland MIL 11/19/2004 MIL @ POR L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 1 3
+p755
+aVDesmond Mason MIL 11/19/2004 MIL @ POR L 33 22 9 22 40.9 0 1 0.0 4 5 80.0 5 3 8 1 3 0 1 1 -19
+p756
+aVMichael Redd MIL 11/19/2004 MIL @ POR L 36 29 12 20 60.0 2 6 33.3 3 4 75.0 0 2 2 4 0 0 4 5 -4
+p757
+aVMike James MIL 11/19/2004 MIL @ POR L 24 6 2 5 40.0 0 1 0.0 2 4 50.0 0 3 3 3 0 0 4 5 -9
+p758
+aVMichael Redd MIL 11/17/2004 MIL vs. MIA L 35 33 12 19 63.2 2 3 66.7 7 7 100.0 0 1 1 2 2 0 0 3 -4
+p759
+aVJoe Smith MIL 11/17/2004 MIL vs. MIA L 26 4 2 5 40.0 0 0 - 0 0 - 3 3 6 1 0 0 0 5 0
+p760
+aVDesmond Mason MIL 11/17/2004 MIL vs. MIA L 32 18 5 14 35.7 0 0 - 8 10 80.0 0 3 3 2 1 0 1 4 -1
+p761
+aVErick Strickland MIL 11/17/2004 MIL vs. MIA L 14 1 0 3 0.0 0 1 0.0 1 2 50.0 1 1 2 2 1 0 0 3 -3
+p762
+aVDan Gadzuric MIL 11/17/2004 MIL vs. MIA L 23 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 1 0 3 2 5 -16
+p763
+aVDaniel Santiago MIL 11/17/2004 MIL vs. MIA L 15 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 5 3
+p764
+aVMike James MIL 11/17/2004 MIL vs. MIA L 23 11 3 7 42.9 0 1 0.0 5 7 71.4 0 2 2 4 1 0 2 3 -12
+p765
+aVMo Williams MIL 11/17/2004 MIL vs. MIA L 25 11 4 9 44.4 1 1 100.0 2 2 100.0 0 0 0 6 1 0 3 6 5
+p766
+aVKeith Van Horn MIL 11/17/2004 MIL vs. MIA L 47 23 10 14 71.4 3 3 100.0 0 0 - 1 5 6 5 1 0 1 3 -7
+p767
+aVMichael Redd MIL 11/14/2004 MIL @ MIA L 50 21 9 22 40.9 2 6 33.3 1 2 50.0 1 7 8 7 1 0 2 2 -9
+p768
+aVDesmond Mason MIL 11/14/2004 MIL @ MIA L 43 17 5 11 45.5 0 0 - 7 9 77.8 1 2 3 3 1 0 2 2 1
+p769
+aVErick Strickland MIL 11/14/2004 MIL @ MIA L 14 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 5 3
+p770
+aVJoe Smith MIL 11/14/2004 MIL @ MIA L 42 16 6 13 46.2 0 0 - 4 4 100.0 3 8 11 0 1 1 2 4 6
+p771
+aVDaniel Santiago MIL 11/14/2004 MIL @ MIA L 16 4 2 4 50.0 0 0 - 0 1 0.0 1 3 4 0 1 0 0 4 -11
+p772
+aVKeith Van Horn MIL 11/14/2004 MIL @ MIA L 54 26 10 23 43.5 3 8 37.5 3 4 75.0 6 9 15 1 2 2 4 3 -3
+p773
+aVMo Williams MIL 11/14/2004 MIL @ MIA L 47 18 6 16 37.5 0 0 - 6 6 100.0 0 4 4 10 2 0 2 3 1
+p774
+aVDan Gadzuric MIL 11/14/2004 MIL @ MIA L 24 8 3 7 42.9 0 0 - 2 3 66.7 4 4 8 0 0 2 1 6 2
+p775
+aVToni Kukoc MIL 11/13/2004 MIL vs. NOH W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -2
+p776
+aVMichael Redd MIL 11/13/2004 MIL vs. NOH W 43 30 11 22 50.0 6 8 75.0 2 3 66.7 1 2 3 1 0 0 1 1 5
+p777
+aVMo Williams MIL 11/13/2004 MIL vs. NOH W 24 6 3 10 30.0 0 0 - 0 0 - 2 2 4 4 0 0 3 3 10
+p778
+aVDan Gadzuric MIL 11/13/2004 MIL vs. NOH W 11 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 3 -1
+p779
+aVDesmond Mason MIL 11/13/2004 MIL vs. NOH W 32 17 5 11 45.5 0 1 0.0 7 8 87.5 0 1 1 3 0 0 0 2 7
+p780
+aVJoe Smith MIL 11/13/2004 MIL vs. NOH W 35 15 7 12 58.3 0 0 - 1 2 50.0 4 7 11 0 2 0 0 2 6
+p781
+aVErick Strickland MIL 11/13/2004 MIL vs. NOH W 26 4 2 11 18.2 0 4 0.0 0 0 - 0 4 4 7 1 0 0 0 -9
+p782
+aVKeith Van Horn MIL 11/13/2004 MIL vs. NOH W 38 17 5 11 45.5 1 2 50.0 6 6 100.0 2 5 7 4 0 0 2 2 4
+p783
+aVDaniel Santiago MIL 11/13/2004 MIL vs. NOH W 19 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 1 2 0 1 -5
+p784
+aVToni Kukoc MIL 11/10/2004 MIL vs. CHA W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 3 0 0 0 2 1
+p785
+aVDan Gadzuric MIL 11/10/2004 MIL vs. CHA W 17 1 0 3 0.0 0 0 - 1 6 16.7 4 1 5 0 0 2 0 3 5
+p786
+aVDaniel Santiago MIL 11/10/2004 MIL vs. CHA W 13 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 1 -7
+p787
+aVKeith Van Horn MIL 11/10/2004 MIL vs. CHA W 39 23 8 18 44.4 3 9 33.3 4 4 100.0 1 3 4 1 0 0 2 3 -1
+p788
+aVErick Strickland MIL 11/10/2004 MIL vs. CHA W 18 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 2 1 0 1 1 -4
+p789
+aVMo Williams MIL 11/10/2004 MIL vs. CHA W 32 8 3 11 27.3 0 0 - 2 2 100.0 1 6 7 10 0 2 4 4 7
+p790
+aVDesmond Mason MIL 11/10/2004 MIL vs. CHA W 35 31 8 12 66.7 0 0 - 15 16 93.8 1 3 4 2 1 1 0 1 4
+p791
+aVMichael Redd MIL 11/10/2004 MIL vs. CHA W 42 26 7 16 43.8 1 4 25.0 11 12 91.7 0 8 8 1 2 0 2 3 4
+p792
+aVJoe Smith MIL 11/10/2004 MIL vs. CHA W 32 7 3 5 60.0 0 0 - 1 1 100.0 3 7 10 0 1 0 3 4 1
+p793
+aVErick Strickland MIL 11/06/2004 MIL vs. CLE W 20 6 2 7 28.6 0 1 0.0 2 2 100.0 0 3 3 1 0 0 2 5 9
+p794
+aVDesmond Mason MIL 11/06/2004 MIL vs. CLE W 19 11 3 6 50.0 0 0 - 5 5 100.0 0 1 1 2 1 0 3 5 0
+p795
+aVMo Williams MIL 11/06/2004 MIL vs. CLE W 37 10 5 14 35.7 0 0 - 0 2 0.0 3 4 7 11 2 0 4 4 9
+p796
+aVZaza Pachulia MIL 11/06/2004 MIL vs. CLE W 21 6 1 5 20.0 0 0 - 4 5 80.0 3 3 6 0 0 1 4 2 -1
+p797
+aVKeith Van Horn MIL 11/06/2004 MIL vs. CLE W 40 22 9 20 45.0 2 5 40.0 2 2 100.0 6 8 14 2 0 2 1 4 10
+p798
+aVDan Gadzuric MIL 11/06/2004 MIL vs. CLE W 20 7 3 3 100.0 0 0 - 1 1 100.0 2 5 7 0 0 2 2 4 14
+p799
+aVAnthony Goldwire MIL 11/06/2004 MIL vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p800
+aVJoe Smith MIL 11/06/2004 MIL vs. CLE W 28 10 3 8 37.5 0 0 - 4 4 100.0 2 2 4 1 0 1 2 3 11
+p801
+aVMichael Redd MIL 11/06/2004 MIL vs. CLE W 45 28 10 18 55.6 0 1 0.0 8 9 88.9 1 7 8 3 1 0 2 4 18
+p802
+aVToni Kukoc MIL 11/06/2004 MIL vs. CLE W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p803
+aVZaza Pachulia MIL 11/03/2004 MIL @ ORL L 25 11 4 10 40.0 0 0 - 3 5 60.0 2 4 6 2 0 1 0 4 10
+p804
+aVToni Kukoc MIL 11/03/2004 MIL @ ORL L 21 5 2 6 33.3 1 3 33.3 0 0 - 0 4 4 1 0 1 1 1 5
+p805
+aVMichael Redd MIL 11/03/2004 MIL @ ORL L 43 19 9 21 42.9 1 2 50.0 0 0 - 1 2 3 3 0 1 1 0 -9
+p806
+aVDan Gadzuric MIL 11/03/2004 MIL @ ORL L 23 11 4 8 50.0 0 0 - 3 5 60.0 2 4 6 0 0 2 1 3 -9
+p807
+aVKeith Van Horn MIL 11/03/2004 MIL @ ORL L 33 14 6 16 37.5 0 1 0.0 2 4 50.0 4 6 10 1 1 0 5 4 -7
+p808
+aVErick Strickland MIL 11/03/2004 MIL @ ORL L 15 7 3 7 42.9 0 1 0.0 1 1 100.0 0 4 4 2 2 0 4 5 3
+p809
+aVJoe Smith MIL 11/03/2004 MIL @ ORL L 21 7 2 8 25.0 0 0 - 3 4 75.0 5 3 8 0 1 0 1 2 -8
+p810
+aVDesmond Mason MIL 11/03/2004 MIL @ ORL L 21 8 4 10 40.0 0 0 - 0 1 0.0 1 7 8 0 1 0 1 1 8
+p811
+aVMo Williams MIL 11/03/2004 MIL @ ORL L 39 10 5 11 45.5 0 0 - 0 0 - 2 3 5 9 1 0 3 4 2
+p812
+a.

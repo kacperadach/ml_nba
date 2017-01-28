@@ -1,0 +1,232 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVictor Claver POR 05/14/2014 POR @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p2
+aVWesley Matthews POR 05/14/2014 POR @ SAS L 37 14 5 10 50.0 2 4 50.0 2 2 100.0 0 4 4 1 0 0 1 4 -17
+p3
+aVNicolas Batum POR 05/14/2014 POR @ SAS L 41 10 3 9 33.3 1 6 16.7 3 5 60.0 0 12 12 5 1 0 6 1 -15
+p4
+aVWill Barton POR 05/14/2014 POR @ SAS L 19 6 2 9 22.2 1 4 25.0 1 2 50.0 0 2 2 1 1 1 2 1 -10
+p5
+aVThomas Robinson POR 05/14/2014 POR @ SAS L 8 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -4
+p6
+aVDamian Lillard POR 05/14/2014 POR @ SAS L 38 17 7 18 38.9 1 4 25.0 2 2 100.0 1 1 2 10 1 0 4 1 -16
+p7
+aVRobin Lopez POR 05/14/2014 POR @ SAS L 39 12 5 7 71.4 0 0 - 2 2 100.0 4 5 9 0 0 0 2 3 -18
+p8
+aVJoel Freeland POR 05/14/2014 POR @ SAS L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p9
+aVMeyers Leonard POR 05/14/2014 POR @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p10
+aVLaMarcus Aldridge POR 05/14/2014 POR @ SAS L 40 21 10 21 47.6 0 0 - 1 4 25.0 0 10 10 0 0 1 2 5 -12
+p11
+aVCJ McCollum POR 05/14/2014 POR @ SAS L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p12
+aVThomas Robinson POR 05/12/2014 POR vs. SAS W 24 9 4 7 57.1 0 0 - 1 1 100.0 1 3 4 0 1 1 0 5 4
+p13
+aVNicolas Batum POR 05/12/2014 POR vs. SAS W 36 14 5 11 45.5 2 4 50.0 2 2 100.0 2 12 14 8 1 1 5 2 13
+p14
+aVEarl Watson POR 05/12/2014 POR vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p15
+aVWill Barton POR 05/12/2014 POR vs. SAS W 30 17 7 13 53.8 1 2 50.0 2 2 100.0 2 4 6 2 0 0 1 1 0
+p16
+aVLaMarcus Aldridge POR 05/12/2014 POR vs. SAS W 32 19 8 16 50.0 0 0 - 3 4 75.0 1 3 4 0 0 0 2 2 15
+p17
+aVDamian Lillard POR 05/12/2014 POR vs. SAS W 38 25 11 21 52.4 2 6 33.3 1 1 100.0 0 4 4 5 0 0 3 4 17
+p18
+aVWesley Matthews POR 05/12/2014 POR vs. SAS W 38 10 4 14 28.6 2 7 28.6 0 0 - 2 6 8 1 1 2 1 3 10
+p19
+aVCJ McCollum POR 05/12/2014 POR vs. SAS W 7 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p20
+aVRobin Lopez POR 05/12/2014 POR vs. SAS W 34 9 4 12 33.3 0 0 - 1 3 33.3 6 7 13 1 1 0 1 2 7
+p21
+aVRobin Lopez POR 05/10/2014 POR vs. SAS L 37 13 4 5 80.0 0 0 - 5 7 71.4 2 5 7 3 0 0 3 5 -10
+p22
+aVThomas Robinson POR 05/10/2014 POR vs. SAS L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -6
+p23
+aVLaMarcus Aldridge POR 05/10/2014 POR vs. SAS L 39 21 9 23 39.1 0 0 - 3 4 75.0 3 9 12 1 0 0 2 4 -7
+p24
+aVCJ McCollum POR 05/10/2014 POR vs. SAS L 2 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p25
+aVEarl Watson POR 05/10/2014 POR vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p26
+aVDamian Lillard POR 05/10/2014 POR vs. SAS L 43 21 7 21 33.3 0 6 0.0 7 7 100.0 1 2 3 9 1 0 2 1 -8
+p27
+aVJoel Freeland POR 05/10/2014 POR vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p28
+aVMeyers Leonard POR 05/10/2014 POR vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p29
+aVVictor Claver POR 05/10/2014 POR vs. SAS L 4 0 0 0 - 0 0 - 0 4 0.0 0 4 4 0 0 0 1 0 -2
+p30
+aVNicolas Batum POR 05/10/2014 POR vs. SAS L 44 20 8 13 61.5 4 7 57.1 0 0 - 0 9 9 7 2 0 3 2 -12
+p31
+aVWill Barton POR 05/10/2014 POR vs. SAS L 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -12
+p32
+aVDorell Wright POR 05/10/2014 POR vs. SAS L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p33
+aVWesley Matthews POR 05/10/2014 POR vs. SAS L 40 22 6 14 42.9 4 10 40.0 6 7 85.7 0 4 4 1 2 0 1 4 -10
+p34
+aVDamian Lillard POR 05/08/2014 POR @ SAS L 41 19 8 20 40.0 1 6 16.7 2 2 100.0 0 5 5 5 1 0 1 1 -12
+p35
+aVThomas Robinson POR 05/08/2014 POR @ SAS L 14 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 10
+p36
+aVWill Barton POR 05/08/2014 POR @ SAS L 12 13 5 5 100.0 1 1 100.0 2 2 100.0 1 0 1 0 0 0 0 3 -2
+p37
+aVMeyers Leonard POR 05/08/2014 POR @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p38
+aVEarl Watson POR 05/08/2014 POR @ SAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 0
+p39
+aVMo Williams POR 05/08/2014 POR @ SAS L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -16
+p40
+aVCJ McCollum POR 05/08/2014 POR @ SAS L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p41
+aVRobin Lopez POR 05/08/2014 POR @ SAS L 31 8 3 10 30.0 0 0 - 2 2 100.0 7 2 9 0 0 2 0 4 -23
+p42
+aVJoel Freeland POR 05/08/2014 POR @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p43
+aVNicolas Batum POR 05/08/2014 POR @ SAS L 44 21 9 13 69.2 3 5 60.0 0 0 - 1 8 9 2 1 0 5 2 -11
+p44
+aVLaMarcus Aldridge POR 05/08/2014 POR @ SAS L 41 16 6 23 26.1 0 0 - 4 4 100.0 3 7 10 3 1 1 4 2 -11
+p45
+aVWesley Matthews POR 05/08/2014 POR @ SAS L 38 14 6 12 50.0 2 4 50.0 0 0 - 1 6 7 4 0 0 2 3 -20
+p46
+aVWill Barton POR 05/06/2014 POR @ SAS L 8 9 3 4 75.0 3 3 100.0 0 0 - 1 1 2 0 0 0 1 1 -1
+p47
+aVDorell Wright POR 05/06/2014 POR @ SAS L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -3
+p48
+aVCJ McCollum POR 05/06/2014 POR @ SAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p49
+aVMeyers Leonard POR 05/06/2014 POR @ SAS L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p50
+aVNicolas Batum POR 05/06/2014 POR @ SAS L 36 7 3 12 25.0 1 5 20.0 0 0 - 0 5 5 0 1 0 3 2 -21
+p51
+aVJoel Freeland POR 05/06/2014 POR @ SAS L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 1
+p52
+aVThomas Robinson POR 05/06/2014 POR @ SAS L 9 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 0 3 -4
+p53
+aVRobin Lopez POR 05/06/2014 POR @ SAS L 28 10 2 5 40.0 0 0 - 6 7 85.7 4 7 11 0 1 2 0 1 -19
+p54
+aVLaMarcus Aldridge POR 05/06/2014 POR @ SAS L 41 32 12 25 48.0 0 0 - 8 9 88.9 3 11 14 0 2 0 2 5 -23
+p55
+aVDamian Lillard POR 05/06/2014 POR @ SAS L 37 17 6 15 40.0 0 1 0.0 5 6 83.3 2 2 4 3 0 0 6 2 -16
+p56
+aVMo Williams POR 05/06/2014 POR @ SAS L 28 6 3 11 27.3 0 3 0.0 0 0 - 1 0 1 4 0 0 4 4 -16
+p57
+aVEarl Watson POR 05/06/2014 POR @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p58
+aVWesley Matthews POR 05/06/2014 POR @ SAS L 34 8 2 6 33.3 0 3 0.0 4 5 80.0 1 3 4 1 1 0 3 6 -19
+p59
+aVNicolas Batum POR 05/02/2014 POR vs. HOU W 40 9 4 10 40.0 1 6 16.7 0 0 - 1 1 2 7 3 1 2 4 3
+p60
+aVLaMarcus Aldridge POR 05/02/2014 POR vs. HOU W 40 30 10 26 38.5 0 0 - 10 10 100.0 4 9 13 2 0 0 1 4 -3
+p61
+aVRobin Lopez POR 05/02/2014 POR vs. HOU W 39 12 5 10 50.0 0 0 - 2 2 100.0 4 3 7 0 1 4 0 3 -9
+p62
+aVDamian Lillard POR 05/02/2014 POR vs. HOU W 43 25 8 14 57.1 6 10 60.0 3 3 100.0 1 5 6 3 3 1 4 2 2
+p63
+aVMo Williams POR 05/02/2014 POR vs. HOU W 21 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 1 0 0 1 3 7
+p64
+aVThomas Robinson POR 05/02/2014 POR vs. HOU W 16 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 1 1 0 0 0 5
+p65
+aVDorell Wright POR 05/02/2014 POR vs. HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p66
+aVWesley Matthews POR 05/02/2014 POR vs. HOU W 40 12 4 13 30.8 2 8 25.0 2 4 50.0 1 2 3 0 1 0 3 4 3
+p67
+aVWesley Matthews POR 04/30/2014 POR @ HOU L 39 27 9 18 50.0 5 9 55.6 4 4 100.0 0 2 2 0 1 3 1 4 -5
+p68
+aVCJ McCollum POR 04/30/2014 POR @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p69
+aVNicolas Batum POR 04/30/2014 POR @ HOU L 39 15 6 10 60.0 1 4 25.0 2 2 100.0 0 5 5 4 0 2 0 2 0
+p70
+aVJoel Freeland POR 04/30/2014 POR @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p71
+aVDorell Wright POR 04/30/2014 POR @ HOU L 11 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 1 3 -19
+p72
+aVThomas Robinson POR 04/30/2014 POR @ HOU L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -10
+p73
+aVRobin Lopez POR 04/30/2014 POR @ HOU L 38 17 7 14 50.0 0 0 - 3 6 50.0 4 4 8 0 0 4 1 3 1
+p74
+aVDamian Lillard POR 04/30/2014 POR @ HOU L 43 26 9 18 50.0 3 8 37.5 5 5 100.0 2 6 8 7 4 0 2 2 -1
+p75
+aVLaMarcus Aldridge POR 04/30/2014 POR @ HOU L 39 8 3 12 25.0 0 0 - 2 4 50.0 2 6 8 2 2 4 1 3 1
+p76
+aVMo Williams POR 04/30/2014 POR @ HOU L 20 4 2 7 28.6 0 2 0.0 0 0 - 1 1 2 1 0 0 3 3 -17
+p77
+aVWill Barton POR 04/30/2014 POR @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p78
+aVThomas Robinson POR 04/27/2014 POR vs. HOU W 6 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 1 1 2 2 3
+p79
+aVLaMarcus Aldridge POR 04/27/2014 POR vs. HOU W 44 29 12 23 52.2 0 0 - 5 8 62.5 3 7 10 2 2 4 1 3 14
+p80
+aVWesley Matthews POR 04/27/2014 POR vs. HOU W 42 21 8 15 53.3 2 6 33.3 3 4 75.0 0 4 4 3 4 0 2 3 11
+p81
+aVRobin Lopez POR 04/27/2014 POR vs. HOU W 32 6 3 3 100.0 0 0 - 0 0 - 3 8 11 2 1 1 2 6 4
+p82
+aVNicolas Batum POR 04/27/2014 POR vs. HOU W 45 25 11 23 47.8 2 7 28.6 1 2 50.0 1 5 6 6 0 0 0 0 1
+p83
+aVJoel Freeland POR 04/27/2014 POR vs. HOU W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 2 3 -4
+p84
+aVDamian Lillard POR 04/27/2014 POR vs. HOU W 47 23 6 13 46.2 5 7 71.4 6 7 85.7 1 0 1 8 0 0 2 4 1
+p85
+aVMo Williams POR 04/27/2014 POR vs. HOU W 24 9 3 11 27.3 1 6 16.7 2 2 100.0 0 3 3 3 1 0 0 2 -1
+p86
+aVDorell Wright POR 04/27/2014 POR vs. HOU W 18 8 1 2 50.0 1 2 50.0 5 7 71.4 0 4 4 0 0 2 0 1 -14
+p87
+aVWesley Matthews POR 04/25/2014 POR vs. HOU L 37 5 2 7 28.6 1 5 20.0 0 0 - 1 1 2 1 0 0 2 6 -15
+p88
+aVMo Williams POR 04/25/2014 POR vs. HOU L 36 17 6 10 60.0 1 2 50.0 4 5 80.0 0 4 4 4 0 0 2 3 4
+p89
+aVDamian Lillard POR 04/25/2014 POR vs. HOU L 47 30 9 16 56.3 4 8 50.0 8 9 88.9 0 6 6 6 1 0 2 4 1
+p90
+aVRobin Lopez POR 04/25/2014 POR vs. HOU L 26 11 5 10 50.0 0 0 - 1 3 33.3 6 2 8 0 1 3 0 2 -8
+p91
+aVThomas Robinson POR 04/25/2014 POR vs. HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p92
+aVLaMarcus Aldridge POR 04/25/2014 POR vs. HOU L 43 23 8 22 36.4 0 1 0.0 7 7 100.0 1 9 10 3 0 3 0 4 -10
+p93
+aVNicolas Batum POR 04/25/2014 POR vs. HOU L 49 26 9 20 45.0 4 9 44.4 4 4 100.0 3 6 9 5 3 0 2 2 4
+p94
+aVDorell Wright POR 04/25/2014 POR vs. HOU L 18 2 1 4 25.0 0 2 0.0 0 0 - 1 5 6 1 0 3 2 2 4
+p95
+aVJoel Freeland POR 04/25/2014 POR vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 0 0 3
+p96
+aVRobin Lopez POR 04/23/2014 POR @ HOU W 31 6 3 5 60.0 0 0 - 0 0 - 4 6 10 2 0 3 1 5 18
+p97
+aVJoel Freeland POR 04/23/2014 POR @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -2
+p98
+aVWesley Matthews POR 04/23/2014 POR @ HOU W 40 9 4 11 36.4 1 5 20.0 0 0 - 0 4 4 1 1 0 2 3 4
+p99
+aVDamian Lillard POR 04/23/2014 POR @ HOU W 42 18 3 14 21.4 2 7 28.6 10 12 83.3 2 6 8 11 0 0 3 5 12
+p100
+aVNicolas Batum POR 04/23/2014 POR @ HOU W 40 6 3 11 27.3 0 3 0.0 0 0 - 1 3 4 6 1 0 1 0 6
+p101
+aVDorell Wright POR 04/23/2014 POR @ HOU W 18 15 4 5 80.0 3 4 75.0 4 4 100.0 1 3 4 2 2 3 1 1 10
+p102
+aVLaMarcus Aldridge POR 04/23/2014 POR @ HOU W 36 43 18 28 64.3 0 0 - 7 8 87.5 3 5 8 1 0 3 1 2 3
+p103
+aVMo Williams POR 04/23/2014 POR @ HOU W 23 13 4 8 50.0 2 4 50.0 3 3 100.0 0 1 1 0 0 0 2 4 0
+p104
+aVThomas Robinson POR 04/23/2014 POR @ HOU W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 2 2 4 -16
+p105
+aVJoel Freeland POR 04/20/2014 POR @ HOU W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p106
+aVWill Barton POR 04/20/2014 POR @ HOU W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p107
+aVDorell Wright POR 04/20/2014 POR @ HOU W 13 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 1 0 1 -10
+p108
+aVLaMarcus Aldridge POR 04/20/2014 POR @ HOU W 45 46 17 31 54.8 2 2 100.0 10 13 76.9 7 11 18 2 0 2 3 6 17
+p109
+aVDamian Lillard POR 04/20/2014 POR @ HOU W 46 31 9 19 47.4 3 7 42.9 10 12 83.3 2 7 9 5 0 0 1 3 7
+p110
+aVWesley Matthews POR 04/20/2014 POR @ HOU W 42 18 6 16 37.5 1 7 14.3 5 6 83.3 1 0 1 1 3 0 4 5 9
+p111
+aVNicolas Batum POR 04/20/2014 POR @ HOU W 45 14 6 10 60.0 2 4 50.0 0 0 - 1 8 9 3 2 1 1 4 4
+p112
+aVThomas Robinson POR 04/20/2014 POR @ HOU W 14 3 1 4 25.0 0 0 - 1 2 50.0 3 3 6 0 0 1 0 3 11
+p113
+aVRobin Lopez POR 04/20/2014 POR @ HOU W 32 6 2 7 28.6 0 0 - 2 4 50.0 3 5 8 1 0 1 1 6 -15
+p114
+aVMo Williams POR 04/20/2014 POR @ HOU W 27 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 2 2 0 2 4 -7
+p115
+a.

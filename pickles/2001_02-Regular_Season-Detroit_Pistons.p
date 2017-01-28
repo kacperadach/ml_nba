@@ -1,0 +1,1598 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVictor Alexander DET 04/17/2002 DET vs. MIL W 11 4 2 5 40.0 0 0 - 0 0 - 0 4 4 0 0 0 2 0 1
+p2
+aVJerry Stackhouse DET 04/17/2002 DET vs. MIL W 28 23 7 14 50.0 1 3 33.3 8 11 72.7 2 4 6 6 1 0 3 1 25
+p3
+aVClifford Robinson DET 04/17/2002 DET vs. MIL W 29 24 8 13 61.5 3 4 75.0 5 6 83.3 1 3 4 3 1 0 2 3 24
+p4
+aVCorliss Williamson DET 04/17/2002 DET vs. MIL W 20 9 3 8 37.5 0 0 - 3 4 75.0 0 3 3 0 0 0 1 5 20
+p5
+aVJon Barry DET 04/17/2002 DET vs. MIL W 18 11 4 4 100.0 3 3 100.0 0 0 - 1 0 1 4 1 0 2 2 8
+p6
+aVDana Barros DET 04/17/2002 DET vs. MIL W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 3
+p7
+aVBen Wallace DET 04/17/2002 DET vs. MIL W 33 10 5 6 83.3 0 0 - 0 1 0.0 7 13 20 2 1 2 1 2 35
+p8
+aVZeljko Rebraca DET 04/17/2002 DET vs. MIL W 23 4 2 5 40.0 0 0 - 0 0 - 1 6 7 2 0 2 3 4 8
+p9
+aVMichael Curry DET 04/17/2002 DET vs. MIL W 18 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 0 2 7
+p10
+aVDamon Jones DET 04/17/2002 DET vs. MIL W 14 9 3 5 60.0 3 5 60.0 0 0 - 0 0 0 1 0 0 0 3 -2
+p11
+aVChucky Atkins DET 04/17/2002 DET vs. MIL W 34 15 6 12 50.0 3 7 42.9 0 0 - 0 1 1 9 1 0 3 1 36
+p12
+aVRodney White DET 04/17/2002 DET vs. MIL W 7 7 1 4 25.0 1 1 100.0 4 4 100.0 0 1 1 2 1 0 0 0 5
+p13
+aVJerry Stackhouse DET 04/16/2002 DET @ NJN W 28 11 1 9 11.1 0 2 0.0 9 10 90.0 0 6 6 4 0 1 4 1 -3
+p14
+aVZeljko Rebraca DET 04/16/2002 DET @ NJN W 15 4 2 5 40.0 0 0 - 0 1 0.0 1 2 3 0 0 3 0 2 -3
+p15
+aVCorliss Williamson DET 04/16/2002 DET @ NJN W 23 14 7 19 36.8 0 1 0.0 0 0 - 2 1 3 2 1 0 1 2 8
+p16
+aVClifford Robinson DET 04/16/2002 DET @ NJN W 38 15 6 13 46.2 1 3 33.3 2 4 50.0 2 4 6 5 3 0 2 2 8
+p17
+aVMichael Curry DET 04/16/2002 DET @ NJN W 19 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 3 -6
+p18
+aVChucky Atkins DET 04/16/2002 DET @ NJN W 31 21 7 15 46.7 5 9 55.6 2 2 100.0 0 0 0 4 1 0 2 2 5
+p19
+aVDamon Jones DET 04/16/2002 DET @ NJN W 17 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 0 1 1 0
+p20
+aVBen Wallace DET 04/16/2002 DET @ NJN W 43 14 5 8 62.5 0 0 - 4 4 100.0 4 12 16 2 3 6 1 2 6
+p21
+aVJon Barry DET 04/16/2002 DET @ NJN W 26 17 7 9 77.8 3 3 100.0 0 0 - 0 3 3 5 0 0 0 2 10
+p22
+aVBen Wallace DET 04/13/2002 DET @ CHI W 42 14 7 12 58.3 0 0 - 0 0 - 5 9 14 5 2 2 0 1 17
+p23
+aVDamon Jones DET 04/13/2002 DET @ CHI W 11 4 0 3 0.0 0 1 0.0 4 4 100.0 0 0 0 3 1 0 1 1 4
+p24
+aVRodney White DET 04/13/2002 DET @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p25
+aVJon Barry DET 04/13/2002 DET @ CHI W 22 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 4 1 0 0 3 5
+p26
+aVChucky Atkins DET 04/13/2002 DET @ CHI W 37 26 11 21 52.4 1 5 20.0 3 3 100.0 0 1 1 6 1 0 0 3 14
+p27
+aVClifford Robinson DET 04/13/2002 DET @ CHI W 29 21 8 10 80.0 4 4 100.0 1 2 50.0 0 5 5 2 0 0 1 4 13
+p28
+aVDana Barros DET 04/13/2002 DET @ CHI W 1 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p29
+aVMichael Curry DET 04/13/2002 DET @ CHI W 19 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 2 0 0 1 7
+p30
+aVZeljko Rebraca DET 04/13/2002 DET @ CHI W 21 16 6 10 60.0 0 0 - 4 4 100.0 2 5 7 0 1 0 1 4 16
+p31
+aVCorliss Williamson DET 04/13/2002 DET @ CHI W 19 17 8 9 88.9 0 0 - 1 1 100.0 0 3 3 1 0 0 0 4 15
+p32
+aVVictor Alexander DET 04/13/2002 DET @ CHI W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p33
+aVJerry Stackhouse DET 04/13/2002 DET @ CHI W 34 19 4 14 28.6 0 3 0.0 11 12 91.7 2 0 2 6 1 0 2 3 9
+p34
+aVBen Wallace DET 04/12/2002 DET vs. SAS L 42 7 3 8 37.5 0 1 0.0 1 2 50.0 1 7 8 4 1 2 1 2 -7
+p35
+aVJon Barry DET 04/12/2002 DET vs. SAS L 31 15 6 10 60.0 3 7 42.9 0 0 - 1 0 1 6 2 1 3 2 1
+p36
+aVJerry Stackhouse DET 04/12/2002 DET vs. SAS L 39 17 6 16 37.5 1 3 33.3 4 4 100.0 0 4 4 6 2 0 6 2 -8
+p37
+aVDamon Jones DET 04/12/2002 DET vs. SAS L 13 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 2 0 0 1 0 -2
+p38
+aVZeljko Rebraca DET 04/12/2002 DET vs. SAS L 33 13 6 10 60.0 0 0 - 1 2 50.0 1 5 6 0 1 0 3 3 -15
+p39
+aVChucky Atkins DET 04/12/2002 DET vs. SAS L 35 18 7 12 58.3 3 5 60.0 1 2 50.0 0 1 1 3 2 1 1 3 -8
+p40
+aVMichael Curry DET 04/12/2002 DET vs. SAS L 19 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 1 0 0 0 1 -12
+p41
+aVCorliss Williamson DET 04/12/2002 DET vs. SAS L 28 14 5 11 45.5 0 1 0.0 4 4 100.0 2 8 10 2 0 0 2 1 1
+p42
+aVDamon Jones DET 04/10/2002 DET vs. CHI L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 0 -12
+p43
+aVJon Barry DET 04/10/2002 DET vs. CHI L 25 4 2 3 66.7 0 1 0.0 0 0 - 1 2 3 3 1 0 1 2 -8
+p44
+aVVictor Alexander DET 04/10/2002 DET vs. CHI L 5 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -5
+p45
+aVJerry Stackhouse DET 04/10/2002 DET vs. CHI L 40 14 4 14 28.6 1 1 100.0 5 5 100.0 2 7 9 8 2 2 5 3 3
+p46
+aVZeljko Rebraca DET 04/10/2002 DET vs. CHI L 34 24 9 13 69.2 0 0 - 6 6 100.0 1 2 3 1 0 4 0 2 2
+p47
+aVChucky Atkins DET 04/10/2002 DET vs. CHI L 39 18 7 14 50.0 1 5 20.0 3 3 100.0 0 3 3 4 1 0 2 2 11
+p48
+aVCorliss Williamson DET 04/10/2002 DET vs. CHI L 20 4 1 7 14.3 0 0 - 2 2 100.0 1 4 5 1 0 0 1 5 -4
+p49
+aVMichael Curry DET 04/10/2002 DET vs. CHI L 29 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 2 0 0 1 4 4
+p50
+aVClifford Robinson DET 04/10/2002 DET vs. CHI L 39 27 10 16 62.5 6 9 66.7 1 3 33.3 0 6 6 4 2 3 3 3 4
+p51
+aVChucky Atkins DET 04/08/2002 DET vs. ATL W 34 20 9 15 60.0 2 4 50.0 0 2 0.0 1 3 4 4 0 0 4 4 5
+p52
+aVJerry Stackhouse DET 04/08/2002 DET vs. ATL W 42 18 7 13 53.8 0 1 0.0 4 8 50.0 1 2 3 12 0 0 3 2 7
+p53
+aVClifford Robinson DET 04/08/2002 DET vs. ATL W 41 19 7 15 46.7 3 7 42.9 2 2 100.0 1 7 8 4 3 4 0 5 5
+p54
+aVMichael Curry DET 04/08/2002 DET vs. ATL W 30 4 1 6 16.7 0 1 0.0 2 2 100.0 1 2 3 0 1 0 2 3 -13
+p55
+aVZeljko Rebraca DET 04/08/2002 DET vs. ATL W 35 18 7 9 77.8 0 0 - 4 4 100.0 1 12 13 3 0 7 0 1 6
+p56
+aVJon Barry DET 04/08/2002 DET vs. ATL W 23 10 3 7 42.9 2 2 100.0 2 2 100.0 0 3 3 2 2 1 2 1 12
+p57
+aVDamon Jones DET 04/08/2002 DET vs. ATL W 14 0 0 0 - 0 0 - 0 2 0.0 0 1 1 1 1 0 1 0 1
+p58
+aVCorliss Williamson DET 04/08/2002 DET vs. ATL W 22 16 7 14 50.0 0 0 - 2 2 100.0 2 2 4 2 2 2 1 5 7
+p59
+aVJerry Stackhouse DET 04/05/2002 DET @ PHI W 39 34 8 19 42.1 3 5 60.0 15 16 93.8 1 3 4 7 1 0 1 1 13
+p60
+aVChucky Atkins DET 04/05/2002 DET @ PHI W 36 15 6 10 60.0 3 6 50.0 0 0 - 1 3 4 6 2 0 2 3 17
+p61
+aVZeljko Rebraca DET 04/05/2002 DET @ PHI W 24 7 3 9 33.3 0 0 - 1 2 50.0 1 3 4 1 1 0 0 4 -1
+p62
+aVClifford Robinson DET 04/05/2002 DET @ PHI W 26 3 1 7 14.3 1 3 33.3 0 2 0.0 1 5 6 0 0 1 2 1 -4
+p63
+aVCorliss Williamson DET 04/05/2002 DET @ PHI W 21 10 2 6 33.3 0 1 0.0 6 6 100.0 0 2 2 2 0 0 1 4 -5
+p64
+aVMichael Curry DET 04/05/2002 DET @ PHI W 18 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 3
+p65
+aVDamon Jones DET 04/05/2002 DET @ PHI W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -13
+p66
+aVBen Wallace DET 04/05/2002 DET @ PHI W 36 3 1 2 50.0 0 0 - 1 2 50.0 3 7 10 1 0 4 0 3 5
+p67
+aVJon Barry DET 04/05/2002 DET @ PHI W 27 17 7 10 70.0 3 4 75.0 0 0 - 0 1 1 3 1 2 1 2 5
+p68
+aVDamon Jones DET 04/03/2002 DET vs. SAC L 23 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 4 0 0 1 0 10
+p69
+aVBen Wallace DET 04/03/2002 DET vs. SAC L 31 12 5 6 83.3 0 0 - 2 4 50.0 5 6 11 4 5 2 2 2 -32
+p70
+aVClifford Robinson DET 04/03/2002 DET vs. SAC L 25 4 2 9 22.2 0 3 0.0 0 0 - 0 0 0 0 1 2 1 2 -27
+p71
+aVJon Barry DET 04/03/2002 DET vs. SAC L 22 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 2 3 0 1 2 4
+p72
+aVJerry Stackhouse DET 04/03/2002 DET vs. SAC L 28 12 5 11 45.5 0 2 0.0 2 4 50.0 2 2 4 3 1 0 7 2 -28
+p73
+aVVictor Alexander DET 04/03/2002 DET vs. SAC L 7 3 0 2 0.0 0 0 - 3 4 75.0 1 1 2 1 0 0 0 0 1
+p74
+aVChucky Atkins DET 04/03/2002 DET vs. SAC L 25 11 3 7 42.9 1 2 50.0 4 4 100.0 0 2 2 0 0 0 2 4 -31
+p75
+aVMikki Moore DET 04/03/2002 DET vs. SAC L 6 7 2 3 66.7 0 0 - 3 4 75.0 0 0 0 0 1 0 0 0 2
+p76
+aVCorliss Williamson DET 04/03/2002 DET vs. SAC L 19 13 6 12 50.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 3 2
+p77
+aVMichael Curry DET 04/03/2002 DET vs. SAC L 23 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 3 -25
+p78
+aVZeljko Rebraca DET 04/03/2002 DET vs. SAC L 16 2 1 2 50.0 0 0 - 0 0 - 0 6 6 0 0 1 0 2 5
+p79
+aVRodney White DET 04/03/2002 DET vs. SAC L 15 4 1 6 16.7 0 0 - 2 2 100.0 1 1 2 1 2 1 2 0 14
+p80
+aVDamon Jones DET 04/02/2002 DET @ MIA W 18 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 1 0 0
+p81
+aVJon Barry DET 04/02/2002 DET @ MIA W 18 8 3 6 50.0 2 5 40.0 0 0 - 0 3 3 3 0 0 1 3 -4
+p82
+aVMichael Curry DET 04/02/2002 DET @ MIA W 18 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 0 3 7
+p83
+aVBen Wallace DET 04/02/2002 DET @ MIA W 40 4 2 2 100.0 0 0 - 0 0 - 3 13 16 2 2 6 0 2 -1
+p84
+aVCorliss Williamson DET 04/02/2002 DET @ MIA W 27 20 9 14 64.3 0 0 - 2 2 100.0 0 2 2 1 2 0 0 2 -2
+p85
+aVChucky Atkins DET 04/02/2002 DET @ MIA W 30 18 7 14 50.0 1 4 25.0 3 6 50.0 1 0 1 2 0 0 3 4 3
+p86
+aVClifford Robinson DET 04/02/2002 DET @ MIA W 37 13 4 11 36.4 3 5 60.0 2 6 33.3 0 3 3 1 1 0 5 5 5
+p87
+aVJerry Stackhouse DET 04/02/2002 DET @ MIA W 32 14 3 15 20.0 0 2 0.0 8 10 80.0 0 7 7 4 0 0 5 2 5
+p88
+aVZeljko Rebraca DET 04/02/2002 DET @ MIA W 19 10 5 8 62.5 0 0 - 0 0 - 3 5 8 1 1 2 1 5 2
+p89
+aVZeljko Rebraca DET 03/31/2002 DET vs. DEN W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 6
+p90
+aVMichael Curry DET 03/31/2002 DET vs. DEN W 24 4 1 2 50.0 0 1 0.0 2 2 100.0 0 3 3 2 3 0 2 2 8
+p91
+aVClifford Robinson DET 03/31/2002 DET vs. DEN W 26 4 2 9 22.2 0 2 0.0 0 4 0.0 0 0 0 3 0 0 1 3 -4
+p92
+aVChucky Atkins DET 03/31/2002 DET vs. DEN W 30 11 5 10 50.0 1 4 25.0 0 0 - 0 1 1 2 0 0 2 3 -10
+p93
+aVBen Wallace DET 03/31/2002 DET vs. DEN W 44 7 3 5 60.0 0 0 - 1 4 25.0 5 13 18 1 5 5 1 0 6
+p94
+aVDamon Jones DET 03/31/2002 DET vs. DEN W 18 7 3 6 50.0 1 4 25.0 0 0 - 0 0 0 4 1 0 1 1 14
+p95
+aVCorliss Williamson DET 03/31/2002 DET vs. DEN W 28 16 5 11 45.5 0 0 - 6 6 100.0 1 4 5 0 1 1 1 1 10
+p96
+aVJon Barry DET 03/31/2002 DET vs. DEN W 28 15 5 11 45.5 2 5 40.0 3 4 75.0 1 3 4 3 3 0 3 1 5
+p97
+aVJerry Stackhouse DET 03/31/2002 DET vs. DEN W 34 22 6 17 35.3 0 3 0.0 10 11 90.9 0 2 2 4 2 0 1 1 -15
+p98
+aVMichael Curry DET 03/29/2002 DET vs. GSW W 24 6 3 7 42.9 0 1 0.0 0 0 - 1 0 1 3 0 0 2 3 4
+p99
+aVChucky Atkins DET 03/29/2002 DET vs. GSW W 32 18 7 17 41.2 3 7 42.9 1 2 50.0 2 1 3 2 1 0 1 2 7
+p100
+aVJon Barry DET 03/29/2002 DET vs. GSW W 20 11 3 5 60.0 3 5 60.0 2 2 100.0 0 3 3 5 0 0 0 0 1
+p101
+aVDamon Jones DET 03/29/2002 DET vs. GSW W 16 5 1 3 33.3 0 2 0.0 3 3 100.0 0 0 0 1 2 0 2 1 0
+p102
+aVClifford Robinson DET 03/29/2002 DET vs. GSW W 39 14 6 16 37.5 2 3 66.7 0 0 - 1 1 2 2 1 1 2 4 9
+p103
+aVBen Wallace DET 03/29/2002 DET vs. GSW W 39 5 2 5 40.0 0 0 - 1 4 25.0 3 18 21 0 1 3 0 3 7
+p104
+aVJerry Stackhouse DET 03/29/2002 DET vs. GSW W 33 21 6 15 40.0 0 2 0.0 9 11 81.8 2 4 6 4 0 0 1 3 6
+p105
+aVZeljko Rebraca DET 03/29/2002 DET vs. GSW W 14 11 3 6 50.0 0 0 - 5 6 83.3 1 3 4 0 0 0 2 2 0
+p106
+aVCorliss Williamson DET 03/29/2002 DET vs. GSW W 24 19 7 13 53.8 0 0 - 5 6 83.3 3 0 3 1 2 1 0 1 1
+p107
+aVJerry Stackhouse DET 03/27/2002 DET vs. NYK L 32 18 4 15 26.7 1 4 25.0 9 9 100.0 2 1 3 2 0 0 2 1 -8
+p108
+aVZeljko Rebraca DET 03/27/2002 DET vs. NYK L 11 4 0 1 0.0 0 0 - 4 8 50.0 0 1 1 1 0 2 0 1 1
+p109
+aVJon Barry DET 03/27/2002 DET vs. NYK L 23 5 2 9 22.2 1 3 33.3 0 0 - 0 3 3 1 0 3 2 1 -10
+p110
+aVMichael Curry DET 03/27/2002 DET vs. NYK L 23 2 0 4 0.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 1 1 1
+p111
+aVBen Wallace DET 03/27/2002 DET vs. NYK L 42 12 6 7 85.7 0 0 - 0 2 0.0 8 12 20 1 1 8 0 0 -3
+p112
+aVChucky Atkins DET 03/27/2002 DET vs. NYK L 34 18 7 12 58.3 2 3 66.7 2 2 100.0 1 2 3 4 0 0 2 4 -8
+p113
+aVClifford Robinson DET 03/27/2002 DET vs. NYK L 38 9 4 12 33.3 1 2 50.0 0 0 - 0 5 5 1 0 1 2 2 -4
+p114
+aVCorliss Williamson DET 03/27/2002 DET vs. NYK L 24 14 6 12 50.0 0 0 - 2 2 100.0 2 4 6 0 0 0 4 2 -5
+p115
+aVDamon Jones DET 03/27/2002 DET vs. NYK L 14 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 0 2 1
+p116
+aVChucky Atkins DET 03/26/2002 DET @ IND W 27 18 6 10 60.0 3 4 75.0 3 3 100.0 1 1 2 2 0 0 1 3 6
+p117
+aVDamon Jones DET 03/26/2002 DET @ IND W 21 2 0 1 0.0 0 1 0.0 2 2 100.0 2 1 3 1 2 0 2 0 13
+p118
+aVJerry Stackhouse DET 03/26/2002 DET @ IND W 29 12 4 16 25.0 2 3 66.7 2 4 50.0 1 2 3 6 1 0 1 2 0
+p119
+aVClifford Robinson DET 03/26/2002 DET @ IND W 37 13 5 15 33.3 1 4 25.0 2 3 66.7 1 3 4 4 0 2 0 2 9
+p120
+aVJon Barry DET 03/26/2002 DET @ IND W 23 10 4 5 80.0 2 2 100.0 0 0 - 0 4 4 5 2 0 1 0 18
+p121
+aVRodney White DET 03/26/2002 DET @ IND W 1 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -3
+p122
+aVCorliss Williamson DET 03/26/2002 DET @ IND W 21 23 9 13 69.2 0 0 - 5 6 83.3 1 0 1 0 0 0 3 3 19
+p123
+aVMichael Curry DET 03/26/2002 DET @ IND W 31 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 3 0 0 2 20
+p124
+aVZeljko Rebraca DET 03/26/2002 DET @ IND W 13 6 2 5 40.0 0 0 - 2 3 66.7 0 4 4 1 0 1 0 1 -2
+p125
+aVBen Wallace DET 03/26/2002 DET @ IND W 35 6 2 4 50.0 0 0 - 2 4 50.0 4 10 14 1 5 4 1 4 18
+p126
+aVMikki Moore DET 03/26/2002 DET @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p127
+aVVictor Alexander DET 03/26/2002 DET @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p128
+aVJerry Stackhouse DET 03/24/2002 DET vs. BOS W 36 30 9 19 47.4 4 9 44.4 8 9 88.9 1 7 8 8 2 0 2 1 20
+p129
+aVClifford Robinson DET 03/24/2002 DET vs. BOS W 45 22 10 21 47.6 1 5 20.0 1 2 50.0 3 2 5 7 2 0 1 1 13
+p130
+aVZeljko Rebraca DET 03/24/2002 DET vs. BOS W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p131
+aVChucky Atkins DET 03/24/2002 DET vs. BOS W 33 17 5 11 45.5 2 5 40.0 5 6 83.3 0 1 1 3 1 0 2 1 17
+p132
+aVBen Wallace DET 03/24/2002 DET vs. BOS W 44 13 6 9 66.7 0 0 - 1 2 50.0 8 20 28 0 1 6 1 3 7
+p133
+aVDamon Jones DET 03/24/2002 DET vs. BOS W 15 6 1 2 50.0 1 1 100.0 3 4 75.0 0 1 1 0 0 0 2 0 -9
+p134
+aVCorliss Williamson DET 03/24/2002 DET vs. BOS W 19 8 3 11 27.3 0 0 - 2 2 100.0 3 0 3 0 0 0 1 4 -9
+p135
+aVJon Barry DET 03/24/2002 DET vs. BOS W 17 7 3 6 50.0 0 2 0.0 1 1 100.0 1 1 2 4 0 0 1 1 -11
+p136
+aVMichael Curry DET 03/24/2002 DET vs. BOS W 24 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 4 16
+p137
+aVJon Barry DET 03/22/2002 DET @ LAL L 24 5 0 7 0.0 0 2 0.0 5 6 83.3 2 2 4 4 0 0 2 2 1
+p138
+aVClifford Robinson DET 03/22/2002 DET @ LAL L 35 17 6 13 46.2 4 7 57.1 1 4 25.0 0 6 6 0 1 0 0 3 -7
+p139
+aVCorliss Williamson DET 03/22/2002 DET @ LAL L 20 17 5 6 83.3 0 0 - 7 12 58.3 0 2 2 1 2 0 2 2 1
+p140
+aVJerry Stackhouse DET 03/22/2002 DET @ LAL L 32 21 5 13 38.5 2 3 66.7 9 10 90.0 1 3 4 6 0 0 6 1 -16
+p141
+aVZeljko Rebraca DET 03/22/2002 DET @ LAL L 23 3 1 5 20.0 0 0 - 1 2 50.0 1 5 6 0 2 1 1 5 -3
+p142
+aVChucky Atkins DET 03/22/2002 DET @ LAL L 31 15 7 15 46.7 1 3 33.3 0 0 - 0 0 0 0 0 0 4 0 -15
+p143
+aVBen Wallace DET 03/22/2002 DET @ LAL L 38 2 1 3 33.3 0 0 - 0 0 - 4 7 11 3 4 0 3 3 -14
+p144
+aVDamon Jones DET 03/22/2002 DET @ LAL L 18 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 1 0 3
+p145
+aVMichael Curry DET 03/22/2002 DET @ LAL L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 3 1 0 1 2 -10
+p146
+aVJon Barry DET 03/21/2002 DET @ PHX W 24 14 6 11 54.5 2 3 66.7 0 0 - 0 3 3 3 0 0 2 2 2
+p147
+aVDamon Jones DET 03/21/2002 DET @ PHX W 20 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 3 0 0 0 0 -1
+p148
+aVCorliss Williamson DET 03/21/2002 DET @ PHX W 27 13 5 10 50.0 0 0 - 3 3 100.0 1 1 2 3 1 3 2 4 5
+p149
+aVZeljko Rebraca DET 03/21/2002 DET @ PHX W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 6
+p150
+aVBen Wallace DET 03/21/2002 DET @ PHX W 43 7 3 7 42.9 0 0 - 1 7 14.3 4 10 14 0 0 5 1 1 10
+p151
+aVMichael Curry DET 03/21/2002 DET @ PHX W 25 3 1 1 100.0 1 1 100.0 0 0 - 0 4 4 1 1 1 1 0 3
+p152
+aVClifford Robinson DET 03/21/2002 DET @ PHX W 28 28 12 19 63.2 2 6 33.3 2 3 66.7 1 3 4 3 1 1 1 5 11
+p153
+aVChucky Atkins DET 03/21/2002 DET @ PHX W 28 5 2 7 28.6 0 1 0.0 1 1 100.0 0 5 5 6 3 0 0 3 14
+p154
+aVJerry Stackhouse DET 03/21/2002 DET @ PHX W 37 23 9 16 56.3 0 1 0.0 5 8 62.5 1 1 2 7 1 0 6 1 15
+p155
+aVBen Wallace DET 03/19/2002 DET @ UTA W 43 2 1 3 33.3 0 0 - 0 0 - 1 14 15 1 3 2 0 3 15
+p156
+aVDamon Jones DET 03/19/2002 DET @ UTA W 19 8 2 5 40.0 1 3 33.3 3 4 75.0 0 2 2 2 1 0 1 4 8
+p157
+aVJon Barry DET 03/19/2002 DET @ UTA W 21 7 3 6 50.0 0 1 0.0 1 1 100.0 1 2 3 2 3 0 3 2 -2
+p158
+aVZeljko Rebraca DET 03/19/2002 DET @ UTA W 5 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 3 0
+p159
+aVMichael Curry DET 03/19/2002 DET @ UTA W 21 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 3 10
+p160
+aVClifford Robinson DET 03/19/2002 DET @ UTA W 39 20 6 13 46.2 3 5 60.0 5 9 55.6 0 3 3 1 1 2 1 3 -3
+p161
+aVChucky Atkins DET 03/19/2002 DET @ UTA W 29 20 9 14 64.3 2 4 50.0 0 0 - 0 2 2 1 1 0 4 3 -1
+p162
+aVCorliss Williamson DET 03/19/2002 DET @ UTA W 24 10 3 8 37.5 0 0 - 4 4 100.0 2 3 5 3 1 2 2 3 1
+p163
+aVJerry Stackhouse DET 03/19/2002 DET @ UTA W 40 20 5 20 25.0 2 5 40.0 8 10 80.0 3 3 6 4 0 0 3 4 7
+p164
+aVCorliss Williamson DET 03/18/2002 DET @ DEN W 23 16 5 11 45.5 0 0 - 6 8 75.0 3 3 6 1 1 0 0 1 -13
+p165
+aVZeljko Rebraca DET 03/18/2002 DET @ DEN W 9 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 4 -11
+p166
+aVBen Wallace DET 03/18/2002 DET @ DEN W 42 11 4 9 44.4 0 0 - 3 6 50.0 5 10 15 0 2 4 0 2 16
+p167
+aVChucky Atkins DET 03/18/2002 DET @ DEN W 35 16 7 15 46.7 0 3 0.0 2 2 100.0 0 1 1 6 3 1 3 1 24
+p168
+aVMichael Curry DET 03/18/2002 DET @ DEN W 25 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 2 1 0 1 1 22
+p169
+aVClifford Robinson DET 03/18/2002 DET @ DEN W 41 16 7 15 46.7 1 3 33.3 1 1 100.0 0 6 6 3 3 3 0 4 13
+p170
+aVJerry Stackhouse DET 03/18/2002 DET @ DEN W 38 24 7 14 50.0 4 7 57.1 6 8 75.0 0 3 3 11 1 0 1 3 21
+p171
+aVJon Barry DET 03/18/2002 DET @ DEN W 14 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 1 0 1 1 3 -20
+p172
+aVDamon Jones DET 03/18/2002 DET @ DEN W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 -17
+p173
+aVJon Barry DET 03/16/2002 DET @ MIL W 25 14 6 7 85.7 2 3 66.7 0 0 - 0 1 1 4 0 0 0 2 15
+p174
+aVVictor Alexander DET 03/16/2002 DET @ MIL W 8 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 3
+p175
+aVChucky Atkins DET 03/16/2002 DET @ MIL W 36 19 8 13 61.5 2 5 40.0 1 2 50.0 1 0 1 4 2 1 1 5 3
+p176
+aVCorliss Williamson DET 03/16/2002 DET @ MIL W 28 17 6 11 54.5 0 0 - 5 6 83.3 1 3 4 2 1 1 1 2 14
+p177
+aVClifford Robinson DET 03/16/2002 DET @ MIL W 36 12 6 15 40.0 0 3 0.0 0 0 - 2 7 9 2 1 0 0 2 2
+p178
+aVBen Wallace DET 03/16/2002 DET @ MIL W 37 6 3 7 42.9 0 0 - 0 4 0.0 5 11 16 2 1 0 1 2 1
+p179
+aVJerry Stackhouse DET 03/16/2002 DET @ MIL W 40 25 7 16 43.8 3 7 42.9 8 8 100.0 0 5 5 7 1 1 4 2 5
+p180
+aVMichael Curry DET 03/16/2002 DET @ MIL W 18 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 4 0 0 2 0 -8
+p181
+aVDamon Jones DET 03/16/2002 DET @ MIL W 12 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 2 5
+p182
+aVCorliss Williamson DET 03/15/2002 DET vs. UTA L 17 7 3 7 42.9 0 0 - 1 1 100.0 0 2 2 1 0 0 2 1 4
+p183
+aVVictor Alexander DET 03/15/2002 DET vs. UTA L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -1
+p184
+aVBen Wallace DET 03/15/2002 DET vs. UTA L 45 9 1 1 100.0 0 0 - 7 10 70.0 3 10 13 2 2 6 1 2 -2
+p185
+aVJerry Stackhouse DET 03/15/2002 DET vs. UTA L 36 24 7 13 53.8 2 5 40.0 8 8 100.0 0 1 1 6 4 0 2 1 -11
+p186
+aVClifford Robinson DET 03/15/2002 DET vs. UTA L 43 19 7 16 43.8 2 5 40.0 3 4 75.0 1 6 7 2 2 2 3 6 1
+p187
+aVChucky Atkins DET 03/15/2002 DET vs. UTA L 17 3 1 6 16.7 0 3 0.0 1 2 50.0 0 0 0 3 0 0 2 5 0
+p188
+aVJon Barry DET 03/15/2002 DET vs. UTA L 23 17 6 8 75.0 3 4 75.0 2 2 100.0 0 2 2 4 1 0 4 0 -2
+p189
+aVDamon Jones DET 03/15/2002 DET vs. UTA L 31 14 4 9 44.4 3 6 50.0 3 4 75.0 2 1 3 5 0 0 2 5 -3
+p190
+aVMichael Curry DET 03/15/2002 DET vs. UTA L 25 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 3 -1
+p191
+aVDamon Jones DET 03/13/2002 DET vs. CLE W 23 5 2 7 28.6 0 5 0.0 1 2 50.0 1 3 4 3 0 0 3 1 1
+p192
+aVJon Barry DET 03/13/2002 DET vs. CLE W 40 13 5 14 35.7 1 6 16.7 2 2 100.0 1 3 4 5 3 1 1 2 2
+p193
+aVVictor Alexander DET 03/13/2002 DET vs. CLE W 8 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -4
+p194
+aVBen Wallace DET 03/13/2002 DET vs. CLE W 42 9 4 8 50.0 0 0 - 1 4 25.0 6 8 14 1 1 3 4 2 -2
+p195
+aVMichael Curry DET 03/13/2002 DET vs. CLE W 36 8 2 5 40.0 0 0 - 4 6 66.7 0 1 1 1 1 0 1 2 0
+p196
+aVCorliss Williamson DET 03/13/2002 DET vs. CLE W 32 16 6 13 46.2 0 1 0.0 4 5 80.0 4 9 13 2 0 0 2 2 1
+p197
+aVChucky Atkins DET 03/13/2002 DET vs. CLE W 25 19 8 15 53.3 1 3 33.3 2 2 100.0 1 2 3 5 2 0 2 2 0
+p198
+aVClifford Robinson DET 03/13/2002 DET vs. CLE W 34 15 7 16 43.8 0 2 0.0 1 2 50.0 0 3 3 3 0 1 4 5 7
+p199
+aVClifford Robinson DET 03/10/2002 DET vs. IND L 23 4 2 11 18.2 0 1 0.0 0 2 0.0 0 5 5 1 0 0 1 6 -6
+p200
+aVBen Wallace DET 03/10/2002 DET vs. IND L 40 7 3 8 37.5 0 0 - 1 4 25.0 6 11 17 5 1 8 1 2 -1
+p201
+aVMikki Moore DET 03/10/2002 DET vs. IND L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p202
+aVJerry Stackhouse DET 03/10/2002 DET vs. IND L 36 7 2 14 14.3 0 2 0.0 3 4 75.0 5 1 6 3 2 0 5 3 -4
+p203
+aVJon Barry DET 03/10/2002 DET vs. IND L 29 13 3 11 27.3 1 4 25.0 6 6 100.0 0 2 2 5 2 0 3 3 2
+p204
+aVMichael Curry DET 03/10/2002 DET vs. IND L 28 14 6 7 85.7 1 2 50.0 1 1 100.0 1 2 3 0 0 0 1 2 -4
+p205
+aVCorliss Williamson DET 03/10/2002 DET vs. IND L 29 22 10 16 62.5 0 0 - 2 2 100.0 4 2 6 1 1 1 1 5 -4
+p206
+aVDamon Jones DET 03/10/2002 DET vs. IND L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 0 0 -5
+p207
+aVChucky Atkins DET 03/10/2002 DET vs. IND L 34 15 6 16 37.5 3 10 30.0 0 0 - 1 1 2 1 1 1 1 4 -2
+p208
+aVChucky Atkins DET 03/08/2002 DET @ BOS L 24 17 6 12 50.0 5 8 62.5 0 0 - 0 1 1 1 0 0 2 0 -18
+p209
+aVMikki Moore DET 03/08/2002 DET @ BOS L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 0 2 1 -3
+p210
+aVCorliss Williamson DET 03/08/2002 DET @ BOS L 22 9 3 11 27.3 0 0 - 3 4 75.0 3 3 6 0 0 0 2 5 -19
+p211
+aVBen Wallace DET 03/08/2002 DET @ BOS L 33 5 2 6 33.3 0 0 - 1 2 50.0 4 11 15 1 0 2 1 1 -27
+p212
+aVDamon Jones DET 03/08/2002 DET @ BOS L 24 9 2 7 28.6 1 4 25.0 4 5 80.0 0 2 2 4 0 0 3 4 -7
+p213
+aVBrian Cardinal DET 03/08/2002 DET @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p214
+aVRodney White DET 03/08/2002 DET @ BOS L 8 3 1 3 33.3 0 1 0.0 1 2 50.0 1 1 2 1 0 0 0 0 -6
+p215
+aVJon Barry DET 03/08/2002 DET @ BOS L 22 14 4 5 80.0 1 1 100.0 5 6 83.3 1 1 2 3 2 0 0 1 -13
+p216
+aVJerry Stackhouse DET 03/08/2002 DET @ BOS L 32 12 3 12 25.0 0 1 0.0 6 8 75.0 1 1 2 4 1 1 3 0 -18
+p217
+aVVictor Alexander DET 03/08/2002 DET @ BOS L 5 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p218
+aVMichael Curry DET 03/08/2002 DET @ BOS L 24 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 2 0 0 0 3 -4
+p219
+aVClifford Robinson DET 03/08/2002 DET @ BOS L 35 12 5 12 41.7 1 4 25.0 1 1 100.0 1 0 1 3 2 1 3 0 -14
+p220
+aVChucky Atkins DET 03/07/2002 DET @ WAS W 26 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 6 1 0 2 2 -10
+p221
+aVClifford Robinson DET 03/07/2002 DET @ WAS W 39 13 6 12 50.0 1 3 33.3 0 0 - 0 4 4 1 0 3 0 3 -8
+p222
+aVMichael Curry DET 03/07/2002 DET @ WAS W 17 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 3 -5
+p223
+aVBen Wallace DET 03/07/2002 DET @ WAS W 37 10 5 6 83.3 0 0 - 0 0 - 1 7 8 2 1 1 1 2 3
+p224
+aVCorliss Williamson DET 03/07/2002 DET @ WAS W 25 23 8 9 88.9 0 0 - 7 8 87.5 0 1 1 2 0 0 3 4 6
+p225
+aVDamon Jones DET 03/07/2002 DET @ WAS W 22 9 3 7 42.9 3 5 60.0 0 0 - 0 1 1 5 0 0 1 2 13
+p226
+aVJerry Stackhouse DET 03/07/2002 DET @ WAS W 40 19 5 16 31.3 1 6 16.7 8 8 100.0 2 4 6 3 0 2 4 3 6
+p227
+aVJon Barry DET 03/07/2002 DET @ WAS W 26 13 4 4 100.0 2 2 100.0 3 3 100.0 1 3 4 5 2 0 3 2 13
+p228
+aVMikki Moore DET 03/07/2002 DET @ WAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 2 -3
+p229
+aVDamon Jones DET 03/05/2002 DET vs. MIA L 18 6 2 6 33.3 2 6 33.3 0 0 - 0 2 2 0 1 0 0 2 1
+p230
+aVJerry Stackhouse DET 03/05/2002 DET vs. MIA L 42 22 6 20 30.0 0 2 0.0 10 14 71.4 1 4 5 8 1 2 4 2 7
+p231
+aVJon Barry DET 03/05/2002 DET vs. MIA L 23 10 3 3 100.0 2 2 100.0 2 2 100.0 1 2 3 4 0 0 1 2 14
+p232
+aVMichael Curry DET 03/05/2002 DET vs. MIA L 24 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -23
+p233
+aVZeljko Rebraca DET 03/05/2002 DET vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p234
+aVChucky Atkins DET 03/05/2002 DET vs. MIA L 30 17 7 12 58.3 3 6 50.0 0 0 - 0 4 4 1 0 0 0 0 -5
+p235
+aVBen Wallace DET 03/05/2002 DET vs. MIA L 44 6 3 4 75.0 0 0 - 0 0 - 6 5 11 6 4 5 1 3 -3
+p236
+aVClifford Robinson DET 03/05/2002 DET vs. MIA L 38 13 5 13 38.5 1 2 50.0 2 2 100.0 0 8 8 0 1 2 1 5 -1
+p237
+aVCorliss Williamson DET 03/05/2002 DET vs. MIA L 19 15 6 16 37.5 0 0 - 3 4 75.0 3 1 4 0 0 1 2 3 5
+p238
+aVMichael Curry DET 03/03/2002 DET @ CHH W 18 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 1 4 1
+p239
+aVZeljko Rebraca DET 03/03/2002 DET @ CHH W 10 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 3 5
+p240
+aVCorliss Williamson DET 03/03/2002 DET @ CHH W 27 19 6 11 54.5 0 0 - 7 7 100.0 4 7 11 0 0 0 3 5 0
+p241
+aVJerry Stackhouse DET 03/03/2002 DET @ CHH W 36 28 7 18 38.9 0 3 0.0 14 14 100.0 2 3 5 6 0 0 1 1 -1
+p242
+aVClifford Robinson DET 03/03/2002 DET @ CHH W 42 10 4 15 26.7 2 6 33.3 0 0 - 3 6 9 5 1 5 0 2 4
+p243
+aVDamon Jones DET 03/03/2002 DET @ CHH W 25 9 3 4 75.0 1 1 100.0 2 2 100.0 0 3 3 4 0 0 2 3 3
+p244
+aVJon Barry DET 03/03/2002 DET @ CHH W 19 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 2 1 0 1 0 5
+p245
+aVBen Wallace DET 03/03/2002 DET @ CHH W 40 6 2 3 66.7 0 0 - 2 5 40.0 1 8 9 1 1 3 0 3 -6
+p246
+aVChucky Atkins DET 03/03/2002 DET @ CHH W 23 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 2 0 3 4 -1
+p247
+aVJon Barry DET 03/01/2002 DET vs. ORL W 23 10 3 7 42.9 2 3 66.7 2 2 100.0 0 3 3 5 1 0 0 4 6
+p248
+aVJerry Stackhouse DET 03/01/2002 DET vs. ORL W 32 23 10 18 55.6 0 1 0.0 3 3 100.0 1 4 5 2 0 1 1 2 -2
+p249
+aVMichael Curry DET 03/01/2002 DET vs. ORL W 27 5 1 1 100.0 0 0 - 3 4 75.0 0 4 4 2 0 0 1 2 0
+p250
+aVClifford Robinson DET 03/01/2002 DET vs. ORL W 40 24 10 17 58.8 2 5 40.0 2 2 100.0 0 3 3 5 0 1 2 3 24
+p251
+aVBen Wallace DET 03/01/2002 DET vs. ORL W 37 8 3 5 60.0 0 0 - 2 9 22.2 4 7 11 2 3 4 0 1 -3
+p252
+aVZeljko Rebraca DET 03/01/2002 DET vs. ORL W 9 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 9
+p253
+aVDamon Jones DET 03/01/2002 DET vs. ORL W 12 2 1 7 14.3 0 4 0.0 0 0 - 1 0 1 4 1 0 0 0 5
+p254
+aVCorliss Williamson DET 03/01/2002 DET vs. ORL W 24 17 6 12 50.0 1 1 100.0 4 6 66.7 2 4 6 0 2 0 1 1 -2
+p255
+aVChucky Atkins DET 03/01/2002 DET vs. ORL W 36 15 5 11 45.5 3 7 42.9 2 5 40.0 0 2 2 6 0 0 2 3 3
+p256
+aVCorliss Williamson DET 02/27/2002 DET vs. CHI W 25 24 9 15 60.0 0 0 - 6 6 100.0 1 2 3 2 1 1 2 3 8
+p257
+aVJon Barry DET 02/27/2002 DET vs. CHI W 42 21 8 16 50.0 4 8 50.0 1 1 100.0 1 6 7 10 3 0 2 2 12
+p258
+aVClifford Robinson DET 02/27/2002 DET vs. CHI W 38 16 6 15 40.0 1 2 50.0 3 6 50.0 0 5 5 5 0 1 1 2 12
+p259
+aVBen Wallace DET 02/27/2002 DET vs. CHI W 39 6 3 5 60.0 0 0 - 0 3 0.0 5 9 14 1 4 3 1 1 4
+p260
+aVZeljko Rebraca DET 02/27/2002 DET vs. CHI W 19 10 4 5 80.0 0 0 - 2 2 100.0 3 4 7 0 2 1 2 1 8
+p261
+aVChucky Atkins DET 02/27/2002 DET vs. CHI W 24 4 2 10 20.0 0 3 0.0 0 0 - 0 0 0 7 0 0 1 0 8
+p262
+aVMichael Curry DET 02/27/2002 DET vs. CHI W 29 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 4 4
+p263
+aVDamon Jones DET 02/27/2002 DET vs. CHI W 24 10 3 9 33.3 3 6 50.0 1 1 100.0 0 2 2 7 0 0 0 4 4
+p264
+aVJon Barry DET 02/24/2002 DET @ MIL L 20 6 2 9 22.2 1 6 16.7 1 1 100.0 1 3 4 2 1 0 1 5 -5
+p265
+aVZeljko Rebraca DET 02/24/2002 DET @ MIL L 10 2 0 4 0.0 0 0 - 2 2 100.0 1 2 3 1 0 1 2 3 -9
+p266
+aVJerry Stackhouse DET 02/24/2002 DET @ MIL L 35 19 8 27 29.6 0 5 0.0 3 3 100.0 3 0 3 6 1 0 2 1 -3
+p267
+aVChucky Atkins DET 02/24/2002 DET @ MIL L 30 16 7 13 53.8 2 6 33.3 0 0 - 1 2 3 3 1 0 0 3 -2
+p268
+aVCorliss Williamson DET 02/24/2002 DET @ MIL L 17 12 4 10 40.0 0 0 - 4 4 100.0 2 3 5 0 0 0 1 2 -1
+p269
+aVMichael Curry DET 02/24/2002 DET @ MIL L 29 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 4 4 0 2 1 -4
+p270
+aVClifford Robinson DET 02/24/2002 DET @ MIL L 42 12 4 11 36.4 3 6 50.0 1 2 50.0 1 6 7 4 2 3 1 2 -1
+p271
+aVBen Wallace DET 02/24/2002 DET @ MIL L 39 10 5 7 71.4 0 0 - 0 2 0.0 5 12 17 1 1 10 0 3 -5
+p272
+aVDamon Jones DET 02/24/2002 DET @ MIL L 18 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 -5
+p273
+aVJon Barry DET 02/22/2002 DET @ TOR W 24 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 3 4 0 4 0 8
+p274
+aVZeljko Rebraca DET 02/22/2002 DET @ TOR W 18 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 1 3 0 3 5
+p275
+aVClifford Robinson DET 02/22/2002 DET @ TOR W 37 21 8 13 61.5 3 4 75.0 2 2 100.0 0 5 5 1 1 0 3 2 8
+p276
+aVMichael Curry DET 02/22/2002 DET @ TOR W 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 0 3 -1
+p277
+aVBen Wallace DET 02/22/2002 DET @ TOR W 40 7 3 4 75.0 0 0 - 1 4 25.0 1 9 10 2 2 5 0 3 1
+p278
+aVDamon Jones DET 02/22/2002 DET @ TOR W 22 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 1 8
+p279
+aVCorliss Williamson DET 02/22/2002 DET @ TOR W 23 17 8 12 66.7 0 0 - 1 2 50.0 1 2 3 0 1 0 4 2 12
+p280
+aVJerry Stackhouse DET 02/22/2002 DET @ TOR W 29 13 4 17 23.5 0 4 0.0 5 6 83.3 1 3 4 7 1 0 4 4 -1
+p281
+aVChucky Atkins DET 02/22/2002 DET @ TOR W 26 5 1 3 33.3 1 2 50.0 2 2 100.0 2 3 5 5 0 0 1 0 0
+p282
+aVZeljko Rebraca DET 02/20/2002 DET vs. WAS W 27 12 3 9 33.3 0 0 - 6 8 75.0 3 5 8 1 1 1 0 3 -2
+p283
+aVMichael Curry DET 02/20/2002 DET vs. WAS W 38 4 1 3 33.3 0 1 0.0 2 2 100.0 0 5 5 4 0 0 0 4 8
+p284
+aVChucky Atkins DET 02/20/2002 DET vs. WAS W 27 11 5 12 41.7 1 4 25.0 0 0 - 0 1 1 2 1 0 1 2 -1
+p285
+aVBen Wallace DET 02/20/2002 DET vs. WAS W 45 14 3 8 37.5 0 0 - 8 10 80.0 3 12 15 3 0 5 0 2 12
+p286
+aVDamon Jones DET 02/20/2002 DET vs. WAS W 21 17 5 13 38.5 4 9 44.4 3 4 75.0 0 1 1 1 0 0 0 3 8
+p287
+aVJerry Stackhouse DET 02/20/2002 DET vs. WAS W 23 5 2 11 18.2 1 4 25.0 0 0 - 0 1 1 1 0 0 1 5 3
+p288
+aVCorliss Williamson DET 02/20/2002 DET vs. WAS W 27 22 8 10 80.0 0 0 - 6 9 66.7 2 1 3 1 1 1 1 4 7
+p289
+aVJon Barry DET 02/20/2002 DET vs. WAS W 32 12 3 7 42.9 1 3 33.3 5 5 100.0 0 3 3 5 2 3 2 1 0
+p290
+aVMichael Curry DET 02/18/2002 DET vs. TOR W 20 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 2 0 1 2 2 5
+p291
+aVBen Wallace DET 02/18/2002 DET vs. TOR W 38 13 6 9 66.7 0 0 - 1 2 50.0 5 8 13 0 1 4 0 2 8
+p292
+aVChucky Atkins DET 02/18/2002 DET vs. TOR W 34 9 3 9 33.3 2 4 50.0 1 2 50.0 1 2 3 7 0 0 1 2 10
+p293
+aVJon Barry DET 02/18/2002 DET vs. TOR W 26 13 5 7 71.4 1 2 50.0 2 2 100.0 1 1 2 2 0 0 0 1 6
+p294
+aVCorliss Williamson DET 02/18/2002 DET vs. TOR W 13 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 1 0 1 3 -6
+p295
+aVDamon Jones DET 02/18/2002 DET vs. TOR W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 1 0 8
+p296
+aVClifford Robinson DET 02/18/2002 DET vs. TOR W 38 16 8 14 57.1 0 3 0.0 0 0 - 1 5 6 2 3 3 1 2 20
+p297
+aVJerry Stackhouse DET 02/18/2002 DET vs. TOR W 38 21 7 15 46.7 1 2 50.0 6 10 60.0 2 4 6 4 4 0 3 3 20
+p298
+aVZeljko Rebraca DET 02/18/2002 DET vs. TOR W 16 9 3 8 37.5 0 0 - 3 4 75.0 3 4 7 0 0 0 2 2 -6
+p299
+aVJon Barry DET 02/15/2002 DET @ NYK W 28 12 3 7 42.9 2 2 100.0 4 4 100.0 1 1 2 2 2 0 1 1 7
+p300
+aVChucky Atkins DET 02/15/2002 DET @ NYK W 33 19 6 11 54.5 3 5 60.0 4 6 66.7 0 5 5 1 1 0 0 1 5
+p301
+aVMichael Curry DET 02/15/2002 DET @ NYK W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 4 7
+p302
+aVJerry Stackhouse DET 02/15/2002 DET @ NYK W 41 15 7 19 36.8 0 2 0.0 1 1 100.0 0 3 3 6 1 1 4 4 20
+p303
+aVDamon Jones DET 02/15/2002 DET @ NYK W 15 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 0 0 0 1 1 6
+p304
+aVClifford Robinson DET 02/15/2002 DET @ NYK W 36 11 4 10 40.0 1 3 33.3 2 2 100.0 0 6 6 6 1 0 0 3 1
+p305
+aVCorliss Williamson DET 02/15/2002 DET @ NYK W 19 12 5 8 62.5 0 0 - 2 2 100.0 0 3 3 0 0 0 3 1 -14
+p306
+aVZeljko Rebraca DET 02/15/2002 DET @ NYK W 12 7 3 3 100.0 0 0 - 1 1 100.0 0 3 3 1 1 0 2 0 5
+p307
+aVBen Wallace DET 02/15/2002 DET @ NYK W 42 19 9 15 60.0 0 0 - 1 6 16.7 12 10 22 1 1 2 0 2 18
+p308
+aVZeljko Rebraca DET 02/14/2002 DET @ NJN W 17 7 3 5 60.0 0 0 - 1 1 100.0 1 4 5 0 0 0 3 5 6
+p309
+aVBen Wallace DET 02/14/2002 DET @ NJN W 30 5 2 5 40.0 0 0 - 1 1 100.0 4 5 9 1 2 2 1 1 -17
+p310
+aVChucky Atkins DET 02/14/2002 DET @ NJN W 24 9 4 8 50.0 1 3 33.3 0 0 - 0 4 4 1 1 0 1 2 -16
+p311
+aVClifford Robinson DET 02/14/2002 DET @ NJN W 40 12 4 11 36.4 2 5 40.0 2 3 66.7 1 4 5 2 2 5 3 4 11
+p312
+aVJon Barry DET 02/14/2002 DET @ NJN W 26 7 3 9 33.3 1 5 20.0 0 0 - 1 4 5 6 1 0 3 2 17
+p313
+aVCorliss Williamson DET 02/14/2002 DET @ NJN W 23 11 3 6 50.0 0 0 - 5 5 100.0 1 5 6 0 1 0 4 4 9
+p314
+aVDamon Jones DET 02/14/2002 DET @ NJN W 24 9 4 7 57.1 1 2 50.0 0 0 - 0 3 3 2 2 0 2 3 21
+p315
+aVMichael Curry DET 02/14/2002 DET @ NJN W 25 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 2 0 0 0 3 -4
+p316
+aVJerry Stackhouse DET 02/14/2002 DET @ NJN W 31 22 8 20 40.0 2 4 50.0 4 4 100.0 0 3 3 5 2 0 6 2 -2
+p317
+aVClifford Robinson DET 02/12/2002 DET vs. PHX L 30 4 2 8 25.0 0 2 0.0 0 0 - 2 4 6 1 0 3 7 3 -17
+p318
+aVJon Barry DET 02/12/2002 DET vs. PHX L 30 9 3 3 100.0 1 1 100.0 2 2 100.0 0 2 2 5 2 1 0 1 -15
+p319
+aVRodney White DET 02/12/2002 DET vs. PHX L 6 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 0 0 0 1 0 -1
+p320
+aVZeljko Rebraca DET 02/12/2002 DET vs. PHX L 15 9 1 1 100.0 0 0 - 7 8 87.5 1 1 2 0 1 0 2 0 -11
+p321
+aVDamon Jones DET 02/12/2002 DET vs. PHX L 25 6 2 6 33.3 2 6 33.3 0 0 - 0 2 2 5 0 0 2 0 -9
+p322
+aVBen Wallace DET 02/12/2002 DET vs. PHX L 28 7 3 6 50.0 0 0 - 1 2 50.0 4 6 10 1 0 4 0 0 -23
+p323
+aVMikki Moore DET 02/12/2002 DET vs. PHX L 11 2 1 6 16.7 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -4
+p324
+aVJerry Stackhouse DET 02/12/2002 DET vs. PHX L 29 10 4 15 26.7 1 1 100.0 1 1 100.0 0 4 4 2 1 0 1 0 -19
+p325
+aVMichael Curry DET 02/12/2002 DET vs. PHX L 15 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 0 -14
+p326
+aVChucky Atkins DET 02/12/2002 DET vs. PHX L 23 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 -19
+p327
+aVCorliss Williamson DET 02/12/2002 DET vs. PHX L 22 10 5 10 50.0 0 0 - 0 2 0.0 0 2 2 0 1 1 1 3 -7
+p328
+aVRatko Varda DET 02/12/2002 DET vs. PHX L 6 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 0 0 1 3 -1
+p329
+aVClifford Robinson DET 02/07/2002 DET vs. LAC W 35 12 4 9 44.4 1 1 100.0 3 4 75.0 0 5 5 5 0 2 0 3 8
+p330
+aVJerry Stackhouse DET 02/07/2002 DET vs. LAC W 33 17 8 20 40.0 1 4 25.0 0 0 - 1 2 3 2 0 1 3 3 8
+p331
+aVZeljko Rebraca DET 02/07/2002 DET vs. LAC W 21 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 3 0 0 0 3 3
+p332
+aVCorliss Williamson DET 02/07/2002 DET vs. LAC W 18 15 6 10 60.0 0 0 - 3 3 100.0 0 2 2 4 0 0 1 0 4
+p333
+aVChucky Atkins DET 02/07/2002 DET vs. LAC W 23 10 5 8 62.5 0 2 0.0 0 1 0.0 2 2 4 2 0 0 2 3 5
+p334
+aVDamon Jones DET 02/07/2002 DET vs. LAC W 25 15 5 10 50.0 5 8 62.5 0 0 - 1 3 4 3 1 0 1 1 8
+p335
+aVMichael Curry DET 02/07/2002 DET vs. LAC W 27 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 10
+p336
+aVJon Barry DET 02/07/2002 DET vs. LAC W 18 11 4 7 57.1 3 5 60.0 0 0 - 1 2 3 3 0 0 1 1 2
+p337
+aVBen Wallace DET 02/07/2002 DET vs. LAC W 39 11 4 7 57.1 0 0 - 3 10 30.0 3 12 15 3 2 4 1 2 17
+p338
+aVDamon Jones DET 02/05/2002 DET vs. PHI W 15 3 1 4 25.0 0 1 0.0 1 1 100.0 0 1 1 3 0 0 2 3 0
+p339
+aVZeljko Rebraca DET 02/05/2002 DET vs. PHI W 10 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 3
+p340
+aVMichael Curry DET 02/05/2002 DET vs. PHI W 16 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 1 1 2 -10
+p341
+aVClifford Robinson DET 02/05/2002 DET vs. PHI W 41 14 5 12 41.7 2 2 100.0 2 2 100.0 0 6 6 2 2 0 2 3 3
+p342
+aVJerry Stackhouse DET 02/05/2002 DET vs. PHI W 38 29 9 20 45.0 3 5 60.0 8 11 72.7 2 2 4 4 0 1 3 3 1
+p343
+aVChucky Atkins DET 02/05/2002 DET vs. PHI W 31 10 3 10 30.0 2 6 33.3 2 2 100.0 1 1 2 5 1 0 2 4 5
+p344
+aVCorliss Williamson DET 02/05/2002 DET vs. PHI W 27 18 8 17 47.1 0 0 - 2 4 50.0 2 4 6 2 1 1 3 4 15
+p345
+aVJon Barry DET 02/05/2002 DET vs. PHI W 22 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 2 2 0 2 1 -1
+p346
+aVBen Wallace DET 02/05/2002 DET vs. PHI W 40 2 1 5 20.0 0 0 - 0 0 - 4 13 17 3 1 2 2 1 4
+p347
+aVCorliss Williamson DET 02/02/2002 DET @ CLE W 26 17 4 11 36.4 0 0 - 9 12 75.0 3 3 6 3 0 0 0 2 17
+p348
+aVZeljko Rebraca DET 02/02/2002 DET @ CLE W 17 14 3 6 50.0 0 0 - 8 10 80.0 1 3 4 0 0 1 3 1 22
+p349
+aVDamon Jones DET 02/02/2002 DET @ CLE W 23 12 4 4 100.0 2 2 100.0 2 2 100.0 0 3 3 1 1 0 1 4 18
+p350
+aVJon Barry DET 02/02/2002 DET @ CLE W 30 14 3 6 50.0 1 3 33.3 7 7 100.0 0 3 3 5 2 0 0 0 7
+p351
+aVBen Wallace DET 02/02/2002 DET @ CLE W 34 9 4 7 57.1 0 0 - 1 3 33.3 6 5 11 3 2 0 1 2 -8
+p352
+aVJerry Stackhouse DET 02/02/2002 DET @ CLE W 32 23 7 19 36.8 1 3 33.3 8 9 88.9 0 4 4 5 1 1 3 1 0
+p353
+aVChucky Atkins DET 02/02/2002 DET @ CLE W 25 6 2 8 25.0 1 3 33.3 1 2 50.0 0 2 2 3 1 0 2 2 -10
+p354
+aVClifford Robinson DET 02/02/2002 DET @ CLE W 26 14 6 13 46.2 0 3 0.0 2 2 100.0 1 1 2 2 1 0 2 3 -8
+p355
+aVMichael Curry DET 02/02/2002 DET @ CLE W 28 6 1 3 33.3 0 0 - 4 4 100.0 0 2 2 3 0 0 0 6 2
+p356
+aVMichael Curry DET 02/01/2002 DET vs. ORL L 26 10 5 7 71.4 0 0 - 0 0 - 0 5 5 1 0 2 0 2 -3
+p357
+aVClifford Robinson DET 02/01/2002 DET vs. ORL L 39 11 4 12 33.3 1 2 50.0 2 2 100.0 0 2 2 3 1 1 5 3 -3
+p358
+aVJerry Stackhouse DET 02/01/2002 DET vs. ORL L 35 18 8 20 40.0 0 4 0.0 2 3 66.7 0 3 3 7 1 0 4 3 -5
+p359
+aVJon Barry DET 02/01/2002 DET vs. ORL L 25 13 5 6 83.3 3 3 100.0 0 0 - 1 4 5 3 2 1 3 1 6
+p360
+aVZeljko Rebraca DET 02/01/2002 DET vs. ORL L 10 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 3 5 -1
+p361
+aVBen Wallace DET 02/01/2002 DET vs. ORL L 35 2 1 5 20.0 0 0 - 0 0 - 5 13 18 1 0 4 1 4 1
+p362
+aVDamon Jones DET 02/01/2002 DET vs. ORL L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 2 0 0 1 1 10
+p363
+aVCorliss Williamson DET 02/01/2002 DET vs. ORL L 22 15 6 11 54.5 0 0 - 3 6 50.0 2 1 3 1 2 1 2 2 -3
+p364
+aVChucky Atkins DET 02/01/2002 DET vs. ORL L 36 9 3 7 42.9 1 3 33.3 2 2 100.0 0 3 3 4 3 1 4 2 -12
+p365
+aVBen Wallace DET 01/30/2002 DET vs. ATL W 42 10 4 10 40.0 0 0 - 2 4 50.0 8 11 19 2 3 3 0 4 12
+p366
+aVDamon Jones DET 01/30/2002 DET vs. ATL W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 1 -6
+p367
+aVJon Barry DET 01/30/2002 DET vs. ATL W 19 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 0
+p368
+aVMichael Curry DET 01/30/2002 DET vs. ATL W 28 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 1 2 0 1 2 14
+p369
+aVChucky Atkins DET 01/30/2002 DET vs. ATL W 41 15 5 12 41.7 2 6 33.3 3 3 100.0 3 2 5 3 0 0 1 1 23
+p370
+aVBrian Cardinal DET 01/30/2002 DET vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p371
+aVClifford Robinson DET 01/30/2002 DET vs. ATL W 35 10 3 14 21.4 0 2 0.0 4 6 66.7 4 4 8 1 1 3 4 4 21
+p372
+aVJerry Stackhouse DET 01/30/2002 DET vs. ATL W 37 32 9 21 42.9 2 4 50.0 12 13 92.3 0 2 2 7 1 1 3 2 22
+p373
+aVZeljko Rebraca DET 01/30/2002 DET vs. ATL W 15 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 0 0 1 1 5
+p374
+aVCorliss Williamson DET 01/30/2002 DET vs. ATL W 14 12 5 8 62.5 0 0 - 2 2 100.0 2 1 3 0 0 0 4 4 -5
+p375
+aVMichael Curry DET 01/29/2002 DET @ WAS W 19 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -3
+p376
+aVZeljko Rebraca DET 01/29/2002 DET @ WAS W 16 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 1 1 1 3 -12
+p377
+aVJon Barry DET 01/29/2002 DET @ WAS W 31 5 2 7 28.6 1 6 16.7 0 0 - 0 6 6 3 1 0 0 3 3
+p378
+aVJerry Stackhouse DET 01/29/2002 DET @ WAS W 44 24 10 21 47.6 0 3 0.0 4 4 100.0 0 6 6 6 1 0 4 2 1
+p379
+aVCorliss Williamson DET 01/29/2002 DET @ WAS W 11 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -7
+p380
+aVChucky Atkins DET 01/29/2002 DET @ WAS W 38 20 7 13 53.8 3 7 42.9 3 4 75.0 0 2 2 4 1 0 1 3 12
+p381
+aVDamon Jones DET 01/29/2002 DET @ WAS W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 3 1 -9
+p382
+aVBen Wallace DET 01/29/2002 DET @ WAS W 35 9 4 4 100.0 0 0 - 1 1 100.0 3 6 9 0 1 3 0 1 14
+p383
+aVClifford Robinson DET 01/29/2002 DET @ WAS W 37 14 6 12 50.0 0 4 0.0 2 4 50.0 1 3 4 3 1 0 4 3 16
+p384
+aVDamon Jones DET 01/25/2002 DET @ ATL W 16 8 3 6 50.0 2 5 40.0 0 0 - 1 0 1 2 0 0 1 1 6
+p385
+aVJerry Stackhouse DET 01/25/2002 DET @ ATL W 36 14 3 12 25.0 0 3 0.0 8 8 100.0 0 4 4 7 2 0 10 1 15
+p386
+aVBrian Cardinal DET 01/25/2002 DET @ ATL W 2 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 1 2
+p387
+aVMichael Curry DET 01/25/2002 DET @ ATL W 17 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 1 0 0 0 0 3
+p388
+aVZeljko Rebraca DET 01/25/2002 DET @ ATL W 19 12 2 5 40.0 0 0 - 8 8 100.0 0 4 4 0 0 4 2 5 7
+p389
+aVBen Wallace DET 01/25/2002 DET @ ATL W 30 7 3 7 42.9 0 0 - 1 2 50.0 3 5 8 1 1 5 1 4 9
+p390
+aVJon Barry DET 01/25/2002 DET @ ATL W 28 10 3 4 75.0 2 3 66.7 2 2 100.0 0 2 2 6 3 0 1 1 9
+p391
+aVChucky Atkins DET 01/25/2002 DET @ ATL W 32 21 7 10 70.0 6 6 100.0 1 2 50.0 0 2 2 1 2 1 1 1 11
+p392
+aVCorliss Williamson DET 01/25/2002 DET @ ATL W 25 20 6 12 50.0 0 0 - 8 9 88.9 3 3 6 0 2 0 1 2 14
+p393
+aVMikki Moore DET 01/25/2002 DET @ ATL W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p394
+aVClifford Robinson DET 01/25/2002 DET @ ATL W 31 9 4 13 30.8 0 1 0.0 1 1 100.0 3 4 7 3 4 1 0 3 10
+p395
+aVClifford Robinson DET 01/23/2002 DET vs. MIN W 37 20 8 14 57.1 2 3 66.7 2 5 40.0 2 2 4 6 1 0 2 3 28
+p396
+aVJerry Stackhouse DET 01/23/2002 DET vs. MIN W 40 40 17 28 60.7 1 5 20.0 5 6 83.3 0 1 1 3 2 1 3 1 14
+p397
+aVBen Wallace DET 01/23/2002 DET vs. MIN W 40 6 3 5 60.0 0 0 - 0 0 - 2 12 14 3 2 1 1 3 11
+p398
+aVZeljko Rebraca DET 01/23/2002 DET vs. MIN W 9 4 1 2 50.0 0 0 - 2 6 33.3 1 2 3 0 1 2 1 3 3
+p399
+aVChucky Atkins DET 01/23/2002 DET vs. MIN W 24 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 4 0 0 5 2 11
+p400
+aVCorliss Williamson DET 01/23/2002 DET vs. MIN W 17 7 3 10 30.0 0 0 - 1 2 50.0 1 3 4 3 0 0 1 4 6
+p401
+aVMichael Curry DET 01/23/2002 DET vs. MIN W 23 4 2 5 40.0 0 0 - 0 0 - 3 0 3 3 1 0 0 3 16
+p402
+aVDamon Jones DET 01/23/2002 DET vs. MIN W 24 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 3 3 0 1 3 10
+p403
+aVJon Barry DET 01/23/2002 DET vs. MIN W 26 9 3 8 37.5 3 5 60.0 0 0 - 0 5 5 4 1 0 1 4 6
+p404
+aVMichael Curry DET 01/21/2002 DET vs. MIL L 15 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 4 -10
+p405
+aVCorliss Williamson DET 01/21/2002 DET vs. MIL L 17 4 2 10 20.0 0 0 - 0 2 0.0 1 3 4 0 0 1 0 3 -17
+p406
+aVJerry Stackhouse DET 01/21/2002 DET vs. MIL L 36 19 5 21 23.8 0 5 0.0 9 11 81.8 2 2 4 1 0 0 3 2 -20
+p407
+aVMikki Moore DET 01/21/2002 DET vs. MIL L 10 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 2 6
+p408
+aVChucky Atkins DET 01/21/2002 DET vs. MIL L 28 9 3 9 33.3 1 3 33.3 2 2 100.0 0 1 1 0 2 1 1 2 -19
+p409
+aVBen Wallace DET 01/21/2002 DET vs. MIL L 36 8 3 8 37.5 0 0 - 2 6 33.3 4 8 12 1 2 3 1 2 -20
+p410
+aVDamon Jones DET 01/21/2002 DET vs. MIL L 21 8 3 7 42.9 2 5 40.0 0 0 - 0 3 3 5 0 0 1 0 -1
+p411
+aVZeljko Rebraca DET 01/21/2002 DET vs. MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 3
+p412
+aVVictor Alexander DET 01/21/2002 DET vs. MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p413
+aVBrian Cardinal DET 01/21/2002 DET vs. MIL L 15 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 5
+p414
+aVJon Barry DET 01/21/2002 DET vs. MIL L 25 17 7 9 77.8 2 3 66.7 1 1 100.0 0 4 4 3 2 0 2 2 -12
+p415
+aVClifford Robinson DET 01/21/2002 DET vs. MIL L 29 5 2 8 25.0 0 2 0.0 1 2 50.0 0 4 4 0 1 0 1 4 -8
+p416
+aVDamon Jones DET 01/19/2002 DET vs. BOS W 23 6 2 6 33.3 2 5 40.0 0 2 0.0 0 3 3 5 0 1 1 2 2
+p417
+aVJon Barry DET 01/19/2002 DET vs. BOS W 34 13 5 13 38.5 3 8 37.5 0 0 - 1 8 9 3 2 0 1 1 21
+p418
+aVJerry Stackhouse DET 01/19/2002 DET vs. BOS W 35 28 9 20 45.0 3 6 50.0 7 9 77.8 1 3 4 4 0 1 3 5 11
+p419
+aVChucky Atkins DET 01/19/2002 DET vs. BOS W 25 8 3 10 30.0 2 6 33.3 0 0 - 2 1 3 2 2 2 2 1 1
+p420
+aVBen Wallace DET 01/19/2002 DET vs. BOS W 39 10 3 5 60.0 0 0 - 4 5 80.0 4 9 13 0 2 6 2 0 -5
+p421
+aVMichael Curry DET 01/19/2002 DET vs. BOS W 16 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 2 0 0 0 1 -15
+p422
+aVZeljko Rebraca DET 01/19/2002 DET vs. BOS W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -1
+p423
+aVClifford Robinson DET 01/19/2002 DET vs. BOS W 38 13 5 12 41.7 0 2 0.0 3 4 75.0 1 4 5 3 1 1 2 2 -9
+p424
+aVCorliss Williamson DET 01/19/2002 DET vs. BOS W 24 14 4 9 44.4 0 0 - 6 6 100.0 1 3 4 1 1 1 4 3 10
+p425
+aVJon Barry DET 01/18/2002 DET @ IND W 26 8 2 7 28.6 2 4 50.0 2 2 100.0 0 2 2 7 1 0 1 3 13
+p426
+aVChucky Atkins DET 01/18/2002 DET @ IND W 24 6 2 6 33.3 1 2 50.0 1 2 50.0 0 1 1 0 4 0 1 1 -10
+p427
+aVMikki Moore DET 01/18/2002 DET @ IND W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p428
+aVJerry Stackhouse DET 01/18/2002 DET @ IND W 41 32 11 18 61.1 3 4 75.0 7 7 100.0 0 7 7 8 2 0 8 4 -2
+p429
+aVCorliss Williamson DET 01/18/2002 DET @ IND W 15 9 4 9 44.4 0 0 - 1 2 50.0 2 0 2 0 0 0 2 3 5
+p430
+aVClifford Robinson DET 01/18/2002 DET @ IND W 42 27 11 19 57.9 1 4 25.0 4 4 100.0 0 5 5 2 0 3 0 2 8
+p431
+aVDamon Jones DET 01/18/2002 DET @ IND W 24 13 4 6 66.7 2 3 66.7 3 4 75.0 0 3 3 1 0 0 0 1 13
+p432
+aVMichael Curry DET 01/18/2002 DET @ IND W 27 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 4 -6
+p433
+aVBen Wallace DET 01/18/2002 DET @ IND W 38 0 0 5 0.0 0 0 - 0 1 0.0 3 8 11 3 2 7 3 4 -2
+p434
+aVJon Barry DET 01/15/2002 DET vs. TOR L 18 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 0 -6
+p435
+aVChucky Atkins DET 01/15/2002 DET vs. TOR L 27 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 7 0 0 1 1 8
+p436
+aVClifford Robinson DET 01/15/2002 DET vs. TOR L 38 16 7 21 33.3 0 4 0.0 2 3 66.7 4 4 8 2 1 1 3 5 -6
+p437
+aVCorliss Williamson DET 01/15/2002 DET vs. TOR L 26 11 3 11 27.3 0 0 - 5 8 62.5 3 4 7 0 1 0 2 4 7
+p438
+aVDamon Jones DET 01/15/2002 DET vs. TOR L 21 8 3 6 50.0 2 4 50.0 0 0 - 1 1 2 2 0 0 3 0 -10
+p439
+aVBen Wallace DET 01/15/2002 DET vs. TOR L 34 7 2 5 40.0 0 0 - 3 4 75.0 7 11 18 0 2 2 0 1 -3
+p440
+aVMichael Curry DET 01/15/2002 DET vs. TOR L 25 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 2 5
+p441
+aVJerry Stackhouse DET 01/15/2002 DET vs. TOR L 44 38 13 25 52.0 1 6 16.7 11 12 91.7 1 5 6 3 2 0 3 3 -3
+p442
+aVVictor Alexander DET 01/15/2002 DET vs. TOR L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -2
+p443
+aVBen Wallace DET 01/12/2002 DET vs. CHH W 41 5 2 6 33.3 0 0 - 1 1 100.0 7 9 16 1 5 2 0 3 27
+p444
+aVDamon Jones DET 01/12/2002 DET vs. CHH W 24 12 5 7 71.4 2 2 100.0 0 0 - 0 3 3 5 1 0 1 1 21
+p445
+aVJerry Stackhouse DET 01/12/2002 DET vs. CHH W 33 27 9 20 45.0 1 5 20.0 8 10 80.0 2 2 4 7 1 0 3 3 19
+p446
+aVChucky Atkins DET 01/12/2002 DET vs. CHH W 24 4 1 5 20.0 0 0 - 2 2 100.0 0 3 3 0 3 0 1 2 7
+p447
+aVJon Barry DET 01/12/2002 DET vs. CHH W 21 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 5 2 0 1 2 13
+p448
+aVVictor Alexander DET 01/12/2002 DET vs. CHH W 11 6 3 7 42.9 0 0 - 0 2 0.0 1 3 4 0 0 0 0 1 0
+p449
+aVZeljko Rebraca DET 01/12/2002 DET vs. CHH W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p450
+aVClifford Robinson DET 01/12/2002 DET vs. CHH W 34 21 7 16 43.8 4 6 66.7 3 4 75.0 0 2 2 3 1 1 2 2 21
+p451
+aVMichael Curry DET 01/12/2002 DET vs. CHH W 24 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 6 1 0 2 3 17
+p452
+aVMikki Moore DET 01/12/2002 DET vs. CHH W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p453
+aVBrian Cardinal DET 01/12/2002 DET vs. CHH W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p454
+aVCorliss Williamson DET 01/12/2002 DET vs. CHH W 18 17 6 9 66.7 0 0 - 5 5 100.0 0 3 3 0 1 0 0 3 15
+p455
+aVMichael Curry DET 01/11/2002 DET @ BOS L 20 2 0 4 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 5 -13
+p456
+aVJon Barry DET 01/11/2002 DET @ BOS L 23 10 3 3 100.0 2 2 100.0 2 2 100.0 0 2 2 5 2 0 2 2 1
+p457
+aVDamon Jones DET 01/11/2002 DET @ BOS L 21 5 1 4 25.0 1 3 33.3 2 2 100.0 0 6 6 2 0 0 0 1 6
+p458
+aVZeljko Rebraca DET 01/11/2002 DET @ BOS L 8 2 0 2 0.0 0 0 - 2 4 50.0 1 0 1 0 0 0 0 0 -6
+p459
+aVVictor Alexander DET 01/11/2002 DET @ BOS L 12 12 6 12 50.0 0 2 0.0 0 0 - 2 1 3 2 0 0 0 0 13
+p460
+aVMikki Moore DET 01/11/2002 DET @ BOS L 13 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 0 1 0 2 15
+p461
+aVChucky Atkins DET 01/11/2002 DET @ BOS L 27 6 3 13 23.1 0 5 0.0 0 0 - 1 2 3 1 2 0 1 2 -20
+p462
+aVBrian Cardinal DET 01/11/2002 DET @ BOS L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 2
+p463
+aVCorliss Williamson DET 01/11/2002 DET @ BOS L 21 8 4 11 36.4 0 0 - 0 0 - 2 0 2 1 0 2 2 2 5
+p464
+aVBen Wallace DET 01/11/2002 DET @ BOS L 30 10 2 8 25.0 0 0 - 6 8 75.0 6 5 11 1 1 2 0 1 -26
+p465
+aVClifford Robinson DET 01/11/2002 DET @ BOS L 32 5 2 8 25.0 0 1 0.0 1 2 50.0 1 2 3 1 1 1 1 2 -24
+p466
+aVJerry Stackhouse DET 01/11/2002 DET @ BOS L 28 21 6 15 40.0 2 5 40.0 7 9 77.8 1 4 5 2 2 1 5 0 -23
+p467
+aVDana Barros DET 01/08/2002 DET vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p468
+aVBen Wallace DET 01/08/2002 DET vs. LAL L 28 8 2 4 50.0 0 0 - 4 6 66.7 3 9 12 3 1 3 1 4 -17
+p469
+aVMikki Moore DET 01/08/2002 DET vs. LAL L 12 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 0 0 2 0 0 1
+p470
+aVJon Barry DET 01/08/2002 DET vs. LAL L 14 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 1 1 1 0 -4
+p471
+aVDamon Jones DET 01/08/2002 DET vs. LAL L 15 9 3 7 42.9 2 5 40.0 1 2 50.0 1 1 2 1 0 0 2 0 -3
+p472
+aVClifford Robinson DET 01/08/2002 DET vs. LAL L 34 14 6 13 46.2 0 3 0.0 2 2 100.0 1 2 3 2 0 1 1 1 -33
+p473
+aVMichael Curry DET 01/08/2002 DET vs. LAL L 23 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -21
+p474
+aVZeljko Rebraca DET 01/08/2002 DET vs. LAL L 22 4 1 5 20.0 0 0 - 2 2 100.0 0 6 6 0 0 0 0 3 -9
+p475
+aVCorliss Williamson DET 01/08/2002 DET vs. LAL L 19 8 3 9 33.3 0 0 - 2 2 100.0 2 0 2 0 0 0 1 4 -12
+p476
+aVBrian Cardinal DET 01/08/2002 DET vs. LAL L 6 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 2 4
+p477
+aVChucky Atkins DET 01/08/2002 DET vs. LAL L 32 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 4 0 0 1 2 -24
+p478
+aVJerry Stackhouse DET 01/08/2002 DET vs. LAL L 34 27 7 15 46.7 3 5 60.0 10 11 90.9 0 0 0 6 0 1 5 3 -25
+p479
+aVZeljko Rebraca DET 01/07/2002 DET @ MIN L 17 8 3 10 30.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 2
+p480
+aVCorliss Williamson DET 01/07/2002 DET @ MIN L 28 15 7 10 70.0 0 0 - 1 1 100.0 1 4 5 3 1 0 1 3 -3
+p481
+aVJerry Stackhouse DET 01/07/2002 DET @ MIN L 35 24 8 18 44.4 4 6 66.7 4 6 66.7 0 1 1 10 2 0 1 1 -11
+p482
+aVChucky Atkins DET 01/07/2002 DET @ MIN L 30 13 6 14 42.9 1 5 20.0 0 0 - 0 2 2 3 0 0 1 3 -12
+p483
+aVClifford Robinson DET 01/07/2002 DET @ MIN L 32 13 6 10 60.0 1 4 25.0 0 0 - 0 3 3 5 0 0 0 4 -18
+p484
+aVDana Barros DET 01/07/2002 DET @ MIN L 15 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -8
+p485
+aVMikki Moore DET 01/07/2002 DET @ MIN L 13 5 2 5 40.0 0 0 - 1 2 50.0 4 2 6 1 0 0 0 1 3
+p486
+aVDamon Jones DET 01/07/2002 DET @ MIN L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 4
+p487
+aVJon Barry DET 01/07/2002 DET @ MIN L 13 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -5
+p488
+aVBrian Cardinal DET 01/07/2002 DET @ MIN L 5 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 1 0 0 0 1 1
+p489
+aVMichael Curry DET 01/07/2002 DET @ MIN L 20 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -13
+p490
+aVBen Wallace DET 01/07/2002 DET @ MIN L 30 0 0 3 0.0 0 0 - 0 0 - 1 4 5 1 0 3 1 1 -20
+p491
+aVClifford Robinson DET 01/05/2002 DET vs. CLE W 41 22 8 14 57.1 1 2 50.0 5 6 83.3 3 6 9 1 1 0 5 5 16
+p492
+aVJerry Stackhouse DET 01/05/2002 DET vs. CLE W 42 29 7 20 35.0 1 4 25.0 14 14 100.0 1 6 7 6 0 1 4 1 13
+p493
+aVDana Barros DET 01/05/2002 DET vs. CLE W 17 9 4 6 66.7 1 2 50.0 0 0 - 0 1 1 2 1 0 0 1 -2
+p494
+aVCorliss Williamson DET 01/05/2002 DET vs. CLE W 24 14 6 13 46.2 0 0 - 2 2 100.0 6 5 11 1 0 1 1 2 11
+p495
+aVChucky Atkins DET 01/05/2002 DET vs. CLE W 31 17 6 12 50.0 3 6 50.0 2 2 100.0 0 3 3 2 2 0 2 1 12
+p496
+aVBen Wallace DET 01/05/2002 DET vs. CLE W 36 5 2 7 28.6 0 0 - 1 3 33.3 6 8 14 3 0 5 1 4 16
+p497
+aVZeljko Rebraca DET 01/05/2002 DET vs. CLE W 15 5 1 6 16.7 0 0 - 3 4 75.0 1 1 2 0 1 1 0 4 -7
+p498
+aVJon Barry DET 01/05/2002 DET vs. CLE W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 1 0 0 -3
+p499
+aVMichael Curry DET 01/05/2002 DET vs. CLE W 28 0 0 1 0.0 0 0 - 0 0 - 1 3 4 2 1 0 0 1 -6
+p500
+aVJerry Stackhouse DET 01/03/2002 DET @ HOU L 42 29 11 23 47.8 1 6 16.7 6 6 100.0 1 3 4 6 2 0 4 1 1
+p501
+aVClifford Robinson DET 01/03/2002 DET @ HOU L 33 12 5 10 50.0 1 3 33.3 1 2 50.0 1 5 6 7 1 1 2 5 12
+p502
+aVMikki Moore DET 01/03/2002 DET @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p503
+aVChucky Atkins DET 01/03/2002 DET @ HOU L 29 6 2 8 25.0 2 4 50.0 0 0 - 3 0 3 2 2 0 2 4 -5
+p504
+aVMichael Curry DET 01/03/2002 DET @ HOU L 9 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -10
+p505
+aVCorliss Williamson DET 01/03/2002 DET @ HOU L 30 25 11 19 57.9 0 0 - 3 4 75.0 2 0 2 1 0 0 0 2 12
+p506
+aVDana Barros DET 01/03/2002 DET @ HOU L 19 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 3 1 0 2 0 3
+p507
+aVJon Barry DET 01/03/2002 DET @ HOU L 20 6 2 3 66.7 2 2 100.0 0 0 - 0 2 2 4 0 0 2 1 -15
+p508
+aVZeljko Rebraca DET 01/03/2002 DET @ HOU L 21 8 4 4 100.0 0 0 - 0 0 - 2 2 4 1 1 0 0 4 -5
+p509
+aVBen Wallace DET 01/03/2002 DET @ HOU L 38 6 3 6 50.0 0 0 - 0 3 0.0 3 9 12 2 1 3 0 2 -3
+p510
+aVChucky Atkins DET 01/02/2002 DET @ SAS L 36 16 6 11 54.5 2 3 66.7 2 3 66.7 0 1 1 4 0 0 2 2 -6
+p511
+aVMichael Curry DET 01/02/2002 DET @ SAS L 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -13
+p512
+aVDana Barros DET 01/02/2002 DET @ SAS L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -9
+p513
+aVClifford Robinson DET 01/02/2002 DET @ SAS L 35 2 1 5 20.0 0 3 0.0 0 0 - 0 4 4 3 2 1 4 5 -18
+p514
+aVMikki Moore DET 01/02/2002 DET @ SAS L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 2
+p515
+aVRodney White DET 01/02/2002 DET @ SAS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 3
+p516
+aVBen Wallace DET 01/02/2002 DET @ SAS L 29 12 6 10 60.0 0 0 - 0 2 0.0 8 4 12 1 2 2 1 6 2
+p517
+aVCorliss Williamson DET 01/02/2002 DET @ SAS L 29 12 5 14 35.7 0 0 - 2 2 100.0 0 3 3 0 1 1 3 3 -3
+p518
+aVDamon Jones DET 01/02/2002 DET @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p519
+aVZeljko Rebraca DET 01/02/2002 DET @ SAS L 24 17 7 8 87.5 0 0 - 3 4 75.0 1 6 7 0 1 2 2 3 -6
+p520
+aVJon Barry DET 01/02/2002 DET @ SAS L 19 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 3 0 0 4 1 -5
+p521
+aVJerry Stackhouse DET 01/02/2002 DET @ SAS L 34 13 2 9 22.2 0 3 0.0 9 11 81.8 1 3 4 4 0 0 5 2 -10
+p522
+aVCorliss Williamson DET 12/30/2001 DET vs. MIA W 30 14 6 10 60.0 0 0 - 2 2 100.0 1 1 2 1 1 0 5 3 11
+p523
+aVMichael Curry DET 12/30/2001 DET vs. MIA W 18 2 0 0 - 0 0 - 2 4 50.0 0 2 2 3 0 0 0 1 -7
+p524
+aVBen Wallace DET 12/30/2001 DET vs. MIA W 42 7 3 6 50.0 0 1 0.0 1 2 50.0 4 11 15 1 2 5 1 2 7
+p525
+aVJerry Stackhouse DET 12/30/2001 DET vs. MIA W 28 24 8 16 50.0 0 3 0.0 8 8 100.0 1 2 3 1 0 0 3 5 6
+p526
+aVClifford Robinson DET 12/30/2001 DET vs. MIA W 26 9 4 8 50.0 1 4 25.0 0 0 - 0 3 3 3 1 0 3 5 -5
+p527
+aVZeljko Rebraca DET 12/30/2001 DET vs. MIA W 24 10 4 8 50.0 0 0 - 2 2 100.0 3 5 8 0 0 0 1 2 11
+p528
+aVChucky Atkins DET 12/30/2001 DET vs. MIA W 36 12 3 9 33.3 2 4 50.0 4 8 50.0 0 2 2 4 1 0 5 2 2
+p529
+aVDana Barros DET 12/30/2001 DET vs. MIA W 12 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 2 1 1 2 0 4
+p530
+aVJon Barry DET 12/30/2001 DET vs. MIA W 24 5 1 3 33.3 0 1 0.0 3 3 100.0 0 6 6 3 0 0 0 1 1
+p531
+aVMichael Curry DET 12/28/2001 DET @ ORL L 34 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 1 1 0 5 -3
+p532
+aVZeljko Rebraca DET 12/28/2001 DET @ ORL L 19 10 3 9 33.3 0 0 - 4 5 80.0 3 3 6 0 3 2 0 5 -5
+p533
+aVChucky Atkins DET 12/28/2001 DET @ ORL L 35 13 6 14 42.9 1 3 33.3 0 1 0.0 0 5 5 4 0 0 3 2 5
+p534
+aVClifford Robinson DET 12/28/2001 DET @ ORL L 36 8 3 10 30.0 0 3 0.0 2 4 50.0 0 2 2 4 1 2 3 4 -10
+p535
+aVBen Wallace DET 12/28/2001 DET @ ORL L 31 16 7 11 63.6 0 1 0.0 2 5 40.0 5 8 13 0 0 4 1 0 2
+p536
+aVJerry Stackhouse DET 12/28/2001 DET @ ORL L 37 13 3 15 20.0 0 4 0.0 7 7 100.0 1 4 5 4 1 2 2 2 4
+p537
+aVCorliss Williamson DET 12/28/2001 DET @ ORL L 25 10 4 11 36.4 0 0 - 2 4 50.0 4 3 7 1 0 0 4 2 -11
+p538
+aVDana Barros DET 12/28/2001 DET @ ORL L 13 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 1 0 1 0 -14
+p539
+aVJon Barry DET 12/28/2001 DET @ ORL L 11 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 2 -13
+p540
+aVMichael Curry DET 12/27/2001 DET vs. NJN L 20 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 0 1 3 -1
+p541
+aVJerry Stackhouse DET 12/27/2001 DET vs. NJN L 35 16 7 20 35.0 0 3 0.0 2 2 100.0 1 2 3 5 0 1 7 1 -17
+p542
+aVZeljko Rebraca DET 12/27/2001 DET vs. NJN L 18 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 0 1 1 1 7
+p543
+aVChucky Atkins DET 12/27/2001 DET vs. NJN L 21 11 5 9 55.6 1 3 33.3 0 0 - 0 1 1 1 1 0 1 1 -6
+p544
+aVCorliss Williamson DET 12/27/2001 DET vs. NJN L 20 12 4 8 50.0 0 0 - 4 7 57.1 1 2 3 1 0 0 3 5 -4
+p545
+aVDana Barros DET 12/27/2001 DET vs. NJN L 23 2 1 7 14.3 0 4 0.0 0 0 - 0 4 4 2 0 1 1 1 -15
+p546
+aVClifford Robinson DET 12/27/2001 DET vs. NJN L 32 14 4 10 40.0 3 5 60.0 3 4 75.0 2 1 3 0 2 0 1 1 -18
+p547
+aVBen Wallace DET 12/27/2001 DET vs. NJN L 30 2 1 3 33.3 0 0 - 0 0 - 6 9 15 1 0 1 1 1 -20
+p548
+aVRodney White DET 12/27/2001 DET vs. NJN L 5 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p549
+aVMikki Moore DET 12/27/2001 DET vs. NJN L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 3
+p550
+aVJon Barry DET 12/27/2001 DET vs. NJN L 21 2 1 6 16.7 0 2 0.0 0 0 - 2 4 6 2 0 0 2 0 -10
+p551
+aVDamon Jones DET 12/27/2001 DET vs. NJN L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 8
+p552
+aVDana Barros DET 12/22/2001 DET @ SEA L 20 3 1 8 12.5 0 3 0.0 1 2 50.0 0 0 0 0 1 0 2 3 -2
+p553
+aVClifford Robinson DET 12/22/2001 DET @ SEA L 28 6 2 9 22.2 0 1 0.0 2 2 100.0 2 4 6 3 0 0 1 2 -15
+p554
+aVBen Wallace DET 12/22/2001 DET @ SEA L 33 8 3 3 100.0 0 0 - 2 6 33.3 4 5 9 2 1 2 0 1 -18
+p555
+aVJerry Stackhouse DET 12/22/2001 DET @ SEA L 16 18 6 9 66.7 2 2 100.0 4 5 80.0 0 1 1 1 0 0 2 2 -15
+p556
+aVZeljko Rebraca DET 12/22/2001 DET @ SEA L 19 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 1 0 2 3 -10
+p557
+aVMichael Curry DET 12/22/2001 DET @ SEA L 20 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 2 0 0 0 2 -1
+p558
+aVCorliss Williamson DET 12/22/2001 DET @ SEA L 18 8 3 3 100.0 0 0 - 2 2 100.0 0 3 3 2 0 0 2 5 -12
+p559
+aVMikki Moore DET 12/22/2001 DET @ SEA L 9 8 3 4 75.0 0 0 - 2 2 100.0 1 0 1 1 0 1 0 1 -2
+p560
+aVRodney White DET 12/22/2001 DET @ SEA L 17 2 1 9 11.1 0 1 0.0 0 0 - 0 3 3 2 1 0 0 0 -4
+p561
+aVChucky Atkins DET 12/22/2001 DET @ SEA L 23 15 6 10 60.0 1 1 100.0 2 2 100.0 0 1 1 3 1 0 3 1 -18
+p562
+aVDamon Jones DET 12/22/2001 DET @ SEA L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -15
+p563
+aVJon Barry DET 12/22/2001 DET @ SEA L 26 12 4 7 57.1 3 3 100.0 1 1 100.0 2 1 3 1 0 0 2 2 -28
+p564
+aVDana Barros DET 12/21/2001 DET @ POR L 23 10 4 9 44.4 1 3 33.3 1 2 50.0 0 4 4 3 2 0 2 3 4
+p565
+aVZeljko Rebraca DET 12/21/2001 DET @ POR L 12 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 0 0 1 3 3 -6
+p566
+aVMichael Curry DET 12/21/2001 DET @ POR L 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -6
+p567
+aVBen Wallace DET 12/21/2001 DET @ POR L 45 3 1 5 20.0 0 0 - 1 2 50.0 4 6 10 1 2 2 0 4 2
+p568
+aVChucky Atkins DET 12/21/2001 DET @ POR L 25 5 2 7 28.6 1 5 20.0 0 0 - 0 2 2 3 0 0 1 3 -6
+p569
+aVCorliss Williamson DET 12/21/2001 DET @ POR L 16 14 6 12 50.0 0 0 - 2 2 100.0 2 1 3 1 0 0 1 2 -3
+p570
+aVClifford Robinson DET 12/21/2001 DET @ POR L 39 18 7 14 50.0 2 7 28.6 2 2 100.0 1 4 5 2 1 3 3 3 0
+p571
+aVJon Barry DET 12/21/2001 DET @ POR L 23 3 1 6 16.7 1 5 20.0 0 0 - 0 2 2 3 0 0 0 1 7
+p572
+aVJerry Stackhouse DET 12/21/2001 DET @ POR L 41 23 8 19 42.1 2 8 25.0 5 6 83.3 0 3 3 7 2 0 5 3 -2
+p573
+aVRodney White DET 12/19/2001 DET @ GSW L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 3
+p574
+aVClifford Robinson DET 12/19/2001 DET @ GSW L 31 12 5 17 29.4 2 4 50.0 0 0 - 1 2 3 0 1 0 2 2 -9
+p575
+aVMichael Curry DET 12/19/2001 DET @ GSW L 25 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 1 3 -5
+p576
+aVJon Barry DET 12/19/2001 DET @ GSW L 20 6 3 6 50.0 0 2 0.0 0 0 - 1 0 1 2 1 0 0 1 -12
+p577
+aVBen Wallace DET 12/19/2001 DET @ GSW L 38 10 5 8 62.5 0 0 - 0 2 0.0 4 11 15 1 1 4 0 2 -4
+p578
+aVJerry Stackhouse DET 12/19/2001 DET @ GSW L 36 21 9 23 39.1 0 2 0.0 3 3 100.0 2 0 2 6 1 2 6 3 -10
+p579
+aVMikki Moore DET 12/19/2001 DET @ GSW L 6 2 0 2 0.0 0 0 - 2 2 100.0 3 0 3 0 0 0 1 3 -2
+p580
+aVCorliss Williamson DET 12/19/2001 DET @ GSW L 20 12 4 8 50.0 0 0 - 4 4 100.0 2 2 4 2 0 0 3 4 -11
+p581
+aVZeljko Rebraca DET 12/19/2001 DET @ GSW L 14 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 0 3 3 -4
+p582
+aVDana Barros DET 12/19/2001 DET @ GSW L 30 9 3 7 42.9 2 3 66.7 1 1 100.0 0 6 6 3 1 0 2 2 6
+p583
+aVChucky Atkins DET 12/19/2001 DET @ GSW L 18 8 4 7 57.1 0 1 0.0 0 1 0.0 0 0 0 2 1 0 0 1 -17
+p584
+aVDana Barros DET 12/18/2001 DET @ SAC L 19 10 5 8 62.5 0 1 0.0 0 0 - 0 1 1 4 1 0 1 3 -6
+p585
+aVCorliss Williamson DET 12/18/2001 DET @ SAC L 20 9 4 7 57.1 0 0 - 1 2 50.0 0 7 7 3 2 0 0 2 9
+p586
+aVBen Wallace DET 12/18/2001 DET @ SAC L 33 4 2 6 33.3 0 0 - 0 2 0.0 4 5 9 1 2 4 1 3 -2
+p587
+aVMichael Curry DET 12/18/2001 DET @ SAC L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 3 -6
+p588
+aVJon Barry DET 12/18/2001 DET @ SAC L 28 10 4 8 50.0 1 1 100.0 1 2 50.0 1 3 4 3 1 0 2 5 1
+p589
+aVClifford Robinson DET 12/18/2001 DET @ SAC L 37 7 3 13 23.1 1 6 16.7 0 0 - 4 4 8 2 0 2 0 2 -9
+p590
+aVChucky Atkins DET 12/18/2001 DET @ SAC L 29 12 4 7 57.1 3 6 50.0 1 2 50.0 0 0 0 1 0 0 4 2 2
+p591
+aVJerry Stackhouse DET 12/18/2001 DET @ SAC L 42 35 15 30 50.0 0 3 0.0 5 5 100.0 1 4 5 4 2 1 4 4 -12
+p592
+aVZeljko Rebraca DET 12/18/2001 DET @ SAC L 15 9 3 5 60.0 0 0 - 3 4 75.0 2 1 3 1 1 1 2 2 3
+p593
+aVBen Wallace DET 12/16/2001 DET @ LAC L 41 9 3 5 60.0 0 0 - 3 5 60.0 4 10 14 2 6 4 4 3 2
+p594
+aVZeljko Rebraca DET 12/16/2001 DET @ LAC L 14 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -3
+p595
+aVCorliss Williamson DET 12/16/2001 DET @ LAC L 21 15 5 13 38.5 0 0 - 5 6 83.3 3 2 5 2 0 0 2 3 -6
+p596
+aVJerry Stackhouse DET 12/16/2001 DET @ LAC L 38 26 10 27 37.0 1 7 14.3 5 6 83.3 0 2 2 2 1 1 1 1 2
+p597
+aVClifford Robinson DET 12/16/2001 DET @ LAC L 36 10 4 15 26.7 2 3 66.7 0 0 - 1 8 9 2 0 2 2 4 -4
+p598
+aVMichael Curry DET 12/16/2001 DET @ LAC L 27 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 0 1 0 1 5 -3
+p599
+aVDamon Jones DET 12/16/2001 DET @ LAC L 15 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -5
+p600
+aVChucky Atkins DET 12/16/2001 DET @ LAC L 33 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 4 0 0 0 1 0
+p601
+aVJon Barry DET 12/16/2001 DET @ LAC L 16 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 3 0 1 2 -8
+p602
+aVCorliss Williamson DET 12/13/2001 DET vs. NYK W 29 24 10 15 66.7 0 0 - 4 5 80.0 2 4 6 3 2 0 4 4 1
+p603
+aVBen Wallace DET 12/13/2001 DET vs. NYK W 33 12 6 7 85.7 0 0 - 0 0 - 4 9 13 1 1 2 0 3 -4
+p604
+aVDamon Jones DET 12/13/2001 DET vs. NYK W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p605
+aVClifford Robinson DET 12/13/2001 DET vs. NYK W 36 12 3 13 23.1 2 5 40.0 4 5 80.0 0 0 0 3 0 3 1 2 3
+p606
+aVJon Barry DET 12/13/2001 DET vs. NYK W 28 8 2 7 28.6 2 6 33.3 2 2 100.0 3 3 6 2 0 2 1 3 -2
+p607
+aVJerry Stackhouse DET 12/13/2001 DET vs. NYK W 41 19 4 11 36.4 1 3 33.3 10 11 90.9 0 6 6 13 0 2 3 2 4
+p608
+aVChucky Atkins DET 12/13/2001 DET vs. NYK W 38 12 4 14 28.6 4 10 40.0 0 0 - 0 3 3 0 0 0 2 2 0
+p609
+aVMichael Curry DET 12/13/2001 DET vs. NYK W 17 6 3 7 42.9 0 0 - 0 0 - 1 0 1 1 0 0 1 4 3
+p610
+aVZeljko Rebraca DET 12/13/2001 DET vs. NYK W 15 2 0 1 0.0 0 0 - 2 2 100.0 2 4 6 0 0 1 2 2 5
+p611
+aVJon Barry DET 12/09/2001 DET vs. HOU W 32 15 6 9 66.7 2 5 40.0 1 1 100.0 1 2 3 7 3 0 1 3 29
+p612
+aVBen Wallace DET 12/09/2001 DET vs. HOU W 42 10 5 11 45.5 0 0 - 0 1 0.0 5 13 18 2 3 4 0 2 22
+p613
+aVCorliss Williamson DET 12/09/2001 DET vs. HOU W 17 14 5 11 45.5 0 0 - 4 5 80.0 2 5 7 0 0 0 1 4 15
+p614
+aVDamon Jones DET 12/09/2001 DET vs. HOU W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 3 -5
+p615
+aVRodney White DET 12/09/2001 DET vs. HOU W 12 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 2 1 1 3 0 2
+p616
+aVDana Barros DET 12/09/2001 DET vs. HOU W 18 9 3 7 42.9 0 3 0.0 3 3 100.0 0 2 2 2 1 0 2 0 9
+p617
+aVZeljko Rebraca DET 12/09/2001 DET vs. HOU W 17 12 6 10 60.0 0 0 - 0 0 - 2 2 4 2 0 2 1 4 22
+p618
+aVMikki Moore DET 12/09/2001 DET vs. HOU W 8 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 2 1 1 -5
+p619
+aVClifford Robinson DET 12/09/2001 DET vs. HOU W 28 11 4 11 36.4 1 2 50.0 2 2 100.0 1 4 5 3 4 0 5 2 15
+p620
+aVChucky Atkins DET 12/09/2001 DET vs. HOU W 30 11 5 8 62.5 0 2 0.0 1 2 50.0 0 0 0 6 2 0 2 0 19
+p621
+aVMichael Curry DET 12/09/2001 DET vs. HOU W 28 12 4 4 100.0 0 0 - 4 4 100.0 0 0 0 2 0 0 0 0 17
+p622
+aVDamon Jones DET 12/05/2001 DET vs. SEA W 13 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 0 0 3
+p623
+aVJon Barry DET 12/05/2001 DET vs. SEA W 25 11 4 12 33.3 1 6 16.7 2 2 100.0 2 1 3 1 1 0 1 1 12
+p624
+aVMichael Curry DET 12/05/2001 DET vs. SEA W 29 7 3 3 100.0 0 0 - 1 2 50.0 0 4 4 2 0 0 3 2 -4
+p625
+aVChucky Atkins DET 12/05/2001 DET vs. SEA W 35 23 7 13 53.8 6 10 60.0 3 4 75.0 0 2 2 1 1 0 2 3 0
+p626
+aVClifford Robinson DET 12/05/2001 DET vs. SEA W 35 5 2 11 18.2 0 2 0.0 1 2 50.0 1 6 7 0 2 2 0 6 -11
+p627
+aVBen Wallace DET 12/05/2001 DET vs. SEA W 24 6 3 5 60.0 0 0 - 0 2 0.0 3 4 7 0 1 0 2 0 6
+p628
+aVJerry Stackhouse DET 12/05/2001 DET vs. SEA W 38 19 5 15 33.3 1 11 9.1 8 9 88.9 1 3 4 11 2 1 3 0 6
+p629
+aVZeljko Rebraca DET 12/05/2001 DET vs. SEA W 15 4 0 3 0.0 0 0 - 4 4 100.0 1 1 2 1 0 2 0 3 0
+p630
+aVCorliss Williamson DET 12/05/2001 DET vs. SEA W 27 17 7 11 63.6 0 0 - 3 4 75.0 1 6 7 0 2 0 1 4 8
+p631
+aVDamon Jones DET 12/04/2001 DET @ CLE L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 2 10
+p632
+aVZeljko Rebraca DET 12/04/2001 DET @ CLE L 20 9 4 9 44.4 0 0 - 1 2 50.0 4 3 7 0 0 0 2 3 4
+p633
+aVChucky Atkins DET 12/04/2001 DET @ CLE L 32 16 6 13 46.2 4 9 44.4 0 0 - 0 2 2 10 3 0 0 6 -22
+p634
+aVMichael Curry DET 12/04/2001 DET @ CLE L 17 0 0 0 - 0 0 - 0 0 - 0 3 3 1 1 0 1 4 -4
+p635
+aVJon Barry DET 12/04/2001 DET @ CLE L 26 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 5 1 0 1 1 2
+p636
+aVCorliss Williamson DET 12/04/2001 DET @ CLE L 27 19 8 12 66.7 0 0 - 3 3 100.0 1 3 4 1 0 0 1 3 -2
+p637
+aVJerry Stackhouse DET 12/04/2001 DET @ CLE L 34 14 5 21 23.8 1 4 25.0 3 3 100.0 2 2 4 3 2 0 4 1 -19
+p638
+aVBen Wallace DET 12/04/2001 DET @ CLE L 30 5 2 4 50.0 0 0 - 1 4 25.0 3 3 6 0 2 4 0 3 -12
+p639
+aVClifford Robinson DET 12/04/2001 DET @ CLE L 39 17 7 19 36.8 3 7 42.9 0 0 - 0 4 4 4 0 0 2 2 -17
+p640
+aVBen Wallace DET 12/01/2001 DET @ NYK W 26 0 0 3 0.0 0 0 - 0 0 - 2 7 9 0 1 2 1 1 -5
+p641
+aVClifford Robinson DET 12/01/2001 DET @ NYK W 39 18 8 18 44.4 1 5 20.0 1 1 100.0 2 5 7 2 0 0 1 5 4
+p642
+aVJerry Stackhouse DET 12/01/2001 DET @ NYK W 44 25 9 22 40.9 1 6 16.7 6 7 85.7 1 6 7 9 2 0 3 3 3
+p643
+aVMichael Curry DET 12/01/2001 DET @ NYK W 25 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 2 0 0 1 4 -8
+p644
+aVJon Barry DET 12/01/2001 DET @ NYK W 17 7 2 2 100.0 2 2 100.0 1 1 100.0 0 1 1 2 1 0 0 1 20
+p645
+aVCorliss Williamson DET 12/01/2001 DET @ NYK W 17 5 2 7 28.6 0 0 - 1 1 100.0 0 1 1 1 0 0 1 3 -7
+p646
+aVChucky Atkins DET 12/01/2001 DET @ NYK W 33 20 7 11 63.6 5 8 62.5 1 1 100.0 2 2 4 5 1 0 2 5 20
+p647
+aVZeljko Rebraca DET 12/01/2001 DET @ NYK W 24 17 3 5 60.0 0 0 - 11 14 78.6 2 2 4 0 0 1 2 5 5
+p648
+aVDamon Jones DET 12/01/2001 DET @ NYK W 15 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 1 1 0 1 1 -17
+p649
+aVMikki Moore DET 11/30/2001 DET @ CHH W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 2 2
+p650
+aVJon Barry DET 11/30/2001 DET @ CHH W 21 2 0 2 0.0 0 0 - 2 3 66.7 0 2 2 5 2 0 1 1 1
+p651
+aVDamon Jones DET 11/30/2001 DET @ CHH W 6 3 1 4 25.0 1 3 33.3 0 2 0.0 0 1 1 1 0 0 0 1 2
+p652
+aVCorliss Williamson DET 11/30/2001 DET @ CHH W 22 19 8 10 80.0 0 0 - 3 4 75.0 0 3 3 1 0 0 3 1 7
+p653
+aVBen Wallace DET 11/30/2001 DET @ CHH W 33 8 3 4 75.0 0 0 - 2 2 100.0 2 11 13 0 0 5 0 5 5
+p654
+aVChucky Atkins DET 11/30/2001 DET @ CHH W 42 24 9 14 64.3 3 5 60.0 3 4 75.0 1 0 1 9 2 0 0 3 3
+p655
+aVClifford Robinson DET 11/30/2001 DET @ CHH W 37 7 2 6 33.3 2 3 66.7 1 2 50.0 0 4 4 2 1 0 2 3 0
+p656
+aVJerry Stackhouse DET 11/30/2001 DET @ CHH W 35 31 8 20 40.0 3 6 50.0 12 14 85.7 2 2 4 4 1 0 4 4 12
+p657
+aVMichael Curry DET 11/30/2001 DET @ CHH W 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -8
+p658
+aVZeljko Rebraca DET 11/30/2001 DET @ CHH W 20 12 6 8 75.0 0 0 - 0 0 - 0 3 3 1 0 2 0 2 1
+p659
+aVCorliss Williamson DET 11/28/2001 DET vs. CHH L 20 4 2 7 28.6 0 0 - 0 0 - 1 1 2 2 3 0 2 3 3
+p660
+aVBen Wallace DET 11/28/2001 DET vs. CHH L 38 6 3 4 75.0 0 0 - 0 0 - 3 6 9 1 0 2 2 0 -13
+p661
+aVMichael Curry DET 11/28/2001 DET vs. CHH L 22 6 3 4 75.0 0 0 - 0 0 - 0 0 0 2 1 0 0 4 2
+p662
+aVClifford Robinson DET 11/28/2001 DET vs. CHH L 42 18 8 20 40.0 2 6 33.3 0 0 - 1 0 1 3 3 0 2 6 -5
+p663
+aVDamon Jones DET 11/28/2001 DET vs. CHH L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p664
+aVZeljko Rebraca DET 11/28/2001 DET vs. CHH L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 3 0 4 2
+p665
+aVJerry Stackhouse DET 11/28/2001 DET vs. CHH L 32 26 8 13 61.5 2 5 40.0 8 10 80.0 0 1 1 3 1 1 8 3 -8
+p666
+aVChucky Atkins DET 11/28/2001 DET vs. CHH L 42 25 9 16 56.3 6 10 60.0 1 2 50.0 0 3 3 6 0 1 1 2 4
+p667
+aVJon Barry DET 11/28/2001 DET vs. CHH L 24 9 2 2 100.0 1 1 100.0 4 4 100.0 0 0 0 3 1 0 0 3 -13
+p668
+aVDana Barros DET 11/28/2001 DET vs. CHH L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p669
+aVZeljko Rebraca DET 11/26/2001 DET @ ORL W 20 11 5 7 71.4 0 0 - 1 2 50.0 3 2 5 1 2 2 1 3 6
+p670
+aVJon Barry DET 11/26/2001 DET @ ORL W 37 14 6 11 54.5 2 5 40.0 0 0 - 0 3 3 3 0 0 2 1 8
+p671
+aVMikki Moore DET 11/26/2001 DET @ ORL W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -1
+p672
+aVMichael Curry DET 11/26/2001 DET @ ORL W 36 5 1 5 20.0 0 1 0.0 3 4 75.0 0 3 3 2 0 1 1 3 -7
+p673
+aVDana Barros DET 11/26/2001 DET @ ORL W 21 12 2 7 28.6 0 2 0.0 8 9 88.9 0 1 1 3 0 0 1 1 7
+p674
+aVCorliss Williamson DET 11/26/2001 DET @ ORL W 25 17 8 12 66.7 0 0 - 1 3 33.3 4 4 8 4 0 0 3 4 5
+p675
+aVBen Wallace DET 11/26/2001 DET @ ORL W 28 4 2 3 66.7 0 0 - 0 2 0.0 1 9 10 0 1 2 1 2 0
+p676
+aVClifford Robinson DET 11/26/2001 DET @ ORL W 44 30 10 19 52.6 1 6 16.7 9 10 90.0 2 8 10 4 1 3 8 1 8
+p677
+aVChucky Atkins DET 11/26/2001 DET @ ORL W 28 11 4 6 66.7 3 5 60.0 0 0 - 0 2 2 4 1 0 2 5 -1
+p678
+aVZeljko Rebraca DET 11/24/2001 DET vs. MEM W 18 10 4 7 57.1 0 0 - 2 3 66.7 0 2 2 1 1 0 4 2 -5
+p679
+aVBen Wallace DET 11/24/2001 DET vs. MEM W 36 4 2 8 25.0 0 0 - 0 2 0.0 4 7 11 0 2 4 0 2 20
+p680
+aVClifford Robinson DET 11/24/2001 DET vs. MEM W 36 23 10 20 50.0 1 2 50.0 2 2 100.0 1 4 5 4 0 3 1 4 4
+p681
+aVChucky Atkins DET 11/24/2001 DET vs. MEM W 24 9 3 7 42.9 1 4 25.0 2 5 40.0 0 1 1 5 0 0 1 1 5
+p682
+aVDana Barros DET 11/24/2001 DET vs. MEM W 24 14 5 8 62.5 1 1 100.0 3 4 75.0 0 4 4 2 0 0 3 1 2
+p683
+aVJon Barry DET 11/24/2001 DET vs. MEM W 42 15 5 6 83.3 0 1 0.0 5 7 71.4 0 7 7 3 3 0 3 1 8
+p684
+aVRodney White DET 11/24/2001 DET vs. MEM W 18 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 2 0 0 2 2 1
+p685
+aVMikki Moore DET 11/24/2001 DET vs. MEM W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p686
+aVMichael Curry DET 11/24/2001 DET vs. MEM W 36 10 3 11 27.3 0 1 0.0 4 4 100.0 0 2 2 1 1 0 2 3 5
+p687
+aVClifford Robinson DET 11/23/2001 DET @ ATL L 41 14 5 17 29.4 1 2 50.0 3 5 60.0 3 7 10 3 1 2 2 1 -3
+p688
+aVZeljko Rebraca DET 11/23/2001 DET @ ATL L 19 10 4 10 40.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 1 -6
+p689
+aVMichael Curry DET 11/23/2001 DET @ ATL L 35 10 4 7 57.1 0 0 - 2 3 66.7 0 2 2 2 2 0 3 2 -7
+p690
+aVCorliss Williamson DET 11/23/2001 DET @ ATL L 22 14 7 10 70.0 0 0 - 0 0 - 1 0 1 5 0 1 3 3 -6
+p691
+aVJon Barry DET 11/23/2001 DET @ ATL L 40 25 7 11 63.6 5 6 83.3 6 7 85.7 1 1 2 3 2 0 1 2 -6
+p692
+aVDamon Jones DET 11/23/2001 DET @ ATL L 13 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 1 0 0
+p693
+aVDana Barros DET 11/23/2001 DET @ ATL L 35 8 4 9 44.4 0 2 0.0 0 1 0.0 0 2 2 4 0 0 3 3 -9
+p694
+aVBen Wallace DET 11/23/2001 DET @ ATL L 35 15 7 10 70.0 0 0 - 1 5 20.0 6 4 10 3 3 2 3 4 2
+p695
+aVBen Wallace DET 11/21/2001 DET @ PHI L 40 9 4 7 57.1 0 0 - 1 2 50.0 1 11 12 0 2 6 0 6 0
+p696
+aVClifford Robinson DET 11/21/2001 DET @ PHI L 45 35 10 21 47.6 3 7 42.9 12 14 85.7 1 4 5 4 2 0 3 3 -2
+p697
+aVJon Barry DET 11/21/2001 DET @ PHI L 35 14 5 8 62.5 3 5 60.0 1 1 100.0 0 3 3 3 1 0 2 4 5
+p698
+aVDana Barros DET 11/21/2001 DET @ PHI L 35 8 4 13 30.8 0 4 0.0 0 1 0.0 0 0 0 6 0 0 1 2 4
+p699
+aVCorliss Williamson DET 11/21/2001 DET @ PHI L 19 9 3 7 42.9 0 0 - 3 4 75.0 1 3 4 1 0 0 2 1 -13
+p700
+aVDamon Jones DET 11/21/2001 DET @ PHI L 14 2 1 8 12.5 0 4 0.0 0 1 0.0 0 2 2 4 1 0 2 3 -11
+p701
+aVZeljko Rebraca DET 11/21/2001 DET @ PHI L 11 8 3 4 75.0 0 0 - 2 2 100.0 2 1 3 0 0 1 0 5 -4
+p702
+aVMichael Curry DET 11/21/2001 DET @ PHI L 21 0 0 1 0.0 0 0 - 0 1 0.0 0 2 2 2 2 0 0 5 -7
+p703
+aVJerry Stackhouse DET 11/21/2001 DET @ PHI L 20 4 2 9 22.2 0 2 0.0 0 0 - 1 3 4 3 1 0 0 0 3
+p704
+aVDana Barros DET 11/20/2001 DET @ TOR W 25 3 1 10 10.0 1 5 20.0 0 0 - 0 1 1 7 1 0 0 3 5
+p705
+aVBen Wallace DET 11/20/2001 DET @ TOR W 38 13 6 8 75.0 0 0 - 1 3 33.3 5 8 13 0 3 3 0 2 4
+p706
+aVMichael Curry DET 11/20/2001 DET @ TOR W 29 4 2 3 66.7 0 0 - 0 0 - 0 6 6 0 1 0 1 4 -2
+p707
+aVZeljko Rebraca DET 11/20/2001 DET @ TOR W 20 10 5 10 50.0 0 0 - 0 0 - 2 2 4 1 1 2 2 1 3
+p708
+aVClifford Robinson DET 11/20/2001 DET @ TOR W 35 22 9 17 52.9 2 4 50.0 2 2 100.0 3 2 5 2 0 0 1 3 -3
+p709
+aVJon Barry DET 11/20/2001 DET @ TOR W 20 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 3 5
+p710
+aVDamon Jones DET 11/20/2001 DET @ TOR W 22 6 2 6 33.3 2 3 66.7 0 0 - 0 3 3 2 0 0 0 1 -3
+p711
+aVJerry Stackhouse DET 11/20/2001 DET @ TOR W 36 19 5 20 25.0 1 3 33.3 8 10 80.0 0 4 4 6 0 1 2 0 4
+p712
+aVMikki Moore DET 11/20/2001 DET @ TOR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 4
+p713
+aVCorliss Williamson DET 11/20/2001 DET @ TOR W 12 6 3 6 50.0 0 0 - 0 0 - 2 3 5 3 0 0 0 0 3
+p714
+aVBen Wallace DET 11/17/2001 DET vs. IND W 14 8 3 3 100.0 0 0 - 2 5 40.0 1 7 8 0 0 1 1 0 6
+p715
+aVClifford Robinson DET 11/17/2001 DET vs. IND W 39 11 5 12 41.7 0 2 0.0 1 2 50.0 1 2 3 3 2 0 3 1 2
+p716
+aVDana Barros DET 11/17/2001 DET vs. IND W 22 10 4 10 40.0 2 3 66.7 0 0 - 0 2 2 2 0 0 0 1 0
+p717
+aVZeljko Rebraca DET 11/17/2001 DET vs. IND W 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 3 3 -6
+p718
+aVChucky Atkins DET 11/17/2001 DET vs. IND W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p719
+aVJerry Stackhouse DET 11/17/2001 DET vs. IND W 43 18 5 12 41.7 0 3 0.0 8 9 88.9 2 6 8 6 1 0 3 2 7
+p720
+aVMichael Curry DET 11/17/2001 DET vs. IND W 28 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 2 1 0 0 2 0
+p721
+aVJon Barry DET 11/17/2001 DET vs. IND W 24 14 4 9 44.4 2 4 50.0 4 4 100.0 1 3 4 3 1 0 1 2 2
+p722
+aVDamon Jones DET 11/17/2001 DET vs. IND W 20 16 5 8 62.5 4 6 66.7 2 2 100.0 0 1 1 2 0 0 1 3 5
+p723
+aVMikki Moore DET 11/17/2001 DET vs. IND W 13 5 2 7 28.6 0 0 - 1 3 33.3 2 2 4 0 2 0 2 3 4
+p724
+aVCorliss Williamson DET 11/17/2001 DET vs. IND W 25 14 7 13 53.8 0 0 - 0 0 - 0 2 2 1 2 2 2 6 9
+p725
+aVDamon Jones DET 11/15/2001 DET vs. DAL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p726
+aVBen Wallace DET 11/15/2001 DET vs. DAL W 34 10 4 6 66.7 0 0 - 2 3 66.7 1 11 12 1 0 5 1 2 20
+p727
+aVDana Barros DET 11/15/2001 DET vs. DAL W 23 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 3 0 0 0 2 -5
+p728
+aVJerry Stackhouse DET 11/15/2001 DET vs. DAL W 33 28 11 20 55.0 4 6 66.7 2 2 100.0 3 5 8 8 1 2 3 3 11
+p729
+aVChucky Atkins DET 11/15/2001 DET vs. DAL W 23 5 2 7 28.6 1 4 25.0 0 0 - 0 3 3 6 0 0 0 1 26
+p730
+aVRodney White DET 11/15/2001 DET vs. DAL W 10 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 2 0 0 0 12
+p731
+aVJon Barry DET 11/15/2001 DET vs. DAL W 25 10 4 10 40.0 2 6 33.3 0 0 - 2 1 3 4 0 0 2 2 12
+p732
+aVMikki Moore DET 11/15/2001 DET vs. DAL W 3 7 3 3 100.0 0 0 - 1 1 100.0 1 1 2 1 0 0 0 1 5
+p733
+aVZeljko Rebraca DET 11/15/2001 DET vs. DAL W 25 16 7 10 70.0 0 0 - 2 2 100.0 1 7 8 2 0 1 2 3 10
+p734
+aVMichael Curry DET 11/15/2001 DET vs. DAL W 29 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 3 0 0 0 2 17
+p735
+aVClifford Robinson DET 11/15/2001 DET vs. DAL W 35 24 10 18 55.6 2 5 40.0 2 2 100.0 3 5 8 2 1 1 1 2 17
+p736
+aVChucky Atkins DET 11/11/2001 DET vs. POR L 19 11 4 7 57.1 3 5 60.0 0 0 - 0 0 0 1 0 0 2 2 15
+p737
+aVJerry Stackhouse DET 11/11/2001 DET vs. POR L 37 29 12 25 48.0 3 7 42.9 2 3 66.7 1 2 3 7 0 1 3 1 -5
+p738
+aVJon Barry DET 11/11/2001 DET vs. POR L 24 13 5 7 71.4 3 3 100.0 0 0 - 0 2 2 4 1 1 1 3 4
+p739
+aVBen Wallace DET 11/11/2001 DET vs. POR L 34 2 1 5 20.0 0 0 - 0 0 - 2 7 9 2 3 3 4 2 -5
+p740
+aVZeljko Rebraca DET 11/11/2001 DET vs. POR L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 0 1 1 2 4
+p741
+aVClifford Robinson DET 11/11/2001 DET vs. POR L 42 14 6 12 50.0 2 6 33.3 0 0 - 0 0 0 3 1 1 3 3 -6
+p742
+aVMikki Moore DET 11/11/2001 DET vs. POR L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p743
+aVDana Barros DET 11/11/2001 DET vs. POR L 29 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 5 1 0 2 4 -16
+p744
+aVCorliss Williamson DET 11/11/2001 DET vs. POR L 16 14 5 7 71.4 0 0 - 4 5 80.0 0 2 2 3 2 0 1 2 -1
+p745
+aVMichael Curry DET 11/11/2001 DET vs. POR L 19 2 1 3 33.3 0 0 - 0 0 - 0 5 5 2 0 0 0 2 -2
+p746
+aVClifford Robinson DET 11/07/2001 DET @ CHI W 27 23 7 15 46.7 5 8 62.5 4 4 100.0 1 2 3 1 1 0 0 3 14
+p747
+aVJon Barry DET 11/07/2001 DET @ CHI W 24 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 2 1 0 1 0 10
+p748
+aVBen Wallace DET 11/07/2001 DET @ CHI W 36 11 3 7 42.9 0 0 - 5 8 62.5 3 9 12 2 2 2 1 3 25
+p749
+aVRodney White DET 11/07/2001 DET @ CHI W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p750
+aVCorliss Williamson DET 11/07/2001 DET @ CHI W 10 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 3 3 1
+p751
+aVDana Barros DET 11/07/2001 DET @ CHI W 29 14 6 10 60.0 2 4 50.0 0 0 - 0 4 4 3 0 0 4 1 10
+p752
+aVJerry Stackhouse DET 11/07/2001 DET @ CHI W 39 6 2 8 25.0 0 2 0.0 2 3 66.7 1 4 5 8 3 0 7 3 26
+p753
+aVChucky Atkins DET 11/07/2001 DET @ CHI W 19 8 4 7 57.1 0 2 0.0 0 0 - 0 0 0 2 0 0 1 3 14
+p754
+aVVictor Alexander DET 11/07/2001 DET @ CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 3
+p755
+aVMichael Curry DET 11/07/2001 DET @ CHI W 20 4 2 2 100.0 0 0 - 0 0 - 0 4 4 3 1 1 0 0 11
+p756
+aVZeljko Rebraca DET 11/07/2001 DET @ CHI W 18 15 5 8 62.5 0 0 - 5 7 71.4 3 6 9 0 1 3 1 4 -4
+p757
+aVMikki Moore DET 11/07/2001 DET @ CHI W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 2 1 1 1 3 7
+p758
+aVBen Wallace DET 11/04/2001 DET vs. WAS W 34 4 2 3 66.7 0 0 - 0 0 - 0 12 12 2 1 5 0 1 37
+p759
+aVMichael Curry DET 11/04/2001 DET vs. WAS W 24 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 4 1 0 0 3 21
+p760
+aVDana Barros DET 11/04/2001 DET vs. WAS W 27 17 5 12 41.7 5 8 62.5 2 2 100.0 0 4 4 6 0 0 0 1 30
+p761
+aVClifford Robinson DET 11/04/2001 DET vs. WAS W 24 12 5 11 45.5 2 3 66.7 0 0 - 0 4 4 1 1 0 1 2 22
+p762
+aVZeljko Rebraca DET 11/04/2001 DET vs. WAS W 17 5 2 5 40.0 0 0 - 1 2 50.0 0 7 7 0 1 2 2 3 4
+p763
+aVJon Barry DET 11/04/2001 DET vs. WAS W 25 0 0 5 0.0 0 3 0.0 0 0 - 1 3 4 4 0 0 2 0 -1
+p764
+aVRodney White DET 11/04/2001 DET vs. WAS W 12 4 2 8 25.0 0 3 0.0 0 0 - 0 1 1 0 1 0 0 2 -12
+p765
+aVChucky Atkins DET 11/04/2001 DET vs. WAS W 21 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 4 0 1 1 3 -8
+p766
+aVMikki Moore DET 11/04/2001 DET vs. WAS W 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -5
+p767
+aVJerry Stackhouse DET 11/04/2001 DET vs. WAS W 27 28 12 17 70.6 2 4 50.0 2 2 100.0 0 4 4 4 0 0 1 2 26
+p768
+aVVictor Alexander DET 11/04/2001 DET vs. WAS W 6 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p769
+aVCorliss Williamson DET 11/04/2001 DET vs. WAS W 16 18 4 6 66.7 0 0 - 10 11 90.9 1 2 3 1 0 0 1 1 -1
+p770
+aVCorliss Williamson DET 11/02/2001 DET vs. NJN W 19 12 3 7 42.9 0 0 - 6 7 85.7 2 2 4 2 2 0 4 4 11
+p771
+aVJerry Stackhouse DET 11/02/2001 DET vs. NJN W 33 24 5 13 38.5 1 4 25.0 13 17 76.5 1 3 4 4 2 2 4 4 9
+p772
+aVMichael Curry DET 11/02/2001 DET vs. NJN W 27 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 1 1 0 0 1 2
+p773
+aVJon Barry DET 11/02/2001 DET vs. NJN W 17 7 3 4 75.0 1 1 100.0 0 0 - 0 5 5 2 1 0 3 1 6
+p774
+aVChucky Atkins DET 11/02/2001 DET vs. NJN W 22 15 6 7 85.7 2 2 100.0 1 2 50.0 0 1 1 3 2 0 0 1 10
+p775
+aVClifford Robinson DET 11/02/2001 DET vs. NJN W 38 18 8 15 53.3 1 4 25.0 1 2 50.0 0 4 4 1 3 2 2 0 12
+p776
+aVDana Barros DET 11/02/2001 DET vs. NJN W 26 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 5 1 0 2 2 4
+p777
+aVZeljko Rebraca DET 11/02/2001 DET vs. NJN W 18 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 3 0 2 0 2 6
+p778
+aVBen Wallace DET 11/02/2001 DET vs. NJN W 40 10 4 5 80.0 0 0 - 2 2 100.0 2 8 10 0 2 3 1 4 10
+p779
+aVRodney White DET 11/01/2001 DET @ MEM W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -2
+p780
+aVMikki Moore DET 11/01/2001 DET @ MEM W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 3
+p781
+aVJerry Stackhouse DET 11/01/2001 DET @ MEM W 40 34 12 29 41.4 1 4 25.0 9 9 100.0 1 2 3 2 1 0 2 2 9
+p782
+aVBen Wallace DET 11/01/2001 DET @ MEM W 37 4 2 2 100.0 0 0 - 0 0 - 1 10 11 1 5 6 2 4 8
+p783
+aVMichael Curry DET 11/01/2001 DET @ MEM W 24 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 3 0 0 0 1 7
+p784
+aVClifford Robinson DET 11/01/2001 DET @ MEM W 41 24 9 18 50.0 3 6 50.0 3 3 100.0 1 7 8 1 3 2 3 4 7
+p785
+aVZeljko Rebraca DET 11/01/2001 DET @ MEM W 13 6 3 5 60.0 0 0 - 0 0 - 3 3 6 0 0 0 2 5 0
+p786
+aVChucky Atkins DET 11/01/2001 DET @ MEM W 17 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 4 1 0 1 1 0
+p787
+aVJon Barry DET 11/01/2001 DET @ MEM W 27 7 2 4 50.0 1 3 33.3 2 2 100.0 0 3 3 4 1 1 3 4 8
+p788
+aVDana Barros DET 11/01/2001 DET @ MEM W 31 11 5 11 45.5 1 3 33.3 0 0 - 0 2 2 6 0 0 1 3 10
+p789
+aVBen Wallace DET 10/30/2001 DET @ DAL L 32 6 3 8 37.5 0 0 - 0 0 - 3 9 12 0 1 3 2 2 4
+p790
+aVDana Barros DET 10/30/2001 DET @ DAL L 27 9 3 4 75.0 1 1 100.0 2 2 100.0 0 7 7 3 0 0 0 0 3
+p791
+aVJon Barry DET 10/30/2001 DET @ DAL L 22 8 2 8 25.0 2 5 40.0 2 2 100.0 1 3 4 3 1 0 3 0 -9
+p792
+aVMikki Moore DET 10/30/2001 DET @ DAL L 14 6 3 6 50.0 0 0 - 0 0 - 2 1 3 0 1 0 0 3 -12
+p793
+aVClifford Robinson DET 10/30/2001 DET @ DAL L 36 7 2 9 22.2 1 3 33.3 2 2 100.0 2 0 2 0 1 0 1 3 -7
+p794
+aVZeljko Rebraca DET 10/30/2001 DET @ DAL L 17 6 3 6 50.0 0 0 - 0 0 - 5 5 10 1 0 1 3 3 1
+p795
+aVChucky Atkins DET 10/30/2001 DET @ DAL L 21 6 3 11 27.3 0 3 0.0 0 0 - 0 1 1 4 1 0 2 2 -10
+p796
+aVMichael Curry DET 10/30/2001 DET @ DAL L 27 12 4 7 57.1 1 1 100.0 3 4 75.0 0 2 2 3 1 0 0 3 -2
+p797
+aVJerry Stackhouse DET 10/30/2001 DET @ DAL L 44 27 7 19 36.8 1 4 25.0 12 14 85.7 3 5 8 6 0 0 5 4 -3
+p798
+a.

@@ -1,0 +1,1708 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPeja Stojakovic SAC 04/19/2000 SAC @ UTA L 13 11 4 8 50.0 3 4 75.0 0 0 - 0 0 0 2 1 0 3 0 18
+p2
+aVRyan Robertson SAC 04/19/2000 SAC @ UTA L 25 5 2 6 33.3 0 2 0.0 1 1 100.0 0 0 0 0 0 0 0 0 -15
+p3
+aVCorliss Williamson SAC 04/19/2000 SAC @ UTA L 20 5 1 6 16.7 0 0 - 3 4 75.0 3 1 4 3 0 0 5 4 -15
+p4
+aVLawrence Funderburke SAC 04/19/2000 SAC @ UTA L 30 14 6 11 54.5 0 0 - 2 4 50.0 4 0 4 0 1 2 2 1 4
+p5
+aVVlade Divac SAC 04/19/2000 SAC @ UTA L 19 7 3 7 42.9 0 1 0.0 1 2 50.0 1 9 10 3 2 1 2 1 -8
+p6
+aVTyrone Corbin SAC 04/19/2000 SAC @ UTA L 21 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 1 0 4 2 0
+p7
+aVDarrick Martin SAC 04/19/2000 SAC @ UTA L 32 16 3 6 50.0 1 3 33.3 9 11 81.8 0 1 1 4 1 0 2 2 0
+p8
+aVScot Pollard SAC 04/19/2000 SAC @ UTA L 18 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -13
+p9
+aVBill Wennington SAC 04/19/2000 SAC @ UTA L 29 2 1 9 11.1 0 0 - 0 0 - 2 8 10 0 1 1 0 4 -1
+p10
+aVJason Williams SAC 04/19/2000 SAC @ UTA L 12 2 1 6 16.7 0 4 0.0 0 0 - 0 0 0 0 0 0 2 2 -3
+p11
+aVJon Barry SAC 04/19/2000 SAC @ UTA L 21 12 5 7 71.4 2 2 100.0 0 0 - 0 3 3 2 1 0 1 2 -12
+p12
+aVScot Pollard SAC 04/18/2000 SAC vs. SEA L 28 6 3 7 42.9 0 0 - 0 0 - 6 5 11 0 1 3 0 4 6
+p13
+aVPeja Stojakovic SAC 04/18/2000 SAC vs. SEA L 34 20 8 14 57.1 2 5 40.0 2 2 100.0 1 3 4 1 0 0 3 4 8
+p14
+aVCorliss Williamson SAC 04/18/2000 SAC vs. SEA L 19 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 1 1 0 1 2 -15
+p15
+aVNick Anderson SAC 04/18/2000 SAC vs. SEA L 33 11 4 12 33.3 3 6 50.0 0 0 - 1 7 8 0 1 1 2 1 -3
+p16
+aVJason Williams SAC 04/18/2000 SAC vs. SEA L 39 23 8 16 50.0 7 12 58.3 0 0 - 0 2 2 5 1 0 3 2 -16
+p17
+aVChris Webber SAC 04/18/2000 SAC vs. SEA L 49 23 8 26 30.8 0 0 - 7 8 87.5 4 6 10 13 2 2 6 4 -9
+p18
+aVTyrone Corbin SAC 04/18/2000 SAC vs. SEA L 23 4 1 1 100.0 0 0 - 2 2 100.0 1 5 6 2 0 0 0 2 -3
+p19
+aVVlade Divac SAC 04/18/2000 SAC vs. SEA L 22 6 2 3 66.7 0 0 - 2 4 50.0 1 5 6 0 1 2 3 1 -8
+p20
+aVTony Delk SAC 04/18/2000 SAC vs. SEA L 18 9 4 12 33.3 1 1 100.0 0 0 - 0 2 2 2 0 0 2 1 5
+p21
+aVVlade Divac SAC 04/16/2000 SAC @ POR L 34 11 4 13 30.8 0 1 0.0 3 3 100.0 2 12 14 1 1 0 1 5 0
+p22
+aVScot Pollard SAC 04/16/2000 SAC @ POR L 16 7 3 4 75.0 0 0 - 1 1 100.0 2 1 3 1 1 2 1 3 -7
+p23
+aVCorliss Williamson SAC 04/16/2000 SAC @ POR L 19 9 4 11 36.4 0 0 - 1 2 50.0 0 1 1 1 0 1 1 2 -10
+p24
+aVTony Delk SAC 04/16/2000 SAC @ POR L 11 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 3
+p25
+aVNick Anderson SAC 04/16/2000 SAC @ POR L 36 12 5 13 38.5 2 5 40.0 0 2 0.0 1 5 6 2 0 0 1 2 -6
+p26
+aVChris Webber SAC 04/16/2000 SAC @ POR L 46 21 8 20 40.0 0 0 - 5 8 62.5 0 5 5 8 1 2 1 2 -8
+p27
+aVJon Barry SAC 04/16/2000 SAC @ POR L 12 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 0 -1
+p28
+aVPeja Stojakovic SAC 04/16/2000 SAC @ POR L 29 18 6 10 60.0 0 1 0.0 6 6 100.0 4 5 9 2 2 0 2 3 3
+p29
+aVJason Williams SAC 04/16/2000 SAC @ POR L 38 15 6 9 66.7 3 6 50.0 0 1 0.0 0 2 2 6 1 1 0 1 -9
+p30
+aVPeja Stojakovic SAC 04/14/2000 SAC @ LAL L 29 20 6 14 42.9 1 4 25.0 7 7 100.0 2 4 6 1 1 1 1 1 -1
+p31
+aVJon Barry SAC 04/14/2000 SAC @ LAL L 17 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 2 2 0
+p32
+aVJason Williams SAC 04/14/2000 SAC @ LAL L 26 4 2 8 25.0 0 4 0.0 0 0 - 1 0 1 9 0 0 3 3 -9
+p33
+aVScot Pollard SAC 04/14/2000 SAC @ LAL L 14 6 2 2 100.0 0 0 - 2 2 100.0 1 3 4 0 0 1 0 4 -2
+p34
+aVVlade Divac SAC 04/14/2000 SAC @ LAL L 26 9 4 7 57.1 1 2 50.0 0 2 0.0 0 4 4 2 2 0 3 5 -7
+p35
+aVCorliss Williamson SAC 04/14/2000 SAC @ LAL L 19 4 2 4 50.0 0 0 - 0 2 0.0 0 2 2 0 0 1 0 0 -6
+p36
+aVChris Webber SAC 04/14/2000 SAC @ LAL L 43 36 15 26 57.7 0 2 0.0 6 8 75.0 2 8 10 3 3 0 3 3 -3
+p37
+aVLawrence Funderburke SAC 04/14/2000 SAC @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p38
+aVNick Anderson SAC 04/14/2000 SAC @ LAL L 31 22 7 14 50.0 3 6 50.0 5 6 83.3 4 2 6 3 2 1 3 2 -7
+p39
+aVTyrone Corbin SAC 04/14/2000 SAC @ LAL L 7 2 0 4 0.0 0 2 0.0 2 2 100.0 1 0 1 0 0 0 0 1 2
+p40
+aVTony Delk SAC 04/14/2000 SAC @ LAL L 22 11 4 11 36.4 0 0 - 3 4 75.0 3 0 3 1 4 0 1 0 2
+p41
+aVVlade Divac SAC 04/13/2000 SAC vs. GSW W 24 15 6 7 85.7 0 0 - 3 5 60.0 3 8 11 2 0 1 5 2 22
+p42
+aVScot Pollard SAC 04/13/2000 SAC vs. GSW W 24 9 3 3 100.0 0 0 - 3 5 60.0 1 4 5 1 2 0 1 5 1
+p43
+aVCorliss Williamson SAC 04/13/2000 SAC vs. GSW W 21 11 3 7 42.9 0 0 - 5 6 83.3 1 1 2 3 0 0 1 2 13
+p44
+aVNick Anderson SAC 04/13/2000 SAC vs. GSW W 24 13 4 10 40.0 0 2 0.0 5 8 62.5 0 5 5 3 2 0 1 0 27
+p45
+aVTyrone Corbin SAC 04/13/2000 SAC vs. GSW W 16 10 4 6 66.7 1 2 50.0 1 2 50.0 1 3 4 4 1 0 0 2 12
+p46
+aVDarrick Martin SAC 04/13/2000 SAC vs. GSW W 6 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 2 0 0 1 2 1
+p47
+aVPeja Stojakovic SAC 04/13/2000 SAC vs. GSW W 19 13 4 10 40.0 2 4 50.0 3 3 100.0 0 3 3 5 0 0 0 0 -5
+p48
+aVJon Barry SAC 04/13/2000 SAC vs. GSW W 11 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 1 0 3 6 -2
+p49
+aVJason Williams SAC 04/13/2000 SAC vs. GSW W 29 8 4 8 50.0 0 3 0.0 0 0 - 0 2 2 5 2 0 2 1 21
+p50
+aVTony Delk SAC 04/13/2000 SAC vs. GSW W 19 12 5 9 55.6 0 2 0.0 2 2 100.0 1 0 1 0 0 0 0 4 2
+p51
+aVLawrence Funderburke SAC 04/13/2000 SAC vs. GSW W 16 9 3 3 100.0 0 0 - 3 5 60.0 0 2 2 1 0 0 0 2 0
+p52
+aVChris Webber SAC 04/13/2000 SAC vs. GSW W 32 22 7 10 70.0 0 0 - 8 10 80.0 0 7 7 5 3 3 4 2 23
+p53
+aVPeja Stojakovic SAC 04/11/2000 SAC vs. SAS L 27 14 5 14 35.7 2 5 40.0 2 2 100.0 2 8 10 0 0 0 2 0 -10
+p54
+aVDarrick Martin SAC 04/11/2000 SAC vs. SAS L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p55
+aVVlade Divac SAC 04/11/2000 SAC vs. SAS L 35 17 8 15 53.3 0 1 0.0 1 2 50.0 1 6 7 1 1 1 2 6 9
+p56
+aVJason Williams SAC 04/11/2000 SAC vs. SAS L 48 17 7 11 63.6 2 4 50.0 1 3 33.3 0 3 3 9 3 0 8 0 -1
+p57
+aVChris Webber SAC 04/11/2000 SAC vs. SAS L 42 16 6 12 50.0 0 0 - 4 8 50.0 1 11 12 5 2 3 4 6 2
+p58
+aVNick Anderson SAC 04/11/2000 SAC vs. SAS L 37 16 6 13 46.2 2 6 33.3 2 4 50.0 0 7 7 2 3 0 0 3 4
+p59
+aVLawrence Funderburke SAC 04/11/2000 SAC vs. SAS L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -11
+p60
+aVCorliss Williamson SAC 04/11/2000 SAC vs. SAS L 26 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 2 4
+p61
+aVJon Barry SAC 04/11/2000 SAC vs. SAS L 16 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 2 1 0 1 3 -10
+p62
+aVScot Pollard SAC 04/11/2000 SAC vs. SAS L 18 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 5 -12
+p63
+aVLawrence Funderburke SAC 04/09/2000 SAC vs. PHX L 14 4 1 4 25.0 0 0 - 2 2 100.0 5 1 6 3 0 1 0 2 -5
+p64
+aVVlade Divac SAC 04/09/2000 SAC vs. PHX L 31 16 4 10 40.0 1 1 100.0 7 8 87.5 3 8 11 4 1 0 1 4 3
+p65
+aVDarrick Martin SAC 04/09/2000 SAC vs. PHX L 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 1 -8
+p66
+aVTyrone Corbin SAC 04/09/2000 SAC vs. PHX L 21 3 1 5 20.0 1 2 50.0 0 0 - 1 4 5 2 2 0 1 3 -5
+p67
+aVJason Williams SAC 04/09/2000 SAC vs. PHX L 39 24 9 19 47.4 4 12 33.3 2 4 50.0 0 0 0 3 2 0 4 2 3
+p68
+aVScot Pollard SAC 04/09/2000 SAC vs. PHX L 15 2 1 5 20.0 0 0 - 0 0 - 3 1 4 0 0 1 0 3 -3
+p69
+aVCorliss Williamson SAC 04/09/2000 SAC vs. PHX L 27 13 5 10 50.0 0 0 - 3 4 75.0 4 4 8 0 0 0 1 3 0
+p70
+aVNick Anderson SAC 04/09/2000 SAC vs. PHX L 26 2 1 7 14.3 0 4 0.0 0 0 - 2 2 4 1 0 0 0 2 1
+p71
+aVPeja Stojakovic SAC 04/09/2000 SAC vs. PHX L 22 15 7 14 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 3 1 -6
+p72
+aVChris Webber SAC 04/09/2000 SAC vs. PHX L 36 17 8 23 34.8 0 0 - 1 3 33.3 1 12 13 5 3 1 1 4 -5
+p73
+aVVlade Divac SAC 04/07/2000 SAC vs. MIN L 43 20 8 21 38.1 0 0 - 4 6 66.7 3 9 12 9 1 0 7 1 -5
+p74
+aVScot Pollard SAC 04/07/2000 SAC vs. MIN L 32 11 4 7 57.1 0 0 - 3 3 100.0 5 3 8 0 1 0 1 3 -16
+p75
+aVPeja Stojakovic SAC 04/07/2000 SAC vs. MIN L 46 19 6 20 30.0 2 9 22.2 5 7 71.4 0 9 9 4 1 0 0 1 -8
+p76
+aVTony Delk SAC 04/07/2000 SAC vs. MIN L 18 10 4 10 40.0 0 0 - 2 2 100.0 1 5 6 0 2 1 1 2 14
+p77
+aVCorliss Williamson SAC 04/07/2000 SAC vs. MIN L 19 3 0 6 0.0 0 0 - 3 4 75.0 0 2 2 1 0 0 0 1 -18
+p78
+aVTyrone Corbin SAC 04/07/2000 SAC vs. MIN L 22 4 2 5 40.0 0 0 - 0 0 - 2 4 6 3 3 1 0 6 5
+p79
+aVLawrence Funderburke SAC 04/07/2000 SAC vs. MIN L 16 6 2 7 28.6 0 0 - 2 4 50.0 3 1 4 0 1 0 1 3 15
+p80
+aVDarrick Martin SAC 04/07/2000 SAC vs. MIN L 13 11 3 7 42.9 1 3 33.3 4 4 100.0 0 1 1 2 0 0 1 1 13
+p81
+aVJason Williams SAC 04/07/2000 SAC vs. MIN L 31 8 3 7 42.9 1 4 25.0 1 2 50.0 0 2 2 2 0 0 2 0 -15
+p82
+aVCorliss Williamson SAC 04/05/2000 SAC @ SAS W 41 28 8 11 72.7 0 0 - 12 12 100.0 2 9 11 1 0 0 0 1 24
+p83
+aVLawrence Funderburke SAC 04/05/2000 SAC @ SAS W 23 6 3 9 33.3 0 0 - 0 0 - 0 4 4 2 1 1 2 1 1
+p84
+aVBill Wennington SAC 04/05/2000 SAC @ SAS W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -9
+p85
+aVJason Williams SAC 04/05/2000 SAC @ SAS W 41 18 6 10 60.0 4 7 57.1 2 2 100.0 1 4 5 8 2 0 6 1 24
+p86
+aVTony Delk SAC 04/05/2000 SAC @ SAS W 21 13 4 8 50.0 0 1 0.0 5 5 100.0 1 1 2 3 1 0 0 2 1
+p87
+aVDarrick Martin SAC 04/05/2000 SAC @ SAS W 7 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 1 -14
+p88
+aVTyrone Corbin SAC 04/05/2000 SAC @ SAS W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -14
+p89
+aVScot Pollard SAC 04/05/2000 SAC @ SAS W 39 7 3 12 25.0 0 0 - 1 3 33.3 3 2 5 3 2 2 1 5 14
+p90
+aVVlade Divac SAC 04/05/2000 SAC @ SAS W 31 20 9 11 81.8 0 0 - 2 2 100.0 0 8 8 5 2 1 4 5 14
+p91
+aVPeja Stojakovic SAC 04/05/2000 SAC @ SAS W 27 8 3 10 30.0 0 1 0.0 2 2 100.0 2 3 5 3 1 0 1 0 9
+p92
+aVCorliss Williamson SAC 04/04/2000 SAC @ DAL L 31 20 10 17 58.8 0 0 - 0 0 - 2 1 3 0 2 0 4 1 -9
+p93
+aVDarrick Martin SAC 04/04/2000 SAC @ DAL L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 5
+p94
+aVTyrone Corbin SAC 04/04/2000 SAC @ DAL L 22 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -6
+p95
+aVJason Williams SAC 04/04/2000 SAC @ DAL L 33 12 6 15 40.0 0 4 0.0 0 0 - 2 5 7 10 0 0 4 3 -2
+p96
+aVNick Anderson SAC 04/04/2000 SAC @ DAL L 24 2 1 7 14.3 0 3 0.0 0 0 - 0 3 3 1 3 0 1 0 -3
+p97
+aVScot Pollard SAC 04/04/2000 SAC @ DAL L 15 7 3 6 50.0 0 0 - 1 1 100.0 4 6 10 2 0 1 0 1 -3
+p98
+aVTony Delk SAC 04/04/2000 SAC @ DAL L 22 14 6 15 40.0 0 2 0.0 2 2 100.0 1 0 1 2 1 0 0 1 0
+p99
+aVPeja Stojakovic SAC 04/04/2000 SAC @ DAL L 24 14 6 14 42.9 2 4 50.0 0 0 - 2 4 6 1 0 0 3 1 0
+p100
+aVLawrence Funderburke SAC 04/04/2000 SAC @ DAL L 22 13 6 8 75.0 0 0 - 1 2 50.0 2 3 5 0 0 0 1 1 3
+p101
+aVVlade Divac SAC 04/04/2000 SAC @ DAL L 33 16 6 10 60.0 0 1 0.0 4 7 57.1 5 5 10 7 5 2 0 0 0
+p102
+aVChris Webber SAC 04/02/2000 SAC vs. PHI W 40 26 11 17 64.7 0 0 - 4 6 66.7 5 5 10 8 1 2 6 4 20
+p103
+aVBill Wennington SAC 04/02/2000 SAC vs. PHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p104
+aVDarrick Martin SAC 04/02/2000 SAC vs. PHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p105
+aVTony Delk SAC 04/02/2000 SAC vs. PHI W 17 10 5 7 71.4 0 1 0.0 0 0 - 2 0 2 0 0 1 0 1 0
+p106
+aVNick Anderson SAC 04/02/2000 SAC vs. PHI W 27 11 4 10 40.0 2 6 33.3 1 2 50.0 1 2 3 3 2 0 1 2 15
+p107
+aVScot Pollard SAC 04/02/2000 SAC vs. PHI W 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -5
+p108
+aVVlade Divac SAC 04/02/2000 SAC vs. PHI W 35 14 4 9 44.4 0 0 - 6 6 100.0 3 8 11 11 2 0 2 5 27
+p109
+aVTyrone Corbin SAC 04/02/2000 SAC vs. PHI W 12 3 1 2 50.0 0 0 - 1 1 100.0 1 2 3 2 0 0 0 0 7
+p110
+aVJason Williams SAC 04/02/2000 SAC vs. PHI W 40 18 6 10 60.0 5 7 71.4 1 4 25.0 0 3 3 4 1 0 3 2 27
+p111
+aVCorliss Williamson SAC 04/02/2000 SAC vs. PHI W 21 14 7 10 70.0 0 0 - 0 1 0.0 1 1 2 0 1 0 3 3 12
+p112
+aVPeja Stojakovic SAC 04/02/2000 SAC vs. PHI W 24 17 7 10 70.0 3 4 75.0 0 0 - 0 2 2 2 1 0 0 0 5
+p113
+aVLawrence Funderburke SAC 04/02/2000 SAC vs. PHI W 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 1 1 2
+p114
+aVPeja Stojakovic SAC 03/31/2000 SAC @ SEA L 29 23 8 13 61.5 4 4 100.0 3 3 100.0 0 5 5 2 0 0 0 3 5
+p115
+aVVlade Divac SAC 03/31/2000 SAC @ SEA L 23 8 4 5 80.0 0 0 - 0 2 0.0 0 4 4 3 0 0 0 3 -22
+p116
+aVTony Delk SAC 03/31/2000 SAC @ SEA L 21 11 5 9 55.6 1 3 33.3 0 0 - 0 1 1 1 1 0 2 0 5
+p117
+aVNick Anderson SAC 03/31/2000 SAC @ SEA L 24 0 0 7 0.0 0 3 0.0 0 0 - 0 1 1 1 3 0 0 2 -21
+p118
+aVDarrick Martin SAC 03/31/2000 SAC @ SEA L 10 11 4 5 80.0 1 1 100.0 2 2 100.0 0 1 1 2 0 0 0 3 5
+p119
+aVScot Pollard SAC 03/31/2000 SAC @ SEA L 21 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 1 1 3 2 3 6
+p120
+aVTyrone Corbin SAC 03/31/2000 SAC @ SEA L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p121
+aVJason Williams SAC 03/31/2000 SAC @ SEA L 30 4 2 9 22.2 0 4 0.0 0 0 - 0 4 4 10 3 0 3 2 -20
+p122
+aVChris Webber SAC 03/31/2000 SAC @ SEA L 35 22 10 17 58.8 0 2 0.0 2 2 100.0 3 9 12 6 0 2 5 1 -20
+p123
+aVCorliss Williamson SAC 03/31/2000 SAC @ SEA L 19 17 7 11 63.6 0 0 - 3 3 100.0 1 1 2 1 1 0 3 5 -20
+p124
+aVLawrence Funderburke SAC 03/31/2000 SAC @ SEA L 16 6 2 5 40.0 0 0 - 2 4 50.0 1 1 2 2 1 1 1 0 6
+p125
+aVPeja Stojakovic SAC 03/28/2000 SAC vs. NYK W 27 20 6 13 46.2 1 4 25.0 7 8 87.5 1 3 4 2 1 0 2 3 14
+p126
+aVLawrence Funderburke SAC 03/28/2000 SAC vs. NYK W 4 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p127
+aVNick Anderson SAC 03/28/2000 SAC vs. NYK W 21 2 1 3 33.3 0 2 0.0 0 0 - 0 5 5 3 0 0 1 1 -6
+p128
+aVChris Webber SAC 03/28/2000 SAC vs. NYK W 44 21 9 19 47.4 0 1 0.0 3 4 75.0 2 8 10 11 1 2 0 3 13
+p129
+aVCorliss Williamson SAC 03/28/2000 SAC vs. NYK W 27 12 5 10 50.0 0 0 - 2 2 100.0 2 4 6 1 0 0 0 1 6
+p130
+aVJason Williams SAC 03/28/2000 SAC vs. NYK W 36 11 3 6 50.0 3 4 75.0 2 2 100.0 0 2 2 4 1 0 4 1 2
+p131
+aVTony Delk SAC 03/28/2000 SAC vs. NYK W 13 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 8
+p132
+aVTyrone Corbin SAC 03/28/2000 SAC vs. NYK W 21 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 0 1 0 0 2 2
+p133
+aVScot Pollard SAC 03/28/2000 SAC vs. NYK W 15 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 2 1 0 1 12
+p134
+aVVlade Divac SAC 03/28/2000 SAC vs. NYK W 33 19 9 16 56.3 0 0 - 1 4 25.0 5 3 8 5 2 2 4 3 -6
+p135
+aVVlade Divac SAC 03/26/2000 SAC vs. LAL L 31 6 2 5 40.0 0 0 - 2 3 66.7 0 6 6 2 3 2 2 3 7
+p136
+aVChris Webber SAC 03/26/2000 SAC vs. LAL L 44 28 13 26 50.0 0 1 0.0 2 2 100.0 3 12 15 8 0 4 5 6 1
+p137
+aVTyrone Corbin SAC 03/26/2000 SAC vs. LAL L 34 6 3 8 37.5 0 0 - 0 0 - 0 5 5 2 0 0 1 2 0
+p138
+aVDarrick Martin SAC 03/26/2000 SAC vs. LAL L 0 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p139
+aVNick Anderson SAC 03/26/2000 SAC vs. LAL L 33 8 3 13 23.1 2 9 22.2 0 1 0.0 2 2 4 0 0 0 1 2 7
+p140
+aVJason Williams SAC 03/26/2000 SAC vs. LAL L 41 21 9 20 45.0 2 8 25.0 1 1 100.0 0 2 2 6 0 0 0 1 0
+p141
+aVScot Pollard SAC 03/26/2000 SAC vs. LAL L 20 5 1 5 20.0 0 0 - 3 4 75.0 5 2 7 1 0 0 1 4 -6
+p142
+aVJon Barry SAC 03/26/2000 SAC vs. LAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 0
+p143
+aVTony Delk SAC 03/26/2000 SAC vs. LAL L 17 12 6 6 100.0 0 0 - 0 0 - 0 1 1 1 2 0 0 2 -11
+p144
+aVCorliss Williamson SAC 03/26/2000 SAC vs. LAL L 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -1
+p145
+aVTyrone Corbin SAC 03/24/2000 SAC vs. DET W 20 6 1 5 20.0 0 1 0.0 4 4 100.0 0 1 1 3 1 0 0 4 -1
+p146
+aVDarrick Martin SAC 03/24/2000 SAC vs. DET W 11 8 2 3 66.7 2 2 100.0 2 4 50.0 0 1 1 1 0 0 0 1 1
+p147
+aVJason Williams SAC 03/24/2000 SAC vs. DET W 34 15 2 9 22.2 2 8 25.0 9 10 90.0 0 1 1 10 2 0 3 2 11
+p148
+aVTony Delk SAC 03/24/2000 SAC vs. DET W 25 2 0 7 0.0 0 1 0.0 2 4 50.0 0 2 2 3 0 0 2 2 0
+p149
+aVChris Webber SAC 03/24/2000 SAC vs. DET W 46 29 11 18 61.1 0 1 0.0 7 10 70.0 2 12 14 3 4 2 8 4 12
+p150
+aVScot Pollard SAC 03/24/2000 SAC vs. DET W 15 6 1 2 50.0 0 0 - 4 6 66.7 4 4 8 0 1 0 3 3 9
+p151
+aVCorliss Williamson SAC 03/24/2000 SAC vs. DET W 12 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 2 1 3 4
+p152
+aVNick Anderson SAC 03/24/2000 SAC vs. DET W 41 28 11 21 52.4 6 15 40.0 0 0 - 2 9 11 0 0 0 1 4 15
+p153
+aVVlade Divac SAC 03/24/2000 SAC vs. DET W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 0
+p154
+aVLawrence Funderburke SAC 03/24/2000 SAC vs. DET W 28 11 4 5 80.0 0 0 - 3 6 50.0 4 2 6 1 1 1 1 3 -1
+p155
+aVChris Webber SAC 03/22/2000 SAC @ PHX L 30 16 6 16 37.5 0 2 0.0 4 4 100.0 3 3 6 2 4 1 5 5 -17
+p156
+aVJason Williams SAC 03/22/2000 SAC @ PHX L 30 14 4 10 40.0 3 5 60.0 3 3 100.0 1 2 3 7 2 0 5 0 -23
+p157
+aVScot Pollard SAC 03/22/2000 SAC @ PHX L 23 8 3 5 60.0 0 0 - 2 3 66.7 1 3 4 0 1 2 1 1 -3
+p158
+aVTony Delk SAC 03/22/2000 SAC @ PHX L 22 8 3 7 42.9 1 1 100.0 1 2 50.0 1 1 2 2 2 0 4 3 9
+p159
+aVNick Anderson SAC 03/22/2000 SAC @ PHX L 26 10 5 13 38.5 0 4 0.0 0 2 0.0 2 3 5 0 0 0 2 3 -30
+p160
+aVVlade Divac SAC 03/22/2000 SAC @ PHX L 23 14 6 13 46.2 0 0 - 2 3 66.7 2 3 5 2 0 0 1 2 -18
+p161
+aVTyrone Corbin SAC 03/22/2000 SAC @ PHX L 25 0 0 6 0.0 0 0 - 0 0 - 0 1 1 4 0 0 1 0 6
+p162
+aVDarrick Martin SAC 03/22/2000 SAC @ PHX L 18 10 2 7 28.6 1 3 33.3 5 5 100.0 0 2 2 3 1 1 1 1 2
+p163
+aVCorliss Williamson SAC 03/22/2000 SAC @ PHX L 23 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 -27
+p164
+aVLawrence Funderburke SAC 03/22/2000 SAC @ PHX L 20 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 1 2 0 1 1 -4
+p165
+aVTony Delk SAC 03/21/2000 SAC vs. WAS W 21 12 6 9 66.7 0 0 - 0 2 0.0 3 2 5 0 1 0 2 1 27
+p166
+aVCorliss Williamson SAC 03/21/2000 SAC vs. WAS W 20 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 3 2 -18
+p167
+aVNick Anderson SAC 03/21/2000 SAC vs. WAS W 31 5 2 7 28.6 0 3 0.0 1 2 50.0 0 4 4 3 2 1 0 0 -2
+p168
+aVTyrone Corbin SAC 03/21/2000 SAC vs. WAS W 21 7 2 2 100.0 1 1 100.0 2 2 100.0 0 3 3 1 1 1 1 3 27
+p169
+aVLawrence Funderburke SAC 03/21/2000 SAC vs. WAS W 9 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 7
+p170
+aVVlade Divac SAC 03/21/2000 SAC vs. WAS W 34 24 5 13 38.5 0 0 - 14 18 77.8 7 5 12 1 0 0 4 5 4
+p171
+aVJason Williams SAC 03/21/2000 SAC vs. WAS W 27 11 4 8 50.0 1 2 50.0 2 2 100.0 0 4 4 3 0 0 3 3 -15
+p172
+aVScot Pollard SAC 03/21/2000 SAC vs. WAS W 14 0 0 0 - 0 0 - 0 0 - 2 3 5 0 1 0 3 1 9
+p173
+aVPeja Stojakovic SAC 03/21/2000 SAC vs. WAS W 25 11 5 10 50.0 1 3 33.3 0 0 - 0 4 4 2 1 1 1 2 19
+p174
+aVChris Webber SAC 03/21/2000 SAC vs. WAS W 37 22 8 21 38.1 0 1 0.0 6 6 100.0 1 10 11 2 2 0 2 4 2
+p175
+aVDarrick Martin SAC 03/18/2000 SAC @ LAC W 9 8 3 4 75.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 2 2
+p176
+aVCorliss Williamson SAC 03/18/2000 SAC @ LAC W 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -9
+p177
+aVNick Anderson SAC 03/18/2000 SAC @ LAC W 23 7 3 11 27.3 1 5 20.0 0 0 - 0 5 5 2 1 0 2 0 4
+p178
+aVTyrone Corbin SAC 03/18/2000 SAC @ LAC W 18 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 0 2 0 0 1 14
+p179
+aVJason Williams SAC 03/18/2000 SAC @ LAC W 24 8 3 8 37.5 0 4 0.0 2 2 100.0 0 1 1 1 1 0 2 0 3
+p180
+aVPeja Stojakovic SAC 03/18/2000 SAC @ LAC W 29 20 8 15 53.3 4 9 44.4 0 1 0.0 0 1 1 1 2 0 0 2 13
+p181
+aVJon Barry SAC 03/18/2000 SAC @ LAC W 15 6 2 5 40.0 0 2 0.0 2 2 100.0 1 2 3 3 1 0 0 0 16
+p182
+aVChris Webber SAC 03/18/2000 SAC @ LAC W 41 12 2 9 22.2 0 0 - 8 8 100.0 3 6 9 5 2 1 1 4 20
+p183
+aVTony Delk SAC 03/18/2000 SAC @ LAC W 21 12 6 8 75.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 21
+p184
+aVLawrence Funderburke SAC 03/18/2000 SAC @ LAC W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 1 0 0 0 -4
+p185
+aVBill Wennington SAC 03/18/2000 SAC @ LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 1 0 2 7
+p186
+aVVlade Divac SAC 03/18/2000 SAC @ LAC W 35 20 8 12 66.7 0 0 - 4 8 50.0 2 3 5 4 1 2 2 4 18
+p187
+aVBill Wennington SAC 03/15/2000 SAC vs. LAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p188
+aVTony Delk SAC 03/15/2000 SAC vs. LAC W 21 10 5 7 71.4 0 2 0.0 0 0 - 1 2 3 3 0 0 0 2 8
+p189
+aVJon Barry SAC 03/15/2000 SAC vs. LAC W 21 5 1 1 100.0 1 1 100.0 2 2 100.0 2 1 3 2 1 0 2 2 27
+p190
+aVTyrone Corbin SAC 03/15/2000 SAC vs. LAC W 23 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 2 0 0 2 4 14
+p191
+aVDarrick Martin SAC 03/15/2000 SAC vs. LAC W 8 4 0 2 0.0 0 0 - 4 4 100.0 0 2 2 1 0 0 0 1 -6
+p192
+aVCorliss Williamson SAC 03/15/2000 SAC vs. LAC W 19 3 1 5 20.0 0 0 - 1 2 50.0 3 2 5 2 0 0 1 2 -1
+p193
+aVChris Webber SAC 03/15/2000 SAC vs. LAC W 38 25 11 24 45.8 0 1 0.0 3 4 75.0 0 8 8 4 0 2 0 3 21
+p194
+aVVlade Divac SAC 03/15/2000 SAC vs. LAC W 31 12 4 10 40.0 0 0 - 4 4 100.0 2 13 15 4 1 0 2 2 20
+p195
+aVPeja Stojakovic SAC 03/15/2000 SAC vs. LAC W 36 17 7 15 46.7 2 5 40.0 1 2 50.0 2 3 5 1 2 0 3 2 10
+p196
+aVLawrence Funderburke SAC 03/15/2000 SAC vs. LAC W 12 8 3 5 60.0 0 0 - 2 3 66.7 0 1 1 0 0 0 1 0 -6
+p197
+aVJason Williams SAC 03/15/2000 SAC vs. LAC W 27 8 4 10 40.0 0 3 0.0 0 0 - 0 1 1 4 2 0 5 0 12
+p198
+aVPeja Stojakovic SAC 03/14/2000 SAC @ POR L 38 22 8 17 47.1 1 4 25.0 5 5 100.0 2 4 6 1 1 0 1 3 -8
+p199
+aVVlade Divac SAC 03/14/2000 SAC @ POR L 32 12 4 7 57.1 1 1 100.0 3 6 50.0 1 2 3 5 2 1 1 4 -8
+p200
+aVJon Barry SAC 03/14/2000 SAC @ POR L 28 8 2 7 28.6 1 4 25.0 3 3 100.0 1 1 2 2 2 0 4 1 8
+p201
+aVChris Webber SAC 03/14/2000 SAC @ POR L 41 21 10 24 41.7 0 2 0.0 1 2 50.0 1 10 11 5 2 1 2 6 -7
+p202
+aVLawrence Funderburke SAC 03/14/2000 SAC @ POR L 14 5 1 3 33.3 0 0 - 3 6 50.0 2 2 4 1 0 0 1 2 4
+p203
+aVJason Williams SAC 03/14/2000 SAC @ POR L 28 2 1 6 16.7 0 4 0.0 0 0 - 0 2 2 4 1 0 2 1 -8
+p204
+aVTony Delk SAC 03/14/2000 SAC @ POR L 20 12 4 8 50.0 0 0 - 4 4 100.0 2 3 5 2 2 0 0 2 3
+p205
+aVCorliss Williamson SAC 03/14/2000 SAC @ POR L 18 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 1 0 2 4 -10
+p206
+aVTyrone Corbin SAC 03/14/2000 SAC @ POR L 20 1 0 4 0.0 0 1 0.0 1 2 50.0 1 2 3 1 1 0 0 2 1
+p207
+aVChris Webber SAC 03/12/2000 SAC @ LAL L 45 24 11 24 45.8 0 5 0.0 2 4 50.0 2 5 7 7 1 0 5 4 -3
+p208
+aVTyrone Corbin SAC 03/12/2000 SAC @ LAL L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -9
+p209
+aVJason Williams SAC 03/12/2000 SAC @ LAL L 43 14 5 12 41.7 4 9 44.4 0 0 - 0 1 1 8 1 0 3 1 0
+p210
+aVPeja Stojakovic SAC 03/12/2000 SAC @ LAL L 37 22 9 16 56.3 4 5 80.0 0 0 - 1 2 3 2 3 0 0 4 6
+p211
+aVTony Delk SAC 03/12/2000 SAC @ LAL L 5 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -3
+p212
+aVBill Wennington SAC 03/12/2000 SAC @ LAL L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -11
+p213
+aVCorliss Williamson SAC 03/12/2000 SAC @ LAL L 29 13 4 8 50.0 0 0 - 5 7 71.4 2 2 4 2 1 0 2 2 10
+p214
+aVLawrence Funderburke SAC 03/12/2000 SAC @ LAL L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -3
+p215
+aVVlade Divac SAC 03/12/2000 SAC @ LAL L 38 15 7 13 53.8 0 0 - 1 1 100.0 1 12 13 3 1 2 3 6 8
+p216
+aVJon Barry SAC 03/12/2000 SAC @ LAL L 16 10 2 4 50.0 1 3 33.3 5 5 100.0 2 1 3 1 0 0 0 2 -10
+p217
+aVCorliss Williamson SAC 03/10/2000 SAC vs. TOR W 31 24 9 17 52.9 0 0 - 6 7 85.7 4 5 9 6 1 1 1 4 13
+p218
+aVJason Williams SAC 03/10/2000 SAC vs. TOR W 37 5 2 13 15.4 1 7 14.3 0 0 - 0 2 2 5 2 0 1 3 16
+p219
+aVLawrence Funderburke SAC 03/10/2000 SAC vs. TOR W 14 9 3 3 100.0 0 0 - 3 4 75.0 0 1 1 1 0 0 1 1 8
+p220
+aVTyrone Corbin SAC 03/10/2000 SAC vs. TOR W 18 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 3
+p221
+aVPeja Stojakovic SAC 03/10/2000 SAC vs. TOR W 30 8 2 14 14.3 0 6 0.0 4 4 100.0 1 4 5 2 0 0 0 2 9
+p222
+aVVlade Divac SAC 03/10/2000 SAC vs. TOR W 28 12 5 7 71.4 0 0 - 2 2 100.0 3 7 10 3 1 2 1 5 9
+p223
+aVChris Webber SAC 03/10/2000 SAC vs. TOR W 44 25 11 23 47.8 1 4 25.0 2 2 100.0 3 9 12 5 2 1 3 4 15
+p224
+aVJon Barry SAC 03/10/2000 SAC vs. TOR W 21 5 2 6 33.3 1 3 33.3 0 0 - 1 3 4 3 0 0 0 3 3
+p225
+aVTony Delk SAC 03/10/2000 SAC vs. TOR W 18 11 3 6 50.0 0 0 - 5 5 100.0 0 2 2 1 0 0 0 1 -1
+p226
+aVVlade Divac SAC 03/08/2000 SAC vs. CHH W 43 27 12 21 57.1 0 1 0.0 3 5 60.0 3 8 11 4 2 0 3 3 17
+p227
+aVChris Webber SAC 03/08/2000 SAC vs. CHH W 35 22 10 18 55.6 0 0 - 2 2 100.0 1 4 5 4 2 2 2 5 4
+p228
+aVJon Barry SAC 03/08/2000 SAC vs. CHH W 25 11 5 10 50.0 1 1 100.0 0 0 - 1 2 3 1 1 0 1 1 10
+p229
+aVTony Delk SAC 03/08/2000 SAC vs. CHH W 20 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 3 1 0 0 2 9
+p230
+aVLawrence Funderburke SAC 03/08/2000 SAC vs. CHH W 18 10 5 7 71.4 0 0 - 0 0 - 1 2 3 1 1 0 0 2 5
+p231
+aVJason Williams SAC 03/08/2000 SAC vs. CHH W 28 5 2 10 20.0 0 5 0.0 1 1 100.0 0 3 3 6 0 0 3 1 4
+p232
+aVNick Anderson SAC 03/08/2000 SAC vs. CHH W 23 11 5 12 41.7 1 2 50.0 0 1 0.0 2 4 6 1 0 0 0 0 3
+p233
+aVTyrone Corbin SAC 03/08/2000 SAC vs. CHH W 18 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 19
+p234
+aVPeja Stojakovic SAC 03/08/2000 SAC vs. CHH W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p235
+aVCorliss Williamson SAC 03/08/2000 SAC vs. CHH W 23 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 2 0 1 2 3 3
+p236
+aVTyrone Corbin SAC 03/06/2000 SAC vs. DAL W 16 2 1 5 20.0 0 0 - 0 0 - 2 2 4 1 0 0 2 2 -4
+p237
+aVLawrence Funderburke SAC 03/06/2000 SAC vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 6
+p238
+aVScot Pollard SAC 03/06/2000 SAC vs. DAL W 12 6 3 5 60.0 0 0 - 0 3 0.0 3 0 3 0 0 0 1 1 2
+p239
+aVCorliss Williamson SAC 03/06/2000 SAC vs. DAL W 20 13 6 6 100.0 0 0 - 1 1 100.0 3 3 6 0 1 1 2 5 18
+p240
+aVVlade Divac SAC 03/06/2000 SAC vs. DAL W 25 19 7 13 53.8 0 0 - 5 10 50.0 4 6 10 0 1 1 3 1 20
+p241
+aVTony Delk SAC 03/06/2000 SAC vs. DAL W 19 9 3 8 37.5 0 0 - 3 3 100.0 2 2 4 0 1 1 2 2 11
+p242
+aVJason Williams SAC 03/06/2000 SAC vs. DAL W 29 13 5 12 41.7 3 8 37.5 0 0 - 1 3 4 6 0 0 2 0 10
+p243
+aVPeja Stojakovic SAC 03/06/2000 SAC vs. DAL W 18 5 2 8 25.0 1 4 25.0 0 0 - 1 2 3 2 1 0 0 2 4
+p244
+aVDarrick Martin SAC 03/06/2000 SAC vs. DAL W 2 11 4 5 80.0 3 4 75.0 0 0 - 0 0 0 0 0 0 2 0 4
+p245
+aVNick Anderson SAC 03/06/2000 SAC vs. DAL W 33 17 6 11 54.5 5 7 71.4 0 0 - 0 4 4 2 1 0 0 2 7
+p246
+aVChris Webber SAC 03/06/2000 SAC vs. DAL W 41 22 10 14 71.4 0 0 - 2 4 50.0 3 7 10 11 0 2 5 2 18
+p247
+aVJon Barry SAC 03/06/2000 SAC vs. DAL W 23 13 3 6 50.0 2 4 50.0 5 6 83.3 0 2 2 5 2 0 0 3 9
+p248
+aVNick Anderson SAC 03/04/2000 SAC @ SAS W 36 10 4 12 33.3 2 5 40.0 0 2 0.0 1 4 5 2 0 0 2 2 5
+p249
+aVLawrence Funderburke SAC 03/04/2000 SAC @ SAS W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p250
+aVChris Webber SAC 03/04/2000 SAC @ SAS W 47 31 14 29 48.3 0 1 0.0 3 3 100.0 2 5 7 5 4 4 1 4 1
+p251
+aVPeja Stojakovic SAC 03/04/2000 SAC @ SAS W 20 6 2 7 28.6 2 3 66.7 0 0 - 1 2 3 3 0 0 1 1 4
+p252
+aVJason Williams SAC 03/04/2000 SAC @ SAS W 39 15 7 15 46.7 1 5 20.0 0 0 - 0 1 1 4 3 0 3 2 1
+p253
+aVCorliss Williamson SAC 03/04/2000 SAC @ SAS W 23 9 3 5 60.0 0 0 - 3 3 100.0 1 4 5 0 1 0 1 1 -6
+p254
+aVTony Delk SAC 03/04/2000 SAC @ SAS W 14 3 1 6 16.7 0 1 0.0 1 2 50.0 0 1 1 2 0 0 1 0 4
+p255
+aVJon Barry SAC 03/04/2000 SAC @ SAS W 27 14 6 8 75.0 2 3 66.7 0 0 - 1 2 3 3 1 0 3 1 9
+p256
+aVVlade Divac SAC 03/04/2000 SAC @ SAS W 22 5 2 3 66.7 0 0 - 1 1 100.0 1 3 4 2 0 2 3 3 -4
+p257
+aVScot Pollard SAC 03/04/2000 SAC @ SAS W 31 13 5 7 71.4 0 0 - 3 4 75.0 4 5 9 0 3 0 0 5 7
+p258
+aVDarrick Martin SAC 03/02/2000 SAC @ HOU L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -3
+p259
+aVScot Pollard SAC 03/02/2000 SAC @ HOU L 36 10 4 6 66.7 0 0 - 2 3 66.7 3 7 10 3 3 1 1 3 0
+p260
+aVCorliss Williamson SAC 03/02/2000 SAC @ HOU L 9 6 3 9 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p261
+aVChris Webber SAC 03/02/2000 SAC @ HOU L 45 29 11 26 42.3 2 3 66.7 5 7 71.4 3 8 11 6 1 2 3 3 -6
+p262
+aVTony Delk SAC 03/02/2000 SAC @ HOU L 26 12 6 14 42.9 0 0 - 0 0 - 2 3 5 2 5 0 1 5 7
+p263
+aVJason Williams SAC 03/02/2000 SAC @ HOU L 20 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 7 2 0 6 2 -8
+p264
+aVPeja Stojakovic SAC 03/02/2000 SAC @ HOU L 15 6 2 6 33.3 0 2 0.0 2 2 100.0 0 2 2 0 0 0 2 1 -4
+p265
+aVVlade Divac SAC 03/02/2000 SAC @ HOU L 16 3 1 6 16.7 0 0 - 1 2 50.0 5 0 5 0 2 0 3 2 0
+p266
+aVNick Anderson SAC 03/02/2000 SAC @ HOU L 33 14 6 14 42.9 2 7 28.6 0 0 - 3 5 8 3 1 0 3 3 -3
+p267
+aVJon Barry SAC 03/02/2000 SAC @ HOU L 34 19 6 9 66.7 2 3 66.7 5 5 100.0 1 5 6 8 0 0 0 3 7
+p268
+aVLawrence Funderburke SAC 02/29/2000 SAC vs. VAN W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 9
+p269
+aVDarrick Martin SAC 02/29/2000 SAC vs. VAN W 15 8 2 6 33.3 1 3 33.3 3 4 75.0 0 1 1 1 1 0 1 2 17
+p270
+aVJon Barry SAC 02/29/2000 SAC vs. VAN W 21 13 4 8 50.0 2 4 50.0 3 3 100.0 1 4 5 4 0 0 1 1 24
+p271
+aVNick Anderson SAC 02/29/2000 SAC vs. VAN W 24 13 5 7 71.4 2 3 66.7 1 1 100.0 0 1 1 2 0 0 1 2 -4
+p272
+aVVlade Divac SAC 02/29/2000 SAC vs. VAN W 24 8 4 9 44.4 0 0 - 0 0 - 4 1 5 3 0 2 2 1 -4
+p273
+aVPeja Stojakovic SAC 02/29/2000 SAC vs. VAN W 25 7 3 5 60.0 0 1 0.0 1 2 50.0 0 4 4 0 1 0 0 0 27
+p274
+aVTony Delk SAC 02/29/2000 SAC vs. VAN W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 5
+p275
+aVChris Webber SAC 02/29/2000 SAC vs. VAN W 38 23 10 22 45.5 0 1 0.0 3 4 75.0 3 6 9 7 4 2 4 3 18
+p276
+aVJason Williams SAC 02/29/2000 SAC vs. VAN W 33 13 5 13 38.5 3 5 60.0 0 0 - 0 2 2 8 3 0 3 1 8
+p277
+aVScot Pollard SAC 02/29/2000 SAC vs. VAN W 25 10 5 6 83.3 0 0 - 0 0 - 3 7 10 3 1 0 0 3 27
+p278
+aVCorliss Williamson SAC 02/29/2000 SAC vs. VAN W 23 11 5 8 62.5 0 0 - 1 2 50.0 0 3 3 0 1 0 0 3 -2
+p279
+aVVlade Divac SAC 02/26/2000 SAC @ VAN L 27 5 2 10 20.0 0 0 - 1 2 50.0 3 7 10 7 3 0 1 1 -3
+p280
+aVScot Pollard SAC 02/26/2000 SAC @ VAN L 8 4 2 3 66.7 0 0 - 0 0 - 3 1 4 0 0 0 0 0 3
+p281
+aVCorliss Williamson SAC 02/26/2000 SAC @ VAN L 25 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 3 2
+p282
+aVChris Webber SAC 02/26/2000 SAC @ VAN L 45 36 17 33 51.5 0 0 - 2 4 50.0 2 8 10 3 1 2 5 2 -11
+p283
+aVJon Barry SAC 02/26/2000 SAC @ VAN L 21 2 1 5 20.0 0 3 0.0 0 0 - 1 2 3 4 1 0 1 2 -14
+p284
+aVDarrick Martin SAC 02/26/2000 SAC @ VAN L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 4 -10
+p285
+aVJason Williams SAC 02/26/2000 SAC @ VAN L 38 8 4 11 36.4 0 3 0.0 0 0 - 0 2 2 5 2 0 3 0 -2
+p286
+aVNick Anderson SAC 02/26/2000 SAC @ VAN L 32 18 7 15 46.7 4 9 44.4 0 0 - 1 1 2 3 2 0 2 2 -1
+p287
+aVPeja Stojakovic SAC 02/26/2000 SAC @ VAN L 23 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 1 1 0 3 2 -14
+p288
+aVLawrence Funderburke SAC 02/26/2000 SAC @ VAN L 4 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 -1
+p289
+aVTyrone Corbin SAC 02/26/2000 SAC @ VAN L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -9
+p290
+aVDarrick Martin SAC 02/23/2000 SAC vs. ATL L 12 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p291
+aVCorliss Williamson SAC 02/23/2000 SAC vs. ATL L 9 0 0 5 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p292
+aVChris Webber SAC 02/23/2000 SAC vs. ATL L 47 28 11 23 47.8 0 2 0.0 6 6 100.0 3 17 20 1 1 2 4 2 -6
+p293
+aVScot Pollard SAC 02/23/2000 SAC vs. ATL L 12 7 2 5 40.0 0 0 - 3 3 100.0 4 6 10 0 0 1 0 1 -1
+p294
+aVNick Anderson SAC 02/23/2000 SAC vs. ATL L 18 6 3 4 75.0 0 1 0.0 0 0 - 2 1 3 1 0 0 1 2 -8
+p295
+aVTyrone Corbin SAC 02/23/2000 SAC vs. ATL L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 1 1 1 2 0
+p296
+aVJon Barry SAC 02/23/2000 SAC vs. ATL L 30 7 1 7 14.3 1 5 20.0 4 4 100.0 1 2 3 5 1 0 0 4 2
+p297
+aVJason Williams SAC 02/23/2000 SAC vs. ATL L 28 4 2 9 22.2 0 4 0.0 0 0 - 0 3 3 7 2 0 6 0 -20
+p298
+aVPeja Stojakovic SAC 02/23/2000 SAC vs. ATL L 30 16 7 14 50.0 2 4 50.0 0 0 - 2 0 2 1 0 0 1 0 6
+p299
+aVVlade Divac SAC 02/23/2000 SAC vs. ATL L 35 18 8 17 47.1 0 0 - 2 3 66.7 2 5 7 1 1 2 3 2 -3
+p300
+aVCorliss Williamson SAC 02/21/2000 SAC @ DEN L 13 8 3 5 60.0 0 0 - 2 4 50.0 0 1 1 0 0 0 1 3 -8
+p301
+aVTyrone Corbin SAC 02/21/2000 SAC @ DEN L 29 6 3 9 33.3 0 1 0.0 0 0 - 1 3 4 5 0 0 1 1 1
+p302
+aVDarrick Martin SAC 02/21/2000 SAC @ DEN L 6 4 1 1 100.0 1 1 100.0 1 2 50.0 1 0 1 0 0 0 0 0 1
+p303
+aVChris Webber SAC 02/21/2000 SAC @ DEN L 43 25 9 25 36.0 0 3 0.0 7 10 70.0 3 12 15 5 3 4 2 3 -11
+p304
+aVPeja Stojakovic SAC 02/21/2000 SAC @ DEN L 38 30 11 18 61.1 2 3 66.7 6 7 85.7 2 4 6 3 0 0 0 2 -16
+p305
+aVVlade Divac SAC 02/21/2000 SAC @ DEN L 21 5 2 10 20.0 0 0 - 1 2 50.0 3 3 6 3 0 1 3 5 -1
+p306
+aVJon Barry SAC 02/21/2000 SAC @ DEN L 34 17 5 8 62.5 4 5 80.0 3 3 100.0 1 3 4 3 2 0 2 3 2
+p307
+aVJason Williams SAC 02/21/2000 SAC @ DEN L 47 14 6 12 50.0 2 6 33.3 0 0 - 0 4 4 8 0 0 4 1 -7
+p308
+aVScot Pollard SAC 02/21/2000 SAC @ DEN L 32 8 4 12 33.3 0 0 - 0 0 - 6 8 14 3 2 3 1 5 9
+p309
+aVDarrick Martin SAC 02/20/2000 SAC vs. POR L 26 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 3 3
+p310
+aVCorliss Williamson SAC 02/20/2000 SAC vs. POR L 24 12 6 9 66.7 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -10
+p311
+aVScot Pollard SAC 02/20/2000 SAC vs. POR L 29 6 1 2 50.0 0 0 - 4 7 57.1 3 4 7 2 1 1 2 3 -4
+p312
+aVJason Williams SAC 02/20/2000 SAC vs. POR L 27 2 1 5 20.0 0 4 0.0 0 0 - 0 4 4 2 0 0 6 0 -8
+p313
+aVTyrone Corbin SAC 02/20/2000 SAC vs. POR L 13 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 0 2 0 0 3 0
+p314
+aVVlade Divac SAC 02/20/2000 SAC vs. POR L 21 7 2 7 28.6 0 0 - 3 3 100.0 2 5 7 5 0 1 4 4 -9
+p315
+aVPeja Stojakovic SAC 02/20/2000 SAC vs. POR L 45 25 11 23 47.8 0 8 0.0 3 3 100.0 2 3 5 2 0 0 1 3 4
+p316
+aVChris Webber SAC 02/20/2000 SAC vs. POR L 51 33 13 37 35.1 1 3 33.3 6 9 66.7 9 10 19 7 3 1 1 5 -4
+p317
+aVJon Barry SAC 02/20/2000 SAC vs. POR L 28 5 1 4 25.0 1 2 50.0 2 2 100.0 1 0 1 4 0 1 2 1 3
+p318
+aVJason Williams SAC 02/18/2000 SAC vs. SEA W 27 13 5 15 33.3 3 10 30.0 0 0 - 0 4 4 7 0 0 2 1 9
+p319
+aVDarrick Martin SAC 02/18/2000 SAC vs. SEA W 18 6 2 7 28.6 0 2 0.0 2 2 100.0 1 1 2 0 0 0 0 1 13
+p320
+aVVlade Divac SAC 02/18/2000 SAC vs. SEA W 36 11 3 8 37.5 0 1 0.0 5 5 100.0 2 7 9 6 2 3 2 2 18
+p321
+aVChris Webber SAC 02/18/2000 SAC vs. SEA W 21 12 6 13 46.2 0 1 0.0 0 0 - 2 3 5 4 1 1 2 6 11
+p322
+aVPeja Stojakovic SAC 02/18/2000 SAC vs. SEA W 25 21 8 14 57.1 4 8 50.0 1 1 100.0 0 3 3 3 1 0 1 0 34
+p323
+aVNick Anderson SAC 02/18/2000 SAC vs. SEA W 24 11 5 13 38.5 1 7 14.3 0 0 - 0 3 3 0 1 1 1 3 4
+p324
+aVLawrence Funderburke SAC 02/18/2000 SAC vs. SEA W 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 16
+p325
+aVCorliss Williamson SAC 02/18/2000 SAC vs. SEA W 23 15 7 10 70.0 0 0 - 1 1 100.0 1 3 4 0 1 0 2 0 -1
+p326
+aVJon Barry SAC 02/18/2000 SAC vs. SEA W 30 12 4 6 66.7 2 3 66.7 2 2 100.0 2 3 5 5 3 0 1 3 31
+p327
+aVScot Pollard SAC 02/18/2000 SAC vs. SEA W 24 8 2 6 33.3 0 0 - 4 4 100.0 3 11 14 0 1 2 1 4 19
+p328
+aVTony Delk SAC 02/18/2000 SAC vs. SEA W 3 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 11
+p329
+aVChris Webber SAC 02/17/2000 SAC @ UTA L 42 22 8 18 44.4 1 3 33.3 5 6 83.3 0 5 5 6 2 0 0 5 -6
+p330
+aVVlade Divac SAC 02/17/2000 SAC @ UTA L 21 7 2 5 40.0 0 0 - 3 3 100.0 1 5 6 0 0 2 0 4 -15
+p331
+aVPeja Stojakovic SAC 02/17/2000 SAC @ UTA L 25 15 4 9 44.4 1 1 100.0 6 6 100.0 1 2 3 0 1 0 2 3 -14
+p332
+aVTony Delk SAC 02/17/2000 SAC @ UTA L 7 6 2 4 50.0 0 1 0.0 2 2 100.0 2 0 2 0 0 0 0 1 5
+p333
+aVScot Pollard SAC 02/17/2000 SAC @ UTA L 27 7 2 4 50.0 0 0 - 3 4 75.0 3 6 9 0 1 0 0 4 4
+p334
+aVJason Williams SAC 02/17/2000 SAC @ UTA L 36 8 2 10 20.0 1 4 25.0 3 3 100.0 1 2 3 9 0 0 4 2 -8
+p335
+aVJon Barry SAC 02/17/2000 SAC @ UTA L 19 10 4 5 80.0 1 1 100.0 1 2 50.0 0 0 0 0 2 0 2 2 -14
+p336
+aVNick Anderson SAC 02/17/2000 SAC @ UTA L 29 11 4 9 44.4 1 2 50.0 2 4 50.0 1 5 6 0 1 0 3 1 3
+p337
+aVDarrick Martin SAC 02/17/2000 SAC @ UTA L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -8
+p338
+aVCorliss Williamson SAC 02/17/2000 SAC @ UTA L 23 18 4 9 44.4 0 0 - 10 13 76.9 0 3 3 1 0 0 0 4 3
+p339
+aVLawrence Funderburke SAC 02/17/2000 SAC @ UTA L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p340
+aVChris Webber SAC 02/15/2000 SAC vs. PHX L 43 27 11 23 47.8 2 3 66.7 3 3 100.0 2 7 9 6 0 2 5 4 -13
+p341
+aVPeja Stojakovic SAC 02/15/2000 SAC vs. PHX L 29 11 4 9 44.4 3 7 42.9 0 0 - 0 2 2 2 2 0 1 0 -14
+p342
+aVDarrick Martin SAC 02/15/2000 SAC vs. PHX L 11 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 1 2 0 1 3 -1
+p343
+aVNick Anderson SAC 02/15/2000 SAC vs. PHX L 33 15 5 12 41.7 3 8 37.5 2 4 50.0 3 2 5 5 1 1 4 3 -11
+p344
+aVLawrence Funderburke SAC 02/15/2000 SAC vs. PHX L 17 5 1 1 100.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 0 -4
+p345
+aVVlade Divac SAC 02/15/2000 SAC vs. PHX L 30 11 4 5 80.0 0 0 - 3 6 50.0 2 4 6 0 3 0 3 5 -3
+p346
+aVScot Pollard SAC 02/15/2000 SAC vs. PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p347
+aVJason Williams SAC 02/15/2000 SAC vs. PHX L 37 15 6 15 40.0 2 9 22.2 1 1 100.0 1 4 5 8 4 0 4 3 -8
+p348
+aVJon Barry SAC 02/15/2000 SAC vs. PHX L 16 7 3 6 50.0 1 3 33.3 0 0 - 1 0 1 1 0 1 0 3 0
+p349
+aVCorliss Williamson SAC 02/15/2000 SAC vs. PHX L 19 6 2 8 25.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 5
+p350
+aVPeja Stojakovic SAC 02/10/2000 SAC vs. DEN W 29 12 4 11 36.4 2 6 33.3 2 2 100.0 1 2 3 1 1 0 1 0 8
+p351
+aVDarrick Martin SAC 02/10/2000 SAC vs. DEN W 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p352
+aVChris Webber SAC 02/10/2000 SAC vs. DEN W 41 22 7 18 38.9 0 2 0.0 8 10 80.0 5 9 14 5 1 1 3 4 7
+p353
+aVVlade Divac SAC 02/10/2000 SAC vs. DEN W 30 13 3 4 75.0 0 0 - 7 7 100.0 1 5 6 2 1 3 2 3 2
+p354
+aVTyrone Corbin SAC 02/10/2000 SAC vs. DEN W 19 4 1 6 16.7 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 4
+p355
+aVScot Pollard SAC 02/10/2000 SAC vs. DEN W 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 5 7
+p356
+aVJason Williams SAC 02/10/2000 SAC vs. DEN W 45 8 3 12 25.0 2 8 25.0 0 0 - 0 5 5 8 0 0 7 0 9
+p357
+aVNick Anderson SAC 02/10/2000 SAC vs. DEN W 29 20 8 19 42.1 3 9 33.3 1 2 50.0 0 7 7 2 1 1 1 1 11
+p358
+aVJon Barry SAC 02/10/2000 SAC vs. DEN W 21 6 2 5 40.0 1 4 25.0 1 1 100.0 2 5 7 2 3 1 2 0 2
+p359
+aVLawrence Funderburke SAC 02/10/2000 SAC vs. DEN W 15 9 4 6 66.7 0 0 - 1 2 50.0 2 4 6 1 1 0 0 3 8
+p360
+aVDarrick Martin SAC 02/08/2000 SAC vs. CHI W 16 11 4 9 44.4 1 4 25.0 2 2 100.0 0 0 0 0 1 0 1 2 9
+p361
+aVScot Pollard SAC 02/08/2000 SAC vs. CHI W 18 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 0 0 1 1 4 16
+p362
+aVLawrence Funderburke SAC 02/08/2000 SAC vs. CHI W 14 10 4 8 50.0 0 1 0.0 2 2 100.0 0 3 3 1 2 0 0 1 9
+p363
+aVPeja Stojakovic SAC 02/08/2000 SAC vs. CHI W 33 11 4 11 36.4 2 4 50.0 1 1 100.0 0 3 3 2 2 0 1 0 30
+p364
+aVJason Williams SAC 02/08/2000 SAC vs. CHI W 32 13 6 13 46.2 1 5 20.0 0 0 - 0 2 2 8 0 1 1 0 30
+p365
+aVChris Webber SAC 02/08/2000 SAC vs. CHI W 34 22 9 15 60.0 1 1 100.0 3 3 100.0 2 8 10 7 3 1 2 2 30
+p366
+aVTony Delk SAC 02/08/2000 SAC vs. CHI W 9 2 1 4 25.0 0 3 0.0 0 0 - 1 0 1 3 1 0 1 2 6
+p367
+aVNick Anderson SAC 02/08/2000 SAC vs. CHI W 24 19 7 13 53.8 5 10 50.0 0 0 - 1 0 1 2 1 0 0 1 11
+p368
+aVTyrone Corbin SAC 02/08/2000 SAC vs. CHI W 16 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 1 3 0 0 1 13
+p369
+aVVlade Divac SAC 02/08/2000 SAC vs. CHI W 29 16 8 10 80.0 0 0 - 0 0 - 5 5 10 2 2 3 3 3 19
+p370
+aVJon Barry SAC 02/08/2000 SAC vs. CHI W 15 7 2 3 66.7 2 3 66.7 1 1 100.0 0 2 2 3 1 0 0 0 22
+p371
+aVPeja Stojakovic SAC 02/06/2000 SAC @ PHI L 28 20 7 13 53.8 3 6 50.0 3 4 75.0 1 4 5 1 0 0 2 2 8
+p372
+aVTyrone Corbin SAC 02/06/2000 SAC @ PHI L 22 5 2 6 33.3 1 3 33.3 0 0 - 2 2 4 3 1 0 4 1 -23
+p373
+aVNick Anderson SAC 02/06/2000 SAC @ PHI L 18 5 2 7 28.6 1 2 50.0 0 0 - 1 1 2 2 1 0 1 1 -24
+p374
+aVJason Williams SAC 02/06/2000 SAC @ PHI L 35 14 5 16 31.3 3 12 25.0 1 2 50.0 1 1 2 7 2 0 2 5 -9
+p375
+aVVlade Divac SAC 02/06/2000 SAC @ PHI L 16 0 0 3 0.0 0 0 - 0 0 - 0 5 5 0 0 2 2 3 -21
+p376
+aVChris Webber SAC 02/06/2000 SAC @ PHI L 46 32 11 27 40.7 0 3 0.0 10 17 58.8 6 9 15 7 1 2 3 6 -7
+p377
+aVDarrick Martin SAC 02/06/2000 SAC @ PHI L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 1 -2
+p378
+aVScot Pollard SAC 02/06/2000 SAC @ PHI L 24 17 6 6 100.0 0 0 - 5 6 83.3 5 4 9 0 2 2 1 2 2
+p379
+aVLawrence Funderburke SAC 02/06/2000 SAC @ PHI L 8 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 1 0 0 0 8
+p380
+aVJon Barry SAC 02/06/2000 SAC @ PHI L 30 11 4 6 66.7 2 4 50.0 1 2 50.0 0 4 4 2 3 0 0 5 13
+p381
+aVJason Williams SAC 02/04/2000 SAC @ IND L 35 14 5 15 33.3 3 9 33.3 1 1 100.0 0 1 1 8 2 0 4 4 -5
+p382
+aVScot Pollard SAC 02/04/2000 SAC @ IND L 13 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 1 1 0 1 -6
+p383
+aVPeja Stojakovic SAC 02/04/2000 SAC @ IND L 19 8 3 7 42.9 1 2 50.0 1 1 100.0 2 2 4 0 1 0 2 2 -6
+p384
+aVVlade Divac SAC 02/04/2000 SAC @ IND L 35 17 5 11 45.5 0 0 - 7 8 87.5 3 11 14 4 2 1 2 4 -4
+p385
+aVLawrence Funderburke SAC 02/04/2000 SAC @ IND L 12 7 2 3 66.7 0 0 - 3 5 60.0 0 4 4 1 0 1 1 3 -7
+p386
+aVDarrick Martin SAC 02/04/2000 SAC @ IND L 13 7 3 7 42.9 0 2 0.0 1 1 100.0 0 0 0 0 0 1 1 3 -5
+p387
+aVTyrone Corbin SAC 02/04/2000 SAC @ IND L 29 8 3 7 42.9 1 2 50.0 1 2 50.0 1 4 5 0 0 1 1 3 -4
+p388
+aVNick Anderson SAC 02/04/2000 SAC @ IND L 32 4 2 9 22.2 0 2 0.0 0 0 - 1 2 3 3 0 0 1 2 -8
+p389
+aVChris Webber SAC 02/04/2000 SAC @ IND L 36 26 10 22 45.5 1 2 50.0 5 6 83.3 2 4 6 1 1 1 3 4 -3
+p390
+aVJon Barry SAC 02/04/2000 SAC @ IND L 16 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 0 0 2 1 -2
+p391
+aVVlade Divac SAC 02/02/2000 SAC @ DET W 32 12 4 8 50.0 0 0 - 4 4 100.0 2 5 7 3 1 0 1 4 14
+p392
+aVLawrence Funderburke SAC 02/02/2000 SAC @ DET W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p393
+aVScot Pollard SAC 02/02/2000 SAC @ DET W 14 4 0 0 - 0 0 - 4 6 66.7 0 3 3 0 1 0 1 2 -4
+p394
+aVTyrone Corbin SAC 02/02/2000 SAC @ DET W 36 13 6 10 60.0 1 3 33.3 0 0 - 2 5 7 2 4 0 1 2 0
+p395
+aVChris Webber SAC 02/02/2000 SAC @ DET W 41 39 17 28 60.7 1 1 100.0 4 6 66.7 5 5 10 3 2 2 8 3 4
+p396
+aVJon Barry SAC 02/02/2000 SAC @ DET W 19 10 3 5 60.0 2 4 50.0 2 2 100.0 0 2 2 1 1 0 3 4 -3
+p397
+aVNick Anderson SAC 02/02/2000 SAC @ DET W 31 8 4 14 28.6 0 7 0.0 0 0 - 1 3 4 4 1 0 1 3 -1
+p398
+aVJason Williams SAC 02/02/2000 SAC @ DET W 42 23 7 13 53.8 4 8 50.0 5 5 100.0 0 6 6 11 2 0 4 1 5
+p399
+aVDarrick Martin SAC 02/02/2000 SAC @ DET W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -2
+p400
+aVPeja Stojakovic SAC 02/02/2000 SAC @ DET W 12 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 1 0 1 1 3
+p401
+aVTony Delk SAC 01/31/2000 SAC @ MIN L 12 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 3 1 0 1 0 3
+p402
+aVVlade Divac SAC 01/31/2000 SAC @ MIN L 23 13 4 9 44.4 0 0 - 5 6 83.3 1 3 4 1 2 0 3 2 -21
+p403
+aVChris Webber SAC 01/31/2000 SAC @ MIN L 30 14 6 21 28.6 0 3 0.0 2 2 100.0 0 7 7 0 1 1 3 1 -22
+p404
+aVJason Williams SAC 01/31/2000 SAC @ MIN L 25 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 7 0 0 3 1 -20
+p405
+aVTyrone Corbin SAC 01/31/2000 SAC @ MIN L 28 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -15
+p406
+aVScot Pollard SAC 01/31/2000 SAC @ MIN L 25 13 5 7 71.4 0 0 - 3 4 75.0 2 2 4 3 1 2 3 2 6
+p407
+aVJon Barry SAC 01/31/2000 SAC @ MIN L 29 10 3 9 33.3 2 5 40.0 2 2 100.0 2 3 5 3 2 0 1 3 1
+p408
+aVLawrence Funderburke SAC 01/31/2000 SAC @ MIN L 18 11 5 9 55.6 0 0 - 1 1 100.0 3 3 6 0 1 0 0 0 7
+p409
+aVNick Anderson SAC 01/31/2000 SAC @ MIN L 27 10 4 13 30.8 2 5 40.0 0 0 - 4 2 6 0 4 0 0 2 -19
+p410
+aVDarrick Martin SAC 01/31/2000 SAC @ MIN L 23 13 4 11 36.4 0 1 0.0 5 5 100.0 1 0 1 4 0 0 3 0 5
+p411
+aVChris Webber SAC 01/30/2000 SAC @ NYK L 35 26 10 18 55.6 2 4 50.0 4 4 100.0 3 3 6 3 1 1 3 4 -19
+p412
+aVJon Barry SAC 01/30/2000 SAC @ NYK L 21 10 2 5 40.0 1 3 33.3 5 5 100.0 0 2 2 1 0 0 1 1 5
+p413
+aVCorliss Williamson SAC 01/30/2000 SAC @ NYK L 24 16 7 9 77.8 0 0 - 2 2 100.0 0 4 4 0 0 0 1 3 -8
+p414
+aVLawrence Funderburke SAC 01/30/2000 SAC @ NYK L 13 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 1 1 0 0 0 8
+p415
+aVTyrone Corbin SAC 01/30/2000 SAC @ NYK L 24 9 4 9 44.4 1 5 20.0 0 2 0.0 1 3 4 1 3 0 1 1 -1
+p416
+aVVlade Divac SAC 01/30/2000 SAC @ NYK L 29 17 8 11 72.7 0 0 - 1 1 100.0 1 5 6 2 1 1 4 3 -16
+p417
+aVScot Pollard SAC 01/30/2000 SAC @ NYK L 18 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 0 0 1 1 6 8
+p418
+aVJason Williams SAC 01/30/2000 SAC @ NYK L 34 5 2 9 22.2 1 5 20.0 0 0 - 2 1 3 12 4 0 7 1 -19
+p419
+aVNick Anderson SAC 01/30/2000 SAC @ NYK L 28 8 4 10 40.0 0 4 0.0 0 0 - 1 4 5 2 1 0 2 3 -13
+p420
+aVDarrick Martin SAC 01/30/2000 SAC @ NYK L 14 11 3 8 37.5 2 4 50.0 3 4 75.0 0 0 0 2 0 0 0 1 10
+p421
+aVChris Webber SAC 01/28/2000 SAC @ CHI W 36 24 11 18 61.1 0 0 - 2 5 40.0 4 8 12 4 4 1 4 6 6
+p422
+aVNick Anderson SAC 01/28/2000 SAC @ CHI W 34 13 5 13 38.5 3 9 33.3 0 0 - 1 3 4 1 2 1 3 2 9
+p423
+aVLawrence Funderburke SAC 01/28/2000 SAC @ CHI W 8 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 6
+p424
+aVDarrick Martin SAC 01/28/2000 SAC @ CHI W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -1
+p425
+aVJon Barry SAC 01/28/2000 SAC @ CHI W 21 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 7 1 0 0 0 8
+p426
+aVCorliss Williamson SAC 01/28/2000 SAC @ CHI W 21 9 4 8 50.0 0 0 - 1 2 50.0 3 0 3 0 0 0 2 4 5
+p427
+aVVlade Divac SAC 01/28/2000 SAC @ CHI W 36 19 7 15 46.7 0 1 0.0 5 6 83.3 1 3 4 2 2 2 3 4 5
+p428
+aVTyrone Corbin SAC 01/28/2000 SAC @ CHI W 24 4 1 4 25.0 0 1 0.0 2 2 100.0 1 6 7 3 1 0 0 1 8
+p429
+aVScot Pollard SAC 01/28/2000 SAC @ CHI W 12 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 0 2 0 1 2 1
+p430
+aVJason Williams SAC 01/28/2000 SAC @ CHI W 44 19 7 15 46.7 4 9 44.4 1 2 50.0 1 3 4 9 3 0 5 0 13
+p431
+aVVlade Divac SAC 01/26/2000 SAC @ MIL L 28 11 5 6 83.3 0 0 - 1 2 50.0 2 10 12 2 0 1 6 2 -6
+p432
+aVJon Barry SAC 01/26/2000 SAC @ MIL L 13 5 2 7 28.6 1 6 16.7 0 1 0.0 1 1 2 1 0 0 2 0 -3
+p433
+aVTony Delk SAC 01/26/2000 SAC @ MIL L 4 3 1 2 50.0 1 2 50.0 0 2 0.0 0 1 1 0 0 0 0 1 7
+p434
+aVDarrick Martin SAC 01/26/2000 SAC @ MIL L 14 4 1 7 14.3 0 4 0.0 2 2 100.0 1 0 1 4 0 0 0 2 2
+p435
+aVCorliss Williamson SAC 01/26/2000 SAC @ MIL L 23 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 1 0 2 1 -1
+p436
+aVChris Webber SAC 01/26/2000 SAC @ MIL L 22 12 5 16 31.3 1 3 33.3 1 4 25.0 4 4 8 1 1 1 1 2 -13
+p437
+aVJason Williams SAC 01/26/2000 SAC @ MIL L 34 11 4 11 36.4 1 6 16.7 2 2 100.0 0 3 3 11 2 0 4 2 -10
+p438
+aVNick Anderson SAC 01/26/2000 SAC @ MIL L 31 24 8 18 44.4 5 10 50.0 3 4 75.0 0 5 5 3 0 1 2 2 -12
+p439
+aVLawrence Funderburke SAC 01/26/2000 SAC @ MIL L 20 9 2 8 25.0 0 0 - 5 8 62.5 6 3 9 1 0 2 0 3 -2
+p440
+aVScot Pollard SAC 01/26/2000 SAC @ MIL L 26 9 3 9 33.3 0 0 - 3 4 75.0 6 2 8 2 0 0 0 2 5
+p441
+aVTyrone Corbin SAC 01/26/2000 SAC @ MIL L 25 14 6 11 54.5 2 6 33.3 0 0 - 1 4 5 1 1 0 0 4 -7
+p442
+aVJon Barry SAC 01/25/2000 SAC @ CHH W 17 6 2 3 66.7 1 1 100.0 1 1 100.0 0 0 0 2 1 0 1 2 -1
+p443
+aVJason Williams SAC 01/25/2000 SAC @ CHH W 36 15 6 15 40.0 3 8 37.5 0 0 - 0 4 4 9 3 0 4 4 14
+p444
+aVNick Anderson SAC 01/25/2000 SAC @ CHH W 38 29 11 16 68.8 3 3 100.0 4 4 100.0 1 2 3 4 2 0 5 0 23
+p445
+aVScot Pollard SAC 01/25/2000 SAC @ CHH W 19 0 0 2 0.0 0 0 - 0 0 - 1 3 4 2 1 1 2 5 -3
+p446
+aVCorliss Williamson SAC 01/25/2000 SAC @ CHH W 11 4 2 2 100.0 0 0 - 0 0 - 1 0 1 2 1 0 1 5 3
+p447
+aVLawrence Funderburke SAC 01/25/2000 SAC @ CHH W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -9
+p448
+aVTyrone Corbin SAC 01/25/2000 SAC @ CHH W 30 9 4 8 50.0 1 2 50.0 0 0 - 0 4 4 1 1 0 2 2 -1
+p449
+aVVlade Divac SAC 01/25/2000 SAC @ CHH W 31 7 2 7 28.6 0 0 - 3 5 60.0 0 12 12 6 2 3 2 3 10
+p450
+aVDarrick Martin SAC 01/25/2000 SAC @ CHH W 12 8 3 6 50.0 1 2 50.0 1 2 50.0 0 1 1 2 0 0 1 0 -3
+p451
+aVChris Webber SAC 01/25/2000 SAC @ CHH W 38 30 13 23 56.5 0 1 0.0 4 5 80.0 1 10 11 3 1 1 3 5 22
+p452
+aVLawrence Funderburke SAC 01/22/2000 SAC vs. UTA L 5 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 1 0 0 0 -2
+p453
+aVJason Williams SAC 01/22/2000 SAC vs. UTA L 44 22 8 16 50.0 3 8 37.5 3 3 100.0 0 1 1 6 3 0 3 5 2
+p454
+aVNick Anderson SAC 01/22/2000 SAC vs. UTA L 34 15 6 14 42.9 3 5 60.0 0 2 0.0 3 5 8 1 1 0 1 4 8
+p455
+aVJon Barry SAC 01/22/2000 SAC vs. UTA L 21 11 4 8 50.0 2 3 66.7 1 1 100.0 2 0 2 2 1 0 0 1 -7
+p456
+aVCorliss Williamson SAC 01/22/2000 SAC vs. UTA L 22 9 4 5 80.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -7
+p457
+aVScot Pollard SAC 01/22/2000 SAC vs. UTA L 12 5 2 3 66.7 0 0 - 1 1 100.0 2 3 5 0 0 2 0 2 -8
+p458
+aVVlade Divac SAC 01/22/2000 SAC vs. UTA L 36 11 4 7 57.1 0 0 - 3 3 100.0 3 7 10 4 1 1 2 2 5
+p459
+aVDarrick Martin SAC 01/22/2000 SAC vs. UTA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p460
+aVPeja Stojakovic SAC 01/22/2000 SAC vs. UTA L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p461
+aVChris Webber SAC 01/22/2000 SAC vs. UTA L 43 21 8 27 29.6 0 3 0.0 5 6 83.3 0 7 7 3 1 1 5 5 -1
+p462
+aVTyrone Corbin SAC 01/22/2000 SAC vs. UTA L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 5
+p463
+aVLawrence Funderburke SAC 01/20/2000 SAC vs. ORL W 22 15 6 10 60.0 0 0 - 3 5 60.0 2 2 4 1 0 0 1 1 3
+p464
+aVJon Barry SAC 01/20/2000 SAC vs. ORL W 23 9 2 7 28.6 2 3 66.7 3 3 100.0 1 2 3 4 3 0 2 1 11
+p465
+aVJason Williams SAC 01/20/2000 SAC vs. ORL W 35 8 3 11 27.3 2 6 33.3 0 0 - 1 2 3 8 1 0 7 3 -5
+p466
+aVDarrick Martin SAC 01/20/2000 SAC vs. ORL W 13 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 2 0 0 0 2 13
+p467
+aVCorliss Williamson SAC 01/20/2000 SAC vs. ORL W 20 12 6 10 60.0 0 0 - 0 0 - 2 1 3 1 0 1 2 4 4
+p468
+aVNick Anderson SAC 01/20/2000 SAC vs. ORL W 25 11 4 10 40.0 3 9 33.3 0 0 - 0 5 5 3 3 0 4 2 -3
+p469
+aVPeja Stojakovic SAC 01/20/2000 SAC vs. ORL W 32 17 7 20 35.0 2 10 20.0 1 1 100.0 3 7 10 2 1 0 1 1 2
+p470
+aVTyrone Corbin SAC 01/20/2000 SAC vs. ORL W 22 12 6 11 54.5 0 0 - 0 0 - 4 1 5 1 0 0 0 3 7
+p471
+aVScot Pollard SAC 01/20/2000 SAC vs. ORL W 13 2 0 1 0.0 0 0 - 2 2 100.0 2 4 6 1 1 0 1 3 13
+p472
+aVVlade Divac SAC 01/20/2000 SAC vs. ORL W 35 17 6 8 75.0 0 0 - 5 8 62.5 5 7 12 4 1 3 5 2 -5
+p473
+aVScot Pollard SAC 01/18/2000 SAC vs. LAC W 8 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 6
+p474
+aVNick Anderson SAC 01/18/2000 SAC vs. LAC W 31 19 8 15 53.3 2 6 33.3 1 3 33.3 2 2 4 2 1 0 2 1 10
+p475
+aVDarrick Martin SAC 01/18/2000 SAC vs. LAC W 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 2 0 1 3 -8
+p476
+aVJason Williams SAC 01/18/2000 SAC vs. LAC W 36 8 3 12 25.0 0 6 0.0 2 2 100.0 0 3 3 12 3 0 3 3 14
+p477
+aVJon Barry SAC 01/18/2000 SAC vs. LAC W 22 7 2 4 50.0 1 1 100.0 2 2 100.0 0 2 2 4 0 0 2 2 -3
+p478
+aVLawrence Funderburke SAC 01/18/2000 SAC vs. LAC W 10 0 0 5 0.0 0 0 - 0 0 - 4 3 7 0 0 1 0 1 -6
+p479
+aVVlade Divac SAC 01/18/2000 SAC vs. LAC W 36 10 5 10 50.0 0 0 - 0 1 0.0 2 9 11 4 2 3 1 4 5
+p480
+aVCorliss Williamson SAC 01/18/2000 SAC vs. LAC W 23 10 3 6 50.0 0 0 - 4 4 100.0 1 4 5 0 1 1 3 4 11
+p481
+aVChris Webber SAC 01/18/2000 SAC vs. LAC W 41 30 13 30 43.3 0 0 - 4 4 100.0 2 8 10 4 2 3 2 0 7
+p482
+aVPeja Stojakovic SAC 01/18/2000 SAC vs. LAC W 20 10 3 6 50.0 2 4 50.0 2 2 100.0 1 3 4 0 0 0 1 1 -6
+p483
+aVScot Pollard SAC 01/16/2000 SAC vs. CLE W 22 11 5 5 100.0 0 0 - 1 2 50.0 1 5 6 0 1 3 0 5 6
+p484
+aVJason Williams SAC 01/16/2000 SAC vs. CLE W 39 20 7 16 43.8 5 10 50.0 1 2 50.0 1 4 5 10 1 0 3 1 15
+p485
+aVLawrence Funderburke SAC 01/16/2000 SAC vs. CLE W 8 8 2 4 50.0 0 0 - 4 4 100.0 0 1 1 0 1 0 1 2 -1
+p486
+aVDarrick Martin SAC 01/16/2000 SAC vs. CLE W 9 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 -4
+p487
+aVJon Barry SAC 01/16/2000 SAC vs. CLE W 18 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 0 2 0 2 2 -5
+p488
+aVNick Anderson SAC 01/16/2000 SAC vs. CLE W 30 12 5 12 41.7 2 7 28.6 0 0 - 0 2 2 2 0 0 2 2 16
+p489
+aVCorliss Williamson SAC 01/16/2000 SAC vs. CLE W 22 6 3 6 50.0 0 0 - 0 0 - 1 0 1 1 0 0 2 0 1
+p490
+aVChris Webber SAC 01/16/2000 SAC vs. CLE W 40 25 9 19 47.4 0 1 0.0 7 12 58.3 1 10 11 5 2 5 2 3 12
+p491
+aVPeja Stojakovic SAC 01/16/2000 SAC vs. CLE W 26 16 5 9 55.6 2 3 66.7 4 4 100.0 1 1 2 1 1 0 2 2 10
+p492
+aVVlade Divac SAC 01/16/2000 SAC vs. CLE W 26 11 5 6 83.3 0 0 - 1 3 33.3 2 7 9 3 1 2 3 5 5
+p493
+aVScot Pollard SAC 01/15/2000 SAC @ GSW W 7 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 1 0 0 0 3 2
+p494
+aVLawrence Funderburke SAC 01/15/2000 SAC @ GSW W 16 8 2 3 66.7 0 0 - 4 6 66.7 1 3 4 0 0 0 2 1 2
+p495
+aVPeja Stojakovic SAC 01/15/2000 SAC @ GSW W 18 9 2 5 40.0 1 3 33.3 4 4 100.0 0 1 1 3 2 1 0 0 13
+p496
+aVCorliss Williamson SAC 01/15/2000 SAC @ GSW W 31 23 6 11 54.5 0 0 - 11 11 100.0 1 3 4 1 0 0 4 2 3
+p497
+aVJason Williams SAC 01/15/2000 SAC @ GSW W 34 9 4 9 44.4 0 3 0.0 1 1 100.0 0 2 2 10 3 0 3 1 13
+p498
+aVVlade Divac SAC 01/15/2000 SAC @ GSW W 34 14 5 8 62.5 0 0 - 4 6 66.7 2 10 12 0 1 0 2 1 14
+p499
+aVNick Anderson SAC 01/15/2000 SAC @ GSW W 27 5 2 9 22.2 1 6 16.7 0 0 - 4 2 6 2 0 0 0 0 7
+p500
+aVChris Webber SAC 01/15/2000 SAC @ GSW W 39 37 13 19 68.4 1 2 50.0 10 11 90.9 2 14 16 3 2 4 5 3 11
+p501
+aVJon Barry SAC 01/15/2000 SAC @ GSW W 21 4 1 7 14.3 0 2 0.0 2 2 100.0 1 1 2 2 1 0 0 2 8
+p502
+aVDarrick Martin SAC 01/15/2000 SAC @ GSW W 14 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 1 0 0 0 2
+p503
+aVDarrick Martin SAC 01/13/2000 SAC vs. SAS W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p504
+aVLawrence Funderburke SAC 01/13/2000 SAC vs. SAS W 5 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -8
+p505
+aVNick Anderson SAC 01/13/2000 SAC vs. SAS W 30 10 3 13 23.1 1 5 20.0 3 5 60.0 2 3 5 1 1 0 1 2 4
+p506
+aVCorliss Williamson SAC 01/13/2000 SAC vs. SAS W 22 8 2 6 33.3 0 0 - 4 4 100.0 3 2 5 0 0 0 2 3 2
+p507
+aVScot Pollard SAC 01/13/2000 SAC vs. SAS W 14 0 0 3 0.0 0 0 - 0 0 - 2 4 6 1 0 1 0 5 -5
+p508
+aVJon Barry SAC 01/13/2000 SAC vs. SAS W 22 8 3 7 42.9 1 3 33.3 1 1 100.0 1 0 1 1 0 0 1 2 5
+p509
+aVPeja Stojakovic SAC 01/13/2000 SAC vs. SAS W 22 8 3 8 37.5 2 4 50.0 0 0 - 4 2 6 0 1 0 1 0 -3
+p510
+aVJason Williams SAC 01/13/2000 SAC vs. SAS W 42 22 7 21 33.3 1 7 14.3 7 10 70.0 1 4 5 3 2 0 5 3 11
+p511
+aVVlade Divac SAC 01/13/2000 SAC vs. SAS W 35 9 4 10 40.0 0 1 0.0 1 2 50.0 2 8 10 3 2 3 3 5 8
+p512
+aVChris Webber SAC 01/13/2000 SAC vs. SAS W 41 34 13 27 48.1 2 2 100.0 6 8 75.0 7 12 19 3 2 2 0 3 13
+p513
+aVTony Delk SAC 01/11/2000 SAC vs. HOU W 4 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 3 1 1
+p514
+aVJason Williams SAC 01/11/2000 SAC vs. HOU W 27 9 3 7 42.9 1 2 50.0 2 3 66.7 0 1 1 5 4 1 3 4 10
+p515
+aVChris Webber SAC 01/11/2000 SAC vs. HOU W 33 26 13 24 54.2 0 1 0.0 0 0 - 4 8 12 3 2 1 2 3 12
+p516
+aVNick Anderson SAC 01/11/2000 SAC vs. HOU W 27 11 5 11 45.5 1 5 20.0 0 0 - 1 1 2 1 2 1 1 1 10
+p517
+aVVlade Divac SAC 01/11/2000 SAC vs. HOU W 26 11 2 6 33.3 0 0 - 7 8 87.5 2 4 6 2 3 3 0 3 12
+p518
+aVJon Barry SAC 01/11/2000 SAC vs. HOU W 21 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 2 3 0 0 2 4
+p519
+aVDarrick Martin SAC 01/11/2000 SAC vs. HOU W 21 17 7 12 58.3 3 6 50.0 0 0 - 0 1 1 2 0 0 4 2 7
+p520
+aVPeja Stojakovic SAC 01/11/2000 SAC vs. HOU W 18 9 2 5 40.0 1 1 100.0 4 4 100.0 0 4 4 3 0 0 2 1 10
+p521
+aVScot Pollard SAC 01/11/2000 SAC vs. HOU W 22 7 2 3 66.7 0 0 - 3 4 75.0 0 5 5 1 5 0 0 3 5
+p522
+aVCorliss Williamson SAC 01/11/2000 SAC vs. HOU W 20 4 2 9 22.2 0 0 - 0 0 - 2 4 6 4 1 0 1 0 13
+p523
+aVLawrence Funderburke SAC 01/11/2000 SAC vs. HOU W 15 7 3 4 75.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 1 5
+p524
+aVTyrone Corbin SAC 01/11/2000 SAC vs. HOU W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p525
+aVLawrence Funderburke SAC 01/09/2000 SAC vs. IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p526
+aVNick Anderson SAC 01/09/2000 SAC vs. IND W 41 25 10 16 62.5 4 4 100.0 1 2 50.0 2 6 8 1 2 0 3 1 12
+p527
+aVCorliss Williamson SAC 01/09/2000 SAC vs. IND W 38 23 7 13 53.8 0 0 - 9 10 90.0 3 6 9 3 0 0 5 4 16
+p528
+aVVlade Divac SAC 01/09/2000 SAC vs. IND W 35 16 6 11 54.5 1 3 33.3 3 6 50.0 2 5 7 3 0 0 3 5 13
+p529
+aVScot Pollard SAC 01/09/2000 SAC vs. IND W 12 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 2 0 3 -6
+p530
+aVDarrick Martin SAC 01/09/2000 SAC vs. IND W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p531
+aVJason Williams SAC 01/09/2000 SAC vs. IND W 43 6 2 4 50.0 1 3 33.3 1 2 50.0 0 2 2 15 2 0 3 3 8
+p532
+aVJon Barry SAC 01/09/2000 SAC vs. IND W 8 5 1 4 25.0 0 2 0.0 3 3 100.0 0 1 1 0 0 0 1 1 -13
+p533
+aVPeja Stojakovic SAC 01/09/2000 SAC vs. IND W 9 6 1 3 33.3 0 1 0.0 4 4 100.0 1 1 2 1 0 0 0 0 -13
+p534
+aVChris Webber SAC 01/09/2000 SAC vs. IND W 42 31 15 26 57.7 1 2 50.0 0 2 0.0 0 7 7 6 2 1 1 4 6
+p535
+aVScot Pollard SAC 01/07/2000 SAC @ BOS L 21 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 0 0 1 3 -5
+p536
+aVPeja Stojakovic SAC 01/07/2000 SAC @ BOS L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 1 0 3 1 -26
+p537
+aVJason Williams SAC 01/07/2000 SAC @ BOS L 37 11 4 17 23.5 0 7 0.0 3 4 75.0 0 5 5 7 1 0 4 2 7
+p538
+aVChris Webber SAC 01/07/2000 SAC @ BOS L 34 21 8 16 50.0 0 2 0.0 5 5 100.0 3 8 11 6 2 4 1 2 -6
+p539
+aVCorliss Williamson SAC 01/07/2000 SAC @ BOS L 35 11 5 10 50.0 0 0 - 1 1 100.0 3 0 3 2 0 0 0 3 18
+p540
+aVJon Barry SAC 01/07/2000 SAC @ BOS L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 -18
+p541
+aVDarrick Martin SAC 01/07/2000 SAC @ BOS L 11 0 0 3 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 -15
+p542
+aVLawrence Funderburke SAC 01/07/2000 SAC @ BOS L 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -10
+p543
+aVVlade Divac SAC 01/07/2000 SAC @ BOS L 34 18 9 17 52.9 0 0 - 0 0 - 3 6 9 2 3 2 3 5 5
+p544
+aVNick Anderson SAC 01/07/2000 SAC @ BOS L 36 24 9 16 56.3 6 11 54.5 0 0 - 2 5 7 2 5 0 4 2 10
+p545
+aVVlade Divac SAC 01/06/2000 SAC @ TOR L 33 13 4 12 33.3 0 1 0.0 5 6 83.3 2 5 7 3 2 1 1 2 -1
+p546
+aVTony Delk SAC 01/06/2000 SAC @ TOR L 5 8 4 5 80.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p547
+aVCorliss Williamson SAC 01/06/2000 SAC @ TOR L 18 8 3 9 33.3 0 0 - 2 2 100.0 3 0 3 1 0 2 1 3 -3
+p548
+aVJason Williams SAC 01/06/2000 SAC @ TOR L 37 5 2 11 18.2 1 7 14.3 0 0 - 0 5 5 4 1 1 1 0 -3
+p549
+aVScot Pollard SAC 01/06/2000 SAC @ TOR L 15 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 0 1 0 2 -11
+p550
+aVTyrone Corbin SAC 01/06/2000 SAC @ TOR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p551
+aVDarrick Martin SAC 01/06/2000 SAC @ TOR L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -9
+p552
+aVNick Anderson SAC 01/06/2000 SAC @ TOR L 28 2 1 7 14.3 0 2 0.0 0 0 - 1 3 4 0 1 1 3 1 -7
+p553
+aVPeja Stojakovic SAC 01/06/2000 SAC @ TOR L 17 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 3 1 -9
+p554
+aVJon Barry SAC 01/06/2000 SAC @ TOR L 23 14 6 7 85.7 0 0 - 2 2 100.0 1 0 1 2 1 1 6 1 -13
+p555
+aVChris Webber SAC 01/06/2000 SAC @ TOR L 37 27 11 21 52.4 1 2 50.0 4 4 100.0 3 16 19 1 0 0 2 2 -3
+p556
+aVLawrence Funderburke SAC 01/06/2000 SAC @ TOR L 11 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 1 -9
+p557
+aVNick Anderson SAC 01/04/2000 SAC @ CLE W 23 9 3 6 50.0 2 4 50.0 1 2 50.0 2 0 2 2 1 0 1 2 2
+p558
+aVScot Pollard SAC 01/04/2000 SAC @ CLE W 4 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 0 0 1 0 0 -5
+p559
+aVVlade Divac SAC 01/04/2000 SAC @ CLE W 31 8 2 7 28.6 0 0 - 4 8 50.0 2 7 9 3 4 1 2 3 15
+p560
+aVDarrick Martin SAC 01/04/2000 SAC @ CLE W 7 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 2 -9
+p561
+aVPeja Stojakovic SAC 01/04/2000 SAC @ CLE W 20 3 1 8 12.5 1 3 33.3 0 0 - 1 3 4 1 0 0 1 1 -7
+p562
+aVTyrone Corbin SAC 01/04/2000 SAC @ CLE W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 11
+p563
+aVChris Webber SAC 01/04/2000 SAC @ CLE W 44 37 14 22 63.6 2 3 66.7 7 7 100.0 0 10 10 4 2 1 3 4 9
+p564
+aVJon Barry SAC 01/04/2000 SAC @ CLE W 20 8 1 5 20.0 1 3 33.3 5 5 100.0 0 0 0 2 2 0 2 3 -9
+p565
+aVLawrence Funderburke SAC 01/04/2000 SAC @ CLE W 16 10 4 6 66.7 0 0 - 2 4 50.0 4 2 6 0 1 0 1 2 -11
+p566
+aVTony Delk SAC 01/04/2000 SAC @ CLE W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 11
+p567
+aVJason Williams SAC 01/04/2000 SAC @ CLE W 41 18 5 17 29.4 4 13 30.8 4 6 66.7 0 3 3 18 2 1 5 4 13
+p568
+aVCorliss Williamson SAC 01/04/2000 SAC @ CLE W 23 12 5 7 71.4 0 0 - 2 5 40.0 2 3 5 1 1 0 1 3 0
+p569
+aVVlade Divac SAC 12/29/1999 SAC @ SEA W 22 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 3 1 0 4 -7
+p570
+aVChris Webber SAC 12/29/1999 SAC @ SEA W 43 31 10 17 58.8 1 1 100.0 10 12 83.3 1 9 10 3 0 1 1 4 15
+p571
+aVScot Pollard SAC 12/29/1999 SAC @ SEA W 12 2 1 1 100.0 0 0 - 0 0 - 1 3 4 2 1 0 2 1 5
+p572
+aVDarrick Martin SAC 12/29/1999 SAC @ SEA W 36 21 6 11 54.5 3 5 60.0 6 7 85.7 0 2 2 7 1 0 2 2 1
+p573
+aVTony Delk SAC 12/29/1999 SAC @ SEA W 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 10
+p574
+aVLawrence Funderburke SAC 12/29/1999 SAC @ SEA W 20 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 1 3 5
+p575
+aVJon Barry SAC 12/29/1999 SAC @ SEA W 26 14 4 7 57.1 2 2 100.0 4 4 100.0 0 2 2 6 4 1 1 1 12
+p576
+aVNick Anderson SAC 12/29/1999 SAC @ SEA W 26 7 3 9 33.3 1 6 16.7 0 0 - 0 3 3 0 0 0 1 0 -5
+p577
+aVCorliss Williamson SAC 12/29/1999 SAC @ SEA W 30 16 6 14 42.9 0 0 - 4 4 100.0 3 4 7 2 0 0 3 2 -1
+p578
+aVPeja Stojakovic SAC 12/29/1999 SAC @ SEA W 18 14 3 7 42.9 1 3 33.3 7 8 87.5 2 3 5 1 1 0 0 1 10
+p579
+aVNick Anderson SAC 12/28/1999 SAC vs. BOS W 21 10 4 10 40.0 2 7 28.6 0 0 - 0 3 3 1 2 0 0 1 12
+p580
+aVVlade Divac SAC 12/28/1999 SAC vs. BOS W 33 13 3 4 75.0 0 0 - 7 8 87.5 2 5 7 6 0 4 1 2 8
+p581
+aVChris Webber SAC 12/28/1999 SAC vs. BOS W 33 23 9 17 52.9 0 0 - 5 5 100.0 3 8 11 6 0 4 4 3 17
+p582
+aVJason Williams SAC 12/28/1999 SAC vs. BOS W 33 15 4 13 30.8 2 6 33.3 5 7 71.4 1 2 3 7 0 0 5 2 16
+p583
+aVLawrence Funderburke SAC 12/28/1999 SAC vs. BOS W 15 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 3 0 2 -4
+p584
+aVJon Barry SAC 12/28/1999 SAC vs. BOS W 27 12 4 5 80.0 2 3 66.7 2 3 66.7 0 5 5 2 1 0 3 1 1
+p585
+aVPeja Stojakovic SAC 12/28/1999 SAC vs. BOS W 26 19 7 11 63.6 2 3 66.7 3 3 100.0 0 4 4 1 2 1 0 1 1
+p586
+aVCorliss Williamson SAC 12/28/1999 SAC vs. BOS W 22 8 4 9 44.4 0 0 - 0 0 - 2 7 9 3 0 0 2 3 12
+p587
+aVScot Pollard SAC 12/28/1999 SAC vs. BOS W 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 6 7
+p588
+aVDarrick Martin SAC 12/28/1999 SAC vs. BOS W 16 8 1 2 50.0 0 0 - 6 6 100.0 0 0 0 3 0 0 1 1 -3
+p589
+aVTony Delk SAC 12/28/1999 SAC vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p590
+aVChris Webber SAC 12/26/1999 SAC vs. DAL W 39 31 12 23 52.2 1 2 50.0 6 6 100.0 0 5 5 6 2 2 4 3 10
+p591
+aVScot Pollard SAC 12/26/1999 SAC vs. DAL W 17 13 5 6 83.3 0 0 - 3 4 75.0 2 4 6 1 0 0 0 1 -15
+p592
+aVCorliss Williamson SAC 12/26/1999 SAC vs. DAL W 21 11 5 6 83.3 0 0 - 1 2 50.0 1 4 5 0 0 0 1 3 10
+p593
+aVDarrick Martin SAC 12/26/1999 SAC vs. DAL W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -5
+p594
+aVJon Barry SAC 12/26/1999 SAC vs. DAL W 22 11 5 10 50.0 0 3 0.0 1 2 50.0 1 5 6 5 2 0 1 1 -6
+p595
+aVJason Williams SAC 12/26/1999 SAC vs. DAL W 36 23 8 14 57.1 2 4 50.0 5 6 83.3 0 1 1 8 1 0 2 0 12
+p596
+aVPeja Stojakovic SAC 12/26/1999 SAC vs. DAL W 23 7 3 7 42.9 1 4 25.0 0 2 0.0 0 1 1 2 1 0 2 0 -2
+p597
+aVLawrence Funderburke SAC 12/26/1999 SAC vs. DAL W 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p598
+aVVlade Divac SAC 12/26/1999 SAC vs. DAL W 30 9 4 9 44.4 0 0 - 1 4 25.0 3 10 13 6 1 1 4 4 23
+p599
+aVNick Anderson SAC 12/26/1999 SAC vs. DAL W 30 9 3 5 60.0 3 4 75.0 0 0 - 0 3 3 3 2 0 0 0 11
+p600
+aVJason Williams SAC 12/23/1999 SAC @ LAC L 40 15 5 13 38.5 2 6 33.3 3 3 100.0 0 6 6 7 2 0 5 5 7
+p601
+aVJon Barry SAC 12/23/1999 SAC @ LAC L 23 7 3 6 50.0 0 1 0.0 1 1 100.0 0 2 2 2 0 0 2 0 -10
+p602
+aVDarrick Martin SAC 12/23/1999 SAC @ LAC L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -12
+p603
+aVPeja Stojakovic SAC 12/23/1999 SAC @ LAC L 17 2 1 9 11.1 0 4 0.0 0 0 - 1 3 4 1 1 0 1 3 -22
+p604
+aVScot Pollard SAC 12/23/1999 SAC @ LAC L 14 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 1 0 2 -11
+p605
+aVVlade Divac SAC 12/23/1999 SAC @ LAC L 32 11 2 7 28.6 0 1 0.0 7 14 50.0 1 8 9 8 1 1 4 2 5
+p606
+aVChris Webber SAC 12/23/1999 SAC @ LAC L 40 33 15 27 55.6 0 0 - 3 7 42.9 2 3 5 1 2 2 4 4 -3
+p607
+aVNick Anderson SAC 12/23/1999 SAC @ LAC L 27 3 1 5 20.0 1 4 25.0 0 2 0.0 1 6 7 1 1 0 1 2 6
+p608
+aVCorliss Williamson SAC 12/23/1999 SAC @ LAC L 31 17 8 13 61.5 0 0 - 1 2 50.0 5 6 11 1 2 0 1 4 17
+p609
+aVLawrence Funderburke SAC 12/23/1999 SAC @ LAC L 8 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 1 1 1 -2
+p610
+aVCorliss Williamson SAC 12/21/1999 SAC vs. MIL W 28 17 6 10 60.0 0 0 - 5 5 100.0 5 3 8 1 0 1 1 4 5
+p611
+aVJon Barry SAC 12/21/1999 SAC vs. MIL W 25 7 2 5 40.0 1 4 25.0 2 2 100.0 1 1 2 5 1 0 2 0 1
+p612
+aVVlade Divac SAC 12/21/1999 SAC vs. MIL W 35 13 4 12 33.3 0 0 - 5 11 45.5 2 10 12 5 0 3 2 2 10
+p613
+aVLawrence Funderburke SAC 12/21/1999 SAC vs. MIL W 25 10 3 5 60.0 0 0 - 4 5 80.0 2 4 6 0 2 0 3 4 7
+p614
+aVJason Williams SAC 12/21/1999 SAC vs. MIL W 44 28 12 25 48.0 3 11 27.3 1 1 100.0 0 5 5 6 1 1 3 2 14
+p615
+aVTyrone Corbin SAC 12/21/1999 SAC vs. MIL W 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 2
+p616
+aVDarrick Martin SAC 12/21/1999 SAC vs. MIL W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -1
+p617
+aVNick Anderson SAC 12/21/1999 SAC vs. MIL W 23 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 0 4 0 2 1 12
+p618
+aVScot Pollard SAC 12/21/1999 SAC vs. MIL W 23 12 3 6 50.0 0 0 - 6 8 75.0 5 5 10 0 0 0 2 5 9
+p619
+aVPeja Stojakovic SAC 12/21/1999 SAC vs. MIL W 29 19 7 15 46.7 3 7 42.9 2 2 100.0 0 5 5 3 0 0 1 2 6
+p620
+aVLawrence Funderburke SAC 12/20/1999 SAC @ GSW L 21 10 4 8 50.0 0 0 - 2 2 100.0 2 3 5 0 2 1 4 2 -10
+p621
+aVPeja Stojakovic SAC 12/20/1999 SAC @ GSW L 26 19 7 14 50.0 2 6 33.3 3 3 100.0 3 2 5 2 1 0 1 3 5
+p622
+aVScot Pollard SAC 12/20/1999 SAC @ GSW L 14 8 4 5 80.0 0 0 - 0 0 - 5 4 9 0 0 1 2 5 -5
+p623
+aVTony Delk SAC 12/20/1999 SAC @ GSW L 45 5 2 17 11.8 0 5 0.0 1 2 50.0 6 5 11 5 0 0 1 1 -8
+p624
+aVVlade Divac SAC 12/20/1999 SAC @ GSW L 27 10 5 14 35.7 0 0 - 0 0 - 1 3 4 4 0 1 5 4 -9
+p625
+aVCorliss Williamson SAC 12/20/1999 SAC @ GSW L 35 24 9 19 47.4 0 0 - 6 11 54.5 8 1 9 1 5 0 3 4 -5
+p626
+aVJason Williams SAC 12/20/1999 SAC @ GSW L 35 10 4 13 30.8 1 6 16.7 1 3 33.3 0 6 6 11 3 0 6 2 -22
+p627
+aVBill Wennington SAC 12/20/1999 SAC @ GSW L 4 6 2 2 100.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 7
+p628
+aVTyrone Corbin SAC 12/20/1999 SAC @ GSW L 33 7 3 9 33.3 0 0 - 1 1 100.0 0 4 4 2 1 0 0 2 -13
+p629
+aVScot Pollard SAC 12/18/1999 SAC @ PHX L 12 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 4 -16
+p630
+aVJason Williams SAC 12/18/1999 SAC @ PHX L 36 22 7 16 43.8 5 8 62.5 3 5 60.0 0 3 3 8 1 0 7 3 0
+p631
+aVTyrone Corbin SAC 12/18/1999 SAC @ PHX L 8 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -2
+p632
+aVCorliss Williamson SAC 12/18/1999 SAC @ PHX L 39 20 6 12 50.0 0 0 - 8 9 88.9 2 3 5 2 0 1 2 3 -3
+p633
+aVVlade Divac SAC 12/18/1999 SAC @ PHX L 36 21 8 12 66.7 0 1 0.0 5 9 55.6 1 10 11 0 2 2 2 3 0
+p634
+aVPeja Stojakovic SAC 12/18/1999 SAC @ PHX L 9 2 1 5 20.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 2 -13
+p635
+aVDarrick Martin SAC 12/18/1999 SAC @ PHX L 12 2 0 2 0.0 0 2 0.0 2 4 50.0 0 0 0 1 0 0 1 3 -16
+p636
+aVTony Delk SAC 12/18/1999 SAC @ PHX L 15 9 4 7 57.1 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 -13
+p637
+aVChris Webber SAC 12/18/1999 SAC @ PHX L 17 6 3 11 27.3 0 0 - 0 0 - 3 7 10 3 0 0 1 2 -14
+p638
+aVNick Anderson SAC 12/18/1999 SAC @ PHX L 33 10 4 8 50.0 2 5 40.0 0 0 - 1 3 4 4 4 0 2 1 -3
+p639
+aVLawrence Funderburke SAC 12/18/1999 SAC @ PHX L 23 6 1 8 12.5 0 0 - 4 6 66.7 3 4 7 0 1 1 1 2 0
+p640
+aVTyrone Corbin SAC 12/16/1999 SAC @ DEN L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 2 0
+p641
+aVLawrence Funderburke SAC 12/16/1999 SAC @ DEN L 20 16 6 10 60.0 0 0 - 4 5 80.0 4 2 6 2 1 0 0 0 13
+p642
+aVTony Delk SAC 12/16/1999 SAC @ DEN L 24 10 4 9 44.4 1 3 33.3 1 2 50.0 0 1 1 3 0 1 0 2 -2
+p643
+aVNick Anderson SAC 12/16/1999 SAC @ DEN L 24 0 0 6 0.0 0 2 0.0 0 0 - 1 3 4 2 0 1 1 2 -8
+p644
+aVJason Williams SAC 12/16/1999 SAC @ DEN L 24 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 7 2 0 5 2 -8
+p645
+aVDarrick Martin SAC 12/16/1999 SAC @ DEN L 17 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 4 0 0 2 2 -2
+p646
+aVScot Pollard SAC 12/16/1999 SAC @ DEN L 18 4 0 2 0.0 0 0 - 4 6 66.7 2 2 4 0 1 1 2 2 -8
+p647
+aVPeja Stojakovic SAC 12/16/1999 SAC @ DEN L 30 19 7 11 63.6 1 4 25.0 4 4 100.0 1 3 4 0 1 0 1 3 -8
+p648
+aVChris Webber SAC 12/16/1999 SAC @ DEN L 40 26 10 20 50.0 0 1 0.0 6 7 85.7 1 5 6 4 0 1 1 3 -21
+p649
+aVCorliss Williamson SAC 12/16/1999 SAC @ DEN L 18 6 2 7 28.6 0 0 - 2 2 100.0 3 3 6 2 0 2 1 3 -2
+p650
+aVVlade Divac SAC 12/16/1999 SAC @ DEN L 17 10 4 7 57.1 0 0 - 2 2 100.0 3 4 7 2 0 0 3 2 -4
+p651
+aVDarrick Martin SAC 12/15/1999 SAC @ VAN W 18 15 3 8 37.5 0 1 0.0 9 10 90.0 1 1 2 4 3 0 1 0 13
+p652
+aVTyrone Corbin SAC 12/15/1999 SAC @ VAN W 17 7 3 6 50.0 0 0 - 1 1 100.0 0 3 3 2 1 0 1 5 6
+p653
+aVTony Delk SAC 12/15/1999 SAC @ VAN W 9 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 1 0 1 1 7
+p654
+aVLawrence Funderburke SAC 12/15/1999 SAC @ VAN W 19 15 4 7 57.1 0 0 - 7 8 87.5 0 3 3 0 0 0 0 1 -2
+p655
+aVPeja Stojakovic SAC 12/15/1999 SAC @ VAN W 26 17 7 9 77.8 1 2 50.0 2 5 40.0 1 2 3 1 1 0 2 2 18
+p656
+aVJason Williams SAC 12/15/1999 SAC @ VAN W 30 7 3 11 27.3 1 4 25.0 0 0 - 0 2 2 3 1 1 4 3 -11
+p657
+aVScot Pollard SAC 12/15/1999 SAC @ VAN W 17 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 1 1 0 3 3
+p658
+aVVlade Divac SAC 12/15/1999 SAC @ VAN W 29 13 5 13 38.5 0 0 - 3 3 100.0 0 8 8 6 1 3 3 3 9
+p659
+aVChris Webber SAC 12/15/1999 SAC @ VAN W 30 21 8 20 40.0 1 1 100.0 4 4 100.0 4 9 13 4 0 0 1 5 -1
+p660
+aVNick Anderson SAC 12/15/1999 SAC @ VAN W 23 0 0 6 0.0 0 5 0.0 0 0 - 1 3 4 1 1 0 1 1 -12
+p661
+aVCorliss Williamson SAC 12/15/1999 SAC @ VAN W 22 10 4 9 44.4 0 0 - 2 2 100.0 3 1 4 0 1 0 2 3 -15
+p662
+aVTyrone Corbin SAC 12/11/1999 SAC vs. POR L 26 10 4 9 44.4 0 0 - 2 2 100.0 1 2 3 2 0 0 0 6 -4
+p663
+aVNick Anderson SAC 12/11/1999 SAC vs. POR L 32 7 3 11 27.3 1 6 16.7 0 0 - 1 4 5 1 0 0 2 2 -11
+p664
+aVJason Williams SAC 12/11/1999 SAC vs. POR L 42 15 5 13 38.5 4 8 50.0 1 2 50.0 1 2 3 12 0 0 3 1 -2
+p665
+aVPeja Stojakovic SAC 12/11/1999 SAC vs. POR L 22 4 0 4 0.0 0 1 0.0 4 4 100.0 1 5 6 2 0 0 0 2 1
+p666
+aVChris Webber SAC 12/11/1999 SAC vs. POR L 41 36 16 26 61.5 0 0 - 4 6 66.7 4 8 12 5 1 3 2 4 2
+p667
+aVVlade Divac SAC 12/11/1999 SAC vs. POR L 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 3 0 2 4 -2
+p668
+aVLawrence Funderburke SAC 12/11/1999 SAC vs. POR L 16 10 3 10 30.0 0 0 - 4 5 80.0 3 2 5 0 1 0 0 0 -13
+p669
+aVCorliss Williamson SAC 12/11/1999 SAC vs. POR L 17 6 2 9 22.2 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 3
+p670
+aVScot Pollard SAC 12/11/1999 SAC vs. POR L 20 2 0 1 0.0 0 0 - 2 4 50.0 2 5 7 0 3 0 2 1 4
+p671
+aVDarrick Martin SAC 12/11/1999 SAC vs. POR L 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p672
+aVCorliss Williamson SAC 12/10/1999 SAC vs. MIA L 23 12 3 12 25.0 0 0 - 6 7 85.7 2 2 4 1 2 1 1 2 -3
+p673
+aVTony Delk SAC 12/10/1999 SAC vs. MIA L 18 4 2 9 22.2 0 1 0.0 0 0 - 1 2 3 0 1 1 1 2 -7
+p674
+aVChris Webber SAC 12/10/1999 SAC vs. MIA L 38 26 12 28 42.9 1 1 100.0 1 2 50.0 6 4 10 5 1 2 4 2 -8
+p675
+aVJason Williams SAC 12/10/1999 SAC vs. MIA L 33 3 1 11 9.1 0 7 0.0 1 3 33.3 1 3 4 12 1 0 4 3 -7
+p676
+aVLawrence Funderburke SAC 12/10/1999 SAC vs. MIA L 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -3
+p677
+aVDarrick Martin SAC 12/10/1999 SAC vs. MIA L 15 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 2 0 0 1 0 -3
+p678
+aVScot Pollard SAC 12/10/1999 SAC vs. MIA L 23 11 5 5 100.0 0 0 - 1 1 100.0 3 3 6 0 0 0 0 2 7
+p679
+aVNick Anderson SAC 12/10/1999 SAC vs. MIA L 34 16 6 17 35.3 4 12 33.3 0 0 - 1 4 5 2 1 1 1 5 -7
+p680
+aVVlade Divac SAC 12/10/1999 SAC vs. MIA L 25 12 4 8 50.0 1 1 100.0 3 4 75.0 4 2 6 1 1 0 0 5 -17
+p681
+aVPeja Stojakovic SAC 12/10/1999 SAC vs. MIA L 21 7 2 8 25.0 2 2 100.0 1 2 50.0 3 3 6 1 0 0 0 1 -2
+p682
+aVChris Webber SAC 12/08/1999 SAC vs. LAL W 37 20 7 19 36.8 0 0 - 6 7 85.7 2 10 12 2 0 1 1 3 3
+p683
+aVCorliss Williamson SAC 12/08/1999 SAC vs. LAL W 21 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 3 3 0 1 2 1
+p684
+aVDarrick Martin SAC 12/08/1999 SAC vs. LAL W 13 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 2 0 4 1 12
+p685
+aVPeja Stojakovic SAC 12/08/1999 SAC vs. LAL W 27 19 7 9 77.8 2 3 66.7 3 4 75.0 0 2 2 0 0 0 1 2 11
+p686
+aVScot Pollard SAC 12/08/1999 SAC vs. LAL W 18 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 2 2 0 1 4 12
+p687
+aVTony Delk SAC 12/08/1999 SAC vs. LAL W 16 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 2 0 11
+p688
+aVLawrence Funderburke SAC 12/08/1999 SAC vs. LAL W 11 10 4 5 80.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 9
+p689
+aVVlade Divac SAC 12/08/1999 SAC vs. LAL W 29 9 3 8 37.5 0 0 - 3 4 75.0 1 8 9 0 0 1 3 5 -1
+p690
+aVNick Anderson SAC 12/08/1999 SAC vs. LAL W 33 12 5 15 33.3 1 5 20.0 1 4 25.0 4 5 9 1 3 0 0 3 2
+p691
+aVJason Williams SAC 12/08/1999 SAC vs. LAL W 35 19 6 11 54.5 1 3 33.3 6 8 75.0 0 3 3 5 0 0 2 2 0
+p692
+aVVlade Divac SAC 12/06/1999 SAC @ NJN L 32 21 9 19 47.4 0 1 0.0 3 3 100.0 2 4 6 2 0 1 1 2 6
+p693
+aVDarrick Martin SAC 12/06/1999 SAC @ NJN L 20 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 2 0 4 2 -5
+p694
+aVJason Williams SAC 12/06/1999 SAC @ NJN L 28 5 2 6 33.3 1 5 20.0 0 0 - 0 2 2 7 2 0 4 3 -9
+p695
+aVPeja Stojakovic SAC 12/06/1999 SAC @ NJN L 8 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 1 0 -18
+p696
+aVNick Anderson SAC 12/06/1999 SAC @ NJN L 28 6 3 6 50.0 0 2 0.0 0 0 - 0 4 4 0 1 0 2 2 -2
+p697
+aVChris Webber SAC 12/06/1999 SAC @ NJN L 38 25 6 19 31.6 1 3 33.3 12 14 85.7 4 10 14 4 2 2 7 3 -6
+p698
+aVTony Delk SAC 12/06/1999 SAC @ NJN L 20 6 1 5 20.0 0 0 - 4 4 100.0 0 2 2 0 1 0 1 2 -12
+p699
+aVCorliss Williamson SAC 12/06/1999 SAC @ NJN L 27 12 6 11 54.5 0 0 - 0 0 - 1 3 4 1 1 0 2 2 -5
+p700
+aVLawrence Funderburke SAC 12/06/1999 SAC @ NJN L 10 5 1 1 100.0 0 0 - 3 4 75.0 0 0 0 0 0 0 1 0 -8
+p701
+aVScot Pollard SAC 12/06/1999 SAC @ NJN L 10 6 3 3 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -5
+p702
+aVTyrone Corbin SAC 12/06/1999 SAC @ NJN L 19 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 1 -6
+p703
+aVJason Williams SAC 12/04/1999 SAC @ WAS W 35 7 2 9 22.2 0 4 0.0 3 3 100.0 1 2 3 9 0 0 6 1 2
+p704
+aVCorliss Williamson SAC 12/04/1999 SAC @ WAS W 27 21 10 13 76.9 0 0 - 1 4 25.0 0 2 2 2 0 0 0 4 11
+p705
+aVPeja Stojakovic SAC 12/04/1999 SAC @ WAS W 18 7 3 7 42.9 0 1 0.0 1 2 50.0 0 0 0 2 0 0 2 2 -2
+p706
+aVLawrence Funderburke SAC 12/04/1999 SAC @ WAS W 22 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 0 1 0 0 4 2
+p707
+aVVlade Divac SAC 12/04/1999 SAC @ WAS W 20 14 6 12 50.0 0 0 - 2 2 100.0 2 5 7 5 1 2 0 4 6
+p708
+aVNick Anderson SAC 12/04/1999 SAC @ WAS W 28 12 5 9 55.6 0 3 0.0 2 3 66.7 0 2 2 0 3 0 0 2 5
+p709
+aVTony Delk SAC 12/04/1999 SAC @ WAS W 23 13 6 12 50.0 1 2 50.0 0 0 - 2 0 2 1 2 0 0 2 2
+p710
+aVDarrick Martin SAC 12/04/1999 SAC @ WAS W 14 5 2 7 28.6 1 2 50.0 0 0 - 0 0 0 2 3 0 1 4 10
+p711
+aVChris Webber SAC 12/04/1999 SAC @ WAS W 41 25 11 19 57.9 0 0 - 3 4 75.0 1 10 11 10 3 2 2 3 10
+p712
+aVScot Pollard SAC 12/04/1999 SAC @ WAS W 12 2 0 0 - 0 0 - 2 2 100.0 2 4 6 0 0 0 1 6 4
+p713
+aVScot Pollard SAC 12/02/1999 SAC @ ATL L 9 6 3 4 75.0 0 0 - 0 0 - 2 3 5 1 0 0 0 1 -1
+p714
+aVCorliss Williamson SAC 12/02/1999 SAC @ ATL L 20 10 4 5 80.0 0 0 - 2 2 100.0 1 4 5 0 1 0 4 2 6
+p715
+aVVlade Divac SAC 12/02/1999 SAC @ ATL L 34 14 5 14 35.7 0 1 0.0 4 6 66.7 4 7 11 3 1 0 2 5 -1
+p716
+aVDarrick Martin SAC 12/02/1999 SAC @ ATL L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -9
+p717
+aVJason Williams SAC 12/02/1999 SAC @ ATL L 37 18 7 20 35.0 4 10 40.0 0 0 - 0 3 3 12 1 0 1 1 -1
+p718
+aVTyrone Corbin SAC 12/02/1999 SAC @ ATL L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -7
+p719
+aVChris Webber SAC 12/02/1999 SAC @ ATL L 35 26 10 22 45.5 1 1 100.0 5 5 100.0 2 8 10 3 2 0 3 5 -9
+p720
+aVLawrence Funderburke SAC 12/02/1999 SAC @ ATL L 18 10 5 10 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -7
+p721
+aVNick Anderson SAC 12/02/1999 SAC @ ATL L 32 11 5 8 62.5 1 3 33.3 0 0 - 0 4 4 0 1 0 0 2 -1
+p722
+aVPeja Stojakovic SAC 12/02/1999 SAC @ ATL L 21 5 2 10 20.0 1 4 25.0 0 0 - 2 3 5 1 0 1 1 1 -9
+p723
+aVJon Barry SAC 12/02/1999 SAC @ ATL L 17 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 2 0 1 1 -11
+p724
+aVTyrone Corbin SAC 11/30/1999 SAC @ ORL W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -2
+p725
+aVJason Williams SAC 11/30/1999 SAC @ ORL W 31 12 4 14 28.6 1 8 12.5 3 4 75.0 0 2 2 5 4 0 4 1 7
+p726
+aVDarrick Martin SAC 11/30/1999 SAC @ ORL W 18 13 4 9 44.4 1 3 33.3 4 4 100.0 0 2 2 2 1 0 0 2 6
+p727
+aVLawrence Funderburke SAC 11/30/1999 SAC @ ORL W 16 3 1 3 33.3 0 0 - 1 2 50.0 3 2 5 0 0 0 1 5 4
+p728
+aVVlade Divac SAC 11/30/1999 SAC @ ORL W 34 17 7 15 46.7 0 0 - 3 4 75.0 2 3 5 4 1 2 1 2 12
+p729
+aVChris Webber SAC 11/30/1999 SAC @ ORL W 31 22 10 15 66.7 0 0 - 2 2 100.0 3 8 11 4 2 2 7 6 2
+p730
+aVJon Barry SAC 11/30/1999 SAC @ ORL W 20 8 2 5 40.0 1 2 50.0 3 3 100.0 0 0 0 0 0 0 1 0 2
+p731
+aVScot Pollard SAC 11/30/1999 SAC @ ORL W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p732
+aVCorliss Williamson SAC 11/30/1999 SAC @ ORL W 17 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 4 -3
+p733
+aVPeja Stojakovic SAC 11/30/1999 SAC @ ORL W 24 12 5 9 55.6 2 4 50.0 0 0 - 1 3 4 2 0 0 3 2 11
+p734
+aVNick Anderson SAC 11/30/1999 SAC @ ORL W 35 18 6 13 46.2 5 9 55.6 1 1 100.0 3 8 11 5 3 1 1 0 8
+p735
+aVVlade Divac SAC 11/29/1999 SAC @ MIA L 31 10 2 4 50.0 0 1 0.0 6 8 75.0 1 2 3 2 0 1 3 2 -13
+p736
+aVTyrone Corbin SAC 11/29/1999 SAC @ MIA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p737
+aVTony Delk SAC 11/29/1999 SAC @ MIA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p738
+aVScot Pollard SAC 11/29/1999 SAC @ MIA L 12 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 0 0 4 2
+p739
+aVDarrick Martin SAC 11/29/1999 SAC @ MIA L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -5
+p740
+aVJon Barry SAC 11/29/1999 SAC @ MIA L 23 13 3 10 30.0 2 4 50.0 5 7 71.4 1 2 3 5 1 0 2 1 6
+p741
+aVJason Williams SAC 11/29/1999 SAC @ MIA L 35 17 6 15 40.0 2 8 25.0 3 3 100.0 0 1 1 8 1 0 8 3 -5
+p742
+aVPeja Stojakovic SAC 11/29/1999 SAC @ MIA L 25 11 4 8 50.0 2 3 66.7 1 1 100.0 0 3 3 2 1 0 0 2 3
+p743
+aVNick Anderson SAC 11/29/1999 SAC @ MIA L 24 9 4 12 33.3 1 6 16.7 0 1 0.0 1 5 6 0 2 0 2 1 -18
+p744
+aVCorliss Williamson SAC 11/29/1999 SAC @ MIA L 18 2 1 6 16.7 0 0 - 0 0 - 2 2 4 0 0 2 1 0 -7
+p745
+aVChris Webber SAC 11/29/1999 SAC @ MIA L 36 18 9 20 45.0 0 1 0.0 0 1 0.0 2 8 10 2 1 0 2 5 -12
+p746
+aVLawrence Funderburke SAC 11/29/1999 SAC @ MIA L 17 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 3
+p747
+aVPeja Stojakovic SAC 11/26/1999 SAC vs. GSW W 21 14 5 8 62.5 2 4 50.0 2 2 100.0 0 5 5 3 2 1 2 2 25
+p748
+aVChris Webber SAC 11/26/1999 SAC vs. GSW W 31 20 8 12 66.7 0 0 - 4 5 80.0 2 7 9 7 2 1 2 4 17
+p749
+aVVlade Divac SAC 11/26/1999 SAC vs. GSW W 25 12 5 8 62.5 0 1 0.0 2 3 66.7 1 7 8 3 0 2 1 2 13
+p750
+aVCorliss Williamson SAC 11/26/1999 SAC vs. GSW W 20 12 6 11 54.5 0 0 - 0 0 - 2 3 5 1 0 1 1 3 -3
+p751
+aVTony Delk SAC 11/26/1999 SAC vs. GSW W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 7
+p752
+aVLawrence Funderburke SAC 11/26/1999 SAC vs. GSW W 17 8 3 7 42.9 0 0 - 2 2 100.0 3 5 8 0 0 0 0 1 12
+p753
+aVScot Pollard SAC 11/26/1999 SAC vs. GSW W 23 14 5 5 100.0 0 0 - 4 6 66.7 1 4 5 0 1 2 0 3 16
+p754
+aVDarrick Martin SAC 11/26/1999 SAC vs. GSW W 22 9 4 10 40.0 1 4 25.0 0 0 - 0 2 2 5 0 0 1 0 23
+p755
+aVNick Anderson SAC 11/26/1999 SAC vs. GSW W 24 13 5 12 41.7 3 7 42.9 0 0 - 0 1 1 0 1 1 1 0 4
+p756
+aVJon Barry SAC 11/26/1999 SAC vs. GSW W 17 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 4 1 0 1 1 18
+p757
+aVTyrone Corbin SAC 11/26/1999 SAC vs. GSW W 7 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 1 0 0 0 7
+p758
+aVJason Williams SAC 11/26/1999 SAC vs. GSW W 26 8 2 7 28.6 1 5 20.0 3 4 75.0 0 1 1 12 0 1 3 1 6
+p759
+aVDarrick Martin SAC 11/23/1999 SAC vs. NJN W 18 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 5 0 0 2 1 5
+p760
+aVScot Pollard SAC 11/23/1999 SAC vs. NJN W 10 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 -4
+p761
+aVLawrence Funderburke SAC 11/23/1999 SAC vs. NJN W 25 18 9 10 90.0 0 0 - 0 0 - 5 4 9 0 0 0 2 4 21
+p762
+aVPeja Stojakovic SAC 11/23/1999 SAC vs. NJN W 16 4 2 7 28.6 0 3 0.0 0 0 - 1 3 4 1 0 0 3 1 5
+p763
+aVJason Williams SAC 11/23/1999 SAC vs. NJN W 30 9 4 14 28.6 1 7 14.3 0 0 - 0 3 3 8 0 0 4 2 8
+p764
+aVChris Webber SAC 11/23/1999 SAC vs. NJN W 42 26 11 18 61.1 1 1 100.0 3 6 50.0 5 17 22 10 3 4 2 3 4
+p765
+aVJon Barry SAC 11/23/1999 SAC vs. NJN W 24 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 2 4 13
+p766
+aVVlade Divac SAC 11/23/1999 SAC vs. NJN W 19 6 2 3 66.7 0 0 - 2 2 100.0 2 5 7 0 0 1 3 2 5
+p767
+aVNick Anderson SAC 11/23/1999 SAC vs. NJN W 34 16 6 13 46.2 4 9 44.4 0 2 0.0 3 4 7 1 3 0 0 2 8
+p768
+aVCorliss Williamson SAC 11/23/1999 SAC vs. NJN W 22 13 6 9 66.7 0 0 - 1 4 25.0 0 0 0 1 0 0 1 1 0
+p769
+aVVlade Divac SAC 11/21/1999 SAC vs. HOU W 24 6 2 4 50.0 0 0 - 2 3 66.7 1 3 4 1 2 1 0 3 12
+p770
+aVChris Webber SAC 11/21/1999 SAC vs. HOU W 42 28 13 22 59.1 0 0 - 2 2 100.0 1 10 11 6 1 2 2 2 2
+p771
+aVJon Barry SAC 11/21/1999 SAC vs. HOU W 15 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 1 1 0 2 0 -2
+p772
+aVNick Anderson SAC 11/21/1999 SAC vs. HOU W 33 10 4 12 33.3 2 6 33.3 0 0 - 2 6 8 3 0 1 2 1 7
+p773
+aVScot Pollard SAC 11/21/1999 SAC vs. HOU W 22 12 6 10 60.0 0 0 - 0 0 - 5 2 7 0 0 1 0 3 6
+p774
+aVDarrick Martin SAC 11/21/1999 SAC vs. HOU W 11 3 0 5 0.0 0 2 0.0 3 4 75.0 0 1 1 3 2 0 1 0 -9
+p775
+aVJason Williams SAC 11/21/1999 SAC vs. HOU W 37 25 11 23 47.8 3 9 33.3 0 0 - 2 4 6 12 2 0 2 1 16
+p776
+aVLawrence Funderburke SAC 11/21/1999 SAC vs. HOU W 9 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -12
+p777
+aVPeja Stojakovic SAC 11/21/1999 SAC vs. HOU W 20 7 3 5 60.0 1 3 33.3 0 0 - 2 1 3 1 0 0 2 0 -8
+p778
+aVTony Delk SAC 11/21/1999 SAC vs. HOU W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 14
+p779
+aVCorliss Williamson SAC 11/21/1999 SAC vs. HOU W 23 8 4 10 40.0 0 0 - 0 0 - 2 0 2 2 0 0 4 3 -1
+p780
+aVNick Anderson SAC 11/19/1999 SAC @ DAL W 24 0 0 7 0.0 0 6 0.0 0 0 - 0 6 6 1 1 0 1 1 -8
+p781
+aVLawrence Funderburke SAC 11/19/1999 SAC @ DAL W 10 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 9
+p782
+aVChris Webber SAC 11/19/1999 SAC @ DAL W 38 24 10 19 52.6 0 0 - 4 5 80.0 3 8 11 1 1 1 3 2 0
+p783
+aVJon Barry SAC 11/19/1999 SAC @ DAL W 24 15 5 11 45.5 0 2 0.0 5 6 83.3 1 4 5 1 2 0 0 1 17
+p784
+aVVlade Divac SAC 11/19/1999 SAC @ DAL W 29 14 7 11 63.6 0 0 - 0 0 - 4 7 11 3 0 4 1 3 -6
+p785
+aVDarrick Martin SAC 11/19/1999 SAC @ DAL W 23 12 4 10 40.0 0 2 0.0 4 4 100.0 1 0 1 5 1 0 0 1 16
+p786
+aVCorliss Williamson SAC 11/19/1999 SAC @ DAL W 15 10 1 4 25.0 0 0 - 8 10 80.0 1 2 3 2 1 0 2 4 -9
+p787
+aVJason Williams SAC 11/19/1999 SAC @ DAL W 25 3 1 9 11.1 1 5 20.0 0 0 - 0 0 0 3 3 0 5 3 -3
+p788
+aVPeja Stojakovic SAC 11/19/1999 SAC @ DAL W 33 15 5 15 33.3 2 8 25.0 3 3 100.0 3 5 8 3 2 1 1 0 18
+p789
+aVScot Pollard SAC 11/19/1999 SAC @ DAL W 19 4 1 3 33.3 0 0 - 2 2 100.0 4 8 12 0 0 0 0 2 11
+p790
+aVJason Williams SAC 11/18/1999 SAC @ HOU W 27 23 7 15 46.7 5 10 50.0 4 4 100.0 1 3 4 10 1 0 3 0 -7
+p791
+aVCorliss Williamson SAC 11/18/1999 SAC @ HOU W 18 9 4 7 57.1 0 0 - 1 4 25.0 2 1 3 0 0 0 0 3 -8
+p792
+aVVlade Divac SAC 11/18/1999 SAC @ HOU W 20 13 5 7 71.4 1 1 100.0 2 2 100.0 1 2 3 1 1 0 2 3 -1
+p793
+aVNick Anderson SAC 11/18/1999 SAC @ HOU W 26 8 3 9 33.3 2 6 33.3 0 0 - 1 2 3 1 2 0 0 2 -9
+p794
+aVJon Barry SAC 11/18/1999 SAC @ HOU W 22 14 5 6 83.3 2 2 100.0 2 2 100.0 1 5 6 2 4 0 2 0 27
+p795
+aVDarrick Martin SAC 11/18/1999 SAC @ HOU W 21 14 5 15 33.3 1 7 14.3 3 4 75.0 0 2 2 2 0 0 1 1 25
+p796
+aVChris Webber SAC 11/18/1999 SAC @ HOU W 27 7 2 12 16.7 0 1 0.0 3 4 75.0 0 3 3 4 1 3 0 3 -7
+p797
+aVPeja Stojakovic SAC 11/18/1999 SAC @ HOU W 30 20 8 13 61.5 3 6 50.0 1 2 50.0 2 3 5 3 1 0 0 1 26
+p798
+aVScot Pollard SAC 11/18/1999 SAC @ HOU W 28 8 2 7 28.6 0 0 - 4 4 100.0 5 4 9 1 3 2 2 5 19
+p799
+aVLawrence Funderburke SAC 11/18/1999 SAC @ HOU W 21 12 4 8 50.0 0 0 - 4 5 80.0 3 2 5 0 1 1 0 1 25
+p800
+aVCorliss Williamson SAC 11/16/1999 SAC vs. VAN W 22 9 4 10 40.0 0 0 - 1 1 100.0 0 3 3 2 0 0 2 3 4
+p801
+aVChris Webber SAC 11/16/1999 SAC vs. VAN W 33 19 7 15 46.7 0 0 - 5 9 55.6 4 3 7 4 3 1 5 4 10
+p802
+aVNick Anderson SAC 11/16/1999 SAC vs. VAN W 25 2 1 11 9.1 0 6 0.0 0 0 - 2 4 6 1 2 0 0 3 4
+p803
+aVJason Williams SAC 11/16/1999 SAC vs. VAN W 33 10 3 13 23.1 1 7 14.3 3 4 75.0 0 4 4 4 4 0 2 2 9
+p804
+aVVlade Divac SAC 11/16/1999 SAC vs. VAN W 33 11 5 10 50.0 0 0 - 1 2 50.0 4 4 8 1 5 1 2 0 9
+p805
+aVLawrence Funderburke SAC 11/16/1999 SAC vs. VAN W 15 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 1 0 2 -6
+p806
+aVScot Pollard SAC 11/16/1999 SAC vs. VAN W 15 7 3 6 50.0 0 0 - 1 3 33.3 3 2 5 1 0 4 1 1 -4
+p807
+aVTyrone Corbin SAC 11/16/1999 SAC vs. VAN W 16 4 1 7 14.3 0 1 0.0 2 2 100.0 4 6 10 2 0 0 1 3 -2
+p808
+aVJon Barry SAC 11/16/1999 SAC vs. VAN W 23 10 3 7 42.9 1 4 25.0 3 3 100.0 1 1 2 3 2 0 1 2 0
+p809
+aVPeja Stojakovic SAC 11/16/1999 SAC vs. VAN W 10 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 0 0 0 1 1 2
+p810
+aVDarrick Martin SAC 11/16/1999 SAC vs. VAN W 15 2 1 8 12.5 0 4 0.0 0 0 - 0 2 2 1 0 0 1 1 -6
+p811
+aVJon Barry SAC 11/14/1999 SAC vs. DEN W 22 16 6 6 100.0 2 2 100.0 2 2 100.0 0 7 7 2 1 0 2 1 14
+p812
+aVLawrence Funderburke SAC 11/14/1999 SAC vs. DEN W 16 10 4 5 80.0 0 0 - 2 3 66.7 0 1 1 1 0 0 0 2 11
+p813
+aVDarrick Martin SAC 11/14/1999 SAC vs. DEN W 15 14 5 8 62.5 1 3 33.3 3 4 75.0 0 0 0 3 1 0 0 2 14
+p814
+aVNick Anderson SAC 11/14/1999 SAC vs. DEN W 30 8 3 12 25.0 2 7 28.6 0 0 - 0 4 4 5 0 0 2 2 -2
+p815
+aVScot Pollard SAC 11/14/1999 SAC vs. DEN W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p816
+aVJason Williams SAC 11/14/1999 SAC vs. DEN W 34 16 6 17 35.3 0 5 0.0 4 6 66.7 0 0 0 6 1 0 2 2 -5
+p817
+aVPeja Stojakovic SAC 11/14/1999 SAC vs. DEN W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 2
+p818
+aVVlade Divac SAC 11/14/1999 SAC vs. DEN W 30 14 6 9 66.7 0 1 0.0 2 2 100.0 2 10 12 4 1 1 3 2 -3
+p819
+aVChris Webber SAC 11/14/1999 SAC vs. DEN W 41 32 14 21 66.7 0 0 - 4 7 57.1 6 6 12 4 1 1 1 2 11
+p820
+aVCorliss Williamson SAC 11/14/1999 SAC vs. DEN W 24 12 6 9 66.7 0 0 - 0 1 0.0 3 1 4 3 0 0 1 4 -1
+p821
+aVTyrone Corbin SAC 11/14/1999 SAC vs. DEN W 11 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 0 7
+p822
+aVNick Anderson SAC 11/12/1999 SAC vs. UTA W 31 12 5 11 45.5 2 4 50.0 0 0 - 1 3 4 1 1 0 0 0 4
+p823
+aVJon Barry SAC 11/12/1999 SAC vs. UTA W 17 12 4 6 66.7 2 4 50.0 2 2 100.0 0 1 1 3 3 1 1 4 9
+p824
+aVScot Pollard SAC 11/12/1999 SAC vs. UTA W 18 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 1 1 2 0 5 1
+p825
+aVJason Williams SAC 11/12/1999 SAC vs. UTA W 31 18 6 14 42.9 2 9 22.2 4 4 100.0 0 2 2 5 2 0 4 2 15
+p826
+aVDarrick Martin SAC 11/12/1999 SAC vs. UTA W 17 3 1 6 16.7 0 2 0.0 1 4 25.0 0 1 1 2 0 0 1 2 -2
+p827
+aVLawrence Funderburke SAC 11/12/1999 SAC vs. UTA W 19 11 3 6 50.0 0 0 - 5 6 83.3 4 3 7 1 0 0 0 0 11
+p828
+aVChris Webber SAC 11/12/1999 SAC vs. UTA W 35 20 8 18 44.4 0 0 - 4 7 57.1 2 7 9 1 1 4 3 4 8
+p829
+aVVlade Divac SAC 11/12/1999 SAC vs. UTA W 24 10 5 7 71.4 0 0 - 0 1 0.0 3 5 8 1 1 1 1 4 6
+p830
+aVPeja Stojakovic SAC 11/12/1999 SAC vs. UTA W 22 7 3 7 42.9 1 2 50.0 0 0 - 1 3 4 2 0 0 2 3 6
+p831
+aVCorliss Williamson SAC 11/12/1999 SAC vs. UTA W 26 8 3 11 27.3 0 0 - 2 3 66.7 3 4 7 2 0 0 1 2 7
+p832
+aVNick Anderson SAC 11/06/1999 SAC @ MIN L 32 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 1 0 1 1 2 -10
+p833
+aVVlade Divac SAC 11/06/1999 SAC @ MIN L 32 19 9 12 75.0 1 1 100.0 0 0 - 3 4 7 5 0 0 5 1 -7
+p834
+aVLawrence Funderburke SAC 11/06/1999 SAC @ MIN L 13 5 2 5 40.0 0 0 - 1 4 25.0 2 2 4 0 0 0 0 1 -4
+p835
+aVChris Webber SAC 11/06/1999 SAC @ MIN L 35 22 9 16 56.3 0 1 0.0 4 7 57.1 2 8 10 2 3 1 1 3 -8
+p836
+aVTony Delk SAC 11/06/1999 SAC @ MIN L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 1 0 1 0 1
+p837
+aVJon Barry SAC 11/06/1999 SAC @ MIN L 15 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 2 3 1 2 2 -4
+p838
+aVDarrick Martin SAC 11/06/1999 SAC @ MIN L 17 7 2 5 40.0 0 0 - 3 4 75.0 0 0 0 3 0 0 1 3 -3
+p839
+aVJason Williams SAC 11/06/1999 SAC @ MIN L 31 17 6 16 37.5 2 6 33.3 3 5 60.0 0 4 4 8 0 0 3 1 -9
+p840
+aVCorliss Williamson SAC 11/06/1999 SAC @ MIN L 18 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 1 0 2 2 -11
+p841
+aVScot Pollard SAC 11/06/1999 SAC @ MIN L 16 7 3 4 75.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 3 -5
+p842
+aVPeja Stojakovic SAC 11/06/1999 SAC @ MIN L 25 10 5 9 55.6 0 2 0.0 0 0 - 0 4 4 3 1 0 0 0 0
+p843
+aVJason Williams SAC 11/05/1999 SAC vs. MIN W 31 15 3 10 30.0 2 7 28.6 7 9 77.8 0 3 3 6 0 0 4 1 -8
+p844
+aVScot Pollard SAC 11/05/1999 SAC vs. MIN W 15 4 1 2 50.0 0 0 - 2 2 100.0 3 3 6 0 2 1 0 0 9
+p845
+aVDarrick Martin SAC 11/05/1999 SAC vs. MIN W 17 9 3 11 27.3 1 4 25.0 2 2 100.0 0 1 1 5 0 0 2 0 13
+p846
+aVNick Anderson SAC 11/05/1999 SAC vs. MIN W 36 17 6 12 50.0 5 7 71.4 0 0 - 1 9 10 5 0 0 1 1 2
+p847
+aVLawrence Funderburke SAC 11/05/1999 SAC vs. MIN W 14 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 11
+p848
+aVChris Webber SAC 11/05/1999 SAC vs. MIN W 36 15 7 19 36.8 0 1 0.0 1 2 50.0 3 12 15 2 0 1 4 3 -6
+p849
+aVVlade Divac SAC 11/05/1999 SAC vs. MIN W 32 13 4 13 30.8 0 0 - 5 6 83.3 4 6 10 3 2 1 3 2 -4
+p850
+aVPeja Stojakovic SAC 11/05/1999 SAC vs. MIN W 20 11 3 10 30.0 1 5 20.0 4 4 100.0 2 0 2 0 1 0 1 1 11
+p851
+aVJon Barry SAC 11/05/1999 SAC vs. MIN W 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 3
+p852
+aVCorliss Williamson SAC 11/05/1999 SAC vs. MIN W 28 10 5 10 50.0 0 0 - 0 0 - 2 2 4 3 2 0 3 4 -6
+p853
+a.

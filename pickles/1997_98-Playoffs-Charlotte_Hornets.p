@@ -1,0 +1,184 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGlen Rice CHH 05/13/1998 CHH @ CHI L 48 30 13 21 61.9 2 5 40.0 2 2 100.0 1 7 8 2 0 0 3 3 -9
+p2
+aVJ.R. Reid CHH 05/13/1998 CHH @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p3
+aVDavid Wesley CHH 05/13/1998 CHH @ CHI L 33 16 7 12 58.3 2 3 66.7 0 0 - 0 2 2 5 0 0 2 4 3
+p4
+aVBobby Phills CHH 05/13/1998 CHH @ CHI L 26 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 4 0 1 0 1 2
+p5
+aVDell Curry CHH 05/13/1998 CHH @ CHI L 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 2 -6
+p6
+aVVlade Divac CHH 05/13/1998 CHH @ CHI L 42 9 3 10 30.0 0 0 - 3 4 75.0 4 11 15 5 1 4 2 3 -2
+p7
+aVCorey Beck CHH 05/13/1998 CHH @ CHI L 11 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 2 4 -12
+p8
+aVB.J. Armstrong CHH 05/13/1998 CHH @ CHI L 17 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 1 1 0 2 2 -13
+p9
+aVAnthony Mason CHH 05/13/1998 CHH @ CHI L 44 16 7 13 53.8 0 0 - 2 2 100.0 0 4 4 5 0 0 2 2 -7
+p10
+aVTravis Williams CHH 05/10/1998 CHH vs. CHI L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p11
+aVDell Curry CHH 05/10/1998 CHH vs. CHI L 16 5 2 7 28.6 0 2 0.0 1 2 50.0 3 3 6 1 1 0 1 0 0
+p12
+aVAnthony Mason CHH 05/10/1998 CHH vs. CHI L 42 10 4 6 66.7 0 0 - 2 2 100.0 2 6 8 5 2 0 4 4 -22
+p13
+aVBobby Phills CHH 05/10/1998 CHH vs. CHI L 28 11 5 10 50.0 1 1 100.0 0 0 - 0 2 2 4 1 0 2 1 -10
+p14
+aVMatt Geiger CHH 05/10/1998 CHH vs. CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p15
+aVJ.R. Reid CHH 05/10/1998 CHH vs. CHI L 13 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 2
+p16
+aVB.J. Armstrong CHH 05/10/1998 CHH vs. CHI L 26 14 6 9 66.7 1 2 50.0 1 2 50.0 0 3 3 2 0 0 0 1 -6
+p17
+aVGlen Rice CHH 05/10/1998 CHH vs. CHI L 45 13 6 17 35.3 1 4 25.0 0 0 - 2 7 9 3 0 1 2 4 -19
+p18
+aVVlade Divac CHH 05/10/1998 CHH vs. CHI L 33 15 5 11 45.5 0 0 - 5 7 71.4 3 2 5 1 1 2 3 3 -13
+p19
+aVDavid Wesley CHH 05/10/1998 CHH vs. CHI L 21 4 2 8 25.0 0 2 0.0 0 0 - 0 0 0 3 1 0 0 3 -8
+p20
+aVCorey Beck CHH 05/10/1998 CHH vs. CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p21
+aVDavid Wesley CHH 05/08/1998 CHH vs. CHI L 26 7 3 8 37.5 0 2 0.0 1 2 50.0 0 2 2 8 0 0 2 3 -3
+p22
+aVTravis Williams CHH 05/08/1998 CHH vs. CHI L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p23
+aVCorey Beck CHH 05/08/1998 CHH vs. CHI L 3 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 0 1 0 0 0 4
+p24
+aVDell Curry CHH 05/08/1998 CHH vs. CHI L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p25
+aVDonald Royal CHH 05/08/1998 CHH vs. CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p26
+aVB.J. Armstrong CHH 05/08/1998 CHH vs. CHI L 21 2 1 7 14.3 0 0 - 0 0 - 0 4 4 5 1 0 1 0 -11
+p27
+aVVlade Divac CHH 05/08/1998 CHH vs. CHI L 37 13 5 11 45.5 0 1 0.0 3 5 60.0 5 8 13 3 1 2 1 6 -11
+p28
+aVMatt Geiger CHH 05/08/1998 CHH vs. CHI L 7 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 0 1 2 1
+p29
+aVBobby Phills CHH 05/08/1998 CHH vs. CHI L 32 9 4 6 66.7 0 2 0.0 1 2 50.0 0 0 0 1 3 1 2 5 -13
+p30
+aVAnthony Mason CHH 05/08/1998 CHH vs. CHI L 35 16 8 13 61.5 0 1 0.0 0 0 - 3 4 7 4 1 0 3 3 -14
+p31
+aVGlen Rice CHH 05/08/1998 CHH vs. CHI L 41 31 13 26 50.0 1 6 16.7 4 5 80.0 1 0 1 0 1 0 1 4 -12
+p32
+aVJ.R. Reid CHH 05/08/1998 CHH vs. CHI L 14 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 0 4 -4
+p33
+aVB.J. Armstrong CHH 05/06/1998 CHH @ CHI W 27 10 4 8 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 3 6
+p34
+aVJ.R. Reid CHH 05/06/1998 CHH @ CHI W 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -5
+p35
+aVCorey Beck CHH 05/06/1998 CHH @ CHI W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 1
+p36
+aVDell Curry CHH 05/06/1998 CHH @ CHI W 21 15 6 8 75.0 1 2 50.0 2 2 100.0 0 3 3 0 2 0 0 2 11
+p37
+aVGlen Rice CHH 05/06/1998 CHH @ CHI W 36 14 4 13 30.8 2 3 66.7 4 4 100.0 1 3 4 4 1 0 1 2 3
+p38
+aVVlade Divac CHH 05/06/1998 CHH @ CHI W 35 7 3 12 25.0 0 0 - 1 2 50.0 4 15 19 3 0 1 1 3 3
+p39
+aVDavid Wesley CHH 05/06/1998 CHH @ CHI W 20 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 1 -4
+p40
+aVDonald Royal CHH 05/06/1998 CHH @ CHI W 10 7 3 3 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 1 -3
+p41
+aVBobby Phills CHH 05/06/1998 CHH @ CHI W 22 2 1 8 12.5 0 3 0.0 0 0 - 0 1 1 0 1 0 1 1 -10
+p42
+aVAnthony Mason CHH 05/06/1998 CHH @ CHI W 40 15 5 12 41.7 0 0 - 5 6 83.3 4 8 12 4 1 0 2 2 8
+p43
+aVMatt Geiger CHH 05/06/1998 CHH @ CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p44
+aVGlen Rice CHH 05/03/1998 CHH @ CHI L 43 25 9 25 36.0 1 6 16.7 6 6 100.0 1 4 5 1 1 1 0 2 -4
+p45
+aVDavid Wesley CHH 05/03/1998 CHH @ CHI L 36 11 4 9 44.4 1 3 33.3 2 2 100.0 0 2 2 9 0 0 3 4 -17
+p46
+aVVlade Divac CHH 05/03/1998 CHH @ CHI L 41 12 5 8 62.5 0 0 - 2 4 50.0 4 10 14 2 2 1 5 3 -8
+p47
+aVJ.R. Reid CHH 05/03/1998 CHH @ CHI L 15 3 0 1 0.0 0 0 - 3 3 100.0 2 1 3 0 0 0 1 3 -7
+p48
+aVBobby Phills CHH 05/03/1998 CHH @ CHI L 38 8 3 8 37.5 2 5 40.0 0 0 - 0 4 4 4 1 0 3 5 -16
+p49
+aVB.J. Armstrong CHH 05/03/1998 CHH @ CHI L 11 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 4 2 0 0 1 4
+p50
+aVDell Curry CHH 05/03/1998 CHH @ CHI L 16 3 1 7 14.3 1 3 33.3 0 0 - 1 0 1 1 0 0 2 4 -9
+p51
+aVAnthony Mason CHH 05/03/1998 CHH @ CHI L 37 6 1 5 20.0 0 0 - 4 8 50.0 1 6 7 2 1 0 2 1 -8
+p52
+aVJ.R. Reid CHH 05/01/1998 CHH @ ATL W 11 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 2 0 1 3 1
+p53
+aVAnthony Mason CHH 05/01/1998 CHH @ ATL W 45 29 13 18 72.2 0 0 - 3 8 37.5 2 12 14 3 1 0 0 0 15
+p54
+aVDavid Wesley CHH 05/01/1998 CHH @ ATL W 45 13 4 10 40.0 1 2 50.0 4 7 57.1 1 2 3 10 5 0 3 3 15
+p55
+aVGlen Rice CHH 05/01/1998 CHH @ ATL W 44 26 11 23 47.8 1 3 33.3 3 5 60.0 2 3 5 2 1 0 2 2 9
+p56
+aVB.J. Armstrong CHH 05/01/1998 CHH @ ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p57
+aVBobby Phills CHH 05/01/1998 CHH @ ATL W 27 2 1 5 20.0 0 0 - 0 3 0.0 2 5 7 4 2 0 2 1 -3
+p58
+aVVlade Divac CHH 05/01/1998 CHH @ ATL W 38 11 5 8 62.5 0 0 - 1 1 100.0 2 6 8 2 0 0 1 4 2
+p59
+aVDell Curry CHH 05/01/1998 CHH @ ATL W 23 8 4 7 57.1 0 2 0.0 0 0 - 0 2 2 1 0 1 0 4 12
+p60
+aVB.J. Armstrong CHH 04/28/1998 CHH @ ATL L 18 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 3 1 0 0 2 -2
+p61
+aVBobby Phills CHH 04/28/1998 CHH @ ATL L 23 9 4 9 44.4 1 2 50.0 0 0 - 1 0 1 1 0 0 1 2 -20
+p62
+aVTravis Williams CHH 04/28/1998 CHH @ ATL L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 0 1 1 0 3 -1
+p63
+aVDavid Wesley CHH 04/28/1998 CHH @ ATL L 29 5 2 8 25.0 1 3 33.3 0 0 - 2 2 4 5 1 0 2 1 -30
+p64
+aVDonald Royal CHH 04/28/1998 CHH @ ATL L 5 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 4
+p65
+aVAnthony Mason CHH 04/28/1998 CHH @ ATL L 33 12 5 11 45.5 0 0 - 2 4 50.0 1 4 5 2 1 0 1 1 -22
+p66
+aVJ.R. Reid CHH 04/28/1998 CHH @ ATL L 23 4 1 7 14.3 0 1 0.0 2 4 50.0 2 2 4 1 0 1 3 4 -15
+p67
+aVDell Curry CHH 04/28/1998 CHH @ ATL L 25 8 4 8 50.0 0 2 0.0 0 0 - 1 3 4 1 2 0 1 3 -16
+p68
+aVVlade Divac CHH 04/28/1998 CHH @ ATL L 33 11 4 7 57.1 0 0 - 3 4 75.0 1 6 7 5 1 1 4 5 -31
+p69
+aVGlen Rice CHH 04/28/1998 CHH @ ATL L 32 8 3 13 23.1 2 5 40.0 0 0 - 0 2 2 0 0 0 1 1 -31
+p70
+aVCorey Beck CHH 04/28/1998 CHH @ ATL L 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 2 0 1 0 4
+p71
+aVJ.R. Reid CHH 04/25/1998 CHH vs. ATL W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -8
+p72
+aVDonald Royal CHH 04/25/1998 CHH vs. ATL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -7
+p73
+aVMatt Geiger CHH 04/25/1998 CHH vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p74
+aVDell Curry CHH 04/25/1998 CHH vs. ATL W 17 2 1 4 25.0 0 0 - 0 0 - 1 1 2 4 1 1 0 4 1
+p75
+aVDavid Wesley CHH 04/25/1998 CHH vs. ATL W 37 18 5 14 35.7 2 2 100.0 6 8 75.0 2 1 3 6 0 0 2 2 15
+p76
+aVAnthony Mason CHH 04/25/1998 CHH vs. ATL W 46 25 10 13 76.9 0 0 - 5 10 50.0 2 5 7 1 1 0 4 3 9
+p77
+aVCorey Beck CHH 04/25/1998 CHH vs. ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p78
+aVBobby Phills CHH 04/25/1998 CHH vs. ATL W 34 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 2 0 0 0 4 10
+p79
+aVTravis Williams CHH 04/25/1998 CHH vs. ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p80
+aVB.J. Armstrong CHH 04/25/1998 CHH vs. ATL W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p81
+aVGlen Rice CHH 04/25/1998 CHH vs. ATL W 35 24 8 16 50.0 0 3 0.0 8 8 100.0 2 11 13 0 0 1 1 5 10
+p82
+aVVlade Divac CHH 04/25/1998 CHH vs. ATL W 37 14 6 9 66.7 0 0 - 2 4 50.0 2 8 10 6 1 1 2 3 17
+p83
+aVBobby Phills CHH 04/23/1998 CHH vs. ATL W 35 9 4 8 50.0 1 2 50.0 0 1 0.0 1 3 4 4 2 0 2 4 4
+p84
+aVDavid Wesley CHH 04/23/1998 CHH vs. ATL W 34 12 4 10 40.0 2 3 66.7 2 2 100.0 0 2 2 12 0 0 3 4 16
+p85
+aVAnthony Mason CHH 04/23/1998 CHH vs. ATL W 41 10 4 8 50.0 0 0 - 2 2 100.0 2 5 7 5 0 0 4 1 0
+p86
+aVDell Curry CHH 04/23/1998 CHH vs. ATL W 22 9 3 6 50.0 2 2 100.0 1 1 100.0 0 1 1 2 0 1 0 1 6
+p87
+aVGlen Rice CHH 04/23/1998 CHH vs. ATL W 41 34 15 19 78.9 1 1 100.0 3 6 50.0 1 3 4 1 1 0 2 3 7
+p88
+aVVlade Divac CHH 04/23/1998 CHH vs. ATL W 41 12 6 11 54.5 0 0 - 0 2 0.0 0 7 7 4 0 2 3 4 15
+p89
+aVB.J. Armstrong CHH 04/23/1998 CHH vs. ATL W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -3
+p90
+aVJ.R. Reid CHH 04/23/1998 CHH vs. ATL W 12 9 3 4 75.0 0 0 - 3 3 100.0 0 1 1 0 0 1 1 3 5
+p91
+a.

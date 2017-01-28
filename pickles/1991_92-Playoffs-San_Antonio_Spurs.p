@@ -1,0 +1,60 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSean Elliott SAN 04/29/1992 SAN vs. PHX L 44 17 6 16 37.5 1 2 50.0 4 5 80.0 3 5 8 2 1 1 4 3 -
+p2
+aVDonald Royal SAN 04/29/1992 SAN vs. PHX L 31 5 2 4 50.0 0 0 - 1 5 20.0 2 6 8 0 1 2 3 4 -
+p3
+aVGreg Sutton SAN 04/29/1992 SAN vs. PHX L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p4
+aVSidney Green SAN 04/29/1992 SAN vs. PHX L 14 3 0 0 - 0 0 - 3 4 75.0 2 3 5 0 0 0 2 2 -
+p5
+aVAntoine Carr SAN 04/29/1992 SAN vs. PHX L 39 20 7 16 43.8 0 1 0.0 6 9 66.7 7 5 12 1 2 7 1 3 -
+p6
+aVTerry Cummings SAN 04/29/1992 SAN vs. PHX L 41 17 6 20 30.0 0 0 - 5 10 50.0 7 5 12 3 2 1 2 3 -
+p7
+aVPaul Pressey SAN 04/29/1992 SAN vs. PHX L 29 11 5 14 35.7 1 2 50.0 0 0 - 1 1 2 3 1 0 1 6 -
+p8
+aVVinnie Johnson SAN 04/29/1992 SAN vs. PHX L 22 12 5 10 50.0 1 2 50.0 1 2 50.0 1 2 3 3 3 0 1 2 -
+p9
+aVTrent Tucker SAN 04/29/1992 SAN vs. PHX L 16 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 1 0 0 1 2 -
+p10
+aVAntoine Carr SAN 04/26/1992 SAN @ PHX L 35 20 8 13 61.5 1 1 100.0 3 4 75.0 0 5 5 0 0 1 2 5 -
+p11
+aVDonald Royal SAN 04/26/1992 SAN @ PHX L 7 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -
+p12
+aVVinnie Johnson SAN 04/26/1992 SAN @ PHX L 24 7 3 9 33.3 1 2 50.0 0 0 - 2 0 2 1 2 1 0 5 -
+p13
+aVTerry Cummings SAN 04/26/1992 SAN @ PHX L 39 31 14 23 60.9 0 1 0.0 3 6 50.0 5 5 10 4 0 0 3 3 -
+p14
+aVSean Elliott SAN 04/26/1992 SAN @ PHX L 48 20 5 11 45.5 1 2 50.0 9 10 90.0 1 3 4 3 1 1 2 1 -
+p15
+aVSidney Green SAN 04/26/1992 SAN @ PHX L 15 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -
+p16
+aVPaul Pressey SAN 04/26/1992 SAN @ PHX L 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 1 -
+p17
+aVTrent Tucker SAN 04/26/1992 SAN @ PHX L 12 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 1 0 0 0 1 -
+p18
+aVRod Strickland SAN 04/26/1992 SAN @ PHX L 37 11 5 10 50.0 0 0 - 1 3 33.3 0 5 5 10 0 0 2 5 -
+p19
+aVGreg Sutton SAN 04/26/1992 SAN @ PHX L 11 5 1 5 20.0 0 2 0.0 3 3 100.0 0 0 0 1 1 1 0 3 -
+p20
+aVPaul Pressey SAN 04/24/1992 SAN @ PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 4 2 -
+p21
+aVVinnie Johnson SAN 04/24/1992 SAN @ PHX L 23 6 3 5 60.0 0 0 - 0 0 - 0 3 3 3 0 0 4 0 -
+p22
+aVDonald Royal SAN 04/24/1992 SAN @ PHX L 19 6 2 3 66.7 0 0 - 2 2 100.0 2 0 2 0 1 0 3 2 -
+p23
+aVAntoine Carr SAN 04/24/1992 SAN @ PHX L 35 19 9 15 60.0 0 0 - 1 3 33.3 1 5 6 2 0 3 1 6 -
+p24
+aVTrent Tucker SAN 04/24/1992 SAN @ PHX L 10 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -
+p25
+aVTerry Cummings SAN 04/24/1992 SAN @ PHX L 42 30 14 23 60.9 0 0 - 2 4 50.0 3 9 12 0 2 3 2 3 -
+p26
+aVSean Elliott SAN 04/24/1992 SAN @ PHX L 45 22 8 13 61.5 3 4 75.0 3 3 100.0 0 1 1 3 1 2 0 2 -
+p27
+aVSidney Green SAN 04/24/1992 SAN @ PHX L 18 2 1 5 20.0 0 0 - 0 0 - 1 2 3 2 0 0 0 2 -
+p28
+aVRod Strickland SAN 04/24/1992 SAN @ PHX L 43 20 8 12 66.7 0 0 - 4 5 80.0 0 2 2 9 3 2 4 3 -
+p29
+a.

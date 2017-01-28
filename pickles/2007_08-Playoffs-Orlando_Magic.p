@@ -1,0 +1,184 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKeyon Dooling ORL 05/13/2008 ORL @ DET L 16 5 1 5 20.0 1 3 33.3 2 2 100.0 2 1 3 1 0 0 0 1 0
+p2
+aVDwight Howard ORL 05/13/2008 ORL @ DET L 44 14 4 8 50.0 0 0 - 6 15 40.0 4 13 17 0 0 3 4 5 -9
+p3
+aVMarcin Gortat ORL 05/13/2008 ORL @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p4
+aVMaurice Evans ORL 05/13/2008 ORL @ DET L 27 11 4 7 57.1 2 4 50.0 1 2 50.0 0 0 0 1 0 0 2 2 -10
+p5
+aVHedo Turkoglu ORL 05/13/2008 ORL @ DET L 42 18 8 15 53.3 0 2 0.0 2 2 100.0 2 7 9 7 0 0 5 5 -7
+p6
+aVJameer Nelson ORL 05/13/2008 ORL @ DET L 33 14 6 7 85.7 2 3 66.7 0 0 - 1 1 2 4 0 0 2 5 -9
+p7
+aVRashard Lewis ORL 05/13/2008 ORL @ DET L 43 14 4 13 30.8 2 6 33.3 4 6 66.7 3 4 7 1 1 1 6 4 -5
+p8
+aVKeith Bogans ORL 05/13/2008 ORL @ DET L 31 10 4 9 44.4 1 4 25.0 1 1 100.0 0 7 7 0 0 0 2 4 11
+p9
+aVDwight Howard ORL 05/10/2008 ORL vs. DET L 45 8 3 12 25.0 0 0 - 2 2 100.0 7 5 12 1 0 1 1 3 -5
+p10
+aVRashard Lewis ORL 05/10/2008 ORL vs. DET L 42 15 6 13 46.2 2 4 50.0 1 2 50.0 1 4 5 2 0 0 3 1 10
+p11
+aVJameer Nelson ORL 05/10/2008 ORL vs. DET L 36 15 6 14 42.9 1 3 33.3 2 6 33.3 0 5 5 6 0 1 1 3 6
+p12
+aVKeyon Dooling ORL 05/10/2008 ORL vs. DET L 18 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 0 1 0 2 6 -5
+p13
+aVHedo Turkoglu ORL 05/10/2008 ORL vs. DET L 44 20 7 14 50.0 2 3 66.7 4 5 80.0 0 2 2 4 2 0 5 3 -4
+p14
+aVMaurice Evans ORL 05/10/2008 ORL vs. DET L 31 15 6 11 54.5 3 6 50.0 0 0 - 1 2 3 0 2 1 0 0 -4
+p15
+aVKeith Bogans ORL 05/10/2008 ORL vs. DET L 22 6 2 3 66.7 0 0 - 2 2 100.0 1 6 7 0 1 0 0 3 -7
+p16
+aVMarcin Gortat ORL 05/10/2008 ORL vs. DET L 3 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 4
+p17
+aVRashard Lewis ORL 05/07/2008 ORL vs. DET W 43 33 11 15 73.3 5 6 83.3 6 8 75.0 2 4 6 5 2 0 1 1 22
+p18
+aVJameer Nelson ORL 05/07/2008 ORL vs. DET W 33 18 7 14 50.0 1 5 20.0 3 3 100.0 1 6 7 4 0 0 1 4 13
+p19
+aVDwight Howard ORL 05/07/2008 ORL vs. DET W 44 20 8 13 61.5 0 0 - 4 7 57.1 2 10 12 0 3 6 3 4 20
+p20
+aVJames Augustine ORL 05/07/2008 ORL vs. DET W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p21
+aVCarlos Arroyo ORL 05/07/2008 ORL vs. DET W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 0 0
+p22
+aVMarcin Gortat ORL 05/07/2008 ORL vs. DET W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 2 0 0 5
+p23
+aVHedo Turkoglu ORL 05/07/2008 ORL vs. DET W 36 18 7 18 38.9 3 5 60.0 1 2 50.0 0 4 4 6 0 0 1 5 26
+p24
+aVKeith Bogans ORL 05/07/2008 ORL vs. DET W 33 3 1 5 20.0 1 5 20.0 0 0 - 0 4 4 1 0 0 2 3 9
+p25
+aVKeyon Dooling ORL 05/07/2008 ORL vs. DET W 9 10 4 6 66.7 1 2 50.0 1 1 100.0 0 1 1 0 0 0 0 3 12
+p26
+aVPat Garrity ORL 05/07/2008 ORL vs. DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p27
+aVMaurice Evans ORL 05/07/2008 ORL vs. DET W 29 5 2 4 50.0 0 1 0.0 1 2 50.0 1 2 3 1 1 0 1 3 10
+p28
+aVKeyon Dooling ORL 05/05/2008 ORL @ DET L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -15
+p29
+aVHedo Turkoglu ORL 05/05/2008 ORL @ DET L 40 12 5 11 45.5 2 4 50.0 0 0 - 1 2 3 7 1 0 6 5 -6
+p30
+aVJameer Nelson ORL 05/05/2008 ORL @ DET L 36 22 7 16 43.8 5 8 62.5 3 3 100.0 0 7 7 4 0 0 2 6 9
+p31
+aVAdonal Foyle ORL 05/05/2008 ORL @ DET L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p32
+aVRashard Lewis ORL 05/05/2008 ORL @ DET L 41 20 6 21 28.6 2 8 25.0 6 6 100.0 2 3 5 2 0 0 6 1 -11
+p33
+aVCarlos Arroyo ORL 05/05/2008 ORL @ DET L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -12
+p34
+aVDwight Howard ORL 05/05/2008 ORL @ DET L 45 22 8 11 72.7 0 0 - 6 8 75.0 8 10 18 0 0 2 5 3 3
+p35
+aVMaurice Evans ORL 05/05/2008 ORL @ DET L 32 13 5 7 71.4 2 4 50.0 1 2 50.0 3 0 3 2 1 0 0 0 9
+p36
+aVKeith Bogans ORL 05/05/2008 ORL @ DET L 27 0 0 2 0.0 0 1 0.0 0 2 0.0 1 2 3 1 0 0 0 5 -2
+p37
+aVMaurice Evans ORL 05/03/2008 ORL @ DET L 26 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 0 1 0 3 1 -3
+p38
+aVRashard Lewis ORL 05/03/2008 ORL @ DET L 38 18 9 20 45.0 0 4 0.0 0 0 - 3 4 7 2 0 1 1 4 -24
+p39
+aVJJ Redick ORL 05/03/2008 ORL @ DET L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p40
+aVDwight Howard ORL 05/03/2008 ORL @ DET L 35 12 5 11 45.5 0 0 - 2 7 28.6 4 4 8 0 1 3 1 3 -16
+p41
+aVMarcin Gortat ORL 05/03/2008 ORL @ DET L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -3
+p42
+aVPat Garrity ORL 05/03/2008 ORL @ DET L 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 3
+p43
+aVJameer Nelson ORL 05/03/2008 ORL @ DET L 33 7 3 8 37.5 0 0 - 1 2 50.0 0 5 5 5 0 0 2 4 -24
+p44
+aVHedo Turkoglu ORL 05/03/2008 ORL @ DET L 37 18 8 16 50.0 1 3 33.3 1 3 33.3 1 6 7 4 1 0 4 6 -21
+p45
+aVKeyon Dooling ORL 05/03/2008 ORL @ DET L 18 7 1 5 20.0 0 1 0.0 5 6 83.3 0 4 4 2 1 0 0 2 0
+p46
+aVKeith Bogans ORL 05/03/2008 ORL @ DET L 29 3 1 5 20.0 1 3 33.3 0 0 - 1 2 3 2 1 0 1 1 -6
+p47
+aVMaurice Evans ORL 04/28/2008 ORL vs. TOR W 28 12 5 12 41.7 2 6 33.3 0 0 - 1 3 4 1 0 0 0 1 3
+p48
+aVJameer Nelson ORL 04/28/2008 ORL vs. TOR W 36 19 7 13 53.8 2 5 40.0 3 4 75.0 0 1 1 3 1 0 3 3 12
+p49
+aVKeith Bogans ORL 04/28/2008 ORL vs. TOR W 35 11 4 11 36.4 3 9 33.3 0 0 - 1 5 6 2 0 0 2 2 9
+p50
+aVKeyon Dooling ORL 04/28/2008 ORL vs. TOR W 15 9 3 5 60.0 1 2 50.0 2 3 66.7 0 1 1 0 1 0 0 1 -1
+p51
+aVHedo Turkoglu ORL 04/28/2008 ORL vs. TOR W 41 12 4 13 30.8 0 5 0.0 4 4 100.0 2 6 8 9 0 0 3 1 5
+p52
+aVRashard Lewis ORL 04/28/2008 ORL vs. TOR W 38 18 5 12 41.7 1 5 20.0 7 7 100.0 2 11 13 4 1 0 1 1 12
+p53
+aVMarcin Gortat ORL 04/28/2008 ORL vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p54
+aVDwight Howard ORL 04/28/2008 ORL vs. TOR W 44 21 7 12 58.3 0 0 - 7 10 70.0 10 11 21 2 0 3 4 5 10
+p55
+aVKeyon Dooling ORL 04/26/2008 ORL @ TOR W 14 4 2 8 25.0 0 3 0.0 0 0 - 0 1 1 1 0 0 1 1 1
+p56
+aVJameer Nelson ORL 04/26/2008 ORL @ TOR W 35 19 6 10 60.0 3 5 60.0 4 6 66.7 0 2 2 5 0 0 4 4 11
+p57
+aVMarcin Gortat ORL 04/26/2008 ORL @ TOR W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -3
+p58
+aVHedo Turkoglu ORL 04/26/2008 ORL @ TOR W 41 18 4 12 33.3 1 4 25.0 9 10 90.0 1 8 9 4 3 1 7 0 7
+p59
+aVDwight Howard ORL 04/26/2008 ORL @ TOR W 38 19 9 12 75.0 0 0 - 1 6 16.7 5 11 16 3 1 8 3 3 15
+p60
+aVKeith Bogans ORL 04/26/2008 ORL @ TOR W 33 12 3 7 42.9 3 5 60.0 3 4 75.0 0 4 4 3 0 0 0 3 11
+p61
+aVRashard Lewis ORL 04/26/2008 ORL @ TOR W 41 27 10 19 52.6 3 9 33.3 4 5 80.0 7 6 13 5 2 1 1 1 14
+p62
+aVMaurice Evans ORL 04/26/2008 ORL @ TOR W 28 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 1 0 0 0 2 4
+p63
+aVKeith Bogans ORL 04/24/2008 ORL @ TOR L 28 12 4 11 36.4 2 7 28.6 2 2 100.0 0 1 1 1 1 0 0 2 0
+p64
+aVCarlos Arroyo ORL 04/24/2008 ORL @ TOR L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -7
+p65
+aVHedo Turkoglu ORL 04/24/2008 ORL @ TOR L 42 26 7 12 58.3 0 2 0.0 12 13 92.3 0 7 7 3 0 1 1 1 -12
+p66
+aVMarcin Gortat ORL 04/24/2008 ORL @ TOR L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p67
+aVJameer Nelson ORL 04/24/2008 ORL @ TOR L 29 6 2 8 25.0 0 2 0.0 2 3 66.7 1 3 4 6 0 0 1 5 -9
+p68
+aVJJ Redick ORL 04/24/2008 ORL @ TOR L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p69
+aVDwight Howard ORL 04/24/2008 ORL @ TOR L 42 19 8 15 53.3 0 0 - 3 8 37.5 7 5 12 0 1 0 6 5 -20
+p70
+aVRashard Lewis ORL 04/24/2008 ORL @ TOR L 46 19 8 15 53.3 3 8 37.5 0 0 - 2 4 6 3 1 0 2 1 -17
+p71
+aVKeyon Dooling ORL 04/24/2008 ORL @ TOR L 17 8 3 5 60.0 1 3 33.3 1 1 100.0 0 0 0 1 1 0 0 3 2
+p72
+aVMaurice Evans ORL 04/24/2008 ORL @ TOR L 22 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 0 1 0 3 1 -13
+p73
+aVKeyon Dooling ORL 04/22/2008 ORL vs. TOR W 18 7 2 9 22.2 1 3 33.3 2 2 100.0 0 0 0 1 1 1 2 1 -8
+p74
+aVDwight Howard ORL 04/22/2008 ORL vs. TOR W 41 29 12 17 70.6 0 0 - 5 9 55.6 7 13 20 1 1 3 3 3 13
+p75
+aVKeith Bogans ORL 04/22/2008 ORL vs. TOR W 25 9 3 8 37.5 3 7 42.9 0 0 - 0 2 2 1 1 0 0 3 -12
+p76
+aVHedo Turkoglu ORL 04/22/2008 ORL vs. TOR W 39 12 4 15 26.7 0 4 0.0 4 4 100.0 4 5 9 5 1 0 3 5 -5
+p77
+aVMarcin Gortat ORL 04/22/2008 ORL vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p78
+aVJameer Nelson ORL 04/22/2008 ORL vs. TOR W 31 18 6 10 60.0 4 6 66.7 2 2 100.0 1 5 6 3 1 0 2 4 9
+p79
+aVMaurice Evans ORL 04/22/2008 ORL vs. TOR W 25 9 3 8 37.5 1 2 50.0 2 2 100.0 1 1 2 1 2 0 0 0 16
+p80
+aVCarlos Arroyo ORL 04/22/2008 ORL vs. TOR W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -7
+p81
+aVRashard Lewis ORL 04/22/2008 ORL vs. TOR W 44 18 7 21 33.3 0 9 0.0 4 4 100.0 2 4 6 5 3 1 1 2 11
+p82
+aVAdonal Foyle ORL 04/22/2008 ORL vs. TOR W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -7
+p83
+aVDwight Howard ORL 04/20/2008 ORL vs. TOR W 44 25 8 13 61.5 0 0 - 9 11 81.8 6 16 22 2 1 5 2 4 21
+p84
+aVRashard Lewis ORL 04/20/2008 ORL vs. TOR W 42 13 5 14 35.7 3 9 33.3 0 1 0.0 0 4 4 5 1 1 1 2 19
+p85
+aVJameer Nelson ORL 04/20/2008 ORL vs. TOR W 32 24 7 13 53.8 2 4 50.0 8 8 100.0 0 2 2 7 1 1 3 5 6
+p86
+aVMaurice Evans ORL 04/20/2008 ORL vs. TOR W 35 14 5 7 71.4 4 6 66.7 0 0 - 0 2 2 0 0 0 0 2 1
+p87
+aVAdonal Foyle ORL 04/20/2008 ORL vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p88
+aVKeyon Dooling ORL 04/20/2008 ORL vs. TOR W 17 10 4 8 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 2 10
+p89
+aVKeith Bogans ORL 04/20/2008 ORL vs. TOR W 29 7 3 7 42.9 1 4 25.0 0 0 - 0 5 5 0 0 0 0 0 1
+p90
+aVHedo Turkoglu ORL 04/20/2008 ORL vs. TOR W 38 21 9 15 60.0 1 3 33.3 2 3 66.7 3 3 6 6 0 0 3 4 19
+p91
+a.

@@ -1,0 +1,122 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrendan Haywood DAL 04/29/2010 DAL @ SAS L 21 2 1 2 50.0 0 0 - 0 0 - 1 6 7 0 1 1 0 3 -13
+p2
+aVJason Kidd DAL 04/29/2010 DAL @ SAS L 43 3 1 6 16.7 1 4 25.0 0 0 - 1 7 8 6 2 0 2 5 1
+p3
+aVEduardo Najera DAL 04/29/2010 DAL @ SAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -9
+p4
+aVJ.J. Barea DAL 04/29/2010 DAL @ SAS L 6 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 1 0 -14
+p5
+aVErick Dampier DAL 04/29/2010 DAL @ SAS L 21 0 0 1 0.0 0 0 - 0 0 - 2 3 5 1 0 0 1 3 12
+p6
+aVRodrigue Beaubois DAL 04/29/2010 DAL @ SAS L 21 16 7 13 53.8 1 3 33.3 1 3 33.3 2 3 5 1 0 0 2 4 10
+p7
+aVShawn Marion DAL 04/29/2010 DAL @ SAS L 25 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 0 0 1 3 2
+p8
+aVCaron Butler DAL 04/29/2010 DAL @ SAS L 39 25 9 18 50.0 1 5 20.0 6 6 100.0 1 2 3 1 0 2 1 2 -8
+p9
+aVDirk Nowitzki DAL 04/29/2010 DAL @ SAS L 38 33 13 21 61.9 2 4 50.0 5 6 83.3 1 4 5 4 0 0 1 5 -16
+p10
+aVJason Terry DAL 04/29/2010 DAL @ SAS L 20 2 1 7 14.3 0 2 0.0 0 0 - 0 0 0 2 1 0 2 1 -15
+p11
+aVJ.J. Barea DAL 04/27/2010 DAL vs. SAS W 25 8 4 8 50.0 0 2 0.0 0 1 0.0 2 2 4 4 1 0 5 6 14
+p12
+aVRodrigue Beaubois DAL 04/27/2010 DAL vs. SAS W 5 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -2
+p13
+aVJason Kidd DAL 04/27/2010 DAL vs. SAS W 32 10 3 5 60.0 1 1 100.0 3 4 75.0 2 5 7 7 2 0 1 1 14
+p14
+aVEduardo Najera DAL 04/27/2010 DAL vs. SAS W 21 0 0 2 0.0 0 2 0.0 0 0 - 1 3 4 0 2 0 1 4 1
+p15
+aVDeShawn Stevenson DAL 04/27/2010 DAL vs. SAS W 6 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 2 -2
+p16
+aVDirk Nowitzki DAL 04/27/2010 DAL vs. SAS W 31 15 7 14 50.0 0 0 - 1 1 100.0 0 9 9 2 2 2 3 1 17
+p17
+aVMatt Carroll DAL 04/27/2010 DAL vs. SAS W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p18
+aVJason Terry DAL 04/27/2010 DAL vs. SAS W 22 12 3 8 37.5 1 4 25.0 5 6 83.3 2 2 4 1 2 0 1 2 5
+p19
+aVCaron Butler DAL 04/27/2010 DAL vs. SAS W 37 35 12 24 50.0 3 8 37.5 8 9 88.9 1 10 11 1 3 1 0 2 22
+p20
+aVBrendan Haywood DAL 04/27/2010 DAL vs. SAS W 31 8 1 3 33.3 0 0 - 6 12 50.0 6 2 8 2 1 4 1 2 22
+p21
+aVShawn Marion DAL 04/27/2010 DAL vs. SAS W 26 10 5 12 41.7 0 1 0.0 0 0 - 0 4 4 2 1 0 0 3 21
+p22
+aVCaron Butler DAL 04/25/2010 DAL @ SAS L 35 17 7 18 38.9 1 3 33.3 2 2 100.0 0 6 6 3 1 0 3 5 -15
+p23
+aVShawn Marion DAL 04/25/2010 DAL @ SAS L 28 14 7 13 53.8 0 1 0.0 0 0 - 3 4 7 1 0 1 2 0 7
+p24
+aVDirk Nowitzki DAL 04/25/2010 DAL @ SAS L 43 17 4 10 40.0 0 1 0.0 9 9 100.0 1 10 11 4 0 0 3 2 -2
+p25
+aVJason Kidd DAL 04/25/2010 DAL @ SAS L 42 10 3 10 30.0 2 7 28.6 2 2 100.0 1 6 7 5 2 1 2 1 1
+p26
+aVErick Dampier DAL 04/25/2010 DAL @ SAS L 19 0 0 2 0.0 0 0 - 0 0 - 4 1 5 2 0 0 2 5 -11
+p27
+aVBrendan Haywood DAL 04/25/2010 DAL @ SAS L 25 10 3 6 50.0 0 0 - 4 6 66.7 3 1 4 0 1 3 0 3 9
+p28
+aVJ.J. Barea DAL 04/25/2010 DAL @ SAS L 16 8 3 7 42.9 1 2 50.0 1 2 50.0 0 2 2 1 1 0 1 2 -6
+p29
+aVEduardo Najera DAL 04/25/2010 DAL @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p30
+aVRodrigue Beaubois DAL 04/25/2010 DAL @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p31
+aVJason Terry DAL 04/25/2010 DAL @ SAS L 31 13 5 11 45.5 3 5 60.0 0 2 0.0 0 6 6 1 0 0 1 3 2
+p32
+aVDirk Nowitzki DAL 04/23/2010 DAL @ SAS L 42 35 13 23 56.5 1 1 100.0 8 8 100.0 0 7 7 3 2 1 2 5 -1
+p33
+aVJ.J. Barea DAL 04/23/2010 DAL @ SAS L 32 14 6 13 46.2 2 4 50.0 0 0 - 1 3 4 4 0 0 2 3 2
+p34
+aVEduardo Najera DAL 04/23/2010 DAL @ SAS L 3 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 1
+p35
+aVJason Terry DAL 04/23/2010 DAL @ SAS L 37 17 6 15 40.0 4 8 50.0 1 2 50.0 0 2 2 2 0 0 1 4 9
+p36
+aVRodrigue Beaubois DAL 04/23/2010 DAL @ SAS L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 2
+p37
+aVErick Dampier DAL 04/23/2010 DAL @ SAS L 27 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 3 1 5 -2
+p38
+aVShawn Marion DAL 04/23/2010 DAL @ SAS L 17 7 3 9 33.3 0 1 0.0 1 1 100.0 0 3 3 0 0 0 2 0 -17
+p39
+aVJason Kidd DAL 04/23/2010 DAL @ SAS L 45 7 1 6 16.7 1 6 16.7 4 4 100.0 1 6 7 5 2 0 0 2 -6
+p40
+aVBrendan Haywood DAL 04/23/2010 DAL @ SAS L 18 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 1 0 0 2 0
+p41
+aVCaron Butler DAL 04/23/2010 DAL @ SAS L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 3 2 -8
+p42
+aVDirk Nowitzki DAL 04/21/2010 DAL vs. SAS L 38 24 9 24 37.5 1 1 100.0 5 6 83.3 3 7 10 4 1 0 0 2 -15
+p43
+aVJ.J. Barea DAL 04/21/2010 DAL vs. SAS L 10 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 0 -1
+p44
+aVShawn Marion DAL 04/21/2010 DAL vs. SAS L 21 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 -4
+p45
+aVBrendan Haywood DAL 04/21/2010 DAL vs. SAS L 26 2 1 3 33.3 0 0 - 0 0 - 3 5 8 0 2 2 1 2 6
+p46
+aVEduardo Najera DAL 04/21/2010 DAL vs. SAS L 6 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 0 0 0 0 1 -4
+p47
+aVJason Kidd DAL 04/21/2010 DAL vs. SAS L 40 5 1 7 14.3 1 4 25.0 2 2 100.0 0 4 4 8 2 0 0 3 -8
+p48
+aVErick Dampier DAL 04/21/2010 DAL vs. SAS L 22 0 0 1 0.0 0 0 - 0 0 - 5 2 7 0 0 1 1 3 -20
+p49
+aVCaron Butler DAL 04/21/2010 DAL vs. SAS L 37 17 6 17 35.3 1 4 25.0 4 4 100.0 1 6 7 1 2 2 3 3 -21
+p50
+aVJason Terry DAL 04/21/2010 DAL vs. SAS L 41 27 9 19 47.4 3 7 42.9 6 6 100.0 0 2 2 3 0 1 1 2 -3
+p51
+aVShawn Marion DAL 04/18/2010 DAL vs. SAS W 32 9 4 10 40.0 0 1 0.0 1 2 50.0 2 3 5 3 0 2 2 4 8
+p52
+aVErick Dampier DAL 04/18/2010 DAL vs. SAS W 30 5 0 3 0.0 0 0 - 5 12 41.7 5 7 12 0 1 1 1 3 0
+p53
+aVCaron Butler DAL 04/18/2010 DAL vs. SAS W 40 22 8 19 42.1 1 3 33.3 5 6 83.3 0 6 6 1 3 0 5 2 10
+p54
+aVBrendan Haywood DAL 04/18/2010 DAL vs. SAS W 18 10 4 5 80.0 0 0 - 2 2 100.0 3 3 6 1 1 0 1 2 5
+p55
+aVJason Kidd DAL 04/18/2010 DAL vs. SAS W 41 13 5 12 41.7 3 6 50.0 0 0 - 1 7 8 11 4 0 4 3 6
+p56
+aVDirk Nowitzki DAL 04/18/2010 DAL vs. SAS W 40 36 12 14 85.7 0 0 - 12 12 100.0 2 5 7 1 0 1 1 0 3
+p57
+aVJ.J. Barea DAL 04/18/2010 DAL vs. SAS W 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 2 0
+p58
+aVDeShawn Stevenson DAL 04/18/2010 DAL vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p59
+aVJason Terry DAL 04/18/2010 DAL vs. SAS W 23 5 2 9 22.2 1 4 25.0 0 0 - 0 1 1 3 1 0 0 4 0
+p60
+a.

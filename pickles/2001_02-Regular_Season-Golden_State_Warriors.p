@@ -1,0 +1,1656 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDean Oliver GSW 04/17/2002 GSW vs. LAC W 15 4 1 4 25.0 1 1 100.0 1 2 50.0 0 1 1 3 1 0 2 3 0
+p2
+aVAntawn Jamison GSW 04/17/2002 GSW vs. LAC W 44 35 13 22 59.1 2 5 40.0 7 7 100.0 2 4 6 2 0 1 5 3 0
+p3
+aVGilbert Arenas GSW 04/17/2002 GSW vs. LAC W 36 19 6 12 50.0 0 1 0.0 7 9 77.8 1 5 6 6 3 0 4 3 2
+p4
+aVDanny Fortson GSW 04/17/2002 GSW vs. LAC W 23 6 3 7 42.9 0 0 - 0 0 - 0 6 6 2 2 0 2 4 4
+p5
+aVTroy Murphy GSW 04/17/2002 GSW vs. LAC W 17 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 7
+p6
+aVAdonal Foyle GSW 04/17/2002 GSW vs. LAC W 24 8 4 6 66.7 0 0 - 0 0 - 2 9 11 2 1 1 0 2 -1
+p7
+aVDean Garrett GSW 04/17/2002 GSW vs. LAC W 15 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 0 0 0 5 -1
+p8
+aVJason Richardson GSW 04/17/2002 GSW vs. LAC W 38 23 8 20 40.0 2 3 66.7 5 6 83.3 3 3 6 5 3 0 0 0 7
+p9
+aVErick Dampier GSW 04/17/2002 GSW vs. LAC W 28 4 1 3 33.3 0 0 - 2 2 100.0 0 6 6 3 0 8 1 4 2
+p10
+aVDanny Fortson GSW 04/16/2002 GSW @ SAC L 21 8 4 9 44.4 0 0 - 0 0 - 0 4 4 2 0 0 0 2 0
+p11
+aVChris Mills GSW 04/16/2002 GSW @ SAC L 17 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 2 1 0 0 2 -9
+p12
+aVTroy Murphy GSW 04/16/2002 GSW @ SAC L 17 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 1 0 0 2 -10
+p13
+aVDean Oliver GSW 04/16/2002 GSW @ SAC L 18 15 6 9 66.7 1 2 50.0 2 3 66.7 0 4 4 2 1 0 1 1 -12
+p14
+aVLarry Hughes GSW 04/16/2002 GSW @ SAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p15
+aVAdonal Foyle GSW 04/16/2002 GSW @ SAC L 21 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 0 4 0 4 -5
+p16
+aVErick Dampier GSW 04/16/2002 GSW @ SAC L 27 6 3 7 42.9 0 0 - 0 2 0.0 1 2 3 0 0 1 0 1 -9
+p17
+aVJason Richardson GSW 04/16/2002 GSW @ SAC L 41 40 18 28 64.3 2 5 40.0 2 2 100.0 1 1 2 2 3 0 3 6 -5
+p18
+aVAntawn Jamison GSW 04/16/2002 GSW @ SAC L 35 13 5 11 45.5 2 4 50.0 1 1 100.0 1 3 4 3 1 1 3 1 -9
+p19
+aVGilbert Arenas GSW 04/16/2002 GSW @ SAC L 38 14 3 8 37.5 0 2 0.0 8 8 100.0 3 6 9 9 2 0 4 3 0
+p20
+aVAntawn Jamison GSW 04/13/2002 GSW vs. UTA L 35 24 9 19 47.4 2 6 33.3 4 7 57.1 4 6 10 2 1 0 4 3 -6
+p21
+aVTroy Murphy GSW 04/13/2002 GSW vs. UTA L 17 7 3 3 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 3 3 -4
+p22
+aVChris Mills GSW 04/13/2002 GSW vs. UTA L 13 8 3 4 75.0 2 2 100.0 0 0 - 1 2 3 0 1 0 0 1 -2
+p23
+aVGilbert Arenas GSW 04/13/2002 GSW vs. UTA L 28 16 6 12 50.0 3 6 50.0 1 1 100.0 0 4 4 7 0 1 4 6 -4
+p24
+aVAdonal Foyle GSW 04/13/2002 GSW vs. UTA L 24 5 2 7 28.6 0 0 - 1 2 50.0 0 5 5 0 0 5 1 2 -7
+p25
+aVErick Dampier GSW 04/13/2002 GSW vs. UTA L 24 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 7 3 1 6 6 0
+p26
+aVDean Oliver GSW 04/13/2002 GSW vs. UTA L 15 12 5 8 62.5 0 1 0.0 2 2 100.0 0 2 2 3 0 0 0 0 -4
+p27
+aVDanny Fortson GSW 04/13/2002 GSW vs. UTA L 31 7 2 7 28.6 0 0 - 3 3 100.0 5 8 13 3 1 0 0 3 -5
+p28
+aVLarry Hughes GSW 04/13/2002 GSW vs. UTA L 23 6 3 9 33.3 0 0 - 0 2 0.0 0 3 3 3 1 0 2 4 9
+p29
+aVJason Richardson GSW 04/13/2002 GSW vs. UTA L 30 15 6 11 54.5 3 3 100.0 0 0 - 2 2 4 3 0 0 1 4 -17
+p30
+aVChris Mills GSW 04/12/2002 GSW @ DEN L 22 7 3 7 42.9 0 2 0.0 1 1 100.0 2 1 3 1 0 0 1 4 -9
+p31
+aVAdonal Foyle GSW 04/12/2002 GSW @ DEN L 22 4 2 6 33.3 0 0 - 0 0 - 2 3 5 1 0 2 2 1 -2
+p32
+aVDanny Fortson GSW 04/12/2002 GSW @ DEN L 27 11 4 5 80.0 0 0 - 3 5 60.0 4 4 8 1 0 0 2 3 4
+p33
+aVErick Dampier GSW 04/12/2002 GSW @ DEN L 20 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 1 1 3 3 -5
+p34
+aVTroy Murphy GSW 04/12/2002 GSW @ DEN L 16 12 4 6 66.7 0 0 - 4 4 100.0 2 1 3 1 0 0 0 2 -5
+p35
+aVGilbert Arenas GSW 04/12/2002 GSW @ DEN L 39 14 5 13 38.5 0 4 0.0 4 9 44.4 0 4 4 7 5 0 5 3 -12
+p36
+aVLarry Hughes GSW 04/12/2002 GSW @ DEN L 18 7 3 12 25.0 0 1 0.0 1 2 50.0 0 3 3 3 0 1 1 1 -4
+p37
+aVJason Richardson GSW 04/12/2002 GSW @ DEN L 39 11 4 9 44.4 1 2 50.0 2 2 100.0 2 3 5 6 2 2 9 5 0
+p38
+aVAntawn Jamison GSW 04/12/2002 GSW @ DEN L 37 21 9 18 50.0 2 6 33.3 1 2 50.0 1 4 5 2 0 1 2 2 -7
+p39
+aVJason Richardson GSW 04/10/2002 GSW vs. SAC L 39 6 3 15 20.0 0 4 0.0 0 0 - 3 7 10 5 1 1 2 2 -1
+p40
+aVChris Mills GSW 04/10/2002 GSW vs. SAC L 16 9 3 8 37.5 3 5 60.0 0 0 - 2 4 6 1 0 0 0 3 -3
+p41
+aVAntawn Jamison GSW 04/10/2002 GSW vs. SAC L 42 20 8 17 47.1 0 3 0.0 4 8 50.0 1 3 4 3 2 1 1 3 5
+p42
+aVBob Sura GSW 04/10/2002 GSW vs. SAC L 13 9 2 3 66.7 2 2 100.0 3 4 75.0 0 1 1 6 2 0 2 0 3
+p43
+aVErick Dampier GSW 04/10/2002 GSW vs. SAC L 25 15 6 8 75.0 0 0 - 3 6 50.0 4 1 5 3 0 1 3 4 10
+p44
+aVGilbert Arenas GSW 04/10/2002 GSW vs. SAC L 34 17 7 16 43.8 1 4 25.0 2 3 66.7 3 4 7 6 5 0 3 4 -10
+p45
+aVDanny Fortson GSW 04/10/2002 GSW vs. SAC L 31 17 7 14 50.0 0 0 - 3 4 75.0 6 3 9 1 1 1 1 2 -15
+p46
+aVLarry Hughes GSW 04/10/2002 GSW vs. SAC L 23 18 8 18 44.4 0 0 - 2 2 100.0 5 1 6 1 2 0 2 0 18
+p47
+aVTroy Murphy GSW 04/10/2002 GSW vs. SAC L 3 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -1
+p48
+aVAdonal Foyle GSW 04/10/2002 GSW vs. SAC L 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 3 2 -16
+p49
+aVAdonal Foyle GSW 04/08/2002 GSW vs. MIN L 21 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 1 0 1 1 2 -3
+p50
+aVDanny Fortson GSW 04/08/2002 GSW vs. MIN L 17 2 1 3 33.3 0 0 - 0 0 - 4 8 12 2 0 2 1 3 -1
+p51
+aVGilbert Arenas GSW 04/08/2002 GSW vs. MIN L 40 15 4 14 28.6 1 6 16.7 6 8 75.0 2 1 3 4 4 0 0 2 -18
+p52
+aVChris Mills GSW 04/08/2002 GSW vs. MIN L 19 4 2 4 50.0 0 2 0.0 0 0 - 0 4 4 1 0 0 0 2 6
+p53
+aVBob Sura GSW 04/08/2002 GSW vs. MIN L 25 18 7 15 46.7 2 4 50.0 2 2 100.0 2 4 6 6 1 1 3 3 4
+p54
+aVJason Richardson GSW 04/08/2002 GSW vs. MIN L 40 21 9 18 50.0 3 5 60.0 0 0 - 1 3 4 3 0 0 3 3 -5
+p55
+aVAntawn Jamison GSW 04/08/2002 GSW vs. MIN L 40 25 11 22 50.0 2 4 50.0 1 2 50.0 2 5 7 1 0 0 2 4 -6
+p56
+aVErick Dampier GSW 04/08/2002 GSW vs. MIN L 17 4 2 4 50.0 0 0 - 0 1 0.0 1 2 3 2 0 3 0 3 -3
+p57
+aVTroy Murphy GSW 04/08/2002 GSW vs. MIN L 21 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 0 0 0 1 -9
+p58
+aVLarry Hughes GSW 04/06/2002 GSW @ POR L 22 10 5 10 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -6
+p59
+aVDean Garrett GSW 04/06/2002 GSW @ POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p60
+aVTroy Murphy GSW 04/06/2002 GSW @ POR L 18 2 1 5 20.0 0 1 0.0 0 0 - 0 5 5 2 1 0 2 2 -15
+p61
+aVChris Mills GSW 04/06/2002 GSW @ POR L 22 11 5 11 45.5 0 3 0.0 1 1 100.0 0 3 3 2 0 1 1 1 -21
+p62
+aVAdonal Foyle GSW 04/06/2002 GSW @ POR L 27 12 6 12 50.0 0 0 - 0 0 - 4 6 10 1 0 0 3 1 -9
+p63
+aVDean Oliver GSW 04/06/2002 GSW @ POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p64
+aVDanny Fortson GSW 04/06/2002 GSW @ POR L 28 12 6 10 60.0 0 0 - 0 0 - 3 6 9 3 0 0 2 2 -10
+p65
+aVAntawn Jamison GSW 04/06/2002 GSW @ POR L 30 19 9 16 56.3 1 2 50.0 0 0 - 0 2 2 1 0 1 2 1 -12
+p66
+aVGilbert Arenas GSW 04/06/2002 GSW @ POR L 25 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 1 1 0 2 0 -24
+p67
+aVBob Sura GSW 04/06/2002 GSW @ POR L 24 4 1 3 33.3 0 1 0.0 2 3 66.7 2 1 3 7 3 1 3 0 -3
+p68
+aVJason Richardson GSW 04/06/2002 GSW @ POR L 21 5 2 9 22.2 0 3 0.0 1 3 33.3 0 2 2 5 1 0 0 0 -16
+p69
+aVErick Dampier GSW 04/06/2002 GSW @ POR L 17 4 2 6 33.3 0 0 - 0 0 - 1 2 3 2 0 4 2 3 -13
+p70
+aVErick Dampier GSW 04/05/2002 GSW vs. DEN W 20 3 1 1 100.0 0 0 - 1 1 100.0 1 3 4 1 0 2 3 4 -10
+p71
+aVGilbert Arenas GSW 04/05/2002 GSW vs. DEN W 35 25 9 16 56.3 1 5 20.0 6 9 66.7 3 3 6 6 5 1 6 2 7
+p72
+aVDanny Fortson GSW 04/05/2002 GSW vs. DEN W 26 7 2 8 25.0 0 0 - 3 4 75.0 4 8 12 2 2 0 2 2 9
+p73
+aVAntawn Jamison GSW 04/05/2002 GSW vs. DEN W 38 17 6 13 46.2 0 2 0.0 5 6 83.3 1 7 8 1 1 1 4 4 1
+p74
+aVBob Sura GSW 04/05/2002 GSW vs. DEN W 26 19 6 12 50.0 1 1 100.0 6 10 60.0 1 2 3 4 2 0 1 2 1
+p75
+aVTroy Murphy GSW 04/05/2002 GSW vs. DEN W 15 6 3 5 60.0 0 0 - 0 0 - 1 5 6 1 0 0 1 4 -3
+p76
+aVChris Mills GSW 04/05/2002 GSW vs. DEN W 12 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 -1
+p77
+aVJason Richardson GSW 04/05/2002 GSW vs. DEN W 40 22 10 21 47.6 1 5 20.0 1 3 33.3 2 4 6 4 0 1 3 4 4
+p78
+aVAdonal Foyle GSW 04/05/2002 GSW vs. DEN W 28 4 2 9 22.2 0 0 - 0 0 - 3 6 9 1 0 6 0 4 12
+p79
+aVErick Dampier GSW 04/02/2002 GSW vs. POR W 21 2 1 2 50.0 0 0 - 0 2 0.0 2 3 5 0 0 3 2 5 3
+p80
+aVAntawn Jamison GSW 04/02/2002 GSW vs. POR W 35 20 8 11 72.7 2 4 50.0 2 2 100.0 1 5 6 3 1 0 2 3 18
+p81
+aVTroy Murphy GSW 04/02/2002 GSW vs. POR W 32 4 2 8 25.0 0 0 - 0 0 - 5 3 8 2 0 0 1 4 4
+p82
+aVBob Sura GSW 04/02/2002 GSW vs. POR W 26 23 10 16 62.5 3 4 75.0 0 1 0.0 0 4 4 6 1 0 2 2 15
+p83
+aVJason Richardson GSW 04/02/2002 GSW vs. POR W 39 26 12 21 57.1 1 2 50.0 1 2 50.0 1 6 7 1 3 1 2 1 12
+p84
+aVDean Oliver GSW 04/02/2002 GSW vs. POR W 1 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p85
+aVAdonal Foyle GSW 04/02/2002 GSW vs. POR W 27 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 1 2 0 3 13
+p86
+aVGilbert Arenas GSW 04/02/2002 GSW vs. POR W 39 22 8 11 72.7 4 5 80.0 2 2 100.0 0 4 4 9 2 0 2 3 13
+p87
+aVChris Mills GSW 04/02/2002 GSW vs. POR W 20 4 2 8 25.0 0 4 0.0 0 0 - 1 1 2 1 0 0 2 1 4
+p88
+aVAdonal Foyle GSW 03/30/2002 GSW @ MEM L 19 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 3 0 0 1 3 -13
+p89
+aVBob Sura GSW 03/30/2002 GSW @ MEM L 27 18 8 14 57.1 0 3 0.0 2 2 100.0 0 0 0 7 4 0 5 3 6
+p90
+aVJason Richardson GSW 03/30/2002 GSW @ MEM L 30 14 4 15 26.7 0 2 0.0 6 9 66.7 3 3 6 2 0 0 1 1 -9
+p91
+aVChris Mills GSW 03/30/2002 GSW @ MEM L 27 9 2 7 28.6 0 0 - 5 7 71.4 1 5 6 0 0 0 1 0 1
+p92
+aVAntawn Jamison GSW 03/30/2002 GSW @ MEM L 34 16 8 16 50.0 0 3 0.0 0 1 0.0 3 4 7 1 1 1 1 2 -10
+p93
+aVErick Dampier GSW 03/30/2002 GSW @ MEM L 33 15 5 12 41.7 0 0 - 5 5 100.0 7 1 8 4 1 4 0 2 7
+p94
+aVGilbert Arenas GSW 03/30/2002 GSW @ MEM L 17 2 1 8 12.5 0 3 0.0 0 1 0.0 0 1 1 0 0 0 2 0 -13
+p95
+aVLarry Hughes GSW 03/30/2002 GSW @ MEM L 22 13 6 10 60.0 0 1 0.0 1 1 100.0 2 3 5 2 4 0 3 1 4
+p96
+aVTroy Murphy GSW 03/30/2002 GSW @ MEM L 32 8 4 7 57.1 0 0 - 0 0 - 3 9 12 4 1 0 0 5 -3
+p97
+aVChris Mills GSW 03/29/2002 GSW @ DET L 21 10 4 8 50.0 2 3 66.7 0 2 0.0 1 1 2 1 0 0 1 3 -3
+p98
+aVGilbert Arenas GSW 03/29/2002 GSW @ DET L 29 8 3 7 42.9 1 3 33.3 1 1 100.0 0 1 1 5 1 0 3 3 -8
+p99
+aVTroy Murphy GSW 03/29/2002 GSW @ DET L 17 8 4 7 57.1 0 0 - 0 0 - 2 5 7 1 0 0 0 3 4
+p100
+aVAntawn Jamison GSW 03/29/2002 GSW @ DET L 30 11 4 11 36.4 1 3 33.3 2 4 50.0 2 0 2 3 1 1 2 5 -5
+p101
+aVDanny Fortson GSW 03/29/2002 GSW @ DET L 28 9 3 15 20.0 0 0 - 3 3 100.0 3 12 15 3 0 1 5 3 -10
+p102
+aVErick Dampier GSW 03/29/2002 GSW @ DET L 23 14 6 7 85.7 0 0 - 2 2 100.0 0 2 2 1 1 1 1 5 -8
+p103
+aVAdonal Foyle GSW 03/29/2002 GSW @ DET L 24 6 3 7 42.9 0 0 - 0 2 0.0 4 8 12 0 0 2 2 1 -3
+p104
+aVJason Richardson GSW 03/29/2002 GSW @ DET L 37 16 6 14 42.9 2 5 40.0 2 2 100.0 0 2 2 1 2 1 2 3 -7
+p105
+aVBob Sura GSW 03/29/2002 GSW @ DET L 31 21 6 11 54.5 3 5 60.0 6 8 75.0 2 2 4 8 0 0 2 3 5
+p106
+aVBob Sura GSW 03/27/2002 GSW @ BOS L 21 10 4 10 40.0 1 3 33.3 1 2 50.0 1 0 1 5 1 0 3 1 -2
+p107
+aVJason Richardson GSW 03/27/2002 GSW @ BOS L 36 18 7 18 38.9 4 7 57.1 0 0 - 1 2 3 3 2 0 0 2 -10
+p108
+aVAntawn Jamison GSW 03/27/2002 GSW @ BOS L 31 13 5 17 29.4 1 3 33.3 2 5 40.0 4 4 8 3 2 0 2 1 -13
+p109
+aVDanny Fortson GSW 03/27/2002 GSW @ BOS L 32 20 7 13 53.8 0 2 0.0 6 8 75.0 4 9 13 1 0 1 1 3 -5
+p110
+aVLarry Hughes GSW 03/27/2002 GSW @ BOS L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 0 5
+p111
+aVChris Mills GSW 03/27/2002 GSW @ BOS L 17 4 1 4 25.0 0 2 0.0 2 2 100.0 1 5 6 3 0 0 0 1 18
+p112
+aVAdonal Foyle GSW 03/27/2002 GSW @ BOS L 20 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 1 0 4 -4
+p113
+aVGilbert Arenas GSW 03/27/2002 GSW @ BOS L 30 14 4 7 57.1 4 5 80.0 2 3 66.7 0 1 1 7 3 0 5 3 1
+p114
+aVErick Dampier GSW 03/27/2002 GSW @ BOS L 28 10 3 7 42.9 0 0 - 4 6 66.7 6 7 13 2 0 1 3 4 -7
+p115
+aVTroy Murphy GSW 03/27/2002 GSW @ BOS L 16 6 3 9 33.3 0 0 - 0 0 - 0 5 5 1 0 0 3 3 2
+p116
+aVDanny Fortson GSW 03/26/2002 GSW @ MIN W 28 12 5 11 45.5 0 0 - 2 2 100.0 0 9 9 3 0 1 0 2 7
+p117
+aVJason Richardson GSW 03/26/2002 GSW @ MIN W 37 13 6 13 46.2 0 3 0.0 1 2 50.0 1 5 6 7 2 1 2 3 7
+p118
+aVGilbert Arenas GSW 03/26/2002 GSW @ MIN W 29 11 5 10 50.0 1 3 33.3 0 2 0.0 0 0 0 5 2 1 3 2 9
+p119
+aVErick Dampier GSW 03/26/2002 GSW @ MIN W 27 15 7 8 87.5 0 0 - 1 1 100.0 1 2 3 1 0 4 2 2 -2
+p120
+aVAntawn Jamison GSW 03/26/2002 GSW @ MIN W 33 25 10 18 55.6 1 4 25.0 4 4 100.0 3 5 8 2 0 0 2 4 4
+p121
+aVTroy Murphy GSW 03/26/2002 GSW @ MIN W 16 2 1 3 33.3 0 0 - 0 0 - 0 4 4 2 0 0 0 5 3
+p122
+aVBob Sura GSW 03/26/2002 GSW @ MIN W 30 11 2 7 28.6 1 3 33.3 6 8 75.0 2 6 8 9 1 0 1 2 2
+p123
+aVAdonal Foyle GSW 03/26/2002 GSW @ MIN W 21 8 4 5 80.0 0 0 - 0 0 - 4 5 9 0 0 1 3 3 9
+p124
+aVChris Mills GSW 03/26/2002 GSW @ MIN W 19 18 4 10 40.0 3 4 75.0 7 7 100.0 1 0 1 0 1 0 1 4 6
+p125
+aVBob Sura GSW 03/24/2002 GSW vs. HOU L 26 19 7 16 43.8 1 3 33.3 4 4 100.0 2 3 5 4 0 0 0 2 -8
+p126
+aVAdonal Foyle GSW 03/24/2002 GSW vs. HOU L 35 12 5 9 55.6 0 0 - 2 4 50.0 5 3 8 0 0 5 2 5 -2
+p127
+aVErick Dampier GSW 03/24/2002 GSW vs. HOU L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -11
+p128
+aVAntawn Jamison GSW 03/24/2002 GSW vs. HOU L 40 17 5 15 33.3 0 1 0.0 7 7 100.0 3 4 7 4 2 1 1 2 -4
+p129
+aVLarry Hughes GSW 03/24/2002 GSW vs. HOU L 15 5 2 7 28.6 0 1 0.0 1 1 100.0 0 0 0 1 0 0 1 1 -6
+p130
+aVGilbert Arenas GSW 03/24/2002 GSW vs. HOU L 31 16 5 12 41.7 3 8 37.5 3 4 75.0 0 1 1 2 3 0 2 2 -11
+p131
+aVChris Mills GSW 03/24/2002 GSW vs. HOU L 18 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 1 1 0 0 -1
+p132
+aVDanny Fortson GSW 03/24/2002 GSW vs. HOU L 18 10 4 5 80.0 0 0 - 2 2 100.0 2 5 7 1 1 0 2 4 -10
+p133
+aVJason Richardson GSW 03/24/2002 GSW vs. HOU L 37 14 7 18 38.9 0 3 0.0 0 0 - 1 1 2 4 1 0 2 2 -13
+p134
+aVTroy Murphy GSW 03/24/2002 GSW vs. HOU L 10 8 3 7 42.9 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 3 6
+p135
+aVDanny Fortson GSW 03/23/2002 GSW @ UTA L 29 7 3 8 37.5 0 0 - 1 2 50.0 2 7 9 1 0 0 2 3 -1
+p136
+aVTroy Murphy GSW 03/23/2002 GSW @ UTA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p137
+aVAntawn Jamison GSW 03/23/2002 GSW @ UTA L 41 28 12 20 60.0 2 5 40.0 2 5 40.0 2 1 3 2 2 1 1 2 3
+p138
+aVBob Sura GSW 03/23/2002 GSW @ UTA L 25 21 4 10 40.0 1 5 20.0 12 14 85.7 0 2 2 7 2 1 0 3 -5
+p139
+aVLarry Hughes GSW 03/23/2002 GSW @ UTA L 25 15 6 8 75.0 0 1 0.0 3 4 75.0 0 1 1 3 1 1 3 4 1
+p140
+aVChris Mills GSW 03/23/2002 GSW @ UTA L 14 5 0 2 0.0 0 2 0.0 5 5 100.0 0 4 4 0 0 0 1 0 -8
+p141
+aVAdonal Foyle GSW 03/23/2002 GSW @ UTA L 32 4 2 8 25.0 0 0 - 0 2 0.0 4 6 10 2 3 9 1 4 -5
+p142
+aVJason Richardson GSW 03/23/2002 GSW @ UTA L 33 16 7 16 43.8 1 4 25.0 1 1 100.0 2 0 2 1 1 0 5 3 -14
+p143
+aVErick Dampier GSW 03/23/2002 GSW @ UTA L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 4 4 1 0 0 0 1 -6
+p144
+aVGilbert Arenas GSW 03/23/2002 GSW @ UTA L 25 6 2 6 33.3 1 2 50.0 1 2 50.0 0 2 2 7 0 0 1 2 -5
+p145
+aVChris Mills GSW 03/21/2002 GSW vs. LAC L 17 6 3 8 37.5 0 2 0.0 0 0 - 1 2 3 1 0 1 0 1 -3
+p146
+aVAntawn Jamison GSW 03/21/2002 GSW vs. LAC L 39 23 9 21 42.9 1 3 33.3 4 6 66.7 6 9 15 3 1 1 2 3 -17
+p147
+aVDean Oliver GSW 03/21/2002 GSW vs. LAC L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p148
+aVGilbert Arenas GSW 03/21/2002 GSW vs. LAC L 35 32 11 15 73.3 2 2 100.0 8 9 88.9 1 3 4 5 3 1 3 4 -15
+p149
+aVAdonal Foyle GSW 03/21/2002 GSW vs. LAC L 36 7 3 6 50.0 0 0 - 1 1 100.0 2 7 9 1 0 0 1 4 -7
+p150
+aVErick Dampier GSW 03/21/2002 GSW vs. LAC L 15 4 2 3 66.7 0 0 - 0 1 0.0 0 0 0 0 0 0 1 3 -10
+p151
+aVJason Richardson GSW 03/21/2002 GSW vs. LAC L 44 14 5 18 27.8 1 4 25.0 3 4 75.0 3 5 8 2 0 0 1 4 -18
+p152
+aVDanny Fortson GSW 03/21/2002 GSW vs. LAC L 13 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -17
+p153
+aVBob Sura GSW 03/21/2002 GSW vs. LAC L 24 8 2 7 28.6 1 2 50.0 3 4 75.0 1 2 3 4 0 0 1 2 -2
+p154
+aVTroy Murphy GSW 03/21/2002 GSW vs. LAC L 16 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -9
+p155
+aVErick Dampier GSW 03/19/2002 GSW @ SEA L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -17
+p156
+aVDean Garrett GSW 03/19/2002 GSW @ SEA L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 0 1
+p157
+aVDean Oliver GSW 03/19/2002 GSW @ SEA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p158
+aVAdonal Foyle GSW 03/19/2002 GSW @ SEA L 27 12 6 8 75.0 0 0 - 0 0 - 4 1 5 0 0 0 4 2 -3
+p159
+aVBob Sura GSW 03/19/2002 GSW @ SEA L 24 8 1 5 20.0 1 2 50.0 5 6 83.3 0 0 0 4 1 0 3 1 -5
+p160
+aVJason Richardson GSW 03/19/2002 GSW @ SEA L 30 10 5 10 50.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 3 -18
+p161
+aVDanny Fortson GSW 03/19/2002 GSW @ SEA L 33 21 5 8 62.5 0 0 - 11 17 64.7 3 7 10 3 1 0 2 3 -18
+p162
+aVChris Mills GSW 03/19/2002 GSW @ SEA L 27 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 2 1 0 2 4 5
+p163
+aVGilbert Arenas GSW 03/19/2002 GSW @ SEA L 27 12 4 11 36.4 2 4 50.0 2 4 50.0 1 3 4 5 3 0 3 2 -14
+p164
+aVAntawn Jamison GSW 03/19/2002 GSW @ SEA L 32 11 5 11 45.5 0 2 0.0 1 2 50.0 2 2 4 5 1 0 1 1 -19
+p165
+aVTroy Murphy GSW 03/19/2002 GSW @ SEA L 19 11 5 7 71.4 1 1 100.0 0 0 - 1 1 2 2 0 2 1 2 4
+p166
+aVBob Sura GSW 03/18/2002 GSW vs. WAS L 19 6 1 4 25.0 0 1 0.0 4 8 50.0 1 1 2 5 0 0 2 1 -5
+p167
+aVAdonal Foyle GSW 03/18/2002 GSW vs. WAS L 14 0 0 1 0.0 0 0 - 0 2 0.0 2 0 2 0 0 0 0 2 -2
+p168
+aVAntawn Jamison GSW 03/18/2002 GSW vs. WAS L 38 16 5 15 33.3 1 6 16.7 5 7 71.4 2 6 8 3 0 1 4 3 -3
+p169
+aVTroy Murphy GSW 03/18/2002 GSW vs. WAS L 27 8 4 7 57.1 0 0 - 0 0 - 1 3 4 3 0 0 1 4 16
+p170
+aVErick Dampier GSW 03/18/2002 GSW vs. WAS L 33 6 2 8 25.0 0 0 - 2 2 100.0 5 4 9 4 0 4 2 1 1
+p171
+aVJason Richardson GSW 03/18/2002 GSW vs. WAS L 41 21 8 16 50.0 2 6 33.3 3 4 75.0 2 7 9 2 1 1 3 5 2
+p172
+aVLarry Hughes GSW 03/18/2002 GSW vs. WAS L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -10
+p173
+aVChris Mills GSW 03/18/2002 GSW vs. WAS L 25 12 4 11 36.4 3 7 42.9 1 1 100.0 2 2 4 2 1 0 1 2 -18
+p174
+aVGilbert Arenas GSW 03/18/2002 GSW vs. WAS L 35 25 8 12 66.7 4 7 57.1 5 7 71.4 2 4 6 6 1 0 2 4 4
+p175
+aVChris Mills GSW 03/16/2002 GSW vs. DAL L 22 19 7 10 70.0 3 3 100.0 2 2 100.0 2 5 7 0 0 0 2 3 -6
+p176
+aVDean Oliver GSW 03/16/2002 GSW vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p177
+aVErick Dampier GSW 03/16/2002 GSW vs. DAL L 29 15 6 8 75.0 0 0 - 3 7 42.9 5 1 6 1 0 3 5 1 -19
+p178
+aVTroy Murphy GSW 03/16/2002 GSW vs. DAL L 28 13 4 7 57.1 0 0 - 5 6 83.3 1 6 7 1 1 0 4 4 -12
+p179
+aVGilbert Arenas GSW 03/16/2002 GSW vs. DAL L 30 10 5 11 45.5 0 3 0.0 0 0 - 0 4 4 4 1 0 1 6 -4
+p180
+aVBob Sura GSW 03/16/2002 GSW vs. DAL L 27 10 4 8 50.0 0 1 0.0 2 2 100.0 1 3 4 7 4 0 2 0 -7
+p181
+aVLarry Hughes GSW 03/16/2002 GSW vs. DAL L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -6
+p182
+aVAdonal Foyle GSW 03/16/2002 GSW vs. DAL L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 2 0 0 5
+p183
+aVAntawn Jamison GSW 03/16/2002 GSW vs. DAL L 41 20 6 16 37.5 0 2 0.0 8 11 72.7 2 5 7 0 0 0 0 2 -9
+p184
+aVJason Richardson GSW 03/16/2002 GSW vs. DAL L 41 13 6 17 35.3 1 5 20.0 0 0 - 1 4 5 2 2 0 3 2 -27
+p185
+aVAdonal Foyle GSW 03/14/2002 GSW vs. LAL L 28 4 2 7 28.6 0 0 - 0 0 - 2 3 5 0 2 4 2 6 -1
+p186
+aVGilbert Arenas GSW 03/14/2002 GSW vs. LAL L 35 15 4 10 40.0 2 3 66.7 5 6 83.3 0 2 2 6 0 1 4 6 -13
+p187
+aVDanny Fortson GSW 03/14/2002 GSW vs. LAL L 26 10 4 10 40.0 0 0 - 2 2 100.0 3 7 10 2 0 0 1 6 7
+p188
+aVBob Sura GSW 03/14/2002 GSW vs. LAL L 22 17 5 7 71.4 0 1 0.0 7 9 77.8 1 6 7 3 0 0 2 1 -4
+p189
+aVErick Dampier GSW 03/14/2002 GSW vs. LAL L 14 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 0 5 -3
+p190
+aVTroy Murphy GSW 03/14/2002 GSW vs. LAL L 12 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -4
+p191
+aVJason Richardson GSW 03/14/2002 GSW vs. LAL L 42 23 9 22 40.9 2 5 40.0 3 4 75.0 1 4 5 1 3 1 2 2 -8
+p192
+aVDean Oliver GSW 03/14/2002 GSW vs. LAL L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p193
+aVLarry Hughes GSW 03/14/2002 GSW vs. LAL L 17 2 1 7 14.3 0 0 - 0 0 - 0 3 3 2 2 0 0 0 -11
+p194
+aVAntawn Jamison GSW 03/14/2002 GSW vs. LAL L 43 23 8 19 42.1 1 4 25.0 6 10 60.0 4 8 12 3 1 0 2 2 -3
+p195
+aVAdonal Foyle GSW 03/12/2002 GSW @ IND L 19 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 1 2 2 5 -18
+p196
+aVLarry Hughes GSW 03/12/2002 GSW @ IND L 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -10
+p197
+aVJason Richardson GSW 03/12/2002 GSW @ IND L 43 19 8 16 50.0 1 6 16.7 2 2 100.0 0 2 2 1 1 0 6 2 -12
+p198
+aVAntawn Jamison GSW 03/12/2002 GSW @ IND L 46 25 9 19 47.4 2 4 50.0 5 7 71.4 4 3 7 1 1 0 1 4 -9
+p199
+aVErick Dampier GSW 03/12/2002 GSW @ IND L 25 9 3 8 37.5 0 0 - 3 6 50.0 1 3 4 2 0 3 3 4 5
+p200
+aVGilbert Arenas GSW 03/12/2002 GSW @ IND L 36 15 5 10 50.0 0 1 0.0 5 7 71.4 0 4 4 6 2 0 2 4 4
+p201
+aVChris Mills GSW 03/12/2002 GSW @ IND L 6 0 0 1 0.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 -12
+p202
+aVTroy Murphy GSW 03/12/2002 GSW @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p203
+aVBob Sura GSW 03/12/2002 GSW @ IND L 17 6 2 7 28.6 0 3 0.0 2 2 100.0 1 5 6 1 1 0 4 3 -15
+p204
+aVDanny Fortson GSW 03/12/2002 GSW @ IND L 41 20 8 19 42.1 0 0 - 4 4 100.0 6 14 20 1 2 0 0 3 2
+p205
+aVTroy Murphy GSW 03/11/2002 GSW @ ATL L 25 9 2 9 22.2 1 2 50.0 4 4 100.0 0 3 3 0 0 0 0 1 -19
+p206
+aVAntawn Jamison GSW 03/11/2002 GSW @ ATL L 39 27 9 16 56.3 2 2 100.0 7 12 58.3 3 6 9 2 2 0 2 1 -15
+p207
+aVDanny Fortson GSW 03/11/2002 GSW @ ATL L 29 14 6 12 50.0 0 0 - 2 2 100.0 5 11 16 1 0 0 1 2 -9
+p208
+aVJason Richardson GSW 03/11/2002 GSW @ ATL L 36 12 4 12 33.3 0 2 0.0 4 5 80.0 0 3 3 3 1 1 1 2 -15
+p209
+aVDean Oliver GSW 03/11/2002 GSW @ ATL L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -6
+p210
+aVLarry Hughes GSW 03/11/2002 GSW @ ATL L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 3 0 -11
+p211
+aVErick Dampier GSW 03/11/2002 GSW @ ATL L 24 6 2 3 66.7 0 0 - 2 4 50.0 4 1 5 0 1 1 2 2 -7
+p212
+aVGilbert Arenas GSW 03/11/2002 GSW @ ATL L 31 12 4 11 36.4 0 2 0.0 4 5 80.0 2 1 3 2 0 0 1 2 -12
+p213
+aVAdonal Foyle GSW 03/11/2002 GSW @ ATL L 23 6 2 7 28.6 0 0 - 2 3 66.7 2 1 3 0 0 3 2 2 -21
+p214
+aVBob Sura GSW 03/11/2002 GSW @ ATL L 19 8 3 6 50.0 0 1 0.0 2 4 50.0 0 1 1 4 1 0 1 3 -10
+p215
+aVErick Dampier GSW 03/09/2002 GSW @ DAL L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -13
+p216
+aVGilbert Arenas GSW 03/09/2002 GSW @ DAL L 28 13 6 11 54.5 1 3 33.3 0 0 - 2 5 7 1 2 0 4 3 -15
+p217
+aVChris Mills GSW 03/09/2002 GSW @ DAL L 15 7 3 6 50.0 0 0 - 1 2 50.0 1 5 6 1 0 0 0 2 6
+p218
+aVAdonal Foyle GSW 03/09/2002 GSW @ DAL L 20 6 3 7 42.9 0 0 - 0 4 0.0 3 2 5 1 1 2 0 3 0
+p219
+aVAntawn Jamison GSW 03/09/2002 GSW @ DAL L 38 13 5 15 33.3 0 1 0.0 3 5 60.0 1 4 5 4 0 0 1 4 -1
+p220
+aVDanny Fortson GSW 03/09/2002 GSW @ DAL L 24 8 4 7 57.1 0 0 - 0 0 - 2 4 6 3 2 0 2 3 -9
+p221
+aVJason Richardson GSW 03/09/2002 GSW @ DAL L 38 21 9 17 52.9 3 6 50.0 0 0 - 2 5 7 4 2 1 5 2 -2
+p222
+aVLarry Hughes GSW 03/09/2002 GSW @ DAL L 20 9 3 5 60.0 0 0 - 3 4 75.0 1 1 2 1 0 0 1 0 11
+p223
+aVBob Sura GSW 03/09/2002 GSW @ DAL L 24 14 2 6 33.3 1 4 25.0 9 11 81.8 0 4 4 6 1 1 0 3 9
+p224
+aVTroy Murphy GSW 03/09/2002 GSW @ DAL L 22 12 5 7 71.4 0 0 - 2 3 66.7 1 1 2 2 0 1 1 2 4
+p225
+aVAdonal Foyle GSW 03/08/2002 GSW @ HOU W 12 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 1 1 0 2 0
+p226
+aVChris Mills GSW 03/08/2002 GSW @ HOU W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 0
+p227
+aVBob Sura GSW 03/08/2002 GSW @ HOU W 29 17 6 13 46.2 0 2 0.0 5 6 83.3 2 4 6 7 1 0 2 2 7
+p228
+aVJason Richardson GSW 03/08/2002 GSW @ HOU W 36 32 10 17 58.8 2 4 50.0 10 11 90.9 1 6 7 4 2 0 6 4 10
+p229
+aVLarry Hughes GSW 03/08/2002 GSW @ HOU W 18 5 2 8 25.0 0 1 0.0 1 2 50.0 2 1 3 1 0 0 2 2 0
+p230
+aVTroy Murphy GSW 03/08/2002 GSW @ HOU W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p231
+aVErick Dampier GSW 03/08/2002 GSW @ HOU W 29 8 2 6 33.3 0 0 - 4 4 100.0 3 7 10 0 0 2 0 3 7
+p232
+aVDanny Fortson GSW 03/08/2002 GSW @ HOU W 37 8 4 9 44.4 0 0 - 0 0 - 2 16 18 1 0 0 0 1 9
+p233
+aVAntawn Jamison GSW 03/08/2002 GSW @ HOU W 41 27 11 25 44.0 0 3 0.0 5 6 83.3 3 1 4 2 0 0 0 4 17
+p234
+aVGilbert Arenas GSW 03/08/2002 GSW @ HOU W 28 7 2 8 25.0 1 2 50.0 2 2 100.0 1 3 4 5 4 1 1 1 14
+p235
+aVGilbert Arenas GSW 03/05/2002 GSW @ SAS L 38 7 3 12 25.0 1 2 50.0 0 1 0.0 2 0 2 5 1 0 3 4 -11
+p236
+aVLarry Hughes GSW 03/05/2002 GSW @ SAS L 32 20 7 13 53.8 0 0 - 6 8 75.0 0 2 2 4 0 0 2 2 -10
+p237
+aVBob Sura GSW 03/05/2002 GSW @ SAS L 20 0 0 4 0.0 0 0 - 0 0 - 0 5 5 7 1 0 1 2 -21
+p238
+aVAdonal Foyle GSW 03/05/2002 GSW @ SAS L 28 6 2 6 33.3 0 0 - 2 3 66.7 4 4 8 1 1 1 4 3 -15
+p239
+aVAntawn Jamison GSW 03/05/2002 GSW @ SAS L 32 24 11 18 61.1 2 2 100.0 0 0 - 4 6 10 0 0 0 1 2 -19
+p240
+aVCedric Henderson GSW 03/05/2002 GSW @ SAS L 4 7 2 2 100.0 2 2 100.0 1 2 50.0 0 0 0 0 0 0 0 0 2
+p241
+aVDean Oliver GSW 03/05/2002 GSW @ SAS L 5 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 0
+p242
+aVTroy Murphy GSW 03/05/2002 GSW @ SAS L 22 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 1 0 0 2 1 -13
+p243
+aVDean Garrett GSW 03/05/2002 GSW @ SAS L 5 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 1 0 1 0 0
+p244
+aVErick Dampier GSW 03/05/2002 GSW @ SAS L 23 4 2 8 25.0 0 0 - 0 0 - 2 4 6 1 0 1 1 4 -10
+p245
+aVDanny Fortson GSW 03/05/2002 GSW @ SAS L 30 13 6 14 42.9 0 0 - 1 2 50.0 0 9 9 0 2 1 2 1 -8
+p246
+aVTroy Murphy GSW 03/02/2002 GSW @ LAC L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 1 0 0 2 -2
+p247
+aVAntawn Jamison GSW 03/02/2002 GSW @ LAC L 43 24 10 20 50.0 1 4 25.0 3 5 60.0 7 4 11 0 1 2 2 1 -16
+p248
+aVLarry Hughes GSW 03/02/2002 GSW @ LAC L 23 6 3 5 60.0 0 0 - 0 0 - 2 1 3 1 0 0 3 1 -12
+p249
+aVDanny Fortson GSW 03/02/2002 GSW @ LAC L 31 10 3 8 37.5 0 0 - 4 4 100.0 2 9 11 2 1 0 2 5 -5
+p250
+aVDean Oliver GSW 03/02/2002 GSW @ LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -4
+p251
+aVAdonal Foyle GSW 03/02/2002 GSW @ LAC L 32 14 7 13 53.8 0 0 - 0 1 0.0 4 5 9 0 2 1 1 4 -14
+p252
+aVErick Dampier GSW 03/02/2002 GSW @ LAC L 26 9 4 7 57.1 0 0 - 1 3 33.3 3 3 6 1 0 2 3 5 -5
+p253
+aVBob Sura GSW 03/02/2002 GSW @ LAC L 34 15 5 8 62.5 1 2 50.0 4 6 66.7 0 1 1 10 0 0 2 2 -11
+p254
+aVGilbert Arenas GSW 03/02/2002 GSW @ LAC L 37 15 5 15 33.3 1 5 20.0 4 5 80.0 1 0 1 3 1 1 2 3 -1
+p255
+aVDanny Fortson GSW 03/01/2002 GSW vs. SAC L 30 13 5 9 55.6 0 0 - 3 3 100.0 6 11 17 4 0 0 2 2 -6
+p256
+aVBob Sura GSW 03/01/2002 GSW vs. SAC L 20 7 2 7 28.6 0 2 0.0 3 4 75.0 2 0 2 3 1 0 1 3 -10
+p257
+aVJason Richardson GSW 03/01/2002 GSW vs. SAC L 21 7 2 9 22.2 1 4 25.0 2 2 100.0 2 0 2 6 1 1 0 1 -12
+p258
+aVAntawn Jamison GSW 03/01/2002 GSW vs. SAC L 38 20 8 15 53.3 2 4 50.0 2 3 66.7 0 3 3 2 3 0 3 0 -10
+p259
+aVTroy Murphy GSW 03/01/2002 GSW vs. SAC L 18 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -2
+p260
+aVAdonal Foyle GSW 03/01/2002 GSW vs. SAC L 24 6 3 9 33.3 0 0 - 0 0 - 2 4 6 0 1 0 2 3 -16
+p261
+aVDean Garrett GSW 03/01/2002 GSW vs. SAC L 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 0 10
+p262
+aVCedric Henderson GSW 03/01/2002 GSW vs. SAC L 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 1 1 1 1 3
+p263
+aVGilbert Arenas GSW 03/01/2002 GSW vs. SAC L 31 15 5 11 45.5 0 2 0.0 5 6 83.3 3 3 6 4 3 0 4 1 4
+p264
+aVErick Dampier GSW 03/01/2002 GSW vs. SAC L 20 9 4 7 57.1 0 0 - 1 2 50.0 3 3 6 3 0 0 4 4 -2
+p265
+aVLarry Hughes GSW 03/01/2002 GSW vs. SAC L 28 19 7 14 50.0 0 0 - 5 7 71.4 2 3 5 4 1 0 1 1 1
+p266
+aVGilbert Arenas GSW 02/27/2002 GSW vs. DEN W 28 14 3 5 60.0 1 1 100.0 7 7 100.0 0 2 2 5 2 1 6 1 10
+p267
+aVTroy Murphy GSW 02/27/2002 GSW vs. DEN W 15 4 1 4 25.0 0 0 - 2 4 50.0 0 5 5 0 1 0 5 1 4
+p268
+aVErick Dampier GSW 02/27/2002 GSW vs. DEN W 16 7 2 5 40.0 0 0 - 3 3 100.0 3 5 8 1 0 2 2 4 2
+p269
+aVBob Sura GSW 02/27/2002 GSW vs. DEN W 25 10 0 7 0.0 0 1 0.0 10 12 83.3 2 3 5 4 3 1 2 2 13
+p270
+aVJason Richardson GSW 02/27/2002 GSW vs. DEN W 40 23 9 14 64.3 2 4 50.0 3 4 75.0 1 2 3 2 2 0 5 3 18
+p271
+aVLarry Hughes GSW 02/27/2002 GSW vs. DEN W 23 12 4 11 36.4 0 4 0.0 4 4 100.0 1 1 2 4 0 0 2 2 4
+p272
+aVAntawn Jamison GSW 02/27/2002 GSW vs. DEN W 37 26 6 12 50.0 0 1 0.0 14 17 82.4 3 9 12 3 1 0 3 4 7
+p273
+aVAdonal Foyle GSW 02/27/2002 GSW vs. DEN W 30 10 5 9 55.6 0 0 - 0 0 - 3 7 10 2 1 5 2 5 20
+p274
+aVDanny Fortson GSW 02/27/2002 GSW vs. DEN W 25 4 2 4 50.0 0 0 - 0 1 0.0 4 10 14 1 0 0 2 5 7
+p275
+aVErick Dampier GSW 02/25/2002 GSW vs. IND L 27 5 1 6 16.7 0 0 - 3 4 75.0 2 4 6 1 0 4 2 3 -12
+p276
+aVTroy Murphy GSW 02/25/2002 GSW vs. IND L 16 5 1 5 20.0 0 0 - 3 4 75.0 0 3 3 0 0 0 1 5 -7
+p277
+aVBob Sura GSW 02/25/2002 GSW vs. IND L 24 5 1 7 14.3 0 1 0.0 3 6 50.0 2 1 3 2 0 1 0 3 2
+p278
+aVAntawn Jamison GSW 02/25/2002 GSW vs. IND L 40 22 8 18 44.4 1 3 33.3 5 7 71.4 3 7 10 1 1 0 2 4 5
+p279
+aVGilbert Arenas GSW 02/25/2002 GSW vs. IND L 29 18 8 11 72.7 1 2 50.0 1 2 50.0 1 2 3 4 2 1 0 5 -3
+p280
+aVDanny Fortson GSW 02/25/2002 GSW vs. IND L 33 6 2 7 28.6 0 0 - 2 2 100.0 3 8 11 2 0 1 0 5 1
+p281
+aVJason Richardson GSW 02/25/2002 GSW vs. IND L 40 14 6 21 28.6 2 6 33.3 0 0 - 2 3 5 3 1 0 0 5 -20
+p282
+aVLarry Hughes GSW 02/25/2002 GSW vs. IND L 28 12 5 18 27.8 0 1 0.0 2 2 100.0 0 2 2 7 3 0 4 4 6
+p283
+aVAdonal Foyle GSW 02/25/2002 GSW vs. IND L 29 10 4 9 44.4 0 0 - 2 3 66.7 4 6 10 0 2 5 1 6 3
+p284
+aVErick Dampier GSW 02/23/2002 GSW @ CHI L 17 9 4 8 50.0 0 0 - 1 1 100.0 0 1 1 0 0 2 0 1 -10
+p285
+aVJason Richardson GSW 02/23/2002 GSW @ CHI L 37 11 4 13 30.8 1 3 33.3 2 2 100.0 0 1 1 3 1 1 2 1 -1
+p286
+aVDean Oliver GSW 02/23/2002 GSW @ CHI L 15 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 2 0 0 1 1 -2
+p287
+aVAntawn Jamison GSW 02/23/2002 GSW @ CHI L 26 6 2 13 15.4 0 4 0.0 2 2 100.0 0 7 7 1 2 0 1 2 -10
+p288
+aVLarry Hughes GSW 02/23/2002 GSW @ CHI L 31 12 4 11 36.4 0 1 0.0 4 4 100.0 2 3 5 2 0 0 5 0 -17
+p289
+aVTroy Murphy GSW 02/23/2002 GSW @ CHI L 22 16 8 13 61.5 0 0 - 0 0 - 0 7 7 0 0 3 0 1 -4
+p290
+aVBob Sura GSW 02/23/2002 GSW @ CHI L 22 11 2 6 33.3 1 2 50.0 6 8 75.0 2 1 3 6 3 0 2 1 -13
+p291
+aVDanny Fortson GSW 02/23/2002 GSW @ CHI L 7 1 0 1 0.0 0 0 - 1 1 100.0 0 1 1 0 1 0 0 2 -12
+p292
+aVGilbert Arenas GSW 02/23/2002 GSW @ CHI L 36 16 7 15 46.7 0 1 0.0 2 3 66.7 3 1 4 6 2 0 2 2 -4
+p293
+aVAdonal Foyle GSW 02/23/2002 GSW @ CHI L 28 6 3 8 37.5 0 0 - 0 0 - 5 8 13 0 1 6 2 3 3
+p294
+aVJason Richardson GSW 02/22/2002 GSW @ MIL L 42 35 16 22 72.7 3 5 60.0 0 0 - 2 1 3 5 0 1 1 2 4
+p295
+aVAntawn Jamison GSW 02/22/2002 GSW @ MIL L 37 23 7 15 46.7 2 5 40.0 7 8 87.5 3 8 11 1 0 0 3 4 -1
+p296
+aVAdonal Foyle GSW 02/22/2002 GSW @ MIL L 17 6 3 5 60.0 0 0 - 0 3 0.0 1 1 2 0 0 3 1 1 -8
+p297
+aVTroy Murphy GSW 02/22/2002 GSW @ MIL L 11 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -3
+p298
+aVLarry Hughes GSW 02/22/2002 GSW @ MIL L 31 9 3 8 37.5 0 1 0.0 3 4 75.0 0 2 2 3 2 0 1 1 -19
+p299
+aVBob Sura GSW 02/22/2002 GSW @ MIL L 22 16 7 9 77.8 1 1 100.0 1 1 100.0 1 0 1 0 1 0 0 1 7
+p300
+aVDean Oliver GSW 02/22/2002 GSW @ MIL L 14 0 0 0 - 0 0 - 0 0 - 0 0 0 6 0 0 2 6 -5
+p301
+aVErick Dampier GSW 02/22/2002 GSW @ MIL L 30 5 2 8 25.0 0 0 - 1 2 50.0 0 6 6 0 1 5 0 3 4
+p302
+aVGilbert Arenas GSW 02/22/2002 GSW @ MIL L 34 14 6 12 50.0 0 2 0.0 2 2 100.0 2 2 4 10 1 0 2 4 1
+p303
+aVErick Dampier GSW 02/20/2002 GSW @ PHI L 25 8 2 8 25.0 0 0 - 4 6 66.7 2 2 4 1 0 0 0 3 -5
+p304
+aVBob Sura GSW 02/20/2002 GSW @ PHI L 28 15 4 9 44.4 1 2 50.0 6 9 66.7 3 5 8 7 2 1 4 3 3
+p305
+aVGilbert Arenas GSW 02/20/2002 GSW @ PHI L 18 10 3 3 100.0 0 0 - 4 5 80.0 1 1 2 0 0 0 0 5 12
+p306
+aVLarry Hughes GSW 02/20/2002 GSW @ PHI L 30 16 5 12 41.7 0 0 - 6 11 54.5 3 4 7 4 0 0 4 3 -13
+p307
+aVTroy Murphy GSW 02/20/2002 GSW @ PHI L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 2 0 0 2 2
+p308
+aVJason Richardson GSW 02/20/2002 GSW @ PHI L 43 16 5 15 33.3 3 6 50.0 3 4 75.0 1 3 4 3 3 0 7 5 -12
+p309
+aVAdonal Foyle GSW 02/20/2002 GSW @ PHI L 21 4 2 5 40.0 0 0 - 0 0 - 5 6 11 0 0 5 2 2 -7
+p310
+aVAntawn Jamison GSW 02/20/2002 GSW @ PHI L 39 16 4 16 25.0 0 2 0.0 8 9 88.9 2 4 6 0 1 1 4 3 -10
+p311
+aVDanny Fortson GSW 02/20/2002 GSW @ PHI L 26 18 7 12 58.3 0 0 - 4 4 100.0 3 5 8 2 1 0 1 0 -10
+p312
+aVGilbert Arenas GSW 02/19/2002 GSW @ NJN L 24 10 3 11 27.3 0 2 0.0 4 4 100.0 1 3 4 4 1 0 1 4 1
+p313
+aVAntawn Jamison GSW 02/19/2002 GSW @ NJN L 39 25 11 26 42.3 1 4 25.0 2 3 66.7 3 5 8 1 0 0 1 2 -7
+p314
+aVBob Sura GSW 02/19/2002 GSW @ NJN L 18 5 2 8 25.0 0 1 0.0 1 2 50.0 2 0 2 1 2 0 1 3 -7
+p315
+aVErick Dampier GSW 02/19/2002 GSW @ NJN L 23 6 3 8 37.5 0 0 - 0 0 - 5 2 7 0 2 3 3 4 5
+p316
+aVJason Richardson GSW 02/19/2002 GSW @ NJN L 41 25 11 21 52.4 1 5 20.0 2 4 50.0 3 4 7 4 1 0 1 5 4
+p317
+aVDanny Fortson GSW 02/19/2002 GSW @ NJN L 20 16 5 8 62.5 0 0 - 6 8 75.0 5 4 9 4 0 0 4 2 -8
+p318
+aVAdonal Foyle GSW 02/19/2002 GSW @ NJN L 20 8 3 5 60.0 0 0 - 2 2 100.0 1 6 7 0 0 4 0 2 -8
+p319
+aVTroy Murphy GSW 02/19/2002 GSW @ NJN L 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -11
+p320
+aVLarry Hughes GSW 02/19/2002 GSW @ NJN L 39 20 7 14 50.0 0 3 0.0 6 6 100.0 4 3 7 13 2 1 3 3 -9
+p321
+aVAdonal Foyle GSW 02/17/2002 GSW vs. ATL L 13 2 1 4 25.0 0 0 - 0 2 0.0 5 3 8 2 0 5 0 0 0
+p322
+aVLarry Hughes GSW 02/17/2002 GSW vs. ATL L 21 10 5 9 55.6 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -20
+p323
+aVDanny Fortson GSW 02/17/2002 GSW vs. ATL L 25 8 4 8 50.0 0 0 - 0 0 - 1 9 10 3 1 0 5 2 -10
+p324
+aVChris Mills GSW 02/17/2002 GSW vs. ATL L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p325
+aVBob Sura GSW 02/17/2002 GSW vs. ATL L 31 13 2 8 25.0 1 3 33.3 8 12 66.7 0 2 2 3 2 0 3 3 1
+p326
+aVErick Dampier GSW 02/17/2002 GSW vs. ATL L 22 9 2 6 33.3 0 0 - 5 7 71.4 4 8 12 0 0 7 3 5 -1
+p327
+aVAntawn Jamison GSW 02/17/2002 GSW vs. ATL L 43 16 6 17 35.3 2 7 28.6 2 4 50.0 1 5 6 0 1 3 1 3 -5
+p328
+aVGilbert Arenas GSW 02/17/2002 GSW vs. ATL L 19 12 1 3 33.3 0 0 - 10 10 100.0 3 2 5 4 0 2 0 1 13
+p329
+aVDean Oliver GSW 02/17/2002 GSW vs. ATL L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 12
+p330
+aVTroy Murphy GSW 02/17/2002 GSW vs. ATL L 18 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 1 0 2 3 -16
+p331
+aVJason Richardson GSW 02/17/2002 GSW vs. ATL L 34 20 6 15 40.0 2 5 40.0 6 10 60.0 0 5 5 3 2 0 2 2 -3
+p332
+aVJason Richardson GSW 02/15/2002 GSW vs. SAS L 37 28 11 19 57.9 3 7 42.9 3 5 60.0 1 3 4 3 0 0 2 5 -1
+p333
+aVAntawn Jamison GSW 02/15/2002 GSW vs. SAS L 36 26 8 21 38.1 1 4 25.0 9 9 100.0 3 4 7 0 0 0 1 3 -3
+p334
+aVGilbert Arenas GSW 02/15/2002 GSW vs. SAS L 25 8 2 8 25.0 0 3 0.0 4 4 100.0 3 2 5 3 1 0 3 3 -7
+p335
+aVAdonal Foyle GSW 02/15/2002 GSW vs. SAS L 22 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 4 2 1 3 -6
+p336
+aVBob Sura GSW 02/15/2002 GSW vs. SAS L 27 17 5 10 50.0 1 3 33.3 6 9 66.7 2 2 4 7 0 0 2 5 -8
+p337
+aVChris Mills GSW 02/15/2002 GSW vs. SAS L 17 2 0 4 0.0 0 1 0.0 2 2 100.0 2 2 4 0 0 0 0 3 -9
+p338
+aVTroy Murphy GSW 02/15/2002 GSW vs. SAS L 15 7 3 6 50.0 0 0 - 1 1 100.0 3 0 3 0 0 1 0 1 -11
+p339
+aVDanny Fortson GSW 02/15/2002 GSW vs. SAS L 32 9 4 6 66.7 0 0 - 1 1 100.0 5 10 15 1 2 1 5 5 1
+p340
+aVErick Dampier GSW 02/15/2002 GSW vs. SAS L 23 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 2 2 4 0
+p341
+aVDean Oliver GSW 02/15/2002 GSW vs. SAS L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p342
+aVErick Dampier GSW 02/13/2002 GSW vs. BOS W 23 4 2 6 33.3 0 0 - 0 2 0.0 3 2 5 2 0 3 1 2 -1
+p343
+aVAntawn Jamison GSW 02/13/2002 GSW vs. BOS W 39 27 11 25 44.0 3 4 75.0 2 3 66.7 2 4 6 1 1 1 1 0 12
+p344
+aVGilbert Arenas GSW 02/13/2002 GSW vs. BOS W 8 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 0 0 2 1 0
+p345
+aVLarry Hughes GSW 02/13/2002 GSW vs. BOS W 20 1 0 4 0.0 0 1 0.0 1 2 50.0 0 2 2 9 3 1 3 4 -9
+p346
+aVJason Richardson GSW 02/13/2002 GSW vs. BOS W 37 19 9 22 40.9 1 5 20.0 0 0 - 6 4 10 2 0 0 3 4 12
+p347
+aVDanny Fortson GSW 02/13/2002 GSW vs. BOS W 25 8 2 6 33.3 0 0 - 4 5 80.0 1 10 11 0 0 0 3 4 -4
+p348
+aVBob Sura GSW 02/13/2002 GSW vs. BOS W 29 11 4 10 40.0 0 4 0.0 3 4 75.0 0 3 3 4 2 0 2 0 27
+p349
+aVChris Mills GSW 02/13/2002 GSW vs. BOS W 16 4 1 6 16.7 0 2 0.0 2 2 100.0 2 5 7 0 0 0 1 3 14
+p350
+aVAdonal Foyle GSW 02/13/2002 GSW vs. BOS W 18 5 2 5 40.0 0 0 - 1 1 100.0 3 5 8 1 1 4 0 3 17
+p351
+aVTroy Murphy GSW 02/13/2002 GSW vs. BOS W 24 11 4 6 66.7 0 0 - 3 4 75.0 1 5 6 1 0 2 1 2 17
+p352
+aVLarry Hughes GSW 02/05/2002 GSW vs. SEA L 27 10 4 11 36.4 0 0 - 2 2 100.0 0 2 2 4 0 0 3 1 -18
+p353
+aVDanny Fortson GSW 02/05/2002 GSW vs. SEA L 30 18 7 14 50.0 0 0 - 4 5 80.0 7 5 12 2 1 0 0 4 -12
+p354
+aVChris Mills GSW 02/05/2002 GSW vs. SEA L 25 17 6 11 54.5 2 3 66.7 3 3 100.0 1 1 2 3 2 0 1 1 -6
+p355
+aVTroy Murphy GSW 02/05/2002 GSW vs. SEA L 26 14 6 9 66.7 0 0 - 2 2 100.0 1 4 5 1 0 0 3 1 -15
+p356
+aVErick Dampier GSW 02/05/2002 GSW vs. SEA L 14 4 2 4 50.0 0 0 - 0 0 - 4 1 5 0 0 0 0 0 -10
+p357
+aVAntawn Jamison GSW 02/05/2002 GSW vs. SEA L 32 7 1 7 14.3 0 3 0.0 5 6 83.3 3 1 4 2 0 0 2 4 -18
+p358
+aVBob Sura GSW 02/05/2002 GSW vs. SEA L 15 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 2 1 0 2 3 -14
+p359
+aVGilbert Arenas GSW 02/05/2002 GSW vs. SEA L 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 2 1 -8
+p360
+aVAdonal Foyle GSW 02/05/2002 GSW vs. SEA L 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 3 1 1 -15
+p361
+aVJason Richardson GSW 02/05/2002 GSW vs. SEA L 38 7 3 10 30.0 0 2 0.0 1 2 50.0 1 5 6 3 1 0 3 0 -14
+p362
+aVTroy Murphy GSW 02/03/2002 GSW vs. PHX L 20 2 1 4 25.0 0 0 - 0 0 - 1 3 4 3 0 0 0 1 2
+p363
+aVErick Dampier GSW 02/03/2002 GSW vs. PHX L 30 7 3 7 42.9 0 0 - 1 1 100.0 1 3 4 2 0 4 1 2 -2
+p364
+aVJason Richardson GSW 02/03/2002 GSW vs. PHX L 36 11 4 12 33.3 2 5 40.0 1 4 25.0 0 1 1 2 2 0 0 4 -1
+p365
+aVBob Sura GSW 02/03/2002 GSW vs. PHX L 29 14 5 12 41.7 1 3 33.3 3 5 60.0 1 4 5 6 1 0 2 2 2
+p366
+aVDanny Fortson GSW 02/03/2002 GSW vs. PHX L 23 12 6 12 50.0 0 0 - 0 0 - 3 4 7 3 3 0 2 1 0
+p367
+aVAdonal Foyle GSW 02/03/2002 GSW vs. PHX L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p368
+aVChris Mills GSW 02/03/2002 GSW vs. PHX L 18 6 3 8 37.5 0 1 0.0 0 0 - 1 0 1 3 0 1 1 1 2
+p369
+aVLarry Hughes GSW 02/03/2002 GSW vs. PHX L 31 16 7 13 53.8 0 0 - 2 2 100.0 1 2 3 6 1 1 1 5 -2
+p370
+aVAntawn Jamison GSW 02/03/2002 GSW vs. PHX L 41 27 10 20 50.0 2 3 66.7 5 7 71.4 4 6 10 3 0 0 0 1 -6
+p371
+aVGilbert Arenas GSW 02/03/2002 GSW vs. PHX L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p372
+aVTroy Murphy GSW 02/01/2002 GSW @ PHX L 26 17 7 13 53.8 0 0 - 3 4 75.0 3 2 5 1 0 1 0 4 2
+p373
+aVAntawn Jamison GSW 02/01/2002 GSW @ PHX L 42 26 10 17 58.8 1 1 100.0 5 6 83.3 2 5 7 2 0 0 3 2 -3
+p374
+aVDanny Fortson GSW 02/01/2002 GSW @ PHX L 30 8 3 10 30.0 0 0 - 2 3 66.7 5 9 14 3 2 1 4 4 -5
+p375
+aVLarry Hughes GSW 02/01/2002 GSW @ PHX L 35 15 5 12 41.7 0 0 - 5 5 100.0 2 0 2 10 3 0 1 4 7
+p376
+aVBob Sura GSW 02/01/2002 GSW @ PHX L 23 6 2 6 33.3 0 0 - 2 2 100.0 2 0 2 0 1 0 0 2 -8
+p377
+aVErick Dampier GSW 02/01/2002 GSW @ PHX L 14 0 0 6 0.0 0 0 - 0 0 - 1 3 4 1 0 0 2 4 -7
+p378
+aVJason Richardson GSW 02/01/2002 GSW @ PHX L 38 22 10 20 50.0 2 6 33.3 0 0 - 3 2 5 2 5 0 3 1 -11
+p379
+aVAdonal Foyle GSW 02/01/2002 GSW @ PHX L 16 0 0 4 0.0 0 0 - 0 0 - 0 2 2 2 0 5 1 1 -5
+p380
+aVChris Mills GSW 02/01/2002 GSW @ PHX L 16 4 1 8 12.5 0 3 0.0 2 2 100.0 1 1 2 0 1 0 1 4 0
+p381
+aVAdonal Foyle GSW 01/29/2002 GSW @ HOU L 19 6 3 4 75.0 0 0 - 0 2 0.0 1 4 5 1 0 2 0 1 7
+p382
+aVErick Dampier GSW 01/29/2002 GSW @ HOU L 27 10 5 8 62.5 0 0 - 0 0 - 0 2 2 1 0 3 1 5 -14
+p383
+aVTroy Murphy GSW 01/29/2002 GSW @ HOU L 18 8 3 6 50.0 0 0 - 2 2 100.0 3 0 3 0 0 0 0 1 1
+p384
+aVBob Sura GSW 01/29/2002 GSW @ HOU L 30 11 4 15 26.7 2 6 33.3 1 3 33.3 3 6 9 4 0 0 0 2 -6
+p385
+aVChris Mills GSW 01/29/2002 GSW @ HOU L 29 15 5 10 50.0 2 2 100.0 3 3 100.0 1 4 5 4 1 0 1 2 -4
+p386
+aVAntawn Jamison GSW 01/29/2002 GSW @ HOU L 39 5 2 12 16.7 0 3 0.0 1 2 50.0 2 3 5 1 2 0 2 2 -4
+p387
+aVJason Richardson GSW 01/29/2002 GSW @ HOU L 37 16 7 14 50.0 2 4 50.0 0 1 0.0 1 1 2 4 2 1 3 4 5
+p388
+aVLarry Hughes GSW 01/29/2002 GSW @ HOU L 43 17 7 16 43.8 0 2 0.0 3 5 60.0 2 2 4 6 2 0 8 5 -9
+p389
+aVDanny Fortson GSW 01/29/2002 GSW @ HOU L 23 8 4 10 40.0 0 0 - 0 0 - 3 6 9 0 0 0 2 2 4
+p390
+aVBob Sura GSW 01/26/2002 GSW vs. SAS L 27 19 6 13 46.2 1 2 50.0 6 7 85.7 3 6 9 2 0 1 1 2 -8
+p391
+aVLarry Hughes GSW 01/26/2002 GSW vs. SAS L 35 13 5 16 31.3 0 2 0.0 3 5 60.0 0 5 5 9 1 1 3 5 -1
+p392
+aVJason Richardson GSW 01/26/2002 GSW vs. SAS L 31 11 5 13 38.5 1 3 33.3 0 0 - 1 4 5 4 0 0 3 2 -6
+p393
+aVAdonal Foyle GSW 01/26/2002 GSW vs. SAS L 10 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 1 2 0 1 -3
+p394
+aVTroy Murphy GSW 01/26/2002 GSW vs. SAS L 19 7 3 8 37.5 1 2 50.0 0 0 - 1 2 3 0 1 0 1 2 5
+p395
+aVErick Dampier GSW 01/26/2002 GSW vs. SAS L 28 5 1 9 11.1 0 0 - 3 4 75.0 7 3 10 1 1 2 4 2 -14
+p396
+aVChris Mills GSW 01/26/2002 GSW vs. SAS L 16 4 2 7 28.6 0 5 0.0 0 1 0.0 0 0 0 0 0 1 1 0 0
+p397
+aVDanny Fortson GSW 01/26/2002 GSW vs. SAS L 33 6 2 5 40.0 0 0 - 2 4 50.0 5 8 13 0 0 1 2 4 -4
+p398
+aVAntawn Jamison GSW 01/26/2002 GSW vs. SAS L 39 17 8 21 38.1 0 1 0.0 1 1 100.0 2 5 7 2 6 1 2 0 -9
+p399
+aVAdonal Foyle GSW 01/23/2002 GSW vs. MEM W 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 3 -4
+p400
+aVDanny Fortson GSW 01/23/2002 GSW vs. MEM W 34 15 6 11 54.5 0 0 - 3 3 100.0 6 6 12 1 1 1 1 5 -3
+p401
+aVGilbert Arenas GSW 01/23/2002 GSW vs. MEM W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 -3
+p402
+aVChris Mills GSW 01/23/2002 GSW vs. MEM W 5 3 0 4 0.0 0 1 0.0 3 3 100.0 1 1 2 0 0 0 0 1 -2
+p403
+aVAntawn Jamison GSW 01/23/2002 GSW vs. MEM W 42 30 12 20 60.0 2 4 50.0 4 6 66.7 3 5 8 4 1 0 2 1 12
+p404
+aVTroy Murphy GSW 01/23/2002 GSW vs. MEM W 18 9 3 5 60.0 0 0 - 3 4 75.0 1 4 5 1 0 0 2 6 11
+p405
+aVBob Sura GSW 01/23/2002 GSW vs. MEM W 18 3 1 4 25.0 0 1 0.0 1 2 50.0 2 2 4 2 0 0 2 1 -1
+p406
+aVLarry Hughes GSW 01/23/2002 GSW vs. MEM W 37 20 9 18 50.0 0 3 0.0 2 2 100.0 2 2 4 8 4 0 2 2 20
+p407
+aVJason Richardson GSW 01/23/2002 GSW vs. MEM W 38 13 6 14 42.9 1 3 33.3 0 0 - 1 2 3 6 1 0 2 0 8
+p408
+aVDean Oliver GSW 01/23/2002 GSW vs. MEM W 1 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p409
+aVErick Dampier GSW 01/23/2002 GSW vs. MEM W 31 10 4 10 40.0 0 0 - 2 2 100.0 4 6 10 1 0 5 3 4 24
+p410
+aVTroy Murphy GSW 01/21/2002 GSW vs. UTA L 23 4 0 2 0.0 0 0 - 4 4 100.0 0 3 3 1 0 0 1 4 10
+p411
+aVBob Sura GSW 01/21/2002 GSW vs. UTA L 27 12 5 9 55.6 2 2 100.0 0 0 - 0 2 2 3 1 0 4 1 4
+p412
+aVErick Dampier GSW 01/21/2002 GSW vs. UTA L 27 10 4 8 50.0 0 0 - 2 2 100.0 3 3 6 1 1 3 2 6 0
+p413
+aVDanny Fortson GSW 01/21/2002 GSW vs. UTA L 24 10 3 4 75.0 0 0 - 4 4 100.0 2 4 6 1 0 0 2 6 -2
+p414
+aVAdonal Foyle GSW 01/21/2002 GSW vs. UTA L 16 2 1 5 20.0 0 0 - 0 2 0.0 1 3 4 1 0 2 0 2 -8
+p415
+aVJason Richardson GSW 01/21/2002 GSW vs. UTA L 36 17 7 14 50.0 1 2 50.0 2 3 66.7 1 4 5 6 2 0 4 2 -4
+p416
+aVAntawn Jamison GSW 01/21/2002 GSW vs. UTA L 39 25 9 18 50.0 0 0 - 7 8 87.5 6 4 10 2 0 0 3 2 -8
+p417
+aVGilbert Arenas GSW 01/21/2002 GSW vs. UTA L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 3 -6
+p418
+aVLarry Hughes GSW 01/21/2002 GSW vs. UTA L 39 19 7 16 43.8 1 2 50.0 4 4 100.0 1 3 4 5 1 0 3 2 4
+p419
+aVTroy Murphy GSW 01/19/2002 GSW vs. MIN L 16 3 1 4 25.0 0 0 - 1 1 100.0 1 0 1 2 0 0 1 3 7
+p420
+aVJason Richardson GSW 01/19/2002 GSW vs. MIN L 37 9 4 14 28.6 0 3 0.0 1 1 100.0 0 2 2 5 0 0 4 6 -9
+p421
+aVAdonal Foyle GSW 01/19/2002 GSW vs. MIN L 22 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 1 2 2 4 -4
+p422
+aVDanny Fortson GSW 01/19/2002 GSW vs. MIN L 32 11 5 10 50.0 0 0 - 1 2 50.0 5 8 13 2 0 1 3 5 -7
+p423
+aVAntawn Jamison GSW 01/19/2002 GSW vs. MIN L 38 23 9 14 64.3 1 2 50.0 4 5 80.0 0 5 5 2 0 1 2 4 -5
+p424
+aVBob Sura GSW 01/19/2002 GSW vs. MIN L 27 23 9 13 69.2 2 3 66.7 3 5 60.0 2 5 7 5 1 0 2 2 11
+p425
+aVGilbert Arenas GSW 01/19/2002 GSW vs. MIN L 6 8 3 3 100.0 1 1 100.0 1 1 100.0 0 1 1 0 1 0 1 2 2
+p426
+aVErick Dampier GSW 01/19/2002 GSW vs. MIN L 24 12 5 8 62.5 0 0 - 2 4 50.0 2 6 8 1 0 3 4 4 -2
+p427
+aVLarry Hughes GSW 01/19/2002 GSW vs. MIN L 37 7 3 10 30.0 0 0 - 1 1 100.0 0 4 4 7 5 2 3 3 -8
+p428
+aVErick Dampier GSW 01/18/2002 GSW @ SAC L 17 6 3 8 37.5 0 0 - 0 2 0.0 3 2 5 0 1 1 4 4 -6
+p429
+aVDean Oliver GSW 01/18/2002 GSW @ SAC L 5 0 0 0 - 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -8
+p430
+aVDanny Fortson GSW 01/18/2002 GSW @ SAC L 33 15 5 11 45.5 0 0 - 5 7 71.4 3 9 12 1 0 0 0 5 -5
+p431
+aVTroy Murphy GSW 01/18/2002 GSW @ SAC L 15 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 1 1 0 1 6 -16
+p432
+aVBob Sura GSW 01/18/2002 GSW @ SAC L 22 9 3 7 42.9 1 1 100.0 2 4 50.0 0 3 3 2 0 0 1 2 -16
+p433
+aVAntawn Jamison GSW 01/18/2002 GSW @ SAC L 37 24 11 19 57.9 0 1 0.0 2 2 100.0 3 1 4 3 1 0 2 4 -8
+p434
+aVAdonal Foyle GSW 01/18/2002 GSW @ SAC L 19 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 1 2 3 1 -6
+p435
+aVChris Mills GSW 01/18/2002 GSW @ SAC L 12 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -13
+p436
+aVJason Richardson GSW 01/18/2002 GSW @ SAC L 40 19 7 19 36.8 1 4 25.0 4 6 66.7 1 3 4 4 3 0 3 2 -10
+p437
+aVGilbert Arenas GSW 01/18/2002 GSW @ SAC L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -6
+p438
+aVLarry Hughes GSW 01/18/2002 GSW @ SAC L 36 11 5 17 29.4 0 1 0.0 1 2 50.0 2 3 5 9 3 0 1 1 -26
+p439
+aVGilbert Arenas GSW 01/16/2002 GSW vs. CLE W 4 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p440
+aVLarry Hughes GSW 01/16/2002 GSW vs. CLE W 33 20 5 11 45.5 0 1 0.0 10 11 90.9 2 3 5 4 6 0 0 2 26
+p441
+aVJason Richardson GSW 01/16/2002 GSW vs. CLE W 36 15 6 16 37.5 0 2 0.0 3 4 75.0 3 0 3 3 4 1 1 3 21
+p442
+aVAntawn Jamison GSW 01/16/2002 GSW vs. CLE W 30 18 6 13 46.2 1 2 50.0 5 9 55.6 1 4 5 1 0 1 1 0 24
+p443
+aVBob Sura GSW 01/16/2002 GSW vs. CLE W 23 9 2 6 33.3 0 0 - 5 6 83.3 4 1 5 11 2 0 2 4 10
+p444
+aVTroy Murphy GSW 01/16/2002 GSW vs. CLE W 18 2 1 9 11.1 0 0 - 0 2 0.0 4 0 4 2 1 0 0 5 2
+p445
+aVErick Dampier GSW 01/16/2002 GSW vs. CLE W 19 8 2 4 50.0 0 0 - 4 6 66.7 1 4 5 1 0 3 0 4 9
+p446
+aVAdonal Foyle GSW 01/16/2002 GSW vs. CLE W 27 14 7 8 87.5 0 0 - 0 0 - 0 7 7 2 1 2 1 2 19
+p447
+aVChris Mills GSW 01/16/2002 GSW vs. CLE W 21 15 6 8 75.0 2 2 100.0 1 1 100.0 1 0 1 1 2 0 0 1 19
+p448
+aVDanny Fortson GSW 01/16/2002 GSW vs. CLE W 25 9 2 8 25.0 0 0 - 5 6 83.3 6 6 12 2 1 0 2 5 13
+p449
+aVDean Oliver GSW 01/16/2002 GSW vs. CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p450
+aVTroy Murphy GSW 01/14/2002 GSW vs. MIA L 9 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 1 1 0 2 0
+p451
+aVDean Oliver GSW 01/14/2002 GSW vs. MIA L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p452
+aVChris Mills GSW 01/14/2002 GSW vs. MIA L 22 10 4 10 40.0 0 3 0.0 2 2 100.0 2 0 2 2 1 0 0 4 -1
+p453
+aVLarry Hughes GSW 01/14/2002 GSW vs. MIA L 36 19 9 19 47.4 1 2 50.0 0 1 0.0 1 4 5 4 2 0 2 1 -7
+p454
+aVAdonal Foyle GSW 01/14/2002 GSW vs. MIA L 26 8 4 8 50.0 0 0 - 0 1 0.0 3 1 4 0 0 4 3 3 -11
+p455
+aVJason Richardson GSW 01/14/2002 GSW vs. MIA L 27 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 3 1 0 2 4 2
+p456
+aVDanny Fortson GSW 01/14/2002 GSW vs. MIA L 30 8 2 6 33.3 0 0 - 4 4 100.0 5 8 13 2 1 0 3 4 -6
+p457
+aVBob Sura GSW 01/14/2002 GSW vs. MIA L 21 8 2 6 33.3 0 3 0.0 4 5 80.0 1 1 2 2 1 0 3 3 -5
+p458
+aVAntawn Jamison GSW 01/14/2002 GSW vs. MIA L 40 15 6 14 42.9 0 1 0.0 3 4 75.0 4 11 15 1 2 1 6 2 -4
+p459
+aVErick Dampier GSW 01/14/2002 GSW vs. MIA L 16 2 1 5 20.0 0 0 - 0 0 - 4 3 7 0 0 0 3 1 1
+p460
+aVDanny Fortson GSW 01/08/2002 GSW vs. MIL L 33 19 3 9 33.3 0 0 - 13 16 81.3 6 7 13 2 0 0 2 4 0
+p461
+aVMarc Jackson GSW 01/08/2002 GSW vs. MIL L 14 9 2 6 33.3 0 0 - 5 6 83.3 0 4 4 0 1 1 1 3 -4
+p462
+aVAdonal Foyle GSW 01/08/2002 GSW vs. MIL L 23 6 2 3 66.7 0 0 - 2 2 100.0 4 4 8 2 0 3 1 1 -1
+p463
+aVChris Mills GSW 01/08/2002 GSW vs. MIL L 17 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 0 -12
+p464
+aVTroy Murphy GSW 01/08/2002 GSW vs. MIL L 14 0 0 4 0.0 0 0 - 0 0 - 3 2 5 2 0 0 1 4 -19
+p465
+aVMookie Blaylock GSW 01/08/2002 GSW vs. MIL L 14 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 1 -13
+p466
+aVJason Richardson GSW 01/08/2002 GSW vs. MIL L 32 10 3 13 23.1 0 1 0.0 4 5 80.0 0 3 3 0 0 1 1 2 -12
+p467
+aVBob Sura GSW 01/08/2002 GSW vs. MIL L 19 9 2 7 28.6 0 1 0.0 5 6 83.3 1 3 4 4 2 1 1 2 -17
+p468
+aVLarry Hughes GSW 01/08/2002 GSW vs. MIL L 34 12 5 12 41.7 0 3 0.0 2 2 100.0 1 3 4 2 3 0 4 0 -3
+p469
+aVAntawn Jamison GSW 01/08/2002 GSW vs. MIL L 40 23 10 24 41.7 0 2 0.0 3 5 60.0 3 3 6 2 1 0 2 3 1
+p470
+aVJason Richardson GSW 01/06/2002 GSW @ MIA L 38 12 4 14 28.6 0 2 0.0 4 4 100.0 2 2 4 0 0 0 2 2 -8
+p471
+aVTroy Murphy GSW 01/06/2002 GSW @ MIA L 25 2 0 4 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 2 1
+p472
+aVAntawn Jamison GSW 01/06/2002 GSW @ MIA L 39 31 11 18 61.1 0 1 0.0 9 9 100.0 2 3 5 0 3 0 1 1 -1
+p473
+aVMarc Jackson GSW 01/06/2002 GSW @ MIA L 15 2 1 5 20.0 0 0 - 0 0 - 0 4 4 0 1 0 1 4 -10
+p474
+aVBob Sura GSW 01/06/2002 GSW @ MIA L 25 12 5 9 55.6 1 2 50.0 1 2 50.0 2 4 6 1 2 0 3 6 -5
+p475
+aVAdonal Foyle GSW 01/06/2002 GSW @ MIA L 12 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 2 1 4 -4
+p476
+aVGilbert Arenas GSW 01/06/2002 GSW @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p477
+aVMookie Blaylock GSW 01/06/2002 GSW @ MIA L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 2 0 0 2
+p478
+aVLarry Hughes GSW 01/06/2002 GSW @ MIA L 38 15 5 18 27.8 0 5 0.0 5 8 62.5 1 3 4 4 3 0 4 2 -15
+p479
+aVDanny Fortson GSW 01/06/2002 GSW @ MIA L 34 6 2 7 28.6 0 0 - 2 2 100.0 0 6 6 1 0 0 0 6 -2
+p480
+aVJason Richardson GSW 01/05/2002 GSW @ ORL L 38 14 5 12 41.7 0 1 0.0 4 4 100.0 0 2 2 8 3 0 0 2 2
+p481
+aVTroy Murphy GSW 01/05/2002 GSW @ ORL L 16 7 3 4 75.0 0 0 - 1 3 33.3 0 2 2 1 0 0 1 4 2
+p482
+aVMookie Blaylock GSW 01/05/2002 GSW @ ORL L 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -10
+p483
+aVDanny Fortson GSW 01/05/2002 GSW @ ORL L 30 5 2 14 14.3 0 0 - 1 2 50.0 6 9 15 1 0 0 2 4 -13
+p484
+aVAdonal Foyle GSW 01/05/2002 GSW @ ORL L 11 7 3 5 60.0 0 0 - 1 2 50.0 2 0 2 0 1 1 0 1 -5
+p485
+aVChris Mills GSW 01/05/2002 GSW @ ORL L 33 20 7 10 70.0 4 5 80.0 2 3 66.7 1 4 5 7 1 0 1 3 -4
+p486
+aVAntawn Jamison GSW 01/05/2002 GSW @ ORL L 41 27 11 24 45.8 0 0 - 5 9 55.6 2 3 5 0 1 2 2 1 -21
+p487
+aVLarry Hughes GSW 01/05/2002 GSW @ ORL L 34 14 5 8 62.5 0 0 - 4 7 57.1 0 2 2 4 0 0 3 5 1
+p488
+aVBob Sura GSW 01/05/2002 GSW @ ORL L 24 11 4 7 57.1 0 0 - 3 3 100.0 0 2 2 3 4 0 1 2 3
+p489
+aVJason Richardson GSW 01/03/2002 GSW @ CHH L 27 18 9 15 60.0 0 0 - 0 2 0.0 2 0 2 2 0 0 0 5 6
+p490
+aVAntawn Jamison GSW 01/03/2002 GSW @ CHH L 39 24 6 17 35.3 0 1 0.0 12 15 80.0 5 7 12 4 1 1 2 3 -12
+p491
+aVAdonal Foyle GSW 01/03/2002 GSW @ CHH L 21 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 0 3 1 5 1
+p492
+aVChris Mills GSW 01/03/2002 GSW @ CHH L 21 10 4 12 33.3 0 0 - 2 2 100.0 3 1 4 0 0 1 0 3 -14
+p493
+aVDanny Fortson GSW 01/03/2002 GSW @ CHH L 33 14 5 15 33.3 0 0 - 4 6 66.7 5 3 8 2 1 0 3 3 -11
+p494
+aVLarry Hughes GSW 01/03/2002 GSW @ CHH L 34 8 3 13 23.1 0 1 0.0 2 2 100.0 0 2 2 1 3 0 2 1 -11
+p495
+aVMookie Blaylock GSW 01/03/2002 GSW @ CHH L 14 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 -1
+p496
+aVMarc Jackson GSW 01/03/2002 GSW @ CHH L 11 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 0 0 0 0 -2
+p497
+aVBob Sura GSW 01/03/2002 GSW @ CHH L 32 13 5 11 45.5 0 1 0.0 3 4 75.0 3 2 5 2 2 0 0 4 -16
+p498
+aVTroy Murphy GSW 01/03/2002 GSW @ CHH L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 0 0
+p499
+aVBob Sura GSW 01/02/2002 GSW @ CLE L 20 10 4 7 57.1 0 0 - 2 2 100.0 2 3 5 1 1 1 3 1 -4
+p500
+aVChris Mills GSW 01/02/2002 GSW @ CLE L 18 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -12
+p501
+aVDanny Fortson GSW 01/02/2002 GSW @ CLE L 28 10 4 8 50.0 0 0 - 2 3 66.7 3 6 9 3 0 0 2 4 -15
+p502
+aVLarry Hughes GSW 01/02/2002 GSW @ CLE L 32 10 2 10 20.0 0 3 0.0 6 8 75.0 1 5 6 6 2 1 4 2 -14
+p503
+aVTroy Murphy GSW 01/02/2002 GSW @ CLE L 20 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 1 0 1 2 3 10
+p504
+aVMookie Blaylock GSW 01/02/2002 GSW @ CLE L 16 2 1 4 25.0 0 0 - 0 0 - 0 3 3 4 1 0 1 1 -1
+p505
+aVAdonal Foyle GSW 01/02/2002 GSW @ CLE L 15 8 2 5 40.0 0 0 - 4 5 80.0 1 1 2 0 0 1 0 1 -7
+p506
+aVMarc Jackson GSW 01/02/2002 GSW @ CLE L 20 12 3 6 50.0 0 0 - 6 8 75.0 2 2 4 2 0 0 0 1 -2
+p507
+aVJason Richardson GSW 01/02/2002 GSW @ CLE L 32 13 4 12 33.3 1 1 100.0 4 4 100.0 1 0 1 3 0 1 0 2 -8
+p508
+aVGilbert Arenas GSW 01/02/2002 GSW @ CLE L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p509
+aVAntawn Jamison GSW 01/02/2002 GSW @ CLE L 35 24 10 20 50.0 0 2 0.0 4 4 100.0 2 5 7 1 0 0 1 2 -25
+p510
+aVLarry Hughes GSW 12/28/2001 GSW vs. HOU L 32 17 8 23 34.8 0 1 0.0 1 4 25.0 5 0 5 6 2 0 2 4 -9
+p511
+aVTroy Murphy GSW 12/28/2001 GSW vs. HOU L 16 7 2 9 22.2 0 0 - 3 4 75.0 3 1 4 1 0 1 0 1 -4
+p512
+aVMookie Blaylock GSW 12/28/2001 GSW vs. HOU L 15 0 0 2 0.0 0 0 - 0 1 0.0 1 0 1 3 1 1 2 1 -1
+p513
+aVBob Sura GSW 12/28/2001 GSW vs. HOU L 21 10 4 8 50.0 0 0 - 2 2 100.0 1 3 4 1 1 0 1 3 1
+p514
+aVAdonal Foyle GSW 12/28/2001 GSW vs. HOU L 13 2 1 2 50.0 0 0 - 0 0 - 3 1 4 1 0 5 0 1 -7
+p515
+aVAntawn Jamison GSW 12/28/2001 GSW vs. HOU L 41 18 8 22 36.4 1 3 33.3 1 2 50.0 4 6 10 0 1 1 0 2 -8
+p516
+aVJason Richardson GSW 12/28/2001 GSW vs. HOU L 34 9 4 13 30.8 0 2 0.0 1 2 50.0 5 1 6 3 0 0 0 3 -4
+p517
+aVChris Mills GSW 12/28/2001 GSW vs. HOU L 30 11 5 10 50.0 0 2 0.0 1 1 100.0 1 5 6 2 1 0 0 2 0
+p518
+aVDanny Fortson GSW 12/28/2001 GSW vs. HOU L 28 14 6 11 54.5 0 0 - 2 2 100.0 3 5 8 0 1 1 3 2 -6
+p519
+aVMarc Jackson GSW 12/28/2001 GSW vs. HOU L 11 5 1 4 25.0 0 0 - 3 4 75.0 4 2 6 1 0 1 0 1 3
+p520
+aVJason Richardson GSW 12/26/2001 GSW vs. LAL W 31 20 8 16 50.0 0 0 - 4 5 80.0 2 5 7 2 2 3 5 1 6
+p521
+aVBob Sura GSW 12/26/2001 GSW vs. LAL W 17 2 0 3 0.0 0 1 0.0 2 2 100.0 1 3 4 1 0 0 1 3 5
+p522
+aVAntawn Jamison GSW 12/26/2001 GSW vs. LAL W 41 28 10 19 52.6 0 0 - 8 10 80.0 2 6 8 2 0 2 3 2 14
+p523
+aVMookie Blaylock GSW 12/26/2001 GSW vs. LAL W 17 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 5 1 0 1 0 15
+p524
+aVAdonal Foyle GSW 12/26/2001 GSW vs. LAL W 12 4 2 8 25.0 0 0 - 0 0 - 3 0 3 0 0 2 0 1 6
+p525
+aVMarc Jackson GSW 12/26/2001 GSW vs. LAL W 13 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 3 3 -5
+p526
+aVDanny Fortson GSW 12/26/2001 GSW vs. LAL W 37 15 5 13 38.5 0 0 - 5 8 62.5 5 15 20 4 0 0 1 5 20
+p527
+aVTroy Murphy GSW 12/26/2001 GSW vs. LAL W 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -14
+p528
+aVChris Mills GSW 12/26/2001 GSW vs. LAL W 28 10 2 6 33.3 1 2 50.0 5 6 83.3 2 4 6 1 0 0 2 1 12
+p529
+aVLarry Hughes GSW 12/26/2001 GSW vs. LAL W 31 11 4 7 57.1 0 1 0.0 3 5 60.0 0 3 3 4 5 1 4 4 -4
+p530
+aVMookie Blaylock GSW 12/22/2001 GSW @ DEN W 14 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 -6
+p531
+aVAntawn Jamison GSW 12/22/2001 GSW @ DEN W 37 29 11 19 57.9 1 1 100.0 6 7 85.7 4 2 6 1 0 0 2 1 6
+p532
+aVJason Richardson GSW 12/22/2001 GSW @ DEN W 34 13 4 14 28.6 0 1 0.0 5 7 71.4 2 6 8 4 3 0 1 1 4
+p533
+aVLarry Hughes GSW 12/22/2001 GSW @ DEN W 34 8 3 11 27.3 0 0 - 2 3 66.7 0 2 2 6 2 0 2 4 10
+p534
+aVTroy Murphy GSW 12/22/2001 GSW @ DEN W 26 10 4 8 50.0 0 1 0.0 2 2 100.0 3 2 5 0 2 0 2 4 -1
+p535
+aVMarc Jackson GSW 12/22/2001 GSW @ DEN W 22 13 4 8 50.0 0 0 - 5 7 71.4 2 3 5 0 0 0 0 2 16
+p536
+aVDanny Fortson GSW 12/22/2001 GSW @ DEN W 34 25 7 9 77.8 0 0 - 11 15 73.3 3 14 17 3 0 0 3 3 6
+p537
+aVAdonal Foyle GSW 12/22/2001 GSW @ DEN W 12 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 0 1 1 1 -9
+p538
+aVCedric Henderson GSW 12/22/2001 GSW @ DEN W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 1 0 0 3
+p539
+aVBob Sura GSW 12/22/2001 GSW @ DEN W 20 5 1 4 25.0 0 1 0.0 3 4 75.0 1 1 2 5 1 0 1 2 -9
+p540
+aVTroy Murphy GSW 12/21/2001 GSW vs. SEA L 25 5 2 6 33.3 0 0 - 1 2 50.0 2 2 4 2 1 0 3 2 -11
+p541
+aVMookie Blaylock GSW 12/21/2001 GSW vs. SEA L 17 0 0 1 0.0 0 0 - 0 0 - 0 1 1 7 0 0 2 0 -2
+p542
+aVAdonal Foyle GSW 12/21/2001 GSW vs. SEA L 17 8 4 8 50.0 0 0 - 0 1 0.0 4 4 8 1 0 3 0 2 -1
+p543
+aVBob Sura GSW 12/21/2001 GSW vs. SEA L 26 10 3 10 30.0 1 3 33.3 3 6 50.0 3 4 7 2 2 1 1 5 3
+p544
+aVLarry Hughes GSW 12/21/2001 GSW vs. SEA L 43 24 8 18 44.4 2 2 100.0 6 7 85.7 1 2 3 3 2 1 2 2 3
+p545
+aVChris Mills GSW 12/21/2001 GSW vs. SEA L 13 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -16
+p546
+aVAntawn Jamison GSW 12/21/2001 GSW vs. SEA L 45 17 7 21 33.3 1 4 25.0 2 2 100.0 2 4 6 6 0 0 3 5 -1
+p547
+aVJason Richardson GSW 12/21/2001 GSW vs. SEA L 42 24 10 14 71.4 2 3 66.7 2 5 40.0 3 5 8 4 3 1 5 4 1
+p548
+aVDanny Fortson GSW 12/21/2001 GSW vs. SEA L 37 13 5 9 55.6 0 0 - 3 4 75.0 7 10 17 2 1 0 2 5 9
+p549
+aVJason Richardson GSW 12/19/2001 GSW vs. DET W 36 18 7 13 53.8 0 0 - 4 5 80.0 2 3 5 1 3 1 0 1 11
+p550
+aVMookie Blaylock GSW 12/19/2001 GSW vs. DET W 16 4 2 2 100.0 0 0 - 0 0 - 0 1 1 5 1 0 1 1 9
+p551
+aVDanny Fortson GSW 12/19/2001 GSW vs. DET W 33 8 3 9 33.3 0 0 - 2 2 100.0 4 14 18 3 0 0 3 5 0
+p552
+aVAntawn Jamison GSW 12/19/2001 GSW vs. DET W 36 24 7 18 38.9 0 1 0.0 10 13 76.9 3 2 5 4 3 2 1 1 2
+p553
+aVTroy Murphy GSW 12/19/2001 GSW vs. DET W 17 6 3 8 37.5 0 0 - 0 0 - 1 4 5 0 2 0 1 2 11
+p554
+aVChris Mills GSW 12/19/2001 GSW vs. DET W 21 7 3 7 42.9 1 1 100.0 0 0 - 0 1 1 1 1 1 0 2 11
+p555
+aVErick Dampier GSW 12/19/2001 GSW vs. DET W 25 5 2 4 50.0 0 0 - 1 2 50.0 0 5 5 0 0 5 5 2 7
+p556
+aVBob Sura GSW 12/19/2001 GSW vs. DET W 24 13 4 8 50.0 1 1 100.0 4 4 100.0 2 2 4 2 0 0 4 2 10
+p557
+aVLarry Hughes GSW 12/19/2001 GSW vs. DET W 32 16 7 10 70.0 0 0 - 2 4 50.0 0 2 2 3 1 0 2 2 4
+p558
+aVBob Sura GSW 12/16/2001 GSW @ LAL L 22 8 4 8 50.0 0 2 0.0 0 2 0.0 1 4 5 1 1 0 3 2 -8
+p559
+aVChris Mills GSW 12/16/2001 GSW @ LAL L 22 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 2 0 3 3 -1
+p560
+aVMookie Blaylock GSW 12/16/2001 GSW @ LAL L 15 0 0 5 0.0 0 0 - 0 0 - 0 1 1 1 2 0 1 3 -8
+p561
+aVDanny Fortson GSW 12/16/2001 GSW @ LAL L 32 10 4 10 40.0 0 0 - 2 4 50.0 0 10 10 1 0 0 3 4 -16
+p562
+aVTroy Murphy GSW 12/16/2001 GSW @ LAL L 22 10 3 6 50.0 0 0 - 4 7 57.1 3 3 6 1 0 0 1 2 -2
+p563
+aVJason Richardson GSW 12/16/2001 GSW @ LAL L 29 16 6 10 60.0 1 3 33.3 3 4 75.0 1 1 2 3 0 0 2 4 -8
+p564
+aVAntawn Jamison GSW 12/16/2001 GSW @ LAL L 33 12 4 12 33.3 0 3 0.0 4 5 80.0 3 2 5 0 0 0 1 4 -16
+p565
+aVLarry Hughes GSW 12/16/2001 GSW @ LAL L 33 8 3 9 33.3 0 1 0.0 2 4 50.0 1 4 5 6 1 0 2 1 -8
+p566
+aVErick Dampier GSW 12/16/2001 GSW @ LAL L 31 15 6 13 46.2 0 0 - 3 5 60.0 3 3 6 1 0 0 3 2 -13
+p567
+aVLarry Hughes GSW 12/15/2001 GSW vs. MEM W 32 16 7 15 46.7 0 1 0.0 2 4 50.0 1 4 5 6 3 0 3 1 16
+p568
+aVTroy Murphy GSW 12/15/2001 GSW vs. MEM W 22 5 2 3 66.7 0 0 - 1 1 100.0 1 5 6 1 1 0 2 3 -7
+p569
+aVBob Sura GSW 12/15/2001 GSW vs. MEM W 15 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 2 0 3 3 -5
+p570
+aVMookie Blaylock GSW 12/15/2001 GSW vs. MEM W 16 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 0 -7
+p571
+aVJason Richardson GSW 12/15/2001 GSW vs. MEM W 33 13 5 11 45.5 1 2 50.0 2 4 50.0 2 1 3 3 2 0 4 3 14
+p572
+aVAntawn Jamison GSW 12/15/2001 GSW vs. MEM W 37 20 10 18 55.6 0 4 0.0 0 1 0.0 3 5 8 2 1 0 3 3 14
+p573
+aVErick Dampier GSW 12/15/2001 GSW vs. MEM W 30 10 4 9 44.4 0 0 - 2 5 40.0 1 6 7 3 0 2 1 2 8
+p574
+aVChris Mills GSW 12/15/2001 GSW vs. MEM W 21 7 3 7 42.9 1 3 33.3 0 0 - 3 2 5 0 0 1 2 1 -6
+p575
+aVDanny Fortson GSW 12/15/2001 GSW vs. MEM W 34 17 5 8 62.5 0 0 - 7 9 77.8 4 11 15 3 1 0 2 2 18
+p576
+aVErick Dampier GSW 12/13/2001 GSW vs. ORL L 28 21 8 10 80.0 0 0 - 5 8 62.5 6 4 10 5 0 2 3 5 8
+p577
+aVBob Sura GSW 12/13/2001 GSW vs. ORL L 24 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 4 0 0 4 4 -14
+p578
+aVDanny Fortson GSW 12/13/2001 GSW vs. ORL L 35 6 2 9 22.2 0 0 - 2 2 100.0 5 9 14 1 1 0 0 5 6
+p579
+aVJason Richardson GSW 12/13/2001 GSW vs. ORL L 28 11 5 14 35.7 0 1 0.0 1 3 33.3 1 2 3 1 0 0 1 3 6
+p580
+aVAdonal Foyle GSW 12/13/2001 GSW vs. ORL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p581
+aVTroy Murphy GSW 12/13/2001 GSW vs. ORL L 28 12 4 10 40.0 0 0 - 4 5 80.0 0 7 7 1 0 0 2 4 -13
+p582
+aVAntawn Jamison GSW 12/13/2001 GSW vs. ORL L 28 25 10 19 52.6 3 4 75.0 2 4 50.0 1 4 5 1 0 0 2 3 9
+p583
+aVChris Mills GSW 12/13/2001 GSW vs. ORL L 15 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 1 1 2 -12
+p584
+aVLarry Hughes GSW 12/13/2001 GSW vs. ORL L 41 18 5 9 55.6 0 1 0.0 8 10 80.0 3 5 8 8 2 1 0 2 -1
+p585
+aVCedric Henderson GSW 12/13/2001 GSW vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p586
+aVMookie Blaylock GSW 12/13/2001 GSW vs. ORL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p587
+aVLarry Hughes GSW 12/11/2001 GSW @ MIN L 26 14 7 12 58.3 0 1 0.0 0 0 - 3 2 5 2 1 1 4 0 -15
+p588
+aVAntawn Jamison GSW 12/11/2001 GSW @ MIN L 35 11 5 10 50.0 1 3 33.3 0 0 - 0 5 5 2 1 0 2 3 -22
+p589
+aVBob Sura GSW 12/11/2001 GSW @ MIN L 30 16 6 13 46.2 1 3 33.3 3 4 75.0 0 1 1 1 0 0 0 1 -6
+p590
+aVJason Richardson GSW 12/11/2001 GSW @ MIN L 23 6 3 11 27.3 0 1 0.0 0 0 - 2 2 4 3 0 1 2 0 -15
+p591
+aVTroy Murphy GSW 12/11/2001 GSW @ MIN L 25 12 4 10 40.0 0 0 - 4 6 66.7 3 2 5 0 0 0 1 3 -2
+p592
+aVChris Mills GSW 12/11/2001 GSW @ MIN L 15 2 1 7 14.3 0 1 0.0 0 0 - 1 2 3 2 1 0 1 2 -1
+p593
+aVDanny Fortson GSW 12/11/2001 GSW @ MIN L 33 17 2 7 28.6 0 0 - 13 15 86.7 3 11 14 2 0 1 6 3 -18
+p594
+aVMookie Blaylock GSW 12/11/2001 GSW @ MIN L 17 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 5 1 0 0 0 -6
+p595
+aVAdonal Foyle GSW 12/11/2001 GSW @ MIN L 15 4 1 3 33.3 0 0 - 2 4 50.0 3 4 7 1 0 0 2 2 -4
+p596
+aVErick Dampier GSW 12/11/2001 GSW @ MIN L 21 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 2 0 4 1 1 -16
+p597
+aVJason Richardson GSW 12/08/2001 GSW @ UTA L 27 18 7 9 77.8 1 2 50.0 3 5 60.0 0 3 3 1 1 0 0 0 3
+p598
+aVMookie Blaylock GSW 12/08/2001 GSW @ UTA L 17 8 3 6 50.0 2 2 100.0 0 0 - 0 0 0 1 0 0 3 2 -9
+p599
+aVDanny Fortson GSW 12/08/2001 GSW @ UTA L 28 11 5 9 55.6 0 0 - 1 2 50.0 4 6 10 1 1 1 2 5 -2
+p600
+aVErick Dampier GSW 12/08/2001 GSW @ UTA L 37 9 3 3 100.0 0 0 - 3 4 75.0 3 4 7 1 1 5 6 4 -4
+p601
+aVTroy Murphy GSW 12/08/2001 GSW @ UTA L 11 2 0 4 0.0 0 0 - 2 2 100.0 2 2 4 0 1 0 3 4 -6
+p602
+aVLarry Hughes GSW 12/08/2001 GSW @ UTA L 31 26 8 19 42.1 3 6 50.0 7 8 87.5 1 4 5 5 2 0 3 3 -1
+p603
+aVAdonal Foyle GSW 12/08/2001 GSW @ UTA L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p604
+aVBob Sura GSW 12/08/2001 GSW @ UTA L 21 9 2 3 66.7 0 0 - 5 8 62.5 1 0 1 3 0 2 3 0 -13
+p605
+aVAntawn Jamison GSW 12/08/2001 GSW @ UTA L 39 14 4 12 33.3 1 3 33.3 5 5 100.0 2 2 4 2 3 0 1 4 -12
+p606
+aVChris Mills GSW 12/08/2001 GSW @ UTA L 24 2 1 8 12.5 0 2 0.0 0 0 - 1 2 3 1 2 1 2 3 -5
+p607
+aVAdonal Foyle GSW 12/07/2001 GSW vs. CHH L 12 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 3
+p608
+aVAntawn Jamison GSW 12/07/2001 GSW vs. CHH L 34 13 4 10 40.0 0 1 0.0 5 8 62.5 3 4 7 3 1 0 1 1 -22
+p609
+aVLarry Hughes GSW 12/07/2001 GSW vs. CHH L 32 11 3 11 27.3 0 1 0.0 5 6 83.3 0 3 3 6 1 0 5 4 -16
+p610
+aVBob Sura GSW 12/07/2001 GSW vs. CHH L 33 13 5 11 45.5 0 2 0.0 3 5 60.0 2 2 4 5 1 0 0 1 -5
+p611
+aVErick Dampier GSW 12/07/2001 GSW vs. CHH L 20 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 1 2 3 -16
+p612
+aVTroy Murphy GSW 12/07/2001 GSW vs. CHH L 28 17 7 12 58.3 0 0 - 3 4 75.0 3 10 13 0 0 1 0 5 -1
+p613
+aVMookie Blaylock GSW 12/07/2001 GSW vs. CHH L 16 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 5 0 0 0 0 -1
+p614
+aVChris Mills GSW 12/07/2001 GSW vs. CHH L 25 10 5 11 45.5 0 2 0.0 0 0 - 0 2 2 0 2 0 1 2 -3
+p615
+aVJason Richardson GSW 12/07/2001 GSW vs. CHH L 15 6 3 8 37.5 0 0 - 0 0 - 1 0 1 3 0 0 1 0 -12
+p616
+aVDanny Fortson GSW 12/07/2001 GSW vs. CHH L 25 12 5 10 50.0 0 0 - 2 2 100.0 5 2 7 1 1 0 2 1 -12
+p617
+aVLarry Hughes GSW 12/05/2001 GSW vs. PHI W 35 22 9 17 52.9 1 3 33.3 3 6 50.0 1 2 3 4 4 1 2 3 -5
+p618
+aVChris Mills GSW 12/05/2001 GSW vs. PHI W 17 7 2 4 50.0 1 2 50.0 2 2 100.0 0 3 3 0 0 0 1 2 17
+p619
+aVDanny Fortson GSW 12/05/2001 GSW vs. PHI W 33 11 3 8 37.5 0 0 - 5 6 83.3 8 7 15 1 0 0 2 4 -4
+p620
+aVBob Sura GSW 12/05/2001 GSW vs. PHI W 16 7 1 3 33.3 0 0 - 5 6 83.3 0 0 0 1 0 0 1 0 8
+p621
+aVAdonal Foyle GSW 12/05/2001 GSW vs. PHI W 17 2 1 3 33.3 0 0 - 0 0 - 3 0 3 0 1 3 0 0 14
+p622
+aVAntawn Jamison GSW 12/05/2001 GSW vs. PHI W 36 19 6 17 35.3 2 3 66.7 5 8 62.5 2 5 7 2 1 0 3 2 -12
+p623
+aVMookie Blaylock GSW 12/05/2001 GSW vs. PHI W 23 9 4 6 66.7 0 0 - 1 2 50.0 0 6 6 5 2 0 3 0 15
+p624
+aVTroy Murphy GSW 12/05/2001 GSW vs. PHI W 15 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 2 0 0 2 10
+p625
+aVJason Richardson GSW 12/05/2001 GSW vs. PHI W 19 0 0 6 0.0 0 0 - 0 0 - 4 0 4 1 2 0 1 1 -5
+p626
+aVErick Dampier GSW 12/05/2001 GSW vs. PHI W 30 12 4 12 33.3 0 0 - 4 4 100.0 4 1 5 1 0 6 3 4 -8
+p627
+aVErick Dampier GSW 12/03/2001 GSW @ PHX L 17 4 2 3 66.7 0 0 - 0 3 0.0 1 1 2 2 0 1 1 4 1
+p628
+aVJason Richardson GSW 12/03/2001 GSW @ PHX L 21 2 1 9 11.1 0 1 0.0 0 0 - 2 2 4 1 0 1 2 1 -10
+p629
+aVBob Sura GSW 12/03/2001 GSW @ PHX L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 2 0 1 0 -7
+p630
+aVAntawn Jamison GSW 12/03/2001 GSW @ PHX L 33 16 6 15 40.0 0 1 0.0 4 6 66.7 3 8 11 0 0 0 0 0 -2
+p631
+aVMarc Jackson GSW 12/03/2001 GSW @ PHX L 10 9 2 5 40.0 0 0 - 5 5 100.0 1 0 1 0 2 0 2 3 6
+p632
+aVChris Mills GSW 12/03/2001 GSW @ PHX L 20 11 3 8 37.5 2 2 100.0 3 3 100.0 1 2 3 2 0 0 1 1 -20
+p633
+aVDanny Fortson GSW 12/03/2001 GSW @ PHX L 32 12 5 12 41.7 0 0 - 2 2 100.0 7 3 10 0 1 0 1 2 -18
+p634
+aVTroy Murphy GSW 12/03/2001 GSW @ PHX L 21 0 0 7 0.0 0 0 - 0 0 - 2 3 5 0 1 0 0 5 -11
+p635
+aVCedric Henderson GSW 12/03/2001 GSW @ PHX L 11 11 5 9 55.6 0 0 - 1 1 100.0 0 0 0 0 2 0 2 2 13
+p636
+aVLarry Hughes GSW 12/03/2001 GSW @ PHX L 28 19 6 14 42.9 1 3 33.3 6 6 100.0 1 2 3 5 2 1 5 3 -6
+p637
+aVAdonal Foyle GSW 12/03/2001 GSW @ PHX L 15 9 4 7 57.1 0 0 - 1 2 50.0 2 1 3 2 0 0 1 1 -12
+p638
+aVMookie Blaylock GSW 12/03/2001 GSW @ PHX L 24 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 7 0 0 2 3 -19
+p639
+aVCedric Henderson GSW 12/01/2001 GSW vs. DAL L 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p640
+aVAdonal Foyle GSW 12/01/2001 GSW vs. DAL L 10 1 0 2 0.0 0 0 - 1 8 12.5 0 3 3 0 0 1 1 0 -12
+p641
+aVMarc Jackson GSW 12/01/2001 GSW vs. DAL L 9 9 2 3 66.7 0 0 - 5 6 83.3 1 1 2 1 0 0 2 3 -3
+p642
+aVChris Mills GSW 12/01/2001 GSW vs. DAL L 20 11 4 9 44.4 0 3 0.0 3 7 42.9 1 2 3 0 0 1 1 1 -7
+p643
+aVJason Richardson GSW 12/01/2001 GSW vs. DAL L 26 2 1 6 16.7 0 1 0.0 0 2 0.0 0 5 5 4 0 0 1 3 -22
+p644
+aVTroy Murphy GSW 12/01/2001 GSW vs. DAL L 18 8 4 6 66.7 0 0 - 0 0 - 2 7 9 2 0 0 2 5 -9
+p645
+aVAntawn Jamison GSW 12/01/2001 GSW vs. DAL L 24 0 0 11 0.0 0 1 0.0 0 0 - 2 3 5 0 0 0 1 0 -26
+p646
+aVLarry Hughes GSW 12/01/2001 GSW vs. DAL L 33 10 5 11 45.5 0 1 0.0 0 0 - 2 1 3 3 0 1 2 1 -16
+p647
+aVMookie Blaylock GSW 12/01/2001 GSW vs. DAL L 18 0 0 2 0.0 0 0 - 0 0 - 2 1 3 2 1 0 1 1 -10
+p648
+aVErick Dampier GSW 12/01/2001 GSW vs. DAL L 19 12 5 7 71.4 0 0 - 2 7 28.6 1 0 1 0 0 1 4 4 -4
+p649
+aVBob Sura GSW 12/01/2001 GSW vs. DAL L 22 8 4 10 40.0 0 0 - 0 2 0.0 3 1 4 3 1 1 0 0 -7
+p650
+aVDanny Fortson GSW 12/01/2001 GSW vs. DAL L 32 17 6 12 50.0 0 0 - 5 6 83.3 3 8 11 0 1 0 4 4 -26
+p651
+aVAdonal Foyle GSW 11/28/2001 GSW @ SAS L 23 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 2 2 4 -5
+p652
+aVAntawn Jamison GSW 11/28/2001 GSW @ SAS L 35 16 6 14 42.9 1 4 25.0 3 4 75.0 1 1 2 1 0 0 3 2 4
+p653
+aVMookie Blaylock GSW 11/28/2001 GSW @ SAS L 8 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 2 1 0 1 0 -13
+p654
+aVErick Dampier GSW 11/28/2001 GSW @ SAS L 27 4 2 7 28.6 0 0 - 0 0 - 2 4 6 1 1 2 4 3 3
+p655
+aVJason Richardson GSW 11/28/2001 GSW @ SAS L 26 7 3 9 33.3 1 3 33.3 0 0 - 0 0 0 1 2 0 1 2 -6
+p656
+aVTroy Murphy GSW 11/28/2001 GSW @ SAS L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 4 -11
+p657
+aVBob Sura GSW 11/28/2001 GSW @ SAS L 23 7 2 5 40.0 0 1 0.0 3 4 75.0 0 2 2 2 1 0 2 0 -5
+p658
+aVChris Mills GSW 11/28/2001 GSW @ SAS L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -14
+p659
+aVDanny Fortson GSW 11/28/2001 GSW @ SAS L 30 11 3 10 30.0 1 1 100.0 4 4 100.0 6 11 17 2 1 0 1 3 2
+p660
+aVCedric Henderson GSW 11/28/2001 GSW @ SAS L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p661
+aVMarc Jackson GSW 11/28/2001 GSW @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -11
+p662
+aVLarry Hughes GSW 11/28/2001 GSW @ SAS L 39 31 13 20 65.0 0 1 0.0 5 7 71.4 1 4 5 7 1 0 3 4 2
+p663
+aVDanny Fortson GSW 11/27/2001 GSW @ DAL L 38 24 8 16 50.0 0 0 - 8 8 100.0 5 12 17 3 0 0 3 5 6
+p664
+aVErick Dampier GSW 11/27/2001 GSW @ DAL L 25 13 5 9 55.6 0 0 - 3 5 60.0 3 1 4 2 0 3 2 4 -4
+p665
+aVMookie Blaylock GSW 11/27/2001 GSW @ DAL L 14 7 3 9 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 1 0 -13
+p666
+aVTroy Murphy GSW 11/27/2001 GSW @ DAL L 25 7 1 4 25.0 0 0 - 5 6 83.3 4 3 7 0 0 0 3 4 -15
+p667
+aVBob Sura GSW 11/27/2001 GSW @ DAL L 10 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 3 0 0 1 1 18
+p668
+aVAntawn Jamison GSW 11/27/2001 GSW @ DAL L 43 32 14 23 60.9 4 6 66.7 0 0 - 2 4 6 1 1 2 2 4 1
+p669
+aVJason Richardson GSW 11/27/2001 GSW @ DAL L 37 11 5 12 41.7 1 5 20.0 0 0 - 1 4 5 2 2 0 1 5 -24
+p670
+aVLarry Hughes GSW 11/27/2001 GSW @ DAL L 34 12 3 11 27.3 1 4 25.0 5 6 83.3 3 4 7 12 2 1 3 4 3
+p671
+aVChris Mills GSW 11/27/2001 GSW @ DAL L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 1 0 -14
+p672
+aVAdonal Foyle GSW 11/27/2001 GSW @ DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p673
+aVTroy Murphy GSW 11/25/2001 GSW vs. NJN W 9 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -5
+p674
+aVAntawn Jamison GSW 11/25/2001 GSW vs. NJN W 37 22 7 17 41.2 2 3 66.7 6 6 100.0 2 5 7 4 2 3 1 4 18
+p675
+aVBob Sura GSW 11/25/2001 GSW vs. NJN W 9 6 2 6 33.3 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 2 -5
+p676
+aVAdonal Foyle GSW 11/25/2001 GSW vs. NJN W 16 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 2 1 1 1 0 3
+p677
+aVCedric Henderson GSW 11/25/2001 GSW vs. NJN W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p678
+aVDanny Fortson GSW 11/25/2001 GSW vs. NJN W 27 16 7 9 77.8 0 0 - 2 2 100.0 1 7 8 4 0 0 4 3 22
+p679
+aVJason Richardson GSW 11/25/2001 GSW vs. NJN W 35 12 5 15 33.3 1 6 16.7 1 2 50.0 4 2 6 4 3 1 1 0 15
+p680
+aVMookie Blaylock GSW 11/25/2001 GSW vs. NJN W 25 13 6 8 75.0 1 2 50.0 0 0 - 0 2 2 5 0 0 1 1 9
+p681
+aVErick Dampier GSW 11/25/2001 GSW vs. NJN W 35 11 5 7 71.4 0 0 - 1 4 25.0 0 14 14 2 1 4 3 2 9
+p682
+aVLarry Hughes GSW 11/25/2001 GSW vs. NJN W 26 11 4 9 44.4 1 1 100.0 2 3 66.7 0 4 4 5 1 0 1 1 13
+p683
+aVChris Mills GSW 11/25/2001 GSW vs. NJN W 18 4 2 4 50.0 0 0 - 0 0 - 3 4 7 1 0 0 1 2 3
+p684
+aVAdonal Foyle GSW 11/23/2001 GSW @ LAL L 12 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -1
+p685
+aVBob Sura GSW 11/23/2001 GSW @ LAL L 13 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 3 -2
+p686
+aVLarry Hughes GSW 11/23/2001 GSW @ LAL L 32 12 6 13 46.2 0 1 0.0 0 0 - 1 1 2 5 5 1 1 0 -11
+p687
+aVChris Mills GSW 11/23/2001 GSW @ LAL L 20 5 1 3 33.3 1 2 50.0 2 4 50.0 0 1 1 3 1 0 2 2 8
+p688
+aVJason Richardson GSW 11/23/2001 GSW @ LAL L 22 11 4 12 33.3 1 2 50.0 2 4 50.0 5 1 6 0 0 1 2 3 -20
+p689
+aVTroy Murphy GSW 11/23/2001 GSW @ LAL L 15 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 1 1 1 1 3 -7
+p690
+aVErick Dampier GSW 11/23/2001 GSW @ LAL L 31 16 6 17 35.3 0 0 - 4 4 100.0 5 0 5 0 0 4 1 5 -19
+p691
+aVDanny Fortson GSW 11/23/2001 GSW @ LAL L 27 9 2 6 33.3 0 1 0.0 5 6 83.3 5 11 16 0 0 0 5 4 -12
+p692
+aVMarc Jackson GSW 11/23/2001 GSW @ LAL L 5 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 5
+p693
+aVCedric Henderson GSW 11/23/2001 GSW @ LAL L 8 4 2 4 50.0 0 1 0.0 0 2 0.0 0 1 1 2 1 0 0 0 4
+p694
+aVAntawn Jamison GSW 11/23/2001 GSW @ LAL L 40 12 5 15 33.3 0 3 0.0 2 4 50.0 6 1 7 4 1 1 1 2 -20
+p695
+aVMookie Blaylock GSW 11/23/2001 GSW @ LAL L 16 5 2 8 25.0 1 2 50.0 0 0 - 1 2 3 4 0 0 1 0 -5
+p696
+aVMarc Jackson GSW 11/20/2001 GSW vs. NYK L 8 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 1 0 0 8
+p697
+aVBob Sura GSW 11/20/2001 GSW vs. NYK L 21 11 3 5 60.0 1 1 100.0 4 8 50.0 0 2 2 2 0 0 2 3 -1
+p698
+aVChris Mills GSW 11/20/2001 GSW vs. NYK L 15 3 0 3 0.0 0 2 0.0 3 3 100.0 0 1 1 1 0 0 1 1 -10
+p699
+aVAdonal Foyle GSW 11/20/2001 GSW vs. NYK L 25 8 4 10 40.0 0 0 - 0 0 - 3 3 6 0 1 0 1 4 -28
+p700
+aVMookie Blaylock GSW 11/20/2001 GSW vs. NYK L 26 3 1 7 14.3 1 4 25.0 0 0 - 0 3 3 5 1 0 1 0 -4
+p701
+aVCedric Henderson GSW 11/20/2001 GSW vs. NYK L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 8
+p702
+aVJason Richardson GSW 11/20/2001 GSW vs. NYK L 27 8 4 13 30.8 0 2 0.0 0 0 - 2 0 2 4 2 1 0 1 -23
+p703
+aVErick Dampier GSW 11/20/2001 GSW vs. NYK L 20 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 3 1 3 -9
+p704
+aVDanny Fortson GSW 11/20/2001 GSW vs. NYK L 23 5 2 10 20.0 0 0 - 1 2 50.0 3 5 8 1 0 0 2 1 -19
+p705
+aVTroy Murphy GSW 11/20/2001 GSW vs. NYK L 20 4 2 6 33.3 0 0 - 0 0 - 3 3 6 0 1 0 3 4 0
+p706
+aVAntawn Jamison GSW 11/20/2001 GSW vs. NYK L 26 12 4 8 50.0 1 1 100.0 3 3 100.0 2 2 4 1 0 0 2 0 -22
+p707
+aVLarry Hughes GSW 11/20/2001 GSW vs. NYK L 22 6 2 10 20.0 0 1 0.0 2 4 50.0 3 2 5 4 2 1 3 1 -20
+p708
+aVErick Dampier GSW 11/17/2001 GSW vs. CHI W 25 4 1 6 16.7 0 0 - 2 2 100.0 2 1 3 1 0 4 1 4 6
+p709
+aVLarry Hughes GSW 11/17/2001 GSW vs. CHI W 35 14 6 15 40.0 1 4 25.0 1 2 50.0 3 2 5 10 2 1 0 2 3
+p710
+aVTroy Murphy GSW 11/17/2001 GSW vs. CHI W 17 3 0 4 0.0 0 0 - 3 4 75.0 1 4 5 1 0 1 1 2 -2
+p711
+aVJason Richardson GSW 11/17/2001 GSW vs. CHI W 35 23 8 15 53.3 4 7 57.1 3 4 75.0 2 6 8 8 1 0 1 4 12
+p712
+aVMookie Blaylock GSW 11/17/2001 GSW vs. CHI W 14 0 0 3 0.0 0 0 - 0 0 - 2 1 3 3 1 0 0 0 2
+p713
+aVAdonal Foyle GSW 11/17/2001 GSW vs. CHI W 8 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 1 0 0 2 1
+p714
+aVChris Mills GSW 11/17/2001 GSW vs. CHI W 27 8 1 7 14.3 1 2 50.0 5 7 71.4 0 1 1 2 0 0 1 2 -2
+p715
+aVBob Sura GSW 11/17/2001 GSW vs. CHI W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -8
+p716
+aVDanny Fortson GSW 11/17/2001 GSW vs. CHI W 33 19 8 14 57.1 0 0 - 3 6 50.0 4 7 11 1 0 0 3 6 6
+p717
+aVAntawn Jamison GSW 11/17/2001 GSW vs. CHI W 34 16 7 14 50.0 0 1 0.0 2 2 100.0 1 7 8 2 1 0 1 2 7
+p718
+aVAntawn Jamison GSW 11/16/2001 GSW @ SEA L 41 16 7 20 35.0 0 0 - 2 2 100.0 4 1 5 3 1 0 4 2 -18
+p719
+aVTroy Murphy GSW 11/16/2001 GSW @ SEA L 14 7 1 4 25.0 0 0 - 5 6 83.3 2 2 4 1 0 0 1 4 3
+p720
+aVAdonal Foyle GSW 11/16/2001 GSW @ SEA L 17 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 1 1 1 0
+p721
+aVErick Dampier GSW 11/16/2001 GSW @ SEA L 21 7 1 4 25.0 0 0 - 5 6 83.3 2 1 3 0 0 2 1 2 4
+p722
+aVJason Richardson GSW 11/16/2001 GSW @ SEA L 27 12 5 11 45.5 1 2 50.0 1 2 50.0 5 4 9 4 2 0 2 1 -6
+p723
+aVDanny Fortson GSW 11/16/2001 GSW @ SEA L 21 2 1 7 14.3 0 0 - 0 0 - 5 7 12 1 0 0 4 2 -9
+p724
+aVMookie Blaylock GSW 11/16/2001 GSW @ SEA L 23 7 3 7 42.9 0 2 0.0 1 1 100.0 0 1 1 3 2 1 1 0 1
+p725
+aVBob Sura GSW 11/16/2001 GSW @ SEA L 21 15 6 9 66.7 1 2 50.0 2 2 100.0 0 1 1 0 1 0 2 2 -3
+p726
+aVChris Mills GSW 11/16/2001 GSW @ SEA L 29 9 4 10 40.0 1 7 14.3 0 0 - 1 6 7 1 0 0 3 3 -7
+p727
+aVLarry Hughes GSW 11/16/2001 GSW @ SEA L 25 16 6 10 60.0 1 3 33.3 3 4 75.0 1 1 2 2 1 0 2 0 -10
+p728
+aVAntawn Jamison GSW 11/14/2001 GSW vs. TOR L 40 19 8 15 53.3 0 0 - 3 4 75.0 1 3 4 3 2 3 4 4 -4
+p729
+aVAdonal Foyle GSW 11/14/2001 GSW vs. TOR L 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -7
+p730
+aVTroy Murphy GSW 11/14/2001 GSW vs. TOR L 23 8 3 7 42.9 0 1 0.0 2 4 50.0 2 5 7 1 1 1 0 3 -13
+p731
+aVDanny Fortson GSW 11/14/2001 GSW vs. TOR L 22 2 0 8 0.0 0 0 - 2 2 100.0 4 8 12 2 0 0 2 2 12
+p732
+aVMookie Blaylock GSW 11/14/2001 GSW vs. TOR L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -11
+p733
+aVChris Mills GSW 11/14/2001 GSW vs. TOR L 20 7 1 6 16.7 0 2 0.0 5 6 83.3 0 3 3 0 1 0 2 3 -16
+p734
+aVErick Dampier GSW 11/14/2001 GSW vs. TOR L 37 22 9 17 52.9 0 0 - 4 5 80.0 7 7 14 1 0 5 3 2 3
+p735
+aVBob Sura GSW 11/14/2001 GSW vs. TOR L 23 7 2 5 40.0 0 2 0.0 3 6 50.0 1 2 3 3 1 0 1 0 -13
+p736
+aVLarry Hughes GSW 11/14/2001 GSW vs. TOR L 31 9 3 10 30.0 0 1 0.0 3 4 75.0 1 4 5 3 0 0 2 3 7
+p737
+aVJason Richardson GSW 11/14/2001 GSW vs. TOR L 23 6 3 9 33.3 0 2 0.0 0 2 0.0 3 5 8 3 1 0 2 1 7
+p738
+aVLarry Hughes GSW 11/12/2001 GSW @ MEM W 20 4 2 9 22.2 0 0 - 0 0 - 1 2 3 2 1 0 1 4 -4
+p739
+aVAntawn Jamison GSW 11/12/2001 GSW @ MEM W 21 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 0 1 3 0 -9
+p740
+aVErick Dampier GSW 11/12/2001 GSW @ MEM W 27 4 1 7 14.3 0 0 - 2 2 100.0 1 2 3 0 0 3 1 3 -15
+p741
+aVAdonal Foyle GSW 11/12/2001 GSW @ MEM W 21 8 4 7 57.1 0 0 - 0 0 - 3 2 5 0 1 3 0 3 19
+p742
+aVJason Richardson GSW 11/12/2001 GSW @ MEM W 21 8 4 6 66.7 0 1 0.0 0 0 - 1 5 6 2 3 1 2 3 -5
+p743
+aVBob Sura GSW 11/12/2001 GSW @ MEM W 27 12 4 11 36.4 1 2 50.0 3 6 50.0 1 3 4 3 2 1 3 5 12
+p744
+aVDanny Fortson GSW 11/12/2001 GSW @ MEM W 37 20 7 13 53.8 0 0 - 6 7 85.7 8 14 22 1 0 0 9 3 5
+p745
+aVChris Mills GSW 11/12/2001 GSW @ MEM W 27 17 7 12 58.3 2 3 66.7 1 3 33.3 0 2 2 2 0 0 3 3 16
+p746
+aVTroy Murphy GSW 11/12/2001 GSW @ MEM W 12 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 1 0 2 3 5
+p747
+aVMookie Blaylock GSW 11/12/2001 GSW @ MEM W 28 6 2 3 66.7 1 2 50.0 1 2 50.0 0 0 0 5 2 0 0 3 11
+p748
+aVChris Mills GSW 11/10/2001 GSW @ NYK W 19 12 5 6 83.3 2 2 100.0 0 0 - 0 3 3 1 1 0 0 1 12
+p749
+aVMarc Jackson GSW 11/10/2001 GSW @ NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p750
+aVJason Richardson GSW 11/10/2001 GSW @ NYK W 26 15 4 11 36.4 2 3 66.7 5 6 83.3 1 3 4 5 0 0 0 1 8
+p751
+aVDanny Fortson GSW 11/10/2001 GSW @ NYK W 30 3 1 6 16.7 0 0 - 1 3 33.3 4 10 14 0 0 0 2 3 12
+p752
+aVTroy Murphy GSW 11/10/2001 GSW @ NYK W 16 11 2 5 40.0 0 0 - 7 7 100.0 1 2 3 2 3 0 1 1 5
+p753
+aVMookie Blaylock GSW 11/10/2001 GSW @ NYK W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 0 8
+p754
+aVLarry Hughes GSW 11/10/2001 GSW @ NYK W 32 16 6 11 54.5 2 3 66.7 2 2 100.0 2 4 6 6 1 0 4 2 11
+p755
+aVErick Dampier GSW 11/10/2001 GSW @ NYK W 20 14 6 8 75.0 0 0 - 2 2 100.0 0 5 5 0 0 2 1 6 7
+p756
+aVAntawn Jamison GSW 11/10/2001 GSW @ NYK W 29 4 2 13 15.4 0 2 0.0 0 0 - 4 1 5 5 0 0 2 1 6
+p757
+aVAdonal Foyle GSW 11/10/2001 GSW @ NYK W 24 7 3 5 60.0 0 0 - 1 4 25.0 0 4 4 0 0 2 1 2 14
+p758
+aVCedric Henderson GSW 11/10/2001 GSW @ NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 1
+p759
+aVBob Sura GSW 11/10/2001 GSW @ NYK W 23 6 2 4 50.0 0 0 - 2 2 100.0 0 6 6 2 0 1 1 3 10
+p760
+aVDanny Fortson GSW 11/09/2001 GSW @ WAS W 35 16 6 9 66.7 0 0 - 4 4 100.0 4 12 16 3 2 0 3 4 20
+p761
+aVTroy Murphy GSW 11/09/2001 GSW @ WAS W 17 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 1 0 1 5 -5
+p762
+aVAntawn Jamison GSW 11/09/2001 GSW @ WAS W 36 26 10 17 58.8 0 0 - 6 8 75.0 2 2 4 2 0 0 4 3 14
+p763
+aVCedric Henderson GSW 11/09/2001 GSW @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p764
+aVJason Richardson GSW 11/09/2001 GSW @ WAS W 17 5 2 2 100.0 1 1 100.0 0 2 0.0 0 1 1 0 3 0 2 1 0
+p765
+aVLarry Hughes GSW 11/09/2001 GSW @ WAS W 31 26 7 15 46.7 1 2 50.0 11 12 91.7 2 2 4 4 3 1 4 3 6
+p766
+aVMookie Blaylock GSW 11/09/2001 GSW @ WAS W 17 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 4 0 0 0 0 0
+p767
+aVChris Mills GSW 11/09/2001 GSW @ WAS W 22 11 4 6 66.7 1 1 100.0 2 2 100.0 0 3 3 4 0 0 1 3 11
+p768
+aVMarc Jackson GSW 11/09/2001 GSW @ WAS W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p769
+aVBob Sura GSW 11/09/2001 GSW @ WAS W 18 6 2 5 40.0 0 0 - 2 2 100.0 2 0 2 2 0 0 1 4 0
+p770
+aVAdonal Foyle GSW 11/09/2001 GSW @ WAS W 15 2 1 2 50.0 0 0 - 0 2 0.0 2 4 6 1 0 2 1 3 4
+p771
+aVErick Dampier GSW 11/09/2001 GSW @ WAS W 25 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 1 0 0 5 2 9
+p772
+aVGilbert Arenas GSW 11/07/2001 GSW @ TOR L 8 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 0 1
+p773
+aVAntawn Jamison GSW 11/07/2001 GSW @ TOR L 30 10 3 12 25.0 1 1 100.0 3 7 42.9 1 2 3 2 1 1 2 2 -19
+p774
+aVAdonal Foyle GSW 11/07/2001 GSW @ TOR L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 5
+p775
+aVDanny Fortson GSW 11/07/2001 GSW @ TOR L 28 8 3 14 21.4 0 0 - 2 2 100.0 7 7 14 1 1 1 1 1 -16
+p776
+aVJason Richardson GSW 11/07/2001 GSW @ TOR L 29 16 5 9 55.6 1 1 100.0 5 6 83.3 0 2 2 2 1 1 0 2 1
+p777
+aVLarry Hughes GSW 11/07/2001 GSW @ TOR L 24 11 5 11 45.5 0 1 0.0 1 1 100.0 2 2 4 4 1 0 4 2 -9
+p778
+aVErick Dampier GSW 11/07/2001 GSW @ TOR L 29 9 4 13 30.8 0 0 - 1 2 50.0 5 4 9 0 0 0 2 1 -21
+p779
+aVMarc Jackson GSW 11/07/2001 GSW @ TOR L 12 11 3 7 42.9 0 0 - 5 6 83.3 2 1 3 0 1 0 0 2 -1
+p780
+aVTroy Murphy GSW 11/07/2001 GSW @ TOR L 23 14 3 7 42.9 0 0 - 8 10 80.0 3 7 10 1 0 1 2 1 -1
+p781
+aVChris Mills GSW 11/07/2001 GSW @ TOR L 24 7 2 7 28.6 1 1 100.0 2 3 66.7 0 3 3 0 0 0 0 3 -4
+p782
+aVBob Sura GSW 11/07/2001 GSW @ TOR L 13 5 1 5 20.0 1 3 33.3 2 2 100.0 0 2 2 4 1 0 0 2 -12
+p783
+aVMookie Blaylock GSW 11/07/2001 GSW @ TOR L 16 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 4 2 0 0 0 -9
+p784
+aVChris Mills GSW 11/04/2001 GSW vs. POR W 10 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 1 4
+p785
+aVTroy Murphy GSW 11/04/2001 GSW vs. POR W 5 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 1 2
+p786
+aVBob Sura GSW 11/04/2001 GSW vs. POR W 27 8 3 9 33.3 0 1 0.0 2 2 100.0 3 2 5 1 3 0 1 2 8
+p787
+aVDanny Fortson GSW 11/04/2001 GSW vs. POR W 38 17 5 16 31.3 0 0 - 7 10 70.0 7 14 21 3 0 0 2 3 17
+p788
+aVGilbert Arenas GSW 11/04/2001 GSW vs. POR W 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p789
+aVLarry Hughes GSW 11/04/2001 GSW vs. POR W 25 14 6 11 54.5 1 4 25.0 1 1 100.0 1 2 3 6 3 0 6 2 11
+p790
+aVJason Richardson GSW 11/04/2001 GSW vs. POR W 21 6 3 8 37.5 0 2 0.0 0 2 0.0 3 2 5 2 0 0 0 0 2
+p791
+aVMookie Blaylock GSW 11/04/2001 GSW vs. POR W 23 7 3 5 60.0 0 0 - 1 2 50.0 0 5 5 2 0 0 2 0 -1
+p792
+aVAdonal Foyle GSW 11/04/2001 GSW vs. POR W 20 4 2 5 40.0 0 0 - 0 0 - 2 1 3 1 0 3 0 2 -4
+p793
+aVMarc Jackson GSW 11/04/2001 GSW vs. POR W 5 0 0 5 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 0 -9
+p794
+aVAntawn Jamison GSW 11/04/2001 GSW vs. POR W 36 24 8 15 53.3 2 2 100.0 6 8 75.0 4 6 10 3 0 0 1 1 13
+p795
+aVErick Dampier GSW 11/04/2001 GSW vs. POR W 28 8 2 8 25.0 0 0 - 4 8 50.0 6 1 7 3 0 0 4 4 14
+p796
+aVAdonal Foyle GSW 11/03/2001 GSW @ LAC W 18 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 5 -12
+p797
+aVBob Sura GSW 11/03/2001 GSW @ LAC W 23 8 4 10 40.0 0 1 0.0 0 0 - 1 2 3 3 2 0 3 0 1
+p798
+aVAntawn Jamison GSW 11/03/2001 GSW @ LAC W 46 29 10 26 38.5 0 1 0.0 9 13 69.2 9 10 19 5 1 0 0 1 0
+p799
+aVJason Richardson GSW 11/03/2001 GSW @ LAC W 30 12 5 14 35.7 2 5 40.0 0 1 0.0 2 2 4 0 1 1 2 4 1
+p800
+aVDanny Fortson GSW 11/03/2001 GSW @ LAC W 20 6 2 6 33.3 0 0 - 2 2 100.0 3 2 5 1 0 0 1 6 3
+p801
+aVTroy Murphy GSW 11/03/2001 GSW @ LAC W 15 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 2 4 -7
+p802
+aVMookie Blaylock GSW 11/03/2001 GSW @ LAC W 13 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 -14
+p803
+aVErick Dampier GSW 11/03/2001 GSW @ LAC W 31 14 4 8 50.0 0 0 - 6 6 100.0 2 2 4 2 0 3 4 6 10
+p804
+aVChris Mills GSW 11/03/2001 GSW @ LAC W 28 20 9 11 81.8 1 1 100.0 1 1 100.0 1 1 2 1 1 1 1 1 12
+p805
+aVLarry Hughes GSW 11/03/2001 GSW @ LAC W 40 15 5 14 35.7 0 0 - 5 8 62.5 2 1 3 10 1 1 0 4 16
+p806
+aVChris Mills GSW 11/01/2001 GSW vs. PHX L 22 16 6 9 66.7 2 3 66.7 2 2 100.0 2 6 8 2 2 0 2 4 12
+p807
+aVAdonal Foyle GSW 11/01/2001 GSW vs. PHX L 16 7 3 4 75.0 0 0 - 1 6 16.7 2 2 4 0 1 6 0 0 7
+p808
+aVJason Richardson GSW 11/01/2001 GSW vs. PHX L 18 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 3 0 0 1 1 0
+p809
+aVTroy Murphy GSW 11/01/2001 GSW vs. PHX L 27 14 7 11 63.6 0 0 - 0 0 - 3 10 13 3 0 1 3 1 9
+p810
+aVLarry Hughes GSW 11/01/2001 GSW vs. PHX L 33 10 4 7 57.1 0 0 - 2 5 40.0 0 0 0 4 0 0 3 4 -14
+p811
+aVErick Dampier GSW 11/01/2001 GSW vs. PHX L 25 14 4 7 57.1 0 0 - 6 8 75.0 2 5 7 2 1 1 3 4 -17
+p812
+aVDanny Fortson GSW 11/01/2001 GSW vs. PHX L 21 12 2 6 33.3 0 0 - 8 9 88.9 3 6 9 1 1 0 0 1 -15
+p813
+aVBob Sura GSW 11/01/2001 GSW vs. PHX L 21 4 2 3 66.7 0 0 - 0 0 - 1 1 2 3 1 1 3 1 -11
+p814
+aVAntawn Jamison GSW 11/01/2001 GSW vs. PHX L 32 18 6 15 40.0 0 1 0.0 6 10 60.0 2 1 3 0 0 2 3 2 -17
+p815
+aVMookie Blaylock GSW 11/01/2001 GSW vs. PHX L 22 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 6 2 0 3 1 14
+p816
+aVMarc Jackson GSW 11/01/2001 GSW vs. PHX L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p817
+aVDanny Fortson GSW 10/31/2001 GSW @ POR L 32 15 5 14 35.7 0 0 - 5 6 83.3 1 11 12 0 1 0 1 2 0
+p818
+aVAdonal Foyle GSW 10/31/2001 GSW @ POR L 15 7 3 4 75.0 0 0 - 1 3 33.3 2 1 3 0 1 2 1 3 -4
+p819
+aVAntawn Jamison GSW 10/31/2001 GSW @ POR L 44 23 10 24 41.7 0 0 - 3 3 100.0 3 2 5 3 0 1 2 2 -4
+p820
+aVBob Sura GSW 10/31/2001 GSW @ POR L 31 5 2 6 33.3 1 3 33.3 0 0 - 1 3 4 2 3 0 1 2 -5
+p821
+aVTroy Murphy GSW 10/31/2001 GSW @ POR L 16 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 0 2 1 1 1 -5
+p822
+aVMookie Blaylock GSW 10/31/2001 GSW @ POR L 28 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 6 2 0 1 1 0
+p823
+aVErick Dampier GSW 10/31/2001 GSW @ POR L 33 18 7 13 53.8 0 0 - 4 6 66.7 4 3 7 1 0 2 5 4 -1
+p824
+aVLarry Hughes GSW 10/31/2001 GSW @ POR L 20 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 3 0 1 1 2 -5
+p825
+aVChris Mills GSW 10/31/2001 GSW @ POR L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -1
+p826
+aVJason Richardson GSW 10/31/2001 GSW @ POR L 17 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 2 0 0 1 2 0
+p827
+a.

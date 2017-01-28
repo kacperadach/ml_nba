@@ -1,0 +1,1656 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAustin Croshere GSW 04/16/2008 GSW vs. SEA L 20 7 3 7 42.9 1 5 20.0 0 0 - 2 4 6 2 1 0 0 0 -8
+p2
+aVMonta Ellis GSW 04/16/2008 GSW vs. SEA L 34 24 11 17 64.7 0 0 - 2 2 100.0 2 4 6 6 1 0 4 1 -6
+p3
+aVMickael Pietrus GSW 04/16/2008 GSW vs. SEA L 18 11 4 10 40.0 3 7 42.9 0 0 - 1 2 3 1 0 2 0 3 2
+p4
+aVAl Harrington GSW 04/16/2008 GSW vs. SEA L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 2
+p5
+aVBaron Davis GSW 04/16/2008 GSW vs. SEA L 39 21 8 22 36.4 5 12 41.7 0 0 - 2 4 6 7 2 0 4 4 -10
+p6
+aVAndris Biedrins GSW 04/16/2008 GSW vs. SEA L 40 20 8 13 61.5 0 0 - 4 7 57.1 10 7 17 0 1 3 2 5 -13
+p7
+aVCJ Watson GSW 04/16/2008 GSW vs. SEA L 4 0 0 2 0.0 0 1 0.0 0 0 - 2 0 2 1 0 0 1 0 -5
+p8
+aVMarco Belinelli GSW 04/16/2008 GSW vs. SEA L 19 17 6 10 60.0 5 6 83.3 0 0 - 0 0 0 2 1 0 0 0 11
+p9
+aVKelenna Azubuike GSW 04/16/2008 GSW vs. SEA L 15 6 2 6 33.3 0 2 0.0 2 2 100.0 1 3 4 1 0 0 0 2 8
+p10
+aVMatt Barnes GSW 04/16/2008 GSW vs. SEA L 7 2 1 5 20.0 0 3 0.0 0 0 - 1 4 5 0 0 0 0 0 -2
+p11
+aVStephen Jackson GSW 04/16/2008 GSW vs. SEA L 26 11 3 13 23.1 1 7 14.3 4 5 80.0 0 0 0 3 0 1 1 1 -4
+p12
+aVMonta Ellis GSW 04/14/2008 GSW @ PHX L 43 20 8 20 40.0 0 0 - 4 4 100.0 1 7 8 6 6 0 3 5 -4
+p13
+aVAndris Biedrins GSW 04/14/2008 GSW @ PHX L 26 16 8 10 80.0 0 0 - 0 0 - 5 6 11 2 1 0 0 4 -14
+p14
+aVKosta Perovic GSW 04/14/2008 GSW @ PHX L 13 4 1 5 20.0 0 0 - 2 4 50.0 3 2 5 0 0 1 0 4 10
+p15
+aVAl Harrington GSW 04/14/2008 GSW @ PHX L 26 6 2 6 33.3 1 3 33.3 1 1 100.0 1 1 2 2 0 0 1 2 2
+p16
+aVBaron Davis GSW 04/14/2008 GSW @ PHX L 17 7 2 13 15.4 1 3 33.3 2 4 50.0 1 0 1 3 0 0 0 0 -6
+p17
+aVStephen Jackson GSW 04/14/2008 GSW @ PHX L 31 23 9 18 50.0 4 9 44.4 1 2 50.0 0 1 1 4 2 0 4 2 -1
+p18
+aVKelenna Azubuike GSW 04/14/2008 GSW @ PHX L 32 17 8 15 53.3 1 2 50.0 0 0 - 2 7 9 4 0 0 0 5 4
+p19
+aVAustin Croshere GSW 04/14/2008 GSW @ PHX L 20 14 5 7 71.4 2 2 100.0 2 2 100.0 0 3 3 0 0 0 1 4 0
+p20
+aVMarco Belinelli GSW 04/14/2008 GSW @ PHX L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p21
+aVMickael Pietrus GSW 04/14/2008 GSW @ PHX L 25 9 3 9 33.3 1 3 33.3 2 3 66.7 1 2 3 0 1 2 0 5 -14
+p22
+aVMonta Ellis GSW 04/12/2008 GSW vs. LAC W 46 17 6 12 50.0 0 0 - 5 6 83.3 0 4 4 7 2 0 1 0 3
+p23
+aVAl Harrington GSW 04/12/2008 GSW vs. LAC W 35 17 7 14 50.0 3 6 50.0 0 0 - 1 7 8 2 3 1 0 5 13
+p24
+aVAndris Biedrins GSW 04/12/2008 GSW vs. LAC W 34 10 3 6 50.0 0 0 - 4 6 66.7 3 11 14 1 1 1 1 5 21
+p25
+aVAustin Croshere GSW 04/12/2008 GSW vs. LAC W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p26
+aVStephen Jackson GSW 04/12/2008 GSW vs. LAC W 38 28 8 17 47.1 2 8 25.0 10 12 83.3 0 3 3 4 1 0 0 4 8
+p27
+aVKelenna Azubuike GSW 04/12/2008 GSW vs. LAC W 10 5 1 7 14.3 0 1 0.0 3 4 75.0 3 0 3 0 0 0 0 2 -5
+p28
+aVMarco Belinelli GSW 04/12/2008 GSW vs. LAC W 8 5 2 3 66.7 0 1 0.0 1 2 50.0 0 1 1 1 1 0 0 1 -2
+p29
+aVPatrick O'Bryant GSW 04/12/2008 GSW vs. LAC W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p30
+aVBaron Davis GSW 04/12/2008 GSW vs. LAC W 38 25 10 21 47.6 1 4 25.0 4 4 100.0 0 5 5 9 1 1 4 2 18
+p31
+aVMickael Pietrus GSW 04/12/2008 GSW vs. LAC W 23 11 4 7 57.1 3 5 60.0 0 0 - 3 3 6 0 0 1 2 5 -15
+p32
+aVKelenna Azubuike GSW 04/10/2008 GSW vs. DEN L 11 5 2 8 25.0 1 3 33.3 0 0 - 2 0 2 1 1 0 1 1 -8
+p33
+aVStephen Jackson GSW 04/10/2008 GSW vs. DEN L 43 18 5 17 29.4 2 6 33.3 6 8 75.0 2 5 7 5 2 0 3 5 4
+p34
+aVMatt Barnes GSW 04/10/2008 GSW vs. DEN L 6 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -1
+p35
+aVMonta Ellis GSW 04/10/2008 GSW vs. DEN L 48 29 13 26 50.0 0 2 0.0 3 7 42.9 2 6 8 5 5 0 6 3 -9
+p36
+aVAl Harrington GSW 04/10/2008 GSW vs. DEN L 33 20 7 11 63.6 2 5 40.0 4 6 66.7 0 3 3 2 0 0 1 2 -7
+p37
+aVAndris Biedrins GSW 04/10/2008 GSW vs. DEN L 39 11 5 8 62.5 0 0 - 1 2 50.0 6 13 19 1 1 2 2 2 -3
+p38
+aVBaron Davis GSW 04/10/2008 GSW vs. DEN L 46 20 9 25 36.0 1 9 11.1 1 1 100.0 5 5 10 11 1 1 3 3 -5
+p39
+aVAustin Croshere GSW 04/10/2008 GSW vs. DEN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p40
+aVMickael Pietrus GSW 04/10/2008 GSW vs. DEN L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 1 1 3 -14
+p41
+aVAndris Biedrins GSW 04/08/2008 GSW vs. SAC W 35 17 7 12 58.3 0 0 - 3 6 50.0 7 10 17 1 1 3 0 4 10
+p42
+aVStephen Jackson GSW 04/08/2008 GSW vs. SAC W 39 20 5 12 41.7 2 7 28.6 8 9 88.9 0 1 1 3 1 0 4 3 -2
+p43
+aVPatrick O'Bryant GSW 04/08/2008 GSW vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -3
+p44
+aVBaron Davis GSW 04/08/2008 GSW vs. SAC W 42 33 9 18 50.0 4 6 66.7 11 12 91.7 1 4 5 9 3 1 5 2 9
+p45
+aVCJ Watson GSW 04/08/2008 GSW vs. SAC W 18 9 3 5 60.0 0 1 0.0 3 6 50.0 2 1 3 0 1 0 1 0 -3
+p46
+aVAustin Croshere GSW 04/08/2008 GSW vs. SAC W 12 7 1 2 50.0 0 0 - 5 6 83.3 2 4 6 3 0 2 2 4 3
+p47
+aVAl Harrington GSW 04/08/2008 GSW vs. SAC W 32 17 6 13 46.2 2 5 40.0 3 4 75.0 1 6 7 3 5 0 1 3 9
+p48
+aVKelenna Azubuike GSW 04/08/2008 GSW vs. SAC W 8 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 0 3 6
+p49
+aVMonta Ellis GSW 04/08/2008 GSW vs. SAC W 34 16 6 12 50.0 0 0 - 4 5 80.0 1 3 4 7 1 0 2 2 11
+p50
+aVMickael Pietrus GSW 04/08/2008 GSW vs. SAC W 13 10 3 5 60.0 1 3 33.3 3 4 75.0 2 0 2 1 0 2 1 2 1
+p51
+aVMatt Barnes GSW 04/08/2008 GSW vs. SAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p52
+aVBrandan Wright GSW 04/08/2008 GSW vs. SAC W 6 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p53
+aVMonta Ellis GSW 04/06/2008 GSW @ NOH L 45 35 17 26 65.4 0 2 0.0 1 1 100.0 5 5 10 2 4 1 3 5 -8
+p54
+aVMarco Belinelli GSW 04/06/2008 GSW @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p55
+aVBrandan Wright GSW 04/06/2008 GSW @ NOH L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p56
+aVAndris Biedrins GSW 04/06/2008 GSW @ NOH L 37 17 7 10 70.0 0 0 - 3 5 60.0 6 9 15 0 0 1 2 2 -8
+p57
+aVStephen Jackson GSW 04/06/2008 GSW @ NOH L 43 6 3 11 27.3 0 6 0.0 0 0 - 0 1 1 8 0 0 5 3 -9
+p58
+aVKelenna Azubuike GSW 04/06/2008 GSW @ NOH L 23 3 1 8 12.5 1 6 16.7 0 0 - 0 5 5 0 0 0 0 1 -13
+p59
+aVAl Harrington GSW 04/06/2008 GSW @ NOH L 39 16 6 16 37.5 1 7 14.3 3 3 100.0 3 5 8 2 1 0 3 3 -8
+p60
+aVMatt Barnes GSW 04/06/2008 GSW @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p61
+aVBaron Davis GSW 04/06/2008 GSW @ NOH L 43 17 8 22 36.4 1 8 12.5 0 0 - 0 3 3 8 3 1 4 4 -6
+p62
+aVBaron Davis GSW 04/04/2008 GSW @ MEM W 32 9 3 13 23.1 1 3 33.3 2 2 100.0 1 3 4 9 1 0 3 1 16
+p63
+aVAndris Biedrins GSW 04/04/2008 GSW @ MEM W 31 21 8 11 72.7 0 0 - 5 6 83.3 5 12 17 0 1 2 2 4 26
+p64
+aVKosta Perovic GSW 04/04/2008 GSW @ MEM W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 2
+p65
+aVStephen Jackson GSW 04/04/2008 GSW @ MEM W 29 14 6 13 46.2 1 6 16.7 1 1 100.0 1 3 4 6 1 1 2 3 30
+p66
+aVMatt Barnes GSW 04/04/2008 GSW @ MEM W 8 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 3 5
+p67
+aVAustin Croshere GSW 04/04/2008 GSW @ MEM W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p68
+aVMonta Ellis GSW 04/04/2008 GSW @ MEM W 31 19 8 12 66.7 0 0 - 3 4 75.0 0 6 6 1 4 0 4 3 27
+p69
+aVBrandan Wright GSW 04/04/2008 GSW @ MEM W 19 10 5 7 71.4 0 0 - 0 0 - 0 4 4 1 1 2 0 2 1
+p70
+aVCJ Watson GSW 04/04/2008 GSW @ MEM W 8 9 4 4 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 0 5
+p71
+aVKelenna Azubuike GSW 04/04/2008 GSW @ MEM W 40 15 6 12 50.0 3 5 60.0 0 0 - 2 8 10 0 0 0 1 2 26
+p72
+aVAl Harrington GSW 04/04/2008 GSW @ MEM W 14 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 1 0 1 1 3
+p73
+aVMarco Belinelli GSW 04/04/2008 GSW @ MEM W 23 13 6 11 54.5 1 3 33.3 0 0 - 1 3 4 2 0 0 2 2 12
+p74
+aVAndris Biedrins GSW 04/02/2008 GSW @ DAL L 24 7 2 3 66.7 0 0 - 3 4 75.0 2 6 8 1 1 1 2 2 -13
+p75
+aVKosta Perovic GSW 04/02/2008 GSW @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p76
+aVCJ Watson GSW 04/02/2008 GSW @ DAL L 10 0 0 6 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -7
+p77
+aVBrandan Wright GSW 04/02/2008 GSW @ DAL L 16 7 3 5 60.0 0 0 - 1 1 100.0 1 1 2 0 1 1 1 0 -7
+p78
+aVKelenna Azubuike GSW 04/02/2008 GSW @ DAL L 30 10 4 7 57.1 2 2 100.0 0 0 - 0 2 2 1 0 3 0 0 -15
+p79
+aVMarco Belinelli GSW 04/02/2008 GSW @ DAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p80
+aVBaron Davis GSW 04/02/2008 GSW @ DAL L 37 20 8 17 47.1 0 3 0.0 4 4 100.0 1 2 3 1 3 0 6 4 -18
+p81
+aVMatt Barnes GSW 04/02/2008 GSW @ DAL L 11 2 1 5 20.0 0 2 0.0 0 0 - 2 1 3 0 0 1 0 0 -6
+p82
+aVStephen Jackson GSW 04/02/2008 GSW @ DAL L 32 2 1 11 9.1 0 4 0.0 0 0 - 0 5 5 2 2 0 2 2 -27
+p83
+aVAl Harrington GSW 04/02/2008 GSW @ DAL L 20 6 1 9 11.1 0 2 0.0 4 4 100.0 4 1 5 1 0 0 3 4 -3
+p84
+aVAustin Croshere GSW 04/02/2008 GSW @ DAL L 14 3 0 1 0.0 0 0 - 3 4 75.0 0 2 2 1 0 0 0 1 -7
+p85
+aVMonta Ellis GSW 04/02/2008 GSW @ DAL L 36 27 12 19 63.2 2 2 100.0 1 2 50.0 2 4 6 3 0 0 1 1 -22
+p86
+aVMarco Belinelli GSW 04/01/2008 GSW @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p87
+aVStephen Jackson GSW 04/01/2008 GSW @ SAS L 34 6 2 12 16.7 2 5 40.0 0 0 - 0 3 3 1 0 0 2 0 -21
+p88
+aVAndris Biedrins GSW 04/01/2008 GSW @ SAS L 16 8 1 5 20.0 0 0 - 6 6 100.0 5 2 7 0 0 1 0 2 2
+p89
+aVMonta Ellis GSW 04/01/2008 GSW @ SAS L 28 14 5 16 31.3 0 0 - 4 7 57.1 1 4 5 2 1 1 5 2 -23
+p90
+aVAustin Croshere GSW 04/01/2008 GSW @ SAS L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 1 0 1 -7
+p91
+aVBaron Davis GSW 04/01/2008 GSW @ SAS L 30 19 7 17 41.2 3 6 50.0 2 2 100.0 0 6 6 2 3 1 2 1 -3
+p92
+aVKosta Perovic GSW 04/01/2008 GSW @ SAS L 7 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 1
+p93
+aVKelenna Azubuike GSW 04/01/2008 GSW @ SAS L 32 9 4 7 57.1 1 1 100.0 0 0 - 1 2 3 0 1 0 0 1 -4
+p94
+aVCJ Watson GSW 04/01/2008 GSW @ SAS L 30 13 5 9 55.6 1 2 50.0 2 3 66.7 1 1 2 1 3 0 2 0 -17
+p95
+aVMatt Barnes GSW 04/01/2008 GSW @ SAS L 16 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 2 1 -32
+p96
+aVBrandan Wright GSW 04/01/2008 GSW @ SAS L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -11
+p97
+aVAl Harrington GSW 04/01/2008 GSW @ SAS L 15 9 4 10 40.0 1 4 25.0 0 0 - 1 3 4 1 1 0 0 2 -11
+p98
+aVAustin Croshere GSW 03/30/2008 GSW vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p99
+aVMarco Belinelli GSW 03/30/2008 GSW vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p100
+aVKelenna Azubuike GSW 03/30/2008 GSW vs. DAL W 44 15 5 9 55.6 2 4 50.0 3 6 50.0 0 7 7 0 0 0 2 2 22
+p101
+aVMatt Barnes GSW 03/30/2008 GSW vs. DAL W 17 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 5 10
+p102
+aVBaron Davis GSW 03/30/2008 GSW vs. DAL W 37 21 7 17 41.2 2 8 25.0 5 7 71.4 4 2 6 4 0 0 1 3 0
+p103
+aVStephen Jackson GSW 03/30/2008 GSW vs. DAL W 43 16 5 13 38.5 1 4 25.0 5 6 83.3 0 5 5 5 1 0 4 1 8
+p104
+aVAl Harrington GSW 03/30/2008 GSW vs. DAL W 26 14 4 11 36.4 1 3 33.3 5 5 100.0 5 4 9 1 1 2 1 4 -6
+p105
+aVMonta Ellis GSW 03/30/2008 GSW vs. DAL W 39 30 13 26 50.0 0 1 0.0 4 6 66.7 1 3 4 5 2 1 0 3 12
+p106
+aVBrandan Wright GSW 03/30/2008 GSW vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p107
+aVCJ Watson GSW 03/30/2008 GSW vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p108
+aVAndris Biedrins GSW 03/30/2008 GSW vs. DAL W 29 16 5 7 71.4 0 0 - 6 6 100.0 5 9 14 2 0 1 0 5 3
+p109
+aVBaron Davis GSW 03/29/2008 GSW @ DEN L 44 28 11 24 45.8 4 10 40.0 2 3 66.7 1 3 4 7 2 0 4 4 -15
+p110
+aVMarco Belinelli GSW 03/29/2008 GSW @ DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p111
+aVMonta Ellis GSW 03/29/2008 GSW @ DEN L 48 22 9 22 40.9 0 1 0.0 4 5 80.0 2 5 7 6 4 0 5 1 -9
+p112
+aVCJ Watson GSW 03/29/2008 GSW @ DEN L 0 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p113
+aVKelenna Azubuike GSW 03/29/2008 GSW @ DEN L 28 6 3 15 20.0 0 5 0.0 0 0 - 3 2 5 0 1 1 0 2 1
+p114
+aVMatt Barnes GSW 03/29/2008 GSW @ DEN L 8 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 1 2 -13
+p115
+aVAustin Croshere GSW 03/29/2008 GSW @ DEN L 15 5 1 5 20.0 1 2 50.0 2 2 100.0 4 3 7 1 0 1 0 6 3
+p116
+aVAl Harrington GSW 03/29/2008 GSW @ DEN L 15 2 0 4 0.0 0 3 0.0 2 2 100.0 0 4 4 3 0 1 0 3 -9
+p117
+aVAndris Biedrins GSW 03/29/2008 GSW @ DEN L 34 17 8 10 80.0 0 0 - 1 2 50.0 3 14 17 3 0 2 1 1 13
+p118
+aVStephen Jackson GSW 03/29/2008 GSW @ DEN L 46 25 7 18 38.9 4 7 57.1 7 7 100.0 0 5 5 4 0 0 2 0 -10
+p119
+aVKelenna Azubuike GSW 03/27/2008 GSW vs. POR W 32 14 4 9 44.4 1 3 33.3 5 6 83.3 3 2 5 1 0 1 0 0 25
+p120
+aVStephen Jackson GSW 03/27/2008 GSW vs. POR W 42 24 8 20 40.0 4 7 57.1 4 4 100.0 2 3 5 2 0 0 1 0 20
+p121
+aVMarco Belinelli GSW 03/27/2008 GSW vs. POR W 4 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p122
+aVMonta Ellis GSW 03/27/2008 GSW vs. POR W 40 18 6 10 60.0 0 1 0.0 6 6 100.0 2 8 10 5 1 0 1 3 17
+p123
+aVBrandan Wright GSW 03/27/2008 GSW vs. POR W 12 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 1 2 1 2 -6
+p124
+aVCJ Watson GSW 03/27/2008 GSW vs. POR W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p125
+aVMatt Barnes GSW 03/27/2008 GSW vs. POR W 19 8 2 4 50.0 2 3 66.7 2 2 100.0 2 6 8 1 1 1 0 1 19
+p126
+aVAndris Biedrins GSW 03/27/2008 GSW vs. POR W 21 10 5 9 55.6 0 0 - 0 2 0.0 3 4 7 1 2 1 3 4 2
+p127
+aVBaron Davis GSW 03/27/2008 GSW vs. POR W 27 12 4 12 33.3 1 5 20.0 3 4 75.0 1 4 5 7 4 2 1 2 12
+p128
+aVAustin Croshere GSW 03/27/2008 GSW vs. POR W 14 6 3 6 50.0 0 2 0.0 0 0 - 2 1 3 2 0 0 0 1 -2
+p129
+aVKosta Perovic GSW 03/27/2008 GSW vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p130
+aVAl Harrington GSW 03/27/2008 GSW vs. POR W 18 12 5 5 100.0 2 2 100.0 0 0 - 0 1 1 0 0 0 2 4 -1
+p131
+aVKelenna Azubuike GSW 03/24/2008 GSW vs. LAL L 33 18 8 12 66.7 0 3 0.0 2 3 66.7 3 4 7 0 1 0 0 3 -8
+p132
+aVBrandan Wright GSW 03/24/2008 GSW vs. LAL L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 0
+p133
+aVBaron Davis GSW 03/24/2008 GSW vs. LAL L 53 30 12 28 42.9 3 9 33.3 3 4 75.0 3 6 9 7 4 0 4 3 -4
+p134
+aVMonta Ellis GSW 03/24/2008 GSW vs. LAL L 50 18 7 20 35.0 1 3 33.3 3 3 100.0 4 5 9 9 3 0 5 5 -3
+p135
+aVAndris Biedrins GSW 03/24/2008 GSW vs. LAL L 27 5 2 7 28.6 0 0 - 1 2 50.0 3 5 8 0 0 2 1 6 0
+p136
+aVMatt Barnes GSW 03/24/2008 GSW vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -2
+p137
+aVAl Harrington GSW 03/24/2008 GSW vs. LAL L 39 19 7 15 46.7 2 4 50.0 3 4 75.0 1 11 12 2 2 0 1 3 1
+p138
+aVStephen Jackson GSW 03/24/2008 GSW vs. LAL L 53 29 9 21 42.9 5 10 50.0 6 8 75.0 1 6 7 3 1 0 3 2 -4
+p139
+aVMonta Ellis GSW 03/23/2008 GSW @ LAL W 48 31 12 22 54.5 0 0 - 7 7 100.0 1 6 7 5 1 1 3 5 4
+p140
+aVBrandan Wright GSW 03/23/2008 GSW @ LAL W 11 6 2 3 66.7 0 0 - 2 3 66.7 3 2 5 1 0 3 1 0 3
+p141
+aVKelenna Azubuike GSW 03/23/2008 GSW @ LAL W 28 9 2 9 22.2 1 3 33.3 4 4 100.0 2 6 8 2 1 2 0 3 9
+p142
+aVAndris Biedrins GSW 03/23/2008 GSW @ LAL W 23 6 3 3 100.0 0 0 - 0 0 - 3 2 5 0 3 0 0 6 1
+p143
+aVStephen Jackson GSW 03/23/2008 GSW @ LAL W 43 31 8 20 40.0 6 11 54.5 9 9 100.0 0 4 4 5 3 1 2 4 -8
+p144
+aVAl Harrington GSW 03/23/2008 GSW @ LAL W 37 13 4 10 40.0 1 4 25.0 4 5 80.0 1 9 10 2 1 0 1 4 1
+p145
+aVMatt Barnes GSW 03/23/2008 GSW @ LAL W 7 1 0 2 0.0 0 1 0.0 1 4 25.0 1 2 3 0 0 0 0 0 12
+p146
+aVBaron Davis GSW 03/23/2008 GSW @ LAL W 42 18 7 20 35.0 2 6 33.3 2 2 100.0 0 1 1 4 4 0 4 4 -2
+p147
+aVKelenna Azubuike GSW 03/21/2008 GSW vs. HOU L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p148
+aVStephen Jackson GSW 03/21/2008 GSW vs. HOU L 47 15 5 16 31.3 3 8 37.5 2 2 100.0 1 4 5 5 2 0 2 1 -7
+p149
+aVAl Harrington GSW 03/21/2008 GSW vs. HOU L 36 18 7 19 36.8 0 3 0.0 4 6 66.7 6 8 14 3 3 0 0 2 0
+p150
+aVMonta Ellis GSW 03/21/2008 GSW vs. HOU L 44 24 10 15 66.7 0 0 - 4 5 80.0 2 1 3 4 1 0 4 4 -6
+p151
+aVMickael Pietrus GSW 03/21/2008 GSW vs. HOU L 37 16 7 12 58.3 2 5 40.0 0 0 - 5 8 13 1 1 0 0 4 3
+p152
+aVCJ Watson GSW 03/21/2008 GSW vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p153
+aVBaron Davis GSW 03/21/2008 GSW vs. HOU L 43 27 11 23 47.8 3 7 42.9 2 5 40.0 3 2 5 4 1 3 5 4 1
+p154
+aVAndris Biedrins GSW 03/21/2008 GSW vs. HOU L 22 6 3 7 42.9 0 0 - 0 0 - 3 5 8 0 2 5 1 2 0
+p155
+aVMickael Pietrus GSW 03/19/2008 GSW @ LAC W 36 15 6 12 50.0 1 2 50.0 2 2 100.0 4 8 12 0 0 1 2 5 28
+p156
+aVBrandan Wright GSW 03/19/2008 GSW @ LAC W 14 0 0 2 0.0 0 0 - 0 0 - 3 2 5 0 0 0 2 2 -11
+p157
+aVMonta Ellis GSW 03/19/2008 GSW @ LAC W 35 28 13 18 72.2 0 0 - 2 5 40.0 2 1 3 6 0 0 1 1 32
+p158
+aVKosta Perovic GSW 03/19/2008 GSW @ LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p159
+aVAl Harrington GSW 03/19/2008 GSW @ LAC W 22 10 5 9 55.6 0 0 - 0 1 0.0 2 5 7 2 2 0 2 3 2
+p160
+aVStephen Jackson GSW 03/19/2008 GSW @ LAC W 37 29 10 18 55.6 5 10 50.0 4 4 100.0 1 1 2 4 0 0 1 3 25
+p161
+aVBaron Davis GSW 03/19/2008 GSW @ LAC W 27 14 5 14 35.7 2 6 33.3 2 2 100.0 0 4 4 4 2 0 1 3 11
+p162
+aVMarco Belinelli GSW 03/19/2008 GSW @ LAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p163
+aVAndris Biedrins GSW 03/19/2008 GSW @ LAC W 22 8 4 6 66.7 0 0 - 0 0 - 1 2 3 1 2 0 0 3 21
+p164
+aVCJ Watson GSW 03/19/2008 GSW @ LAC W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -20
+p165
+aVKelenna Azubuike GSW 03/19/2008 GSW @ LAC W 24 10 3 7 42.9 1 2 50.0 3 4 75.0 1 1 2 1 0 1 0 5 10
+p166
+aVMatt Barnes GSW 03/19/2008 GSW @ LAC W 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 -4
+p167
+aVStephen Jackson GSW 03/18/2008 GSW @ SAC L 31 9 3 15 20.0 0 4 0.0 3 4 75.0 3 3 6 3 3 0 2 5 -10
+p168
+aVMickael Pietrus GSW 03/18/2008 GSW @ SAC L 16 6 2 7 28.6 0 3 0.0 2 2 100.0 1 1 2 0 1 1 0 3 -13
+p169
+aVMonta Ellis GSW 03/18/2008 GSW @ SAC L 28 11 3 9 33.3 0 0 - 5 7 71.4 0 2 2 1 0 0 2 2 -17
+p170
+aVBaron Davis GSW 03/18/2008 GSW @ SAC L 39 24 9 18 50.0 2 6 33.3 4 5 80.0 0 2 2 8 1 0 2 1 -27
+p171
+aVKelenna Azubuike GSW 03/18/2008 GSW @ SAC L 28 12 6 12 50.0 0 2 0.0 0 0 - 4 4 8 2 0 0 1 4 -6
+p172
+aVMatt Barnes GSW 03/18/2008 GSW @ SAC L 17 8 3 8 37.5 1 4 25.0 1 2 50.0 4 2 6 0 1 0 0 3 -1
+p173
+aVBrandan Wright GSW 03/18/2008 GSW @ SAC L 15 8 2 2 100.0 0 0 - 4 4 100.0 2 0 2 0 0 2 0 1 5
+p174
+aVCJ Watson GSW 03/18/2008 GSW @ SAC L 18 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 1 1 0 1 0 1
+p175
+aVAl Harrington GSW 03/18/2008 GSW @ SAC L 25 10 3 9 33.3 2 7 28.6 2 6 33.3 0 3 3 0 2 0 0 5 -2
+p176
+aVAndris Biedrins GSW 03/18/2008 GSW @ SAC L 25 13 5 7 71.4 0 0 - 3 8 37.5 2 6 8 0 0 0 1 4 -15
+p177
+aVAl Harrington GSW 03/15/2008 GSW vs. MEM W 17 9 4 8 50.0 1 3 33.3 0 0 - 1 2 3 4 0 0 0 4 0
+p178
+aVMonta Ellis GSW 03/15/2008 GSW vs. MEM W 36 17 6 12 50.0 1 1 100.0 4 6 66.7 2 4 6 1 1 0 3 0 12
+p179
+aVBaron Davis GSW 03/15/2008 GSW vs. MEM W 37 19 8 19 42.1 1 6 16.7 2 2 100.0 1 4 5 7 2 0 5 3 -6
+p180
+aVMickael Pietrus GSW 03/15/2008 GSW vs. MEM W 38 12 4 9 44.4 1 2 50.0 3 4 75.0 3 5 8 2 2 0 2 2 17
+p181
+aVBrandan Wright GSW 03/15/2008 GSW vs. MEM W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p182
+aVKelenna Azubuike GSW 03/15/2008 GSW vs. MEM W 15 5 1 2 50.0 1 1 100.0 2 2 100.0 1 3 4 0 1 1 4 2 -7
+p183
+aVMatt Barnes GSW 03/15/2008 GSW vs. MEM W 9 11 4 5 80.0 3 3 100.0 0 0 - 1 3 4 1 1 0 2 1 -6
+p184
+aVAndris Biedrins GSW 03/15/2008 GSW vs. MEM W 25 8 4 8 50.0 0 0 - 0 2 0.0 3 9 12 0 1 2 0 4 3
+p185
+aVStephen Jackson GSW 03/15/2008 GSW vs. MEM W 36 21 6 14 42.9 2 8 25.0 7 10 70.0 1 2 3 6 1 1 4 1 9
+p186
+aVCJ Watson GSW 03/15/2008 GSW vs. MEM W 21 4 2 3 66.7 0 0 - 0 0 - 1 1 2 4 0 0 0 2 -1
+p187
+aVStephen Jackson GSW 03/13/2008 GSW @ PHX L 30 13 4 13 30.8 1 5 20.0 4 4 100.0 0 1 1 4 0 0 1 4 -18
+p188
+aVMatt Barnes GSW 03/13/2008 GSW @ PHX L 5 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p189
+aVMickael Pietrus GSW 03/13/2008 GSW @ PHX L 39 16 6 13 46.2 1 2 50.0 3 4 75.0 3 5 8 0 2 1 0 3 -12
+p190
+aVAl Harrington GSW 03/13/2008 GSW @ PHX L 27 11 4 11 36.4 1 4 25.0 2 2 100.0 1 3 4 1 2 0 1 3 -2
+p191
+aVAustin Croshere GSW 03/13/2008 GSW @ PHX L 7 0 0 2 0.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 2 5
+p192
+aVAndris Biedrins GSW 03/13/2008 GSW @ PHX L 20 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 5 -10
+p193
+aVMonta Ellis GSW 03/13/2008 GSW @ PHX L 45 23 8 22 36.4 0 1 0.0 7 9 77.8 5 3 8 4 2 0 2 0 0
+p194
+aVBrandan Wright GSW 03/13/2008 GSW @ PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p195
+aVKelenna Azubuike GSW 03/13/2008 GSW @ PHX L 21 10 4 6 66.7 1 1 100.0 1 1 100.0 4 3 7 0 1 0 0 3 5
+p196
+aVBaron Davis GSW 03/13/2008 GSW @ PHX L 46 38 15 30 50.0 6 11 54.5 2 4 50.0 2 7 9 8 3 1 2 2 -3
+p197
+aVStephen Jackson GSW 03/12/2008 GSW vs. TOR W 44 19 7 15 46.7 3 8 37.5 2 2 100.0 0 3 3 4 2 0 3 3 14
+p198
+aVKelenna Azubuike GSW 03/12/2008 GSW vs. TOR W 14 3 1 3 33.3 0 2 0.0 1 2 50.0 0 3 3 1 2 1 1 1 -2
+p199
+aVCJ Watson GSW 03/12/2008 GSW vs. TOR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p200
+aVMonta Ellis GSW 03/12/2008 GSW vs. TOR W 43 33 14 19 73.7 0 0 - 5 6 83.3 2 4 6 4 0 0 5 3 19
+p201
+aVMickael Pietrus GSW 03/12/2008 GSW vs. TOR W 38 14 7 14 50.0 0 2 0.0 0 0 - 3 5 8 2 1 0 0 6 12
+p202
+aVBaron Davis GSW 03/12/2008 GSW vs. TOR W 40 23 10 17 58.8 2 6 33.3 1 2 50.0 0 4 4 15 0 1 1 3 17
+p203
+aVAl Harrington GSW 03/12/2008 GSW vs. TOR W 20 9 3 10 30.0 0 4 0.0 3 4 75.0 3 2 5 3 1 0 0 3 -6
+p204
+aVMatt Barnes GSW 03/12/2008 GSW vs. TOR W 13 4 2 4 50.0 0 1 0.0 0 0 - 3 4 7 1 1 0 0 0 -6
+p205
+aVAndris Biedrins GSW 03/12/2008 GSW vs. TOR W 26 12 5 6 83.3 0 0 - 2 2 100.0 0 4 4 2 0 2 0 2 13
+p206
+aVBaron Davis GSW 03/08/2008 GSW @ ORL W 46 33 13 27 48.1 1 4 25.0 6 8 75.0 2 7 9 3 2 2 3 5 10
+p207
+aVMatt Barnes GSW 03/08/2008 GSW @ ORL W 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 3
+p208
+aVAndris Biedrins GSW 03/08/2008 GSW @ ORL W 19 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 3 1 1 4 3
+p209
+aVCJ Watson GSW 03/08/2008 GSW @ ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p210
+aVStephen Jackson GSW 03/08/2008 GSW @ ORL W 42 20 7 17 41.2 3 6 50.0 3 4 75.0 0 9 9 3 1 0 0 4 7
+p211
+aVAl Harrington GSW 03/08/2008 GSW @ ORL W 22 14 4 13 30.8 2 7 28.6 4 4 100.0 1 3 4 4 1 0 3 3 13
+p212
+aVMonta Ellis GSW 03/08/2008 GSW @ ORL W 42 16 6 13 46.2 0 0 - 4 4 100.0 1 4 5 3 4 0 2 2 5
+p213
+aVAustin Croshere GSW 03/08/2008 GSW @ ORL W 7 2 0 4 0.0 0 3 0.0 2 2 100.0 0 2 2 0 0 0 0 1 -7
+p214
+aVMickael Pietrus GSW 03/08/2008 GSW @ ORL W 33 9 4 11 36.4 0 1 0.0 1 2 50.0 4 7 11 2 3 0 0 3 12
+p215
+aVKelenna Azubuike GSW 03/08/2008 GSW @ ORL W 20 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 -4
+p216
+aVMonta Ellis GSW 03/07/2008 GSW @ MIA W 30 16 7 14 50.0 0 0 - 2 2 100.0 1 4 5 5 2 1 2 1 18
+p217
+aVBaron Davis GSW 03/07/2008 GSW @ MIA W 28 15 6 9 66.7 0 1 0.0 3 4 75.0 0 2 2 10 1 0 1 2 22
+p218
+aVPatrick O'Bryant GSW 03/07/2008 GSW @ MIA W 4 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 2
+p219
+aVCJ Watson GSW 03/07/2008 GSW @ MIA W 25 9 2 7 28.6 1 1 100.0 4 4 100.0 2 2 4 2 4 0 0 0 23
+p220
+aVAndris Biedrins GSW 03/07/2008 GSW @ MIA W 18 6 3 3 100.0 0 0 - 0 0 - 0 4 4 2 0 0 0 3 8
+p221
+aVKelenna Azubuike GSW 03/07/2008 GSW @ MIA W 21 12 4 9 44.4 1 4 25.0 3 5 60.0 1 2 3 0 1 2 1 3 11
+p222
+aVStephen Jackson GSW 03/07/2008 GSW @ MIA W 31 22 8 15 53.3 5 8 62.5 1 1 100.0 2 5 7 5 1 0 2 1 25
+p223
+aVBrandan Wright GSW 03/07/2008 GSW @ MIA W 12 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 12
+p224
+aVAl Harrington GSW 03/07/2008 GSW @ MIA W 19 17 6 8 75.0 5 7 71.4 0 0 - 1 4 5 0 0 0 0 2 17
+p225
+aVMickael Pietrus GSW 03/07/2008 GSW @ MIA W 32 15 7 14 50.0 0 4 0.0 1 2 50.0 3 6 9 1 2 0 2 4 22
+p226
+aVAustin Croshere GSW 03/07/2008 GSW @ MIA W 8 7 3 5 60.0 1 2 50.0 0 0 - 1 3 4 0 0 0 1 3 7
+p227
+aVMatt Barnes GSW 03/07/2008 GSW @ MIA W 11 8 4 7 57.1 0 3 0.0 0 0 - 0 4 4 1 1 0 0 1 8
+p228
+aVMonta Ellis GSW 03/05/2008 GSW @ CHA L 45 32 12 17 70.6 0 0 - 8 12 66.7 4 4 8 5 1 1 3 2 -7
+p229
+aVCJ Watson GSW 03/05/2008 GSW @ CHA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p230
+aVPatrick O'Bryant GSW 03/05/2008 GSW @ CHA L 6 2 1 1 100.0 0 0 - 0 1 0.0 0 2 2 0 0 2 2 2 -5
+p231
+aVAl Harrington GSW 03/05/2008 GSW @ CHA L 24 6 2 6 33.3 2 6 33.3 0 0 - 0 7 7 1 2 1 0 5 1
+p232
+aVKelenna Azubuike GSW 03/05/2008 GSW @ CHA L 13 4 1 6 16.7 0 2 0.0 2 3 66.7 2 1 3 2 0 1 0 2 -1
+p233
+aVBrandan Wright GSW 03/05/2008 GSW @ CHA L 23 6 2 4 50.0 0 0 - 2 4 50.0 0 5 5 0 0 1 0 4 4
+p234
+aVBaron Davis GSW 03/05/2008 GSW @ CHA L 39 30 12 22 54.5 1 4 25.0 5 6 83.3 1 3 4 3 0 0 6 3 -2
+p235
+aVMarco Belinelli GSW 03/05/2008 GSW @ CHA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p236
+aVStephen Jackson GSW 03/05/2008 GSW @ CHA L 44 21 8 18 44.4 3 9 33.3 2 2 100.0 1 6 7 1 1 0 1 0 -8
+p237
+aVMickael Pietrus GSW 03/05/2008 GSW @ CHA L 24 3 1 4 25.0 1 3 33.3 0 0 - 0 5 5 0 0 2 1 6 -18
+p238
+aVMatt Barnes GSW 03/05/2008 GSW @ CHA L 12 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 0 1 0 1 1 1
+p239
+aVAustin Croshere GSW 03/05/2008 GSW @ CHA L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -10
+p240
+aVCJ Watson GSW 03/04/2008 GSW @ ATL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p241
+aVAustin Croshere GSW 03/04/2008 GSW @ ATL W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 4
+p242
+aVMonta Ellis GSW 03/04/2008 GSW @ ATL W 46 20 10 19 52.6 0 0 - 0 0 - 0 7 7 4 3 1 2 3 13
+p243
+aVStephen Jackson GSW 03/04/2008 GSW @ ATL W 44 29 10 19 52.6 6 12 50.0 3 3 100.0 0 4 4 6 2 0 1 3 8
+p244
+aVMickael Pietrus GSW 03/04/2008 GSW @ ATL W 30 19 7 10 70.0 5 7 71.4 0 0 - 4 8 12 2 0 2 2 4 10
+p245
+aVBrandan Wright GSW 03/04/2008 GSW @ ATL W 12 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 0 0 1 0 1 -4
+p246
+aVKelenna Azubuike GSW 03/04/2008 GSW @ ATL W 16 3 1 3 33.3 0 2 0.0 1 2 50.0 0 3 3 1 1 0 2 6 14
+p247
+aVAl Harrington GSW 03/04/2008 GSW @ ATL W 19 13 5 13 38.5 2 3 66.7 1 2 50.0 2 2 4 3 0 0 0 5 9
+p248
+aVMatt Barnes GSW 03/04/2008 GSW @ ATL W 24 8 3 7 42.9 2 2 100.0 0 0 - 2 2 4 2 2 1 1 2 14
+p249
+aVBaron Davis GSW 03/04/2008 GSW @ ATL W 41 35 16 25 64.0 1 4 25.0 2 2 100.0 1 2 3 9 2 0 2 3 13
+p250
+aVMatt Barnes GSW 03/02/2008 GSW vs. POR W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 2
+p251
+aVBrandan Wright GSW 03/02/2008 GSW vs. POR W 18 13 6 9 66.7 0 0 - 1 1 100.0 4 3 7 1 0 1 0 2 5
+p252
+aVStephen Jackson GSW 03/02/2008 GSW vs. POR W 45 29 9 21 42.9 6 11 54.5 5 6 83.3 1 8 9 1 1 2 1 4 9
+p253
+aVChris Webber GSW 03/02/2008 GSW vs. POR W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 1 5
+p254
+aVKelenna Azubuike GSW 03/02/2008 GSW vs. POR W 18 4 2 3 66.7 0 1 0.0 0 0 - 1 4 5 0 0 2 0 0 9
+p255
+aVMonta Ellis GSW 03/02/2008 GSW vs. POR W 43 22 9 16 56.3 0 0 - 4 4 100.0 4 6 10 6 1 0 2 3 6
+p256
+aVAl Harrington GSW 03/02/2008 GSW vs. POR W 24 13 6 10 60.0 1 3 33.3 0 0 - 2 5 7 2 1 1 1 5 -2
+p257
+aVBaron Davis GSW 03/02/2008 GSW vs. POR W 38 18 6 18 33.3 1 6 16.7 5 5 100.0 0 1 1 5 2 0 0 3 -1
+p258
+aVMickael Pietrus GSW 03/02/2008 GSW vs. POR W 21 8 3 8 37.5 1 2 50.0 1 2 50.0 1 0 1 2 3 1 1 0 -6
+p259
+aVAustin Croshere GSW 03/02/2008 GSW vs. POR W 15 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 1 3 3
+p260
+aVStephen Jackson GSW 02/29/2008 GSW vs. PHI W 39 21 9 14 64.3 2 5 40.0 1 2 50.0 1 2 3 5 1 1 2 3 23
+p261
+aVChris Webber GSW 02/29/2008 GSW vs. PHI W 18 8 4 6 66.7 0 0 - 0 0 - 1 6 7 3 0 1 1 1 8
+p262
+aVPatrick O'Bryant GSW 02/29/2008 GSW vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p263
+aVCJ Watson GSW 02/29/2008 GSW vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p264
+aVBrandan Wright GSW 02/29/2008 GSW vs. PHI W 19 12 5 7 71.4 0 0 - 2 3 66.7 1 6 7 0 0 3 1 2 12
+p265
+aVAustin Croshere GSW 02/29/2008 GSW vs. PHI W 13 7 3 6 50.0 1 3 33.3 0 0 - 2 1 3 2 1 0 0 2 12
+p266
+aVAl Harrington GSW 02/29/2008 GSW vs. PHI W 18 6 2 5 40.0 2 2 100.0 0 0 - 0 1 1 1 0 2 2 3 7
+p267
+aVKelenna Azubuike GSW 02/29/2008 GSW vs. PHI W 10 8 3 6 50.0 2 4 50.0 0 0 - 1 2 3 0 1 0 0 0 5
+p268
+aVBaron Davis GSW 02/29/2008 GSW vs. PHI W 37 4 2 16 12.5 0 8 0.0 0 2 0.0 1 4 5 10 2 2 3 3 12
+p269
+aVMickael Pietrus GSW 02/29/2008 GSW vs. PHI W 22 23 7 7 100.0 3 3 100.0 6 7 85.7 1 1 2 2 1 1 1 1 13
+p270
+aVMatt Barnes GSW 02/29/2008 GSW vs. PHI W 21 9 3 7 42.9 1 3 33.3 2 2 100.0 2 8 10 1 0 1 2 1 3
+p271
+aVMonta Ellis GSW 02/29/2008 GSW vs. PHI W 39 21 9 18 50.0 0 1 0.0 3 3 100.0 2 2 4 6 2 1 1 1 12
+p272
+aVAustin Croshere GSW 02/26/2008 GSW vs. SEA W 22 14 6 6 100.0 1 1 100.0 1 1 100.0 5 0 5 1 0 0 0 0 11
+p273
+aVMatt Barnes GSW 02/26/2008 GSW vs. SEA W 15 4 2 8 25.0 0 1 0.0 0 0 - 4 4 8 1 0 1 0 2 4
+p274
+aVMickael Pietrus GSW 02/26/2008 GSW vs. SEA W 25 11 5 10 50.0 1 4 25.0 0 2 0.0 0 3 3 2 2 1 1 5 1
+p275
+aVStephen Jackson GSW 02/26/2008 GSW vs. SEA W 36 17 6 18 33.3 1 3 33.3 4 4 100.0 3 4 7 3 1 0 4 1 2
+p276
+aVKelenna Azubuike GSW 02/26/2008 GSW vs. SEA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p277
+aVCJ Watson GSW 02/26/2008 GSW vs. SEA W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 3
+p278
+aVBrandan Wright GSW 02/26/2008 GSW vs. SEA W 9 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -5
+p279
+aVBaron Davis GSW 02/26/2008 GSW vs. SEA W 44 20 8 24 33.3 2 8 25.0 2 2 100.0 0 2 2 10 7 0 2 2 18
+p280
+aVMonta Ellis GSW 02/26/2008 GSW vs. SEA W 42 30 14 22 63.6 0 0 - 2 2 100.0 2 4 6 4 1 1 0 3 3
+p281
+aVAl Harrington GSW 02/26/2008 GSW vs. SEA W 29 5 2 9 22.2 1 4 25.0 0 0 - 2 3 5 2 1 0 2 2 5
+p282
+aVChris Webber GSW 02/26/2008 GSW vs. SEA W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 2 0 0
+p283
+aVBrandan Wright GSW 02/22/2008 GSW vs. ATL L 26 8 4 4 100.0 0 0 - 0 0 - 2 6 8 0 0 2 0 2 12
+p284
+aVBaron Davis GSW 02/22/2008 GSW vs. ATL L 46 35 14 27 51.9 4 10 40.0 3 6 50.0 0 5 5 7 2 1 4 4 -3
+p285
+aVMonta Ellis GSW 02/22/2008 GSW vs. ATL L 46 26 10 20 50.0 0 1 0.0 6 8 75.0 1 1 2 5 2 0 3 3 -7
+p286
+aVKelenna Azubuike GSW 02/22/2008 GSW vs. ATL L 25 14 6 10 60.0 1 3 33.3 1 1 100.0 1 4 5 1 1 2 1 1 9
+p287
+aVAustin Croshere GSW 02/22/2008 GSW vs. ATL L 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p288
+aVMickael Pietrus GSW 02/22/2008 GSW vs. ATL L 26 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 1 2 0 0 3 -8
+p289
+aVMatt Barnes GSW 02/22/2008 GSW vs. ATL L 19 9 4 8 50.0 1 3 33.3 0 0 - 2 3 5 0 1 1 1 2 -7
+p290
+aVChris Webber GSW 02/22/2008 GSW vs. ATL L 15 4 2 4 50.0 0 0 - 0 0 - 0 7 7 5 0 0 3 2 -10
+p291
+aVAl Harrington GSW 02/22/2008 GSW vs. ATL L 27 12 5 18 27.8 0 7 0.0 2 2 100.0 3 2 5 1 1 0 2 4 -13
+p292
+aVKelenna Azubuike GSW 02/20/2008 GSW vs. BOS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p293
+aVMatt Barnes GSW 02/20/2008 GSW vs. BOS W 12 4 1 4 25.0 0 0 - 2 3 66.7 2 2 4 1 0 0 2 2 -6
+p294
+aVChris Webber GSW 02/20/2008 GSW vs. BOS W 20 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 2 1 3 2 4 -8
+p295
+aVAl Harrington GSW 02/20/2008 GSW vs. BOS W 33 22 7 15 46.7 2 6 33.3 6 6 100.0 4 8 12 4 0 0 1 5 7
+p296
+aVMickael Pietrus GSW 02/20/2008 GSW vs. BOS W 37 12 4 9 44.4 1 3 33.3 3 5 60.0 1 5 6 1 3 0 1 4 13
+p297
+aVAndris Biedrins GSW 02/20/2008 GSW vs. BOS W 40 21 9 14 64.3 0 0 - 3 5 60.0 6 7 13 1 1 1 2 4 8
+p298
+aVBaron Davis GSW 02/20/2008 GSW vs. BOS W 46 29 10 20 50.0 1 6 16.7 8 11 72.7 0 6 6 6 2 0 5 3 -2
+p299
+aVMonta Ellis GSW 02/20/2008 GSW vs. BOS W 44 26 9 21 42.9 0 0 - 8 11 72.7 2 1 3 9 1 0 2 3 6
+p300
+aVAustin Croshere GSW 02/20/2008 GSW vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p301
+aVAl Harrington GSW 02/19/2008 GSW @ UTA L 28 21 8 17 47.1 4 9 44.4 1 1 100.0 0 5 5 2 0 0 2 2 -8
+p302
+aVChris Webber GSW 02/19/2008 GSW @ UTA L 16 9 4 6 66.7 0 0 - 1 4 25.0 0 1 1 3 1 1 0 2 -13
+p303
+aVBaron Davis GSW 02/19/2008 GSW @ UTA L 25 17 7 13 53.8 0 2 0.0 3 3 100.0 1 1 2 4 1 0 1 1 -20
+p304
+aVCJ Watson GSW 02/19/2008 GSW @ UTA L 15 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 5 13
+p305
+aVMickael Pietrus GSW 02/19/2008 GSW @ UTA L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 2 2 0 12
+p306
+aVMatt Barnes GSW 02/19/2008 GSW @ UTA L 19 9 3 5 60.0 1 2 50.0 2 2 100.0 1 5 6 2 0 1 1 3 3
+p307
+aVStephen Jackson GSW 02/19/2008 GSW @ UTA L 29 6 2 8 25.0 1 3 33.3 1 2 50.0 0 2 2 4 1 0 1 1 -17
+p308
+aVMonta Ellis GSW 02/19/2008 GSW @ UTA L 30 18 7 13 53.8 0 1 0.0 4 7 57.1 1 1 2 3 1 0 1 3 -27
+p309
+aVAndris Biedrins GSW 02/19/2008 GSW @ UTA L 19 4 2 3 66.7 0 0 - 0 0 - 3 3 6 0 0 0 0 2 4
+p310
+aVAustin Croshere GSW 02/19/2008 GSW @ UTA L 17 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 1 -16
+p311
+aVKelenna Azubuike GSW 02/19/2008 GSW @ UTA L 20 14 6 10 60.0 2 4 50.0 0 0 - 1 2 3 0 4 0 1 2 11
+p312
+aVBrandan Wright GSW 02/19/2008 GSW @ UTA L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 8
+p313
+aVMonta Ellis GSW 02/13/2008 GSW vs. PHX W 48 37 18 27 66.7 0 0 - 1 2 50.0 3 6 9 5 0 0 1 0 2
+p314
+aVMatt Barnes GSW 02/13/2008 GSW vs. PHX W 25 13 6 11 54.5 0 2 0.0 1 2 50.0 0 5 5 1 2 0 0 4 -3
+p315
+aVAndris Biedrins GSW 02/13/2008 GSW vs. PHX W 13 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 6
+p316
+aVAl Harrington GSW 02/13/2008 GSW vs. PHX W 29 12 5 10 50.0 1 5 20.0 1 1 100.0 1 4 5 0 0 0 1 3 4
+p317
+aVMickael Pietrus GSW 02/13/2008 GSW vs. PHX W 15 1 0 1 0.0 0 1 0.0 1 2 50.0 2 1 3 0 2 1 2 6 -11
+p318
+aVBaron Davis GSW 02/13/2008 GSW vs. PHX W 45 27 12 23 52.2 3 5 60.0 0 1 0.0 1 2 3 13 1 0 4 2 -3
+p319
+aVStephen Jackson GSW 02/13/2008 GSW vs. PHX W 43 19 6 17 35.3 3 7 42.9 4 5 80.0 1 2 3 6 4 0 2 4 4
+p320
+aVAustin Croshere GSW 02/13/2008 GSW vs. PHX W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 1 0 1 -1
+p321
+aVKelenna Azubuike GSW 02/13/2008 GSW vs. PHX W 14 7 3 3 100.0 1 1 100.0 0 0 - 1 1 2 0 0 0 1 0 12
+p322
+aVChris Webber GSW 02/11/2008 GSW vs. WAS W 14 2 1 3 33.3 0 0 - 0 0 - 0 4 4 2 0 0 1 3 -6
+p323
+aVMonta Ellis GSW 02/11/2008 GSW vs. WAS W 47 22 9 18 50.0 0 1 0.0 4 8 50.0 1 3 4 4 2 0 3 3 6
+p324
+aVKelenna Azubuike GSW 02/11/2008 GSW vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p325
+aVStephen Jackson GSW 02/11/2008 GSW vs. WAS W 42 41 11 18 61.1 4 9 44.4 15 17 88.2 1 2 3 2 2 0 4 2 6
+p326
+aVMatt Barnes GSW 02/11/2008 GSW vs. WAS W 25 6 3 5 60.0 0 1 0.0 0 0 - 2 5 7 3 1 0 0 2 -2
+p327
+aVBaron Davis GSW 02/11/2008 GSW vs. WAS W 44 19 7 14 50.0 2 6 33.3 3 4 75.0 1 6 7 7 2 0 5 4 -3
+p328
+aVAndris Biedrins GSW 02/11/2008 GSW vs. WAS W 23 4 2 4 50.0 0 0 - 0 1 0.0 3 5 8 1 1 1 0 2 6
+p329
+aVMickael Pietrus GSW 02/11/2008 GSW vs. WAS W 12 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 2 1 1 1 2 -2
+p330
+aVAl Harrington GSW 02/11/2008 GSW vs. WAS W 33 21 8 18 44.4 3 9 33.3 2 2 100.0 3 5 8 3 0 0 1 4 10
+p331
+aVMonta Ellis GSW 02/09/2008 GSW vs. SAC W 38 34 12 15 80.0 0 0 - 10 13 76.9 5 4 9 5 1 0 2 3 7
+p332
+aVBaron Davis GSW 02/09/2008 GSW vs. SAC W 43 10 4 19 21.1 1 8 12.5 1 3 33.3 5 4 9 7 5 0 3 6 14
+p333
+aVMickael Pietrus GSW 02/09/2008 GSW vs. SAC W 10 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 1 0 2 3 -14
+p334
+aVKelenna Azubuike GSW 02/09/2008 GSW vs. SAC W 7 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 3 -6
+p335
+aVChris Webber GSW 02/09/2008 GSW vs. SAC W 14 2 0 1 0.0 0 0 - 2 4 50.0 0 5 5 1 1 0 0 1 3
+p336
+aVCJ Watson GSW 02/09/2008 GSW vs. SAC W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p337
+aVAl Harrington GSW 02/09/2008 GSW vs. SAC W 34 13 4 11 36.4 1 5 20.0 4 4 100.0 0 7 7 2 0 0 2 2 8
+p338
+aVAndris Biedrins GSW 02/09/2008 GSW vs. SAC W 21 9 4 6 66.7 0 0 - 1 4 25.0 5 4 9 0 0 1 4 2 4
+p339
+aVStephen Jackson GSW 02/09/2008 GSW vs. SAC W 46 26 9 19 47.4 4 7 57.1 4 5 80.0 2 4 6 3 1 1 4 2 6
+p340
+aVMatt Barnes GSW 02/09/2008 GSW vs. SAC W 22 8 4 13 30.8 0 5 0.0 0 0 - 0 3 3 3 1 3 0 1 -2
+p341
+aVMatt Barnes GSW 02/07/2008 GSW vs. CHI L 20 3 1 3 33.3 0 1 0.0 1 2 50.0 0 5 5 1 0 0 2 3 -9
+p342
+aVMickael Pietrus GSW 02/07/2008 GSW vs. CHI L 23 3 1 5 20.0 0 2 0.0 1 1 100.0 0 3 3 0 3 2 1 6 4
+p343
+aVChris Webber GSW 02/07/2008 GSW vs. CHI L 13 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 1 0 0 3 0
+p344
+aVAndris Biedrins GSW 02/07/2008 GSW vs. CHI L 36 12 4 11 36.4 0 0 - 4 4 100.0 9 9 18 0 0 0 2 5 -5
+p345
+aVAl Harrington GSW 02/07/2008 GSW vs. CHI L 27 20 8 16 50.0 3 7 42.9 1 1 100.0 0 4 4 0 3 0 2 5 -12
+p346
+aVStephen Jackson GSW 02/07/2008 GSW vs. CHI L 44 19 6 19 31.6 2 8 25.0 5 5 100.0 1 5 6 4 1 0 2 2 -1
+p347
+aVMonta Ellis GSW 02/07/2008 GSW vs. CHI L 36 25 11 12 91.7 0 0 - 3 4 75.0 1 1 2 4 2 1 1 3 -3
+p348
+aVBaron Davis GSW 02/07/2008 GSW vs. CHI L 42 22 8 24 33.3 2 10 20.0 4 4 100.0 1 1 2 8 4 0 3 4 -4
+p349
+aVMarco Belinelli GSW 02/01/2008 GSW vs. CHA W 14 7 2 5 40.0 1 1 100.0 2 2 100.0 0 1 1 2 0 0 1 2 -5
+p350
+aVStephen Jackson GSW 02/01/2008 GSW vs. CHA W 29 19 8 14 57.1 3 6 50.0 0 0 - 1 2 3 7 3 1 0 1 37
+p351
+aVBaron Davis GSW 02/01/2008 GSW vs. CHA W 24 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 6 3 0 2 1 27
+p352
+aVBrandan Wright GSW 02/01/2008 GSW vs. CHA W 12 6 2 3 66.7 0 0 - 2 3 66.7 0 3 3 1 0 0 1 3 -1
+p353
+aVAl Harrington GSW 02/01/2008 GSW vs. CHA W 14 7 2 9 22.2 2 4 50.0 1 2 50.0 0 5 5 2 1 0 0 1 0
+p354
+aVMickael Pietrus GSW 02/01/2008 GSW vs. CHA W 21 15 3 5 60.0 2 4 50.0 7 8 87.5 0 1 1 1 1 0 0 5 11
+p355
+aVAndris Biedrins GSW 02/01/2008 GSW vs. CHA W 24 15 7 10 70.0 0 0 - 1 1 100.0 3 3 6 2 0 1 1 3 35
+p356
+aVPatrick O'Bryant GSW 02/01/2008 GSW vs. CHA W 6 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -4
+p357
+aVCJ Watson GSW 02/01/2008 GSW vs. CHA W 18 11 4 8 50.0 1 1 100.0 2 2 100.0 2 1 3 2 0 0 0 0 -4
+p358
+aVMonta Ellis GSW 02/01/2008 GSW vs. CHA W 32 21 7 10 70.0 0 0 - 7 8 87.5 0 6 6 3 1 1 3 1 36
+p359
+aVKelenna Azubuike GSW 02/01/2008 GSW vs. CHA W 24 11 5 9 55.6 1 1 100.0 0 0 - 1 6 7 3 0 2 1 2 4
+p360
+aVMatt Barnes GSW 02/01/2008 GSW vs. CHA W 23 6 2 4 50.0 0 0 - 2 2 100.0 0 5 5 3 0 1 2 0 19
+p361
+aVMickael Pietrus GSW 01/30/2008 GSW @ NOH W 13 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 4 -2
+p362
+aVAl Harrington GSW 01/30/2008 GSW @ NOH W 23 13 5 9 55.6 3 5 60.0 0 0 - 1 4 5 1 0 0 0 4 2
+p363
+aVMonta Ellis GSW 01/30/2008 GSW @ NOH W 45 16 8 18 44.4 0 0 - 0 1 0.0 3 6 9 7 0 0 1 2 11
+p364
+aVBaron Davis GSW 01/30/2008 GSW @ NOH W 41 23 7 14 50.0 5 7 71.4 4 4 100.0 0 3 3 9 0 0 2 2 17
+p365
+aVStephen Jackson GSW 01/30/2008 GSW @ NOH W 42 26 10 16 62.5 3 6 50.0 3 3 100.0 0 2 2 3 0 1 2 1 14
+p366
+aVAndris Biedrins GSW 01/30/2008 GSW @ NOH W 19 14 6 7 85.7 0 0 - 2 2 100.0 2 5 7 0 1 2 0 2 10
+p367
+aVCJ Watson GSW 01/30/2008 GSW @ NOH W 4 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 0 -2
+p368
+aVBrandan Wright GSW 01/30/2008 GSW @ NOH W 2 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -1
+p369
+aVKelenna Azubuike GSW 01/30/2008 GSW @ NOH W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p370
+aVMatt Barnes GSW 01/30/2008 GSW @ NOH W 44 17 7 15 46.7 1 5 20.0 2 2 100.0 1 5 6 2 0 2 0 3 16
+p371
+aVCJ Watson GSW 01/29/2008 GSW @ HOU L 18 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 1 0 0 2 10
+p372
+aVAl Harrington GSW 01/29/2008 GSW @ HOU L 23 14 5 12 41.7 2 7 28.6 2 6 33.3 0 3 3 1 0 1 0 4 -19
+p373
+aVKelenna Azubuike GSW 01/29/2008 GSW @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p374
+aVAndris Biedrins GSW 01/29/2008 GSW @ HOU L 29 14 6 10 60.0 0 0 - 2 4 50.0 2 10 12 0 0 2 0 5 6
+p375
+aVMonta Ellis GSW 01/29/2008 GSW @ HOU L 40 18 7 14 50.0 1 1 100.0 3 4 75.0 3 3 6 4 0 0 3 1 -6
+p376
+aVStephen Jackson GSW 01/29/2008 GSW @ HOU L 42 25 7 14 50.0 5 7 71.4 6 7 85.7 1 5 6 7 1 1 1 3 -10
+p377
+aVMickael Pietrus GSW 01/29/2008 GSW @ HOU L 23 0 0 5 0.0 0 3 0.0 0 0 - 2 4 6 2 3 1 1 4 16
+p378
+aVBaron Davis GSW 01/29/2008 GSW @ HOU L 41 21 6 22 27.3 3 11 27.3 6 7 85.7 2 4 6 6 4 0 2 4 -10
+p379
+aVMatt Barnes GSW 01/29/2008 GSW @ HOU L 21 13 5 9 55.6 1 1 100.0 2 2 100.0 1 3 4 1 0 0 3 2 -14
+p380
+aVCJ Watson GSW 01/27/2008 GSW vs. NYK W 12 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -14
+p381
+aVMatt Barnes GSW 01/27/2008 GSW vs. NYK W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 1 1 2 -14
+p382
+aVKelenna Azubuike GSW 01/27/2008 GSW vs. NYK W 10 6 2 5 40.0 0 2 0.0 2 2 100.0 1 3 4 0 1 0 1 2 -12
+p383
+aVAndris Biedrins GSW 01/27/2008 GSW vs. NYK W 41 11 4 6 66.7 0 0 - 3 5 60.0 6 20 26 2 0 0 1 4 14
+p384
+aVMonta Ellis GSW 01/27/2008 GSW vs. NYK W 45 24 9 15 60.0 0 0 - 6 9 66.7 5 3 8 4 2 0 3 2 9
+p385
+aVAl Harrington GSW 01/27/2008 GSW vs. NYK W 36 12 4 13 30.8 1 5 20.0 3 4 75.0 1 3 4 0 2 0 1 5 15
+p386
+aVMickael Pietrus GSW 01/27/2008 GSW vs. NYK W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 -5
+p387
+aVStephen Jackson GSW 01/27/2008 GSW vs. NYK W 38 25 7 18 38.9 4 9 44.4 7 8 87.5 2 2 4 2 0 0 5 2 10
+p388
+aVBaron Davis GSW 01/27/2008 GSW vs. NYK W 43 22 8 21 38.1 2 8 25.0 4 7 57.1 0 2 2 9 1 2 2 3 7
+p389
+aVStephen Jackson GSW 01/24/2008 GSW vs. NJN W 44 13 5 14 35.7 1 4 25.0 2 2 100.0 0 3 3 7 1 1 4 3 1
+p390
+aVKelenna Azubuike GSW 01/24/2008 GSW vs. NJN W 16 7 2 4 50.0 1 2 50.0 2 2 100.0 0 4 4 0 0 2 1 2 -11
+p391
+aVAndris Biedrins GSW 01/24/2008 GSW vs. NJN W 33 6 2 4 50.0 0 0 - 2 4 50.0 2 8 10 2 0 4 0 4 11
+p392
+aVMatt Barnes GSW 01/24/2008 GSW vs. NJN W 31 12 5 9 55.6 1 3 33.3 1 1 100.0 3 2 5 4 1 1 1 2 -5
+p393
+aVMonta Ellis GSW 01/24/2008 GSW vs. NJN W 41 39 13 18 72.2 0 0 - 13 14 92.9 0 4 4 2 3 0 1 4 7
+p394
+aVBaron Davis GSW 01/24/2008 GSW vs. NJN W 46 25 10 22 45.5 3 8 37.5 2 2 100.0 1 11 12 10 5 0 2 5 2
+p395
+aVAl Harrington GSW 01/24/2008 GSW vs. NJN W 27 19 5 12 41.7 4 9 44.4 5 6 83.3 0 2 2 0 0 0 3 3 8
+p396
+aVMarco Belinelli GSW 01/24/2008 GSW vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -3
+p397
+aVCJ Watson GSW 01/21/2008 GSW vs. MIN L 17 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 18
+p398
+aVBaron Davis GSW 01/21/2008 GSW vs. MIN L 40 15 5 14 35.7 2 8 25.0 3 8 37.5 1 2 3 6 0 0 2 5 1
+p399
+aVStephen Jackson GSW 01/21/2008 GSW vs. MIN L 39 18 5 13 38.5 4 9 44.4 4 6 66.7 0 5 5 3 2 0 2 3 4
+p400
+aVAndris Biedrins GSW 01/21/2008 GSW vs. MIN L 21 5 2 3 66.7 0 0 - 1 2 50.0 3 9 12 2 0 0 0 6 -6
+p401
+aVKelenna Azubuike GSW 01/21/2008 GSW vs. MIN L 15 7 3 8 37.5 1 3 33.3 0 0 - 2 2 4 0 2 2 1 1 -2
+p402
+aVMickael Pietrus GSW 01/21/2008 GSW vs. MIN L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 -9
+p403
+aVPatrick O'Bryant GSW 01/21/2008 GSW vs. MIN L 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p404
+aVMonta Ellis GSW 01/21/2008 GSW vs. MIN L 36 28 9 18 50.0 0 1 0.0 10 11 90.9 1 2 3 2 1 0 1 0 -11
+p405
+aVMatt Barnes GSW 01/21/2008 GSW vs. MIN L 32 20 8 12 66.7 0 3 0.0 4 4 100.0 2 5 7 4 2 1 1 1 -5
+p406
+aVAl Harrington GSW 01/21/2008 GSW vs. MIN L 35 9 3 12 25.0 3 7 42.9 0 0 - 3 5 8 2 2 0 3 4 5
+p407
+aVKosta Perovic GSW 01/19/2008 GSW @ MIL W 7 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 1 0 0 2
+p408
+aVMonta Ellis GSW 01/19/2008 GSW @ MIL W 26 12 5 11 45.5 0 0 - 2 2 100.0 0 1 1 3 0 0 1 1 14
+p409
+aVKelenna Azubuike GSW 01/19/2008 GSW @ MIL W 22 8 1 4 25.0 0 0 - 6 8 75.0 0 2 2 2 2 0 1 3 17
+p410
+aVBrandan Wright GSW 01/19/2008 GSW @ MIL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p411
+aVAndris Biedrins GSW 01/19/2008 GSW @ MIL W 34 20 8 10 80.0 0 0 - 4 4 100.0 2 8 10 1 3 1 0 5 27
+p412
+aVMarco Belinelli GSW 01/19/2008 GSW @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p413
+aVPatrick O'Bryant GSW 01/19/2008 GSW @ MIL W 8 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 1 0 3 -9
+p414
+aVBaron Davis GSW 01/19/2008 GSW @ MIL W 37 19 6 13 46.2 2 7 28.6 5 5 100.0 0 4 4 8 3 1 3 1 15
+p415
+aVCJ Watson GSW 01/19/2008 GSW @ MIL W 30 13 5 11 45.5 2 5 40.0 1 1 100.0 0 2 2 2 0 0 3 2 13
+p416
+aVAl Harrington GSW 01/19/2008 GSW @ MIL W 45 27 10 17 58.8 5 10 50.0 2 2 100.0 3 4 7 1 3 0 3 2 22
+p417
+aVStephen Jackson GSW 01/19/2008 GSW @ MIL W 26 12 4 8 50.0 1 2 50.0 3 3 100.0 1 2 3 8 1 0 5 2 3
+p418
+aVAndris Biedrins GSW 01/18/2008 GSW @ CHI W 27 9 4 6 66.7 0 0 - 1 4 25.0 3 5 8 2 1 0 1 4 10
+p419
+aVMickael Pietrus GSW 01/18/2008 GSW @ CHI W 7 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 4
+p420
+aVKelenna Azubuike GSW 01/18/2008 GSW @ CHI W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 0 4 2
+p421
+aVStephen Jackson GSW 01/18/2008 GSW @ CHI W 44 24 6 17 35.3 3 7 42.9 9 9 100.0 1 2 3 8 2 2 3 2 3
+p422
+aVBaron Davis GSW 01/18/2008 GSW @ CHI W 45 40 13 23 56.5 6 8 75.0 8 8 100.0 0 5 5 4 3 0 4 4 10
+p423
+aVMonta Ellis GSW 01/18/2008 GSW @ CHI W 45 23 10 19 52.6 0 0 - 3 4 75.0 3 4 7 5 4 0 4 3 13
+p424
+aVAl Harrington GSW 01/18/2008 GSW @ CHI W 32 7 2 9 22.2 1 7 14.3 2 2 100.0 3 5 8 1 0 0 0 6 -2
+p425
+aVMatt Barnes GSW 01/18/2008 GSW @ CHI W 32 11 4 9 44.4 0 3 0.0 3 5 60.0 5 6 11 4 0 0 2 5 0
+p426
+aVCJ Watson GSW 01/16/2008 GSW @ IND L 11 1 0 0 - 0 0 - 1 2 50.0 0 1 1 2 1 0 0 1 -10
+p427
+aVAustin Croshere GSW 01/16/2008 GSW @ IND L 5 1 0 2 0.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 0 -11
+p428
+aVAl Harrington GSW 01/16/2008 GSW @ IND L 29 22 7 17 41.2 5 11 45.5 3 4 75.0 2 4 6 0 1 0 0 2 14
+p429
+aVKelenna Azubuike GSW 01/16/2008 GSW @ IND L 12 7 3 4 75.0 1 1 100.0 0 1 0.0 0 2 2 1 1 1 0 3 -17
+p430
+aVBaron Davis GSW 01/16/2008 GSW @ IND L 38 24 7 16 43.8 1 5 20.0 9 11 81.8 0 6 6 7 7 2 0 6 4
+p431
+aVStephen Jackson GSW 01/16/2008 GSW @ IND L 41 17 6 19 31.6 1 8 12.5 4 4 100.0 1 2 3 8 4 0 4 3 3
+p432
+aVMonta Ellis GSW 01/16/2008 GSW @ IND L 38 11 3 8 37.5 0 0 - 5 6 83.3 2 1 3 4 2 0 3 3 4
+p433
+aVAndris Biedrins GSW 01/16/2008 GSW @ IND L 20 13 4 6 66.7 0 0 - 5 8 62.5 3 1 4 0 1 0 1 5 -12
+p434
+aVMickael Pietrus GSW 01/16/2008 GSW @ IND L 12 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 0 1 2 3 -19
+p435
+aVMatt Barnes GSW 01/16/2008 GSW @ IND L 35 18 8 15 53.3 2 5 40.0 0 0 - 2 7 9 6 1 0 1 5 4
+p436
+aVMonta Ellis GSW 01/15/2008 GSW @ MIN W 36 17 6 13 46.2 0 0 - 5 7 71.4 1 0 1 4 0 0 2 1 4
+p437
+aVAl Harrington GSW 01/15/2008 GSW @ MIN W 23 12 4 8 50.0 2 4 50.0 2 2 100.0 0 2 2 0 0 0 1 2 12
+p438
+aVMickael Pietrus GSW 01/15/2008 GSW @ MIN W 24 10 4 7 57.1 2 3 66.7 0 0 - 2 2 4 1 1 3 0 5 11
+p439
+aVAustin Croshere GSW 01/15/2008 GSW @ MIN W 17 9 3 6 50.0 0 0 - 3 3 100.0 0 3 3 2 0 1 0 2 17
+p440
+aVBaron Davis GSW 01/15/2008 GSW @ MIN W 38 22 7 16 43.8 3 8 37.5 5 8 62.5 0 5 5 9 5 1 2 3 9
+p441
+aVPatrick O'Bryant GSW 01/15/2008 GSW @ MIN W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p442
+aVStephen Jackson GSW 01/15/2008 GSW @ MIN W 33 21 7 15 46.7 3 6 50.0 4 4 100.0 0 3 3 2 0 1 1 0 0
+p443
+aVCJ Watson GSW 01/15/2008 GSW @ MIN W 11 2 0 1 0.0 0 1 0.0 2 3 66.7 0 0 0 2 0 0 0 0 4
+p444
+aVAndris Biedrins GSW 01/15/2008 GSW @ MIN W 26 0 0 5 0.0 0 0 - 0 0 - 2 6 8 0 1 0 3 5 -15
+p445
+aVMatt Barnes GSW 01/15/2008 GSW @ MIN W 22 11 5 7 71.4 0 1 0.0 1 1 100.0 1 2 3 1 2 0 1 3 7
+p446
+aVKelenna Azubuike GSW 01/15/2008 GSW @ MIN W 10 1 0 2 0.0 0 1 0.0 1 2 50.0 0 4 4 0 0 1 1 2 -9
+p447
+aVAl Harrington GSW 01/13/2008 GSW vs. IND W 28 14 6 19 31.6 1 8 12.5 1 2 50.0 3 3 6 1 1 0 2 2 -19
+p448
+aVMatt Barnes GSW 01/13/2008 GSW vs. IND W 11 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 1 1 1 2 1 9
+p449
+aVCJ Watson GSW 01/13/2008 GSW vs. IND W 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 1 3
+p450
+aVMickael Pietrus GSW 01/13/2008 GSW vs. IND W 23 3 1 5 20.0 1 5 20.0 0 0 - 0 5 5 1 0 0 0 3 0
+p451
+aVAndris Biedrins GSW 01/13/2008 GSW vs. IND W 13 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 1 1 1 3 4
+p452
+aVMonta Ellis GSW 01/13/2008 GSW vs. IND W 42 29 13 22 59.1 0 0 - 3 3 100.0 2 6 8 4 3 0 1 1 5
+p453
+aVKelenna Azubuike GSW 01/13/2008 GSW vs. IND W 17 11 3 8 37.5 2 4 50.0 3 3 100.0 3 2 5 1 2 0 1 2 5
+p454
+aVAustin Croshere GSW 01/13/2008 GSW vs. IND W 16 7 2 6 33.3 2 4 50.0 1 2 50.0 1 2 3 3 2 0 0 2 10
+p455
+aVStephen Jackson GSW 01/13/2008 GSW vs. IND W 43 9 4 15 26.7 0 4 0.0 1 5 20.0 4 3 7 3 0 0 3 2 4
+p456
+aVBaron Davis GSW 01/13/2008 GSW vs. IND W 40 27 10 16 62.5 2 6 33.3 5 11 45.5 1 6 7 6 2 0 4 4 4
+p457
+aVKelenna Azubuike GSW 01/11/2008 GSW vs. MEM W 18 9 4 7 57.1 1 2 50.0 0 0 - 1 3 4 1 0 0 1 2 1
+p458
+aVMickael Pietrus GSW 01/11/2008 GSW vs. MEM W 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 3 2
+p459
+aVMatt Barnes GSW 01/11/2008 GSW vs. MEM W 16 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 2 1 2 2 1 -3
+p460
+aVPatrick O'Bryant GSW 01/11/2008 GSW vs. MEM W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p461
+aVCJ Watson GSW 01/11/2008 GSW vs. MEM W 14 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 2 -6
+p462
+aVBaron Davis GSW 01/11/2008 GSW vs. MEM W 40 20 8 17 47.1 3 7 42.9 1 2 50.0 0 6 6 19 2 2 1 4 7
+p463
+aVAustin Croshere GSW 01/11/2008 GSW vs. MEM W 7 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 2 -4
+p464
+aVMonta Ellis GSW 01/11/2008 GSW vs. MEM W 36 27 12 15 80.0 0 0 - 3 3 100.0 0 2 2 3 3 1 2 4 18
+p465
+aVStephen Jackson GSW 01/11/2008 GSW vs. MEM W 39 22 9 15 60.0 3 6 50.0 1 1 100.0 1 1 2 4 2 1 5 2 19
+p466
+aVAl Harrington GSW 01/11/2008 GSW vs. MEM W 31 19 7 13 53.8 5 10 50.0 0 0 - 0 9 9 2 1 0 2 3 10
+p467
+aVAndris Biedrins GSW 01/11/2008 GSW vs. MEM W 32 8 4 13 30.8 0 0 - 0 0 - 6 6 12 1 0 2 1 3 16
+p468
+aVAndris Biedrins GSW 01/09/2008 GSW @ POR L 13 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 0 0 1 1 -13
+p469
+aVBaron Davis GSW 01/09/2008 GSW @ POR L 14 4 1 6 16.7 1 2 50.0 1 2 50.0 0 1 1 1 0 0 2 3 -28
+p470
+aVMonta Ellis GSW 01/09/2008 GSW @ POR L 25 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 1 1 0 3 4 -25
+p471
+aVAl Harrington GSW 01/09/2008 GSW @ POR L 17 8 4 8 50.0 0 4 0.0 0 0 - 0 0 0 2 1 0 1 1 -8
+p472
+aVMatt Barnes GSW 01/09/2008 GSW @ POR L 25 14 5 9 55.6 0 3 0.0 4 4 100.0 1 5 6 1 0 1 0 1 1
+p473
+aVKelenna Azubuike GSW 01/09/2008 GSW @ POR L 17 2 1 7 14.3 0 2 0.0 0 0 - 2 2 4 1 1 0 0 0 -19
+p474
+aVMarco Belinelli GSW 01/09/2008 GSW @ POR L 13 9 4 6 66.7 1 3 33.3 0 0 - 0 0 0 0 0 0 2 0 4
+p475
+aVAustin Croshere GSW 01/09/2008 GSW @ POR L 23 7 3 8 37.5 1 4 25.0 0 0 - 1 8 9 2 0 0 2 5 3
+p476
+aVCJ Watson GSW 01/09/2008 GSW @ POR L 30 11 4 8 50.0 1 1 100.0 2 2 100.0 0 1 1 4 0 0 2 1 9
+p477
+aVBrandan Wright GSW 01/09/2008 GSW @ POR L 16 6 2 5 40.0 0 0 - 2 2 100.0 4 2 6 0 0 0 0 1 4
+p478
+aVStephen Jackson GSW 01/09/2008 GSW @ POR L 17 5 2 9 22.2 1 4 25.0 0 0 - 0 1 1 2 1 0 2 1 -27
+p479
+aVMickael Pietrus GSW 01/09/2008 GSW @ POR L 30 13 4 12 33.3 3 6 50.0 2 4 50.0 3 3 6 1 3 1 0 1 9
+p480
+aVBaron Davis GSW 01/07/2008 GSW vs. SAS W 48 34 11 18 61.1 3 7 42.9 9 10 90.0 0 6 6 14 1 0 0 2 13
+p481
+aVMickael Pietrus GSW 01/07/2008 GSW vs. SAS W 24 13 5 9 55.6 3 6 50.0 0 0 - 1 5 6 0 0 1 1 4 -7
+p482
+aVMonta Ellis GSW 01/07/2008 GSW vs. SAS W 51 16 8 18 44.4 0 0 - 0 0 - 3 6 9 3 1 0 2 3 5
+p483
+aVMatt Barnes GSW 01/07/2008 GSW vs. SAS W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 2 5
+p484
+aVAl Harrington GSW 01/07/2008 GSW vs. SAS W 23 9 3 7 42.9 2 4 50.0 1 2 50.0 0 1 1 1 1 1 0 5 -4
+p485
+aVKelenna Azubuike GSW 01/07/2008 GSW vs. SAS W 24 16 7 7 100.0 2 2 100.0 0 0 - 1 5 6 1 1 0 0 3 10
+p486
+aVStephen Jackson GSW 01/07/2008 GSW vs. SAS W 46 29 8 21 38.1 4 11 36.4 9 9 100.0 1 2 3 3 0 0 3 1 5
+p487
+aVAndris Biedrins GSW 01/07/2008 GSW vs. SAS W 41 13 5 8 62.5 0 0 - 3 4 75.0 4 6 10 3 2 2 3 5 18
+p488
+aVMonta Ellis GSW 01/04/2008 GSW vs. NOH L 24 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -23
+p489
+aVAl Harrington GSW 01/04/2008 GSW vs. NOH L 33 24 8 12 66.7 5 8 62.5 3 4 75.0 2 3 5 2 0 0 3 1 -10
+p490
+aVAndris Biedrins GSW 01/04/2008 GSW vs. NOH L 32 20 10 11 90.9 0 0 - 0 1 0.0 3 6 9 1 0 0 1 2 -20
+p491
+aVKelenna Azubuike GSW 01/04/2008 GSW vs. NOH L 10 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 1
+p492
+aVMatt Barnes GSW 01/04/2008 GSW vs. NOH L 24 8 3 6 50.0 0 3 0.0 2 4 50.0 2 5 7 4 1 0 2 1 8
+p493
+aVMarco Belinelli GSW 01/04/2008 GSW vs. NOH L 1 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p494
+aVPatrick O'Bryant GSW 01/04/2008 GSW vs. NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p495
+aVBrandan Wright GSW 01/04/2008 GSW vs. NOH L 7 5 2 3 66.7 0 0 - 1 2 50.0 0 4 4 0 0 0 0 0 0
+p496
+aVStephen Jackson GSW 01/04/2008 GSW vs. NOH L 42 11 4 15 26.7 1 5 20.0 2 2 100.0 0 6 6 9 0 2 3 4 -23
+p497
+aVMickael Pietrus GSW 01/04/2008 GSW vs. NOH L 19 4 2 6 33.3 0 1 0.0 0 0 - 2 0 2 1 0 1 0 3 15
+p498
+aVBaron Davis GSW 01/04/2008 GSW vs. NOH L 46 26 10 19 52.6 1 5 20.0 5 10 50.0 0 2 2 8 2 0 3 3 -18
+p499
+aVKelenna Azubuike GSW 01/02/2008 GSW @ DAL L 14 8 2 4 50.0 1 1 100.0 3 6 50.0 2 0 2 0 0 0 0 1 -5
+p500
+aVStephen Jackson GSW 01/02/2008 GSW @ DAL L 40 25 8 21 38.1 1 5 20.0 8 9 88.9 1 3 4 4 2 0 4 2 -22
+p501
+aVBrandan Wright GSW 01/02/2008 GSW @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p502
+aVMickael Pietrus GSW 01/02/2008 GSW @ DAL L 24 8 2 7 28.6 2 3 66.7 2 2 100.0 1 5 6 2 0 1 1 3 -10
+p503
+aVMatt Barnes GSW 01/02/2008 GSW @ DAL L 22 2 1 3 33.3 0 2 0.0 0 0 - 0 4 4 1 0 1 0 3 -14
+p504
+aVBaron Davis GSW 01/02/2008 GSW @ DAL L 37 10 2 14 14.3 2 6 33.3 4 6 66.7 1 1 2 6 1 0 3 1 -20
+p505
+aVPatrick O'Bryant GSW 01/02/2008 GSW @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p506
+aVAndris Biedrins GSW 01/02/2008 GSW @ DAL L 25 10 5 6 83.3 0 0 - 0 0 - 3 2 5 1 0 2 0 3 -2
+p507
+aVMonta Ellis GSW 01/02/2008 GSW @ DAL L 33 13 5 10 50.0 0 0 - 3 5 60.0 2 3 5 1 0 0 1 3 -13
+p508
+aVDJ Mbenga GSW 01/02/2008 GSW @ DAL L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p509
+aVAl Harrington GSW 01/02/2008 GSW @ DAL L 32 21 7 12 58.3 4 6 66.7 3 4 75.0 0 6 6 1 0 0 1 5 -16
+p510
+aVMarco Belinelli GSW 01/02/2008 GSW @ DAL L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p511
+aVMonta Ellis GSW 12/31/2007 GSW @ HOU W 40 20 8 11 72.7 0 0 - 4 4 100.0 2 4 6 2 1 0 2 1 12
+p512
+aVBaron Davis GSW 12/31/2007 GSW @ HOU W 43 23 8 23 34.8 3 10 30.0 4 4 100.0 2 4 6 7 2 1 7 3 17
+p513
+aVMickael Pietrus GSW 12/31/2007 GSW @ HOU W 10 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 2 1 0 1 4 6
+p514
+aVAndris Biedrins GSW 12/31/2007 GSW @ HOU W 25 6 3 4 75.0 0 0 - 0 0 - 2 6 8 0 2 1 1 3 -1
+p515
+aVAl Harrington GSW 12/31/2007 GSW @ HOU W 33 16 6 16 37.5 3 7 42.9 1 2 50.0 4 7 11 2 2 0 0 5 11
+p516
+aVStephen Jackson GSW 12/31/2007 GSW @ HOU W 34 18 6 14 42.9 4 7 57.1 2 3 66.7 1 4 5 4 0 0 4 5 11
+p517
+aVMatt Barnes GSW 12/31/2007 GSW @ HOU W 32 9 2 7 28.6 1 5 20.0 4 4 100.0 2 4 6 3 2 1 5 3 27
+p518
+aVKelenna Azubuike GSW 12/31/2007 GSW @ HOU W 22 13 4 7 57.1 2 4 50.0 3 4 75.0 2 3 5 2 1 0 1 2 2
+p519
+aVKelenna Azubuike GSW 12/30/2007 GSW @ DEN W 14 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 1 0 3 3 -7
+p520
+aVStephen Jackson GSW 12/30/2007 GSW @ DEN W 41 23 8 19 42.1 3 7 42.9 4 4 100.0 1 2 3 5 0 1 0 1 -1
+p521
+aVBaron Davis GSW 12/30/2007 GSW @ DEN W 42 28 8 20 40.0 2 8 25.0 10 11 90.9 0 4 4 8 3 1 2 4 20
+p522
+aVAl Harrington GSW 12/30/2007 GSW @ DEN W 19 18 7 14 50.0 3 6 50.0 1 1 100.0 2 2 4 2 2 1 1 2 9
+p523
+aVAndris Biedrins GSW 12/30/2007 GSW @ DEN W 24 8 4 4 100.0 0 0 - 0 2 0.0 1 13 14 0 2 1 0 3 4
+p524
+aVMonta Ellis GSW 12/30/2007 GSW @ DEN W 39 13 5 14 35.7 0 2 0.0 3 4 75.0 3 1 4 5 2 1 5 4 9
+p525
+aVMatt Barnes GSW 12/30/2007 GSW @ DEN W 26 8 2 5 40.0 1 3 33.3 3 4 75.0 0 7 7 5 0 1 4 5 7
+p526
+aVDJ Mbenga GSW 12/30/2007 GSW @ DEN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 3 1
+p527
+aVMickael Pietrus GSW 12/30/2007 GSW @ DEN W 29 4 2 6 33.3 0 2 0.0 0 2 0.0 1 3 4 1 2 1 1 5 8
+p528
+aVBaron Davis GSW 12/28/2007 GSW vs. DEN L 39 29 10 17 58.8 5 9 55.6 4 7 57.1 2 3 5 13 1 2 2 1 2
+p529
+aVMatt Barnes GSW 12/28/2007 GSW vs. DEN L 24 10 4 9 44.4 2 3 66.7 0 0 - 1 1 2 2 2 0 4 2 -6
+p530
+aVKelenna Azubuike GSW 12/28/2007 GSW vs. DEN L 18 5 2 6 33.3 1 2 50.0 0 0 - 3 3 6 2 0 0 0 1 2
+p531
+aVStephen Jackson GSW 12/28/2007 GSW vs. DEN L 47 32 9 27 33.3 5 15 33.3 9 10 90.0 3 2 5 4 1 0 0 3 -6
+p532
+aVAl Harrington GSW 12/28/2007 GSW vs. DEN L 31 13 5 15 33.3 0 4 0.0 3 4 75.0 1 3 4 2 0 0 0 4 3
+p533
+aVMonta Ellis GSW 12/28/2007 GSW vs. DEN L 39 12 5 16 31.3 0 1 0.0 2 2 100.0 4 2 6 6 0 1 1 4 -10
+p534
+aVAndris Biedrins GSW 12/28/2007 GSW vs. DEN L 28 14 7 10 70.0 0 0 - 0 0 - 4 8 12 0 0 2 1 4 -6
+p535
+aVMickael Pietrus GSW 12/28/2007 GSW vs. DEN L 14 5 2 4 50.0 1 2 50.0 0 0 - 1 2 3 0 1 0 0 3 1
+p536
+aVBaron Davis GSW 12/26/2007 GSW vs. MIN W 41 27 10 21 47.6 3 9 33.3 4 7 57.1 3 3 6 7 2 3 4 2 3
+p537
+aVDJ Mbenga GSW 12/26/2007 GSW vs. MIN W 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 1 1 1 -5
+p538
+aVAndris Biedrins GSW 12/26/2007 GSW vs. MIN W 29 6 3 5 60.0 0 0 - 0 0 - 3 8 11 1 0 3 1 5 7
+p539
+aVStephen Jackson GSW 12/26/2007 GSW vs. MIN W 40 19 6 15 40.0 1 6 16.7 6 7 85.7 1 5 6 6 2 0 5 2 -3
+p540
+aVMickael Pietrus GSW 12/26/2007 GSW vs. MIN W 9 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 2 1
+p541
+aVKelenna Azubuike GSW 12/26/2007 GSW vs. MIN W 24 2 1 8 12.5 0 4 0.0 0 0 - 1 3 4 1 1 1 1 2 -7
+p542
+aVMonta Ellis GSW 12/26/2007 GSW vs. MIN W 45 35 13 21 61.9 0 1 0.0 9 10 90.0 2 4 6 4 2 1 1 3 7
+p543
+aVAl Harrington GSW 12/26/2007 GSW vs. MIN W 27 11 4 14 28.6 3 7 42.9 0 0 - 1 2 3 2 2 1 0 4 16
+p544
+aVMatt Barnes GSW 12/26/2007 GSW vs. MIN W 16 2 0 2 0.0 0 2 0.0 2 2 100.0 1 1 2 4 2 0 2 3 1
+p545
+aVBaron Davis GSW 12/23/2007 GSW @ CLE W 48 27 9 22 40.9 2 7 28.6 7 7 100.0 0 5 5 10 4 0 3 2 9
+p546
+aVMickael Pietrus GSW 12/23/2007 GSW @ CLE W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 1 0 0 3 -4
+p547
+aVStephen Jackson GSW 12/23/2007 GSW @ CLE W 45 29 10 19 52.6 2 5 40.0 7 7 100.0 1 4 5 3 0 0 2 1 7
+p548
+aVAl Harrington GSW 12/23/2007 GSW @ CLE W 36 16 6 9 66.7 2 2 100.0 2 4 50.0 1 8 9 1 0 0 3 3 15
+p549
+aVKelenna Azubuike GSW 12/23/2007 GSW @ CLE W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p550
+aVMatt Barnes GSW 12/23/2007 GSW @ CLE W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 -5
+p551
+aVAndris Biedrins GSW 12/23/2007 GSW @ CLE W 36 9 4 8 50.0 0 0 - 1 2 50.0 1 11 12 1 2 2 4 4 23
+p552
+aVMonta Ellis GSW 12/23/2007 GSW @ CLE W 48 19 7 11 63.6 0 0 - 5 5 100.0 2 2 4 2 0 0 4 2 9
+p553
+aVKelenna Azubuike GSW 12/22/2007 GSW @ NJN L 26 7 3 5 60.0 1 2 50.0 0 0 - 1 3 4 2 1 0 1 4 7
+p554
+aVBaron Davis GSW 12/22/2007 GSW @ NJN L 36 15 6 19 31.6 3 7 42.9 0 0 - 1 1 2 3 3 1 5 4 -10
+p555
+aVStephen Jackson GSW 12/22/2007 GSW @ NJN L 44 21 5 18 27.8 1 6 16.7 10 13 76.9 0 5 5 3 1 0 2 4 -4
+p556
+aVAl Harrington GSW 12/22/2007 GSW @ NJN L 35 11 3 12 25.0 0 6 0.0 5 6 83.3 1 4 5 1 0 0 3 5 -2
+p557
+aVMickael Pietrus GSW 12/22/2007 GSW @ NJN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p558
+aVAndris Biedrins GSW 12/22/2007 GSW @ NJN L 30 16 7 11 63.6 0 0 - 2 2 100.0 6 4 10 1 0 0 1 3 -9
+p559
+aVMatt Barnes GSW 12/22/2007 GSW @ NJN L 23 6 3 8 37.5 0 3 0.0 0 0 - 3 4 7 3 0 0 3 4 0
+p560
+aVMonta Ellis GSW 12/22/2007 GSW @ NJN L 42 19 7 14 50.0 1 1 100.0 4 4 100.0 3 3 6 3 1 0 1 3 -6
+p561
+aVDJ Mbenga GSW 12/19/2007 GSW @ MIN W 11 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 0 3 2
+p562
+aVKelenna Azubuike GSW 12/19/2007 GSW @ MIN W 21 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 1 0 0 0 2 10
+p563
+aVMatt Barnes GSW 12/19/2007 GSW @ MIN W 13 6 2 5 40.0 2 4 50.0 0 0 - 1 3 4 1 1 0 2 0 -12
+p564
+aVAndris Biedrins GSW 12/19/2007 GSW @ MIN W 36 8 4 8 50.0 0 0 - 0 0 - 3 12 15 2 1 3 2 4 8
+p565
+aVBaron Davis GSW 12/19/2007 GSW @ MIN W 43 18 6 15 40.0 2 4 50.0 4 5 80.0 0 3 3 10 2 0 3 1 14
+p566
+aVAl Harrington GSW 12/19/2007 GSW @ MIN W 31 25 8 14 57.1 4 5 80.0 5 6 83.3 0 4 4 3 2 0 2 1 27
+p567
+aVMarco Belinelli GSW 12/19/2007 GSW @ MIN W 7 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p568
+aVStephen Jackson GSW 12/19/2007 GSW @ MIN W 35 20 7 16 43.8 1 4 25.0 5 5 100.0 0 3 3 2 1 0 3 1 12
+p569
+aVMonta Ellis GSW 12/19/2007 GSW @ MIN W 36 24 10 15 66.7 0 0 - 4 6 66.7 2 3 5 5 1 0 1 3 17
+p570
+aVMickael Pietrus GSW 12/19/2007 GSW @ MIN W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p571
+aVMarco Belinelli GSW 12/17/2007 GSW @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p572
+aVAndris Biedrins GSW 12/17/2007 GSW @ MEM W 13 12 5 6 83.3 0 0 - 2 4 50.0 2 5 7 0 1 0 1 1 1
+p573
+aVBaron Davis GSW 12/17/2007 GSW @ MEM W 41 22 8 17 47.1 1 5 20.0 5 5 100.0 1 3 4 8 2 0 2 5 12
+p574
+aVAl Harrington GSW 12/17/2007 GSW @ MEM W 31 17 6 11 54.5 0 3 0.0 5 6 83.3 2 4 6 1 2 0 1 3 5
+p575
+aVMickael Pietrus GSW 12/17/2007 GSW @ MEM W 16 8 2 5 40.0 2 3 66.7 2 2 100.0 0 3 3 0 1 0 2 5 12
+p576
+aVStephen Jackson GSW 12/17/2007 GSW @ MEM W 42 28 11 22 50.0 2 9 22.2 4 6 66.7 0 12 12 5 2 1 2 2 15
+p577
+aVMatt Barnes GSW 12/17/2007 GSW @ MEM W 30 0 0 5 0.0 0 2 0.0 0 0 - 3 4 7 4 1 0 4 3 -4
+p578
+aVKelenna Azubuike GSW 12/17/2007 GSW @ MEM W 26 15 6 6 100.0 2 2 100.0 1 1 100.0 2 5 7 2 0 0 1 5 -6
+p579
+aVMonta Ellis GSW 12/17/2007 GSW @ MEM W 39 23 9 16 56.3 0 0 - 5 6 83.3 3 2 5 3 1 0 2 3 5
+p580
+aVKelenna Azubuike GSW 12/16/2007 GSW @ DET L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p581
+aVAndris Biedrins GSW 12/16/2007 GSW @ DET L 23 9 4 6 66.7 0 0 - 1 3 33.3 2 4 6 2 1 0 0 2 -4
+p582
+aVAl Harrington GSW 12/16/2007 GSW @ DET L 18 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 1 0 0 0 1 -13
+p583
+aVMickael Pietrus GSW 12/16/2007 GSW @ DET L 17 4 1 2 50.0 0 1 0.0 2 4 50.0 1 1 2 2 1 0 0 3 -12
+p584
+aVBaron Davis GSW 12/16/2007 GSW @ DET L 23 2 1 8 12.5 0 3 0.0 0 0 - 1 1 2 1 2 0 3 3 -23
+p585
+aVMatt Barnes GSW 12/16/2007 GSW @ DET L 28 15 6 15 40.0 2 7 28.6 1 2 50.0 4 2 6 5 1 0 2 3 -10
+p586
+aVMonta Ellis GSW 12/16/2007 GSW @ DET L 29 8 2 5 40.0 0 0 - 4 6 66.7 0 2 2 3 0 1 0 2 -15
+p587
+aVBrandan Wright GSW 12/16/2007 GSW @ DET L 17 10 4 8 50.0 0 0 - 2 3 66.7 2 2 4 2 0 1 1 0 1
+p588
+aVStephen Jackson GSW 12/16/2007 GSW @ DET L 24 13 6 12 50.0 1 4 25.0 0 0 - 0 1 1 2 0 0 4 1 -16
+p589
+aVAustin Croshere GSW 12/16/2007 GSW @ DET L 22 12 3 6 50.0 1 2 50.0 5 5 100.0 1 2 3 3 0 0 3 0 -10
+p590
+aVMarco Belinelli GSW 12/16/2007 GSW @ DET L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 2 2 1
+p591
+aVDJ Mbenga GSW 12/16/2007 GSW @ DET L 16 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -3
+p592
+aVDJ Mbenga GSW 12/14/2007 GSW vs. LAL W 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p593
+aVStephen Jackson GSW 12/14/2007 GSW vs. LAL W 44 20 8 19 42.1 1 5 20.0 3 3 100.0 0 8 8 2 1 1 3 2 0
+p594
+aVKelenna Azubuike GSW 12/14/2007 GSW vs. LAL W 14 8 2 4 50.0 2 2 100.0 2 2 100.0 1 2 3 0 0 1 0 3 -3
+p595
+aVAl Harrington GSW 12/14/2007 GSW vs. LAL W 37 22 8 15 53.3 3 5 60.0 3 4 75.0 1 4 5 3 0 0 2 4 10
+p596
+aVAndris Biedrins GSW 12/14/2007 GSW vs. LAL W 30 10 5 8 62.5 0 0 - 0 0 - 5 6 11 1 3 2 3 2 10
+p597
+aVMatt Barnes GSW 12/14/2007 GSW vs. LAL W 17 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 1 1 0 0 4 -1
+p598
+aVMonta Ellis GSW 12/14/2007 GSW vs. LAL W 41 19 8 17 47.1 0 0 - 3 4 75.0 0 7 7 6 3 0 4 4 0
+p599
+aVMickael Pietrus GSW 12/14/2007 GSW vs. LAL W 10 2 1 5 20.0 0 2 0.0 0 1 0.0 0 1 1 0 0 0 0 2 -8
+p600
+aVBaron Davis GSW 12/14/2007 GSW vs. LAL W 35 22 6 15 40.0 5 8 62.5 5 6 83.3 2 1 3 6 3 0 2 5 6
+p601
+aVAustin Croshere GSW 12/14/2007 GSW vs. LAL W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 0
+p602
+aVStephen Jackson GSW 12/12/2007 GSW @ POR L 36 9 3 15 20.0 0 7 0.0 3 3 100.0 1 2 3 3 1 0 4 6 -4
+p603
+aVTroy Hudson GSW 12/12/2007 GSW @ POR L 17 10 3 6 50.0 2 4 50.0 2 2 100.0 0 2 2 1 0 0 1 0 -3
+p604
+aVBaron Davis GSW 12/12/2007 GSW @ POR L 42 23 9 18 50.0 3 6 50.0 2 2 100.0 4 4 8 11 2 0 3 2 -3
+p605
+aVAustin Croshere GSW 12/12/2007 GSW @ POR L 13 5 1 5 20.0 1 4 25.0 2 2 100.0 1 3 4 0 0 0 2 1 5
+p606
+aVDJ Mbenga GSW 12/12/2007 GSW @ POR L 6 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 1 0 0 2
+p607
+aVMatt Barnes GSW 12/12/2007 GSW @ POR L 36 15 5 11 45.5 3 7 42.9 2 2 100.0 0 12 12 3 3 1 0 3 -6
+p608
+aVKelenna Azubuike GSW 12/12/2007 GSW @ POR L 36 12 5 10 50.0 1 3 33.3 1 2 50.0 1 3 4 2 0 1 2 3 -16
+p609
+aVAl Harrington GSW 12/12/2007 GSW @ POR L 12 3 1 5 20.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 4 1
+p610
+aVMarco Belinelli GSW 12/12/2007 GSW @ POR L 8 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 1 0 0 0 -2
+p611
+aVAndris Biedrins GSW 12/12/2007 GSW @ POR L 24 6 3 6 50.0 0 0 - 0 0 - 3 0 3 0 0 0 1 3 -13
+p612
+aVMickael Pietrus GSW 12/12/2007 GSW @ POR L 10 5 2 5 40.0 1 2 50.0 0 0 - 2 1 3 0 0 1 2 3 -11
+p613
+aVMickael Pietrus GSW 12/11/2007 GSW vs. SAS W 19 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 1 12
+p614
+aVStephen Jackson GSW 12/11/2007 GSW vs. SAS W 43 20 6 16 37.5 3 6 50.0 5 6 83.3 1 4 5 5 4 0 1 3 17
+p615
+aVMonta Ellis GSW 12/11/2007 GSW vs. SAS W 20 6 3 6 50.0 0 1 0.0 0 0 - 1 0 1 3 0 0 3 3 -3
+p616
+aVAl Harrington GSW 12/11/2007 GSW vs. SAS W 22 6 3 8 37.5 0 2 0.0 0 0 - 1 8 9 1 1 0 0 3 1
+p617
+aVKelenna Azubuike GSW 12/11/2007 GSW vs. SAS W 44 16 7 18 38.9 1 4 25.0 1 2 50.0 6 3 9 2 1 1 1 5 18
+p618
+aVBaron Davis GSW 12/11/2007 GSW vs. SAS W 34 18 7 21 33.3 1 7 14.3 3 4 75.0 3 3 6 6 3 0 2 3 11
+p619
+aVAustin Croshere GSW 12/11/2007 GSW vs. SAS W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p620
+aVMatt Barnes GSW 12/11/2007 GSW vs. SAS W 35 16 6 14 42.9 2 6 33.3 2 2 100.0 4 4 8 4 3 2 0 4 -2
+p621
+aVTroy Hudson GSW 12/11/2007 GSW vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p622
+aVAndris Biedrins GSW 12/11/2007 GSW vs. SAS W 18 14 6 8 75.0 0 0 - 2 4 50.0 3 4 7 1 0 1 1 1 18
+p623
+aVMarco Belinelli GSW 12/11/2007 GSW vs. SAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p624
+aVMatt Barnes GSW 12/09/2007 GSW @ LAL L 19 8 4 5 80.0 0 1 0.0 0 0 - 2 0 2 2 0 0 2 1 -6
+p625
+aVAustin Croshere GSW 12/09/2007 GSW @ LAL L 4 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 7
+p626
+aVTroy Hudson GSW 12/09/2007 GSW @ LAL L 20 6 2 7 28.6 0 2 0.0 2 2 100.0 0 4 4 2 0 0 1 1 14
+p627
+aVMickael Pietrus GSW 12/09/2007 GSW @ LAL L 17 14 5 10 50.0 2 5 40.0 2 2 100.0 2 2 4 2 1 0 1 2 12
+p628
+aVDJ Mbenga GSW 12/09/2007 GSW @ LAL L 14 7 3 3 100.0 0 0 - 1 2 50.0 1 3 4 0 1 2 1 5 -3
+p629
+aVPatrick O'Bryant GSW 12/09/2007 GSW @ LAL L 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p630
+aVStephen Jackson GSW 12/09/2007 GSW @ LAL L 38 18 8 21 38.1 1 7 14.3 1 1 100.0 3 3 6 4 0 1 5 4 -14
+p631
+aVMonta Ellis GSW 12/09/2007 GSW @ LAL L 32 13 5 9 55.6 0 0 - 3 4 75.0 2 3 5 5 0 0 3 2 -20
+p632
+aVAndris Biedrins GSW 12/09/2007 GSW @ LAL L 13 7 2 4 50.0 0 0 - 3 4 75.0 1 5 6 0 0 0 1 3 -2
+p633
+aVBaron Davis GSW 12/09/2007 GSW @ LAL L 37 20 7 17 41.2 3 9 33.3 3 3 100.0 4 4 8 7 4 1 2 4 -19
+p634
+aVAl Harrington GSW 12/09/2007 GSW @ LAL L 16 6 2 6 33.3 1 5 20.0 1 2 50.0 0 1 1 0 0 0 0 3 3
+p635
+aVKelenna Azubuike GSW 12/09/2007 GSW @ LAL L 29 9 4 8 50.0 0 2 0.0 1 2 50.0 1 7 8 3 0 1 1 1 -14
+p636
+aVMickael Pietrus GSW 12/07/2007 GSW vs. MIA W 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 6
+p637
+aVDJ Mbenga GSW 12/07/2007 GSW vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p638
+aVTroy Hudson GSW 12/07/2007 GSW vs. MIA W 10 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 1 0 -2
+p639
+aVBaron Davis GSW 12/07/2007 GSW vs. MIA W 43 25 8 19 42.1 4 8 50.0 5 5 100.0 0 1 1 7 4 0 3 2 8
+p640
+aVAndris Biedrins GSW 12/07/2007 GSW vs. MIA W 23 14 6 8 75.0 0 0 - 2 2 100.0 6 6 12 2 2 1 1 2 5
+p641
+aVMatt Barnes GSW 12/07/2007 GSW vs. MIA W 29 5 1 6 16.7 1 3 33.3 2 2 100.0 4 2 6 1 1 0 1 5 1
+p642
+aVAl Harrington GSW 12/07/2007 GSW vs. MIA W 19 12 4 12 33.3 1 3 33.3 3 4 75.0 2 3 5 2 0 0 0 3 -8
+p643
+aVMonta Ellis GSW 12/07/2007 GSW vs. MIA W 39 21 7 15 46.7 0 1 0.0 7 9 77.8 1 4 5 4 1 0 0 1 9
+p644
+aVKelenna Azubuike GSW 12/07/2007 GSW vs. MIA W 19 13 4 8 50.0 2 3 66.7 3 4 75.0 4 3 7 1 1 0 0 1 11
+p645
+aVStephen Jackson GSW 12/07/2007 GSW vs. MIA W 44 28 8 20 40.0 4 11 36.4 8 9 88.9 0 2 2 3 0 0 2 2 10
+p646
+aVAustin Croshere GSW 12/05/2007 GSW vs. MIL W 13 11 4 6 66.7 3 4 75.0 0 0 - 0 6 6 0 0 0 1 2 7
+p647
+aVMonta Ellis GSW 12/05/2007 GSW vs. MIL W 29 11 4 10 40.0 0 0 - 3 3 100.0 1 5 6 4 1 1 2 2 23
+p648
+aVKelenna Azubuike GSW 12/05/2007 GSW vs. MIL W 26 16 6 8 75.0 1 1 100.0 3 4 75.0 1 1 2 3 2 0 0 1 10
+p649
+aVMatt Barnes GSW 12/05/2007 GSW vs. MIL W 19 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 1 3 0 2 1 14
+p650
+aVStephen Jackson GSW 12/05/2007 GSW vs. MIL W 32 20 7 17 41.2 3 5 60.0 3 3 100.0 1 2 3 4 2 0 3 1 19
+p651
+aVBaron Davis GSW 12/05/2007 GSW vs. MIL W 32 20 7 14 50.0 2 3 66.7 4 4 100.0 1 2 3 9 2 0 2 2 31
+p652
+aVPatrick O'Bryant GSW 12/05/2007 GSW vs. MIL W 6 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 1 1 1 1 1
+p653
+aVAl Harrington GSW 12/05/2007 GSW vs. MIL W 24 15 6 11 54.5 3 4 75.0 0 0 - 1 4 5 2 0 1 2 1 12
+p654
+aVTroy Hudson GSW 12/05/2007 GSW vs. MIL W 19 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 5 2 0 2 1 7
+p655
+aVAndris Biedrins GSW 12/05/2007 GSW vs. MIL W 21 8 4 8 50.0 0 0 - 0 0 - 3 2 5 0 1 0 1 5 11
+p656
+aVBrandan Wright GSW 12/05/2007 GSW vs. MIL W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 3
+p657
+aVDJ Mbenga GSW 12/05/2007 GSW vs. MIL W 14 0 0 1 0.0 0 0 - 0 0 - 2 5 7 0 1 3 0 3 12
+p658
+aVKelenna Azubuike GSW 12/03/2007 GSW vs. ORL L 29 11 5 10 50.0 0 2 0.0 1 1 100.0 0 2 2 2 0 0 1 3 -5
+p659
+aVAl Harrington GSW 12/03/2007 GSW vs. ORL L 28 13 4 17 23.5 2 9 22.2 3 3 100.0 5 6 11 2 1 0 3 5 -11
+p660
+aVMonta Ellis GSW 12/03/2007 GSW vs. ORL L 48 22 9 20 45.0 0 2 0.0 4 5 80.0 7 5 12 7 5 1 0 2 1
+p661
+aVAustin Croshere GSW 12/03/2007 GSW vs. ORL L 6 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 1 0 0 0 0 4
+p662
+aVAndris Biedrins GSW 12/03/2007 GSW vs. ORL L 30 11 4 6 66.7 0 0 - 3 3 100.0 3 12 15 1 0 1 0 3 2
+p663
+aVMatt Barnes GSW 12/03/2007 GSW vs. ORL L 36 14 5 10 50.0 3 7 42.9 1 2 50.0 2 3 5 2 1 0 2 6 -15
+p664
+aVBaron Davis GSW 12/03/2007 GSW vs. ORL L 41 19 6 23 26.1 1 8 12.5 6 7 85.7 0 3 3 9 3 1 3 6 3
+p665
+aVStephen Jackson GSW 12/03/2007 GSW vs. ORL L 48 25 8 21 38.1 3 10 30.0 6 10 60.0 0 3 3 4 2 0 6 0 -9
+p666
+aVDJ Mbenga GSW 12/02/2007 GSW @ SEA W 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -13
+p667
+aVMonta Ellis GSW 12/02/2007 GSW @ SEA W 31 18 8 15 53.3 1 2 50.0 1 2 50.0 1 3 4 5 3 2 2 1 26
+p668
+aVKelenna Azubuike GSW 12/02/2007 GSW @ SEA W 28 14 6 13 46.2 1 4 25.0 1 2 50.0 2 2 4 1 0 0 1 1 -9
+p669
+aVAustin Croshere GSW 12/02/2007 GSW @ SEA W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p670
+aVStephen Jackson GSW 12/02/2007 GSW @ SEA W 37 20 7 19 36.8 4 8 50.0 2 2 100.0 0 3 3 3 3 1 2 3 27
+p671
+aVBaron Davis GSW 12/02/2007 GSW @ SEA W 31 14 5 16 31.3 1 4 25.0 3 4 75.0 4 4 8 9 4 0 3 2 24
+p672
+aVTroy Hudson GSW 12/02/2007 GSW @ SEA W 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -15
+p673
+aVAndris Biedrins GSW 12/02/2007 GSW @ SEA W 28 18 9 12 75.0 0 0 - 0 1 0.0 5 11 16 1 0 3 0 5 23
+p674
+aVAl Harrington GSW 12/02/2007 GSW @ SEA W 31 20 7 15 46.7 4 6 66.7 2 2 100.0 0 7 7 2 1 1 1 2 25
+p675
+aVBrandan Wright GSW 12/02/2007 GSW @ SEA W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p676
+aVMickael Pietrus GSW 12/02/2007 GSW @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p677
+aVMatt Barnes GSW 12/02/2007 GSW @ SEA W 21 1 0 4 0.0 0 2 0.0 1 2 50.0 0 7 7 3 0 0 1 2 -14
+p678
+aVMonta Ellis GSW 11/29/2007 GSW vs. HOU W 43 18 8 14 57.1 0 1 0.0 2 2 100.0 3 7 10 1 0 1 4 2 19
+p679
+aVAl Harrington GSW 11/29/2007 GSW vs. HOU W 30 18 7 10 70.0 4 5 80.0 0 0 - 1 4 5 1 2 0 2 4 22
+p680
+aVMatt Barnes GSW 11/29/2007 GSW vs. HOU W 21 6 2 5 40.0 1 3 33.3 1 2 50.0 0 4 4 2 0 1 1 1 0
+p681
+aVMickael Pietrus GSW 11/29/2007 GSW vs. HOU W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 7
+p682
+aVStephen Jackson GSW 11/29/2007 GSW vs. HOU W 45 19 6 19 31.6 0 5 0.0 7 9 77.8 1 5 6 7 2 0 4 3 20
+p683
+aVKelenna Azubuike GSW 11/29/2007 GSW vs. HOU W 19 9 4 8 50.0 0 0 - 1 3 33.3 2 2 4 1 0 0 0 1 13
+p684
+aVTroy Hudson GSW 11/29/2007 GSW vs. HOU W 3 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p685
+aVAustin Croshere GSW 11/29/2007 GSW vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p686
+aVBaron Davis GSW 11/29/2007 GSW vs. HOU W 40 27 9 14 64.3 1 3 33.3 8 11 72.7 0 5 5 8 5 0 3 4 16
+p687
+aVAndris Biedrins GSW 11/29/2007 GSW vs. HOU W 23 9 3 6 50.0 0 0 - 3 6 50.0 2 8 10 2 0 1 0 3 8
+p688
+aVDJ Mbenga GSW 11/29/2007 GSW vs. HOU W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p689
+aVAndris Biedrins GSW 11/28/2007 GSW @ SAC W 31 13 6 7 85.7 0 0 - 1 2 50.0 4 9 13 3 0 4 0 4 -1
+p690
+aVMonta Ellis GSW 11/28/2007 GSW @ SAC W 36 22 7 13 53.8 0 0 - 8 9 88.9 0 1 1 2 2 1 1 4 10
+p691
+aVBaron Davis GSW 11/28/2007 GSW @ SAC W 43 19 6 16 37.5 0 3 0.0 7 9 77.8 2 2 4 6 2 0 5 5 11
+p692
+aVAl Harrington GSW 11/28/2007 GSW @ SAC W 22 12 4 10 40.0 2 5 40.0 2 2 100.0 1 5 6 0 2 0 1 5 14
+p693
+aVMickael Pietrus GSW 11/28/2007 GSW @ SAC W 24 5 2 8 25.0 1 5 20.0 0 0 - 2 3 5 0 1 1 1 4 -4
+p694
+aVKelenna Azubuike GSW 11/28/2007 GSW @ SAC W 18 5 2 11 18.2 1 6 16.7 0 0 - 1 3 4 2 0 0 1 1 -2
+p695
+aVStephen Jackson GSW 11/28/2007 GSW @ SAC W 42 21 8 15 53.3 3 7 42.9 2 2 100.0 1 3 4 4 5 1 6 5 2
+p696
+aVMatt Barnes GSW 11/28/2007 GSW @ SAC W 23 6 2 9 22.2 1 5 20.0 1 2 50.0 2 7 9 2 0 1 2 3 5
+p697
+aVKelenna Azubuike GSW 11/26/2007 GSW vs. PHX W 24 11 4 13 30.8 0 3 0.0 3 3 100.0 2 3 5 2 0 0 0 3 0
+p698
+aVAl Harrington GSW 11/26/2007 GSW vs. PHX W 27 14 5 9 55.6 2 2 100.0 2 2 100.0 1 4 5 5 2 0 0 2 15
+p699
+aVMatt Barnes GSW 11/26/2007 GSW vs. PHX W 35 8 3 5 60.0 2 2 100.0 0 0 - 1 6 7 7 2 2 3 2 14
+p700
+aVAndris Biedrins GSW 11/26/2007 GSW vs. PHX W 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 1 1 0 2 -1
+p701
+aVMickael Pietrus GSW 11/26/2007 GSW vs. PHX W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 2 0 0 2 0
+p702
+aVMarco Belinelli GSW 11/26/2007 GSW vs. PHX W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p703
+aVBrandan Wright GSW 11/26/2007 GSW vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p704
+aVBaron Davis GSW 11/26/2007 GSW vs. PHX W 42 28 11 24 45.8 5 10 50.0 1 4 25.0 2 4 6 9 2 0 3 3 20
+p705
+aVMonta Ellis GSW 11/26/2007 GSW vs. PHX W 35 31 14 23 60.9 0 1 0.0 3 5 60.0 0 3 3 4 2 0 1 4 18
+p706
+aVStephen Jackson GSW 11/26/2007 GSW vs. PHX W 42 32 13 21 61.9 3 7 42.9 3 3 100.0 4 4 8 2 1 0 2 3 14
+p707
+aVDJ Mbenga GSW 11/24/2007 GSW @ PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p708
+aVAndris Biedrins GSW 11/24/2007 GSW @ PHI W 38 11 5 9 55.6 0 0 - 1 1 100.0 5 9 14 1 1 3 2 5 -7
+p709
+aVStephen Jackson GSW 11/24/2007 GSW @ PHI W 44 18 6 18 33.3 1 4 25.0 5 11 45.5 3 4 7 4 0 0 8 1 8
+p710
+aVAl Harrington GSW 11/24/2007 GSW @ PHI W 22 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 2 1 0 3 4 3
+p711
+aVAustin Croshere GSW 11/24/2007 GSW @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p712
+aVKelenna Azubuike GSW 11/24/2007 GSW @ PHI W 29 10 3 10 30.0 2 3 66.7 2 2 100.0 4 6 10 1 0 0 0 3 -5
+p713
+aVBrandan Wright GSW 11/24/2007 GSW @ PHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p714
+aVBaron Davis GSW 11/24/2007 GSW @ PHI W 45 22 9 19 47.4 1 5 20.0 3 5 60.0 1 6 7 6 4 0 2 4 -5
+p715
+aVMickael Pietrus GSW 11/24/2007 GSW @ PHI W 37 6 1 8 12.5 1 6 16.7 3 4 75.0 0 5 5 1 1 2 0 4 12
+p716
+aVMonta Ellis GSW 11/24/2007 GSW @ PHI W 42 31 11 20 55.0 2 4 50.0 7 8 87.5 3 4 7 3 0 1 2 3 10
+p717
+aVStephen Jackson GSW 11/23/2007 GSW @ WAS W 43 28 11 24 45.8 6 11 54.5 0 2 0.0 2 4 6 3 1 1 2 2 3
+p718
+aVKelenna Azubuike GSW 11/23/2007 GSW @ WAS W 34 15 6 12 50.0 2 5 40.0 1 2 50.0 2 2 4 1 0 0 0 3 -5
+p719
+aVMonta Ellis GSW 11/23/2007 GSW @ WAS W 27 11 4 8 50.0 0 0 - 3 4 75.0 1 2 3 1 2 0 2 2 5
+p720
+aVBaron Davis GSW 11/23/2007 GSW @ WAS W 41 33 11 21 52.4 5 8 62.5 6 9 66.7 3 8 11 15 0 0 1 3 19
+p721
+aVAl Harrington GSW 11/23/2007 GSW @ WAS W 23 10 3 6 50.0 1 3 33.3 3 4 75.0 0 2 2 1 0 0 0 5 7
+p722
+aVBrandan Wright GSW 11/23/2007 GSW @ WAS W 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 3 7
+p723
+aVPatrick O'Bryant GSW 11/23/2007 GSW @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p724
+aVAndris Biedrins GSW 11/23/2007 GSW @ WAS W 32 10 5 7 71.4 0 0 - 0 0 - 4 5 9 4 1 0 2 3 14
+p725
+aVAustin Croshere GSW 11/23/2007 GSW @ WAS W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 2 5
+p726
+aVDJ Mbenga GSW 11/23/2007 GSW @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p727
+aVMickael Pietrus GSW 11/23/2007 GSW @ WAS W 20 11 4 7 57.1 1 2 50.0 2 2 100.0 0 4 4 1 2 0 0 2 -10
+p728
+aVPatrick O'Bryant GSW 11/21/2007 GSW @ BOS L 8 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 1 2 0 -4
+p729
+aVAustin Croshere GSW 11/21/2007 GSW @ BOS L 16 4 2 7 28.6 0 3 0.0 0 0 - 3 0 3 0 0 0 2 1 -16
+p730
+aVMickael Pietrus GSW 11/21/2007 GSW @ BOS L 27 8 3 10 30.0 1 6 16.7 1 3 33.3 0 5 5 1 0 0 1 3 -13
+p731
+aVBrandan Wright GSW 11/21/2007 GSW @ BOS L 13 7 2 4 50.0 0 0 - 3 4 75.0 4 5 9 0 0 0 0 3 -6
+p732
+aVMarco Belinelli GSW 11/21/2007 GSW @ BOS L 22 4 1 9 11.1 0 3 0.0 2 3 66.7 1 2 3 0 1 0 0 0 -9
+p733
+aVBaron Davis GSW 11/21/2007 GSW @ BOS L 29 13 3 13 23.1 1 4 25.0 6 6 100.0 0 3 3 4 5 0 3 3 -10
+p734
+aVDJ Mbenga GSW 11/21/2007 GSW @ BOS L 8 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 0 1 3
+p735
+aVStephen Jackson GSW 11/21/2007 GSW @ BOS L 29 15 4 15 26.7 1 3 33.3 6 7 85.7 2 3 5 2 1 0 3 4 -16
+p736
+aVMonta Ellis GSW 11/21/2007 GSW @ BOS L 43 21 10 15 66.7 0 1 0.0 1 3 33.3 2 0 2 3 4 0 2 3 -14
+p737
+aVKelenna Azubuike GSW 11/21/2007 GSW @ BOS L 24 3 1 7 14.3 1 2 50.0 0 0 - 0 1 1 0 0 0 2 2 -22
+p738
+aVAndris Biedrins GSW 11/21/2007 GSW @ BOS L 20 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -8
+p739
+aVAndris Biedrins GSW 11/20/2007 GSW @ NYK W 24 6 3 5 60.0 0 0 - 0 2 0.0 1 3 4 0 3 0 0 4 16
+p740
+aVMonta Ellis GSW 11/20/2007 GSW @ NYK W 26 9 3 7 42.9 0 1 0.0 3 4 75.0 0 2 2 4 2 1 0 3 16
+p741
+aVMarco Belinelli GSW 11/20/2007 GSW @ NYK W 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 4
+p742
+aVAustin Croshere GSW 11/20/2007 GSW @ NYK W 15 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 7
+p743
+aVAl Harrington GSW 11/20/2007 GSW @ NYK W 11 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 0 1 0 0 4 -9
+p744
+aVBaron Davis GSW 11/20/2007 GSW @ NYK W 39 31 11 20 55.0 4 6 66.7 5 7 71.4 3 3 6 7 2 1 2 1 25
+p745
+aVMickael Pietrus GSW 11/20/2007 GSW @ NYK W 30 16 6 8 75.0 0 2 0.0 4 6 66.7 1 5 6 2 4 1 3 3 31
+p746
+aVKelenna Azubuike GSW 11/20/2007 GSW @ NYK W 33 11 5 12 41.7 1 5 20.0 0 0 - 0 6 6 1 2 1 1 1 7
+p747
+aVStephen Jackson GSW 11/20/2007 GSW @ NYK W 40 23 8 19 42.1 2 10 20.0 5 8 62.5 1 5 6 7 3 2 4 3 24
+p748
+aVDJ Mbenga GSW 11/20/2007 GSW @ NYK W 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 3 1
+p749
+aVPatrick O'Bryant GSW 11/20/2007 GSW @ NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p750
+aVBrandan Wright GSW 11/18/2007 GSW @ TOR W 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p751
+aVStephen Jackson GSW 11/18/2007 GSW @ TOR W 41 17 4 9 44.4 1 5 20.0 8 11 72.7 1 2 3 5 1 2 1 3 8
+p752
+aVMickael Pietrus GSW 11/18/2007 GSW @ TOR W 17 11 4 7 57.1 0 3 0.0 3 4 75.0 0 4 4 0 1 0 2 2 -10
+p753
+aVAl Harrington GSW 11/18/2007 GSW @ TOR W 34 10 4 11 36.4 1 7 14.3 1 1 100.0 0 4 4 2 0 1 0 2 6
+p754
+aVBaron Davis GSW 11/18/2007 GSW @ TOR W 36 16 7 20 35.0 1 5 20.0 1 1 100.0 2 7 9 7 1 0 4 5 12
+p755
+aVKelenna Azubuike GSW 11/18/2007 GSW @ TOR W 29 16 6 13 46.2 4 6 66.7 0 0 - 1 4 5 2 1 0 3 1 13
+p756
+aVMonta Ellis GSW 11/18/2007 GSW @ TOR W 22 8 3 6 50.0 0 0 - 2 4 50.0 0 1 1 0 0 0 4 5 6
+p757
+aVAndris Biedrins GSW 11/18/2007 GSW @ TOR W 34 15 6 9 66.7 0 0 - 3 6 50.0 5 9 14 2 0 0 2 2 2
+p758
+aVAustin Croshere GSW 11/18/2007 GSW @ TOR W 17 9 4 6 66.7 1 2 50.0 0 0 - 2 4 6 2 1 0 0 1 6
+p759
+aVMarco Belinelli GSW 11/18/2007 GSW @ TOR W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p760
+aVMarco Belinelli GSW 11/16/2007 GSW vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p761
+aVMonta Ellis GSW 11/16/2007 GSW vs. LAC W 24 12 4 8 50.0 0 0 - 4 4 100.0 0 3 3 4 0 0 2 1 11
+p762
+aVBrandan Wright GSW 11/16/2007 GSW vs. LAC W 6 2 1 3 33.3 0 0 - 0 1 0.0 1 1 2 0 0 0 0 0 3
+p763
+aVAl Harrington GSW 11/16/2007 GSW vs. LAC W 39 27 10 18 55.6 3 6 50.0 4 4 100.0 1 7 8 1 0 0 1 3 11
+p764
+aVMatt Barnes GSW 11/16/2007 GSW vs. LAC W 43 17 7 15 46.7 3 5 60.0 0 1 0.0 2 4 6 8 1 1 2 4 22
+p765
+aVKelenna Azubuike GSW 11/16/2007 GSW vs. LAC W 39 10 3 9 33.3 0 2 0.0 4 6 66.7 2 5 7 1 1 0 1 3 3
+p766
+aVAustin Croshere GSW 11/16/2007 GSW vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p767
+aVPatrick O'Bryant GSW 11/16/2007 GSW vs. LAC W 12 10 5 6 83.3 0 0 - 0 0 - 2 2 4 1 1 1 0 6 -1
+p768
+aVAndris Biedrins GSW 11/16/2007 GSW vs. LAC W 34 23 9 12 75.0 0 0 - 5 6 83.3 4 14 18 1 1 2 1 5 15
+p769
+aVBaron Davis GSW 11/16/2007 GSW vs. LAC W 40 21 6 19 31.6 1 6 16.7 8 10 80.0 3 1 4 12 3 5 1 2 16
+p770
+aVMarco Belinelli GSW 11/14/2007 GSW vs. DET L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p771
+aVAl Harrington GSW 11/14/2007 GSW vs. DET L 38 20 7 17 41.2 4 10 40.0 2 3 66.7 1 7 8 1 3 0 0 5 -1
+p772
+aVKelenna Azubuike GSW 11/14/2007 GSW vs. DET L 48 16 6 17 35.3 3 7 42.9 1 2 50.0 2 4 6 4 1 0 2 3 -7
+p773
+aVBaron Davis GSW 11/14/2007 GSW vs. DET L 45 29 12 24 50.0 4 9 44.4 1 2 50.0 2 1 3 10 1 0 3 0 -9
+p774
+aVPatrick O'Bryant GSW 11/14/2007 GSW vs. DET L 5 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 1 0 2 2
+p775
+aVAndris Biedrins GSW 11/14/2007 GSW vs. DET L 37 18 6 13 46.2 0 0 - 6 6 100.0 8 3 11 2 0 1 1 5 -12
+p776
+aVMatt Barnes GSW 11/14/2007 GSW vs. DET L 31 12 5 15 33.3 2 6 33.3 0 0 - 3 4 7 6 0 2 2 4 12
+p777
+aVMonta Ellis GSW 11/14/2007 GSW vs. DET L 25 6 2 4 50.0 0 1 0.0 2 4 50.0 0 2 2 0 0 0 1 1 -14
+p778
+aVBrandan Wright GSW 11/14/2007 GSW vs. DET L 6 3 1 2 50.0 0 0 - 1 4 25.0 3 1 4 0 1 0 1 0 -1
+p779
+aVPatrick O'Bryant GSW 11/08/2007 GSW vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p780
+aVBaron Davis GSW 11/08/2007 GSW vs. DAL L 48 37 14 26 53.8 3 6 50.0 6 9 66.7 1 4 5 5 1 0 2 5 -5
+p781
+aVMonta Ellis GSW 11/08/2007 GSW vs. DAL L 48 12 4 15 26.7 0 1 0.0 4 8 50.0 0 3 3 7 0 0 1 5 -3
+p782
+aVKelenna Azubuike GSW 11/08/2007 GSW vs. DAL L 43 27 10 20 50.0 2 6 33.3 5 9 55.6 5 6 11 4 1 0 1 2 -8
+p783
+aVAl Harrington GSW 11/08/2007 GSW vs. DAL L 33 20 8 14 57.1 4 8 50.0 0 0 - 0 6 6 3 0 0 1 6 -5
+p784
+aVStephane Lasme GSW 11/08/2007 GSW vs. DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p785
+aVMarco Belinelli GSW 11/08/2007 GSW vs. DAL L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p786
+aVAndris Biedrins GSW 11/08/2007 GSW vs. DAL L 43 9 4 6 66.7 0 0 - 1 4 25.0 2 8 10 2 1 5 1 3 -13
+p787
+aVMatt Barnes GSW 11/08/2007 GSW vs. DAL L 16 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 2 1 0 0 2 5
+p788
+aVAl Harrington GSW 11/06/2007 GSW vs. CLE L 36 19 8 15 53.3 1 6 16.7 2 2 100.0 1 9 10 4 0 0 2 3 -4
+p789
+aVMickael Pietrus GSW 11/06/2007 GSW vs. CLE L 20 6 2 4 50.0 1 2 50.0 1 2 50.0 2 1 3 1 0 0 0 4 -7
+p790
+aVBaron Davis GSW 11/06/2007 GSW vs. CLE L 46 29 11 28 39.3 1 6 16.7 6 9 66.7 1 3 4 10 0 0 3 2 -3
+p791
+aVMonta Ellis GSW 11/06/2007 GSW vs. CLE L 33 22 7 18 38.9 3 4 75.0 5 7 71.4 0 5 5 1 3 2 1 1 9
+p792
+aVAndris Biedrins GSW 11/06/2007 GSW vs. CLE L 41 12 5 6 83.3 0 0 - 2 4 50.0 1 10 11 4 0 0 4 3 -6
+p793
+aVKelenna Azubuike GSW 11/06/2007 GSW vs. CLE L 29 6 2 10 20.0 0 2 0.0 2 2 100.0 2 2 4 1 1 0 0 1 -6
+p794
+aVPatrick O'Bryant GSW 11/06/2007 GSW vs. CLE L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p795
+aVBrandan Wright GSW 11/06/2007 GSW vs. CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p796
+aVMatt Barnes GSW 11/06/2007 GSW vs. CLE L 26 10 4 8 50.0 2 4 50.0 0 0 - 1 3 4 1 0 2 1 4 2
+p797
+aVMarco Belinelli GSW 11/03/2007 GSW @ UTA L 15 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 1 0 0 1 1 -7
+p798
+aVBaron Davis GSW 11/03/2007 GSW @ UTA L 29 11 3 11 27.3 1 6 16.7 4 6 66.7 0 1 1 8 1 0 3 2 -14
+p799
+aVMonta Ellis GSW 11/03/2007 GSW @ UTA L 29 11 3 10 30.0 0 3 0.0 5 6 83.3 0 2 2 3 1 0 2 2 -20
+p800
+aVAndris Biedrins GSW 11/03/2007 GSW @ UTA L 39 14 6 10 60.0 0 0 - 2 2 100.0 5 4 9 2 0 2 4 3 -16
+p801
+aVKelenna Azubuike GSW 11/03/2007 GSW @ UTA L 33 17 6 10 60.0 2 4 50.0 3 5 60.0 1 0 1 0 2 0 4 4 -16
+p802
+aVPatrick O'Bryant GSW 11/03/2007 GSW @ UTA L 12 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 1 4 -13
+p803
+aVMatt Barnes GSW 11/03/2007 GSW @ UTA L 21 6 2 7 28.6 1 4 25.0 1 2 50.0 0 3 3 5 0 0 2 3 -8
+p804
+aVMickael Pietrus GSW 11/03/2007 GSW @ UTA L 24 9 3 4 75.0 3 4 75.0 0 0 - 0 3 3 1 3 1 1 2 -10
+p805
+aVAl Harrington GSW 11/03/2007 GSW @ UTA L 39 38 15 20 75.0 6 8 75.0 2 3 66.7 3 4 7 3 2 0 2 4 -11
+p806
+aVAl Harrington GSW 11/02/2007 GSW @ LAC L 24 13 5 12 41.7 0 3 0.0 3 5 60.0 3 3 6 0 1 0 1 2 -7
+p807
+aVMickael Pietrus GSW 11/02/2007 GSW @ LAC L 27 9 2 5 40.0 2 5 40.0 3 4 75.0 0 4 4 0 0 1 0 4 -20
+p808
+aVTroy Hudson GSW 11/02/2007 GSW @ LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p809
+aVAndris Biedrins GSW 11/02/2007 GSW @ LAC L 35 12 6 10 60.0 0 0 - 0 0 - 3 4 7 1 0 3 2 4 -5
+p810
+aVMarco Belinelli GSW 11/02/2007 GSW @ LAC L 14 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 3 0 0 1 1 -3
+p811
+aVBaron Davis GSW 11/02/2007 GSW @ LAC L 46 22 8 24 33.3 1 9 11.1 5 6 83.3 2 6 8 11 1 0 5 3 -3
+p812
+aVPatrick O'Bryant GSW 11/02/2007 GSW @ LAC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 5
+p813
+aVMonta Ellis GSW 11/02/2007 GSW @ LAC L 39 14 7 17 41.2 0 2 0.0 0 1 0.0 0 2 2 5 3 0 1 3 -4
+p814
+aVMatt Barnes GSW 11/02/2007 GSW @ LAC L 10 6 2 4 50.0 1 3 33.3 1 2 50.0 0 0 0 1 1 0 0 3 2
+p815
+aVKelenna Azubuike GSW 11/02/2007 GSW @ LAC L 39 33 12 17 70.6 2 3 66.7 7 7 100.0 3 5 8 2 1 1 0 2 7
+p816
+aVPatrick O'Bryant GSW 10/30/2007 GSW vs. UTA L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -4
+p817
+aVMickael Pietrus GSW 10/30/2007 GSW vs. UTA L 28 17 6 8 75.0 3 5 60.0 2 4 50.0 0 5 5 0 1 1 1 5 -8
+p818
+aVMonta Ellis GSW 10/30/2007 GSW vs. UTA L 33 17 5 14 35.7 0 2 0.0 7 10 70.0 0 2 2 3 1 1 1 0 -14
+p819
+aVAndris Biedrins GSW 10/30/2007 GSW vs. UTA L 27 4 1 4 25.0 0 0 - 2 2 100.0 3 6 9 1 1 2 5 6 -9
+p820
+aVMatt Barnes GSW 10/30/2007 GSW vs. UTA L 15 2 1 7 14.3 0 3 0.0 0 0 - 2 2 4 1 0 1 2 2 -11
+p821
+aVKelenna Azubuike GSW 10/30/2007 GSW vs. UTA L 31 11 4 7 57.1 1 3 33.3 2 2 100.0 0 2 2 0 0 1 2 2 -14
+p822
+aVAustin Croshere GSW 10/30/2007 GSW vs. UTA L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -4
+p823
+aVAl Harrington GSW 10/30/2007 GSW vs. UTA L 30 10 4 10 40.0 0 2 0.0 2 4 50.0 2 4 6 2 0 1 2 4 -23
+p824
+aVMarco Belinelli GSW 10/30/2007 GSW vs. UTA L 12 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 0 0 0 1 0 -11
+p825
+aVTroy Hudson GSW 10/30/2007 GSW vs. UTA L 16 2 1 6 16.7 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -4
+p826
+aVBaron Davis GSW 10/30/2007 GSW vs. UTA L 36 25 7 15 46.7 0 4 0.0 11 16 68.8 0 4 4 10 5 2 4 5 -3
+p827
+a.

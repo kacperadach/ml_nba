@@ -1,0 +1,1426 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJoe Crawford NYK 04/15/2009 NYK vs. NJN W 12 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 0 1 0 0 1 6
+p2
+aVWilson Chandler NYK 04/15/2009 NYK vs. NJN W 36 16 5 14 35.7 1 5 20.0 5 6 83.3 3 2 5 2 2 1 1 2 15
+p3
+aVDavid Lee NYK 04/15/2009 NYK vs. NJN W 25 12 5 8 62.5 0 0 - 2 2 100.0 2 10 12 3 1 0 1 4 22
+p4
+aVQuentin Richardson NYK 04/15/2009 NYK vs. NJN W 11 9 4 8 50.0 1 3 33.3 0 0 - 1 3 4 0 1 0 1 0 -5
+p5
+aVNate Robinson NYK 04/15/2009 NYK vs. NJN W 32 12 4 12 33.3 0 6 0.0 4 4 100.0 3 3 6 4 2 0 1 3 19
+p6
+aVAl Harrington NYK 04/15/2009 NYK vs. NJN W 19 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 0 9
+p7
+aVLarry Hughes NYK 04/15/2009 NYK vs. NJN W 24 15 5 7 71.4 2 3 66.7 3 4 75.0 0 3 3 1 1 0 0 1 15
+p8
+aVChris Wilcox NYK 04/15/2009 NYK vs. NJN W 23 14 5 9 55.6 0 0 - 4 5 80.0 1 4 5 1 0 1 2 3 7
+p9
+aVChris Duhon NYK 04/15/2009 NYK vs. NJN W 27 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 6 1 1 1 2 34
+p10
+aVJared Jeffries NYK 04/15/2009 NYK vs. NJN W 25 4 2 8 25.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 23
+p11
+aVMouhamed Sene NYK 04/15/2009 NYK vs. NJN W 6 3 1 2 50.0 0 0 - 1 1 100.0 2 3 5 0 0 1 1 0 0
+p12
+aVQuentin Richardson NYK 04/12/2009 NYK @ MIA L 32 14 5 13 38.5 3 6 50.0 1 3 33.3 1 6 7 1 1 1 1 1 -7
+p13
+aVLarry Hughes NYK 04/12/2009 NYK @ MIA L 22 10 4 6 66.7 0 2 0.0 2 2 100.0 0 1 1 4 2 0 1 1 14
+p14
+aVAl Harrington NYK 04/12/2009 NYK @ MIA L 39 21 6 18 33.3 2 8 25.0 7 8 87.5 3 3 6 3 1 1 0 2 -24
+p15
+aVDavid Lee NYK 04/12/2009 NYK @ MIA L 26 11 5 13 38.5 0 0 - 1 1 100.0 5 6 11 1 0 0 0 1 -13
+p16
+aVChris Duhon NYK 04/12/2009 NYK @ MIA L 30 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 0 -12
+p17
+aVChris Wilcox NYK 04/12/2009 NYK @ MIA L 16 8 3 4 75.0 0 0 - 2 3 66.7 0 3 3 0 0 0 1 2 2
+p18
+aVNate Robinson NYK 04/12/2009 NYK @ MIA L 18 5 1 6 16.7 1 3 33.3 2 2 100.0 2 1 3 4 0 0 3 1 -3
+p19
+aVWilson Chandler NYK 04/12/2009 NYK @ MIA L 29 21 8 19 42.1 1 6 16.7 4 6 66.7 1 2 3 2 1 0 0 3 -31
+p20
+aVJared Jeffries NYK 04/12/2009 NYK @ MIA L 27 10 5 5 100.0 0 0 - 0 0 - 0 1 1 2 2 0 0 3 -11
+p21
+aVJared Jeffries NYK 04/10/2009 NYK @ ORL W 31 8 4 11 36.4 0 0 - 0 0 - 5 2 7 2 3 1 0 4 16
+p22
+aVLarry Hughes NYK 04/10/2009 NYK @ ORL W 18 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -8
+p23
+aVNate Robinson NYK 04/10/2009 NYK @ ORL W 20 10 4 6 66.7 2 3 66.7 0 2 0.0 0 2 2 3 1 0 1 2 -4
+p24
+aVWilson Chandler NYK 04/10/2009 NYK @ ORL W 38 22 9 17 52.9 1 5 20.0 3 4 75.0 2 6 8 3 1 0 0 3 13
+p25
+aVAl Harrington NYK 04/10/2009 NYK @ ORL W 40 27 10 25 40.0 3 9 33.3 4 4 100.0 3 3 6 4 1 0 3 3 14
+p26
+aVDavid Lee NYK 04/10/2009 NYK @ ORL W 31 20 7 14 50.0 0 0 - 6 8 75.0 2 14 16 4 1 0 0 4 14
+p27
+aVChris Duhon NYK 04/10/2009 NYK @ ORL W 29 8 2 5 40.0 1 2 50.0 3 4 75.0 1 3 4 4 0 0 2 0 14
+p28
+aVChris Wilcox NYK 04/10/2009 NYK @ ORL W 13 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 2 -6
+p29
+aVQuentin Richardson NYK 04/10/2009 NYK @ ORL W 20 6 2 5 40.0 1 3 33.3 1 1 100.0 0 2 2 3 1 0 1 0 -3
+p30
+aVNate Robinson NYK 04/08/2009 NYK vs. DET L 33 4 2 13 15.4 0 4 0.0 0 0 - 2 2 4 4 0 0 1 2 -11
+p31
+aVLarry Hughes NYK 04/08/2009 NYK vs. DET L 13 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -12
+p32
+aVJoe Crawford NYK 04/08/2009 NYK vs. DET L 11 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 0 1 1
+p33
+aVWilson Chandler NYK 04/08/2009 NYK vs. DET L 45 23 8 16 50.0 5 7 71.4 2 2 100.0 0 8 8 0 1 2 0 3 -25
+p34
+aVChris Wilcox NYK 04/08/2009 NYK vs. DET L 12 5 2 7 28.6 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 -10
+p35
+aVDavid Lee NYK 04/08/2009 NYK vs. DET L 28 9 4 7 57.1 0 0 - 1 2 50.0 1 3 4 1 0 0 1 1 -34
+p36
+aVCourtney Sims NYK 04/08/2009 NYK vs. DET L 11 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 2
+p37
+aVQuentin Richardson NYK 04/08/2009 NYK vs. DET L 22 5 2 7 28.6 0 3 0.0 1 1 100.0 1 1 2 3 1 0 0 2 -14
+p38
+aVAl Harrington NYK 04/08/2009 NYK vs. DET L 42 26 9 20 45.0 4 10 40.0 4 6 66.7 1 5 6 3 4 0 2 3 -16
+p39
+aVChris Duhon NYK 04/08/2009 NYK vs. DET L 24 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 4 0 0 1 0 -16
+p40
+aVJared Jeffries NYK 04/07/2009 NYK @ CHI L 21 0 0 4 0.0 0 1 0.0 0 0 - 3 1 4 3 0 0 2 4 -6
+p41
+aVAl Harrington NYK 04/07/2009 NYK @ CHI L 34 23 10 16 62.5 3 4 75.0 0 0 - 2 6 8 1 0 1 4 4 8
+p42
+aVWilson Chandler NYK 04/07/2009 NYK @ CHI L 42 26 11 15 73.3 4 4 100.0 0 0 - 1 4 5 3 2 3 2 1 -6
+p43
+aVChris Duhon NYK 04/07/2009 NYK @ CHI L 28 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 6 2 0 3 1 -1
+p44
+aVDavid Lee NYK 04/07/2009 NYK @ CHI L 33 17 6 12 50.0 0 0 - 5 6 83.3 3 10 13 6 1 2 4 4 -2
+p45
+aVNate Robinson NYK 04/07/2009 NYK @ CHI L 23 6 2 9 22.2 2 4 50.0 0 0 - 0 1 1 4 1 0 1 2 -17
+p46
+aVChris Wilcox NYK 04/07/2009 NYK @ CHI L 15 6 2 3 66.7 0 0 - 2 6 33.3 1 1 2 0 1 0 0 2 -5
+p47
+aVQuentin Richardson NYK 04/07/2009 NYK @ CHI L 25 17 7 12 58.3 3 7 42.9 0 0 - 0 3 3 0 0 0 0 1 -5
+p48
+aVLarry Hughes NYK 04/07/2009 NYK @ CHI L 20 6 2 6 33.3 1 2 50.0 1 2 50.0 0 3 3 3 2 0 2 2 -1
+p49
+aVWilson Chandler NYK 04/05/2009 NYK @ TOR W 34 17 6 15 40.0 3 7 42.9 2 2 100.0 0 4 4 1 1 1 0 1 0
+p50
+aVQuentin Richardson NYK 04/05/2009 NYK @ TOR W 24 16 6 11 54.5 4 7 57.1 0 0 - 0 5 5 0 1 1 0 4 5
+p51
+aVDavid Lee NYK 04/05/2009 NYK @ TOR W 28 16 8 10 80.0 0 0 - 0 0 - 3 7 10 4 0 1 1 4 4
+p52
+aVChris Duhon NYK 04/05/2009 NYK @ TOR W 32 12 5 9 55.6 2 4 50.0 0 0 - 0 2 2 5 0 0 4 1 8
+p53
+aVChris Wilcox NYK 04/05/2009 NYK @ TOR W 15 7 3 5 60.0 0 0 - 1 1 100.0 3 2 5 1 0 0 0 1 1
+p54
+aVAl Harrington NYK 04/05/2009 NYK @ TOR W 30 12 5 10 50.0 2 3 66.7 0 0 - 2 8 10 0 0 0 3 2 3
+p55
+aVLarry Hughes NYK 04/05/2009 NYK @ TOR W 17 5 2 5 40.0 1 1 100.0 0 0 - 1 2 3 2 0 0 1 0 1
+p56
+aVNate Robinson NYK 04/05/2009 NYK @ TOR W 28 13 5 14 35.7 1 4 25.0 2 2 100.0 0 1 1 7 0 0 2 2 12
+p57
+aVJared Jeffries NYK 04/05/2009 NYK @ TOR W 33 14 5 10 50.0 0 0 - 4 6 66.7 3 1 4 4 1 0 1 3 11
+p58
+aVChris Wilcox NYK 04/04/2009 NYK vs. TOR L 17 8 3 6 50.0 0 0 - 2 4 50.0 3 3 6 1 0 0 4 4 -3
+p59
+aVJared Jeffries NYK 04/04/2009 NYK vs. TOR L 40 7 3 10 30.0 1 1 100.0 0 0 - 4 2 6 3 2 3 4 3 -10
+p60
+aVChris Duhon NYK 04/04/2009 NYK vs. TOR L 36 22 8 14 57.1 0 4 0.0 6 6 100.0 0 3 3 5 1 0 2 5 -1
+p61
+aVNate Robinson NYK 04/04/2009 NYK vs. TOR L 28 7 3 11 27.3 1 4 25.0 0 0 - 0 4 4 3 2 1 1 3 5
+p62
+aVWilson Chandler NYK 04/04/2009 NYK vs. TOR L 27 4 2 7 28.6 0 1 0.0 0 0 - 2 3 5 0 0 0 1 0 -8
+p63
+aVQuentin Richardson NYK 04/04/2009 NYK vs. TOR L 23 13 6 11 54.5 1 4 25.0 0 0 - 1 5 6 0 1 0 1 0 -11
+p64
+aVAl Harrington NYK 04/04/2009 NYK vs. TOR L 33 22 8 14 57.1 1 4 25.0 5 6 83.3 1 6 7 1 2 0 1 2 -10
+p65
+aVDavid Lee NYK 04/04/2009 NYK vs. TOR L 37 12 4 9 44.4 0 0 - 4 6 66.7 1 6 7 6 0 0 1 2 3
+p66
+aVWilson Chandler NYK 03/31/2009 NYK @ DEN L 39 13 5 12 41.7 0 3 0.0 3 4 75.0 2 6 8 1 3 4 6 2 -7
+p67
+aVJared Jeffries NYK 03/31/2009 NYK @ DEN L 41 10 5 9 55.6 0 1 0.0 0 2 0.0 5 3 8 3 1 0 2 5 -14
+p68
+aVDavid Lee NYK 03/31/2009 NYK @ DEN L 38 19 9 19 47.4 0 1 0.0 1 2 50.0 4 8 12 1 3 1 5 2 -1
+p69
+aVNate Robinson NYK 03/31/2009 NYK @ DEN L 30 30 9 16 56.3 4 8 50.0 8 9 88.9 0 4 4 3 0 0 1 4 -4
+p70
+aVAl Harrington NYK 03/31/2009 NYK @ DEN L 36 23 7 17 41.2 1 5 20.0 8 9 88.9 1 4 5 3 4 1 2 3 14
+p71
+aVChris Wilcox NYK 03/31/2009 NYK @ DEN L 21 4 2 5 40.0 0 0 - 0 2 0.0 1 6 7 2 1 0 3 3 -13
+p72
+aVChris Duhon NYK 03/31/2009 NYK @ DEN L 35 5 1 7 14.3 1 4 25.0 2 2 100.0 0 1 1 11 0 0 2 2 -10
+p73
+aVAl Harrington NYK 03/30/2009 NYK @ UTA L 34 24 7 17 41.2 2 10 20.0 8 8 100.0 0 3 3 1 3 0 8 5 -8
+p74
+aVDavid Lee NYK 03/30/2009 NYK @ UTA L 36 21 8 14 57.1 0 1 0.0 5 8 62.5 3 7 10 1 3 0 1 3 -13
+p75
+aVEddy Curry NYK 03/30/2009 NYK @ UTA L 7 3 1 1 100.0 0 0 - 1 3 33.3 0 1 1 0 0 0 2 1 -5
+p76
+aVChris Wilcox NYK 03/30/2009 NYK @ UTA L 19 9 4 6 66.7 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 8
+p77
+aVLarry Hughes NYK 03/30/2009 NYK @ UTA L 16 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 1 2 0 0 1 -6
+p78
+aVNate Robinson NYK 03/30/2009 NYK @ UTA L 22 11 3 7 42.9 1 3 33.3 4 4 100.0 0 1 1 4 1 0 1 3 0
+p79
+aVJared Jeffries NYK 03/30/2009 NYK @ UTA L 36 11 4 8 50.0 0 1 0.0 3 5 60.0 2 3 5 3 3 2 1 3 -2
+p80
+aVWilson Chandler NYK 03/30/2009 NYK @ UTA L 37 14 5 10 50.0 1 3 33.3 3 4 75.0 0 7 7 2 1 0 2 3 -3
+p81
+aVChris Duhon NYK 03/30/2009 NYK @ UTA L 34 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 7 0 0 3 6 -11
+p82
+aVWilson Chandler NYK 03/28/2009 NYK @ CHA L 39 18 8 20 40.0 2 5 40.0 0 0 - 2 7 9 2 2 3 2 3 -10
+p83
+aVJared Jeffries NYK 03/28/2009 NYK @ CHA L 22 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 1 0 1 2 3
+p84
+aVChris Duhon NYK 03/28/2009 NYK @ CHA L 36 6 2 9 22.2 1 4 25.0 1 1 100.0 1 0 1 8 1 1 0 2 -6
+p85
+aVLarry Hughes NYK 03/28/2009 NYK @ CHA L 30 8 1 6 16.7 1 3 33.3 5 6 83.3 0 2 2 2 0 2 1 2 -21
+p86
+aVNate Robinson NYK 03/28/2009 NYK @ CHA L 31 13 4 12 33.3 3 7 42.9 2 2 100.0 1 1 2 3 1 0 4 1 5
+p87
+aVChris Wilcox NYK 03/28/2009 NYK @ CHA L 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p88
+aVAl Harrington NYK 03/28/2009 NYK @ CHA L 38 18 7 19 36.8 3 6 50.0 1 2 50.0 1 3 4 2 4 0 1 3 -12
+p89
+aVEddy Curry NYK 03/28/2009 NYK @ CHA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p90
+aVDavid Lee NYK 03/28/2009 NYK @ CHA L 30 14 6 14 42.9 0 0 - 2 3 66.7 2 8 10 1 0 0 0 2 -12
+p91
+aVWilson Chandler NYK 03/27/2009 NYK vs. NOH W 40 15 6 13 46.2 1 4 25.0 2 3 66.7 1 7 8 1 1 1 3 3 9
+p92
+aVAl Harrington NYK 03/27/2009 NYK vs. NOH W 36 23 7 15 46.7 5 11 45.5 4 4 100.0 1 7 8 2 0 0 3 1 10
+p93
+aVDavid Lee NYK 03/27/2009 NYK vs. NOH W 33 18 9 15 60.0 0 0 - 0 0 - 4 7 11 0 0 0 2 2 7
+p94
+aVLarry Hughes NYK 03/27/2009 NYK vs. NOH W 35 11 4 12 33.3 1 6 16.7 2 2 100.0 1 4 5 6 3 0 3 0 5
+p95
+aVChris Wilcox NYK 03/27/2009 NYK vs. NOH W 7 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 0 1 -2
+p96
+aVChris Duhon NYK 03/27/2009 NYK vs. NOH W 34 15 4 7 57.1 4 7 57.1 3 3 100.0 0 4 4 7 1 0 2 0 17
+p97
+aVJared Jeffries NYK 03/27/2009 NYK vs. NOH W 17 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -3
+p98
+aVNate Robinson NYK 03/27/2009 NYK vs. NOH W 19 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 4 0 0 3 3 3
+p99
+aVQuentin Richardson NYK 03/27/2009 NYK vs. NOH W 20 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 1 0 0 1 1 4
+p100
+aVNate Robinson NYK 03/25/2009 NYK vs. LAC L 18 13 6 8 75.0 1 3 33.3 0 0 - 1 2 3 4 1 0 1 3 -7
+p101
+aVChris Duhon NYK 03/25/2009 NYK vs. LAC L 43 10 4 10 40.0 1 4 25.0 1 1 100.0 0 0 0 10 1 0 4 2 3
+p102
+aVJared Jeffries NYK 03/25/2009 NYK vs. LAC L 23 10 3 7 42.9 0 0 - 4 4 100.0 3 1 4 1 0 0 0 4 -11
+p103
+aVQuentin Richardson NYK 03/25/2009 NYK vs. LAC L 23 9 4 7 57.1 1 3 33.3 0 0 - 0 0 0 1 1 0 2 0 7
+p104
+aVChris Wilcox NYK 03/25/2009 NYK vs. LAC L 11 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 0 -6
+p105
+aVWilson Chandler NYK 03/25/2009 NYK vs. LAC L 42 22 10 20 50.0 2 4 50.0 0 1 0.0 1 3 4 4 1 1 2 0 -6
+p106
+aVDavid Lee NYK 03/25/2009 NYK vs. LAC L 36 18 7 7 100.0 0 0 - 4 5 80.0 3 10 13 5 3 0 5 5 3
+p107
+aVLarry Hughes NYK 03/25/2009 NYK vs. LAC L 29 13 4 10 40.0 3 7 42.9 2 2 100.0 0 1 1 1 1 1 1 0 -12
+p108
+aVAl Harrington NYK 03/25/2009 NYK vs. LAC L 41 38 13 21 61.9 4 8 50.0 8 9 88.9 1 6 7 1 0 0 3 5 4
+p109
+aVQuentin Richardson NYK 03/23/2009 NYK vs. ORL L 37 17 5 13 38.5 3 5 60.0 4 6 66.7 0 5 5 1 1 0 1 3 -1
+p110
+aVNate Robinson NYK 03/23/2009 NYK vs. ORL L 32 19 6 23 26.1 1 7 14.3 6 7 85.7 2 5 7 6 0 0 4 4 -8
+p111
+aVWilson Chandler NYK 03/23/2009 NYK vs. ORL L 37 17 5 10 50.0 1 1 100.0 6 7 85.7 2 6 8 2 2 2 1 3 -1
+p112
+aVChris Duhon NYK 03/23/2009 NYK vs. ORL L 39 16 6 10 60.0 3 5 60.0 1 2 50.0 0 2 2 4 2 0 2 2 -7
+p113
+aVJared Jeffries NYK 03/23/2009 NYK vs. ORL L 14 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 2 2 1
+p114
+aVChris Wilcox NYK 03/23/2009 NYK vs. ORL L 17 8 4 6 66.7 0 0 - 0 6 0.0 2 2 4 0 1 0 1 6 3
+p115
+aVDavid Lee NYK 03/23/2009 NYK vs. ORL L 30 14 6 12 50.0 0 0 - 2 2 100.0 5 8 13 0 1 0 0 6 -9
+p116
+aVAl Harrington NYK 03/23/2009 NYK vs. ORL L 35 10 4 13 30.8 1 3 33.3 1 1 100.0 0 7 7 1 0 0 3 4 2
+p117
+aVChris Duhon NYK 03/21/2009 NYK @ ORL L 32 4 1 5 20.0 1 5 20.0 1 1 100.0 0 3 3 2 1 0 2 1 0
+p118
+aVAl Harrington NYK 03/21/2009 NYK @ ORL L 38 8 3 11 27.3 1 5 20.0 1 2 50.0 0 5 5 3 1 0 3 3 0
+p119
+aVChris Wilcox NYK 03/21/2009 NYK @ ORL L 20 10 5 8 62.5 0 0 - 0 1 0.0 1 3 4 1 0 1 1 5 -4
+p120
+aVNate Robinson NYK 03/21/2009 NYK @ ORL L 35 27 9 19 47.4 3 7 42.9 6 7 85.7 2 3 5 3 0 0 6 2 2
+p121
+aVQuentin Richardson NYK 03/21/2009 NYK @ ORL L 35 33 11 20 55.0 2 6 33.3 9 10 90.0 4 3 7 1 1 0 2 5 -3
+p122
+aVWilson Chandler NYK 03/21/2009 NYK @ ORL L 34 10 4 9 44.4 1 2 50.0 1 2 50.0 3 9 12 3 1 1 0 4 -12
+p123
+aVJared Jeffries NYK 03/21/2009 NYK @ ORL L 32 11 3 9 33.3 0 0 - 5 7 71.4 6 2 8 3 3 0 3 5 -3
+p124
+aVLarry Hughes NYK 03/21/2009 NYK @ ORL L 14 0 0 4 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 3 1 -15
+p125
+aVDavid Lee NYK 03/20/2009 NYK vs. SAC L 22 6 2 8 25.0 0 0 - 2 2 100.0 2 1 3 2 0 0 2 2 -29
+p126
+aVCheikh Samb NYK 03/20/2009 NYK vs. SAC L 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p127
+aVWilson Chandler NYK 03/20/2009 NYK vs. SAC L 34 17 6 15 40.0 0 2 0.0 5 7 71.4 1 5 6 3 1 2 2 5 -27
+p128
+aVQuentin Richardson NYK 03/20/2009 NYK vs. SAC L 26 10 4 10 40.0 1 3 33.3 1 2 50.0 1 6 7 2 1 0 1 3 -8
+p129
+aVChris Wilcox NYK 03/20/2009 NYK vs. SAC L 19 14 6 9 66.7 0 0 - 2 2 100.0 4 5 9 2 0 0 3 3 1
+p130
+aVChris Duhon NYK 03/20/2009 NYK vs. SAC L 37 11 3 10 30.0 3 7 42.9 2 2 100.0 0 0 0 1 2 0 1 1 -27
+p131
+aVDemetris Nichols NYK 03/20/2009 NYK vs. SAC L 5 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 0
+p132
+aVLarry Hughes NYK 03/20/2009 NYK vs. SAC L 28 3 1 8 12.5 0 2 0.0 1 2 50.0 0 2 2 1 0 0 1 2 -27
+p133
+aVNate Robinson NYK 03/20/2009 NYK vs. SAC L 40 19 6 14 42.9 2 5 40.0 5 7 71.4 0 2 2 3 2 1 1 3 -21
+p134
+aVJared Jeffries NYK 03/20/2009 NYK vs. SAC L 24 10 5 8 62.5 0 1 0.0 0 0 - 3 1 4 2 3 0 1 1 1
+p135
+aVChris Duhon NYK 03/18/2009 NYK vs. NJN L 30 6 3 6 50.0 0 3 0.0 0 1 0.0 1 1 2 3 3 0 3 1 -22
+p136
+aVJared Jeffries NYK 03/18/2009 NYK vs. NJN L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -6
+p137
+aVWilson Chandler NYK 03/18/2009 NYK vs. NJN L 39 12 6 19 31.6 0 2 0.0 0 0 - 3 7 10 3 0 1 2 3 -25
+p138
+aVAl Harrington NYK 03/18/2009 NYK vs. NJN L 31 21 10 16 62.5 1 5 20.0 0 0 - 0 5 5 0 0 0 2 2 -13
+p139
+aVDemetris Nichols NYK 03/18/2009 NYK vs. NJN L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p140
+aVDavid Lee NYK 03/18/2009 NYK vs. NJN L 32 13 5 7 71.4 0 0 - 3 4 75.0 1 5 6 2 3 0 5 3 -14
+p141
+aVCheikh Samb NYK 03/18/2009 NYK vs. NJN L 4 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -2
+p142
+aVChris Wilcox NYK 03/18/2009 NYK vs. NJN L 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p143
+aVLarry Hughes NYK 03/18/2009 NYK vs. NJN L 35 10 3 11 27.3 1 2 50.0 3 3 100.0 2 2 4 5 0 0 1 1 -10
+p144
+aVNate Robinson NYK 03/18/2009 NYK vs. NJN L 36 18 7 16 43.8 0 3 0.0 4 5 80.0 3 2 5 2 1 0 2 2 -23
+p145
+aVQuentin Richardson NYK 03/18/2009 NYK vs. NJN L 10 2 1 4 25.0 0 2 0.0 0 2 0.0 0 2 2 0 0 0 0 0 -14
+p146
+aVJared Jeffries NYK 03/15/2009 NYK @ CLE L 19 3 1 2 50.0 0 0 - 1 2 50.0 2 4 6 1 2 2 1 1 2
+p147
+aVNate Robinson NYK 03/15/2009 NYK @ CLE L 40 20 9 21 42.9 1 5 20.0 1 1 100.0 3 0 3 7 0 0 1 2 1
+p148
+aVAl Harrington NYK 03/15/2009 NYK @ CLE L 41 26 8 19 42.1 5 12 41.7 5 6 83.3 3 6 9 2 0 1 2 3 -5
+p149
+aVDavid Lee NYK 03/15/2009 NYK @ CLE L 38 10 5 16 31.3 0 0 - 0 1 0.0 5 9 14 4 1 0 1 2 1
+p150
+aVLarry Hughes NYK 03/15/2009 NYK @ CLE L 38 15 6 17 35.3 2 6 33.3 1 2 50.0 1 2 3 2 3 1 1 4 -16
+p151
+aVDanilo Gallinari NYK 03/15/2009 NYK @ CLE L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p152
+aVWilson Chandler NYK 03/15/2009 NYK @ CLE L 43 14 4 12 33.3 2 7 28.6 4 6 66.7 2 7 9 6 1 0 3 3 -9
+p153
+aVQuentin Richardson NYK 03/15/2009 NYK @ CLE L 15 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 1 0 3
+p154
+aVWilson Chandler NYK 03/13/2009 NYK @ MIN W 42 24 8 16 50.0 2 4 50.0 6 7 85.7 2 10 12 3 2 1 3 3 9
+p155
+aVQuentin Richardson NYK 03/13/2009 NYK @ MIN W 25 6 2 6 33.3 1 4 25.0 1 2 50.0 1 4 5 1 1 0 0 4 6
+p156
+aVDavid Lee NYK 03/13/2009 NYK @ MIN W 42 12 6 14 42.9 0 0 - 0 0 - 3 10 13 3 5 0 0 4 7
+p157
+aVAl Harrington NYK 03/13/2009 NYK @ MIN W 23 12 5 9 55.6 0 2 0.0 2 3 66.7 1 2 3 0 2 1 3 4 8
+p158
+aVDanilo Gallinari NYK 03/13/2009 NYK @ MIN W 12 3 1 5 20.0 1 4 25.0 0 0 - 1 1 2 0 0 0 0 1 -8
+p159
+aVLarry Hughes NYK 03/13/2009 NYK @ MIN W 36 12 5 15 33.3 1 6 16.7 1 2 50.0 0 4 4 1 3 0 2 0 2
+p160
+aVNate Robinson NYK 03/13/2009 NYK @ MIN W 37 25 5 15 33.3 1 3 33.3 14 17 82.4 3 3 6 7 2 0 4 3 14
+p161
+aVJared Jeffries NYK 03/13/2009 NYK @ MIN W 24 8 2 7 28.6 0 0 - 4 6 66.7 4 1 5 3 0 0 0 3 2
+p162
+aVChris Duhon NYK 03/11/2009 NYK @ DET W 23 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 4 1 0 1 1 -1
+p163
+aVNate Robinson NYK 03/11/2009 NYK @ DET W 37 30 9 22 40.9 2 8 25.0 10 10 100.0 0 3 3 6 0 0 0 4 1
+p164
+aVAl Harrington NYK 03/11/2009 NYK @ DET W 24 10 4 12 33.3 2 5 40.0 0 0 - 2 2 4 2 2 0 1 1 4
+p165
+aVLarry Hughes NYK 03/11/2009 NYK @ DET W 38 22 7 17 41.2 2 7 28.6 6 7 85.7 1 3 4 4 0 0 0 4 10
+p166
+aVDanilo Gallinari NYK 03/11/2009 NYK @ DET W 16 8 2 3 66.7 2 3 66.7 2 2 100.0 0 0 0 0 1 0 0 1 0
+p167
+aVDavid Lee NYK 03/11/2009 NYK @ DET W 41 16 7 12 58.3 0 0 - 2 5 40.0 6 12 18 2 1 0 0 3 6
+p168
+aVWilson Chandler NYK 03/11/2009 NYK @ DET W 43 17 8 16 50.0 1 4 25.0 0 1 0.0 1 5 6 2 0 1 0 3 8
+p169
+aVQuentin Richardson NYK 03/11/2009 NYK @ DET W 25 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 2 2 1 1 3 11
+p170
+aVJared Jeffries NYK 03/11/2009 NYK @ DET W 17 4 2 5 40.0 0 0 - 0 1 0.0 1 1 2 2 0 1 0 2 -14
+p171
+aVAl Harrington NYK 03/10/2009 NYK @ MIL W 37 18 4 14 28.6 2 6 33.3 8 9 88.9 1 5 6 3 0 0 0 4 14
+p172
+aVLarry Hughes NYK 03/10/2009 NYK @ MIL W 42 39 13 20 65.0 5 8 62.5 8 9 88.9 1 5 6 2 4 0 4 2 10
+p173
+aVNate Robinson NYK 03/10/2009 NYK @ MIL W 32 32 10 17 58.8 1 3 33.3 11 12 91.7 0 1 1 7 4 0 7 4 1
+p174
+aVChris Duhon NYK 03/10/2009 NYK @ MIL W 32 5 1 5 20.0 1 3 33.3 2 2 100.0 0 3 3 5 0 0 3 3 17
+p175
+aVDanilo Gallinari NYK 03/10/2009 NYK @ MIL W 20 2 0 5 0.0 0 3 0.0 2 2 100.0 1 1 2 0 1 0 0 4 -3
+p176
+aVWilson Chandler NYK 03/10/2009 NYK @ MIL W 33 4 2 6 33.3 0 2 0.0 0 1 0.0 0 2 2 2 0 0 4 5 -4
+p177
+aVChris Wilcox NYK 03/10/2009 NYK @ MIL W 8 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 3 -5
+p178
+aVDavid Lee NYK 03/10/2009 NYK @ MIL W 36 19 7 10 70.0 0 0 - 5 5 100.0 3 15 18 1 0 1 1 3 10
+p179
+aVDavid Lee NYK 03/08/2009 NYK @ NJN L 37 19 8 12 66.7 0 0 - 3 4 75.0 5 9 14 7 5 0 3 2 -4
+p180
+aVLarry Hughes NYK 03/08/2009 NYK @ NJN L 35 11 4 11 36.4 3 5 60.0 0 2 0.0 0 0 0 5 1 0 3 1 -5
+p181
+aVWilson Chandler NYK 03/08/2009 NYK @ NJN L 36 10 5 12 41.7 0 4 0.0 0 0 - 0 8 8 2 1 1 3 6 -6
+p182
+aVDanilo Gallinari NYK 03/08/2009 NYK @ NJN L 25 15 6 10 60.0 3 4 75.0 0 0 - 2 0 2 0 0 0 1 1 2
+p183
+aVChris Wilcox NYK 03/08/2009 NYK @ NJN L 11 9 3 5 60.0 0 0 - 3 3 100.0 0 1 1 1 0 0 0 3 1
+p184
+aVAl Harrington NYK 03/08/2009 NYK @ NJN L 23 14 5 8 62.5 2 3 66.7 2 4 50.0 0 4 4 0 1 0 2 1 -5
+p185
+aVQuentin Richardson NYK 03/08/2009 NYK @ NJN L 14 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 8
+p186
+aVNate Robinson NYK 03/08/2009 NYK @ NJN L 25 17 7 13 53.8 1 4 25.0 2 2 100.0 0 3 3 5 1 0 1 3 -3
+p187
+aVChris Duhon NYK 03/08/2009 NYK @ NJN L 34 6 2 5 40.0 2 5 40.0 0 1 0.0 0 2 2 6 0 0 6 1 -13
+p188
+aVNate Robinson NYK 03/07/2009 NYK vs. CHA L 31 20 5 15 33.3 1 4 25.0 9 9 100.0 2 1 3 4 2 0 3 3 4
+p189
+aVWilson Chandler NYK 03/07/2009 NYK vs. CHA L 25 16 5 9 55.6 2 6 33.3 4 5 80.0 1 2 3 0 0 0 1 4 -1
+p190
+aVAl Harrington NYK 03/07/2009 NYK vs. CHA L 40 24 8 14 57.1 4 8 50.0 4 6 66.7 0 2 2 2 4 0 3 4 -12
+p191
+aVQuentin Richardson NYK 03/07/2009 NYK vs. CHA L 17 7 3 12 25.0 1 4 25.0 0 0 - 3 6 9 0 0 0 1 1 -1
+p192
+aVDanilo Gallinari NYK 03/07/2009 NYK vs. CHA L 16 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 1 2 0 0 2 -2
+p193
+aVDavid Lee NYK 03/07/2009 NYK vs. CHA L 32 10 5 10 50.0 0 0 - 0 0 - 2 5 7 2 0 0 1 2 -10
+p194
+aVLarry Hughes NYK 03/07/2009 NYK vs. CHA L 40 13 3 8 37.5 0 4 0.0 7 8 87.5 1 3 4 4 2 0 1 2 -9
+p195
+aVChris Wilcox NYK 03/07/2009 NYK vs. CHA L 14 4 1 1 100.0 0 0 - 2 4 50.0 1 2 3 1 1 0 0 0 2
+p196
+aVChris Duhon NYK 03/07/2009 NYK vs. CHA L 26 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 3 0 0 3 1 -16
+p197
+aVChris Wilcox NYK 03/04/2009 NYK vs. ATL W 15 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 2 0 0 0 9
+p198
+aVChris Duhon NYK 03/04/2009 NYK vs. ATL W 37 14 4 9 44.4 1 4 25.0 5 6 83.3 2 0 2 5 0 0 4 1 -5
+p199
+aVDavid Lee NYK 03/04/2009 NYK vs. ATL W 33 13 4 8 50.0 0 0 - 5 6 83.3 3 11 14 1 2 2 1 4 -5
+p200
+aVAl Harrington NYK 03/04/2009 NYK vs. ATL W 37 20 8 18 44.4 2 5 40.0 2 4 50.0 4 6 10 1 4 0 1 4 3
+p201
+aVWilson Chandler NYK 03/04/2009 NYK vs. ATL W 36 18 7 15 46.7 0 3 0.0 4 4 100.0 0 2 2 2 1 0 0 4 -1
+p202
+aVQuentin Richardson NYK 03/04/2009 NYK vs. ATL W 19 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 2
+p203
+aVDanilo Gallinari NYK 03/04/2009 NYK vs. ATL W 22 17 6 11 54.5 4 5 80.0 1 1 100.0 0 3 3 0 0 0 0 1 14
+p204
+aVLarry Hughes NYK 03/04/2009 NYK vs. ATL W 41 23 9 18 50.0 2 4 50.0 3 4 75.0 0 4 4 4 3 0 2 4 3
+p205
+aVAl Harrington NYK 02/28/2009 NYK @ MIA L 38 16 4 16 25.0 0 6 0.0 8 9 88.9 1 4 5 2 0 0 2 5 -23
+p206
+aVWilson Chandler NYK 02/28/2009 NYK @ MIA L 21 5 1 3 33.3 1 3 33.3 2 2 100.0 0 3 3 4 0 3 1 3 4
+p207
+aVChris Duhon NYK 02/28/2009 NYK @ MIA L 38 19 6 9 66.7 5 5 100.0 2 3 66.7 1 5 6 9 0 0 5 0 4
+p208
+aVDavid Lee NYK 02/28/2009 NYK @ MIA L 38 18 7 8 87.5 0 0 - 4 6 66.7 2 11 13 0 0 0 1 2 4
+p209
+aVNate Robinson NYK 02/28/2009 NYK @ MIA L 33 29 10 21 47.6 5 10 50.0 4 5 80.0 5 3 8 4 0 0 2 5 1
+p210
+aVChris Wilcox NYK 02/28/2009 NYK @ MIA L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -9
+p211
+aVJared Jeffries NYK 02/28/2009 NYK @ MIA L 14 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 1 0 0 1 1
+p212
+aVLarry Hughes NYK 02/28/2009 NYK @ MIA L 38 19 7 16 43.8 4 7 57.1 1 2 50.0 1 1 2 5 2 0 4 4 2
+p213
+aVDanilo Gallinari NYK 02/28/2009 NYK @ MIA L 10 5 1 3 33.3 1 3 33.3 2 3 66.7 0 0 0 0 0 0 0 1 -9
+p214
+aVAl Harrington NYK 02/27/2009 NYK vs. PHI L 41 23 9 15 60.0 1 3 33.3 4 4 100.0 0 6 6 2 2 0 2 5 2
+p215
+aVNate Robinson NYK 02/27/2009 NYK vs. PHI L 29 14 4 9 44.4 2 4 50.0 4 4 100.0 1 1 2 3 1 0 2 4 -1
+p216
+aVQuentin Richardson NYK 02/27/2009 NYK vs. PHI L 11 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 0 0 0 1 3 -7
+p217
+aVChris Wilcox NYK 02/27/2009 NYK vs. PHI L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p218
+aVWilson Chandler NYK 02/27/2009 NYK vs. PHI L 23 5 2 9 22.2 1 3 33.3 0 0 - 1 5 6 0 1 3 1 4 -5
+p219
+aVChris Duhon NYK 02/27/2009 NYK vs. PHI L 36 11 2 8 25.0 2 3 66.7 5 5 100.0 0 1 1 6 0 0 5 4 -6
+p220
+aVDavid Lee NYK 02/27/2009 NYK vs. PHI L 38 17 7 12 58.3 0 0 - 3 5 60.0 3 8 11 1 0 0 0 4 -3
+p221
+aVLarry Hughes NYK 02/27/2009 NYK vs. PHI L 34 25 9 16 56.3 3 6 50.0 4 4 100.0 0 4 4 2 4 0 0 5 5
+p222
+aVDanilo Gallinari NYK 02/27/2009 NYK vs. PHI L 12 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 1 0 3 -2
+p223
+aVJared Jeffries NYK 02/27/2009 NYK vs. PHI L 14 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 2 1 0 1 2 -5
+p224
+aVNate Robinson NYK 02/25/2009 NYK vs. ORL L 36 32 11 26 42.3 2 8 25.0 8 10 80.0 2 1 3 4 0 0 4 5 -4
+p225
+aVJared Jeffries NYK 02/25/2009 NYK vs. ORL L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 5 2
+p226
+aVQuentin Richardson NYK 02/25/2009 NYK vs. ORL L 13 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 4 0 0 0 0 -4
+p227
+aVDanilo Gallinari NYK 02/25/2009 NYK vs. ORL L 13 8 3 3 100.0 2 2 100.0 0 0 - 2 3 5 2 0 0 1 1 4
+p228
+aVChris Duhon NYK 02/25/2009 NYK vs. ORL L 37 0 0 6 0.0 0 3 0.0 0 1 0.0 1 6 7 10 2 0 2 2 -1
+p229
+aVChris Wilcox NYK 02/25/2009 NYK vs. ORL L 5 2 1 3 33.3 0 0 - 0 1 0.0 1 0 1 0 1 0 0 2 -7
+p230
+aVLarry Hughes NYK 02/25/2009 NYK vs. ORL L 15 2 1 6 16.7 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -10
+p231
+aVDavid Lee NYK 02/25/2009 NYK vs. ORL L 33 10 4 13 30.8 0 0 - 2 2 100.0 3 7 10 0 0 0 0 4 -8
+p232
+aVWilson Chandler NYK 02/25/2009 NYK vs. ORL L 34 27 10 19 52.6 6 8 75.0 1 2 50.0 2 3 5 0 0 1 0 4 1
+p233
+aVAl Harrington NYK 02/25/2009 NYK vs. ORL L 37 26 11 20 55.0 3 7 42.9 1 1 100.0 2 5 7 1 1 0 3 4 2
+p234
+aVDavid Lee NYK 02/23/2009 NYK vs. IND W 36 20 8 17 47.1 0 0 - 4 8 50.0 4 9 13 3 0 0 0 4 10
+p235
+aVNate Robinson NYK 02/23/2009 NYK vs. IND W 36 41 11 18 61.1 4 6 66.7 15 19 78.9 4 4 8 3 2 0 1 3 7
+p236
+aVDanilo Gallinari NYK 02/23/2009 NYK vs. IND W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 2 4
+p237
+aVWilson Chandler NYK 02/23/2009 NYK vs. IND W 38 15 4 18 22.2 1 6 16.7 6 7 85.7 3 3 6 3 0 2 0 2 -1
+p238
+aVAl Harrington NYK 02/23/2009 NYK vs. IND W 38 27 10 20 50.0 3 10 30.0 4 5 80.0 0 7 7 0 1 0 0 4 1
+p239
+aVLarry Hughes NYK 02/23/2009 NYK vs. IND W 15 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 0 2 0 2 3 -2
+p240
+aVChris Wilcox NYK 02/23/2009 NYK vs. IND W 12 5 2 3 66.7 0 0 - 1 3 33.3 3 1 4 1 1 0 1 2 -6
+p241
+aVChris Duhon NYK 02/23/2009 NYK vs. IND W 36 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 5 0 0 6 0 3
+p242
+aVJared Jeffries NYK 02/23/2009 NYK vs. IND W 22 6 3 5 60.0 0 0 - 0 2 0.0 3 2 5 0 0 1 1 3 4
+p243
+aVQuentin Richardson NYK 02/22/2009 NYK @ TOR L 13 3 1 1 100.0 1 1 100.0 0 0 - 1 3 4 1 0 0 0 2 -12
+p244
+aVAl Harrington NYK 02/22/2009 NYK @ TOR L 38 31 13 21 61.9 4 8 50.0 1 1 100.0 0 7 7 0 1 1 0 5 -9
+p245
+aVWilson Chandler NYK 02/22/2009 NYK @ TOR L 24 2 1 6 16.7 0 2 0.0 0 0 - 1 3 4 2 1 0 2 1 -7
+p246
+aVDavid Lee NYK 02/22/2009 NYK @ TOR L 41 17 6 15 40.0 0 0 - 5 9 55.6 4 11 15 3 1 0 1 2 0
+p247
+aVChris Duhon NYK 02/22/2009 NYK @ TOR L 36 17 6 15 40.0 4 7 57.1 1 1 100.0 0 0 0 7 0 0 6 0 -7
+p248
+aVLarry Hughes NYK 02/22/2009 NYK @ TOR L 16 3 1 9 11.1 1 3 33.3 0 0 - 0 1 1 2 0 1 1 0 -8
+p249
+aVJared Jeffries NYK 02/22/2009 NYK @ TOR L 29 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 2 0 0 1 2
+p250
+aVChris Wilcox NYK 02/22/2009 NYK @ TOR L 10 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 0 0 0 1 0 -9
+p251
+aVNate Robinson NYK 02/22/2009 NYK @ TOR L 33 18 7 16 43.8 0 1 0.0 4 4 100.0 1 3 4 8 2 0 2 2 -5
+p252
+aVNate Robinson NYK 02/20/2009 NYK vs. TOR W 28 26 10 18 55.6 4 8 50.0 2 3 66.7 1 4 5 7 1 1 1 5 13
+p253
+aVChris Duhon NYK 02/20/2009 NYK vs. TOR W 29 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 5 0 0 1 2 25
+p254
+aVDavid Lee NYK 02/20/2009 NYK vs. TOR W 38 24 9 16 56.3 0 0 - 6 6 100.0 4 11 15 4 0 0 1 3 24
+p255
+aVDanilo Gallinari NYK 02/20/2009 NYK vs. TOR W 23 10 3 10 30.0 2 8 25.0 2 2 100.0 1 4 5 2 0 0 1 3 5
+p256
+aVWilson Chandler NYK 02/20/2009 NYK vs. TOR W 40 32 12 23 52.2 6 10 60.0 2 2 100.0 0 6 6 3 0 0 2 2 32
+p257
+aVJared Jeffries NYK 02/20/2009 NYK vs. TOR W 25 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 0 4 21
+p258
+aVQuentin Richardson NYK 02/20/2009 NYK vs. TOR W 26 7 2 8 25.0 1 5 20.0 2 2 100.0 1 7 8 5 1 0 2 1 9
+p259
+aVAl Harrington NYK 02/20/2009 NYK vs. TOR W 31 20 7 10 70.0 4 6 66.7 2 2 100.0 0 5 5 1 0 0 0 2 21
+p260
+aVQuentin Richardson NYK 02/17/2009 NYK vs. SAS W 22 8 3 10 30.0 1 5 20.0 1 1 100.0 0 1 1 2 0 0 1 0 4
+p261
+aVAl Harrington NYK 02/17/2009 NYK vs. SAS W 34 11 3 11 27.3 0 3 0.0 5 8 62.5 3 7 10 1 1 0 4 2 3
+p262
+aVDanilo Gallinari NYK 02/17/2009 NYK vs. SAS W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p263
+aVWilson Chandler NYK 02/17/2009 NYK vs. SAS W 35 17 7 14 50.0 2 5 40.0 1 2 50.0 0 2 2 0 1 2 2 1 1
+p264
+aVJared Jeffries NYK 02/17/2009 NYK vs. SAS W 22 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 3 -2
+p265
+aVChris Duhon NYK 02/17/2009 NYK vs. SAS W 46 17 7 9 77.8 1 3 33.3 2 3 66.7 1 3 4 8 1 0 3 1 8
+p266
+aVTim Thomas NYK 02/17/2009 NYK vs. SAS W 27 8 3 9 33.3 1 4 25.0 1 2 50.0 0 5 5 1 0 0 1 4 6
+p267
+aVNate Robinson NYK 02/17/2009 NYK vs. SAS W 38 32 13 23 56.5 4 8 50.0 2 3 66.7 3 7 10 3 1 0 1 2 5
+p268
+aVDavid Lee NYK 02/17/2009 NYK vs. SAS W 30 13 6 13 46.2 0 0 - 1 2 50.0 2 10 12 4 3 0 1 6 1
+p269
+aVAl Harrington NYK 02/11/2009 NYK @ LAC L 43 19 8 24 33.3 1 10 10.0 2 4 50.0 5 6 11 3 0 0 3 4 -8
+p270
+aVDanilo Gallinari NYK 02/11/2009 NYK @ LAC L 17 4 2 8 25.0 0 1 0.0 0 0 - 1 3 4 0 0 0 1 0 0
+p271
+aVWilson Chandler NYK 02/11/2009 NYK @ LAC L 49 27 11 20 55.0 3 7 42.9 2 2 100.0 0 5 5 3 1 0 2 3 -9
+p272
+aVJared Jeffries NYK 02/11/2009 NYK @ LAC L 42 16 6 10 60.0 0 0 - 4 4 100.0 5 5 10 3 1 2 1 5 -8
+p273
+aVAnthony Roberson NYK 02/11/2009 NYK @ LAC L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p274
+aVDavid Lee NYK 02/11/2009 NYK @ LAC L 43 17 6 15 40.0 0 0 - 5 7 71.4 4 8 12 2 1 0 0 4 -4
+p275
+aVNate Robinson NYK 02/11/2009 NYK @ LAC L 52 33 13 28 46.4 2 11 18.2 5 5 100.0 2 7 9 15 5 0 1 4 5
+p276
+aVTim Thomas NYK 02/11/2009 NYK @ LAC L 5 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 0 1 0 0 0 5
+p277
+aVMalik Rose NYK 02/11/2009 NYK @ LAC L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 2 0 3
+p278
+aVJared Jeffries NYK 02/10/2009 NYK @ GSW L 24 10 4 6 66.7 0 0 - 2 3 66.7 1 1 2 1 1 1 5 2 0
+p279
+aVTim Thomas NYK 02/10/2009 NYK @ GSW L 9 4 2 4 50.0 0 0 - 0 0 - 0 4 4 1 0 0 0 0 4
+p280
+aVDanilo Gallinari NYK 02/10/2009 NYK @ GSW L 15 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -10
+p281
+aVAnthony Roberson NYK 02/10/2009 NYK @ GSW L 7 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 2
+p282
+aVWilson Chandler NYK 02/10/2009 NYK @ GSW L 31 6 3 6 50.0 0 2 0.0 0 0 - 0 7 7 3 0 1 2 2 -7
+p283
+aVAl Harrington NYK 02/10/2009 NYK @ GSW L 36 24 9 20 45.0 4 8 50.0 2 4 50.0 2 7 9 2 0 0 4 1 -13
+p284
+aVDavid Lee NYK 02/10/2009 NYK @ GSW L 43 27 10 15 66.7 0 0 - 7 8 87.5 6 5 11 4 1 0 2 5 -22
+p285
+aVNate Robinson NYK 02/10/2009 NYK @ GSW L 39 30 12 22 54.5 3 7 42.9 3 8 37.5 2 4 6 3 1 0 2 4 -11
+p286
+aVMalik Rose NYK 02/10/2009 NYK @ GSW L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p287
+aVChris Duhon NYK 02/10/2009 NYK @ GSW L 31 13 4 11 36.4 3 9 33.3 2 2 100.0 0 0 0 9 0 0 1 2 -30
+p288
+aVTim Thomas NYK 02/08/2009 NYK @ POR L 24 17 6 9 66.7 5 7 71.4 0 0 - 0 2 2 1 1 0 1 3 6
+p289
+aVDavid Lee NYK 02/08/2009 NYK @ POR L 36 29 10 15 66.7 0 0 - 9 9 100.0 2 9 11 2 0 0 4 2 -5
+p290
+aVChris Duhon NYK 02/08/2009 NYK @ POR L 41 10 4 12 33.3 2 7 28.6 0 0 - 0 1 1 10 0 0 4 0 2
+p291
+aVAl Harrington NYK 02/08/2009 NYK @ POR L 36 19 7 15 46.7 2 3 66.7 3 3 100.0 0 3 3 2 0 0 1 3 -1
+p292
+aVNate Robinson NYK 02/08/2009 NYK @ POR L 30 19 8 16 50.0 3 8 37.5 0 0 - 2 2 4 4 1 0 1 3 3
+p293
+aVDanilo Gallinari NYK 02/08/2009 NYK @ POR L 14 6 2 3 66.7 2 3 66.7 0 0 - 1 0 1 0 1 0 0 0 -5
+p294
+aVQuentin Richardson NYK 02/08/2009 NYK @ POR L 28 2 1 3 33.3 0 0 - 0 0 - 0 5 5 4 1 1 0 1 13
+p295
+aVJared Jeffries NYK 02/08/2009 NYK @ POR L 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -2
+p296
+aVWilson Chandler NYK 02/08/2009 NYK @ POR L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 3 1 0 2 1 -16
+p297
+aVTim Thomas NYK 02/06/2009 NYK vs. BOS L 19 3 1 3 33.3 0 2 0.0 1 2 50.0 0 0 0 1 0 0 1 2 -13
+p298
+aVDavid Lee NYK 02/06/2009 NYK vs. BOS L 34 18 8 15 53.3 0 0 - 2 2 100.0 5 13 18 1 0 0 2 3 -6
+p299
+aVWilson Chandler NYK 02/06/2009 NYK vs. BOS L 25 9 4 8 50.0 1 2 50.0 0 1 0.0 0 5 5 1 0 1 1 4 -2
+p300
+aVNate Robinson NYK 02/06/2009 NYK vs. BOS L 25 13 4 12 33.3 2 6 33.3 3 3 100.0 0 1 1 4 0 0 2 2 -6
+p301
+aVAl Harrington NYK 02/06/2009 NYK vs. BOS L 42 27 11 26 42.3 3 8 37.5 2 2 100.0 0 3 3 2 5 0 4 3 0
+p302
+aVJared Jeffries NYK 02/06/2009 NYK vs. BOS L 22 1 0 4 0.0 0 0 - 1 4 25.0 5 1 6 2 2 0 0 4 -3
+p303
+aVChris Duhon NYK 02/06/2009 NYK vs. BOS L 33 15 5 11 45.5 2 5 40.0 3 4 75.0 1 2 3 7 1 0 2 2 -13
+p304
+aVQuentin Richardson NYK 02/06/2009 NYK vs. BOS L 24 9 3 10 30.0 3 6 50.0 0 0 - 1 2 3 1 0 0 0 1 -2
+p305
+aVDanilo Gallinari NYK 02/06/2009 NYK vs. BOS L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 0 0 0 1 3 -5
+p306
+aVQuentin Richardson NYK 02/04/2009 NYK vs. CLE L 25 5 2 11 18.2 1 3 33.3 0 0 - 1 4 5 2 0 0 1 3 -4
+p307
+aVJared Jeffries NYK 02/04/2009 NYK vs. CLE L 12 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 1 0 1 0 2 -8
+p308
+aVNate Robinson NYK 02/04/2009 NYK vs. CLE L 28 11 5 9 55.6 1 3 33.3 0 0 - 0 1 1 4 0 0 1 3 3
+p309
+aVTim Thomas NYK 02/04/2009 NYK vs. CLE L 24 9 2 5 40.0 1 1 100.0 4 4 100.0 1 4 5 1 1 0 2 6 4
+p310
+aVWilson Chandler NYK 02/04/2009 NYK vs. CLE L 20 7 3 9 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 1 3 -5
+p311
+aVDanilo Gallinari NYK 02/04/2009 NYK vs. CLE L 24 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 2 0 0 2 0 7
+p312
+aVAl Harrington NYK 02/04/2009 NYK vs. CLE L 42 39 16 24 66.7 3 8 37.5 4 5 80.0 2 11 13 0 1 0 2 2 5
+p313
+aVChris Duhon NYK 02/04/2009 NYK vs. CLE L 31 8 2 8 25.0 1 5 20.0 3 4 75.0 2 3 5 5 1 0 3 1 -10
+p314
+aVDavid Lee NYK 02/04/2009 NYK vs. CLE L 35 12 4 9 44.4 0 0 - 4 4 100.0 4 6 10 0 0 0 0 2 -17
+p315
+aVNate Robinson NYK 02/02/2009 NYK vs. LAL L 27 13 4 14 28.6 0 4 0.0 5 5 100.0 0 2 2 1 1 0 3 2 -6
+p316
+aVDavid Lee NYK 02/02/2009 NYK vs. LAL L 37 22 8 16 50.0 0 0 - 6 7 85.7 3 9 12 1 1 0 2 4 -8
+p317
+aVTim Thomas NYK 02/02/2009 NYK vs. LAL L 23 10 4 9 44.4 2 6 33.3 0 0 - 3 1 4 3 1 0 1 2 4
+p318
+aVChris Duhon NYK 02/02/2009 NYK vs. LAL L 38 8 3 9 33.3 1 6 16.7 1 1 100.0 2 1 3 9 0 0 3 4 -12
+p319
+aVWilson Chandler NYK 02/02/2009 NYK vs. LAL L 31 20 7 11 63.6 1 1 100.0 5 6 83.3 1 3 4 2 1 1 0 5 0
+p320
+aVJared Jeffries NYK 02/02/2009 NYK vs. LAL L 18 8 4 6 66.7 0 0 - 0 1 0.0 3 2 5 1 1 0 0 3 -8
+p321
+aVAl Harrington NYK 02/02/2009 NYK vs. LAL L 34 24 7 16 43.8 2 6 33.3 8 10 80.0 1 5 6 1 2 0 2 4 -18
+p322
+aVQuentin Richardson NYK 02/02/2009 NYK vs. LAL L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 -7
+p323
+aVDanilo Gallinari NYK 02/02/2009 NYK vs. LAL L 20 10 3 7 42.9 1 2 50.0 3 3 100.0 1 3 4 1 1 0 1 3 10
+p324
+aVNate Robinson NYK 01/31/2009 NYK @ IND W 28 14 5 10 50.0 2 4 50.0 2 4 50.0 1 2 3 6 1 1 2 5 13
+p325
+aVDavid Lee NYK 01/31/2009 NYK @ IND W 39 23 8 15 53.3 0 0 - 7 9 77.8 2 15 17 1 1 0 2 3 -4
+p326
+aVDanilo Gallinari NYK 01/31/2009 NYK @ IND W 15 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 0 3 0 1 1 14
+p327
+aVWilson Chandler NYK 01/31/2009 NYK @ IND W 32 16 6 13 46.2 1 3 33.3 3 4 75.0 1 7 8 6 0 0 0 5 5
+p328
+aVQuentin Richardson NYK 01/31/2009 NYK @ IND W 24 15 5 11 45.5 5 8 62.5 0 0 - 0 4 4 4 0 1 0 0 2
+p329
+aVJared Jeffries NYK 01/31/2009 NYK @ IND W 10 2 1 3 33.3 0 1 0.0 0 0 - 2 3 5 2 0 1 0 1 5
+p330
+aVAl Harrington NYK 01/31/2009 NYK @ IND W 35 31 14 26 53.8 3 10 30.0 0 0 - 2 6 8 1 1 0 4 2 6
+p331
+aVTim Thomas NYK 01/31/2009 NYK @ IND W 19 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 1 0 0 1 6
+p332
+aVChris Duhon NYK 01/31/2009 NYK @ IND W 37 13 4 8 50.0 2 4 50.0 3 4 75.0 1 0 1 7 0 1 3 3 -2
+p333
+aVNate Robinson NYK 01/28/2009 NYK vs. ATL W 25 24 8 15 53.3 2 5 40.0 6 7 85.7 3 1 4 3 2 0 1 3 1
+p334
+aVDanilo Gallinari NYK 01/28/2009 NYK vs. ATL W 10 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 1 0 1 3 -2
+p335
+aVAl Harrington NYK 01/28/2009 NYK vs. ATL W 42 16 7 14 50.0 0 3 0.0 2 3 66.7 1 8 9 0 1 2 0 2 6
+p336
+aVDavid Lee NYK 01/28/2009 NYK vs. ATL W 37 17 8 15 53.3 0 0 - 1 2 50.0 2 14 16 2 0 0 6 2 14
+p337
+aVTim Thomas NYK 01/28/2009 NYK vs. ATL W 17 4 2 5 40.0 0 2 0.0 0 2 0.0 1 4 5 0 1 0 1 2 -3
+p338
+aVWilson Chandler NYK 01/28/2009 NYK vs. ATL W 30 12 5 11 45.5 0 3 0.0 2 2 100.0 1 3 4 4 0 0 0 3 -5
+p339
+aVQuentin Richardson NYK 01/28/2009 NYK vs. ATL W 24 14 4 10 40.0 2 4 50.0 4 4 100.0 1 5 6 2 0 0 3 0 3
+p340
+aVChris Duhon NYK 01/28/2009 NYK vs. ATL W 37 16 6 11 54.5 2 3 66.7 2 2 100.0 0 1 1 11 0 0 3 2 14
+p341
+aVJared Jeffries NYK 01/28/2009 NYK vs. ATL W 18 4 2 4 50.0 0 0 - 0 1 0.0 4 1 5 0 2 0 1 2 12
+p342
+aVChris Duhon NYK 01/26/2009 NYK vs. HOU W 41 12 5 11 45.5 2 6 33.3 0 0 - 1 5 6 11 1 0 2 2 9
+p343
+aVQuentin Richardson NYK 01/26/2009 NYK vs. HOU W 20 7 2 5 40.0 0 1 0.0 3 4 75.0 0 3 3 1 0 0 1 1 -10
+p344
+aVNate Robinson NYK 01/26/2009 NYK vs. HOU W 27 19 8 15 53.3 1 4 25.0 2 2 100.0 0 6 6 2 0 0 0 1 13
+p345
+aVWilson Chandler NYK 01/26/2009 NYK vs. HOU W 28 18 6 10 60.0 1 1 100.0 5 6 83.3 0 7 7 3 0 1 1 3 7
+p346
+aVDanilo Gallinari NYK 01/26/2009 NYK vs. HOU W 13 4 0 2 0.0 0 2 0.0 4 4 100.0 1 1 2 1 0 0 1 2 0
+p347
+aVAl Harrington NYK 01/26/2009 NYK vs. HOU W 27 13 5 12 41.7 1 4 25.0 2 2 100.0 0 2 2 0 2 0 3 2 -10
+p348
+aVJared Jeffries NYK 01/26/2009 NYK vs. HOU W 16 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 2 1 0 2 2
+p349
+aVTim Thomas NYK 01/26/2009 NYK vs. HOU W 29 11 3 8 37.5 1 3 33.3 4 4 100.0 1 4 5 0 0 0 1 4 8
+p350
+aVDavid Lee NYK 01/26/2009 NYK vs. HOU W 40 17 7 13 53.8 0 0 - 3 5 60.0 2 11 13 2 0 0 3 2 11
+p351
+aVChris Duhon NYK 01/24/2009 NYK @ PHI L 40 18 6 12 50.0 4 7 57.1 2 4 50.0 2 2 4 5 1 0 2 5 -8
+p352
+aVWilson Chandler NYK 01/24/2009 NYK @ PHI L 19 0 0 3 0.0 0 0 - 0 0 - 0 4 4 2 1 0 3 0 -8
+p353
+aVDavid Lee NYK 01/24/2009 NYK @ PHI L 37 20 7 10 70.0 0 0 - 6 8 75.0 2 8 10 3 0 0 1 4 -9
+p354
+aVAl Harrington NYK 01/24/2009 NYK @ PHI L 33 12 5 15 33.3 1 7 14.3 1 2 50.0 2 3 5 1 1 0 3 3 1
+p355
+aVTim Thomas NYK 01/24/2009 NYK @ PHI L 31 24 7 10 70.0 4 5 80.0 6 6 100.0 2 0 2 4 1 0 4 6 10
+p356
+aVJared Jeffries NYK 01/24/2009 NYK @ PHI L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 1 2 -16
+p357
+aVQuentin Richardson NYK 01/24/2009 NYK @ PHI L 27 8 3 7 42.9 2 2 100.0 0 0 - 1 3 4 4 1 0 1 3 -10
+p358
+aVNate Robinson NYK 01/24/2009 NYK @ PHI L 36 26 10 20 50.0 4 10 40.0 2 2 100.0 1 2 3 6 1 0 0 3 10
+p359
+aVAl Harrington NYK 01/23/2009 NYK vs. MEM W 32 16 7 15 46.7 1 7 14.3 1 2 50.0 1 9 10 3 0 1 3 2 36
+p360
+aVJared Jeffries NYK 01/23/2009 NYK vs. MEM W 19 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 2 2 -14
+p361
+aVAnthony Roberson NYK 01/23/2009 NYK vs. MEM W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p362
+aVMalik Rose NYK 01/23/2009 NYK vs. MEM W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p363
+aVDavid Lee NYK 01/23/2009 NYK vs. MEM W 35 19 6 11 54.5 0 0 - 7 9 77.8 4 10 14 0 1 0 4 2 7
+p364
+aVDanilo Gallinari NYK 01/23/2009 NYK vs. MEM W 17 11 3 5 60.0 1 3 33.3 4 4 100.0 1 1 2 1 1 0 0 6 22
+p365
+aVQuentin Richardson NYK 01/23/2009 NYK vs. MEM W 25 5 2 8 25.0 1 4 25.0 0 0 - 1 1 2 1 1 0 1 2 -4
+p366
+aVNate Robinson NYK 01/23/2009 NYK vs. MEM W 30 16 5 9 55.6 3 6 50.0 3 4 75.0 2 4 6 3 1 0 1 3 32
+p367
+aVWilson Chandler NYK 01/23/2009 NYK vs. MEM W 22 8 4 9 44.4 0 3 0.0 0 0 - 0 1 1 3 2 0 2 1 -5
+p368
+aVTim Thomas NYK 01/23/2009 NYK vs. MEM W 23 14 5 7 71.4 0 2 0.0 4 4 100.0 1 1 2 3 0 2 1 4 23
+p369
+aVChris Duhon NYK 01/23/2009 NYK vs. MEM W 32 15 4 8 50.0 3 6 50.0 4 4 100.0 0 2 2 7 1 0 0 0 3
+p370
+aVAl Harrington NYK 01/21/2009 NYK vs. PHX W 36 17 5 10 50.0 2 5 40.0 5 6 83.3 2 6 8 0 1 1 3 3 12
+p371
+aVWilson Chandler NYK 01/21/2009 NYK vs. PHX W 23 2 1 8 12.5 0 3 0.0 0 0 - 0 4 4 2 1 2 2 1 -11
+p372
+aVDanilo Gallinari NYK 01/21/2009 NYK vs. PHX W 18 10 4 7 57.1 2 4 50.0 0 0 - 1 3 4 1 0 1 0 3 21
+p373
+aVTim Thomas NYK 01/21/2009 NYK vs. PHX W 19 10 3 6 50.0 2 4 50.0 2 2 100.0 0 2 2 1 0 0 2 6 12
+p374
+aVChris Duhon NYK 01/21/2009 NYK vs. PHX W 39 19 5 12 41.7 1 2 50.0 8 9 88.9 1 5 6 7 2 0 1 1 -9
+p375
+aVDavid Lee NYK 01/21/2009 NYK vs. PHX W 35 25 12 21 57.1 0 0 - 1 1 100.0 3 13 16 1 1 0 3 3 -12
+p376
+aVJared Jeffries NYK 01/21/2009 NYK vs. PHX W 19 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 0 1 1 0 3 -16
+p377
+aVNate Robinson NYK 01/21/2009 NYK vs. PHX W 26 20 7 13 53.8 2 4 50.0 4 5 80.0 2 2 4 4 4 0 2 3 24
+p378
+aVQuentin Richardson NYK 01/21/2009 NYK vs. PHX W 25 6 2 9 22.2 0 5 0.0 2 4 50.0 1 1 2 1 2 0 1 2 4
+p379
+aVAl Harrington NYK 01/19/2009 NYK vs. CHI W 30 11 4 13 30.8 1 6 16.7 2 3 66.7 1 3 4 2 1 0 0 1 -1
+p380
+aVJared Jeffries NYK 01/19/2009 NYK vs. CHI W 34 4 1 3 33.3 0 0 - 2 3 66.7 1 3 4 1 0 2 1 3 -6
+p381
+aVDanilo Gallinari NYK 01/19/2009 NYK vs. CHI W 16 9 4 7 57.1 1 2 50.0 0 0 - 0 4 4 2 2 1 2 1 3
+p382
+aVTim Thomas NYK 01/19/2009 NYK vs. CHI W 14 6 2 4 50.0 1 1 100.0 1 2 50.0 1 3 4 0 1 1 2 1 9
+p383
+aVQuentin Richardson NYK 01/19/2009 NYK vs. CHI W 37 24 8 14 57.1 5 6 83.3 3 4 75.0 0 6 6 2 0 0 0 2 5
+p384
+aVNate Robinson NYK 01/19/2009 NYK vs. CHI W 20 12 4 9 44.4 0 2 0.0 4 6 66.7 1 2 3 3 1 0 1 1 8
+p385
+aVWilson Chandler NYK 01/19/2009 NYK vs. CHI W 19 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 2 0 1 2 0 3
+p386
+aVChris Duhon NYK 01/19/2009 NYK vs. CHI W 34 19 7 14 50.0 1 5 20.0 4 4 100.0 1 4 5 3 2 0 1 0 3
+p387
+aVDavid Lee NYK 01/19/2009 NYK vs. CHI W 35 11 3 14 21.4 0 0 - 5 6 83.3 2 8 10 3 0 1 2 3 -4
+p388
+aVNate Robinson NYK 01/17/2009 NYK vs. PHI L 25 9 4 10 40.0 0 2 0.0 1 1 100.0 1 1 2 7 0 0 2 2 4
+p389
+aVDavid Lee NYK 01/17/2009 NYK vs. PHI L 40 15 6 9 66.7 0 0 - 3 4 75.0 2 9 11 2 1 1 5 6 -10
+p390
+aVAl Harrington NYK 01/17/2009 NYK vs. PHI L 36 26 7 19 36.8 4 9 44.4 8 8 100.0 2 6 8 3 0 0 1 2 -5
+p391
+aVDanilo Gallinari NYK 01/17/2009 NYK vs. PHI L 15 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 0 1 1 1 7
+p392
+aVQuentin Richardson NYK 01/17/2009 NYK vs. PHI L 37 19 7 12 58.3 3 4 75.0 2 2 100.0 0 7 7 1 1 0 2 2 -4
+p393
+aVWilson Chandler NYK 01/17/2009 NYK vs. PHI L 38 17 8 17 47.1 0 2 0.0 1 2 50.0 1 1 2 0 2 0 2 3 -18
+p394
+aVJared Jeffries NYK 01/17/2009 NYK vs. PHI L 23 0 0 2 0.0 0 1 0.0 0 0 - 2 0 2 2 1 0 2 3 -11
+p395
+aVChris Duhon NYK 01/17/2009 NYK vs. PHI L 26 5 1 3 33.3 1 2 50.0 2 2 100.0 0 4 4 5 0 0 3 2 -13
+p396
+aVJared Jeffries NYK 01/16/2009 NYK @ WAS L 39 8 3 7 42.9 0 0 - 2 2 100.0 6 5 11 2 0 3 4 4 1
+p397
+aVWilson Chandler NYK 01/16/2009 NYK @ WAS L 39 16 5 19 26.3 4 12 33.3 2 2 100.0 1 4 5 2 2 1 4 4 -11
+p398
+aVQuentin Richardson NYK 01/16/2009 NYK @ WAS L 23 7 3 11 27.3 1 5 20.0 0 2 0.0 2 1 3 0 0 0 1 0 2
+p399
+aVChris Duhon NYK 01/16/2009 NYK @ WAS L 42 13 5 15 33.3 2 8 25.0 1 2 50.0 1 2 3 8 0 0 2 2 -3
+p400
+aVAl Harrington NYK 01/16/2009 NYK @ WAS L 34 18 5 14 35.7 3 7 42.9 5 6 83.3 1 3 4 1 0 2 2 4 -14
+p401
+aVDavid Lee NYK 01/16/2009 NYK @ WAS L 43 15 6 6 100.0 0 0 - 3 3 100.0 4 17 21 4 0 0 2 3 -3
+p402
+aVNate Robinson NYK 01/16/2009 NYK @ WAS L 20 12 5 14 35.7 2 6 33.3 0 0 - 0 2 2 2 1 0 1 1 -7
+p403
+aVChris Duhon NYK 01/14/2009 NYK vs. WAS W 42 17 5 12 41.7 2 6 33.3 5 6 83.3 2 3 5 9 2 0 6 1 3
+p404
+aVTim Thomas NYK 01/14/2009 NYK vs. WAS W 15 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 2 0 0 0 1 3
+p405
+aVQuentin Richardson NYK 01/14/2009 NYK vs. WAS W 31 26 10 16 62.5 6 7 85.7 0 0 - 3 1 4 3 1 0 0 1 7
+p406
+aVDavid Lee NYK 01/14/2009 NYK vs. WAS W 41 30 12 21 57.1 0 0 - 6 8 75.0 6 4 10 6 2 0 0 4 0
+p407
+aVWilson Chandler NYK 01/14/2009 NYK vs. WAS W 32 14 4 8 50.0 2 3 66.7 4 4 100.0 0 2 2 5 1 0 0 4 2
+p408
+aVAl Harrington NYK 01/14/2009 NYK vs. WAS W 28 27 8 12 66.7 4 6 66.7 7 8 87.5 2 0 2 0 2 0 2 5 4
+p409
+aVJared Jeffries NYK 01/14/2009 NYK vs. WAS W 33 8 2 3 66.7 0 0 - 4 4 100.0 5 3 8 1 0 1 2 4 17
+p410
+aVNate Robinson NYK 01/14/2009 NYK vs. WAS W 19 4 1 4 25.0 0 2 0.0 2 2 100.0 0 0 0 1 1 1 0 1 -6
+p411
+aVJared Jeffries NYK 01/12/2009 NYK @ NOH W 25 3 1 8 12.5 0 1 0.0 1 4 25.0 5 4 9 6 1 0 0 2 -4
+p412
+aVNate Robinson NYK 01/12/2009 NYK @ NOH W 19 7 3 8 37.5 1 5 20.0 0 0 - 0 1 1 1 2 0 0 2 8
+p413
+aVQuentin Richardson NYK 01/12/2009 NYK @ NOH W 33 9 2 7 28.6 1 4 25.0 4 6 66.7 1 6 7 8 0 0 2 0 9
+p414
+aVChris Duhon NYK 01/12/2009 NYK @ NOH W 41 10 2 7 28.6 2 4 50.0 4 5 80.0 0 4 4 9 0 0 2 1 4
+p415
+aVWilson Chandler NYK 01/12/2009 NYK @ NOH W 37 19 9 17 52.9 1 2 50.0 0 0 - 0 3 3 1 0 1 0 4 6
+p416
+aVDavid Lee NYK 01/12/2009 NYK @ NOH W 34 24 12 16 75.0 0 0 - 0 1 0.0 4 5 9 3 1 1 2 4 -6
+p417
+aVAl Harrington NYK 01/12/2009 NYK @ NOH W 34 20 6 19 31.6 2 8 25.0 6 6 100.0 3 7 10 1 0 0 1 2 5
+p418
+aVTim Thomas NYK 01/12/2009 NYK @ NOH W 17 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 1 0 1 1 3 8
+p419
+aVQuentin Richardson NYK 01/10/2009 NYK @ HOU L 21 7 3 8 37.5 1 3 33.3 0 0 - 0 4 4 0 0 0 1 0 -9
+p420
+aVWilson Chandler NYK 01/10/2009 NYK @ HOU L 33 9 4 15 26.7 1 7 14.3 0 0 - 2 4 6 2 0 2 1 4 -10
+p421
+aVJared Jeffries NYK 01/10/2009 NYK @ HOU L 17 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 1 0 2 -12
+p422
+aVTim Thomas NYK 01/10/2009 NYK @ HOU L 28 18 6 12 50.0 4 8 50.0 2 2 100.0 0 4 4 0 1 1 2 4 -12
+p423
+aVDavid Lee NYK 01/10/2009 NYK @ HOU L 35 14 6 13 46.2 0 0 - 2 2 100.0 1 10 11 1 1 0 0 3 -25
+p424
+aVAnthony Roberson NYK 01/10/2009 NYK @ HOU L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p425
+aVAl Harrington NYK 01/10/2009 NYK @ HOU L 22 3 1 10 10.0 0 2 0.0 1 4 25.0 2 3 5 1 0 1 2 3 -1
+p426
+aVNate Robinson NYK 01/10/2009 NYK @ HOU L 33 17 6 13 46.2 0 4 0.0 5 5 100.0 1 5 6 2 2 0 1 1 -12
+p427
+aVChris Duhon NYK 01/10/2009 NYK @ HOU L 39 8 3 7 42.9 2 3 66.7 0 0 - 0 1 1 6 2 1 3 0 -17
+p428
+aVWilson Chandler NYK 01/08/2009 NYK @ DAL L 38 20 8 16 50.0 2 3 66.7 2 3 66.7 0 4 4 3 1 1 4 3 4
+p429
+aVChris Duhon NYK 01/08/2009 NYK @ DAL L 38 24 10 14 71.4 4 5 80.0 0 0 - 1 1 2 7 0 0 3 0 -8
+p430
+aVDavid Lee NYK 01/08/2009 NYK @ DAL L 37 13 4 8 50.0 0 0 - 5 6 83.3 7 8 15 0 0 0 4 3 9
+p431
+aVNate Robinson NYK 01/08/2009 NYK @ DAL L 26 9 4 16 25.0 1 9 11.1 0 0 - 0 4 4 1 3 0 2 1 -4
+p432
+aVEddy Curry NYK 01/08/2009 NYK @ DAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -9
+p433
+aVTim Thomas NYK 01/08/2009 NYK @ DAL L 31 10 4 12 33.3 2 6 33.3 0 0 - 1 3 4 1 2 0 1 2 -12
+p434
+aVQuentin Richardson NYK 01/08/2009 NYK @ DAL L 12 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 0
+p435
+aVJared Jeffries NYK 01/08/2009 NYK @ DAL L 23 0 0 0 - 0 0 - 0 0 - 2 3 5 2 0 0 2 2 -2
+p436
+aVAl Harrington NYK 01/08/2009 NYK @ DAL L 31 14 5 18 27.8 1 6 16.7 3 4 75.0 1 5 6 1 3 0 3 3 -3
+p437
+aVJared Jeffries NYK 01/06/2009 NYK @ OKC L 20 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -19
+p438
+aVQuentin Richardson NYK 01/06/2009 NYK @ OKC L 31 11 4 12 33.3 2 7 28.6 1 1 100.0 1 0 1 2 1 0 1 4 -16
+p439
+aVDavid Lee NYK 01/06/2009 NYK @ OKC L 35 14 5 9 55.6 0 0 - 4 4 100.0 4 9 13 2 0 0 3 4 -25
+p440
+aVTim Thomas NYK 01/06/2009 NYK @ OKC L 16 8 2 2 100.0 1 1 100.0 3 3 100.0 0 1 1 1 2 0 1 1 21
+p441
+aVNate Robinson NYK 01/06/2009 NYK @ OKC L 34 12 4 18 22.2 0 7 0.0 4 4 100.0 2 4 6 1 0 0 1 5 6
+p442
+aVWilson Chandler NYK 01/06/2009 NYK @ OKC L 30 11 4 12 33.3 1 5 20.0 2 2 100.0 2 2 4 1 1 0 3 5 -1
+p443
+aVAl Harrington NYK 01/06/2009 NYK @ OKC L 33 21 8 15 53.3 4 6 66.7 1 2 50.0 0 5 5 0 4 0 1 2 9
+p444
+aVChris Duhon NYK 01/06/2009 NYK @ OKC L 40 18 6 15 40.0 3 8 37.5 3 3 100.0 1 2 3 6 0 0 4 2 -15
+p445
+aVJared Jeffries NYK 01/04/2009 NYK vs. BOS W 26 7 2 2 100.0 0 0 - 3 4 75.0 3 3 6 2 0 0 0 5 11
+p446
+aVAl Harrington NYK 01/04/2009 NYK vs. BOS W 37 30 11 23 47.8 5 9 55.6 3 3 100.0 2 5 7 2 0 0 3 4 4
+p447
+aVNate Robinson NYK 01/04/2009 NYK vs. BOS W 20 4 1 4 25.0 1 2 50.0 1 4 25.0 1 1 2 4 2 0 0 0 -8
+p448
+aVQuentin Richardson NYK 01/04/2009 NYK vs. BOS W 34 2 1 13 7.7 0 5 0.0 0 0 - 1 5 6 1 0 0 1 4 4
+p449
+aVChris Duhon NYK 01/04/2009 NYK vs. BOS W 44 12 4 9 44.4 1 3 33.3 3 3 100.0 0 3 3 5 3 0 4 1 11
+p450
+aVDavid Lee NYK 01/04/2009 NYK vs. BOS W 43 14 6 12 50.0 0 0 - 2 2 100.0 3 11 14 2 1 3 2 3 13
+p451
+aVWilson Chandler NYK 01/04/2009 NYK vs. BOS W 37 31 9 19 47.4 2 3 66.7 11 12 91.7 2 6 8 2 2 1 0 2 25
+p452
+aVAl Harrington NYK 01/02/2009 NYK vs. IND L 31 27 10 21 47.6 4 8 50.0 3 5 60.0 0 6 6 0 0 1 3 3 8
+p453
+aVQuentin Richardson NYK 01/02/2009 NYK vs. IND L 27 12 4 9 44.4 1 3 33.3 3 4 75.0 1 4 5 1 0 0 3 2 -5
+p454
+aVNate Robinson NYK 01/02/2009 NYK vs. IND L 32 15 4 14 28.6 1 6 16.7 6 7 85.7 1 4 5 4 1 0 0 2 9
+p455
+aVChris Duhon NYK 01/02/2009 NYK vs. IND L 39 6 2 7 28.6 1 2 50.0 1 2 50.0 0 9 9 7 4 0 6 5 -3
+p456
+aVAnthony Roberson NYK 01/02/2009 NYK vs. IND L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 0
+p457
+aVWilson Chandler NYK 01/02/2009 NYK vs. IND L 37 13 5 15 33.3 0 3 0.0 3 4 75.0 3 2 5 1 0 0 3 4 -4
+p458
+aVJared Jeffries NYK 01/02/2009 NYK vs. IND L 29 1 0 5 0.0 0 0 - 1 2 50.0 3 2 5 1 0 4 0 2 -11
+p459
+aVDavid Lee NYK 01/02/2009 NYK vs. IND L 40 26 12 15 80.0 0 0 - 2 2 100.0 4 7 11 3 5 0 5 3 -4
+p460
+aVWilson Chandler NYK 12/30/2008 NYK @ CHA W 34 19 7 15 46.7 0 0 - 5 5 100.0 0 7 7 0 1 1 5 2 7
+p461
+aVJared Jeffries NYK 12/30/2008 NYK @ CHA W 31 8 4 8 50.0 0 0 - 0 0 - 4 1 5 0 3 3 3 4 4
+p462
+aVQuentin Richardson NYK 12/30/2008 NYK @ CHA W 27 11 4 7 57.1 2 4 50.0 1 1 100.0 0 2 2 2 1 0 0 2 -1
+p463
+aVAl Harrington NYK 12/30/2008 NYK @ CHA W 30 16 7 17 41.2 1 4 25.0 1 2 50.0 2 4 6 0 1 1 2 4 -7
+p464
+aVDavid Lee NYK 12/30/2008 NYK @ CHA W 39 13 5 11 45.5 0 0 - 3 4 75.0 4 12 16 2 0 1 1 2 9
+p465
+aVTim Thomas NYK 12/30/2008 NYK @ CHA W 9 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 1 0 4
+p466
+aVNate Robinson NYK 12/30/2008 NYK @ CHA W 29 6 2 11 18.2 0 6 0.0 2 2 100.0 0 3 3 2 3 0 4 3 -4
+p467
+aVChris Duhon NYK 12/30/2008 NYK @ CHA W 40 15 5 12 41.7 3 6 50.0 2 2 100.0 3 1 4 8 3 0 2 1 8
+p468
+aVQuentin Richardson NYK 12/28/2008 NYK vs. DEN L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 2 1 0 2 2 -5
+p469
+aVTim Thomas NYK 12/28/2008 NYK vs. DEN L 18 9 4 7 57.1 1 3 33.3 0 1 0.0 0 6 6 1 0 0 2 0 -1
+p470
+aVChris Duhon NYK 12/28/2008 NYK vs. DEN L 44 17 5 10 50.0 4 6 66.7 3 3 100.0 0 4 4 11 2 1 1 3 3
+p471
+aVWilson Chandler NYK 12/28/2008 NYK vs. DEN L 32 17 6 19 31.6 1 9 11.1 4 7 57.1 2 2 4 1 0 0 0 3 -13
+p472
+aVDavid Lee NYK 12/28/2008 NYK vs. DEN L 38 19 7 9 77.8 0 0 - 5 7 71.4 5 7 12 2 0 0 1 4 0
+p473
+aVJared Jeffries NYK 12/28/2008 NYK vs. DEN L 37 10 5 8 62.5 0 1 0.0 0 2 0.0 3 1 4 4 1 0 2 3 -2
+p474
+aVNate Robinson NYK 12/28/2008 NYK vs. DEN L 31 20 5 17 29.4 3 8 37.5 7 7 100.0 1 1 2 4 2 0 1 2 -16
+p475
+aVAl Harrington NYK 12/28/2008 NYK vs. DEN L 26 15 5 12 41.7 2 5 40.0 3 4 75.0 0 3 3 0 2 0 2 3 -1
+p476
+aVNate Robinson NYK 12/26/2008 NYK vs. MIN L 37 26 9 22 40.9 2 6 33.3 6 6 100.0 5 5 10 3 1 0 3 3 -17
+p477
+aVJared Jeffries NYK 12/26/2008 NYK vs. MIN L 33 3 1 6 16.7 0 0 - 1 2 50.0 4 3 7 2 2 0 4 4 0
+p478
+aVChris Duhon NYK 12/26/2008 NYK vs. MIN L 28 6 1 5 20.0 1 2 50.0 3 4 75.0 0 2 2 5 0 0 4 1 -11
+p479
+aVAl Harrington NYK 12/26/2008 NYK vs. MIN L 37 26 10 21 47.6 3 9 33.3 3 4 75.0 2 2 4 0 2 0 3 5 -5
+p480
+aVDavid Lee NYK 12/26/2008 NYK vs. MIN L 34 12 4 10 40.0 0 0 - 4 6 66.7 6 7 13 2 1 0 0 6 -17
+p481
+aVTim Thomas NYK 12/26/2008 NYK vs. MIN L 27 15 5 10 50.0 2 6 33.3 3 4 75.0 0 5 5 2 0 0 0 4 -1
+p482
+aVAnthony Roberson NYK 12/26/2008 NYK vs. MIN L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p483
+aVWilson Chandler NYK 12/26/2008 NYK vs. MIN L 43 19 5 15 33.3 3 6 50.0 6 8 75.0 1 6 7 1 0 2 1 3 -11
+p484
+aVChris Duhon NYK 12/21/2008 NYK @ BOS L 48 20 6 9 66.7 2 4 50.0 6 7 85.7 1 1 2 10 1 0 6 1 -19
+p485
+aVDavid Lee NYK 12/21/2008 NYK @ BOS L 43 17 8 13 61.5 0 0 - 1 1 100.0 0 8 8 4 4 0 1 5 -25
+p486
+aVNate Robinson NYK 12/21/2008 NYK @ BOS L 38 23 7 12 58.3 4 6 66.7 5 5 100.0 1 3 4 3 1 0 2 5 -2
+p487
+aVQuentin Richardson NYK 12/21/2008 NYK @ BOS L 37 29 10 19 52.6 5 9 55.6 4 5 80.0 1 3 4 4 0 0 0 4 -10
+p488
+aVAl Harrington NYK 12/21/2008 NYK @ BOS L 34 10 2 15 13.3 2 10 20.0 4 8 50.0 1 3 4 1 2 1 2 4 -2
+p489
+aVWilson Chandler NYK 12/21/2008 NYK @ BOS L 24 2 1 7 14.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -22
+p490
+aVTim Thomas NYK 12/21/2008 NYK @ BOS L 16 4 2 8 25.0 0 3 0.0 0 0 - 0 0 0 2 1 0 1 3 -15
+p491
+aVTim Thomas NYK 12/19/2008 NYK vs. MIL L 7 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 0 1 0 1 0 -9
+p492
+aVChris Duhon NYK 12/19/2008 NYK vs. MIL L 37 7 2 4 50.0 0 0 - 3 3 100.0 0 1 1 7 0 0 5 0 -16
+p493
+aVAl Harrington NYK 12/19/2008 NYK vs. MIL L 32 16 6 17 35.3 4 9 44.4 0 0 - 0 2 2 0 2 0 2 3 -15
+p494
+aVAnthony Roberson NYK 12/19/2008 NYK vs. MIL L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -4
+p495
+aVMalik Rose NYK 12/19/2008 NYK vs. MIL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p496
+aVDavid Lee NYK 12/19/2008 NYK vs. MIL L 36 14 6 10 60.0 0 0 - 2 3 66.7 1 13 14 2 1 0 5 3 -18
+p497
+aVQuentin Richardson NYK 12/19/2008 NYK vs. MIL L 28 2 1 10 10.0 0 3 0.0 0 0 - 3 5 8 2 0 0 2 1 -19
+p498
+aVWilson Chandler NYK 12/19/2008 NYK vs. MIL L 41 11 3 8 37.5 1 2 50.0 4 4 100.0 1 8 9 2 0 1 4 1 -22
+p499
+aVNate Robinson NYK 12/19/2008 NYK vs. MIL L 41 21 7 17 41.2 2 6 33.3 5 6 83.3 3 2 5 4 2 1 3 5 -12
+p500
+aVJerome James NYK 12/19/2008 NYK vs. MIL L 6 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -1
+p501
+aVTim Thomas NYK 12/16/2008 NYK @ LAL L 27 13 4 7 57.1 2 3 66.7 3 3 100.0 0 3 3 1 0 1 0 2 5
+p502
+aVDavid Lee NYK 12/16/2008 NYK @ LAL L 38 18 7 15 46.7 0 0 - 4 4 100.0 3 11 14 2 2 0 1 5 1
+p503
+aVAl Harrington NYK 12/16/2008 NYK @ LAL L 38 12 4 14 28.6 1 4 25.0 3 4 75.0 2 4 6 3 1 0 2 4 -14
+p504
+aVWilson Chandler NYK 12/16/2008 NYK @ LAL L 39 8 3 10 30.0 0 3 0.0 2 2 100.0 0 2 2 6 0 2 1 3 -5
+p505
+aVQuentin Richardson NYK 12/16/2008 NYK @ LAL L 27 18 6 12 50.0 4 8 50.0 2 2 100.0 2 4 6 0 1 0 2 1 2
+p506
+aVChris Duhon NYK 12/16/2008 NYK @ LAL L 39 12 4 7 57.1 3 6 50.0 1 1 100.0 0 5 5 11 1 0 3 2 0
+p507
+aVNate Robinson NYK 12/16/2008 NYK @ LAL L 33 33 9 16 56.3 3 7 42.9 12 12 100.0 1 1 2 5 1 0 5 3 1
+p508
+aVChris Duhon NYK 12/15/2008 NYK @ PHX L 38 7 3 10 30.0 0 3 0.0 1 1 100.0 1 5 6 9 1 0 2 1 -7
+p509
+aVTim Thomas NYK 12/15/2008 NYK @ PHX L 28 9 3 12 25.0 2 8 25.0 1 1 100.0 0 1 1 1 0 0 2 2 -12
+p510
+aVQuentin Richardson NYK 12/15/2008 NYK @ PHX L 25 4 1 4 25.0 0 3 0.0 2 4 50.0 2 2 4 3 1 1 1 3 -5
+p511
+aVDavid Lee NYK 12/15/2008 NYK @ PHX L 31 15 7 9 77.8 0 0 - 1 1 100.0 2 10 12 0 2 1 1 6 -2
+p512
+aVNate Robinson NYK 12/15/2008 NYK @ PHX L 36 27 12 27 44.4 1 10 10.0 2 2 100.0 3 6 9 5 3 0 0 2 -4
+p513
+aVWilson Chandler NYK 12/15/2008 NYK @ PHX L 33 15 6 13 46.2 0 5 0.0 3 4 75.0 0 7 7 1 1 1 3 6 10
+p514
+aVAl Harrington NYK 12/15/2008 NYK @ PHX L 43 24 8 22 36.4 2 8 25.0 6 6 100.0 0 7 7 1 0 1 1 4 -8
+p515
+aVJared Jeffries NYK 12/15/2008 NYK @ PHX L 6 2 0 0 - 0 0 - 2 4 50.0 3 0 3 0 0 0 2 2 -12
+p516
+aVTim Thomas NYK 12/13/2008 NYK @ SAC W 25 11 4 8 50.0 3 4 75.0 0 0 - 0 5 5 1 0 0 0 2 20
+p517
+aVMalik Rose NYK 12/13/2008 NYK @ SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p518
+aVDavid Lee NYK 12/13/2008 NYK @ SAC W 35 17 6 9 66.7 0 0 - 5 6 83.3 5 14 19 2 2 0 1 3 21
+p519
+aVNate Robinson NYK 12/13/2008 NYK @ SAC W 34 19 8 15 53.3 2 6 33.3 1 4 25.0 0 2 2 3 0 0 2 3 26
+p520
+aVJerome James NYK 12/13/2008 NYK @ SAC W 4 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 1 1
+p521
+aVAnthony Roberson NYK 12/13/2008 NYK @ SAC W 5 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 1 0 0 1 0
+p522
+aVAl Harrington NYK 12/13/2008 NYK @ SAC W 35 33 11 20 55.0 5 9 55.6 6 8 75.0 2 4 6 4 1 1 3 4 14
+p523
+aVChris Duhon NYK 12/13/2008 NYK @ SAC W 31 10 3 8 37.5 2 5 40.0 2 2 100.0 1 7 8 5 0 0 4 0 9
+p524
+aVJared Jeffries NYK 12/13/2008 NYK @ SAC W 27 10 5 9 55.6 0 0 - 0 0 - 1 4 5 1 0 0 3 3 13
+p525
+aVWilson Chandler NYK 12/13/2008 NYK @ SAC W 37 7 3 11 27.3 0 2 0.0 1 1 100.0 0 3 3 2 0 1 1 3 16
+p526
+aVChris Duhon NYK 12/10/2008 NYK @ NJN W 38 10 2 9 22.2 1 3 33.3 5 5 100.0 1 1 2 10 1 0 1 1 7
+p527
+aVJared Jeffries NYK 12/10/2008 NYK @ NJN W 17 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 0 1 4 5 5
+p528
+aVAl Harrington NYK 12/10/2008 NYK @ NJN W 46 39 11 21 52.4 2 7 28.6 15 16 93.8 2 11 13 3 2 0 4 4 15
+p529
+aVQuentin Richardson NYK 12/10/2008 NYK @ NJN W 41 9 4 16 25.0 0 6 0.0 1 2 50.0 4 4 8 3 3 0 2 0 5
+p530
+aVTim Thomas NYK 12/10/2008 NYK @ NJN W 31 26 8 12 66.7 5 8 62.5 5 6 83.3 0 4 4 1 1 1 2 5 15
+p531
+aVDavid Lee NYK 12/10/2008 NYK @ NJN W 24 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 1 0 0 2 1 1
+p532
+aVWilson Chandler NYK 12/10/2008 NYK @ NJN W 42 24 10 12 83.3 1 2 50.0 3 3 100.0 2 7 9 3 1 1 1 3 12
+p533
+aVWilson Chandler NYK 12/09/2008 NYK @ CHI L 38 11 2 13 15.4 1 7 14.3 6 7 85.7 2 5 7 4 2 0 5 4 -11
+p534
+aVQuentin Richardson NYK 12/09/2008 NYK @ CHI L 39 22 9 24 37.5 3 10 30.0 1 1 100.0 3 5 8 2 0 0 1 2 -2
+p535
+aVAl Harrington NYK 12/09/2008 NYK @ CHI L 42 28 13 21 61.9 2 6 33.3 0 0 - 0 6 6 1 2 1 1 2 5
+p536
+aVTim Thomas NYK 12/09/2008 NYK @ CHI L 22 4 1 6 16.7 0 1 0.0 2 2 100.0 1 0 1 0 1 1 0 3 -2
+p537
+aVChris Duhon NYK 12/09/2008 NYK @ CHI L 45 15 6 13 46.2 0 4 0.0 3 3 100.0 2 7 9 14 1 0 4 2 -6
+p538
+aVDavid Lee NYK 12/09/2008 NYK @ CHI L 35 11 5 11 45.5 0 0 - 1 2 50.0 5 10 15 1 0 1 0 1 -6
+p539
+aVJared Jeffries NYK 12/09/2008 NYK @ CHI L 18 9 4 7 57.1 0 0 - 1 1 100.0 1 2 3 0 0 0 3 0 -3
+p540
+aVWilson Chandler NYK 12/07/2008 NYK vs. DET W 41 17 6 13 46.2 2 6 33.3 3 3 100.0 1 7 8 2 1 0 1 3 9
+p541
+aVQuentin Richardson NYK 12/07/2008 NYK vs. DET W 37 23 7 14 50.0 3 7 42.9 6 9 66.7 0 5 5 3 1 0 2 2 3
+p542
+aVDavid Lee NYK 12/07/2008 NYK vs. DET W 38 12 4 8 50.0 0 0 - 4 5 80.0 5 14 19 3 0 0 4 4 20
+p543
+aVTim Thomas NYK 12/07/2008 NYK vs. DET W 20 6 2 5 40.0 0 1 0.0 2 3 66.7 0 4 4 1 0 0 1 4 5
+p544
+aVChris Duhon NYK 12/07/2008 NYK vs. DET W 48 25 8 14 57.1 3 5 60.0 6 6 100.0 0 5 5 9 0 0 2 1 12
+p545
+aVAl Harrington NYK 12/07/2008 NYK vs. DET W 34 18 7 14 50.0 4 5 80.0 0 0 - 1 5 6 2 0 1 4 5 16
+p546
+aVJared Jeffries NYK 12/07/2008 NYK vs. DET W 22 3 1 7 14.3 0 0 - 1 2 50.0 3 1 4 1 0 0 2 5 -5
+p547
+aVWilson Chandler NYK 12/05/2008 NYK @ ATL L 35 15 6 12 50.0 3 4 75.0 0 0 - 1 4 5 3 2 0 3 3 -3
+p548
+aVNate Robinson NYK 12/05/2008 NYK @ ATL L 13 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 3 0 0 2 0 -2
+p549
+aVAl Harrington NYK 12/05/2008 NYK @ ATL L 41 27 12 25 48.0 3 12 25.0 0 0 - 2 5 7 1 0 1 1 2 8
+p550
+aVChris Duhon NYK 12/05/2008 NYK @ ATL L 43 13 4 12 33.3 2 5 40.0 3 3 100.0 0 4 4 8 4 0 7 2 6
+p551
+aVJared Jeffries NYK 12/05/2008 NYK @ ATL L 16 6 3 7 42.9 0 0 - 0 0 - 4 3 7 3 1 0 1 2 -2
+p552
+aVAnthony Roberson NYK 12/05/2008 NYK @ ATL L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -9
+p553
+aVDavid Lee NYK 12/05/2008 NYK @ ATL L 34 15 6 8 75.0 0 0 - 3 3 100.0 4 7 11 1 0 0 1 5 1
+p554
+aVQuentin Richardson NYK 12/05/2008 NYK @ ATL L 36 8 3 10 30.0 2 8 25.0 0 0 - 1 3 4 2 0 0 0 2 3
+p555
+aVTim Thomas NYK 12/05/2008 NYK @ ATL L 16 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 2 4 -17
+p556
+aVMalik Rose NYK 12/03/2008 NYK @ CLE L 20 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 0 1 2 2 -5
+p557
+aVTim Thomas NYK 12/03/2008 NYK @ CLE L 30 3 1 6 16.7 0 5 0.0 1 1 100.0 0 2 2 1 1 0 3 2 -33
+p558
+aVChris Duhon NYK 12/03/2008 NYK @ CLE L 33 6 1 9 11.1 0 1 0.0 4 4 100.0 1 2 3 4 0 0 6 2 -28
+p559
+aVAl Harrington NYK 12/03/2008 NYK @ CLE L 37 20 9 18 50.0 2 6 33.3 0 0 - 1 6 7 2 0 0 4 5 -27
+p560
+aVDavid Lee NYK 12/03/2008 NYK @ CLE L 42 16 7 12 58.3 0 0 - 2 4 50.0 6 10 16 3 2 0 4 2 -26
+p561
+aVAnthony Roberson NYK 12/03/2008 NYK @ CLE L 28 19 7 14 50.0 5 12 41.7 0 0 - 1 1 2 4 3 0 3 3 -19
+p562
+aVQuentin Richardson NYK 12/03/2008 NYK @ CLE L 17 6 2 6 33.3 1 3 33.3 1 1 100.0 2 1 3 1 2 0 0 2 -21
+p563
+aVWilson Chandler NYK 12/03/2008 NYK @ CLE L 34 12 5 14 35.7 2 6 33.3 0 0 - 1 2 3 1 0 2 4 5 -21
+p564
+aVDavid Lee NYK 12/02/2008 NYK vs. POR L 40 19 7 11 63.6 0 0 - 5 5 100.0 3 9 12 1 0 1 3 4 -2
+p565
+aVMalik Rose NYK 12/02/2008 NYK vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p566
+aVWilson Chandler NYK 12/02/2008 NYK vs. POR L 33 11 4 12 33.3 2 6 33.3 1 1 100.0 2 4 6 1 0 1 3 5 -16
+p567
+aVTim Thomas NYK 12/02/2008 NYK vs. POR L 22 14 4 10 40.0 3 5 60.0 3 4 75.0 1 1 2 0 1 0 1 0 -9
+p568
+aVAl Harrington NYK 12/02/2008 NYK vs. POR L 36 16 5 15 33.3 2 6 33.3 4 6 66.7 0 5 5 2 0 0 1 2 0
+p569
+aVAnthony Roberson NYK 12/02/2008 NYK vs. POR L 22 6 2 6 33.3 2 6 33.3 0 0 - 1 2 3 1 2 0 0 1 4
+p570
+aVChris Duhon NYK 12/02/2008 NYK vs. POR L 44 23 7 14 50.0 1 4 25.0 8 8 100.0 0 5 5 13 1 0 1 1 -3
+p571
+aVQuentin Richardson NYK 12/02/2008 NYK vs. POR L 40 8 3 10 30.0 0 4 0.0 2 2 100.0 0 3 3 2 1 0 1 2 -1
+p572
+aVDavid Lee NYK 11/29/2008 NYK vs. GSW W 39 37 16 29 55.2 0 1 0.0 5 8 62.5 8 13 21 2 3 1 3 5 10
+p573
+aVAnthony Roberson NYK 11/29/2008 NYK vs. GSW W 25 8 3 8 37.5 2 5 40.0 0 0 - 1 1 2 4 0 0 0 4 5
+p574
+aVWilson Chandler NYK 11/29/2008 NYK vs. GSW W 22 16 6 9 66.7 2 3 66.7 2 2 100.0 2 3 5 2 0 0 5 4 5
+p575
+aVTim Thomas NYK 11/29/2008 NYK vs. GSW W 34 15 7 15 46.7 1 3 33.3 0 0 - 3 6 9 2 1 1 4 3 8
+p576
+aVChris Duhon NYK 11/29/2008 NYK vs. GSW W 45 12 4 9 44.4 1 2 50.0 3 4 75.0 1 3 4 22 1 0 3 2 12
+p577
+aVAl Harrington NYK 11/29/2008 NYK vs. GSW W 40 36 13 25 52.0 5 7 71.4 5 5 100.0 4 8 12 1 1 0 3 5 8
+p578
+aVQuentin Richardson NYK 11/29/2008 NYK vs. GSW W 36 14 5 10 50.0 2 6 33.3 2 2 100.0 1 5 6 2 2 0 0 2 17
+p579
+aVAnthony Roberson NYK 11/26/2008 NYK @ DET L 21 8 3 9 33.3 2 6 33.3 0 0 - 1 0 1 1 1 0 0 1 -8
+p580
+aVWilson Chandler NYK 11/26/2008 NYK @ DET L 30 15 6 12 50.0 2 3 66.7 1 2 50.0 3 5 8 2 1 2 2 2 -7
+p581
+aVTim Thomas NYK 11/26/2008 NYK @ DET L 25 12 5 11 45.5 2 7 28.6 0 0 - 1 5 6 2 1 1 1 2 -9
+p582
+aVDavid Lee NYK 11/26/2008 NYK @ DET L 45 17 6 11 54.5 0 0 - 5 6 83.3 4 11 15 2 2 0 3 3 -7
+p583
+aVMalik Rose NYK 11/26/2008 NYK @ DET L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p584
+aVQuentin Richardson NYK 11/26/2008 NYK @ DET L 33 6 2 10 20.0 0 4 0.0 2 2 100.0 1 3 4 3 2 0 2 2 -7
+p585
+aVChris Duhon NYK 11/26/2008 NYK @ DET L 40 13 3 8 37.5 2 4 50.0 5 5 100.0 0 1 1 9 0 1 4 4 -8
+p586
+aVAl Harrington NYK 11/26/2008 NYK @ DET L 41 25 8 24 33.3 2 7 28.6 7 7 100.0 2 5 7 0 1 1 2 3 -22
+p587
+aVDavid Lee NYK 11/25/2008 NYK vs. CLE L 33 12 5 8 62.5 0 0 - 2 3 66.7 5 8 13 1 0 0 0 0 -4
+p588
+aVTim Thomas NYK 11/25/2008 NYK vs. CLE L 24 16 4 9 44.4 4 8 50.0 4 5 80.0 0 6 6 4 1 0 3 3 -3
+p589
+aVNate Robinson NYK 11/25/2008 NYK vs. CLE L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 1 0 0 2 0 -20
+p590
+aVQuentin Richardson NYK 11/25/2008 NYK vs. CLE L 40 22 8 19 42.1 4 11 36.4 2 2 100.0 2 2 4 1 0 0 1 3 -8
+p591
+aVAl Harrington NYK 11/25/2008 NYK vs. CLE L 27 13 5 16 31.3 1 5 20.0 2 2 100.0 3 6 9 3 1 0 4 4 -20
+p592
+aVAnthony Roberson NYK 11/25/2008 NYK vs. CLE L 19 10 3 8 37.5 1 5 20.0 3 3 100.0 0 0 0 2 0 0 0 0 -7
+p593
+aVChris Duhon NYK 11/25/2008 NYK vs. CLE L 41 14 5 10 50.0 3 4 75.0 1 2 50.0 0 2 2 6 0 0 3 3 -22
+p594
+aVWilson Chandler NYK 11/25/2008 NYK vs. CLE L 38 10 4 12 33.3 0 3 0.0 2 3 66.7 3 3 6 3 2 1 4 3 -6
+p595
+aVNate Robinson NYK 11/22/2008 NYK vs. WAS W 41 27 10 14 71.4 4 7 57.1 3 3 100.0 3 3 6 6 1 0 4 5 10
+p596
+aVWilson Chandler NYK 11/22/2008 NYK vs. WAS W 45 23 7 16 43.8 3 5 60.0 6 8 75.0 1 5 6 2 1 1 1 4 13
+p597
+aVDavid Lee NYK 11/22/2008 NYK vs. WAS W 40 22 9 16 56.3 0 0 - 4 5 80.0 5 7 12 2 1 0 4 2 15
+p598
+aVChris Duhon NYK 11/22/2008 NYK vs. WAS W 46 10 3 9 33.3 2 6 33.3 2 2 100.0 0 5 5 11 0 0 4 1 8
+p599
+aVQuentin Richardson NYK 11/22/2008 NYK vs. WAS W 44 34 11 20 55.0 7 13 53.8 5 6 83.3 3 9 12 2 0 0 1 2 4
+p600
+aVAnthony Roberson NYK 11/22/2008 NYK vs. WAS W 14 4 2 10 20.0 0 5 0.0 0 0 - 0 1 1 1 1 1 0 1 -12
+p601
+aVMalik Rose NYK 11/22/2008 NYK vs. WAS W 10 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -13
+p602
+aVWilson Chandler NYK 11/21/2008 NYK @ MIL L 38 13 5 21 23.8 2 8 25.0 1 1 100.0 1 7 8 4 2 3 0 4 -20
+p603
+aVQuentin Richardson NYK 11/21/2008 NYK @ MIL L 39 7 2 10 20.0 2 7 28.6 1 2 50.0 1 7 8 0 2 0 3 5 -24
+p604
+aVDavid Lee NYK 11/21/2008 NYK @ MIL L 39 13 6 10 60.0 0 0 - 1 2 50.0 3 9 12 3 2 0 1 2 -23
+p605
+aVMalik Rose NYK 11/21/2008 NYK @ MIL L 23 9 4 13 30.8 0 1 0.0 1 1 100.0 2 4 6 3 0 0 0 3 9
+p606
+aVChris Duhon NYK 11/21/2008 NYK @ MIL L 43 20 5 9 55.6 2 5 40.0 8 10 80.0 0 2 2 4 1 0 5 2 -15
+p607
+aVAnthony Roberson NYK 11/21/2008 NYK @ MIL L 17 6 2 6 33.3 0 3 0.0 2 2 100.0 0 0 0 1 0 0 1 0 3
+p608
+aVNate Robinson NYK 11/21/2008 NYK @ MIL L 41 19 7 21 33.3 1 6 16.7 4 5 80.0 2 8 10 4 0 0 4 2 -15
+p609
+aVMardy Collins NYK 11/18/2008 NYK @ BOS L 11 4 2 5 40.0 0 0 - 0 0 - 1 0 1 2 1 0 1 1 -3
+p610
+aVNate Robinson NYK 11/18/2008 NYK @ BOS L 31 14 5 9 55.6 2 5 40.0 2 2 100.0 0 3 3 4 0 0 0 2 -4
+p611
+aVDavid Lee NYK 11/18/2008 NYK @ BOS L 21 10 5 8 62.5 0 0 - 0 1 0.0 2 5 7 2 0 0 3 3 6
+p612
+aVQuentin Richardson NYK 11/18/2008 NYK @ BOS L 30 13 3 10 30.0 2 8 25.0 5 5 100.0 0 5 5 2 2 0 0 3 -1
+p613
+aVMalik Rose NYK 11/18/2008 NYK @ BOS L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 2 -1
+p614
+aVZach Randolph NYK 11/18/2008 NYK @ BOS L 36 18 5 15 33.3 0 2 0.0 8 9 88.9 1 7 8 1 0 1 1 3 -16
+p615
+aVWilson Chandler NYK 11/18/2008 NYK @ BOS L 39 23 11 23 47.8 1 6 16.7 0 1 0.0 2 5 7 1 1 1 2 4 -5
+p616
+aVChris Duhon NYK 11/18/2008 NYK @ BOS L 40 15 5 9 55.6 3 5 60.0 2 2 100.0 0 2 2 5 2 0 2 0 -16
+p617
+aVJamal Crawford NYK 11/18/2008 NYK @ BOS L 25 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 3 0 0 2 2 -5
+p618
+aVChris Duhon NYK 11/16/2008 NYK vs. DAL L 47 16 6 13 46.2 2 6 33.3 2 2 100.0 1 3 4 12 0 0 3 2 -7
+p619
+aVDavid Lee NYK 11/16/2008 NYK vs. DAL L 36 14 6 12 50.0 0 0 - 2 3 66.7 2 9 11 3 0 1 3 1 -16
+p620
+aVWilson Chandler NYK 11/16/2008 NYK vs. DAL L 24 14 7 14 50.0 0 2 0.0 0 0 - 1 2 3 1 0 0 1 4 -3
+p621
+aVMardy Collins NYK 11/16/2008 NYK vs. DAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p622
+aVNate Robinson NYK 11/16/2008 NYK vs. DAL L 28 8 3 11 27.3 2 6 33.3 0 0 - 2 2 4 6 1 0 2 5 -8
+p623
+aVZach Randolph NYK 11/16/2008 NYK vs. DAL L 47 27 10 20 50.0 2 4 50.0 5 7 71.4 7 11 18 2 0 0 0 5 -1
+p624
+aVQuentin Richardson NYK 11/16/2008 NYK vs. DAL L 36 17 7 14 50.0 3 6 50.0 0 0 - 1 7 8 1 0 0 3 1 -5
+p625
+aVJamal Crawford NYK 11/16/2008 NYK vs. DAL L 41 16 5 19 26.3 2 6 33.3 4 4 100.0 1 4 5 5 2 0 3 2 -12
+p626
+aVMalik Rose NYK 11/14/2008 NYK vs. OKC W 12 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 3 0 -1
+p627
+aVQuentin Richardson NYK 11/14/2008 NYK vs. OKC W 21 5 2 5 40.0 1 4 25.0 0 0 - 0 3 3 0 0 0 0 6 21
+p628
+aVWilson Chandler NYK 11/14/2008 NYK vs. OKC W 31 12 4 10 40.0 0 3 0.0 4 4 100.0 0 7 7 2 2 1 0 3 5
+p629
+aVChris Duhon NYK 11/14/2008 NYK vs. OKC W 40 7 2 8 25.0 0 4 0.0 3 4 75.0 3 3 6 8 2 0 3 0 15
+p630
+aVZach Randolph NYK 11/14/2008 NYK vs. OKC W 38 29 9 21 42.9 0 3 0.0 11 12 91.7 6 13 19 0 1 0 3 3 0
+p631
+aVNate Robinson NYK 11/14/2008 NYK vs. OKC W 26 15 6 13 46.2 1 4 25.0 2 4 50.0 2 2 4 5 3 0 1 3 -5
+p632
+aVJamal Crawford NYK 11/14/2008 NYK vs. OKC W 44 29 10 22 45.5 5 9 55.6 4 7 57.1 0 2 2 7 0 0 2 1 9
+p633
+aVDavid Lee NYK 11/14/2008 NYK vs. OKC W 28 18 7 8 87.5 0 0 - 4 7 57.1 0 6 6 1 0 1 2 6 6
+p634
+aVMardy Collins NYK 11/12/2008 NYK @ MEM W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p635
+aVJamal Crawford NYK 11/12/2008 NYK @ MEM W 36 25 10 20 50.0 2 8 25.0 3 3 100.0 0 2 2 8 1 0 2 0 19
+p636
+aVChris Duhon NYK 11/12/2008 NYK @ MEM W 33 12 5 9 55.6 2 4 50.0 0 0 - 0 2 2 7 3 0 1 0 12
+p637
+aVAnthony Roberson NYK 11/12/2008 NYK @ MEM W 6 9 3 3 100.0 3 3 100.0 0 0 - 0 1 1 0 0 0 0 0 2
+p638
+aVQuentin Richardson NYK 11/12/2008 NYK @ MEM W 28 8 3 8 37.5 2 5 40.0 0 0 - 1 3 4 1 0 0 0 3 28
+p639
+aVMalik Rose NYK 11/12/2008 NYK @ MEM W 15 6 3 8 37.5 0 2 0.0 0 0 - 0 4 4 2 0 0 1 4 10
+p640
+aVDavid Lee NYK 11/12/2008 NYK @ MEM W 17 6 3 6 50.0 0 0 - 0 0 - 0 3 3 0 0 0 2 4 7
+p641
+aVWilson Chandler NYK 11/12/2008 NYK @ MEM W 33 27 11 12 91.7 4 4 100.0 1 1 100.0 1 6 7 3 3 1 1 5 24
+p642
+aVNate Robinson NYK 11/12/2008 NYK @ MEM W 30 21 8 8 100.0 5 5 100.0 0 0 - 1 2 3 5 1 0 2 2 18
+p643
+aVZach Randolph NYK 11/12/2008 NYK @ MEM W 36 18 6 13 46.2 1 3 33.3 5 5 100.0 2 8 10 1 3 0 3 0 23
+p644
+aVMardy Collins NYK 11/11/2008 NYK @ SAS L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p645
+aVZach Randolph NYK 11/11/2008 NYK @ SAS L 34 15 7 18 38.9 0 1 0.0 1 3 33.3 3 10 13 1 1 1 2 3 -12
+p646
+aVJamal Crawford NYK 11/11/2008 NYK @ SAS L 39 28 10 21 47.6 6 8 75.0 2 2 100.0 0 1 1 4 0 0 4 1 -9
+p647
+aVChris Duhon NYK 11/11/2008 NYK @ SAS L 39 6 1 6 16.7 1 4 25.0 3 4 75.0 0 1 1 7 1 0 2 5 -2
+p648
+aVWilson Chandler NYK 11/11/2008 NYK @ SAS L 21 7 3 7 42.9 0 1 0.0 1 2 50.0 1 0 1 1 1 1 1 1 -13
+p649
+aVQuentin Richardson NYK 11/11/2008 NYK @ SAS L 23 3 1 3 33.3 1 1 100.0 0 0 - 2 3 5 0 0 0 1 3 -15
+p650
+aVAnthony Roberson NYK 11/11/2008 NYK @ SAS L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p651
+aVMalik Rose NYK 11/11/2008 NYK @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 0
+p652
+aVDavid Lee NYK 11/11/2008 NYK @ SAS L 31 15 6 9 66.7 0 0 - 3 4 75.0 0 9 9 2 1 0 1 3 4
+p653
+aVNate Robinson NYK 11/11/2008 NYK @ SAS L 35 5 2 11 18.2 1 5 20.0 0 0 - 4 3 7 2 1 0 3 4 0
+p654
+aVMardy Collins NYK 11/09/2008 NYK vs. UTA W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 1
+p655
+aVWilson Chandler NYK 11/09/2008 NYK vs. UTA W 31 8 3 12 25.0 2 4 50.0 0 0 - 2 4 6 1 1 0 2 5 2
+p656
+aVNate Robinson NYK 11/09/2008 NYK vs. UTA W 25 10 4 10 40.0 0 2 0.0 2 2 100.0 0 2 2 2 4 0 1 2 1
+p657
+aVQuentin Richardson NYK 11/09/2008 NYK vs. UTA W 32 3 1 3 33.3 1 2 50.0 0 0 - 0 7 7 1 2 0 1 2 17
+p658
+aVJamal Crawford NYK 11/09/2008 NYK vs. UTA W 40 32 10 17 58.8 5 7 71.4 7 9 77.8 0 1 1 4 2 0 3 3 8
+p659
+aVZach Randolph NYK 11/09/2008 NYK vs. UTA W 34 25 9 20 45.0 2 4 50.0 5 6 83.3 7 7 14 0 1 0 5 1 13
+p660
+aVDavid Lee NYK 11/09/2008 NYK vs. UTA W 31 8 2 8 25.0 0 0 - 4 4 100.0 2 6 8 1 0 1 3 3 1
+p661
+aVChris Duhon NYK 11/09/2008 NYK vs. UTA W 38 16 5 11 45.5 0 3 0.0 6 8 75.0 1 3 4 9 3 1 2 1 -3
+p662
+aVAnthony Roberson NYK 11/09/2008 NYK vs. UTA W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 0
+p663
+aVJamal Crawford NYK 11/07/2008 NYK @ WAS W 32 23 8 18 44.4 4 9 44.4 3 5 60.0 0 1 1 3 1 0 1 0 8
+p664
+aVNate Robinson NYK 11/07/2008 NYK @ WAS W 31 17 8 15 53.3 1 5 20.0 0 2 0.0 0 4 4 6 3 0 2 3 0
+p665
+aVWilson Chandler NYK 11/07/2008 NYK @ WAS W 30 17 8 12 66.7 1 2 50.0 0 0 - 1 3 4 2 0 0 3 5 4
+p666
+aVZach Randolph NYK 11/07/2008 NYK @ WAS W 37 22 8 16 50.0 1 2 50.0 5 7 71.4 1 12 13 2 1 0 2 2 11
+p667
+aVMardy Collins NYK 11/07/2008 NYK @ WAS W 10 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 4 1 0 1 2 -2
+p668
+aVDavid Lee NYK 11/07/2008 NYK @ WAS W 27 13 6 10 60.0 0 0 - 1 4 25.0 0 1 1 1 0 0 0 4 -2
+p669
+aVQuentin Richardson NYK 11/07/2008 NYK @ WAS W 22 6 2 5 40.0 2 3 66.7 0 0 - 2 2 4 4 0 0 0 3 0
+p670
+aVChris Duhon NYK 11/07/2008 NYK @ WAS W 36 6 2 5 40.0 2 5 40.0 0 0 - 0 7 7 12 0 0 0 1 13
+p671
+aVAnthony Roberson NYK 11/07/2008 NYK @ WAS W 16 8 3 8 37.5 2 6 33.3 0 0 - 0 2 2 2 1 0 1 1 -2
+p672
+aVDavid Lee NYK 11/05/2008 NYK vs. CHA W 30 8 4 11 36.4 0 0 - 0 0 - 1 3 4 2 1 0 2 2 11
+p673
+aVQuentin Richardson NYK 11/05/2008 NYK vs. CHA W 27 3 1 9 11.1 1 7 14.3 0 0 - 2 4 6 0 2 1 6 0 -17
+p674
+aVZach Randolph NYK 11/05/2008 NYK vs. CHA W 32 25 10 15 66.7 0 0 - 5 5 100.0 3 10 13 1 2 0 3 5 -15
+p675
+aVChris Duhon NYK 11/05/2008 NYK vs. CHA W 39 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 6 1 0 1 1 4
+p676
+aVJamal Crawford NYK 11/05/2008 NYK vs. CHA W 34 16 5 11 45.5 4 7 57.1 2 3 66.7 0 0 0 5 1 0 3 1 -2
+p677
+aVNate Robinson NYK 11/05/2008 NYK vs. CHA W 31 24 9 12 75.0 5 5 100.0 1 1 100.0 1 2 3 5 2 0 3 4 14
+p678
+aVAnthony Roberson NYK 11/05/2008 NYK vs. CHA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p679
+aVMalik Rose NYK 11/05/2008 NYK vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 8
+p680
+aVWilson Chandler NYK 11/05/2008 NYK vs. CHA W 36 18 6 13 46.2 1 4 25.0 5 5 100.0 1 6 7 1 1 3 1 2 9
+p681
+aVWilson Chandler NYK 11/02/2008 NYK vs. MIL L 28 7 3 13 23.1 0 4 0.0 1 1 100.0 3 3 6 2 3 0 1 3 5
+p682
+aVJamal Crawford NYK 11/02/2008 NYK vs. MIL L 32 1 0 6 0.0 0 3 0.0 1 1 100.0 0 0 0 4 0 0 1 1 -14
+p683
+aVQuentin Richardson NYK 11/02/2008 NYK vs. MIL L 37 28 11 18 61.1 5 11 45.5 1 2 50.0 0 9 9 1 0 0 2 3 -9
+p684
+aVAnthony Roberson NYK 11/02/2008 NYK vs. MIL L 11 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 0 0 0 0 3 5
+p685
+aVNate Robinson NYK 11/02/2008 NYK vs. MIL L 25 14 5 11 45.5 2 5 40.0 2 2 100.0 3 2 5 4 3 0 5 4 10
+p686
+aVZach Randolph NYK 11/02/2008 NYK vs. MIL L 34 15 6 17 35.3 1 2 50.0 2 4 50.0 4 9 13 3 2 1 2 3 -10
+p687
+aVMardy Collins NYK 11/02/2008 NYK vs. MIL L 7 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 1
+p688
+aVMalik Rose NYK 11/02/2008 NYK vs. MIL L 10 4 0 0 - 0 0 - 4 4 100.0 0 3 3 0 0 0 1 2 -1
+p689
+aVDavid Lee NYK 11/02/2008 NYK vs. MIL L 20 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 1 0 2 3 -8
+p690
+aVChris Duhon NYK 11/02/2008 NYK vs. MIL L 37 6 2 6 33.3 2 5 40.0 0 0 - 1 2 3 3 0 0 2 3 -19
+p691
+aVDanilo Gallinari NYK 10/31/2008 NYK @ PHI L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 -14
+p692
+aVWilson Chandler NYK 10/31/2008 NYK @ PHI L 24 11 5 13 38.5 1 3 33.3 0 0 - 1 3 4 1 1 0 1 4 -2
+p693
+aVMalik Rose NYK 10/31/2008 NYK @ PHI L 8 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 2 -5
+p694
+aVDavid Lee NYK 10/31/2008 NYK @ PHI L 33 13 5 13 38.5 0 0 - 3 4 75.0 5 6 11 3 3 1 1 3 -14
+p695
+aVChris Duhon NYK 10/31/2008 NYK @ PHI L 34 5 1 8 12.5 0 3 0.0 3 4 75.0 2 4 6 7 3 0 1 2 -23
+p696
+aVAnthony Roberson NYK 10/31/2008 NYK @ PHI L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p697
+aVJamal Crawford NYK 10/31/2008 NYK @ PHI L 30 14 5 12 41.7 2 6 33.3 2 2 100.0 1 0 1 1 1 0 1 0 -18
+p698
+aVQuentin Richardson NYK 10/31/2008 NYK @ PHI L 20 8 3 8 37.5 2 5 40.0 0 0 - 0 2 2 1 2 0 1 0 -21
+p699
+aVNate Robinson NYK 10/31/2008 NYK @ PHI L 31 12 4 14 28.6 2 8 25.0 2 3 66.7 2 4 6 2 3 0 2 3 -15
+p700
+aVZach Randolph NYK 10/31/2008 NYK @ PHI L 30 12 5 19 26.3 0 1 0.0 2 2 100.0 4 3 7 2 0 0 1 1 -28
+p701
+aVMardy Collins NYK 10/31/2008 NYK @ PHI L 13 7 3 7 42.9 0 2 0.0 1 2 50.0 0 2 2 0 0 0 0 0 -3
+p702
+aVNate Robinson NYK 10/29/2008 NYK vs. MIA W 25 13 4 10 40.0 1 3 33.3 4 4 100.0 1 2 3 7 2 0 0 4 -8
+p703
+aVJamal Crawford NYK 10/29/2008 NYK vs. MIA W 40 29 9 19 47.4 4 10 40.0 7 10 70.0 0 4 4 4 1 0 4 2 6
+p704
+aVMalik Rose NYK 10/29/2008 NYK vs. MIA W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 1
+p705
+aVDanilo Gallinari NYK 10/29/2008 NYK vs. MIA W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p706
+aVMardy Collins NYK 10/29/2008 NYK vs. MIA W 10 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 1 0 0 2 3 1
+p707
+aVZach Randolph NYK 10/29/2008 NYK vs. MIA W 30 20 7 15 46.7 0 2 0.0 6 7 85.7 2 7 9 2 2 0 1 2 4
+p708
+aVWilson Chandler NYK 10/29/2008 NYK vs. MIA W 23 17 8 15 53.3 0 2 0.0 1 3 33.3 4 5 9 1 0 0 1 4 -5
+p709
+aVChris Duhon NYK 10/29/2008 NYK vs. MIA W 38 9 3 6 50.0 2 2 100.0 1 2 50.0 1 2 3 3 1 0 2 3 -1
+p710
+aVQuentin Richardson NYK 10/29/2008 NYK vs. MIA W 28 16 5 9 55.6 2 5 40.0 4 4 100.0 1 3 4 4 0 0 2 3 17
+p711
+aVDavid Lee NYK 10/29/2008 NYK vs. MIA W 35 16 6 9 66.7 0 0 - 4 5 80.0 4 7 11 5 1 0 2 3 10
+p712
+a.

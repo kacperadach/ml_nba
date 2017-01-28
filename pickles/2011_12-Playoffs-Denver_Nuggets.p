@@ -1,0 +1,144 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCorey Brewer DEN 05/12/2012 DEN @ LAL L 13 4 2 9 22.2 0 3 0.0 0 0 - 2 0 2 0 1 0 0 1 1
+p2
+aVTy Lawson DEN 05/12/2012 DEN @ LAL L 42 24 11 19 57.9 2 6 33.3 0 2 0.0 3 2 5 6 0 0 2 2 -6
+p3
+aVKenneth Faried DEN 05/12/2012 DEN @ LAL L 20 6 3 5 60.0 0 0 - 0 0 - 4 6 10 1 1 0 4 3 -19
+p4
+aVDanilo Gallinari DEN 05/12/2012 DEN @ LAL L 26 3 1 9 11.1 1 3 33.3 0 0 - 0 3 3 3 1 1 4 1 -12
+p5
+aVTimofey Mozgov DEN 05/12/2012 DEN @ LAL L 15 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 2 1 2 -8
+p6
+aVAndre Miller DEN 05/12/2012 DEN @ LAL L 27 3 1 10 10.0 0 1 0.0 1 1 100.0 6 5 11 8 0 0 5 3 0
+p7
+aVJaVale McGee DEN 05/12/2012 DEN @ LAL L 32 6 1 7 14.3 0 0 - 4 6 66.7 5 9 14 1 1 5 0 2 3
+p8
+aVAl Harrington DEN 05/12/2012 DEN @ LAL L 29 24 9 18 50.0 3 10 30.0 3 3 100.0 0 2 2 1 1 0 1 4 6
+p9
+aVArron Afflalo DEN 05/12/2012 DEN @ LAL L 36 15 6 11 54.5 1 3 33.3 2 2 100.0 2 1 3 3 0 1 1 3 -10
+p10
+aVCorey Brewer DEN 05/10/2012 DEN vs. LAL W 19 18 8 12 66.7 2 3 66.7 0 0 - 0 3 3 2 2 1 0 0 -7
+p11
+aVJaVale McGee DEN 05/10/2012 DEN vs. LAL W 20 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 0 1 0 5 -1
+p12
+aVKosta Koufos DEN 05/10/2012 DEN vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p13
+aVTimofey Mozgov DEN 05/10/2012 DEN vs. LAL W 23 8 3 5 60.0 0 0 - 2 4 50.0 1 3 4 2 0 1 0 3 16
+p14
+aVTy Lawson DEN 05/10/2012 DEN vs. LAL W 30 32 13 18 72.2 5 6 83.3 1 3 33.3 0 5 5 6 0 1 0 0 22
+p15
+aVArron Afflalo DEN 05/10/2012 DEN vs. LAL W 36 6 3 5 60.0 0 1 0.0 0 0 - 0 5 5 7 0 0 0 3 26
+p16
+aVAl Harrington DEN 05/10/2012 DEN vs. LAL W 22 4 1 8 12.5 0 3 0.0 2 6 33.3 0 4 4 0 0 0 1 0 6
+p17
+aVDanilo Gallinari DEN 05/10/2012 DEN vs. LAL W 28 12 5 13 38.5 2 6 33.3 0 0 - 1 3 4 7 1 1 0 3 27
+p18
+aVAndre Miller DEN 05/10/2012 DEN vs. LAL W 24 12 5 10 50.0 1 1 100.0 1 1 100.0 2 2 4 2 1 1 5 3 -7
+p19
+aVJulyan Stone DEN 05/10/2012 DEN vs. LAL W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p20
+aVJordan Hamilton DEN 05/10/2012 DEN vs. LAL W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -5
+p21
+aVKenneth Faried DEN 05/10/2012 DEN vs. LAL W 28 15 6 11 54.5 0 0 - 3 3 100.0 4 7 11 0 1 2 3 3 14
+p22
+aVArron Afflalo DEN 05/08/2012 DEN @ LAL W 35 19 8 19 42.1 1 5 20.0 2 3 66.7 0 5 5 1 3 0 1 0 1
+p23
+aVCorey Brewer DEN 05/08/2012 DEN @ LAL W 15 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -1
+p24
+aVDanilo Gallinari DEN 05/08/2012 DEN @ LAL W 37 14 4 13 30.8 0 3 0.0 6 6 100.0 0 5 5 1 0 1 0 0 4
+p25
+aVAndre Miller DEN 05/08/2012 DEN @ LAL W 28 24 8 11 72.7 2 2 100.0 6 6 100.0 0 2 2 8 1 0 1 4 -5
+p26
+aVTy Lawson DEN 05/08/2012 DEN @ LAL W 29 9 4 12 33.3 0 3 0.0 1 2 50.0 0 2 2 8 2 0 0 3 11
+p27
+aVAl Harrington DEN 05/08/2012 DEN @ LAL W 27 3 0 7 0.0 0 4 0.0 3 4 75.0 1 4 5 0 0 1 1 0 -1
+p28
+aVTimofey Mozgov DEN 05/08/2012 DEN @ LAL W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 4 4
+p29
+aVJaVale McGee DEN 05/08/2012 DEN @ LAL W 33 21 9 12 75.0 0 0 - 3 6 50.0 6 8 14 1 0 2 0 3 -6
+p30
+aVKenneth Faried DEN 05/08/2012 DEN @ LAL W 24 10 5 5 100.0 0 0 - 0 0 - 1 8 9 0 1 0 3 3 8
+p31
+aVAndre Miller DEN 05/06/2012 DEN vs. LAL L 30 15 7 13 53.8 0 1 0.0 1 2 50.0 2 5 7 3 3 0 4 3 -1
+p32
+aVArron Afflalo DEN 05/06/2012 DEN vs. LAL L 32 6 3 7 42.9 0 0 - 0 0 - 1 2 3 3 0 0 2 3 1
+p33
+aVKenneth Faried DEN 05/06/2012 DEN vs. LAL L 32 6 3 8 37.5 0 0 - 0 2 0.0 3 4 7 1 0 3 0 1 -1
+p34
+aVAl Harrington DEN 05/06/2012 DEN vs. LAL L 24 9 4 11 36.4 1 4 25.0 0 0 - 2 4 6 1 2 0 0 1 -4
+p35
+aVCorey Brewer DEN 05/06/2012 DEN vs. LAL L 13 7 3 8 37.5 1 5 20.0 0 0 - 2 1 3 0 0 1 0 0 -3
+p36
+aVTimofey Mozgov DEN 05/06/2012 DEN vs. LAL L 13 6 3 5 60.0 0 0 - 0 0 - 2 0 2 1 0 1 0 3 -7
+p37
+aVJaVale McGee DEN 05/06/2012 DEN vs. LAL L 27 8 2 5 40.0 0 0 - 4 6 66.7 0 4 4 0 2 4 1 1 5
+p38
+aVDanilo Gallinari DEN 05/06/2012 DEN vs. LAL L 35 20 9 16 56.3 0 4 0.0 2 2 100.0 1 5 6 2 1 0 1 5 -11
+p39
+aVTy Lawson DEN 05/06/2012 DEN vs. LAL L 34 11 5 13 38.5 1 5 20.0 0 0 - 0 0 0 6 1 0 2 2 1
+p40
+aVDanilo Gallinari DEN 05/04/2012 DEN vs. LAL W 33 13 3 11 27.3 0 3 0.0 7 8 87.5 1 5 6 2 1 0 1 5 -1
+p41
+aVTy Lawson DEN 05/04/2012 DEN vs. LAL W 38 25 9 19 47.4 1 3 33.3 6 7 85.7 1 3 4 7 2 0 0 2 23
+p42
+aVAndre Miller DEN 05/04/2012 DEN vs. LAL W 32 13 5 12 41.7 1 1 100.0 2 2 100.0 2 3 5 6 0 0 1 1 17
+p43
+aVTimofey Mozgov DEN 05/04/2012 DEN vs. LAL W 14 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 0 1 3 3 -8
+p44
+aVAl Harrington DEN 05/04/2012 DEN vs. LAL W 17 7 2 4 50.0 1 3 33.3 2 2 100.0 0 2 2 2 0 0 0 3 1
+p45
+aVKenneth Faried DEN 05/04/2012 DEN vs. LAL W 36 12 6 16 37.5 0 0 - 0 0 - 6 9 15 2 1 1 0 3 5
+p46
+aVJaVale McGee DEN 05/04/2012 DEN vs. LAL W 28 16 8 12 66.7 0 0 - 0 2 0.0 6 9 15 2 2 3 1 4 30
+p47
+aVCorey Brewer DEN 05/04/2012 DEN vs. LAL W 16 3 1 7 14.3 1 3 33.3 0 0 - 1 0 1 1 1 0 0 3 4
+p48
+aVArron Afflalo DEN 05/04/2012 DEN vs. LAL W 25 10 3 9 33.3 2 3 66.7 2 2 100.0 0 1 1 1 2 0 0 1 4
+p49
+aVCorey Brewer DEN 05/01/2012 DEN @ LAL L 19 13 5 7 71.4 0 0 - 3 5 60.0 0 1 1 2 3 0 0 3 4
+p50
+aVDanilo Gallinari DEN 05/01/2012 DEN @ LAL L 27 13 5 18 27.8 1 4 25.0 2 2 100.0 4 4 8 0 0 1 1 1 -14
+p51
+aVKosta Koufos DEN 05/01/2012 DEN @ LAL L 12 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 1 1 -13
+p52
+aVKenneth Faried DEN 05/01/2012 DEN @ LAL L 26 14 5 7 71.4 0 0 - 4 4 100.0 6 4 10 0 0 1 3 5 -14
+p53
+aVTy Lawson DEN 05/01/2012 DEN @ LAL L 37 25 11 17 64.7 0 3 0.0 3 3 100.0 0 1 1 7 0 0 2 2 1
+p54
+aVAndre Miller DEN 05/01/2012 DEN @ LAL L 30 0 0 4 0.0 0 0 - 0 0 - 0 2 2 8 3 0 1 1 9
+p55
+aVArron Afflalo DEN 05/01/2012 DEN @ LAL L 31 11 4 12 33.3 0 5 0.0 3 4 75.0 1 5 6 1 0 0 4 3 -12
+p56
+aVAl Harrington DEN 05/01/2012 DEN @ LAL L 22 11 4 13 30.8 3 7 42.9 0 0 - 1 5 6 2 0 0 0 3 16
+p57
+aVTimofey Mozgov DEN 05/01/2012 DEN @ LAL L 11 6 3 5 60.0 0 0 - 0 2 0.0 2 2 4 0 1 0 1 1 5
+p58
+aVJaVale McGee DEN 05/01/2012 DEN @ LAL L 24 5 2 6 33.3 0 0 - 1 2 50.0 3 6 9 1 0 6 0 3 -2
+p59
+aVJulyan Stone DEN 04/29/2012 DEN @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p60
+aVKosta Koufos DEN 04/29/2012 DEN @ LAL L 12 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 1 1 3 -8
+p61
+aVArron Afflalo DEN 04/29/2012 DEN @ LAL L 33 9 3 11 27.3 0 3 0.0 3 4 75.0 1 1 2 3 0 1 1 1 -7
+p62
+aVCorey Brewer DEN 04/29/2012 DEN @ LAL L 23 11 3 6 50.0 2 4 50.0 3 3 100.0 1 2 3 1 0 0 1 2 3
+p63
+aVAl Harrington DEN 04/29/2012 DEN @ LAL L 22 10 4 14 28.6 2 4 50.0 0 0 - 3 2 5 0 0 0 0 2 -4
+p64
+aVAndre Miller DEN 04/29/2012 DEN @ LAL L 27 12 5 13 38.5 0 1 0.0 2 3 66.7 2 6 8 7 1 0 0 4 -5
+p65
+aVDanilo Gallinari DEN 04/29/2012 DEN @ LAL L 36 19 7 14 50.0 0 0 - 5 6 83.3 2 2 4 2 1 0 2 0 -17
+p66
+aVJordan Hamilton DEN 04/29/2012 DEN @ LAL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p67
+aVTy Lawson DEN 04/29/2012 DEN @ LAL L 31 7 3 11 27.3 0 2 0.0 1 2 50.0 0 1 1 2 2 0 2 1 -21
+p68
+aVJaVale McGee DEN 04/29/2012 DEN @ LAL L 17 2 0 6 0.0 0 0 - 2 4 50.0 2 4 6 0 0 1 2 3 -10
+p69
+aVTimofey Mozgov DEN 04/29/2012 DEN @ LAL L 9 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 0 1 0 0 0 -3
+p70
+aVKenneth Faried DEN 04/29/2012 DEN @ LAL L 28 10 4 8 50.0 0 0 - 2 3 66.7 1 7 8 0 1 1 1 2 -7
+p71
+a.

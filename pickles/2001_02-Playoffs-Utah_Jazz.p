@@ -1,0 +1,84 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGreg Ostertag UTA 04/29/2002 UTA vs. SAC L 22 8 4 8 50.0 0 0 - 0 0 - 10 5 15 1 1 1 3 4 -6
+p2
+aVRusty LaRue UTA 04/29/2002 UTA vs. SAC L 10 6 2 2 100.0 1 1 100.0 1 2 50.0 0 1 1 2 1 0 1 0 1
+p3
+aVScott Padgett UTA 04/29/2002 UTA vs. SAC L 14 7 2 7 28.6 0 2 0.0 3 3 100.0 3 3 6 1 0 1 1 2 3
+p4
+aVBryon Russell UTA 04/29/2002 UTA vs. SAC L 35 8 2 12 16.7 2 4 50.0 2 2 100.0 2 3 5 2 3 0 2 3 -7
+p5
+aVKarl Malone UTA 04/29/2002 UTA vs. SAC L 41 14 7 20 35.0 0 0 - 0 2 0.0 0 3 3 3 1 0 5 3 -5
+p6
+aVDonyell Marshall UTA 04/29/2002 UTA vs. SAC L 30 11 4 15 26.7 0 1 0.0 3 4 75.0 6 3 9 4 0 2 2 0 4
+p7
+aVAndrei Kirilenko UTA 04/29/2002 UTA vs. SAC L 29 10 4 7 57.1 0 0 - 2 2 100.0 1 5 6 1 2 2 3 0 0
+p8
+aVJarron Collins UTA 04/29/2002 UTA vs. SAC L 14 8 4 4 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -6
+p9
+aVJohn Stockton UTA 04/29/2002 UTA vs. SAC L 38 12 5 12 41.7 1 4 25.0 1 1 100.0 1 2 3 9 2 1 1 3 -6
+p10
+aVQuincy Lewis UTA 04/29/2002 UTA vs. SAC L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p11
+aVScott Padgett UTA 04/27/2002 UTA vs. SAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p12
+aVDonyell Marshall UTA 04/27/2002 UTA vs. SAC L 30 16 6 12 50.0 2 3 66.7 2 2 100.0 2 2 4 1 1 2 0 3 5
+p13
+aVJohn Stockton UTA 04/27/2002 UTA vs. SAC L 29 15 5 9 55.6 1 2 50.0 4 5 80.0 1 4 5 7 4 0 1 6 6
+p14
+aVAndrei Kirilenko UTA 04/27/2002 UTA vs. SAC L 37 8 2 8 25.0 0 3 0.0 4 4 100.0 0 2 2 0 3 3 0 3 -1
+p15
+aVRusty LaRue UTA 04/27/2002 UTA vs. SAC L 20 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 3 0 0 2 3 -13
+p16
+aVGreg Ostertag UTA 04/27/2002 UTA vs. SAC L 17 4 2 3 66.7 0 0 - 0 2 0.0 1 2 3 0 1 1 0 3 -13
+p17
+aVKarl Malone UTA 04/27/2002 UTA vs. SAC L 44 23 9 19 47.4 0 1 0.0 5 9 55.6 1 5 6 7 2 2 2 2 -4
+p18
+aVJarron Collins UTA 04/27/2002 UTA vs. SAC L 11 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 4 0
+p19
+aVQuincy Lewis UTA 04/27/2002 UTA vs. SAC L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 6
+p20
+aVBryon Russell UTA 04/27/2002 UTA vs. SAC L 38 8 2 9 22.2 2 6 33.3 2 2 100.0 0 6 6 2 0 0 4 4 -5
+p21
+aVRusty LaRue UTA 04/23/2002 UTA @ SAC W 9 2 0 1 0.0 0 0 - 2 4 50.0 0 2 2 0 0 0 0 0 -2
+p22
+aVGreg Ostertag UTA 04/23/2002 UTA @ SAC W 25 7 3 5 60.0 0 0 - 1 6 16.7 5 5 10 1 0 3 2 6 8
+p23
+aVJohn Stockton UTA 04/23/2002 UTA @ SAC W 39 13 4 9 44.4 0 0 - 5 5 100.0 0 4 4 12 2 0 1 3 9
+p24
+aVAndrei Kirilenko UTA 04/23/2002 UTA @ SAC W 42 15 4 7 57.1 0 1 0.0 7 10 70.0 2 4 6 3 2 5 2 3 6
+p25
+aVBryon Russell UTA 04/23/2002 UTA @ SAC W 27 12 5 11 45.5 2 4 50.0 0 0 - 2 1 3 2 1 0 3 6 2
+p26
+aVQuincy Lewis UTA 04/23/2002 UTA @ SAC W 13 4 2 6 33.3 0 0 - 0 2 0.0 0 0 0 1 0 0 1 3 2
+p27
+aVJarron Collins UTA 04/23/2002 UTA @ SAC W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -5
+p28
+aVDonyell Marshall UTA 04/23/2002 UTA @ SAC W 28 19 8 15 53.3 1 1 100.0 2 4 50.0 3 5 8 2 1 2 2 1 9
+p29
+aVScott Padgett UTA 04/23/2002 UTA @ SAC W 10 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 2 2
+p30
+aVKarl Malone UTA 04/23/2002 UTA @ SAC W 39 18 6 15 40.0 0 0 - 6 6 100.0 1 11 12 4 0 1 3 3 4
+p31
+aVBryon Russell UTA 04/20/2002 UTA @ SAC L 20 0 0 4 0.0 0 1 0.0 0 0 - 2 1 3 1 0 0 0 2 -18
+p32
+aVDonyell Marshall UTA 04/20/2002 UTA @ SAC L 37 11 3 8 37.5 0 1 0.0 5 6 83.3 3 7 10 4 1 0 1 1 5
+p33
+aVQuincy Lewis UTA 04/20/2002 UTA @ SAC L 27 7 3 11 27.3 1 4 25.0 0 2 0.0 1 2 3 1 2 1 1 4 13
+p34
+aVAndrei Kirilenko UTA 04/20/2002 UTA @ SAC L 13 2 1 6 16.7 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -12
+p35
+aVRusty LaRue UTA 04/20/2002 UTA @ SAC L 14 7 2 5 40.0 0 1 0.0 3 4 75.0 0 2 2 1 0 0 1 3 -1
+p36
+aVScott Padgett UTA 04/20/2002 UTA @ SAC L 19 8 4 5 80.0 0 1 0.0 0 0 - 2 2 4 1 1 0 3 2 13
+p37
+aVGreg Ostertag UTA 04/20/2002 UTA @ SAC L 23 8 4 5 80.0 0 0 - 0 2 0.0 3 3 6 0 0 1 1 1 4
+p38
+aVKarl Malone UTA 04/20/2002 UTA @ SAC L 39 25 8 19 42.1 0 0 - 9 11 81.8 1 8 9 4 2 0 1 3 -8
+p39
+aVJarron Collins UTA 04/20/2002 UTA @ SAC L 14 8 4 10 40.0 0 0 - 0 0 - 3 0 3 0 0 0 0 2 -11
+p40
+aVJohn Stockton UTA 04/20/2002 UTA @ SAC L 35 10 4 10 40.0 0 1 0.0 2 2 100.0 1 3 4 12 3 0 5 4 0
+p41
+a.

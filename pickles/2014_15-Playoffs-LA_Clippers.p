@@ -1,0 +1,306 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJJ Redick LAC 05/17/2015 LAC @ HOU L 41 10 4 12 33.3 2 9 22.2 0 0 - 0 6 6 3 0 4 6 4 -6
+p2
+aVDeAndre Jordan LAC 05/17/2015 LAC @ HOU L 39 16 7 10 70.0 0 0 - 2 7 28.6 5 12 17 0 4 3 1 3 2
+p3
+aVChris Paul LAC 05/17/2015 LAC @ HOU L 45 26 9 20 45.0 2 6 33.3 6 6 100.0 2 3 5 10 4 0 4 5 -6
+p4
+aVLester Hudson LAC 05/17/2015 LAC @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p5
+aVMatt Barnes LAC 05/17/2015 LAC @ HOU L 22 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 1 1 1 4 9
+p6
+aVGlen Davis LAC 05/17/2015 LAC @ HOU L 5 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 -10
+p7
+aVBlake Griffin LAC 05/17/2015 LAC @ HOU L 44 27 13 23 56.5 0 0 - 1 2 50.0 4 7 11 6 0 1 5 3 -12
+p8
+aVAustin Rivers LAC 05/17/2015 LAC @ HOU L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 4 -17
+p9
+aVJamal Crawford LAC 05/17/2015 LAC @ HOU L 26 17 6 18 33.3 3 9 33.3 2 2 100.0 0 0 0 1 1 0 0 5 -22
+p10
+aVSpencer Hawes LAC 05/17/2015 LAC @ HOU L 2 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -3
+p11
+aVDahntay Jones LAC 05/17/2015 LAC @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p12
+aVSpencer Hawes LAC 05/14/2015 LAC vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p13
+aVGlen Davis LAC 05/14/2015 LAC vs. HOU L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 2 -7
+p14
+aVBlake Griffin LAC 05/14/2015 LAC vs. HOU L 42 28 12 20 60.0 1 1 100.0 3 7 42.9 1 7 8 2 2 1 3 6 -10
+p15
+aVMatt Barnes LAC 05/14/2015 LAC vs. HOU L 31 9 4 12 33.3 1 8 12.5 0 0 - 0 10 10 1 0 0 1 4 7
+p16
+aVAustin Rivers LAC 05/14/2015 LAC vs. HOU L 14 5 2 8 25.0 0 3 0.0 1 1 100.0 0 1 1 2 1 1 0 4 -14
+p17
+aVDeAndre Jordan LAC 05/14/2015 LAC vs. HOU L 42 8 2 5 40.0 0 0 - 4 6 66.7 2 7 9 0 2 4 0 5 -4
+p18
+aVJamal Crawford LAC 05/14/2015 LAC vs. HOU L 24 9 4 13 30.8 1 4 25.0 0 1 0.0 0 2 2 1 2 1 1 5 -27
+p19
+aVJJ Redick LAC 05/14/2015 LAC vs. HOU L 36 15 4 13 30.8 3 9 33.3 4 4 100.0 0 3 3 2 0 0 0 3 3
+p20
+aVChris Paul LAC 05/14/2015 LAC vs. HOU L 41 31 10 19 52.6 1 5 20.0 10 11 90.9 1 6 7 11 0 0 2 2 -8
+p21
+aVMatt Barnes LAC 05/12/2015 LAC @ HOU L 23 5 1 8 12.5 1 4 25.0 2 2 100.0 2 0 2 2 1 0 0 3 -5
+p22
+aVGlen Davis LAC 05/12/2015 LAC @ HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -12
+p23
+aVDeAndre Jordan LAC 05/12/2015 LAC @ HOU L 24 13 3 3 100.0 0 0 - 7 16 43.8 3 8 11 2 1 1 1 4 0
+p24
+aVDahntay Jones LAC 05/12/2015 LAC @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -2
+p25
+aVJamal Crawford LAC 05/12/2015 LAC @ HOU L 27 5 2 10 20.0 1 5 20.0 0 0 - 0 0 0 0 0 0 0 3 -16
+p26
+aVChris Paul LAC 05/12/2015 LAC @ HOU L 35 22 9 16 56.3 4 9 44.4 0 0 - 0 2 2 10 1 0 2 3 -7
+p27
+aVSpencer Hawes LAC 05/12/2015 LAC @ HOU L 20 11 5 7 71.4 1 2 50.0 0 0 - 2 3 5 1 1 0 1 4 -16
+p28
+aVLester Hudson LAC 05/12/2015 LAC @ HOU L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p29
+aVAustin Rivers LAC 05/12/2015 LAC @ HOU L 21 8 3 11 27.3 1 5 20.0 1 2 50.0 0 1 1 1 1 0 1 1 -17
+p30
+aVBlake Griffin LAC 05/12/2015 LAC @ HOU L 38 30 12 21 57.1 0 0 - 6 9 66.7 6 10 16 2 0 0 1 2 -8
+p31
+aVHedo Turkoglu LAC 05/12/2015 LAC @ HOU L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p32
+aVJJ Redick LAC 05/12/2015 LAC @ HOU L 37 9 3 12 25.0 1 8 12.5 2 2 100.0 0 1 1 3 1 0 0 2 -14
+p33
+aVSpencer Hawes LAC 05/10/2015 LAC vs. HOU W 9 8 2 2 100.0 2 2 100.0 2 2 100.0 0 1 1 2 1 0 0 2 4
+p34
+aVHedo Turkoglu LAC 05/10/2015 LAC vs. HOU W 9 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 3 1 0 0 0 2
+p35
+aVMatt Barnes LAC 05/10/2015 LAC vs. HOU W 30 7 2 8 25.0 0 4 0.0 3 4 75.0 1 7 8 2 0 0 1 3 24
+p36
+aVJamal Crawford LAC 05/10/2015 LAC vs. HOU W 27 13 4 10 40.0 2 6 33.3 3 5 60.0 2 2 4 1 0 1 1 1 19
+p37
+aVAustin Rivers LAC 05/10/2015 LAC vs. HOU W 24 12 5 9 55.6 2 3 66.7 0 0 - 1 4 5 0 1 2 2 3 11
+p38
+aVEkpe Udoh LAC 05/10/2015 LAC vs. HOU W 5 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p39
+aVBlake Griffin LAC 05/10/2015 LAC vs. HOU W 33 21 7 11 63.6 0 0 - 7 9 77.8 0 8 8 3 0 1 2 2 30
+p40
+aVJJ Redick LAC 05/10/2015 LAC vs. HOU W 29 18 5 10 50.0 4 7 57.1 4 4 100.0 0 1 1 2 0 0 2 2 14
+p41
+aVGlen Davis LAC 05/10/2015 LAC vs. HOU W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 5
+p42
+aVDeAndre Jordan LAC 05/10/2015 LAC vs. HOU W 30 26 6 7 85.7 0 0 - 14 34 41.2 4 13 17 2 2 1 0 3 16
+p43
+aVChris Paul LAC 05/10/2015 LAC vs. HOU W 26 15 4 9 44.4 3 4 75.0 4 5 80.0 2 2 4 12 1 0 1 3 28
+p44
+aVLester Hudson LAC 05/10/2015 LAC vs. HOU W 5 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 4
+p45
+aVDahntay Jones LAC 05/10/2015 LAC vs. HOU W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p46
+aVChris Paul LAC 05/08/2015 LAC vs. HOU W 23 12 5 12 41.7 2 6 33.3 0 0 - 0 3 3 7 2 0 1 2 12
+p47
+aVBlake Griffin LAC 05/08/2015 LAC vs. HOU W 31 22 10 20 50.0 0 1 0.0 2 4 50.0 6 8 14 4 0 0 7 4 12
+p48
+aVHedo Turkoglu LAC 05/08/2015 LAC vs. HOU W 3 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 1 1 1 -1
+p49
+aVDahntay Jones LAC 05/08/2015 LAC vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p50
+aVDeAndre Jordan LAC 05/08/2015 LAC vs. HOU W 36 6 2 4 50.0 0 0 - 2 4 50.0 5 10 15 3 1 0 3 5 36
+p51
+aVLester Hudson LAC 05/08/2015 LAC vs. HOU W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -4
+p52
+aVJJ Redick LAC 05/08/2015 LAC vs. HOU W 37 31 11 14 78.6 5 6 83.3 4 4 100.0 0 1 1 1 1 0 0 1 23
+p53
+aVJamal Crawford LAC 05/08/2015 LAC vs. HOU W 27 12 4 9 44.4 1 4 25.0 3 3 100.0 1 2 3 3 6 0 2 3 17
+p54
+aVGlen Davis LAC 05/08/2015 LAC vs. HOU W 8 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -10
+p55
+aVEkpe Udoh LAC 05/08/2015 LAC vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p56
+aVAustin Rivers LAC 05/08/2015 LAC vs. HOU W 23 25 10 13 76.9 3 6 50.0 2 2 100.0 0 6 6 2 1 1 2 2 16
+p57
+aVSpencer Hawes LAC 05/08/2015 LAC vs. HOU W 11 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 0 2 0 4 20
+p58
+aVMatt Barnes LAC 05/08/2015 LAC vs. HOU W 30 7 1 3 33.3 1 3 33.3 4 4 100.0 0 3 3 2 0 2 2 4 6
+p59
+aVBlake Griffin LAC 05/06/2015 LAC @ HOU L 41 34 13 23 56.5 0 1 0.0 8 11 72.7 0 15 15 4 1 1 3 4 -7
+p60
+aVJJ Redick LAC 05/06/2015 LAC @ HOU L 46 12 3 10 30.0 2 6 33.3 4 4 100.0 0 0 0 2 0 0 2 5 -2
+p61
+aVGlen Davis LAC 05/06/2015 LAC @ HOU L 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 3 -8
+p62
+aVMatt Barnes LAC 05/06/2015 LAC @ HOU L 34 6 2 7 28.6 0 5 0.0 2 2 100.0 0 6 6 5 2 0 1 6 -17
+p63
+aVEkpe Udoh LAC 05/06/2015 LAC @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p64
+aVDahntay Jones LAC 05/06/2015 LAC @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p65
+aVDeAndre Jordan LAC 05/06/2015 LAC @ HOU L 25 16 6 6 100.0 0 0 - 4 6 66.7 4 8 12 0 2 2 1 4 3
+p66
+aVJamal Crawford LAC 05/06/2015 LAC @ HOU L 36 19 6 22 27.3 1 8 12.5 6 7 85.7 2 3 5 5 1 0 0 3 0
+p67
+aVHedo Turkoglu LAC 05/06/2015 LAC @ HOU L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 4 -2
+p68
+aVLester Hudson LAC 05/06/2015 LAC @ HOU L 11 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 1 1 2 4 9
+p69
+aVAustin Rivers LAC 05/06/2015 LAC @ HOU L 25 10 4 9 44.4 1 3 33.3 1 2 50.0 0 0 0 2 0 0 1 5 -3
+p70
+aVMatt Barnes LAC 05/04/2015 LAC @ HOU W 42 20 8 11 72.7 3 6 50.0 1 1 100.0 1 4 5 3 4 2 2 5 21
+p71
+aVDeAndre Jordan LAC 05/04/2015 LAC @ HOU W 34 10 2 4 50.0 0 0 - 6 11 54.5 3 10 13 5 2 4 1 2 19
+p72
+aVHedo Turkoglu LAC 05/04/2015 LAC @ HOU W 8 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 3 -3
+p73
+aVJamal Crawford LAC 05/04/2015 LAC @ HOU W 32 21 8 18 44.4 3 8 37.5 2 2 100.0 1 4 5 4 2 0 6 2 10
+p74
+aVDahntay Jones LAC 05/04/2015 LAC @ HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p75
+aVAustin Rivers LAC 05/04/2015 LAC @ HOU W 28 17 5 12 41.7 4 6 66.7 3 4 75.0 1 0 1 3 4 0 3 1 2
+p76
+aVLester Hudson LAC 05/04/2015 LAC @ HOU W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -3
+p77
+aVJJ Redick LAC 05/04/2015 LAC @ HOU W 41 17 6 13 46.2 3 7 42.9 2 2 100.0 0 2 2 2 1 0 4 1 20
+p78
+aVGlen Davis LAC 05/04/2015 LAC @ HOU W 11 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -7
+p79
+aVBlake Griffin LAC 05/04/2015 LAC @ HOU W 40 26 9 19 47.4 0 1 0.0 8 10 80.0 2 12 14 13 1 0 5 4 21
+p80
+aVDeAndre Jordan LAC 05/02/2015 LAC vs. SAS W 34 7 2 2 100.0 0 0 - 3 9 33.3 3 11 14 2 1 1 1 2 -5
+p81
+aVChris Paul LAC 05/02/2015 LAC vs. SAS W 37 27 9 13 69.2 5 6 83.3 4 4 100.0 0 2 2 6 2 1 1 1 6
+p82
+aVJJ Redick LAC 05/02/2015 LAC vs. SAS W 42 14 5 11 45.5 4 7 57.1 0 0 - 0 3 3 3 1 1 1 4 3
+p83
+aVHedo Turkoglu LAC 05/02/2015 LAC vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p84
+aVAustin Rivers LAC 05/02/2015 LAC vs. SAS W 12 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -7
+p85
+aVMatt Barnes LAC 05/02/2015 LAC vs. SAS W 28 17 7 13 53.8 3 8 37.5 0 1 0.0 1 4 5 1 2 2 0 4 8
+p86
+aVBlake Griffin LAC 05/02/2015 LAC vs. SAS W 40 24 7 14 50.0 0 0 - 10 11 90.9 1 12 13 10 0 0 4 4 0
+p87
+aVJamal Crawford LAC 05/02/2015 LAC vs. SAS W 32 16 7 15 46.7 2 5 40.0 0 0 - 0 2 2 3 0 0 4 2 11
+p88
+aVDahntay Jones LAC 05/02/2015 LAC vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p89
+aVGlen Davis LAC 05/02/2015 LAC vs. SAS W 11 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 2 1 2 -1
+p90
+aVAustin Rivers LAC 04/30/2015 LAC @ SAS W 11 3 1 6 16.7 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -12
+p91
+aVGlen Davis LAC 04/30/2015 LAC @ SAS W 10 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 0 2 5 -6
+p92
+aVBlake Griffin LAC 04/30/2015 LAC @ SAS W 41 26 11 21 52.4 0 1 0.0 4 4 100.0 2 10 12 6 1 4 0 2 11
+p93
+aVSpencer Hawes LAC 04/30/2015 LAC @ SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p94
+aVMatt Barnes LAC 04/30/2015 LAC @ SAS W 29 8 3 3 100.0 2 2 100.0 0 0 - 2 5 7 0 2 0 1 4 23
+p95
+aVHedo Turkoglu LAC 04/30/2015 LAC @ SAS W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 1
+p96
+aVChris Paul LAC 04/30/2015 LAC @ SAS W 44 19 7 21 33.3 1 7 14.3 4 4 100.0 0 4 4 15 4 0 1 1 12
+p97
+aVJamal Crawford LAC 04/30/2015 LAC @ SAS W 25 10 4 9 44.4 0 2 0.0 2 2 100.0 0 1 1 1 0 0 2 2 -12
+p98
+aVDahntay Jones LAC 04/30/2015 LAC @ SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p99
+aVDeAndre Jordan LAC 04/30/2015 LAC @ SAS W 36 15 4 5 80.0 0 0 - 7 15 46.7 3 11 14 0 0 3 2 2 1
+p100
+aVJJ Redick LAC 04/30/2015 LAC @ SAS W 39 19 7 12 58.3 1 4 25.0 4 4 100.0 0 0 0 0 0 0 2 0 14
+p101
+aVJJ Redick LAC 04/28/2015 LAC vs. SAS L 42 13 6 10 60.0 0 0 - 1 2 50.0 0 2 2 1 2 0 2 6 -4
+p102
+aVGlen Davis LAC 04/28/2015 LAC vs. SAS L 11 7 3 4 75.0 0 0 - 1 1 100.0 0 4 4 0 1 0 1 3 -4
+p103
+aVChris Paul LAC 04/28/2015 LAC vs. SAS L 41 19 7 14 50.0 0 2 0.0 5 5 100.0 1 4 5 10 2 0 0 3 6
+p104
+aVDeAndre Jordan LAC 04/28/2015 LAC vs. SAS L 37 21 7 9 77.8 0 0 - 7 16 43.8 4 10 14 0 0 2 2 3 -4
+p105
+aVJamal Crawford LAC 04/28/2015 LAC vs. SAS L 28 8 4 15 26.7 0 6 0.0 0 0 - 0 0 0 2 1 0 0 3 -1
+p106
+aVMatt Barnes LAC 04/28/2015 LAC vs. SAS L 28 7 2 5 40.0 1 4 25.0 2 2 100.0 1 5 6 1 0 2 2 3 0
+p107
+aVBlake Griffin LAC 04/28/2015 LAC vs. SAS L 41 30 10 25 40.0 0 1 0.0 10 14 71.4 5 9 14 7 4 1 5 3 -5
+p108
+aVAustin Rivers LAC 04/28/2015 LAC vs. SAS L 12 2 1 4 25.0 0 1 0.0 0 2 0.0 0 1 1 1 1 0 0 3 -8
+p109
+aVDeAndre Jordan LAC 04/26/2015 LAC @ SAS W 32 6 3 5 60.0 0 0 - 0 4 0.0 3 11 14 1 1 4 1 1 -5
+p110
+aVAustin Rivers LAC 04/26/2015 LAC @ SAS W 17 16 7 8 87.5 0 0 - 2 2 100.0 0 0 0 1 1 0 1 2 7
+p111
+aVHedo Turkoglu LAC 04/26/2015 LAC @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p112
+aVChris Paul LAC 04/26/2015 LAC @ SAS W 38 34 11 19 57.9 2 6 33.3 10 10 100.0 0 3 3 7 1 1 2 5 6
+p113
+aVMatt Barnes LAC 04/26/2015 LAC @ SAS W 23 4 2 8 25.0 0 3 0.0 0 0 - 1 1 2 2 1 0 1 4 5
+p114
+aVBlake Griffin LAC 04/26/2015 LAC @ SAS W 43 20 9 17 52.9 0 0 - 2 5 40.0 2 17 19 7 1 0 1 4 14
+p115
+aVJJ Redick LAC 04/26/2015 LAC @ SAS W 37 17 6 12 50.0 3 6 50.0 2 2 100.0 0 3 3 1 2 0 2 3 2
+p116
+aVJamal Crawford LAC 04/26/2015 LAC @ SAS W 29 15 6 13 46.2 0 3 0.0 3 3 100.0 0 2 2 3 0 0 0 1 7
+p117
+aVGlen Davis LAC 04/26/2015 LAC @ SAS W 19 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 1 1 4 12
+p118
+aVEkpe Udoh LAC 04/24/2015 LAC @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p119
+aVJJ Redick LAC 04/24/2015 LAC @ SAS L 31 7 2 7 28.6 1 4 25.0 2 2 100.0 0 1 1 0 1 0 2 1 -24
+p120
+aVMatt Barnes LAC 04/24/2015 LAC @ SAS L 20 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 1 0 1 2 -27
+p121
+aVChris Paul LAC 04/24/2015 LAC @ SAS L 33 7 3 11 27.3 1 4 25.0 0 0 - 0 3 3 4 2 0 6 4 -27
+p122
+aVHedo Turkoglu LAC 04/24/2015 LAC @ SAS L 9 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 0 1 0 0 0 -8
+p123
+aVJamal Crawford LAC 04/24/2015 LAC @ SAS L 23 5 1 11 9.1 0 3 0.0 3 3 100.0 0 2 2 2 0 0 0 1 -8
+p124
+aVDeAndre Jordan LAC 04/24/2015 LAC @ SAS L 30 10 5 6 83.3 0 0 - 0 0 - 2 6 8 0 0 1 1 2 -31
+p125
+aVBlake Griffin LAC 04/24/2015 LAC @ SAS L 32 14 6 15 40.0 0 0 - 2 3 66.7 3 7 10 5 0 1 3 1 -21
+p126
+aVDahntay Jones LAC 04/24/2015 LAC @ SAS L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 8
+p127
+aVLester Hudson LAC 04/24/2015 LAC @ SAS L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 0
+p128
+aVSpencer Hawes LAC 04/24/2015 LAC @ SAS L 8 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 0 0 1 0 0 0
+p129
+aVAustin Rivers LAC 04/24/2015 LAC @ SAS L 22 11 4 11 36.4 2 4 50.0 1 2 50.0 2 2 4 1 0 0 0 0 -4
+p130
+aVGlen Davis LAC 04/24/2015 LAC @ SAS L 13 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 0 1 1 1 2 -1
+p131
+aVGlen Davis LAC 04/22/2015 LAC vs. SAS L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 5
+p132
+aVJamal Crawford LAC 04/22/2015 LAC vs. SAS L 21 11 4 13 30.8 1 7 14.3 2 2 100.0 0 4 4 1 0 0 0 2 -5
+p133
+aVBlake Griffin LAC 04/22/2015 LAC vs. SAS L 47 29 12 25 48.0 0 1 0.0 5 7 71.4 5 7 12 11 1 1 5 2 6
+p134
+aVAustin Rivers LAC 04/22/2015 LAC vs. SAS L 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p135
+aVDahntay Jones LAC 04/22/2015 LAC vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p136
+aVMatt Barnes LAC 04/22/2015 LAC vs. SAS L 36 4 1 10 10.0 1 6 16.7 1 4 25.0 5 5 10 1 2 1 1 3 1
+p137
+aVDeAndre Jordan LAC 04/22/2015 LAC vs. SAS L 44 20 7 10 70.0 0 0 - 6 17 35.3 5 10 15 0 0 3 1 3 -10
+p138
+aVChris Paul LAC 04/22/2015 LAC vs. SAS L 43 21 8 15 53.3 3 5 60.0 2 2 100.0 1 7 8 7 1 1 3 5 -5
+p139
+aVJJ Redick LAC 04/22/2015 LAC vs. SAS L 47 16 4 12 33.3 4 9 44.4 4 5 80.0 0 4 4 2 1 0 1 2 -5
+p140
+aVHedo Turkoglu LAC 04/22/2015 LAC vs. SAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p141
+aVHedo Turkoglu LAC 04/19/2015 LAC vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p142
+aVDahntay Jones LAC 04/19/2015 LAC vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p143
+aVSpencer Hawes LAC 04/19/2015 LAC vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p144
+aVBlake Griffin LAC 04/19/2015 LAC vs. SAS W 43 26 9 20 45.0 0 0 - 8 10 80.0 1 11 12 6 3 3 1 2 23
+p145
+aVJamal Crawford LAC 04/19/2015 LAC vs. SAS W 23 17 7 10 70.0 3 4 75.0 0 0 - 0 0 0 0 0 1 1 1 8
+p146
+aVGlen Davis LAC 04/19/2015 LAC vs. SAS W 12 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 0 0 0 1 3 1
+p147
+aVAustin Rivers LAC 04/19/2015 LAC vs. SAS W 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -5
+p148
+aVMatt Barnes LAC 04/19/2015 LAC vs. SAS W 32 8 3 5 60.0 2 3 66.7 0 0 - 1 4 5 1 4 0 2 5 12
+p149
+aVJJ Redick LAC 04/19/2015 LAC vs. SAS W 36 10 4 13 30.8 2 6 33.3 0 0 - 0 3 3 2 0 0 2 2 15
+p150
+aVChris Paul LAC 04/19/2015 LAC vs. SAS W 38 32 13 20 65.0 3 5 60.0 3 4 75.0 0 7 7 6 2 0 3 3 20
+p151
+aVDeAndre Jordan LAC 04/19/2015 LAC vs. SAS W 38 9 2 5 40.0 0 0 - 5 12 41.7 3 11 14 1 0 4 2 3 12
+p152
+a.

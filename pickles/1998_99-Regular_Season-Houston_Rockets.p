@@ -1,0 +1,996 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVScottie Pippen HOU 05/05/1999 HOU @ DEN W 35 13 6 11 54.5 1 2 50.0 0 0 - 0 6 6 8 2 1 2 3 3
+p2
+aVOthella Harrington HOU 05/05/1999 HOU @ DEN W 15 5 2 5 40.0 0 0 - 1 2 50.0 0 4 4 0 0 2 0 4 7
+p3
+aVCharles Barkley HOU 05/05/1999 HOU @ DEN W 38 12 5 19 26.3 1 2 50.0 1 2 50.0 4 5 9 6 0 0 6 0 4
+p4
+aVCuttino Mobley HOU 05/05/1999 HOU @ DEN W 45 18 7 16 43.8 2 5 40.0 2 2 100.0 1 4 5 6 0 0 0 0 7
+p5
+aVAntoine Carr HOU 05/05/1999 HOU @ DEN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p6
+aVHakeem Olajuwon HOU 05/05/1999 HOU @ DEN W 41 13 6 14 42.9 0 0 - 1 4 25.0 4 13 17 3 2 7 2 4 8
+p7
+aVMichael Dickerson HOU 05/05/1999 HOU @ DEN W 45 27 11 16 68.8 5 6 83.3 0 0 - 2 4 6 3 0 0 1 1 15
+p8
+aVBrent Price HOU 05/05/1999 HOU @ DEN W 9 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 1 1 1 2 -1
+p9
+aVSam Mack HOU 05/05/1999 HOU @ DEN W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p10
+aVAntoine Carr HOU 05/04/1999 HOU vs. MIN W 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -6
+p11
+aVHakeem Olajuwon HOU 05/04/1999 HOU vs. MIN W 32 17 7 12 58.3 0 0 - 3 3 100.0 1 12 13 3 3 1 5 2 22
+p12
+aVScottie Pippen HOU 05/04/1999 HOU vs. MIN W 38 4 2 6 33.3 0 3 0.0 0 0 - 0 5 5 8 1 0 1 2 22
+p13
+aVOthella Harrington HOU 05/04/1999 HOU vs. MIN W 19 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -4
+p14
+aVCharles Barkley HOU 05/04/1999 HOU vs. MIN W 35 12 6 11 54.5 0 1 0.0 0 2 0.0 4 4 8 6 2 0 3 3 26
+p15
+aVStanley Roberts HOU 05/04/1999 HOU vs. MIN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p16
+aVCuttino Mobley HOU 05/04/1999 HOU vs. MIN W 33 18 6 10 60.0 4 6 66.7 2 4 50.0 0 2 2 4 0 0 1 0 21
+p17
+aVSam Mack HOU 05/04/1999 HOU vs. MIN W 15 11 5 8 62.5 1 4 25.0 0 0 - 0 2 2 0 2 0 2 0 -2
+p18
+aVBryce Drew HOU 05/04/1999 HOU vs. MIN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p19
+aVMichael Dickerson HOU 05/04/1999 HOU vs. MIN W 39 31 10 18 55.6 6 8 75.0 5 5 100.0 0 3 3 5 1 2 1 1 21
+p20
+aVBrent Price HOU 05/04/1999 HOU vs. MIN W 15 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 5 2 0 0 2 -2
+p21
+aVScottie Pippen HOU 05/02/1999 HOU vs. LAC W 41 14 5 10 50.0 3 4 75.0 1 2 50.0 2 5 7 7 1 0 5 3 23
+p22
+aVCharles Barkley HOU 05/02/1999 HOU vs. LAC W 38 19 7 12 58.3 0 1 0.0 5 7 71.4 5 7 12 2 0 1 2 3 22
+p23
+aVCuttino Mobley HOU 05/02/1999 HOU vs. LAC W 24 10 4 10 40.0 0 2 0.0 2 2 100.0 1 2 3 3 2 1 3 3 12
+p24
+aVAnthony Miller HOU 05/02/1999 HOU vs. LAC W 8 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 1 3
+p25
+aVMatt Bullard HOU 05/02/1999 HOU vs. LAC W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p26
+aVSam Mack HOU 05/02/1999 HOU vs. LAC W 24 14 5 9 55.6 4 6 66.7 0 0 - 0 0 0 4 0 0 0 4 9
+p27
+aVHakeem Olajuwon HOU 05/02/1999 HOU vs. LAC W 33 20 7 10 70.0 0 0 - 6 6 100.0 2 2 4 3 5 2 1 4 30
+p28
+aVBrent Price HOU 05/02/1999 HOU vs. LAC W 21 15 6 10 60.0 3 5 60.0 0 0 - 0 0 0 5 0 0 1 2 13
+p29
+aVAntoine Carr HOU 05/02/1999 HOU vs. LAC W 9 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 2 -4
+p30
+aVBryce Drew HOU 05/02/1999 HOU vs. LAC W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p31
+aVMichael Dickerson HOU 05/02/1999 HOU vs. LAC W 24 11 4 8 50.0 1 2 50.0 2 2 100.0 0 0 0 2 0 0 0 0 17
+p32
+aVStanley Roberts HOU 05/02/1999 HOU vs. LAC W 8 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 0 0 1 1 1
+p33
+aVCharles Barkley HOU 04/30/1999 HOU vs. UTA L 40 10 4 9 44.4 0 1 0.0 2 2 100.0 2 9 11 1 0 0 2 5 -18
+p34
+aVBrent Price HOU 04/30/1999 HOU vs. UTA L 22 10 4 8 50.0 2 4 50.0 0 0 - 2 1 3 3 0 0 2 4 -4
+p35
+aVStanley Roberts HOU 04/30/1999 HOU vs. UTA L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 6
+p36
+aVHakeem Olajuwon HOU 04/30/1999 HOU vs. UTA L 43 28 9 23 39.1 0 0 - 10 16 62.5 5 7 12 4 1 2 1 3 -15
+p37
+aVScottie Pippen HOU 04/30/1999 HOU vs. UTA L 41 15 5 10 50.0 2 4 50.0 3 5 60.0 0 5 5 4 3 0 3 3 -14
+p38
+aVBryce Drew HOU 04/30/1999 HOU vs. UTA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p39
+aVCuttino Mobley HOU 04/30/1999 HOU vs. UTA L 24 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 1 1 2 1 3 -7
+p40
+aVMichael Dickerson HOU 04/30/1999 HOU vs. UTA L 18 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 2 -9
+p41
+aVSam Mack HOU 04/30/1999 HOU vs. UTA L 30 8 2 4 50.0 2 4 50.0 2 2 100.0 0 2 2 1 1 0 2 3 -4
+p42
+aVAntoine Carr HOU 04/30/1999 HOU vs. UTA L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p43
+aVMatt Bullard HOU 04/30/1999 HOU vs. UTA L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 1 1
+p44
+aVAntoine Carr HOU 04/29/1999 HOU vs. DAL L 22 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 2 0 1 0 1 -9
+p45
+aVSam Mack HOU 04/29/1999 HOU vs. DAL L 24 13 6 14 42.9 1 5 20.0 0 0 - 1 1 2 2 0 0 0 4 -2
+p46
+aVCuttino Mobley HOU 04/29/1999 HOU vs. DAL L 42 11 5 13 38.5 1 4 25.0 0 0 - 1 0 1 4 0 1 0 2 1
+p47
+aVMichael Dickerson HOU 04/29/1999 HOU vs. DAL L 24 12 5 10 50.0 2 4 50.0 0 0 - 0 1 1 2 0 0 3 2 -8
+p48
+aVHakeem Olajuwon HOU 04/29/1999 HOU vs. DAL L 31 14 6 12 50.0 0 0 - 2 3 66.7 1 9 10 0 0 1 4 3 -7
+p49
+aVBryce Drew HOU 04/29/1999 HOU vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p50
+aVScottie Pippen HOU 04/29/1999 HOU vs. DAL L 47 16 7 14 50.0 2 7 28.6 0 0 - 0 7 7 6 2 0 3 2 -12
+p51
+aVMatt Bullard HOU 04/29/1999 HOU vs. DAL L 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p52
+aVBrent Price HOU 04/29/1999 HOU vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -11
+p53
+aVCharles Barkley HOU 04/29/1999 HOU vs. DAL L 41 9 2 5 40.0 0 0 - 5 8 62.5 4 12 16 4 1 1 4 4 -6
+p54
+aVStanley Roberts HOU 04/29/1999 HOU vs. DAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p55
+aVMatt Bullard HOU 04/26/1999 HOU vs. LAL W 9 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p56
+aVCharles Barkley HOU 04/26/1999 HOU vs. LAL W 39 20 7 9 77.8 0 0 - 6 7 85.7 4 12 16 6 0 0 3 1 25
+p57
+aVScottie Pippen HOU 04/26/1999 HOU vs. LAL W 45 26 8 15 53.3 5 9 55.6 5 6 83.3 1 4 5 4 6 0 4 2 23
+p58
+aVMatt Maloney HOU 04/26/1999 HOU vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 1
+p59
+aVAntoine Carr HOU 04/26/1999 HOU vs. LAL W 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 1 0 3 7
+p60
+aVCuttino Mobley HOU 04/26/1999 HOU vs. LAL W 36 15 6 16 37.5 2 9 22.2 1 2 50.0 1 3 4 3 3 0 0 2 25
+p61
+aVHakeem Olajuwon HOU 04/26/1999 HOU vs. LAL W 34 14 4 10 40.0 0 0 - 6 7 85.7 1 7 8 2 2 2 2 1 16
+p62
+aVAnthony Miller HOU 04/26/1999 HOU vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p63
+aVBrent Price HOU 04/26/1999 HOU vs. LAL W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 4 1 0 2 2 -3
+p64
+aVBryce Drew HOU 04/26/1999 HOU vs. LAL W 3 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 -1
+p65
+aVMichael Dickerson HOU 04/26/1999 HOU vs. LAL W 18 8 3 7 42.9 1 2 50.0 1 2 50.0 1 0 1 2 1 0 0 1 15
+p66
+aVSam Mack HOU 04/26/1999 HOU vs. LAL W 28 9 4 11 36.4 0 6 0.0 1 1 100.0 0 3 3 0 0 1 0 0 6
+p67
+aVCuttino Mobley HOU 04/25/1999 HOU @ PHX L 27 6 3 12 25.0 0 3 0.0 0 0 - 0 1 1 2 1 2 1 2 -5
+p68
+aVMatt Bullard HOU 04/25/1999 HOU @ PHX L 12 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 1 0 0 0 -10
+p69
+aVSam Mack HOU 04/25/1999 HOU @ PHX L 17 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 0 1 0 0 0 -13
+p70
+aVScottie Pippen HOU 04/25/1999 HOU @ PHX L 45 21 8 16 50.0 3 7 42.9 2 4 50.0 2 6 8 4 3 0 3 2 -20
+p71
+aVMichael Dickerson HOU 04/25/1999 HOU @ PHX L 31 7 3 10 30.0 1 3 33.3 0 0 - 1 0 1 2 2 0 1 2 -11
+p72
+aVCharles Barkley HOU 04/25/1999 HOU @ PHX L 37 13 4 8 50.0 0 1 0.0 5 6 83.3 2 9 11 7 2 0 2 3 -18
+p73
+aVMatt Maloney HOU 04/25/1999 HOU @ PHX L 2 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p74
+aVHakeem Olajuwon HOU 04/25/1999 HOU @ PHX L 35 16 5 9 55.6 0 0 - 6 10 60.0 2 4 6 0 0 4 3 4 -13
+p75
+aVBryce Drew HOU 04/25/1999 HOU @ PHX L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 -10
+p76
+aVAntoine Carr HOU 04/25/1999 HOU @ PHX L 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -7
+p77
+aVBrent Price HOU 04/25/1999 HOU @ PHX L 11 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 1 0 0 1 4 -13
+p78
+aVSam Mack HOU 04/23/1999 HOU @ LAC L 21 9 4 9 44.4 1 6 16.7 0 0 - 0 2 2 1 0 0 0 2 -8
+p79
+aVBryce Drew HOU 04/23/1999 HOU @ LAC L 27 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 4 1 7
+p80
+aVScottie Pippen HOU 04/23/1999 HOU @ LAC L 45 23 5 15 33.3 0 5 0.0 13 16 81.3 3 7 10 10 6 0 5 3 3
+p81
+aVAntoine Carr HOU 04/23/1999 HOU @ LAC L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 4
+p82
+aVCuttino Mobley HOU 04/23/1999 HOU @ LAC L 31 9 4 12 33.3 1 4 25.0 0 0 - 0 1 1 1 0 1 1 5 -20
+p83
+aVAnthony Miller HOU 04/23/1999 HOU @ LAC L 10 0 0 2 0.0 0 0 - 0 0 - 3 2 5 0 0 0 0 2 -6
+p84
+aVMichael Dickerson HOU 04/23/1999 HOU @ LAC L 32 11 5 11 45.5 1 4 25.0 0 0 - 0 0 0 1 0 1 1 4 1
+p85
+aVCharles Barkley HOU 04/23/1999 HOU @ LAC L 46 24 10 19 52.6 1 4 25.0 3 6 50.0 5 5 10 6 4 1 1 0 1
+p86
+aVHakeem Olajuwon HOU 04/23/1999 HOU @ LAC L 43 18 7 10 70.0 1 1 100.0 3 4 75.0 3 9 12 1 2 4 3 6 -5
+p87
+aVMatt Bullard HOU 04/23/1999 HOU @ LAC L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -2
+p88
+aVAnthony Miller HOU 04/21/1999 HOU vs. DAL L 5 4 1 2 50.0 0 0 - 2 3 66.7 1 1 2 1 0 0 0 0 8
+p89
+aVMichael Dickerson HOU 04/21/1999 HOU vs. DAL L 22 8 4 11 36.4 0 3 0.0 0 0 - 0 2 2 2 0 0 1 2 -13
+p90
+aVSam Mack HOU 04/21/1999 HOU vs. DAL L 20 7 2 7 28.6 2 7 28.6 1 2 50.0 0 0 0 3 0 0 1 2 -12
+p91
+aVHakeem Olajuwon HOU 04/21/1999 HOU vs. DAL L 40 27 9 18 50.0 0 0 - 9 11 81.8 4 7 11 2 0 3 3 1 -15
+p92
+aVBryce Drew HOU 04/21/1999 HOU vs. DAL L 24 5 2 9 22.2 1 3 33.3 0 0 - 0 3 3 4 0 1 1 2 -12
+p93
+aVMatt Bullard HOU 04/21/1999 HOU vs. DAL L 6 5 2 3 66.7 1 1 100.0 0 0 - 2 0 2 1 1 0 0 0 6
+p94
+aVScottie Pippen HOU 04/21/1999 HOU vs. DAL L 31 4 2 8 25.0 0 4 0.0 0 0 - 1 2 3 3 0 0 1 1 -16
+p95
+aVCuttino Mobley HOU 04/21/1999 HOU vs. DAL L 33 8 3 6 50.0 0 2 0.0 2 2 100.0 1 1 2 2 2 0 0 1 -11
+p96
+aVAntoine Carr HOU 04/21/1999 HOU vs. DAL L 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 3 2 4 1
+p97
+aVCharles Barkley HOU 04/21/1999 HOU vs. DAL L 36 16 7 13 53.8 0 0 - 2 4 50.0 5 9 14 3 0 0 2 1 -22
+p98
+aVBrent Price HOU 04/21/1999 HOU vs. DAL L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 8
+p99
+aVMatt Maloney HOU 04/21/1999 HOU vs. DAL L 5 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 0 8
+p100
+aVBryce Drew HOU 04/19/1999 HOU vs. SEA W 21 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 3 1 0 2 1 13
+p101
+aVMatt Bullard HOU 04/19/1999 HOU vs. SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p102
+aVCharles Barkley HOU 04/19/1999 HOU vs. SEA W 38 25 10 15 66.7 0 1 0.0 5 6 83.3 5 5 10 7 0 0 3 0 5
+p103
+aVSam Mack HOU 04/19/1999 HOU vs. SEA W 26 21 7 12 58.3 7 11 63.6 0 0 - 0 0 0 2 1 0 0 2 14
+p104
+aVMichael Dickerson HOU 04/19/1999 HOU vs. SEA W 28 10 5 8 62.5 0 3 0.0 0 0 - 0 0 0 6 1 0 2 0 5
+p105
+aVAntoine Carr HOU 04/19/1999 HOU vs. SEA W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 3
+p106
+aVScottie Pippen HOU 04/19/1999 HOU vs. SEA W 42 22 8 18 44.4 2 3 66.7 4 6 66.7 2 9 11 4 1 0 2 2 -5
+p107
+aVCuttino Mobley HOU 04/19/1999 HOU vs. SEA W 39 13 5 10 50.0 3 7 42.9 0 0 - 0 3 3 8 0 0 1 4 2
+p108
+aVHakeem Olajuwon HOU 04/19/1999 HOU vs. SEA W 38 24 9 15 60.0 0 0 - 6 6 100.0 1 8 9 1 1 3 2 3 -4
+p109
+aVAntoine Carr HOU 04/18/1999 HOU @ SAS L 12 6 3 6 50.0 0 0 - 0 0 - 3 1 4 0 0 0 0 3 -2
+p110
+aVScottie Pippen HOU 04/18/1999 HOU @ SAS L 35 6 2 5 40.0 0 1 0.0 2 2 100.0 0 5 5 7 2 0 4 3 -5
+p111
+aVCharles Barkley HOU 04/18/1999 HOU @ SAS L 41 23 7 12 58.3 2 3 66.7 7 8 87.5 2 13 15 8 3 0 3 3 11
+p112
+aVAnthony Miller HOU 04/18/1999 HOU @ SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p113
+aVMatt Bullard HOU 04/18/1999 HOU @ SAS L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p114
+aVSam Mack HOU 04/18/1999 HOU @ SAS L 19 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 -10
+p115
+aVCuttino Mobley HOU 04/18/1999 HOU @ SAS L 31 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 0 0 2 2 3
+p116
+aVMichael Dickerson HOU 04/18/1999 HOU @ SAS L 23 6 1 2 50.0 1 1 100.0 3 4 75.0 0 2 2 0 1 0 2 0 18
+p117
+aVHakeem Olajuwon HOU 04/18/1999 HOU @ SAS L 39 18 8 26 30.8 0 0 - 2 2 100.0 2 9 11 1 2 4 4 0 -12
+p118
+aVBryce Drew HOU 04/18/1999 HOU @ SAS L 30 11 5 9 55.6 1 3 33.3 0 0 - 0 0 0 0 0 0 1 1 -13
+p119
+aVMichael Dickerson HOU 04/15/1999 HOU vs. POR W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 2 5
+p120
+aVCharles Barkley HOU 04/15/1999 HOU vs. POR W 43 20 9 14 64.3 0 1 0.0 2 2 100.0 2 10 12 9 2 1 3 1 16
+p121
+aVSam Mack HOU 04/15/1999 HOU vs. POR W 30 8 2 10 20.0 2 8 25.0 2 2 100.0 1 3 4 3 1 0 0 2 13
+p122
+aVHakeem Olajuwon HOU 04/15/1999 HOU vs. POR W 43 6 1 6 16.7 0 0 - 4 6 66.7 1 5 6 3 2 2 4 2 7
+p123
+aVMatt Bullard HOU 04/15/1999 HOU vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p124
+aVCuttino Mobley HOU 04/15/1999 HOU vs. POR W 23 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 1 -3
+p125
+aVScottie Pippen HOU 04/15/1999 HOU vs. POR W 44 31 12 17 70.6 6 11 54.5 1 5 20.0 1 6 7 3 2 3 2 2 8
+p126
+aVAntoine Carr HOU 04/15/1999 HOU vs. POR W 7 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p127
+aVOthella Harrington HOU 04/15/1999 HOU vs. POR W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -7
+p128
+aVBryce Drew HOU 04/15/1999 HOU vs. POR W 26 8 3 9 33.3 2 3 66.7 0 0 - 0 1 1 2 1 0 1 3 5
+p129
+aVAntoine Carr HOU 04/14/1999 HOU vs. VAN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -2
+p130
+aVScottie Pippen HOU 04/14/1999 HOU vs. VAN W 39 7 3 7 42.9 1 2 50.0 0 1 0.0 1 4 5 5 1 0 5 1 15
+p131
+aVOthella Harrington HOU 04/14/1999 HOU vs. VAN W 24 12 5 10 50.0 0 0 - 2 3 66.7 2 5 7 0 0 1 0 1 6
+p132
+aVHakeem Olajuwon HOU 04/14/1999 HOU vs. VAN W 34 27 8 13 61.5 0 0 - 11 12 91.7 5 7 12 3 1 5 3 4 13
+p133
+aVMichael Dickerson HOU 04/14/1999 HOU vs. VAN W 20 11 5 8 62.5 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 -1
+p134
+aVAnthony Miller HOU 04/14/1999 HOU vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p135
+aVSam Mack HOU 04/14/1999 HOU vs. VAN W 28 18 7 11 63.6 4 8 50.0 0 0 - 1 3 4 4 1 0 2 2 18
+p136
+aVMatt Bullard HOU 04/14/1999 HOU vs. VAN W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p137
+aVMatt Maloney HOU 04/14/1999 HOU vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p138
+aVCuttino Mobley HOU 04/14/1999 HOU vs. VAN W 20 3 1 4 25.0 0 3 0.0 1 2 50.0 0 2 2 1 1 0 1 4 -1
+p139
+aVCharles Barkley HOU 04/14/1999 HOU vs. VAN W 33 4 1 4 25.0 0 0 - 2 2 100.0 2 5 7 9 1 0 3 2 14
+p140
+aVBryce Drew HOU 04/14/1999 HOU vs. VAN W 26 18 7 11 63.6 4 5 80.0 0 0 - 0 2 2 3 1 0 1 6 15
+p141
+aVMichael Dickerson HOU 04/12/1999 HOU @ MIN W 25 6 2 6 33.3 1 3 33.3 1 1 100.0 0 0 0 1 0 0 0 2 -2
+p142
+aVScottie Pippen HOU 04/12/1999 HOU @ MIN W 31 8 2 6 33.3 1 2 50.0 3 4 75.0 1 2 3 3 1 3 5 4 -2
+p143
+aVAntoine Carr HOU 04/12/1999 HOU @ MIN W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p144
+aVCuttino Mobley HOU 04/12/1999 HOU @ MIN W 30 14 4 6 66.7 0 2 0.0 6 6 100.0 1 1 2 4 3 1 1 0 -2
+p145
+aVCharles Barkley HOU 04/12/1999 HOU @ MIN W 37 14 3 12 25.0 0 0 - 8 12 66.7 2 9 11 7 3 0 5 2 3
+p146
+aVBryce Drew HOU 04/12/1999 HOU @ MIN W 18 7 3 8 37.5 1 5 20.0 0 0 - 1 0 1 1 0 0 1 3 7
+p147
+aVSam Mack HOU 04/12/1999 HOU @ MIN W 23 17 6 8 75.0 3 4 75.0 2 2 100.0 0 0 0 1 0 0 2 4 7
+p148
+aVHakeem Olajuwon HOU 04/12/1999 HOU @ MIN W 39 22 8 14 57.1 0 0 - 6 6 100.0 4 10 14 3 4 2 3 4 1
+p149
+aVOthella Harrington HOU 04/12/1999 HOU @ MIN W 17 2 1 3 33.3 0 0 - 0 0 - 2 5 7 1 0 2 2 1 2
+p150
+aVMatt Bullard HOU 04/12/1999 HOU @ MIN W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 2 7
+p151
+aVBryce Drew HOU 04/11/1999 HOU @ UTA L 27 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 3 0 0 2 6 2
+p152
+aVScottie Pippen HOU 04/11/1999 HOU @ UTA L 41 10 3 10 30.0 2 6 33.3 2 6 33.3 0 5 5 4 1 2 3 3 -19
+p153
+aVSam Mack HOU 04/11/1999 HOU @ UTA L 24 14 5 7 71.4 4 5 80.0 0 2 0.0 0 1 1 0 0 0 1 0 -1
+p154
+aVAntoine Carr HOU 04/11/1999 HOU @ UTA L 7 7 2 4 50.0 0 0 - 3 4 75.0 0 1 1 0 1 1 0 3 4
+p155
+aVOthella Harrington HOU 04/11/1999 HOU @ UTA L 15 1 0 5 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 -3
+p156
+aVCharles Barkley HOU 04/11/1999 HOU @ UTA L 36 6 3 7 42.9 0 0 - 0 0 - 3 8 11 3 0 0 1 5 -9
+p157
+aVMichael Dickerson HOU 04/11/1999 HOU @ UTA L 25 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 4 0 0 0 1 -5
+p158
+aVHakeem Olajuwon HOU 04/11/1999 HOU @ UTA L 39 23 9 14 64.3 0 0 - 5 7 71.4 0 12 12 1 1 3 5 3 -10
+p159
+aVMatt Bullard HOU 04/11/1999 HOU @ UTA L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 7
+p160
+aVCuttino Mobley HOU 04/11/1999 HOU @ UTA L 21 5 1 6 16.7 1 2 50.0 2 2 100.0 0 0 0 1 0 0 2 1 -11
+p161
+aVCharles Barkley HOU 04/08/1999 HOU vs. SAS L 38 11 5 12 41.7 0 1 0.0 1 4 25.0 5 6 11 1 2 0 1 3 -15
+p162
+aVOthella Harrington HOU 04/08/1999 HOU vs. SAS L 17 8 2 4 50.0 0 0 - 4 6 66.7 2 4 6 0 0 0 1 3 11
+p163
+aVCuttino Mobley HOU 04/08/1999 HOU vs. SAS L 42 12 5 12 41.7 0 2 0.0 2 4 50.0 1 3 4 3 3 1 2 4 -7
+p164
+aVHakeem Olajuwon HOU 04/08/1999 HOU vs. SAS L 41 27 10 18 55.6 0 1 0.0 7 9 77.8 1 11 12 2 3 1 4 5 -14
+p165
+aVScottie Pippen HOU 04/08/1999 HOU vs. SAS L 34 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 4 0 1 3 3 -6
+p166
+aVSam Mack HOU 04/08/1999 HOU vs. SAS L 18 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 1 0 0 0 0 -2
+p167
+aVBryce Drew HOU 04/08/1999 HOU vs. SAS L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -1
+p168
+aVMichael Dickerson HOU 04/08/1999 HOU vs. SAS L 41 15 5 9 55.6 0 1 0.0 5 7 71.4 0 2 2 0 0 0 2 2 -11
+p169
+aVBryce Drew HOU 04/06/1999 HOU vs. GSW W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 4 0 0 1 3 14
+p170
+aVBrent Price HOU 04/06/1999 HOU vs. GSW W 12 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 3 0 0 1 0 7
+p171
+aVMatt Bullard HOU 04/06/1999 HOU vs. GSW W 14 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 1 13
+p172
+aVSam Mack HOU 04/06/1999 HOU vs. GSW W 19 7 2 3 66.7 1 2 50.0 2 2 100.0 0 5 5 2 0 1 0 1 17
+p173
+aVAnthony Miller HOU 04/06/1999 HOU vs. GSW W 7 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 1 0 1 8
+p174
+aVOthella Harrington HOU 04/06/1999 HOU vs. GSW W 20 12 5 8 62.5 0 0 - 2 3 66.7 2 4 6 0 0 1 2 0 20
+p175
+aVMichael Dickerson HOU 04/06/1999 HOU vs. GSW W 28 11 4 6 66.7 1 2 50.0 2 4 50.0 0 1 1 3 0 0 1 1 21
+p176
+aVCharles Barkley HOU 04/06/1999 HOU vs. GSW W 30 14 7 10 70.0 0 1 0.0 0 2 0.0 3 5 8 5 0 1 1 1 19
+p177
+aVAntoine Carr HOU 04/06/1999 HOU vs. GSW W 10 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 0 1 1 3 10
+p178
+aVCuttino Mobley HOU 04/06/1999 HOU vs. GSW W 33 17 6 8 75.0 4 6 66.7 1 1 100.0 0 4 4 4 1 0 0 2 24
+p179
+aVHakeem Olajuwon HOU 04/06/1999 HOU vs. GSW W 29 18 9 20 45.0 0 1 0.0 0 0 - 5 6 11 0 3 6 2 3 18
+p180
+aVScottie Pippen HOU 04/06/1999 HOU vs. GSW W 27 12 5 9 55.6 2 5 40.0 0 0 - 1 2 3 5 0 0 1 2 14
+p181
+aVOthella Harrington HOU 04/04/1999 HOU @ SEA L 18 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 1 0 0 1 0 -3
+p182
+aVSam Mack HOU 04/04/1999 HOU @ SEA L 24 15 5 11 45.5 1 7 14.3 4 4 100.0 0 2 2 3 1 0 0 1 -15
+p183
+aVHakeem Olajuwon HOU 04/04/1999 HOU @ SEA L 37 18 7 15 46.7 0 0 - 4 9 44.4 2 7 9 0 0 1 5 5 -14
+p184
+aVScottie Pippen HOU 04/04/1999 HOU @ SEA L 39 9 4 11 36.4 0 4 0.0 1 2 50.0 1 1 2 7 2 0 4 3 -11
+p185
+aVMichael Dickerson HOU 04/04/1999 HOU @ SEA L 24 2 1 9 11.1 0 5 0.0 0 0 - 2 3 5 3 0 0 2 2 -2
+p186
+aVCharles Barkley HOU 04/04/1999 HOU @ SEA L 40 9 4 9 44.4 0 0 - 1 1 100.0 4 15 19 3 0 0 0 4 -17
+p187
+aVBrent Price HOU 04/04/1999 HOU @ SEA L 22 12 5 9 55.6 2 4 50.0 0 0 - 2 0 2 2 2 0 2 4 -17
+p188
+aVCuttino Mobley HOU 04/04/1999 HOU @ SEA L 35 13 3 10 30.0 2 7 28.6 5 6 83.3 0 2 2 3 1 0 0 1 -6
+p189
+aVBrent Price HOU 04/01/1999 HOU @ UTA L 22 13 5 6 83.3 3 4 75.0 0 0 - 0 1 1 1 2 0 1 2 -7
+p190
+aVMatt Bullard HOU 04/01/1999 HOU @ UTA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p191
+aVSam Mack HOU 04/01/1999 HOU @ UTA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p192
+aVScottie Pippen HOU 04/01/1999 HOU @ UTA L 43 10 3 6 50.0 0 2 0.0 4 4 100.0 1 7 8 7 2 2 5 1 -4
+p193
+aVMichael Dickerson HOU 04/01/1999 HOU @ UTA L 43 12 5 10 50.0 2 4 50.0 0 1 0.0 0 1 1 0 0 2 2 5 1
+p194
+aVCuttino Mobley HOU 04/01/1999 HOU @ UTA L 26 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 6
+p195
+aVHakeem Olajuwon HOU 04/01/1999 HOU @ UTA L 38 32 12 25 48.0 0 1 0.0 8 8 100.0 1 7 8 3 4 3 2 2 1
+p196
+aVOthella Harrington HOU 04/01/1999 HOU @ UTA L 22 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 0 1 2 4 12
+p197
+aVCharles Barkley HOU 04/01/1999 HOU @ UTA L 36 9 2 11 18.2 0 0 - 5 6 83.3 4 7 11 1 0 0 2 1 -15
+p198
+aVOthella Harrington HOU 03/30/1999 HOU @ LAC W 25 17 6 9 66.7 0 0 - 5 5 100.0 3 3 6 0 0 1 4 3 5
+p199
+aVBrent Price HOU 03/30/1999 HOU @ LAC W 30 19 6 10 60.0 4 7 57.1 3 5 60.0 1 1 2 2 2 0 1 2 10
+p200
+aVCharles Barkley HOU 03/30/1999 HOU @ LAC W 37 12 3 5 60.0 0 0 - 6 8 75.0 2 12 14 6 2 1 2 2 18
+p201
+aVMatt Bullard HOU 03/30/1999 HOU @ LAC W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 1
+p202
+aVMichael Dickerson HOU 03/30/1999 HOU @ LAC W 43 19 9 15 60.0 1 4 25.0 0 2 0.0 0 0 0 1 0 0 2 1 10
+p203
+aVHakeem Olajuwon HOU 03/30/1999 HOU @ LAC W 34 13 6 12 50.0 0 1 0.0 1 4 25.0 3 5 8 3 2 2 1 4 -5
+p204
+aVCuttino Mobley HOU 03/30/1999 HOU @ LAC W 23 12 4 8 50.0 2 4 50.0 2 3 66.7 1 1 2 0 2 0 3 1 -2
+p205
+aVScottie Pippen HOU 03/30/1999 HOU @ LAC W 41 12 3 7 42.9 0 1 0.0 6 6 100.0 1 3 4 5 3 0 3 0 8
+p206
+aVMatt Bullard HOU 03/28/1999 HOU @ SAC W 14 8 3 4 75.0 2 2 100.0 0 0 - 0 3 3 0 1 0 0 2 3
+p207
+aVHakeem Olajuwon HOU 03/28/1999 HOU @ SAC W 33 24 11 23 47.8 1 1 100.0 1 1 100.0 2 7 9 2 2 4 2 2 21
+p208
+aVBrent Price HOU 03/28/1999 HOU @ SAC W 23 6 2 7 28.6 1 4 25.0 1 3 33.3 0 1 1 6 0 0 0 1 2
+p209
+aVCharles Barkley HOU 03/28/1999 HOU @ SAC W 25 15 6 14 42.9 0 0 - 3 6 50.0 6 5 11 5 1 0 1 0 -10
+p210
+aVCuttino Mobley HOU 03/28/1999 HOU @ SAC W 45 14 5 9 55.6 2 2 100.0 2 2 100.0 0 2 2 3 2 0 1 2 14
+p211
+aVOthella Harrington HOU 03/28/1999 HOU @ SAC W 17 13 5 6 83.3 0 0 - 3 3 100.0 0 7 7 1 0 1 2 4 14
+p212
+aVAnthony Miller HOU 03/28/1999 HOU @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p213
+aVMichael Dickerson HOU 03/28/1999 HOU @ SAC W 39 10 4 8 50.0 1 2 50.0 1 2 50.0 0 3 3 2 0 0 0 5 10
+p214
+aVScottie Pippen HOU 03/28/1999 HOU @ SAC W 44 17 6 15 40.0 1 3 33.3 4 4 100.0 0 4 4 5 3 1 2 3 18
+p215
+aVHakeem Olajuwon HOU 03/27/1999 HOU @ GSW W 33 20 8 14 57.1 0 0 - 4 4 100.0 0 3 3 2 1 1 3 5 -4
+p216
+aVOthella Harrington HOU 03/27/1999 HOU @ GSW W 18 3 0 3 0.0 0 0 - 3 8 37.5 2 1 3 0 0 0 0 3 3
+p217
+aVBrent Price HOU 03/27/1999 HOU @ GSW W 24 4 1 1 100.0 1 1 100.0 1 2 50.0 0 4 4 2 1 0 2 2 3
+p218
+aVAntoine Carr HOU 03/27/1999 HOU @ GSW W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 0
+p219
+aVCharles Barkley HOU 03/27/1999 HOU @ GSW W 36 24 8 17 47.1 0 2 0.0 8 12 66.7 3 8 11 3 2 0 1 2 -4
+p220
+aVScottie Pippen HOU 03/27/1999 HOU @ GSW W 46 16 6 14 42.9 3 5 60.0 1 2 50.0 1 4 5 9 2 3 1 2 9
+p221
+aVMichael Dickerson HOU 03/27/1999 HOU @ GSW W 43 16 7 13 53.8 2 3 66.7 0 0 - 2 3 5 0 0 0 2 2 7
+p222
+aVAnthony Miller HOU 03/27/1999 HOU @ GSW W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 7
+p223
+aVMatt Bullard HOU 03/27/1999 HOU @ GSW W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -14
+p224
+aVCuttino Mobley HOU 03/27/1999 HOU @ GSW W 24 4 1 5 20.0 0 1 0.0 2 2 100.0 2 3 5 1 0 0 1 2 -2
+p225
+aVCuttino Mobley HOU 03/25/1999 HOU vs. TOR W 39 26 8 12 66.7 7 9 77.8 3 4 75.0 0 2 2 3 1 1 2 2 12
+p226
+aVOthella Harrington HOU 03/25/1999 HOU vs. TOR W 31 10 4 7 57.1 0 0 - 2 3 66.7 3 5 8 0 1 1 1 1 -7
+p227
+aVHakeem Olajuwon HOU 03/25/1999 HOU vs. TOR W 25 12 5 9 55.6 0 1 0.0 2 2 100.0 0 4 4 1 1 4 0 2 6
+p228
+aVCharles Barkley HOU 03/25/1999 HOU vs. TOR W 40 16 6 11 54.5 0 0 - 4 7 57.1 5 9 14 9 0 0 4 1 19
+p229
+aVBrent Price HOU 03/25/1999 HOU vs. TOR W 15 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 1 5
+p230
+aVScottie Pippen HOU 03/25/1999 HOU vs. TOR W 42 16 7 15 46.7 2 8 25.0 0 0 - 1 3 4 11 2 1 5 3 1
+p231
+aVMichael Dickerson HOU 03/25/1999 HOU vs. TOR W 48 28 10 15 66.7 7 9 77.8 1 2 50.0 1 1 2 5 3 1 1 1 9
+p232
+aVScottie Pippen HOU 03/24/1999 HOU @ DAL W 40 11 4 8 50.0 1 2 50.0 2 2 100.0 0 7 7 5 1 1 5 3 14
+p233
+aVCharles Barkley HOU 03/24/1999 HOU @ DAL W 34 16 6 18 33.3 0 3 0.0 4 6 66.7 2 10 12 5 1 1 1 1 5
+p234
+aVMichael Dickerson HOU 03/24/1999 HOU @ DAL W 33 8 4 9 44.4 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 15
+p235
+aVOthella Harrington HOU 03/24/1999 HOU @ DAL W 26 5 1 2 50.0 0 0 - 3 4 75.0 0 7 7 0 0 1 4 1 7
+p236
+aVBryce Drew HOU 03/24/1999 HOU @ DAL W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p237
+aVSam Mack HOU 03/24/1999 HOU @ DAL W 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p238
+aVCuttino Mobley HOU 03/24/1999 HOU @ DAL W 36 16 7 11 63.6 0 4 0.0 2 2 100.0 2 3 5 2 0 2 2 2 11
+p239
+aVHakeem Olajuwon HOU 03/24/1999 HOU @ DAL W 36 24 10 16 62.5 0 0 - 4 4 100.0 0 7 7 1 4 0 1 4 8
+p240
+aVBrent Price HOU 03/24/1999 HOU @ DAL W 20 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 -6
+p241
+aVBrent Price HOU 03/22/1999 HOU vs. SAC W 17 6 2 2 100.0 1 1 100.0 1 2 50.0 1 1 2 2 2 0 2 5 -4
+p242
+aVBryce Drew HOU 03/22/1999 HOU vs. SAC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p243
+aVCuttino Mobley HOU 03/22/1999 HOU vs. SAC W 31 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 6 1 0 4 3 14
+p244
+aVHakeem Olajuwon HOU 03/22/1999 HOU vs. SAC W 37 32 14 20 70.0 0 0 - 4 7 57.1 2 10 12 3 2 0 9 3 9
+p245
+aVSam Mack HOU 03/22/1999 HOU vs. SAC W 10 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 2 9
+p246
+aVOthella Harrington HOU 03/22/1999 HOU vs. SAC W 23 5 2 7 28.6 0 0 - 1 1 100.0 5 6 11 0 0 1 0 2 -3
+p247
+aVScottie Pippen HOU 03/22/1999 HOU vs. SAC W 42 25 10 16 62.5 1 6 16.7 4 6 66.7 2 6 8 8 1 1 1 2 6
+p248
+aVCharles Barkley HOU 03/22/1999 HOU vs. SAC W 36 19 5 10 50.0 0 0 - 9 12 75.0 5 11 16 6 0 1 6 4 14
+p249
+aVMichael Dickerson HOU 03/22/1999 HOU vs. SAC W 43 23 9 20 45.0 2 6 33.3 3 3 100.0 1 2 3 5 3 2 1 1 9
+p250
+aVOthella Harrington HOU 03/20/1999 HOU vs. PHX W 25 9 3 8 37.5 0 0 - 3 5 60.0 1 3 4 1 0 0 0 2 2
+p251
+aVMichael Dickerson HOU 03/20/1999 HOU vs. PHX W 27 7 2 7 28.6 2 5 40.0 1 4 25.0 1 2 3 2 0 0 3 1 -17
+p252
+aVHakeem Olajuwon HOU 03/20/1999 HOU vs. PHX W 38 16 6 16 37.5 1 1 100.0 3 6 50.0 2 8 10 1 1 2 2 5 -5
+p253
+aVScottie Pippen HOU 03/20/1999 HOU vs. PHX W 45 14 5 14 35.7 3 7 42.9 1 2 50.0 2 3 5 4 1 1 2 1 -1
+p254
+aVCuttino Mobley HOU 03/20/1999 HOU vs. PHX W 19 6 3 6 50.0 0 1 0.0 0 0 - 2 1 3 0 0 0 1 0 -8
+p255
+aVBrent Price HOU 03/20/1999 HOU vs. PHX W 34 4 1 7 14.3 0 5 0.0 2 2 100.0 1 3 4 2 0 0 3 2 18
+p256
+aVCharles Barkley HOU 03/20/1999 HOU vs. PHX W 43 35 13 21 61.9 0 0 - 9 12 75.0 5 13 18 2 0 0 1 5 23
+p257
+aVSam Mack HOU 03/20/1999 HOU vs. PHX W 26 10 3 7 42.9 3 6 50.0 1 1 100.0 0 3 3 2 1 0 0 1 27
+p258
+aVMatt Bullard HOU 03/20/1999 HOU vs. PHX W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 11
+p259
+aVScottie Pippen HOU 03/17/1999 HOU @ DEN W 38 12 4 12 33.3 0 3 0.0 4 4 100.0 2 4 6 10 2 0 0 2 0
+p260
+aVBrent Price HOU 03/17/1999 HOU @ DEN W 23 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 3 0 0 2 3 -4
+p261
+aVSam Mack HOU 03/17/1999 HOU @ DEN W 15 8 2 3 66.7 1 2 50.0 3 5 60.0 0 1 1 1 3 1 0 0 3
+p262
+aVHakeem Olajuwon HOU 03/17/1999 HOU @ DEN W 28 26 10 16 62.5 0 0 - 6 7 85.7 4 5 9 1 3 1 0 4 -9
+p263
+aVAnthony Miller HOU 03/17/1999 HOU @ DEN W 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 9
+p264
+aVBryce Drew HOU 03/17/1999 HOU @ DEN W 10 0 0 0 - 0 0 - 0 0 - 0 3 3 3 0 0 0 2 5
+p265
+aVOthella Harrington HOU 03/17/1999 HOU @ DEN W 22 23 10 17 58.8 0 0 - 3 3 100.0 2 2 4 1 0 0 2 3 7
+p266
+aVMichael Dickerson HOU 03/17/1999 HOU @ DEN W 33 14 4 8 50.0 2 4 50.0 4 6 66.7 2 1 3 2 0 0 1 2 2
+p267
+aVCharles Barkley HOU 03/17/1999 HOU @ DEN W 33 15 6 17 35.3 0 0 - 3 4 75.0 4 7 11 4 0 1 2 4 3
+p268
+aVCuttino Mobley HOU 03/17/1999 HOU @ DEN W 25 9 3 7 42.9 1 3 33.3 2 2 100.0 0 2 2 1 0 1 1 0 9
+p269
+aVOthella Harrington HOU 03/16/1999 HOU vs. POR W 19 10 4 14 28.6 0 0 - 2 4 50.0 3 4 7 0 0 0 2 3 2
+p270
+aVMichael Dickerson HOU 03/16/1999 HOU vs. POR W 23 8 3 3 100.0 1 1 100.0 1 1 100.0 0 3 3 1 1 1 1 4 9
+p271
+aVSam Mack HOU 03/16/1999 HOU vs. POR W 24 17 5 11 45.5 3 7 42.9 4 4 100.0 1 1 2 0 2 0 1 5 0
+p272
+aVMatt Bullard HOU 03/16/1999 HOU vs. POR W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p273
+aVCuttino Mobley HOU 03/16/1999 HOU vs. POR W 36 7 1 5 20.0 0 3 0.0 5 9 55.6 1 3 4 2 1 0 4 4 7
+p274
+aVCharles Barkley HOU 03/16/1999 HOU vs. POR W 37 15 2 9 22.2 0 0 - 11 13 84.6 1 8 9 7 1 0 2 4 1
+p275
+aVScottie Pippen HOU 03/16/1999 HOU vs. POR W 44 18 6 11 54.5 2 4 50.0 4 4 100.0 2 6 8 9 3 0 4 2 11
+p276
+aVBrent Price HOU 03/16/1999 HOU vs. POR W 15 5 2 4 50.0 0 1 0.0 1 2 50.0 0 0 0 2 1 0 1 2 -1
+p277
+aVHakeem Olajuwon HOU 03/16/1999 HOU vs. POR W 39 21 9 18 50.0 0 0 - 3 3 100.0 2 4 6 2 5 4 1 4 14
+p278
+aVBrent Price HOU 03/14/1999 HOU @ PHX L 20 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 2 0 0 2 1 7
+p279
+aVMatt Bullard HOU 03/14/1999 HOU @ PHX L 15 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 0 0 1 0 2 5
+p280
+aVCuttino Mobley HOU 03/14/1999 HOU @ PHX L 30 9 3 8 37.5 2 5 40.0 1 2 50.0 1 1 2 3 1 1 0 3 -20
+p281
+aVHakeem Olajuwon HOU 03/14/1999 HOU @ PHX L 36 17 5 14 35.7 0 0 - 7 10 70.0 1 12 13 0 1 1 6 5 -20
+p282
+aVOthella Harrington HOU 03/14/1999 HOU @ PHX L 19 10 5 8 62.5 0 0 - 0 1 0.0 1 3 4 0 1 1 1 3 2
+p283
+aVMichael Dickerson HOU 03/14/1999 HOU @ PHX L 25 3 1 8 12.5 1 4 25.0 0 0 - 0 0 0 2 0 0 1 4 -14
+p284
+aVScottie Pippen HOU 03/14/1999 HOU @ PHX L 35 4 2 5 40.0 0 2 0.0 0 0 - 1 3 4 4 0 3 2 2 -20
+p285
+aVCharles Barkley HOU 03/14/1999 HOU @ PHX L 40 21 8 21 38.1 0 1 0.0 5 6 83.3 4 8 12 6 3 1 0 0 -10
+p286
+aVSam Mack HOU 03/14/1999 HOU @ PHX L 18 12 4 6 66.7 3 3 100.0 1 1 100.0 0 1 1 0 0 0 1 2 0
+p287
+aVMatt Bullard HOU 03/13/1999 HOU vs. CLE W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p288
+aVMichael Dickerson HOU 03/13/1999 HOU vs. CLE W 31 9 3 7 42.9 2 6 33.3 1 1 100.0 1 0 1 3 1 0 2 2 4
+p289
+aVHakeem Olajuwon HOU 03/13/1999 HOU vs. CLE W 40 24 11 19 57.9 0 2 0.0 2 2 100.0 2 5 7 0 3 3 2 5 8
+p290
+aVCharles Barkley HOU 03/13/1999 HOU vs. CLE W 35 15 6 9 66.7 0 0 - 3 4 75.0 4 6 10 6 0 0 4 0 5
+p291
+aVBrent Price HOU 03/13/1999 HOU vs. CLE W 33 17 5 9 55.6 3 6 50.0 4 5 80.0 0 1 1 6 2 0 3 2 10
+p292
+aVScottie Pippen HOU 03/13/1999 HOU vs. CLE W 43 16 4 11 36.4 3 6 50.0 5 7 71.4 1 7 8 10 0 1 4 2 10
+p293
+aVCuttino Mobley HOU 03/13/1999 HOU vs. CLE W 32 7 3 7 42.9 0 2 0.0 1 1 100.0 1 4 5 3 2 2 1 3 8
+p294
+aVOthella Harrington HOU 03/13/1999 HOU vs. CLE W 21 12 6 7 85.7 0 0 - 0 0 - 0 6 6 1 0 1 3 1 9
+p295
+aVCharles Barkley HOU 03/11/1999 HOU vs. VAN W 37 24 6 11 54.5 0 0 - 12 13 92.3 8 8 16 4 0 0 1 2 12
+p296
+aVScottie Pippen HOU 03/11/1999 HOU vs. VAN W 41 6 2 12 16.7 1 6 16.7 1 2 50.0 1 8 9 2 2 1 4 3 6
+p297
+aVHakeem Olajuwon HOU 03/11/1999 HOU vs. VAN W 40 31 12 19 63.2 0 0 - 7 11 63.6 5 6 11 3 1 1 1 4 17
+p298
+aVMatt Bullard HOU 03/11/1999 HOU vs. VAN W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p299
+aVAnthony Miller HOU 03/11/1999 HOU vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p300
+aVCuttino Mobley HOU 03/11/1999 HOU vs. VAN W 37 17 7 17 41.2 1 4 25.0 2 2 100.0 0 2 2 8 0 0 3 3 17
+p301
+aVOthella Harrington HOU 03/11/1999 HOU vs. VAN W 18 8 2 7 28.6 0 0 - 4 4 100.0 2 4 6 1 0 1 1 4 -6
+p302
+aVMichael Dickerson HOU 03/11/1999 HOU vs. VAN W 32 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 1 8
+p303
+aVBrent Price HOU 03/11/1999 HOU vs. VAN W 29 10 3 7 42.9 1 5 20.0 3 4 75.0 0 3 3 4 3 0 1 3 1
+p304
+aVBrent Price HOU 03/09/1999 HOU vs. DEN W 20 7 2 3 66.7 0 1 0.0 3 5 60.0 0 1 1 2 2 0 2 2 -9
+p305
+aVMatt Bullard HOU 03/09/1999 HOU vs. DEN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -1
+p306
+aVMichael Dickerson HOU 03/09/1999 HOU vs. DEN W 32 12 5 11 45.5 1 5 20.0 1 2 50.0 1 1 2 0 1 0 5 2 18
+p307
+aVHakeem Olajuwon HOU 03/09/1999 HOU vs. DEN W 36 20 8 18 44.4 0 1 0.0 4 5 80.0 0 6 6 2 2 4 2 4 23
+p308
+aVOthella Harrington HOU 03/09/1999 HOU vs. DEN W 27 9 3 4 75.0 0 0 - 3 4 75.0 1 5 6 0 0 1 2 5 1
+p309
+aVAnthony Miller HOU 03/09/1999 HOU vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p310
+aVCuttino Mobley HOU 03/09/1999 HOU vs. DEN W 44 12 5 9 55.6 1 3 33.3 1 2 50.0 0 3 3 7 2 2 5 1 9
+p311
+aVScottie Pippen HOU 03/09/1999 HOU vs. DEN W 42 17 7 13 53.8 2 4 50.0 1 1 100.0 2 3 5 7 2 0 2 4 10
+p312
+aVCharles Barkley HOU 03/09/1999 HOU vs. DEN W 31 7 3 7 42.9 0 0 - 1 2 50.0 3 10 13 5 2 0 1 5 -2
+p313
+aVBrent Price HOU 03/07/1999 HOU @ POR L 15 6 2 6 33.3 2 5 40.0 0 0 - 2 2 4 1 0 0 1 2 -14
+p314
+aVCuttino Mobley HOU 03/07/1999 HOU @ POR L 24 8 3 7 42.9 0 2 0.0 2 2 100.0 0 0 0 3 1 1 2 3 -13
+p315
+aVAnthony Miller HOU 03/07/1999 HOU @ POR L 12 8 2 6 33.3 0 0 - 4 4 100.0 4 2 6 0 0 1 1 1 -17
+p316
+aVMichael Dickerson HOU 03/07/1999 HOU @ POR L 26 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 2 -12
+p317
+aVRodrick Rhodes HOU 03/07/1999 HOU @ POR L 26 7 1 7 14.3 0 0 - 5 6 83.3 1 1 2 0 1 0 3 5 -30
+p318
+aVCharles Barkley HOU 03/07/1999 HOU @ POR L 33 10 4 12 33.3 0 0 - 2 4 50.0 5 3 8 1 1 0 3 2 -27
+p319
+aVScottie Pippen HOU 03/07/1999 HOU @ POR L 35 10 3 11 27.3 2 7 28.6 2 2 100.0 1 6 7 4 1 0 4 3 -25
+p320
+aVHakeem Olajuwon HOU 03/07/1999 HOU @ POR L 30 16 6 10 60.0 0 0 - 4 4 100.0 0 2 2 3 2 2 1 3 -11
+p321
+aVMatt Maloney HOU 03/07/1999 HOU @ POR L 9 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 1 0 -13
+p322
+aVOthella Harrington HOU 03/07/1999 HOU @ POR L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -12
+p323
+aVMatt Bullard HOU 03/07/1999 HOU @ POR L 9 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -13
+p324
+aVBryce Drew HOU 03/07/1999 HOU @ POR L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -13
+p325
+aVMichael Dickerson HOU 03/06/1999 HOU @ VAN W 38 26 9 12 75.0 5 6 83.3 3 6 50.0 0 1 1 3 1 0 1 3 19
+p326
+aVOthella Harrington HOU 03/06/1999 HOU @ VAN W 16 8 3 7 42.9 0 0 - 2 4 50.0 2 4 6 1 0 1 0 1 -7
+p327
+aVCuttino Mobley HOU 03/06/1999 HOU @ VAN W 39 10 3 6 50.0 1 2 50.0 3 3 100.0 1 3 4 2 2 0 5 3 11
+p328
+aVHakeem Olajuwon HOU 03/06/1999 HOU @ VAN W 31 8 3 5 60.0 0 0 - 2 4 50.0 1 9 10 2 0 3 4 2 18
+p329
+aVCharles Barkley HOU 03/06/1999 HOU @ VAN W 36 15 4 6 66.7 0 0 - 7 10 70.0 2 8 10 7 2 0 6 2 21
+p330
+aVMatt Bullard HOU 03/06/1999 HOU @ VAN W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p331
+aVBrent Price HOU 03/06/1999 HOU @ VAN W 24 19 5 7 71.4 2 4 50.0 7 8 87.5 0 1 1 4 1 0 4 4 8
+p332
+aVScottie Pippen HOU 03/06/1999 HOU @ VAN W 38 17 6 13 46.2 0 2 0.0 5 8 62.5 2 5 7 7 2 1 2 3 14
+p333
+aVAnthony Miller HOU 03/06/1999 HOU @ VAN W 13 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 -2
+p334
+aVMichael Dickerson HOU 03/04/1999 HOU vs. LAC W 39 20 8 15 53.3 4 7 57.1 0 0 - 1 1 2 4 0 0 0 1 23
+p335
+aVMatt Maloney HOU 03/04/1999 HOU vs. LAC W 16 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 2 0 0 0 0 -4
+p336
+aVHakeem Olajuwon HOU 03/04/1999 HOU vs. LAC W 31 17 7 14 50.0 0 0 - 3 4 75.0 3 6 9 2 1 3 2 0 11
+p337
+aVMatt Bullard HOU 03/04/1999 HOU vs. LAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -2
+p338
+aVCharles Barkley HOU 03/04/1999 HOU vs. LAC W 39 21 6 11 54.5 0 0 - 9 12 75.0 3 9 12 1 6 1 6 1 26
+p339
+aVCuttino Mobley HOU 03/04/1999 HOU vs. LAC W 29 13 4 7 57.1 1 4 25.0 4 5 80.0 0 2 2 3 2 0 3 1 19
+p340
+aVOthella Harrington HOU 03/04/1999 HOU vs. LAC W 21 10 4 8 50.0 0 0 - 2 3 66.7 2 4 6 0 2 0 2 4 0
+p341
+aVBrent Price HOU 03/04/1999 HOU vs. LAC W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 3 1 0 2 1 1
+p342
+aVBryce Drew HOU 03/04/1999 HOU vs. LAC W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p343
+aVRodrick Rhodes HOU 03/04/1999 HOU vs. LAC W 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 1
+p344
+aVAnthony Miller HOU 03/04/1999 HOU vs. LAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p345
+aVScottie Pippen HOU 03/04/1999 HOU vs. LAC W 41 6 2 6 33.3 1 2 50.0 1 2 50.0 1 6 7 9 1 0 2 1 17
+p346
+aVMatt Bullard HOU 03/02/1999 HOU vs. SAS L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -4
+p347
+aVBrent Price HOU 03/02/1999 HOU vs. SAS L 25 6 2 5 40.0 0 1 0.0 2 2 100.0 1 3 4 1 0 0 4 3 -6
+p348
+aVAnthony Miller HOU 03/02/1999 HOU vs. SAS L 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 2 1 1 4 1
+p349
+aVCharles Barkley HOU 03/02/1999 HOU vs. SAS L 29 16 5 9 55.6 0 0 - 6 7 85.7 2 4 6 1 0 1 0 4 -5
+p350
+aVBryce Drew HOU 03/02/1999 HOU vs. SAS L 18 2 0 4 0.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 0 1 -11
+p351
+aVOthella Harrington HOU 03/02/1999 HOU vs. SAS L 19 3 1 6 16.7 0 0 - 1 2 50.0 1 3 4 0 0 1 0 3 -12
+p352
+aVRodrick Rhodes HOU 03/02/1999 HOU vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p353
+aVHakeem Olajuwon HOU 03/02/1999 HOU vs. SAS L 33 12 6 19 31.6 0 0 - 0 1 0.0 1 10 11 1 2 4 2 2 -18
+p354
+aVCuttino Mobley HOU 03/02/1999 HOU vs. SAS L 20 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 2 2 0 3 1 -9
+p355
+aVMichael Dickerson HOU 03/02/1999 HOU vs. SAS L 33 9 4 8 50.0 1 2 50.0 0 0 - 1 0 1 0 1 1 2 0 -8
+p356
+aVScottie Pippen HOU 03/02/1999 HOU vs. SAS L 36 21 7 14 50.0 1 1 100.0 6 6 100.0 2 6 8 5 0 0 6 2 -11
+p357
+aVScottie Pippen HOU 02/28/1999 HOU @ LAL L 41 16 6 18 33.3 0 4 0.0 4 4 100.0 1 5 6 8 5 0 5 2 -15
+p358
+aVCuttino Mobley HOU 02/28/1999 HOU @ LAL L 19 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -14
+p359
+aVMichael Dickerson HOU 02/28/1999 HOU @ LAL L 29 6 2 5 40.0 2 3 66.7 0 0 - 1 1 2 1 0 0 1 1 -2
+p360
+aVBryce Drew HOU 02/28/1999 HOU @ LAL L 11 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -8
+p361
+aVOthella Harrington HOU 02/28/1999 HOU @ LAL L 25 12 6 8 75.0 0 0 - 0 0 - 2 8 10 0 0 0 2 4 -2
+p362
+aVBrent Price HOU 02/28/1999 HOU @ LAL L 36 12 4 8 50.0 0 2 0.0 4 4 100.0 0 0 0 6 1 0 1 1 -10
+p363
+aVAnthony Miller HOU 02/28/1999 HOU @ LAL L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 2
+p364
+aVHakeem Olajuwon HOU 02/28/1999 HOU @ LAL L 29 22 11 17 64.7 0 0 - 0 2 0.0 2 6 8 2 0 0 2 6 -2
+p365
+aVMatt Maloney HOU 02/28/1999 HOU @ LAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p366
+aVCharles Barkley HOU 02/28/1999 HOU @ LAL L 19 14 5 13 38.5 0 1 0.0 4 6 66.7 3 3 6 0 0 0 1 1 -16
+p367
+aVMatt Bullard HOU 02/28/1999 HOU @ LAL L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -1
+p368
+aVAntoine Carr HOU 02/28/1999 HOU @ LAL L 12 3 1 5 20.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 3 -14
+p369
+aVBryce Drew HOU 02/27/1999 HOU @ VAN W 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 1 1 1 5 -1
+p370
+aVAnthony Miller HOU 02/27/1999 HOU @ VAN W 16 9 4 6 66.7 0 0 - 1 1 100.0 2 3 5 0 0 0 1 3 1
+p371
+aVMatt Bullard HOU 02/27/1999 HOU @ VAN W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 1 1 2 -1
+p372
+aVHakeem Olajuwon HOU 02/27/1999 HOU @ VAN W 33 18 8 16 50.0 0 0 - 2 4 50.0 1 8 9 0 1 5 3 4 9
+p373
+aVMichael Dickerson HOU 02/27/1999 HOU @ VAN W 19 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 1 1 0 1 0 19
+p374
+aVBrent Price HOU 02/27/1999 HOU @ VAN W 29 6 2 5 40.0 2 4 50.0 0 0 - 0 4 4 4 2 0 2 2 13
+p375
+aVCuttino Mobley HOU 02/27/1999 HOU @ VAN W 29 11 4 8 50.0 1 1 100.0 2 2 100.0 0 4 4 1 1 1 3 0 -7
+p376
+aVScottie Pippen HOU 02/27/1999 HOU @ VAN W 44 18 7 17 41.2 2 6 33.3 2 2 100.0 1 7 8 5 7 1 3 0 12
+p377
+aVOthella Harrington HOU 02/27/1999 HOU @ VAN W 35 12 5 12 41.7 0 0 - 2 2 100.0 2 8 10 2 0 2 4 2 15
+p378
+aVCuttino Mobley HOU 02/25/1999 HOU vs. ATL L 30 13 5 11 45.5 3 7 42.9 0 0 - 0 2 2 3 0 0 4 2 -18
+p379
+aVOthella Harrington HOU 02/25/1999 HOU vs. ATL L 30 12 5 9 55.6 0 0 - 2 4 50.0 2 2 4 0 0 0 1 2 -5
+p380
+aVScottie Pippen HOU 02/25/1999 HOU vs. ATL L 46 15 6 14 42.9 2 5 40.0 1 4 25.0 1 9 10 11 1 0 4 3 -2
+p381
+aVAnthony Miller HOU 02/25/1999 HOU vs. ATL L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 0
+p382
+aVHakeem Olajuwon HOU 02/25/1999 HOU vs. ATL L 40 16 7 14 50.0 1 1 100.0 1 2 50.0 3 13 16 2 1 3 3 3 -1
+p383
+aVMichael Dickerson HOU 02/25/1999 HOU vs. ATL L 44 14 6 12 50.0 2 3 66.7 0 0 - 0 3 3 3 0 0 1 2 5
+p384
+aVBrent Price HOU 02/25/1999 HOU vs. ATL L 22 5 2 4 50.0 1 3 33.3 0 1 0.0 0 2 2 4 0 0 2 3 2
+p385
+aVMatt Bullard HOU 02/25/1999 HOU vs. ATL L 23 10 4 6 66.7 2 4 50.0 0 0 - 0 0 0 1 0 1 1 1 -11
+p386
+aVMichael Dickerson HOU 02/23/1999 HOU vs. SEA W 31 9 3 8 37.5 0 2 0.0 3 5 60.0 0 0 0 1 0 0 5 0 1
+p387
+aVHakeem Olajuwon HOU 02/23/1999 HOU vs. SEA W 43 19 8 13 61.5 0 0 - 3 7 42.9 4 6 10 1 3 2 4 2 4
+p388
+aVBryce Drew HOU 02/23/1999 HOU vs. SEA W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p389
+aVScottie Pippen HOU 02/23/1999 HOU vs. SEA W 44 19 7 14 50.0 3 7 42.9 2 3 66.7 1 9 10 5 3 1 4 0 13
+p390
+aVAnthony Miller HOU 02/23/1999 HOU vs. SEA W 12 2 1 4 25.0 0 1 0.0 0 0 - 3 2 5 0 1 0 2 3 6
+p391
+aVBrent Price HOU 02/23/1999 HOU vs. SEA W 26 10 2 5 40.0 1 2 50.0 5 6 83.3 1 2 3 6 1 0 2 3 17
+p392
+aVOthella Harrington HOU 02/23/1999 HOU vs. SEA W 31 17 7 10 70.0 0 0 - 3 4 75.0 3 4 7 0 0 4 3 5 11
+p393
+aVMatt Bullard HOU 02/23/1999 HOU vs. SEA W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 1 0 0 0 -1
+p394
+aVCuttino Mobley HOU 02/23/1999 HOU vs. SEA W 39 19 5 13 38.5 1 3 33.3 8 8 100.0 0 6 6 5 0 0 3 3 12
+p395
+aVMatt Maloney HOU 02/21/1999 HOU @ ORL L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p396
+aVBryce Drew HOU 02/21/1999 HOU @ ORL L 12 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 0 1 1 4 -7
+p397
+aVEddie Johnson HOU 02/21/1999 HOU @ ORL L 5 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p398
+aVMichael Dickerson HOU 02/21/1999 HOU @ ORL L 26 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 1 1 0 3 3 -20
+p399
+aVBrent Price HOU 02/21/1999 HOU @ ORL L 17 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 5 2 -1
+p400
+aVOthella Harrington HOU 02/21/1999 HOU @ ORL L 32 12 6 10 60.0 0 0 - 0 0 - 0 4 4 3 0 0 3 0 -20
+p401
+aVScottie Pippen HOU 02/21/1999 HOU @ ORL L 37 19 8 16 50.0 2 4 50.0 1 2 50.0 3 2 5 5 1 2 6 4 -19
+p402
+aVMatt Bullard HOU 02/21/1999 HOU @ ORL L 24 0 0 7 0.0 0 4 0.0 0 0 - 1 3 4 1 0 0 0 3 -13
+p403
+aVCuttino Mobley HOU 02/21/1999 HOU @ ORL L 28 13 5 7 71.4 1 1 100.0 2 2 100.0 0 2 2 3 0 0 1 1 -18
+p404
+aVAnthony Miller HOU 02/21/1999 HOU @ ORL L 19 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p405
+aVHakeem Olajuwon HOU 02/21/1999 HOU @ ORL L 36 21 9 13 69.2 0 0 - 3 4 75.0 1 9 10 1 3 2 2 2 -16
+p406
+aVMatt Maloney HOU 02/20/1999 HOU @ MIA L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 2 0 -3
+p407
+aVMatt Bullard HOU 02/20/1999 HOU @ MIA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p408
+aVBryce Drew HOU 02/20/1999 HOU @ MIA L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p409
+aVBrent Price HOU 02/20/1999 HOU @ MIA L 23 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 4 1 0 2 3 1
+p410
+aVScottie Pippen HOU 02/20/1999 HOU @ MIA L 42 10 2 10 20.0 2 5 40.0 4 6 66.7 1 5 6 1 2 0 4 4 -13
+p411
+aVHakeem Olajuwon HOU 02/20/1999 HOU @ MIA L 39 16 6 11 54.5 0 0 - 4 4 100.0 3 10 13 1 0 2 2 5 -10
+p412
+aVOthella Harrington HOU 02/20/1999 HOU @ MIA L 34 17 6 10 60.0 0 0 - 5 6 83.3 4 8 12 0 0 0 1 2 -22
+p413
+aVMichael Dickerson HOU 02/20/1999 HOU @ MIA L 36 9 4 13 30.8 1 3 33.3 0 0 - 0 2 2 1 0 0 0 2 -19
+p414
+aVCuttino Mobley HOU 02/20/1999 HOU @ MIA L 25 9 4 13 30.8 0 1 0.0 1 2 50.0 2 1 3 2 1 1 1 3 -3
+p415
+aVAnthony Miller HOU 02/20/1999 HOU @ MIA L 22 6 3 5 60.0 0 0 - 0 0 - 2 4 6 0 1 0 0 1 12
+p416
+aVHakeem Olajuwon HOU 02/18/1999 HOU @ NJN W 46 21 8 13 61.5 0 1 0.0 5 6 83.3 5 10 15 3 0 1 6 1 -2
+p417
+aVAnthony Miller HOU 02/18/1999 HOU @ NJN W 19 9 3 9 33.3 0 0 - 3 7 42.9 5 6 11 0 0 1 1 3 10
+p418
+aVOthella Harrington HOU 02/18/1999 HOU @ NJN W 27 12 5 13 38.5 0 0 - 2 2 100.0 5 7 12 0 0 1 1 5 2
+p419
+aVMatt Bullard HOU 02/18/1999 HOU @ NJN W 12 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 1 0 0 0 1 -8
+p420
+aVBrent Price HOU 02/18/1999 HOU @ NJN W 30 7 2 6 33.3 1 2 50.0 2 2 100.0 3 2 5 2 1 0 3 4 7
+p421
+aVMichael Dickerson HOU 02/18/1999 HOU @ NJN W 51 14 6 20 30.0 1 5 20.0 1 1 100.0 4 1 5 1 3 0 1 0 3
+p422
+aVScottie Pippen HOU 02/18/1999 HOU @ NJN W 47 26 10 23 43.5 0 5 0.0 6 10 60.0 1 5 6 6 4 1 7 4 -3
+p423
+aVCuttino Mobley HOU 02/18/1999 HOU @ NJN W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 0 1 2
+p424
+aVMatt Maloney HOU 02/18/1999 HOU @ NJN W 20 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -6
+p425
+aVAnthony Miller HOU 02/17/1999 HOU @ MIN L 13 3 1 2 50.0 0 0 - 1 4 25.0 2 3 5 0 0 0 1 1 8
+p426
+aVHakeem Olajuwon HOU 02/17/1999 HOU @ MIN L 32 14 5 12 41.7 0 0 - 4 8 50.0 0 7 7 4 2 2 3 2 -17
+p427
+aVCuttino Mobley HOU 02/17/1999 HOU @ MIN L 27 8 1 4 25.0 0 1 0.0 6 7 85.7 0 1 1 2 0 0 2 4 -10
+p428
+aVMichael Dickerson HOU 02/17/1999 HOU @ MIN L 29 11 4 5 80.0 2 2 100.0 1 2 50.0 0 0 0 2 0 0 1 2 -17
+p429
+aVEddie Johnson HOU 02/17/1999 HOU @ MIN L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 1 2
+p430
+aVOthella Harrington HOU 02/17/1999 HOU @ MIN L 33 23 7 14 50.0 0 0 - 9 9 100.0 3 4 7 0 1 0 3 3 -11
+p431
+aVScottie Pippen HOU 02/17/1999 HOU @ MIN L 35 12 4 7 57.1 1 3 33.3 3 4 75.0 0 4 4 4 1 0 4 2 -17
+p432
+aVMatt Maloney HOU 02/17/1999 HOU @ MIN L 16 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 4 0 0 1 1 -9
+p433
+aVBrent Price HOU 02/17/1999 HOU @ MIN L 17 12 4 6 66.7 2 2 100.0 2 2 100.0 0 1 1 2 0 0 1 1 5
+p434
+aVBryce Drew HOU 02/17/1999 HOU @ MIN L 7 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 4 0 0 0 2 3
+p435
+aVMatt Bullard HOU 02/17/1999 HOU @ MIN L 26 7 2 2 100.0 1 1 100.0 2 4 50.0 0 1 1 1 2 0 2 3 -7
+p436
+aVCuttino Mobley HOU 02/16/1999 HOU vs. PHX W 25 7 3 7 42.9 0 0 - 1 1 100.0 0 1 1 0 2 1 2 3 7
+p437
+aVHakeem Olajuwon HOU 02/16/1999 HOU vs. PHX W 33 19 7 11 63.6 0 0 - 5 7 71.4 5 6 11 3 0 1 4 0 19
+p438
+aVEddie Johnson HOU 02/16/1999 HOU vs. PHX W 8 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p439
+aVBrent Price HOU 02/16/1999 HOU vs. PHX W 18 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 6 1 0 2 2 -3
+p440
+aVBryce Drew HOU 02/16/1999 HOU vs. PHX W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 -5
+p441
+aVMatt Maloney HOU 02/16/1999 HOU vs. PHX W 20 5 1 1 100.0 1 1 100.0 2 2 100.0 0 2 2 3 1 0 0 1 10
+p442
+aVOthella Harrington HOU 02/16/1999 HOU vs. PHX W 28 17 7 10 70.0 0 0 - 3 6 50.0 2 11 13 1 0 0 3 4 12
+p443
+aVAnthony Miller HOU 02/16/1999 HOU vs. PHX W 5 4 2 4 50.0 0 0 - 0 0 - 3 0 3 0 0 0 0 1 -5
+p444
+aVScottie Pippen HOU 02/16/1999 HOU vs. PHX W 39 19 6 13 46.2 0 2 0.0 7 7 100.0 4 8 12 9 3 1 1 2 20
+p445
+aVStanley Roberts HOU 02/16/1999 HOU vs. PHX W 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 3
+p446
+aVMichael Dickerson HOU 02/16/1999 HOU vs. PHX W 34 18 8 15 53.3 2 6 33.3 0 0 - 0 0 0 1 0 1 1 2 22
+p447
+aVMatt Bullard HOU 02/16/1999 HOU vs. PHX W 21 14 4 8 50.0 4 5 80.0 2 2 100.0 0 2 2 4 4 0 3 0 10
+p448
+aVOthella Harrington HOU 02/11/1999 HOU @ DAL W 18 13 6 7 85.7 0 0 - 1 2 50.0 2 0 2 0 0 0 0 3 0
+p449
+aVScottie Pippen HOU 02/11/1999 HOU @ DAL W 42 16 6 16 37.5 3 5 60.0 1 4 25.0 1 8 9 2 2 2 1 2 14
+p450
+aVBrent Price HOU 02/11/1999 HOU @ DAL W 15 8 3 4 75.0 2 3 66.7 0 0 - 1 0 1 2 0 0 0 4 1
+p451
+aVStanley Roberts HOU 02/11/1999 HOU @ DAL W 12 10 3 5 60.0 0 0 - 4 6 66.7 2 1 3 0 0 1 1 1 5
+p452
+aVBryce Drew HOU 02/11/1999 HOU @ DAL W 17 5 2 3 66.7 0 1 0.0 1 1 100.0 0 0 0 0 1 1 4 4 1
+p453
+aVMatt Bullard HOU 02/11/1999 HOU @ DAL W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p454
+aVCharles Barkley HOU 02/11/1999 HOU @ DAL W 34 16 4 9 44.4 0 0 - 8 10 80.0 6 9 15 6 0 0 4 0 11
+p455
+aVHakeem Olajuwon HOU 02/11/1999 HOU @ DAL W 32 8 3 8 37.5 0 0 - 2 4 50.0 0 6 6 1 0 3 2 4 4
+p456
+aVCuttino Mobley HOU 02/11/1999 HOU @ DAL W 24 8 2 8 25.0 1 3 33.3 3 4 75.0 0 1 1 0 0 1 1 2 6
+p457
+aVMichael Dickerson HOU 02/11/1999 HOU @ DAL W 41 21 8 13 61.5 4 5 80.0 1 3 33.3 1 2 3 2 2 0 2 3 12
+p458
+aVAnthony Miller HOU 02/10/1999 HOU vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p459
+aVBrent Price HOU 02/10/1999 HOU vs. SAC W 32 16 7 13 53.8 2 5 40.0 0 0 - 0 2 2 4 1 0 2 2 0
+p460
+aVMichael Dickerson HOU 02/10/1999 HOU vs. SAC W 25 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 1 1 0 1 3 0
+p461
+aVHakeem Olajuwon HOU 02/10/1999 HOU vs. SAC W 35 19 8 19 42.1 0 0 - 3 4 75.0 2 11 13 3 2 2 3 3 6
+p462
+aVBryce Drew HOU 02/10/1999 HOU vs. SAC W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 1 1
+p463
+aVOthella Harrington HOU 02/10/1999 HOU vs. SAC W 20 9 4 7 57.1 0 0 - 1 2 50.0 1 7 8 0 0 0 0 1 3
+p464
+aVCuttino Mobley HOU 02/10/1999 HOU vs. SAC W 18 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 1 15
+p465
+aVMatt Bullard HOU 02/10/1999 HOU vs. SAC W 20 12 4 7 57.1 2 4 50.0 2 2 100.0 1 1 2 0 0 0 0 0 12
+p466
+aVScottie Pippen HOU 02/10/1999 HOU vs. SAC W 42 12 4 12 33.3 0 3 0.0 4 4 100.0 2 6 8 7 1 1 1 2 4
+p467
+aVCharles Barkley HOU 02/10/1999 HOU vs. SAC W 36 16 6 17 35.3 0 0 - 4 4 100.0 8 8 16 2 0 1 0 2 8
+p468
+aVCharles Barkley HOU 02/08/1999 HOU vs. DEN W 36 15 7 9 77.8 0 0 - 1 3 33.3 8 11 19 4 0 0 2 2 19
+p469
+aVCuttino Mobley HOU 02/08/1999 HOU vs. DEN W 21 12 2 8 25.0 1 4 25.0 7 8 87.5 0 0 0 0 1 0 1 2 9
+p470
+aVHakeem Olajuwon HOU 02/08/1999 HOU vs. DEN W 28 14 6 10 60.0 0 0 - 2 2 100.0 2 11 13 2 0 3 4 1 16
+p471
+aVMichael Dickerson HOU 02/08/1999 HOU vs. DEN W 27 2 1 9 11.1 0 2 0.0 0 0 - 1 2 3 5 0 0 2 1 10
+p472
+aVBrent Price HOU 02/08/1999 HOU vs. DEN W 10 8 1 2 50.0 1 2 50.0 5 6 83.3 0 1 1 0 0 0 1 3 1
+p473
+aVScottie Pippen HOU 02/08/1999 HOU vs. DEN W 39 24 10 17 58.8 2 3 66.7 2 2 100.0 6 7 13 5 1 1 2 3 20
+p474
+aVMatt Maloney HOU 02/08/1999 HOU vs. DEN W 17 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 1 7
+p475
+aVOthella Harrington HOU 02/08/1999 HOU vs. DEN W 22 13 5 10 50.0 0 0 - 3 4 75.0 2 2 4 0 0 0 2 2 9
+p476
+aVBryce Drew HOU 02/08/1999 HOU vs. DEN W 30 8 3 9 33.3 0 3 0.0 2 2 100.0 0 3 3 8 0 0 2 3 10
+p477
+aVAnthony Miller HOU 02/08/1999 HOU vs. DEN W 10 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 1 0 0 1 -6
+p478
+aVMatt Bullard HOU 02/06/1999 HOU @ GSW W 14 8 3 6 50.0 1 3 33.3 1 2 50.0 0 0 0 0 0 0 1 1 15
+p479
+aVScottie Pippen HOU 02/06/1999 HOU @ GSW W 35 17 5 11 45.5 2 4 50.0 5 6 83.3 0 3 3 1 0 0 4 2 -13
+p480
+aVCharles Barkley HOU 02/06/1999 HOU @ GSW W 41 18 6 14 42.9 0 0 - 6 8 75.0 5 15 20 5 1 0 4 2 7
+p481
+aVBryce Drew HOU 02/06/1999 HOU @ GSW W 22 8 2 7 28.6 1 4 25.0 3 3 100.0 0 1 1 2 3 0 4 2 4
+p482
+aVOthella Harrington HOU 02/06/1999 HOU @ GSW W 21 9 3 5 60.0 0 0 - 3 4 75.0 2 4 6 0 0 0 1 2 4
+p483
+aVAnthony Miller HOU 02/06/1999 HOU @ GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p484
+aVMatt Maloney HOU 02/06/1999 HOU @ GSW W 26 1 0 0 - 0 0 - 1 2 50.0 0 1 1 2 1 0 3 2 -2
+p485
+aVMichael Dickerson HOU 02/06/1999 HOU @ GSW W 17 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -10
+p486
+aVHakeem Olajuwon HOU 02/06/1999 HOU @ GSW W 33 12 4 9 44.4 0 0 - 4 6 66.7 1 5 6 1 1 2 1 4 -7
+p487
+aVCuttino Mobley HOU 02/06/1999 HOU @ GSW W 31 13 4 7 57.1 3 3 100.0 2 2 100.0 0 1 1 2 0 0 1 2 12
+p488
+aVMichael Dickerson HOU 02/05/1999 HOU @ LAL L 33 12 5 10 50.0 0 1 0.0 2 2 100.0 0 3 3 2 0 0 1 4 -15
+p489
+aVMatt Bullard HOU 02/05/1999 HOU @ LAL L 20 8 3 8 37.5 2 3 66.7 0 0 - 2 0 2 1 1 0 0 4 0
+p490
+aVScottie Pippen HOU 02/05/1999 HOU @ LAL L 44 10 4 18 22.2 0 4 0.0 2 4 50.0 2 7 9 7 5 1 3 5 -3
+p491
+aVOthella Harrington HOU 02/05/1999 HOU @ LAL L 17 11 3 5 60.0 0 0 - 5 5 100.0 1 5 6 1 0 0 1 1 7
+p492
+aVBryce Drew HOU 02/05/1999 HOU @ LAL L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -7
+p493
+aVMatt Maloney HOU 02/05/1999 HOU @ LAL L 40 6 2 8 25.0 0 3 0.0 2 2 100.0 0 2 2 3 1 0 2 0 -1
+p494
+aVAnthony Miller HOU 02/05/1999 HOU @ LAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p495
+aVHakeem Olajuwon HOU 02/05/1999 HOU @ LAL L 34 11 5 13 38.5 0 0 - 1 4 25.0 4 3 7 0 0 0 3 6 -10
+p496
+aVCharles Barkley HOU 02/05/1999 HOU @ LAL L 38 31 12 21 57.1 0 1 0.0 7 11 63.6 6 9 15 3 1 0 1 1 -7
+p497
+a.

@@ -1,0 +1,1048 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJ.R. Henderson VAN 05/05/1999 VAN @ SAC L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 6
+p2
+aVDeJuan Wheat VAN 05/05/1999 VAN @ SAC L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 3
+p3
+aVFelipe Lopez VAN 05/05/1999 VAN @ SAC L 29 11 5 14 35.7 0 0 - 1 2 50.0 3 4 7 1 3 0 2 4 -7
+p4
+aVShareef Abdur-Rahim VAN 05/05/1999 VAN @ SAC L 39 26 9 16 56.3 1 1 100.0 7 9 77.8 0 2 2 0 2 0 3 5 -8
+p5
+aVTony Massenburg VAN 05/05/1999 VAN @ SAC L 30 12 5 13 38.5 0 1 0.0 2 2 100.0 1 3 4 0 1 1 3 4 -1
+p6
+aVCherokee Parks VAN 05/05/1999 VAN @ SAC L 25 2 1 6 16.7 0 0 - 0 1 0.0 1 4 5 0 3 0 1 5 -7
+p7
+aVPete Chilcutt VAN 05/05/1999 VAN @ SAC L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p8
+aVMichael Smith VAN 05/05/1999 VAN @ SAC L 35 11 3 7 42.9 0 0 - 5 8 62.5 4 10 14 1 1 0 3 3 -7
+p9
+aVTerry Dehere VAN 05/05/1999 VAN @ SAC L 22 9 3 8 37.5 2 4 50.0 1 1 100.0 1 3 4 4 1 0 2 2 2
+p10
+aVMike Bibby VAN 05/05/1999 VAN @ SAC L 36 20 8 16 50.0 0 1 0.0 4 4 100.0 0 1 1 7 1 0 1 0 -7
+p11
+aVFelipe Lopez VAN 05/03/1999 VAN vs. GSW L 36 11 2 6 33.3 0 0 - 7 10 70.0 0 4 4 2 1 0 2 5 -6
+p12
+aVShareef Abdur-Rahim VAN 05/03/1999 VAN vs. GSW L 37 20 5 19 26.3 0 2 0.0 10 12 83.3 4 2 6 1 2 0 2 1 -9
+p13
+aVPete Chilcutt VAN 05/03/1999 VAN vs. GSW L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 0 -3
+p14
+aVDeJuan Wheat VAN 05/03/1999 VAN vs. GSW L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 -9
+p15
+aVMike Bibby VAN 05/03/1999 VAN vs. GSW L 37 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 10 4 0 2 1 1
+p16
+aVTony Massenburg VAN 05/03/1999 VAN vs. GSW L 36 14 5 13 38.5 0 0 - 4 6 66.7 2 4 6 0 1 2 1 5 -14
+p17
+aVJ.R. Henderson VAN 05/03/1999 VAN vs. GSW L 11 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 0 1
+p18
+aVMichael Smith VAN 05/03/1999 VAN vs. GSW L 22 10 5 7 71.4 0 0 - 0 1 0.0 4 2 6 0 2 0 3 5 -10
+p19
+aVRodrick Rhodes VAN 05/03/1999 VAN vs. GSW L 9 4 2 7 28.6 0 0 - 0 0 - 1 0 1 1 1 1 0 0 3
+p20
+aVTerry Dehere VAN 05/03/1999 VAN vs. GSW L 4 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 0 0 0 0 1 -2
+p21
+aVCherokee Parks VAN 05/03/1999 VAN vs. GSW L 34 7 2 3 66.7 0 0 - 3 6 50.0 4 7 11 1 2 0 1 5 8
+p22
+aVTony Massenburg VAN 05/01/1999 VAN @ PHX L 32 11 5 7 71.4 0 0 - 1 5 20.0 1 4 5 0 2 2 1 2 -11
+p23
+aVShareef Abdur-Rahim VAN 05/01/1999 VAN @ PHX L 35 23 7 15 46.7 0 1 0.0 9 10 90.0 1 1 2 1 1 0 4 2 -21
+p24
+aVCherokee Parks VAN 05/01/1999 VAN @ PHX L 31 4 1 8 12.5 0 0 - 2 2 100.0 1 4 5 2 0 0 2 3 -26
+p25
+aVMichael Smith VAN 05/01/1999 VAN @ PHX L 26 7 3 3 100.0 0 0 - 1 1 100.0 5 3 8 3 2 0 2 2 -17
+p26
+aVTerry Dehere VAN 05/01/1999 VAN @ PHX L 5 1 0 1 0.0 0 1 0.0 1 2 50.0 1 0 1 1 0 0 0 0 -4
+p27
+aVMakhtar N'Diaye VAN 05/01/1999 VAN @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p28
+aVJ.R. Henderson VAN 05/01/1999 VAN @ PHX L 15 7 3 7 42.9 0 0 - 1 4 25.0 2 0 2 0 1 0 0 0 -6
+p29
+aVPete Chilcutt VAN 05/01/1999 VAN @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p30
+aVFelipe Lopez VAN 05/01/1999 VAN @ PHX L 41 9 3 9 33.3 0 2 0.0 3 4 75.0 3 5 8 1 0 0 4 2 -29
+p31
+aVMike Bibby VAN 05/01/1999 VAN @ PHX L 30 6 3 15 20.0 0 0 - 0 0 - 1 1 2 8 3 0 4 4 -14
+p32
+aVDeJuan Wheat VAN 05/01/1999 VAN @ PHX L 18 9 4 8 50.0 1 4 25.0 0 0 - 0 1 1 3 0 0 1 0 -16
+p33
+aVFelipe Lopez VAN 04/29/1999 VAN vs. SAS L 34 11 5 16 31.3 0 0 - 1 1 100.0 4 3 7 4 2 0 2 1 -16
+p34
+aVTerry Dehere VAN 04/29/1999 VAN vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p35
+aVMike Bibby VAN 04/29/1999 VAN vs. SAS L 27 0 0 8 0.0 0 2 0.0 0 2 0.0 1 0 1 3 1 0 0 1 -18
+p36
+aVJ.R. Henderson VAN 04/29/1999 VAN vs. SAS L 16 6 2 5 40.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 2 -13
+p37
+aVMichael Smith VAN 04/29/1999 VAN vs. SAS L 21 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 1 0 3 3 -11
+p38
+aVPete Chilcutt VAN 04/29/1999 VAN vs. SAS L 15 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 -12
+p39
+aVDeJuan Wheat VAN 04/29/1999 VAN vs. SAS L 18 10 4 7 57.1 2 3 66.7 0 0 - 0 1 1 2 1 0 1 1 -6
+p40
+aVMakhtar N'Diaye VAN 04/29/1999 VAN vs. SAS L 6 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -4
+p41
+aVRodrick Rhodes VAN 04/29/1999 VAN vs. SAS L 14 5 1 8 12.5 0 4 0.0 3 6 50.0 1 1 2 0 1 0 1 1 -11
+p42
+aVCherokee Parks VAN 04/29/1999 VAN vs. SAS L 24 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 1 2 0 2 -7
+p43
+aVShareef Abdur-Rahim VAN 04/29/1999 VAN vs. SAS L 32 12 4 13 30.8 0 0 - 4 5 80.0 5 3 8 3 1 2 3 3 -14
+p44
+aVTony Massenburg VAN 04/29/1999 VAN vs. SAS L 29 12 5 10 50.0 0 1 0.0 2 2 100.0 2 4 6 1 1 1 1 3 -20
+p45
+aVShareef Abdur-Rahim VAN 04/27/1999 VAN @ DAL L 37 16 3 10 30.0 0 0 - 10 11 90.9 2 8 10 7 1 2 4 2 2
+p46
+aVMichael Smith VAN 04/27/1999 VAN @ DAL L 33 2 1 2 50.0 0 0 - 0 0 - 5 5 10 1 2 0 0 2 -7
+p47
+aVTerry Dehere VAN 04/27/1999 VAN @ DAL L 5 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -1
+p48
+aVCherokee Parks VAN 04/27/1999 VAN @ DAL L 22 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 2 1 1 4 -1
+p49
+aVDeJuan Wheat VAN 04/27/1999 VAN @ DAL L 13 5 2 6 33.3 1 1 100.0 0 0 - 2 0 2 1 0 0 1 1 -7
+p50
+aVFelipe Lopez VAN 04/27/1999 VAN @ DAL L 30 9 3 9 33.3 0 4 0.0 3 5 60.0 1 1 2 1 1 0 4 2 -9
+p51
+aVRodrick Rhodes VAN 04/27/1999 VAN @ DAL L 12 6 2 5 40.0 0 0 - 2 3 66.7 1 3 4 1 0 0 3 2 -1
+p52
+aVPete Chilcutt VAN 04/27/1999 VAN @ DAL L 16 5 2 7 28.6 0 1 0.0 1 1 100.0 3 2 5 0 0 0 2 1 -6
+p53
+aVJ.R. Henderson VAN 04/27/1999 VAN @ DAL L 12 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -11
+p54
+aVMike Bibby VAN 04/27/1999 VAN @ DAL L 36 22 9 19 47.4 0 2 0.0 4 7 57.1 0 3 3 1 2 0 4 4 0
+p55
+aVTony Massenburg VAN 04/27/1999 VAN @ DAL L 25 4 2 9 22.2 0 0 - 0 2 0.0 1 5 6 0 0 0 3 5 -4
+p56
+aVJ.R. Henderson VAN 04/24/1999 VAN @ LAC L 12 3 0 0 - 0 0 - 3 4 75.0 0 1 1 3 3 0 0 0 -3
+p57
+aVTony Massenburg VAN 04/24/1999 VAN @ LAC L 38 22 9 14 64.3 0 0 - 4 6 66.7 1 4 5 1 1 2 2 0 -3
+p58
+aVMichael Smith VAN 04/24/1999 VAN @ LAC L 23 4 0 0 - 0 0 - 4 4 100.0 2 4 6 0 1 0 1 4 -20
+p59
+aVPete Chilcutt VAN 04/24/1999 VAN @ LAC L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -6
+p60
+aVRodrick Rhodes VAN 04/24/1999 VAN @ LAC L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -11
+p61
+aVShareef Abdur-Rahim VAN 04/24/1999 VAN @ LAC L 43 27 9 17 52.9 0 2 0.0 9 10 90.0 2 4 6 5 0 1 5 2 -1
+p62
+aVTerry Dehere VAN 04/24/1999 VAN @ LAC L 16 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -6
+p63
+aVCherokee Parks VAN 04/24/1999 VAN @ LAC L 29 6 3 7 42.9 0 0 - 0 0 - 0 8 8 0 0 1 0 4 11
+p64
+aVMike Bibby VAN 04/24/1999 VAN @ LAC L 33 10 3 8 37.5 0 1 0.0 4 8 50.0 0 4 4 7 1 0 1 2 -5
+p65
+aVDeJuan Wheat VAN 04/24/1999 VAN @ LAC L 16 10 2 5 40.0 2 3 66.7 4 4 100.0 0 2 2 2 0 0 2 3 -6
+p66
+aVFelipe Lopez VAN 04/24/1999 VAN @ LAC L 19 14 6 6 100.0 2 2 100.0 0 0 - 0 0 0 1 1 1 4 4 5
+p67
+aVShareef Abdur-Rahim VAN 04/23/1999 VAN vs. SEA L 45 22 8 20 40.0 0 0 - 6 8 75.0 4 5 9 5 0 3 7 6 -8
+p68
+aVMichael Smith VAN 04/23/1999 VAN vs. SEA L 24 1 0 2 0.0 0 0 - 1 2 50.0 6 5 11 2 0 1 0 1 -8
+p69
+aVJ.R. Henderson VAN 04/23/1999 VAN vs. SEA L 14 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 1 6
+p70
+aVDeJuan Wheat VAN 04/23/1999 VAN vs. SEA L 17 3 1 6 16.7 1 3 33.3 0 0 - 0 2 2 2 1 1 1 1 3
+p71
+aVCherokee Parks VAN 04/23/1999 VAN vs. SEA L 17 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 0 0 1 3 -4
+p72
+aVFelipe Lopez VAN 04/23/1999 VAN vs. SEA L 27 8 4 12 33.3 0 0 - 0 0 - 2 2 4 0 1 0 1 5 -17
+p73
+aVRodrick Rhodes VAN 04/23/1999 VAN vs. SEA L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 2 0
+p74
+aVMike Bibby VAN 04/23/1999 VAN vs. SEA L 32 10 4 11 36.4 0 0 - 2 2 100.0 1 1 2 9 1 2 3 5 -18
+p75
+aVPete Chilcutt VAN 04/23/1999 VAN vs. SEA L 13 3 1 4 25.0 1 2 50.0 0 0 - 3 1 4 1 0 0 1 0 -8
+p76
+aVTony Massenburg VAN 04/23/1999 VAN vs. SEA L 22 15 7 13 53.8 0 0 - 1 2 50.0 1 7 8 0 0 0 2 3 -8
+p77
+aVTerry Dehere VAN 04/23/1999 VAN vs. SEA L 12 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 3 -3
+p78
+aVMichael Smith VAN 04/21/1999 VAN vs. LAC W 25 6 2 4 50.0 0 0 - 2 4 50.0 1 3 4 2 1 2 0 0 3
+p79
+aVTerry Dehere VAN 04/21/1999 VAN vs. LAC W 18 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 0 0 1 2 2 0
+p80
+aVDeJuan Wheat VAN 04/21/1999 VAN vs. LAC W 24 11 3 6 50.0 1 3 33.3 4 4 100.0 0 0 0 4 1 0 0 3 5
+p81
+aVShareef Abdur-Rahim VAN 04/21/1999 VAN vs. LAC W 36 29 11 20 55.0 0 1 0.0 7 9 77.8 2 4 6 1 2 6 2 3 2
+p82
+aVFelipe Lopez VAN 04/21/1999 VAN vs. LAC W 30 16 6 10 60.0 0 1 0.0 4 5 80.0 2 1 3 2 0 0 3 2 3
+p83
+aVJ.R. Henderson VAN 04/21/1999 VAN vs. LAC W 7 2 0 0 - 0 0 - 2 2 100.0 1 0 1 1 0 0 0 0 -1
+p84
+aVCherokee Parks VAN 04/21/1999 VAN vs. LAC W 17 4 2 3 66.7 0 0 - 0 0 - 2 4 6 2 0 1 2 1 -10
+p85
+aVPete Chilcutt VAN 04/21/1999 VAN vs. LAC W 17 3 1 3 33.3 1 2 50.0 0 0 - 1 5 6 2 1 0 2 2 10
+p86
+aVMike Bibby VAN 04/21/1999 VAN vs. LAC W 24 10 4 9 44.4 0 0 - 2 3 66.7 0 3 3 6 1 0 2 4 -2
+p87
+aVTony Massenburg VAN 04/21/1999 VAN vs. LAC W 41 8 4 9 44.4 0 0 - 0 0 - 2 4 6 1 1 4 2 2 5
+p88
+aVMakhtar N'Diaye VAN 04/19/1999 VAN @ LAL L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 4 3
+p89
+aVShareef Abdur-Rahim VAN 04/19/1999 VAN @ LAL L 40 17 4 15 26.7 0 0 - 9 10 90.0 2 3 5 5 0 0 6 5 -7
+p90
+aVDeJuan Wheat VAN 04/19/1999 VAN @ LAL L 13 8 3 7 42.9 2 3 66.7 0 0 - 0 0 0 3 0 0 2 0 -7
+p91
+aVTerry Dehere VAN 04/19/1999 VAN @ LAL L 16 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 2 0 1 0 3 -6
+p92
+aVMichael Smith VAN 04/19/1999 VAN @ LAL L 35 2 1 5 20.0 0 0 - 0 2 0.0 5 9 14 3 1 1 2 5 -9
+p93
+aVFelipe Lopez VAN 04/19/1999 VAN @ LAL L 33 23 10 14 71.4 2 3 66.7 1 2 50.0 0 1 1 3 0 0 1 3 -9
+p94
+aVCherokee Parks VAN 04/19/1999 VAN @ LAL L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p95
+aVMike Bibby VAN 04/19/1999 VAN @ LAL L 35 12 6 12 50.0 0 2 0.0 0 0 - 1 1 2 4 1 0 1 2 -8
+p96
+aVTony Massenburg VAN 04/19/1999 VAN @ LAL L 42 28 10 16 62.5 0 0 - 8 14 57.1 2 7 9 1 0 2 2 4 -18
+p97
+aVJ.R. Henderson VAN 04/19/1999 VAN @ LAL L 16 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 2 0 1 1 1 -12
+p98
+aVCherokee Parks VAN 04/18/1999 VAN vs. GSW L 17 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 1
+p99
+aVTerry Dehere VAN 04/18/1999 VAN vs. GSW L 11 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 -14
+p100
+aVMichael Smith VAN 04/18/1999 VAN vs. GSW L 30 8 2 2 100.0 0 0 - 4 6 66.7 5 7 12 0 2 1 4 2 -19
+p101
+aVFelipe Lopez VAN 04/18/1999 VAN vs. GSW L 37 17 5 12 41.7 0 2 0.0 7 8 87.5 3 3 6 0 2 0 3 4 9
+p102
+aVMike Bibby VAN 04/18/1999 VAN vs. GSW L 37 13 6 15 40.0 0 2 0.0 1 2 50.0 0 3 3 6 3 0 1 5 9
+p103
+aVJ.R. Henderson VAN 04/18/1999 VAN vs. GSW L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p104
+aVPete Chilcutt VAN 04/18/1999 VAN vs. GSW L 16 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 2 0 0 1 1 -4
+p105
+aVDeJuan Wheat VAN 04/18/1999 VAN vs. GSW L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 4 2 0 4 1 -14
+p106
+aVShareef Abdur-Rahim VAN 04/18/1999 VAN vs. GSW L 41 25 10 18 55.6 0 0 - 5 6 83.3 1 3 4 2 4 1 3 3 -7
+p107
+aVTony Massenburg VAN 04/18/1999 VAN vs. GSW L 37 14 4 11 36.4 0 0 - 6 8 75.0 2 5 7 0 1 1 2 2 9
+p108
+aVTerry Dehere VAN 04/16/1999 VAN @ MIN L 27 3 1 7 14.3 1 4 25.0 0 0 - 0 2 2 5 1 0 1 1 -15
+p109
+aVMichael Smith VAN 04/16/1999 VAN @ MIN L 25 1 0 2 0.0 0 0 - 1 4 25.0 5 0 5 0 1 1 3 3 -10
+p110
+aVTony Massenburg VAN 04/16/1999 VAN @ MIN L 36 18 8 11 72.7 0 0 - 2 2 100.0 5 9 14 1 1 2 2 2 -13
+p111
+aVCherokee Parks VAN 04/16/1999 VAN @ MIN L 28 8 4 8 50.0 0 0 - 0 0 - 0 5 5 2 1 1 2 3 5
+p112
+aVJ.R. Henderson VAN 04/16/1999 VAN @ MIN L 18 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 1 0 -10
+p113
+aVFelipe Lopez VAN 04/16/1999 VAN @ MIN L 10 6 3 3 100.0 0 0 - 0 0 - 0 0 0 2 1 1 0 2 9
+p114
+aVDeJuan Wheat VAN 04/16/1999 VAN @ MIN L 14 4 1 7 14.3 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -7
+p115
+aVPete Chilcutt VAN 04/16/1999 VAN @ MIN L 8 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 2 -10
+p116
+aVShareef Abdur-Rahim VAN 04/16/1999 VAN @ MIN L 41 24 10 19 52.6 0 2 0.0 4 6 66.7 1 4 5 5 0 1 3 1 -12
+p117
+aVMike Bibby VAN 04/16/1999 VAN @ MIN L 34 6 2 12 16.7 0 1 0.0 2 5 40.0 1 2 3 7 0 0 4 5 -7
+p118
+aVTony Massenburg VAN 04/14/1999 VAN @ HOU L 29 16 5 7 71.4 0 0 - 6 7 85.7 2 7 9 0 1 0 2 4 -7
+p119
+aVPete Chilcutt VAN 04/14/1999 VAN @ HOU L 21 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 2 -5
+p120
+aVMichael Smith VAN 04/14/1999 VAN @ HOU L 19 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 0 1 0 2 2 -12
+p121
+aVFelipe Lopez VAN 04/14/1999 VAN @ HOU L 28 13 6 13 46.2 0 1 0.0 1 1 100.0 2 1 3 0 2 0 1 3 -6
+p122
+aVShareef Abdur-Rahim VAN 04/14/1999 VAN @ HOU L 37 16 6 17 35.3 1 2 50.0 3 5 60.0 1 2 3 3 1 0 1 1 -9
+p123
+aVMike Bibby VAN 04/14/1999 VAN @ HOU L 30 11 3 12 25.0 0 0 - 5 6 83.3 2 1 3 6 3 0 2 1 -5
+p124
+aVTerry Dehere VAN 04/14/1999 VAN @ HOU L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 2 3 -11
+p125
+aVJ.R. Henderson VAN 04/14/1999 VAN @ HOU L 11 6 2 5 40.0 0 0 - 2 3 66.7 1 1 2 0 0 0 3 0 -8
+p126
+aVDeJuan Wheat VAN 04/14/1999 VAN @ HOU L 18 8 3 10 30.0 0 2 0.0 2 3 66.7 1 0 1 3 0 0 0 3 -12
+p127
+aVCherokee Parks VAN 04/14/1999 VAN @ HOU L 27 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -10
+p128
+aVMichael Smith VAN 04/12/1999 VAN @ UTA L 12 3 0 0 - 0 0 - 3 4 75.0 3 2 5 1 2 0 0 0 4
+p129
+aVShareef Abdur-Rahim VAN 04/12/1999 VAN @ UTA L 36 22 5 17 29.4 0 0 - 12 13 92.3 3 3 6 4 1 1 3 3 -19
+p130
+aVMike Bibby VAN 04/12/1999 VAN @ UTA L 33 21 8 15 53.3 0 1 0.0 5 7 71.4 0 4 4 1 1 0 4 3 -20
+p131
+aVPete Chilcutt VAN 04/12/1999 VAN @ UTA L 22 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 2 1 0 0 1 -17
+p132
+aVMakhtar N'Diaye VAN 04/12/1999 VAN @ UTA L 12 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 1 1 3 -2
+p133
+aVCherokee Parks VAN 04/12/1999 VAN @ UTA L 26 6 3 5 60.0 0 0 - 0 2 0.0 1 3 4 2 0 2 0 0 -4
+p134
+aVJ.R. Henderson VAN 04/12/1999 VAN @ UTA L 12 3 1 6 16.7 0 0 - 1 2 50.0 2 0 2 0 0 0 2 2 -2
+p135
+aVTony Massenburg VAN 04/12/1999 VAN @ UTA L 24 2 0 4 0.0 0 0 - 2 2 100.0 2 2 4 0 1 2 0 2 -23
+p136
+aVDeJuan Wheat VAN 04/12/1999 VAN @ UTA L 15 11 5 8 62.5 1 2 50.0 0 0 - 0 1 1 1 0 0 0 3 -1
+p137
+aVTerry Dehere VAN 04/12/1999 VAN @ UTA L 27 9 4 10 40.0 1 4 25.0 0 0 - 1 2 3 0 0 0 2 2 -6
+p138
+aVFelipe Lopez VAN 04/12/1999 VAN @ UTA L 21 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -15
+p139
+aVDeJuan Wheat VAN 04/11/1999 VAN vs. SAC L 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 2 0 0 0 7
+p140
+aVShareef Abdur-Rahim VAN 04/11/1999 VAN vs. SAC L 45 23 8 16 50.0 0 1 0.0 7 7 100.0 4 6 10 5 5 1 5 3 4
+p141
+aVTony Massenburg VAN 04/11/1999 VAN vs. SAC L 34 17 6 15 40.0 0 0 - 5 7 71.4 2 4 6 1 0 1 2 3 -8
+p142
+aVPete Chilcutt VAN 04/11/1999 VAN vs. SAC L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 1 8
+p143
+aVJ.R. Henderson VAN 04/11/1999 VAN vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p144
+aVMike Bibby VAN 04/11/1999 VAN vs. SAC L 35 21 10 19 52.6 1 4 25.0 0 0 - 0 1 1 8 4 0 3 0 -10
+p145
+aVTerry Dehere VAN 04/11/1999 VAN vs. SAC L 18 9 3 6 50.0 2 4 50.0 1 2 50.0 0 1 1 2 0 0 1 4 14
+p146
+aVFelipe Lopez VAN 04/11/1999 VAN vs. SAC L 30 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 1 1 0 2 1 -17
+p147
+aVCherokee Parks VAN 04/11/1999 VAN vs. SAC L 19 2 1 5 20.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -11
+p148
+aVMichael Smith VAN 04/11/1999 VAN vs. SAC L 27 10 3 4 75.0 0 0 - 4 6 66.7 4 10 14 0 0 0 3 2 5
+p149
+aVShareef Abdur-Rahim VAN 04/09/1999 VAN vs. SEA W 42 28 10 20 50.0 0 1 0.0 8 9 88.9 2 9 11 3 1 3 6 2 10
+p150
+aVPete Chilcutt VAN 04/09/1999 VAN vs. SEA W 24 8 3 5 60.0 2 2 100.0 0 0 - 0 3 3 0 0 1 0 2 7
+p151
+aVJ.R. Henderson VAN 04/09/1999 VAN vs. SEA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -5
+p152
+aVTerry Dehere VAN 04/09/1999 VAN vs. SEA W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 2 14
+p153
+aVCherokee Parks VAN 04/09/1999 VAN vs. SEA W 22 9 4 11 36.4 0 1 0.0 1 3 33.3 0 5 5 0 0 0 0 2 0
+p154
+aVTony Massenburg VAN 04/09/1999 VAN vs. SEA W 26 8 4 7 57.1 0 0 - 0 0 - 1 4 5 1 2 1 2 3 -5
+p155
+aVDeJuan Wheat VAN 04/09/1999 VAN vs. SEA W 13 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 5 0 0 2 1 9
+p156
+aVMichael Smith VAN 04/09/1999 VAN vs. SEA W 22 9 3 3 100.0 0 0 - 3 4 75.0 4 3 7 2 2 0 0 3 10
+p157
+aVFelipe Lopez VAN 04/09/1999 VAN vs. SEA W 39 21 8 13 61.5 1 1 100.0 4 6 66.7 6 5 11 0 1 0 2 1 -9
+p158
+aVMike Bibby VAN 04/09/1999 VAN vs. SEA W 36 7 2 9 22.2 0 1 0.0 3 4 75.0 0 1 1 7 2 0 2 5 -6
+p159
+aVMichael Smith VAN 04/07/1999 VAN vs. DEN L 21 7 2 2 100.0 0 0 - 3 6 50.0 2 4 6 2 0 0 0 3 -5
+p160
+aVJ.R. Henderson VAN 04/07/1999 VAN vs. DEN L 9 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 2 1 0 1
+p161
+aVTony Massenburg VAN 04/07/1999 VAN vs. DEN L 33 16 5 11 45.5 0 0 - 6 8 75.0 3 6 9 1 0 1 3 3 2
+p162
+aVCherokee Parks VAN 04/07/1999 VAN vs. DEN L 28 9 4 10 40.0 0 0 - 1 2 50.0 2 3 5 0 1 1 0 0 -7
+p163
+aVMike Bibby VAN 04/07/1999 VAN vs. DEN L 39 13 6 12 50.0 0 2 0.0 1 2 50.0 0 6 6 6 0 0 4 2 -7
+p164
+aVDeJuan Wheat VAN 04/07/1999 VAN vs. DEN L 17 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 2 1 0 0 3 7
+p165
+aVShareef Abdur-Rahim VAN 04/07/1999 VAN vs. DEN L 43 25 7 18 38.9 0 0 - 11 12 91.7 0 4 4 4 1 2 3 2 -7
+p166
+aVFelipe Lopez VAN 04/07/1999 VAN vs. DEN L 35 6 3 7 42.9 0 0 - 0 2 0.0 1 4 5 1 1 2 3 1 -3
+p167
+aVPete Chilcutt VAN 04/07/1999 VAN vs. DEN L 14 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 0 4
+p168
+aVFelipe Lopez VAN 04/06/1999 VAN @ POR L 36 19 8 15 53.3 2 4 50.0 1 2 50.0 6 1 7 0 1 0 4 2 -7
+p169
+aVJ.R. Henderson VAN 04/06/1999 VAN @ POR L 7 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 2
+p170
+aVTony Massenburg VAN 04/06/1999 VAN @ POR L 24 7 2 8 25.0 0 0 - 3 3 100.0 2 6 8 0 0 0 1 2 -3
+p171
+aVPete Chilcutt VAN 04/06/1999 VAN @ POR L 19 10 5 9 55.6 0 2 0.0 0 0 - 1 3 4 0 0 1 1 1 -9
+p172
+aVTerry Dehere VAN 04/06/1999 VAN @ POR L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -9
+p173
+aVMichael Smith VAN 04/06/1999 VAN @ POR L 26 0 0 3 0.0 0 0 - 0 0 - 3 3 6 0 0 0 1 5 -13
+p174
+aVDeJuan Wheat VAN 04/06/1999 VAN @ POR L 17 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 5 1 0 1 1 -8
+p175
+aVShareef Abdur-Rahim VAN 04/06/1999 VAN @ POR L 41 19 6 16 37.5 0 3 0.0 7 8 87.5 3 5 8 5 0 1 3 4 -11
+p176
+aVMike Bibby VAN 04/06/1999 VAN @ POR L 37 19 9 14 64.3 0 0 - 1 2 50.0 0 4 4 5 2 0 3 1 6
+p177
+aVCherokee Parks VAN 04/06/1999 VAN @ POR L 26 12 5 7 71.4 0 0 - 2 5 40.0 1 1 2 1 2 0 1 5 7
+p178
+aVMichael Smith VAN 04/04/1999 VAN @ CHI L 37 6 2 2 100.0 0 0 - 2 4 50.0 3 8 11 2 0 0 0 3 -4
+p179
+aVFelipe Lopez VAN 04/04/1999 VAN @ CHI L 33 12 5 10 50.0 1 1 100.0 1 2 50.0 1 1 2 2 1 2 2 2 5
+p180
+aVCherokee Parks VAN 04/04/1999 VAN @ CHI L 35 9 4 8 50.0 0 0 - 1 2 50.0 1 4 5 0 0 2 0 3 6
+p181
+aVTerry Dehere VAN 04/04/1999 VAN @ CHI L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -5
+p182
+aVJ.R. Henderson VAN 04/04/1999 VAN @ CHI L 13 5 2 7 28.6 0 0 - 1 4 25.0 2 1 3 2 0 0 1 2 -4
+p183
+aVMike Bibby VAN 04/04/1999 VAN @ CHI L 38 20 5 10 50.0 1 1 100.0 9 10 90.0 0 1 1 8 1 0 1 1 9
+p184
+aVDeJuan Wheat VAN 04/04/1999 VAN @ CHI L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 1 -10
+p185
+aVPete Chilcutt VAN 04/04/1999 VAN @ CHI L 24 7 3 11 27.3 1 3 33.3 0 0 - 0 4 4 0 1 0 0 4 -4
+p186
+aVShareef Abdur-Rahim VAN 04/04/1999 VAN @ CHI L 44 26 7 11 63.6 0 0 - 12 14 85.7 1 4 5 3 2 0 3 5 2
+p187
+aVTerry Dehere VAN 04/02/1999 VAN @ ATL L 12 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 3 0 0 2 1 5
+p188
+aVDeJuan Wheat VAN 04/02/1999 VAN @ ATL L 12 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 1 0 3
+p189
+aVTony Massenburg VAN 04/02/1999 VAN @ ATL L 9 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 1 0 0 -3
+p190
+aVFelipe Lopez VAN 04/02/1999 VAN @ ATL L 35 10 3 10 30.0 2 4 50.0 2 4 50.0 1 1 2 1 2 0 0 3 -6
+p191
+aVPete Chilcutt VAN 04/02/1999 VAN @ ATL L 21 3 1 5 20.0 0 2 0.0 1 2 50.0 2 4 6 0 0 0 0 3 -3
+p192
+aVCherokee Parks VAN 04/02/1999 VAN @ ATL L 29 6 3 6 50.0 0 0 - 0 0 - 3 6 9 1 3 1 1 5 -2
+p193
+aVMichael Smith VAN 04/02/1999 VAN @ ATL L 35 7 1 2 50.0 0 0 - 5 6 83.3 2 6 8 2 2 0 3 1 1
+p194
+aVShareef Abdur-Rahim VAN 04/02/1999 VAN @ ATL L 41 24 10 22 45.5 0 0 - 4 6 66.7 2 4 6 5 0 2 3 2 -2
+p195
+aVMike Bibby VAN 04/02/1999 VAN @ ATL L 38 20 7 14 50.0 0 1 0.0 6 6 100.0 1 1 2 5 0 0 4 2 -8
+p196
+aVJ.R. Henderson VAN 04/02/1999 VAN @ ATL L 10 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 0
+p197
+aVPete Chilcutt VAN 04/01/1999 VAN @ SAS L 16 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 1 0 1 1 2 -5
+p198
+aVMichael Smith VAN 04/01/1999 VAN @ SAS L 31 12 5 10 50.0 0 0 - 2 5 40.0 7 4 11 1 0 0 1 1 5
+p199
+aVTony Massenburg VAN 04/01/1999 VAN @ SAS L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 2 0 -13
+p200
+aVMike Bibby VAN 04/01/1999 VAN @ SAS L 37 10 4 13 30.8 0 1 0.0 2 2 100.0 0 1 1 6 1 0 3 2 -11
+p201
+aVFelipe Lopez VAN 04/01/1999 VAN @ SAS L 28 11 3 7 42.9 0 1 0.0 5 6 83.3 1 3 4 1 1 0 5 5 -1
+p202
+aVTerry Dehere VAN 04/01/1999 VAN @ SAS L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -11
+p203
+aVShareef Abdur-Rahim VAN 04/01/1999 VAN @ SAS L 40 27 10 22 45.5 0 0 - 7 7 100.0 5 4 9 6 1 0 3 1 -9
+p204
+aVDeJuan Wheat VAN 04/01/1999 VAN @ SAS L 13 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 3 0 0 0 0 -3
+p205
+aVCherokee Parks VAN 04/01/1999 VAN @ SAS L 33 10 5 11 45.5 0 0 - 0 0 - 5 7 12 0 0 0 0 3 -10
+p206
+aVJ.R. Henderson VAN 04/01/1999 VAN @ SAS L 18 7 3 4 75.0 1 1 100.0 0 0 - 2 1 3 1 1 0 0 3 -2
+p207
+aVTerry Dehere VAN 03/30/1999 VAN vs. DEN W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 0 0
+p208
+aVCherokee Parks VAN 03/30/1999 VAN vs. DEN W 26 14 7 14 50.0 0 0 - 0 0 - 4 1 5 1 0 0 0 0 8
+p209
+aVTony Massenburg VAN 03/30/1999 VAN vs. DEN W 32 18 7 15 46.7 0 0 - 4 6 66.7 3 2 5 1 0 2 1 4 9
+p210
+aVMike Bibby VAN 03/30/1999 VAN vs. DEN W 38 20 9 14 64.3 0 2 0.0 2 2 100.0 1 6 7 10 2 0 1 4 18
+p211
+aVShareef Abdur-Rahim VAN 03/30/1999 VAN vs. DEN W 44 22 5 12 41.7 1 1 100.0 11 14 78.6 1 4 5 2 0 0 4 1 18
+p212
+aVFelipe Lopez VAN 03/30/1999 VAN vs. DEN W 34 12 5 7 71.4 0 0 - 2 6 33.3 1 6 7 5 0 1 1 4 17
+p213
+aVMichael Smith VAN 03/30/1999 VAN vs. DEN W 24 6 0 1 0.0 0 1 0.0 6 8 75.0 1 10 11 0 0 0 2 3 12
+p214
+aVPete Chilcutt VAN 03/30/1999 VAN vs. DEN W 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 -1
+p215
+aVJ.R. Henderson VAN 03/30/1999 VAN vs. DEN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -7
+p216
+aVDeJuan Wheat VAN 03/30/1999 VAN vs. DEN W 10 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 2 -4
+p217
+aVJ.R. Henderson VAN 03/29/1999 VAN @ LAL L 9 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 2
+p218
+aVDeJuan Wheat VAN 03/29/1999 VAN @ LAL L 14 4 2 5 40.0 0 0 - 0 0 - 1 1 2 7 1 0 2 3 -5
+p219
+aVCherokee Parks VAN 03/29/1999 VAN @ LAL L 24 4 2 4 50.0 0 0 - 0 0 - 3 4 7 2 1 1 0 1 -4
+p220
+aVPete Chilcutt VAN 03/29/1999 VAN @ LAL L 23 7 3 6 50.0 1 1 100.0 0 0 - 0 4 4 0 0 1 2 1 -10
+p221
+aVShareef Abdur-Rahim VAN 03/29/1999 VAN @ LAL L 36 21 7 13 53.8 0 0 - 7 7 100.0 0 3 3 7 1 0 4 3 -17
+p222
+aVMike Bibby VAN 03/29/1999 VAN @ LAL L 34 13 4 11 36.4 0 2 0.0 5 6 83.3 0 1 1 8 2 0 5 2 -13
+p223
+aVTerry Dehere VAN 03/29/1999 VAN @ LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p224
+aVTony Massenburg VAN 03/29/1999 VAN @ LAL L 32 16 7 11 63.6 0 0 - 2 4 50.0 5 7 12 2 0 0 3 5 -12
+p225
+aVMichael Smith VAN 03/29/1999 VAN @ LAL L 20 10 4 5 80.0 0 0 - 2 2 100.0 8 3 11 0 0 2 2 4 -13
+p226
+aVRodrick Rhodes VAN 03/29/1999 VAN @ LAL L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 2 5 -7
+p227
+aVFelipe Lopez VAN 03/29/1999 VAN @ LAL L 35 16 7 19 36.8 0 3 0.0 2 3 66.7 1 2 3 0 2 0 2 3 -12
+p228
+aVDeJuan Wheat VAN 03/26/1999 VAN vs. UTA L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -5
+p229
+aVJ.R. Henderson VAN 03/26/1999 VAN vs. UTA L 17 4 2 4 50.0 0 0 - 0 2 0.0 0 1 1 3 0 0 0 2 0
+p230
+aVMichael Smith VAN 03/26/1999 VAN vs. UTA L 19 7 2 2 100.0 0 0 - 3 4 75.0 2 2 4 1 0 2 0 2 7
+p231
+aVFelipe Lopez VAN 03/26/1999 VAN vs. UTA L 30 6 3 7 42.9 0 2 0.0 0 0 - 2 6 8 6 1 0 3 2 -5
+p232
+aVTerry Dehere VAN 03/26/1999 VAN vs. UTA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -1
+p233
+aVShareef Abdur-Rahim VAN 03/26/1999 VAN vs. UTA L 43 30 13 21 61.9 2 2 100.0 2 3 66.7 1 8 9 5 1 1 5 3 -4
+p234
+aVTony Massenburg VAN 03/26/1999 VAN vs. UTA L 33 10 4 8 50.0 0 0 - 2 4 50.0 2 4 6 0 1 0 1 5 -8
+p235
+aVPete Chilcutt VAN 03/26/1999 VAN vs. UTA L 29 3 1 7 14.3 1 4 25.0 0 0 - 0 4 4 0 3 0 0 3 -2
+p236
+aVCherokee Parks VAN 03/26/1999 VAN vs. UTA L 15 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 1 0 0 1 -7
+p237
+aVMike Bibby VAN 03/26/1999 VAN vs. UTA L 33 16 7 12 58.3 1 4 25.0 1 2 50.0 0 3 3 4 0 1 4 4 0
+p238
+aVDeJuan Wheat VAN 03/24/1999 VAN vs. PHI L 15 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 3 1 0 1 3 4
+p239
+aVTony Massenburg VAN 03/24/1999 VAN vs. PHI L 38 20 10 16 62.5 0 0 - 0 1 0.0 2 4 6 0 0 1 2 3 -12
+p240
+aVJ.R. Henderson VAN 03/24/1999 VAN vs. PHI L 24 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 18
+p241
+aVFelipe Lopez VAN 03/24/1999 VAN vs. PHI L 34 7 2 8 25.0 0 0 - 3 4 75.0 3 1 4 3 1 1 5 5 -23
+p242
+aVMike Bibby VAN 03/24/1999 VAN vs. PHI L 38 20 9 15 60.0 0 2 0.0 2 2 100.0 0 1 1 9 2 1 3 4 -9
+p243
+aVShareef Abdur-Rahim VAN 03/24/1999 VAN vs. PHI L 48 16 2 17 11.8 0 3 0.0 12 12 100.0 2 7 9 1 0 2 2 2 -5
+p244
+aVPete Chilcutt VAN 03/24/1999 VAN vs. PHI L 34 16 6 14 42.9 3 6 50.0 1 2 50.0 1 6 7 2 0 1 2 1 12
+p245
+aVMichael Smith VAN 03/24/1999 VAN vs. PHI L 26 2 0 1 0.0 0 0 - 2 4 50.0 3 9 12 2 3 0 3 2 7
+p246
+aVCherokee Parks VAN 03/24/1999 VAN vs. PHI L 8 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -17
+p247
+aVPete Chilcutt VAN 03/22/1999 VAN @ PHX L 29 7 2 6 33.3 1 3 33.3 2 2 100.0 1 4 5 3 1 0 0 1 8
+p248
+aVDeJuan Wheat VAN 03/22/1999 VAN @ PHX L 13 4 1 6 16.7 1 2 50.0 1 2 50.0 0 2 2 2 1 0 1 2 12
+p249
+aVCherokee Parks VAN 03/22/1999 VAN @ PHX L 23 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 2 2 -2
+p250
+aVMichael Smith VAN 03/22/1999 VAN @ PHX L 24 6 2 3 66.7 0 0 - 2 4 50.0 0 8 8 1 0 0 0 0 -5
+p251
+aVMike Bibby VAN 03/22/1999 VAN @ PHX L 36 11 5 12 41.7 1 2 50.0 0 0 - 0 1 1 4 2 0 4 4 -15
+p252
+aVJ.R. Henderson VAN 03/22/1999 VAN @ PHX L 23 6 3 7 42.9 0 0 - 0 0 - 1 3 4 3 1 0 2 6 -1
+p253
+aVFelipe Lopez VAN 03/22/1999 VAN @ PHX L 31 14 6 10 60.0 0 0 - 2 4 50.0 1 3 4 2 1 0 2 3 -4
+p254
+aVShareef Abdur-Rahim VAN 03/22/1999 VAN @ PHX L 42 26 8 21 38.1 0 1 0.0 10 12 83.3 1 6 7 2 2 2 2 3 -5
+p255
+aVTony Massenburg VAN 03/22/1999 VAN @ PHX L 19 6 2 5 40.0 0 0 - 2 4 50.0 3 3 6 0 0 2 0 2 -13
+p256
+aVMike Bibby VAN 03/20/1999 VAN vs. SAS L 44 18 7 15 46.7 3 5 60.0 1 2 50.0 0 5 5 9 2 0 5 5 -8
+p257
+aVJ.R. Henderson VAN 03/20/1999 VAN vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p258
+aVBryant Reeves VAN 03/20/1999 VAN vs. SAS L 41 10 4 15 26.7 0 0 - 2 5 40.0 3 6 9 3 1 2 1 5 -2
+p259
+aVMichael Smith VAN 03/20/1999 VAN vs. SAS L 15 2 1 3 33.3 0 0 - 0 2 0.0 2 1 3 0 1 2 1 0 6
+p260
+aVShareef Abdur-Rahim VAN 03/20/1999 VAN vs. SAS L 52 25 8 23 34.8 1 1 100.0 8 9 88.9 3 8 11 4 1 1 7 4 0
+p261
+aVFelipe Lopez VAN 03/20/1999 VAN vs. SAS L 42 8 4 7 57.1 0 0 - 0 2 0.0 3 3 6 3 4 0 3 3 -3
+p262
+aVCherokee Parks VAN 03/20/1999 VAN vs. SAS L 30 6 3 6 50.0 0 0 - 0 0 - 0 8 8 4 0 1 2 5 -10
+p263
+aVDeJuan Wheat VAN 03/20/1999 VAN vs. SAS L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 1 0 2 1 4
+p264
+aVTony Massenburg VAN 03/20/1999 VAN vs. SAS L 19 6 3 10 30.0 0 0 - 0 0 - 3 3 6 0 0 2 2 1 -6
+p265
+aVPete Chilcutt VAN 03/20/1999 VAN vs. SAS L 12 11 4 4 100.0 3 3 100.0 0 0 - 0 1 1 1 0 0 1 1 3
+p266
+aVShareef Abdur-Rahim VAN 03/18/1999 VAN vs. MIN W 40 21 3 11 27.3 0 0 - 15 16 93.8 1 4 5 2 1 2 6 2 1
+p267
+aVCherokee Parks VAN 03/18/1999 VAN vs. MIN W 26 2 0 4 0.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 4 -4
+p268
+aVFelipe Lopez VAN 03/18/1999 VAN vs. MIN W 37 15 4 8 50.0 0 1 0.0 7 8 87.5 1 2 3 4 1 0 1 5 8
+p269
+aVMike Bibby VAN 03/18/1999 VAN vs. MIN W 35 10 4 9 44.4 0 0 - 2 5 40.0 0 5 5 6 5 0 6 2 1
+p270
+aVJ.R. Henderson VAN 03/18/1999 VAN vs. MIN W 13 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -1
+p271
+aVMichael Smith VAN 03/18/1999 VAN vs. MIN W 20 4 2 3 66.7 0 0 - 0 0 - 2 7 9 0 1 1 0 1 7
+p272
+aVPete Chilcutt VAN 03/18/1999 VAN vs. MIN W 9 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 -2
+p273
+aVRodrick Rhodes VAN 03/18/1999 VAN vs. MIN W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p274
+aVBryant Reeves VAN 03/18/1999 VAN vs. MIN W 41 28 10 18 55.6 0 0 - 8 13 61.5 3 10 13 1 1 0 2 5 12
+p275
+aVDeJuan Wheat VAN 03/18/1999 VAN vs. MIN W 13 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 1 4
+p276
+aVFelipe Lopez VAN 03/16/1999 VAN @ SEA L 39 8 3 17 17.6 0 1 0.0 2 4 50.0 4 2 6 5 2 1 2 4 -3
+p277
+aVCherokee Parks VAN 03/16/1999 VAN @ SEA L 34 9 4 10 40.0 0 0 - 1 2 50.0 4 6 10 1 0 1 0 4 -3
+p278
+aVJ.R. Henderson VAN 03/16/1999 VAN @ SEA L 7 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 1
+p279
+aVMichael Smith VAN 03/16/1999 VAN @ SEA L 27 6 2 3 66.7 0 0 - 2 4 50.0 3 8 11 3 1 0 0 1 -1
+p280
+aVBryant Reeves VAN 03/16/1999 VAN @ SEA L 33 21 9 18 50.0 0 0 - 3 7 42.9 4 5 9 0 2 0 1 5 2
+p281
+aVLee Mayberry VAN 03/16/1999 VAN @ SEA L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p282
+aVMike Bibby VAN 03/16/1999 VAN @ SEA L 37 15 4 12 33.3 1 2 50.0 6 8 75.0 2 0 2 3 1 0 1 3 -6
+p283
+aVShareef Abdur-Rahim VAN 03/16/1999 VAN @ SEA L 42 21 8 18 44.4 0 0 - 5 7 71.4 5 6 11 6 1 0 2 5 -3
+p284
+aVPete Chilcutt VAN 03/16/1999 VAN @ SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p285
+aVRodrick Rhodes VAN 03/16/1999 VAN @ SEA L 9 2 0 2 0.0 0 0 - 2 4 50.0 0 0 0 1 0 0 1 1 1
+p286
+aVLee Mayberry VAN 03/15/1999 VAN @ DEN L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 1
+p287
+aVDeJuan Wheat VAN 03/15/1999 VAN @ DEN L 8 4 1 2 50.0 1 1 100.0 1 2 50.0 2 0 2 2 0 0 1 0 0
+p288
+aVMike Bibby VAN 03/15/1999 VAN @ DEN L 26 12 5 10 50.0 0 0 - 2 2 100.0 0 3 3 5 1 0 4 1 -27
+p289
+aVFelipe Lopez VAN 03/15/1999 VAN @ DEN L 34 14 6 14 42.9 1 1 100.0 1 2 50.0 1 3 4 1 0 0 3 4 -19
+p290
+aVMichael Smith VAN 03/15/1999 VAN @ DEN L 22 4 2 5 40.0 0 0 - 0 2 0.0 3 5 8 0 1 0 0 1 -2
+p291
+aVCherokee Parks VAN 03/15/1999 VAN @ DEN L 35 3 1 5 20.0 0 0 - 1 3 33.3 2 3 5 0 2 1 4 2 -26
+p292
+aVPete Chilcutt VAN 03/15/1999 VAN @ DEN L 21 8 3 6 50.0 1 1 100.0 1 2 50.0 1 4 5 0 0 1 2 1 -3
+p293
+aVJ.R. Henderson VAN 03/15/1999 VAN @ DEN L 10 10 2 5 40.0 0 0 - 6 10 60.0 1 2 3 1 0 0 1 0 2
+p294
+aVRodrick Rhodes VAN 03/15/1999 VAN @ DEN L 19 10 3 6 50.0 0 0 - 4 6 66.7 1 0 1 1 1 0 1 1 -12
+p295
+aVBryant Reeves VAN 03/15/1999 VAN @ DEN L 18 4 1 6 16.7 0 0 - 2 2 100.0 0 3 3 0 0 0 1 4 -21
+p296
+aVShareef Abdur-Rahim VAN 03/15/1999 VAN @ DEN L 33 15 7 15 46.7 0 0 - 1 1 100.0 2 4 6 4 1 0 3 2 -23
+p297
+aVFelipe Lopez VAN 03/13/1999 VAN @ DAL L 32 21 8 13 61.5 0 1 0.0 5 7 71.4 1 3 4 0 1 1 2 4 -17
+p298
+aVShareef Abdur-Rahim VAN 03/13/1999 VAN @ DAL L 41 21 8 15 53.3 0 0 - 5 8 62.5 1 7 8 3 1 1 4 2 -10
+p299
+aVMichael Smith VAN 03/13/1999 VAN @ DAL L 13 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 1 0 3 3 -3
+p300
+aVBryant Reeves VAN 03/13/1999 VAN @ DAL L 29 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 3 0 0 1 5 -17
+p301
+aVMike Bibby VAN 03/13/1999 VAN @ DAL L 33 11 4 14 28.6 0 3 0.0 3 4 75.0 1 2 3 3 1 1 4 3 -19
+p302
+aVRodrick Rhodes VAN 03/13/1999 VAN @ DAL L 23 2 1 7 14.3 0 0 - 0 0 - 2 1 3 1 0 1 4 2 -15
+p303
+aVPete Chilcutt VAN 03/13/1999 VAN @ DAL L 25 9 4 8 50.0 1 1 100.0 0 0 - 1 2 3 0 2 1 1 1 5
+p304
+aVLee Mayberry VAN 03/13/1999 VAN @ DAL L 15 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 1 2
+p305
+aVCherokee Parks VAN 03/13/1999 VAN @ DAL L 28 3 1 2 50.0 0 0 - 1 1 100.0 2 8 10 1 1 0 2 4 -11
+p306
+aVDeJuan Wheat VAN 03/11/1999 VAN @ HOU L 4 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 1 2 0 2 0 6
+p307
+aVFelipe Lopez VAN 03/11/1999 VAN @ HOU L 33 6 2 9 22.2 0 0 - 2 4 50.0 1 1 2 0 1 2 0 4 -6
+p308
+aVLee Mayberry VAN 03/11/1999 VAN @ HOU L 24 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 2 1 0 2 3 -5
+p309
+aVShareef Abdur-Rahim VAN 03/11/1999 VAN @ HOU L 40 27 11 16 68.8 0 0 - 5 6 83.3 1 7 8 5 2 2 5 4 -6
+p310
+aVBryant Reeves VAN 03/11/1999 VAN @ HOU L 35 11 5 11 45.5 0 0 - 1 4 25.0 1 4 5 1 0 1 2 5 -17
+p311
+aVMichael Smith VAN 03/11/1999 VAN @ HOU L 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -3
+p312
+aVPete Chilcutt VAN 03/11/1999 VAN @ HOU L 22 6 2 6 33.3 0 2 0.0 2 2 100.0 3 1 4 1 0 0 0 5 0
+p313
+aVMike Bibby VAN 03/11/1999 VAN @ HOU L 38 26 11 20 55.0 0 1 0.0 4 5 80.0 0 3 3 7 2 0 2 2 -19
+p314
+aVCherokee Parks VAN 03/11/1999 VAN @ HOU L 32 4 2 8 25.0 0 0 - 0 0 - 3 6 9 1 1 0 1 1 -5
+p315
+aVTony Massenburg VAN 03/09/1999 VAN @ GSW L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p316
+aVBryant Reeves VAN 03/09/1999 VAN @ GSW L 13 5 2 5 40.0 0 0 - 1 2 50.0 0 4 4 0 1 0 2 1 1
+p317
+aVFelipe Lopez VAN 03/09/1999 VAN @ GSW L 33 6 3 7 42.9 0 0 - 0 0 - 1 2 3 2 0 0 0 4 -6
+p318
+aVShareef Abdur-Rahim VAN 03/09/1999 VAN @ GSW L 45 35 13 31 41.9 2 3 66.7 7 10 70.0 3 5 8 2 0 2 2 3 -10
+p319
+aVMichael Smith VAN 03/09/1999 VAN @ GSW L 20 7 2 4 50.0 0 0 - 3 5 60.0 4 3 7 2 1 0 1 0 1
+p320
+aVCherokee Parks VAN 03/09/1999 VAN @ GSW L 34 12 6 10 60.0 0 0 - 0 0 - 4 8 12 1 1 1 2 3 -12
+p321
+aVMike Bibby VAN 03/09/1999 VAN @ GSW L 32 6 2 9 22.2 1 2 50.0 1 2 50.0 0 3 3 5 2 0 4 4 -9
+p322
+aVSam Mack VAN 03/09/1999 VAN @ GSW L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -4
+p323
+aVLee Mayberry VAN 03/09/1999 VAN @ GSW L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 3 0 3 1 -1
+p324
+aVPete Chilcutt VAN 03/09/1999 VAN @ GSW L 28 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 3 1 1 0 2 -12
+p325
+aVMike Bibby VAN 03/08/1999 VAN vs. POR L 30 11 4 10 40.0 0 1 0.0 3 3 100.0 1 3 4 5 0 0 3 2 -8
+p326
+aVSam Mack VAN 03/08/1999 VAN vs. POR L 23 8 2 11 18.2 1 5 20.0 3 3 100.0 1 4 5 0 2 1 2 2 -10
+p327
+aVMichael Smith VAN 03/08/1999 VAN vs. POR L 18 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 2 1 0 1 3 -15
+p328
+aVFelipe Lopez VAN 03/08/1999 VAN vs. POR L 28 12 5 12 41.7 0 1 0.0 2 2 100.0 3 3 6 1 3 1 1 2 -9
+p329
+aVBryant Reeves VAN 03/08/1999 VAN vs. POR L 32 5 2 7 28.6 0 0 - 1 5 20.0 3 2 5 0 1 0 2 5 -10
+p330
+aVCherokee Parks VAN 03/08/1999 VAN vs. POR L 37 6 2 10 20.0 0 0 - 2 2 100.0 5 4 9 1 0 1 3 3 -11
+p331
+aVDeJuan Wheat VAN 03/08/1999 VAN vs. POR L 18 3 0 4 0.0 0 1 0.0 3 4 75.0 0 1 1 2 1 0 2 1 -11
+p332
+aVPete Chilcutt VAN 03/08/1999 VAN vs. POR L 18 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 2 0 -3
+p333
+aVShareef Abdur-Rahim VAN 03/08/1999 VAN vs. POR L 36 19 6 11 54.5 0 0 - 7 7 100.0 0 6 6 0 1 1 4 1 -18
+p334
+aVDoug West VAN 03/06/1999 VAN vs. HOU L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -7
+p335
+aVPete Chilcutt VAN 03/06/1999 VAN vs. HOU L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -6
+p336
+aVMike Bibby VAN 03/06/1999 VAN vs. HOU L 34 16 7 15 46.7 1 1 100.0 1 2 50.0 1 1 2 4 3 0 3 0 -9
+p337
+aVTony Massenburg VAN 03/06/1999 VAN vs. HOU L 24 5 1 4 25.0 0 0 - 3 3 100.0 2 3 5 0 0 1 1 4 -9
+p338
+aVShareef Abdur-Rahim VAN 03/06/1999 VAN vs. HOU L 38 26 11 27 40.7 0 2 0.0 4 4 100.0 5 7 12 3 6 0 3 2 -14
+p339
+aVCherokee Parks VAN 03/06/1999 VAN vs. HOU L 11 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 1 0 2 2 -8
+p340
+aVFelipe Lopez VAN 03/06/1999 VAN vs. HOU L 19 3 1 4 25.0 0 0 - 1 6 16.7 2 2 4 1 0 0 2 4 -4
+p341
+aVMichael Smith VAN 03/06/1999 VAN vs. HOU L 15 0 0 0 - 0 0 - 0 0 - 1 1 2 0 2 0 0 3 4
+p342
+aVBryant Reeves VAN 03/06/1999 VAN vs. HOU L 38 11 5 14 35.7 0 0 - 1 2 50.0 5 3 8 3 0 1 2 5 -11
+p343
+aVDeJuan Wheat VAN 03/06/1999 VAN vs. HOU L 14 6 2 9 22.2 0 3 0.0 2 2 100.0 0 1 1 4 0 0 1 5 -6
+p344
+aVSam Mack VAN 03/06/1999 VAN vs. HOU L 33 21 8 17 47.1 2 7 28.6 3 4 75.0 1 0 1 3 1 0 0 1 -5
+p345
+aVLee Mayberry VAN 03/04/1999 VAN vs. MIN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -4
+p346
+aVFelipe Lopez VAN 03/04/1999 VAN vs. MIN L 16 11 4 6 66.7 0 0 - 3 4 75.0 2 1 3 1 1 0 1 5 1
+p347
+aVMichael Smith VAN 03/04/1999 VAN vs. MIN L 20 1 0 1 0.0 0 0 - 1 2 50.0 3 6 9 1 0 1 1 4 3
+p348
+aVPete Chilcutt VAN 03/04/1999 VAN vs. MIN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p349
+aVDeJuan Wheat VAN 03/04/1999 VAN vs. MIN L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 5
+p350
+aVTony Massenburg VAN 03/04/1999 VAN vs. MIN L 24 15 7 10 70.0 0 0 - 1 2 50.0 0 5 5 1 2 3 0 2 -7
+p351
+aVCherokee Parks VAN 03/04/1999 VAN vs. MIN L 27 10 4 7 57.1 0 0 - 2 6 33.3 3 5 8 1 0 1 5 1 -11
+p352
+aVBryant Reeves VAN 03/04/1999 VAN vs. MIN L 24 15 6 12 50.0 0 0 - 3 4 75.0 0 6 6 0 0 0 3 4 -2
+p353
+aVShareef Abdur-Rahim VAN 03/04/1999 VAN vs. MIN L 34 22 8 16 50.0 1 1 100.0 5 7 71.4 2 4 6 3 1 0 4 3 -13
+p354
+aVMike Bibby VAN 03/04/1999 VAN vs. MIN L 30 2 1 8 12.5 0 1 0.0 0 2 0.0 2 0 2 12 1 0 2 2 -10
+p355
+aVDoug West VAN 03/04/1999 VAN vs. MIN L 23 4 2 4 50.0 0 0 - 0 0 - 1 0 1 4 1 0 3 4 -6
+p356
+aVSam Mack VAN 03/04/1999 VAN vs. MIN L 21 10 3 9 33.3 2 6 33.3 2 2 100.0 0 1 1 1 1 0 0 3 2
+p357
+aVShareef Abdur-Rahim VAN 03/03/1999 VAN @ UTA L 32 17 5 14 35.7 1 1 100.0 6 9 66.7 2 3 5 2 1 1 3 2 -26
+p358
+aVPete Chilcutt VAN 03/03/1999 VAN @ UTA L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -9
+p359
+aVFelipe Lopez VAN 03/03/1999 VAN @ UTA L 14 7 3 7 42.9 0 1 0.0 1 1 100.0 0 2 2 0 1 0 0 4 -5
+p360
+aVSam Mack VAN 03/03/1999 VAN @ UTA L 33 23 7 13 53.8 6 9 66.7 3 4 75.0 0 0 0 3 3 0 3 3 -14
+p361
+aVTony Massenburg VAN 03/03/1999 VAN @ UTA L 22 5 2 7 28.6 0 0 - 1 2 50.0 2 4 6 0 1 0 0 2 -9
+p362
+aVDoug West VAN 03/03/1999 VAN @ UTA L 20 11 5 5 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 2 -7
+p363
+aVMike Bibby VAN 03/03/1999 VAN @ UTA L 24 12 6 10 60.0 0 1 0.0 0 0 - 1 0 1 6 0 0 2 2 -18
+p364
+aVLee Mayberry VAN 03/03/1999 VAN @ UTA L 16 4 1 2 50.0 1 2 50.0 1 2 50.0 0 1 1 3 0 0 1 2 -8
+p365
+aVMichael Smith VAN 03/03/1999 VAN @ UTA L 21 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 0 0 4 -5
+p366
+aVBryant Reeves VAN 03/03/1999 VAN @ UTA L 26 3 1 7 14.3 0 0 - 1 2 50.0 0 3 3 1 1 0 1 2 -14
+p367
+aVCherokee Parks VAN 03/03/1999 VAN @ UTA L 14 0 0 3 0.0 0 0 - 0 0 - 0 3 3 2 0 1 0 0 -3
+p368
+aVDeJuan Wheat VAN 03/03/1999 VAN @ UTA L 8 2 0 4 0.0 0 2 0.0 2 2 100.0 1 1 2 1 2 0 2 0 3
+p369
+aVBryant Reeves VAN 03/02/1999 VAN vs. SAC L 35 13 6 15 40.0 0 0 - 1 2 50.0 2 4 6 3 0 0 2 6 -9
+p370
+aVDoug West VAN 03/02/1999 VAN vs. SAC L 27 13 3 5 60.0 0 1 0.0 7 8 87.5 0 2 2 2 1 1 2 2 -4
+p371
+aVFelipe Lopez VAN 03/02/1999 VAN vs. SAC L 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 3 -4
+p372
+aVMichael Smith VAN 03/02/1999 VAN vs. SAC L 19 0 0 2 0.0 0 0 - 0 0 - 3 4 7 0 1 0 4 2 -3
+p373
+aVTony Massenburg VAN 03/02/1999 VAN vs. SAC L 25 11 4 9 44.4 0 0 - 3 4 75.0 1 4 5 1 2 0 0 4 -5
+p374
+aVSam Mack VAN 03/02/1999 VAN vs. SAC L 21 6 2 9 22.2 2 5 40.0 0 0 - 0 0 0 3 1 0 0 3 -6
+p375
+aVPete Chilcutt VAN 03/02/1999 VAN vs. SAC L 18 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -3
+p376
+aVShareef Abdur-Rahim VAN 03/02/1999 VAN vs. SAC L 39 29 13 26 50.0 0 0 - 3 6 50.0 5 7 12 2 1 0 0 3 -6
+p377
+aVLee Mayberry VAN 03/02/1999 VAN vs. SAC L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 3 2 0 1 1 -1
+p378
+aVMike Bibby VAN 03/02/1999 VAN vs. SAC L 33 19 9 11 81.8 0 0 - 1 1 100.0 2 3 5 6 0 0 5 1 -9
+p379
+aVShareef Abdur-Rahim VAN 02/28/1999 VAN @ DEN L 39 18 5 15 33.3 0 0 - 8 9 88.9 2 4 6 5 2 1 3 2 -5
+p380
+aVDeJuan Wheat VAN 02/28/1999 VAN @ DEN L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p381
+aVBryant Reeves VAN 02/28/1999 VAN @ DEN L 24 16 7 14 50.0 0 0 - 2 4 50.0 2 2 4 3 0 0 0 5 1
+p382
+aVDoug West VAN 02/28/1999 VAN @ DEN L 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 1 0 3 -2
+p383
+aVCherokee Parks VAN 02/28/1999 VAN @ DEN L 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 3 0 1 0 -23
+p384
+aVMichael Smith VAN 02/28/1999 VAN @ DEN L 21 12 5 6 83.3 0 0 - 2 3 66.7 1 4 5 1 1 0 3 2 7
+p385
+aVSam Mack VAN 02/28/1999 VAN @ DEN L 29 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 1 0 0 2 1 0
+p386
+aVLee Mayberry VAN 02/28/1999 VAN @ DEN L 9 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 6 1 0 1 3 -2
+p387
+aVFelipe Lopez VAN 02/28/1999 VAN @ DEN L 15 4 1 2 50.0 1 2 50.0 1 4 25.0 1 1 2 0 1 0 1 0 1
+p388
+aVTony Massenburg VAN 02/28/1999 VAN @ DEN L 24 27 10 15 66.7 0 0 - 7 13 53.8 3 4 7 0 1 2 1 5 -5
+p389
+aVPete Chilcutt VAN 02/28/1999 VAN @ DEN L 10 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 0 10
+p390
+aVMike Bibby VAN 02/28/1999 VAN @ DEN L 34 15 6 9 66.7 0 1 0.0 3 3 100.0 0 3 3 10 1 0 1 2 4
+p391
+aVDoug West VAN 02/27/1999 VAN vs. HOU L 21 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 1 1 1 4 2
+p392
+aVBryant Reeves VAN 02/27/1999 VAN vs. HOU L 24 5 2 9 22.2 0 0 - 1 3 33.3 1 4 5 4 0 0 5 3 -10
+p393
+aVMike Bibby VAN 02/27/1999 VAN vs. HOU L 35 14 5 9 55.6 0 0 - 4 4 100.0 0 2 2 2 0 0 2 2 -17
+p394
+aVDeJuan Wheat VAN 02/27/1999 VAN vs. HOU L 13 4 2 4 50.0 0 0 - 0 2 0.0 1 0 1 3 0 0 0 1 5
+p395
+aVMichael Smith VAN 02/27/1999 VAN vs. HOU L 18 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -16
+p396
+aVCherokee Parks VAN 02/27/1999 VAN vs. HOU L 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -6
+p397
+aVPete Chilcutt VAN 02/27/1999 VAN vs. HOU L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 1 0 9
+p398
+aVFelipe Lopez VAN 02/27/1999 VAN vs. HOU L 21 9 4 6 66.7 0 0 - 1 1 100.0 1 3 4 0 2 0 3 1 9
+p399
+aVTony Massenburg VAN 02/27/1999 VAN vs. HOU L 26 11 5 12 41.7 0 0 - 1 2 50.0 3 1 4 0 1 0 1 0 -5
+p400
+aVSam Mack VAN 02/27/1999 VAN vs. HOU L 22 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 0 0 0 1 1 -16
+p401
+aVShareef Abdur-Rahim VAN 02/27/1999 VAN vs. HOU L 41 20 8 20 40.0 0 0 - 4 5 80.0 4 12 16 1 0 0 6 2 -15
+p402
+aVDoug West VAN 02/25/1999 VAN vs. PHX L 30 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 0 2 1 1 2 2
+p403
+aVDeJuan Wheat VAN 02/25/1999 VAN vs. PHX L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -3
+p404
+aVMike Bibby VAN 02/25/1999 VAN vs. PHX L 38 16 5 13 38.5 2 6 33.3 4 4 100.0 0 0 0 10 2 0 5 3 -5
+p405
+aVMichael Smith VAN 02/25/1999 VAN vs. PHX L 26 5 2 2 100.0 0 0 - 1 1 100.0 2 9 11 0 1 0 0 1 -3
+p406
+aVBryant Reeves VAN 02/25/1999 VAN vs. PHX L 21 8 3 7 42.9 0 0 - 2 5 40.0 5 1 6 1 1 0 3 4 -17
+p407
+aVShareef Abdur-Rahim VAN 02/25/1999 VAN vs. PHX L 42 22 7 17 41.2 0 1 0.0 8 10 80.0 3 6 9 5 3 1 7 3 -8
+p408
+aVCherokee Parks VAN 02/25/1999 VAN vs. PHX L 17 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 1 0 1 1 1 1
+p409
+aVSam Mack VAN 02/25/1999 VAN vs. PHX L 29 8 4 11 36.4 0 4 0.0 0 0 - 1 1 2 1 0 0 3 4 -16
+p410
+aVTony Massenburg VAN 02/25/1999 VAN vs. PHX L 27 10 3 7 42.9 0 0 - 4 6 66.7 0 7 7 0 0 0 2 2 9
+p411
+aVDoug West VAN 02/23/1999 VAN vs. LAL W 31 16 7 10 70.0 0 0 - 2 4 50.0 1 3 4 1 2 0 0 3 18
+p412
+aVTony Massenburg VAN 02/23/1999 VAN vs. LAL W 28 11 3 6 50.0 0 0 - 5 7 71.4 0 4 4 1 0 1 2 2 13
+p413
+aVDeJuan Wheat VAN 02/23/1999 VAN vs. LAL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 4 0 0 0 1 1
+p414
+aVBryant Reeves VAN 02/23/1999 VAN vs. LAL W 22 7 2 9 22.2 0 0 - 3 5 60.0 0 5 5 2 0 1 1 6 1
+p415
+aVCherokee Parks VAN 02/23/1999 VAN vs. LAL W 26 8 3 4 75.0 0 0 - 2 2 100.0 1 5 6 1 0 0 1 5 16
+p416
+aVSam Mack VAN 02/23/1999 VAN vs. LAL W 24 3 1 6 16.7 1 3 33.3 0 0 - 1 3 4 1 1 0 1 6 -3
+p417
+aVMichael Smith VAN 02/23/1999 VAN vs. LAL W 19 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 1 1 0 1 2 -11
+p418
+aVMike Bibby VAN 02/23/1999 VAN vs. LAL W 41 13 5 11 45.5 1 3 33.3 2 2 100.0 2 3 5 8 0 0 4 0 9
+p419
+aVFelipe Lopez VAN 02/23/1999 VAN vs. LAL W 1 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 0 1 0 0 1
+p420
+aVShareef Abdur-Rahim VAN 02/23/1999 VAN vs. LAL W 41 28 6 18 33.3 0 0 - 16 19 84.2 2 12 14 3 1 0 5 2 5
+p421
+aVBryant Reeves VAN 02/21/1999 VAN @ TOR L 30 13 4 10 40.0 0 0 - 5 8 62.5 0 2 2 5 1 0 4 4 -10
+p422
+aVShareef Abdur-Rahim VAN 02/21/1999 VAN @ TOR L 38 23 9 17 52.9 0 2 0.0 5 5 100.0 1 5 6 3 1 5 1 4 -18
+p423
+aVDeJuan Wheat VAN 02/21/1999 VAN @ TOR L 11 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 1 0 2 0 4
+p424
+aVPete Chilcutt VAN 02/21/1999 VAN @ TOR L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 1 -1
+p425
+aVDoug West VAN 02/21/1999 VAN @ TOR L 25 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 0 1 0 2 -2
+p426
+aVCherokee Parks VAN 02/21/1999 VAN @ TOR L 14 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 2 -7
+p427
+aVFelipe Lopez VAN 02/21/1999 VAN @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p428
+aVMike Bibby VAN 02/21/1999 VAN @ TOR L 37 11 4 10 40.0 1 3 33.3 2 4 50.0 0 1 1 4 1 0 3 4 -19
+p429
+aVMichael Smith VAN 02/21/1999 VAN @ TOR L 15 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 1 1 1 2 -4
+p430
+aVSam Mack VAN 02/21/1999 VAN @ TOR L 39 13 3 9 33.3 2 4 50.0 5 5 100.0 0 5 5 0 1 0 2 5 -13
+p431
+aVTony Massenburg VAN 02/21/1999 VAN @ TOR L 18 8 4 7 57.1 0 0 - 0 0 - 1 4 5 0 0 0 2 2 -5
+p432
+aVFelipe Lopez VAN 02/19/1999 VAN @ MIN L 9 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 1 1
+p433
+aVDeJuan Wheat VAN 02/19/1999 VAN @ MIN L 19 10 3 5 60.0 1 2 50.0 3 6 50.0 0 0 0 6 2 0 5 5 -4
+p434
+aVDoug West VAN 02/19/1999 VAN @ MIN L 23 7 3 5 60.0 0 0 - 1 3 33.3 0 1 1 3 1 1 0 2 -12
+p435
+aVTony Massenburg VAN 02/19/1999 VAN @ MIN L 15 4 2 4 50.0 0 0 - 0 0 - 0 5 5 0 0 0 1 1 -8
+p436
+aVBryant Reeves VAN 02/19/1999 VAN @ MIN L 30 11 3 7 42.9 0 0 - 5 10 50.0 2 6 8 1 0 1 3 4 -6
+p437
+aVMike Bibby VAN 02/19/1999 VAN @ MIN L 29 4 2 8 25.0 0 0 - 0 0 - 1 2 3 6 2 0 2 3 -15
+p438
+aVCherokee Parks VAN 02/19/1999 VAN @ MIN L 27 12 6 12 50.0 0 0 - 0 0 - 4 1 5 0 1 1 0 2 -14
+p439
+aVPete Chilcutt VAN 02/19/1999 VAN @ MIN L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 1 0 2 0 5
+p440
+aVShareef Abdur-Rahim VAN 02/19/1999 VAN @ MIN L 36 21 8 20 40.0 0 0 - 5 8 62.5 5 4 9 3 2 0 4 4 -20
+p441
+aVSam Mack VAN 02/19/1999 VAN @ MIN L 32 19 8 14 57.1 2 7 28.6 1 1 100.0 0 2 2 4 0 0 0 0 -7
+p442
+aVMichael Smith VAN 02/19/1999 VAN @ MIN L 11 2 1 1 100.0 0 0 - 0 0 - 3 0 3 1 0 0 0 1 -15
+p443
+aVBryant Reeves VAN 02/17/1999 VAN vs. BOS L 35 19 4 7 57.1 0 0 - 11 12 91.7 2 6 8 1 0 0 2 6 5
+p444
+aVFelipe Lopez VAN 02/17/1999 VAN vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p445
+aVTony Massenburg VAN 02/17/1999 VAN vs. BOS L 28 10 4 9 44.4 0 0 - 2 2 100.0 3 5 8 0 1 2 2 1 -1
+p446
+aVDeJuan Wheat VAN 02/17/1999 VAN vs. BOS L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 3 0 0 1 2 1
+p447
+aVShareef Abdur-Rahim VAN 02/17/1999 VAN vs. BOS L 56 39 15 25 60.0 0 0 - 9 10 90.0 4 9 13 5 1 1 8 5 -5
+p448
+aVCherokee Parks VAN 02/17/1999 VAN vs. BOS L 15 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 1 0 1 2 3 -8
+p449
+aVSam Mack VAN 02/17/1999 VAN vs. BOS L 49 20 5 16 31.3 2 7 28.6 8 8 100.0 1 3 4 0 1 0 0 4 -2
+p450
+aVMike Bibby VAN 02/17/1999 VAN vs. BOS L 54 23 6 14 42.9 0 0 - 11 12 91.7 0 2 2 11 1 0 6 3 -2
+p451
+aVMichael Smith VAN 02/17/1999 VAN vs. BOS L 44 4 2 4 50.0 0 0 - 0 0 - 5 8 13 4 2 1 3 4 2
+p452
+aVDoug West VAN 02/17/1999 VAN vs. BOS L 22 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 3 4 1 3 6 0
+p453
+aVJason Sasser VAN 02/16/1999 VAN @ LAC W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -3
+p454
+aVMike Bibby VAN 02/16/1999 VAN @ LAC W 42 17 7 14 50.0 0 2 0.0 3 4 75.0 2 1 3 5 4 0 2 4 9
+p455
+aVPete Chilcutt VAN 02/16/1999 VAN @ LAC W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p456
+aVDoug West VAN 02/16/1999 VAN @ LAC W 18 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 1 3 -5
+p457
+aVMichael Smith VAN 02/16/1999 VAN @ LAC W 37 2 0 2 0.0 0 0 - 2 4 50.0 5 10 15 1 4 1 0 2 16
+p458
+aVCarl Herrera VAN 02/16/1999 VAN @ LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p459
+aVTony Massenburg VAN 02/16/1999 VAN @ LAC W 26 4 2 6 33.3 0 0 - 0 0 - 1 6 7 2 0 0 1 4 11
+p460
+aVSam Mack VAN 02/16/1999 VAN @ LAC W 50 22 9 21 42.9 4 11 36.4 0 0 - 0 7 7 1 3 0 1 3 19
+p461
+aVShareef Abdur-Rahim VAN 02/16/1999 VAN @ LAC W 45 20 7 26 26.9 0 1 0.0 6 7 85.7 2 7 9 5 0 1 3 3 1
+p462
+aVCherokee Parks VAN 02/16/1999 VAN @ LAC W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -9
+p463
+aVBryant Reeves VAN 02/16/1999 VAN @ LAC W 32 15 6 9 66.7 0 0 - 3 5 60.0 1 1 2 0 1 0 4 4 -7
+p464
+aVDeJuan Wheat VAN 02/16/1999 VAN @ LAC W 16 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 1 0 0 -5
+p465
+aVPete Chilcutt VAN 02/14/1999 VAN vs. DAL W 9 0 0 2 0.0 0 1 0.0 0 0 - 2 4 6 0 0 0 1 1 -3
+p466
+aVShareef Abdur-Rahim VAN 02/14/1999 VAN vs. DAL W 42 24 9 17 52.9 0 0 - 6 6 100.0 2 4 6 2 3 3 4 3 8
+p467
+aVDoug West VAN 02/14/1999 VAN vs. DAL W 23 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 2 1 0 0 3 -5
+p468
+aVJason Sasser VAN 02/14/1999 VAN vs. DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p469
+aVMike Bibby VAN 02/14/1999 VAN vs. DAL W 34 10 4 11 36.4 0 1 0.0 2 2 100.0 2 3 5 10 2 0 2 0 8
+p470
+aVMichael Smith VAN 02/14/1999 VAN vs. DAL W 21 5 0 0 - 0 0 - 5 6 83.3 4 4 8 1 1 1 1 1 11
+p471
+aVCarl Herrera VAN 02/14/1999 VAN vs. DAL W 11 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -5
+p472
+aVBryant Reeves VAN 02/14/1999 VAN vs. DAL W 23 6 2 8 25.0 0 0 - 2 2 100.0 1 1 2 0 0 1 3 4 -11
+p473
+aVTony Massenburg VAN 02/14/1999 VAN vs. DAL W 25 10 5 8 62.5 0 0 - 0 0 - 3 2 5 1 1 0 2 0 15
+p474
+aVDeJuan Wheat VAN 02/14/1999 VAN vs. DAL W 14 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 5 1 0 0 1 -4
+p475
+aVSam Mack VAN 02/14/1999 VAN vs. DAL W 34 26 9 19 47.4 8 13 61.5 0 0 - 0 1 1 1 4 0 1 4 7
+p476
+aVSam Mack VAN 02/11/1999 VAN vs. IND L 34 20 9 13 69.2 1 3 33.3 1 1 100.0 1 2 3 0 0 0 1 0 -7
+p477
+aVJason Sasser VAN 02/11/1999 VAN vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 3
+p478
+aVCherokee Parks VAN 02/11/1999 VAN vs. IND L 25 4 2 6 33.3 0 0 - 0 0 - 1 5 6 0 0 1 2 2 -9
+p479
+aVJ.R. Henderson VAN 02/11/1999 VAN vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p480
+aVBryant Reeves VAN 02/11/1999 VAN vs. IND L 32 13 6 13 46.2 0 0 - 1 2 50.0 4 2 6 0 1 0 1 2 0
+p481
+aVPete Chilcutt VAN 02/11/1999 VAN vs. IND L 13 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 1 7
+p482
+aVFelipe Lopez VAN 02/11/1999 VAN vs. IND L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 4 1
+p483
+aVMichael Smith VAN 02/11/1999 VAN vs. IND L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 0
+p484
+aVMike Bibby VAN 02/11/1999 VAN vs. IND L 35 12 6 8 75.0 0 0 - 0 0 - 3 2 5 5 0 0 2 2 -7
+p485
+aVTony Massenburg VAN 02/11/1999 VAN vs. IND L 16 3 1 7 14.3 0 0 - 1 2 50.0 1 0 1 1 0 0 1 3 -4
+p486
+aVShareef Abdur-Rahim VAN 02/11/1999 VAN vs. IND L 43 32 10 21 47.6 0 0 - 12 13 92.3 2 5 7 11 3 0 0 3 -7
+p487
+aVDeJuan Wheat VAN 02/11/1999 VAN vs. IND L 13 7 3 4 75.0 1 2 50.0 0 0 - 1 3 4 3 0 0 0 0 3
+p488
+aVCherokee Parks VAN 02/10/1999 VAN vs. LAC W 25 10 5 7 71.4 0 0 - 0 0 - 1 3 4 1 0 2 1 5 11
+p489
+aVFelipe Lopez VAN 02/10/1999 VAN vs. LAC W 15 8 4 7 57.1 0 1 0.0 0 0 - 1 2 3 2 1 0 2 2 -5
+p490
+aVDeJuan Wheat VAN 02/10/1999 VAN vs. LAC W 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p491
+aVMike Bibby VAN 02/10/1999 VAN vs. LAC W 40 18 6 13 46.2 0 1 0.0 6 7 85.7 0 4 4 12 2 0 6 2 7
+p492
+aVBryant Reeves VAN 02/10/1999 VAN vs. LAC W 25 9 2 6 33.3 0 0 - 5 8 62.5 2 1 3 2 1 0 0 5 1
+p493
+aVPete Chilcutt VAN 02/10/1999 VAN vs. LAC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p494
+aVCarl Herrera VAN 02/10/1999 VAN vs. LAC W 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -1
+p495
+aVSam Mack VAN 02/10/1999 VAN vs. LAC W 33 13 5 13 38.5 3 7 42.9 0 0 - 0 4 4 0 2 0 0 4 11
+p496
+aVShareef Abdur-Rahim VAN 02/10/1999 VAN vs. LAC W 37 35 9 20 45.0 1 1 100.0 16 17 94.1 4 5 9 2 1 0 2 2 2
+p497
+aVTony Massenburg VAN 02/10/1999 VAN vs. LAC W 27 6 1 7 14.3 0 0 - 4 4 100.0 4 5 9 2 0 0 1 1 3
+p498
+aVJason Sasser VAN 02/10/1999 VAN vs. LAC W 11 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 4
+p499
+aVSam Mack VAN 02/08/1999 VAN vs. POR L 26 11 4 8 50.0 1 3 33.3 2 2 100.0 1 3 4 1 0 0 0 3 -7
+p500
+aVPete Chilcutt VAN 02/08/1999 VAN vs. POR L 21 4 1 6 16.7 0 1 0.0 2 2 100.0 2 3 5 2 4 0 2 1 2
+p501
+aVBryant Reeves VAN 02/08/1999 VAN vs. POR L 13 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 3 -11
+p502
+aVShareef Abdur-Rahim VAN 02/08/1999 VAN vs. POR L 42 14 4 15 26.7 0 0 - 6 8 75.0 3 5 8 0 2 1 7 2 -11
+p503
+aVDeJuan Wheat VAN 02/08/1999 VAN vs. POR L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 3 -7
+p504
+aVCarl Herrera VAN 02/08/1999 VAN vs. POR L 14 2 1 7 14.3 0 0 - 0 2 0.0 2 2 4 0 0 0 2 0 -13
+p505
+aVTony Massenburg VAN 02/08/1999 VAN vs. POR L 35 24 9 15 60.0 0 0 - 6 8 75.0 7 2 9 0 1 0 2 4 -8
+p506
+aVCherokee Parks VAN 02/08/1999 VAN vs. POR L 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -8
+p507
+aVFelipe Lopez VAN 02/08/1999 VAN vs. POR L 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -7
+p508
+aVMike Bibby VAN 02/08/1999 VAN vs. POR L 41 3 1 12 8.3 1 4 25.0 0 0 - 0 2 2 7 3 0 2 1 -12
+p509
+aVJason Sasser VAN 02/08/1999 VAN vs. POR L 6 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 2 -8
+p510
+aVDoug West VAN 02/08/1999 VAN vs. POR L 11 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 1 0 0 2 -5
+p511
+aVJason Sasser VAN 02/07/1999 VAN @ SAC L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -2
+p512
+aVDeJuan Wheat VAN 02/07/1999 VAN @ SAC L 12 9 3 6 50.0 2 2 100.0 1 3 33.3 0 1 1 0 0 0 0 1 -1
+p513
+aVMichael Smith VAN 02/07/1999 VAN @ SAC L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -7
+p514
+aVCherokee Parks VAN 02/07/1999 VAN @ SAC L 21 6 1 7 14.3 0 0 - 4 6 66.7 5 2 7 0 0 1 1 1 -11
+p515
+aVTony Massenburg VAN 02/07/1999 VAN @ SAC L 19 10 4 4 100.0 0 0 - 2 3 66.7 2 2 4 1 1 0 3 1 -13
+p516
+aVPete Chilcutt VAN 02/07/1999 VAN @ SAC L 15 2 1 5 20.0 0 3 0.0 0 0 - 2 5 7 0 1 0 1 1 -2
+p517
+aVFelipe Lopez VAN 02/07/1999 VAN @ SAC L 19 8 1 4 25.0 0 1 0.0 6 6 100.0 0 0 0 2 2 0 0 1 -3
+p518
+aVSam Mack VAN 02/07/1999 VAN @ SAC L 29 11 4 9 44.4 3 5 60.0 0 0 - 0 4 4 2 0 0 2 4 -19
+p519
+aVMike Bibby VAN 02/07/1999 VAN @ SAC L 36 11 3 14 21.4 0 0 - 5 7 71.4 0 1 1 9 2 0 2 1 -21
+p520
+aVJ.R. Henderson VAN 02/07/1999 VAN @ SAC L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 4
+p521
+aVBryant Reeves VAN 02/07/1999 VAN @ SAC L 28 14 7 16 43.8 0 1 0.0 0 0 - 6 3 9 2 1 1 1 1 -11
+p522
+aVShareef Abdur-Rahim VAN 02/07/1999 VAN @ SAC L 38 12 4 14 28.6 0 0 - 4 7 57.1 0 6 6 1 4 1 4 1 -24
+p523
+a.

@@ -1,0 +1,1326 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMichael Beasley MIN 04/26/2012 MIN vs. DEN L 24 13 5 12 41.7 0 2 0.0 3 4 75.0 0 1 1 1 0 0 4 2 -21
+p2
+aVJ.J. Barea MIN 04/26/2012 MIN vs. DEN L 31 20 7 13 53.8 3 6 50.0 3 4 75.0 0 1 1 5 0 0 4 1 -16
+p3
+aVNikola Pekovic MIN 04/26/2012 MIN vs. DEN L 25 18 8 12 66.7 0 0 - 2 5 40.0 5 5 10 0 1 1 0 2 -22
+p4
+aVBrad Miller MIN 04/26/2012 MIN vs. DEN L 17 4 1 3 33.3 1 2 50.0 1 2 50.0 0 4 4 4 2 0 2 1 -1
+p5
+aVMalcolm Lee MIN 04/26/2012 MIN vs. DEN L 20 2 1 6 16.7 0 1 0.0 0 0 - 2 0 2 2 0 0 0 1 -14
+p6
+aVWayne Ellington MIN 04/26/2012 MIN vs. DEN L 23 12 5 12 41.7 2 5 40.0 0 0 - 0 2 2 1 1 0 0 3 -7
+p7
+aVWesley Johnson MIN 04/26/2012 MIN vs. DEN L 19 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 2 0 2 0 1 -8
+p8
+aVAnthony Randolph MIN 04/26/2012 MIN vs. DEN L 21 9 4 9 44.4 0 0 - 1 2 50.0 0 2 2 3 0 1 1 0 -10
+p9
+aVDerrick Williams MIN 04/26/2012 MIN vs. DEN L 15 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 0 1 0 0 0 -5
+p10
+aVAnthony Tolliver MIN 04/26/2012 MIN vs. DEN L 17 3 1 4 25.0 1 3 33.3 0 0 - 1 3 4 1 0 0 0 2 -20
+p11
+aVMartell Webster MIN 04/26/2012 MIN vs. DEN L 28 11 5 10 50.0 1 4 25.0 0 0 - 0 1 1 3 0 0 2 1 -21
+p12
+aVDerrick Williams MIN 04/22/2012 MIN vs. GSW L 11 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -10
+p13
+aVAnthony Randolph MIN 04/22/2012 MIN vs. GSW L 34 14 3 10 30.0 0 0 - 8 8 100.0 2 5 7 0 0 5 4 3 6
+p14
+aVAnthony Tolliver MIN 04/22/2012 MIN vs. GSW L 14 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 1 0 1 0 0 -11
+p15
+aVJ.J. Barea MIN 04/22/2012 MIN vs. GSW L 48 14 5 18 27.8 2 9 22.2 2 2 100.0 0 2 2 12 1 0 3 1 -5
+p16
+aVWesley Johnson MIN 04/22/2012 MIN vs. GSW L 22 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 1 0 1 0 2 10
+p17
+aVMartell Webster MIN 04/22/2012 MIN vs. GSW L 38 18 7 14 50.0 4 9 44.4 0 0 - 0 5 5 1 0 0 1 2 1
+p18
+aVMichael Beasley MIN 04/22/2012 MIN vs. GSW L 26 8 3 11 27.3 0 3 0.0 2 2 100.0 2 7 9 1 0 2 1 2 -15
+p19
+aVNikola Pekovic MIN 04/22/2012 MIN vs. GSW L 37 19 7 13 53.8 0 0 - 5 5 100.0 3 13 16 2 0 1 3 2 5
+p20
+aVWayne Ellington MIN 04/22/2012 MIN vs. GSW L 10 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 -6
+p21
+aVJ.J. Barea MIN 04/19/2012 MIN @ DET W 39 13 5 12 41.7 1 4 25.0 2 2 100.0 0 6 6 12 1 0 3 2 7
+p22
+aVMichael Beasley MIN 04/19/2012 MIN @ DET W 24 13 5 10 50.0 0 0 - 3 6 50.0 0 7 7 4 1 1 2 0 -1
+p23
+aVMartell Webster MIN 04/19/2012 MIN @ DET W 27 3 1 4 25.0 1 4 25.0 0 0 - 0 3 3 2 0 1 2 1 20
+p24
+aVMalcolm Lee MIN 04/19/2012 MIN @ DET W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p25
+aVWesley Johnson MIN 04/19/2012 MIN @ DET W 22 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 2 7
+p26
+aVNikola Pekovic MIN 04/19/2012 MIN @ DET W 32 23 10 17 58.8 0 0 - 3 6 50.0 3 6 9 2 0 1 0 1 5
+p27
+aVAnthony Randolph MIN 04/19/2012 MIN @ DET W 27 15 5 10 50.0 0 0 - 5 6 83.3 1 9 10 0 0 3 2 2 12
+p28
+aVWayne Ellington MIN 04/19/2012 MIN @ DET W 25 6 2 4 50.0 0 2 0.0 2 2 100.0 0 3 3 1 1 1 0 0 0
+p29
+aVDerrick Williams MIN 04/19/2012 MIN @ DET W 16 11 3 6 50.0 0 1 0.0 5 6 83.3 1 3 4 0 0 0 0 0 5
+p30
+aVAnthony Tolliver MIN 04/19/2012 MIN @ DET W 20 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 3 2 -4
+p31
+aVNikola Pekovic MIN 04/17/2012 MIN vs. MEM L 37 16 6 12 50.0 0 0 - 4 6 66.7 6 5 11 1 0 1 2 0 -1
+p32
+aVMalcolm Lee MIN 04/17/2012 MIN vs. MEM L 9 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 0 -1
+p33
+aVMartell Webster MIN 04/17/2012 MIN vs. MEM L 28 6 1 6 16.7 0 1 0.0 4 4 100.0 1 2 3 1 0 0 1 1 -16
+p34
+aVWesley Johnson MIN 04/17/2012 MIN vs. MEM L 18 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 2 0 0 -7
+p35
+aVAnthony Tolliver MIN 04/17/2012 MIN vs. MEM L 27 7 2 6 33.3 1 5 20.0 2 2 100.0 2 5 7 1 2 1 3 5 0
+p36
+aVMichael Beasley MIN 04/17/2012 MIN vs. MEM L 18 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 0 0
+p37
+aVWayne Ellington MIN 04/17/2012 MIN vs. MEM L 27 8 3 5 60.0 0 2 0.0 2 2 100.0 1 6 7 1 1 0 2 1 3
+p38
+aVAnthony Randolph MIN 04/17/2012 MIN vs. MEM L 19 4 1 8 12.5 0 0 - 2 2 100.0 1 2 3 2 1 2 1 1 -2
+p39
+aVJ.J. Barea MIN 04/17/2012 MIN vs. MEM L 39 28 10 20 50.0 5 9 55.6 3 4 75.0 0 5 5 8 1 0 5 2 -6
+p40
+aVBrad Miller MIN 04/17/2012 MIN vs. MEM L 12 2 0 2 0.0 0 2 0.0 2 2 100.0 2 1 3 2 0 0 0 1 -6
+p41
+aVDerrick Williams MIN 04/17/2012 MIN vs. MEM L 7 2 0 3 0.0 0 0 - 2 4 50.0 1 1 2 0 0 1 0 1 1
+p42
+aVMalcolm Lee MIN 04/16/2012 MIN @ IND L 18 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 1 1 0 0 1 5
+p43
+aVNikola Pekovic MIN 04/16/2012 MIN @ IND L 23 10 4 11 36.4 0 0 - 2 2 100.0 3 1 4 0 0 1 0 1 -27
+p44
+aVAnthony Randolph MIN 04/16/2012 MIN @ IND L 18 6 1 7 14.3 0 0 - 4 4 100.0 1 4 5 0 0 2 1 4 -27
+p45
+aVMichael Beasley MIN 04/16/2012 MIN @ IND L 24 13 6 11 54.5 0 3 0.0 1 2 50.0 1 4 5 0 0 0 5 3 -12
+p46
+aVWayne Ellington MIN 04/16/2012 MIN @ IND L 23 4 2 5 40.0 0 1 0.0 0 2 0.0 1 4 5 0 0 1 0 1 1
+p47
+aVAnthony Tolliver MIN 04/16/2012 MIN @ IND L 6 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 1
+p48
+aVWesley Johnson MIN 04/16/2012 MIN @ IND L 18 9 3 7 42.9 3 4 75.0 0 0 - 0 1 1 2 0 0 0 2 -12
+p49
+aVDerrick Williams MIN 04/16/2012 MIN @ IND L 30 13 3 15 20.0 0 6 0.0 7 8 87.5 2 8 10 1 1 1 2 3 4
+p50
+aVMartell Webster MIN 04/16/2012 MIN @ IND L 24 5 2 4 50.0 1 3 33.3 0 0 - 1 5 6 1 1 0 0 2 -24
+p51
+aVJ.J. Barea MIN 04/16/2012 MIN @ IND L 31 14 5 14 35.7 2 6 33.3 2 5 40.0 0 1 1 9 0 0 1 2 -28
+p52
+aVBrad Miller MIN 04/16/2012 MIN @ IND L 25 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 2 1 1 1 1 4
+p53
+aVMalcolm Lee MIN 04/14/2012 MIN vs. OKC L 10 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 3 0 0 1 0 1
+p54
+aVWesley Johnson MIN 04/14/2012 MIN vs. OKC L 19 8 2 6 33.3 1 2 50.0 3 3 100.0 1 1 2 1 0 0 0 4 -13
+p55
+aVAnthony Randolph MIN 04/14/2012 MIN vs. OKC L 34 22 8 16 50.0 0 0 - 6 8 75.0 2 9 11 0 0 1 2 2 11
+p56
+aVMartell Webster MIN 04/14/2012 MIN vs. OKC L 36 7 3 5 60.0 0 1 0.0 1 3 33.3 1 0 1 0 1 2 1 4 -7
+p57
+aVAnthony Tolliver MIN 04/14/2012 MIN vs. OKC L 12 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 0 1 0 0 3 5
+p58
+aVDerrick Williams MIN 04/14/2012 MIN vs. OKC L 13 3 0 4 0.0 0 1 0.0 3 4 75.0 0 1 1 1 0 0 0 3 -15
+p59
+aVJ.J. Barea MIN 04/14/2012 MIN vs. OKC L 39 24 9 16 56.3 3 5 60.0 3 4 75.0 0 3 3 10 3 0 3 4 -4
+p60
+aVMichael Beasley MIN 04/14/2012 MIN vs. OKC L 39 26 13 21 61.9 0 1 0.0 0 0 - 1 5 6 3 2 1 4 2 8
+p61
+aVNikola Pekovic MIN 04/14/2012 MIN vs. OKC L 38 14 5 12 41.7 0 0 - 4 9 44.4 5 8 13 1 0 0 2 1 -11
+p62
+aVNikola Pekovic MIN 04/12/2012 MIN vs. LAC L 33 17 6 12 50.0 0 0 - 5 8 62.5 3 3 6 1 0 0 0 0 -14
+p63
+aVMartell Webster MIN 04/12/2012 MIN vs. LAC L 34 10 3 8 37.5 1 4 25.0 3 3 100.0 2 3 5 2 1 0 0 1 -12
+p64
+aVJ.J. Barea MIN 04/12/2012 MIN vs. LAC L 31 10 4 9 44.4 2 4 50.0 0 0 - 0 2 2 11 0 0 7 4 -15
+p65
+aVDerrick Williams MIN 04/12/2012 MIN vs. LAC L 26 4 1 7 14.3 1 3 33.3 1 2 50.0 0 5 5 0 0 2 4 5 -17
+p66
+aVWesley Johnson MIN 04/12/2012 MIN vs. LAC L 31 4 1 6 16.7 0 3 0.0 2 2 100.0 1 5 6 1 1 0 0 1 -11
+p67
+aVMichael Beasley MIN 04/12/2012 MIN vs. LAC L 31 14 6 15 40.0 0 3 0.0 2 4 50.0 3 7 10 1 0 1 3 1 -3
+p68
+aVAnthony Randolph MIN 04/12/2012 MIN vs. LAC L 27 16 7 12 58.3 0 0 - 2 3 66.7 3 6 9 2 0 3 2 0 5
+p69
+aVMalcolm Lee MIN 04/12/2012 MIN vs. LAC L 17 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 2 1 0 0 0 2
+p70
+aVAnthony Tolliver MIN 04/12/2012 MIN vs. LAC L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 0
+p71
+aVMartell Webster MIN 04/11/2012 MIN @ DEN L 32 12 4 7 57.1 2 4 50.0 2 2 100.0 2 2 4 3 2 0 1 5 10
+p72
+aVDerrick Williams MIN 04/11/2012 MIN @ DEN L 38 27 10 20 50.0 3 9 33.3 4 4 100.0 0 8 8 0 1 1 5 3 -4
+p73
+aVNikola Pekovic MIN 04/11/2012 MIN @ DEN L 19 12 5 6 83.3 0 0 - 2 2 100.0 1 1 2 2 0 0 1 2 -9
+p74
+aVMalcolm Lee MIN 04/11/2012 MIN @ DEN L 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -1
+p75
+aVMichael Beasley MIN 04/11/2012 MIN @ DEN L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -13
+p76
+aVJ.J. Barea MIN 04/11/2012 MIN @ DEN L 36 12 5 13 38.5 1 2 50.0 1 2 50.0 0 6 6 15 1 0 4 2 -11
+p77
+aVAnthony Tolliver MIN 04/11/2012 MIN @ DEN L 22 3 1 5 20.0 1 5 20.0 0 0 - 1 2 3 0 1 1 0 0 -5
+p78
+aVAnthony Randolph MIN 04/11/2012 MIN @ DEN L 31 28 11 16 68.8 0 0 - 6 8 75.0 4 2 6 1 0 5 2 6 6
+p79
+aVKevin Love MIN 04/11/2012 MIN @ DEN L 8 0 0 5 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -3
+p80
+aVWesley Johnson MIN 04/11/2012 MIN @ DEN L 30 11 5 8 62.5 1 3 33.3 0 0 - 0 4 4 3 0 2 0 3 0
+p81
+aVDerrick Williams MIN 04/09/2012 MIN vs. PHX L 17 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 -17
+p82
+aVMichael Beasley MIN 04/09/2012 MIN vs. PHX L 29 12 5 14 35.7 2 5 40.0 0 0 - 1 2 3 2 0 0 0 3 -9
+p83
+aVMartell Webster MIN 04/09/2012 MIN vs. PHX L 27 2 1 3 33.3 0 0 - 0 0 - 1 6 7 0 0 0 1 1 -8
+p84
+aVNikola Pekovic MIN 04/09/2012 MIN vs. PHX L 30 11 3 6 50.0 0 0 - 5 6 83.3 1 1 2 0 2 0 2 1 -13
+p85
+aVAnthony Randolph MIN 04/09/2012 MIN vs. PHX L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p86
+aVWayne Ellington MIN 04/09/2012 MIN vs. PHX L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 -7
+p87
+aVAnthony Tolliver MIN 04/09/2012 MIN vs. PHX L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 1
+p88
+aVJ.J. Barea MIN 04/09/2012 MIN vs. PHX L 32 16 7 17 41.2 2 6 33.3 0 0 - 0 3 3 5 1 0 1 2 -18
+p89
+aVKevin Love MIN 04/09/2012 MIN vs. PHX L 39 25 7 19 36.8 1 6 16.7 10 11 90.9 4 9 13 2 2 0 4 5 -22
+p90
+aVMalcolm Lee MIN 04/09/2012 MIN vs. PHX L 23 5 1 4 25.0 0 1 0.0 3 4 75.0 2 0 2 5 0 1 2 3 -16
+p91
+aVWesley Johnson MIN 04/09/2012 MIN vs. PHX L 25 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 1 0 1 3 2 -14
+p92
+aVAnthony Tolliver MIN 04/07/2012 MIN @ NOH L 7 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 6
+p93
+aVNikola Pekovic MIN 04/07/2012 MIN @ NOH L 26 11 4 9 44.4 0 0 - 3 3 100.0 3 3 6 0 0 1 0 2 -4
+p94
+aVWesley Johnson MIN 04/07/2012 MIN @ NOH L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 4
+p95
+aVMartell Webster MIN 04/07/2012 MIN @ NOH L 21 5 1 5 20.0 1 3 33.3 2 4 50.0 0 2 2 2 2 1 1 2 -4
+p96
+aVDerrick Williams MIN 04/07/2012 MIN @ NOH L 15 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 1 1 0 1 -11
+p97
+aVMalcolm Lee MIN 04/07/2012 MIN @ NOH L 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 4 0 0 0 1 5
+p98
+aVMichael Beasley MIN 04/07/2012 MIN @ NOH L 30 20 7 11 63.6 3 4 75.0 3 4 75.0 1 6 7 1 1 1 3 4 -13
+p99
+aVAnthony Randolph MIN 04/07/2012 MIN @ NOH L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 1 2 1 2
+p100
+aVWayne Ellington MIN 04/07/2012 MIN @ NOH L 27 4 1 9 11.1 0 3 0.0 2 2 100.0 0 1 1 0 1 1 0 1 -5
+p101
+aVKevin Love MIN 04/07/2012 MIN @ NOH L 35 29 11 23 47.8 3 8 37.5 4 5 80.0 5 7 12 3 1 1 0 3 -11
+p102
+aVJ.J. Barea MIN 04/07/2012 MIN @ NOH L 34 10 4 12 33.3 2 4 50.0 0 0 - 0 1 1 7 0 0 3 1 -14
+p103
+aVWayne Ellington MIN 04/04/2012 MIN vs. GSW L 28 17 7 11 63.6 3 5 60.0 0 0 - 2 5 7 1 1 0 1 3 7
+p104
+aVWesley Johnson MIN 04/04/2012 MIN vs. GSW L 38 12 5 11 45.5 2 7 28.6 0 0 - 0 3 3 0 2 3 1 4 0
+p105
+aVNikola Pekovic MIN 04/04/2012 MIN vs. GSW L 23 10 4 5 80.0 0 0 - 2 3 66.7 1 2 3 0 1 0 1 0 -10
+p106
+aVKevin Love MIN 04/04/2012 MIN vs. GSW L 43 29 12 28 42.9 0 7 0.0 5 5 100.0 5 7 12 5 0 0 1 3 -11
+p107
+aVMartell Webster MIN 04/04/2012 MIN vs. GSW L 25 0 0 5 0.0 0 0 - 0 0 - 1 8 9 1 1 0 0 1 -14
+p108
+aVJ.J. Barea MIN 04/04/2012 MIN vs. GSW L 37 15 6 15 40.0 3 5 60.0 0 2 0.0 2 4 6 8 0 0 7 2 -13
+p109
+aVMalcolm Lee MIN 04/04/2012 MIN vs. GSW L 14 5 2 5 40.0 0 2 0.0 1 2 50.0 1 2 3 0 0 0 3 0 8
+p110
+aVAnthony Tolliver MIN 04/04/2012 MIN vs. GSW L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p111
+aVBrad Miller MIN 04/04/2012 MIN vs. GSW L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 3 0 1 3 0 8
+p112
+aVDerrick Williams MIN 04/04/2012 MIN vs. GSW L 13 3 0 3 0.0 0 1 0.0 3 4 75.0 1 3 4 1 0 1 2 1 6
+p113
+aVKevin Love MIN 04/02/2012 MIN @ SAC L 34 23 8 17 47.1 3 5 60.0 4 6 66.7 3 4 7 1 0 1 0 5 -8
+p114
+aVAnthony Tolliver MIN 04/02/2012 MIN @ SAC L 24 9 2 4 50.0 1 3 33.3 4 5 80.0 1 5 6 1 0 1 1 3 -11
+p115
+aVWayne Ellington MIN 04/02/2012 MIN @ SAC L 26 9 3 8 37.5 1 2 50.0 2 2 100.0 1 1 2 4 2 0 3 2 -14
+p116
+aVLuke Ridnour MIN 04/02/2012 MIN @ SAC L 30 13 5 14 35.7 0 1 0.0 3 5 60.0 0 2 2 6 1 0 2 3 3
+p117
+aVDerrick Williams MIN 04/02/2012 MIN @ SAC L 21 8 3 10 30.0 1 3 33.3 1 2 50.0 1 2 3 0 1 2 1 1 -3
+p118
+aVNikola Pekovic MIN 04/02/2012 MIN @ SAC L 19 17 7 8 87.5 0 0 - 3 4 75.0 2 2 4 2 0 0 1 4 1
+p119
+aVBrad Miller MIN 04/02/2012 MIN @ SAC L 22 11 4 7 57.1 3 4 75.0 0 0 - 1 1 2 6 0 0 0 1 -6
+p120
+aVMalcolm Lee MIN 04/02/2012 MIN @ SAC L 18 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 2 2 -11
+p121
+aVMartell Webster MIN 04/02/2012 MIN @ SAC L 24 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 1 0 0 0 3
+p122
+aVWesley Johnson MIN 04/02/2012 MIN @ SAC L 22 8 3 5 60.0 2 2 100.0 0 0 - 1 3 4 1 0 0 1 1 6
+p123
+aVWayne Ellington MIN 04/01/2012 MIN @ POR L 31 12 4 10 40.0 1 2 50.0 3 4 75.0 0 2 2 1 0 0 0 3 -8
+p124
+aVMalcolm Lee MIN 04/01/2012 MIN @ POR L 19 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 1 2 0 0 3 -10
+p125
+aVAnthony Randolph MIN 04/01/2012 MIN @ POR L 12 4 1 4 25.0 0 0 - 2 4 50.0 1 1 2 2 0 2 0 3 -9
+p126
+aVDerrick Williams MIN 04/01/2012 MIN @ POR L 42 21 8 16 50.0 0 3 0.0 5 7 71.4 2 4 6 1 0 0 3 1 -15
+p127
+aVMartell Webster MIN 04/01/2012 MIN @ POR L 25 7 3 4 75.0 1 2 50.0 0 0 - 1 4 5 0 0 0 3 2 -4
+p128
+aVLuke Ridnour MIN 04/01/2012 MIN @ POR L 35 21 7 14 50.0 1 3 33.3 6 6 100.0 0 4 4 6 3 1 1 2 -1
+p129
+aVKevin Love MIN 04/01/2012 MIN @ POR L 37 26 7 16 43.8 1 6 16.7 11 12 91.7 2 7 9 4 1 0 1 1 -2
+p130
+aVWesley Johnson MIN 04/01/2012 MIN @ POR L 24 9 4 6 66.7 1 2 50.0 0 0 - 0 1 1 1 1 1 0 2 -5
+p131
+aVAnthony Tolliver MIN 04/01/2012 MIN @ POR L 16 2 1 4 25.0 0 3 0.0 0 0 - 1 2 3 0 0 0 0 2 -11
+p132
+aVLuke Ridnour MIN 03/30/2012 MIN vs. BOS L 36 15 7 13 53.8 1 3 33.3 0 0 - 0 2 2 8 1 0 4 3 -12
+p133
+aVKevin Love MIN 03/30/2012 MIN vs. BOS L 39 22 5 18 27.8 2 5 40.0 10 11 90.9 4 7 11 3 0 0 3 1 -12
+p134
+aVAnthony Tolliver MIN 03/30/2012 MIN vs. BOS L 27 8 3 5 60.0 0 0 - 2 4 50.0 2 2 4 0 1 0 2 1 -11
+p135
+aVMartell Webster MIN 03/30/2012 MIN vs. BOS L 30 4 2 7 28.6 0 1 0.0 0 0 - 3 4 7 1 2 1 0 1 -12
+p136
+aVWayne Ellington MIN 03/30/2012 MIN vs. BOS L 26 2 0 6 0.0 0 4 0.0 2 2 100.0 1 3 4 0 0 0 2 0 -7
+p137
+aVWesley Johnson MIN 03/30/2012 MIN vs. BOS L 22 5 2 7 28.6 1 4 25.0 0 0 - 0 6 6 2 0 0 1 0 -15
+p138
+aVDerrick Williams MIN 03/30/2012 MIN vs. BOS L 39 14 5 14 35.7 1 4 25.0 3 4 75.0 2 5 7 0 1 0 5 3 -19
+p139
+aVBrad Miller MIN 03/30/2012 MIN vs. BOS L 8 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 1 1 -5
+p140
+aVMalcolm Lee MIN 03/30/2012 MIN vs. BOS L 14 7 2 4 50.0 1 2 50.0 2 2 100.0 1 2 3 0 0 0 2 3 -12
+p141
+aVMartell Webster MIN 03/28/2012 MIN @ CHA W 41 8 3 7 42.9 2 5 40.0 0 0 - 2 4 6 1 0 1 1 4 5
+p142
+aVWayne Ellington MIN 03/28/2012 MIN @ CHA W 24 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 2 -6
+p143
+aVKevin Love MIN 03/28/2012 MIN @ CHA W 43 40 14 31 45.2 4 7 57.1 8 10 80.0 6 13 19 4 0 0 2 0 5
+p144
+aVMalcolm Lee MIN 03/28/2012 MIN @ CHA W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 2 1
+p145
+aVLuke Ridnour MIN 03/28/2012 MIN @ CHA W 43 15 6 13 46.2 0 0 - 3 3 100.0 2 3 5 14 2 1 2 0 4
+p146
+aVWesley Johnson MIN 03/28/2012 MIN @ CHA W 32 5 2 4 50.0 1 3 33.3 0 0 - 0 5 5 0 0 0 2 4 11
+p147
+aVAnthony Tolliver MIN 03/28/2012 MIN @ CHA W 30 11 4 7 57.1 1 2 50.0 2 5 40.0 3 8 11 2 0 1 4 2 -4
+p148
+aVDerrick Williams MIN 03/28/2012 MIN @ CHA W 23 5 2 11 18.2 0 2 0.0 1 2 50.0 0 2 2 0 0 0 1 3 9
+p149
+aVMichael Beasley MIN 03/27/2012 MIN @ MEM L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 1 -1
+p150
+aVAnthony Tolliver MIN 03/27/2012 MIN @ MEM L 13 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 1 0 3 -6
+p151
+aVDerrick Williams MIN 03/27/2012 MIN @ MEM L 41 14 4 15 26.7 1 6 16.7 5 6 83.3 1 6 7 1 0 0 2 3 -6
+p152
+aVWesley Johnson MIN 03/27/2012 MIN @ MEM L 22 6 3 7 42.9 0 2 0.0 0 0 - 1 2 3 2 1 2 1 2 6
+p153
+aVLuke Ridnour MIN 03/27/2012 MIN @ MEM L 38 9 4 13 30.8 1 2 50.0 0 0 - 1 3 4 5 0 0 2 3 -10
+p154
+aVKevin Love MIN 03/27/2012 MIN @ MEM L 38 28 10 22 45.5 4 8 50.0 4 4 100.0 4 7 11 2 1 4 2 2 -3
+p155
+aVMartell Webster MIN 03/27/2012 MIN @ MEM L 34 9 4 10 40.0 0 3 0.0 1 2 50.0 5 5 10 0 2 0 1 2 -2
+p156
+aVWayne Ellington MIN 03/27/2012 MIN @ MEM L 27 15 6 10 60.0 2 4 50.0 1 1 100.0 0 2 2 1 1 0 1 2 -13
+p157
+aVBrad Miller MIN 03/27/2012 MIN @ MEM L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 1
+p158
+aVMalcolm Lee MIN 03/27/2012 MIN @ MEM L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 1 2 2 -1
+p159
+aVKevin Love MIN 03/25/2012 MIN vs. DEN W 44 30 11 19 57.9 1 4 25.0 7 7 100.0 7 14 21 4 2 3 0 2 25
+p160
+aVMartell Webster MIN 03/25/2012 MIN vs. DEN W 26 10 4 13 30.8 2 6 33.3 0 0 - 4 2 6 0 1 1 3 0 8
+p161
+aVDerrick Williams MIN 03/25/2012 MIN vs. DEN W 18 7 2 5 40.0 1 3 33.3 2 2 100.0 1 0 1 3 0 0 0 3 0
+p162
+aVWesley Johnson MIN 03/25/2012 MIN vs. DEN W 18 5 2 9 22.2 1 5 20.0 0 0 - 0 0 0 2 1 1 0 2 -5
+p163
+aVWayne Ellington MIN 03/25/2012 MIN vs. DEN W 28 17 7 14 50.0 3 6 50.0 0 0 - 1 2 3 3 0 0 0 3 10
+p164
+aVAnthony Tolliver MIN 03/25/2012 MIN vs. DEN W 34 10 4 8 50.0 2 5 40.0 0 0 - 3 3 6 3 0 0 1 5 9
+p165
+aVMalcolm Lee MIN 03/25/2012 MIN vs. DEN W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 2 2 13
+p166
+aVLuke Ridnour MIN 03/25/2012 MIN vs. DEN W 36 25 9 14 64.3 2 3 66.7 5 5 100.0 1 1 2 6 1 0 2 2 11
+p167
+aVMichael Beasley MIN 03/25/2012 MIN vs. DEN W 22 11 5 15 33.3 0 3 0.0 1 1 100.0 1 1 2 1 1 0 1 0 14
+p168
+aVAnthony Randolph MIN 03/23/2012 MIN @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p169
+aVWesley Johnson MIN 03/23/2012 MIN @ OKC L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 1 0 1 0 0 -10
+p170
+aVLuke Ridnour MIN 03/23/2012 MIN @ OKC L 48 13 4 15 26.7 1 7 14.3 4 4 100.0 0 3 3 8 2 0 4 3 3
+p171
+aVKevin Love MIN 03/23/2012 MIN @ OKC L 49 51 16 27 59.3 7 11 63.6 12 16 75.0 6 8 14 0 1 1 4 3 4
+p172
+aVDerrick Williams MIN 03/23/2012 MIN @ OKC L 24 12 4 8 50.0 1 4 25.0 3 6 50.0 0 2 2 0 0 1 1 1 -6
+p173
+aVMartell Webster MIN 03/23/2012 MIN @ OKC L 22 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 0 -17
+p174
+aVBrad Miller MIN 03/23/2012 MIN @ OKC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -10
+p175
+aVWayne Ellington MIN 03/23/2012 MIN @ OKC L 36 12 5 10 50.0 1 4 25.0 1 2 50.0 0 2 2 0 0 0 1 3 -4
+p176
+aVJ.J. Barea MIN 03/23/2012 MIN @ OKC L 47 25 10 22 45.5 2 5 40.0 3 3 100.0 1 9 10 14 3 0 3 3 -5
+p177
+aVAnthony Tolliver MIN 03/23/2012 MIN @ OKC L 44 23 9 13 69.2 2 4 50.0 3 3 100.0 4 3 7 0 0 1 1 3 0
+p178
+aVMichael Beasley MIN 03/21/2012 MIN @ SAS L 11 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 0 0 1 2 0
+p179
+aVJ.J. Barea MIN 03/21/2012 MIN @ SAS L 30 18 7 13 53.8 2 4 50.0 2 3 66.7 0 3 3 11 1 0 4 1 -8
+p180
+aVMalcolm Lee MIN 03/21/2012 MIN @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 6
+p181
+aVAnthony Tolliver MIN 03/21/2012 MIN @ SAS L 31 16 6 10 60.0 0 2 0.0 4 4 100.0 3 2 5 2 2 2 1 4 0
+p182
+aVWayne Ellington MIN 03/21/2012 MIN @ SAS L 23 15 7 11 63.6 1 4 25.0 0 0 - 0 3 3 2 3 1 1 1 9
+p183
+aVKevin Love MIN 03/21/2012 MIN @ SAS L 30 17 5 13 38.5 1 3 33.3 6 9 66.7 3 9 12 2 2 0 1 3 -24
+p184
+aVLuke Ridnour MIN 03/21/2012 MIN @ SAS L 25 4 1 7 14.3 0 3 0.0 2 2 100.0 0 1 1 1 0 0 2 3 -23
+p185
+aVMartell Webster MIN 03/21/2012 MIN @ SAS L 24 11 5 8 62.5 1 1 100.0 0 0 - 1 3 4 1 0 0 1 3 -19
+p186
+aVWesley Johnson MIN 03/21/2012 MIN @ SAS L 25 6 2 6 33.3 2 4 50.0 0 0 - 0 4 4 0 0 1 1 0 -11
+p187
+aVDerrick Williams MIN 03/21/2012 MIN @ SAS L 37 9 4 12 33.3 0 1 0.0 1 2 50.0 2 5 7 0 0 0 1 2 -10
+p188
+aVMichael Beasley MIN 03/19/2012 MIN @ GSW W 10 8 3 6 50.0 1 3 33.3 1 2 50.0 0 0 0 0 0 0 0 1 2
+p189
+aVAnthony Tolliver MIN 03/19/2012 MIN @ GSW W 16 10 4 5 80.0 2 3 66.7 0 0 - 2 3 5 0 0 0 1 2 -2
+p190
+aVWayne Ellington MIN 03/19/2012 MIN @ GSW W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p191
+aVKevin Love MIN 03/19/2012 MIN @ GSW W 44 36 13 23 56.5 3 5 60.0 7 10 70.0 4 12 16 2 0 0 3 3 6
+p192
+aVDerrick Williams MIN 03/19/2012 MIN @ GSW W 37 6 2 9 22.2 0 2 0.0 2 2 100.0 0 11 11 1 1 3 4 1 5
+p193
+aVLuke Ridnour MIN 03/19/2012 MIN @ GSW W 35 11 4 7 57.1 1 2 50.0 2 2 100.0 0 3 3 10 1 0 3 1 4
+p194
+aVMartell Webster MIN 03/19/2012 MIN @ GSW W 26 5 1 2 50.0 0 1 0.0 3 3 100.0 1 1 2 0 0 0 1 4 2
+p195
+aVNikola Pekovic MIN 03/19/2012 MIN @ GSW W 11 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 1 1 1 1 0 -1
+p196
+aVWesley Johnson MIN 03/19/2012 MIN @ GSW W 21 9 3 6 50.0 2 3 66.7 1 2 50.0 1 3 4 0 1 1 1 1 0
+p197
+aVJ.J. Barea MIN 03/19/2012 MIN @ GSW W 27 6 3 10 30.0 0 2 0.0 0 0 - 1 2 3 10 1 0 2 0 4
+p198
+aVMartell Webster MIN 03/18/2012 MIN @ SAC L 33 14 4 7 57.1 1 2 50.0 5 5 100.0 0 1 1 0 1 1 2 2 -10
+p199
+aVJ.J. Barea MIN 03/18/2012 MIN @ SAC L 14 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 4 0 0 2 1 -9
+p200
+aVWayne Ellington MIN 03/18/2012 MIN @ SAC L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p201
+aVKevin Love MIN 03/18/2012 MIN @ SAC L 33 21 7 20 35.0 1 5 20.0 6 6 100.0 4 7 11 3 1 1 4 4 -10
+p202
+aVLuke Ridnour MIN 03/18/2012 MIN @ SAC L 30 13 5 13 38.5 1 3 33.3 2 2 100.0 0 5 5 2 2 0 5 5 -8
+p203
+aVAnthony Randolph MIN 03/18/2012 MIN @ SAC L 20 10 5 8 62.5 0 0 - 0 0 - 6 3 9 2 1 0 3 4 -12
+p204
+aVWesley Johnson MIN 03/18/2012 MIN @ SAC L 28 2 1 6 16.7 0 3 0.0 0 0 - 0 5 5 2 0 3 2 0 -3
+p205
+aVDarko Milicic MIN 03/18/2012 MIN @ SAC L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p206
+aVDerrick Williams MIN 03/18/2012 MIN @ SAC L 33 16 5 8 62.5 2 5 40.0 4 4 100.0 2 7 9 2 0 0 0 2 -11
+p207
+aVMichael Beasley MIN 03/18/2012 MIN @ SAC L 26 13 6 16 37.5 1 4 25.0 0 0 - 4 3 7 2 0 0 2 1 -15
+p208
+aVAnthony Tolliver MIN 03/18/2012 MIN @ SAC L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p209
+aVMalcolm Lee MIN 03/18/2012 MIN @ SAC L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p210
+aVJ.J. Barea MIN 03/16/2012 MIN @ LAL L 18 8 4 10 40.0 0 3 0.0 0 0 - 2 3 5 2 0 0 2 4 -4
+p211
+aVWesley Johnson MIN 03/16/2012 MIN @ LAL L 22 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 1 1 4 2 -9
+p212
+aVWayne Ellington MIN 03/16/2012 MIN @ LAL L 17 5 2 5 40.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 0 0 -7
+p213
+aVDerrick Williams MIN 03/16/2012 MIN @ LAL L 19 6 3 6 50.0 0 2 0.0 0 0 - 1 5 6 2 1 0 1 2 -10
+p214
+aVAnthony Tolliver MIN 03/16/2012 MIN @ LAL L 23 0 0 4 0.0 0 3 0.0 0 0 - 1 4 5 1 2 0 0 2 1
+p215
+aVLuke Ridnour MIN 03/16/2012 MIN @ LAL L 31 12 5 12 41.7 0 2 0.0 2 3 66.7 0 4 4 11 0 0 0 2 2
+p216
+aVKevin Love MIN 03/16/2012 MIN @ LAL L 37 27 11 24 45.8 2 6 33.3 3 4 75.0 5 10 15 0 1 0 1 5 2
+p217
+aVMartell Webster MIN 03/16/2012 MIN @ LAL L 34 12 5 9 55.6 2 4 50.0 0 0 - 2 3 5 4 1 0 1 2 5
+p218
+aVNikola Pekovic MIN 03/16/2012 MIN @ LAL L 39 20 6 18 33.3 0 0 - 8 12 66.7 7 5 12 0 1 1 3 2 -5
+p219
+aVWayne Ellington MIN 03/15/2012 MIN @ UTA L 18 4 1 5 20.0 0 1 0.0 2 2 100.0 1 3 4 0 0 0 0 1 -3
+p220
+aVJ.J. Barea MIN 03/15/2012 MIN @ UTA L 18 11 4 8 50.0 2 3 66.7 1 2 50.0 0 0 0 4 0 0 5 1 -12
+p221
+aVKevin Love MIN 03/15/2012 MIN @ UTA L 41 25 9 23 39.1 2 8 25.0 5 10 50.0 2 14 16 1 0 0 2 3 -2
+p222
+aVDerrick Williams MIN 03/15/2012 MIN @ UTA L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 6 6 0 0 1 1 1 -8
+p223
+aVAnthony Tolliver MIN 03/15/2012 MIN @ UTA L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p224
+aVNikola Pekovic MIN 03/15/2012 MIN @ UTA L 37 20 7 12 58.3 0 0 - 6 8 75.0 4 5 9 2 0 0 1 3 2
+p225
+aVMartell Webster MIN 03/15/2012 MIN @ UTA L 37 10 2 5 40.0 1 3 33.3 5 5 100.0 0 4 4 1 1 0 2 2 1
+p226
+aVLuke Ridnour MIN 03/15/2012 MIN @ UTA L 38 18 7 12 58.3 2 4 50.0 2 2 100.0 1 1 2 13 3 2 4 4 -2
+p227
+aVWesley Johnson MIN 03/15/2012 MIN @ UTA L 36 9 3 9 33.3 1 5 20.0 2 2 100.0 1 4 5 0 1 2 1 5 2
+p228
+aVAnthony Randolph MIN 03/15/2012 MIN @ UTA L 12 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 1 3 0 1 0 -4
+p229
+aVKevin Love MIN 03/12/2012 MIN @ PHX W 37 30 11 23 47.8 5 9 55.6 3 5 60.0 1 6 7 1 0 0 0 1 0
+p230
+aVNikola Pekovic MIN 03/12/2012 MIN @ PHX W 36 24 11 17 64.7 0 0 - 2 4 50.0 5 3 8 1 2 0 3 3 4
+p231
+aVWesley Johnson MIN 03/12/2012 MIN @ PHX W 23 9 3 6 50.0 1 2 50.0 2 2 100.0 0 3 3 1 0 0 0 3 -11
+p232
+aVMichael Beasley MIN 03/12/2012 MIN @ PHX W 16 15 6 7 85.7 3 3 100.0 0 0 - 1 1 2 1 0 0 1 2 8
+p233
+aVAnthony Randolph MIN 03/12/2012 MIN @ PHX W 5 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 1
+p234
+aVWayne Ellington MIN 03/12/2012 MIN @ PHX W 34 15 6 9 66.7 3 4 75.0 0 0 - 0 0 0 2 0 0 1 3 8
+p235
+aVJ.J. Barea MIN 03/12/2012 MIN @ PHX W 15 3 1 3 33.3 0 1 0.0 1 4 25.0 0 3 3 8 0 0 0 0 8
+p236
+aVDerrick Williams MIN 03/12/2012 MIN @ PHX W 21 19 7 10 70.0 2 3 66.7 3 4 75.0 1 7 8 0 2 2 0 2 6
+p237
+aVMartell Webster MIN 03/12/2012 MIN @ PHX W 20 2 1 2 50.0 0 0 - 0 0 - 2 0 2 6 0 0 1 4 -6
+p238
+aVLuke Ridnour MIN 03/12/2012 MIN @ PHX W 33 10 4 9 44.4 0 0 - 2 2 100.0 1 3 4 9 0 1 4 3 -3
+p239
+aVNikola Pekovic MIN 03/10/2012 MIN vs. NOH L 35 21 9 13 69.2 0 0 - 3 4 75.0 6 5 11 0 0 1 4 3 7
+p240
+aVBrad Miller MIN 03/10/2012 MIN vs. NOH L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p241
+aVWayne Ellington MIN 03/10/2012 MIN vs. NOH L 26 12 5 8 62.5 2 4 50.0 0 0 - 0 0 0 0 0 0 4 2 -1
+p242
+aVLuke Ridnour MIN 03/10/2012 MIN vs. NOH L 43 14 5 13 38.5 1 4 25.0 3 4 75.0 0 2 2 10 1 0 3 4 -3
+p243
+aVMichael Beasley MIN 03/10/2012 MIN vs. NOH L 16 2 1 7 14.3 0 3 0.0 0 2 0.0 0 3 3 1 0 0 2 2 -9
+p244
+aVMartell Webster MIN 03/10/2012 MIN vs. NOH L 24 2 1 5 20.0 0 2 0.0 0 0 - 1 6 7 2 0 0 1 1 -3
+p245
+aVWesley Johnson MIN 03/10/2012 MIN vs. NOH L 25 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 3 2 1 0 4 -1
+p246
+aVKevin Love MIN 03/10/2012 MIN vs. NOH L 41 31 10 23 43.5 2 8 25.0 9 10 90.0 5 11 16 0 1 0 2 3 -9
+p247
+aVDerrick Williams MIN 03/10/2012 MIN vs. NOH L 22 7 2 6 33.3 0 1 0.0 3 5 60.0 2 2 4 3 0 0 1 0 -7
+p248
+aVMalcolm Lee MIN 03/10/2012 MIN vs. NOH L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 2 0 0 -3
+p249
+aVRicky Rubio MIN 03/09/2012 MIN vs. LAL L 39 15 5 12 41.7 1 2 50.0 4 5 80.0 1 3 4 10 2 1 4 4 3
+p250
+aVAnthony Tolliver MIN 03/09/2012 MIN vs. LAL L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 0
+p251
+aVMichael Beasley MIN 03/09/2012 MIN vs. LAL L 16 15 6 10 60.0 1 1 100.0 2 2 100.0 0 2 2 2 0 1 2 3 -5
+p252
+aVDarko Milicic MIN 03/09/2012 MIN vs. LAL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p253
+aVWesley Johnson MIN 03/09/2012 MIN vs. LAL L 25 11 4 8 50.0 3 5 60.0 0 0 - 0 0 0 0 4 3 0 3 1
+p254
+aVDerrick Williams MIN 03/09/2012 MIN vs. LAL L 43 22 9 19 47.4 1 3 33.3 3 5 60.0 3 7 10 2 1 0 3 2 -3
+p255
+aVNikola Pekovic MIN 03/09/2012 MIN vs. LAL L 40 25 8 14 57.1 0 0 - 9 10 90.0 6 7 13 2 1 0 0 4 3
+p256
+aVLuke Ridnour MIN 03/09/2012 MIN vs. LAL L 39 10 4 11 36.4 2 5 40.0 0 0 - 0 0 0 3 1 0 3 1 -1
+p257
+aVMartell Webster MIN 03/09/2012 MIN vs. LAL L 25 2 0 3 0.0 0 2 0.0 2 4 50.0 0 3 3 0 0 0 1 1 -7
+p258
+aVLuke Ridnour MIN 03/07/2012 MIN vs. POR W 37 22 8 16 50.0 3 6 50.0 3 3 100.0 0 4 4 5 0 1 2 3 17
+p259
+aVRicky Rubio MIN 03/07/2012 MIN vs. POR W 27 8 3 8 37.5 1 1 100.0 1 2 50.0 1 0 1 4 1 0 2 2 -6
+p260
+aVKevin Love MIN 03/07/2012 MIN vs. POR W 45 29 9 17 52.9 3 5 60.0 8 11 72.7 4 12 16 3 0 0 3 3 19
+p261
+aVWayne Ellington MIN 03/07/2012 MIN vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p262
+aVDerrick Williams MIN 03/07/2012 MIN vs. POR W 34 9 4 12 33.3 0 2 0.0 1 2 50.0 3 8 11 0 0 0 0 0 6
+p263
+aVJ.J. Barea MIN 03/07/2012 MIN vs. POR W 24 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 7 0 0 2 0 -3
+p264
+aVMartell Webster MIN 03/07/2012 MIN vs. POR W 20 10 2 3 66.7 2 2 100.0 4 4 100.0 1 2 3 0 1 0 1 0 6
+p265
+aVMichael Beasley MIN 03/07/2012 MIN vs. POR W 8 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 4
+p266
+aVWesley Johnson MIN 03/07/2012 MIN vs. POR W 28 19 8 11 72.7 3 4 75.0 0 0 - 3 1 4 2 2 0 0 0 18
+p267
+aVDarko Milicic MIN 03/07/2012 MIN vs. POR W 17 0 0 3 0.0 0 0 - 0 2 0.0 2 1 3 2 1 0 2 4 -1
+p268
+aVMartell Webster MIN 03/05/2012 MIN vs. LAC W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -10
+p269
+aVKevin Love MIN 03/05/2012 MIN vs. LAC W 43 39 13 25 52.0 5 10 50.0 8 11 72.7 7 10 17 2 0 0 2 4 8
+p270
+aVDarko Milicic MIN 03/05/2012 MIN vs. LAC W 28 13 6 7 85.7 0 0 - 1 2 50.0 1 3 4 1 0 1 1 2 12
+p271
+aVDerrick Williams MIN 03/05/2012 MIN vs. LAC W 25 15 4 9 44.4 3 7 42.9 4 5 80.0 2 7 9 1 0 0 1 2 -18
+p272
+aVJ.J. Barea MIN 03/05/2012 MIN vs. LAC W 20 0 0 7 0.0 0 1 0.0 0 0 - 0 2 2 5 0 0 2 2 -3
+p273
+aVRicky Rubio MIN 03/05/2012 MIN vs. LAC W 28 4 1 7 14.3 0 1 0.0 2 4 50.0 4 1 5 6 1 0 2 4 4
+p274
+aVLuke Ridnour MIN 03/05/2012 MIN vs. LAC W 40 12 4 11 36.4 1 5 20.0 3 3 100.0 0 1 1 3 1 0 1 2 6
+p275
+aVMichael Beasley MIN 03/05/2012 MIN vs. LAC W 19 9 3 6 50.0 1 2 50.0 2 2 100.0 0 2 2 0 0 1 1 2 -2
+p276
+aVWesley Johnson MIN 03/05/2012 MIN vs. LAC W 25 3 1 6 16.7 1 1 100.0 0 0 - 0 1 1 1 0 1 0 1 8
+p277
+aVNikola Pekovic MIN 03/03/2012 MIN @ POR W 30 9 3 6 50.0 0 0 - 3 5 60.0 1 3 4 1 0 1 4 3 15
+p278
+aVKevin Love MIN 03/03/2012 MIN @ POR W 43 42 15 27 55.6 5 8 62.5 7 8 87.5 4 6 10 4 1 0 0 2 18
+p279
+aVRicky Rubio MIN 03/03/2012 MIN @ POR W 38 6 1 8 12.5 0 2 0.0 4 5 80.0 1 3 4 12 2 0 4 2 14
+p280
+aVJ.J. Barea MIN 03/03/2012 MIN @ POR W 19 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 0 -1
+p281
+aVWesley Johnson MIN 03/03/2012 MIN @ POR W 9 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 4 4
+p282
+aVMichael Beasley MIN 03/03/2012 MIN @ POR W 13 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -7
+p283
+aVLuke Ridnour MIN 03/03/2012 MIN @ POR W 31 11 4 9 44.4 1 2 50.0 2 2 100.0 2 4 6 1 0 0 1 3 10
+p284
+aVMartell Webster MIN 03/03/2012 MIN @ POR W 34 21 7 10 70.0 3 5 60.0 4 4 100.0 1 7 8 0 1 2 1 2 16
+p285
+aVDerrick Williams MIN 03/03/2012 MIN @ POR W 22 15 5 8 62.5 1 2 50.0 4 4 100.0 1 3 4 0 0 0 0 1 -9
+p286
+aVRicky Rubio MIN 03/01/2012 MIN @ PHX L 31 13 3 7 42.9 0 2 0.0 7 7 100.0 1 1 2 2 2 0 1 2 -7
+p287
+aVKevin Love MIN 03/01/2012 MIN @ PHX L 40 23 8 25 32.0 1 5 20.0 6 6 100.0 4 6 10 3 1 0 4 5 -10
+p288
+aVLuke Ridnour MIN 03/01/2012 MIN @ PHX L 43 15 5 9 55.6 0 1 0.0 5 5 100.0 1 1 2 8 3 0 1 3 1
+p289
+aVMichael Beasley MIN 03/01/2012 MIN @ PHX L 19 3 1 5 20.0 0 2 0.0 1 2 50.0 0 3 3 0 0 2 0 3 -8
+p290
+aVDerrick Williams MIN 03/01/2012 MIN @ PHX L 19 6 2 10 20.0 0 2 0.0 2 6 33.3 2 1 3 0 3 1 2 1 -4
+p291
+aVWesley Johnson MIN 03/01/2012 MIN @ PHX L 28 12 6 12 50.0 0 1 0.0 0 0 - 1 4 5 1 2 2 1 1 -1
+p292
+aVMartell Webster MIN 03/01/2012 MIN @ PHX L 23 9 3 6 50.0 0 0 - 3 4 75.0 1 2 3 0 1 0 0 2 -12
+p293
+aVNikola Pekovic MIN 03/01/2012 MIN @ PHX L 37 14 6 12 50.0 0 0 - 2 2 100.0 6 3 9 0 0 1 2 3 -4
+p294
+aVMichael Beasley MIN 02/29/2012 MIN @ LAL L 26 14 6 13 46.2 0 2 0.0 2 4 50.0 1 5 6 1 0 0 3 1 -4
+p295
+aVWesley Johnson MIN 02/29/2012 MIN @ LAL L 17 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -25
+p296
+aVLuke Ridnour MIN 02/29/2012 MIN @ LAL L 26 8 3 11 27.3 0 1 0.0 2 2 100.0 0 2 2 2 3 0 0 1 -15
+p297
+aVDarko Milicic MIN 02/29/2012 MIN @ LAL L 18 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 2 2 1
+p298
+aVDerrick Williams MIN 02/29/2012 MIN @ LAL L 28 10 4 8 50.0 2 4 50.0 0 2 0.0 1 6 7 1 0 0 2 4 -4
+p299
+aVMartell Webster MIN 02/29/2012 MIN @ LAL L 22 14 5 7 71.4 1 2 50.0 3 4 75.0 0 0 0 2 0 0 0 2 -14
+p300
+aVAnthony Tolliver MIN 02/29/2012 MIN @ LAL L 13 3 1 4 25.0 0 3 0.0 1 1 100.0 0 4 4 0 0 0 0 0 3
+p301
+aVJ.J. Barea MIN 02/29/2012 MIN @ LAL L 10 0 0 4 0.0 0 0 - 0 0 - 0 1 1 4 0 0 1 0 4
+p302
+aVWayne Ellington MIN 02/29/2012 MIN @ LAL L 12 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 0 0 1 0 1 5
+p303
+aVNikola Pekovic MIN 02/29/2012 MIN @ LAL L 26 10 5 11 45.5 0 0 - 0 0 - 4 3 7 1 2 0 3 0 -24
+p304
+aVRicky Rubio MIN 02/29/2012 MIN @ LAL L 25 3 1 8 12.5 1 2 50.0 0 0 - 0 3 3 9 2 0 1 2 -16
+p305
+aVAnthony Randolph MIN 02/29/2012 MIN @ LAL L 19 12 5 9 55.6 0 0 - 2 5 40.0 4 5 9 1 0 0 1 2 -6
+p306
+aVNikola Pekovic MIN 02/28/2012 MIN @ LAC W 22 12 4 7 57.1 0 0 - 4 4 100.0 3 1 4 1 0 0 0 1 -5
+p307
+aVAnthony Tolliver MIN 02/28/2012 MIN @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p308
+aVRicky Rubio MIN 02/28/2012 MIN @ LAC W 29 2 1 8 12.5 0 2 0.0 0 1 0.0 2 5 7 9 1 0 2 2 -7
+p309
+aVJ.J. Barea MIN 02/28/2012 MIN @ LAC W 22 6 2 5 40.0 0 2 0.0 2 2 100.0 0 3 3 7 1 0 2 2 17
+p310
+aVDarko Milicic MIN 02/28/2012 MIN @ LAC W 19 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 5 0 0 0 3 17
+p311
+aVDerrick Williams MIN 02/28/2012 MIN @ LAC W 27 27 9 10 90.0 4 4 100.0 5 5 100.0 1 4 5 0 0 1 1 3 26
+p312
+aVKevin Love MIN 02/28/2012 MIN @ LAC W 25 10 4 13 30.8 0 2 0.0 2 2 100.0 3 4 7 2 0 0 2 3 -9
+p313
+aVWesley Johnson MIN 02/28/2012 MIN @ LAC W 18 5 2 6 33.3 1 3 33.3 0 2 0.0 0 2 2 1 0 0 0 0 -14
+p314
+aVMartell Webster MIN 02/28/2012 MIN @ LAC W 20 11 5 7 71.4 1 2 50.0 0 2 0.0 0 1 1 0 0 0 0 2 18
+p315
+aVLuke Ridnour MIN 02/28/2012 MIN @ LAC W 25 8 2 6 33.3 1 4 25.0 3 3 100.0 0 2 2 2 2 0 2 1 -1
+p316
+aVWayne Ellington MIN 02/28/2012 MIN @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p317
+aVMichael Beasley MIN 02/28/2012 MIN @ LAC W 30 27 11 15 73.3 3 3 100.0 2 4 50.0 0 5 5 0 0 0 0 1 26
+p318
+aVRicky Rubio MIN 02/22/2012 MIN vs. UTA W 32 7 2 7 28.6 2 3 66.7 1 6 16.7 1 2 3 6 2 0 6 2 -10
+p319
+aVWesley Johnson MIN 02/22/2012 MIN vs. UTA W 21 9 4 7 57.1 1 3 33.3 0 0 - 1 3 4 0 0 1 1 2 -10
+p320
+aVLuke Ridnour MIN 02/22/2012 MIN vs. UTA W 35 17 5 10 50.0 1 3 33.3 6 6 100.0 2 1 3 6 0 0 2 2 7
+p321
+aVDerrick Williams MIN 02/22/2012 MIN vs. UTA W 20 13 4 8 50.0 1 2 50.0 4 5 80.0 3 6 9 0 0 1 1 1 14
+p322
+aVJ.J. Barea MIN 02/22/2012 MIN vs. UTA W 26 22 7 12 58.3 5 6 83.3 3 3 100.0 1 3 4 4 0 0 2 3 18
+p323
+aVDarko Milicic MIN 02/22/2012 MIN vs. UTA W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -4
+p324
+aVNikola Pekovic MIN 02/22/2012 MIN vs. UTA W 32 15 3 11 27.3 0 0 - 9 10 90.0 8 4 12 0 0 0 1 2 -12
+p325
+aVKevin Love MIN 02/22/2012 MIN vs. UTA W 37 10 3 14 21.4 0 2 0.0 4 6 66.7 3 7 10 3 3 0 3 4 6
+p326
+aVMartell Webster MIN 02/22/2012 MIN vs. UTA W 21 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 2 7
+p327
+aVMichael Beasley MIN 02/22/2012 MIN vs. UTA W 9 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 0 0 1 0 0 -6
+p328
+aVBrad Miller MIN 02/20/2012 MIN @ DEN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -2
+p329
+aVRicky Rubio MIN 02/20/2012 MIN @ DEN L 40 16 5 16 31.3 2 4 50.0 4 4 100.0 0 5 5 5 3 0 5 4 5
+p330
+aVDerrick Williams MIN 02/20/2012 MIN @ DEN L 22 5 2 2 100.0 0 0 - 1 1 100.0 1 3 4 1 0 2 0 0 8
+p331
+aVAnthony Tolliver MIN 02/20/2012 MIN @ DEN L 9 2 1 3 33.3 0 2 0.0 0 0 - 2 1 3 0 0 0 0 2 -17
+p332
+aVLuke Ridnour MIN 02/20/2012 MIN @ DEN L 28 12 5 10 50.0 0 2 0.0 2 2 100.0 0 4 4 6 0 2 1 4 -3
+p333
+aVWesley Johnson MIN 02/20/2012 MIN @ DEN L 18 4 1 3 33.3 0 2 0.0 2 2 100.0 0 0 0 1 1 0 0 1 5
+p334
+aVMartell Webster MIN 02/20/2012 MIN @ DEN L 32 10 3 10 30.0 1 6 16.7 3 3 100.0 1 3 4 1 1 2 3 4 -3
+p335
+aVNikola Pekovic MIN 02/20/2012 MIN @ DEN L 15 7 3 10 30.0 0 0 - 1 1 100.0 6 1 7 1 0 1 0 1 4
+p336
+aVKevin Love MIN 02/20/2012 MIN @ DEN L 48 22 7 22 31.8 1 4 25.0 7 7 100.0 5 8 13 4 2 1 4 4 5
+p337
+aVJ.J. Barea MIN 02/20/2012 MIN @ DEN L 14 6 2 7 28.6 0 4 0.0 2 2 100.0 0 3 3 1 0 0 1 1 -6
+p338
+aVMichael Beasley MIN 02/20/2012 MIN @ DEN L 33 17 7 16 43.8 2 3 66.7 1 2 50.0 1 6 7 1 0 0 0 2 -6
+p339
+aVRicky Rubio MIN 02/19/2012 MIN vs. PHI W 37 22 7 17 41.2 2 4 50.0 6 6 100.0 0 6 6 5 1 0 1 1 4
+p340
+aVDarko Milicic MIN 02/19/2012 MIN vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p341
+aVMartell Webster MIN 02/19/2012 MIN vs. PHI W 22 3 1 3 33.3 1 2 50.0 0 0 - 0 5 5 0 2 1 1 1 3
+p342
+aVKevin Love MIN 02/19/2012 MIN vs. PHI W 41 20 7 23 30.4 0 4 0.0 6 8 75.0 5 10 15 2 0 0 1 2 3
+p343
+aVJ.J. Barea MIN 02/19/2012 MIN vs. PHI W 21 14 6 12 50.0 0 1 0.0 2 2 100.0 1 0 1 2 0 0 1 2 2
+p344
+aVNikola Pekovic MIN 02/19/2012 MIN vs. PHI W 37 17 4 7 57.1 0 0 - 9 10 90.0 5 4 9 1 0 2 3 2 -1
+p345
+aVWesley Johnson MIN 02/19/2012 MIN vs. PHI W 22 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 0 0 1 2 2 -3
+p346
+aVDerrick Williams MIN 02/19/2012 MIN vs. PHI W 18 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 0 0
+p347
+aVLuke Ridnour MIN 02/19/2012 MIN vs. PHI W 31 10 5 10 50.0 0 3 0.0 0 0 - 1 2 3 3 1 0 0 2 -2
+p348
+aVMichael Beasley MIN 02/19/2012 MIN vs. PHI W 11 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 0 2 0 0 -1
+p349
+aVKevin Love MIN 02/17/2012 MIN @ HOU W 42 33 11 16 68.8 2 4 50.0 9 10 90.0 3 14 17 1 0 2 4 3 11
+p350
+aVDerrick Williams MIN 02/17/2012 MIN @ HOU W 10 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p351
+aVNikola Pekovic MIN 02/17/2012 MIN @ HOU W 42 30 13 20 65.0 0 0 - 4 5 80.0 9 3 12 1 3 3 6 2 18
+p352
+aVMartell Webster MIN 02/17/2012 MIN @ HOU W 19 3 1 3 33.3 0 2 0.0 1 1 100.0 0 0 0 1 0 1 0 1 -6
+p353
+aVMichael Beasley MIN 02/17/2012 MIN @ HOU W 19 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 3 2 0 1 0 -7
+p354
+aVRicky Rubio MIN 02/17/2012 MIN @ HOU W 39 18 6 13 46.2 2 5 40.0 4 4 100.0 0 2 2 9 1 0 6 2 7
+p355
+aVLuke Ridnour MIN 02/17/2012 MIN @ HOU W 40 9 4 10 40.0 0 0 - 1 1 100.0 0 6 6 6 1 0 2 1 17
+p356
+aVWesley Johnson MIN 02/17/2012 MIN @ HOU W 29 9 4 6 66.7 1 3 33.3 0 0 - 1 4 5 3 0 2 0 3 23
+p357
+aVKevin Love MIN 02/15/2012 MIN vs. CHA W 42 30 11 21 52.4 2 5 40.0 6 8 75.0 4 14 18 3 1 0 3 2 18
+p358
+aVNikola Pekovic MIN 02/15/2012 MIN vs. CHA W 44 21 10 17 58.8 0 0 - 1 2 50.0 5 6 11 2 0 3 4 2 11
+p359
+aVWesley Johnson MIN 02/15/2012 MIN vs. CHA W 24 9 4 9 44.4 0 4 0.0 1 1 100.0 0 1 1 0 1 1 1 3 -1
+p360
+aVMichael Beasley MIN 02/15/2012 MIN vs. CHA W 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 1 1 0 4
+p361
+aVRicky Rubio MIN 02/15/2012 MIN vs. CHA W 25 6 2 7 28.6 0 2 0.0 2 3 66.7 0 1 1 7 4 0 3 0 -1
+p362
+aVMartell Webster MIN 02/15/2012 MIN vs. CHA W 24 6 3 5 60.0 0 1 0.0 0 0 - 1 4 5 0 2 0 0 2 13
+p363
+aVJ.J. Barea MIN 02/15/2012 MIN vs. CHA W 26 12 4 9 44.4 2 3 66.7 2 2 100.0 0 2 2 8 0 0 0 1 8
+p364
+aVWayne Ellington MIN 02/15/2012 MIN vs. CHA W 2 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -7
+p365
+aVLuke Ridnour MIN 02/15/2012 MIN vs. CHA W 34 10 5 8 62.5 0 0 - 0 0 - 0 4 4 5 1 1 1 3 20
+p366
+aVAnthony Tolliver MIN 02/15/2012 MIN vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p367
+aVDerrick Williams MIN 02/15/2012 MIN vs. CHA W 9 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 0 2 2
+p368
+aVJ.J. Barea MIN 02/13/2012 MIN @ ORL L 25 11 4 10 40.0 2 5 40.0 1 3 33.3 0 2 2 1 0 0 7 1 -6
+p369
+aVDarko Milicic MIN 02/13/2012 MIN @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -5
+p370
+aVDerrick Williams MIN 02/13/2012 MIN @ ORL L 20 5 1 5 20.0 0 1 0.0 3 4 75.0 1 5 6 0 0 0 0 1 -5
+p371
+aVWesley Johnson MIN 02/13/2012 MIN @ ORL L 21 6 3 7 42.9 0 2 0.0 0 0 - 0 5 5 1 0 2 0 3 -6
+p372
+aVRicky Rubio MIN 02/13/2012 MIN @ ORL L 40 11 4 7 57.1 1 1 100.0 2 2 100.0 0 3 3 8 0 1 5 3 -14
+p373
+aVWayne Ellington MIN 02/13/2012 MIN @ ORL L 8 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 1
+p374
+aVMichael Beasley MIN 02/13/2012 MIN @ ORL L 27 13 5 13 38.5 2 8 25.0 1 2 50.0 0 2 2 1 1 0 2 0 -5
+p375
+aVNikola Pekovic MIN 02/13/2012 MIN @ ORL L 33 16 6 13 46.2 0 0 - 4 6 66.7 7 6 13 0 1 1 1 1 -2
+p376
+aVMartell Webster MIN 02/13/2012 MIN @ ORL L 23 5 1 4 25.0 0 0 - 3 4 75.0 0 4 4 0 0 0 2 2 -9
+p377
+aVKevin Love MIN 02/13/2012 MIN @ ORL L 40 19 8 17 47.1 0 2 0.0 3 4 75.0 5 10 15 3 1 0 1 3 -14
+p378
+aVRicky Rubio MIN 02/11/2012 MIN vs. NYK L 35 12 5 15 33.3 0 2 0.0 2 2 100.0 0 2 2 8 3 1 2 2 -3
+p379
+aVMartell Webster MIN 02/11/2012 MIN vs. NYK L 10 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p380
+aVDerrick Williams MIN 02/11/2012 MIN vs. NYK L 14 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 1 0 3 2 3
+p381
+aVWesley Johnson MIN 02/11/2012 MIN vs. NYK L 17 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p382
+aVMichael Beasley MIN 02/11/2012 MIN vs. NYK L 31 8 3 9 33.3 1 2 50.0 1 2 50.0 0 2 2 0 0 1 1 1 1
+p383
+aVNikola Pekovic MIN 02/11/2012 MIN vs. NYK L 30 21 9 10 90.0 0 0 - 3 3 100.0 6 7 13 2 1 1 4 4 -1
+p384
+aVLuke Ridnour MIN 02/11/2012 MIN vs. NYK L 27 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 1 1 0 2 6 -4
+p385
+aVKevin Love MIN 02/11/2012 MIN vs. NYK L 43 32 10 21 47.6 2 6 33.3 10 10 100.0 3 18 21 0 1 1 3 3 -2
+p386
+aVJ.J. Barea MIN 02/11/2012 MIN vs. NYK L 21 11 4 10 40.0 1 4 25.0 2 2 100.0 1 2 3 5 2 0 5 1 -4
+p387
+aVWayne Ellington MIN 02/11/2012 MIN vs. NYK L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p388
+aVLuke Ridnour MIN 02/10/2012 MIN vs. DAL L 26 5 2 8 25.0 0 3 0.0 1 1 100.0 0 6 6 5 0 0 1 2 -8
+p389
+aVRicky Rubio MIN 02/10/2012 MIN vs. DAL L 38 10 2 8 25.0 1 4 25.0 5 6 83.3 0 4 4 8 3 0 4 2 -18
+p390
+aVAnthony Tolliver MIN 02/10/2012 MIN vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p391
+aVKevin Love MIN 02/10/2012 MIN vs. DAL L 41 32 9 18 50.0 0 3 0.0 14 14 100.0 4 8 12 3 0 0 5 2 -14
+p392
+aVWesley Johnson MIN 02/10/2012 MIN vs. DAL L 13 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 2 0 0 1 2 -18
+p393
+aVJ.J. Barea MIN 02/10/2012 MIN vs. DAL L 22 6 1 8 12.5 1 4 25.0 3 4 75.0 1 5 6 0 0 0 4 2 4
+p394
+aVWayne Ellington MIN 02/10/2012 MIN vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 7
+p395
+aVMartell Webster MIN 02/10/2012 MIN vs. DAL L 14 5 2 3 66.7 0 1 0.0 1 2 50.0 1 0 1 1 0 0 3 2 6
+p396
+aVNikola Pekovic MIN 02/10/2012 MIN vs. DAL L 28 12 6 14 42.9 0 0 - 0 0 - 3 4 7 0 1 1 3 2 -23
+p397
+aVDerrick Williams MIN 02/10/2012 MIN vs. DAL L 26 6 2 6 33.3 0 1 0.0 2 2 100.0 3 2 5 0 2 0 3 2 6
+p398
+aVMichael Beasley MIN 02/10/2012 MIN vs. DAL L 29 20 8 11 72.7 4 5 80.0 0 0 - 1 3 4 0 1 0 3 5 16
+p399
+aVDerrick Williams MIN 02/08/2012 MIN @ MEM L 30 13 6 13 46.2 0 2 0.0 1 1 100.0 1 8 9 0 1 1 2 3 -13
+p400
+aVAnthony Tolliver MIN 02/08/2012 MIN @ MEM L 18 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 1 2 8
+p401
+aVAnthony Randolph MIN 02/08/2012 MIN @ MEM L 12 8 3 7 42.9 0 0 - 2 2 100.0 2 1 3 1 0 0 0 2 7
+p402
+aVBrad Miller MIN 02/08/2012 MIN @ MEM L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -1
+p403
+aVNikola Pekovic MIN 02/08/2012 MIN @ MEM L 28 10 5 8 62.5 0 0 - 0 2 0.0 3 6 9 0 1 0 1 0 -11
+p404
+aVWesley Johnson MIN 02/08/2012 MIN @ MEM L 23 7 3 6 50.0 0 2 0.0 1 2 50.0 0 2 2 1 0 0 1 2 -8
+p405
+aVLuke Ridnour MIN 02/08/2012 MIN @ MEM L 22 2 1 8 12.5 0 2 0.0 0 0 - 0 0 0 3 1 2 0 1 -9
+p406
+aVMartell Webster MIN 02/08/2012 MIN @ MEM L 8 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -1
+p407
+aVRicky Rubio MIN 02/08/2012 MIN @ MEM L 28 4 1 6 16.7 0 2 0.0 2 2 100.0 1 6 7 1 2 0 4 1 -11
+p408
+aVWayne Ellington MIN 02/08/2012 MIN @ MEM L 12 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 1 1 1 0 7
+p409
+aVMichael Beasley MIN 02/08/2012 MIN @ MEM L 27 13 6 11 54.5 1 2 50.0 0 0 - 1 5 6 2 2 0 2 1 2
+p410
+aVJ.J. Barea MIN 02/08/2012 MIN @ MEM L 23 17 4 9 44.4 3 6 50.0 6 8 75.0 0 3 3 6 2 0 2 1 5
+p411
+aVRicky Rubio MIN 02/07/2012 MIN vs. SAC W 37 6 2 9 22.2 0 1 0.0 2 4 50.0 0 6 6 14 5 0 4 4 11
+p412
+aVLuke Ridnour MIN 02/07/2012 MIN vs. SAC W 32 8 4 12 33.3 0 1 0.0 0 0 - 2 4 6 1 0 0 2 3 -6
+p413
+aVWesley Johnson MIN 02/07/2012 MIN vs. SAC W 24 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 1 11
+p414
+aVJ.J. Barea MIN 02/07/2012 MIN vs. SAC W 21 6 1 4 25.0 0 2 0.0 4 4 100.0 0 1 1 3 0 0 0 1 -11
+p415
+aVMichael Beasley MIN 02/07/2012 MIN vs. SAC W 31 17 7 21 33.3 1 2 50.0 2 3 66.7 3 11 14 0 0 0 3 3 0
+p416
+aVBrad Miller MIN 02/07/2012 MIN vs. SAC W 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 0
+p417
+aVNikola Pekovic MIN 02/07/2012 MIN vs. SAC W 37 23 9 12 75.0 0 0 - 5 5 100.0 3 7 10 0 3 2 4 5 2
+p418
+aVAnthony Tolliver MIN 02/07/2012 MIN vs. SAC W 22 2 0 3 0.0 0 3 0.0 2 4 50.0 2 1 3 1 1 1 2 2 -8
+p419
+aVDerrick Williams MIN 02/07/2012 MIN vs. SAC W 26 14 5 10 50.0 1 2 50.0 3 8 37.5 2 6 8 1 1 3 0 1 11
+p420
+aVJ.J. Barea MIN 02/04/2012 MIN vs. HOU W 26 10 4 8 50.0 0 2 0.0 2 3 66.7 0 3 3 3 1 0 1 2 4
+p421
+aVBrad Miller MIN 02/04/2012 MIN vs. HOU W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 2 0 4
+p422
+aVMartell Webster MIN 02/04/2012 MIN vs. HOU W 20 2 1 8 12.5 0 3 0.0 0 0 - 0 1 1 1 2 0 0 2 11
+p423
+aVNikola Pekovic MIN 02/04/2012 MIN vs. HOU W 30 11 4 7 57.1 0 0 - 3 4 75.0 4 5 9 0 0 1 1 1 10
+p424
+aVMichael Beasley MIN 02/04/2012 MIN vs. HOU W 20 6 3 9 33.3 0 1 0.0 0 0 - 0 6 6 1 0 0 0 0 -7
+p425
+aVWesley Johnson MIN 02/04/2012 MIN vs. HOU W 20 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 1 3 3
+p426
+aVKevin Love MIN 02/04/2012 MIN vs. HOU W 38 25 9 16 56.3 1 2 50.0 6 7 85.7 7 11 18 1 1 0 6 2 10
+p427
+aVLuke Ridnour MIN 02/04/2012 MIN vs. HOU W 32 22 8 14 57.1 4 6 66.7 2 2 100.0 0 2 2 2 0 0 0 2 6
+p428
+aVDerrick Williams MIN 02/04/2012 MIN vs. HOU W 14 6 2 7 28.6 0 1 0.0 2 2 100.0 3 2 5 0 0 1 1 0 8
+p429
+aVRicky Rubio MIN 02/04/2012 MIN vs. HOU W 37 13 4 7 57.1 0 2 0.0 5 5 100.0 0 1 1 11 3 0 4 3 -4
+p430
+aVAnthony Tolliver MIN 02/03/2012 MIN @ NJN W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -8
+p431
+aVJ.J. Barea MIN 02/03/2012 MIN @ NJN W 19 7 2 9 22.2 1 1 100.0 2 2 100.0 2 1 3 5 1 0 2 0 8
+p432
+aVWayne Ellington MIN 02/03/2012 MIN @ NJN W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p433
+aVDarko Milicic MIN 02/03/2012 MIN @ NJN W 8 2 1 5 20.0 0 0 - 0 0 - 4 1 5 0 0 0 1 0 -2
+p434
+aVMichael Beasley MIN 02/03/2012 MIN @ NJN W 16 10 4 7 57.1 0 1 0.0 2 3 66.7 1 3 4 2 0 0 2 3 -6
+p435
+aVDerrick Williams MIN 02/03/2012 MIN @ NJN W 6 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 3
+p436
+aVNikola Pekovic MIN 02/03/2012 MIN @ NJN W 34 27 11 14 78.6 0 0 - 5 6 83.3 7 4 11 1 1 0 3 4 11
+p437
+aVMartell Webster MIN 02/03/2012 MIN @ NJN W 3 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 1
+p438
+aVKevin Love MIN 02/03/2012 MIN @ NJN W 42 20 5 16 31.3 0 4 0.0 10 10 100.0 2 8 10 5 0 1 0 1 0
+p439
+aVLuke Ridnour MIN 02/03/2012 MIN @ NJN W 33 9 2 7 28.6 1 2 50.0 4 4 100.0 0 3 3 1 1 0 3 2 -5
+p440
+aVRicky Rubio MIN 02/03/2012 MIN @ NJN W 38 10 3 8 37.5 2 3 66.7 2 2 100.0 0 2 2 10 6 1 2 3 4
+p441
+aVWesley Johnson MIN 02/03/2012 MIN @ NJN W 29 10 4 10 40.0 1 3 33.3 1 1 100.0 0 8 8 0 0 1 2 2 6
+p442
+aVMartell Webster MIN 02/01/2012 MIN vs. IND L 21 9 2 7 28.6 1 3 33.3 4 4 100.0 2 2 4 0 2 0 0 3 -2
+p443
+aVJ.J. Barea MIN 02/01/2012 MIN vs. IND L 14 7 2 8 25.0 0 3 0.0 3 4 75.0 0 2 2 3 0 0 2 0 -8
+p444
+aVDarko Milicic MIN 02/01/2012 MIN vs. IND L 18 4 2 9 22.2 0 0 - 0 0 - 1 2 3 0 1 1 2 3 -15
+p445
+aVRicky Rubio MIN 02/01/2012 MIN vs. IND L 37 10 3 7 42.9 0 1 0.0 4 5 80.0 0 4 4 6 0 0 1 3 -5
+p446
+aVDerrick Williams MIN 02/01/2012 MIN vs. IND L 10 4 2 3 66.7 0 1 0.0 0 1 0.0 0 1 1 0 0 0 1 0 -11
+p447
+aVLuke Ridnour MIN 02/01/2012 MIN vs. IND L 28 16 7 13 53.8 1 3 33.3 1 1 100.0 1 1 2 4 0 0 2 3 -8
+p448
+aVNikola Pekovic MIN 02/01/2012 MIN vs. IND L 30 13 5 11 45.5 0 0 - 3 6 50.0 5 7 12 0 0 0 2 3 2
+p449
+aVKevin Love MIN 02/01/2012 MIN vs. IND L 38 21 6 16 37.5 0 3 0.0 9 11 81.8 5 12 17 2 0 1 2 4 1
+p450
+aVMichael Beasley MIN 02/01/2012 MIN vs. IND L 21 11 3 11 27.3 1 3 33.3 4 4 100.0 0 1 1 0 1 0 2 4 1
+p451
+aVWesley Johnson MIN 02/01/2012 MIN vs. IND L 18 4 2 6 33.3 0 0 - 0 1 0.0 0 3 3 1 1 2 2 2 -12
+p452
+aVWayne Ellington MIN 02/01/2012 MIN vs. IND L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p453
+aVBrad Miller MIN 01/30/2012 MIN @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p454
+aVAnthony Tolliver MIN 01/30/2012 MIN @ HOU W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 3 0
+p455
+aVMichael Beasley MIN 01/30/2012 MIN @ HOU W 32 34 10 14 71.4 2 3 66.7 12 12 100.0 1 2 3 1 1 0 2 1 4
+p456
+aVLuke Ridnour MIN 01/30/2012 MIN @ HOU W 35 11 5 11 45.5 0 3 0.0 1 1 100.0 0 4 4 5 0 0 1 2 -5
+p457
+aVWesley Johnson MIN 01/30/2012 MIN @ HOU W 20 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 0 1 0 6 2 8
+p458
+aVKevin Love MIN 01/30/2012 MIN @ HOU W 36 29 10 15 66.7 2 4 50.0 7 8 87.5 2 5 7 0 2 0 1 2 20
+p459
+aVNikola Pekovic MIN 01/30/2012 MIN @ HOU W 19 8 4 6 66.7 0 0 - 0 0 - 4 3 7 0 0 0 2 3 14
+p460
+aVDerrick Williams MIN 01/30/2012 MIN @ HOU W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p461
+aVWayne Ellington MIN 01/30/2012 MIN @ HOU W 10 4 1 3 33.3 0 1 0.0 2 3 66.7 0 0 0 0 0 0 0 0 -6
+p462
+aVMartell Webster MIN 01/30/2012 MIN @ HOU W 22 7 3 4 75.0 0 1 0.0 1 1 100.0 0 3 3 1 1 2 3 5 12
+p463
+aVAnthony Randolph MIN 01/30/2012 MIN @ HOU W 14 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 -7
+p464
+aVRicky Rubio MIN 01/30/2012 MIN @ HOU W 38 18 6 10 60.0 2 3 66.7 4 4 100.0 0 8 8 11 1 0 3 1 22
+p465
+aVLuke Ridnour MIN 01/29/2012 MIN vs. LAL L 25 4 2 8 25.0 0 0 - 0 0 - 1 1 2 4 1 0 0 3 -16
+p466
+aVBrad Miller MIN 01/29/2012 MIN vs. LAL L 8 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 1 -4
+p467
+aVDerrick Williams MIN 01/29/2012 MIN vs. LAL L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p468
+aVWayne Ellington MIN 01/29/2012 MIN vs. LAL L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p469
+aVNikola Pekovic MIN 01/29/2012 MIN vs. LAL L 20 13 5 8 62.5 0 0 - 3 3 100.0 7 2 9 0 0 1 2 4 -16
+p470
+aVMartell Webster MIN 01/29/2012 MIN vs. LAL L 23 10 4 15 26.7 2 6 33.3 0 2 0.0 1 4 5 0 1 1 0 0 10
+p471
+aVWesley Johnson MIN 01/29/2012 MIN vs. LAL L 15 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 1 3 -15
+p472
+aVKevin Love MIN 01/29/2012 MIN vs. LAL L 41 33 13 22 59.1 1 4 25.0 6 8 75.0 7 6 13 2 1 0 0 4 1
+p473
+aVMichael Beasley MIN 01/29/2012 MIN vs. LAL L 30 18 7 15 46.7 2 5 40.0 2 2 100.0 3 9 12 3 2 1 1 1 8
+p474
+aVAnthony Randolph MIN 01/29/2012 MIN vs. LAL L 17 9 4 7 57.1 0 0 - 1 2 50.0 3 2 5 1 0 2 0 0 9
+p475
+aVRicky Rubio MIN 01/29/2012 MIN vs. LAL L 42 5 2 13 15.4 0 3 0.0 1 2 50.0 1 3 4 8 0 1 0 3 2
+p476
+aVDerrick Williams MIN 01/27/2012 MIN vs. SAS W 19 12 6 10 60.0 0 2 0.0 0 0 - 1 2 3 0 0 0 2 1 -4
+p477
+aVMichael Beasley MIN 01/27/2012 MIN vs. SAS W 22 7 3 11 27.3 0 1 0.0 1 2 50.0 0 4 4 2 0 0 1 0 -1
+p478
+aVAnthony Randolph MIN 01/27/2012 MIN vs. SAS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -3
+p479
+aVWesley Johnson MIN 01/27/2012 MIN vs. SAS W 24 6 3 7 42.9 0 2 0.0 0 0 - 1 4 5 1 0 1 0 0 8
+p480
+aVMartell Webster MIN 01/27/2012 MIN vs. SAS W 6 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 2
+p481
+aVNikola Pekovic MIN 01/27/2012 MIN vs. SAS W 33 14 7 13 53.8 0 0 - 0 2 0.0 6 4 10 2 1 0 1 5 11
+p482
+aVRicky Rubio MIN 01/27/2012 MIN vs. SAS W 42 18 7 12 58.3 1 2 50.0 3 4 75.0 0 4 4 10 0 0 2 0 10
+p483
+aVWayne Ellington MIN 01/27/2012 MIN vs. SAS W 18 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 0
+p484
+aVKevin Love MIN 01/27/2012 MIN vs. SAS W 38 18 6 13 46.2 0 1 0.0 6 7 85.7 2 14 16 0 1 0 1 1 10
+p485
+aVLuke Ridnour MIN 01/27/2012 MIN vs. SAS W 33 5 2 8 25.0 0 0 - 1 1 100.0 0 2 2 3 3 0 1 1 7
+p486
+aVWayne Ellington MIN 01/25/2012 MIN @ DAL W 39 16 5 15 33.3 1 3 33.3 5 6 83.3 1 3 4 3 1 2 0 0 19
+p487
+aVRicky Rubio MIN 01/25/2012 MIN @ DAL W 46 17 4 16 25.0 1 5 20.0 8 9 88.9 0 7 7 12 4 0 7 2 14
+p488
+aVDarko Milicic MIN 01/25/2012 MIN @ DAL W 24 8 4 6 66.7 0 0 - 0 0 - 2 5 7 0 0 7 1 2 5
+p489
+aVAnthony Tolliver MIN 01/25/2012 MIN @ DAL W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 1 4
+p490
+aVWesley Johnson MIN 01/25/2012 MIN @ DAL W 17 5 2 5 40.0 1 2 50.0 0 0 - 0 4 4 1 2 0 1 1 2
+p491
+aVAnthony Randolph MIN 01/25/2012 MIN @ DAL W 9 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p492
+aVKevin Love MIN 01/25/2012 MIN @ DAL W 43 31 9 16 56.3 4 6 66.7 9 10 90.0 1 10 11 2 2 2 2 3 16
+p493
+aVDerrick Williams MIN 01/25/2012 MIN @ DAL W 25 10 4 7 57.1 1 2 50.0 1 3 33.3 2 4 6 2 0 0 0 1 6
+p494
+aVNikola Pekovic MIN 01/25/2012 MIN @ DAL W 20 13 4 5 80.0 0 0 - 5 5 100.0 4 2 6 0 1 1 4 1 14
+p495
+aVWayne Ellington MIN 01/23/2012 MIN vs. HOU L 34 4 2 11 18.2 0 2 0.0 0 0 - 0 6 6 0 1 0 1 4 -17
+p496
+aVDerrick Williams MIN 01/23/2012 MIN vs. HOU L 37 11 3 9 33.3 0 0 - 5 8 62.5 1 6 7 0 0 0 4 1 -11
+p497
+aVRicky Rubio MIN 01/23/2012 MIN vs. HOU L 38 6 2 10 20.0 0 3 0.0 2 2 100.0 0 3 3 12 3 0 5 4 -19
+p498
+aVKevin Love MIN 01/23/2012 MIN vs. HOU L 42 39 13 19 68.4 5 5 100.0 8 10 80.0 2 9 11 1 1 0 5 3 -14
+p499
+aVDarko Milicic MIN 01/23/2012 MIN vs. HOU L 20 4 2 7 28.6 0 0 - 0 0 - 1 2 3 1 1 1 0 1 0
+p500
+aVLuke Ridnour MIN 01/23/2012 MIN vs. HOU L 36 17 6 11 54.5 0 1 0.0 5 6 83.3 0 3 3 8 2 0 2 3 -10
+p501
+aVAnthony Tolliver MIN 01/23/2012 MIN vs. HOU L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -3
+p502
+aVNikola Pekovic MIN 01/23/2012 MIN vs. HOU L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p503
+aVAnthony Randolph MIN 01/23/2012 MIN vs. HOU L 11 9 4 8 50.0 0 0 - 1 1 100.0 3 2 5 0 1 0 1 2 -3
+p504
+aVAnthony Tolliver MIN 01/21/2012 MIN @ UTA L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p505
+aVDarko Milicic MIN 01/21/2012 MIN @ UTA L 16 10 5 8 62.5 0 0 - 0 0 - 3 1 4 0 0 0 0 0 -10
+p506
+aVWayne Ellington MIN 01/21/2012 MIN @ UTA L 24 10 4 6 66.7 1 1 100.0 1 1 100.0 0 3 3 0 0 0 0 0 -3
+p507
+aVRicky Rubio MIN 01/21/2012 MIN @ UTA L 39 17 5 12 41.7 1 2 50.0 6 6 100.0 1 2 3 11 4 0 2 2 -3
+p508
+aVNikola Pekovic MIN 01/21/2012 MIN @ UTA L 17 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 0 2 2 3 -9
+p509
+aVLuke Ridnour MIN 01/21/2012 MIN @ UTA L 37 10 3 8 37.5 3 4 75.0 1 2 50.0 0 1 1 3 3 1 1 4 -8
+p510
+aVDerrick Williams MIN 01/21/2012 MIN @ UTA L 28 15 6 11 54.5 0 1 0.0 3 4 75.0 4 4 8 1 2 0 1 2 3
+p511
+aVWesley Johnson MIN 01/21/2012 MIN @ UTA L 36 13 5 6 83.3 2 3 66.7 1 1 100.0 1 5 6 2 1 0 1 5 -11
+p512
+aVKevin Love MIN 01/21/2012 MIN @ UTA L 34 15 5 21 23.8 1 7 14.3 4 7 57.1 3 5 8 0 0 0 4 3 -4
+p513
+aVKevin Love MIN 01/20/2012 MIN @ LAC W 36 17 5 16 31.3 2 3 66.7 5 6 83.3 2 12 14 3 1 0 0 2 -5
+p514
+aVWayne Ellington MIN 01/20/2012 MIN @ LAC W 31 13 6 9 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 9
+p515
+aVWesley Johnson MIN 01/20/2012 MIN @ LAC W 24 7 2 6 33.3 1 1 100.0 2 3 66.7 1 0 1 1 1 0 0 1 -3
+p516
+aVNikola Pekovic MIN 01/20/2012 MIN @ LAC W 11 8 4 4 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 9
+p517
+aVDerrick Williams MIN 01/20/2012 MIN @ LAC W 14 9 4 8 50.0 0 1 0.0 1 1 100.0 1 3 4 2 0 0 1 2 17
+p518
+aVDarko Milicic MIN 01/20/2012 MIN @ LAC W 34 22 10 15 66.7 0 0 - 2 5 40.0 5 2 7 2 0 2 3 6 -9
+p519
+aVAnthony Tolliver MIN 01/20/2012 MIN @ LAC W 19 3 1 1 100.0 1 1 100.0 0 1 0.0 0 1 1 1 2 0 3 1 -4
+p520
+aVLuke Ridnour MIN 01/20/2012 MIN @ LAC W 38 13 3 11 27.3 0 4 0.0 7 9 77.8 0 3 3 6 0 0 1 3 -1
+p521
+aVRicky Rubio MIN 01/20/2012 MIN @ LAC W 32 9 1 11 9.1 1 3 33.3 6 8 75.0 0 6 6 6 3 1 3 4 2
+p522
+aVRicky Rubio MIN 01/18/2012 MIN vs. DET W 38 9 1 8 12.5 0 2 0.0 7 8 87.5 2 5 7 8 6 0 3 4 11
+p523
+aVDarko Milicic MIN 01/18/2012 MIN vs. DET W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p524
+aVAnthony Tolliver MIN 01/18/2012 MIN vs. DET W 27 11 4 6 66.7 3 5 60.0 0 0 - 2 3 5 1 2 1 0 2 10
+p525
+aVLuke Ridnour MIN 01/18/2012 MIN vs. DET W 27 7 3 10 30.0 0 4 0.0 1 1 100.0 0 1 1 2 0 0 2 1 -5
+p526
+aVJ.J. Barea MIN 01/18/2012 MIN vs. DET W 14 8 2 6 33.3 2 4 50.0 2 2 100.0 0 1 1 0 0 0 2 0 3
+p527
+aVNikola Pekovic MIN 01/18/2012 MIN vs. DET W 24 11 4 6 66.7 0 0 - 3 4 75.0 1 0 1 0 2 1 4 4 15
+p528
+aVKevin Love MIN 01/18/2012 MIN vs. DET W 43 20 7 20 35.0 1 4 25.0 5 6 83.3 6 11 17 1 1 0 2 3 16
+p529
+aVAnthony Randolph MIN 01/18/2012 MIN vs. DET W 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 2 2 -8
+p530
+aVDerrick Williams MIN 01/18/2012 MIN vs. DET W 16 8 2 6 33.3 0 0 - 4 7 57.1 1 3 4 1 0 1 0 0 -3
+p531
+aVWayne Ellington MIN 01/18/2012 MIN vs. DET W 17 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 2 7
+p532
+aVWesley Johnson MIN 01/18/2012 MIN vs. DET W 22 11 4 6 66.7 1 3 33.3 2 4 50.0 1 2 3 0 0 0 0 0 -2
+p533
+aVAnthony Tolliver MIN 01/16/2012 MIN vs. SAC W 13 0 0 1 0.0 0 1 0.0 0 0 - 2 0 2 1 0 1 0 1 5
+p534
+aVAnthony Randolph MIN 01/16/2012 MIN vs. SAC W 8 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -6
+p535
+aVNikola Pekovic MIN 01/16/2012 MIN vs. SAC W 16 5 2 5 40.0 0 0 - 1 2 50.0 3 0 3 0 2 0 1 4 6
+p536
+aVRicky Rubio MIN 01/16/2012 MIN vs. SAC W 38 9 3 10 30.0 1 3 33.3 2 2 100.0 1 7 8 8 2 0 4 3 -3
+p537
+aVWesley Johnson MIN 01/16/2012 MIN vs. SAC W 34 6 3 11 27.3 0 4 0.0 0 0 - 0 4 4 1 1 1 0 2 10
+p538
+aVDarko Milicic MIN 01/16/2012 MIN vs. SAC W 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 3 3 1 -3
+p539
+aVWayne Ellington MIN 01/16/2012 MIN vs. SAC W 26 15 6 10 60.0 3 5 60.0 0 0 - 0 2 2 0 1 1 0 1 18
+p540
+aVLuke Ridnour MIN 01/16/2012 MIN vs. SAC W 38 25 10 14 71.4 4 4 100.0 1 2 50.0 1 2 3 9 1 1 1 2 20
+p541
+aVDerrick Williams MIN 01/16/2012 MIN vs. SAC W 9 2 0 3 0.0 0 2 0.0 2 2 100.0 0 2 2 2 0 0 0 1 -4
+p542
+aVKevin Love MIN 01/16/2012 MIN vs. SAC W 41 33 11 21 52.4 2 7 28.6 9 11 81.8 2 9 11 3 2 0 3 4 22
+p543
+aVNikola Pekovic MIN 01/14/2012 MIN @ ATL L 17 7 3 4 75.0 0 0 - 1 1 100.0 3 0 3 1 0 0 3 3 7
+p544
+aVRicky Rubio MIN 01/14/2012 MIN @ ATL L 35 18 7 15 46.7 2 3 66.7 2 2 100.0 0 4 4 12 5 0 4 3 4
+p545
+aVKevin Love MIN 01/14/2012 MIN @ ATL L 40 30 12 26 46.2 0 4 0.0 6 6 100.0 4 9 13 2 2 1 2 1 -3
+p546
+aVLuke Ridnour MIN 01/14/2012 MIN @ ATL L 38 7 3 8 37.5 0 3 0.0 1 1 100.0 0 3 3 2 1 1 2 4 6
+p547
+aVWesley Johnson MIN 01/14/2012 MIN @ ATL L 23 4 2 8 25.0 0 3 0.0 0 0 - 1 2 3 0 1 0 2 2 14
+p548
+aVDarko Milicic MIN 01/14/2012 MIN @ ATL L 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 4 11
+p549
+aVWayne Ellington MIN 01/14/2012 MIN @ ATL L 31 13 6 9 66.7 1 4 25.0 0 0 - 1 3 4 2 1 1 0 1 -12
+p550
+aVDerrick Williams MIN 01/14/2012 MIN @ ATL L 8 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 0 1
+p551
+aVAnthony Randolph MIN 01/14/2012 MIN @ ATL L 15 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 0 0 1 1 2 -21
+p552
+aVAnthony Tolliver MIN 01/14/2012 MIN @ ATL L 19 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 0 0 0 0 1 -17
+p553
+aVKevin Love MIN 01/13/2012 MIN @ NOH W 42 34 8 17 47.1 1 3 33.3 17 18 94.4 4 11 15 1 0 3 6 4 10
+p554
+aVDarko Milicic MIN 01/13/2012 MIN @ NOH W 21 3 1 4 25.0 0 0 - 1 4 25.0 0 4 4 0 0 1 2 1 10
+p555
+aVWesley Johnson MIN 01/13/2012 MIN @ NOH W 34 9 4 13 30.8 1 8 12.5 0 0 - 1 7 8 0 1 1 1 3 5
+p556
+aVRicky Rubio MIN 01/13/2012 MIN @ NOH W 44 12 3 7 42.9 0 2 0.0 6 6 100.0 1 5 6 9 3 0 2 2 9
+p557
+aVAnthony Tolliver MIN 01/13/2012 MIN @ NOH W 16 6 1 5 20.0 0 2 0.0 4 4 100.0 2 2 4 0 0 0 1 4 11
+p558
+aVLuke Ridnour MIN 01/13/2012 MIN @ NOH W 40 13 4 13 30.8 2 5 40.0 3 4 75.0 0 5 5 1 0 0 1 3 6
+p559
+aVAnthony Randolph MIN 01/13/2012 MIN @ NOH W 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 2 0 -2
+p560
+aVWayne Ellington MIN 01/13/2012 MIN @ NOH W 17 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 0 0 0 0 1 -1
+p561
+aVDerrick Williams MIN 01/13/2012 MIN @ NOH W 16 4 1 4 25.0 0 2 0.0 2 2 100.0 3 1 4 0 0 0 1 1 -13
+p562
+aVJ.J. Barea MIN 01/10/2012 MIN vs. CHI L 18 10 3 8 37.5 0 2 0.0 4 4 100.0 0 1 1 0 0 0 1 2 -15
+p563
+aVWayne Ellington MIN 01/10/2012 MIN vs. CHI L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p564
+aVLuke Ridnour MIN 01/10/2012 MIN vs. CHI L 34 22 8 11 72.7 3 3 100.0 3 3 100.0 0 2 2 2 3 1 1 4 2
+p565
+aVWesley Johnson MIN 01/10/2012 MIN vs. CHI L 9 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -15
+p566
+aVDarko Milicic MIN 01/10/2012 MIN vs. CHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -12
+p567
+aVKevin Love MIN 01/10/2012 MIN vs. CHI L 40 20 5 18 27.8 3 8 37.5 7 7 100.0 4 9 13 2 0 0 1 3 -6
+p568
+aVAnthony Tolliver MIN 01/10/2012 MIN vs. CHI L 36 6 1 4 25.0 1 4 25.0 3 4 75.0 0 3 3 0 1 1 0 1 6
+p569
+aVRicky Rubio MIN 01/10/2012 MIN vs. CHI L 36 13 6 11 54.5 0 1 0.0 1 2 50.0 0 4 4 12 4 0 5 3 3
+p570
+aVDerrick Williams MIN 01/10/2012 MIN vs. CHI L 22 5 1 7 14.3 1 3 33.3 2 5 40.0 1 1 2 0 1 1 1 1 -12
+p571
+aVAnthony Randolph MIN 01/10/2012 MIN vs. CHI L 29 18 6 10 60.0 0 0 - 6 7 85.7 1 1 2 1 1 1 1 2 6
+p572
+aVJ.J. Barea MIN 01/09/2012 MIN @ TOR L 17 16 5 9 55.6 2 4 50.0 4 4 100.0 0 1 1 3 0 0 2 2 21
+p573
+aVWesley Johnson MIN 01/09/2012 MIN @ TOR L 19 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 1 2 1 2 0 -12
+p574
+aVWayne Ellington MIN 01/09/2012 MIN @ TOR L 23 5 2 6 33.3 1 3 33.3 0 0 - 1 0 1 0 1 0 1 2 -21
+p575
+aVDerrick Williams MIN 01/09/2012 MIN @ TOR L 28 13 4 11 36.4 0 3 0.0 5 5 100.0 3 5 8 2 1 1 2 3 7
+p576
+aVDarko Milicic MIN 01/09/2012 MIN @ TOR L 18 6 3 8 37.5 0 0 - 0 0 - 3 2 5 0 0 1 1 3 -11
+p577
+aVKevin Love MIN 01/09/2012 MIN @ TOR L 36 13 3 16 18.8 2 4 50.0 5 10 50.0 5 9 14 1 0 0 1 4 -20
+p578
+aVRicky Rubio MIN 01/09/2012 MIN @ TOR L 30 10 2 9 22.2 1 2 50.0 5 7 71.4 1 3 4 6 3 0 2 1 1
+p579
+aVLuke Ridnour MIN 01/09/2012 MIN @ TOR L 30 13 6 9 66.7 1 3 33.3 0 0 - 0 0 0 1 1 0 2 3 -31
+p580
+aVAnthony Randolph MIN 01/09/2012 MIN @ TOR L 15 9 2 4 50.0 0 0 - 5 5 100.0 1 3 4 0 0 1 1 2 2
+p581
+aVAnthony Tolliver MIN 01/09/2012 MIN @ TOR L 24 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 1 6 14
+p582
+aVNikola Pekovic MIN 01/08/2012 MIN @ WAS W 2 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 0
+p583
+aVRicky Rubio MIN 01/08/2012 MIN @ WAS W 30 13 5 14 35.7 1 2 50.0 2 2 100.0 1 5 6 14 0 1 5 0 29
+p584
+aVAnthony Tolliver MIN 01/08/2012 MIN @ WAS W 26 11 4 6 66.7 1 2 50.0 2 2 100.0 1 2 3 0 0 2 0 0 19
+p585
+aVKevin Love MIN 01/08/2012 MIN @ WAS W 41 20 7 16 43.8 1 4 25.0 5 7 71.4 2 14 16 3 3 0 1 3 22
+p586
+aVDarko Milicic MIN 01/08/2012 MIN @ WAS W 18 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 3 4 4 -8
+p587
+aVAnthony Randolph MIN 01/08/2012 MIN @ WAS W 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 -1
+p588
+aVLuke Ridnour MIN 01/08/2012 MIN @ WAS W 31 13 6 10 60.0 1 4 25.0 0 0 - 0 3 3 2 1 0 2 2 2
+p589
+aVWesley Johnson MIN 01/08/2012 MIN @ WAS W 20 5 2 8 25.0 0 4 0.0 1 2 50.0 0 2 2 1 0 1 1 1 2
+p590
+aVDerrick Williams MIN 01/08/2012 MIN @ WAS W 30 14 5 12 41.7 4 7 57.1 0 0 - 2 5 7 0 0 0 1 2 29
+p591
+aVWayne Ellington MIN 01/08/2012 MIN @ WAS W 34 13 5 8 62.5 2 3 66.7 1 2 50.0 0 0 0 2 3 0 1 3 11
+p592
+aVRicky Rubio MIN 01/06/2012 MIN vs. CLE L 28 10 4 8 50.0 0 2 0.0 2 4 50.0 0 2 2 5 3 0 3 4 -5
+p593
+aVAnthony Tolliver MIN 01/06/2012 MIN vs. CLE L 18 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 1 0 0 3 -14
+p594
+aVWesley Johnson MIN 01/06/2012 MIN vs. CLE L 17 2 1 3 33.3 0 0 - 0 0 - 1 2 3 3 0 0 2 1 -3
+p595
+aVMichael Beasley MIN 01/06/2012 MIN vs. CLE L 28 9 4 12 33.3 0 0 - 1 1 100.0 2 10 12 0 0 1 3 4 1
+p596
+aVNikola Pekovic MIN 01/06/2012 MIN vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p597
+aVDerrick Williams MIN 01/06/2012 MIN vs. CLE L 26 12 4 8 50.0 0 1 0.0 4 5 80.0 1 3 4 1 1 2 0 1 -7
+p598
+aVDarko Milicic MIN 01/06/2012 MIN vs. CLE L 22 11 5 8 62.5 0 0 - 1 6 16.7 2 2 4 0 1 1 0 0 -2
+p599
+aVKevin Love MIN 01/06/2012 MIN vs. CLE L 41 29 8 19 42.1 3 7 42.9 10 12 83.3 4 10 14 0 0 0 4 4 -13
+p600
+aVWayne Ellington MIN 01/06/2012 MIN vs. CLE L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 0 -5
+p601
+aVAnthony Randolph MIN 01/06/2012 MIN vs. CLE L 7 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 2
+p602
+aVLuke Ridnour MIN 01/06/2012 MIN vs. CLE L 38 7 2 11 18.2 1 6 16.7 2 2 100.0 1 0 1 6 1 0 3 1 -11
+p603
+aVAnthony Tolliver MIN 01/04/2012 MIN vs. MEM L 23 3 1 4 25.0 0 1 0.0 1 1 100.0 2 2 4 1 0 1 1 1 7
+p604
+aVRicky Rubio MIN 01/04/2012 MIN vs. MEM L 32 12 5 9 55.6 2 2 100.0 0 2 0.0 1 3 4 10 2 0 4 2 2
+p605
+aVMichael Beasley MIN 01/04/2012 MIN vs. MEM L 36 11 5 16 31.3 1 3 33.3 0 2 0.0 3 7 10 1 0 0 5 3 -4
+p606
+aVWesley Johnson MIN 01/04/2012 MIN vs. MEM L 16 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 -6
+p607
+aVLuke Ridnour MIN 01/04/2012 MIN vs. MEM L 30 13 4 10 40.0 1 3 33.3 4 5 80.0 0 2 2 2 2 0 2 5 -5
+p608
+aVDerrick Williams MIN 01/04/2012 MIN vs. MEM L 16 6 2 4 50.0 1 3 33.3 1 2 50.0 0 2 2 1 0 0 0 2 5
+p609
+aVDarko Milicic MIN 01/04/2012 MIN vs. MEM L 22 4 1 6 16.7 0 0 - 2 4 50.0 3 5 8 0 0 0 1 2 -7
+p610
+aVWayne Ellington MIN 01/04/2012 MIN vs. MEM L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 1
+p611
+aVAnthony Randolph MIN 01/04/2012 MIN vs. MEM L 9 8 3 3 100.0 0 0 - 2 4 50.0 0 1 1 0 1 0 1 0 -2
+p612
+aVKevin Love MIN 01/04/2012 MIN vs. MEM L 38 27 11 21 52.4 2 6 33.3 3 4 75.0 8 6 14 0 0 2 3 3 -11
+p613
+aVLuke Ridnour MIN 01/02/2012 MIN vs. SAS W 36 19 7 10 70.0 2 3 66.7 3 4 75.0 0 1 1 9 0 1 3 3 6
+p614
+aVWayne Ellington MIN 01/02/2012 MIN vs. SAS W 7 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 6
+p615
+aVDerrick Williams MIN 01/02/2012 MIN vs. SAS W 12 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 3 -2
+p616
+aVKevin Love MIN 01/02/2012 MIN vs. SAS W 44 24 8 15 53.3 4 9 44.4 4 5 80.0 3 12 15 1 3 2 6 2 10
+p617
+aVRicky Rubio MIN 01/02/2012 MIN vs. SAS W 24 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 3 0 1 2 1 1
+p618
+aVAnthony Tolliver MIN 01/02/2012 MIN vs. SAS W 24 5 1 3 33.3 1 2 50.0 2 2 100.0 2 4 6 0 0 0 1 1 -7
+p619
+aVDarko Milicic MIN 01/02/2012 MIN vs. SAS W 22 10 5 9 55.6 0 0 - 0 0 - 1 5 6 1 0 1 0 2 19
+p620
+aVMichael Beasley MIN 01/02/2012 MIN vs. SAS W 43 19 8 15 53.3 2 2 100.0 1 2 50.0 1 4 5 3 0 1 3 3 10
+p621
+aVWesley Johnson MIN 01/02/2012 MIN vs. SAS W 30 14 6 6 100.0 2 2 100.0 0 0 - 0 2 2 1 1 1 2 1 7
+p622
+aVDarko Milicic MIN 01/01/2012 MIN vs. DAL W 15 7 2 3 66.7 0 0 - 3 4 75.0 0 2 2 0 0 0 0 1 -2
+p623
+aVMichael Beasley MIN 01/01/2012 MIN vs. DAL W 31 8 3 10 30.0 0 0 - 2 4 50.0 1 6 7 1 1 0 2 2 8
+p624
+aVAnthony Tolliver MIN 01/01/2012 MIN vs. DAL W 26 13 5 8 62.5 3 5 60.0 0 0 - 4 2 6 0 0 0 1 3 14
+p625
+aVLuke Ridnour MIN 01/01/2012 MIN vs. DAL W 29 11 5 9 55.6 0 3 0.0 1 1 100.0 1 1 2 3 1 0 2 2 11
+p626
+aVWesley Johnson MIN 01/01/2012 MIN vs. DAL W 13 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 1 1 0 1 2 -3
+p627
+aVKevin Love MIN 01/01/2012 MIN vs. DAL W 38 25 9 16 56.3 5 6 83.3 2 2 100.0 7 10 17 1 1 1 1 1 15
+p628
+aVDerrick Williams MIN 01/01/2012 MIN vs. DAL W 16 4 1 3 33.3 0 0 - 2 4 50.0 2 5 7 0 3 0 0 1 12
+p629
+aVWayne Ellington MIN 01/01/2012 MIN vs. DAL W 12 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 9
+p630
+aVRicky Rubio MIN 01/01/2012 MIN vs. DAL W 26 14 4 8 50.0 2 3 66.7 4 4 100.0 0 3 3 7 0 0 4 2 14
+p631
+aVAnthony Randolph MIN 01/01/2012 MIN vs. DAL W 17 4 1 6 16.7 0 0 - 2 2 100.0 2 2 4 0 0 2 3 2 1
+p632
+aVJ.J. Barea MIN 01/01/2012 MIN vs. DAL W 17 8 4 11 36.4 0 3 0.0 0 1 0.0 0 3 3 2 0 0 2 1 6
+p633
+aVWayne Ellington MIN 12/30/2011 MIN vs. MIA L 31 11 5 13 38.5 1 6 16.7 0 0 - 2 3 5 1 3 0 1 3 9
+p634
+aVRicky Rubio MIN 12/30/2011 MIN vs. MIA L 31 12 4 7 57.1 2 2 100.0 2 3 66.7 0 6 6 12 1 0 5 1 9
+p635
+aVLuke Ridnour MIN 12/30/2011 MIN vs. MIA L 17 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 1 1 0 1 1 -11
+p636
+aVDarko Milicic MIN 12/30/2011 MIN vs. MIA L 17 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 1 1 2 1 2 -18
+p637
+aVAnthony Tolliver MIN 12/30/2011 MIN vs. MIA L 27 10 3 8 37.5 1 3 33.3 3 5 60.0 1 6 7 1 0 0 2 3 1
+p638
+aVWesley Johnson MIN 12/30/2011 MIN vs. MIA L 17 6 2 6 33.3 2 6 33.3 0 0 - 0 2 2 1 0 1 3 1 -11
+p639
+aVDerrick Williams MIN 12/30/2011 MIN vs. MIA L 21 10 4 6 66.7 2 3 66.7 0 2 0.0 2 2 4 0 1 0 2 0 4
+p640
+aVKevin Love MIN 12/30/2011 MIN vs. MIA L 33 25 10 19 52.6 1 3 33.3 4 6 66.7 4 8 12 3 2 0 6 4 -10
+p641
+aVMichael Beasley MIN 12/30/2011 MIN vs. MIA L 22 4 2 6 33.3 0 0 - 0 0 - 0 3 3 1 1 0 2 4 -1
+p642
+aVAnthony Randolph MIN 12/30/2011 MIN vs. MIA L 25 14 6 9 66.7 0 1 0.0 2 2 100.0 1 2 3 0 1 1 2 3 18
+p643
+aVRicky Rubio MIN 12/27/2011 MIN @ MIL L 27 6 2 3 66.7 0 0 - 2 3 66.7 0 3 3 4 3 0 3 3 -1
+p644
+aVWesley Johnson MIN 12/27/2011 MIN @ MIL L 31 8 3 9 33.3 2 4 50.0 0 0 - 0 4 4 0 0 0 1 1 -8
+p645
+aVAnthony Tolliver MIN 12/27/2011 MIN @ MIL L 21 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 2 9
+p646
+aVDarko Milicic MIN 12/27/2011 MIN @ MIL L 24 4 2 4 50.0 0 0 - 0 0 - 1 8 9 0 1 0 5 6 -4
+p647
+aVKevin Love MIN 12/27/2011 MIN @ MIL L 40 31 6 18 33.3 0 4 0.0 19 24 79.2 9 11 20 2 0 0 3 1 -1
+p648
+aVDerrick Williams MIN 12/27/2011 MIN @ MIL L 19 3 1 3 33.3 0 1 0.0 1 2 50.0 1 4 5 1 0 0 4 2 -3
+p649
+aVJ.J. Barea MIN 12/27/2011 MIN @ MIL L 19 9 1 9 11.1 1 1 100.0 6 6 100.0 1 2 3 4 1 0 1 1 1
+p650
+aVMichael Beasley MIN 12/27/2011 MIN @ MIL L 25 15 6 13 46.2 1 2 50.0 2 6 33.3 2 5 7 0 0 0 3 4 -2
+p651
+aVLuke Ridnour MIN 12/27/2011 MIN @ MIL L 34 17 7 10 70.0 2 2 100.0 1 2 50.0 0 0 0 3 1 0 4 4 -6
+p652
+aVRicky Rubio MIN 12/26/2011 MIN vs. OKC L 26 6 2 3 66.7 0 1 0.0 2 2 100.0 0 5 5 6 0 0 0 4 -1
+p653
+aVJ.J. Barea MIN 12/26/2011 MIN vs. OKC L 27 14 6 11 54.5 1 3 33.3 1 1 100.0 0 2 2 2 0 0 0 3 11
+p654
+aVKevin Love MIN 12/26/2011 MIN vs. OKC L 41 22 6 14 42.9 1 3 33.3 9 12 75.0 5 7 12 5 1 0 3 3 -4
+p655
+aVAnthony Randolph MIN 12/26/2011 MIN vs. OKC L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p656
+aVWesley Johnson MIN 12/26/2011 MIN vs. OKC L 25 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 3 0 0 3 2 -13
+p657
+aVLuke Ridnour MIN 12/26/2011 MIN vs. OKC L 18 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 4 1 0 0 2 -5
+p658
+aVMichael Beasley MIN 12/26/2011 MIN vs. OKC L 36 24 11 27 40.7 0 3 0.0 2 3 66.7 2 3 5 1 1 1 2 2 -8
+p659
+aVDarko Milicic MIN 12/26/2011 MIN vs. OKC L 20 12 4 6 66.7 0 0 - 4 6 66.7 1 2 3 0 0 0 1 2 4
+p660
+aVDerrick Williams MIN 12/26/2011 MIN vs. OKC L 24 13 6 14 42.9 0 4 0.0 1 2 50.0 2 4 6 1 1 0 2 3 -4
+p661
+aVAnthony Tolliver MIN 12/26/2011 MIN vs. OKC L 20 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 1 0 2 2
+p662
+a.

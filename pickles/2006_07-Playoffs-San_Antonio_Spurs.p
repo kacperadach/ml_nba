@@ -1,0 +1,432 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVFabricio Oberto SAS 06/14/2007 SAS @ CLE W 25 7 3 5 60.0 0 0 - 1 1 100.0 3 2 5 0 1 0 0 2 5
+p2
+aVBruce Bowen SAS 06/14/2007 SAS @ CLE W 42 2 1 6 16.7 0 3 0.0 0 0 - 1 4 5 3 0 0 0 4 0
+p3
+aVMichael Finley SAS 06/14/2007 SAS @ CLE W 16 4 1 5 20.0 0 2 0.0 2 3 66.7 0 2 2 0 0 0 0 0 -10
+p4
+aVFrancisco Elson SAS 06/14/2007 SAS @ CLE W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 1
+p5
+aVJacque Vaughn SAS 06/14/2007 SAS @ CLE W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p6
+aVBrent Barry SAS 06/14/2007 SAS @ CLE W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -10
+p7
+aVManu Ginobili SAS 06/14/2007 SAS @ CLE W 33 27 8 19 42.1 3 9 33.3 8 11 72.7 1 4 5 3 1 0 1 5 13
+p8
+aVTony Parker SAS 06/14/2007 SAS @ CLE W 39 24 10 14 71.4 2 3 66.7 2 5 40.0 0 7 7 1 0 0 3 2 2
+p9
+aVTim Duncan SAS 06/14/2007 SAS @ CLE W 40 12 4 15 26.7 0 0 - 4 10 40.0 5 10 15 3 2 2 6 3 6
+p10
+aVRobert Horry SAS 06/14/2007 SAS @ CLE W 19 1 0 2 0.0 0 2 0.0 1 2 50.0 1 2 3 1 0 0 2 1 -1
+p11
+aVFabricio Oberto SAS 06/12/2007 SAS @ CLE W 21 6 3 7 42.9 0 0 - 0 0 - 1 3 4 0 0 0 2 3 5
+p12
+aVBrent Barry SAS 06/12/2007 SAS @ CLE W 17 9 3 5 60.0 3 4 75.0 0 0 - 1 1 2 0 1 0 1 1 13
+p13
+aVTony Parker SAS 06/12/2007 SAS @ CLE W 39 17 7 17 41.2 1 3 33.3 2 4 50.0 1 4 5 3 0 0 3 0 1
+p14
+aVBruce Bowen SAS 06/12/2007 SAS @ CLE W 44 13 4 6 66.7 4 5 80.0 1 4 25.0 0 9 9 1 1 0 1 1 -3
+p15
+aVManu Ginobili SAS 06/12/2007 SAS @ CLE W 27 3 0 7 0.0 0 3 0.0 3 4 75.0 0 4 4 5 0 0 3 2 7
+p16
+aVMichael Finley SAS 06/12/2007 SAS @ CLE W 24 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 1 4 0 1 1 -8
+p17
+aVTim Duncan SAS 06/12/2007 SAS @ CLE W 34 14 6 17 35.3 0 0 - 2 2 100.0 2 7 9 3 1 2 2 4 0
+p18
+aVFrancisco Elson SAS 06/12/2007 SAS @ CLE W 6 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -5
+p19
+aVJacque Vaughn SAS 06/12/2007 SAS @ CLE W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p20
+aVRobert Horry SAS 06/12/2007 SAS @ CLE W 20 3 1 1 100.0 1 1 100.0 0 0 - 1 4 5 2 0 0 0 1 3
+p21
+aVBeno Udrih SAS 06/10/2007 SAS vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p22
+aVRobert Horry SAS 06/10/2007 SAS vs. CLE W 26 5 1 3 33.3 1 2 50.0 2 2 100.0 2 7 9 4 0 5 0 3 27
+p23
+aVJacque Vaughn SAS 06/10/2007 SAS vs. CLE W 12 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 0 0 0 1
+p24
+aVFabricio Oberto SAS 06/10/2007 SAS vs. CLE W 20 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 0 0 0 1 3 1
+p25
+aVMichael Finley SAS 06/10/2007 SAS vs. CLE W 15 2 1 4 25.0 0 3 0.0 0 0 - 1 0 1 2 1 0 1 2 3
+p26
+aVBrent Barry SAS 06/10/2007 SAS vs. CLE W 12 3 1 6 16.7 1 6 16.7 0 0 - 0 2 2 1 0 0 0 0 -4
+p27
+aVTim Duncan SAS 06/10/2007 SAS vs. CLE W 36 23 9 16 56.3 0 0 - 5 7 71.4 4 5 9 8 0 0 1 4 10
+p28
+aVTony Parker SAS 06/10/2007 SAS vs. CLE W 36 30 13 20 65.0 1 1 100.0 3 4 75.0 1 3 4 2 1 0 2 2 10
+p29
+aVBruce Bowen SAS 06/10/2007 SAS vs. CLE W 41 3 1 9 11.1 1 6 16.7 0 0 - 1 4 5 0 1 1 1 1 6
+p30
+aVFrancisco Elson SAS 06/10/2007 SAS vs. CLE W 13 6 3 3 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -16
+p31
+aVManu Ginobili SAS 06/10/2007 SAS vs. CLE W 28 25 5 11 45.5 4 6 66.7 11 11 100.0 0 6 6 2 3 0 3 5 17
+p32
+aVBeno Udrih SAS 06/07/2007 SAS vs. CLE W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p33
+aVRobert Horry SAS 06/07/2007 SAS vs. CLE W 23 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 6 1 0 3 2 -2
+p34
+aVManu Ginobili SAS 06/07/2007 SAS vs. CLE W 28 16 5 12 41.7 3 5 60.0 3 4 75.0 0 8 8 0 1 0 2 3 9
+p35
+aVTony Parker SAS 06/07/2007 SAS vs. CLE W 38 27 12 23 52.2 0 0 - 3 6 50.0 1 3 4 7 2 0 4 1 3
+p36
+aVFrancisco Elson SAS 06/07/2007 SAS vs. CLE W 16 5 2 2 100.0 0 0 - 1 1 100.0 3 3 6 0 0 0 0 1 3
+p37
+aVTim Duncan SAS 06/07/2007 SAS vs. CLE W 39 24 10 17 58.8 0 0 - 4 5 80.0 5 8 13 1 2 5 2 2 8
+p38
+aVFabricio Oberto SAS 06/07/2007 SAS vs. CLE W 17 0 0 2 0.0 0 0 - 0 0 - 2 2 4 2 0 0 1 3 7
+p39
+aVJacque Vaughn SAS 06/07/2007 SAS vs. CLE W 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 6
+p40
+aVMichael Finley SAS 06/07/2007 SAS vs. CLE W 20 2 1 7 14.3 0 4 0.0 0 0 - 0 3 3 0 0 0 0 1 4
+p41
+aVBruce Bowen SAS 06/07/2007 SAS vs. CLE W 40 6 2 6 33.3 2 4 50.0 0 0 - 1 2 3 1 0 0 1 1 12
+p42
+aVBrent Barry SAS 06/07/2007 SAS vs. CLE W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p43
+aVJacque Vaughn SAS 05/30/2007 SAS vs. UTA W 21 8 4 6 66.7 0 0 - 0 0 - 0 1 1 6 1 0 0 1 5
+p44
+aVMichael Finley SAS 05/30/2007 SAS vs. UTA W 24 9 4 8 50.0 1 1 100.0 0 0 - 0 2 2 1 1 0 0 2 18
+p45
+aVBruce Bowen SAS 05/30/2007 SAS vs. UTA W 25 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 1 0 0 4 24
+p46
+aVTony Parker SAS 05/30/2007 SAS vs. UTA W 27 21 7 13 53.8 0 0 - 7 11 63.6 2 3 5 5 0 0 0 0 20
+p47
+aVBeno Udrih SAS 05/30/2007 SAS vs. UTA W 10 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -2
+p48
+aVTim Duncan SAS 05/30/2007 SAS vs. UTA W 29 21 7 14 50.0 0 0 - 7 8 87.5 1 6 7 3 0 0 3 1 18
+p49
+aVFabricio Oberto SAS 05/30/2007 SAS vs. UTA W 30 7 3 5 60.0 0 0 - 1 3 33.3 4 6 10 2 0 1 0 2 19
+p50
+aVFrancisco Elson SAS 05/30/2007 SAS vs. UTA W 16 9 4 6 66.7 0 1 0.0 1 2 50.0 3 3 6 1 1 1 0 3 2
+p51
+aVMatt Bonner SAS 05/30/2007 SAS vs. UTA W 10 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 1 3 -2
+p52
+aVBrent Barry SAS 05/30/2007 SAS vs. UTA W 17 9 3 6 50.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 1 2 -4
+p53
+aVManu Ginobili SAS 05/30/2007 SAS vs. UTA W 21 12 4 8 50.0 2 4 50.0 2 2 100.0 0 5 5 1 0 0 2 2 14
+p54
+aVRobert Horry SAS 05/30/2007 SAS vs. UTA W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 1 1 2 0 4 13
+p55
+aVBruce Bowen SAS 05/28/2007 SAS @ UTA W 32 7 3 7 42.9 1 4 25.0 0 0 - 2 3 5 1 2 0 0 2 -1
+p56
+aVRobert Horry SAS 05/28/2007 SAS @ UTA W 20 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -3
+p57
+aVJacque Vaughn SAS 05/28/2007 SAS @ UTA W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 1 0 1 2 9
+p58
+aVFrancisco Elson SAS 05/28/2007 SAS @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p59
+aVTim Duncan SAS 05/28/2007 SAS @ UTA W 38 19 6 13 46.2 0 0 - 7 12 58.3 2 7 9 1 0 5 5 2 15
+p60
+aVTony Parker SAS 05/28/2007 SAS @ UTA W 37 17 6 19 31.6 0 0 - 5 7 71.4 1 2 3 2 2 0 3 2 3
+p61
+aVManu Ginobili SAS 05/28/2007 SAS @ UTA W 35 22 4 10 40.0 2 4 50.0 12 15 80.0 1 5 6 1 3 0 1 3 16
+p62
+aVFabricio Oberto SAS 05/28/2007 SAS @ UTA W 37 11 4 8 50.0 0 1 0.0 3 4 75.0 6 5 11 0 0 0 0 3 11
+p63
+aVMichael Finley SAS 05/28/2007 SAS @ UTA W 29 13 4 10 40.0 2 6 33.3 3 3 100.0 0 1 1 2 0 1 0 2 9
+p64
+aVTony Parker SAS 05/26/2007 SAS @ UTA L 32 25 9 18 50.0 1 2 50.0 6 6 100.0 0 1 1 7 1 0 2 4 -9
+p65
+aVTim Duncan SAS 05/26/2007 SAS @ UTA L 26 16 6 9 66.7 0 0 - 4 5 80.0 2 6 8 3 1 2 8 5 -12
+p66
+aVBrent Barry SAS 05/26/2007 SAS @ UTA L 18 5 2 7 28.6 1 6 16.7 0 0 - 0 0 0 1 0 0 2 1 -17
+p67
+aVFabricio Oberto SAS 05/26/2007 SAS @ UTA L 26 5 2 2 100.0 0 0 - 1 2 50.0 0 4 4 1 1 0 0 4 2
+p68
+aVFrancisco Elson SAS 05/26/2007 SAS @ UTA L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 4 4 0 1 1 2 5 -13
+p69
+aVJacque Vaughn SAS 05/26/2007 SAS @ UTA L 18 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -24
+p70
+aVManu Ginobili SAS 05/26/2007 SAS @ UTA L 30 14 4 12 33.3 2 5 40.0 4 6 66.7 0 1 1 4 1 0 1 1 -18
+p71
+aVRobert Horry SAS 05/26/2007 SAS @ UTA L 21 5 1 3 33.3 1 2 50.0 2 2 100.0 1 2 3 0 0 1 1 1 -14
+p72
+aVMichael Finley SAS 05/26/2007 SAS @ UTA L 17 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 1 0 0 1 -4
+p73
+aVBruce Bowen SAS 05/26/2007 SAS @ UTA L 28 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 1 0 0 0 4 -3
+p74
+aVMatt Bonner SAS 05/26/2007 SAS @ UTA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -9
+p75
+aVBeno Udrih SAS 05/26/2007 SAS @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -9
+p76
+aVBrent Barry SAS 05/22/2007 SAS vs. UTA W 13 9 3 4 75.0 3 4 75.0 0 0 - 0 2 2 2 0 0 1 0 5
+p77
+aVTony Parker SAS 05/22/2007 SAS vs. UTA W 39 17 7 12 58.3 1 1 100.0 2 4 50.0 0 3 3 14 2 0 7 2 9
+p78
+aVMatt Bonner SAS 05/22/2007 SAS vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p79
+aVManu Ginobili SAS 05/22/2007 SAS vs. UTA W 30 17 6 12 50.0 3 7 42.9 2 2 100.0 1 3 4 3 2 1 5 4 0
+p80
+aVFrancisco Elson SAS 05/22/2007 SAS vs. UTA W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 3
+p81
+aVMichael Finley SAS 05/22/2007 SAS vs. UTA W 23 11 4 10 40.0 3 6 50.0 0 0 - 1 5 6 2 0 1 0 2 9
+p82
+aVBruce Bowen SAS 05/22/2007 SAS vs. UTA W 29 9 3 6 50.0 3 4 75.0 0 0 - 2 1 3 1 1 0 3 2 6
+p83
+aVTim Duncan SAS 05/22/2007 SAS vs. UTA W 38 26 10 15 66.7 0 0 - 6 8 75.0 3 11 14 4 2 5 3 3 7
+p84
+aVBeno Udrih SAS 05/22/2007 SAS vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p85
+aVJacque Vaughn SAS 05/22/2007 SAS vs. UTA W 9 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 0 0 1 2 0
+p86
+aVFabricio Oberto SAS 05/22/2007 SAS vs. UTA W 33 14 6 7 85.7 0 0 - 2 2 100.0 2 5 7 1 1 1 2 3 9
+p87
+aVRobert Horry SAS 05/22/2007 SAS vs. UTA W 17 0 0 4 0.0 0 4 0.0 0 0 - 0 4 4 0 2 2 1 2 -1
+p88
+aVMichael Finley SAS 05/20/2007 SAS vs. UTA W 25 14 2 5 40.0 2 3 66.7 8 8 100.0 0 0 0 0 0 2 0 2 4
+p89
+aVBruce Bowen SAS 05/20/2007 SAS vs. UTA W 25 3 1 5 20.0 1 3 33.3 0 0 - 2 1 3 0 1 0 0 3 -7
+p90
+aVFabricio Oberto SAS 05/20/2007 SAS vs. UTA W 29 14 6 8 75.0 0 0 - 2 3 66.7 2 5 7 0 0 1 0 2 -7
+p91
+aVJacque Vaughn SAS 05/20/2007 SAS vs. UTA W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p92
+aVBeno Udrih SAS 05/20/2007 SAS vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p93
+aVBrent Barry SAS 05/20/2007 SAS vs. UTA W 13 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 1 1 0 1 0 3
+p94
+aVTim Duncan SAS 05/20/2007 SAS vs. UTA W 39 27 9 15 60.0 0 0 - 9 13 69.2 3 7 10 5 0 2 3 5 8
+p95
+aVManu Ginobili SAS 05/20/2007 SAS vs. UTA W 33 23 9 14 64.3 2 3 66.7 3 6 50.0 0 4 4 10 1 1 2 4 17
+p96
+aVRobert Horry SAS 05/20/2007 SAS vs. UTA W 17 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 1 1 0 7
+p97
+aVFrancisco Elson SAS 05/20/2007 SAS vs. UTA W 11 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 7
+p98
+aVTony Parker SAS 05/20/2007 SAS vs. UTA W 38 21 8 15 53.3 0 0 - 5 10 50.0 1 1 2 6 3 0 6 3 6
+p99
+aVFrancisco Elson SAS 05/18/2007 SAS vs. PHX W 21 2 1 3 33.3 0 0 - 0 0 - 3 2 5 1 1 0 2 4 4
+p100
+aVMichael Finley SAS 05/18/2007 SAS vs. PHX W 32 11 3 6 50.0 1 4 25.0 4 4 100.0 0 3 3 1 1 0 0 2 3
+p101
+aVManu Ginobili SAS 05/18/2007 SAS vs. PHX W 36 33 11 17 64.7 4 7 57.1 7 9 77.8 4 7 11 6 4 0 3 4 12
+p102
+aVJacque Vaughn SAS 05/18/2007 SAS vs. PHX W 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 1 0
+p103
+aVTony Parker SAS 05/18/2007 SAS vs. PHX W 41 30 11 27 40.7 0 3 0.0 8 11 72.7 0 2 2 6 0 0 1 0 6
+p104
+aVBrent Barry SAS 05/18/2007 SAS vs. PHX W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 4
+p105
+aVBruce Bowen SAS 05/18/2007 SAS vs. PHX W 43 8 3 10 30.0 2 7 28.6 0 0 - 0 6 6 3 2 0 2 2 2
+p106
+aVMatt Bonner SAS 05/18/2007 SAS vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p107
+aVTim Duncan SAS 05/18/2007 SAS vs. PHX W 40 24 11 19 57.9 0 0 - 2 6 33.3 8 5 13 1 0 9 4 3 7
+p108
+aVFabricio Oberto SAS 05/18/2007 SAS vs. PHX W 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 4 3
+p109
+aVMichael Finley SAS 05/16/2007 SAS @ PHX W 37 13 4 10 40.0 2 6 33.3 3 4 75.0 0 3 3 1 0 0 0 0 12
+p110
+aVFrancisco Elson SAS 05/16/2007 SAS @ PHX W 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -11
+p111
+aVBruce Bowen SAS 05/16/2007 SAS @ PHX W 40 9 3 10 30.0 3 6 50.0 0 0 - 0 7 7 2 4 0 1 4 4
+p112
+aVJacque Vaughn SAS 05/16/2007 SAS @ PHX W 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -17
+p113
+aVFabricio Oberto SAS 05/16/2007 SAS @ PHX W 13 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 3 10
+p114
+aVBrent Barry SAS 05/16/2007 SAS @ PHX W 16 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 1 -4
+p115
+aVManu Ginobili SAS 05/16/2007 SAS @ PHX W 38 26 7 15 46.7 3 8 37.5 9 9 100.0 1 9 10 3 2 1 5 4 2
+p116
+aVMatt Bonner SAS 05/16/2007 SAS @ PHX W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 1
+p117
+aVTony Parker SAS 05/16/2007 SAS @ PHX W 39 11 5 13 38.5 0 0 - 1 2 50.0 0 2 2 5 1 0 3 3 22
+p118
+aVTim Duncan SAS 05/16/2007 SAS @ PHX W 41 21 7 14 50.0 0 0 - 7 11 63.6 2 10 12 2 1 5 1 3 -4
+p119
+aVRobert Horry SAS 05/14/2007 SAS vs. PHX L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 5 0 3 1 1 3
+p120
+aVFrancisco Elson SAS 05/14/2007 SAS vs. PHX L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 5
+p121
+aVManu Ginobili SAS 05/14/2007 SAS vs. PHX L 35 10 3 14 21.4 2 7 28.6 2 2 100.0 0 4 4 4 3 0 0 3 -4
+p122
+aVMatt Bonner SAS 05/14/2007 SAS vs. PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p123
+aVJacque Vaughn SAS 05/14/2007 SAS vs. PHX L 7 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -7
+p124
+aVBrent Barry SAS 05/14/2007 SAS vs. PHX L 19 12 5 8 62.5 2 4 50.0 0 0 - 0 1 1 2 0 1 1 2 8
+p125
+aVTim Duncan SAS 05/14/2007 SAS vs. PHX L 32 21 9 14 64.3 0 0 - 3 4 75.0 3 8 11 2 0 3 6 5 -7
+p126
+aVTony Parker SAS 05/14/2007 SAS vs. PHX L 42 23 9 19 47.4 0 1 0.0 5 5 100.0 1 5 6 7 2 0 5 4 -2
+p127
+aVMichael Finley SAS 05/14/2007 SAS vs. PHX L 34 17 5 12 41.7 4 10 40.0 3 3 100.0 0 5 5 1 0 0 1 2 -6
+p128
+aVFabricio Oberto SAS 05/14/2007 SAS vs. PHX L 21 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -4
+p129
+aVBruce Bowen SAS 05/14/2007 SAS vs. PHX L 33 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 2 2 0 0 3 -16
+p130
+aVMichael Finley SAS 05/12/2007 SAS vs. PHX W 29 9 2 10 20.0 2 5 40.0 3 3 100.0 1 1 2 3 1 0 2 2 12
+p131
+aVRobert Horry SAS 05/12/2007 SAS vs. PHX W 23 7 1 5 20.0 1 3 33.3 4 4 100.0 1 4 5 1 0 0 1 4 -15
+p132
+aVTony Parker SAS 05/12/2007 SAS vs. PHX W 41 16 7 18 38.9 0 2 0.0 2 4 50.0 1 3 4 5 0 0 2 0 5
+p133
+aVManu Ginobili SAS 05/12/2007 SAS vs. PHX W 32 24 8 19 42.1 1 3 33.3 7 7 100.0 0 2 2 4 3 1 1 4 -2
+p134
+aVFrancisco Elson SAS 05/12/2007 SAS vs. PHX W 8 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 3 1 -3
+p135
+aVBruce Bowen SAS 05/12/2007 SAS vs. PHX W 39 10 3 6 50.0 2 4 50.0 2 2 100.0 1 8 9 2 4 1 1 2 10
+p136
+aVBrent Barry SAS 05/12/2007 SAS vs. PHX W 10 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 2 0 0 0 1 15
+p137
+aVTim Duncan SAS 05/12/2007 SAS vs. PHX W 41 33 12 19 63.2 0 0 - 9 14 64.3 5 14 19 0 0 3 0 4 5
+p138
+aVJacque Vaughn SAS 05/12/2007 SAS vs. PHX W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p139
+aVFabricio Oberto SAS 05/12/2007 SAS vs. PHX W 11 2 1 1 100.0 0 0 - 0 0 - 2 0 2 2 1 0 0 4 6
+p140
+aVManu Ginobili SAS 05/08/2007 SAS @ PHX L 28 6 3 9 33.3 0 2 0.0 0 0 - 1 4 5 5 3 0 2 1 -4
+p141
+aVMichael Finley SAS 05/08/2007 SAS @ PHX L 28 11 4 9 44.4 3 6 50.0 0 0 - 0 3 3 2 0 0 3 1 -18
+p142
+aVRobert Horry SAS 05/08/2007 SAS @ PHX L 17 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 2 1 2 2 4
+p143
+aVTim Duncan SAS 05/08/2007 SAS @ PHX L 35 29 12 20 60.0 0 0 - 5 7 71.4 2 9 11 1 0 2 2 4 -11
+p144
+aVBrent Barry SAS 05/08/2007 SAS @ PHX L 15 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 1 0 1 1 2 -18
+p145
+aVBruce Bowen SAS 05/08/2007 SAS @ PHX L 35 13 5 10 50.0 3 6 50.0 0 0 - 0 2 2 0 1 0 1 2 -14
+p146
+aVJacque Vaughn SAS 05/08/2007 SAS @ PHX L 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 6
+p147
+aVFrancisco Elson SAS 05/08/2007 SAS @ PHX L 13 5 2 3 66.7 0 0 - 1 1 100.0 1 3 4 0 1 1 1 2 -11
+p148
+aVBeno Udrih SAS 05/08/2007 SAS @ PHX L 3 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p149
+aVFabricio Oberto SAS 05/08/2007 SAS @ PHX L 17 0 0 1 0.0 0 0 - 0 2 0.0 2 2 4 1 2 0 2 3 -4
+p150
+aVMatt Bonner SAS 05/08/2007 SAS @ PHX L 3 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -2
+p151
+aVTony Parker SAS 05/08/2007 SAS @ PHX L 36 13 5 14 35.7 0 1 0.0 3 6 50.0 0 2 2 3 0 0 4 0 -26
+p152
+aVJacque Vaughn SAS 05/06/2007 SAS @ PHX W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 4 4 -5
+p153
+aVMichael Finley SAS 05/06/2007 SAS @ PHX W 36 19 6 11 54.5 3 7 42.9 4 5 80.0 0 3 3 1 0 0 1 2 11
+p154
+aVManu Ginobili SAS 05/06/2007 SAS @ PHX W 29 8 2 9 22.2 1 3 33.3 3 6 50.0 1 8 9 4 0 0 0 4 -6
+p155
+aVFabricio Oberto SAS 05/06/2007 SAS @ PHX W 10 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -5
+p156
+aVTim Duncan SAS 05/06/2007 SAS @ PHX W 40 33 12 24 50.0 0 0 - 9 15 60.0 8 8 16 1 0 3 1 2 10
+p157
+aVBrent Barry SAS 05/06/2007 SAS @ PHX W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -5
+p158
+aVTony Parker SAS 05/06/2007 SAS @ PHX W 38 32 14 22 63.6 0 1 0.0 4 5 80.0 0 1 1 8 3 0 6 2 9
+p159
+aVFrancisco Elson SAS 05/06/2007 SAS @ PHX W 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 2 3 5
+p160
+aVRobert Horry SAS 05/06/2007 SAS @ PHX W 28 10 3 5 60.0 2 3 66.7 2 2 100.0 2 5 7 1 1 2 0 2 -1
+p161
+aVBruce Bowen SAS 05/06/2007 SAS @ PHX W 26 3 1 2 50.0 1 1 100.0 0 0 - 1 6 7 1 0 0 1 4 7
+p162
+aVTony Parker SAS 05/02/2007 SAS vs. DEN W 35 16 7 17 41.2 0 0 - 2 3 66.7 0 3 3 10 0 0 2 1 11
+p163
+aVRobert Horry SAS 05/02/2007 SAS vs. DEN W 19 7 3 7 42.9 1 4 25.0 0 1 0.0 0 2 2 1 1 2 0 0 -3
+p164
+aVMatt Bonner SAS 05/02/2007 SAS vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p165
+aVMichael Finley SAS 05/02/2007 SAS vs. DEN W 32 26 9 14 64.3 8 9 88.9 0 0 - 0 4 4 1 1 0 2 1 13
+p166
+aVJacque Vaughn SAS 05/02/2007 SAS vs. DEN W 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 3 1 0 0 1 4
+p167
+aVBeno Udrih SAS 05/02/2007 SAS vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p168
+aVFrancisco Elson SAS 05/02/2007 SAS vs. DEN W 17 2 1 2 50.0 0 0 - 0 2 0.0 2 4 6 0 1 0 0 1 8
+p169
+aVManu Ginobili SAS 05/02/2007 SAS vs. DEN W 17 4 1 8 12.5 0 3 0.0 2 2 100.0 1 1 2 2 0 0 1 3 2
+p170
+aVFabricio Oberto SAS 05/02/2007 SAS vs. DEN W 24 4 2 2 100.0 0 0 - 0 0 - 5 1 6 1 0 1 1 2 8
+p171
+aVTim Duncan SAS 05/02/2007 SAS vs. DEN W 35 23 10 19 52.6 0 0 - 3 6 50.0 3 9 12 5 1 1 3 3 17
+p172
+aVBrent Barry SAS 05/02/2007 SAS vs. DEN W 8 3 1 4 25.0 1 4 25.0 0 0 - 1 1 2 1 0 0 0 1 3
+p173
+aVBruce Bowen SAS 05/02/2007 SAS vs. DEN W 38 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 1 1 1 0 3 12
+p174
+aVFabricio Oberto SAS 04/30/2007 SAS @ DEN W 14 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 3 6
+p175
+aVBrent Barry SAS 04/30/2007 SAS @ DEN W 12 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 0 1 4
+p176
+aVRobert Horry SAS 04/30/2007 SAS @ DEN W 18 6 2 3 66.7 1 1 100.0 1 2 50.0 2 4 6 2 0 0 0 2 5
+p177
+aVManu Ginobili SAS 04/30/2007 SAS @ DEN W 31 18 5 15 33.3 3 8 37.5 5 5 100.0 0 5 5 6 5 0 4 2 4
+p178
+aVBruce Bowen SAS 04/30/2007 SAS @ DEN W 40 10 4 8 50.0 2 5 40.0 0 0 - 1 3 4 3 3 1 0 3 5
+p179
+aVTim Duncan SAS 04/30/2007 SAS @ DEN W 40 22 9 19 47.4 0 0 - 4 6 66.7 3 8 11 6 1 0 1 1 2
+p180
+aVJacque Vaughn SAS 04/30/2007 SAS @ DEN W 9 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p181
+aVMichael Finley SAS 04/30/2007 SAS @ DEN W 22 9 3 11 27.3 2 8 25.0 1 2 50.0 0 3 3 1 0 0 1 0 3
+p182
+aVTony Parker SAS 04/30/2007 SAS @ DEN W 38 15 7 11 63.6 0 0 - 1 1 100.0 0 1 1 4 1 0 4 2 9
+p183
+aVFrancisco Elson SAS 04/30/2007 SAS @ DEN W 18 8 3 5 60.0 0 0 - 2 4 50.0 2 4 6 0 0 1 0 2 -4
+p184
+aVManu Ginobili SAS 04/28/2007 SAS @ DEN W 31 19 4 9 44.4 1 4 25.0 10 11 90.9 1 6 7 5 1 0 2 4 15
+p185
+aVTim Duncan SAS 04/28/2007 SAS @ DEN W 41 20 9 21 42.9 0 0 - 2 2 100.0 7 6 13 4 1 5 3 0 -3
+p186
+aVFabricio Oberto SAS 04/28/2007 SAS @ DEN W 10 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 4
+p187
+aVFrancisco Elson SAS 04/28/2007 SAS @ DEN W 12 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 1 1 2 -7
+p188
+aVMichael Finley SAS 04/28/2007 SAS @ DEN W 30 16 5 11 45.5 5 7 71.4 1 1 100.0 2 3 5 3 0 0 1 2 6
+p189
+aVRobert Horry SAS 04/28/2007 SAS @ DEN W 29 10 4 8 50.0 2 5 40.0 0 0 - 1 5 6 2 2 3 1 2 15
+p190
+aVTony Parker SAS 04/28/2007 SAS @ DEN W 40 21 10 23 43.5 1 2 50.0 0 0 - 2 2 4 6 1 0 1 1 5
+p191
+aVJacque Vaughn SAS 04/28/2007 SAS @ DEN W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 3 0
+p192
+aVBrent Barry SAS 04/28/2007 SAS @ DEN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p193
+aVBruce Bowen SAS 04/28/2007 SAS @ DEN W 35 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 1 0 0 1 3 -12
+p194
+aVBruce Bowen SAS 04/25/2007 SAS vs. DEN W 34 9 3 6 50.0 3 4 75.0 0 0 - 0 4 4 2 3 0 0 3 6
+p195
+aVRobert Horry SAS 04/25/2007 SAS vs. DEN W 16 2 1 2 50.0 0 1 0.0 0 0 - 2 1 3 0 0 1 0 0 -8
+p196
+aVJacque Vaughn SAS 04/25/2007 SAS vs. DEN W 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -2
+p197
+aVFabricio Oberto SAS 04/25/2007 SAS vs. DEN W 32 8 4 10 40.0 0 0 - 0 0 - 2 8 10 2 0 0 0 1 8
+p198
+aVTony Parker SAS 04/25/2007 SAS vs. DEN W 38 20 6 15 40.0 0 0 - 8 8 100.0 0 2 2 6 1 0 6 3 9
+p199
+aVTim Duncan SAS 04/25/2007 SAS vs. DEN W 33 22 9 17 52.9 0 0 - 4 6 66.7 0 7 7 5 0 5 0 3 14
+p200
+aVFrancisco Elson SAS 04/25/2007 SAS vs. DEN W 10 2 0 3 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 3 0 1
+p201
+aVManu Ginobili SAS 04/25/2007 SAS vs. DEN W 29 17 6 12 50.0 1 3 33.3 4 4 100.0 1 3 4 4 0 0 2 1 2
+p202
+aVBrent Barry SAS 04/25/2007 SAS vs. DEN W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 6
+p203
+aVMichael Finley SAS 04/25/2007 SAS vs. DEN W 31 14 5 11 45.5 1 5 20.0 3 3 100.0 3 4 7 0 1 0 0 3 9
+p204
+aVMatt Bonner SAS 04/22/2007 SAS vs. DEN L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -4
+p205
+aVJacque Vaughn SAS 04/22/2007 SAS vs. DEN L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 3 4
+p206
+aVBruce Bowen SAS 04/22/2007 SAS vs. DEN L 19 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 1 0 1 3 0
+p207
+aVRobert Horry SAS 04/22/2007 SAS vs. DEN L 25 14 5 10 50.0 2 5 40.0 2 2 100.0 1 0 1 1 1 1 0 2 8
+p208
+aVFrancisco Elson SAS 04/22/2007 SAS vs. DEN L 13 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 -11
+p209
+aVManu Ginobili SAS 04/22/2007 SAS vs. DEN L 31 9 4 15 26.7 1 5 20.0 0 0 - 3 4 7 2 0 0 2 2 -6
+p210
+aVTim Duncan SAS 04/22/2007 SAS vs. DEN L 40 14 7 17 41.2 0 0 - 0 2 0.0 5 5 10 7 1 3 5 2 -9
+p211
+aVBrent Barry SAS 04/22/2007 SAS vs. DEN L 12 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 2 0 0 1 0 3
+p212
+aVFabricio Oberto SAS 04/22/2007 SAS vs. DEN L 15 8 4 4 100.0 0 0 - 0 0 - 1 5 6 0 0 0 0 2 4
+p213
+aVMichael Finley SAS 04/22/2007 SAS vs. DEN L 34 15 6 13 46.2 3 7 42.9 0 0 - 0 0 0 0 0 0 0 0 -9
+p214
+aVTony Parker SAS 04/22/2007 SAS vs. DEN L 37 19 8 20 40.0 0 1 0.0 3 4 75.0 3 3 6 8 2 0 2 2 -10
+p215
+a.

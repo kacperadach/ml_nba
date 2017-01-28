@@ -1,0 +1,112 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTim Thomas MIL 05/01/2003 MIL vs. NJN L 27 13 3 7 42.9 2 2 100.0 5 5 100.0 0 6 6 1 0 2 2 6 -10
+p2
+aVGary Payton MIL 05/01/2003 MIL vs. NJN L 40 24 10 19 52.6 0 1 0.0 4 5 80.0 2 2 4 8 1 0 3 3 -24
+p3
+aVToni Kukoc MIL 05/01/2003 MIL vs. NJN L 34 16 7 14 50.0 2 4 50.0 0 0 - 1 2 3 5 1 1 2 1 -11
+p4
+aVMichael Redd MIL 05/01/2003 MIL vs. NJN L 32 20 7 11 63.6 0 0 - 6 7 85.7 2 3 5 3 0 0 1 2 3
+p5
+aVErvin Johnson MIL 05/01/2003 MIL vs. NJN L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 1 0 1 4 -3
+p6
+aVAnthony Mason MIL 05/01/2003 MIL vs. NJN L 20 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 1 0 3 3 -7
+p7
+aVSam Cassell MIL 05/01/2003 MIL vs. NJN L 31 5 2 4 50.0 0 1 0.0 1 2 50.0 1 1 2 3 0 0 3 2 -7
+p8
+aVDesmond Mason MIL 05/01/2003 MIL vs. NJN L 35 15 7 13 53.8 0 1 0.0 1 3 33.3 1 3 4 1 1 0 1 3 -10
+p9
+aVMarcus Haislip MIL 05/01/2003 MIL vs. NJN L 7 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 1 1 0 3 9
+p10
+aVAnthony Mason MIL 04/29/2003 MIL @ NJN L 29 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 1 0 1 4 -17
+p11
+aVToni Kukoc MIL 04/29/2003 MIL @ NJN L 29 18 5 11 45.5 2 6 33.3 6 8 75.0 2 6 8 3 2 0 2 1 -6
+p12
+aVMichael Redd MIL 04/29/2003 MIL @ NJN L 18 6 1 4 25.0 0 2 0.0 4 4 100.0 0 1 1 0 0 0 2 5 -13
+p13
+aVErvin Johnson MIL 04/29/2003 MIL @ NJN L 18 0 0 1 0.0 0 0 - 0 0 - 1 6 7 0 0 3 0 5 7
+p14
+aVDesmond Mason MIL 04/29/2003 MIL @ NJN L 38 14 3 8 37.5 0 0 - 8 8 100.0 2 10 12 2 0 0 2 4 -7
+p15
+aVGary Payton MIL 04/29/2003 MIL @ NJN L 41 16 7 20 35.0 1 5 20.0 1 4 25.0 1 4 5 5 2 0 1 3 -7
+p16
+aVTim Thomas MIL 04/29/2003 MIL @ NJN L 27 9 3 11 27.3 0 2 0.0 3 3 100.0 1 1 2 1 0 0 0 5 6
+p17
+aVSam Cassell MIL 04/29/2003 MIL @ NJN L 40 16 6 17 35.3 1 3 33.3 3 3 100.0 0 1 1 1 2 0 4 5 2
+p18
+aVMichael Redd MIL 04/26/2003 MIL vs. NJN W 22 9 3 10 30.0 1 2 50.0 2 2 100.0 3 3 6 0 1 0 0 1 9
+p19
+aVTim Thomas MIL 04/26/2003 MIL vs. NJN W 34 20 6 13 46.2 3 5 60.0 5 6 83.3 2 4 6 1 1 0 2 6 3
+p20
+aVSam Cassell MIL 04/26/2003 MIL vs. NJN W 43 21 7 19 36.8 3 8 37.5 4 4 100.0 1 2 3 4 0 0 2 5 -6
+p21
+aVDesmond Mason MIL 04/26/2003 MIL vs. NJN W 31 14 6 7 85.7 0 1 0.0 2 2 100.0 1 7 8 0 0 1 2 6 2
+p22
+aVGary Payton MIL 04/26/2003 MIL vs. NJN W 51 20 8 22 36.4 0 2 0.0 4 5 80.0 0 4 4 14 1 1 1 3 5
+p23
+aVJoel Przybilla MIL 04/26/2003 MIL vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -11
+p24
+aVAnthony Mason MIL 04/26/2003 MIL vs. NJN W 40 10 3 5 60.0 0 0 - 4 5 80.0 2 4 6 1 0 0 0 4 5
+p25
+aVToni Kukoc MIL 04/26/2003 MIL vs. NJN W 31 23 8 15 53.3 4 6 66.7 3 4 75.0 2 3 5 0 0 0 3 5 7
+p26
+aVErvin Johnson MIL 04/26/2003 MIL vs. NJN W 9 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 1 0 4 11
+p27
+aVToni Kukoc MIL 04/24/2003 MIL vs. NJN L 29 7 2 8 25.0 1 6 16.7 2 4 50.0 1 1 2 5 3 0 0 3 1
+p28
+aVJoel Przybilla MIL 04/24/2003 MIL vs. NJN L 12 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 0 4 -6
+p29
+aVAnthony Mason MIL 04/24/2003 MIL vs. NJN L 26 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 2 3 -8
+p30
+aVDesmond Mason MIL 04/24/2003 MIL vs. NJN L 36 16 5 10 50.0 0 1 0.0 6 7 85.7 0 7 7 0 2 1 1 3 11
+p31
+aVErvin Johnson MIL 04/24/2003 MIL vs. NJN L 4 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -7
+p32
+aVSam Cassell MIL 04/24/2003 MIL vs. NJN L 38 24 8 18 44.4 3 4 75.0 5 5 100.0 1 6 7 3 0 0 2 3 8
+p33
+aVTim Thomas MIL 04/24/2003 MIL vs. NJN L 38 22 7 17 41.2 1 2 50.0 7 7 100.0 5 6 11 2 1 1 1 3 3
+p34
+aVGary Payton MIL 04/24/2003 MIL vs. NJN L 39 21 9 20 45.0 0 3 0.0 3 4 75.0 0 0 0 8 1 0 2 4 5
+p35
+aVMichael Redd MIL 04/24/2003 MIL vs. NJN L 18 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 2 0 0 1 3 -17
+p36
+aVErvin Johnson MIL 04/22/2003 MIL @ NJN W 15 0 0 2 0.0 0 0 - 0 0 - 2 2 4 2 0 1 1 1 0
+p37
+aVSam Cassell MIL 04/22/2003 MIL @ NJN W 35 21 9 13 69.2 2 3 66.7 1 1 100.0 0 5 5 3 1 0 4 2 3
+p38
+aVToni Kukoc MIL 04/22/2003 MIL @ NJN W 33 11 4 8 50.0 0 3 0.0 3 4 75.0 0 5 5 6 6 0 0 1 2
+p39
+aVGary Payton MIL 04/22/2003 MIL @ NJN W 41 22 11 20 55.0 0 2 0.0 0 0 - 0 3 3 7 0 0 1 4 7
+p40
+aVTim Thomas MIL 04/22/2003 MIL @ NJN W 34 18 7 16 43.8 1 4 25.0 3 8 37.5 0 2 2 1 0 2 1 3 -2
+p41
+aVAnthony Mason MIL 04/22/2003 MIL @ NJN W 23 2 1 1 100.0 0 0 - 0 2 0.0 1 5 6 0 0 0 2 2 9
+p42
+aVJoel Przybilla MIL 04/22/2003 MIL @ NJN W 13 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 2 1 4 0
+p43
+aVDesmond Mason MIL 04/22/2003 MIL @ NJN W 30 5 2 6 33.3 0 1 0.0 1 4 25.0 0 3 3 0 1 0 1 3 -4
+p44
+aVMichael Redd MIL 04/22/2003 MIL @ NJN W 16 7 3 9 33.3 0 2 0.0 1 1 100.0 2 1 3 2 1 0 3 2 0
+p45
+aVMarcus Haislip MIL 04/19/2003 MIL @ NJN L 17 8 4 6 66.7 0 0 - 0 0 - 2 1 3 2 1 0 1 2 2
+p46
+aVSam Cassell MIL 04/19/2003 MIL @ NJN L 30 16 7 12 58.3 2 2 100.0 0 0 - 0 1 1 2 0 1 2 3 -24
+p47
+aVTim Thomas MIL 04/19/2003 MIL @ NJN L 31 25 10 14 71.4 5 6 83.3 0 3 0.0 0 2 2 2 1 1 2 4 -3
+p48
+aVDesmond Mason MIL 04/19/2003 MIL @ NJN L 34 14 5 11 45.5 0 0 - 4 7 57.1 2 6 8 2 2 2 0 0 6
+p49
+aVToni Kukoc MIL 04/19/2003 MIL @ NJN L 28 14 6 9 66.7 2 4 50.0 0 0 - 0 2 2 3 1 0 4 1 -25
+p50
+aVJoel Przybilla MIL 04/19/2003 MIL @ NJN L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p51
+aVGary Payton MIL 04/19/2003 MIL @ NJN L 39 8 3 11 27.3 0 2 0.0 2 2 100.0 1 1 2 10 3 0 5 1 -8
+p52
+aVMichael Redd MIL 04/19/2003 MIL @ NJN L 22 11 5 12 41.7 1 3 33.3 0 0 - 2 3 5 4 0 1 0 2 -8
+p53
+aVErvin Johnson MIL 04/19/2003 MIL @ NJN L 16 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 4 -12
+p54
+aVAnthony Mason MIL 04/19/2003 MIL @ NJN L 19 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 0
+p55
+a.

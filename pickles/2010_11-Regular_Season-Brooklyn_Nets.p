@@ -1,0 +1,1738 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDan Gadzuric NJN 04/13/2011 NJN @ CHI L 18 5 2 4 50.0 0 0 - 1 1 100.0 0 7 7 1 0 0 1 2 9
+p2
+aVTravis Outlaw NJN 04/13/2011 NJN @ CHI L 27 9 4 11 36.4 1 2 50.0 0 0 - 1 2 3 0 0 0 0 0 -11
+p3
+aVStephen Graham NJN 04/13/2011 NJN @ CHI L 31 11 5 9 55.6 1 1 100.0 0 0 - 1 2 3 1 0 0 1 2 -4
+p4
+aVJohan Petro NJN 04/13/2011 NJN @ CHI L 21 13 4 7 57.1 0 0 - 5 6 83.3 4 4 8 0 2 0 1 2 -2
+p5
+aVBrandan Wright NJN 04/13/2011 NJN @ CHI L 14 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 2 2 2 0 3 10
+p6
+aVSasha Vujacic NJN 04/13/2011 NJN @ CHI L 43 10 4 11 36.4 2 5 40.0 0 0 - 0 2 2 4 2 0 1 5 -5
+p7
+aVBen Uzoh NJN 04/13/2011 NJN @ CHI L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -14
+p8
+aVBrook Lopez NJN 04/13/2011 NJN @ CHI L 38 17 8 17 47.1 0 0 - 1 1 100.0 1 3 4 0 0 2 2 3 -15
+p9
+aVJordan Farmar NJN 04/13/2011 NJN @ CHI L 38 21 7 15 46.7 2 6 33.3 5 6 83.3 0 4 4 12 0 2 4 1 7
+p10
+aVJohan Petro NJN 04/11/2011 NJN vs. CHA L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 1 0 4 2
+p11
+aVJordan Farmar NJN 04/11/2011 NJN vs. CHA L 34 20 8 12 66.7 0 1 0.0 4 4 100.0 1 2 3 9 1 0 1 2 5
+p12
+aVSasha Vujacic NJN 04/11/2011 NJN vs. CHA L 38 19 7 13 53.8 3 5 60.0 2 2 100.0 0 3 3 3 1 0 0 1 -5
+p13
+aVDan Gadzuric NJN 04/11/2011 NJN vs. CHA L 22 2 1 2 50.0 0 0 - 0 0 - 1 7 8 0 0 0 0 3 11
+p14
+aVTravis Outlaw NJN 04/11/2011 NJN vs. CHA L 28 9 4 10 40.0 1 3 33.3 0 0 - 0 3 3 1 1 0 1 0 6
+p15
+aVBen Uzoh NJN 04/11/2011 NJN vs. CHA L 17 8 4 7 57.1 0 0 - 0 0 - 1 0 1 2 1 0 0 3 -5
+p16
+aVStephen Graham NJN 04/11/2011 NJN vs. CHA L 30 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 2 0 0 1 1 -5
+p17
+aVBrook Lopez NJN 04/11/2011 NJN vs. CHA L 41 31 12 23 52.2 0 0 - 7 8 87.5 2 1 3 4 1 0 3 3 -5
+p18
+aVBrandan Wright NJN 04/11/2011 NJN vs. CHA L 20 10 5 5 100.0 0 0 - 0 0 - 1 2 3 1 0 1 0 1 -14
+p19
+aVBen Uzoh NJN 04/10/2011 NJN @ TOR L 14 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p20
+aVJordan Farmar NJN 04/10/2011 NJN @ TOR L 25 6 3 13 23.1 0 4 0.0 0 0 - 0 0 0 7 1 0 1 1 -13
+p21
+aVTravis Outlaw NJN 04/10/2011 NJN @ TOR L 22 0 0 6 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 1 -3
+p22
+aVStephen Graham NJN 04/10/2011 NJN @ TOR L 35 7 2 5 40.0 0 1 0.0 3 3 100.0 2 0 2 1 2 0 3 3 -1
+p23
+aVBrook Lopez NJN 04/10/2011 NJN @ TOR L 34 35 12 21 57.1 0 0 - 11 14 78.6 7 4 11 1 0 1 1 3 -4
+p24
+aVBrandan Wright NJN 04/10/2011 NJN @ TOR L 14 7 3 5 60.0 0 0 - 1 2 50.0 2 1 3 0 1 1 0 1 11
+p25
+aVMario West NJN 04/10/2011 NJN @ TOR L 16 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 2 0 0 1 8
+p26
+aVSasha Vujacic NJN 04/10/2011 NJN @ TOR L 37 19 5 14 35.7 2 7 28.6 7 7 100.0 1 2 3 3 1 0 4 2 -7
+p27
+aVJohan Petro NJN 04/10/2011 NJN @ TOR L 23 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 2 1 0 4 -4
+p28
+aVDan Gadzuric NJN 04/10/2011 NJN @ TOR L 21 6 3 7 42.9 0 0 - 0 1 0.0 3 2 5 0 1 5 1 3 -15
+p29
+aVStephen Graham NJN 04/08/2011 NJN vs. NYK L 23 12 4 7 57.1 2 3 66.7 2 2 100.0 0 4 4 1 0 0 1 4 -2
+p30
+aVMario West NJN 04/08/2011 NJN vs. NYK L 22 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -9
+p31
+aVBrandan Wright NJN 04/08/2011 NJN vs. NYK L 19 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 2 1 3 2 -10
+p32
+aVBrook Lopez NJN 04/08/2011 NJN vs. NYK L 32 27 11 17 64.7 0 0 - 5 6 83.3 1 1 2 0 1 0 4 1 -22
+p33
+aVDan Gadzuric NJN 04/08/2011 NJN vs. NYK L 10 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -3
+p34
+aVBen Uzoh NJN 04/08/2011 NJN vs. NYK L 24 7 3 6 50.0 0 0 - 1 6 16.7 0 2 2 2 0 4 1 3 -7
+p35
+aVTravis Outlaw NJN 04/08/2011 NJN vs. NYK L 26 16 6 13 46.2 4 7 57.1 0 0 - 0 2 2 1 0 0 1 0 -19
+p36
+aVJohan Petro NJN 04/08/2011 NJN vs. NYK L 19 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 3 0 1 3 -6
+p37
+aVSasha Vujacic NJN 04/08/2011 NJN vs. NYK L 33 13 6 14 42.9 0 4 0.0 1 1 100.0 0 6 6 4 2 0 1 1 -24
+p38
+aVJordan Farmar NJN 04/08/2011 NJN vs. NYK L 32 6 3 12 25.0 0 5 0.0 0 0 - 0 8 8 9 0 0 4 3 -13
+p39
+aVSasha Vujacic NJN 04/06/2011 NJN @ DET L 31 16 5 12 41.7 1 3 33.3 5 5 100.0 0 3 3 3 1 0 1 5 -26
+p40
+aVDan Gadzuric NJN 04/06/2011 NJN @ DET L 22 7 3 6 50.0 0 0 - 1 2 50.0 2 3 5 0 2 3 2 4 -13
+p41
+aVBrook Lopez NJN 04/06/2011 NJN @ DET L 44 39 14 20 70.0 0 0 - 11 14 78.6 4 3 7 4 0 0 1 2 -7
+p42
+aVJohan Petro NJN 04/06/2011 NJN @ DET L 16 8 4 7 57.1 0 0 - 0 1 0.0 1 2 3 2 1 1 0 4 8
+p43
+aVMario West NJN 04/06/2011 NJN @ DET L 13 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -2
+p44
+aVBrandan Wright NJN 04/06/2011 NJN @ DET L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 0 0
+p45
+aVBen Uzoh NJN 04/06/2011 NJN @ DET L 20 7 3 8 37.5 0 0 - 1 2 50.0 0 2 2 5 0 1 2 2 0
+p46
+aVStephen Graham NJN 04/06/2011 NJN @ DET L 20 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 3 1 0 1 3 -1
+p47
+aVTravis Outlaw NJN 04/06/2011 NJN @ DET L 32 11 4 13 30.8 3 8 37.5 0 0 - 0 1 1 0 1 0 1 0 16
+p48
+aVJordan Farmar NJN 04/06/2011 NJN @ DET L 34 18 6 12 50.0 4 8 50.0 2 2 100.0 0 2 2 11 0 0 2 1 -10
+p49
+aVJohan Petro NJN 04/05/2011 NJN vs. MIN W 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -2
+p50
+aVJordan Farmar NJN 04/05/2011 NJN vs. MIN W 17 12 5 7 71.4 2 4 50.0 0 0 - 0 2 2 2 2 0 1 1 1
+p51
+aVStephen Graham NJN 04/05/2011 NJN vs. MIN W 17 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 3
+p52
+aVBrandan Wright NJN 04/05/2011 NJN vs. MIN W 19 5 2 7 28.6 0 0 - 1 1 100.0 2 0 2 0 0 0 1 2 6
+p53
+aVMario West NJN 04/05/2011 NJN vs. MIN W 29 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 1 2 0 0 2 -2
+p54
+aVBrook Lopez NJN 04/05/2011 NJN vs. MIN W 36 30 13 23 56.5 0 0 - 4 5 80.0 4 8 12 1 1 2 2 4 5
+p55
+aVSasha Vujacic NJN 04/05/2011 NJN vs. MIN W 38 17 6 12 50.0 4 6 66.7 1 2 50.0 1 9 10 4 3 0 1 0 1
+p56
+aVDeron Williams NJN 04/05/2011 NJN vs. MIN W 43 18 6 15 40.0 2 6 33.3 4 7 57.1 2 2 4 21 2 1 2 2 3
+p57
+aVTravis Outlaw NJN 04/05/2011 NJN vs. MIN W 30 13 5 15 33.3 0 2 0.0 3 3 100.0 2 0 2 1 1 0 0 0 -4
+p58
+aVDan Gadzuric NJN 04/05/2011 NJN vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -1
+p59
+aVMario West NJN 04/03/2011 NJN vs. MIA L 20 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 3 1 0 0 4 -1
+p60
+aVJohan Petro NJN 04/03/2011 NJN vs. MIA L 9 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -2
+p61
+aVTravis Outlaw NJN 04/03/2011 NJN vs. MIA L 35 17 6 12 50.0 0 2 0.0 5 6 83.3 3 6 9 0 3 0 0 2 -12
+p62
+aVSasha Vujacic NJN 04/03/2011 NJN vs. MIA L 38 12 4 13 30.8 3 7 42.9 1 2 50.0 0 6 6 2 0 0 0 4 -12
+p63
+aVJordan Farmar NJN 04/03/2011 NJN vs. MIA L 21 13 3 10 30.0 3 7 42.9 4 4 100.0 0 0 0 1 2 0 2 3 -4
+p64
+aVDan Gadzuric NJN 04/03/2011 NJN vs. MIA L 9 4 2 3 66.7 0 0 - 0 2 0.0 1 2 3 0 0 0 1 3 2
+p65
+aVAnthony Morrow NJN 04/03/2011 NJN vs. MIA L 23 7 3 10 30.0 1 5 20.0 0 0 - 0 0 0 1 1 0 0 0 -8
+p66
+aVBrandan Wright NJN 04/03/2011 NJN vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p67
+aVDeron Williams NJN 04/03/2011 NJN vs. MIA L 41 18 8 17 47.1 0 4 0.0 2 3 66.7 0 3 3 12 1 0 4 4 -18
+p68
+aVBen Uzoh NJN 04/03/2011 NJN vs. MIA L 1 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 1
+p69
+aVBrook Lopez NJN 04/03/2011 NJN vs. MIA L 41 16 5 13 38.5 0 0 - 6 8 75.0 2 1 3 3 1 0 2 3 -10
+p70
+aVSasha Vujacic NJN 04/01/2011 NJN @ PHI L 22 10 4 6 66.7 0 0 - 2 2 100.0 0 0 0 0 1 0 1 1 -15
+p71
+aVBrandan Wright NJN 04/01/2011 NJN @ PHI L 29 15 5 12 41.7 0 0 - 5 6 83.3 5 6 11 1 2 1 0 2 -4
+p72
+aVTravis Outlaw NJN 04/01/2011 NJN @ PHI L 22 8 3 8 37.5 1 3 33.3 1 2 50.0 0 2 2 1 0 1 2 1 -18
+p73
+aVAnthony Morrow NJN 04/01/2011 NJN @ PHI L 21 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 4 0 0 1 1 -18
+p74
+aVDeron Williams NJN 04/01/2011 NJN @ PHI L 22 4 2 8 25.0 0 1 0.0 0 0 - 0 5 5 7 0 0 0 1 -17
+p75
+aVJordan Farmar NJN 04/01/2011 NJN @ PHI L 20 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 3 1 0 1 3 -10
+p76
+aVJohan Petro NJN 04/01/2011 NJN @ PHI L 13 6 3 6 50.0 0 0 - 0 0 - 0 3 3 0 1 0 0 2 -16
+p77
+aVMario West NJN 04/01/2011 NJN @ PHI L 15 13 5 6 83.3 1 2 50.0 2 3 66.7 0 0 0 1 2 0 2 1 -1
+p78
+aVBrook Lopez NJN 04/01/2011 NJN @ PHI L 23 11 5 13 38.5 0 0 - 1 1 100.0 4 2 6 1 0 0 0 1 -19
+p79
+aVDan Gadzuric NJN 04/01/2011 NJN @ PHI L 17 7 3 4 75.0 0 0 - 1 3 33.3 3 1 4 0 0 0 0 2 1
+p80
+aVStephen Graham NJN 04/01/2011 NJN @ PHI L 22 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 2 0 0 1 2 -10
+p81
+aVBen Uzoh NJN 04/01/2011 NJN @ PHI L 12 2 1 5 20.0 0 0 - 0 2 0.0 0 0 0 3 1 0 0 0 2
+p82
+aVAnthony Morrow NJN 03/30/2011 NJN @ NYK L 39 30 10 15 66.7 4 5 80.0 6 7 85.7 2 3 5 1 0 0 2 4 -6
+p83
+aVBrook Lopez NJN 03/30/2011 NJN @ NYK L 36 26 11 19 57.9 0 0 - 4 5 80.0 2 7 9 3 1 1 2 4 -6
+p84
+aVDeron Williams NJN 03/30/2011 NJN @ NYK L 37 22 7 19 36.8 2 6 33.3 6 6 100.0 0 8 8 8 0 0 3 5 2
+p85
+aVKris Humphries NJN 03/30/2011 NJN @ NYK L 44 15 5 10 50.0 0 0 - 5 8 62.5 5 9 14 2 0 1 2 1 1
+p86
+aVJohan Petro NJN 03/30/2011 NJN @ NYK L 15 9 3 7 42.9 0 0 - 3 4 75.0 6 2 8 0 0 0 4 3 1
+p87
+aVTravis Outlaw NJN 03/30/2011 NJN @ NYK L 31 4 1 6 16.7 0 2 0.0 2 2 100.0 0 3 3 2 1 1 1 3 -5
+p88
+aVSasha Vujacic NJN 03/30/2011 NJN @ NYK L 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p89
+aVJordan Farmar NJN 03/30/2011 NJN @ NYK L 20 7 3 7 42.9 0 2 0.0 1 1 100.0 1 2 3 0 2 0 2 3 -3
+p90
+aVJordan Farmar NJN 03/29/2011 NJN vs. HOU L 28 12 4 10 40.0 4 6 66.7 0 0 - 0 4 4 7 1 0 2 0 -11
+p91
+aVBrandan Wright NJN 03/29/2011 NJN vs. HOU L 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p92
+aVBrook Lopez NJN 03/29/2011 NJN vs. HOU L 29 22 10 16 62.5 0 0 - 2 5 40.0 1 6 7 2 1 3 2 0 -21
+p93
+aVDan Gadzuric NJN 03/29/2011 NJN vs. HOU L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -3
+p94
+aVTravis Outlaw NJN 03/29/2011 NJN vs. HOU L 20 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 0 1 0 2 1 -21
+p95
+aVKris Humphries NJN 03/29/2011 NJN vs. HOU L 23 6 3 10 30.0 0 0 - 0 0 - 4 9 13 1 1 2 0 2 -7
+p96
+aVBen Uzoh NJN 03/29/2011 NJN vs. HOU L 23 10 5 7 71.4 0 0 - 0 0 - 1 1 2 4 0 0 2 1 -16
+p97
+aVAnthony Morrow NJN 03/29/2011 NJN vs. HOU L 32 9 4 14 28.6 1 5 20.0 0 0 - 0 1 1 2 1 0 2 2 -8
+p98
+aVJohan Petro NJN 03/29/2011 NJN vs. HOU L 22 9 4 12 33.3 0 0 - 1 1 100.0 4 3 7 1 0 0 2 2 -14
+p99
+aVStephen Graham NJN 03/29/2011 NJN vs. HOU L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 -5
+p100
+aVSasha Vujacic NJN 03/29/2011 NJN vs. HOU L 28 11 4 9 44.4 1 5 20.0 2 2 100.0 0 0 0 1 0 0 0 1 -16
+p101
+aVKris Humphries NJN 03/26/2011 NJN @ ATL L 26 12 6 8 75.0 0 0 - 0 0 - 1 4 5 0 0 1 3 3 -20
+p102
+aVJordan Farmar NJN 03/26/2011 NJN @ ATL L 29 5 2 7 28.6 1 3 33.3 0 0 - 1 3 4 8 0 0 2 1 -19
+p103
+aVSasha Vujacic NJN 03/26/2011 NJN @ ATL L 36 13 6 12 50.0 1 4 25.0 0 0 - 0 2 2 2 2 0 0 3 -11
+p104
+aVBrook Lopez NJN 03/26/2011 NJN @ ATL L 31 6 3 9 33.3 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -17
+p105
+aVTravis Outlaw NJN 03/26/2011 NJN @ ATL L 22 5 1 5 20.0 1 2 50.0 2 2 100.0 1 2 3 1 0 1 1 4 5
+p106
+aVJohan Petro NJN 03/26/2011 NJN @ ATL L 22 12 6 9 66.7 0 0 - 0 0 - 2 6 8 3 0 1 1 1 6
+p107
+aVBrandan Wright NJN 03/26/2011 NJN @ ATL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p108
+aVBen Uzoh NJN 03/26/2011 NJN @ ATL L 20 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 7 2 0 1 0 10
+p109
+aVStephen Graham NJN 03/26/2011 NJN @ ATL L 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -6
+p110
+aVDan Gadzuric NJN 03/26/2011 NJN @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 8
+p111
+aVAnthony Morrow NJN 03/26/2011 NJN @ ATL L 34 25 11 21 52.4 0 4 0.0 3 3 100.0 1 2 3 1 1 0 0 4 -14
+p112
+aVBrook Lopez NJN 03/25/2011 NJN @ ORL L 35 10 4 8 50.0 0 0 - 2 3 66.7 0 2 2 1 2 0 1 3 -2
+p113
+aVSasha Vujacic NJN 03/25/2011 NJN @ ORL L 36 10 4 9 44.4 2 5 40.0 0 0 - 0 2 2 8 0 0 3 2 -9
+p114
+aVAnthony Morrow NJN 03/25/2011 NJN @ ORL L 35 19 8 17 47.1 3 6 50.0 0 0 - 1 1 2 0 0 0 1 2 0
+p115
+aVBen Uzoh NJN 03/25/2011 NJN @ ORL L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -7
+p116
+aVJohan Petro NJN 03/25/2011 NJN @ ORL L 13 2 1 4 25.0 0 1 0.0 0 0 - 1 5 6 0 1 1 0 2 -8
+p117
+aVStephen Graham NJN 03/25/2011 NJN @ ORL L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p118
+aVJordan Farmar NJN 03/25/2011 NJN @ ORL L 41 15 6 11 54.5 3 4 75.0 0 0 - 1 4 5 16 0 0 5 4 -3
+p119
+aVKris Humphries NJN 03/25/2011 NJN @ ORL L 36 14 6 10 60.0 0 0 - 2 2 100.0 4 6 10 2 0 0 3 1 1
+p120
+aVTravis Outlaw NJN 03/25/2011 NJN @ ORL L 23 10 5 11 45.5 0 2 0.0 0 1 0.0 0 2 2 1 1 0 0 4 -12
+p121
+aVBrandan Wright NJN 03/25/2011 NJN @ ORL L 10 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 0 0 2 -12
+p122
+aVQuinton Ross NJN 03/25/2011 NJN @ ORL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p123
+aVDan Gadzuric NJN 03/23/2011 NJN @ CLE W 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -7
+p124
+aVKris Humphries NJN 03/23/2011 NJN @ CLE W 39 18 6 14 42.9 0 0 - 6 6 100.0 9 14 23 4 2 2 3 2 5
+p125
+aVBrandan Wright NJN 03/23/2011 NJN @ CLE W 14 5 0 5 0.0 0 0 - 5 6 83.3 1 6 7 0 0 1 0 1 -5
+p126
+aVJohan Petro NJN 03/23/2011 NJN @ CLE W 16 2 1 3 33.3 0 0 - 0 2 0.0 0 3 3 0 0 0 1 4 -3
+p127
+aVSundiata Gaines NJN 03/23/2011 NJN @ CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p128
+aVSasha Vujacic NJN 03/23/2011 NJN @ CLE W 43 18 7 14 50.0 4 9 44.4 0 1 0.0 1 4 5 2 2 0 0 4 8
+p129
+aVAnthony Morrow NJN 03/23/2011 NJN @ CLE W 34 10 3 11 27.3 2 5 40.0 2 2 100.0 3 0 3 0 0 0 0 2 8
+p130
+aVJordan Farmar NJN 03/23/2011 NJN @ CLE W 41 10 2 10 20.0 0 3 0.0 6 7 85.7 0 2 2 10 4 0 4 3 -2
+p131
+aVTravis Outlaw NJN 03/23/2011 NJN @ CLE W 37 17 6 13 46.2 0 2 0.0 5 6 83.3 1 5 6 3 0 0 1 4 5
+p132
+aVBrook Lopez NJN 03/23/2011 NJN @ CLE W 33 18 7 21 33.3 0 0 - 4 7 57.1 2 3 5 1 0 2 2 5 16
+p133
+aVKris Humphries NJN 03/21/2011 NJN vs. IND L 32 9 4 8 50.0 0 0 - 1 2 50.0 4 10 14 3 0 0 3 2 -14
+p134
+aVSundiata Gaines NJN 03/21/2011 NJN vs. IND L 24 18 6 11 54.5 1 2 50.0 5 7 71.4 2 4 6 3 3 0 0 2 2
+p135
+aVJordan Farmar NJN 03/21/2011 NJN vs. IND L 32 14 6 12 50.0 0 3 0.0 2 2 100.0 2 0 2 4 1 0 2 3 -3
+p136
+aVJohan Petro NJN 03/21/2011 NJN vs. IND L 11 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 2 1 0 2 -5
+p137
+aVTravis Outlaw NJN 03/21/2011 NJN vs. IND L 21 7 2 5 40.0 2 5 40.0 1 2 50.0 0 3 3 1 1 0 0 4 9
+p138
+aVStephen Graham NJN 03/21/2011 NJN vs. IND L 23 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 4 1 0 1 3 -11
+p139
+aVBrandan Wright NJN 03/21/2011 NJN vs. IND L 9 2 1 6 16.7 0 0 - 0 0 - 0 4 4 1 0 0 0 0 -2
+p140
+aVSasha Vujacic NJN 03/21/2011 NJN vs. IND L 16 14 5 12 41.7 4 8 50.0 0 0 - 1 1 2 2 0 0 0 2 5
+p141
+aVBrook Lopez NJN 03/21/2011 NJN vs. IND L 36 20 9 20 45.0 0 0 - 2 4 50.0 3 1 4 3 1 3 1 4 2
+p142
+aVAnthony Morrow NJN 03/21/2011 NJN vs. IND L 35 12 5 15 33.3 1 6 16.7 1 1 100.0 4 2 6 2 1 0 1 4 -3
+p143
+aVJohan Petro NJN 03/20/2011 NJN @ WAS L 12 8 4 7 57.1 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -4
+p144
+aVStephen Graham NJN 03/20/2011 NJN @ WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p145
+aVSasha Vujacic NJN 03/20/2011 NJN @ WAS L 18 5 1 8 12.5 0 2 0.0 3 3 100.0 3 0 3 0 0 0 2 1 -16
+p146
+aVJordan Farmar NJN 03/20/2011 NJN @ WAS L 35 10 5 14 35.7 0 3 0.0 0 0 - 1 3 4 17 2 0 4 3 2
+p147
+aVSundiata Gaines NJN 03/20/2011 NJN @ WAS L 15 2 1 4 25.0 0 3 0.0 0 2 0.0 2 2 4 2 0 0 3 3 -13
+p148
+aVAnthony Morrow NJN 03/20/2011 NJN @ WAS L 35 19 7 13 53.8 3 7 42.9 2 2 100.0 1 2 3 1 0 0 1 2 -2
+p149
+aVBrook Lopez NJN 03/20/2011 NJN @ WAS L 39 21 9 16 56.3 0 0 - 3 4 75.0 5 5 10 2 1 0 2 4 2
+p150
+aVDamion James NJN 03/20/2011 NJN @ WAS L 29 8 4 7 57.1 0 1 0.0 0 0 - 1 3 4 1 3 0 3 2 8
+p151
+aVKris Humphries NJN 03/20/2011 NJN @ WAS L 39 18 7 17 41.2 0 0 - 4 5 80.0 7 10 17 1 2 3 2 4 -1
+p152
+aVTravis Outlaw NJN 03/20/2011 NJN @ WAS L 13 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 2 2 -2
+p153
+aVSundiata Gaines NJN 03/18/2011 NJN @ MIL L 12 3 1 4 25.0 1 3 33.3 0 0 - 2 0 2 2 1 0 1 0 -8
+p154
+aVDamion James NJN 03/18/2011 NJN @ MIL L 22 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 0 1 1 1 -10
+p155
+aVBrook Lopez NJN 03/18/2011 NJN @ MIL L 37 25 11 21 52.4 0 0 - 3 4 75.0 1 3 4 1 0 1 0 0 -9
+p156
+aVStephen Graham NJN 03/18/2011 NJN @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p157
+aVJohan Petro NJN 03/18/2011 NJN @ MIL L 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 1 3 3 -6
+p158
+aVBrandan Wright NJN 03/18/2011 NJN @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p159
+aVAnthony Morrow NJN 03/18/2011 NJN @ MIL L 28 9 3 5 60.0 0 2 0.0 3 5 60.0 0 1 1 1 0 0 0 2 -8
+p160
+aVSasha Vujacic NJN 03/18/2011 NJN @ MIL L 25 8 3 9 33.3 1 4 25.0 1 2 50.0 1 2 3 3 0 0 0 1 -5
+p161
+aVTravis Outlaw NJN 03/18/2011 NJN @ MIL L 16 7 2 4 50.0 1 2 50.0 2 2 100.0 1 1 2 1 0 3 0 1 -4
+p162
+aVJordan Farmar NJN 03/18/2011 NJN @ MIL L 18 9 3 8 37.5 3 6 50.0 0 0 - 0 5 5 3 0 0 0 1 -4
+p163
+aVKris Humphries NJN 03/18/2011 NJN @ MIL L 33 10 5 7 71.4 0 0 - 0 2 0.0 1 10 11 3 2 1 1 3 -10
+p164
+aVDeron Williams NJN 03/18/2011 NJN @ MIL L 36 18 4 13 30.8 2 6 33.3 8 9 88.9 1 3 4 9 1 0 5 2 -7
+p165
+aVDeron Williams NJN 03/17/2011 NJN vs. CHI L 36 5 1 12 8.3 0 3 0.0 3 3 100.0 1 3 4 11 1 0 4 2 -12
+p166
+aVTravis Outlaw NJN 03/17/2011 NJN vs. CHI L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 0 2 2 1 -4
+p167
+aVJordan Farmar NJN 03/17/2011 NJN vs. CHI L 13 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 6 0 0 1 1 -4
+p168
+aVDamion James NJN 03/17/2011 NJN vs. CHI L 20 6 3 5 60.0 0 0 - 0 2 0.0 2 3 5 0 0 1 1 2 -4
+p169
+aVAnthony Morrow NJN 03/17/2011 NJN vs. CHI L 28 8 3 10 30.0 2 6 33.3 0 0 - 1 2 3 1 1 0 0 1 -1
+p170
+aVJohan Petro NJN 03/17/2011 NJN vs. CHI L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p171
+aVSundiata Gaines NJN 03/17/2011 NJN vs. CHI L 11 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p172
+aVSasha Vujacic NJN 03/17/2011 NJN vs. CHI L 29 13 6 12 50.0 1 4 25.0 0 0 - 3 2 5 1 0 0 2 3 -11
+p173
+aVKris Humphries NJN 03/17/2011 NJN vs. CHI L 40 13 5 12 41.7 0 0 - 3 6 50.0 7 9 16 1 0 5 2 3 -12
+p174
+aVBrook Lopez NJN 03/17/2011 NJN vs. CHI L 38 22 8 15 53.3 0 0 - 6 7 85.7 3 5 8 2 0 0 1 2 -13
+p175
+aVBrandan Wright NJN 03/17/2011 NJN vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p176
+aVSundiata Gaines NJN 03/14/2011 NJN vs. BOS W 7 6 2 2 100.0 1 1 100.0 1 4 25.0 0 2 2 0 0 0 0 1 10
+p177
+aVBrook Lopez NJN 03/14/2011 NJN vs. BOS W 40 20 9 16 56.3 0 0 - 2 3 66.7 3 2 5 0 1 3 3 0 -4
+p178
+aVSasha Vujacic NJN 03/14/2011 NJN vs. BOS W 14 3 1 6 16.7 1 2 50.0 0 0 - 0 2 2 2 0 0 0 2 3
+p179
+aVJohan Petro NJN 03/14/2011 NJN vs. BOS W 11 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 0 1 0 3
+p180
+aVAnthony Morrow NJN 03/14/2011 NJN vs. BOS W 38 15 4 11 36.4 3 8 37.5 4 5 80.0 0 3 3 1 0 1 0 0 4
+p181
+aVTravis Outlaw NJN 03/14/2011 NJN vs. BOS W 35 12 4 11 36.4 2 5 40.0 2 2 100.0 2 4 6 2 0 1 0 4 10
+p182
+aVDeron Williams NJN 03/14/2011 NJN vs. BOS W 36 16 4 11 36.4 4 6 66.7 4 6 66.7 2 4 6 9 3 0 3 3 9
+p183
+aVJordan Farmar NJN 03/14/2011 NJN vs. BOS W 21 0 0 5 0.0 0 3 0.0 0 0 - 0 3 3 3 0 0 0 1 3
+p184
+aVKris Humphries NJN 03/14/2011 NJN vs. BOS W 38 16 7 14 50.0 0 0 - 2 4 50.0 5 10 15 1 0 1 3 2 7
+p185
+aVDan Gadzuric NJN 03/11/2011 NJN vs. LAC W 8 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 1 1 2 -8
+p186
+aVBrook Lopez NJN 03/11/2011 NJN vs. LAC W 45 24 10 21 47.6 0 0 - 4 7 57.1 3 4 7 2 0 3 3 3 11
+p187
+aVJordan Farmar NJN 03/11/2011 NJN vs. LAC W 35 24 9 17 52.9 5 11 45.5 1 2 50.0 1 0 1 7 3 0 3 1 10
+p188
+aVKris Humphries NJN 03/11/2011 NJN vs. LAC W 40 19 8 8 100.0 0 0 - 3 3 100.0 3 17 20 0 1 0 4 3 15
+p189
+aVStephen Graham NJN 03/11/2011 NJN vs. LAC W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p190
+aVTravis Outlaw NJN 03/11/2011 NJN vs. LAC W 32 9 4 8 50.0 1 1 100.0 0 0 - 0 5 5 3 0 0 1 2 13
+p191
+aVAnthony Morrow NJN 03/11/2011 NJN vs. LAC W 41 9 4 12 33.3 1 4 25.0 0 0 - 0 1 1 1 0 0 2 2 2
+p192
+aVBen Uzoh NJN 03/11/2011 NJN vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p193
+aVJohan Petro NJN 03/11/2011 NJN vs. LAC W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p194
+aVSundiata Gaines NJN 03/11/2011 NJN vs. LAC W 17 9 4 8 50.0 1 2 50.0 0 0 - 2 3 5 6 0 0 2 1 -2
+p195
+aVSasha Vujacic NJN 03/11/2011 NJN vs. LAC W 28 6 2 10 20.0 0 4 0.0 2 2 100.0 1 2 3 2 1 0 0 1 -7
+p196
+aVKris Humphries NJN 03/09/2011 NJN vs. GSW W 37 11 5 7 71.4 0 0 - 1 3 33.3 2 13 15 0 0 4 3 2 5
+p197
+aVSundiata Gaines NJN 03/09/2011 NJN vs. GSW W 24 5 2 6 33.3 0 1 0.0 1 3 33.3 1 0 1 8 4 0 3 2 21
+p198
+aVBrandan Wright NJN 03/09/2011 NJN vs. GSW W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p199
+aVSasha Vujacic NJN 03/09/2011 NJN vs. GSW W 32 16 7 16 43.8 2 6 33.3 0 0 - 0 1 1 2 0 0 1 3 -1
+p200
+aVStephen Graham NJN 03/09/2011 NJN vs. GSW W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p201
+aVBen Uzoh NJN 03/09/2011 NJN vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p202
+aVTravis Outlaw NJN 03/09/2011 NJN vs. GSW W 12 4 1 6 16.7 0 0 - 2 2 100.0 1 2 3 0 0 1 0 0 -2
+p203
+aVBrook Lopez NJN 03/09/2011 NJN vs. GSW W 39 26 10 17 58.8 0 0 - 6 6 100.0 4 6 10 4 0 1 1 2 12
+p204
+aVDan Gadzuric NJN 03/09/2011 NJN vs. GSW W 6 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 -4
+p205
+aVJordan Farmar NJN 03/09/2011 NJN vs. GSW W 32 4 2 10 20.0 0 5 0.0 0 0 - 1 3 4 9 1 0 1 1 -19
+p206
+aVAnthony Morrow NJN 03/09/2011 NJN vs. GSW W 41 22 8 17 47.1 4 6 66.7 2 2 100.0 0 6 6 2 0 1 3 2 15
+p207
+aVSasha Vujacic NJN 03/05/2011 NJN vs. TOR W 47 25 7 16 43.8 6 9 66.7 5 6 83.3 0 5 5 3 0 1 1 2 20
+p208
+aVSundiata Gaines NJN 03/05/2011 NJN vs. TOR W 23 5 1 5 20.0 0 3 0.0 3 3 100.0 1 3 4 2 0 0 2 1 0
+p209
+aVJohan Petro NJN 03/05/2011 NJN vs. TOR W 7 2 1 3 33.3 0 1 0.0 0 1 0.0 0 3 3 0 0 0 0 2 2
+p210
+aVKris Humphries NJN 03/05/2011 NJN vs. TOR W 54 20 8 17 47.1 0 0 - 4 8 50.0 6 11 17 2 1 0 3 4 2
+p211
+aVDamion James NJN 03/05/2011 NJN vs. TOR W 22 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 3 0 0 2 1
+p212
+aVJordan Farmar NJN 03/05/2011 NJN vs. TOR W 23 12 4 9 44.4 3 5 60.0 1 1 100.0 3 2 5 3 0 2 2 3 -3
+p213
+aVStephen Graham NJN 03/05/2011 NJN vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p214
+aVBrook Lopez NJN 03/05/2011 NJN vs. TOR W 47 34 14 24 58.3 0 0 - 6 8 75.0 4 10 14 3 0 8 2 6 -2
+p215
+aVDeron Williams NJN 03/05/2011 NJN vs. TOR W 53 21 7 20 35.0 3 9 33.3 4 4 100.0 1 3 4 18 2 1 6 5 1
+p216
+aVTravis Outlaw NJN 03/05/2011 NJN vs. TOR W 35 14 4 8 50.0 0 2 0.0 6 8 75.0 5 2 7 3 0 2 0 5 -10
+p217
+aVDamion James NJN 03/04/2011 NJN vs. TOR W 27 15 5 6 83.3 0 0 - 5 5 100.0 1 6 7 3 1 0 1 4 24
+p218
+aVKris Humphries NJN 03/04/2011 NJN vs. TOR W 36 18 8 14 57.1 0 1 0.0 2 3 66.7 4 13 17 1 0 4 2 3 15
+p219
+aVBrook Lopez NJN 03/04/2011 NJN vs. TOR W 37 25 11 17 64.7 0 0 - 3 3 100.0 0 2 2 1 0 3 3 4 11
+p220
+aVDeron Williams NJN 03/04/2011 NJN vs. TOR W 35 16 7 15 46.7 2 6 33.3 0 0 - 0 3 3 11 1 0 3 4 7
+p221
+aVAnthony Morrow NJN 03/04/2011 NJN vs. TOR W 12 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 1 0 0 0 2 3
+p222
+aVJohan Petro NJN 03/04/2011 NJN vs. TOR W 10 3 1 2 50.0 0 0 - 1 3 33.3 1 2 3 0 0 0 0 0 2
+p223
+aVTravis Outlaw NJN 03/04/2011 NJN vs. TOR W 27 8 2 6 33.3 0 1 0.0 4 6 66.7 0 4 4 1 0 0 0 0 -4
+p224
+aVSundiata Gaines NJN 03/04/2011 NJN vs. TOR W 8 7 3 3 100.0 0 0 - 1 1 100.0 0 0 0 2 1 0 1 0 10
+p225
+aVStephen Graham NJN 03/04/2011 NJN vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -10
+p226
+aVSasha Vujacic NJN 03/04/2011 NJN vs. TOR W 30 12 4 9 44.4 1 4 25.0 3 4 75.0 1 3 4 3 0 0 0 2 4
+p227
+aVJordan Farmar NJN 03/04/2011 NJN vs. TOR W 14 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 0 2 3
+p228
+aVSasha Vujacic NJN 02/28/2011 NJN vs. PHX L 26 5 2 6 33.3 1 3 33.3 0 0 - 1 5 6 5 0 0 1 2 -6
+p229
+aVAnthony Morrow NJN 02/28/2011 NJN vs. PHX L 46 22 6 16 37.5 5 10 50.0 5 5 100.0 0 3 3 2 0 0 2 3 16
+p230
+aVDeron Williams NJN 02/28/2011 NJN vs. PHX L 38 13 5 14 35.7 1 5 20.0 2 2 100.0 1 4 5 18 1 0 6 4 3
+p231
+aVJohan Petro NJN 02/28/2011 NJN vs. PHX L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p232
+aVTravis Outlaw NJN 02/28/2011 NJN vs. PHX L 20 10 5 8 62.5 0 3 0.0 0 1 0.0 0 2 2 0 0 0 0 0 0
+p233
+aVBen Uzoh NJN 02/28/2011 NJN vs. PHX L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 3 0 0 1 2 -3
+p234
+aVKris Humphries NJN 02/28/2011 NJN vs. PHX L 41 16 8 15 53.3 0 0 - 0 1 0.0 3 12 15 1 1 1 3 2 -3
+p235
+aVDamion James NJN 02/28/2011 NJN vs. PHX L 26 6 3 4 75.0 0 0 - 0 0 - 0 8 8 0 3 1 1 4 -10
+p236
+aVBrook Lopez NJN 02/28/2011 NJN vs. PHX L 46 28 12 23 52.2 0 0 - 4 5 80.0 4 6 10 3 0 0 1 1 3
+p237
+aVSasha Vujacic NJN 02/26/2011 NJN @ HOU L 34 8 3 13 23.1 2 7 28.6 0 0 - 1 3 4 1 2 0 2 5 -2
+p238
+aVBen Uzoh NJN 02/26/2011 NJN @ HOU L 22 18 6 8 75.0 0 1 0.0 6 6 100.0 2 3 5 2 1 0 0 1 -3
+p239
+aVKris Humphries NJN 02/26/2011 NJN @ HOU L 25 13 5 9 55.6 0 0 - 3 4 75.0 4 7 11 0 0 0 3 4 -9
+p240
+aVDeron Williams NJN 02/26/2011 NJN @ HOU L 37 15 3 12 25.0 0 4 0.0 9 12 75.0 0 5 5 17 2 0 4 4 -26
+p241
+aVJordan Farmar NJN 02/26/2011 NJN @ HOU L 2 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 5
+p242
+aVTravis Outlaw NJN 02/26/2011 NJN @ HOU L 20 6 2 6 33.3 1 3 33.3 1 2 50.0 0 4 4 0 0 0 1 1 -9
+p243
+aVJohan Petro NJN 02/26/2011 NJN @ HOU L 7 0 0 6 0.0 0 0 - 0 0 - 3 3 6 0 0 0 0 1 1
+p244
+aVDan Gadzuric NJN 02/26/2011 NJN @ HOU L 9 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 2 5
+p245
+aVBrook Lopez NJN 02/26/2011 NJN @ HOU L 34 21 8 16 50.0 0 0 - 5 6 83.3 5 2 7 2 0 3 0 3 -18
+p246
+aVAnthony Morrow NJN 02/26/2011 NJN @ HOU L 31 11 4 12 33.3 1 4 25.0 2 2 100.0 1 1 2 0 1 0 0 2 -18
+p247
+aVDamion James NJN 02/26/2011 NJN @ HOU L 19 9 4 6 66.7 0 0 - 1 2 50.0 1 2 3 2 1 2 1 4 -1
+p248
+aVTravis Outlaw NJN 02/25/2011 NJN @ SAS L 24 8 4 13 30.8 0 6 0.0 0 0 - 0 1 1 2 0 1 1 2 3
+p249
+aVBrook Lopez NJN 02/25/2011 NJN @ SAS L 37 13 5 13 38.5 0 0 - 3 4 75.0 5 3 8 2 1 0 0 2 -2
+p250
+aVDamion James NJN 02/25/2011 NJN @ SAS L 20 7 3 7 42.9 0 0 - 1 1 100.0 3 1 4 2 0 0 4 1 -10
+p251
+aVBen Uzoh NJN 02/25/2011 NJN @ SAS L 1 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 0 2
+p252
+aVSasha Vujacic NJN 02/25/2011 NJN @ SAS L 26 8 3 9 33.3 1 5 20.0 1 1 100.0 0 2 2 1 4 0 1 5 -14
+p253
+aVQuinton Ross NJN 02/25/2011 NJN @ SAS L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p254
+aVKris Humphries NJN 02/25/2011 NJN @ SAS L 23 12 6 13 46.2 0 0 - 0 0 - 0 6 6 0 2 2 1 2 -15
+p255
+aVJordan Farmar NJN 02/25/2011 NJN @ SAS L 18 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 5 1 0 2 1 2
+p256
+aVDeron Williams NJN 02/25/2011 NJN @ SAS L 41 14 5 13 38.5 0 3 0.0 4 6 66.7 0 4 4 12 1 1 3 2 -14
+p257
+aVJohan Petro NJN 02/25/2011 NJN @ SAS L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 1 0 3 -8
+p258
+aVAnthony Morrow NJN 02/25/2011 NJN @ SAS L 30 25 7 11 63.6 3 5 60.0 8 9 88.9 0 5 5 0 1 0 1 1 1
+p259
+aVJordan Farmar NJN 02/16/2011 NJN @ BOS L 19 6 2 7 28.6 2 5 40.0 0 0 - 2 2 4 1 0 0 2 3 -3
+p260
+aVTravis Outlaw NJN 02/16/2011 NJN @ BOS L 15 4 1 1 100.0 0 0 - 2 4 50.0 1 3 4 1 0 0 0 0 -7
+p261
+aVSasha Vujacic NJN 02/16/2011 NJN @ BOS L 29 4 2 9 22.2 0 4 0.0 0 0 - 1 4 5 5 0 0 0 3 -14
+p262
+aVKris Humphries NJN 02/16/2011 NJN @ BOS L 22 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 0 0 0 1 2 -14
+p263
+aVBrook Lopez NJN 02/16/2011 NJN @ BOS L 37 18 8 16 50.0 0 0 - 2 2 100.0 3 2 5 3 0 4 6 3 -5
+p264
+aVDevin Harris NJN 02/16/2011 NJN @ BOS L 30 16 6 14 42.9 1 4 25.0 3 3 100.0 0 3 3 5 1 0 1 2 -6
+p265
+aVBen Uzoh NJN 02/16/2011 NJN @ BOS L 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p266
+aVJohan Petro NJN 02/16/2011 NJN @ BOS L 11 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 1 0 2 3 -11
+p267
+aVStephen Graham NJN 02/16/2011 NJN @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p268
+aVAnthony Morrow NJN 02/16/2011 NJN @ BOS L 29 14 5 14 35.7 3 6 50.0 1 1 100.0 0 4 4 1 0 0 2 2 -5
+p269
+aVDerrick Favors NJN 02/16/2011 NJN @ BOS L 19 4 1 2 50.0 0 0 - 2 2 100.0 4 3 7 1 0 0 0 5 1
+p270
+aVQuinton Ross NJN 02/16/2011 NJN @ BOS L 26 7 3 5 60.0 0 1 0.0 1 1 100.0 1 1 2 1 0 1 0 3 -4
+p271
+aVJohan Petro NJN 02/14/2011 NJN vs. SAS L 17 4 2 5 40.0 0 0 - 0 0 - 1 0 1 1 2 0 0 3 8
+p272
+aVQuinton Ross NJN 02/14/2011 NJN vs. SAS L 20 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 1 1 0 3 0
+p273
+aVDevin Harris NJN 02/14/2011 NJN vs. SAS L 28 10 2 6 33.3 0 0 - 6 6 100.0 0 2 2 4 0 0 1 2 -22
+p274
+aVAnthony Morrow NJN 02/14/2011 NJN vs. SAS L 28 7 3 10 30.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 3 -19
+p275
+aVDerrick Favors NJN 02/14/2011 NJN vs. SAS L 21 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 2 5 -9
+p276
+aVBen Uzoh NJN 02/14/2011 NJN vs. SAS L 6 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 0 0 0 0 0 6
+p277
+aVBrook Lopez NJN 02/14/2011 NJN vs. SAS L 30 11 5 16 31.3 0 0 - 1 2 50.0 5 5 10 2 2 3 1 4 -25
+p278
+aVJordan Farmar NJN 02/14/2011 NJN vs. SAS L 20 10 4 11 36.4 2 3 66.7 0 0 - 1 2 3 7 2 0 0 2 -3
+p279
+aVSasha Vujacic NJN 02/14/2011 NJN vs. SAS L 25 8 2 9 22.2 1 6 16.7 3 3 100.0 1 2 3 0 0 0 0 2 -8
+p280
+aVStephen Graham NJN 02/14/2011 NJN vs. SAS L 8 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 3
+p281
+aVTravis Outlaw NJN 02/14/2011 NJN vs. SAS L 20 11 4 13 30.8 2 5 40.0 1 1 100.0 1 2 3 0 0 0 0 1 -11
+p282
+aVKris Humphries NJN 02/14/2011 NJN vs. SAS L 17 4 1 5 20.0 0 0 - 2 4 50.0 1 6 7 0 1 1 2 2 -5
+p283
+aVSasha Vujacic NJN 02/12/2011 NJN vs. NYK L 27 15 5 9 55.6 2 5 40.0 3 4 75.0 0 1 1 4 2 0 2 2 -10
+p284
+aVJordan Farmar NJN 02/12/2011 NJN vs. NYK L 20 12 5 10 50.0 2 6 33.3 0 1 0.0 0 2 2 1 0 0 2 3 -12
+p285
+aVAnthony Morrow NJN 02/12/2011 NJN vs. NYK L 33 8 3 9 33.3 2 2 100.0 0 0 - 0 5 5 1 0 0 0 3 6
+p286
+aVBrook Lopez NJN 02/12/2011 NJN vs. NYK L 34 19 6 14 42.9 0 0 - 7 9 77.8 1 3 4 2 0 2 3 0 -2
+p287
+aVKris Humphries NJN 02/12/2011 NJN vs. NYK L 28 8 4 8 50.0 0 0 - 0 0 - 2 9 11 2 1 1 3 3 -10
+p288
+aVDerrick Favors NJN 02/12/2011 NJN vs. NYK L 26 9 3 10 30.0 0 0 - 3 6 50.0 7 7 14 0 1 2 1 3 -4
+p289
+aVJohan Petro NJN 02/12/2011 NJN vs. NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p290
+aVTravis Outlaw NJN 02/12/2011 NJN vs. NYK L 26 2 0 4 0.0 0 0 - 2 2 100.0 1 6 7 1 1 1 1 1 1
+p291
+aVQuinton Ross NJN 02/12/2011 NJN vs. NYK L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -8
+p292
+aVDevin Harris NJN 02/12/2011 NJN vs. NYK L 35 22 7 13 53.8 1 1 100.0 7 9 77.8 0 4 4 3 1 0 5 3 -3
+p293
+aVDerrick Favors NJN 02/11/2011 NJN @ CHA W 16 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 0 1 0 5 3
+p294
+aVDevin Harris NJN 02/11/2011 NJN @ CHA W 33 16 4 10 40.0 1 1 100.0 7 8 87.5 0 4 4 8 0 0 0 1 6
+p295
+aVQuinton Ross NJN 02/11/2011 NJN @ CHA W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -6
+p296
+aVAnthony Morrow NJN 02/11/2011 NJN @ CHA W 35 5 2 9 22.2 0 3 0.0 1 1 100.0 0 4 4 0 0 0 0 4 17
+p297
+aVJordan Farmar NJN 02/11/2011 NJN @ CHA W 15 8 3 7 42.9 0 2 0.0 2 3 66.7 0 0 0 2 0 0 0 1 1
+p298
+aVSasha Vujacic NJN 02/11/2011 NJN @ CHA W 26 10 3 8 37.5 1 5 20.0 3 6 50.0 0 3 3 3 2 2 1 4 1
+p299
+aVJohan Petro NJN 02/11/2011 NJN @ CHA W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 1
+p300
+aVBrook Lopez NJN 02/11/2011 NJN @ CHA W 41 31 14 27 51.9 0 0 - 3 6 50.0 2 9 11 1 1 1 2 3 6
+p301
+aVKris Humphries NJN 02/11/2011 NJN @ CHA W 32 15 5 10 50.0 0 0 - 5 7 71.4 7 7 14 2 0 1 2 3 -2
+p302
+aVTravis Outlaw NJN 02/11/2011 NJN @ CHA W 30 3 1 8 12.5 0 3 0.0 1 3 33.3 2 3 5 1 0 1 0 4 -2
+p303
+aVJordan Farmar NJN 02/09/2011 NJN vs. NOH W 27 8 3 9 33.3 2 7 28.6 0 0 - 0 2 2 11 2 0 3 2 21
+p304
+aVTravis Outlaw NJN 02/09/2011 NJN vs. NOH W 21 11 4 9 44.4 2 3 66.7 1 1 100.0 0 1 1 2 2 0 1 3 -13
+p305
+aVAnthony Morrow NJN 02/09/2011 NJN vs. NOH W 38 15 6 15 40.0 3 5 60.0 0 0 - 2 2 4 3 0 0 1 1 3
+p306
+aVJohan Petro NJN 02/09/2011 NJN vs. NOH W 12 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 2 1 5
+p307
+aVKris Humphries NJN 02/09/2011 NJN vs. NOH W 33 14 6 8 75.0 0 0 - 2 4 50.0 4 11 15 2 0 0 1 4 7
+p308
+aVQuinton Ross NJN 02/09/2011 NJN vs. NOH W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p309
+aVDerrick Favors NJN 02/09/2011 NJN vs. NOH W 20 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 1 0 1 1 3 -5
+p310
+aVDevin Harris NJN 02/09/2011 NJN vs. NOH W 32 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 6 2 0 4 2 -12
+p311
+aVSasha Vujacic NJN 02/09/2011 NJN vs. NOH W 35 25 9 14 64.3 5 7 71.4 2 2 100.0 1 3 4 4 0 0 1 3 6
+p312
+aVBrook Lopez NJN 02/09/2011 NJN vs. NOH W 41 20 6 15 40.0 0 0 - 8 10 80.0 2 5 7 0 0 0 0 1 -5
+p313
+aVOrien Greene NJN 02/06/2011 NJN vs. IND L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 1 0 0 0 2
+p314
+aVKris Humphries NJN 02/06/2011 NJN vs. IND L 22 6 3 8 37.5 0 0 - 0 0 - 2 6 8 1 1 1 0 2 -8
+p315
+aVAnthony Morrow NJN 02/06/2011 NJN vs. IND L 34 11 5 12 41.7 1 5 20.0 0 0 - 0 5 5 1 1 0 1 3 -16
+p316
+aVTravis Outlaw NJN 02/06/2011 NJN vs. IND L 25 9 4 9 44.4 1 3 33.3 0 0 - 2 1 3 1 1 0 0 1 -8
+p317
+aVQuinton Ross NJN 02/06/2011 NJN vs. IND L 18 6 3 3 100.0 0 0 - 0 0 - 2 1 3 1 0 0 0 3 -6
+p318
+aVBen Uzoh NJN 02/06/2011 NJN vs. IND L 21 8 3 8 37.5 0 1 0.0 2 4 50.0 1 2 3 5 0 0 1 1 -1
+p319
+aVSasha Vujacic NJN 02/06/2011 NJN vs. IND L 24 9 3 7 42.9 2 5 40.0 1 1 100.0 3 3 6 3 1 0 2 2 -8
+p320
+aVDerrick Favors NJN 02/06/2011 NJN vs. IND L 21 2 1 4 25.0 0 0 - 0 2 0.0 2 1 3 0 1 2 2 4 -17
+p321
+aVStephen Graham NJN 02/06/2011 NJN vs. IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p322
+aVDevin Harris NJN 02/06/2011 NJN vs. IND L 27 13 4 13 30.8 0 2 0.0 5 8 62.5 1 0 1 7 0 0 5 2 -18
+p323
+aVBrook Lopez NJN 02/06/2011 NJN vs. IND L 28 13 5 13 38.5 0 0 - 3 4 75.0 1 4 5 2 1 0 2 2 -11
+p324
+aVJohan Petro NJN 02/06/2011 NJN vs. IND L 14 8 4 7 57.1 0 0 - 0 0 - 2 2 4 2 1 1 1 5 -5
+p325
+aVBen Uzoh NJN 02/04/2011 NJN @ DET L 9 6 3 4 75.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 2 -2
+p326
+aVBrook Lopez NJN 02/04/2011 NJN @ DET L 38 16 7 14 50.0 0 0 - 2 2 100.0 1 3 4 3 0 2 3 4 -17
+p327
+aVJohan Petro NJN 02/04/2011 NJN @ DET L 10 6 3 5 60.0 0 0 - 0 2 0.0 2 4 6 0 1 1 0 1 7
+p328
+aVOrien Greene NJN 02/04/2011 NJN @ DET L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p329
+aVTravis Outlaw NJN 02/04/2011 NJN @ DET L 27 6 3 9 33.3 0 3 0.0 0 0 - 0 0 0 1 0 0 2 2 -17
+p330
+aVDerrick Favors NJN 02/04/2011 NJN @ DET L 20 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 1 0 2 2 -6
+p331
+aVSasha Vujacic NJN 02/04/2011 NJN @ DET L 20 7 3 12 25.0 1 5 20.0 0 0 - 2 2 4 0 0 0 0 0 -15
+p332
+aVKris Humphries NJN 02/04/2011 NJN @ DET L 25 6 2 5 40.0 0 0 - 2 4 50.0 2 7 9 0 0 1 0 2 -2
+p333
+aVAnthony Morrow NJN 02/04/2011 NJN @ DET L 37 22 8 12 66.7 3 6 50.0 3 3 100.0 1 3 4 3 0 0 1 2 -3
+p334
+aVQuinton Ross NJN 02/04/2011 NJN @ DET L 13 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 9
+p335
+aVDevin Harris NJN 02/04/2011 NJN @ DET L 39 9 3 6 50.0 0 1 0.0 3 3 100.0 0 1 1 13 2 1 3 2 -8
+p336
+aVJohan Petro NJN 02/02/2011 NJN vs. PHI L 12 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 1
+p337
+aVStephen Graham NJN 02/02/2011 NJN vs. PHI L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -12
+p338
+aVQuinton Ross NJN 02/02/2011 NJN vs. PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p339
+aVDevin Harris NJN 02/02/2011 NJN vs. PHI L 37 16 5 8 62.5 0 1 0.0 6 7 85.7 0 1 1 7 1 0 5 2 -17
+p340
+aVDerrick Favors NJN 02/02/2011 NJN vs. PHI L 21 5 2 9 22.2 0 0 - 1 2 50.0 4 7 11 0 0 3 0 2 -19
+p341
+aVOrien Greene NJN 02/02/2011 NJN vs. PHI L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p342
+aVSasha Vujacic NJN 02/02/2011 NJN vs. PHI L 22 4 1 6 16.7 1 2 50.0 1 1 100.0 1 2 3 4 3 0 0 1 11
+p343
+aVAnthony Morrow NJN 02/02/2011 NJN vs. PHI L 30 10 4 7 57.1 2 3 66.7 0 0 - 0 3 3 2 0 0 1 2 -11
+p344
+aVTravis Outlaw NJN 02/02/2011 NJN vs. PHI L 34 10 3 9 33.3 0 3 0.0 4 4 100.0 0 3 3 1 0 0 1 0 -12
+p345
+aVBrook Lopez NJN 02/02/2011 NJN vs. PHI L 36 16 8 19 42.1 0 0 - 0 0 - 0 4 4 0 0 2 3 3 -15
+p346
+aVBen Uzoh NJN 02/02/2011 NJN vs. PHI L 11 7 3 4 75.0 0 0 - 1 2 50.0 2 1 3 1 0 0 1 1 3
+p347
+aVKris Humphries NJN 02/02/2011 NJN vs. PHI L 27 16 7 9 77.8 0 0 - 2 4 50.0 3 4 7 1 0 1 1 0 3
+p348
+aVJohan Petro NJN 01/31/2011 NJN vs. DEN W 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -6
+p349
+aVQuinton Ross NJN 01/31/2011 NJN vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p350
+aVKris Humphries NJN 01/31/2011 NJN vs. DEN W 27 15 5 8 62.5 0 0 - 5 6 83.3 4 5 9 0 0 1 0 1 7
+p351
+aVBrook Lopez NJN 01/31/2011 NJN vs. DEN W 38 27 11 18 61.1 0 0 - 5 5 100.0 1 3 4 3 0 0 2 2 22
+p352
+aVSasha Vujacic NJN 01/31/2011 NJN vs. DEN W 17 9 3 7 42.9 1 3 33.3 2 2 100.0 1 4 5 1 3 0 1 1 -3
+p353
+aVDerrick Favors NJN 01/31/2011 NJN vs. DEN W 21 6 2 4 50.0 0 0 - 2 2 100.0 2 4 6 0 2 0 2 5 9
+p354
+aVDevin Harris NJN 01/31/2011 NJN vs. DEN W 35 9 4 11 36.4 0 0 - 1 1 100.0 0 1 1 18 1 0 3 2 13
+p355
+aVAnthony Morrow NJN 01/31/2011 NJN vs. DEN W 30 18 6 6 100.0 4 4 100.0 2 3 66.7 1 2 3 2 1 0 0 1 12
+p356
+aVTravis Outlaw NJN 01/31/2011 NJN vs. DEN W 37 21 8 14 57.1 3 7 42.9 2 3 66.7 0 4 4 0 1 1 0 2 21
+p357
+aVBen Uzoh NJN 01/31/2011 NJN vs. DEN W 13 6 1 3 33.3 1 1 100.0 3 4 75.0 3 0 3 4 3 0 1 1 3
+p358
+aVStephen Graham NJN 01/31/2011 NJN vs. DEN W 13 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 0 0 1 4 3
+p359
+aVStephen Graham NJN 01/29/2011 NJN @ MIL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 1
+p360
+aVTravis Outlaw NJN 01/29/2011 NJN @ MIL L 37 9 3 7 42.9 1 2 50.0 2 4 50.0 1 6 7 0 0 1 0 3 -12
+p361
+aVDevin Harris NJN 01/29/2011 NJN @ MIL L 38 10 2 11 18.2 0 1 0.0 6 6 100.0 0 2 2 16 0 0 3 1 -2
+p362
+aVSasha Vujacic NJN 01/29/2011 NJN @ MIL L 22 9 3 8 37.5 1 2 50.0 2 2 100.0 0 0 0 0 0 0 2 1 -9
+p363
+aVDerrick Favors NJN 01/29/2011 NJN @ MIL L 24 8 4 6 66.7 0 0 - 0 1 0.0 1 2 3 0 0 0 0 4 1
+p364
+aVAnthony Morrow NJN 01/29/2011 NJN @ MIL L 31 16 6 11 54.5 2 3 66.7 2 2 100.0 1 4 5 0 0 0 1 2 -4
+p365
+aVJohan Petro NJN 01/29/2011 NJN @ MIL L 10 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -5
+p366
+aVBen Uzoh NJN 01/29/2011 NJN @ MIL L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -7
+p367
+aVQuinton Ross NJN 01/29/2011 NJN @ MIL L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p368
+aVBrook Lopez NJN 01/29/2011 NJN @ MIL L 38 26 12 23 52.2 0 0 - 2 4 50.0 2 4 6 2 0 0 1 3 -5
+p369
+aVKris Humphries NJN 01/29/2011 NJN @ MIL L 24 1 0 6 0.0 0 0 - 1 2 50.0 3 7 10 1 0 1 1 2 -11
+p370
+aVSasha Vujacic NJN 01/28/2011 NJN @ IND L 23 7 3 7 42.9 1 1 100.0 0 0 - 0 3 3 2 0 0 1 1 -14
+p371
+aVTravis Outlaw NJN 01/28/2011 NJN @ IND L 25 12 4 10 40.0 1 3 33.3 3 3 100.0 1 5 6 2 1 0 3 0 -13
+p372
+aVAnthony Morrow NJN 01/28/2011 NJN @ IND L 16 7 1 4 25.0 1 2 50.0 4 4 100.0 0 1 1 2 1 0 1 4 -13
+p373
+aVBen Uzoh NJN 01/28/2011 NJN @ IND L 21 4 1 3 33.3 0 0 - 2 6 33.3 2 1 3 4 1 0 1 1 -21
+p374
+aVJohan Petro NJN 01/28/2011 NJN @ IND L 19 8 4 9 44.4 0 0 - 0 0 - 1 4 5 0 0 0 2 5 -11
+p375
+aVQuinton Ross NJN 01/28/2011 NJN @ IND L 15 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p376
+aVDevin Harris NJN 01/28/2011 NJN @ IND L 27 9 2 4 50.0 0 1 0.0 5 6 83.3 0 1 1 9 0 0 1 2 -11
+p377
+aVBrook Lopez NJN 01/28/2011 NJN @ IND L 29 28 12 17 70.6 0 0 - 4 4 100.0 1 0 1 0 0 1 1 2 -21
+p378
+aVStephen Graham NJN 01/28/2011 NJN @ IND L 27 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -19
+p379
+aVKris Humphries NJN 01/28/2011 NJN @ IND L 15 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -12
+p380
+aVDerrick Favors NJN 01/28/2011 NJN @ IND L 23 9 4 9 44.4 0 0 - 1 2 50.0 1 2 3 1 0 1 3 4 -18
+p381
+aVJohan Petro NJN 01/26/2011 NJN vs. MEM W 13 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 14
+p382
+aVDevin Harris NJN 01/26/2011 NJN vs. MEM W 28 13 4 12 33.3 1 2 50.0 4 4 100.0 0 3 3 9 2 0 2 1 2
+p383
+aVDerrick Favors NJN 01/26/2011 NJN vs. MEM W 20 2 1 5 20.0 0 0 - 0 0 - 3 6 9 2 1 2 1 1 -11
+p384
+aVStephen Graham NJN 01/26/2011 NJN vs. MEM W 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -11
+p385
+aVJordan Farmar NJN 01/26/2011 NJN vs. MEM W 20 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 7 0 0 2 1 6
+p386
+aVAnthony Morrow NJN 01/26/2011 NJN vs. MEM W 27 19 8 12 66.7 3 4 75.0 0 0 - 2 2 4 1 1 0 1 2 1
+p387
+aVBrook Lopez NJN 01/26/2011 NJN vs. MEM W 35 17 6 16 37.5 0 0 - 5 6 83.3 2 2 4 2 1 1 0 3 -8
+p388
+aVTravis Outlaw NJN 01/26/2011 NJN vs. MEM W 20 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 1 0 1 1 1 6
+p389
+aVSasha Vujacic NJN 01/26/2011 NJN vs. MEM W 36 14 5 10 50.0 3 5 60.0 1 2 50.0 0 5 5 3 1 0 2 2 13
+p390
+aVKris Humphries NJN 01/26/2011 NJN vs. MEM W 27 14 6 9 66.7 0 0 - 2 2 100.0 4 3 7 1 0 1 0 2 13
+p391
+aVTravis Outlaw NJN 01/24/2011 NJN vs. CLE W 18 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 1 0 1
+p392
+aVDevin Harris NJN 01/24/2011 NJN vs. CLE W 31 14 6 13 46.2 2 2 100.0 0 0 - 0 0 0 10 1 0 0 1 13
+p393
+aVJohan Petro NJN 01/24/2011 NJN vs. CLE W 11 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 1 1 0 2 -5
+p394
+aVStephen Graham NJN 01/24/2011 NJN vs. CLE W 17 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 4 -5
+p395
+aVJordan Farmar NJN 01/24/2011 NJN vs. CLE W 26 11 4 7 57.1 3 4 75.0 0 0 - 0 0 0 3 2 0 2 2 -4
+p396
+aVDerrick Favors NJN 01/24/2011 NJN vs. CLE W 17 8 3 5 60.0 0 0 - 2 2 100.0 3 6 9 2 0 3 2 0 0
+p397
+aVBrook Lopez NJN 01/24/2011 NJN vs. CLE W 37 28 10 20 50.0 0 0 - 8 10 80.0 2 5 7 3 1 1 1 4 7
+p398
+aVSasha Vujacic NJN 01/24/2011 NJN vs. CLE W 25 6 1 6 16.7 1 1 100.0 3 4 75.0 0 2 2 4 0 0 0 3 -3
+p399
+aVKris Humphries NJN 01/24/2011 NJN vs. CLE W 31 11 3 10 30.0 0 0 - 5 8 62.5 5 6 11 1 1 0 2 2 2
+p400
+aVAnthony Morrow NJN 01/24/2011 NJN vs. CLE W 26 16 6 12 50.0 1 6 16.7 3 3 100.0 0 3 3 0 0 1 0 1 4
+p401
+aVBrook Lopez NJN 01/22/2011 NJN vs. DAL L 28 24 10 15 66.7 0 0 - 4 6 66.7 1 5 6 3 1 2 6 4 4
+p402
+aVAnthony Morrow NJN 01/22/2011 NJN vs. DAL L 12 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 1 3 -4
+p403
+aVStephen Graham NJN 01/22/2011 NJN vs. DAL L 20 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -11
+p404
+aVDevin Harris NJN 01/22/2011 NJN vs. DAL L 32 15 4 12 33.3 0 1 0.0 7 8 87.5 0 3 3 11 1 0 2 0 -3
+p405
+aVDerrick Favors NJN 01/22/2011 NJN vs. DAL L 15 6 3 5 60.0 0 0 - 0 0 - 1 0 1 1 0 0 1 4 -2
+p406
+aVJordan Farmar NJN 01/22/2011 NJN vs. DAL L 22 6 2 8 25.0 2 5 40.0 0 0 - 0 1 1 7 1 0 3 3 -4
+p407
+aVTravis Outlaw NJN 01/22/2011 NJN vs. DAL L 32 8 2 7 28.6 2 4 50.0 2 2 100.0 0 6 6 0 0 1 0 1 -1
+p408
+aVKris Humphries NJN 01/22/2011 NJN vs. DAL L 33 8 3 4 75.0 0 0 - 2 3 66.7 4 11 15 1 0 1 2 1 -1
+p409
+aVJohan Petro NJN 01/22/2011 NJN vs. DAL L 16 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 1 0 0 5 3
+p410
+aVSasha Vujacic NJN 01/22/2011 NJN vs. DAL L 30 9 4 12 33.3 1 3 33.3 0 0 - 0 3 3 0 0 1 2 4 14
+p411
+aVDevin Harris NJN 01/21/2011 NJN vs. DET W 30 12 5 7 71.4 0 0 - 2 2 100.0 1 4 5 9 3 1 1 2 18
+p412
+aVStephen Graham NJN 01/21/2011 NJN vs. DET W 26 6 3 8 37.5 0 0 - 0 0 - 1 5 6 3 1 0 1 2 7
+p413
+aVAnthony Morrow NJN 01/21/2011 NJN vs. DET W 14 10 4 8 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 2 12
+p414
+aVSasha Vujacic NJN 01/21/2011 NJN vs. DET W 19 9 4 9 44.4 1 3 33.3 0 0 - 0 2 2 0 0 0 0 4 -4
+p415
+aVJordan Farmar NJN 01/21/2011 NJN vs. DET W 21 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 3 0 0 3 2 6
+p416
+aVKris Humphries NJN 01/21/2011 NJN vs. DET W 25 11 4 6 66.7 0 0 - 3 4 75.0 2 10 12 2 0 1 1 0 15
+p417
+aVBrook Lopez NJN 01/21/2011 NJN vs. DET W 29 15 5 9 55.6 0 0 - 5 5 100.0 1 3 4 4 0 3 3 4 1
+p418
+aVTravis Outlaw NJN 01/21/2011 NJN vs. DET W 33 7 3 11 27.3 1 3 33.3 0 0 - 0 3 3 0 1 1 1 2 10
+p419
+aVJohan Petro NJN 01/21/2011 NJN vs. DET W 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 1 0 3 -1
+p420
+aVDerrick Favors NJN 01/21/2011 NJN vs. DET W 30 8 3 4 75.0 0 0 - 2 3 66.7 2 4 6 1 0 0 2 3 13
+p421
+aVQuinton Ross NJN 01/21/2011 NJN vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p422
+aVBen Uzoh NJN 01/21/2011 NJN vs. DET W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p423
+aVJordan Farmar NJN 01/19/2011 NJN vs. UTA W 19 11 3 6 50.0 3 5 60.0 2 2 100.0 1 2 3 8 0 0 3 1 11
+p424
+aVBrook Lopez NJN 01/19/2011 NJN vs. UTA W 32 20 6 17 35.3 0 0 - 8 11 72.7 2 2 4 0 0 1 2 4 10
+p425
+aVDerrick Favors NJN 01/19/2011 NJN vs. UTA W 30 12 5 6 83.3 0 0 - 2 3 66.7 2 4 6 1 0 3 1 1 2
+p426
+aVSasha Vujacic NJN 01/19/2011 NJN vs. UTA W 30 15 4 5 80.0 1 2 50.0 6 6 100.0 0 7 7 4 3 0 1 2 10
+p427
+aVJohan Petro NJN 01/19/2011 NJN vs. UTA W 11 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 4
+p428
+aVTravis Outlaw NJN 01/19/2011 NJN vs. UTA W 35 13 5 11 45.5 3 6 50.0 0 0 - 0 8 8 1 0 1 2 1 6
+p429
+aVKris Humphries NJN 01/19/2011 NJN vs. UTA W 23 12 5 7 71.4 0 0 - 2 2 100.0 2 3 5 1 0 0 3 5 0
+p430
+aVDevin Harris NJN 01/19/2011 NJN vs. UTA W 32 14 4 10 40.0 1 3 33.3 5 6 83.3 1 1 2 8 2 0 6 2 7
+p431
+aVStephen Graham NJN 01/19/2011 NJN vs. UTA W 29 5 2 5 40.0 0 0 - 1 2 50.0 3 4 7 1 0 0 0 4 -10
+p432
+aVKris Humphries NJN 01/17/2011 NJN @ GSW L 22 11 3 8 37.5 0 0 - 5 8 62.5 3 7 10 2 0 0 0 2 -1
+p433
+aVStephen Graham NJN 01/17/2011 NJN @ GSW L 23 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -9
+p434
+aVBrook Lopez NJN 01/17/2011 NJN @ GSW L 36 20 9 15 60.0 0 1 0.0 2 3 66.7 3 4 7 1 1 2 3 4 -14
+p435
+aVJohan Petro NJN 01/17/2011 NJN @ GSW L 12 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 1 2 0 1 2 5
+p436
+aVDerrick Favors NJN 01/17/2011 NJN @ GSW L 19 0 0 3 0.0 0 0 - 0 0 - 3 4 7 2 0 1 2 2 -7
+p437
+aVBen Uzoh NJN 01/17/2011 NJN @ GSW L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p438
+aVTravis Outlaw NJN 01/17/2011 NJN @ GSW L 34 8 4 4 100.0 0 0 - 0 0 - 1 3 4 5 0 0 2 2 -13
+p439
+aVJordan Farmar NJN 01/17/2011 NJN @ GSW L 29 8 3 9 33.3 2 6 33.3 0 0 - 0 2 2 7 0 0 1 2 1
+p440
+aVSasha Vujacic NJN 01/17/2011 NJN @ GSW L 27 16 6 12 50.0 1 4 25.0 3 3 100.0 1 1 2 1 0 0 1 2 0
+p441
+aVQuinton Ross NJN 01/17/2011 NJN @ GSW L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p442
+aVDevin Harris NJN 01/17/2011 NJN @ GSW L 33 19 5 14 35.7 0 2 0.0 9 10 90.0 0 1 1 8 0 0 3 4 -12
+p443
+aVSasha Vujacic NJN 01/15/2011 NJN @ POR L 33 13 6 14 42.9 1 6 16.7 0 0 - 0 1 1 2 1 0 1 4 -1
+p444
+aVKris Humphries NJN 01/15/2011 NJN @ POR L 32 7 3 5 60.0 0 0 - 1 2 50.0 3 7 10 2 1 2 1 2 4
+p445
+aVQuinton Ross NJN 01/15/2011 NJN @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p446
+aVStephen Graham NJN 01/15/2011 NJN @ POR L 21 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p447
+aVDevin Harris NJN 01/15/2011 NJN @ POR L 35 8 3 10 30.0 0 2 0.0 2 2 100.0 0 0 0 6 2 0 2 4 -8
+p448
+aVJordan Farmar NJN 01/15/2011 NJN @ POR L 22 4 2 10 20.0 0 3 0.0 0 0 - 0 2 2 5 0 0 2 2 -8
+p449
+aVTravis Outlaw NJN 01/15/2011 NJN @ POR L 34 11 5 7 71.4 1 1 100.0 0 0 - 3 4 7 3 1 0 0 2 -2
+p450
+aVBrook Lopez NJN 01/15/2011 NJN @ POR L 36 32 12 19 63.2 0 0 - 8 8 100.0 1 2 3 3 0 1 4 2 -9
+p451
+aVDerrick Favors NJN 01/15/2011 NJN @ POR L 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -7
+p452
+aVJohan Petro NJN 01/15/2011 NJN @ POR L 12 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 0 0 4 2
+p453
+aVDevin Harris NJN 01/14/2011 NJN @ LAL L 34 6 2 8 25.0 1 3 33.3 1 1 100.0 0 3 3 8 1 0 7 3 -15
+p454
+aVTravis Outlaw NJN 01/14/2011 NJN @ LAL L 21 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 0 0 1 1 2 -12
+p455
+aVStephen Graham NJN 01/14/2011 NJN @ LAL L 24 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 -9
+p456
+aVJohan Petro NJN 01/14/2011 NJN @ LAL L 11 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 1 1 4 -3
+p457
+aVQuinton Ross NJN 01/14/2011 NJN @ LAL L 8 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 1 2 1
+p458
+aVBrook Lopez NJN 01/14/2011 NJN @ LAL L 37 35 13 19 68.4 0 0 - 9 11 81.8 3 3 6 4 1 1 0 3 -9
+p459
+aVBen Uzoh NJN 01/14/2011 NJN @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p460
+aVJordan Farmar NJN 01/14/2011 NJN @ LAL L 25 12 5 11 45.5 2 5 40.0 0 0 - 0 2 2 3 0 0 1 0 7
+p461
+aVDerrick Favors NJN 01/14/2011 NJN @ LAL L 20 0 0 6 0.0 0 0 - 0 2 0.0 4 1 5 1 0 0 0 4 -15
+p462
+aVSasha Vujacic NJN 01/14/2011 NJN @ LAL L 31 17 7 16 43.8 2 9 22.2 1 1 100.0 1 2 3 3 1 0 1 2 -8
+p463
+aVKris Humphries NJN 01/14/2011 NJN @ LAL L 28 6 3 12 25.0 0 0 - 0 0 - 5 10 15 3 0 1 0 4 3
+p464
+aVTravis Outlaw NJN 01/12/2011 NJN @ PHX L 38 5 2 12 16.7 0 6 0.0 1 2 50.0 1 10 11 3 2 0 0 3 -2
+p465
+aVStephen Graham NJN 01/12/2011 NJN @ PHX L 14 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 0 2 4 5
+p466
+aVSasha Vujacic NJN 01/12/2011 NJN @ PHX L 37 19 7 13 53.8 5 8 62.5 0 0 - 0 3 3 4 3 0 1 4 -16
+p467
+aVDevin Harris NJN 01/12/2011 NJN @ PHX L 39 15 5 12 41.7 1 4 25.0 4 6 66.7 0 1 1 15 3 0 5 6 -16
+p468
+aVBrook Lopez NJN 01/12/2011 NJN @ PHX L 30 16 7 13 53.8 0 0 - 2 2 100.0 1 7 8 0 0 0 4 3 0
+p469
+aVKris Humphries NJN 01/12/2011 NJN @ PHX L 33 16 6 11 54.5 0 0 - 4 5 80.0 1 5 6 2 0 3 0 5 -7
+p470
+aVQuinton Ross NJN 01/12/2011 NJN @ PHX L 17 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -5
+p471
+aVDerrick Favors NJN 01/12/2011 NJN @ PHX L 18 12 5 8 62.5 0 0 - 2 3 66.7 2 0 2 0 1 0 0 2 1
+p472
+aVJohan Petro NJN 01/12/2011 NJN @ PHX L 14 6 2 4 50.0 0 0 - 2 2 100.0 2 0 2 0 1 0 0 2 -1
+p473
+aVJordan Farmar NJN 01/12/2011 NJN @ PHX L 26 12 4 8 50.0 2 6 33.3 2 2 100.0 0 2 2 6 1 0 2 4 -4
+p474
+aVJohan Petro NJN 01/08/2011 NJN vs. MIL L 17 6 3 6 50.0 0 0 - 0 0 - 2 4 6 4 0 0 0 4 -3
+p475
+aVBrook Lopez NJN 01/08/2011 NJN vs. MIL L 19 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 3 -23
+p476
+aVJordan Farmar NJN 01/08/2011 NJN vs. MIL L 32 20 7 14 50.0 3 5 60.0 3 6 50.0 0 2 2 10 0 0 2 0 -11
+p477
+aVSasha Vujacic NJN 01/08/2011 NJN vs. MIL L 26 11 4 9 44.4 0 1 0.0 3 3 100.0 0 2 2 1 0 0 3 3 -12
+p478
+aVTravis Outlaw NJN 01/08/2011 NJN vs. MIL L 24 3 1 7 14.3 0 0 - 1 2 50.0 1 2 3 2 0 0 1 2 -17
+p479
+aVKris Humphries NJN 01/08/2011 NJN vs. MIL L 25 22 8 12 66.7 0 0 - 6 6 100.0 3 5 8 3 0 1 1 1 -2
+p480
+aVQuinton Ross NJN 01/08/2011 NJN vs. MIL L 22 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p481
+aVBen Uzoh NJN 01/08/2011 NJN vs. MIL L 22 11 4 8 50.0 0 0 - 3 5 60.0 2 2 4 2 0 2 3 0 -9
+p482
+aVStephen Graham NJN 01/08/2011 NJN vs. MIL L 27 0 0 5 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 5 -18
+p483
+aVDerrick Favors NJN 01/08/2011 NJN vs. MIL L 27 12 6 10 60.0 0 0 - 0 2 0.0 3 3 6 0 1 3 0 3 -17
+p484
+aVQuinton Ross NJN 01/07/2011 NJN @ WAS L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 1 1 1 0
+p485
+aVStephen Graham NJN 01/07/2011 NJN @ WAS L 26 6 3 6 50.0 0 0 - 0 0 - 0 9 9 2 0 0 2 4 -20
+p486
+aVJordan Farmar NJN 01/07/2011 NJN @ WAS L 21 14 5 9 55.6 4 7 57.1 0 0 - 1 3 4 2 1 0 3 1 -9
+p487
+aVBrook Lopez NJN 01/07/2011 NJN @ WAS L 29 14 5 12 41.7 0 0 - 4 6 66.7 3 1 4 0 1 3 2 2 -5
+p488
+aVJohan Petro NJN 01/07/2011 NJN @ WAS L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -19
+p489
+aVBen Uzoh NJN 01/07/2011 NJN @ WAS L 11 6 2 5 40.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 2 0 0
+p490
+aVKris Humphries NJN 01/07/2011 NJN @ WAS L 19 8 4 8 50.0 0 0 - 0 0 - 2 6 8 1 0 0 1 2 -9
+p491
+aVTravis Outlaw NJN 01/07/2011 NJN @ WAS L 31 4 1 8 12.5 0 5 0.0 2 2 100.0 2 3 5 0 0 0 2 2 -13
+p492
+aVTroy Murphy NJN 01/07/2011 NJN @ WAS L 11 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 0
+p493
+aVDevin Harris NJN 01/07/2011 NJN @ WAS L 20 4 1 7 14.3 1 1 100.0 1 1 100.0 0 2 2 3 0 0 2 2 -9
+p494
+aVDerrick Favors NJN 01/07/2011 NJN @ WAS L 25 12 3 7 42.9 0 0 - 6 6 100.0 5 1 6 0 0 2 1 2 -7
+p495
+aVSasha Vujacic NJN 01/07/2011 NJN @ WAS L 22 3 1 14 7.1 1 7 14.3 0 0 - 0 1 1 1 0 1 1 1 -9
+p496
+aVKris Humphries NJN 01/05/2011 NJN vs. CHI W 38 20 10 15 66.7 0 0 - 0 2 0.0 5 6 11 2 1 0 3 3 -1
+p497
+aVSasha Vujacic NJN 01/05/2011 NJN vs. CHI W 28 13 5 12 41.7 3 7 42.9 0 0 - 0 4 4 1 0 0 3 5 -5
+p498
+aVDerrick Favors NJN 01/05/2011 NJN vs. CHI W 9 7 3 4 75.0 0 0 - 1 2 50.0 2 3 5 0 0 1 1 4 1
+p499
+aVJohan Petro NJN 01/05/2011 NJN vs. CHI W 13 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 0 3 0 3 2
+p500
+aVTravis Outlaw NJN 01/05/2011 NJN vs. CHI W 27 7 2 6 33.3 1 3 33.3 2 2 100.0 0 3 3 0 0 0 1 1 9
+p501
+aVDevin Harris NJN 01/05/2011 NJN vs. CHI W 37 18 6 15 40.0 1 1 100.0 5 6 83.3 2 2 4 11 1 0 3 2 7
+p502
+aVStephen Graham NJN 01/05/2011 NJN vs. CHI W 39 11 4 7 57.1 0 0 - 3 3 100.0 0 4 4 0 1 0 2 4 1
+p503
+aVJordan Farmar NJN 01/05/2011 NJN vs. CHI W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 3 0 2 2 -2
+p504
+aVBrook Lopez NJN 01/05/2011 NJN vs. CHI W 35 14 5 12 41.7 0 0 - 4 8 50.0 2 1 3 2 2 1 1 2 -2
+p505
+aVKris Humphries NJN 01/01/2011 NJN @ MIN L 29 12 5 7 71.4 0 0 - 2 4 50.0 5 9 14 1 1 0 3 2 -6
+p506
+aVDerrick Favors NJN 01/01/2011 NJN @ MIN L 12 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 5 -9
+p507
+aVStephen Graham NJN 01/01/2011 NJN @ MIN L 24 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -15
+p508
+aVTravis Outlaw NJN 01/01/2011 NJN @ MIN L 32 17 6 14 42.9 2 6 33.3 3 4 75.0 1 3 4 0 1 0 2 0 -20
+p509
+aVBen Uzoh NJN 01/01/2011 NJN @ MIN L 20 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 5 1 0 1 0 -1
+p510
+aVJohan Petro NJN 01/01/2011 NJN @ MIN L 22 6 3 8 37.5 0 0 - 0 0 - 1 2 3 2 2 2 0 4 -9
+p511
+aVSasha Vujacic NJN 01/01/2011 NJN @ MIN L 35 22 9 16 56.3 3 7 42.9 1 2 50.0 2 3 5 4 1 0 3 4 2
+p512
+aVDevin Harris NJN 01/01/2011 NJN @ MIN L 33 16 3 13 23.1 0 2 0.0 10 13 76.9 0 1 1 8 3 0 4 2 -14
+p513
+aVQuinton Ross NJN 01/01/2011 NJN @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p514
+aVBrook Lopez NJN 01/01/2011 NJN @ MIN L 31 6 3 7 42.9 0 0 - 0 2 0.0 3 1 4 1 2 3 5 3 -5
+p515
+aVBen Uzoh NJN 12/31/2010 NJN @ CHI L 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 2
+p516
+aVTravis Outlaw NJN 12/31/2010 NJN @ CHI L 39 16 6 17 35.3 1 6 16.7 3 7 42.9 1 5 6 1 0 1 2 2 -10
+p517
+aVDevin Harris NJN 12/31/2010 NJN @ CHI L 36 10 5 13 38.5 0 1 0.0 0 0 - 1 1 2 9 0 0 3 5 -10
+p518
+aVJohan Petro NJN 12/31/2010 NJN @ CHI L 12 4 2 6 33.3 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -1
+p519
+aVKris Humphries NJN 12/31/2010 NJN @ CHI L 19 2 1 4 25.0 0 0 - 0 0 - 2 5 7 1 2 1 1 1 -4
+p520
+aVStephen Graham NJN 12/31/2010 NJN @ CHI L 37 16 7 12 58.3 0 0 - 2 2 100.0 2 5 7 0 0 0 0 1 -6
+p521
+aVSasha Vujacic NJN 12/31/2010 NJN @ CHI L 28 8 3 10 30.0 2 6 33.3 0 0 - 0 4 4 2 1 0 2 1 -5
+p522
+aVBrook Lopez NJN 12/31/2010 NJN @ CHI L 36 19 4 11 36.4 0 0 - 11 11 100.0 4 4 8 2 1 2 5 3 -8
+p523
+aVDerrick Favors NJN 12/31/2010 NJN @ CHI L 16 6 2 3 66.7 0 0 - 2 3 66.7 1 3 4 0 0 0 1 5 -3
+p524
+aVStephen Graham NJN 12/29/2010 NJN @ OKC L 26 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 0 1 1 1 2 -18
+p525
+aVSasha Vujacic NJN 12/29/2010 NJN @ OKC L 19 11 3 7 42.9 2 3 66.7 3 4 75.0 0 4 4 2 2 0 1 2 -7
+p526
+aVQuinton Ross NJN 12/29/2010 NJN @ OKC L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p527
+aVBrook Lopez NJN 12/29/2010 NJN @ OKC L 31 19 9 16 56.3 0 0 - 1 2 50.0 2 4 6 1 2 4 5 3 -5
+p528
+aVDerrick Favors NJN 12/29/2010 NJN @ OKC L 23 8 4 6 66.7 0 0 - 0 0 - 2 0 2 0 1 0 3 4 -7
+p529
+aVBen Uzoh NJN 12/29/2010 NJN @ OKC L 11 6 1 3 33.3 0 0 - 4 4 100.0 1 2 3 5 0 0 1 0 2
+p530
+aVJohan Petro NJN 12/29/2010 NJN @ OKC L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -9
+p531
+aVTravis Outlaw NJN 12/29/2010 NJN @ OKC L 31 12 4 9 44.4 0 2 0.0 4 4 100.0 0 3 3 1 1 1 3 3 -16
+p532
+aVDevin Harris NJN 12/29/2010 NJN @ OKC L 29 19 7 13 53.8 0 0 - 5 5 100.0 0 1 1 3 1 0 2 3 -10
+p533
+aVJordan Farmar NJN 12/29/2010 NJN @ OKC L 17 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 1 0 0 3 3 -14
+p534
+aVKris Humphries NJN 12/29/2010 NJN @ OKC L 21 4 1 3 33.3 0 0 - 2 2 100.0 0 7 7 1 0 1 1 2 -11
+p535
+aVTroy Murphy NJN 12/29/2010 NJN @ OKC L 14 6 2 3 66.7 0 1 0.0 2 4 50.0 1 2 3 0 0 0 2 0 -10
+p536
+aVBen Uzoh NJN 12/27/2010 NJN vs. ORL L 3 6 3 7 42.9 0 0 - 0 1 0.0 2 0 2 0 1 0 0 0 7
+p537
+aVKris Humphries NJN 12/27/2010 NJN vs. ORL L 27 7 2 6 33.3 0 0 - 3 4 75.0 2 9 11 0 2 2 3 2 0
+p538
+aVTravis Outlaw NJN 12/27/2010 NJN vs. ORL L 34 10 2 8 25.0 1 3 33.3 5 5 100.0 0 1 1 3 0 0 1 2 -3
+p539
+aVSasha Vujacic NJN 12/27/2010 NJN vs. ORL L 24 5 1 7 14.3 1 3 33.3 2 2 100.0 0 2 2 1 2 0 2 1 -20
+p540
+aVJordan Farmar NJN 12/27/2010 NJN vs. ORL L 23 10 3 8 37.5 1 1 100.0 3 5 60.0 0 4 4 2 0 0 2 3 -12
+p541
+aVBrook Lopez NJN 12/27/2010 NJN vs. ORL L 36 20 8 15 53.3 0 0 - 4 6 66.7 3 4 7 0 3 0 1 2 -21
+p542
+aVStephen Graham NJN 12/27/2010 NJN vs. ORL L 26 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -9
+p543
+aVTroy Murphy NJN 12/27/2010 NJN vs. ORL L 15 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 0 0 0 0 -4
+p544
+aVDerrick Favors NJN 12/27/2010 NJN vs. ORL L 17 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 1 1 1 3 -7
+p545
+aVDevin Harris NJN 12/27/2010 NJN vs. ORL L 33 24 9 15 60.0 1 4 25.0 5 6 83.3 0 2 2 6 0 0 3 3 -11
+p546
+aVDerrick Favors NJN 12/22/2010 NJN @ NOH L 23 10 5 9 55.6 0 0 - 0 0 - 3 1 4 1 1 0 0 5 -1
+p547
+aVTravis Outlaw NJN 12/22/2010 NJN @ NOH L 36 9 3 11 27.3 0 4 0.0 3 4 75.0 0 3 3 0 0 1 0 0 -6
+p548
+aVDevin Harris NJN 12/22/2010 NJN @ NOH L 33 21 9 14 64.3 2 4 50.0 1 1 100.0 0 1 1 8 0 0 2 3 -14
+p549
+aVKris Humphries NJN 12/22/2010 NJN @ NOH L 20 8 4 5 80.0 0 0 - 0 0 - 1 5 6 0 1 0 0 1 -15
+p550
+aVSasha Vujacic NJN 12/22/2010 NJN @ NOH L 25 12 4 8 50.0 2 3 66.7 2 2 100.0 0 0 0 2 2 0 2 3 -12
+p551
+aVStephen Graham NJN 12/22/2010 NJN @ NOH L 25 9 3 5 60.0 0 0 - 3 3 100.0 1 2 3 2 0 0 0 1 -13
+p552
+aVJohan Petro NJN 12/22/2010 NJN @ NOH L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 2 1 1 8
+p553
+aVBen Uzoh NJN 12/22/2010 NJN @ NOH L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p554
+aVBrook Lopez NJN 12/22/2010 NJN @ NOH L 30 16 6 16 37.5 0 0 - 4 4 100.0 2 2 4 3 0 0 2 3 -11
+p555
+aVTroy Murphy NJN 12/22/2010 NJN @ NOH L 16 2 1 4 25.0 0 0 - 0 0 - 1 6 7 0 1 0 0 1 -9
+p556
+aVJordan Farmar NJN 12/22/2010 NJN @ NOH L 20 4 2 8 25.0 0 4 0.0 0 0 - 0 1 1 3 0 1 0 1 -1
+p557
+aVBrook Lopez NJN 12/21/2010 NJN @ MEM W 38 26 8 14 57.1 0 0 - 10 11 90.9 1 5 6 1 0 1 1 3 13
+p558
+aVDerrick Favors NJN 12/21/2010 NJN @ MEM W 13 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 1 0 1 3 11
+p559
+aVJordan Farmar NJN 12/21/2010 NJN @ MEM W 18 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 6 0 0 1 1 4
+p560
+aVStephen Graham NJN 12/21/2010 NJN @ MEM W 34 9 4 7 57.1 0 0 - 1 2 50.0 0 3 3 0 0 0 2 3 10
+p561
+aVTroy Murphy NJN 12/21/2010 NJN @ MEM W 16 2 1 5 20.0 0 1 0.0 0 2 0.0 0 5 5 0 0 0 0 3 -10
+p562
+aVDevin Harris NJN 12/21/2010 NJN @ MEM W 30 12 4 11 36.4 0 1 0.0 4 5 80.0 1 2 3 5 1 0 5 3 3
+p563
+aVKris Humphries NJN 12/21/2010 NJN @ MEM W 29 12 6 11 54.5 0 0 - 0 0 - 4 11 15 1 0 1 1 3 1
+p564
+aVTravis Outlaw NJN 12/21/2010 NJN @ MEM W 37 11 5 11 45.5 1 5 20.0 0 1 0.0 0 9 9 2 1 1 1 3 4
+p565
+aVSasha Vujacic NJN 12/21/2010 NJN @ MEM W 25 16 6 8 75.0 2 3 66.7 2 2 100.0 0 4 4 0 0 0 2 2 -1
+p566
+aVBrook Lopez NJN 12/19/2010 NJN vs. ATL W 32 16 5 15 33.3 0 0 - 6 7 85.7 2 4 6 2 0 1 5 3 -6
+p567
+aVDerrick Favors NJN 12/19/2010 NJN vs. ATL W 20 3 1 3 33.3 0 0 - 1 1 100.0 2 3 5 1 0 0 1 4 16
+p568
+aVStephen Graham NJN 12/19/2010 NJN vs. ATL W 29 10 5 8 62.5 0 0 - 0 0 - 1 6 7 1 1 0 0 2 -3
+p569
+aVTravis Outlaw NJN 12/19/2010 NJN vs. ATL W 36 7 3 12 25.0 1 4 25.0 0 0 - 1 2 3 1 0 0 0 2 -6
+p570
+aVTroy Murphy NJN 12/19/2010 NJN vs. ATL W 22 8 4 7 57.1 0 1 0.0 0 0 - 2 3 5 0 1 0 1 2 10
+p571
+aVKris Humphries NJN 12/19/2010 NJN vs. ATL W 19 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 1 1 1 -10
+p572
+aVSasha Vujacic NJN 12/19/2010 NJN vs. ATL W 29 10 4 10 40.0 2 4 50.0 0 0 - 0 6 6 3 3 0 1 0 23
+p573
+aVJordan Farmar NJN 12/19/2010 NJN vs. ATL W 15 7 2 5 40.0 1 1 100.0 2 2 100.0 0 1 1 3 0 0 2 2 14
+p574
+aVJohan Petro NJN 12/19/2010 NJN vs. ATL W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 2
+p575
+aVDevin Harris NJN 12/19/2010 NJN vs. ATL W 34 22 8 18 44.4 0 3 0.0 6 9 66.7 0 6 6 8 1 0 4 1 -5
+p576
+aVJohan Petro NJN 12/17/2010 NJN @ TOR L 15 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -1
+p577
+aVQuinton Ross NJN 12/17/2010 NJN @ TOR L 2 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 2
+p578
+aVBen Uzoh NJN 12/17/2010 NJN @ TOR L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p579
+aVDevin Harris NJN 12/17/2010 NJN @ TOR L 35 15 6 12 50.0 0 0 - 3 4 75.0 0 4 4 6 1 0 2 1 -6
+p580
+aVTravis Outlaw NJN 12/17/2010 NJN @ TOR L 40 14 3 9 33.3 1 3 33.3 7 7 100.0 1 4 5 1 0 0 0 0 -5
+p581
+aVSasha Vujacic NJN 12/17/2010 NJN @ TOR L 27 6 3 10 30.0 0 5 0.0 0 0 - 0 2 2 2 0 0 0 2 4
+p582
+aVKris Humphries NJN 12/17/2010 NJN @ TOR L 31 12 5 6 83.3 0 0 - 2 4 50.0 1 11 12 2 0 0 3 2 -2
+p583
+aVJordan Farmar NJN 12/17/2010 NJN @ TOR L 30 9 4 14 28.6 1 4 25.0 0 0 - 0 3 3 5 2 1 0 1 -11
+p584
+aVDerrick Favors NJN 12/17/2010 NJN @ TOR L 17 8 4 6 66.7 0 0 - 0 0 - 3 1 4 0 0 0 1 4 -8
+p585
+aVBrook Lopez NJN 12/17/2010 NJN @ TOR L 32 20 7 13 53.8 0 0 - 6 7 85.7 4 3 7 2 0 4 6 4 -1
+p586
+aVBrook Lopez NJN 12/16/2010 NJN vs. WAS W 26 18 6 12 50.0 0 0 - 6 8 75.0 0 5 5 0 0 1 3 4 19
+p587
+aVTroy Murphy NJN 12/16/2010 NJN vs. WAS W 7 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p588
+aVQuinton Ross NJN 12/16/2010 NJN vs. WAS W 31 5 1 4 25.0 0 0 - 3 6 50.0 3 6 9 1 0 1 1 3 15
+p589
+aVDerrick Favors NJN 12/16/2010 NJN vs. WAS W 18 4 2 3 66.7 0 0 - 0 0 - 4 1 5 0 0 0 1 5 -6
+p590
+aVJordan Farmar NJN 12/16/2010 NJN vs. WAS W 30 9 3 5 60.0 0 1 0.0 3 4 75.0 0 2 2 3 0 0 4 0 -4
+p591
+aVKris Humphries NJN 12/16/2010 NJN vs. WAS W 36 12 5 7 71.4 0 0 - 2 4 50.0 6 11 17 1 2 2 5 1 10
+p592
+aVBen Uzoh NJN 12/16/2010 NJN vs. WAS W 11 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 1 0 1 1
+p593
+aVJohan Petro NJN 12/16/2010 NJN vs. WAS W 8 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 1 1 1 2 1
+p594
+aVStephen Graham NJN 12/16/2010 NJN vs. WAS W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -9
+p595
+aVTravis Outlaw NJN 12/16/2010 NJN vs. WAS W 26 13 3 8 37.5 0 1 0.0 7 8 87.5 0 6 6 0 1 1 3 4 10
+p596
+aVDevin Harris NJN 12/16/2010 NJN vs. WAS W 40 29 7 25 28.0 1 5 20.0 14 17 82.4 0 3 3 9 0 0 2 3 8
+p597
+aVDerrick Favors NJN 12/14/2010 NJN vs. PHI L 27 10 3 6 50.0 0 0 - 4 7 57.1 5 8 13 0 0 1 1 5 11
+p598
+aVJordan Farmar NJN 12/14/2010 NJN vs. PHI L 20 10 3 10 30.0 1 3 33.3 3 4 75.0 0 3 3 2 0 0 1 2 10
+p599
+aVStephen Graham NJN 12/14/2010 NJN vs. PHI L 33 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 0 3 0 1 2 -7
+p600
+aVBen Uzoh NJN 12/14/2010 NJN vs. PHI L 7 5 2 9 22.2 0 1 0.0 1 1 100.0 2 1 3 1 0 0 0 1 2
+p601
+aVJohan Petro NJN 12/14/2010 NJN vs. PHI L 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 0 2
+p602
+aVAnthony Morrow NJN 12/14/2010 NJN vs. PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p603
+aVQuinton Ross NJN 12/14/2010 NJN vs. PHI L 16 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p604
+aVKris Humphries NJN 12/14/2010 NJN vs. PHI L 21 2 1 10 10.0 0 0 - 0 0 - 7 6 13 1 0 1 1 2 -17
+p605
+aVTravis Outlaw NJN 12/14/2010 NJN vs. PHI L 34 14 6 17 35.3 2 6 33.3 0 0 - 2 5 7 2 1 2 1 1 -2
+p606
+aVDevin Harris NJN 12/14/2010 NJN vs. PHI L 33 14 4 11 36.4 1 2 50.0 5 8 62.5 0 1 1 6 0 0 3 2 -10
+p607
+aVBrook Lopez NJN 12/14/2010 NJN vs. PHI L 35 16 6 11 54.5 0 0 - 4 4 100.0 3 2 5 1 2 0 3 2 -9
+p608
+aVJohan Petro NJN 12/12/2010 NJN vs. LAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -2
+p609
+aVAnthony Morrow NJN 12/12/2010 NJN vs. LAL L 40 15 6 17 35.3 3 9 33.3 0 0 - 2 0 2 1 0 0 0 3 -15
+p610
+aVQuinton Ross NJN 12/12/2010 NJN vs. LAL L 19 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 14
+p611
+aVTerrence Williams NJN 12/12/2010 NJN vs. LAL L 21 7 3 7 42.9 0 0 - 1 2 50.0 1 3 4 3 1 0 2 4 -13
+p612
+aVBrook Lopez NJN 12/12/2010 NJN vs. LAL L 40 25 9 21 42.9 0 0 - 7 9 77.8 6 3 9 1 1 1 3 4 -4
+p613
+aVJordan Farmar NJN 12/12/2010 NJN vs. LAL L 23 8 3 9 33.3 1 6 16.7 1 1 100.0 0 3 3 0 0 0 1 3 -5
+p614
+aVKris Humphries NJN 12/12/2010 NJN vs. LAL L 37 11 5 8 62.5 0 0 - 1 1 100.0 2 9 11 1 0 3 3 2 1
+p615
+aVDevin Harris NJN 12/12/2010 NJN vs. LAL L 37 16 6 17 35.3 0 4 0.0 4 4 100.0 2 6 8 10 2 1 1 1 -3
+p616
+aVTravis Outlaw NJN 12/12/2010 NJN vs. LAL L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -4
+p617
+aVDerrick Favors NJN 12/12/2010 NJN vs. LAL L 13 8 3 5 60.0 0 0 - 2 2 100.0 2 3 5 0 1 1 2 2 -4
+p618
+aVTerrence Williams NJN 12/09/2010 NJN @ DAL L 26 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 4 2 0 3 0 -3
+p619
+aVKris Humphries NJN 12/09/2010 NJN @ DAL L 34 16 5 11 45.5 0 0 - 6 7 85.7 5 8 13 2 0 0 0 4 -4
+p620
+aVTroy Murphy NJN 12/09/2010 NJN @ DAL L 11 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -7
+p621
+aVDevin Harris NJN 12/09/2010 NJN @ DAL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 4 1 0 1 0 -7
+p622
+aVDamion James NJN 12/09/2010 NJN @ DAL L 23 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 3 3 -8
+p623
+aVTravis Outlaw NJN 12/09/2010 NJN @ DAL L 18 4 0 7 0.0 0 2 0.0 4 4 100.0 0 3 3 0 0 1 0 2 -11
+p624
+aVBrook Lopez NJN 12/09/2010 NJN @ DAL L 37 24 8 13 61.5 0 0 - 8 12 66.7 3 5 8 2 1 1 3 2 -9
+p625
+aVAnthony Morrow NJN 12/09/2010 NJN @ DAL L 39 21 8 17 47.1 2 4 50.0 3 3 100.0 0 1 1 2 0 0 0 2 -8
+p626
+aVJordan Farmar NJN 12/09/2010 NJN @ DAL L 32 10 4 12 33.3 2 7 28.6 0 0 - 1 1 2 3 1 0 4 0 -4
+p627
+aVJohan Petro NJN 12/09/2010 NJN @ DAL L 11 4 2 2 100.0 0 0 - 0 0 - 1 1 2 2 1 0 1 1 -4
+p628
+aVJordan Farmar NJN 12/07/2010 NJN @ ATL L 27 16 5 10 50.0 3 7 42.9 3 4 75.0 0 2 2 3 1 0 2 0 -20
+p629
+aVAnthony Morrow NJN 12/07/2010 NJN @ ATL L 35 10 4 9 44.4 2 5 40.0 0 0 - 1 3 4 3 0 0 0 3 -3
+p630
+aVDamion James NJN 12/07/2010 NJN @ ATL L 19 10 5 9 55.6 0 1 0.0 0 0 - 1 5 6 1 1 0 2 5 1
+p631
+aVBen Uzoh NJN 12/07/2010 NJN @ ATL L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p632
+aVJohan Petro NJN 12/07/2010 NJN @ ATL L 14 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 2 9
+p633
+aVDevin Harris NJN 12/07/2010 NJN @ ATL L 37 18 2 8 25.0 1 1 100.0 13 16 81.3 0 0 0 13 3 0 5 3 -8
+p634
+aVTravis Outlaw NJN 12/07/2010 NJN @ ATL L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 -17
+p635
+aVQuinton Ross NJN 12/07/2010 NJN @ ATL L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 2
+p636
+aVDerrick Favors NJN 12/07/2010 NJN @ ATL L 24 4 1 2 50.0 0 0 - 2 4 50.0 1 4 5 0 0 1 0 3 0
+p637
+aVBrook Lopez NJN 12/07/2010 NJN @ ATL L 34 24 8 16 50.0 0 0 - 8 11 72.7 2 3 5 0 1 0 2 3 -24
+p638
+aVKris Humphries NJN 12/07/2010 NJN @ ATL L 24 8 3 7 42.9 0 0 - 2 2 100.0 4 3 7 5 0 0 0 3 -15
+p639
+aVJordan Farmar NJN 12/05/2010 NJN vs. BOS L 27 16 6 10 60.0 4 5 80.0 0 0 - 1 3 4 2 3 0 4 2 -19
+p640
+aVKris Humphries NJN 12/05/2010 NJN vs. BOS L 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -13
+p641
+aVJohan Petro NJN 12/05/2010 NJN vs. BOS L 23 4 2 4 50.0 0 0 - 0 0 - 0 9 9 1 0 1 0 5 -10
+p642
+aVDevin Harris NJN 12/05/2010 NJN vs. BOS L 24 7 3 8 37.5 0 1 0.0 1 1 100.0 0 2 2 3 1 0 4 3 -19
+p643
+aVQuinton Ross NJN 12/05/2010 NJN vs. BOS L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 0 4
+p644
+aVBrook Lopez NJN 12/05/2010 NJN vs. BOS L 21 5 2 6 33.3 0 0 - 1 2 50.0 2 4 6 2 1 1 1 1 -12
+p645
+aVDerrick Favors NJN 12/05/2010 NJN vs. BOS L 27 10 4 6 66.7 0 0 - 2 5 40.0 0 2 2 0 1 1 4 5 -6
+p646
+aVStephen Graham NJN 12/05/2010 NJN vs. BOS L 12 4 0 3 0.0 0 1 0.0 4 6 66.7 0 1 1 0 0 0 1 0 0
+p647
+aVAnthony Morrow NJN 12/05/2010 NJN vs. BOS L 22 10 4 7 57.1 1 1 100.0 1 1 100.0 0 1 1 1 0 0 1 5 -18
+p648
+aVTroy Murphy NJN 12/05/2010 NJN vs. BOS L 12 7 2 5 40.0 0 2 0.0 3 4 75.0 0 3 3 1 0 0 0 1 -9
+p649
+aVTravis Outlaw NJN 12/05/2010 NJN vs. BOS L 20 2 0 7 0.0 0 4 0.0 2 2 100.0 0 1 1 2 1 0 0 1 -18
+p650
+aVDamion James NJN 12/05/2010 NJN vs. BOS L 26 6 2 10 20.0 0 0 - 2 3 66.7 1 3 4 3 1 1 3 1 -5
+p651
+aVTravis Outlaw NJN 12/03/2010 NJN @ CHA L 39 21 7 17 41.2 1 8 12.5 6 6 100.0 1 5 6 1 2 0 2 1 -11
+p652
+aVJordan Farmar NJN 12/03/2010 NJN @ CHA L 38 16 6 18 33.3 1 5 20.0 3 3 100.0 0 5 5 10 0 0 2 4 -1
+p653
+aVKris Humphries NJN 12/03/2010 NJN @ CHA L 22 4 2 6 33.3 0 0 - 0 0 - 1 7 8 0 0 1 1 3 -11
+p654
+aVJohan Petro NJN 12/03/2010 NJN @ CHA L 9 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 1 0 4 -1
+p655
+aVQuinton Ross NJN 12/03/2010 NJN @ CHA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p656
+aVDamion James NJN 12/03/2010 NJN @ CHA L 15 2 1 5 20.0 0 1 0.0 0 0 - 2 5 7 2 2 1 2 1 1
+p657
+aVDerrick Favors NJN 12/03/2010 NJN @ CHA L 16 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 0 2 1 -5
+p658
+aVAnthony Morrow NJN 12/03/2010 NJN @ CHA L 44 19 7 18 38.9 3 8 37.5 2 2 100.0 1 3 4 0 1 0 1 4 -3
+p659
+aVBrook Lopez NJN 12/03/2010 NJN @ CHA L 39 13 3 10 30.0 0 0 - 7 10 70.0 2 0 2 0 1 0 2 5 -8
+p660
+aVBen Uzoh NJN 12/03/2010 NJN @ CHA L 15 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -6
+p661
+aVStephen Graham NJN 12/03/2010 NJN @ CHA L 5 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -3
+p662
+aVTroy Murphy NJN 12/03/2010 NJN @ CHA L 22 1 0 2 0.0 0 2 0.0 1 2 50.0 1 7 8 3 3 1 1 2 15
+p663
+aVDamion James NJN 12/01/2010 NJN vs. OKC L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -4
+p664
+aVBrook Lopez NJN 12/01/2010 NJN vs. OKC L 53 28 7 23 30.4 0 0 - 14 17 82.4 3 8 11 1 0 3 2 4 7
+p665
+aVStephen Graham NJN 12/01/2010 NJN vs. OKC L 23 7 3 4 75.0 0 0 - 1 1 100.0 1 0 1 1 1 0 0 2 -18
+p666
+aVJohan Petro NJN 12/01/2010 NJN vs. OKC L 10 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -8
+p667
+aVTravis Outlaw NJN 12/01/2010 NJN vs. OKC L 46 16 7 14 50.0 2 3 66.7 0 0 - 1 3 4 0 0 0 1 3 6
+p668
+aVTroy Murphy NJN 12/01/2010 NJN vs. OKC L 15 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 1 3 12
+p669
+aVKris Humphries NJN 12/01/2010 NJN vs. OKC L 39 6 3 6 50.0 0 0 - 0 0 - 4 11 15 2 2 2 2 4 -11
+p670
+aVJordan Farmar NJN 12/01/2010 NJN vs. OKC L 52 28 12 21 57.1 3 6 50.0 1 2 50.0 0 1 1 9 2 0 3 4 3
+p671
+aVBen Uzoh NJN 12/01/2010 NJN vs. OKC L 12 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -7
+p672
+aVAnthony Morrow NJN 12/01/2010 NJN vs. OKC L 52 25 9 15 60.0 3 6 50.0 4 4 100.0 0 5 5 0 0 0 4 5 12
+p673
+aVDerrick Favors NJN 12/01/2010 NJN vs. OKC L 8 2 0 2 0.0 0 0 - 2 4 50.0 0 2 2 0 0 1 0 2 -7
+p674
+aVJohan Petro NJN 11/30/2010 NJN @ NYK L 10 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -9
+p675
+aVDamion James NJN 11/30/2010 NJN @ NYK L 17 5 2 4 50.0 0 0 - 1 2 50.0 0 4 4 0 0 2 0 1 -7
+p676
+aVBrook Lopez NJN 11/30/2010 NJN @ NYK L 38 36 14 24 58.3 0 0 - 8 9 88.9 2 3 5 0 1 3 3 1 -2
+p677
+aVTravis Outlaw NJN 11/30/2010 NJN @ NYK L 31 13 5 9 55.6 2 2 100.0 1 3 33.3 0 1 1 1 0 0 0 3 -4
+p678
+aVJordan Farmar NJN 11/30/2010 NJN @ NYK L 29 17 6 12 50.0 4 6 66.7 1 1 100.0 0 3 3 4 0 0 3 4 -17
+p679
+aVAnthony Morrow NJN 11/30/2010 NJN @ NYK L 34 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 3 -10
+p680
+aVDerrick Favors NJN 11/30/2010 NJN @ NYK L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 0 0 2 2
+p681
+aVTroy Murphy NJN 11/30/2010 NJN @ NYK L 17 0 0 4 0.0 0 3 0.0 0 0 - 0 5 5 2 0 0 2 3 -4
+p682
+aVBen Uzoh NJN 11/30/2010 NJN @ NYK L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 0
+p683
+aVStephen Graham NJN 11/30/2010 NJN @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p684
+aVDevin Harris NJN 11/30/2010 NJN @ NYK L 22 8 2 6 33.3 0 1 0.0 4 5 80.0 0 3 3 3 2 0 2 2 3
+p685
+aVKris Humphries NJN 11/30/2010 NJN @ NYK L 17 8 3 9 33.3 0 0 - 2 2 100.0 4 3 7 2 0 0 0 2 -9
+p686
+aVTravis Outlaw NJN 11/28/2010 NJN vs. POR W 35 7 2 9 22.2 0 1 0.0 3 4 75.0 0 4 4 2 1 0 2 5 5
+p687
+aVJordan Farmar NJN 11/28/2010 NJN vs. POR W 20 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 4 1 0 0 2 -3
+p688
+aVStephen Graham NJN 11/28/2010 NJN vs. POR W 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -9
+p689
+aVDamion James NJN 11/28/2010 NJN vs. POR W 13 1 0 3 0.0 0 0 - 1 2 50.0 0 5 5 0 0 0 1 0 -3
+p690
+aVAnthony Morrow NJN 11/28/2010 NJN vs. POR W 35 16 4 10 40.0 3 6 50.0 5 5 100.0 0 3 3 4 0 0 2 3 -5
+p691
+aVDerrick Favors NJN 11/28/2010 NJN vs. POR W 12 8 3 3 100.0 0 0 - 2 2 100.0 2 3 5 0 0 1 1 3 -5
+p692
+aVTroy Murphy NJN 11/28/2010 NJN vs. POR W 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -1
+p693
+aVDevin Harris NJN 11/28/2010 NJN vs. POR W 36 25 7 12 58.3 2 4 50.0 9 11 81.8 0 1 1 8 1 0 5 4 21
+p694
+aVBrook Lopez NJN 11/28/2010 NJN vs. POR W 31 13 4 8 50.0 0 0 - 5 6 83.3 1 3 4 1 2 0 0 4 6
+p695
+aVJohan Petro NJN 11/28/2010 NJN vs. POR W 15 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 3 2 2
+p696
+aVKris Humphries NJN 11/28/2010 NJN vs. POR W 28 10 4 5 80.0 0 0 - 2 3 66.7 0 8 8 0 0 4 0 2 2
+p697
+aVDamion James NJN 11/27/2010 NJN @ PHI L 22 6 3 7 42.9 0 0 - 0 0 - 3 4 7 1 0 0 0 0 -10
+p698
+aVTravis Outlaw NJN 11/27/2010 NJN @ PHI L 27 4 2 9 22.2 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -8
+p699
+aVDerrick Favors NJN 11/27/2010 NJN @ PHI L 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 4
+p700
+aVAnthony Morrow NJN 11/27/2010 NJN @ PHI L 34 8 3 8 37.5 2 3 66.7 0 1 0.0 0 3 3 4 0 1 0 1 -14
+p701
+aVJordan Farmar NJN 11/27/2010 NJN @ PHI L 23 5 1 6 16.7 0 2 0.0 3 3 100.0 0 1 1 3 1 0 0 2 -2
+p702
+aVDevin Harris NJN 11/27/2010 NJN @ PHI L 37 19 7 16 43.8 1 3 33.3 4 4 100.0 0 3 3 6 2 0 1 1 -18
+p703
+aVKris Humphries NJN 11/27/2010 NJN @ PHI L 32 7 3 10 30.0 0 0 - 1 2 50.0 4 11 15 1 0 1 1 2 -16
+p704
+aVBrook Lopez NJN 11/27/2010 NJN @ PHI L 36 25 8 16 50.0 0 0 - 9 10 90.0 4 2 6 1 0 2 2 3 -4
+p705
+aVBen Uzoh NJN 11/27/2010 NJN @ PHI L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p706
+aVJohan Petro NJN 11/27/2010 NJN @ PHI L 12 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 4 -12
+p707
+aVTravis Outlaw NJN 11/24/2010 NJN @ BOS L 25 5 2 7 28.6 1 2 50.0 0 0 - 0 5 5 0 0 0 3 1 -7
+p708
+aVDamion James NJN 11/24/2010 NJN @ BOS L 18 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 0 2 0 1 7
+p709
+aVBrook Lopez NJN 11/24/2010 NJN @ BOS L 37 16 5 14 35.7 0 0 - 6 8 75.0 3 2 5 1 0 1 2 4 -10
+p710
+aVDevin Harris NJN 11/24/2010 NJN @ BOS L 31 20 6 10 60.0 1 3 33.3 7 9 77.8 0 2 2 5 1 0 3 5 -5
+p711
+aVKris Humphries NJN 11/24/2010 NJN @ BOS L 32 2 1 5 20.0 0 0 - 0 0 - 3 8 11 2 0 2 1 2 -9
+p712
+aVDerrick Favors NJN 11/24/2010 NJN @ BOS L 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 2 3 3
+p713
+aVAnthony Morrow NJN 11/24/2010 NJN @ BOS L 39 18 7 11 63.6 1 3 33.3 3 3 100.0 0 4 4 0 0 0 3 1 -14
+p714
+aVStephen Graham NJN 11/24/2010 NJN @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p715
+aVJohan Petro NJN 11/24/2010 NJN @ BOS L 11 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 1 0 1 2 4
+p716
+aVJordan Farmar NJN 11/24/2010 NJN @ BOS L 31 10 4 11 36.4 1 6 16.7 1 2 50.0 1 2 3 7 0 0 2 1 1
+p717
+aVKris Humphries NJN 11/23/2010 NJN vs. ATL W 36 12 4 6 66.7 0 0 - 4 6 66.7 4 10 14 1 0 0 1 4 0
+p718
+aVStephen Graham NJN 11/23/2010 NJN vs. ATL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p719
+aVDamion James NJN 11/23/2010 NJN vs. ATL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p720
+aVJohan Petro NJN 11/23/2010 NJN vs. ATL W 9 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -5
+p721
+aVAnthony Morrow NJN 11/23/2010 NJN vs. ATL W 40 13 4 9 44.4 2 5 40.0 3 4 75.0 0 4 4 1 1 0 2 4 -10
+p722
+aVBrook Lopez NJN 11/23/2010 NJN vs. ATL W 44 32 12 19 63.2 0 0 - 8 10 80.0 4 5 9 2 0 0 1 1 14
+p723
+aVJordan Farmar NJN 11/23/2010 NJN vs. ATL W 24 3 1 8 12.5 1 4 25.0 0 0 - 0 3 3 5 0 0 0 1 16
+p724
+aVDevin Harris NJN 11/23/2010 NJN vs. ATL W 44 27 9 17 52.9 3 7 42.9 6 8 75.0 0 2 2 9 1 0 5 2 12
+p725
+aVDerrick Favors NJN 11/23/2010 NJN vs. ATL W 17 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 0 2 0 0 2 3
+p726
+aVTravis Outlaw NJN 11/23/2010 NJN vs. ATL W 43 9 4 10 40.0 0 3 0.0 1 1 100.0 0 6 6 4 0 1 1 1 8
+p727
+aVTerrence Williams NJN 11/20/2010 NJN @ DEN L 8 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 1 -7
+p728
+aVAnthony Morrow NJN 11/20/2010 NJN @ DEN L 33 12 5 12 41.7 2 3 66.7 0 1 0.0 2 5 7 0 0 0 0 1 7
+p729
+aVDevin Harris NJN 11/20/2010 NJN @ DEN L 30 12 3 9 33.3 0 0 - 6 6 100.0 0 2 2 4 1 0 1 3 0
+p730
+aVJohan Petro NJN 11/20/2010 NJN @ DEN L 11 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 2 0 0 -8
+p731
+aVTravis Outlaw NJN 11/20/2010 NJN @ DEN L 43 15 5 13 38.5 1 6 16.7 4 6 66.7 2 2 4 1 2 0 0 4 3
+p732
+aVJordan Farmar NJN 11/20/2010 NJN @ DEN L 27 14 5 10 50.0 3 8 37.5 1 2 50.0 0 2 2 5 1 0 2 1 -6
+p733
+aVDerrick Favors NJN 11/20/2010 NJN @ DEN L 25 14 4 6 66.7 0 0 - 6 7 85.7 3 5 8 1 0 0 0 4 -5
+p734
+aVBrook Lopez NJN 11/20/2010 NJN @ DEN L 37 20 9 21 42.9 0 0 - 2 2 100.0 2 6 8 3 1 1 2 5 4
+p735
+aVStephen Graham NJN 11/20/2010 NJN @ DEN L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -7
+p736
+aVKris Humphries NJN 11/20/2010 NJN @ DEN L 19 10 3 7 42.9 0 0 - 4 5 80.0 2 6 8 1 0 0 0 2 -1
+p737
+aVTravis Outlaw NJN 11/19/2010 NJN @ SAC L 39 13 5 12 41.7 1 5 20.0 2 2 100.0 1 5 6 1 1 0 1 1 1
+p738
+aVStephen Graham NJN 11/19/2010 NJN @ SAC L 9 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 0 -6
+p739
+aVAnthony Morrow NJN 11/19/2010 NJN @ SAC L 40 17 6 10 60.0 1 2 50.0 4 4 100.0 0 3 3 1 0 0 3 1 2
+p740
+aVDerrick Favors NJN 11/19/2010 NJN @ SAC L 16 3 1 3 33.3 0 0 - 1 3 33.3 1 1 2 0 0 1 1 1 -8
+p741
+aVJohan Petro NJN 11/19/2010 NJN @ SAC L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 2
+p742
+aVBrook Lopez NJN 11/19/2010 NJN @ SAC L 38 7 3 9 33.3 0 0 - 1 2 50.0 5 5 10 2 1 2 2 5 -6
+p743
+aVDevin Harris NJN 11/19/2010 NJN @ SAC L 33 10 3 12 25.0 0 1 0.0 4 4 100.0 0 3 3 8 0 1 7 1 -10
+p744
+aVQuinton Ross NJN 11/19/2010 NJN @ SAC L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p745
+aVKris Humphries NJN 11/19/2010 NJN @ SAC L 32 18 9 12 75.0 0 0 - 0 0 - 4 6 10 2 1 0 0 4 3
+p746
+aVJordan Farmar NJN 11/19/2010 NJN @ SAC L 20 8 3 8 37.5 0 3 0.0 2 2 100.0 0 1 1 3 2 0 1 2 -5
+p747
+aVTravis Outlaw NJN 11/17/2010 NJN @ UTA L 38 3 1 12 8.3 0 5 0.0 1 2 50.0 3 4 7 1 0 0 2 4 -10
+p748
+aVBrook Lopez NJN 11/17/2010 NJN @ UTA L 36 17 8 17 47.1 0 0 - 1 2 50.0 5 3 8 0 0 3 5 6 -6
+p749
+aVKris Humphries NJN 11/17/2010 NJN @ UTA L 30 8 3 6 50.0 0 0 - 2 2 100.0 5 10 15 0 0 2 2 2 -11
+p750
+aVJohan Petro NJN 11/17/2010 NJN @ UTA L 6 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -3
+p751
+aVDevin Harris NJN 11/17/2010 NJN @ UTA L 34 19 5 12 41.7 1 3 33.3 8 9 88.9 0 4 4 8 1 0 1 5 -7
+p752
+aVTerrence Williams NJN 11/17/2010 NJN @ UTA L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p753
+aVJordan Farmar NJN 11/17/2010 NJN @ UTA L 19 7 3 9 33.3 1 3 33.3 0 0 - 0 3 3 2 0 0 3 1 -4
+p754
+aVStephen Graham NJN 11/17/2010 NJN @ UTA L 12 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 0
+p755
+aVDerrick Favors NJN 11/17/2010 NJN @ UTA L 24 6 2 4 50.0 0 0 - 2 4 50.0 2 7 9 0 0 1 1 4 3
+p756
+aVAnthony Morrow NJN 11/17/2010 NJN @ UTA L 36 24 8 16 50.0 2 8 25.0 6 6 100.0 0 7 7 0 2 1 0 2 -5
+p757
+aVStephen Graham NJN 11/15/2010 NJN @ LAC W 25 6 1 4 25.0 0 0 - 4 4 100.0 0 1 1 5 1 0 0 3 3
+p758
+aVAnthony Morrow NJN 11/15/2010 NJN @ LAC W 22 9 4 9 44.4 1 3 33.3 0 0 - 1 0 1 1 1 0 1 3 6
+p759
+aVDevin Harris NJN 11/15/2010 NJN @ LAC W 14 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 7 1 0 2 1 7
+p760
+aVBrook Lopez NJN 11/15/2010 NJN @ LAC W 34 24 10 16 62.5 0 0 - 4 4 100.0 1 2 3 2 0 3 1 3 7
+p761
+aVKris Humphries NJN 11/15/2010 NJN @ LAC W 32 13 5 7 71.4 0 0 - 3 3 100.0 3 9 12 0 0 3 0 3 13
+p762
+aVTravis Outlaw NJN 11/15/2010 NJN @ LAC W 33 23 9 14 64.3 4 6 66.7 1 1 100.0 2 3 5 2 0 1 2 5 19
+p763
+aVQuinton Ross NJN 11/15/2010 NJN @ LAC W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 4
+p764
+aVJohan Petro NJN 11/15/2010 NJN @ LAC W 12 4 2 2 100.0 0 0 - 0 0 - 0 3 3 3 0 0 2 2 4
+p765
+aVJordan Farmar NJN 11/15/2010 NJN @ LAC W 35 15 5 11 45.5 1 6 16.7 4 5 80.0 0 2 2 12 2 0 2 2 7
+p766
+aVBen Uzoh NJN 11/15/2010 NJN @ LAC W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p767
+aVDerrick Favors NJN 11/15/2010 NJN @ LAC W 18 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 0 1 2 3 1
+p768
+aVJohan Petro NJN 11/13/2010 NJN vs. ORL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -6
+p769
+aVDerrick Favors NJN 11/13/2010 NJN vs. ORL L 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -4
+p770
+aVBrook Lopez NJN 11/13/2010 NJN vs. ORL L 41 23 9 17 52.9 0 0 - 5 6 83.3 0 5 5 1 0 2 3 4 2
+p771
+aVTravis Outlaw NJN 11/13/2010 NJN vs. ORL L 46 20 8 12 66.7 4 5 80.0 0 0 - 0 7 7 2 0 1 0 1 1
+p772
+aVTroy Murphy NJN 11/13/2010 NJN vs. ORL L 8 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 12
+p773
+aVDevin Harris NJN 11/13/2010 NJN vs. ORL L 35 26 9 16 56.3 1 4 25.0 7 9 77.8 0 6 6 8 0 0 4 1 -10
+p774
+aVKris Humphries NJN 11/13/2010 NJN vs. ORL L 26 4 2 4 50.0 0 0 - 0 0 - 1 6 7 0 1 2 2 0 -11
+p775
+aVQuinton Ross NJN 11/13/2010 NJN vs. ORL L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p776
+aVJordan Farmar NJN 11/13/2010 NJN vs. ORL L 18 8 3 10 30.0 2 4 50.0 0 0 - 1 0 1 3 2 0 1 3 12
+p777
+aVAnthony Morrow NJN 11/13/2010 NJN vs. ORL L 37 3 1 6 16.7 1 5 20.0 0 0 - 0 0 0 0 0 0 0 4 9
+p778
+aVJohan Petro NJN 11/10/2010 NJN @ CLE W 5 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 1 1 0 0 2
+p779
+aVDerrick Favors NJN 11/10/2010 NJN @ CLE W 22 7 2 10 20.0 0 0 - 3 8 37.5 3 4 7 0 0 2 1 3 9
+p780
+aVBrook Lopez NJN 11/10/2010 NJN @ CLE W 19 4 1 5 20.0 0 0 - 2 3 66.7 2 4 6 0 0 0 0 4 0
+p781
+aVAnthony Morrow NJN 11/10/2010 NJN @ CLE W 42 21 8 12 66.7 5 8 62.5 0 0 - 1 5 6 2 0 0 1 3 15
+p782
+aVDamion James NJN 11/10/2010 NJN @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p783
+aVQuinton Ross NJN 11/10/2010 NJN @ CLE W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p784
+aVKris Humphries NJN 11/10/2010 NJN @ CLE W 40 13 6 12 50.0 0 0 - 1 4 25.0 6 12 18 3 1 2 1 4 9
+p785
+aVJordan Farmar NJN 11/10/2010 NJN @ CLE W 28 12 4 9 44.4 2 4 50.0 2 2 100.0 1 5 6 6 2 0 3 2 10
+p786
+aVTravis Outlaw NJN 11/10/2010 NJN @ CLE W 31 5 2 6 33.3 0 1 0.0 1 4 25.0 0 2 2 1 0 0 0 1 1
+p787
+aVJoe Smith NJN 11/10/2010 NJN @ CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p788
+aVDevin Harris NJN 11/10/2010 NJN @ CLE W 43 31 10 23 43.5 1 4 25.0 10 14 71.4 0 0 0 9 0 0 2 3 5
+p789
+aVDerrick Favors NJN 11/09/2010 NJN vs. CLE L 16 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 0 0 1 2 3 2
+p790
+aVTravis Outlaw NJN 11/09/2010 NJN vs. CLE L 42 27 11 22 50.0 4 7 57.1 1 1 100.0 1 6 7 1 0 1 1 1 4
+p791
+aVDevin Harris NJN 11/09/2010 NJN vs. CLE L 28 18 6 12 50.0 0 2 0.0 6 6 100.0 1 1 2 6 3 0 2 3 3
+p792
+aVDamion James NJN 11/09/2010 NJN vs. CLE L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -6
+p793
+aVKris Humphries NJN 11/09/2010 NJN vs. CLE L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 2 0 0 -18
+p794
+aVBrook Lopez NJN 11/09/2010 NJN vs. CLE L 42 16 6 18 33.3 0 0 - 4 4 100.0 5 3 8 1 0 3 1 3 9
+p795
+aVJordan Farmar NJN 11/09/2010 NJN vs. CLE L 23 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 5 1 0 2 1 0
+p796
+aVAnthony Morrow NJN 11/09/2010 NJN vs. CLE L 32 10 2 8 25.0 2 7 28.6 4 4 100.0 1 1 2 3 0 0 2 4 -17
+p797
+aVTroy Murphy NJN 11/09/2010 NJN vs. CLE L 25 5 2 5 40.0 0 1 0.0 1 2 50.0 2 9 11 1 0 0 1 2 2
+p798
+aVQuinton Ross NJN 11/09/2010 NJN vs. CLE L 19 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 1 2 11
+p799
+aVDerrick Favors NJN 11/06/2010 NJN @ MIA L 28 11 5 8 62.5 0 0 - 1 2 50.0 2 3 5 0 1 0 0 4 -3
+p800
+aVDevin Harris NJN 11/06/2010 NJN @ MIA L 23 6 1 4 25.0 0 0 - 4 4 100.0 1 1 2 1 1 0 1 3 -10
+p801
+aVJordan Farmar NJN 11/06/2010 NJN @ MIA L 18 6 2 7 28.6 0 3 0.0 2 3 66.7 1 1 2 2 0 0 1 0 -10
+p802
+aVBrook Lopez NJN 11/06/2010 NJN @ MIA L 31 12 5 16 31.3 0 0 - 2 2 100.0 1 2 3 2 0 1 2 2 -12
+p803
+aVTravis Outlaw NJN 11/06/2010 NJN @ MIA L 29 5 2 6 33.3 1 3 33.3 0 0 - 1 5 6 0 0 0 0 2 -20
+p804
+aVKris Humphries NJN 11/06/2010 NJN @ MIA L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 1 1 2 -3
+p805
+aVQuinton Ross NJN 11/06/2010 NJN @ MIA L 6 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 6
+p806
+aVDamion James NJN 11/06/2010 NJN @ MIA L 8 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 9
+p807
+aVAnthony Morrow NJN 11/06/2010 NJN @ MIA L 34 25 10 17 58.8 4 7 57.1 1 1 100.0 3 4 7 1 3 1 3 1 -11
+p808
+aVTerrence Williams NJN 11/06/2010 NJN @ MIA L 26 7 3 7 42.9 1 2 50.0 0 0 - 0 7 7 9 0 0 3 2 0
+p809
+aVJohan Petro NJN 11/06/2010 NJN @ MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 6
+p810
+aVTroy Murphy NJN 11/06/2010 NJN @ MIA L 23 8 3 11 27.3 2 5 40.0 0 1 0.0 1 4 5 1 0 0 1 3 -12
+p811
+aVDerrick Favors NJN 11/05/2010 NJN @ ORL L 17 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 0 3 -2
+p812
+aVTerrence Williams NJN 11/05/2010 NJN @ ORL L 26 15 6 14 42.9 3 4 75.0 0 0 - 1 3 4 3 0 0 2 2 -12
+p813
+aVAnthony Morrow NJN 11/05/2010 NJN @ ORL L 24 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 3 7
+p814
+aVDevin Harris NJN 11/05/2010 NJN @ ORL L 31 14 5 10 50.0 1 3 33.3 3 3 100.0 0 2 2 4 2 0 3 5 -1
+p815
+aVBrook Lopez NJN 11/05/2010 NJN @ ORL L 31 10 3 17 17.6 0 0 - 4 4 100.0 0 5 5 1 1 0 1 5 -11
+p816
+aVKris Humphries NJN 11/05/2010 NJN @ ORL L 17 13 6 7 85.7 0 0 - 1 2 50.0 3 1 4 1 0 1 0 3 -6
+p817
+aVTravis Outlaw NJN 11/05/2010 NJN @ ORL L 39 17 7 8 87.5 3 4 75.0 0 0 - 0 6 6 1 0 1 0 2 -29
+p818
+aVJordan Farmar NJN 11/05/2010 NJN @ ORL L 27 7 3 10 30.0 1 4 25.0 0 0 - 0 4 4 7 2 0 3 2 -13
+p819
+aVTroy Murphy NJN 11/05/2010 NJN @ ORL L 28 5 2 9 22.2 1 4 25.0 0 0 - 2 3 5 3 2 0 1 2 -8
+p820
+aVTroy Murphy NJN 11/03/2010 NJN vs. CHA L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 1 2 2 -17
+p821
+aVDerrick Favors NJN 11/03/2010 NJN vs. CHA L 24 11 5 7 71.4 0 0 - 1 1 100.0 4 4 8 0 0 0 0 3 10
+p822
+aVKris Humphries NJN 11/03/2010 NJN vs. CHA L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p823
+aVDevin Harris NJN 11/03/2010 NJN vs. CHA L 34 19 7 17 41.2 1 6 16.7 4 4 100.0 0 4 4 8 0 1 3 1 7
+p824
+aVTravis Outlaw NJN 11/03/2010 NJN vs. CHA L 22 6 2 5 40.0 2 3 66.7 0 0 - 1 3 4 0 0 0 0 1 -9
+p825
+aVAnthony Morrow NJN 11/03/2010 NJN vs. CHA L 39 11 5 11 45.5 1 4 25.0 0 0 - 1 3 4 4 0 0 2 5 2
+p826
+aVTerrence Williams NJN 11/03/2010 NJN vs. CHA L 21 6 3 6 50.0 0 0 - 0 0 - 0 5 5 4 1 0 2 5 0
+p827
+aVQuinton Ross NJN 11/03/2010 NJN vs. CHA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p828
+aVJohan Petro NJN 11/03/2010 NJN vs. CHA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -4
+p829
+aVJordan Farmar NJN 11/03/2010 NJN vs. CHA L 18 5 1 6 16.7 1 3 33.3 2 2 100.0 0 2 2 2 0 0 2 1 -7
+p830
+aVDamion James NJN 11/03/2010 NJN vs. CHA L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p831
+aVBrook Lopez NJN 11/03/2010 NJN vs. CHA L 40 17 6 17 35.3 0 0 - 5 6 83.3 2 4 6 3 2 5 5 2 6
+p832
+aVDamion James NJN 10/31/2010 NJN vs. MIA L 19 1 0 4 0.0 0 0 - 1 2 50.0 1 2 3 2 0 0 1 1 -3
+p833
+aVDerrick Favors NJN 10/31/2010 NJN vs. MIA L 24 13 4 9 44.4 0 0 - 5 8 62.5 10 3 13 1 0 0 0 5 -18
+p834
+aVTravis Outlaw NJN 10/31/2010 NJN vs. MIA L 22 0 0 5 0.0 0 3 0.0 0 0 - 0 4 4 0 1 0 1 0 -18
+p835
+aVKris Humphries NJN 10/31/2010 NJN vs. MIA L 20 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 2 0 1 3 -2
+p836
+aVJoe Smith NJN 10/31/2010 NJN vs. MIA L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -8
+p837
+aVBrook Lopez NJN 10/31/2010 NJN vs. MIA L 28 20 8 17 47.1 0 0 - 4 5 80.0 3 2 5 1 0 0 0 3 -10
+p838
+aVStephen Graham NJN 10/31/2010 NJN vs. MIA L 8 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 1
+p839
+aVJordan Farmar NJN 10/31/2010 NJN vs. MIA L 16 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 1 1 0 1 1 -13
+p840
+aVDevin Harris NJN 10/31/2010 NJN vs. MIA L 29 13 4 8 50.0 2 3 66.7 3 3 100.0 0 1 1 6 0 0 4 1 -12
+p841
+aVJohan Petro NJN 10/31/2010 NJN vs. MIA L 14 2 1 2 50.0 0 0 - 0 2 0.0 2 3 5 1 0 0 0 1 -8
+p842
+aVTerrence Williams NJN 10/31/2010 NJN vs. MIA L 28 11 5 14 35.7 0 1 0.0 1 2 50.0 1 3 4 2 1 0 4 2 -14
+p843
+aVAnthony Morrow NJN 10/31/2010 NJN vs. MIA L 28 5 2 9 22.2 0 2 0.0 1 1 100.0 1 1 2 1 0 0 1 1 -10
+p844
+aVDerrick Favors NJN 10/29/2010 NJN vs. SAC W 20 10 4 5 80.0 0 0 - 2 2 100.0 3 4 7 0 0 1 2 5 -1
+p845
+aVBrook Lopez NJN 10/29/2010 NJN vs. SAC W 36 29 8 16 50.0 0 0 - 13 15 86.7 1 5 6 1 0 1 5 5 15
+p846
+aVDamion James NJN 10/29/2010 NJN vs. SAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p847
+aVKris Humphries NJN 10/29/2010 NJN vs. SAC W 23 5 2 2 100.0 0 0 - 1 2 50.0 0 8 8 0 0 0 2 3 -2
+p848
+aVJohan Petro NJN 10/29/2010 NJN vs. SAC W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 1 2 3 -9
+p849
+aVStephen Graham NJN 10/29/2010 NJN vs. SAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p850
+aVTravis Outlaw NJN 10/29/2010 NJN vs. SAC W 31 18 5 9 55.6 2 3 66.7 6 7 85.7 0 5 5 1 0 0 2 4 3
+p851
+aVAnthony Morrow NJN 10/29/2010 NJN vs. SAC W 34 4 1 4 25.0 0 2 0.0 2 3 66.7 0 2 2 0 0 1 0 1 14
+p852
+aVTerrence Williams NJN 10/29/2010 NJN vs. SAC W 11 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 1 0 0 5 1 -18
+p853
+aVJordan Farmar NJN 10/29/2010 NJN vs. SAC W 26 14 3 8 37.5 2 4 50.0 6 6 100.0 0 4 4 3 1 0 3 2 4
+p854
+aVDevin Harris NJN 10/29/2010 NJN vs. SAC W 35 21 7 10 70.0 2 2 100.0 5 8 62.5 0 5 5 10 1 0 4 4 19
+p855
+aVJoe Smith NJN 10/29/2010 NJN vs. SAC W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 6
+p856
+aVJoe Smith NJN 10/27/2010 NJN vs. DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p857
+aVJohan Petro NJN 10/27/2010 NJN vs. DET W 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 0
+p858
+aVStephen Graham NJN 10/27/2010 NJN vs. DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p859
+aVTravis Outlaw NJN 10/27/2010 NJN vs. DET W 21 5 1 7 14.3 1 2 50.0 2 2 100.0 0 3 3 0 0 0 1 5 -5
+p860
+aVDamion James NJN 10/27/2010 NJN vs. DET W 4 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 -2
+p861
+aVTerrence Williams NJN 10/27/2010 NJN vs. DET W 32 10 5 8 62.5 0 1 0.0 0 2 0.0 0 6 6 4 0 0 3 4 14
+p862
+aVBrook Lopez NJN 10/27/2010 NJN vs. DET W 37 25 11 20 55.0 0 0 - 3 4 75.0 3 6 9 0 0 3 1 3 6
+p863
+aVKris Humphries NJN 10/27/2010 NJN vs. DET W 18 4 2 2 100.0 0 0 - 0 0 - 1 5 6 0 0 0 0 2 -6
+p864
+aVJordan Farmar NJN 10/27/2010 NJN vs. DET W 22 10 2 6 33.3 2 4 50.0 4 4 100.0 0 0 0 4 2 0 2 0 5
+p865
+aVAnthony Morrow NJN 10/27/2010 NJN vs. DET W 37 13 5 10 50.0 3 6 50.0 0 1 0.0 1 1 2 0 0 0 0 1 6
+p866
+aVDerrick Favors NJN 10/27/2010 NJN vs. DET W 20 8 3 5 60.0 0 0 - 2 4 50.0 3 7 10 0 0 0 1 1 -6
+p867
+aVDevin Harris NJN 10/27/2010 NJN vs. DET W 31 22 8 15 53.3 0 1 0.0 6 6 100.0 0 4 4 9 2 0 3 4 6
+p868
+a.

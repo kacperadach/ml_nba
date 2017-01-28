@@ -1,0 +1,202 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKevin Ollie PHI 05/19/2000 PHI vs. IND L 2 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 2
+p2
+aVAllen Iverson PHI 05/19/2000 PHI vs. IND L 44 18 7 20 35.0 1 4 25.0 3 5 60.0 3 2 5 3 2 0 2 2 -7
+p3
+aVAaron McKie PHI 05/19/2000 PHI vs. IND L 39 19 6 16 37.5 0 5 0.0 7 8 87.5 2 7 9 4 0 0 2 3 -13
+p4
+aVTyrone Hill PHI 05/19/2000 PHI vs. IND L 35 11 5 11 45.5 0 0 - 1 2 50.0 6 3 9 1 1 0 1 4 -10
+p5
+aVIra Bowman PHI 05/19/2000 PHI vs. IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p6
+aVGeorge Lynch PHI 05/19/2000 PHI vs. IND L 31 14 4 7 57.1 1 1 100.0 5 6 83.3 3 1 4 0 0 0 1 4 -16
+p7
+aVEric Snow PHI 05/19/2000 PHI vs. IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -14
+p8
+aVTodd MacCulloch PHI 05/19/2000 PHI vs. IND L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p9
+aVJumaine Jones PHI 05/19/2000 PHI vs. IND L 2 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p10
+aVTheo Ratliff PHI 05/19/2000 PHI vs. IND L 39 11 4 11 36.4 0 0 - 3 5 60.0 2 6 8 2 2 1 0 2 -16
+p11
+aVToni Kukoc PHI 05/19/2000 PHI vs. IND L 32 12 6 17 35.3 0 2 0.0 0 0 - 0 3 3 1 3 0 2 4 -10
+p12
+aVJumaine Jones PHI 05/15/2000 PHI @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p13
+aVToni Kukoc PHI 05/15/2000 PHI @ IND W 30 13 6 10 60.0 0 3 0.0 1 2 50.0 1 3 4 3 1 0 0 3 11
+p14
+aVGeorge Lynch PHI 05/15/2000 PHI @ IND W 23 6 2 3 66.7 0 0 - 2 2 100.0 0 6 6 3 1 0 1 4 11
+p15
+aVTyrone Hill PHI 05/15/2000 PHI @ IND W 37 12 5 13 38.5 0 1 0.0 2 4 50.0 3 7 10 2 3 0 3 4 21
+p16
+aVKevin Ollie PHI 05/15/2000 PHI @ IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p17
+aVAaron McKie PHI 05/15/2000 PHI @ IND W 47 13 4 6 66.7 1 2 50.0 4 5 80.0 1 9 10 9 2 1 5 3 21
+p18
+aVAllen Iverson PHI 05/15/2000 PHI @ IND W 45 37 12 29 41.4 2 4 50.0 11 12 91.7 2 3 5 1 1 0 1 4 26
+p19
+aVTheo Ratliff PHI 05/15/2000 PHI @ IND W 38 26 10 16 62.5 0 0 - 6 7 85.7 3 6 9 0 2 4 1 3 16
+p20
+aVTodd MacCulloch PHI 05/15/2000 PHI @ IND W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p21
+aVMatt Geiger PHI 05/13/2000 PHI vs. IND W 9 10 4 5 80.0 0 0 - 2 2 100.0 1 3 4 0 0 0 2 4 1
+p22
+aVAaron McKie PHI 05/13/2000 PHI vs. IND W 41 12 4 12 33.3 2 6 33.3 2 3 66.7 1 5 6 4 0 0 4 5 5
+p23
+aVTheo Ratliff PHI 05/13/2000 PHI vs. IND W 30 12 4 9 44.4 0 0 - 4 7 57.1 3 6 9 2 1 1 1 4 14
+p24
+aVKevin Ollie PHI 05/13/2000 PHI vs. IND W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -4
+p25
+aVTyrone Hill PHI 05/13/2000 PHI vs. IND W 38 18 6 10 60.0 0 0 - 6 8 75.0 4 11 15 1 0 0 0 4 -2
+p26
+aVToni Kukoc PHI 05/13/2000 PHI vs. IND W 27 11 3 9 33.3 0 1 0.0 5 7 71.4 2 2 4 2 1 0 1 1 -13
+p27
+aVAllen Iverson PHI 05/13/2000 PHI vs. IND W 44 19 7 26 26.9 1 4 25.0 4 6 66.7 2 1 3 5 2 0 3 2 5
+p28
+aVTodd MacCulloch PHI 05/13/2000 PHI vs. IND W 4 4 1 1 100.0 0 0 - 2 4 50.0 1 3 4 0 0 0 0 0 2
+p29
+aVIra Bowman PHI 05/13/2000 PHI vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p30
+aVGeorge Lynch PHI 05/13/2000 PHI vs. IND W 31 6 1 5 20.0 0 0 - 4 6 66.7 6 2 8 2 0 0 0 4 5
+p31
+aVKevin Ollie PHI 05/10/2000 PHI vs. IND L 5 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -1
+p32
+aVIra Bowman PHI 05/10/2000 PHI vs. IND L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p33
+aVToni Kukoc PHI 05/10/2000 PHI vs. IND L 26 4 2 6 33.3 0 0 - 0 0 - 0 4 4 4 0 0 1 1 -2
+p34
+aVGeorge Lynch PHI 05/10/2000 PHI vs. IND L 25 7 2 9 22.2 0 1 0.0 3 3 100.0 4 1 5 3 2 2 0 3 -6
+p35
+aVTyrone Hill PHI 05/10/2000 PHI vs. IND L 37 10 4 10 40.0 0 0 - 2 6 33.3 4 10 14 2 1 0 2 2 -15
+p36
+aVMatt Geiger PHI 05/10/2000 PHI vs. IND L 15 3 1 7 14.3 0 0 - 1 2 50.0 3 2 5 0 0 0 0 3 8
+p37
+aVTheo Ratliff PHI 05/10/2000 PHI vs. IND L 38 13 5 10 50.0 0 0 - 3 3 100.0 3 5 8 0 3 3 5 4 -9
+p38
+aVAaron McKie PHI 05/10/2000 PHI vs. IND L 43 20 8 12 66.7 1 2 50.0 3 5 60.0 0 3 3 3 0 1 1 1 -3
+p39
+aVAllen Iverson PHI 05/10/2000 PHI vs. IND L 46 29 9 21 42.9 0 3 0.0 11 12 91.7 0 3 3 3 0 0 4 4 -12
+p40
+aVToni Kukoc PHI 05/08/2000 PHI @ IND L 25 8 3 7 42.9 2 5 40.0 0 2 0.0 1 3 4 0 0 1 0 2 -5
+p41
+aVAaron McKie PHI 05/08/2000 PHI @ IND L 30 13 5 10 50.0 1 2 50.0 2 2 100.0 0 2 2 6 2 0 2 4 10
+p42
+aVTyrone Hill PHI 05/08/2000 PHI @ IND L 26 15 5 9 55.6 0 0 - 5 8 62.5 2 6 8 0 0 0 0 4 -5
+p43
+aVKevin Ollie PHI 05/08/2000 PHI @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p44
+aVEric Snow PHI 05/08/2000 PHI @ IND L 22 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 4 0 0 1 2 -11
+p45
+aVMatt Geiger PHI 05/08/2000 PHI @ IND L 22 14 5 8 62.5 0 0 - 4 5 80.0 3 4 7 0 1 0 0 1 0
+p46
+aVGeorge Lynch PHI 05/08/2000 PHI @ IND L 29 2 1 6 16.7 0 1 0.0 0 0 - 2 4 6 2 2 0 2 6 -4
+p47
+aVAllen Iverson PHI 05/08/2000 PHI @ IND L 45 28 9 25 36.0 0 4 0.0 10 14 71.4 1 5 6 10 2 0 4 2 -10
+p48
+aVTheo Ratliff PHI 05/08/2000 PHI @ IND L 33 15 5 10 50.0 0 0 - 5 6 83.3 1 4 5 0 0 2 3 5 -2
+p49
+aVAaron McKie PHI 05/06/2000 PHI @ IND L 26 10 4 9 44.4 0 2 0.0 2 2 100.0 0 0 0 2 0 0 1 2 -9
+p50
+aVTheo Ratliff PHI 05/06/2000 PHI @ IND L 32 9 4 12 33.3 0 0 - 1 4 25.0 4 4 8 1 1 4 0 3 -15
+p51
+aVAllen Iverson PHI 05/06/2000 PHI @ IND L 40 28 10 20 50.0 1 3 33.3 7 8 87.5 0 3 3 2 0 0 4 2 -27
+p52
+aVEric Snow PHI 05/06/2000 PHI @ IND L 25 6 3 8 37.5 0 0 - 0 0 - 0 1 1 7 0 0 0 4 -9
+p53
+aVKevin Ollie PHI 05/06/2000 PHI @ IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p54
+aVTyrone Hill PHI 05/06/2000 PHI @ IND L 33 20 8 13 61.5 0 0 - 4 4 100.0 4 4 8 1 1 0 4 1 -16
+p55
+aVIra Bowman PHI 05/06/2000 PHI @ IND L 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 0 0 3
+p56
+aVToni Kukoc PHI 05/06/2000 PHI @ IND L 22 8 3 7 42.9 2 3 66.7 0 0 - 0 5 5 1 0 1 2 2 -10
+p57
+aVMatt Geiger PHI 05/06/2000 PHI @ IND L 10 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 1 -1
+p58
+aVJumaine Jones PHI 05/06/2000 PHI @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p59
+aVGeorge Lynch PHI 05/06/2000 PHI @ IND L 38 4 2 7 28.6 0 0 - 0 0 - 4 10 14 2 0 0 1 1 -4
+p60
+aVTyrone Hill PHI 05/01/2000 PHI vs. CHH W 26 10 3 7 42.9 0 0 - 4 4 100.0 1 5 6 1 0 1 1 5 -1
+p61
+aVAllen Iverson PHI 05/01/2000 PHI vs. CHH W 44 26 10 23 43.5 2 5 40.0 4 8 50.0 1 2 3 7 2 0 2 2 9
+p62
+aVJumaine Jones PHI 05/01/2000 PHI vs. CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p63
+aVTheo Ratliff PHI 05/01/2000 PHI vs. CHH W 44 10 3 6 50.0 0 0 - 4 4 100.0 0 6 6 2 0 4 1 2 2
+p64
+aVKevin Ollie PHI 05/01/2000 PHI vs. CHH W 15 6 3 4 75.0 0 0 - 0 0 - 0 0 0 4 0 0 1 1 -10
+p65
+aVAaron McKie PHI 05/01/2000 PHI vs. CHH W 36 25 9 15 60.0 4 7 57.1 3 3 100.0 0 2 2 11 0 0 0 3 15
+p66
+aVToni Kukoc PHI 05/01/2000 PHI vs. CHH W 15 3 1 5 20.0 1 5 20.0 0 0 - 1 0 1 2 0 1 2 2 -1
+p67
+aVGeorge Lynch PHI 05/01/2000 PHI vs. CHH W 32 8 4 8 50.0 0 2 0.0 0 1 0.0 1 7 8 0 0 2 1 4 7
+p68
+aVMatt Geiger PHI 05/01/2000 PHI vs. CHH W 25 17 7 10 70.0 0 0 - 3 3 100.0 5 5 10 2 2 1 0 4 9
+p69
+aVIra Bowman PHI 04/28/2000 PHI vs. CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p70
+aVTheo Ratliff PHI 04/28/2000 PHI vs. CHH W 41 10 3 9 33.3 0 0 - 4 4 100.0 5 6 11 0 0 6 2 2 11
+p71
+aVGeorge Lynch PHI 04/28/2000 PHI vs. CHH W 25 0 0 6 0.0 0 1 0.0 0 0 - 2 6 8 1 1 1 0 0 -4
+p72
+aVToni Kukoc PHI 04/28/2000 PHI vs. CHH W 25 12 4 12 33.3 3 8 37.5 1 2 50.0 0 4 4 1 2 0 4 5 12
+p73
+aVTyrone Hill PHI 04/28/2000 PHI vs. CHH W 37 7 2 6 33.3 0 0 - 3 4 75.0 3 7 10 1 2 0 1 5 -3
+p74
+aVAllen Iverson PHI 04/28/2000 PHI vs. CHH W 42 24 9 27 33.3 2 7 28.6 4 7 57.1 2 4 6 3 0 1 5 5 2
+p75
+aVMatt Geiger PHI 04/28/2000 PHI vs. CHH W 12 8 3 3 100.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 4 -1
+p76
+aVAaron McKie PHI 04/28/2000 PHI vs. CHH W 38 12 5 12 41.7 0 4 0.0 2 2 100.0 0 3 3 5 0 0 1 3 -6
+p77
+aVKevin Ollie PHI 04/28/2000 PHI vs. CHH W 14 8 1 3 33.3 0 0 - 6 6 100.0 0 4 4 4 2 0 2 0 14
+p78
+aVMatt Geiger PHI 04/24/2000 PHI @ CHH L 13 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 0 1 0 1 2 2
+p79
+aVIra Bowman PHI 04/24/2000 PHI @ CHH L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p80
+aVGeorge Lynch PHI 04/24/2000 PHI @ CHH L 22 2 1 3 33.3 0 0 - 0 0 - 3 3 6 1 3 0 2 3 -1
+p81
+aVTodd MacCulloch PHI 04/24/2000 PHI @ CHH L 7 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 1 -5
+p82
+aVKevin Ollie PHI 04/24/2000 PHI @ CHH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p83
+aVEric Snow PHI 04/24/2000 PHI @ CHH L 43 19 7 10 70.0 3 3 100.0 2 2 100.0 0 4 4 13 2 0 5 5 -11
+p84
+aVTyrone Hill PHI 04/24/2000 PHI @ CHH L 45 10 4 12 33.3 0 0 - 2 2 100.0 5 8 13 0 1 0 0 4 -11
+p85
+aVToni Kukoc PHI 04/24/2000 PHI @ CHH L 30 20 8 15 53.3 3 6 50.0 1 2 50.0 1 5 6 2 2 0 1 4 -9
+p86
+aVTheo Ratliff PHI 04/24/2000 PHI @ CHH L 38 15 6 8 75.0 0 0 - 3 4 75.0 4 3 7 1 0 1 2 4 -6
+p87
+aVAllen Iverson PHI 04/24/2000 PHI @ CHH L 44 13 5 21 23.8 0 2 0.0 3 4 75.0 0 1 1 8 0 0 3 0 -6
+p88
+aVAaron McKie PHI 04/24/2000 PHI @ CHH L 16 9 3 8 37.5 2 4 50.0 1 1 100.0 0 1 1 2 0 0 0 0 1
+p89
+aVTodd MacCulloch PHI 04/22/2000 PHI @ CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p90
+aVIra Bowman PHI 04/22/2000 PHI @ CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p91
+aVGeorge Lynch PHI 04/22/2000 PHI @ CHH W 31 10 5 11 45.5 0 1 0.0 0 0 - 1 5 6 0 0 0 0 4 6
+p92
+aVToni Kukoc PHI 04/22/2000 PHI @ CHH W 20 2 0 5 0.0 0 1 0.0 2 2 100.0 1 1 2 1 1 0 2 2 12
+p93
+aVKevin Ollie PHI 04/22/2000 PHI @ CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p94
+aVAllen Iverson PHI 04/22/2000 PHI @ CHH W 45 40 13 25 52.0 3 3 100.0 11 16 68.8 3 2 5 3 3 0 4 1 11
+p95
+aVEric Snow PHI 04/22/2000 PHI @ CHH W 40 10 4 9 44.4 0 0 - 2 2 100.0 0 4 4 9 2 1 1 2 9
+p96
+aVMatt Geiger PHI 04/22/2000 PHI @ CHH W 19 6 1 6 16.7 0 0 - 4 6 66.7 2 5 7 0 1 1 1 4 10
+p97
+aVAaron McKie PHI 04/22/2000 PHI @ CHH W 10 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 3
+p98
+aVTyrone Hill PHI 04/22/2000 PHI @ CHH W 32 10 4 9 44.4 0 0 - 2 2 100.0 4 0 4 0 0 0 0 5 1
+p99
+aVTheo Ratliff PHI 04/22/2000 PHI @ CHH W 37 9 4 10 40.0 0 0 - 1 3 33.3 3 5 8 1 1 4 2 6 4
+p100
+a.

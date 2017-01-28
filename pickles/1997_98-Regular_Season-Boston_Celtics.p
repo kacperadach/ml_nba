@@ -1,0 +1,1774 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDontae' Jones BOS 04/18/1998 BOS @ WAS L 2 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -6
+p2
+aVZan Tabak BOS 04/18/1998 BOS @ WAS L 19 9 4 6 66.7 0 0 - 1 4 25.0 2 2 4 0 0 0 0 6 2
+p3
+aVReggie Hanson BOS 04/18/1998 BOS @ WAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p4
+aVAntoine Walker BOS 04/18/1998 BOS @ WAS L 41 18 8 18 44.4 1 2 50.0 1 3 33.3 3 10 13 5 0 1 3 2 -8
+p5
+aVGreg Minor BOS 04/18/1998 BOS @ WAS L 26 8 3 8 37.5 1 3 33.3 1 3 33.3 2 0 2 1 0 0 1 2 -14
+p6
+aVRon Mercer BOS 04/18/1998 BOS @ WAS L 32 18 7 13 53.8 0 0 - 4 4 100.0 0 4 4 2 2 0 1 5 -15
+p7
+aVTyus Edney BOS 04/18/1998 BOS @ WAS L 17 10 3 6 50.0 0 0 - 4 6 66.7 1 2 3 4 0 0 2 2 -12
+p8
+aVTravis Knight BOS 04/18/1998 BOS @ WAS L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -15
+p9
+aVDana Barros BOS 04/18/1998 BOS @ WAS L 31 12 4 10 40.0 1 4 25.0 3 4 75.0 0 2 2 2 0 0 1 4 -5
+p10
+aVWalter McCarty BOS 04/18/1998 BOS @ WAS L 40 14 5 14 35.7 2 4 50.0 2 3 66.7 3 5 8 4 1 0 1 3 -6
+p11
+aVAndrew DeClercq BOS 04/18/1998 BOS @ WAS L 16 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 1 0 1 0 -7
+p12
+aVAntoine Walker BOS 04/17/1998 BOS vs. CLE W 41 17 6 19 31.6 1 4 25.0 4 6 66.7 2 7 9 8 2 0 3 4 9
+p13
+aVTyus Edney BOS 04/17/1998 BOS vs. CLE W 14 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 5
+p14
+aVTravis Knight BOS 04/17/1998 BOS vs. CLE W 21 10 3 5 60.0 0 0 - 4 4 100.0 1 2 3 0 0 1 0 2 2
+p15
+aVDana Barros BOS 04/17/1998 BOS vs. CLE W 34 7 3 10 30.0 1 6 16.7 0 0 - 0 6 6 2 3 0 3 3 2
+p16
+aVWalter McCarty BOS 04/17/1998 BOS vs. CLE W 37 9 3 6 50.0 2 2 100.0 1 5 20.0 5 6 11 1 1 0 1 3 10
+p17
+aVZan Tabak BOS 04/17/1998 BOS vs. CLE W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 1
+p18
+aVGreg Minor BOS 04/17/1998 BOS vs. CLE W 27 15 7 10 70.0 0 0 - 1 1 100.0 2 1 3 2 0 0 1 1 -1
+p19
+aVAndrew DeClercq BOS 04/17/1998 BOS vs. CLE W 16 2 0 2 0.0 0 0 - 2 2 100.0 0 4 4 1 1 1 1 5 5
+p20
+aVReggie Hanson BOS 04/17/1998 BOS vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p21
+aVRon Mercer BOS 04/17/1998 BOS vs. CLE W 40 12 6 19 31.6 0 0 - 0 0 - 1 2 3 1 1 0 2 2 2
+p22
+aVZan Tabak BOS 04/15/1998 BOS vs. MIL L 10 1 0 4 0.0 0 0 - 1 2 50.0 1 2 3 1 0 1 1 3 -3
+p23
+aVDana Barros BOS 04/15/1998 BOS vs. MIL L 32 14 4 13 30.8 2 6 33.3 4 4 100.0 0 2 2 9 0 0 2 2 -16
+p24
+aVAntoine Walker BOS 04/15/1998 BOS vs. MIL L 41 24 10 16 62.5 2 4 50.0 2 7 28.6 1 7 8 3 3 0 2 6 -6
+p25
+aVRon Mercer BOS 04/15/1998 BOS vs. MIL L 29 11 5 15 33.3 0 0 - 1 2 50.0 2 1 3 1 1 0 3 2 -12
+p26
+aVTravis Knight BOS 04/15/1998 BOS vs. MIL L 21 8 4 7 57.1 0 0 - 0 1 0.0 2 3 5 1 0 1 3 5 -2
+p27
+aVGreg Minor BOS 04/15/1998 BOS vs. MIL L 27 16 6 7 85.7 1 1 100.0 3 3 100.0 2 1 3 1 2 0 3 3 -2
+p28
+aVWalter McCarty BOS 04/15/1998 BOS vs. MIL L 42 14 5 13 38.5 1 4 25.0 3 4 75.0 2 3 5 3 2 0 3 2 -3
+p29
+aVDontae' Jones BOS 04/15/1998 BOS vs. MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p30
+aVTyus Edney BOS 04/15/1998 BOS vs. MIL L 20 17 5 11 45.5 2 3 66.7 5 6 83.3 0 2 2 6 2 0 0 4 8
+p31
+aVAndrew DeClercq BOS 04/15/1998 BOS vs. MIL L 16 4 2 3 66.7 0 0 - 0 2 0.0 4 3 7 0 1 0 0 4 -5
+p32
+aVAndrew DeClercq BOS 04/14/1998 BOS @ CLE L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 -5
+p33
+aVTyus Edney BOS 04/14/1998 BOS @ CLE L 13 5 2 6 33.3 0 1 0.0 1 2 50.0 1 2 3 3 0 0 1 1 -2
+p34
+aVTravis Knight BOS 04/14/1998 BOS @ CLE L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 3 1 4 12
+p35
+aVGreg Minor BOS 04/14/1998 BOS @ CLE L 21 6 2 5 40.0 0 0 - 2 4 50.0 1 1 2 2 2 0 2 1 -8
+p36
+aVAntoine Walker BOS 04/14/1998 BOS @ CLE L 42 31 14 23 60.9 1 1 100.0 2 4 50.0 9 5 14 4 2 0 4 2 -9
+p37
+aVRon Mercer BOS 04/14/1998 BOS @ CLE L 47 22 10 25 40.0 0 0 - 2 2 100.0 4 3 7 3 3 0 2 4 -5
+p38
+aVZan Tabak BOS 04/14/1998 BOS @ CLE L 22 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 2 2 5 -12
+p39
+aVWalter McCarty BOS 04/14/1998 BOS @ CLE L 37 5 2 8 25.0 1 4 25.0 0 0 - 1 3 4 2 2 0 2 4 -9
+p40
+aVDana Barros BOS 04/14/1998 BOS @ CLE L 35 12 4 15 26.7 1 7 14.3 3 3 100.0 0 3 3 7 1 0 1 1 -7
+p41
+aVAndrew DeClercq BOS 04/12/1998 BOS vs. IND L 14 4 1 4 25.0 0 0 - 2 3 66.7 3 2 5 0 1 0 1 3 -5
+p42
+aVTravis Knight BOS 04/12/1998 BOS vs. IND L 12 0 0 3 0.0 0 0 - 0 0 - 2 2 4 1 1 2 0 3 -6
+p43
+aVReggie Hanson BOS 04/12/1998 BOS vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p44
+aVTyus Edney BOS 04/12/1998 BOS vs. IND L 11 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 4 2 0 3 0 4
+p45
+aVGreg Minor BOS 04/12/1998 BOS vs. IND L 30 9 3 7 42.9 1 2 50.0 2 2 100.0 1 3 4 6 0 2 1 2 12
+p46
+aVRon Mercer BOS 04/12/1998 BOS vs. IND L 42 18 9 15 60.0 0 0 - 0 0 - 3 2 5 4 2 0 4 2 -5
+p47
+aVWalter McCarty BOS 04/12/1998 BOS vs. IND L 33 13 6 15 40.0 0 0 - 1 3 33.3 6 0 6 4 4 1 2 3 -9
+p48
+aVDana Barros BOS 04/12/1998 BOS vs. IND L 37 16 7 13 53.8 1 3 33.3 1 1 100.0 0 3 3 8 3 0 3 2 -10
+p49
+aVAntoine Walker BOS 04/12/1998 BOS vs. IND L 35 14 5 21 23.8 1 4 25.0 3 4 75.0 2 2 4 0 1 1 4 3 -19
+p50
+aVZan Tabak BOS 04/12/1998 BOS vs. IND L 25 11 5 7 71.4 0 0 - 1 1 100.0 3 6 9 1 2 1 3 4 4
+p51
+aVWalter McCarty BOS 04/10/1998 BOS vs. ORL W 16 4 1 4 25.0 0 1 0.0 2 2 100.0 1 2 3 0 1 0 2 3 6
+p52
+aVZan Tabak BOS 04/10/1998 BOS vs. ORL W 19 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 0 0 2 2 -3
+p53
+aVTyus Edney BOS 04/10/1998 BOS vs. ORL W 4 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 2
+p54
+aVAntoine Walker BOS 04/10/1998 BOS vs. ORL W 41 10 5 16 31.3 0 4 0.0 0 0 - 1 8 9 3 4 1 3 2 -1
+p55
+aVAndrew DeClercq BOS 04/10/1998 BOS vs. ORL W 23 9 4 11 36.4 0 0 - 1 2 50.0 3 8 11 0 3 0 2 3 3
+p56
+aVReggie Hanson BOS 04/10/1998 BOS vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p57
+aVGreg Minor BOS 04/10/1998 BOS vs. ORL W 31 4 2 9 22.2 0 1 0.0 0 0 - 2 3 5 1 0 0 0 2 -5
+p58
+aVRon Mercer BOS 04/10/1998 BOS vs. ORL W 50 14 7 17 41.2 0 0 - 0 0 - 3 3 6 4 1 0 3 2 -2
+p59
+aVDana Barros BOS 04/10/1998 BOS vs. ORL W 48 26 10 17 58.8 6 9 66.7 0 0 - 0 3 3 6 2 0 3 4 1
+p60
+aVTravis Knight BOS 04/10/1998 BOS vs. ORL W 31 8 3 10 30.0 0 0 - 2 2 100.0 6 3 9 3 1 1 1 6 8
+p61
+aVDana Barros BOS 04/08/1998 BOS vs. NJN L 28 13 5 11 45.5 3 5 60.0 0 0 - 0 1 1 8 0 1 1 3 7
+p62
+aVGreg Minor BOS 04/08/1998 BOS vs. NJN L 34 10 5 7 71.4 0 1 0.0 0 0 - 1 3 4 5 0 0 2 3 0
+p63
+aVRon Mercer BOS 04/08/1998 BOS vs. NJN L 42 18 8 16 50.0 0 0 - 2 2 100.0 4 2 6 1 2 0 3 2 -14
+p64
+aVZan Tabak BOS 04/08/1998 BOS vs. NJN L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p65
+aVKenny Anderson BOS 04/08/1998 BOS vs. NJN L 14 4 1 7 14.3 0 1 0.0 2 2 100.0 0 1 1 3 0 0 2 3 -17
+p66
+aVAntoine Walker BOS 04/08/1998 BOS vs. NJN L 43 43 18 26 69.2 5 7 71.4 2 6 33.3 4 0 4 4 2 0 0 5 -10
+p67
+aVAndrew DeClercq BOS 04/08/1998 BOS vs. NJN L 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -16
+p68
+aVTravis Knight BOS 04/08/1998 BOS vs. NJN L 30 6 3 6 50.0 0 0 - 0 0 - 2 6 8 3 2 2 2 5 12
+p69
+aVTyus Edney BOS 04/08/1998 BOS vs. NJN L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 2 0 -3
+p70
+aVWalter McCarty BOS 04/08/1998 BOS vs. NJN L 27 8 4 10 40.0 0 3 0.0 0 0 - 3 3 6 3 2 0 1 5 -20
+p71
+aVAntoine Walker BOS 04/05/1998 BOS vs. NYK W 39 24 10 18 55.6 4 7 57.1 0 2 0.0 1 7 8 3 1 1 5 4 4
+p72
+aVTyus Edney BOS 04/05/1998 BOS vs. NYK W 10 3 1 5 20.0 0 1 0.0 1 1 100.0 0 0 0 5 3 0 3 2 9
+p73
+aVDontae' Jones BOS 04/05/1998 BOS vs. NYK W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p74
+aVWalter McCarty BOS 04/05/1998 BOS vs. NYK W 22 6 2 3 66.7 1 1 100.0 1 2 50.0 0 4 4 2 0 0 2 4 -3
+p75
+aVDana Barros BOS 04/05/1998 BOS vs. NYK W 20 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 2 2 0 2 0 -7
+p76
+aVZan Tabak BOS 04/05/1998 BOS vs. NYK W 8 1 0 1 0.0 0 0 - 1 2 50.0 3 1 4 0 1 1 0 0 2
+p77
+aVTravis Knight BOS 04/05/1998 BOS vs. NYK W 32 12 3 10 30.0 0 0 - 6 8 75.0 2 9 11 7 2 2 1 2 18
+p78
+aVAndrew DeClercq BOS 04/05/1998 BOS vs. NYK W 13 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 3 2 0 0 4 2
+p79
+aVRon Mercer BOS 04/05/1998 BOS vs. NYK W 45 21 9 18 50.0 1 1 100.0 2 2 100.0 1 3 4 1 3 0 3 3 11
+p80
+aVGreg Minor BOS 04/05/1998 BOS vs. NYK W 31 9 4 7 57.1 0 1 0.0 1 2 50.0 1 1 2 1 1 0 0 1 12
+p81
+aVKenny Anderson BOS 04/05/1998 BOS vs. NYK W 19 14 4 8 50.0 0 2 0.0 6 7 85.7 0 3 3 5 0 0 2 1 6
+p82
+aVAntoine Walker BOS 04/03/1998 BOS @ DET W 42 31 13 23 56.5 1 2 50.0 4 7 57.1 4 8 12 5 2 0 2 4 2
+p83
+aVWalter McCarty BOS 04/03/1998 BOS @ DET W 39 10 5 9 55.6 0 1 0.0 0 0 - 1 2 3 2 2 0 1 3 -12
+p84
+aVDana Barros BOS 04/03/1998 BOS @ DET W 24 9 4 8 50.0 1 3 33.3 0 0 - 0 5 5 7 0 0 0 3 5
+p85
+aVTyus Edney BOS 04/03/1998 BOS @ DET W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p86
+aVKenny Anderson BOS 04/03/1998 BOS @ DET W 22 2 0 5 0.0 0 0 - 2 2 100.0 0 3 3 11 3 0 4 3 -5
+p87
+aVTravis Knight BOS 04/03/1998 BOS @ DET W 16 4 0 1 0.0 0 0 - 4 4 100.0 3 0 3 0 0 0 0 3 12
+p88
+aVReggie Hanson BOS 04/03/1998 BOS @ DET W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p89
+aVDontae' Jones BOS 04/03/1998 BOS @ DET W 8 9 3 4 75.0 3 4 75.0 0 0 - 0 0 0 0 0 0 0 1 19
+p90
+aVZan Tabak BOS 04/03/1998 BOS @ DET W 14 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 1 0 1 1 3 7
+p91
+aVGreg Minor BOS 04/03/1998 BOS @ DET W 11 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -3
+p92
+aVRon Mercer BOS 04/03/1998 BOS @ DET W 37 16 8 16 50.0 0 1 0.0 0 0 - 2 1 3 2 3 1 2 0 -2
+p93
+aVAndrew DeClercq BOS 04/03/1998 BOS @ DET W 23 10 5 8 62.5 0 0 - 0 0 - 1 3 4 0 0 2 1 2 -15
+p94
+aVGreg Minor BOS 04/01/1998 BOS @ ORL W 33 10 5 10 50.0 0 0 - 0 0 - 2 2 4 4 0 0 0 2 14
+p95
+aVDana Barros BOS 04/01/1998 BOS @ ORL W 37 17 4 10 40.0 1 3 33.3 8 8 100.0 1 4 5 10 0 0 2 0 2
+p96
+aVAntoine Walker BOS 04/01/1998 BOS @ ORL W 44 18 7 17 41.2 3 6 50.0 1 4 25.0 2 13 15 1 3 0 4 2 1
+p97
+aVReggie Hanson BOS 04/01/1998 BOS @ ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 8
+p98
+aVAndrew DeClercq BOS 04/01/1998 BOS @ ORL W 19 2 1 3 33.3 0 0 - 0 2 0.0 3 4 7 1 0 2 0 4 -4
+p99
+aVTyus Edney BOS 04/01/1998 BOS @ ORL W 12 9 3 4 75.0 0 0 - 3 4 75.0 0 0 0 3 1 0 1 1 11
+p100
+aVWalter McCarty BOS 04/01/1998 BOS @ ORL W 23 13 5 12 41.7 1 5 20.0 2 2 100.0 1 2 3 1 2 0 2 3 10
+p101
+aVRon Mercer BOS 04/01/1998 BOS @ ORL W 27 10 5 12 41.7 0 1 0.0 0 0 - 0 1 1 0 1 0 2 2 -3
+p102
+aVZan Tabak BOS 04/01/1998 BOS @ ORL W 25 9 4 6 66.7 0 0 - 1 2 50.0 4 4 8 4 0 1 1 5 17
+p103
+aVTravis Knight BOS 04/01/1998 BOS @ ORL W 16 10 5 10 50.0 0 0 - 0 0 - 4 2 6 1 0 1 1 5 -1
+p104
+aVRon Mercer BOS 03/31/1998 BOS @ MIA L 32 16 7 13 53.8 0 1 0.0 2 2 100.0 0 1 1 3 1 0 3 1 -20
+p105
+aVReggie Hanson BOS 03/31/1998 BOS @ MIA L 8 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 1 0 2 4 -6
+p106
+aVAntoine Walker BOS 03/31/1998 BOS @ MIA L 31 19 7 14 50.0 1 2 50.0 4 5 80.0 2 3 5 1 0 0 5 4 -30
+p107
+aVTravis Knight BOS 03/31/1998 BOS @ MIA L 22 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 0 0 1 0 6 -9
+p108
+aVWalter McCarty BOS 03/31/1998 BOS @ MIA L 24 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 2 0 0 1 4 -8
+p109
+aVAndrew DeClercq BOS 03/31/1998 BOS @ MIA L 32 12 4 9 44.4 0 0 - 4 7 57.1 1 6 7 2 2 1 1 3 4
+p110
+aVDana Barros BOS 03/31/1998 BOS @ MIA L 34 15 5 11 45.5 3 7 42.9 2 2 100.0 0 0 0 4 0 0 1 2 -11
+p111
+aVZan Tabak BOS 03/31/1998 BOS @ MIA L 11 2 1 3 33.3 0 0 - 0 0 - 4 3 7 0 0 2 1 1 -9
+p112
+aVDontae' Jones BOS 03/31/1998 BOS @ MIA L 6 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p113
+aVTyus Edney BOS 03/31/1998 BOS @ MIA L 14 11 4 6 66.7 0 0 - 3 3 100.0 0 0 0 1 0 0 1 1 -15
+p114
+aVGreg Minor BOS 03/31/1998 BOS @ MIA L 25 3 1 4 25.0 0 1 0.0 1 3 33.3 1 2 3 5 2 0 1 1 -24
+p115
+aVDana Barros BOS 03/29/1998 BOS @ PHI L 28 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 3 0 0 1 5 -9
+p116
+aVRon Mercer BOS 03/29/1998 BOS @ PHI L 41 18 8 18 44.4 0 0 - 2 2 100.0 1 1 2 5 2 0 4 3 -8
+p117
+aVTravis Knight BOS 03/29/1998 BOS @ PHI L 19 3 1 7 14.3 0 0 - 1 1 100.0 2 3 5 1 0 1 1 3 -4
+p118
+aVWalter McCarty BOS 03/29/1998 BOS @ PHI L 33 14 5 10 50.0 0 4 0.0 4 4 100.0 2 4 6 0 1 3 1 4 -10
+p119
+aVGreg Minor BOS 03/29/1998 BOS @ PHI L 27 9 4 7 57.1 0 0 - 1 2 50.0 0 2 2 1 1 2 1 4 11
+p120
+aVZan Tabak BOS 03/29/1998 BOS @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 1 8
+p121
+aVTyus Edney BOS 03/29/1998 BOS @ PHI L 20 11 5 8 62.5 0 0 - 1 2 50.0 0 0 0 7 3 0 0 2 4
+p122
+aVAndrew DeClercq BOS 03/29/1998 BOS @ PHI L 23 2 1 2 50.0 0 0 - 0 1 0.0 1 5 6 1 2 2 0 4 -11
+p123
+aVAntoine Walker BOS 03/29/1998 BOS @ PHI L 46 32 13 23 56.5 1 3 33.3 5 6 83.3 3 11 14 5 1 1 6 3 -6
+p124
+aVDana Barros BOS 03/27/1998 BOS @ NJN W 39 14 4 12 33.3 2 5 40.0 4 4 100.0 0 3 3 7 3 1 4 5 7
+p125
+aVZan Tabak BOS 03/27/1998 BOS @ NJN W 17 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 1 1 2 4 -5
+p126
+aVWalter McCarty BOS 03/27/1998 BOS @ NJN W 25 9 3 7 42.9 1 3 33.3 2 2 100.0 0 3 3 2 0 1 3 1 -2
+p127
+aVReggie Hanson BOS 03/27/1998 BOS @ NJN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p128
+aVGreg Minor BOS 03/27/1998 BOS @ NJN W 26 7 2 4 50.0 0 0 - 3 4 75.0 0 4 4 2 0 1 1 3 6
+p129
+aVTyus Edney BOS 03/27/1998 BOS @ NJN W 9 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 1 0 1 1 1 -1
+p130
+aVAndrew DeClercq BOS 03/27/1998 BOS @ NJN W 30 4 1 3 33.3 0 0 - 2 8 25.0 4 4 8 0 1 1 2 4 10
+p131
+aVAntoine Walker BOS 03/27/1998 BOS @ NJN W 43 22 9 21 42.9 0 2 0.0 4 6 66.7 4 6 10 2 2 0 4 4 9
+p132
+aVRon Mercer BOS 03/27/1998 BOS @ NJN W 45 23 10 20 50.0 0 0 - 3 3 100.0 1 4 5 1 4 0 1 1 9
+p133
+aVGreg Minor BOS 03/25/1998 BOS vs. MIA L 23 6 3 8 37.5 0 2 0.0 0 0 - 2 2 4 3 2 0 1 0 -14
+p134
+aVZan Tabak BOS 03/25/1998 BOS vs. MIA L 21 6 3 7 42.9 0 0 - 0 0 - 4 3 7 2 0 0 0 3 -18
+p135
+aVAntoine Walker BOS 03/25/1998 BOS vs. MIA L 41 29 11 25 44.0 1 4 25.0 6 7 85.7 5 6 11 2 3 2 2 5 -9
+p136
+aVRon Mercer BOS 03/25/1998 BOS vs. MIA L 43 24 11 21 52.4 0 0 - 2 2 100.0 2 2 4 4 1 0 1 3 -14
+p137
+aVAndrew DeClercq BOS 03/25/1998 BOS vs. MIA L 26 6 1 5 20.0 0 0 - 4 6 66.7 4 4 8 2 3 1 1 4 5
+p138
+aVWalter McCarty BOS 03/25/1998 BOS vs. MIA L 37 8 4 9 44.4 0 2 0.0 0 0 - 0 4 4 3 1 1 4 4 -6
+p139
+aVTyus Edney BOS 03/25/1998 BOS vs. MIA L 14 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 5 0 0 1 0 3
+p140
+aVDana Barros BOS 03/25/1998 BOS vs. MIA L 34 9 4 12 33.3 1 5 20.0 0 0 - 1 1 2 8 0 0 0 2 -17
+p141
+aVZan Tabak BOS 03/23/1998 BOS @ CHI L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 0 -7
+p142
+aVDana Barros BOS 03/23/1998 BOS @ CHI L 33 14 5 8 62.5 4 5 80.0 0 0 - 0 3 3 7 3 0 2 2 -7
+p143
+aVRon Mercer BOS 03/23/1998 BOS @ CHI L 34 8 3 12 25.0 0 0 - 2 2 100.0 3 2 5 6 1 0 3 3 -15
+p144
+aVWalter McCarty BOS 03/23/1998 BOS @ CHI L 33 19 9 15 60.0 1 2 50.0 0 2 0.0 0 4 4 4 3 0 2 5 -3
+p145
+aVAndrew DeClercq BOS 03/23/1998 BOS @ CHI L 27 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 4 5 2
+p146
+aVBruce Bowen BOS 03/23/1998 BOS @ CHI L 22 5 2 6 33.3 0 1 0.0 1 2 50.0 1 1 2 2 2 0 0 2 -16
+p147
+aVTravis Knight BOS 03/23/1998 BOS @ CHI L 18 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 6 -14
+p148
+aVTyus Edney BOS 03/23/1998 BOS @ CHI L 15 6 1 2 50.0 0 0 - 4 4 100.0 0 1 1 2 2 0 2 0 -16
+p149
+aVGreg Minor BOS 03/23/1998 BOS @ CHI L 12 6 3 4 75.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 1 -11
+p150
+aVAntoine Walker BOS 03/23/1998 BOS @ CHI L 40 26 10 20 50.0 2 5 40.0 4 5 80.0 2 5 7 1 1 2 2 3 -28
+p151
+aVTravis Knight BOS 03/22/1998 BOS vs. PHI W 21 10 3 6 50.0 0 0 - 4 4 100.0 3 3 6 2 1 1 2 3 -1
+p152
+aVKenny Anderson BOS 03/22/1998 BOS vs. PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p153
+aVWalter McCarty BOS 03/22/1998 BOS vs. PHI W 24 11 5 8 62.5 1 3 33.3 0 0 - 2 5 7 0 0 3 2 4 8
+p154
+aVAntoine Walker BOS 03/22/1998 BOS vs. PHI W 39 25 10 20 50.0 1 2 50.0 4 8 50.0 4 6 10 3 4 1 3 2 7
+p155
+aVAndrew DeClercq BOS 03/22/1998 BOS vs. PHI W 27 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 0 1 2 3 2 19
+p156
+aVDana Barros BOS 03/22/1998 BOS vs. PHI W 38 27 9 13 69.2 4 6 66.7 5 9 55.6 0 9 9 9 2 0 2 1 20
+p157
+aVTyus Edney BOS 03/22/1998 BOS vs. PHI W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 4 -1
+p158
+aVBruce Bowen BOS 03/22/1998 BOS vs. PHI W 29 5 2 4 50.0 0 1 0.0 1 2 50.0 0 1 1 4 3 0 1 4 23
+p159
+aVGreg Minor BOS 03/22/1998 BOS vs. PHI W 8 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 0 1
+p160
+aVRon Mercer BOS 03/22/1998 BOS vs. PHI W 43 24 10 17 58.8 0 1 0.0 4 4 100.0 2 2 4 3 3 0 3 2 15
+p161
+aVAndrew DeClercq BOS 03/19/1998 BOS @ HOU L 34 9 4 6 66.7 0 0 - 1 2 50.0 5 4 9 5 5 1 2 4 2
+p162
+aVWalter McCarty BOS 03/19/1998 BOS @ HOU L 28 3 1 9 11.1 0 2 0.0 1 2 50.0 1 4 5 4 0 0 1 2 -11
+p163
+aVRon Mercer BOS 03/19/1998 BOS @ HOU L 43 31 12 24 50.0 0 0 - 7 8 87.5 3 1 4 3 6 0 0 4 -4
+p164
+aVBruce Bowen BOS 03/19/1998 BOS @ HOU L 20 9 4 6 66.7 1 1 100.0 0 0 - 1 1 2 2 0 0 0 4 -6
+p165
+aVTyus Edney BOS 03/19/1998 BOS @ HOU L 3 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 5
+p166
+aVAntoine Walker BOS 03/19/1998 BOS @ HOU L 41 23 8 24 33.3 3 6 50.0 4 6 66.7 2 6 8 0 0 0 2 5 -4
+p167
+aVDana Barros BOS 03/19/1998 BOS @ HOU L 28 12 6 14 42.9 0 4 0.0 0 0 - 1 1 2 4 0 0 2 1 -13
+p168
+aVGreg Minor BOS 03/19/1998 BOS @ HOU L 10 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -4
+p169
+aVKenny Anderson BOS 03/19/1998 BOS @ HOU L 17 3 1 4 25.0 0 0 - 1 1 100.0 0 1 1 4 0 0 1 3 -1
+p170
+aVTravis Knight BOS 03/19/1998 BOS @ HOU L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 2 1 0 3 -9
+p171
+aVZan Tabak BOS 03/19/1998 BOS @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p172
+aVGreg Minor BOS 03/17/1998 BOS @ DAL L 15 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 2
+p173
+aVWalter McCarty BOS 03/17/1998 BOS @ DAL L 41 10 5 15 33.3 0 3 0.0 0 0 - 5 0 5 1 2 0 4 4 -11
+p174
+aVAntoine Walker BOS 03/17/1998 BOS @ DAL L 41 23 10 25 40.0 0 1 0.0 3 5 60.0 2 6 8 3 3 1 4 2 0
+p175
+aVDana Barros BOS 03/17/1998 BOS @ DAL L 15 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 2 0 0 1 0 -5
+p176
+aVRon Mercer BOS 03/17/1998 BOS @ DAL L 35 18 7 15 46.7 0 0 - 4 5 80.0 1 3 4 0 1 2 1 5 -5
+p177
+aVAndrew DeClercq BOS 03/17/1998 BOS @ DAL L 28 6 3 6 50.0 0 0 - 0 2 0.0 3 7 10 2 1 1 0 1 -1
+p178
+aVKenny Anderson BOS 03/17/1998 BOS @ DAL L 33 16 6 15 40.0 1 3 33.3 3 3 100.0 0 5 5 6 5 0 0 4 -1
+p179
+aVBruce Bowen BOS 03/17/1998 BOS @ DAL L 12 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 -4
+p180
+aVTravis Knight BOS 03/17/1998 BOS @ DAL L 20 12 6 7 85.7 0 0 - 0 0 - 4 4 8 2 1 2 0 3 -5
+p181
+aVTravis Knight BOS 03/15/1998 BOS @ ATL L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 -1
+p182
+aVDontae' Jones BOS 03/15/1998 BOS @ ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 5
+p183
+aVDana Barros BOS 03/15/1998 BOS @ ATL L 25 5 2 6 33.3 1 4 25.0 0 0 - 1 1 2 4 0 0 1 5 -18
+p184
+aVGreg Minor BOS 03/15/1998 BOS @ ATL L 27 8 4 9 44.4 0 0 - 0 0 - 1 2 3 5 2 0 1 1 -4
+p185
+aVRon Mercer BOS 03/15/1998 BOS @ ATL L 35 14 6 17 35.3 0 0 - 2 2 100.0 0 1 1 4 3 0 2 1 -5
+p186
+aVTyus Edney BOS 03/15/1998 BOS @ ATL L 23 12 4 10 40.0 0 1 0.0 4 4 100.0 3 0 3 6 2 0 3 3 2
+p187
+aVBruce Bowen BOS 03/15/1998 BOS @ ATL L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p188
+aVAndrew DeClercq BOS 03/15/1998 BOS @ ATL L 38 12 5 9 55.6 0 0 - 2 4 50.0 5 5 10 1 2 3 5 3 -5
+p189
+aVAntoine Walker BOS 03/15/1998 BOS @ ATL L 40 16 7 19 36.8 0 2 0.0 2 2 100.0 2 7 9 1 0 1 3 3 -23
+p190
+aVWalter McCarty BOS 03/15/1998 BOS @ ATL L 18 7 3 11 27.3 0 2 0.0 1 2 50.0 1 2 3 0 1 0 0 2 -20
+p191
+aVZan Tabak BOS 03/15/1998 BOS @ ATL L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -3
+p192
+aVTyus Edney BOS 03/13/1998 BOS vs. DET L 23 9 3 7 42.9 0 0 - 3 3 100.0 1 2 3 7 2 0 3 3 6
+p193
+aVZan Tabak BOS 03/13/1998 BOS vs. DET L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 0
+p194
+aVAntoine Walker BOS 03/13/1998 BOS vs. DET L 43 19 8 25 32.0 1 3 33.3 2 4 50.0 8 10 18 1 2 0 8 3 1
+p195
+aVRon Mercer BOS 03/13/1998 BOS vs. DET L 40 16 7 17 41.2 0 0 - 2 2 100.0 1 1 2 1 0 0 1 4 2
+p196
+aVKenny Anderson BOS 03/13/1998 BOS vs. DET L 9 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 2 1 0 1 1 0
+p197
+aVWalter McCarty BOS 03/13/1998 BOS vs. DET L 28 14 5 7 71.4 3 4 75.0 1 2 50.0 1 1 2 3 2 1 2 4 3
+p198
+aVAndrew DeClercq BOS 03/13/1998 BOS vs. DET L 18 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 0 0 6 -6
+p199
+aVGreg Minor BOS 03/13/1998 BOS vs. DET L 15 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 0 1 0 0 2 4
+p200
+aVBruce Bowen BOS 03/13/1998 BOS vs. DET L 24 5 1 5 20.0 0 2 0.0 3 4 75.0 1 3 4 1 1 0 0 2 -7
+p201
+aVTravis Knight BOS 03/13/1998 BOS vs. DET L 20 6 2 4 50.0 0 0 - 2 2 100.0 3 3 6 0 0 1 1 4 -13
+p202
+aVDana Barros BOS 03/13/1998 BOS vs. DET L 16 5 1 5 20.0 0 2 0.0 3 4 75.0 0 1 1 4 1 0 2 2 -10
+p203
+aVAntoine Walker BOS 03/11/1998 BOS vs. ATL L 35 24 10 18 55.6 2 2 100.0 2 2 100.0 0 6 6 0 0 0 4 5 -13
+p204
+aVRon Mercer BOS 03/11/1998 BOS vs. ATL L 23 6 3 7 42.9 0 0 - 0 0 - 0 1 1 5 1 1 2 4 -12
+p205
+aVBruce Bowen BOS 03/11/1998 BOS vs. ATL L 37 16 5 12 41.7 2 4 50.0 4 4 100.0 0 1 1 2 5 1 0 3 2
+p206
+aVTravis Knight BOS 03/11/1998 BOS vs. ATL L 21 2 1 5 20.0 0 0 - 0 0 - 3 2 5 1 1 0 2 1 -9
+p207
+aVGreg Minor BOS 03/11/1998 BOS vs. ATL L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -9
+p208
+aVPervis Ellison BOS 03/11/1998 BOS vs. ATL L 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 12
+p209
+aVAndrew DeClercq BOS 03/11/1998 BOS vs. ATL L 26 8 3 7 42.9 0 0 - 2 2 100.0 6 3 9 1 0 2 1 3 -5
+p210
+aVDana Barros BOS 03/11/1998 BOS vs. ATL L 17 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 7 1 0 3 3 9
+p211
+aVWalter McCarty BOS 03/11/1998 BOS vs. ATL L 29 19 7 12 58.3 1 2 50.0 4 4 100.0 1 3 4 2 2 0 1 3 10
+p212
+aVKenny Anderson BOS 03/11/1998 BOS vs. ATL L 32 19 6 11 54.5 2 2 100.0 5 6 83.3 0 2 2 5 1 0 3 2 -10
+p213
+aVKenny Anderson BOS 03/08/1998 BOS @ IND L 33 17 7 13 53.8 0 1 0.0 3 5 60.0 1 3 4 12 0 0 4 3 -13
+p214
+aVAntoine Walker BOS 03/08/1998 BOS @ IND L 27 15 7 15 46.7 0 0 - 1 2 50.0 1 7 8 1 1 1 1 3 -21
+p215
+aVTravis Knight BOS 03/08/1998 BOS @ IND L 28 12 6 9 66.7 0 0 - 0 0 - 5 1 6 0 0 1 2 4 9
+p216
+aVWalter McCarty BOS 03/08/1998 BOS @ IND L 20 6 3 11 27.3 0 3 0.0 0 1 0.0 2 2 4 0 3 0 2 3 -6
+p217
+aVAndrew DeClercq BOS 03/08/1998 BOS @ IND L 35 12 3 7 42.9 0 0 - 6 8 75.0 4 4 8 1 3 0 5 2 8
+p218
+aVBruce Bowen BOS 03/08/1998 BOS @ IND L 14 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 5 8
+p219
+aVDana Barros BOS 03/08/1998 BOS @ IND L 15 9 3 5 60.0 1 1 100.0 2 2 100.0 0 0 0 2 0 0 0 0 10
+p220
+aVRon Mercer BOS 03/08/1998 BOS @ IND L 43 16 6 13 46.2 0 1 0.0 4 4 100.0 5 2 7 0 1 0 1 3 -8
+p221
+aVGreg Minor BOS 03/08/1998 BOS @ IND L 24 5 1 6 16.7 0 1 0.0 3 4 75.0 1 3 4 1 2 0 2 2 -7
+p222
+aVPervis Ellison BOS 03/06/1998 BOS vs. WAS W 8 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 2 1 3
+p223
+aVDana Barros BOS 03/06/1998 BOS vs. WAS W 13 2 1 8 12.5 0 4 0.0 0 0 - 0 1 1 6 1 0 0 2 4
+p224
+aVAntoine Walker BOS 03/06/1998 BOS vs. WAS W 42 35 16 26 61.5 0 1 0.0 3 5 60.0 5 8 13 3 2 1 2 4 16
+p225
+aVRon Mercer BOS 03/06/1998 BOS vs. WAS W 39 24 10 18 55.6 0 0 - 4 5 80.0 2 3 5 2 4 0 1 2 10
+p226
+aVTravis Knight BOS 03/06/1998 BOS vs. WAS W 20 10 5 7 71.4 0 0 - 0 0 - 3 0 3 2 1 1 0 3 -12
+p227
+aVBruce Bowen BOS 03/06/1998 BOS vs. WAS W 21 3 0 2 0.0 0 1 0.0 3 6 50.0 3 2 5 1 1 2 1 3 4
+p228
+aVKenny Anderson BOS 03/06/1998 BOS vs. WAS W 35 11 5 16 31.3 1 4 25.0 0 0 - 0 2 2 10 3 0 0 1 6
+p229
+aVGreg Minor BOS 03/06/1998 BOS vs. WAS W 22 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 1 0 2 1 -3
+p230
+aVWalter McCarty BOS 03/06/1998 BOS vs. WAS W 26 8 3 6 50.0 1 2 50.0 1 2 50.0 3 2 5 1 2 0 0 3 5
+p231
+aVAndrew DeClercq BOS 03/06/1998 BOS vs. WAS W 15 9 1 2 50.0 0 0 - 7 8 87.5 1 2 3 1 1 0 0 4 17
+p232
+aVWalter McCarty BOS 03/04/1998 BOS vs. UTA L 16 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 2 1 1 1 2 -14
+p233
+aVGreg Minor BOS 03/04/1998 BOS vs. UTA L 24 7 3 4 75.0 0 0 - 1 1 100.0 1 2 3 0 1 0 1 1 1
+p234
+aVTyus Edney BOS 03/04/1998 BOS vs. UTA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 3 0 -8
+p235
+aVAntoine Walker BOS 03/04/1998 BOS vs. UTA L 41 36 14 25 56.0 0 4 0.0 8 12 66.7 3 7 10 1 3 1 1 5 -14
+p236
+aVDana Barros BOS 03/04/1998 BOS vs. UTA L 14 9 3 4 75.0 1 1 100.0 2 2 100.0 0 0 0 2 1 0 3 2 -8
+p237
+aVPervis Ellison BOS 03/04/1998 BOS vs. UTA L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 2 1 0 0 2 4
+p238
+aVKenny Anderson BOS 03/04/1998 BOS vs. UTA L 30 10 4 10 40.0 0 3 0.0 2 2 100.0 0 2 2 4 3 0 5 3 0
+p239
+aVTravis Knight BOS 03/04/1998 BOS vs. UTA L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 1 2 0 4 -16
+p240
+aVBruce Bowen BOS 03/04/1998 BOS vs. UTA L 31 9 2 9 22.2 0 3 0.0 5 8 62.5 4 2 6 1 3 0 1 2 -20
+p241
+aVRon Mercer BOS 03/04/1998 BOS vs. UTA L 39 15 6 15 40.0 0 0 - 3 3 100.0 4 1 5 3 1 0 2 3 -9
+p242
+aVAndrew DeClercq BOS 03/04/1998 BOS vs. UTA L 21 3 1 1 100.0 0 0 - 1 4 25.0 0 3 3 2 1 1 1 6 4
+p243
+aVWalter McCarty BOS 03/01/1998 BOS vs. POR W 16 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 14
+p244
+aVAntoine Walker BOS 03/01/1998 BOS vs. POR W 36 25 9 19 47.4 1 2 50.0 6 10 60.0 3 8 11 3 0 1 4 4 -18
+p245
+aVDana Barros BOS 03/01/1998 BOS vs. POR W 20 14 5 8 62.5 1 1 100.0 3 4 75.0 0 1 1 5 0 0 1 1 19
+p246
+aVPervis Ellison BOS 03/01/1998 BOS vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p247
+aVGreg Minor BOS 03/01/1998 BOS vs. POR W 35 14 6 11 54.5 1 3 33.3 1 2 50.0 2 7 9 2 5 0 0 2 0
+p248
+aVAndrew DeClercq BOS 03/01/1998 BOS vs. POR W 25 7 3 6 50.0 0 0 - 1 2 50.0 2 3 5 1 2 0 4 4 -16
+p249
+aVRon Mercer BOS 03/01/1998 BOS vs. POR W 27 6 3 8 37.5 0 0 - 0 0 - 0 2 2 1 0 0 2 2 -26
+p250
+aVKenny Anderson BOS 03/01/1998 BOS vs. POR W 29 18 5 13 38.5 1 3 33.3 7 9 77.8 0 2 2 7 2 0 3 2 -20
+p251
+aVBruce Bowen BOS 03/01/1998 BOS vs. POR W 23 5 1 4 25.0 1 2 50.0 2 2 100.0 0 2 2 3 2 3 3 1 24
+p252
+aVTravis Knight BOS 03/01/1998 BOS vs. POR W 25 11 5 8 62.5 0 0 - 1 2 50.0 3 2 5 2 1 1 1 3 26
+p253
+aVTyus Edney BOS 02/27/1998 BOS vs. GSW W 10 6 3 5 60.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 3
+p254
+aVDontae' Jones BOS 02/27/1998 BOS vs. GSW W 12 15 6 11 54.5 3 7 42.9 0 0 - 0 1 1 2 0 0 1 0 4
+p255
+aVAntoine Walker BOS 02/27/1998 BOS vs. GSW W 27 21 10 20 50.0 1 5 20.0 0 0 - 3 7 10 7 3 1 1 3 27
+p256
+aVGreg Minor BOS 02/27/1998 BOS vs. GSW W 28 15 6 12 50.0 0 1 0.0 3 3 100.0 4 2 6 1 0 0 0 2 14
+p257
+aVBruce Bowen BOS 02/27/1998 BOS vs. GSW W 19 5 1 4 25.0 1 1 100.0 2 4 50.0 0 1 1 1 0 1 1 1 6
+p258
+aVTravis Knight BOS 02/27/1998 BOS vs. GSW W 20 8 3 6 50.0 0 0 - 2 2 100.0 4 7 11 1 1 3 2 3 8
+p259
+aVWalter McCarty BOS 02/27/1998 BOS vs. GSW W 29 4 2 9 22.2 0 2 0.0 0 0 - 3 3 6 2 0 1 3 5 17
+p260
+aVDana Barros BOS 02/27/1998 BOS vs. GSW W 16 6 3 4 75.0 0 1 0.0 0 0 - 1 3 4 2 1 0 2 0 1
+p261
+aVAndrew DeClercq BOS 02/27/1998 BOS vs. GSW W 12 7 3 6 50.0 0 0 - 1 2 50.0 2 3 5 3 1 0 1 3 17
+p262
+aVRon Mercer BOS 02/27/1998 BOS vs. GSW W 28 24 10 14 71.4 0 0 - 4 4 100.0 0 4 4 6 0 0 0 4 32
+p263
+aVKenny Anderson BOS 02/27/1998 BOS vs. GSW W 23 7 3 6 50.0 1 1 100.0 0 0 - 2 2 4 10 3 0 0 3 28
+p264
+aVPervis Ellison BOS 02/27/1998 BOS vs. GSW W 16 2 1 3 33.3 0 0 - 0 0 - 3 2 5 2 0 0 1 2 3
+p265
+aVKenny Anderson BOS 02/25/1998 BOS vs. SAC W 31 21 8 12 66.7 2 4 50.0 3 3 100.0 0 3 3 9 3 0 0 2 7
+p266
+aVTravis Knight BOS 02/25/1998 BOS vs. SAC W 12 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 2 0 5 2
+p267
+aVBruce Bowen BOS 02/25/1998 BOS vs. SAC W 23 2 1 3 33.3 0 2 0.0 0 0 - 0 5 5 1 2 0 0 3 1
+p268
+aVTyus Edney BOS 02/25/1998 BOS vs. SAC W 3 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 1 1 0
+p269
+aVAntoine Walker BOS 02/25/1998 BOS vs. SAC W 32 25 10 23 43.5 1 4 25.0 4 5 80.0 4 6 10 1 0 0 6 5 1
+p270
+aVDontae' Jones BOS 02/25/1998 BOS vs. SAC W 3 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p271
+aVDana Barros BOS 02/25/1998 BOS vs. SAC W 14 14 6 10 60.0 2 5 40.0 0 0 - 0 2 2 3 1 0 0 1 10
+p272
+aVPervis Ellison BOS 02/25/1998 BOS vs. SAC W 19 8 4 8 50.0 0 0 - 0 0 - 4 1 5 1 0 0 1 2 6
+p273
+aVWalter McCarty BOS 02/25/1998 BOS vs. SAC W 20 4 2 3 66.7 0 1 0.0 0 0 - 1 2 3 3 2 0 0 2 16
+p274
+aVAndrew DeClercq BOS 02/25/1998 BOS vs. SAC W 18 7 2 7 28.6 0 0 - 3 4 75.0 4 0 4 1 1 2 0 3 7
+p275
+aVGreg Minor BOS 02/25/1998 BOS vs. SAC W 23 9 4 9 44.4 1 1 100.0 0 0 - 3 2 5 1 3 0 0 3 12
+p276
+aVRon Mercer BOS 02/25/1998 BOS vs. SAC W 42 15 7 15 46.7 0 0 - 1 2 50.0 2 4 6 6 5 0 4 2 23
+p277
+aVTravis Knight BOS 02/22/1998 BOS @ POR L 15 2 1 5 20.0 0 0 - 0 0 - 2 1 3 0 0 2 1 3 -16
+p278
+aVWalter McCarty BOS 02/22/1998 BOS @ POR L 24 2 0 5 0.0 0 2 0.0 2 2 100.0 1 1 2 3 3 1 2 3 -2
+p279
+aVAntoine Walker BOS 02/22/1998 BOS @ POR L 33 17 7 19 36.8 1 2 50.0 2 6 33.3 2 3 5 0 0 4 3 1 -30
+p280
+aVKenny Anderson BOS 02/22/1998 BOS @ POR L 33 14 5 9 55.6 1 1 100.0 3 3 100.0 0 2 2 8 0 0 1 3 -13
+p281
+aVBruce Bowen BOS 02/22/1998 BOS @ POR L 12 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 1 1
+p282
+aVGreg Minor BOS 02/22/1998 BOS @ POR L 29 6 3 9 33.3 0 2 0.0 0 1 0.0 0 3 3 3 1 1 1 1 -22
+p283
+aVAndrew DeClercq BOS 02/22/1998 BOS @ POR L 24 10 5 8 62.5 0 0 - 0 0 - 1 3 4 0 1 0 1 2 -10
+p284
+aVRon Mercer BOS 02/22/1998 BOS @ POR L 40 28 11 19 57.9 0 0 - 6 6 100.0 0 3 3 1 0 0 0 1 -14
+p285
+aVPervis Ellison BOS 02/22/1998 BOS @ POR L 9 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 1 1 0 3 1
+p286
+aVTyus Edney BOS 02/22/1998 BOS @ POR L 15 11 4 5 80.0 1 1 100.0 2 2 100.0 0 2 2 1 1 0 1 1 -12
+p287
+aVDontae' Jones BOS 02/22/1998 BOS @ POR L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -8
+p288
+aVRon Mercer BOS 02/20/1998 BOS @ SEA W 31 17 8 16 50.0 0 0 - 1 2 50.0 2 2 4 0 2 1 0 4 18
+p289
+aVAntoine Walker BOS 02/20/1998 BOS @ SEA W 42 16 7 15 46.7 0 3 0.0 2 6 33.3 1 5 6 6 0 0 2 0 12
+p290
+aVPervis Ellison BOS 02/20/1998 BOS @ SEA W 19 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 1 1 1 1 3 -7
+p291
+aVTyus Edney BOS 02/20/1998 BOS @ SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 0 1
+p292
+aVKenny Anderson BOS 02/20/1998 BOS @ SEA W 23 19 7 15 46.7 1 1 100.0 4 6 66.7 0 3 3 4 2 0 3 1 12
+p293
+aVTravis Knight BOS 02/20/1998 BOS @ SEA W 13 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 3 0 0 4 2
+p294
+aVDana Barros BOS 02/20/1998 BOS @ SEA W 22 12 5 11 45.5 2 6 33.3 0 0 - 1 3 4 6 1 0 2 0 -1
+p295
+aVGreg Minor BOS 02/20/1998 BOS @ SEA W 27 13 5 7 71.4 0 0 - 3 3 100.0 1 3 4 3 2 0 2 4 14
+p296
+aVBruce Bowen BOS 02/20/1998 BOS @ SEA W 19 9 2 6 33.3 0 1 0.0 5 5 100.0 3 4 7 0 1 1 1 2 -11
+p297
+aVWalter McCarty BOS 02/20/1998 BOS @ SEA W 27 10 4 11 36.4 1 2 50.0 1 2 50.0 3 1 4 4 1 1 2 2 1
+p298
+aVAndrew DeClercq BOS 02/20/1998 BOS @ SEA W 13 2 1 1 100.0 0 0 - 0 1 0.0 0 4 4 0 0 0 0 3 9
+p299
+aVDana Barros BOS 02/18/1998 BOS @ VAN W 37 29 11 18 61.1 3 6 50.0 4 5 80.0 0 2 2 1 7 1 2 3 3
+p300
+aVWalter McCarty BOS 02/18/1998 BOS @ VAN W 30 6 2 9 22.2 0 1 0.0 2 2 100.0 3 1 4 5 2 1 1 2 3
+p301
+aVRon Mercer BOS 02/18/1998 BOS @ VAN W 42 16 7 17 41.2 0 0 - 2 2 100.0 0 7 7 3 2 0 0 1 22
+p302
+aVAndrew DeClercq BOS 02/18/1998 BOS @ VAN W 26 17 6 8 75.0 0 0 - 5 5 100.0 4 8 12 0 0 1 2 2 3
+p303
+aVGreg Minor BOS 02/18/1998 BOS @ VAN W 13 6 0 2 0.0 0 1 0.0 6 6 100.0 1 1 2 1 1 0 0 3 9
+p304
+aVTyus Edney BOS 02/18/1998 BOS @ VAN W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 4 0 0 0 0 5
+p305
+aVTravis Knight BOS 02/18/1998 BOS @ VAN W 13 2 1 3 33.3 0 0 - 0 0 - 2 4 6 2 1 0 0 3 4
+p306
+aVBruce Bowen BOS 02/18/1998 BOS @ VAN W 26 7 1 7 14.3 0 0 - 5 8 62.5 5 0 5 0 1 0 1 1 -6
+p307
+aVAntoine Walker BOS 02/18/1998 BOS @ VAN W 43 27 9 19 47.4 0 1 0.0 9 14 64.3 5 2 7 6 2 0 5 2 2
+p308
+aVWalter McCarty BOS 02/17/1998 BOS @ SAC L 32 20 6 9 66.7 0 1 0.0 8 11 72.7 1 6 7 1 2 1 2 6 0
+p309
+aVRon Mercer BOS 02/17/1998 BOS @ SAC L 34 16 7 15 46.7 0 0 - 2 2 100.0 1 3 4 2 0 0 1 5 5
+p310
+aVTravis Knight BOS 02/17/1998 BOS @ SAC L 18 4 2 8 25.0 0 0 - 0 0 - 2 3 5 0 0 0 2 2 -13
+p311
+aVRoy Rogers BOS 02/17/1998 BOS @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p312
+aVAndrew DeClercq BOS 02/17/1998 BOS @ SAC L 29 4 2 6 33.3 0 0 - 0 0 - 3 2 5 2 2 0 1 3 6
+p313
+aVAntoine Walker BOS 02/17/1998 BOS @ SAC L 39 18 3 15 20.0 0 0 - 12 16 75.0 6 11 17 3 0 2 1 3 -11
+p314
+aVBruce Bowen BOS 02/17/1998 BOS @ SAC L 26 15 6 6 100.0 0 0 - 3 6 50.0 1 0 1 0 4 0 0 5 -1
+p315
+aVGreg Minor BOS 02/17/1998 BOS @ SAC L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 3 1
+p316
+aVTyus Edney BOS 02/17/1998 BOS @ SAC L 21 7 3 4 75.0 0 1 0.0 1 2 50.0 0 1 1 8 3 0 5 0 -5
+p317
+aVDana Barros BOS 02/17/1998 BOS @ SAC L 27 13 6 13 46.2 1 4 25.0 0 0 - 1 0 1 3 2 0 4 1 2
+p318
+aVChauncey Billups BOS 02/15/1998 BOS @ GSW L 27 7 3 6 50.0 1 4 25.0 0 2 0.0 0 1 1 5 1 0 2 2 -6
+p319
+aVAndrew DeClercq BOS 02/15/1998 BOS @ GSW L 30 10 4 7 57.1 0 0 - 2 2 100.0 7 1 8 0 0 1 1 3 -8
+p320
+aVDana Barros BOS 02/15/1998 BOS @ GSW L 21 11 4 10 40.0 1 5 20.0 2 2 100.0 0 2 2 1 1 0 4 1 -8
+p321
+aVAntoine Walker BOS 02/15/1998 BOS @ GSW L 44 26 8 29 27.6 1 5 20.0 9 10 90.0 7 5 12 6 3 1 0 2 -7
+p322
+aVBruce Bowen BOS 02/15/1998 BOS @ GSW L 14 0 0 2 0.0 0 0 - 0 2 0.0 3 1 4 0 0 1 1 0 -3
+p323
+aVWalter McCarty BOS 02/15/1998 BOS @ GSW L 29 6 2 8 25.0 1 3 33.3 1 2 50.0 2 0 2 3 1 0 1 4 -11
+p324
+aVDee Brown BOS 02/15/1998 BOS @ GSW L 22 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 3 0 0 1 -5
+p325
+aVGreg Minor BOS 02/15/1998 BOS @ GSW L 7 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -3
+p326
+aVRon Mercer BOS 02/15/1998 BOS @ GSW L 34 20 10 22 45.5 0 0 - 0 0 - 4 2 6 4 5 1 7 3 -10
+p327
+aVTravis Knight BOS 02/15/1998 BOS @ GSW L 10 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 1 4 -9
+p328
+aVRon Mercer BOS 02/13/1998 BOS @ LAC W 29 11 5 14 35.7 0 0 - 1 1 100.0 0 2 2 0 3 0 3 2 -13
+p329
+aVDee Brown BOS 02/13/1998 BOS @ LAC W 32 12 4 11 36.4 2 6 33.3 2 4 50.0 0 2 2 0 2 0 1 4 16
+p330
+aVTravis Knight BOS 02/13/1998 BOS @ LAC W 18 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 1 0 2 1 5 -9
+p331
+aVAntoine Walker BOS 02/13/1998 BOS @ LAC W 45 28 9 21 42.9 0 0 - 10 12 83.3 3 10 13 2 1 0 4 1 1
+p332
+aVChauncey Billups BOS 02/13/1998 BOS @ LAC W 32 21 7 12 58.3 3 4 75.0 4 6 66.7 3 3 6 2 1 0 3 1 -7
+p333
+aVBruce Bowen BOS 02/13/1998 BOS @ LAC W 17 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 2 1 0 0 3 9
+p334
+aVGreg Minor BOS 02/13/1998 BOS @ LAC W 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 3 1 -7
+p335
+aVAndrew DeClercq BOS 02/13/1998 BOS @ LAC W 29 5 2 3 66.7 0 0 - 1 1 100.0 5 5 10 1 1 0 1 5 12
+p336
+aVWalter McCarty BOS 02/13/1998 BOS @ LAC W 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 1 0 3 -2
+p337
+aVJohn Thomas BOS 02/13/1998 BOS @ LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p338
+aVDana Barros BOS 02/13/1998 BOS @ LAC W 16 11 5 8 62.5 1 1 100.0 0 1 0.0 0 1 1 1 2 0 0 2 8
+p339
+aVJohn Thomas BOS 02/12/1998 BOS @ UTA L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 1 1 4 -8
+p340
+aVChauncey Billups BOS 02/12/1998 BOS @ UTA L 30 15 4 9 44.4 2 6 33.3 5 5 100.0 0 2 2 9 1 1 3 4 -10
+p341
+aVTravis Knight BOS 02/12/1998 BOS @ UTA L 29 7 2 3 66.7 0 0 - 3 4 75.0 5 4 9 3 2 1 1 2 6
+p342
+aVAntoine Walker BOS 02/12/1998 BOS @ UTA L 41 15 6 18 33.3 0 3 0.0 3 4 75.0 4 5 9 1 0 1 3 3 -19
+p343
+aVAndrew DeClercq BOS 02/12/1998 BOS @ UTA L 15 6 3 5 60.0 0 1 0.0 0 0 - 2 5 7 0 2 0 3 5 -4
+p344
+aVDee Brown BOS 02/12/1998 BOS @ UTA L 32 12 4 10 40.0 2 6 33.3 2 2 100.0 0 1 1 2 2 1 2 2 -26
+p345
+aVGreg Minor BOS 02/12/1998 BOS @ UTA L 10 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -2
+p346
+aVRon Mercer BOS 02/12/1998 BOS @ UTA L 29 24 8 15 53.3 0 0 - 8 8 100.0 1 4 5 1 2 1 0 2 -16
+p347
+aVBruce Bowen BOS 02/12/1998 BOS @ UTA L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -1
+p348
+aVDana Barros BOS 02/12/1998 BOS @ UTA L 18 10 2 6 33.3 0 1 0.0 6 8 75.0 0 0 0 2 1 0 2 2 -8
+p349
+aVWalter McCarty BOS 02/12/1998 BOS @ UTA L 15 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 3 1 0 1 3 -2
+p350
+aVJohn Thomas BOS 02/10/1998 BOS @ DEN L 9 5 1 4 25.0 0 0 - 3 3 100.0 1 2 3 0 1 0 1 2 12
+p351
+aVRon Mercer BOS 02/10/1998 BOS @ DEN L 32 19 7 18 38.9 0 0 - 5 6 83.3 3 0 3 4 2 0 1 4 9
+p352
+aVGreg Minor BOS 02/10/1998 BOS @ DEN L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 3 10
+p353
+aVDana Barros BOS 02/10/1998 BOS @ DEN L 21 10 2 8 25.0 0 2 0.0 6 8 75.0 1 2 3 3 3 0 2 1 -6
+p354
+aVBruce Bowen BOS 02/10/1998 BOS @ DEN L 14 6 3 3 100.0 0 0 - 0 2 0.0 1 0 1 0 1 0 1 2 -1
+p355
+aVChauncey Billups BOS 02/10/1998 BOS @ DEN L 27 15 4 13 30.8 1 6 16.7 6 8 75.0 3 5 8 3 0 0 1 4 -7
+p356
+aVWalter McCarty BOS 02/10/1998 BOS @ DEN L 22 9 4 11 36.4 1 4 25.0 0 0 - 3 0 3 0 2 0 1 3 -27
+p357
+aVTravis Knight BOS 02/10/1998 BOS @ DEN L 19 2 0 4 0.0 0 0 - 2 2 100.0 2 3 5 1 1 1 1 4 3
+p358
+aVAntoine Walker BOS 02/10/1998 BOS @ DEN L 33 10 5 22 22.7 0 1 0.0 0 4 0.0 6 3 9 4 0 0 2 1 -17
+p359
+aVDee Brown BOS 02/10/1998 BOS @ DEN L 25 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 1 1 0 1 3 -25
+p360
+aVAndrew DeClercq BOS 02/10/1998 BOS @ DEN L 29 10 2 6 33.3 0 0 - 6 6 100.0 9 0 9 1 2 0 2 3 -16
+p361
+aVAndrew DeClercq BOS 02/04/1998 BOS vs. DAL W 25 9 4 7 57.1 0 0 - 1 1 100.0 2 2 4 3 1 0 0 4 2
+p362
+aVRon Mercer BOS 02/04/1998 BOS vs. DAL W 27 8 4 10 40.0 0 0 - 0 0 - 1 3 4 2 0 0 2 0 13
+p363
+aVAntoine Walker BOS 02/04/1998 BOS vs. DAL W 33 8 3 11 27.3 1 2 50.0 1 2 50.0 1 5 6 4 1 0 3 3 20
+p364
+aVDee Brown BOS 02/04/1998 BOS vs. DAL W 31 32 12 15 80.0 8 10 80.0 0 2 0.0 0 2 2 0 3 0 0 5 9
+p365
+aVGreg Minor BOS 02/04/1998 BOS vs. DAL W 11 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 0
+p366
+aVTravis Knight BOS 02/04/1998 BOS vs. DAL W 16 3 1 6 16.7 0 0 - 1 2 50.0 1 4 5 4 0 1 2 5 7
+p367
+aVDana Barros BOS 02/04/1998 BOS vs. DAL W 14 16 6 7 85.7 3 3 100.0 1 1 100.0 0 0 0 4 4 0 1 1 12
+p368
+aVJohn Thomas BOS 02/04/1998 BOS vs. DAL W 12 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 0 1 0 2 3 9
+p369
+aVWalter McCarty BOS 02/04/1998 BOS vs. DAL W 19 12 5 9 55.6 1 1 100.0 1 2 50.0 1 2 3 0 0 0 1 5 -20
+p370
+aVTyus Edney BOS 02/04/1998 BOS vs. DAL W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 1 0 0 1 -2
+p371
+aVChauncey Billups BOS 02/04/1998 BOS vs. DAL W 28 8 4 6 66.7 0 2 0.0 0 0 - 0 1 1 13 1 0 2 1 1
+p372
+aVBruce Bowen BOS 02/04/1998 BOS vs. DAL W 18 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 2 0 0 1 4
+p373
+aVAndrew DeClercq BOS 02/03/1998 BOS @ CHH L 27 11 5 7 71.4 0 0 - 1 2 50.0 5 2 7 0 0 1 0 5 -4
+p374
+aVBruce Bowen BOS 02/03/1998 BOS @ CHH L 25 8 3 7 42.9 0 2 0.0 2 3 66.7 0 3 3 2 1 0 1 2 -5
+p375
+aVChauncey Billups BOS 02/03/1998 BOS @ CHH L 24 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 5 1 1 1 4 7
+p376
+aVTyus Edney BOS 02/03/1998 BOS @ CHH L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p377
+aVDana Barros BOS 02/03/1998 BOS @ CHH L 23 14 4 12 33.3 2 5 40.0 4 5 80.0 2 2 4 1 1 0 2 2 -9
+p378
+aVGreg Minor BOS 02/03/1998 BOS @ CHH L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -6
+p379
+aVWalter McCarty BOS 02/03/1998 BOS @ CHH L 20 9 4 8 50.0 1 3 33.3 0 0 - 0 5 5 2 0 0 1 4 5
+p380
+aVDee Brown BOS 02/03/1998 BOS @ CHH L 41 20 7 16 43.8 4 8 50.0 2 3 66.7 1 3 4 1 1 1 1 1 -2
+p381
+aVTravis Knight BOS 02/03/1998 BOS @ CHH L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 1 0 1 3 1
+p382
+aVJohn Thomas BOS 02/03/1998 BOS @ CHH L 13 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 -1
+p383
+aVAntoine Walker BOS 02/03/1998 BOS @ CHH L 44 23 8 23 34.8 0 4 0.0 7 9 77.8 6 10 16 5 2 0 7 4 -4
+p384
+aVDana Barros BOS 02/01/1998 BOS vs. HOU W 33 23 8 18 44.4 3 7 42.9 4 5 80.0 0 4 4 8 4 0 0 4 11
+p385
+aVAntoine Walker BOS 02/01/1998 BOS vs. HOU W 43 27 10 21 47.6 4 7 57.1 3 4 75.0 8 6 14 10 1 1 5 0 6
+p386
+aVChauncey Billups BOS 02/01/1998 BOS vs. HOU W 11 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 5 3
+p387
+aVTravis Knight BOS 02/01/1998 BOS vs. HOU W 24 21 8 9 88.9 0 0 - 5 6 83.3 2 2 4 2 1 1 2 4 12
+p388
+aVBruce Bowen BOS 02/01/1998 BOS vs. HOU W 21 10 4 5 80.0 2 2 100.0 0 0 - 2 3 5 1 0 0 1 1 21
+p389
+aVGreg Minor BOS 02/01/1998 BOS vs. HOU W 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -5
+p390
+aVJohn Thomas BOS 02/01/1998 BOS vs. HOU W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 3 -8
+p391
+aVDee Brown BOS 02/01/1998 BOS vs. HOU W 21 7 3 8 37.5 1 3 33.3 0 0 - 1 1 2 1 3 0 2 2 -1
+p392
+aVWalter McCarty BOS 02/01/1998 BOS vs. HOU W 28 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 4 2 1 1 3 -1
+p393
+aVAndrew DeClercq BOS 02/01/1998 BOS vs. HOU W 11 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 1 0 0 3 7
+p394
+aVRon Mercer BOS 02/01/1998 BOS vs. HOU W 31 7 3 12 25.0 0 3 0.0 1 2 50.0 1 2 3 2 1 1 3 2 10
+p395
+aVRon Mercer BOS 01/30/1998 BOS vs. CHH L 43 18 7 18 38.9 0 1 0.0 4 5 80.0 2 1 3 4 4 1 1 3 5
+p396
+aVDana Barros BOS 01/30/1998 BOS vs. CHH L 19 10 4 8 50.0 2 4 50.0 0 1 0.0 1 2 3 5 2 0 1 3 7
+p397
+aVAndrew DeClercq BOS 01/30/1998 BOS vs. CHH L 24 7 3 6 50.0 0 0 - 1 1 100.0 5 3 8 1 2 1 0 5 2
+p398
+aVAntoine Walker BOS 01/30/1998 BOS vs. CHH L 47 38 12 25 48.0 3 7 42.9 11 11 100.0 2 9 11 6 3 1 4 5 4
+p399
+aVWalter McCarty BOS 01/30/1998 BOS vs. CHH L 30 6 2 7 28.6 1 2 50.0 1 2 50.0 1 4 5 0 2 1 2 3 1
+p400
+aVChauncey Billups BOS 01/30/1998 BOS vs. CHH L 26 5 2 9 22.2 1 3 33.3 0 0 - 0 0 0 3 2 0 5 2 -12
+p401
+aVBruce Bowen BOS 01/30/1998 BOS vs. CHH L 19 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 1 0 2 -1
+p402
+aVTravis Knight BOS 01/30/1998 BOS vs. CHH L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -4
+p403
+aVGreg Minor BOS 01/30/1998 BOS vs. CHH L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p404
+aVJohn Thomas BOS 01/30/1998 BOS vs. CHH L 15 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 2 1 3 -2
+p405
+aVDee Brown BOS 01/30/1998 BOS vs. CHH L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -11
+p406
+aVAntoine Walker BOS 01/28/1998 BOS vs. WAS W 37 18 5 13 38.5 0 3 0.0 8 9 88.9 2 5 7 3 1 0 3 4 0
+p407
+aVAndrew DeClercq BOS 01/28/1998 BOS vs. WAS W 22 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 1 0 0 5 0
+p408
+aVChauncey Billups BOS 01/28/1998 BOS vs. WAS W 33 14 4 14 28.6 1 6 16.7 5 5 100.0 2 1 3 7 1 0 3 2 0
+p409
+aVBruce Bowen BOS 01/28/1998 BOS vs. WAS W 27 6 3 7 42.9 0 2 0.0 0 1 0.0 1 3 4 0 0 1 0 4 -11
+p410
+aVDana Barros BOS 01/28/1998 BOS vs. WAS W 15 10 2 4 50.0 0 0 - 6 6 100.0 0 3 3 6 0 0 1 2 2
+p411
+aVDee Brown BOS 01/28/1998 BOS vs. WAS W 14 5 1 4 25.0 1 3 33.3 2 2 100.0 0 0 0 2 0 0 1 1 4
+p412
+aVGreg Minor BOS 01/28/1998 BOS vs. WAS W 9 0 0 3 0.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 2 5
+p413
+aVRon Mercer BOS 01/28/1998 BOS vs. WAS W 30 22 8 11 72.7 0 0 - 6 6 100.0 0 2 2 1 0 0 0 2 5
+p414
+aVTravis Knight BOS 01/28/1998 BOS vs. WAS W 8 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 2 -8
+p415
+aVWalter McCarty BOS 01/28/1998 BOS vs. WAS W 21 12 5 10 50.0 2 4 50.0 0 0 - 1 4 5 4 2 1 0 4 2
+p416
+aVJohn Thomas BOS 01/28/1998 BOS vs. WAS W 23 12 5 7 71.4 0 0 - 2 3 66.7 2 5 7 1 1 1 0 3 11
+p417
+aVDana Barros BOS 01/26/1998 BOS vs. NYK W 16 10 3 5 60.0 2 2 100.0 2 2 100.0 0 0 0 2 2 0 2 1 -1
+p418
+aVTyus Edney BOS 01/26/1998 BOS vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p419
+aVJohn Thomas BOS 01/26/1998 BOS vs. NYK W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p420
+aVBruce Bowen BOS 01/26/1998 BOS vs. NYK W 14 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 1 1 1 1 1 -7
+p421
+aVRon Mercer BOS 01/26/1998 BOS vs. NYK W 33 16 4 11 36.4 0 0 - 8 8 100.0 2 2 4 5 3 0 2 4 11
+p422
+aVChauncey Billups BOS 01/26/1998 BOS vs. NYK W 31 25 7 12 58.3 4 8 50.0 7 7 100.0 1 1 2 4 2 0 4 2 8
+p423
+aVAndrew DeClercq BOS 01/26/1998 BOS vs. NYK W 32 9 4 4 100.0 0 0 - 1 1 100.0 2 4 6 0 1 2 1 4 2
+p424
+aVWalter McCarty BOS 01/26/1998 BOS vs. NYK W 40 10 5 12 41.7 0 4 0.0 0 0 - 1 4 5 5 1 1 3 1 10
+p425
+aVAntoine Walker BOS 01/26/1998 BOS vs. NYK W 40 16 6 12 50.0 1 2 50.0 3 6 50.0 1 6 7 6 1 0 6 1 7
+p426
+aVTravis Knight BOS 01/26/1998 BOS vs. NYK W 14 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 1 2 0 0 8
+p427
+aVDee Brown BOS 01/26/1998 BOS vs. NYK W 10 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 1 0 3
+p428
+aVDee Brown BOS 01/24/1998 BOS @ IND L 16 3 1 8 12.5 1 4 25.0 0 0 - 0 1 1 1 0 0 0 4 0
+p429
+aVJohn Thomas BOS 01/24/1998 BOS @ IND L 4 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 8
+p430
+aVGreg Minor BOS 01/24/1998 BOS @ IND L 10 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -9
+p431
+aVWalter McCarty BOS 01/24/1998 BOS @ IND L 21 3 1 5 20.0 1 2 50.0 0 0 - 2 2 4 2 0 1 2 0 -2
+p432
+aVAntoine Walker BOS 01/24/1998 BOS @ IND L 41 22 8 25 32.0 0 1 0.0 6 10 60.0 8 8 16 1 0 0 3 4 -9
+p433
+aVRon Mercer BOS 01/24/1998 BOS @ IND L 34 13 5 17 29.4 0 1 0.0 3 5 60.0 0 3 3 1 1 0 1 3 -7
+p434
+aVDana Barros BOS 01/24/1998 BOS @ IND L 16 8 1 3 33.3 0 1 0.0 6 6 100.0 0 2 2 3 0 0 1 1 12
+p435
+aVChauncey Billups BOS 01/24/1998 BOS @ IND L 32 14 5 10 50.0 3 6 50.0 1 2 50.0 0 2 2 4 1 0 1 3 -19
+p436
+aVAndrew DeClercq BOS 01/24/1998 BOS @ IND L 17 9 3 3 100.0 0 0 - 3 4 75.0 2 2 4 0 1 2 0 2 -7
+p437
+aVBruce Bowen BOS 01/24/1998 BOS @ IND L 17 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 2 0 0 5 -2
+p438
+aVTravis Knight BOS 01/24/1998 BOS @ IND L 31 10 4 9 44.4 0 1 0.0 2 2 100.0 3 2 5 0 1 1 0 3 0
+p439
+aVWalter McCarty BOS 01/23/1998 BOS @ ATL W 26 9 4 8 50.0 1 4 25.0 0 0 - 1 1 2 4 2 0 4 3 6
+p440
+aVGreg Minor BOS 01/23/1998 BOS @ ATL W 12 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -14
+p441
+aVTravis Knight BOS 01/23/1998 BOS @ ATL W 9 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 1 2 0 3 -10
+p442
+aVChauncey Billups BOS 01/23/1998 BOS @ ATL W 35 18 7 13 53.8 1 4 25.0 3 6 50.0 1 4 5 8 7 0 3 1 -4
+p443
+aVJohn Thomas BOS 01/23/1998 BOS @ ATL W 20 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 0 3 10
+p444
+aVBruce Bowen BOS 01/23/1998 BOS @ ATL W 31 2 0 3 0.0 0 1 0.0 2 2 100.0 0 4 4 2 1 1 1 4 11
+p445
+aVRon Mercer BOS 01/23/1998 BOS @ ATL W 34 14 6 15 40.0 0 0 - 2 2 100.0 1 2 3 2 0 0 2 4 2
+p446
+aVAntoine Walker BOS 01/23/1998 BOS @ ATL W 43 19 8 23 34.8 0 4 0.0 3 4 75.0 3 4 7 0 3 0 6 3 4
+p447
+aVDana Barros BOS 01/23/1998 BOS @ ATL W 13 13 4 4 100.0 2 2 100.0 3 3 100.0 0 1 1 1 0 0 0 1 8
+p448
+aVAndrew DeClercq BOS 01/23/1998 BOS @ ATL W 18 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 0 0 0 0 3 7
+p449
+aVRon Mercer BOS 01/21/1998 BOS @ MIN L 24 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 1 0 3 4 5
+p450
+aVWalter McCarty BOS 01/21/1998 BOS @ MIN L 30 11 3 9 33.3 1 4 25.0 4 4 100.0 1 5 6 0 0 1 2 5 -2
+p451
+aVDana Barros BOS 01/21/1998 BOS @ MIN L 24 16 7 11 63.6 1 2 50.0 1 2 50.0 1 0 1 4 0 0 2 3 -14
+p452
+aVBruce Bowen BOS 01/21/1998 BOS @ MIN L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 2 0
+p453
+aVGreg Minor BOS 01/21/1998 BOS @ MIN L 8 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 1 0 0 1 -4
+p454
+aVAndrew DeClercq BOS 01/21/1998 BOS @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -8
+p455
+aVTravis Knight BOS 01/21/1998 BOS @ MIN L 27 2 1 5 20.0 0 0 - 0 0 - 4 4 8 2 0 2 1 4 1
+p456
+aVJohn Thomas BOS 01/21/1998 BOS @ MIN L 19 5 1 5 20.0 0 0 - 3 4 75.0 1 1 2 0 0 1 2 3 -2
+p457
+aVDee Brown BOS 01/21/1998 BOS @ MIN L 24 15 6 10 60.0 3 5 60.0 0 0 - 0 2 2 2 0 0 0 3 -16
+p458
+aVAntoine Walker BOS 01/21/1998 BOS @ MIN L 44 30 12 28 42.9 0 3 0.0 6 8 75.0 4 10 14 6 3 2 3 4 -12
+p459
+aVChauncey Billups BOS 01/21/1998 BOS @ MIN L 25 8 3 11 27.3 1 2 50.0 1 2 50.0 0 2 2 2 1 0 2 2 7
+p460
+aVAntoine Walker BOS 01/19/1998 BOS @ NYK L 41 15 6 17 35.3 0 2 0.0 3 4 75.0 2 6 8 3 2 1 2 5 -23
+p461
+aVAndrew DeClercq BOS 01/19/1998 BOS @ NYK L 25 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 1 2 0 1 5 -13
+p462
+aVBruce Bowen BOS 01/19/1998 BOS @ NYK L 13 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 0 1 0 2 1 -12
+p463
+aVDee Brown BOS 01/19/1998 BOS @ NYK L 19 10 4 10 40.0 2 4 50.0 0 0 - 0 1 1 1 1 0 1 1 -22
+p464
+aVTravis Knight BOS 01/19/1998 BOS @ NYK L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 3 -5
+p465
+aVRon Mercer BOS 01/19/1998 BOS @ NYK L 27 10 4 13 30.8 0 0 - 2 2 100.0 1 3 4 1 0 0 0 0 3
+p466
+aVGreg Minor BOS 01/19/1998 BOS @ NYK L 19 6 3 5 60.0 0 0 - 0 0 - 0 2 2 4 1 0 1 2 11
+p467
+aVChauncey Billups BOS 01/19/1998 BOS @ NYK L 33 18 6 10 60.0 5 7 71.4 1 2 50.0 0 3 3 3 3 0 2 2 -9
+p468
+aVDana Barros BOS 01/19/1998 BOS @ NYK L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 7 0 1 2 1 -5
+p469
+aVWalter McCarty BOS 01/19/1998 BOS @ NYK L 27 8 3 8 37.5 1 3 33.3 1 2 50.0 1 1 2 1 0 0 2 4 -7
+p470
+aVJohn Thomas BOS 01/19/1998 BOS @ NYK L 12 4 1 3 33.3 0 0 - 2 3 66.7 0 1 1 0 1 0 1 3 2
+p471
+aVRon Mercer BOS 01/18/1998 BOS vs. IND L 35 21 8 16 50.0 0 0 - 5 5 100.0 1 2 3 3 2 0 0 6 -12
+p472
+aVTyus Edney BOS 01/18/1998 BOS vs. IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p473
+aVAntoine Walker BOS 01/18/1998 BOS vs. IND L 45 16 5 18 27.8 0 2 0.0 6 9 66.7 3 5 8 6 1 2 5 3 -9
+p474
+aVGreg Minor BOS 01/18/1998 BOS vs. IND L 14 2 1 6 16.7 0 0 - 0 0 - 1 1 2 2 0 0 1 1 1
+p475
+aVDana Barros BOS 01/18/1998 BOS vs. IND L 21 10 4 6 66.7 2 3 66.7 0 0 - 1 2 3 6 0 0 2 1 10
+p476
+aVDee Brown BOS 01/18/1998 BOS vs. IND L 22 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 1 0 0 0 6
+p477
+aVAndrew DeClercq BOS 01/18/1998 BOS vs. IND L 28 17 5 9 55.6 0 0 - 7 8 87.5 6 3 9 0 2 1 1 3 -7
+p478
+aVBruce Bowen BOS 01/18/1998 BOS vs. IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 5 -7
+p479
+aVChauncey Billups BOS 01/18/1998 BOS vs. IND L 24 14 6 14 42.9 1 4 25.0 1 1 100.0 1 1 2 2 1 0 5 4 -8
+p480
+aVTravis Knight BOS 01/18/1998 BOS vs. IND L 16 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 0 3 0 1 -8
+p481
+aVJohn Thomas BOS 01/18/1998 BOS vs. IND L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 10
+p482
+aVWalter McCarty BOS 01/18/1998 BOS vs. IND L 17 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -4
+p483
+aVDana Barros BOS 01/15/1998 BOS vs. VAN W 15 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 5 0 0 1 2 0
+p484
+aVWalter McCarty BOS 01/15/1998 BOS vs. VAN W 33 14 5 10 50.0 0 1 0.0 4 4 100.0 1 4 5 1 1 1 2 2 9
+p485
+aVAntoine Walker BOS 01/15/1998 BOS vs. VAN W 45 22 10 26 38.5 2 3 66.7 0 0 - 6 4 10 4 1 0 3 4 7
+p486
+aVGreg Minor BOS 01/15/1998 BOS vs. VAN W 12 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 2 2 1 1 1 4
+p487
+aVRoy Rogers BOS 01/15/1998 BOS vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p488
+aVAndrew DeClercq BOS 01/15/1998 BOS vs. VAN W 13 4 1 4 25.0 0 0 - 2 2 100.0 5 1 6 0 0 0 0 5 -8
+p489
+aVBruce Bowen BOS 01/15/1998 BOS vs. VAN W 18 0 0 8 0.0 0 1 0.0 0 0 - 2 0 2 2 1 1 0 1 -13
+p490
+aVJohn Thomas BOS 01/15/1998 BOS vs. VAN W 19 13 6 7 85.7 0 0 - 1 2 50.0 5 3 8 0 2 0 0 4 9
+p491
+aVTravis Knight BOS 01/15/1998 BOS vs. VAN W 15 6 2 3 66.7 0 0 - 2 3 66.7 0 1 1 1 0 0 2 4 1
+p492
+aVRon Mercer BOS 01/15/1998 BOS vs. VAN W 37 14 6 13 46.2 0 0 - 2 2 100.0 1 3 4 3 2 2 2 2 5
+p493
+aVChauncey Billups BOS 01/15/1998 BOS vs. VAN W 33 13 5 16 31.3 1 7 14.3 2 3 66.7 5 2 7 9 1 0 2 3 6
+p494
+aVChauncey Billups BOS 01/13/1998 BOS vs. SAS L 35 26 5 14 35.7 3 8 37.5 13 15 86.7 1 0 1 4 2 0 5 0 -11
+p495
+aVDana Barros BOS 01/13/1998 BOS vs. SAS L 13 7 3 6 50.0 0 0 - 1 1 100.0 2 0 2 4 1 0 1 0 2
+p496
+aVTravis Knight BOS 01/13/1998 BOS vs. SAS L 24 8 4 11 36.4 0 1 0.0 0 0 - 1 6 7 0 0 3 1 5 -4
+p497
+aVAndrew DeClercq BOS 01/13/1998 BOS vs. SAS L 20 8 2 4 50.0 0 0 - 4 4 100.0 3 0 3 0 2 0 1 3 -7
+p498
+aVBruce Bowen BOS 01/13/1998 BOS vs. SAS L 36 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 3 0 0 5 0
+p499
+aVWalter McCarty BOS 01/13/1998 BOS vs. SAS L 18 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -17
+p500
+aVRon Mercer BOS 01/13/1998 BOS vs. SAS L 34 10 3 15 20.0 0 1 0.0 4 5 80.0 1 2 3 1 1 0 0 1 -9
+p501
+aVGreg Minor BOS 01/13/1998 BOS vs. SAS L 10 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 6
+p502
+aVJohn Thomas BOS 01/13/1998 BOS vs. SAS L 11 6 2 2 100.0 0 0 - 2 2 100.0 2 1 3 0 2 0 3 4 3
+p503
+aVAntoine Walker BOS 01/13/1998 BOS vs. SAS L 39 17 5 19 26.3 1 6 16.7 6 6 100.0 3 11 14 0 0 2 2 4 -8
+p504
+aVDee Brown BOS 01/10/1998 BOS @ ORL L 17 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -2
+p505
+aVTravis Knight BOS 01/10/1998 BOS @ ORL L 21 4 2 7 28.6 0 3 0.0 0 0 - 2 5 7 3 2 0 2 4 -13
+p506
+aVChauncey Billups BOS 01/10/1998 BOS @ ORL L 23 5 2 8 25.0 1 4 25.0 0 0 - 2 1 3 2 2 0 4 3 -12
+p507
+aVRon Mercer BOS 01/10/1998 BOS @ ORL L 29 4 1 7 14.3 0 0 - 2 2 100.0 0 1 1 7 3 0 0 4 -14
+p508
+aVJohn Thomas BOS 01/10/1998 BOS @ ORL L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 4
+p509
+aVGreg Minor BOS 01/10/1998 BOS @ ORL L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p510
+aVBruce Bowen BOS 01/10/1998 BOS @ ORL L 19 12 5 9 55.6 1 2 50.0 1 2 50.0 3 1 4 2 4 0 1 4 4
+p511
+aVDana Barros BOS 01/10/1998 BOS @ ORL L 25 14 6 12 50.0 2 5 40.0 0 0 - 1 0 1 4 2 0 3 3 6
+p512
+aVWalter McCarty BOS 01/10/1998 BOS @ ORL L 34 12 5 16 31.3 0 2 0.0 2 3 66.7 5 4 9 1 3 0 1 2 -4
+p513
+aVAndrew DeClercq BOS 01/10/1998 BOS @ ORL L 16 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 4 -5
+p514
+aVAntoine Walker BOS 01/10/1998 BOS @ ORL L 42 21 10 28 35.7 1 6 16.7 0 0 - 6 6 12 1 3 2 5 4 -8
+p515
+aVBruce Bowen BOS 01/09/1998 BOS vs. SEA L 29 10 4 10 40.0 0 0 - 2 2 100.0 4 1 5 2 0 0 3 4 6
+p516
+aVTravis Knight BOS 01/09/1998 BOS vs. SEA L 31 21 10 16 62.5 1 3 33.3 0 0 - 3 7 10 1 1 0 1 4 -12
+p517
+aVRoy Rogers BOS 01/09/1998 BOS vs. SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 1
+p518
+aVRon Mercer BOS 01/09/1998 BOS vs. SEA L 32 14 7 14 50.0 0 0 - 0 0 - 0 2 2 1 2 0 4 2 -28
+p519
+aVAndrew DeClercq BOS 01/09/1998 BOS vs. SEA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -8
+p520
+aVDee Brown BOS 01/09/1998 BOS vs. SEA L 18 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 5 2 0 3 3 -2
+p521
+aVJohn Thomas BOS 01/09/1998 BOS vs. SEA L 20 8 4 4 100.0 0 0 - 0 0 - 0 0 0 2 2 0 0 3 6
+p522
+aVDana Barros BOS 01/09/1998 BOS vs. SEA L 24 14 5 8 62.5 4 4 100.0 0 0 - 0 2 2 1 1 0 2 1 -2
+p523
+aVChauncey Billups BOS 01/09/1998 BOS vs. SEA L 26 4 1 10 10.0 1 5 20.0 1 1 100.0 1 0 1 7 1 0 0 2 -17
+p524
+aVWalter McCarty BOS 01/09/1998 BOS vs. SEA L 22 7 3 11 27.3 1 2 50.0 0 0 - 0 1 1 2 0 0 1 5 -12
+p525
+aVAntoine Walker BOS 01/09/1998 BOS vs. SEA L 31 14 6 17 35.3 1 4 25.0 1 2 50.0 3 6 9 3 1 0 1 2 -27
+p526
+aVAntoine Walker BOS 01/07/1998 BOS @ WAS L 42 49 21 36 58.3 5 5 100.0 2 7 28.6 2 10 12 0 1 0 5 6 2
+p527
+aVDana Barros BOS 01/07/1998 BOS @ WAS L 12 6 2 4 50.0 0 2 0.0 2 2 100.0 1 1 2 1 1 0 3 1 -12
+p528
+aVAndrew DeClercq BOS 01/07/1998 BOS @ WAS L 15 2 0 0 - 0 0 - 2 2 100.0 3 3 6 0 0 0 0 3 13
+p529
+aVBruce Bowen BOS 01/07/1998 BOS @ WAS L 21 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 0 0 2 2 3
+p530
+aVJohn Thomas BOS 01/07/1998 BOS @ WAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p531
+aVRon Mercer BOS 01/07/1998 BOS @ WAS L 43 18 8 20 40.0 0 2 0.0 2 3 66.7 0 2 2 6 2 0 2 1 -1
+p532
+aVChauncey Billups BOS 01/07/1998 BOS @ WAS L 36 14 1 10 10.0 1 4 25.0 11 11 100.0 2 2 4 6 5 0 1 3 10
+p533
+aVWalter McCarty BOS 01/07/1998 BOS @ WAS L 36 6 2 8 25.0 0 0 - 2 2 100.0 4 3 7 3 2 0 2 4 -1
+p534
+aVRoy Rogers BOS 01/07/1998 BOS @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p535
+aVTravis Knight BOS 01/07/1998 BOS @ WAS L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 4 -6
+p536
+aVPervis Ellison BOS 01/07/1998 BOS @ WAS L 17 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 1 0 1 1 4 -12
+p537
+aVDee Brown BOS 01/07/1998 BOS @ WAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p538
+aVBruce Bowen BOS 01/06/1998 BOS @ CHI L 18 2 1 5 20.0 0 0 - 0 2 0.0 1 0 1 1 3 0 2 4 3
+p539
+aVWalter McCarty BOS 01/06/1998 BOS @ CHI L 37 11 3 8 37.5 1 3 33.3 4 5 80.0 1 4 5 4 1 1 0 3 -12
+p540
+aVTravis Knight BOS 01/06/1998 BOS @ CHI L 12 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 4 6
+p541
+aVRon Mercer BOS 01/06/1998 BOS @ CHI L 42 20 10 19 52.6 0 0 - 0 0 - 0 1 1 2 1 0 2 4 -13
+p542
+aVAntoine Walker BOS 01/06/1998 BOS @ CHI L 40 18 6 17 35.3 1 5 20.0 5 6 83.3 2 9 11 3 4 0 4 2 -13
+p543
+aVDana Barros BOS 01/06/1998 BOS @ CHI L 13 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 -7
+p544
+aVAndrew DeClercq BOS 01/06/1998 BOS @ CHI L 13 6 2 3 66.7 0 0 - 2 3 66.7 2 3 5 0 1 0 3 5 -17
+p545
+aVPervis Ellison BOS 01/06/1998 BOS @ CHI L 15 1 0 0 - 0 0 - 1 2 50.0 2 2 4 2 1 1 0 3 0
+p546
+aVChauncey Billups BOS 01/06/1998 BOS @ CHI L 35 6 2 8 25.0 0 2 0.0 2 2 100.0 2 2 4 5 0 0 4 2 -4
+p547
+aVJohn Thomas BOS 01/06/1998 BOS @ CHI L 16 9 3 5 60.0 0 0 - 3 4 75.0 3 2 5 2 0 2 1 2 2
+p548
+aVAndrew DeClercq BOS 01/03/1998 BOS @ MIL W 20 5 2 4 50.0 0 0 - 1 3 33.3 1 2 3 1 1 0 0 3 1
+p549
+aVPervis Ellison BOS 01/03/1998 BOS @ MIL W 18 2 1 2 50.0 0 0 - 0 0 - 3 5 8 0 2 2 2 4 7
+p550
+aVDana Barros BOS 01/03/1998 BOS @ MIL W 22 13 3 6 50.0 1 3 33.3 6 6 100.0 0 1 1 5 0 0 0 1 -2
+p551
+aVChauncey Billups BOS 01/03/1998 BOS @ MIL W 27 13 2 4 50.0 0 1 0.0 9 10 90.0 0 1 1 2 0 0 2 3 10
+p552
+aVRon Mercer BOS 01/03/1998 BOS @ MIL W 24 16 6 10 60.0 0 0 - 4 4 100.0 1 3 4 1 0 0 0 3 15
+p553
+aVDee Brown BOS 01/03/1998 BOS @ MIL W 17 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 2 1 0 0 3 -3
+p554
+aVTravis Knight BOS 01/03/1998 BOS @ MIL W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 1 1 1 1 2 1
+p555
+aVWalter McCarty BOS 01/03/1998 BOS @ MIL W 43 19 8 13 61.5 2 3 66.7 1 1 100.0 1 2 3 3 0 0 2 2 14
+p556
+aVBruce Bowen BOS 01/03/1998 BOS @ MIL W 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 5 -11
+p557
+aVAntoine Walker BOS 01/03/1998 BOS @ MIL W 46 32 15 29 51.7 1 7 14.3 1 2 50.0 1 9 10 5 2 2 2 4 3
+p558
+aVRon Mercer BOS 01/02/1998 BOS vs. MIN W 37 19 7 22 31.8 0 0 - 5 6 83.3 4 0 4 1 1 0 0 3 13
+p559
+aVChauncey Billups BOS 01/02/1998 BOS vs. MIN W 28 10 5 12 41.7 0 3 0.0 0 0 - 0 0 0 4 3 0 1 1 -5
+p560
+aVTravis Knight BOS 01/02/1998 BOS vs. MIN W 8 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 1 4 -1
+p561
+aVRoy Rogers BOS 01/02/1998 BOS vs. MIN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p562
+aVAndrew DeClercq BOS 01/02/1998 BOS vs. MIN W 14 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 1 1 2 3 -13
+p563
+aVDana Barros BOS 01/02/1998 BOS vs. MIN W 20 5 2 9 22.2 1 5 20.0 0 0 - 0 2 2 1 1 0 1 1 9
+p564
+aVBruce Bowen BOS 01/02/1998 BOS vs. MIN W 27 6 2 5 40.0 0 1 0.0 2 3 66.7 2 2 4 5 2 0 1 3 21
+p565
+aVDee Brown BOS 01/02/1998 BOS vs. MIN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p566
+aVAntoine Walker BOS 01/02/1998 BOS vs. MIN W 44 27 11 21 52.4 3 4 75.0 2 4 50.0 2 16 18 3 2 0 1 3 -2
+p567
+aVPervis Ellison BOS 01/02/1998 BOS vs. MIN W 22 8 2 5 40.0 0 0 - 4 8 50.0 3 6 9 2 2 2 0 4 20
+p568
+aVWalter McCarty BOS 01/02/1998 BOS vs. MIN W 31 10 1 6 16.7 0 1 0.0 8 8 100.0 2 2 4 3 2 1 1 4 -17
+p569
+aVGreg Minor BOS 12/30/1997 BOS @ PHX L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -4
+p570
+aVRoy Rogers BOS 12/30/1997 BOS @ PHX L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -3
+p571
+aVRon Mercer BOS 12/30/1997 BOS @ PHX L 21 7 3 10 30.0 0 0 - 1 2 50.0 1 3 4 1 3 0 0 1 2
+p572
+aVBruce Bowen BOS 12/30/1997 BOS @ PHX L 30 14 4 7 57.1 0 1 0.0 6 9 66.7 3 1 4 1 3 0 1 3 -11
+p573
+aVDana Barros BOS 12/30/1997 BOS @ PHX L 21 6 2 6 33.3 0 3 0.0 2 2 100.0 2 1 3 2 2 0 0 2 4
+p574
+aVChauncey Billups BOS 12/30/1997 BOS @ PHX L 21 5 2 10 20.0 0 2 0.0 1 2 50.0 1 2 3 2 0 0 0 2 -16
+p575
+aVWalter McCarty BOS 12/30/1997 BOS @ PHX L 24 13 5 9 55.6 2 3 66.7 1 2 50.0 5 2 7 1 1 0 3 3 -4
+p576
+aVTravis Knight BOS 12/30/1997 BOS @ PHX L 25 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 2 1 1 1 2 2
+p577
+aVDee Brown BOS 12/30/1997 BOS @ PHX L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 1 3 1 -3
+p578
+aVAndrew DeClercq BOS 12/30/1997 BOS @ PHX L 27 11 4 7 57.1 0 0 - 3 7 42.9 1 5 6 0 5 0 1 4 -2
+p579
+aVTyus Edney BOS 12/30/1997 BOS @ PHX L 5 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 2
+p580
+aVAntoine Walker BOS 12/30/1997 BOS @ PHX L 38 28 10 22 45.5 2 5 40.0 6 6 100.0 4 8 12 2 2 0 7 4 -17
+p581
+aVChauncey Billups BOS 12/28/1997 BOS @ LAL W 31 16 6 14 42.9 3 5 60.0 1 2 50.0 0 3 3 8 5 0 6 1 -6
+p582
+aVGreg Minor BOS 12/28/1997 BOS @ LAL W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 9
+p583
+aVTravis Knight BOS 12/28/1997 BOS @ LAL W 28 14 6 9 66.7 0 1 0.0 2 4 50.0 3 3 6 3 1 2 0 4 13
+p584
+aVAndrew DeClercq BOS 12/28/1997 BOS @ LAL W 20 7 2 5 40.0 0 0 - 3 4 75.0 3 1 4 2 2 1 0 4 -6
+p585
+aVDana Barros BOS 12/28/1997 BOS @ LAL W 15 7 2 5 40.0 1 2 50.0 2 2 100.0 0 2 2 2 0 0 0 2 14
+p586
+aVRon Mercer BOS 12/28/1997 BOS @ LAL W 16 9 4 10 40.0 0 0 - 1 2 50.0 2 1 3 1 0 0 1 3 -6
+p587
+aVTyus Edney BOS 12/28/1997 BOS @ LAL W 3 2 0 0 - 0 0 - 2 4 50.0 1 0 1 0 0 0 0 1 0
+p588
+aVAntoine Walker BOS 12/28/1997 BOS @ LAL W 45 28 11 23 47.8 0 2 0.0 6 7 85.7 3 10 13 2 2 1 3 3 4
+p589
+aVBruce Bowen BOS 12/28/1997 BOS @ LAL W 33 4 2 9 22.2 0 4 0.0 0 0 - 1 4 5 3 3 1 2 3 6
+p590
+aVWalter McCarty BOS 12/28/1997 BOS @ LAL W 37 19 6 11 54.5 1 2 50.0 6 8 75.0 1 6 7 3 0 1 0 3 2
+p591
+aVDana Barros BOS 12/26/1997 BOS @ SAS L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -16
+p592
+aVTravis Knight BOS 12/26/1997 BOS @ SAS L 14 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 0 1 0 0 4 -17
+p593
+aVWalter McCarty BOS 12/26/1997 BOS @ SAS L 36 10 4 12 33.3 2 5 40.0 0 0 - 2 4 6 2 1 0 2 4 -18
+p594
+aVGreg Minor BOS 12/26/1997 BOS @ SAS L 15 7 3 4 75.0 1 1 100.0 0 0 - 1 0 1 1 2 0 0 2 7
+p595
+aVRoy Rogers BOS 12/26/1997 BOS @ SAS L 7 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 8
+p596
+aVDee Brown BOS 12/26/1997 BOS @ SAS L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 1
+p597
+aVBruce Bowen BOS 12/26/1997 BOS @ SAS L 23 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 5 2 1 5 -5
+p598
+aVAndrew DeClercq BOS 12/26/1997 BOS @ SAS L 23 3 1 3 33.3 0 0 - 1 2 50.0 3 0 3 1 3 1 1 3 -9
+p599
+aVChauncey Billups BOS 12/26/1997 BOS @ SAS L 26 10 4 8 50.0 0 1 0.0 2 2 100.0 0 2 2 3 2 0 1 2 -13
+p600
+aVAntoine Walker BOS 12/26/1997 BOS @ SAS L 40 21 10 26 38.5 1 2 50.0 0 1 0.0 1 5 6 2 2 1 6 4 -15
+p601
+aVTyus Edney BOS 12/26/1997 BOS @ SAS L 11 11 4 6 66.7 0 0 - 3 3 100.0 0 0 0 1 0 0 0 2 14
+p602
+aVRon Mercer BOS 12/26/1997 BOS @ SAS L 25 16 7 12 58.3 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -12
+p603
+aVChauncey Billups BOS 12/23/1997 BOS vs. CHH W 22 13 3 7 42.9 2 4 50.0 5 6 83.3 1 3 4 4 2 0 3 4 -6
+p604
+aVRon Mercer BOS 12/23/1997 BOS vs. CHH W 33 28 13 21 61.9 0 0 - 2 4 50.0 4 4 8 0 3 0 0 2 15
+p605
+aVAntoine Walker BOS 12/23/1997 BOS vs. CHH W 46 10 3 21 14.3 0 5 0.0 4 5 80.0 1 4 5 6 1 0 3 3 7
+p606
+aVJohn Thomas BOS 12/23/1997 BOS vs. CHH W 12 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 3
+p607
+aVWalter McCarty BOS 12/23/1997 BOS vs. CHH W 33 13 5 9 55.6 1 4 25.0 2 4 50.0 3 0 3 5 1 1 2 6 -1
+p608
+aVRoy Rogers BOS 12/23/1997 BOS vs. CHH W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 2 0 2 -1
+p609
+aVDee Brown BOS 12/23/1997 BOS vs. CHH W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p610
+aVDana Barros BOS 12/23/1997 BOS vs. CHH W 25 18 7 10 70.0 2 4 50.0 2 2 100.0 0 1 1 6 2 0 1 2 13
+p611
+aVGreg Minor BOS 12/23/1997 BOS vs. CHH W 8 6 3 3 100.0 0 0 - 0 2 0.0 1 0 1 0 1 1 0 1 4
+p612
+aVTyus Edney BOS 12/23/1997 BOS vs. CHH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p613
+aVAndrew DeClercq BOS 12/23/1997 BOS vs. CHH W 24 7 3 6 50.0 0 0 - 1 2 50.0 2 8 10 1 0 0 2 5 5
+p614
+aVBruce Bowen BOS 12/23/1997 BOS vs. CHH W 18 1 0 2 0.0 0 0 - 1 3 33.3 0 2 2 1 0 0 0 5 -3
+p615
+aVChauncey Billups BOS 12/21/1997 BOS vs. LAC W 22 11 5 9 55.6 0 1 0.0 1 1 100.0 0 2 2 5 2 0 1 6 -1
+p616
+aVAndrew DeClercq BOS 12/21/1997 BOS vs. LAC W 24 4 2 5 40.0 0 0 - 0 2 0.0 1 3 4 2 1 3 0 2 4
+p617
+aVRon Mercer BOS 12/21/1997 BOS vs. LAC W 27 14 6 12 50.0 0 0 - 2 2 100.0 1 2 3 2 3 0 1 2 10
+p618
+aVWalter McCarty BOS 12/21/1997 BOS vs. LAC W 34 10 3 8 37.5 1 3 33.3 3 6 50.0 2 5 7 2 2 1 2 3 19
+p619
+aVAntoine Walker BOS 12/21/1997 BOS vs. LAC W 43 23 8 25 32.0 1 5 20.0 6 6 100.0 3 12 15 5 1 2 6 2 20
+p620
+aVRoy Rogers BOS 12/21/1997 BOS vs. LAC W 4 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 1 0 1 4
+p621
+aVDee Brown BOS 12/21/1997 BOS vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p622
+aVGreg Minor BOS 12/21/1997 BOS vs. LAC W 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -1
+p623
+aVBruce Bowen BOS 12/21/1997 BOS vs. LAC W 32 9 4 7 57.1 1 1 100.0 0 2 0.0 3 3 6 3 2 2 1 4 21
+p624
+aVJohn Thomas BOS 12/21/1997 BOS vs. LAC W 17 4 2 6 33.3 0 0 - 0 0 - 1 3 4 1 3 0 2 3 10
+p625
+aVDana Barros BOS 12/21/1997 BOS vs. LAC W 26 17 7 13 53.8 1 4 25.0 2 2 100.0 1 4 5 3 2 0 0 0 23
+p626
+aVAndrew DeClercq BOS 12/17/1997 BOS @ TOR W 14 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 4 1 4 3
+p627
+aVPervis Ellison BOS 12/17/1997 BOS @ TOR W 20 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 1 1 3 1 3 6
+p628
+aVBruce Bowen BOS 12/17/1997 BOS @ TOR W 25 5 1 3 33.3 1 1 100.0 2 2 100.0 4 3 7 1 1 0 2 5 -14
+p629
+aVRon Mercer BOS 12/17/1997 BOS @ TOR W 20 12 6 10 60.0 0 1 0.0 0 0 - 0 0 0 1 1 1 4 4 13
+p630
+aVAntoine Walker BOS 12/17/1997 BOS @ TOR W 42 18 8 22 36.4 0 4 0.0 2 4 50.0 3 6 9 6 1 1 3 4 5
+p631
+aVChauncey Billups BOS 12/17/1997 BOS @ TOR W 24 18 3 8 37.5 2 4 50.0 10 11 90.9 1 1 2 4 1 0 6 1 4
+p632
+aVGreg Minor BOS 12/17/1997 BOS @ TOR W 14 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 1 1 0 0 0 1
+p633
+aVWalter McCarty BOS 12/17/1997 BOS @ TOR W 40 12 5 10 50.0 2 3 66.7 0 0 - 1 2 3 3 5 0 2 2 11
+p634
+aVTyus Edney BOS 12/17/1997 BOS @ TOR W 12 2 0 2 0.0 0 0 - 2 4 50.0 0 0 0 2 0 0 2 3 -1
+p635
+aVJohn Thomas BOS 12/17/1997 BOS @ TOR W 14 3 1 5 20.0 0 0 - 1 2 50.0 4 2 6 0 0 2 2 1 -6
+p636
+aVDana Barros BOS 12/17/1997 BOS @ TOR W 16 8 2 5 40.0 2 3 66.7 2 4 50.0 0 2 2 1 1 0 1 1 3
+p637
+aVBruce Bowen BOS 12/15/1997 BOS vs. PHI W 28 10 3 8 37.5 1 1 100.0 3 4 75.0 4 5 9 3 1 4 1 4 23
+p638
+aVPervis Ellison BOS 12/15/1997 BOS vs. PHI W 12 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 2 1 0 3 14
+p639
+aVDana Barros BOS 12/15/1997 BOS vs. PHI W 13 6 2 5 40.0 1 2 50.0 1 2 50.0 0 0 0 3 0 0 3 2 -5
+p640
+aVGreg Minor BOS 12/15/1997 BOS vs. PHI W 12 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 2 -4
+p641
+aVJohn Thomas BOS 12/15/1997 BOS vs. PHI W 20 6 3 5 60.0 0 0 - 0 0 - 2 2 4 4 1 0 3 5 -7
+p642
+aVChauncey Billups BOS 12/15/1997 BOS vs. PHI W 24 5 2 7 28.6 1 2 50.0 0 1 0.0 1 2 3 6 1 0 1 1 3
+p643
+aVAntoine Walker BOS 12/15/1997 BOS vs. PHI W 33 17 7 14 50.0 0 3 0.0 3 4 75.0 3 5 8 0 3 1 1 5 15
+p644
+aVRon Mercer BOS 12/15/1997 BOS vs. PHI W 26 20 7 16 43.8 0 3 0.0 6 8 75.0 1 1 2 1 1 0 1 2 13
+p645
+aVDontae' Jones BOS 12/15/1997 BOS vs. PHI W 6 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 2 3
+p646
+aVAndrew DeClercq BOS 12/15/1997 BOS vs. PHI W 20 6 2 5 40.0 0 0 - 2 5 40.0 3 4 7 1 2 2 1 3 11
+p647
+aVWalter McCarty BOS 12/15/1997 BOS vs. PHI W 32 12 5 10 50.0 1 2 50.0 1 2 50.0 0 6 6 0 1 1 1 3 4
+p648
+aVTyus Edney BOS 12/15/1997 BOS vs. PHI W 13 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 5 4 0 1 2 15
+p649
+aVBruce Bowen BOS 12/13/1997 BOS @ DET L 22 6 3 6 50.0 0 0 - 0 0 - 2 0 2 2 0 1 1 3 -12
+p650
+aVAntoine Walker BOS 12/13/1997 BOS @ DET L 42 19 8 23 34.8 3 7 42.9 0 0 - 2 9 11 6 3 0 4 3 -5
+p651
+aVChauncey Billups BOS 12/13/1997 BOS @ DET L 33 12 5 8 62.5 2 5 40.0 0 1 0.0 1 1 2 6 0 0 2 1 0
+p652
+aVAndrew DeClercq BOS 12/13/1997 BOS @ DET L 16 2 1 5 20.0 0 0 - 0 2 0.0 3 1 4 2 1 0 2 5 -4
+p653
+aVPervis Ellison BOS 12/13/1997 BOS @ DET L 24 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 3 0 0 2 5 -6
+p654
+aVTyus Edney BOS 12/13/1997 BOS @ DET L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p655
+aVRon Mercer BOS 12/13/1997 BOS @ DET L 32 8 4 11 36.4 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -7
+p656
+aVDontae' Jones BOS 12/13/1997 BOS @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p657
+aVDana Barros BOS 12/13/1997 BOS @ DET L 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -10
+p658
+aVWalter McCarty BOS 12/13/1997 BOS @ DET L 43 19 7 15 46.7 1 2 50.0 4 6 66.7 2 1 3 2 2 1 3 1 -14
+p659
+aVJohn Thomas BOS 12/13/1997 BOS @ DET L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -14
+p660
+aVGreg Minor BOS 12/12/1997 BOS vs. WAS W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p661
+aVTravis Knight BOS 12/12/1997 BOS vs. WAS W 27 7 3 6 50.0 0 1 0.0 1 2 50.0 1 1 2 2 1 0 2 2 -4
+p662
+aVTyus Edney BOS 12/12/1997 BOS vs. WAS W 15 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 1 5 0 4 3 -10
+p663
+aVChauncey Billups BOS 12/12/1997 BOS vs. WAS W 23 15 5 7 71.4 2 4 50.0 3 4 75.0 0 2 2 6 0 0 0 4 17
+p664
+aVDana Barros BOS 12/12/1997 BOS vs. WAS W 10 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 0 4
+p665
+aVAndrew DeClercq BOS 12/12/1997 BOS vs. WAS W 15 7 3 6 50.0 0 0 - 1 2 50.0 1 6 7 0 2 2 0 4 11
+p666
+aVAntoine Walker BOS 12/12/1997 BOS vs. WAS W 47 23 9 16 56.3 2 5 40.0 3 4 75.0 3 9 12 7 5 1 5 0 11
+p667
+aVBruce Bowen BOS 12/12/1997 BOS vs. WAS W 33 6 3 6 50.0 0 1 0.0 0 0 - 1 4 5 3 2 0 1 3 -1
+p668
+aVWalter McCarty BOS 12/12/1997 BOS vs. WAS W 13 10 5 8 62.5 0 1 0.0 0 0 - 1 2 3 0 0 0 1 4 12
+p669
+aVPervis Ellison BOS 12/12/1997 BOS vs. WAS W 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 1 0 1 0
+p670
+aVRon Mercer BOS 12/12/1997 BOS vs. WAS W 35 13 5 17 29.4 0 1 0.0 3 4 75.0 1 3 4 3 2 0 1 3 11
+p671
+aVDontae' Jones BOS 12/12/1997 BOS vs. WAS W 10 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 2 0
+p672
+aVDontae' Jones BOS 12/10/1997 BOS vs. MIL W 6 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 0 0 1 1 1 0
+p673
+aVRon Mercer BOS 12/10/1997 BOS vs. MIL W 24 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 3 0 0 2 4 2
+p674
+aVAndrew DeClercq BOS 12/10/1997 BOS vs. MIL W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 4 7
+p675
+aVTyus Edney BOS 12/10/1997 BOS vs. MIL W 11 4 2 4 50.0 0 0 - 0 0 - 0 0 0 5 0 0 1 0 14
+p676
+aVAntoine Walker BOS 12/10/1997 BOS vs. MIL W 44 19 9 17 52.9 1 2 50.0 0 1 0.0 2 6 8 3 1 1 7 4 0
+p677
+aVChauncey Billups BOS 12/10/1997 BOS vs. MIL W 27 21 4 13 30.8 3 5 60.0 10 12 83.3 3 1 4 1 3 0 2 2 0
+p678
+aVBruce Bowen BOS 12/10/1997 BOS vs. MIL W 31 4 1 5 20.0 0 2 0.0 2 2 100.0 1 3 4 2 3 0 2 1 1
+p679
+aVDana Barros BOS 12/10/1997 BOS vs. MIL W 11 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 1 0 0 0 -7
+p680
+aVTravis Knight BOS 12/10/1997 BOS vs. MIL W 35 13 5 11 45.5 1 2 50.0 2 2 100.0 5 5 10 2 2 4 0 4 -6
+p681
+aVWalter McCarty BOS 12/10/1997 BOS vs. MIL W 28 16 6 10 60.0 1 2 50.0 3 4 75.0 2 4 6 1 1 1 2 5 9
+p682
+aVGreg Minor BOS 12/10/1997 BOS vs. MIL W 17 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 1 1 0 1 1 5
+p683
+aVDee Brown BOS 12/05/1997 BOS @ MIA L 21 2 1 7 14.3 0 3 0.0 0 0 - 1 5 6 2 2 0 1 0 2
+p684
+aVChauncey Billups BOS 12/05/1997 BOS @ MIA L 23 17 6 10 60.0 3 4 75.0 2 2 100.0 0 0 0 1 2 0 2 2 -5
+p685
+aVAndrew DeClercq BOS 12/05/1997 BOS @ MIA L 16 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 1 0 2 4 -10
+p686
+aVAntoine Walker BOS 12/05/1997 BOS @ MIA L 38 26 11 26 42.3 0 6 0.0 4 10 40.0 6 6 12 1 1 0 4 3 -14
+p687
+aVDana Barros BOS 12/05/1997 BOS @ MIA L 13 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 0 -11
+p688
+aVBruce Bowen BOS 12/05/1997 BOS @ MIA L 21 9 4 7 57.1 1 1 100.0 0 0 - 3 1 4 1 1 0 1 4 -9
+p689
+aVTravis Knight BOS 12/05/1997 BOS @ MIA L 34 13 5 16 31.3 0 1 0.0 3 4 75.0 4 3 7 2 3 0 3 3 -11
+p690
+aVTyus Edney BOS 12/05/1997 BOS @ MIA L 13 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 1 1 0 1 1 -4
+p691
+aVWalter McCarty BOS 12/05/1997 BOS @ MIA L 35 17 3 10 30.0 1 4 25.0 10 11 90.9 5 3 8 4 0 0 0 4 -23
+p692
+aVRon Mercer BOS 12/05/1997 BOS @ MIA L 20 2 1 9 11.1 0 0 - 0 0 - 2 1 3 2 2 0 1 2 -18
+p693
+aVGreg Minor BOS 12/05/1997 BOS @ MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 3
+p694
+aVBruce Bowen BOS 12/03/1997 BOS vs. CHI L 30 16 6 11 54.5 1 2 50.0 3 4 75.0 3 1 4 1 5 1 0 5 5
+p695
+aVDana Barros BOS 12/03/1997 BOS vs. CHI L 16 6 3 9 33.3 0 2 0.0 0 0 - 0 0 0 3 4 0 0 0 -7
+p696
+aVTyus Edney BOS 12/03/1997 BOS vs. CHI L 18 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 2 1 0 3 0 5
+p697
+aVChauncey Billups BOS 12/03/1997 BOS vs. CHI L 14 9 3 8 37.5 2 4 50.0 1 1 100.0 1 0 1 3 1 0 1 0 -10
+p698
+aVRon Mercer BOS 12/03/1997 BOS vs. CHI L 34 12 6 13 46.2 0 1 0.0 0 1 0.0 2 1 3 1 0 0 0 1 -7
+p699
+aVPervis Ellison BOS 12/03/1997 BOS vs. CHI L 14 2 1 2 50.0 0 0 - 0 0 - 4 1 5 0 0 0 1 1 11
+p700
+aVDee Brown BOS 12/03/1997 BOS vs. CHI L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 6 -4
+p701
+aVAndrew DeClercq BOS 12/03/1997 BOS vs. CHI L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -8
+p702
+aVTravis Knight BOS 12/03/1997 BOS vs. CHI L 26 5 1 7 14.3 0 1 0.0 3 5 60.0 2 7 9 0 4 1 3 4 -9
+p703
+aVAntoine Walker BOS 12/03/1997 BOS vs. CHI L 40 19 8 24 33.3 2 7 28.6 1 4 25.0 6 6 12 1 0 0 3 5 -13
+p704
+aVWalter McCarty BOS 12/03/1997 BOS vs. CHI L 26 7 1 9 11.1 1 1 100.0 4 4 100.0 2 4 6 3 0 1 4 1 -18
+p705
+aVGreg Minor BOS 12/03/1997 BOS vs. CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p706
+aVAndrew DeClercq BOS 11/29/1997 BOS @ CLE L 15 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 1 6 -19
+p707
+aVRon Mercer BOS 11/29/1997 BOS @ CLE L 36 14 5 11 45.5 0 1 0.0 4 4 100.0 1 2 3 0 1 0 3 2 2
+p708
+aVWalter McCarty BOS 11/29/1997 BOS @ CLE L 28 15 6 9 66.7 2 3 66.7 1 3 33.3 0 2 2 3 3 0 2 6 10
+p709
+aVBruce Bowen BOS 11/29/1997 BOS @ CLE L 14 6 3 3 100.0 0 0 - 0 2 0.0 2 0 2 0 1 0 2 2 -1
+p710
+aVPervis Ellison BOS 11/29/1997 BOS @ CLE L 24 5 2 3 66.7 0 0 - 1 2 50.0 3 3 6 0 2 2 2 5 4
+p711
+aVAntoine Walker BOS 11/29/1997 BOS @ CLE L 44 24 9 29 31.0 2 8 25.0 4 5 80.0 5 2 7 4 4 0 1 5 -1
+p712
+aVChauncey Billups BOS 11/29/1997 BOS @ CLE L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p713
+aVDana Barros BOS 11/29/1997 BOS @ CLE L 17 7 2 6 33.3 2 3 66.7 1 1 100.0 1 0 1 1 0 0 1 2 -7
+p714
+aVGreg Minor BOS 11/29/1997 BOS @ CLE L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p715
+aVDee Brown BOS 11/29/1997 BOS @ CLE L 23 7 2 8 25.0 1 3 33.3 2 3 66.7 1 2 3 5 1 1 3 1 -14
+p716
+aVTyus Edney BOS 11/29/1997 BOS @ CLE L 29 13 4 6 66.7 0 0 - 5 5 100.0 0 2 2 7 4 0 2 5 5
+p717
+aVTravis Knight BOS 11/28/1997 BOS vs. PHX L 22 8 4 6 66.7 0 1 0.0 0 0 - 3 5 8 1 0 1 0 3 -1
+p718
+aVAntoine Walker BOS 11/28/1997 BOS vs. PHX L 48 27 11 25 44.0 3 6 50.0 2 5 40.0 1 10 11 5 2 0 3 5 5
+p719
+aVJohn Thomas BOS 11/28/1997 BOS vs. PHX L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 2 2 0
+p720
+aVChauncey Billups BOS 11/28/1997 BOS vs. PHX L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 -10
+p721
+aVRon Mercer BOS 11/28/1997 BOS vs. PHX L 46 26 12 21 57.1 0 1 0.0 2 2 100.0 2 2 4 3 0 2 3 3 -8
+p722
+aVPervis Ellison BOS 11/28/1997 BOS vs. PHX L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 0 1 0 0 -7
+p723
+aVDana Barros BOS 11/28/1997 BOS vs. PHX L 38 17 7 10 70.0 3 5 60.0 0 0 - 1 6 7 9 2 1 1 1 8
+p724
+aVWalter McCarty BOS 11/28/1997 BOS vs. PHX L 26 13 4 10 40.0 1 5 20.0 4 4 100.0 2 1 3 0 0 0 2 2 -7
+p725
+aVTyus Edney BOS 11/28/1997 BOS vs. PHX L 24 7 3 8 37.5 0 0 - 1 3 33.3 0 3 3 5 3 0 1 4 1
+p726
+aVDee Brown BOS 11/28/1997 BOS vs. PHX L 23 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 0 0 -2
+p727
+aVGreg Minor BOS 11/28/1997 BOS vs. PHX L 8 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 1
+p728
+aVRon Mercer BOS 11/26/1997 BOS vs. LAL L 34 18 8 15 53.3 0 0 - 2 4 50.0 1 2 3 2 1 1 2 5 -2
+p729
+aVTyus Edney BOS 11/26/1997 BOS vs. LAL L 12 7 3 6 50.0 0 0 - 1 1 100.0 1 0 1 4 1 0 0 5 -2
+p730
+aVChauncey Billups BOS 11/26/1997 BOS vs. LAL L 21 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 4 1 -8
+p731
+aVAntoine Walker BOS 11/26/1997 BOS vs. LAL L 39 28 9 19 47.4 2 3 66.7 8 17 47.1 3 9 12 7 5 1 7 0 -6
+p732
+aVAndrew DeClercq BOS 11/26/1997 BOS vs. LAL L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 4
+p733
+aVGreg Minor BOS 11/26/1997 BOS vs. LAL L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 2 0 1 3 -10
+p734
+aVTravis Knight BOS 11/26/1997 BOS vs. LAL L 26 18 7 14 50.0 0 3 0.0 4 4 100.0 6 3 9 2 1 1 1 5 -5
+p735
+aVWalter McCarty BOS 11/26/1997 BOS vs. LAL L 31 2 1 6 16.7 0 0 - 0 0 - 2 3 5 2 2 0 2 1 -23
+p736
+aVDee Brown BOS 11/26/1997 BOS vs. LAL L 30 7 3 9 33.3 1 3 33.3 0 0 - 0 3 3 4 4 0 0 3 3
+p737
+aVPervis Ellison BOS 11/26/1997 BOS vs. LAL L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -14
+p738
+aVDana Barros BOS 11/26/1997 BOS vs. LAL L 19 17 7 8 87.5 3 3 100.0 0 0 - 0 0 0 2 1 0 0 2 -12
+p739
+aVDee Brown BOS 11/23/1997 BOS vs. DET W 22 9 2 8 25.0 1 5 20.0 4 4 100.0 0 2 2 1 2 1 0 3 -9
+p740
+aVWalter McCarty BOS 11/23/1997 BOS vs. DET W 24 6 2 8 25.0 0 2 0.0 2 2 100.0 1 3 4 3 2 0 2 6 -4
+p741
+aVAndrew DeClercq BOS 11/23/1997 BOS vs. DET W 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 0
+p742
+aVAntoine Walker BOS 11/23/1997 BOS vs. DET W 38 29 12 23 52.2 1 4 25.0 4 7 57.1 4 3 7 1 0 0 2 2 6
+p743
+aVChauncey Billups BOS 11/23/1997 BOS vs. DET W 34 13 4 10 40.0 2 7 28.6 3 4 75.0 0 4 4 6 0 0 4 2 8
+p744
+aVJohn Thomas BOS 11/23/1997 BOS vs. DET W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p745
+aVTyus Edney BOS 11/23/1997 BOS vs. DET W 10 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 1 -3
+p746
+aVPervis Ellison BOS 11/23/1997 BOS vs. DET W 18 6 3 5 60.0 0 0 - 0 0 - 3 1 4 0 1 1 0 5 -7
+p747
+aVRon Mercer BOS 11/23/1997 BOS vs. DET W 34 16 7 15 46.7 0 0 - 2 4 50.0 1 4 5 2 1 0 2 3 8
+p748
+aVTravis Knight BOS 11/23/1997 BOS vs. DET W 27 4 2 6 33.3 0 3 0.0 0 0 - 0 5 5 2 0 1 2 2 11
+p749
+aVGreg Minor BOS 11/23/1997 BOS vs. DET W 21 3 1 1 100.0 0 0 - 1 2 50.0 0 5 5 4 4 0 2 2 11
+p750
+aVDana Barros BOS 11/23/1997 BOS vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p751
+aVWalter McCarty BOS 11/21/1997 BOS vs. NJN W 23 5 1 6 16.7 0 0 - 3 4 75.0 1 5 6 1 1 0 4 5 2
+p752
+aVChauncey Billups BOS 11/21/1997 BOS vs. NJN W 18 6 2 7 28.6 0 2 0.0 2 2 100.0 0 0 0 3 1 0 2 4 -2
+p753
+aVJohn Thomas BOS 11/21/1997 BOS vs. NJN W 10 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 2 -2
+p754
+aVDana Barros BOS 11/21/1997 BOS vs. NJN W 11 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 1 0 0 0 2 8
+p755
+aVTravis Knight BOS 11/21/1997 BOS vs. NJN W 21 3 1 4 25.0 0 1 0.0 1 2 50.0 1 3 4 1 1 4 5 5 -6
+p756
+aVRon Mercer BOS 11/21/1997 BOS vs. NJN W 22 11 3 11 27.3 0 1 0.0 5 5 100.0 2 2 4 1 1 0 0 4 0
+p757
+aVPervis Ellison BOS 11/21/1997 BOS vs. NJN W 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 2 5 1 6 6
+p758
+aVDee Brown BOS 11/21/1997 BOS vs. NJN W 26 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 2 1 0 1 2 5
+p759
+aVGreg Minor BOS 11/21/1997 BOS vs. NJN W 29 12 2 8 25.0 0 0 - 8 9 88.9 2 4 6 2 1 1 2 1 7
+p760
+aVAntoine Walker BOS 11/21/1997 BOS vs. NJN W 36 24 9 15 60.0 2 4 50.0 4 4 100.0 1 11 12 5 1 0 6 2 9
+p761
+aVAndrew DeClercq BOS 11/21/1997 BOS vs. NJN W 11 6 2 4 50.0 0 0 - 2 2 100.0 3 3 6 0 2 0 0 5 5
+p762
+aVTyus Edney BOS 11/21/1997 BOS vs. NJN W 19 12 3 5 60.0 0 0 - 6 7 85.7 0 2 2 2 0 0 2 1 8
+p763
+aVDana Barros BOS 11/19/1997 BOS @ NJN L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 1 1
+p764
+aVRon Mercer BOS 11/19/1997 BOS @ NJN L 26 5 1 7 14.3 1 1 100.0 2 2 100.0 0 3 3 1 1 0 5 3 -24
+p765
+aVAntoine Walker BOS 11/19/1997 BOS @ NJN L 31 21 10 16 62.5 0 1 0.0 1 2 50.0 1 2 3 4 2 1 4 3 2
+p766
+aVDee Brown BOS 11/19/1997 BOS @ NJN L 35 16 6 13 46.2 4 7 57.1 0 0 - 1 1 2 3 1 0 1 3 -7
+p767
+aVTravis Knight BOS 11/19/1997 BOS @ NJN L 24 16 5 9 55.6 2 5 40.0 4 4 100.0 3 4 7 6 1 3 0 5 10
+p768
+aVAndrew DeClercq BOS 11/19/1997 BOS @ NJN L 10 0 0 1 0.0 0 0 - 0 2 0.0 1 3 4 0 1 1 0 3 -10
+p769
+aVGreg Minor BOS 11/19/1997 BOS @ NJN L 12 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 1
+p770
+aVWalter McCarty BOS 11/19/1997 BOS @ NJN L 31 18 7 11 63.6 1 2 50.0 3 3 100.0 5 5 10 1 0 0 4 5 9
+p771
+aVTyus Edney BOS 11/19/1997 BOS @ NJN L 24 8 2 12 16.7 0 1 0.0 4 6 66.7 3 2 5 4 0 0 2 2 -4
+p772
+aVChauncey Billups BOS 11/19/1997 BOS @ NJN L 19 5 2 10 20.0 1 3 33.3 0 0 - 1 0 1 2 2 0 3 3 -5
+p773
+aVJohn Thomas BOS 11/19/1997 BOS @ NJN L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -2
+p774
+aVPervis Ellison BOS 11/19/1997 BOS @ NJN L 17 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 1 1 2 1 5 -11
+p775
+aVDana Barros BOS 11/18/1997 BOS @ TOR W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -2
+p776
+aVPervis Ellison BOS 11/18/1997 BOS @ TOR W 17 4 2 4 50.0 0 0 - 0 0 - 4 1 5 2 0 0 2 3 0
+p777
+aVRon Mercer BOS 11/18/1997 BOS @ TOR W 25 11 4 10 40.0 0 1 0.0 3 4 75.0 0 2 2 2 1 0 3 4 1
+p778
+aVDee Brown BOS 11/18/1997 BOS @ TOR W 27 16 6 10 60.0 4 5 80.0 0 0 - 0 3 3 2 1 0 0 3 5
+p779
+aVChauncey Billups BOS 11/18/1997 BOS @ TOR W 28 15 5 11 45.5 0 3 0.0 5 5 100.0 0 1 1 8 2 0 3 5 5
+p780
+aVTravis Knight BOS 11/18/1997 BOS @ TOR W 16 9 3 4 75.0 1 1 100.0 2 4 50.0 3 3 6 0 0 3 1 4 13
+p781
+aVGreg Minor BOS 11/18/1997 BOS @ TOR W 21 17 7 13 53.8 0 0 - 3 4 75.0 1 1 2 2 0 1 0 1 14
+p782
+aVWalter McCarty BOS 11/18/1997 BOS @ TOR W 31 18 7 11 63.6 1 1 100.0 3 4 75.0 0 3 3 5 3 2 1 1 14
+p783
+aVAntoine Walker BOS 11/18/1997 BOS @ TOR W 34 14 5 13 38.5 1 3 33.3 3 5 60.0 2 8 10 4 3 1 1 4 18
+p784
+aVTyus Edney BOS 11/18/1997 BOS @ TOR W 13 10 3 5 60.0 0 0 - 4 4 100.0 0 0 0 5 0 0 1 1 10
+p785
+aVAndrew DeClercq BOS 11/18/1997 BOS @ TOR W 23 8 4 7 57.1 0 0 - 0 1 0.0 4 2 6 1 0 0 1 4 -13
+p786
+aVDana Barros BOS 11/15/1997 BOS @ PHI W 12 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 2 1 -7
+p787
+aVAntoine Walker BOS 11/15/1997 BOS @ PHI W 37 25 9 23 39.1 2 4 50.0 5 8 62.5 2 11 13 4 1 1 4 4 8
+p788
+aVDee Brown BOS 11/15/1997 BOS @ PHI W 33 9 3 8 37.5 1 3 33.3 2 2 100.0 0 1 1 2 2 0 0 3 14
+p789
+aVTyus Edney BOS 11/15/1997 BOS @ PHI W 22 14 4 9 44.4 0 0 - 6 6 100.0 1 2 3 2 1 0 0 2 -3
+p790
+aVAndrew DeClercq BOS 11/15/1997 BOS @ PHI W 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -3
+p791
+aVPervis Ellison BOS 11/15/1997 BOS @ PHI W 16 6 3 3 100.0 0 0 - 0 0 - 3 3 6 3 0 3 2 4 11
+p792
+aVTravis Knight BOS 11/15/1997 BOS @ PHI W 24 3 1 7 14.3 1 3 33.3 0 0 - 1 6 7 3 1 1 2 3 -2
+p793
+aVWalter McCarty BOS 11/15/1997 BOS @ PHI W 36 19 8 11 72.7 0 1 0.0 3 4 75.0 3 4 7 3 2 3 0 6 4
+p794
+aVGreg Minor BOS 11/15/1997 BOS @ PHI W 22 12 5 8 62.5 0 0 - 2 6 33.3 0 0 0 1 2 0 0 2 0
+p795
+aVChauncey Billups BOS 11/15/1997 BOS @ PHI W 29 12 4 10 40.0 2 3 66.7 2 4 50.0 1 1 2 9 3 0 1 2 8
+p796
+aVTravis Knight BOS 11/14/1997 BOS vs. TOR W 33 6 3 6 50.0 0 1 0.0 0 0 - 3 6 9 2 0 2 4 3 -5
+p797
+aVTyus Edney BOS 11/14/1997 BOS vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p798
+aVChauncey Billups BOS 11/14/1997 BOS vs. TOR W 29 22 5 14 35.7 3 6 50.0 9 10 90.0 1 1 2 3 4 0 2 4 -4
+p799
+aVPervis Ellison BOS 11/14/1997 BOS vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p800
+aVAndrew DeClercq BOS 11/14/1997 BOS vs. TOR W 14 6 3 5 60.0 0 0 - 0 2 0.0 1 1 2 2 0 0 2 3 5
+p801
+aVBruce Bowen BOS 11/14/1997 BOS vs. TOR W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 1 0 2 13
+p802
+aVRon Mercer BOS 11/14/1997 BOS vs. TOR W 23 8 4 11 36.4 0 0 - 0 0 - 1 1 2 4 2 1 1 2 -3
+p803
+aVDee Brown BOS 11/14/1997 BOS vs. TOR W 22 9 3 7 42.9 1 2 50.0 2 4 50.0 0 1 1 0 1 0 2 3 0
+p804
+aVAntoine Walker BOS 11/14/1997 BOS vs. TOR W 41 22 9 17 52.9 0 1 0.0 4 6 66.7 6 12 18 5 3 2 3 1 11
+p805
+aVDana Barros BOS 11/14/1997 BOS vs. TOR W 17 18 6 6 100.0 3 3 100.0 3 4 75.0 0 0 0 2 0 0 1 4 5
+p806
+aVWalter McCarty BOS 11/14/1997 BOS vs. TOR W 31 10 2 7 28.6 0 0 - 6 10 60.0 2 1 3 4 2 0 2 4 -11
+p807
+aVGreg Minor BOS 11/14/1997 BOS vs. TOR W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 1 0 0 6
+p808
+aVDana Barros BOS 11/12/1997 BOS vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p809
+aVChauncey Billups BOS 11/12/1997 BOS vs. DEN W 27 8 2 8 25.0 0 4 0.0 4 4 100.0 1 1 2 6 2 0 1 2 7
+p810
+aVWalter McCarty BOS 11/12/1997 BOS vs. DEN W 26 13 4 10 40.0 1 1 100.0 4 4 100.0 1 2 3 0 2 0 2 5 -9
+p811
+aVBruce Bowen BOS 11/12/1997 BOS vs. DEN W 23 9 3 7 42.9 1 1 100.0 2 4 50.0 2 1 3 3 3 1 2 2 20
+p812
+aVDee Brown BOS 11/12/1997 BOS vs. DEN W 21 8 4 8 50.0 0 1 0.0 0 0 - 2 1 3 2 2 0 1 0 10
+p813
+aVAntoine Walker BOS 11/12/1997 BOS vs. DEN W 40 19 4 15 26.7 1 1 100.0 10 11 90.9 9 3 12 5 3 0 4 4 7
+p814
+aVTyus Edney BOS 11/12/1997 BOS vs. DEN W 17 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 1 2 0 4 3 14
+p815
+aVTravis Knight BOS 11/12/1997 BOS vs. DEN W 29 17 7 15 46.7 1 5 20.0 2 2 100.0 2 4 6 1 2 0 1 4 -5
+p816
+aVAndrew DeClercq BOS 11/12/1997 BOS vs. DEN W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 2 1 3 4
+p817
+aVPervis Ellison BOS 11/12/1997 BOS vs. DEN W 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 2 0 1 3
+p818
+aVRon Mercer BOS 11/12/1997 BOS vs. DEN W 33 16 8 18 44.4 0 0 - 0 0 - 1 5 6 2 0 0 1 1 1
+p819
+aVGreg Minor BOS 11/12/1997 BOS vs. DEN W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p820
+aVChauncey Billups BOS 11/08/1997 BOS @ MIL L 22 10 4 6 66.7 0 2 0.0 2 5 40.0 0 0 0 4 3 0 3 0 -5
+p821
+aVPervis Ellison BOS 11/08/1997 BOS @ MIL L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 2 1 2
+p822
+aVTravis Knight BOS 11/08/1997 BOS @ MIL L 33 5 2 9 22.2 1 3 33.3 0 0 - 2 5 7 3 0 2 2 1 -10
+p823
+aVWalter McCarty BOS 11/08/1997 BOS @ MIL L 28 10 4 7 57.1 0 2 0.0 2 2 100.0 2 3 5 1 0 2 3 6 -7
+p824
+aVAndrew DeClercq BOS 11/08/1997 BOS @ MIL L 10 10 5 7 71.4 0 0 - 0 0 - 1 0 1 0 1 0 1 2 -1
+p825
+aVRon Mercer BOS 11/08/1997 BOS @ MIL L 37 17 7 9 77.8 0 0 - 3 4 75.0 1 3 4 5 3 0 2 6 -3
+p826
+aVAntoine Walker BOS 11/08/1997 BOS @ MIL L 40 21 8 17 47.1 0 1 0.0 5 11 45.5 4 8 12 3 1 0 8 2 -9
+p827
+aVTyus Edney BOS 11/08/1997 BOS @ MIL L 26 11 4 10 40.0 0 0 - 3 5 60.0 1 1 2 10 1 0 1 4 -4
+p828
+aVBruce Bowen BOS 11/08/1997 BOS @ MIL L 12 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 1 0 0 0 4
+p829
+aVDee Brown BOS 11/08/1997 BOS @ MIL L 19 8 4 7 57.1 0 1 0.0 0 0 - 1 0 1 0 1 0 1 2 -12
+p830
+aVRon Mercer BOS 11/07/1997 BOS vs. CLE L 23 16 5 11 45.5 0 1 0.0 6 8 75.0 1 2 3 0 1 1 2 5 1
+p831
+aVWalter McCarty BOS 11/07/1997 BOS vs. CLE L 43 13 4 11 36.4 0 1 0.0 5 6 83.3 3 3 6 4 4 2 3 3 5
+p832
+aVAndrew DeClercq BOS 11/07/1997 BOS vs. CLE L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p833
+aVTravis Knight BOS 11/07/1997 BOS vs. CLE L 26 9 4 8 50.0 1 2 50.0 0 0 - 6 3 9 3 1 2 2 4 -5
+p834
+aVDee Brown BOS 11/07/1997 BOS vs. CLE L 27 6 3 8 37.5 0 4 0.0 0 0 - 1 0 1 4 1 0 2 2 -5
+p835
+aVDana Barros BOS 11/07/1997 BOS vs. CLE L 24 6 3 7 42.9 0 2 0.0 0 0 - 2 3 5 2 1 0 0 4 -1
+p836
+aVAntoine Walker BOS 11/07/1997 BOS vs. CLE L 41 22 9 23 39.1 0 3 0.0 4 8 50.0 2 9 11 3 0 1 4 3 -9
+p837
+aVChauncey Billups BOS 11/07/1997 BOS vs. CLE L 25 14 4 8 50.0 1 4 25.0 5 5 100.0 0 3 3 3 1 0 1 5 -1
+p838
+aVBruce Bowen BOS 11/07/1997 BOS vs. CLE L 9 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -6
+p839
+aVJohn Thomas BOS 11/07/1997 BOS vs. CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p840
+aVPervis Ellison BOS 11/07/1997 BOS vs. CLE L 17 4 1 1 100.0 0 0 - 2 4 50.0 1 2 3 2 1 1 1 5 -2
+p841
+aVBruce Bowen BOS 11/05/1997 BOS vs. MIA L 31 10 3 5 60.0 2 2 100.0 2 2 100.0 1 2 3 3 1 1 1 4 -9
+p842
+aVAntoine Walker BOS 11/05/1997 BOS vs. MIA L 42 20 8 24 33.3 0 4 0.0 4 9 44.4 5 8 13 5 4 4 6 3 -12
+p843
+aVWalter McCarty BOS 11/05/1997 BOS vs. MIA L 30 7 2 11 18.2 1 3 33.3 2 2 100.0 3 0 3 2 2 1 1 4 -6
+p844
+aVRon Mercer BOS 11/05/1997 BOS vs. MIA L 33 12 5 10 50.0 0 1 0.0 2 4 50.0 0 5 5 3 0 0 1 1 -5
+p845
+aVAndrew DeClercq BOS 11/05/1997 BOS vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p846
+aVPervis Ellison BOS 11/05/1997 BOS vs. MIA L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -8
+p847
+aVTravis Knight BOS 11/05/1997 BOS vs. MIA L 31 16 7 11 63.6 2 3 66.7 0 0 - 2 8 10 2 0 0 4 0 -3
+p848
+aVChauncey Billups BOS 11/05/1997 BOS vs. MIA L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -9
+p849
+aVDana Barros BOS 11/05/1997 BOS vs. MIA L 30 7 3 9 33.3 1 5 20.0 0 0 - 2 3 5 3 0 0 2 1 -8
+p850
+aVDee Brown BOS 11/05/1997 BOS vs. MIA L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -15
+p851
+aVPervis Ellison BOS 11/04/1997 BOS @ NYK L 14 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 1 0 0 6 -14
+p852
+aVDontae' Jones BOS 11/04/1997 BOS @ NYK L 14 2 1 8 12.5 0 2 0.0 0 0 - 0 1 1 1 0 0 2 4 -13
+p853
+aVBruce Bowen BOS 11/04/1997 BOS @ NYK L 22 11 4 7 57.1 1 2 50.0 2 4 50.0 0 0 0 3 3 0 3 3 -6
+p854
+aVChauncey Billups BOS 11/04/1997 BOS @ NYK L 31 5 1 5 20.0 1 2 50.0 2 2 100.0 0 4 4 3 1 0 7 1 -23
+p855
+aVWalter McCarty BOS 11/04/1997 BOS @ NYK L 31 6 3 11 27.3 0 1 0.0 0 0 - 0 7 7 2 1 0 4 3 -18
+p856
+aVDee Brown BOS 11/04/1997 BOS @ NYK L 15 4 2 6 33.3 0 4 0.0 0 0 - 0 3 3 0 1 0 0 1 -9
+p857
+aVAntoine Walker BOS 11/04/1997 BOS @ NYK L 28 9 2 15 13.3 1 3 33.3 4 6 66.7 0 1 1 4 2 1 0 1 -23
+p858
+aVDana Barros BOS 11/04/1997 BOS @ NYK L 17 9 3 4 75.0 1 2 50.0 2 2 100.0 0 1 1 3 3 0 3 0 -9
+p859
+aVTravis Knight BOS 11/04/1997 BOS @ NYK L 21 13 6 10 60.0 1 3 33.3 0 0 - 0 2 2 1 1 0 2 3 -6
+p860
+aVAndrew DeClercq BOS 11/04/1997 BOS @ NYK L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 5 -12
+p861
+aVRon Mercer BOS 11/04/1997 BOS @ NYK L 29 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 1 1 0 1 3 -23
+p862
+aVJohn Thomas BOS 11/04/1997 BOS @ NYK L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p863
+aVAntoine Walker BOS 11/02/1997 BOS vs. ORL L 30 19 7 20 35.0 2 6 33.3 3 4 75.0 4 7 11 3 1 0 2 3 -19
+p864
+aVDana Barros BOS 11/02/1997 BOS vs. ORL L 27 2 0 9 0.0 0 5 0.0 2 2 100.0 0 1 1 3 1 0 1 2 -4
+p865
+aVJohn Thomas BOS 11/02/1997 BOS vs. ORL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p866
+aVWalter McCarty BOS 11/02/1997 BOS vs. ORL L 38 8 2 11 18.2 1 1 100.0 3 4 75.0 4 3 7 6 2 0 3 2 -9
+p867
+aVAndrew DeClercq BOS 11/02/1997 BOS vs. ORL L 21 5 2 6 33.3 0 0 - 1 2 50.0 7 5 12 1 1 1 2 4 4
+p868
+aVDee Brown BOS 11/02/1997 BOS vs. ORL L 19 11 5 6 83.3 1 2 50.0 0 0 - 0 2 2 1 0 1 1 1 -15
+p869
+aVPervis Ellison BOS 11/02/1997 BOS vs. ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p870
+aVChauncey Billups BOS 11/02/1997 BOS vs. ORL L 23 5 2 8 25.0 0 2 0.0 1 2 50.0 1 2 3 4 0 0 0 1 -9
+p871
+aVBruce Bowen BOS 11/02/1997 BOS vs. ORL L 13 6 2 4 50.0 0 0 - 2 3 66.7 2 2 4 2 2 1 2 4 -6
+p872
+aVDontae' Jones BOS 11/02/1997 BOS vs. ORL L 10 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 1 1 1 1 3
+p873
+aVRon Mercer BOS 11/02/1997 BOS vs. ORL L 27 23 9 14 64.3 1 1 100.0 4 5 80.0 4 0 4 2 3 0 1 2 8
+p874
+aVTravis Knight BOS 11/02/1997 BOS vs. ORL L 24 13 4 8 50.0 2 2 100.0 3 4 75.0 2 2 4 1 1 0 2 4 -8
+p875
+aVPervis Ellison BOS 10/31/1997 BOS vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p876
+aVWalter McCarty BOS 10/31/1997 BOS vs. CHI W 21 9 4 12 33.3 0 1 0.0 1 1 100.0 4 2 6 3 1 1 3 5 8
+p877
+aVJohn Thomas BOS 10/31/1997 BOS vs. CHI W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -7
+p878
+aVAndrew DeClercq BOS 10/31/1997 BOS vs. CHI W 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 2 1 0 1 5 9
+p879
+aVDana Barros BOS 10/31/1997 BOS vs. CHI W 31 6 2 7 28.6 2 5 40.0 0 0 - 1 5 6 3 0 0 2 0 18
+p880
+aVRon Mercer BOS 10/31/1997 BOS vs. CHI W 30 11 5 10 50.0 0 0 - 1 3 33.3 3 2 5 1 0 0 0 2 6
+p881
+aVDee Brown BOS 10/31/1997 BOS vs. CHI W 19 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -10
+p882
+aVChauncey Billups BOS 10/31/1997 BOS vs. CHI W 17 15 6 12 50.0 1 4 25.0 2 2 100.0 2 0 2 4 2 0 3 3 -9
+p883
+aVTravis Knight BOS 10/31/1997 BOS vs. CHI W 34 8 3 7 42.9 0 1 0.0 2 2 100.0 4 9 13 2 0 2 4 3 -3
+p884
+aVBruce Bowen BOS 10/31/1997 BOS vs. CHI W 27 8 3 8 37.5 0 0 - 2 2 100.0 2 4 6 1 0 0 0 3 4
+p885
+aVAntoine Walker BOS 10/31/1997 BOS vs. CHI W 40 31 13 26 50.0 2 6 33.3 3 5 60.0 3 5 8 2 5 2 7 5 18
+p886
+a.

@@ -1,0 +1,1632 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDesmond Mason MIL 04/16/2008 MIL @ MIN L 36 14 4 13 30.8 0 0 - 6 6 100.0 0 2 2 3 0 0 2 4 -10
+p2
+aVCharlie Villanueva MIL 04/16/2008 MIL @ MIN L 35 16 6 17 35.3 1 5 20.0 3 3 100.0 3 2 5 3 1 1 3 5 -20
+p3
+aVMichael Redd MIL 04/16/2008 MIL @ MIN L 27 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 2 0 0 2 1 -18
+p4
+aVBobby Simmons MIL 04/16/2008 MIL @ MIN L 26 9 4 11 36.4 1 5 20.0 0 0 - 0 3 3 0 0 0 2 3 9
+p5
+aVRamon Sessions MIL 04/16/2008 MIL @ MIN L 53 25 11 17 64.7 1 2 50.0 2 3 66.7 0 7 7 14 3 0 3 1 -9
+p6
+aVMichael Ruffin MIL 04/16/2008 MIL @ MIN L 11 1 0 0 - 0 0 - 1 2 50.0 2 4 6 1 1 0 1 0 7
+p7
+aVDan Gadzuric MIL 04/16/2008 MIL @ MIN L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 4
+p8
+aVAwvee Storey MIL 04/16/2008 MIL @ MIN L 16 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 1 0 0 3 3 1
+p9
+aVAndrew Bogut MIL 04/16/2008 MIL @ MIN L 39 24 12 18 66.7 0 0 - 0 0 - 5 10 15 2 0 0 1 2 -12
+p10
+aVJake Voskuhl MIL 04/16/2008 MIL @ MIN L 14 3 1 4 25.0 0 0 - 1 2 50.0 2 7 9 0 0 3 0 2 3
+p11
+aVAndrew Bogut MIL 04/14/2008 MIL vs. CHI L 30 25 8 11 72.7 0 0 - 9 14 64.3 3 5 8 3 2 2 2 3 -20
+p12
+aVCharlie Villanueva MIL 04/14/2008 MIL vs. CHI L 32 22 8 12 66.7 4 5 80.0 2 3 66.7 1 3 4 0 0 0 3 3 -11
+p13
+aVRamon Sessions MIL 04/14/2008 MIL vs. CHI L 44 20 7 12 58.3 0 0 - 6 7 85.7 2 6 8 24 1 1 2 2 -13
+p14
+aVDan Gadzuric MIL 04/14/2008 MIL vs. CHI L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p15
+aVBobby Simmons MIL 04/14/2008 MIL vs. CHI L 18 16 6 9 66.7 4 6 66.7 0 0 - 0 3 3 0 1 0 2 0 -6
+p16
+aVJake Voskuhl MIL 04/14/2008 MIL vs. CHI L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 5
+p17
+aVRoyal Ivey MIL 04/14/2008 MIL vs. CHI L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -14
+p18
+aVMichael Redd MIL 04/14/2008 MIL vs. CHI L 31 22 9 18 50.0 1 5 20.0 3 4 75.0 1 2 3 2 2 0 3 0 -18
+p19
+aVAwvee Storey MIL 04/14/2008 MIL vs. CHI L 12 7 3 5 60.0 0 1 0.0 1 2 50.0 1 0 1 1 1 0 0 0 3
+p20
+aVDesmond Mason MIL 04/14/2008 MIL vs. CHI L 37 17 6 11 54.5 0 0 - 5 6 83.3 1 1 2 1 0 0 1 2 -10
+p21
+aVMichael Ruffin MIL 04/14/2008 MIL vs. CHI L 13 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 1 1 6
+p22
+aVBobby Simmons MIL 04/12/2008 MIL vs. NJN L 27 15 6 10 60.0 2 4 50.0 1 2 50.0 0 1 1 2 1 0 0 3 -8
+p23
+aVJake Voskuhl MIL 04/12/2008 MIL vs. NJN L 17 8 3 3 100.0 0 0 - 2 2 100.0 2 2 4 0 2 1 2 2 16
+p24
+aVMichael Redd MIL 04/12/2008 MIL vs. NJN L 30 12 3 7 42.9 3 4 75.0 3 6 50.0 1 1 2 2 0 0 3 1 -21
+p25
+aVAwvee Storey MIL 04/12/2008 MIL vs. NJN L 12 8 3 5 60.0 0 0 - 2 5 40.0 1 2 3 0 1 0 0 2 7
+p26
+aVRamon Sessions MIL 04/12/2008 MIL vs. NJN L 43 12 6 11 54.5 0 0 - 0 0 - 0 6 6 13 2 0 2 2 -14
+p27
+aVDesmond Mason MIL 04/12/2008 MIL vs. NJN L 34 18 7 11 63.6 0 0 - 4 7 57.1 2 2 4 3 0 0 5 4 -6
+p28
+aVAndrew Bogut MIL 04/12/2008 MIL vs. NJN L 35 7 2 6 33.3 0 0 - 3 4 75.0 2 6 8 1 2 0 5 1 -26
+p29
+aVRoyal Ivey MIL 04/12/2008 MIL vs. NJN L 27 11 4 9 44.4 1 2 50.0 2 2 100.0 1 1 2 5 0 0 2 3 -3
+p30
+aVDan Gadzuric MIL 04/12/2008 MIL vs. NJN L 16 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 1 -10
+p31
+aVJake Voskuhl MIL 04/11/2008 MIL @ BOS L 18 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -4
+p32
+aVMichael Ruffin MIL 04/11/2008 MIL @ BOS L 19 1 0 0 - 0 0 - 1 4 25.0 2 7 9 1 2 1 0 1 -4
+p33
+aVAwvee Storey MIL 04/11/2008 MIL @ BOS L 17 12 4 9 44.4 0 0 - 4 5 80.0 5 2 7 0 0 0 0 1 -4
+p34
+aVDesmond Mason MIL 04/11/2008 MIL @ BOS L 25 12 4 9 44.4 0 0 - 4 6 66.7 1 2 3 1 0 0 1 0 -12
+p35
+aVMichael Redd MIL 04/11/2008 MIL @ BOS L 28 18 7 18 38.9 2 5 40.0 2 2 100.0 4 0 4 1 0 0 2 1 -18
+p36
+aVAndrew Bogut MIL 04/11/2008 MIL @ BOS L 35 14 6 12 50.0 0 1 0.0 2 2 100.0 1 5 6 3 1 0 0 4 -17
+p37
+aVRoyal Ivey MIL 04/11/2008 MIL @ BOS L 12 5 1 5 20.0 0 2 0.0 3 4 75.0 1 0 1 1 1 0 2 2 0
+p38
+aVRamon Sessions MIL 04/11/2008 MIL @ BOS L 43 8 3 8 37.5 0 0 - 2 3 66.7 0 5 5 14 2 0 5 0 -11
+p39
+aVBobby Simmons MIL 04/11/2008 MIL @ BOS L 19 5 1 7 14.3 1 4 25.0 2 2 100.0 0 2 2 0 1 0 1 0 -3
+p40
+aVDan Gadzuric MIL 04/11/2008 MIL @ BOS L 24 9 4 9 44.4 0 0 - 1 2 50.0 2 2 4 0 1 1 0 0 -7
+p41
+aVRamon Sessions MIL 04/09/2008 MIL @ TOR L 36 6 3 12 25.0 0 1 0.0 0 0 - 1 3 4 10 0 0 4 0 -12
+p42
+aVBobby Simmons MIL 04/09/2008 MIL @ TOR L 29 11 5 12 41.7 1 5 20.0 0 0 - 3 3 6 2 1 0 1 3 -4
+p43
+aVRoyal Ivey MIL 04/09/2008 MIL @ TOR L 23 9 3 8 37.5 2 3 66.7 1 2 50.0 1 0 1 0 0 0 1 2 3
+p44
+aVMichael Redd MIL 04/09/2008 MIL @ TOR L 37 17 6 15 40.0 1 4 25.0 4 5 80.0 2 1 3 2 0 0 2 2 -27
+p45
+aVDesmond Mason MIL 04/09/2008 MIL @ TOR L 20 2 1 5 20.0 0 0 - 0 0 - 1 1 2 3 0 0 2 0 -16
+p46
+aVMichael Ruffin MIL 04/09/2008 MIL @ TOR L 15 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 3 10
+p47
+aVAndrew Bogut MIL 04/09/2008 MIL @ TOR L 33 10 5 10 50.0 0 0 - 0 0 - 5 4 9 2 1 2 2 3 -26
+p48
+aVCharlie Villanueva MIL 04/09/2008 MIL @ TOR L 47 38 14 25 56.0 7 12 58.3 3 5 60.0 0 12 12 1 1 0 2 3 -18
+p49
+aVAndrew Bogut MIL 04/08/2008 MIL vs. BOS L 46 15 5 14 35.7 0 0 - 5 7 71.4 5 10 15 5 2 4 10 3 -1
+p50
+aVDan Gadzuric MIL 04/08/2008 MIL vs. BOS L 11 4 1 2 50.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 4 9
+p51
+aVMichael Redd MIL 04/08/2008 MIL vs. BOS L 45 25 8 19 42.1 3 8 37.5 6 6 100.0 0 1 1 6 1 0 2 1 3
+p52
+aVBobby Simmons MIL 04/08/2008 MIL vs. BOS L 26 13 4 6 66.7 3 4 75.0 2 2 100.0 1 2 3 2 1 0 3 6 2
+p53
+aVRamon Sessions MIL 04/08/2008 MIL vs. BOS L 37 13 5 11 45.5 1 2 50.0 2 4 50.0 2 4 6 7 3 0 5 3 -7
+p54
+aVRoyal Ivey MIL 04/08/2008 MIL vs. BOS L 25 12 3 9 33.3 2 5 40.0 4 4 100.0 0 1 1 1 1 0 0 4 1
+p55
+aVMichael Ruffin MIL 04/08/2008 MIL vs. BOS L 25 6 3 3 100.0 0 0 - 0 0 - 2 3 5 2 1 1 1 6 15
+p56
+aVDesmond Mason MIL 04/08/2008 MIL vs. BOS L 34 14 4 15 26.7 0 0 - 6 7 85.7 2 3 5 1 3 0 1 1 -10
+p57
+aVCharlie Villanueva MIL 04/08/2008 MIL vs. BOS L 15 2 1 6 16.7 0 1 0.0 0 0 - 1 3 4 0 0 0 1 2 -27
+p58
+aVBobby Simmons MIL 04/06/2008 MIL @ IND L 28 11 5 11 45.5 1 3 33.3 0 0 - 1 3 4 0 0 0 1 2 -8
+p59
+aVAndrew Bogut MIL 04/06/2008 MIL @ IND L 39 16 6 8 75.0 0 0 - 4 8 50.0 4 10 14 3 1 3 3 3 6
+p60
+aVCharlie Villanueva MIL 04/06/2008 MIL @ IND L 36 22 8 16 50.0 1 2 50.0 5 7 71.4 2 11 13 2 0 0 0 3 -3
+p61
+aVRamon Sessions MIL 04/06/2008 MIL @ IND L 42 8 3 10 30.0 0 0 - 2 2 100.0 0 3 3 10 1 2 4 4 -11
+p62
+aVMichael Ruffin MIL 04/06/2008 MIL @ IND L 14 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 3 -10
+p63
+aVRoyal Ivey MIL 04/06/2008 MIL @ IND L 14 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 2 -4
+p64
+aVMichael Redd MIL 04/06/2008 MIL @ IND L 40 24 10 21 47.6 0 4 0.0 4 5 80.0 1 6 7 1 1 0 4 2 -1
+p65
+aVDesmond Mason MIL 04/06/2008 MIL @ IND L 27 16 7 11 63.6 0 0 - 2 2 100.0 0 3 3 1 0 1 2 2 -9
+p66
+aVMo Williams MIL 04/04/2008 MIL vs. IND L 18 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 8 0 0 0 5 5
+p67
+aVAndrew Bogut MIL 04/04/2008 MIL vs. IND L 40 21 8 17 47.1 0 0 - 5 9 55.6 4 12 16 1 1 3 2 4 -5
+p68
+aVDesmond Mason MIL 04/04/2008 MIL vs. IND L 25 8 4 11 36.4 0 0 - 0 0 - 1 1 2 1 1 1 3 3 1
+p69
+aVRoyal Ivey MIL 04/04/2008 MIL vs. IND L 25 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 3 3 0 1 3 -7
+p70
+aVBobby Simmons MIL 04/04/2008 MIL vs. IND L 19 11 4 8 50.0 1 1 100.0 2 2 100.0 0 3 3 1 2 0 1 5 -1
+p71
+aVMichael Ruffin MIL 04/04/2008 MIL vs. IND L 13 3 0 0 - 0 0 - 3 6 50.0 4 1 5 0 3 0 1 1 -1
+p72
+aVMichael Redd MIL 04/04/2008 MIL vs. IND L 38 28 11 24 45.8 0 2 0.0 6 6 100.0 2 2 4 1 1 0 2 3 -4
+p73
+aVCharlie Villanueva MIL 04/04/2008 MIL vs. IND L 30 11 3 7 42.9 0 2 0.0 5 6 83.3 2 7 9 1 2 0 3 5 -4
+p74
+aVRamon Sessions MIL 04/04/2008 MIL vs. IND L 31 11 3 8 37.5 1 2 50.0 4 6 66.7 1 3 4 7 1 0 3 1 -4
+p75
+aVMo Williams MIL 04/02/2008 MIL @ WAS W 28 13 6 11 54.5 1 5 20.0 0 0 - 0 3 3 7 1 1 4 2 -5
+p76
+aVRamon Sessions MIL 04/02/2008 MIL @ WAS W 24 8 4 6 66.7 0 0 - 0 0 - 0 2 2 8 2 0 3 4 5
+p77
+aVCharlie Villanueva MIL 04/02/2008 MIL @ WAS W 37 24 10 15 66.7 2 4 50.0 2 3 66.7 3 9 12 3 0 0 1 3 2
+p78
+aVMichael Ruffin MIL 04/02/2008 MIL @ WAS W 13 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 0 1 0 -3
+p79
+aVDesmond Mason MIL 04/02/2008 MIL @ WAS W 29 12 5 8 62.5 0 0 - 2 2 100.0 2 3 5 1 1 0 1 0 -7
+p80
+aVAndrew Bogut MIL 04/02/2008 MIL @ WAS W 35 20 8 12 66.7 0 0 - 4 6 66.7 3 7 10 5 0 1 3 2 4
+p81
+aVRoyal Ivey MIL 04/02/2008 MIL @ WAS W 16 10 4 7 57.1 0 2 0.0 2 3 66.7 0 0 0 2 0 1 0 1 12
+p82
+aVMichael Redd MIL 04/02/2008 MIL @ WAS W 35 11 4 16 25.0 2 7 28.6 1 5 20.0 3 2 5 2 1 0 2 1 -4
+p83
+aVBobby Simmons MIL 04/02/2008 MIL @ WAS W 17 12 5 7 71.4 2 4 50.0 0 0 - 0 0 0 1 0 0 1 5 8
+p84
+aVYi Jianlian MIL 04/02/2008 MIL @ WAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -7
+p85
+aVRamon Sessions MIL 04/01/2008 MIL vs. NYK W 34 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 6 0 0 1 3 16
+p86
+aVMo Williams MIL 04/01/2008 MIL vs. NYK W 22 5 1 6 16.7 1 3 33.3 2 2 100.0 1 0 1 2 1 0 1 3 -14
+p87
+aVAndrew Bogut MIL 04/01/2008 MIL vs. NYK W 40 24 9 14 64.3 0 0 - 6 8 75.0 3 10 13 0 1 0 5 2 -1
+p88
+aVMichael Ruffin MIL 04/01/2008 MIL vs. NYK W 13 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 1 1 1 2 5
+p89
+aVYi Jianlian MIL 04/01/2008 MIL vs. NYK W 20 8 4 9 44.4 0 0 - 0 0 - 2 2 4 1 0 1 0 1 10
+p90
+aVDesmond Mason MIL 04/01/2008 MIL vs. NYK W 29 6 3 7 42.9 0 0 - 0 0 - 0 4 4 2 2 0 1 2 -4
+p91
+aVMichael Redd MIL 04/01/2008 MIL vs. NYK W 46 36 12 22 54.5 4 9 44.4 8 11 72.7 0 6 6 9 2 0 3 1 5
+p92
+aVBobby Simmons MIL 04/01/2008 MIL vs. NYK W 29 24 9 14 64.3 1 3 33.3 5 6 83.3 3 3 6 1 0 0 2 2 17
+p93
+aVCharlie Villanueva MIL 04/01/2008 MIL vs. NYK W 25 8 4 13 30.8 0 1 0.0 0 0 - 1 6 7 3 1 1 2 1 -13
+p94
+aVRoyal Ivey MIL 04/01/2008 MIL vs. NYK W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -1
+p95
+aVCharlie Villanueva MIL 03/29/2008 MIL @ CHI L 40 26 11 23 47.8 0 2 0.0 4 4 100.0 3 6 9 3 2 2 1 6 5
+p96
+aVYi Jianlian MIL 03/29/2008 MIL @ CHI L 24 14 4 9 44.4 0 0 - 6 6 100.0 3 5 8 0 0 2 0 3 10
+p97
+aVMichael Ruffin MIL 03/29/2008 MIL @ CHI L 26 6 3 4 75.0 0 0 - 0 0 - 3 3 6 3 2 0 0 2 -16
+p98
+aVBobby Simmons MIL 03/29/2008 MIL @ CHI L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 1 1 1 1 3 4
+p99
+aVRoyal Ivey MIL 03/29/2008 MIL @ CHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -9
+p100
+aVMichael Redd MIL 03/29/2008 MIL @ CHI L 46 33 13 27 48.1 2 5 40.0 5 5 100.0 0 2 2 6 1 0 3 1 2
+p101
+aVDesmond Mason MIL 03/29/2008 MIL @ CHI L 27 6 2 6 33.3 0 0 - 2 4 50.0 1 3 4 4 0 1 2 3 -7
+p102
+aVDan Gadzuric MIL 03/29/2008 MIL @ CHI L 6 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 0 0 1 -5
+p103
+aVRamon Sessions MIL 03/29/2008 MIL @ CHI L 15 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 5 0 0 0 1 17
+p104
+aVMo Williams MIL 03/29/2008 MIL @ CHI L 29 13 6 13 46.2 1 3 33.3 0 0 - 1 1 2 5 1 2 3 3 -16
+p105
+aVMo Williams MIL 03/28/2008 MIL vs. ORL L 27 18 8 13 61.5 2 4 50.0 0 0 - 0 0 0 5 0 0 2 2 -19
+p106
+aVDesmond Mason MIL 03/28/2008 MIL vs. ORL L 28 10 4 8 50.0 0 0 - 2 4 50.0 0 2 2 2 2 0 3 1 -18
+p107
+aVBobby Simmons MIL 03/28/2008 MIL vs. ORL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -10
+p108
+aVMichael Redd MIL 03/28/2008 MIL vs. ORL L 33 7 3 16 18.8 1 4 25.0 0 0 - 2 4 6 2 0 0 1 1 -22
+p109
+aVYi Jianlian MIL 03/28/2008 MIL vs. ORL L 30 11 3 11 27.3 0 0 - 5 5 100.0 2 5 7 0 2 1 2 1 -1
+p110
+aVAwvee Storey MIL 03/28/2008 MIL vs. ORL L 15 6 3 9 33.3 0 0 - 0 0 - 4 2 6 0 1 0 0 2 5
+p111
+aVMichael Ruffin MIL 03/28/2008 MIL vs. ORL L 20 1 0 2 0.0 0 0 - 1 2 50.0 3 5 8 2 1 1 0 2 -3
+p112
+aVCharlie Villanueva MIL 03/28/2008 MIL vs. ORL L 26 11 5 16 31.3 0 1 0.0 1 2 50.0 5 5 10 0 1 1 2 1 -22
+p113
+aVJake Voskuhl MIL 03/28/2008 MIL vs. ORL L 9 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 1 1 3 -2
+p114
+aVRamon Sessions MIL 03/28/2008 MIL vs. ORL L 14 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 2 0 0 0 3 4
+p115
+aVDan Gadzuric MIL 03/28/2008 MIL vs. ORL L 13 4 2 9 22.2 0 1 0.0 0 0 - 5 3 8 1 1 1 0 4 -2
+p116
+aVRoyal Ivey MIL 03/28/2008 MIL vs. ORL L 20 12 5 11 45.5 0 1 0.0 2 3 66.7 1 1 2 1 0 0 0 1 5
+p117
+aVRamon Sessions MIL 03/26/2008 MIL @ ATL L 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 2 0 -4
+p118
+aVDan Gadzuric MIL 03/26/2008 MIL @ ATL L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -3
+p119
+aVCharlie Villanueva MIL 03/26/2008 MIL @ ATL L 25 10 5 9 55.6 0 1 0.0 0 0 - 2 4 6 2 2 0 1 3 -6
+p120
+aVAwvee Storey MIL 03/26/2008 MIL @ ATL L 15 5 2 4 50.0 0 0 - 1 2 50.0 4 2 6 1 0 0 1 4 -13
+p121
+aVMichael Ruffin MIL 03/26/2008 MIL @ ATL L 7 0 0 0 - 0 0 - 0 0 - 4 2 6 0 0 0 1 2 0
+p122
+aVDesmond Mason MIL 03/26/2008 MIL @ ATL L 33 10 4 8 50.0 0 0 - 2 3 66.7 0 2 2 6 2 1 3 3 -6
+p123
+aVYi Jianlian MIL 03/26/2008 MIL @ ATL L 24 6 3 9 33.3 0 0 - 0 0 - 1 3 4 1 0 0 2 4 -17
+p124
+aVMo Williams MIL 03/26/2008 MIL @ ATL L 36 13 6 13 46.2 1 2 50.0 0 0 - 0 1 1 6 0 0 2 2 -11
+p125
+aVRoyal Ivey MIL 03/26/2008 MIL @ ATL L 20 4 1 7 14.3 0 2 0.0 2 4 50.0 1 1 2 0 0 0 1 2 -15
+p126
+aVMichael Redd MIL 03/26/2008 MIL @ ATL L 31 20 6 10 60.0 3 5 60.0 5 6 83.3 0 3 3 3 1 0 3 1 -4
+p127
+aVAndrew Bogut MIL 03/26/2008 MIL @ ATL L 31 27 11 18 61.1 0 0 - 5 6 83.3 6 3 9 4 1 3 3 2 -16
+p128
+aVMichael Redd MIL 03/24/2008 MIL @ MIA L 40 24 8 20 40.0 3 9 33.3 5 5 100.0 1 2 3 1 2 1 5 2 -2
+p129
+aVMichael Ruffin MIL 03/24/2008 MIL @ MIA L 6 4 2 2 100.0 0 0 - 0 0 - 2 3 5 0 0 0 0 0 -2
+p130
+aVDesmond Mason MIL 03/24/2008 MIL @ MIA L 39 5 1 6 16.7 0 0 - 3 6 50.0 3 2 5 1 0 0 2 0 -10
+p131
+aVRamon Sessions MIL 03/24/2008 MIL @ MIA L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -2
+p132
+aVRoyal Ivey MIL 03/24/2008 MIL @ MIA L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -7
+p133
+aVMo Williams MIL 03/24/2008 MIL @ MIA L 46 15 7 16 43.8 1 3 33.3 0 0 - 1 1 2 5 1 0 7 6 -3
+p134
+aVDan Gadzuric MIL 03/24/2008 MIL @ MIA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p135
+aVCharlie Villanueva MIL 03/24/2008 MIL @ MIA L 26 5 2 11 18.2 0 0 - 1 2 50.0 2 8 10 1 0 1 0 1 -4
+p136
+aVAndrew Bogut MIL 03/24/2008 MIL @ MIA L 40 16 6 14 42.9 0 1 0.0 4 6 66.7 7 10 17 2 1 0 4 4 -6
+p137
+aVYi Jianlian MIL 03/24/2008 MIL @ MIA L 25 2 1 6 16.7 0 0 - 0 0 - 2 7 9 0 0 0 0 3 11
+p138
+aVYi Jianlian MIL 03/22/2008 MIL vs. CLE W 29 8 4 11 36.4 0 0 - 0 0 - 1 2 3 0 2 1 1 3 3
+p139
+aVDesmond Mason MIL 03/22/2008 MIL vs. CLE W 41 17 8 12 66.7 0 0 - 1 2 50.0 2 3 5 2 1 0 2 3 21
+p140
+aVCharlie Villanueva MIL 03/22/2008 MIL vs. CLE W 22 5 2 7 28.6 1 2 50.0 0 0 - 0 7 7 1 0 0 0 2 -2
+p141
+aVCharlie Bell MIL 03/22/2008 MIL vs. CLE W 19 12 4 7 57.1 4 6 66.7 0 0 - 0 1 1 2 2 0 0 1 -10
+p142
+aVMichael Ruffin MIL 03/22/2008 MIL vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p143
+aVMo Williams MIL 03/22/2008 MIL vs. CLE W 37 29 9 11 81.8 1 1 100.0 10 12 83.3 0 5 5 13 1 0 1 3 15
+p144
+aVMichael Redd MIL 03/22/2008 MIL vs. CLE W 44 21 7 14 50.0 1 4 25.0 6 8 75.0 0 3 3 6 0 0 4 2 13
+p145
+aVDan Gadzuric MIL 03/22/2008 MIL vs. CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -5
+p146
+aVAndrew Bogut MIL 03/22/2008 MIL vs. CLE W 41 16 8 19 42.1 0 0 - 0 2 0.0 2 13 15 2 0 3 2 2 15
+p147
+aVMichael Ruffin MIL 03/18/2008 MIL vs. MIA L 34 14 6 8 75.0 0 0 - 2 6 33.3 9 7 16 2 3 2 1 5 -9
+p148
+aVMichael Redd MIL 03/18/2008 MIL vs. MIA L 42 27 6 14 42.9 4 8 50.0 11 12 91.7 1 3 4 4 1 1 2 3 7
+p149
+aVMo Williams MIL 03/18/2008 MIL vs. MIA L 37 26 8 15 53.3 0 2 0.0 10 13 76.9 0 5 5 11 1 0 2 4 1
+p150
+aVCharlie Bell MIL 03/18/2008 MIL vs. MIA L 25 15 5 13 38.5 4 8 50.0 1 2 50.0 1 1 2 1 0 0 1 4 -13
+p151
+aVYi Jianlian MIL 03/18/2008 MIL vs. MIA L 13 0 0 2 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 2 -9
+p152
+aVDan Gadzuric MIL 03/18/2008 MIL vs. MIA L 17 4 2 7 28.6 0 0 - 0 1 0.0 3 2 5 0 2 0 1 0 3
+p153
+aVCharlie Villanueva MIL 03/18/2008 MIL vs. MIA L 29 10 5 14 35.7 0 3 0.0 0 0 - 3 4 7 1 1 1 2 3 -3
+p154
+aVRoyal Ivey MIL 03/18/2008 MIL vs. MIA L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -7
+p155
+aVDesmond Mason MIL 03/18/2008 MIL vs. MIA L 32 8 4 9 44.4 0 0 - 0 3 0.0 2 2 4 2 0 0 0 0 0
+p156
+aVCharlie Villanueva MIL 03/15/2008 MIL vs. BOS L 30 10 4 15 26.7 0 4 0.0 2 2 100.0 2 6 8 1 0 0 1 0 -16
+p157
+aVMichael Redd MIL 03/15/2008 MIL vs. BOS L 29 15 4 12 33.3 2 5 40.0 5 6 83.3 4 0 4 1 0 0 2 2 -19
+p158
+aVDan Gadzuric MIL 03/15/2008 MIL vs. BOS L 16 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 1 1 0 4 -4
+p159
+aVJake Voskuhl MIL 03/15/2008 MIL vs. BOS L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 1 2 1 -2
+p160
+aVRoyal Ivey MIL 03/15/2008 MIL vs. BOS L 18 4 2 5 40.0 0 2 0.0 0 1 0.0 0 1 1 3 1 0 1 1 -3
+p161
+aVDesmond Mason MIL 03/15/2008 MIL vs. BOS L 31 8 3 9 33.3 0 0 - 2 6 33.3 5 4 9 0 0 0 2 0 -5
+p162
+aVCharlie Bell MIL 03/15/2008 MIL vs. BOS L 27 16 7 13 53.8 2 6 33.3 0 0 - 0 3 3 3 0 1 1 1 -16
+p163
+aVMichael Ruffin MIL 03/15/2008 MIL vs. BOS L 29 4 0 1 0.0 0 0 - 4 6 66.7 4 4 8 1 0 0 0 5 -19
+p164
+aVMo Williams MIL 03/15/2008 MIL vs. BOS L 24 5 2 6 33.3 1 4 25.0 0 0 - 1 1 2 5 2 0 2 2 -15
+p165
+aVRamon Sessions MIL 03/15/2008 MIL vs. BOS L 6 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 1 1 0 1 0 -4
+p166
+aVBobby Simmons MIL 03/15/2008 MIL vs. BOS L 15 8 4 11 36.4 0 5 0.0 0 0 - 1 1 2 0 0 0 0 1 -3
+p167
+aVAwvee Storey MIL 03/15/2008 MIL vs. BOS L 9 2 1 2 50.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 -4
+p168
+aVRamon Sessions MIL 03/12/2008 MIL vs. UTA L 9 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 3 0 0 0 1 7
+p169
+aVRoyal Ivey MIL 03/12/2008 MIL vs. UTA L 24 9 4 7 57.1 1 2 50.0 0 2 0.0 0 2 2 4 1 0 3 6 -11
+p170
+aVCharlie Bell MIL 03/12/2008 MIL vs. UTA L 36 24 8 16 50.0 5 7 71.4 3 6 50.0 0 0 0 5 1 0 4 6 9
+p171
+aVBobby Simmons MIL 03/12/2008 MIL vs. UTA L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 5 -16
+p172
+aVCharlie Villanueva MIL 03/12/2008 MIL vs. UTA L 38 26 11 19 57.9 2 5 40.0 2 5 40.0 4 5 9 1 1 2 4 2 -3
+p173
+aVMichael Redd MIL 03/12/2008 MIL vs. UTA L 40 26 10 21 47.6 1 2 50.0 5 7 71.4 2 2 4 1 1 0 1 0 -16
+p174
+aVMichael Ruffin MIL 03/12/2008 MIL vs. UTA L 22 0 0 3 0.0 0 0 - 0 0 - 2 5 7 1 1 1 0 5 13
+p175
+aVDan Gadzuric MIL 03/12/2008 MIL vs. UTA L 21 10 3 4 75.0 0 0 - 4 4 100.0 2 1 3 0 0 1 0 1 8
+p176
+aVAndrew Bogut MIL 03/12/2008 MIL vs. UTA L 36 11 4 9 44.4 0 0 - 3 3 100.0 4 11 15 3 1 5 2 4 -11
+p177
+aVCharlie Bell MIL 03/11/2008 MIL @ WAS L 28 6 2 10 20.0 1 6 16.7 1 2 50.0 2 0 2 1 2 0 2 3 -18
+p178
+aVAndrew Bogut MIL 03/11/2008 MIL @ WAS L 40 23 11 22 50.0 0 0 - 1 3 33.3 6 6 12 2 1 3 2 4 -5
+p179
+aVDesmond Mason MIL 03/11/2008 MIL @ WAS L 32 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 5 1 0 2 4 8
+p180
+aVDan Gadzuric MIL 03/11/2008 MIL @ WAS L 14 4 2 6 33.3 0 0 - 0 0 - 3 2 5 0 1 0 2 3 -7
+p181
+aVMichael Redd MIL 03/11/2008 MIL @ WAS L 44 26 9 18 50.0 0 3 0.0 8 10 80.0 1 2 3 4 0 0 7 1 -8
+p182
+aVRoyal Ivey MIL 03/11/2008 MIL @ WAS L 33 9 4 6 66.7 1 1 100.0 0 0 - 1 1 2 5 1 0 1 2 1
+p183
+aVBobby Simmons MIL 03/11/2008 MIL @ WAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p184
+aVCharlie Villanueva MIL 03/11/2008 MIL @ WAS L 42 24 8 20 40.0 2 5 40.0 6 6 100.0 5 11 16 3 1 1 3 4 -4
+p185
+aVJake Voskuhl MIL 03/09/2008 MIL vs. PHI L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -3
+p186
+aVMichael Redd MIL 03/09/2008 MIL vs. PHI L 38 19 9 20 45.0 0 3 0.0 1 4 25.0 3 2 5 3 0 0 1 3 -14
+p187
+aVDesmond Mason MIL 03/09/2008 MIL vs. PHI L 27 12 4 5 80.0 0 0 - 4 5 80.0 0 7 7 2 0 0 1 2 -6
+p188
+aVAndrew Bogut MIL 03/09/2008 MIL vs. PHI L 27 1 0 4 0.0 0 0 - 1 2 50.0 0 2 2 7 2 0 2 2 0
+p189
+aVAwvee Storey MIL 03/09/2008 MIL vs. PHI L 20 4 2 7 28.6 0 3 0.0 0 0 - 2 1 3 1 2 0 0 2 -14
+p190
+aVMichael Ruffin MIL 03/09/2008 MIL vs. PHI L 23 8 4 5 80.0 0 0 - 0 0 - 3 0 3 0 0 1 1 2 -25
+p191
+aVRoyal Ivey MIL 03/09/2008 MIL vs. PHI L 18 5 1 2 50.0 1 2 50.0 2 2 100.0 0 2 2 4 0 1 3 5 1
+p192
+aVCharlie Bell MIL 03/09/2008 MIL vs. PHI L 30 15 6 14 42.9 2 5 40.0 1 1 100.0 0 0 0 5 1 0 2 1 -23
+p193
+aVBobby Simmons MIL 03/09/2008 MIL vs. PHI L 13 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -11
+p194
+aVRamon Sessions MIL 03/09/2008 MIL vs. PHI L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -3
+p195
+aVCharlie Villanueva MIL 03/09/2008 MIL vs. PHI L 35 25 11 20 55.0 1 2 50.0 2 2 100.0 4 4 8 0 0 1 1 2 -12
+p196
+aVMichael Redd MIL 03/07/2008 MIL vs. POR L 32 25 10 20 50.0 1 4 25.0 4 5 80.0 2 0 2 1 1 0 1 0 -13
+p197
+aVAndrew Bogut MIL 03/07/2008 MIL vs. POR L 34 12 5 9 55.6 0 0 - 2 4 50.0 1 6 7 3 1 0 0 0 -13
+p198
+aVCharlie Bell MIL 03/07/2008 MIL vs. POR L 28 15 5 10 50.0 3 6 50.0 2 2 100.0 0 5 5 5 2 0 1 0 7
+p199
+aVAwvee Storey MIL 03/07/2008 MIL vs. POR L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 6
+p200
+aVBobby Simmons MIL 03/07/2008 MIL vs. POR L 21 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 4 1 0 0 1 7
+p201
+aVDesmond Mason MIL 03/07/2008 MIL vs. POR L 45 15 4 7 57.1 0 0 - 7 9 77.8 2 7 9 4 2 0 5 2 -4
+p202
+aVMichael Ruffin MIL 03/07/2008 MIL vs. POR L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 11
+p203
+aVCharlie Villanueva MIL 03/07/2008 MIL vs. POR L 29 16 8 18 44.4 0 2 0.0 0 0 - 2 2 4 0 1 0 1 2 -3
+p204
+aVRoyal Ivey MIL 03/07/2008 MIL vs. POR L 29 12 4 7 57.1 2 4 50.0 2 2 100.0 1 0 1 2 1 0 1 4 -8
+p205
+aVAndrew Bogut MIL 03/05/2008 MIL vs. SEA W 41 21 9 15 60.0 0 0 - 3 8 37.5 4 9 13 7 2 4 3 4 16
+p206
+aVMichael Redd MIL 03/05/2008 MIL vs. SEA W 29 15 6 14 42.9 3 6 50.0 0 0 - 1 2 3 7 0 0 0 1 21
+p207
+aVCharlie Villanueva MIL 03/05/2008 MIL vs. SEA W 41 32 12 26 46.2 3 6 50.0 5 5 100.0 1 10 11 3 1 2 3 2 12
+p208
+aVDesmond Mason MIL 03/05/2008 MIL vs. SEA W 36 16 4 4 100.0 0 0 - 8 11 72.7 0 3 3 3 0 0 1 1 16
+p209
+aVRoyal Ivey MIL 03/05/2008 MIL vs. SEA W 27 9 3 7 42.9 0 1 0.0 3 4 75.0 0 3 3 7 1 0 1 4 12
+p210
+aVBobby Simmons MIL 03/05/2008 MIL vs. SEA W 15 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 1 1 0 0 2 -5
+p211
+aVCharlie Bell MIL 03/05/2008 MIL vs. SEA W 30 17 7 14 50.0 2 5 40.0 1 2 50.0 0 2 2 5 3 0 2 2 -4
+p212
+aVMichael Ruffin MIL 03/05/2008 MIL vs. SEA W 8 0 0 0 - 0 0 - 0 0 - 4 2 6 3 0 0 1 1 -2
+p213
+aVDan Gadzuric MIL 03/05/2008 MIL vs. SEA W 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -1
+p214
+aVAwvee Storey MIL 03/05/2008 MIL vs. SEA W 10 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 3 -5
+p215
+aVCharlie Villanueva MIL 03/02/2008 MIL @ IND L 17 2 1 6 16.7 0 0 - 0 0 - 1 4 5 0 0 0 0 3 -1
+p216
+aVJake Voskuhl MIL 03/02/2008 MIL @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p217
+aVMo Williams MIL 03/02/2008 MIL @ IND L 35 15 6 10 60.0 1 2 50.0 2 2 100.0 0 9 9 4 1 0 7 2 -25
+p218
+aVMichael Redd MIL 03/02/2008 MIL @ IND L 33 28 9 20 45.0 2 5 40.0 8 9 88.9 2 1 3 0 0 0 0 1 -22
+p219
+aVCharlie Bell MIL 03/02/2008 MIL @ IND L 17 6 2 7 28.6 2 5 40.0 0 0 - 1 1 2 2 1 0 0 2 -4
+p220
+aVRoyal Ivey MIL 03/02/2008 MIL @ IND L 20 7 3 8 37.5 1 3 33.3 0 0 - 1 1 2 0 0 0 1 2 -10
+p221
+aVAndrew Bogut MIL 03/02/2008 MIL @ IND L 28 13 5 9 55.6 0 0 - 3 6 50.0 2 7 9 4 0 1 1 3 -3
+p222
+aVMichael Ruffin MIL 03/02/2008 MIL @ IND L 8 3 1 3 33.3 0 0 - 1 4 25.0 5 3 8 0 0 0 1 2 0
+p223
+aVDan Gadzuric MIL 03/02/2008 MIL @ IND L 12 6 2 8 25.0 0 0 - 2 4 50.0 7 0 7 0 0 0 0 2 -19
+p224
+aVBobby Simmons MIL 03/02/2008 MIL @ IND L 22 7 3 14 21.4 1 4 25.0 0 0 - 5 3 8 0 0 0 0 2 -17
+p225
+aVYi Jianlian MIL 03/02/2008 MIL @ IND L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 2 -2
+p226
+aVDesmond Mason MIL 03/02/2008 MIL @ IND L 28 15 5 10 50.0 0 0 - 5 8 62.5 3 2 5 1 1 1 1 0 -11
+p227
+aVDan Gadzuric MIL 03/01/2008 MIL vs. SAS L 7 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 1 2 1 -1
+p228
+aVMichael Redd MIL 03/01/2008 MIL vs. SAS L 39 25 8 19 42.1 0 2 0.0 9 12 75.0 1 3 4 1 0 0 6 3 -1
+p229
+aVCharlie Bell MIL 03/01/2008 MIL vs. SAS L 35 6 3 9 33.3 0 2 0.0 0 0 - 1 5 6 3 0 0 2 1 4
+p230
+aVYi Jianlian MIL 03/01/2008 MIL vs. SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p231
+aVDesmond Mason MIL 03/01/2008 MIL vs. SAS L 23 12 5 10 50.0 0 0 - 2 3 66.7 2 6 8 2 0 1 0 1 -12
+p232
+aVRoyal Ivey MIL 03/01/2008 MIL vs. SAS L 15 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 0 3 -3
+p233
+aVAndrew Bogut MIL 03/01/2008 MIL vs. SAS L 41 17 6 13 46.2 0 0 - 5 10 50.0 6 9 15 2 2 2 0 3 -1
+p234
+aVCharlie Villanueva MIL 03/01/2008 MIL vs. SAS L 24 4 1 9 11.1 0 2 0.0 2 2 100.0 0 3 3 1 1 1 0 1 1
+p235
+aVMo Williams MIL 03/01/2008 MIL vs. SAS L 22 13 5 9 55.6 1 1 100.0 2 2 100.0 1 1 2 0 1 0 0 3 -4
+p236
+aVBobby Simmons MIL 03/01/2008 MIL vs. SAS L 28 11 4 9 44.4 3 4 75.0 0 0 - 0 4 4 3 3 0 0 4 4
+p237
+aVYi Jianlian MIL 02/28/2008 MIL @ NJN L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -18
+p238
+aVCharlie Villanueva MIL 02/28/2008 MIL @ NJN L 28 9 4 9 44.4 1 2 50.0 0 0 - 2 4 6 3 0 0 2 4 5
+p239
+aVJake Voskuhl MIL 02/28/2008 MIL @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p240
+aVMichael Redd MIL 02/28/2008 MIL @ NJN L 42 33 11 21 52.4 2 5 40.0 9 13 69.2 2 1 3 3 0 1 3 1 -11
+p241
+aVMo Williams MIL 02/28/2008 MIL @ NJN L 43 24 9 20 45.0 0 2 0.0 6 10 60.0 0 4 4 7 2 1 2 2 -8
+p242
+aVDesmond Mason MIL 02/28/2008 MIL @ NJN L 33 10 3 7 42.9 0 0 - 4 4 100.0 1 2 3 0 0 1 1 2 -10
+p243
+aVMichael Ruffin MIL 02/28/2008 MIL @ NJN L 16 3 1 2 50.0 0 0 - 1 2 50.0 6 3 9 0 0 0 0 3 -7
+p244
+aVCharlie Bell MIL 02/28/2008 MIL @ NJN L 21 5 2 4 50.0 1 3 33.3 0 0 - 2 0 2 2 1 0 0 2 -12
+p245
+aVAndrew Bogut MIL 02/28/2008 MIL @ NJN L 36 22 11 16 68.8 0 0 - 0 0 - 3 12 15 4 1 2 3 5 -1
+p246
+aVRoyal Ivey MIL 02/28/2008 MIL @ NJN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p247
+aVDan Gadzuric MIL 02/28/2008 MIL @ NJN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p248
+aVMo Williams MIL 02/26/2008 MIL vs. CLE W 46 37 12 22 54.5 3 6 50.0 10 10 100.0 1 6 7 6 0 0 4 1 7
+p249
+aVMichael Redd MIL 02/26/2008 MIL vs. CLE W 41 25 7 17 41.2 1 4 25.0 10 11 90.9 0 2 2 4 1 0 0 2 5
+p250
+aVDesmond Mason MIL 02/26/2008 MIL vs. CLE W 37 11 5 9 55.6 0 0 - 1 1 100.0 3 8 11 5 0 0 1 1 10
+p251
+aVCharlie Bell MIL 02/26/2008 MIL vs. CLE W 11 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 1 0 0 4 -7
+p252
+aVAndrew Bogut MIL 02/26/2008 MIL vs. CLE W 39 16 5 15 33.3 0 0 - 6 10 60.0 4 4 8 0 2 1 1 2 5
+p253
+aVCharlie Villanueva MIL 02/26/2008 MIL vs. CLE W 32 10 4 12 33.3 1 3 33.3 1 1 100.0 3 5 8 2 0 1 1 2 14
+p254
+aVYi Jianlian MIL 02/26/2008 MIL vs. CLE W 16 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 2 0 0 1 3 -11
+p255
+aVDan Gadzuric MIL 02/26/2008 MIL vs. CLE W 9 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 0 0 -2
+p256
+aVRoyal Ivey MIL 02/26/2008 MIL vs. CLE W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p257
+aVBobby Simmons MIL 02/23/2008 MIL vs. DEN W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -7
+p258
+aVDan Gadzuric MIL 02/23/2008 MIL vs. DEN W 12 2 1 2 50.0 0 0 - 0 2 0.0 0 4 4 1 0 2 1 2 -2
+p259
+aVYi Jianlian MIL 02/23/2008 MIL vs. DEN W 9 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 1 0 0 3 2 -5
+p260
+aVRoyal Ivey MIL 02/23/2008 MIL vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p261
+aVAndrew Bogut MIL 02/23/2008 MIL vs. DEN W 44 12 5 11 45.5 0 0 - 2 2 100.0 7 13 20 2 1 1 4 4 13
+p262
+aVMichael Redd MIL 02/23/2008 MIL vs. DEN W 46 42 14 28 50.0 3 8 37.5 11 14 78.6 4 3 7 3 0 0 4 2 10
+p263
+aVDesmond Mason MIL 02/23/2008 MIL vs. DEN W 29 6 3 9 33.3 0 0 - 0 0 - 3 2 5 5 1 2 1 2 -4
+p264
+aVCharlie Villanueva MIL 02/23/2008 MIL vs. DEN W 26 14 4 12 33.3 0 1 0.0 6 8 75.0 2 5 7 0 2 0 1 3 9
+p265
+aVCharlie Bell MIL 02/23/2008 MIL vs. DEN W 20 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 1 0 0 0 1 10
+p266
+aVMo Williams MIL 02/23/2008 MIL vs. DEN W 44 26 9 19 47.4 2 7 28.6 6 6 100.0 2 3 5 7 1 0 2 4 12
+p267
+aVDan Gadzuric MIL 02/22/2008 MIL @ DET L 16 8 2 5 40.0 0 0 - 4 8 50.0 2 4 6 1 2 1 1 2 3
+p268
+aVBobby Simmons MIL 02/22/2008 MIL @ DET L 19 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 1 0 0 3 -2
+p269
+aVYi Jianlian MIL 02/22/2008 MIL @ DET L 20 8 4 6 66.7 0 0 - 0 0 - 0 6 6 0 0 1 2 4 -9
+p270
+aVMichael Redd MIL 02/22/2008 MIL @ DET L 30 18 7 12 58.3 1 1 100.0 3 8 37.5 0 3 3 2 1 2 3 3 -24
+p271
+aVRoyal Ivey MIL 02/22/2008 MIL @ DET L 12 3 0 4 0.0 0 0 - 3 4 75.0 0 0 0 2 0 0 2 0 -1
+p272
+aVCharlie Bell MIL 02/22/2008 MIL @ DET L 22 9 3 7 42.9 1 3 33.3 2 3 66.7 0 0 0 1 0 0 1 3 -11
+p273
+aVCharlie Villanueva MIL 02/22/2008 MIL @ DET L 28 18 7 13 53.8 0 2 0.0 4 4 100.0 3 1 4 0 1 1 1 4 -16
+p274
+aVMichael Ruffin MIL 02/22/2008 MIL @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -10
+p275
+aVAndrew Bogut MIL 02/22/2008 MIL @ DET L 28 11 4 10 40.0 0 0 - 3 3 100.0 3 2 5 1 0 0 1 0 -20
+p276
+aVJake Voskuhl MIL 02/22/2008 MIL @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p277
+aVDesmond Mason MIL 02/22/2008 MIL @ DET L 27 7 3 5 60.0 0 0 - 1 1 100.0 0 4 4 2 0 1 1 4 -24
+p278
+aVMo Williams MIL 02/22/2008 MIL @ DET L 32 16 6 11 54.5 2 4 50.0 2 2 100.0 0 1 1 5 1 1 2 3 -18
+p279
+aVMichael Redd MIL 02/20/2008 MIL vs. DET W 34 27 7 11 63.6 1 1 100.0 12 14 85.7 0 4 4 2 1 0 2 2 -2
+p280
+aVDesmond Mason MIL 02/20/2008 MIL vs. DET W 26 16 8 11 72.7 0 0 - 0 0 - 1 3 4 3 1 1 1 0 3
+p281
+aVAndrew Bogut MIL 02/20/2008 MIL vs. DET W 36 14 5 15 33.3 0 0 - 4 7 57.1 7 7 14 2 0 2 2 2 0
+p282
+aVCharlie Villanueva MIL 02/20/2008 MIL vs. DET W 23 8 2 7 28.6 0 2 0.0 4 4 100.0 0 3 3 1 2 0 1 3 5
+p283
+aVMo Williams MIL 02/20/2008 MIL vs. DET W 30 11 4 13 30.8 1 4 25.0 2 2 100.0 1 6 7 4 1 0 3 3 -3
+p284
+aVDan Gadzuric MIL 02/20/2008 MIL vs. DET W 12 3 1 4 25.0 0 0 - 1 2 50.0 3 0 3 0 0 1 0 4 5
+p285
+aVYi Jianlian MIL 02/20/2008 MIL vs. DET W 25 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 3 0 0 3 0 0
+p286
+aVRoyal Ivey MIL 02/20/2008 MIL vs. DET W 13 0 0 2 0.0 0 1 0.0 0 0 - 3 1 4 4 0 0 1 3 8
+p287
+aVBobby Simmons MIL 02/20/2008 MIL vs. DET W 16 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 1 0 0 0 2 13
+p288
+aVCharlie Bell MIL 02/20/2008 MIL vs. DET W 24 10 3 8 37.5 2 4 50.0 2 2 100.0 0 5 5 4 1 0 0 2 -4
+p289
+aVBobby Simmons MIL 02/13/2008 MIL vs. NOH L 26 10 4 7 57.1 2 2 100.0 0 2 0.0 2 3 5 1 3 0 0 2 -4
+p290
+aVDan Gadzuric MIL 02/13/2008 MIL vs. NOH L 15 6 2 8 25.0 0 0 - 2 2 100.0 1 2 3 0 1 1 0 0 -5
+p291
+aVDesmond Mason MIL 02/13/2008 MIL vs. NOH L 28 14 7 10 70.0 0 0 - 0 0 - 1 0 1 3 0 0 1 3 -1
+p292
+aVYi Jianlian MIL 02/13/2008 MIL vs. NOH L 22 13 4 6 66.7 0 0 - 5 6 83.3 2 1 3 1 1 1 0 3 0
+p293
+aVRoyal Ivey MIL 02/13/2008 MIL vs. NOH L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 3 -4
+p294
+aVMichael Redd MIL 02/13/2008 MIL vs. NOH L 42 30 10 24 41.7 1 4 25.0 9 10 90.0 1 5 6 5 1 0 3 1 -3
+p295
+aVMo Williams MIL 02/13/2008 MIL vs. NOH L 37 14 5 9 55.6 3 6 50.0 1 1 100.0 0 4 4 9 1 3 3 4 0
+p296
+aVAndrew Bogut MIL 02/13/2008 MIL vs. NOH L 33 8 3 8 37.5 0 0 - 2 2 100.0 3 4 7 4 0 0 0 0 1
+p297
+aVCharlie Bell MIL 02/13/2008 MIL vs. NOH L 27 12 5 6 83.3 2 2 100.0 0 0 - 0 2 2 4 1 0 1 0 -4
+p298
+aVCharlie Bell MIL 02/11/2008 MIL vs. LAC L 17 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 1 -5
+p299
+aVAndrew Bogut MIL 02/11/2008 MIL vs. LAC L 34 10 4 16 25.0 0 0 - 2 2 100.0 6 5 11 2 0 4 0 3 -10
+p300
+aVMo Williams MIL 02/11/2008 MIL vs. LAC L 39 31 12 20 60.0 3 6 50.0 4 5 80.0 1 1 2 2 1 0 4 3 -13
+p301
+aVJake Voskuhl MIL 02/11/2008 MIL vs. LAC L 3 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p302
+aVCharlie Villanueva MIL 02/11/2008 MIL vs. LAC L 16 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 0 0 4 0 -8
+p303
+aVMichael Ruffin MIL 02/11/2008 MIL vs. LAC L 11 1 0 1 0.0 0 0 - 1 4 25.0 2 2 4 0 0 1 1 1 8
+p304
+aVRoyal Ivey MIL 02/11/2008 MIL vs. LAC L 11 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 8
+p305
+aVBobby Simmons MIL 02/11/2008 MIL vs. LAC L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -2
+p306
+aVYi Jianlian MIL 02/11/2008 MIL vs. LAC L 27 13 6 9 66.7 0 1 0.0 1 2 50.0 1 4 5 0 0 0 1 3 3
+p307
+aVMichael Redd MIL 02/11/2008 MIL vs. LAC L 38 11 3 13 23.1 0 1 0.0 5 8 62.5 0 7 7 11 1 1 4 2 -8
+p308
+aVDesmond Mason MIL 02/11/2008 MIL vs. LAC L 38 14 7 10 70.0 0 0 - 0 0 - 2 5 7 3 0 0 2 2 -3
+p309
+aVMichael Redd MIL 02/09/2008 MIL vs. NYK L 34 21 8 17 47.1 3 6 50.0 2 4 50.0 1 2 3 5 3 0 2 2 5
+p310
+aVCharlie Bell MIL 02/09/2008 MIL vs. NYK L 35 17 7 9 77.8 0 2 0.0 3 3 100.0 0 2 2 7 2 0 2 2 -6
+p311
+aVJake Voskuhl MIL 02/09/2008 MIL vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p312
+aVCharlie Villanueva MIL 02/09/2008 MIL vs. NYK L 36 21 10 22 45.5 0 1 0.0 1 2 50.0 3 10 13 2 0 2 1 2 2
+p313
+aVYi Jianlian MIL 02/09/2008 MIL vs. NYK L 14 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 0 0 0 0 0 -8
+p314
+aVAndrew Bogut MIL 02/09/2008 MIL vs. NYK L 27 9 3 7 42.9 0 0 - 3 5 60.0 3 3 6 4 0 4 2 6 -8
+p315
+aVBobby Simmons MIL 02/09/2008 MIL vs. NYK L 10 5 1 5 20.0 0 2 0.0 3 3 100.0 0 0 0 0 0 0 2 2 -7
+p316
+aVDesmond Mason MIL 02/09/2008 MIL vs. NYK L 31 15 4 7 57.1 0 0 - 7 9 77.8 1 6 7 1 2 0 1 3 1
+p317
+aVMichael Ruffin MIL 02/09/2008 MIL vs. NYK L 19 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 0 0 1 0 2 10
+p318
+aVRoyal Ivey MIL 02/09/2008 MIL vs. NYK L 35 6 2 9 22.2 0 3 0.0 2 2 100.0 0 0 0 4 0 0 1 5 4
+p319
+aVMichael Ruffin MIL 02/06/2008 MIL @ DAL L 11 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 2 1 2 7
+p320
+aVDan Gadzuric MIL 02/06/2008 MIL @ DAL L 16 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 0 0 1 0
+p321
+aVRoyal Ivey MIL 02/06/2008 MIL @ DAL L 21 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 2
+p322
+aVCharlie Bell MIL 02/06/2008 MIL @ DAL L 39 5 2 10 20.0 1 6 16.7 0 0 - 1 2 3 0 0 0 2 2 -19
+p323
+aVCharlie Villanueva MIL 02/06/2008 MIL @ DAL L 32 16 5 9 55.6 0 2 0.0 6 6 100.0 5 2 7 3 0 0 2 3 -13
+p324
+aVAndrew Bogut MIL 02/06/2008 MIL @ DAL L 37 24 10 19 52.6 0 0 - 4 5 80.0 3 11 14 2 1 1 2 1 -17
+p325
+aVMo Williams MIL 02/06/2008 MIL @ DAL L 47 36 14 29 48.3 3 7 42.9 5 7 71.4 0 5 5 4 1 0 1 5 -15
+p326
+aVDesmond Mason MIL 02/06/2008 MIL @ DAL L 37 11 4 9 44.4 0 0 - 3 4 75.0 0 2 2 0 0 2 2 5 0
+p327
+aVBobby Simmons MIL 02/05/2008 MIL @ MEM W 26 8 4 8 50.0 0 0 - 0 0 - 4 3 7 2 0 0 1 1 7
+p328
+aVDan Gadzuric MIL 02/05/2008 MIL @ MEM W 11 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 0 1 0 1 3 0
+p329
+aVAndrew Bogut MIL 02/05/2008 MIL @ MEM W 37 12 5 14 35.7 0 0 - 2 2 100.0 1 4 5 3 1 1 1 1 5
+p330
+aVDesmond Mason MIL 02/05/2008 MIL @ MEM W 24 6 3 10 30.0 0 0 - 0 0 - 1 8 9 5 0 0 0 2 6
+p331
+aVMo Williams MIL 02/05/2008 MIL @ MEM W 38 32 14 22 63.6 1 3 33.3 3 4 75.0 0 3 3 7 0 0 2 3 9
+p332
+aVCharlie Villanueva MIL 02/05/2008 MIL @ MEM W 32 16 7 14 50.0 0 3 0.0 2 2 100.0 7 9 16 0 1 1 4 3 0
+p333
+aVRoyal Ivey MIL 02/05/2008 MIL @ MEM W 36 4 1 5 20.0 0 1 0.0 2 2 100.0 0 3 3 3 2 0 0 2 -8
+p334
+aVCharlie Bell MIL 02/05/2008 MIL @ MEM W 36 17 7 14 50.0 3 7 42.9 0 0 - 1 1 2 2 0 0 1 0 6
+p335
+aVYi Jianlian MIL 02/02/2008 MIL vs. HOU L 30 6 1 10 10.0 0 1 0.0 4 4 100.0 2 5 7 2 0 1 1 4 -8
+p336
+aVDan Gadzuric MIL 02/02/2008 MIL vs. HOU L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p337
+aVDesmond Mason MIL 02/02/2008 MIL vs. HOU L 23 6 2 7 28.6 0 0 - 2 4 50.0 1 4 5 1 0 2 1 1 -7
+p338
+aVCharlie Bell MIL 02/02/2008 MIL vs. HOU L 28 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 2 0 0 1 3 -4
+p339
+aVMo Williams MIL 02/02/2008 MIL vs. HOU L 42 13 6 18 33.3 1 6 16.7 0 0 - 1 1 2 9 1 0 1 3 -8
+p340
+aVRoyal Ivey MIL 02/02/2008 MIL vs. HOU L 27 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 1 0 0 2 -4
+p341
+aVBobby Simmons MIL 02/02/2008 MIL vs. HOU L 23 14 5 7 71.4 4 4 100.0 0 0 - 1 4 5 0 0 0 0 1 -1
+p342
+aVAndrew Bogut MIL 02/02/2008 MIL vs. HOU L 43 21 10 20 50.0 0 0 - 1 3 33.3 2 3 5 0 0 4 1 5 -8
+p343
+aVCharlie Villanueva MIL 02/02/2008 MIL vs. HOU L 18 14 5 12 41.7 0 1 0.0 4 4 100.0 3 3 6 0 1 0 0 1 0
+p344
+aVJake Voskuhl MIL 01/30/2008 MIL @ PHI L 11 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -14
+p345
+aVBobby Simmons MIL 01/30/2008 MIL @ PHI L 25 8 3 8 37.5 0 2 0.0 2 2 100.0 1 1 2 1 0 1 1 0 -13
+p346
+aVMo Williams MIL 01/30/2008 MIL @ PHI L 28 14 5 10 50.0 2 2 100.0 2 2 100.0 0 2 2 2 0 0 3 1 -25
+p347
+aVYi Jianlian MIL 01/30/2008 MIL @ PHI L 28 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 0 2 3 -20
+p348
+aVDan Gadzuric MIL 01/30/2008 MIL @ PHI L 8 7 2 2 100.0 0 0 - 3 4 75.0 1 1 2 1 1 0 1 1 -5
+p349
+aVCharlie Villanueva MIL 01/30/2008 MIL @ PHI L 21 10 5 11 45.5 0 2 0.0 0 0 - 2 3 5 1 0 0 1 4 -28
+p350
+aVAndrew Bogut MIL 01/30/2008 MIL @ PHI L 30 5 2 8 25.0 0 0 - 1 2 50.0 1 3 4 4 2 3 5 5 -20
+p351
+aVMichael Ruffin MIL 01/30/2008 MIL @ PHI L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -12
+p352
+aVAwvee Storey MIL 01/30/2008 MIL @ PHI L 20 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 4 -23
+p353
+aVRoyal Ivey MIL 01/30/2008 MIL @ PHI L 44 17 7 16 43.8 2 5 40.0 1 1 100.0 1 5 6 1 0 0 5 3 -39
+p354
+aVCharlie Bell MIL 01/30/2008 MIL @ PHI L 16 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 3 0 1 0 0 -16
+p355
+aVAwvee Storey MIL 01/29/2008 MIL @ NJN L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p356
+aVBobby Simmons MIL 01/29/2008 MIL @ NJN L 28 14 4 11 36.4 1 6 16.7 5 5 100.0 1 3 4 2 2 0 2 2 -8
+p357
+aVCharlie Bell MIL 01/29/2008 MIL @ NJN L 31 9 3 8 37.5 1 5 20.0 2 2 100.0 1 2 3 3 1 0 1 0 -4
+p358
+aVRoyal Ivey MIL 01/29/2008 MIL @ NJN L 39 19 8 16 50.0 2 5 40.0 1 2 50.0 1 2 3 6 2 0 2 2 1
+p359
+aVMo Williams MIL 01/29/2008 MIL @ NJN L 46 14 6 16 37.5 2 7 28.6 0 0 - 1 3 4 8 1 0 1 4 -9
+p360
+aVAndrew Bogut MIL 01/29/2008 MIL @ NJN L 39 11 5 9 55.6 0 0 - 1 5 20.0 2 7 9 2 2 2 2 3 0
+p361
+aVJake Voskuhl MIL 01/29/2008 MIL @ NJN L 9 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 1 1 0 4 -7
+p362
+aVYi Jianlian MIL 01/29/2008 MIL @ NJN L 30 9 2 9 22.2 0 1 0.0 5 5 100.0 0 6 6 1 1 0 0 3 -11
+p363
+aVCharlie Villanueva MIL 01/29/2008 MIL @ NJN L 15 4 2 7 28.6 0 1 0.0 0 0 - 4 3 7 1 0 1 3 1 2
+p364
+aVMichael Ruffin MIL 01/27/2008 MIL vs. WAS W 18 5 1 1 100.0 0 0 - 3 4 75.0 2 3 5 1 2 1 0 3 11
+p365
+aVMo Williams MIL 01/27/2008 MIL vs. WAS W 46 25 9 22 40.9 5 8 62.5 2 2 100.0 0 5 5 5 3 0 6 3 -4
+p366
+aVAwvee Storey MIL 01/27/2008 MIL vs. WAS W 18 8 4 6 66.7 0 1 0.0 0 2 0.0 1 0 1 1 0 0 0 3 8
+p367
+aVCharlie Bell MIL 01/27/2008 MIL vs. WAS W 42 22 7 16 43.8 4 6 66.7 4 6 66.7 1 5 6 6 1 0 2 2 10
+p368
+aVJake Voskuhl MIL 01/27/2008 MIL vs. WAS W 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -6
+p369
+aVYi Jianlian MIL 01/27/2008 MIL vs. WAS W 33 6 3 7 42.9 0 0 - 0 0 - 5 5 10 2 0 0 2 3 -3
+p370
+aVRoyal Ivey MIL 01/27/2008 MIL vs. WAS W 35 17 5 10 50.0 1 2 50.0 6 7 85.7 0 2 2 6 3 0 1 1 -5
+p371
+aVAndrew Bogut MIL 01/27/2008 MIL vs. WAS W 41 18 8 17 47.1 0 0 - 2 2 100.0 6 9 15 6 1 0 2 4 10
+p372
+aVBobby Simmons MIL 01/27/2008 MIL vs. WAS W 26 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 2 0 3 3 -6
+p373
+aVMichael Redd MIL 01/25/2008 MIL @ TOR L 30 12 5 14 35.7 1 7 14.3 1 2 50.0 0 3 3 0 2 0 4 1 -14
+p374
+aVYi Jianlian MIL 01/25/2008 MIL @ TOR L 22 6 3 6 50.0 0 0 - 0 0 - 2 2 4 2 0 0 1 1 -10
+p375
+aVRoyal Ivey MIL 01/25/2008 MIL @ TOR L 28 10 3 6 50.0 1 3 33.3 3 4 75.0 0 0 0 2 0 0 1 2 -23
+p376
+aVCharlie Villanueva MIL 01/25/2008 MIL @ TOR L 15 12 6 9 66.7 0 2 0.0 0 2 0.0 3 4 7 1 0 0 1 1 -13
+p377
+aVJake Voskuhl MIL 01/25/2008 MIL @ TOR L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 4 -11
+p378
+aVBobby Simmons MIL 01/25/2008 MIL @ TOR L 23 7 2 8 25.0 1 4 25.0 2 4 50.0 3 7 10 0 0 0 0 1 -10
+p379
+aVMo Williams MIL 01/25/2008 MIL @ TOR L 29 6 3 8 37.5 0 4 0.0 0 0 - 1 1 2 2 0 0 3 2 -24
+p380
+aVCharlie Bell MIL 01/25/2008 MIL @ TOR L 21 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 0 0 -14
+p381
+aVAwvee Storey MIL 01/25/2008 MIL @ TOR L 13 8 3 4 75.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 0 -8
+p382
+aVDan Gadzuric MIL 01/25/2008 MIL @ TOR L 9 6 3 6 50.0 0 0 - 0 0 - 3 0 3 0 0 0 1 3 -3
+p383
+aVMichael Ruffin MIL 01/25/2008 MIL @ TOR L 19 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 1 -6
+p384
+aVAndrew Bogut MIL 01/25/2008 MIL @ TOR L 19 8 3 5 60.0 0 0 - 2 6 33.3 0 2 2 1 0 0 2 3 -19
+p385
+aVYi Jianlian MIL 01/24/2008 MIL vs. IND W 13 6 2 6 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 1 2 -9
+p386
+aVRoyal Ivey MIL 01/24/2008 MIL vs. IND W 21 5 1 2 50.0 1 1 100.0 2 2 100.0 0 3 3 5 0 0 0 0 8
+p387
+aVCharlie Bell MIL 01/24/2008 MIL vs. IND W 29 10 4 7 57.1 2 5 40.0 0 0 - 1 1 2 2 2 0 3 0 18
+p388
+aVMichael Ruffin MIL 01/24/2008 MIL vs. IND W 17 0 0 0 - 0 0 - 0 0 - 5 2 7 0 1 1 0 2 2
+p389
+aVMo Williams MIL 01/24/2008 MIL vs. IND W 35 9 4 10 40.0 1 4 25.0 0 0 - 1 3 4 9 1 0 0 4 9
+p390
+aVAwvee Storey MIL 01/24/2008 MIL vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p391
+aVMichael Redd MIL 01/24/2008 MIL vs. IND W 46 37 13 29 44.8 5 13 38.5 6 6 100.0 0 5 5 5 1 0 0 4 10
+p392
+aVCharlie Villanueva MIL 01/24/2008 MIL vs. IND W 18 4 2 5 40.0 0 0 - 0 0 - 1 3 4 3 0 1 1 2 10
+p393
+aVAndrew Bogut MIL 01/24/2008 MIL vs. IND W 31 17 7 11 63.6 0 0 - 3 7 42.9 0 7 7 3 0 3 2 3 10
+p394
+aVBobby Simmons MIL 01/24/2008 MIL vs. IND W 30 16 6 13 46.2 3 8 37.5 1 2 50.0 2 6 8 3 3 0 2 3 2
+p395
+aVBobby Simmons MIL 01/22/2008 MIL vs. PHX L 35 15 6 12 50.0 1 3 33.3 2 2 100.0 2 4 6 3 0 0 2 3 8
+p396
+aVMichael Redd MIL 01/22/2008 MIL vs. PHX L 38 28 10 20 50.0 2 5 40.0 6 7 85.7 3 2 5 5 2 0 4 1 -7
+p397
+aVJake Voskuhl MIL 01/22/2008 MIL vs. PHX L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 4 -5
+p398
+aVAwvee Storey MIL 01/22/2008 MIL vs. PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 0
+p399
+aVRoyal Ivey MIL 01/22/2008 MIL vs. PHX L 28 10 2 7 28.6 0 2 0.0 6 6 100.0 2 0 2 0 1 0 1 5 -24
+p400
+aVCharlie Bell MIL 01/22/2008 MIL vs. PHX L 37 11 2 9 22.2 1 4 25.0 6 7 85.7 0 3 3 8 2 0 3 2 -4
+p401
+aVCharlie Villanueva MIL 01/22/2008 MIL vs. PHX L 30 14 7 13 53.8 0 2 0.0 0 0 - 1 8 9 3 0 1 1 3 -1
+p402
+aVYi Jianlian MIL 01/22/2008 MIL vs. PHX L 18 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 1 2 3 -8
+p403
+aVAndrew Bogut MIL 01/22/2008 MIL vs. PHX L 41 19 9 16 56.3 0 0 - 1 2 50.0 5 8 13 4 1 1 2 2 -4
+p404
+aVCharlie Bell MIL 01/21/2008 MIL @ NOH L 26 7 2 6 33.3 1 4 25.0 2 2 100.0 1 2 3 2 0 0 3 2 -15
+p405
+aVMichael Ruffin MIL 01/21/2008 MIL @ NOH L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p406
+aVMichael Redd MIL 01/21/2008 MIL @ NOH L 38 19 5 16 31.3 2 5 40.0 7 8 87.5 3 4 7 4 0 0 1 1 -6
+p407
+aVMo Williams MIL 01/21/2008 MIL @ NOH L 37 16 6 12 50.0 2 4 50.0 2 2 100.0 0 2 2 6 0 0 1 2 -13
+p408
+aVBobby Simmons MIL 01/21/2008 MIL @ NOH L 23 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 2 -14
+p409
+aVAwvee Storey MIL 01/21/2008 MIL @ NOH L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 7
+p410
+aVAndrew Bogut MIL 01/21/2008 MIL @ NOH L 36 13 6 14 42.9 0 0 - 1 4 25.0 5 10 15 2 0 2 2 3 -13
+p411
+aVRoyal Ivey MIL 01/21/2008 MIL @ NOH L 16 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 3 1 0 0 5 -1
+p412
+aVYi Jianlian MIL 01/21/2008 MIL @ NOH L 23 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 0 0 0 0 -3
+p413
+aVJake Voskuhl MIL 01/21/2008 MIL @ NOH L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 2 0 2 5
+p414
+aVCharlie Villanueva MIL 01/21/2008 MIL @ NOH L 22 18 7 11 63.6 2 4 50.0 2 2 100.0 1 4 5 0 0 0 1 4 -16
+p415
+aVDan Gadzuric MIL 01/21/2008 MIL @ NOH L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p416
+aVAndrew Bogut MIL 01/19/2008 MIL vs. GSW L 38 21 7 14 50.0 0 1 0.0 7 9 77.8 3 7 10 3 2 1 6 4 -13
+p417
+aVCharlie Villanueva MIL 01/19/2008 MIL vs. GSW L 18 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 3 -22
+p418
+aVCharlie Bell MIL 01/19/2008 MIL vs. GSW L 18 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 1 2 -16
+p419
+aVJake Voskuhl MIL 01/19/2008 MIL vs. GSW L 10 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 1 3 -7
+p420
+aVMichael Redd MIL 01/19/2008 MIL vs. GSW L 41 24 10 18 55.6 2 4 50.0 2 2 100.0 2 1 3 3 1 0 1 3 -16
+p421
+aVRoyal Ivey MIL 01/19/2008 MIL vs. GSW L 42 14 5 11 45.5 1 3 33.3 3 4 75.0 0 1 1 8 1 0 1 2 -13
+p422
+aVYi Jianlian MIL 01/19/2008 MIL vs. GSW L 30 11 4 7 57.1 0 0 - 3 3 100.0 0 3 3 0 2 1 1 2 2
+p423
+aVAwvee Storey MIL 01/19/2008 MIL vs. GSW L 3 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p424
+aVMo Williams MIL 01/19/2008 MIL vs. GSW L 40 19 6 11 54.5 2 3 66.7 5 5 100.0 1 7 8 6 1 0 6 3 -10
+p425
+aVMichael Redd MIL 01/16/2008 MIL vs. ATL W 43 17 6 15 40.0 1 6 16.7 4 4 100.0 0 4 4 2 1 1 0 3 11
+p426
+aVYi Jianlian MIL 01/16/2008 MIL vs. ATL W 29 16 5 16 31.3 0 1 0.0 6 6 100.0 5 4 9 0 0 2 0 3 1
+p427
+aVCharlie Villanueva MIL 01/16/2008 MIL vs. ATL W 27 10 5 13 38.5 0 3 0.0 0 1 0.0 3 6 9 1 1 0 2 1 6
+p428
+aVAndrew Bogut MIL 01/16/2008 MIL vs. ATL W 40 21 8 14 57.1 0 0 - 5 8 62.5 4 6 10 2 0 4 1 0 9
+p429
+aVBobby Simmons MIL 01/16/2008 MIL vs. ATL W 24 9 3 8 37.5 3 5 60.0 0 0 - 0 5 5 5 0 0 1 3 4
+p430
+aVRoyal Ivey MIL 01/16/2008 MIL vs. ATL W 37 9 4 13 30.8 0 1 0.0 1 4 25.0 4 4 8 6 0 0 5 4 6
+p431
+aVJake Voskuhl MIL 01/16/2008 MIL vs. ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p432
+aVDan Gadzuric MIL 01/16/2008 MIL vs. ATL W 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -2
+p433
+aVCharlie Bell MIL 01/16/2008 MIL vs. ATL W 26 3 1 5 20.0 1 2 50.0 0 0 - 1 3 4 4 0 0 0 3 4
+p434
+aVAwvee Storey MIL 01/16/2008 MIL vs. ATL W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 3 0 0 0 3 -4
+p435
+aVYi Jianlian MIL 01/14/2008 MIL @ UTA L 30 6 2 8 25.0 0 0 - 2 2 100.0 0 3 3 2 2 4 3 5 -10
+p436
+aVBobby Simmons MIL 01/14/2008 MIL @ UTA L 20 6 3 5 60.0 0 1 0.0 0 0 - 1 5 6 1 0 0 2 5 6
+p437
+aVCharlie Villanueva MIL 01/14/2008 MIL @ UTA L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 4
+p438
+aVMo Williams MIL 01/14/2008 MIL @ UTA L 41 21 9 22 40.9 2 7 28.6 1 2 50.0 1 1 2 6 1 0 3 5 -10
+p439
+aVDan Gadzuric MIL 01/14/2008 MIL @ UTA L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 2 3 4 0
+p440
+aVMichael Redd MIL 01/14/2008 MIL @ UTA L 36 16 4 10 40.0 2 5 40.0 6 6 100.0 1 4 5 0 0 1 3 2 -14
+p441
+aVCharlie Bell MIL 01/14/2008 MIL @ UTA L 31 11 5 10 50.0 1 5 20.0 0 0 - 1 2 3 2 4 0 0 4 -15
+p442
+aVAndrew Bogut MIL 01/14/2008 MIL @ UTA L 40 23 9 12 75.0 0 0 - 5 8 62.5 2 8 10 3 0 1 4 5 -12
+p443
+aVRoyal Ivey MIL 01/14/2008 MIL @ UTA L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -4
+p444
+aVMichael Ruffin MIL 01/14/2008 MIL @ UTA L 17 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 0
+p445
+aVCharlie Villanueva MIL 01/12/2008 MIL @ PHX L 21 10 4 9 44.4 2 5 40.0 0 0 - 1 2 3 3 0 2 0 1 -1
+p446
+aVMichael Redd MIL 01/12/2008 MIL @ PHX L 38 18 5 16 31.3 3 6 50.0 5 5 100.0 1 0 1 3 0 0 1 1 -16
+p447
+aVBobby Simmons MIL 01/12/2008 MIL @ PHX L 34 17 8 12 66.7 1 2 50.0 0 0 - 1 3 4 2 0 0 2 0 -2
+p448
+aVCharlie Bell MIL 01/12/2008 MIL @ PHX L 34 18 7 10 70.0 4 5 80.0 0 0 - 0 3 3 7 0 0 1 4 3
+p449
+aVAndrew Bogut MIL 01/12/2008 MIL @ PHX L 37 29 14 16 87.5 0 0 - 1 4 25.0 3 8 11 3 0 0 1 3 -1
+p450
+aVMichael Ruffin MIL 01/12/2008 MIL @ PHX L 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 3 0
+p451
+aVYi Jianlian MIL 01/12/2008 MIL @ PHX L 17 4 2 7 28.6 0 0 - 0 0 - 1 0 1 0 2 0 1 0 -17
+p452
+aVRoyal Ivey MIL 01/12/2008 MIL @ PHX L 14 9 4 5 80.0 0 0 - 1 2 50.0 0 1 1 2 2 0 0 2 -3
+p453
+aVMo Williams MIL 01/12/2008 MIL @ PHX L 30 7 3 9 33.3 1 2 50.0 0 0 - 0 1 1 3 0 0 2 3 -3
+p454
+aVMichael Ruffin MIL 01/11/2008 MIL @ LAL L 18 2 1 2 50.0 0 0 - 0 0 - 1 4 5 2 1 0 0 4 4
+p455
+aVCharlie Bell MIL 01/11/2008 MIL @ LAL L 25 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 4 3 0 1 4 -8
+p456
+aVAndrew Bogut MIL 01/11/2008 MIL @ LAL L 30 14 5 12 41.7 0 1 0.0 4 5 80.0 2 9 11 5 0 2 1 5 -9
+p457
+aVBobby Simmons MIL 01/11/2008 MIL @ LAL L 27 2 1 8 12.5 0 1 0.0 0 0 - 1 3 4 2 1 0 2 2 -8
+p458
+aVRoyal Ivey MIL 01/11/2008 MIL @ LAL L 23 8 4 6 66.7 0 0 - 0 0 - 2 1 3 1 0 0 2 4 -4
+p459
+aVCharlie Villanueva MIL 01/11/2008 MIL @ LAL L 15 8 2 4 50.0 1 1 100.0 3 4 75.0 1 3 4 2 0 1 1 1 0
+p460
+aVMo Williams MIL 01/11/2008 MIL @ LAL L 44 28 10 21 47.6 1 3 33.3 7 8 87.5 1 3 4 6 1 0 3 2 -4
+p461
+aVYi Jianlian MIL 01/11/2008 MIL @ LAL L 33 13 6 11 54.5 1 1 100.0 0 0 - 0 6 6 1 1 0 2 3 -5
+p462
+aVMichael Redd MIL 01/11/2008 MIL @ LAL L 25 22 10 17 58.8 1 2 50.0 1 1 100.0 1 2 3 4 1 0 2 3 9
+p463
+aVMo Williams MIL 01/09/2008 MIL vs. MIA W 48 35 10 22 45.5 3 7 42.9 12 12 100.0 0 3 3 6 1 0 3 3 6
+p464
+aVAndrew Bogut MIL 01/09/2008 MIL vs. MIA W 37 17 7 9 77.8 0 0 - 3 4 75.0 2 6 8 2 3 0 3 5 -1
+p465
+aVCharlie Bell MIL 01/09/2008 MIL vs. MIA W 32 11 4 9 44.4 0 1 0.0 3 4 75.0 0 5 5 5 0 0 1 1 -2
+p466
+aVCharlie Villanueva MIL 01/09/2008 MIL vs. MIA W 15 7 2 7 28.6 1 3 33.3 2 2 100.0 0 2 2 1 0 2 4 4 -14
+p467
+aVMichael Ruffin MIL 01/09/2008 MIL vs. MIA W 13 4 1 1 100.0 0 0 - 2 5 40.0 1 5 6 0 0 1 0 3 7
+p468
+aVRoyal Ivey MIL 01/09/2008 MIL vs. MIA W 27 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 2 0 0 0 3 -6
+p469
+aVBobby Simmons MIL 01/09/2008 MIL vs. MIA W 41 12 5 15 33.3 2 6 33.3 0 1 0.0 2 7 9 4 2 0 1 1 19
+p470
+aVYi Jianlian MIL 01/09/2008 MIL vs. MIA W 26 10 4 9 44.4 0 0 - 2 4 50.0 2 2 4 3 1 2 2 5 21
+p471
+aVMo Williams MIL 01/08/2008 MIL @ PHI W 42 21 6 12 50.0 1 2 50.0 8 9 88.9 0 2 2 9 2 1 3 3 1
+p472
+aVYi Jianlian MIL 01/08/2008 MIL @ PHI W 20 2 0 7 0.0 0 0 - 2 2 100.0 1 2 3 1 1 2 0 0 -6
+p473
+aVRoyal Ivey MIL 01/08/2008 MIL @ PHI W 39 6 3 8 37.5 0 2 0.0 0 0 - 1 5 6 3 0 2 3 2 -1
+p474
+aVBobby Simmons MIL 01/08/2008 MIL @ PHI W 28 9 4 8 50.0 1 2 50.0 0 0 - 1 0 1 2 1 0 2 4 1
+p475
+aVCharlie Bell MIL 01/08/2008 MIL @ PHI W 32 21 8 17 47.1 4 8 50.0 1 2 50.0 0 4 4 2 1 0 1 2 13
+p476
+aVCharlie Villanueva MIL 01/08/2008 MIL @ PHI W 31 15 7 15 46.7 0 2 0.0 1 1 100.0 1 9 10 2 0 0 3 2 8
+p477
+aVMichael Ruffin MIL 01/08/2008 MIL @ PHI W 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 2 3
+p478
+aVAndrew Bogut MIL 01/08/2008 MIL @ PHI W 40 13 5 9 55.6 0 0 - 3 4 75.0 4 8 12 3 1 3 4 4 1
+p479
+aVYi Jianlian MIL 01/06/2008 MIL @ CHA W 31 5 2 9 22.2 0 1 0.0 1 2 50.0 4 4 8 1 0 1 1 2 3
+p480
+aVMo Williams MIL 01/06/2008 MIL @ CHA W 45 17 7 16 43.8 0 2 0.0 3 4 75.0 0 3 3 3 6 0 1 3 -1
+p481
+aVMichael Ruffin MIL 01/06/2008 MIL @ CHA W 13 0 0 0 - 0 0 - 0 0 - 1 1 2 0 2 1 1 3 -10
+p482
+aVBobby Simmons MIL 01/06/2008 MIL @ CHA W 32 10 3 8 37.5 0 0 - 4 4 100.0 4 4 8 2 1 0 1 4 12
+p483
+aVCharlie Bell MIL 01/06/2008 MIL @ CHA W 28 27 11 18 61.1 1 3 33.3 4 4 100.0 2 4 6 1 1 0 1 0 5
+p484
+aVCharlie Villanueva MIL 01/06/2008 MIL @ CHA W 20 6 2 10 20.0 1 1 100.0 1 2 50.0 0 3 3 0 0 0 1 1 -7
+p485
+aVAndrew Bogut MIL 01/06/2008 MIL @ CHA W 35 25 10 15 66.7 0 1 0.0 5 7 71.4 2 6 8 3 0 0 1 4 14
+p486
+aVRoyal Ivey MIL 01/06/2008 MIL @ CHA W 37 3 1 4 25.0 0 1 0.0 1 2 50.0 1 0 1 4 2 2 2 4 4
+p487
+aVMichael Ruffin MIL 01/04/2008 MIL vs. WAS L 18 2 0 0 - 0 0 - 2 6 33.3 3 1 4 0 0 0 0 1 2
+p488
+aVAndrew Bogut MIL 01/04/2008 MIL vs. WAS L 29 10 5 13 38.5 0 0 - 0 0 - 3 4 7 4 0 0 1 1 -25
+p489
+aVMo Williams MIL 01/04/2008 MIL vs. WAS L 33 13 5 10 50.0 1 4 25.0 2 2 100.0 0 2 2 3 3 0 2 2 -30
+p490
+aVCharlie Bell MIL 01/04/2008 MIL vs. WAS L 23 0 0 6 0.0 0 4 0.0 0 0 - 0 3 3 5 0 0 1 3 -19
+p491
+aVBobby Simmons MIL 01/04/2008 MIL vs. WAS L 27 11 5 12 41.7 1 4 25.0 0 0 - 1 2 3 0 1 0 3 1 -19
+p492
+aVCharlie Villanueva MIL 01/04/2008 MIL vs. WAS L 30 20 7 15 46.7 1 4 25.0 5 6 83.3 2 3 5 1 0 0 1 1 -5
+p493
+aVAwvee Storey MIL 01/04/2008 MIL vs. WAS L 15 2 1 5 20.0 0 0 - 0 0 - 3 2 5 2 1 0 1 1 6
+p494
+aVYi Jianlian MIL 01/04/2008 MIL vs. WAS L 31 8 4 10 40.0 0 1 0.0 0 0 - 0 9 9 0 2 0 4 2 -24
+p495
+aVRoyal Ivey MIL 01/04/2008 MIL vs. WAS L 35 11 3 7 42.9 0 1 0.0 5 6 83.3 2 1 3 7 1 0 3 3 -6
+p496
+aVBobby Simmons MIL 01/02/2008 MIL @ MIA W 18 11 4 7 57.1 2 2 100.0 1 2 50.0 4 3 7 1 2 0 2 1 0
+p497
+aVAndrew Bogut MIL 01/02/2008 MIL @ MIA W 39 13 5 10 50.0 0 0 - 3 5 60.0 1 11 12 2 0 1 2 4 4
+p498
+aVMichael Ruffin MIL 01/02/2008 MIL @ MIA W 12 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 3 6
+p499
+aVCharlie Villanueva MIL 01/02/2008 MIL @ MIA W 21 15 5 9 55.6 2 5 40.0 3 4 75.0 1 4 5 1 0 0 2 2 0
+p500
+aVCharlie Bell MIL 01/02/2008 MIL @ MIA W 30 12 5 9 55.6 2 3 66.7 0 0 - 3 2 5 1 0 0 2 0 5
+p501
+aVRoyal Ivey MIL 01/02/2008 MIL @ MIA W 18 4 1 4 25.0 1 2 50.0 1 2 50.0 0 0 0 0 0 0 1 2 -1
+p502
+aVJake Voskuhl MIL 01/02/2008 MIL @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -7
+p503
+aVMo Williams MIL 01/02/2008 MIL @ MIA W 45 25 9 14 64.3 1 3 33.3 6 6 100.0 1 1 2 9 2 0 4 2 12
+p504
+aVYi Jianlian MIL 01/02/2008 MIL @ MIA W 21 10 4 7 57.1 0 0 - 2 2 100.0 1 6 7 2 3 1 2 2 7
+p505
+aVMichael Redd MIL 01/02/2008 MIL @ MIA W 34 8 3 10 30.0 0 2 0.0 2 4 50.0 0 2 2 2 1 1 3 2 -1
+p506
+aVAndrew Bogut MIL 12/31/2007 MIL @ DET L 32 8 4 8 50.0 0 0 - 0 0 - 3 4 7 2 2 0 2 1 -26
+p507
+aVRoyal Ivey MIL 12/31/2007 MIL @ DET L 26 6 1 9 11.1 0 3 0.0 4 6 66.7 0 1 1 3 1 0 3 4 -29
+p508
+aVYi Jianlian MIL 12/31/2007 MIL @ DET L 31 12 6 12 50.0 0 0 - 0 1 0.0 2 6 8 0 0 1 1 0 -30
+p509
+aVBobby Simmons MIL 12/31/2007 MIL @ DET L 22 5 2 7 28.6 0 2 0.0 1 2 50.0 1 0 1 2 0 0 2 1 -19
+p510
+aVCharlie Bell MIL 12/31/2007 MIL @ DET L 28 4 1 8 12.5 0 3 0.0 2 2 100.0 1 4 5 4 0 0 2 0 -22
+p511
+aVAwvee Storey MIL 12/31/2007 MIL @ DET L 12 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 3 2 -16
+p512
+aVDan Gadzuric MIL 12/31/2007 MIL @ DET L 21 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 1 2 2 -22
+p513
+aVCharlie Villanueva MIL 12/31/2007 MIL @ DET L 17 6 3 7 42.9 0 0 - 0 0 - 2 0 2 0 0 0 3 1 -16
+p514
+aVJake Voskuhl MIL 12/31/2007 MIL @ DET L 12 4 1 1 100.0 0 0 - 2 2 100.0 2 2 4 1 0 1 0 2 -13
+p515
+aVMichael Redd MIL 12/31/2007 MIL @ DET L 31 18 6 13 46.2 2 4 50.0 4 5 80.0 2 3 5 2 0 0 3 2 -22
+p516
+aVMichael Ruffin MIL 12/31/2007 MIL @ DET L 8 3 1 2 50.0 0 0 - 1 4 25.0 2 0 2 0 1 0 0 2 -10
+p517
+aVCharlie Bell MIL 12/29/2007 MIL vs. NJN L 21 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 3 0 0 0 3 -5
+p518
+aVMichael Redd MIL 12/29/2007 MIL vs. NJN L 45 35 12 23 52.2 1 3 33.3 10 12 83.3 3 2 5 3 2 0 2 4 -3
+p519
+aVRoyal Ivey MIL 12/29/2007 MIL vs. NJN L 24 5 1 5 20.0 0 2 0.0 3 6 50.0 1 1 2 1 1 0 0 3 -8
+p520
+aVMo Williams MIL 12/29/2007 MIL vs. NJN L 33 24 8 12 66.7 2 4 50.0 6 7 85.7 0 5 5 6 2 0 4 6 8
+p521
+aVAndrew Bogut MIL 12/29/2007 MIL vs. NJN L 38 5 2 8 25.0 0 0 - 1 4 25.0 4 5 9 5 2 2 2 2 4
+p522
+aVYi Jianlian MIL 12/29/2007 MIL vs. NJN L 35 12 5 9 55.6 0 0 - 2 4 50.0 1 7 8 0 0 2 1 3 3
+p523
+aVBobby Simmons MIL 12/29/2007 MIL vs. NJN L 21 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 2 0 0 0 2
+p524
+aVJake Voskuhl MIL 12/29/2007 MIL vs. NJN L 10 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -6
+p525
+aVCharlie Villanueva MIL 12/29/2007 MIL vs. NJN L 13 6 3 6 50.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 -5
+p526
+aVCharlie Bell MIL 12/28/2007 MIL @ CHI L 20 2 1 8 12.5 0 2 0.0 0 0 - 1 0 1 4 2 0 0 1 -1
+p527
+aVAndrew Bogut MIL 12/28/2007 MIL @ CHI L 38 15 7 14 50.0 0 0 - 1 4 25.0 4 7 11 3 1 2 2 1 -2
+p528
+aVMo Williams MIL 12/28/2007 MIL @ CHI L 38 11 5 15 33.3 1 4 25.0 0 0 - 1 4 5 15 3 0 1 3 -3
+p529
+aVMichael Redd MIL 12/28/2007 MIL @ CHI L 42 34 13 24 54.2 2 5 40.0 6 11 54.5 1 3 4 6 2 0 2 0 -5
+p530
+aVRoyal Ivey MIL 12/28/2007 MIL @ CHI L 20 8 3 5 60.0 2 3 66.7 0 0 - 0 3 3 2 2 0 1 4 -7
+p531
+aVBobby Simmons MIL 12/28/2007 MIL @ CHI L 21 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 3
+p532
+aVYi Jianlian MIL 12/28/2007 MIL @ CHI L 30 10 5 11 45.5 0 0 - 0 0 - 3 4 7 2 0 2 3 5 -4
+p533
+aVJake Voskuhl MIL 12/28/2007 MIL @ CHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 2 1 4 -2
+p534
+aVCharlie Villanueva MIL 12/28/2007 MIL @ CHI L 21 15 7 11 63.6 1 2 50.0 0 0 - 1 2 3 0 0 0 1 6 1
+p535
+aVMichael Redd MIL 12/26/2007 MIL @ DEN L 28 9 1 8 12.5 0 3 0.0 7 8 87.5 0 2 2 4 1 0 1 1 -30
+p536
+aVDan Gadzuric MIL 12/26/2007 MIL @ DEN L 7 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 5
+p537
+aVJake Voskuhl MIL 12/26/2007 MIL @ DEN L 9 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 2
+p538
+aVAndrew Bogut MIL 12/26/2007 MIL @ DEN L 27 6 2 8 25.0 0 0 - 2 2 100.0 4 5 9 1 2 1 2 4 -16
+p539
+aVYi Jianlian MIL 12/26/2007 MIL @ DEN L 29 8 2 11 18.2 0 0 - 4 4 100.0 1 4 5 1 0 1 2 2 -19
+p540
+aVRoyal Ivey MIL 12/26/2007 MIL @ DEN L 18 14 5 7 71.4 4 6 66.7 0 0 - 0 0 0 2 1 0 1 0 13
+p541
+aVMo Williams MIL 12/26/2007 MIL @ DEN L 34 28 12 24 50.0 4 6 66.7 0 0 - 2 1 3 7 2 1 2 4 -16
+p542
+aVCharlie Bell MIL 12/26/2007 MIL @ DEN L 23 5 1 4 25.0 1 3 33.3 2 2 100.0 1 4 5 6 1 0 1 1 -6
+p543
+aVBobby Simmons MIL 12/26/2007 MIL @ DEN L 27 2 1 7 14.3 0 1 0.0 0 0 - 0 4 4 0 2 0 4 4 -30
+p544
+aVCharlie Villanueva MIL 12/26/2007 MIL @ DEN L 27 17 7 15 46.7 1 4 25.0 2 2 100.0 3 3 6 1 1 1 4 2 -3
+p545
+aVAwvee Storey MIL 12/26/2007 MIL @ DEN L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 0 0 0 2 0
+p546
+aVMo Williams MIL 12/22/2007 MIL vs. CHA W 46 22 9 20 45.0 2 3 66.7 2 3 66.7 1 2 3 9 4 0 4 3 6
+p547
+aVBobby Simmons MIL 12/22/2007 MIL vs. CHA W 17 9 4 9 44.4 0 1 0.0 1 2 50.0 1 2 3 1 1 1 3 1 2
+p548
+aVRoyal Ivey MIL 12/22/2007 MIL vs. CHA W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -3
+p549
+aVAndrew Bogut MIL 12/22/2007 MIL vs. CHA W 38 14 6 13 46.2 0 0 - 2 3 66.7 6 4 10 1 0 2 1 3 1
+p550
+aVJake Voskuhl MIL 12/22/2007 MIL vs. CHA W 12 2 1 2 50.0 0 0 - 0 0 - 2 3 5 2 0 0 2 4 1
+p551
+aVYi Jianlian MIL 12/22/2007 MIL vs. CHA W 43 29 14 17 82.4 0 0 - 1 1 100.0 4 6 10 3 3 1 2 3 15
+p552
+aVMichael Redd MIL 12/22/2007 MIL vs. CHA W 44 27 10 27 37.0 4 11 36.4 3 4 75.0 0 3 3 3 1 0 3 3 2
+p553
+aVCharlie Bell MIL 12/22/2007 MIL vs. CHA W 32 0 0 0 - 0 0 - 0 0 - 1 3 4 7 1 0 1 3 2
+p554
+aVDan Gadzuric MIL 12/22/2007 MIL vs. CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p555
+aVRoyal Ivey MIL 12/19/2007 MIL vs. SAC L 19 10 4 4 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 3 1 -6
+p556
+aVMichael Redd MIL 12/19/2007 MIL vs. SAC L 35 27 7 14 50.0 5 8 62.5 8 11 72.7 0 1 1 1 1 0 4 2 -15
+p557
+aVJake Voskuhl MIL 12/19/2007 MIL vs. SAC L 17 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 0 1 1 2 -2
+p558
+aVBobby Simmons MIL 12/19/2007 MIL vs. SAC L 15 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -2
+p559
+aVCharlie Bell MIL 12/19/2007 MIL vs. SAC L 30 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 5 2 0 0 3 -7
+p560
+aVAndrew Bogut MIL 12/19/2007 MIL vs. SAC L 37 12 6 10 60.0 0 0 - 0 2 0.0 4 7 11 4 3 5 4 2 -9
+p561
+aVDesmond Mason MIL 12/19/2007 MIL vs. SAC L 10 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 0 0 0 -6
+p562
+aVMo Williams MIL 12/19/2007 MIL vs. SAC L 37 17 8 16 50.0 1 4 25.0 0 0 - 2 5 7 5 0 0 5 4 -5
+p563
+aVYi Jianlian MIL 12/19/2007 MIL vs. SAC L 40 8 2 10 20.0 0 0 - 4 4 100.0 2 10 12 2 1 3 2 2 -13
+p564
+aVYi Jianlian MIL 12/17/2007 MIL @ CLE L 35 13 6 9 66.7 1 1 100.0 0 0 - 0 6 6 0 1 1 1 2 7
+p565
+aVDesmond Mason MIL 12/17/2007 MIL @ CLE L 43 15 7 12 58.3 0 0 - 1 3 33.3 5 6 11 2 0 2 5 4 -9
+p566
+aVMichael Redd MIL 12/17/2007 MIL @ CLE L 54 22 7 22 31.8 2 10 20.0 6 7 85.7 1 6 7 9 3 0 4 3 -1
+p567
+aVJake Voskuhl MIL 12/17/2007 MIL @ CLE L 18 10 5 7 71.4 0 0 - 0 0 - 2 3 5 1 0 1 1 4 0
+p568
+aVCharlie Bell MIL 12/17/2007 MIL @ CLE L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p569
+aVBobby Simmons MIL 12/17/2007 MIL @ CLE L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 4
+p570
+aVAndrew Bogut MIL 12/17/2007 MIL @ CLE L 40 8 4 7 57.1 0 0 - 0 2 0.0 1 7 8 1 0 2 3 5 -5
+p571
+aVMo Williams MIL 12/17/2007 MIL @ CLE L 51 18 6 20 30.0 1 9 11.1 5 6 83.3 3 4 7 8 0 0 3 4 -8
+p572
+aVCharlie Villanueva MIL 12/17/2007 MIL @ CLE L 23 13 4 11 36.4 1 3 33.3 4 4 100.0 3 6 9 0 0 1 1 3 -10
+p573
+aVMichael Redd MIL 12/15/2007 MIL vs. MIN W 42 32 10 24 41.7 7 13 53.8 5 6 83.3 2 4 6 9 0 0 2 1 3
+p574
+aVJake Voskuhl MIL 12/15/2007 MIL vs. MIN W 15 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 1 1 0 0 2 0
+p575
+aVMo Williams MIL 12/15/2007 MIL vs. MIN W 39 19 6 10 60.0 2 3 66.7 5 6 83.3 0 2 2 6 1 0 3 1 9
+p576
+aVYi Jianlian MIL 12/15/2007 MIL vs. MIN W 38 22 9 14 64.3 0 0 - 4 4 100.0 3 4 7 1 1 2 0 1 1
+p577
+aVCharlie Bell MIL 12/15/2007 MIL vs. MIN W 16 2 1 8 12.5 0 5 0.0 0 0 - 0 1 1 1 0 0 0 0 -2
+p578
+aVDesmond Mason MIL 12/15/2007 MIL vs. MIN W 29 10 3 4 75.0 0 0 - 4 4 100.0 0 2 2 3 3 3 0 1 9
+p579
+aVBobby Simmons MIL 12/15/2007 MIL vs. MIN W 13 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -8
+p580
+aVRoyal Ivey MIL 12/15/2007 MIL vs. MIN W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p581
+aVCharlie Villanueva MIL 12/15/2007 MIL vs. MIN W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p582
+aVAndrew Bogut MIL 12/15/2007 MIL vs. MIN W 38 8 4 10 40.0 0 0 - 0 0 - 4 9 13 5 0 0 1 5 6
+p583
+aVRoyal Ivey MIL 12/14/2007 MIL @ BOS L 17 6 2 7 28.6 0 2 0.0 2 2 100.0 2 2 4 3 0 0 1 2 -7
+p584
+aVDan Gadzuric MIL 12/14/2007 MIL @ BOS L 7 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 1
+p585
+aVJake Voskuhl MIL 12/14/2007 MIL @ BOS L 15 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 2 0 1 4 -8
+p586
+aVBobby Simmons MIL 12/14/2007 MIL @ BOS L 31 11 5 15 33.3 1 6 16.7 0 0 - 2 2 4 2 1 0 3 3 -9
+p587
+aVAwvee Storey MIL 12/14/2007 MIL @ BOS L 7 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -3
+p588
+aVAndrew Bogut MIL 12/14/2007 MIL @ BOS L 23 4 1 3 33.3 0 0 - 2 4 50.0 1 2 3 3 1 0 2 2 -9
+p589
+aVYi Jianlian MIL 12/14/2007 MIL @ BOS L 24 10 3 5 60.0 0 0 - 4 4 100.0 2 3 5 2 0 0 6 3 -19
+p590
+aVCharlie Villanueva MIL 12/14/2007 MIL @ BOS L 27 7 3 11 27.3 1 4 25.0 0 0 - 1 6 7 0 1 0 1 1 -9
+p591
+aVCharlie Bell MIL 12/14/2007 MIL @ BOS L 19 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 5 1 0 0 1 -2
+p592
+aVMo Williams MIL 12/14/2007 MIL @ BOS L 24 14 6 9 66.7 2 3 66.7 0 0 - 0 3 3 0 2 0 2 3 -21
+p593
+aVDesmond Mason MIL 12/14/2007 MIL @ BOS L 17 5 2 3 66.7 0 0 - 1 2 50.0 0 5 5 0 0 0 1 1 -9
+p594
+aVMichael Redd MIL 12/14/2007 MIL @ BOS L 28 7 3 9 33.3 0 3 0.0 1 1 100.0 0 1 1 4 0 0 3 1 -15
+p595
+aVBobby Simmons MIL 12/12/2007 MIL vs. ORL W 17 2 0 3 0.0 0 2 0.0 2 2 100.0 0 3 3 0 0 0 1 4 0
+p596
+aVDan Gadzuric MIL 12/12/2007 MIL vs. ORL W 5 6 1 3 33.3 0 0 - 4 8 50.0 0 1 1 0 0 0 0 5 -1
+p597
+aVMichael Redd MIL 12/12/2007 MIL vs. ORL W 44 27 9 17 52.9 2 3 66.7 7 8 87.5 0 10 10 9 0 0 5 0 25
+p598
+aVCharlie Villanueva MIL 12/12/2007 MIL vs. ORL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -7
+p599
+aVYi Jianlian MIL 12/12/2007 MIL vs. ORL W 34 18 7 11 63.6 0 0 - 4 4 100.0 3 4 7 2 0 0 2 1 9
+p600
+aVJake Voskuhl MIL 12/12/2007 MIL vs. ORL W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 4 8
+p601
+aVDesmond Mason MIL 12/12/2007 MIL vs. ORL W 33 4 1 6 16.7 0 0 - 2 6 33.3 1 4 5 1 1 0 1 3 12
+p602
+aVMo Williams MIL 12/12/2007 MIL vs. ORL W 29 17 6 12 50.0 2 5 40.0 3 4 75.0 1 5 6 7 1 0 3 4 3
+p603
+aVCharlie Bell MIL 12/12/2007 MIL vs. ORL W 32 13 5 10 50.0 1 5 20.0 2 2 100.0 2 3 5 3 1 0 4 4 9
+p604
+aVAndrew Bogut MIL 12/12/2007 MIL vs. ORL W 31 11 5 7 71.4 0 0 - 1 2 50.0 0 9 9 2 1 1 4 6 12
+p605
+aVAndrew Bogut MIL 12/10/2007 MIL @ SAC L 39 14 6 15 40.0 0 0 - 2 4 50.0 5 4 9 4 0 0 3 5 6
+p606
+aVJake Voskuhl MIL 12/10/2007 MIL @ SAC L 9 3 0 1 0.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 0 -9
+p607
+aVDesmond Mason MIL 12/10/2007 MIL @ SAC L 30 7 2 5 40.0 0 0 - 3 4 75.0 2 3 5 4 3 0 1 3 -2
+p608
+aVRoyal Ivey MIL 12/10/2007 MIL @ SAC L 15 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 1 -6
+p609
+aVCharlie Bell MIL 12/10/2007 MIL @ SAC L 23 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 1 0 0 2 2 -3
+p610
+aVYi Jianlian MIL 12/10/2007 MIL @ SAC L 26 8 4 11 36.4 0 0 - 0 0 - 1 4 5 0 0 1 0 2 0
+p611
+aVMichael Redd MIL 12/10/2007 MIL @ SAC L 38 24 8 19 42.1 3 9 33.3 5 5 100.0 1 3 4 0 3 0 2 2 -2
+p612
+aVMo Williams MIL 12/10/2007 MIL @ SAC L 37 12 5 12 41.7 2 2 100.0 0 0 - 0 2 2 9 0 0 2 1 4
+p613
+aVCharlie Villanueva MIL 12/10/2007 MIL @ SAC L 22 11 5 12 41.7 1 2 50.0 0 0 - 2 5 7 1 0 0 0 4 -3
+p614
+aVCharlie Villanueva MIL 12/09/2007 MIL @ POR L 32 19 7 10 70.0 0 1 0.0 5 5 100.0 4 5 9 0 0 0 1 5 1
+p615
+aVJake Voskuhl MIL 12/09/2007 MIL @ POR L 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 2 21
+p616
+aVMichael Redd MIL 12/09/2007 MIL @ POR L 43 18 5 23 21.7 2 8 25.0 6 6 100.0 1 2 3 5 1 0 4 3 -8
+p617
+aVRoyal Ivey MIL 12/09/2007 MIL @ POR L 30 3 1 3 33.3 1 1 100.0 0 0 - 2 0 2 4 3 0 0 3 4
+p618
+aVCharlie Bell MIL 12/09/2007 MIL @ POR L 23 6 2 4 50.0 1 2 50.0 1 2 50.0 0 1 1 3 0 0 1 3 -1
+p619
+aVDesmond Mason MIL 12/09/2007 MIL @ POR L 20 8 4 8 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 1 -5
+p620
+aVMo Williams MIL 12/09/2007 MIL @ POR L 45 33 12 23 52.2 4 8 50.0 5 5 100.0 0 4 4 6 4 0 3 2 -2
+p621
+aVYi Jianlian MIL 12/09/2007 MIL @ POR L 20 5 1 5 20.0 0 0 - 3 4 75.0 3 2 5 3 1 0 2 1 -5
+p622
+aVAndrew Bogut MIL 12/09/2007 MIL @ POR L 43 21 8 16 50.0 0 0 - 5 6 83.3 4 1 5 1 1 0 2 5 -25
+p623
+aVMichael Redd MIL 12/07/2007 MIL @ SEA L 44 41 12 24 50.0 4 8 50.0 13 14 92.9 1 3 4 3 1 0 0 2 -5
+p624
+aVCharlie Bell MIL 12/07/2007 MIL @ SEA L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 4 0 0 0 2 7
+p625
+aVRoyal Ivey MIL 12/07/2007 MIL @ SEA L 19 2 1 7 14.3 0 0 - 0 0 - 1 2 3 1 1 0 0 4 1
+p626
+aVJake Voskuhl MIL 12/07/2007 MIL @ SEA L 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 2 10
+p627
+aVYi Jianlian MIL 12/07/2007 MIL @ SEA L 30 13 5 11 45.5 1 3 33.3 2 4 50.0 3 1 4 1 0 1 2 3 -9
+p628
+aVCharlie Villanueva MIL 12/07/2007 MIL @ SEA L 20 8 2 7 28.6 2 4 50.0 2 2 100.0 5 1 6 1 0 0 1 1 5
+p629
+aVAndrew Bogut MIL 12/07/2007 MIL @ SEA L 41 13 6 16 37.5 0 1 0.0 1 2 50.0 3 8 11 3 1 3 2 6 -16
+p630
+aVMo Williams MIL 12/07/2007 MIL @ SEA L 37 13 5 12 41.7 1 1 100.0 2 2 100.0 1 1 2 6 1 0 2 5 -11
+p631
+aVDesmond Mason MIL 12/07/2007 MIL @ SEA L 35 6 2 10 20.0 0 0 - 2 4 50.0 2 5 7 1 1 0 1 3 -12
+p632
+aVMichael Redd MIL 12/05/2007 MIL @ GSW L 30 24 8 19 42.1 1 3 33.3 7 7 100.0 0 5 5 0 1 0 4 1 -14
+p633
+aVRoyal Ivey MIL 12/05/2007 MIL @ GSW L 13 7 2 5 40.0 1 1 100.0 2 4 50.0 1 0 1 2 0 0 1 2 -9
+p634
+aVCharlie Bell MIL 12/05/2007 MIL @ GSW L 17 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 3 3 0 3 2 -14
+p635
+aVDesmond Mason MIL 12/05/2007 MIL @ GSW L 24 6 2 9 22.2 0 0 - 2 4 50.0 1 1 2 3 2 0 2 1 -22
+p636
+aVAndrew Bogut MIL 12/05/2007 MIL @ GSW L 28 10 4 5 80.0 0 0 - 2 5 40.0 3 5 8 2 0 2 3 3 -15
+p637
+aVBobby Simmons MIL 12/05/2007 MIL @ GSW L 26 13 6 10 60.0 1 2 50.0 0 0 - 1 1 2 1 0 0 1 1 -12
+p638
+aVYi Jianlian MIL 12/05/2007 MIL @ GSW L 29 9 3 6 50.0 0 0 - 3 4 75.0 4 6 10 2 0 2 2 2 -19
+p639
+aVCharlie Villanueva MIL 12/05/2007 MIL @ GSW L 18 9 4 10 40.0 0 2 0.0 1 1 100.0 1 3 4 1 1 0 0 0 -9
+p640
+aVDan Gadzuric MIL 12/05/2007 MIL @ GSW L 13 2 1 2 50.0 0 0 - 0 0 - 3 3 6 1 0 0 2 2 -8
+p641
+aVMo Williams MIL 12/05/2007 MIL @ GSW L 35 10 5 15 33.3 0 3 0.0 0 0 - 0 2 2 3 2 0 5 2 -21
+p642
+aVJake Voskuhl MIL 12/05/2007 MIL @ GSW L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -7
+p643
+aVBobby Simmons MIL 12/04/2007 MIL @ LAC W 24 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 0 0 3 1 8
+p644
+aVCharlie Villanueva MIL 12/04/2007 MIL @ LAC W 21 5 2 8 25.0 0 2 0.0 1 2 50.0 2 1 3 1 0 0 1 1 -3
+p645
+aVMichael Redd MIL 12/04/2007 MIL @ LAC W 41 25 8 15 53.3 2 3 66.7 7 8 87.5 0 8 8 3 1 0 4 0 5
+p646
+aVJake Voskuhl MIL 12/04/2007 MIL @ LAC W 8 5 2 2 100.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 2 -1
+p647
+aVCharlie Bell MIL 12/04/2007 MIL @ LAC W 17 5 1 6 16.7 1 2 50.0 2 2 100.0 0 2 2 3 1 0 2 2 6
+p648
+aVMo Williams MIL 12/04/2007 MIL @ LAC W 38 8 3 14 21.4 0 3 0.0 2 2 100.0 1 6 7 9 2 0 0 2 7
+p649
+aVYi Jianlian MIL 12/04/2007 MIL @ LAC W 27 9 4 10 40.0 0 0 - 1 2 50.0 1 3 4 0 1 0 1 1 12
+p650
+aVDesmond Mason MIL 12/04/2007 MIL @ LAC W 24 7 3 5 60.0 0 0 - 1 1 100.0 1 2 3 2 0 1 2 2 1
+p651
+aVAndrew Bogut MIL 12/04/2007 MIL @ LAC W 40 19 8 10 80.0 0 0 - 3 5 60.0 3 9 12 2 1 4 1 3 10
+p652
+aVAwvee Storey MIL 12/01/2007 MIL vs. DET L 5 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 2 -2
+p653
+aVCharlie Bell MIL 12/01/2007 MIL vs. DET L 21 5 2 8 25.0 0 4 0.0 1 2 50.0 1 2 3 4 2 0 2 1 -14
+p654
+aVYi Jianlian MIL 12/01/2007 MIL vs. DET L 21 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -6
+p655
+aVDesmond Mason MIL 12/01/2007 MIL vs. DET L 20 8 4 6 66.7 0 0 - 0 0 - 0 2 2 2 0 1 2 3 -4
+p656
+aVRoyal Ivey MIL 12/01/2007 MIL vs. DET L 12 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 1 0 0 1 1 -7
+p657
+aVMo Williams MIL 12/01/2007 MIL vs. DET L 29 10 4 7 57.1 1 3 33.3 1 2 50.0 1 3 4 6 0 0 3 1 -14
+p658
+aVMichael Redd MIL 12/01/2007 MIL vs. DET L 35 11 4 6 66.7 1 2 50.0 2 2 100.0 0 4 4 4 0 0 2 0 -17
+p659
+aVDan Gadzuric MIL 12/01/2007 MIL vs. DET L 8 4 2 4 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 -4
+p660
+aVAndrew Bogut MIL 12/01/2007 MIL vs. DET L 23 10 5 8 62.5 0 0 - 0 0 - 0 3 3 1 0 0 1 4 -8
+p661
+aVCharlie Villanueva MIL 12/01/2007 MIL vs. DET L 18 13 6 10 60.0 1 3 33.3 0 2 0.0 3 1 4 1 0 0 2 2 -17
+p662
+aVBobby Simmons MIL 12/01/2007 MIL vs. DET L 28 13 5 9 55.6 1 1 100.0 2 5 40.0 0 1 1 3 2 0 3 2 -22
+p663
+aVJake Voskuhl MIL 12/01/2007 MIL vs. DET L 21 2 1 2 50.0 0 0 - 0 0 - 0 3 3 3 1 1 2 3 -15
+p664
+aVMichael Redd MIL 11/30/2007 MIL @ NYK L 39 27 10 23 43.5 4 10 40.0 3 3 100.0 1 1 2 2 0 0 1 0 3
+p665
+aVYi Jianlian MIL 11/30/2007 MIL @ NYK L 29 8 3 7 42.9 0 1 0.0 2 2 100.0 0 2 2 0 0 1 1 3 4
+p666
+aVDan Gadzuric MIL 11/30/2007 MIL @ NYK L 8 2 1 2 50.0 0 0 - 0 1 0.0 1 5 6 0 0 0 0 0 1
+p667
+aVAndrew Bogut MIL 11/30/2007 MIL @ NYK L 31 10 5 6 83.3 0 0 - 0 0 - 0 9 9 0 0 3 3 3 -3
+p668
+aVMo Williams MIL 11/30/2007 MIL @ NYK L 44 13 6 13 46.2 1 1 100.0 0 0 - 0 4 4 5 0 0 1 5 0
+p669
+aVJake Voskuhl MIL 11/30/2007 MIL @ NYK L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p670
+aVCharlie Villanueva MIL 11/30/2007 MIL @ NYK L 18 7 2 5 40.0 0 2 0.0 3 5 60.0 2 2 4 0 0 1 1 2 -6
+p671
+aVCharlie Bell MIL 11/30/2007 MIL @ NYK L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 -1
+p672
+aVRoyal Ivey MIL 11/30/2007 MIL @ NYK L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -8
+p673
+aVBobby Simmons MIL 11/30/2007 MIL @ NYK L 20 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 2 2 0 3 0 -11
+p674
+aVDesmond Mason MIL 11/30/2007 MIL @ NYK L 29 15 6 10 60.0 0 0 - 3 3 100.0 2 4 6 2 0 1 1 0 7
+p675
+aVMichael Redd MIL 11/28/2007 MIL @ ATL L 42 24 9 21 42.9 1 6 16.7 5 6 83.3 1 4 5 2 2 0 3 2 -1
+p676
+aVRoyal Ivey MIL 11/28/2007 MIL @ ATL L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -11
+p677
+aVDesmond Mason MIL 11/28/2007 MIL @ ATL L 31 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 2 2 2 3 4
+p678
+aVCharlie Villanueva MIL 11/28/2007 MIL @ ATL L 15 0 0 5 0.0 0 3 0.0 0 2 0.0 2 2 4 1 1 0 0 1 -18
+p679
+aVCharlie Bell MIL 11/28/2007 MIL @ ATL L 14 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -21
+p680
+aVDan Gadzuric MIL 11/28/2007 MIL @ ATL L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 1 0 -9
+p681
+aVAndrew Bogut MIL 11/28/2007 MIL @ ATL L 37 18 7 12 58.3 0 0 - 4 5 80.0 1 10 11 0 1 4 4 4 2
+p682
+aVMo Williams MIL 11/28/2007 MIL @ ATL L 39 23 9 9 100.0 1 1 100.0 4 4 100.0 0 1 1 9 2 0 6 0 -2
+p683
+aVJake Voskuhl MIL 11/28/2007 MIL @ ATL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p684
+aVAwvee Storey MIL 11/28/2007 MIL @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p685
+aVBobby Simmons MIL 11/28/2007 MIL @ ATL L 22 5 1 4 25.0 1 3 33.3 2 2 100.0 2 1 3 2 1 0 1 1 -14
+p686
+aVYi Jianlian MIL 11/28/2007 MIL @ ATL L 19 6 3 6 50.0 0 1 0.0 0 0 - 2 1 3 1 1 0 1 3 -5
+p687
+aVMichael Redd MIL 11/27/2007 MIL vs. PHI L 34 17 6 10 60.0 0 3 0.0 5 6 83.3 2 6 8 3 2 0 3 3 -31
+p688
+aVAndrew Bogut MIL 11/27/2007 MIL vs. PHI L 28 6 2 7 28.6 0 0 - 2 2 100.0 4 4 8 1 0 2 2 2 -25
+p689
+aVCharlie Bell MIL 11/27/2007 MIL vs. PHI L 30 9 4 10 40.0 1 6 16.7 0 0 - 0 2 2 3 2 0 1 1 -4
+p690
+aVCharlie Villanueva MIL 11/27/2007 MIL vs. PHI L 23 16 7 10 70.0 1 4 25.0 1 1 100.0 2 2 4 0 0 1 1 2 0
+p691
+aVDan Gadzuric MIL 11/27/2007 MIL vs. PHI L 13 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 1 2 10
+p692
+aVYi Jianlian MIL 11/27/2007 MIL vs. PHI L 25 13 5 9 55.6 1 4 25.0 2 2 100.0 1 4 5 0 0 0 1 2 -15
+p693
+aVJake Voskuhl MIL 11/27/2007 MIL vs. PHI L 7 9 2 2 100.0 0 0 - 5 6 83.3 0 1 1 0 0 0 0 0 0
+p694
+aVRoyal Ivey MIL 11/27/2007 MIL vs. PHI L 21 9 3 8 37.5 1 3 33.3 2 2 100.0 0 2 2 1 2 0 1 2 6
+p695
+aVAwvee Storey MIL 11/27/2007 MIL vs. PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 2
+p696
+aVDesmond Mason MIL 11/27/2007 MIL vs. PHI L 18 4 1 6 16.7 0 0 - 2 2 100.0 0 0 0 1 0 1 0 1 -11
+p697
+aVMo Williams MIL 11/27/2007 MIL vs. PHI L 37 14 6 10 60.0 0 1 0.0 2 2 100.0 1 1 2 9 2 0 4 2 -7
+p698
+aVAndrew Bogut MIL 11/24/2007 MIL vs. DAL W 39 16 6 12 50.0 0 0 - 4 7 57.1 3 11 14 2 1 2 0 3 -10
+p699
+aVMo Williams MIL 11/24/2007 MIL vs. DAL W 41 19 8 14 57.1 1 2 50.0 2 2 100.0 0 1 1 10 1 0 4 1 4
+p700
+aVMichael Redd MIL 11/24/2007 MIL vs. DAL W 33 27 7 11 63.6 1 1 100.0 12 15 80.0 0 4 4 3 0 0 2 1 -4
+p701
+aVBobby Simmons MIL 11/24/2007 MIL vs. DAL W 28 8 3 4 75.0 0 1 0.0 2 2 100.0 0 7 7 0 1 0 0 1 8
+p702
+aVDesmond Mason MIL 11/24/2007 MIL vs. DAL W 17 7 3 4 75.0 0 0 - 1 1 100.0 0 2 2 3 0 1 1 0 -2
+p703
+aVYi Jianlian MIL 11/24/2007 MIL vs. DAL W 32 9 2 9 22.2 0 0 - 5 6 83.3 3 4 7 2 0 1 1 3 -7
+p704
+aVCharlie Villanueva MIL 11/24/2007 MIL vs. DAL W 18 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 1 3 2 10
+p705
+aVDan Gadzuric MIL 11/24/2007 MIL vs. DAL W 8 6 3 4 75.0 0 0 - 0 4 0.0 3 1 4 0 0 1 0 2 11
+p706
+aVRoyal Ivey MIL 11/24/2007 MIL vs. DAL W 10 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 1 2 -6
+p707
+aVCharlie Bell MIL 11/24/2007 MIL vs. DAL W 15 2 1 5 20.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 6
+p708
+aVDesmond Mason MIL 11/21/2007 MIL vs. LAL W 20 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -7
+p709
+aVAndrew Bogut MIL 11/21/2007 MIL vs. LAL W 25 13 6 11 54.5 0 0 - 1 2 50.0 0 4 4 5 1 2 0 6 12
+p710
+aVCharlie Villanueva MIL 11/21/2007 MIL vs. LAL W 28 14 5 11 45.5 2 5 40.0 2 2 100.0 1 8 9 0 0 0 2 4 5
+p711
+aVBobby Simmons MIL 11/21/2007 MIL vs. LAL W 23 11 3 5 60.0 1 2 50.0 4 4 100.0 0 1 1 1 1 1 0 1 7
+p712
+aVCharlie Bell MIL 11/21/2007 MIL vs. LAL W 9 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 5
+p713
+aVDan Gadzuric MIL 11/21/2007 MIL vs. LAL W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -6
+p714
+aVMichael Redd MIL 11/21/2007 MIL vs. LAL W 42 26 8 18 44.4 1 2 50.0 9 11 81.8 2 6 8 7 0 0 2 4 13
+p715
+aVJake Voskuhl MIL 11/21/2007 MIL vs. LAL W 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -3
+p716
+aVRoyal Ivey MIL 11/21/2007 MIL vs. LAL W 12 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 4 0 0 1 3 8
+p717
+aVYi Jianlian MIL 11/21/2007 MIL vs. LAL W 22 12 4 6 66.7 0 0 - 4 4 100.0 1 5 6 0 0 0 1 3 3
+p718
+aVMo Williams MIL 11/21/2007 MIL vs. LAL W 42 18 7 17 41.2 2 5 40.0 2 2 100.0 0 3 3 9 0 0 4 2 -2
+p719
+aVYi Jianlian MIL 11/20/2007 MIL @ CLE W 16 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 0 0 0 2 1 -3
+p720
+aVCharlie Villanueva MIL 11/20/2007 MIL @ CLE W 27 17 6 11 54.5 1 1 100.0 4 4 100.0 2 7 9 0 0 0 1 3 6
+p721
+aVRoyal Ivey MIL 11/20/2007 MIL @ CLE W 15 15 6 7 85.7 0 1 0.0 3 4 75.0 1 2 3 2 2 0 0 1 10
+p722
+aVCharlie Bell MIL 11/20/2007 MIL @ CLE W 9 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 5
+p723
+aVMichael Redd MIL 11/20/2007 MIL @ CLE W 39 34 8 15 53.3 3 5 60.0 15 20 75.0 1 6 7 6 3 2 1 1 5
+p724
+aVDesmond Mason MIL 11/20/2007 MIL @ CLE W 24 6 3 8 37.5 0 0 - 0 1 0.0 2 1 3 0 0 0 1 0 -3
+p725
+aVMo Williams MIL 11/20/2007 MIL @ CLE W 41 20 7 15 46.7 1 4 25.0 5 8 62.5 1 5 6 9 0 0 0 4 -3
+p726
+aVDan Gadzuric MIL 11/20/2007 MIL @ CLE W 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 1 0 2 3
+p727
+aVBobby Simmons MIL 11/20/2007 MIL @ CLE W 22 2 1 6 16.7 0 3 0.0 0 0 - 3 0 3 1 2 0 1 3 1
+p728
+aVAndrew Bogut MIL 11/20/2007 MIL @ CLE W 37 12 5 9 55.6 0 0 - 2 2 100.0 3 2 5 2 0 4 3 5 -1
+p729
+aVRoyal Ivey MIL 11/17/2007 MIL vs. ATL W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 2 0 1 0 11
+p730
+aVMichael Redd MIL 11/17/2007 MIL vs. ATL W 31 21 10 16 62.5 1 2 50.0 0 0 - 1 2 3 0 0 0 2 2 2
+p731
+aVDan Gadzuric MIL 11/17/2007 MIL vs. ATL W 13 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 0 1 1 1 1 6
+p732
+aVCharlie Villanueva MIL 11/17/2007 MIL vs. ATL W 28 17 8 14 57.1 1 2 50.0 0 0 - 3 4 7 3 1 1 1 4 18
+p733
+aVDesmond Mason MIL 11/17/2007 MIL vs. ATL W 27 10 5 9 55.6 0 0 - 0 0 - 2 2 4 2 0 0 1 2 -2
+p734
+aVCharlie Bell MIL 11/17/2007 MIL vs. ATL W 19 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 8 1 0 1 4 4
+p735
+aVMo Williams MIL 11/17/2007 MIL vs. ATL W 32 11 4 9 44.4 1 2 50.0 2 2 100.0 0 8 8 10 2 0 5 1 1
+p736
+aVBobby Simmons MIL 11/17/2007 MIL vs. ATL W 24 10 4 10 40.0 2 6 33.3 0 0 - 0 2 2 1 0 0 0 2 7
+p737
+aVYi Jianlian MIL 11/17/2007 MIL vs. ATL W 17 5 0 4 0.0 0 0 - 5 6 83.3 0 4 4 0 0 1 0 2 -5
+p738
+aVAndrew Bogut MIL 11/17/2007 MIL vs. ATL W 35 21 10 15 66.7 0 0 - 1 4 25.0 5 5 10 1 3 4 2 5 3
+p739
+aVDan Gadzuric MIL 11/14/2007 MIL vs. MEM W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p740
+aVYi Jianlian MIL 11/14/2007 MIL vs. MEM W 34 6 3 12 25.0 0 0 - 0 0 - 7 6 13 2 1 1 0 1 18
+p741
+aVAndrew Bogut MIL 11/14/2007 MIL vs. MEM W 41 23 9 14 64.3 0 0 - 5 9 55.6 4 8 12 0 0 4 2 3 5
+p742
+aVCharlie Villanueva MIL 11/14/2007 MIL vs. MEM W 14 13 5 9 55.6 2 4 50.0 1 1 100.0 0 1 1 0 0 0 0 2 -15
+p743
+aVDesmond Mason MIL 11/14/2007 MIL vs. MEM W 31 15 7 12 58.3 0 0 - 1 2 50.0 1 4 5 3 3 0 0 4 14
+p744
+aVCharlie Bell MIL 11/14/2007 MIL vs. MEM W 18 0 0 1 0.0 0 0 - 0 0 - 0 2 2 4 1 0 2 1 -12
+p745
+aVMo Williams MIL 11/14/2007 MIL vs. MEM W 39 10 4 11 36.4 0 1 0.0 2 2 100.0 0 1 1 12 3 0 5 2 4
+p746
+aVBobby Simmons MIL 11/14/2007 MIL vs. MEM W 14 4 1 4 25.0 1 2 50.0 1 2 50.0 1 3 4 1 0 0 0 0 -9
+p747
+aVMichael Redd MIL 11/14/2007 MIL vs. MEM W 42 31 11 23 47.8 5 7 71.4 4 4 100.0 4 2 6 5 0 1 5 3 12
+p748
+aVDesmond Mason MIL 11/11/2007 MIL @ SAS L 25 4 2 8 25.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 0 -26
+p749
+aVBobby Simmons MIL 11/11/2007 MIL @ SAS L 28 8 3 7 42.9 2 4 50.0 0 0 - 1 1 2 0 2 0 0 4 -11
+p750
+aVAndrew Bogut MIL 11/11/2007 MIL @ SAS L 21 10 5 9 55.6 0 0 - 0 0 - 1 2 3 2 0 1 1 5 -12
+p751
+aVCharlie Bell MIL 11/11/2007 MIL @ SAS L 21 7 2 5 40.0 0 2 0.0 3 3 100.0 1 2 3 3 0 0 2 0 6
+p752
+aVMo Williams MIL 11/11/2007 MIL @ SAS L 32 17 8 14 57.1 0 1 0.0 1 3 33.3 2 2 4 6 0 0 2 2 -17
+p753
+aVMichael Ruffin MIL 11/11/2007 MIL @ SAS L 12 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -13
+p754
+aVRoyal Ivey MIL 11/11/2007 MIL @ SAS L 17 2 0 6 0.0 0 0 - 2 2 100.0 2 1 3 3 1 1 1 2 -5
+p755
+aVYi Jianlian MIL 11/11/2007 MIL @ SAS L 28 13 6 13 46.2 0 1 0.0 1 2 50.0 2 5 7 0 1 3 2 5 -19
+p756
+aVCharlie Villanueva MIL 11/11/2007 MIL @ SAS L 18 8 4 11 36.4 0 2 0.0 0 0 - 2 2 4 1 0 0 2 1 -11
+p757
+aVMichael Redd MIL 11/11/2007 MIL @ SAS L 28 14 2 5 40.0 0 2 0.0 10 11 90.9 1 3 4 2 2 0 3 1 -19
+p758
+aVJake Voskuhl MIL 11/11/2007 MIL @ SAS L 10 5 2 4 50.0 0 0 - 1 2 50.0 2 5 7 0 0 1 0 2 2
+p759
+aVMo Williams MIL 11/09/2007 MIL @ HOU L 45 10 5 13 38.5 0 1 0.0 0 0 - 0 9 9 9 0 0 3 1 -14
+p760
+aVCharlie Villanueva MIL 11/09/2007 MIL @ HOU L 14 9 3 8 37.5 1 3 33.3 2 3 66.7 0 2 2 0 0 0 0 4 -10
+p761
+aVCharlie Bell MIL 11/09/2007 MIL @ HOU L 26 3 1 8 12.5 1 4 25.0 0 0 - 0 3 3 1 1 0 0 2 -20
+p762
+aVMichael Ruffin MIL 11/09/2007 MIL @ HOU L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 1 1 2 -6
+p763
+aVDan Gadzuric MIL 11/09/2007 MIL @ HOU L 10 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -4
+p764
+aVBobby Simmons MIL 11/09/2007 MIL @ HOU L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -10
+p765
+aVAndrew Bogut MIL 11/09/2007 MIL @ HOU L 29 10 3 11 27.3 0 1 0.0 4 6 66.7 3 2 5 0 1 0 1 4 -6
+p766
+aVYi Jianlian MIL 11/09/2007 MIL @ HOU L 34 19 7 12 58.3 2 2 100.0 3 4 75.0 2 7 9 0 2 1 2 0 -8
+p767
+aVDesmond Mason MIL 11/09/2007 MIL @ HOU L 22 11 5 7 71.4 0 0 - 1 1 100.0 0 1 1 1 0 0 2 0 5
+p768
+aVMichael Redd MIL 11/09/2007 MIL @ HOU L 43 26 8 22 36.4 0 7 0.0 10 10 100.0 2 5 7 4 1 1 0 4 -7
+p769
+aVJake Voskuhl MIL 11/06/2007 MIL vs. TOR W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -9
+p770
+aVDesmond Mason MIL 11/06/2007 MIL vs. TOR W 32 21 10 10 100.0 0 0 - 1 2 50.0 0 3 3 4 2 0 0 1 20
+p771
+aVMichael Redd MIL 11/06/2007 MIL vs. TOR W 33 17 7 14 50.0 3 6 50.0 0 0 - 1 6 7 6 0 0 2 2 26
+p772
+aVYi Jianlian MIL 11/06/2007 MIL vs. TOR W 30 12 5 10 50.0 0 0 - 2 2 100.0 2 2 4 3 0 3 1 3 26
+p773
+aVMichael Ruffin MIL 11/06/2007 MIL vs. TOR W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -6
+p774
+aVCharlie Bell MIL 11/06/2007 MIL vs. TOR W 13 7 1 4 25.0 1 1 100.0 4 4 100.0 0 2 2 2 0 0 1 1 11
+p775
+aVDan Gadzuric MIL 11/06/2007 MIL vs. TOR W 10 8 3 4 75.0 0 0 - 2 3 66.7 0 3 3 0 0 1 3 3 9
+p776
+aVCharlie Villanueva MIL 11/06/2007 MIL vs. TOR W 18 5 2 7 28.6 1 3 33.3 0 0 - 2 4 6 0 0 1 0 2 1
+p777
+aVRoyal Ivey MIL 11/06/2007 MIL vs. TOR W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 4 0 0 1 2 0
+p778
+aVMo Williams MIL 11/06/2007 MIL vs. TOR W 29 13 6 7 85.7 1 2 50.0 0 0 - 0 2 2 6 0 0 2 1 22
+p779
+aVBobby Simmons MIL 11/06/2007 MIL vs. TOR W 22 11 5 6 83.3 1 2 50.0 0 0 - 0 3 3 3 0 0 1 0 8
+p780
+aVAndrew Bogut MIL 11/06/2007 MIL vs. TOR W 33 12 5 9 55.6 0 0 - 2 5 40.0 1 10 11 3 1 1 4 1 27
+p781
+aVCharlie Villanueva MIL 11/03/2007 MIL vs. CHI W 15 2 0 2 0.0 0 2 0.0 2 4 50.0 0 4 4 1 0 0 1 2 -12
+p782
+aVDesmond Mason MIL 11/03/2007 MIL vs. CHI W 29 5 1 4 25.0 0 0 - 3 4 75.0 0 3 3 1 0 1 0 0 24
+p783
+aVAndrew Bogut MIL 11/03/2007 MIL vs. CHI W 18 6 3 8 37.5 0 0 - 0 0 - 1 2 3 0 0 0 2 5 -7
+p784
+aVCharlie Bell MIL 11/03/2007 MIL vs. CHI W 29 11 2 5 40.0 1 2 50.0 6 8 75.0 2 3 5 4 0 0 3 1 -4
+p785
+aVMichael Redd MIL 11/03/2007 MIL vs. CHI W 42 27 8 24 33.3 3 7 42.9 8 8 100.0 3 6 9 5 3 0 1 1 15
+p786
+aVDan Gadzuric MIL 11/03/2007 MIL vs. CHI W 22 0 0 3 0.0 0 0 - 0 0 - 3 3 6 0 1 1 2 4 3
+p787
+aVMichael Ruffin MIL 11/03/2007 MIL vs. CHI W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 10
+p788
+aVRoyal Ivey MIL 11/03/2007 MIL vs. CHI W 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p789
+aVBobby Simmons MIL 11/03/2007 MIL vs. CHI W 19 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 0 0 0 1 1 -16
+p790
+aVMo Williams MIL 11/03/2007 MIL vs. CHI W 21 7 3 7 42.9 1 1 100.0 0 0 - 0 5 5 4 2 0 2 3 3
+p791
+aVYi Jianlian MIL 11/03/2007 MIL vs. CHI W 33 16 6 15 40.0 0 1 0.0 4 4 100.0 4 4 8 1 2 2 3 3 18
+p792
+aVYi Jianlian MIL 11/02/2007 MIL @ CHA L 15 2 1 6 16.7 0 0 - 0 0 - 1 3 4 0 0 1 1 4 -7
+p793
+aVDesmond Mason MIL 11/02/2007 MIL @ CHA L 34 12 6 11 54.5 0 0 - 0 0 - 3 3 6 2 1 1 1 5 3
+p794
+aVJake Voskuhl MIL 11/02/2007 MIL @ CHA L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p795
+aVBobby Simmons MIL 11/02/2007 MIL @ CHA L 14 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 0 0 0 1 2 -6
+p796
+aVMo Williams MIL 11/02/2007 MIL @ CHA L 31 20 10 18 55.6 0 2 0.0 0 0 - 0 0 0 4 1 0 6 6 -8
+p797
+aVRoyal Ivey MIL 11/02/2007 MIL @ CHA L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -5
+p798
+aVDan Gadzuric MIL 11/02/2007 MIL @ CHA L 11 4 2 2 100.0 0 0 - 0 0 - 2 2 4 1 1 1 1 0 -4
+p799
+aVMichael Redd MIL 11/02/2007 MIL @ CHA L 38 21 8 16 50.0 0 1 0.0 5 5 100.0 0 3 3 4 3 0 6 0 2
+p800
+aVAndrew Bogut MIL 11/02/2007 MIL @ CHA L 34 11 5 11 45.5 0 0 - 1 4 25.0 6 11 17 2 0 5 1 6 3
+p801
+aVMichael Ruffin MIL 11/02/2007 MIL @ CHA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p802
+aVCharlie Bell MIL 11/02/2007 MIL @ CHA L 27 8 2 5 40.0 2 3 66.7 2 2 100.0 0 1 1 5 0 0 0 5 7
+p803
+aVCharlie Villanueva MIL 11/02/2007 MIL @ CHA L 24 14 5 10 50.0 2 3 66.7 2 3 66.7 2 5 7 1 0 0 1 2 0
+p804
+aVBobby Simmons MIL 10/31/2007 MIL @ ORL L 25 18 7 11 63.6 2 5 40.0 2 4 50.0 2 1 3 2 0 0 0 2 -9
+p805
+aVCharlie Villanueva MIL 10/31/2007 MIL @ ORL L 19 2 1 8 12.5 0 2 0.0 0 0 - 1 5 6 1 0 0 3 2 -11
+p806
+aVDan Gadzuric MIL 10/31/2007 MIL @ ORL L 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 4 -5
+p807
+aVMichael Ruffin MIL 10/31/2007 MIL @ ORL L 8 1 0 0 - 0 0 - 1 2 50.0 2 0 2 0 1 0 0 1 0
+p808
+aVYi Jianlian MIL 10/31/2007 MIL @ ORL L 25 9 4 5 80.0 0 0 - 1 4 25.0 2 1 3 0 1 2 3 6 -10
+p809
+aVMo Williams MIL 10/31/2007 MIL @ ORL L 34 9 4 15 26.7 1 2 50.0 0 0 - 2 1 3 1 0 0 0 3 -21
+p810
+aVAndrew Bogut MIL 10/31/2007 MIL @ ORL L 30 4 2 9 22.2 0 0 - 0 0 - 4 7 11 4 1 0 2 3 -14
+p811
+aVMichael Redd MIL 10/31/2007 MIL @ ORL L 36 25 8 19 42.1 0 5 0.0 9 10 90.0 1 4 5 2 0 0 4 1 -30
+p812
+aVRoyal Ivey MIL 10/31/2007 MIL @ ORL L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p813
+aVCharlie Bell MIL 10/31/2007 MIL @ ORL L 20 7 3 7 42.9 1 3 33.3 0 0 - 0 5 5 4 0 0 1 1 4
+p814
+aVDesmond Mason MIL 10/31/2007 MIL @ ORL L 29 6 3 11 27.3 0 0 - 0 2 0.0 3 3 6 2 1 1 1 4 -1
+p815
+a.

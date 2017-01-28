@@ -1,0 +1,142 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDarrell Armstrong NOH 05/04/2004 NOH @ MIA L 25 8 3 7 42.9 2 6 33.3 0 0 - 1 3 4 2 0 0 5 1 -12
+p2
+aVJamaal Magloire NOH 05/04/2004 NOH @ MIA L 31 6 3 8 37.5 0 0 - 0 0 - 2 8 10 0 0 0 2 1 -5
+p3
+aVRobert Traylor NOH 05/04/2004 NOH @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p4
+aVBaron Davis NOH 05/04/2004 NOH @ MIA L 20 5 2 7 28.6 1 2 50.0 0 0 - 0 3 3 4 0 0 3 2 -9
+p5
+aVP.J. Brown NOH 05/04/2004 NOH @ MIA L 39 10 4 8 50.0 0 0 - 2 2 100.0 2 7 9 1 0 2 4 1 -6
+p6
+aVSteven Smith NOH 05/04/2004 NOH @ MIA L 27 25 9 14 64.3 5 7 71.4 2 3 66.7 0 1 1 1 0 0 2 2 8
+p7
+aVDavid West NOH 05/04/2004 NOH @ MIA L 15 5 1 4 25.0 0 0 - 3 3 100.0 0 3 3 3 0 1 0 1 -3
+p8
+aVStacey Augmon NOH 05/04/2004 NOH @ MIA L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p9
+aVGeorge Lynch NOH 05/04/2004 NOH @ MIA L 20 9 4 7 57.1 0 2 0.0 1 2 50.0 1 3 4 0 0 0 0 3 -5
+p10
+aVDavid Wesley NOH 05/04/2004 NOH @ MIA L 39 2 1 10 10.0 0 2 0.0 0 0 - 0 6 6 3 1 0 2 4 -1
+p11
+aVShammond Williams NOH 05/04/2004 NOH @ MIA L 8 7 2 4 50.0 0 1 0.0 3 4 75.0 0 0 0 4 1 0 2 3 8
+p12
+aVSteven Smith NOH 05/02/2004 NOH vs. MIA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p13
+aVGeorge Lynch NOH 05/02/2004 NOH vs. MIA W 26 16 7 14 50.0 2 3 66.7 0 0 - 1 4 5 0 0 1 1 1 6
+p14
+aVBaron Davis NOH 05/02/2004 NOH vs. MIA W 43 15 6 19 31.6 1 5 20.0 2 2 100.0 1 4 5 12 2 1 2 2 10
+p15
+aVDavid West NOH 05/02/2004 NOH vs. MIA W 8 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 1 1 0 4 3
+p16
+aVStacey Augmon NOH 05/02/2004 NOH vs. MIA W 24 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 3 1 -4
+p17
+aVDarrell Armstrong NOH 05/02/2004 NOH vs. MIA W 21 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 5 1 0 2 0 9
+p18
+aVP.J. Brown NOH 05/02/2004 NOH vs. MIA W 40 16 7 12 58.3 0 0 - 2 3 66.7 2 7 9 3 1 1 1 2 3
+p19
+aVJamaal Magloire NOH 05/02/2004 NOH vs. MIA W 30 14 6 12 50.0 0 1 0.0 2 2 100.0 4 5 9 1 0 1 2 3 7
+p20
+aVRobert Traylor NOH 05/02/2004 NOH vs. MIA W 16 4 1 3 33.3 0 0 - 2 3 66.7 1 6 7 1 1 1 1 4 3
+p21
+aVDavid Wesley NOH 05/02/2004 NOH vs. MIA W 29 10 3 9 33.3 1 4 25.0 3 5 60.0 0 3 3 1 1 0 2 5 -1
+p22
+aVJamaal Magloire NOH 04/30/2004 NOH @ MIA L 39 10 3 8 37.5 0 0 - 4 6 66.7 2 8 10 2 1 0 0 5 2
+p23
+aVStacey Augmon NOH 04/30/2004 NOH @ MIA L 20 4 2 7 28.6 0 0 - 0 0 - 1 2 3 0 0 0 3 1 -14
+p24
+aVDavid Wesley NOH 04/30/2004 NOH @ MIA L 35 10 4 13 30.8 2 7 28.6 0 1 0.0 1 1 2 2 0 0 4 2 7
+p25
+aVDarrell Armstrong NOH 04/30/2004 NOH @ MIA L 20 3 1 7 14.3 1 6 16.7 0 0 - 2 1 3 3 0 0 2 3 -14
+p26
+aVP.J. Brown NOH 04/30/2004 NOH @ MIA L 43 12 4 11 36.4 0 0 - 4 4 100.0 6 7 13 2 1 3 1 1 -3
+p27
+aVSteven Smith NOH 04/30/2004 NOH @ MIA L 1 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 2
+p28
+aVDavid West NOH 04/30/2004 NOH @ MIA L 14 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 1 0 0 1 -7
+p29
+aVGeorge Lynch NOH 04/30/2004 NOH @ MIA L 25 5 1 9 11.1 0 1 0.0 3 4 75.0 4 5 9 2 1 0 4 2 8
+p30
+aVBaron Davis NOH 04/30/2004 NOH @ MIA L 43 33 11 18 61.1 3 8 37.5 8 10 80.0 2 2 4 7 1 0 4 4 -1
+p31
+aVP.J. Brown NOH 04/27/2004 NOH vs. MIA W 33 4 2 9 22.2 0 0 - 0 0 - 5 2 7 0 1 2 2 4 4
+p32
+aVDarrell Armstrong NOH 04/27/2004 NOH vs. MIA W 24 7 2 3 66.7 1 2 50.0 2 2 100.0 0 3 3 2 1 0 1 1 8
+p33
+aVDavid West NOH 04/27/2004 NOH vs. MIA W 27 10 4 6 66.7 0 0 - 2 2 100.0 1 6 7 3 0 0 1 1 21
+p34
+aVGeorge Lynch NOH 04/27/2004 NOH vs. MIA W 19 11 5 6 83.3 1 2 50.0 0 0 - 0 5 5 3 0 0 1 4 8
+p35
+aVDavid Wesley NOH 04/27/2004 NOH vs. MIA W 29 12 3 7 42.9 0 1 0.0 6 6 100.0 0 1 1 6 0 0 2 2 2
+p36
+aVJamaal Magloire NOH 04/27/2004 NOH vs. MIA W 33 12 4 8 50.0 0 0 - 4 4 100.0 1 4 5 1 1 0 2 2 -7
+p37
+aVBaron Davis NOH 04/27/2004 NOH vs. MIA W 43 23 9 21 42.9 5 12 41.7 0 2 0.0 0 3 3 10 0 2 0 2 12
+p38
+aVStacey Augmon NOH 04/27/2004 NOH vs. MIA W 32 17 6 10 60.0 0 0 - 5 6 83.3 1 5 6 2 1 0 3 2 7
+p39
+aVJamaal Magloire NOH 04/24/2004 NOH vs. MIA W 34 12 3 6 50.0 0 0 - 6 6 100.0 2 7 9 0 1 3 1 2 12
+p40
+aVDarrell Armstrong NOH 04/24/2004 NOH vs. MIA W 24 0 0 6 0.0 0 4 0.0 0 0 - 0 0 0 3 1 0 0 2 -8
+p41
+aVDavid Wesley NOH 04/24/2004 NOH vs. MIA W 37 18 6 13 46.2 3 4 75.0 3 5 60.0 0 2 2 2 0 0 2 2 10
+p42
+aVBaron Davis NOH 04/24/2004 NOH vs. MIA W 37 21 8 20 40.0 2 8 25.0 3 3 100.0 0 4 4 5 4 1 3 3 8
+p43
+aVP.J. Brown NOH 04/24/2004 NOH vs. MIA W 39 6 3 10 30.0 0 0 - 0 0 - 3 8 11 4 0 0 0 2 4
+p44
+aVGeorge Lynch NOH 04/24/2004 NOH vs. MIA W 29 9 4 12 33.3 0 1 0.0 1 2 50.0 4 7 11 4 0 2 1 3 3
+p45
+aVStacey Augmon NOH 04/24/2004 NOH vs. MIA W 25 7 2 8 25.0 0 0 - 3 4 75.0 0 2 2 1 2 0 1 2 5
+p46
+aVDavid West NOH 04/24/2004 NOH vs. MIA W 15 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 2 -4
+p47
+aVDarrell Armstrong NOH 04/21/2004 NOH @ MIA L 20 4 1 8 12.5 1 5 20.0 1 1 100.0 3 1 4 0 3 0 1 3 -7
+p48
+aVJamaal Magloire NOH 04/21/2004 NOH @ MIA L 35 9 4 11 36.4 0 0 - 1 3 33.3 1 9 10 0 0 2 0 6 -28
+p49
+aVSteven Smith NOH 04/21/2004 NOH @ MIA L 14 4 2 9 22.2 0 1 0.0 0 0 - 2 4 6 0 0 0 1 2 -18
+p50
+aVDavid West NOH 04/21/2004 NOH @ MIA L 13 5 1 3 33.3 0 0 - 3 4 75.0 2 2 4 0 0 2 3 0 5
+p51
+aVShammond Williams NOH 04/21/2004 NOH @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p52
+aVP.J. Brown NOH 04/21/2004 NOH @ MIA L 32 4 2 12 16.7 0 0 - 0 0 - 5 3 8 2 0 2 3 2 -23
+p53
+aVGeorge Lynch NOH 04/21/2004 NOH @ MIA L 11 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 1 0 0 0 -10
+p54
+aVMaurice Carter NOH 04/21/2004 NOH @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p55
+aVStacey Augmon NOH 04/21/2004 NOH @ MIA L 26 8 1 8 12.5 0 0 - 6 6 100.0 1 1 2 0 1 0 1 4 -6
+p56
+aVBaron Davis NOH 04/21/2004 NOH @ MIA L 38 13 3 14 21.4 0 6 0.0 7 9 77.8 3 3 6 7 3 1 1 3 -19
+p57
+aVDavid Wesley NOH 04/21/2004 NOH @ MIA L 36 8 2 9 22.2 2 6 33.3 2 2 100.0 0 1 1 2 1 0 3 3 -32
+p58
+aVRobert Traylor NOH 04/21/2004 NOH @ MIA L 9 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 2 0 1 0 -6
+p59
+aVDavid West NOH 04/18/2004 NOH @ MIA L 20 8 4 5 80.0 0 0 - 0 0 - 0 6 6 2 0 0 2 1 -3
+p60
+aVDavid Wesley NOH 04/18/2004 NOH @ MIA L 38 14 5 13 38.5 3 6 50.0 1 2 50.0 0 1 1 1 2 0 1 3 -5
+p61
+aVJamaal Magloire NOH 04/18/2004 NOH @ MIA L 37 14 5 14 35.7 0 0 - 4 7 57.1 4 7 11 1 0 1 4 3 5
+p62
+aVBaron Davis NOH 04/18/2004 NOH @ MIA L 36 17 4 15 26.7 4 8 50.0 5 7 71.4 0 4 4 4 1 0 6 5 5
+p63
+aVRobert Traylor NOH 04/18/2004 NOH @ MIA L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -7
+p64
+aVDarrell Armstrong NOH 04/18/2004 NOH @ MIA L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 -1
+p65
+aVShammond Williams NOH 04/18/2004 NOH @ MIA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p66
+aVGeorge Lynch NOH 04/18/2004 NOH @ MIA L 18 4 2 6 33.3 0 3 0.0 0 0 - 1 0 1 2 1 0 0 2 -6
+p67
+aVStacey Augmon NOH 04/18/2004 NOH @ MIA L 28 10 4 7 57.1 0 1 0.0 2 2 100.0 0 4 4 4 2 1 2 2 5
+p68
+aVSteven Smith NOH 04/18/2004 NOH @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p69
+aVP.J. Brown NOH 04/18/2004 NOH @ MIA L 29 10 4 9 44.4 0 0 - 2 2 100.0 6 5 11 3 0 1 2 4 1
+p70
+a.

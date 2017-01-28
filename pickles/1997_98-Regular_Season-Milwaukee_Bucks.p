@@ -1,0 +1,1598 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTerrell Brandon MIL 04/18/1998 MIL vs. MIN L 32 20 8 15 53.3 4 6 66.7 0 0 - 0 1 1 4 2 0 5 0 6
+p2
+aVElliot Perry MIL 04/18/1998 MIL vs. MIN L 16 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p3
+aVJerald Honeycutt MIL 04/18/1998 MIL vs. MIN L 22 4 2 7 28.6 0 3 0.0 0 0 - 1 6 7 6 1 0 4 4 8
+p4
+aVErvin Johnson MIL 04/18/1998 MIL vs. MIN L 26 8 3 6 50.0 0 0 - 2 2 100.0 6 8 14 2 0 2 1 4 -6
+p5
+aVRay Allen MIL 04/18/1998 MIL vs. MIN L 45 40 15 27 55.6 6 10 60.0 4 6 66.7 5 5 10 4 3 0 5 0 0
+p6
+aVMichael Curry MIL 04/18/1998 MIL vs. MIN L 37 8 2 5 40.0 0 0 - 4 4 100.0 0 1 1 6 0 1 0 0 1
+p7
+aVRicky Pierce MIL 04/18/1998 MIL vs. MIN L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p8
+aVJamie Feick MIL 04/18/1998 MIL vs. MIN L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 2 0 1 1 -3
+p9
+aVAndrew Lang MIL 04/18/1998 MIL vs. MIN L 11 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 0 0 0 0 2 -11
+p10
+aVArmen Gilliam MIL 04/18/1998 MIL vs. MIN L 35 18 7 12 58.3 0 0 - 4 5 80.0 1 3 4 7 2 0 3 5 1
+p11
+aVAndrew Lang MIL 04/17/1998 MIL @ DET L 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -4
+p12
+aVMichael Curry MIL 04/17/1998 MIL @ DET L 40 25 9 15 60.0 2 3 66.7 5 5 100.0 0 1 1 3 1 0 1 5 -8
+p13
+aVTerrell Brandon MIL 04/17/1998 MIL @ DET L 37 14 7 16 43.8 0 2 0.0 0 0 - 0 5 5 5 2 0 3 3 1
+p14
+aVRay Allen MIL 04/17/1998 MIL @ DET L 45 25 9 18 50.0 1 5 20.0 6 8 75.0 2 4 6 8 1 0 5 2 -7
+p15
+aVErvin Johnson MIL 04/17/1998 MIL @ DET L 34 8 4 8 50.0 0 0 - 0 0 - 6 5 11 0 3 2 3 4 -4
+p16
+aVElliot Perry MIL 04/17/1998 MIL @ DET L 16 4 2 7 28.6 0 0 - 0 0 - 1 1 2 3 2 0 0 1 -5
+p17
+aVArmen Gilliam MIL 04/17/1998 MIL @ DET L 34 22 8 13 61.5 0 0 - 6 8 75.0 1 3 4 2 0 1 1 2 -8
+p18
+aVJerald Honeycutt MIL 04/17/1998 MIL @ DET L 20 4 1 4 25.0 1 3 33.3 1 2 50.0 0 4 4 0 0 0 1 4 5
+p19
+aVTerrell Brandon MIL 04/15/1998 MIL @ BOS W 40 22 8 14 57.1 2 4 50.0 4 4 100.0 1 3 4 8 3 1 2 2 7
+p20
+aVMichael Curry MIL 04/15/1998 MIL @ BOS W 43 20 8 13 61.5 0 0 - 4 4 100.0 0 1 1 2 1 0 3 5 8
+p21
+aVElliot Perry MIL 04/15/1998 MIL @ BOS W 21 11 4 10 40.0 1 2 50.0 2 2 100.0 0 1 1 1 2 0 3 0 5
+p22
+aVErvin Johnson MIL 04/15/1998 MIL @ BOS W 25 8 3 8 37.5 0 0 - 2 10 20.0 5 6 11 0 1 0 1 4 3
+p23
+aVJamie Feick MIL 04/15/1998 MIL @ BOS W 17 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 0 1 0 1 4 5
+p24
+aVJerald Honeycutt MIL 04/15/1998 MIL @ BOS W 24 17 5 8 62.5 1 2 50.0 6 6 100.0 1 8 9 0 0 0 4 4 5
+p25
+aVArmen Gilliam MIL 04/15/1998 MIL @ BOS W 29 16 5 8 62.5 0 0 - 6 6 100.0 1 6 7 1 1 1 2 1 5
+p26
+aVRay Allen MIL 04/15/1998 MIL @ BOS W 41 19 5 12 41.7 0 3 0.0 9 13 69.2 3 3 6 8 1 0 0 1 2
+p27
+aVRay Allen MIL 04/14/1998 MIL vs. CHH L 36 11 2 16 12.5 0 6 0.0 7 9 77.8 3 4 7 3 2 0 1 4 -18
+p28
+aVJerald Honeycutt MIL 04/14/1998 MIL vs. CHH L 27 13 5 14 35.7 1 4 25.0 2 2 100.0 0 2 2 2 0 0 1 5 -15
+p29
+aVMichael Curry MIL 04/14/1998 MIL vs. CHH L 27 4 2 5 40.0 0 0 - 0 0 - 0 0 0 3 3 0 2 2 -13
+p30
+aVArmen Gilliam MIL 04/14/1998 MIL vs. CHH L 29 16 8 10 80.0 0 0 - 0 0 - 2 2 4 3 0 1 3 1 -23
+p31
+aVJamie Feick MIL 04/14/1998 MIL vs. CHH L 17 4 2 5 40.0 0 1 0.0 0 2 0.0 5 4 9 2 1 1 2 3 -13
+p32
+aVElliot Perry MIL 04/14/1998 MIL vs. CHH L 20 8 2 8 25.0 0 1 0.0 4 4 100.0 0 0 0 1 0 0 3 1 -16
+p33
+aVLitterial Green MIL 04/14/1998 MIL vs. CHH L 4 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 3
+p34
+aVTerrell Brandon MIL 04/14/1998 MIL vs. CHH L 33 6 3 12 25.0 0 1 0.0 0 0 - 1 3 4 7 1 0 4 1 -7
+p35
+aVErvin Johnson MIL 04/14/1998 MIL vs. CHH L 33 16 6 11 54.5 0 0 - 4 4 100.0 6 11 17 1 1 0 1 3 -16
+p36
+aVAndrew Lang MIL 04/14/1998 MIL vs. CHH L 14 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 2 8
+p37
+aVArmen Gilliam MIL 04/11/1998 MIL vs. NJN L 43 27 11 17 64.7 0 0 - 5 7 71.4 0 5 5 2 0 0 3 2 -10
+p38
+aVJamie Feick MIL 04/11/1998 MIL vs. NJN L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 3 2
+p39
+aVMichael Curry MIL 04/11/1998 MIL vs. NJN L 35 5 1 5 20.0 0 0 - 3 4 75.0 1 0 1 2 1 1 2 4 -13
+p40
+aVErvin Johnson MIL 04/11/1998 MIL vs. NJN L 39 24 10 11 90.9 0 0 - 4 10 40.0 9 6 15 1 4 2 0 4 -8
+p41
+aVRay Allen MIL 04/11/1998 MIL vs. NJN L 45 20 6 17 35.3 3 7 42.9 5 6 83.3 1 5 6 7 1 0 1 3 -8
+p42
+aVTerrell Brandon MIL 04/11/1998 MIL vs. NJN L 39 23 9 16 56.3 1 2 50.0 4 4 100.0 0 3 3 11 1 0 5 4 -8
+p43
+aVJerald Honeycutt MIL 04/11/1998 MIL vs. NJN L 20 14 5 9 55.6 2 6 33.3 2 3 66.7 0 1 1 2 1 0 3 4 8
+p44
+aVElliot Perry MIL 04/11/1998 MIL vs. NJN L 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 2
+p45
+aVRay Allen MIL 04/08/1998 MIL @ TOR W 40 25 9 18 50.0 2 5 40.0 5 6 83.3 2 4 6 4 1 1 4 0 20
+p46
+aVElliot Perry MIL 04/08/1998 MIL @ TOR W 21 20 8 10 80.0 1 1 100.0 3 4 75.0 0 0 0 0 2 1 2 2 -10
+p47
+aVMichael Curry MIL 04/08/1998 MIL @ TOR W 38 14 6 8 75.0 0 0 - 2 4 50.0 1 1 2 6 2 0 0 4 12
+p48
+aVTerrell Brandon MIL 04/08/1998 MIL @ TOR W 39 15 7 16 43.8 1 2 50.0 0 0 - 0 5 5 15 2 0 2 2 7
+p49
+aVArmen Gilliam MIL 04/08/1998 MIL @ TOR W 35 10 2 6 33.3 0 0 - 6 6 100.0 4 5 9 3 1 1 2 1 6
+p50
+aVJerald Honeycutt MIL 04/08/1998 MIL @ TOR W 20 6 2 8 25.0 0 2 0.0 2 2 100.0 1 4 5 0 1 1 1 2 -4
+p51
+aVErvin Johnson MIL 04/08/1998 MIL @ TOR W 35 15 6 8 75.0 0 0 - 3 6 50.0 2 9 11 2 2 5 4 5 11
+p52
+aVRicky Pierce MIL 04/08/1998 MIL @ TOR W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p53
+aVJamie Feick MIL 04/08/1998 MIL @ TOR W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -2
+p54
+aVTyrone Hill MIL 04/07/1998 MIL vs. TOR W 23 3 1 7 14.3 0 0 - 1 7 14.3 4 2 6 0 0 1 2 2 4
+p55
+aVArmen Gilliam MIL 04/07/1998 MIL vs. TOR W 25 6 3 7 42.9 0 0 - 0 1 0.0 0 4 4 3 1 0 0 1 9
+p56
+aVErvin Johnson MIL 04/07/1998 MIL vs. TOR W 35 24 10 13 76.9 0 0 - 4 7 57.1 5 5 10 2 1 8 0 5 10
+p57
+aVTerrell Brandon MIL 04/07/1998 MIL vs. TOR W 31 12 4 13 30.8 0 4 0.0 4 4 100.0 2 4 6 11 2 0 1 1 15
+p58
+aVElliot Perry MIL 04/07/1998 MIL vs. TOR W 20 11 5 8 62.5 0 0 - 1 2 50.0 0 1 1 1 0 0 2 0 -6
+p59
+aVMichael Curry MIL 04/07/1998 MIL vs. TOR W 24 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 3 1 0 2 1 6
+p60
+aVRay Allen MIL 04/07/1998 MIL vs. TOR W 38 28 9 12 75.0 4 5 80.0 6 6 100.0 3 3 6 5 2 1 3 4 3
+p61
+aVLitterial Green MIL 04/07/1998 MIL vs. TOR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p62
+aVJamie Feick MIL 04/07/1998 MIL vs. TOR W 12 4 1 3 33.3 0 0 - 2 3 66.7 0 1 1 0 1 0 3 1 -2
+p63
+aVJerald Honeycutt MIL 04/07/1998 MIL vs. TOR W 32 20 7 12 58.3 5 8 62.5 1 2 50.0 0 5 5 0 2 0 2 5 9
+p64
+aVRay Allen MIL 04/05/1998 MIL @ IND L 46 22 7 15 46.7 1 3 33.3 7 7 100.0 2 1 3 6 1 0 4 3 -5
+p65
+aVTyrone Hill MIL 04/05/1998 MIL @ IND L 33 10 3 6 50.0 0 0 - 4 7 57.1 1 8 9 0 1 0 2 6 12
+p66
+aVMichael Curry MIL 04/05/1998 MIL @ IND L 43 16 7 11 63.6 0 0 - 2 2 100.0 0 2 2 4 1 0 1 4 9
+p67
+aVTerrell Brandon MIL 04/05/1998 MIL @ IND L 43 15 6 11 54.5 0 1 0.0 3 4 75.0 0 4 4 7 0 1 6 3 1
+p68
+aVLitterial Green MIL 04/05/1998 MIL @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p69
+aVJerald Honeycutt MIL 04/05/1998 MIL @ IND L 17 6 2 6 33.3 2 4 50.0 0 2 0.0 1 2 3 0 0 0 2 4 -5
+p70
+aVArmen Gilliam MIL 04/05/1998 MIL @ IND L 27 12 5 8 62.5 0 0 - 2 3 66.7 0 5 5 2 1 1 5 2 -4
+p71
+aVErvin Johnson MIL 04/05/1998 MIL @ IND L 29 11 3 4 75.0 0 0 - 5 5 100.0 2 6 8 2 1 0 0 5 -7
+p72
+aVErvin Johnson MIL 04/03/1998 MIL @ SAC W 16 2 0 5 0.0 0 0 - 2 2 100.0 5 1 6 0 0 0 0 3 -15
+p73
+aVRay Allen MIL 04/03/1998 MIL @ SAC W 39 10 4 17 23.5 0 4 0.0 2 2 100.0 4 1 5 0 0 0 2 4 -3
+p74
+aVElliot Perry MIL 04/03/1998 MIL @ SAC W 14 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 1 0 1 0 -16
+p75
+aVArmen Gilliam MIL 04/03/1998 MIL @ SAC W 35 19 7 16 43.8 0 0 - 5 6 83.3 3 6 9 1 0 0 3 3 -8
+p76
+aVTyrone Hill MIL 04/03/1998 MIL @ SAC W 25 6 1 1 100.0 0 0 - 4 8 50.0 1 6 7 1 1 2 3 2 17
+p77
+aVMichael Curry MIL 04/03/1998 MIL @ SAC W 29 8 4 7 57.1 0 0 - 0 0 - 0 2 2 4 1 0 2 4 -10
+p78
+aVJerald Honeycutt MIL 04/03/1998 MIL @ SAC W 29 20 7 16 43.8 1 4 25.0 5 7 71.4 3 4 7 0 1 0 2 2 14
+p79
+aVJamie Feick MIL 04/03/1998 MIL @ SAC W 20 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 0 2 9
+p80
+aVTerrell Brandon MIL 04/03/1998 MIL @ SAC W 34 18 6 11 54.5 0 1 0.0 6 8 75.0 1 3 4 7 3 0 2 4 17
+p81
+aVElliot Perry MIL 04/01/1998 MIL @ DEN W 33 18 7 13 53.8 0 0 - 4 5 80.0 0 3 3 7 2 0 2 1 -2
+p82
+aVMichael Curry MIL 04/01/1998 MIL @ DEN W 45 15 5 10 50.0 0 0 - 5 6 83.3 0 3 3 3 0 2 0 2 4
+p83
+aVErvin Johnson MIL 04/01/1998 MIL @ DEN W 20 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 0 1 1 3 4 7
+p84
+aVRay Allen MIL 04/01/1998 MIL @ DEN W 42 21 7 16 43.8 3 8 37.5 4 4 100.0 0 3 3 7 1 2 3 4 5
+p85
+aVJamie Feick MIL 04/01/1998 MIL @ DEN W 21 6 3 5 60.0 0 1 0.0 0 0 - 2 6 8 2 1 1 0 4 3
+p86
+aVAndrew Lang MIL 04/01/1998 MIL @ DEN W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -5
+p87
+aVTerrell Brandon MIL 04/01/1998 MIL @ DEN W 20 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 3 0 0 4 1 9
+p88
+aVJerald Honeycutt MIL 04/01/1998 MIL @ DEN W 22 20 7 9 77.8 5 6 83.3 1 1 100.0 0 3 3 0 1 0 1 3 4
+p89
+aVArmen Gilliam MIL 04/01/1998 MIL @ DEN W 30 18 5 8 62.5 0 0 - 8 11 72.7 2 7 9 5 0 2 0 3 5
+p90
+aVAndrew Lang MIL 03/31/1998 MIL @ GSW W 10 3 0 1 0.0 0 0 - 3 4 75.0 1 1 2 0 0 1 0 0 -8
+p91
+aVJerald Honeycutt MIL 03/31/1998 MIL @ GSW W 7 0 0 5 0.0 0 0 - 0 0 - 2 2 4 1 0 0 2 2 -8
+p92
+aVMichael Curry MIL 03/31/1998 MIL @ GSW W 42 11 5 13 38.5 0 0 - 1 2 50.0 0 2 2 3 1 0 2 4 16
+p93
+aVJamie Feick MIL 03/31/1998 MIL @ GSW W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p94
+aVArmen Gilliam MIL 03/31/1998 MIL @ GSW W 49 29 7 18 38.9 0 0 - 15 16 93.8 3 7 10 6 0 1 6 3 9
+p95
+aVRay Allen MIL 03/31/1998 MIL @ GSW W 44 25 8 20 40.0 1 2 50.0 8 8 100.0 1 6 7 4 3 0 2 6 3
+p96
+aVElliot Perry MIL 03/31/1998 MIL @ GSW W 51 7 3 13 23.1 1 1 100.0 0 0 - 0 3 3 1 4 0 2 2 6
+p97
+aVRicky Pierce MIL 03/31/1998 MIL @ GSW W 18 2 1 5 20.0 0 0 - 0 0 - 1 3 4 3 0 0 0 0 1
+p98
+aVErvin Johnson MIL 03/31/1998 MIL @ GSW W 39 17 8 12 66.7 0 0 - 1 1 100.0 7 9 16 1 0 4 2 5 13
+p99
+aVMichael Curry MIL 03/29/1998 MIL vs. CHI L 41 18 9 14 64.3 0 0 - 0 0 - 0 2 2 1 0 0 2 4 -15
+p100
+aVElliot Perry MIL 03/29/1998 MIL vs. CHI L 32 6 2 10 20.0 0 2 0.0 2 2 100.0 0 1 1 5 0 0 2 2 -22
+p101
+aVLitterial Green MIL 03/29/1998 MIL vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p102
+aVErvin Johnson MIL 03/29/1998 MIL vs. CHI L 37 10 4 11 36.4 0 0 - 2 3 66.7 7 7 14 1 1 4 0 0 -18
+p103
+aVArmen Gilliam MIL 03/29/1998 MIL vs. CHI L 38 15 6 15 40.0 0 0 - 3 3 100.0 5 4 9 3 2 0 5 2 -7
+p104
+aVJamie Feick MIL 03/29/1998 MIL vs. CHI L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p105
+aVRicky Pierce MIL 03/29/1998 MIL vs. CHI L 13 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -11
+p106
+aVRay Allen MIL 03/29/1998 MIL vs. CHI L 41 27 10 18 55.6 3 6 50.0 4 4 100.0 2 5 7 4 1 0 6 1 -4
+p107
+aVJeff Nordgaard MIL 03/29/1998 MIL vs. CHI L 5 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 0 2
+p108
+aVJerald Honeycutt MIL 03/29/1998 MIL vs. CHI L 23 7 3 10 30.0 0 2 0.0 1 3 33.3 0 4 4 2 1 0 3 4 -8
+p109
+aVJerald Honeycutt MIL 03/27/1998 MIL @ MIA L 32 10 4 11 36.4 2 5 40.0 0 0 - 0 2 2 1 1 1 0 5 -11
+p110
+aVRicky Pierce MIL 03/27/1998 MIL @ MIA L 14 9 3 7 42.9 0 0 - 3 4 75.0 0 1 1 0 0 0 1 2 -10
+p111
+aVArmen Gilliam MIL 03/27/1998 MIL @ MIA L 29 14 5 8 62.5 0 0 - 4 6 66.7 0 5 5 1 0 0 2 4 -15
+p112
+aVErvin Johnson MIL 03/27/1998 MIL @ MIA L 30 8 2 6 33.3 0 0 - 4 6 66.7 3 6 9 0 2 2 0 5 -17
+p113
+aVJeff Nordgaard MIL 03/27/1998 MIL @ MIA L 5 3 0 1 0.0 0 0 - 3 3 100.0 1 1 2 0 0 0 0 0 2
+p114
+aVJamie Feick MIL 03/27/1998 MIL @ MIA L 7 0 0 2 0.0 0 0 - 0 0 - 3 3 6 1 0 0 0 3 -9
+p115
+aVElliot Perry MIL 03/27/1998 MIL @ MIA L 38 9 4 10 40.0 0 1 0.0 1 1 100.0 0 3 3 1 0 0 4 2 -22
+p116
+aVLitterial Green MIL 03/27/1998 MIL @ MIA L 6 4 0 5 0.0 0 1 0.0 4 6 66.7 0 0 0 0 1 0 1 0 -3
+p117
+aVMichael Curry MIL 03/27/1998 MIL @ MIA L 18 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -18
+p118
+aVAndrew Lang MIL 03/27/1998 MIL @ MIA L 30 11 3 12 25.0 0 1 0.0 5 6 83.3 5 8 13 0 2 1 3 4 -9
+p119
+aVRay Allen MIL 03/27/1998 MIL @ MIA L 32 7 3 14 21.4 0 3 0.0 1 2 50.0 1 3 4 6 1 0 2 4 -13
+p120
+aVRay Allen MIL 03/26/1998 MIL @ CHH L 38 18 7 19 36.8 2 6 33.3 2 2 100.0 0 7 7 1 0 0 4 5 -15
+p121
+aVAndrew Lang MIL 03/26/1998 MIL @ CHH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p122
+aVMichael Curry MIL 03/26/1998 MIL @ CHH L 32 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 4 3
+p123
+aVElliot Perry MIL 03/26/1998 MIL @ CHH L 36 18 8 16 50.0 0 1 0.0 2 2 100.0 0 3 3 4 2 0 1 0 -5
+p124
+aVErvin Johnson MIL 03/26/1998 MIL @ CHH L 40 8 3 8 37.5 0 0 - 2 4 50.0 7 10 17 0 1 4 2 5 0
+p125
+aVJamie Feick MIL 03/26/1998 MIL @ CHH L 10 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 1 -14
+p126
+aVJerald Honeycutt MIL 03/26/1998 MIL @ CHH L 29 15 6 16 37.5 1 5 20.0 2 3 66.7 3 2 5 1 1 0 3 2 -21
+p127
+aVLitterial Green MIL 03/26/1998 MIL @ CHH L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -5
+p128
+aVRicky Pierce MIL 03/26/1998 MIL @ CHH L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p129
+aVArmen Gilliam MIL 03/26/1998 MIL @ CHH L 40 13 6 17 35.3 0 0 - 1 3 33.3 4 6 10 2 1 2 2 1 -1
+p130
+aVElliot Perry MIL 03/24/1998 MIL vs. HOU W 45 16 4 14 28.6 0 0 - 8 8 100.0 2 3 5 16 1 0 5 1 13
+p131
+aVAndrew Lang MIL 03/24/1998 MIL vs. HOU W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p132
+aVArmen Gilliam MIL 03/24/1998 MIL vs. HOU W 42 29 11 18 61.1 0 0 - 7 7 100.0 0 6 6 1 0 0 1 3 6
+p133
+aVErvin Johnson MIL 03/24/1998 MIL vs. HOU W 43 10 5 7 71.4 0 0 - 0 2 0.0 3 12 15 1 1 2 0 5 15
+p134
+aVJerald Honeycutt MIL 03/24/1998 MIL vs. HOU W 33 19 8 15 53.3 2 4 50.0 1 2 50.0 2 1 3 3 0 0 2 4 6
+p135
+aVLitterial Green MIL 03/24/1998 MIL vs. HOU W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p136
+aVMichael Curry MIL 03/24/1998 MIL vs. HOU W 17 11 5 6 83.3 0 0 - 1 1 100.0 0 1 1 0 0 2 0 0 5
+p137
+aVRay Allen MIL 03/24/1998 MIL vs. HOU W 48 33 13 23 56.5 2 4 50.0 5 5 100.0 4 4 8 5 3 0 2 4 10
+p138
+aVJamie Feick MIL 03/24/1998 MIL vs. HOU W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 1 0
+p139
+aVAndrew Lang MIL 03/22/1998 MIL vs. IND L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -2
+p140
+aVErvin Johnson MIL 03/22/1998 MIL vs. IND L 42 12 4 8 50.0 0 0 - 4 8 50.0 5 13 18 1 1 4 0 4 -8
+p141
+aVJamie Feick MIL 03/22/1998 MIL vs. IND L 6 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 3
+p142
+aVLitterial Green MIL 03/22/1998 MIL vs. IND L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p143
+aVRay Allen MIL 03/22/1998 MIL vs. IND L 47 25 9 26 34.6 1 5 20.0 6 6 100.0 0 4 4 2 2 0 6 1 0
+p144
+aVElliot Perry MIL 03/22/1998 MIL vs. IND L 36 11 5 9 55.6 0 0 - 1 1 100.0 0 3 3 6 2 0 2 4 -1
+p145
+aVRicky Pierce MIL 03/22/1998 MIL vs. IND L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 3
+p146
+aVArmen Gilliam MIL 03/22/1998 MIL vs. IND L 45 16 5 16 31.3 0 0 - 6 8 75.0 1 6 7 4 0 0 2 5 -8
+p147
+aVMichael Curry MIL 03/22/1998 MIL vs. IND L 47 21 6 10 60.0 1 1 100.0 8 8 100.0 0 3 3 5 4 0 2 5 -2
+p148
+aVJerald Honeycutt MIL 03/22/1998 MIL vs. IND L 20 5 2 6 33.3 1 2 50.0 0 0 - 1 4 5 1 0 0 4 2 0
+p149
+aVElliot Perry MIL 03/19/1998 MIL @ ATL L 41 6 3 15 20.0 0 0 - 0 0 - 1 2 3 3 3 0 0 3 -6
+p150
+aVJerald Honeycutt MIL 03/19/1998 MIL @ ATL L 24 13 5 10 50.0 1 3 33.3 2 3 66.7 2 2 4 1 3 0 2 3 4
+p151
+aVRay Allen MIL 03/19/1998 MIL @ ATL L 46 21 6 21 28.6 2 7 28.6 7 8 87.5 3 7 10 6 1 0 1 2 -7
+p152
+aVAndrew Lang MIL 03/19/1998 MIL @ ATL L 10 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 2 0 3 -4
+p153
+aVJeff Nordgaard MIL 03/19/1998 MIL @ ATL L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 5
+p154
+aVJamie Feick MIL 03/19/1998 MIL @ ATL L 19 4 1 4 25.0 1 1 100.0 1 2 50.0 0 1 1 1 2 0 3 1 -3
+p155
+aVArmen Gilliam MIL 03/19/1998 MIL @ ATL L 36 19 9 17 52.9 0 1 0.0 1 3 33.3 3 4 7 0 1 1 2 1 -5
+p156
+aVMichael Curry MIL 03/19/1998 MIL @ ATL L 28 6 2 8 25.0 0 0 - 2 2 100.0 1 3 4 3 0 0 0 2 -5
+p157
+aVErvin Johnson MIL 03/19/1998 MIL @ ATL L 30 10 4 7 57.1 0 0 - 2 7 28.6 8 9 17 1 0 1 1 5 6
+p158
+aVElliot Perry MIL 03/17/1998 MIL @ HOU L 41 16 6 16 37.5 0 0 - 4 4 100.0 0 1 1 2 3 0 1 1 -9
+p159
+aVJamie Feick MIL 03/17/1998 MIL @ HOU L 26 4 1 4 25.0 1 4 25.0 1 2 50.0 2 1 3 1 2 2 0 2 4
+p160
+aVMichael Curry MIL 03/17/1998 MIL @ HOU L 34 12 6 12 50.0 0 0 - 0 0 - 0 2 2 4 2 0 3 2 -6
+p161
+aVArmen Gilliam MIL 03/17/1998 MIL @ HOU L 35 20 6 15 40.0 0 0 - 8 8 100.0 2 3 5 3 4 0 1 3 -14
+p162
+aVErvin Johnson MIL 03/17/1998 MIL @ HOU L 35 11 4 5 80.0 0 0 - 3 4 75.0 4 10 14 1 0 2 2 2 0
+p163
+aVJerald Honeycutt MIL 03/17/1998 MIL @ HOU L 24 8 3 9 33.3 1 2 50.0 1 2 50.0 2 1 3 0 2 0 3 2 2
+p164
+aVRay Allen MIL 03/17/1998 MIL @ HOU L 45 20 7 17 41.2 1 3 33.3 5 6 83.3 2 5 7 6 0 0 7 1 -2
+p165
+aVJeff Nordgaard MIL 03/16/1998 MIL @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p166
+aVErvin Johnson MIL 03/16/1998 MIL @ SAS L 40 15 7 13 53.8 0 0 - 1 4 25.0 8 4 12 3 2 5 0 5 -12
+p167
+aVRay Allen MIL 03/16/1998 MIL @ SAS L 35 9 3 18 16.7 0 2 0.0 3 4 75.0 4 4 8 3 3 0 1 1 -16
+p168
+aVJerald Honeycutt MIL 03/16/1998 MIL @ SAS L 26 16 5 13 38.5 2 3 66.7 4 5 80.0 0 1 1 3 1 2 2 3 -3
+p169
+aVAndrew Lang MIL 03/16/1998 MIL @ SAS L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 0 0 1
+p170
+aVJamie Feick MIL 03/16/1998 MIL @ SAS L 16 12 5 8 62.5 2 3 66.7 0 0 - 0 2 2 0 0 0 0 3 3
+p171
+aVElliot Perry MIL 03/16/1998 MIL @ SAS L 42 15 6 15 40.0 1 1 100.0 2 2 100.0 1 2 3 7 4 0 3 3 -15
+p172
+aVArmen Gilliam MIL 03/16/1998 MIL @ SAS L 28 8 4 11 36.4 0 0 - 0 0 - 2 2 4 1 3 0 4 2 -13
+p173
+aVMichael Curry MIL 03/16/1998 MIL @ SAS L 40 8 1 4 25.0 0 0 - 6 6 100.0 1 1 2 0 1 0 2 3 -5
+p174
+aVLitterial Green MIL 03/16/1998 MIL @ SAS L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 5
+p175
+aVElliot Perry MIL 03/14/1998 MIL vs. PHI L 42 21 10 14 71.4 1 1 100.0 0 0 - 1 1 2 9 2 0 4 5 7
+p176
+aVRicky Pierce MIL 03/14/1998 MIL vs. PHI L 9 3 1 6 16.7 0 0 - 1 2 50.0 0 0 0 2 0 0 1 0 -5
+p177
+aVMichael Curry MIL 03/14/1998 MIL vs. PHI L 45 18 8 13 61.5 0 1 0.0 2 2 100.0 1 2 3 4 2 0 2 3 -6
+p178
+aVLitterial Green MIL 03/14/1998 MIL vs. PHI L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -8
+p179
+aVJamie Feick MIL 03/14/1998 MIL vs. PHI L 29 3 1 2 50.0 0 0 - 1 4 25.0 1 5 6 0 1 1 1 2 3
+p180
+aVArmen Gilliam MIL 03/14/1998 MIL vs. PHI L 37 16 6 16 37.5 0 0 - 4 4 100.0 1 7 8 2 0 1 3 2 -2
+p181
+aVRay Allen MIL 03/14/1998 MIL vs. PHI L 48 23 10 19 52.6 1 4 25.0 2 2 100.0 2 4 6 7 1 0 4 3 -4
+p182
+aVAndrew Lang MIL 03/14/1998 MIL vs. PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p183
+aVErvin Johnson MIL 03/14/1998 MIL vs. PHI L 16 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 3 1 5 -3
+p184
+aVTyrone Hill MIL 03/14/1998 MIL vs. PHI L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p185
+aVErvin Johnson MIL 03/13/1998 MIL @ IND L 31 1 0 2 0.0 0 0 - 1 4 25.0 0 2 2 0 1 0 0 5 -17
+p186
+aVLitterial Green MIL 03/13/1998 MIL @ IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p187
+aVRicky Pierce MIL 03/13/1998 MIL @ IND L 21 6 1 7 14.3 0 1 0.0 4 4 100.0 1 1 2 1 1 0 2 1 1
+p188
+aVJamie Feick MIL 03/13/1998 MIL @ IND L 2 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p189
+aVJeff Nordgaard MIL 03/13/1998 MIL @ IND L 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p190
+aVAndrew Lang MIL 03/13/1998 MIL @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p191
+aVElliot Perry MIL 03/13/1998 MIL @ IND L 43 25 11 17 64.7 0 0 - 3 3 100.0 1 3 4 4 3 0 3 3 -18
+p192
+aVArmen Gilliam MIL 03/13/1998 MIL @ IND L 18 6 3 6 50.0 0 0 - 0 2 0.0 0 1 1 0 1 0 1 3 0
+p193
+aVRay Allen MIL 03/13/1998 MIL @ IND L 41 20 9 17 52.9 1 1 100.0 1 3 33.3 2 3 5 3 1 0 3 2 -16
+p194
+aVJerald Honeycutt MIL 03/13/1998 MIL @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p195
+aVTyrone Hill MIL 03/13/1998 MIL @ IND L 41 10 4 12 33.3 0 0 - 2 4 50.0 6 7 13 3 1 1 4 4 -17
+p196
+aVMichael Curry MIL 03/13/1998 MIL @ IND L 29 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 3 -25
+p197
+aVAndrew Lang MIL 03/11/1998 MIL @ CLE L 8 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 1 2
+p198
+aVArmen Gilliam MIL 03/11/1998 MIL @ CLE L 24 14 5 13 38.5 0 0 - 4 4 100.0 1 0 1 0 1 1 1 3 -9
+p199
+aVTyrone Hill MIL 03/11/1998 MIL @ CLE L 40 15 5 9 55.6 0 0 - 5 8 62.5 2 11 13 3 0 0 3 3 -8
+p200
+aVMichael Curry MIL 03/11/1998 MIL @ CLE L 38 16 6 10 60.0 0 0 - 4 4 100.0 0 2 2 0 0 0 0 2 -16
+p201
+aVJerald Honeycutt MIL 03/11/1998 MIL @ CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 4
+p202
+aVElliot Perry MIL 03/11/1998 MIL @ CLE L 39 14 6 15 40.0 0 1 0.0 2 3 66.7 1 0 1 7 4 0 1 2 -12
+p203
+aVJamie Feick MIL 03/11/1998 MIL @ CLE L 4 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 1
+p204
+aVRicky Pierce MIL 03/11/1998 MIL @ CLE L 17 3 0 4 0.0 0 1 0.0 3 4 75.0 1 1 2 2 0 0 2 1 -1
+p205
+aVRay Allen MIL 03/11/1998 MIL @ CLE L 39 14 4 15 26.7 1 4 25.0 5 5 100.0 2 2 4 4 1 1 7 2 -12
+p206
+aVErvin Johnson MIL 03/11/1998 MIL @ CLE L 19 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 2 3 4 -10
+p207
+aVLitterial Green MIL 03/11/1998 MIL @ CLE L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 1 1 1
+p208
+aVJerald Honeycutt MIL 03/10/1998 MIL vs. WAS L 25 5 2 6 33.3 0 1 0.0 1 3 33.3 2 2 4 1 0 2 5 4 15
+p209
+aVMichael Curry MIL 03/10/1998 MIL vs. WAS L 21 2 1 5 20.0 0 0 - 0 0 - 1 0 1 2 0 0 1 1 -27
+p210
+aVArmen Gilliam MIL 03/10/1998 MIL vs. WAS L 25 8 4 12 33.3 0 0 - 0 0 - 2 3 5 0 1 1 0 2 -15
+p211
+aVJamie Feick MIL 03/10/1998 MIL vs. WAS L 6 3 1 1 100.0 0 0 - 1 3 33.3 0 5 5 0 0 1 0 1 7
+p212
+aVRicky Pierce MIL 03/10/1998 MIL vs. WAS L 30 12 4 12 33.3 0 0 - 4 4 100.0 3 1 4 1 1 0 2 5 1
+p213
+aVRay Allen MIL 03/10/1998 MIL vs. WAS L 36 15 5 15 33.3 0 4 0.0 5 6 83.3 2 4 6 3 1 0 7 3 -28
+p214
+aVLitterial Green MIL 03/10/1998 MIL vs. WAS L 5 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 5
+p215
+aVTyrone Hill MIL 03/10/1998 MIL vs. WAS L 29 9 2 4 50.0 0 0 - 5 10 50.0 2 8 10 1 0 0 1 2 -14
+p216
+aVErvin Johnson MIL 03/10/1998 MIL vs. WAS L 30 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 0 1 3 4 -15
+p217
+aVElliot Perry MIL 03/10/1998 MIL vs. WAS L 34 12 3 9 33.3 0 0 - 6 6 100.0 0 3 3 5 3 0 1 3 -9
+p218
+aVArmen Gilliam MIL 03/07/1998 MIL vs. UTA L 40 12 4 12 33.3 0 0 - 4 4 100.0 1 4 5 3 3 1 4 2 -13
+p219
+aVElliot Perry MIL 03/07/1998 MIL vs. UTA L 31 14 7 13 53.8 0 1 0.0 0 0 - 1 2 3 5 1 0 3 3 -15
+p220
+aVMichael Curry MIL 03/07/1998 MIL vs. UTA L 48 12 6 13 46.2 0 0 - 0 0 - 3 2 5 1 0 0 1 4 -20
+p221
+aVJerald Honeycutt MIL 03/07/1998 MIL vs. UTA L 2 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 1 0 0 3 -1
+p222
+aVLitterial Green MIL 03/07/1998 MIL vs. UTA L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p223
+aVRay Allen MIL 03/07/1998 MIL vs. UTA L 43 27 7 17 41.2 0 5 0.0 13 14 92.9 3 5 8 11 1 0 7 2 -15
+p224
+aVAndrew Lang MIL 03/07/1998 MIL vs. UTA L 20 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 0 1 0 0 5 -10
+p225
+aVJamie Feick MIL 03/07/1998 MIL vs. UTA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p226
+aVErvin Johnson MIL 03/07/1998 MIL vs. UTA L 31 10 4 6 66.7 0 0 - 2 2 100.0 3 4 7 0 2 1 2 6 -15
+p227
+aVRicky Pierce MIL 03/07/1998 MIL vs. UTA L 20 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -9
+p228
+aVJamie Feick MIL 03/05/1998 MIL vs. DEN W 2 3 1 2 50.0 0 1 0.0 1 2 50.0 1 0 1 0 0 1 0 1 3
+p229
+aVElliot Perry MIL 03/05/1998 MIL vs. DEN W 34 12 5 11 45.5 0 2 0.0 2 2 100.0 0 1 1 4 4 0 3 3 8
+p230
+aVMichael Curry MIL 03/05/1998 MIL vs. DEN W 26 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 4 1 0 1 4 11
+p231
+aVAndrew Lang MIL 03/05/1998 MIL vs. DEN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p232
+aVLitterial Green MIL 03/05/1998 MIL vs. DEN W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 5
+p233
+aVJerald Honeycutt MIL 03/05/1998 MIL vs. DEN W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p234
+aVTyrone Hill MIL 03/05/1998 MIL vs. DEN W 33 14 4 7 57.1 0 0 - 6 8 75.0 7 10 17 3 3 0 2 4 21
+p235
+aVRay Allen MIL 03/05/1998 MIL vs. DEN W 40 26 8 16 50.0 2 6 33.3 8 8 100.0 0 2 2 2 0 0 4 3 11
+p236
+aVArmen Gilliam MIL 03/05/1998 MIL vs. DEN W 30 12 2 5 40.0 0 0 - 8 8 100.0 2 9 11 2 1 1 1 2 7
+p237
+aVErvin Johnson MIL 03/05/1998 MIL vs. DEN W 23 5 1 4 25.0 0 0 - 3 4 75.0 4 5 9 0 0 2 0 4 1
+p238
+aVGlenn Robinson MIL 03/05/1998 MIL vs. DEN W 37 22 10 24 41.7 0 2 0.0 2 3 66.7 2 2 4 2 0 0 3 3 13
+p239
+aVRay Allen MIL 03/04/1998 MIL @ PHI L 45 17 7 18 38.9 0 6 0.0 3 3 100.0 1 5 6 5 2 1 6 4 -7
+p240
+aVTyrone Hill MIL 03/04/1998 MIL @ PHI L 47 9 3 6 50.0 0 0 - 3 9 33.3 3 15 18 1 1 2 2 5 -4
+p241
+aVGlenn Robinson MIL 03/04/1998 MIL @ PHI L 38 21 8 22 36.4 0 2 0.0 5 6 83.3 3 5 8 4 2 0 4 6 -4
+p242
+aVErvin Johnson MIL 03/04/1998 MIL @ PHI L 25 6 3 4 75.0 0 0 - 0 1 0.0 2 3 5 0 1 5 2 2 3
+p243
+aVArmen Gilliam MIL 03/04/1998 MIL @ PHI L 24 14 6 10 60.0 0 0 - 2 2 100.0 2 3 5 0 1 0 4 5 -13
+p244
+aVElliot Perry MIL 03/04/1998 MIL @ PHI L 42 11 5 12 41.7 1 2 50.0 0 0 - 1 0 1 4 0 0 2 3 -9
+p245
+aVMichael Curry MIL 03/04/1998 MIL @ PHI L 20 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 1 1 0 0 2 -1
+p246
+aVMichael Curry MIL 02/26/1998 MIL @ NYK L 31 9 3 6 50.0 0 0 - 3 3 100.0 1 1 2 1 0 1 1 3 1
+p247
+aVErvin Johnson MIL 02/26/1998 MIL @ NYK L 17 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 -11
+p248
+aVGlenn Robinson MIL 02/26/1998 MIL @ NYK L 45 26 12 24 50.0 1 3 33.3 1 1 100.0 1 4 5 3 0 1 4 2 -11
+p249
+aVTyrone Hill MIL 02/26/1998 MIL @ NYK L 40 11 2 3 66.7 0 0 - 7 9 77.8 5 10 15 3 1 0 2 5 -12
+p250
+aVElliot Perry MIL 02/26/1998 MIL @ NYK L 28 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 4 1 0 3 2 -7
+p251
+aVArmen Gilliam MIL 02/26/1998 MIL @ NYK L 8 0 0 4 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -12
+p252
+aVLitterial Green MIL 02/26/1998 MIL @ NYK L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 3
+p253
+aVRay Allen MIL 02/26/1998 MIL @ NYK L 48 26 10 19 52.6 2 7 28.6 4 4 100.0 2 8 10 5 1 0 7 1 -12
+p254
+aVAndrew Lang MIL 02/26/1998 MIL @ NYK L 17 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 2 0 0 3 1
+p255
+aVElliot Perry MIL 02/24/1998 MIL vs. LAL L 21 2 1 5 20.0 0 0 - 0 0 - 1 1 2 3 0 0 0 0 -11
+p256
+aVJamie Feick MIL 02/24/1998 MIL vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p257
+aVGlenn Robinson MIL 02/24/1998 MIL vs. LAL L 36 16 7 19 36.8 0 3 0.0 2 5 40.0 1 2 3 3 1 1 3 4 -18
+p258
+aVRay Allen MIL 02/24/1998 MIL vs. LAL L 46 19 7 21 33.3 4 6 66.7 1 2 50.0 4 3 7 13 1 1 0 1 -19
+p259
+aVLitterial Green MIL 02/24/1998 MIL vs. LAL L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -2
+p260
+aVTyrone Hill MIL 02/24/1998 MIL vs. LAL L 36 10 5 14 35.7 0 0 - 0 0 - 4 16 20 1 0 1 2 3 -15
+p261
+aVJerald Honeycutt MIL 02/24/1998 MIL vs. LAL L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p262
+aVErvin Johnson MIL 02/24/1998 MIL vs. LAL L 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 2 1 5 -5
+p263
+aVRicky Pierce MIL 02/24/1998 MIL vs. LAL L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -2
+p264
+aVArmen Gilliam MIL 02/24/1998 MIL vs. LAL L 19 7 3 8 37.5 0 0 - 1 2 50.0 0 4 4 0 0 0 0 1 -9
+p265
+aVMichael Curry MIL 02/24/1998 MIL vs. LAL L 26 17 7 11 63.6 0 0 - 3 4 75.0 1 0 1 1 1 0 0 2 -4
+p266
+aVAndrew Lang MIL 02/24/1998 MIL vs. LAL L 26 2 1 4 25.0 0 0 - 0 0 - 4 6 10 2 0 1 1 3 -9
+p267
+aVGlenn Robinson MIL 02/22/1998 MIL vs. CLE W 46 29 11 24 45.8 0 1 0.0 7 7 100.0 2 3 5 1 1 0 8 3 9
+p268
+aVMichael Curry MIL 02/22/1998 MIL vs. CLE W 27 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 1 0 1 4 3
+p269
+aVRay Allen MIL 02/22/1998 MIL vs. CLE W 35 20 9 18 50.0 0 3 0.0 2 2 100.0 0 1 1 2 0 0 1 4 0
+p270
+aVErvin Johnson MIL 02/22/1998 MIL vs. CLE W 35 6 3 7 42.9 0 0 - 0 0 - 3 9 12 0 0 4 0 4 -2
+p271
+aVTyrone Hill MIL 02/22/1998 MIL vs. CLE W 42 7 3 6 50.0 0 0 - 1 4 25.0 5 5 10 1 3 1 1 3 12
+p272
+aVArmen Gilliam MIL 02/22/1998 MIL vs. CLE W 20 7 1 1 100.0 0 0 - 5 8 62.5 0 6 6 0 0 1 4 3 9
+p273
+aVElliot Perry MIL 02/22/1998 MIL vs. CLE W 35 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 4 2 0 3 3 9
+p274
+aVElliot Perry MIL 02/20/1998 MIL vs. TOR W 27 10 4 7 57.1 0 0 - 2 2 100.0 0 4 4 3 1 0 5 4 0
+p275
+aVArmen Gilliam MIL 02/20/1998 MIL vs. TOR W 28 24 6 14 42.9 0 0 - 12 14 85.7 7 4 11 2 1 0 2 1 16
+p276
+aVGlenn Robinson MIL 02/20/1998 MIL vs. TOR W 42 22 8 20 40.0 0 0 - 6 7 85.7 2 11 13 5 1 0 5 5 -1
+p277
+aVRay Allen MIL 02/20/1998 MIL vs. TOR W 47 17 5 14 35.7 3 7 42.9 4 4 100.0 0 4 4 7 1 1 7 4 7
+p278
+aVTyrone Hill MIL 02/20/1998 MIL vs. TOR W 41 16 6 10 60.0 0 0 - 4 6 66.7 5 13 18 1 1 1 2 5 5
+p279
+aVAndrew Lang MIL 02/20/1998 MIL vs. TOR W 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p280
+aVMichael Curry MIL 02/20/1998 MIL vs. TOR W 16 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -3
+p281
+aVErvin Johnson MIL 02/20/1998 MIL vs. TOR W 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 1 3 -2
+p282
+aVLitterial Green MIL 02/20/1998 MIL vs. TOR W 19 0 0 3 0.0 0 0 - 0 0 - 0 1 1 3 0 0 2 1 9
+p283
+aVTyrone Hill MIL 02/18/1998 MIL @ WAS W 38 14 5 10 50.0 0 0 - 4 4 100.0 2 5 7 2 4 0 3 5 7
+p284
+aVErvin Johnson MIL 02/18/1998 MIL @ WAS W 35 8 3 3 100.0 0 0 - 2 2 100.0 1 7 8 0 0 2 2 4 14
+p285
+aVElliot Perry MIL 02/18/1998 MIL @ WAS W 36 18 7 11 63.6 0 0 - 4 6 66.7 0 1 1 6 2 0 0 2 9
+p286
+aVMichael Curry MIL 02/18/1998 MIL @ WAS W 25 11 4 9 44.4 0 0 - 3 4 75.0 0 1 1 3 0 0 2 5 -2
+p287
+aVArmen Gilliam MIL 02/18/1998 MIL @ WAS W 13 9 4 7 57.1 0 0 - 1 1 100.0 1 2 3 1 0 0 1 0 0
+p288
+aVRay Allen MIL 02/18/1998 MIL @ WAS W 39 25 10 19 52.6 1 6 16.7 4 5 80.0 4 6 10 7 2 0 1 4 22
+p289
+aVLitterial Green MIL 02/18/1998 MIL @ WAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p290
+aVAndrew Lang MIL 02/18/1998 MIL @ WAS W 8 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 1 0 -4
+p291
+aVGlenn Robinson MIL 02/18/1998 MIL @ WAS W 45 21 9 16 56.3 1 1 100.0 2 2 100.0 1 3 4 4 0 1 3 4 9
+p292
+aVLitterial Green MIL 02/16/1998 MIL @ NJN L 12 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 2 2 0 0 1 -2
+p293
+aVAndrew Lang MIL 02/16/1998 MIL @ NJN L 20 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 0 1 2 4 11
+p294
+aVErvin Johnson MIL 02/16/1998 MIL @ NJN L 29 8 3 3 100.0 0 0 - 2 2 100.0 2 6 8 1 0 4 3 5 -18
+p295
+aVElliot Perry MIL 02/16/1998 MIL @ NJN L 14 6 1 3 33.3 0 0 - 4 4 100.0 0 0 0 2 1 0 2 1 -7
+p296
+aVArmen Gilliam MIL 02/16/1998 MIL @ NJN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p297
+aVGlenn Robinson MIL 02/16/1998 MIL @ NJN L 44 30 13 26 50.0 0 3 0.0 4 4 100.0 4 3 7 1 0 1 7 4 -12
+p298
+aVRay Allen MIL 02/16/1998 MIL @ NJN L 46 24 8 17 47.1 4 7 57.1 4 5 80.0 1 9 10 6 2 0 8 4 -10
+p299
+aVMichael Curry MIL 02/16/1998 MIL @ NJN L 28 6 3 8 37.5 0 0 - 0 0 - 0 1 1 2 1 0 2 5 -2
+p300
+aVTyrone Hill MIL 02/16/1998 MIL @ NJN L 40 14 6 10 60.0 0 0 - 2 5 40.0 6 5 11 3 1 1 3 4 -10
+p301
+aVMichael Curry MIL 02/14/1998 MIL @ CLE W 28 6 3 5 60.0 0 0 - 0 0 - 0 0 0 4 1 0 1 1 1
+p302
+aVGlenn Robinson MIL 02/14/1998 MIL @ CLE W 39 27 10 23 43.5 0 1 0.0 7 7 100.0 0 3 3 4 2 2 4 5 14
+p303
+aVElliot Perry MIL 02/14/1998 MIL @ CLE W 27 8 3 7 42.9 0 0 - 2 3 66.7 0 2 2 4 3 0 1 2 3
+p304
+aVAndrew Lang MIL 02/14/1998 MIL @ CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 7
+p305
+aVArmen Gilliam MIL 02/14/1998 MIL @ CLE W 22 9 2 6 33.3 0 0 - 5 6 83.3 1 2 3 1 1 0 1 5 7
+p306
+aVTyrone Hill MIL 02/14/1998 MIL @ CLE W 37 12 5 10 50.0 0 0 - 2 3 66.7 4 8 12 1 1 0 2 6 8
+p307
+aVRay Allen MIL 02/14/1998 MIL @ CLE W 42 25 8 17 47.1 2 4 50.0 7 8 87.5 2 4 6 8 2 0 2 1 3
+p308
+aVLitterial Green MIL 02/14/1998 MIL @ CLE W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -6
+p309
+aVErvin Johnson MIL 02/14/1998 MIL @ CLE W 31 12 5 10 50.0 0 0 - 2 4 50.0 4 3 7 1 1 3 0 2 -7
+p310
+aVRay Allen MIL 02/11/1998 MIL @ DET L 48 24 8 19 42.1 1 5 20.0 7 9 77.8 5 5 10 8 0 0 5 4 -12
+p311
+aVRicky Pierce MIL 02/11/1998 MIL @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -4
+p312
+aVGlenn Robinson MIL 02/11/1998 MIL @ DET L 47 25 12 24 50.0 1 2 50.0 0 1 0.0 2 4 6 2 1 0 6 3 -14
+p313
+aVElliot Perry MIL 02/11/1998 MIL @ DET L 14 0 0 5 0.0 0 2 0.0 0 0 - 1 0 1 2 0 0 2 1 -6
+p314
+aVTyrone Hill MIL 02/11/1998 MIL @ DET L 37 9 2 5 40.0 0 0 - 5 6 83.3 2 8 10 0 3 0 1 6 -11
+p315
+aVArmen Gilliam MIL 02/11/1998 MIL @ DET L 27 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 1 1 0 4 1 2
+p316
+aVMichael Curry MIL 02/11/1998 MIL @ DET L 32 16 6 8 75.0 0 0 - 4 4 100.0 0 3 3 2 1 0 2 5 0
+p317
+aVAndrew Lang MIL 02/11/1998 MIL @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p318
+aVJerald Honeycutt MIL 02/11/1998 MIL @ DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p319
+aVErvin Johnson MIL 02/11/1998 MIL @ DET L 25 1 0 2 0.0 0 0 - 1 2 50.0 2 4 6 0 2 0 2 3 -12
+p320
+aVMichael Curry MIL 02/10/1998 MIL vs. ATL L 17 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 2 0 0 1 2 -16
+p321
+aVErvin Johnson MIL 02/10/1998 MIL vs. ATL L 31 14 6 8 75.0 0 0 - 2 2 100.0 4 3 7 2 1 0 1 4 -3
+p322
+aVRicky Pierce MIL 02/10/1998 MIL vs. ATL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p323
+aVRay Allen MIL 02/10/1998 MIL vs. ATL L 43 28 10 22 45.5 4 10 40.0 4 4 100.0 4 3 7 6 0 0 4 3 0
+p324
+aVTyrone Hill MIL 02/10/1998 MIL vs. ATL L 40 12 4 10 40.0 0 0 - 4 4 100.0 4 6 10 2 1 0 1 4 -1
+p325
+aVElliot Perry MIL 02/10/1998 MIL vs. ATL L 34 8 4 10 40.0 0 1 0.0 0 0 - 1 4 5 5 0 0 2 5 7
+p326
+aVAndrew Lang MIL 02/10/1998 MIL vs. ATL L 10 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 2
+p327
+aVArmen Gilliam MIL 02/10/1998 MIL vs. ATL L 16 4 0 4 0.0 0 0 - 4 4 100.0 1 4 5 1 1 1 0 1 -14
+p328
+aVGlenn Robinson MIL 02/10/1998 MIL vs. ATL L 43 24 7 17 41.2 2 2 100.0 8 13 61.5 0 2 2 0 0 0 2 1 -7
+p329
+aVElliot Perry MIL 02/05/1998 MIL vs. MIA L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p330
+aVTerrell Brandon MIL 02/05/1998 MIL vs. MIA L 11 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 -17
+p331
+aVRay Allen MIL 02/05/1998 MIL vs. MIA L 42 25 9 19 47.4 2 6 33.3 5 5 100.0 4 3 7 3 0 0 4 1 1
+p332
+aVErvin Johnson MIL 02/05/1998 MIL vs. MIA L 20 2 1 3 33.3 0 0 - 0 0 - 1 6 7 1 0 1 1 4 -8
+p333
+aVMichael Curry MIL 02/05/1998 MIL vs. MIA L 36 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 7 1 0 1 4 3
+p334
+aVGlenn Robinson MIL 02/05/1998 MIL vs. MIA L 42 25 9 16 56.3 1 2 50.0 6 7 85.7 1 6 7 0 0 1 5 2 -9
+p335
+aVTyrone Hill MIL 02/05/1998 MIL vs. MIA L 33 6 3 6 50.0 0 0 - 0 0 - 1 6 7 2 0 0 1 4 7
+p336
+aVAndrew Lang MIL 02/05/1998 MIL vs. MIA L 12 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 0
+p337
+aVArmen Gilliam MIL 02/05/1998 MIL vs. MIA L 34 20 8 16 50.0 0 0 - 4 6 66.7 4 4 8 2 1 0 1 2 1
+p338
+aVGlenn Robinson MIL 02/03/1998 MIL vs. NYK W 42 15 6 18 33.3 0 0 - 3 4 75.0 1 1 2 3 1 0 1 3 6
+p339
+aVRicky Pierce MIL 02/03/1998 MIL vs. NYK W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -5
+p340
+aVRay Allen MIL 02/03/1998 MIL vs. NYK W 30 17 6 10 60.0 2 3 66.7 3 4 75.0 0 1 1 3 4 0 6 5 12
+p341
+aVElliot Perry MIL 02/03/1998 MIL vs. NYK W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -2
+p342
+aVMichael Curry MIL 02/03/1998 MIL vs. NYK W 21 8 4 4 100.0 0 0 - 0 0 - 0 1 1 3 1 0 0 2 -4
+p343
+aVArmen Gilliam MIL 02/03/1998 MIL vs. NYK W 9 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 2 0 1 0 -4
+p344
+aVErvin Johnson MIL 02/03/1998 MIL vs. NYK W 39 6 2 6 33.3 0 0 - 2 2 100.0 5 9 14 1 1 3 0 3 7
+p345
+aVTerrell Brandon MIL 02/03/1998 MIL vs. NYK W 41 20 9 20 45.0 1 1 100.0 1 2 50.0 1 3 4 7 3 0 2 0 2
+p346
+aVTyrone Hill MIL 02/03/1998 MIL vs. NYK W 39 12 4 8 50.0 0 0 - 4 7 57.1 1 9 10 2 2 0 2 2 8
+p347
+aVErvin Johnson MIL 02/01/1998 MIL @ MIN W 34 4 2 7 28.6 0 0 - 0 1 0.0 5 5 10 1 4 4 3 3 13
+p348
+aVMichael Curry MIL 02/01/1998 MIL @ MIN W 15 8 1 2 50.0 0 0 - 6 6 100.0 0 1 1 3 1 0 1 2 2
+p349
+aVArmen Gilliam MIL 02/01/1998 MIL @ MIN W 22 9 4 6 66.7 0 0 - 1 2 50.0 2 3 5 1 1 0 0 4 -9
+p350
+aVGlenn Robinson MIL 02/01/1998 MIL @ MIN W 39 29 10 23 43.5 0 0 - 9 9 100.0 2 1 3 4 0 1 2 4 13
+p351
+aVElliot Perry MIL 02/01/1998 MIL @ MIN W 13 8 2 2 100.0 0 0 - 4 4 100.0 0 1 1 1 1 1 1 0 -4
+p352
+aVRicky Pierce MIL 02/01/1998 MIL @ MIN W 10 9 3 5 60.0 0 0 - 3 3 100.0 0 0 0 1 1 0 1 0 6
+p353
+aVTerrell Brandon MIL 02/01/1998 MIL @ MIN W 37 22 8 14 57.1 1 2 50.0 5 5 100.0 0 3 3 12 1 0 2 4 7
+p354
+aVRay Allen MIL 02/01/1998 MIL @ MIN W 35 17 6 14 42.9 2 6 33.3 3 3 100.0 3 1 4 3 1 0 1 5 4
+p355
+aVTyrone Hill MIL 02/01/1998 MIL @ MIN W 34 12 5 7 71.4 0 0 - 2 4 50.0 3 5 8 2 1 0 1 6 14
+p356
+aVAndrew Lang MIL 02/01/1998 MIL @ MIN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p357
+aVElliot Perry MIL 01/29/1998 MIL @ NYK W 11 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 3
+p358
+aVRay Allen MIL 01/29/1998 MIL @ NYK W 45 26 8 19 42.1 3 7 42.9 7 9 77.8 5 2 7 7 2 0 1 3 7
+p359
+aVGlenn Robinson MIL 01/29/1998 MIL @ NYK W 49 39 15 26 57.7 1 1 100.0 8 10 80.0 1 3 4 1 1 0 3 4 13
+p360
+aVArmen Gilliam MIL 01/29/1998 MIL @ NYK W 27 2 0 4 0.0 0 0 - 2 2 100.0 0 3 3 0 1 1 1 4 1
+p361
+aVErvin Johnson MIL 01/29/1998 MIL @ NYK W 22 6 3 4 75.0 0 0 - 0 2 0.0 1 2 3 1 0 0 2 3 6
+p362
+aVMichael Curry MIL 01/29/1998 MIL @ NYK W 18 7 3 4 75.0 0 0 - 1 2 50.0 1 0 1 1 1 0 1 3 -9
+p363
+aVTerrell Brandon MIL 01/29/1998 MIL @ NYK W 43 22 7 15 46.7 2 3 66.7 6 6 100.0 0 8 8 10 0 1 4 5 3
+p364
+aVRicky Pierce MIL 01/29/1998 MIL @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p365
+aVTyrone Hill MIL 01/29/1998 MIL @ NYK W 46 11 4 5 80.0 0 0 - 3 4 75.0 2 11 13 0 5 1 2 6 -2
+p366
+aVErvin Johnson MIL 01/27/1998 MIL vs. DET W 30 9 2 4 50.0 0 0 - 5 11 45.5 1 3 4 0 1 3 1 2 -6
+p367
+aVAndrew Lang MIL 01/27/1998 MIL vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p368
+aVGlenn Robinson MIL 01/27/1998 MIL vs. DET W 45 14 7 21 33.3 0 0 - 0 0 - 2 4 6 5 2 1 3 3 4
+p369
+aVMichael Curry MIL 01/27/1998 MIL vs. DET W 13 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 1 0 0 0 3 2
+p370
+aVRay Allen MIL 01/27/1998 MIL vs. DET W 37 6 2 11 18.2 1 2 50.0 1 2 50.0 0 5 5 3 1 0 1 3 -3
+p371
+aVArmen Gilliam MIL 01/27/1998 MIL vs. DET W 22 15 7 8 87.5 0 0 - 1 2 50.0 1 5 6 0 0 0 2 1 7
+p372
+aVTerrell Brandon MIL 01/27/1998 MIL vs. DET W 35 13 6 11 54.5 0 0 - 1 2 50.0 1 3 4 5 4 0 1 0 1
+p373
+aVElliot Perry MIL 01/27/1998 MIL vs. DET W 15 10 4 6 66.7 2 2 100.0 0 0 - 0 3 3 1 1 0 2 0 2
+p374
+aVTyrone Hill MIL 01/27/1998 MIL vs. DET W 39 11 3 8 37.5 0 0 - 5 9 55.6 6 6 12 2 1 1 1 2 8
+p375
+aVGlenn Robinson MIL 01/24/1998 MIL vs. SAC W 43 26 11 27 40.7 0 1 0.0 4 5 80.0 2 5 7 2 2 0 2 2 6
+p376
+aVErvin Johnson MIL 01/24/1998 MIL vs. SAC W 25 8 2 6 33.3 0 0 - 4 7 57.1 6 12 18 1 1 3 2 3 -4
+p377
+aVElliot Perry MIL 01/24/1998 MIL vs. SAC W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p378
+aVRay Allen MIL 01/24/1998 MIL vs. SAC W 43 16 5 13 38.5 3 4 75.0 3 4 75.0 0 4 4 5 1 0 1 2 3
+p379
+aVTyrone Hill MIL 01/24/1998 MIL vs. SAC W 43 14 6 10 60.0 0 0 - 2 3 66.7 6 7 13 2 0 1 1 5 8
+p380
+aVTerrell Brandon MIL 01/24/1998 MIL vs. SAC W 42 23 9 18 50.0 0 2 0.0 5 6 83.3 0 3 3 13 0 0 2 0 7
+p381
+aVArmen Gilliam MIL 01/24/1998 MIL vs. SAC W 21 10 4 9 44.4 0 0 - 2 6 33.3 1 1 2 0 1 1 0 0 7
+p382
+aVMichael Curry MIL 01/24/1998 MIL vs. SAC W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p383
+aVArmen Gilliam MIL 01/21/1998 MIL @ ORL W 19 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 1 0 3 4 4
+p384
+aVElliot Perry MIL 01/21/1998 MIL @ ORL W 12 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 4
+p385
+aVAndrew Lang MIL 01/21/1998 MIL @ ORL W 14 1 0 2 0.0 0 0 - 1 2 50.0 1 4 5 0 0 0 0 4 -7
+p386
+aVRicky Pierce MIL 01/21/1998 MIL @ ORL W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p387
+aVGlenn Robinson MIL 01/21/1998 MIL @ ORL W 39 24 10 23 43.5 0 0 - 4 5 80.0 1 6 7 0 0 1 2 2 4
+p388
+aVMichael Curry MIL 01/21/1998 MIL @ ORL W 16 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 4 1 0 1 3 9
+p389
+aVErvin Johnson MIL 01/21/1998 MIL @ ORL W 30 6 2 8 25.0 0 0 - 2 2 100.0 3 1 4 0 3 0 2 6 5
+p390
+aVRay Allen MIL 01/21/1998 MIL @ ORL W 36 16 7 13 53.8 0 1 0.0 2 3 66.7 3 2 5 2 3 0 3 1 3
+p391
+aVTerrell Brandon MIL 01/21/1998 MIL @ ORL W 36 20 8 17 47.1 0 1 0.0 4 4 100.0 1 4 5 9 5 0 3 0 3
+p392
+aVTyrone Hill MIL 01/21/1998 MIL @ ORL W 33 8 2 4 50.0 0 0 - 4 4 100.0 4 4 8 1 1 0 0 5 10
+p393
+aVElliot Perry MIL 01/20/1998 MIL @ ATL L 18 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 3 1 0 2 1 -7
+p394
+aVRay Allen MIL 01/20/1998 MIL @ ATL L 29 13 6 14 42.9 1 5 20.0 0 0 - 1 1 2 2 1 0 1 5 0
+p395
+aVTerrell Brandon MIL 01/20/1998 MIL @ ATL L 39 22 8 16 50.0 2 5 40.0 4 6 66.7 1 2 3 9 4 0 3 3 -11
+p396
+aVAndrew Lang MIL 01/20/1998 MIL @ ATL L 17 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 0 0 1 1 2 -16
+p397
+aVArmen Gilliam MIL 01/20/1998 MIL @ ATL L 20 10 2 6 33.3 0 1 0.0 6 6 100.0 1 2 3 1 0 1 3 3 -10
+p398
+aVErvin Johnson MIL 01/20/1998 MIL @ ATL L 22 4 2 5 40.0 0 0 - 0 0 - 3 5 8 1 1 2 1 5 9
+p399
+aVRicky Pierce MIL 01/20/1998 MIL @ ATL L 22 8 3 9 33.3 0 2 0.0 2 3 66.7 0 1 1 4 0 0 1 3 -11
+p400
+aVMichael Curry MIL 01/20/1998 MIL @ ATL L 34 8 4 7 57.1 0 0 - 0 0 - 0 0 0 1 1 0 1 3 1
+p401
+aVTyrone Hill MIL 01/20/1998 MIL @ ATL L 40 13 5 6 83.3 0 0 - 3 4 75.0 2 5 7 0 2 0 2 3 -5
+p402
+aVTyrone Hill MIL 01/18/1998 MIL vs. SAS L 40 16 8 18 44.4 0 0 - 0 0 - 11 3 14 2 2 0 1 4 -7
+p403
+aVAndrew Lang MIL 01/18/1998 MIL vs. SAS L 14 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 0 0 0 3 7
+p404
+aVRay Allen MIL 01/18/1998 MIL vs. SAS L 45 16 7 22 31.8 2 3 66.7 0 0 - 1 5 6 3 1 1 3 2 -11
+p405
+aVElliot Perry MIL 01/18/1998 MIL vs. SAS L 23 6 3 5 60.0 0 0 - 0 0 - 0 3 3 2 0 0 3 2 7
+p406
+aVTerrell Brandon MIL 01/18/1998 MIL vs. SAS L 41 19 8 17 47.1 1 2 50.0 2 3 66.7 0 2 2 8 3 1 4 6 -2
+p407
+aVMichael Curry MIL 01/18/1998 MIL vs. SAS L 22 5 2 7 28.6 0 0 - 1 1 100.0 0 0 0 0 0 0 1 1 -1
+p408
+aVRicky Pierce MIL 01/18/1998 MIL vs. SAS L 28 12 6 14 42.9 0 1 0.0 0 0 - 2 1 3 3 1 0 0 1 -11
+p409
+aVArmen Gilliam MIL 01/18/1998 MIL vs. SAS L 25 10 3 10 30.0 0 1 0.0 4 4 100.0 2 5 7 1 1 2 1 2 -4
+p410
+aVErvin Johnson MIL 01/18/1998 MIL vs. SAS L 27 6 3 7 42.9 0 0 - 0 0 - 6 7 13 0 0 1 1 5 -8
+p411
+aVTyrone Hill MIL 01/16/1998 MIL vs. CHI L 36 9 4 8 50.0 0 0 - 1 3 33.3 4 5 9 0 0 1 0 4 3
+p412
+aVRicky Pierce MIL 01/16/1998 MIL vs. CHI L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p413
+aVGlenn Robinson MIL 01/16/1998 MIL vs. CHI L 41 20 10 20 50.0 0 1 0.0 0 2 0.0 2 3 5 3 3 0 4 4 0
+p414
+aVElliot Perry MIL 01/16/1998 MIL vs. CHI L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 2 1 0 1 0 -2
+p415
+aVAndrew Lang MIL 01/16/1998 MIL vs. CHI L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -5
+p416
+aVRay Allen MIL 01/16/1998 MIL vs. CHI L 43 27 7 18 38.9 7 8 87.5 6 6 100.0 1 3 4 1 3 0 3 3 -7
+p417
+aVTerrell Brandon MIL 01/16/1998 MIL vs. CHI L 39 21 10 23 43.5 1 4 25.0 0 0 - 0 2 2 9 3 1 4 1 -8
+p418
+aVArmen Gilliam MIL 01/16/1998 MIL vs. CHI L 27 4 0 2 0.0 0 0 - 4 4 100.0 1 5 6 1 0 0 1 2 -11
+p419
+aVMichael Curry MIL 01/16/1998 MIL vs. CHI L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -10
+p420
+aVErvin Johnson MIL 01/16/1998 MIL vs. CHI L 29 0 0 3 0.0 0 0 - 0 0 - 1 6 7 0 0 1 1 3 -7
+p421
+aVTerrell Brandon MIL 01/14/1998 MIL vs. GSW W 39 18 6 11 54.5 2 2 100.0 4 4 100.0 0 3 3 7 1 0 1 3 9
+p422
+aVRay Allen MIL 01/14/1998 MIL vs. GSW W 39 18 7 14 50.0 0 2 0.0 4 4 100.0 0 2 2 2 1 0 1 4 5
+p423
+aVRicky Pierce MIL 01/14/1998 MIL vs. GSW W 11 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 0 -3
+p424
+aVAndrew Lang MIL 01/14/1998 MIL vs. GSW W 24 4 0 3 0.0 0 0 - 4 4 100.0 3 5 8 0 0 0 1 2 -16
+p425
+aVGlenn Robinson MIL 01/14/1998 MIL vs. GSW W 43 31 11 25 44.0 0 1 0.0 9 10 90.0 0 6 6 3 1 1 6 1 18
+p426
+aVElliot Perry MIL 01/14/1998 MIL vs. GSW W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 1 0 0 0 -3
+p427
+aVArmen Gilliam MIL 01/14/1998 MIL vs. GSW W 42 20 5 12 41.7 0 0 - 10 10 100.0 2 4 6 3 0 1 0 3 9
+p428
+aVErvin Johnson MIL 01/14/1998 MIL vs. GSW W 24 5 2 4 50.0 0 0 - 1 2 50.0 4 5 9 0 3 1 1 5 20
+p429
+aVMichael Curry MIL 01/14/1998 MIL vs. GSW W 10 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -9
+p430
+aVGlenn Robinson MIL 01/12/1998 MIL vs. LAC W 41 33 14 23 60.9 0 0 - 5 6 83.3 1 4 5 4 2 0 1 3 12
+p431
+aVAndrew Lang MIL 01/12/1998 MIL vs. LAC W 17 5 2 6 33.3 0 0 - 1 1 100.0 2 5 7 0 2 2 0 5 4
+p432
+aVArmen Gilliam MIL 01/12/1998 MIL vs. LAC W 31 15 7 13 53.8 0 0 - 1 1 100.0 2 6 8 3 0 0 4 5 1
+p433
+aVErvin Johnson MIL 01/12/1998 MIL vs. LAC W 39 20 8 12 66.7 0 0 - 4 6 66.7 7 14 21 0 1 1 2 5 15
+p434
+aVTerrell Brandon MIL 01/12/1998 MIL vs. LAC W 34 9 4 13 30.8 1 1 100.0 0 0 - 1 1 2 11 2 1 2 2 22
+p435
+aVElliot Perry MIL 01/12/1998 MIL vs. LAC W 14 2 1 4 25.0 0 0 - 0 0 - 1 0 1 6 0 0 2 1 -7
+p436
+aVRay Allen MIL 01/12/1998 MIL vs. LAC W 35 21 9 20 45.0 1 6 16.7 2 2 100.0 0 3 3 5 2 0 1 3 20
+p437
+aVJerald Honeycutt MIL 01/12/1998 MIL vs. LAC W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p438
+aVJamie Feick MIL 01/12/1998 MIL vs. LAC W 7 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 3
+p439
+aVMichael Curry MIL 01/12/1998 MIL vs. LAC W 20 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 0 0 2 2 5
+p440
+aVGlenn Robinson MIL 01/10/1998 MIL vs. POR W 49 20 9 21 42.9 0 0 - 2 4 50.0 3 6 9 4 1 1 4 3 5
+p441
+aVMichael Curry MIL 01/10/1998 MIL vs. POR W 12 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -5
+p442
+aVElliot Perry MIL 01/10/1998 MIL vs. POR W 13 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 0 0 0 3 -7
+p443
+aVTerrell Brandon MIL 01/10/1998 MIL vs. POR W 40 15 6 17 35.3 0 1 0.0 3 4 75.0 0 7 7 8 7 0 5 0 14
+p444
+aVRay Allen MIL 01/10/1998 MIL vs. POR W 46 23 9 20 45.0 3 6 50.0 2 3 66.7 1 1 2 5 1 0 2 2 8
+p445
+aVArmen Gilliam MIL 01/10/1998 MIL vs. POR W 47 21 9 13 69.2 0 0 - 3 7 42.9 3 7 10 0 1 0 4 4 9
+p446
+aVAndrew Lang MIL 01/10/1998 MIL vs. POR W 35 6 2 2 100.0 0 0 - 2 2 100.0 2 4 6 2 2 1 1 2 -2
+p447
+aVErvin Johnson MIL 01/10/1998 MIL vs. POR W 24 4 1 1 100.0 0 0 - 2 2 100.0 1 7 8 0 0 0 2 3 3
+p448
+aVJamie Feick MIL 01/08/1998 MIL @ UTA L 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -9
+p449
+aVMichael Curry MIL 01/08/1998 MIL @ UTA L 18 10 1 2 50.0 0 0 - 8 8 100.0 0 0 0 0 0 1 1 4 -6
+p450
+aVRay Allen MIL 01/08/1998 MIL @ UTA L 33 21 7 15 46.7 2 2 100.0 5 6 83.3 1 2 3 2 2 0 2 3 -9
+p451
+aVElliot Perry MIL 01/08/1998 MIL @ UTA L 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p452
+aVRicky Pierce MIL 01/08/1998 MIL @ UTA L 10 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 0 3
+p453
+aVJerald Honeycutt MIL 01/08/1998 MIL @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p454
+aVTyrone Hill MIL 01/08/1998 MIL @ UTA L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p455
+aVTerrell Brandon MIL 01/08/1998 MIL @ UTA L 40 29 12 22 54.5 2 2 100.0 3 3 100.0 0 4 4 8 3 1 4 2 -3
+p456
+aVErvin Johnson MIL 01/08/1998 MIL @ UTA L 22 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 1 1 2 6 -3
+p457
+aVArmen Gilliam MIL 01/08/1998 MIL @ UTA L 34 11 4 6 66.7 0 0 - 3 3 100.0 5 4 9 0 0 0 1 6 -1
+p458
+aVAndrew Lang MIL 01/08/1998 MIL @ UTA L 19 13 5 11 45.5 0 0 - 3 3 100.0 5 2 7 0 1 0 1 3 2
+p459
+aVGlenn Robinson MIL 01/08/1998 MIL @ UTA L 40 20 9 23 39.1 0 0 - 2 2 100.0 3 5 8 4 1 0 3 3 -3
+p460
+aVMichael Curry MIL 01/07/1998 MIL @ LAL L 30 6 1 3 33.3 0 0 - 4 7 57.1 0 1 1 4 1 0 1 1 -2
+p461
+aVArmen Gilliam MIL 01/07/1998 MIL @ LAL L 23 14 4 9 44.4 0 0 - 6 8 75.0 4 2 6 0 4 0 1 1 -12
+p462
+aVRicky Pierce MIL 01/07/1998 MIL @ LAL L 16 10 4 6 66.7 0 0 - 2 2 100.0 0 3 3 1 1 0 1 3 -2
+p463
+aVTyrone Hill MIL 01/07/1998 MIL @ LAL L 32 10 4 7 57.1 0 0 - 2 2 100.0 3 7 10 2 1 0 2 4 -7
+p464
+aVAndrew Lang MIL 01/07/1998 MIL @ LAL L 21 10 5 9 55.6 0 0 - 0 0 - 1 4 5 0 0 0 3 5 -3
+p465
+aVErvin Johnson MIL 01/07/1998 MIL @ LAL L 16 6 1 3 33.3 0 0 - 4 4 100.0 3 3 6 0 0 1 1 6 -4
+p466
+aVJamie Feick MIL 01/07/1998 MIL @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 2 2
+p467
+aVTerrell Brandon MIL 01/07/1998 MIL @ LAL L 31 15 6 13 46.2 1 2 50.0 2 2 100.0 0 1 1 5 3 0 3 2 -12
+p468
+aVRay Allen MIL 01/07/1998 MIL @ LAL L 17 7 2 7 28.6 0 0 - 3 4 75.0 1 0 1 1 1 0 2 3 -12
+p469
+aVGlenn Robinson MIL 01/07/1998 MIL @ LAL L 32 13 6 17 35.3 0 1 0.0 1 2 50.0 0 4 4 4 0 3 5 2 -8
+p470
+aVElliot Perry MIL 01/07/1998 MIL @ LAL L 17 11 4 8 50.0 1 1 100.0 2 2 100.0 0 2 2 5 1 0 2 2 0
+p471
+aVMichael Curry MIL 01/05/1998 MIL @ POR W 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 2 0 2 5
+p472
+aVElliot Perry MIL 01/05/1998 MIL @ POR W 9 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 1 0 1 1 -1
+p473
+aVErvin Johnson MIL 01/05/1998 MIL @ POR W 43 17 7 9 77.8 0 0 - 3 3 100.0 3 8 11 0 1 2 1 3 9
+p474
+aVTerrell Brandon MIL 01/05/1998 MIL @ POR W 39 16 6 20 30.0 0 1 0.0 4 4 100.0 2 3 5 15 3 1 0 3 7
+p475
+aVGlenn Robinson MIL 01/05/1998 MIL @ POR W 43 26 11 22 50.0 1 3 33.3 3 3 100.0 1 7 8 1 1 1 2 3 0
+p476
+aVAndrew Lang MIL 01/05/1998 MIL @ POR W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 2 1 -3
+p477
+aVArmen Gilliam MIL 01/05/1998 MIL @ POR W 46 13 6 12 50.0 0 0 - 1 2 50.0 3 6 9 2 2 0 2 2 6
+p478
+aVRay Allen MIL 01/05/1998 MIL @ POR W 40 17 5 15 33.3 2 7 28.6 5 6 83.3 1 2 3 3 3 0 0 4 7
+p479
+aVTyrone Hill MIL 01/03/1998 MIL vs. BOS L 36 9 4 7 57.1 0 0 - 1 5 20.0 4 4 8 0 1 0 0 5 -4
+p480
+aVAndrew Lang MIL 01/03/1998 MIL vs. BOS L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p481
+aVElliot Perry MIL 01/03/1998 MIL vs. BOS L 9 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -3
+p482
+aVGlenn Robinson MIL 01/03/1998 MIL vs. BOS L 44 35 11 20 55.0 2 3 66.7 11 16 68.8 2 5 7 2 1 0 8 3 -4
+p483
+aVRay Allen MIL 01/03/1998 MIL vs. BOS L 41 17 5 9 55.6 0 2 0.0 7 8 87.5 0 2 2 3 0 0 1 4 -7
+p484
+aVArmen Gilliam MIL 01/03/1998 MIL vs. BOS L 34 15 3 10 30.0 0 0 - 9 10 90.0 3 5 8 2 0 0 2 2 7
+p485
+aVRicky Pierce MIL 01/03/1998 MIL vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p486
+aVTerrell Brandon MIL 01/03/1998 MIL vs. BOS L 40 17 8 14 57.1 0 1 0.0 1 2 50.0 0 3 3 2 0 1 2 5 -9
+p487
+aVMichael Curry MIL 01/03/1998 MIL vs. BOS L 11 4 0 0 - 0 0 - 4 4 100.0 0 1 1 0 2 1 0 0 0
+p488
+aVErvin Johnson MIL 01/03/1998 MIL vs. BOS L 14 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 2 2 2 -15
+p489
+aVTony Smith MIL 01/02/1998 MIL @ CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p490
+aVArmen Gilliam MIL 01/02/1998 MIL @ CHI L 40 18 8 12 66.7 0 0 - 2 4 50.0 3 8 11 2 2 1 3 3 -5
+p491
+aVJamie Feick MIL 01/02/1998 MIL @ CHI L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -6
+p492
+aVRicky Pierce MIL 01/02/1998 MIL @ CHI L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -1
+p493
+aVAndrew Lang MIL 01/02/1998 MIL @ CHI L 12 2 1 4 25.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 3 -13
+p494
+aVGlenn Robinson MIL 01/02/1998 MIL @ CHI L 45 42 17 29 58.6 3 4 75.0 5 6 83.3 2 3 5 3 2 1 4 4 -10
+p495
+aVMichael Curry MIL 01/02/1998 MIL @ CHI L 18 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -3
+p496
+aVErvin Johnson MIL 01/02/1998 MIL @ CHI L 24 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 3 0 1 6 -5
+p497
+aVRay Allen MIL 01/02/1998 MIL @ CHI L 42 11 4 12 33.3 1 5 20.0 2 2 100.0 0 4 4 2 2 0 3 4 -13
+p498
+aVTerrell Brandon MIL 01/02/1998 MIL @ CHI L 41 24 9 17 52.9 0 1 0.0 6 6 100.0 1 2 3 13 0 0 3 2 -18
+p499
+aVElliot Perry MIL 01/02/1998 MIL @ CHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 0 0 1 0 4
+p500
+aVAndrew Lang MIL 12/30/1997 MIL vs. DAL W 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -10
+p501
+aVRay Allen MIL 12/30/1997 MIL vs. DAL W 47 19 8 16 50.0 0 4 0.0 3 3 100.0 3 3 6 7 1 0 1 4 10
+p502
+aVTerrell Brandon MIL 12/30/1997 MIL vs. DAL W 40 18 7 15 46.7 0 3 0.0 4 4 100.0 1 3 4 14 3 0 2 5 16
+p503
+aVErvin Johnson MIL 12/30/1997 MIL vs. DAL W 27 8 2 5 40.0 0 0 - 4 6 66.7 3 6 9 1 0 1 4 4 14
+p504
+aVRicky Pierce MIL 12/30/1997 MIL vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p505
+aVGlenn Robinson MIL 12/30/1997 MIL vs. DAL W 52 32 14 26 53.8 0 3 0.0 4 6 66.7 2 4 6 1 3 0 3 3 7
+p506
+aVArmen Gilliam MIL 12/30/1997 MIL vs. DAL W 25 13 6 14 42.9 0 0 - 1 1 100.0 4 3 7 0 0 0 2 1 0
+p507
+aVElliot Perry MIL 12/30/1997 MIL vs. DAL W 13 5 2 4 50.0 1 1 100.0 0 2 0.0 0 1 1 3 0 0 1 0 -7
+p508
+aVTyrone Hill MIL 12/30/1997 MIL vs. DAL W 42 8 4 8 50.0 0 0 - 0 2 0.0 5 11 16 1 1 0 2 5 6
+p509
+aVMichael Curry MIL 12/30/1997 MIL vs. DAL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -3
+p510
+aVRicky Pierce MIL 12/27/1997 MIL @ NJN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p511
+aVTyrone Hill MIL 12/27/1997 MIL @ NJN L 54 13 5 12 41.7 0 0 - 3 4 75.0 6 8 14 3 1 0 1 5 -1
+p512
+aVRay Allen MIL 12/27/1997 MIL @ NJN L 54 27 11 23 47.8 3 7 42.9 2 4 50.0 1 4 5 3 1 0 3 3 -1
+p513
+aVErvin Johnson MIL 12/27/1997 MIL @ NJN L 15 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 4 -4
+p514
+aVTony Smith MIL 12/27/1997 MIL @ NJN L 5 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 1 0 -9
+p515
+aVElliot Perry MIL 12/27/1997 MIL @ NJN L 49 12 5 14 35.7 0 3 0.0 2 2 100.0 1 0 1 5 4 0 4 6 11
+p516
+aVAndrew Lang MIL 12/27/1997 MIL @ NJN L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p517
+aVGlenn Robinson MIL 12/27/1997 MIL @ NJN L 48 29 10 22 45.5 0 1 0.0 9 10 90.0 3 8 11 1 3 0 9 4 -10
+p518
+aVArmen Gilliam MIL 12/27/1997 MIL @ NJN L 33 19 6 10 60.0 0 0 - 7 8 87.5 4 3 7 0 2 1 1 4 -6
+p519
+aVMichael Curry MIL 12/27/1997 MIL @ NJN L 23 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 4 -10
+p520
+aVElliot Perry MIL 12/26/1997 MIL vs. ATL W 38 17 8 13 61.5 1 2 50.0 0 1 0.0 0 2 2 3 1 0 3 5 10
+p521
+aVTyrone Hill MIL 12/26/1997 MIL vs. ATL W 46 14 4 9 44.4 0 0 - 6 8 75.0 9 7 16 1 1 0 1 4 4
+p522
+aVArmen Gilliam MIL 12/26/1997 MIL vs. ATL W 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 3 2 -7
+p523
+aVErvin Johnson MIL 12/26/1997 MIL vs. ATL W 33 8 2 5 40.0 0 0 - 4 4 100.0 4 8 12 3 1 2 1 5 18
+p524
+aVRicky Pierce MIL 12/26/1997 MIL vs. ATL W 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 1
+p525
+aVTony Smith MIL 12/26/1997 MIL vs. ATL W 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 3 0 -10
+p526
+aVMichael Curry MIL 12/26/1997 MIL vs. ATL W 12 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 -10
+p527
+aVAndrew Lang MIL 12/26/1997 MIL vs. ATL W 16 4 2 6 33.3 0 0 - 0 0 - 3 3 6 1 0 2 0 1 -5
+p528
+aVRay Allen MIL 12/26/1997 MIL vs. ATL W 41 15 5 10 50.0 1 2 50.0 4 4 100.0 0 5 5 2 1 0 2 4 15
+p529
+aVGlenn Robinson MIL 12/26/1997 MIL vs. ATL W 51 30 13 28 46.4 0 1 0.0 4 4 100.0 3 3 6 3 2 0 4 2 9
+p530
+aVGlenn Robinson MIL 12/22/1997 MIL vs. WAS L 42 22 9 23 39.1 2 3 66.7 2 2 100.0 1 2 3 1 2 0 3 3 -23
+p531
+aVRicky Pierce MIL 12/22/1997 MIL vs. WAS L 7 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 1 -12
+p532
+aVJamie Feick MIL 12/22/1997 MIL vs. WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p533
+aVElliot Perry MIL 12/22/1997 MIL vs. WAS L 21 2 1 4 25.0 0 0 - 0 1 0.0 0 0 0 2 0 0 1 1 -24
+p534
+aVTony Smith MIL 12/22/1997 MIL vs. WAS L 28 10 4 11 36.4 0 1 0.0 2 2 100.0 2 0 2 3 0 1 3 2 -10
+p535
+aVErvin Johnson MIL 12/22/1997 MIL vs. WAS L 24 10 5 8 62.5 0 0 - 0 0 - 5 4 9 0 2 0 2 4 -7
+p536
+aVAndrew Lang MIL 12/22/1997 MIL vs. WAS L 11 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 1 1 0 1 0 -7
+p537
+aVMichael Curry MIL 12/22/1997 MIL vs. WAS L 18 9 2 6 33.3 0 0 - 5 6 83.3 0 0 0 0 3 0 2 4 -10
+p538
+aVTyrone Hill MIL 12/22/1997 MIL vs. WAS L 32 11 4 8 50.0 0 0 - 3 3 100.0 6 5 11 3 1 0 2 3 -21
+p539
+aVJerald Honeycutt MIL 12/22/1997 MIL vs. WAS L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -7
+p540
+aVRay Allen MIL 12/22/1997 MIL vs. WAS L 39 8 3 11 27.3 0 2 0.0 2 2 100.0 0 2 2 4 4 0 6 3 -16
+p541
+aVArmen Gilliam MIL 12/22/1997 MIL vs. WAS L 11 2 0 2 0.0 0 0 - 2 4 50.0 0 2 2 0 0 1 2 0 -15
+p542
+aVErvin Johnson MIL 12/20/1997 MIL vs. NYK W 21 9 3 6 50.0 0 0 - 3 6 50.0 2 8 10 1 1 2 1 2 8
+p543
+aVElliot Perry MIL 12/20/1997 MIL vs. NYK W 33 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 5 0 0 2 1 7
+p544
+aVRay Allen MIL 12/20/1997 MIL vs. NYK W 42 35 11 18 61.1 5 6 83.3 8 8 100.0 1 4 5 4 1 0 2 4 14
+p545
+aVRicky Pierce MIL 12/20/1997 MIL vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p546
+aVGlenn Robinson MIL 12/20/1997 MIL vs. NYK W 42 27 10 20 50.0 0 0 - 7 9 77.8 1 5 6 3 1 0 4 1 22
+p547
+aVMichael Curry MIL 12/20/1997 MIL vs. NYK W 21 7 3 7 42.9 0 0 - 1 1 100.0 2 2 4 1 0 0 0 4 8
+p548
+aVTony Smith MIL 12/20/1997 MIL vs. NYK W 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 2 0 1 0 10
+p549
+aVAndrew Lang MIL 12/20/1997 MIL vs. NYK W 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 11
+p550
+aVArmen Gilliam MIL 12/20/1997 MIL vs. NYK W 13 1 0 1 0.0 0 0 - 1 2 50.0 1 5 6 1 0 1 1 0 6
+p551
+aVJamie Feick MIL 12/20/1997 MIL vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p552
+aVTyrone Hill MIL 12/20/1997 MIL vs. NYK W 36 10 4 7 57.1 0 0 - 2 4 50.0 4 5 9 2 0 1 2 3 16
+p553
+aVJerald Honeycutt MIL 12/20/1997 MIL vs. NYK W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 0
+p554
+aVElliot Perry MIL 12/19/1997 MIL @ TOR L 24 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 5 1 0 4 4 -1
+p555
+aVRicky Pierce MIL 12/19/1997 MIL @ TOR L 23 13 3 8 37.5 1 1 100.0 6 6 100.0 2 4 6 2 0 0 0 1 10
+p556
+aVGlenn Robinson MIL 12/19/1997 MIL @ TOR L 41 21 8 23 34.8 1 2 50.0 4 5 80.0 3 4 7 5 1 1 2 2 -1
+p557
+aVErvin Johnson MIL 12/19/1997 MIL @ TOR L 24 8 3 6 50.0 0 0 - 2 2 100.0 1 7 8 1 0 1 0 2 -5
+p558
+aVRay Allen MIL 12/19/1997 MIL @ TOR L 26 3 1 10 10.0 1 2 50.0 0 0 - 0 0 0 1 0 0 2 5 -11
+p559
+aVTyrone Hill MIL 12/19/1997 MIL @ TOR L 41 11 5 8 62.5 0 0 - 1 4 25.0 4 3 7 3 0 2 2 4 -9
+p560
+aVArmen Gilliam MIL 12/19/1997 MIL @ TOR L 28 23 8 13 61.5 0 0 - 7 10 70.0 3 2 5 2 1 2 3 2 8
+p561
+aVTony Smith MIL 12/19/1997 MIL @ TOR L 22 3 1 5 20.0 0 2 0.0 1 2 50.0 1 1 2 4 1 1 1 5 0
+p562
+aVMichael Curry MIL 12/19/1997 MIL @ TOR L 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p563
+aVTyrone Hill MIL 12/17/1997 MIL @ CHH L 43 9 3 7 42.9 0 0 - 3 4 75.0 4 14 18 2 3 0 4 5 0
+p564
+aVRay Allen MIL 12/17/1997 MIL @ CHH L 46 24 6 16 37.5 2 6 33.3 10 11 90.9 2 2 4 7 1 0 5 5 -9
+p565
+aVErvin Johnson MIL 12/17/1997 MIL @ CHH L 34 13 6 11 54.5 0 0 - 1 2 50.0 1 1 2 1 0 4 2 4 -11
+p566
+aVArmen Gilliam MIL 12/17/1997 MIL @ CHH L 14 4 0 1 0.0 0 0 - 4 4 100.0 0 3 3 0 0 1 0 3 0
+p567
+aVAndrew Lang MIL 12/17/1997 MIL @ CHH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p568
+aVRicky Pierce MIL 12/17/1997 MIL @ CHH L 7 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p569
+aVMichael Curry MIL 12/17/1997 MIL @ CHH L 20 4 2 4 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 2 2 -8
+p570
+aVGlenn Robinson MIL 12/17/1997 MIL @ CHH L 43 24 10 16 62.5 2 3 66.7 2 2 100.0 0 2 2 2 0 0 3 1 2
+p571
+aVElliot Perry MIL 12/17/1997 MIL @ CHH L 28 7 2 6 33.3 1 2 50.0 2 2 100.0 1 2 3 8 1 0 2 3 -1
+p572
+aVArmen Gilliam MIL 12/13/1997 MIL vs. MIA L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p573
+aVMichael Curry MIL 12/13/1997 MIL vs. MIA L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -9
+p574
+aVTony Smith MIL 12/13/1997 MIL vs. MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p575
+aVErvin Johnson MIL 12/13/1997 MIL vs. MIA L 35 13 6 11 54.5 0 0 - 1 2 50.0 4 10 14 0 1 1 2 3 -5
+p576
+aVAndrew Lang MIL 12/13/1997 MIL vs. MIA L 14 5 0 2 0.0 0 0 - 5 8 62.5 0 2 2 0 0 2 2 4 -4
+p577
+aVRay Allen MIL 12/13/1997 MIL vs. MIA L 40 11 4 14 28.6 1 5 20.0 2 2 100.0 0 3 3 9 0 0 3 5 6
+p578
+aVElliot Perry MIL 12/13/1997 MIL vs. MIA L 35 15 6 8 75.0 1 1 100.0 2 2 100.0 0 1 1 3 2 0 2 2 3
+p579
+aVTyrone Hill MIL 12/13/1997 MIL vs. MIA L 36 8 2 5 40.0 0 0 - 4 6 66.7 2 7 9 2 1 0 2 4 3
+p580
+aVRicky Pierce MIL 12/13/1997 MIL vs. MIA L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -4
+p581
+aVGlenn Robinson MIL 12/13/1997 MIL vs. MIA L 44 28 13 22 59.1 0 0 - 2 2 100.0 0 6 6 0 3 3 3 5 -4
+p582
+aVRicky Pierce MIL 12/11/1997 MIL vs. CLE L 8 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 0 -6
+p583
+aVArmen Gilliam MIL 12/11/1997 MIL vs. CLE L 12 0 0 2 0.0 0 0 - 0 0 - 2 3 5 1 0 0 3 1 -7
+p584
+aVMichael Curry MIL 12/11/1997 MIL vs. CLE L 26 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -3
+p585
+aVRay Allen MIL 12/11/1997 MIL vs. CLE L 30 19 8 12 66.7 2 3 66.7 1 1 100.0 1 0 1 3 2 0 6 4 5
+p586
+aVGlenn Robinson MIL 12/11/1997 MIL vs. CLE L 44 20 7 18 38.9 0 0 - 6 6 100.0 1 6 7 4 0 0 5 3 0
+p587
+aVElliot Perry MIL 12/11/1997 MIL vs. CLE L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -7
+p588
+aVAndrew Lang MIL 12/11/1997 MIL vs. CLE L 23 8 4 4 100.0 0 0 - 0 0 - 2 1 3 1 0 1 1 3 2
+p589
+aVErvin Johnson MIL 12/11/1997 MIL vs. CLE L 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 1 2 4 2
+p590
+aVTyrone Hill MIL 12/11/1997 MIL vs. CLE L 43 11 4 8 50.0 0 0 - 3 4 75.0 4 10 14 2 3 0 4 2 3
+p591
+aVTerrell Brandon MIL 12/11/1997 MIL vs. CLE L 32 11 4 12 33.3 0 0 - 3 4 75.0 0 7 7 9 1 1 1 1 1
+p592
+aVTerrell Brandon MIL 12/10/1997 MIL @ BOS L 36 17 6 13 46.2 0 3 0.0 5 6 83.3 0 3 3 4 2 0 5 2 1
+p593
+aVErvin Johnson MIL 12/10/1997 MIL @ BOS L 23 8 3 5 60.0 0 0 - 2 3 66.7 1 1 2 0 0 1 0 2 -6
+p594
+aVMichael Curry MIL 12/10/1997 MIL @ BOS L 23 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -8
+p595
+aVElliot Perry MIL 12/10/1997 MIL @ BOS L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 0 -6
+p596
+aVArmen Gilliam MIL 12/10/1997 MIL @ BOS L 28 15 6 12 50.0 0 0 - 3 3 100.0 6 0 6 1 0 1 4 1 2
+p597
+aVRay Allen MIL 12/10/1997 MIL @ BOS L 46 23 8 20 40.0 1 5 20.0 6 6 100.0 1 3 4 5 5 0 4 3 -4
+p598
+aVGlenn Robinson MIL 12/10/1997 MIL @ BOS L 14 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 2 0 0 2 0 -9
+p599
+aVRicky Pierce MIL 12/10/1997 MIL @ BOS L 22 11 3 4 75.0 2 2 100.0 3 4 75.0 1 1 2 2 0 0 0 1 6
+p600
+aVTyrone Hill MIL 12/10/1997 MIL @ BOS L 36 11 4 8 50.0 0 0 - 3 4 75.0 3 13 16 3 2 2 4 5 -1
+p601
+aVAndrew Lang MIL 12/07/1997 MIL vs. SEA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p602
+aVErvin Johnson MIL 12/07/1997 MIL vs. SEA W 42 12 3 6 50.0 0 0 - 6 8 75.0 2 12 14 0 0 6 5 5 6
+p603
+aVGlenn Robinson MIL 12/07/1997 MIL vs. SEA W 33 18 9 14 64.3 0 0 - 0 0 - 2 1 3 1 1 1 3 6 8
+p604
+aVElliot Perry MIL 12/07/1997 MIL vs. SEA W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 -2
+p605
+aVMichael Curry MIL 12/07/1997 MIL vs. SEA W 18 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 0 1 0 2 2 -7
+p606
+aVRicky Pierce MIL 12/07/1997 MIL vs. SEA W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p607
+aVJamie Feick MIL 12/07/1997 MIL vs. SEA W 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 0
+p608
+aVRay Allen MIL 12/07/1997 MIL vs. SEA W 39 20 9 17 52.9 0 4 0.0 2 3 66.7 1 3 4 3 0 0 4 3 12
+p609
+aVArmen Gilliam MIL 12/07/1997 MIL vs. SEA W 43 19 5 13 38.5 0 0 - 9 11 81.8 7 4 11 3 0 1 2 4 7
+p610
+aVTerrell Brandon MIL 12/07/1997 MIL vs. SEA W 42 20 8 19 42.1 0 2 0.0 4 4 100.0 2 5 7 13 3 2 0 2 8
+p611
+aVRay Allen MIL 12/05/1997 MIL @ CHI L 34 8 2 9 22.2 1 3 33.3 3 4 75.0 2 6 8 1 0 1 3 2 -25
+p612
+aVErvin Johnson MIL 12/05/1997 MIL @ CHI L 16 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 1 4 3 -23
+p613
+aVJamie Feick MIL 12/05/1997 MIL @ CHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p614
+aVElliot Perry MIL 12/05/1997 MIL @ CHI L 15 4 2 6 33.3 0 0 - 0 2 0.0 0 1 1 0 0 0 1 1 2
+p615
+aVAndrew Lang MIL 12/05/1997 MIL @ CHI L 17 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 3 9
+p616
+aVMichael Curry MIL 12/05/1997 MIL @ CHI L 23 2 1 3 33.3 0 0 - 0 2 0.0 0 2 2 2 0 0 0 6 4
+p617
+aVJerald Honeycutt MIL 12/05/1997 MIL @ CHI L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 0 0 -1
+p618
+aVRicky Pierce MIL 12/05/1997 MIL @ CHI L 19 12 3 6 50.0 0 0 - 6 7 85.7 2 1 3 0 0 0 1 1 3
+p619
+aVArmen Gilliam MIL 12/05/1997 MIL @ CHI L 44 18 7 11 63.6 0 0 - 4 6 66.7 3 10 13 2 0 0 2 1 -18
+p620
+aVTerrell Brandon MIL 12/05/1997 MIL @ CHI L 28 4 2 9 22.2 0 0 - 0 0 - 0 2 2 1 0 1 3 2 -30
+p621
+aVGlenn Robinson MIL 12/05/1997 MIL @ CHI L 33 10 4 16 25.0 0 2 0.0 2 2 100.0 0 4 4 3 2 1 3 4 -30
+p622
+aVMichael Curry MIL 12/04/1997 MIL vs. CHH W 14 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -5
+p623
+aVJerald Honeycutt MIL 12/04/1997 MIL vs. CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p624
+aVTerrell Brandon MIL 12/04/1997 MIL vs. CHH W 41 24 10 20 50.0 0 0 - 4 5 80.0 1 3 4 11 4 0 6 2 13
+p625
+aVErvin Johnson MIL 12/04/1997 MIL vs. CHH W 28 16 7 8 87.5 0 0 - 2 6 33.3 3 5 8 5 1 3 2 5 8
+p626
+aVArmen Gilliam MIL 12/04/1997 MIL vs. CHH W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -8
+p627
+aVElliot Perry MIL 12/04/1997 MIL vs. CHH W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 -3
+p628
+aVRay Allen MIL 12/04/1997 MIL vs. CHH W 42 22 8 13 61.5 2 4 50.0 4 4 100.0 1 4 5 5 0 0 4 2 13
+p629
+aVAndrew Lang MIL 12/04/1997 MIL vs. CHH W 17 2 1 3 33.3 0 0 - 0 2 0.0 2 4 6 0 0 0 2 2 3
+p630
+aVTyrone Hill MIL 12/04/1997 MIL vs. CHH W 44 18 8 10 80.0 0 0 - 2 2 100.0 3 8 11 1 1 3 1 3 19
+p631
+aVJamie Feick MIL 12/04/1997 MIL vs. CHH W 3 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -2
+p632
+aVGlenn Robinson MIL 12/04/1997 MIL vs. CHH W 40 16 7 13 53.8 0 0 - 2 5 40.0 1 4 5 3 1 0 3 3 13
+p633
+aVAndrew Lang MIL 12/02/1997 MIL vs. PHX L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p634
+aVGlenn Robinson MIL 12/02/1997 MIL vs. PHX L 37 17 8 19 42.1 1 1 100.0 0 0 - 1 0 1 6 3 0 4 3 -2
+p635
+aVRay Allen MIL 12/02/1997 MIL vs. PHX L 41 8 3 11 27.3 0 1 0.0 2 2 100.0 2 5 7 5 0 0 4 3 -11
+p636
+aVErvin Johnson MIL 12/02/1997 MIL vs. PHX L 32 11 5 9 55.6 0 0 - 1 3 33.3 1 4 5 3 1 3 0 6 4
+p637
+aVMichael Curry MIL 12/02/1997 MIL vs. PHX L 18 6 1 2 50.0 0 0 - 4 4 100.0 0 3 3 2 2 0 0 4 5
+p638
+aVArmen Gilliam MIL 12/02/1997 MIL vs. PHX L 22 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 0 2 2 -4
+p639
+aVTerrell Brandon MIL 12/02/1997 MIL vs. PHX L 38 23 9 21 42.9 1 3 33.3 4 5 80.0 0 1 1 3 2 0 6 0 -1
+p640
+aVTyrone Hill MIL 12/02/1997 MIL vs. PHX L 38 9 4 5 80.0 0 0 - 1 2 50.0 4 6 10 0 2 1 2 4 -2
+p641
+aVElliot Perry MIL 12/02/1997 MIL vs. PHX L 10 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 1 -3
+p642
+aVMichael Curry MIL 11/29/1997 MIL @ MIA W 19 4 1 2 50.0 0 0 - 2 3 66.7 1 1 2 2 0 0 2 3 12
+p643
+aVRay Allen MIL 11/29/1997 MIL @ MIA W 44 24 8 18 44.4 3 6 50.0 5 5 100.0 0 3 3 2 0 0 6 3 8
+p644
+aVTerrell Brandon MIL 11/29/1997 MIL @ MIA W 30 19 8 13 61.5 0 2 0.0 3 3 100.0 0 4 4 5 2 0 3 4 -4
+p645
+aVJamie Feick MIL 11/29/1997 MIL @ MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p646
+aVArmen Gilliam MIL 11/29/1997 MIL @ MIA W 16 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -5
+p647
+aVAndrew Lang MIL 11/29/1997 MIL @ MIA W 19 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 1 1 2 1 -13
+p648
+aVElliot Perry MIL 11/29/1997 MIL @ MIA W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 2
+p649
+aVErvin Johnson MIL 11/29/1997 MIL @ MIA W 29 6 3 6 50.0 0 0 - 0 2 0.0 4 6 10 0 1 3 1 5 20
+p650
+aVGlenn Robinson MIL 11/29/1997 MIL @ MIA W 42 18 7 16 43.8 0 0 - 4 4 100.0 1 5 6 4 1 1 6 2 -1
+p651
+aVTyrone Hill MIL 11/29/1997 MIL @ MIA W 27 10 3 6 50.0 0 0 - 4 5 80.0 2 4 6 1 0 0 0 5 14
+p652
+aVErvin Johnson MIL 11/28/1997 MIL @ ORL L 17 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 3 2 1 4 -8
+p653
+aVElliot Perry MIL 11/28/1997 MIL @ ORL L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p654
+aVGlenn Robinson MIL 11/28/1997 MIL @ ORL L 44 29 10 22 45.5 1 2 50.0 8 8 100.0 1 5 6 4 1 1 1 4 -1
+p655
+aVArmen Gilliam MIL 11/28/1997 MIL @ ORL L 14 5 2 3 66.7 0 0 - 1 4 25.0 1 4 5 0 1 0 1 1 8
+p656
+aVAndrew Lang MIL 11/28/1997 MIL @ ORL L 29 11 4 5 80.0 0 0 - 3 4 75.0 3 5 8 1 1 0 2 2 9
+p657
+aVRay Allen MIL 11/28/1997 MIL @ ORL L 39 16 5 17 29.4 2 6 33.3 4 4 100.0 2 3 5 1 1 0 2 1 -13
+p658
+aVTyrone Hill MIL 11/28/1997 MIL @ ORL L 37 12 2 5 40.0 0 0 - 8 11 72.7 5 3 8 2 1 0 2 4 -15
+p659
+aVTerrell Brandon MIL 11/28/1997 MIL @ ORL L 38 13 6 18 33.3 1 1 100.0 0 0 - 1 2 3 4 2 0 5 5 -5
+p660
+aVMichael Curry MIL 11/28/1997 MIL @ ORL L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 4
+p661
+aVJeff Nordgaard MIL 11/26/1997 MIL vs. VAN W 3 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 1
+p662
+aVElliot Perry MIL 11/26/1997 MIL vs. VAN W 17 7 3 6 50.0 0 1 0.0 1 1 100.0 1 1 2 3 0 0 3 1 1
+p663
+aVTyrone Hill MIL 11/26/1997 MIL vs. VAN W 35 8 1 5 20.0 0 0 - 6 6 100.0 3 6 9 2 1 0 2 4 6
+p664
+aVJerald Honeycutt MIL 11/26/1997 MIL vs. VAN W 3 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 1
+p665
+aVArmen Gilliam MIL 11/26/1997 MIL vs. VAN W 27 14 5 8 62.5 0 1 0.0 4 6 66.7 3 8 11 1 4 0 3 3 12
+p666
+aVGlenn Robinson MIL 11/26/1997 MIL vs. VAN W 41 25 12 21 57.1 0 0 - 1 2 50.0 0 3 3 2 2 3 2 2 19
+p667
+aVJamie Feick MIL 11/26/1997 MIL vs. VAN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p668
+aVErvin Johnson MIL 11/26/1997 MIL vs. VAN W 25 8 4 5 80.0 0 0 - 0 0 - 4 8 12 0 3 4 2 4 15
+p669
+aVMichael Curry MIL 11/26/1997 MIL vs. VAN W 18 5 1 3 33.3 0 0 - 3 5 60.0 0 1 1 0 1 0 0 3 7
+p670
+aVTerrell Brandon MIL 11/26/1997 MIL vs. VAN W 28 14 6 13 46.2 1 2 50.0 1 2 50.0 0 1 1 9 1 0 2 3 20
+p671
+aVRay Allen MIL 11/26/1997 MIL vs. VAN W 36 14 5 12 41.7 1 2 50.0 3 3 100.0 1 4 5 4 1 0 2 3 10
+p672
+aVAndrew Lang MIL 11/26/1997 MIL vs. VAN W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 0 2
+p673
+aVElliot Perry MIL 11/22/1997 MIL @ DAL W 15 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 3 0 2 0 -10
+p674
+aVJeff Nordgaard MIL 11/22/1997 MIL @ DAL W 2 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p675
+aVAndrew Lang MIL 11/22/1997 MIL @ DAL W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 3
+p676
+aVRay Allen MIL 11/22/1997 MIL @ DAL W 31 17 8 13 61.5 0 2 0.0 1 1 100.0 0 3 3 3 2 0 2 0 18
+p677
+aVTyrone Hill MIL 11/22/1997 MIL @ DAL W 31 4 2 7 28.6 0 0 - 0 0 - 4 8 12 0 2 0 3 2 24
+p678
+aVTerrell Brandon MIL 11/22/1997 MIL @ DAL W 33 18 7 13 53.8 0 2 0.0 4 6 66.7 1 4 5 7 3 0 3 0 31
+p679
+aVMichael Curry MIL 11/22/1997 MIL @ DAL W 25 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 1 0 1 -2
+p680
+aVArmen Gilliam MIL 11/22/1997 MIL @ DAL W 22 12 6 8 75.0 0 0 - 0 0 - 2 5 7 0 2 2 0 2 0
+p681
+aVJerald Honeycutt MIL 11/22/1997 MIL @ DAL W 3 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 1 0 1 1 -2
+p682
+aVJamie Feick MIL 11/22/1997 MIL @ DAL W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -8
+p683
+aVErvin Johnson MIL 11/22/1997 MIL @ DAL W 26 8 3 5 60.0 0 0 - 2 7 28.6 1 10 11 2 0 4 2 1 23
+p684
+aVGlenn Robinson MIL 11/22/1997 MIL @ DAL W 34 16 8 21 38.1 0 1 0.0 0 1 0.0 2 6 8 4 0 0 4 2 28
+p685
+aVElliot Perry MIL 11/20/1997 MIL vs. IND L 18 2 1 6 16.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p686
+aVJerald Honeycutt MIL 11/20/1997 MIL vs. IND L 4 1 0 4 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p687
+aVErvin Johnson MIL 11/20/1997 MIL vs. IND L 23 4 2 9 22.2 0 0 - 0 0 - 3 3 6 0 1 2 1 3 -18
+p688
+aVTerrell Brandon MIL 11/20/1997 MIL vs. IND L 30 15 7 15 46.7 0 3 0.0 1 1 100.0 0 2 2 3 3 0 0 5 -12
+p689
+aVJamie Feick MIL 11/20/1997 MIL vs. IND L 10 5 2 3 66.7 0 0 - 1 3 33.3 2 2 4 1 0 0 0 1 -2
+p690
+aVRay Allen MIL 11/20/1997 MIL vs. IND L 30 9 3 10 30.0 1 3 33.3 2 4 50.0 1 3 4 10 3 0 4 4 -8
+p691
+aVTyrone Hill MIL 11/20/1997 MIL vs. IND L 33 13 5 8 62.5 0 1 0.0 3 4 75.0 3 7 10 2 0 0 1 5 -17
+p692
+aVMichael Curry MIL 11/20/1997 MIL vs. IND L 20 5 1 3 33.3 0 0 - 3 4 75.0 1 0 1 1 2 0 1 2 -15
+p693
+aVGlenn Robinson MIL 11/20/1997 MIL vs. IND L 36 18 7 21 33.3 0 0 - 4 5 80.0 2 4 6 3 0 0 1 1 -18
+p694
+aVAndrew Lang MIL 11/20/1997 MIL vs. IND L 15 4 0 4 0.0 0 0 - 4 4 100.0 0 1 1 0 0 1 0 2 -6
+p695
+aVJeff Nordgaard MIL 11/20/1997 MIL vs. IND L 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -9
+p696
+aVArmen Gilliam MIL 11/20/1997 MIL vs. IND L 15 5 2 4 50.0 0 0 - 1 1 100.0 1 2 3 0 0 0 1 0 -9
+p697
+aVArmen Gilliam MIL 11/18/1997 MIL vs. DET W 8 4 0 3 0.0 0 0 - 4 4 100.0 2 0 2 1 1 0 0 1 2
+p698
+aVRay Allen MIL 11/18/1997 MIL vs. DET W 42 21 7 20 35.0 2 5 40.0 5 6 83.3 3 4 7 1 0 0 2 1 15
+p699
+aVAndrew Lang MIL 11/18/1997 MIL vs. DET W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 4 -8
+p700
+aVGlenn Robinson MIL 11/18/1997 MIL vs. DET W 44 17 7 18 38.9 0 0 - 3 4 75.0 1 6 7 5 1 0 3 3 4
+p701
+aVErvin Johnson MIL 11/18/1997 MIL vs. DET W 30 5 2 3 66.7 0 0 - 1 2 50.0 4 3 7 2 1 1 2 6 17
+p702
+aVTerrell Brandon MIL 11/18/1997 MIL vs. DET W 40 21 9 19 47.4 0 0 - 3 3 100.0 1 5 6 2 3 0 2 2 6
+p703
+aVElliot Perry MIL 11/18/1997 MIL vs. DET W 10 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p704
+aVTyrone Hill MIL 11/18/1997 MIL vs. DET W 35 11 3 4 75.0 0 0 - 5 10 50.0 5 12 17 2 1 0 2 4 7
+p705
+aVMichael Curry MIL 11/18/1997 MIL vs. DET W 21 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 1 2 0 0 3 1
+p706
+aVTerrell Brandon MIL 11/16/1997 MIL @ SEA L 34 16 7 16 43.8 2 5 40.0 0 0 - 1 1 2 6 1 0 1 2 -8
+p707
+aVElliot Perry MIL 11/16/1997 MIL @ SEA L 14 8 4 8 50.0 0 2 0.0 0 0 - 0 1 1 1 2 0 1 3 -12
+p708
+aVGlenn Robinson MIL 11/16/1997 MIL @ SEA L 40 18 8 16 50.0 2 3 66.7 0 0 - 0 5 5 5 0 2 3 4 -15
+p709
+aVJamie Feick MIL 11/16/1997 MIL @ SEA L 34 6 2 4 50.0 0 0 - 2 4 50.0 4 2 6 1 4 0 0 2 -2
+p710
+aVErvin Johnson MIL 11/16/1997 MIL @ SEA L 23 10 4 5 80.0 0 0 - 2 4 50.0 1 1 2 0 0 1 0 3 -27
+p711
+aVJeff Nordgaard MIL 11/16/1997 MIL @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p712
+aVArmen Gilliam MIL 11/16/1997 MIL @ SEA L 16 4 1 2 50.0 0 0 - 2 4 50.0 0 2 2 0 2 0 3 3 -23
+p713
+aVRay Allen MIL 11/16/1997 MIL @ SEA L 39 21 7 12 58.3 2 5 40.0 5 5 100.0 1 1 2 3 0 0 6 4 -9
+p714
+aVMichael Curry MIL 11/16/1997 MIL @ SEA L 20 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 0 0 0 2 1 -18
+p715
+aVJerald Honeycutt MIL 11/16/1997 MIL @ SEA L 12 6 2 4 50.0 1 2 50.0 1 3 33.3 2 1 3 3 0 0 1 3 15
+p716
+aVTim Breaux MIL 11/16/1997 MIL @ SEA L 5 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 0
+p717
+aVTerrell Brandon MIL 11/15/1997 MIL @ VAN L 39 22 10 16 62.5 0 2 0.0 2 2 100.0 0 3 3 13 2 0 7 3 -11
+p718
+aVJamie Feick MIL 11/15/1997 MIL @ VAN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 4
+p719
+aVRay Allen MIL 11/15/1997 MIL @ VAN L 40 20 7 12 58.3 2 4 50.0 4 4 100.0 1 4 5 3 1 0 4 4 -1
+p720
+aVTyrone Hill MIL 11/15/1997 MIL @ VAN L 41 4 2 6 33.3 0 0 - 0 0 - 4 7 11 3 2 1 6 4 -15
+p721
+aVMichael Curry MIL 11/15/1997 MIL @ VAN L 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -11
+p722
+aVGlenn Robinson MIL 11/15/1997 MIL @ VAN L 40 15 6 18 33.3 0 0 - 3 4 75.0 1 7 8 3 3 1 3 4 -20
+p723
+aVArmen Gilliam MIL 11/15/1997 MIL @ VAN L 13 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -6
+p724
+aVErvin Johnson MIL 11/15/1997 MIL @ VAN L 36 15 6 6 100.0 0 0 - 3 5 60.0 0 2 2 1 3 2 3 5 -11
+p725
+aVElliot Perry MIL 11/15/1997 MIL @ VAN L 9 10 3 5 60.0 1 1 100.0 3 4 75.0 0 0 0 0 2 0 0 2 -4
+p726
+aVErvin Johnson MIL 11/13/1997 MIL @ LAC W 22 1 0 3 0.0 0 0 - 1 2 50.0 1 5 6 1 1 2 2 4 -7
+p727
+aVArmen Gilliam MIL 11/13/1997 MIL @ LAC W 23 15 5 7 71.4 0 0 - 5 6 83.3 3 2 5 1 0 0 0 4 13
+p728
+aVRay Allen MIL 11/13/1997 MIL @ LAC W 42 23 7 13 53.8 0 1 0.0 9 9 100.0 2 1 3 2 1 1 3 2 4
+p729
+aVTerrell Brandon MIL 11/13/1997 MIL @ LAC W 32 7 3 10 30.0 0 1 0.0 1 2 50.0 0 0 0 5 2 2 2 1 1
+p730
+aVTyrone Hill MIL 11/13/1997 MIL @ LAC W 36 4 2 8 25.0 0 0 - 0 0 - 3 8 11 1 2 1 4 5 -3
+p731
+aVJeff Nordgaard MIL 11/13/1997 MIL @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 0 0 3
+p732
+aVGlenn Robinson MIL 11/13/1997 MIL @ LAC W 38 32 14 27 51.9 1 1 100.0 3 4 75.0 3 4 7 0 2 0 4 1 3
+p733
+aVMichael Curry MIL 11/13/1997 MIL @ LAC W 13 10 3 4 75.0 0 0 - 4 4 100.0 0 2 2 0 1 1 0 4 8
+p734
+aVElliot Perry MIL 11/13/1997 MIL @ LAC W 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 7
+p735
+aVJamie Feick MIL 11/13/1997 MIL @ LAC W 15 6 3 4 75.0 0 0 - 0 0 - 1 4 5 1 2 1 1 1 11
+p736
+aVGlenn Robinson MIL 11/12/1997 MIL @ PHX L 39 31 15 24 62.5 0 2 0.0 1 1 100.0 3 2 5 2 2 0 4 3 -12
+p737
+aVElliot Perry MIL 11/12/1997 MIL @ PHX L 18 6 3 4 75.0 0 0 - 0 0 - 0 0 0 3 1 0 1 1 -2
+p738
+aVTyrone Hill MIL 11/12/1997 MIL @ PHX L 36 14 6 9 66.7 0 0 - 2 3 66.7 2 6 8 0 0 0 1 2 -10
+p739
+aVArmen Gilliam MIL 11/12/1997 MIL @ PHX L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 4 0
+p740
+aVErvin Johnson MIL 11/12/1997 MIL @ PHX L 37 16 5 7 71.4 0 0 - 6 6 100.0 2 4 6 1 2 1 3 3 0
+p741
+aVTerrell Brandon MIL 11/12/1997 MIL @ PHX L 35 10 5 13 38.5 0 2 0.0 0 0 - 0 2 2 8 3 0 3 4 -11
+p742
+aVRay Allen MIL 11/12/1997 MIL @ PHX L 39 14 5 15 33.3 1 4 25.0 3 3 100.0 0 5 5 7 4 0 2 3 0
+p743
+aVMichael Curry MIL 11/12/1997 MIL @ PHX L 14 2 1 5 20.0 0 0 - 0 0 - 0 0 0 3 2 0 1 4 -3
+p744
+aVJamie Feick MIL 11/12/1997 MIL @ PHX L 11 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 2 1 -2
+p745
+aVTerrell Brandon MIL 11/08/1997 MIL vs. BOS W 41 18 6 15 40.0 0 0 - 6 7 85.7 0 0 0 11 2 1 2 2 11
+p746
+aVElliot Perry MIL 11/08/1997 MIL vs. BOS W 7 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 0
+p747
+aVRay Allen MIL 11/08/1997 MIL vs. BOS W 45 20 6 12 50.0 1 3 33.3 7 8 87.5 1 2 3 6 4 0 6 2 11
+p748
+aVErvin Johnson MIL 11/08/1997 MIL vs. BOS W 30 9 4 9 44.4 0 0 - 1 3 33.3 5 4 9 3 1 1 1 3 9
+p749
+aVJeff Nordgaard MIL 11/08/1997 MIL vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p750
+aVArmen Gilliam MIL 11/08/1997 MIL vs. BOS W 21 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 1 0 1 1 11
+p751
+aVJamie Feick MIL 11/08/1997 MIL vs. BOS W 5 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 0 1 0 0 0 -6
+p752
+aVMichael Curry MIL 11/08/1997 MIL vs. BOS W 20 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 1 1 0 1 5 9
+p753
+aVGlenn Robinson MIL 11/08/1997 MIL vs. BOS W 41 31 13 19 68.4 2 2 100.0 3 3 100.0 2 5 7 4 2 2 6 3 4
+p754
+aVTim Breaux MIL 11/08/1997 MIL vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p755
+aVTyrone Hill MIL 11/08/1997 MIL vs. BOS W 29 13 6 8 75.0 0 0 - 1 2 50.0 2 6 8 0 0 0 0 5 -2
+p756
+aVGlenn Robinson MIL 11/06/1997 MIL vs. PHI W 40 21 7 16 43.8 0 1 0.0 7 9 77.8 2 3 5 4 2 0 4 2 13
+p757
+aVRay Allen MIL 11/06/1997 MIL vs. PHI W 29 16 5 12 41.7 1 3 33.3 5 5 100.0 0 4 4 5 1 0 3 5 10
+p758
+aVArmen Gilliam MIL 11/06/1997 MIL vs. PHI W 23 12 3 7 42.9 0 0 - 6 6 100.0 2 3 5 2 1 0 1 1 12
+p759
+aVElliot Perry MIL 11/06/1997 MIL vs. PHI W 13 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 1 2 0 3 2 -2
+p760
+aVMichael Curry MIL 11/06/1997 MIL vs. PHI W 25 4 1 3 33.3 0 1 0.0 2 5 40.0 2 0 2 0 0 0 1 1 -9
+p761
+aVTim Breaux MIL 11/06/1997 MIL vs. PHI W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 0
+p762
+aVJamie Feick MIL 11/06/1997 MIL vs. PHI W 30 4 2 3 66.7 0 0 - 0 4 0.0 4 5 9 3 2 4 2 4 1
+p763
+aVTerrell Brandon MIL 11/06/1997 MIL vs. PHI W 35 22 8 14 57.1 0 0 - 6 7 85.7 2 4 6 8 1 1 2 5 9
+p764
+aVTyrone Hill MIL 11/06/1997 MIL vs. PHI W 43 12 6 13 46.2 0 0 - 0 4 0.0 7 3 10 2 1 0 0 6 1
+p765
+aVGlenn Robinson MIL 11/04/1997 MIL vs. ORL W 30 10 3 7 42.9 0 0 - 4 4 100.0 1 2 3 3 0 1 1 0 31
+p766
+aVElliot Perry MIL 11/04/1997 MIL vs. ORL W 21 12 4 8 50.0 0 1 0.0 4 4 100.0 0 2 2 1 3 0 3 1 5
+p767
+aVRay Allen MIL 11/04/1997 MIL vs. ORL W 25 20 9 18 50.0 0 4 0.0 2 4 50.0 2 0 2 0 1 0 0 2 15
+p768
+aVJeff Nordgaard MIL 11/04/1997 MIL vs. ORL W 12 3 1 3 33.3 0 0 - 1 1 100.0 1 3 4 0 1 0 1 1 2
+p769
+aVTyrone Hill MIL 11/04/1997 MIL vs. ORL W 26 9 3 9 33.3 0 0 - 3 4 75.0 3 6 9 2 1 1 2 3 30
+p770
+aVMichael Curry MIL 11/04/1997 MIL vs. ORL W 19 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 2 15
+p771
+aVJamie Feick MIL 11/04/1997 MIL vs. ORL W 18 6 3 4 75.0 0 0 - 0 0 - 3 5 8 0 1 0 0 4 29
+p772
+aVJerald Honeycutt MIL 11/04/1997 MIL vs. ORL W 4 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 0 0 0 0 3 -3
+p773
+aVTim Breaux MIL 11/04/1997 MIL vs. ORL W 16 5 2 5 40.0 0 1 0.0 1 2 50.0 0 2 2 1 1 1 1 1 5
+p774
+aVTerrell Brandon MIL 11/04/1997 MIL vs. ORL W 27 15 7 11 63.6 1 1 100.0 0 0 - 0 5 5 5 6 0 0 1 29
+p775
+aVErvin Johnson MIL 11/04/1997 MIL vs. ORL W 17 5 2 4 50.0 0 0 - 1 1 100.0 0 4 4 0 0 2 0 4 6
+p776
+aVArmen Gilliam MIL 11/04/1997 MIL vs. ORL W 24 12 5 6 83.3 0 0 - 2 2 100.0 1 3 4 4 1 0 2 4 6
+p777
+aVRay Allen MIL 11/01/1997 MIL vs. NJN L 42 26 9 19 47.4 3 3 100.0 5 6 83.3 0 4 4 4 2 0 2 6 -2
+p778
+aVTerrell Brandon MIL 11/01/1997 MIL vs. NJN L 45 19 7 16 43.8 1 2 50.0 4 6 66.7 0 6 6 7 3 0 7 5 3
+p779
+aVTim Breaux MIL 11/01/1997 MIL vs. NJN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p780
+aVElliot Perry MIL 11/01/1997 MIL vs. NJN L 8 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 1 1 -7
+p781
+aVErvin Johnson MIL 11/01/1997 MIL vs. NJN L 45 14 3 6 50.0 0 0 - 8 8 100.0 3 11 14 3 1 3 3 5 0
+p782
+aVGlenn Robinson MIL 11/01/1997 MIL vs. NJN L 44 32 11 19 57.9 0 0 - 10 13 76.9 2 2 4 3 2 0 2 3 -4
+p783
+aVMichael Curry MIL 11/01/1997 MIL vs. NJN L 18 5 1 4 25.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 4 2
+p784
+aVTyrone Hill MIL 11/01/1997 MIL vs. NJN L 41 8 3 7 42.9 0 0 - 2 6 33.3 2 2 4 1 1 2 4 6 -6
+p785
+aVArmen Gilliam MIL 11/01/1997 MIL vs. NJN L 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p786
+aVMichael Curry MIL 10/31/1997 MIL @ PHI W 26 6 1 3 33.3 0 0 - 4 4 100.0 0 0 0 0 0 0 0 3 11
+p787
+aVElliot Perry MIL 10/31/1997 MIL @ PHI W 21 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 6 1 0 0 1 8
+p788
+aVRay Allen MIL 10/31/1997 MIL @ PHI W 41 29 10 20 50.0 6 9 66.7 3 3 100.0 0 4 4 5 2 1 2 2 9
+p789
+aVJamie Feick MIL 10/31/1997 MIL @ PHI W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 1 1 2 2
+p790
+aVArmen Gilliam MIL 10/31/1997 MIL @ PHI W 27 8 4 10 40.0 0 0 - 0 0 - 3 5 8 1 2 2 2 2 6
+p791
+aVTerrell Brandon MIL 10/31/1997 MIL @ PHI W 26 16 6 9 66.7 1 3 33.3 3 4 75.0 0 2 2 9 4 0 3 4 7
+p792
+aVJerald Honeycutt MIL 10/31/1997 MIL @ PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p793
+aVTim Breaux MIL 10/31/1997 MIL @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p794
+aVTyrone Hill MIL 10/31/1997 MIL @ PHI W 32 4 0 3 0.0 0 0 - 4 6 66.7 3 5 8 5 1 2 3 6 7
+p795
+aVJeff Nordgaard MIL 10/31/1997 MIL @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p796
+aVErvin Johnson MIL 10/31/1997 MIL @ PHI W 21 10 5 7 71.4 0 0 - 0 0 - 1 8 9 0 2 1 2 4 9
+p797
+aVGlenn Robinson MIL 10/31/1997 MIL @ PHI W 39 20 9 15 60.0 0 0 - 2 2 100.0 1 5 6 5 3 0 1 4 16
+p798
+a.

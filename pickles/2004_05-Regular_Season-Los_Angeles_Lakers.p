@@ -1,0 +1,1688 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSasha Vujacic LAL 04/20/2005 LAL @ POR L 39 0 0 8 0.0 0 6 0.0 0 0 - 0 2 2 7 0 2 1 2 -7
+p2
+aVJumaine Jones LAL 04/20/2005 LAL @ POR L 37 6 3 13 23.1 0 4 0.0 0 0 - 2 7 9 2 2 1 1 4 0
+p3
+aVDevean George LAL 04/20/2005 LAL @ POR L 27 15 5 8 62.5 3 5 60.0 2 3 66.7 0 4 4 1 3 0 0 4 -5
+p4
+aVBrian Grant LAL 04/20/2005 LAL @ POR L 12 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -8
+p5
+aVKobe Bryant LAL 04/20/2005 LAL @ POR L 37 37 10 20 50.0 0 5 0.0 17 21 81.0 3 2 5 4 0 0 6 2 5
+p6
+aVChris Mihm LAL 04/20/2005 LAL @ POR L 30 12 5 9 55.6 0 0 - 2 3 66.7 4 6 10 0 0 0 2 2 -2
+p7
+aVBrian Cook LAL 04/20/2005 LAL @ POR L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 1 4
+p8
+aVChucky Atkins LAL 04/20/2005 LAL @ POR L 43 23 9 16 56.3 5 10 50.0 0 0 - 1 1 2 7 1 0 2 1 0
+p9
+aVSlava Medvedenko LAL 04/20/2005 LAL @ POR L 8 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -2
+p10
+aVChucky Atkins LAL 04/18/2005 LAL @ GSW L 27 12 4 9 44.4 4 6 66.7 0 0 - 0 0 0 2 1 0 1 2 -13
+p11
+aVSasha Vujacic LAL 04/18/2005 LAL @ GSW L 24 0 0 8 0.0 0 3 0.0 0 0 - 3 2 5 7 1 0 1 1 -21
+p12
+aVSlava Medvedenko LAL 04/18/2005 LAL @ GSW L 12 4 1 6 16.7 0 0 - 2 2 100.0 3 2 5 1 0 0 1 3 -6
+p13
+aVLuke Walton LAL 04/18/2005 LAL @ GSW L 32 8 2 5 40.0 0 2 0.0 4 6 66.7 1 5 6 5 1 0 1 3 -5
+p14
+aVBrian Grant LAL 04/18/2005 LAL @ GSW L 15 6 3 7 42.9 0 0 - 0 2 0.0 1 1 2 0 1 0 0 1 -25
+p15
+aVBrian Cook LAL 04/18/2005 LAL @ GSW L 20 19 8 14 57.1 2 5 40.0 1 1 100.0 2 3 5 0 0 0 0 2 -19
+p16
+aVKobe Bryant LAL 04/18/2005 LAL @ GSW L 37 22 9 27 33.3 0 4 0.0 4 6 66.7 3 3 6 5 1 0 6 2 -21
+p17
+aVJumaine Jones LAL 04/18/2005 LAL @ GSW L 35 18 6 10 60.0 4 7 57.1 2 2 100.0 4 7 11 1 5 0 1 2 -2
+p18
+aVChris Mihm LAL 04/18/2005 LAL @ GSW L 21 10 5 7 71.4 0 0 - 0 0 - 4 5 9 1 0 1 2 4 4
+p19
+aVDevean George LAL 04/18/2005 LAL @ GSW L 17 0 0 9 0.0 0 3 0.0 0 0 - 4 1 5 2 0 0 1 1 -27
+p20
+aVChucky Atkins LAL 04/17/2005 LAL vs. DAL L 33 10 3 9 33.3 2 5 40.0 2 2 100.0 1 2 3 6 1 0 3 1 -14
+p21
+aVLuke Walton LAL 04/17/2005 LAL vs. DAL L 21 12 5 7 71.4 2 3 66.7 0 1 0.0 2 3 5 2 1 0 4 5 11
+p22
+aVSasha Vujacic LAL 04/17/2005 LAL vs. DAL L 20 7 2 9 22.2 1 4 25.0 2 2 100.0 0 0 0 4 2 0 1 1 12
+p23
+aVChris Mihm LAL 04/17/2005 LAL vs. DAL L 25 13 6 12 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 4 -17
+p24
+aVVlade Divac LAL 04/17/2005 LAL vs. DAL L 8 3 1 2 50.0 0 0 - 1 1 100.0 2 3 5 3 1 0 1 0 10
+p25
+aVCaron Butler LAL 04/17/2005 LAL vs. DAL L 29 10 4 12 33.3 0 0 - 2 2 100.0 3 3 6 2 2 0 0 3 -16
+p26
+aVDevean George LAL 04/17/2005 LAL vs. DAL L 19 10 3 6 50.0 2 3 66.7 2 2 100.0 0 3 3 1 0 0 0 3 12
+p27
+aVBrian Grant LAL 04/17/2005 LAL vs. DAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p28
+aVKobe Bryant LAL 04/17/2005 LAL vs. DAL L 35 33 9 15 60.0 5 9 55.6 10 11 90.9 4 3 7 9 2 0 8 2 -2
+p29
+aVJumaine Jones LAL 04/17/2005 LAL vs. DAL L 43 14 5 13 38.5 2 5 40.0 2 4 50.0 4 5 9 3 1 0 3 5 -4
+p30
+aVCaron Butler LAL 04/15/2005 LAL vs. SAC L 44 34 11 20 55.0 0 1 0.0 12 13 92.3 4 2 6 6 1 1 2 4 -8
+p31
+aVJumaine Jones LAL 04/15/2005 LAL vs. SAC L 34 17 7 11 63.6 2 5 40.0 1 2 50.0 0 3 3 0 3 0 2 4 -12
+p32
+aVLuke Walton LAL 04/15/2005 LAL vs. SAC L 35 10 3 10 30.0 0 2 0.0 4 4 100.0 3 9 12 9 2 0 3 3 -8
+p33
+aVBrian Grant LAL 04/15/2005 LAL vs. SAC L 21 1 0 1 0.0 0 0 - 1 2 50.0 3 3 6 1 0 0 1 5 3
+p34
+aVSlava Medvedenko LAL 04/15/2005 LAL vs. SAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p35
+aVBrian Cook LAL 04/15/2005 LAL vs. SAC L 3 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p36
+aVDevean George LAL 04/15/2005 LAL vs. SAC L 20 12 3 9 33.3 2 6 33.3 4 5 80.0 1 5 6 1 1 1 1 2 1
+p37
+aVVlade Divac LAL 04/15/2005 LAL vs. SAC L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 3 2 1
+p38
+aVSasha Vujacic LAL 04/15/2005 LAL vs. SAC L 14 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 0 0 0 1 3 7
+p39
+aVChucky Atkins LAL 04/15/2005 LAL vs. SAC L 36 10 5 15 33.3 0 5 0.0 0 1 0.0 0 1 1 5 0 0 1 2 -16
+p40
+aVChris Mihm LAL 04/15/2005 LAL vs. SAC L 25 15 4 5 80.0 0 0 - 7 10 70.0 2 2 4 2 0 0 3 2 -10
+p41
+aVKobe Bryant LAL 04/11/2005 LAL vs. PHX L 38 20 8 17 47.1 0 3 0.0 4 5 80.0 2 3 5 10 1 2 5 2 -30
+p42
+aVDevean George LAL 04/11/2005 LAL vs. PHX L 28 9 4 8 50.0 1 4 25.0 0 0 - 0 5 5 1 0 0 0 2 1
+p43
+aVLuke Walton LAL 04/11/2005 LAL vs. PHX L 16 10 4 4 100.0 0 0 - 2 2 100.0 3 1 4 1 0 1 3 0 7
+p44
+aVVlade Divac LAL 04/11/2005 LAL vs. PHX L 16 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 2 0 0 2 2 -9
+p45
+aVTierre Brown LAL 04/11/2005 LAL vs. PHX L 8 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 1 2 0 0 0 9
+p46
+aVJumaine Jones LAL 04/11/2005 LAL vs. PHX L 20 10 4 10 40.0 2 6 33.3 0 0 - 0 5 5 0 0 0 0 0 -12
+p47
+aVBrian Grant LAL 04/11/2005 LAL vs. PHX L 21 4 2 8 25.0 0 0 - 0 0 - 2 5 7 1 0 0 0 3 -15
+p48
+aVCaron Butler LAL 04/11/2005 LAL vs. PHX L 46 14 5 15 33.3 0 0 - 4 5 80.0 4 7 11 2 3 0 0 1 -9
+p49
+aVSlava Medvedenko LAL 04/11/2005 LAL vs. PHX L 11 6 3 6 50.0 0 0 - 0 0 - 1 0 1 2 0 0 0 2 13
+p50
+aVChucky Atkins LAL 04/11/2005 LAL vs. PHX L 36 9 3 8 37.5 2 5 40.0 1 2 50.0 0 0 0 9 2 0 5 3 -10
+p51
+aVBrian Cook LAL 04/10/2005 LAL @ SAC L 9 6 3 6 50.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 1 5
+p52
+aVSlava Medvedenko LAL 04/10/2005 LAL @ SAC L 14 13 4 7 57.1 0 0 - 5 6 83.3 1 2 3 1 1 0 0 1 6
+p53
+aVKobe Bryant LAL 04/10/2005 LAL @ SAC L 35 18 8 17 47.1 1 4 25.0 1 2 50.0 1 3 4 6 3 1 2 2 -28
+p54
+aVJumaine Jones LAL 04/10/2005 LAL @ SAC L 20 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 1 1 1 2 -13
+p55
+aVTierre Brown LAL 04/10/2005 LAL @ SAC L 20 4 0 5 0.0 0 0 - 4 4 100.0 2 0 2 0 1 0 1 0 -6
+p56
+aVDevean George LAL 04/10/2005 LAL @ SAC L 8 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -8
+p57
+aVSasha Vujacic LAL 04/10/2005 LAL @ SAC L 13 5 1 3 33.3 1 3 33.3 2 2 100.0 1 1 2 1 1 0 1 0 3
+p58
+aVBrian Grant LAL 04/10/2005 LAL @ SAC L 27 11 4 7 57.1 0 0 - 3 3 100.0 3 2 5 2 0 0 2 4 -16
+p59
+aVCaron Butler LAL 04/10/2005 LAL @ SAC L 34 17 5 13 38.5 0 0 - 7 7 100.0 2 3 5 1 4 1 0 1 -13
+p60
+aVVlade Divac LAL 04/10/2005 LAL @ SAC L 18 8 3 5 60.0 0 0 - 2 3 66.7 1 2 3 2 0 0 0 4 -12
+p61
+aVLuke Walton LAL 04/10/2005 LAL @ SAC L 14 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 0
+p62
+aVChucky Atkins LAL 04/10/2005 LAL @ SAC L 28 15 5 11 45.5 1 2 50.0 4 4 100.0 0 3 3 9 2 0 2 2 -13
+p63
+aVBrian Grant LAL 04/08/2005 LAL @ SEA W 26 10 4 6 66.7 0 0 - 2 3 66.7 3 2 5 4 1 1 0 4 14
+p64
+aVTierre Brown LAL 04/08/2005 LAL @ SEA W 27 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 4 2 0 1 2 7
+p65
+aVDevean George LAL 04/08/2005 LAL @ SEA W 12 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 2 -3
+p66
+aVChucky Atkins LAL 04/08/2005 LAL @ SEA W 23 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 3 0 0 1 5 18
+p67
+aVJumaine Jones LAL 04/08/2005 LAL @ SEA W 39 13 6 14 42.9 1 3 33.3 0 0 - 1 11 12 5 0 0 0 3 27
+p68
+aVBrian Cook LAL 04/08/2005 LAL @ SEA W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p69
+aVCaron Butler LAL 04/08/2005 LAL @ SEA W 41 31 10 19 52.6 2 3 66.7 9 9 100.0 3 4 7 4 1 0 1 4 24
+p70
+aVSasha Vujacic LAL 04/08/2005 LAL @ SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p71
+aVKobe Bryant LAL 04/08/2005 LAL @ SEA W 40 42 15 22 68.2 7 11 63.6 5 6 83.3 1 1 2 5 2 1 3 2 17
+p72
+aVVlade Divac LAL 04/08/2005 LAL @ SEA W 21 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 4 0 0 2 4 6
+p73
+aVLuke Walton LAL 04/08/2005 LAL @ SEA W 7 2 1 4 25.0 0 2 0.0 0 0 - 2 2 4 2 0 0 0 0 1
+p74
+aVJumaine Jones LAL 04/07/2005 LAL vs. HOU L 28 9 3 9 33.3 3 6 50.0 0 0 - 0 2 2 0 1 2 0 1 -12
+p75
+aVLuke Walton LAL 04/07/2005 LAL vs. HOU L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p76
+aVSasha Vujacic LAL 04/07/2005 LAL vs. HOU L 7 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 2 0 0 1 0 5
+p77
+aVTierre Brown LAL 04/07/2005 LAL vs. HOU L 11 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 3 0 0 2 1 -8
+p78
+aVVlade Divac LAL 04/07/2005 LAL vs. HOU L 17 5 1 2 50.0 0 0 - 3 4 75.0 3 0 3 2 1 0 2 5 -15
+p79
+aVCaron Butler LAL 04/07/2005 LAL vs. HOU L 41 24 8 18 44.4 1 2 50.0 7 9 77.8 6 6 12 2 1 0 2 4 -12
+p80
+aVDevean George LAL 04/07/2005 LAL vs. HOU L 21 7 2 9 22.2 1 5 20.0 2 2 100.0 0 5 5 0 0 1 0 1 1
+p81
+aVKobe Bryant LAL 04/07/2005 LAL vs. HOU L 42 19 4 19 21.1 2 6 33.3 9 10 90.0 2 8 10 10 1 0 1 2 -13
+p82
+aVBrian Cook LAL 04/07/2005 LAL vs. HOU L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p83
+aVSlava Medvedenko LAL 04/07/2005 LAL vs. HOU L 10 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 3
+p84
+aVBrian Grant LAL 04/07/2005 LAL vs. HOU L 20 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 2 0 1 3 -2
+p85
+aVChucky Atkins LAL 04/07/2005 LAL vs. HOU L 33 15 5 10 50.0 2 5 40.0 3 3 100.0 1 3 4 1 0 0 1 0 -8
+p86
+aVBrian Cook LAL 04/05/2005 LAL @ PHX L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p87
+aVVlade Divac LAL 04/05/2005 LAL @ PHX L 9 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 0 0 0 2 -14
+p88
+aVLuke Walton LAL 04/05/2005 LAL @ PHX L 24 8 4 8 50.0 0 1 0.0 0 0 - 2 3 5 0 2 0 1 1 -12
+p89
+aVBrian Grant LAL 04/05/2005 LAL @ PHX L 24 9 2 9 22.2 0 0 - 5 6 83.3 2 4 6 0 0 0 1 3 -12
+p90
+aVCaron Butler LAL 04/05/2005 LAL @ PHX L 42 30 12 22 54.5 0 2 0.0 6 9 66.7 2 5 7 2 6 0 2 2 -22
+p91
+aVTierre Brown LAL 04/05/2005 LAL @ PHX L 16 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -14
+p92
+aVSlava Medvedenko LAL 04/05/2005 LAL @ PHX L 15 6 3 6 50.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 0
+p93
+aVJumaine Jones LAL 04/05/2005 LAL @ PHX L 21 10 4 8 50.0 2 4 50.0 0 0 - 1 3 4 1 2 0 0 1 -8
+p94
+aVChucky Atkins LAL 04/05/2005 LAL @ PHX L 32 14 6 15 40.0 0 3 0.0 2 2 100.0 0 0 0 8 1 0 2 2 -12
+p95
+aVSasha Vujacic LAL 04/05/2005 LAL @ PHX L 21 4 2 9 22.2 0 3 0.0 0 0 - 3 4 7 2 0 0 0 0 -9
+p96
+aVDevean George LAL 04/05/2005 LAL @ PHX L 28 12 4 12 33.3 4 6 66.7 0 0 - 0 3 3 0 0 0 2 2 -18
+p97
+aVChucky Atkins LAL 04/03/2005 LAL @ MEM L 35 13 5 8 62.5 3 3 100.0 0 0 - 0 1 1 5 1 0 3 1 -6
+p98
+aVBrian Grant LAL 04/03/2005 LAL @ MEM L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -5
+p99
+aVCaron Butler LAL 04/03/2005 LAL @ MEM L 41 18 8 21 38.1 0 0 - 2 4 50.0 4 4 8 5 0 0 1 3 -12
+p100
+aVBrian Cook LAL 04/03/2005 LAL @ MEM L 17 7 3 8 37.5 1 3 33.3 0 0 - 1 5 6 0 1 0 1 6 3
+p101
+aVKobe Bryant LAL 04/03/2005 LAL @ MEM L 14 9 4 8 50.0 0 3 0.0 1 1 100.0 1 2 3 0 0 0 1 1 -16
+p102
+aVSlava Medvedenko LAL 04/03/2005 LAL @ MEM L 27 10 4 9 44.4 0 0 - 2 2 100.0 1 3 4 0 1 0 0 5 -13
+p103
+aVDevean George LAL 04/03/2005 LAL @ MEM L 22 2 1 6 16.7 0 4 0.0 0 0 - 0 4 4 1 0 0 1 2 -7
+p104
+aVJumaine Jones LAL 04/03/2005 LAL @ MEM L 28 5 2 10 20.0 0 3 0.0 1 2 50.0 1 9 10 2 1 1 0 0 -19
+p105
+aVSasha Vujacic LAL 04/03/2005 LAL @ MEM L 24 10 4 7 57.1 2 5 40.0 0 0 - 0 2 2 3 1 0 1 6 4
+p106
+aVLuke Walton LAL 04/03/2005 LAL @ MEM L 13 4 2 4 50.0 0 0 - 0 0 - 1 0 1 2 0 0 2 1 -15
+p107
+aVTierre Brown LAL 04/03/2005 LAL @ MEM L 14 4 0 5 0.0 0 1 0.0 4 4 100.0 0 0 0 1 0 0 0 1 -14
+p108
+aVCaron Butler LAL 04/02/2005 LAL @ SAS L 45 27 11 21 52.4 1 2 50.0 4 5 80.0 1 5 6 2 2 1 3 2 3
+p109
+aVDevean George LAL 04/02/2005 LAL @ SAS L 26 8 3 6 50.0 2 4 50.0 0 0 - 1 2 3 3 1 0 2 3 7
+p110
+aVBrian Grant LAL 04/02/2005 LAL @ SAS L 21 10 5 8 62.5 0 0 - 0 0 - 2 2 4 0 0 0 1 5 0
+p111
+aVTierre Brown LAL 04/02/2005 LAL @ SAS L 20 6 2 7 28.6 1 1 100.0 1 2 50.0 1 3 4 2 2 0 0 1 9
+p112
+aVChris Mihm LAL 04/02/2005 LAL @ SAS L 18 8 3 6 50.0 0 0 - 2 5 40.0 4 2 6 1 0 4 2 2 4
+p113
+aVSlava Medvedenko LAL 04/02/2005 LAL @ SAS L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -5
+p114
+aVChucky Atkins LAL 04/02/2005 LAL @ SAS L 28 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 2 -10
+p115
+aVJumaine Jones LAL 04/02/2005 LAL @ SAS L 21 4 2 6 33.3 0 0 - 0 0 - 4 4 8 1 0 0 0 2 -6
+p116
+aVKobe Bryant LAL 04/02/2005 LAL @ SAS L 40 15 6 19 31.6 1 6 16.7 2 2 100.0 0 8 8 6 3 0 5 1 3
+p117
+aVLuke Walton LAL 04/02/2005 LAL @ SAS L 12 5 2 4 50.0 0 0 - 1 1 100.0 1 2 3 1 2 0 3 2 -10
+p118
+aVBrian Grant LAL 03/31/2005 LAL vs. MIN L 19 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -16
+p119
+aVJumaine Jones LAL 03/31/2005 LAL vs. MIN L 18 6 2 5 40.0 0 3 0.0 2 2 100.0 2 2 4 0 0 0 0 3 -8
+p120
+aVSlava Medvedenko LAL 03/31/2005 LAL vs. MIN L 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p121
+aVChucky Atkins LAL 03/31/2005 LAL vs. MIN L 27 11 4 13 30.8 2 8 25.0 1 1 100.0 0 0 0 3 0 0 1 1 0
+p122
+aVKobe Bryant LAL 03/31/2005 LAL vs. MIN L 41 26 7 16 43.8 3 7 42.9 9 12 75.0 5 3 8 6 1 0 2 2 -7
+p123
+aVCaron Butler LAL 03/31/2005 LAL vs. MIN L 41 22 8 17 47.1 0 3 0.0 6 7 85.7 0 2 2 3 0 1 2 3 -6
+p124
+aVTierre Brown LAL 03/31/2005 LAL vs. MIN L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 0 -10
+p125
+aVDevean George LAL 03/31/2005 LAL vs. MIN L 26 7 3 9 33.3 1 6 16.7 0 0 - 1 4 5 2 1 0 0 1 -6
+p126
+aVLuke Walton LAL 03/31/2005 LAL vs. MIN L 19 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 5 0 1 1 3 2
+p127
+aVChris Mihm LAL 03/31/2005 LAL vs. MIN L 31 11 4 8 50.0 0 0 - 3 3 100.0 2 8 10 2 0 0 1 4 6
+p128
+aVDevean George LAL 03/29/2005 LAL vs. NYK W 33 18 6 11 54.5 3 6 50.0 3 4 75.0 1 1 2 2 1 0 0 2 6
+p129
+aVJumaine Jones LAL 03/29/2005 LAL vs. NYK W 25 7 3 10 30.0 1 4 25.0 0 0 - 0 2 2 0 1 0 0 2 4
+p130
+aVChris Mihm LAL 03/29/2005 LAL vs. NYK W 22 9 3 4 75.0 0 0 - 3 3 100.0 1 7 8 2 0 1 1 5 7
+p131
+aVChucky Atkins LAL 03/29/2005 LAL vs. NYK W 30 12 3 7 42.9 2 4 50.0 4 4 100.0 0 1 1 4 3 0 1 4 6
+p132
+aVCaron Butler LAL 03/29/2005 LAL vs. NYK W 41 26 9 16 56.3 0 2 0.0 8 9 88.9 3 3 6 3 1 0 0 0 11
+p133
+aVLuke Walton LAL 03/29/2005 LAL vs. NYK W 12 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 5 2 0 2 0 2
+p134
+aVBrian Grant LAL 03/29/2005 LAL vs. NYK W 21 0 0 2 0.0 0 0 - 0 0 - 3 4 7 3 1 0 1 3 5
+p135
+aVKobe Bryant LAL 03/29/2005 LAL vs. NYK W 38 32 10 17 58.8 3 7 42.9 9 14 64.3 1 5 6 5 1 0 4 1 5
+p136
+aVTierre Brown LAL 03/29/2005 LAL vs. NYK W 18 11 5 5 100.0 1 1 100.0 0 2 0.0 0 0 0 1 0 0 1 1 4
+p137
+aVDevean George LAL 03/27/2005 LAL vs. PHI L 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 1 -9
+p138
+aVJumaine Jones LAL 03/27/2005 LAL vs. PHI L 14 2 1 1 100.0 0 0 - 0 0 - 1 3 4 3 0 0 1 3 -7
+p139
+aVKobe Bryant LAL 03/27/2005 LAL vs. PHI L 39 34 10 22 45.5 6 13 46.2 8 8 100.0 0 10 10 5 0 1 6 4 5
+p140
+aVLuke Walton LAL 03/27/2005 LAL vs. PHI L 9 3 1 2 50.0 0 1 0.0 1 1 100.0 0 2 2 0 0 0 1 1 -12
+p141
+aVBrian Grant LAL 03/27/2005 LAL vs. PHI L 38 6 3 5 60.0 0 0 - 0 0 - 2 5 7 2 2 0 3 5 -2
+p142
+aVChris Mihm LAL 03/27/2005 LAL vs. PHI L 41 17 6 11 54.5 0 0 - 5 8 62.5 3 8 11 1 0 2 4 3 3
+p143
+aVChucky Atkins LAL 03/27/2005 LAL vs. PHI L 35 10 4 14 28.6 2 6 33.3 0 0 - 0 1 1 0 2 0 3 3 0
+p144
+aVCaron Butler LAL 03/27/2005 LAL vs. PHI L 36 13 4 11 36.4 0 0 - 5 5 100.0 1 9 10 4 2 0 4 1 0
+p145
+aVSlava Medvedenko LAL 03/27/2005 LAL vs. PHI L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -6
+p146
+aVTierre Brown LAL 03/27/2005 LAL vs. PHI L 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 3 0 -7
+p147
+aVLuke Walton LAL 03/24/2005 LAL @ DEN L 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 0 1 2 2 -3
+p148
+aVCaron Butler LAL 03/24/2005 LAL @ DEN L 37 22 10 18 55.6 1 3 33.3 1 2 50.0 2 7 9 1 4 1 0 0 -17
+p149
+aVJumaine Jones LAL 03/24/2005 LAL @ DEN L 28 9 3 7 42.9 1 2 50.0 2 4 50.0 3 6 9 0 0 0 2 3 -12
+p150
+aVChucky Atkins LAL 03/24/2005 LAL @ DEN L 23 10 4 15 26.7 0 3 0.0 2 2 100.0 2 2 4 4 0 0 4 2 -11
+p151
+aVChris Mihm LAL 03/24/2005 LAL @ DEN L 27 5 1 4 25.0 0 0 - 3 6 50.0 1 5 6 0 1 1 1 2 -14
+p152
+aVDevean George LAL 03/24/2005 LAL @ DEN L 16 8 3 5 60.0 2 4 50.0 0 0 - 3 2 5 0 1 0 3 6 -16
+p153
+aVSlava Medvedenko LAL 03/24/2005 LAL @ DEN L 14 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 3 2
+p154
+aVTierre Brown LAL 03/24/2005 LAL @ DEN L 24 6 1 10 10.0 1 5 20.0 3 4 75.0 2 2 4 3 0 0 2 2 -9
+p155
+aVBrian Grant LAL 03/24/2005 LAL @ DEN L 13 3 0 1 0.0 0 0 - 3 4 75.0 1 2 3 0 1 0 0 3 -4
+p156
+aVSasha Vujacic LAL 03/24/2005 LAL @ DEN L 6 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 3 -2
+p157
+aVKobe Bryant LAL 03/24/2005 LAL @ DEN L 39 18 5 13 38.5 0 4 0.0 8 8 100.0 2 2 4 4 1 2 6 1 -19
+p158
+aVChucky Atkins LAL 03/22/2005 LAL @ UTA L 38 17 5 10 50.0 0 1 0.0 7 8 87.5 0 2 2 3 0 0 3 1 -7
+p159
+aVKobe Bryant LAL 03/22/2005 LAL @ UTA L 44 43 16 26 61.5 9 15 60.0 2 6 33.3 1 2 3 4 2 0 3 2 -11
+p160
+aVBrian Grant LAL 03/22/2005 LAL @ UTA L 32 6 2 2 100.0 0 0 - 2 4 50.0 3 5 8 3 2 0 1 5 -9
+p161
+aVChris Mihm LAL 03/22/2005 LAL @ UTA L 16 2 1 3 33.3 0 0 - 0 0 - 3 0 3 0 0 1 0 6 1
+p162
+aVJumaine Jones LAL 03/22/2005 LAL @ UTA L 29 17 6 11 54.5 4 6 66.7 1 1 100.0 1 2 3 0 0 0 1 2 -6
+p163
+aVTierre Brown LAL 03/22/2005 LAL @ UTA L 10 4 2 4 50.0 0 0 - 0 0 - 1 1 2 3 1 0 0 0 -1
+p164
+aVLuke Walton LAL 03/22/2005 LAL @ UTA L 10 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 2 3 0 1 2 -1
+p165
+aVBrian Cook LAL 03/22/2005 LAL @ UTA L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 2 1 1 1 2
+p166
+aVCaron Butler LAL 03/22/2005 LAL @ UTA L 38 12 4 11 36.4 0 1 0.0 4 4 100.0 1 3 4 5 2 0 1 5 1
+p167
+aVSlava Medvedenko LAL 03/22/2005 LAL @ UTA L 16 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 2 0 0 1 3 -9
+p168
+aVCaron Butler LAL 03/20/2005 LAL vs. SEA L 42 29 10 21 47.6 2 4 50.0 7 9 77.8 3 2 5 3 4 0 1 4 -1
+p169
+aVLuke Walton LAL 03/20/2005 LAL vs. SEA L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 1
+p170
+aVBrian Cook LAL 03/20/2005 LAL vs. SEA L 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 12
+p171
+aVJumaine Jones LAL 03/20/2005 LAL vs. SEA L 21 7 3 8 37.5 1 4 25.0 0 0 - 2 4 6 0 0 0 0 3 -5
+p172
+aVKobe Bryant LAL 03/20/2005 LAL vs. SEA L 41 30 12 23 52.2 4 10 40.0 2 4 50.0 2 3 5 4 1 0 2 3 3
+p173
+aVSlava Medvedenko LAL 03/20/2005 LAL vs. SEA L 17 6 3 5 60.0 0 0 - 0 0 - 3 4 7 1 0 0 0 2 -8
+p174
+aVTierre Brown LAL 03/20/2005 LAL vs. SEA L 20 9 4 6 66.7 0 1 0.0 1 1 100.0 0 1 1 2 0 0 2 0 -8
+p175
+aVBrian Grant LAL 03/20/2005 LAL vs. SEA L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 5 -4
+p176
+aVChris Mihm LAL 03/20/2005 LAL vs. SEA L 33 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 0 3 1 2 -2
+p177
+aVChucky Atkins LAL 03/20/2005 LAL vs. SEA L 41 12 4 14 28.6 2 7 28.6 2 4 50.0 1 4 5 5 1 0 2 4 2
+p178
+aVBrian Cook LAL 03/18/2005 LAL @ IND L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -5
+p179
+aVKobe Bryant LAL 03/18/2005 LAL @ IND L 29 12 5 14 35.7 1 4 25.0 1 2 50.0 1 1 2 4 1 0 0 4 -16
+p180
+aVChucky Atkins LAL 03/18/2005 LAL @ IND L 34 23 10 18 55.6 2 5 40.0 1 2 50.0 1 4 5 3 0 0 0 2 -2
+p181
+aVLamar Odom LAL 03/18/2005 LAL @ IND L 21 9 2 9 22.2 0 0 - 5 6 83.3 2 1 3 1 1 0 1 1 -10
+p182
+aVTierre Brown LAL 03/18/2005 LAL @ IND L 14 8 3 8 37.5 1 3 33.3 1 1 100.0 0 1 1 1 0 0 1 1 -4
+p183
+aVChris Mihm LAL 03/18/2005 LAL @ IND L 19 6 2 8 25.0 0 0 - 2 2 100.0 3 1 4 2 0 0 2 1 -11
+p184
+aVCaron Butler LAL 03/18/2005 LAL @ IND L 43 19 8 18 44.4 0 0 - 3 3 100.0 4 6 10 1 6 0 1 4 -7
+p185
+aVLuke Walton LAL 03/18/2005 LAL @ IND L 21 2 1 4 25.0 0 1 0.0 0 0 - 1 6 7 2 1 1 0 3 13
+p186
+aVBrian Grant LAL 03/18/2005 LAL @ IND L 29 9 3 5 60.0 0 0 - 3 4 75.0 2 1 3 1 0 0 0 2 5
+p187
+aVJumaine Jones LAL 03/18/2005 LAL @ IND L 25 9 4 5 80.0 1 1 100.0 0 0 - 2 2 4 1 0 0 0 1 7
+p188
+aVChucky Atkins LAL 03/17/2005 LAL @ MIA L 41 23 9 18 50.0 5 9 55.6 0 0 - 0 3 3 6 0 0 4 2 -3
+p189
+aVLamar Odom LAL 03/17/2005 LAL @ MIA L 43 11 4 9 44.4 0 3 0.0 3 4 75.0 2 9 11 5 3 1 3 4 -7
+p190
+aVChris Mihm LAL 03/17/2005 LAL @ MIA L 15 1 0 4 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 4 8
+p191
+aVKobe Bryant LAL 03/17/2005 LAL @ MIA L 46 26 8 23 34.8 2 6 33.3 8 9 88.9 5 5 10 3 4 1 3 2 -6
+p192
+aVBrian Cook LAL 03/17/2005 LAL @ MIA L 9 10 3 3 100.0 3 3 100.0 1 2 50.0 0 1 1 1 1 0 0 2 -5
+p193
+aVLuke Walton LAL 03/17/2005 LAL @ MIA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p194
+aVJumaine Jones LAL 03/17/2005 LAL @ MIA L 14 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 0 1 0 2 2 -18
+p195
+aVBrian Grant LAL 03/17/2005 LAL @ MIA L 19 8 4 9 44.4 0 0 - 0 0 - 2 3 5 0 1 0 0 4 -10
+p196
+aVCaron Butler LAL 03/17/2005 LAL @ MIA L 36 10 5 14 35.7 0 0 - 0 0 - 3 4 7 2 0 0 1 3 5
+p197
+aVSlava Medvedenko LAL 03/17/2005 LAL @ MIA L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -12
+p198
+aVTierre Brown LAL 03/17/2005 LAL @ MIA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p199
+aVBrian Cook LAL 03/15/2005 LAL @ PHI L 14 10 4 10 40.0 2 6 33.3 0 0 - 0 2 2 1 2 0 1 1 7
+p200
+aVSasha Vujacic LAL 03/15/2005 LAL @ PHI L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 5 1 0 0 2 13
+p201
+aVChucky Atkins LAL 03/15/2005 LAL @ PHI L 20 1 0 6 0.0 0 2 0.0 1 2 50.0 1 1 2 1 2 0 1 3 -11
+p202
+aVChris Mihm LAL 03/15/2005 LAL @ PHI L 19 6 1 8 12.5 0 0 - 4 4 100.0 4 3 7 0 0 1 1 1 -12
+p203
+aVBrian Grant LAL 03/15/2005 LAL @ PHI L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 2 3 -9
+p204
+aVLamar Odom LAL 03/15/2005 LAL @ PHI L 26 11 5 11 45.5 1 1 100.0 0 4 0.0 1 5 6 4 1 0 0 4 -15
+p205
+aVKobe Bryant LAL 03/15/2005 LAL @ PHI L 36 20 6 15 40.0 3 8 37.5 5 7 71.4 0 3 3 2 2 0 4 3 -29
+p206
+aVSlava Medvedenko LAL 03/15/2005 LAL @ PHI L 28 12 6 12 50.0 0 0 - 0 0 - 3 6 9 0 0 0 2 4 -5
+p207
+aVLuke Walton LAL 03/15/2005 LAL @ PHI L 12 4 2 4 50.0 0 2 0.0 0 0 - 1 0 1 2 1 0 0 0 12
+p208
+aVJumaine Jones LAL 03/15/2005 LAL @ PHI L 23 14 4 8 50.0 2 4 50.0 4 5 80.0 2 3 5 1 1 0 1 1 0
+p209
+aVCaron Butler LAL 03/15/2005 LAL @ PHI L 25 6 2 8 25.0 0 0 - 2 2 100.0 3 5 8 1 0 0 1 1 -17
+p210
+aVTierre Brown LAL 03/15/2005 LAL @ PHI L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 4 1 0 1 1 -19
+p211
+aVSlava Medvedenko LAL 03/14/2005 LAL @ WAS L 10 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 2 0 0 0 -4
+p212
+aVLamar Odom LAL 03/14/2005 LAL @ WAS L 33 11 5 11 45.5 1 1 100.0 0 0 - 4 6 10 3 0 2 4 5 -11
+p213
+aVJumaine Jones LAL 03/14/2005 LAL @ WAS L 19 3 1 6 16.7 1 5 20.0 0 0 - 1 0 1 1 1 0 0 2 -4
+p214
+aVTierre Brown LAL 03/14/2005 LAL @ WAS L 17 3 0 3 0.0 0 2 0.0 3 4 75.0 1 0 1 5 1 0 1 1 3
+p215
+aVBrian Cook LAL 03/14/2005 LAL @ WAS L 6 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p216
+aVSasha Vujacic LAL 03/14/2005 LAL @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p217
+aVChucky Atkins LAL 03/14/2005 LAL @ WAS L 37 15 5 13 38.5 3 9 33.3 2 2 100.0 0 2 2 5 1 0 4 3 -19
+p218
+aVCaron Butler LAL 03/14/2005 LAL @ WAS L 35 20 9 18 50.0 1 2 50.0 1 2 50.0 5 6 11 2 1 1 4 5 -8
+p219
+aVLuke Walton LAL 03/14/2005 LAL @ WAS L 5 0 0 2 0.0 0 1 0.0 0 0 - 2 0 2 0 1 0 2 1 1
+p220
+aVChris Mihm LAL 03/14/2005 LAL @ WAS L 23 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 1 0 1 1 3 -11
+p221
+aVKobe Bryant LAL 03/14/2005 LAL @ WAS L 41 18 6 22 27.3 4 12 33.3 2 2 100.0 2 2 4 6 1 1 1 2 -16
+p222
+aVBrian Grant LAL 03/14/2005 LAL @ WAS L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -2
+p223
+aVSlava Medvedenko LAL 03/12/2005 LAL @ CHA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 7
+p224
+aVTierre Brown LAL 03/12/2005 LAL @ CHA W 16 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 -3
+p225
+aVKobe Bryant LAL 03/12/2005 LAL @ CHA W 44 32 12 24 50.0 4 6 66.7 4 5 80.0 2 2 4 9 0 0 2 2 10
+p226
+aVLuke Walton LAL 03/12/2005 LAL @ CHA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p227
+aVBrian Grant LAL 03/12/2005 LAL @ CHA W 18 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 0 5 -12
+p228
+aVJumaine Jones LAL 03/12/2005 LAL @ CHA W 15 15 5 7 71.4 3 5 60.0 2 2 100.0 2 0 2 0 0 0 1 1 -9
+p229
+aVBrian Cook LAL 03/12/2005 LAL @ CHA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p230
+aVLamar Odom LAL 03/12/2005 LAL @ CHA W 38 9 3 7 42.9 1 1 100.0 2 2 100.0 1 10 11 8 0 1 2 3 -1
+p231
+aVChris Mihm LAL 03/12/2005 LAL @ CHA W 29 15 5 7 71.4 0 0 - 5 7 71.4 2 4 6 0 2 1 2 2 7
+p232
+aVCaron Butler LAL 03/12/2005 LAL @ CHA W 28 14 6 8 75.0 0 0 - 2 4 50.0 1 6 7 2 0 0 4 1 6
+p233
+aVChucky Atkins LAL 03/12/2005 LAL @ CHA W 37 26 9 18 50.0 6 14 42.9 2 2 100.0 0 0 0 6 2 0 0 3 12
+p234
+aVBrian Grant LAL 03/10/2005 LAL @ DAL W 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 2 4
+p235
+aVKobe Bryant LAL 03/10/2005 LAL @ DAL W 44 36 14 22 63.6 0 0 - 8 10 80.0 1 8 9 3 1 2 3 3 7
+p236
+aVChucky Atkins LAL 03/10/2005 LAL @ DAL W 31 13 4 11 36.4 3 5 60.0 2 2 100.0 0 0 0 3 0 0 2 4 -1
+p237
+aVJumaine Jones LAL 03/10/2005 LAL @ DAL W 27 6 2 8 25.0 2 6 33.3 0 0 - 1 4 5 1 0 1 1 2 7
+p238
+aVSlava Medvedenko LAL 03/10/2005 LAL @ DAL W 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p239
+aVCaron Butler LAL 03/10/2005 LAL @ DAL W 25 4 2 6 33.3 0 0 - 0 2 0.0 1 3 4 1 0 0 0 4 -2
+p240
+aVLuke Walton LAL 03/10/2005 LAL @ DAL W 8 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -1
+p241
+aVTierre Brown LAL 03/10/2005 LAL @ DAL W 16 10 4 9 44.4 2 4 50.0 0 0 - 1 1 2 2 0 0 1 2 6
+p242
+aVLamar Odom LAL 03/10/2005 LAL @ DAL W 37 15 5 13 38.5 0 0 - 5 7 71.4 3 11 14 7 0 1 3 2 3
+p243
+aVChris Mihm LAL 03/10/2005 LAL @ DAL W 30 10 5 7 71.4 0 0 - 0 0 - 2 5 7 0 0 2 1 3 -2
+p244
+aVLuke Walton LAL 03/08/2005 LAL vs. LAC L 14 4 1 3 33.3 0 1 0.0 2 2 100.0 1 2 3 2 0 0 2 0 5
+p245
+aVJumaine Jones LAL 03/08/2005 LAL vs. LAC L 23 11 4 6 66.7 3 5 60.0 0 0 - 0 8 8 3 0 0 0 1 7
+p246
+aVKobe Bryant LAL 03/08/2005 LAL vs. LAC L 43 41 12 21 57.1 1 3 33.3 16 16 100.0 2 3 5 3 0 1 3 3 -13
+p247
+aVCaron Butler LAL 03/08/2005 LAL vs. LAC L 25 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 0 1 0 0 2 -16
+p248
+aVChucky Atkins LAL 03/08/2005 LAL vs. LAC L 40 9 4 9 44.4 1 3 33.3 0 0 - 0 3 3 6 0 0 0 0 -10
+p249
+aVBrian Grant LAL 03/08/2005 LAL vs. LAC L 23 4 2 2 100.0 0 0 - 0 0 - 5 0 5 0 0 1 0 3 3
+p250
+aVLamar Odom LAL 03/08/2005 LAL vs. LAC L 36 20 9 22 40.9 1 4 25.0 1 1 100.0 1 5 6 3 0 0 0 3 -12
+p251
+aVChris Mihm LAL 03/08/2005 LAL vs. LAC L 22 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 0 0 1 1 5 -9
+p252
+aVBrian Cook LAL 03/08/2005 LAL vs. LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p253
+aVSlava Medvedenko LAL 03/08/2005 LAL vs. LAC L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 4 3
+p254
+aVChucky Atkins LAL 03/06/2005 LAL vs. IND W 36 16 3 8 37.5 0 1 0.0 10 10 100.0 0 2 2 3 1 0 1 0 9
+p255
+aVChris Mihm LAL 03/06/2005 LAL vs. IND W 30 14 5 8 62.5 0 0 - 4 6 66.7 4 6 10 2 0 0 2 2 8
+p256
+aVLamar Odom LAL 03/06/2005 LAL vs. IND W 42 13 5 10 50.0 0 3 0.0 3 4 75.0 1 8 9 7 0 0 0 2 9
+p257
+aVTierre Brown LAL 03/06/2005 LAL vs. IND W 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 0
+p258
+aVKobe Bryant LAL 03/06/2005 LAL vs. IND W 39 37 12 24 50.0 0 2 0.0 13 13 100.0 2 8 10 2 2 0 5 3 3
+p259
+aVBrian Grant LAL 03/06/2005 LAL vs. IND W 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 3 1
+p260
+aVLuke Walton LAL 03/06/2005 LAL vs. IND W 10 4 1 2 50.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 1 1 6
+p261
+aVCaron Butler LAL 03/06/2005 LAL vs. IND W 27 10 4 10 40.0 0 0 - 2 2 100.0 4 3 7 1 0 0 2 4 6
+p262
+aVJumaine Jones LAL 03/06/2005 LAL vs. IND W 27 9 3 5 60.0 3 4 75.0 0 0 - 0 4 4 0 0 0 1 2 3
+p263
+aVBrian Grant LAL 03/04/2005 LAL vs. DAL W 11 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 3
+p264
+aVKobe Bryant LAL 03/04/2005 LAL vs. DAL W 43 40 13 27 48.1 0 4 0.0 14 16 87.5 2 6 8 6 2 2 3 3 11
+p265
+aVJumaine Jones LAL 03/04/2005 LAL vs. DAL W 26 4 2 8 25.0 0 5 0.0 0 2 0.0 2 6 8 2 0 2 0 3 4
+p266
+aVBrian Cook LAL 03/04/2005 LAL vs. DAL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 1 0 2 -3
+p267
+aVSlava Medvedenko LAL 03/04/2005 LAL vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 2 2
+p268
+aVLuke Walton LAL 03/04/2005 LAL vs. DAL W 18 5 2 3 66.7 0 1 0.0 1 2 50.0 2 1 3 2 0 0 1 2 -1
+p269
+aVChucky Atkins LAL 03/04/2005 LAL vs. DAL W 38 7 3 9 33.3 1 6 16.7 0 0 - 0 1 1 10 0 0 2 3 -5
+p270
+aVCaron Butler LAL 03/04/2005 LAL vs. DAL W 33 20 8 14 57.1 0 0 - 4 6 66.7 1 3 4 2 3 0 3 5 3
+p271
+aVChris Mihm LAL 03/04/2005 LAL vs. DAL W 20 10 4 7 57.1 0 0 - 2 3 66.7 3 2 5 2 0 2 1 0 2
+p272
+aVLamar Odom LAL 03/04/2005 LAL vs. DAL W 39 18 8 10 80.0 0 2 0.0 2 6 33.3 3 8 11 2 0 0 1 5 9
+p273
+aVJumaine Jones LAL 03/02/2005 LAL @ BOS L 13 6 2 4 50.0 2 4 50.0 0 0 - 0 6 6 0 0 0 1 3 1
+p274
+aVCaron Butler LAL 03/02/2005 LAL @ BOS L 34 11 5 13 38.5 0 0 - 1 2 50.0 1 5 6 0 1 1 0 5 0
+p275
+aVKobe Bryant LAL 03/02/2005 LAL @ BOS L 41 26 9 24 37.5 1 6 16.7 7 8 87.5 0 1 1 3 0 1 1 5 -5
+p276
+aVBrian Cook LAL 03/02/2005 LAL @ BOS L 10 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 1 0 2 0 2 -2
+p277
+aVChucky Atkins LAL 03/02/2005 LAL @ BOS L 35 29 10 21 47.6 2 6 33.3 7 8 87.5 2 1 3 3 1 0 1 1 -3
+p278
+aVBrian Grant LAL 03/02/2005 LAL @ BOS L 18 6 2 4 50.0 0 0 - 2 3 66.7 0 4 4 0 0 2 1 1 8
+p279
+aVChris Mihm LAL 03/02/2005 LAL @ BOS L 25 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 1 0 1 2 4 -8
+p280
+aVLuke Walton LAL 03/02/2005 LAL @ BOS L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -2
+p281
+aVLamar Odom LAL 03/02/2005 LAL @ BOS L 43 11 5 7 71.4 1 2 50.0 0 0 - 4 9 13 4 0 1 2 3 -4
+p282
+aVTierre Brown LAL 03/02/2005 LAL @ BOS L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 0
+p283
+aVLuke Walton LAL 02/28/2005 LAL @ NYK L 14 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 1 3
+p284
+aVTierre Brown LAL 02/28/2005 LAL @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p285
+aVCaron Butler LAL 02/28/2005 LAL @ NYK L 34 14 6 12 50.0 1 1 100.0 1 2 50.0 2 7 9 0 1 0 2 3 -1
+p286
+aVLamar Odom LAL 02/28/2005 LAL @ NYK L 50 26 8 20 40.0 3 5 60.0 7 9 77.8 3 12 15 6 1 2 5 3 1
+p287
+aVBrian Grant LAL 02/28/2005 LAL @ NYK L 25 9 3 6 50.0 0 0 - 3 3 100.0 3 4 7 2 0 2 2 3 6
+p288
+aVChucky Atkins LAL 02/28/2005 LAL @ NYK L 47 22 8 13 61.5 5 8 62.5 1 2 50.0 0 2 2 3 1 0 1 4 1
+p289
+aVJumaine Jones LAL 02/28/2005 LAL @ NYK L 19 3 1 4 25.0 1 4 25.0 0 0 - 1 2 3 0 1 0 1 1 -1
+p290
+aVKobe Bryant LAL 02/28/2005 LAL @ NYK L 46 30 7 17 41.2 2 5 40.0 14 17 82.4 2 3 5 8 1 2 7 4 -6
+p291
+aVSlava Medvedenko LAL 02/28/2005 LAL @ NYK L 6 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 3 4
+p292
+aVChris Mihm LAL 02/28/2005 LAL @ NYK L 21 6 1 3 33.3 0 0 - 4 4 100.0 2 4 6 0 0 2 0 2 -14
+p293
+aVJumaine Jones LAL 02/27/2005 LAL @ TOR L 31 11 4 8 50.0 3 4 75.0 0 0 - 0 7 7 1 1 0 2 3 -7
+p294
+aVKobe Bryant LAL 02/27/2005 LAL @ TOR L 42 31 12 25 48.0 1 6 16.7 6 8 75.0 2 6 8 8 0 0 4 4 3
+p295
+aVChucky Atkins LAL 02/27/2005 LAL @ TOR L 34 22 8 13 61.5 4 5 80.0 2 3 66.7 1 3 4 1 0 0 3 2 0
+p296
+aVTierre Brown LAL 02/27/2005 LAL @ TOR L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 4 1 0 1 0 -9
+p297
+aVBrian Cook LAL 02/27/2005 LAL @ TOR L 7 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 0 -5
+p298
+aVSlava Medvedenko LAL 02/27/2005 LAL @ TOR L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p299
+aVLamar Odom LAL 02/27/2005 LAL @ TOR L 28 13 6 8 75.0 0 1 0.0 1 1 100.0 2 6 8 5 0 1 4 6 -4
+p300
+aVLuke Walton LAL 02/27/2005 LAL @ TOR L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 1 2
+p301
+aVChris Mihm LAL 02/27/2005 LAL @ TOR L 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -15
+p302
+aVCaron Butler LAL 02/27/2005 LAL @ TOR L 33 6 1 9 11.1 0 0 - 4 4 100.0 1 2 3 2 0 1 1 1 -4
+p303
+aVBrian Grant LAL 02/27/2005 LAL @ TOR L 28 8 4 5 80.0 0 0 - 0 0 - 2 3 5 0 1 0 1 4 1
+p304
+aVLuke Walton LAL 02/25/2005 LAL vs. DET L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 1 0 0 1
+p305
+aVBrian Grant LAL 02/25/2005 LAL vs. DET L 19 6 2 3 66.7 0 0 - 2 2 100.0 3 2 5 0 0 0 1 0 -12
+p306
+aVCaron Butler LAL 02/25/2005 LAL vs. DET L 24 10 5 10 50.0 0 0 - 0 0 - 2 1 3 1 1 0 1 1 -7
+p307
+aVBrian Cook LAL 02/25/2005 LAL vs. DET L 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 1 7
+p308
+aVTierre Brown LAL 02/25/2005 LAL vs. DET L 18 6 2 4 50.0 1 2 50.0 1 2 50.0 0 1 1 2 0 0 3 2 -5
+p309
+aVJumaine Jones LAL 02/25/2005 LAL vs. DET L 20 6 2 6 33.3 2 5 40.0 0 0 - 0 5 5 1 0 0 0 2 -17
+p310
+aVChris Mihm LAL 02/25/2005 LAL vs. DET L 24 10 3 7 42.9 0 0 - 4 4 100.0 3 3 6 0 0 0 2 3 -9
+p311
+aVChucky Atkins LAL 02/25/2005 LAL vs. DET L 30 9 3 7 42.9 3 4 75.0 0 0 - 0 1 1 3 0 0 1 4 -16
+p312
+aVLamar Odom LAL 02/25/2005 LAL vs. DET L 33 12 6 17 35.3 0 1 0.0 0 0 - 1 8 9 5 0 1 0 0 -22
+p313
+aVKobe Bryant LAL 02/25/2005 LAL vs. DET L 40 20 6 12 50.0 1 3 33.3 7 7 100.0 0 4 4 11 1 0 6 4 -22
+p314
+aVSasha Vujacic LAL 02/25/2005 LAL vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 0 0 3
+p315
+aVSlava Medvedenko LAL 02/25/2005 LAL vs. DET L 12 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p316
+aVChris Mihm LAL 02/23/2005 LAL @ POR W 13 4 2 6 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 4 -11
+p317
+aVSlava Medvedenko LAL 02/23/2005 LAL @ POR W 11 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 7
+p318
+aVBrian Grant LAL 02/23/2005 LAL @ POR W 23 6 3 7 42.9 0 0 - 0 0 - 3 4 7 1 0 0 1 4 7
+p319
+aVChucky Atkins LAL 02/23/2005 LAL @ POR W 27 6 3 8 37.5 0 1 0.0 0 1 0.0 0 0 0 2 2 0 2 2 -12
+p320
+aVJumaine Jones LAL 02/23/2005 LAL @ POR W 36 9 3 10 30.0 0 3 0.0 3 4 75.0 1 6 7 2 3 1 1 4 17
+p321
+aVLamar Odom LAL 02/23/2005 LAL @ POR W 36 7 3 8 37.5 1 2 50.0 0 0 - 3 9 12 6 0 2 4 2 6
+p322
+aVTierre Brown LAL 02/23/2005 LAL @ POR W 21 11 5 7 71.4 1 3 33.3 0 0 - 0 3 3 2 2 0 0 3 15
+p323
+aVLuke Walton LAL 02/23/2005 LAL @ POR W 17 4 1 7 14.3 0 2 0.0 2 2 100.0 0 2 2 1 0 0 0 3 -12
+p324
+aVBrian Cook LAL 02/23/2005 LAL @ POR W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 -3
+p325
+aVKobe Bryant LAL 02/23/2005 LAL @ POR W 43 31 8 17 47.1 2 6 33.3 13 13 100.0 0 3 3 6 0 0 5 2 1
+p326
+aVChucky Atkins LAL 02/22/2005 LAL vs. BOS W 28 5 2 8 25.0 0 3 0.0 1 2 50.0 0 2 2 4 1 0 1 3 13
+p327
+aVBrian Grant LAL 02/22/2005 LAL vs. BOS W 13 5 1 4 25.0 0 0 - 3 4 75.0 3 1 4 0 1 0 0 0 13
+p328
+aVBrian Cook LAL 02/22/2005 LAL vs. BOS W 11 7 2 4 50.0 1 1 100.0 2 2 100.0 1 2 3 1 1 0 2 0 -4
+p329
+aVLuke Walton LAL 02/22/2005 LAL vs. BOS W 36 9 3 9 33.3 2 2 100.0 1 6 16.7 2 3 5 7 1 0 2 2 -6
+p330
+aVChris Mihm LAL 02/22/2005 LAL vs. BOS W 33 19 6 11 54.5 0 0 - 7 10 70.0 8 7 15 0 0 4 0 4 -1
+p331
+aVTierre Brown LAL 02/22/2005 LAL vs. BOS W 13 3 1 7 14.3 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 -6
+p332
+aVSasha Vujacic LAL 02/22/2005 LAL vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p333
+aVJumaine Jones LAL 02/22/2005 LAL vs. BOS W 28 14 5 12 41.7 4 7 57.1 0 0 - 2 3 5 0 1 0 1 6 21
+p334
+aVSlava Medvedenko LAL 02/22/2005 LAL vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p335
+aVKobe Bryant LAL 02/22/2005 LAL vs. BOS W 40 21 6 13 46.2 0 3 0.0 9 12 75.0 1 5 6 3 1 1 3 4 4
+p336
+aVLamar Odom LAL 02/22/2005 LAL vs. BOS W 33 21 8 14 57.1 0 2 0.0 5 5 100.0 4 7 11 2 4 1 2 3 14
+p337
+aVCaron Butler LAL 02/15/2005 LAL vs. UTA W 38 23 9 13 69.2 1 3 33.3 4 4 100.0 3 5 8 1 0 2 0 1 11
+p338
+aVBrian Cook LAL 02/15/2005 LAL vs. UTA W 14 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 1 1 4 7
+p339
+aVChris Mihm LAL 02/15/2005 LAL vs. UTA W 30 6 1 3 33.3 0 0 - 4 6 66.7 1 3 4 1 0 2 1 4 13
+p340
+aVJumaine Jones LAL 02/15/2005 LAL vs. UTA W 12 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 0 0 0 0 2 -14
+p341
+aVSasha Vujacic LAL 02/15/2005 LAL vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p342
+aVSlava Medvedenko LAL 02/15/2005 LAL vs. UTA W 34 7 2 9 22.2 0 0 - 3 4 75.0 3 6 9 1 3 0 1 2 9
+p343
+aVChucky Atkins LAL 02/15/2005 LAL vs. UTA W 42 24 8 18 44.4 5 13 38.5 3 4 75.0 1 4 5 7 1 0 0 4 12
+p344
+aVTierre Brown LAL 02/15/2005 LAL vs. UTA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -5
+p345
+aVBrian Grant LAL 02/15/2005 LAL vs. UTA W 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 1 2 6 -4
+p346
+aVKobe Bryant LAL 02/15/2005 LAL vs. UTA W 42 40 12 19 63.2 1 3 33.3 15 19 78.9 1 4 5 8 3 0 5 4 21
+p347
+aVLuke Walton LAL 02/15/2005 LAL vs. UTA W 9 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -13
+p348
+aVTierre Brown LAL 02/13/2005 LAL @ CLE L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p349
+aVChucky Atkins LAL 02/13/2005 LAL @ CLE L 40 11 4 12 33.3 1 6 16.7 2 2 100.0 0 3 3 4 2 0 2 1 -9
+p350
+aVBrian Cook LAL 02/13/2005 LAL @ CLE L 14 10 4 5 80.0 2 2 100.0 0 0 - 0 1 1 0 0 0 1 2 0
+p351
+aVJumaine Jones LAL 02/13/2005 LAL @ CLE L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -5
+p352
+aVLamar Odom LAL 02/13/2005 LAL @ CLE L 43 19 6 12 50.0 1 3 33.3 6 6 100.0 4 5 9 2 2 0 1 4 -9
+p353
+aVChris Mihm LAL 02/13/2005 LAL @ CLE L 22 10 4 6 66.7 0 0 - 2 4 50.0 0 4 4 2 1 2 0 5 -14
+p354
+aVLuke Walton LAL 02/13/2005 LAL @ CLE L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 5
+p355
+aVSlava Medvedenko LAL 02/13/2005 LAL @ CLE L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p356
+aVKobe Bryant LAL 02/13/2005 LAL @ CLE L 41 26 7 22 31.8 1 4 25.0 11 11 100.0 1 3 4 6 2 0 4 3 -15
+p357
+aVBrian Grant LAL 02/13/2005 LAL @ CLE L 12 1 0 3 0.0 0 0 - 1 2 50.0 2 5 7 0 0 0 1 3 -3
+p358
+aVCaron Butler LAL 02/13/2005 LAL @ CLE L 38 10 5 15 33.3 0 0 - 0 0 - 1 2 3 4 2 1 1 3 -13
+p359
+aVBrian Grant LAL 02/10/2005 LAL @ DET L 13 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 2 0
+p360
+aVSlava Medvedenko LAL 02/10/2005 LAL @ DET L 12 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 0 1 1 0 0 0
+p361
+aVTierre Brown LAL 02/10/2005 LAL @ DET L 25 7 2 8 25.0 0 1 0.0 3 6 50.0 0 1 1 4 2 0 1 2 2
+p362
+aVSasha Vujacic LAL 02/10/2005 LAL @ DET L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p363
+aVLamar Odom LAL 02/10/2005 LAL @ DET L 32 17 6 13 46.2 0 2 0.0 5 5 100.0 0 9 9 4 0 2 4 1 -17
+p364
+aVChris Mihm LAL 02/10/2005 LAL @ DET L 22 8 4 8 50.0 0 0 - 0 0 - 1 2 3 1 1 2 1 1 -24
+p365
+aVChucky Atkins LAL 02/10/2005 LAL @ DET L 24 3 1 7 14.3 0 1 0.0 1 1 100.0 1 1 2 5 0 1 2 3 -24
+p366
+aVLuke Walton LAL 02/10/2005 LAL @ DET L 26 8 4 8 50.0 0 2 0.0 0 0 - 2 3 5 2 0 0 1 1 1
+p367
+aVJumaine Jones LAL 02/10/2005 LAL @ DET L 27 9 3 7 42.9 3 6 50.0 0 0 - 1 3 4 1 0 0 0 1 -24
+p368
+aVCaron Butler LAL 02/10/2005 LAL @ DET L 36 12 5 12 41.7 0 1 0.0 2 2 100.0 2 2 4 2 1 0 0 2 -20
+p369
+aVBrian Cook LAL 02/10/2005 LAL @ DET L 17 6 3 8 37.5 0 3 0.0 0 0 - 2 3 5 1 0 0 0 2 -7
+p370
+aVChris Mihm LAL 02/09/2005 LAL @ NJN W 23 10 5 8 62.5 0 0 - 0 2 0.0 4 5 9 0 0 1 2 3 7
+p371
+aVBrian Cook LAL 02/09/2005 LAL @ NJN W 17 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -14
+p372
+aVTierre Brown LAL 02/09/2005 LAL @ NJN W 14 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 3 0 0 0 0 -13
+p373
+aVJumaine Jones LAL 02/09/2005 LAL @ NJN W 47 20 7 11 63.6 4 8 50.0 2 5 40.0 1 5 6 2 1 1 2 4 6
+p374
+aVCaron Butler LAL 02/09/2005 LAL @ NJN W 44 19 6 15 40.0 1 1 100.0 6 7 85.7 1 5 6 6 3 0 3 4 18
+p375
+aVSasha Vujacic LAL 02/09/2005 LAL @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p376
+aVChucky Atkins LAL 02/09/2005 LAL @ NJN W 38 14 5 11 45.5 2 6 33.3 2 2 100.0 0 2 2 2 1 0 2 3 14
+p377
+aVLuke Walton LAL 02/09/2005 LAL @ NJN W 30 17 6 12 50.0 1 3 33.3 4 5 80.0 4 2 6 0 1 0 1 4 -8
+p378
+aVLamar Odom LAL 02/09/2005 LAL @ NJN W 46 16 5 18 27.8 0 3 0.0 6 7 85.7 4 15 19 8 1 3 7 4 8
+p379
+aVBrian Grant LAL 02/09/2005 LAL @ NJN W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -11
+p380
+aVChucky Atkins LAL 02/07/2005 LAL @ ATL L 41 25 8 20 40.0 3 10 30.0 6 8 75.0 0 3 3 5 1 0 3 2 -8
+p381
+aVSlava Medvedenko LAL 02/07/2005 LAL @ ATL L 9 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 1 0 1 2 5
+p382
+aVLuke Walton LAL 02/07/2005 LAL @ ATL L 15 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 1 2 -8
+p383
+aVChris Mihm LAL 02/07/2005 LAL @ ATL L 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -12
+p384
+aVLamar Odom LAL 02/07/2005 LAL @ ATL L 40 28 8 15 53.3 0 1 0.0 12 20 60.0 1 6 7 2 1 2 3 4 -6
+p385
+aVCaron Butler LAL 02/07/2005 LAL @ ATL L 29 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 1 0 2 4 -2
+p386
+aVSasha Vujacic LAL 02/07/2005 LAL @ ATL L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 10
+p387
+aVTierre Brown LAL 02/07/2005 LAL @ ATL L 27 27 8 16 50.0 2 3 66.7 9 11 81.8 0 4 4 3 1 1 1 3 15
+p388
+aVBrian Grant LAL 02/07/2005 LAL @ ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -14
+p389
+aVJumaine Jones LAL 02/07/2005 LAL @ ATL L 22 3 0 2 0.0 0 2 0.0 3 3 100.0 1 4 5 0 0 0 0 4 -26
+p390
+aVBrian Cook LAL 02/07/2005 LAL @ ATL L 31 13 5 9 55.6 3 5 60.0 0 0 - 1 9 10 1 1 1 2 3 16
+p391
+aVLamar Odom LAL 02/06/2005 LAL @ HOU L 40 22 8 18 44.4 0 3 0.0 6 9 66.7 2 10 12 8 0 1 1 5 -2
+p392
+aVChucky Atkins LAL 02/06/2005 LAL @ HOU L 41 21 6 9 66.7 4 5 80.0 5 6 83.3 0 4 4 6 2 0 6 0 1
+p393
+aVCaron Butler LAL 02/06/2005 LAL @ HOU L 40 14 7 11 63.6 0 1 0.0 0 0 - 2 1 3 4 0 0 2 1 -3
+p394
+aVJumaine Jones LAL 02/06/2005 LAL @ HOU L 38 18 5 12 41.7 3 8 37.5 5 5 100.0 4 9 13 1 1 1 2 1 -2
+p395
+aVBrian Grant LAL 02/06/2005 LAL @ HOU L 12 0 0 1 0.0 0 0 - 0 0 - 3 2 5 1 0 0 1 2 3
+p396
+aVBrian Cook LAL 02/06/2005 LAL @ HOU L 19 7 3 11 27.3 1 5 20.0 0 0 - 0 4 4 1 0 0 0 2 4
+p397
+aVTierre Brown LAL 02/06/2005 LAL @ HOU L 7 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 0 2 0 -2
+p398
+aVLuke Walton LAL 02/06/2005 LAL @ HOU L 18 7 3 4 75.0 0 1 0.0 1 1 100.0 2 1 3 1 0 0 4 2 3
+p399
+aVChris Mihm LAL 02/06/2005 LAL @ HOU L 25 11 5 9 55.6 0 0 - 1 2 50.0 3 3 6 0 0 0 3 5 -7
+p400
+aVJumaine Jones LAL 02/03/2005 LAL vs. SAS L 26 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 1 -14
+p401
+aVTierre Brown LAL 02/03/2005 LAL vs. SAS L 9 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 2 0 1 1 1
+p402
+aVCaron Butler LAL 02/03/2005 LAL vs. SAS L 40 14 4 9 44.4 1 2 50.0 5 6 83.3 0 3 3 1 2 0 4 5 -13
+p403
+aVBrian Cook LAL 02/03/2005 LAL vs. SAS L 17 10 4 6 66.7 2 2 100.0 0 0 - 1 1 2 0 0 0 1 5 9
+p404
+aVLuke Walton LAL 02/03/2005 LAL vs. SAS L 30 5 1 5 20.0 0 1 0.0 3 5 60.0 2 4 6 6 1 2 1 1 3
+p405
+aVChucky Atkins LAL 02/03/2005 LAL vs. SAS L 39 18 6 12 50.0 0 2 0.0 6 6 100.0 0 1 1 5 1 0 3 3 -13
+p406
+aVBrian Grant LAL 02/03/2005 LAL vs. SAS L 11 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 1 0 3 0 0 -12
+p407
+aVLamar Odom LAL 02/03/2005 LAL vs. SAS L 40 23 9 16 56.3 0 1 0.0 5 7 71.4 1 12 13 3 0 1 4 0 0
+p408
+aVChris Mihm LAL 02/03/2005 LAL vs. SAS L 25 10 5 9 55.6 0 0 - 0 0 - 3 4 7 0 0 0 3 2 -13
+p409
+aVSlava Medvedenko LAL 02/03/2005 LAL vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -8
+p410
+aVChucky Atkins LAL 02/01/2005 LAL vs. POR W 39 19 7 13 53.8 3 4 75.0 2 2 100.0 0 4 4 8 1 0 2 2 -2
+p411
+aVBrian Cook LAL 02/01/2005 LAL vs. POR W 15 7 3 5 60.0 1 2 50.0 0 0 - 0 4 4 0 0 0 0 0 17
+p412
+aVJumaine Jones LAL 02/01/2005 LAL vs. POR W 29 6 3 7 42.9 0 2 0.0 0 0 - 3 4 7 1 1 0 1 1 6
+p413
+aVChris Mihm LAL 02/01/2005 LAL vs. POR W 32 13 6 11 54.5 0 0 - 1 2 50.0 3 7 10 1 0 0 3 3 -3
+p414
+aVCaron Butler LAL 02/01/2005 LAL vs. POR W 39 19 9 19 47.4 0 1 0.0 1 1 100.0 2 8 10 2 2 0 0 3 4
+p415
+aVSasha Vujacic LAL 02/01/2005 LAL vs. POR W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 2 0 1 0 19
+p416
+aVLamar Odom LAL 02/01/2005 LAL vs. POR W 33 18 8 18 44.4 1 3 33.3 1 3 33.3 1 5 6 5 2 3 2 0 -4
+p417
+aVSlava Medvedenko LAL 02/01/2005 LAL vs. POR W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p418
+aVTierre Brown LAL 02/01/2005 LAL vs. POR W 21 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 9 0 0 3 0 12
+p419
+aVBrian Grant LAL 02/01/2005 LAL vs. POR W 13 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 18
+p420
+aVSlava Medvedenko LAL 01/30/2005 LAL vs. CHA W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p421
+aVJumaine Jones LAL 01/30/2005 LAL vs. CHA W 40 8 3 7 42.9 2 5 40.0 0 0 - 1 5 6 1 0 0 1 1 18
+p422
+aVChucky Atkins LAL 01/30/2005 LAL vs. CHA W 38 20 6 10 60.0 2 5 40.0 6 7 85.7 0 1 1 6 0 0 2 1 19
+p423
+aVChris Mihm LAL 01/30/2005 LAL vs. CHA W 27 16 6 11 54.5 0 1 0.0 4 7 57.1 2 10 12 1 0 5 4 5 15
+p424
+aVSasha Vujacic LAL 01/30/2005 LAL vs. CHA W 12 0 0 5 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 -5
+p425
+aVTierre Brown LAL 01/30/2005 LAL vs. CHA W 10 5 2 7 28.6 0 0 - 1 1 100.0 0 0 0 2 0 0 0 0 -8
+p426
+aVLamar Odom LAL 01/30/2005 LAL vs. CHA W 33 15 6 14 42.9 1 2 50.0 2 2 100.0 0 9 9 7 0 1 2 4 13
+p427
+aVCaron Butler LAL 01/30/2005 LAL vs. CHA W 45 20 6 11 54.5 0 0 - 8 9 88.9 0 2 2 1 3 0 3 1 9
+p428
+aVBrian Grant LAL 01/30/2005 LAL vs. CHA W 18 4 1 2 50.0 0 0 - 2 4 50.0 0 3 3 1 0 0 0 1 -4
+p429
+aVBrian Cook LAL 01/30/2005 LAL vs. CHA W 15 13 5 7 71.4 3 3 100.0 0 0 - 1 6 7 0 0 0 0 2 -2
+p430
+aVLamar Odom LAL 01/28/2005 LAL vs. NJN L 44 16 6 13 46.2 0 1 0.0 4 4 100.0 5 8 13 8 2 1 6 3 -2
+p431
+aVTierre Brown LAL 01/28/2005 LAL vs. NJN L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -5
+p432
+aVJumaine Jones LAL 01/28/2005 LAL vs. NJN L 33 5 2 6 33.3 1 2 50.0 0 0 - 2 5 7 1 0 0 2 5 0
+p433
+aVCaron Butler LAL 01/28/2005 LAL vs. NJN L 46 31 10 23 43.5 1 3 33.3 10 10 100.0 5 5 10 3 2 1 1 2 -7
+p434
+aVBrian Grant LAL 01/28/2005 LAL vs. NJN L 5 2 1 2 50.0 0 0 - 0 1 0.0 1 1 2 1 0 0 1 2 3
+p435
+aVChucky Atkins LAL 01/28/2005 LAL vs. NJN L 41 22 7 16 43.8 5 9 55.6 3 4 75.0 0 3 3 6 2 0 3 1 -1
+p436
+aVChris Mihm LAL 01/28/2005 LAL vs. NJN L 26 14 6 12 50.0 0 0 - 2 2 100.0 6 4 10 1 0 3 2 5 -1
+p437
+aVSlava Medvedenko LAL 01/28/2005 LAL vs. NJN L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p438
+aVBrian Cook LAL 01/28/2005 LAL vs. NJN L 16 3 1 4 25.0 0 2 0.0 1 2 50.0 2 4 6 0 0 0 0 3 -2
+p439
+aVSasha Vujacic LAL 01/28/2005 LAL vs. NJN L 18 8 3 9 33.3 2 7 28.6 0 0 - 1 1 2 1 0 0 1 2 -11
+p440
+aVBrian Cook LAL 01/26/2005 LAL @ LAC L 25 14 6 10 60.0 2 2 100.0 0 0 - 2 2 4 1 1 1 2 4 6
+p441
+aVChris Mihm LAL 01/26/2005 LAL @ LAC L 13 4 2 7 28.6 0 0 - 0 0 - 2 1 3 0 0 0 2 2 -11
+p442
+aVTierre Brown LAL 01/26/2005 LAL @ LAC L 9 0 0 4 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -4
+p443
+aVSlava Medvedenko LAL 01/26/2005 LAL @ LAC L 16 9 4 4 100.0 0 0 - 1 3 33.3 0 1 1 1 0 0 0 4 -7
+p444
+aVBrian Grant LAL 01/26/2005 LAL @ LAC L 19 2 0 0 - 0 0 - 2 2 100.0 1 4 5 0 0 0 1 4 3
+p445
+aVLamar Odom LAL 01/26/2005 LAL @ LAC L 23 8 3 10 30.0 0 1 0.0 2 2 100.0 1 5 6 3 0 1 3 6 -23
+p446
+aVCaron Butler LAL 01/26/2005 LAL @ LAC L 32 16 5 13 38.5 0 2 0.0 6 7 85.7 1 3 4 3 3 1 3 1 -13
+p447
+aVTony Bobbitt LAL 01/26/2005 LAL @ LAC L 6 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 0 0
+p448
+aVSasha Vujacic LAL 01/26/2005 LAL @ LAC L 15 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 2 0 0 2 2 -4
+p449
+aVChucky Atkins LAL 01/26/2005 LAL @ LAC L 39 17 6 16 37.5 1 5 20.0 4 4 100.0 1 1 2 4 0 0 3 1 -12
+p450
+aVJumaine Jones LAL 01/26/2005 LAL @ LAC L 43 11 4 6 66.7 3 4 75.0 0 0 - 1 6 7 0 2 1 2 2 -15
+p451
+aVCaron Butler LAL 01/25/2005 LAL vs. SEA L 36 10 5 10 50.0 0 1 0.0 0 0 - 0 2 2 3 1 0 2 3 -7
+p452
+aVTony Bobbitt LAL 01/25/2005 LAL vs. SEA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p453
+aVTierre Brown LAL 01/25/2005 LAL vs. SEA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p454
+aVSasha Vujacic LAL 01/25/2005 LAL vs. SEA L 9 2 0 5 0.0 0 4 0.0 2 2 100.0 0 2 2 1 0 0 0 0 -3
+p455
+aVBrian Grant LAL 01/25/2005 LAL vs. SEA L 21 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -10
+p456
+aVChucky Atkins LAL 01/25/2005 LAL vs. SEA L 41 13 5 12 41.7 1 6 16.7 2 2 100.0 1 5 6 6 2 1 4 3 -8
+p457
+aVBrian Cook LAL 01/25/2005 LAL vs. SEA L 10 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 -5
+p458
+aVLamar Odom LAL 01/25/2005 LAL vs. SEA L 38 19 8 17 47.1 0 2 0.0 3 4 75.0 3 10 13 8 1 1 3 4 -9
+p459
+aVJumaine Jones LAL 01/25/2005 LAL vs. SEA L 33 13 5 9 55.6 3 5 60.0 0 0 - 3 4 7 0 0 0 1 2 -7
+p460
+aVChris Mihm LAL 01/25/2005 LAL vs. SEA L 17 6 1 3 33.3 0 0 - 4 8 50.0 0 1 1 0 0 2 1 0 0
+p461
+aVLuke Walton LAL 01/25/2005 LAL vs. SEA L 19 19 6 7 85.7 3 4 75.0 4 4 100.0 0 1 1 1 0 0 0 2 -10
+p462
+aVSlava Medvedenko LAL 01/25/2005 LAL vs. SEA L 3 4 1 2 50.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 0 5
+p463
+aVCaron Butler LAL 01/21/2005 LAL vs. GSW W 42 14 5 14 35.7 0 1 0.0 4 4 100.0 2 7 9 6 1 0 3 3 1
+p464
+aVChris Mihm LAL 01/21/2005 LAL vs. GSW W 23 8 4 10 40.0 0 0 - 0 2 0.0 3 4 7 1 0 2 1 2 4
+p465
+aVLuke Walton LAL 01/21/2005 LAL vs. GSW W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -2
+p466
+aVBrian Grant LAL 01/21/2005 LAL vs. GSW W 15 6 3 3 100.0 0 0 - 0 0 - 3 2 5 0 0 2 1 1 6
+p467
+aVTierre Brown LAL 01/21/2005 LAL vs. GSW W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 3 0 -4
+p468
+aVChucky Atkins LAL 01/21/2005 LAL vs. GSW W 43 26 9 18 50.0 4 11 36.4 4 5 80.0 0 4 4 10 4 0 3 3 8
+p469
+aVBrian Cook LAL 01/21/2005 LAL vs. GSW W 20 7 2 8 25.0 2 5 40.0 1 2 50.0 2 3 5 0 0 1 2 2 -9
+p470
+aVJumaine Jones LAL 01/21/2005 LAL vs. GSW W 43 16 6 11 54.5 4 7 57.1 0 0 - 4 5 9 4 0 0 1 3 9
+p471
+aVLamar Odom LAL 01/21/2005 LAL vs. GSW W 38 25 10 16 62.5 2 4 50.0 3 6 50.0 1 5 6 5 0 1 2 2 7
+p472
+aVSasha Vujacic LAL 01/21/2005 LAL vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p473
+aVLamar Odom LAL 01/19/2005 LAL vs. MIN W 29 11 4 10 40.0 0 0 - 3 4 75.0 0 7 7 1 0 0 2 4 3
+p474
+aVCaron Butler LAL 01/19/2005 LAL vs. MIN W 45 16 5 14 35.7 0 1 0.0 6 6 100.0 3 3 6 3 2 0 2 0 10
+p475
+aVBrian Cook LAL 01/19/2005 LAL vs. MIN W 11 3 1 5 20.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 2 0 -8
+p476
+aVChucky Atkins LAL 01/19/2005 LAL vs. MIN W 45 25 10 17 58.8 4 6 66.7 1 1 100.0 0 3 3 11 0 0 5 0 6
+p477
+aVChris Mihm LAL 01/19/2005 LAL vs. MIN W 26 11 4 9 44.4 0 0 - 3 3 100.0 0 6 6 0 0 3 1 1 0
+p478
+aVTierre Brown LAL 01/19/2005 LAL vs. MIN W 9 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 2 0 0 0 4
+p479
+aVJumaine Jones LAL 01/19/2005 LAL vs. MIN W 36 12 4 4 100.0 1 1 100.0 3 4 75.0 1 7 8 0 0 0 0 4 0
+p480
+aVBrian Grant LAL 01/19/2005 LAL vs. MIN W 17 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 6
+p481
+aVSasha Vujacic LAL 01/19/2005 LAL vs. MIN W 22 7 3 6 50.0 1 1 100.0 0 0 - 0 2 2 1 1 0 1 5 -6
+p482
+aVLamar Odom LAL 01/17/2005 LAL vs. UTA L 45 10 3 11 27.3 0 0 - 4 4 100.0 1 9 10 6 2 2 3 2 -1
+p483
+aVBrian Cook LAL 01/17/2005 LAL vs. UTA L 21 11 4 8 50.0 3 7 42.9 0 0 - 2 7 9 1 0 1 0 2 0
+p484
+aVChris Mihm LAL 01/17/2005 LAL vs. UTA L 17 7 1 3 33.3 0 0 - 5 6 83.3 2 4 6 2 0 1 2 3 -5
+p485
+aVTierre Brown LAL 01/17/2005 LAL vs. UTA L 25 11 5 11 45.5 1 4 25.0 0 0 - 0 1 1 3 1 0 3 2 -1
+p486
+aVJumaine Jones LAL 01/17/2005 LAL vs. UTA L 12 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 0 1 0 1 7
+p487
+aVChucky Atkins LAL 01/17/2005 LAL vs. UTA L 43 18 7 18 38.9 2 11 18.2 2 2 100.0 0 2 2 3 0 0 4 2 -9
+p488
+aVCaron Butler LAL 01/17/2005 LAL vs. UTA L 36 26 7 17 41.2 0 1 0.0 12 15 80.0 2 4 6 3 1 0 4 2 -15
+p489
+aVSasha Vujacic LAL 01/17/2005 LAL vs. UTA L 28 7 2 7 28.6 2 5 40.0 1 2 50.0 1 3 4 1 0 0 0 1 -6
+p490
+aVBrian Grant LAL 01/17/2005 LAL vs. UTA L 14 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 -10
+p491
+aVLamar Odom LAL 01/15/2005 LAL @ GSW W 35 27 11 26 42.3 2 2 100.0 3 6 50.0 5 7 12 3 1 1 1 3 -7
+p492
+aVChucky Atkins LAL 01/15/2005 LAL @ GSW W 45 20 8 16 50.0 2 3 66.7 2 5 40.0 0 4 4 3 0 0 2 1 6
+p493
+aVSasha Vujacic LAL 01/15/2005 LAL @ GSW W 18 8 3 4 75.0 2 2 100.0 0 0 - 0 3 3 2 0 0 0 2 -1
+p494
+aVChris Mihm LAL 01/15/2005 LAL @ GSW W 29 16 7 12 58.3 0 0 - 2 5 40.0 6 6 12 1 0 0 2 5 -3
+p495
+aVBrian Grant LAL 01/15/2005 LAL @ GSW W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p496
+aVTierre Brown LAL 01/15/2005 LAL @ GSW W 30 10 5 13 38.5 0 1 0.0 0 0 - 1 5 6 3 3 0 0 1 -5
+p497
+aVBrian Cook LAL 01/15/2005 LAL @ GSW W 24 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 0 1 1 0 3 9
+p498
+aVCaron Butler LAL 01/15/2005 LAL @ GSW W 36 16 5 13 38.5 1 2 50.0 5 6 83.3 3 3 6 2 0 0 1 3 7
+p499
+aVJumaine Jones LAL 01/15/2005 LAL @ GSW W 15 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 0 -1
+p500
+aVChris Mihm LAL 01/13/2005 LAL vs. CLE W 26 13 6 11 54.5 0 0 - 1 2 50.0 2 3 5 0 0 0 1 5 -1
+p501
+aVTierre Brown LAL 01/13/2005 LAL vs. CLE W 12 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 3 1 5
+p502
+aVSasha Vujacic LAL 01/13/2005 LAL vs. CLE W 26 6 1 7 14.3 1 5 20.0 3 3 100.0 0 3 3 1 2 0 0 2 6
+p503
+aVBrian Cook LAL 01/13/2005 LAL vs. CLE W 14 6 2 6 33.3 2 4 50.0 0 0 - 1 3 4 1 0 0 1 0 4
+p504
+aVLamar Odom LAL 01/13/2005 LAL vs. CLE W 39 24 8 17 47.1 0 3 0.0 8 10 80.0 3 5 8 7 0 0 0 1 4
+p505
+aVKobe Bryant LAL 01/13/2005 LAL vs. CLE W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 0 0
+p506
+aVCaron Butler LAL 01/13/2005 LAL vs. CLE W 39 21 7 18 38.9 0 2 0.0 7 8 87.5 4 7 11 1 5 1 5 5 -5
+p507
+aVJumaine Jones LAL 01/13/2005 LAL vs. CLE W 25 5 2 6 33.3 0 2 0.0 1 2 50.0 5 2 7 1 1 1 0 3 5
+p508
+aVBrian Grant LAL 01/13/2005 LAL vs. CLE W 15 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 0 2 0 0 0 3
+p509
+aVChucky Atkins LAL 01/13/2005 LAL vs. CLE W 38 11 2 9 22.2 1 4 25.0 6 6 100.0 0 1 1 3 2 0 2 2 -1
+p510
+aVCaron Butler LAL 01/12/2005 LAL @ DEN L 32 18 4 8 50.0 0 3 0.0 10 13 76.9 1 1 2 1 0 0 1 3 -9
+p511
+aVJumaine Jones LAL 01/12/2005 LAL @ DEN L 16 0 0 4 0.0 0 4 0.0 0 0 - 1 4 5 1 0 1 0 4 -3
+p512
+aVBrian Cook LAL 01/12/2005 LAL @ DEN L 9 0 0 8 0.0 0 6 0.0 0 0 - 2 2 4 1 0 0 0 1 2
+p513
+aVSlava Medvedenko LAL 01/12/2005 LAL @ DEN L 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 7
+p514
+aVLamar Odom LAL 01/12/2005 LAL @ DEN L 33 13 4 12 33.3 2 2 100.0 3 6 50.0 3 9 12 3 0 1 5 4 -21
+p515
+aVTierre Brown LAL 01/12/2005 LAL @ DEN L 16 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -3
+p516
+aVChucky Atkins LAL 01/12/2005 LAL @ DEN L 32 5 2 8 25.0 0 4 0.0 1 2 50.0 1 2 3 3 0 0 1 0 -9
+p517
+aVChris Mihm LAL 01/12/2005 LAL @ DEN L 28 12 6 10 60.0 0 0 - 0 1 0.0 1 4 5 0 0 1 4 3 -19
+p518
+aVLuke Walton LAL 01/12/2005 LAL @ DEN L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 2 0 -1
+p519
+aVBrian Grant LAL 01/12/2005 LAL @ DEN L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 1 1 1 0
+p520
+aVKobe Bryant LAL 01/12/2005 LAL @ DEN L 40 16 5 14 35.7 2 8 25.0 4 6 66.7 1 4 5 7 3 2 1 2 -11
+p521
+aVSasha Vujacic LAL 01/12/2005 LAL @ DEN L 6 7 2 2 100.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 7
+p522
+aVJumaine Jones LAL 01/10/2005 LAL @ MIN W 17 10 2 3 66.7 2 3 66.7 4 4 100.0 0 1 1 0 0 0 0 3 15
+p523
+aVBrian Grant LAL 01/10/2005 LAL @ MIN W 13 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -2
+p524
+aVCaron Butler LAL 01/10/2005 LAL @ MIN W 40 12 5 16 31.3 1 4 25.0 1 1 100.0 3 8 11 2 1 0 3 3 12
+p525
+aVBrian Cook LAL 01/10/2005 LAL @ MIN W 18 8 3 6 50.0 2 4 50.0 0 0 - 1 1 2 1 1 1 0 3 16
+p526
+aVLamar Odom LAL 01/10/2005 LAL @ MIN W 23 5 2 6 33.3 1 2 50.0 0 0 - 2 1 3 2 0 0 3 4 -9
+p527
+aVChucky Atkins LAL 01/10/2005 LAL @ MIN W 40 23 9 19 47.4 4 10 40.0 1 4 25.0 1 6 7 7 0 0 0 2 10
+p528
+aVKobe Bryant LAL 01/10/2005 LAL @ MIN W 40 31 9 19 47.4 6 11 54.5 7 7 100.0 1 0 1 4 0 1 5 0 -8
+p529
+aVTierre Brown LAL 01/10/2005 LAL @ MIN W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -1
+p530
+aVChris Mihm LAL 01/10/2005 LAL @ MIN W 40 14 5 10 50.0 0 0 - 4 6 66.7 4 13 17 5 0 2 2 3 12
+p531
+aVTierre Brown LAL 01/07/2005 LAL vs. HOU W 10 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 1 9
+p532
+aVLamar Odom LAL 01/07/2005 LAL vs. HOU W 37 20 8 13 61.5 2 4 50.0 2 5 40.0 1 11 12 4 0 0 2 3 3
+p533
+aVJumaine Jones LAL 01/07/2005 LAL vs. HOU W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 14
+p534
+aVChucky Atkins LAL 01/07/2005 LAL vs. HOU W 42 15 6 11 54.5 3 6 50.0 0 0 - 0 1 1 5 0 0 1 3 -1
+p535
+aVBrian Grant LAL 01/07/2005 LAL vs. HOU W 25 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 2 0 0 0 3 12
+p536
+aVCaron Butler LAL 01/07/2005 LAL vs. HOU W 44 21 6 12 50.0 1 3 33.3 8 8 100.0 0 4 4 0 0 0 1 2 -3
+p537
+aVChris Mihm LAL 01/07/2005 LAL vs. HOU W 19 10 3 7 42.9 0 0 - 4 4 100.0 3 5 8 1 0 2 1 5 -8
+p538
+aVKobe Bryant LAL 01/07/2005 LAL vs. HOU W 45 27 10 19 52.6 1 2 50.0 6 10 60.0 0 5 5 10 0 0 3 3 5
+p539
+aVBrian Cook LAL 01/07/2005 LAL vs. HOU W 11 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 1 0 0 0 1 4
+p540
+aVKobe Bryant LAL 01/05/2005 LAL @ DAL L 47 32 12 30 40.0 4 11 36.4 4 6 66.7 3 0 3 3 1 0 5 3 -12
+p541
+aVTierre Brown LAL 01/05/2005 LAL @ DAL L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -1
+p542
+aVJumaine Jones LAL 01/05/2005 LAL @ DAL L 25 10 3 8 37.5 1 5 20.0 3 4 75.0 6 7 13 2 1 0 0 0 -3
+p543
+aVCaron Butler LAL 01/05/2005 LAL @ DAL L 34 8 3 8 37.5 1 3 33.3 1 1 100.0 3 5 8 2 0 0 1 3 -13
+p544
+aVLamar Odom LAL 01/05/2005 LAL @ DAL L 36 14 5 12 41.7 0 2 0.0 4 6 66.7 2 4 6 5 0 0 1 6 -12
+p545
+aVChris Mihm LAL 01/05/2005 LAL @ DAL L 31 17 7 13 53.8 0 0 - 3 4 75.0 4 6 10 2 0 4 1 3 -8
+p546
+aVBrian Grant LAL 01/05/2005 LAL @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -11
+p547
+aVChucky Atkins LAL 01/05/2005 LAL @ DAL L 36 14 3 12 25.0 2 9 22.2 6 6 100.0 0 2 2 7 1 0 1 3 -13
+p548
+aVSlava Medvedenko LAL 01/05/2005 LAL @ DAL L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p549
+aVBrian Cook LAL 01/05/2005 LAL @ DAL L 9 9 3 4 75.0 3 3 100.0 0 0 - 2 2 4 0 0 3 0 2 2
+p550
+aVTierre Brown LAL 01/04/2005 LAL @ SAS L 21 9 3 7 42.9 0 0 - 3 3 100.0 0 0 0 5 1 0 0 0 -3
+p551
+aVChris Mihm LAL 01/04/2005 LAL @ SAS L 24 10 4 10 40.0 0 0 - 2 4 50.0 2 4 6 1 0 1 1 0 -13
+p552
+aVLamar Odom LAL 01/04/2005 LAL @ SAS L 32 10 3 10 30.0 0 1 0.0 4 4 100.0 0 8 8 3 0 1 3 2 -19
+p553
+aVSasha Vujacic LAL 01/04/2005 LAL @ SAS L 10 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 1 0 0 0 7
+p554
+aVBrian Grant LAL 01/04/2005 LAL @ SAS L 15 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -11
+p555
+aVJumaine Jones LAL 01/04/2005 LAL @ SAS L 12 5 2 3 66.7 1 2 50.0 0 0 - 1 3 4 0 1 0 2 0 -6
+p556
+aVKobe Bryant LAL 01/04/2005 LAL @ SAS L 35 17 5 16 31.3 0 5 0.0 7 8 87.5 0 5 5 2 1 0 3 2 -21
+p557
+aVSlava Medvedenko LAL 01/04/2005 LAL @ SAS L 12 16 8 10 80.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 8
+p558
+aVCaron Butler LAL 01/04/2005 LAL @ SAS L 32 7 3 10 30.0 0 2 0.0 1 2 50.0 2 3 5 0 1 0 2 3 -17
+p559
+aVBrian Cook LAL 01/04/2005 LAL @ SAS L 14 4 2 6 33.3 0 1 0.0 0 0 - 1 4 5 0 0 0 0 1 1
+p560
+aVLuke Walton LAL 01/04/2005 LAL @ SAS L 7 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 0 3
+p561
+aVChucky Atkins LAL 01/04/2005 LAL @ SAS L 26 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -14
+p562
+aVTierre Brown LAL 01/02/2005 LAL vs. DEN W 11 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 5
+p563
+aVChucky Atkins LAL 01/02/2005 LAL vs. DEN W 37 8 2 9 22.2 2 7 28.6 2 2 100.0 1 1 2 4 0 0 1 3 3
+p564
+aVLamar Odom LAL 01/02/2005 LAL vs. DEN W 39 12 6 14 42.9 0 3 0.0 0 0 - 3 12 15 4 0 2 3 3 9
+p565
+aVChris Mihm LAL 01/02/2005 LAL vs. DEN W 24 10 4 7 57.1 0 0 - 2 3 66.7 4 4 8 0 0 3 1 5 9
+p566
+aVCaron Butler LAL 01/02/2005 LAL vs. DEN W 39 13 4 13 30.8 1 3 33.3 4 4 100.0 1 7 8 1 1 1 2 5 -1
+p567
+aVBrian Cook LAL 01/02/2005 LAL vs. DEN W 12 4 0 4 0.0 0 4 0.0 4 4 100.0 0 0 0 2 1 0 0 2 -7
+p568
+aVJumaine Jones LAL 01/02/2005 LAL vs. DEN W 22 5 2 5 40.0 1 3 33.3 0 0 - 2 3 5 0 2 0 1 2 -9
+p569
+aVKobe Bryant LAL 01/02/2005 LAL vs. DEN W 36 42 14 29 48.3 2 6 33.3 12 16 75.0 0 5 5 4 4 1 7 5 26
+p570
+aVBrian Grant LAL 01/02/2005 LAL vs. DEN W 20 0 0 2 0.0 0 0 - 0 0 - 3 4 7 0 0 0 0 3 5
+p571
+aVBrian Grant LAL 12/28/2004 LAL vs. TOR W 21 6 2 4 50.0 0 0 - 2 2 100.0 3 5 8 0 1 0 1 2 10
+p572
+aVJumaine Jones LAL 12/28/2004 LAL vs. TOR W 22 9 3 9 33.3 2 5 40.0 1 2 50.0 5 6 11 1 0 0 0 2 26
+p573
+aVChris Mihm LAL 12/28/2004 LAL vs. TOR W 17 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 2 2 3 -4
+p574
+aVBrian Cook LAL 12/28/2004 LAL vs. TOR W 19 7 2 9 22.2 2 4 50.0 1 2 50.0 4 2 6 2 1 1 0 2 19
+p575
+aVChucky Atkins LAL 12/28/2004 LAL vs. TOR W 45 14 6 12 50.0 2 6 33.3 0 1 0.0 1 0 1 7 0 0 1 0 14
+p576
+aVTierre Brown LAL 12/28/2004 LAL vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p577
+aVCaron Butler LAL 12/28/2004 LAL vs. TOR W 28 18 5 11 45.5 2 2 100.0 6 7 85.7 2 7 9 1 3 0 3 4 -11
+p578
+aVLamar Odom LAL 12/28/2004 LAL vs. TOR W 39 15 5 9 55.6 1 1 100.0 4 5 80.0 1 12 13 1 2 2 5 4 11
+p579
+aVKobe Bryant LAL 12/28/2004 LAL vs. TOR W 46 48 14 26 53.8 4 7 57.1 16 18 88.9 0 2 2 4 2 0 5 2 21
+p580
+aVTierre Brown LAL 12/25/2004 LAL vs. MIA L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p581
+aVLuke Walton LAL 12/25/2004 LAL vs. MIA L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 -3
+p582
+aVBrian Grant LAL 12/25/2004 LAL vs. MIA L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 1
+p583
+aVJumaine Jones LAL 12/25/2004 LAL vs. MIA L 48 9 4 8 50.0 1 5 20.0 0 0 - 0 6 6 1 0 0 0 3 1
+p584
+aVKobe Bryant LAL 12/25/2004 LAL vs. MIA L 50 42 12 30 40.0 5 13 38.5 13 13 100.0 0 3 3 6 1 0 9 4 0
+p585
+aVChucky Atkins LAL 12/25/2004 LAL vs. MIA L 47 12 4 12 33.3 4 9 44.4 0 0 - 0 2 2 7 0 0 1 2 -1
+p586
+aVChris Mihm LAL 12/25/2004 LAL vs. MIA L 35 11 5 8 62.5 0 0 - 1 2 50.0 4 10 14 2 0 0 0 5 -2
+p587
+aVBrian Cook LAL 12/25/2004 LAL vs. MIA L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 1
+p588
+aVLamar Odom LAL 12/25/2004 LAL vs. MIA L 46 24 9 15 60.0 4 6 66.7 2 4 50.0 3 8 11 4 1 2 5 5 -4
+p589
+aVBrian Grant LAL 12/22/2004 LAL vs. NOH W 13 2 0 1 0.0 0 0 - 2 2 100.0 2 3 5 1 0 1 0 3 -16
+p590
+aVJumaine Jones LAL 12/22/2004 LAL vs. NOH W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 6
+p591
+aVLamar Odom LAL 12/22/2004 LAL vs. NOH W 39 10 3 5 60.0 1 2 50.0 3 4 75.0 1 12 13 4 1 0 2 0 14
+p592
+aVChris Mihm LAL 12/22/2004 LAL vs. NOH W 34 11 5 10 50.0 0 0 - 1 2 50.0 8 13 21 0 1 5 2 3 24
+p593
+aVKobe Bryant LAL 12/22/2004 LAL vs. NOH W 45 29 9 26 34.6 1 4 25.0 10 15 66.7 3 2 5 4 4 1 4 2 10
+p594
+aVTierre Brown LAL 12/22/2004 LAL vs. NOH W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p595
+aVBrian Cook LAL 12/22/2004 LAL vs. NOH W 8 4 2 7 28.6 0 2 0.0 0 0 - 3 0 3 0 0 0 0 1 1
+p596
+aVCaron Butler LAL 12/22/2004 LAL vs. NOH W 35 13 3 8 37.5 1 2 50.0 6 6 100.0 1 6 7 0 2 0 4 2 5
+p597
+aVChucky Atkins LAL 12/22/2004 LAL vs. NOH W 45 30 9 22 40.9 6 15 40.0 6 6 100.0 2 5 7 4 0 0 4 3 19
+p598
+aVTierre Brown LAL 12/20/2004 LAL vs. MEM L 14 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 2 0 -1
+p599
+aVLuke Walton LAL 12/20/2004 LAL vs. MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p600
+aVChucky Atkins LAL 12/20/2004 LAL vs. MEM L 35 5 1 7 14.3 1 4 25.0 2 2 100.0 2 0 2 3 3 0 0 0 -12
+p601
+aVBrian Cook LAL 12/20/2004 LAL vs. MEM L 18 6 2 7 28.6 2 5 40.0 0 0 - 0 5 5 0 0 0 0 3 -6
+p602
+aVLamar Odom LAL 12/20/2004 LAL vs. MEM L 30 14 5 10 50.0 0 1 0.0 4 8 50.0 2 10 12 1 0 1 1 5 1
+p603
+aVChris Mihm LAL 12/20/2004 LAL vs. MEM L 29 13 4 8 50.0 0 0 - 5 8 62.5 2 2 4 0 1 6 1 2 1
+p604
+aVCaron Butler LAL 12/20/2004 LAL vs. MEM L 36 16 7 13 53.8 1 4 25.0 1 1 100.0 1 4 5 1 0 1 0 2 -9
+p605
+aVJumaine Jones LAL 12/20/2004 LAL vs. MEM L 28 7 2 8 25.0 1 7 14.3 2 2 100.0 2 3 5 2 0 1 0 1 -14
+p606
+aVKobe Bryant LAL 12/20/2004 LAL vs. MEM L 44 11 2 16 12.5 0 6 0.0 7 9 77.8 0 6 6 8 1 2 4 4 -5
+p607
+aVSlava Medvedenko LAL 12/20/2004 LAL vs. MEM L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p608
+aVCaron Butler LAL 12/17/2004 LAL vs. WAS L 35 17 8 17 47.1 1 2 50.0 0 0 - 3 4 7 2 0 0 0 2 -11
+p609
+aVTierre Brown LAL 12/17/2004 LAL vs. WAS L 12 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 4
+p610
+aVLuke Walton LAL 12/17/2004 LAL vs. WAS L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -1
+p611
+aVKobe Bryant LAL 12/17/2004 LAL vs. WAS L 50 36 9 22 40.9 3 7 42.9 15 22 68.2 1 9 10 14 2 1 5 1 -3
+p612
+aVBrian Cook LAL 12/17/2004 LAL vs. WAS L 37 15 5 10 50.0 3 6 50.0 2 2 100.0 1 3 4 1 0 0 1 3 8
+p613
+aVChris Mihm LAL 12/17/2004 LAL vs. WAS L 18 0 0 1 0.0 0 0 - 0 0 - 3 3 6 1 1 1 5 4 -14
+p614
+aVJumaine Jones LAL 12/17/2004 LAL vs. WAS L 20 6 2 5 40.0 2 4 50.0 0 0 - 1 3 4 0 0 0 1 1 8
+p615
+aVChucky Atkins LAL 12/17/2004 LAL vs. WAS L 44 23 9 17 52.9 5 10 50.0 0 0 - 1 1 2 2 1 0 2 5 -9
+p616
+aVLamar Odom LAL 12/17/2004 LAL vs. WAS L 45 15 5 11 45.5 0 1 0.0 5 6 83.3 2 8 10 1 0 1 2 5 -2
+p617
+aVLamar Odom LAL 12/16/2004 LAL @ SAC W 37 22 11 16 68.8 0 1 0.0 0 0 - 0 7 7 2 0 1 1 3 15
+p618
+aVLuke Walton LAL 12/16/2004 LAL @ SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p619
+aVTierre Brown LAL 12/16/2004 LAL @ SAC W 22 15 6 9 66.7 2 3 66.7 1 2 50.0 0 1 1 4 0 0 3 1 -2
+p620
+aVKobe Bryant LAL 12/16/2004 LAL @ SAC W 41 31 10 17 58.8 3 8 37.5 8 10 80.0 0 6 6 12 2 2 4 2 15
+p621
+aVSlava Medvedenko LAL 12/16/2004 LAL @ SAC W 3 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -5
+p622
+aVBrian Cook LAL 12/16/2004 LAL @ SAC W 24 12 4 10 40.0 4 7 57.1 0 0 - 2 5 7 0 0 0 0 0 4
+p623
+aVChucky Atkins LAL 12/16/2004 LAL @ SAC W 30 11 5 9 55.6 1 4 25.0 0 0 - 0 2 2 5 2 0 0 1 24
+p624
+aVJumaine Jones LAL 12/16/2004 LAL @ SAC W 18 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 1 0 0 0 3 3
+p625
+aVVlade Divac LAL 12/16/2004 LAL @ SAC W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 2
+p626
+aVCaron Butler LAL 12/16/2004 LAL @ SAC W 35 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 1 0 0 0 2 24
+p627
+aVSasha Vujacic LAL 12/16/2004 LAL @ SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p628
+aVChris Mihm LAL 12/16/2004 LAL @ SAC W 21 8 4 6 66.7 0 0 - 0 0 - 2 6 8 1 0 0 2 1 10
+p629
+aVBrian Cook LAL 12/14/2004 LAL @ SEA L 20 3 1 6 16.7 1 4 25.0 0 0 - 0 0 0 0 0 1 0 1 -7
+p630
+aVChucky Atkins LAL 12/14/2004 LAL @ SEA L 32 5 2 9 22.2 1 7 14.3 0 2 0.0 0 6 6 3 2 0 2 1 -16
+p631
+aVJumaine Jones LAL 12/14/2004 LAL @ SEA L 18 12 5 9 55.6 1 3 33.3 1 2 50.0 3 2 5 0 0 0 0 3 -5
+p632
+aVLuke Walton LAL 12/14/2004 LAL @ SEA L 7 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 1 1 -9
+p633
+aVSasha Vujacic LAL 12/14/2004 LAL @ SEA L 1 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 4
+p634
+aVKobe Bryant LAL 12/14/2004 LAL @ SEA L 45 35 12 23 52.2 3 8 37.5 8 10 80.0 4 5 9 5 1 0 4 2 -13
+p635
+aVLamar Odom LAL 12/14/2004 LAL @ SEA L 35 8 3 10 30.0 0 1 0.0 2 4 50.0 2 7 9 0 1 0 4 5 -14
+p636
+aVChris Mihm LAL 12/14/2004 LAL @ SEA L 29 9 1 4 25.0 0 0 - 7 10 70.0 1 1 2 0 0 4 0 3 -4
+p637
+aVCaron Butler LAL 12/14/2004 LAL @ SEA L 35 16 6 12 50.0 0 0 - 4 4 100.0 5 2 7 0 0 0 1 2 -6
+p638
+aVTierre Brown LAL 12/14/2004 LAL @ SEA L 18 3 1 5 20.0 1 1 100.0 0 0 - 0 3 3 2 0 0 1 1 -5
+p639
+aVChris Mihm LAL 12/12/2004 LAL vs. ORL W 36 25 11 18 61.1 0 0 - 3 6 50.0 8 6 14 0 0 2 0 3 15
+p640
+aVVlade Divac LAL 12/12/2004 LAL vs. ORL W 2 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 1 1
+p641
+aVBrian Cook LAL 12/12/2004 LAL vs. ORL W 7 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p642
+aVJumaine Jones LAL 12/12/2004 LAL vs. ORL W 28 25 9 11 81.8 7 8 87.5 0 0 - 2 5 7 0 0 0 0 2 8
+p643
+aVLamar Odom LAL 12/12/2004 LAL vs. ORL W 36 15 5 9 55.6 1 1 100.0 4 5 80.0 1 7 8 5 0 1 3 0 -1
+p644
+aVLuke Walton LAL 12/12/2004 LAL vs. ORL W 9 0 0 2 0.0 0 1 0.0 0 0 - 3 0 3 0 2 1 0 1 0
+p645
+aVChucky Atkins LAL 12/12/2004 LAL vs. ORL W 20 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 5 0 0 1 4 -1
+p646
+aVKobe Bryant LAL 12/12/2004 LAL vs. ORL W 41 23 6 23 26.1 0 1 0.0 11 15 73.3 4 4 8 6 0 0 3 2 6
+p647
+aVCaron Butler LAL 12/12/2004 LAL vs. ORL W 33 0 0 4 0.0 0 2 0.0 0 0 - 1 3 4 1 2 1 0 2 6
+p648
+aVTierre Brown LAL 12/12/2004 LAL vs. ORL W 28 10 3 10 30.0 1 3 33.3 3 4 75.0 0 1 1 8 0 0 1 0 8
+p649
+aVChris Mihm LAL 12/11/2004 LAL @ LAC W 19 4 2 6 33.3 0 0 - 0 0 - 3 0 3 0 0 0 1 2 -6
+p650
+aVLamar Odom LAL 12/11/2004 LAL @ LAC W 38 19 7 11 63.6 1 1 100.0 4 4 100.0 2 10 12 1 0 0 2 5 9
+p651
+aVJumaine Jones LAL 12/11/2004 LAL @ LAC W 25 3 1 3 33.3 1 3 33.3 0 0 - 0 9 9 0 0 0 2 1 8
+p652
+aVChucky Atkins LAL 12/11/2004 LAL @ LAC W 37 14 6 9 66.7 2 3 66.7 0 0 - 1 0 1 2 1 0 2 0 -12
+p653
+aVTierre Brown LAL 12/11/2004 LAL @ LAC W 13 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 3 11
+p654
+aVLuke Walton LAL 12/11/2004 LAL @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p655
+aVBrian Cook LAL 12/11/2004 LAL @ LAC W 34 8 3 5 60.0 0 1 0.0 2 2 100.0 3 2 5 0 1 1 0 3 0
+p656
+aVVlade Divac LAL 12/11/2004 LAL @ LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 1 0 0
+p657
+aVKobe Bryant LAL 12/11/2004 LAL @ LAC W 45 37 13 32 40.6 1 6 16.7 10 10 100.0 1 9 10 5 0 2 4 2 7
+p658
+aVCaron Butler LAL 12/11/2004 LAL @ LAC W 25 2 0 6 0.0 0 1 0.0 2 2 100.0 4 1 5 0 0 0 1 4 -9
+p659
+aVLamar Odom LAL 12/08/2004 LAL vs. PHX L 38 19 9 14 64.3 0 0 - 1 1 100.0 4 8 12 2 0 2 2 2 1
+p660
+aVCaron Butler LAL 12/08/2004 LAL vs. PHX L 40 19 7 15 46.7 2 5 40.0 3 3 100.0 5 5 10 2 1 0 2 1 -8
+p661
+aVChris Mihm LAL 12/08/2004 LAL vs. PHX L 27 18 8 12 66.7 0 0 - 2 3 66.7 4 2 6 1 1 1 1 5 3
+p662
+aVChucky Atkins LAL 12/08/2004 LAL vs. PHX L 35 7 3 10 30.0 1 6 16.7 0 0 - 0 2 2 4 3 0 0 1 -8
+p663
+aVLuke Walton LAL 12/08/2004 LAL vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p664
+aVKobe Bryant LAL 12/08/2004 LAL vs. PHX L 45 20 7 23 30.4 4 10 40.0 2 3 66.7 3 11 14 11 2 0 8 3 -1
+p665
+aVJumaine Jones LAL 12/08/2004 LAL vs. PHX L 16 4 2 4 50.0 0 0 - 0 0 - 4 1 5 3 1 0 0 2 -5
+p666
+aVBrian Cook LAL 12/08/2004 LAL vs. PHX L 24 16 7 17 41.2 2 8 25.0 0 0 - 0 2 2 0 0 0 1 6 -2
+p667
+aVTierre Brown LAL 12/08/2004 LAL vs. PHX L 13 7 3 6 50.0 1 1 100.0 0 0 - 1 0 1 3 0 0 0 0 5
+p668
+aVVlade Divac LAL 12/03/2004 LAL vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -1
+p669
+aVChucky Atkins LAL 12/03/2004 LAL vs. GSW W 29 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 0 0 1 3 8
+p670
+aVBrian Cook LAL 12/03/2004 LAL vs. GSW W 29 15 5 11 45.5 3 6 50.0 2 2 100.0 2 2 4 1 1 1 1 6 9
+p671
+aVJumaine Jones LAL 12/03/2004 LAL vs. GSW W 18 2 1 2 50.0 0 1 0.0 0 2 0.0 1 8 9 1 1 2 0 1 10
+p672
+aVChris Mihm LAL 12/03/2004 LAL vs. GSW W 28 15 6 11 54.5 0 0 - 3 8 37.5 5 5 10 0 1 0 1 2 0
+p673
+aVLuke Walton LAL 12/03/2004 LAL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p674
+aVLamar Odom LAL 12/03/2004 LAL vs. GSW W 32 13 5 13 38.5 0 1 0.0 3 4 75.0 1 7 8 4 0 1 0 4 8
+p675
+aVTierre Brown LAL 12/03/2004 LAL vs. GSW W 19 10 3 8 37.5 1 2 50.0 3 3 100.0 1 1 2 3 1 0 0 1 3
+p676
+aVCaron Butler LAL 12/03/2004 LAL vs. GSW W 38 27 11 20 55.0 0 0 - 5 6 83.3 1 3 4 2 2 1 2 2 3
+p677
+aVKobe Bryant LAL 12/03/2004 LAL vs. GSW W 43 10 3 12 25.0 0 2 0.0 4 7 57.1 0 12 12 10 2 0 8 3 6
+p678
+aVJumaine Jones LAL 12/01/2004 LAL @ CHI L 13 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 0 1 1 0 2 6
+p679
+aVCaron Butler LAL 12/01/2004 LAL @ CHI L 40 13 5 12 41.7 0 2 0.0 3 3 100.0 1 4 5 1 1 0 2 3 -8
+p680
+aVBrian Cook LAL 12/01/2004 LAL @ CHI L 32 7 3 6 50.0 1 3 33.3 0 0 - 1 6 7 3 2 0 0 4 2
+p681
+aVKobe Bryant LAL 12/01/2004 LAL @ CHI L 44 28 9 21 42.9 3 11 27.3 7 9 77.8 0 3 3 10 1 3 6 4 -3
+p682
+aVTierre Brown LAL 12/01/2004 LAL @ CHI L 13 3 1 4 25.0 1 1 100.0 0 0 - 0 4 4 0 0 0 0 1 6
+p683
+aVChris Mihm LAL 12/01/2004 LAL @ CHI L 16 5 2 7 28.6 0 0 - 1 2 50.0 3 1 4 0 0 1 0 1 -10
+p684
+aVVlade Divac LAL 12/01/2004 LAL @ CHI L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 0
+p685
+aVKareem Rush LAL 12/01/2004 LAL @ CHI L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p686
+aVLamar Odom LAL 12/01/2004 LAL @ CHI L 35 7 3 6 50.0 0 2 0.0 1 1 100.0 1 10 11 2 1 1 2 3 -14
+p687
+aVChucky Atkins LAL 12/01/2004 LAL @ CHI L 35 19 7 11 63.6 4 6 66.7 1 2 50.0 0 2 2 5 0 0 6 2 -14
+p688
+aVTierre Brown LAL 11/30/2004 LAL @ MIL W 15 0 0 3 0.0 0 0 - 0 0 - 0 1 1 4 0 0 1 1 2
+p689
+aVKobe Bryant LAL 11/30/2004 LAL @ MIL W 43 20 4 13 30.8 2 6 33.3 10 12 83.3 3 4 7 11 1 2 4 2 1
+p690
+aVVlade Divac LAL 11/30/2004 LAL @ MIL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 1 2 14
+p691
+aVCaron Butler LAL 11/30/2004 LAL @ MIL W 27 10 3 8 37.5 0 2 0.0 4 4 100.0 0 3 3 1 0 0 2 4 4
+p692
+aVBrian Cook LAL 11/30/2004 LAL @ MIL W 32 25 10 14 71.4 5 6 83.3 0 0 - 7 4 11 0 1 0 0 1 14
+p693
+aVKareem Rush LAL 11/30/2004 LAL @ MIL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 4
+p694
+aVLamar Odom LAL 11/30/2004 LAL @ MIL W 40 16 7 12 58.3 0 1 0.0 2 3 66.7 1 10 11 5 1 1 3 4 -6
+p695
+aVChucky Atkins LAL 11/30/2004 LAL @ MIL W 35 13 5 12 41.7 2 8 25.0 1 4 25.0 1 1 2 3 2 0 2 3 2
+p696
+aVChris Mihm LAL 11/30/2004 LAL @ MIL W 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -11
+p697
+aVJumaine Jones LAL 11/30/2004 LAL @ MIL W 21 3 1 5 20.0 1 3 33.3 0 0 - 1 5 6 0 1 0 1 2 1
+p698
+aVTierre Brown LAL 11/28/2004 LAL vs. NOH W 18 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 5 0 0 5 3 6
+p699
+aVLamar Odom LAL 11/28/2004 LAL vs. NOH W 43 14 5 10 50.0 0 2 0.0 4 5 80.0 3 11 14 4 1 1 1 1 14
+p700
+aVBrian Cook LAL 11/28/2004 LAL vs. NOH W 19 10 4 7 57.1 2 5 40.0 0 0 - 0 1 1 0 0 1 0 3 13
+p701
+aVKobe Bryant LAL 11/28/2004 LAL vs. NOH W 44 20 7 20 35.0 1 5 20.0 5 5 100.0 2 4 6 7 3 1 7 4 4
+p702
+aVKareem Rush LAL 11/28/2004 LAL vs. NOH W 4 4 1 3 33.3 1 2 50.0 1 1 100.0 0 0 0 0 0 0 0 0 9
+p703
+aVChris Mihm LAL 11/28/2004 LAL vs. NOH W 24 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -3
+p704
+aVChucky Atkins LAL 11/28/2004 LAL vs. NOH W 31 17 4 9 44.4 3 6 50.0 6 6 100.0 0 3 3 3 2 0 1 4 7
+p705
+aVCaron Butler LAL 11/28/2004 LAL vs. NOH W 33 10 3 10 30.0 1 1 100.0 3 3 100.0 2 6 8 1 1 0 4 2 -6
+p706
+aVLuke Walton LAL 11/28/2004 LAL vs. NOH W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 7
+p707
+aVJumaine Jones LAL 11/28/2004 LAL vs. NOH W 17 2 1 4 25.0 0 3 0.0 0 0 - 2 1 3 0 1 0 0 2 14
+p708
+aVTierre Brown LAL 11/26/2004 LAL vs. SAC L 11 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 0 3
+p709
+aVKobe Bryant LAL 11/26/2004 LAL vs. SAC L 45 40 11 17 64.7 3 4 75.0 15 19 78.9 1 6 7 8 0 2 3 2 1
+p710
+aVKareem Rush LAL 11/26/2004 LAL vs. SAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p711
+aVJumaine Jones LAL 11/26/2004 LAL vs. SAC L 24 10 3 6 50.0 2 3 66.7 2 2 100.0 3 3 6 1 1 1 0 2 -4
+p712
+aVChucky Atkins LAL 11/26/2004 LAL vs. SAC L 37 5 2 10 20.0 1 7 14.3 0 0 - 0 1 1 7 3 0 2 2 -6
+p713
+aVSlava Medvedenko LAL 11/26/2004 LAL vs. SAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p714
+aVLamar Odom LAL 11/26/2004 LAL vs. SAC L 34 11 5 15 33.3 0 1 0.0 1 2 50.0 4 10 14 2 0 1 3 5 2
+p715
+aVChris Mihm LAL 11/26/2004 LAL vs. SAC L 21 15 5 10 50.0 0 0 - 5 6 83.3 3 4 7 0 0 1 1 5 1
+p716
+aVCaron Butler LAL 11/26/2004 LAL vs. SAC L 23 6 3 8 37.5 0 2 0.0 0 0 - 1 1 2 1 1 0 0 4 -1
+p717
+aVVlade Divac LAL 11/26/2004 LAL vs. SAC L 7 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 1 0 -4
+p718
+aVBrian Cook LAL 11/26/2004 LAL vs. SAC L 26 15 5 13 38.5 2 5 40.0 3 4 75.0 2 4 6 0 0 1 1 4 -1
+p719
+aVJumaine Jones LAL 11/23/2004 LAL vs. MIL W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 1
+p720
+aVCaron Butler LAL 11/23/2004 LAL vs. MIL W 41 16 7 13 53.8 1 4 25.0 1 1 100.0 1 3 4 4 4 0 0 4 3
+p721
+aVBrian Cook LAL 11/23/2004 LAL vs. MIL W 19 9 4 7 57.1 1 2 50.0 0 0 - 2 2 4 0 0 0 0 3 -3
+p722
+aVLamar Odom LAL 11/23/2004 LAL vs. MIL W 37 17 8 12 66.7 1 2 50.0 0 3 0.0 3 6 9 2 1 0 1 4 12
+p723
+aVTierre Brown LAL 11/23/2004 LAL vs. MIL W 14 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 6 0 0 2 1 0
+p724
+aVVlade Divac LAL 11/23/2004 LAL vs. MIL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p725
+aVChucky Atkins LAL 11/23/2004 LAL vs. MIL W 34 8 1 8 12.5 1 5 20.0 5 6 83.3 0 3 3 3 2 0 0 4 4
+p726
+aVKobe Bryant LAL 11/23/2004 LAL vs. MIL W 44 30 11 24 45.8 0 2 0.0 8 10 80.0 1 5 6 5 3 1 4 2 7
+p727
+aVChris Mihm LAL 11/23/2004 LAL vs. MIL W 35 12 4 6 66.7 0 0 - 4 4 100.0 0 7 7 0 1 5 3 3 4
+p728
+aVKareem Rush LAL 11/23/2004 LAL vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p729
+aVBrian Grant LAL 11/21/2004 LAL vs. CHI W 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 3 -18
+p730
+aVLamar Odom LAL 11/21/2004 LAL vs. CHI W 37 12 3 8 37.5 1 2 50.0 5 6 83.3 4 8 12 5 0 0 3 4 8
+p731
+aVChucky Atkins LAL 11/21/2004 LAL vs. CHI W 39 14 5 12 41.7 4 9 44.4 0 0 - 1 3 4 4 1 0 1 4 9
+p732
+aVCaron Butler LAL 11/21/2004 LAL vs. CHI W 42 21 7 20 35.0 3 8 37.5 4 4 100.0 2 5 7 3 2 1 1 3 9
+p733
+aVLuke Walton LAL 11/21/2004 LAL vs. CHI W 11 3 1 1 100.0 1 1 100.0 0 0 - 3 1 4 4 1 0 1 3 4
+p734
+aVTierre Brown LAL 11/21/2004 LAL vs. CHI W 9 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 0
+p735
+aVChris Mihm LAL 11/21/2004 LAL vs. CHI W 34 18 7 11 63.6 0 0 - 4 4 100.0 7 3 10 0 1 0 1 4 27
+p736
+aVKobe Bryant LAL 11/21/2004 LAL vs. CHI W 45 29 10 22 45.5 1 2 50.0 8 17 47.1 2 8 10 7 1 1 9 4 11
+p737
+aVBrian Cook LAL 11/21/2004 LAL vs. CHI W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 3 -5
+p738
+aVLamar Odom LAL 11/19/2004 LAL @ PHX L 42 18 7 13 53.8 1 2 50.0 3 8 37.5 3 12 15 3 0 0 4 4 0
+p739
+aVKareem Rush LAL 11/19/2004 LAL @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p740
+aVLuke Walton LAL 11/19/2004 LAL @ PHX L 15 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 1 1 1 -12
+p741
+aVChucky Atkins LAL 11/19/2004 LAL @ PHX L 36 14 5 7 71.4 4 5 80.0 0 0 - 0 3 3 1 0 0 1 4 3
+p742
+aVKobe Bryant LAL 11/19/2004 LAL @ PHX L 45 29 10 33 30.3 5 10 50.0 4 5 80.0 4 7 11 10 0 1 3 1 -2
+p743
+aVTierre Brown LAL 11/19/2004 LAL @ PHX L 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -8
+p744
+aVBrian Grant LAL 11/19/2004 LAL @ PHX L 24 5 2 3 66.7 0 0 - 1 2 50.0 3 3 6 0 0 1 0 2 -6
+p745
+aVSlava Medvedenko LAL 11/19/2004 LAL @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p746
+aVBrian Cook LAL 11/19/2004 LAL @ PHX L 22 11 4 6 66.7 3 4 75.0 0 0 - 1 3 4 1 1 1 1 4 5
+p747
+aVCaron Butler LAL 11/19/2004 LAL @ PHX L 37 21 7 14 50.0 1 3 33.3 6 6 100.0 1 5 6 0 0 0 3 6 7
+p748
+aVTierre Brown LAL 11/17/2004 LAL vs. LAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p749
+aVBrian Cook LAL 11/17/2004 LAL vs. LAC W 26 12 5 12 41.7 1 4 25.0 1 2 50.0 3 2 5 0 0 0 2 1 11
+p750
+aVChris Mihm LAL 11/17/2004 LAL vs. LAC W 27 15 4 7 57.1 0 0 - 7 8 87.5 1 4 5 0 1 1 0 2 3
+p751
+aVChucky Atkins LAL 11/17/2004 LAL vs. LAC W 41 17 7 16 43.8 2 8 25.0 1 2 50.0 0 3 3 7 1 0 2 0 16
+p752
+aVKareem Rush LAL 11/17/2004 LAL vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p753
+aVLuke Walton LAL 11/17/2004 LAL vs. LAC W 18 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 4 1 0 1 1 14
+p754
+aVKobe Bryant LAL 11/17/2004 LAL vs. LAC W 45 23 9 16 56.3 0 1 0.0 5 5 100.0 0 6 6 11 5 2 5 5 15
+p755
+aVCaron Butler LAL 11/17/2004 LAL vs. LAC W 29 14 5 10 50.0 1 2 50.0 3 4 75.0 0 2 2 1 2 2 2 3 0
+p756
+aVBrian Grant LAL 11/17/2004 LAL vs. LAC W 18 6 3 4 75.0 0 0 - 0 0 - 1 6 7 0 0 2 0 0 12
+p757
+aVLamar Odom LAL 11/17/2004 LAL vs. LAC W 26 11 4 7 57.1 0 0 - 3 3 100.0 1 5 6 1 1 1 2 3 2
+p758
+aVTierre Brown LAL 11/13/2004 LAL @ HOU W 14 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 0 1 0 2 0 -4
+p759
+aVCaron Butler LAL 11/13/2004 LAL @ HOU W 31 8 2 7 28.6 0 2 0.0 4 4 100.0 0 4 4 2 0 1 2 2 3
+p760
+aVBrian Grant LAL 11/13/2004 LAL @ HOU W 19 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 1 6 -1
+p761
+aVLuke Walton LAL 11/13/2004 LAL @ HOU W 20 2 1 5 20.0 0 2 0.0 0 0 - 2 2 4 1 1 0 0 0 -2
+p762
+aVLamar Odom LAL 11/13/2004 LAL @ HOU W 46 20 7 12 58.3 1 4 25.0 5 8 62.5 4 9 13 5 1 1 3 2 1
+p763
+aVChris Mihm LAL 11/13/2004 LAL @ HOU W 14 3 1 4 25.0 0 0 - 1 1 100.0 0 0 0 0 0 2 1 5 10
+p764
+aVChucky Atkins LAL 11/13/2004 LAL @ HOU W 34 10 3 5 60.0 1 2 50.0 3 5 60.0 0 3 3 4 0 0 2 1 9
+p765
+aVKobe Bryant LAL 11/13/2004 LAL @ HOU W 41 19 7 20 35.0 0 5 0.0 5 7 71.4 0 11 11 3 0 2 5 1 4
+p766
+aVKareem Rush LAL 11/13/2004 LAL @ HOU W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p767
+aVBrian Cook LAL 11/13/2004 LAL @ HOU W 16 9 3 6 50.0 1 2 50.0 2 2 100.0 1 3 4 0 0 1 0 5 4
+p768
+aVChris Mihm LAL 11/12/2004 LAL @ ORL L 21 7 3 4 75.0 0 0 - 1 2 50.0 0 3 3 1 0 1 1 4 -4
+p769
+aVTierre Brown LAL 11/12/2004 LAL @ ORL L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -6
+p770
+aVBrian Cook LAL 11/12/2004 LAL @ ORL L 11 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 1 1 1 1 -11
+p771
+aVBrian Grant LAL 11/12/2004 LAL @ ORL L 26 13 3 5 60.0 0 0 - 7 7 100.0 2 2 4 0 0 0 0 1 -3
+p772
+aVLamar Odom LAL 11/12/2004 LAL @ ORL L 38 16 6 12 50.0 0 2 0.0 4 5 80.0 1 7 8 2 1 1 3 5 0
+p773
+aVLuke Walton LAL 11/12/2004 LAL @ ORL L 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -6
+p774
+aVKobe Bryant LAL 11/12/2004 LAL @ ORL L 44 41 14 31 45.2 2 8 25.0 11 12 91.7 0 7 7 8 2 0 1 4 2
+p775
+aVChucky Atkins LAL 11/12/2004 LAL @ ORL L 40 21 6 12 50.0 5 9 55.6 4 4 100.0 0 2 2 1 0 0 0 4 -8
+p776
+aVCaron Butler LAL 11/12/2004 LAL @ ORL L 38 15 7 12 58.3 1 3 33.3 0 0 - 1 1 2 3 2 0 1 3 -9
+p777
+aVCaron Butler LAL 11/10/2004 LAL @ MEM L 33 9 3 11 27.3 0 3 0.0 3 3 100.0 0 3 3 0 1 0 1 1 -18
+p778
+aVSasha Vujacic LAL 11/10/2004 LAL @ MEM L 13 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 2 0 0 1 3 0
+p779
+aVLuke Walton LAL 11/10/2004 LAL @ MEM L 19 2 1 3 33.3 0 0 - 0 0 - 0 4 4 2 1 1 4 1 -5
+p780
+aVBrian Grant LAL 11/10/2004 LAL @ MEM L 22 12 5 6 83.3 0 0 - 2 3 66.7 4 2 6 1 0 0 2 4 0
+p781
+aVKobe Bryant LAL 11/10/2004 LAL @ MEM L 34 20 4 19 21.1 2 6 33.3 10 13 76.9 2 4 6 4 1 1 2 1 -18
+p782
+aVTierre Brown LAL 11/10/2004 LAL @ MEM L 7 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p783
+aVKareem Rush LAL 11/10/2004 LAL @ MEM L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 2 0 0 0 2 -9
+p784
+aVChris Mihm LAL 11/10/2004 LAL @ MEM L 27 14 5 8 62.5 0 0 - 4 6 66.7 4 0 4 0 0 1 0 3 -24
+p785
+aVBrian Cook LAL 11/10/2004 LAL @ MEM L 18 9 4 6 66.7 1 1 100.0 0 0 - 1 1 2 1 1 1 0 3 -6
+p786
+aVChucky Atkins LAL 11/10/2004 LAL @ MEM L 31 2 0 3 0.0 0 2 0.0 2 4 50.0 0 2 2 4 1 0 2 3 -18
+p787
+aVLamar Odom LAL 11/10/2004 LAL @ MEM L 20 14 4 7 57.1 0 0 - 6 8 75.0 3 8 11 0 0 3 1 4 -14
+p788
+aVJumaine Jones LAL 11/09/2004 LAL @ NOH W 12 9 3 4 75.0 1 1 100.0 2 2 100.0 1 2 3 2 0 0 0 1 15
+p789
+aVChucky Atkins LAL 11/09/2004 LAL @ NOH W 42 18 5 8 62.5 4 6 66.7 4 5 80.0 1 2 3 6 1 0 3 3 12
+p790
+aVKobe Bryant LAL 11/09/2004 LAL @ NOH W 38 31 8 18 44.4 1 5 20.0 14 14 100.0 1 7 8 4 0 1 7 6 23
+p791
+aVTierre Brown LAL 11/09/2004 LAL @ NOH W 13 2 0 2 0.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 4 2 -11
+p792
+aVBrian Grant LAL 11/09/2004 LAL @ NOH W 15 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -4
+p793
+aVChris Mihm LAL 11/09/2004 LAL @ NOH W 32 6 3 5 60.0 0 0 - 0 0 - 3 5 8 1 0 0 1 5 10
+p794
+aVLamar Odom LAL 11/09/2004 LAL @ NOH W 41 12 4 9 44.4 0 3 0.0 4 7 57.1 1 5 6 4 0 2 2 5 14
+p795
+aVKareem Rush LAL 11/09/2004 LAL @ NOH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p796
+aVBrian Cook LAL 11/09/2004 LAL @ NOH W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -4
+p797
+aVCaron Butler LAL 11/09/2004 LAL @ NOH W 34 23 10 14 71.4 2 5 40.0 1 2 50.0 1 8 9 3 2 0 2 3 0
+p798
+aVLuke Walton LAL 11/09/2004 LAL @ NOH W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -7
+p799
+aVSasha Vujacic LAL 11/07/2004 LAL vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p800
+aVKobe Bryant LAL 11/07/2004 LAL vs. ATL W 44 24 6 12 50.0 1 2 50.0 11 12 91.7 1 4 5 6 0 2 3 2 17
+p801
+aVChris Mihm LAL 11/07/2004 LAL vs. ATL W 31 19 6 8 75.0 0 1 0.0 7 8 87.5 4 6 10 2 0 4 3 3 14
+p802
+aVLamar Odom LAL 11/07/2004 LAL vs. ATL W 32 11 4 8 50.0 1 1 100.0 2 2 100.0 0 11 11 1 0 0 3 5 4
+p803
+aVCaron Butler LAL 11/07/2004 LAL vs. ATL W 36 22 10 14 71.4 2 2 100.0 0 2 0.0 0 2 2 0 2 0 3 3 8
+p804
+aVKareem Rush LAL 11/07/2004 LAL vs. ATL W 4 1 0 1 0.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 0 -1
+p805
+aVJumaine Jones LAL 11/07/2004 LAL vs. ATL W 31 11 4 9 44.4 1 2 50.0 2 2 100.0 1 4 5 1 1 1 2 3 10
+p806
+aVBrian Cook LAL 11/07/2004 LAL vs. ATL W 6 3 1 2 50.0 1 1 100.0 0 0 - 1 2 3 1 0 0 1 0 9
+p807
+aVTierre Brown LAL 11/07/2004 LAL vs. ATL W 21 13 5 8 62.5 0 1 0.0 3 4 75.0 0 0 0 5 1 0 2 2 1
+p808
+aVChucky Atkins LAL 11/07/2004 LAL vs. ATL W 27 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 5 0 0 0 1 15
+p809
+aVLuke Walton LAL 11/07/2004 LAL vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p810
+aVBrian Grant LAL 11/07/2004 LAL vs. ATL W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p811
+aVKobe Bryant LAL 11/05/2004 LAL vs. SAS L 45 28 8 22 36.4 1 5 20.0 11 13 84.6 3 2 5 4 1 1 3 3 -16
+p812
+aVJumaine Jones LAL 11/05/2004 LAL vs. SAS L 15 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -1
+p813
+aVBrian Grant LAL 11/05/2004 LAL vs. SAS L 13 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 2 4 -13
+p814
+aVChucky Atkins LAL 11/05/2004 LAL vs. SAS L 36 11 4 7 57.1 3 4 75.0 0 0 - 2 4 6 3 2 0 1 4 4
+p815
+aVLamar Odom LAL 11/05/2004 LAL vs. SAS L 38 24 8 15 53.3 2 3 66.7 6 10 60.0 3 8 11 4 3 2 6 1 -1
+p816
+aVTierre Brown LAL 11/05/2004 LAL vs. SAS L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -13
+p817
+aVChris Mihm LAL 11/05/2004 LAL vs. SAS L 32 8 3 7 42.9 0 0 - 2 3 66.7 2 7 9 1 1 2 2 5 -2
+p818
+aVBrian Cook LAL 11/05/2004 LAL vs. SAS L 13 6 2 6 33.3 0 2 0.0 2 2 100.0 0 4 4 1 0 0 0 2 -2
+p819
+aVKareem Rush LAL 11/05/2004 LAL vs. SAS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 6
+p820
+aVCaron Butler LAL 11/05/2004 LAL vs. SAS L 29 11 3 8 37.5 0 0 - 5 6 83.3 1 3 4 2 1 1 3 6 -7
+p821
+aVChucky Atkins LAL 11/03/2004 LAL @ UTA L 19 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 3 -11
+p822
+aVJumaine Jones LAL 11/03/2004 LAL @ UTA L 15 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 1 0 4 0
+p823
+aVBrian Grant LAL 11/03/2004 LAL @ UTA L 10 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 2 3 2
+p824
+aVTierre Brown LAL 11/03/2004 LAL @ UTA L 23 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 2 0 0 0 0 -5
+p825
+aVLamar Odom LAL 11/03/2004 LAL @ UTA L 35 14 3 10 30.0 0 1 0.0 8 10 80.0 2 7 9 1 1 2 3 5 -25
+p826
+aVBrian Cook LAL 11/03/2004 LAL @ UTA L 17 3 1 5 20.0 0 3 0.0 1 2 50.0 0 2 2 0 0 0 0 4 -8
+p827
+aVLuke Walton LAL 11/03/2004 LAL @ UTA L 12 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 0 0 0 0 1 -15
+p828
+aVCaron Butler LAL 11/03/2004 LAL @ UTA L 24 4 1 8 12.5 0 0 - 2 2 100.0 1 2 3 0 0 0 0 2 -18
+p829
+aVChris Mihm LAL 11/03/2004 LAL @ UTA L 24 6 3 8 37.5 0 0 - 0 2 0.0 2 3 5 0 0 2 3 4 -21
+p830
+aVKobe Bryant LAL 11/03/2004 LAL @ UTA L 41 38 9 21 42.9 4 9 44.4 16 20 80.0 1 3 4 1 1 0 2 5 -18
+p831
+aVKareem Rush LAL 11/03/2004 LAL @ UTA L 17 0 0 4 0.0 0 2 0.0 0 0 - 3 0 3 0 2 1 1 0 -7
+p832
+aVSasha Vujacic LAL 11/03/2004 LAL @ UTA L 3 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 1 -4
+p833
+aVChris Mihm LAL 11/02/2004 LAL vs. DEN W 35 23 8 16 50.0 0 0 - 7 10 70.0 5 7 12 1 0 2 4 3 4
+p834
+aVCaron Butler LAL 11/02/2004 LAL vs. DEN W 28 11 5 7 71.4 1 2 50.0 0 0 - 1 3 4 2 2 0 1 3 -2
+p835
+aVKareem Rush LAL 11/02/2004 LAL vs. DEN W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p836
+aVLamar Odom LAL 11/02/2004 LAL vs. DEN W 25 5 2 8 25.0 0 2 0.0 1 3 33.3 3 10 13 3 4 1 2 3 -5
+p837
+aVKobe Bryant LAL 11/02/2004 LAL vs. DEN W 42 25 5 14 35.7 1 2 50.0 14 15 93.3 1 3 4 7 1 3 4 2 13
+p838
+aVJumaine Jones LAL 11/02/2004 LAL vs. DEN W 20 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 1 1 0 3 3 13
+p839
+aVBrian Grant LAL 11/02/2004 LAL vs. DEN W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 2 1 6
+p840
+aVTierre Brown LAL 11/02/2004 LAL vs. DEN W 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 4 0 0 2 2 12
+p841
+aVChucky Atkins LAL 11/02/2004 LAL vs. DEN W 35 8 2 5 40.0 2 5 40.0 2 2 100.0 0 6 6 2 0 0 1 2 -1
+p842
+aVBrian Cook LAL 11/02/2004 LAL vs. DEN W 26 10 5 10 50.0 0 2 0.0 0 0 - 0 2 2 3 0 2 0 1 17
+p843
+a.

@@ -1,0 +1,150 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVNicolas Batum CHA 05/01/2016 CHA @ MIA L 29 10 3 9 33.3 1 3 33.3 3 3 100.0 0 5 5 2 0 0 1 1 -26
+p2
+aVAaron Harrison CHA 05/01/2016 CHA @ MIA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p3
+aVCody Zeller CHA 05/01/2016 CHA @ MIA L 17 6 3 7 42.9 0 0 - 0 0 - 1 6 7 0 0 0 2 2 -9
+p4
+aVJorge Gutierrez CHA 05/01/2016 CHA @ MIA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -5
+p5
+aVCourtney Lee CHA 05/01/2016 CHA @ MIA L 29 11 5 8 62.5 1 1 100.0 0 0 - 0 3 3 2 1 0 0 2 -20
+p6
+aVMarvin Williams CHA 05/01/2016 CHA @ MIA L 33 5 1 3 33.3 1 2 50.0 2 2 100.0 0 6 6 0 0 0 0 1 -30
+p7
+aVJeremy Lamb CHA 05/01/2016 CHA @ MIA L 6 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p8
+aVJeremy Lin CHA 05/01/2016 CHA @ MIA L 19 9 4 8 50.0 0 2 0.0 1 1 100.0 0 1 1 0 2 0 0 1 -9
+p9
+aVFrank Kaminsky CHA 05/01/2016 CHA @ MIA L 31 12 3 15 20.0 2 5 40.0 4 4 100.0 1 5 6 2 0 1 0 2 -13
+p10
+aVKemba Walker CHA 05/01/2016 CHA @ MIA L 36 9 3 16 18.8 1 5 20.0 2 2 100.0 0 1 1 6 1 0 3 1 -17
+p11
+aVTroy Daniels CHA 05/01/2016 CHA @ MIA L 9 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 2 -5
+p12
+aVAl Jefferson CHA 05/01/2016 CHA @ MIA L 19 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -21
+p13
+aVMarvin Williams CHA 04/29/2016 CHA vs. MIA L 37 0 0 7 0.0 0 2 0.0 0 0 - 0 4 4 1 1 0 0 3 2
+p14
+aVCody Zeller CHA 04/29/2016 CHA vs. MIA L 18 12 4 5 80.0 0 0 - 4 6 66.7 1 2 3 0 0 2 1 1 -10
+p15
+aVTroy Daniels CHA 04/29/2016 CHA vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p16
+aVAl Jefferson CHA 04/29/2016 CHA vs. MIA L 30 18 8 14 57.1 0 0 - 2 3 66.7 2 7 9 0 1 0 1 1 3
+p17
+aVNicolas Batum CHA 04/29/2016 CHA vs. MIA L 15 6 2 5 40.0 0 3 0.0 2 2 100.0 1 0 1 1 0 0 1 1 -11
+p18
+aVJeremy Lin CHA 04/29/2016 CHA vs. MIA L 24 8 1 8 12.5 0 1 0.0 6 6 100.0 0 1 1 1 0 0 3 5 -17
+p19
+aVFrank Kaminsky CHA 04/29/2016 CHA vs. MIA L 36 7 2 5 40.0 1 3 33.3 2 2 100.0 0 7 7 3 2 2 1 2 -2
+p20
+aVKemba Walker CHA 04/29/2016 CHA vs. MIA L 39 37 14 30 46.7 4 8 50.0 5 6 83.3 0 3 3 5 2 0 2 2 0
+p21
+aVCourtney Lee CHA 04/29/2016 CHA vs. MIA L 40 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 2 1 0 2 -2
+p22
+aVJeremy Lin CHA 04/27/2016 CHA @ MIA W 35 11 4 10 40.0 0 2 0.0 3 6 50.0 0 6 6 7 0 0 2 1 6
+p23
+aVFrank Kaminsky CHA 04/27/2016 CHA @ MIA W 27 8 3 8 37.5 2 5 40.0 0 0 - 0 4 4 0 1 0 1 1 -4
+p24
+aVSpencer Hawes CHA 04/27/2016 CHA @ MIA W 15 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 1 1 1 3 3 11
+p25
+aVAl Jefferson CHA 04/27/2016 CHA @ MIA W 22 14 7 14 50.0 0 0 - 0 0 - 2 5 7 1 1 0 0 2 -10
+p26
+aVMarvin Williams CHA 04/27/2016 CHA @ MIA W 30 17 7 10 70.0 3 4 75.0 0 0 - 1 7 8 2 3 0 2 0 8
+p27
+aVNicolas Batum CHA 04/27/2016 CHA @ MIA W 25 8 2 6 33.3 2 5 40.0 2 2 100.0 0 3 3 3 0 0 1 1 2
+p28
+aVCody Zeller CHA 04/27/2016 CHA @ MIA W 21 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 1 0 1 3 4
+p29
+aVKemba Walker CHA 04/27/2016 CHA @ MIA W 35 14 4 18 22.2 3 5 60.0 3 3 100.0 0 5 5 5 1 1 2 0 -7
+p30
+aVCourtney Lee CHA 04/27/2016 CHA @ MIA W 30 8 2 9 22.2 2 2 100.0 2 2 100.0 1 0 1 1 0 1 0 3 0
+p31
+aVJeremy Lin CHA 04/25/2016 CHA vs. MIA W 34 21 6 10 60.0 1 3 33.3 8 9 88.9 0 0 0 3 2 0 3 4 17
+p32
+aVSpencer Hawes CHA 04/25/2016 CHA vs. MIA W 16 2 0 3 0.0 0 0 - 2 2 100.0 2 6 8 1 0 1 0 2 10
+p33
+aVMarvin Williams CHA 04/25/2016 CHA vs. MIA W 37 0 0 5 0.0 0 2 0.0 0 0 - 0 7 7 2 1 1 0 3 -4
+p34
+aVKemba Walker CHA 04/25/2016 CHA vs. MIA W 40 34 13 28 46.4 2 8 25.0 6 7 85.7 1 3 4 1 2 2 1 0 -7
+p35
+aVFrank Kaminsky CHA 04/25/2016 CHA vs. MIA W 25 4 1 5 20.0 0 1 0.0 2 4 50.0 1 3 4 0 1 1 0 2 -16
+p36
+aVCody Zeller CHA 04/25/2016 CHA vs. MIA W 21 8 3 4 75.0 0 0 - 2 2 100.0 0 4 4 0 0 0 1 4 20
+p37
+aVAl Jefferson CHA 04/25/2016 CHA vs. MIA W 26 9 4 12 33.3 0 0 - 1 2 50.0 1 4 5 3 0 1 1 3 -10
+p38
+aVCourtney Lee CHA 04/25/2016 CHA vs. MIA W 42 11 3 8 37.5 1 2 50.0 4 4 100.0 1 3 4 0 1 1 3 2 10
+p39
+aVKemba Walker CHA 04/23/2016 CHA vs. MIA W 37 17 4 19 21.1 1 6 16.7 8 8 100.0 0 3 3 7 2 0 0 2 13
+p40
+aVSpencer Hawes CHA 04/23/2016 CHA vs. MIA W 11 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 3
+p41
+aVMarvin Williams CHA 04/23/2016 CHA vs. MIA W 36 12 5 9 55.6 2 3 66.7 0 0 - 0 14 14 0 0 1 0 2 7
+p42
+aVFrank Kaminsky CHA 04/23/2016 CHA vs. MIA W 35 15 5 12 41.7 0 3 0.0 5 5 100.0 0 6 6 1 1 1 0 4 16
+p43
+aVCody Zeller CHA 04/23/2016 CHA vs. MIA W 26 12 4 8 50.0 0 0 - 4 4 100.0 3 5 8 0 0 1 2 5 18
+p44
+aVJorge Gutierrez CHA 04/23/2016 CHA vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p45
+aVAl Jefferson CHA 04/23/2016 CHA vs. MIA W 21 10 5 11 45.5 0 0 - 0 0 - 3 5 8 2 1 1 0 3 -1
+p46
+aVCourtney Lee CHA 04/23/2016 CHA vs. MIA W 42 8 3 11 27.3 0 2 0.0 2 2 100.0 1 2 3 2 0 0 1 4 17
+p47
+aVJeremy Lin CHA 04/23/2016 CHA vs. MIA W 26 18 7 16 43.8 2 3 66.7 2 3 66.7 1 3 4 4 1 0 0 3 17
+p48
+aVAaron Harrison CHA 04/23/2016 CHA vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p49
+aVTyler Hansbrough CHA 04/23/2016 CHA vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p50
+aVJeremy Lamb CHA 04/23/2016 CHA vs. MIA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p51
+aVTroy Daniels CHA 04/23/2016 CHA vs. MIA W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p52
+aVSpencer Hawes CHA 04/20/2016 CHA @ MIA L 7 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 0 2
+p53
+aVJeremy Lin CHA 04/20/2016 CHA @ MIA L 26 11 2 7 28.6 0 3 0.0 7 8 87.5 1 1 2 0 0 0 1 3 3
+p54
+aVMarvin Williams CHA 04/20/2016 CHA @ MIA L 29 0 0 10 0.0 0 2 0.0 0 2 0.0 5 1 6 0 1 0 0 1 -18
+p55
+aVKemba Walker CHA 04/20/2016 CHA @ MIA L 42 29 12 29 41.4 1 6 16.7 4 4 100.0 2 2 4 3 1 1 2 2 -12
+p56
+aVNicolas Batum CHA 04/20/2016 CHA @ MIA L 34 9 3 11 27.3 0 4 0.0 3 3 100.0 1 6 7 3 0 0 2 0 -18
+p57
+aVAl Jefferson CHA 04/20/2016 CHA @ MIA L 27 25 12 17 70.6 0 0 - 1 2 50.0 3 4 7 1 1 0 2 0 -14
+p58
+aVCody Zeller CHA 04/20/2016 CHA @ MIA L 14 8 3 6 50.0 0 0 - 2 3 66.7 2 3 5 0 0 0 0 4 0
+p59
+aVCourtney Lee CHA 04/20/2016 CHA @ MIA L 42 12 5 7 71.4 0 1 0.0 2 3 66.7 1 3 4 2 0 0 0 5 -9
+p60
+aVFrank Kaminsky CHA 04/20/2016 CHA @ MIA L 19 4 0 1 0.0 0 0 - 4 4 100.0 0 2 2 0 0 0 0 1 6
+p61
+aVKemba Walker CHA 04/17/2016 CHA @ MIA L 32 19 6 13 46.2 2 5 40.0 5 5 100.0 0 1 1 1 0 0 2 3 -32
+p62
+aVTroy Daniels CHA 04/17/2016 CHA @ MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p63
+aVNicolas Batum CHA 04/17/2016 CHA @ MIA L 40 24 7 14 50.0 3 7 42.9 7 10 70.0 0 2 2 1 2 0 3 3 -33
+p64
+aVJeremy Lin CHA 04/17/2016 CHA @ MIA L 25 9 2 4 50.0 0 0 - 5 6 83.3 1 1 2 3 0 0 2 4 -12
+p65
+aVJorge Gutierrez CHA 04/17/2016 CHA @ MIA L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p66
+aVAl Jefferson CHA 04/17/2016 CHA @ MIA L 23 13 4 8 50.0 0 0 - 5 6 83.3 2 3 5 0 0 1 2 1 -11
+p67
+aVMarvin Williams CHA 04/17/2016 CHA @ MIA L 26 2 1 7 14.3 0 2 0.0 0 0 - 1 2 3 1 0 1 0 1 -32
+p68
+aVJeremy Lamb CHA 04/17/2016 CHA @ MIA L 4 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -1
+p69
+aVFrank Kaminsky CHA 04/17/2016 CHA @ MIA L 18 0 0 0 - 0 0 - 0 2 0.0 1 0 1 2 1 0 0 3 1
+p70
+aVTyler Hansbrough CHA 04/17/2016 CHA @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p71
+aVSpencer Hawes CHA 04/17/2016 CHA @ MIA L 4 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -1
+p72
+aVCourtney Lee CHA 04/17/2016 CHA @ MIA L 33 8 2 6 33.3 0 1 0.0 4 4 100.0 0 2 2 1 2 0 1 1 -13
+p73
+aVCody Zeller CHA 04/17/2016 CHA @ MIA L 20 9 3 4 75.0 0 0 - 3 4 75.0 1 6 7 1 0 0 0 1 -20
+p74
+a.

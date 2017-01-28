@@ -1,0 +1,1688 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMaurice Harkless ORL 04/15/2015 ORL @ BKN L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 6
+p2
+aVKyle O'Quinn ORL 04/15/2015 ORL @ BKN L 19 9 4 6 66.7 0 1 0.0 1 2 50.0 3 4 7 1 0 0 2 4 -5
+p3
+aVWillie Green ORL 04/15/2015 ORL @ BKN L 22 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 2 1 0 1 1 -8
+p4
+aVVictor Oladipo ORL 04/15/2015 ORL @ BKN L 44 19 7 17 41.2 3 7 42.9 2 5 40.0 0 2 2 3 0 1 4 0 -12
+p5
+aVAndrew Nicholson ORL 04/15/2015 ORL @ BKN L 28 18 8 10 80.0 2 3 66.7 0 0 - 3 6 9 1 0 1 1 5 -4
+p6
+aVDewayne Dedmon ORL 04/15/2015 ORL @ BKN L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -5
+p7
+aVNikola Vucevic ORL 04/15/2015 ORL @ BKN L 40 26 12 21 57.1 0 1 0.0 2 4 50.0 1 10 11 5 1 1 2 4 -7
+p8
+aVAaron Gordon ORL 04/15/2015 ORL @ BKN L 34 7 3 11 27.3 1 2 50.0 0 0 - 3 4 7 0 0 0 0 2 -15
+p9
+aVElfrid Payton ORL 04/15/2015 ORL @ BKN L 35 2 1 5 20.0 0 1 0.0 0 2 0.0 0 3 3 6 4 1 4 1 -15
+p10
+aVChanning Frye ORL 04/13/2015 ORL @ MIA L 12 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 1 0 0 0 1 11
+p11
+aVNikola Vucevic ORL 04/13/2015 ORL @ MIA L 19 3 1 7 14.3 0 0 - 1 2 50.0 2 2 4 2 0 0 0 3 -10
+p12
+aVTobias Harris ORL 04/13/2015 ORL @ MIA L 40 26 11 15 73.3 2 4 50.0 2 3 66.7 2 10 12 1 0 0 0 3 -7
+p13
+aVDewayne Dedmon ORL 04/13/2015 ORL @ MIA L 13 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -2
+p14
+aVElfrid Payton ORL 04/13/2015 ORL @ MIA L 38 10 4 9 44.4 0 0 - 2 3 66.7 0 1 1 7 3 0 0 2 -1
+p15
+aVWillie Green ORL 04/13/2015 ORL @ MIA L 20 5 2 7 28.6 1 4 25.0 0 0 - 0 4 4 0 1 0 1 3 -7
+p16
+aVAaron Gordon ORL 04/13/2015 ORL @ MIA L 32 5 2 14 14.3 0 2 0.0 1 2 50.0 3 3 6 2 2 2 1 2 -13
+p17
+aVMaurice Harkless ORL 04/13/2015 ORL @ MIA L 20 8 3 5 60.0 0 2 0.0 2 4 50.0 0 2 2 0 0 0 1 1 2
+p18
+aVAndrew Nicholson ORL 04/13/2015 ORL @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p19
+aVVictor Oladipo ORL 04/13/2015 ORL @ MIA L 42 30 10 23 43.5 2 7 28.6 8 12 66.7 2 4 6 1 4 2 4 4 -2
+p20
+aVMaurice Harkless ORL 04/11/2015 ORL vs. NYK L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p21
+aVWillie Green ORL 04/11/2015 ORL vs. NYK L 25 11 4 9 44.4 3 7 42.9 0 0 - 0 3 3 0 1 0 0 1 -1
+p22
+aVVictor Oladipo ORL 04/11/2015 ORL vs. NYK L 37 21 8 25 32.0 1 8 12.5 4 4 100.0 0 4 4 3 1 0 4 3 -3
+p23
+aVAaron Gordon ORL 04/11/2015 ORL vs. NYK L 23 0 0 5 0.0 0 1 0.0 0 0 - 0 4 4 0 2 1 1 3 -4
+p24
+aVDewayne Dedmon ORL 04/11/2015 ORL vs. NYK L 19 7 3 7 42.9 0 0 - 1 1 100.0 5 5 10 1 1 1 2 3 -9
+p25
+aVChanning Frye ORL 04/11/2015 ORL vs. NYK L 9 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 0 1 0 1 3 3
+p26
+aVTobias Harris ORL 04/11/2015 ORL vs. NYK L 33 15 5 10 50.0 1 2 50.0 4 5 80.0 1 4 5 1 1 0 1 1 -12
+p27
+aVElfrid Payton ORL 04/11/2015 ORL vs. NYK L 37 7 3 7 42.9 0 0 - 1 4 25.0 0 1 1 9 2 1 0 0 5
+p28
+aVAndrew Nicholson ORL 04/11/2015 ORL vs. NYK L 18 1 0 2 0.0 0 1 0.0 1 2 50.0 2 4 6 0 0 0 1 1 7
+p29
+aVNikola Vucevic ORL 04/11/2015 ORL vs. NYK L 33 12 5 14 35.7 0 0 - 2 2 100.0 3 10 13 1 1 1 3 3 4
+p30
+aVVictor Oladipo ORL 04/10/2015 ORL vs. TOR L 43 19 8 18 44.4 3 4 75.0 0 0 - 2 3 5 4 2 1 3 4 4
+p31
+aVNikola Vucevic ORL 04/10/2015 ORL vs. TOR L 36 16 7 18 38.9 0 0 - 2 2 100.0 3 1 4 3 1 1 1 4 -11
+p32
+aVDewayne Dedmon ORL 04/10/2015 ORL vs. TOR L 18 2 1 3 33.3 0 0 - 0 0 - 3 5 8 0 1 0 3 2 -4
+p33
+aVWillie Green ORL 04/10/2015 ORL vs. TOR L 15 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 2 0 2 1 5
+p34
+aVAndrew Nicholson ORL 04/10/2015 ORL vs. TOR L 11 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 8
+p35
+aVEvan Fournier ORL 04/10/2015 ORL vs. TOR L 26 18 6 10 60.0 3 6 50.0 3 3 100.0 1 5 6 2 0 0 3 2 8
+p36
+aVElfrid Payton ORL 04/10/2015 ORL vs. TOR L 35 6 2 7 28.6 0 1 0.0 2 2 100.0 1 5 6 8 4 2 1 3 -10
+p37
+aVAaron Gordon ORL 04/10/2015 ORL vs. TOR L 24 13 5 8 62.5 0 2 0.0 3 3 100.0 3 3 6 3 0 0 1 2 0
+p38
+aVTobias Harris ORL 04/10/2015 ORL vs. TOR L 32 16 8 15 53.3 0 3 0.0 0 0 - 1 7 8 1 1 0 2 0 -10
+p39
+aVAndrew Nicholson ORL 04/08/2015 ORL vs. CHI W 22 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 2 0 1 1 3 0
+p40
+aVTobias Harris ORL 04/08/2015 ORL vs. CHI W 29 8 2 13 15.4 0 5 0.0 4 4 100.0 1 2 3 1 0 0 1 1 -1
+p41
+aVVictor Oladipo ORL 04/08/2015 ORL vs. CHI W 41 23 8 14 57.1 3 7 42.9 4 6 66.7 0 5 5 5 3 0 4 2 8
+p42
+aVElfrid Payton ORL 04/08/2015 ORL vs. CHI W 40 17 6 14 42.9 2 2 100.0 3 3 100.0 4 5 9 9 2 0 3 1 5
+p43
+aVChanning Frye ORL 04/08/2015 ORL vs. CHI W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 1 1 0 0 4
+p44
+aVEvan Fournier ORL 04/08/2015 ORL vs. CHI W 21 11 3 7 42.9 2 5 40.0 3 3 100.0 1 1 2 0 0 0 1 0 -4
+p45
+aVNikola Vucevic ORL 04/08/2015 ORL vs. CHI W 37 22 9 16 56.3 0 0 - 4 4 100.0 2 5 7 3 1 0 2 4 -2
+p46
+aVDewayne Dedmon ORL 04/08/2015 ORL vs. CHI W 25 6 3 5 60.0 0 0 - 0 0 - 5 6 11 0 0 1 3 4 0
+p47
+aVAaron Gordon ORL 04/08/2015 ORL vs. CHI W 22 7 2 3 66.7 0 1 0.0 3 4 75.0 0 4 4 1 1 0 0 4 0
+p48
+aVAaron Gordon ORL 04/04/2015 ORL @ MIL W 29 10 5 6 83.3 0 1 0.0 0 0 - 4 8 12 1 0 2 0 0 13
+p49
+aVVictor Oladipo ORL 04/04/2015 ORL @ MIL W 37 15 6 19 31.6 1 5 20.0 2 3 66.7 0 6 6 2 2 1 2 2 0
+p50
+aVDewayne Dedmon ORL 04/04/2015 ORL @ MIL W 20 5 2 3 66.7 0 0 - 1 2 50.0 4 1 5 0 0 3 1 1 -17
+p51
+aVNikola Vucevic ORL 04/04/2015 ORL @ MIL W 34 20 10 17 58.8 0 0 - 0 1 0.0 2 5 7 5 0 0 3 5 4
+p52
+aVAndrew Nicholson ORL 04/04/2015 ORL @ MIL W 15 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 5
+p53
+aVWillie Green ORL 04/04/2015 ORL @ MIL W 25 10 3 10 30.0 1 3 33.3 3 3 100.0 0 0 0 1 1 0 1 1 15
+p54
+aVTobias Harris ORL 04/04/2015 ORL @ MIL W 41 23 8 15 53.3 5 9 55.6 2 3 66.7 1 9 10 2 1 3 2 0 5
+p55
+aVElfrid Payton ORL 04/04/2015 ORL @ MIL W 40 10 4 11 36.4 1 2 50.0 1 1 100.0 1 2 3 11 3 1 3 3 10
+p56
+aVAndrew Nicholson ORL 04/03/2015 ORL @ MIN W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 3 3
+p57
+aVAaron Gordon ORL 04/03/2015 ORL @ MIN W 30 7 3 10 30.0 1 3 33.3 0 0 - 5 1 6 2 2 0 1 4 5
+p58
+aVTobias Harris ORL 04/03/2015 ORL @ MIN W 36 25 9 20 45.0 4 8 50.0 3 5 60.0 4 8 12 0 1 0 4 3 20
+p59
+aVMaurice Harkless ORL 04/03/2015 ORL @ MIN W 15 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 0 1 0
+p60
+aVDewayne Dedmon ORL 04/03/2015 ORL @ MIN W 18 5 1 3 33.3 0 0 - 3 4 75.0 2 4 6 1 0 0 2 4 -2
+p61
+aVVictor Oladipo ORL 04/03/2015 ORL @ MIN W 38 8 4 19 21.1 0 6 0.0 0 0 - 0 1 1 7 2 0 2 4 7
+p62
+aVNikola Vucevic ORL 04/03/2015 ORL @ MIN W 40 37 18 25 72.0 0 0 - 1 4 25.0 7 10 17 2 1 0 2 2 14
+p63
+aVWillie Green ORL 04/03/2015 ORL @ MIN W 17 5 1 6 16.7 1 3 33.3 2 2 100.0 0 2 2 1 0 1 2 1 5
+p64
+aVElfrid Payton ORL 04/03/2015 ORL @ MIN W 40 10 4 9 44.4 0 1 0.0 2 2 100.0 1 5 6 10 4 0 4 2 13
+p65
+aVVictor Oladipo ORL 04/01/2015 ORL vs. SAS L 40 24 9 19 47.4 2 3 66.7 4 4 100.0 1 5 6 7 0 0 3 1 3
+p66
+aVAaron Gordon ORL 04/01/2015 ORL vs. SAS L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -7
+p67
+aVKyle O'Quinn ORL 04/01/2015 ORL vs. SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -10
+p68
+aVNikola Vucevic ORL 04/01/2015 ORL vs. SAS L 33 16 8 21 38.1 0 1 0.0 0 0 - 3 8 11 5 0 3 1 0 1
+p69
+aVDewayne Dedmon ORL 04/01/2015 ORL vs. SAS L 24 7 3 3 100.0 0 0 - 1 1 100.0 3 7 10 0 0 1 2 6 2
+p70
+aVTobias Harris ORL 04/01/2015 ORL vs. SAS L 40 18 7 14 50.0 1 3 33.3 3 4 75.0 1 6 7 1 1 1 2 2 -6
+p71
+aVWillie Green ORL 04/01/2015 ORL vs. SAS L 13 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 -14
+p72
+aVMaurice Harkless ORL 04/01/2015 ORL vs. SAS L 4 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 0 -7
+p73
+aVAndrew Nicholson ORL 04/01/2015 ORL vs. SAS L 17 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 1 0 1 1 1 -12
+p74
+aVLuke Ridnour ORL 04/01/2015 ORL vs. SAS L 16 6 2 6 33.3 2 4 50.0 0 0 - 0 0 0 1 0 0 0 0 -8
+p75
+aVElfrid Payton ORL 04/01/2015 ORL vs. SAS L 36 14 7 15 46.7 0 0 - 0 0 - 4 3 7 7 4 1 1 3 -2
+p76
+aVAndrew Nicholson ORL 03/27/2015 ORL vs. DET L 27 10 5 9 55.6 0 2 0.0 0 0 - 1 1 2 3 0 0 0 1 -2
+p77
+aVTobias Harris ORL 03/27/2015 ORL vs. DET L 36 21 9 18 50.0 0 3 0.0 3 3 100.0 2 3 5 1 1 0 1 0 -8
+p78
+aVMaurice Harkless ORL 03/27/2015 ORL vs. DET L 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -2
+p79
+aVChanning Frye ORL 03/27/2015 ORL vs. DET L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 3 2 -5
+p80
+aVNikola Vucevic ORL 03/27/2015 ORL vs. DET L 33 20 10 18 55.6 0 0 - 0 0 - 3 11 14 1 0 1 1 3 -6
+p81
+aVElfrid Payton ORL 03/27/2015 ORL vs. DET L 39 14 6 10 60.0 0 0 - 2 2 100.0 1 3 4 13 0 0 2 3 -9
+p82
+aVVictor Oladipo ORL 03/27/2015 ORL vs. DET L 36 16 6 10 60.0 1 2 50.0 3 3 100.0 0 3 3 7 1 1 3 3 -8
+p83
+aVAaron Gordon ORL 03/27/2015 ORL vs. DET L 14 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 0 0 1 4 -8
+p84
+aVWillie Green ORL 03/27/2015 ORL vs. DET L 22 7 3 8 37.5 1 4 25.0 0 0 - 1 1 2 2 0 0 3 4 -15
+p85
+aVLuke Ridnour ORL 03/27/2015 ORL vs. DET L 17 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 1 0 1 3 -7
+p86
+aVNikola Vucevic ORL 03/25/2015 ORL vs. ATL L 39 16 8 15 53.3 0 0 - 0 0 - 4 8 12 4 0 0 2 2 -10
+p87
+aVVictor Oladipo ORL 03/25/2015 ORL vs. ATL L 39 16 4 10 40.0 0 2 0.0 8 9 88.9 0 4 4 4 2 0 5 1 -16
+p88
+aVWillie Green ORL 03/25/2015 ORL vs. ATL L 18 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 1
+p89
+aVDewayne Dedmon ORL 03/25/2015 ORL vs. ATL L 26 0 0 1 0.0 0 0 - 0 0 - 1 6 7 0 1 1 1 2 -10
+p90
+aVAaron Gordon ORL 03/25/2015 ORL vs. ATL L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 2 0 0 1 1
+p91
+aVChanning Frye ORL 03/25/2015 ORL vs. ATL L 6 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 3
+p92
+aVTobias Harris ORL 03/25/2015 ORL vs. ATL L 36 14 6 14 42.9 1 4 25.0 1 2 50.0 0 2 2 2 1 0 1 1 -14
+p93
+aVLuke Ridnour ORL 03/25/2015 ORL vs. ATL L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 2 2 6
+p94
+aVElfrid Payton ORL 03/25/2015 ORL vs. ATL L 35 19 7 19 36.8 0 2 0.0 5 7 71.4 4 5 9 7 1 0 5 5 -15
+p95
+aVAndrew Nicholson ORL 03/25/2015 ORL vs. ATL L 16 11 4 7 57.1 1 3 33.3 2 2 100.0 0 1 1 0 0 1 1 0 -6
+p96
+aVLuke Ridnour ORL 03/22/2015 ORL vs. DEN L 24 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 6 1 0 0 0 -12
+p97
+aVNikola Vucevic ORL 03/22/2015 ORL vs. DEN L 27 20 9 14 64.3 0 0 - 2 2 100.0 0 8 8 0 0 1 3 3 -18
+p98
+aVWillie Green ORL 03/22/2015 ORL vs. DEN L 29 11 4 8 50.0 3 5 60.0 0 0 - 0 0 0 3 1 0 0 2 -15
+p99
+aVKyle O'Quinn ORL 03/22/2015 ORL vs. DEN L 18 10 3 10 30.0 0 1 0.0 4 4 100.0 5 2 7 0 1 0 1 1 -6
+p100
+aVElfrid Payton ORL 03/22/2015 ORL vs. DEN L 35 6 3 9 33.3 0 1 0.0 0 0 - 3 5 8 8 3 0 5 4 -4
+p101
+aVVictor Oladipo ORL 03/22/2015 ORL vs. DEN L 35 21 8 15 53.3 1 4 25.0 4 4 100.0 1 4 5 5 1 1 4 4 0
+p102
+aVAaron Gordon ORL 03/22/2015 ORL vs. DEN L 18 8 3 8 37.5 0 2 0.0 2 2 100.0 1 2 3 0 0 1 0 3 -9
+p103
+aVMaurice Harkless ORL 03/22/2015 ORL vs. DEN L 18 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 1 1 2 -13
+p104
+aVBen Gordon ORL 03/22/2015 ORL vs. DEN L 14 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 2 2 -21
+p105
+aVAndrew Nicholson ORL 03/22/2015 ORL vs. DEN L 22 13 6 9 66.7 0 1 0.0 1 3 33.3 1 5 6 3 0 0 2 5 3
+p106
+aVAndrew Nicholson ORL 03/20/2015 ORL vs. POR W 18 9 3 7 42.9 0 1 0.0 3 4 75.0 0 4 4 0 2 0 1 2 4
+p107
+aVMaurice Harkless ORL 03/20/2015 ORL vs. POR W 28 2 1 6 16.7 0 1 0.0 0 2 0.0 2 1 3 0 1 1 0 2 -6
+p108
+aVNikola Vucevic ORL 03/20/2015 ORL vs. POR W 32 22 10 22 45.5 0 1 0.0 2 3 66.7 4 4 8 1 1 0 1 3 1
+p109
+aVAaron Gordon ORL 03/20/2015 ORL vs. POR W 18 4 1 3 33.3 0 0 - 2 2 100.0 2 4 6 0 1 0 0 2 8
+p110
+aVElfrid Payton ORL 03/20/2015 ORL vs. POR W 37 22 10 13 76.9 0 0 - 2 2 100.0 5 5 10 10 4 0 1 2 2
+p111
+aVKyle O'Quinn ORL 03/20/2015 ORL vs. POR W 14 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 3 3
+p112
+aVVictor Oladipo ORL 03/20/2015 ORL vs. POR W 36 22 7 23 30.4 2 3 66.7 6 6 100.0 4 4 8 4 0 0 2 3 -1
+p113
+aVLuke Ridnour ORL 03/20/2015 ORL vs. POR W 10 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 2 0 0 1 3 9
+p114
+aVChanning Frye ORL 03/20/2015 ORL vs. POR W 31 10 3 7 42.9 1 2 50.0 3 3 100.0 1 2 3 1 0 0 1 1 14
+p115
+aVBen Gordon ORL 03/20/2015 ORL vs. POR W 17 11 4 6 66.7 1 2 50.0 2 2 100.0 0 3 3 3 0 0 0 1 1
+p116
+aVMaurice Harkless ORL 03/18/2015 ORL @ DAL L 36 18 8 15 53.3 2 5 40.0 0 0 - 3 3 6 1 4 0 2 2 -7
+p117
+aVVictor Oladipo ORL 03/18/2015 ORL @ DAL L 37 19 7 20 35.0 0 6 0.0 5 6 83.3 0 4 4 6 2 1 5 4 -9
+p118
+aVAaron Gordon ORL 03/18/2015 ORL @ DAL L 15 6 2 5 40.0 0 2 0.0 2 2 100.0 1 5 6 0 0 1 0 3 -1
+p119
+aVLuke Ridnour ORL 03/18/2015 ORL @ DAL L 19 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 3 1 1 1 0 -3
+p120
+aVKyle O'Quinn ORL 03/18/2015 ORL @ DAL L 21 7 3 5 60.0 1 1 100.0 0 0 - 2 0 2 2 0 0 2 4 7
+p121
+aVChanning Frye ORL 03/18/2015 ORL @ DAL L 23 11 4 8 50.0 3 5 60.0 0 0 - 1 0 1 2 2 1 0 1 3
+p122
+aVAndrew Nicholson ORL 03/18/2015 ORL @ DAL L 7 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 3 -2
+p123
+aVElfrid Payton ORL 03/18/2015 ORL @ DAL L 41 15 6 10 60.0 1 2 50.0 2 2 100.0 1 9 10 12 2 0 3 3 -4
+p124
+aVNikola Vucevic ORL 03/18/2015 ORL @ DAL L 27 12 4 9 44.4 0 0 - 4 4 100.0 3 6 9 1 1 1 2 3 -12
+p125
+aVBen Gordon ORL 03/18/2015 ORL @ DAL L 14 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 3 1 3
+p126
+aVVictor Oladipo ORL 03/17/2015 ORL @ HOU L 38 29 11 21 52.4 1 3 33.3 6 6 100.0 1 3 4 3 4 0 0 2 -11
+p127
+aVKyle O'Quinn ORL 03/17/2015 ORL @ HOU L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p128
+aVTobias Harris ORL 03/17/2015 ORL @ HOU L 17 6 2 7 28.6 0 3 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -6
+p129
+aVLuke Ridnour ORL 03/17/2015 ORL @ HOU L 20 6 3 8 37.5 0 2 0.0 0 0 - 0 0 0 2 0 0 1 1 -10
+p130
+aVElfrid Payton ORL 03/17/2015 ORL @ HOU L 34 10 5 9 55.6 0 1 0.0 0 0 - 1 3 4 7 2 1 3 4 -11
+p131
+aVNikola Vucevic ORL 03/17/2015 ORL @ HOU L 32 11 5 17 29.4 0 0 - 1 3 33.3 3 8 11 3 1 2 3 3 -14
+p132
+aVDewayne Dedmon ORL 03/17/2015 ORL @ HOU L 23 2 1 2 50.0 0 0 - 0 0 - 1 6 7 0 0 2 1 4 -1
+p133
+aVChanning Frye ORL 03/17/2015 ORL @ HOU L 26 9 3 8 37.5 3 7 42.9 0 0 - 1 7 8 2 0 0 0 3 -7
+p134
+aVBen Gordon ORL 03/17/2015 ORL @ HOU L 19 13 5 9 55.6 1 4 25.0 2 2 100.0 0 1 1 1 0 0 2 1 -1
+p135
+aVMaurice Harkless ORL 03/17/2015 ORL @ HOU L 18 8 3 7 42.9 1 2 50.0 1 4 25.0 5 0 5 0 0 0 0 2 -1
+p136
+aVAaron Gordon ORL 03/17/2015 ORL @ HOU L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -1
+p137
+aVAaron Gordon ORL 03/15/2015 ORL vs. CLE L 13 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 2 2 -6
+p138
+aVLuke Ridnour ORL 03/15/2015 ORL vs. CLE L 16 15 5 6 83.3 2 3 66.7 3 4 75.0 0 1 1 1 3 0 1 2 -11
+p139
+aVTobias Harris ORL 03/15/2015 ORL vs. CLE L 46 24 9 15 60.0 3 6 50.0 3 4 75.0 1 7 8 1 1 0 1 1 -4
+p140
+aVChanning Frye ORL 03/15/2015 ORL vs. CLE L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 -11
+p141
+aVMaurice Harkless ORL 03/15/2015 ORL vs. CLE L 17 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -9
+p142
+aVAndrew Nicholson ORL 03/15/2015 ORL vs. CLE L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -15
+p143
+aVNikola Vucevic ORL 03/15/2015 ORL vs. CLE L 33 22 11 21 52.4 0 0 - 0 1 0.0 9 6 15 3 0 1 1 2 -3
+p144
+aVElfrid Payton ORL 03/15/2015 ORL vs. CLE L 38 13 5 14 35.7 1 1 100.0 2 6 33.3 5 4 9 10 2 0 5 1 -1
+p145
+aVVictor Oladipo ORL 03/15/2015 ORL vs. CLE L 41 25 8 21 38.1 3 4 75.0 6 10 60.0 0 1 1 7 2 0 1 1 -9
+p146
+aVDewayne Dedmon ORL 03/15/2015 ORL vs. CLE L 18 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 1 0 0 2 -6
+p147
+aVAaron Gordon ORL 03/13/2015 ORL @ BOS L 20 11 4 8 50.0 1 3 33.3 2 2 100.0 2 6 8 0 1 1 2 1 -2
+p148
+aVMaurice Harkless ORL 03/13/2015 ORL @ BOS L 26 4 1 4 25.0 0 2 0.0 2 2 100.0 0 7 7 0 2 0 1 3 -7
+p149
+aVVictor Oladipo ORL 03/13/2015 ORL @ BOS L 36 11 5 14 35.7 0 4 0.0 1 2 50.0 0 6 6 4 2 0 4 5 -5
+p150
+aVElfrid Payton ORL 03/13/2015 ORL @ BOS L 34 20 7 16 43.8 2 3 66.7 4 15 26.7 1 4 5 9 1 1 5 1 -8
+p151
+aVTobias Harris ORL 03/13/2015 ORL @ BOS L 38 16 6 12 50.0 2 5 40.0 2 3 66.7 0 4 4 3 1 0 1 2 -7
+p152
+aVChanning Frye ORL 03/13/2015 ORL @ BOS L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 6
+p153
+aVDewayne Dedmon ORL 03/13/2015 ORL @ BOS L 25 5 2 3 66.7 0 0 - 1 2 50.0 4 4 8 0 0 1 3 3 -9
+p154
+aVLuke Ridnour ORL 03/13/2015 ORL @ BOS L 17 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 1 2 3 3
+p155
+aVNikola Vucevic ORL 03/13/2015 ORL @ BOS L 37 16 7 17 41.2 0 0 - 2 2 100.0 3 8 11 3 2 0 0 3 -6
+p156
+aVAaron Gordon ORL 03/11/2015 ORL @ MIL L 18 7 2 5 40.0 1 2 50.0 2 2 100.0 0 4 4 1 0 1 1 1 -4
+p157
+aVLuke Ridnour ORL 03/11/2015 ORL @ MIL L 15 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 3 1 0 1 3 -1
+p158
+aVDewayne Dedmon ORL 03/11/2015 ORL @ MIL L 20 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 2 1 3 5
+p159
+aVVictor Oladipo ORL 03/11/2015 ORL @ MIL L 39 14 4 17 23.5 2 4 50.0 4 4 100.0 0 1 1 6 3 0 1 1 -2
+p160
+aVMaurice Harkless ORL 03/11/2015 ORL @ MIL L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 2 0 0 1 1
+p161
+aVNikola Vucevic ORL 03/11/2015 ORL @ MIL L 39 19 9 20 45.0 0 0 - 1 1 100.0 6 8 14 1 3 0 5 2 -6
+p162
+aVChanning Frye ORL 03/11/2015 ORL @ MIL L 28 13 4 5 80.0 3 4 75.0 2 2 100.0 0 4 4 2 0 0 0 2 -11
+p163
+aVElfrid Payton ORL 03/11/2015 ORL @ MIL L 35 14 6 12 50.0 0 1 0.0 2 2 100.0 0 2 2 5 2 0 3 2 -10
+p164
+aVTobias Harris ORL 03/11/2015 ORL @ MIL L 39 17 7 16 43.8 3 5 60.0 0 0 - 0 3 3 3 3 1 2 3 -2
+p165
+aVKyle O'Quinn ORL 03/10/2015 ORL @ IND L 7 6 3 5 60.0 0 0 - 0 0 - 3 1 4 0 0 0 1 0 -8
+p166
+aVLuke Ridnour ORL 03/10/2015 ORL @ IND L 20 0 0 5 0.0 0 3 0.0 0 0 - 2 1 3 3 0 0 1 1 -23
+p167
+aVNikola Vucevic ORL 03/10/2015 ORL @ IND L 28 13 6 10 60.0 0 0 - 1 2 50.0 1 4 5 2 2 0 1 1 2
+p168
+aVWillie Green ORL 03/10/2015 ORL @ IND L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -8
+p169
+aVElfrid Payton ORL 03/10/2015 ORL @ IND L 32 14 5 13 38.5 0 0 - 4 6 66.7 2 1 3 6 1 1 2 3 -16
+p170
+aVAndrew Nicholson ORL 03/10/2015 ORL @ IND L 13 0 0 7 0.0 0 1 0.0 0 0 - 1 1 2 0 1 2 0 0 -28
+p171
+aVChanning Frye ORL 03/10/2015 ORL @ IND L 19 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 3 -16
+p172
+aVTobias Harris ORL 03/10/2015 ORL @ IND L 30 22 8 17 47.1 1 4 25.0 5 6 83.3 2 4 6 0 2 0 2 2 -3
+p173
+aVBen Gordon ORL 03/10/2015 ORL @ IND L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 -5
+p174
+aVAaron Gordon ORL 03/10/2015 ORL @ IND L 12 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -23
+p175
+aVDewayne Dedmon ORL 03/10/2015 ORL @ IND L 17 6 3 4 75.0 0 0 - 0 0 - 2 6 8 0 0 1 1 3 3
+p176
+aVMaurice Harkless ORL 03/10/2015 ORL @ IND L 16 2 1 6 16.7 0 1 0.0 0 2 0.0 4 0 4 2 0 0 1 1 -22
+p177
+aVVictor Oladipo ORL 03/10/2015 ORL @ IND L 32 13 4 12 33.3 1 3 33.3 4 4 100.0 0 3 3 2 3 3 1 3 -13
+p178
+aVChanning Frye ORL 03/08/2015 ORL vs. BOS W 16 6 2 10 20.0 1 4 25.0 1 2 50.0 3 2 5 1 0 1 1 2 -16
+p179
+aVVictor Oladipo ORL 03/08/2015 ORL vs. BOS W 42 22 7 16 43.8 2 3 66.7 6 6 100.0 1 6 7 5 2 0 1 4 15
+p180
+aVKyle O'Quinn ORL 03/08/2015 ORL vs. BOS W 5 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -6
+p181
+aVTobias Harris ORL 03/08/2015 ORL vs. BOS W 42 21 8 17 47.1 2 7 28.6 3 3 100.0 0 4 4 1 2 2 1 0 15
+p182
+aVDewayne Dedmon ORL 03/08/2015 ORL vs. BOS W 28 11 4 6 66.7 0 0 - 3 6 50.0 8 8 16 0 0 2 1 0 15
+p183
+aVBen Gordon ORL 03/08/2015 ORL vs. BOS W 10 2 0 3 0.0 0 1 0.0 2 4 50.0 1 0 1 2 0 0 2 0 -17
+p184
+aVMaurice Harkless ORL 03/08/2015 ORL vs. BOS W 30 14 6 11 54.5 2 3 66.7 0 3 0.0 2 5 7 3 3 1 2 2 19
+p185
+aVAndrew Nicholson ORL 03/08/2015 ORL vs. BOS W 9 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 1 0 1 3 0 -10
+p186
+aVAaron Gordon ORL 03/08/2015 ORL vs. BOS W 15 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 1 0 1 -6
+p187
+aVElfrid Payton ORL 03/08/2015 ORL vs. BOS W 42 19 7 16 43.8 0 1 0.0 5 6 83.3 1 9 10 7 1 0 3 5 16
+p188
+aVChanning Frye ORL 03/06/2015 ORL vs. SAC W 35 22 7 11 63.6 6 9 66.7 2 2 100.0 0 10 10 3 1 3 1 3 21
+p189
+aVKyle O'Quinn ORL 03/06/2015 ORL vs. SAC W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 5 -10
+p190
+aVTobias Harris ORL 03/06/2015 ORL vs. SAC W 37 19 6 15 40.0 2 6 33.3 5 5 100.0 1 5 6 2 2 1 1 0 10
+p191
+aVAndrew Nicholson ORL 03/06/2015 ORL vs. SAC W 24 14 6 11 54.5 1 2 50.0 1 2 50.0 3 1 4 1 0 0 1 3 -10
+p192
+aVAaron Gordon ORL 03/06/2015 ORL vs. SAC W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 3 -5
+p193
+aVElfrid Payton ORL 03/06/2015 ORL vs. SAC W 42 10 5 10 50.0 0 1 0.0 0 1 0.0 0 4 4 12 1 1 1 1 3
+p194
+aVVictor Oladipo ORL 03/06/2015 ORL vs. SAC W 40 32 14 24 58.3 2 3 66.7 2 2 100.0 1 2 3 10 5 0 3 2 13
+p195
+aVDewayne Dedmon ORL 03/06/2015 ORL vs. SAC W 23 6 3 3 100.0 0 0 - 0 0 - 3 5 8 0 0 0 1 5 7
+p196
+aVBen Gordon ORL 03/06/2015 ORL vs. SAC W 14 12 5 8 62.5 2 2 100.0 0 0 - 0 0 0 1 0 0 0 2 -4
+p197
+aVMaurice Harkless ORL 03/04/2015 ORL vs. PHX L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p198
+aVDewayne Dedmon ORL 03/04/2015 ORL vs. PHX L 21 8 3 3 100.0 0 0 - 2 3 66.7 2 6 8 0 1 1 0 5 9
+p199
+aVWillie Green ORL 03/04/2015 ORL vs. PHX L 18 2 1 8 12.5 0 2 0.0 0 0 - 1 2 3 1 0 0 3 4 -12
+p200
+aVNikola Vucevic ORL 03/04/2015 ORL vs. PHX L 30 18 8 16 50.0 0 0 - 2 2 100.0 1 4 5 2 3 1 1 1 3
+p201
+aVChanning Frye ORL 03/04/2015 ORL vs. PHX L 15 4 1 4 25.0 0 2 0.0 2 2 100.0 0 4 4 0 0 1 1 4 -12
+p202
+aVBen Gordon ORL 03/04/2015 ORL vs. PHX L 3 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -3
+p203
+aVAaron Gordon ORL 03/04/2015 ORL vs. PHX L 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 0 0 0 -9
+p204
+aVTobias Harris ORL 03/04/2015 ORL vs. PHX L 36 11 5 8 62.5 1 3 33.3 0 0 - 0 4 4 2 0 1 1 1 -2
+p205
+aVAndrew Nicholson ORL 03/04/2015 ORL vs. PHX L 18 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 1 0 1 1 0 -1
+p206
+aVElfrid Payton ORL 03/04/2015 ORL vs. PHX L 33 9 4 11 36.4 0 1 0.0 1 2 50.0 2 2 4 10 5 0 5 4 8
+p207
+aVVictor Oladipo ORL 03/04/2015 ORL vs. PHX L 43 38 15 25 60.0 4 8 50.0 4 4 100.0 1 3 4 3 3 0 7 4 -5
+p208
+aVChanning Frye ORL 03/01/2015 ORL vs. CHA L 18 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 0 1 0 1 0 -16
+p209
+aVWillie Green ORL 03/01/2015 ORL vs. CHA L 32 11 4 13 30.8 1 4 25.0 2 2 100.0 1 1 2 3 0 0 2 4 -7
+p210
+aVElfrid Payton ORL 03/01/2015 ORL vs. CHA L 13 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -12
+p211
+aVDewayne Dedmon ORL 03/01/2015 ORL vs. CHA L 20 4 2 6 33.3 0 1 0.0 0 0 - 3 6 9 0 2 0 0 1 6
+p212
+aVVictor Oladipo ORL 03/01/2015 ORL vs. CHA L 38 21 7 14 50.0 1 1 100.0 6 8 75.0 1 1 2 5 1 0 1 4 -21
+p213
+aVTobias Harris ORL 03/01/2015 ORL vs. CHA L 34 13 4 13 30.8 1 2 50.0 4 6 66.7 1 8 9 2 2 0 0 1 -26
+p214
+aVAndrew Nicholson ORL 03/01/2015 ORL vs. CHA L 17 11 5 8 62.5 1 1 100.0 0 0 - 0 4 4 0 0 1 0 0 11
+p215
+aVMaurice Harkless ORL 03/01/2015 ORL vs. CHA L 16 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 0 1 1 0 2 12
+p216
+aVLuke Ridnour ORL 03/01/2015 ORL vs. CHA L 8 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 2 5
+p217
+aVBen Gordon ORL 03/01/2015 ORL vs. CHA L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 3 1 -4
+p218
+aVNikola Vucevic ORL 03/01/2015 ORL vs. CHA L 31 10 4 12 33.3 0 0 - 2 2 100.0 2 7 9 2 0 1 3 3 -23
+p219
+aVAndrew Nicholson ORL 02/27/2015 ORL @ ATL L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 4 4 0 0 0 0 2 -8
+p220
+aVDewayne Dedmon ORL 02/27/2015 ORL @ ATL L 11 4 2 2 100.0 0 0 - 0 2 0.0 1 2 3 0 0 1 1 1 2
+p221
+aVNikola Vucevic ORL 02/27/2015 ORL @ ATL L 37 21 10 16 62.5 0 0 - 1 2 50.0 5 10 15 3 1 1 4 4 1
+p222
+aVWillie Green ORL 02/27/2015 ORL @ ATL L 28 9 3 6 50.0 2 3 66.7 1 2 50.0 0 2 2 2 0 0 2 1 4
+p223
+aVElfrid Payton ORL 02/27/2015 ORL @ ATL L 25 4 2 8 25.0 0 0 - 0 0 - 1 0 1 5 2 0 2 0 -6
+p224
+aVKyle O'Quinn ORL 02/27/2015 ORL @ ATL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p225
+aVVictor Oladipo ORL 02/27/2015 ORL @ ATL L 35 19 8 18 44.4 2 5 40.0 1 2 50.0 0 3 3 6 0 0 2 1 -11
+p226
+aVLuke Ridnour ORL 02/27/2015 ORL @ ATL L 13 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 3 1 0 2 4
+p227
+aVMaurice Harkless ORL 02/27/2015 ORL @ ATL L 14 2 1 5 20.0 0 2 0.0 0 0 - 2 1 3 0 1 1 0 0 -2
+p228
+aVChanning Frye ORL 02/27/2015 ORL @ ATL L 24 10 3 10 30.0 3 8 37.5 1 1 100.0 1 2 3 3 1 2 4 6 -9
+p229
+aVTobias Harris ORL 02/27/2015 ORL @ ATL L 37 15 5 9 55.6 2 4 50.0 3 4 75.0 0 4 4 1 2 1 2 0 -8
+p230
+aVElfrid Payton ORL 02/25/2015 ORL vs. MIA L 39 3 1 8 12.5 0 0 - 1 4 25.0 1 4 5 9 1 0 3 2 -11
+p231
+aVChanning Frye ORL 02/25/2015 ORL vs. MIA L 14 5 1 3 33.3 1 3 33.3 2 2 100.0 1 1 2 0 0 0 1 4 3
+p232
+aVLuke Ridnour ORL 02/25/2015 ORL vs. MIA L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 6
+p233
+aVTobias Harris ORL 02/25/2015 ORL vs. MIA L 39 12 4 11 36.4 2 6 33.3 2 2 100.0 2 6 8 0 1 1 2 3 -18
+p234
+aVNikola Vucevic ORL 02/25/2015 ORL vs. MIA L 41 26 10 21 47.6 0 0 - 6 9 66.7 2 6 8 0 1 0 4 4 -11
+p235
+aVDewayne Dedmon ORL 02/25/2015 ORL vs. MIA L 17 3 1 2 50.0 0 0 - 1 4 25.0 2 4 6 0 0 0 1 1 8
+p236
+aVWillie Green ORL 02/25/2015 ORL vs. MIA L 29 12 5 10 50.0 2 6 33.3 0 0 - 1 5 6 1 0 0 0 5 -11
+p237
+aVAaron Gordon ORL 02/25/2015 ORL vs. MIA L 9 6 3 3 100.0 0 0 - 0 2 0.0 0 1 1 1 1 0 1 2 12
+p238
+aVVictor Oladipo ORL 02/25/2015 ORL vs. MIA L 42 13 4 13 30.8 0 3 0.0 5 6 83.3 2 11 13 4 0 0 4 3 -4
+p239
+aVEvan Fournier ORL 02/25/2015 ORL vs. MIA L 26 10 4 6 66.7 1 3 33.3 1 2 50.0 1 0 1 2 0 0 2 3 11
+p240
+aVElfrid Payton ORL 02/22/2015 ORL vs. PHI W 36 10 3 7 42.9 0 0 - 4 8 50.0 1 7 8 7 1 0 1 1 12
+p241
+aVChanning Frye ORL 02/22/2015 ORL vs. PHI W 21 15 6 10 60.0 3 7 42.9 0 0 - 0 3 3 0 0 1 0 3 3
+p242
+aVDewayne Dedmon ORL 02/22/2015 ORL vs. PHI W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 4 -9
+p243
+aVAndrew Nicholson ORL 02/22/2015 ORL vs. PHI W 4 5 2 4 50.0 0 1 0.0 1 1 100.0 0 0 0 1 1 0 0 1 -2
+p244
+aVTobias Harris ORL 02/22/2015 ORL vs. PHI W 25 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 2 0 0 3 2 -11
+p245
+aVVictor Oladipo ORL 02/22/2015 ORL vs. PHI W 38 17 4 11 36.4 1 4 25.0 8 9 88.9 1 4 5 3 1 0 5 3 12
+p246
+aVWillie Green ORL 02/22/2015 ORL vs. PHI W 32 16 6 10 60.0 2 5 40.0 2 2 100.0 0 1 1 2 2 0 1 1 8
+p247
+aVLuke Ridnour ORL 02/22/2015 ORL vs. PHI W 12 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 2 -7
+p248
+aVAaron Gordon ORL 02/22/2015 ORL vs. PHI W 10 3 1 5 20.0 0 1 0.0 1 1 100.0 2 1 3 1 1 0 0 1 5
+p249
+aVNikola Vucevic ORL 02/22/2015 ORL vs. PHI W 38 31 14 24 58.3 0 0 - 3 5 60.0 6 8 14 0 2 1 1 2 14
+p250
+aVEvan Fournier ORL 02/22/2015 ORL vs. PHI W 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 1 0
+p251
+aVChanning Frye ORL 02/20/2015 ORL vs. NOP W 18 2 1 6 16.7 0 4 0.0 0 0 - 0 2 2 0 1 0 1 4 5
+p252
+aVAaron Gordon ORL 02/20/2015 ORL vs. NOP W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -2
+p253
+aVKyle O'Quinn ORL 02/20/2015 ORL vs. NOP W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p254
+aVLuke Ridnour ORL 02/20/2015 ORL vs. NOP W 11 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -3
+p255
+aVWillie Green ORL 02/20/2015 ORL vs. NOP W 24 9 4 6 66.7 1 1 100.0 0 0 - 1 4 5 3 0 0 0 2 6
+p256
+aVVictor Oladipo ORL 02/20/2015 ORL vs. NOP W 31 22 11 18 61.1 0 4 0.0 0 0 - 0 2 2 2 1 1 2 3 5
+p257
+aVElfrid Payton ORL 02/20/2015 ORL vs. NOP W 32 10 4 7 57.1 0 0 - 2 4 50.0 2 5 7 11 0 0 0 3 8
+p258
+aVAndrew Nicholson ORL 02/20/2015 ORL vs. NOP W 21 6 2 6 33.3 1 2 50.0 1 2 50.0 0 0 0 0 0 0 1 1 6
+p259
+aVNikola Vucevic ORL 02/20/2015 ORL vs. NOP W 37 18 9 19 47.4 0 0 - 0 0 - 5 8 13 1 1 1 2 4 11
+p260
+aVEvan Fournier ORL 02/20/2015 ORL vs. NOP W 39 16 7 16 43.8 2 6 33.3 0 0 - 0 6 6 3 0 0 0 1 19
+p261
+aVDewayne Dedmon ORL 02/20/2015 ORL vs. NOP W 19 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 1 0 1 2 3
+p262
+aVBen Gordon ORL 02/11/2015 ORL vs. NYK W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p263
+aVNikola Vucevic ORL 02/11/2015 ORL vs. NYK W 41 28 12 20 60.0 0 0 - 4 6 66.7 2 16 18 0 0 0 4 3 12
+p264
+aVDewayne Dedmon ORL 02/11/2015 ORL vs. NYK W 21 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 6 1 6 7
+p265
+aVLuke Ridnour ORL 02/11/2015 ORL vs. NYK W 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -2
+p266
+aVElfrid Payton ORL 02/11/2015 ORL vs. NYK W 33 12 4 8 50.0 0 1 0.0 4 5 80.0 2 3 5 4 2 0 3 1 8
+p267
+aVAaron Gordon ORL 02/11/2015 ORL vs. NYK W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -10
+p268
+aVKyle O'Quinn ORL 02/11/2015 ORL vs. NYK W 17 1 0 3 0.0 0 1 0.0 1 2 50.0 0 7 7 1 1 1 3 3 3
+p269
+aVChanning Frye ORL 02/11/2015 ORL vs. NYK W 10 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 1 0 0 1 4
+p270
+aVWillie Green ORL 02/11/2015 ORL vs. NYK W 24 13 4 8 50.0 2 3 66.7 3 4 75.0 0 0 0 2 1 1 0 3 3
+p271
+aVVictor Oladipo ORL 02/11/2015 ORL vs. NYK W 38 19 4 11 36.4 0 2 0.0 11 11 100.0 1 4 5 4 1 1 3 4 11
+p272
+aVEvan Fournier ORL 02/11/2015 ORL vs. NYK W 28 5 2 6 33.3 1 1 100.0 0 0 - 0 3 3 1 0 0 0 2 -1
+p273
+aVElfrid Payton ORL 02/09/2015 ORL @ WAS L 37 11 4 11 36.4 0 0 - 3 5 60.0 2 3 5 5 6 0 4 2 -11
+p274
+aVMaurice Harkless ORL 02/09/2015 ORL @ WAS L 11 7 3 7 42.9 1 4 25.0 0 0 - 0 0 0 0 2 0 0 1 3
+p275
+aVKyle O'Quinn ORL 02/09/2015 ORL @ WAS L 14 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 2 2 0 2 2 -11
+p276
+aVChanning Frye ORL 02/09/2015 ORL @ WAS L 20 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 0 1 2 2 4 -7
+p277
+aVDewayne Dedmon ORL 02/09/2015 ORL @ WAS L 18 3 1 4 25.0 0 0 - 1 4 25.0 4 3 7 1 0 3 0 3 -3
+p278
+aVEvan Fournier ORL 02/09/2015 ORL @ WAS L 33 18 7 14 50.0 2 5 40.0 2 2 100.0 0 2 2 2 0 0 0 1 -2
+p279
+aVVictor Oladipo ORL 02/09/2015 ORL @ WAS L 39 13 6 18 33.3 0 6 0.0 1 1 100.0 1 3 4 5 1 0 0 2 -12
+p280
+aVNikola Vucevic ORL 02/09/2015 ORL @ WAS L 33 14 6 10 60.0 0 0 - 2 2 100.0 1 7 8 1 0 0 1 4 -14
+p281
+aVAaron Gordon ORL 02/09/2015 ORL @ WAS L 17 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 0 1 1 2 4 -12
+p282
+aVWillie Green ORL 02/09/2015 ORL @ WAS L 18 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 -11
+p283
+aVTobias Harris ORL 02/08/2015 ORL vs. CHI L 39 15 6 17 35.3 2 5 40.0 1 1 100.0 2 6 8 1 3 0 1 1 -5
+p284
+aVVictor Oladipo ORL 02/08/2015 ORL vs. CHI L 35 18 8 16 50.0 1 3 33.3 1 1 100.0 1 3 4 6 2 1 4 2 1
+p285
+aVDewayne Dedmon ORL 02/08/2015 ORL vs. CHI L 15 8 4 4 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 5 10
+p286
+aVElfrid Payton ORL 02/08/2015 ORL vs. CHI L 24 10 5 6 83.3 0 0 - 0 0 - 3 6 9 3 2 0 2 4 3
+p287
+aVAaron Gordon ORL 02/08/2015 ORL vs. CHI L 12 3 1 2 50.0 1 2 50.0 0 0 - 0 5 5 1 0 1 3 1 -1
+p288
+aVChanning Frye ORL 02/08/2015 ORL vs. CHI L 23 12 4 8 50.0 4 8 50.0 0 0 - 0 1 1 2 1 0 0 0 -1
+p289
+aVEvan Fournier ORL 02/08/2015 ORL vs. CHI L 18 14 5 7 71.4 1 3 33.3 3 4 75.0 2 1 3 3 1 0 1 1 12
+p290
+aVKyle O'Quinn ORL 02/08/2015 ORL vs. CHI L 23 3 1 7 14.3 0 4 0.0 1 2 50.0 1 4 5 3 0 1 2 3 -1
+p291
+aVNikola Vucevic ORL 02/08/2015 ORL vs. CHI L 32 14 5 14 35.7 0 0 - 4 5 80.0 3 4 7 1 0 0 1 1 -5
+p292
+aVMaurice Harkless ORL 02/08/2015 ORL vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p293
+aVWillie Green ORL 02/08/2015 ORL vs. CHI L 17 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 3 -12
+p294
+aVEvan Fournier ORL 02/06/2015 ORL vs. LAL W 14 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 2 0 2 0 1
+p295
+aVNikola Vucevic ORL 02/06/2015 ORL vs. LAL W 41 25 11 21 52.4 0 0 - 3 5 60.0 4 9 13 2 2 2 1 5 5
+p296
+aVTobias Harris ORL 02/06/2015 ORL vs. LAL W 45 34 14 18 77.8 2 5 40.0 4 4 100.0 0 7 7 2 1 1 2 1 4
+p297
+aVLuke Ridnour ORL 02/06/2015 ORL vs. LAL W 19 4 1 4 25.0 0 2 0.0 2 2 100.0 0 3 3 3 0 0 1 1 11
+p298
+aVKyle O'Quinn ORL 02/06/2015 ORL vs. LAL W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 1 1 1
+p299
+aVElfrid Payton ORL 02/06/2015 ORL vs. LAL W 34 4 2 5 40.0 0 0 - 0 0 - 0 2 2 6 2 0 3 1 -5
+p300
+aVVictor Oladipo ORL 02/06/2015 ORL vs. LAL W 37 12 5 14 35.7 0 1 0.0 2 2 100.0 3 8 11 5 2 1 4 1 9
+p301
+aVWillie Green ORL 02/06/2015 ORL vs. LAL W 22 5 2 4 50.0 1 1 100.0 0 0 - 0 4 4 1 0 1 1 2 2
+p302
+aVChanning Frye ORL 02/06/2015 ORL vs. LAL W 17 7 3 6 50.0 1 4 25.0 0 0 - 1 1 2 2 0 0 2 0 -3
+p303
+aVAaron Gordon ORL 02/06/2015 ORL vs. LAL W 23 7 3 6 50.0 0 1 0.0 1 1 100.0 1 1 2 2 0 0 1 1 5
+p304
+aVBen Gordon ORL 02/04/2015 ORL @ SAS L 9 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -16
+p305
+aVMaurice Harkless ORL 02/04/2015 ORL @ SAS L 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p306
+aVEvan Fournier ORL 02/04/2015 ORL @ SAS L 32 10 4 9 44.4 2 4 50.0 0 0 - 0 2 2 6 2 0 1 3 1
+p307
+aVChanning Frye ORL 02/04/2015 ORL @ SAS L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 2 0 -13
+p308
+aVTobias Harris ORL 02/04/2015 ORL @ SAS L 38 23 9 13 69.2 3 4 75.0 2 3 66.7 0 10 10 6 0 0 0 2 0
+p309
+aVNikola Vucevic ORL 02/04/2015 ORL @ SAS L 34 25 11 17 64.7 0 0 - 3 3 100.0 3 10 13 1 0 1 1 5 8
+p310
+aVVictor Oladipo ORL 02/04/2015 ORL @ SAS L 42 14 5 21 23.8 2 5 40.0 2 2 100.0 2 4 6 2 2 0 5 1 1
+p311
+aVKyle O'Quinn ORL 02/04/2015 ORL @ SAS L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p312
+aVElfrid Payton ORL 02/04/2015 ORL @ SAS L 40 14 6 8 75.0 0 0 - 2 6 33.3 0 6 6 9 1 0 1 3 13
+p313
+aVWillie Green ORL 02/04/2015 ORL @ SAS L 20 8 3 7 42.9 2 5 40.0 0 0 - 0 0 0 1 0 0 2 1 -21
+p314
+aVAaron Gordon ORL 02/02/2015 ORL @ OKC L 26 6 2 7 28.6 0 1 0.0 2 2 100.0 2 6 8 2 0 0 2 1 -16
+p315
+aVKyle O'Quinn ORL 02/02/2015 ORL @ OKC L 23 11 5 10 50.0 0 2 0.0 1 3 33.3 3 5 8 2 3 1 0 3 8
+p316
+aVNikola Vucevic ORL 02/02/2015 ORL @ OKC L 28 20 9 16 56.3 0 0 - 2 2 100.0 4 2 6 1 0 0 2 6 -20
+p317
+aVEvan Fournier ORL 02/02/2015 ORL @ OKC L 21 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 2 0 0 1 2 -2
+p318
+aVTobias Harris ORL 02/02/2015 ORL @ OKC L 41 18 8 20 40.0 0 5 0.0 2 3 66.7 1 3 4 4 0 0 1 0 -6
+p319
+aVWillie Green ORL 02/02/2015 ORL @ OKC L 27 13 4 7 57.1 3 5 60.0 2 2 100.0 0 3 3 3 1 0 2 0 8
+p320
+aVVictor Oladipo ORL 02/02/2015 ORL @ OKC L 34 22 7 14 50.0 2 4 50.0 6 6 100.0 1 6 7 4 1 0 3 3 -2
+p321
+aVDewayne Dedmon ORL 02/02/2015 ORL @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p322
+aVMaurice Harkless ORL 02/02/2015 ORL @ OKC L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p323
+aVChanning Frye ORL 02/02/2015 ORL @ OKC L 12 3 1 4 25.0 1 3 33.3 0 0 - 0 4 4 1 0 0 1 3 10
+p324
+aVElfrid Payton ORL 02/02/2015 ORL @ OKC L 21 0 0 6 0.0 0 0 - 0 0 - 3 0 3 3 0 0 1 2 -15
+p325
+aVNikola Vucevic ORL 01/31/2015 ORL vs. DAL L 31 17 8 13 61.5 0 0 - 1 1 100.0 3 13 16 2 0 1 0 2 -13
+p326
+aVAaron Gordon ORL 01/31/2015 ORL vs. DAL L 30 11 3 8 37.5 2 3 66.7 3 4 75.0 2 3 5 0 0 0 1 5 -5
+p327
+aVMaurice Harkless ORL 01/31/2015 ORL vs. DAL L 24 5 0 2 0.0 0 2 0.0 5 6 83.3 0 2 2 1 1 2 1 1 -1
+p328
+aVElfrid Payton ORL 01/31/2015 ORL vs. DAL L 20 4 1 6 16.7 0 0 - 2 2 100.0 3 2 5 5 1 0 3 2 -21
+p329
+aVEvan Fournier ORL 01/31/2015 ORL vs. DAL L 37 15 6 10 60.0 1 2 50.0 2 2 100.0 0 3 3 1 2 0 0 2 -21
+p330
+aVBen Gordon ORL 01/31/2015 ORL vs. DAL L 14 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 1 1 0 5 2 6
+p331
+aVWillie Green ORL 01/31/2015 ORL vs. DAL L 28 15 6 12 50.0 1 4 25.0 2 3 66.7 1 2 3 4 2 0 2 0 6
+p332
+aVTobias Harris ORL 01/31/2015 ORL vs. DAL L 30 8 2 8 25.0 0 3 0.0 4 6 66.7 1 2 3 5 1 0 2 2 -7
+p333
+aVDewayne Dedmon ORL 01/31/2015 ORL vs. DAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 4 -5
+p334
+aVChanning Frye ORL 01/31/2015 ORL vs. DAL L 20 10 4 12 33.3 2 7 28.6 0 0 - 1 2 3 2 0 0 1 4 -14
+p335
+aVChanning Frye ORL 01/29/2015 ORL vs. MIL L 15 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -14
+p336
+aVElfrid Payton ORL 01/29/2015 ORL vs. MIL L 38 15 6 10 60.0 0 0 - 3 4 75.0 0 2 2 6 1 1 5 1 -18
+p337
+aVNikola Vucevic ORL 01/29/2015 ORL vs. MIL L 26 17 8 19 42.1 0 0 - 1 1 100.0 8 6 14 1 0 0 3 4 -26
+p338
+aVVictor Oladipo ORL 01/29/2015 ORL vs. MIL L 34 21 6 17 35.3 0 4 0.0 9 11 81.8 1 4 5 1 1 0 3 3 -24
+p339
+aVWillie Green ORL 01/29/2015 ORL vs. MIL L 16 16 6 8 75.0 3 5 60.0 1 2 50.0 0 1 1 0 2 0 3 2 13
+p340
+aVKyle O'Quinn ORL 01/29/2015 ORL vs. MIL L 27 7 2 2 100.0 1 1 100.0 2 4 50.0 1 8 9 2 1 1 3 2 7
+p341
+aVAaron Gordon ORL 01/29/2015 ORL vs. MIL L 20 4 1 1 100.0 0 0 - 2 4 50.0 0 5 5 0 0 0 1 1 -8
+p342
+aVEvan Fournier ORL 01/29/2015 ORL vs. MIL L 30 11 5 10 50.0 1 4 25.0 0 0 - 0 5 5 2 3 0 3 3 0
+p343
+aVLuke Ridnour ORL 01/29/2015 ORL vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p344
+aVTobias Harris ORL 01/29/2015 ORL vs. MIL L 21 7 2 12 16.7 0 2 0.0 3 4 75.0 4 1 5 1 0 0 1 0 -18
+p345
+aVBen Gordon ORL 01/29/2015 ORL vs. MIL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p346
+aVDewayne Dedmon ORL 01/29/2015 ORL vs. MIL L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 2 1 2 11
+p347
+aVKyle O'Quinn ORL 01/26/2015 ORL @ MEM L 13 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 3 0 1 1 2 -13
+p348
+aVNikola Vucevic ORL 01/26/2015 ORL @ MEM L 39 18 6 13 46.2 0 0 - 6 7 85.7 3 9 12 0 2 1 4 2 -7
+p349
+aVAaron Gordon ORL 01/26/2015 ORL @ MEM L 21 7 3 7 42.9 0 1 0.0 1 2 50.0 1 1 2 1 0 0 0 3 -5
+p350
+aVTobias Harris ORL 01/26/2015 ORL @ MEM L 20 8 4 10 40.0 0 0 - 0 0 - 1 1 2 0 1 0 2 0 -14
+p351
+aVElfrid Payton ORL 01/26/2015 ORL @ MEM L 36 12 5 14 35.7 0 0 - 2 4 50.0 1 1 2 6 2 0 2 3 -5
+p352
+aVVictor Oladipo ORL 01/26/2015 ORL @ MEM L 33 18 6 11 54.5 1 3 33.3 5 6 83.3 1 6 7 2 2 0 3 2 3
+p353
+aVDewayne Dedmon ORL 01/26/2015 ORL @ MEM L 30 10 4 5 80.0 0 0 - 2 6 33.3 4 6 10 0 0 1 1 4 14
+p354
+aVChanning Frye ORL 01/26/2015 ORL @ MEM L 13 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 0 0 0 0 0 -11
+p355
+aVWillie Green ORL 01/26/2015 ORL @ MEM L 20 6 3 5 60.0 0 1 0.0 0 0 - 1 4 5 2 1 0 2 3 3
+p356
+aVEvan Fournier ORL 01/26/2015 ORL @ MEM L 17 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 2 3 -10
+p357
+aVEvan Fournier ORL 01/25/2015 ORL vs. IND L 17 5 2 7 28.6 1 2 50.0 0 0 - 1 1 2 1 1 0 1 1 -1
+p358
+aVAaron Gordon ORL 01/25/2015 ORL vs. IND L 21 9 3 5 60.0 1 2 50.0 2 2 100.0 0 4 4 0 0 1 0 0 2
+p359
+aVDevyn Marble ORL 01/25/2015 ORL vs. IND L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 1 0 1 2
+p360
+aVWillie Green ORL 01/25/2015 ORL vs. IND L 17 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 4 1 1 3 3 5
+p361
+aVChanning Frye ORL 01/25/2015 ORL vs. IND L 32 9 3 10 30.0 2 5 40.0 1 1 100.0 0 4 4 2 2 0 2 3 -2
+p362
+aVKyle O'Quinn ORL 01/25/2015 ORL vs. IND L 14 4 2 2 100.0 0 0 - 0 0 - 0 2 2 2 0 2 0 0 7
+p363
+aVVictor Oladipo ORL 01/25/2015 ORL vs. IND L 34 18 8 17 47.1 1 4 25.0 1 1 100.0 0 2 2 3 1 0 3 2 -14
+p364
+aVTobias Harris ORL 01/25/2015 ORL vs. IND L 30 11 2 5 40.0 1 1 100.0 6 9 66.7 1 6 7 2 1 0 2 4 -8
+p365
+aVElfrid Payton ORL 01/25/2015 ORL vs. IND L 31 10 4 8 50.0 0 0 - 2 5 40.0 1 2 3 8 1 0 1 4 -12
+p366
+aVNikola Vucevic ORL 01/25/2015 ORL vs. IND L 34 27 11 17 64.7 0 0 - 5 5 100.0 0 7 7 0 0 0 0 3 -14
+p367
+aVAaron Gordon ORL 01/23/2015 ORL @ NYK L 13 5 2 2 100.0 0 0 - 1 3 33.3 0 2 2 1 1 0 0 2 1
+p368
+aVLuke Ridnour ORL 01/23/2015 ORL @ NYK L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 -10
+p369
+aVEvan Fournier ORL 01/23/2015 ORL @ NYK L 17 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 2 3 0 1 4 -14
+p370
+aVChanning Frye ORL 01/23/2015 ORL @ NYK L 35 14 5 10 50.0 4 9 44.4 0 0 - 0 6 6 3 0 1 0 2 -3
+p371
+aVElfrid Payton ORL 01/23/2015 ORL @ NYK L 37 9 3 6 50.0 0 0 - 3 4 75.0 1 2 3 11 2 1 4 3 5
+p372
+aVBen Gordon ORL 01/23/2015 ORL @ NYK L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -2
+p373
+aVTobias Harris ORL 01/23/2015 ORL @ NYK L 29 9 4 14 28.6 0 6 0.0 1 1 100.0 0 2 2 1 0 0 2 3 -8
+p374
+aVDevyn Marble ORL 01/23/2015 ORL @ NYK L 11 4 1 2 50.0 1 2 50.0 1 4 25.0 1 1 2 2 0 1 1 0 0
+p375
+aVKyle O'Quinn ORL 01/23/2015 ORL @ NYK L 10 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p376
+aVVictor Oladipo ORL 01/23/2015 ORL @ NYK L 35 15 6 20 30.0 0 5 0.0 3 5 60.0 2 0 2 3 2 0 2 1 3
+p377
+aVNikola Vucevic ORL 01/23/2015 ORL @ NYK L 38 34 16 22 72.7 0 0 - 2 2 100.0 4 14 18 3 1 1 2 3 -1
+p378
+aVAaron Gordon ORL 01/21/2015 ORL @ DET L 12 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 1 0 0 9
+p379
+aVTobias Harris ORL 01/21/2015 ORL @ DET L 25 19 7 15 46.7 1 2 50.0 4 4 100.0 1 4 5 1 0 0 0 3 7
+p380
+aVDevyn Marble ORL 01/21/2015 ORL @ DET L 20 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 3 -12
+p381
+aVBen Gordon ORL 01/21/2015 ORL @ DET L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 0
+p382
+aVElfrid Payton ORL 01/21/2015 ORL @ DET L 30 8 4 9 44.4 0 0 - 0 0 - 3 1 4 8 3 0 5 2 -22
+p383
+aVWillie Green ORL 01/21/2015 ORL @ DET L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 5 2 0 1 1 9
+p384
+aVVictor Oladipo ORL 01/21/2015 ORL @ DET L 34 23 9 18 50.0 1 2 50.0 4 4 100.0 0 5 5 4 1 0 2 3 -16
+p385
+aVLuke Ridnour ORL 01/21/2015 ORL @ DET L 7 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 3
+p386
+aVChanning Frye ORL 01/21/2015 ORL @ DET L 23 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 0 1 0 0 1 -17
+p387
+aVNikola Vucevic ORL 01/21/2015 ORL @ DET L 34 26 11 23 47.8 0 1 0.0 4 4 100.0 8 7 15 1 0 1 2 5 -22
+p388
+aVEvan Fournier ORL 01/21/2015 ORL @ DET L 23 14 4 8 50.0 2 3 66.7 4 4 100.0 0 3 3 3 1 0 1 3 -1
+p389
+aVKyle O'Quinn ORL 01/21/2015 ORL @ DET L 14 12 6 9 66.7 0 1 0.0 0 0 - 0 1 1 1 0 3 1 0 12
+p390
+aVAaron Gordon ORL 01/18/2015 ORL vs. OKC L 12 8 2 4 50.0 1 1 100.0 3 5 60.0 1 2 3 1 0 0 1 3 -11
+p391
+aVLuke Ridnour ORL 01/18/2015 ORL vs. OKC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p392
+aVElfrid Payton ORL 01/18/2015 ORL vs. OKC L 39 19 9 17 52.9 0 0 - 1 2 50.0 2 2 4 8 3 0 4 5 -15
+p393
+aVDewayne Dedmon ORL 01/18/2015 ORL vs. OKC L 13 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 4 5
+p394
+aVChanning Frye ORL 01/18/2015 ORL vs. OKC L 35 9 2 9 22.2 2 8 25.0 3 3 100.0 0 5 5 1 3 1 1 4 -17
+p395
+aVNikola Vucevic ORL 01/18/2015 ORL vs. OKC L 26 16 7 19 36.8 0 0 - 2 2 100.0 4 3 7 0 0 0 3 5 -22
+p396
+aVDevyn Marble ORL 01/18/2015 ORL vs. OKC L 20 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 2 0 0 1 1 -12
+p397
+aVBen Gordon ORL 01/18/2015 ORL vs. OKC L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 2 0 0 2 -21
+p398
+aVMaurice Harkless ORL 01/18/2015 ORL vs. OKC L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p399
+aVKyle O'Quinn ORL 01/18/2015 ORL vs. OKC L 16 4 1 2 50.0 0 0 - 2 4 50.0 1 3 4 0 0 1 1 0 -11
+p400
+aVWillie Green ORL 01/18/2015 ORL vs. OKC L 10 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 4
+p401
+aVVictor Oladipo ORL 01/18/2015 ORL vs. OKC L 35 23 7 18 38.9 2 6 33.3 7 7 100.0 1 2 3 5 1 0 3 3 -30
+p402
+aVEvan Fournier ORL 01/18/2015 ORL vs. OKC L 14 8 3 6 50.0 1 4 25.0 1 2 50.0 0 1 1 0 0 0 1 1 1
+p403
+aVKyle O'Quinn ORL 01/16/2015 ORL vs. MEM L 13 6 2 4 50.0 0 1 0.0 2 2 100.0 0 8 8 1 0 0 1 4 -12
+p404
+aVEvan Fournier ORL 01/16/2015 ORL vs. MEM L 12 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p405
+aVNikola Vucevic ORL 01/16/2015 ORL vs. MEM L 39 18 8 13 61.5 0 0 - 2 2 100.0 1 8 9 0 0 0 3 3 -1
+p406
+aVDevyn Marble ORL 01/16/2015 ORL vs. MEM L 32 8 3 7 42.9 1 4 25.0 1 4 25.0 2 2 4 2 0 0 2 1 -3
+p407
+aVMaurice Harkless ORL 01/16/2015 ORL vs. MEM L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 2 0 1 2 -1
+p408
+aVVictor Oladipo ORL 01/16/2015 ORL vs. MEM L 38 16 7 17 41.2 2 6 33.3 0 0 - 1 3 4 4 1 1 2 3 -3
+p409
+aVBen Gordon ORL 01/16/2015 ORL vs. MEM L 15 2 0 5 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -9
+p410
+aVChanning Frye ORL 01/16/2015 ORL vs. MEM L 38 17 5 12 41.7 4 9 44.4 3 3 100.0 0 8 8 2 0 3 1 2 -4
+p411
+aVElfrid Payton ORL 01/16/2015 ORL vs. MEM L 39 22 9 16 56.3 0 1 0.0 4 5 80.0 1 3 4 12 2 0 4 4 -3
+p412
+aVLuke Ridnour ORL 01/16/2015 ORL vs. MEM L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p413
+aVKyle O'Quinn ORL 01/14/2015 ORL vs. HOU W 11 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 4 -7
+p414
+aVElfrid Payton ORL 01/14/2015 ORL vs. HOU W 35 15 5 11 45.5 0 0 - 5 6 83.3 0 6 6 4 2 0 5 2 14
+p415
+aVLuke Ridnour ORL 01/14/2015 ORL vs. HOU W 12 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 1 0 2 1 -5
+p416
+aVNikola Vucevic ORL 01/14/2015 ORL vs. HOU W 37 25 10 17 58.8 0 0 - 5 5 100.0 5 7 12 3 3 1 1 3 14
+p417
+aVDevyn Marble ORL 01/14/2015 ORL vs. HOU W 23 3 0 8 0.0 0 6 0.0 3 3 100.0 2 2 4 2 0 0 2 1 11
+p418
+aVEvan Fournier ORL 01/14/2015 ORL vs. HOU W 13 9 3 6 50.0 0 2 0.0 3 4 75.0 0 0 0 0 3 0 0 1 -4
+p419
+aVMaurice Harkless ORL 01/14/2015 ORL vs. HOU W 10 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p420
+aVBen Gordon ORL 01/14/2015 ORL vs. HOU W 21 12 5 7 71.4 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 0 -4
+p421
+aVChanning Frye ORL 01/14/2015 ORL vs. HOU W 39 15 5 10 50.0 5 9 55.6 0 0 - 1 4 5 5 1 0 2 2 17
+p422
+aVVictor Oladipo ORL 01/14/2015 ORL vs. HOU W 39 32 12 19 63.2 3 4 75.0 5 6 83.3 2 4 6 6 3 0 3 4 6
+p423
+aVLuke Ridnour ORL 01/12/2015 ORL @ CHI W 15 9 2 3 66.7 1 1 100.0 4 5 80.0 0 0 0 3 0 0 1 0 -1
+p424
+aVKyle O'Quinn ORL 01/12/2015 ORL @ CHI W 12 8 3 4 75.0 0 1 0.0 2 2 100.0 0 2 2 1 1 1 1 1 1
+p425
+aVNikola Vucevic ORL 01/12/2015 ORL @ CHI W 38 33 16 24 66.7 0 0 - 1 5 20.0 0 11 11 4 0 0 1 4 6
+p426
+aVBen Gordon ORL 01/12/2015 ORL @ CHI W 17 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 1 -1
+p427
+aVVictor Oladipo ORL 01/12/2015 ORL @ CHI W 36 33 11 17 64.7 3 4 75.0 8 10 80.0 0 2 2 2 1 0 0 3 8
+p428
+aVChanning Frye ORL 01/12/2015 ORL @ CHI W 36 5 2 10 20.0 1 7 14.3 0 0 - 1 4 5 5 2 1 4 5 11
+p429
+aVWillie Green ORL 01/12/2015 ORL @ CHI W 12 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 1 1 0 1 2 -1
+p430
+aVElfrid Payton ORL 01/12/2015 ORL @ CHI W 33 10 5 7 71.4 0 0 - 0 0 - 1 3 4 7 2 1 1 4 8
+p431
+aVDevyn Marble ORL 01/12/2015 ORL @ CHI W 31 5 2 4 50.0 1 2 50.0 0 3 0.0 0 5 5 4 3 0 1 2 4
+p432
+aVMaurice Harkless ORL 01/12/2015 ORL @ CHI W 9 4 1 2 50.0 0 0 - 2 3 66.7 0 3 3 0 0 0 0 3 0
+p433
+aVMaurice Harkless ORL 01/10/2015 ORL @ POR L 19 6 2 5 40.0 0 1 0.0 2 2 100.0 1 1 2 0 1 0 0 1 -3
+p434
+aVChanning Frye ORL 01/10/2015 ORL @ POR L 32 3 1 10 10.0 1 8 12.5 0 0 - 0 8 8 3 2 0 1 1 -8
+p435
+aVKyle O'Quinn ORL 01/10/2015 ORL @ POR L 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 3 5 -6
+p436
+aVElfrid Payton ORL 01/10/2015 ORL @ POR L 32 9 4 10 40.0 0 0 - 1 2 50.0 3 2 5 4 0 0 1 3 -11
+p437
+aVLuke Ridnour ORL 01/10/2015 ORL @ POR L 16 5 2 4 50.0 1 1 100.0 0 0 - 1 0 1 4 0 0 0 1 0
+p438
+aVVictor Oladipo ORL 01/10/2015 ORL @ POR L 38 18 6 21 28.6 0 6 0.0 6 8 75.0 3 5 8 4 1 0 4 0 -6
+p439
+aVAndrew Nicholson ORL 01/10/2015 ORL @ POR L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p440
+aVBen Gordon ORL 01/10/2015 ORL @ POR L 26 5 1 7 14.3 1 3 33.3 2 2 100.0 1 3 4 1 0 0 2 3 -1
+p441
+aVNikola Vucevic ORL 01/10/2015 ORL @ POR L 36 34 15 23 65.2 0 0 - 4 6 66.7 8 8 16 2 0 0 5 4 -3
+p442
+aVDevyn Marble ORL 01/10/2015 ORL @ POR L 25 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 2 5 0 0 3 -12
+p443
+aVLuke Ridnour ORL 01/09/2015 ORL @ LAL L 25 12 5 10 50.0 2 3 66.7 0 0 - 0 1 1 1 0 0 2 4 -5
+p444
+aVChanning Frye ORL 01/09/2015 ORL @ LAL L 18 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 3 1 0 2 4 -9
+p445
+aVBen Gordon ORL 01/09/2015 ORL @ LAL L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 1 -1
+p446
+aVKyle O'Quinn ORL 01/09/2015 ORL @ LAL L 28 0 0 4 0.0 0 1 0.0 0 0 - 0 7 7 3 1 2 1 3 -9
+p447
+aVNikola Vucevic ORL 01/09/2015 ORL @ LAL L 28 14 6 12 50.0 0 0 - 2 2 100.0 2 9 11 1 1 0 1 2 -18
+p448
+aVEvan Fournier ORL 01/09/2015 ORL @ LAL L 19 11 3 7 42.9 0 1 0.0 5 5 100.0 0 0 0 2 0 0 0 1 -2
+p449
+aVDewayne Dedmon ORL 01/09/2015 ORL @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -2
+p450
+aVElfrid Payton ORL 01/09/2015 ORL @ LAL L 21 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 1 2 1 3 -15
+p451
+aVVictor Oladipo ORL 01/09/2015 ORL @ LAL L 35 17 5 10 50.0 0 0 - 7 10 70.0 1 1 2 3 2 0 3 3 -15
+p452
+aVTobias Harris ORL 01/09/2015 ORL @ LAL L 35 15 6 16 37.5 1 3 33.3 2 2 100.0 0 4 4 3 1 1 2 1 -13
+p453
+aVDevyn Marble ORL 01/09/2015 ORL @ LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 0
+p454
+aVAndrew Nicholson ORL 01/09/2015 ORL @ LAL L 17 5 2 6 33.3 1 3 33.3 0 2 0.0 0 2 2 0 0 2 1 5 4
+p455
+aVEvan Fournier ORL 01/07/2015 ORL @ DEN L 18 14 4 8 50.0 2 5 40.0 4 4 100.0 2 1 3 1 0 0 2 2 -6
+p456
+aVElfrid Payton ORL 01/07/2015 ORL @ DEN L 31 2 1 6 16.7 0 0 - 0 0 - 1 7 8 6 3 0 1 3 4
+p457
+aVKyle O'Quinn ORL 01/07/2015 ORL @ DEN L 15 5 2 5 40.0 0 1 0.0 1 1 100.0 0 3 3 1 1 0 2 2 -2
+p458
+aVTobias Harris ORL 01/07/2015 ORL @ DEN L 33 12 5 13 38.5 2 3 66.7 0 1 0.0 1 5 6 1 1 2 4 2 7
+p459
+aVAndrew Nicholson ORL 01/07/2015 ORL @ DEN L 21 11 4 10 40.0 3 4 75.0 0 0 - 2 2 4 1 1 0 0 0 12
+p460
+aVChanning Frye ORL 01/07/2015 ORL @ DEN L 19 0 0 5 0.0 0 4 0.0 0 0 - 0 1 1 1 0 0 1 3 -13
+p461
+aVNikola Vucevic ORL 01/07/2015 ORL @ DEN L 34 20 8 18 44.4 0 0 - 4 6 66.7 3 8 11 2 1 0 1 5 1
+p462
+aVBen Gordon ORL 01/07/2015 ORL @ DEN L 14 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 2 1 0 1 2 -10
+p463
+aVLuke Ridnour ORL 01/07/2015 ORL @ DEN L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 0 0 2 2 -3
+p464
+aVDewayne Dedmon ORL 01/07/2015 ORL @ DEN L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p465
+aVVictor Oladipo ORL 01/07/2015 ORL @ DEN L 36 17 7 13 53.8 0 1 0.0 3 4 75.0 0 1 1 6 3 0 0 2 -1
+p466
+aVElfrid Payton ORL 01/03/2015 ORL vs. CHA L 35 7 3 9 33.3 0 0 - 1 1 100.0 1 2 3 7 2 0 1 0 -10
+p467
+aVDevyn Marble ORL 01/03/2015 ORL vs. CHA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -11
+p468
+aVVictor Oladipo ORL 01/03/2015 ORL vs. CHA L 32 21 6 14 42.9 1 4 25.0 8 8 100.0 0 4 4 5 4 0 1 3 7
+p469
+aVDewayne Dedmon ORL 01/03/2015 ORL vs. CHA L 5 3 1 2 50.0 0 0 - 1 1 100.0 2 2 4 0 0 0 0 2 -1
+p470
+aVEvan Fournier ORL 01/03/2015 ORL vs. CHA L 28 9 4 15 26.7 1 7 14.3 0 0 - 1 4 5 1 1 0 2 4 -2
+p471
+aVNikola Vucevic ORL 01/03/2015 ORL vs. CHA L 35 20 8 16 50.0 0 0 - 4 4 100.0 2 8 10 2 1 2 0 5 3
+p472
+aVLuke Ridnour ORL 01/03/2015 ORL vs. CHA L 13 4 1 5 20.0 0 1 0.0 2 2 100.0 1 1 2 3 0 0 0 0 2
+p473
+aVBen Gordon ORL 01/03/2015 ORL vs. CHA L 11 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 1 1
+p474
+aVTobias Harris ORL 01/03/2015 ORL vs. CHA L 40 18 8 15 53.3 0 2 0.0 2 3 66.7 5 6 11 0 1 1 1 4 -3
+p475
+aVChanning Frye ORL 01/03/2015 ORL vs. CHA L 13 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -6
+p476
+aVKyle O'Quinn ORL 01/03/2015 ORL vs. CHA L 20 3 1 6 16.7 1 1 100.0 0 0 - 0 2 2 0 0 0 1 3 -20
+p477
+aVEvan Fournier ORL 01/02/2015 ORL vs. BKN L 28 12 4 11 36.4 2 5 40.0 2 4 50.0 0 1 1 4 0 0 2 1 5
+p478
+aVNikola Vucevic ORL 01/02/2015 ORL vs. BKN L 28 10 4 10 40.0 0 0 - 2 4 50.0 2 2 4 2 1 0 1 1 -12
+p479
+aVDevyn Marble ORL 01/02/2015 ORL vs. BKN L 21 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 1 1 0 0 1 15
+p480
+aVChanning Frye ORL 01/02/2015 ORL vs. BKN L 25 11 4 8 50.0 3 6 50.0 0 0 - 0 4 4 0 2 0 0 3 5
+p481
+aVTobias Harris ORL 01/02/2015 ORL vs. BKN L 31 12 4 10 40.0 2 3 66.7 2 2 100.0 0 3 3 0 3 1 1 1 -21
+p482
+aVDewayne Dedmon ORL 01/02/2015 ORL vs. BKN L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -4
+p483
+aVVictor Oladipo ORL 01/02/2015 ORL vs. BKN L 29 17 7 13 53.8 2 2 100.0 1 1 100.0 0 3 3 3 2 0 2 2 -21
+p484
+aVBen Gordon ORL 01/02/2015 ORL vs. BKN L 19 14 5 9 55.6 1 3 33.3 3 4 75.0 0 4 4 0 1 0 1 4 13
+p485
+aVElfrid Payton ORL 01/02/2015 ORL vs. BKN L 36 16 6 13 46.2 1 1 100.0 3 5 60.0 4 5 9 10 3 1 2 3 12
+p486
+aVKyle O'Quinn ORL 01/02/2015 ORL vs. BKN L 17 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 1 0 0 2 1 -2
+p487
+aVBen Gordon ORL 12/30/2014 ORL vs. DET L 10 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -2
+p488
+aVMaurice Harkless ORL 12/30/2014 ORL vs. DET L 7 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 0 -1
+p489
+aVChanning Frye ORL 12/30/2014 ORL vs. DET L 25 3 1 6 16.7 1 4 25.0 0 0 - 0 3 3 2 0 1 2 3 -22
+p490
+aVKyle O'Quinn ORL 12/30/2014 ORL vs. DET L 20 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 0 1 1 0 4 -8
+p491
+aVNikola Vucevic ORL 12/30/2014 ORL vs. DET L 22 10 5 10 50.0 0 0 - 0 0 - 0 5 5 1 0 1 0 0 -3
+p492
+aVEvan Fournier ORL 12/30/2014 ORL vs. DET L 27 9 4 9 44.4 1 3 33.3 0 0 - 0 4 4 1 0 0 1 2 -15
+p493
+aVVictor Oladipo ORL 12/30/2014 ORL vs. DET L 32 16 6 14 42.9 1 5 20.0 3 4 75.0 1 2 3 3 2 0 3 4 -30
+p494
+aVLuke Ridnour ORL 12/30/2014 ORL vs. DET L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -2
+p495
+aVWillie Green ORL 12/30/2014 ORL vs. DET L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 2 0 2
+p496
+aVElfrid Payton ORL 12/30/2014 ORL vs. DET L 24 8 4 8 50.0 0 1 0.0 0 0 - 0 0 0 6 0 0 5 1 -10
+p497
+aVTobias Harris ORL 12/30/2014 ORL vs. DET L 31 15 6 11 54.5 1 2 50.0 2 3 66.7 0 8 8 2 1 0 0 1 -11
+p498
+aVAndrew Nicholson ORL 12/30/2014 ORL vs. DET L 7 6 3 5 60.0 0 1 0.0 0 1 0.0 0 1 1 0 0 0 0 0 -1
+p499
+aVDewayne Dedmon ORL 12/30/2014 ORL vs. DET L 18 8 4 6 66.7 0 0 - 0 0 - 4 6 10 0 1 0 1 5 -12
+p500
+aVElfrid Payton ORL 12/29/2014 ORL @ MIA W 30 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 8 4 0 2 2 7
+p501
+aVEvan Fournier ORL 12/29/2014 ORL @ MIA W 32 2 0 4 0.0 0 2 0.0 2 4 50.0 0 6 6 3 2 0 3 3 6
+p502
+aVVictor Oladipo ORL 12/29/2014 ORL @ MIA W 37 22 7 12 58.3 3 4 75.0 5 6 83.3 0 2 2 4 3 0 5 3 -8
+p503
+aVKyle O'Quinn ORL 12/29/2014 ORL @ MIA W 17 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 0 1 1 2 -3
+p504
+aVBen Gordon ORL 12/29/2014 ORL @ MIA W 12 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 1 0 0 0 2 -3
+p505
+aVDewayne Dedmon ORL 12/29/2014 ORL @ MIA W 14 4 2 4 50.0 0 0 - 0 0 - 4 1 5 0 0 0 0 5 6
+p506
+aVTobias Harris ORL 12/29/2014 ORL @ MIA W 36 18 8 14 57.1 2 4 50.0 0 0 - 0 4 4 1 0 0 2 3 4
+p507
+aVNikola Vucevic ORL 12/29/2014 ORL @ MIA W 34 26 12 17 70.6 0 0 - 2 3 66.7 3 6 9 3 0 1 0 1 -5
+p508
+aVChanning Frye ORL 12/29/2014 ORL @ MIA W 27 13 5 11 45.5 3 9 33.3 0 0 - 0 2 2 0 0 0 1 4 1
+p509
+aVNikola Vucevic ORL 12/27/2014 ORL @ CHA W 34 22 9 19 47.4 0 0 - 4 4 100.0 2 9 11 3 1 0 0 2 -6
+p510
+aVBen Gordon ORL 12/27/2014 ORL @ CHA W 17 11 3 5 60.0 2 2 100.0 3 3 100.0 0 0 0 0 0 1 1 0 9
+p511
+aVElfrid Payton ORL 12/27/2014 ORL @ CHA W 35 11 4 13 30.8 0 1 0.0 3 4 75.0 2 5 7 8 1 0 0 2 6
+p512
+aVChanning Frye ORL 12/27/2014 ORL @ CHA W 21 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 0 1 0 1 2 11
+p513
+aVKyle O'Quinn ORL 12/27/2014 ORL @ CHA W 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 3 0 0 0 2 10
+p514
+aVVictor Oladipo ORL 12/27/2014 ORL @ CHA W 37 13 6 9 66.7 0 2 0.0 1 2 50.0 0 6 6 3 1 0 2 4 1
+p515
+aVDewayne Dedmon ORL 12/27/2014 ORL @ CHA W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 0 0 1 1 4 5
+p516
+aVTobias Harris ORL 12/27/2014 ORL @ CHA W 34 21 7 16 43.8 2 4 50.0 5 8 62.5 1 5 6 3 2 2 1 2 2
+p517
+aVEvan Fournier ORL 12/27/2014 ORL @ CHA W 35 12 5 14 35.7 2 7 28.6 0 1 0.0 0 2 2 2 0 0 0 0 2
+p518
+aVChanning Frye ORL 12/26/2014 ORL vs. CLE L 17 9 3 6 50.0 3 6 50.0 0 0 - 0 3 3 1 0 0 0 1 8
+p519
+aVBen Gordon ORL 12/26/2014 ORL vs. CLE L 19 10 4 6 66.7 2 4 50.0 0 1 0.0 0 2 2 2 0 0 0 1 -14
+p520
+aVVictor Oladipo ORL 12/26/2014 ORL vs. CLE L 37 13 5 14 35.7 0 1 0.0 3 4 75.0 1 3 4 8 3 0 5 6 -13
+p521
+aVEvan Fournier ORL 12/26/2014 ORL vs. CLE L 34 15 5 10 50.0 2 3 66.7 3 3 100.0 1 3 4 2 2 1 1 3 -5
+p522
+aVElfrid Payton ORL 12/26/2014 ORL vs. CLE L 25 6 3 5 60.0 0 0 - 0 0 - 0 5 5 3 2 0 5 2 0
+p523
+aVKyle O'Quinn ORL 12/26/2014 ORL vs. CLE L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 4 -10
+p524
+aVNikola Vucevic ORL 12/26/2014 ORL vs. CLE L 35 12 6 10 60.0 0 0 - 0 0 - 0 8 8 7 0 0 1 3 -8
+p525
+aVDewayne Dedmon ORL 12/26/2014 ORL vs. CLE L 19 8 3 3 100.0 0 0 - 2 4 50.0 3 3 6 0 0 1 0 3 2
+p526
+aVTobias Harris ORL 12/26/2014 ORL vs. CLE L 38 16 7 16 43.8 2 6 33.3 0 0 - 0 4 4 1 1 1 4 2 -5
+p527
+aVEvan Fournier ORL 12/23/2014 ORL vs. BOS W 31 7 2 9 22.2 0 4 0.0 3 6 50.0 1 2 3 0 0 0 1 1 -6
+p528
+aVNikola Vucevic ORL 12/23/2014 ORL vs. BOS W 33 18 8 12 66.7 0 0 - 2 2 100.0 2 10 12 2 0 1 3 3 4
+p529
+aVElfrid Payton ORL 12/23/2014 ORL vs. BOS W 29 12 6 10 60.0 0 1 0.0 0 2 0.0 0 1 1 7 2 0 4 2 11
+p530
+aVBen Gordon ORL 12/23/2014 ORL vs. BOS W 15 8 4 4 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 1
+p531
+aVKyle O'Quinn ORL 12/23/2014 ORL vs. BOS W 34 18 6 12 50.0 2 4 50.0 4 4 100.0 1 12 13 0 2 1 0 4 2
+p532
+aVChanning Frye ORL 12/23/2014 ORL vs. BOS W 22 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 3 1 1 1 5 0
+p533
+aVTobias Harris ORL 12/23/2014 ORL vs. BOS W 33 19 7 13 53.8 3 4 75.0 2 4 50.0 0 4 4 4 0 1 1 1 4
+p534
+aVVictor Oladipo ORL 12/23/2014 ORL vs. BOS W 36 8 2 15 13.3 0 2 0.0 4 5 80.0 1 3 4 6 2 0 2 4 5
+p535
+aVDewayne Dedmon ORL 12/23/2014 ORL vs. BOS W 8 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 0 4
+p536
+aVElfrid Payton ORL 12/21/2014 ORL vs. PHI L 35 1 0 7 0.0 0 1 0.0 1 2 50.0 1 4 5 6 1 0 2 4 -2
+p537
+aVBen Gordon ORL 12/21/2014 ORL vs. PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p538
+aVKyle O'Quinn ORL 12/21/2014 ORL vs. PHI L 26 8 3 7 42.9 1 2 50.0 1 2 50.0 3 3 6 2 1 4 2 1 -6
+p539
+aVMaurice Harkless ORL 12/21/2014 ORL vs. PHI L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -13
+p540
+aVTobias Harris ORL 12/21/2014 ORL vs. PHI L 38 17 7 21 33.3 2 7 28.6 1 1 100.0 2 2 4 4 2 0 2 2 13
+p541
+aVNikola Vucevic ORL 12/21/2014 ORL vs. PHI L 38 19 8 14 57.1 0 0 - 3 6 50.0 5 12 17 4 2 1 1 2 14
+p542
+aVEvan Fournier ORL 12/21/2014 ORL vs. PHI L 27 16 5 11 45.5 3 6 50.0 3 7 42.9 0 2 2 1 0 0 3 5 -16
+p543
+aVChanning Frye ORL 12/21/2014 ORL vs. PHI L 18 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 1 0 3 -21
+p544
+aVVictor Oladipo ORL 12/21/2014 ORL vs. PHI L 39 23 10 16 62.5 1 5 20.0 2 2 100.0 0 3 3 3 3 0 2 2 9
+p545
+aVLuke Ridnour ORL 12/21/2014 ORL vs. PHI L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -6
+p546
+aVDewayne Dedmon ORL 12/21/2014 ORL vs. PHI L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -6
+p547
+aVElfrid Payton ORL 12/19/2014 ORL vs. UTA L 28 11 5 7 71.4 0 0 - 1 2 50.0 0 2 2 11 1 0 3 4 0
+p548
+aVDewayne Dedmon ORL 12/19/2014 ORL vs. UTA L 9 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 1 0 1 3 -11
+p549
+aVKyle O'Quinn ORL 12/19/2014 ORL vs. UTA L 23 7 2 4 50.0 1 2 50.0 2 2 100.0 1 5 6 1 3 1 1 3 -6
+p550
+aVChanning Frye ORL 12/19/2014 ORL vs. UTA L 26 9 3 10 30.0 3 6 50.0 0 0 - 1 2 3 0 0 1 1 4 0
+p551
+aVVictor Oladipo ORL 12/19/2014 ORL vs. UTA L 32 2 1 6 16.7 0 0 - 0 1 0.0 0 2 2 5 0 0 2 0 0
+p552
+aVEvan Fournier ORL 12/19/2014 ORL vs. UTA L 39 21 7 16 43.8 4 6 66.7 3 4 75.0 2 1 3 4 0 0 2 2 7
+p553
+aVTobias Harris ORL 12/19/2014 ORL vs. UTA L 35 24 10 18 55.6 3 5 60.0 1 1 100.0 2 2 4 3 1 0 2 1 -13
+p554
+aVBen Gordon ORL 12/19/2014 ORL vs. UTA L 14 3 1 6 16.7 1 3 33.3 0 0 - 0 2 2 1 0 0 0 1 -9
+p555
+aVNikola Vucevic ORL 12/19/2014 ORL vs. UTA L 34 16 8 14 57.1 0 0 - 0 0 - 1 8 9 3 0 0 0 4 -3
+p556
+aVAndrew Nicholson ORL 12/17/2014 ORL @ BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p557
+aVMaurice Harkless ORL 12/17/2014 ORL @ BOS L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 0 0 1 -3
+p558
+aVEvan Fournier ORL 12/17/2014 ORL @ BOS L 35 13 6 14 42.9 0 3 0.0 1 2 50.0 1 1 2 4 2 0 1 0 2
+p559
+aVBen Gordon ORL 12/17/2014 ORL @ BOS L 16 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -9
+p560
+aVElfrid Payton ORL 12/17/2014 ORL @ BOS L 26 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 4 0 0 2 1 -13
+p561
+aVKyle O'Quinn ORL 12/17/2014 ORL @ BOS L 23 11 4 6 66.7 0 1 0.0 3 3 100.0 0 5 5 0 0 1 2 5 -13
+p562
+aVVictor Oladipo ORL 12/17/2014 ORL @ BOS L 32 7 3 12 25.0 1 2 50.0 0 0 - 1 2 3 3 1 0 2 0 -15
+p563
+aVTobias Harris ORL 12/17/2014 ORL @ BOS L 35 17 5 9 55.6 0 2 0.0 7 8 87.5 0 4 4 2 3 0 3 3 -13
+p564
+aVNikola Vucevic ORL 12/17/2014 ORL @ BOS L 31 18 9 19 47.4 0 0 - 0 0 - 6 7 13 2 0 0 1 2 -15
+p565
+aVChanning Frye ORL 12/17/2014 ORL @ BOS L 27 13 4 9 44.4 3 6 50.0 2 2 100.0 1 4 5 0 2 0 0 3 -4
+p566
+aVNikola Vucevic ORL 12/15/2014 ORL @ TOR L 35 13 6 13 46.2 0 0 - 1 3 33.3 3 6 9 2 2 2 4 4 -8
+p567
+aVEvan Fournier ORL 12/15/2014 ORL @ TOR L 30 11 4 10 40.0 1 3 33.3 2 2 100.0 1 2 3 2 1 0 2 3 -22
+p568
+aVKyle O'Quinn ORL 12/15/2014 ORL @ TOR L 19 2 1 1 100.0 0 0 - 0 0 - 0 6 6 0 0 1 2 1 6
+p569
+aVBen Gordon ORL 12/15/2014 ORL @ TOR L 23 16 7 11 63.6 2 4 50.0 0 0 - 1 2 3 0 0 0 1 0 10
+p570
+aVElfrid Payton ORL 12/15/2014 ORL @ TOR L 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 1 2 1 -6
+p571
+aVTobias Harris ORL 12/15/2014 ORL @ TOR L 36 18 8 15 53.3 0 2 0.0 2 2 100.0 0 6 6 3 0 1 3 2 -11
+p572
+aVMaurice Harkless ORL 12/15/2014 ORL @ TOR L 12 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 1 1 0 2 -4
+p573
+aVChanning Frye ORL 12/15/2014 ORL @ TOR L 35 3 1 6 16.7 1 4 25.0 0 0 - 0 4 4 0 1 1 1 1 -18
+p574
+aVVictor Oladipo ORL 12/15/2014 ORL @ TOR L 37 12 6 12 50.0 0 2 0.0 0 0 - 1 1 2 4 0 0 4 5 -12
+p575
+aVDewayne Dedmon ORL 12/13/2014 ORL vs. ATL W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p576
+aVVictor Oladipo ORL 12/13/2014 ORL vs. ATL W 36 15 5 9 55.6 3 3 100.0 2 2 100.0 1 4 5 7 2 0 6 4 6
+p577
+aVEvan Fournier ORL 12/13/2014 ORL vs. ATL W 39 19 7 14 50.0 1 5 20.0 4 4 100.0 0 5 5 3 0 0 1 1 5
+p578
+aVTobias Harris ORL 12/13/2014 ORL vs. ATL W 39 20 7 16 43.8 0 3 0.0 6 10 60.0 4 2 6 5 0 3 3 3 -1
+p579
+aVElfrid Payton ORL 12/13/2014 ORL vs. ATL W 20 5 2 7 28.6 0 0 - 1 2 50.0 0 1 1 7 1 0 2 0 -8
+p580
+aVBen Gordon ORL 12/13/2014 ORL vs. ATL W 13 12 3 4 75.0 3 3 100.0 3 3 100.0 0 0 0 1 2 0 2 1 -2
+p581
+aVNikola Vucevic ORL 12/13/2014 ORL vs. ATL W 35 18 9 13 69.2 0 0 - 0 0 - 2 9 11 0 0 1 1 2 9
+p582
+aVChanning Frye ORL 12/13/2014 ORL vs. ATL W 40 9 3 7 42.9 3 6 50.0 0 0 - 0 7 7 3 0 0 0 3 7
+p583
+aVKyle O'Quinn ORL 12/13/2014 ORL vs. ATL W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 1 0 1 -9
+p584
+aVKyle O'Quinn ORL 12/12/2014 ORL @ ATL L 33 14 5 10 50.0 0 1 0.0 4 5 80.0 2 8 10 2 0 0 3 3 4
+p585
+aVDevyn Marble ORL 12/12/2014 ORL @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p586
+aVVictor Oladipo ORL 12/12/2014 ORL @ ATL L 34 21 8 12 66.7 3 3 100.0 2 4 50.0 0 2 2 1 1 0 3 5 -2
+p587
+aVElfrid Payton ORL 12/12/2014 ORL @ ATL L 21 2 1 5 20.0 0 0 - 0 0 - 1 0 1 2 0 0 2 2 -13
+p588
+aVWillie Green ORL 12/12/2014 ORL @ ATL L 10 0 0 8 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 1 2 -13
+p589
+aVBen Gordon ORL 12/12/2014 ORL @ ATL L 18 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 1 1 0 0 1 -14
+p590
+aVChanning Frye ORL 12/12/2014 ORL @ ATL L 37 8 2 6 33.3 2 6 33.3 2 3 66.7 1 8 9 1 0 1 2 4 1
+p591
+aVTobias Harris ORL 12/12/2014 ORL @ ATL L 34 13 4 14 28.6 1 6 16.7 4 4 100.0 1 10 11 3 0 1 3 5 9
+p592
+aVEvan Fournier ORL 12/12/2014 ORL @ ATL L 34 18 8 14 57.1 2 6 33.3 0 0 - 1 5 6 4 0 0 1 4 9
+p593
+aVDewayne Dedmon ORL 12/12/2014 ORL @ ATL L 19 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 1 2 3 1 -9
+p594
+aVElfrid Payton ORL 12/10/2014 ORL vs. WAS L 29 12 6 15 40.0 0 1 0.0 0 0 - 1 5 6 4 1 0 1 2 -4
+p595
+aVBen Gordon ORL 12/10/2014 ORL vs. WAS L 18 4 2 9 22.2 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 2
+p596
+aVEvan Fournier ORL 12/10/2014 ORL vs. WAS L 21 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 2
+p597
+aVChanning Frye ORL 12/10/2014 ORL vs. WAS L 34 10 4 5 80.0 2 3 66.7 0 0 - 1 1 2 0 0 3 0 1 1
+p598
+aVTobias Harris ORL 12/10/2014 ORL vs. WAS L 36 15 7 11 63.6 1 2 50.0 0 1 0.0 1 5 6 0 1 0 2 2 -3
+p599
+aVWillie Green ORL 12/10/2014 ORL vs. WAS L 22 8 3 5 60.0 1 1 100.0 1 2 50.0 1 2 3 1 1 0 0 1 -5
+p600
+aVAndrew Nicholson ORL 12/10/2014 ORL vs. WAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p601
+aVKyle O'Quinn ORL 12/10/2014 ORL vs. WAS L 30 10 4 15 26.7 1 2 50.0 1 2 50.0 2 4 6 4 1 2 0 2 11
+p602
+aVDewayne Dedmon ORL 12/10/2014 ORL vs. WAS L 19 6 2 2 100.0 0 0 - 2 2 100.0 2 5 7 0 1 2 0 1 -6
+p603
+aVVictor Oladipo ORL 12/10/2014 ORL vs. WAS L 28 17 7 16 43.8 1 3 33.3 2 2 100.0 0 6 6 3 2 0 4 0 -6
+p604
+aVEvan Fournier ORL 12/06/2014 ORL @ SAC W 31 15 7 16 43.8 1 7 14.3 0 0 - 1 5 6 3 0 0 0 0 7
+p605
+aVBen Gordon ORL 12/06/2014 ORL @ SAC W 12 11 5 6 83.3 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 4
+p606
+aVVictor Oladipo ORL 12/06/2014 ORL @ SAC W 36 16 6 15 40.0 0 3 0.0 4 4 100.0 1 4 5 7 0 0 3 3 5
+p607
+aVDewayne Dedmon ORL 12/06/2014 ORL @ SAC W 22 5 2 2 100.0 0 0 - 1 2 50.0 3 5 8 1 0 4 1 5 -6
+p608
+aVKyle O'Quinn ORL 12/06/2014 ORL @ SAC W 18 13 5 5 100.0 1 1 100.0 2 2 100.0 2 0 2 4 1 1 1 4 12
+p609
+aVChanning Frye ORL 12/06/2014 ORL @ SAC W 35 6 2 7 28.6 2 6 33.3 0 0 - 1 5 6 1 2 0 1 3 8
+p610
+aVElfrid Payton ORL 12/06/2014 ORL @ SAC W 25 8 3 7 42.9 0 1 0.0 2 2 100.0 2 3 5 6 1 0 3 2 6
+p611
+aVWillie Green ORL 12/06/2014 ORL @ SAC W 11 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 3 2
+p612
+aVAndrew Nicholson ORL 12/06/2014 ORL @ SAC W 11 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 2 1
+p613
+aVTobias Harris ORL 12/06/2014 ORL @ SAC W 39 27 10 17 58.8 4 5 80.0 3 4 75.0 0 4 4 1 0 0 0 2 6
+p614
+aVKyle O'Quinn ORL 12/05/2014 ORL @ UTA W 18 13 5 7 71.4 0 0 - 3 3 100.0 2 2 4 1 0 2 2 4 12
+p615
+aVWillie Green ORL 12/05/2014 ORL @ UTA W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -10
+p616
+aVEvan Fournier ORL 12/05/2014 ORL @ UTA W 30 8 2 7 28.6 1 3 33.3 3 4 75.0 2 3 5 0 1 0 1 2 3
+p617
+aVDewayne Dedmon ORL 12/05/2014 ORL @ UTA W 19 6 3 6 50.0 0 0 - 0 0 - 4 5 9 0 0 0 0 4 1
+p618
+aVAndrew Nicholson ORL 12/05/2014 ORL @ UTA W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -7
+p619
+aVVictor Oladipo ORL 12/05/2014 ORL @ UTA W 37 20 9 12 75.0 1 1 100.0 1 2 50.0 0 1 1 6 1 0 1 0 13
+p620
+aVBen Gordon ORL 12/05/2014 ORL @ UTA W 18 12 5 6 83.3 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 -3
+p621
+aVTobias Harris ORL 12/05/2014 ORL @ UTA W 34 22 7 18 38.9 2 6 33.3 6 7 85.7 1 6 7 3 0 0 0 1 9
+p622
+aVChanning Frye ORL 12/05/2014 ORL @ UTA W 35 11 4 8 50.0 3 7 42.9 0 0 - 0 6 6 0 0 1 0 4 12
+p623
+aVElfrid Payton ORL 12/05/2014 ORL @ UTA W 30 2 1 5 20.0 0 0 - 0 0 - 0 3 3 4 4 0 1 1 -5
+p624
+aVVictor Oladipo ORL 12/03/2014 ORL @ LAC L 25 11 2 8 25.0 1 1 100.0 6 8 75.0 0 1 1 0 2 1 1 3 -28
+p625
+aVWillie Green ORL 12/03/2014 ORL @ LAC L 12 7 3 8 37.5 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 6
+p626
+aVEvan Fournier ORL 12/03/2014 ORL @ LAC L 22 9 4 11 36.4 1 3 33.3 0 0 - 0 1 1 2 0 0 1 2 -23
+p627
+aVDewayne Dedmon ORL 12/03/2014 ORL @ LAC L 25 9 4 7 57.1 0 0 - 1 2 50.0 3 5 8 1 1 0 1 4 -11
+p628
+aVChanning Frye ORL 12/03/2014 ORL @ LAC L 26 6 2 7 28.6 2 5 40.0 0 0 - 1 2 3 2 1 0 3 3 -14
+p629
+aVMaurice Harkless ORL 12/03/2014 ORL @ LAC L 19 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 3 2 0 5 2 -10
+p630
+aVBen Gordon ORL 12/03/2014 ORL @ LAC L 19 11 4 8 50.0 0 2 0.0 3 3 100.0 0 0 0 2 0 0 1 2 -7
+p631
+aVElfrid Payton ORL 12/03/2014 ORL @ LAC L 30 8 3 6 50.0 0 0 - 2 9 22.2 1 0 1 6 1 0 2 3 -3
+p632
+aVLuke Ridnour ORL 12/03/2014 ORL @ LAC L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 4 1 0 0 0 -8
+p633
+aVTobias Harris ORL 12/03/2014 ORL @ LAC L 25 16 7 11 63.6 2 3 66.7 0 1 0.0 0 8 8 0 2 0 1 3 -28
+p634
+aVKyle O'Quinn ORL 12/03/2014 ORL @ LAC L 7 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -7
+p635
+aVAndrew Nicholson ORL 12/03/2014 ORL @ LAC L 17 3 1 6 16.7 0 1 0.0 1 2 50.0 0 5 5 0 0 1 0 1 -7
+p636
+aVEvan Fournier ORL 12/02/2014 ORL @ GSW L 38 10 4 13 30.8 2 6 33.3 0 0 - 0 3 3 2 2 0 1 0 5
+p637
+aVDewayne Dedmon ORL 12/02/2014 ORL @ GSW L 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p638
+aVWillie Green ORL 12/02/2014 ORL @ GSW L 19 2 1 7 14.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -13
+p639
+aVTobias Harris ORL 12/02/2014 ORL @ GSW L 38 17 6 14 42.9 0 1 0.0 5 5 100.0 1 6 7 5 0 0 1 1 -1
+p640
+aVChanning Frye ORL 12/02/2014 ORL @ GSW L 30 3 1 5 20.0 1 3 33.3 0 0 - 0 8 8 1 1 2 0 6 7
+p641
+aVKyle O'Quinn ORL 12/02/2014 ORL @ GSW L 27 21 9 16 56.3 0 0 - 3 3 100.0 5 6 11 1 2 1 3 4 -7
+p642
+aVVictor Oladipo ORL 12/02/2014 ORL @ GSW L 36 27 10 14 71.4 3 4 75.0 4 4 100.0 0 4 4 4 3 0 4 0 -5
+p643
+aVBen Gordon ORL 12/02/2014 ORL @ GSW L 16 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 0
+p644
+aVElfrid Payton ORL 12/02/2014 ORL @ GSW L 29 7 3 10 30.0 0 1 0.0 1 2 50.0 2 3 5 6 3 0 1 3 0
+p645
+aVVictor Oladipo ORL 11/30/2014 ORL @ PHX W 37 12 6 11 54.5 0 1 0.0 0 0 - 0 3 3 4 1 0 4 3 -6
+p646
+aVChanning Frye ORL 11/30/2014 ORL @ PHX W 27 3 1 5 20.0 1 5 20.0 0 0 - 0 6 6 1 0 0 0 2 0
+p647
+aVBen Gordon ORL 11/30/2014 ORL @ PHX W 14 8 3 5 60.0 1 2 50.0 1 1 100.0 1 0 1 1 0 0 0 2 3
+p648
+aVTobias Harris ORL 11/30/2014 ORL @ PHX W 34 21 8 18 44.4 1 2 50.0 4 4 100.0 0 8 8 1 2 0 2 1 1
+p649
+aVKyle O'Quinn ORL 11/30/2014 ORL @ PHX W 14 5 2 6 33.3 0 0 - 1 2 50.0 3 3 6 1 0 2 3 2 2
+p650
+aVWillie Green ORL 11/30/2014 ORL @ PHX W 19 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 6
+p651
+aVEvan Fournier ORL 11/30/2014 ORL @ PHX W 34 15 5 8 62.5 2 5 40.0 3 4 75.0 1 4 5 2 1 0 3 3 0
+p652
+aVElfrid Payton ORL 11/30/2014 ORL @ PHX W 27 7 1 3 33.3 0 0 - 5 8 62.5 2 7 9 4 2 0 5 5 10
+p653
+aVNikola Vucevic ORL 11/30/2014 ORL @ PHX W 34 18 7 15 46.7 0 0 - 4 6 66.7 3 5 8 0 1 1 4 4 -1
+p654
+aVKyle O'Quinn ORL 11/28/2014 ORL @ IND L 13 9 3 4 75.0 0 0 - 3 3 100.0 0 2 2 0 0 1 0 1 -3
+p655
+aVVictor Oladipo ORL 11/28/2014 ORL @ IND L 31 14 5 7 71.4 1 1 100.0 3 4 75.0 0 5 5 4 2 0 1 3 -11
+p656
+aVEvan Fournier ORL 11/28/2014 ORL @ IND L 33 5 2 10 20.0 1 4 25.0 0 0 - 0 1 1 2 1 0 1 2 -8
+p657
+aVWillie Green ORL 11/28/2014 ORL @ IND L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 -14
+p658
+aVElfrid Payton ORL 11/28/2014 ORL @ IND L 26 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 6 1 0 3 2 0
+p659
+aVBen Gordon ORL 11/28/2014 ORL @ IND L 19 12 4 6 66.7 2 3 66.7 2 2 100.0 0 2 2 1 0 0 4 0 -2
+p660
+aVAndrew Nicholson ORL 11/28/2014 ORL @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p661
+aVNikola Vucevic ORL 11/28/2014 ORL @ IND L 35 16 7 15 46.7 0 0 - 2 2 100.0 2 5 7 0 1 3 2 0 -12
+p662
+aVTobias Harris ORL 11/28/2014 ORL @ IND L 31 14 5 12 41.7 0 1 0.0 4 4 100.0 0 4 4 1 1 0 2 4 -20
+p663
+aVChanning Frye ORL 11/28/2014 ORL @ IND L 36 9 3 7 42.9 3 6 50.0 0 1 0.0 0 5 5 2 1 1 4 4 -1
+p664
+aVTobias Harris ORL 11/26/2014 ORL vs. GSW L 30 16 6 10 60.0 0 1 0.0 4 6 66.7 1 9 10 2 0 0 1 0 -24
+p665
+aVBen Gordon ORL 11/26/2014 ORL vs. GSW L 21 13 4 9 44.4 2 5 40.0 3 4 75.0 0 2 2 0 1 0 1 1 2
+p666
+aVElfrid Payton ORL 11/26/2014 ORL vs. GSW L 20 13 5 7 71.4 1 2 50.0 2 3 66.7 0 0 0 5 1 0 3 2 14
+p667
+aVLuke Ridnour ORL 11/26/2014 ORL vs. GSW L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p668
+aVChanning Frye ORL 11/26/2014 ORL vs. GSW L 24 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 1 0 1 3 3 -28
+p669
+aVNikola Vucevic ORL 11/26/2014 ORL vs. GSW L 30 11 4 15 26.7 0 0 - 3 4 75.0 7 6 13 1 0 0 0 2 -18
+p670
+aVEvan Fournier ORL 11/26/2014 ORL vs. GSW L 31 10 4 9 44.4 1 3 33.3 1 2 50.0 0 2 2 1 0 0 2 1 -28
+p671
+aVMaurice Harkless ORL 11/26/2014 ORL vs. GSW L 21 6 3 3 100.0 0 0 - 0 0 - 1 4 5 2 1 0 0 1 12
+p672
+aVWillie Green ORL 11/26/2014 ORL vs. GSW L 17 7 2 8 25.0 0 4 0.0 3 3 100.0 0 0 0 2 1 0 0 2 13
+p673
+aVVictor Oladipo ORL 11/26/2014 ORL vs. GSW L 27 12 4 17 23.5 2 3 66.7 2 2 100.0 0 4 4 3 3 0 2 4 -27
+p674
+aVKyle O'Quinn ORL 11/26/2014 ORL vs. GSW L 12 6 3 4 75.0 0 0 - 0 0 - 2 5 7 3 1 0 2 1 12
+p675
+aVMaurice Harkless ORL 11/24/2014 ORL @ CLE L 27 2 1 7 14.3 0 3 0.0 0 0 - 1 1 2 4 0 0 2 4 -16
+p676
+aVNikola Vucevic ORL 11/24/2014 ORL @ CLE L 30 18 8 15 53.3 0 0 - 2 2 100.0 6 7 13 0 1 0 4 2 -15
+p677
+aVEvan Fournier ORL 11/24/2014 ORL @ CLE L 31 8 2 9 22.2 1 4 25.0 3 4 75.0 0 0 0 0 0 1 1 1 -16
+p678
+aVDewayne Dedmon ORL 11/24/2014 ORL @ CLE L 16 6 3 7 42.9 0 0 - 0 1 0.0 5 3 8 1 0 0 3 2 -13
+p679
+aVWillie Green ORL 11/24/2014 ORL @ CLE L 21 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 3 0 1 0 0 -16
+p680
+aVVictor Oladipo ORL 11/24/2014 ORL @ CLE L 36 22 8 15 53.3 1 2 50.0 5 6 83.3 0 9 9 2 2 1 5 2 -18
+p681
+aVElfrid Payton ORL 11/24/2014 ORL @ CLE L 18 6 2 7 28.6 1 2 50.0 1 2 50.0 0 1 1 3 0 0 2 0 -15
+p682
+aVBen Gordon ORL 11/24/2014 ORL @ CLE L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -11
+p683
+aVLuke Ridnour ORL 11/24/2014 ORL @ CLE L 6 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p684
+aVAndrew Nicholson ORL 11/24/2014 ORL @ CLE L 15 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -9
+p685
+aVChanning Frye ORL 11/24/2014 ORL @ CLE L 31 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 1 0 0 4 -23
+p686
+aVDewayne Dedmon ORL 11/22/2014 ORL vs. MIA L 10 7 3 6 50.0 0 0 - 1 1 100.0 4 1 5 0 0 1 1 1 0
+p687
+aVBen Gordon ORL 11/22/2014 ORL vs. MIA L 17 7 2 3 66.7 0 0 - 3 4 75.0 0 0 0 1 2 0 3 1 11
+p688
+aVMaurice Harkless ORL 11/22/2014 ORL vs. MIA L 19 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 7
+p689
+aVNikola Vucevic ORL 11/22/2014 ORL vs. MIA L 37 33 12 24 50.0 0 0 - 9 11 81.8 11 6 17 1 0 1 0 2 -8
+p690
+aVElfrid Payton ORL 11/22/2014 ORL vs. MIA L 23 9 4 6 66.7 0 0 - 1 4 25.0 0 3 3 4 5 0 3 4 1
+p691
+aVChanning Frye ORL 11/22/2014 ORL vs. MIA L 32 9 3 6 50.0 1 4 25.0 2 2 100.0 0 5 5 3 1 0 1 4 0
+p692
+aVEvan Fournier ORL 11/22/2014 ORL vs. MIA L 38 11 5 15 33.3 1 5 20.0 0 0 - 1 5 6 6 0 0 3 2 -12
+p693
+aVVictor Oladipo ORL 11/22/2014 ORL vs. MIA L 34 14 5 11 45.5 1 4 25.0 3 5 60.0 0 4 4 2 2 0 3 2 -16
+p694
+aVWillie Green ORL 11/22/2014 ORL vs. MIA L 31 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 1 0 0 0 3 -18
+p695
+aVWillie Green ORL 11/21/2014 ORL @ CHA W 18 9 4 6 66.7 1 1 100.0 0 0 - 2 3 5 0 0 0 0 1 24
+p696
+aVVictor Oladipo ORL 11/21/2014 ORL @ CHA W 24 10 4 8 50.0 0 1 0.0 2 2 100.0 0 0 0 2 1 0 1 1 -16
+p697
+aVTobias Harris ORL 11/21/2014 ORL @ CHA W 40 17 5 16 31.3 0 2 0.0 7 8 87.5 1 15 16 1 1 2 1 1 4
+p698
+aVNikola Vucevic ORL 11/21/2014 ORL @ CHA W 35 14 6 15 40.0 0 0 - 2 2 100.0 1 9 10 2 0 1 2 4 -2
+p699
+aVLuke Ridnour ORL 11/21/2014 ORL @ CHA W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -7
+p700
+aVBen Gordon ORL 11/21/2014 ORL @ CHA W 16 11 4 8 50.0 1 4 25.0 2 3 66.7 0 3 3 0 0 0 0 0 27
+p701
+aVChanning Frye ORL 11/21/2014 ORL @ CHA W 23 5 1 4 25.0 1 3 33.3 2 2 100.0 0 3 3 1 0 2 0 3 -6
+p702
+aVAndrew Nicholson ORL 11/21/2014 ORL @ CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p703
+aVMaurice Harkless ORL 11/21/2014 ORL @ CHA W 11 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p704
+aVEvan Fournier ORL 11/21/2014 ORL @ CHA W 33 21 7 12 58.3 1 4 25.0 6 9 66.7 0 1 1 1 0 0 3 3 -14
+p705
+aVDewayne Dedmon ORL 11/21/2014 ORL @ CHA W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p706
+aVElfrid Payton ORL 11/21/2014 ORL @ CHA W 27 16 7 11 63.6 0 1 0.0 2 6 33.3 1 1 2 5 0 0 1 0 19
+p707
+aVElfrid Payton ORL 11/19/2014 ORL vs. LAC L 16 7 3 8 37.5 1 1 100.0 0 0 - 4 3 7 5 0 0 3 1 -9
+p708
+aVDewayne Dedmon ORL 11/19/2014 ORL vs. LAC L 10 1 0 0 - 0 0 - 1 2 50.0 1 4 5 0 0 0 0 0 -1
+p709
+aVLuke Ridnour ORL 11/19/2014 ORL vs. LAC L 14 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 0 -16
+p710
+aVChanning Frye ORL 11/19/2014 ORL vs. LAC L 34 10 3 8 37.5 3 7 42.9 1 1 100.0 0 7 7 2 1 1 2 4 -14
+p711
+aVMaurice Harkless ORL 11/19/2014 ORL vs. LAC L 29 5 2 8 25.0 1 3 33.3 0 0 - 1 2 3 0 0 0 0 3 -10
+p712
+aVAndrew Nicholson ORL 11/19/2014 ORL vs. LAC L 16 10 5 9 55.6 0 1 0.0 0 0 - 1 1 2 0 0 0 1 0 -17
+p713
+aVNikola Vucevic ORL 11/19/2014 ORL vs. LAC L 31 19 8 14 57.1 0 0 - 3 4 75.0 1 13 14 2 1 0 3 1 -10
+p714
+aVVictor Oladipo ORL 11/19/2014 ORL vs. LAC L 29 7 3 13 23.1 0 3 0.0 1 2 50.0 1 3 4 4 1 0 4 3 -7
+p715
+aVWillie Green ORL 11/19/2014 ORL vs. LAC L 31 6 2 10 20.0 1 5 20.0 1 2 50.0 1 2 3 4 1 0 0 4 -17
+p716
+aVTobias Harris ORL 11/19/2014 ORL vs. LAC L 31 25 8 14 57.1 2 2 100.0 7 7 100.0 1 2 3 1 1 0 0 1 -19
+p717
+aVWillie Green ORL 11/17/2014 ORL @ DET W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 5
+p718
+aVBen Gordon ORL 11/17/2014 ORL @ DET W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p719
+aVEvan Fournier ORL 11/17/2014 ORL @ DET W 31 14 5 13 38.5 3 6 50.0 1 2 50.0 0 2 2 8 1 0 4 0 11
+p720
+aVElfrid Payton ORL 11/17/2014 ORL @ DET W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 3
+p721
+aVMaurice Harkless ORL 11/17/2014 ORL @ DET W 19 7 3 6 50.0 1 4 25.0 0 0 - 0 3 3 2 1 0 0 2 -1
+p722
+aVTobias Harris ORL 11/17/2014 ORL @ DET W 38 24 10 17 58.8 3 6 50.0 1 2 50.0 1 4 5 4 5 1 0 4 15
+p723
+aVAndrew Nicholson ORL 11/17/2014 ORL @ DET W 5 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p724
+aVVictor Oladipo ORL 11/17/2014 ORL @ DET W 32 11 3 5 60.0 1 1 100.0 4 5 80.0 2 4 6 3 0 1 4 4 9
+p725
+aVLuke Ridnour ORL 11/17/2014 ORL @ DET W 19 5 2 4 50.0 0 1 0.0 1 1 100.0 0 3 3 6 1 0 0 1 1
+p726
+aVChanning Frye ORL 11/17/2014 ORL @ DET W 31 12 4 6 66.7 4 6 66.7 0 0 - 0 5 5 3 0 0 1 5 8
+p727
+aVNikola Vucevic ORL 11/17/2014 ORL @ DET W 38 25 10 18 55.6 0 0 - 5 5 100.0 3 11 14 3 0 0 1 2 19
+p728
+aVElfrid Payton ORL 11/15/2014 ORL @ WAS L 16 3 1 6 16.7 0 1 0.0 1 2 50.0 2 1 3 1 2 0 0 1 -9
+p729
+aVMaurice Harkless ORL 11/15/2014 ORL @ WAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 1
+p730
+aVEvan Fournier ORL 11/15/2014 ORL @ WAS L 38 15 5 13 38.5 2 4 50.0 3 3 100.0 0 0 0 2 0 0 2 3 0
+p731
+aVAaron Gordon ORL 11/15/2014 ORL @ WAS L 14 6 3 4 75.0 0 0 - 0 2 0.0 1 2 3 0 0 0 1 1 -7
+p732
+aVBen Gordon ORL 11/15/2014 ORL @ WAS L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p733
+aVNikola Vucevic ORL 11/15/2014 ORL @ WAS L 36 14 6 10 60.0 0 0 - 2 2 100.0 3 8 11 0 0 2 2 4 3
+p734
+aVWillie Green ORL 11/15/2014 ORL @ WAS L 14 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -7
+p735
+aVVictor Oladipo ORL 11/15/2014 ORL @ WAS L 32 18 7 18 38.9 0 3 0.0 4 7 57.1 2 5 7 7 1 0 3 3 3
+p736
+aVChanning Frye ORL 11/15/2014 ORL @ WAS L 42 14 5 9 55.6 4 6 66.7 0 0 - 0 7 7 2 1 0 3 4 -9
+p737
+aVTobias Harris ORL 11/15/2014 ORL @ WAS L 36 19 8 11 72.7 1 2 50.0 2 2 100.0 1 7 8 1 1 0 1 4 -1
+p738
+aVElfrid Payton ORL 11/14/2014 ORL vs. MIL W 22 2 1 5 20.0 0 0 - 0 0 - 0 4 4 3 1 0 2 4 -14
+p739
+aVTobias Harris ORL 11/14/2014 ORL vs. MIL W 38 26 10 18 55.6 1 3 33.3 5 6 83.3 3 7 10 3 0 1 2 3 2
+p740
+aVEvan Fournier ORL 11/14/2014 ORL vs. MIL W 36 15 5 13 38.5 3 6 50.0 2 3 66.7 1 3 4 2 0 0 1 2 10
+p741
+aVWillie Green ORL 11/14/2014 ORL vs. MIL W 19 5 2 7 28.6 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 14
+p742
+aVVictor Oladipo ORL 11/14/2014 ORL vs. MIL W 25 13 3 10 30.0 1 3 33.3 6 8 75.0 0 3 3 2 0 0 1 1 22
+p743
+aVAaron Gordon ORL 11/14/2014 ORL vs. MIL W 15 8 3 3 100.0 0 0 - 2 2 100.0 0 3 3 3 1 1 0 0 20
+p744
+aVDewayne Dedmon ORL 11/14/2014 ORL vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p745
+aVLuke Ridnour ORL 11/14/2014 ORL vs. MIL W 18 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 3 0 0 2 1 18
+p746
+aVNikola Vucevic ORL 11/14/2014 ORL vs. MIL W 33 18 6 11 54.5 0 0 - 6 8 75.0 5 4 9 4 1 1 5 2 8
+p747
+aVChanning Frye ORL 11/14/2014 ORL vs. MIL W 30 6 2 8 25.0 2 7 28.6 0 0 - 1 7 8 1 3 0 1 1 -2
+p748
+aVAndrew Nicholson ORL 11/14/2014 ORL vs. MIL W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p749
+aVNikola Vucevic ORL 11/12/2014 ORL @ NYK W 39 20 8 15 53.3 0 0 - 4 4 100.0 2 11 13 2 0 0 3 4 2
+p750
+aVLuke Ridnour ORL 11/12/2014 ORL @ NYK W 25 8 3 5 60.0 0 0 - 2 3 66.7 0 4 4 5 0 0 0 2 5
+p751
+aVAaron Gordon ORL 11/12/2014 ORL @ NYK W 14 7 1 1 100.0 1 1 100.0 4 4 100.0 0 1 1 0 0 0 1 2 -5
+p752
+aVTobias Harris ORL 11/12/2014 ORL @ NYK W 34 12 4 11 36.4 1 2 50.0 3 5 60.0 1 4 5 1 0 0 2 3 4
+p753
+aVEvan Fournier ORL 11/12/2014 ORL @ NYK W 37 28 8 14 57.1 2 4 50.0 10 14 71.4 1 1 2 2 4 0 2 3 2
+p754
+aVChanning Frye ORL 11/12/2014 ORL @ NYK W 38 9 4 11 36.4 1 4 25.0 0 0 - 0 6 6 1 0 1 0 1 3
+p755
+aVElfrid Payton ORL 11/12/2014 ORL @ NYK W 23 0 0 2 0.0 0 0 - 0 0 - 0 3 3 8 0 0 1 1 -3
+p756
+aVAndrew Nicholson ORL 11/12/2014 ORL @ NYK W 19 8 3 9 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 2
+p757
+aVWillie Green ORL 11/12/2014 ORL @ NYK W 11 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 0
+p758
+aVNikola Vucevic ORL 11/11/2014 ORL @ TOR L 41 18 8 16 50.0 0 0 - 2 5 40.0 1 7 8 6 2 3 6 4 7
+p759
+aVBen Gordon ORL 11/11/2014 ORL @ TOR L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -8
+p760
+aVAaron Gordon ORL 11/11/2014 ORL @ TOR L 10 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 1 -13
+p761
+aVElfrid Payton ORL 11/11/2014 ORL @ TOR L 19 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 3 4
+p762
+aVDewayne Dedmon ORL 11/11/2014 ORL @ TOR L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 0
+p763
+aVMaurice Harkless ORL 11/11/2014 ORL @ TOR L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -11
+p764
+aVChanning Frye ORL 11/11/2014 ORL @ TOR L 43 19 7 15 46.7 5 8 62.5 0 0 - 1 5 6 2 1 0 1 1 -4
+p765
+aVLuke Ridnour ORL 11/11/2014 ORL @ TOR L 29 6 3 7 42.9 0 2 0.0 0 0 - 0 3 3 6 1 0 1 5 -8
+p766
+aVEvan Fournier ORL 11/11/2014 ORL @ TOR L 39 24 9 18 50.0 4 7 57.1 2 4 50.0 0 2 2 2 3 0 1 2 4
+p767
+aVTobias Harris ORL 11/11/2014 ORL @ TOR L 39 23 8 16 50.0 2 5 40.0 5 5 100.0 3 10 13 5 1 1 2 6 9
+p768
+aVMaurice Harkless ORL 11/09/2014 ORL @ BKN L 15 3 1 3 33.3 0 2 0.0 1 2 50.0 0 4 4 0 0 0 0 3 1
+p769
+aVElfrid Payton ORL 11/09/2014 ORL @ BKN L 29 2 1 5 20.0 0 0 - 0 0 - 0 0 0 6 2 0 5 2 -5
+p770
+aVTobias Harris ORL 11/09/2014 ORL @ BKN L 35 11 4 13 30.8 0 1 0.0 3 4 75.0 0 3 3 2 1 1 3 2 -16
+p771
+aVNikola Vucevic ORL 11/09/2014 ORL @ BKN L 32 27 13 19 68.4 0 0 - 1 1 100.0 4 8 12 1 2 0 0 3 -12
+p772
+aVWillie Green ORL 11/09/2014 ORL @ BKN L 19 8 4 8 50.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 0
+p773
+aVLuke Ridnour ORL 11/09/2014 ORL @ BKN L 19 11 4 6 66.7 3 3 100.0 0 0 - 1 3 4 4 1 0 0 3 -3
+p774
+aVEvan Fournier ORL 11/09/2014 ORL @ BKN L 33 19 6 9 66.7 2 2 100.0 5 8 62.5 0 1 1 5 0 0 3 3 -5
+p775
+aVBen Gordon ORL 11/09/2014 ORL @ BKN L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 0
+p776
+aVAaron Gordon ORL 11/09/2014 ORL @ BKN L 16 2 1 3 33.3 0 0 - 0 1 0.0 0 2 2 0 1 1 1 2 0
+p777
+aVChanning Frye ORL 11/09/2014 ORL @ BKN L 33 13 5 8 62.5 3 4 75.0 0 0 - 0 4 4 3 0 0 3 3 0
+p778
+aVTobias Harris ORL 11/07/2014 ORL vs. MIN W 41 17 7 15 46.7 1 2 50.0 2 4 50.0 4 12 16 2 1 1 6 5 11
+p779
+aVLuke Ridnour ORL 11/07/2014 ORL vs. MIN W 14 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 2 -4
+p780
+aVNikola Vucevic ORL 11/07/2014 ORL vs. MIN W 39 14 6 11 54.5 0 0 - 2 2 100.0 3 6 9 3 1 1 4 6 12
+p781
+aVElfrid Payton ORL 11/07/2014 ORL vs. MIN W 39 15 6 15 40.0 0 0 - 3 4 75.0 1 4 5 4 1 1 1 2 13
+p782
+aVDevyn Marble ORL 11/07/2014 ORL vs. MIN W 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p783
+aVWillie Green ORL 11/07/2014 ORL vs. MIN W 6 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 3
+p784
+aVEvan Fournier ORL 11/07/2014 ORL vs. MIN W 38 20 8 15 53.3 2 3 66.7 2 3 66.7 1 3 4 3 0 0 2 3 10
+p785
+aVBen Gordon ORL 11/07/2014 ORL vs. MIN W 18 0 0 3 0.0 0 0 - 0 0 - 1 0 1 2 0 0 2 1 -7
+p786
+aVMaurice Harkless ORL 11/07/2014 ORL vs. MIN W 21 11 4 5 80.0 0 0 - 3 3 100.0 1 3 4 0 2 0 2 5 0
+p787
+aVAaron Gordon ORL 11/07/2014 ORL vs. MIN W 22 17 6 9 66.7 2 2 100.0 3 3 100.0 1 5 6 1 0 2 0 0 7
+p788
+aVChanning Frye ORL 11/07/2014 ORL vs. MIN W 28 6 3 6 50.0 0 1 0.0 0 0 - 0 6 6 2 0 1 2 1 0
+p789
+aVElfrid Payton ORL 11/05/2014 ORL @ PHI W 28 8 4 8 50.0 0 0 - 0 1 0.0 3 3 6 5 4 1 4 2 2
+p790
+aVLuke Ridnour ORL 11/05/2014 ORL @ PHI W 20 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 1 1 0 3 3 0
+p791
+aVTobias Harris ORL 11/05/2014 ORL @ PHI W 36 18 8 18 44.4 0 3 0.0 2 2 100.0 2 6 8 1 2 1 2 2 -1
+p792
+aVChanning Frye ORL 11/05/2014 ORL @ PHI W 36 13 5 12 41.7 2 8 25.0 1 1 100.0 2 9 11 1 2 0 3 3 4
+p793
+aVEvan Fournier ORL 11/05/2014 ORL @ PHI W 28 10 4 10 40.0 1 4 25.0 1 1 100.0 0 3 3 3 0 0 0 1 -4
+p794
+aVDewayne Dedmon ORL 11/05/2014 ORL @ PHI W 10 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 0 0 3 1 7
+p795
+aVMaurice Harkless ORL 11/05/2014 ORL @ PHI W 17 6 3 4 75.0 0 1 0.0 0 0 - 3 1 4 0 2 0 0 3 7
+p796
+aVAaron Gordon ORL 11/05/2014 ORL @ PHI W 7 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 2 0 -6
+p797
+aVNikola Vucevic ORL 11/05/2014 ORL @ PHI W 36 17 8 16 50.0 0 0 - 1 1 100.0 2 3 5 3 0 1 5 2 -5
+p798
+aVBen Gordon ORL 11/05/2014 ORL @ PHI W 20 15 5 11 45.5 0 1 0.0 5 6 83.3 0 1 1 0 0 0 2 3 6
+p799
+aVDewayne Dedmon ORL 11/04/2014 ORL @ CHI L 7 3 1 2 50.0 0 0 - 1 2 50.0 4 0 4 0 0 0 0 5 -1
+p800
+aVAaron Gordon ORL 11/04/2014 ORL @ CHI L 14 6 3 6 50.0 0 2 0.0 0 0 - 1 0 1 0 0 1 0 2 -2
+p801
+aVLuke Ridnour ORL 11/04/2014 ORL @ CHI L 16 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 3 0 0 2 1 -6
+p802
+aVBen Gordon ORL 11/04/2014 ORL @ CHI L 17 6 3 6 50.0 0 0 - 0 0 - 1 1 2 3 0 0 0 2 -2
+p803
+aVChanning Frye ORL 11/04/2014 ORL @ CHI L 36 9 3 4 75.0 3 4 75.0 0 0 - 0 7 7 3 1 2 0 3 -8
+p804
+aVEvan Fournier ORL 11/04/2014 ORL @ CHI L 40 13 5 14 35.7 2 5 40.0 1 2 50.0 1 2 3 2 0 0 0 1 -12
+p805
+aVNikola Vucevic ORL 11/04/2014 ORL @ CHI L 40 19 9 22 40.9 1 1 100.0 0 0 - 2 11 13 2 1 1 6 1 -7
+p806
+aVElfrid Payton ORL 11/04/2014 ORL @ CHI L 32 9 3 14 21.4 0 0 - 3 7 42.9 3 3 6 7 3 1 2 2 -2
+p807
+aVTobias Harris ORL 11/04/2014 ORL @ CHI L 37 21 9 15 60.0 0 1 0.0 3 3 100.0 1 8 9 1 1 1 1 5 0
+p808
+aVNikola Vucevic ORL 11/01/2014 ORL vs. TOR L 33 15 7 11 63.6 1 1 100.0 0 2 0.0 2 10 12 4 1 1 2 6 -24
+p809
+aVLuke Ridnour ORL 11/01/2014 ORL vs. TOR L 16 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 2 0 0 2 4 -7
+p810
+aVDewayne Dedmon ORL 11/01/2014 ORL vs. TOR L 14 6 3 3 100.0 0 0 - 0 0 - 1 3 4 1 0 4 0 2 11
+p811
+aVChanning Frye ORL 11/01/2014 ORL vs. TOR L 32 11 4 10 40.0 2 7 28.6 1 2 50.0 0 1 1 2 0 0 1 5 -11
+p812
+aVTobias Harris ORL 11/01/2014 ORL vs. TOR L 34 11 4 15 26.7 1 1 100.0 2 4 50.0 2 7 9 3 1 1 4 4 -21
+p813
+aVDevyn Marble ORL 11/01/2014 ORL vs. TOR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p814
+aVElfrid Payton ORL 11/01/2014 ORL vs. TOR L 30 16 6 12 50.0 0 0 - 4 8 50.0 1 2 3 9 0 0 1 4 -8
+p815
+aVBen Gordon ORL 11/01/2014 ORL vs. TOR L 25 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 1 0 0 1 1 -4
+p816
+aVMaurice Harkless ORL 11/01/2014 ORL vs. TOR L 22 7 3 6 50.0 1 3 33.3 0 1 0.0 1 4 5 2 1 1 2 3 8
+p817
+aVEvan Fournier ORL 11/01/2014 ORL vs. TOR L 23 18 6 10 60.0 1 4 25.0 5 7 71.4 0 1 1 0 0 0 0 5 -11
+p818
+aVAndrew Nicholson ORL 11/01/2014 ORL vs. TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p819
+aVAaron Gordon ORL 11/01/2014 ORL vs. TOR L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -2
+p820
+aVBen Gordon ORL 10/30/2014 ORL vs. WAS L 26 22 7 12 58.3 2 5 40.0 6 7 85.7 0 0 0 4 0 0 1 2 9
+p821
+aVChanning Frye ORL 10/30/2014 ORL vs. WAS L 24 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 2 2 -11
+p822
+aVAaron Gordon ORL 10/30/2014 ORL vs. WAS L 18 4 2 4 50.0 0 1 0.0 0 1 0.0 0 4 4 1 0 0 1 1 -15
+p823
+aVDevyn Marble ORL 10/30/2014 ORL vs. WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p824
+aVNikola Vucevic ORL 10/30/2014 ORL vs. WAS L 38 23 11 21 52.4 0 0 - 1 1 100.0 1 11 12 3 1 0 2 3 -2
+p825
+aVAndrew Nicholson ORL 10/30/2014 ORL vs. WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 5
+p826
+aVDewayne Dedmon ORL 10/30/2014 ORL vs. WAS L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 1
+p827
+aVTobias Harris ORL 10/30/2014 ORL vs. WAS L 35 14 4 12 33.3 1 2 50.0 5 7 71.4 0 4 4 0 1 0 3 3 -15
+p828
+aVLuke Ridnour ORL 10/30/2014 ORL vs. WAS L 25 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 4 1 0 0 0 16
+p829
+aVEvan Fournier ORL 10/30/2014 ORL vs. WAS L 34 21 8 10 80.0 3 4 75.0 2 2 100.0 1 3 4 0 1 0 3 5 -2
+p830
+aVElfrid Payton ORL 10/30/2014 ORL vs. WAS L 23 2 0 2 0.0 0 0 - 2 4 50.0 1 2 3 7 0 0 6 4 -21
+p831
+aVWillie Green ORL 10/30/2014 ORL vs. WAS L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 2
+p832
+aVKyle O'Quinn ORL 10/28/2014 ORL @ NOP L 21 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 5 1 3 1 4 -15
+p833
+aVWillie Green ORL 10/28/2014 ORL @ NOP L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p834
+aVLuke Ridnour ORL 10/28/2014 ORL @ NOP L 17 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 2 2 -18
+p835
+aVElfrid Payton ORL 10/28/2014 ORL @ NOP L 31 4 2 8 25.0 0 0 - 0 0 - 3 2 5 7 1 0 2 5 1
+p836
+aVDevyn Marble ORL 10/28/2014 ORL @ NOP L 3 4 2 2 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 4
+p837
+aVDewayne Dedmon ORL 10/28/2014 ORL @ NOP L 8 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 1 1 1 -1
+p838
+aVNikola Vucevic ORL 10/28/2014 ORL @ NOP L 35 15 7 15 46.7 0 0 - 1 2 50.0 5 18 23 1 1 4 1 2 -3
+p839
+aVTobias Harris ORL 10/28/2014 ORL @ NOP L 37 25 9 18 50.0 1 2 50.0 6 6 100.0 2 6 8 0 1 0 4 2 -4
+p840
+aVAaron Gordon ORL 10/28/2014 ORL @ NOP L 28 11 5 8 62.5 1 2 50.0 0 0 - 2 1 3 0 1 1 3 3 -18
+p841
+aVBen Gordon ORL 10/28/2014 ORL @ NOP L 23 5 1 8 12.5 0 2 0.0 3 4 75.0 0 4 4 1 0 0 0 3 -15
+p842
+aVEvan Fournier ORL 10/28/2014 ORL @ NOP L 32 11 3 11 27.3 2 4 50.0 3 3 100.0 1 2 3 2 0 0 4 2 -13
+p843
+a.

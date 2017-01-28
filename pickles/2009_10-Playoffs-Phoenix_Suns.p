@@ -1,0 +1,336 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAmar'e Stoudemire PHX 05/29/2010 PHX vs. LAL L 43 27 7 20 35.0 0 1 0.0 13 15 86.7 2 2 4 0 3 2 3 4 -8
+p2
+aVChanning Frye PHX 05/29/2010 PHX vs. LAL L 40 12 5 7 71.4 2 4 50.0 0 0 - 2 11 13 1 0 1 1 3 0
+p3
+aVGrant Hill PHX 05/29/2010 PHX vs. LAL L 22 6 2 7 28.6 1 2 50.0 1 1 100.0 1 2 3 3 0 1 0 5 -5
+p4
+aVSteve Nash PHX 05/29/2010 PHX vs. LAL L 30 21 8 11 72.7 2 5 40.0 3 3 100.0 0 5 5 9 0 0 2 2 -12
+p5
+aVGoran Dragic PHX 05/29/2010 PHX vs. LAL L 18 12 5 9 55.6 0 3 0.0 2 2 100.0 1 1 2 2 0 0 2 0 4
+p6
+aVJason Richardson PHX 05/29/2010 PHX vs. LAL L 29 13 3 7 42.9 2 6 33.3 5 6 83.3 1 0 1 0 0 0 1 2 -14
+p7
+aVLeandro Barbosa PHX 05/29/2010 PHX vs. LAL L 19 7 3 9 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 0 0 6
+p8
+aVRobin Lopez PHX 05/29/2010 PHX vs. LAL L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -8
+p9
+aVJared Dudley PHX 05/29/2010 PHX vs. LAL L 26 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 1 2 1 0 -3
+p10
+aVLou Amundson PHX 05/29/2010 PHX vs. LAL L 5 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p11
+aVAmar'e Stoudemire PHX 05/27/2010 PHX @ LAL L 35 19 7 12 58.3 0 0 - 5 7 71.4 1 3 4 0 2 3 4 4 3
+p12
+aVGoran Dragic PHX 05/27/2010 PHX @ LAL L 13 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 1 0 0 2 4 -7
+p13
+aVSteve Nash PHX 05/27/2010 PHX @ LAL L 35 29 12 20 60.0 2 6 33.3 3 5 60.0 2 1 3 11 0 0 2 1 5
+p14
+aVRobin Lopez PHX 05/27/2010 PHX @ LAL L 11 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -4
+p15
+aVLeandro Barbosa PHX 05/27/2010 PHX @ LAL L 15 2 0 2 0.0 0 1 0.0 2 3 66.7 0 2 2 2 0 0 1 3 -1
+p16
+aVJason Richardson PHX 05/27/2010 PHX @ LAL L 33 12 5 12 41.7 1 6 16.7 1 3 33.3 1 4 5 1 2 1 1 1 -1
+p17
+aVJarron Collins PHX 05/27/2010 PHX @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p18
+aVLou Amundson PHX 05/27/2010 PHX @ LAL L 13 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 2 1 -7
+p19
+aVChanning Frye PHX 05/27/2010 PHX @ LAL L 31 14 4 10 40.0 3 8 37.5 3 4 75.0 3 7 10 2 1 1 0 3 10
+p20
+aVGrant Hill PHX 05/27/2010 PHX @ LAL L 31 10 3 7 42.9 1 1 100.0 3 3 100.0 1 4 5 1 1 3 2 2 -6
+p21
+aVJared Dudley PHX 05/27/2010 PHX @ LAL L 21 10 3 5 60.0 1 2 50.0 3 4 75.0 1 3 4 1 0 0 0 0 2
+p22
+aVJason Richardson PHX 05/25/2010 PHX vs. LAL W 31 11 4 9 44.4 1 3 33.3 2 2 100.0 2 4 6 2 1 0 0 1 -4
+p23
+aVRobin Lopez PHX 05/25/2010 PHX vs. LAL W 13 6 3 10 30.0 0 0 - 0 0 - 4 2 6 0 0 0 0 0 -3
+p24
+aVLou Amundson PHX 05/25/2010 PHX vs. LAL W 17 7 3 3 100.0 0 0 - 1 2 50.0 3 4 7 0 0 1 1 2 14
+p25
+aVGrant Hill PHX 05/25/2010 PHX vs. LAL W 20 8 4 8 50.0 0 2 0.0 0 0 - 1 3 4 0 0 0 0 1 -3
+p26
+aVLeandro Barbosa PHX 05/25/2010 PHX vs. LAL W 17 14 6 8 75.0 2 4 50.0 0 0 - 0 0 0 2 0 0 2 2 13
+p27
+aVGoran Dragic PHX 05/25/2010 PHX vs. LAL W 18 8 3 6 50.0 0 2 0.0 2 2 100.0 1 3 4 8 0 0 0 0 18
+p28
+aVAmar'e Stoudemire PHX 05/25/2010 PHX vs. LAL W 31 21 7 14 50.0 0 0 - 7 12 58.3 5 3 8 0 0 0 1 2 -5
+p29
+aVSteve Nash PHX 05/25/2010 PHX vs. LAL W 30 15 3 11 27.3 1 5 20.0 8 9 88.9 1 3 4 8 1 0 2 1 -9
+p30
+aVChanning Frye PHX 05/25/2010 PHX vs. LAL W 35 14 4 8 50.0 4 8 50.0 2 2 100.0 0 6 6 1 1 1 1 2 12
+p31
+aVJared Dudley PHX 05/25/2010 PHX vs. LAL W 28 11 4 7 57.1 3 6 50.0 0 3 0.0 1 5 6 2 0 1 0 1 12
+p32
+aVLeandro Barbosa PHX 05/23/2010 PHX vs. LAL W 12 2 0 4 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 3 -8
+p33
+aVGrant Hill PHX 05/23/2010 PHX vs. LAL W 29 5 1 4 25.0 1 1 100.0 2 2 100.0 0 9 9 3 3 1 1 3 14
+p34
+aVJason Richardson PHX 05/23/2010 PHX vs. LAL W 36 19 7 15 46.7 4 7 57.1 1 1 100.0 0 3 3 0 1 0 0 2 17
+p35
+aVAmar'e Stoudemire PHX 05/23/2010 PHX vs. LAL W 42 42 14 22 63.6 0 0 - 14 18 77.8 3 8 11 0 1 1 2 3 14
+p36
+aVSteve Nash PHX 05/23/2010 PHX vs. LAL W 38 17 5 10 50.0 0 1 0.0 7 7 100.0 0 2 2 15 0 0 1 2 13
+p37
+aVLou Amundson PHX 05/23/2010 PHX vs. LAL W 6 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 0 1 1 -5
+p38
+aVJared Dudley PHX 05/23/2010 PHX vs. LAL W 19 4 1 4 25.0 0 2 0.0 2 2 100.0 1 3 4 0 3 0 0 1 -6
+p39
+aVGoran Dragic PHX 05/23/2010 PHX vs. LAL W 10 6 1 4 25.0 0 2 0.0 4 5 80.0 1 0 1 1 1 0 2 1 -4
+p40
+aVRobin Lopez PHX 05/23/2010 PHX vs. LAL W 30 20 8 10 80.0 0 0 - 4 4 100.0 1 2 3 0 1 0 0 3 19
+p41
+aVChanning Frye PHX 05/23/2010 PHX vs. LAL W 18 1 0 7 0.0 0 5 0.0 1 1 100.0 1 2 3 0 0 0 0 2 -9
+p42
+aVGrant Hill PHX 05/19/2010 PHX @ LAL L 32 23 10 17 58.8 0 2 0.0 3 3 100.0 0 4 4 3 0 0 2 4 -6
+p43
+aVAmar'e Stoudemire PHX 05/19/2010 PHX @ LAL L 41 18 7 14 50.0 0 1 0.0 4 7 57.1 3 3 6 1 0 2 5 5 -14
+p44
+aVLou Amundson PHX 05/19/2010 PHX @ LAL L 11 5 1 2 50.0 0 0 - 3 5 60.0 1 3 4 0 1 1 0 2 -7
+p45
+aVJared Dudley PHX 05/19/2010 PHX @ LAL L 30 15 5 6 83.3 5 5 100.0 0 0 - 1 4 5 4 3 0 1 6 2
+p46
+aVJason Richardson PHX 05/19/2010 PHX @ LAL L 36 27 10 17 58.8 3 7 42.9 4 4 100.0 0 3 3 1 2 0 0 1 -12
+p47
+aVGoran Dragic PHX 05/19/2010 PHX @ LAL L 16 3 1 6 16.7 0 2 0.0 1 2 50.0 1 0 1 2 1 0 1 0 -5
+p48
+aVRobin Lopez PHX 05/19/2010 PHX @ LAL L 18 7 2 4 50.0 0 0 - 3 3 100.0 3 3 6 0 0 0 1 1 -8
+p49
+aVSteve Nash PHX 05/19/2010 PHX @ LAL L 36 11 4 8 50.0 1 3 33.3 2 2 100.0 0 3 3 15 0 1 5 1 -9
+p50
+aVChanning Frye PHX 05/19/2010 PHX @ LAL L 9 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 4 -1
+p51
+aVLeandro Barbosa PHX 05/19/2010 PHX @ LAL L 12 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 3 0 0 1 2 0
+p52
+aVGoran Dragic PHX 05/17/2010 PHX @ LAL L 20 13 5 8 62.5 0 1 0.0 3 4 75.0 1 2 3 2 0 0 1 2 -7
+p53
+aVGrant Hill PHX 05/17/2010 PHX @ LAL L 22 7 1 5 20.0 0 0 - 5 6 83.3 0 1 1 3 1 0 1 4 -2
+p54
+aVJason Richardson PHX 05/17/2010 PHX @ LAL L 37 15 6 12 50.0 3 6 50.0 0 2 0.0 1 5 6 3 1 0 0 3 -24
+p55
+aVLou Amundson PHX 05/17/2010 PHX @ LAL L 18 3 1 4 25.0 0 0 - 1 2 50.0 4 2 6 0 1 1 0 1 -8
+p56
+aVLeandro Barbosa PHX 05/17/2010 PHX @ LAL L 17 11 5 7 71.4 0 1 0.0 1 1 100.0 0 0 0 2 0 0 1 1 -6
+p57
+aVAmar'e Stoudemire PHX 05/17/2010 PHX @ LAL L 35 23 8 13 61.5 0 0 - 7 10 70.0 1 2 3 2 1 1 1 2 -23
+p58
+aVRobin Lopez PHX 05/17/2010 PHX @ LAL L 24 14 6 7 85.7 0 0 - 2 2 100.0 2 4 6 0 0 1 0 2 2
+p59
+aVJared Dudley PHX 05/17/2010 PHX @ LAL L 19 5 1 5 20.0 1 5 20.0 2 2 100.0 1 3 4 0 1 0 2 4 -11
+p60
+aVChanning Frye PHX 05/17/2010 PHX @ LAL L 20 3 1 8 12.5 1 7 14.3 0 0 - 0 1 1 0 1 0 1 2 -13
+p61
+aVSteve Nash PHX 05/17/2010 PHX @ LAL L 28 13 5 10 50.0 0 2 0.0 3 3 100.0 0 4 4 13 0 0 4 2 -13
+p62
+aVChanning Frye PHX 05/09/2010 PHX @ SAS W 22 8 2 8 25.0 2 7 28.6 2 2 100.0 0 5 5 0 1 1 0 2 -1
+p63
+aVLou Amundson PHX 05/09/2010 PHX @ SAS W 7 4 1 1 100.0 0 0 - 2 4 50.0 1 1 2 0 1 1 0 0 1
+p64
+aVJarron Collins PHX 05/09/2010 PHX @ SAS W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p65
+aVJason Richardson PHX 05/09/2010 PHX @ SAS W 35 11 4 11 36.4 1 4 25.0 2 3 66.7 2 6 8 1 0 1 2 1 -2
+p66
+aVLeandro Barbosa PHX 05/09/2010 PHX @ SAS W 19 7 2 10 20.0 1 3 33.3 2 2 100.0 0 2 2 2 1 1 0 3 11
+p67
+aVGrant Hill PHX 05/09/2010 PHX @ SAS W 35 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 2 1 1 3 5 5
+p68
+aVJared Dudley PHX 05/09/2010 PHX @ SAS W 31 16 6 7 85.7 3 3 100.0 1 1 100.0 1 5 6 4 2 0 1 3 12
+p69
+aVAmar'e Stoudemire PHX 05/09/2010 PHX @ SAS W 38 29 10 17 58.8 0 0 - 9 10 90.0 2 3 5 1 2 1 0 5 3
+p70
+aVSteve Nash PHX 05/09/2010 PHX @ SAS W 37 20 8 15 53.3 3 3 100.0 1 1 100.0 1 3 4 9 1 0 4 1 8
+p71
+aVGoran Dragic PHX 05/09/2010 PHX @ SAS W 11 6 2 6 33.3 0 3 0.0 2 3 66.7 1 1 2 3 0 0 2 3 -2
+p72
+aVChanning Frye PHX 05/07/2010 PHX @ SAS W 33 9 3 6 50.0 3 5 60.0 0 0 - 0 5 5 1 0 2 0 3 15
+p73
+aVGrant Hill PHX 05/07/2010 PHX @ SAS W 36 18 7 11 63.6 0 1 0.0 4 4 100.0 0 3 3 1 2 0 2 1 11
+p74
+aVSteve Nash PHX 05/07/2010 PHX @ SAS W 34 16 6 14 42.9 0 3 0.0 4 4 100.0 1 7 8 6 0 0 3 1 7
+p75
+aVJason Richardson PHX 05/07/2010 PHX @ SAS W 32 21 8 15 53.3 5 7 71.4 0 0 - 0 3 3 0 2 0 2 2 6
+p76
+aVGoran Dragic PHX 05/07/2010 PHX @ SAS W 17 26 10 13 76.9 5 5 100.0 1 3 33.3 1 2 3 2 1 1 0 0 10
+p77
+aVLou Amundson PHX 05/07/2010 PHX @ SAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p78
+aVJared Dudley PHX 05/07/2010 PHX @ SAS W 25 0 0 3 0.0 0 3 0.0 0 0 - 1 2 3 1 2 0 1 3 13
+p79
+aVJarron Collins PHX 05/07/2010 PHX @ SAS W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -4
+p80
+aVAmar'e Stoudemire PHX 05/07/2010 PHX @ SAS W 32 7 3 10 30.0 0 0 - 1 3 33.3 2 6 8 4 0 3 2 3 1
+p81
+aVLeandro Barbosa PHX 05/07/2010 PHX @ SAS W 19 13 5 7 71.4 2 2 100.0 1 3 33.3 1 3 4 1 0 0 1 4 12
+p82
+aVChanning Frye PHX 05/05/2010 PHX vs. SAS W 26 15 5 7 71.4 5 6 83.3 0 0 - 0 4 4 2 2 0 1 5 9
+p83
+aVAmar'e Stoudemire PHX 05/05/2010 PHX vs. SAS W 40 23 6 15 40.0 0 0 - 11 13 84.6 4 7 11 0 0 1 3 2 6
+p84
+aVJason Richardson PHX 05/05/2010 PHX vs. SAS W 34 19 6 16 37.5 3 6 50.0 4 5 80.0 1 4 5 3 0 0 0 2 6
+p85
+aVSteve Nash PHX 05/05/2010 PHX vs. SAS W 35 19 7 13 53.8 0 1 0.0 5 6 83.3 0 3 3 6 1 0 5 1 6
+p86
+aVGoran Dragic PHX 05/05/2010 PHX vs. SAS W 13 0 0 5 0.0 0 1 0.0 0 0 - 2 2 4 3 1 0 0 1 2
+p87
+aVLeandro Barbosa PHX 05/05/2010 PHX vs. SAS W 14 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 1 0 0 2 2 2
+p88
+aVLou Amundson PHX 05/05/2010 PHX vs. SAS W 9 2 1 5 20.0 0 0 - 0 0 - 3 2 5 1 1 0 0 1 -1
+p89
+aVJared Dudley PHX 05/05/2010 PHX vs. SAS W 28 11 4 8 50.0 1 3 33.3 2 5 40.0 4 2 6 2 1 0 0 2 4
+p90
+aVJarron Collins PHX 05/05/2010 PHX vs. SAS W 9 0 0 3 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 1 -8
+p91
+aVGrant Hill PHX 05/05/2010 PHX vs. SAS W 31 18 6 10 60.0 0 1 0.0 6 6 100.0 1 5 6 1 0 0 3 4 14
+p92
+aVLeandro Barbosa PHX 05/03/2010 PHX vs. SAS W 14 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 1 -4
+p93
+aVChanning Frye PHX 05/03/2010 PHX vs. SAS W 29 6 2 6 33.3 2 4 50.0 0 0 - 0 5 5 2 0 2 0 4 4
+p94
+aVJason Richardson PHX 05/03/2010 PHX vs. SAS W 35 27 10 16 62.5 3 6 50.0 4 6 66.7 0 6 6 0 1 0 3 3 11
+p95
+aVJarron Collins PHX 05/03/2010 PHX vs. SAS W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p96
+aVLou Amundson PHX 05/03/2010 PHX vs. SAS W 12 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 0 2 0 0 2 5
+p97
+aVSteve Nash PHX 05/03/2010 PHX vs. SAS W 37 33 13 19 68.4 2 4 50.0 5 6 83.3 0 3 3 10 0 0 6 3 18
+p98
+aVGoran Dragic PHX 05/03/2010 PHX vs. SAS W 11 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 0 0 0 2 2 -9
+p99
+aVGrant Hill PHX 05/03/2010 PHX vs. SAS W 32 7 2 7 28.6 0 1 0.0 3 4 75.0 1 5 6 4 1 0 1 2 2
+p100
+aVAmar'e Stoudemire PHX 05/03/2010 PHX vs. SAS W 40 23 9 17 52.9 0 1 0.0 5 5 100.0 4 9 13 0 0 0 3 5 13
+p101
+aVJared Dudley PHX 05/03/2010 PHX vs. SAS W 21 3 1 3 33.3 0 1 0.0 1 2 50.0 1 4 5 0 0 0 0 3 9
+p102
+aVEarl Clark PHX 04/29/2010 PHX @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p103
+aVAmar'e Stoudemire PHX 04/29/2010 PHX @ POR W 32 22 9 15 60.0 0 0 - 4 6 66.7 1 2 3 3 0 2 5 3 21
+p104
+aVLou Amundson PHX 04/29/2010 PHX @ POR W 16 4 2 5 40.0 0 0 - 0 2 0.0 2 2 4 0 0 1 0 4 -4
+p105
+aVGrant Hill PHX 04/29/2010 PHX @ POR W 31 3 1 4 25.0 0 0 - 1 3 33.3 2 10 12 4 2 2 0 1 26
+p106
+aVJason Richardson PHX 04/29/2010 PHX @ POR W 33 28 10 16 62.5 5 8 62.5 3 3 100.0 0 7 7 2 2 1 0 4 12
+p107
+aVJared Dudley PHX 04/29/2010 PHX @ POR W 28 12 3 7 42.9 3 6 50.0 3 5 60.0 0 2 2 3 1 2 0 3 -5
+p108
+aVJarron Collins PHX 04/29/2010 PHX @ POR W 14 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 4
+p109
+aVLeandro Barbosa PHX 04/29/2010 PHX @ POR W 13 5 2 6 33.3 0 2 0.0 1 2 50.0 1 0 1 0 0 0 0 1 -6
+p110
+aVGoran Dragic PHX 04/29/2010 PHX @ POR W 18 10 4 7 57.1 2 2 100.0 0 0 - 0 0 0 3 0 0 0 0 -6
+p111
+aVChanning Frye PHX 04/29/2010 PHX @ POR W 25 3 1 5 20.0 1 4 25.0 0 0 - 0 4 4 0 2 0 1 3 -12
+p112
+aVSteve Nash PHX 04/29/2010 PHX @ POR W 30 10 2 7 28.6 1 1 100.0 5 5 100.0 0 2 2 6 0 0 7 0 15
+p113
+aVJason Richardson PHX 04/26/2010 PHX vs. POR W 29 13 5 14 35.7 1 4 25.0 2 2 100.0 3 5 8 0 2 0 0 1 13
+p114
+aVGoran Dragic PHX 04/26/2010 PHX vs. POR W 20 7 1 5 20.0 0 2 0.0 5 6 83.3 1 3 4 5 0 0 2 4 7
+p115
+aVJarron Collins PHX 04/26/2010 PHX vs. POR W 12 2 0 0 - 0 0 - 2 2 100.0 2 0 2 0 0 0 0 3 -13
+p116
+aVJared Dudley PHX 04/26/2010 PHX vs. POR W 25 19 6 10 60.0 5 9 55.6 2 2 100.0 0 2 2 1 1 0 1 1 36
+p117
+aVDwayne Jones PHX 04/26/2010 PHX vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p118
+aVEarl Clark PHX 04/26/2010 PHX vs. POR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -6
+p119
+aVChanning Frye PHX 04/26/2010 PHX vs. POR W 27 20 7 11 63.6 3 5 60.0 3 3 100.0 2 6 8 0 2 0 0 4 32
+p120
+aVLeandro Barbosa PHX 04/26/2010 PHX vs. POR W 19 7 3 11 27.3 0 4 0.0 1 2 50.0 0 3 3 1 2 0 1 3 6
+p121
+aVSteve Nash PHX 04/26/2010 PHX vs. POR W 28 14 2 5 40.0 1 3 33.3 9 9 100.0 0 1 1 10 0 0 5 0 12
+p122
+aVLou Amundson PHX 04/26/2010 PHX vs. POR W 19 2 1 1 100.0 0 0 - 0 0 - 3 1 4 0 0 1 0 3 7
+p123
+aVAmar'e Stoudemire PHX 04/26/2010 PHX vs. POR W 32 19 7 11 63.6 0 0 - 5 6 83.3 3 2 5 1 0 1 1 1 18
+p124
+aVGrant Hill PHX 04/26/2010 PHX vs. POR W 20 4 2 5 40.0 0 0 - 0 0 - 1 2 3 3 1 1 1 4 -12
+p125
+aVGrant Hill PHX 04/24/2010 PHX @ POR L 30 9 3 10 30.0 0 2 0.0 3 4 75.0 1 11 12 4 1 0 0 3 -15
+p126
+aVLou Amundson PHX 04/24/2010 PHX @ POR L 9 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 1
+p127
+aVChanning Frye PHX 04/24/2010 PHX @ POR L 30 7 3 8 37.5 1 4 25.0 0 0 - 0 7 7 1 1 1 0 4 -10
+p128
+aVSteve Nash PHX 04/24/2010 PHX @ POR L 39 15 6 11 54.5 1 3 33.3 2 3 66.7 0 4 4 8 0 0 6 1 -9
+p129
+aVLeandro Barbosa PHX 04/24/2010 PHX @ POR L 15 8 3 5 60.0 2 2 100.0 0 0 - 0 2 2 0 1 0 2 2 -3
+p130
+aVAmar'e Stoudemire PHX 04/24/2010 PHX @ POR L 39 26 9 16 56.3 0 0 - 8 10 80.0 3 3 6 1 0 3 1 4 -10
+p131
+aVJared Dudley PHX 04/24/2010 PHX @ POR L 19 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 2 0 0 1 4 6
+p132
+aVJason Richardson PHX 04/24/2010 PHX @ POR L 33 15 6 16 37.5 2 8 25.0 1 2 50.0 2 0 2 1 0 0 0 3 -6
+p133
+aVJarron Collins PHX 04/24/2010 PHX @ POR L 18 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 1
+p134
+aVGoran Dragic PHX 04/24/2010 PHX @ POR L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p135
+aVJarron Collins PHX 04/22/2010 PHX @ POR W 17 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 8
+p136
+aVLou Amundson PHX 04/22/2010 PHX @ POR W 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -1
+p137
+aVLeandro Barbosa PHX 04/22/2010 PHX @ POR W 11 6 3 6 50.0 0 0 - 0 0 - 0 0 0 2 1 0 1 2 4
+p138
+aVSteve Nash PHX 04/22/2010 PHX @ POR W 38 13 3 8 37.5 1 1 100.0 6 7 85.7 0 4 4 10 0 0 5 0 19
+p139
+aVGrant Hill PHX 04/22/2010 PHX @ POR W 31 8 4 5 80.0 0 0 - 0 0 - 0 7 7 2 0 0 3 4 16
+p140
+aVJared Dudley PHX 04/22/2010 PHX @ POR W 17 3 1 3 33.3 1 3 33.3 0 0 - 1 1 2 0 0 0 0 0 3
+p141
+aVAmar'e Stoudemire PHX 04/22/2010 PHX @ POR W 38 20 8 14 57.1 0 1 0.0 4 9 44.4 3 1 4 0 2 2 4 3 20
+p142
+aVJason Richardson PHX 04/22/2010 PHX @ POR W 37 42 13 19 68.4 8 12 66.7 8 10 80.0 2 6 8 2 3 0 0 3 15
+p143
+aVChanning Frye PHX 04/22/2010 PHX @ POR W 31 4 1 7 14.3 0 6 0.0 2 2 100.0 0 7 7 4 1 0 1 4 11
+p144
+aVGoran Dragic PHX 04/22/2010 PHX @ POR W 10 10 3 6 50.0 3 5 60.0 1 2 50.0 0 1 1 1 0 0 0 0 0
+p145
+aVGoran Dragic PHX 04/20/2010 PHX vs. POR W 18 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 1 0 0 2 1 5
+p146
+aVChanning Frye PHX 04/20/2010 PHX vs. POR W 29 3 1 7 14.3 1 5 20.0 0 0 - 0 4 4 1 0 0 0 3 19
+p147
+aVLou Amundson PHX 04/20/2010 PHX vs. POR W 20 4 2 4 50.0 0 0 - 0 0 - 5 2 7 0 0 1 1 5 8
+p148
+aVAmar'e Stoudemire PHX 04/20/2010 PHX vs. POR W 31 18 5 10 50.0 0 0 - 8 8 100.0 3 4 7 3 0 1 1 2 22
+p149
+aVDwayne Jones PHX 04/20/2010 PHX vs. POR W 6 5 1 2 50.0 0 0 - 3 4 75.0 1 3 4 0 0 0 1 0 4
+p150
+aVEarl Clark PHX 04/20/2010 PHX vs. POR W 6 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 4
+p151
+aVSteve Nash PHX 04/20/2010 PHX vs. POR W 30 13 5 11 45.5 1 3 33.3 2 3 66.7 0 1 1 16 0 0 1 2 24
+p152
+aVLeandro Barbosa PHX 04/20/2010 PHX vs. POR W 18 9 3 11 27.3 0 2 0.0 3 3 100.0 0 2 2 1 0 0 0 2 5
+p153
+aVGrant Hill PHX 04/20/2010 PHX vs. POR W 25 20 10 11 90.9 0 0 - 0 0 - 0 8 8 0 0 1 0 3 14
+p154
+aVJason Richardson PHX 04/20/2010 PHX vs. POR W 30 29 11 16 68.8 4 5 80.0 3 4 75.0 1 5 6 0 0 0 0 2 25
+p155
+aVJared Dudley PHX 04/20/2010 PHX vs. POR W 17 4 2 4 50.0 0 1 0.0 0 0 - 2 1 3 3 3 0 0 3 10
+p156
+aVJarron Collins PHX 04/20/2010 PHX vs. POR W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 5
+p157
+aVSteve Nash PHX 04/18/2010 PHX vs. POR L 34 25 10 18 55.6 3 6 50.0 2 2 100.0 1 0 1 9 1 0 2 2 -8
+p158
+aVJared Dudley PHX 04/18/2010 PHX vs. POR L 23 4 1 7 14.3 1 5 20.0 1 2 50.0 0 4 4 3 0 1 1 3 7
+p159
+aVJarron Collins PHX 04/18/2010 PHX vs. POR L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -4
+p160
+aVChanning Frye PHX 04/18/2010 PHX vs. POR L 29 12 4 8 50.0 2 6 33.3 2 2 100.0 2 5 7 0 0 0 1 2 -2
+p161
+aVLou Amundson PHX 04/18/2010 PHX vs. POR L 18 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 3 4
+p162
+aVGoran Dragic PHX 04/18/2010 PHX vs. POR L 14 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 0 3
+p163
+aVAmar'e Stoudemire PHX 04/18/2010 PHX vs. POR L 35 18 8 19 42.1 0 0 - 2 3 66.7 6 2 8 2 0 1 4 6 -16
+p164
+aVGrant Hill PHX 04/18/2010 PHX vs. POR L 26 4 2 9 22.2 0 2 0.0 0 0 - 3 5 8 2 0 0 0 0 -5
+p165
+aVJason Richardson PHX 04/18/2010 PHX vs. POR L 32 14 4 12 33.3 2 6 33.3 4 5 80.0 2 8 10 1 0 1 1 4 -13
+p166
+aVLeandro Barbosa PHX 04/18/2010 PHX vs. POR L 17 13 5 8 62.5 3 6 50.0 0 0 - 0 2 2 1 0 1 3 2 9
+p167
+a.

@@ -1,0 +1,1682 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMelvin Ely CHA 04/19/2006 CHA vs. PHI W 33 18 8 14 57.1 0 0 - 2 2 100.0 2 3 5 1 2 2 2 4 13
+p2
+aVRaymond Felton CHA 04/19/2006 CHA vs. PHI W 42 15 6 19 31.6 1 4 25.0 2 2 100.0 0 3 3 9 3 0 2 2 9
+p3
+aVJake Voskuhl CHA 04/19/2006 CHA vs. PHI W 22 8 4 8 50.0 0 0 - 0 2 0.0 1 3 4 3 1 0 2 2 0
+p4
+aVKevin Burleson CHA 04/19/2006 CHA vs. PHI W 14 7 2 5 40.0 1 3 33.3 2 2 100.0 0 1 1 3 1 1 0 0 2
+p5
+aVLonny Baxter CHA 04/19/2006 CHA vs. PHI W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p6
+aVMatt Carroll CHA 04/19/2006 CHA vs. PHI W 41 24 8 13 61.5 4 8 50.0 4 4 100.0 1 3 4 1 1 0 1 5 9
+p7
+aVPrimoz Brezec CHA 04/19/2006 CHA vs. PHI W 24 9 4 10 40.0 0 0 - 1 1 100.0 4 3 7 1 0 0 5 0 11
+p8
+aVGerald Wallace CHA 04/19/2006 CHA vs. PHI W 32 7 2 4 50.0 0 0 - 3 4 75.0 3 6 9 1 3 2 2 3 3
+p9
+aVJumaine Jones CHA 04/19/2006 CHA vs. PHI W 26 8 3 10 30.0 0 1 0.0 2 2 100.0 3 2 5 2 3 0 1 3 11
+p10
+aVMelvin Ely CHA 04/17/2006 CHA @ NYK W 30 12 5 10 50.0 0 0 - 2 2 100.0 1 2 3 2 1 0 1 3 0
+p11
+aVAlan Anderson CHA 04/17/2006 CHA @ NYK W 35 18 6 10 60.0 3 3 100.0 3 4 75.0 2 2 4 0 1 0 3 4 1
+p12
+aVJake Voskuhl CHA 04/17/2006 CHA @ NYK W 27 17 8 11 72.7 0 0 - 1 4 25.0 3 6 9 1 2 2 1 4 15
+p13
+aVRaymond Felton CHA 04/17/2006 CHA @ NYK W 41 16 6 16 37.5 2 5 40.0 2 2 100.0 0 2 2 14 4 0 3 4 3
+p14
+aVKevin Burleson CHA 04/17/2006 CHA @ NYK W 9 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 2 0 1 0 0 6
+p15
+aVPrimoz Brezec CHA 04/17/2006 CHA @ NYK W 28 12 6 15 40.0 0 0 - 0 0 - 3 4 7 0 0 0 3 4 -9
+p16
+aVJumaine Jones CHA 04/17/2006 CHA @ NYK W 25 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 0 1 1 0
+p17
+aVLonny Baxter CHA 04/17/2006 CHA @ NYK W 10 5 2 6 33.3 0 0 - 1 1 100.0 0 1 1 0 0 1 0 1 7
+p18
+aVMatt Carroll CHA 04/17/2006 CHA @ NYK W 35 11 3 7 42.9 2 3 66.7 3 3 100.0 0 5 5 2 0 0 1 2 12
+p19
+aVJumaine Jones CHA 04/15/2006 CHA vs. IND W 26 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 2 1 0 1 1 -5
+p20
+aVRaymond Felton CHA 04/15/2006 CHA vs. IND W 46 16 5 16 31.3 1 5 20.0 5 8 62.5 1 5 6 13 2 0 3 1 1
+p21
+aVAlan Anderson CHA 04/15/2006 CHA vs. IND W 47 9 3 11 27.3 1 2 50.0 2 4 50.0 2 6 8 4 0 0 3 1 8
+p22
+aVMelvin Ely CHA 04/15/2006 CHA vs. IND W 29 14 6 11 54.5 0 0 - 2 4 50.0 4 5 9 0 0 1 1 4 -5
+p23
+aVJake Voskuhl CHA 04/15/2006 CHA vs. IND W 28 10 5 9 55.6 0 0 - 0 0 - 3 2 5 1 3 2 0 2 4
+p24
+aVPrimoz Brezec CHA 04/15/2006 CHA vs. IND W 37 18 9 22 40.9 0 0 - 0 0 - 3 5 8 1 1 0 1 3 5
+p25
+aVLonny Baxter CHA 04/15/2006 CHA vs. IND W 12 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 0 0 0 2 1 -4
+p26
+aVMatt Carroll CHA 04/15/2006 CHA vs. IND W 31 15 6 10 60.0 3 5 60.0 0 0 - 0 9 9 0 1 1 1 5 2
+p27
+aVKevin Burleson CHA 04/15/2006 CHA vs. IND W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 3 0 0 1 -1
+p28
+aVMatt Carroll CHA 04/14/2006 CHA @ ATL W 23 17 4 8 50.0 3 4 75.0 6 6 100.0 1 1 2 1 0 0 0 1 -2
+p29
+aVKevin Burleson CHA 04/14/2006 CHA @ ATL W 6 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 1 0 3 0 -1
+p30
+aVJumaine Jones CHA 04/14/2006 CHA @ ATL W 28 8 2 6 33.3 1 4 25.0 3 6 50.0 2 2 4 1 2 1 1 3 -2
+p31
+aVJake Voskuhl CHA 04/14/2006 CHA @ ATL W 17 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -3
+p32
+aVAlan Anderson CHA 04/14/2006 CHA @ ATL W 36 15 6 11 54.5 0 1 0.0 3 3 100.0 1 5 6 2 0 0 0 3 11
+p33
+aVPrimoz Brezec CHA 04/14/2006 CHA @ ATL W 28 14 6 9 66.7 0 0 - 2 2 100.0 3 1 4 1 0 1 1 4 5
+p34
+aVRaymond Felton CHA 04/14/2006 CHA @ ATL W 42 27 8 18 44.4 3 8 37.5 8 10 80.0 0 4 4 8 3 0 3 3 8
+p35
+aVMelvin Ely CHA 04/14/2006 CHA @ ATL W 34 21 10 13 76.9 0 0 - 1 1 100.0 2 3 5 3 1 2 2 2 -2
+p36
+aVLonny Baxter CHA 04/14/2006 CHA @ ATL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p37
+aVGerald Wallace CHA 04/14/2006 CHA @ ATL W 24 9 4 6 66.7 0 0 - 1 4 25.0 0 6 6 5 4 3 4 1 12
+p38
+aVMelvin Ely CHA 04/12/2006 CHA vs. MEM L 22 12 6 9 66.7 0 0 - 0 0 - 1 3 4 2 0 1 1 2 -4
+p39
+aVAlan Anderson CHA 04/12/2006 CHA vs. MEM L 31 4 2 9 22.2 0 2 0.0 0 0 - 2 1 3 1 0 1 0 2 -1
+p40
+aVRaymond Felton CHA 04/12/2006 CHA vs. MEM L 43 14 6 19 31.6 0 4 0.0 2 2 100.0 2 1 3 13 0 0 2 3 -6
+p41
+aVGerald Wallace CHA 04/12/2006 CHA vs. MEM L 37 17 6 10 60.0 0 1 0.0 5 8 62.5 2 7 9 2 1 2 4 3 -2
+p42
+aVMatt Carroll CHA 04/12/2006 CHA vs. MEM L 26 14 4 8 50.0 1 2 50.0 5 5 100.0 0 0 0 0 1 0 0 3 -6
+p43
+aVPrimoz Brezec CHA 04/12/2006 CHA vs. MEM L 26 13 6 14 42.9 0 0 - 1 1 100.0 5 4 9 0 0 0 2 5 -3
+p44
+aVJumaine Jones CHA 04/12/2006 CHA vs. MEM L 29 5 2 12 16.7 1 5 20.0 0 0 - 2 7 9 0 2 0 1 6 -10
+p45
+aVJake Voskuhl CHA 04/12/2006 CHA vs. MEM L 21 6 3 6 50.0 0 0 - 0 0 - 0 7 7 4 1 1 1 5 -6
+p46
+aVKevin Burleson CHA 04/12/2006 CHA vs. MEM L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 0 -2
+p47
+aVJumaine Jones CHA 04/09/2006 CHA @ TOR W 32 17 8 15 53.3 1 4 25.0 0 0 - 4 7 11 1 2 1 1 1 9
+p48
+aVBrevin Knight CHA 04/09/2006 CHA @ TOR W 40 19 6 15 40.0 0 0 - 7 8 87.5 0 3 3 10 3 0 5 5 15
+p49
+aVMelvin Ely CHA 04/09/2006 CHA @ TOR W 15 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 0 1 0 4 4 0
+p50
+aVAlan Anderson CHA 04/09/2006 CHA @ TOR W 17 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 4 -7
+p51
+aVMatt Carroll CHA 04/09/2006 CHA @ TOR W 10 3 1 5 20.0 1 2 50.0 0 0 - 1 3 4 1 0 0 0 0 -1
+p52
+aVGerald Wallace CHA 04/09/2006 CHA @ TOR W 36 11 5 12 41.7 0 1 0.0 1 2 50.0 5 9 14 0 3 2 3 3 10
+p53
+aVPrimoz Brezec CHA 04/09/2006 CHA @ TOR W 38 17 8 14 57.1 0 0 - 1 1 100.0 3 5 8 1 1 0 0 2 9
+p54
+aVJake Voskuhl CHA 04/09/2006 CHA @ TOR W 9 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -7
+p55
+aVRaymond Felton CHA 04/09/2006 CHA @ TOR W 43 10 5 17 29.4 0 6 0.0 0 0 - 0 1 1 12 0 0 1 1 2
+p56
+aVJumaine Jones CHA 04/06/2006 CHA @ NJN L 16 3 1 5 20.0 0 2 0.0 1 2 50.0 1 2 3 0 0 0 0 2 -8
+p57
+aVBernard Robinson CHA 04/06/2006 CHA @ NJN L 21 8 3 6 50.0 0 0 - 2 2 100.0 0 5 5 1 1 0 1 2 -14
+p58
+aVKevin Burleson CHA 04/06/2006 CHA @ NJN L 6 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 1 0 1 0 7
+p59
+aVPrimoz Brezec CHA 04/06/2006 CHA @ NJN L 26 16 7 11 63.6 0 0 - 2 2 100.0 2 1 3 1 0 0 1 1 -14
+p60
+aVAlan Anderson CHA 04/06/2006 CHA @ NJN L 17 11 3 7 42.9 1 2 50.0 4 5 80.0 2 1 3 3 0 0 0 1 9
+p61
+aVMatt Carroll CHA 04/06/2006 CHA @ NJN L 18 8 3 7 42.9 1 3 33.3 1 1 100.0 2 0 2 0 0 0 0 3 5
+p62
+aVRaymond Felton CHA 04/06/2006 CHA @ NJN L 31 20 6 12 50.0 2 5 40.0 6 8 75.0 1 1 2 7 0 0 2 2 -20
+p63
+aVMelvin Ely CHA 04/06/2006 CHA @ NJN L 26 8 3 7 42.9 0 0 - 2 2 100.0 1 7 8 1 0 0 0 1 2
+p64
+aVBrevin Knight CHA 04/06/2006 CHA @ NJN L 30 13 4 11 36.4 0 0 - 5 6 83.3 0 2 2 4 1 0 3 1 -14
+p65
+aVJake Voskuhl CHA 04/06/2006 CHA @ NJN L 16 4 1 5 20.0 0 0 - 2 2 100.0 2 5 7 2 0 1 0 1 -4
+p66
+aVLonny Baxter CHA 04/06/2006 CHA @ NJN L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 1 1 0 0 0 7
+p67
+aVGerald Wallace CHA 04/06/2006 CHA @ NJN L 27 6 2 10 20.0 0 0 - 2 5 40.0 1 4 5 1 3 0 1 3 -11
+p68
+aVJumaine Jones CHA 04/04/2006 CHA vs. MIN W 22 7 3 7 42.9 1 4 25.0 0 0 - 0 0 0 0 1 0 1 2 -14
+p69
+aVBrevin Knight CHA 04/04/2006 CHA vs. MIN W 37 24 9 15 60.0 0 0 - 6 6 100.0 0 2 2 8 2 1 2 1 9
+p70
+aVBernard Robinson CHA 04/04/2006 CHA vs. MIN W 20 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 2 0 1 3 6
+p71
+aVRaymond Felton CHA 04/04/2006 CHA vs. MIN W 41 17 6 18 33.3 1 4 25.0 4 4 100.0 0 6 6 8 2 0 5 1 6
+p72
+aVPrimoz Brezec CHA 04/04/2006 CHA vs. MIN W 28 14 5 10 50.0 0 0 - 4 6 66.7 2 4 6 1 0 1 4 4 -4
+p73
+aVGerald Wallace CHA 04/04/2006 CHA vs. MIN W 39 8 3 11 27.3 0 0 - 2 3 66.7 2 7 9 1 3 2 2 4 0
+p74
+aVAlan Anderson CHA 04/04/2006 CHA vs. MIN W 10 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p75
+aVJake Voskuhl CHA 04/04/2006 CHA vs. MIN W 15 0 0 5 0.0 0 0 - 0 0 - 1 2 3 0 0 4 0 4 4
+p76
+aVMatt Carroll CHA 04/04/2006 CHA vs. MIN W 22 14 5 10 50.0 4 5 80.0 0 0 - 0 7 7 0 2 0 2 2 14
+p77
+aVLonny Baxter CHA 04/04/2006 CHA vs. MIN W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 8
+p78
+aVJake Voskuhl CHA 04/02/2006 CHA vs. CLE L 12 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -2
+p79
+aVMatt Carroll CHA 04/02/2006 CHA vs. CLE L 19 4 0 2 0.0 0 1 0.0 4 4 100.0 1 5 6 1 0 1 0 1 -1
+p80
+aVRaymond Felton CHA 04/02/2006 CHA vs. CLE L 39 20 8 22 36.4 2 10 20.0 2 2 100.0 1 0 1 4 4 0 6 2 -5
+p81
+aVBernard Robinson CHA 04/02/2006 CHA vs. CLE L 20 12 4 8 50.0 0 0 - 4 4 100.0 0 0 0 0 0 1 0 2 -5
+p82
+aVBrevin Knight CHA 04/02/2006 CHA vs. CLE L 40 9 3 9 33.3 0 0 - 3 3 100.0 0 1 1 7 4 0 2 3 0
+p83
+aVPrimoz Brezec CHA 04/02/2006 CHA vs. CLE L 35 11 5 11 45.5 0 0 - 1 1 100.0 5 2 7 1 1 2 0 2 -3
+p84
+aVGerald Wallace CHA 04/02/2006 CHA vs. CLE L 40 17 5 11 45.5 1 1 100.0 6 9 66.7 3 6 9 3 2 1 1 5 -8
+p85
+aVJumaine Jones CHA 04/02/2006 CHA vs. CLE L 35 18 6 16 37.5 1 4 25.0 5 8 62.5 3 5 8 2 0 1 1 5 4
+p86
+aVJumaine Jones CHA 03/31/2006 CHA vs. CHI L 40 28 9 21 42.9 2 11 18.2 8 8 100.0 1 2 3 0 3 0 0 3 -9
+p87
+aVRaymond Felton CHA 03/31/2006 CHA vs. CHI L 42 15 4 14 28.6 2 6 33.3 5 7 71.4 0 4 4 10 1 0 2 5 -8
+p88
+aVGerald Wallace CHA 03/31/2006 CHA vs. CHI L 44 26 11 17 64.7 0 1 0.0 4 11 36.4 2 10 12 2 2 3 1 5 -1
+p89
+aVLonny Baxter CHA 03/31/2006 CHA vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p90
+aVMatt Carroll CHA 03/31/2006 CHA vs. CHI L 10 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 1 0 -6
+p91
+aVPrimoz Brezec CHA 03/31/2006 CHA vs. CHI L 22 8 4 7 57.1 0 0 - 0 0 - 0 4 4 0 0 1 0 2 8
+p92
+aVJake Voskuhl CHA 03/31/2006 CHA vs. CHI L 8 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 0 0 2 4 -6
+p93
+aVBernard Robinson CHA 03/31/2006 CHA vs. CHI L 27 12 6 7 85.7 0 0 - 0 0 - 3 3 6 1 0 0 0 4 -4
+p94
+aVBrevin Knight CHA 03/31/2006 CHA vs. CHI L 40 15 3 11 27.3 0 0 - 9 10 90.0 0 4 4 9 0 0 4 3 4
+p95
+aVMelvin Ely CHA 03/31/2006 CHA vs. CHI L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -6
+p96
+aVBrevin Knight CHA 03/28/2006 CHA vs. ATL W 41 14 5 11 45.5 0 0 - 4 6 66.7 0 3 3 12 3 0 2 3 14
+p97
+aVRaymond Felton CHA 03/28/2006 CHA vs. ATL W 41 28 11 19 57.9 4 5 80.0 2 2 100.0 0 5 5 10 0 0 4 4 18
+p98
+aVMatt Carroll CHA 03/28/2006 CHA vs. ATL W 7 5 2 6 33.3 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -7
+p99
+aVGerald Wallace CHA 03/28/2006 CHA vs. ATL W 43 41 17 22 77.3 0 1 0.0 7 11 63.6 3 5 8 4 3 2 1 3 16
+p100
+aVBernard Robinson CHA 03/28/2006 CHA vs. ATL W 18 6 2 9 22.2 0 0 - 2 2 100.0 2 2 4 1 1 0 1 3 -9
+p101
+aVJumaine Jones CHA 03/28/2006 CHA vs. ATL W 37 11 5 9 55.6 1 2 50.0 0 0 - 0 9 9 1 0 0 2 5 11
+p102
+aVJake Voskuhl CHA 03/28/2006 CHA vs. ATL W 29 14 5 8 62.5 0 0 - 4 5 80.0 4 3 7 2 1 1 0 2 18
+p103
+aVKareem Rush CHA 03/28/2006 CHA vs. ATL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -10
+p104
+aVLonny Baxter CHA 03/28/2006 CHA vs. ATL W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p105
+aVMelvin Ely CHA 03/28/2006 CHA vs. ATL W 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -14
+p106
+aVJumaine Jones CHA 03/26/2006 CHA @ MEM L 21 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 0 0 0 1 3 2
+p107
+aVKevin Burleson CHA 03/26/2006 CHA @ MEM L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 1
+p108
+aVBrevin Knight CHA 03/26/2006 CHA @ MEM L 43 17 5 10 50.0 0 0 - 7 9 77.8 1 2 3 16 3 0 2 3 -8
+p109
+aVMatt Carroll CHA 03/26/2006 CHA @ MEM L 14 7 3 5 60.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 0 -6
+p110
+aVGerald Wallace CHA 03/26/2006 CHA @ MEM L 39 25 6 11 54.5 1 2 50.0 12 16 75.0 1 6 7 0 2 4 1 4 -4
+p111
+aVJake Voskuhl CHA 03/26/2006 CHA @ MEM L 15 2 1 6 16.7 0 0 - 0 0 - 0 3 3 3 0 1 0 3 -6
+p112
+aVKareem Rush CHA 03/26/2006 CHA @ MEM L 36 21 8 15 53.3 3 6 50.0 2 3 66.7 1 4 5 1 2 2 2 1 -4
+p113
+aVMelvin Ely CHA 03/26/2006 CHA @ MEM L 13 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 2 0 1 6 -5
+p114
+aVPrimoz Brezec CHA 03/26/2006 CHA @ MEM L 30 13 6 13 46.2 0 0 - 1 1 100.0 3 5 8 0 0 0 1 4 3
+p115
+aVAlan Anderson CHA 03/26/2006 CHA @ MEM L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p116
+aVBernard Robinson CHA 03/26/2006 CHA @ MEM L 19 2 1 6 16.7 0 1 0.0 0 0 - 3 2 5 2 1 0 0 2 -7
+p117
+aVPrimoz Brezec CHA 03/24/2006 CHA @ MIA L 23 8 4 7 57.1 0 0 - 0 2 0.0 3 2 5 0 0 0 0 2 -21
+p118
+aVKareem Rush CHA 03/24/2006 CHA @ MIA L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 6
+p119
+aVBernard Robinson CHA 03/24/2006 CHA @ MIA L 34 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 3 1 0 1 3 -11
+p120
+aVRaymond Felton CHA 03/24/2006 CHA @ MIA L 38 23 9 19 47.4 4 10 40.0 1 1 100.0 0 3 3 3 1 0 3 4 -24
+p121
+aVLonny Baxter CHA 03/24/2006 CHA @ MIA L 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p122
+aVJumaine Jones CHA 03/24/2006 CHA @ MIA L 22 4 2 9 22.2 0 5 0.0 0 0 - 2 1 3 0 0 0 1 3 -18
+p123
+aVAlan Anderson CHA 03/24/2006 CHA @ MIA L 15 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 1 2 0 3 3 -3
+p124
+aVGerald Wallace CHA 03/24/2006 CHA @ MIA L 20 11 4 6 66.7 0 0 - 3 5 60.0 0 5 5 2 1 1 0 3 -5
+p125
+aVMatt Carroll CHA 03/24/2006 CHA @ MIA L 21 8 2 9 22.2 2 3 66.7 2 2 100.0 0 1 1 0 1 1 1 2 -7
+p126
+aVJake Voskuhl CHA 03/24/2006 CHA @ MIA L 11 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 0 0 3 -5
+p127
+aVBrevin Knight CHA 03/24/2006 CHA @ MIA L 29 17 7 12 58.3 0 0 - 3 3 100.0 1 3 4 6 3 0 1 1 -15
+p128
+aVMelvin Ely CHA 03/24/2006 CHA @ MIA L 14 4 2 5 40.0 0 0 - 0 0 - 2 1 3 2 0 0 2 0 -4
+p129
+aVMatt Carroll CHA 03/22/2006 CHA @ CLE L 22 12 5 11 45.5 1 3 33.3 1 1 100.0 1 3 4 1 1 0 1 1 1
+p130
+aVKareem Rush CHA 03/22/2006 CHA @ CLE L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p131
+aVRaymond Felton CHA 03/22/2006 CHA @ CLE L 46 30 12 21 57.1 1 4 25.0 5 8 62.5 2 5 7 10 5 0 4 3 4
+p132
+aVAlan Anderson CHA 03/22/2006 CHA @ CLE L 39 17 7 16 43.8 1 3 33.3 2 3 66.7 3 3 6 2 1 1 3 3 -3
+p133
+aVBernard Robinson CHA 03/22/2006 CHA @ CLE L 36 15 5 8 62.5 0 0 - 5 6 83.3 5 9 14 3 1 0 0 5 3
+p134
+aVKevin Burleson CHA 03/22/2006 CHA @ CLE L 7 3 1 3 33.3 0 2 0.0 1 1 100.0 0 0 0 0 0 0 0 1 -6
+p135
+aVJumaine Jones CHA 03/22/2006 CHA @ CLE L 50 17 5 17 29.4 4 13 30.8 3 3 100.0 0 6 6 1 2 1 1 2 5
+p136
+aVJake Voskuhl CHA 03/22/2006 CHA @ CLE L 25 9 2 8 25.0 0 0 - 5 6 83.3 1 3 4 2 0 1 1 6 1
+p137
+aVPrimoz Brezec CHA 03/22/2006 CHA @ CLE L 28 13 6 10 60.0 0 0 - 1 2 50.0 1 1 2 2 0 0 0 6 -3
+p138
+aVLonny Baxter CHA 03/22/2006 CHA @ CLE L 8 2 1 2 50.0 0 0 - 0 1 0.0 2 1 3 0 0 0 0 2 -4
+p139
+aVGerald Wallace CHA 03/21/2006 CHA vs. ORL W 41 27 12 22 54.5 0 1 0.0 3 6 50.0 2 3 5 2 4 2 1 1 2
+p140
+aVRaymond Felton CHA 03/21/2006 CHA vs. ORL W 38 16 4 14 28.6 3 7 42.9 5 6 83.3 2 5 7 13 1 0 2 2 9
+p141
+aVAlan Anderson CHA 03/21/2006 CHA vs. ORL W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 5 5 1 0 0 1 2 0
+p142
+aVPrimoz Brezec CHA 03/21/2006 CHA vs. ORL W 33 22 8 13 61.5 0 0 - 6 6 100.0 2 1 3 0 0 2 0 4 0
+p143
+aVKevin Burleson CHA 03/21/2006 CHA vs. ORL W 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -6
+p144
+aVJake Voskuhl CHA 03/21/2006 CHA vs. ORL W 14 8 4 6 66.7 0 0 - 0 0 - 3 2 5 0 2 0 0 5 9
+p145
+aVMatt Carroll CHA 03/21/2006 CHA vs. ORL W 17 3 1 6 16.7 1 3 33.3 0 0 - 3 0 3 2 0 0 1 0 4
+p146
+aVBernard Robinson CHA 03/21/2006 CHA vs. ORL W 42 17 6 7 85.7 0 0 - 5 6 83.3 3 10 13 6 2 1 3 4 6
+p147
+aVJumaine Jones CHA 03/21/2006 CHA vs. ORL W 32 13 4 16 25.0 3 10 30.0 2 2 100.0 1 1 2 0 0 0 0 2 6
+p148
+aVJake Voskuhl CHA 03/18/2006 CHA vs. DET L 24 18 9 12 75.0 0 0 - 0 0 - 4 3 7 0 0 0 0 5 1
+p149
+aVJumaine Jones CHA 03/18/2006 CHA vs. DET L 28 9 3 9 33.3 2 5 40.0 1 1 100.0 2 1 3 2 0 0 2 3 -13
+p150
+aVKareem Rush CHA 03/18/2006 CHA vs. DET L 16 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 1 0 2 2 -11
+p151
+aVBernard Robinson CHA 03/18/2006 CHA vs. DET L 18 8 4 8 50.0 0 0 - 0 0 - 0 1 1 1 3 0 0 2 8
+p152
+aVRaymond Felton CHA 03/18/2006 CHA vs. DET L 33 12 4 12 33.3 2 4 50.0 2 2 100.0 2 2 4 7 0 0 2 1 4
+p153
+aVBrevin Knight CHA 03/18/2006 CHA vs. DET L 41 9 4 15 26.7 0 3 0.0 1 2 50.0 0 3 3 8 2 0 3 4 -7
+p154
+aVMelvin Ely CHA 03/18/2006 CHA vs. DET L 21 11 5 8 62.5 0 0 - 1 2 50.0 1 2 3 0 0 0 1 2 -11
+p155
+aVGerald Wallace CHA 03/18/2006 CHA vs. DET L 35 12 4 9 44.4 0 1 0.0 4 6 66.7 1 3 4 1 2 3 1 3 10
+p156
+aVPrimoz Brezec CHA 03/18/2006 CHA vs. DET L 24 20 10 13 76.9 0 0 - 0 0 - 4 3 7 0 0 0 1 1 -6
+p157
+aVJumaine Jones CHA 03/15/2006 CHA @ WAS L 38 25 9 14 64.3 6 8 75.0 1 1 100.0 2 6 8 3 3 0 4 3 1
+p158
+aVLonny Baxter CHA 03/15/2006 CHA @ WAS L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p159
+aVBrevin Knight CHA 03/15/2006 CHA @ WAS L 37 7 2 9 22.2 0 0 - 3 4 75.0 0 1 1 8 1 0 2 2 -5
+p160
+aVJake Voskuhl CHA 03/15/2006 CHA @ WAS L 25 4 2 7 28.6 0 0 - 0 1 0.0 4 6 10 0 0 1 1 2 0
+p161
+aVRaymond Felton CHA 03/15/2006 CHA @ WAS L 28 10 3 10 30.0 1 5 20.0 3 5 60.0 0 1 1 6 0 0 2 4 -4
+p162
+aVAlan Anderson CHA 03/15/2006 CHA @ WAS L 6 7 2 5 40.0 1 2 50.0 2 2 100.0 1 0 1 0 0 0 0 1 -5
+p163
+aVMelvin Ely CHA 03/15/2006 CHA @ WAS L 17 2 1 5 20.0 0 0 - 0 1 0.0 2 2 4 0 0 0 0 3 -9
+p164
+aVPrimoz Brezec CHA 03/15/2006 CHA @ WAS L 11 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 0 0 0 1 3 -12
+p165
+aVKevin Burleson CHA 03/15/2006 CHA @ WAS L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -6
+p166
+aVMatt Carroll CHA 03/15/2006 CHA @ WAS L 17 2 1 9 11.1 0 3 0.0 0 0 - 0 0 0 1 1 0 0 2 1
+p167
+aVKareem Rush CHA 03/15/2006 CHA @ WAS L 25 15 7 15 46.7 1 5 20.0 0 0 - 0 1 1 2 0 0 0 4 0
+p168
+aVBernard Robinson CHA 03/15/2006 CHA @ WAS L 27 21 8 11 72.7 1 1 100.0 4 4 100.0 1 3 4 1 3 0 1 2 -3
+p169
+aVGerald Wallace CHA 03/14/2006 CHA vs. WAS L 34 15 4 11 36.4 0 1 0.0 7 10 70.0 2 4 6 0 5 0 3 6 11
+p170
+aVJumaine Jones CHA 03/14/2006 CHA vs. WAS L 30 18 5 14 35.7 3 6 50.0 5 6 83.3 3 2 5 1 1 0 1 6 1
+p171
+aVJake Voskuhl CHA 03/14/2006 CHA vs. WAS L 8 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -2
+p172
+aVPrimoz Brezec CHA 03/14/2006 CHA vs. WAS L 29 10 4 7 57.1 0 0 - 2 2 100.0 3 6 9 1 0 0 2 4 -9
+p173
+aVKareem Rush CHA 03/14/2006 CHA vs. WAS L 16 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 0 2 0 1 0 -2
+p174
+aVBernard Robinson CHA 03/14/2006 CHA vs. WAS L 24 8 2 5 40.0 0 1 0.0 4 4 100.0 1 4 5 3 2 1 2 1 -7
+p175
+aVMatt Carroll CHA 03/14/2006 CHA vs. WAS L 15 11 4 9 44.4 2 5 40.0 1 2 50.0 0 2 2 1 1 0 1 1 -6
+p176
+aVRaymond Felton CHA 03/14/2006 CHA vs. WAS L 27 17 7 14 50.0 3 6 50.0 0 2 0.0 2 2 4 3 0 0 3 3 -6
+p177
+aVMelvin Ely CHA 03/14/2006 CHA vs. WAS L 20 10 3 7 42.9 0 1 0.0 4 7 57.1 0 2 2 2 0 0 0 4 -14
+p178
+aVBrevin Knight CHA 03/14/2006 CHA vs. WAS L 37 13 6 9 66.7 0 0 - 1 4 25.0 0 4 4 8 1 1 2 3 9
+p179
+aVLonny Baxter CHA 03/12/2006 CHA @ DET L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -10
+p180
+aVBernard Robinson CHA 03/12/2006 CHA @ DET L 17 3 1 2 50.0 0 0 - 1 2 50.0 1 4 5 1 3 0 2 1 -7
+p181
+aVJumaine Jones CHA 03/12/2006 CHA @ DET L 38 13 5 13 38.5 2 5 40.0 1 2 50.0 4 7 11 1 1 0 1 1 -11
+p182
+aVPrimoz Brezec CHA 03/12/2006 CHA @ DET L 26 12 4 9 44.4 0 0 - 4 4 100.0 1 3 4 0 0 0 0 1 -14
+p183
+aVMelvin Ely CHA 03/12/2006 CHA @ DET L 26 15 7 13 53.8 0 0 - 1 2 50.0 2 4 6 1 2 1 2 0 -2
+p184
+aVJake Voskuhl CHA 03/12/2006 CHA @ DET L 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 1
+p185
+aVAlan Anderson CHA 03/12/2006 CHA @ DET L 15 7 3 8 37.5 1 3 33.3 0 0 - 1 2 3 0 0 0 1 2 -1
+p186
+aVBrevin Knight CHA 03/12/2006 CHA @ DET L 26 3 1 7 14.3 0 0 - 1 2 50.0 0 0 0 10 1 0 2 2 -4
+p187
+aVGerald Wallace CHA 03/12/2006 CHA @ DET L 4 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p188
+aVKevin Burleson CHA 03/12/2006 CHA @ DET L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 5 -5
+p189
+aVRaymond Felton CHA 03/12/2006 CHA @ DET L 33 18 7 13 53.8 2 6 33.3 2 2 100.0 0 3 3 3 2 0 3 2 -18
+p190
+aVMatt Carroll CHA 03/12/2006 CHA @ DET L 26 3 1 6 16.7 0 3 0.0 1 1 100.0 2 2 4 2 1 0 0 2 -5
+p191
+aVBernard Robinson CHA 03/11/2006 CHA vs. NYK W 7 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 1 1 -4
+p192
+aVMatt Carroll CHA 03/11/2006 CHA vs. NYK W 20 15 4 9 44.4 3 7 42.9 4 7 57.1 0 3 3 0 0 1 0 2 7
+p193
+aVJumaine Jones CHA 03/11/2006 CHA vs. NYK W 41 28 9 17 52.9 5 9 55.6 5 5 100.0 3 4 7 0 2 0 1 3 10
+p194
+aVGerald Wallace CHA 03/11/2006 CHA vs. NYK W 34 16 5 9 55.6 0 0 - 6 13 46.2 4 8 12 2 3 3 2 5 0
+p195
+aVRaymond Felton CHA 03/11/2006 CHA vs. NYK W 39 20 7 17 41.2 3 5 60.0 3 3 100.0 3 3 6 6 2 0 1 3 6
+p196
+aVMelvin Ely CHA 03/11/2006 CHA vs. NYK W 19 11 5 8 62.5 0 0 - 1 5 20.0 2 4 6 4 0 3 1 2 11
+p197
+aVBrevin Knight CHA 03/11/2006 CHA vs. NYK W 36 7 2 6 33.3 0 0 - 3 5 60.0 0 4 4 15 0 0 3 4 2
+p198
+aVJake Voskuhl CHA 03/11/2006 CHA vs. NYK W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 5 -2
+p199
+aVPrimoz Brezec CHA 03/11/2006 CHA vs. NYK W 35 18 8 15 53.3 0 0 - 2 3 66.7 2 2 4 0 0 1 0 5 5
+p200
+aVBernard Robinson CHA 03/08/2006 CHA vs. GSW W 4 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 2
+p201
+aVRaymond Felton CHA 03/08/2006 CHA vs. GSW W 28 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 4 1 0 1 1 1
+p202
+aVJake Voskuhl CHA 03/08/2006 CHA vs. GSW W 13 2 0 4 0.0 0 0 - 2 2 100.0 2 2 4 1 0 0 1 3 -8
+p203
+aVKareem Rush CHA 03/08/2006 CHA vs. GSW W 26 12 5 13 38.5 2 3 66.7 0 0 - 3 1 4 1 2 0 1 3 -9
+p204
+aVBrevin Knight CHA 03/08/2006 CHA vs. GSW W 42 14 5 11 45.5 0 0 - 4 5 80.0 0 2 2 10 1 0 3 2 14
+p205
+aVMatt Carroll CHA 03/08/2006 CHA vs. GSW W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -11
+p206
+aVPrimoz Brezec CHA 03/08/2006 CHA vs. GSW W 23 12 4 8 50.0 0 0 - 4 4 100.0 3 4 7 2 0 0 1 2 3
+p207
+aVJumaine Jones CHA 03/08/2006 CHA vs. GSW W 40 29 11 21 52.4 5 10 50.0 2 2 100.0 0 6 6 2 0 1 1 1 22
+p208
+aVMelvin Ely CHA 03/08/2006 CHA vs. GSW W 20 9 4 8 50.0 0 0 - 1 1 100.0 1 1 2 2 1 0 1 3 -10
+p209
+aVGerald Wallace CHA 03/08/2006 CHA vs. GSW W 41 17 5 10 50.0 0 0 - 7 10 70.0 3 4 7 4 5 4 3 3 11
+p210
+aVJake Voskuhl CHA 03/06/2006 CHA vs. MIA L 18 4 2 6 33.3 0 0 - 0 0 - 0 5 5 1 0 0 1 6 10
+p211
+aVBrevin Knight CHA 03/06/2006 CHA vs. MIA L 48 24 9 20 45.0 0 0 - 6 6 100.0 3 3 6 11 1 0 4 3 4
+p212
+aVGerald Wallace CHA 03/06/2006 CHA vs. MIA L 46 26 9 14 64.3 0 0 - 8 12 66.7 3 12 15 2 6 2 1 3 -2
+p213
+aVJumaine Jones CHA 03/06/2006 CHA vs. MIA L 38 7 2 11 18.2 2 9 22.2 1 2 50.0 1 4 5 1 0 1 1 2 0
+p214
+aVPrimoz Brezec CHA 03/06/2006 CHA vs. MIA L 27 10 5 13 38.5 0 0 - 0 0 - 2 3 5 0 0 1 0 5 -9
+p215
+aVMatt Carroll CHA 03/06/2006 CHA vs. MIA L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -3
+p216
+aVRaymond Felton CHA 03/06/2006 CHA vs. MIA L 46 19 7 10 70.0 4 6 66.7 1 2 50.0 0 3 3 5 1 1 1 1 -5
+p217
+aVKareem Rush CHA 03/06/2006 CHA vs. MIA L 11 9 2 4 50.0 1 1 100.0 4 4 100.0 0 0 0 0 1 0 1 0 0
+p218
+aVMelvin Ely CHA 03/06/2006 CHA vs. MIA L 21 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 0
+p219
+aVBernard Robinson CHA 03/03/2006 CHA @ DAL L 20 8 1 4 25.0 0 0 - 6 8 75.0 0 3 3 3 3 0 2 3 4
+p220
+aVAlan Anderson CHA 03/03/2006 CHA @ DAL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p221
+aVMelvin Ely CHA 03/03/2006 CHA @ DAL L 16 4 2 4 50.0 0 0 - 0 2 0.0 2 0 2 1 3 1 2 2 -3
+p222
+aVGerald Wallace CHA 03/03/2006 CHA @ DAL L 25 14 4 6 66.7 0 0 - 6 10 60.0 1 7 8 0 0 2 0 3 -18
+p223
+aVJumaine Jones CHA 03/03/2006 CHA @ DAL L 28 11 4 9 44.4 3 6 50.0 0 0 - 1 3 4 0 0 0 1 2 -13
+p224
+aVKareem Rush CHA 03/03/2006 CHA @ DAL L 21 9 4 8 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 2 0 -1
+p225
+aVPrimoz Brezec CHA 03/03/2006 CHA @ DAL L 18 2 1 8 12.5 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -13
+p226
+aVRaymond Felton CHA 03/03/2006 CHA @ DAL L 36 11 4 10 40.0 2 4 50.0 1 2 50.0 1 2 3 6 1 0 2 4 -18
+p227
+aVMatt Carroll CHA 03/03/2006 CHA @ DAL L 17 2 1 8 12.5 0 3 0.0 0 0 - 2 1 3 0 0 1 0 2 1
+p228
+aVJake Voskuhl CHA 03/03/2006 CHA @ DAL L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -2
+p229
+aVLonny Baxter CHA 03/03/2006 CHA @ DAL L 12 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 0 1 0 0 1 4
+p230
+aVBrevin Knight CHA 03/03/2006 CHA @ DAL L 32 7 2 8 25.0 0 0 - 3 3 100.0 1 3 4 5 2 0 3 1 -12
+p231
+aVJake Voskuhl CHA 03/01/2006 CHA @ UTA W 13 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 1 0 0 4 7
+p232
+aVRaymond Felton CHA 03/01/2006 CHA @ UTA W 38 11 4 9 44.4 3 4 75.0 0 0 - 1 2 3 6 0 0 2 1 7
+p233
+aVPrimoz Brezec CHA 03/01/2006 CHA @ UTA W 35 16 8 13 61.5 0 0 - 0 1 0.0 0 6 6 0 0 0 0 3 8
+p234
+aVJumaine Jones CHA 03/01/2006 CHA @ UTA W 28 11 3 11 27.3 2 7 28.6 3 4 75.0 0 6 6 1 1 0 0 4 5
+p235
+aVBrevin Knight CHA 03/01/2006 CHA @ UTA W 34 19 5 8 62.5 0 0 - 9 9 100.0 0 2 2 10 3 0 3 5 8
+p236
+aVGerald Wallace CHA 03/01/2006 CHA @ UTA W 41 19 6 7 85.7 0 0 - 7 10 70.0 1 4 5 2 4 2 0 3 12
+p237
+aVMatt Carroll CHA 03/01/2006 CHA @ UTA W 14 6 2 6 33.3 1 2 50.0 1 1 100.0 0 3 3 0 0 0 1 3 13
+p238
+aVKareem Rush CHA 03/01/2006 CHA @ UTA W 19 9 3 7 42.9 1 3 33.3 2 2 100.0 1 0 1 2 1 1 1 3 7
+p239
+aVMelvin Ely CHA 03/01/2006 CHA @ UTA W 19 7 2 3 66.7 0 0 - 3 4 75.0 0 4 4 2 0 0 2 2 8
+p240
+aVRaymond Felton CHA 02/27/2006 CHA @ LAC L 28 4 1 7 14.3 0 0 - 2 2 100.0 1 0 1 2 0 0 4 1 -1
+p241
+aVMatt Carroll CHA 02/27/2006 CHA @ LAC L 23 4 1 6 16.7 0 3 0.0 2 4 50.0 0 2 2 2 2 0 0 3 -16
+p242
+aVPrimoz Brezec CHA 02/27/2006 CHA @ LAC L 20 14 6 9 66.7 0 0 - 2 3 66.7 0 4 4 0 0 0 0 3 -10
+p243
+aVGerald Wallace CHA 02/27/2006 CHA @ LAC L 38 15 7 13 53.8 0 0 - 1 1 100.0 3 13 16 1 2 1 5 4 -10
+p244
+aVMelvin Ely CHA 02/27/2006 CHA @ LAC L 19 9 4 6 66.7 0 0 - 1 2 50.0 1 3 4 0 1 1 3 5 -3
+p245
+aVJumaine Jones CHA 02/27/2006 CHA @ LAC L 34 17 7 15 46.7 3 7 42.9 0 0 - 2 2 4 0 1 0 2 4 -14
+p246
+aVJake Voskuhl CHA 02/27/2006 CHA @ LAC L 20 9 4 7 57.1 0 1 0.0 1 2 50.0 1 4 5 0 2 0 2 3 13
+p247
+aVKareem Rush CHA 02/27/2006 CHA @ LAC L 15 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 1 1 8
+p248
+aVBernard Robinson CHA 02/27/2006 CHA @ LAC L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p249
+aVBrevin Knight CHA 02/27/2006 CHA @ LAC L 39 12 3 12 25.0 0 0 - 6 6 100.0 0 3 3 17 2 0 4 2 -8
+p250
+aVPrimoz Brezec CHA 02/25/2006 CHA @ PHX L 20 13 4 9 44.4 0 0 - 5 6 83.3 3 6 9 0 0 0 1 2 2
+p251
+aVGerald Wallace CHA 02/25/2006 CHA @ PHX L 35 18 8 19 42.1 0 0 - 2 3 66.7 3 6 9 3 0 0 4 5 -14
+p252
+aVJake Voskuhl CHA 02/25/2006 CHA @ PHX L 12 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -9
+p253
+aVBernard Robinson CHA 02/25/2006 CHA @ PHX L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -9
+p254
+aVKareem Rush CHA 02/25/2006 CHA @ PHX L 21 4 2 8 25.0 0 4 0.0 0 0 - 0 2 2 0 1 1 0 1 -21
+p255
+aVMatt Carroll CHA 02/25/2006 CHA @ PHX L 26 17 7 11 63.6 2 3 66.7 1 1 100.0 1 4 5 0 2 0 1 2 -6
+p256
+aVJumaine Jones CHA 02/25/2006 CHA @ PHX L 41 22 8 12 66.7 5 7 71.4 1 2 50.0 0 6 6 3 1 0 1 1 -8
+p257
+aVRaymond Felton CHA 02/25/2006 CHA @ PHX L 37 31 13 21 61.9 4 6 66.7 1 1 100.0 1 2 3 3 0 0 3 4 -7
+p258
+aVBrevin Knight CHA 02/25/2006 CHA @ PHX L 35 8 4 15 26.7 0 0 - 0 0 - 0 2 2 14 2 0 0 5 -6
+p259
+aVKevin Burleson CHA 02/25/2006 CHA @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p260
+aVPrimoz Brezec CHA 02/22/2006 CHA @ POR W 23 19 9 14 64.3 0 0 - 1 1 100.0 2 3 5 0 0 0 0 2 -10
+p261
+aVMatt Carroll CHA 02/22/2006 CHA @ POR W 23 11 4 9 44.4 1 2 50.0 2 2 100.0 1 7 8 1 1 0 0 0 11
+p262
+aVMelvin Ely CHA 02/22/2006 CHA @ POR W 23 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 1 1 1 1 5
+p263
+aVRaymond Felton CHA 02/22/2006 CHA @ POR W 34 10 4 12 33.3 0 1 0.0 2 2 100.0 3 1 4 10 0 0 3 3 9
+p264
+aVKareem Rush CHA 02/22/2006 CHA @ POR W 30 28 12 14 85.7 4 5 80.0 0 2 0.0 1 3 4 2 0 0 0 1 2
+p265
+aVBrevin Knight CHA 02/22/2006 CHA @ POR W 40 8 3 10 30.0 0 0 - 2 2 100.0 0 3 3 13 2 0 1 2 -5
+p266
+aVJumaine Jones CHA 02/22/2006 CHA @ POR W 39 15 7 18 38.9 1 5 20.0 0 0 - 2 3 5 1 0 0 1 5 -8
+p267
+aVGerald Wallace CHA 02/22/2006 CHA @ POR W 28 15 5 8 62.5 0 0 - 5 8 62.5 2 5 7 1 2 4 1 3 16
+p268
+aVAlan Anderson CHA 02/21/2006 CHA @ DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p269
+aVMatt Carroll CHA 02/21/2006 CHA @ DEN L 25 13 5 12 41.7 1 3 33.3 2 2 100.0 0 1 1 0 0 0 2 3 2
+p270
+aVMelvin Ely CHA 02/21/2006 CHA @ DEN L 22 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 2 0 0 1 3 -18
+p271
+aVBrevin Knight CHA 02/21/2006 CHA @ DEN L 33 7 3 12 25.0 0 0 - 1 3 33.3 1 3 4 8 4 0 3 3 -18
+p272
+aVRaymond Felton CHA 02/21/2006 CHA @ DEN L 34 14 5 16 31.3 1 3 33.3 3 3 100.0 2 2 4 11 4 1 2 2 -14
+p273
+aVKevin Burleson CHA 02/21/2006 CHA @ DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p274
+aVLonny Baxter CHA 02/21/2006 CHA @ DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p275
+aVJake Voskuhl CHA 02/21/2006 CHA @ DEN L 19 11 4 6 66.7 0 0 - 3 3 100.0 2 1 3 1 0 0 0 3 1
+p276
+aVJumaine Jones CHA 02/21/2006 CHA @ DEN L 39 13 5 15 33.3 1 7 14.3 2 3 66.7 2 5 7 0 1 0 4 2 -10
+p277
+aVPrimoz Brezec CHA 02/21/2006 CHA @ DEN L 27 8 4 10 40.0 0 0 - 0 0 - 3 3 6 2 2 0 1 2 -15
+p278
+aVKareem Rush CHA 02/21/2006 CHA @ DEN L 13 2 1 7 14.3 0 2 0.0 0 1 0.0 0 7 7 0 0 1 0 1 -4
+p279
+aVBernard Robinson CHA 02/21/2006 CHA @ DEN L 21 13 6 10 60.0 0 0 - 1 1 100.0 1 2 3 1 0 0 2 2 8
+p280
+aVRaymond Felton CHA 02/15/2006 CHA vs. NJN L 36 8 3 10 30.0 0 2 0.0 2 2 100.0 2 4 6 5 2 0 4 2 3
+p281
+aVLonny Baxter CHA 02/15/2006 CHA vs. NJN L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -10
+p282
+aVBernard Robinson CHA 02/15/2006 CHA vs. NJN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -2
+p283
+aVBrevin Knight CHA 02/15/2006 CHA vs. NJN L 40 28 10 15 66.7 1 1 100.0 7 10 70.0 1 1 2 3 1 0 3 3 -3
+p284
+aVMatt Carroll CHA 02/15/2006 CHA vs. NJN L 25 14 5 10 50.0 2 3 66.7 2 2 100.0 0 2 2 3 0 1 0 3 2
+p285
+aVJake Voskuhl CHA 02/15/2006 CHA vs. NJN L 24 4 2 6 33.3 0 0 - 0 0 - 0 3 3 0 1 0 2 4 -5
+p286
+aVMelvin Ely CHA 02/15/2006 CHA vs. NJN L 40 15 5 12 41.7 0 0 - 5 5 100.0 3 6 9 2 0 3 2 5 7
+p287
+aVKareem Rush CHA 02/15/2006 CHA vs. NJN L 27 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 3 0 0 0 2 1
+p288
+aVJumaine Jones CHA 02/15/2006 CHA vs. NJN L 38 18 7 12 58.3 1 1 100.0 3 3 100.0 2 6 8 2 0 1 1 2 2
+p289
+aVBrevin Knight CHA 02/13/2006 CHA vs. POR L 43 14 4 11 36.4 0 1 0.0 6 7 85.7 1 5 6 9 2 0 7 2 -6
+p290
+aVPrimoz Brezec CHA 02/13/2006 CHA vs. POR L 30 14 6 9 66.7 0 0 - 2 5 40.0 1 3 4 1 1 1 1 2 -2
+p291
+aVJumaine Jones CHA 02/13/2006 CHA vs. POR L 31 9 3 11 27.3 2 7 28.6 1 2 50.0 5 4 9 1 0 0 3 3 -3
+p292
+aVKareem Rush CHA 02/13/2006 CHA vs. POR L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -6
+p293
+aVBernard Robinson CHA 02/13/2006 CHA vs. POR L 28 14 5 8 62.5 0 0 - 4 6 66.7 2 7 9 1 2 1 0 3 -6
+p294
+aVAlan Anderson CHA 02/13/2006 CHA vs. POR L 9 4 1 3 33.3 1 3 33.3 1 2 50.0 0 1 1 0 0 1 0 0 3
+p295
+aVLonny Baxter CHA 02/13/2006 CHA vs. POR L 6 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 2 1 -5
+p296
+aVMelvin Ely CHA 02/13/2006 CHA vs. POR L 27 6 1 4 25.0 0 0 - 4 4 100.0 1 3 4 0 0 1 3 4 -6
+p297
+aVMatt Carroll CHA 02/13/2006 CHA vs. POR L 16 4 1 7 14.3 0 4 0.0 2 3 66.7 0 2 2 1 1 0 0 0 -7
+p298
+aVRaymond Felton CHA 02/13/2006 CHA vs. POR L 44 16 5 13 38.5 2 5 40.0 4 4 100.0 0 4 4 3 3 1 3 2 -2
+p299
+aVBernard Robinson CHA 02/11/2006 CHA @ MIL L 13 4 1 4 25.0 0 1 0.0 2 3 66.7 0 0 0 0 1 0 0 1 -18
+p300
+aVJake Voskuhl CHA 02/11/2006 CHA @ MIL L 14 8 3 4 75.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 4 -7
+p301
+aVMelvin Ely CHA 02/11/2006 CHA @ MIL L 36 21 8 12 66.7 0 0 - 5 7 71.4 4 3 7 5 0 0 3 5 9
+p302
+aVRaymond Felton CHA 02/11/2006 CHA @ MIL L 30 14 5 10 50.0 2 4 50.0 2 3 66.7 1 5 6 8 1 0 5 3 1
+p303
+aVLonny Baxter CHA 02/11/2006 CHA @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p304
+aVJumaine Jones CHA 02/11/2006 CHA @ MIL L 43 12 4 13 30.8 2 9 22.2 2 2 100.0 0 6 6 3 1 4 1 3 4
+p305
+aVMatt Carroll CHA 02/11/2006 CHA @ MIL L 43 17 6 16 37.5 2 7 28.6 3 4 75.0 1 6 7 3 3 0 2 4 3
+p306
+aVKevin Burleson CHA 02/11/2006 CHA @ MIL L 19 2 0 4 0.0 0 1 0.0 2 2 100.0 0 4 4 4 1 0 1 6 -4
+p307
+aVAlan Anderson CHA 02/11/2006 CHA @ MIL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -12
+p308
+aVPrimoz Brezec CHA 02/11/2006 CHA @ MIL L 34 15 6 12 50.0 0 0 - 3 3 100.0 0 3 3 2 0 1 1 3 0
+p309
+aVBernard Robinson CHA 02/10/2006 CHA vs. TOR L 22 9 3 5 60.0 0 0 - 3 5 60.0 1 3 4 2 3 0 2 2 3
+p310
+aVAlan Anderson CHA 02/10/2006 CHA vs. TOR L 21 6 2 5 40.0 1 2 50.0 1 1 100.0 0 1 1 0 3 0 3 2 13
+p311
+aVLonny Baxter CHA 02/10/2006 CHA vs. TOR L 12 5 0 2 0.0 0 0 - 5 6 83.3 1 3 4 0 0 0 1 0 5
+p312
+aVKevin Burleson CHA 02/10/2006 CHA vs. TOR L 36 0 0 6 0.0 0 4 0.0 0 0 - 0 2 2 2 3 0 2 2 -14
+p313
+aVPrimoz Brezec CHA 02/10/2006 CHA vs. TOR L 26 8 3 7 42.9 0 0 - 2 4 50.0 1 4 5 0 0 0 0 1 -15
+p314
+aVJumaine Jones CHA 02/10/2006 CHA vs. TOR L 30 6 2 10 20.0 2 6 33.3 0 0 - 0 4 4 1 1 0 0 2 -33
+p315
+aVMatt Carroll CHA 02/10/2006 CHA vs. TOR L 34 26 8 15 53.3 5 7 71.4 5 6 83.3 1 5 6 0 2 0 2 2 4
+p316
+aVKareem Rush CHA 02/10/2006 CHA vs. TOR L 27 7 2 10 20.0 0 1 0.0 3 4 75.0 1 2 3 4 2 0 6 5 -18
+p317
+aVMelvin Ely CHA 02/10/2006 CHA vs. TOR L 19 4 1 4 25.0 0 0 - 2 4 50.0 4 5 9 1 1 0 3 4 -7
+p318
+aVJake Voskuhl CHA 02/10/2006 CHA vs. TOR L 13 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -13
+p319
+aVBrevin Knight CHA 02/08/2006 CHA vs. PHI W 44 13 5 12 41.7 0 0 - 3 5 60.0 1 5 6 14 2 0 4 3 12
+p320
+aVMelvin Ely CHA 02/08/2006 CHA vs. PHI W 33 19 9 18 50.0 0 0 - 1 2 50.0 6 4 10 3 0 1 2 4 9
+p321
+aVPrimoz Brezec CHA 02/08/2006 CHA vs. PHI W 28 12 5 13 38.5 0 0 - 2 2 100.0 2 5 7 0 0 1 2 2 3
+p322
+aVMatt Carroll CHA 02/08/2006 CHA vs. PHI W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p323
+aVJumaine Jones CHA 02/08/2006 CHA vs. PHI W 38 14 5 10 50.0 3 5 60.0 1 2 50.0 2 12 14 1 2 0 1 1 8
+p324
+aVRaymond Felton CHA 02/08/2006 CHA vs. PHI W 30 15 7 15 46.7 1 5 20.0 0 0 - 1 2 3 5 0 0 2 1 -5
+p325
+aVJake Voskuhl CHA 02/08/2006 CHA vs. PHI W 15 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 0 0 1 7
+p326
+aVKareem Rush CHA 02/08/2006 CHA vs. PHI W 22 13 5 14 35.7 2 5 40.0 1 1 100.0 1 1 2 0 1 0 0 0 9
+p327
+aVBernard Robinson CHA 02/08/2006 CHA vs. PHI W 23 12 5 9 55.6 0 1 0.0 2 2 100.0 3 3 6 0 5 0 3 3 2
+p328
+aVJumaine Jones CHA 02/06/2006 CHA vs. SEA W 32 23 9 17 52.9 3 7 42.9 2 5 40.0 3 4 7 1 2 0 1 6 19
+p329
+aVKevin Burleson CHA 02/06/2006 CHA vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p330
+aVMatt Carroll CHA 02/06/2006 CHA vs. SEA W 5 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p331
+aVBrevin Knight CHA 02/06/2006 CHA vs. SEA W 39 15 6 12 50.0 0 0 - 3 4 75.0 2 5 7 9 6 0 3 4 12
+p332
+aVMelvin Ely CHA 02/06/2006 CHA vs. SEA W 37 23 11 16 68.8 0 0 - 1 1 100.0 1 4 5 3 0 2 4 4 13
+p333
+aVRaymond Felton CHA 02/06/2006 CHA vs. SEA W 45 24 8 11 72.7 2 2 100.0 6 6 100.0 2 3 5 9 0 0 4 3 16
+p334
+aVPrimoz Brezec CHA 02/06/2006 CHA vs. SEA W 17 3 1 1 100.0 0 0 - 1 4 25.0 1 3 4 3 0 0 1 4 13
+p335
+aVKareem Rush CHA 02/06/2006 CHA vs. SEA W 25 7 2 5 40.0 2 3 66.7 1 2 50.0 0 2 2 1 2 1 2 2 -9
+p336
+aVBernard Robinson CHA 02/06/2006 CHA vs. SEA W 27 16 6 12 50.0 1 1 100.0 3 4 75.0 1 1 2 2 2 0 0 4 10
+p337
+aVJake Voskuhl CHA 02/06/2006 CHA vs. SEA W 13 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 0 3 2 3 3
+p338
+aVMelvin Ely CHA 02/03/2006 CHA vs. LAL W 33 11 4 9 44.4 0 0 - 3 5 60.0 1 5 6 3 0 2 2 5 8
+p339
+aVJumaine Jones CHA 02/03/2006 CHA vs. LAL W 41 31 13 20 65.0 5 8 62.5 0 0 - 4 5 9 0 3 0 0 5 14
+p340
+aVJake Voskuhl CHA 02/03/2006 CHA vs. LAL W 17 7 2 4 50.0 0 0 - 3 5 60.0 2 1 3 1 1 0 1 3 0
+p341
+aVKareem Rush CHA 02/03/2006 CHA vs. LAL W 21 10 3 9 33.3 1 4 25.0 3 4 75.0 0 2 2 0 2 0 1 1 -2
+p342
+aVBernard Robinson CHA 02/03/2006 CHA vs. LAL W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 1 0 0 2 -3
+p343
+aVPrimoz Brezec CHA 02/03/2006 CHA vs. LAL W 39 22 9 21 42.9 0 0 - 4 5 80.0 2 4 6 0 0 1 1 3 12
+p344
+aVRaymond Felton CHA 02/03/2006 CHA vs. LAL W 38 16 4 9 44.4 2 3 66.7 6 9 66.7 3 4 7 8 4 0 3 5 12
+p345
+aVBrevin Knight CHA 02/03/2006 CHA vs. LAL W 40 15 4 8 50.0 0 0 - 7 8 87.5 0 4 4 10 6 0 8 5 9
+p346
+aVAlan Anderson CHA 02/01/2006 CHA vs. ATL L 16 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 1 0 0 1 4 -1
+p347
+aVJake Voskuhl CHA 02/01/2006 CHA vs. ATL L 17 8 4 6 66.7 0 0 - 0 0 - 0 0 0 0 2 0 0 4 -4
+p348
+aVBrevin Knight CHA 02/01/2006 CHA vs. ATL L 40 19 6 17 35.3 0 1 0.0 7 8 87.5 0 4 4 10 3 0 2 2 -6
+p349
+aVRaymond Felton CHA 02/01/2006 CHA vs. ATL L 41 20 8 16 50.0 2 4 50.0 2 3 66.7 3 4 7 7 2 0 5 4 -10
+p350
+aVMatt Carroll CHA 02/01/2006 CHA vs. ATL L 22 10 5 11 45.5 0 1 0.0 0 1 0.0 2 2 4 1 0 0 0 3 0
+p351
+aVPrimoz Brezec CHA 02/01/2006 CHA vs. ATL L 24 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 0 0 2 3 5 -12
+p352
+aVJumaine Jones CHA 02/01/2006 CHA vs. ATL L 36 13 6 13 46.2 1 7 14.3 0 0 - 2 5 7 0 2 0 1 5 -3
+p353
+aVKareem Rush CHA 02/01/2006 CHA vs. ATL L 13 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -13
+p354
+aVBernard Robinson CHA 02/01/2006 CHA vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -8
+p355
+aVMelvin Ely CHA 02/01/2006 CHA vs. ATL L 25 11 4 8 50.0 0 0 - 3 3 100.0 2 5 7 2 0 0 2 2 3
+p356
+aVKevin Burleson CHA 02/01/2006 CHA vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p357
+aVBrevin Knight CHA 01/30/2006 CHA vs. CLE L 36 7 3 10 30.0 0 0 - 1 2 50.0 1 2 3 14 2 2 4 3 -11
+p358
+aVKareem Rush CHA 01/30/2006 CHA vs. CLE L 16 9 4 10 40.0 1 5 20.0 0 0 - 0 2 2 0 1 0 0 0 -4
+p359
+aVKevin Burleson CHA 01/30/2006 CHA vs. CLE L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 3 -1
+p360
+aVPrimoz Brezec CHA 01/30/2006 CHA vs. CLE L 26 9 3 7 42.9 0 0 - 3 6 50.0 1 2 3 1 0 2 0 1 -27
+p361
+aVMatt Carroll CHA 01/30/2006 CHA vs. CLE L 19 12 4 9 44.4 1 4 25.0 3 5 60.0 1 4 5 0 2 0 5 2 4
+p362
+aVMelvin Ely CHA 01/30/2006 CHA vs. CLE L 23 12 6 9 66.7 0 0 - 0 0 - 0 4 4 2 1 0 1 4 -2
+p363
+aVAlan Anderson CHA 01/30/2006 CHA vs. CLE L 14 14 5 8 62.5 0 1 0.0 4 5 80.0 0 1 1 1 0 0 1 0 9
+p364
+aVJake Voskuhl CHA 01/30/2006 CHA vs. CLE L 25 8 4 4 100.0 0 0 - 0 0 - 6 6 12 3 0 1 2 3 6
+p365
+aVBernard Robinson CHA 01/30/2006 CHA vs. CLE L 27 6 3 9 33.3 0 0 - 0 0 - 3 2 5 1 2 0 1 2 2
+p366
+aVRaymond Felton CHA 01/30/2006 CHA vs. CLE L 13 3 1 4 25.0 0 1 0.0 1 3 33.3 0 0 0 1 2 0 1 2 -12
+p367
+aVJumaine Jones CHA 01/30/2006 CHA vs. CLE L 29 11 4 11 36.4 3 8 37.5 0 0 - 2 2 4 2 0 0 1 3 -24
+p368
+aVRaymond Felton CHA 01/28/2006 CHA @ WAS L 43 18 7 16 43.8 1 3 33.3 3 3 100.0 2 2 4 13 3 0 1 4 -3
+p369
+aVAlan Anderson CHA 01/28/2006 CHA @ WAS L 16 8 3 9 33.3 2 4 50.0 0 0 - 1 2 3 0 0 0 0 3 -6
+p370
+aVPrimoz Brezec CHA 01/28/2006 CHA @ WAS L 35 27 12 17 70.6 0 0 - 3 5 60.0 1 11 12 0 1 0 0 6 -1
+p371
+aVBernard Robinson CHA 01/28/2006 CHA @ WAS L 27 12 3 7 42.9 0 1 0.0 6 7 85.7 0 4 4 2 2 0 0 2 -1
+p372
+aVJumaine Jones CHA 01/28/2006 CHA @ WAS L 26 6 2 7 28.6 2 6 33.3 0 0 - 0 3 3 1 0 0 0 3 -17
+p373
+aVMatt Carroll CHA 01/28/2006 CHA @ WAS L 38 13 4 12 33.3 3 6 50.0 2 2 100.0 2 0 2 0 2 0 3 5 -3
+p374
+aVJake Voskuhl CHA 01/28/2006 CHA @ WAS L 13 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 0 0 4 1
+p375
+aVKevin Burleson CHA 01/28/2006 CHA @ WAS L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -8
+p376
+aVMelvin Ely CHA 01/28/2006 CHA @ WAS L 34 11 5 12 41.7 0 0 - 1 4 25.0 0 3 3 4 0 2 2 4 -12
+p377
+aVRaymond Felton CHA 01/27/2006 CHA vs. MIA L 42 15 7 17 41.2 1 2 50.0 0 1 0.0 0 5 5 11 1 0 1 3 -1
+p378
+aVJumaine Jones CHA 01/27/2006 CHA vs. MIA L 37 12 4 15 26.7 2 8 25.0 2 2 100.0 1 2 3 3 2 0 1 4 -2
+p379
+aVMelvin Ely CHA 01/27/2006 CHA vs. MIA L 38 15 5 8 62.5 0 0 - 5 6 83.3 2 6 8 0 0 0 0 3 9
+p380
+aVJake Voskuhl CHA 01/27/2006 CHA vs. MIA L 20 4 2 7 28.6 0 0 - 0 0 - 3 1 4 1 1 0 2 1 -5
+p381
+aVKevin Burleson CHA 01/27/2006 CHA vs. MIA L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p382
+aVPrimoz Brezec CHA 01/27/2006 CHA vs. MIA L 37 19 8 14 57.1 0 0 - 3 4 75.0 3 9 12 0 1 1 2 5 -16
+p383
+aVBernard Robinson CHA 01/27/2006 CHA vs. MIA L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 1 0 -4
+p384
+aVMatt Carroll CHA 01/27/2006 CHA vs. MIA L 30 20 7 12 58.3 4 6 66.7 2 3 66.7 0 3 3 1 1 0 1 2 2
+p385
+aVAlan Anderson CHA 01/27/2006 CHA vs. MIA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p386
+aVBrevin Knight CHA 01/27/2006 CHA vs. MIA L 18 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 0 -5
+p387
+aVMatt Carroll CHA 01/25/2006 CHA @ HOU L 29 19 3 6 50.0 2 4 50.0 11 12 91.7 0 2 2 1 1 1 2 0 -8
+p388
+aVRaymond Felton CHA 01/25/2006 CHA @ HOU L 23 4 2 9 22.2 0 1 0.0 0 0 - 1 2 3 4 0 0 0 2 -21
+p389
+aVPrimoz Brezec CHA 01/25/2006 CHA @ HOU L 24 10 4 7 57.1 0 0 - 2 2 100.0 0 8 8 0 0 0 1 2 -20
+p390
+aVAlan Anderson CHA 01/25/2006 CHA @ HOU L 22 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 3
+p391
+aVKevin Burleson CHA 01/25/2006 CHA @ HOU L 11 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 1 -4
+p392
+aVBernard Robinson CHA 01/25/2006 CHA @ HOU L 21 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 2 5 -14
+p393
+aVBrevin Knight CHA 01/25/2006 CHA @ HOU L 31 14 6 9 66.7 0 0 - 2 2 100.0 1 4 5 7 2 0 5 2 -16
+p394
+aVJake Voskuhl CHA 01/25/2006 CHA @ HOU L 16 0 0 3 0.0 0 0 - 0 2 0.0 1 3 4 1 0 0 0 4 -8
+p395
+aVMelvin Ely CHA 01/25/2006 CHA @ HOU L 26 10 4 11 36.4 0 0 - 2 6 33.3 2 5 7 0 0 1 4 4 -11
+p396
+aVJumaine Jones CHA 01/25/2006 CHA @ HOU L 37 11 4 9 44.4 3 7 42.9 0 0 - 0 1 1 2 0 0 1 2 -21
+p397
+aVAlan Anderson CHA 01/24/2006 CHA @ SAS L 18 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -14
+p398
+aVBrevin Knight CHA 01/24/2006 CHA @ SAS L 23 6 2 12 16.7 0 0 - 2 2 100.0 2 1 3 5 0 0 2 3 -14
+p399
+aVJumaine Jones CHA 01/24/2006 CHA @ SAS L 35 15 6 11 54.5 1 3 33.3 2 2 100.0 1 8 9 0 1 0 2 3 -19
+p400
+aVRaymond Felton CHA 01/24/2006 CHA @ SAS L 27 10 5 15 33.3 0 0 - 0 0 - 1 3 4 4 3 0 2 0 -19
+p401
+aVMatt Carroll CHA 01/24/2006 CHA @ SAS L 24 13 5 7 71.4 2 2 100.0 1 2 50.0 0 0 0 0 2 0 1 1 -14
+p402
+aVPrimoz Brezec CHA 01/24/2006 CHA @ SAS L 28 13 6 12 50.0 0 0 - 1 2 50.0 2 2 4 1 0 1 0 1 -21
+p403
+aVJake Voskuhl CHA 01/24/2006 CHA @ SAS L 18 6 3 7 42.9 0 0 - 0 0 - 1 3 4 0 2 0 1 2 -9
+p404
+aVBernard Robinson CHA 01/24/2006 CHA @ SAS L 27 2 1 6 16.7 0 0 - 0 0 - 1 3 4 1 2 0 1 1 -23
+p405
+aVKevin Burleson CHA 01/24/2006 CHA @ SAS L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 7 0 0 0 1 -6
+p406
+aVMelvin Ely CHA 01/24/2006 CHA @ SAS L 26 9 4 8 50.0 0 0 - 1 3 33.3 1 3 4 1 0 1 3 2 -1
+p407
+aVBrevin Knight CHA 01/21/2006 CHA @ MIL L 40 12 3 11 27.3 0 0 - 6 7 85.7 0 4 4 15 3 0 5 4 -20
+p408
+aVJake Voskuhl CHA 01/21/2006 CHA @ MIL L 17 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -16
+p409
+aVKevin Burleson CHA 01/21/2006 CHA @ MIL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 6
+p410
+aVMatt Carroll CHA 01/21/2006 CHA @ MIL L 17 8 2 5 40.0 1 3 33.3 3 5 60.0 0 0 0 0 2 0 0 3 -2
+p411
+aVKeith Bogans CHA 01/21/2006 CHA @ MIL L 20 10 4 8 50.0 1 2 50.0 1 1 100.0 3 0 3 0 1 0 1 2 -6
+p412
+aVPrimoz Brezec CHA 01/21/2006 CHA @ MIL L 37 21 10 18 55.6 0 0 - 1 2 50.0 3 8 11 0 2 0 1 3 -16
+p413
+aVBernard Robinson CHA 01/21/2006 CHA @ MIL L 22 9 3 8 37.5 0 0 - 3 4 75.0 0 4 4 0 1 1 2 2 1
+p414
+aVAlan Anderson CHA 01/21/2006 CHA @ MIL L 11 2 0 7 0.0 0 1 0.0 2 2 100.0 2 1 3 0 2 0 2 0 1
+p415
+aVJumaine Jones CHA 01/21/2006 CHA @ MIL L 41 18 6 10 60.0 1 3 33.3 5 5 100.0 5 3 8 1 2 0 0 2 4
+p416
+aVRaymond Felton CHA 01/21/2006 CHA @ MIL L 31 11 3 10 30.0 1 4 25.0 4 5 80.0 0 2 2 6 2 0 4 3 -2
+p417
+aVGerald Wallace CHA 01/20/2006 CHA vs. ORL L 28 12 4 11 36.4 0 1 0.0 4 6 66.7 3 4 7 0 1 2 1 0 -18
+p418
+aVJake Voskuhl CHA 01/20/2006 CHA vs. ORL L 20 5 1 6 16.7 0 0 - 3 6 50.0 1 6 7 1 0 0 0 5 -6
+p419
+aVKeith Bogans CHA 01/20/2006 CHA vs. ORL L 23 19 7 15 46.7 1 5 20.0 4 6 66.7 1 1 2 2 2 0 1 2 2
+p420
+aVMatt Carroll CHA 01/20/2006 CHA vs. ORL L 17 7 2 4 50.0 2 3 66.7 1 2 50.0 1 4 5 0 0 0 1 1 0
+p421
+aVPrimoz Brezec CHA 01/20/2006 CHA vs. ORL L 22 7 3 11 27.3 0 0 - 1 5 20.0 2 1 3 1 0 0 0 1 0
+p422
+aVBrevin Knight CHA 01/20/2006 CHA vs. ORL L 28 17 7 12 58.3 0 0 - 3 4 75.0 0 2 2 7 3 0 1 3 -14
+p423
+aVRaymond Felton CHA 01/20/2006 CHA vs. ORL L 26 10 4 8 50.0 0 1 0.0 2 4 50.0 2 3 5 4 1 0 2 1 -5
+p424
+aVKevin Burleson CHA 01/20/2006 CHA vs. ORL L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 4 6
+p425
+aVBernard Robinson CHA 01/20/2006 CHA vs. ORL L 15 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 1 1 1 2 1 -9
+p426
+aVJumaine Jones CHA 01/20/2006 CHA vs. ORL L 17 3 1 5 20.0 1 4 25.0 0 0 - 1 2 3 0 0 0 1 2 -9
+p427
+aVAlan Anderson CHA 01/20/2006 CHA vs. ORL L 33 10 4 9 44.4 2 6 33.3 0 0 - 2 2 4 1 0 0 2 3 -2
+p428
+aVAlan Anderson CHA 01/18/2006 CHA @ IND L 18 10 4 7 57.1 2 3 66.7 0 0 - 0 3 3 1 1 0 0 1 -1
+p429
+aVMatt Carroll CHA 01/18/2006 CHA @ IND L 12 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 0 0 1 0 1 2
+p430
+aVBrevin Knight CHA 01/18/2006 CHA @ IND L 41 15 5 15 33.3 0 0 - 5 6 83.3 0 4 4 15 5 0 3 3 -8
+p431
+aVBernard Robinson CHA 01/18/2006 CHA @ IND L 21 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 1 0 0
+p432
+aVKeith Bogans CHA 01/18/2006 CHA @ IND L 19 9 4 8 50.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 2 3 -7
+p433
+aVPrimoz Brezec CHA 01/18/2006 CHA @ IND L 31 15 7 14 50.0 0 0 - 1 2 50.0 1 1 2 2 0 0 0 3 -8
+p434
+aVGerald Wallace CHA 01/18/2006 CHA @ IND L 40 14 7 12 58.3 0 1 0.0 0 1 0.0 3 6 9 0 4 1 5 3 -4
+p435
+aVJumaine Jones CHA 01/18/2006 CHA @ IND L 26 5 2 7 28.6 1 3 33.3 0 0 - 1 1 2 4 0 2 2 5 0
+p436
+aVRaymond Felton CHA 01/18/2006 CHA @ IND L 32 15 6 11 54.5 1 3 33.3 2 2 100.0 3 1 4 4 0 0 0 3 -4
+p437
+aVJumaine Jones CHA 01/16/2006 CHA vs. NOK L 24 8 3 6 50.0 2 2 100.0 0 0 - 0 5 5 1 0 0 1 1 -24
+p438
+aVBrevin Knight CHA 01/16/2006 CHA vs. NOK L 23 5 1 5 20.0 0 0 - 3 4 75.0 0 4 4 2 1 0 1 5 -12
+p439
+aVMatt Carroll CHA 01/16/2006 CHA vs. NOK L 11 6 1 4 25.0 0 0 - 4 4 100.0 0 1 1 0 1 0 0 4 -1
+p440
+aVPrimoz Brezec CHA 01/16/2006 CHA vs. NOK L 27 18 6 11 54.5 0 0 - 6 6 100.0 3 0 3 1 0 1 0 3 0
+p441
+aVGerald Wallace CHA 01/16/2006 CHA vs. NOK L 39 19 8 13 61.5 0 0 - 3 6 50.0 1 6 7 0 3 6 1 3 -17
+p442
+aVKeith Bogans CHA 01/16/2006 CHA vs. NOK L 16 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 0 0 0 1 1 -18
+p443
+aVRaymond Felton CHA 01/16/2006 CHA vs. NOK L 36 16 3 10 30.0 0 2 0.0 10 13 76.9 1 4 5 7 0 1 8 2 -7
+p444
+aVKevin Burleson CHA 01/16/2006 CHA vs. NOK L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 3 0 0 2 3 3
+p445
+aVAlan Anderson CHA 01/16/2006 CHA vs. NOK L 23 6 2 8 25.0 2 5 40.0 0 0 - 0 1 1 4 0 0 0 2 2
+p446
+aVBernard Robinson CHA 01/16/2006 CHA vs. NOK L 31 10 3 12 25.0 0 1 0.0 4 6 66.7 2 7 9 1 2 0 3 3 -1
+p447
+aVGerald Wallace CHA 01/14/2006 CHA @ DET L 29 14 5 7 71.4 0 0 - 4 7 57.1 2 6 8 1 3 2 4 3 -6
+p448
+aVPrimoz Brezec CHA 01/14/2006 CHA @ DET L 37 18 8 16 50.0 0 0 - 2 4 50.0 3 1 4 0 0 0 1 3 -20
+p449
+aVKevin Burleson CHA 01/14/2006 CHA @ DET L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 2 0 1 1 -10
+p450
+aVMatt Carroll CHA 01/14/2006 CHA @ DET L 18 6 1 6 16.7 0 2 0.0 4 5 80.0 1 0 1 0 0 0 1 5 -15
+p451
+aVBernard Robinson CHA 01/14/2006 CHA @ DET L 28 11 5 9 55.6 0 0 - 1 1 100.0 0 5 5 1 1 0 1 4 -16
+p452
+aVAlan Anderson CHA 01/14/2006 CHA @ DET L 15 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 0 1 -3
+p453
+aVRaymond Felton CHA 01/14/2006 CHA @ DET L 27 9 4 6 66.7 1 1 100.0 0 2 0.0 0 0 0 3 0 0 2 2 -10
+p454
+aVKeith Bogans CHA 01/14/2006 CHA @ DET L 19 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -2
+p455
+aVJumaine Jones CHA 01/14/2006 CHA @ DET L 36 12 6 13 46.2 0 2 0.0 0 0 - 1 5 6 1 0 0 2 5 -27
+p456
+aVBrevin Knight CHA 01/14/2006 CHA @ DET L 20 10 4 7 57.1 0 0 - 2 2 100.0 0 0 0 5 1 0 0 1 -6
+p457
+aVBernard Robinson CHA 01/13/2006 CHA vs. MIL L 40 12 5 13 38.5 0 1 0.0 2 4 50.0 0 2 2 3 3 1 2 5 0
+p458
+aVKevin Burleson CHA 01/13/2006 CHA vs. MIL L 13 2 1 6 16.7 0 5 0.0 0 0 - 0 0 0 2 1 0 0 5 -4
+p459
+aVPrimoz Brezec CHA 01/13/2006 CHA vs. MIL L 27 2 1 7 14.3 0 0 - 0 1 0.0 0 1 1 0 0 1 0 3 -15
+p460
+aVAlan Anderson CHA 01/13/2006 CHA vs. MIL L 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p461
+aVRaymond Felton CHA 01/13/2006 CHA vs. MIL L 37 19 8 16 50.0 3 7 42.9 0 3 0.0 5 3 8 6 1 1 4 1 4
+p462
+aVKeith Bogans CHA 01/13/2006 CHA vs. MIL L 32 16 6 11 54.5 1 4 25.0 3 4 75.0 1 2 3 2 3 0 4 4 -8
+p463
+aVJumaine Jones CHA 01/13/2006 CHA vs. MIL L 29 13 5 16 31.3 3 8 37.5 0 0 - 4 3 7 2 2 1 2 2 0
+p464
+aVGerald Wallace CHA 01/13/2006 CHA vs. MIL L 43 21 10 14 71.4 0 0 - 1 2 50.0 1 14 15 4 8 4 1 2 4
+p465
+aVMatt Carroll CHA 01/13/2006 CHA vs. MIL L 14 12 3 6 50.0 1 3 33.3 5 5 100.0 0 2 2 1 1 0 0 2 21
+p466
+aVKeith Bogans CHA 01/11/2006 CHA @ TOR L 28 8 2 10 20.0 0 3 0.0 4 7 57.1 0 6 6 3 2 0 3 2 -6
+p467
+aVJumaine Jones CHA 01/11/2006 CHA @ TOR L 33 17 7 8 87.5 3 3 100.0 0 0 - 0 4 4 0 1 1 0 5 1
+p468
+aVKevin Burleson CHA 01/11/2006 CHA @ TOR L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 2 0 0 1 4 9
+p469
+aVBernard Robinson CHA 01/11/2006 CHA @ TOR L 25 6 1 3 33.3 0 0 - 4 4 100.0 1 2 3 2 0 0 2 2 -2
+p470
+aVBrevin Knight CHA 01/11/2006 CHA @ TOR L 12 1 0 5 0.0 0 0 - 1 2 50.0 0 2 2 3 1 0 1 1 -4
+p471
+aVMatt Carroll CHA 01/11/2006 CHA @ TOR L 16 10 3 8 37.5 1 2 50.0 3 3 100.0 1 0 1 0 0 0 1 1 -6
+p472
+aVPrimoz Brezec CHA 01/11/2006 CHA @ TOR L 41 16 5 15 33.3 0 0 - 6 6 100.0 2 6 8 0 1 0 1 4 -7
+p473
+aVRaymond Felton CHA 01/11/2006 CHA @ TOR L 29 8 4 10 40.0 0 1 0.0 0 0 - 3 3 6 4 0 0 3 4 -16
+p474
+aVGerald Wallace CHA 01/11/2006 CHA @ TOR L 42 15 5 9 55.6 1 2 50.0 4 4 100.0 1 6 7 1 3 1 3 3 -14
+p475
+aVBernard Robinson CHA 01/10/2006 CHA vs. HOU W 27 7 3 6 50.0 0 0 - 1 2 50.0 0 4 4 1 1 0 2 2 0
+p476
+aVRaymond Felton CHA 01/10/2006 CHA vs. HOU W 46 13 5 9 55.6 1 3 33.3 2 2 100.0 1 6 7 3 2 0 1 0 9
+p477
+aVMatt Carroll CHA 01/10/2006 CHA vs. HOU W 7 3 1 4 25.0 0 1 0.0 1 1 100.0 1 0 1 1 0 0 0 0 2
+p478
+aVKeith Bogans CHA 01/10/2006 CHA vs. HOU W 17 2 0 5 0.0 0 2 0.0 2 2 100.0 0 2 2 2 2 0 5 2 -13
+p479
+aVGerald Wallace CHA 01/10/2006 CHA vs. HOU W 51 26 9 15 60.0 0 1 0.0 8 9 88.9 5 9 14 1 3 4 1 3 8
+p480
+aVEmeka Okafor CHA 01/10/2006 CHA vs. HOU W 35 21 8 14 57.1 0 0 - 5 7 71.4 3 5 8 0 0 2 1 3 -2
+p481
+aVKevin Burleson CHA 01/10/2006 CHA vs. HOU W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 3
+p482
+aVPrimoz Brezec CHA 01/10/2006 CHA vs. HOU W 39 20 7 13 53.8 0 0 - 6 8 75.0 4 5 9 0 0 1 3 2 16
+p483
+aVJumaine Jones CHA 01/10/2006 CHA vs. HOU W 18 2 1 7 14.3 0 1 0.0 0 0 - 1 2 3 0 2 2 0 1 -7
+p484
+aVBrevin Knight CHA 01/10/2006 CHA vs. HOU W 44 15 5 16 31.3 1 2 50.0 4 6 66.7 2 2 4 18 1 0 1 4 9
+p485
+aVKevin Burleson CHA 01/07/2006 CHA @ ORL L 12 6 1 2 50.0 0 1 0.0 4 4 100.0 1 1 2 1 4 0 2 6 3
+p486
+aVRaymond Felton CHA 01/07/2006 CHA @ ORL L 30 9 3 10 30.0 1 2 50.0 2 2 100.0 0 2 2 1 0 0 2 4 -1
+p487
+aVMatt Carroll CHA 01/07/2006 CHA @ ORL L 13 9 3 7 42.9 0 1 0.0 3 4 75.0 1 2 3 1 1 0 0 2 -1
+p488
+aVPrimoz Brezec CHA 01/07/2006 CHA @ ORL L 29 10 5 12 41.7 0 0 - 0 0 - 2 1 3 0 0 0 2 5 -23
+p489
+aVKeith Bogans CHA 01/07/2006 CHA @ ORL L 30 22 6 13 46.2 3 5 60.0 7 10 70.0 2 2 4 1 0 0 0 4 -14
+p490
+aVBrevin Knight CHA 01/07/2006 CHA @ ORL L 28 9 3 11 27.3 0 0 - 3 3 100.0 2 2 4 6 2 0 2 0 -24
+p491
+aVAlan Anderson CHA 01/07/2006 CHA @ ORL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 9
+p492
+aVJumaine Jones CHA 01/07/2006 CHA @ ORL L 34 10 4 14 28.6 2 6 33.3 0 0 - 2 2 4 1 1 0 2 4 -9
+p493
+aVBernard Robinson CHA 01/07/2006 CHA @ ORL L 22 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 3 0 0 0 4 -9
+p494
+aVGerald Wallace CHA 01/07/2006 CHA @ ORL L 36 12 4 7 57.1 0 0 - 4 11 36.4 3 7 10 0 4 3 3 1 -11
+p495
+aVBernard Robinson CHA 01/04/2006 CHA @ BOS L 26 11 4 14 28.6 0 1 0.0 3 3 100.0 2 2 4 1 0 0 1 4 5
+p496
+aVGerald Wallace CHA 01/04/2006 CHA @ BOS L 38 20 6 12 50.0 0 0 - 8 12 66.7 5 4 9 0 2 5 0 3 4
+p497
+aVPrimoz Brezec CHA 01/04/2006 CHA @ BOS L 32 19 9 12 75.0 0 0 - 1 3 33.3 3 3 6 0 1 1 2 3 0
+p498
+aVMatt Carroll CHA 01/04/2006 CHA @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p499
+aVJumaine Jones CHA 01/04/2006 CHA @ BOS L 38 21 9 17 52.9 1 2 50.0 2 5 40.0 3 6 9 2 2 0 0 6 -3
+p500
+aVKareem Rush CHA 01/04/2006 CHA @ BOS L 11 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -9
+p501
+aVKeith Bogans CHA 01/04/2006 CHA @ BOS L 31 13 5 13 38.5 0 2 0.0 3 4 75.0 2 2 4 3 3 0 0 1 4
+p502
+aVJake Voskuhl CHA 01/04/2006 CHA @ BOS L 8 2 0 3 0.0 0 0 - 2 2 100.0 2 0 2 1 1 0 0 3 0
+p503
+aVBrevin Knight CHA 01/04/2006 CHA @ BOS L 40 18 6 16 37.5 0 0 - 6 6 100.0 0 3 3 12 6 0 1 2 0
+p504
+aVRaymond Felton CHA 01/04/2006 CHA @ BOS L 15 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 2 1 0 1 1 -10
+p505
+aVBernard Robinson CHA 01/02/2006 CHA @ NOK L 28 11 5 8 62.5 0 0 - 1 2 50.0 4 8 12 2 1 0 3 4 -12
+p506
+aVRaymond Felton CHA 01/02/2006 CHA @ NOK L 16 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 4 4 -6
+p507
+aVKareem Rush CHA 01/02/2006 CHA @ NOK L 30 5 2 9 22.2 1 6 16.7 0 0 - 0 0 0 0 1 1 2 0 3
+p508
+aVJumaine Jones CHA 01/02/2006 CHA @ NOK L 34 7 3 9 33.3 1 4 25.0 0 0 - 6 5 11 1 1 0 2 3 -18
+p509
+aVPrimoz Brezec CHA 01/02/2006 CHA @ NOK L 22 13 5 6 83.3 0 0 - 3 4 75.0 2 2 4 1 0 2 1 5 -6
+p510
+aVKeith Bogans CHA 01/02/2006 CHA @ NOK L 20 11 3 12 25.0 2 5 40.0 3 4 75.0 2 4 6 0 1 0 2 3 -14
+p511
+aVGerald Wallace CHA 01/02/2006 CHA @ NOK L 41 14 5 11 45.5 0 0 - 4 7 57.1 2 4 6 4 1 2 2 2 -15
+p512
+aVMatt Carroll CHA 01/02/2006 CHA @ NOK L 10 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 0 0 0 0 3 -9
+p513
+aVBrevin Knight CHA 01/02/2006 CHA @ NOK L 39 19 8 15 53.3 0 1 0.0 3 5 60.0 1 2 3 4 1 0 4 5 -8
+p514
+aVJumaine Jones CHA 12/30/2005 CHA vs. PHX L 19 12 4 8 50.0 3 5 60.0 1 2 50.0 2 4 6 0 1 0 1 3 2
+p515
+aVRaymond Felton CHA 12/30/2005 CHA vs. PHX L 29 8 2 8 25.0 1 3 33.3 3 6 50.0 1 3 4 7 0 0 2 2 -3
+p516
+aVGerald Wallace CHA 12/30/2005 CHA vs. PHX L 35 15 7 12 58.3 1 1 100.0 0 0 - 1 8 9 4 4 3 1 1 -1
+p517
+aVMatt Carroll CHA 12/30/2005 CHA vs. PHX L 15 6 2 5 40.0 1 2 50.0 1 1 100.0 0 1 1 0 0 1 0 2 -6
+p518
+aVMelvin Ely CHA 12/30/2005 CHA vs. PHX L 23 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 3 2 -5
+p519
+aVBernard Robinson CHA 12/30/2005 CHA vs. PHX L 19 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 1 0 0 2 -7
+p520
+aVKareem Rush CHA 12/30/2005 CHA vs. PHX L 26 11 5 15 33.3 1 5 20.0 0 1 0.0 0 3 3 1 0 0 2 2 -8
+p521
+aVKeith Bogans CHA 12/30/2005 CHA vs. PHX L 27 18 7 11 63.6 3 4 75.0 1 2 50.0 0 2 2 0 0 0 1 0 -12
+p522
+aVPrimoz Brezec CHA 12/30/2005 CHA vs. PHX L 22 12 4 7 57.1 0 0 - 4 4 100.0 0 0 0 1 0 0 1 2 -8
+p523
+aVBrevin Knight CHA 12/30/2005 CHA vs. PHX L 25 10 3 7 42.9 0 0 - 4 5 80.0 0 1 1 10 1 0 3 6 -2
+p524
+aVKevin Burleson CHA 12/28/2005 CHA vs. CHI W 7 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 1 0 1 1 12
+p525
+aVRaymond Felton CHA 12/28/2005 CHA vs. CHI W 40 8 2 14 14.3 0 2 0.0 4 4 100.0 1 4 5 3 4 0 4 2 3
+p526
+aVPrimoz Brezec CHA 12/28/2005 CHA vs. CHI W 25 17 7 15 46.7 0 0 - 3 4 75.0 7 7 14 0 0 0 3 5 3
+p527
+aVBernard Robinson CHA 12/28/2005 CHA vs. CHI W 30 6 2 10 20.0 0 0 - 2 2 100.0 3 1 4 4 2 1 4 1 21
+p528
+aVJumaine Jones CHA 12/28/2005 CHA vs. CHI W 22 2 1 8 12.5 0 3 0.0 0 0 - 2 6 8 0 2 0 1 3 14
+p529
+aVMatt Carroll CHA 12/28/2005 CHA vs. CHI W 14 11 3 6 50.0 0 1 0.0 5 5 100.0 0 1 1 0 0 0 0 0 18
+p530
+aVKeith Bogans CHA 12/28/2005 CHA vs. CHI W 21 9 3 6 50.0 2 4 50.0 1 2 50.0 0 1 1 1 0 0 1 0 0
+p531
+aVGerald Wallace CHA 12/28/2005 CHA vs. CHI W 34 12 3 7 42.9 0 1 0.0 6 7 85.7 2 4 6 1 2 2 1 1 -5
+p532
+aVMelvin Ely CHA 12/28/2005 CHA vs. CHI W 32 20 9 13 69.2 0 0 - 2 5 40.0 4 4 8 1 0 2 1 4 4
+p533
+aVBrevin Knight CHA 12/28/2005 CHA vs. CHI W 14 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 1 1 0 0 1 -5
+p534
+aVKeith Bogans CHA 12/27/2005 CHA @ ATL W 29 13 4 4 100.0 1 1 100.0 4 7 57.1 0 8 8 2 1 0 1 0 0
+p535
+aVRaymond Felton CHA 12/27/2005 CHA @ ATL W 30 12 6 11 54.5 0 1 0.0 0 0 - 1 1 2 1 1 0 1 3 1
+p536
+aVPrimoz Brezec CHA 12/27/2005 CHA @ ATL W 26 6 3 9 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 2 0
+p537
+aVBernard Robinson CHA 12/27/2005 CHA @ ATL W 24 13 5 7 71.4 0 0 - 3 3 100.0 1 2 3 2 0 0 1 6 -1
+p538
+aVGerald Wallace CHA 12/27/2005 CHA @ ATL W 41 11 5 9 55.6 0 1 0.0 1 3 33.3 0 7 7 2 1 5 2 2 6
+p539
+aVMatt Carroll CHA 12/27/2005 CHA @ ATL W 16 8 2 4 50.0 0 0 - 4 4 100.0 0 0 0 0 1 0 2 0 0
+p540
+aVMelvin Ely CHA 12/27/2005 CHA @ ATL W 32 8 2 6 33.3 0 0 - 4 7 57.1 1 6 7 3 0 3 3 3 7
+p541
+aVBrevin Knight CHA 12/27/2005 CHA @ ATL W 42 22 9 23 39.1 0 0 - 4 6 66.7 1 6 7 5 3 0 2 1 2
+p542
+aVRaymond Felton CHA 12/23/2005 CHA vs. LAC L 30 4 2 10 20.0 0 1 0.0 0 2 0.0 2 0 2 7 0 0 3 1 -12
+p543
+aVGerald Wallace CHA 12/23/2005 CHA vs. LAC L 33 6 2 7 28.6 0 0 - 2 2 100.0 1 3 4 2 0 3 3 1 -20
+p544
+aVJumaine Jones CHA 12/23/2005 CHA vs. LAC L 18 0 0 6 0.0 0 1 0.0 0 0 - 0 4 4 0 1 0 2 2 -4
+p545
+aVKevin Burleson CHA 12/23/2005 CHA vs. LAC L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 0 6
+p546
+aVAlan Anderson CHA 12/23/2005 CHA vs. LAC L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 2
+p547
+aVMatt Carroll CHA 12/23/2005 CHA vs. LAC L 11 8 2 4 50.0 2 3 66.7 2 2 100.0 0 3 3 0 1 0 1 1 9
+p548
+aVPrimoz Brezec CHA 12/23/2005 CHA vs. LAC L 32 20 8 14 57.1 0 1 0.0 4 8 50.0 2 4 6 0 0 2 0 2 -5
+p549
+aVBrevin Knight CHA 12/23/2005 CHA vs. LAC L 35 21 6 15 40.0 0 0 - 9 9 100.0 0 4 4 7 4 0 0 3 -12
+p550
+aVMelvin Ely CHA 12/23/2005 CHA vs. LAC L 20 8 2 4 50.0 0 0 - 4 8 50.0 2 1 3 1 0 0 0 3 -6
+p551
+aVKeith Bogans CHA 12/23/2005 CHA vs. LAC L 23 12 5 11 45.5 2 4 50.0 0 0 - 1 1 2 1 3 0 1 3 -8
+p552
+aVBernard Robinson CHA 12/23/2005 CHA vs. LAC L 25 9 3 7 42.9 0 0 - 3 3 100.0 2 4 6 1 1 0 0 2 5
+p553
+aVKevin Burleson CHA 12/20/2005 CHA @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p554
+aVMatt Carroll CHA 12/20/2005 CHA @ CHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p555
+aVGerald Wallace CHA 12/20/2005 CHA @ CHI W 32 19 7 9 77.8 0 0 - 5 7 71.4 4 4 8 1 0 5 2 2 18
+p556
+aVBrevin Knight CHA 12/20/2005 CHA @ CHI W 42 20 8 18 44.4 0 0 - 4 5 80.0 0 3 3 10 2 0 2 5 12
+p557
+aVKeith Bogans CHA 12/20/2005 CHA @ CHI W 31 11 5 13 38.5 1 5 20.0 0 1 0.0 1 6 7 3 0 0 2 0 5
+p558
+aVSean May CHA 12/20/2005 CHA @ CHI W 13 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 2 0 1 3 0
+p559
+aVJumaine Jones CHA 12/20/2005 CHA @ CHI W 24 11 3 7 42.9 1 3 33.3 4 6 66.7 0 2 2 1 1 0 0 2 3
+p560
+aVPrimoz Brezec CHA 12/20/2005 CHA @ CHI W 32 13 4 5 80.0 0 0 - 5 6 83.3 5 5 10 1 0 1 4 4 8
+p561
+aVBernard Robinson CHA 12/20/2005 CHA @ CHI W 22 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 3 2 0 1 2 4
+p562
+aVRaymond Felton CHA 12/20/2005 CHA @ CHI W 38 21 8 13 61.5 0 1 0.0 5 7 71.4 1 4 5 6 0 2 1 1 16
+p563
+aVJumaine Jones CHA 12/19/2005 CHA vs. SAC W 20 6 1 5 20.0 0 3 0.0 4 4 100.0 0 6 6 0 0 0 1 1 -2
+p564
+aVRaymond Felton CHA 12/19/2005 CHA vs. SAC W 39 14 6 14 42.9 0 1 0.0 2 4 50.0 1 5 6 9 4 0 4 1 5
+p565
+aVBernard Robinson CHA 12/19/2005 CHA vs. SAC W 11 3 1 5 20.0 0 0 - 1 4 25.0 0 0 0 0 0 0 0 2 4
+p566
+aVKevin Burleson CHA 12/19/2005 CHA vs. SAC W 14 9 2 5 40.0 2 4 50.0 3 4 75.0 0 0 0 0 1 0 2 4 -2
+p567
+aVSean May CHA 12/19/2005 CHA vs. SAC W 10 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 2 4 -5
+p568
+aVEmeka Okafor CHA 12/19/2005 CHA vs. SAC W 31 12 6 12 50.0 0 0 - 0 0 - 3 9 12 0 0 3 3 2 5
+p569
+aVMatt Carroll CHA 12/19/2005 CHA vs. SAC W 14 7 3 5 60.0 0 2 0.0 1 3 33.3 1 0 1 0 1 0 0 2 1
+p570
+aVPrimoz Brezec CHA 12/19/2005 CHA vs. SAC W 47 26 9 13 69.2 0 0 - 8 9 88.9 5 3 8 1 1 0 1 4 3
+p571
+aVKareem Rush CHA 12/19/2005 CHA vs. SAC W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -3
+p572
+aVGerald Wallace CHA 12/19/2005 CHA vs. SAC W 43 15 7 12 58.3 0 2 0.0 1 3 33.3 3 1 4 7 6 2 1 3 2
+p573
+aVKeith Bogans CHA 12/19/2005 CHA vs. SAC W 28 13 4 10 40.0 2 5 40.0 3 3 100.0 0 3 3 4 0 0 1 2 7
+p574
+aVAlan Anderson CHA 12/17/2005 CHA vs. DET L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p575
+aVSean May CHA 12/17/2005 CHA vs. DET L 18 7 1 7 14.3 0 0 - 5 6 83.3 2 3 5 2 0 1 2 1 -6
+p576
+aVEmeka Okafor CHA 12/17/2005 CHA vs. DET L 36 14 7 18 38.9 0 0 - 0 1 0.0 6 7 13 0 0 0 1 2 -24
+p577
+aVPrimoz Brezec CHA 12/17/2005 CHA vs. DET L 32 17 7 11 63.6 0 0 - 3 3 100.0 2 5 7 1 0 0 0 3 -18
+p578
+aVKareem Rush CHA 12/17/2005 CHA vs. DET L 29 7 3 14 21.4 1 4 25.0 0 0 - 1 1 2 0 2 0 2 3 -22
+p579
+aVBrevin Knight CHA 12/17/2005 CHA vs. DET L 25 5 1 7 14.3 0 0 - 3 4 75.0 1 2 3 8 0 0 2 4 -16
+p580
+aVRaymond Felton CHA 12/17/2005 CHA vs. DET L 23 7 3 9 33.3 1 2 50.0 0 0 - 1 2 3 4 0 0 2 2 -9
+p581
+aVBernard Robinson CHA 12/17/2005 CHA vs. DET L 19 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 2 1 0 1 0 -1
+p582
+aVMatt Carroll CHA 12/17/2005 CHA vs. DET L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 0
+p583
+aVJumaine Jones CHA 12/17/2005 CHA vs. DET L 23 8 4 9 44.4 0 3 0.0 0 0 - 2 6 8 0 2 1 2 4 -6
+p584
+aVKeith Bogans CHA 12/17/2005 CHA vs. DET L 15 8 3 5 60.0 2 2 100.0 0 0 - 0 1 1 0 0 0 0 0 -18
+p585
+aVGerald Wallace CHA 12/17/2005 CHA vs. DET L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 2 4 -5
+p586
+aVBrevin Knight CHA 12/14/2005 CHA @ NJN W 41 25 10 16 62.5 0 0 - 5 5 100.0 0 5 5 7 5 0 0 2 12
+p587
+aVBernard Robinson CHA 12/14/2005 CHA @ NJN W 31 6 3 8 37.5 0 1 0.0 0 0 - 2 2 4 1 1 0 1 2 5
+p588
+aVSean May CHA 12/14/2005 CHA @ NJN W 13 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 0 0
+p589
+aVJumaine Jones CHA 12/14/2005 CHA @ NJN W 24 15 4 6 66.7 1 1 100.0 6 11 54.5 2 5 7 0 1 0 0 2 2
+p590
+aVKareem Rush CHA 12/14/2005 CHA @ NJN W 30 10 4 9 44.4 1 4 25.0 1 1 100.0 0 3 3 2 0 0 5 2 4
+p591
+aVMelvin Ely CHA 12/14/2005 CHA @ NJN W 21 10 4 9 44.4 0 0 - 2 3 66.7 1 4 5 1 1 2 2 3 11
+p592
+aVEmeka Okafor CHA 12/14/2005 CHA @ NJN W 41 14 5 13 38.5 0 0 - 4 11 36.4 2 11 13 2 0 6 4 6 3
+p593
+aVPrimoz Brezec CHA 12/14/2005 CHA @ NJN W 14 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 0 0 1 3 5
+p594
+aVRaymond Felton CHA 12/14/2005 CHA @ NJN W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 2 -4
+p595
+aVMatt Carroll CHA 12/14/2005 CHA @ NJN W 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 0
+p596
+aVKeith Bogans CHA 12/14/2005 CHA @ NJN W 13 3 0 4 0.0 0 0 - 3 4 75.0 1 1 2 0 0 0 0 3 2
+p597
+aVBernard Robinson CHA 12/13/2005 CHA vs. DEN L 28 10 5 8 62.5 0 1 0.0 0 0 - 0 3 3 0 3 0 2 5 -2
+p598
+aVKareem Rush CHA 12/13/2005 CHA vs. DEN L 33 13 5 13 38.5 2 5 40.0 1 1 100.0 0 1 1 1 2 0 1 1 -12
+p599
+aVKeith Bogans CHA 12/13/2005 CHA vs. DEN L 15 8 1 2 50.0 1 2 50.0 5 6 83.3 0 1 1 0 0 0 3 0 -4
+p600
+aVMatt Carroll CHA 12/13/2005 CHA vs. DEN L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -4
+p601
+aVRaymond Felton CHA 12/13/2005 CHA vs. DEN L 20 3 1 7 14.3 0 4 0.0 1 2 50.0 2 2 4 3 3 0 2 2 -6
+p602
+aVBrevin Knight CHA 12/13/2005 CHA vs. DEN L 34 7 3 12 25.0 0 0 - 1 2 50.0 1 3 4 16 2 0 4 3 -15
+p603
+aVPrimoz Brezec CHA 12/13/2005 CHA vs. DEN L 20 8 4 8 50.0 0 0 - 0 0 - 1 2 3 0 0 0 4 0 -3
+p604
+aVJumaine Jones CHA 12/13/2005 CHA vs. DEN L 11 0 0 4 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 1 3 -10
+p605
+aVMelvin Ely CHA 12/13/2005 CHA vs. DEN L 19 6 3 6 50.0 0 0 - 0 1 0.0 2 2 4 0 0 0 2 2 8
+p606
+aVSean May CHA 12/13/2005 CHA vs. DEN L 23 13 3 6 50.0 0 1 0.0 7 8 87.5 2 4 6 2 1 0 2 4 -16
+p607
+aVEmeka Okafor CHA 12/13/2005 CHA vs. DEN L 33 17 8 12 66.7 0 0 - 1 3 33.3 7 5 12 2 2 3 4 3 -16
+p608
+aVMatt Carroll CHA 12/10/2005 CHA vs. TOR L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p609
+aVRaymond Felton CHA 12/10/2005 CHA vs. TOR L 13 7 3 8 37.5 1 1 100.0 0 1 0.0 2 1 3 1 2 0 1 3 -1
+p610
+aVKareem Rush CHA 12/10/2005 CHA vs. TOR L 35 14 6 21 28.6 1 8 12.5 1 2 50.0 2 3 5 3 2 0 1 1 -1
+p611
+aVJumaine Jones CHA 12/10/2005 CHA vs. TOR L 24 16 7 11 63.6 2 5 40.0 0 0 - 4 3 7 1 0 1 1 3 -6
+p612
+aVEmeka Okafor CHA 12/10/2005 CHA vs. TOR L 24 9 3 5 60.0 0 0 - 3 6 50.0 2 3 5 1 0 3 1 3 4
+p613
+aVBernard Robinson CHA 12/10/2005 CHA vs. TOR L 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -5
+p614
+aVKeith Bogans CHA 12/10/2005 CHA vs. TOR L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p615
+aVPrimoz Brezec CHA 12/10/2005 CHA vs. TOR L 28 10 3 7 42.9 0 0 - 4 4 100.0 2 3 5 1 0 0 0 5 -6
+p616
+aVSean May CHA 12/10/2005 CHA vs. TOR L 17 12 4 8 50.0 0 0 - 4 5 80.0 2 2 4 0 1 0 1 5 -16
+p617
+aVBrevin Knight CHA 12/10/2005 CHA vs. TOR L 40 20 9 16 56.3 0 0 - 2 3 66.7 1 2 3 12 1 0 2 3 -11
+p618
+aVGerald Wallace CHA 12/10/2005 CHA vs. TOR L 41 13 5 14 35.7 0 0 - 3 5 60.0 6 8 14 1 2 1 1 3 5
+p619
+aVMelvin Ely CHA 12/09/2005 CHA @ PHI L 28 13 4 7 57.1 0 0 - 5 6 83.3 2 5 7 2 0 1 1 1 -17
+p620
+aVRaymond Felton CHA 12/09/2005 CHA @ PHI L 25 8 3 8 37.5 2 4 50.0 0 2 0.0 1 1 2 9 1 0 0 4 0
+p621
+aVEmeka Okafor CHA 12/09/2005 CHA @ PHI L 35 15 7 15 46.7 0 0 - 1 1 100.0 2 4 6 3 2 0 1 3 -10
+p622
+aVJumaine Jones CHA 12/09/2005 CHA @ PHI L 12 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 1 0 0 0 2 16
+p623
+aVSean May CHA 12/09/2005 CHA @ PHI L 20 12 6 9 66.7 0 0 - 0 0 - 3 3 6 2 2 2 3 4 3
+p624
+aVKeith Bogans CHA 12/09/2005 CHA @ PHI L 18 13 5 10 50.0 2 4 50.0 1 3 33.3 1 0 1 3 2 0 2 4 -14
+p625
+aVBrevin Knight CHA 12/09/2005 CHA @ PHI L 23 8 4 10 40.0 0 0 - 0 0 - 1 2 3 9 3 0 3 3 -4
+p626
+aVMatt Carroll CHA 12/09/2005 CHA @ PHI L 14 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 1 0 1 0 0 12
+p627
+aVKareem Rush CHA 12/09/2005 CHA @ PHI L 21 15 6 14 42.9 3 6 50.0 0 0 - 0 0 0 1 0 0 3 1 3
+p628
+aVGerald Wallace CHA 12/09/2005 CHA @ PHI L 26 9 4 4 100.0 0 0 - 1 2 50.0 0 4 4 2 1 1 1 1 -17
+p629
+aVBernard Robinson CHA 12/09/2005 CHA @ PHI L 18 7 3 4 75.0 0 1 0.0 1 3 33.3 0 6 6 1 0 0 2 2 8
+p630
+aVPrimoz Brezec CHA 12/07/2005 CHA vs. NJN L 26 11 4 7 57.1 0 0 - 3 4 75.0 3 3 6 0 0 2 0 2 15
+p631
+aVMelvin Ely CHA 12/07/2005 CHA vs. NJN L 16 7 3 10 30.0 0 0 - 1 2 50.0 4 3 7 1 0 2 2 3 -26
+p632
+aVGerald Wallace CHA 12/07/2005 CHA vs. NJN L 30 10 5 10 50.0 0 0 - 0 2 0.0 1 1 2 2 2 1 0 2 -1
+p633
+aVKeith Bogans CHA 12/07/2005 CHA vs. NJN L 26 3 1 6 16.7 0 2 0.0 1 1 100.0 1 1 2 0 2 0 0 2 -9
+p634
+aVMatt Carroll CHA 12/07/2005 CHA vs. NJN L 11 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -5
+p635
+aVRaymond Felton CHA 12/07/2005 CHA vs. NJN L 19 5 1 6 16.7 1 3 33.3 2 2 100.0 0 3 3 4 0 0 2 1 -11
+p636
+aVSean May CHA 12/07/2005 CHA vs. NJN L 16 4 1 6 16.7 0 0 - 2 3 66.7 2 2 4 0 0 0 0 0 -20
+p637
+aVBrevin Knight CHA 12/07/2005 CHA vs. NJN L 32 23 10 16 62.5 0 0 - 3 4 75.0 1 5 6 5 4 0 2 2 0
+p638
+aVKevin Burleson CHA 12/07/2005 CHA vs. NJN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p639
+aVJumaine Jones CHA 12/07/2005 CHA vs. NJN L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p640
+aVBernard Robinson CHA 12/07/2005 CHA vs. NJN L 21 7 3 8 37.5 0 1 0.0 1 2 50.0 1 1 2 0 2 1 3 2 -12
+p641
+aVEmeka Okafor CHA 12/07/2005 CHA vs. NJN L 32 9 2 7 28.6 0 0 - 5 5 100.0 3 6 9 0 1 3 4 4 7
+p642
+aVRaymond Felton CHA 12/04/2005 CHA @ LAL L 13 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 2 1 0 2 1 5
+p643
+aVBernard Robinson CHA 12/04/2005 CHA @ LAL L 18 13 5 6 83.3 0 0 - 3 3 100.0 2 2 4 2 3 0 3 3 1
+p644
+aVGerald Wallace CHA 12/04/2005 CHA @ LAL L 32 7 3 10 30.0 1 4 25.0 0 0 - 1 0 1 0 0 0 1 2 -7
+p645
+aVEmeka Okafor CHA 12/04/2005 CHA @ LAL L 37 9 2 12 16.7 0 0 - 5 8 62.5 4 8 12 2 0 3 3 3 -13
+p646
+aVPrimoz Brezec CHA 12/04/2005 CHA @ LAL L 16 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -6
+p647
+aVSean May CHA 12/04/2005 CHA @ LAL L 14 7 2 3 66.7 0 0 - 3 4 75.0 1 4 5 0 0 0 1 0 2
+p648
+aVBrevin Knight CHA 12/04/2005 CHA @ LAL L 35 17 7 14 50.0 0 0 - 3 6 50.0 0 2 2 8 4 0 2 2 -6
+p649
+aVMelvin Ely CHA 12/04/2005 CHA @ LAL L 28 20 10 13 76.9 0 0 - 0 0 - 3 2 5 3 1 1 0 3 17
+p650
+aVKeith Bogans CHA 12/04/2005 CHA @ LAL L 25 12 5 9 55.6 2 4 50.0 0 0 - 2 1 3 1 0 1 1 4 -11
+p651
+aVMatt Carroll CHA 12/04/2005 CHA @ LAL L 8 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 0 6
+p652
+aVJumaine Jones CHA 12/04/2005 CHA @ LAL L 14 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 7
+p653
+aVKeith Bogans CHA 12/02/2005 CHA @ GSW L 16 5 1 4 25.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 2 3
+p654
+aVKareem Rush CHA 12/02/2005 CHA @ GSW L 19 6 2 8 25.0 0 2 0.0 2 4 50.0 1 1 2 1 1 0 0 1 -15
+p655
+aVBrevin Knight CHA 12/02/2005 CHA @ GSW L 34 19 6 14 42.9 0 1 0.0 7 9 77.8 0 5 5 9 2 0 0 3 -10
+p656
+aVJumaine Jones CHA 12/02/2005 CHA @ GSW L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 1
+p657
+aVBernard Robinson CHA 12/02/2005 CHA @ GSW L 15 2 0 4 0.0 0 1 0.0 2 2 100.0 0 4 4 2 0 0 0 3 2
+p658
+aVMatt Carroll CHA 12/02/2005 CHA @ GSW L 14 7 1 4 25.0 1 2 50.0 4 4 100.0 0 0 0 0 1 0 0 3 7
+p659
+aVMelvin Ely CHA 12/02/2005 CHA @ GSW L 18 10 1 2 50.0 0 0 - 8 8 100.0 0 2 2 0 0 2 3 2 5
+p660
+aVPrimoz Brezec CHA 12/02/2005 CHA @ GSW L 30 14 4 10 40.0 0 0 - 6 7 85.7 8 3 11 0 0 0 2 4 -2
+p661
+aVRaymond Felton CHA 12/02/2005 CHA @ GSW L 14 5 2 8 25.0 1 4 25.0 0 0 - 0 1 1 1 1 0 0 2 3
+p662
+aVGerald Wallace CHA 12/02/2005 CHA @ GSW L 26 10 5 9 55.6 0 2 0.0 0 0 - 0 2 2 1 4 1 3 1 -11
+p663
+aVSean May CHA 12/02/2005 CHA @ GSW L 9 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 2 -9
+p664
+aVEmeka Okafor CHA 12/02/2005 CHA @ GSW L 40 19 4 13 30.8 0 0 - 11 14 78.6 3 7 10 3 2 6 3 4 -9
+p665
+aVGerald Wallace CHA 11/30/2005 CHA @ SEA L 32 12 5 10 50.0 2 4 50.0 0 1 0.0 2 3 5 3 0 0 3 5 -2
+p666
+aVBrevin Knight CHA 11/30/2005 CHA @ SEA L 38 18 5 12 41.7 0 0 - 8 10 80.0 1 5 6 11 2 0 2 4 -3
+p667
+aVJake Voskuhl CHA 11/30/2005 CHA @ SEA L 3 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -3
+p668
+aVMelvin Ely CHA 11/30/2005 CHA @ SEA L 15 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 0 -7
+p669
+aVBernard Robinson CHA 11/30/2005 CHA @ SEA L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p670
+aVKareem Rush CHA 11/30/2005 CHA @ SEA L 38 20 7 16 43.8 1 5 20.0 5 5 100.0 0 2 2 1 2 0 3 4 2
+p671
+aVEmeka Okafor CHA 11/30/2005 CHA @ SEA L 40 10 3 10 30.0 0 0 - 4 4 100.0 3 10 13 2 0 3 3 2 -4
+p672
+aVPrimoz Brezec CHA 11/30/2005 CHA @ SEA L 38 21 9 14 64.3 0 0 - 3 4 75.0 3 5 8 0 0 0 0 2 -6
+p673
+aVJumaine Jones CHA 11/30/2005 CHA @ SEA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p674
+aVMatt Carroll CHA 11/30/2005 CHA @ SEA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 1 0 -2
+p675
+aVRaymond Felton CHA 11/30/2005 CHA @ SEA L 10 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 3 0 -7
+p676
+aVKeith Bogans CHA 11/30/2005 CHA @ SEA L 13 4 1 4 25.0 0 2 0.0 2 2 100.0 1 0 1 0 0 0 0 2 -13
+p677
+aVPrimoz Brezec CHA 11/29/2005 CHA @ SAC L 29 13 6 9 66.7 0 0 - 1 1 100.0 3 9 12 0 0 0 1 3 -13
+p678
+aVMelvin Ely CHA 11/29/2005 CHA @ SAC L 21 10 4 8 50.0 0 0 - 2 2 100.0 2 2 4 1 3 0 4 3 -25
+p679
+aVGerald Wallace CHA 11/29/2005 CHA @ SAC L 32 10 5 15 33.3 0 2 0.0 0 0 - 4 2 6 2 2 2 4 1 -13
+p680
+aVJumaine Jones CHA 11/29/2005 CHA @ SAC L 13 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 1
+p681
+aVEmeka Okafor CHA 11/29/2005 CHA @ SAC L 23 8 3 6 50.0 0 0 - 2 4 50.0 3 6 9 1 0 1 0 4 -12
+p682
+aVKareem Rush CHA 11/29/2005 CHA @ SAC L 27 15 7 17 41.2 1 3 33.3 0 0 - 0 1 1 1 1 0 3 3 -19
+p683
+aVRaymond Felton CHA 11/29/2005 CHA @ SAC L 22 6 2 6 33.3 0 2 0.0 2 2 100.0 0 3 3 6 0 0 0 1 -7
+p684
+aVKeith Bogans CHA 11/29/2005 CHA @ SAC L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p685
+aVMatt Carroll CHA 11/29/2005 CHA @ SAC L 15 7 3 9 33.3 1 4 25.0 0 2 0.0 0 0 0 0 2 0 0 2 1
+p686
+aVBernard Robinson CHA 11/29/2005 CHA @ SAC L 15 4 2 6 33.3 0 1 0.0 0 0 - 2 2 4 1 2 0 2 2 3
+p687
+aVBrevin Knight CHA 11/29/2005 CHA @ SAC L 26 7 3 8 37.5 1 1 100.0 0 0 - 1 1 2 9 2 0 1 2 -11
+p688
+aVJake Voskuhl CHA 11/29/2005 CHA @ SAC L 11 5 1 4 25.0 1 1 100.0 2 2 100.0 1 4 5 0 0 1 1 2 7
+p689
+aVMelvin Ely CHA 11/26/2005 CHA vs. WAS W 33 14 6 11 54.5 0 0 - 2 5 40.0 1 4 5 3 2 1 2 3 22
+p690
+aVPrimoz Brezec CHA 11/26/2005 CHA vs. WAS W 24 12 5 7 71.4 0 0 - 2 4 50.0 1 3 4 0 0 0 0 3 5
+p691
+aVBrevin Knight CHA 11/26/2005 CHA vs. WAS W 26 7 2 5 40.0 0 0 - 3 4 75.0 1 4 5 9 1 0 1 4 -1
+p692
+aVRaymond Felton CHA 11/26/2005 CHA vs. WAS W 22 3 1 7 14.3 1 3 33.3 0 0 - 2 0 2 5 0 0 2 1 19
+p693
+aVKeith Bogans CHA 11/26/2005 CHA vs. WAS W 15 5 2 8 25.0 0 3 0.0 1 2 50.0 0 0 0 1 2 0 1 3 9
+p694
+aVBernard Robinson CHA 11/26/2005 CHA vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p695
+aVEmeka Okafor CHA 11/26/2005 CHA vs. WAS W 36 10 5 14 35.7 0 0 - 0 0 - 6 11 17 1 2 0 6 3 10
+p696
+aVKareem Rush CHA 11/26/2005 CHA vs. WAS W 36 23 9 18 50.0 3 6 50.0 2 3 66.7 0 3 3 1 0 0 2 3 12
+p697
+aVMatt Carroll CHA 11/26/2005 CHA vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p698
+aVAlan Anderson CHA 11/26/2005 CHA vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p699
+aVGerald Wallace CHA 11/26/2005 CHA vs. WAS W 39 26 10 16 62.5 1 4 25.0 5 8 62.5 7 7 14 1 3 5 3 4 19
+p700
+aVKevin Burleson CHA 11/26/2005 CHA vs. WAS W 2 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p701
+aVEmeka Okafor CHA 11/25/2005 CHA @ BOS L 38 13 6 14 42.9 0 0 - 1 3 33.3 2 9 11 0 0 3 2 4 -4
+p702
+aVBrevin Knight CHA 11/25/2005 CHA @ BOS L 35 17 7 14 50.0 0 0 - 3 4 75.0 1 2 3 8 3 0 3 1 -9
+p703
+aVGerald Wallace CHA 11/25/2005 CHA @ BOS L 38 17 8 13 61.5 0 2 0.0 1 2 50.0 3 2 5 1 2 2 2 5 -3
+p704
+aVKareem Rush CHA 11/25/2005 CHA @ BOS L 38 14 5 16 31.3 2 7 28.6 2 4 50.0 1 4 5 2 0 1 1 3 -1
+p705
+aVMelvin Ely CHA 11/25/2005 CHA @ BOS L 16 2 0 3 0.0 0 0 - 2 4 50.0 3 3 6 1 0 1 3 1 7
+p706
+aVRaymond Felton CHA 11/25/2005 CHA @ BOS L 16 8 3 6 50.0 1 4 25.0 1 1 100.0 1 0 1 4 1 0 1 1 9
+p707
+aVPrimoz Brezec CHA 11/25/2005 CHA @ BOS L 21 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 0 0 4 3 -13
+p708
+aVKeith Bogans CHA 11/25/2005 CHA @ BOS L 23 10 3 6 50.0 1 3 33.3 3 4 75.0 1 5 6 2 0 0 1 3 5
+p709
+aVSean May CHA 11/25/2005 CHA @ BOS L 15 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 2 3 4
+p710
+aVKeith Bogans CHA 11/23/2005 CHA vs. NYK W 11 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 1 -8
+p711
+aVGerald Wallace CHA 11/23/2005 CHA vs. NYK W 37 24 9 17 52.9 5 8 62.5 1 2 50.0 4 5 9 4 2 3 2 1 19
+p712
+aVRaymond Felton CHA 11/23/2005 CHA vs. NYK W 12 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 4 1 0 2 1 4
+p713
+aVSean May CHA 11/23/2005 CHA vs. NYK W 14 2 1 7 14.3 0 1 0.0 0 0 - 5 1 6 1 0 0 2 3 -6
+p714
+aVJake Voskuhl CHA 11/23/2005 CHA vs. NYK W 17 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 1 0 3 3 1
+p715
+aVEmeka Okafor CHA 11/23/2005 CHA vs. NYK W 28 19 7 13 53.8 0 0 - 5 6 83.3 7 4 11 0 2 0 0 4 14
+p716
+aVBrevin Knight CHA 11/23/2005 CHA vs. NYK W 36 9 2 7 28.6 0 0 - 5 6 83.3 0 4 4 11 4 0 3 4 9
+p717
+aVPrimoz Brezec CHA 11/23/2005 CHA vs. NYK W 30 11 5 7 71.4 0 0 - 1 2 50.0 3 0 3 1 1 1 1 3 19
+p718
+aVKareem Rush CHA 11/23/2005 CHA vs. NYK W 37 22 7 19 36.8 3 7 42.9 5 5 100.0 1 2 3 1 0 0 0 3 21
+p719
+aVJumaine Jones CHA 11/23/2005 CHA vs. NYK W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 -6
+p720
+aVMelvin Ely CHA 11/23/2005 CHA vs. NYK W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -2
+p721
+aVBrevin Knight CHA 11/19/2005 CHA @ MIN L 23 10 2 6 33.3 0 0 - 6 6 100.0 0 2 2 5 1 0 1 2 -10
+p722
+aVRaymond Felton CHA 11/19/2005 CHA @ MIN L 26 15 3 8 37.5 2 4 50.0 7 8 87.5 0 1 1 5 0 0 1 4 -4
+p723
+aVPrimoz Brezec CHA 11/19/2005 CHA @ MIN L 16 1 0 5 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 1 -6
+p724
+aVMatt Carroll CHA 11/19/2005 CHA @ MIN L 18 10 2 5 40.0 2 3 66.7 4 4 100.0 0 1 1 0 0 0 0 1 0
+p725
+aVEmeka Okafor CHA 11/19/2005 CHA @ MIN L 27 11 4 9 44.4 0 0 - 3 4 75.0 7 3 10 0 2 0 1 5 -18
+p726
+aVKareem Rush CHA 11/19/2005 CHA @ MIN L 32 13 4 12 33.3 1 4 25.0 4 4 100.0 0 4 4 2 1 0 3 1 -19
+p727
+aVBernard Robinson CHA 11/19/2005 CHA @ MIN L 13 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 0 2 0 0 0 -4
+p728
+aVJumaine Jones CHA 11/19/2005 CHA @ MIN L 24 10 4 8 50.0 2 5 40.0 0 0 - 0 1 1 1 3 1 1 1 -10
+p729
+aVAlan Anderson CHA 11/19/2005 CHA @ MIN L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 4
+p730
+aVKeith Bogans CHA 11/19/2005 CHA @ MIN L 16 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 1 1 -5
+p731
+aVJake Voskuhl CHA 11/19/2005 CHA @ MIN L 15 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 0 1 5 0
+p732
+aVSean May CHA 11/19/2005 CHA @ MIN L 24 6 3 8 37.5 0 0 - 0 0 - 1 6 7 3 0 1 1 2 7
+p733
+aVEmeka Okafor CHA 11/18/2005 CHA @ IND L 37 14 6 16 37.5 0 0 - 2 2 100.0 5 5 10 0 0 3 3 4 2
+p734
+aVPrimoz Brezec CHA 11/18/2005 CHA @ IND L 22 12 6 11 54.5 0 0 - 0 1 0.0 2 4 6 0 0 1 1 2 -10
+p735
+aVMatt Carroll CHA 11/18/2005 CHA @ IND L 17 9 4 7 57.1 0 1 0.0 1 1 100.0 1 0 1 0 1 0 3 0 -1
+p736
+aVSean May CHA 11/18/2005 CHA @ IND L 23 14 6 12 50.0 0 1 0.0 2 3 66.7 5 2 7 0 0 0 1 5 -10
+p737
+aVKeith Bogans CHA 11/18/2005 CHA @ IND L 19 1 0 3 0.0 0 2 0.0 1 1 100.0 0 1 1 0 1 0 0 3 -12
+p738
+aVRaymond Felton CHA 11/18/2005 CHA @ IND L 21 10 3 10 30.0 2 4 50.0 2 2 100.0 2 1 3 2 2 0 0 3 4
+p739
+aVKareem Rush CHA 11/18/2005 CHA @ IND L 36 20 8 12 66.7 3 5 60.0 1 1 100.0 0 1 1 0 0 1 5 3 -10
+p740
+aVBrevin Knight CHA 11/18/2005 CHA @ IND L 33 2 1 9 11.1 0 0 - 0 0 - 1 2 3 14 5 0 3 3 -10
+p741
+aVJake Voskuhl CHA 11/18/2005 CHA @ IND L 12 1 0 6 0.0 0 0 - 1 2 50.0 0 4 4 1 1 2 1 3 8
+p742
+aVJumaine Jones CHA 11/18/2005 CHA @ IND L 16 2 1 6 16.7 0 2 0.0 0 1 0.0 3 4 7 1 1 0 2 2 -1
+p743
+aVBernard Robinson CHA 11/18/2005 CHA @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 0
+p744
+aVBernard Robinson CHA 11/16/2005 CHA vs. IND W 15 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 0 2 0 0 1 18
+p745
+aVKeith Bogans CHA 11/16/2005 CHA vs. IND W 37 14 4 9 44.4 2 3 66.7 4 4 100.0 0 4 4 3 1 1 1 3 20
+p746
+aVMatt Carroll CHA 11/16/2005 CHA vs. IND W 6 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 4
+p747
+aVKevin Burleson CHA 11/16/2005 CHA vs. IND W 13 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 3 3 0 1 5 1
+p748
+aVRaymond Felton CHA 11/16/2005 CHA vs. IND W 36 18 6 13 46.2 3 4 75.0 3 5 60.0 1 4 5 10 5 1 4 2 35
+p749
+aVSean May CHA 11/16/2005 CHA vs. IND W 22 15 7 11 63.6 0 0 - 1 1 100.0 0 8 8 1 2 0 1 3 24
+p750
+aVEmeka Okafor CHA 11/16/2005 CHA vs. IND W 38 20 7 14 50.0 0 0 - 6 6 100.0 3 9 12 4 1 2 1 4 23
+p751
+aVJake Voskuhl CHA 11/16/2005 CHA vs. IND W 9 5 1 1 100.0 0 0 - 3 3 100.0 0 0 0 0 0 1 0 1 17
+p752
+aVPrimoz Brezec CHA 11/16/2005 CHA vs. IND W 25 8 2 6 33.3 0 0 - 4 4 100.0 1 3 4 0 1 0 1 3 -8
+p753
+aVKareem Rush CHA 11/16/2005 CHA vs. IND W 39 35 12 15 80.0 6 7 85.7 5 5 100.0 0 1 1 2 2 0 1 3 26
+p754
+aVBrevin Knight CHA 11/15/2005 CHA @ ORL L 34 2 1 8 12.5 0 0 - 0 0 - 0 2 2 9 0 0 3 5 -9
+p755
+aVEmeka Okafor CHA 11/15/2005 CHA @ ORL L 23 8 4 9 44.4 0 0 - 0 0 - 2 4 6 1 1 0 1 5 -12
+p756
+aVJake Voskuhl CHA 11/15/2005 CHA @ ORL L 14 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 -4
+p757
+aVMatt Carroll CHA 11/15/2005 CHA @ ORL L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 2 3 -8
+p758
+aVBernard Robinson CHA 11/15/2005 CHA @ ORL L 13 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 15
+p759
+aVKareem Rush CHA 11/15/2005 CHA @ ORL L 26 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 2 1 0 1 1 -23
+p760
+aVRaymond Felton CHA 11/15/2005 CHA @ ORL L 15 6 2 7 28.6 1 3 33.3 1 3 33.3 0 3 3 4 1 0 2 3 -2
+p761
+aVJumaine Jones CHA 11/15/2005 CHA @ ORL L 16 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -17
+p762
+aVSean May CHA 11/15/2005 CHA @ ORL L 30 15 5 11 45.5 0 0 - 5 6 83.3 3 7 10 2 1 1 1 3 12
+p763
+aVKeith Bogans CHA 11/15/2005 CHA @ ORL L 33 18 5 11 45.5 1 2 50.0 7 7 100.0 3 2 5 1 3 0 0 0 16
+p764
+aVPrimoz Brezec CHA 11/15/2005 CHA @ ORL L 29 8 4 10 40.0 0 0 - 0 0 - 2 5 7 0 0 0 0 4 -8
+p765
+aVRaymond Felton CHA 11/12/2005 CHA @ MIA L 13 1 0 3 0.0 0 2 0.0 1 2 50.0 0 2 2 2 3 0 2 3 7
+p766
+aVAlan Anderson CHA 11/12/2005 CHA @ MIA L 19 8 2 6 33.3 0 0 - 4 4 100.0 1 1 2 4 1 1 0 1 12
+p767
+aVKevin Burleson CHA 11/12/2005 CHA @ MIA L 12 11 4 5 80.0 3 4 75.0 0 0 - 0 0 0 2 3 0 1 3 17
+p768
+aVPrimoz Brezec CHA 11/12/2005 CHA @ MIA L 27 11 5 9 55.6 0 0 - 1 2 50.0 3 0 3 1 1 0 0 2 -9
+p769
+aVKeith Bogans CHA 11/12/2005 CHA @ MIA L 17 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 1 -24
+p770
+aVBernard Robinson CHA 11/12/2005 CHA @ MIA L 16 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 1 1 0 2 1 8
+p771
+aVEmeka Okafor CHA 11/12/2005 CHA @ MIA L 22 6 0 7 0.0 0 0 - 6 10 60.0 0 4 4 0 1 3 1 2 -11
+p772
+aVKareem Rush CHA 11/12/2005 CHA @ MIA L 28 15 6 15 40.0 2 4 50.0 1 3 33.3 1 2 3 0 1 0 1 1 -11
+p773
+aVMatt Carroll CHA 11/12/2005 CHA @ MIA L 15 8 3 7 42.9 1 1 100.0 1 2 50.0 1 3 4 0 3 0 0 2 -1
+p774
+aVSean May CHA 11/12/2005 CHA @ MIA L 28 18 5 9 55.6 0 0 - 8 9 88.9 1 4 5 5 5 1 0 1 6
+p775
+aVJake Voskuhl CHA 11/12/2005 CHA @ MIA L 17 6 3 7 42.9 0 0 - 0 0 - 1 1 2 1 0 0 1 5 -17
+p776
+aVBrevin Knight CHA 11/12/2005 CHA @ MIA L 26 9 3 7 42.9 0 0 - 3 4 75.0 0 1 1 4 0 0 0 1 -22
+p777
+aVMatt Carroll CHA 11/11/2005 CHA vs. DAL L 18 9 2 3 66.7 0 1 0.0 5 6 83.3 0 2 2 0 1 0 1 0 0
+p778
+aVKeith Bogans CHA 11/11/2005 CHA vs. DAL L 26 9 1 6 16.7 0 1 0.0 7 8 87.5 1 3 4 0 3 0 1 4 -8
+p779
+aVBernard Robinson CHA 11/11/2005 CHA vs. DAL L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 5 -9
+p780
+aVKareem Rush CHA 11/11/2005 CHA vs. DAL L 32 13 5 12 41.7 1 3 33.3 2 4 50.0 1 7 8 1 0 1 0 1 -2
+p781
+aVEmeka Okafor CHA 11/11/2005 CHA vs. DAL L 27 11 4 12 33.3 0 0 - 3 7 42.9 2 3 5 0 1 1 0 1 -15
+p782
+aVBrevin Knight CHA 11/11/2005 CHA vs. DAL L 33 7 1 7 14.3 0 0 - 5 6 83.3 0 0 0 5 5 0 2 5 -7
+p783
+aVKevin Burleson CHA 11/11/2005 CHA vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p784
+aVSean May CHA 11/11/2005 CHA vs. DAL L 16 10 2 4 50.0 0 2 0.0 6 8 75.0 0 5 5 0 0 1 1 3 7
+p785
+aVMelvin Ely CHA 11/11/2005 CHA vs. DAL L 25 14 3 5 60.0 0 0 - 8 10 80.0 2 2 4 1 0 0 3 2 -1
+p786
+aVRaymond Felton CHA 11/11/2005 CHA vs. DAL L 16 5 2 10 20.0 1 2 50.0 0 0 - 1 1 2 3 0 0 1 2 -1
+p787
+aVJake Voskuhl CHA 11/11/2005 CHA vs. DAL L 15 5 2 4 50.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 2 -1
+p788
+aVPrimoz Brezec CHA 11/11/2005 CHA vs. DAL L 20 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 1 3 -14
+p789
+aVPrimoz Brezec CHA 11/09/2005 CHA vs. SAS L 28 13 6 12 50.0 0 1 0.0 1 1 100.0 4 3 7 1 1 0 2 2 -9
+p790
+aVEmeka Okafor CHA 11/09/2005 CHA vs. SAS L 37 11 4 13 30.8 0 0 - 3 6 50.0 3 4 7 2 1 2 2 3 1
+p791
+aVMelvin Ely CHA 11/09/2005 CHA vs. SAS L 21 10 4 8 50.0 0 0 - 2 2 100.0 3 6 9 0 1 0 2 1 -1
+p792
+aVMatt Carroll CHA 11/09/2005 CHA vs. SAS L 17 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 0 1 0 1 1 -14
+p793
+aVBrevin Knight CHA 11/09/2005 CHA vs. SAS L 27 10 5 8 62.5 0 0 - 0 0 - 0 1 1 8 3 0 2 6 5
+p794
+aVGerald Wallace CHA 11/09/2005 CHA vs. SAS L 33 15 6 10 60.0 0 0 - 3 5 60.0 1 2 3 2 3 2 1 3 -11
+p795
+aVRaymond Felton CHA 11/09/2005 CHA vs. SAS L 21 10 4 11 36.4 0 1 0.0 2 3 66.7 0 2 2 0 0 0 1 2 -13
+p796
+aVSean May CHA 11/09/2005 CHA vs. SAS L 10 0 0 4 0.0 0 0 - 0 2 0.0 1 0 1 0 0 1 0 0 -7
+p797
+aVKeith Bogans CHA 11/09/2005 CHA vs. SAS L 31 11 5 12 41.7 1 3 33.3 0 0 - 0 3 3 3 4 0 0 3 6
+p798
+aVJumaine Jones CHA 11/09/2005 CHA vs. SAS L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 2 3
+p799
+aVRaymond Felton CHA 11/07/2005 CHA vs. UTA L 27 7 2 7 28.6 1 2 50.0 2 3 66.7 0 3 3 10 4 0 1 5 13
+p800
+aVEmeka Okafor CHA 11/07/2005 CHA vs. UTA L 34 12 4 14 28.6 0 0 - 4 6 66.7 3 8 11 2 2 0 2 4 -14
+p801
+aVBrevin Knight CHA 11/07/2005 CHA vs. UTA L 38 11 4 14 28.6 0 0 - 3 4 75.0 1 4 5 1 3 0 2 3 -11
+p802
+aVPrimoz Brezec CHA 11/07/2005 CHA vs. UTA L 29 13 5 7 71.4 0 0 - 3 4 75.0 4 2 6 1 0 0 0 3 3
+p803
+aVGerald Wallace CHA 11/07/2005 CHA vs. UTA L 18 6 2 6 33.3 0 0 - 2 4 50.0 3 4 7 0 0 2 1 1 -4
+p804
+aVSean May CHA 11/07/2005 CHA vs. UTA L 24 13 5 14 35.7 0 0 - 3 4 75.0 5 3 8 0 2 1 2 4 9
+p805
+aVMatt Carroll CHA 11/07/2005 CHA vs. UTA L 14 6 2 8 25.0 0 3 0.0 2 2 100.0 0 0 0 0 0 0 1 1 -2
+p806
+aVKareem Rush CHA 11/07/2005 CHA vs. UTA L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 1 0 2 -8
+p807
+aVMelvin Ely CHA 11/07/2005 CHA vs. UTA L 17 5 1 4 25.0 0 0 - 3 4 75.0 1 0 1 0 1 0 2 5 -6
+p808
+aVKeith Bogans CHA 11/07/2005 CHA vs. UTA L 28 11 4 8 50.0 0 2 0.0 3 3 100.0 1 1 2 1 0 0 1 5 6
+p809
+aVJumaine Jones CHA 11/07/2005 CHA vs. UTA L 24 7 2 6 33.3 1 5 20.0 2 2 100.0 0 1 1 0 0 0 0 4 -6
+p810
+aVBrevin Knight CHA 11/05/2005 CHA vs. BOS W 41 21 7 13 53.8 0 0 - 7 9 77.8 0 3 3 7 3 0 4 3 12
+p811
+aVGerald Wallace CHA 11/05/2005 CHA vs. BOS W 41 25 9 16 56.3 0 2 0.0 7 8 87.5 3 4 7 3 5 0 2 2 11
+p812
+aVMelvin Ely CHA 11/05/2005 CHA vs. BOS W 29 12 2 8 25.0 0 1 0.0 8 12 66.7 0 4 4 1 3 1 3 4 1
+p813
+aVSean May CHA 11/05/2005 CHA vs. BOS W 14 6 3 7 42.9 0 0 - 0 0 - 2 3 5 1 0 1 3 0 -8
+p814
+aVPrimoz Brezec CHA 11/05/2005 CHA vs. BOS W 24 9 3 3 100.0 0 0 - 3 5 60.0 0 0 0 1 1 0 4 2 -3
+p815
+aVRaymond Felton CHA 11/05/2005 CHA vs. BOS W 12 4 1 4 25.0 1 1 100.0 1 2 50.0 0 0 0 1 0 0 1 1 -10
+p816
+aVJumaine Jones CHA 11/05/2005 CHA vs. BOS W 25 11 3 7 42.9 2 3 66.7 3 4 75.0 1 2 3 0 1 0 1 3 -9
+p817
+aVKeith Bogans CHA 11/05/2005 CHA vs. BOS W 29 3 1 6 16.7 0 2 0.0 1 1 100.0 1 4 5 3 2 0 0 5 8
+p818
+aVMatt Carroll CHA 11/05/2005 CHA vs. BOS W 11 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 0 0 1 2 -6
+p819
+aVEmeka Okafor CHA 11/05/2005 CHA vs. BOS W 39 12 4 12 33.3 0 0 - 4 4 100.0 5 7 12 2 0 1 3 3 14
+p820
+aVSean May CHA 11/04/2005 CHA @ PHI W 10 11 5 9 55.6 0 0 - 1 1 100.0 1 1 2 1 0 0 2 4 2
+p821
+aVEmeka Okafor CHA 11/04/2005 CHA @ PHI W 41 24 11 19 57.9 0 0 - 2 5 40.0 4 7 11 3 0 2 0 2 19
+p822
+aVJumaine Jones CHA 11/04/2005 CHA @ PHI W 20 6 3 6 50.0 0 1 0.0 0 0 - 1 4 5 1 2 0 1 1 8
+p823
+aVPrimoz Brezec CHA 11/04/2005 CHA @ PHI W 23 11 4 8 50.0 0 0 - 3 3 100.0 6 1 7 1 0 0 2 4 12
+p824
+aVKareem Rush CHA 11/04/2005 CHA @ PHI W 29 14 4 12 33.3 2 4 50.0 4 6 66.7 1 3 4 2 0 0 3 3 5
+p825
+aVMelvin Ely CHA 11/04/2005 CHA @ PHI W 22 8 1 7 14.3 0 0 - 6 7 85.7 1 4 5 1 0 1 1 2 1
+p826
+aVBrevin Knight CHA 11/04/2005 CHA @ PHI W 38 14 6 12 50.0 0 0 - 2 3 66.7 0 4 4 15 3 0 2 2 15
+p827
+aVGerald Wallace CHA 11/04/2005 CHA @ PHI W 28 7 2 5 40.0 0 0 - 3 3 100.0 1 8 9 2 1 0 0 4 9
+p828
+aVMatt Carroll CHA 11/04/2005 CHA @ PHI W 15 11 4 6 66.7 1 2 50.0 2 2 100.0 0 0 0 2 0 0 0 2 7
+p829
+aVRaymond Felton CHA 11/04/2005 CHA @ PHI W 14 4 1 4 25.0 1 1 100.0 1 2 50.0 0 1 1 2 1 0 1 1 7
+p830
+aVBrevin Knight CHA 11/02/2005 CHA @ CHI L 31 6 2 9 22.2 0 1 0.0 2 3 66.7 1 3 4 7 1 0 0 6 18
+p831
+aVGerald Wallace CHA 11/02/2005 CHA @ CHI L 43 28 11 16 68.8 1 2 50.0 5 10 50.0 3 2 5 4 5 0 1 2 -1
+p832
+aVRaymond Felton CHA 11/02/2005 CHA @ CHI L 22 10 3 9 33.3 0 4 0.0 4 4 100.0 0 2 2 5 0 0 3 1 -22
+p833
+aVEmeka Okafor CHA 11/02/2005 CHA @ CHI L 40 16 7 13 53.8 0 0 - 2 2 100.0 4 8 12 0 2 0 3 5 -8
+p834
+aVMelvin Ely CHA 11/02/2005 CHA @ CHI L 28 13 3 9 33.3 0 0 - 7 7 100.0 4 11 15 3 0 0 2 4 -8
+p835
+aVJumaine Jones CHA 11/02/2005 CHA @ CHI L 10 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 1 0 0 1 -3
+p836
+aVPrimoz Brezec CHA 11/02/2005 CHA @ CHI L 21 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 2 1 0 1 3 4
+p837
+aVMatt Carroll CHA 11/02/2005 CHA @ CHI L 17 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 0 1 0 0 0 -1
+p838
+aVSean May CHA 11/02/2005 CHA @ CHI L 17 6 3 10 30.0 0 0 - 0 0 - 2 1 3 0 0 1 4 4 4
+p839
+aVKareem Rush CHA 11/02/2005 CHA @ CHI L 36 8 3 14 21.4 0 3 0.0 2 3 66.7 1 5 6 1 2 2 4 5 -3
+p840
+a.

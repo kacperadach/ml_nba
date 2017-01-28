@@ -1,0 +1,1730 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRobert Horry SAS 04/14/2004 SAS vs. DEN W 18 9 3 4 75.0 0 0 - 3 4 75.0 1 0 1 0 1 0 1 2 2
+p2
+aVManu Ginobili SAS 04/14/2004 SAS vs. DEN W 29 6 1 9 11.1 0 2 0.0 4 4 100.0 2 5 7 5 2 0 3 4 10
+p3
+aVRasho Nesterovic SAS 04/14/2004 SAS vs. DEN W 23 8 4 8 50.0 0 0 - 0 0 - 1 6 7 1 0 2 0 2 4
+p4
+aVBruce Bowen SAS 04/14/2004 SAS vs. DEN W 32 4 1 3 33.3 0 1 0.0 2 4 50.0 1 2 3 0 1 1 1 2 12
+p5
+aVTony Parker SAS 04/14/2004 SAS vs. DEN W 27 11 1 7 14.3 0 2 0.0 9 12 75.0 1 2 3 3 1 0 1 1 7
+p6
+aVTim Duncan SAS 04/14/2004 SAS vs. DEN W 32 23 7 10 70.0 0 0 - 9 15 60.0 3 13 16 4 2 3 1 2 22
+p7
+aVKevin Willis SAS 04/14/2004 SAS vs. DEN W 8 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 2 0 1 0 7
+p8
+aVCharlie Ward SAS 04/14/2004 SAS vs. DEN W 4 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 2 9
+p9
+aVMalik Rose SAS 04/14/2004 SAS vs. DEN W 15 8 2 2 100.0 0 0 - 4 4 100.0 3 5 8 0 1 0 3 2 17
+p10
+aVMatt Carroll SAS 04/14/2004 SAS vs. DEN W 13 4 1 3 33.3 0 0 - 2 4 50.0 1 1 2 0 0 0 2 2 9
+p11
+aVHedo Turkoglu SAS 04/14/2004 SAS vs. DEN W 25 4 1 9 11.1 0 4 0.0 2 4 50.0 0 5 5 1 0 2 3 1 13
+p12
+aVJason Hart SAS 04/14/2004 SAS vs. DEN W 14 8 4 5 80.0 0 0 - 0 0 - 0 5 5 0 2 1 2 3 18
+p13
+aVMalik Rose SAS 04/12/2004 SAS @ POR W 19 8 2 5 40.0 0 0 - 4 4 100.0 0 2 2 0 0 0 1 3 -6
+p14
+aVJason Hart SAS 04/12/2004 SAS @ POR W 12 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 3 2 1 1 0 12
+p15
+aVRasho Nesterovic SAS 04/12/2004 SAS @ POR W 26 8 4 7 57.1 0 0 - 0 0 - 1 3 4 2 0 1 0 1 6
+p16
+aVBruce Bowen SAS 04/12/2004 SAS @ POR W 33 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 1 0 0 1
+p17
+aVMatt Carroll SAS 04/12/2004 SAS @ POR W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p18
+aVManu Ginobili SAS 04/12/2004 SAS @ POR W 27 4 0 6 0.0 0 1 0.0 4 4 100.0 0 4 4 4 1 0 3 1 15
+p19
+aVRobert Horry SAS 04/12/2004 SAS @ POR W 15 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 2 2 0 1 4 13
+p20
+aVHedo Turkoglu SAS 04/12/2004 SAS @ POR W 35 6 3 9 33.3 0 2 0.0 0 1 0.0 0 4 4 3 1 0 4 1 10
+p21
+aVTony Parker SAS 04/12/2004 SAS @ POR W 35 22 7 11 63.6 1 1 100.0 7 7 100.0 0 2 2 5 1 0 7 1 0
+p22
+aVKevin Willis SAS 04/12/2004 SAS @ POR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p23
+aVTim Duncan SAS 04/12/2004 SAS @ POR W 31 14 5 13 38.5 0 0 - 4 8 50.0 3 12 15 1 0 5 1 4 13
+p24
+aVTim Duncan SAS 04/11/2004 SAS @ LAC W 35 26 10 17 58.8 0 0 - 6 10 60.0 5 4 9 2 1 3 1 3 21
+p25
+aVBruce Bowen SAS 04/11/2004 SAS @ LAC W 42 12 5 7 71.4 2 3 66.7 0 0 - 0 2 2 0 2 1 0 3 9
+p26
+aVManu Ginobili SAS 04/11/2004 SAS @ LAC W 25 10 2 7 28.6 0 2 0.0 6 7 85.7 1 2 3 3 1 0 2 2 -6
+p27
+aVMalik Rose SAS 04/11/2004 SAS @ LAC W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p28
+aVJason Hart SAS 04/11/2004 SAS @ LAC W 9 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 0 5
+p29
+aVRasho Nesterovic SAS 04/11/2004 SAS @ LAC W 32 12 6 9 66.7 0 0 - 0 0 - 0 7 7 1 0 2 1 4 1
+p30
+aVMatt Carroll SAS 04/11/2004 SAS @ LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 2 3
+p31
+aVRobert Horry SAS 04/11/2004 SAS @ LAC W 21 9 3 5 60.0 1 2 50.0 2 2 100.0 0 6 6 0 1 2 1 2 -5
+p32
+aVHedo Turkoglu SAS 04/11/2004 SAS @ LAC W 27 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 3 0 1 1 3 11
+p33
+aVTony Parker SAS 04/11/2004 SAS @ LAC W 37 14 5 13 38.5 0 3 0.0 4 9 44.4 1 3 4 8 0 0 4 2 6
+p34
+aVTony Parker SAS 04/09/2004 SAS vs. POR W 38 5 1 8 12.5 0 3 0.0 3 4 75.0 1 2 3 4 3 0 5 0 21
+p35
+aVTim Duncan SAS 04/09/2004 SAS vs. POR W 37 21 8 12 66.7 0 0 - 5 9 55.6 5 9 14 3 2 3 2 1 14
+p36
+aVDevin Brown SAS 04/09/2004 SAS vs. POR W 15 3 1 5 20.0 0 0 - 1 1 100.0 0 2 2 1 0 0 1 1 -19
+p37
+aVBruce Bowen SAS 04/09/2004 SAS vs. POR W 37 12 5 7 71.4 1 2 50.0 1 4 25.0 1 1 2 1 3 0 1 1 18
+p38
+aVKevin Willis SAS 04/09/2004 SAS vs. POR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p39
+aVManu Ginobili SAS 04/09/2004 SAS vs. POR W 28 21 8 12 66.7 4 5 80.0 1 1 100.0 2 3 5 5 2 0 2 3 19
+p40
+aVHedo Turkoglu SAS 04/09/2004 SAS vs. POR W 23 4 2 9 22.2 0 4 0.0 0 0 - 0 1 1 3 1 0 3 4 -5
+p41
+aVRobert Horry SAS 04/09/2004 SAS vs. POR W 20 2 1 6 16.7 0 0 - 0 0 - 2 4 6 0 0 1 1 2 15
+p42
+aVRasho Nesterovic SAS 04/09/2004 SAS vs. POR W 36 16 8 10 80.0 0 0 - 0 0 - 6 5 11 3 1 1 1 2 3
+p43
+aVJason Hart SAS 04/09/2004 SAS vs. POR W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -10
+p44
+aVHedo Turkoglu SAS 04/07/2004 SAS vs. SEA W 29 14 5 13 38.5 1 6 16.7 3 3 100.0 1 5 6 3 0 0 1 2 24
+p45
+aVRobert Horry SAS 04/07/2004 SAS vs. SEA W 15 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 2 0 1 0 19
+p46
+aVManu Ginobili SAS 04/07/2004 SAS vs. SEA W 21 6 2 6 33.3 0 1 0.0 2 3 66.7 0 0 0 3 0 0 3 2 -6
+p47
+aVTony Parker SAS 04/07/2004 SAS vs. SEA W 30 14 7 11 63.6 0 1 0.0 0 0 - 0 4 4 3 1 0 2 2 37
+p48
+aVBruce Bowen SAS 04/07/2004 SAS vs. SEA W 29 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 2 2 0 1 2 26
+p49
+aVJason Hart SAS 04/07/2004 SAS vs. SEA W 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -4
+p50
+aVMalik Rose SAS 04/07/2004 SAS vs. SEA W 21 4 2 6 33.3 0 0 - 0 0 - 1 4 5 0 1 0 2 0 -11
+p51
+aVTim Duncan SAS 04/07/2004 SAS vs. SEA W 27 21 9 16 56.3 0 0 - 3 3 100.0 1 9 10 3 0 6 1 4 16
+p52
+aVDevin Brown SAS 04/07/2004 SAS vs. SEA W 18 11 4 4 100.0 1 1 100.0 2 2 100.0 1 2 3 1 0 0 0 0 -9
+p53
+aVCharlie Ward SAS 04/07/2004 SAS vs. SEA W 9 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -5
+p54
+aVKevin Willis SAS 04/07/2004 SAS vs. SEA W 9 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -5
+p55
+aVRasho Nesterovic SAS 04/07/2004 SAS vs. SEA W 24 10 5 6 83.3 0 0 - 0 0 - 5 5 10 3 0 2 2 4 23
+p56
+aVRobert Horry SAS 04/04/2004 SAS @ LAL W 17 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 2 1 0 2 14
+p57
+aVKevin Willis SAS 04/04/2004 SAS @ LAL W 12 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 0
+p58
+aVRasho Nesterovic SAS 04/04/2004 SAS @ LAL W 25 4 2 7 28.6 0 0 - 0 0 - 0 4 4 2 0 2 0 6 -12
+p59
+aVHedo Turkoglu SAS 04/04/2004 SAS @ LAL W 21 8 3 6 50.0 1 2 50.0 1 2 50.0 0 4 4 1 1 0 2 2 1
+p60
+aVManu Ginobili SAS 04/04/2004 SAS @ LAL W 31 12 2 9 22.2 2 4 50.0 6 7 85.7 0 4 4 4 3 0 1 2 10
+p61
+aVTony Parker SAS 04/04/2004 SAS @ LAL W 42 29 10 22 45.5 2 4 50.0 7 10 70.0 0 2 2 9 1 0 2 2 1
+p62
+aVTim Duncan SAS 04/04/2004 SAS @ LAL W 41 18 7 14 50.0 0 0 - 4 7 57.1 1 12 13 6 0 2 3 4 10
+p63
+aVDevin Brown SAS 04/04/2004 SAS @ LAL W 10 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 11
+p64
+aVBruce Bowen SAS 04/04/2004 SAS @ LAL W 40 12 5 12 41.7 2 4 50.0 0 0 - 1 2 3 1 2 2 1 3 -5
+p65
+aVJason Hart SAS 04/02/2004 SAS @ UTA W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p66
+aVManu Ginobili SAS 04/02/2004 SAS @ UTA W 28 15 4 10 40.0 2 4 50.0 5 7 71.4 1 0 1 0 1 0 1 0 12
+p67
+aVBruce Bowen SAS 04/02/2004 SAS @ UTA W 17 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 3 2 -2
+p68
+aVHedo Turkoglu SAS 04/02/2004 SAS @ UTA W 37 15 3 11 27.3 2 4 50.0 7 8 87.5 0 4 4 1 0 1 0 4 6
+p69
+aVDevin Brown SAS 04/02/2004 SAS @ UTA W 28 19 8 13 61.5 1 2 50.0 2 2 100.0 3 4 7 4 1 0 0 0 23
+p70
+aVTim Duncan SAS 04/02/2004 SAS @ UTA W 33 18 5 10 50.0 0 0 - 8 12 66.7 4 6 10 1 1 2 0 1 6
+p71
+aVRobert Horry SAS 04/02/2004 SAS @ UTA W 14 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 1 0 4 7
+p72
+aVTony Parker SAS 04/02/2004 SAS @ UTA W 35 7 1 11 9.1 0 1 0.0 5 6 83.3 1 1 2 5 1 1 4 3 10
+p73
+aVMalik Rose SAS 04/02/2004 SAS @ UTA W 13 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 0
+p74
+aVRasho Nesterovic SAS 04/02/2004 SAS @ UTA W 30 8 4 6 66.7 0 0 - 0 0 - 3 7 10 2 1 0 1 3 7
+p75
+aVHedo Turkoglu SAS 03/31/2004 SAS vs. SAC W 25 14 5 10 50.0 2 5 40.0 2 3 66.7 1 6 7 1 1 0 1 1 10
+p76
+aVManu Ginobili SAS 03/31/2004 SAS vs. SAC W 25 29 11 16 68.8 1 2 50.0 6 7 85.7 2 0 2 4 0 0 2 3 25
+p77
+aVTim Duncan SAS 03/31/2004 SAS vs. SAC W 36 19 7 11 63.6 0 0 - 5 8 62.5 1 6 7 1 1 3 4 3 7
+p78
+aVBruce Bowen SAS 03/31/2004 SAS vs. SAC W 39 16 7 10 70.0 2 4 50.0 0 0 - 0 1 1 1 1 0 0 2 9
+p79
+aVRasho Nesterovic SAS 03/31/2004 SAS vs. SAC W 31 4 2 5 40.0 0 0 - 0 0 - 2 5 7 4 1 7 1 5 2
+p80
+aVMalik Rose SAS 03/31/2004 SAS vs. SAC W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 12
+p81
+aVDevin Brown SAS 03/31/2004 SAS vs. SAC W 13 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 0 3
+p82
+aVRobert Horry SAS 03/31/2004 SAS vs. SAC W 19 6 3 5 60.0 0 1 0.0 0 0 - 0 6 6 1 0 2 1 3 7
+p83
+aVJason Hart SAS 03/31/2004 SAS vs. SAC W 6 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 1 0 0 0 1
+p84
+aVTony Parker SAS 03/31/2004 SAS vs. SAC W 38 12 5 10 50.0 0 0 - 2 3 66.7 1 4 5 6 0 0 3 1 14
+p85
+aVTony Parker SAS 03/29/2004 SAS vs. CLE W 29 14 6 10 60.0 0 1 0.0 2 2 100.0 2 2 4 3 1 0 3 0 13
+p86
+aVRasho Nesterovic SAS 03/29/2004 SAS vs. CLE W 24 8 4 8 50.0 0 0 - 0 0 - 3 2 5 0 0 2 2 3 11
+p87
+aVBruce Bowen SAS 03/29/2004 SAS vs. CLE W 33 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 2 0 1 1 2 5
+p88
+aVKevin Willis SAS 03/29/2004 SAS vs. CLE W 11 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 1 -8
+p89
+aVMalik Rose SAS 03/29/2004 SAS vs. CLE W 12 4 2 6 33.3 0 0 - 0 0 - 2 1 3 1 0 0 1 2 7
+p90
+aVManu Ginobili SAS 03/29/2004 SAS vs. CLE W 24 21 8 15 53.3 3 4 75.0 2 4 50.0 3 5 8 2 1 0 1 2 8
+p91
+aVHedo Turkoglu SAS 03/29/2004 SAS vs. CLE W 28 4 2 8 25.0 0 3 0.0 0 0 - 0 6 6 3 2 0 0 3 16
+p92
+aVRobert Horry SAS 03/29/2004 SAS vs. CLE W 21 6 2 4 50.0 0 1 0.0 2 2 100.0 2 2 4 3 0 1 1 1 -1
+p93
+aVJason Hart SAS 03/29/2004 SAS vs. CLE W 19 8 4 6 66.7 0 0 - 0 0 - 0 2 2 2 0 0 3 1 -5
+p94
+aVDevin Brown SAS 03/29/2004 SAS vs. CLE W 11 7 2 2 100.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 1 1 -13
+p95
+aVTim Duncan SAS 03/29/2004 SAS vs. CLE W 28 18 9 14 64.3 0 0 - 0 2 0.0 2 5 7 3 1 2 2 2 7
+p96
+aVTim Duncan SAS 03/27/2004 SAS vs. PHX W 18 14 6 10 60.0 0 0 - 2 2 100.0 3 7 10 4 0 1 1 2 27
+p97
+aVJason Hart SAS 03/27/2004 SAS vs. PHX W 16 12 5 8 62.5 1 1 100.0 1 1 100.0 0 0 0 1 0 0 0 0 -6
+p98
+aVMalik Rose SAS 03/27/2004 SAS vs. PHX W 23 8 4 11 36.4 0 0 - 0 0 - 2 6 8 2 1 0 1 1 13
+p99
+aVCharlie Ward SAS 03/27/2004 SAS vs. PHX W 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 1 0 0 0 -5
+p100
+aVBruce Bowen SAS 03/27/2004 SAS vs. PHX W 23 4 2 4 50.0 0 2 0.0 0 1 0.0 0 1 1 3 1 0 1 1 32
+p101
+aVKevin Willis SAS 03/27/2004 SAS vs. PHX W 17 7 3 7 42.9 0 0 - 1 2 50.0 0 3 3 0 1 0 0 1 -7
+p102
+aVRasho Nesterovic SAS 03/27/2004 SAS vs. PHX W 20 4 2 6 33.3 0 0 - 0 0 - 1 3 4 1 0 0 2 3 27
+p103
+aVRobert Horry SAS 03/27/2004 SAS vs. PHX W 18 9 4 8 50.0 1 4 25.0 0 0 - 3 3 6 1 0 1 0 2 -2
+p104
+aVTony Parker SAS 03/27/2004 SAS vs. PHX W 27 12 4 8 50.0 0 0 - 4 6 66.7 2 2 4 5 0 0 1 0 36
+p105
+aVHedo Turkoglu SAS 03/27/2004 SAS vs. PHX W 22 14 5 9 55.6 2 5 40.0 2 2 100.0 1 4 5 2 2 1 1 1 21
+p106
+aVDevin Brown SAS 03/27/2004 SAS vs. PHX W 24 10 4 8 50.0 0 1 0.0 2 2 100.0 0 2 2 5 0 0 0 2 -4
+p107
+aVManu Ginobili SAS 03/27/2004 SAS vs. PHX W 20 9 4 5 80.0 1 1 100.0 0 0 - 0 3 3 5 2 0 0 3 13
+p108
+aVRobert Horry SAS 03/25/2004 SAS vs. DET W 7 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 1 0 0 5
+p109
+aVTim Duncan SAS 03/25/2004 SAS vs. DET W 35 12 3 8 37.5 0 0 - 6 10 60.0 3 10 13 5 1 3 3 2 3
+p110
+aVTony Parker SAS 03/25/2004 SAS vs. DET W 41 16 7 16 43.8 0 3 0.0 2 2 100.0 1 2 3 7 0 0 5 0 4
+p111
+aVJason Hart SAS 03/25/2004 SAS vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p112
+aVHedo Turkoglu SAS 03/25/2004 SAS vs. DET W 35 9 3 12 25.0 1 4 25.0 2 2 100.0 1 8 9 0 2 0 0 1 17
+p113
+aVRasho Nesterovic SAS 03/25/2004 SAS vs. DET W 31 9 4 8 50.0 0 0 - 1 2 50.0 1 2 3 2 1 2 1 1 15
+p114
+aVDevin Brown SAS 03/25/2004 SAS vs. DET W 9 4 2 6 33.3 0 0 - 0 0 - 2 0 2 1 1 0 1 0 -4
+p115
+aVMalik Rose SAS 03/25/2004 SAS vs. DET W 22 6 2 3 66.7 0 0 - 2 3 66.7 2 3 5 0 0 1 0 4 -5
+p116
+aVManu Ginobili SAS 03/25/2004 SAS vs. DET W 28 17 4 11 36.4 2 4 50.0 7 7 100.0 3 2 5 1 1 0 4 4 5
+p117
+aVBruce Bowen SAS 03/25/2004 SAS vs. DET W 28 10 4 8 50.0 1 3 33.3 1 1 100.0 1 1 2 0 1 0 1 3 0
+p118
+aVBruce Bowen SAS 03/23/2004 SAS @ MIN L 41 4 2 4 50.0 0 1 0.0 0 0 - 2 3 5 4 0 1 2 2 1
+p119
+aVManu Ginobili SAS 03/23/2004 SAS @ MIN L 21 4 2 11 18.2 0 4 0.0 0 0 - 3 3 6 3 1 0 3 2 -15
+p120
+aVTony Parker SAS 03/23/2004 SAS @ MIN L 40 11 5 16 31.3 0 2 0.0 1 2 50.0 0 5 5 12 1 0 1 2 -8
+p121
+aVMalik Rose SAS 03/23/2004 SAS @ MIN L 28 15 5 11 45.5 0 0 - 5 5 100.0 4 4 8 0 0 0 2 4 -2
+p122
+aVDevin Brown SAS 03/23/2004 SAS @ MIN L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p123
+aVRobert Horry SAS 03/23/2004 SAS @ MIN L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 5 3
+p124
+aVHedo Turkoglu SAS 03/23/2004 SAS @ MIN L 36 19 8 13 61.5 2 4 50.0 1 1 100.0 1 8 9 3 3 0 2 3 10
+p125
+aVTim Duncan SAS 03/23/2004 SAS @ MIN L 37 26 12 23 52.2 0 1 0.0 2 6 33.3 3 5 8 5 1 3 4 3 0
+p126
+aVRasho Nesterovic SAS 03/23/2004 SAS @ MIN L 21 2 1 7 14.3 0 0 - 0 0 - 1 3 4 1 0 3 0 3 -11
+p127
+aVRasho Nesterovic SAS 03/20/2004 SAS vs. BOS W 29 5 2 7 28.6 0 0 - 1 2 50.0 3 5 8 4 1 1 0 2 15
+p128
+aVMalik Rose SAS 03/20/2004 SAS vs. BOS W 26 13 5 6 83.3 0 0 - 3 3 100.0 4 2 6 0 0 1 4 3 3
+p129
+aVKevin Willis SAS 03/20/2004 SAS vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 2 2 -4
+p130
+aVTony Parker SAS 03/20/2004 SAS vs. BOS W 36 15 6 9 66.7 0 2 0.0 3 6 50.0 0 5 5 5 1 0 2 1 15
+p131
+aVDevin Brown SAS 03/20/2004 SAS vs. BOS W 13 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 4 3
+p132
+aVRobert Horry SAS 03/20/2004 SAS vs. BOS W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p133
+aVJason Hart SAS 03/20/2004 SAS vs. BOS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p134
+aVHedo Turkoglu SAS 03/20/2004 SAS vs. BOS W 27 5 2 8 25.0 1 5 20.0 0 0 - 0 5 5 2 4 1 2 3 6
+p135
+aVManu Ginobili SAS 03/20/2004 SAS vs. BOS W 24 26 7 10 70.0 3 3 100.0 9 9 100.0 0 3 3 1 2 0 4 0 11
+p136
+aVBruce Bowen SAS 03/20/2004 SAS vs. BOS W 38 9 3 11 27.3 2 8 25.0 1 2 50.0 1 0 1 3 1 1 2 2 21
+p137
+aVCharlie Ward SAS 03/20/2004 SAS vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p138
+aVTim Duncan SAS 03/20/2004 SAS vs. BOS W 32 26 10 13 76.9 0 0 - 6 6 100.0 3 12 15 2 1 2 3 1 15
+p139
+aVHedo Turkoglu SAS 03/18/2004 SAS vs. MIN W 37 13 4 9 44.4 3 4 75.0 2 2 100.0 1 2 3 7 1 1 0 3 21
+p140
+aVRasho Nesterovic SAS 03/18/2004 SAS vs. MIN W 32 12 6 10 60.0 0 0 - 0 0 - 3 2 5 0 0 2 1 2 10
+p141
+aVKevin Willis SAS 03/18/2004 SAS vs. MIN W 2 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p142
+aVRobert Horry SAS 03/18/2004 SAS vs. MIN W 14 6 2 4 50.0 1 3 33.3 1 2 50.0 1 1 2 0 2 0 0 1 5
+p143
+aVTim Duncan SAS 03/18/2004 SAS vs. MIN W 27 22 6 15 40.0 0 0 - 10 15 66.7 1 9 10 1 0 1 1 0 16
+p144
+aVDevin Brown SAS 03/18/2004 SAS vs. MIN W 14 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 0 1 0 2 7
+p145
+aVTony Parker SAS 03/18/2004 SAS vs. MIN W 38 16 7 13 53.8 0 2 0.0 2 3 66.7 2 4 6 7 2 0 2 2 13
+p146
+aVMalik Rose SAS 03/18/2004 SAS vs. MIN W 13 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 1 5 -1
+p147
+aVJason Hart SAS 03/18/2004 SAS vs. MIN W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p148
+aVBruce Bowen SAS 03/18/2004 SAS vs. MIN W 30 8 3 5 60.0 1 2 50.0 1 2 50.0 0 5 5 1 1 0 0 5 14
+p149
+aVManu Ginobili SAS 03/18/2004 SAS vs. MIN W 28 15 5 13 38.5 0 2 0.0 5 7 71.4 2 6 8 2 0 0 0 2 12
+p150
+aVCharlie Ward SAS 03/18/2004 SAS vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 0 1
+p151
+aVCharlie Ward SAS 03/15/2004 SAS @ GSW L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p152
+aVDevin Brown SAS 03/15/2004 SAS @ GSW L 22 4 2 9 22.2 0 1 0.0 0 2 0.0 2 4 6 1 1 1 0 2 -2
+p153
+aVMalik Rose SAS 03/15/2004 SAS @ GSW L 24 6 2 7 28.6 0 0 - 2 2 100.0 3 1 4 2 0 0 2 4 -10
+p154
+aVTony Parker SAS 03/15/2004 SAS @ GSW L 44 29 9 19 47.4 0 1 0.0 11 12 91.7 1 4 5 6 1 0 2 3 -13
+p155
+aVHedo Turkoglu SAS 03/15/2004 SAS @ GSW L 31 7 2 7 28.6 1 3 33.3 2 2 100.0 0 3 3 1 2 0 3 5 -18
+p156
+aVManu Ginobili SAS 03/15/2004 SAS @ GSW L 26 16 5 9 55.6 2 3 66.7 4 5 80.0 0 1 1 0 0 0 2 4 -3
+p157
+aVRobert Horry SAS 03/15/2004 SAS @ GSW L 25 7 3 7 42.9 1 3 33.3 0 0 - 2 4 6 1 0 0 1 1 -5
+p158
+aVBruce Bowen SAS 03/15/2004 SAS @ GSW L 18 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 1 1 2 2 -11
+p159
+aVRasho Nesterovic SAS 03/15/2004 SAS @ GSW L 39 6 3 7 42.9 0 0 - 0 2 0.0 1 6 7 3 0 3 0 2 -21
+p160
+aVKevin Willis SAS 03/15/2004 SAS @ GSW L 7 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 2
+p161
+aVTony Parker SAS 03/14/2004 SAS @ SAC L 36 8 4 11 36.4 0 2 0.0 0 0 - 0 1 1 5 2 0 2 3 -22
+p162
+aVBruce Bowen SAS 03/14/2004 SAS @ SAC L 27 5 2 8 25.0 1 4 25.0 0 0 - 4 7 11 1 1 1 1 0 -9
+p163
+aVManu Ginobili SAS 03/14/2004 SAS @ SAC L 28 16 6 14 42.9 2 3 66.7 2 4 50.0 1 2 3 4 1 0 4 3 -13
+p164
+aVCharlie Ward SAS 03/14/2004 SAS @ SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p165
+aVMalik Rose SAS 03/14/2004 SAS @ SAC L 23 11 4 10 40.0 0 0 - 3 5 60.0 1 3 4 1 3 0 4 2 -13
+p166
+aVHedo Turkoglu SAS 03/14/2004 SAS @ SAC L 41 13 5 10 50.0 1 3 33.3 2 5 40.0 2 6 8 2 0 1 1 1 -6
+p167
+aVJason Hart SAS 03/14/2004 SAS @ SAC L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p168
+aVKevin Willis SAS 03/14/2004 SAS @ SAC L 8 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 3
+p169
+aVDevin Brown SAS 03/14/2004 SAS @ SAC L 10 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 1 0
+p170
+aVRobert Horry SAS 03/14/2004 SAS @ SAC L 22 8 3 6 50.0 0 1 0.0 2 2 100.0 1 2 3 2 1 0 1 1 -1
+p171
+aVRasho Nesterovic SAS 03/14/2004 SAS @ SAC L 38 14 7 15 46.7 0 0 - 0 0 - 6 7 13 1 1 1 4 4 -13
+p172
+aVKevin Willis SAS 03/12/2004 SAS vs. GSW W 19 16 8 11 72.7 0 0 - 0 0 - 3 4 7 1 2 1 0 1 5
+p173
+aVHedo Turkoglu SAS 03/12/2004 SAS vs. GSW W 28 10 4 11 36.4 2 4 50.0 0 0 - 1 8 9 2 2 1 0 2 14
+p174
+aVRobert Horry SAS 03/12/2004 SAS vs. GSW W 19 13 5 8 62.5 2 4 50.0 1 1 100.0 1 2 3 1 2 0 2 3 7
+p175
+aVJason Hart SAS 03/12/2004 SAS vs. GSW W 2 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p176
+aVTony Parker SAS 03/12/2004 SAS vs. GSW W 36 13 3 8 37.5 2 2 100.0 5 6 83.3 0 1 1 12 1 0 1 1 16
+p177
+aVDevin Brown SAS 03/12/2004 SAS vs. GSW W 19 0 0 6 0.0 0 0 - 0 0 - 3 3 6 2 1 0 0 1 22
+p178
+aVBruce Bowen SAS 03/12/2004 SAS vs. GSW W 30 10 5 8 62.5 0 2 0.0 0 0 - 0 1 1 1 0 1 0 2 0
+p179
+aVRasho Nesterovic SAS 03/12/2004 SAS vs. GSW W 26 4 2 8 25.0 0 0 - 0 0 - 3 2 5 1 1 2 0 2 21
+p180
+aVMalik Rose SAS 03/12/2004 SAS vs. GSW W 32 17 6 9 66.7 0 0 - 5 8 62.5 3 4 7 2 0 1 2 4 17
+p181
+aVCharlie Ward SAS 03/12/2004 SAS vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p182
+aVManu Ginobili SAS 03/12/2004 SAS vs. GSW W 26 16 7 11 63.6 1 2 50.0 1 2 50.0 1 4 5 2 2 0 2 1 19
+p183
+aVKevin Willis SAS 03/10/2004 SAS vs. LAC W 17 7 2 3 66.7 0 0 - 3 4 75.0 2 2 4 0 2 0 0 1 2
+p184
+aVBruce Bowen SAS 03/10/2004 SAS vs. LAC W 25 8 3 9 33.3 0 4 0.0 2 2 100.0 0 2 2 0 1 0 0 3 13
+p185
+aVTony Parker SAS 03/10/2004 SAS vs. LAC W 29 13 5 8 62.5 1 2 50.0 2 3 66.7 0 2 2 7 1 0 0 2 18
+p186
+aVManu Ginobili SAS 03/10/2004 SAS vs. LAC W 25 14 5 7 71.4 3 3 100.0 1 2 50.0 0 4 4 8 1 0 1 2 19
+p187
+aVCharlie Ward SAS 03/10/2004 SAS vs. LAC W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -6
+p188
+aVDevin Brown SAS 03/10/2004 SAS vs. LAC W 23 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 0 0 0 3 2
+p189
+aVJason Hart SAS 03/10/2004 SAS vs. LAC W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -1
+p190
+aVHedo Turkoglu SAS 03/10/2004 SAS vs. LAC W 33 16 6 15 40.0 3 6 50.0 1 2 50.0 1 2 3 3 1 2 2 4 9
+p191
+aVMalik Rose SAS 03/10/2004 SAS vs. LAC W 35 21 7 17 41.2 0 0 - 7 9 77.8 5 7 12 2 0 1 1 2 1
+p192
+aVTim Duncan SAS 03/10/2004 SAS vs. LAC W 15 9 4 10 40.0 0 0 - 1 1 100.0 1 1 2 3 2 0 1 1 18
+p193
+aVRobert Horry SAS 03/10/2004 SAS vs. LAC W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 1 1 4 4
+p194
+aVRasho Nesterovic SAS 03/10/2004 SAS vs. LAC W 24 8 4 7 57.1 0 0 - 0 0 - 5 4 9 2 3 2 0 5 11
+p195
+aVMalik Rose SAS 03/09/2004 SAS @ MEM L 42 19 7 14 50.0 0 0 - 5 6 83.3 2 12 14 3 0 0 4 4 -2
+p196
+aVHedo Turkoglu SAS 03/09/2004 SAS @ MEM L 39 17 5 12 41.7 4 5 80.0 3 4 75.0 2 3 5 2 1 1 3 3 6
+p197
+aVRasho Nesterovic SAS 03/09/2004 SAS @ MEM L 41 13 6 13 46.2 0 0 - 1 2 50.0 3 10 13 1 1 6 1 4 -3
+p198
+aVBruce Bowen SAS 03/09/2004 SAS @ MEM L 24 1 0 4 0.0 0 1 0.0 1 2 50.0 1 3 4 0 1 0 5 2 -6
+p199
+aVTony Parker SAS 03/09/2004 SAS @ MEM L 43 24 8 16 50.0 4 6 66.7 4 5 80.0 0 2 2 7 1 0 3 3 1
+p200
+aVManu Ginobili SAS 03/09/2004 SAS @ MEM L 30 6 1 4 25.0 0 2 0.0 4 4 100.0 0 2 2 4 2 0 6 2 -15
+p201
+aVRobert Horry SAS 03/09/2004 SAS @ MEM L 14 6 2 6 33.3 2 3 66.7 0 0 - 2 2 4 1 0 0 1 4 -7
+p202
+aVDevin Brown SAS 03/09/2004 SAS @ MEM L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p203
+aVRobert Horry SAS 03/06/2004 SAS @ PHX W 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 2 0 0 0 1 -8
+p204
+aVHedo Turkoglu SAS 03/06/2004 SAS @ PHX W 33 13 5 12 41.7 2 5 40.0 1 2 50.0 2 4 6 4 0 0 1 1 33
+p205
+aVTony Parker SAS 03/06/2004 SAS @ PHX W 33 17 7 14 50.0 1 2 50.0 2 4 50.0 1 2 3 5 0 0 3 1 20
+p206
+aVCharlie Ward SAS 03/06/2004 SAS @ PHX W 12 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 3
+p207
+aVJason Hart SAS 03/06/2004 SAS @ PHX W 5 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -7
+p208
+aVDevin Brown SAS 03/06/2004 SAS @ PHX W 18 6 2 6 33.3 0 0 - 2 2 100.0 3 2 5 0 0 0 2 1 3
+p209
+aVKevin Willis SAS 03/06/2004 SAS @ PHX W 14 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 1 3 5 1
+p210
+aVRasho Nesterovic SAS 03/06/2004 SAS @ PHX W 32 22 11 14 78.6 0 0 - 0 0 - 7 6 13 5 2 1 1 3 19
+p211
+aVBruce Bowen SAS 03/06/2004 SAS @ PHX W 34 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 2 2 1 1 1 21
+p212
+aVMalik Rose SAS 03/06/2004 SAS @ PHX W 31 19 6 15 40.0 0 0 - 7 7 100.0 1 4 5 2 2 0 1 3 18
+p213
+aVManu Ginobili SAS 03/06/2004 SAS @ PHX W 18 9 3 7 42.9 1 3 33.3 2 2 100.0 0 2 2 1 2 0 2 0 2
+p214
+aVJason Hart SAS 03/05/2004 SAS vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p215
+aVMalik Rose SAS 03/05/2004 SAS vs. DAL W 33 18 6 10 60.0 0 0 - 6 9 66.7 4 6 10 2 3 1 3 5 11
+p216
+aVDevin Brown SAS 03/05/2004 SAS vs. DAL W 11 5 0 3 0.0 0 0 - 5 6 83.3 0 6 6 1 0 0 0 2 11
+p217
+aVTony Parker SAS 03/05/2004 SAS vs. DAL W 36 27 9 17 52.9 1 1 100.0 8 10 80.0 0 0 0 5 1 0 3 5 0
+p218
+aVManu Ginobili SAS 03/05/2004 SAS vs. DAL W 27 11 3 7 42.9 0 2 0.0 5 6 83.3 1 5 6 3 2 0 4 4 10
+p219
+aVKevin Willis SAS 03/05/2004 SAS vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -4
+p220
+aVBruce Bowen SAS 03/05/2004 SAS vs. DAL W 33 11 4 10 40.0 1 2 50.0 2 2 100.0 1 2 3 2 1 1 1 2 12
+p221
+aVRobert Horry SAS 03/05/2004 SAS vs. DAL W 19 7 3 5 60.0 0 0 - 1 2 50.0 2 1 3 2 0 2 2 0 11
+p222
+aVHedo Turkoglu SAS 03/05/2004 SAS vs. DAL W 38 21 7 12 58.3 4 5 80.0 3 6 50.0 0 5 5 3 2 0 3 4 6
+p223
+aVCharlie Ward SAS 03/05/2004 SAS vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p224
+aVRasho Nesterovic SAS 03/05/2004 SAS vs. DAL W 38 13 6 12 50.0 0 0 - 1 4 25.0 8 7 15 5 1 7 1 3 6
+p225
+aVTony Parker SAS 03/03/2004 SAS vs. SEA W 35 17 7 13 53.8 1 4 25.0 2 4 50.0 1 3 4 7 6 0 2 3 9
+p226
+aVManu Ginobili SAS 03/03/2004 SAS vs. SEA W 22 3 1 6 16.7 0 1 0.0 1 2 50.0 1 2 3 3 3 0 4 1 0
+p227
+aVHedo Turkoglu SAS 03/03/2004 SAS vs. SEA W 36 18 6 10 60.0 4 5 80.0 2 2 100.0 0 2 2 4 1 0 0 1 7
+p228
+aVBruce Bowen SAS 03/03/2004 SAS vs. SEA W 33 14 4 7 57.1 2 4 50.0 4 4 100.0 1 2 3 1 1 1 3 3 10
+p229
+aVMalik Rose SAS 03/03/2004 SAS vs. SEA W 20 4 2 7 28.6 0 0 - 0 0 - 1 1 2 0 1 0 3 4 6
+p230
+aVKevin Willis SAS 03/03/2004 SAS vs. SEA W 11 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 -14
+p231
+aVRasho Nesterovic SAS 03/03/2004 SAS vs. SEA W 37 12 6 15 40.0 0 0 - 0 0 - 7 5 12 1 1 2 2 4 18
+p232
+aVRobert Horry SAS 03/03/2004 SAS vs. SEA W 23 14 5 7 71.4 0 0 - 4 4 100.0 1 5 6 1 0 0 2 4 -2
+p233
+aVDevin Brown SAS 03/03/2004 SAS vs. SEA W 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -9
+p234
+aVJason Hart SAS 03/03/2004 SAS vs. SEA W 9 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p235
+aVCharlie Ward SAS 03/03/2004 SAS vs. SEA W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p236
+aVManu Ginobili SAS 03/01/2004 SAS vs. MEM L 31 15 4 11 36.4 2 5 40.0 5 6 83.3 0 5 5 9 2 0 4 4 -2
+p237
+aVTony Parker SAS 03/01/2004 SAS vs. MEM L 31 3 1 9 11.1 0 2 0.0 1 4 25.0 0 1 1 3 0 0 2 1 9
+p238
+aVHedo Turkoglu SAS 03/01/2004 SAS vs. MEM L 35 19 7 13 53.8 3 7 42.9 2 3 66.7 0 4 4 2 4 1 1 3 3
+p239
+aVJason Hart SAS 03/01/2004 SAS vs. MEM L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p240
+aVBruce Bowen SAS 03/01/2004 SAS vs. MEM L 30 6 2 4 50.0 1 2 50.0 1 2 50.0 1 6 7 1 1 0 2 2 -3
+p241
+aVKevin Willis SAS 03/01/2004 SAS vs. MEM L 13 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -3
+p242
+aVMalik Rose SAS 03/01/2004 SAS vs. MEM L 25 8 3 8 37.5 0 0 - 2 3 66.7 3 7 10 1 1 0 4 4 -3
+p243
+aVDevin Brown SAS 03/01/2004 SAS vs. MEM L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p244
+aVRasho Nesterovic SAS 03/01/2004 SAS vs. MEM L 35 18 9 12 75.0 0 0 - 0 0 - 1 9 10 1 0 5 0 4 2
+p245
+aVRobert Horry SAS 03/01/2004 SAS vs. MEM L 22 1 0 3 0.0 0 1 0.0 1 2 50.0 2 4 6 2 1 2 3 2 2
+p246
+aVCharlie Ward SAS 03/01/2004 SAS vs. MEM L 12 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 0 1 0 1 0 -8
+p247
+aVHedo Turkoglu SAS 02/28/2004 SAS vs. DEN W 30 12 4 11 36.4 1 6 16.7 3 3 100.0 2 4 6 4 0 0 0 3 25
+p248
+aVCharlie Ward SAS 02/28/2004 SAS vs. DEN W 17 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 3 8
+p249
+aVRobert Horry SAS 02/28/2004 SAS vs. DEN W 19 6 3 9 33.3 0 1 0.0 0 0 - 6 3 9 3 0 1 0 2 13
+p250
+aVJason Hart SAS 02/28/2004 SAS vs. DEN W 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 0 0 3
+p251
+aVMalik Rose SAS 02/28/2004 SAS vs. DEN W 29 17 6 11 54.5 0 0 - 5 8 62.5 1 6 7 3 0 1 1 4 12
+p252
+aVTony Parker SAS 02/28/2004 SAS vs. DEN W 31 29 11 19 57.9 4 4 100.0 3 6 50.0 0 0 0 3 1 0 2 1 17
+p253
+aVDevin Brown SAS 02/28/2004 SAS vs. DEN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 3
+p254
+aVKevin Willis SAS 02/28/2004 SAS vs. DEN W 14 17 8 9 88.9 0 0 - 1 1 100.0 2 3 5 0 1 1 0 5 7
+p255
+aVBruce Bowen SAS 02/28/2004 SAS vs. DEN W 27 2 1 4 25.0 0 1 0.0 0 0 - 2 2 4 3 1 0 0 1 9
+p256
+aVRasho Nesterovic SAS 02/28/2004 SAS vs. DEN W 34 20 10 18 55.6 0 0 - 0 0 - 4 8 12 0 1 2 0 1 18
+p257
+aVManu Ginobili SAS 02/28/2004 SAS vs. DEN W 29 8 3 9 33.3 0 2 0.0 2 2 100.0 0 3 3 5 1 0 2 3 10
+p258
+aVDevin Brown SAS 02/26/2004 SAS @ DAL L 15 6 3 7 42.9 0 0 - 0 0 - 1 1 2 1 2 0 1 1 -11
+p259
+aVMalik Rose SAS 02/26/2004 SAS @ DAL L 22 12 5 8 62.5 0 0 - 2 3 66.7 3 2 5 1 1 0 2 2 -13
+p260
+aVTony Parker SAS 02/26/2004 SAS @ DAL L 24 9 4 8 50.0 0 1 0.0 1 3 33.3 0 0 0 1 0 0 5 4 -5
+p261
+aVRasho Nesterovic SAS 02/26/2004 SAS @ DAL L 22 2 1 3 33.3 0 0 - 0 0 - 2 0 2 2 0 0 0 3 -10
+p262
+aVRobert Horry SAS 02/26/2004 SAS @ DAL L 15 6 2 4 50.0 1 2 50.0 1 2 50.0 0 1 1 2 0 0 0 1 -13
+p263
+aVHedo Turkoglu SAS 02/26/2004 SAS @ DAL L 29 16 5 8 62.5 2 4 50.0 4 4 100.0 0 4 4 4 1 1 0 3 -16
+p264
+aVKevin Willis SAS 02/26/2004 SAS @ DAL L 12 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 0 1 2 3 1 -6
+p265
+aVCharlie Ward SAS 02/26/2004 SAS @ DAL L 24 4 2 7 28.6 0 4 0.0 0 0 - 0 3 3 4 1 0 0 4 -19
+p266
+aVManu Ginobili SAS 02/26/2004 SAS @ DAL L 22 7 3 10 30.0 1 5 20.0 0 0 - 3 0 3 3 1 0 1 1 -14
+p267
+aVRon Mercer SAS 02/26/2004 SAS @ DAL L 14 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p268
+aVTim Duncan SAS 02/26/2004 SAS @ DAL L 25 22 8 15 53.3 0 0 - 6 7 85.7 3 14 17 0 0 1 2 0 -6
+p269
+aVBruce Bowen SAS 02/26/2004 SAS @ DAL L 16 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -5
+p270
+aVManu Ginobili SAS 02/24/2004 SAS vs. HOU W 28 21 8 12 66.7 3 5 60.0 2 3 66.7 1 2 3 2 5 0 1 1 12
+p271
+aVBruce Bowen SAS 02/24/2004 SAS vs. HOU W 36 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 2 0 1 2 2 13
+p272
+aVTim Duncan SAS 02/24/2004 SAS vs. HOU W 41 27 10 20 50.0 0 0 - 7 10 70.0 4 9 13 4 0 5 1 3 11
+p273
+aVRon Mercer SAS 02/24/2004 SAS vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p274
+aVRobert Horry SAS 02/24/2004 SAS vs. HOU W 14 4 1 3 33.3 0 1 0.0 2 2 100.0 2 2 4 0 1 0 0 2 20
+p275
+aVDevin Brown SAS 02/24/2004 SAS vs. HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p276
+aVHedo Turkoglu SAS 02/24/2004 SAS vs. HOU W 30 17 6 9 66.7 4 6 66.7 1 1 100.0 0 5 5 0 1 0 1 2 3
+p277
+aVTony Parker SAS 02/24/2004 SAS vs. HOU W 33 11 5 12 41.7 0 2 0.0 1 1 100.0 1 2 3 7 2 0 7 1 6
+p278
+aVRasho Nesterovic SAS 02/24/2004 SAS vs. HOU W 29 2 1 7 14.3 0 0 - 0 0 - 3 6 9 1 1 1 0 4 -4
+p279
+aVCharlie Ward SAS 02/24/2004 SAS vs. HOU W 15 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 3
+p280
+aVMalik Rose SAS 02/24/2004 SAS vs. HOU W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 -9
+p281
+aVCharlie Ward SAS 02/22/2004 SAS @ MIN W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p282
+aVRasho Nesterovic SAS 02/22/2004 SAS @ MIN W 29 6 3 8 37.5 0 0 - 0 0 - 5 6 11 2 0 2 1 4 5
+p283
+aVBruce Bowen SAS 02/22/2004 SAS @ MIN W 32 6 2 4 50.0 2 3 66.7 0 0 - 2 1 3 3 1 0 0 2 -11
+p284
+aVKevin Willis SAS 02/22/2004 SAS @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p285
+aVHedo Turkoglu SAS 02/22/2004 SAS @ MIN W 35 13 5 13 38.5 3 6 50.0 0 1 0.0 2 12 14 2 0 0 0 3 10
+p286
+aVTim Duncan SAS 02/22/2004 SAS @ MIN W 40 25 8 24 33.3 0 0 - 9 14 64.3 2 6 8 2 0 1 2 3 0
+p287
+aVManu Ginobili SAS 02/22/2004 SAS @ MIN W 29 11 4 11 36.4 1 2 50.0 2 3 66.7 1 3 4 6 2 0 2 1 2
+p288
+aVRobert Horry SAS 02/22/2004 SAS @ MIN W 15 6 3 7 42.9 0 1 0.0 0 2 0.0 3 0 3 1 0 0 0 3 0
+p289
+aVTony Parker SAS 02/22/2004 SAS @ MIN W 41 26 12 22 54.5 1 3 33.3 1 2 50.0 0 4 4 4 1 0 1 0 3
+p290
+aVMalik Rose SAS 02/22/2004 SAS @ MIN W 10 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 1 0 1 2 4
+p291
+aVRasho Nesterovic SAS 02/20/2004 SAS @ CLE L 18 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 1 0 0 3 4
+p292
+aVRobert Horry SAS 02/20/2004 SAS @ CLE L 5 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -8
+p293
+aVCharlie Ward SAS 02/20/2004 SAS @ CLE L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 3 1 0 0 0 -2
+p294
+aVHedo Turkoglu SAS 02/20/2004 SAS @ CLE L 20 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 1 0 0 1 2 -3
+p295
+aVTony Parker SAS 02/20/2004 SAS @ CLE L 38 15 6 13 46.2 0 3 0.0 3 4 75.0 0 3 3 5 1 1 0 4 0
+p296
+aVKevin Willis SAS 02/20/2004 SAS @ CLE L 7 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 1 -1
+p297
+aVMalik Rose SAS 02/20/2004 SAS @ CLE L 22 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 2 1 2 1 1 -2
+p298
+aVBruce Bowen SAS 02/20/2004 SAS @ CLE L 33 7 2 7 28.6 2 5 40.0 1 2 50.0 1 2 3 2 0 1 2 2 3
+p299
+aVManu Ginobili SAS 02/20/2004 SAS @ CLE L 30 21 8 14 57.1 1 4 25.0 4 4 100.0 0 3 3 2 5 0 5 2 -5
+p300
+aVRon Mercer SAS 02/20/2004 SAS @ CLE L 9 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -4
+p301
+aVDevin Brown SAS 02/20/2004 SAS @ CLE L 4 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 1 1 0 0 5
+p302
+aVTim Duncan SAS 02/20/2004 SAS @ CLE L 44 21 9 28 32.1 0 0 - 3 4 75.0 4 8 12 2 0 3 2 1 3
+p303
+aVManu Ginobili SAS 02/18/2004 SAS @ TOR W 26 8 1 7 14.3 1 1 100.0 5 5 100.0 2 4 6 2 2 0 2 1 13
+p304
+aVTim Duncan SAS 02/18/2004 SAS @ TOR W 41 26 10 22 45.5 0 0 - 6 13 46.2 8 13 21 2 0 4 4 0 4
+p305
+aVDevin Brown SAS 02/18/2004 SAS @ TOR W 6 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 1 5
+p306
+aVRasho Nesterovic SAS 02/18/2004 SAS @ TOR W 19 2 1 6 16.7 0 0 - 0 0 - 5 3 8 2 0 3 5 1 -9
+p307
+aVBruce Bowen SAS 02/18/2004 SAS @ TOR W 30 13 5 8 62.5 1 1 100.0 2 3 66.7 0 3 3 0 0 0 0 3 -11
+p308
+aVTony Parker SAS 02/18/2004 SAS @ TOR W 25 0 0 5 0.0 0 1 0.0 0 1 0.0 1 1 2 3 0 0 3 1 -8
+p309
+aVHedo Turkoglu SAS 02/18/2004 SAS @ TOR W 27 5 1 6 16.7 1 3 33.3 2 2 100.0 0 3 3 2 2 0 1 1 5
+p310
+aVMalik Rose SAS 02/18/2004 SAS @ TOR W 18 11 4 6 66.7 0 0 - 3 3 100.0 2 3 5 0 0 1 3 1 22
+p311
+aVKevin Willis SAS 02/18/2004 SAS @ TOR W 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -2
+p312
+aVRobert Horry SAS 02/18/2004 SAS @ TOR W 14 2 1 6 16.7 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -7
+p313
+aVRon Mercer SAS 02/18/2004 SAS @ TOR W 7 3 1 5 20.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 -4
+p314
+aVCharlie Ward SAS 02/18/2004 SAS @ TOR W 23 12 4 6 66.7 2 3 66.7 2 2 100.0 0 2 2 0 1 0 0 2 12
+p315
+aVRasho Nesterovic SAS 02/09/2004 SAS @ HOU W 25 10 5 11 45.5 0 0 - 0 0 - 3 1 4 0 1 1 0 4 -14
+p316
+aVBruce Bowen SAS 02/09/2004 SAS @ HOU W 37 4 1 4 25.0 0 1 0.0 2 2 100.0 0 5 5 1 2 0 0 0 6
+p317
+aVTim Duncan SAS 02/09/2004 SAS @ HOU W 44 28 10 23 43.5 0 0 - 8 11 72.7 3 7 10 3 2 4 4 4 12
+p318
+aVTony Parker SAS 02/09/2004 SAS @ HOU W 38 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 9 4 0 2 1 -2
+p319
+aVHedo Turkoglu SAS 02/09/2004 SAS @ HOU W 27 7 2 6 33.3 1 3 33.3 2 2 100.0 0 4 4 0 3 0 2 2 -3
+p320
+aVManu Ginobili SAS 02/09/2004 SAS @ HOU W 32 13 6 9 66.7 0 0 - 1 2 50.0 0 1 1 3 3 0 3 2 3
+p321
+aVRobert Horry SAS 02/09/2004 SAS @ HOU W 27 13 5 9 55.6 3 3 100.0 0 0 - 2 2 4 1 0 1 0 3 8
+p322
+aVCharlie Ward SAS 02/09/2004 SAS @ HOU W 10 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 0 5
+p323
+aVTony Parker SAS 02/06/2004 SAS @ SAC W 37 20 7 13 53.8 2 6 33.3 4 8 50.0 0 5 5 7 0 0 2 3 2
+p324
+aVDevin Brown SAS 02/06/2004 SAS @ SAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p325
+aVBruce Bowen SAS 02/06/2004 SAS @ SAC W 30 14 6 10 60.0 2 5 40.0 0 0 - 0 0 0 1 1 0 0 3 18
+p326
+aVTim Duncan SAS 02/06/2004 SAS @ SAC W 45 28 12 24 50.0 0 1 0.0 4 8 50.0 5 9 14 4 1 4 2 5 10
+p327
+aVRobert Horry SAS 02/06/2004 SAS @ SAC W 21 5 2 3 66.7 1 2 50.0 0 1 0.0 2 1 3 0 0 1 2 4 -5
+p328
+aVRasho Nesterovic SAS 02/06/2004 SAS @ SAC W 28 4 2 7 28.6 0 0 - 0 0 - 2 7 9 0 0 0 1 3 4
+p329
+aVCharlie Ward SAS 02/06/2004 SAS @ SAC W 11 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 1 0 0 1 6
+p330
+aVHedo Turkoglu SAS 02/06/2004 SAS @ SAC W 38 13 4 9 44.4 2 4 50.0 3 5 60.0 2 4 6 3 3 1 1 2 9
+p331
+aVManu Ginobili SAS 02/06/2004 SAS @ SAC W 28 15 6 11 54.5 0 2 0.0 3 3 100.0 1 3 4 3 1 1 1 4 -3
+p332
+aVCharlie Ward SAS 02/05/2004 SAS @ SEA W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 0 -2
+p333
+aVTony Parker SAS 02/05/2004 SAS @ SEA W 34 18 7 16 43.8 1 3 33.3 3 4 75.0 0 4 4 5 0 0 1 0 8
+p334
+aVRasho Nesterovic SAS 02/05/2004 SAS @ SEA W 18 6 3 8 37.5 0 0 - 0 2 0.0 3 2 5 0 0 0 0 3 -4
+p335
+aVHedo Turkoglu SAS 02/05/2004 SAS @ SEA W 31 14 5 8 62.5 2 3 66.7 2 2 100.0 2 6 8 0 1 0 2 1 -1
+p336
+aVManu Ginobili SAS 02/05/2004 SAS @ SEA W 26 13 5 15 33.3 3 6 50.0 0 0 - 1 4 5 3 0 0 0 5 -2
+p337
+aVMalik Rose SAS 02/05/2004 SAS @ SEA W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 7
+p338
+aVBruce Bowen SAS 02/05/2004 SAS @ SEA W 33 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 1 1 4 15
+p339
+aVTim Duncan SAS 02/05/2004 SAS @ SEA W 42 23 10 19 52.6 0 0 - 3 5 60.0 3 11 14 2 3 2 3 2 14
+p340
+aVRobert Horry SAS 02/05/2004 SAS @ SEA W 24 4 2 6 33.3 0 1 0.0 0 0 - 2 1 3 3 3 0 1 2 -4
+p341
+aVDevin Brown SAS 02/05/2004 SAS @ SEA W 12 10 3 5 60.0 0 1 0.0 4 5 80.0 1 2 3 1 0 0 1 1 -1
+p342
+aVKevin Willis SAS 02/02/2004 SAS @ UTA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p343
+aVHedo Turkoglu SAS 02/02/2004 SAS @ UTA W 28 3 1 6 16.7 0 1 0.0 1 2 50.0 0 5 5 0 1 0 0 2 11
+p344
+aVTim Duncan SAS 02/02/2004 SAS @ UTA W 42 31 13 20 65.0 0 0 - 5 12 41.7 2 9 11 3 3 5 0 1 27
+p345
+aVRasho Nesterovic SAS 02/02/2004 SAS @ UTA W 23 4 1 3 33.3 0 0 - 2 2 100.0 3 2 5 1 0 1 1 4 1
+p346
+aVCharlie Ward SAS 02/02/2004 SAS @ UTA W 16 8 3 7 42.9 2 3 66.7 0 0 - 0 1 1 1 1 0 3 2 5
+p347
+aVMalik Rose SAS 02/02/2004 SAS @ UTA W 12 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 3 2
+p348
+aVTony Parker SAS 02/02/2004 SAS @ UTA W 32 13 3 11 27.3 0 2 0.0 7 9 77.8 1 3 4 6 1 0 2 0 13
+p349
+aVBruce Bowen SAS 02/02/2004 SAS @ UTA W 26 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 1 1 13
+p350
+aVManu Ginobili SAS 02/02/2004 SAS @ UTA W 25 12 5 12 41.7 1 4 25.0 1 2 50.0 1 1 2 1 4 0 2 2 13
+p351
+aVRobert Horry SAS 02/02/2004 SAS @ UTA W 17 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 0 1 0 4 7
+p352
+aVDevin Brown SAS 02/02/2004 SAS @ UTA W 17 4 2 3 66.7 0 0 - 0 1 0.0 2 3 5 1 0 0 2 3 -1
+p353
+aVTim Duncan SAS 01/31/2004 SAS vs. UTA W 43 33 11 18 61.1 0 0 - 11 17 64.7 6 8 14 3 0 3 3 3 5
+p354
+aVTony Parker SAS 01/31/2004 SAS vs. UTA W 38 20 7 15 46.7 2 5 40.0 4 6 66.7 0 1 1 3 3 1 1 2 6
+p355
+aVHedo Turkoglu SAS 01/31/2004 SAS vs. UTA W 37 13 5 12 41.7 3 6 50.0 0 0 - 0 5 5 2 0 0 1 3 16
+p356
+aVRobert Horry SAS 01/31/2004 SAS vs. UTA W 20 2 0 3 0.0 0 1 0.0 2 2 100.0 2 1 3 0 0 1 0 0 5
+p357
+aVManu Ginobili SAS 01/31/2004 SAS vs. UTA W 23 6 0 5 0.0 0 2 0.0 6 6 100.0 3 3 6 3 0 0 0 2 -3
+p358
+aVBruce Bowen SAS 01/31/2004 SAS vs. UTA W 25 2 1 7 14.3 0 1 0.0 0 0 - 0 3 3 0 1 0 0 0 -4
+p359
+aVMalik Rose SAS 01/31/2004 SAS vs. UTA W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p360
+aVRasho Nesterovic SAS 01/31/2004 SAS vs. UTA W 27 4 2 8 25.0 0 0 - 0 2 0.0 3 2 5 0 1 2 0 6 3
+p361
+aVDevin Brown SAS 01/31/2004 SAS vs. UTA W 11 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 1 0 1 3 -3
+p362
+aVCharlie Ward SAS 01/31/2004 SAS vs. UTA W 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 2 0 -2
+p363
+aVManu Ginobili SAS 01/29/2004 SAS vs. SAC L 37 12 4 7 57.1 2 3 66.7 2 3 66.7 1 3 4 4 2 1 5 2 -3
+p364
+aVRobert Horry SAS 01/29/2004 SAS vs. SAC L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -2
+p365
+aVCharlie Ward SAS 01/29/2004 SAS vs. SAC L 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -7
+p366
+aVBruce Bowen SAS 01/29/2004 SAS vs. SAC L 33 10 4 5 80.0 2 2 100.0 0 0 - 0 1 1 0 0 0 1 3 4
+p367
+aVTim Duncan SAS 01/29/2004 SAS vs. SAC L 45 35 17 27 63.0 0 0 - 1 3 33.3 6 12 18 3 1 3 3 3 -7
+p368
+aVHedo Turkoglu SAS 01/29/2004 SAS vs. SAC L 21 6 2 9 22.2 2 3 66.7 0 0 - 0 2 2 1 0 0 1 3 -6
+p369
+aVTony Parker SAS 01/29/2004 SAS vs. SAC L 33 19 8 17 47.1 1 3 33.3 2 2 100.0 0 4 4 6 0 0 3 3 2
+p370
+aVRasho Nesterovic SAS 01/29/2004 SAS vs. SAC L 31 7 3 7 42.9 0 0 - 1 2 50.0 1 5 6 0 1 1 0 2 -4
+p371
+aVDevin Brown SAS 01/29/2004 SAS vs. SAC L 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p372
+aVMalik Rose SAS 01/29/2004 SAS vs. SAC L 14 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 1 0 2 1 3
+p373
+aVMalik Rose SAS 01/27/2004 SAS @ NYK W 16 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 2 0 3 4 1
+p374
+aVTim Duncan SAS 01/27/2004 SAS @ NYK W 43 30 12 24 50.0 0 0 - 6 9 66.7 5 14 19 1 1 1 6 2 7
+p375
+aVBruce Bowen SAS 01/27/2004 SAS @ NYK W 39 6 2 5 40.0 0 0 - 2 3 66.7 1 1 2 1 1 2 0 2 18
+p376
+aVDevin Brown SAS 01/27/2004 SAS @ NYK W 21 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 1 0 0 6 1 -12
+p377
+aVCharlie Ward SAS 01/27/2004 SAS @ NYK W 18 8 3 7 42.9 2 4 50.0 0 0 - 0 4 4 1 0 1 2 2 0
+p378
+aVTony Parker SAS 01/27/2004 SAS @ NYK W 30 10 4 11 36.4 0 2 0.0 2 2 100.0 0 1 1 2 0 0 1 1 10
+p379
+aVRasho Nesterovic SAS 01/27/2004 SAS @ NYK W 32 3 0 5 0.0 0 0 - 3 4 75.0 6 4 10 0 1 0 2 4 20
+p380
+aVManu Ginobili SAS 01/27/2004 SAS @ NYK W 36 14 4 13 30.8 0 3 0.0 6 6 100.0 1 6 7 6 3 0 2 3 14
+p381
+aVRobert Horry SAS 01/27/2004 SAS @ NYK W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 -8
+p382
+aVTim Duncan SAS 01/26/2004 SAS @ MIL L 42 22 10 21 47.6 0 0 - 2 9 22.2 1 7 8 5 0 2 1 2 -11
+p383
+aVTony Parker SAS 01/26/2004 SAS @ MIL L 34 26 10 15 66.7 4 5 80.0 2 2 100.0 0 4 4 6 0 0 2 1 12
+p384
+aVRasho Nesterovic SAS 01/26/2004 SAS @ MIL L 23 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 15
+p385
+aVDevin Brown SAS 01/26/2004 SAS @ MIL L 20 11 4 5 80.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 2 -12
+p386
+aVRobert Horry SAS 01/26/2004 SAS @ MIL L 15 5 1 5 20.0 1 2 50.0 2 4 50.0 3 3 6 1 2 0 0 4 -4
+p387
+aVKevin Willis SAS 01/26/2004 SAS @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 1 1 5
+p388
+aVManu Ginobili SAS 01/26/2004 SAS @ MIL L 34 9 2 5 40.0 1 3 33.3 4 4 100.0 0 5 5 4 1 1 6 4 12
+p389
+aVBruce Bowen SAS 01/26/2004 SAS @ MIL L 35 7 3 4 75.0 0 1 0.0 1 2 50.0 1 4 5 2 2 1 2 3 9
+p390
+aVCharlie Ward SAS 01/26/2004 SAS @ MIL L 14 4 1 6 16.7 1 2 50.0 1 2 50.0 0 2 2 3 0 0 2 0 -13
+p391
+aVRon Mercer SAS 01/26/2004 SAS @ MIL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 0 -11
+p392
+aVMalik Rose SAS 01/26/2004 SAS @ MIL L 12 4 2 7 28.6 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -7
+p393
+aVCharlie Ward SAS 01/24/2004 SAS vs. NOH L 18 2 1 5 20.0 0 4 0.0 0 0 - 0 2 2 4 1 0 2 1 0
+p394
+aVManu Ginobili SAS 01/24/2004 SAS vs. NOH L 33 12 4 11 36.4 0 3 0.0 4 5 80.0 3 2 5 5 1 1 1 2 3
+p395
+aVRon Mercer SAS 01/24/2004 SAS vs. NOH L 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 1
+p396
+aVRasho Nesterovic SAS 01/24/2004 SAS vs. NOH L 19 9 4 7 57.1 0 0 - 1 3 33.3 0 2 2 0 0 0 1 6 2
+p397
+aVRobert Horry SAS 01/24/2004 SAS vs. NOH L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 1 1 1 0 9
+p398
+aVTim Duncan SAS 01/24/2004 SAS vs. NOH L 38 17 8 15 53.3 0 0 - 1 4 25.0 4 9 13 4 1 1 3 3 1
+p399
+aVBruce Bowen SAS 01/24/2004 SAS vs. NOH L 36 9 3 6 50.0 2 4 50.0 1 2 50.0 0 2 2 0 0 1 1 2 -11
+p400
+aVMalik Rose SAS 01/24/2004 SAS vs. NOH L 26 20 5 9 55.6 0 0 - 10 12 83.3 4 4 8 1 3 0 1 2 -9
+p401
+aVHedo Turkoglu SAS 01/24/2004 SAS vs. NOH L 13 8 3 5 60.0 2 2 100.0 0 0 - 0 3 3 1 1 0 0 1 3
+p402
+aVKevin Willis SAS 01/24/2004 SAS vs. NOH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -7
+p403
+aVTony Parker SAS 01/24/2004 SAS vs. NOH L 30 15 7 9 77.8 1 1 100.0 0 0 - 1 1 2 4 0 0 2 5 -2
+p404
+aVManu Ginobili SAS 01/23/2004 SAS @ PHX W 26 10 4 10 40.0 0 4 0.0 2 3 66.7 1 3 4 2 2 0 2 4 9
+p405
+aVRasho Nesterovic SAS 01/23/2004 SAS @ PHX W 28 16 7 16 43.8 0 0 - 2 5 40.0 6 3 9 3 2 3 3 3 -1
+p406
+aVTim Duncan SAS 01/23/2004 SAS @ PHX W 40 25 11 24 45.8 0 0 - 3 5 60.0 6 6 12 5 0 3 3 1 -4
+p407
+aVBruce Bowen SAS 01/23/2004 SAS @ PHX W 39 5 2 8 25.0 1 2 50.0 0 0 - 3 4 7 0 3 0 2 0 -4
+p408
+aVRobert Horry SAS 01/23/2004 SAS @ PHX W 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 5
+p409
+aVRon Mercer SAS 01/23/2004 SAS @ PHX W 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p410
+aVHedo Turkoglu SAS 01/23/2004 SAS @ PHX W 36 12 5 11 45.5 2 4 50.0 0 1 0.0 0 4 4 0 3 2 0 3 5
+p411
+aVTony Parker SAS 01/23/2004 SAS @ PHX W 35 11 5 13 38.5 0 4 0.0 1 1 100.0 1 1 2 3 0 0 1 2 -2
+p412
+aVCharlie Ward SAS 01/23/2004 SAS @ PHX W 14 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 2 1 0 1 2 4
+p413
+aVKevin Willis SAS 01/23/2004 SAS @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p414
+aVHedo Turkoglu SAS 01/21/2004 SAS vs. NJN W 29 18 7 11 63.6 4 7 57.1 0 0 - 1 5 6 3 0 1 2 4 27
+p415
+aVRasho Nesterovic SAS 01/21/2004 SAS vs. NJN W 34 16 5 11 45.5 0 0 - 6 7 85.7 4 3 7 4 2 5 3 3 27
+p416
+aVKevin Willis SAS 01/21/2004 SAS vs. NJN W 3 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 1
+p417
+aVCharlie Ward SAS 01/21/2004 SAS vs. NJN W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -5
+p418
+aVBruce Bowen SAS 01/21/2004 SAS vs. NJN W 39 15 5 9 55.6 1 4 25.0 4 6 66.7 0 2 2 1 0 0 0 1 20
+p419
+aVTim Duncan SAS 01/21/2004 SAS vs. NJN W 38 21 9 21 42.9 0 0 - 3 7 42.9 5 12 17 5 1 1 2 3 13
+p420
+aVManu Ginobili SAS 01/21/2004 SAS vs. NJN W 16 8 4 5 80.0 0 0 - 0 2 0.0 0 3 3 1 0 0 1 4 -3
+p421
+aVDevin Brown SAS 01/21/2004 SAS vs. NJN W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p422
+aVRon Mercer SAS 01/21/2004 SAS vs. NJN W 10 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p423
+aVTony Parker SAS 01/21/2004 SAS vs. NJN W 33 11 5 10 50.0 0 1 0.0 1 1 100.0 2 5 7 3 1 0 3 0 28
+p424
+aVRobert Horry SAS 01/21/2004 SAS vs. NJN W 20 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 2 1 0 0 0 3
+p425
+aVCharlie Ward SAS 01/19/2004 SAS @ DET L 22 12 4 7 57.1 4 6 66.7 0 0 - 0 2 2 1 1 0 1 2 -2
+p426
+aVKevin Willis SAS 01/19/2004 SAS @ DET L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 7
+p427
+aVRobert Horry SAS 01/19/2004 SAS @ DET L 22 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 3 2 1 2 2 -17
+p428
+aVTony Parker SAS 01/19/2004 SAS @ DET L 26 5 2 9 22.2 0 2 0.0 1 2 50.0 0 1 1 2 1 0 2 0 -6
+p429
+aVManu Ginobili SAS 01/19/2004 SAS @ DET L 28 10 4 9 44.4 1 3 33.3 1 1 100.0 2 1 3 4 1 0 1 3 -2
+p430
+aVBruce Bowen SAS 01/19/2004 SAS @ DET L 31 3 1 9 11.1 1 4 25.0 0 2 0.0 0 3 3 3 1 0 0 1 -5
+p431
+aVRasho Nesterovic SAS 01/19/2004 SAS @ DET L 26 6 3 5 60.0 0 0 - 0 2 0.0 3 4 7 1 0 1 1 6 -7
+p432
+aVHedo Turkoglu SAS 01/19/2004 SAS @ DET L 31 14 6 13 46.2 2 6 33.3 0 0 - 0 6 6 2 1 1 1 4 -9
+p433
+aVMalik Rose SAS 01/19/2004 SAS @ DET L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p434
+aVTim Duncan SAS 01/19/2004 SAS @ DET L 40 17 7 13 53.8 0 0 - 3 6 50.0 2 8 10 6 1 1 6 3 0
+p435
+aVRon Mercer SAS 01/19/2004 SAS @ DET L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p436
+aVManu Ginobili SAS 01/18/2004 SAS @ BOS W 19 4 1 5 20.0 0 1 0.0 2 2 100.0 1 5 6 5 0 0 2 2 6
+p437
+aVDevin Brown SAS 01/18/2004 SAS @ BOS W 6 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 1 -3
+p438
+aVMalik Rose SAS 01/18/2004 SAS @ BOS W 5 7 3 4 75.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -6
+p439
+aVRobert Horry SAS 01/18/2004 SAS @ BOS W 18 8 3 5 60.0 1 2 50.0 1 2 50.0 2 2 4 4 2 1 0 3 6
+p440
+aVCharlie Ward SAS 01/18/2004 SAS @ BOS W 19 10 4 4 100.0 2 2 100.0 0 0 - 0 2 2 3 2 0 5 5 5
+p441
+aVRon Mercer SAS 01/18/2004 SAS @ BOS W 16 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 2 0 1 1 1 -2
+p442
+aVKevin Willis SAS 01/18/2004 SAS @ BOS W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -6
+p443
+aVBruce Bowen SAS 01/18/2004 SAS @ BOS W 29 7 2 8 25.0 1 4 25.0 2 2 100.0 2 3 5 2 0 0 1 1 14
+p444
+aVTony Parker SAS 01/18/2004 SAS @ BOS W 29 20 8 9 88.9 2 2 100.0 2 2 100.0 1 6 7 4 1 0 1 2 12
+p445
+aVTim Duncan SAS 01/18/2004 SAS @ BOS W 36 15 6 15 40.0 0 0 - 3 6 50.0 2 5 7 2 1 2 1 0 24
+p446
+aVHedo Turkoglu SAS 01/18/2004 SAS @ BOS W 27 4 2 6 33.3 0 3 0.0 0 1 0.0 0 2 2 7 0 0 2 3 22
+p447
+aVRasho Nesterovic SAS 01/18/2004 SAS @ BOS W 31 23 11 19 57.9 0 0 - 1 2 50.0 4 9 13 3 0 1 1 1 13
+p448
+aVHedo Turkoglu SAS 01/16/2004 SAS @ IND L 25 4 1 4 25.0 1 1 100.0 1 2 50.0 0 4 4 1 1 3 0 2 -2
+p449
+aVRon Mercer SAS 01/16/2004 SAS @ IND L 9 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 5
+p450
+aVCharlie Ward SAS 01/16/2004 SAS @ IND L 15 13 5 8 62.5 3 5 60.0 0 0 - 0 2 2 0 0 0 0 1 0
+p451
+aVKevin Willis SAS 01/16/2004 SAS @ IND L 7 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 1 8
+p452
+aVRasho Nesterovic SAS 01/16/2004 SAS @ IND L 19 2 1 5 20.0 0 0 - 0 2 0.0 3 3 6 0 0 0 3 3 -28
+p453
+aVTony Parker SAS 01/16/2004 SAS @ IND L 34 14 6 14 42.9 0 2 0.0 2 2 100.0 0 6 6 3 0 0 6 3 -15
+p454
+aVDevin Brown SAS 01/16/2004 SAS @ IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p455
+aVManu Ginobili SAS 01/16/2004 SAS @ IND L 28 11 3 7 42.9 0 2 0.0 5 6 83.3 2 1 3 7 1 0 3 2 -9
+p456
+aVBruce Bowen SAS 01/16/2004 SAS @ IND L 30 5 2 6 33.3 1 4 25.0 0 0 - 1 2 3 1 1 0 2 2 -7
+p457
+aVRobert Horry SAS 01/16/2004 SAS @ IND L 27 4 2 6 33.3 0 2 0.0 0 0 - 4 6 10 3 2 2 0 4 11
+p458
+aVTim Duncan SAS 01/16/2004 SAS @ IND L 43 16 4 18 22.2 0 0 - 8 12 66.7 3 6 9 7 2 6 2 1 -11
+p459
+aVBruce Bowen SAS 01/14/2004 SAS vs. MIN L 38 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 1 0 1 0 1 -17
+p460
+aVCharlie Ward SAS 01/14/2004 SAS vs. MIN L 21 7 3 10 30.0 1 6 16.7 0 0 - 0 2 2 3 1 0 2 3 4
+p461
+aVRasho Nesterovic SAS 01/14/2004 SAS vs. MIN L 34 3 1 6 16.7 0 0 - 1 2 50.0 3 5 8 2 0 2 1 5 -16
+p462
+aVRon Mercer SAS 01/14/2004 SAS vs. MIN L 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p463
+aVTim Duncan SAS 01/14/2004 SAS vs. MIN L 45 36 14 26 53.8 0 1 0.0 8 15 53.3 11 9 20 7 1 1 1 1 -10
+p464
+aVHedo Turkoglu SAS 01/14/2004 SAS vs. MIN L 21 12 5 7 71.4 2 4 50.0 0 1 0.0 1 3 4 2 0 0 0 1 7
+p465
+aVRobert Horry SAS 01/14/2004 SAS vs. MIN L 19 4 2 8 25.0 0 2 0.0 0 0 - 2 1 3 0 0 0 3 3 12
+p466
+aVManu Ginobili SAS 01/14/2004 SAS vs. MIN L 30 14 6 12 50.0 0 3 0.0 2 2 100.0 2 4 6 3 0 0 2 5 -5
+p467
+aVTony Parker SAS 01/14/2004 SAS vs. MIN L 27 12 4 12 33.3 2 5 40.0 2 2 100.0 1 3 4 1 0 1 3 4 -11
+p468
+aVRasho Nesterovic SAS 01/13/2004 SAS @ ATL L 19 2 0 4 0.0 0 0 - 2 2 100.0 2 3 5 2 1 1 0 4 -8
+p469
+aVHedo Turkoglu SAS 01/13/2004 SAS @ ATL L 32 7 3 11 27.3 1 3 33.3 0 0 - 1 3 4 1 1 0 1 1 5
+p470
+aVMalik Rose SAS 01/13/2004 SAS @ ATL L 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p471
+aVRon Mercer SAS 01/13/2004 SAS @ ATL L 14 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -12
+p472
+aVBruce Bowen SAS 01/13/2004 SAS @ ATL L 27 3 1 4 25.0 0 1 0.0 1 2 50.0 1 2 3 3 1 0 1 0 -1
+p473
+aVCharlie Ward SAS 01/13/2004 SAS @ ATL L 11 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 1 2 1 1 0 3
+p474
+aVKevin Willis SAS 01/13/2004 SAS @ ATL L 12 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 2 0 0 3 8
+p475
+aVDevin Brown SAS 01/13/2004 SAS @ ATL L 23 9 2 6 33.3 0 0 - 5 7 71.4 2 4 6 1 0 0 1 0 -10
+p476
+aVRobert Horry SAS 01/13/2004 SAS @ ATL L 18 5 1 4 25.0 1 2 50.0 2 2 100.0 1 2 3 0 1 0 1 5 -15
+p477
+aVTim Duncan SAS 01/13/2004 SAS @ ATL L 40 28 11 22 50.0 0 0 - 6 8 75.0 4 5 9 0 1 3 5 3 -5
+p478
+aVTony Parker SAS 01/13/2004 SAS @ ATL L 37 12 3 10 30.0 0 4 0.0 6 6 100.0 1 3 4 2 1 0 2 2 -12
+p479
+aVBruce Bowen SAS 01/10/2004 SAS vs. IND W 46 5 2 4 50.0 1 3 33.3 0 2 0.0 0 4 4 1 2 0 1 4 9
+p480
+aVRobert Horry SAS 01/10/2004 SAS vs. IND W 21 5 2 4 50.0 1 3 33.3 0 0 - 1 3 4 5 1 1 2 1 2
+p481
+aVRasho Nesterovic SAS 01/10/2004 SAS vs. IND W 27 10 4 10 40.0 0 0 - 2 4 50.0 4 6 10 0 1 3 4 1 -4
+p482
+aVMalik Rose SAS 01/10/2004 SAS vs. IND W 11 6 2 4 50.0 0 0 - 2 2 100.0 3 1 4 1 0 1 2 1 4
+p483
+aVCharlie Ward SAS 01/10/2004 SAS vs. IND W 11 0 0 2 0.0 0 0 - 0 0 - 0 3 3 3 1 0 0 0 5
+p484
+aVDevin Brown SAS 01/10/2004 SAS vs. IND W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p485
+aVTim Duncan SAS 01/10/2004 SAS vs. IND W 47 30 9 23 39.1 0 0 - 12 17 70.6 2 13 15 2 1 2 4 3 0
+p486
+aVHedo Turkoglu SAS 01/10/2004 SAS vs. IND W 26 15 5 7 71.4 3 4 75.0 2 3 66.7 1 5 6 3 0 0 3 2 -6
+p487
+aVTony Parker SAS 01/10/2004 SAS vs. IND W 42 8 4 16 25.0 0 1 0.0 0 0 - 1 3 4 7 0 0 3 3 -4
+p488
+aVRon Mercer SAS 01/10/2004 SAS vs. IND W 29 8 4 9 44.4 0 0 - 0 0 - 1 5 6 2 1 1 3 1 -5
+p489
+aVHedo Turkoglu SAS 01/09/2004 SAS @ NOH W 32 13 5 7 71.4 3 3 100.0 0 0 - 0 6 6 3 2 1 2 3 19
+p490
+aVTony Parker SAS 01/09/2004 SAS @ NOH W 39 12 4 15 26.7 1 2 50.0 3 5 60.0 0 3 3 8 1 0 2 2 18
+p491
+aVRasho Nesterovic SAS 01/09/2004 SAS @ NOH W 27 10 5 8 62.5 0 0 - 0 2 0.0 4 5 9 2 0 3 1 3 12
+p492
+aVDevin Brown SAS 01/09/2004 SAS @ NOH W 14 10 3 3 100.0 0 0 - 4 5 80.0 1 5 6 1 0 1 2 2 0
+p493
+aVJason Hart SAS 01/09/2004 SAS @ NOH W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -8
+p494
+aVRobert Horry SAS 01/09/2004 SAS @ NOH W 16 1 0 3 0.0 0 1 0.0 1 2 50.0 0 4 4 3 1 1 3 3 -9
+p495
+aVBruce Bowen SAS 01/09/2004 SAS @ NOH W 32 15 4 6 66.7 3 5 60.0 4 7 57.1 0 5 5 2 2 0 1 2 19
+p496
+aVRon Mercer SAS 01/09/2004 SAS @ NOH W 23 12 5 9 55.6 0 0 - 2 4 50.0 0 4 4 0 0 1 2 4 -15
+p497
+aVTim Duncan SAS 01/09/2004 SAS @ NOH W 40 15 6 11 54.5 0 0 - 3 8 37.5 1 6 7 6 1 2 5 4 12
+p498
+aVMalik Rose SAS 01/09/2004 SAS @ NOH W 9 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 2
+p499
+aVAlex Garcia SAS 01/06/2004 SAS vs. WAS W 6 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p500
+aVHedo Turkoglu SAS 01/06/2004 SAS vs. WAS W 25 10 4 6 66.7 1 1 100.0 1 2 50.0 1 4 5 3 1 0 1 2 8
+p501
+aVRobert Horry SAS 01/06/2004 SAS vs. WAS W 10 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 0 0 2 0 1 7
+p502
+aVTim Duncan SAS 01/06/2004 SAS vs. WAS W 37 16 8 17 47.1 0 0 - 0 0 - 1 10 11 6 2 3 2 3 26
+p503
+aVKevin Willis SAS 01/06/2004 SAS vs. WAS W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -4
+p504
+aVBruce Bowen SAS 01/06/2004 SAS vs. WAS W 23 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 1 0 1 1 2 9
+p505
+aVMalik Rose SAS 01/06/2004 SAS vs. WAS W 17 11 2 3 66.7 0 0 - 7 8 87.5 2 2 4 2 0 0 1 4 4
+p506
+aVJason Hart SAS 01/06/2004 SAS vs. WAS W 21 4 2 5 40.0 0 0 - 0 0 - 1 5 6 5 2 0 1 3 15
+p507
+aVTony Parker SAS 01/06/2004 SAS vs. WAS W 27 16 7 11 63.6 0 2 0.0 2 2 100.0 2 4 6 6 0 0 0 3 9
+p508
+aVDevin Brown SAS 01/06/2004 SAS vs. WAS W 19 10 5 7 71.4 0 0 - 0 0 - 2 6 8 0 1 0 3 2 9
+p509
+aVRon Mercer SAS 01/06/2004 SAS vs. WAS W 23 14 7 12 58.3 0 0 - 0 0 - 1 2 3 0 0 0 2 0 20
+p510
+aVRasho Nesterovic SAS 01/06/2004 SAS vs. WAS W 26 7 3 6 50.0 0 0 - 1 1 100.0 0 2 2 2 0 5 3 5 11
+p511
+aVKevin Willis SAS 01/05/2004 SAS @ DEN W 3 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 3
+p512
+aVJason Hart SAS 01/05/2004 SAS @ DEN W 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 1 0 0 0 12
+p513
+aVBruce Bowen SAS 01/05/2004 SAS @ DEN W 28 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 10
+p514
+aVRasho Nesterovic SAS 01/05/2004 SAS @ DEN W 29 9 4 7 57.1 0 0 - 1 3 33.3 2 5 7 0 1 2 1 2 -6
+p515
+aVDevin Brown SAS 01/05/2004 SAS @ DEN W 20 6 3 5 60.0 0 0 - 0 0 - 4 1 5 1 0 0 1 2 14
+p516
+aVRon Mercer SAS 01/05/2004 SAS @ DEN W 22 13 6 10 60.0 0 1 0.0 1 2 50.0 2 2 4 1 1 0 1 2 20
+p517
+aVMalik Rose SAS 01/05/2004 SAS @ DEN W 19 6 3 5 60.0 0 0 - 0 2 0.0 3 2 5 3 0 0 4 3 9
+p518
+aVAlex Garcia SAS 01/05/2004 SAS @ DEN W 7 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 2 0 1 0 7
+p519
+aVTony Parker SAS 01/05/2004 SAS @ DEN W 28 14 7 10 70.0 0 0 - 0 0 - 0 3 3 5 0 0 3 3 5
+p520
+aVHedo Turkoglu SAS 01/05/2004 SAS @ DEN W 26 3 1 7 14.3 0 1 0.0 1 4 25.0 0 4 4 1 0 0 1 1 4
+p521
+aVRobert Horry SAS 01/05/2004 SAS @ DEN W 13 9 3 5 60.0 2 3 66.7 1 2 50.0 3 4 7 4 0 0 2 4 22
+p522
+aVTim Duncan SAS 01/05/2004 SAS @ DEN W 32 30 10 15 66.7 0 0 - 10 14 71.4 1 11 12 7 2 3 3 3 20
+p523
+aVRasho Nesterovic SAS 01/03/2004 SAS vs. PHI L 23 10 5 7 71.4 0 0 - 0 2 0.0 2 4 6 0 0 2 0 4 -9
+p524
+aVBruce Bowen SAS 01/03/2004 SAS vs. PHI L 38 10 3 9 33.3 2 4 50.0 2 2 100.0 0 2 2 3 2 0 3 2 -11
+p525
+aVMalik Rose SAS 01/03/2004 SAS vs. PHI L 17 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 1 0 1 2 1 -7
+p526
+aVRobert Horry SAS 01/03/2004 SAS vs. PHI L 16 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 4 5
+p527
+aVTim Duncan SAS 01/03/2004 SAS vs. PHI L 40 11 4 12 33.3 0 0 - 3 13 23.1 1 11 12 1 2 2 3 1 -1
+p528
+aVHedo Turkoglu SAS 01/03/2004 SAS vs. PHI L 32 16 3 10 30.0 2 4 50.0 8 8 100.0 2 4 6 3 0 0 1 2 -9
+p529
+aVTony Parker SAS 01/03/2004 SAS vs. PHI L 41 10 4 12 33.3 0 2 0.0 2 2 100.0 1 2 3 5 0 0 4 5 -13
+p530
+aVManu Ginobili SAS 01/03/2004 SAS vs. PHI L 7 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p531
+aVJason Hart SAS 01/03/2004 SAS vs. PHI L 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 2 0 3 3 7
+p532
+aVRon Mercer SAS 01/03/2004 SAS vs. PHI L 19 7 3 7 42.9 1 1 100.0 0 0 - 0 1 1 1 1 0 1 1 7
+p533
+aVJason Hart SAS 12/28/2003 SAS vs. MIL W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 0 14
+p534
+aVRobert Horry SAS 12/28/2003 SAS vs. MIL W 19 5 2 2 100.0 1 1 100.0 0 0 - 2 3 5 2 0 1 0 4 12
+p535
+aVManu Ginobili SAS 12/28/2003 SAS vs. MIL W 33 25 10 16 62.5 1 2 50.0 4 7 57.1 4 5 9 3 3 0 2 3 17
+p536
+aVTony Parker SAS 12/28/2003 SAS vs. MIL W 36 12 4 12 33.3 0 3 0.0 4 6 66.7 0 1 1 5 1 1 3 1 1
+p537
+aVRasho Nesterovic SAS 12/28/2003 SAS vs. MIL W 33 10 5 7 71.4 0 0 - 0 0 - 3 6 9 1 1 4 3 1 13
+p538
+aVMalik Rose SAS 12/28/2003 SAS vs. MIL W 6 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 2 11
+p539
+aVTim Duncan SAS 12/28/2003 SAS vs. MIL W 38 12 3 15 20.0 0 0 - 6 16 37.5 5 10 15 3 1 4 4 2 -6
+p540
+aVHedo Turkoglu SAS 12/28/2003 SAS vs. MIL W 27 12 4 14 28.6 1 3 33.3 3 4 75.0 2 10 12 1 2 0 4 0 24
+p541
+aVBruce Bowen SAS 12/28/2003 SAS vs. MIL W 35 7 3 6 50.0 1 3 33.3 0 0 - 1 1 2 1 1 0 0 2 -13
+p542
+aVDevin Brown SAS 12/28/2003 SAS vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p543
+aVTony Parker SAS 12/26/2003 SAS vs. ORL W 37 22 10 20 50.0 0 3 0.0 2 6 33.3 2 3 5 5 2 0 1 3 12
+p544
+aVRobert Horry SAS 12/26/2003 SAS vs. ORL W 23 14 5 9 55.6 2 4 50.0 2 4 50.0 2 5 7 2 1 0 0 4 29
+p545
+aVHedo Turkoglu SAS 12/26/2003 SAS vs. ORL W 23 9 4 9 44.4 1 2 50.0 0 0 - 1 2 3 4 1 0 1 1 13
+p546
+aVJason Hart SAS 12/26/2003 SAS vs. ORL W 11 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 2 3
+p547
+aVTim Duncan SAS 12/26/2003 SAS vs. ORL W 41 27 10 16 62.5 0 0 - 7 11 63.6 3 13 16 4 3 5 2 1 15
+p548
+aVRasho Nesterovic SAS 12/26/2003 SAS vs. ORL W 28 4 2 7 28.6 0 0 - 0 0 - 2 1 3 3 0 2 2 3 -12
+p549
+aVMalik Rose SAS 12/26/2003 SAS vs. ORL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p550
+aVRon Mercer SAS 12/26/2003 SAS vs. ORL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p551
+aVBruce Bowen SAS 12/26/2003 SAS vs. ORL W 30 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 2 3 0 2 4 15
+p552
+aVManu Ginobili SAS 12/26/2003 SAS vs. ORL W 38 11 4 13 30.8 1 5 20.0 2 4 50.0 2 7 9 7 1 0 2 2 -1
+p553
+aVTim Duncan SAS 12/23/2003 SAS vs. LAC W 40 22 9 16 56.3 0 0 - 4 6 66.7 1 9 10 2 0 3 3 3 16
+p554
+aVManu Ginobili SAS 12/23/2003 SAS vs. LAC W 31 16 6 10 60.0 3 5 60.0 1 2 50.0 2 1 3 5 3 0 0 1 5
+p555
+aVHedo Turkoglu SAS 12/23/2003 SAS vs. LAC W 6 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 1 1 0 0 11
+p556
+aVRobert Horry SAS 12/23/2003 SAS vs. LAC W 18 11 4 6 66.7 2 4 50.0 1 2 50.0 0 2 2 2 2 0 0 0 10
+p557
+aVKevin Willis SAS 12/23/2003 SAS vs. LAC W 6 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 3
+p558
+aVBruce Bowen SAS 12/23/2003 SAS vs. LAC W 30 11 5 9 55.6 1 4 25.0 0 2 0.0 0 4 4 1 4 0 1 2 11
+p559
+aVRasho Nesterovic SAS 12/23/2003 SAS vs. LAC W 18 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 2 0 4 3 3 7
+p560
+aVRon Mercer SAS 12/23/2003 SAS vs. LAC W 22 10 5 10 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 11
+p561
+aVMalik Rose SAS 12/23/2003 SAS vs. LAC W 14 6 2 5 40.0 0 0 - 2 4 50.0 2 2 4 3 1 1 0 2 6
+p562
+aVDevin Brown SAS 12/23/2003 SAS vs. LAC W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 1 4
+p563
+aVTony Parker SAS 12/23/2003 SAS vs. LAC W 32 19 9 12 75.0 1 1 100.0 0 0 - 0 3 3 14 2 0 2 0 22
+p564
+aVJason Hart SAS 12/23/2003 SAS vs. LAC W 16 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 0 2 2 -1
+p565
+aVJason Hart SAS 12/20/2003 SAS @ POR W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 2 0 0 0 7
+p566
+aVHedo Turkoglu SAS 12/20/2003 SAS @ POR W 19 6 3 5 60.0 0 1 0.0 0 0 - 2 2 4 4 0 1 1 1 5
+p567
+aVTony Parker SAS 12/20/2003 SAS @ POR W 39 15 6 14 42.9 1 4 25.0 2 2 100.0 2 0 2 10 1 0 3 2 3
+p568
+aVTim Duncan SAS 12/20/2003 SAS @ POR W 40 26 10 23 43.5 0 0 - 6 9 66.7 1 9 10 3 0 3 1 2 11
+p569
+aVRon Mercer SAS 12/20/2003 SAS @ POR W 8 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p570
+aVDevin Brown SAS 12/20/2003 SAS @ POR W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p571
+aVKevin Willis SAS 12/20/2003 SAS @ POR W 1 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -3
+p572
+aVMalik Rose SAS 12/20/2003 SAS @ POR W 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -1
+p573
+aVRobert Horry SAS 12/20/2003 SAS @ POR W 23 12 4 5 80.0 2 2 100.0 2 2 100.0 0 5 5 2 0 0 0 1 15
+p574
+aVBruce Bowen SAS 12/20/2003 SAS @ POR W 35 13 5 7 71.4 3 4 75.0 0 0 - 1 3 4 2 1 0 1 4 13
+p575
+aVRasho Nesterovic SAS 12/20/2003 SAS @ POR W 28 12 5 6 83.3 0 0 - 2 4 50.0 4 5 9 6 0 0 0 2 -2
+p576
+aVManu Ginobili SAS 12/20/2003 SAS @ POR W 30 7 3 8 37.5 0 3 0.0 1 2 50.0 0 3 3 1 0 0 1 0 12
+p577
+aVDevin Brown SAS 12/19/2003 SAS @ SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p578
+aVMalik Rose SAS 12/19/2003 SAS @ SEA W 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -5
+p579
+aVTim Duncan SAS 12/19/2003 SAS @ SEA W 40 27 11 18 61.1 0 0 - 5 7 71.4 5 15 20 2 2 4 2 1 18
+p580
+aVTony Parker SAS 12/19/2003 SAS @ SEA W 33 16 7 14 50.0 2 4 50.0 0 0 - 0 3 3 2 0 0 2 3 12
+p581
+aVBruce Bowen SAS 12/19/2003 SAS @ SEA W 36 11 3 8 37.5 2 4 50.0 3 4 75.0 1 4 5 1 1 0 0 2 -1
+p582
+aVHedo Turkoglu SAS 12/19/2003 SAS @ SEA W 22 3 1 6 16.7 1 2 50.0 0 0 - 1 3 4 6 0 1 1 2 13
+p583
+aVJason Hart SAS 12/19/2003 SAS @ SEA W 15 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 1 0 1 1 2
+p584
+aVManu Ginobili SAS 12/19/2003 SAS @ SEA W 36 14 5 9 55.6 0 1 0.0 4 5 80.0 0 1 1 4 2 1 3 3 16
+p585
+aVRobert Horry SAS 12/19/2003 SAS @ SEA W 13 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 5 2 8
+p586
+aVRasho Nesterovic SAS 12/19/2003 SAS @ SEA W 33 8 4 11 36.4 0 0 - 0 0 - 4 5 9 1 1 1 2 3 7
+p587
+aVRobert Horry SAS 12/17/2003 SAS vs. TOR W 13 3 1 4 25.0 0 2 0.0 1 2 50.0 0 1 1 1 0 0 0 2 -1
+p588
+aVMalik Rose SAS 12/17/2003 SAS vs. TOR W 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p589
+aVJason Hart SAS 12/17/2003 SAS vs. TOR W 11 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 10
+p590
+aVBruce Bowen SAS 12/17/2003 SAS vs. TOR W 39 0 0 6 0.0 0 4 0.0 0 0 - 0 3 3 2 1 1 0 5 -1
+p591
+aVRasho Nesterovic SAS 12/17/2003 SAS vs. TOR W 30 4 2 9 22.2 0 0 - 0 0 - 2 8 10 0 0 3 3 0 0
+p592
+aVTony Parker SAS 12/17/2003 SAS vs. TOR W 37 16 5 11 45.5 1 2 50.0 5 6 83.3 1 2 3 1 0 0 2 3 -7
+p593
+aVRon Mercer SAS 12/17/2003 SAS vs. TOR W 23 8 4 7 57.1 0 0 - 0 0 - 1 1 2 0 2 0 0 2 10
+p594
+aVTim Duncan SAS 12/17/2003 SAS vs. TOR W 43 30 12 22 54.5 0 1 0.0 6 14 42.9 4 9 13 5 0 4 3 1 5
+p595
+aVHedo Turkoglu SAS 12/17/2003 SAS vs. TOR W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 1 3 -13
+p596
+aVManu Ginobili SAS 12/17/2003 SAS vs. TOR W 27 4 1 7 14.3 1 5 20.0 1 3 33.3 2 2 4 3 2 0 1 5 10
+p597
+aVRasho Nesterovic SAS 12/15/2003 SAS vs. MEM W 38 10 5 11 45.5 0 0 - 0 0 - 6 9 15 0 0 4 1 0 14
+p598
+aVManu Ginobili SAS 12/15/2003 SAS vs. MEM W 35 7 2 10 20.0 0 3 0.0 3 4 75.0 1 6 7 8 3 0 3 1 19
+p599
+aVTony Parker SAS 12/15/2003 SAS vs. MEM W 37 18 6 14 42.9 3 4 75.0 3 3 100.0 1 2 3 5 1 0 2 1 11
+p600
+aVDevin Brown SAS 12/15/2003 SAS vs. MEM W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p601
+aVRon Mercer SAS 12/15/2003 SAS vs. MEM W 8 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -4
+p602
+aVBruce Bowen SAS 12/15/2003 SAS vs. MEM W 32 7 2 8 25.0 1 2 50.0 2 4 50.0 0 4 4 1 1 1 4 3 18
+p603
+aVKevin Willis SAS 12/15/2003 SAS vs. MEM W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -1
+p604
+aVJason Hart SAS 12/15/2003 SAS vs. MEM W 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 0
+p605
+aVHedo Turkoglu SAS 12/15/2003 SAS vs. MEM W 22 4 1 6 16.7 1 2 50.0 1 2 50.0 1 3 4 1 2 0 3 1 -8
+p606
+aVRobert Horry SAS 12/15/2003 SAS vs. MEM W 18 7 2 5 40.0 1 3 33.3 2 4 50.0 1 1 2 1 0 0 1 0 2
+p607
+aVTim Duncan SAS 12/15/2003 SAS vs. MEM W 34 21 8 15 53.3 0 0 - 5 10 50.0 6 7 13 0 3 1 6 6 4
+p608
+aVTony Parker SAS 12/13/2003 SAS vs. HOU W 33 10 4 10 40.0 0 1 0.0 2 2 100.0 1 2 3 12 0 0 2 1 12
+p609
+aVKevin Willis SAS 12/13/2003 SAS vs. HOU W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p610
+aVJason Hart SAS 12/13/2003 SAS vs. HOU W 18 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -4
+p611
+aVRon Mercer SAS 12/13/2003 SAS vs. HOU W 8 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p612
+aVDevin Brown SAS 12/13/2003 SAS vs. HOU W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p613
+aVHedo Turkoglu SAS 12/13/2003 SAS vs. HOU W 29 13 6 11 54.5 0 2 0.0 1 2 50.0 0 7 7 1 2 0 0 4 -3
+p614
+aVTim Duncan SAS 12/13/2003 SAS vs. HOU W 31 8 2 10 20.0 0 0 - 4 4 100.0 3 9 12 6 0 1 2 3 22
+p615
+aVManu Ginobili SAS 12/13/2003 SAS vs. HOU W 33 16 5 12 41.7 4 7 57.1 2 3 66.7 1 3 4 2 3 0 2 1 15
+p616
+aVBruce Bowen SAS 12/13/2003 SAS vs. HOU W 27 9 4 7 57.1 1 4 25.0 0 1 0.0 0 2 2 0 0 0 1 1 23
+p617
+aVRobert Horry SAS 12/13/2003 SAS vs. HOU W 19 6 2 3 66.7 1 1 100.0 1 2 50.0 4 2 6 1 0 1 0 5 3
+p618
+aVRasho Nesterovic SAS 12/13/2003 SAS vs. HOU W 26 14 6 8 75.0 0 0 - 2 4 50.0 1 6 7 0 0 1 0 3 20
+p619
+aVRasho Nesterovic SAS 12/11/2003 SAS @ HOU W 28 7 3 11 27.3 0 0 - 1 2 50.0 5 6 11 0 3 1 2 5 13
+p620
+aVRobert Horry SAS 12/11/2003 SAS @ HOU W 18 4 1 2 50.0 1 2 50.0 1 2 50.0 0 3 3 0 0 1 0 2 -9
+p621
+aVRon Mercer SAS 12/11/2003 SAS @ HOU W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p622
+aVTim Duncan SAS 12/11/2003 SAS @ HOU W 42 22 8 21 38.1 0 0 - 6 12 50.0 5 5 10 2 2 4 4 3 4
+p623
+aVBruce Bowen SAS 12/11/2003 SAS @ HOU W 34 6 2 6 33.3 2 5 40.0 0 1 0.0 2 0 2 1 2 0 1 0 -1
+p624
+aVJason Hart SAS 12/11/2003 SAS @ HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p625
+aVHedo Turkoglu SAS 12/11/2003 SAS @ HOU W 8 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 1
+p626
+aVDevin Brown SAS 12/11/2003 SAS @ HOU W 13 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 1 0 2 0 3
+p627
+aVTony Parker SAS 12/11/2003 SAS @ HOU W 45 13 5 17 29.4 2 7 28.6 1 2 50.0 1 4 5 10 1 0 2 2 7
+p628
+aVManu Ginobili SAS 12/11/2003 SAS @ HOU W 35 11 5 13 38.5 1 5 20.0 0 0 - 1 9 10 4 1 0 1 1 6
+p629
+aVKevin Willis SAS 12/11/2003 SAS @ HOU W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p630
+aVTim Duncan SAS 12/10/2003 SAS vs. POR W 31 18 6 14 42.9 0 0 - 6 6 100.0 2 12 14 3 0 2 1 3 18
+p631
+aVRon Mercer SAS 12/10/2003 SAS vs. POR W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 5
+p632
+aVBruce Bowen SAS 12/10/2003 SAS vs. POR W 32 6 2 4 50.0 1 2 50.0 1 2 50.0 0 3 3 1 0 0 0 2 6
+p633
+aVDevin Brown SAS 12/10/2003 SAS vs. POR W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p634
+aVManu Ginobili SAS 12/10/2003 SAS vs. POR W 34 11 4 11 36.4 0 3 0.0 3 3 100.0 0 5 5 6 6 0 0 0 28
+p635
+aVJason Hart SAS 12/10/2003 SAS vs. POR W 17 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 1 0 0 3 13
+p636
+aVTony Parker SAS 12/10/2003 SAS vs. POR W 31 17 7 14 50.0 0 1 0.0 3 4 75.0 0 3 3 6 0 0 0 2 12
+p637
+aVHedo Turkoglu SAS 12/10/2003 SAS vs. POR W 22 12 4 7 57.1 2 3 66.7 2 3 66.7 0 3 3 1 0 0 2 2 11
+p638
+aVRobert Horry SAS 12/10/2003 SAS vs. POR W 21 9 3 5 60.0 1 1 100.0 2 4 50.0 2 4 6 0 1 2 1 0 3
+p639
+aVKevin Willis SAS 12/10/2003 SAS vs. POR W 8 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 0 2
+p640
+aVRasho Nesterovic SAS 12/10/2003 SAS vs. POR W 34 17 8 14 57.1 0 0 - 1 4 25.0 4 5 9 2 0 2 2 2 22
+p641
+aVHedo Turkoglu SAS 12/08/2003 SAS @ CHI W 9 1 0 1 0.0 0 0 - 1 4 25.0 0 2 2 1 0 0 0 2 -1
+p642
+aVTony Parker SAS 12/08/2003 SAS @ CHI W 40 13 6 12 50.0 1 3 33.3 0 0 - 0 1 1 7 0 0 4 2 10
+p643
+aVTim Duncan SAS 12/08/2003 SAS @ CHI W 43 17 8 14 57.1 0 1 0.0 1 2 50.0 1 13 14 4 0 2 2 1 17
+p644
+aVBruce Bowen SAS 12/08/2003 SAS @ CHI W 36 3 1 6 16.7 1 2 50.0 0 0 - 0 2 2 2 1 1 2 4 18
+p645
+aVManu Ginobili SAS 12/08/2003 SAS @ CHI W 36 26 9 13 69.2 5 6 83.3 3 3 100.0 0 5 5 3 5 1 1 2 13
+p646
+aVDevin Brown SAS 12/08/2003 SAS @ CHI W 11 10 2 4 50.0 0 0 - 6 6 100.0 0 2 2 0 0 0 1 2 2
+p647
+aVJason Hart SAS 12/08/2003 SAS @ CHI W 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 1 0 1 1 4
+p648
+aVRobert Horry SAS 12/08/2003 SAS @ CHI W 15 7 2 8 25.0 1 2 50.0 2 4 50.0 4 0 4 2 0 0 1 4 -2
+p649
+aVRasho Nesterovic SAS 12/08/2003 SAS @ CHI W 38 17 8 12 66.7 0 0 - 1 1 100.0 3 4 7 2 1 1 4 4 13
+p650
+aVRon Mercer SAS 12/08/2003 SAS @ CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p651
+aVRobert Horry SAS 12/06/2003 SAS @ MIA W 18 5 2 6 33.3 1 1 100.0 0 0 - 1 2 3 1 0 0 0 0 9
+p652
+aVTony Parker SAS 12/06/2003 SAS @ MIA W 36 10 5 11 45.5 0 2 0.0 0 2 0.0 0 3 3 11 1 0 2 1 7
+p653
+aVManu Ginobili SAS 12/06/2003 SAS @ MIA W 34 11 3 8 37.5 1 4 25.0 4 4 100.0 0 3 3 4 1 1 3 3 18
+p654
+aVHedo Turkoglu SAS 12/06/2003 SAS @ MIA W 21 6 2 5 40.0 0 2 0.0 2 4 50.0 0 2 2 2 1 0 0 1 9
+p655
+aVTim Duncan SAS 12/06/2003 SAS @ MIA W 40 21 8 18 44.4 1 1 100.0 4 7 57.1 5 14 19 2 0 5 0 2 15
+p656
+aVBruce Bowen SAS 12/06/2003 SAS @ MIA W 33 10 4 9 44.4 1 4 25.0 1 2 50.0 0 4 4 0 1 0 2 1 8
+p657
+aVRasho Nesterovic SAS 12/06/2003 SAS @ MIA W 38 21 9 14 64.3 0 0 - 3 3 100.0 6 7 13 1 1 3 2 3 9
+p658
+aVRon Mercer SAS 12/06/2003 SAS @ MIA W 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p659
+aVJason Hart SAS 12/06/2003 SAS @ MIA W 12 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 1 1 0 2 1 9
+p660
+aVManu Ginobili SAS 12/05/2003 SAS @ ORL W 31 2 0 3 0.0 0 0 - 2 6 33.3 1 1 2 3 3 0 2 3 1
+p661
+aVRon Mercer SAS 12/05/2003 SAS @ ORL W 17 11 5 9 55.6 0 0 - 1 1 100.0 0 2 2 0 0 0 0 3 16
+p662
+aVRasho Nesterovic SAS 12/05/2003 SAS @ ORL W 31 12 6 11 54.5 0 0 - 0 0 - 6 2 8 1 2 2 1 3 4
+p663
+aVJason Hart SAS 12/05/2003 SAS @ ORL W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 17
+p664
+aVTony Parker SAS 12/05/2003 SAS @ ORL W 40 8 4 10 40.0 0 2 0.0 0 0 - 1 3 4 11 0 0 4 2 -6
+p665
+aVRobert Horry SAS 12/05/2003 SAS @ ORL W 25 10 3 8 37.5 0 1 0.0 4 5 80.0 2 4 6 3 0 3 1 3 11
+p666
+aVHedo Turkoglu SAS 12/05/2003 SAS @ ORL W 19 7 3 6 50.0 1 2 50.0 0 0 - 2 4 6 2 0 0 1 2 8
+p667
+aVBruce Bowen SAS 12/05/2003 SAS @ ORL W 30 6 2 3 66.7 2 2 100.0 0 0 - 0 4 4 0 2 0 2 4 -3
+p668
+aVTim Duncan SAS 12/05/2003 SAS @ ORL W 40 47 19 34 55.9 0 2 0.0 9 13 69.2 3 9 12 2 0 1 2 3 7
+p669
+aVJason Hart SAS 12/03/2003 SAS vs. LAL L 10 2 0 0 - 0 0 - 2 2 100.0 0 3 3 2 2 0 0 3 12
+p670
+aVRasho Nesterovic SAS 12/03/2003 SAS vs. LAL L 33 2 1 7 14.3 0 0 - 0 0 - 3 5 8 1 0 1 2 2 -19
+p671
+aVRobert Horry SAS 12/03/2003 SAS vs. LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p672
+aVTim Duncan SAS 12/03/2003 SAS vs. LAL L 45 30 11 20 55.0 0 1 0.0 8 11 72.7 3 12 15 3 0 1 3 2 -4
+p673
+aVMalik Rose SAS 12/03/2003 SAS vs. LAL L 15 6 1 3 33.3 0 0 - 4 4 100.0 1 3 4 1 0 1 3 4 15
+p674
+aVBruce Bowen SAS 12/03/2003 SAS vs. LAL L 36 11 5 8 62.5 1 3 33.3 0 2 0.0 0 5 5 1 0 1 2 3 -13
+p675
+aVManu Ginobili SAS 12/03/2003 SAS vs. LAL L 37 13 4 11 36.4 2 5 40.0 3 4 75.0 1 4 5 4 1 2 6 3 0
+p676
+aVHedo Turkoglu SAS 12/03/2003 SAS vs. LAL L 24 4 2 8 25.0 0 2 0.0 0 0 - 1 3 4 1 1 0 2 2 5
+p677
+aVTony Parker SAS 12/03/2003 SAS vs. LAL L 38 18 6 14 42.9 1 3 33.3 5 8 62.5 1 1 2 1 0 0 1 3 -16
+p678
+aVJason Hart SAS 12/01/2003 SAS @ LAC L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -5
+p679
+aVBruce Bowen SAS 12/01/2003 SAS @ LAC L 23 4 2 3 66.7 0 1 0.0 0 0 - 2 0 2 1 0 0 1 0 0
+p680
+aVRon Mercer SAS 12/01/2003 SAS @ LAC L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -12
+p681
+aVRasho Nesterovic SAS 12/01/2003 SAS @ LAC L 39 13 5 14 35.7 0 0 - 3 9 33.3 5 4 9 0 0 5 1 3 -4
+p682
+aVHedo Turkoglu SAS 12/01/2003 SAS @ LAC L 26 9 4 11 36.4 0 2 0.0 1 2 50.0 2 3 5 2 2 0 1 4 -7
+p683
+aVKevin Willis SAS 12/01/2003 SAS @ LAC L 5 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 0 0 0 0 2 -3
+p684
+aVRobert Horry SAS 12/01/2003 SAS @ LAC L 17 7 3 6 50.0 0 1 0.0 1 2 50.0 4 1 5 2 0 0 1 4 -10
+p685
+aVMalik Rose SAS 12/01/2003 SAS @ LAC L 32 26 10 18 55.6 0 0 - 6 7 85.7 4 7 11 4 0 1 2 5 6
+p686
+aVManu Ginobili SAS 12/01/2003 SAS @ LAC L 41 7 2 12 16.7 1 3 33.3 2 2 100.0 0 5 5 5 1 0 3 5 -2
+p687
+aVTony Parker SAS 12/01/2003 SAS @ LAC L 38 14 4 15 26.7 2 4 50.0 4 9 44.4 0 5 5 3 0 0 3 3 -3
+p688
+aVRon Mercer SAS 11/29/2003 SAS @ GSW L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p689
+aVTony Parker SAS 11/29/2003 SAS @ GSW L 39 19 7 17 41.2 2 5 40.0 3 3 100.0 0 3 3 3 3 0 4 4 -4
+p690
+aVJason Hart SAS 11/29/2003 SAS @ GSW L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 2
+p691
+aVRobert Horry SAS 11/29/2003 SAS @ GSW L 13 3 1 5 20.0 0 1 0.0 1 2 50.0 2 0 2 0 1 0 1 1 -4
+p692
+aVHedo Turkoglu SAS 11/29/2003 SAS @ GSW L 22 8 4 7 57.1 0 1 0.0 0 0 - 2 3 5 0 0 0 0 1 -1
+p693
+aVRasho Nesterovic SAS 11/29/2003 SAS @ GSW L 29 14 7 10 70.0 0 0 - 0 0 - 4 7 11 1 2 4 1 4 1
+p694
+aVDevin Brown SAS 11/29/2003 SAS @ GSW L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p695
+aVBruce Bowen SAS 11/29/2003 SAS @ GSW L 30 1 0 3 0.0 0 2 0.0 1 2 50.0 1 3 4 3 0 0 1 2 -2
+p696
+aVTim Duncan SAS 11/29/2003 SAS @ GSW L 39 27 10 20 50.0 0 0 - 7 13 53.8 3 12 15 2 0 3 5 4 5
+p697
+aVMalik Rose SAS 11/29/2003 SAS @ GSW L 15 4 0 2 0.0 0 0 - 4 4 100.0 2 1 3 0 0 0 1 1 -6
+p698
+aVManu Ginobili SAS 11/29/2003 SAS @ GSW L 32 11 2 7 28.6 0 1 0.0 7 8 87.5 0 3 3 6 2 0 2 4 2
+p699
+aVMalik Rose SAS 11/28/2003 SAS @ LAL L 17 6 1 5 20.0 0 0 - 4 5 80.0 1 2 3 0 0 0 1 2 -12
+p700
+aVHedo Turkoglu SAS 11/28/2003 SAS @ LAL L 19 8 3 4 75.0 2 2 100.0 0 0 - 1 2 3 2 1 0 1 0 3
+p701
+aVRasho Nesterovic SAS 11/28/2003 SAS @ LAL L 26 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 1 0 2 5 -19
+p702
+aVRon Mercer SAS 11/28/2003 SAS @ LAL L 22 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 4
+p703
+aVBruce Bowen SAS 11/28/2003 SAS @ LAL L 19 3 1 6 16.7 0 2 0.0 1 2 50.0 1 1 2 1 1 0 0 0 -15
+p704
+aVKevin Willis SAS 11/28/2003 SAS @ LAL L 10 8 4 6 66.7 0 0 - 0 0 - 1 1 2 4 0 0 0 0 14
+p705
+aVDevin Brown SAS 11/28/2003 SAS @ LAL L 18 10 4 8 50.0 0 1 0.0 2 2 100.0 3 5 8 0 0 0 1 0 8
+p706
+aVTony Parker SAS 11/28/2003 SAS @ LAL L 29 12 6 17 35.3 0 4 0.0 0 0 - 1 1 2 4 0 0 1 4 -26
+p707
+aVRobert Horry SAS 11/28/2003 SAS @ LAL L 9 0 0 2 0.0 0 0 - 0 2 0.0 1 3 4 1 0 1 0 2 2
+p708
+aVManu Ginobili SAS 11/28/2003 SAS @ LAL L 26 13 5 11 45.5 0 1 0.0 3 5 60.0 0 1 1 1 3 0 5 1 -20
+p709
+aVJason Hart SAS 11/28/2003 SAS @ LAL L 19 8 2 4 50.0 0 0 - 4 8 50.0 1 3 4 2 0 0 0 1 10
+p710
+aVTim Duncan SAS 11/28/2003 SAS @ LAL L 26 11 3 10 30.0 0 0 - 5 8 62.5 5 6 11 2 2 0 1 4 -29
+p711
+aVRon Mercer SAS 11/26/2003 SAS vs. CHI W 17 12 6 10 60.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -1
+p712
+aVRobert Horry SAS 11/26/2003 SAS vs. CHI W 13 7 3 5 60.0 1 1 100.0 0 2 0.0 2 2 4 1 1 1 1 2 -9
+p713
+aVTony Parker SAS 11/26/2003 SAS vs. CHI W 29 15 7 13 53.8 0 3 0.0 1 2 50.0 0 0 0 6 0 0 2 2 14
+p714
+aVMalik Rose SAS 11/26/2003 SAS vs. CHI W 19 6 2 7 28.6 0 0 - 2 2 100.0 1 5 6 4 2 0 4 1 5
+p715
+aVManu Ginobili SAS 11/26/2003 SAS vs. CHI W 32 17 7 14 50.0 1 4 25.0 2 2 100.0 2 9 11 8 3 0 0 0 18
+p716
+aVTim Duncan SAS 11/26/2003 SAS vs. CHI W 34 16 6 13 46.2 0 0 - 4 7 57.1 3 7 10 1 1 2 3 2 11
+p717
+aVBruce Bowen SAS 11/26/2003 SAS vs. CHI W 33 9 3 7 42.9 3 4 75.0 0 0 - 1 2 3 1 2 0 0 2 11
+p718
+aVDevin Brown SAS 11/26/2003 SAS vs. CHI W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p719
+aVHedo Turkoglu SAS 11/26/2003 SAS vs. CHI W 12 6 1 2 50.0 1 2 50.0 3 3 100.0 0 2 2 0 0 0 1 2 -2
+p720
+aVJason Hart SAS 11/26/2003 SAS vs. CHI W 19 11 5 5 100.0 0 0 - 1 1 100.0 0 0 0 7 0 0 0 2 -3
+p721
+aVRasho Nesterovic SAS 11/26/2003 SAS vs. CHI W 28 6 3 7 42.9 0 0 - 0 2 0.0 6 2 8 3 0 2 0 2 19
+p722
+aVKevin Willis SAS 11/26/2003 SAS vs. CHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p723
+aVAnthony Carter SAS 11/21/2003 SAS vs. ATL W 19 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 2 1 0 1 2 15
+p724
+aVHedo Turkoglu SAS 11/21/2003 SAS vs. ATL W 22 11 4 7 57.1 1 2 50.0 2 2 100.0 1 4 5 1 1 0 1 1 15
+p725
+aVMalik Rose SAS 11/21/2003 SAS vs. ATL W 12 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 1 1 0 1 2 14
+p726
+aVTim Duncan SAS 11/21/2003 SAS vs. ATL W 23 25 9 13 69.2 0 0 - 7 10 70.0 2 8 10 3 0 4 3 3 35
+p727
+aVBruce Bowen SAS 11/21/2003 SAS vs. ATL W 25 8 3 7 42.9 2 3 66.7 0 0 - 0 3 3 2 4 1 1 3 24
+p728
+aVManu Ginobili SAS 11/21/2003 SAS vs. ATL W 24 20 9 10 90.0 2 2 100.0 0 2 0.0 1 4 5 5 2 0 1 2 26
+p729
+aVRobert Horry SAS 11/21/2003 SAS vs. ATL W 16 3 1 8 12.5 1 2 50.0 0 0 - 1 6 7 1 1 1 1 2 -2
+p730
+aVKevin Willis SAS 11/21/2003 SAS vs. ATL W 16 8 3 8 37.5 0 0 - 2 2 100.0 1 0 1 0 1 0 2 2 -2
+p731
+aVJason Hart SAS 11/21/2003 SAS vs. ATL W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 1 0 0 0 2
+p732
+aVRasho Nesterovic SAS 11/21/2003 SAS vs. ATL W 28 2 1 5 20.0 0 0 - 0 0 - 2 6 8 3 1 3 1 2 33
+p733
+aVTony Parker SAS 11/21/2003 SAS vs. ATL W 19 17 6 9 66.7 2 3 66.7 3 4 75.0 1 2 3 6 2 0 1 1 22
+p734
+aVDevin Brown SAS 11/21/2003 SAS vs. ATL W 25 8 3 6 50.0 0 2 0.0 2 2 100.0 0 1 1 2 1 0 0 3 13
+p735
+aVManu Ginobili SAS 11/20/2003 SAS @ DAL L 36 12 4 12 33.3 1 3 33.3 3 4 75.0 3 4 7 4 0 0 1 4 0
+p736
+aVTim Duncan SAS 11/20/2003 SAS @ DAL L 41 30 11 17 64.7 0 1 0.0 8 11 72.7 3 14 17 5 2 0 4 5 6
+p737
+aVBruce Bowen SAS 11/20/2003 SAS @ DAL L 30 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 3 2 0 2 1 -7
+p738
+aVTony Parker SAS 11/20/2003 SAS @ DAL L 37 9 3 13 23.1 0 5 0.0 3 4 75.0 0 5 5 9 0 1 1 2 0
+p739
+aVDevin Brown SAS 11/20/2003 SAS @ DAL L 10 8 2 3 66.7 1 1 100.0 3 4 75.0 0 3 3 0 0 0 1 4 13
+p740
+aVMalik Rose SAS 11/20/2003 SAS @ DAL L 15 5 2 7 28.6 0 0 - 1 2 50.0 1 3 4 2 0 0 2 2 -11
+p741
+aVRobert Horry SAS 11/20/2003 SAS @ DAL L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -8
+p742
+aVRasho Nesterovic SAS 11/20/2003 SAS @ DAL L 33 18 8 14 57.1 0 0 - 2 3 66.7 2 5 7 2 1 2 0 2 7
+p743
+aVAnthony Carter SAS 11/20/2003 SAS @ DAL L 12 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 -3
+p744
+aVHedo Turkoglu SAS 11/20/2003 SAS @ DAL L 20 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -12
+p745
+aVHedo Turkoglu SAS 11/18/2003 SAS vs. GSW W 28 11 4 5 80.0 3 3 100.0 0 0 - 0 2 2 3 0 1 0 2 10
+p746
+aVDevin Brown SAS 11/18/2003 SAS vs. GSW W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -6
+p747
+aVRobert Horry SAS 11/18/2003 SAS vs. GSW W 15 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 3 2 0 0 3 15
+p748
+aVRasho Nesterovic SAS 11/18/2003 SAS vs. GSW W 24 4 2 3 66.7 0 0 - 0 0 - 2 4 6 2 1 1 0 3 0
+p749
+aVMalik Rose SAS 11/18/2003 SAS vs. GSW W 22 5 2 8 25.0 0 0 - 1 2 50.0 1 4 5 4 1 0 2 4 11
+p750
+aVBruce Bowen SAS 11/18/2003 SAS vs. GSW W 36 8 3 5 60.0 0 1 0.0 2 4 50.0 1 4 5 2 3 1 1 0 9
+p751
+aVTim Duncan SAS 11/18/2003 SAS vs. GSW W 35 21 10 19 52.6 0 0 - 1 3 33.3 5 5 10 3 1 3 1 2 0
+p752
+aVManu Ginobili SAS 11/18/2003 SAS vs. GSW W 29 19 6 11 54.5 3 4 75.0 4 4 100.0 0 1 1 1 0 0 2 0 13
+p753
+aVJason Hart SAS 11/18/2003 SAS vs. GSW W 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -6
+p754
+aVTony Parker SAS 11/18/2003 SAS vs. GSW W 33 19 8 16 50.0 3 6 50.0 0 0 - 0 6 6 6 1 0 3 2 16
+p755
+aVAnthony Carter SAS 11/18/2003 SAS vs. GSW W 12 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 3 0 0 2 1 3
+p756
+aVTim Duncan SAS 11/15/2003 SAS @ WAS W 30 17 5 10 50.0 1 1 100.0 6 8 75.0 1 12 13 2 0 3 7 2 13
+p757
+aVDevin Brown SAS 11/15/2003 SAS @ WAS W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p758
+aVManu Ginobili SAS 11/15/2003 SAS @ WAS W 24 9 3 12 25.0 0 3 0.0 3 3 100.0 1 3 4 3 2 2 0 3 -1
+p759
+aVTony Parker SAS 11/15/2003 SAS @ WAS W 23 10 4 8 50.0 2 2 100.0 0 0 - 0 0 0 3 0 0 3 0 3
+p760
+aVRobert Horry SAS 11/15/2003 SAS @ WAS W 14 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 2 1 0 0 0 5
+p761
+aVJason Hart SAS 11/15/2003 SAS @ WAS W 25 12 6 7 85.7 0 0 - 0 0 - 1 1 2 5 0 0 1 2 21
+p762
+aVShane Heal SAS 11/15/2003 SAS @ WAS W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 4
+p763
+aVRasho Nesterovic SAS 11/15/2003 SAS @ WAS W 24 4 2 7 28.6 0 0 - 0 0 - 2 3 5 1 0 3 0 2 16
+p764
+aVHedo Turkoglu SAS 11/15/2003 SAS @ WAS W 29 3 1 8 12.5 0 1 0.0 1 1 100.0 0 10 10 5 0 0 1 2 23
+p765
+aVBruce Bowen SAS 11/15/2003 SAS @ WAS W 32 8 3 4 75.0 0 1 0.0 2 4 50.0 1 8 9 5 1 0 0 2 28
+p766
+aVMalik Rose SAS 11/15/2003 SAS @ WAS W 26 23 10 15 66.7 0 0 - 3 3 100.0 3 5 8 2 0 1 3 0 10
+p767
+aVHedo Turkoglu SAS 11/14/2003 SAS @ PHI L 22 5 1 7 14.3 0 1 0.0 3 3 100.0 2 5 7 1 2 0 2 1 -5
+p768
+aVBruce Bowen SAS 11/14/2003 SAS @ PHI L 36 5 1 8 12.5 1 3 33.3 2 2 100.0 0 4 4 4 0 0 0 6 -3
+p769
+aVTim Duncan SAS 11/14/2003 SAS @ PHI L 41 35 14 27 51.9 0 1 0.0 7 11 63.6 6 9 15 5 0 2 4 5 -3
+p770
+aVJason Hart SAS 11/14/2003 SAS @ PHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -15
+p771
+aVTony Parker SAS 11/14/2003 SAS @ PHI L 41 19 8 14 57.1 2 4 50.0 1 4 25.0 1 2 3 7 0 0 4 4 11
+p772
+aVRasho Nesterovic SAS 11/14/2003 SAS @ PHI L 29 2 1 7 14.3 0 0 - 0 0 - 5 4 9 0 1 1 3 4 2
+p773
+aVRobert Horry SAS 11/14/2003 SAS @ PHI L 11 5 1 3 33.3 1 2 50.0 2 2 100.0 2 1 3 1 0 0 0 1 2
+p774
+aVMalik Rose SAS 11/14/2003 SAS @ PHI L 14 4 0 3 0.0 0 0 - 4 4 100.0 1 3 4 0 0 0 0 2 -8
+p775
+aVManu Ginobili SAS 11/14/2003 SAS @ PHI L 38 21 7 18 38.9 2 8 25.0 5 6 83.3 3 3 6 8 3 1 0 4 0
+p776
+aVKevin Willis SAS 11/14/2003 SAS @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p777
+aVBruce Bowen SAS 11/12/2003 SAS @ NJN W 34 9 3 8 37.5 3 6 50.0 0 0 - 1 2 3 3 1 1 0 1 10
+p778
+aVManu Ginobili SAS 11/12/2003 SAS @ NJN W 38 12 5 16 31.3 1 5 20.0 1 2 50.0 2 6 8 2 1 0 1 1 13
+p779
+aVTim Duncan SAS 11/12/2003 SAS @ NJN W 39 31 12 19 63.2 0 0 - 7 8 87.5 3 9 12 1 1 3 4 1 16
+p780
+aVJason Hart SAS 11/12/2003 SAS @ NJN W 13 5 2 2 100.0 0 0 - 1 1 100.0 0 2 2 1 0 0 0 2 14
+p781
+aVMalik Rose SAS 11/12/2003 SAS @ NJN W 21 7 2 5 40.0 0 0 - 3 4 75.0 1 6 7 1 0 0 1 1 8
+p782
+aVHedo Turkoglu SAS 11/12/2003 SAS @ NJN W 19 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 2 2 0 2 0 -2
+p783
+aVRasho Nesterovic SAS 11/12/2003 SAS @ NJN W 36 4 2 8 25.0 0 0 - 0 0 - 4 7 11 2 0 6 1 3 4
+p784
+aVDevin Brown SAS 11/12/2003 SAS @ NJN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p785
+aVTony Parker SAS 11/12/2003 SAS @ NJN W 35 17 6 15 40.0 1 3 33.3 4 4 100.0 0 6 6 4 0 0 2 3 0
+p786
+aVManu Ginobili SAS 11/10/2003 SAS vs. UTA W 40 18 6 14 42.9 1 4 25.0 5 6 83.3 3 4 7 3 3 0 5 2 4
+p787
+aVJason Hart SAS 11/10/2003 SAS vs. UTA W 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 4 1 0 1 2 6
+p788
+aVTim Duncan SAS 11/10/2003 SAS vs. UTA W 33 16 7 14 50.0 0 0 - 2 7 28.6 2 8 10 5 1 4 2 2 16
+p789
+aVTony Parker SAS 11/10/2003 SAS vs. UTA W 29 9 2 10 20.0 1 2 50.0 4 6 66.7 1 1 2 1 2 1 1 2 3
+p790
+aVRobert Horry SAS 11/10/2003 SAS vs. UTA W 12 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 3 0 2 -1
+p791
+aVHedo Turkoglu SAS 11/10/2003 SAS vs. UTA W 19 14 4 8 50.0 1 1 100.0 5 6 83.3 0 4 4 2 2 0 2 4 -3
+p792
+aVBruce Bowen SAS 11/10/2003 SAS vs. UTA W 37 12 5 10 50.0 1 5 20.0 1 1 100.0 0 2 2 2 2 0 0 0 19
+p793
+aVRasho Nesterovic SAS 11/10/2003 SAS vs. UTA W 30 7 3 5 60.0 0 0 - 1 2 50.0 3 5 8 1 1 1 1 3 0
+p794
+aVMalik Rose SAS 11/10/2003 SAS vs. UTA W 21 7 2 5 40.0 0 0 - 3 4 75.0 2 1 3 2 3 2 5 2 1
+p795
+aVHedo Turkoglu SAS 11/08/2003 SAS vs. DAL L 21 7 1 7 14.3 0 2 0.0 5 6 83.3 1 1 2 1 1 0 0 1 -10
+p796
+aVBruce Bowen SAS 11/08/2003 SAS vs. DAL L 33 5 2 11 18.2 1 4 25.0 0 0 - 0 6 6 2 0 1 1 3 7
+p797
+aVMalik Rose SAS 11/08/2003 SAS vs. DAL L 40 20 6 14 42.9 0 0 - 8 10 80.0 9 13 22 1 0 0 4 5 -2
+p798
+aVDevin Brown SAS 11/08/2003 SAS vs. DAL L 5 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 1 2
+p799
+aVRobert Horry SAS 11/08/2003 SAS vs. DAL L 25 7 3 12 25.0 0 2 0.0 1 2 50.0 1 3 4 2 0 1 1 1 -3
+p800
+aVShane Heal SAS 11/08/2003 SAS vs. DAL L 11 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 1 0 0 2 0 -6
+p801
+aVJason Hart SAS 11/08/2003 SAS vs. DAL L 36 7 3 8 37.5 0 0 - 1 2 50.0 1 4 5 1 2 1 1 3 2
+p802
+aVManu Ginobili SAS 11/08/2003 SAS vs. DAL L 37 17 6 16 37.5 1 4 25.0 4 4 100.0 0 1 1 7 3 1 2 2 -4
+p803
+aVRasho Nesterovic SAS 11/08/2003 SAS vs. DAL L 31 10 5 10 50.0 0 0 - 0 0 - 3 4 7 0 2 2 3 2 -1
+p804
+aVManu Ginobili SAS 11/06/2003 SAS vs. LAL L 45 33 9 21 42.9 4 7 57.1 11 13 84.6 1 11 12 7 2 0 1 5 10
+p805
+aVMalik Rose SAS 11/06/2003 SAS vs. LAL L 44 15 2 12 16.7 0 0 - 11 14 78.6 1 7 8 2 1 0 5 6 -7
+p806
+aVKevin Willis SAS 11/06/2003 SAS vs. LAL L 15 0 0 6 0.0 0 1 0.0 0 0 - 1 4 5 1 1 0 3 4 -3
+p807
+aVRasho Nesterovic SAS 11/06/2003 SAS vs. LAL L 39 14 7 13 53.8 0 0 - 0 0 - 4 5 9 1 1 2 0 6 -2
+p808
+aVJason Hart SAS 11/06/2003 SAS vs. LAL L 45 14 6 12 50.0 0 0 - 2 2 100.0 0 2 2 5 1 0 1 5 -10
+p809
+aVShane Heal SAS 11/06/2003 SAS vs. LAL L 13 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 7
+p810
+aVRon Mercer SAS 11/06/2003 SAS vs. LAL L 13 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p811
+aVHedo Turkoglu SAS 11/06/2003 SAS vs. LAL L 16 7 2 5 40.0 0 0 - 3 5 60.0 0 2 2 0 2 1 1 1 6
+p812
+aVBruce Bowen SAS 11/06/2003 SAS vs. LAL L 43 11 3 7 42.9 1 3 33.3 4 4 100.0 0 5 5 0 0 1 1 1 -18
+p813
+aVRobert Horry SAS 11/06/2003 SAS vs. LAL L 17 12 3 4 75.0 1 1 100.0 5 6 83.3 2 1 3 1 0 0 0 4 5
+p814
+aVBruce Bowen SAS 11/04/2003 SAS vs. MIA W 29 2 0 3 0.0 0 3 0.0 2 4 50.0 0 3 3 1 0 1 5 3 -4
+p815
+aVHedo Turkoglu SAS 11/04/2003 SAS vs. MIA W 23 8 3 9 33.3 0 2 0.0 2 2 100.0 2 4 6 0 0 1 1 2 10
+p816
+aVManu Ginobili SAS 11/04/2003 SAS vs. MIA W 32 15 4 13 30.8 3 5 60.0 4 4 100.0 2 6 8 5 2 1 1 1 14
+p817
+aVRobert Horry SAS 11/04/2003 SAS vs. MIA W 15 6 2 4 50.0 1 2 50.0 1 2 50.0 2 2 4 0 1 0 0 0 11
+p818
+aVJason Hart SAS 11/04/2003 SAS vs. MIA W 35 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 3 1 1 0 1 -1
+p819
+aVRon Mercer SAS 11/04/2003 SAS vs. MIA W 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -6
+p820
+aVRasho Nesterovic SAS 11/04/2003 SAS vs. MIA W 32 14 6 12 50.0 0 0 - 2 7 28.6 4 5 9 1 0 0 2 4 3
+p821
+aVKevin Willis SAS 11/04/2003 SAS vs. MIA W 15 13 4 7 57.1 0 0 - 5 10 50.0 3 1 4 0 0 0 0 4 2
+p822
+aVShane Heal SAS 11/04/2003 SAS vs. MIA W 13 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 1 0 0 0 8
+p823
+aVMalik Rose SAS 11/04/2003 SAS vs. MIA W 34 14 3 11 27.3 0 0 - 8 10 80.0 2 9 11 1 0 1 1 2 -2
+p824
+aVKevin Willis SAS 11/03/2003 SAS @ MEM L 14 7 3 6 50.0 0 0 - 1 4 25.0 1 0 1 0 0 2 2 2 -10
+p825
+aVMalik Rose SAS 11/03/2003 SAS @ MEM L 30 10 2 12 16.7 0 1 0.0 6 6 100.0 3 6 9 0 1 2 3 5 -23
+p826
+aVRasho Nesterovic SAS 11/03/2003 SAS @ MEM L 34 13 6 11 54.5 0 0 - 1 2 50.0 3 11 14 2 1 3 5 4 2
+p827
+aVJason Hart SAS 11/03/2003 SAS @ MEM L 38 4 1 6 16.7 0 0 - 2 2 100.0 1 7 8 8 2 1 3 3 5
+p828
+aVManu Ginobili SAS 11/03/2003 SAS @ MEM L 29 13 4 10 40.0 2 4 50.0 3 4 75.0 0 3 3 5 2 0 2 2 -11
+p829
+aVHedo Turkoglu SAS 11/03/2003 SAS @ MEM L 16 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 0 0 0 2 2 -2
+p830
+aVShane Heal SAS 11/03/2003 SAS @ MEM L 11 1 0 3 0.0 0 2 0.0 1 1 100.0 0 1 1 1 0 0 3 1 -13
+p831
+aVBruce Bowen SAS 11/03/2003 SAS @ MEM L 37 9 3 6 50.0 2 3 66.7 1 2 50.0 1 2 3 2 1 0 1 3 4
+p832
+aVRon Mercer SAS 11/03/2003 SAS @ MEM L 19 10 5 12 41.7 0 0 - 0 0 - 0 5 5 1 2 0 3 1 -2
+p833
+aVRobert Horry SAS 11/03/2003 SAS @ MEM L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 0
+p834
+aVTim Duncan SAS 11/03/2003 SAS @ MEM L 7 10 5 6 83.3 0 0 - 0 0 - 0 3 3 1 0 0 0 0 10
+p835
+aVBruce Bowen SAS 11/01/2003 SAS vs. NYK W 33 12 4 9 44.4 2 5 40.0 2 4 50.0 0 1 1 1 2 0 1 4 1
+p836
+aVHedo Turkoglu SAS 11/01/2003 SAS vs. NYK W 21 14 5 8 62.5 2 3 66.7 2 2 100.0 0 1 1 1 1 0 2 1 12
+p837
+aVTim Duncan SAS 11/01/2003 SAS vs. NYK W 40 15 5 9 55.6 0 0 - 5 10 50.0 4 11 15 1 0 0 5 3 15
+p838
+aVJason Hart SAS 11/01/2003 SAS vs. NYK W 31 2 1 5 20.0 0 0 - 0 1 0.0 0 3 3 2 0 0 1 1 -4
+p839
+aVMalik Rose SAS 11/01/2003 SAS vs. NYK W 17 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 2 0 0 1 4 8
+p840
+aVShane Heal SAS 11/01/2003 SAS vs. NYK W 17 11 3 6 50.0 2 5 40.0 3 4 75.0 1 0 1 2 0 0 0 1 16
+p841
+aVRobert Horry SAS 11/01/2003 SAS vs. NYK W 10 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 4 1 0 0 0 4
+p842
+aVManu Ginobili SAS 11/01/2003 SAS vs. NYK W 33 10 3 11 27.3 0 4 0.0 4 4 100.0 0 5 5 5 4 0 1 2 9
+p843
+aVRon Mercer SAS 11/01/2003 SAS vs. NYK W 8 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 2
+p844
+aVRasho Nesterovic SAS 11/01/2003 SAS vs. NYK W 30 12 3 5 60.0 0 0 - 6 6 100.0 0 5 5 1 0 2 4 2 -3
+p845
+aVRobert Horry SAS 10/29/2003 SAS @ DEN L 18 5 2 8 25.0 0 3 0.0 1 1 100.0 4 2 6 1 0 2 1 2 2
+p846
+aVTim Duncan SAS 10/29/2003 SAS @ DEN L 34 17 7 22 31.8 0 0 - 3 4 75.0 5 16 21 1 2 8 5 4 -19
+p847
+aVMalik Rose SAS 10/29/2003 SAS @ DEN L 24 5 0 7 0.0 0 1 0.0 5 6 83.3 3 6 9 0 1 1 0 3 9
+p848
+aVKevin Willis SAS 10/29/2003 SAS @ DEN L 4 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 2
+p849
+aVRasho Nesterovic SAS 10/29/2003 SAS @ DEN L 16 2 1 11 9.1 0 0 - 0 0 - 6 1 7 0 0 1 0 0 -10
+p850
+aVManu Ginobili SAS 10/29/2003 SAS @ DEN L 37 14 4 12 33.3 2 4 50.0 4 4 100.0 3 3 6 6 2 1 3 5 -6
+p851
+aVRon Mercer SAS 10/29/2003 SAS @ DEN L 33 14 7 13 53.8 0 0 - 0 0 - 1 4 5 1 2 1 3 3 -2
+p852
+aVHedo Turkoglu SAS 10/29/2003 SAS @ DEN L 30 15 5 14 35.7 0 4 0.0 5 8 62.5 1 0 1 2 3 2 1 4 8
+p853
+aVAnthony Carter SAS 10/29/2003 SAS @ DEN L 10 0 0 6 0.0 0 0 - 0 0 - 0 1 1 1 0 0 3 2 -9
+p854
+aVBruce Bowen SAS 10/29/2003 SAS @ DEN L 34 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 2 5 -15
+p855
+aVMalik Rose SAS 10/28/2003 SAS vs. PHX W 25 12 4 6 66.7 0 0 - 4 4 100.0 0 4 4 1 2 2 2 5 9
+p856
+aVRobert Horry SAS 10/28/2003 SAS vs. PHX W 16 5 2 5 40.0 0 1 0.0 1 1 100.0 0 2 2 0 0 1 2 2 8
+p857
+aVRon Mercer SAS 10/28/2003 SAS vs. PHX W 24 11 5 11 45.5 0 1 0.0 1 1 100.0 0 1 1 4 2 0 1 1 1
+p858
+aVHedo Turkoglu SAS 10/28/2003 SAS vs. PHX W 22 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 0 0 1 1 2 9
+p859
+aVBruce Bowen SAS 10/28/2003 SAS vs. PHX W 31 5 2 7 28.6 0 2 0.0 1 2 50.0 0 3 3 2 0 0 1 2 -4
+p860
+aVRasho Nesterovic SAS 10/28/2003 SAS vs. PHX W 15 2 1 1 100.0 0 0 - 0 2 0.0 0 3 3 0 1 0 3 2 -11
+p861
+aVAnthony Carter SAS 10/28/2003 SAS vs. PHX W 34 10 5 15 33.3 0 0 - 0 0 - 2 3 5 6 2 0 5 3 -5
+p862
+aVManu Ginobili SAS 10/28/2003 SAS vs. PHX W 33 7 1 7 14.3 0 3 0.0 5 7 71.4 1 4 5 3 0 1 2 4 2
+p863
+aVTim Duncan SAS 10/28/2003 SAS vs. PHX W 40 24 8 13 61.5 0 0 - 8 9 88.9 4 8 12 4 1 6 3 3 -4
+p864
+a.

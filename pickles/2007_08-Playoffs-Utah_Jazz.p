@@ -1,0 +1,248 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRonnie Brewer UTA 05/16/2008 UTA vs. LAL L 22 13 5 11 45.5 0 0 - 3 3 100.0 0 1 1 1 1 0 0 3 -13
+p2
+aVPaul Millsap UTA 05/16/2008 UTA vs. LAL L 24 15 6 7 85.7 0 0 - 3 5 60.0 4 4 8 1 0 3 1 4 2
+p3
+aVDeron Williams UTA 05/16/2008 UTA vs. LAL L 45 21 9 21 42.9 2 8 25.0 1 1 100.0 1 3 4 14 1 0 2 5 -5
+p4
+aVCarlos Boozer UTA 05/16/2008 UTA vs. LAL L 36 12 5 16 31.3 0 0 - 2 2 100.0 3 11 14 2 1 0 3 6 -4
+p5
+aVKyle Korver UTA 05/16/2008 UTA vs. LAL L 18 5 1 4 25.0 1 3 33.3 2 2 100.0 1 1 2 1 0 1 0 0 16
+p6
+aVMehmet Okur UTA 05/16/2008 UTA vs. LAL L 36 16 6 18 33.3 4 6 66.7 0 0 - 3 7 10 1 0 1 1 3 -4
+p7
+aVAndrei Kirilenko UTA 05/16/2008 UTA vs. LAL L 27 12 4 10 40.0 2 3 66.7 2 2 100.0 3 1 4 2 3 1 1 2 3
+p8
+aVMatt Harpring UTA 05/16/2008 UTA vs. LAL L 21 7 0 4 0.0 0 0 - 7 8 87.5 5 1 6 0 1 0 1 2 -6
+p9
+aVRonnie Price UTA 05/16/2008 UTA vs. LAL L 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 2
+p10
+aVCJ Miles UTA 05/16/2008 UTA vs. LAL L 8 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 0 1 0 1 1 -6
+p11
+aVKyle Korver UTA 05/14/2008 UTA @ LAL L 19 6 2 5 40.0 1 3 33.3 1 1 100.0 1 0 1 0 0 1 2 3 -5
+p12
+aVRonnie Price UTA 05/14/2008 UTA @ LAL L 4 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 5
+p13
+aVJarron Collins UTA 05/14/2008 UTA @ LAL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p14
+aVRonnie Brewer UTA 05/14/2008 UTA @ LAL L 23 16 7 9 77.8 0 0 - 2 2 100.0 1 1 2 5 1 0 3 2 -3
+p15
+aVCarlos Boozer UTA 05/14/2008 UTA @ LAL L 40 18 6 16 37.5 0 0 - 6 8 75.0 6 6 12 2 0 0 3 4 -3
+p16
+aVCJ Miles UTA 05/14/2008 UTA @ LAL L 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p17
+aVDeron Williams UTA 05/14/2008 UTA @ LAL L 44 27 8 19 42.1 3 7 42.9 8 8 100.0 0 5 5 10 0 0 4 3 -12
+p18
+aVPaul Millsap UTA 05/14/2008 UTA @ LAL L 7 0 0 0 - 0 0 - 0 0 - 3 0 3 0 2 1 3 4 -1
+p19
+aVMatt Harpring UTA 05/14/2008 UTA @ LAL L 14 6 2 4 50.0 0 0 - 2 3 66.7 1 2 3 2 0 0 0 4 0
+p20
+aVMehmet Okur UTA 05/14/2008 UTA @ LAL L 41 13 4 9 44.4 2 4 50.0 3 4 75.0 2 11 13 1 1 1 1 4 -11
+p21
+aVAndrei Kirilenko UTA 05/14/2008 UTA @ LAL L 39 12 5 13 38.5 0 3 0.0 2 2 100.0 1 1 2 3 4 1 2 6 -7
+p22
+aVMehmet Okur UTA 05/11/2008 UTA vs. LAL W 46 18 6 13 46.2 1 4 25.0 5 6 83.3 2 9 11 5 0 1 0 4 6
+p23
+aVPaul Millsap UTA 05/11/2008 UTA vs. LAL W 17 9 4 7 57.1 0 1 0.0 1 4 25.0 4 0 4 0 1 1 0 4 0
+p24
+aVCarlos Boozer UTA 05/11/2008 UTA vs. LAL W 43 14 5 15 33.3 0 0 - 4 5 80.0 0 12 12 3 0 0 3 4 10
+p25
+aVRonnie Brewer UTA 05/11/2008 UTA vs. LAL W 23 8 3 5 60.0 0 1 0.0 2 2 100.0 0 4 4 3 0 1 0 3 11
+p26
+aVAndrei Kirilenko UTA 05/11/2008 UTA vs. LAL W 38 15 4 4 100.0 0 0 - 7 9 77.8 0 0 0 3 0 5 4 4 8
+p27
+aVKyle Korver UTA 05/11/2008 UTA vs. LAL W 30 14 4 10 40.0 2 6 33.3 4 4 100.0 0 5 5 1 2 0 1 3 -3
+p28
+aVRonnie Price UTA 05/11/2008 UTA vs. LAL W 9 4 1 3 33.3 0 1 0.0 2 3 66.7 0 1 1 2 2 1 0 0 3
+p29
+aVDeron Williams UTA 05/11/2008 UTA vs. LAL W 44 29 9 13 69.2 3 4 75.0 8 8 100.0 0 3 3 14 2 1 4 4 3
+p30
+aVMatt Harpring UTA 05/11/2008 UTA vs. LAL W 15 12 4 6 66.7 0 0 - 4 4 100.0 1 0 1 1 0 0 1 1 2
+p31
+aVPaul Millsap UTA 05/09/2008 UTA vs. LAL W 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 3 3
+p32
+aVMatt Harpring UTA 05/09/2008 UTA vs. LAL W 18 12 4 8 50.0 0 0 - 4 4 100.0 1 2 3 0 0 0 0 4 -1
+p33
+aVDeron Williams UTA 05/09/2008 UTA vs. LAL W 42 18 6 12 50.0 1 4 25.0 5 6 83.3 2 1 3 12 0 0 2 4 7
+p34
+aVMehmet Okur UTA 05/09/2008 UTA vs. LAL W 42 22 8 14 57.1 4 7 57.1 2 3 66.7 4 3 7 2 2 1 5 1 9
+p35
+aVKyle Korver UTA 05/09/2008 UTA vs. LAL W 25 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 3 5
+p36
+aVCarlos Boozer UTA 05/09/2008 UTA vs. LAL W 40 27 12 21 57.1 0 0 - 3 7 42.9 4 16 20 3 0 0 3 4 -2
+p37
+aVRonnie Price UTA 05/09/2008 UTA vs. LAL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -2
+p38
+aVRonnie Brewer UTA 05/09/2008 UTA vs. LAL W 25 6 1 5 20.0 0 0 - 4 6 66.7 0 0 0 0 1 0 0 3 2
+p39
+aVAndrei Kirilenko UTA 05/09/2008 UTA vs. LAL W 29 12 5 9 55.6 0 1 0.0 2 2 100.0 1 1 2 2 1 1 1 6 4
+p40
+aVAndrei Kirilenko UTA 05/07/2008 UTA @ LAL L 30 14 6 13 46.2 0 1 0.0 2 3 66.7 1 2 3 5 1 0 2 6 -10
+p41
+aVRonnie Price UTA 05/07/2008 UTA @ LAL L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 1 0 0 1 4
+p42
+aVJarron Collins UTA 05/07/2008 UTA @ LAL L 11 0 0 2 0.0 0 0 - 0 0 - 2 3 5 1 1 0 0 2 3
+p43
+aVCarlos Boozer UTA 05/07/2008 UTA @ LAL L 24 10 3 10 30.0 0 0 - 4 4 100.0 1 4 5 4 1 0 1 4 -3
+p44
+aVMatt Harpring UTA 05/07/2008 UTA @ LAL L 21 4 2 9 22.2 0 0 - 0 0 - 1 1 2 0 0 1 2 2 -5
+p45
+aVKyle Korver UTA 05/07/2008 UTA @ LAL L 24 10 4 9 44.4 1 4 25.0 1 1 100.0 0 3 3 1 0 0 0 2 1
+p46
+aVRonnie Brewer UTA 05/07/2008 UTA @ LAL L 24 12 6 10 60.0 0 0 - 0 0 - 2 3 5 2 2 0 0 2 -11
+p47
+aVMehmet Okur UTA 05/07/2008 UTA @ LAL L 29 16 7 13 53.8 1 5 20.0 1 2 50.0 1 4 5 1 1 0 1 6 -7
+p48
+aVCJ Miles UTA 05/07/2008 UTA @ LAL L 0 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p49
+aVDeron Williams UTA 05/07/2008 UTA @ LAL L 40 25 9 17 52.9 5 5 100.0 2 2 100.0 2 1 3 10 1 0 3 2 -14
+p50
+aVPaul Millsap UTA 05/07/2008 UTA @ LAL L 29 17 7 13 53.8 0 0 - 3 4 75.0 6 4 10 1 1 0 1 2 -7
+p51
+aVCJ Miles UTA 05/04/2008 UTA @ LAL L 5 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 0 1 1
+p52
+aVPaul Millsap UTA 05/04/2008 UTA @ LAL L 14 4 2 4 50.0 0 0 - 0 2 0.0 1 0 1 0 0 3 1 3 -6
+p53
+aVDeron Williams UTA 05/04/2008 UTA @ LAL L 46 14 5 18 27.8 1 6 16.7 3 4 75.0 5 4 9 9 1 0 2 2 -10
+p54
+aVAndrei Kirilenko UTA 05/04/2008 UTA @ LAL L 30 11 5 11 45.5 0 3 0.0 1 2 50.0 0 6 6 3 2 5 1 6 -5
+p55
+aVMatt Harpring UTA 05/04/2008 UTA @ LAL L 12 5 2 8 25.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 2 -7
+p56
+aVRonnie Price UTA 05/04/2008 UTA @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p57
+aVMehmet Okur UTA 05/04/2008 UTA @ LAL L 41 21 7 19 36.8 0 5 0.0 7 8 87.5 8 11 19 3 1 0 0 3 -7
+p58
+aVJarron Collins UTA 05/04/2008 UTA @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p59
+aVKyle Korver UTA 05/04/2008 UTA @ LAL L 20 11 2 7 28.6 1 2 50.0 6 6 100.0 3 2 5 1 0 0 0 5 -11
+p60
+aVCarlos Boozer UTA 05/04/2008 UTA @ LAL L 37 15 6 14 42.9 0 0 - 3 4 75.0 6 8 14 4 0 0 7 6 -6
+p61
+aVRonnie Brewer UTA 05/04/2008 UTA @ LAL L 33 11 5 11 45.5 0 0 - 1 2 50.0 1 0 1 0 1 0 0 5 -4
+p62
+aVPaul Millsap UTA 05/02/2008 UTA vs. HOU W 20 7 3 7 42.9 0 0 - 1 1 100.0 1 4 5 0 0 2 0 3 0
+p63
+aVMehmet Okur UTA 05/02/2008 UTA vs. HOU W 38 19 7 13 53.8 1 3 33.3 4 4 100.0 4 9 13 1 1 0 0 3 23
+p64
+aVRonnie Price UTA 05/02/2008 UTA vs. HOU W 7 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 1 0 0 2 2 -1
+p65
+aVCarlos Boozer UTA 05/02/2008 UTA vs. HOU W 36 15 6 17 35.3 0 0 - 3 4 75.0 4 6 10 5 0 0 1 2 20
+p66
+aVRonnie Brewer UTA 05/02/2008 UTA vs. HOU W 22 13 4 8 50.0 1 2 50.0 4 4 100.0 3 3 6 0 2 0 0 3 28
+p67
+aVAndrei Kirilenko UTA 05/02/2008 UTA vs. HOU W 31 11 5 11 45.5 1 2 50.0 0 0 - 2 2 4 2 1 3 0 4 19
+p68
+aVMatt Harpring UTA 05/02/2008 UTA vs. HOU W 16 10 2 5 40.0 0 2 0.0 6 6 100.0 1 3 4 0 1 0 0 5 3
+p69
+aVKyle Korver UTA 05/02/2008 UTA vs. HOU W 22 10 4 5 80.0 1 2 50.0 1 2 50.0 0 1 1 1 0 1 1 1 -2
+p70
+aVDeron Williams UTA 05/02/2008 UTA vs. HOU W 41 25 9 17 52.9 6 9 66.7 1 2 50.0 2 4 6 9 0 0 1 2 23
+p71
+aVJason Hart UTA 05/02/2008 UTA vs. HOU W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p72
+aVCJ Miles UTA 05/02/2008 UTA vs. HOU W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p73
+aVJarron Collins UTA 05/02/2008 UTA vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p74
+aVRonnie Price UTA 04/29/2008 UTA @ HOU L 9 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -12
+p75
+aVCarlos Boozer UTA 04/29/2008 UTA @ HOU L 35 19 8 18 44.4 0 0 - 3 4 75.0 5 5 10 2 3 0 5 3 -15
+p76
+aVCJ Miles UTA 04/29/2008 UTA @ HOU L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -6
+p77
+aVMatt Harpring UTA 04/29/2008 UTA @ HOU L 15 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 2 2 -9
+p78
+aVKyle Korver UTA 04/29/2008 UTA @ HOU L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 2 0 1 -10
+p79
+aVAndrei Kirilenko UTA 04/29/2008 UTA @ HOU L 29 5 2 7 28.6 0 1 0.0 1 2 50.0 0 1 1 2 2 0 3 1 -11
+p80
+aVMehmet Okur UTA 04/29/2008 UTA @ HOU L 39 14 4 11 36.4 2 4 50.0 4 6 66.7 1 9 10 0 0 0 3 3 -18
+p81
+aVPaul Millsap UTA 04/29/2008 UTA @ HOU L 18 4 2 5 40.0 0 0 - 0 2 0.0 0 2 2 0 0 1 0 3 -13
+p82
+aVJarron Collins UTA 04/29/2008 UTA @ HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -6
+p83
+aVRonnie Brewer UTA 04/29/2008 UTA @ HOU L 34 9 4 11 36.4 0 0 - 1 2 50.0 3 4 7 2 1 1 0 0 -10
+p84
+aVJason Hart UTA 04/29/2008 UTA @ HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p85
+aVDeron Williams UTA 04/29/2008 UTA @ HOU L 39 13 5 11 45.5 0 1 0.0 3 5 60.0 1 2 3 6 1 0 4 3 -14
+p86
+aVKyle Korver UTA 04/26/2008 UTA vs. HOU W 23 10 4 11 36.4 0 6 0.0 2 2 100.0 0 2 2 1 0 1 1 4 11
+p87
+aVDeron Williams UTA 04/26/2008 UTA vs. HOU W 46 17 6 11 54.5 0 1 0.0 5 8 62.5 0 1 1 9 1 0 4 3 5
+p88
+aVCarlos Boozer UTA 04/26/2008 UTA vs. HOU W 38 14 3 13 23.1 0 0 - 8 8 100.0 1 13 14 2 0 1 2 2 1
+p89
+aVMatt Harpring UTA 04/26/2008 UTA vs. HOU W 20 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 2 1 1 5 -4
+p90
+aVPaul Millsap UTA 04/26/2008 UTA vs. HOU W 18 5 1 3 33.3 0 0 - 3 4 75.0 1 3 4 0 1 1 0 2 -3
+p91
+aVMehmet Okur UTA 04/26/2008 UTA vs. HOU W 40 14 6 11 54.5 0 2 0.0 2 2 100.0 3 15 18 0 1 1 3 2 10
+p92
+aVAndrei Kirilenko UTA 04/26/2008 UTA vs. HOU W 29 11 4 9 44.4 0 2 0.0 3 4 75.0 3 2 5 1 1 1 1 2 6
+p93
+aVRonnie Brewer UTA 04/26/2008 UTA vs. HOU W 24 12 6 9 66.7 0 1 0.0 0 1 0.0 2 1 3 1 1 2 0 1 -5
+p94
+aVRonnie Price UTA 04/26/2008 UTA vs. HOU W 2 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -1
+p95
+aVDeron Williams UTA 04/24/2008 UTA vs. HOU L 43 28 9 17 52.9 3 5 60.0 7 8 87.5 1 2 3 12 0 0 3 2 2
+p96
+aVCarlos Boozer UTA 04/24/2008 UTA vs. HOU L 40 15 6 11 54.5 0 0 - 3 8 37.5 4 9 13 2 1 1 3 4 2
+p97
+aVRonnie Price UTA 04/24/2008 UTA vs. HOU L 5 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -4
+p98
+aVMehmet Okur UTA 04/24/2008 UTA vs. HOU L 40 12 3 13 23.1 2 5 40.0 4 7 57.1 3 8 11 3 0 2 1 3 -2
+p99
+aVMatt Harpring UTA 04/24/2008 UTA vs. HOU L 17 10 4 6 66.7 1 1 100.0 1 2 50.0 3 1 4 0 1 1 1 3 -5
+p100
+aVKyle Korver UTA 04/24/2008 UTA vs. HOU L 18 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 3 -8
+p101
+aVRonnie Brewer UTA 04/24/2008 UTA vs. HOU L 30 12 5 7 71.4 0 1 0.0 2 2 100.0 2 1 3 3 1 0 0 2 6
+p102
+aVPaul Millsap UTA 04/24/2008 UTA vs. HOU L 16 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 2 0 3 -4
+p103
+aVAndrei Kirilenko UTA 04/24/2008 UTA vs. HOU L 31 5 2 7 28.6 1 2 50.0 0 2 0.0 0 2 2 0 0 1 2 4 3
+p104
+aVDeron Williams UTA 04/21/2008 UTA @ HOU W 40 22 8 15 53.3 3 5 60.0 3 6 50.0 0 1 1 5 0 2 3 2 11
+p105
+aVRonnie Price UTA 04/21/2008 UTA @ HOU W 8 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 1 1 1 0 0 -5
+p106
+aVPaul Millsap UTA 04/21/2008 UTA @ HOU W 23 7 3 7 42.9 0 0 - 1 1 100.0 1 2 3 2 1 0 2 2 1
+p107
+aVCarlos Boozer UTA 04/21/2008 UTA @ HOU W 34 13 6 12 50.0 0 0 - 1 2 50.0 2 5 7 2 0 0 2 4 0
+p108
+aVMehmet Okur UTA 04/21/2008 UTA @ HOU W 39 16 6 14 42.9 2 4 50.0 2 2 100.0 2 14 16 3 1 1 2 2 11
+p109
+aVMatt Harpring UTA 04/21/2008 UTA @ HOU W 14 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 1 0 2 4 -4
+p110
+aVKyle Korver UTA 04/21/2008 UTA @ HOU W 24 7 1 4 25.0 0 2 0.0 5 5 100.0 0 3 3 0 1 1 1 1 1
+p111
+aVAndrei Kirilenko UTA 04/21/2008 UTA @ HOU W 34 3 1 8 12.5 0 2 0.0 1 2 50.0 4 4 8 4 1 1 1 2 10
+p112
+aVRonnie Brewer UTA 04/21/2008 UTA @ HOU W 24 10 5 9 55.6 0 1 0.0 0 1 0.0 2 2 4 2 0 0 0 3 5
+p113
+aVRonnie Price UTA 04/19/2008 UTA @ HOU W 4 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 1 1 6
+p114
+aVMatt Harpring UTA 04/19/2008 UTA @ HOU W 26 6 3 6 50.0 0 0 - 0 2 0.0 1 2 3 2 1 0 0 1 19
+p115
+aVDeron Williams UTA 04/19/2008 UTA @ HOU W 44 20 7 12 58.3 1 1 100.0 5 8 62.5 2 0 2 10 0 1 5 3 5
+p116
+aVKyle Korver UTA 04/19/2008 UTA @ HOU W 26 11 4 7 57.1 2 4 50.0 1 2 50.0 0 1 1 0 0 1 1 2 17
+p117
+aVAndrei Kirilenko UTA 04/19/2008 UTA @ HOU W 40 21 8 12 66.7 1 2 50.0 4 5 80.0 0 4 4 3 2 1 0 3 2
+p118
+aVRonnie Brewer UTA 04/19/2008 UTA @ HOU W 22 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -3
+p119
+aVCarlos Boozer UTA 04/19/2008 UTA @ HOU W 36 20 10 20 50.0 0 0 - 0 0 - 6 10 16 3 0 0 3 4 -1
+p120
+aVMehmet Okur UTA 04/19/2008 UTA @ HOU W 32 4 2 8 25.0 0 2 0.0 0 0 - 1 7 8 3 0 0 2 3 5
+p121
+aVPaul Millsap UTA 04/19/2008 UTA @ HOU W 10 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 0 2 0 4 8
+p122
+aVCJ Miles UTA 04/19/2008 UTA @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p123
+a.

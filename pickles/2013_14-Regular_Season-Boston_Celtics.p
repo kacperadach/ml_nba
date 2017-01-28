@@ -1,0 +1,1686 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKelly Olynyk BOS 04/16/2014 BOS vs. WAS L 30 24 10 16 62.5 0 2 0.0 4 5 80.0 2 5 7 5 1 0 1 5 5
+p2
+aVBrandon Bass BOS 04/16/2014 BOS vs. WAS L 26 16 7 9 77.8 0 1 0.0 2 3 66.7 1 6 7 1 0 0 0 2 -14
+p3
+aVChris Johnson BOS 04/16/2014 BOS vs. WAS L 29 10 4 7 57.1 2 5 40.0 0 1 0.0 2 2 4 3 4 0 0 0 -6
+p4
+aVPhil Pressey BOS 04/16/2014 BOS vs. WAS L 42 9 3 12 25.0 0 4 0.0 3 4 75.0 1 4 5 10 2 0 4 1 -18
+p5
+aVJeff Green BOS 04/16/2014 BOS vs. WAS L 36 20 6 15 40.0 2 7 28.6 6 7 85.7 1 3 4 1 0 0 2 1 -21
+p6
+aVJoel Anthony BOS 04/16/2014 BOS vs. WAS L 29 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 1 1 1 0 3 -1
+p7
+aVChris Babb BOS 04/16/2014 BOS vs. WAS L 11 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 0 0 0 1 0 -8
+p8
+aVAvery Bradley BOS 04/16/2014 BOS vs. WAS L 37 18 7 18 38.9 3 7 42.9 1 1 100.0 2 3 5 3 0 0 5 4 -17
+p9
+aVJeff Green BOS 04/14/2014 BOS @ PHI L 38 27 10 16 62.5 2 4 50.0 5 6 83.3 0 3 3 1 3 2 1 6 1
+p10
+aVKelly Olynyk BOS 04/14/2014 BOS @ PHI L 35 28 10 19 52.6 2 3 66.7 6 7 85.7 3 6 9 3 0 0 2 4 -12
+p11
+aVAvery Bradley BOS 04/14/2014 BOS @ PHI L 42 23 9 22 40.9 2 11 18.2 3 4 75.0 0 2 2 3 1 0 3 2 6
+p12
+aVPhil Pressey BOS 04/14/2014 BOS @ PHI L 15 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 3 0 0 4 1 -24
+p13
+aVRajon Rondo BOS 04/14/2014 BOS @ PHI L 35 8 4 8 50.0 0 0 - 0 1 0.0 3 8 11 14 2 0 4 1 16
+p14
+aVBrandon Bass BOS 04/14/2014 BOS @ PHI L 38 9 3 11 27.3 0 0 - 3 4 75.0 4 4 8 2 0 2 1 5 8
+p15
+aVJoel Anthony BOS 04/14/2014 BOS @ PHI L 14 0 0 1 0.0 0 0 - 0 2 0.0 2 0 2 0 0 0 0 2 -7
+p16
+aVChris Johnson BOS 04/14/2014 BOS @ PHI L 17 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 0 2 0 2 1 -4
+p17
+aVChris Babb BOS 04/14/2014 BOS @ PHI L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -9
+p18
+aVKelly Olynyk BOS 04/12/2014 BOS @ CLE W 39 25 11 23 47.8 2 5 40.0 1 1 100.0 0 12 12 3 0 0 4 6 10
+p19
+aVAvery Bradley BOS 04/12/2014 BOS @ CLE W 31 25 9 15 60.0 5 6 83.3 2 2 100.0 1 7 8 2 1 0 1 1 31
+p20
+aVBrandon Bass BOS 04/12/2014 BOS @ CLE W 34 19 7 11 63.6 0 0 - 5 5 100.0 2 3 5 3 0 1 1 5 10
+p21
+aVPhil Pressey BOS 04/12/2014 BOS @ CLE W 42 9 4 8 50.0 1 3 33.3 0 0 - 2 3 5 13 1 0 2 2 6
+p22
+aVJeff Green BOS 04/12/2014 BOS @ CLE W 31 19 6 18 33.3 3 9 33.3 4 6 66.7 0 8 8 2 1 2 1 4 21
+p23
+aVChris Johnson BOS 04/12/2014 BOS @ CLE W 23 7 2 7 28.6 0 4 0.0 3 4 75.0 1 3 4 2 1 0 0 1 -13
+p24
+aVChris Babb BOS 04/12/2014 BOS @ CLE W 18 3 1 3 33.3 1 3 33.3 0 0 - 1 1 2 1 1 0 0 2 -10
+p25
+aVJoel Anthony BOS 04/12/2014 BOS @ CLE W 22 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 0 2 0 3 5
+p26
+aVAvery Bradley BOS 04/11/2014 BOS vs. CHA W 38 22 8 16 50.0 4 6 66.7 2 2 100.0 0 2 2 1 2 0 3 2 4
+p27
+aVKelly Olynyk BOS 04/11/2014 BOS vs. CHA W 22 12 4 6 66.7 2 3 66.7 2 2 100.0 0 2 2 0 0 0 2 2 -4
+p28
+aVKris Humphries BOS 04/11/2014 BOS vs. CHA W 11 4 2 5 40.0 0 0 - 0 0 - 2 5 7 0 0 0 0 1 0
+p29
+aVJared Sullinger BOS 04/11/2014 BOS vs. CHA W 28 20 8 13 61.5 2 4 50.0 2 2 100.0 1 6 7 0 1 1 3 2 1
+p30
+aVChris Johnson BOS 04/11/2014 BOS vs. CHA W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -6
+p31
+aVJerryd Bayless BOS 04/11/2014 BOS vs. CHA W 19 2 0 4 0.0 0 2 0.0 2 2 100.0 1 0 1 2 0 0 1 2 4
+p32
+aVJeff Green BOS 04/11/2014 BOS vs. CHA W 34 18 8 11 72.7 1 1 100.0 1 1 100.0 0 3 3 3 1 0 6 4 9
+p33
+aVBrandon Bass BOS 04/11/2014 BOS vs. CHA W 34 18 7 12 58.3 0 0 - 4 4 100.0 3 6 9 3 0 2 0 0 9
+p34
+aVPhil Pressey BOS 04/11/2014 BOS vs. CHA W 39 10 4 11 36.4 2 6 33.3 0 0 - 0 5 5 13 3 0 4 1 -2
+p35
+aVJerryd Bayless BOS 04/09/2014 BOS @ ATL L 21 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 -7
+p36
+aVJared Sullinger BOS 04/09/2014 BOS @ ATL L 37 15 6 15 40.0 1 4 25.0 2 2 100.0 4 7 11 2 1 1 2 5 -8
+p37
+aVKelly Olynyk BOS 04/09/2014 BOS @ ATL L 15 5 2 5 40.0 1 1 100.0 0 0 - 3 6 9 1 0 0 1 3 1
+p38
+aVJoel Anthony BOS 04/09/2014 BOS @ ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p39
+aVAvery Bradley BOS 04/09/2014 BOS @ ATL L 35 24 8 16 50.0 4 4 100.0 4 4 100.0 1 3 4 2 3 0 1 4 -5
+p40
+aVJeff Green BOS 04/09/2014 BOS @ ATL L 36 13 5 15 33.3 2 9 22.2 1 2 50.0 0 6 6 3 0 2 3 2 -6
+p41
+aVPhil Pressey BOS 04/09/2014 BOS @ ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -3
+p42
+aVRajon Rondo BOS 04/09/2014 BOS @ ATL L 41 19 8 15 53.3 2 4 50.0 1 3 33.3 1 3 4 12 3 0 5 4 -9
+p43
+aVBrandon Bass BOS 04/09/2014 BOS @ ATL L 33 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -8
+p44
+aVChris Johnson BOS 04/09/2014 BOS @ ATL L 14 10 3 6 50.0 1 3 33.3 3 3 100.0 1 0 1 1 0 0 1 1 8
+p45
+aVChris Johnson BOS 04/05/2014 BOS @ DET L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -16
+p46
+aVJared Sullinger BOS 04/05/2014 BOS @ DET L 36 22 9 20 45.0 4 6 66.7 0 0 - 6 4 10 5 0 1 2 4 6
+p47
+aVJeff Green BOS 04/05/2014 BOS @ DET L 41 23 8 21 38.1 3 10 30.0 4 4 100.0 0 4 4 3 0 0 3 3 -5
+p48
+aVJoel Anthony BOS 04/05/2014 BOS @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p49
+aVKelly Olynyk BOS 04/05/2014 BOS @ DET L 24 11 4 6 66.7 0 1 0.0 3 4 75.0 2 7 9 2 0 2 0 3 -4
+p50
+aVChris Babb BOS 04/05/2014 BOS @ DET L 14 0 0 4 0.0 0 3 0.0 0 0 - 1 1 2 0 5 0 0 2 0
+p51
+aVPhil Pressey BOS 04/05/2014 BOS @ DET L 36 12 5 8 62.5 2 4 50.0 0 0 - 1 1 2 11 2 0 1 5 9
+p52
+aVBrandon Bass BOS 04/05/2014 BOS @ DET L 34 18 6 8 75.0 0 0 - 6 8 75.0 4 2 6 1 1 0 2 3 -8
+p53
+aVJerryd Bayless BOS 04/05/2014 BOS @ DET L 41 25 10 19 52.6 5 6 83.3 0 0 - 1 3 4 3 0 0 2 3 0
+p54
+aVBrandon Bass BOS 04/04/2014 BOS vs. PHI L 30 12 5 10 50.0 0 0 - 2 2 100.0 6 5 11 0 1 1 0 0 -9
+p55
+aVChris Johnson BOS 04/04/2014 BOS vs. PHI L 19 9 2 11 18.2 1 7 14.3 4 4 100.0 3 1 4 0 0 0 0 3 -3
+p56
+aVJeff Green BOS 04/04/2014 BOS vs. PHI L 33 15 4 8 50.0 1 5 20.0 6 8 75.0 1 3 4 1 0 1 2 3 -9
+p57
+aVPhil Pressey BOS 04/04/2014 BOS vs. PHI L 15 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 0 2 0 3 3 4
+p58
+aVRajon Rondo BOS 04/04/2014 BOS vs. PHI L 38 11 4 7 57.1 0 0 - 3 5 60.0 2 9 11 16 0 0 7 3 -11
+p59
+aVJerryd Bayless BOS 04/04/2014 BOS vs. PHI L 39 23 8 20 40.0 5 12 41.7 2 2 100.0 0 2 2 2 1 0 6 5 -8
+p60
+aVKelly Olynyk BOS 04/04/2014 BOS vs. PHI L 20 14 6 10 60.0 2 3 66.7 0 0 - 2 4 6 3 0 1 1 2 3
+p61
+aVJared Sullinger BOS 04/04/2014 BOS vs. PHI L 30 10 5 11 45.5 0 4 0.0 0 0 - 2 4 6 0 0 1 3 6 -2
+p62
+aVKris Humphries BOS 04/04/2014 BOS vs. PHI L 15 4 2 5 40.0 0 0 - 0 0 - 3 0 3 1 0 1 0 2 -10
+p63
+aVJerryd Bayless BOS 04/02/2014 BOS @ WAS L 21 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 3 0 0 3 -22
+p64
+aVRajon Rondo BOS 04/02/2014 BOS @ WAS L 32 13 6 13 46.2 0 3 0.0 1 1 100.0 1 6 7 6 1 1 7 2 -26
+p65
+aVChris Babb BOS 04/02/2014 BOS @ WAS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 1
+p66
+aVJared Sullinger BOS 04/02/2014 BOS @ WAS L 36 25 8 15 53.3 1 2 50.0 8 10 80.0 1 3 4 1 1 0 1 5 -9
+p67
+aVPhil Pressey BOS 04/02/2014 BOS @ WAS L 19 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 6 2 0 0 1 -3
+p68
+aVKris Humphries BOS 04/02/2014 BOS @ WAS L 11 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -10
+p69
+aVJoel Anthony BOS 04/02/2014 BOS @ WAS L 13 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 1 0 1 1 -18
+p70
+aVKelly Olynyk BOS 04/02/2014 BOS @ WAS L 21 14 5 10 50.0 0 3 0.0 4 6 66.7 3 1 4 1 1 0 2 5 8
+p71
+aVJeff Green BOS 04/02/2014 BOS @ WAS L 32 13 3 13 23.1 0 6 0.0 7 7 100.0 0 1 1 3 0 1 1 2 -22
+p72
+aVChris Johnson BOS 04/02/2014 BOS @ WAS L 33 8 3 10 30.0 2 6 33.3 0 0 - 3 5 8 1 1 0 1 1 -6
+p73
+aVBrandon Bass BOS 04/02/2014 BOS @ WAS L 15 8 2 2 100.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 1 -23
+p74
+aVChris Babb BOS 03/31/2014 BOS @ CHI L 5 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -2
+p75
+aVBrandon Bass BOS 03/31/2014 BOS @ CHI L 31 18 7 10 70.0 0 0 - 4 4 100.0 3 6 9 3 0 4 2 1 -6
+p76
+aVJeff Green BOS 03/31/2014 BOS @ CHI L 40 9 4 13 30.8 1 3 33.3 0 0 - 0 2 2 1 2 0 4 4 -12
+p77
+aVKelly Olynyk BOS 03/31/2014 BOS @ CHI L 18 7 3 6 50.0 1 2 50.0 0 0 - 4 3 7 0 0 0 4 2 10
+p78
+aVJared Sullinger BOS 03/31/2014 BOS @ CHI L 20 2 1 6 16.7 0 3 0.0 0 0 - 1 5 6 1 0 0 1 2 -3
+p79
+aVPhil Pressey BOS 03/31/2014 BOS @ CHI L 19 9 4 8 50.0 1 3 33.3 0 2 0.0 1 1 2 3 4 0 2 2 -2
+p80
+aVChris Johnson BOS 03/31/2014 BOS @ CHI L 35 5 1 7 14.3 0 3 0.0 3 4 75.0 1 1 2 0 2 0 0 1 0
+p81
+aVJerryd Bayless BOS 03/31/2014 BOS @ CHI L 33 18 6 14 42.9 4 9 44.4 2 2 100.0 0 2 2 5 1 0 1 1 -20
+p82
+aVAvery Bradley BOS 03/31/2014 BOS @ CHI L 14 1 0 5 0.0 0 1 0.0 1 1 100.0 0 2 2 3 0 0 0 0 -6
+p83
+aVKris Humphries BOS 03/31/2014 BOS @ CHI L 25 11 5 7 71.4 0 0 - 1 2 50.0 1 2 3 1 1 0 2 2 -29
+p84
+aVJerryd Bayless BOS 03/30/2014 BOS vs. CHI L 28 12 5 9 55.6 1 3 33.3 1 1 100.0 1 1 2 1 3 0 1 2 -4
+p85
+aVJared Sullinger BOS 03/30/2014 BOS vs. CHI L 27 16 6 11 54.5 2 5 40.0 2 3 66.7 3 7 10 2 0 1 2 4 -8
+p86
+aVJeff Green BOS 03/30/2014 BOS vs. CHI L 30 16 6 17 35.3 4 8 50.0 0 0 - 2 3 5 3 2 0 1 3 0
+p87
+aVRajon Rondo BOS 03/30/2014 BOS vs. CHI L 38 17 7 13 53.8 2 6 33.3 1 2 50.0 0 4 4 11 2 0 6 3 -4
+p88
+aVChris Johnson BOS 03/30/2014 BOS vs. CHI L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 2 -4
+p89
+aVKris Humphries BOS 03/30/2014 BOS vs. CHI L 22 14 4 5 80.0 0 0 - 6 8 75.0 1 7 8 1 1 0 0 3 -4
+p90
+aVKelly Olynyk BOS 03/30/2014 BOS vs. CHI L 18 7 3 4 75.0 1 2 50.0 0 0 - 2 1 3 1 0 0 2 2 -1
+p91
+aVBrandon Bass BOS 03/30/2014 BOS vs. CHI L 29 12 6 12 50.0 0 1 0.0 0 0 - 2 1 3 1 0 0 2 2 3
+p92
+aVAvery Bradley BOS 03/30/2014 BOS vs. CHI L 33 8 3 12 25.0 0 2 0.0 2 2 100.0 1 2 3 2 1 0 1 2 -3
+p93
+aVAvery Bradley BOS 03/28/2014 BOS @ TOR L 23 11 3 7 42.9 1 2 50.0 4 4 100.0 0 2 2 0 1 0 3 2 -5
+p94
+aVJeff Green BOS 03/28/2014 BOS @ TOR L 30 16 7 14 50.0 2 4 50.0 0 0 - 0 4 4 2 1 1 3 1 -5
+p95
+aVChris Johnson BOS 03/28/2014 BOS @ TOR L 18 6 2 3 66.7 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 4 5
+p96
+aVBrandon Bass BOS 03/28/2014 BOS @ TOR L 23 8 3 5 60.0 0 1 0.0 2 2 100.0 2 2 4 0 0 0 2 1 -13
+p97
+aVJerryd Bayless BOS 03/28/2014 BOS @ TOR L 26 20 8 13 61.5 2 5 40.0 2 2 100.0 0 1 1 3 1 0 0 2 2
+p98
+aVKris Humphries BOS 03/28/2014 BOS @ TOR L 19 8 3 6 50.0 0 0 - 2 2 100.0 0 4 4 2 0 1 2 4 4
+p99
+aVKelly Olynyk BOS 03/28/2014 BOS @ TOR L 20 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 0 1 0 1 3 7
+p100
+aVPhil Pressey BOS 03/28/2014 BOS @ TOR L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 5 2 0 1 0 11
+p101
+aVRajon Rondo BOS 03/28/2014 BOS @ TOR L 33 11 5 8 62.5 0 0 - 1 2 50.0 1 4 5 8 0 0 3 1 -14
+p102
+aVJared Sullinger BOS 03/28/2014 BOS @ TOR L 34 11 4 12 33.3 1 4 25.0 2 4 50.0 5 4 9 2 1 0 0 3 -2
+p103
+aVJeff Green BOS 03/26/2014 BOS vs. TOR L 20 6 3 9 33.3 0 2 0.0 0 0 - 0 2 2 0 0 1 1 2 -14
+p104
+aVBrandon Bass BOS 03/26/2014 BOS vs. TOR L 26 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 0 -19
+p105
+aVJared Sullinger BOS 03/26/2014 BOS vs. TOR L 31 26 8 17 47.1 4 6 66.7 6 8 75.0 2 6 8 1 1 2 0 3 -2
+p106
+aVChris Babb BOS 03/26/2014 BOS vs. TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p107
+aVRajon Rondo BOS 03/26/2014 BOS vs. TOR L 32 9 3 9 33.3 0 2 0.0 3 4 75.0 1 3 4 15 2 0 1 3 -10
+p108
+aVKelly Olynyk BOS 03/26/2014 BOS vs. TOR L 22 7 3 7 42.9 1 1 100.0 0 0 - 2 3 5 1 3 0 2 1 10
+p109
+aVJerryd Bayless BOS 03/26/2014 BOS vs. TOR L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 1 0 0 2 1 6
+p110
+aVKris Humphries BOS 03/26/2014 BOS vs. TOR L 17 4 1 6 16.7 0 0 - 2 2 100.0 1 3 4 1 0 1 0 1 -7
+p111
+aVChris Johnson BOS 03/26/2014 BOS vs. TOR L 26 13 5 8 62.5 1 3 33.3 2 4 50.0 0 1 1 0 1 1 1 1 8
+p112
+aVPhil Pressey BOS 03/26/2014 BOS vs. TOR L 12 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 4 1 0 1 1 8
+p113
+aVAvery Bradley BOS 03/26/2014 BOS vs. TOR L 37 16 6 15 40.0 2 6 33.3 2 2 100.0 0 3 3 0 0 0 1 2 -22
+p114
+aVJoel Anthony BOS 03/21/2014 BOS @ BKN L 8 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 1 0 0 6
+p115
+aVRajon Rondo BOS 03/21/2014 BOS @ BKN L 36 12 3 10 30.0 1 3 33.3 5 6 83.3 1 3 4 12 0 0 0 1 -18
+p116
+aVJerryd Bayless BOS 03/21/2014 BOS @ BKN L 23 6 2 4 50.0 2 4 50.0 0 0 - 1 0 1 2 1 0 2 2 -3
+p117
+aVKris Humphries BOS 03/21/2014 BOS @ BKN L 24 12 4 11 36.4 0 0 - 4 4 100.0 5 3 8 0 1 1 2 1 -16
+p118
+aVJeff Green BOS 03/21/2014 BOS @ BKN L 32 16 6 15 40.0 1 4 25.0 3 3 100.0 0 2 2 2 2 0 0 1 -22
+p119
+aVChris Babb BOS 03/21/2014 BOS @ BKN L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p120
+aVKelly Olynyk BOS 03/21/2014 BOS @ BKN L 16 4 1 5 20.0 0 1 0.0 2 2 100.0 1 3 4 0 0 0 1 6 -6
+p121
+aVBrandon Bass BOS 03/21/2014 BOS @ BKN L 25 9 4 8 50.0 0 0 - 1 2 50.0 4 0 4 0 0 0 3 0 -16
+p122
+aVJared Sullinger BOS 03/21/2014 BOS @ BKN L 23 8 2 6 33.3 0 3 0.0 4 6 66.7 0 4 4 2 1 0 2 3 0
+p123
+aVChris Johnson BOS 03/21/2014 BOS @ BKN L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 1
+p124
+aVPhil Pressey BOS 03/21/2014 BOS @ BKN L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p125
+aVAvery Bradley BOS 03/21/2014 BOS @ BKN L 35 28 12 19 63.2 4 9 44.4 0 0 - 0 4 4 1 1 1 1 4 -6
+p126
+aVBrandon Bass BOS 03/19/2014 BOS vs. MIA W 30 18 8 12 66.7 0 0 - 2 2 100.0 3 1 4 0 1 0 0 0 0
+p127
+aVJoel Anthony BOS 03/19/2014 BOS vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p128
+aVJerryd Bayless BOS 03/19/2014 BOS vs. MIA W 26 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 5 0 1 2 3 -2
+p129
+aVRajon Rondo BOS 03/19/2014 BOS vs. MIA W 39 9 4 8 50.0 0 2 0.0 1 2 50.0 0 10 10 15 0 0 4 5 -2
+p130
+aVJeff Green BOS 03/19/2014 BOS vs. MIA W 31 13 5 13 38.5 3 7 42.9 0 0 - 1 3 4 3 0 0 2 1 6
+p131
+aVAvery Bradley BOS 03/19/2014 BOS vs. MIA W 41 23 8 13 61.5 6 9 66.7 1 1 100.0 1 3 4 1 0 0 3 1 12
+p132
+aVJared Sullinger BOS 03/19/2014 BOS vs. MIA W 31 14 5 14 35.7 2 5 40.0 2 2 100.0 3 1 4 3 0 1 0 3 11
+p133
+aVKris Humphries BOS 03/19/2014 BOS vs. MIA W 15 7 2 4 50.0 0 0 - 3 4 75.0 1 1 2 1 0 0 0 2 0
+p134
+aVChris Johnson BOS 03/19/2014 BOS vs. MIA W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 1
+p135
+aVKelly Olynyk BOS 03/19/2014 BOS vs. MIA W 20 10 4 6 66.7 1 1 100.0 1 1 100.0 0 5 5 1 0 0 1 2 0
+p136
+aVJeff Green BOS 03/17/2014 BOS @ DAL L 39 5 2 12 16.7 1 2 50.0 0 0 - 2 7 9 4 1 0 6 3 -4
+p137
+aVJared Sullinger BOS 03/17/2014 BOS @ DAL L 28 13 6 16 37.5 0 2 0.0 1 1 100.0 5 4 9 0 1 0 1 3 1
+p138
+aVPhil Pressey BOS 03/17/2014 BOS @ DAL L 14 6 2 6 33.3 2 3 66.7 0 0 - 2 1 3 4 0 0 2 2 -5
+p139
+aVChris Johnson BOS 03/17/2014 BOS @ DAL L 20 9 3 5 60.0 1 3 33.3 2 2 100.0 1 4 5 1 0 0 1 1 -1
+p140
+aVKelly Olynyk BOS 03/17/2014 BOS @ DAL L 27 16 6 11 54.5 1 4 25.0 3 3 100.0 3 6 9 1 1 0 1 2 15
+p141
+aVJerryd Bayless BOS 03/17/2014 BOS @ DAL L 35 19 6 16 37.5 3 5 60.0 4 4 100.0 1 2 3 6 1 0 3 4 -1
+p142
+aVBrandon Bass BOS 03/17/2014 BOS @ DAL L 17 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 1 0 0 2 0 -14
+p143
+aVAvery Bradley BOS 03/17/2014 BOS @ DAL L 36 11 5 14 35.7 1 3 33.3 0 0 - 0 3 3 2 3 0 0 1 -4
+p144
+aVKris Humphries BOS 03/17/2014 BOS @ DAL L 24 5 2 8 25.0 0 0 - 1 2 50.0 7 7 14 1 1 1 0 3 -12
+p145
+aVBrandon Bass BOS 03/16/2014 BOS @ NOP L 23 7 3 11 27.3 0 0 - 1 1 100.0 4 1 5 1 0 1 3 3 -10
+p146
+aVJared Sullinger BOS 03/16/2014 BOS @ NOP L 30 14 6 13 46.2 2 6 33.3 0 0 - 3 6 9 4 1 2 4 5 14
+p147
+aVKelly Olynyk BOS 03/16/2014 BOS @ NOP L 16 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 2 1 2 3 -1
+p148
+aVChris Johnson BOS 03/16/2014 BOS @ NOP L 13 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 0 0 0 0 0 5
+p149
+aVJeff Green BOS 03/16/2014 BOS @ NOP L 39 39 12 23 52.2 4 7 57.1 11 12 91.7 0 6 6 1 0 1 1 5 5
+p150
+aVJerryd Bayless BOS 03/16/2014 BOS @ NOP L 26 6 2 4 50.0 2 3 66.7 0 0 - 0 4 4 3 1 0 2 2 -17
+p151
+aVAvery Bradley BOS 03/16/2014 BOS @ NOP L 28 12 5 9 55.6 0 1 0.0 2 2 100.0 1 1 2 2 1 0 2 0 7
+p152
+aVKris Humphries BOS 03/16/2014 BOS @ NOP L 36 16 6 13 46.2 0 0 - 4 6 66.7 5 7 12 3 1 3 0 3 -7
+p153
+aVPhil Pressey BOS 03/16/2014 BOS @ NOP L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 4 0 0 0 2 4
+p154
+aVRajon Rondo BOS 03/16/2014 BOS @ NOP L 45 6 3 14 21.4 0 4 0.0 0 2 0.0 0 8 8 14 1 0 2 3 -5
+p155
+aVBrandon Bass BOS 03/14/2014 BOS vs. PHX L 22 8 4 12 33.3 0 0 - 0 0 - 2 3 5 0 0 1 1 2 -16
+p156
+aVJoel Anthony BOS 03/14/2014 BOS vs. PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p157
+aVChris Johnson BOS 03/14/2014 BOS vs. PHX L 27 11 3 7 42.9 1 4 25.0 4 4 100.0 0 3 3 1 0 1 3 2 6
+p158
+aVJared Sullinger BOS 03/14/2014 BOS vs. PHX L 21 9 2 12 16.7 0 1 0.0 5 6 83.3 3 6 9 1 0 0 1 3 -9
+p159
+aVJeff Green BOS 03/14/2014 BOS vs. PHX L 36 9 2 14 14.3 1 7 14.3 4 4 100.0 1 5 6 2 2 1 2 1 -9
+p160
+aVJerryd Bayless BOS 03/14/2014 BOS vs. PHX L 16 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 2 1 0 1 1 -14
+p161
+aVAvery Bradley BOS 03/14/2014 BOS vs. PHX L 17 9 4 12 33.3 0 1 0.0 1 1 100.0 1 0 1 0 1 0 0 0 3
+p162
+aVRajon Rondo BOS 03/14/2014 BOS vs. PHX L 34 8 4 15 26.7 0 3 0.0 0 0 - 4 4 8 5 1 0 2 4 -18
+p163
+aVKelly Olynyk BOS 03/14/2014 BOS vs. PHX L 29 8 4 8 50.0 0 2 0.0 0 0 - 5 5 10 0 2 1 2 4 8
+p164
+aVPhil Pressey BOS 03/14/2014 BOS vs. PHX L 14 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 5 0 0 1 2 11
+p165
+aVKris Humphries BOS 03/14/2014 BOS vs. PHX L 25 11 5 8 62.5 0 0 - 1 2 50.0 3 10 13 1 0 0 1 2 3
+p166
+aVKelly Olynyk BOS 03/12/2014 BOS vs. NYK L 18 4 2 5 40.0 0 1 0.0 0 0 - 4 2 6 1 0 0 1 2 -17
+p167
+aVPhil Pressey BOS 03/12/2014 BOS vs. NYK L 35 9 3 9 33.3 1 2 50.0 2 4 50.0 1 4 5 5 1 0 3 0 -11
+p168
+aVJeff Green BOS 03/12/2014 BOS vs. NYK L 41 27 10 21 47.6 2 5 40.0 5 7 71.4 0 2 2 0 0 0 1 4 -15
+p169
+aVChris Johnson BOS 03/12/2014 BOS vs. NYK L 29 5 2 5 40.0 1 3 33.3 0 0 - 1 3 4 2 0 0 0 3 -12
+p170
+aVKris Humphries BOS 03/12/2014 BOS vs. NYK L 21 15 6 9 66.7 0 0 - 3 5 60.0 5 0 5 2 0 1 0 1 -9
+p171
+aVBrandon Bass BOS 03/12/2014 BOS vs. NYK L 32 7 3 9 33.3 0 0 - 1 1 100.0 3 2 5 1 1 1 1 2 -6
+p172
+aVJerryd Bayless BOS 03/12/2014 BOS vs. NYK L 32 15 5 14 35.7 4 6 66.7 1 1 100.0 0 3 3 3 1 0 1 4 -25
+p173
+aVChris Babb BOS 03/12/2014 BOS vs. NYK L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p174
+aVJared Sullinger BOS 03/12/2014 BOS vs. NYK L 25 10 3 8 37.5 0 1 0.0 4 5 80.0 2 6 8 1 1 0 3 2 -16
+p175
+aVChris Johnson BOS 03/11/2014 BOS @ IND L 28 14 6 8 75.0 2 4 50.0 0 0 - 1 2 3 0 2 0 0 2 1
+p176
+aVJoel Anthony BOS 03/11/2014 BOS @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p177
+aVJeff Green BOS 03/11/2014 BOS @ IND L 37 12 3 16 18.8 0 4 0.0 6 6 100.0 1 3 4 2 0 0 0 3 -15
+p178
+aVJared Sullinger BOS 03/11/2014 BOS @ IND L 26 17 8 17 47.1 1 6 16.7 0 0 - 7 2 9 0 0 0 1 3 -9
+p179
+aVChris Babb BOS 03/11/2014 BOS @ IND L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -3
+p180
+aVJerryd Bayless BOS 03/11/2014 BOS @ IND L 21 3 1 6 16.7 0 1 0.0 1 1 100.0 0 2 2 3 0 0 2 0 -5
+p181
+aVKris Humphries BOS 03/11/2014 BOS @ IND L 26 15 6 10 60.0 0 0 - 3 4 75.0 4 5 9 0 1 0 1 2 -9
+p182
+aVBrandon Bass BOS 03/11/2014 BOS @ IND L 23 11 3 8 37.5 0 0 - 5 6 83.3 1 2 3 1 0 0 1 3 -7
+p183
+aVRajon Rondo BOS 03/11/2014 BOS @ IND L 41 8 4 15 26.7 0 2 0.0 0 0 - 1 2 3 8 2 0 2 4 -8
+p184
+aVPhil Pressey BOS 03/11/2014 BOS @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -3
+p185
+aVKelly Olynyk BOS 03/11/2014 BOS @ IND L 21 3 1 9 11.1 0 1 0.0 1 2 50.0 5 2 7 0 1 1 1 4 5
+p186
+aVBrandon Bass BOS 03/09/2014 BOS vs. DET W 24 5 2 8 25.0 0 0 - 1 2 50.0 1 2 3 1 0 1 0 1 2
+p187
+aVJeff Green BOS 03/09/2014 BOS vs. DET W 35 27 11 19 57.9 5 12 41.7 0 0 - 1 2 3 1 1 2 2 1 -4
+p188
+aVChris Johnson BOS 03/09/2014 BOS vs. DET W 11 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 2 0 0 1 2 3
+p189
+aVChris Babb BOS 03/09/2014 BOS vs. DET W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 0 2 11
+p190
+aVKelly Olynyk BOS 03/09/2014 BOS vs. DET W 18 18 7 10 70.0 1 1 100.0 3 6 50.0 3 3 6 2 0 0 1 5 2
+p191
+aVRajon Rondo BOS 03/09/2014 BOS vs. DET W 33 11 5 15 33.3 1 6 16.7 0 0 - 0 2 2 18 2 0 0 2 1
+p192
+aVPhil Pressey BOS 03/09/2014 BOS vs. DET W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 6 2 1 0 5 6
+p193
+aVKris Humphries BOS 03/09/2014 BOS vs. DET W 27 20 9 13 69.2 0 0 - 2 2 100.0 4 7 11 2 2 2 1 3 5
+p194
+aVJared Sullinger BOS 03/09/2014 BOS vs. DET W 27 14 5 10 50.0 0 1 0.0 4 5 80.0 3 5 8 1 0 0 0 3 5
+p195
+aVJerryd Bayless BOS 03/09/2014 BOS vs. DET W 37 15 5 12 41.7 1 4 25.0 4 6 66.7 0 4 4 4 1 0 0 3 4
+p196
+aVKris Humphries BOS 03/07/2014 BOS vs. BKN W 26 7 2 6 33.3 0 0 - 3 4 75.0 1 6 7 1 1 2 3 2 -1
+p197
+aVJeff Green BOS 03/07/2014 BOS vs. BKN W 35 15 6 11 54.5 0 4 0.0 3 4 75.0 0 3 3 1 1 0 2 2 -1
+p198
+aVPhil Pressey BOS 03/07/2014 BOS vs. BKN W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 2 0 1 1 15
+p199
+aVKelly Olynyk BOS 03/07/2014 BOS vs. BKN W 17 13 4 7 57.1 1 1 100.0 4 4 100.0 3 4 7 0 0 0 6 6 -2
+p200
+aVJerryd Bayless BOS 03/07/2014 BOS vs. BKN W 39 14 5 12 41.7 1 4 25.0 3 3 100.0 0 6 6 3 2 0 2 1 16
+p201
+aVChris Johnson BOS 03/07/2014 BOS vs. BKN W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -8
+p202
+aVJared Sullinger BOS 03/07/2014 BOS vs. BKN W 26 5 2 8 25.0 1 2 50.0 0 0 - 4 8 12 3 1 1 2 6 7
+p203
+aVBrandon Bass BOS 03/07/2014 BOS vs. BKN W 27 9 4 6 66.7 0 0 - 1 1 100.0 3 3 6 0 0 0 2 5 10
+p204
+aVChris Babb BOS 03/07/2014 BOS vs. BKN W 15 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 0 0 0 0 2 7
+p205
+aVRajon Rondo BOS 03/07/2014 BOS vs. BKN W 35 20 6 14 42.9 3 6 50.0 5 8 62.5 1 6 7 9 4 0 7 2 -8
+p206
+aVChris Babb BOS 03/05/2014 BOS vs. GSW L 24 5 2 5 40.0 1 4 25.0 0 0 - 1 4 5 0 0 0 0 0 4
+p207
+aVPhil Pressey BOS 03/05/2014 BOS vs. GSW L 11 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 5 1 0 2 0 2
+p208
+aVJared Sullinger BOS 03/05/2014 BOS vs. GSW L 26 11 1 7 14.3 0 3 0.0 9 10 90.0 1 3 4 0 1 0 3 4 -13
+p209
+aVKris Humphries BOS 03/05/2014 BOS vs. GSW L 16 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 1 3 0 -12
+p210
+aVJerryd Bayless BOS 03/05/2014 BOS vs. GSW L 22 10 3 8 37.5 0 1 0.0 4 5 80.0 1 2 3 0 0 0 1 2 -26
+p211
+aVJeff Green BOS 03/05/2014 BOS vs. GSW L 24 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 2 0 2 2 1 -24
+p212
+aVJoel Anthony BOS 03/05/2014 BOS vs. GSW L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 6
+p213
+aVBrandon Bass BOS 03/05/2014 BOS vs. GSW L 24 11 4 5 80.0 0 0 - 3 3 100.0 3 5 8 1 0 0 1 0 -23
+p214
+aVRajon Rondo BOS 03/05/2014 BOS vs. GSW L 37 14 6 14 42.9 1 5 20.0 1 4 25.0 0 5 5 7 1 1 7 3 -22
+p215
+aVKelly Olynyk BOS 03/05/2014 BOS vs. GSW L 27 19 6 12 50.0 3 6 50.0 4 4 100.0 2 3 5 3 0 1 2 4 2
+p216
+aVChris Johnson BOS 03/05/2014 BOS vs. GSW L 26 5 2 8 25.0 1 4 25.0 0 0 - 1 1 2 1 1 0 1 0 6
+p217
+aVJared Sullinger BOS 03/01/2014 BOS vs. IND L 25 10 4 12 33.3 0 2 0.0 2 2 100.0 3 3 6 3 0 1 1 3 1
+p218
+aVBrandon Bass BOS 03/01/2014 BOS vs. IND L 32 16 7 13 53.8 0 0 - 2 2 100.0 2 3 5 2 1 0 1 2 0
+p219
+aVJoel Anthony BOS 03/01/2014 BOS vs. IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p220
+aVChris Johnson BOS 03/01/2014 BOS vs. IND L 19 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 1 0 3 -4
+p221
+aVJerryd Bayless BOS 03/01/2014 BOS vs. IND L 32 11 5 11 45.5 1 5 20.0 0 0 - 1 4 5 3 1 0 1 4 -5
+p222
+aVKris Humphries BOS 03/01/2014 BOS vs. IND L 37 18 7 15 46.7 0 0 - 4 5 80.0 4 6 10 2 0 2 1 2 -7
+p223
+aVJeff Green BOS 03/01/2014 BOS vs. IND L 43 27 10 22 45.5 2 5 40.0 5 6 83.3 2 3 5 1 0 1 1 3 -3
+p224
+aVPhil Pressey BOS 03/01/2014 BOS vs. IND L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 1 0 0
+p225
+aVRajon Rondo BOS 03/01/2014 BOS vs. IND L 38 12 4 12 33.3 3 6 50.0 1 2 50.0 0 7 7 11 0 0 2 4 -5
+p226
+aVChris Babb BOS 03/01/2014 BOS vs. IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p227
+aVJoel Anthony BOS 02/26/2014 BOS vs. ATL W 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 1 9
+p228
+aVPhil Pressey BOS 02/26/2014 BOS vs. ATL W 18 2 0 3 0.0 0 1 0.0 2 2 100.0 1 3 4 4 1 0 0 1 -1
+p229
+aVChris Johnson BOS 02/26/2014 BOS vs. ATL W 25 5 1 7 14.3 1 5 20.0 2 2 100.0 3 4 7 2 1 0 1 3 10
+p230
+aVKris Humphries BOS 02/26/2014 BOS vs. ATL W 17 10 4 8 50.0 0 0 - 2 2 100.0 2 3 5 0 1 0 0 2 -5
+p231
+aVBrandon Bass BOS 02/26/2014 BOS vs. ATL W 27 14 5 11 45.5 0 0 - 4 4 100.0 2 6 8 1 1 1 3 2 -4
+p232
+aVRajon Rondo BOS 02/26/2014 BOS vs. ATL W 36 22 8 14 57.1 1 4 25.0 5 6 83.3 0 0 0 11 3 0 3 4 9
+p233
+aVGerald Wallace BOS 02/26/2014 BOS vs. ATL W 33 12 4 8 50.0 0 0 - 4 5 80.0 3 7 10 4 0 0 2 3 25
+p234
+aVJeff Green BOS 02/26/2014 BOS vs. ATL W 40 17 7 15 46.7 1 4 25.0 2 2 100.0 1 7 8 0 1 0 3 3 5
+p235
+aVJerryd Bayless BOS 02/26/2014 BOS vs. ATL W 36 29 12 21 57.1 5 8 62.5 0 0 - 1 1 2 2 1 0 2 5 7
+p236
+aVJoel Anthony BOS 02/24/2014 BOS @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p237
+aVPhil Pressey BOS 02/24/2014 BOS @ UTA L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 6
+p238
+aVKris Humphries BOS 02/24/2014 BOS @ UTA L 20 9 4 10 40.0 0 0 - 1 1 100.0 1 2 3 0 0 0 2 1 -9
+p239
+aVBrandon Bass BOS 02/24/2014 BOS @ UTA L 39 8 2 11 18.2 0 0 - 4 4 100.0 5 3 8 1 1 2 2 3 -10
+p240
+aVJerryd Bayless BOS 02/24/2014 BOS @ UTA L 30 13 6 11 54.5 1 2 50.0 0 0 - 1 0 1 1 1 0 3 3 -4
+p241
+aVKelly Olynyk BOS 02/24/2014 BOS @ UTA L 28 21 8 13 61.5 1 2 50.0 4 4 100.0 4 4 8 4 1 0 0 3 5
+p242
+aVRajon Rondo BOS 02/24/2014 BOS @ UTA L 33 18 6 13 46.2 0 0 - 6 6 100.0 2 1 3 10 1 0 5 3 -11
+p243
+aVJeff Green BOS 02/24/2014 BOS @ UTA L 40 21 7 16 43.8 2 6 33.3 5 6 83.3 0 4 4 0 0 0 1 4 -13
+p244
+aVChris Johnson BOS 02/24/2014 BOS @ UTA L 8 4 2 7 28.6 0 4 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p245
+aVGerald Wallace BOS 02/24/2014 BOS @ UTA L 30 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 2 0 1 1 -13
+p246
+aVPhil Pressey BOS 02/22/2014 BOS @ SAC L 18 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 2 1 0 1 2 -13
+p247
+aVJeff Green BOS 02/22/2014 BOS @ SAC L 43 29 7 25 28.0 2 9 22.2 13 18 72.2 0 6 6 2 0 0 2 3 -12
+p248
+aVJerryd Bayless BOS 02/22/2014 BOS @ SAC L 30 16 6 14 42.9 0 3 0.0 4 7 57.1 1 1 2 4 2 0 4 1 6
+p249
+aVGerald Wallace BOS 02/22/2014 BOS @ SAC L 27 8 3 7 42.9 1 1 100.0 1 2 50.0 1 2 3 2 1 0 1 2 -8
+p250
+aVBrandon Bass BOS 02/22/2014 BOS @ SAC L 30 12 4 10 40.0 0 0 - 4 6 66.7 1 2 3 1 1 0 2 2 1
+p251
+aVKelly Olynyk BOS 02/22/2014 BOS @ SAC L 19 4 1 4 25.0 1 2 50.0 1 2 50.0 2 4 6 2 0 0 1 3 0
+p252
+aVKris Humphries BOS 02/22/2014 BOS @ SAC L 36 19 9 15 60.0 0 0 - 1 1 100.0 4 4 8 4 2 2 3 3 -6
+p253
+aVChris Johnson BOS 02/22/2014 BOS @ SAC L 26 6 2 5 40.0 2 5 40.0 0 0 - 1 3 4 0 1 0 0 3 6
+p254
+aVJoel Anthony BOS 02/22/2014 BOS @ SAC L 10 2 1 3 33.3 0 0 - 0 0 - 4 2 6 0 0 1 0 0 -9
+p255
+aVJerryd Bayless BOS 02/21/2014 BOS @ LAL L 17 5 2 6 33.3 0 2 0.0 1 2 50.0 1 0 1 1 0 0 1 1 -7
+p256
+aVKelly Olynyk BOS 02/21/2014 BOS @ LAL L 18 4 2 8 25.0 0 2 0.0 0 0 - 3 2 5 2 2 0 0 3 -8
+p257
+aVChris Johnson BOS 02/21/2014 BOS @ LAL L 14 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 0 -4
+p258
+aVJeff Green BOS 02/21/2014 BOS @ LAL L 32 21 8 17 47.1 3 6 50.0 2 2 100.0 0 3 3 2 1 0 3 5 -17
+p259
+aVKris Humphries BOS 02/21/2014 BOS @ LAL L 16 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 1 0 1 1 -21
+p260
+aVRajon Rondo BOS 02/21/2014 BOS @ LAL L 34 6 2 12 16.7 1 3 33.3 1 2 50.0 0 6 6 11 1 0 2 3 4
+p261
+aVPhil Pressey BOS 02/21/2014 BOS @ LAL L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 1 2 1 -11
+p262
+aVBrandon Bass BOS 02/21/2014 BOS @ LAL L 32 20 8 15 53.3 0 0 - 4 5 80.0 3 5 8 1 1 0 2 1 12
+p263
+aVGerald Wallace BOS 02/21/2014 BOS @ LAL L 37 12 5 12 41.7 0 3 0.0 2 4 50.0 0 7 7 3 3 0 3 0 8
+p264
+aVJared Sullinger BOS 02/21/2014 BOS @ LAL L 30 12 6 16 37.5 0 3 0.0 0 0 - 9 3 12 1 0 0 0 4 -1
+p265
+aVChris Johnson BOS 02/19/2014 BOS @ PHX L 17 7 2 3 66.7 2 2 100.0 1 2 50.0 0 1 1 0 0 0 0 1 -10
+p266
+aVJerryd Bayless BOS 02/19/2014 BOS @ PHX L 16 2 0 2 0.0 0 0 - 2 2 100.0 0 4 4 2 0 0 1 3 -15
+p267
+aVRajon Rondo BOS 02/19/2014 BOS @ PHX L 36 18 7 22 31.8 0 2 0.0 4 5 80.0 2 5 7 10 0 0 3 2 16
+p268
+aVKris Humphries BOS 02/19/2014 BOS @ PHX L 12 5 2 6 33.3 0 0 - 1 4 25.0 2 1 3 0 0 0 2 3 -20
+p269
+aVKelly Olynyk BOS 02/19/2014 BOS @ PHX L 24 7 3 10 30.0 1 3 33.3 0 0 - 3 3 6 3 1 1 1 5 0
+p270
+aVBrandon Bass BOS 02/19/2014 BOS @ PHX L 33 18 7 12 58.3 0 0 - 4 4 100.0 1 7 8 0 1 2 3 2 4
+p271
+aVJeff Green BOS 02/19/2014 BOS @ PHX L 35 17 5 12 41.7 1 6 16.7 6 6 100.0 0 5 5 0 1 0 0 0 -11
+p272
+aVPhil Pressey BOS 02/19/2014 BOS @ PHX L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -7
+p273
+aVGerald Wallace BOS 02/19/2014 BOS @ PHX L 34 9 3 5 60.0 0 1 0.0 3 4 75.0 1 2 3 2 4 1 2 4 8
+p274
+aVJared Sullinger BOS 02/19/2014 BOS @ PHX L 26 11 5 13 38.5 1 3 33.3 0 1 0.0 4 4 8 1 0 2 1 4 5
+p275
+aVJared Sullinger BOS 02/12/2014 BOS vs. SAS L 19 4 2 9 22.2 0 2 0.0 0 0 - 5 2 7 0 0 0 2 1 -21
+p276
+aVPhil Pressey BOS 02/12/2014 BOS vs. SAS L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 3 1 7
+p277
+aVJerryd Bayless BOS 02/12/2014 BOS vs. SAS L 25 11 5 7 71.4 0 0 - 1 2 50.0 0 5 5 9 1 0 1 2 3
+p278
+aVJoel Anthony BOS 02/12/2014 BOS vs. SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p279
+aVKelly Olynyk BOS 02/12/2014 BOS vs. SAS L 31 15 6 11 54.5 0 3 0.0 3 5 60.0 1 9 10 2 0 1 1 2 0
+p280
+aVRajon Rondo BOS 02/12/2014 BOS vs. SAS L 31 16 6 7 85.7 4 5 80.0 0 0 - 0 2 2 4 2 0 1 0 -20
+p281
+aVKris Humphries BOS 02/12/2014 BOS vs. SAS L 23 15 5 9 55.6 0 0 - 5 6 83.3 0 6 6 2 0 1 1 3 6
+p282
+aVGerald Wallace BOS 02/12/2014 BOS vs. SAS L 29 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 -18
+p283
+aVChris Johnson BOS 02/12/2014 BOS vs. SAS L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p284
+aVJeff Green BOS 02/12/2014 BOS vs. SAS L 35 10 4 17 23.5 1 4 25.0 1 2 50.0 1 1 2 3 1 0 4 1 -12
+p285
+aVBrandon Bass BOS 02/12/2014 BOS vs. SAS L 21 12 5 8 62.5 0 0 - 2 2 100.0 2 3 5 1 0 0 1 4 -8
+p286
+aVBrandon Bass BOS 02/10/2014 BOS @ MIL W 27 12 5 10 50.0 0 0 - 2 2 100.0 2 5 7 0 1 1 1 2 3
+p287
+aVJeff Green BOS 02/10/2014 BOS @ MIL W 44 29 11 22 50.0 1 6 16.7 6 7 85.7 0 1 1 3 2 1 3 1 10
+p288
+aVPhil Pressey BOS 02/10/2014 BOS @ MIL W 24 13 5 10 50.0 3 4 75.0 0 0 - 0 2 2 6 1 0 3 5 2
+p289
+aVJared Sullinger BOS 02/10/2014 BOS @ MIL W 33 13 6 13 46.2 0 2 0.0 1 2 50.0 3 7 10 2 1 4 2 3 5
+p290
+aVGerald Wallace BOS 02/10/2014 BOS @ MIL W 28 8 3 3 100.0 1 1 100.0 1 2 50.0 2 1 3 4 3 0 2 1 -3
+p291
+aVKris Humphries BOS 02/10/2014 BOS @ MIL W 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 11
+p292
+aVChris Johnson BOS 02/10/2014 BOS @ MIL W 24 5 2 5 40.0 1 2 50.0 0 0 - 1 3 4 1 0 0 0 3 25
+p293
+aVKelly Olynyk BOS 02/10/2014 BOS @ MIL W 21 14 6 11 54.5 1 2 50.0 1 1 100.0 4 7 11 3 0 0 3 2 13
+p294
+aVJerryd Bayless BOS 02/10/2014 BOS @ MIL W 24 4 2 10 20.0 0 3 0.0 0 0 - 1 1 2 6 0 0 0 2 14
+p295
+aVKelly Olynyk BOS 02/09/2014 BOS vs. DAL L 22 6 2 7 28.6 0 2 0.0 2 2 100.0 2 4 6 0 0 0 1 5 -7
+p296
+aVGerald Wallace BOS 02/09/2014 BOS vs. DAL L 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 3 0 -12
+p297
+aVJeff Green BOS 02/09/2014 BOS vs. DAL L 36 18 6 15 40.0 3 8 37.5 3 4 75.0 2 3 5 3 3 1 1 2 4
+p298
+aVChris Johnson BOS 02/09/2014 BOS vs. DAL L 15 14 4 7 57.1 4 4 100.0 2 2 100.0 3 0 3 1 1 1 0 2 7
+p299
+aVJared Sullinger BOS 02/09/2014 BOS vs. DAL L 36 11 4 13 30.8 0 4 0.0 3 3 100.0 3 9 12 2 0 0 2 2 1
+p300
+aVKris Humphries BOS 02/09/2014 BOS vs. DAL L 23 10 5 12 41.7 0 0 - 0 0 - 0 3 3 0 0 1 0 2 -7
+p301
+aVRajon Rondo BOS 02/09/2014 BOS vs. DAL L 37 15 6 12 50.0 3 6 50.0 0 0 - 0 8 8 12 1 0 0 0 -2
+p302
+aVJerryd Bayless BOS 02/09/2014 BOS vs. DAL L 17 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 8 0 0 2 0 -13
+p303
+aVPhil Pressey BOS 02/09/2014 BOS vs. DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p304
+aVAvery Bradley BOS 02/09/2014 BOS vs. DAL L 19 5 2 13 15.4 1 3 33.3 0 0 - 0 0 0 0 0 0 1 2 -11
+p305
+aVBrandon Bass BOS 02/09/2014 BOS vs. DAL L 15 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 -9
+p306
+aVJeff Green BOS 02/07/2014 BOS vs. SAC W 33 17 6 20 30.0 2 8 25.0 3 5 60.0 1 2 3 3 0 0 1 1 -11
+p307
+aVKelly Olynyk BOS 02/07/2014 BOS vs. SAC W 26 11 3 5 60.0 1 1 100.0 4 4 100.0 4 5 9 5 1 0 2 4 15
+p308
+aVChris Johnson BOS 02/07/2014 BOS vs. SAC W 21 5 2 6 33.3 1 3 33.3 0 0 - 1 0 1 0 1 0 0 2 15
+p309
+aVPhil Pressey BOS 02/07/2014 BOS vs. SAC W 22 4 2 6 33.3 0 2 0.0 0 0 - 0 4 4 3 1 0 1 3 -5
+p310
+aVGerald Wallace BOS 02/07/2014 BOS vs. SAC W 40 8 4 8 50.0 0 0 - 0 2 0.0 3 9 12 9 2 1 1 3 17
+p311
+aVJared Sullinger BOS 02/07/2014 BOS vs. SAC W 33 31 14 24 58.3 1 3 33.3 2 2 100.0 4 12 16 0 1 1 2 2 17
+p312
+aVKris Humphries BOS 02/07/2014 BOS vs. SAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 2 2 6
+p313
+aVJerryd Bayless BOS 02/07/2014 BOS vs. SAC W 28 19 7 9 77.8 4 5 80.0 1 2 50.0 0 0 0 4 1 1 2 1 14
+p314
+aVJoel Anthony BOS 02/07/2014 BOS vs. SAC W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 2 0 0 -5
+p315
+aVBrandon Bass BOS 02/07/2014 BOS vs. SAC W 21 2 1 8 12.5 0 0 - 0 0 - 1 4 5 0 0 1 2 3 -13
+p316
+aVBrandon Bass BOS 02/05/2014 BOS @ PHI W 36 18 7 10 70.0 0 0 - 4 4 100.0 3 3 6 1 0 1 1 3 10
+p317
+aVRajon Rondo BOS 02/05/2014 BOS @ PHI W 32 8 4 8 50.0 0 2 0.0 0 0 - 0 9 9 11 2 0 3 1 16
+p318
+aVChris Johnson BOS 02/05/2014 BOS @ PHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 0
+p319
+aVKelly Olynyk BOS 02/05/2014 BOS @ PHI W 12 1 0 2 0.0 0 1 0.0 1 2 50.0 1 1 2 1 0 0 2 3 -4
+p320
+aVJeff Green BOS 02/05/2014 BOS @ PHI W 35 36 11 18 61.1 5 7 71.4 9 12 75.0 2 6 8 2 0 2 3 1 10
+p321
+aVGerald Wallace BOS 02/05/2014 BOS @ PHI W 21 4 2 3 66.7 0 0 - 0 2 0.0 1 2 3 0 1 0 1 0 -9
+p322
+aVKris Humphries BOS 02/05/2014 BOS @ PHI W 13 3 1 4 25.0 0 0 - 1 2 50.0 2 5 7 1 1 1 1 1 -4
+p323
+aVJared Sullinger BOS 02/05/2014 BOS @ PHI W 35 19 6 11 54.5 2 3 66.7 5 7 71.4 3 7 10 5 1 4 2 3 10
+p324
+aVAvery Bradley BOS 02/05/2014 BOS @ PHI W 26 14 6 15 40.0 0 2 0.0 2 2 100.0 0 2 2 1 3 0 0 2 10
+p325
+aVJerryd Bayless BOS 02/05/2014 BOS @ PHI W 27 11 4 12 33.3 1 3 33.3 2 2 100.0 0 1 1 5 1 0 0 3 -9
+p326
+aVRajon Rondo BOS 02/02/2014 BOS vs. ORL W 27 19 9 11 81.8 1 3 33.3 0 0 - 0 6 6 10 3 0 4 4 3
+p327
+aVAvery Bradley BOS 02/02/2014 BOS vs. ORL W 33 17 6 12 50.0 0 0 - 5 6 83.3 0 2 2 2 1 0 1 2 6
+p328
+aVBrandon Bass BOS 02/02/2014 BOS vs. ORL W 36 19 9 15 60.0 0 0 - 1 1 100.0 3 6 9 1 0 1 0 3 6
+p329
+aVJeff Green BOS 02/02/2014 BOS vs. ORL W 36 8 2 13 15.4 1 5 20.0 3 3 100.0 0 2 2 5 2 1 4 2 1
+p330
+aVChris Johnson BOS 02/02/2014 BOS vs. ORL W 19 3 1 3 33.3 1 2 50.0 0 0 - 2 1 3 0 0 0 1 1 6
+p331
+aVKris Humphries BOS 02/02/2014 BOS vs. ORL W 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 7
+p332
+aVPhil Pressey BOS 02/02/2014 BOS vs. ORL W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 0 -2
+p333
+aVKelly Olynyk BOS 02/02/2014 BOS vs. ORL W 8 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 2 1
+p334
+aVJerryd Bayless BOS 02/02/2014 BOS vs. ORL W 21 6 3 7 42.9 0 0 - 0 0 - 1 2 3 3 1 0 1 0 7
+p335
+aVJared Sullinger BOS 02/02/2014 BOS vs. ORL W 39 21 10 15 66.7 1 3 33.3 0 0 - 3 9 12 1 0 1 2 3 0
+p336
+aVKris Humphries BOS 01/29/2014 BOS vs. PHI L 22 13 3 5 60.0 0 0 - 7 8 87.5 3 6 9 0 0 1 1 1 6
+p337
+aVKelly Olynyk BOS 01/29/2014 BOS vs. PHI L 19 9 4 8 50.0 1 3 33.3 0 0 - 1 3 4 3 0 2 1 2 8
+p338
+aVChris Johnson BOS 01/29/2014 BOS vs. PHI L 22 6 2 7 28.6 2 3 66.7 0 0 - 0 5 5 4 1 0 1 1 3
+p339
+aVBrandon Bass BOS 01/29/2014 BOS vs. PHI L 21 11 4 8 50.0 0 0 - 3 4 75.0 2 3 5 0 1 2 1 4 -16
+p340
+aVJared Sullinger BOS 01/29/2014 BOS vs. PHI L 35 24 9 25 36.0 0 2 0.0 6 6 100.0 8 9 17 2 1 0 3 5 0
+p341
+aVGerald Wallace BOS 01/29/2014 BOS vs. PHI L 34 1 0 1 0.0 0 0 - 1 2 50.0 2 6 8 3 0 2 0 1 -13
+p342
+aVJerryd Bayless BOS 01/29/2014 BOS vs. PHI L 30 10 4 13 30.8 2 6 33.3 0 2 0.0 0 4 4 1 3 0 2 4 -1
+p343
+aVPhil Pressey BOS 01/29/2014 BOS vs. PHI L 21 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 2 2 0 5 2 3
+p344
+aVJeff Green BOS 01/29/2014 BOS vs. PHI L 38 18 5 13 38.5 2 3 66.7 6 8 75.0 2 4 6 5 0 0 3 1 5
+p345
+aVPhil Pressey BOS 01/28/2014 BOS @ NYK L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 4
+p346
+aVJeff Green BOS 01/28/2014 BOS @ NYK L 27 14 4 13 30.8 2 5 40.0 4 4 100.0 3 4 7 1 3 0 3 1 -23
+p347
+aVKris Humphries BOS 01/28/2014 BOS @ NYK L 22 12 3 7 42.9 0 0 - 6 8 75.0 2 3 5 0 1 0 2 4 -8
+p348
+aVRajon Rondo BOS 01/28/2014 BOS @ NYK L 27 7 3 13 23.1 0 1 0.0 1 1 100.0 0 2 2 5 1 0 4 1 -24
+p349
+aVVitor Faverani BOS 01/28/2014 BOS @ NYK L 13 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 0 2 0 1 0 -3
+p350
+aVBrandon Bass BOS 01/28/2014 BOS @ NYK L 17 4 2 5 40.0 0 0 - 0 0 - 2 2 4 2 0 0 0 1 -21
+p351
+aVVander Blue BOS 01/28/2014 BOS @ NYK L 3 2 1 2 50.0 0 1 0.0 0 1 0.0 0 1 1 0 0 0 0 1 -2
+p352
+aVJared Sullinger BOS 01/28/2014 BOS @ NYK L 19 8 3 5 60.0 0 1 0.0 2 4 50.0 3 0 3 2 0 0 0 4 -20
+p353
+aVKelly Olynyk BOS 01/28/2014 BOS @ NYK L 19 8 3 6 50.0 0 1 0.0 2 2 100.0 2 5 7 1 0 1 1 4 4
+p354
+aVJoel Anthony BOS 01/28/2014 BOS @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p355
+aVChris Johnson BOS 01/28/2014 BOS @ NYK L 22 12 4 7 57.1 4 7 57.1 0 0 - 0 1 1 1 0 0 2 0 -6
+p356
+aVGerald Wallace BOS 01/28/2014 BOS @ NYK L 23 5 2 7 28.6 0 3 0.0 1 2 50.0 1 2 3 2 0 1 3 1 -27
+p357
+aVJerryd Bayless BOS 01/28/2014 BOS @ NYK L 27 10 4 9 44.4 0 1 0.0 2 2 100.0 0 2 2 4 1 0 1 4 -2
+p358
+aVVitor Faverani BOS 01/26/2014 BOS vs. BKN L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p359
+aVGerald Wallace BOS 01/26/2014 BOS vs. BKN L 41 12 4 8 50.0 2 4 50.0 2 2 100.0 0 5 5 2 1 0 1 2 -14
+p360
+aVKris Humphries BOS 01/26/2014 BOS vs. BKN L 18 6 2 5 40.0 0 0 - 2 2 100.0 0 5 5 1 0 0 0 3 2
+p361
+aVRajon Rondo BOS 01/26/2014 BOS vs. BKN L 30 13 5 14 35.7 2 6 33.3 1 1 100.0 0 8 8 8 1 0 5 1 1
+p362
+aVJeff Green BOS 01/26/2014 BOS vs. BKN L 28 8 2 13 15.4 1 7 14.3 3 4 75.0 0 2 2 1 1 0 1 4 -6
+p363
+aVBrandon Bass BOS 01/26/2014 BOS vs. BKN L 34 17 6 6 100.0 0 0 - 5 6 83.3 2 6 8 1 1 0 2 1 10
+p364
+aVKelly Olynyk BOS 01/26/2014 BOS vs. BKN L 14 3 1 6 16.7 0 1 0.0 1 2 50.0 3 2 5 0 1 2 1 2 -12
+p365
+aVChris Johnson BOS 01/26/2014 BOS vs. BKN L 28 12 4 6 66.7 2 3 66.7 2 2 100.0 2 2 4 1 1 0 0 5 3
+p366
+aVJared Sullinger BOS 01/26/2014 BOS vs. BKN L 23 2 1 7 14.3 0 0 - 0 0 - 4 1 5 0 0 3 1 3 -10
+p367
+aVPhil Pressey BOS 01/26/2014 BOS vs. BKN L 18 4 2 8 25.0 0 5 0.0 0 0 - 1 1 2 3 0 0 3 0 -7
+p368
+aVKris Humphries BOS 01/24/2014 BOS vs. OKC L 18 8 3 5 60.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 1 -14
+p369
+aVBrandon Bass BOS 01/24/2014 BOS vs. OKC L 23 11 5 7 71.4 0 0 - 1 1 100.0 2 2 4 0 1 0 1 3 -8
+p370
+aVChris Johnson BOS 01/24/2014 BOS vs. OKC L 24 8 3 7 42.9 0 3 0.0 2 2 100.0 1 3 4 1 0 0 0 4 -5
+p371
+aVJoel Anthony BOS 01/24/2014 BOS vs. OKC L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -8
+p372
+aVVitor Faverani BOS 01/24/2014 BOS vs. OKC L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 1 0 0 0 0 -3
+p373
+aVJared Sullinger BOS 01/24/2014 BOS vs. OKC L 24 6 3 10 30.0 0 4 0.0 0 0 - 2 2 4 3 0 0 1 1 -5
+p374
+aVRajon Rondo BOS 01/24/2014 BOS vs. OKC L 22 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 8 0 0 3 0 -9
+p375
+aVPhil Pressey BOS 01/24/2014 BOS vs. OKC L 30 9 2 6 33.3 2 5 40.0 3 4 75.0 1 1 2 6 2 0 2 0 -8
+p376
+aVVander Blue BOS 01/24/2014 BOS vs. OKC L 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p377
+aVJeff Green BOS 01/24/2014 BOS vs. OKC L 32 16 7 17 41.2 1 8 12.5 1 2 50.0 0 2 2 1 1 0 1 0 -20
+p378
+aVGerald Wallace BOS 01/24/2014 BOS vs. OKC L 29 13 4 6 66.7 1 3 33.3 4 6 66.7 0 2 2 3 3 0 5 1 -14
+p379
+aVKelly Olynyk BOS 01/24/2014 BOS vs. OKC L 17 4 2 5 40.0 0 1 0.0 0 0 - 2 1 3 1 0 0 2 2 2
+p380
+aVPhil Pressey BOS 01/22/2014 BOS @ WAS W 35 20 7 10 70.0 5 6 83.3 1 2 50.0 0 1 1 4 2 1 5 6 7
+p381
+aVJeff Green BOS 01/22/2014 BOS @ WAS W 46 39 14 26 53.8 8 16 50.0 3 5 60.0 0 9 9 1 3 1 1 2 10
+p382
+aVJoel Anthony BOS 01/22/2014 BOS @ WAS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p383
+aVChris Johnson BOS 01/22/2014 BOS @ WAS W 30 9 3 9 33.3 1 6 16.7 2 2 100.0 0 2 2 1 4 0 2 2 -5
+p384
+aVJared Sullinger BOS 01/22/2014 BOS @ WAS W 34 14 5 11 45.5 1 3 33.3 3 4 75.0 3 8 11 1 0 1 4 3 3
+p385
+aVGerald Wallace BOS 01/22/2014 BOS @ WAS W 40 9 2 4 50.0 0 1 0.0 5 6 83.3 1 5 6 9 4 1 2 2 -8
+p386
+aVKelly Olynyk BOS 01/22/2014 BOS @ WAS W 15 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 0 2 -3
+p387
+aVVander Blue BOS 01/22/2014 BOS @ WAS W 4 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 1 0 0 2 0 6
+p388
+aVBrandon Bass BOS 01/22/2014 BOS @ WAS W 22 8 4 10 40.0 0 0 - 0 0 - 0 2 2 0 0 1 2 3 -10
+p389
+aVKris Humphries BOS 01/22/2014 BOS @ WAS W 35 8 3 10 30.0 0 1 0.0 2 2 100.0 0 6 6 3 2 3 0 1 4
+p390
+aVPhil Pressey BOS 01/21/2014 BOS @ MIA L 22 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 3 1 0 1 1 0
+p391
+aVKelly Olynyk BOS 01/21/2014 BOS @ MIA L 13 6 3 7 42.9 0 0 - 0 0 - 1 0 1 0 1 0 0 3 -7
+p392
+aVRajon Rondo BOS 01/21/2014 BOS @ MIA L 26 1 0 8 0.0 0 3 0.0 1 4 25.0 0 3 3 5 1 0 3 1 -7
+p393
+aVJoel Anthony BOS 01/21/2014 BOS @ MIA L 7 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 0 -1
+p394
+aVJared Sullinger BOS 01/21/2014 BOS @ MIA L 29 12 4 14 28.6 0 5 0.0 4 4 100.0 8 3 11 1 2 0 2 3 5
+p395
+aVGerald Wallace BOS 01/21/2014 BOS @ MIA L 27 8 3 9 33.3 1 4 25.0 1 1 100.0 0 2 2 2 0 0 2 1 -3
+p396
+aVAvery Bradley BOS 01/21/2014 BOS @ MIA L 7 3 0 3 0.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 1 1 -7
+p397
+aVKris Humphries BOS 01/21/2014 BOS @ MIA L 29 14 7 10 70.0 0 0 - 0 0 - 4 9 13 2 1 0 2 4 -1
+p398
+aVBrandon Bass BOS 01/21/2014 BOS @ MIA L 18 15 5 7 71.4 0 0 - 5 5 100.0 2 1 3 2 1 1 2 1 -10
+p399
+aVChris Johnson BOS 01/21/2014 BOS @ MIA L 25 11 4 7 57.1 2 5 40.0 1 1 100.0 2 1 3 1 1 0 0 1 7
+p400
+aVJeff Green BOS 01/21/2014 BOS @ MIA L 37 12 5 15 33.3 2 7 28.6 0 0 - 0 6 6 1 0 1 3 3 -11
+p401
+aVKris Humphries BOS 01/19/2014 BOS @ ORL L 29 18 8 15 53.3 0 0 - 2 2 100.0 5 7 12 0 0 2 1 3 11
+p402
+aVJeff Green BOS 01/19/2014 BOS @ ORL L 35 22 4 11 36.4 1 2 50.0 13 15 86.7 0 2 2 3 0 1 0 4 3
+p403
+aVBrandon Bass BOS 01/19/2014 BOS @ ORL L 19 4 2 7 28.6 0 0 - 0 0 - 3 2 5 1 0 1 0 3 -15
+p404
+aVPhil Pressey BOS 01/19/2014 BOS @ ORL L 23 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 5 3 0 3 2 -6
+p405
+aVJared Sullinger BOS 01/19/2014 BOS @ ORL L 31 8 3 8 37.5 1 2 50.0 1 1 100.0 3 5 8 0 1 1 0 3 10
+p406
+aVRajon Rondo BOS 01/19/2014 BOS @ ORL L 21 6 3 10 30.0 0 0 - 0 0 - 1 5 6 4 1 0 3 0 3
+p407
+aVKelly Olynyk BOS 01/19/2014 BOS @ ORL L 17 9 3 6 50.0 1 1 100.0 2 2 100.0 2 3 5 2 1 0 1 5 -12
+p408
+aVJerryd Bayless BOS 01/19/2014 BOS @ ORL L 8 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p409
+aVGerald Wallace BOS 01/19/2014 BOS @ ORL L 19 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 0 -1
+p410
+aVAvery Bradley BOS 01/19/2014 BOS @ ORL L 38 18 7 21 33.3 0 5 0.0 4 4 100.0 1 1 2 0 1 0 1 4 -6
+p411
+aVJeff Green BOS 01/17/2014 BOS vs. LAL L 35 12 4 12 33.3 1 3 33.3 3 4 75.0 0 9 9 2 1 2 0 2 -5
+p412
+aVJerryd Bayless BOS 01/17/2014 BOS vs. LAL L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 6
+p413
+aVJared Sullinger BOS 01/17/2014 BOS vs. LAL L 29 11 5 9 55.6 1 2 50.0 0 0 - 2 5 7 2 1 0 2 2 -3
+p414
+aVPhil Pressey BOS 01/17/2014 BOS vs. LAL L 22 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 9 2 0 0 3 0
+p415
+aVRajon Rondo BOS 01/17/2014 BOS vs. LAL L 19 8 4 9 44.4 0 1 0.0 0 0 - 1 1 2 4 2 0 1 0 -8
+p416
+aVAvery Bradley BOS 01/17/2014 BOS vs. LAL L 29 12 5 20 25.0 2 6 33.3 0 0 - 2 2 4 3 0 0 1 1 -11
+p417
+aVKelly Olynyk BOS 01/17/2014 BOS vs. LAL L 33 25 11 17 64.7 1 4 25.0 2 2 100.0 2 3 5 7 2 1 1 5 5
+p418
+aVBrandon Bass BOS 01/17/2014 BOS vs. LAL L 19 10 4 10 40.0 0 0 - 2 2 100.0 3 2 5 1 1 1 0 1 10
+p419
+aVGerald Wallace BOS 01/17/2014 BOS vs. LAL L 25 14 6 8 75.0 0 1 0.0 2 3 66.7 0 4 4 5 3 2 1 2 3
+p420
+aVKris Humphries BOS 01/17/2014 BOS vs. LAL L 11 2 1 4 25.0 0 0 - 0 0 - 3 3 6 1 0 0 1 2 -12
+p421
+aVAvery Bradley BOS 01/15/2014 BOS vs. TOR W 36 20 8 21 38.1 0 2 0.0 4 6 66.7 0 5 5 1 2 0 2 3 10
+p422
+aVJared Sullinger BOS 01/15/2014 BOS vs. TOR W 39 25 7 14 50.0 1 2 50.0 10 14 71.4 8 12 20 4 2 0 0 5 7
+p423
+aVKris Humphries BOS 01/15/2014 BOS vs. TOR W 25 12 5 10 50.0 0 0 - 2 2 100.0 4 4 8 0 0 1 1 2 -6
+p424
+aVKelly Olynyk BOS 01/15/2014 BOS vs. TOR W 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -5
+p425
+aVVitor Faverani BOS 01/15/2014 BOS vs. TOR W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 -2
+p426
+aVBrandon Bass BOS 01/15/2014 BOS vs. TOR W 25 7 1 5 20.0 0 0 - 5 6 83.3 3 3 6 1 0 0 2 1 12
+p427
+aVGerald Wallace BOS 01/15/2014 BOS vs. TOR W 23 7 3 4 75.0 1 2 50.0 0 0 - 1 5 6 1 2 0 0 0 -6
+p428
+aVJeff Green BOS 01/15/2014 BOS vs. TOR W 38 13 4 16 25.0 1 5 20.0 4 6 66.7 1 4 5 1 0 0 2 2 8
+p429
+aVPhil Pressey BOS 01/15/2014 BOS vs. TOR W 26 0 0 5 0.0 0 1 0.0 0 0 - 1 2 3 10 1 1 0 3 5
+p430
+aVJerryd Bayless BOS 01/15/2014 BOS vs. TOR W 20 1 0 5 0.0 0 4 0.0 1 2 50.0 0 2 2 3 0 1 1 3 2
+p431
+aVGerald Wallace BOS 01/13/2014 BOS vs. HOU L 20 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 1 -2
+p432
+aVMarShon Brooks BOS 01/13/2014 BOS vs. HOU L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 5 5 1 0 0 0 2 7
+p433
+aVJared Sullinger BOS 01/13/2014 BOS vs. HOU L 23 8 3 11 27.3 0 3 0.0 2 2 100.0 6 4 10 1 0 1 1 5 -9
+p434
+aVJeff Green BOS 01/13/2014 BOS vs. HOU L 28 4 2 10 20.0 0 1 0.0 0 0 - 0 6 6 0 0 0 4 1 -12
+p435
+aVAvery Bradley BOS 01/13/2014 BOS vs. HOU L 34 24 11 21 52.4 2 7 28.6 0 0 - 0 5 5 3 3 1 1 2 -10
+p436
+aVJerryd Bayless BOS 01/13/2014 BOS vs. HOU L 24 17 7 13 53.8 1 1 100.0 2 2 100.0 0 1 1 4 2 1 2 0 1
+p437
+aVPhil Pressey BOS 01/13/2014 BOS vs. HOU L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p438
+aVKris Humphries BOS 01/13/2014 BOS vs. HOU L 21 4 2 7 28.6 0 0 - 0 0 - 2 6 8 2 0 3 1 1 -15
+p439
+aVKelly Olynyk BOS 01/13/2014 BOS vs. HOU L 22 4 2 5 40.0 0 0 - 0 0 - 4 3 7 0 2 0 0 4 -9
+p440
+aVJordan Crawford BOS 01/13/2014 BOS vs. HOU L 25 13 3 11 27.3 0 3 0.0 7 7 100.0 0 0 0 5 0 0 1 4 -11
+p441
+aVBrandon Bass BOS 01/13/2014 BOS vs. HOU L 25 14 6 15 40.0 0 0 - 2 3 66.7 3 4 7 0 0 0 1 4 8
+p442
+aVVitor Faverani BOS 01/13/2014 BOS vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -1
+p443
+aVJerryd Bayless BOS 01/11/2014 BOS @ POR L 21 12 6 10 60.0 0 1 0.0 0 0 - 0 1 1 6 1 0 3 4 -5
+p444
+aVKelly Olynyk BOS 01/11/2014 BOS @ POR L 14 5 1 4 25.0 0 0 - 3 4 75.0 2 1 3 1 0 0 0 0 -1
+p445
+aVKris Humphries BOS 01/11/2014 BOS @ POR L 30 10 4 8 50.0 0 0 - 2 2 100.0 3 5 8 2 2 3 1 4 -4
+p446
+aVGerald Wallace BOS 01/11/2014 BOS @ POR L 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -6
+p447
+aVJeff Green BOS 01/11/2014 BOS @ POR L 33 16 6 15 40.0 0 4 0.0 4 7 57.1 2 6 8 2 1 1 1 3 -2
+p448
+aVJared Sullinger BOS 01/11/2014 BOS @ POR L 28 14 6 15 40.0 2 4 50.0 0 0 - 7 3 10 0 0 0 1 5 -9
+p449
+aVBrandon Bass BOS 01/11/2014 BOS @ POR L 25 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 2 0 0 2 1 -2
+p450
+aVJordan Crawford BOS 01/11/2014 BOS @ POR L 29 13 6 16 37.5 1 3 33.3 0 0 - 0 3 3 6 3 0 0 2 -10
+p451
+aVAvery Bradley BOS 01/11/2014 BOS @ POR L 34 25 11 19 57.9 1 2 50.0 2 2 100.0 4 1 5 3 0 0 0 2 -3
+p452
+aVPhil Pressey BOS 01/11/2014 BOS @ POR L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 0 2
+p453
+aVKelly Olynyk BOS 01/10/2014 BOS @ GSW L 12 4 1 4 25.0 0 1 0.0 2 2 100.0 1 2 3 0 0 2 0 3 2
+p454
+aVJared Sullinger BOS 01/10/2014 BOS @ GSW L 32 21 9 16 56.3 2 3 66.7 1 2 50.0 5 6 11 1 0 1 4 4 6
+p455
+aVAvery Bradley BOS 01/10/2014 BOS @ GSW L 35 7 3 13 23.1 1 4 25.0 0 0 - 0 3 3 4 0 0 2 2 5
+p456
+aVJordan Crawford BOS 01/10/2014 BOS @ GSW L 34 10 3 12 25.0 2 4 50.0 2 2 100.0 0 2 2 7 0 1 2 2 0
+p457
+aVKris Humphries BOS 01/10/2014 BOS @ GSW L 36 16 5 10 50.0 0 0 - 6 6 100.0 3 11 14 0 2 3 0 2 2
+p458
+aVJerryd Bayless BOS 01/10/2014 BOS @ GSW L 18 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 3 2 0 2 3 -1
+p459
+aVGerald Wallace BOS 01/10/2014 BOS @ GSW L 20 4 1 2 50.0 1 2 50.0 1 2 50.0 0 1 1 1 3 0 0 0 -3
+p460
+aVBrandon Bass BOS 01/10/2014 BOS @ GSW L 17 9 4 5 80.0 0 0 - 1 1 100.0 1 2 3 1 0 0 3 4 -14
+p461
+aVJeff Green BOS 01/10/2014 BOS @ GSW L 37 24 11 17 64.7 1 2 50.0 1 1 100.0 2 9 11 2 0 1 4 5 -7
+p462
+aVAvery Bradley BOS 01/08/2014 BOS @ LAC L 31 24 10 18 55.6 1 4 25.0 3 5 60.0 1 3 4 2 2 0 2 2 -6
+p463
+aVPhil Pressey BOS 01/08/2014 BOS @ LAC L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p464
+aVBrandon Bass BOS 01/08/2014 BOS @ LAC L 32 14 6 10 60.0 0 0 - 2 3 66.7 0 5 5 2 1 1 2 4 -8
+p465
+aVKelly Olynyk BOS 01/08/2014 BOS @ LAC L 18 7 3 5 60.0 1 2 50.0 0 2 0.0 0 4 4 1 0 0 1 4 10
+p466
+aVGerald Wallace BOS 01/08/2014 BOS @ LAC L 20 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 0 2 1 -8
+p467
+aVJerryd Bayless BOS 01/08/2014 BOS @ LAC L 20 11 3 9 33.3 2 4 50.0 3 3 100.0 1 2 3 5 2 0 2 1 4
+p468
+aVJared Sullinger BOS 01/08/2014 BOS @ LAC L 12 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 0 0 0 0 4 -8
+p469
+aVKris Humphries BOS 01/08/2014 BOS @ LAC L 32 6 3 5 60.0 0 0 - 0 0 - 4 4 8 4 0 0 2 6 -10
+p470
+aVJeff Green BOS 01/08/2014 BOS @ LAC L 33 15 5 12 41.7 1 2 50.0 4 6 66.7 1 10 11 1 0 0 2 5 -7
+p471
+aVJordan Crawford BOS 01/08/2014 BOS @ LAC L 37 24 7 17 41.2 0 3 0.0 10 11 90.9 2 0 2 8 2 0 5 3 0
+p472
+aVKeith Bogans BOS 01/07/2014 BOS @ DEN L 13 9 2 3 66.7 2 3 66.7 3 3 100.0 0 1 1 1 0 0 0 0 6
+p473
+aVJerryd Bayless BOS 01/07/2014 BOS @ DEN L 25 6 3 11 27.3 0 3 0.0 0 0 - 0 0 0 3 3 0 0 1 -13
+p474
+aVJared Sullinger BOS 01/07/2014 BOS @ DEN L 14 8 4 8 50.0 0 0 - 0 0 - 3 4 7 0 0 0 2 3 -11
+p475
+aVGerald Wallace BOS 01/07/2014 BOS @ DEN L 24 4 2 4 50.0 0 0 - 0 4 0.0 1 3 4 2 1 0 0 0 -7
+p476
+aVJordan Crawford BOS 01/07/2014 BOS @ DEN L 21 10 3 9 33.3 0 1 0.0 4 4 100.0 0 2 2 5 0 0 1 1 -16
+p477
+aVPhil Pressey BOS 01/07/2014 BOS @ DEN L 13 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 3 0 0 0 1 6
+p478
+aVKelly Olynyk BOS 01/07/2014 BOS @ DEN L 21 6 2 5 40.0 0 1 0.0 2 2 100.0 1 1 2 4 1 0 4 6 -13
+p479
+aVJeff Green BOS 01/07/2014 BOS @ DEN L 35 17 7 19 36.8 2 7 28.6 1 2 50.0 0 4 4 1 2 1 2 1 -28
+p480
+aVAvery Bradley BOS 01/07/2014 BOS @ DEN L 31 12 5 12 41.7 0 1 0.0 2 2 100.0 0 2 2 1 0 0 2 5 -40
+p481
+aVVitor Faverani BOS 01/07/2014 BOS @ DEN L 16 10 4 8 50.0 0 1 0.0 2 2 100.0 4 1 5 1 0 0 2 6 -9
+p482
+aVBrandon Bass BOS 01/07/2014 BOS @ DEN L 26 15 3 10 30.0 0 0 - 9 11 81.8 1 6 7 1 1 1 1 4 -30
+p483
+aVGerald Wallace BOS 01/05/2014 BOS @ OKC L 23 1 0 2 0.0 0 2 0.0 1 4 25.0 1 2 3 3 2 0 1 2 0
+p484
+aVJeff Green BOS 01/05/2014 BOS @ OKC L 34 19 8 15 53.3 3 5 60.0 0 0 - 0 1 1 2 1 1 2 1 -18
+p485
+aVBrandon Bass BOS 01/05/2014 BOS @ OKC L 23 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 2 -23
+p486
+aVKelly Olynyk BOS 01/05/2014 BOS @ OKC L 24 7 3 6 50.0 1 2 50.0 0 0 - 3 5 8 1 0 2 1 5 5
+p487
+aVJordan Crawford BOS 01/05/2014 BOS @ OKC L 32 17 6 14 42.9 3 7 42.9 2 4 50.0 0 2 2 7 1 0 2 2 -20
+p488
+aVKeith Bogans BOS 01/05/2014 BOS @ OKC L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 -5
+p489
+aVVitor Faverani BOS 01/05/2014 BOS @ OKC L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -7
+p490
+aVKris Humphries BOS 01/05/2014 BOS @ OKC L 23 14 5 8 62.5 0 0 - 4 4 100.0 1 2 3 2 0 3 1 1 -12
+p491
+aVAvery Bradley BOS 01/05/2014 BOS @ OKC L 32 19 7 16 43.8 2 4 50.0 3 4 75.0 1 4 5 1 0 0 2 4 -22
+p492
+aVPhil Pressey BOS 01/05/2014 BOS @ OKC L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 0 0 2 2 -4
+p493
+aVJared Sullinger BOS 01/05/2014 BOS @ OKC L 19 9 3 11 27.3 0 1 0.0 3 6 50.0 5 3 8 3 0 0 2 6 -9
+p494
+aVJordan Crawford BOS 01/03/2014 BOS vs. NOP L 37 5 2 14 14.3 0 6 0.0 1 1 100.0 0 4 4 11 1 0 2 3 -2
+p495
+aVJared Sullinger BOS 01/03/2014 BOS vs. NOP L 30 13 3 17 17.6 0 4 0.0 7 7 100.0 9 2 11 2 1 1 3 4 3
+p496
+aVCourtney Lee BOS 01/03/2014 BOS vs. NOP L 14 3 1 8 12.5 1 5 20.0 0 0 - 1 1 2 1 1 0 0 2 -7
+p497
+aVGerald Wallace BOS 01/03/2014 BOS vs. NOP L 18 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -13
+p498
+aVPhil Pressey BOS 01/03/2014 BOS vs. NOP L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 0 1 -1
+p499
+aVKris Humphries BOS 01/03/2014 BOS vs. NOP L 24 7 2 6 33.3 0 0 - 3 4 75.0 6 6 12 3 0 1 1 3 -7
+p500
+aVJeff Green BOS 01/03/2014 BOS vs. NOP L 30 16 5 12 41.7 2 7 28.6 4 6 66.7 0 2 2 2 0 1 2 2 10
+p501
+aVBrandon Bass BOS 01/03/2014 BOS vs. NOP L 35 16 8 10 80.0 0 0 - 0 0 - 6 5 11 0 0 1 0 2 3
+p502
+aVAvery Bradley BOS 01/03/2014 BOS vs. NOP L 34 22 7 15 46.7 4 6 66.7 4 4 100.0 0 4 4 0 1 1 0 0 4
+p503
+aVKelly Olynyk BOS 01/03/2014 BOS vs. NOP L 8 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 0 0 0 1 3 -5
+p504
+aVBrandon Bass BOS 01/02/2014 BOS @ CHI L 22 6 3 8 37.5 0 0 - 0 0 - 1 2 3 0 0 2 3 1 -10
+p505
+aVCourtney Lee BOS 01/02/2014 BOS @ CHI L 20 7 3 5 60.0 0 1 0.0 1 2 50.0 0 5 5 2 1 0 1 2 -13
+p506
+aVAvery Bradley BOS 01/02/2014 BOS @ CHI L 30 9 3 10 30.0 0 0 - 3 6 50.0 1 5 6 1 2 1 2 2 -1
+p507
+aVGerald Wallace BOS 01/02/2014 BOS @ CHI L 18 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -2
+p508
+aVJared Sullinger BOS 01/02/2014 BOS @ CHI L 31 11 5 12 41.7 0 2 0.0 1 1 100.0 6 5 11 1 1 0 3 4 -4
+p509
+aVVitor Faverani BOS 01/02/2014 BOS @ CHI L 9 4 1 5 20.0 0 1 0.0 2 2 100.0 1 0 1 0 1 0 2 2 -13
+p510
+aVKelly Olynyk BOS 01/02/2014 BOS @ CHI L 8 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 1 5
+p511
+aVJeff Green BOS 01/02/2014 BOS @ CHI L 30 11 5 18 27.8 1 4 25.0 0 0 - 2 3 5 0 0 1 1 4 -10
+p512
+aVKris Humphries BOS 01/02/2014 BOS @ CHI L 26 9 4 10 40.0 0 0 - 1 2 50.0 1 10 11 3 2 4 0 5 -2
+p513
+aVPhil Pressey BOS 01/02/2014 BOS @ CHI L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -3
+p514
+aVJordan Crawford BOS 01/02/2014 BOS @ CHI L 38 22 7 11 63.6 0 2 0.0 8 10 80.0 0 3 3 7 0 0 5 3 -7
+p515
+aVKris Humphries BOS 12/31/2013 BOS vs. ATL L 28 18 7 13 53.8 0 0 - 4 4 100.0 0 10 10 1 0 0 0 4 15
+p516
+aVCourtney Lee BOS 12/31/2013 BOS vs. ATL L 23 11 5 7 71.4 1 1 100.0 0 0 - 1 2 3 2 1 2 0 0 10
+p517
+aVJordan Crawford BOS 12/31/2013 BOS vs. ATL L 33 8 3 15 20.0 1 7 14.3 1 1 100.0 3 3 6 5 0 0 3 2 -16
+p518
+aVKelly Olynyk BOS 12/31/2013 BOS vs. ATL L 24 21 8 11 72.7 3 5 60.0 2 2 100.0 1 3 4 5 1 2 1 2 16
+p519
+aVJared Sullinger BOS 12/31/2013 BOS vs. ATL L 20 2 1 6 16.7 0 0 - 0 0 - 2 8 10 3 0 1 0 3 -16
+p520
+aVPhil Pressey BOS 12/31/2013 BOS vs. ATL L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 5 1 0 1 3 15
+p521
+aVAvery Bradley BOS 12/31/2013 BOS vs. ATL L 31 8 2 10 20.0 0 3 0.0 4 4 100.0 1 4 5 2 0 1 1 1 -17
+p522
+aVGerald Wallace BOS 12/31/2013 BOS vs. ATL L 22 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 4 1 0 3 3 19
+p523
+aVBrandon Bass BOS 12/31/2013 BOS vs. ATL L 24 9 2 6 33.3 0 0 - 5 6 83.3 0 2 2 0 0 1 3 3 -17
+p524
+aVJeff Green BOS 12/31/2013 BOS vs. ATL L 21 8 4 10 40.0 0 2 0.0 0 0 - 0 5 5 1 2 0 3 1 -14
+p525
+aVBrandon Bass BOS 12/28/2013 BOS vs. CLE W 34 15 5 8 62.5 1 1 100.0 4 4 100.0 4 2 6 4 0 2 1 1 0
+p526
+aVJared Sullinger BOS 12/28/2013 BOS vs. CLE W 31 8 4 14 28.6 0 3 0.0 0 0 - 2 1 3 2 0 1 1 4 1
+p527
+aVAvery Bradley BOS 12/28/2013 BOS vs. CLE W 37 18 8 16 50.0 1 4 25.0 1 2 50.0 3 5 8 3 2 0 2 3 5
+p528
+aVPhil Pressey BOS 12/28/2013 BOS vs. CLE W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 2 0 0 2 -3
+p529
+aVJeff Green BOS 12/28/2013 BOS vs. CLE W 36 19 5 12 41.7 2 5 40.0 7 7 100.0 0 8 8 1 2 1 1 1 3
+p530
+aVCourtney Lee BOS 12/28/2013 BOS vs. CLE W 17 11 4 11 36.4 2 5 40.0 1 1 100.0 0 1 1 2 1 0 2 1 -4
+p531
+aVJordan Crawford BOS 12/28/2013 BOS vs. CLE W 34 19 7 11 63.6 3 5 60.0 2 2 100.0 0 5 5 5 1 0 3 1 4
+p532
+aVKelly Olynyk BOS 12/28/2013 BOS vs. CLE W 14 1 0 2 0.0 0 1 0.0 1 4 25.0 3 4 7 1 1 1 3 3 3
+p533
+aVKris Humphries BOS 12/28/2013 BOS vs. CLE W 17 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 1 0 0 1 1 2
+p534
+aVGerald Wallace BOS 12/28/2013 BOS vs. CLE W 8 2 1 1 100.0 0 0 - 0 3 0.0 0 2 2 2 0 0 1 1 4
+p535
+aVKris Humphries BOS 12/22/2013 BOS @ IND L 19 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -7
+p536
+aVJeff Green BOS 12/22/2013 BOS @ IND L 26 11 4 9 44.4 2 2 100.0 1 1 100.0 1 5 6 1 0 1 4 4 -12
+p537
+aVJordan Crawford BOS 12/22/2013 BOS @ IND L 24 9 4 11 36.4 1 4 25.0 0 0 - 0 0 0 2 1 0 0 2 -17
+p538
+aVGerald Wallace BOS 12/22/2013 BOS @ IND L 15 3 0 0 - 0 0 - 3 4 75.0 0 5 5 1 0 0 2 0 -11
+p539
+aVMarShon Brooks BOS 12/22/2013 BOS @ IND L 10 6 1 2 50.0 1 1 100.0 3 4 75.0 0 5 5 0 0 1 1 0 0
+p540
+aVKelly Olynyk BOS 12/22/2013 BOS @ IND L 23 6 3 10 30.0 0 1 0.0 0 0 - 3 1 4 4 0 0 1 3 -8
+p541
+aVPhil Pressey BOS 12/22/2013 BOS @ IND L 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 4 0 0 2 1 -6
+p542
+aVVitor Faverani BOS 12/22/2013 BOS @ IND L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 2 1 2 -6
+p543
+aVAvery Bradley BOS 12/22/2013 BOS @ IND L 31 13 6 14 42.9 1 1 100.0 0 0 - 1 5 6 0 1 0 1 2 -19
+p544
+aVJared Sullinger BOS 12/22/2013 BOS @ IND L 16 6 3 9 33.3 0 1 0.0 0 1 0.0 0 2 2 0 0 2 2 3 -14
+p545
+aVCourtney Lee BOS 12/22/2013 BOS @ IND L 23 11 5 10 50.0 1 2 50.0 0 1 0.0 0 2 2 3 2 2 2 1 -16
+p546
+aVBrandon Bass BOS 12/22/2013 BOS @ IND L 25 6 2 9 22.2 0 0 - 2 2 100.0 0 3 3 1 1 1 0 3 -19
+p547
+aVGerald Wallace BOS 12/21/2013 BOS vs. WAS L 18 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -1
+p548
+aVCourtney Lee BOS 12/21/2013 BOS vs. WAS L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p549
+aVJordan Crawford BOS 12/21/2013 BOS vs. WAS L 33 11 5 11 45.5 1 5 20.0 0 0 - 1 2 3 8 0 0 5 1 -4
+p550
+aVJeff Green BOS 12/21/2013 BOS vs. WAS L 34 13 4 13 30.8 0 6 0.0 5 7 71.4 0 2 2 1 1 1 2 2 -10
+p551
+aVAvery Bradley BOS 12/21/2013 BOS vs. WAS L 38 26 12 18 66.7 2 3 66.7 0 2 0.0 2 3 5 0 1 0 2 1 -7
+p552
+aVVitor Faverani BOS 12/21/2013 BOS vs. WAS L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p553
+aVPhil Pressey BOS 12/21/2013 BOS vs. WAS L 14 0 0 0 - 0 0 - 0 0 - 0 0 0 5 1 0 0 0 -1
+p554
+aVKelly Olynyk BOS 12/21/2013 BOS vs. WAS L 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 1
+p555
+aVBrandon Bass BOS 12/21/2013 BOS vs. WAS L 35 11 4 9 44.4 0 0 - 3 4 75.0 1 10 11 4 1 1 1 2 -10
+p556
+aVJared Sullinger BOS 12/21/2013 BOS vs. WAS L 31 22 9 18 50.0 1 4 25.0 3 4 75.0 5 6 11 1 1 0 1 3 -7
+p557
+aVKris Humphries BOS 12/21/2013 BOS vs. WAS L 16 8 4 6 66.7 0 0 - 0 1 0.0 1 4 5 3 0 0 1 2 0
+p558
+aVJeff Green BOS 12/18/2013 BOS vs. DET L 30 13 6 13 46.2 1 2 50.0 0 0 - 1 6 7 1 2 0 3 3 -7
+p559
+aVPhil Pressey BOS 12/18/2013 BOS vs. DET L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -3
+p560
+aVJared Sullinger BOS 12/18/2013 BOS vs. DET L 33 19 7 14 50.0 2 4 50.0 3 4 75.0 3 5 8 4 1 0 2 4 13
+p561
+aVAvery Bradley BOS 12/18/2013 BOS vs. DET L 32 14 5 11 45.5 2 3 66.7 2 2 100.0 0 5 5 2 1 0 2 3 7
+p562
+aVGerald Wallace BOS 12/18/2013 BOS vs. DET L 21 4 2 3 66.7 0 0 - 0 0 - 2 1 3 4 1 0 0 0 6
+p563
+aVVitor Faverani BOS 12/18/2013 BOS vs. DET L 11 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -9
+p564
+aVKris Humphries BOS 12/18/2013 BOS vs. DET L 18 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 0 0 1 4 3 1
+p565
+aVBrandon Bass BOS 12/18/2013 BOS vs. DET L 28 11 4 6 66.7 0 0 - 3 4 75.0 1 6 7 1 1 0 2 3 -2
+p566
+aVKelly Olynyk BOS 12/18/2013 BOS vs. DET L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 0 3 -5
+p567
+aVCourtney Lee BOS 12/18/2013 BOS vs. DET L 15 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 0 0 0 2 0 -9
+p568
+aVJordan Crawford BOS 12/18/2013 BOS vs. DET L 35 17 4 15 26.7 1 7 14.3 8 8 100.0 0 4 4 6 1 0 2 1 3
+p569
+aVGerald Wallace BOS 12/16/2013 BOS vs. MIN W 17 4 1 3 33.3 1 2 50.0 1 3 33.3 0 2 2 0 0 0 0 0 -2
+p570
+aVJeff Green BOS 12/16/2013 BOS vs. MIN W 31 8 3 11 27.3 1 4 25.0 1 1 100.0 1 4 5 2 0 2 3 1 6
+p571
+aVJordan Crawford BOS 12/16/2013 BOS vs. MIN W 35 15 6 14 42.9 1 4 25.0 2 2 100.0 0 4 4 4 0 0 3 2 13
+p572
+aVKris Humphries BOS 12/16/2013 BOS vs. MIN W 21 8 4 5 80.0 0 0 - 0 0 - 2 5 7 2 1 0 0 2 14
+p573
+aVKelly Olynyk BOS 12/16/2013 BOS vs. MIN W 13 9 2 3 66.7 2 2 100.0 3 4 75.0 2 2 4 1 0 0 3 5 2
+p574
+aVCourtney Lee BOS 12/16/2013 BOS vs. MIN W 15 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 3 0 0 1 0 -2
+p575
+aVPhil Pressey BOS 12/16/2013 BOS vs. MIN W 13 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -9
+p576
+aVBrandon Bass BOS 12/16/2013 BOS vs. MIN W 14 0 0 5 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 5 -3
+p577
+aVAvery Bradley BOS 12/16/2013 BOS vs. MIN W 33 19 9 17 52.9 1 5 20.0 0 0 - 2 3 5 2 0 0 1 2 6
+p578
+aVJared Sullinger BOS 12/16/2013 BOS vs. MIN W 36 24 7 14 50.0 1 2 50.0 9 11 81.8 3 8 11 5 0 0 1 4 -9
+p579
+aVVitor Faverani BOS 12/16/2013 BOS vs. MIN W 12 6 3 4 75.0 0 1 0.0 0 0 - 1 4 5 0 0 1 0 2 4
+p580
+aVJordan Crawford BOS 12/13/2013 BOS vs. NYK W 32 2 0 8 0.0 0 5 0.0 2 3 66.7 0 2 2 6 0 0 2 1 -10
+p581
+aVCourtney Lee BOS 12/13/2013 BOS vs. NYK W 19 18 6 8 75.0 3 3 100.0 3 4 75.0 0 0 0 0 0 0 1 1 14
+p582
+aVBrandon Bass BOS 12/13/2013 BOS vs. NYK W 37 10 5 9 55.6 0 0 - 0 0 - 1 7 8 1 0 0 3 3 -11
+p583
+aVJeff Green BOS 12/13/2013 BOS vs. NYK W 29 8 3 7 42.9 1 3 33.3 1 3 33.3 1 3 4 2 0 1 0 1 -8
+p584
+aVAvery Bradley BOS 12/13/2013 BOS vs. NYK W 31 13 5 12 41.7 2 3 66.7 1 4 25.0 0 6 6 0 0 1 0 2 -7
+p585
+aVKelly Olynyk BOS 12/13/2013 BOS vs. NYK W 14 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 0 0 1 3 2 8
+p586
+aVPhil Pressey BOS 12/13/2013 BOS vs. NYK W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 2 2 16
+p587
+aVJared Sullinger BOS 12/13/2013 BOS vs. NYK W 31 19 6 9 66.7 0 1 0.0 7 7 100.0 2 4 6 3 0 1 2 4 0
+p588
+aVGerald Wallace BOS 12/13/2013 BOS vs. NYK W 20 7 3 6 50.0 0 2 0.0 1 2 50.0 1 5 6 2 1 0 1 1 7
+p589
+aVVitor Faverani BOS 12/13/2013 BOS vs. NYK W 14 7 3 4 75.0 1 2 50.0 0 0 - 0 4 4 1 0 1 1 2 11
+p590
+aVAvery Bradley BOS 12/11/2013 BOS vs. LAC L 33 8 3 8 37.5 2 2 100.0 0 0 - 0 3 3 2 1 1 2 3 -6
+p591
+aVMarShon Brooks BOS 12/11/2013 BOS vs. LAC L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 3 1 -1
+p592
+aVJared Sullinger BOS 12/11/2013 BOS vs. LAC L 31 10 5 13 38.5 0 3 0.0 0 0 - 4 5 9 1 0 0 1 5 4
+p593
+aVGerald Wallace BOS 12/11/2013 BOS vs. LAC L 18 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 1 0 0 2 1 -7
+p594
+aVJordan Crawford BOS 12/11/2013 BOS vs. LAC L 39 20 7 17 41.2 1 4 25.0 5 6 83.3 1 4 5 9 1 0 3 3 -6
+p595
+aVVitor Faverani BOS 12/11/2013 BOS vs. LAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p596
+aVBrandon Bass BOS 12/11/2013 BOS vs. LAC L 41 17 6 12 50.0 0 0 - 5 7 71.4 1 11 12 1 2 2 1 2 -9
+p597
+aVJeff Green BOS 12/11/2013 BOS vs. LAC L 44 29 10 23 43.5 3 7 42.9 6 6 100.0 0 4 4 1 0 1 1 2 -9
+p598
+aVPhil Pressey BOS 12/11/2013 BOS vs. LAC L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 0 -2
+p599
+aVCourtney Lee BOS 12/11/2013 BOS vs. LAC L 15 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 0 1 2 6 -2
+p600
+aVPhil Pressey BOS 12/10/2013 BOS @ BKN L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p601
+aVJordan Crawford BOS 12/10/2013 BOS @ BKN L 34 15 6 14 42.9 2 5 40.0 1 3 33.3 0 2 2 4 1 0 1 1 -14
+p602
+aVJeff Green BOS 12/10/2013 BOS @ BKN L 37 19 6 13 46.2 4 4 100.0 3 4 75.0 1 5 6 1 2 0 3 3 -12
+p603
+aVAvery Bradley BOS 12/10/2013 BOS @ BKN L 37 22 8 16 50.0 3 6 50.0 3 3 100.0 0 3 3 0 2 0 1 4 3
+p604
+aVVitor Faverani BOS 12/10/2013 BOS @ BKN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -12
+p605
+aVCourtney Lee BOS 12/10/2013 BOS @ BKN L 19 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 1 0 1 1 3
+p606
+aVBrandon Bass BOS 12/10/2013 BOS @ BKN L 29 13 4 12 33.3 0 0 - 5 8 62.5 4 7 11 1 0 1 0 2 -13
+p607
+aVJared Sullinger BOS 12/10/2013 BOS @ BKN L 35 15 6 16 37.5 2 6 33.3 1 1 100.0 3 2 5 3 0 0 0 3 4
+p608
+aVKris Humphries BOS 12/10/2013 BOS @ BKN L 17 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 2 0 0 3 -1
+p609
+aVGerald Wallace BOS 12/10/2013 BOS @ BKN L 23 2 1 2 50.0 0 1 0.0 0 0 - 0 6 6 2 0 0 3 2 4
+p610
+aVPhil Pressey BOS 12/08/2013 BOS @ NYK W 17 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 2 1 3
+p611
+aVVitor Faverani BOS 12/08/2013 BOS @ NYK W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -5
+p612
+aVJeff Green BOS 12/08/2013 BOS @ NYK W 25 16 6 9 66.7 1 2 50.0 3 3 100.0 0 6 6 3 0 0 2 2 42
+p613
+aVKris Humphries BOS 12/08/2013 BOS @ NYK W 25 6 2 5 40.0 0 0 - 2 2 100.0 1 6 7 2 0 1 2 2 5
+p614
+aVJared Sullinger BOS 12/08/2013 BOS @ NYK W 27 21 9 13 69.2 2 3 66.7 1 1 100.0 1 2 3 2 1 0 2 3 43
+p615
+aVGerald Wallace BOS 12/08/2013 BOS @ NYK W 21 0 0 0 - 0 0 - 0 2 0.0 0 3 3 2 2 1 3 3 5
+p616
+aVMarShon Brooks BOS 12/08/2013 BOS @ NYK W 6 8 2 2 100.0 1 1 100.0 3 4 75.0 0 1 1 0 1 0 2 0 2
+p617
+aVAvery Bradley BOS 12/08/2013 BOS @ NYK W 28 13 4 11 36.4 2 2 100.0 3 3 100.0 1 9 10 2 1 0 0 2 40
+p618
+aVBrandon Bass BOS 12/08/2013 BOS @ NYK W 32 16 4 8 50.0 0 0 - 8 9 88.9 3 5 8 1 3 1 1 3 31
+p619
+aVJordan Crawford BOS 12/08/2013 BOS @ NYK W 31 23 8 14 57.1 6 12 50.0 1 1 100.0 0 3 3 7 0 0 0 0 38
+p620
+aVCourtney Lee BOS 12/08/2013 BOS @ NYK W 20 10 4 7 57.1 2 4 50.0 0 0 - 0 1 1 0 1 0 0 1 1
+p621
+aVPhil Pressey BOS 12/06/2013 BOS vs. DEN W 13 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 1 -2
+p622
+aVAvery Bradley BOS 12/06/2013 BOS vs. DEN W 31 18 8 11 72.7 2 4 50.0 0 0 - 2 2 4 2 1 0 1 2 13
+p623
+aVBrandon Bass BOS 12/06/2013 BOS vs. DEN W 31 14 4 7 57.1 0 0 - 6 6 100.0 3 5 8 4 0 3 2 3 0
+p624
+aVJeff Green BOS 12/06/2013 BOS vs. DEN W 33 15 6 13 46.2 1 3 33.3 2 2 100.0 0 2 2 0 0 0 0 0 4
+p625
+aVCourtney Lee BOS 12/06/2013 BOS vs. DEN W 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p626
+aVVitor Faverani BOS 12/06/2013 BOS vs. DEN W 20 7 3 6 50.0 1 2 50.0 0 0 - 2 2 4 2 0 1 2 3 7
+p627
+aVGerald Wallace BOS 12/06/2013 BOS vs. DEN W 25 2 1 4 25.0 0 2 0.0 0 2 0.0 1 2 3 4 2 0 1 1 0
+p628
+aVJordan Crawford BOS 12/06/2013 BOS vs. DEN W 34 22 9 13 69.2 2 4 50.0 2 2 100.0 0 4 4 8 0 0 2 3 5
+p629
+aVJared Sullinger BOS 12/06/2013 BOS vs. DEN W 20 8 4 13 30.8 0 3 0.0 0 2 0.0 0 2 2 1 0 1 0 4 -12
+p630
+aVKris Humphries BOS 12/06/2013 BOS vs. DEN W 24 18 8 11 72.7 0 0 - 2 2 100.0 1 6 7 2 1 1 1 1 26
+p631
+aVJared Sullinger BOS 12/03/2013 BOS vs. MIL W 35 12 5 15 33.3 0 1 0.0 2 2 100.0 5 3 8 2 2 1 3 3 7
+p632
+aVKris Humphries BOS 12/03/2013 BOS vs. MIL W 20 5 2 5 40.0 0 0 - 1 2 50.0 1 7 8 3 1 1 0 2 12
+p633
+aVVitor Faverani BOS 12/03/2013 BOS vs. MIL W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 1 -2
+p634
+aVPhil Pressey BOS 12/03/2013 BOS vs. MIL W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 6
+p635
+aVJordan Crawford BOS 12/03/2013 BOS vs. MIL W 39 25 8 14 57.1 4 7 57.1 5 7 71.4 1 1 2 5 1 0 2 3 0
+p636
+aVBrandon Bass BOS 12/03/2013 BOS vs. MIL W 34 16 4 9 44.4 0 0 - 8 9 88.9 1 8 9 0 0 1 1 4 -1
+p637
+aVJeff Green BOS 12/03/2013 BOS vs. MIL W 32 18 6 9 66.7 3 5 60.0 3 5 60.0 1 4 5 3 0 0 3 3 2
+p638
+aVAvery Bradley BOS 12/03/2013 BOS vs. MIL W 30 15 6 12 50.0 3 6 50.0 0 0 - 1 3 4 0 0 0 0 3 8
+p639
+aVGerald Wallace BOS 12/03/2013 BOS vs. MIL W 22 6 2 3 66.7 0 1 0.0 2 2 100.0 1 3 4 4 2 0 1 2 2
+p640
+aVCourtney Lee BOS 12/03/2013 BOS vs. MIL W 16 11 5 7 71.4 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 6
+p641
+aVGerald Wallace BOS 11/30/2013 BOS @ MIL L 25 0 0 0 - 0 0 - 0 0 - 1 3 4 4 2 0 1 1 -4
+p642
+aVJeff Green BOS 11/30/2013 BOS @ MIL L 41 18 7 15 46.7 2 6 33.3 2 2 100.0 1 2 3 6 0 0 2 1 4
+p643
+aVKeith Bogans BOS 11/30/2013 BOS @ MIL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p644
+aVJordan Crawford BOS 11/30/2013 BOS @ MIL L 34 18 6 15 40.0 1 4 25.0 5 6 83.3 1 2 3 5 1 0 1 4 -6
+p645
+aVVitor Faverani BOS 11/30/2013 BOS @ MIL L 15 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -16
+p646
+aVPhil Pressey BOS 11/30/2013 BOS @ MIL L 8 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 3 0 0 0 -1
+p647
+aVBrandon Bass BOS 11/30/2013 BOS @ MIL L 26 6 3 7 42.9 0 0 - 0 0 - 1 6 7 0 1 1 0 0 5
+p648
+aVAvery Bradley BOS 11/30/2013 BOS @ MIL L 35 9 4 15 26.7 0 2 0.0 1 2 50.0 0 3 3 1 0 0 0 6 -1
+p649
+aVKris Humphries BOS 11/30/2013 BOS @ MIL L 13 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 1 2 2 -20
+p650
+aVJared Sullinger BOS 11/30/2013 BOS @ MIL L 33 21 10 18 55.6 1 5 20.0 0 1 0.0 2 12 14 0 0 0 3 5 9
+p651
+aVMarShon Brooks BOS 11/30/2013 BOS @ MIL L 4 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 5
+p652
+aVJared Sullinger BOS 11/29/2013 BOS vs. CLE W 25 12 4 9 44.4 4 5 80.0 0 0 - 1 3 4 3 1 1 2 4 17
+p653
+aVJordan Crawford BOS 11/29/2013 BOS vs. CLE W 33 11 4 14 28.6 1 6 16.7 2 2 100.0 2 9 11 10 1 0 2 4 24
+p654
+aVKeith Bogans BOS 11/29/2013 BOS vs. CLE W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p655
+aVJeff Green BOS 11/29/2013 BOS vs. CLE W 38 31 10 19 52.6 2 4 50.0 9 13 69.2 1 4 5 2 0 0 4 1 19
+p656
+aVVitor Faverani BOS 11/29/2013 BOS vs. CLE W 22 6 2 7 28.6 0 2 0.0 2 4 50.0 2 7 9 0 1 2 1 5 1
+p657
+aVAvery Bradley BOS 11/29/2013 BOS vs. CLE W 35 21 9 11 81.8 3 4 75.0 0 0 - 1 2 3 3 2 0 1 2 20
+p658
+aVPhil Pressey BOS 11/29/2013 BOS vs. CLE W 15 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 1 0 0 1 -8
+p659
+aVGerald Wallace BOS 11/29/2013 BOS vs. CLE W 15 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 3 1 1 3 0 2
+p660
+aVKris Humphries BOS 11/29/2013 BOS vs. CLE W 18 9 4 6 66.7 0 0 - 1 1 100.0 0 4 4 1 0 1 2 2 -6
+p661
+aVMarShon Brooks BOS 11/29/2013 BOS vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p662
+aVBrandon Bass BOS 11/29/2013 BOS vs. CLE W 30 12 5 8 62.5 1 1 100.0 1 2 50.0 1 7 8 4 1 2 1 2 23
+p663
+aVVitor Faverani BOS 11/27/2013 BOS vs. MEM L 13 7 3 8 37.5 1 2 50.0 0 0 - 2 1 3 0 0 0 0 0 -9
+p664
+aVPhil Pressey BOS 11/27/2013 BOS vs. MEM L 5 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -5
+p665
+aVBrandon Bass BOS 11/27/2013 BOS vs. MEM L 31 6 2 6 33.3 0 0 - 2 2 100.0 2 11 13 1 0 4 2 2 1
+p666
+aVCourtney Lee BOS 11/27/2013 BOS vs. MEM L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -10
+p667
+aVKris Humphries BOS 11/27/2013 BOS vs. MEM L 16 8 4 10 40.0 0 0 - 0 0 - 3 3 6 0 0 1 0 1 -10
+p668
+aVJordan Crawford BOS 11/27/2013 BOS vs. MEM L 36 5 2 8 25.0 1 4 25.0 0 0 - 0 1 1 7 0 0 2 3 -9
+p669
+aVGerald Wallace BOS 11/27/2013 BOS vs. MEM L 23 2 1 5 20.0 0 0 - 0 2 0.0 1 1 2 2 0 0 2 1 -10
+p670
+aVAvery Bradley BOS 11/27/2013 BOS vs. MEM L 32 16 7 13 53.8 2 5 40.0 0 0 - 1 0 1 0 0 2 4 2 8
+p671
+aVJared Sullinger BOS 11/27/2013 BOS vs. MEM L 35 23 10 18 55.6 2 3 66.7 1 1 100.0 5 7 12 3 0 0 4 5 6
+p672
+aVJeff Green BOS 11/27/2013 BOS vs. MEM L 39 26 9 19 47.4 1 5 20.0 7 8 87.5 2 5 7 1 1 0 0 2 3
+p673
+aVGerald Wallace BOS 11/25/2013 BOS @ CHA W 36 17 6 10 60.0 1 2 50.0 4 7 57.1 1 3 4 3 2 1 1 3 8
+p674
+aVPhil Pressey BOS 11/25/2013 BOS @ CHA W 20 2 1 2 50.0 0 0 - 0 0 - 0 1 1 8 3 0 0 1 14
+p675
+aVKris Humphries BOS 11/25/2013 BOS @ CHA W 16 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 1 0 1 17
+p676
+aVJordan Crawford BOS 11/25/2013 BOS @ CHA W 28 21 5 11 45.5 4 6 66.7 7 7 100.0 0 4 4 5 0 0 2 2 -4
+p677
+aVVitor Faverani BOS 11/25/2013 BOS @ CHA W 13 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 4 7
+p678
+aVAvery Bradley BOS 11/25/2013 BOS @ CHA W 9 2 1 6 16.7 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -6
+p679
+aVJared Sullinger BOS 11/25/2013 BOS @ CHA W 28 5 2 9 22.2 0 3 0.0 1 2 50.0 2 6 8 2 1 1 2 3 5
+p680
+aVCourtney Lee BOS 11/25/2013 BOS @ CHA W 15 11 4 7 57.1 2 4 50.0 1 1 100.0 1 1 2 2 1 0 0 2 18
+p681
+aVBrandon Bass BOS 11/25/2013 BOS @ CHA W 38 16 7 10 70.0 0 0 - 2 2 100.0 4 1 5 0 0 1 1 2 -9
+p682
+aVJeff Green BOS 11/25/2013 BOS @ CHA W 36 13 5 16 31.3 1 4 25.0 2 2 100.0 1 6 7 0 1 1 3 2 0
+p683
+aVGerald Wallace BOS 11/23/2013 BOS @ ATL W 19 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 3 0 1 0 2 -13
+p684
+aVBrandon Bass BOS 11/23/2013 BOS @ ATL W 33 17 5 11 45.5 0 0 - 7 7 100.0 2 5 7 1 1 2 3 1 8
+p685
+aVPhil Pressey BOS 11/23/2013 BOS @ ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p686
+aVAvery Bradley BOS 11/23/2013 BOS @ ATL W 34 12 6 13 46.2 0 1 0.0 0 2 0.0 0 5 5 2 1 0 0 2 6
+p687
+aVJordan Crawford BOS 11/23/2013 BOS @ ATL W 35 12 3 9 33.3 0 5 0.0 6 8 75.0 0 3 3 10 0 0 4 3 24
+p688
+aVJared Sullinger BOS 11/23/2013 BOS @ ATL W 33 15 6 12 50.0 1 3 33.3 2 4 50.0 2 7 9 1 1 2 1 2 13
+p689
+aVCourtney Lee BOS 11/23/2013 BOS @ ATL W 17 4 2 4 50.0 0 0 - 0 0 - 0 5 5 1 0 0 1 0 8
+p690
+aVKris Humphries BOS 11/23/2013 BOS @ ATL W 16 2 1 3 33.3 0 0 - 0 0 - 1 7 8 0 0 1 2 2 -17
+p691
+aVJeff Green BOS 11/23/2013 BOS @ ATL W 35 16 4 10 40.0 1 4 25.0 7 8 87.5 0 5 5 0 0 0 4 1 4
+p692
+aVVitor Faverani BOS 11/23/2013 BOS @ ATL W 14 11 4 6 66.7 1 1 100.0 2 2 100.0 2 3 5 0 0 1 2 1 10
+p693
+aVJordan Crawford BOS 11/22/2013 BOS vs. IND L 34 24 10 12 83.3 3 4 75.0 1 1 100.0 1 2 3 4 2 0 6 2 -8
+p694
+aVAvery Bradley BOS 11/22/2013 BOS vs. IND L 31 6 3 10 30.0 0 1 0.0 0 0 - 0 7 7 2 1 0 3 2 -11
+p695
+aVKelly Olynyk BOS 11/22/2013 BOS vs. IND L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 6
+p696
+aVVitor Faverani BOS 11/22/2013 BOS vs. IND L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 0 -9
+p697
+aVCourtney Lee BOS 11/22/2013 BOS vs. IND L 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 2 0 0 1 -9
+p698
+aVKris Humphries BOS 11/22/2013 BOS vs. IND L 16 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 1
+p699
+aVBrandon Bass BOS 11/22/2013 BOS vs. IND L 22 8 4 8 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 4 -18
+p700
+aVPhil Pressey BOS 11/22/2013 BOS vs. IND L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 -2
+p701
+aVJared Sullinger BOS 11/22/2013 BOS vs. IND L 31 13 6 12 50.0 0 2 0.0 1 2 50.0 1 4 5 2 1 0 1 3 -7
+p702
+aVGerald Wallace BOS 11/22/2013 BOS vs. IND L 22 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 1 5 1 -12
+p703
+aVJeff Green BOS 11/22/2013 BOS vs. IND L 38 20 8 13 61.5 2 3 66.7 2 2 100.0 0 2 2 0 1 0 3 1 -6
+p704
+aVJeff Green BOS 11/20/2013 BOS @ SAS L 39 19 7 14 50.0 2 2 100.0 3 4 75.0 1 4 5 3 0 1 2 1 -4
+p705
+aVKelly Olynyk BOS 11/20/2013 BOS @ SAS L 37 8 2 9 22.2 0 2 0.0 4 4 100.0 3 5 8 3 0 0 2 5 -1
+p706
+aVPhil Pressey BOS 11/20/2013 BOS @ SAS L 9 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 2 1 0 1 1 -13
+p707
+aVAvery Bradley BOS 11/20/2013 BOS @ SAS L 36 19 9 18 50.0 1 2 50.0 0 0 - 0 3 3 2 0 0 2 4 0
+p708
+aVVitor Faverani BOS 11/20/2013 BOS @ SAS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 2
+p709
+aVKris Humphries BOS 11/20/2013 BOS @ SAS L 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 1 1 1 -7
+p710
+aVJared Sullinger BOS 11/20/2013 BOS @ SAS L 31 19 8 17 47.1 1 5 20.0 2 2 100.0 4 13 17 0 0 0 2 4 5
+p711
+aVGerald Wallace BOS 11/20/2013 BOS @ SAS L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -12
+p712
+aVBrandon Bass BOS 11/20/2013 BOS @ SAS L 20 6 3 7 42.9 0 0 - 0 0 - 1 0 1 1 1 1 1 1 -21
+p713
+aVJordan Crawford BOS 11/20/2013 BOS @ SAS L 27 12 5 9 55.6 0 2 0.0 2 2 100.0 0 4 4 4 1 0 2 0 0
+p714
+aVCourtney Lee BOS 11/20/2013 BOS @ SAS L 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 2 0 -4
+p715
+aVKelly Olynyk BOS 11/19/2013 BOS @ HOU L 22 9 4 11 36.4 1 2 50.0 0 0 - 4 4 8 1 3 1 1 3 -1
+p716
+aVPhil Pressey BOS 11/19/2013 BOS @ HOU L 21 5 0 3 0.0 0 2 0.0 5 7 71.4 0 0 0 5 2 0 1 0 16
+p717
+aVAvery Bradley BOS 11/19/2013 BOS @ HOU L 27 11 5 22 22.7 1 4 25.0 0 0 - 3 2 5 0 2 0 3 1 -36
+p718
+aVMarShon Brooks BOS 11/19/2013 BOS @ HOU L 7 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 3
+p719
+aVKris Humphries BOS 11/19/2013 BOS @ HOU L 14 6 2 4 50.0 0 1 0.0 2 2 100.0 1 5 6 0 0 2 0 1 3
+p720
+aVGerald Wallace BOS 11/19/2013 BOS @ HOU L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -13
+p721
+aVVitor Faverani BOS 11/19/2013 BOS @ HOU L 14 5 2 6 33.3 0 0 - 1 2 50.0 4 1 5 1 0 0 1 5 -19
+p722
+aVJordan Crawford BOS 11/19/2013 BOS @ HOU L 23 6 1 8 12.5 1 3 33.3 3 3 100.0 0 1 1 4 2 0 3 0 -32
+p723
+aVBrandon Bass BOS 11/19/2013 BOS @ HOU L 20 9 4 8 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 2 -20
+p724
+aVCourtney Lee BOS 11/19/2013 BOS @ HOU L 23 17 7 16 43.8 3 4 75.0 0 0 - 0 2 2 1 0 0 0 2 4
+p725
+aVKeith Bogans BOS 11/19/2013 BOS @ HOU L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 12
+p726
+aVJared Sullinger BOS 11/19/2013 BOS @ HOU L 22 10 4 10 40.0 1 2 50.0 1 2 50.0 4 5 9 2 0 0 2 2 -6
+p727
+aVJeff Green BOS 11/19/2013 BOS @ HOU L 22 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 1 0 0 0 3 -31
+p728
+aVKris Humphries BOS 11/16/2013 BOS @ MIN L 11 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 0
+p729
+aVBrandon Bass BOS 11/16/2013 BOS @ MIN L 30 15 6 10 60.0 0 0 - 3 4 75.0 1 6 7 1 0 1 4 3 5
+p730
+aVKelly Olynyk BOS 11/16/2013 BOS @ MIN L 14 6 2 5 40.0 0 1 0.0 2 2 100.0 1 1 2 1 0 1 2 0 -16
+p731
+aVPhil Pressey BOS 11/16/2013 BOS @ MIN L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 2
+p732
+aVJared Sullinger BOS 11/16/2013 BOS @ MIN L 14 3 1 6 16.7 0 2 0.0 1 2 50.0 3 1 4 1 0 0 1 2 -27
+p733
+aVMarShon Brooks BOS 11/16/2013 BOS @ MIN L 18 8 3 7 42.9 0 1 0.0 2 2 100.0 0 3 3 1 0 0 1 2 -7
+p734
+aVGerald Wallace BOS 11/16/2013 BOS @ MIN L 17 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -18
+p735
+aVJeff Green BOS 11/16/2013 BOS @ MIN L 30 2 0 6 0.0 0 2 0.0 2 2 100.0 1 6 7 1 0 2 4 1 -6
+p736
+aVJordan Crawford BOS 11/16/2013 BOS @ MIN L 29 10 4 14 28.6 2 3 66.7 0 0 - 1 2 3 5 2 0 3 2 -8
+p737
+aVVitor Faverani BOS 11/16/2013 BOS @ MIN L 27 9 3 7 42.9 2 4 50.0 1 2 50.0 5 9 14 1 3 4 2 3 2
+p738
+aVAvery Bradley BOS 11/16/2013 BOS @ MIN L 36 27 12 23 52.2 1 4 25.0 2 2 100.0 1 2 3 0 1 0 3 4 -17
+p739
+aVPhil Pressey BOS 11/15/2013 BOS vs. POR L 12 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 3 0 0 2 3 -3
+p740
+aVAvery Bradley BOS 11/15/2013 BOS vs. POR L 21 6 2 5 40.0 0 2 0.0 2 4 50.0 1 1 2 0 1 0 1 1 -18
+p741
+aVKelly Olynyk BOS 11/15/2013 BOS vs. POR L 16 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 4 -5
+p742
+aVGerald Wallace BOS 11/15/2013 BOS vs. POR L 26 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 2 4 0 2 2 3
+p743
+aVBrandon Bass BOS 11/15/2013 BOS vs. POR L 29 6 3 11 27.3 0 0 - 0 0 - 1 6 7 1 0 2 0 2 -22
+p744
+aVJared Sullinger BOS 11/15/2013 BOS vs. POR L 36 26 11 18 61.1 2 4 50.0 2 2 100.0 0 8 8 2 1 0 4 2 0
+p745
+aVCourtney Lee BOS 11/15/2013 BOS vs. POR L 17 9 4 9 44.4 1 2 50.0 0 0 - 0 1 1 2 0 2 0 2 2
+p746
+aVJeff Green BOS 11/15/2013 BOS vs. POR L 31 14 4 12 33.3 0 4 0.0 6 6 100.0 1 3 4 1 0 0 0 0 -15
+p747
+aVVitor Faverani BOS 11/15/2013 BOS vs. POR L 15 9 3 4 75.0 1 1 100.0 2 3 66.7 0 3 3 0 0 0 2 3 1
+p748
+aVJordan Crawford BOS 11/15/2013 BOS vs. POR L 34 11 4 12 33.3 0 0 - 3 4 75.0 0 4 4 5 2 0 3 2 -8
+p749
+aVMarShon Brooks BOS 11/15/2013 BOS vs. POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p750
+aVKelly Olynyk BOS 11/13/2013 BOS vs. CHA L 33 6 1 4 25.0 0 2 0.0 4 4 100.0 3 8 11 4 0 0 4 4 -11
+p751
+aVCourtney Lee BOS 11/13/2013 BOS vs. CHA L 14 10 4 8 50.0 2 4 50.0 0 0 - 0 0 0 0 0 0 1 2 2
+p752
+aVGerald Wallace BOS 11/13/2013 BOS vs. CHA L 32 10 4 7 57.1 2 3 66.7 0 0 - 2 6 8 2 2 0 2 1 -4
+p753
+aVKris Humphries BOS 11/13/2013 BOS vs. CHA L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p754
+aVPhil Pressey BOS 11/13/2013 BOS vs. CHA L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -4
+p755
+aVAvery Bradley BOS 11/13/2013 BOS vs. CHA L 23 7 3 8 37.5 1 2 50.0 0 0 - 0 3 3 0 1 0 1 5 -3
+p756
+aVJordan Crawford BOS 11/13/2013 BOS vs. CHA L 35 16 6 15 40.0 0 2 0.0 4 5 80.0 1 4 5 6 2 0 2 3 -2
+p757
+aVVitor Faverani BOS 11/13/2013 BOS vs. CHA L 22 7 2 8 25.0 1 2 50.0 2 4 50.0 3 6 9 1 0 1 3 3 10
+p758
+aVJeff Green BOS 11/13/2013 BOS vs. CHA L 32 19 7 13 53.8 1 5 20.0 4 7 57.1 0 1 1 0 0 0 1 3 -7
+p759
+aVBrandon Bass BOS 11/13/2013 BOS vs. CHA L 27 7 2 9 22.2 0 0 - 3 3 100.0 1 7 8 2 0 1 0 4 -9
+p760
+aVBrandon Bass BOS 11/11/2013 BOS vs. ORL W 30 10 5 12 41.7 0 0 - 0 0 - 2 2 4 2 0 1 1 3 3
+p761
+aVAvery Bradley BOS 11/11/2013 BOS vs. ORL W 29 24 10 15 66.7 0 1 0.0 4 4 100.0 0 0 0 0 3 0 3 3 12
+p762
+aVJared Sullinger BOS 11/11/2013 BOS vs. ORL W 25 14 7 9 77.8 0 1 0.0 0 1 0.0 1 4 5 3 1 2 1 1 17
+p763
+aVJordan Crawford BOS 11/11/2013 BOS vs. ORL W 33 16 7 12 58.3 0 1 0.0 2 2 100.0 1 4 5 10 1 0 0 3 15
+p764
+aVPhil Pressey BOS 11/11/2013 BOS vs. ORL W 15 7 3 6 50.0 1 1 100.0 0 0 - 0 2 2 2 0 0 2 1 2
+p765
+aVJeff Green BOS 11/11/2013 BOS vs. ORL W 29 16 5 9 55.6 1 2 50.0 5 5 100.0 1 3 4 1 0 0 3 3 -7
+p766
+aVGerald Wallace BOS 11/11/2013 BOS vs. ORL W 19 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 5 3 0 1 0 20
+p767
+aVKelly Olynyk BOS 11/11/2013 BOS vs. ORL W 26 16 7 9 77.8 2 3 66.7 0 0 - 1 6 7 5 1 1 2 4 1
+p768
+aVCourtney Lee BOS 11/11/2013 BOS vs. ORL W 19 12 5 8 62.5 1 1 100.0 1 1 100.0 1 1 2 0 1 1 0 1 3
+p769
+aVVitor Faverani BOS 11/11/2013 BOS vs. ORL W 14 4 2 4 50.0 0 2 0.0 0 0 - 1 4 5 0 1 2 0 0 9
+p770
+aVKelly Olynyk BOS 11/09/2013 BOS @ MIA W 23 7 3 9 33.3 1 2 50.0 0 0 - 3 5 8 4 0 1 1 5 -4
+p771
+aVCourtney Lee BOS 11/09/2013 BOS @ MIA W 12 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p772
+aVJordan Crawford BOS 11/09/2013 BOS @ MIA W 28 15 6 10 60.0 3 5 60.0 0 0 - 0 2 2 4 2 0 3 2 0
+p773
+aVKris Humphries BOS 11/09/2013 BOS @ MIA W 19 9 3 5 60.0 0 0 - 3 3 100.0 1 4 5 0 0 2 0 0 7
+p774
+aVGerald Wallace BOS 11/09/2013 BOS @ MIA W 31 6 3 5 60.0 0 1 0.0 0 0 - 2 4 6 7 0 0 3 3 -1
+p775
+aVVitor Faverani BOS 11/09/2013 BOS @ MIA W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 8
+p776
+aVBrandon Bass BOS 11/09/2013 BOS @ MIA W 15 6 3 7 42.9 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -7
+p777
+aVJared Sullinger BOS 11/09/2013 BOS @ MIA W 24 12 5 9 55.6 0 1 0.0 2 2 100.0 3 5 8 1 1 0 3 4 -3
+p778
+aVPhil Pressey BOS 11/09/2013 BOS @ MIA W 21 7 3 9 33.3 0 3 0.0 1 2 50.0 1 2 3 5 1 1 2 1 4
+p779
+aVJeff Green BOS 11/09/2013 BOS @ MIA W 36 24 8 16 50.0 5 8 62.5 3 5 60.0 1 4 5 1 0 1 0 2 11
+p780
+aVAvery Bradley BOS 11/09/2013 BOS @ MIA W 30 17 8 14 57.1 1 1 100.0 0 0 - 0 2 2 1 0 0 0 2 -3
+p781
+aVCourtney Lee BOS 11/08/2013 BOS @ ORL W 17 13 5 9 55.6 0 0 - 3 4 75.0 2 2 4 0 2 1 0 2 -7
+p782
+aVJordan Crawford BOS 11/08/2013 BOS @ ORL W 31 13 5 13 38.5 0 2 0.0 3 3 100.0 1 2 3 5 1 0 2 1 11
+p783
+aVJeff Green BOS 11/08/2013 BOS @ ORL W 32 10 5 14 35.7 0 3 0.0 0 1 0.0 1 2 3 3 2 0 0 0 10
+p784
+aVPhil Pressey BOS 11/08/2013 BOS @ ORL W 16 1 0 4 0.0 0 1 0.0 1 2 50.0 0 2 2 1 2 0 0 2 -2
+p785
+aVJared Sullinger BOS 11/08/2013 BOS @ ORL W 20 11 2 8 25.0 0 1 0.0 7 8 87.5 3 3 6 4 0 2 1 2 -1
+p786
+aVAvery Bradley BOS 11/08/2013 BOS @ ORL W 29 14 5 13 38.5 1 2 50.0 3 4 75.0 3 5 8 1 3 1 2 1 6
+p787
+aVVitor Faverani BOS 11/08/2013 BOS @ ORL W 17 3 1 4 25.0 1 2 50.0 0 0 - 2 3 5 1 0 0 1 2 2
+p788
+aVKelly Olynyk BOS 11/08/2013 BOS @ ORL W 22 8 4 13 30.8 0 1 0.0 0 0 - 4 2 6 0 0 0 3 5 1
+p789
+aVGerald Wallace BOS 11/08/2013 BOS @ ORL W 20 2 1 3 33.3 0 2 0.0 0 0 - 0 6 6 3 1 0 2 5 -13
+p790
+aVKris Humphries BOS 11/08/2013 BOS @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p791
+aVBrandon Bass BOS 11/08/2013 BOS @ ORL W 37 16 6 14 42.9 0 0 - 4 4 100.0 3 4 7 1 0 1 0 3 0
+p792
+aVCourtney Lee BOS 11/06/2013 BOS vs. UTA W 11 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 5
+p793
+aVVitor Faverani BOS 11/06/2013 BOS vs. UTA W 6 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 1 -8
+p794
+aVPhil Pressey BOS 11/06/2013 BOS vs. UTA W 17 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 3 1 0 0 0 8
+p795
+aVKelly Olynyk BOS 11/06/2013 BOS vs. UTA W 29 14 6 14 42.9 0 3 0.0 2 2 100.0 4 4 8 3 1 0 2 3 10
+p796
+aVBrandon Bass BOS 11/06/2013 BOS vs. UTA W 31 20 9 15 60.0 0 0 - 2 3 66.7 3 1 4 2 0 2 3 4 -3
+p797
+aVJordan Crawford BOS 11/06/2013 BOS vs. UTA W 27 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 4 0 1 0 2 -8
+p798
+aVGerald Wallace BOS 11/06/2013 BOS vs. UTA W 23 9 3 5 60.0 2 2 100.0 1 4 25.0 0 9 9 3 1 0 3 2 16
+p799
+aVKris Humphries BOS 11/06/2013 BOS vs. UTA W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p800
+aVAvery Bradley BOS 11/06/2013 BOS vs. UTA W 30 8 3 8 37.5 0 2 0.0 2 2 100.0 2 4 6 1 1 0 2 2 -1
+p801
+aVJared Sullinger BOS 11/06/2013 BOS vs. UTA W 24 12 6 11 54.5 0 2 0.0 0 0 - 0 5 5 0 0 1 2 2 18
+p802
+aVJeff Green BOS 11/06/2013 BOS vs. UTA W 36 18 6 13 46.2 3 4 75.0 3 3 100.0 0 3 3 4 1 0 1 1 10
+p803
+aVCourtney Lee BOS 11/04/2013 BOS @ MEM L 19 9 4 5 80.0 1 2 50.0 0 0 - 0 3 3 2 1 0 2 0 17
+p804
+aVJeff Green BOS 11/04/2013 BOS @ MEM L 40 22 6 12 50.0 1 4 25.0 9 12 75.0 0 5 5 1 0 1 2 2 -13
+p805
+aVVitor Faverani BOS 11/04/2013 BOS @ MEM L 28 5 2 4 50.0 1 3 33.3 0 0 - 2 4 6 0 1 1 3 4 -19
+p806
+aVGerald Wallace BOS 11/04/2013 BOS @ MEM L 28 0 0 0 - 0 0 - 0 0 - 0 3 3 3 2 0 3 2 -11
+p807
+aVAvery Bradley BOS 11/04/2013 BOS @ MEM L 32 14 6 12 50.0 0 2 0.0 2 2 100.0 0 0 0 3 1 0 1 3 -13
+p808
+aVBrandon Bass BOS 11/04/2013 BOS @ MEM L 23 6 3 11 27.3 0 1 0.0 0 0 - 1 3 4 1 1 3 1 2 -14
+p809
+aVJordan Crawford BOS 11/04/2013 BOS @ MEM L 25 12 4 7 57.1 2 4 50.0 2 2 100.0 0 2 2 4 3 1 1 1 -1
+p810
+aVJared Sullinger BOS 11/04/2013 BOS @ MEM L 21 16 7 11 63.6 2 3 66.7 0 0 - 1 4 5 0 0 0 0 4 12
+p811
+aVKelly Olynyk BOS 11/04/2013 BOS @ MEM L 25 4 1 8 12.5 0 1 0.0 2 2 100.0 0 4 4 0 0 0 4 3 7
+p812
+aVBrandon Bass BOS 11/03/2013 BOS @ DET L 37 6 2 8 25.0 0 0 - 2 2 100.0 1 7 8 3 2 1 2 5 -8
+p813
+aVVitor Faverani BOS 11/03/2013 BOS @ DET L 19 8 4 6 66.7 0 1 0.0 0 0 - 1 1 2 1 2 1 2 2 -7
+p814
+aVGerald Wallace BOS 11/03/2013 BOS @ DET L 36 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 2 4 0 2 2 -6
+p815
+aVJeff Green BOS 11/03/2013 BOS @ DET L 20 7 3 5 60.0 0 0 - 1 1 100.0 0 2 2 2 0 0 2 2 -8
+p816
+aVCourtney Lee BOS 11/03/2013 BOS @ DET L 22 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 2 1 0 3 3 -5
+p817
+aVKeith Bogans BOS 11/03/2013 BOS @ DET L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p818
+aVAvery Bradley BOS 11/03/2013 BOS @ DET L 34 13 6 14 42.9 1 2 50.0 0 0 - 4 4 8 3 3 0 6 2 -15
+p819
+aVKelly Olynyk BOS 11/03/2013 BOS @ DET L 26 15 6 11 54.5 0 1 0.0 3 3 100.0 2 6 8 0 2 0 3 5 -3
+p820
+aVJordan Crawford BOS 11/03/2013 BOS @ DET L 22 13 5 10 50.0 1 4 25.0 2 2 100.0 0 3 3 1 1 0 3 0 3
+p821
+aVMarShon Brooks BOS 11/03/2013 BOS @ DET L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p822
+aVJared Sullinger BOS 11/03/2013 BOS @ DET L 14 4 1 6 16.7 0 2 0.0 2 2 100.0 0 4 4 0 0 1 0 1 -2
+p823
+aVCourtney Lee BOS 11/01/2013 BOS vs. MIL L 26 13 6 11 54.5 1 3 33.3 0 0 - 0 4 4 1 2 0 0 3 -20
+p824
+aVGerald Wallace BOS 11/01/2013 BOS vs. MIL L 36 14 5 9 55.6 2 5 40.0 2 7 28.6 0 6 6 4 1 0 4 2 0
+p825
+aVKelly Olynyk BOS 11/01/2013 BOS vs. MIL L 14 4 2 5 40.0 0 1 0.0 0 0 - 2 0 2 1 0 0 1 4 -15
+p826
+aVJared Sullinger BOS 11/01/2013 BOS vs. MIL L 10 10 2 6 33.3 0 0 - 6 7 85.7 3 0 3 0 0 0 1 4 -11
+p827
+aVVitor Faverani BOS 11/01/2013 BOS vs. MIL L 37 12 4 6 66.7 0 1 0.0 4 6 66.7 6 12 18 1 1 6 3 4 1
+p828
+aVBrandon Bass BOS 11/01/2013 BOS vs. MIL L 35 17 6 11 54.5 0 0 - 5 6 83.3 3 5 8 2 0 1 0 3 11
+p829
+aVAvery Bradley BOS 11/01/2013 BOS vs. MIL L 33 8 4 14 28.6 0 3 0.0 0 0 - 0 2 2 2 1 0 4 6 9
+p830
+aVJordan Crawford BOS 11/01/2013 BOS vs. MIL L 12 7 1 1 100.0 0 0 - 5 5 100.0 0 0 0 1 0 0 0 0 -9
+p831
+aVJeff Green BOS 11/01/2013 BOS vs. MIL L 38 13 4 13 30.8 1 3 33.3 4 7 57.1 4 5 9 1 0 0 4 3 -1
+p832
+aVJeff Green BOS 10/30/2013 BOS @ TOR L 37 25 8 16 50.0 2 3 66.7 7 9 77.8 0 5 5 2 1 1 1 4 8
+p833
+aVVitor Faverani BOS 10/30/2013 BOS @ TOR L 27 13 4 9 44.4 0 1 0.0 5 8 62.5 1 2 3 0 0 3 3 5 -17
+p834
+aVBrandon Bass BOS 10/30/2013 BOS @ TOR L 32 17 6 7 85.7 0 0 - 5 5 100.0 1 1 2 2 2 0 1 2 12
+p835
+aVAvery Bradley BOS 10/30/2013 BOS @ TOR L 31 8 4 13 30.8 0 3 0.0 0 0 - 1 4 5 4 2 1 4 6 -3
+p836
+aVPhil Pressey BOS 10/30/2013 BOS @ TOR L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -4
+p837
+aVCourtney Lee BOS 10/30/2013 BOS @ TOR L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 1 0 2 0 -16
+p838
+aVGerald Wallace BOS 10/30/2013 BOS @ TOR L 40 3 1 1 100.0 0 0 - 1 4 25.0 0 3 3 2 4 0 5 2 -1
+p839
+aVKris Humphries BOS 10/30/2013 BOS @ TOR L 21 8 3 4 75.0 0 0 - 2 3 66.7 2 7 9 0 0 2 2 2 12
+p840
+aVJordan Crawford BOS 10/30/2013 BOS @ TOR L 18 7 3 5 60.0 1 1 100.0 0 0 - 2 1 3 5 0 0 1 2 -2
+p841
+aVKelly Olynyk BOS 10/30/2013 BOS @ TOR L 16 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 0 0 3 2 -19
+p842
+a.

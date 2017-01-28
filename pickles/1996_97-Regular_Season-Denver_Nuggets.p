@@ -1,0 +1,1572 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrooks Thompson DEN 04/19/1997 DEN @ DAL W 13 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 1 1 0 0 2 0
+p2
+aVErvin Johnson DEN 04/19/1997 DEN @ DAL W 46 21 7 13 53.8 0 0 - 7 8 87.5 6 20 26 0 1 2 3 3 5
+p3
+aVDale Ellis DEN 04/19/1997 DEN @ DAL W 48 15 6 17 35.3 2 5 40.0 1 1 100.0 0 3 3 3 2 0 3 2 5
+p4
+aVAnthony Goldwire DEN 04/19/1997 DEN @ DAL W 22 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 5 0 0 0 0 -2
+p5
+aVAntonio McDyess DEN 04/19/1997 DEN @ DAL W 41 20 9 18 50.0 0 2 0.0 2 3 66.7 0 11 11 4 0 3 2 5 6
+p6
+aVKenny Smith DEN 04/19/1997 DEN @ DAL W 26 13 3 7 42.9 3 6 50.0 4 4 100.0 0 2 2 7 1 0 2 1 7
+p7
+aVTom Hammonds DEN 04/19/1997 DEN @ DAL W 45 24 10 19 52.6 0 0 - 4 5 80.0 2 6 8 5 1 0 4 3 4
+p8
+aVDale Ellis DEN 04/17/1997 DEN vs. SEA L 48 27 10 21 47.6 6 12 50.0 1 4 25.0 1 6 7 1 1 0 3 3 -4
+p9
+aVKenny Smith DEN 04/17/1997 DEN vs. SEA L 25 8 3 7 42.9 1 3 33.3 1 1 100.0 0 3 3 7 0 0 4 0 1
+p10
+aVTom Hammonds DEN 04/17/1997 DEN vs. SEA L 43 16 7 10 70.0 0 0 - 2 2 100.0 2 4 6 2 0 0 1 4 0
+p11
+aVBrooks Thompson DEN 04/17/1997 DEN vs. SEA L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p12
+aVErvin Johnson DEN 04/17/1997 DEN vs. SEA L 48 16 7 13 53.8 0 0 - 2 2 100.0 6 9 15 4 1 2 3 5 -4
+p13
+aVAnthony Goldwire DEN 04/17/1997 DEN vs. SEA L 23 5 2 4 50.0 1 2 50.0 0 2 0.0 1 0 1 5 0 0 1 1 -5
+p14
+aVAntonio McDyess DEN 04/17/1997 DEN vs. SEA L 48 29 11 22 50.0 0 3 0.0 7 9 77.8 2 4 6 2 2 0 2 3 -4
+p15
+aVGeorge Zidek DEN 04/16/1997 DEN @ POR L 25 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 3 0 0 2 2 -14
+p16
+aVErvin Johnson DEN 04/16/1997 DEN @ POR L 21 0 0 4 0.0 0 1 0.0 0 0 - 1 8 9 0 2 2 3 3 -29
+p17
+aVAntonio McDyess DEN 04/16/1997 DEN @ POR L 42 10 3 13 23.1 0 0 - 4 6 66.7 2 9 11 0 1 0 3 2 -37
+p18
+aVKenny Smith DEN 04/16/1997 DEN @ POR L 22 9 4 6 66.7 1 3 33.3 0 0 - 0 2 2 5 1 0 3 2 -18
+p19
+aVBrooks Thompson DEN 04/16/1997 DEN @ POR L 16 3 1 9 11.1 1 5 20.0 0 0 - 0 2 2 1 2 0 3 3 -13
+p20
+aVJerome Allen DEN 04/16/1997 DEN @ POR L 7 3 1 6 16.7 1 5 20.0 0 0 - 1 1 2 0 1 0 1 1 -5
+p21
+aVAnthony Goldwire DEN 04/16/1997 DEN @ POR L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -13
+p22
+aVTom Hammonds DEN 04/16/1997 DEN @ POR L 43 14 3 12 25.0 0 0 - 8 10 80.0 0 2 2 0 1 0 2 2 -40
+p23
+aVDale Ellis DEN 04/16/1997 DEN @ POR L 40 13 5 14 35.7 3 7 42.9 0 0 - 0 3 3 3 1 0 4 2 -40
+p24
+aVJimmy King DEN 04/16/1997 DEN @ POR L 11 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 1 1 0 1 0 -11
+p25
+aVAntonio McDyess DEN 04/14/1997 DEN vs. GSW L 38 24 9 20 45.0 0 0 - 6 9 66.7 0 4 4 2 0 1 2 5 5
+p26
+aVAnthony Goldwire DEN 04/14/1997 DEN vs. GSW L 33 10 4 11 36.4 2 6 33.3 0 0 - 0 1 1 10 2 0 0 2 4
+p27
+aVJerome Allen DEN 04/14/1997 DEN vs. GSW L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -11
+p28
+aVGeorge Zidek DEN 04/14/1997 DEN vs. GSW L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p29
+aVTom Hammonds DEN 04/14/1997 DEN vs. GSW L 40 19 9 16 56.3 0 0 - 1 4 25.0 2 6 8 0 0 0 4 5 -4
+p30
+aVBrooks Thompson DEN 04/14/1997 DEN vs. GSW L 17 9 3 12 25.0 3 9 33.3 0 0 - 1 2 3 0 0 0 1 4 -9
+p31
+aVKenny Smith DEN 04/14/1997 DEN vs. GSW L 15 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 5 1 0 0 1 -14
+p32
+aVDale Ellis DEN 04/14/1997 DEN vs. GSW L 47 24 8 12 66.7 4 5 80.0 4 4 100.0 0 6 6 3 0 0 3 3 -8
+p33
+aVErvin Johnson DEN 04/14/1997 DEN vs. GSW L 45 2 1 6 16.7 0 0 - 0 0 - 3 16 19 3 3 2 2 4 -9
+p34
+aVGeorge Zidek DEN 04/12/1997 DEN @ LAC L 6 4 1 3 33.3 0 0 - 2 2 100.0 3 1 4 0 1 0 0 1 -9
+p35
+aVAntonio McDyess DEN 04/12/1997 DEN @ LAC L 39 22 7 20 35.0 0 1 0.0 8 10 80.0 0 2 2 2 0 1 1 4 -14
+p36
+aVBrooks Thompson DEN 04/12/1997 DEN @ LAC L 8 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 0 0 0 2 0 -5
+p37
+aVTom Hammonds DEN 04/12/1997 DEN @ LAC L 43 16 7 12 58.3 0 0 - 2 3 66.7 1 2 3 0 0 0 7 2 -16
+p38
+aVDale Ellis DEN 04/12/1997 DEN @ LAC L 44 23 9 12 75.0 3 5 60.0 2 2 100.0 0 2 2 2 1 0 0 3 -19
+p39
+aVKenny Smith DEN 04/12/1997 DEN @ LAC L 15 5 1 5 20.0 1 2 50.0 2 2 100.0 0 1 1 3 0 0 4 1 -17
+p40
+aVJerome Allen DEN 04/12/1997 DEN @ LAC L 14 7 2 6 33.3 1 2 50.0 2 4 50.0 1 2 3 2 0 0 1 1 -5
+p41
+aVJimmy King DEN 04/12/1997 DEN @ LAC L 11 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 1 2 0 0 2 -7
+p42
+aVAnthony Goldwire DEN 04/12/1997 DEN @ LAC L 18 9 4 7 57.1 1 3 33.3 0 0 - 0 2 2 3 0 0 1 0 -2
+p43
+aVErvin Johnson DEN 04/12/1997 DEN @ LAC L 41 0 0 2 0.0 0 0 - 0 0 - 2 15 17 0 0 1 3 2 -16
+p44
+aVAnthony Goldwire DEN 04/10/1997 DEN @ GSW L 34 11 5 12 41.7 1 4 25.0 0 0 - 0 3 3 12 1 0 3 1 4
+p45
+aVAntonio McDyess DEN 04/10/1997 DEN @ GSW L 47 35 16 32 50.0 0 1 0.0 3 5 60.0 2 7 9 2 1 2 3 5 -1
+p46
+aVTom Hammonds DEN 04/10/1997 DEN @ GSW L 49 18 9 21 42.9 0 0 - 0 0 - 2 6 8 2 0 0 0 1 -1
+p47
+aVDale Ellis DEN 04/10/1997 DEN @ GSW L 48 24 8 23 34.8 5 11 45.5 3 4 75.0 3 3 6 9 1 0 1 5 3
+p48
+aVJerome Allen DEN 04/10/1997 DEN @ GSW L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -3
+p49
+aVBrooks Thompson DEN 04/10/1997 DEN @ GSW L 24 2 1 6 16.7 0 4 0.0 0 0 - 0 5 5 5 2 0 1 1 -5
+p50
+aVErvin Johnson DEN 04/10/1997 DEN @ GSW L 43 7 2 4 50.0 0 0 - 3 4 75.0 2 17 19 1 0 3 1 6 0
+p51
+aVKenny Smith DEN 04/10/1997 DEN @ GSW L 17 9 3 4 75.0 3 4 75.0 0 0 - 0 2 2 2 1 0 3 0 -7
+p52
+aVErvin Johnson DEN 04/08/1997 DEN @ SAS L 41 16 8 11 72.7 0 0 - 0 0 - 3 12 15 0 2 6 3 3 -17
+p53
+aVKenny Smith DEN 04/08/1997 DEN @ SAS L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 2 0 -7
+p54
+aVAnthony Goldwire DEN 04/08/1997 DEN @ SAS L 30 13 4 8 50.0 2 5 40.0 3 4 75.0 1 2 3 6 1 0 3 3 -3
+p55
+aVBrooks Thompson DEN 04/08/1997 DEN @ SAS L 25 15 5 10 50.0 4 7 57.1 1 2 50.0 0 1 1 1 0 1 1 2 -5
+p56
+aVDale Ellis DEN 04/08/1997 DEN @ SAS L 42 15 5 21 23.8 3 12 25.0 2 2 100.0 2 2 4 4 1 0 1 3 -1
+p57
+aVJerome Allen DEN 04/08/1997 DEN @ SAS L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 2 1 3 7 0 0 0 0 0
+p58
+aVAntonio McDyess DEN 04/08/1997 DEN @ SAS L 37 17 5 15 33.3 0 0 - 7 12 58.3 8 10 18 1 0 2 3 4 3
+p59
+aVTom Hammonds DEN 04/08/1997 DEN @ SAS L 38 10 5 15 33.3 0 1 0.0 0 0 - 3 6 9 2 0 0 1 1 -2
+p60
+aVGeorge Zidek DEN 04/08/1997 DEN @ SAS L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p61
+aVGeorge Zidek DEN 04/07/1997 DEN vs. POR L 5 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 3 -2
+p62
+aVAnthony Goldwire DEN 04/07/1997 DEN vs. POR L 32 17 7 11 63.6 2 6 33.3 1 1 100.0 0 2 2 5 0 0 1 3 -2
+p63
+aVErvin Johnson DEN 04/07/1997 DEN vs. POR L 42 3 1 3 33.3 0 0 - 1 2 50.0 1 14 15 0 0 5 1 5 -2
+p64
+aVDale Ellis DEN 04/07/1997 DEN vs. POR L 48 18 5 13 38.5 4 10 40.0 4 4 100.0 2 3 5 6 1 0 2 2 -6
+p65
+aVBrooks Thompson DEN 04/07/1997 DEN vs. POR L 25 15 5 10 50.0 3 6 50.0 2 2 100.0 1 1 2 2 1 0 1 2 2
+p66
+aVKenny Smith DEN 04/07/1997 DEN vs. POR L 12 9 3 5 60.0 3 4 75.0 0 0 - 0 0 0 2 0 0 0 1 -3
+p67
+aVTom Hammonds DEN 04/07/1997 DEN vs. POR L 42 29 10 19 52.6 0 1 0.0 9 14 64.3 3 4 7 5 0 0 2 2 2
+p68
+aVAntonio McDyess DEN 04/07/1997 DEN vs. POR L 33 11 5 15 33.3 0 0 - 1 2 50.0 2 1 3 3 2 0 4 4 -19
+p69
+aVBrooks Thompson DEN 04/04/1997 DEN vs. PHX L 30 11 4 12 33.3 3 8 37.5 0 0 - 1 4 5 4 0 0 3 4 -1
+p70
+aVJerome Allen DEN 04/04/1997 DEN vs. PHX L 17 7 3 5 60.0 1 3 33.3 0 0 - 1 2 3 2 0 1 1 0 -12
+p71
+aVKenny Smith DEN 04/04/1997 DEN vs. PHX L 23 11 4 9 44.4 3 5 60.0 0 0 - 0 2 2 1 0 0 1 2 -2
+p72
+aVErvin Johnson DEN 04/04/1997 DEN vs. PHX L 23 6 2 6 33.3 0 0 - 2 2 100.0 6 5 11 0 0 3 0 4 -10
+p73
+aVTom Hammonds DEN 04/04/1997 DEN vs. PHX L 28 15 2 9 22.2 0 0 - 11 11 100.0 7 5 12 1 0 0 3 1 -3
+p74
+aVLaPhonso Ellis DEN 04/04/1997 DEN vs. PHX L 14 12 6 10 60.0 0 1 0.0 0 0 - 5 0 5 1 0 0 5 1 3
+p75
+aVDale Ellis DEN 04/04/1997 DEN vs. PHX L 46 25 10 22 45.5 3 11 27.3 2 2 100.0 2 3 5 4 0 0 1 1 -7
+p76
+aVAnthony Goldwire DEN 04/04/1997 DEN vs. PHX L 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 1 0 0 1 -6
+p77
+aVAntonio McDyess DEN 04/04/1997 DEN vs. PHX L 44 26 10 21 47.6 0 0 - 6 6 100.0 6 5 11 1 2 2 4 2 -7
+p78
+aVAntonio McDyess DEN 04/02/1997 DEN @ LAL L 38 21 9 18 50.0 0 0 - 3 6 50.0 3 2 5 0 1 1 4 2 -19
+p79
+aVTom Hammonds DEN 04/02/1997 DEN @ LAL L 19 10 4 7 57.1 0 0 - 2 3 66.7 4 5 9 2 1 1 1 3 -14
+p80
+aVJerome Allen DEN 04/02/1997 DEN @ LAL L 12 4 2 7 28.6 0 2 0.0 0 1 0.0 0 1 1 2 0 0 0 0 -4
+p81
+aVKenny Smith DEN 04/02/1997 DEN @ LAL L 24 10 3 6 50.0 3 5 60.0 1 1 100.0 0 2 2 3 0 0 3 1 -26
+p82
+aVDale Ellis DEN 04/02/1997 DEN @ LAL L 33 11 5 10 50.0 1 4 25.0 0 0 - 2 2 4 2 1 0 3 1 -22
+p83
+aVGeorge Zidek DEN 04/02/1997 DEN @ LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p84
+aVLaPhonso Ellis DEN 04/02/1997 DEN @ LAL L 44 17 7 24 29.2 2 6 33.3 1 7 14.3 4 5 9 5 2 1 3 2 -24
+p85
+aVErvin Johnson DEN 04/02/1997 DEN @ LAL L 20 6 3 4 75.0 0 0 - 0 0 - 3 8 11 1 0 4 1 4 2
+p86
+aVAnthony Goldwire DEN 04/02/1997 DEN @ LAL L 24 3 1 7 14.3 1 4 25.0 0 0 - 1 2 3 6 1 0 0 2 1
+p87
+aVBrooks Thompson DEN 04/02/1997 DEN @ LAL L 23 3 1 6 16.7 1 4 25.0 0 0 - 0 4 4 5 1 0 2 3 -18
+p88
+aVJerome Allen DEN 04/01/1997 DEN vs. HOU L 12 3 0 3 0.0 0 2 0.0 3 4 75.0 0 0 0 2 0 1 1 1 1
+p89
+aVAntonio McDyess DEN 04/01/1997 DEN vs. HOU L 42 27 13 22 59.1 0 0 - 1 1 100.0 1 9 10 2 1 2 4 4 -20
+p90
+aVKenny Smith DEN 04/01/1997 DEN vs. HOU L 26 7 2 9 22.2 0 2 0.0 3 3 100.0 0 1 1 2 1 0 3 0 -2
+p91
+aVTom Hammonds DEN 04/01/1997 DEN vs. HOU L 31 3 1 2 50.0 0 0 - 1 2 50.0 3 4 7 1 1 0 0 1 -8
+p92
+aVBrooks Thompson DEN 04/01/1997 DEN vs. HOU L 19 13 6 9 66.7 1 4 25.0 0 0 - 0 2 2 5 2 0 1 0 7
+p93
+aVErvin Johnson DEN 04/01/1997 DEN vs. HOU L 16 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 2 0 4 -14
+p94
+aVGeorge Zidek DEN 04/01/1997 DEN vs. HOU L 4 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 0 0 0 0 1 2
+p95
+aVLaPhonso Ellis DEN 04/01/1997 DEN vs. HOU L 42 25 10 20 50.0 1 5 20.0 4 4 100.0 1 7 8 3 0 0 3 1 -16
+p96
+aVDale Ellis DEN 04/01/1997 DEN vs. HOU L 33 10 4 8 50.0 2 3 66.7 0 0 - 2 0 2 2 1 0 0 1 -20
+p97
+aVAnthony Goldwire DEN 04/01/1997 DEN vs. HOU L 14 2 1 7 14.3 0 2 0.0 0 0 - 1 1 2 5 0 0 3 1 -15
+p98
+aVGeorge Zidek DEN 03/30/1997 DEN vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p99
+aVBrooks Thompson DEN 03/30/1997 DEN vs. MIL W 18 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 3 2
+p100
+aVTom Hammonds DEN 03/30/1997 DEN vs. MIL W 27 9 3 6 50.0 0 0 - 3 6 50.0 3 8 11 2 0 1 1 5 1
+p101
+aVDale Ellis DEN 03/30/1997 DEN vs. MIL W 46 20 6 9 66.7 3 5 60.0 5 5 100.0 1 2 3 2 2 1 2 3 2
+p102
+aVLaPhonso Ellis DEN 03/30/1997 DEN vs. MIL W 45 24 8 27 29.6 4 10 40.0 4 6 66.7 3 9 12 3 0 0 2 4 7
+p103
+aVAntonio McDyess DEN 03/30/1997 DEN vs. MIL W 29 19 5 12 41.7 0 0 - 9 10 90.0 0 5 5 1 0 4 2 4 8
+p104
+aVAnthony Goldwire DEN 03/30/1997 DEN vs. MIL W 19 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 4 1 0 2 4 4
+p105
+aVKenny Smith DEN 03/30/1997 DEN vs. MIL W 29 13 4 9 44.4 3 4 75.0 2 3 66.7 0 0 0 6 3 0 4 2 -2
+p106
+aVErvin Johnson DEN 03/30/1997 DEN vs. MIL W 21 3 1 4 25.0 0 0 - 1 2 50.0 3 8 11 1 1 3 1 5 -3
+p107
+aVJerome Allen DEN 03/30/1997 DEN vs. MIL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p108
+aVLaPhonso Ellis DEN 03/29/1997 DEN @ HOU L 47 24 9 21 42.9 3 9 33.3 3 4 75.0 3 13 16 3 1 0 3 3 -12
+p109
+aVKenny Smith DEN 03/29/1997 DEN @ HOU L 32 18 5 10 50.0 3 5 60.0 5 7 71.4 0 1 1 8 0 0 2 0 4
+p110
+aVGeorge Zidek DEN 03/29/1997 DEN @ HOU L 10 6 2 3 66.7 0 0 - 2 4 50.0 0 3 3 0 0 0 0 3 2
+p111
+aVAnthony Goldwire DEN 03/29/1997 DEN @ HOU L 16 4 0 5 0.0 0 1 0.0 4 4 100.0 0 0 0 3 0 0 1 1 -19
+p112
+aVErvin Johnson DEN 03/29/1997 DEN @ HOU L 20 4 2 4 50.0 0 0 - 0 0 - 0 8 8 0 0 1 0 6 -18
+p113
+aVTom Hammonds DEN 03/29/1997 DEN @ HOU L 16 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 1 0 1 4 9
+p114
+aVAntonio McDyess DEN 03/29/1997 DEN @ HOU L 46 21 7 19 36.8 0 1 0.0 7 9 77.8 1 9 10 2 2 1 1 2 -17
+p115
+aVJerome Allen DEN 03/29/1997 DEN @ HOU L 17 7 2 5 40.0 0 2 0.0 3 5 60.0 1 1 2 2 0 0 1 1 7
+p116
+aVDale Ellis DEN 03/29/1997 DEN @ HOU L 36 17 7 12 58.3 3 7 42.9 0 1 0.0 1 1 2 3 0 0 2 3 -31
+p117
+aVAnthony Goldwire DEN 03/26/1997 DEN vs. MIN L 25 20 7 10 70.0 1 1 100.0 5 5 100.0 0 2 2 2 1 0 1 1 8
+p118
+aVJerome Allen DEN 03/26/1997 DEN vs. MIN L 6 1 0 2 0.0 0 1 0.0 1 2 50.0 1 0 1 1 0 0 0 0 8
+p119
+aVErvin Johnson DEN 03/26/1997 DEN vs. MIN L 36 4 1 4 25.0 0 0 - 2 2 100.0 1 8 9 2 0 2 0 4 -6
+p120
+aVLaPhonso Ellis DEN 03/26/1997 DEN vs. MIN L 46 32 12 22 54.5 1 6 16.7 7 8 87.5 2 7 9 2 1 1 1 3 -4
+p121
+aVDale Ellis DEN 03/26/1997 DEN vs. MIN L 33 12 4 10 40.0 2 4 50.0 2 2 100.0 1 3 4 1 0 0 2 0 2
+p122
+aVTom Hammonds DEN 03/26/1997 DEN vs. MIN L 19 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 1 0 0 4 4
+p123
+aVAntonio McDyess DEN 03/26/1997 DEN vs. MIN L 35 17 7 13 53.8 0 1 0.0 3 4 75.0 1 4 5 2 0 3 3 6 -11
+p124
+aVBrooks Thompson DEN 03/26/1997 DEN vs. MIN L 16 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 2 2 0 3 1 -1
+p125
+aVKenny Smith DEN 03/26/1997 DEN vs. MIN L 23 8 3 6 50.0 0 1 0.0 2 2 100.0 1 0 1 6 0 0 4 1 -10
+p126
+aVTom Hammonds DEN 03/23/1997 DEN vs. UTA L 21 4 2 3 66.7 0 0 - 0 0 - 2 5 7 1 0 1 0 2 4
+p127
+aVGeorge Zidek DEN 03/23/1997 DEN vs. UTA L 6 10 2 2 100.0 0 0 - 6 8 75.0 0 1 1 0 0 0 1 2 6
+p128
+aVErvin Johnson DEN 03/23/1997 DEN vs. UTA L 25 10 5 9 55.6 0 0 - 0 0 - 3 5 8 0 0 0 1 2 -29
+p129
+aVLaPhonso Ellis DEN 03/23/1997 DEN vs. UTA L 46 22 7 22 31.8 1 5 20.0 7 9 77.8 4 2 6 4 1 1 3 2 -15
+p130
+aVKenny Smith DEN 03/23/1997 DEN vs. UTA L 29 11 3 9 33.3 1 5 20.0 4 4 100.0 1 1 2 4 2 0 1 3 -14
+p131
+aVBrooks Thompson DEN 03/23/1997 DEN vs. UTA L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 1 0 1 0 4
+p132
+aVDale Ellis DEN 03/23/1997 DEN vs. UTA L 33 12 3 8 37.5 2 2 100.0 4 5 80.0 1 1 2 3 0 0 4 4 -16
+p133
+aVJerome Allen DEN 03/23/1997 DEN vs. UTA L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 4 0 0 1 0 -1
+p134
+aVAntonio McDyess DEN 03/23/1997 DEN vs. UTA L 39 24 8 18 44.4 0 3 0.0 8 9 88.9 0 3 3 0 2 0 0 5 -22
+p135
+aVAnthony Goldwire DEN 03/23/1997 DEN vs. UTA L 15 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 2 2 0 1 2 -2
+p136
+aVBrooks Thompson DEN 03/21/1997 DEN @ VAN L 35 6 2 8 25.0 1 4 25.0 1 2 50.0 2 1 3 8 3 0 1 2 -5
+p137
+aVKenny Smith DEN 03/21/1997 DEN @ VAN L 29 9 2 11 18.2 2 9 22.2 3 4 75.0 0 0 0 2 0 0 0 1 -7
+p138
+aVJerome Allen DEN 03/21/1997 DEN @ VAN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p139
+aVErvin Johnson DEN 03/21/1997 DEN @ VAN L 38 9 3 5 60.0 0 0 - 3 5 60.0 5 9 14 0 4 3 3 3 7
+p140
+aVAntonio McDyess DEN 03/21/1997 DEN @ VAN L 32 29 9 18 50.0 4 6 66.7 7 8 87.5 6 5 11 5 0 0 4 6 -6
+p141
+aVDale Ellis DEN 03/21/1997 DEN @ VAN L 46 26 8 22 36.4 3 8 37.5 7 7 100.0 1 2 3 3 0 0 0 1 -5
+p142
+aVTom Hammonds DEN 03/21/1997 DEN @ VAN L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -14
+p143
+aVLaPhonso Ellis DEN 03/21/1997 DEN @ VAN L 46 20 8 21 38.1 0 3 0.0 4 6 66.7 3 5 8 6 1 0 4 6 -5
+p144
+aVKenny Smith DEN 03/20/1997 DEN @ SEA L 18 16 5 7 71.4 5 7 71.4 1 1 100.0 0 1 1 2 1 0 5 1 -7
+p145
+aVGeorge Zidek DEN 03/20/1997 DEN @ SEA L 6 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p146
+aVBrooks Thompson DEN 03/20/1997 DEN @ SEA L 31 9 3 9 33.3 3 8 37.5 0 0 - 0 2 2 4 2 0 3 2 -23
+p147
+aVErvin Johnson DEN 03/20/1997 DEN @ SEA L 27 3 1 2 50.0 0 0 - 1 2 50.0 2 8 10 1 1 3 5 2 -30
+p148
+aVAntonio McDyess DEN 03/20/1997 DEN @ SEA L 37 8 2 4 50.0 0 0 - 4 4 100.0 0 2 2 2 1 1 6 3 -34
+p149
+aVJerome Allen DEN 03/20/1997 DEN @ SEA L 11 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 4 1 0 1 1 10
+p150
+aVDale Ellis DEN 03/20/1997 DEN @ SEA L 34 16 6 14 42.9 2 7 28.6 2 3 66.7 1 1 2 1 0 0 4 3 -31
+p151
+aVLaPhonso Ellis DEN 03/20/1997 DEN @ SEA L 35 20 6 15 40.0 4 6 66.7 4 4 100.0 0 9 9 2 1 3 3 0 -30
+p152
+aVAnthony Goldwire DEN 03/20/1997 DEN @ SEA L 14 6 2 6 33.3 1 2 50.0 1 2 50.0 0 0 0 3 1 0 2 2 9
+p153
+aVTom Hammonds DEN 03/20/1997 DEN @ SEA L 28 10 2 6 33.3 0 0 - 6 8 75.0 4 5 9 1 0 0 1 1 3
+p154
+aVAnthony Goldwire DEN 03/17/1997 DEN vs. LAL L 8 3 0 3 0.0 0 1 0.0 3 4 75.0 1 0 1 0 0 0 0 0 -2
+p155
+aVAntonio McDyess DEN 03/17/1997 DEN vs. LAL L 38 26 11 19 57.9 0 0 - 4 5 80.0 2 8 10 1 2 4 2 4 -18
+p156
+aVTom Hammonds DEN 03/17/1997 DEN vs. LAL L 23 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 0 0 2 4 -11
+p157
+aVJerome Allen DEN 03/17/1997 DEN vs. LAL L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -4
+p158
+aVGeorge Zidek DEN 03/17/1997 DEN vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p159
+aVBrooks Thompson DEN 03/17/1997 DEN vs. LAL L 31 14 5 9 55.6 4 7 57.1 0 0 - 0 3 3 5 3 0 5 5 -10
+p160
+aVKenny Smith DEN 03/17/1997 DEN vs. LAL L 19 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 3 1 0 2 1 -7
+p161
+aVLaPhonso Ellis DEN 03/17/1997 DEN vs. LAL L 39 24 8 20 40.0 2 6 33.3 6 13 46.2 3 1 4 3 0 0 2 2 -14
+p162
+aVDale Ellis DEN 03/17/1997 DEN vs. LAL L 33 7 1 9 11.1 0 5 0.0 5 5 100.0 2 1 3 4 1 0 3 3 -15
+p163
+aVErvin Johnson DEN 03/17/1997 DEN vs. LAL L 39 8 3 6 50.0 0 0 - 2 2 100.0 4 4 8 0 1 3 1 2 -14
+p164
+aVGeorge Zidek DEN 03/15/1997 DEN vs. SAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p165
+aVTom Hammonds DEN 03/15/1997 DEN vs. SAS W 20 4 2 2 100.0 0 0 - 0 0 - 2 3 5 2 2 1 1 1 13
+p166
+aVJerome Allen DEN 03/15/1997 DEN vs. SAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p167
+aVErvin Johnson DEN 03/15/1997 DEN vs. SAS W 43 6 2 6 33.3 0 0 - 2 2 100.0 4 11 15 2 1 6 2 4 16
+p168
+aVBrooks Thompson DEN 03/15/1997 DEN vs. SAS W 31 14 5 12 41.7 4 9 44.4 0 2 0.0 0 2 2 9 1 0 1 3 18
+p169
+aVLaPhonso Ellis DEN 03/15/1997 DEN vs. SAS W 44 39 12 16 75.0 7 10 70.0 8 9 88.9 1 1 2 1 1 1 2 4 18
+p170
+aVDale Ellis DEN 03/15/1997 DEN vs. SAS W 44 20 7 16 43.8 3 7 42.9 3 4 75.0 3 2 5 6 1 0 0 4 23
+p171
+aVKenny Smith DEN 03/15/1997 DEN vs. SAS W 17 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 8 0 0 0 0 -2
+p172
+aVAntonio McDyess DEN 03/15/1997 DEN vs. SAS W 35 33 14 20 70.0 0 1 0.0 5 5 100.0 2 2 4 1 0 1 2 4 2
+p173
+aVAnthony Goldwire DEN 03/15/1997 DEN vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p174
+aVLaPhonso Ellis DEN 03/13/1997 DEN vs. DET L 42 28 10 22 45.5 2 4 50.0 6 6 100.0 3 5 8 3 0 1 2 2 -15
+p175
+aVJerome Allen DEN 03/13/1997 DEN vs. DET L 16 0 0 2 0.0 0 2 0.0 0 2 0.0 0 2 2 1 0 1 0 3 -9
+p176
+aVBrooks Thompson DEN 03/13/1997 DEN vs. DET L 34 13 5 9 55.6 3 6 50.0 0 0 - 1 3 4 7 0 0 3 1 -1
+p177
+aVGeorge Zidek DEN 03/13/1997 DEN vs. DET L 3 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p178
+aVDale Ellis DEN 03/13/1997 DEN vs. DET L 35 7 2 11 18.2 2 6 33.3 1 2 50.0 0 3 3 3 0 0 2 2 -11
+p179
+aVAnthony Goldwire DEN 03/13/1997 DEN vs. DET L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -7
+p180
+aVKenny Smith DEN 03/13/1997 DEN vs. DET L 18 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 1 0 0 2 0 -11
+p181
+aVTom Hammonds DEN 03/13/1997 DEN vs. DET L 14 5 1 2 50.0 0 0 - 3 5 60.0 0 0 0 1 0 1 1 3 -9
+p182
+aVAntonio McDyess DEN 03/13/1997 DEN vs. DET L 32 10 5 16 31.3 0 0 - 0 0 - 2 3 5 1 0 1 2 4 -16
+p183
+aVErvin Johnson DEN 03/13/1997 DEN vs. DET L 38 11 4 4 100.0 0 0 - 3 4 75.0 3 4 7 1 1 2 2 2 -19
+p184
+aVBryant Stith DEN 03/11/1997 DEN vs. ORL L 40 9 2 7 28.6 1 3 33.3 4 4 100.0 0 0 0 3 0 2 3 5 -2
+p185
+aVAntonio McDyess DEN 03/11/1997 DEN vs. ORL L 43 16 8 15 53.3 0 0 - 0 0 - 0 7 7 1 1 4 2 3 -4
+p186
+aVAnthony Goldwire DEN 03/11/1997 DEN vs. ORL L 21 17 5 5 100.0 5 5 100.0 2 2 100.0 0 2 2 4 0 0 3 2 2
+p187
+aVErvin Johnson DEN 03/11/1997 DEN vs. ORL L 38 18 9 10 90.0 0 0 - 0 0 - 3 13 16 0 1 2 5 2 -2
+p188
+aVJerome Allen DEN 03/11/1997 DEN vs. ORL L 8 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 -3
+p189
+aVBrooks Thompson DEN 03/11/1997 DEN vs. ORL L 27 3 1 7 14.3 1 2 50.0 0 0 - 0 7 7 5 2 0 2 2 -7
+p190
+aVTom Hammonds DEN 03/11/1997 DEN vs. ORL L 4 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 0 0 0 1 2 -2
+p191
+aVDale Ellis DEN 03/11/1997 DEN vs. ORL L 21 2 0 5 0.0 0 5 0.0 2 2 100.0 0 1 1 2 0 0 1 2 -6
+p192
+aVLaPhonso Ellis DEN 03/11/1997 DEN vs. ORL L 38 19 7 17 41.2 1 5 20.0 4 6 66.7 2 2 4 7 1 0 3 2 -1
+p193
+aVTom Hammonds DEN 03/07/1997 DEN @ MIN L 10 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 3 3 -3
+p194
+aVErvin Johnson DEN 03/07/1997 DEN @ MIN L 32 3 1 3 33.3 0 0 - 1 2 50.0 2 11 13 1 2 3 1 5 2
+p195
+aVJerome Allen DEN 03/07/1997 DEN @ MIN L 11 2 1 5 20.0 0 4 0.0 0 0 - 0 2 2 2 0 0 2 0 -3
+p196
+aVKenny Smith DEN 03/07/1997 DEN @ MIN L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 0 0 3 1 -7
+p197
+aVBryant Stith DEN 03/07/1997 DEN @ MIN L 37 15 4 11 36.4 0 4 0.0 7 7 100.0 2 2 4 1 1 1 2 6 -10
+p198
+aVAnthony Goldwire DEN 03/07/1997 DEN @ MIN L 20 3 1 4 25.0 0 2 0.0 1 1 100.0 1 2 3 6 0 0 1 4 2
+p199
+aVAntonio McDyess DEN 03/07/1997 DEN @ MIN L 37 20 7 14 50.0 0 0 - 6 7 85.7 2 8 10 2 0 4 3 6 3
+p200
+aVBrooks Thompson DEN 03/07/1997 DEN @ MIN L 14 14 5 8 62.5 4 5 80.0 0 0 - 1 1 2 1 0 0 1 4 -8
+p201
+aVDale Ellis DEN 03/07/1997 DEN @ MIN L 26 8 2 9 22.2 0 7 0.0 4 5 80.0 2 2 4 3 3 0 2 1 -24
+p202
+aVLaPhonso Ellis DEN 03/07/1997 DEN @ MIN L 38 12 5 19 26.3 1 6 16.7 1 2 50.0 0 3 3 1 1 0 0 1 -17
+p203
+aVAnthony Goldwire DEN 03/05/1997 DEN @ SAC L 29 8 2 7 28.6 1 2 50.0 3 4 75.0 0 3 3 5 0 0 1 2 3
+p204
+aVDale Ellis DEN 03/05/1997 DEN @ SAC L 31 13 4 14 28.6 2 7 28.6 3 3 100.0 3 3 6 3 0 1 3 2 -8
+p205
+aVTom Hammonds DEN 03/05/1997 DEN @ SAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p206
+aVBryant Stith DEN 03/05/1997 DEN @ SAC L 35 21 6 12 50.0 5 8 62.5 4 6 66.7 1 3 4 3 1 2 4 2 -2
+p207
+aVErvin Johnson DEN 03/05/1997 DEN @ SAC L 35 11 5 12 41.7 0 0 - 1 2 50.0 9 9 18 0 0 3 1 4 1
+p208
+aVLaPhonso Ellis DEN 03/05/1997 DEN @ SAC L 39 19 6 18 33.3 4 6 66.7 3 4 75.0 1 2 3 3 0 0 1 4 -10
+p209
+aVKenny Smith DEN 03/05/1997 DEN @ SAC L 19 3 1 7 14.3 1 6 16.7 0 0 - 0 1 1 1 0 0 1 0 -8
+p210
+aVJerome Allen DEN 03/05/1997 DEN @ SAC L 13 6 2 4 50.0 2 2 100.0 0 0 - 0 2 2 1 0 0 0 2 -3
+p211
+aVAntonio McDyess DEN 03/05/1997 DEN @ SAC L 39 19 7 17 41.2 0 0 - 5 10 50.0 2 12 14 5 1 2 2 4 0
+p212
+aVDale Ellis DEN 03/02/1997 DEN vs. LAC W 31 15 4 12 33.3 4 10 40.0 3 6 50.0 1 3 4 0 1 1 0 0 -3
+p213
+aVBryant Stith DEN 03/02/1997 DEN vs. LAC W 43 11 3 12 25.0 1 4 25.0 4 6 66.7 1 2 3 3 1 2 1 2 6
+p214
+aVAnthony Goldwire DEN 03/02/1997 DEN vs. LAC W 39 7 2 9 22.2 2 4 50.0 1 2 50.0 0 2 2 6 0 0 4 4 9
+p215
+aVBrooks Thompson DEN 03/02/1997 DEN vs. LAC W 11 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 2 1 0 0 0 -9
+p216
+aVLaPhonso Ellis DEN 03/02/1997 DEN vs. LAC W 44 29 11 23 47.8 1 5 20.0 6 7 85.7 3 8 11 5 2 1 1 1 3
+p217
+aVTom Hammonds DEN 03/02/1997 DEN vs. LAC W 10 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 -1
+p218
+aVAntonio McDyess DEN 03/02/1997 DEN vs. LAC W 41 33 16 23 69.6 0 0 - 1 3 33.3 5 3 8 0 1 3 2 5 10
+p219
+aVJerome Allen DEN 03/02/1997 DEN vs. LAC W 14 0 0 2 0.0 0 0 - 0 0 - 1 2 3 3 0 0 1 1 -2
+p220
+aVErvin Johnson DEN 03/02/1997 DEN vs. LAC W 33 10 5 9 55.6 0 0 - 0 0 - 4 9 13 1 0 4 0 4 -3
+p221
+aVLaPhonso Ellis DEN 02/28/1997 DEN vs. NYK L 45 29 11 24 45.8 2 3 66.7 5 7 71.4 1 5 6 5 1 1 1 3 -5
+p222
+aVDale Ellis DEN 02/28/1997 DEN vs. NYK L 17 9 3 11 27.3 3 8 37.5 0 0 - 0 2 2 2 0 0 0 2 -7
+p223
+aVBrooks Thompson DEN 02/28/1997 DEN vs. NYK L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 2 0 0 0 0 -6
+p224
+aVTom Hammonds DEN 02/28/1997 DEN vs. NYK L 21 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 1 -2
+p225
+aVAnthony Goldwire DEN 02/28/1997 DEN vs. NYK L 43 13 4 13 30.8 1 4 25.0 4 4 100.0 1 1 2 9 1 1 0 1 2
+p226
+aVBryant Stith DEN 02/28/1997 DEN vs. NYK L 48 17 6 11 54.5 1 1 100.0 4 5 80.0 3 2 5 4 1 0 3 4 0
+p227
+aVAntonio McDyess DEN 02/28/1997 DEN vs. NYK L 44 32 11 21 52.4 0 1 0.0 10 12 83.3 2 5 7 0 4 1 3 5 4
+p228
+aVJerome Allen DEN 02/28/1997 DEN vs. NYK L 5 0 0 2 0.0 0 1 0.0 0 0 - 2 0 2 1 0 0 1 0 -4
+p229
+aVErvin Johnson DEN 02/28/1997 DEN vs. NYK L 32 4 2 5 40.0 0 0 - 0 0 - 4 3 7 1 0 2 0 6 -2
+p230
+aVAnthony Goldwire DEN 02/25/1997 DEN vs. TOR L 33 16 6 11 54.5 4 6 66.7 0 0 - 0 4 4 5 0 0 3 3 -6
+p231
+aVGeorge Zidek DEN 02/25/1997 DEN vs. TOR L 6 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 2 -1
+p232
+aVBryant Stith DEN 02/25/1997 DEN vs. TOR L 28 9 0 3 0.0 0 1 0.0 9 10 90.0 1 1 2 4 1 0 3 1 -8
+p233
+aVBrooks Thompson DEN 02/25/1997 DEN vs. TOR L 22 15 5 9 55.6 5 6 83.3 0 0 - 0 2 2 3 3 0 2 2 7
+p234
+aVDale Ellis DEN 02/25/1997 DEN vs. TOR L 35 12 5 9 55.6 2 5 40.0 0 1 0.0 0 0 0 3 1 1 0 3 4
+p235
+aVLaPhonso Ellis DEN 02/25/1997 DEN vs. TOR L 45 32 13 25 52.0 0 2 0.0 6 7 85.7 2 4 6 6 1 0 3 2 -4
+p236
+aVErvin Johnson DEN 02/25/1997 DEN vs. TOR L 37 12 6 6 100.0 0 0 - 0 0 - 3 8 11 3 2 2 5 4 -6
+p237
+aVTom Hammonds DEN 02/25/1997 DEN vs. TOR L 10 3 1 1 100.0 0 0 - 1 1 100.0 0 3 3 0 0 0 0 1 2
+p238
+aVJerome Allen DEN 02/25/1997 DEN vs. TOR L 23 6 2 7 28.6 0 2 0.0 2 2 100.0 1 1 2 4 2 0 1 3 6
+p239
+aVAntonio McDyess DEN 02/25/1997 DEN vs. TOR L 25 13 6 10 60.0 0 0 - 1 2 50.0 3 3 6 2 1 1 5 1 -4
+p240
+aVVincent Askew DEN 02/23/1997 DEN @ MIA L 9 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 4 0 -19
+p241
+aVBryant Stith DEN 02/23/1997 DEN @ MIA L 39 19 8 14 57.1 3 4 75.0 0 3 0.0 1 3 4 1 1 0 3 3 10
+p242
+aVAntonio McDyess DEN 02/23/1997 DEN @ MIA L 39 10 5 11 45.5 0 1 0.0 0 0 - 1 8 9 1 0 2 3 2 -8
+p243
+aVDale Ellis DEN 02/23/1997 DEN @ MIA L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 3 -19
+p244
+aVGeorge Zidek DEN 02/23/1997 DEN @ MIA L 5 3 0 1 0.0 0 0 - 3 4 75.0 2 0 2 0 0 0 0 2 -7
+p245
+aVTom Hammonds DEN 02/23/1997 DEN @ MIA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p246
+aVBrooks Thompson DEN 02/23/1997 DEN @ MIA L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -11
+p247
+aVLaPhonso Ellis DEN 02/23/1997 DEN @ MIA L 43 29 11 24 45.8 4 6 66.7 3 3 100.0 2 7 9 2 1 0 1 3 7
+p248
+aVJerome Allen DEN 02/23/1997 DEN @ MIA L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 -1
+p249
+aVAnthony Goldwire DEN 02/23/1997 DEN @ MIA L 37 8 3 9 33.3 1 2 50.0 1 1 100.0 1 2 3 10 1 0 1 2 3
+p250
+aVErvin Johnson DEN 02/23/1997 DEN @ MIA L 37 11 5 10 50.0 0 0 - 1 4 25.0 3 11 14 3 1 4 1 2 9
+p251
+aVTom Hammonds DEN 02/21/1997 DEN @ ORL L 15 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 1 1 2 3
+p252
+aVLaPhonso Ellis DEN 02/21/1997 DEN @ ORL L 38 24 9 18 50.0 1 5 20.0 5 5 100.0 4 7 11 3 0 0 2 4 -2
+p253
+aVDale Ellis DEN 02/21/1997 DEN @ ORL L 28 15 5 9 55.6 2 5 40.0 3 4 75.0 2 0 2 2 0 0 2 2 -6
+p254
+aVJerome Allen DEN 02/21/1997 DEN @ ORL L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 1 0 0 -9
+p255
+aVAnthony Goldwire DEN 02/21/1997 DEN @ ORL L 30 6 2 8 25.0 0 3 0.0 2 2 100.0 0 3 3 2 1 0 2 2 -2
+p256
+aVBryant Stith DEN 02/21/1997 DEN @ ORL L 44 23 7 13 53.8 3 6 50.0 6 6 100.0 1 5 6 4 1 0 5 2 -7
+p257
+aVAntonio McDyess DEN 02/21/1997 DEN @ ORL L 37 11 4 12 33.3 0 0 - 3 4 75.0 3 3 6 1 1 0 3 4 -20
+p258
+aVErvin Johnson DEN 02/21/1997 DEN @ ORL L 26 4 2 5 40.0 0 0 - 0 0 - 0 9 9 1 0 2 2 5 -14
+p259
+aVBrooks Thompson DEN 02/21/1997 DEN @ ORL L 17 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 4 0 -8
+p260
+aVAntonio McDyess DEN 02/20/1997 DEN @ IND L 41 17 7 15 46.7 0 0 - 3 7 42.9 2 7 9 0 1 3 3 4 -28
+p261
+aVLaPhonso Ellis DEN 02/20/1997 DEN @ IND L 39 18 6 18 33.3 0 5 0.0 6 8 75.0 2 7 9 1 0 2 2 4 -10
+p262
+aVKenny Smith DEN 02/20/1997 DEN @ IND L 24 2 0 6 0.0 0 4 0.0 2 3 66.7 0 2 2 5 0 0 1 1 -22
+p263
+aVErvin Johnson DEN 02/20/1997 DEN @ IND L 27 0 0 4 0.0 0 0 - 0 0 - 2 8 10 1 1 3 2 2 -22
+p264
+aVTom Hammonds DEN 02/20/1997 DEN @ IND L 21 4 1 3 33.3 0 0 - 2 2 100.0 5 6 11 1 0 0 0 3 -2
+p265
+aVDale Ellis DEN 02/20/1997 DEN @ IND L 25 2 0 9 0.0 0 6 0.0 2 4 50.0 0 1 1 0 1 0 0 2 -12
+p266
+aVBrooks Thompson DEN 02/20/1997 DEN @ IND L 27 14 6 14 42.9 2 8 25.0 0 0 - 0 2 2 8 1 0 4 2 -6
+p267
+aVBryant Stith DEN 02/20/1997 DEN @ IND L 36 11 4 10 40.0 0 2 0.0 3 4 75.0 3 5 8 2 0 0 5 4 -18
+p268
+aVBryant Stith DEN 02/18/1997 DEN @ CHI L 30 14 5 13 38.5 1 4 25.0 3 5 60.0 3 2 5 1 0 0 1 3 -14
+p269
+aVBrooks Thompson DEN 02/18/1997 DEN @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p270
+aVDale Ellis DEN 02/18/1997 DEN @ CHI L 26 27 9 11 81.8 4 6 66.7 5 5 100.0 2 1 3 2 2 0 0 3 8
+p271
+aVLaPhonso Ellis DEN 02/18/1997 DEN @ CHI L 32 13 3 11 27.3 0 2 0.0 7 8 87.5 0 4 4 4 2 0 1 0 -20
+p272
+aVMark Jackson DEN 02/18/1997 DEN @ CHI L 35 18 6 9 66.7 2 2 100.0 4 4 100.0 1 2 3 10 0 0 4 0 -17
+p273
+aVErvin Johnson DEN 02/18/1997 DEN @ CHI L 24 8 4 7 57.1 0 0 - 0 1 0.0 1 4 5 0 0 1 0 3 -14
+p274
+aVKenny Smith DEN 02/18/1997 DEN @ CHI L 10 9 4 5 80.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 8
+p275
+aVRicky Pierce DEN 02/18/1997 DEN @ CHI L 18 9 4 6 66.7 0 1 0.0 1 1 100.0 1 5 6 4 1 0 1 1 5
+p276
+aVTom Hammonds DEN 02/18/1997 DEN @ CHI L 19 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 0 1 5 4
+p277
+aVAntonio McDyess DEN 02/18/1997 DEN @ CHI L 43 25 9 14 64.3 0 0 - 7 9 77.8 4 3 7 2 0 0 6 4 -13
+p278
+aVErvin Johnson DEN 02/16/1997 DEN @ PHI W 44 9 3 4 75.0 0 0 - 3 4 75.0 3 12 15 1 0 4 1 3 18
+p279
+aVDale Ellis DEN 02/16/1997 DEN @ PHI W 24 8 2 11 18.2 2 7 28.6 2 2 100.0 2 1 3 1 1 0 0 2 -9
+p280
+aVAntonio McDyess DEN 02/16/1997 DEN @ PHI W 32 21 8 16 50.0 0 0 - 5 6 83.3 4 7 11 2 0 3 2 1 18
+p281
+aVBryant Stith DEN 02/16/1997 DEN @ PHI W 29 10 3 11 27.3 1 3 33.3 3 4 75.0 0 4 4 4 0 0 2 3 20
+p282
+aVLaPhonso Ellis DEN 02/16/1997 DEN @ PHI W 39 37 13 23 56.5 6 11 54.5 5 8 62.5 3 5 8 3 0 0 2 3 24
+p283
+aVTom Hammonds DEN 02/16/1997 DEN @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p284
+aVMark Jackson DEN 02/16/1997 DEN @ PHI W 42 14 4 10 40.0 1 1 100.0 5 8 62.5 2 4 6 14 0 0 3 1 16
+p285
+aVRicky Pierce DEN 02/16/1997 DEN @ PHI W 19 13 6 10 60.0 1 2 50.0 0 0 - 0 1 1 1 2 0 1 1 -5
+p286
+aVBrooks Thompson DEN 02/16/1997 DEN @ PHI W 7 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -4
+p287
+aVKenny Smith DEN 02/15/1997 DEN @ MIL L 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 0 -7
+p288
+aVBrooks Thompson DEN 02/15/1997 DEN @ MIL L 12 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 2 -1
+p289
+aVTom Hammonds DEN 02/15/1997 DEN @ MIL L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -8
+p290
+aVAntonio McDyess DEN 02/15/1997 DEN @ MIL L 32 14 6 15 40.0 0 1 0.0 2 2 100.0 1 8 9 2 2 1 0 3 6
+p291
+aVLaPhonso Ellis DEN 02/15/1997 DEN @ MIL L 44 22 9 19 47.4 0 4 0.0 4 6 66.7 1 5 6 2 1 1 7 6 -7
+p292
+aVDale Ellis DEN 02/15/1997 DEN @ MIL L 22 7 2 11 18.2 0 4 0.0 3 4 75.0 2 1 3 1 0 0 1 0 -8
+p293
+aVRicky Pierce DEN 02/15/1997 DEN @ MIL L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -6
+p294
+aVMark Jackson DEN 02/15/1997 DEN @ MIL L 32 7 3 7 42.9 0 1 0.0 1 2 50.0 1 2 3 14 1 0 6 1 1
+p295
+aVErvin Johnson DEN 02/15/1997 DEN @ MIL L 39 6 3 4 75.0 0 0 - 0 2 0.0 3 11 14 0 1 3 2 4 4
+p296
+aVBryant Stith DEN 02/15/1997 DEN @ MIL L 38 20 7 13 53.8 1 3 33.3 5 5 100.0 1 5 6 2 1 1 1 0 1
+p297
+aVMark Jackson DEN 02/13/1997 DEN vs. LAL L 23 7 2 7 28.6 1 2 50.0 2 2 100.0 2 1 3 6 1 0 1 2 -26
+p298
+aVLaPhonso Ellis DEN 02/13/1997 DEN vs. LAL L 34 15 4 14 28.6 1 3 33.3 6 9 66.7 3 5 8 2 1 1 3 2 -22
+p299
+aVDale Ellis DEN 02/13/1997 DEN vs. LAL L 16 5 1 7 14.3 1 3 33.3 2 3 66.7 0 3 3 0 0 0 0 1 -21
+p300
+aVRicky Pierce DEN 02/13/1997 DEN vs. LAL L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p301
+aVDarvin Ham DEN 02/13/1997 DEN vs. LAL L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 13
+p302
+aVKenny Smith DEN 02/13/1997 DEN vs. LAL L 12 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 3 1 0 0 0 12
+p303
+aVBryant Stith DEN 02/13/1997 DEN vs. LAL L 34 26 8 13 61.5 3 6 50.0 7 8 87.5 2 2 4 4 0 0 4 4 -20
+p304
+aVErvin Johnson DEN 02/13/1997 DEN vs. LAL L 13 3 1 1 100.0 0 0 - 1 2 50.0 2 5 7 0 0 2 2 5 -10
+p305
+aVTom Hammonds DEN 02/13/1997 DEN vs. LAL L 33 8 3 6 50.0 0 0 - 2 2 100.0 2 10 12 1 0 1 1 4 1
+p306
+aVBrooks Thompson DEN 02/13/1997 DEN vs. LAL L 23 21 8 13 61.5 5 7 71.4 0 0 - 0 2 2 4 2 1 4 1 14
+p307
+aVAntonio McDyess DEN 02/13/1997 DEN vs. LAL L 42 23 8 17 47.1 0 0 - 7 8 87.5 0 9 9 1 1 4 2 3 -6
+p308
+aVDale Ellis DEN 02/11/1997 DEN @ SEA L 24 19 6 11 54.5 2 3 66.7 5 5 100.0 2 4 6 1 0 0 1 2 -12
+p309
+aVRicky Pierce DEN 02/11/1997 DEN @ SEA L 18 10 3 9 33.3 0 1 0.0 4 4 100.0 0 0 0 1 0 0 3 0 -15
+p310
+aVAntonio McDyess DEN 02/11/1997 DEN @ SEA L 34 10 5 9 55.6 0 0 - 0 0 - 1 5 6 3 3 2 6 2 -16
+p311
+aVErvin Johnson DEN 02/11/1997 DEN @ SEA L 33 9 4 6 66.7 0 0 - 1 2 50.0 3 6 9 2 0 7 3 5 -20
+p312
+aVLaSalle Thompson DEN 02/11/1997 DEN @ SEA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -4
+p313
+aVDarvin Ham DEN 02/11/1997 DEN @ SEA L 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -2
+p314
+aVLaPhonso Ellis DEN 02/11/1997 DEN @ SEA L 28 10 4 9 44.4 0 3 0.0 2 2 100.0 1 0 1 2 0 0 1 4 -20
+p315
+aVBryant Stith DEN 02/11/1997 DEN @ SEA L 31 10 4 10 40.0 0 0 - 2 2 100.0 0 2 2 1 2 1 4 1 -12
+p316
+aVBrooks Thompson DEN 02/11/1997 DEN @ SEA L 11 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 3 1 0 0 0 2
+p317
+aVMark Jackson DEN 02/11/1997 DEN @ SEA L 34 7 3 5 60.0 1 2 50.0 0 0 - 0 4 4 4 2 0 5 1 -20
+p318
+aVKenny Smith DEN 02/11/1997 DEN @ SEA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -9
+p319
+aVTom Hammonds DEN 02/11/1997 DEN @ SEA L 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -7
+p320
+aVLaPhonso Ellis DEN 02/05/1997 DEN vs. WAS W 34 18 7 16 43.8 0 1 0.0 4 4 100.0 2 9 11 2 1 0 4 3 3
+p321
+aVDale Ellis DEN 02/05/1997 DEN vs. WAS W 33 23 8 14 57.1 4 9 44.4 3 3 100.0 0 2 2 2 3 0 2 2 3
+p322
+aVRicky Pierce DEN 02/05/1997 DEN vs. WAS W 30 23 9 14 64.3 1 2 50.0 4 4 100.0 1 0 1 0 2 0 1 1 7
+p323
+aVMark Jackson DEN 02/05/1997 DEN vs. WAS W 42 14 6 12 50.0 0 1 0.0 2 2 100.0 4 5 9 16 2 0 4 2 9
+p324
+aVBrooks Thompson DEN 02/05/1997 DEN vs. WAS W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -7
+p325
+aVKenny Smith DEN 02/05/1997 DEN vs. WAS W 18 9 4 7 57.1 1 4 25.0 0 0 - 0 1 1 0 0 0 2 1 -5
+p326
+aVAntonio McDyess DEN 02/05/1997 DEN vs. WAS W 34 6 2 12 16.7 0 0 - 2 2 100.0 2 7 9 1 2 0 4 1 -7
+p327
+aVTom Hammonds DEN 02/05/1997 DEN vs. WAS W 14 3 1 4 25.0 0 0 - 1 1 100.0 1 1 2 0 0 1 0 2 -3
+p328
+aVErvin Johnson DEN 02/05/1997 DEN vs. WAS W 29 10 3 6 50.0 0 0 - 4 6 66.7 2 6 8 3 1 5 0 3 10
+p329
+aVKenny Smith DEN 02/02/1997 DEN vs. ATL W 25 13 5 8 62.5 3 6 50.0 0 0 - 0 1 1 1 1 0 0 0 6
+p330
+aVBrooks Thompson DEN 02/02/1997 DEN vs. ATL W 15 11 4 6 66.7 3 4 75.0 0 0 - 0 0 0 4 0 0 0 2 1
+p331
+aVAntonio McDyess DEN 02/02/1997 DEN vs. ATL W 29 16 7 15 46.7 0 0 - 2 4 50.0 3 4 7 2 1 1 3 5 2
+p332
+aVDale Ellis DEN 02/02/1997 DEN vs. ATL W 35 21 8 15 53.3 2 7 28.6 3 5 60.0 2 3 5 3 0 0 1 4 9
+p333
+aVTom Hammonds DEN 02/02/1997 DEN vs. ATL W 16 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 0 0 2 2 6
+p334
+aVRicky Pierce DEN 02/02/1997 DEN vs. ATL W 21 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 1 2 10
+p335
+aVErvin Johnson DEN 02/02/1997 DEN vs. ATL W 25 10 4 8 50.0 0 0 - 2 2 100.0 3 6 9 2 0 2 0 2 3
+p336
+aVLaPhonso Ellis DEN 02/02/1997 DEN vs. ATL W 37 15 6 19 31.6 2 4 50.0 1 1 100.0 3 13 16 2 2 0 0 1 12
+p337
+aVMark Jackson DEN 02/02/1997 DEN vs. ATL W 36 17 5 9 55.6 1 2 50.0 6 6 100.0 2 2 4 14 0 0 4 1 7
+p338
+aVDarvin Ham DEN 02/02/1997 DEN vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -1
+p339
+aVLaPhonso Ellis DEN 02/01/1997 DEN vs. SAC L 41 27 11 24 45.8 3 6 50.0 2 3 66.7 2 5 7 1 2 0 1 5 -5
+p340
+aVDale Ellis DEN 02/01/1997 DEN vs. SAC L 34 16 3 13 23.1 2 7 28.6 8 8 100.0 1 2 3 0 1 0 1 0 -12
+p341
+aVMark Jackson DEN 02/01/1997 DEN vs. SAC L 44 5 1 6 16.7 0 2 0.0 3 4 75.0 1 5 6 16 0 1 0 3 -4
+p342
+aVBrooks Thompson DEN 02/01/1997 DEN vs. SAC L 25 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 1 1 0 1 5 -7
+p343
+aVErvin Johnson DEN 02/01/1997 DEN vs. SAC L 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 8
+p344
+aVTom Hammonds DEN 02/01/1997 DEN vs. SAC L 28 9 4 5 80.0 0 0 - 1 4 25.0 2 2 4 0 0 1 1 2 -11
+p345
+aVAntonio McDyess DEN 02/01/1997 DEN vs. SAC L 27 23 8 17 47.1 0 0 - 7 8 87.5 3 2 5 0 0 3 2 3 -2
+p346
+aVRicky Pierce DEN 02/01/1997 DEN vs. SAC L 26 23 7 10 70.0 0 1 0.0 9 9 100.0 1 2 3 1 1 1 2 5 3
+p347
+aVRicky Pierce DEN 01/30/1997 DEN @ HOU W 31 25 11 18 61.1 2 5 40.0 1 2 50.0 0 5 5 2 1 0 1 0 11
+p348
+aVDarvin Ham DEN 01/30/1997 DEN @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p349
+aVBrooks Thompson DEN 01/30/1997 DEN @ HOU W 6 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p350
+aVDale Ellis DEN 01/30/1997 DEN @ HOU W 31 20 8 12 66.7 4 6 66.7 0 1 0.0 1 3 4 0 0 1 0 0 11
+p351
+aVAntonio McDyess DEN 01/30/1997 DEN @ HOU W 29 12 4 13 30.8 0 0 - 4 4 100.0 6 1 7 6 1 2 3 4 -5
+p352
+aVLaPhonso Ellis DEN 01/30/1997 DEN @ HOU W 37 23 8 15 53.3 1 4 25.0 6 6 100.0 1 2 3 3 1 4 3 3 7
+p353
+aVMark Jackson DEN 01/30/1997 DEN @ HOU W 40 8 4 10 40.0 0 4 0.0 0 0 - 2 7 9 17 1 0 4 0 1
+p354
+aVKenny Smith DEN 01/30/1997 DEN @ HOU W 18 8 3 9 33.3 2 3 66.7 0 0 - 0 3 3 1 1 0 0 0 -5
+p355
+aVTom Hammonds DEN 01/30/1997 DEN @ HOU W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p356
+aVErvin Johnson DEN 01/30/1997 DEN @ HOU W 34 11 5 5 100.0 0 0 - 1 2 50.0 3 12 15 0 0 7 1 3 8
+p357
+aVRicky Pierce DEN 01/28/1997 DEN @ UTA L 20 15 5 10 50.0 0 1 0.0 5 5 100.0 1 0 1 1 0 0 2 2 7
+p358
+aVAntonio McDyess DEN 01/28/1997 DEN @ UTA L 27 14 5 12 41.7 0 2 0.0 4 6 66.7 1 4 5 1 2 1 3 6 -11
+p359
+aVTom Hammonds DEN 01/28/1997 DEN @ UTA L 12 0 0 3 0.0 0 0 - 0 0 - 2 3 5 1 0 0 1 5 -1
+p360
+aVDale Ellis DEN 01/28/1997 DEN @ UTA L 32 15 5 9 55.6 2 4 50.0 3 3 100.0 1 1 2 0 0 0 1 1 -9
+p361
+aVMark Jackson DEN 01/28/1997 DEN @ UTA L 46 20 6 10 60.0 0 1 0.0 8 9 88.9 3 7 10 12 0 0 3 5 -19
+p362
+aVLaPhonso Ellis DEN 01/28/1997 DEN @ UTA L 41 23 9 26 34.6 3 7 42.9 2 4 50.0 0 5 5 1 2 1 2 5 -18
+p363
+aVErvin Johnson DEN 01/28/1997 DEN @ UTA L 31 4 2 6 33.3 0 0 - 0 2 0.0 3 4 7 0 2 5 1 1 -6
+p364
+aVDarvin Ham DEN 01/28/1997 DEN @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p365
+aVKenny Smith DEN 01/28/1997 DEN @ UTA L 30 8 3 8 37.5 2 6 33.3 0 0 - 1 1 2 2 1 0 5 1 -18
+p366
+aVAntonio McDyess DEN 01/25/1997 DEN @ VAN W 38 13 4 12 33.3 0 0 - 5 8 62.5 0 10 10 2 1 0 3 5 -1
+p367
+aVMark Jackson DEN 01/25/1997 DEN @ VAN W 40 13 6 8 75.0 1 2 50.0 0 1 0.0 3 5 8 10 0 0 5 1 -3
+p368
+aVTom Hammonds DEN 01/25/1997 DEN @ VAN W 18 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 2 2 -1
+p369
+aVRicky Pierce DEN 01/25/1997 DEN @ VAN W 28 12 4 8 50.0 1 2 50.0 3 4 75.0 0 4 4 2 0 0 1 3 7
+p370
+aVErvin Johnson DEN 01/25/1997 DEN @ VAN W 29 6 3 9 33.3 0 0 - 0 1 0.0 4 7 11 0 0 2 1 3 0
+p371
+aVDale Ellis DEN 01/25/1997 DEN @ VAN W 23 10 3 11 27.3 2 7 28.6 2 2 100.0 3 1 4 1 0 0 4 2 -4
+p372
+aVLaPhonso Ellis DEN 01/25/1997 DEN @ VAN W 36 18 8 19 42.1 0 4 0.0 2 2 100.0 4 4 8 2 0 0 1 3 9
+p373
+aVKenny Smith DEN 01/25/1997 DEN @ VAN W 28 9 3 6 50.0 2 5 40.0 1 2 50.0 0 1 1 3 1 0 3 1 -2
+p374
+aVBryant Stith DEN 01/24/1997 DEN @ LAC L 28 10 4 10 40.0 1 4 25.0 1 2 50.0 2 0 2 3 1 0 3 4 -11
+p375
+aVErvin Johnson DEN 01/24/1997 DEN @ LAC L 30 4 2 3 66.7 0 0 - 0 0 - 4 6 10 0 0 0 3 2 -16
+p376
+aVDale Ellis DEN 01/24/1997 DEN @ LAC L 28 27 10 18 55.6 5 12 41.7 2 2 100.0 0 2 2 0 0 0 0 4 1
+p377
+aVKenny Smith DEN 01/24/1997 DEN @ LAC L 15 7 2 4 50.0 1 3 33.3 2 2 100.0 0 1 1 3 0 0 2 1 9
+p378
+aVMark Jackson DEN 01/24/1997 DEN @ LAC L 38 14 4 9 44.4 2 3 66.7 4 4 100.0 1 2 3 9 2 0 3 1 -7
+p379
+aVTom Hammonds DEN 01/24/1997 DEN @ LAC L 25 2 0 2 0.0 0 0 - 2 2 100.0 3 7 10 1 3 0 2 3 11
+p380
+aVAntonio McDyess DEN 01/24/1997 DEN @ LAC L 31 18 5 11 45.5 0 0 - 8 13 61.5 1 3 4 0 1 1 3 3 5
+p381
+aVRicky Pierce DEN 01/24/1997 DEN @ LAC L 15 6 1 4 25.0 0 1 0.0 4 4 100.0 0 2 2 0 0 0 1 4 3
+p382
+aVLaPhonso Ellis DEN 01/24/1997 DEN @ LAC L 30 23 9 19 47.4 2 8 25.0 3 3 100.0 2 4 6 2 1 0 1 5 -10
+p383
+aVAntonio McDyess DEN 01/22/1997 DEN vs. VAN W 35 20 9 23 39.1 0 0 - 2 4 50.0 6 5 11 3 0 2 2 3 6
+p384
+aVLaPhonso Ellis DEN 01/22/1997 DEN vs. VAN W 34 22 8 20 40.0 3 7 42.9 3 4 75.0 2 4 6 2 1 1 2 2 16
+p385
+aVErvin Johnson DEN 01/22/1997 DEN vs. VAN W 35 6 3 6 50.0 0 0 - 0 0 - 3 7 10 0 2 6 1 3 8
+p386
+aVDale Ellis DEN 01/22/1997 DEN vs. VAN W 26 14 7 15 46.7 0 4 0.0 0 0 - 2 2 4 2 2 0 1 4 4
+p387
+aVTom Hammonds DEN 01/22/1997 DEN vs. VAN W 11 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 3 -9
+p388
+aVBryant Stith DEN 01/22/1997 DEN vs. VAN W 36 5 2 8 25.0 1 2 50.0 0 0 - 2 0 2 4 3 0 1 1 15
+p389
+aVBrooks Thompson DEN 01/22/1997 DEN vs. VAN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p390
+aVRicky Pierce DEN 01/22/1997 DEN vs. VAN W 12 10 4 9 44.4 1 2 50.0 1 1 100.0 0 1 1 0 0 0 1 0 -5
+p391
+aVMark Jackson DEN 01/22/1997 DEN vs. VAN W 44 15 7 15 46.7 1 3 33.3 0 0 - 6 10 16 12 3 0 3 1 14
+p392
+aVDarvin Ham DEN 01/22/1997 DEN vs. VAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p393
+aVErvin Johnson DEN 01/20/1997 DEN vs. NJN W 32 8 4 6 66.7 0 0 - 0 0 - 1 9 10 4 1 3 1 2 16
+p394
+aVMark Jackson DEN 01/20/1997 DEN vs. NJN W 40 21 6 10 60.0 2 4 50.0 7 8 87.5 1 6 7 22 0 0 2 3 13
+p395
+aVTom Hammonds DEN 01/20/1997 DEN vs. NJN W 16 3 1 2 50.0 0 0 - 1 1 100.0 0 3 3 2 0 0 0 5 -7
+p396
+aVBryant Stith DEN 01/20/1997 DEN vs. NJN W 34 12 4 7 57.1 0 2 0.0 4 4 100.0 2 3 5 4 2 1 3 3 11
+p397
+aVDarvin Ham DEN 01/20/1997 DEN vs. NJN W 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -2
+p398
+aVDale Ellis DEN 01/20/1997 DEN vs. NJN W 25 9 3 11 27.3 1 3 33.3 2 3 66.7 1 2 3 1 1 0 1 2 -9
+p399
+aVLaPhonso Ellis DEN 01/20/1997 DEN vs. NJN W 38 36 14 18 77.8 5 7 71.4 3 3 100.0 0 4 4 3 1 0 2 4 14
+p400
+aVBrooks Thompson DEN 01/20/1997 DEN vs. NJN W 8 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 2 1 0 0 1 -4
+p401
+aVAntonio McDyess DEN 01/20/1997 DEN vs. NJN W 25 29 12 20 60.0 0 0 - 5 7 71.4 0 3 3 2 1 3 0 1 15
+p402
+aVRicky Pierce DEN 01/20/1997 DEN vs. NJN W 14 11 4 10 40.0 1 1 100.0 2 2 100.0 2 0 2 1 0 1 1 3 -2
+p403
+aVBryant Stith DEN 01/18/1997 DEN vs. DAL L 29 12 3 8 37.5 2 3 66.7 4 4 100.0 1 4 5 3 2 0 1 2 4
+p404
+aVMark Jackson DEN 01/18/1997 DEN vs. DAL L 43 13 4 14 28.6 2 7 28.6 3 3 100.0 1 3 4 11 1 0 3 2 -3
+p405
+aVDarvin Ham DEN 01/18/1997 DEN vs. DAL L 15 2 1 5 20.0 0 0 - 0 0 - 4 2 6 0 0 0 2 2 -9
+p406
+aVDale Ellis DEN 01/18/1997 DEN vs. DAL L 38 24 9 18 50.0 6 9 66.7 0 2 0.0 1 0 1 2 1 0 2 2 6
+p407
+aVTom Hammonds DEN 01/18/1997 DEN vs. DAL L 23 2 1 3 33.3 0 0 - 0 1 0.0 2 5 7 0 0 0 2 4 5
+p408
+aVLaPhonso Ellis DEN 01/18/1997 DEN vs. DAL L 37 18 6 15 40.0 0 4 0.0 6 8 75.0 2 5 7 6 0 0 4 2 -4
+p409
+aVRicky Pierce DEN 01/18/1997 DEN vs. DAL L 19 10 4 9 44.4 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -7
+p410
+aVErvin Johnson DEN 01/18/1997 DEN vs. DAL L 30 18 7 11 63.6 0 0 - 4 6 66.7 10 7 17 0 1 3 1 3 -7
+p411
+aVBrooks Thompson DEN 01/18/1997 DEN vs. DAL L 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 0 0
+p412
+aVElmer Bennett DEN 01/16/1997 DEN vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p413
+aVBrooks Thompson DEN 01/16/1997 DEN vs. CLE W 7 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p414
+aVDarvin Ham DEN 01/16/1997 DEN vs. CLE W 38 10 5 8 62.5 0 0 - 0 0 - 2 3 5 1 1 0 1 5 10
+p415
+aVErvin Johnson DEN 01/16/1997 DEN vs. CLE W 43 4 2 5 40.0 0 0 - 0 0 - 2 6 8 0 0 4 2 3 0
+p416
+aVMark Jackson DEN 01/16/1997 DEN vs. CLE W 46 7 3 7 42.9 1 2 50.0 0 0 - 1 5 6 13 2 1 6 1 8
+p417
+aVLaPhonso Ellis DEN 01/16/1997 DEN vs. CLE W 41 27 12 24 50.0 2 8 25.0 1 1 100.0 1 4 5 1 0 0 2 3 10
+p418
+aVTom Hammonds DEN 01/16/1997 DEN vs. CLE W 17 4 2 4 50.0 0 0 - 0 0 - 3 6 9 2 0 1 1 2 -5
+p419
+aVBryant Stith DEN 01/16/1997 DEN vs. CLE W 37 20 7 15 46.7 3 5 60.0 3 4 75.0 2 3 5 2 1 1 2 0 -1
+p420
+aVDale Ellis DEN 01/16/1997 DEN vs. CLE W 20 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 0 0 0 2 1 -14
+p421
+aVRicky Pierce DEN 01/16/1997 DEN vs. CLE W 14 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 4
+p422
+aVDarvin Ham DEN 01/14/1997 DEN @ PHX L 25 10 3 5 60.0 0 0 - 4 4 100.0 5 1 6 0 1 1 2 2 0
+p423
+aVElmer Bennett DEN 01/14/1997 DEN @ PHX L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p424
+aVRicky Pierce DEN 01/14/1997 DEN @ PHX L 17 7 3 10 30.0 1 2 50.0 0 0 - 0 0 0 0 2 0 0 1 5
+p425
+aVDale Ellis DEN 01/14/1997 DEN @ PHX L 30 24 8 15 53.3 4 8 50.0 4 5 80.0 0 3 3 2 1 0 2 2 -13
+p426
+aVTom Hammonds DEN 01/14/1997 DEN @ PHX L 17 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 4 0 0 2 1 1
+p427
+aVMark Jackson DEN 01/14/1997 DEN @ PHX L 41 11 5 15 33.3 1 6 16.7 0 0 - 1 3 4 16 0 0 2 4 -10
+p428
+aVErvin Johnson DEN 01/14/1997 DEN @ PHX L 35 5 2 4 50.0 0 0 - 1 2 50.0 2 13 15 1 1 3 2 4 -9
+p429
+aVLaPhonso Ellis DEN 01/14/1997 DEN @ PHX L 36 33 14 27 51.9 4 10 40.0 1 1 100.0 1 5 6 2 1 0 2 6 -4
+p430
+aVBryant Stith DEN 01/14/1997 DEN @ PHX L 31 10 4 11 36.4 1 2 50.0 1 2 50.0 1 1 2 2 0 1 3 1 -14
+p431
+aVErvin Johnson DEN 01/13/1997 DEN vs. CHH L 45 6 3 4 75.0 0 0 - 0 2 0.0 3 10 13 1 0 0 2 3 10
+p432
+aVRicky Pierce DEN 01/13/1997 DEN vs. CHH L 16 14 6 12 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 -9
+p433
+aVTom Hammonds DEN 01/13/1997 DEN vs. CHH L 15 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 3 -7
+p434
+aVDale Ellis DEN 01/13/1997 DEN vs. CHH L 41 13 5 17 29.4 2 8 25.0 1 1 100.0 0 3 3 1 1 0 1 3 3
+p435
+aVDarvin Ham DEN 01/13/1997 DEN vs. CHH L 19 8 4 4 100.0 0 0 - 0 0 - 2 1 3 4 0 2 0 1 -13
+p436
+aVLaPhonso Ellis DEN 01/13/1997 DEN vs. CHH L 38 23 8 18 44.4 2 5 40.0 5 5 100.0 3 8 11 4 1 0 1 6 5
+p437
+aVLaSalle Thompson DEN 01/13/1997 DEN vs. CHH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p438
+aVBryant Stith DEN 01/13/1997 DEN vs. CHH L 37 22 8 21 38.1 4 6 66.7 2 2 100.0 2 1 3 2 0 0 2 2 7
+p439
+aVMark Jackson DEN 01/13/1997 DEN vs. CHH L 51 13 6 10 60.0 1 1 100.0 0 0 - 0 4 4 18 0 1 3 2 2
+p440
+aVBrooks Thompson DEN 01/13/1997 DEN vs. CHH L 2 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -4
+p441
+aVLaPhonso Ellis DEN 01/11/1997 DEN @ DAL L 36 28 11 19 57.9 1 2 50.0 5 7 71.4 2 4 6 2 1 0 1 6 -2
+p442
+aVMark Jackson DEN 01/11/1997 DEN @ DAL L 41 2 1 7 14.3 0 3 0.0 0 0 - 1 4 5 12 3 0 4 3 -1
+p443
+aVErvin Johnson DEN 01/11/1997 DEN @ DAL L 22 7 1 4 25.0 0 0 - 5 6 83.3 3 2 5 0 2 2 3 4 -2
+p444
+aVBrooks Thompson DEN 01/11/1997 DEN @ DAL L 7 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 1 2 -4
+p445
+aVBryant Stith DEN 01/11/1997 DEN @ DAL L 31 11 5 14 35.7 0 4 0.0 1 2 50.0 1 2 3 3 2 0 0 1 -8
+p446
+aVDarvin Ham DEN 01/11/1997 DEN @ DAL L 12 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 1 0 0 0 5 -3
+p447
+aVTom Hammonds DEN 01/11/1997 DEN @ DAL L 29 5 1 6 16.7 0 0 - 3 4 75.0 3 3 6 3 0 0 1 3 -4
+p448
+aVDale Ellis DEN 01/11/1997 DEN @ DAL L 43 18 7 13 53.8 2 6 33.3 2 2 100.0 2 4 6 1 1 0 1 3 4
+p449
+aVRicky Pierce DEN 01/11/1997 DEN @ DAL L 20 18 4 10 40.0 1 2 50.0 9 10 90.0 2 2 4 1 0 0 1 0 -5
+p450
+aVDarvin Ham DEN 01/10/1997 DEN vs. IND L 20 13 4 7 57.1 0 0 - 5 9 55.6 1 3 4 0 2 1 0 2 -3
+p451
+aVErvin Johnson DEN 01/10/1997 DEN vs. IND L 25 11 5 11 45.5 0 0 - 1 3 33.3 6 5 11 0 2 4 1 4 -8
+p452
+aVTom Hammonds DEN 01/10/1997 DEN vs. IND L 21 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 1 0 0 1 1 -20
+p453
+aVRicky Pierce DEN 01/10/1997 DEN vs. IND L 24 10 4 10 40.0 0 1 0.0 2 4 50.0 0 2 2 0 0 1 0 1 -6
+p454
+aVDale Ellis DEN 01/10/1997 DEN vs. IND L 30 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 1 -22
+p455
+aVElmer Bennett DEN 01/10/1997 DEN vs. IND L 21 5 2 6 33.3 0 1 0.0 1 2 50.0 0 2 2 6 1 0 6 1 0
+p456
+aVLaPhonso Ellis DEN 01/10/1997 DEN vs. IND L 27 14 5 18 27.8 2 5 40.0 2 2 100.0 2 6 8 0 2 1 3 4 -15
+p457
+aVBryant Stith DEN 01/10/1997 DEN vs. IND L 24 12 4 10 40.0 1 4 25.0 3 4 75.0 2 2 4 3 1 0 1 0 -13
+p458
+aVBrooks Thompson DEN 01/10/1997 DEN vs. IND L 12 12 4 9 44.4 4 8 50.0 0 0 - 0 0 0 3 1 0 0 3 4
+p459
+aVLaSalle Thompson DEN 01/10/1997 DEN vs. IND L 9 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 7
+p460
+aVMark Jackson DEN 01/10/1997 DEN vs. IND L 27 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 9 1 0 1 0 -19
+p461
+aVTom Hammonds DEN 01/08/1997 DEN vs. SEA L 19 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 1 0 1 0 2 -2
+p462
+aVRicky Pierce DEN 01/08/1997 DEN vs. SEA L 31 15 5 14 35.7 1 4 25.0 4 4 100.0 1 1 2 0 0 0 3 4 -11
+p463
+aVErvin Johnson DEN 01/08/1997 DEN vs. SEA L 43 14 6 11 54.5 0 0 - 2 2 100.0 3 10 13 1 1 4 1 3 1
+p464
+aVDale Ellis DEN 01/08/1997 DEN vs. SEA L 41 26 9 16 56.3 4 7 57.1 4 5 80.0 0 2 2 3 0 1 2 1 -16
+p465
+aVDarvin Ham DEN 01/08/1997 DEN vs. SEA L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 3
+p466
+aVMark Jackson DEN 01/08/1997 DEN vs. SEA L 44 12 4 13 30.8 0 2 0.0 4 5 80.0 0 8 8 15 2 0 1 1 -9
+p467
+aVLaPhonso Ellis DEN 01/08/1997 DEN vs. SEA L 37 23 5 15 33.3 1 4 25.0 12 12 100.0 4 8 12 4 0 2 3 5 -16
+p468
+aVBrooks Thompson DEN 01/08/1997 DEN vs. SEA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p469
+aVElmer Bennett DEN 01/08/1997 DEN vs. SEA L 17 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 0 1 0 1 1 2
+p470
+aVRicky Pierce DEN 01/07/1997 DEN @ SAC W 26 6 3 9 33.3 0 3 0.0 0 0 - 0 0 0 2 0 1 2 3 -8
+p471
+aVTom Hammonds DEN 01/07/1997 DEN @ SAC W 17 9 3 5 60.0 0 0 - 3 6 50.0 0 5 5 1 0 0 1 2 6
+p472
+aVErvin Johnson DEN 01/07/1997 DEN @ SAC W 41 5 2 6 33.3 0 0 - 1 2 50.0 3 13 16 2 0 3 1 2 21
+p473
+aVLaPhonso Ellis DEN 01/07/1997 DEN @ SAC W 31 33 14 21 66.7 4 6 66.7 1 2 50.0 1 5 6 2 1 2 1 2 18
+p474
+aVMark Jackson DEN 01/07/1997 DEN @ SAC W 39 22 9 12 75.0 3 5 60.0 1 1 100.0 3 3 6 12 0 0 3 1 26
+p475
+aVElmer Bennett DEN 01/07/1997 DEN @ SAC W 12 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 2 -12
+p476
+aVBrooks Thompson DEN 01/07/1997 DEN @ SAC W 23 5 2 9 22.2 1 3 33.3 0 2 0.0 0 1 1 2 1 0 1 3 10
+p477
+aVDarvin Ham DEN 01/07/1997 DEN @ SAC W 16 2 1 2 50.0 0 0 - 0 0 - 3 2 5 2 0 1 1 2 6
+p478
+aVLaSalle Thompson DEN 01/07/1997 DEN @ SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -11
+p479
+aVDale Ellis DEN 01/07/1997 DEN @ SAC W 32 21 8 12 66.7 3 4 75.0 2 2 100.0 1 3 4 3 0 0 3 0 9
+p480
+aVTom Hammonds DEN 01/03/1997 DEN vs. SAS L 15 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -10
+p481
+aVAntonio McDyess DEN 01/03/1997 DEN vs. SAS L 11 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -3
+p482
+aVBrooks Thompson DEN 01/03/1997 DEN vs. SAS L 24 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 3 2 0 3 3 -6
+p483
+aVLaPhonso Ellis DEN 01/03/1997 DEN vs. SAS L 34 30 12 22 54.5 3 5 60.0 3 6 50.0 1 4 5 1 2 4 2 4 7
+p484
+aVErvin Johnson DEN 01/03/1997 DEN vs. SAS L 48 10 5 14 35.7 0 1 0.0 0 4 0.0 7 12 19 2 1 8 1 4 -2
+p485
+aVMark Jackson DEN 01/03/1997 DEN vs. SAS L 44 11 5 11 45.5 1 3 33.3 0 0 - 2 5 7 17 0 0 1 3 2
+p486
+aVDale Ellis DEN 01/03/1997 DEN vs. SAS L 39 20 8 15 53.3 2 5 40.0 2 3 66.7 1 1 2 1 0 0 3 1 -2
+p487
+aVRicky Pierce DEN 01/03/1997 DEN vs. SAS L 25 9 3 7 42.9 0 0 - 3 4 75.0 2 2 4 1 2 0 2 3 4
+p488
+aVLaPhonso Ellis DEN 12/30/1996 DEN vs. BOS L 32 19 7 13 53.8 2 2 100.0 3 3 100.0 0 7 7 1 1 0 1 3 -12
+p489
+aVAntonio McDyess DEN 12/30/1996 DEN vs. BOS L 32 19 7 18 38.9 0 0 - 5 8 62.5 3 5 8 0 0 0 1 4 -8
+p490
+aVDale Ellis DEN 12/30/1996 DEN vs. BOS L 29 16 6 13 46.2 1 5 20.0 3 3 100.0 1 1 2 3 1 0 1 2 11
+p491
+aVMark Jackson DEN 12/30/1996 DEN vs. BOS L 46 6 3 11 27.3 0 1 0.0 0 0 - 3 2 5 12 1 0 4 2 -2
+p492
+aVBrooks Thompson DEN 12/30/1996 DEN vs. BOS L 9 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 4 3 0 0 3 3
+p493
+aVTom Hammonds DEN 12/30/1996 DEN vs. BOS L 18 8 4 6 66.7 0 0 - 0 0 - 1 2 3 1 0 1 2 2 -1
+p494
+aVRicky Pierce DEN 12/30/1996 DEN vs. BOS L 33 21 8 13 61.5 0 0 - 5 5 100.0 0 2 2 4 0 1 1 1 -3
+p495
+aVErvin Johnson DEN 12/30/1996 DEN vs. BOS L 41 8 3 6 50.0 0 0 - 2 2 100.0 3 13 16 2 0 3 2 6 2
+p496
+aVErvin Johnson DEN 12/28/1996 DEN @ MIN L 46 6 2 6 33.3 0 0 - 2 4 50.0 3 9 12 1 1 7 0 4 -2
+p497
+aVAntonio McDyess DEN 12/28/1996 DEN @ MIN L 42 23 10 21 47.6 0 1 0.0 3 8 37.5 0 5 5 1 3 2 6 5 -7
+p498
+aVMark Jackson DEN 12/28/1996 DEN @ MIN L 51 14 5 8 62.5 2 3 66.7 2 5 40.0 1 6 7 11 3 0 6 2 -10
+p499
+aVRicky Pierce DEN 12/28/1996 DEN @ MIN L 21 14 4 9 44.4 0 0 - 6 8 75.0 4 1 5 1 0 0 3 2 -1
+p500
+aVLaPhonso Ellis DEN 12/28/1996 DEN @ MIN L 38 21 6 17 35.3 2 4 50.0 7 8 87.5 2 3 5 0 0 2 1 6 -5
+p501
+aVTom Hammonds DEN 12/28/1996 DEN @ MIN L 5 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 2 -8
+p502
+aVBryant Stith DEN 12/28/1996 DEN @ MIN L 32 7 2 7 28.6 1 4 25.0 2 2 100.0 2 2 4 5 2 0 2 0 -5
+p503
+aVBrooks Thompson DEN 12/28/1996 DEN @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p504
+aVDale Ellis DEN 12/28/1996 DEN @ MIN L 27 9 2 8 25.0 0 2 0.0 5 5 100.0 2 1 3 1 1 0 2 1 0
+p505
+aVMark Jackson DEN 12/26/1996 DEN vs. PHI L 35 10 5 11 45.5 0 0 - 0 0 - 4 0 4 13 1 1 0 3 -26
+p506
+aVBryant Stith DEN 12/26/1996 DEN vs. PHI L 31 13 3 11 27.3 0 3 0.0 7 8 87.5 0 1 1 1 1 0 2 3 -19
+p507
+aVLaPhonso Ellis DEN 12/26/1996 DEN vs. PHI L 25 12 5 10 50.0 0 2 0.0 2 2 100.0 1 8 9 3 0 0 1 5 -11
+p508
+aVAaron Williams DEN 12/26/1996 DEN vs. PHI L 10 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 3 4 0 -1
+p509
+aVErvin Johnson DEN 12/26/1996 DEN vs. PHI L 26 5 2 7 28.6 0 0 - 1 1 100.0 2 6 8 2 1 6 2 1 -19
+p510
+aVMelvin Booker DEN 12/26/1996 DEN vs. PHI L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 7 0 0
+p511
+aVDale Ellis DEN 12/26/1996 DEN vs. PHI L 32 15 6 17 35.3 1 5 20.0 2 2 100.0 2 2 4 3 1 0 0 2 -20
+p512
+aVBrooks Thompson DEN 12/26/1996 DEN vs. PHI L 12 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 1 0 0 0 1 -9
+p513
+aVDarvin Ham DEN 12/26/1996 DEN vs. PHI L 8 0 0 0 - 0 0 - 0 2 0.0 1 1 2 1 0 0 1 0 -2
+p514
+aVAntonio McDyess DEN 12/26/1996 DEN vs. PHI L 30 11 4 13 30.8 0 0 - 3 4 75.0 2 7 9 0 1 1 5 4 -29
+p515
+aVTom Hammonds DEN 12/26/1996 DEN vs. PHI L 19 12 4 5 80.0 0 0 - 4 4 100.0 1 4 5 1 0 1 1 1 -6
+p516
+aVErvin Johnson DEN 12/23/1996 DEN @ PHX W 39 8 3 3 100.0 0 0 - 2 4 50.0 1 13 14 1 0 3 0 5 5
+p517
+aVBrooks Thompson DEN 12/23/1996 DEN @ PHX W 8 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 0 0 0 0 2 4
+p518
+aVLaSalle Thompson DEN 12/23/1996 DEN @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p519
+aVMelvin Booker DEN 12/23/1996 DEN @ PHX W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p520
+aVBryant Stith DEN 12/23/1996 DEN @ PHX W 48 36 12 21 57.1 8 12 66.7 4 4 100.0 0 4 4 4 2 0 3 1 -3
+p521
+aVTom Hammonds DEN 12/23/1996 DEN @ PHX W 25 3 1 5 20.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 1 -5
+p522
+aVMark Jackson DEN 12/23/1996 DEN @ PHX W 48 14 6 15 40.0 0 1 0.0 2 2 100.0 1 7 8 17 3 1 5 4 -1
+p523
+aVAntonio McDyess DEN 12/23/1996 DEN @ PHX W 40 22 10 20 50.0 0 0 - 2 4 50.0 1 5 6 0 0 3 2 5 7
+p524
+aVDale Ellis DEN 12/23/1996 DEN @ PHX W 50 24 10 23 43.5 2 8 25.0 2 3 66.7 1 6 7 5 1 0 5 1 5
+p525
+aVDale Ellis DEN 12/20/1996 DEN vs. VAN W 44 24 9 21 42.9 4 7 57.1 2 2 100.0 1 4 5 1 0 0 1 3 23
+p526
+aVErvin Johnson DEN 12/20/1996 DEN vs. VAN W 48 19 7 14 50.0 0 0 - 5 7 71.4 8 12 20 2 2 5 1 2 15
+p527
+aVMelvin Booker DEN 12/20/1996 DEN vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p528
+aVDarvin Ham DEN 12/20/1996 DEN vs. VAN W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p529
+aVMark Jackson DEN 12/20/1996 DEN vs. VAN W 43 16 5 10 50.0 2 4 50.0 4 4 100.0 1 4 5 17 0 0 3 5 14
+p530
+aVAntonio McDyess DEN 12/20/1996 DEN vs. VAN W 22 10 4 9 44.4 0 0 - 2 2 100.0 0 3 3 4 0 1 2 2 12
+p531
+aVBryant Stith DEN 12/20/1996 DEN vs. VAN W 41 29 9 15 60.0 5 7 71.4 6 8 75.0 1 1 2 1 1 0 1 4 23
+p532
+aVBrooks Thompson DEN 12/20/1996 DEN vs. VAN W 11 0 0 6 0.0 0 4 0.0 0 0 - 1 0 1 2 0 0 0 1 -7
+p533
+aVTom Hammonds DEN 12/20/1996 DEN vs. VAN W 29 8 4 8 50.0 0 0 - 0 1 0.0 2 3 5 2 0 1 0 3 -5
+p534
+aVAntonio McDyess DEN 12/18/1996 DEN vs. SAC W 29 17 8 15 53.3 0 1 0.0 1 5 20.0 1 3 4 2 0 3 2 3 3
+p535
+aVDale Ellis DEN 12/18/1996 DEN vs. SAC W 39 14 6 17 35.3 2 8 25.0 0 0 - 0 1 1 4 1 0 1 0 7
+p536
+aVLaSalle Thompson DEN 12/18/1996 DEN vs. SAC W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p537
+aVMark Jackson DEN 12/18/1996 DEN vs. SAC W 48 13 5 12 41.7 1 3 33.3 2 2 100.0 3 4 7 17 1 0 3 2 16
+p538
+aVMelvin Booker DEN 12/18/1996 DEN vs. SAC W 0 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p539
+aVBryant Stith DEN 12/18/1996 DEN vs. SAC W 33 13 4 9 44.4 1 3 33.3 4 4 100.0 2 3 5 2 3 1 1 5 8
+p540
+aVErvin Johnson DEN 12/18/1996 DEN vs. SAC W 43 18 7 13 53.8 0 0 - 4 5 80.0 1 22 23 1 3 1 0 4 10
+p541
+aVDarvin Ham DEN 12/18/1996 DEN vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p542
+aVTom Hammonds DEN 12/18/1996 DEN vs. SAC W 22 7 2 9 22.2 0 0 - 3 4 75.0 2 1 3 0 0 0 2 1 13
+p543
+aVBrooks Thompson DEN 12/18/1996 DEN vs. SAC W 22 10 3 6 50.0 2 5 40.0 2 3 66.7 0 3 3 2 1 0 0 4 11
+p544
+aVAntonio McDyess DEN 12/14/1996 DEN @ NYK L 36 29 12 17 70.6 1 2 50.0 4 4 100.0 2 2 4 0 0 1 1 1 -5
+p545
+aVTom Hammonds DEN 12/14/1996 DEN @ NYK L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p546
+aVBryant Stith DEN 12/14/1996 DEN @ NYK L 41 13 4 14 28.6 1 3 33.3 4 4 100.0 1 3 4 3 0 0 1 3 -3
+p547
+aVErvin Johnson DEN 12/14/1996 DEN @ NYK L 39 4 2 4 50.0 0 0 - 0 0 - 2 9 11 1 0 4 1 4 -1
+p548
+aVMark Jackson DEN 12/14/1996 DEN @ NYK L 44 4 1 11 9.1 0 3 0.0 2 2 100.0 2 2 4 11 2 0 3 2 -6
+p549
+aVBrooks Thompson DEN 12/14/1996 DEN @ NYK L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p550
+aVDale Ellis DEN 12/14/1996 DEN @ NYK L 31 7 3 11 27.3 1 3 33.3 0 1 0.0 0 3 3 1 0 0 1 2 -4
+p551
+aVLaPhonso Ellis DEN 12/14/1996 DEN @ NYK L 32 23 7 16 43.8 0 3 0.0 9 9 100.0 1 7 8 1 1 1 3 5 -10
+p552
+aVBrooks Thompson DEN 12/13/1996 DEN @ WAS L 9 2 1 5 20.0 0 4 0.0 0 0 - 0 0 0 1 1 0 1 1 -5
+p553
+aVMelvin Booker DEN 12/13/1996 DEN @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p554
+aVTom Hammonds DEN 12/13/1996 DEN @ WAS L 29 8 4 6 66.7 0 0 - 0 2 0.0 4 7 11 1 0 1 0 2 -3
+p555
+aVBryant Stith DEN 12/13/1996 DEN @ WAS L 42 18 8 16 50.0 2 6 33.3 0 0 - 0 1 1 4 0 1 3 0 0
+p556
+aVAntonio McDyess DEN 12/13/1996 DEN @ WAS L 22 16 8 13 61.5 0 0 - 0 2 0.0 2 2 4 3 0 0 1 2 -2
+p557
+aVDale Ellis DEN 12/13/1996 DEN @ WAS L 42 22 7 17 41.2 3 7 42.9 5 5 100.0 2 2 4 2 2 0 3 1 -4
+p558
+aVErvin Johnson DEN 12/13/1996 DEN @ WAS L 21 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 1 2 4 3
+p559
+aVLaPhonso Ellis DEN 12/13/1996 DEN @ WAS L 30 21 7 16 43.8 5 6 83.3 2 2 100.0 1 7 8 1 0 2 0 3 -6
+p560
+aVMark Jackson DEN 12/13/1996 DEN @ WAS L 44 15 4 9 44.4 3 5 60.0 4 4 100.0 1 4 5 18 1 0 5 3 1
+p561
+aVDale Ellis DEN 12/11/1996 DEN @ CHH L 45 24 7 15 46.7 1 6 16.7 9 11 81.8 2 4 6 2 3 0 3 3 -1
+p562
+aVAntonio McDyess DEN 12/11/1996 DEN @ CHH L 33 20 7 17 41.2 0 0 - 6 6 100.0 6 4 10 0 0 2 1 1 6
+p563
+aVBrooks Thompson DEN 12/11/1996 DEN @ CHH L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -11
+p564
+aVBryant Stith DEN 12/11/1996 DEN @ CHH L 45 20 5 14 35.7 4 7 57.1 6 6 100.0 0 2 2 7 0 0 2 1 4
+p565
+aVMark Jackson DEN 12/11/1996 DEN @ CHH L 44 14 5 7 71.4 2 3 66.7 2 4 50.0 0 4 4 12 4 0 2 3 1
+p566
+aVErvin Johnson DEN 12/11/1996 DEN @ CHH L 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 1
+p567
+aVTom Hammonds DEN 12/11/1996 DEN @ CHH L 19 3 0 3 0.0 0 0 - 3 4 75.0 2 3 5 0 0 0 1 5 -12
+p568
+aVLaPhonso Ellis DEN 12/11/1996 DEN @ CHH L 37 12 6 14 42.9 0 1 0.0 0 2 0.0 0 5 5 0 0 0 1 6 -8
+p569
+aVErvin Johnson DEN 12/10/1996 DEN @ ATL L 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 1
+p570
+aVBryant Stith DEN 12/10/1996 DEN @ ATL L 22 10 4 10 40.0 0 2 0.0 2 2 100.0 4 1 5 1 1 0 1 2 -16
+p571
+aVTom Hammonds DEN 12/10/1996 DEN @ ATL L 36 8 3 7 42.9 0 0 - 2 4 50.0 4 5 9 0 0 0 1 3 2
+p572
+aVLaPhonso Ellis DEN 12/10/1996 DEN @ ATL L 37 19 9 22 40.9 0 2 0.0 1 2 50.0 2 4 6 1 1 4 2 4 -1
+p573
+aVBrooks Thompson DEN 12/10/1996 DEN @ ATL L 26 16 6 11 54.5 3 6 50.0 1 3 33.3 2 1 3 3 3 0 1 3 15
+p574
+aVDale Ellis DEN 12/10/1996 DEN @ ATL L 40 21 7 15 46.7 5 9 55.6 2 3 66.7 1 1 2 0 2 0 2 3 -14
+p575
+aVAntonio McDyess DEN 12/10/1996 DEN @ ATL L 23 5 2 11 18.2 0 0 - 1 2 50.0 4 7 11 1 1 1 0 4 9
+p576
+aVJeff McInnis DEN 12/10/1996 DEN @ ATL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p577
+aVMark Jackson DEN 12/10/1996 DEN @ ATL L 43 9 4 11 36.4 0 1 0.0 1 2 50.0 0 7 7 10 0 0 1 2 1
+p578
+aVMark Jackson DEN 12/07/1996 DEN vs. UTA L 43 14 6 11 54.5 2 3 66.7 0 0 - 1 3 4 13 0 0 2 2 -2
+p579
+aVDale Ellis DEN 12/07/1996 DEN vs. UTA L 38 19 5 16 31.3 2 8 25.0 7 7 100.0 3 5 8 2 1 0 1 5 -20
+p580
+aVBryant Stith DEN 12/07/1996 DEN vs. UTA L 35 11 5 10 50.0 1 3 33.3 0 0 - 3 2 5 1 0 1 2 4 -32
+p581
+aVErvin Johnson DEN 12/07/1996 DEN vs. UTA L 18 6 3 3 100.0 0 0 - 0 0 - 1 3 4 1 0 1 1 0 -13
+p582
+aVJeff McInnis DEN 12/07/1996 DEN vs. UTA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p583
+aVLaPhonso Ellis DEN 12/07/1996 DEN vs. UTA L 28 14 5 15 33.3 0 1 0.0 4 6 66.7 3 2 5 0 0 0 3 3 2
+p584
+aVBrooks Thompson DEN 12/07/1996 DEN vs. UTA L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 5 0 0 3 2 15
+p585
+aVDarvin Ham DEN 12/07/1996 DEN vs. UTA L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p586
+aVAntonio McDyess DEN 12/07/1996 DEN vs. UTA L 32 16 8 16 50.0 0 0 - 0 0 - 1 3 4 0 0 2 3 6 -1
+p587
+aVTom Hammonds DEN 12/07/1996 DEN vs. UTA L 28 8 2 4 50.0 0 0 - 4 4 100.0 2 6 8 0 0 1 0 4 -9
+p588
+aVJeff McInnis DEN 12/05/1996 DEN vs. POR L 11 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 1
+p589
+aVTom Hammonds DEN 12/05/1996 DEN vs. POR L 32 6 3 7 42.9 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -5
+p590
+aVDale Ellis DEN 12/05/1996 DEN vs. POR L 43 19 5 17 29.4 2 9 22.2 7 9 77.8 0 1 1 7 0 0 2 4 -12
+p591
+aVLaSalle Thompson DEN 12/05/1996 DEN vs. POR L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p592
+aVDarvin Ham DEN 12/05/1996 DEN vs. POR L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 0
+p593
+aVBryant Stith DEN 12/05/1996 DEN vs. POR L 37 37 10 14 71.4 1 3 33.3 16 16 100.0 0 7 7 1 3 2 3 3 -12
+p594
+aVMark Jackson DEN 12/05/1996 DEN vs. POR L 26 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 6 1 0 4 1 -10
+p595
+aVErvin Johnson DEN 12/05/1996 DEN vs. POR L 20 0 0 0 - 0 0 - 0 2 0.0 1 6 7 0 0 2 0 3 -17
+p596
+aVBrooks Thompson DEN 12/05/1996 DEN vs. POR L 22 18 7 11 63.6 2 6 33.3 2 2 100.0 0 2 2 2 1 0 1 4 1
+p597
+aVAntonio McDyess DEN 12/05/1996 DEN vs. POR L 34 15 5 9 55.6 0 0 - 5 8 62.5 0 5 5 2 0 5 1 5 -6
+p598
+aVJeff McInnis DEN 12/03/1996 DEN @ GSW L 16 6 2 5 40.0 1 2 50.0 1 2 50.0 1 0 1 4 1 0 1 3 -16
+p599
+aVDarvin Ham DEN 12/03/1996 DEN @ GSW L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -2
+p600
+aVBryant Stith DEN 12/03/1996 DEN @ GSW L 19 2 1 7 14.3 0 2 0.0 0 0 - 1 0 1 1 0 0 1 1 -4
+p601
+aVSarunas Marciulionis DEN 12/03/1996 DEN @ GSW L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 1 0 2 3 -3
+p602
+aVAntonio McDyess DEN 12/03/1996 DEN @ GSW L 39 21 9 15 60.0 1 2 50.0 2 3 66.7 2 3 5 2 1 2 3 2 -18
+p603
+aVMark Jackson DEN 12/03/1996 DEN @ GSW L 21 10 4 5 80.0 1 1 100.0 1 2 50.0 1 3 4 7 1 0 1 1 -4
+p604
+aVDale Ellis DEN 12/03/1996 DEN @ GSW L 44 16 6 16 37.5 3 10 30.0 1 2 50.0 1 0 1 3 1 0 0 3 -13
+p605
+aVTom Hammonds DEN 12/03/1996 DEN @ GSW L 33 13 3 4 75.0 0 0 - 7 8 87.5 1 7 8 1 0 0 3 5 2
+p606
+aVBrooks Thompson DEN 12/03/1996 DEN @ GSW L 33 23 9 18 50.0 5 11 45.5 0 0 - 1 2 3 6 1 0 4 4 -3
+p607
+aVErvin Johnson DEN 12/03/1996 DEN @ GSW L 24 5 2 3 66.7 0 0 - 1 2 50.0 1 8 9 2 1 3 3 3 -14
+p608
+aVAntonio McDyess DEN 12/01/1996 DEN @ LAL L 35 26 11 25 44.0 0 0 - 4 5 80.0 3 1 4 1 1 1 2 4 1
+p609
+aVTom Hammonds DEN 12/01/1996 DEN @ LAL L 25 11 4 5 80.0 0 0 - 3 4 75.0 0 4 4 0 0 0 2 4 0
+p610
+aVSarunas Marciulionis DEN 12/01/1996 DEN @ LAL L 14 5 2 4 50.0 1 2 50.0 0 0 - 1 2 3 2 0 0 1 0 6
+p611
+aVErvin Johnson DEN 12/01/1996 DEN @ LAL L 28 0 0 2 0.0 0 0 - 0 0 - 2 10 12 2 4 0 3 5 -11
+p612
+aVDarvin Ham DEN 12/01/1996 DEN @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p613
+aVLaSalle Thompson DEN 12/01/1996 DEN @ LAL L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -12
+p614
+aVBrooks Thompson DEN 12/01/1996 DEN @ LAL L 20 12 4 8 50.0 4 6 66.7 0 0 - 0 0 0 9 0 0 2 4 1
+p615
+aVBryant Stith DEN 12/01/1996 DEN @ LAL L 30 14 4 12 33.3 0 3 0.0 6 6 100.0 3 1 4 6 1 0 0 1 -8
+p616
+aVMark Jackson DEN 12/01/1996 DEN @ LAL L 33 8 2 7 28.6 0 2 0.0 4 6 66.7 1 3 4 4 0 0 4 1 -11
+p617
+aVDale Ellis DEN 12/01/1996 DEN @ LAL L 48 20 7 21 33.3 2 8 25.0 4 4 100.0 2 6 8 3 0 0 4 3 -8
+p618
+aVErvin Johnson DEN 11/29/1996 DEN vs. MIN L 19 6 3 4 75.0 0 0 - 0 0 - 3 6 9 2 1 2 0 4 -7
+p619
+aVTom Hammonds DEN 11/29/1996 DEN vs. MIN L 38 16 5 8 62.5 0 0 - 6 7 85.7 4 4 8 1 0 2 1 2 -9
+p620
+aVSarunas Marciulionis DEN 11/29/1996 DEN vs. MIN L 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p621
+aVAntonio McDyess DEN 11/29/1996 DEN vs. MIN L 42 34 11 24 45.8 0 2 0.0 12 14 85.7 1 8 9 1 1 1 3 5 7
+p622
+aVBryant Stith DEN 11/29/1996 DEN vs. MIN L 40 14 4 9 44.4 1 3 33.3 5 6 83.3 0 3 3 1 1 0 1 2 5
+p623
+aVDale Ellis DEN 11/29/1996 DEN vs. MIN L 40 7 3 9 33.3 1 5 20.0 0 0 - 0 3 3 1 1 0 4 5 -3
+p624
+aVDarvin Ham DEN 11/29/1996 DEN vs. MIN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -2
+p625
+aVBrooks Thompson DEN 11/29/1996 DEN vs. MIN L 31 14 4 10 40.0 2 6 33.3 4 6 66.7 1 0 1 13 2 0 4 4 3
+p626
+aVJeff McInnis DEN 11/29/1996 DEN vs. MIN L 18 10 4 7 57.1 2 4 50.0 0 0 - 1 0 1 5 0 1 4 4 -9
+p627
+aVBrooks Thompson DEN 11/27/1996 DEN @ UTA L 8 5 1 4 25.0 1 3 33.3 2 2 100.0 0 0 0 4 0 0 0 3 4
+p628
+aVAntonio McDyess DEN 11/27/1996 DEN @ UTA L 37 15 7 13 53.8 0 1 0.0 1 2 50.0 2 9 11 1 1 1 5 5 -1
+p629
+aVErvin Johnson DEN 11/27/1996 DEN @ UTA L 21 4 2 6 33.3 0 0 - 0 0 - 1 4 5 0 0 1 1 4 1
+p630
+aVDale Ellis DEN 11/27/1996 DEN @ UTA L 46 25 7 15 46.7 2 8 25.0 9 12 75.0 1 2 3 1 0 0 4 2 -11
+p631
+aVJeff McInnis DEN 11/27/1996 DEN @ UTA L 14 9 3 4 75.0 2 3 66.7 1 2 50.0 0 0 0 1 0 0 0 3 1
+p632
+aVMark Jackson DEN 11/27/1996 DEN @ UTA L 33 6 2 3 66.7 0 1 0.0 2 3 66.7 0 4 4 13 1 0 6 5 3
+p633
+aVBryant Stith DEN 11/27/1996 DEN @ UTA L 42 31 9 14 64.3 7 9 77.8 6 6 100.0 0 9 9 4 2 1 2 4 -14
+p634
+aVDarvin Ham DEN 11/27/1996 DEN @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p635
+aVTom Hammonds DEN 11/27/1996 DEN @ UTA L 35 8 4 8 50.0 0 0 - 0 0 - 2 2 4 1 0 0 1 5 -6
+p636
+aVBrooks Thompson DEN 11/26/1996 DEN vs. PHX W 25 26 10 17 58.8 6 9 66.7 0 0 - 0 2 2 4 0 0 4 4 11
+p637
+aVJeff McInnis DEN 11/26/1996 DEN vs. PHX W 4 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -3
+p638
+aVBryant Stith DEN 11/26/1996 DEN vs. PHX W 29 13 3 5 60.0 0 1 0.0 7 8 87.5 1 3 4 6 1 0 0 3 15
+p639
+aVErvin Johnson DEN 11/26/1996 DEN vs. PHX W 31 6 3 5 60.0 0 0 - 0 2 0.0 1 9 10 1 0 4 2 3 9
+p640
+aVAntonio McDyess DEN 11/26/1996 DEN vs. PHX W 31 12 6 14 42.9 0 0 - 0 0 - 3 7 10 3 2 1 5 5 7
+p641
+aVTom Hammonds DEN 11/26/1996 DEN vs. PHX W 34 19 8 10 80.0 0 0 - 3 4 75.0 5 8 13 1 0 2 1 3 2
+p642
+aVDale Ellis DEN 11/26/1996 DEN vs. PHX W 47 28 9 21 42.9 2 6 33.3 8 8 100.0 1 4 5 2 0 0 3 3 9
+p643
+aVSarunas Marciulionis DEN 11/26/1996 DEN vs. PHX W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -2
+p644
+aVMark Jackson DEN 11/26/1996 DEN vs. PHX W 23 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 8 2 0 1 1 -2
+p645
+aVDarvin Ham DEN 11/26/1996 DEN vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -1
+p646
+aVJeff McInnis DEN 11/23/1996 DEN @ POR L 14 7 2 7 28.6 1 3 33.3 2 2 100.0 0 1 1 2 0 0 2 0 -6
+p647
+aVSarunas Marciulionis DEN 11/23/1996 DEN @ POR L 26 7 1 8 12.5 0 2 0.0 5 6 83.3 0 1 1 1 1 0 5 3 -23
+p648
+aVErvin Johnson DEN 11/23/1996 DEN @ POR L 20 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 4 -22
+p649
+aVDale Ellis DEN 11/23/1996 DEN @ POR L 36 6 1 8 12.5 0 5 0.0 4 6 66.7 0 2 2 0 1 0 2 0 -35
+p650
+aVEric Murdock DEN 11/23/1996 DEN @ POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p651
+aVDarvin Ham DEN 11/23/1996 DEN @ POR L 16 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -11
+p652
+aVBryant Stith DEN 11/23/1996 DEN @ POR L 24 6 2 7 28.6 0 2 0.0 2 2 100.0 2 1 3 2 4 0 1 1 -20
+p653
+aVBrooks Thompson DEN 11/23/1996 DEN @ POR L 26 7 3 11 27.3 0 7 0.0 1 2 50.0 1 4 5 4 4 0 2 2 -12
+p654
+aVLaSalle Thompson DEN 11/23/1996 DEN @ POR L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 1 -11
+p655
+aVTom Hammonds DEN 11/23/1996 DEN @ POR L 22 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 0 1 1 5 -9
+p656
+aVMark Jackson DEN 11/23/1996 DEN @ POR L 12 4 0 0 - 0 0 - 4 4 100.0 0 0 0 1 0 0 0 0 -19
+p657
+aVAntonio McDyess DEN 11/23/1996 DEN @ POR L 33 16 6 18 33.3 0 1 0.0 4 6 66.7 1 3 4 0 0 1 2 5 -25
+p658
+aVAntonio McDyess DEN 11/21/1996 DEN vs. CHI L 31 16 5 19 26.3 0 0 - 6 8 75.0 5 6 11 2 1 3 2 6 -9
+p659
+aVDale Ellis DEN 11/21/1996 DEN vs. CHI L 40 12 5 18 27.8 1 7 14.3 1 2 50.0 0 0 0 1 3 0 2 2 -29
+p660
+aVTom Hammonds DEN 11/21/1996 DEN vs. CHI L 26 8 4 5 80.0 0 0 - 0 0 - 3 7 10 0 0 0 1 5 -11
+p661
+aVBryant Stith DEN 11/21/1996 DEN vs. CHI L 37 20 4 11 36.4 1 2 50.0 11 12 91.7 3 5 8 2 2 1 0 3 -6
+p662
+aVDarvin Ham DEN 11/21/1996 DEN vs. CHI L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 6 -1
+p663
+aVMark Jackson DEN 11/21/1996 DEN vs. CHI L 28 3 1 4 25.0 1 1 100.0 0 0 - 2 2 4 8 1 0 3 2 -18
+p664
+aVBrooks Thompson DEN 11/21/1996 DEN vs. CHI L 5 7 2 4 50.0 1 3 33.3 2 2 100.0 1 0 1 0 0 0 1 1 3
+p665
+aVErvin Johnson DEN 11/21/1996 DEN vs. CHI L 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 3 -13
+p666
+aVJeff McInnis DEN 11/21/1996 DEN vs. CHI L 5 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p667
+aVSarunas Marciulionis DEN 11/21/1996 DEN vs. CHI L 26 10 3 13 23.1 1 4 25.0 3 4 75.0 1 4 5 1 1 0 2 4 -1
+p668
+aVEric Murdock DEN 11/21/1996 DEN vs. CHI L 13 7 2 5 40.0 0 2 0.0 3 4 75.0 0 2 2 6 2 1 2 1 1
+p669
+aVLaSalle Thompson DEN 11/21/1996 DEN vs. CHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p670
+aVMark Jackson DEN 11/19/1996 DEN vs. MIA L 36 10 1 5 20.0 0 1 0.0 8 8 100.0 3 5 8 11 1 2 2 1 -14
+p671
+aVEric Murdock DEN 11/19/1996 DEN vs. MIA L 6 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 2
+p672
+aVErvin Johnson DEN 11/19/1996 DEN vs. MIA L 27 8 3 4 75.0 0 0 - 2 4 50.0 5 3 8 0 1 6 0 4 1
+p673
+aVLaSalle Thompson DEN 11/19/1996 DEN vs. MIA L 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 0 5 -6
+p674
+aVBryant Stith DEN 11/19/1996 DEN vs. MIA L 33 11 4 12 33.3 0 2 0.0 3 3 100.0 3 2 5 0 0 0 1 2 -14
+p675
+aVAntonio McDyess DEN 11/19/1996 DEN vs. MIA L 40 27 11 19 57.9 0 0 - 5 8 62.5 2 8 10 0 0 1 6 2 -27
+p676
+aVTom Hammonds DEN 11/19/1996 DEN vs. MIA L 10 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 0 0 2 1 -3
+p677
+aVJeff McInnis DEN 11/19/1996 DEN vs. MIA L 12 5 2 6 33.3 1 5 20.0 0 0 - 0 2 2 3 0 0 1 1 -4
+p678
+aVSarunas Marciulionis DEN 11/19/1996 DEN vs. MIA L 11 6 2 2 100.0 1 1 100.0 1 2 50.0 0 0 0 1 1 0 4 1 1
+p679
+aVDale Ellis DEN 11/19/1996 DEN vs. MIA L 38 9 4 17 23.5 1 6 16.7 0 0 - 0 4 4 0 0 0 7 0 -23
+p680
+aVDarvin Ham DEN 11/19/1996 DEN vs. MIA L 13 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 6 -3
+p681
+aVTom Hammonds DEN 11/16/1996 DEN @ NJN L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -3
+p682
+aVErvin Johnson DEN 11/16/1996 DEN @ NJN L 31 10 5 5 100.0 0 0 - 0 0 - 3 11 14 1 1 1 1 4 -6
+p683
+aVAntonio McDyess DEN 11/16/1996 DEN @ NJN L 39 23 9 22 40.9 0 0 - 5 9 55.6 1 6 7 2 0 3 3 4 -9
+p684
+aVDarvin Ham DEN 11/16/1996 DEN @ NJN L 17 2 0 2 0.0 0 0 - 2 4 50.0 1 2 3 2 0 1 0 3 -1
+p685
+aVJeff McInnis DEN 11/16/1996 DEN @ NJN L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 1 -5
+p686
+aVRicky Pierce DEN 11/16/1996 DEN @ NJN L 3 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p687
+aVDale Ellis DEN 11/16/1996 DEN @ NJN L 45 27 10 19 52.6 5 10 50.0 2 2 100.0 1 2 3 1 1 0 1 5 0
+p688
+aVBryant Stith DEN 11/16/1996 DEN @ NJN L 36 16 6 18 33.3 1 3 33.3 3 4 75.0 1 2 3 0 2 0 0 2 -1
+p689
+aVMark Jackson DEN 11/16/1996 DEN @ NJN L 44 12 3 7 42.9 2 3 66.7 4 4 100.0 0 5 5 16 1 1 3 5 -2
+p690
+aVSarunas Marciulionis DEN 11/16/1996 DEN @ NJN L 16 6 3 7 42.9 0 4 0.0 0 2 0.0 0 0 0 2 1 0 3 2 -8
+p691
+aVDarvin Ham DEN 11/15/1996 DEN @ BOS W 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 1 0
+p692
+aVAntonio McDyess DEN 11/15/1996 DEN @ BOS W 32 8 3 10 30.0 0 0 - 2 2 100.0 4 8 12 1 1 2 4 6 -1
+p693
+aVEric Murdock DEN 11/15/1996 DEN @ BOS W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -1
+p694
+aVMark Jackson DEN 11/15/1996 DEN @ BOS W 41 7 3 13 23.1 1 4 25.0 0 0 - 4 1 5 12 0 1 5 1 3
+p695
+aVErvin Johnson DEN 11/15/1996 DEN @ BOS W 24 4 0 2 0.0 0 0 - 4 6 66.7 2 6 8 0 3 2 1 4 1
+p696
+aVDale Ellis DEN 11/15/1996 DEN @ BOS W 48 36 14 28 50.0 6 9 66.7 2 2 100.0 2 6 8 1 1 0 3 4 2
+p697
+aVTom Hammonds DEN 11/15/1996 DEN @ BOS W 30 6 3 7 42.9 0 0 - 0 0 - 2 4 6 1 0 0 2 2 4
+p698
+aVBryant Stith DEN 11/15/1996 DEN @ BOS W 36 10 2 11 18.2 1 3 33.3 5 6 83.3 0 4 4 2 3 0 1 2 2
+p699
+aVJeff McInnis DEN 11/15/1996 DEN @ BOS W 3 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 1 0
+p700
+aVSarunas Marciulionis DEN 11/15/1996 DEN @ BOS W 12 8 2 6 33.3 0 2 0.0 4 4 100.0 2 0 2 1 2 0 3 3 0
+p701
+aVAntonio McDyess DEN 11/13/1996 DEN @ DET L 41 20 9 17 52.9 0 0 - 2 4 50.0 2 6 8 1 0 1 3 5 2
+p702
+aVDarvin Ham DEN 11/13/1996 DEN @ DET L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p703
+aVBryant Stith DEN 11/13/1996 DEN @ DET L 26 6 3 8 37.5 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -10
+p704
+aVSarunas Marciulionis DEN 11/13/1996 DEN @ DET L 21 10 3 5 60.0 2 2 100.0 2 2 100.0 0 0 0 4 3 0 4 3 6
+p705
+aVTom Hammonds DEN 11/13/1996 DEN @ DET L 26 6 1 4 25.0 0 0 - 4 4 100.0 1 6 7 0 0 1 0 2 8
+p706
+aVDale Ellis DEN 11/13/1996 DEN @ DET L 51 20 7 21 33.3 4 10 40.0 2 2 100.0 2 2 4 4 0 0 3 5 1
+p707
+aVErvin Johnson DEN 11/13/1996 DEN @ DET L 35 4 2 7 28.6 0 0 - 0 0 - 0 8 8 1 1 3 0 4 -10
+p708
+aVRicky Pierce DEN 11/13/1996 DEN @ DET L 8 7 2 5 40.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 1 3
+p709
+aVEric Murdock DEN 11/13/1996 DEN @ DET L 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 0 0 -6
+p710
+aVMark Jackson DEN 11/13/1996 DEN @ DET L 41 15 5 11 45.5 3 4 75.0 2 3 66.7 3 4 7 13 1 0 2 1 3
+p711
+aVDale Ellis DEN 11/11/1996 DEN @ TOR W 48 37 15 23 65.2 6 11 54.5 1 2 50.0 0 4 4 3 1 0 1 2 11
+p712
+aVSarunas Marciulionis DEN 11/11/1996 DEN @ TOR W 15 7 1 4 25.0 1 2 50.0 4 4 100.0 1 2 3 3 0 0 2 3 -1
+p713
+aVMark Jackson DEN 11/11/1996 DEN @ TOR W 44 9 2 8 25.0 1 4 25.0 4 6 66.7 0 6 6 15 3 0 6 2 6
+p714
+aVDarvin Ham DEN 11/11/1996 DEN @ TOR W 19 5 2 4 50.0 0 0 - 1 8 12.5 1 0 1 0 0 0 5 6 -7
+p715
+aVTom Hammonds DEN 11/11/1996 DEN @ TOR W 21 9 4 5 80.0 0 0 - 1 2 50.0 0 2 2 2 3 0 5 4 13
+p716
+aVErvin Johnson DEN 11/11/1996 DEN @ TOR W 30 8 3 3 100.0 0 0 - 2 2 100.0 2 9 11 0 0 3 3 4 10
+p717
+aVAntonio McDyess DEN 11/11/1996 DEN @ TOR W 22 14 6 8 75.0 0 0 - 2 5 40.0 3 2 5 0 1 0 2 5 7
+p718
+aVBryant Stith DEN 11/11/1996 DEN @ TOR W 35 15 6 12 50.0 0 3 0.0 3 3 100.0 0 7 7 2 0 1 1 1 12
+p719
+aVLaSalle Thompson DEN 11/11/1996 DEN @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p720
+aVEric Murdock DEN 11/11/1996 DEN @ TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 1 5
+p721
+aVBryant Stith DEN 11/10/1996 DEN @ CLE L 31 10 3 9 33.3 0 1 0.0 4 4 100.0 3 4 7 3 0 0 4 2 -7
+p722
+aVDarvin Ham DEN 11/10/1996 DEN @ CLE L 8 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 0 2
+p723
+aVLaSalle Thompson DEN 11/10/1996 DEN @ CLE L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 9
+p724
+aVDale Ellis DEN 11/10/1996 DEN @ CLE L 33 18 8 12 66.7 2 3 66.7 0 0 - 2 2 4 3 0 0 3 1 -5
+p725
+aVEric Murdock DEN 11/10/1996 DEN @ CLE L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 2 0 3 1 -5
+p726
+aVMark Jackson DEN 11/10/1996 DEN @ CLE L 33 7 3 10 30.0 1 4 25.0 0 0 - 1 6 7 14 0 0 3 4 -1
+p727
+aVAntonio McDyess DEN 11/10/1996 DEN @ CLE L 22 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 2 0 1 0 6 -9
+p728
+aVErvin Johnson DEN 11/10/1996 DEN @ CLE L 35 13 5 8 62.5 0 0 - 3 4 75.0 2 6 8 1 0 2 6 3 -22
+p729
+aVJeff McInnis DEN 11/10/1996 DEN @ CLE L 8 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 2 0 0 1 0 5
+p730
+aVTom Hammonds DEN 11/10/1996 DEN @ CLE L 26 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 2 1 0 4 -10
+p731
+aVRicky Pierce DEN 11/10/1996 DEN @ CLE L 10 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 1 -12
+p732
+aVMark Jackson DEN 11/08/1996 DEN vs. GSW W 37 3 1 6 16.7 0 0 - 1 4 25.0 0 4 4 14 0 0 7 1 7
+p733
+aVRicky Pierce DEN 11/08/1996 DEN vs. GSW W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 2 2 -10
+p734
+aVTom Hammonds DEN 11/08/1996 DEN vs. GSW W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p735
+aVBryant Stith DEN 11/08/1996 DEN vs. GSW W 36 12 4 15 26.7 1 2 50.0 3 4 75.0 2 4 6 2 1 0 0 3 13
+p736
+aVDale Ellis DEN 11/08/1996 DEN vs. GSW W 40 23 8 19 42.1 1 7 14.3 6 7 85.7 2 1 3 3 2 0 3 4 13
+p737
+aVSarunas Marciulionis DEN 11/08/1996 DEN vs. GSW W 8 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -8
+p738
+aVAntonio McDyess DEN 11/08/1996 DEN vs. GSW W 40 27 10 20 50.0 0 1 0.0 7 8 87.5 4 1 5 2 3 3 5 2 13
+p739
+aVLaSalle Thompson DEN 11/08/1996 DEN vs. GSW W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p740
+aVErvin Johnson DEN 11/08/1996 DEN vs. GSW W 42 16 7 10 70.0 0 0 - 2 2 100.0 5 12 17 1 2 3 0 4 5
+p741
+aVEric Murdock DEN 11/08/1996 DEN vs. GSW W 12 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 2 1 0 1 1 -4
+p742
+aVErvin Johnson DEN 11/07/1996 DEN vs. HOU L 37 8 2 3 66.7 0 0 - 4 6 66.7 4 7 11 1 1 2 2 6 -1
+p743
+aVAntonio McDyess DEN 11/07/1996 DEN vs. HOU L 30 7 3 11 27.3 0 0 - 1 2 50.0 3 9 12 0 2 2 2 6 4
+p744
+aVMark Jackson DEN 11/07/1996 DEN vs. HOU L 42 15 5 11 45.5 2 4 50.0 3 3 100.0 0 4 4 16 0 0 3 1 -8
+p745
+aVDale Ellis DEN 11/07/1996 DEN vs. HOU L 47 33 11 26 42.3 6 11 54.5 5 6 83.3 6 8 14 0 2 1 1 0 -8
+p746
+aVEric Murdock DEN 11/07/1996 DEN vs. HOU L 11 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 0 1 0 0 6
+p747
+aVTom Hammonds DEN 11/07/1996 DEN vs. HOU L 23 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 4 -6
+p748
+aVBryant Stith DEN 11/07/1996 DEN vs. HOU L 31 14 5 17 29.4 0 4 0.0 4 4 100.0 3 1 4 2 1 0 3 2 -6
+p749
+aVLaSalle Thompson DEN 11/07/1996 DEN vs. HOU L 14 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 2 1 4 -8
+p750
+aVSarunas Marciulionis DEN 11/07/1996 DEN vs. HOU L 19 13 4 9 44.4 1 1 100.0 4 4 100.0 2 1 3 3 0 0 4 3 17
+p751
+aVRicky Pierce DEN 11/07/1996 DEN vs. HOU L 11 5 2 6 33.3 1 1 100.0 0 0 - 1 0 1 0 0 0 0 2 0
+p752
+aVRicky Pierce DEN 11/05/1996 DEN vs. LAC L 16 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 -10
+p753
+aVLaSalle Thompson DEN 11/05/1996 DEN vs. LAC L 12 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 1 2 2 5
+p754
+aVSarunas Marciulionis DEN 11/05/1996 DEN vs. LAC L 15 9 4 6 66.7 0 1 0.0 1 2 50.0 2 1 3 0 1 0 3 3 -9
+p755
+aVDale Ellis DEN 11/05/1996 DEN vs. LAC L 33 25 10 21 47.6 3 9 33.3 2 3 66.7 1 6 7 1 0 0 1 1 11
+p756
+aVBryant Stith DEN 11/05/1996 DEN vs. LAC L 30 17 7 12 58.3 0 2 0.0 3 6 50.0 1 5 6 3 2 0 4 4 -1
+p757
+aVLaPhonso Ellis DEN 11/05/1996 DEN vs. LAC L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p758
+aVDarvin Ham DEN 11/05/1996 DEN vs. LAC L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p759
+aVErvin Johnson DEN 11/05/1996 DEN vs. LAC L 32 2 1 5 20.0 0 0 - 0 2 0.0 3 6 9 0 1 0 0 5 -7
+p760
+aVAntonio McDyess DEN 11/05/1996 DEN vs. LAC L 34 10 5 8 62.5 0 0 - 0 0 - 2 3 5 0 1 3 5 5 -2
+p761
+aVEric Murdock DEN 11/05/1996 DEN vs. LAC L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -10
+p762
+aVTom Hammonds DEN 11/05/1996 DEN vs. LAC L 15 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 4 6
+p763
+aVMark Jackson DEN 11/05/1996 DEN vs. LAC L 40 9 3 6 50.0 0 0 - 3 5 60.0 0 7 7 16 1 0 6 4 6
+p764
+aVDarvin Ham DEN 11/03/1996 DEN @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p765
+aVErvin Johnson DEN 11/03/1996 DEN @ SAS W 29 7 3 5 60.0 0 0 - 1 1 100.0 1 8 9 1 1 0 1 3 4
+p766
+aVTom Hammonds DEN 11/03/1996 DEN @ SAS W 13 4 0 3 0.0 0 0 - 4 4 100.0 3 1 4 0 0 0 0 3 0
+p767
+aVDale Ellis DEN 11/03/1996 DEN @ SAS W 26 6 3 8 37.5 0 3 0.0 0 0 - 3 2 5 0 0 0 0 2 12
+p768
+aVBryant Stith DEN 11/03/1996 DEN @ SAS W 30 12 5 11 45.5 1 4 25.0 1 2 50.0 1 4 5 2 3 0 1 1 5
+p769
+aVEric Murdock DEN 11/03/1996 DEN @ SAS W 16 7 1 5 20.0 1 3 33.3 4 4 100.0 0 3 3 6 2 0 1 2 2
+p770
+aVRicky Pierce DEN 11/03/1996 DEN @ SAS W 21 15 4 7 57.1 0 1 0.0 7 8 87.5 0 1 1 1 1 0 1 1 3
+p771
+aVSarunas Marciulionis DEN 11/03/1996 DEN @ SAS W 10 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 4 6
+p772
+aVAntonio McDyess DEN 11/03/1996 DEN @ SAS W 37 13 6 16 37.5 0 0 - 1 2 50.0 0 10 10 2 0 6 0 4 9
+p773
+aVMark Jackson DEN 11/03/1996 DEN @ SAS W 32 5 1 5 20.0 1 1 100.0 2 2 100.0 0 3 3 10 1 0 8 2 7
+p774
+aVLaPhonso Ellis DEN 11/03/1996 DEN @ SAS W 26 12 6 17 35.3 0 1 0.0 0 0 - 4 3 7 1 0 0 3 3 -1
+p775
+aVErvin Johnson DEN 11/01/1996 DEN vs. DAL L 43 9 3 8 37.5 0 0 - 3 4 75.0 6 11 17 0 1 3 0 3 -3
+p776
+aVLaSalle Thompson DEN 11/01/1996 DEN vs. DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 2 1 1 0
+p777
+aVSarunas Marciulionis DEN 11/01/1996 DEN vs. DAL L 18 14 4 9 44.4 1 1 100.0 5 6 83.3 1 2 3 1 0 1 2 2 12
+p778
+aVAntonio McDyess DEN 11/01/1996 DEN vs. DAL L 17 7 3 9 33.3 0 0 - 1 3 33.3 3 4 7 0 0 1 2 1 -15
+p779
+aVMark Jackson DEN 11/01/1996 DEN vs. DAL L 34 7 2 5 40.0 1 1 100.0 2 2 100.0 0 0 0 7 0 0 3 2 -12
+p780
+aVDale Ellis DEN 11/01/1996 DEN vs. DAL L 31 6 2 9 22.2 0 1 0.0 2 4 50.0 1 1 2 0 0 0 2 2 -10
+p781
+aVRicky Pierce DEN 11/01/1996 DEN vs. DAL L 10 5 1 3 33.3 0 0 - 3 3 100.0 0 0 0 0 1 0 1 2 1
+p782
+aVLaPhonso Ellis DEN 11/01/1996 DEN vs. DAL L 33 21 5 16 31.3 0 2 0.0 11 16 68.8 3 6 9 1 3 3 6 5 16
+p783
+aVEric Murdock DEN 11/01/1996 DEN vs. DAL L 14 7 3 4 75.0 1 1 100.0 0 0 - 1 0 1 2 1 0 1 0 11
+p784
+aVBryant Stith DEN 11/01/1996 DEN vs. DAL L 37 15 5 15 33.3 0 2 0.0 5 5 100.0 3 5 8 2 2 0 2 3 -5
+p785
+a.

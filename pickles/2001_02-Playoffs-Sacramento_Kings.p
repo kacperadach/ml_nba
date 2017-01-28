@@ -1,0 +1,268 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHedo Turkoglu SAC 06/02/2002 SAC vs. LAL L 30 10 4 7 57.1 1 2 50.0 1 4 25.0 0 5 5 2 0 0 3 5 -14
+p2
+aVPeja Stojakovic SAC 06/02/2002 SAC vs. LAL L 25 8 3 12 25.0 0 6 0.0 2 2 100.0 2 6 8 0 0 0 1 2 9
+p3
+aVChris Webber SAC 06/02/2002 SAC vs. LAL L 52 20 9 21 42.9 0 1 0.0 2 4 50.0 2 6 8 11 1 2 2 2 -6
+p4
+aVVlade Divac SAC 06/02/2002 SAC vs. LAL L 27 15 5 7 71.4 0 0 - 5 10 50.0 4 6 10 1 1 0 3 6 7
+p5
+aVScot Pollard SAC 06/02/2002 SAC vs. LAL L 20 8 4 5 80.0 0 0 - 0 1 0.0 1 1 2 1 0 1 0 4 -8
+p6
+aVBobby Jackson SAC 06/02/2002 SAC vs. LAL L 23 12 6 9 66.7 0 3 0.0 0 0 - 0 4 4 1 0 0 1 3 -2
+p7
+aVDoug Christie SAC 06/02/2002 SAC vs. LAL L 39 4 2 11 18.2 0 3 0.0 0 1 0.0 3 6 9 5 2 1 2 3 -3
+p8
+aVMike Bibby SAC 06/02/2002 SAC vs. LAL L 48 29 11 25 44.0 1 5 20.0 6 8 75.0 3 2 5 4 1 0 2 5 -13
+p9
+aVLawrence Funderburke SAC 05/31/2002 SAC @ LAL L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -5
+p10
+aVDoug Christie SAC 05/31/2002 SAC @ LAL L 41 5 2 6 33.3 1 3 33.3 0 0 - 3 4 7 5 2 2 0 3 -1
+p11
+aVVlade Divac SAC 05/31/2002 SAC @ LAL L 31 12 5 16 31.3 1 2 50.0 1 1 100.0 3 9 12 3 1 1 1 6 6
+p12
+aVMike Bibby SAC 05/31/2002 SAC @ LAL L 41 23 7 20 35.0 2 6 33.3 7 8 87.5 1 3 4 3 2 0 2 1 -9
+p13
+aVPeja Stojakovic SAC 05/31/2002 SAC @ LAL L 19 10 4 8 50.0 1 3 33.3 1 3 33.3 1 0 1 1 0 0 1 1 -9
+p14
+aVBobby Jackson SAC 05/31/2002 SAC @ LAL L 15 10 4 7 57.1 2 2 100.0 0 0 - 0 2 2 3 1 0 1 2 -2
+p15
+aVChris Webber SAC 05/31/2002 SAC @ LAL L 47 26 12 22 54.5 0 0 - 2 5 40.0 4 9 13 8 1 0 3 5 5
+p16
+aVScot Pollard SAC 05/31/2002 SAC @ LAL L 11 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 1 0 1 6 -4
+p17
+aVHedo Turkoglu SAC 05/31/2002 SAC @ LAL L 29 12 3 9 33.3 1 3 33.3 5 6 83.3 0 2 2 0 1 0 1 4 -5
+p18
+aVScot Pollard SAC 05/28/2002 SAC vs. LAL W 11 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 4
+p19
+aVChris Webber SAC 05/28/2002 SAC vs. LAL W 45 29 12 23 52.2 0 1 0.0 5 9 55.6 3 10 13 3 0 0 4 3 -5
+p20
+aVHedo Turkoglu SAC 05/28/2002 SAC vs. LAL W 37 13 5 10 50.0 1 1 100.0 2 2 100.0 1 1 2 3 0 2 1 5 2
+p21
+aVPeja Stojakovic SAC 05/28/2002 SAC vs. LAL W 18 2 0 3 0.0 0 1 0.0 2 2 100.0 0 6 6 2 0 0 0 1 -8
+p22
+aVBobby Jackson SAC 05/28/2002 SAC vs. LAL W 20 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 1 2 0 0 0 6
+p23
+aVDoug Christie SAC 05/28/2002 SAC vs. LAL W 29 8 2 4 50.0 0 1 0.0 4 4 100.0 1 1 2 3 1 0 2 6 13
+p24
+aVVlade Divac SAC 05/28/2002 SAC vs. LAL W 38 13 4 10 40.0 0 0 - 5 10 50.0 1 6 7 2 0 1 2 3 -3
+p25
+aVMike Bibby SAC 05/28/2002 SAC vs. LAL W 43 23 9 17 52.9 1 4 25.0 4 6 66.7 0 4 4 2 3 0 1 2 -4
+p26
+aVHedo Turkoglu SAC 05/26/2002 SAC @ LAL L 43 18 8 15 53.3 2 5 40.0 0 0 - 2 10 12 2 0 0 1 1 1
+p27
+aVChris Webber SAC 05/26/2002 SAC @ LAL L 40 20 9 16 56.3 0 1 0.0 2 2 100.0 1 5 6 5 0 2 3 4 -5
+p28
+aVMike Bibby SAC 05/26/2002 SAC @ LAL L 46 21 9 16 56.3 1 2 50.0 2 4 50.0 0 3 3 4 3 1 3 2 4
+p29
+aVBobby Jackson SAC 05/26/2002 SAC @ LAL L 24 9 2 12 16.7 1 6 16.7 4 4 100.0 1 2 3 2 1 0 1 3 -8
+p30
+aVVlade Divac SAC 05/26/2002 SAC @ LAL L 35 23 7 11 63.6 0 0 - 9 12 75.0 2 5 7 3 2 1 1 5 -5
+p31
+aVDoug Christie SAC 05/26/2002 SAC @ LAL L 36 8 3 7 42.9 1 5 20.0 1 2 50.0 1 5 6 5 0 0 2 5 5
+p32
+aVScot Pollard SAC 05/26/2002 SAC @ LAL L 13 0 0 1 0.0 0 0 - 0 2 0.0 1 4 5 0 0 0 0 2 4
+p33
+aVLawrence Funderburke SAC 05/26/2002 SAC @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p34
+aVDoug Christie SAC 05/24/2002 SAC @ LAL W 43 17 4 10 40.0 3 7 42.9 6 8 75.0 0 12 12 6 3 1 3 4 16
+p35
+aVMike Bibby SAC 05/24/2002 SAC @ LAL W 46 24 8 14 57.1 2 5 40.0 6 9 66.7 1 3 4 5 1 0 4 1 11
+p36
+aVVlade Divac SAC 05/24/2002 SAC @ LAL W 38 11 5 11 45.5 0 0 - 1 2 50.0 2 7 9 4 2 3 3 5 10
+p37
+aVBobby Jackson SAC 05/24/2002 SAC @ LAL W 24 11 3 6 50.0 0 2 0.0 5 8 62.5 1 4 5 1 0 0 3 0 -15
+p38
+aVScot Pollard SAC 05/24/2002 SAC @ LAL W 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p39
+aVHedo Turkoglu SAC 05/24/2002 SAC @ LAL W 38 14 6 13 46.2 1 2 50.0 1 4 25.0 2 3 5 3 1 2 2 5 27
+p40
+aVChris Webber SAC 05/24/2002 SAC @ LAL W 45 26 12 21 57.1 0 0 - 2 4 50.0 3 6 9 6 3 1 3 3 17
+p41
+aVVlade Divac SAC 05/20/2002 SAC vs. LAL W 36 15 5 13 38.5 0 0 - 5 6 83.3 4 10 14 0 1 0 3 6 -2
+p42
+aVBobby Jackson SAC 05/20/2002 SAC vs. LAL W 23 17 5 9 55.6 2 3 66.7 5 6 83.3 1 2 3 1 0 0 1 2 -4
+p43
+aVChris Webber SAC 05/20/2002 SAC vs. LAL W 47 21 9 22 40.9 0 0 - 3 11 27.3 2 11 13 5 2 5 2 3 7
+p44
+aVHedo Turkoglu SAC 05/20/2002 SAC vs. LAL W 33 8 4 8 50.0 0 1 0.0 0 2 0.0 1 6 7 3 0 1 1 4 6
+p45
+aVDoug Christie SAC 05/20/2002 SAC vs. LAL W 45 13 3 7 42.9 3 5 60.0 4 5 80.0 1 3 4 3 3 0 4 5 9
+p46
+aVMike Bibby SAC 05/20/2002 SAC vs. LAL W 44 20 6 15 40.0 2 3 66.7 6 8 75.0 2 1 3 8 1 0 2 1 7
+p47
+aVScot Pollard SAC 05/20/2002 SAC vs. LAL W 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 1 0 0 4 7
+p48
+aVMike Bibby SAC 05/18/2002 SAC vs. LAL L 45 19 7 21 33.3 0 1 0.0 5 5 100.0 0 2 2 5 3 0 3 2 -9
+p49
+aVVlade Divac SAC 05/18/2002 SAC vs. LAL L 34 12 4 10 40.0 0 0 - 4 4 100.0 4 7 11 2 2 0 2 5 -7
+p50
+aVGerald Wallace SAC 05/18/2002 SAC vs. LAL L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 1 1 0 2
+p51
+aVBobby Jackson SAC 05/18/2002 SAC vs. LAL L 25 21 9 15 60.0 0 1 0.0 3 4 75.0 2 1 3 2 0 0 1 3 3
+p52
+aVHedo Turkoglu SAC 05/18/2002 SAC vs. LAL L 29 0 0 8 0.0 0 0 - 0 0 - 2 4 6 1 0 2 3 2 -14
+p53
+aVScot Pollard SAC 05/18/2002 SAC vs. LAL L 16 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 0 1 0 0 2 2
+p54
+aVChris Webber SAC 05/18/2002 SAC vs. LAL L 43 28 14 25 56.0 0 0 - 0 0 - 5 9 14 6 0 0 4 5 -3
+p55
+aVDoug Christie SAC 05/18/2002 SAC vs. LAL L 43 13 6 11 54.5 1 4 25.0 0 0 - 0 7 7 3 2 0 3 6 -9
+p56
+aVHedo Turkoglu SAC 05/13/2002 SAC vs. DAL W 47 20 9 19 47.4 2 4 50.0 0 0 - 4 9 13 2 1 0 0 4 12
+p57
+aVVlade Divac SAC 05/13/2002 SAC vs. DAL W 28 18 5 10 50.0 0 0 - 8 8 100.0 1 4 5 0 1 1 3 3 13
+p58
+aVBobby Jackson SAC 05/13/2002 SAC vs. DAL W 33 15 6 12 50.0 2 4 50.0 1 2 50.0 2 4 6 1 1 0 2 3 4
+p59
+aVMike Bibby SAC 05/13/2002 SAC vs. DAL W 44 23 8 17 47.1 1 3 33.3 6 6 100.0 1 2 3 6 0 0 1 2 11
+p60
+aVScot Pollard SAC 05/13/2002 SAC vs. DAL W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p61
+aVChris Webber SAC 05/13/2002 SAC vs. DAL W 35 23 8 14 57.1 0 1 0.0 7 10 70.0 2 5 7 5 1 2 1 4 15
+p62
+aVGerald Wallace SAC 05/13/2002 SAC vs. DAL W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p63
+aVDoug Christie SAC 05/13/2002 SAC vs. DAL W 46 15 5 10 50.0 1 5 20.0 4 6 66.7 3 4 7 7 1 1 2 2 16
+p64
+aVChris Webber SAC 05/11/2002 SAC @ DAL W 34 30 12 15 80.0 0 0 - 6 9 66.7 3 7 10 2 0 1 2 6 0
+p65
+aVScot Pollard SAC 05/11/2002 SAC @ DAL W 17 9 3 5 60.0 0 0 - 3 4 75.0 5 3 8 0 0 0 0 1 6
+p66
+aVHedo Turkoglu SAC 05/11/2002 SAC @ DAL W 34 4 2 8 25.0 0 2 0.0 0 0 - 1 6 7 1 1 1 3 5 11
+p67
+aVLawrence Funderburke SAC 05/11/2002 SAC @ DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p68
+aVBobby Jackson SAC 05/11/2002 SAC @ DAL W 45 26 10 20 50.0 2 2 100.0 4 6 66.7 3 1 4 5 1 1 4 1 8
+p69
+aVVlade Divac SAC 05/11/2002 SAC @ DAL W 34 8 1 5 20.0 0 0 - 6 8 75.0 1 13 14 3 2 2 3 6 -12
+p70
+aVDoug Christie SAC 05/11/2002 SAC @ DAL W 51 12 3 10 30.0 0 4 0.0 6 7 85.7 1 4 5 4 6 1 3 3 3
+p71
+aVMike Bibby SAC 05/11/2002 SAC @ DAL W 44 24 9 20 45.0 2 7 28.6 4 4 100.0 1 5 6 4 1 0 2 0 -4
+p72
+aVGerald Wallace SAC 05/11/2002 SAC @ DAL W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -3
+p73
+aVVlade Divac SAC 05/09/2002 SAC @ DAL W 33 19 6 12 50.0 0 2 0.0 7 8 87.5 7 6 13 1 2 2 1 3 10
+p74
+aVChris Webber SAC 05/09/2002 SAC @ DAL W 44 31 15 26 57.7 0 0 - 1 4 25.0 5 10 15 5 1 3 0 4 0
+p75
+aVDoug Christie SAC 05/09/2002 SAC @ DAL W 27 20 6 6 100.0 2 2 100.0 6 6 100.0 0 5 5 3 1 0 6 5 13
+p76
+aVBobby Jackson SAC 05/09/2002 SAC @ DAL W 29 7 2 10 20.0 0 3 0.0 3 4 75.0 0 3 3 4 1 0 2 2 -10
+p77
+aVScot Pollard SAC 05/09/2002 SAC @ DAL W 11 9 4 4 100.0 0 0 - 1 1 100.0 0 2 2 0 1 1 0 2 2
+p78
+aVGerald Wallace SAC 05/09/2002 SAC @ DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p79
+aVMike Bibby SAC 05/09/2002 SAC @ DAL W 46 29 10 17 58.8 5 5 100.0 4 4 100.0 0 4 4 9 0 0 3 3 14
+p80
+aVHedo Turkoglu SAC 05/09/2002 SAC @ DAL W 26 4 1 3 33.3 0 1 0.0 2 2 100.0 1 2 3 2 0 0 2 2 -2
+p81
+aVPeja Stojakovic SAC 05/09/2002 SAC @ DAL W 25 6 1 7 14.3 0 3 0.0 4 4 100.0 1 1 2 1 0 0 0 3 3
+p82
+aVVlade Divac SAC 05/06/2002 SAC vs. DAL L 28 15 5 8 62.5 0 1 0.0 5 7 71.4 1 0 1 2 0 0 1 3 2
+p83
+aVChris Webber SAC 05/06/2002 SAC vs. DAL L 44 22 10 23 43.5 0 0 - 2 6 33.3 6 6 12 4 0 1 1 2 -7
+p84
+aVPeja Stojakovic SAC 05/06/2002 SAC vs. DAL L 43 14 5 19 26.3 1 5 20.0 3 3 100.0 3 9 12 1 1 0 3 3 -7
+p85
+aVHedo Turkoglu SAC 05/06/2002 SAC vs. DAL L 21 15 5 10 50.0 2 3 66.7 3 3 100.0 2 6 8 1 0 0 1 4 -1
+p86
+aVMike Bibby SAC 05/06/2002 SAC vs. DAL L 39 22 8 20 40.0 4 8 50.0 2 2 100.0 0 2 2 7 1 1 1 2 -2
+p87
+aVDoug Christie SAC 05/06/2002 SAC vs. DAL L 37 6 3 6 50.0 0 1 0.0 0 0 - 1 4 5 6 2 1 4 6 -16
+p88
+aVBobby Jackson SAC 05/06/2002 SAC vs. DAL L 27 8 2 7 28.6 0 3 0.0 4 4 100.0 2 5 7 5 2 1 2 2 -9
+p89
+aVScot Pollard SAC 05/04/2002 SAC vs. DAL W 4 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p90
+aVMike Bibby SAC 05/04/2002 SAC vs. DAL W 38 11 4 12 33.3 1 1 100.0 2 2 100.0 1 2 3 8 3 0 3 2 18
+p91
+aVVlade Divac SAC 05/04/2002 SAC vs. DAL W 35 18 6 10 60.0 0 0 - 6 8 75.0 3 13 16 3 1 1 1 5 21
+p92
+aVGerald Wallace SAC 05/04/2002 SAC vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p93
+aVHedo Turkoglu SAC 05/04/2002 SAC vs. DAL W 25 7 3 7 42.9 1 2 50.0 0 2 0.0 0 4 4 2 0 0 0 1 -2
+p94
+aVBobby Jackson SAC 05/04/2002 SAC vs. DAL W 22 12 5 9 55.6 0 2 0.0 2 2 100.0 1 3 4 4 3 1 0 0 4
+p95
+aVLawrence Funderburke SAC 05/04/2002 SAC vs. DAL W 1 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p96
+aVChris Webber SAC 05/04/2002 SAC vs. DAL W 31 20 8 19 42.1 0 0 - 4 6 66.7 5 5 10 1 0 3 4 6 5
+p97
+aVChucky Brown SAC 05/04/2002 SAC vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p98
+aVDoug Christie SAC 05/04/2002 SAC vs. DAL W 41 6 2 10 20.0 1 6 16.7 1 2 50.0 2 2 4 8 2 0 2 2 15
+p99
+aVPeja Stojakovic SAC 05/04/2002 SAC vs. DAL W 42 26 11 22 50.0 1 7 14.3 3 3 100.0 4 6 10 1 0 0 3 3 17
+p100
+aVPeja Stojakovic SAC 04/29/2002 SAC @ UTA W 42 30 9 13 69.2 4 6 66.7 8 9 88.9 1 1 2 0 0 0 3 1 5
+p101
+aVDoug Christie SAC 04/29/2002 SAC @ UTA W 44 12 4 9 44.4 1 3 33.3 3 3 100.0 1 7 8 9 4 0 3 3 5
+p102
+aVBobby Jackson SAC 04/29/2002 SAC @ UTA W 14 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 0 0 0 0 4 2
+p103
+aVMike Bibby SAC 04/29/2002 SAC @ UTA W 34 5 2 9 22.2 0 0 - 1 2 50.0 1 3 4 2 0 0 0 0 1
+p104
+aVChris Webber SAC 04/29/2002 SAC @ UTA W 42 23 9 22 40.9 0 0 - 5 6 83.3 2 7 9 2 4 3 7 4 2
+p105
+aVScot Pollard SAC 04/29/2002 SAC @ UTA W 18 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 1 1 0 1 8
+p106
+aVHedo Turkoglu SAC 04/29/2002 SAC @ UTA W 10 1 0 3 0.0 0 2 0.0 1 4 25.0 0 1 1 1 2 0 1 0 0
+p107
+aVVlade Divac SAC 04/29/2002 SAC @ UTA W 36 9 4 6 66.7 1 1 100.0 0 0 - 3 4 7 2 1 1 3 4 2
+p108
+aVScot Pollard SAC 04/27/2002 SAC @ UTA W 23 4 1 1 100.0 0 0 - 2 2 100.0 6 5 11 0 1 2 1 3 4
+p109
+aVPeja Stojakovic SAC 04/27/2002 SAC @ UTA W 41 21 5 17 29.4 2 4 50.0 9 9 100.0 2 9 11 1 0 0 3 3 1
+p110
+aVBobby Jackson SAC 04/27/2002 SAC @ UTA W 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 2 3
+p111
+aVChris Webber SAC 04/27/2002 SAC @ UTA W 37 18 7 17 41.2 0 0 - 4 5 80.0 4 9 13 1 0 0 5 4 4
+p112
+aVVlade Divac SAC 04/27/2002 SAC @ UTA W 35 5 0 5 0.0 0 0 - 5 6 83.3 4 5 9 0 1 1 5 6 -6
+p113
+aVHedo Turkoglu SAC 04/27/2002 SAC @ UTA W 13 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 0 0 1 2 0 1
+p114
+aVDoug Christie SAC 04/27/2002 SAC @ UTA W 38 9 2 10 20.0 1 6 16.7 4 7 57.1 0 1 1 3 1 1 1 4 2
+p115
+aVMike Bibby SAC 04/27/2002 SAC @ UTA W 40 26 8 17 47.1 1 4 25.0 9 9 100.0 0 5 5 5 3 0 3 2 6
+p116
+aVHedo Turkoglu SAC 04/23/2002 SAC vs. UTA L 15 2 1 8 12.5 0 3 0.0 0 0 - 0 4 4 0 0 0 2 5 -4
+p117
+aVLawrence Funderburke SAC 04/23/2002 SAC vs. UTA L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p118
+aVMike Bibby SAC 04/23/2002 SAC vs. UTA L 26 5 2 7 28.6 0 2 0.0 1 1 100.0 2 2 4 2 1 1 3 3 -14
+p119
+aVChris Webber SAC 04/23/2002 SAC vs. UTA L 36 18 6 16 37.5 0 0 - 6 8 75.0 2 7 9 4 1 1 3 5 -1
+p120
+aVVlade Divac SAC 04/23/2002 SAC vs. UTA L 30 21 8 15 53.3 0 1 0.0 5 6 83.3 3 3 6 0 1 2 1 6 2
+p121
+aVBobby Jackson SAC 04/23/2002 SAC vs. UTA L 22 8 3 9 33.3 1 5 20.0 1 1 100.0 0 2 2 1 1 0 0 4 7
+p122
+aVPeja Stojakovic SAC 04/23/2002 SAC vs. UTA L 41 16 6 18 33.3 2 7 28.6 2 2 100.0 1 4 5 2 3 0 2 3 -16
+p123
+aVScot Pollard SAC 04/23/2002 SAC vs. UTA L 17 4 2 7 28.6 0 0 - 0 0 - 4 1 5 0 1 0 0 4 -2
+p124
+aVDoug Christie SAC 04/23/2002 SAC vs. UTA L 45 12 2 7 28.6 0 4 0.0 8 9 88.9 2 2 4 5 1 0 4 4 -3
+p125
+aVChris Webber SAC 04/20/2002 SAC vs. UTA W 45 24 8 17 47.1 0 0 - 8 10 80.0 0 12 12 7 0 1 2 4 7
+p126
+aVPeja Stojakovic SAC 04/20/2002 SAC vs. UTA W 41 15 6 14 42.9 2 6 33.3 1 2 50.0 1 5 6 1 1 0 3 2 9
+p127
+aVHedo Turkoglu SAC 04/20/2002 SAC vs. UTA W 14 7 3 6 50.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 2 -12
+p128
+aVVlade Divac SAC 04/20/2002 SAC vs. UTA W 38 2 0 2 0.0 0 0 - 2 2 100.0 3 5 8 1 0 4 4 4 15
+p129
+aVDoug Christie SAC 04/20/2002 SAC vs. UTA W 41 17 5 8 62.5 2 5 40.0 5 5 100.0 0 6 6 4 2 1 3 3 6
+p130
+aVBobby Jackson SAC 04/20/2002 SAC vs. UTA W 14 4 1 6 16.7 0 3 0.0 2 2 100.0 1 0 1 1 1 0 0 0 -19
+p131
+aVScot Pollard SAC 04/20/2002 SAC vs. UTA W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -12
+p132
+aVMike Bibby SAC 04/20/2002 SAC vs. UTA W 37 20 6 10 60.0 2 3 66.7 6 8 75.0 1 3 4 6 0 0 4 2 21
+p133
+a.

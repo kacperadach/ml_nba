@@ -1,0 +1,1674 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJason Kidd NJN 04/20/2005 NJN @ BOS W 41 19 3 12 25.0 3 7 42.9 10 12 83.3 3 5 8 7 4 0 3 3 26
+p2
+aVZoran Planinic NJN 04/20/2005 NJN @ BOS W 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -7
+p3
+aVJason Collins NJN 04/20/2005 NJN @ BOS W 37 3 1 6 16.7 0 0 - 1 2 50.0 3 8 11 2 1 0 1 4 9
+p4
+aVNenad Krstic NJN 04/20/2005 NJN @ BOS W 39 18 6 6 100.0 0 0 - 6 7 85.7 4 6 10 1 0 0 1 4 15
+p5
+aVClifford Robinson NJN 04/20/2005 NJN @ BOS W 12 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 1 1 -15
+p6
+aVBrian Scalabrine NJN 04/20/2005 NJN @ BOS W 34 12 2 10 20.0 1 5 20.0 7 8 87.5 2 3 5 4 0 0 2 4 22
+p7
+aVRodney Buford NJN 04/20/2005 NJN @ BOS W 11 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 2 2 0 0 0 1
+p8
+aVVince Carter NJN 04/20/2005 NJN @ BOS W 44 37 13 30 43.3 6 8 75.0 5 6 83.3 3 1 4 1 2 0 5 1 9
+p9
+aVTravis Best NJN 04/20/2005 NJN @ BOS W 21 8 3 7 42.9 1 4 25.0 1 4 25.0 1 3 4 0 0 0 0 3 -15
+p10
+aVZoran Planinic NJN 04/19/2005 NJN vs. WAS W 21 12 4 7 57.1 2 3 66.7 2 4 50.0 1 1 2 1 0 0 0 4 -12
+p11
+aVVince Carter NJN 04/19/2005 NJN vs. WAS W 37 26 11 22 50.0 0 3 0.0 4 4 100.0 1 1 2 9 2 0 1 2 6
+p12
+aVTravis Best NJN 04/19/2005 NJN vs. WAS W 16 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 1 4
+p13
+aVNenad Krstic NJN 04/19/2005 NJN vs. WAS W 39 6 3 9 33.3 0 0 - 0 0 - 2 4 6 1 1 0 3 3 13
+p14
+aVJason Collins NJN 04/19/2005 NJN vs. WAS W 29 9 4 5 80.0 0 0 - 1 1 100.0 1 5 6 1 1 0 0 3 7
+p15
+aVJason Kidd NJN 04/19/2005 NJN vs. WAS W 43 35 13 26 50.0 3 9 33.3 6 8 75.0 3 5 8 8 5 0 4 1 13
+p16
+aVRodney Buford NJN 04/19/2005 NJN vs. WAS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p17
+aVBrian Scalabrine NJN 04/19/2005 NJN vs. WAS W 30 13 4 9 44.4 3 4 75.0 2 2 100.0 2 4 6 2 0 1 0 1 8
+p18
+aVClifford Robinson NJN 04/19/2005 NJN vs. WAS W 24 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 2 0 0 0 1 3
+p19
+aVVince Carter NJN 04/17/2005 NJN vs. PHI W 42 43 17 33 51.5 4 9 44.4 5 8 62.5 4 7 11 5 2 0 1 0 25
+p20
+aVRodney Buford NJN 04/17/2005 NJN vs. PHI W 8 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -4
+p21
+aVJason Collins NJN 04/17/2005 NJN vs. PHI W 31 4 2 8 25.0 0 0 - 0 0 - 2 1 3 2 0 0 0 5 21
+p22
+aVTravis Best NJN 04/17/2005 NJN vs. PHI W 12 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 0 1 1 0 3 -8
+p23
+aVClifford Robinson NJN 04/17/2005 NJN vs. PHI W 29 5 2 7 28.6 1 1 100.0 0 0 - 0 4 4 1 0 0 1 1 8
+p24
+aVJason Kidd NJN 04/17/2005 NJN vs. PHI W 40 11 5 13 38.5 0 3 0.0 1 2 50.0 3 7 10 16 4 0 4 4 23
+p25
+aVNenad Krstic NJN 04/17/2005 NJN vs. PHI W 36 18 8 15 53.3 0 1 0.0 2 2 100.0 4 6 10 3 2 1 4 5 13
+p26
+aVBrian Scalabrine NJN 04/17/2005 NJN vs. PHI W 37 13 5 9 55.6 3 6 50.0 0 2 0.0 2 9 11 1 3 0 2 2 21
+p27
+aVZoran Planinic NJN 04/17/2005 NJN vs. PHI W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 6
+p28
+aVJason Kidd NJN 04/15/2005 NJN @ TOR W 42 15 5 15 33.3 2 6 33.3 3 4 75.0 1 11 12 8 3 0 3 2 12
+p29
+aVZoran Planinic NJN 04/15/2005 NJN @ TOR W 8 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 2 4
+p30
+aVJason Collins NJN 04/15/2005 NJN @ TOR W 35 10 4 9 44.4 1 2 50.0 1 1 100.0 1 5 6 0 0 1 1 4 22
+p31
+aVNenad Krstic NJN 04/15/2005 NJN @ TOR W 23 8 3 4 75.0 0 0 - 2 4 50.0 3 1 4 2 0 0 2 5 -15
+p32
+aVRodney Buford NJN 04/15/2005 NJN @ TOR W 12 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 12
+p33
+aVVince Carter NJN 04/15/2005 NJN @ TOR W 43 39 15 26 57.7 3 8 37.5 6 7 85.7 2 7 9 4 3 0 1 3 7
+p34
+aVClifford Robinson NJN 04/15/2005 NJN @ TOR W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p35
+aVTravis Best NJN 04/15/2005 NJN @ TOR W 23 9 2 4 50.0 1 2 50.0 4 4 100.0 0 1 1 0 0 0 2 1 5
+p36
+aVBrian Scalabrine NJN 04/15/2005 NJN @ TOR W 45 16 4 10 40.0 1 4 25.0 7 8 87.5 3 5 8 5 0 0 3 2 10
+p37
+aVClifford Robinson NJN 04/13/2005 NJN @ IND L 28 7 3 8 37.5 1 4 25.0 0 2 0.0 1 2 3 1 1 0 1 4 -9
+p38
+aVBrian Scalabrine NJN 04/13/2005 NJN @ IND L 39 5 2 3 66.7 0 0 - 1 2 50.0 1 7 8 1 0 1 2 2 9
+p39
+aVVince Carter NJN 04/13/2005 NJN @ IND L 37 22 9 20 45.0 2 5 40.0 2 4 50.0 1 4 5 0 1 1 3 4 -10
+p40
+aVTravis Best NJN 04/13/2005 NJN @ IND L 28 11 2 6 33.3 0 1 0.0 7 8 87.5 1 2 3 3 1 0 1 3 -2
+p41
+aVJason Collins NJN 04/13/2005 NJN @ IND L 37 5 1 5 20.0 0 0 - 3 4 75.0 0 3 3 3 0 1 2 6 -1
+p42
+aVZoran Planinic NJN 04/13/2005 NJN @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p43
+aVJason Kidd NJN 04/13/2005 NJN @ IND L 42 29 10 19 52.6 2 4 50.0 7 10 70.0 1 14 15 6 2 0 4 0 -4
+p44
+aVNenad Krstic NJN 04/13/2005 NJN @ IND L 26 7 1 4 25.0 0 0 - 5 6 83.3 1 3 4 0 0 1 1 4 -3
+p45
+aVVince Carter NJN 04/09/2005 NJN vs. BOS W 36 45 18 32 56.3 7 9 77.8 2 3 66.7 1 6 7 3 4 1 2 2 23
+p46
+aVClifford Robinson NJN 04/09/2005 NJN vs. BOS W 30 11 5 9 55.6 1 4 25.0 0 0 - 1 6 7 2 5 1 1 3 17
+p47
+aVBrian Scalabrine NJN 04/09/2005 NJN vs. BOS W 22 4 2 8 25.0 0 0 - 0 0 - 4 2 6 5 0 0 0 5 8
+p48
+aVNenad Krstic NJN 04/09/2005 NJN vs. BOS W 28 17 7 15 46.7 0 0 - 3 3 100.0 2 6 8 0 0 0 2 4 15
+p49
+aVBilly Thomas NJN 04/09/2005 NJN vs. BOS W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -16
+p50
+aVTravis Best NJN 04/09/2005 NJN vs. BOS W 26 9 3 6 50.0 1 3 33.3 2 2 100.0 0 1 1 4 2 0 1 1 5
+p51
+aVJabari Smith NJN 04/09/2005 NJN vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p52
+aVJason Kidd NJN 04/09/2005 NJN vs. BOS W 37 4 2 6 33.3 0 2 0.0 0 0 - 1 8 9 17 1 0 4 3 15
+p53
+aVJason Collins NJN 04/09/2005 NJN vs. BOS W 24 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 2 3 18
+p54
+aVRodney Buford NJN 04/09/2005 NJN vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p55
+aVZoran Planinic NJN 04/09/2005 NJN vs. BOS W 19 7 3 7 42.9 0 3 0.0 1 2 50.0 0 1 1 2 3 0 1 1 -4
+p56
+aVVince Carter NJN 04/07/2005 NJN vs. NYK W 36 32 13 27 48.1 3 11 27.3 3 5 60.0 2 1 3 2 1 0 0 3 -11
+p57
+aVTravis Best NJN 04/07/2005 NJN vs. NYK W 20 5 2 5 40.0 0 1 0.0 1 2 50.0 1 1 2 5 1 0 0 2 14
+p58
+aVJason Collins NJN 04/07/2005 NJN vs. NYK W 40 8 3 6 50.0 0 0 - 2 4 50.0 1 7 8 2 1 1 0 5 7
+p59
+aVBrian Scalabrine NJN 04/07/2005 NJN vs. NYK W 40 12 5 9 55.6 1 3 33.3 1 2 50.0 0 6 6 3 3 0 4 1 17
+p60
+aVClifford Robinson NJN 04/07/2005 NJN vs. NYK W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 3 2 0 2 4 3
+p61
+aVNenad Krstic NJN 04/07/2005 NJN vs. NYK W 39 11 3 7 42.9 0 0 - 5 9 55.6 6 4 10 3 0 2 2 3 12
+p62
+aVJason Kidd NJN 04/07/2005 NJN vs. NYK W 36 28 11 22 50.0 3 10 30.0 3 3 100.0 4 6 10 12 1 0 1 3 17
+p63
+aVZoran Planinic NJN 04/07/2005 NJN vs. NYK W 12 11 5 6 83.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 1
+p64
+aVJason Collins NJN 04/05/2005 NJN @ CLE W 25 13 6 9 66.7 1 2 50.0 0 0 - 1 2 3 2 0 0 4 4 14
+p65
+aVJabari Smith NJN 04/05/2005 NJN @ CLE W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p66
+aVNenad Krstic NJN 04/05/2005 NJN @ CLE W 35 18 8 18 44.4 0 0 - 2 2 100.0 3 2 5 1 0 1 1 3 9
+p67
+aVBilly Thomas NJN 04/05/2005 NJN @ CLE W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 4
+p68
+aVZoran Planinic NJN 04/05/2005 NJN @ CLE W 13 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 1 1 0 2 3 18
+p69
+aVBrian Scalabrine NJN 04/05/2005 NJN @ CLE W 37 12 5 9 55.6 2 2 100.0 0 0 - 2 7 9 1 2 1 0 1 23
+p70
+aVClifford Robinson NJN 04/05/2005 NJN @ CLE W 24 12 5 9 55.6 2 4 50.0 0 0 - 1 1 2 1 0 1 2 2 25
+p71
+aVJason Kidd NJN 04/05/2005 NJN @ CLE W 35 13 5 8 62.5 3 6 50.0 0 0 - 1 1 2 12 2 0 2 1 17
+p72
+aVVince Carter NJN 04/05/2005 NJN @ CLE W 37 27 11 18 61.1 3 5 60.0 2 2 100.0 3 3 6 8 2 1 1 1 26
+p73
+aVTravis Best NJN 04/05/2005 NJN @ CLE W 23 4 2 3 66.7 0 0 - 0 0 - 2 4 6 8 0 0 0 0 15
+p74
+aVRodney Buford NJN 04/05/2005 NJN @ CLE W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p75
+aVJason Kidd NJN 04/02/2005 NJN vs. ORL L 45 20 8 21 38.1 1 8 12.5 3 4 75.0 3 8 11 7 1 0 4 2 -2
+p76
+aVTravis Best NJN 04/02/2005 NJN vs. ORL L 35 12 4 11 36.4 0 3 0.0 4 6 66.7 1 2 3 2 5 0 2 5 1
+p77
+aVRodney Buford NJN 04/02/2005 NJN vs. ORL L 15 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 3 1 0 2 1 1
+p78
+aVJacque Vaughn NJN 04/02/2005 NJN vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p79
+aVZoran Planinic NJN 04/02/2005 NJN vs. ORL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 5
+p80
+aVVince Carter NJN 04/02/2005 NJN vs. ORL L 35 21 8 16 50.0 2 4 50.0 3 5 60.0 0 2 2 6 0 0 1 5 -3
+p81
+aVJason Collins NJN 04/02/2005 NJN vs. ORL L 29 3 0 5 0.0 0 0 - 3 4 75.0 1 4 5 3 0 0 0 3 10
+p82
+aVClifford Robinson NJN 04/02/2005 NJN vs. ORL L 18 5 1 3 33.3 1 3 33.3 2 2 100.0 0 5 5 1 0 1 0 5 -7
+p83
+aVBrian Scalabrine NJN 04/02/2005 NJN vs. ORL L 15 8 2 5 40.0 1 4 25.0 3 4 75.0 1 2 3 0 0 2 0 3 -2
+p84
+aVNenad Krstic NJN 04/02/2005 NJN vs. ORL L 38 28 12 17 70.6 0 0 - 4 6 66.7 6 5 11 0 0 0 2 5 2
+p85
+aVJabari Smith NJN 04/02/2005 NJN vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p86
+aVTravis Best NJN 04/01/2005 NJN @ NYK W 15 8 4 5 80.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 3 1
+p87
+aVNenad Krstic NJN 04/01/2005 NJN @ NYK W 37 10 5 7 71.4 0 0 - 0 3 0.0 1 4 5 2 0 1 4 5 8
+p88
+aVVince Carter NJN 04/01/2005 NJN @ NYK W 43 31 9 23 39.1 2 5 40.0 11 14 78.6 2 2 4 6 0 0 2 4 0
+p89
+aVJason Collins NJN 04/01/2005 NJN @ NYK W 22 5 2 4 50.0 0 0 - 1 2 50.0 2 4 6 0 4 0 0 4 16
+p90
+aVRodney Buford NJN 04/01/2005 NJN @ NYK W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p91
+aVJacque Vaughn NJN 04/01/2005 NJN @ NYK W 27 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 5 0 0 2 5 -4
+p92
+aVJason Kidd NJN 04/01/2005 NJN @ NYK W 45 18 7 16 43.8 3 11 27.3 1 3 33.3 2 6 8 4 2 0 4 2 9
+p93
+aVBrian Scalabrine NJN 04/01/2005 NJN @ NYK W 16 7 3 3 100.0 0 0 - 1 1 100.0 1 4 5 0 0 0 3 5 1
+p94
+aVClifford Robinson NJN 04/01/2005 NJN @ NYK W 29 12 4 8 50.0 3 4 75.0 1 2 50.0 0 2 2 1 1 1 1 2 -16
+p95
+aVJason Kidd NJN 03/30/2005 NJN vs. LAC W 29 8 3 4 75.0 2 2 100.0 0 0 - 0 3 3 13 1 0 1 1 21
+p96
+aVClifford Robinson NJN 03/30/2005 NJN vs. LAC W 13 7 3 6 50.0 1 3 33.3 0 0 - 2 2 4 1 0 0 0 4 7
+p97
+aVRodney Buford NJN 03/30/2005 NJN vs. LAC W 16 0 0 7 0.0 0 2 0.0 0 0 - 1 0 1 2 0 0 1 0 1
+p98
+aVBilly Thomas NJN 03/30/2005 NJN vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p99
+aVJacque Vaughn NJN 03/30/2005 NJN vs. LAC W 34 10 5 8 62.5 0 0 - 0 0 - 0 1 1 5 2 0 1 1 9
+p100
+aVVince Carter NJN 03/30/2005 NJN vs. LAC W 35 31 12 20 60.0 2 6 33.3 5 5 100.0 2 3 5 5 1 0 2 1 16
+p101
+aVJason Collins NJN 03/30/2005 NJN vs. LAC W 30 6 3 10 30.0 0 0 - 0 0 - 4 5 9 0 1 1 0 4 10
+p102
+aVZoran Planinic NJN 03/30/2005 NJN vs. LAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -2
+p103
+aVTravis Best NJN 03/30/2005 NJN vs. LAC W 21 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 4 1 0 0 2 4
+p104
+aVNenad Krstic NJN 03/30/2005 NJN vs. LAC W 28 17 7 9 77.8 0 0 - 3 4 75.0 0 3 3 1 0 0 5 4 15
+p105
+aVJabari Smith NJN 03/30/2005 NJN vs. LAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -4
+p106
+aVBrian Scalabrine NJN 03/30/2005 NJN vs. LAC W 20 12 6 12 50.0 0 1 0.0 0 0 - 2 5 7 1 2 0 3 3 6
+p107
+aVClifford Robinson NJN 03/28/2005 NJN @ CHA W 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 3 -2
+p108
+aVVince Carter NJN 03/28/2005 NJN @ CHA W 43 39 15 33 45.5 2 8 25.0 7 10 70.0 2 4 6 2 5 0 5 3 4
+p109
+aVJason Collins NJN 03/28/2005 NJN @ CHA W 35 6 2 4 50.0 0 0 - 2 5 40.0 3 6 9 3 3 1 1 4 3
+p110
+aVNenad Krstic NJN 03/28/2005 NJN @ CHA W 35 15 5 11 45.5 0 0 - 5 6 83.3 6 9 15 1 0 1 3 5 8
+p111
+aVRodney Buford NJN 03/28/2005 NJN @ CHA W 14 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -3
+p112
+aVJabari Smith NJN 03/28/2005 NJN @ CHA W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p113
+aVTravis Best NJN 03/28/2005 NJN @ CHA W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -6
+p114
+aVJacque Vaughn NJN 03/28/2005 NJN @ CHA W 31 11 4 8 50.0 0 0 - 3 5 60.0 0 2 2 5 0 0 1 3 4
+p115
+aVBrian Scalabrine NJN 03/28/2005 NJN @ CHA W 14 5 2 6 33.3 1 2 50.0 0 0 - 2 2 4 0 0 0 0 3 7
+p116
+aVZoran Planinic NJN 03/28/2005 NJN @ CHA W 9 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 2 1 0 0 2 1
+p117
+aVJason Kidd NJN 03/28/2005 NJN @ CHA W 40 13 5 11 45.5 0 2 0.0 3 4 75.0 0 6 6 5 0 0 0 2 8
+p118
+aVNenad Krstic NJN 03/26/2005 NJN vs. MIN L 29 4 2 9 22.2 0 0 - 0 0 - 4 2 6 2 1 0 1 5 -11
+p119
+aVJabari Smith NJN 03/26/2005 NJN vs. MIN L 3 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 0
+p120
+aVJason Kidd NJN 03/26/2005 NJN vs. MIN L 34 7 3 12 25.0 0 6 0.0 1 1 100.0 4 6 10 8 1 0 5 2 -17
+p121
+aVRodney Buford NJN 03/26/2005 NJN vs. MIN L 28 12 4 11 36.4 0 2 0.0 4 4 100.0 0 1 1 2 1 0 0 1 -14
+p122
+aVVince Carter NJN 03/26/2005 NJN vs. MIN L 39 16 7 17 41.2 0 3 0.0 2 2 100.0 0 4 4 4 2 0 2 1 -15
+p123
+aVZoran Planinic NJN 03/26/2005 NJN vs. MIN L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p124
+aVTravis Best NJN 03/26/2005 NJN vs. MIN L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p125
+aVBrian Scalabrine NJN 03/26/2005 NJN vs. MIN L 14 0 0 4 0.0 0 0 - 0 0 - 3 2 5 1 2 0 1 0 -11
+p126
+aVClifford Robinson NJN 03/26/2005 NJN vs. MIN L 19 2 1 7 14.3 0 2 0.0 0 0 - 2 4 6 2 0 1 0 2 -17
+p127
+aVBilly Thomas NJN 03/26/2005 NJN vs. MIN L 3 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 2
+p128
+aVJacque Vaughn NJN 03/26/2005 NJN vs. MIN L 30 15 6 13 46.2 1 1 100.0 2 2 100.0 0 1 1 2 2 0 0 3 -12
+p129
+aVJason Collins NJN 03/26/2005 NJN vs. MIN L 31 11 5 7 71.4 0 0 - 1 1 100.0 0 1 1 1 2 3 1 1 -3
+p130
+aVTravis Best NJN 03/24/2005 NJN vs. MEM L 14 5 1 3 33.3 1 3 33.3 2 2 100.0 0 0 0 0 0 0 0 0 2
+p131
+aVBrian Scalabrine NJN 03/24/2005 NJN vs. MEM L 9 4 1 3 33.3 0 0 - 2 3 66.7 0 0 0 1 0 0 0 1 4
+p132
+aVBilly Thomas NJN 03/24/2005 NJN vs. MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p133
+aVClifford Robinson NJN 03/24/2005 NJN vs. MEM L 21 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 1 1 0 0 4 -6
+p134
+aVRodney Buford NJN 03/24/2005 NJN vs. MEM L 29 15 7 14 50.0 1 4 25.0 0 0 - 2 3 5 0 1 0 0 1 5
+p135
+aVNenad Krstic NJN 03/24/2005 NJN vs. MEM L 33 21 4 11 36.4 0 0 - 13 17 76.5 2 4 6 1 0 3 2 4 -5
+p136
+aVJason Collins NJN 03/24/2005 NJN vs. MEM L 28 5 2 4 50.0 0 0 - 1 2 50.0 3 2 5 1 0 0 0 6 -13
+p137
+aVVince Carter NJN 03/24/2005 NJN vs. MEM L 37 22 8 20 40.0 1 4 25.0 5 7 71.4 1 3 4 8 2 0 2 6 -1
+p138
+aVJason Kidd NJN 03/24/2005 NJN vs. MEM L 43 12 3 12 25.0 2 6 33.3 4 4 100.0 0 6 6 12 2 0 2 1 -24
+p139
+aVJacque Vaughn NJN 03/24/2005 NJN vs. MEM L 25 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -7
+p140
+aVNenad Krstic NJN 03/22/2005 NJN vs. IND W 30 15 6 8 75.0 0 1 0.0 3 4 75.0 2 3 5 1 0 2 0 3 16
+p141
+aVBilly Thomas NJN 03/22/2005 NJN vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p142
+aVClifford Robinson NJN 03/22/2005 NJN vs. IND W 22 10 2 5 40.0 1 1 100.0 5 6 83.3 1 2 3 1 0 0 2 2 -5
+p143
+aVJason Kidd NJN 03/22/2005 NJN vs. IND W 42 16 6 15 40.0 3 7 42.9 1 4 25.0 1 6 7 9 1 0 2 1 13
+p144
+aVBrian Scalabrine NJN 03/22/2005 NJN vs. IND W 10 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 0 0 1 0 -7
+p145
+aVTravis Best NJN 03/22/2005 NJN vs. IND W 19 9 2 3 66.7 0 0 - 5 6 83.3 0 1 1 1 1 0 2 3 2
+p146
+aVVince Carter NJN 03/22/2005 NJN vs. IND W 41 33 13 21 61.9 0 0 - 7 8 87.5 1 4 5 7 0 0 3 6 15
+p147
+aVJacque Vaughn NJN 03/22/2005 NJN vs. IND W 24 8 3 8 37.5 0 0 - 2 2 100.0 1 0 1 2 0 0 0 2 3
+p148
+aVRodney Buford NJN 03/22/2005 NJN vs. IND W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -4
+p149
+aVZoran Planinic NJN 03/22/2005 NJN vs. IND W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p150
+aVJason Collins NJN 03/22/2005 NJN vs. IND W 39 2 1 2 50.0 0 0 - 0 0 - 1 4 5 2 0 0 0 5 5
+p151
+aVJacque Vaughn NJN 03/20/2005 NJN @ IND W 31 7 2 6 33.3 0 0 - 3 3 100.0 1 4 5 2 1 0 2 3 7
+p152
+aVVince Carter NJN 03/20/2005 NJN @ IND W 43 39 14 25 56.0 3 4 75.0 8 8 100.0 4 7 11 4 1 0 3 2 13
+p153
+aVJason Kidd NJN 03/20/2005 NJN @ IND W 40 14 6 20 30.0 1 5 20.0 1 2 50.0 4 8 12 7 0 0 0 3 7
+p154
+aVClifford Robinson NJN 03/20/2005 NJN @ IND W 25 5 1 3 33.3 0 1 0.0 3 4 75.0 0 1 1 2 0 0 2 1 7
+p155
+aVJason Collins NJN 03/20/2005 NJN @ IND W 20 0 0 1 0.0 0 0 - 0 0 - 0 5 5 2 0 1 1 5 9
+p156
+aVBrian Scalabrine NJN 03/20/2005 NJN @ IND W 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p157
+aVTravis Best NJN 03/20/2005 NJN @ IND W 23 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 2 0 0 3 2 -3
+p158
+aVZoran Planinic NJN 03/20/2005 NJN @ IND W 13 5 1 4 25.0 1 3 33.3 2 2 100.0 0 0 0 0 3 0 1 3 -2
+p159
+aVNenad Krstic NJN 03/20/2005 NJN @ IND W 34 18 6 9 66.7 0 0 - 6 7 85.7 1 5 6 1 0 0 1 4 5
+p160
+aVNenad Krstic NJN 03/18/2005 NJN vs. UTA W 25 11 3 4 75.0 0 0 - 5 6 83.3 0 2 2 2 0 0 3 1 10
+p161
+aVBilly Thomas NJN 03/18/2005 NJN vs. UTA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p162
+aVVince Carter NJN 03/18/2005 NJN vs. UTA W 31 23 8 17 47.1 1 2 50.0 6 6 100.0 1 2 3 4 2 1 0 3 14
+p163
+aVJason Collins NJN 03/18/2005 NJN vs. UTA W 30 4 1 2 50.0 0 0 - 2 6 33.3 2 3 5 1 1 2 1 2 22
+p164
+aVRodney Buford NJN 03/18/2005 NJN vs. UTA W 12 6 3 6 50.0 0 0 - 0 0 - 1 0 1 1 1 0 0 2 -4
+p165
+aVJason Kidd NJN 03/18/2005 NJN vs. UTA W 32 10 4 7 57.1 0 3 0.0 2 2 100.0 2 6 8 9 1 0 3 2 23
+p166
+aVJacque Vaughn NJN 03/18/2005 NJN vs. UTA W 18 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 4 8
+p167
+aVClifford Robinson NJN 03/18/2005 NJN vs. UTA W 20 0 0 4 0.0 0 0 - 0 0 - 1 2 3 3 1 0 2 0 -2
+p168
+aVJabari Smith NJN 03/18/2005 NJN vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p169
+aVZoran Planinic NJN 03/18/2005 NJN vs. UTA W 21 10 3 7 42.9 1 1 100.0 3 4 75.0 0 1 1 1 2 0 1 2 -5
+p170
+aVBrian Scalabrine NJN 03/18/2005 NJN vs. UTA W 17 12 5 5 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 1 3
+p171
+aVTravis Best NJN 03/18/2005 NJN vs. UTA W 27 14 6 12 50.0 1 1 100.0 1 1 100.0 1 1 2 2 3 0 1 3 8
+p172
+aVClifford Robinson NJN 03/16/2005 NJN vs. CHI W 23 5 2 6 33.3 0 0 - 1 3 33.3 1 2 3 1 2 0 0 2 -4
+p173
+aVJason Kidd NJN 03/16/2005 NJN vs. CHI W 41 22 8 20 40.0 2 6 33.3 4 5 80.0 4 7 11 8 1 0 4 4 16
+p174
+aVTravis Best NJN 03/16/2005 NJN vs. CHI W 21 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 3 3 0 2 3 -5
+p175
+aVBrian Scalabrine NJN 03/16/2005 NJN vs. CHI W 13 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 2
+p176
+aVJabari Smith NJN 03/16/2005 NJN vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p177
+aVJacque Vaughn NJN 03/16/2005 NJN vs. CHI W 32 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 2 0 0 0 1 15
+p178
+aVZoran Planinic NJN 03/16/2005 NJN vs. CHI W 8 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 3 -7
+p179
+aVRodney Buford NJN 03/16/2005 NJN vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p180
+aVJason Collins NJN 03/16/2005 NJN vs. CHI W 31 14 6 11 54.5 0 1 0.0 2 2 100.0 1 10 11 4 0 0 1 4 25
+p181
+aVVince Carter NJN 03/16/2005 NJN vs. CHI W 40 30 11 16 68.8 3 7 42.9 5 6 83.3 2 6 8 8 2 0 1 2 30
+p182
+aVNenad Krstic NJN 03/16/2005 NJN vs. CHI W 28 11 5 10 50.0 0 0 - 1 2 50.0 3 2 5 1 1 0 1 4 10
+p183
+aVBrian Scalabrine NJN 03/13/2005 NJN @ ORL W 16 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -1
+p184
+aVTravis Best NJN 03/13/2005 NJN @ ORL W 15 7 3 4 75.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 3 4
+p185
+aVJason Kidd NJN 03/13/2005 NJN @ ORL W 38 14 4 8 50.0 2 6 33.3 4 6 66.7 2 8 10 10 5 1 4 3 27
+p186
+aVNenad Krstic NJN 03/13/2005 NJN @ ORL W 32 9 2 8 25.0 0 0 - 5 8 62.5 1 7 8 1 1 0 0 4 17
+p187
+aVZoran Planinic NJN 03/13/2005 NJN @ ORL W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -9
+p188
+aVClifford Robinson NJN 03/13/2005 NJN @ ORL W 17 9 4 7 57.1 1 2 50.0 0 0 - 1 3 4 0 0 0 1 1 3
+p189
+aVVince Carter NJN 03/13/2005 NJN @ ORL W 45 33 10 19 52.6 1 1 100.0 12 16 75.0 1 6 7 3 4 0 2 2 18
+p190
+aVJason Collins NJN 03/13/2005 NJN @ ORL W 31 4 1 5 20.0 0 0 - 2 2 100.0 0 3 3 1 1 0 1 3 13
+p191
+aVBilly Thomas NJN 03/13/2005 NJN @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p192
+aVJacque Vaughn NJN 03/13/2005 NJN @ ORL W 36 22 11 17 64.7 0 0 - 0 0 - 0 2 2 4 1 1 1 1 9
+p193
+aVNenad Krstic NJN 03/12/2005 NJN @ MIA L 17 12 4 8 50.0 0 0 - 4 4 100.0 1 2 3 0 1 0 0 2 -6
+p194
+aVTravis Best NJN 03/12/2005 NJN @ MIA L 29 9 4 14 28.6 1 4 25.0 0 0 - 0 2 2 1 2 1 3 1 -13
+p195
+aVJason Kidd NJN 03/12/2005 NJN @ MIA L 36 7 3 10 30.0 0 3 0.0 1 2 50.0 1 8 9 4 3 0 1 0 -17
+p196
+aVVince Carter NJN 03/12/2005 NJN @ MIA L 31 20 5 14 35.7 0 2 0.0 10 12 83.3 2 3 5 2 0 0 3 3 -25
+p197
+aVBrian Scalabrine NJN 03/12/2005 NJN @ MIA L 19 2 1 5 20.0 0 0 - 0 0 - 2 7 9 1 1 1 1 3 -4
+p198
+aVRodney Buford NJN 03/12/2005 NJN @ MIA L 19 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p199
+aVZoran Planinic NJN 03/12/2005 NJN @ MIA L 14 3 0 4 0.0 0 1 0.0 3 4 75.0 2 1 3 0 0 0 0 3 -8
+p200
+aVClifford Robinson NJN 03/12/2005 NJN @ MIA L 17 5 2 4 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 6 -11
+p201
+aVJason Collins NJN 03/12/2005 NJN @ MIA L 31 2 1 6 16.7 0 0 - 0 0 - 4 2 6 0 2 0 2 4 -25
+p202
+aVJacque Vaughn NJN 03/12/2005 NJN @ MIA L 27 3 1 5 20.0 0 0 - 1 2 50.0 0 0 0 2 0 0 2 3 -13
+p203
+aVVince Carter NJN 03/09/2005 NJN @ NOH W 45 24 8 25 32.0 1 4 25.0 7 8 87.5 1 9 10 3 1 0 4 5 7
+p204
+aVNenad Krstic NJN 03/09/2005 NJN @ NOH W 33 12 5 8 62.5 0 0 - 2 2 100.0 5 2 7 1 0 1 2 6 -6
+p205
+aVZoran Planinic NJN 03/09/2005 NJN @ NOH W 18 9 2 5 40.0 2 4 50.0 3 4 75.0 1 3 4 0 0 0 1 2 3
+p206
+aVRodney Buford NJN 03/09/2005 NJN @ NOH W 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -6
+p207
+aVJason Collins NJN 03/09/2005 NJN @ NOH W 40 1 0 3 0.0 0 0 - 1 4 25.0 5 4 9 3 1 1 0 4 9
+p208
+aVJason Kidd NJN 03/09/2005 NJN @ NOH W 45 15 6 17 35.3 1 5 20.0 2 3 66.7 3 4 7 9 5 0 4 2 2
+p209
+aVBrian Scalabrine NJN 03/09/2005 NJN @ NOH W 16 4 2 8 25.0 0 0 - 0 0 - 3 2 5 1 2 0 0 0 0
+p210
+aVTravis Best NJN 03/09/2005 NJN @ NOH W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -1
+p211
+aVClifford Robinson NJN 03/09/2005 NJN @ NOH W 17 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 0 0 2 1 0 -1
+p212
+aVJacque Vaughn NJN 03/09/2005 NJN @ NOH W 35 13 5 7 71.4 0 0 - 3 4 75.0 1 2 3 1 1 0 3 1 -2
+p213
+aVBrian Scalabrine NJN 03/08/2005 NJN @ SAS L 18 6 2 5 40.0 0 0 - 2 3 66.7 1 1 2 1 0 0 1 1 -11
+p214
+aVJason Kidd NJN 03/08/2005 NJN @ SAS L 38 14 5 15 33.3 2 4 50.0 2 4 50.0 2 2 4 9 4 0 5 2 -8
+p215
+aVJason Collins NJN 03/08/2005 NJN @ SAS L 35 7 2 11 18.2 0 0 - 3 3 100.0 4 8 12 0 0 0 1 6 -10
+p216
+aVRon Mercer NJN 03/08/2005 NJN @ SAS L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -6
+p217
+aVRodney Buford NJN 03/08/2005 NJN @ SAS L 24 7 2 12 16.7 0 4 0.0 3 4 75.0 1 5 6 1 1 0 1 4 -4
+p218
+aVTravis Best NJN 03/08/2005 NJN @ SAS L 22 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -14
+p219
+aVNenad Krstic NJN 03/08/2005 NJN @ SAS L 22 19 8 10 80.0 0 0 - 3 5 60.0 3 6 9 0 0 1 1 6 -1
+p220
+aVVince Carter NJN 03/08/2005 NJN @ SAS L 39 13 4 18 22.2 0 4 0.0 5 6 83.3 2 7 9 2 2 1 6 3 -25
+p221
+aVJacque Vaughn NJN 03/08/2005 NJN @ SAS L 22 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 3 1 0 0 3 1
+p222
+aVZoran Planinic NJN 03/08/2005 NJN @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p223
+aVJabari Smith NJN 03/08/2005 NJN @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -3
+p224
+aVZoran Planinic NJN 03/05/2005 NJN vs. ORL L 13 7 2 4 50.0 1 1 100.0 2 4 50.0 0 1 1 2 1 0 1 0 4
+p225
+aVRon Mercer NJN 03/05/2005 NJN vs. ORL L 20 10 5 11 45.5 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p226
+aVTravis Best NJN 03/05/2005 NJN vs. ORL L 24 8 2 4 50.0 0 1 0.0 4 4 100.0 1 0 1 2 1 0 0 1 0
+p227
+aVVince Carter NJN 03/05/2005 NJN vs. ORL L 35 20 7 16 43.8 1 3 33.3 5 5 100.0 1 5 6 5 2 0 6 3 -28
+p228
+aVJacque Vaughn NJN 03/05/2005 NJN vs. ORL L 17 2 1 5 20.0 0 0 - 0 0 - 0 0 0 2 0 0 0 4 -14
+p229
+aVRodney Buford NJN 03/05/2005 NJN vs. ORL L 16 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 0 -5
+p230
+aVJason Kidd NJN 03/05/2005 NJN vs. ORL L 29 5 2 10 20.0 1 6 16.7 0 0 - 0 5 5 4 1 1 0 5 -24
+p231
+aVClifford Robinson NJN 03/05/2005 NJN vs. ORL L 15 8 3 6 50.0 2 3 66.7 0 0 - 2 4 6 0 0 0 0 2 -14
+p232
+aVJabari Smith NJN 03/05/2005 NJN vs. ORL L 14 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 0 0 0 3 2
+p233
+aVJason Collins NJN 03/05/2005 NJN vs. ORL L 24 5 2 4 50.0 0 0 - 1 1 100.0 2 2 4 4 0 1 1 4 -21
+p234
+aVNenad Krstic NJN 03/05/2005 NJN vs. ORL L 19 7 2 5 40.0 0 0 - 3 4 75.0 2 1 3 0 0 0 1 2 -23
+p235
+aVBrian Scalabrine NJN 03/05/2005 NJN vs. ORL L 14 5 2 9 22.2 0 1 0.0 1 1 100.0 1 1 2 1 0 1 1 1 4
+p236
+aVTravis Best NJN 03/03/2005 NJN vs. MIA L 12 5 1 5 20.0 1 2 50.0 2 2 100.0 1 0 1 0 1 0 0 3 1
+p237
+aVNenad Krstic NJN 03/03/2005 NJN vs. MIA L 32 11 3 10 30.0 0 0 - 5 6 83.3 3 3 6 4 1 0 1 2 -12
+p238
+aVZoran Planinic NJN 03/03/2005 NJN vs. MIA L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p239
+aVVince Carter NJN 03/03/2005 NJN vs. MIA L 39 27 7 21 33.3 3 6 50.0 10 11 90.9 0 3 3 9 0 0 2 4 -14
+p240
+aVJacque Vaughn NJN 03/03/2005 NJN vs. MIA L 23 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 -1
+p241
+aVClifford Robinson NJN 03/03/2005 NJN vs. MIA L 27 2 0 7 0.0 0 3 0.0 2 2 100.0 1 5 6 0 2 1 0 4 -14
+p242
+aVRodney Buford NJN 03/03/2005 NJN vs. MIA L 11 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p243
+aVJason Collins NJN 03/03/2005 NJN vs. MIA L 23 8 4 6 66.7 0 0 - 0 4 0.0 2 3 5 1 0 1 0 4 -5
+p244
+aVRon Mercer NJN 03/03/2005 NJN vs. MIA L 18 12 6 9 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -11
+p245
+aVBrian Scalabrine NJN 03/03/2005 NJN vs. MIA L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -2
+p246
+aVJason Kidd NJN 03/03/2005 NJN vs. MIA L 37 10 4 12 33.3 2 8 25.0 0 0 - 0 6 6 5 2 0 1 2 -21
+p247
+aVJabari Smith NJN 03/03/2005 NJN vs. MIA L 10 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 2 0 0 0 0 2
+p248
+aVClifford Robinson NJN 03/02/2005 NJN @ PHI W 28 18 5 11 45.5 2 5 40.0 6 6 100.0 2 3 5 0 0 2 1 3 0
+p249
+aVRon Mercer NJN 03/02/2005 NJN @ PHI W 20 4 2 10 20.0 0 0 - 0 0 - 0 3 3 2 1 0 0 1 4
+p250
+aVJason Collins NJN 03/02/2005 NJN @ PHI W 41 8 3 8 37.5 0 0 - 2 4 50.0 2 6 8 0 1 0 0 3 8
+p251
+aVJason Kidd NJN 03/02/2005 NJN @ PHI W 42 15 6 14 42.9 3 6 50.0 0 0 - 0 4 4 6 3 0 4 2 10
+p252
+aVJabari Smith NJN 03/02/2005 NJN @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p253
+aVRodney Buford NJN 03/02/2005 NJN @ PHI W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p254
+aVTravis Best NJN 03/02/2005 NJN @ PHI W 20 14 5 7 71.4 0 0 - 4 4 100.0 1 3 4 4 0 0 1 5 6
+p255
+aVNenad Krstic NJN 03/02/2005 NJN @ PHI W 26 4 2 5 40.0 0 0 - 0 0 - 3 4 7 2 0 0 2 3 6
+p256
+aVJacque Vaughn NJN 03/02/2005 NJN @ PHI W 16 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 3 3 -8
+p257
+aVVince Carter NJN 03/02/2005 NJN @ PHI W 43 32 8 19 42.1 4 6 66.7 12 14 85.7 0 8 8 7 1 0 2 4 5
+p258
+aVElden Campbell NJN 02/27/2005 NJN vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p259
+aVJason Collins NJN 02/27/2005 NJN vs. CLE W 29 6 2 5 40.0 0 0 - 2 4 50.0 1 4 5 1 2 1 1 5 12
+p260
+aVJacque Vaughn NJN 02/27/2005 NJN vs. CLE W 26 9 4 8 50.0 0 1 0.0 1 1 100.0 0 1 1 5 2 0 0 1 2
+p261
+aVNenad Krstic NJN 02/27/2005 NJN vs. CLE W 41 15 5 12 41.7 0 0 - 5 8 62.5 1 1 2 0 0 0 2 5 5
+p262
+aVJabari Smith NJN 02/27/2005 NJN vs. CLE W 7 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 0 0 1 0 0 -4
+p263
+aVTravis Best NJN 02/27/2005 NJN vs. CLE W 22 6 1 7 14.3 1 3 33.3 3 3 100.0 0 2 2 4 1 1 0 0 5
+p264
+aVVince Carter NJN 02/27/2005 NJN vs. CLE W 35 34 10 18 55.6 3 3 100.0 11 11 100.0 6 5 11 1 2 1 3 5 10
+p265
+aVRon Mercer NJN 02/27/2005 NJN vs. CLE W 19 10 4 8 50.0 0 0 - 2 2 100.0 1 0 1 1 1 0 0 2 0
+p266
+aVClifford Robinson NJN 02/27/2005 NJN vs. CLE W 18 6 2 7 28.6 0 1 0.0 2 2 100.0 0 1 1 2 2 3 1 2 0
+p267
+aVJason Kidd NJN 02/27/2005 NJN vs. CLE W 42 14 4 13 30.8 2 7 28.6 4 4 100.0 0 8 8 12 3 1 3 1 1
+p268
+aVJacque Vaughn NJN 02/25/2005 NJN vs. CHA W 28 8 4 10 40.0 0 0 - 0 0 - 0 2 2 3 2 0 1 4 14
+p269
+aVRon Mercer NJN 02/25/2005 NJN vs. CHA W 16 3 1 8 12.5 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 1 6
+p270
+aVJason Collins NJN 02/25/2005 NJN vs. CHA W 38 4 2 4 50.0 0 0 - 0 0 - 2 10 12 3 2 1 0 3 -3
+p271
+aVBilly Thomas NJN 02/25/2005 NJN vs. CHA W 13 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 1 1 0 -3
+p272
+aVJason Kidd NJN 02/25/2005 NJN vs. CHA W 32 11 4 9 44.4 1 2 50.0 2 2 100.0 2 6 8 9 2 1 7 1 -3
+p273
+aVJabari Smith NJN 02/25/2005 NJN vs. CHA W 17 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 1 0 2 1 5
+p274
+aVVince Carter NJN 02/25/2005 NJN vs. CHA W 35 28 9 20 45.0 0 1 0.0 10 10 100.0 3 2 5 3 0 0 4 4 2
+p275
+aVNenad Krstic NJN 02/25/2005 NJN vs. CHA W 28 25 9 12 75.0 0 0 - 7 7 100.0 2 3 5 0 0 1 2 6 24
+p276
+aVElden Campbell NJN 02/25/2005 NJN vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p277
+aVClifford Robinson NJN 02/25/2005 NJN vs. CHA W 12 3 1 5 20.0 1 1 100.0 0 0 - 0 2 2 1 0 1 2 2 -10
+p278
+aVTravis Best NJN 02/25/2005 NJN vs. CHA W 20 11 5 9 55.6 1 1 100.0 0 0 - 0 0 0 1 1 1 0 1 1
+p279
+aVTravis Best NJN 02/23/2005 NJN @ MIL L 17 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 2 0 0 0 -13
+p280
+aVVince Carter NJN 02/23/2005 NJN @ MIL L 32 26 11 27 40.7 1 3 33.3 3 4 75.0 3 1 4 2 1 1 3 4 -18
+p281
+aVElden Campbell NJN 02/23/2005 NJN @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p282
+aVBilly Thomas NJN 02/23/2005 NJN @ MIL L 10 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p283
+aVJacque Vaughn NJN 02/23/2005 NJN @ MIL L 27 4 2 9 22.2 0 0 - 0 0 - 0 2 2 2 2 0 0 3 -2
+p284
+aVJason Collins NJN 02/23/2005 NJN @ MIL L 30 6 2 5 40.0 0 0 - 2 2 100.0 5 6 11 1 1 1 2 5 -11
+p285
+aVRon Mercer NJN 02/23/2005 NJN @ MIL L 27 7 3 12 25.0 0 0 - 1 2 50.0 0 1 1 2 3 0 0 2 -8
+p286
+aVJason Kidd NJN 02/23/2005 NJN @ MIL L 27 11 3 10 30.0 0 2 0.0 5 6 83.3 1 4 5 7 2 0 1 0 -4
+p287
+aVZoran Planinic NJN 02/23/2005 NJN @ MIL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -4
+p288
+aVJabari Smith NJN 02/23/2005 NJN @ MIL L 39 6 3 8 37.5 0 0 - 0 0 - 2 6 8 3 1 1 2 2 -13
+p289
+aVClifford Robinson NJN 02/23/2005 NJN @ MIL L 26 10 4 9 44.4 0 3 0.0 2 2 100.0 1 3 4 0 0 0 1 4 -13
+p290
+aVZoran Planinic NJN 02/22/2005 NJN vs. TOR L 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p291
+aVJason Collins NJN 02/22/2005 NJN vs. TOR L 25 8 4 4 100.0 0 0 - 0 0 - 3 6 9 0 1 3 1 3 -8
+p292
+aVBilly Thomas NJN 02/22/2005 NJN vs. TOR L 15 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 2 -2
+p293
+aVJacque Vaughn NJN 02/22/2005 NJN vs. TOR L 30 7 3 7 42.9 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 3 -3
+p294
+aVVince Carter NJN 02/22/2005 NJN vs. TOR L 40 22 8 25 32.0 0 3 0.0 6 10 60.0 0 7 7 4 2 1 4 2 -18
+p295
+aVTravis Best NJN 02/22/2005 NJN vs. TOR L 18 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -15
+p296
+aVJason Kidd NJN 02/22/2005 NJN vs. TOR L 36 20 6 13 46.2 3 6 50.0 5 6 83.3 3 4 7 8 1 0 5 2 -6
+p297
+aVJabari Smith NJN 02/22/2005 NJN vs. TOR L 25 9 3 8 37.5 0 0 - 3 3 100.0 3 3 6 2 0 0 2 3 -5
+p298
+aVClifford Robinson NJN 02/22/2005 NJN vs. TOR L 25 1 0 6 0.0 0 3 0.0 1 4 25.0 2 5 7 1 1 0 0 5 -18
+p299
+aVRon Mercer NJN 02/22/2005 NJN vs. TOR L 24 6 3 9 33.3 0 0 - 0 0 - 1 2 3 3 3 0 2 0 -14
+p300
+aVJason Kidd NJN 02/16/2005 NJN vs. SAC W 40 19 7 14 50.0 3 5 60.0 2 2 100.0 1 10 11 10 1 0 2 1 22
+p301
+aVRon Mercer NJN 02/16/2005 NJN vs. SAC W 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -7
+p302
+aVJacque Vaughn NJN 02/16/2005 NJN vs. SAC W 30 8 2 9 22.2 0 0 - 4 4 100.0 1 1 2 3 2 0 1 3 3
+p303
+aVNenad Krstic NJN 02/16/2005 NJN vs. SAC W 30 18 9 14 64.3 0 0 - 0 0 - 4 4 8 1 1 1 1 5 21
+p304
+aVJason Collins NJN 02/16/2005 NJN vs. SAC W 35 8 2 5 40.0 0 0 - 4 5 80.0 1 12 13 3 0 1 1 1 14
+p305
+aVVince Carter NJN 02/16/2005 NJN vs. SAC W 44 21 7 22 31.8 1 5 20.0 6 6 100.0 1 5 6 5 2 0 1 2 11
+p306
+aVTravis Best NJN 02/16/2005 NJN vs. SAC W 18 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 4
+p307
+aVClifford Robinson NJN 02/16/2005 NJN vs. SAC W 23 9 3 9 33.3 3 5 60.0 0 0 - 1 6 7 1 0 0 0 4 -1
+p308
+aVJabari Smith NJN 02/16/2005 NJN vs. SAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -12
+p309
+aVElden Campbell NJN 02/15/2005 NJN @ MIN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -9
+p310
+aVVince Carter NJN 02/15/2005 NJN @ MIN L 38 32 11 26 42.3 5 9 55.6 5 6 83.3 1 2 3 4 1 2 1 4 11
+p311
+aVJacque Vaughn NJN 02/15/2005 NJN @ MIN L 20 2 1 4 25.0 0 0 - 0 0 - 1 0 1 3 1 0 0 1 9
+p312
+aVJason Kidd NJN 02/15/2005 NJN @ MIN L 40 11 4 14 28.6 3 9 33.3 0 0 - 4 5 9 14 1 1 3 2 -8
+p313
+aVBilly Thomas NJN 02/15/2005 NJN @ MIN L 9 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 0 1
+p314
+aVJabari Smith NJN 02/15/2005 NJN @ MIN L 18 1 0 5 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -21
+p315
+aVRon Mercer NJN 02/15/2005 NJN @ MIN L 30 18 9 14 64.3 0 2 0.0 0 0 - 1 5 6 0 1 0 0 2 -20
+p316
+aVJason Collins NJN 02/15/2005 NJN @ MIN L 24 1 0 5 0.0 0 0 - 1 2 50.0 2 5 7 0 1 0 0 3 -3
+p317
+aVNenad Krstic NJN 02/15/2005 NJN @ MIN L 37 3 0 8 0.0 0 0 - 3 4 75.0 7 5 12 0 1 0 1 3 5
+p318
+aVTravis Best NJN 02/15/2005 NJN @ MIN L 20 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 0 1 0 2 0 -20
+p319
+aVVince Carter NJN 02/13/2005 NJN vs. DEN W 31 23 6 14 42.9 3 6 50.0 8 8 100.0 0 3 3 3 1 0 1 4 23
+p320
+aVDonnell Harvey NJN 02/13/2005 NJN vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p321
+aVNenad Krstic NJN 02/13/2005 NJN vs. DEN W 36 9 4 6 66.7 0 0 - 1 1 100.0 2 7 9 2 1 1 6 4 21
+p322
+aVJason Collins NJN 02/13/2005 NJN vs. DEN W 34 6 2 4 50.0 0 0 - 2 6 33.3 1 6 7 4 2 3 0 1 17
+p323
+aVZoran Planinic NJN 02/13/2005 NJN vs. DEN W 6 1 0 0 - 0 0 - 1 2 50.0 0 2 2 2 0 0 1 2 -6
+p324
+aVElden Campbell NJN 02/13/2005 NJN vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p325
+aVJason Kidd NJN 02/13/2005 NJN vs. DEN W 27 13 5 11 45.5 3 5 60.0 0 0 - 0 3 3 8 2 0 3 2 19
+p326
+aVBilly Thomas NJN 02/13/2005 NJN vs. DEN W 18 6 2 6 33.3 0 3 0.0 2 2 100.0 0 1 1 2 1 0 0 0 -8
+p327
+aVJabari Smith NJN 02/13/2005 NJN vs. DEN W 17 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 1 1 3 3 0
+p328
+aVTravis Best NJN 02/13/2005 NJN vs. DEN W 25 10 5 7 71.4 0 2 0.0 0 0 - 0 3 3 5 1 0 0 6 3
+p329
+aVRon Mercer NJN 02/13/2005 NJN vs. DEN W 18 12 6 10 60.0 0 0 - 0 0 - 2 3 5 0 1 0 0 0 0
+p330
+aVJacque Vaughn NJN 02/13/2005 NJN vs. DEN W 23 10 4 7 57.1 0 0 - 2 2 100.0 0 0 0 4 0 0 1 0 9
+p331
+aVJabari Smith NJN 02/11/2005 NJN vs. SAS L 13 4 2 6 33.3 0 0 - 0 0 - 1 0 1 0 1 0 1 5 -7
+p332
+aVNenad Krstic NJN 02/11/2005 NJN vs. SAS L 29 17 7 12 58.3 0 0 - 3 5 60.0 1 7 8 0 1 2 2 6 2
+p333
+aVJacque Vaughn NJN 02/11/2005 NJN vs. SAS L 37 9 3 6 50.0 0 0 - 3 5 60.0 1 1 2 3 0 0 2 4 -7
+p334
+aVElden Campbell NJN 02/11/2005 NJN vs. SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p335
+aVZoran Planinic NJN 02/11/2005 NJN vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 0
+p336
+aVRon Mercer NJN 02/11/2005 NJN vs. SAS L 21 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 0 0 1 4 -16
+p337
+aVJason Collins NJN 02/11/2005 NJN vs. SAS L 21 5 1 6 16.7 0 0 - 3 4 75.0 1 7 8 1 1 2 2 6 2
+p338
+aVVince Carter NJN 02/11/2005 NJN vs. SAS L 37 43 14 24 58.3 5 6 83.3 10 11 90.9 0 4 4 3 2 1 2 2 7
+p339
+aVTravis Best NJN 02/11/2005 NJN vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p340
+aVJason Kidd NJN 02/11/2005 NJN vs. SAS L 43 11 5 15 33.3 1 5 20.0 0 1 0.0 0 3 3 7 2 0 0 0 -10
+p341
+aVBilly Thomas NJN 02/11/2005 NJN vs. SAS L 25 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 4 -14
+p342
+aVJabari Smith NJN 02/09/2005 NJN vs. LAL L 27 11 4 4 100.0 0 0 - 3 3 100.0 0 4 4 2 0 2 0 3 16
+p343
+aVRon Mercer NJN 02/09/2005 NJN vs. LAL L 12 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 1
+p344
+aVVince Carter NJN 02/09/2005 NJN vs. LAL L 39 27 9 23 39.1 0 5 0.0 9 10 90.0 2 4 6 4 2 1 2 5 -12
+p345
+aVNenad Krstic NJN 02/09/2005 NJN vs. LAL L 15 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 3 5 -15
+p346
+aVJacque Vaughn NJN 02/09/2005 NJN vs. LAL L 39 4 2 5 40.0 0 0 - 0 0 - 0 3 3 3 1 0 0 3 -13
+p347
+aVZoran Planinic NJN 02/09/2005 NJN vs. LAL L 3 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 2
+p348
+aVJason Collins NJN 02/09/2005 NJN vs. LAL L 38 11 2 7 28.6 0 0 - 7 8 87.5 4 2 6 2 0 2 1 6 2
+p349
+aVBilly Thomas NJN 02/09/2005 NJN vs. LAL L 37 14 5 15 33.3 4 9 44.4 0 0 - 2 2 4 2 3 0 1 1 13
+p350
+aVTravis Best NJN 02/09/2005 NJN vs. LAL L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 3
+p351
+aVJason Kidd NJN 02/09/2005 NJN vs. LAL L 48 28 10 22 45.5 5 7 71.4 3 4 75.0 1 11 12 12 0 0 0 1 -2
+p352
+aVVince Carter NJN 02/07/2005 NJN vs. PHI W 48 43 14 32 43.8 7 16 43.8 8 9 88.9 1 13 14 5 0 3 6 3 14
+p353
+aVJason Kidd NJN 02/07/2005 NJN vs. PHI W 49 22 7 18 38.9 4 11 36.4 4 4 100.0 5 6 11 16 0 0 2 0 7
+p354
+aVJacque Vaughn NJN 02/07/2005 NJN vs. PHI W 28 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 0 2 0 1 3 -7
+p355
+aVTravis Best NJN 02/07/2005 NJN vs. PHI W 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 3 2 0 0 1 8
+p356
+aVElden Campbell NJN 02/07/2005 NJN vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p357
+aVJabari Smith NJN 02/07/2005 NJN vs. PHI W 18 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 4 -1
+p358
+aVNenad Krstic NJN 02/07/2005 NJN vs. PHI W 35 5 2 8 25.0 0 0 - 1 3 33.3 1 2 3 0 0 1 1 5 -1
+p359
+aVRon Mercer NJN 02/07/2005 NJN vs. PHI W 23 14 7 12 58.3 0 0 - 0 0 - 1 1 2 2 2 0 1 0 14
+p360
+aVJason Collins NJN 02/07/2005 NJN vs. PHI W 27 9 4 6 66.7 0 0 - 1 1 100.0 0 4 4 1 2 0 3 6 -1
+p361
+aVBilly Thomas NJN 02/07/2005 NJN vs. PHI W 23 3 1 6 16.7 1 5 20.0 0 0 - 0 2 2 2 0 0 0 1 17
+p362
+aVBilly Thomas NJN 02/05/2005 NJN vs. DET W 21 5 2 4 50.0 1 3 33.3 0 0 - 1 2 3 1 2 0 0 1 19
+p363
+aVRon Mercer NJN 02/05/2005 NJN vs. DET W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 9
+p364
+aVDonnell Harvey NJN 02/05/2005 NJN vs. DET W 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 0
+p365
+aVZoran Planinic NJN 02/05/2005 NJN vs. DET W 4 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 0
+p366
+aVVince Carter NJN 02/05/2005 NJN vs. DET W 40 41 14 27 51.9 2 2 100.0 11 13 84.6 2 9 11 5 2 2 3 4 24
+p367
+aVJason Collins NJN 02/05/2005 NJN vs. DET W 23 9 4 5 80.0 0 0 - 1 2 50.0 0 4 4 0 1 2 0 4 15
+p368
+aVElden Campbell NJN 02/05/2005 NJN vs. DET W 13 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 2 0 0 0 3 -1
+p369
+aVJabari Smith NJN 02/05/2005 NJN vs. DET W 28 14 7 7 100.0 0 0 - 0 0 - 1 3 4 2 1 1 2 3 16
+p370
+aVNenad Krstic NJN 02/05/2005 NJN vs. DET W 15 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 2 4 -3
+p371
+aVTravis Best NJN 02/05/2005 NJN vs. DET W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p372
+aVJacque Vaughn NJN 02/05/2005 NJN vs. DET W 34 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 5 0 0 1 4 8
+p373
+aVJason Kidd NJN 02/05/2005 NJN vs. DET W 42 12 5 15 33.3 0 2 0.0 2 2 100.0 1 4 5 14 1 0 2 2 25
+p374
+aVDonnell Harvey NJN 02/02/2005 NJN @ BOS L 11 6 1 1 100.0 0 0 - 4 4 100.0 1 3 4 1 1 0 1 2 5
+p375
+aVVince Carter NJN 02/02/2005 NJN @ BOS L 29 22 9 19 47.4 0 1 0.0 4 4 100.0 1 2 3 5 0 0 3 4 -20
+p376
+aVNenad Krstic NJN 02/02/2005 NJN @ BOS L 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -14
+p377
+aVBilly Thomas NJN 02/02/2005 NJN @ BOS L 24 13 4 8 50.0 3 6 50.0 2 4 50.0 0 2 2 1 0 0 0 4 -4
+p378
+aVJabari Smith NJN 02/02/2005 NJN @ BOS L 21 9 3 7 42.9 0 0 - 3 4 75.0 2 4 6 1 1 0 2 4 -19
+p379
+aVJason Collins NJN 02/02/2005 NJN @ BOS L 27 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 0 0 2 0 -17
+p380
+aVJason Kidd NJN 02/02/2005 NJN @ BOS L 32 25 8 19 42.1 7 9 77.8 2 2 100.0 2 1 3 4 3 0 2 1 -23
+p381
+aVElden Campbell NJN 02/02/2005 NJN @ BOS L 18 2 0 4 0.0 0 0 - 2 2 100.0 3 3 6 1 0 0 1 5 7
+p382
+aVTravis Best NJN 02/02/2005 NJN @ BOS L 25 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 3 2 -3
+p383
+aVJacque Vaughn NJN 02/02/2005 NJN @ BOS L 41 8 3 9 33.3 0 1 0.0 2 2 100.0 0 4 4 2 2 0 2 2 -17
+p384
+aVBilly Thomas NJN 02/01/2005 NJN vs. CHI W 24 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 1 2 0 2 1 -8
+p385
+aVJacque Vaughn NJN 02/01/2005 NJN vs. CHI W 38 23 8 12 66.7 0 0 - 7 7 100.0 1 2 3 3 2 0 2 3 15
+p386
+aVNenad Krstic NJN 02/01/2005 NJN vs. CHI W 34 12 4 8 50.0 0 0 - 4 4 100.0 3 4 7 1 0 1 0 5 21
+p387
+aVVince Carter NJN 02/01/2005 NJN vs. CHI W 43 31 10 20 50.0 3 6 50.0 8 8 100.0 0 5 5 6 3 3 7 4 12
+p388
+aVJason Collins NJN 02/01/2005 NJN vs. CHI W 30 5 1 5 20.0 0 0 - 3 4 75.0 1 2 3 4 1 0 1 5 16
+p389
+aVJason Kidd NJN 02/01/2005 NJN vs. CHI W 43 26 9 16 56.3 4 7 57.1 4 4 100.0 1 12 13 9 2 1 1 3 16
+p390
+aVTravis Best NJN 02/01/2005 NJN vs. CHI W 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 0 5 -8
+p391
+aVElden Campbell NJN 02/01/2005 NJN vs. CHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p392
+aVJabari Smith NJN 02/01/2005 NJN vs. CHI W 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 1 0 0 4 -8
+p393
+aVRodney Buford NJN 01/29/2005 NJN @ UTA W 30 10 5 11 45.5 0 1 0.0 0 0 - 1 8 9 1 2 0 0 2 18
+p394
+aVBilly Thomas NJN 01/29/2005 NJN @ UTA W 20 4 1 4 25.0 0 1 0.0 2 2 100.0 1 3 4 0 0 0 1 2 -3
+p395
+aVVince Carter NJN 01/29/2005 NJN @ UTA W 37 30 11 20 55.0 5 5 100.0 3 4 75.0 0 8 8 10 2 4 3 4 27
+p396
+aVJabari Smith NJN 01/29/2005 NJN @ UTA W 31 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 2 1 0 1 2 2
+p397
+aVTravis Best NJN 01/29/2005 NJN @ UTA W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -7
+p398
+aVNenad Krstic NJN 01/29/2005 NJN @ UTA W 32 13 6 10 60.0 0 0 - 1 2 50.0 1 1 2 1 2 1 1 5 4
+p399
+aVJason Collins NJN 01/29/2005 NJN @ UTA W 33 10 3 4 75.0 0 0 - 4 6 66.7 0 5 5 1 0 0 3 2 27
+p400
+aVJacque Vaughn NJN 01/29/2005 NJN @ UTA W 17 6 3 5 60.0 0 0 - 0 0 - 0 2 2 2 1 0 3 0 -8
+p401
+aVJason Kidd NJN 01/29/2005 NJN @ UTA W 35 19 5 10 50.0 4 6 66.7 5 8 62.5 1 5 6 10 1 0 0 2 25
+p402
+aVVince Carter NJN 01/28/2005 NJN @ LAL W 42 30 13 26 50.0 0 3 0.0 4 6 66.7 0 2 2 9 1 1 4 4 -1
+p403
+aVNenad Krstic NJN 01/28/2005 NJN @ LAL W 29 11 5 9 55.6 0 0 - 1 2 50.0 1 4 5 0 1 2 0 5 -3
+p404
+aVJacque Vaughn NJN 01/28/2005 NJN @ LAL W 40 16 6 10 60.0 1 2 50.0 3 4 75.0 0 2 2 5 1 0 0 3 7
+p405
+aVTravis Best NJN 01/28/2005 NJN @ LAL W 12 7 3 3 100.0 0 0 - 1 1 100.0 0 1 1 1 1 0 0 0 -2
+p406
+aVRodney Buford NJN 01/28/2005 NJN @ LAL W 34 18 7 12 58.3 2 4 50.0 2 2 100.0 0 6 6 1 1 0 1 0 8
+p407
+aVBilly Thomas NJN 01/28/2005 NJN @ LAL W 16 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 1 0 0 0 1 4
+p408
+aVJason Kidd NJN 01/28/2005 NJN @ LAL W 44 15 5 13 38.5 3 8 37.5 2 3 66.7 2 3 5 11 0 1 2 3 7
+p409
+aVJabari Smith NJN 01/28/2005 NJN @ LAL W 23 6 2 4 50.0 0 0 - 2 4 50.0 1 4 5 1 3 3 1 4 10
+p410
+aVJason Kidd NJN 01/26/2005 NJN @ GSW W 39 17 7 12 58.3 3 6 50.0 0 0 - 0 5 5 8 4 0 3 2 19
+p411
+aVNenad Krstic NJN 01/26/2005 NJN @ GSW W 36 13 4 13 30.8 0 0 - 5 8 62.5 3 7 10 3 0 2 1 6 26
+p412
+aVBrian Scalabrine NJN 01/26/2005 NJN @ GSW W 40 29 12 17 70.6 0 1 0.0 5 5 100.0 4 6 10 2 1 1 2 1 9
+p413
+aVBilly Thomas NJN 01/26/2005 NJN @ GSW W 18 12 5 6 83.3 2 3 66.7 0 0 - 1 1 2 1 0 0 0 2 0
+p414
+aVJabari Smith NJN 01/26/2005 NJN @ GSW W 20 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 1 0 1 2 -7
+p415
+aVVince Carter NJN 01/26/2005 NJN @ GSW W 32 17 7 17 41.2 0 1 0.0 3 4 75.0 0 1 1 9 2 1 2 4 18
+p416
+aVRodney Buford NJN 01/26/2005 NJN @ GSW W 35 20 8 13 61.5 4 5 80.0 0 0 - 2 3 5 2 0 0 3 2 13
+p417
+aVJacque Vaughn NJN 01/26/2005 NJN @ GSW W 20 2 1 4 25.0 0 0 - 0 0 - 2 1 3 4 1 0 1 2 -8
+p418
+aVJason Collins NJN 01/25/2005 NJN @ SAC L 14 2 1 6 16.7 0 0 - 0 0 - 1 3 4 1 0 1 1 3 -9
+p419
+aVNenad Krstic NJN 01/25/2005 NJN @ SAC L 30 8 3 7 42.9 0 0 - 2 3 66.7 5 2 7 1 0 0 2 4 -14
+p420
+aVJacque Vaughn NJN 01/25/2005 NJN @ SAC L 15 11 4 6 66.7 0 0 - 3 4 75.0 0 1 1 2 0 0 1 2 1
+p421
+aVJabari Smith NJN 01/25/2005 NJN @ SAC L 14 5 0 3 0.0 0 0 - 5 6 83.3 0 1 1 1 0 0 2 4 2
+p422
+aVBilly Thomas NJN 01/25/2005 NJN @ SAC L 31 12 5 11 45.5 2 6 33.3 0 0 - 0 2 2 2 3 0 0 3 -13
+p423
+aVBrian Scalabrine NJN 01/25/2005 NJN @ SAC L 31 13 5 11 45.5 1 1 100.0 2 2 100.0 1 3 4 3 3 0 2 3 -14
+p424
+aVJason Kidd NJN 01/25/2005 NJN @ SAC L 29 8 3 10 30.0 1 2 50.0 1 1 100.0 0 4 4 7 1 0 0 1 -19
+p425
+aVVince Carter NJN 01/25/2005 NJN @ SAC L 32 23 10 20 50.0 1 2 50.0 2 2 100.0 0 2 2 3 2 0 1 2 -15
+p426
+aVTravis Best NJN 01/25/2005 NJN @ SAC L 16 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 1 1 0 2 1 -10
+p427
+aVRodney Buford NJN 01/25/2005 NJN @ SAC L 28 9 4 7 57.1 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -9
+p428
+aVJason Kidd NJN 01/23/2005 NJN @ PHX L 43 23 7 16 43.8 4 7 57.1 5 5 100.0 2 6 8 8 2 0 1 2 -12
+p429
+aVJacque Vaughn NJN 01/23/2005 NJN @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p430
+aVTravis Best NJN 01/23/2005 NJN @ PHX L 27 6 1 7 14.3 1 1 100.0 3 5 60.0 0 1 1 2 0 0 0 5 4
+p431
+aVBrian Scalabrine NJN 01/23/2005 NJN @ PHX L 11 0 0 1 0.0 0 1 0.0 0 0 - 3 0 3 3 0 0 1 0 4
+p432
+aVBilly Thomas NJN 01/23/2005 NJN @ PHX L 11 3 1 3 33.3 0 2 0.0 1 1 100.0 0 1 1 1 0 0 0 1 6
+p433
+aVNenad Krstic NJN 01/23/2005 NJN @ PHX L 29 12 4 9 44.4 0 0 - 4 4 100.0 1 1 2 1 0 0 1 4 -7
+p434
+aVRodney Buford NJN 01/23/2005 NJN @ PHX L 42 16 6 15 40.0 2 4 50.0 2 3 66.7 0 7 7 1 1 0 2 3 -8
+p435
+aVJason Collins NJN 01/23/2005 NJN @ PHX L 35 13 4 6 66.7 0 0 - 5 6 83.3 5 5 10 1 2 2 1 4 -15
+p436
+aVVince Carter NJN 01/23/2005 NJN @ PHX L 41 32 13 26 50.0 0 1 0.0 6 8 75.0 2 7 9 4 1 1 2 3 -12
+p437
+aVRodney Buford NJN 01/21/2005 NJN vs. BOS W 29 4 2 9 22.2 0 1 0.0 0 0 - 1 2 3 3 0 0 2 2 6
+p438
+aVJacque Vaughn NJN 01/21/2005 NJN vs. BOS W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p439
+aVTravis Best NJN 01/21/2005 NJN vs. BOS W 32 24 8 11 72.7 3 5 60.0 5 5 100.0 1 3 4 0 1 0 1 3 -1
+p440
+aVJabari Smith NJN 01/21/2005 NJN vs. BOS W 7 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 3 -5
+p441
+aVJason Kidd NJN 01/21/2005 NJN vs. BOS W 42 14 3 8 37.5 1 4 25.0 7 8 87.5 2 7 9 9 3 0 1 2 2
+p442
+aVBilly Thomas NJN 01/21/2005 NJN vs. BOS W 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 1
+p443
+aVJerome Moiso NJN 01/21/2005 NJN vs. BOS W 1 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 1
+p444
+aVVince Carter NJN 01/21/2005 NJN vs. BOS W 32 25 9 20 45.0 2 6 33.3 5 5 100.0 0 0 0 7 0 0 0 5 17
+p445
+aVJason Collins NJN 01/21/2005 NJN vs. BOS W 33 10 2 5 40.0 0 0 - 6 8 75.0 3 4 7 1 2 2 2 4 6
+p446
+aVNenad Krstic NJN 01/21/2005 NJN vs. BOS W 33 13 6 14 42.9 0 0 - 1 3 33.3 3 9 12 1 0 0 3 4 3
+p447
+aVBrian Scalabrine NJN 01/21/2005 NJN vs. BOS W 10 8 2 4 50.0 0 0 - 4 4 100.0 1 1 2 1 0 1 1 2 2
+p448
+aVRodney Buford NJN 01/19/2005 NJN vs. MIL W 39 17 8 13 61.5 0 2 0.0 1 2 50.0 1 3 4 1 1 0 0 3 3
+p449
+aVNenad Krstic NJN 01/19/2005 NJN vs. MIL W 33 16 6 13 46.2 0 0 - 4 4 100.0 0 4 4 3 0 3 1 5 -1
+p450
+aVBrian Scalabrine NJN 01/19/2005 NJN vs. MIL W 12 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 1 0 0 2 2 4
+p451
+aVJacque Vaughn NJN 01/19/2005 NJN vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p452
+aVVince Carter NJN 01/19/2005 NJN vs. MIL W 44 33 14 24 58.3 2 4 50.0 3 4 75.0 1 8 9 9 2 1 3 2 7
+p453
+aVJason Kidd NJN 01/19/2005 NJN vs. MIL W 45 17 7 14 50.0 2 5 40.0 1 2 50.0 0 8 8 10 1 1 1 0 10
+p454
+aVTravis Best NJN 01/19/2005 NJN vs. MIL W 12 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 -2
+p455
+aVJabari Smith NJN 01/19/2005 NJN vs. MIL W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 6
+p456
+aVJason Collins NJN 01/19/2005 NJN vs. MIL W 42 6 2 4 50.0 0 0 - 2 4 50.0 3 4 7 3 1 3 0 1 3
+p457
+aVRodney Buford NJN 01/17/2005 NJN @ ATL W 37 7 3 9 33.3 1 2 50.0 0 0 - 2 2 4 2 0 1 0 1 -3
+p458
+aVJason Kidd NJN 01/17/2005 NJN @ ATL W 44 23 8 21 38.1 3 10 30.0 4 4 100.0 1 4 5 5 3 0 2 2 7
+p459
+aVNenad Krstic NJN 01/17/2005 NJN @ ATL W 34 12 4 8 50.0 0 0 - 4 4 100.0 4 5 9 1 3 2 1 6 3
+p460
+aVVince Carter NJN 01/17/2005 NJN @ ATL W 41 23 9 22 40.9 2 4 50.0 3 8 37.5 0 7 7 6 1 0 2 3 -5
+p461
+aVJason Collins NJN 01/17/2005 NJN @ ATL W 36 9 3 10 30.0 0 0 - 3 5 60.0 1 7 8 0 1 0 1 4 -8
+p462
+aVTravis Best NJN 01/17/2005 NJN @ ATL W 15 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 2 0 0 0 3
+p463
+aVJacque Vaughn NJN 01/17/2005 NJN @ ATL W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 6 -6
+p464
+aVJerome Moiso NJN 01/17/2005 NJN @ ATL W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 4
+p465
+aVJabari Smith NJN 01/17/2005 NJN @ ATL W 20 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 1 0 0 4 10
+p466
+aVJason Kidd NJN 01/15/2005 NJN @ DAL L 46 10 5 15 33.3 0 2 0.0 0 0 - 2 8 10 11 2 0 5 2 -7
+p467
+aVJason Collins NJN 01/15/2005 NJN @ DAL L 43 10 4 9 44.4 0 0 - 2 2 100.0 3 8 11 4 0 1 0 5 -12
+p468
+aVTravis Best NJN 01/15/2005 NJN @ DAL L 17 11 4 8 50.0 2 3 66.7 1 1 100.0 0 2 2 4 0 1 1 2 17
+p469
+aVNenad Krstic NJN 01/15/2005 NJN @ DAL L 33 13 5 9 55.6 0 0 - 3 5 60.0 4 1 5 0 1 2 2 4 -3
+p470
+aVJerome Moiso NJN 01/15/2005 NJN @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p471
+aVVince Carter NJN 01/15/2005 NJN @ DAL L 45 29 12 32 37.5 3 6 50.0 2 3 66.7 2 3 5 5 2 0 2 3 -9
+p472
+aVRodney Buford NJN 01/15/2005 NJN @ DAL L 37 18 8 18 44.4 1 4 25.0 1 2 50.0 0 8 8 1 3 0 1 4 -9
+p473
+aVJabari Smith NJN 01/15/2005 NJN @ DAL L 18 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 0 0 4 -2
+p474
+aVTravis Best NJN 01/13/2005 NJN @ HOU L 22 3 1 4 25.0 1 1 100.0 0 1 0.0 0 1 1 3 0 0 1 2 -19
+p475
+aVKaniel Dickens NJN 01/13/2005 NJN @ HOU L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 0
+p476
+aVJabari Smith NJN 01/13/2005 NJN @ HOU L 18 12 6 10 60.0 0 0 - 0 0 - 0 2 2 0 0 1 1 5 -14
+p477
+aVJacque Vaughn NJN 01/13/2005 NJN @ HOU L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p478
+aVRodney Buford NJN 01/13/2005 NJN @ HOU L 39 14 4 9 44.4 2 5 40.0 4 4 100.0 1 4 5 3 2 0 2 3 -6
+p479
+aVJason Kidd NJN 01/13/2005 NJN @ HOU L 46 16 7 20 35.0 2 9 22.2 0 1 0.0 0 10 10 9 6 0 4 1 1
+p480
+aVVince Carter NJN 01/13/2005 NJN @ HOU L 43 17 6 19 31.6 0 2 0.0 5 6 83.3 1 6 7 6 0 0 4 6 5
+p481
+aVJason Collins NJN 01/13/2005 NJN @ HOU L 43 8 2 6 33.3 0 0 - 4 4 100.0 1 6 7 2 1 1 0 6 4
+p482
+aVNenad Krstic NJN 01/13/2005 NJN @ HOU L 45 15 7 14 50.0 0 0 - 1 2 50.0 3 7 10 4 0 0 1 2 -6
+p483
+aVNenad Krstic NJN 01/11/2005 NJN vs. DET L 38 10 4 8 50.0 0 0 - 2 2 100.0 3 2 5 0 1 1 1 5 4
+p484
+aVJason Kidd NJN 01/11/2005 NJN vs. DET L 40 13 5 13 38.5 2 6 33.3 1 1 100.0 0 6 6 7 0 0 1 2 7
+p485
+aVJason Collins NJN 01/11/2005 NJN vs. DET L 40 6 2 7 28.6 0 0 - 2 2 100.0 2 8 10 1 2 2 2 4 -6
+p486
+aVJabari Smith NJN 01/11/2005 NJN vs. DET L 17 6 3 9 33.3 0 0 - 0 0 - 3 1 4 0 0 0 0 3 -12
+p487
+aVTravis Best NJN 01/11/2005 NJN vs. DET L 22 16 6 17 35.3 2 5 40.0 2 2 100.0 0 1 1 2 2 0 2 1 -11
+p488
+aVJerome Moiso NJN 01/11/2005 NJN vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p489
+aVRodney Buford NJN 01/11/2005 NJN vs. DET L 37 10 5 12 41.7 0 0 - 0 0 - 2 5 7 1 1 0 0 3 -11
+p490
+aVVince Carter NJN 01/11/2005 NJN vs. DET L 42 19 7 20 35.0 0 3 0.0 5 7 71.4 3 4 7 4 2 2 3 3 -9
+p491
+aVJacque Vaughn NJN 01/11/2005 NJN vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p492
+aVJacque Vaughn NJN 01/08/2005 NJN @ ORL L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p493
+aVRodney Buford NJN 01/08/2005 NJN @ ORL L 29 6 2 7 28.6 0 2 0.0 2 2 100.0 1 5 6 2 0 0 0 2 5
+p494
+aVVince Carter NJN 01/08/2005 NJN @ ORL L 43 16 5 11 45.5 0 1 0.0 6 8 75.0 4 5 9 3 0 0 1 4 3
+p495
+aVJason Collins NJN 01/08/2005 NJN @ ORL L 41 20 5 9 55.6 0 0 - 10 12 83.3 3 6 9 0 2 0 1 6 -1
+p496
+aVTravis Best NJN 01/08/2005 NJN @ ORL L 17 10 4 8 50.0 0 2 0.0 2 2 100.0 0 1 1 0 1 0 0 5 -2
+p497
+aVJason Kidd NJN 01/08/2005 NJN @ ORL L 41 22 8 21 38.1 4 9 44.4 2 3 66.7 2 9 11 11 2 0 2 0 3
+p498
+aVRichard Jefferson NJN 01/08/2005 NJN @ ORL L 35 17 6 19 31.6 1 2 50.0 4 6 66.7 1 1 2 4 0 0 0 6 -10
+p499
+aVJerome Moiso NJN 01/08/2005 NJN @ ORL L 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p500
+aVNenad Krstic NJN 01/08/2005 NJN @ ORL L 19 8 4 9 44.4 0 0 - 0 0 - 4 2 6 0 1 0 1 5 -10
+p501
+aVJason Collins NJN 01/07/2005 NJN vs. GSW W 39 4 1 4 25.0 0 0 - 2 2 100.0 0 7 7 3 1 0 2 6 7
+p502
+aVVince Carter NJN 01/07/2005 NJN vs. GSW W 37 22 10 20 50.0 1 3 33.3 1 2 50.0 2 4 6 4 1 2 6 0 15
+p503
+aVRodney Buford NJN 01/07/2005 NJN vs. GSW W 24 8 4 10 40.0 0 3 0.0 0 0 - 1 7 8 1 1 0 1 1 4
+p504
+aVNenad Krstic NJN 01/07/2005 NJN vs. GSW W 41 13 4 13 30.8 0 0 - 5 6 83.3 4 4 8 2 2 1 1 5 20
+p505
+aVJason Kidd NJN 01/07/2005 NJN vs. GSW W 33 13 4 9 44.4 1 4 25.0 4 5 80.0 3 10 13 9 4 0 3 1 17
+p506
+aVJabari Smith NJN 01/07/2005 NJN vs. GSW W 15 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 2 0 0 2 -5
+p507
+aVRichard Jefferson NJN 01/07/2005 NJN vs. GSW W 35 20 7 19 36.8 1 4 25.0 5 6 83.3 1 4 5 2 0 1 3 4 -3
+p508
+aVJacque Vaughn NJN 01/07/2005 NJN vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p509
+aVTravis Best NJN 01/07/2005 NJN vs. GSW W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -7
+p510
+aVJason Kidd NJN 01/05/2005 NJN @ MIL L 31 12 5 14 35.7 2 6 33.3 0 0 - 3 2 5 3 1 0 3 0 -16
+p511
+aVVince Carter NJN 01/05/2005 NJN @ MIL L 36 15 6 14 42.9 0 2 0.0 3 4 75.0 1 2 3 2 0 0 2 3 -10
+p512
+aVJacque Vaughn NJN 01/05/2005 NJN @ MIL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -4
+p513
+aVNenad Krstic NJN 01/05/2005 NJN @ MIL L 15 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 1 0 2 5 -22
+p514
+aVJason Collins NJN 01/05/2005 NJN @ MIL L 29 4 2 3 66.7 0 0 - 0 1 0.0 0 4 4 2 1 1 0 4 -22
+p515
+aVTravis Best NJN 01/05/2005 NJN @ MIL L 21 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 3 1 0 2 2 -4
+p516
+aVJabari Smith NJN 01/05/2005 NJN @ MIL L 36 19 7 13 53.8 0 0 - 5 5 100.0 1 5 6 6 2 0 1 3 -7
+p517
+aVJerome Moiso NJN 01/05/2005 NJN @ MIL L 6 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 0 -2
+p518
+aVRichard Jefferson NJN 01/05/2005 NJN @ MIL L 37 16 6 19 31.6 0 2 0.0 4 4 100.0 5 6 11 2 2 0 4 4 -19
+p519
+aVRodney Buford NJN 01/05/2005 NJN @ MIL L 24 4 2 11 18.2 0 4 0.0 0 0 - 0 3 3 0 0 0 1 0 -9
+p520
+aVNenad Krstic NJN 01/04/2005 NJN @ WAS L 31 9 4 7 57.1 0 0 - 1 2 50.0 1 3 4 5 0 1 3 4 -11
+p521
+aVTravis Best NJN 01/04/2005 NJN @ WAS L 18 7 2 5 40.0 0 2 0.0 3 3 100.0 0 2 2 0 1 0 3 2 -27
+p522
+aVJason Collins NJN 01/04/2005 NJN @ WAS L 36 4 2 3 66.7 0 0 - 0 0 - 0 5 5 1 1 2 1 5 -13
+p523
+aVKaniel Dickens NJN 01/04/2005 NJN @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p524
+aVJason Kidd NJN 01/04/2005 NJN @ WAS L 34 19 8 14 57.1 2 6 33.3 1 2 50.0 2 6 8 7 2 0 2 3 -6
+p525
+aVVince Carter NJN 01/04/2005 NJN @ WAS L 42 31 15 23 65.2 1 2 50.0 0 0 - 0 7 7 3 0 0 2 4 -12
+p526
+aVJacque Vaughn NJN 01/04/2005 NJN @ WAS L 10 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 1 0 -14
+p527
+aVJabari Smith NJN 01/04/2005 NJN @ WAS L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -16
+p528
+aVRodney Buford NJN 01/04/2005 NJN @ WAS L 17 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 1 3 0 3 4 -7
+p529
+aVRichard Jefferson NJN 01/04/2005 NJN @ WAS L 39 13 5 15 33.3 1 2 50.0 2 2 100.0 0 5 5 6 0 1 5 3 -8
+p530
+aVRodney Buford NJN 01/01/2005 NJN @ NYK W 25 13 6 8 75.0 1 1 100.0 0 0 - 1 3 4 0 1 0 1 1 11
+p531
+aVVince Carter NJN 01/01/2005 NJN @ NYK W 39 16 6 18 33.3 2 4 50.0 2 4 50.0 0 6 6 5 2 1 3 4 -1
+p532
+aVJason Kidd NJN 01/01/2005 NJN @ NYK W 34 13 4 11 36.4 0 3 0.0 5 7 71.4 1 3 4 3 1 0 1 3 -1
+p533
+aVJabari Smith NJN 01/01/2005 NJN @ NYK W 18 5 2 3 66.7 1 1 100.0 0 0 - 0 5 5 2 0 0 2 3 12
+p534
+aVTravis Best NJN 01/01/2005 NJN @ NYK W 14 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 3 1 0 2 1 7
+p535
+aVJason Collins NJN 01/01/2005 NJN @ NYK W 31 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 1 2 3 1 4 -3
+p536
+aVNenad Krstic NJN 01/01/2005 NJN @ NYK W 42 12 5 7 71.4 0 0 - 2 4 50.0 3 4 7 2 1 4 0 1 9
+p537
+aVRichard Jefferson NJN 01/01/2005 NJN @ NYK W 37 17 6 13 46.2 2 4 50.0 3 4 75.0 1 5 6 4 0 0 2 4 -4
+p538
+aVKaniel Dickens NJN 12/30/2004 NJN vs. IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p539
+aVJerome Moiso NJN 12/30/2004 NJN vs. IND L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p540
+aVRichard Jefferson NJN 12/30/2004 NJN vs. IND L 44 20 4 15 26.7 0 2 0.0 12 13 92.3 2 4 6 4 0 2 3 4 -10
+p541
+aVVince Carter NJN 12/30/2004 NJN vs. IND L 42 25 9 20 45.0 1 1 100.0 6 9 66.7 2 6 8 3 1 0 4 5 -15
+p542
+aVRodney Buford NJN 12/30/2004 NJN vs. IND L 31 20 8 13 61.5 4 5 80.0 0 0 - 2 5 7 2 0 0 0 0 -8
+p543
+aVJabari Smith NJN 12/30/2004 NJN vs. IND L 20 1 0 2 0.0 0 0 - 1 2 50.0 1 4 5 0 1 0 2 3 -2
+p544
+aVNenad Krstic NJN 12/30/2004 NJN vs. IND L 15 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 1 0 6 -11
+p545
+aVJason Kidd NJN 12/30/2004 NJN vs. IND L 36 4 2 6 33.3 0 2 0.0 0 2 0.0 1 10 11 10 2 0 5 1 -16
+p546
+aVTravis Best NJN 12/30/2004 NJN vs. IND L 12 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 1 0 1 1 0 3
+p547
+aVJason Collins NJN 12/30/2004 NJN vs. IND L 36 5 1 5 20.0 0 0 - 3 4 75.0 3 5 8 1 2 0 3 6 -10
+p548
+aVJacque Vaughn NJN 12/28/2004 NJN @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p549
+aVJerome Moiso NJN 12/28/2004 NJN @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p550
+aVRichard Jefferson NJN 12/28/2004 NJN @ CHI W 43 17 6 18 33.3 0 4 0.0 5 6 83.3 2 5 7 3 1 2 4 3 12
+p551
+aVJason Collins NJN 12/28/2004 NJN @ CHI W 37 8 2 5 40.0 0 0 - 4 4 100.0 1 1 2 1 0 0 3 3 7
+p552
+aVJason Kidd NJN 12/28/2004 NJN @ CHI W 35 4 1 5 20.0 1 3 33.3 1 2 50.0 1 10 11 11 4 1 1 0 24
+p553
+aVJabari Smith NJN 12/28/2004 NJN @ CHI W 12 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 3 0 1 5 -8
+p554
+aVNenad Krstic NJN 12/28/2004 NJN @ CHI W 40 17 6 11 54.5 0 0 - 5 6 83.3 2 2 4 2 0 1 3 5 14
+p555
+aVKaniel Dickens NJN 12/28/2004 NJN @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p556
+aVRodney Buford NJN 12/28/2004 NJN @ CHI W 13 8 3 7 42.9 1 2 50.0 1 2 50.0 3 0 3 1 0 0 0 1 -15
+p557
+aVVince Carter NJN 12/28/2004 NJN @ CHI W 41 25 9 23 39.1 1 5 20.0 6 8 75.0 0 6 6 2 2 0 0 4 14
+p558
+aVTravis Best NJN 12/28/2004 NJN @ CHI W 14 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 1 1 3 -19
+p559
+aVRichard Jefferson NJN 12/27/2004 NJN @ DET L 41 27 7 23 30.4 2 3 66.7 11 12 91.7 2 5 7 2 2 0 3 4 -7
+p560
+aVJabari Smith NJN 12/27/2004 NJN @ DET L 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 1 0 1 0 7
+p561
+aVJason Kidd NJN 12/27/2004 NJN @ DET L 35 2 0 8 0.0 0 6 0.0 2 4 50.0 1 8 9 5 0 0 2 0 -11
+p562
+aVVince Carter NJN 12/27/2004 NJN @ DET L 42 23 8 19 42.1 3 6 50.0 4 4 100.0 1 3 4 5 3 0 2 4 1
+p563
+aVJacque Vaughn NJN 12/27/2004 NJN @ DET L 7 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 2 1 -1
+p564
+aVTravis Best NJN 12/27/2004 NJN @ DET L 16 6 3 5 60.0 0 0 - 0 0 - 0 2 2 2 1 0 1 3 -1
+p565
+aVNenad Krstic NJN 12/27/2004 NJN @ DET L 46 13 5 12 41.7 0 0 - 3 6 50.0 2 7 9 1 0 1 2 5 -19
+p566
+aVRodney Buford NJN 12/27/2004 NJN @ DET L 18 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 1 0 1 3 -10
+p567
+aVJason Collins NJN 12/27/2004 NJN @ DET L 45 6 2 10 20.0 0 0 - 2 2 100.0 1 1 2 1 2 1 1 3 -9
+p568
+aVRichard Jefferson NJN 12/22/2004 NJN vs. CLE W 47 42 12 20 60.0 2 4 50.0 16 17 94.1 0 6 6 7 1 1 3 1 4
+p569
+aVJabari Smith NJN 12/22/2004 NJN vs. CLE W 24 1 0 6 0.0 0 0 - 1 4 25.0 1 4 5 3 1 2 1 4 7
+p570
+aVRodney Buford NJN 12/22/2004 NJN vs. CLE W 41 22 10 18 55.6 2 2 100.0 0 0 - 1 6 7 4 1 0 1 3 5
+p571
+aVNenad Krstic NJN 12/22/2004 NJN vs. CLE W 33 8 4 8 50.0 0 0 - 0 0 - 4 4 8 1 0 2 3 4 4
+p572
+aVTravis Best NJN 12/22/2004 NJN vs. CLE W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p573
+aVJason Collins NJN 12/22/2004 NJN vs. CLE W 28 10 4 9 44.4 0 0 - 2 2 100.0 3 3 6 0 0 1 0 6 -6
+p574
+aVBrian Scalabrine NJN 12/22/2004 NJN vs. CLE W 10 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 -4
+p575
+aVJacque Vaughn NJN 12/22/2004 NJN vs. CLE W 17 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 4
+p576
+aVJason Kidd NJN 12/22/2004 NJN vs. CLE W 31 2 1 9 11.1 0 2 0.0 0 0 - 0 3 3 6 0 0 1 2 -2
+p577
+aVKaniel Dickens NJN 12/22/2004 NJN vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p578
+aVJason Collins NJN 12/21/2004 NJN @ CHA W 37 9 2 6 33.3 0 0 - 5 8 62.5 1 5 6 1 1 0 0 4 6
+p579
+aVKaniel Dickens NJN 12/21/2004 NJN @ CHA W 12 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 4
+p580
+aVBrian Scalabrine NJN 12/21/2004 NJN @ CHA W 30 4 2 9 22.2 0 1 0.0 0 0 - 1 4 5 0 1 2 1 3 -8
+p581
+aVNenad Krstic NJN 12/21/2004 NJN @ CHA W 28 13 4 9 44.4 0 0 - 5 8 62.5 3 9 12 2 0 3 4 3 6
+p582
+aVRichard Jefferson NJN 12/21/2004 NJN @ CHA W 41 28 10 19 52.6 2 4 50.0 6 9 66.7 0 3 3 2 1 1 1 4 7
+p583
+aVJacque Vaughn NJN 12/21/2004 NJN @ CHA W 33 10 2 3 66.7 0 0 - 6 7 85.7 0 6 6 3 0 0 4 3 -4
+p584
+aVRodney Buford NJN 12/21/2004 NJN @ CHA W 25 16 6 8 75.0 2 3 66.7 2 2 100.0 0 2 2 2 3 0 1 6 -10
+p585
+aVJason Kidd NJN 12/21/2004 NJN @ CHA W 30 9 3 10 30.0 1 3 33.3 2 4 50.0 1 6 7 12 3 0 5 1 15
+p586
+aVJabari Smith NJN 12/21/2004 NJN @ CHA W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -1
+p587
+aVJason Collins NJN 12/19/2004 NJN @ TOR L 30 10 5 8 62.5 0 1 0.0 0 7 0.0 0 5 5 0 0 0 1 4 -7
+p588
+aVJacque Vaughn NJN 12/19/2004 NJN @ TOR L 27 10 2 4 50.0 1 2 50.0 5 5 100.0 0 3 3 5 1 0 1 3 -7
+p589
+aVKaniel Dickens NJN 12/19/2004 NJN @ TOR L 16 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 0 0 0 1 3 -6
+p590
+aVRodney Buford NJN 12/19/2004 NJN @ TOR L 39 10 5 13 38.5 0 3 0.0 0 0 - 0 2 2 2 1 1 0 2 -11
+p591
+aVJason Kidd NJN 12/19/2004 NJN @ TOR L 30 10 4 8 50.0 2 5 40.0 0 0 - 0 6 6 5 2 0 1 0 -4
+p592
+aVNenad Krstic NJN 12/19/2004 NJN @ TOR L 28 15 6 8 75.0 0 0 - 3 4 75.0 2 2 4 4 0 1 1 5 0
+p593
+aVBrian Scalabrine NJN 12/19/2004 NJN @ TOR L 23 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 2 0 0 2 6 -12
+p594
+aVRichard Jefferson NJN 12/19/2004 NJN @ TOR L 47 38 12 20 60.0 3 7 42.9 11 11 100.0 0 4 4 5 2 0 5 2 -8
+p595
+aVRichard Jefferson NJN 12/17/2004 NJN @ MEM L 45 26 8 19 42.1 2 7 28.6 8 8 100.0 2 9 11 5 2 0 3 4 0
+p596
+aVNenad Krstic NJN 12/17/2004 NJN @ MEM L 15 4 2 6 33.3 0 0 - 0 0 - 0 0 0 1 1 1 1 5 -14
+p597
+aVRodney Buford NJN 12/17/2004 NJN @ MEM L 37 7 3 14 21.4 1 2 50.0 0 0 - 0 5 5 2 1 0 2 0 0
+p598
+aVJason Collins NJN 12/17/2004 NJN @ MEM L 38 4 1 4 25.0 0 0 - 2 2 100.0 5 2 7 1 1 1 1 5 3
+p599
+aVJacque Vaughn NJN 12/17/2004 NJN @ MEM L 23 5 2 5 40.0 0 1 0.0 1 1 100.0 0 1 1 1 2 0 2 3 -12
+p600
+aVKaniel Dickens NJN 12/17/2004 NJN @ MEM L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -7
+p601
+aVBrian Scalabrine NJN 12/17/2004 NJN @ MEM L 44 21 9 15 60.0 0 2 0.0 3 5 60.0 3 6 9 1 0 1 1 3 -1
+p602
+aVJason Kidd NJN 12/17/2004 NJN @ MEM L 32 17 7 13 53.8 3 4 75.0 0 1 0.0 0 4 4 8 1 0 1 2 6
+p603
+aVJason Kidd NJN 12/14/2004 NJN vs. NYK L 21 15 6 10 60.0 3 7 42.9 0 0 - 1 4 5 2 0 0 4 2 8
+p604
+aVBrian Scalabrine NJN 12/14/2004 NJN vs. NYK L 29 4 2 9 22.2 0 2 0.0 0 0 - 4 3 7 3 3 0 2 6 10
+p605
+aVTravis Best NJN 12/14/2004 NJN vs. NYK L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -11
+p606
+aVRodney Buford NJN 12/14/2004 NJN vs. NYK L 15 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -14
+p607
+aVRichard Jefferson NJN 12/14/2004 NJN vs. NYK L 42 22 7 18 38.9 0 2 0.0 8 10 80.0 2 8 10 6 1 0 5 2 -1
+p608
+aVNenad Krstic NJN 12/14/2004 NJN vs. NYK L 13 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 1 2 2 -15
+p609
+aVKaniel Dickens NJN 12/14/2004 NJN vs. NYK L 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 1 0 1 0
+p610
+aVEric Williams NJN 12/14/2004 NJN vs. NYK L 42 21 6 11 54.5 2 4 50.0 7 12 58.3 1 5 6 1 0 0 3 5 -6
+p611
+aVJacque Vaughn NJN 12/14/2004 NJN vs. NYK L 13 3 1 4 25.0 0 0 - 1 1 100.0 0 0 0 1 1 0 1 1 -5
+p612
+aVJason Collins NJN 12/14/2004 NJN vs. NYK L 39 4 2 14 14.3 0 0 - 0 0 - 7 7 14 1 1 1 3 4 3
+p613
+aVAaron Williams NJN 12/14/2004 NJN vs. NYK L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p614
+aVKaniel Dickens NJN 12/11/2004 NJN @ ATL W 5 2 1 3 33.3 0 1 0.0 0 0 - 2 2 4 0 0 0 1 0 9
+p615
+aVJason Collins NJN 12/11/2004 NJN @ ATL W 33 8 4 9 44.4 0 0 - 0 0 - 2 2 4 0 1 1 4 5 3
+p616
+aVBrian Scalabrine NJN 12/11/2004 NJN @ ATL W 27 2 1 4 25.0 0 0 - 0 0 - 3 1 4 2 2 0 0 1 11
+p617
+aVTravis Best NJN 12/11/2004 NJN @ ATL W 38 21 7 19 36.8 1 2 50.0 6 6 100.0 0 1 1 3 2 0 0 3 4
+p618
+aVJason Kidd NJN 12/11/2004 NJN @ ATL W 17 9 1 5 20.0 1 2 50.0 6 8 75.0 0 3 3 0 0 0 4 1 -6
+p619
+aVRodney Buford NJN 12/11/2004 NJN @ ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p620
+aVNenad Krstic NJN 12/11/2004 NJN @ ATL W 21 10 4 7 57.1 0 0 - 2 3 66.7 3 4 7 1 1 2 2 4 -5
+p621
+aVJacque Vaughn NJN 12/11/2004 NJN @ ATL W 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 1 7
+p622
+aVEric Williams NJN 12/11/2004 NJN @ ATL W 38 20 7 10 70.0 2 2 100.0 4 6 66.7 0 4 4 4 0 0 1 3 4
+p623
+aVRichard Jefferson NJN 12/11/2004 NJN @ ATL W 43 21 6 16 37.5 3 4 75.0 6 6 100.0 0 8 8 4 3 0 2 4 2
+p624
+aVKaniel Dickens NJN 12/10/2004 NJN vs. NOH W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p625
+aVEric Williams NJN 12/10/2004 NJN vs. NOH W 41 19 7 11 63.6 2 2 100.0 3 4 75.0 2 3 5 2 1 0 1 2 13
+p626
+aVAaron Williams NJN 12/10/2004 NJN vs. NOH W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -5
+p627
+aVNenad Krstic NJN 12/10/2004 NJN vs. NOH W 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 3 3 -14
+p628
+aVJason Collins NJN 12/10/2004 NJN vs. NOH W 43 11 4 4 100.0 0 0 - 3 4 75.0 2 7 9 2 0 1 1 3 16
+p629
+aVBrian Scalabrine NJN 12/10/2004 NJN vs. NOH W 36 6 3 6 50.0 0 0 - 0 1 0.0 1 5 6 2 1 0 4 4 11
+p630
+aVJacque Vaughn NJN 12/10/2004 NJN vs. NOH W 16 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 2 0 8
+p631
+aVRichard Jefferson NJN 12/10/2004 NJN vs. NOH W 32 24 11 17 64.7 2 4 50.0 0 0 - 1 2 3 1 2 1 6 4 5
+p632
+aVRodney Buford NJN 12/10/2004 NJN vs. NOH W 12 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 -12
+p633
+aVTravis Best NJN 12/10/2004 NJN vs. NOH W 30 10 3 8 37.5 1 4 25.0 3 3 100.0 0 5 5 9 1 0 3 4 -2
+p634
+aVJason Kidd NJN 12/10/2004 NJN vs. NOH W 28 8 3 11 27.3 2 6 33.3 0 0 - 1 4 5 8 2 0 4 3 8
+p635
+aVEric Williams NJN 12/07/2004 NJN @ CLE L 32 5 1 2 50.0 0 0 - 3 4 75.0 0 2 2 6 0 0 2 4 6
+p636
+aVNenad Krstic NJN 12/07/2004 NJN @ CLE L 8 5 1 4 25.0 0 0 - 3 4 75.0 2 0 2 0 1 0 0 2 -1
+p637
+aVBrian Scalabrine NJN 12/07/2004 NJN @ CLE L 16 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 -8
+p638
+aVRichard Jefferson NJN 12/07/2004 NJN @ CLE L 43 27 7 13 53.8 1 1 100.0 12 15 80.0 0 4 4 7 2 1 6 2 1
+p639
+aVJacque Vaughn NJN 12/07/2004 NJN @ CLE L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -2
+p640
+aVJason Kidd NJN 12/07/2004 NJN @ CLE L 20 10 3 9 33.3 3 5 60.0 1 1 100.0 0 2 2 2 0 0 2 2 -9
+p641
+aVTravis Best NJN 12/07/2004 NJN @ CLE L 30 11 4 9 44.4 0 1 0.0 3 3 100.0 0 2 2 3 1 0 1 3 -1
+p642
+aVJason Collins NJN 12/07/2004 NJN @ CLE L 34 17 8 10 80.0 0 0 - 1 4 25.0 2 6 8 0 1 2 1 5 -1
+p643
+aVRodney Buford NJN 12/07/2004 NJN @ CLE L 19 4 2 6 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -11
+p644
+aVAlonzo Mourning NJN 12/07/2004 NJN @ CLE L 28 16 8 15 53.3 0 0 - 0 0 - 0 2 2 0 1 0 2 1 0
+p645
+aVAaron Williams NJN 12/07/2004 NJN @ CLE L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p646
+aVRodney Buford NJN 12/06/2004 NJN vs. TOR W 16 4 2 9 22.2 0 1 0.0 0 0 - 1 2 3 1 1 0 0 0 -3
+p647
+aVEric Williams NJN 12/06/2004 NJN vs. TOR W 35 12 4 12 33.3 0 2 0.0 4 6 66.7 2 6 8 2 2 0 1 3 4
+p648
+aVAlonzo Mourning NJN 12/06/2004 NJN vs. TOR W 27 10 5 12 41.7 0 0 - 0 1 0.0 5 5 10 1 0 2 3 4 11
+p649
+aVAaron Williams NJN 12/06/2004 NJN vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p650
+aVBrian Scalabrine NJN 12/06/2004 NJN vs. TOR W 18 7 3 4 75.0 1 1 100.0 0 0 - 2 3 5 4 1 0 1 2 -3
+p651
+aVTravis Best NJN 12/06/2004 NJN vs. TOR W 25 6 3 13 23.1 0 1 0.0 0 0 - 0 2 2 3 1 0 0 2 -10
+p652
+aVNenad Krstic NJN 12/06/2004 NJN vs. TOR W 17 3 1 5 20.0 0 0 - 1 1 100.0 2 7 9 3 1 1 0 3 -6
+p653
+aVRichard Jefferson NJN 12/06/2004 NJN vs. TOR W 40 26 8 16 50.0 0 0 - 10 12 83.3 2 7 9 8 0 0 2 4 5
+p654
+aVJacque Vaughn NJN 12/06/2004 NJN vs. TOR W 10 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 1
+p655
+aVJason Kidd NJN 12/06/2004 NJN vs. TOR W 21 10 4 6 66.7 2 2 100.0 0 0 - 1 5 6 3 1 0 6 1 8
+p656
+aVJason Collins NJN 12/06/2004 NJN vs. TOR W 30 6 3 10 30.0 0 0 - 0 0 - 3 5 8 1 0 1 1 5 5
+p657
+aVTravis Best NJN 12/04/2004 NJN vs. ATL W 27 14 5 9 55.6 0 0 - 4 4 100.0 0 2 2 3 1 0 1 3 15
+p658
+aVJason Collins NJN 12/04/2004 NJN vs. ATL W 23 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 0 1 1 3 20
+p659
+aVAlonzo Mourning NJN 12/04/2004 NJN vs. ATL W 18 6 1 4 25.0 0 0 - 4 7 57.1 1 6 7 3 1 1 0 1 13
+p660
+aVRichard Jefferson NJN 12/04/2004 NJN vs. ATL W 39 14 5 11 45.5 0 2 0.0 4 7 57.1 1 6 7 7 0 0 3 3 23
+p661
+aVJabari Smith NJN 12/04/2004 NJN vs. ATL W 8 4 0 0 - 0 0 - 4 4 100.0 0 1 1 0 0 0 2 1 -5
+p662
+aVNenad Krstic NJN 12/04/2004 NJN vs. ATL W 20 15 5 9 55.6 0 0 - 5 6 83.3 2 4 6 0 1 1 0 5 5
+p663
+aVBrian Scalabrine NJN 12/04/2004 NJN vs. ATL W 22 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 5 1 0 0 3 8
+p664
+aVAwvee Storey NJN 12/04/2004 NJN vs. ATL W 5 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p665
+aVJacque Vaughn NJN 12/04/2004 NJN vs. ATL W 21 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 2 0 0 0 3 6
+p666
+aVAaron Williams NJN 12/04/2004 NJN vs. ATL W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p667
+aVEric Williams NJN 12/04/2004 NJN vs. ATL W 30 21 7 8 87.5 3 3 100.0 4 6 66.7 0 1 1 1 1 0 3 1 19
+p668
+aVRodney Buford NJN 12/04/2004 NJN vs. ATL W 21 18 7 11 63.6 1 1 100.0 3 3 100.0 1 3 4 2 0 0 0 1 6
+p669
+aVJason Collins NJN 12/01/2004 NJN @ WAS L 28 4 1 7 14.3 0 0 - 2 3 66.7 4 5 9 2 2 0 0 4 -18
+p670
+aVRodney Buford NJN 12/01/2004 NJN @ WAS L 15 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 -15
+p671
+aVRichard Jefferson NJN 12/01/2004 NJN @ WAS L 34 7 0 6 0.0 0 0 - 7 10 70.0 0 3 3 1 1 0 2 2 -18
+p672
+aVAaron Williams NJN 12/01/2004 NJN @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p673
+aVZoran Planinic NJN 12/01/2004 NJN @ WAS L 8 6 2 3 66.7 1 1 100.0 1 2 50.0 0 1 1 1 0 0 0 0 6
+p674
+aVAwvee Storey NJN 12/01/2004 NJN @ WAS L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -10
+p675
+aVEric Williams NJN 12/01/2004 NJN @ WAS L 38 17 4 9 44.4 0 0 - 9 13 69.2 2 4 6 0 0 0 4 3 -21
+p676
+aVAlonzo Mourning NJN 12/01/2004 NJN @ WAS L 24 6 2 6 33.3 0 0 - 2 9 22.2 0 9 9 0 0 3 0 3 -2
+p677
+aVTravis Best NJN 12/01/2004 NJN @ WAS L 29 16 7 11 63.6 0 0 - 2 2 100.0 0 0 0 1 0 1 3 6 -16
+p678
+aVJacque Vaughn NJN 12/01/2004 NJN @ WAS L 19 5 1 4 25.0 0 0 - 3 4 75.0 0 1 1 0 0 0 3 3 -11
+p679
+aVBrian Scalabrine NJN 12/01/2004 NJN @ WAS L 17 0 0 7 0.0 0 3 0.0 0 0 - 0 5 5 0 0 0 1 0 -21
+p680
+aVNenad Krstic NJN 12/01/2004 NJN @ WAS L 14 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 0 1 0 3 -5
+p681
+aVNenad Krstic NJN 11/30/2004 NJN vs. CHA W 12 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 0 0 2 2 2 -1
+p682
+aVRichard Jefferson NJN 11/30/2004 NJN vs. CHA W 45 23 9 17 52.9 1 2 50.0 4 5 80.0 1 7 8 6 0 1 7 1 12
+p683
+aVJacque Vaughn NJN 11/30/2004 NJN vs. CHA W 15 4 2 2 100.0 0 0 - 0 0 - 0 2 2 2 1 0 0 1 9
+p684
+aVJason Collins NJN 11/30/2004 NJN vs. CHA W 35 10 4 5 80.0 0 0 - 2 2 100.0 2 1 3 1 2 0 3 4 8
+p685
+aVAwvee Storey NJN 11/30/2004 NJN vs. CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p686
+aVTravis Best NJN 11/30/2004 NJN vs. CHA W 33 9 3 6 50.0 0 0 - 3 4 75.0 0 5 5 6 2 0 1 4 4
+p687
+aVZoran Planinic NJN 11/30/2004 NJN vs. CHA W 15 7 2 8 25.0 0 1 0.0 3 3 100.0 2 2 4 1 1 0 0 1 1
+p688
+aVBrian Scalabrine NJN 11/30/2004 NJN vs. CHA W 16 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 11
+p689
+aVAaron Williams NJN 11/30/2004 NJN vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 3
+p690
+aVAlonzo Mourning NJN 11/30/2004 NJN vs. CHA W 28 18 8 13 61.5 0 0 - 2 5 40.0 4 7 11 1 0 3 1 5 5
+p691
+aVEric Williams NJN 11/30/2004 NJN vs. CHA W 37 22 8 12 66.7 0 1 0.0 6 8 75.0 1 1 2 4 0 0 0 3 16
+p692
+aVAlonzo Mourning NJN 11/28/2004 NJN @ POR L 23 7 3 5 60.0 0 0 - 1 6 16.7 1 6 7 1 0 1 1 1 -5
+p693
+aVNenad Krstic NJN 11/28/2004 NJN @ POR L 12 4 0 1 0.0 0 0 - 4 4 100.0 2 1 3 0 0 3 0 4 2
+p694
+aVAwvee Storey NJN 11/28/2004 NJN @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p695
+aVBrian Scalabrine NJN 11/28/2004 NJN @ POR L 26 4 2 10 20.0 0 4 0.0 0 0 - 1 3 4 4 0 0 1 5 -10
+p696
+aVTravis Best NJN 11/28/2004 NJN @ POR L 37 15 7 12 58.3 1 2 50.0 0 0 - 0 1 1 4 1 0 1 2 -12
+p697
+aVJason Collins NJN 11/28/2004 NJN @ POR L 23 3 1 8 12.5 0 0 - 1 2 50.0 3 1 4 0 0 1 3 4 -7
+p698
+aVEric Williams NJN 11/28/2004 NJN @ POR L 35 14 6 11 54.5 1 3 33.3 1 2 50.0 0 4 4 1 1 0 2 5 -4
+p699
+aVRichard Jefferson NJN 11/28/2004 NJN @ POR L 42 20 8 18 44.4 0 1 0.0 4 4 100.0 2 5 7 4 1 1 3 2 -13
+p700
+aVZoran Planinic NJN 11/28/2004 NJN @ POR L 9 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -2
+p701
+aVRodney Buford NJN 11/28/2004 NJN @ POR L 21 4 2 9 22.2 0 0 - 0 0 - 0 6 6 0 0 0 0 1 -11
+p702
+aVJacque Vaughn NJN 11/28/2004 NJN @ POR L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 2 1 0 0 0 0
+p703
+aVBrian Scalabrine NJN 11/26/2004 NJN @ SEA L 23 2 1 3 33.3 0 0 - 0 0 - 2 7 9 2 0 0 0 5 -16
+p704
+aVAlonzo Mourning NJN 11/26/2004 NJN @ SEA L 24 8 3 7 42.9 0 0 - 2 4 50.0 4 4 8 1 1 3 5 3 -3
+p705
+aVEric Williams NJN 11/26/2004 NJN @ SEA L 32 20 6 13 46.2 0 1 0.0 8 11 72.7 2 3 5 1 2 0 0 5 -10
+p706
+aVZoran Planinic NJN 11/26/2004 NJN @ SEA L 8 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 3
+p707
+aVJason Collins NJN 11/26/2004 NJN @ SEA L 26 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 1 2 6 0
+p708
+aVAaron Williams NJN 11/26/2004 NJN @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p709
+aVTravis Best NJN 11/26/2004 NJN @ SEA L 40 6 3 11 27.3 0 1 0.0 0 0 - 0 3 3 2 2 0 2 2 -9
+p710
+aVRodney Buford NJN 11/26/2004 NJN @ SEA L 22 7 3 9 33.3 1 4 25.0 0 1 0.0 0 2 2 0 1 0 2 2 -11
+p711
+aVNenad Krstic NJN 11/26/2004 NJN @ SEA L 13 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 0 1 2 3 -3
+p712
+aVJacque Vaughn NJN 11/26/2004 NJN @ SEA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p713
+aVRichard Jefferson NJN 11/26/2004 NJN @ SEA L 41 21 6 19 31.6 0 2 0.0 9 10 90.0 2 5 7 2 0 0 2 3 -18
+p714
+aVAwvee Storey NJN 11/26/2004 NJN @ SEA L 3 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 7
+p715
+aVAaron Williams NJN 11/25/2004 NJN @ LAC L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -2
+p716
+aVRichard Jefferson NJN 11/25/2004 NJN @ LAC L 42 24 9 16 56.3 0 0 - 6 7 85.7 0 6 6 3 1 0 4 5 -10
+p717
+aVRodney Buford NJN 11/25/2004 NJN @ LAC L 24 6 2 11 18.2 0 3 0.0 2 2 100.0 0 4 4 1 2 0 0 4 -10
+p718
+aVJacque Vaughn NJN 11/25/2004 NJN @ LAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 0
+p719
+aVAwvee Storey NJN 11/25/2004 NJN @ LAC L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p720
+aVNenad Krstic NJN 11/25/2004 NJN @ LAC L 1 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 2
+p721
+aVAlonzo Mourning NJN 11/25/2004 NJN @ LAC L 19 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 0 0 1 2 3 -15
+p722
+aVTravis Best NJN 11/25/2004 NJN @ LAC L 25 16 6 9 66.7 0 1 0.0 4 4 100.0 0 0 0 2 0 0 2 3 -9
+p723
+aVBrian Scalabrine NJN 11/25/2004 NJN @ LAC L 25 10 4 10 40.0 2 5 40.0 0 0 - 4 1 5 1 2 0 2 0 -1
+p724
+aVEric Williams NJN 11/25/2004 NJN @ LAC L 36 14 5 9 55.6 0 2 0.0 4 8 50.0 4 2 6 1 2 0 1 3 -13
+p725
+aVJason Collins NJN 11/25/2004 NJN @ LAC L 34 2 1 7 14.3 0 0 - 0 0 - 3 2 5 3 1 0 0 4 -5
+p726
+aVZoran Planinic NJN 11/25/2004 NJN @ LAC L 18 4 1 4 25.0 0 0 - 2 4 50.0 0 1 1 1 1 0 1 3 -4
+p727
+aVRodney Buford NJN 11/23/2004 NJN @ DEN L 26 13 5 10 50.0 1 1 100.0 2 2 100.0 0 3 3 1 2 0 0 0 10
+p728
+aVBrian Scalabrine NJN 11/23/2004 NJN @ DEN L 28 11 5 7 71.4 1 1 100.0 0 0 - 1 6 7 3 0 1 2 2 8
+p729
+aVJacque Vaughn NJN 11/23/2004 NJN @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p730
+aVRichard Jefferson NJN 11/23/2004 NJN @ DEN L 41 26 10 18 55.6 0 0 - 6 9 66.7 4 7 11 4 3 1 5 3 2
+p731
+aVAlonzo Mourning NJN 11/23/2004 NJN @ DEN L 14 2 1 8 12.5 0 0 - 0 0 - 1 0 1 1 0 0 2 0 -9
+p732
+aVEric Williams NJN 11/23/2004 NJN @ DEN L 37 9 4 8 50.0 0 2 0.0 1 2 50.0 1 5 6 2 1 0 1 4 -16
+p733
+aVJason Collins NJN 11/23/2004 NJN @ DEN L 30 0 0 4 0.0 0 0 - 0 0 - 0 4 4 1 1 3 1 6 -3
+p734
+aVAaron Williams NJN 11/23/2004 NJN @ DEN L 16 7 2 4 50.0 0 0 - 3 3 100.0 1 0 1 1 0 0 0 2 0
+p735
+aVZoran Planinic NJN 11/23/2004 NJN @ DEN L 20 9 3 6 50.0 2 2 100.0 1 2 50.0 0 2 2 4 0 0 2 3 -14
+p736
+aVTravis Best NJN 11/23/2004 NJN @ DEN L 24 11 5 13 38.5 1 1 100.0 0 0 - 1 3 4 7 2 1 0 1 14
+p737
+aVJacque Vaughn NJN 11/20/2004 NJN vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p738
+aVRodney Buford NJN 11/20/2004 NJN vs. WAS L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -17
+p739
+aVZoran Planinic NJN 11/20/2004 NJN vs. WAS L 26 14 6 10 60.0 0 0 - 2 3 66.7 1 3 4 3 0 0 2 6 1
+p740
+aVAlonzo Mourning NJN 11/20/2004 NJN vs. WAS L 35 14 6 11 54.5 0 0 - 2 4 50.0 3 4 7 1 0 5 1 0 5
+p741
+aVAaron Williams NJN 11/20/2004 NJN vs. WAS L 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -12
+p742
+aVTravis Best NJN 11/20/2004 NJN vs. WAS L 23 11 3 8 37.5 0 1 0.0 5 6 83.3 0 1 1 1 1 0 2 6 -14
+p743
+aVAwvee Storey NJN 11/20/2004 NJN vs. WAS L 4 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -6
+p744
+aVRichard Jefferson NJN 11/20/2004 NJN vs. WAS L 41 22 8 18 44.4 1 2 50.0 5 6 83.3 1 3 4 3 1 1 5 2 -6
+p745
+aVJason Collins NJN 11/20/2004 NJN vs. WAS L 37 5 1 3 33.3 0 0 - 3 4 75.0 4 7 11 1 2 0 2 3 11
+p746
+aVBrian Scalabrine NJN 11/20/2004 NJN vs. WAS L 8 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 1 1 0 1 -13
+p747
+aVEric Williams NJN 11/20/2004 NJN vs. WAS L 41 16 5 9 55.6 1 2 50.0 5 5 100.0 1 5 6 5 1 0 3 4 -4
+p748
+aVZoran Planinic NJN 11/17/2004 NJN vs. SEA L 23 9 3 6 50.0 0 2 0.0 3 3 100.0 0 1 1 2 1 0 1 3 14
+p749
+aVAlonzo Mourning NJN 11/17/2004 NJN vs. SEA L 36 10 3 8 37.5 0 0 - 4 4 100.0 0 9 9 1 1 2 7 4 6
+p750
+aVBrian Scalabrine NJN 11/17/2004 NJN vs. SEA L 18 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 1 0 2 3 3 -18
+p751
+aVRichard Jefferson NJN 11/17/2004 NJN vs. SEA L 45 20 9 22 40.9 0 3 0.0 2 2 100.0 3 7 10 2 0 0 4 3 -11
+p752
+aVJacque Vaughn NJN 11/17/2004 NJN vs. SEA L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -10
+p753
+aVAaron Williams NJN 11/17/2004 NJN vs. SEA L 11 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 2 3 -15
+p754
+aVRodney Buford NJN 11/17/2004 NJN vs. SEA L 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -20
+p755
+aVJason Collins NJN 11/17/2004 NJN vs. SEA L 27 3 1 2 50.0 0 0 - 1 2 50.0 3 4 7 1 0 0 1 5 14
+p756
+aVEric Williams NJN 11/17/2004 NJN vs. SEA L 42 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 2 1 0 3 4 2
+p757
+aVTravis Best NJN 11/17/2004 NJN vs. SEA L 17 13 5 10 50.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 1 2 -17
+p758
+aVAwvee Storey NJN 11/15/2004 NJN vs. HOU L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p759
+aVRodney Buford NJN 11/15/2004 NJN vs. HOU L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -14
+p760
+aVZoran Planinic NJN 11/15/2004 NJN vs. HOU L 37 11 3 13 23.1 0 2 0.0 5 6 83.3 2 4 6 4 1 0 5 3 -7
+p761
+aVJason Collins NJN 11/15/2004 NJN vs. HOU L 39 0 0 5 0.0 0 0 - 0 2 0.0 2 2 4 0 1 2 0 3 -5
+p762
+aVEric Williams NJN 11/15/2004 NJN vs. HOU L 39 6 3 9 33.3 0 3 0.0 0 0 - 3 5 8 1 0 0 1 4 -6
+p763
+aVAlonzo Mourning NJN 11/15/2004 NJN vs. HOU L 24 15 4 13 30.8 0 0 - 7 7 100.0 3 5 8 0 0 4 4 6 -5
+p764
+aVNenad Krstic NJN 11/15/2004 NJN vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p765
+aVAaron Williams NJN 11/15/2004 NJN vs. HOU L 5 3 1 1 100.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 0 -10
+p766
+aVRichard Jefferson NJN 11/15/2004 NJN vs. HOU L 42 17 5 17 29.4 0 2 0.0 7 8 87.5 3 8 11 2 1 0 7 4 -7
+p767
+aVJacque Vaughn NJN 11/15/2004 NJN vs. HOU L 10 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 1 0 0 2 -13
+p768
+aVTravis Best NJN 11/15/2004 NJN vs. HOU L 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 6
+p769
+aVBrian Scalabrine NJN 11/15/2004 NJN vs. HOU L 24 7 3 9 33.3 1 2 50.0 0 0 - 4 7 11 3 0 1 1 1 0
+p770
+aVAwvee Storey NJN 11/13/2004 NJN vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p771
+aVTravis Best NJN 11/13/2004 NJN vs. DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p772
+aVEric Williams NJN 11/13/2004 NJN vs. DAL L 38 15 4 9 44.4 4 6 66.7 3 4 75.0 2 5 7 1 1 1 1 3 -4
+p773
+aVNenad Krstic NJN 11/13/2004 NJN vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p774
+aVBrian Scalabrine NJN 11/13/2004 NJN vs. DAL L 13 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 0 -15
+p775
+aVRichard Jefferson NJN 11/13/2004 NJN vs. DAL L 44 28 6 17 35.3 1 3 33.3 15 18 83.3 2 8 10 0 1 0 6 4 -10
+p776
+aVZoran Planinic NJN 11/13/2004 NJN vs. DAL L 34 16 7 15 46.7 1 2 50.0 1 1 100.0 4 5 9 4 3 0 6 6 -2
+p777
+aVJason Collins NJN 11/13/2004 NJN vs. DAL L 37 8 4 4 100.0 0 0 - 0 0 - 5 2 7 1 0 2 3 3 0
+p778
+aVAaron Williams NJN 11/13/2004 NJN vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p779
+aVAlonzo Mourning NJN 11/13/2004 NJN vs. DAL L 22 5 1 3 33.3 0 0 - 3 6 50.0 2 3 5 2 0 2 3 4 -18
+p780
+aVRodney Buford NJN 11/13/2004 NJN vs. DAL L 32 4 2 16 12.5 0 4 0.0 0 0 - 0 3 3 1 0 0 0 3 -13
+p781
+aVJacque Vaughn NJN 11/13/2004 NJN vs. DAL L 12 0 0 4 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -12
+p782
+aVJason Collins NJN 11/10/2004 NJN @ PHI L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p783
+aVAlonzo Mourning NJN 11/10/2004 NJN @ PHI L 40 16 4 7 57.1 0 0 - 8 11 72.7 1 8 9 2 1 3 2 4 3
+p784
+aVBrian Scalabrine NJN 11/10/2004 NJN @ PHI L 29 9 4 11 36.4 1 3 33.3 0 0 - 0 3 3 4 2 0 3 6 17
+p785
+aVAaron Williams NJN 11/10/2004 NJN @ PHI L 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -10
+p786
+aVZoran Planinic NJN 11/10/2004 NJN @ PHI L 15 4 1 2 50.0 1 1 100.0 1 1 100.0 0 2 2 1 1 0 2 4 -3
+p787
+aVJacque Vaughn NJN 11/10/2004 NJN @ PHI L 40 4 2 3 66.7 0 0 - 0 0 - 1 2 3 12 1 0 0 5 -6
+p788
+aVEric Williams NJN 11/10/2004 NJN @ PHI L 39 17 5 12 41.7 1 3 33.3 6 7 85.7 3 0 3 2 1 0 2 6 -5
+p789
+aVRichard Jefferson NJN 11/10/2004 NJN @ PHI L 45 33 11 21 52.4 1 3 33.3 10 15 66.7 1 9 10 2 0 0 5 5 -19
+p790
+aVNenad Krstic NJN 11/10/2004 NJN @ PHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p791
+aVRodney Buford NJN 11/10/2004 NJN @ PHI L 31 15 6 15 40.0 1 3 33.3 2 2 100.0 0 3 3 4 0 0 0 5 -6
+p792
+aVAaron Williams NJN 11/09/2004 NJN vs. POR W 15 2 1 3 33.3 0 0 - 0 0 - 0 5 5 1 0 0 3 3 3
+p793
+aVRodney Buford NJN 11/09/2004 NJN vs. POR W 21 6 2 9 22.2 2 3 66.7 0 0 - 2 3 5 2 1 0 2 4 6
+p794
+aVBrian Scalabrine NJN 11/09/2004 NJN vs. POR W 31 12 5 11 45.5 0 1 0.0 2 2 100.0 3 4 7 2 1 0 3 5 2
+p795
+aVRichard Jefferson NJN 11/09/2004 NJN vs. POR W 44 8 3 11 27.3 1 3 33.3 1 1 100.0 1 6 7 7 1 1 4 4 3
+p796
+aVJason Collins NJN 11/09/2004 NJN vs. POR W 17 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 2 2 2 1 -3
+p797
+aVZoran Planinic NJN 11/09/2004 NJN vs. POR W 25 12 5 10 50.0 0 0 - 2 2 100.0 2 6 8 0 1 0 2 4 -2
+p798
+aVAlonzo Mourning NJN 11/09/2004 NJN vs. POR W 37 14 5 10 50.0 0 0 - 4 4 100.0 2 10 12 0 0 3 3 2 0
+p799
+aVEric Williams NJN 11/09/2004 NJN vs. POR W 23 0 0 7 0.0 0 0 - 0 2 0.0 2 2 4 2 0 0 1 3 3
+p800
+aVJacque Vaughn NJN 11/09/2004 NJN vs. POR W 27 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 2 0 0 1 2 8
+p801
+aVAaron Williams NJN 11/06/2004 NJN vs. PHX L 13 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 3 0 1 2 -12
+p802
+aVZoran Planinic NJN 11/06/2004 NJN vs. PHX L 11 5 2 6 33.3 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 0 -15
+p803
+aVJason Collins NJN 11/06/2004 NJN vs. PHX L 35 4 2 5 40.0 0 0 - 0 0 - 4 1 5 0 0 1 0 5 -17
+p804
+aVRodney Buford NJN 11/06/2004 NJN vs. PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p805
+aVJacque Vaughn NJN 11/06/2004 NJN vs. PHX L 25 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 2 0 1 2 -21
+p806
+aVAlonzo Mourning NJN 11/06/2004 NJN vs. PHX L 18 12 5 9 55.6 0 0 - 2 2 100.0 2 5 7 0 0 2 2 2 -9
+p807
+aVEric Williams NJN 11/06/2004 NJN vs. PHX L 35 9 3 9 33.3 0 2 0.0 3 4 75.0 1 2 3 1 1 0 1 5 -29
+p808
+aVBrian Scalabrine NJN 11/06/2004 NJN vs. PHX L 14 5 2 7 28.6 1 3 33.3 0 0 - 2 0 2 0 0 0 1 1 -17
+p809
+aVRon Mercer NJN 11/06/2004 NJN vs. PHX L 32 13 6 13 46.2 0 0 - 1 1 100.0 1 0 1 4 1 0 2 0 -15
+p810
+aVRichard Jefferson NJN 11/06/2004 NJN vs. PHX L 30 24 7 19 36.8 2 4 50.0 8 8 100.0 2 5 7 4 1 0 3 4 -5
+p811
+aVNenad Krstic NJN 11/06/2004 NJN vs. PHX L 7 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 0 1 0 0 0 -9
+p812
+aVTravis Best NJN 11/06/2004 NJN vs. PHX L 14 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 2 1 0 1 1 -5
+p813
+aVRon Mercer NJN 11/05/2004 NJN @ CHI W 41 6 3 12 25.0 0 0 - 0 0 - 2 6 8 2 3 0 5 1 3
+p814
+aVRichard Jefferson NJN 11/05/2004 NJN @ CHI W 57 26 9 23 39.1 1 3 33.3 7 7 100.0 3 18 21 9 3 1 11 2 8
+p815
+aVJason Collins NJN 11/05/2004 NJN @ CHI W 41 16 5 5 100.0 0 0 - 6 6 100.0 1 1 2 3 0 0 3 6 1
+p816
+aVAlonzo Mourning NJN 11/05/2004 NJN @ CHI W 28 17 5 5 100.0 0 0 - 7 11 63.6 1 4 5 0 0 6 4 3 -6
+p817
+aVZoran Planinic NJN 11/05/2004 NJN @ CHI W 9 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 3 0 0 0 1 9
+p818
+aVRodney Buford NJN 11/05/2004 NJN @ CHI W 14 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 0 0 1 0 0 -1
+p819
+aVBrian Scalabrine NJN 11/05/2004 NJN @ CHI W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 1 1 3 -4
+p820
+aVEric Williams NJN 11/05/2004 NJN @ CHI W 22 5 1 4 25.0 1 2 50.0 2 2 100.0 0 2 2 2 0 1 1 6 1
+p821
+aVTravis Best NJN 11/05/2004 NJN @ CHI W 21 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 0 2 3 -1
+p822
+aVAaron Williams NJN 11/05/2004 NJN @ CHI W 6 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 2 0 0 0 0 13
+p823
+aVJacque Vaughn NJN 11/05/2004 NJN @ CHI W 40 16 5 9 55.6 0 3 0.0 6 6 100.0 1 5 6 4 0 0 3 5 2
+p824
+aVTravis Best NJN 11/03/2004 NJN vs. MIA L 14 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 3
+p825
+aVRodney Buford NJN 11/03/2004 NJN vs. MIA L 20 8 2 10 20.0 2 4 50.0 2 2 100.0 2 2 4 1 0 0 0 0 -4
+p826
+aVRon Mercer NJN 11/03/2004 NJN vs. MIA L 32 9 4 11 36.4 0 0 - 1 1 100.0 0 2 2 1 0 1 1 2 -19
+p827
+aVRichard Jefferson NJN 11/03/2004 NJN vs. MIA L 33 19 5 12 41.7 0 3 0.0 9 11 81.8 2 2 4 5 0 1 4 3 -19
+p828
+aVBrian Scalabrine NJN 11/03/2004 NJN vs. MIA L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -6
+p829
+aVAaron Williams NJN 11/03/2004 NJN vs. MIA L 20 4 2 4 50.0 0 0 - 0 0 - 0 7 7 1 0 1 0 3 0
+p830
+aVJacque Vaughn NJN 11/03/2004 NJN vs. MIA L 22 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 2 5 -21
+p831
+aVAlonzo Mourning NJN 11/03/2004 NJN vs. MIA L 14 7 3 9 33.3 0 0 - 1 3 33.3 0 5 5 0 0 0 3 4 -14
+p832
+aVZoran Planinic NJN 11/03/2004 NJN vs. MIA L 21 11 5 7 71.4 0 0 - 1 3 33.3 1 0 1 4 2 0 1 1 -6
+p833
+aVNenad Krstic NJN 11/03/2004 NJN vs. MIA L 3 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 1 0
+p834
+aVJason Collins NJN 11/03/2004 NJN vs. MIA L 22 6 2 3 66.7 0 0 - 2 3 66.7 1 3 4 0 2 0 1 5 -13
+p835
+aVEric Williams NJN 11/03/2004 NJN vs. MIA L 26 0 0 6 0.0 0 0 - 0 0 - 1 3 4 1 1 0 2 4 -16
+p836
+a.

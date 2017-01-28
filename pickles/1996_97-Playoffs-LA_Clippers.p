@@ -1,0 +1,72 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRichard Manning LAC 04/28/1997 LAC vs. UTA L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p2
+aVPooh Richardson LAC 04/28/1997 LAC vs. UTA L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p3
+aVBo Outlaw LAC 04/28/1997 LAC vs. UTA L 23 2 1 1 100.0 0 0 - 0 4 0.0 1 4 5 1 1 0 2 0 1
+p4
+aVEric Piatkowski LAC 04/28/1997 LAC vs. UTA L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 3 0
+p5
+aVLamond Murray LAC 04/28/1997 LAC vs. UTA L 18 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 1 0 2 1 2 1
+p6
+aVBrent Barry LAC 04/28/1997 LAC vs. UTA L 32 17 4 10 40.0 2 4 50.0 7 8 87.5 0 3 3 4 0 0 3 5 0
+p7
+aVTerry Dehere LAC 04/28/1997 LAC vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p8
+aVMalik Sealy LAC 04/28/1997 LAC vs. UTA L 31 13 3 6 50.0 1 3 33.3 6 8 75.0 1 0 1 2 0 0 1 6 -15
+p9
+aVLoy Vaught LAC 04/28/1997 LAC vs. UTA L 30 20 9 13 69.2 1 2 50.0 1 3 33.3 0 7 7 0 1 1 3 4 -10
+p10
+aVDarrick Martin LAC 04/28/1997 LAC vs. UTA L 26 6 2 7 28.6 1 2 50.0 1 2 50.0 0 1 1 5 0 0 1 1 -15
+p11
+aVRodney Rogers LAC 04/28/1997 LAC vs. UTA L 38 15 7 15 46.7 1 4 25.0 0 0 - 1 1 2 2 4 2 1 4 -17
+p12
+aVLorenzen Wright LAC 04/28/1997 LAC vs. UTA L 22 8 4 8 50.0 0 0 - 0 0 - 2 5 7 1 0 0 0 0 -13
+p13
+aVBo Outlaw LAC 04/26/1997 LAC @ UTA L 22 0 0 2 0.0 0 0 - 0 0 - 3 3 6 3 0 0 0 3 -6
+p14
+aVDarrick Martin LAC 04/26/1997 LAC @ UTA L 36 16 5 12 41.7 1 2 50.0 5 7 71.4 0 0 0 6 0 0 1 4 5
+p15
+aVRichard Manning LAC 04/26/1997 LAC @ UTA L 14 5 1 6 16.7 0 0 - 3 4 75.0 1 0 1 1 0 0 0 5 2
+p16
+aVLamond Murray LAC 04/26/1997 LAC @ UTA L 24 15 4 10 40.0 2 4 50.0 5 5 100.0 2 3 5 1 2 0 2 3 -15
+p17
+aVLoy Vaught LAC 04/26/1997 LAC @ UTA L 22 5 1 3 33.3 0 1 0.0 3 4 75.0 1 8 9 1 1 1 3 6 4
+p18
+aVMalik Sealy LAC 04/26/1997 LAC @ UTA L 17 11 5 7 71.4 0 1 0.0 1 1 100.0 0 1 1 0 0 0 3 1 -14
+p19
+aVBrent Barry LAC 04/26/1997 LAC @ UTA L 29 13 5 11 45.5 3 4 75.0 0 0 - 1 2 3 3 2 0 0 2 1
+p20
+aVRodney Rogers LAC 04/26/1997 LAC @ UTA L 26 12 3 6 50.0 1 4 25.0 5 7 71.4 2 2 4 2 0 1 3 5 7
+p21
+aVLorenzen Wright LAC 04/26/1997 LAC @ UTA L 32 17 6 11 54.5 0 0 - 5 5 100.0 2 4 6 1 2 0 1 4 -10
+p22
+aVEric Piatkowski LAC 04/26/1997 LAC @ UTA L 14 5 0 3 0.0 0 1 0.0 5 6 83.3 1 1 2 0 0 0 0 1 -4
+p23
+aVLorenzen Wright LAC 04/24/1997 LAC @ UTA L 36 6 3 13 23.1 0 0 - 0 0 - 3 6 9 0 1 2 0 2 -16
+p24
+aVEric Piatkowski LAC 04/24/1997 LAC @ UTA L 13 8 3 5 60.0 1 2 50.0 1 1 100.0 0 0 0 0 1 0 0 1 1
+p25
+aVTerry Dehere LAC 04/24/1997 LAC @ UTA L 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -3
+p26
+aVRichard Manning LAC 04/24/1997 LAC @ UTA L 1 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 0 1 0 0 1
+p27
+aVLamond Murray LAC 04/24/1997 LAC @ UTA L 22 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 1 0 1 1 2 -14
+p28
+aVRodney Rogers LAC 04/24/1997 LAC @ UTA L 20 5 2 8 25.0 0 2 0.0 1 1 100.0 0 1 1 2 0 0 3 4 -2
+p29
+aVMalik Sealy LAC 04/24/1997 LAC @ UTA L 30 12 4 12 33.3 0 1 0.0 4 6 66.7 0 1 1 3 0 0 1 3 -19
+p30
+aVPooh Richardson LAC 04/24/1997 LAC @ UTA L 16 2 1 3 33.3 0 1 0.0 0 1 0.0 0 0 0 3 1 0 1 3 -4
+p31
+aVDarrick Martin LAC 04/24/1997 LAC @ UTA L 14 11 4 6 66.7 3 5 60.0 0 0 - 1 0 1 2 0 0 0 4 -14
+p32
+aVLoy Vaught LAC 04/24/1997 LAC @ UTA L 36 20 9 15 60.0 0 0 - 2 2 100.0 4 7 11 1 1 0 0 2 -27
+p33
+aVBo Outlaw LAC 04/24/1997 LAC @ UTA L 21 13 5 8 62.5 0 1 0.0 3 6 50.0 2 1 3 0 0 2 1 2 2
+p34
+aVBrent Barry LAC 04/24/1997 LAC @ UTA L 20 5 2 6 33.3 0 3 0.0 1 1 100.0 0 1 1 3 2 0 1 3 -5
+p35
+a.

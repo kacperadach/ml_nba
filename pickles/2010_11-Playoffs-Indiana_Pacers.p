@@ -1,0 +1,114 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMike Dunleavy IND 04/26/2011 IND @ CHI L 19 4 1 6 16.7 0 2 0.0 2 2 100.0 0 3 3 1 2 0 1 1 -5
+p2
+aVPaul George IND 04/26/2011 IND @ CHI L 23 7 2 8 25.0 1 4 25.0 2 2 100.0 1 1 2 0 0 2 1 3 -19
+p3
+aVRoy Hibbert IND 04/26/2011 IND @ CHI L 23 11 4 7 57.1 0 0 - 3 4 75.0 2 3 5 0 0 0 4 3 -19
+p4
+aVDahntay Jones IND 04/26/2011 IND @ CHI L 11 10 3 7 42.9 0 1 0.0 4 4 100.0 1 0 1 1 0 0 1 1 0
+p5
+aVDarren Collison IND 04/26/2011 IND @ CHI L 30 7 3 7 42.9 1 1 100.0 0 0 - 2 1 3 5 0 0 2 1 -21
+p6
+aVJosh McRoberts IND 04/26/2011 IND @ CHI L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 2 3 -8
+p7
+aVT.J. Ford IND 04/26/2011 IND @ CHI L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 0
+p8
+aVA.J. Price IND 04/26/2011 IND @ CHI L 13 7 2 6 33.3 1 3 33.3 2 2 100.0 0 0 0 2 0 0 1 1 -6
+p9
+aVJeff Foster IND 04/26/2011 IND @ CHI L 19 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 3 0
+p10
+aVTyler Hansbrough IND 04/26/2011 IND @ CHI L 32 14 3 9 33.3 0 0 - 8 9 88.9 4 7 11 0 1 0 4 3 -19
+p11
+aVBrandon Rush IND 04/26/2011 IND @ CHI L 18 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 0 0 1 0 1 -11
+p12
+aVDanny Granger IND 04/26/2011 IND @ CHI L 37 20 7 16 43.8 3 4 75.0 3 3 100.0 1 5 6 3 0 0 3 3 -27
+p13
+aVRoy Hibbert IND 04/23/2011 IND vs. CHI W 32 16 6 12 50.0 0 0 - 4 5 80.0 4 6 10 1 0 3 3 3 -2
+p14
+aVBrandon Rush IND 04/23/2011 IND vs. CHI W 3 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p15
+aVDarren Collison IND 04/23/2011 IND vs. CHI W 33 6 2 11 18.2 1 2 50.0 1 2 50.0 1 1 2 2 1 1 1 3 -4
+p16
+aVMike Dunleavy IND 04/23/2011 IND vs. CHI W 11 7 1 2 50.0 1 2 50.0 4 8 50.0 0 2 2 0 0 0 0 0 13
+p17
+aVPaul George IND 04/23/2011 IND vs. CHI W 22 9 4 7 57.1 1 3 33.3 0 0 - 0 5 5 1 2 0 1 1 10
+p18
+aVJosh McRoberts IND 04/23/2011 IND vs. CHI W 23 6 2 6 33.3 0 0 - 2 4 50.0 1 2 3 2 1 0 2 4 4
+p19
+aVDanny Granger IND 04/23/2011 IND vs. CHI W 38 24 9 19 47.4 0 4 0.0 6 7 85.7 1 9 10 4 0 0 1 0 -5
+p20
+aVDahntay Jones IND 04/23/2011 IND vs. CHI W 22 5 1 4 25.0 0 1 0.0 3 4 75.0 0 0 0 1 1 0 2 3 -12
+p21
+aVTyler Hansbrough IND 04/23/2011 IND vs. CHI W 25 4 2 8 25.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 3
+p22
+aVA.J. Price IND 04/23/2011 IND vs. CHI W 15 10 3 6 50.0 2 4 50.0 2 2 100.0 0 1 1 1 0 0 0 0 10
+p23
+aVJeff Foster IND 04/23/2011 IND vs. CHI W 16 2 1 2 50.0 0 0 - 0 2 0.0 7 2 9 0 0 1 0 3 5
+p24
+aVDahntay Jones IND 04/21/2011 IND vs. CHI L 16 11 5 9 55.6 0 1 0.0 1 1 100.0 1 0 1 0 0 0 0 3 -5
+p25
+aVJosh McRoberts IND 04/21/2011 IND vs. CHI L 17 9 2 2 100.0 0 0 - 5 5 100.0 0 2 2 0 2 1 1 2 9
+p26
+aVDanny Granger IND 04/21/2011 IND vs. CHI L 35 21 10 21 47.6 1 5 20.0 0 0 - 2 2 4 2 2 0 1 3 -9
+p27
+aVJeff Foster IND 04/21/2011 IND vs. CHI L 25 2 1 1 100.0 0 0 - 0 0 - 1 6 7 0 0 1 2 2 0
+p28
+aVMike Dunleavy IND 04/21/2011 IND vs. CHI L 14 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 0 3
+p29
+aVRoy Hibbert IND 04/21/2011 IND vs. CHI L 23 6 3 12 25.0 0 0 - 0 0 - 3 4 7 0 0 2 2 5 -4
+p30
+aVDarren Collison IND 04/21/2011 IND vs. CHI L 34 9 4 8 50.0 0 0 - 1 2 50.0 0 1 1 2 1 0 4 1 -2
+p31
+aVPaul George IND 04/21/2011 IND vs. CHI L 29 6 1 9 11.1 0 1 0.0 4 4 100.0 4 8 12 2 2 2 0 1 -2
+p32
+aVBrandon Rush IND 04/21/2011 IND vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p33
+aVTyler Hansbrough IND 04/21/2011 IND vs. CHI L 31 10 3 12 25.0 0 0 - 4 4 100.0 4 1 5 1 1 0 1 1 -13
+p34
+aVA.J. Price IND 04/21/2011 IND vs. CHI L 13 4 2 9 22.2 0 2 0.0 0 0 - 0 3 3 1 2 0 0 2 0
+p35
+aVDanny Granger IND 04/18/2011 IND @ CHI L 35 19 7 14 50.0 0 2 0.0 5 6 83.3 1 1 2 4 3 0 1 4 -12
+p36
+aVJeff Foster IND 04/18/2011 IND @ CHI L 18 9 4 5 80.0 0 0 - 1 4 25.0 0 4 4 1 1 0 2 4 12
+p37
+aVT.J. Ford IND 04/18/2011 IND @ CHI L 9 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 7
+p38
+aVRoy Hibbert IND 04/18/2011 IND @ CHI L 21 8 3 7 42.9 0 0 - 2 4 50.0 1 3 4 1 1 3 2 5 -16
+p39
+aVA.J. Price IND 04/18/2011 IND @ CHI L 24 13 3 8 37.5 2 4 50.0 5 5 100.0 2 1 3 1 1 0 5 1 -17
+p40
+aVDarren Collison IND 04/18/2011 IND @ CHI L 15 8 2 5 40.0 0 1 0.0 4 4 100.0 0 1 1 2 1 0 1 0 6
+p41
+aVBrandon Rush IND 04/18/2011 IND @ CHI L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 2 0 0 0 0 0
+p42
+aVMike Dunleavy IND 04/18/2011 IND @ CHI L 13 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 4 1 0 0 1 9
+p43
+aVTyler Hansbrough IND 04/18/2011 IND @ CHI L 40 6 2 12 16.7 0 0 - 2 2 100.0 2 4 6 2 2 0 1 3 -6
+p44
+aVPaul George IND 04/18/2011 IND @ CHI L 35 6 2 7 28.6 1 4 25.0 1 2 50.0 0 4 4 1 3 4 4 4 -11
+p45
+aVJosh McRoberts IND 04/18/2011 IND @ CHI L 17 6 3 9 33.3 0 1 0.0 0 0 - 3 3 6 3 0 0 0 5 -2
+p46
+aVDanny Granger IND 04/16/2011 IND @ CHI L 40 24 10 20 50.0 4 8 50.0 0 0 - 1 5 6 3 1 1 1 2 -5
+p47
+aVPaul George IND 04/16/2011 IND @ CHI L 23 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 2 1 2 -7
+p48
+aVBrandon Rush IND 04/16/2011 IND @ CHI L 18 7 2 3 66.7 2 2 100.0 1 2 50.0 0 0 0 0 1 0 1 3 -2
+p49
+aVA.J. Price IND 04/16/2011 IND @ CHI L 14 8 3 6 50.0 2 3 66.7 0 1 0.0 0 0 0 1 0 0 1 1 -2
+p50
+aVRoy Hibbert IND 04/16/2011 IND @ CHI L 32 11 4 7 57.1 0 0 - 3 4 75.0 5 3 8 1 1 1 2 5 -1
+p51
+aVTyler Hansbrough IND 04/16/2011 IND @ CHI L 35 22 10 19 52.6 0 0 - 2 3 66.7 2 2 4 2 1 0 2 4 -1
+p52
+aVJeff Foster IND 04/16/2011 IND @ CHI L 16 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 1 1 1 2 -4
+p53
+aVMike Dunleavy IND 04/16/2011 IND @ CHI L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 1 4
+p54
+aVDarren Collison IND 04/16/2011 IND @ CHI L 34 17 7 15 46.7 2 2 100.0 1 3 33.3 1 5 6 9 2 1 1 2 -3
+p55
+aVJosh McRoberts IND 04/16/2011 IND @ CHI L 13 4 1 6 16.7 0 0 - 2 2 100.0 3 2 5 1 0 0 0 3 -4
+p56
+a.

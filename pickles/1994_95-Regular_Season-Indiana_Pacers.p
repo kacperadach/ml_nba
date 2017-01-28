@@ -1,0 +1,1736 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMark Jackson IND 04/23/1995 IND vs. ATL W 18 7 3 6 50.0 0 0 - 1 1 100.0 0 1 1 11 0 0 2 2 -
+p2
+aVVern Fleming IND 04/23/1995 IND vs. ATL W 19 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 1 0 0 3 -
+p3
+aVSam Mitchell IND 04/23/1995 IND vs. ATL W 20 14 5 8 62.5 0 0 - 4 4 100.0 4 3 7 1 0 1 1 4 -
+p4
+aVDale Davis IND 04/23/1995 IND vs. ATL W 21 15 7 10 70.0 0 0 - 1 4 25.0 3 7 10 0 1 0 2 3 -
+p5
+aVReggie Miller IND 04/23/1995 IND vs. ATL W 22 22 5 7 71.4 2 3 66.7 10 10 100.0 0 2 2 5 1 0 3 3 -
+p6
+aVDuane Ferrell IND 04/23/1995 IND vs. ATL W 24 11 2 6 33.3 0 0 - 7 8 87.5 3 1 4 1 0 0 1 2 -
+p7
+aVDerrick McKey IND 04/23/1995 IND vs. ATL W 23 2 1 11 9.1 0 2 0.0 0 0 - 1 0 1 0 0 0 3 1 -
+p8
+aVByron Scott IND 04/23/1995 IND vs. ATL W 24 12 3 8 37.5 2 4 50.0 4 5 80.0 1 4 5 3 1 1 2 3 -
+p9
+aVAntonio Davis IND 04/23/1995 IND vs. ATL W 22 6 3 8 37.5 0 0 - 0 3 0.0 3 8 11 0 0 0 1 4 -
+p10
+aVRik Smits IND 04/23/1995 IND vs. ATL W 16 4 2 7 28.6 0 0 - 0 0 - 0 4 4 0 1 0 1 3 -
+p11
+aVGreg Kite IND 04/23/1995 IND vs. ATL W 17 6 3 7 42.9 0 0 - 0 0 - 3 2 5 1 0 0 0 2 -
+p12
+aVHaywoode Workman IND 04/23/1995 IND vs. ATL W 14 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 3 0 0 3 1 -
+p13
+aVDale Davis IND 04/21/1995 IND @ ORL L 34 11 4 13 30.8 0 0 - 3 4 75.0 7 2 9 2 1 0 0 3 -
+p14
+aVAntonio Davis IND 04/21/1995 IND @ ORL L 24 8 3 8 37.5 0 0 - 2 4 50.0 2 4 6 0 0 0 2 1 -
+p15
+aVGreg Kite IND 04/21/1995 IND @ ORL L 4 0 0 2 0.0 0 0 - 0 2 0.0 3 2 5 0 0 0 1 0 -
+p16
+aVVern Fleming IND 04/21/1995 IND @ ORL L 14 9 2 3 66.7 0 0 - 5 6 83.3 0 2 2 0 1 0 0 0 -
+p17
+aVMark Jackson IND 04/21/1995 IND @ ORL L 24 4 2 4 50.0 0 0 - 0 0 - 1 2 3 8 2 1 4 2 -
+p18
+aVRik Smits IND 04/21/1995 IND @ ORL L 27 13 5 13 38.5 0 0 - 3 4 75.0 1 7 8 0 0 1 5 3 -
+p19
+aVHaywoode Workman IND 04/21/1995 IND @ ORL L 16 2 1 6 16.7 0 3 0.0 0 0 - 2 1 3 4 0 0 0 5 -
+p20
+aVDerrick McKey IND 04/21/1995 IND @ ORL L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 2 2 0 2 3 -
+p21
+aVReggie Miller IND 04/21/1995 IND @ ORL L 23 14 5 10 50.0 2 5 40.0 2 2 100.0 0 0 0 0 1 0 1 3 -
+p22
+aVDuane Ferrell IND 04/21/1995 IND @ ORL L 12 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -
+p23
+aVSam Mitchell IND 04/21/1995 IND @ ORL L 24 8 1 7 14.3 0 0 - 6 8 75.0 5 4 9 2 0 0 1 3 -
+p24
+aVByron Scott IND 04/21/1995 IND @ ORL L 18 7 2 6 33.3 1 4 25.0 2 2 100.0 0 4 4 0 1 0 2 2 -
+p25
+aVByron Scott IND 04/19/1995 IND vs. PHL W 15 8 3 8 37.5 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -
+p26
+aVRik Smits IND 04/19/1995 IND vs. PHL W 37 25 9 16 56.3 0 0 - 7 11 63.6 2 10 12 1 0 0 2 3 -
+p27
+aVVern Fleming IND 04/19/1995 IND vs. PHL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p28
+aVReggie Miller IND 04/19/1995 IND vs. PHL W 33 15 5 15 33.3 1 5 20.0 4 5 80.0 2 1 3 2 0 0 1 1 -
+p29
+aVSam Mitchell IND 04/19/1995 IND vs. PHL W 14 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 1 -
+p30
+aVDerrick McKey IND 04/19/1995 IND vs. PHL W 36 20 6 12 50.0 1 2 50.0 7 8 87.5 2 9 11 2 2 1 4 2 -
+p31
+aVMark Jackson IND 04/19/1995 IND vs. PHL W 32 6 3 7 42.9 0 0 - 0 0 - 1 2 3 11 0 0 3 3 -
+p32
+aVAntonio Davis IND 04/19/1995 IND vs. PHL W 25 17 7 7 100.0 0 0 - 3 5 60.0 1 2 3 0 0 2 1 6 -
+p33
+aVDale Davis IND 04/19/1995 IND vs. PHL W 30 4 2 4 50.0 0 0 - 0 0 - 3 4 7 1 0 0 2 1 -
+p34
+aVHaywoode Workman IND 04/19/1995 IND vs. PHL W 17 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 3 1 0 2 2 -
+p35
+aVAntonio Davis IND 04/16/1995 IND vs. MIN W 12 9 4 6 66.7 0 0 - 1 1 100.0 1 3 4 0 0 0 1 4 -
+p36
+aVMark Jackson IND 04/16/1995 IND vs. MIN W 26 6 1 3 33.3 0 0 - 4 4 100.0 2 2 4 10 1 0 0 0 -
+p37
+aVRik Smits IND 04/16/1995 IND vs. MIN W 27 22 10 16 62.5 0 0 - 2 2 100.0 3 6 9 2 0 2 3 3 -
+p38
+aVVern Fleming IND 04/16/1995 IND vs. MIN W 15 9 3 3 100.0 0 0 - 3 4 75.0 1 1 2 4 0 0 1 2 -
+p39
+aVHaywoode Workman IND 04/16/1995 IND vs. MIN W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 4 4 0 1 1 -
+p40
+aVByron Scott IND 04/16/1995 IND vs. MIN W 12 9 3 8 37.5 0 3 0.0 3 4 75.0 0 0 0 1 0 1 0 1 -
+p41
+aVDale Davis IND 04/16/1995 IND vs. MIN W 25 6 3 7 42.9 0 0 - 0 1 0.0 2 6 8 1 0 2 1 2 -
+p42
+aVDerrick McKey IND 04/16/1995 IND vs. MIN W 30 20 7 11 63.6 1 2 50.0 5 5 100.0 0 5 5 3 4 0 2 2 -
+p43
+aVDuane Ferrell IND 04/16/1995 IND vs. MIN W 13 10 4 5 80.0 0 0 - 2 2 100.0 2 0 2 2 1 0 0 2 -
+p44
+aVSam Mitchell IND 04/16/1995 IND vs. MIN W 23 4 2 7 28.6 0 0 - 0 0 - 4 2 6 0 0 2 1 3 -
+p45
+aVReggie Miller IND 04/16/1995 IND vs. MIN W 31 13 5 11 45.5 1 4 25.0 2 2 100.0 0 1 1 4 0 1 2 1 -
+p46
+aVGreg Kite IND 04/16/1995 IND vs. MIN W 9 1 0 2 0.0 0 0 - 1 6 16.7 1 2 3 0 0 0 1 4 -
+p47
+aVByron Scott IND 04/14/1995 IND vs. NYK L 16 10 4 8 50.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 2 -
+p48
+aVMark Jackson IND 04/14/1995 IND vs. NYK L 36 4 2 7 28.6 0 2 0.0 0 0 - 0 4 4 5 1 0 5 3 -
+p49
+aVRik Smits IND 04/14/1995 IND vs. NYK L 31 18 9 13 69.2 0 0 - 0 2 0.0 4 5 9 0 0 1 3 2 -
+p50
+aVAntonio Davis IND 04/14/1995 IND vs. NYK L 26 3 1 6 16.7 0 0 - 1 2 50.0 3 4 7 0 0 1 2 3 -
+p51
+aVDerrick McKey IND 04/14/1995 IND vs. NYK L 39 23 6 17 35.3 1 3 33.3 10 10 100.0 3 7 10 5 1 1 3 0 -
+p52
+aVHaywoode Workman IND 04/14/1995 IND vs. NYK L 12 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -
+p53
+aVReggie Miller IND 04/14/1995 IND vs. NYK L 34 18 4 12 33.3 1 2 50.0 9 9 100.0 0 1 1 3 3 0 2 1 -
+p54
+aVDale Davis IND 04/14/1995 IND vs. NYK L 35 7 3 9 33.3 0 0 - 1 4 25.0 8 2 10 1 0 0 1 4 -
+p55
+aVSam Mitchell IND 04/14/1995 IND vs. NYK L 11 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 2 -
+p56
+aVRik Smits IND 04/11/1995 IND @ CHI L 41 26 11 20 55.0 0 0 - 4 4 100.0 4 6 10 2 0 1 0 3 -
+p57
+aVDerrick McKey IND 04/11/1995 IND @ CHI L 30 13 6 18 33.3 0 1 0.0 1 2 50.0 2 0 2 5 1 0 1 4 -
+p58
+aVSam Mitchell IND 04/11/1995 IND @ CHI L 11 3 1 4 25.0 0 0 - 1 4 25.0 1 1 2 0 0 0 1 1 -
+p59
+aVReggie Miller IND 04/11/1995 IND @ CHI L 39 12 3 13 23.1 1 8 12.5 5 7 71.4 2 2 4 2 0 0 1 2 -
+p60
+aVAntonio Davis IND 04/11/1995 IND @ CHI L 20 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 0 0 0 5 -
+p61
+aVDale Davis IND 04/11/1995 IND @ CHI L 30 10 4 7 57.1 0 0 - 2 4 50.0 2 7 9 0 0 2 1 4 -
+p62
+aVHaywoode Workman IND 04/11/1995 IND @ CHI L 12 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 1 0 1 2 -
+p63
+aVMark Jackson IND 04/11/1995 IND @ CHI L 36 10 5 12 41.7 0 1 0.0 0 0 - 1 7 8 7 1 0 4 2 -
+p64
+aVByron Scott IND 04/11/1995 IND @ CHI L 21 7 3 6 50.0 1 4 25.0 0 0 - 0 3 3 3 2 0 3 6 -
+p65
+aVAntonio Davis IND 04/09/1995 IND vs. CHH W 11 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 5 -
+p66
+aVReggie Miller IND 04/09/1995 IND vs. CHH W 30 16 4 7 57.1 3 4 75.0 5 6 83.3 0 2 2 3 2 0 1 3 -
+p67
+aVSam Mitchell IND 04/09/1995 IND vs. CHH W 23 10 4 8 50.0 0 0 - 2 4 50.0 0 4 4 2 0 1 0 4 -
+p68
+aVDerrick McKey IND 04/09/1995 IND vs. CHH W 32 10 4 12 33.3 1 2 50.0 1 2 50.0 2 3 5 2 2 0 4 3 -
+p69
+aVDuane Ferrell IND 04/09/1995 IND vs. CHH W 5 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 2 -
+p70
+aVMark Jackson IND 04/09/1995 IND vs. CHH W 26 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 10 1 0 0 1 -
+p71
+aVByron Scott IND 04/09/1995 IND vs. CHH W 26 11 4 8 50.0 3 4 75.0 0 0 - 0 4 4 3 1 0 2 1 -
+p72
+aVRik Smits IND 04/09/1995 IND vs. CHH W 23 18 8 13 61.5 0 0 - 2 3 66.7 0 5 5 1 1 0 4 4 -
+p73
+aVDale Davis IND 04/09/1995 IND vs. CHH W 32 12 6 8 75.0 0 0 - 0 2 0.0 5 5 10 3 1 2 0 3 -
+p74
+aVVern Fleming IND 04/09/1995 IND vs. CHH W 6 4 0 0 - 0 0 - 4 4 100.0 0 2 2 2 0 0 0 0 -
+p75
+aVGreg Kite IND 04/09/1995 IND vs. CHH W 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p76
+aVHaywoode Workman IND 04/09/1995 IND vs. CHH W 17 6 2 6 33.3 2 4 50.0 0 0 - 1 2 3 5 0 0 0 2 -
+p77
+aVVern Fleming IND 04/07/1995 IND @ ATL L 8 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 0 2 0 0 1 -
+p78
+aVReggie Miller IND 04/07/1995 IND @ ATL L 24 15 5 12 41.7 2 6 33.3 3 3 100.0 2 0 2 0 1 0 4 2 -
+p79
+aVSam Mitchell IND 04/07/1995 IND @ ATL L 18 13 3 8 37.5 0 0 - 7 7 100.0 2 2 4 0 1 0 0 4 -
+p80
+aVAntonio Davis IND 04/07/1995 IND @ ATL L 20 10 3 7 42.9 0 0 - 4 4 100.0 3 6 9 1 0 0 1 3 -
+p81
+aVByron Scott IND 04/07/1995 IND @ ATL L 29 4 1 9 11.1 1 3 33.3 1 2 50.0 0 5 5 1 0 0 1 3 -
+p82
+aVDale Davis IND 04/07/1995 IND @ ATL L 31 5 2 4 50.0 0 0 - 1 2 50.0 2 10 12 0 1 1 3 3 -
+p83
+aVHaywoode Workman IND 04/07/1995 IND @ ATL L 18 6 2 7 28.6 0 2 0.0 2 3 66.7 0 0 0 4 1 0 0 2 -
+p84
+aVGreg Kite IND 04/07/1995 IND @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p85
+aVMark Jackson IND 04/07/1995 IND @ ATL L 22 10 4 8 50.0 0 0 - 2 3 66.7 1 1 2 2 1 0 3 2 -
+p86
+aVRik Smits IND 04/07/1995 IND @ ATL L 28 7 3 6 50.0 0 1 0.0 1 1 100.0 1 4 5 1 1 1 4 2 -
+p87
+aVDuane Ferrell IND 04/07/1995 IND @ ATL L 10 11 4 4 100.0 0 0 - 3 4 75.0 3 0 3 0 0 0 2 0 -
+p88
+aVDerrick McKey IND 04/07/1995 IND @ ATL L 31 4 2 9 22.2 0 0 - 0 0 - 1 4 5 3 1 0 3 3 -
+p89
+aVDerrick McKey IND 04/05/1995 IND vs. WAS W 32 8 2 4 50.0 1 2 50.0 3 4 75.0 0 4 4 5 0 1 2 2 -
+p90
+aVVern Fleming IND 04/05/1995 IND vs. WAS W 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 0 3 -
+p91
+aVReggie Miller IND 04/05/1995 IND vs. WAS W 32 6 0 7 0.0 0 3 0.0 6 7 85.7 0 6 6 9 2 0 4 0 -
+p92
+aVDale Davis IND 04/05/1995 IND vs. WAS W 28 11 3 4 75.0 0 0 - 5 6 83.3 5 7 12 0 3 0 3 5 -
+p93
+aVHaywoode Workman IND 04/05/1995 IND vs. WAS W 17 15 5 8 62.5 3 3 100.0 2 2 100.0 0 0 0 1 0 0 1 2 -
+p94
+aVDuane Ferrell IND 04/05/1995 IND vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p95
+aVByron Scott IND 04/05/1995 IND vs. WAS W 21 17 7 13 53.8 3 6 50.0 0 0 - 0 3 3 1 0 0 4 1 -
+p96
+aVSam Mitchell IND 04/05/1995 IND vs. WAS W 15 2 1 7 14.3 0 0 - 0 0 - 2 0 2 2 0 0 0 1 -
+p97
+aVAntonio Davis IND 04/05/1995 IND vs. WAS W 24 6 2 4 50.0 0 0 - 2 2 100.0 1 6 7 3 1 0 4 2 -
+p98
+aVMark Jackson IND 04/05/1995 IND vs. WAS W 28 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 3 1 0 3 1 -
+p99
+aVRik Smits IND 04/05/1995 IND vs. WAS W 35 29 12 23 52.2 0 0 - 5 8 62.5 6 4 10 0 2 0 4 4 -
+p100
+aVGreg Kite IND 04/04/1995 IND @ NYK W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p101
+aVDerrick McKey IND 04/04/1995 IND @ NYK W 33 18 6 14 42.9 0 1 0.0 6 9 66.7 2 4 6 1 1 0 2 3 -
+p102
+aVRik Smits IND 04/04/1995 IND @ NYK W 22 15 4 8 50.0 0 0 - 7 8 87.5 3 2 5 1 0 1 2 5 -
+p103
+aVReggie Miller IND 04/04/1995 IND @ NYK W 38 27 9 17 52.9 1 2 50.0 8 11 72.7 0 3 3 1 1 0 1 2 -
+p104
+aVMark Jackson IND 04/04/1995 IND @ NYK W 32 8 2 8 25.0 0 1 0.0 4 5 80.0 1 10 11 10 0 1 2 2 -
+p105
+aVByron Scott IND 04/04/1995 IND @ NYK W 18 6 2 4 50.0 1 1 100.0 1 1 100.0 0 2 2 4 0 0 0 1 -
+p106
+aVSam Mitchell IND 04/04/1995 IND @ NYK W 17 4 1 5 20.0 0 0 - 2 2 100.0 3 1 4 1 0 0 0 4 -
+p107
+aVAntonio Davis IND 04/04/1995 IND @ NYK W 30 11 5 9 55.6 0 0 - 1 3 33.3 0 5 5 0 1 1 0 5 -
+p108
+aVVern Fleming IND 04/04/1995 IND @ NYK W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -
+p109
+aVDale Davis IND 04/04/1995 IND @ NYK W 29 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 1 0 3 0 3 -
+p110
+aVDale Davis IND 04/02/1995 IND vs. POR W 27 6 2 3 66.7 0 0 - 2 6 33.3 4 5 9 0 0 1 1 4 -
+p111
+aVMark Jackson IND 04/02/1995 IND vs. POR W 35 9 4 6 66.7 1 2 50.0 0 0 - 1 4 5 6 2 0 1 2 -
+p112
+aVReggie Miller IND 04/02/1995 IND vs. POR W 34 19 7 15 46.7 1 6 16.7 4 4 100.0 0 2 2 4 2 0 6 2 -
+p113
+aVSam Mitchell IND 04/02/1995 IND vs. POR W 15 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 0 2 3 -
+p114
+aVRik Smits IND 04/02/1995 IND vs. POR W 39 20 7 18 38.9 0 0 - 6 6 100.0 1 9 10 3 1 1 2 5 -
+p115
+aVAntonio Davis IND 04/02/1995 IND vs. POR W 24 6 1 2 50.0 0 0 - 4 6 66.7 1 4 5 0 0 2 2 3 -
+p116
+aVDerrick McKey IND 04/02/1995 IND vs. POR W 36 17 6 10 60.0 2 2 100.0 3 6 50.0 1 4 5 3 1 0 4 4 -
+p117
+aVByron Scott IND 04/02/1995 IND vs. POR W 16 16 3 4 75.0 2 2 100.0 8 8 100.0 0 1 1 2 0 0 2 0 -
+p118
+aVVern Fleming IND 04/02/1995 IND vs. POR W 14 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 3 3 0 1 2 -
+p119
+aVVern Fleming IND 03/31/1995 IND vs. DEN L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -
+p120
+aVRik Smits IND 03/31/1995 IND vs. DEN L 33 23 10 21 47.6 0 0 - 3 5 60.0 1 7 8 0 0 0 3 2 -
+p121
+aVHaywoode Workman IND 03/31/1995 IND vs. DEN L 14 4 1 3 33.3 0 0 - 2 4 50.0 2 2 4 3 1 0 0 1 -
+p122
+aVByron Scott IND 03/31/1995 IND vs. DEN L 23 9 4 11 36.4 1 2 50.0 0 0 - 0 1 1 0 2 0 4 2 -
+p123
+aVMark Jackson IND 03/31/1995 IND vs. DEN L 29 2 1 6 16.7 0 1 0.0 0 0 - 1 3 4 6 1 0 1 2 -
+p124
+aVDerrick McKey IND 03/31/1995 IND vs. DEN L 39 20 8 14 57.1 0 1 0.0 4 4 100.0 1 3 4 4 4 1 3 3 -
+p125
+aVSam Mitchell IND 03/31/1995 IND vs. DEN L 17 8 4 6 66.7 0 0 - 0 0 - 2 2 4 4 1 0 2 1 -
+p126
+aVAntonio Davis IND 03/31/1995 IND vs. DEN L 19 5 2 5 40.0 0 0 - 1 1 100.0 2 4 6 1 1 0 0 3 -
+p127
+aVReggie Miller IND 03/31/1995 IND vs. DEN L 35 10 4 11 36.4 2 5 40.0 0 0 - 0 1 1 3 1 0 3 1 -
+p128
+aVDale Davis IND 03/31/1995 IND vs. DEN L 24 10 4 11 36.4 0 0 - 2 3 66.7 7 3 10 1 0 0 1 3 -
+p129
+aVReggie Miller IND 03/29/1995 IND vs. CLE W 30 22 7 14 50.0 4 5 80.0 4 4 100.0 0 0 0 2 0 0 1 3 -
+p130
+aVByron Scott IND 03/29/1995 IND vs. CLE W 22 7 2 4 50.0 1 1 100.0 2 2 100.0 0 0 0 2 0 0 2 4 -
+p131
+aVMark Jackson IND 03/29/1995 IND vs. CLE W 32 9 3 5 60.0 0 1 0.0 3 4 75.0 1 2 3 14 5 1 2 3 -
+p132
+aVRik Smits IND 03/29/1995 IND vs. CLE W 35 14 7 10 70.0 0 0 - 0 0 - 2 4 6 3 1 0 3 1 -
+p133
+aVGreg Kite IND 03/29/1995 IND vs. CLE W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p134
+aVDerrick McKey IND 03/29/1995 IND vs. CLE W 25 15 5 6 83.3 3 3 100.0 2 2 100.0 0 4 4 3 0 0 1 3 -
+p135
+aVDale Davis IND 03/29/1995 IND vs. CLE W 28 14 5 11 45.5 0 0 - 4 6 66.7 3 6 9 3 2 1 1 1 -
+p136
+aVVern Fleming IND 03/29/1995 IND vs. CLE W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p137
+aVHaywoode Workman IND 03/29/1995 IND vs. CLE W 4 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 0 0 -
+p138
+aVSam Mitchell IND 03/29/1995 IND vs. CLE W 22 11 3 5 60.0 0 0 - 5 5 100.0 2 0 2 0 1 0 1 2 -
+p139
+aVAntonio Davis IND 03/29/1995 IND vs. CLE W 27 8 3 5 60.0 0 0 - 2 3 66.7 2 3 5 0 0 0 5 4 -
+p140
+aVByron Scott IND 03/27/1995 IND vs. NJN W 25 4 0 4 0.0 0 1 0.0 4 4 100.0 0 4 4 1 0 0 2 1 -
+p141
+aVMark Jackson IND 03/27/1995 IND vs. NJN W 36 22 8 12 66.7 0 1 0.0 6 8 75.0 0 1 1 6 2 0 3 2 -
+p142
+aVRik Smits IND 03/27/1995 IND vs. NJN W 38 24 10 14 71.4 0 0 - 4 6 66.7 4 8 12 0 0 0 3 3 -
+p143
+aVDale Davis IND 03/27/1995 IND vs. NJN W 27 1 0 4 0.0 0 0 - 1 2 50.0 2 6 8 1 2 1 3 5 -
+p144
+aVAntonio Davis IND 03/27/1995 IND vs. NJN W 26 13 5 7 71.4 0 0 - 3 4 75.0 4 4 8 1 1 1 0 3 -
+p145
+aVReggie Miller IND 03/27/1995 IND vs. NJN W 33 25 9 17 52.9 5 10 50.0 2 2 100.0 0 2 2 1 0 1 1 2 -
+p146
+aVDerrick McKey IND 03/27/1995 IND vs. NJN W 41 9 3 8 37.5 1 1 100.0 2 4 50.0 1 6 7 5 1 2 1 2 -
+p147
+aVGreg Kite IND 03/27/1995 IND vs. NJN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p148
+aVHaywoode Workman IND 03/27/1995 IND vs. NJN W 12 0 0 4 0.0 0 1 0.0 0 0 - 1 3 4 2 0 0 1 1 -
+p149
+aVMark Jackson IND 03/25/1995 IND @ PHL W 37 10 3 7 42.9 0 1 0.0 4 4 100.0 2 2 4 5 0 0 0 2 -
+p150
+aVDale Davis IND 03/25/1995 IND @ PHL W 29 8 2 5 40.0 0 0 - 4 6 66.7 3 6 9 1 2 3 3 3 -
+p151
+aVSam Mitchell IND 03/25/1995 IND @ PHL W 35 16 5 16 31.3 0 0 - 6 8 75.0 2 4 6 0 1 0 1 4 -
+p152
+aVReggie Miller IND 03/25/1995 IND @ PHL W 36 27 7 15 46.7 3 9 33.3 10 10 100.0 0 2 2 5 2 0 2 1 -
+p153
+aVDerrick McKey IND 03/25/1995 IND @ PHL W 24 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 2 0 0 2 4 -
+p154
+aVByron Scott IND 03/25/1995 IND @ PHL W 19 5 1 7 14.3 0 1 0.0 3 3 100.0 0 1 1 0 0 1 1 3 -
+p155
+aVGreg Kite IND 03/25/1995 IND @ PHL W 11 1 0 0 - 0 0 - 1 2 50.0 2 0 2 0 0 0 1 3 -
+p156
+aVAntonio Davis IND 03/25/1995 IND @ PHL W 38 9 3 10 30.0 0 0 - 3 4 75.0 3 6 9 0 1 2 0 2 -
+p157
+aVVern Fleming IND 03/25/1995 IND @ PHL W 11 0 0 3 0.0 0 0 - 0 2 0.0 0 4 4 1 0 0 1 3 -
+p158
+aVRik Smits IND 03/24/1995 IND vs. SAC W 33 31 10 16 62.5 0 1 0.0 11 13 84.6 6 4 10 2 0 1 1 2 -
+p159
+aVDale Davis IND 03/24/1995 IND vs. SAC W 42 13 6 7 85.7 0 0 - 1 2 50.0 4 12 16 0 1 4 1 3 -
+p160
+aVMark Jackson IND 03/24/1995 IND vs. SAC W 33 4 0 5 0.0 0 0 - 4 4 100.0 1 2 3 11 0 0 2 1 -
+p161
+aVDerrick McKey IND 03/24/1995 IND vs. SAC W 36 22 10 20 50.0 1 2 50.0 1 3 33.3 2 4 6 2 2 2 3 2 -
+p162
+aVByron Scott IND 03/24/1995 IND vs. SAC W 14 3 1 7 14.3 0 4 0.0 1 2 50.0 0 1 1 1 0 0 2 1 -
+p163
+aVSam Mitchell IND 03/24/1995 IND vs. SAC W 17 4 0 2 0.0 0 0 - 4 4 100.0 1 3 4 1 1 0 2 3 -
+p164
+aVAntonio Davis IND 03/24/1995 IND vs. SAC W 15 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 0 2 0 2 5 -
+p165
+aVVern Fleming IND 03/24/1995 IND vs. SAC W 15 4 0 1 0.0 0 0 - 4 4 100.0 0 2 2 0 0 0 2 1 -
+p166
+aVHaywoode Workman IND 03/24/1995 IND vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p167
+aVReggie Miller IND 03/24/1995 IND vs. SAC W 34 16 4 12 33.3 1 5 20.0 7 7 100.0 0 2 2 4 1 0 1 0 -
+p168
+aVReggie Miller IND 03/22/1995 IND vs. LAC W 34 36 12 13 92.3 3 4 75.0 9 10 90.0 0 2 2 2 0 0 3 4 -
+p169
+aVDerrick McKey IND 03/22/1995 IND vs. LAC W 36 10 3 9 33.3 0 0 - 4 4 100.0 0 4 4 7 3 1 1 1 -
+p170
+aVByron Scott IND 03/22/1995 IND vs. LAC W 17 13 5 7 71.4 3 3 100.0 0 0 - 0 0 0 0 2 0 2 2 -
+p171
+aVSam Mitchell IND 03/22/1995 IND vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -
+p172
+aVVern Fleming IND 03/22/1995 IND vs. LAC W 13 3 0 4 0.0 0 2 0.0 3 4 75.0 0 1 1 2 1 0 1 2 -
+p173
+aVAntonio Davis IND 03/22/1995 IND vs. LAC W 26 4 0 3 0.0 0 0 - 4 4 100.0 3 2 5 0 2 1 0 3 -
+p174
+aVRik Smits IND 03/22/1995 IND vs. LAC W 33 19 5 13 38.5 0 0 - 9 9 100.0 4 7 11 0 1 2 4 2 -
+p175
+aVDuane Ferrell IND 03/22/1995 IND vs. LAC W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p176
+aVDale Davis IND 03/22/1995 IND vs. LAC W 36 14 7 10 70.0 0 0 - 0 0 - 3 4 7 0 1 2 1 3 -
+p177
+aVMark Jackson IND 03/22/1995 IND vs. LAC W 35 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 10 2 0 2 2 -
+p178
+aVAntonio Davis IND 03/21/1995 IND @ MIA L 22 2 1 6 16.7 0 0 - 0 0 - 4 3 7 0 1 1 1 3 -
+p179
+aVHaywoode Workman IND 03/21/1995 IND @ MIA L 12 2 1 6 16.7 0 2 0.0 0 0 - 1 0 1 1 0 0 0 4 -
+p180
+aVMark Jackson IND 03/21/1995 IND @ MIA L 34 13 5 13 38.5 0 1 0.0 3 3 100.0 2 3 5 7 2 1 4 2 -
+p181
+aVVern Fleming IND 03/21/1995 IND @ MIA L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p182
+aVSam Mitchell IND 03/21/1995 IND @ MIA L 15 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -
+p183
+aVRik Smits IND 03/21/1995 IND @ MIA L 39 30 14 21 66.7 0 0 - 2 2 100.0 4 7 11 2 2 0 5 4 -
+p184
+aVDerrick McKey IND 03/21/1995 IND @ MIA L 37 14 5 12 41.7 0 1 0.0 4 5 80.0 2 5 7 1 1 1 1 4 -
+p185
+aVByron Scott IND 03/21/1995 IND @ MIA L 40 21 7 17 41.2 3 10 30.0 4 5 80.0 1 1 2 5 2 0 2 3 -
+p186
+aVDale Davis IND 03/21/1995 IND @ MIA L 33 11 4 12 33.3 0 0 - 3 4 75.0 5 7 12 1 2 1 0 2 -
+p187
+aVSam Mitchell IND 03/19/1995 IND vs. CHI W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -
+p188
+aVDale Davis IND 03/19/1995 IND vs. CHI W 36 9 3 6 50.0 0 0 - 3 6 50.0 8 12 20 3 0 5 3 1 -
+p189
+aVRik Smits IND 03/19/1995 IND vs. CHI W 38 12 5 11 45.5 0 0 - 2 2 100.0 1 8 9 0 0 1 2 4 -
+p190
+aVVern Fleming IND 03/19/1995 IND vs. CHI W 17 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 3 2 0 2 0 -
+p191
+aVReggie Miller IND 03/19/1995 IND vs. CHI W 37 28 8 18 44.4 4 12 33.3 8 9 88.9 2 1 3 4 2 1 0 1 -
+p192
+aVAntonio Davis IND 03/19/1995 IND vs. CHI W 26 2 0 3 0.0 0 0 - 2 4 50.0 1 0 1 1 1 1 1 4 -
+p193
+aVByron Scott IND 03/19/1995 IND vs. CHI W 20 17 5 7 71.4 1 2 50.0 6 7 85.7 0 0 0 0 1 0 4 5 -
+p194
+aVMark Jackson IND 03/19/1995 IND vs. CHI W 35 10 5 7 71.4 0 0 - 0 0 - 1 4 5 10 4 0 4 3 -
+p195
+aVHaywoode Workman IND 03/19/1995 IND vs. CHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p196
+aVDuane Ferrell IND 03/19/1995 IND vs. CHI W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p197
+aVDerrick McKey IND 03/19/1995 IND vs. CHI W 45 16 7 14 50.0 0 0 - 2 2 100.0 2 4 6 3 0 0 1 3 -
+p198
+aVDale Davis IND 03/17/1995 IND vs. ORL W 29 8 4 8 50.0 0 0 - 0 0 - 2 4 6 0 0 0 1 5 -
+p199
+aVSam Mitchell IND 03/17/1995 IND vs. ORL W 15 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 3 -
+p200
+aVAntonio Davis IND 03/17/1995 IND vs. ORL W 18 10 4 6 66.7 0 0 - 2 2 100.0 1 7 8 4 0 1 1 1 -
+p201
+aVRik Smits IND 03/17/1995 IND vs. ORL W 32 21 8 16 50.0 0 0 - 5 6 83.3 3 8 11 4 0 4 7 4 -
+p202
+aVVern Fleming IND 03/17/1995 IND vs. ORL W 17 5 2 4 50.0 0 1 0.0 1 2 50.0 0 1 1 2 1 0 2 2 -
+p203
+aVMark Jackson IND 03/17/1995 IND vs. ORL W 33 12 5 7 71.4 2 3 66.7 0 0 - 1 4 5 11 2 0 2 1 -
+p204
+aVDuane Ferrell IND 03/17/1995 IND vs. ORL W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 -
+p205
+aVDerrick McKey IND 03/17/1995 IND vs. ORL W 36 9 4 7 57.1 0 1 0.0 1 2 50.0 1 4 5 3 1 1 0 1 -
+p206
+aVByron Scott IND 03/17/1995 IND vs. ORL W 18 11 3 6 50.0 3 5 60.0 2 3 66.7 0 1 1 1 0 0 1 3 -
+p207
+aVMark Strickland IND 03/17/1995 IND vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p208
+aVReggie Miller IND 03/17/1995 IND vs. ORL W 35 18 6 14 42.9 3 7 42.9 3 4 75.0 0 1 1 4 2 1 1 3 -
+p209
+aVDuane Ferrell IND 03/15/1995 IND vs. MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p210
+aVMark Jackson IND 03/15/1995 IND vs. MIL W 22 8 3 7 42.9 0 1 0.0 2 3 66.7 0 3 3 3 1 0 3 3 -
+p211
+aVSam Mitchell IND 03/15/1995 IND vs. MIL W 26 12 4 7 57.1 0 0 - 4 6 66.7 1 5 6 0 3 0 0 3 -
+p212
+aVDale Davis IND 03/15/1995 IND vs. MIL W 28 6 3 5 60.0 0 0 - 0 0 - 4 4 8 0 0 1 0 5 -
+p213
+aVDerrick McKey IND 03/15/1995 IND vs. MIL W 35 16 7 10 70.0 0 1 0.0 2 2 100.0 0 2 2 6 2 0 1 6 -
+p214
+aVRik Smits IND 03/15/1995 IND vs. MIL W 42 15 6 14 42.9 0 0 - 3 4 75.0 1 6 7 7 0 2 2 4 -
+p215
+aVByron Scott IND 03/15/1995 IND vs. MIL W 17 4 1 6 16.7 0 2 0.0 2 2 100.0 0 0 0 1 2 0 0 2 -
+p216
+aVMark Strickland IND 03/15/1995 IND vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p217
+aVVern Fleming IND 03/15/1995 IND vs. MIL W 27 16 4 12 33.3 0 0 - 8 9 88.9 3 3 6 7 0 0 0 4 -
+p218
+aVReggie Miller IND 03/15/1995 IND vs. MIL W 36 40 12 15 80.0 6 8 75.0 10 12 83.3 1 5 6 1 1 0 1 1 -
+p219
+aVAntonio Davis IND 03/13/1995 IND @ LAL L 28 8 4 9 44.4 0 0 - 0 2 0.0 3 3 6 0 0 0 2 5 -
+p220
+aVRik Smits IND 03/13/1995 IND @ LAL L 23 15 4 7 57.1 0 0 - 7 7 100.0 2 2 4 1 2 1 5 6 -
+p221
+aVReggie Miller IND 03/13/1995 IND @ LAL L 38 12 4 11 36.4 2 5 40.0 2 2 100.0 1 3 4 3 1 1 2 0 -
+p222
+aVDuane Ferrell IND 03/13/1995 IND @ LAL L 16 5 2 5 40.0 0 0 - 1 3 33.3 3 2 5 0 3 0 0 0 -
+p223
+aVSam Mitchell IND 03/13/1995 IND @ LAL L 21 13 6 7 85.7 0 0 - 1 2 50.0 2 1 3 1 0 0 1 1 -
+p224
+aVMark Jackson IND 03/13/1995 IND @ LAL L 34 2 1 10 10.0 0 1 0.0 0 0 - 1 4 5 10 1 0 2 1 -
+p225
+aVDale Davis IND 03/13/1995 IND @ LAL L 24 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 0 1 1 -
+p226
+aVVern Fleming IND 03/13/1995 IND @ LAL L 15 12 6 7 85.7 0 0 - 0 0 - 1 2 3 2 1 0 1 1 -
+p227
+aVDerrick McKey IND 03/13/1995 IND @ LAL L 21 14 6 10 60.0 1 1 100.0 1 2 50.0 5 2 7 4 0 0 2 5 -
+p228
+aVByron Scott IND 03/13/1995 IND @ LAL L 20 6 2 8 25.0 0 3 0.0 2 3 66.7 0 2 2 2 1 0 2 1 -
+p229
+aVReggie Miller IND 03/10/1995 IND @ PHX W 35 9 3 14 21.4 0 4 0.0 3 4 75.0 2 1 3 3 2 0 0 2 -
+p230
+aVHaywoode Workman IND 03/10/1995 IND @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p231
+aVMark Jackson IND 03/10/1995 IND @ PHX W 35 21 9 11 81.8 0 0 - 3 3 100.0 2 3 5 11 1 1 2 3 -
+p232
+aVRik Smits IND 03/10/1995 IND @ PHX W 34 22 8 13 61.5 0 0 - 6 6 100.0 2 2 4 3 1 0 1 4 -
+p233
+aVDerrick McKey IND 03/10/1995 IND @ PHX W 35 21 9 13 69.2 0 1 0.0 3 4 75.0 3 1 4 2 1 0 3 2 -
+p234
+aVDale Davis IND 03/10/1995 IND @ PHX W 17 2 0 2 0.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 1 -
+p235
+aVVern Fleming IND 03/10/1995 IND @ PHX W 15 7 3 3 100.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 2 -
+p236
+aVByron Scott IND 03/10/1995 IND @ PHX W 22 16 6 11 54.5 3 6 50.0 1 1 100.0 0 1 1 1 3 0 0 1 -
+p237
+aVAntonio Davis IND 03/10/1995 IND @ PHX W 22 10 3 7 42.9 0 0 - 4 4 100.0 4 3 7 2 3 0 1 2 -
+p238
+aVSam Mitchell IND 03/10/1995 IND @ PHX W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 4 -
+p239
+aVDuane Ferrell IND 03/10/1995 IND @ PHX W 9 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 0 0 0 0 -
+p240
+aVAntonio Davis IND 03/09/1995 IND @ SAC W 24 10 2 6 33.3 0 0 - 6 8 75.0 3 2 5 1 0 1 3 3 -
+p241
+aVReggie Miller IND 03/09/1995 IND @ SAC W 38 30 10 16 62.5 6 7 85.7 4 4 100.0 0 2 2 1 0 2 1 2 -
+p242
+aVByron Scott IND 03/09/1995 IND @ SAC W 16 4 1 9 11.1 0 3 0.0 2 2 100.0 0 1 1 0 1 0 1 0 -
+p243
+aVVern Fleming IND 03/09/1995 IND @ SAC W 14 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -
+p244
+aVSam Mitchell IND 03/09/1995 IND @ SAC W 16 5 2 4 50.0 0 0 - 1 3 33.3 0 0 0 1 1 1 0 4 -
+p245
+aVDale Davis IND 03/09/1995 IND @ SAC W 12 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 1 0 2 -
+p246
+aVMark Strickland IND 03/09/1995 IND @ SAC W 1 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p247
+aVRik Smits IND 03/09/1995 IND @ SAC W 39 19 8 12 66.7 0 0 - 3 4 75.0 6 6 12 3 0 0 1 2 -
+p248
+aVMark Jackson IND 03/09/1995 IND @ SAC W 34 14 3 6 50.0 1 3 33.3 7 8 87.5 0 3 3 11 1 1 3 1 -
+p249
+aVDuane Ferrell IND 03/09/1995 IND @ SAC W 11 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 2 1 3 0 -
+p250
+aVDerrick McKey IND 03/09/1995 IND @ SAC W 35 21 8 15 53.3 0 1 0.0 5 7 71.4 5 3 8 5 2 1 1 3 -
+p251
+aVAntonio Davis IND 03/07/1995 IND @ SAN W 26 9 3 8 37.5 0 0 - 3 4 75.0 2 2 4 1 0 0 2 2 -
+p252
+aVRik Smits IND 03/07/1995 IND @ SAN W 31 35 15 21 71.4 0 0 - 5 6 83.3 5 5 10 2 1 2 1 3 -
+p253
+aVDerrick McKey IND 03/07/1995 IND @ SAN W 33 11 4 12 33.3 1 3 33.3 2 4 50.0 2 2 4 5 3 1 1 3 -
+p254
+aVSam Mitchell IND 03/07/1995 IND @ SAN W 35 10 4 9 44.4 0 1 0.0 2 2 100.0 1 8 9 3 0 1 1 3 -
+p255
+aVByron Scott IND 03/07/1995 IND @ SAN W 24 12 4 6 66.7 1 1 100.0 3 3 100.0 1 3 4 5 0 0 1 3 -
+p256
+aVReggie Miller IND 03/07/1995 IND @ SAN W 32 22 7 13 53.8 3 5 60.0 5 5 100.0 2 5 7 0 2 0 2 0 -
+p257
+aVMark Jackson IND 03/07/1995 IND @ SAN W 28 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 6 0 0 0 2 -
+p258
+aVDuane Ferrell IND 03/07/1995 IND @ SAN W 10 7 2 3 66.7 0 0 - 3 4 75.0 1 0 1 1 0 0 1 0 -
+p259
+aVHaywoode Workman IND 03/07/1995 IND @ SAN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -
+p260
+aVVern Fleming IND 03/07/1995 IND @ SAN W 18 4 2 4 50.0 0 0 - 0 0 - 2 0 2 2 2 0 1 2 -
+p261
+aVVern Fleming IND 03/04/1995 IND vs. BOS L 21 15 7 11 63.6 0 0 - 1 2 50.0 1 1 2 5 0 0 2 1 -
+p262
+aVDerrick McKey IND 03/04/1995 IND vs. BOS L 34 13 6 10 60.0 0 0 - 1 1 100.0 1 4 5 2 2 0 2 3 -
+p263
+aVSam Mitchell IND 03/04/1995 IND vs. BOS L 30 6 3 8 37.5 0 2 0.0 0 0 - 1 5 6 0 3 0 0 5 -
+p264
+aVMark Strickland IND 03/04/1995 IND vs. BOS L 6 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 1 1 0 -
+p265
+aVReggie Miller IND 03/04/1995 IND vs. BOS L 25 15 4 13 30.8 2 3 66.7 5 6 83.3 0 0 0 1 0 0 2 1 -
+p266
+aVHaywoode Workman IND 03/04/1995 IND vs. BOS L 14 5 2 7 28.6 1 3 33.3 0 0 - 3 1 4 3 2 0 2 4 -
+p267
+aVMark Jackson IND 03/04/1995 IND vs. BOS L 20 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 9 0 0 0 2 -
+p268
+aVByron Scott IND 03/04/1995 IND vs. BOS L 21 21 7 9 77.8 3 4 75.0 4 5 80.0 0 0 0 0 0 0 0 3 -
+p269
+aVRik Smits IND 03/04/1995 IND vs. BOS L 35 13 6 13 46.2 0 0 - 1 2 50.0 5 5 10 3 0 1 3 5 -
+p270
+aVDuane Ferrell IND 03/04/1995 IND vs. BOS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p271
+aVAntonio Davis IND 03/04/1995 IND vs. BOS L 26 5 1 4 25.0 0 0 - 3 7 42.9 3 3 6 0 0 0 2 3 -
+p272
+aVMark Jackson IND 03/03/1995 IND @ WAS L 36 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 4 1 0 1 0 -
+p273
+aVSam Mitchell IND 03/03/1995 IND @ WAS L 33 18 8 9 88.9 0 0 - 2 2 100.0 1 4 5 1 0 0 3 2 -
+p274
+aVReggie Miller IND 03/03/1995 IND @ WAS L 37 21 6 16 37.5 0 3 0.0 9 9 100.0 1 6 7 4 2 0 4 1 -
+p275
+aVAntonio Davis IND 03/03/1995 IND @ WAS L 25 15 5 8 62.5 0 0 - 5 7 71.4 2 4 6 2 0 2 0 4 -
+p276
+aVByron Scott IND 03/03/1995 IND @ WAS L 12 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 -
+p277
+aVVern Fleming IND 03/03/1995 IND @ WAS L 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 2 -
+p278
+aVRik Smits IND 03/03/1995 IND @ WAS L 36 24 10 19 52.6 0 0 - 4 5 80.0 4 4 8 4 0 0 3 4 -
+p279
+aVHaywoode Workman IND 03/03/1995 IND @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p280
+aVDuane Ferrell IND 03/03/1995 IND @ WAS L 10 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 -
+p281
+aVDerrick McKey IND 03/03/1995 IND @ WAS L 31 12 5 10 50.0 1 2 50.0 1 1 100.0 0 1 1 6 1 0 2 6 -
+p282
+aVJohn Williams IND 03/03/1995 IND @ WAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -
+p283
+aVDuane Ferrell IND 03/01/1995 IND @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -
+p284
+aVSam Mitchell IND 03/01/1995 IND @ DET L 22 9 2 3 66.7 0 0 - 5 6 83.3 2 2 4 0 2 1 2 4 -
+p285
+aVByron Scott IND 03/01/1995 IND @ DET L 27 10 4 9 44.4 1 3 33.3 1 2 50.0 0 2 2 2 2 0 2 1 -
+p286
+aVVern Fleming IND 03/01/1995 IND @ DET L 15 6 3 4 75.0 0 0 - 0 1 0.0 1 2 3 1 0 0 1 2 -
+p287
+aVAntonio Davis IND 03/01/1995 IND @ DET L 35 8 2 7 28.6 0 0 - 4 7 57.1 4 6 10 0 1 1 2 1 -
+p288
+aVRik Smits IND 03/01/1995 IND @ DET L 30 24 8 14 57.1 0 0 - 8 8 100.0 1 1 2 0 0 0 2 3 -
+p289
+aVHaywoode Workman IND 03/01/1995 IND @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p290
+aVJohn Williams IND 03/01/1995 IND @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p291
+aVDerrick McKey IND 03/01/1995 IND @ DET L 23 2 1 5 20.0 0 2 0.0 0 0 - 2 3 5 3 1 0 1 4 -
+p292
+aVReggie Miller IND 03/01/1995 IND @ DET L 42 14 3 12 25.0 0 7 0.0 8 10 80.0 0 9 9 9 1 0 4 1 -
+p293
+aVDale Davis IND 03/01/1995 IND @ DET L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -
+p294
+aVMark Jackson IND 03/01/1995 IND @ DET L 33 4 2 6 33.3 0 2 0.0 0 0 - 0 4 4 5 1 0 2 2 -
+p295
+aVDale Davis IND 02/27/1995 IND @ BOS W 36 10 4 7 57.1 0 0 - 2 6 33.3 2 7 9 0 3 2 0 5 -
+p296
+aVReggie Miller IND 02/27/1995 IND @ BOS W 31 24 8 17 47.1 1 3 33.3 7 8 87.5 0 3 3 2 1 0 2 4 -
+p297
+aVRik Smits IND 02/27/1995 IND @ BOS W 29 25 8 14 57.1 0 0 - 9 10 90.0 1 5 6 2 1 1 3 4 -
+p298
+aVSam Mitchell IND 02/27/1995 IND @ BOS W 21 9 3 7 42.9 0 0 - 3 4 75.0 0 1 1 2 1 0 2 2 -
+p299
+aVJohn Williams IND 02/27/1995 IND @ BOS W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p300
+aVDuane Ferrell IND 02/27/1995 IND @ BOS W 18 6 3 6 50.0 0 0 - 0 1 0.0 1 1 2 2 0 0 0 3 -
+p301
+aVAntonio Davis IND 02/27/1995 IND @ BOS W 27 12 4 6 66.7 0 0 - 4 6 66.7 4 3 7 0 0 1 0 3 -
+p302
+aVVern Fleming IND 02/27/1995 IND @ BOS W 12 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 4 2 -
+p303
+aVByron Scott IND 02/27/1995 IND @ BOS W 25 14 5 8 62.5 1 1 100.0 3 4 75.0 1 1 2 0 2 0 1 0 -
+p304
+aVHaywoode Workman IND 02/27/1995 IND @ BOS W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -
+p305
+aVMark Jackson IND 02/27/1995 IND @ BOS W 31 2 1 3 33.3 0 0 - 0 2 0.0 0 5 5 17 0 0 4 2 -
+p306
+aVMark Jackson IND 02/26/1995 IND vs. DAL W 30 11 4 10 40.0 2 5 40.0 1 2 50.0 0 6 6 9 0 0 2 3 -
+p307
+aVByron Scott IND 02/26/1995 IND vs. DAL W 20 8 2 8 25.0 0 3 0.0 4 4 100.0 0 6 6 1 0 1 3 3 -
+p308
+aVAntonio Davis IND 02/26/1995 IND vs. DAL W 22 3 1 2 50.0 0 0 - 1 4 25.0 0 3 3 0 1 1 1 3 -
+p309
+aVRik Smits IND 02/26/1995 IND vs. DAL W 34 28 13 16 81.3 0 0 - 2 2 100.0 2 5 7 2 1 4 2 3 -
+p310
+aVVern Fleming IND 02/26/1995 IND vs. DAL W 18 10 5 7 71.4 0 0 - 0 0 - 0 3 3 2 1 0 1 2 -
+p311
+aVDerrick McKey IND 02/26/1995 IND vs. DAL W 32 12 6 10 60.0 0 0 - 0 0 - 2 3 5 4 2 0 2 5 -
+p312
+aVSam Mitchell IND 02/26/1995 IND vs. DAL W 15 3 0 0 - 0 0 - 3 4 75.0 0 1 1 2 1 2 0 0 -
+p313
+aVDale Davis IND 02/26/1995 IND vs. DAL W 36 12 5 9 55.6 0 0 - 2 6 33.3 3 5 8 0 1 0 2 2 -
+p314
+aVReggie Miller IND 02/26/1995 IND vs. DAL W 33 13 4 13 30.8 1 5 20.0 4 4 100.0 0 2 2 7 3 0 3 1 -
+p315
+aVDerrick McKey IND 02/24/1995 IND @ MIL W 38 12 6 12 50.0 0 0 - 0 2 0.0 1 2 3 4 1 0 0 1 -
+p316
+aVAntonio Davis IND 02/24/1995 IND @ MIL W 23 11 1 4 25.0 0 0 - 9 15 60.0 3 5 8 1 0 1 0 1 -
+p317
+aVByron Scott IND 02/24/1995 IND @ MIL W 17 17 6 9 66.7 1 2 50.0 4 4 100.0 1 3 4 1 0 0 0 0 -
+p318
+aVMark Jackson IND 02/24/1995 IND @ MIL W 34 11 5 10 50.0 0 0 - 1 2 50.0 3 3 6 5 2 0 4 3 -
+p319
+aVVern Fleming IND 02/24/1995 IND @ MIL W 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -
+p320
+aVRik Smits IND 02/24/1995 IND @ MIL W 31 9 3 8 37.5 0 0 - 3 4 75.0 0 5 5 1 0 1 1 3 -
+p321
+aVDale Davis IND 02/24/1995 IND @ MIL W 36 21 9 11 81.8 0 0 - 3 8 37.5 6 8 14 2 2 1 3 3 -
+p322
+aVSam Mitchell IND 02/24/1995 IND @ MIL W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -
+p323
+aVDuane Ferrell IND 02/24/1995 IND @ MIL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 2 -
+p324
+aVReggie Miller IND 02/24/1995 IND @ MIL W 34 15 6 16 37.5 3 8 37.5 0 0 - 0 5 5 5 3 1 2 2 -
+p325
+aVHaywoode Workman IND 02/24/1995 IND @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -
+p326
+aVByron Scott IND 02/22/1995 IND @ NJN W 25 12 4 5 80.0 1 1 100.0 3 3 100.0 0 3 3 6 3 1 3 3 -
+p327
+aVSam Mitchell IND 02/22/1995 IND @ NJN W 18 10 5 6 83.3 0 0 - 0 0 - 0 2 2 1 0 0 1 4 -
+p328
+aVDerrick McKey IND 02/22/1995 IND @ NJN W 30 10 5 9 55.6 0 0 - 0 0 - 0 2 2 4 1 0 2 4 -
+p329
+aVAntonio Davis IND 02/22/1995 IND @ NJN W 21 11 4 5 80.0 0 0 - 3 5 60.0 1 5 6 0 0 1 1 4 -
+p330
+aVMark Jackson IND 02/22/1995 IND @ NJN W 29 7 3 8 37.5 0 1 0.0 1 3 33.3 0 3 3 7 2 0 2 1 -
+p331
+aVDale Davis IND 02/22/1995 IND @ NJN W 29 9 3 7 42.9 0 0 - 3 3 100.0 3 6 9 0 1 2 2 2 -
+p332
+aVReggie Miller IND 02/22/1995 IND @ NJN W 24 27 9 16 56.3 5 11 45.5 4 5 80.0 0 1 1 2 2 0 0 2 -
+p333
+aVHaywoode Workman IND 02/22/1995 IND @ NJN W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 0 0 -
+p334
+aVVern Fleming IND 02/22/1995 IND @ NJN W 15 6 3 4 75.0 0 0 - 0 0 - 0 1 1 3 2 0 1 2 -
+p335
+aVDuane Ferrell IND 02/22/1995 IND @ NJN W 16 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 0 1 1 0 2 -
+p336
+aVRik Smits IND 02/22/1995 IND @ NJN W 28 13 5 9 55.6 0 0 - 3 4 75.0 1 3 4 2 1 0 1 3 -
+p337
+aVReggie Miller IND 02/19/1995 IND vs. MIA W 34 16 5 13 38.5 2 6 33.3 4 4 100.0 0 1 1 3 1 0 4 1 -
+p338
+aVDerrick McKey IND 02/19/1995 IND vs. MIA W 40 11 5 12 41.7 0 1 0.0 1 2 50.0 0 4 4 3 2 1 2 1 -
+p339
+aVSam Mitchell IND 02/19/1995 IND vs. MIA W 12 13 5 6 83.3 1 1 100.0 2 2 100.0 1 1 2 0 1 0 0 2 -
+p340
+aVDale Davis IND 02/19/1995 IND vs. MIA W 36 16 7 10 70.0 0 0 - 2 5 40.0 5 4 9 1 1 1 3 2 -
+p341
+aVRik Smits IND 02/19/1995 IND vs. MIA W 29 14 6 15 40.0 0 0 - 2 2 100.0 4 8 12 2 2 1 2 2 -
+p342
+aVMark Jackson IND 02/19/1995 IND vs. MIA W 26 11 4 9 44.4 1 1 100.0 2 2 100.0 1 5 6 7 3 0 0 1 -
+p343
+aVJohn Williams IND 02/19/1995 IND vs. MIA W 17 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 1 0 0 0 1 -
+p344
+aVByron Scott IND 02/19/1995 IND vs. MIA W 22 11 3 5 60.0 2 3 66.7 3 4 75.0 0 2 2 2 0 1 1 2 -
+p345
+aVVern Fleming IND 02/19/1995 IND vs. MIA W 24 10 4 5 80.0 0 0 - 2 2 100.0 1 2 3 7 0 0 2 2 -
+p346
+aVRik Smits IND 02/17/1995 IND @ MIN W 29 24 11 17 64.7 0 0 - 2 6 33.3 2 8 10 1 0 3 1 3 -
+p347
+aVDerrick McKey IND 02/17/1995 IND @ MIN W 25 9 3 6 50.0 1 1 100.0 2 2 100.0 0 2 2 3 1 1 0 2 -
+p348
+aVMark Jackson IND 02/17/1995 IND @ MIN W 23 5 2 7 28.6 1 1 100.0 0 0 - 0 1 1 10 2 0 1 1 -
+p349
+aVByron Scott IND 02/17/1995 IND @ MIN W 22 14 6 11 54.5 0 1 0.0 2 2 100.0 1 3 4 1 1 0 2 2 -
+p350
+aVJohn Williams IND 02/17/1995 IND @ MIN W 20 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 3 0 0 4 5 -
+p351
+aVHaywoode Workman IND 02/17/1995 IND @ MIN W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 4 4 1 1 0 2 0 -
+p352
+aVReggie Miller IND 02/17/1995 IND @ MIN W 26 16 5 11 45.5 0 2 0.0 6 6 100.0 0 2 2 3 1 0 1 1 -
+p353
+aVSam Mitchell IND 02/17/1995 IND @ MIN W 19 12 5 8 62.5 0 0 - 2 3 66.7 2 2 4 1 2 0 0 2 -
+p354
+aVVern Fleming IND 02/17/1995 IND @ MIN W 23 4 1 4 25.0 0 0 - 2 4 50.0 1 3 4 5 0 0 0 1 -
+p355
+aVDale Davis IND 02/17/1995 IND @ MIN W 28 13 5 8 62.5 0 0 - 3 6 50.0 6 5 11 2 1 2 0 5 -
+p356
+aVDuane Ferrell IND 02/17/1995 IND @ MIN W 20 7 3 6 50.0 0 0 - 1 2 50.0 3 1 4 1 1 0 2 2 -
+p357
+aVSam Mitchell IND 02/15/1995 IND vs. DET W 20 8 2 3 66.7 0 0 - 4 5 80.0 1 1 2 1 0 2 1 2 -
+p358
+aVDerrick McKey IND 02/15/1995 IND vs. DET W 34 12 5 12 41.7 0 0 - 2 4 50.0 3 2 5 2 0 0 3 4 -
+p359
+aVRik Smits IND 02/15/1995 IND vs. DET W 32 20 7 11 63.6 0 0 - 6 6 100.0 1 5 6 3 0 0 2 1 -
+p360
+aVJohn Williams IND 02/15/1995 IND vs. DET W 16 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 2 0 0 0 2 -
+p361
+aVReggie Miller IND 02/15/1995 IND vs. DET W 33 31 10 15 66.7 2 4 50.0 9 9 100.0 1 6 7 4 1 0 3 3 -
+p362
+aVDale Davis IND 02/15/1995 IND vs. DET W 34 10 4 7 57.1 0 0 - 2 3 66.7 4 4 8 2 2 1 0 1 -
+p363
+aVByron Scott IND 02/15/1995 IND vs. DET W 15 10 3 5 60.0 1 1 100.0 3 3 100.0 0 2 2 3 2 0 3 5 -
+p364
+aVDuane Ferrell IND 02/15/1995 IND vs. DET W 8 6 1 3 33.3 0 0 - 4 4 100.0 2 0 2 1 0 0 2 0 -
+p365
+aVMark Jackson IND 02/15/1995 IND vs. DET W 30 4 2 9 22.2 0 0 - 0 0 - 3 3 6 4 1 0 2 3 -
+p366
+aVVern Fleming IND 02/15/1995 IND vs. DET W 18 11 5 8 62.5 0 0 - 1 1 100.0 0 5 5 3 1 0 0 3 -
+p367
+aVReggie Miller IND 02/14/1995 IND @ ORL L 29 19 8 16 50.0 1 4 25.0 2 2 100.0 0 0 0 3 1 0 1 4 -
+p368
+aVDuane Ferrell IND 02/14/1995 IND @ ORL L 12 6 1 2 50.0 0 0 - 4 4 100.0 1 2 3 1 3 0 2 1 -
+p369
+aVDerrick McKey IND 02/14/1995 IND @ ORL L 34 9 3 4 75.0 0 0 - 3 4 75.0 3 0 3 2 1 2 3 4 -
+p370
+aVRik Smits IND 02/14/1995 IND @ ORL L 33 20 8 20 40.0 0 0 - 4 5 80.0 3 5 8 0 2 2 1 2 -
+p371
+aVByron Scott IND 02/14/1995 IND @ ORL L 28 14 6 13 46.2 0 3 0.0 2 2 100.0 0 1 1 2 3 0 1 1 -
+p372
+aVMark Jackson IND 02/14/1995 IND @ ORL L 28 5 2 5 40.0 0 2 0.0 1 2 50.0 1 5 6 6 3 2 3 2 -
+p373
+aVVern Fleming IND 02/14/1995 IND @ ORL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 5 0 0 0 1 -
+p374
+aVDale Davis IND 02/14/1995 IND @ ORL L 27 6 1 4 25.0 0 0 - 4 8 50.0 1 5 6 2 0 0 2 3 -
+p375
+aVJohn Williams IND 02/14/1995 IND @ ORL L 19 8 2 8 25.0 0 0 - 4 6 66.7 0 0 0 2 0 0 0 2 -
+p376
+aVHaywoode Workman IND 02/14/1995 IND @ ORL L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 3 -
+p377
+aVSam Mitchell IND 02/14/1995 IND @ ORL L 10 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 0 3 -
+p378
+aVSam Mitchell IND 02/08/1995 IND vs. NYK L 41 9 4 7 57.1 0 0 - 1 2 50.0 3 5 8 0 3 0 0 2 -
+p379
+aVDerrick McKey IND 02/08/1995 IND vs. NYK L 41 14 3 12 25.0 0 2 0.0 8 9 88.9 3 2 5 2 1 0 1 3 -
+p380
+aVVern Fleming IND 02/08/1995 IND vs. NYK L 11 2 0 0 - 0 0 - 2 3 66.7 0 2 2 1 0 0 2 0 -
+p381
+aVDuane Ferrell IND 02/08/1995 IND vs. NYK L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p382
+aVMark Jackson IND 02/08/1995 IND vs. NYK L 17 0 0 4 0.0 0 2 0.0 0 2 0.0 1 1 2 3 1 0 1 1 -
+p383
+aVHaywoode Workman IND 02/08/1995 IND vs. NYK L 31 6 1 5 20.0 1 2 50.0 3 6 50.0 0 3 3 6 2 0 0 2 -
+p384
+aVRik Smits IND 02/08/1995 IND vs. NYK L 36 18 6 13 46.2 0 0 - 6 6 100.0 3 6 9 0 0 1 3 6 -
+p385
+aVJohn Williams IND 02/08/1995 IND vs. NYK L 14 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 0 0 0 3 4 -
+p386
+aVReggie Miller IND 02/08/1995 IND vs. NYK L 37 22 7 17 41.2 2 5 40.0 6 6 100.0 0 1 1 2 0 0 3 4 -
+p387
+aVDerrick McKey IND 02/07/1995 IND @ CHH W 39 17 8 15 53.3 0 0 - 1 1 100.0 2 5 7 4 2 2 2 6 -
+p388
+aVDale Davis IND 02/07/1995 IND @ CHH W 32 9 4 5 80.0 0 0 - 1 3 33.3 3 4 7 2 0 5 2 1 -
+p389
+aVMark Jackson IND 02/07/1995 IND @ CHH W 34 10 3 9 33.3 1 4 25.0 3 3 100.0 0 4 4 6 0 0 2 2 -
+p390
+aVDuane Ferrell IND 02/07/1995 IND @ CHH W 16 8 4 5 80.0 0 0 - 0 0 - 3 0 3 0 1 0 2 3 -
+p391
+aVReggie Miller IND 02/07/1995 IND @ CHH W 42 18 7 14 50.0 2 4 50.0 2 3 66.7 0 3 3 3 0 0 3 2 -
+p392
+aVHaywoode Workman IND 02/07/1995 IND @ CHH W 21 9 2 8 25.0 0 3 0.0 5 7 71.4 0 5 5 3 0 1 5 3 -
+p393
+aVSam Mitchell IND 02/07/1995 IND @ CHH W 16 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 1 2 1 2 3 -
+p394
+aVVern Fleming IND 02/07/1995 IND @ CHH W 16 2 1 7 14.3 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -
+p395
+aVJohn Williams IND 02/07/1995 IND @ CHH W 12 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 4 2 -
+p396
+aVRik Smits IND 02/07/1995 IND @ CHH W 37 14 7 18 38.9 0 0 - 0 3 0.0 4 11 15 2 0 0 0 5 -
+p397
+aVSam Mitchell IND 02/04/1995 IND @ CLE L 25 5 2 5 40.0 0 0 - 1 1 100.0 2 0 2 0 2 0 0 3 -
+p398
+aVReggie Miller IND 02/04/1995 IND @ CLE L 35 19 7 14 50.0 3 5 60.0 2 3 66.7 0 1 1 2 0 1 1 2 -
+p399
+aVDuane Ferrell IND 02/04/1995 IND @ CLE L 16 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 2 0 0 0 1 -
+p400
+aVDerrick McKey IND 02/04/1995 IND @ CLE L 44 12 4 14 28.6 0 2 0.0 4 4 100.0 2 2 4 5 0 0 2 3 -
+p401
+aVMark Jackson IND 02/04/1995 IND @ CLE L 30 8 4 7 57.1 0 0 - 0 1 0.0 2 2 4 6 1 0 0 0 -
+p402
+aVHaywoode Workman IND 02/04/1995 IND @ CLE L 26 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 2 1 0 3 4 -
+p403
+aVByron Scott IND 02/04/1995 IND @ CLE L 7 4 1 2 50.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 1 -
+p404
+aVRik Smits IND 02/04/1995 IND @ CLE L 40 8 4 9 44.4 0 0 - 0 0 - 1 9 10 2 0 1 4 2 -
+p405
+aVJohn Williams IND 02/04/1995 IND @ CLE L 15 8 2 5 40.0 1 2 50.0 3 6 50.0 1 1 2 0 0 1 1 2 -
+p406
+aVVern Fleming IND 02/04/1995 IND @ CLE L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p407
+aVSam Mitchell IND 02/03/1995 IND vs. ORL W 21 5 2 8 25.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -
+p408
+aVLaSalle Thompson IND 02/03/1995 IND vs. ORL W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 -
+p409
+aVDerrick McKey IND 02/03/1995 IND vs. ORL W 38 21 7 13 53.8 0 0 - 7 11 63.6 4 2 6 2 1 1 0 1 -
+p410
+aVRik Smits IND 02/03/1995 IND vs. ORL W 33 27 10 16 62.5 0 0 - 7 9 77.8 1 9 10 1 1 2 2 2 -
+p411
+aVDuane Ferrell IND 02/03/1995 IND vs. ORL W 16 10 4 8 50.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 2 -
+p412
+aVJohn Williams IND 02/03/1995 IND vs. ORL W 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 0 0 0 2 -
+p413
+aVByron Scott IND 02/03/1995 IND vs. ORL W 24 13 4 8 50.0 2 4 50.0 3 4 75.0 0 2 2 4 0 1 2 2 -
+p414
+aVReggie Miller IND 02/03/1995 IND vs. ORL W 41 21 8 17 47.1 2 8 25.0 3 3 100.0 2 3 5 5 2 0 1 1 -
+p415
+aVMark Jackson IND 02/03/1995 IND vs. ORL W 23 8 2 5 40.0 0 0 - 4 4 100.0 3 5 8 3 1 0 2 2 -
+p416
+aVHaywoode Workman IND 02/03/1995 IND vs. ORL W 26 9 3 6 50.0 0 1 0.0 3 3 100.0 1 3 4 4 4 0 0 4 -
+p417
+aVDerrick McKey IND 02/01/1995 IND vs. CLE W 31 15 7 8 87.5 1 2 50.0 0 0 - 1 3 4 5 1 2 1 2 -
+p418
+aVMark Jackson IND 02/01/1995 IND vs. CLE W 27 6 3 6 50.0 0 0 - 0 0 - 0 7 7 6 1 0 2 1 -
+p419
+aVSam Mitchell IND 02/01/1995 IND vs. CLE W 27 12 5 8 62.5 0 0 - 2 2 100.0 0 3 3 0 0 0 2 3 -
+p420
+aVRik Smits IND 02/01/1995 IND vs. CLE W 32 19 7 13 53.8 0 0 - 5 8 62.5 3 5 8 0 0 3 0 3 -
+p421
+aVReggie Miller IND 02/01/1995 IND vs. CLE W 26 12 4 8 50.0 2 3 66.7 2 3 66.7 0 4 4 3 0 0 0 1 -
+p422
+aVJohn Williams IND 02/01/1995 IND vs. CLE W 17 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 0 4 1 -
+p423
+aVVern Fleming IND 02/01/1995 IND vs. CLE W 10 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p424
+aVHaywoode Workman IND 02/01/1995 IND vs. CLE W 22 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 6 1 0 1 1 -
+p425
+aVDuane Ferrell IND 02/01/1995 IND vs. CLE W 23 9 2 7 28.6 0 0 - 5 6 83.3 2 1 3 1 1 1 0 2 -
+p426
+aVByron Scott IND 02/01/1995 IND vs. CLE W 25 16 3 6 50.0 2 2 100.0 8 8 100.0 0 2 2 1 0 1 1 2 -
+p427
+aVRik Smits IND 01/28/1995 IND vs. PHL W 43 30 10 16 62.5 0 0 - 10 12 83.3 5 4 9 0 1 2 2 4 -
+p428
+aVMark Jackson IND 01/28/1995 IND vs. PHL W 17 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 4 0 0 2 0 -
+p429
+aVSam Mitchell IND 01/28/1995 IND vs. PHL W 26 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 2 1 0 1 4 -
+p430
+aVDuane Ferrell IND 01/28/1995 IND vs. PHL W 20 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 1 0 1 1 -
+p431
+aVLaSalle Thompson IND 01/28/1995 IND vs. PHL W 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -
+p432
+aVByron Scott IND 01/28/1995 IND vs. PHL W 27 21 7 11 63.6 5 8 62.5 2 2 100.0 1 1 2 1 0 1 0 2 -
+p433
+aVReggie Miller IND 01/28/1995 IND vs. PHL W 40 27 9 21 42.9 3 9 33.3 6 6 100.0 1 6 7 1 2 0 3 4 -
+p434
+aVJohn Williams IND 01/28/1995 IND vs. PHL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -
+p435
+aVHaywoode Workman IND 01/28/1995 IND vs. PHL W 36 2 1 7 14.3 0 0 - 0 0 - 1 1 2 9 1 0 1 5 -
+p436
+aVDerrick McKey IND 01/28/1995 IND vs. PHL W 43 8 3 5 60.0 0 0 - 2 4 50.0 1 7 8 3 2 2 6 5 -
+p437
+aVHaywoode Workman IND 01/26/1995 IND vs. PHX L 25 7 3 7 42.9 1 2 50.0 0 0 - 0 4 4 3 0 0 0 3 -
+p438
+aVSam Mitchell IND 01/26/1995 IND vs. PHX L 19 4 2 5 40.0 0 0 - 0 2 0.0 2 2 4 1 0 0 0 3 -
+p439
+aVDuane Ferrell IND 01/26/1995 IND vs. PHX L 12 7 2 4 50.0 0 0 - 3 6 50.0 1 2 3 1 0 0 0 2 -
+p440
+aVMark Jackson IND 01/26/1995 IND vs. PHX L 23 2 0 7 0.0 0 0 - 2 2 100.0 1 1 2 5 3 0 1 1 -
+p441
+aVJohn Williams IND 01/26/1995 IND vs. PHX L 12 0 0 4 0.0 0 0 - 0 2 0.0 1 2 3 2 0 0 1 2 -
+p442
+aVDale Davis IND 01/26/1995 IND vs. PHX L 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p443
+aVLaSalle Thompson IND 01/26/1995 IND vs. PHX L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p444
+aVByron Scott IND 01/26/1995 IND vs. PHX L 23 13 6 9 66.7 1 2 50.0 0 0 - 0 5 5 1 0 0 0 3 -
+p445
+aVReggie Miller IND 01/26/1995 IND vs. PHX L 37 13 6 17 35.3 0 5 0.0 1 1 100.0 1 3 4 2 3 0 2 2 -
+p446
+aVDerrick McKey IND 01/26/1995 IND vs. PHX L 35 12 5 14 35.7 0 1 0.0 2 2 100.0 1 3 4 2 3 2 2 2 -
+p447
+aVRik Smits IND 01/26/1995 IND vs. PHX L 37 26 12 18 66.7 0 0 - 2 2 100.0 6 6 12 1 0 0 5 3 -
+p448
+aVRik Smits IND 01/24/1995 IND @ MIA L 30 15 7 16 43.8 0 0 - 1 2 50.0 3 1 4 1 0 1 2 4 -
+p449
+aVDerrick McKey IND 01/24/1995 IND @ MIA L 34 16 7 13 53.8 0 1 0.0 2 3 66.7 1 2 3 1 1 2 0 4 -
+p450
+aVJohn Williams IND 01/24/1995 IND @ MIA L 13 10 4 6 66.7 1 1 100.0 1 1 100.0 2 0 2 1 0 0 0 1 -
+p451
+aVDale Davis IND 01/24/1995 IND @ MIA L 35 11 3 4 75.0 0 0 - 5 9 55.6 1 4 5 0 1 0 2 5 -
+p452
+aVSam Mitchell IND 01/24/1995 IND @ MIA L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p453
+aVReggie Miller IND 01/24/1995 IND @ MIA L 31 15 5 12 41.7 2 6 33.3 3 3 100.0 0 2 2 5 2 0 0 1 -
+p454
+aVMark Jackson IND 01/24/1995 IND @ MIA L 21 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 3 0 0 2 2 -
+p455
+aVByron Scott IND 01/24/1995 IND @ MIA L 17 8 3 7 42.9 0 3 0.0 2 2 100.0 0 1 1 1 0 0 1 0 -
+p456
+aVLaSalle Thompson IND 01/24/1995 IND @ MIA L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 0 -
+p457
+aVHaywoode Workman IND 01/24/1995 IND @ MIA L 27 8 3 9 33.3 2 7 28.6 0 0 - 0 4 4 5 1 0 3 1 -
+p458
+aVDuane Ferrell IND 01/24/1995 IND @ MIA L 14 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 1 0 1 4 -
+p459
+aVDerrick McKey IND 01/22/1995 IND vs. SAN W 34 15 5 11 45.5 0 1 0.0 5 8 62.5 1 5 6 4 5 1 1 3 -
+p460
+aVByron Scott IND 01/22/1995 IND vs. SAN W 18 8 2 8 25.0 2 5 40.0 2 2 100.0 0 2 2 1 0 0 0 1 -
+p461
+aVReggie Miller IND 01/22/1995 IND vs. SAN W 31 14 4 11 36.4 2 6 33.3 4 4 100.0 0 0 0 2 0 0 1 2 -
+p462
+aVJohn Williams IND 01/22/1995 IND vs. SAN W 14 9 4 6 66.7 1 1 100.0 0 1 0.0 0 1 1 1 0 0 0 0 -
+p463
+aVSam Mitchell IND 01/22/1995 IND vs. SAN W 4 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -
+p464
+aVRik Smits IND 01/22/1995 IND vs. SAN W 28 16 6 13 46.2 0 0 - 4 8 50.0 2 2 4 1 1 0 1 6 -
+p465
+aVDuane Ferrell IND 01/22/1995 IND vs. SAN W 14 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -
+p466
+aVMark Jackson IND 01/22/1995 IND vs. SAN W 28 8 3 5 60.0 0 0 - 2 4 50.0 1 5 6 7 1 0 1 2 -
+p467
+aVLaSalle Thompson IND 01/22/1995 IND vs. SAN W 11 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 4 -
+p468
+aVHaywoode Workman IND 01/22/1995 IND vs. SAN W 20 12 3 4 75.0 2 2 100.0 4 4 100.0 1 3 4 5 0 0 2 3 -
+p469
+aVDale Davis IND 01/22/1995 IND vs. SAN W 38 11 5 8 62.5 0 0 - 1 4 25.0 3 8 11 0 0 1 0 2 -
+p470
+aVRik Smits IND 01/20/1995 IND vs. ATL W 35 14 4 14 28.6 0 0 - 6 12 50.0 6 6 12 3 1 0 3 2 -
+p471
+aVMark Jackson IND 01/20/1995 IND vs. ATL W 16 4 2 6 33.3 0 0 - 0 0 - 2 1 3 3 2 0 4 3 -
+p472
+aVDuane Ferrell IND 01/20/1995 IND vs. ATL W 13 9 4 5 80.0 0 0 - 1 2 50.0 2 0 2 0 2 0 1 2 -
+p473
+aVDale Davis IND 01/20/1995 IND vs. ATL W 34 13 6 9 66.7 0 0 - 1 3 33.3 5 6 11 0 2 2 3 2 -
+p474
+aVHaywoode Workman IND 01/20/1995 IND vs. ATL W 33 14 5 7 71.4 1 1 100.0 3 4 75.0 0 1 1 4 4 1 3 1 -
+p475
+aVReggie Miller IND 01/20/1995 IND vs. ATL W 29 15 4 7 57.1 4 4 100.0 3 3 100.0 0 2 2 3 0 0 2 3 -
+p476
+aVByron Scott IND 01/20/1995 IND vs. ATL W 20 12 5 7 71.4 2 2 100.0 0 0 - 1 2 3 1 1 0 3 1 -
+p477
+aVDerrick McKey IND 01/20/1995 IND vs. ATL W 37 12 5 9 55.6 0 0 - 2 2 100.0 2 7 9 5 0 0 4 2 -
+p478
+aVJohn Williams IND 01/20/1995 IND vs. ATL W 16 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 1 0 0 1 2 -
+p479
+aVSam Mitchell IND 01/20/1995 IND vs. ATL W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -
+p480
+aVHaywoode Workman IND 01/18/1995 IND vs. LAL W 30 8 2 8 25.0 2 3 66.7 2 2 100.0 0 2 2 9 2 0 2 4 -
+p481
+aVByron Scott IND 01/18/1995 IND vs. LAL W 21 14 4 5 80.0 1 2 50.0 5 8 62.5 0 1 1 1 2 1 0 1 -
+p482
+aVReggie Miller IND 01/18/1995 IND vs. LAL W 33 19 7 14 50.0 4 9 44.4 1 1 100.0 0 2 2 2 0 1 2 1 -
+p483
+aVSam Mitchell IND 01/18/1995 IND vs. LAL W 15 13 6 10 60.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -
+p484
+aVDuane Ferrell IND 01/18/1995 IND vs. LAL W 7 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -
+p485
+aVDerrick McKey IND 01/18/1995 IND vs. LAL W 41 24 8 12 66.7 0 0 - 8 8 100.0 2 5 7 6 1 2 1 4 -
+p486
+aVDale Davis IND 01/18/1995 IND vs. LAL W 40 12 6 12 50.0 0 0 - 0 4 0.0 3 6 9 0 1 3 3 4 -
+p487
+aVMark Jackson IND 01/18/1995 IND vs. LAL W 18 4 2 3 66.7 0 0 - 0 0 - 0 0 0 4 0 1 1 0 -
+p488
+aVLaSalle Thompson IND 01/18/1995 IND vs. LAL W 28 8 2 7 28.6 0 0 - 4 4 100.0 2 3 5 1 0 0 2 3 -
+p489
+aVJohn Williams IND 01/18/1995 IND vs. LAL W 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p490
+aVDerrick McKey IND 01/16/1995 IND vs. UTH L 43 17 5 11 45.5 0 1 0.0 7 10 70.0 3 4 7 2 5 0 1 1 -
+p491
+aVMark Jackson IND 01/16/1995 IND vs. UTH L 24 7 3 8 37.5 0 0 - 1 2 50.0 0 2 2 4 0 1 2 1 -
+p492
+aVReggie Miller IND 01/16/1995 IND vs. UTH L 33 14 4 10 40.0 3 7 42.9 3 6 50.0 0 1 1 2 2 0 1 3 -
+p493
+aVRik Smits IND 01/16/1995 IND vs. UTH L 38 9 2 8 25.0 0 0 - 5 6 83.3 1 3 4 1 1 2 3 5 -
+p494
+aVByron Scott IND 01/16/1995 IND vs. UTH L 21 8 2 5 40.0 1 2 50.0 3 5 60.0 0 2 2 0 0 0 0 1 -
+p495
+aVDale Davis IND 01/16/1995 IND vs. UTH L 39 20 9 11 81.8 0 0 - 2 4 50.0 5 7 12 0 2 3 0 3 -
+p496
+aVHaywoode Workman IND 01/16/1995 IND vs. UTH L 29 8 4 11 36.4 0 1 0.0 0 3 0.0 0 0 0 4 2 0 3 3 -
+p497
+aVDuane Ferrell IND 01/16/1995 IND vs. UTH L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 1 0 0 1 -
+p498
+aVSam Mitchell IND 01/16/1995 IND vs. UTH L 18 15 6 8 75.0 0 0 - 3 4 75.0 2 3 5 0 1 0 0 3 -
+p499
+aVJohn Williams IND 01/16/1995 IND vs. UTH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p500
+aVLaSalle Thompson IND 01/16/1995 IND vs. UTH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p501
+aVHaywoode Workman IND 01/14/1995 IND vs. MIL L 13 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 -
+p502
+aVReggie Miller IND 01/14/1995 IND vs. MIL L 35 21 6 16 37.5 5 10 50.0 4 4 100.0 1 3 4 2 1 0 2 3 -
+p503
+aVLaSalle Thompson IND 01/14/1995 IND vs. MIL L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 3 -
+p504
+aVDale Davis IND 01/14/1995 IND vs. MIL L 33 7 2 7 28.6 0 0 - 3 4 75.0 6 4 10 1 1 4 2 4 -
+p505
+aVDuane Ferrell IND 01/14/1995 IND vs. MIL L 10 11 5 6 83.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -
+p506
+aVRik Smits IND 01/14/1995 IND vs. MIL L 32 22 8 15 53.3 0 0 - 6 11 54.5 3 10 13 1 1 1 4 5 -
+p507
+aVSam Mitchell IND 01/14/1995 IND vs. MIL L 12 7 3 4 75.0 0 0 - 1 3 33.3 1 0 1 0 0 0 0 2 -
+p508
+aVByron Scott IND 01/14/1995 IND vs. MIL L 18 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 4 1 0 2 1 -
+p509
+aVMark Jackson IND 01/14/1995 IND vs. MIL L 36 4 2 8 25.0 0 0 - 0 0 - 2 4 6 10 2 0 4 1 -
+p510
+aVDerrick McKey IND 01/14/1995 IND vs. MIL L 41 16 8 14 57.1 0 1 0.0 0 0 - 1 5 6 5 1 3 2 4 -
+p511
+aVRik Smits IND 01/13/1995 IND @ WAS W 25 16 4 11 36.4 0 0 - 8 9 88.9 4 4 8 1 0 1 3 4 -
+p512
+aVLaSalle Thompson IND 01/13/1995 IND @ WAS W 21 8 4 5 80.0 0 0 - 0 0 - 2 2 4 0 2 1 1 4 -
+p513
+aVMark Jackson IND 01/13/1995 IND @ WAS W 32 2 1 3 33.3 0 0 - 0 0 - 1 2 3 13 1 2 2 1 -
+p514
+aVDerrick McKey IND 01/13/1995 IND @ WAS W 36 13 4 8 50.0 0 0 - 5 6 83.3 0 6 6 5 1 4 2 4 -
+p515
+aVDuane Ferrell IND 01/13/1995 IND @ WAS W 18 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 0 1 2 3 -
+p516
+aVByron Scott IND 01/13/1995 IND @ WAS W 17 6 1 6 16.7 0 0 - 4 4 100.0 0 1 1 2 1 0 1 1 -
+p517
+aVSam Mitchell IND 01/13/1995 IND @ WAS W 10 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 1 -
+p518
+aVDale Davis IND 01/13/1995 IND @ WAS W 33 25 10 12 83.3 0 0 - 5 7 71.4 2 8 10 1 1 4 1 2 -
+p519
+aVHaywoode Workman IND 01/13/1995 IND @ WAS W 17 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 4 3 2 4 0 -
+p520
+aVReggie Miller IND 01/13/1995 IND @ WAS W 31 31 10 17 58.8 2 5 40.0 9 10 90.0 0 4 4 6 1 1 1 3 -
+p521
+aVDuane Ferrell IND 01/11/1995 IND @ BOS L 16 8 3 3 100.0 0 0 - 2 3 66.7 2 0 2 1 1 0 2 4 -
+p522
+aVByron Scott IND 01/11/1995 IND @ BOS L 14 6 2 5 40.0 0 2 0.0 2 2 100.0 0 2 2 1 1 0 1 1 -
+p523
+aVHaywoode Workman IND 01/11/1995 IND @ BOS L 8 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 0 1 0 1 2 -
+p524
+aVDale Davis IND 01/11/1995 IND @ BOS L 40 19 8 11 72.7 0 0 - 3 5 60.0 1 8 9 0 1 3 2 2 -
+p525
+aVLaSalle Thompson IND 01/11/1995 IND @ BOS L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p526
+aVSam Mitchell IND 01/11/1995 IND @ BOS L 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -
+p527
+aVReggie Miller IND 01/11/1995 IND @ BOS L 34 23 7 14 50.0 4 4 100.0 5 7 71.4 0 3 3 1 0 1 1 1 -
+p528
+aVMark Jackson IND 01/11/1995 IND @ BOS L 35 6 3 8 37.5 0 1 0.0 0 0 - 0 4 4 17 1 0 3 2 -
+p529
+aVDerrick McKey IND 01/11/1995 IND @ BOS L 36 11 4 10 40.0 1 2 50.0 2 4 50.0 1 5 6 0 1 0 3 4 -
+p530
+aVVern Fleming IND 01/11/1995 IND @ BOS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 1 3 -
+p531
+aVRik Smits IND 01/11/1995 IND @ BOS L 37 22 10 20 50.0 0 0 - 2 5 40.0 2 4 6 0 0 1 1 3 -
+p532
+aVDerrick McKey IND 01/10/1995 IND @ NYK L 33 13 5 8 62.5 1 2 50.0 2 2 100.0 0 2 2 2 0 0 2 3 -
+p533
+aVHaywoode Workman IND 01/10/1995 IND @ NYK L 18 2 1 2 50.0 0 0 - 0 0 - 0 2 2 8 0 0 1 3 -
+p534
+aVLaSalle Thompson IND 01/10/1995 IND @ NYK L 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -
+p535
+aVByron Scott IND 01/10/1995 IND @ NYK L 20 14 4 5 80.0 0 0 - 6 6 100.0 0 1 1 2 1 0 2 1 -
+p536
+aVMark Jackson IND 01/10/1995 IND @ NYK L 17 9 3 5 60.0 3 4 75.0 0 0 - 1 1 2 2 0 0 3 2 -
+p537
+aVDale Davis IND 01/10/1995 IND @ NYK L 40 11 5 8 62.5 0 0 - 1 2 50.0 1 6 7 1 1 2 2 4 -
+p538
+aVVern Fleming IND 01/10/1995 IND @ NYK L 15 6 2 3 66.7 0 0 - 2 4 50.0 0 0 0 3 1 0 0 4 -
+p539
+aVRik Smits IND 01/10/1995 IND @ NYK L 35 14 6 12 50.0 0 0 - 2 3 66.7 2 7 9 2 0 1 3 3 -
+p540
+aVSam Mitchell IND 01/10/1995 IND @ NYK L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 3 -
+p541
+aVReggie Miller IND 01/10/1995 IND @ NYK L 33 28 10 16 62.5 2 3 66.7 6 7 85.7 1 0 1 3 1 0 5 2 -
+p542
+aVDuane Ferrell IND 01/10/1995 IND @ NYK L 11 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p543
+aVHaywoode Workman IND 01/07/1995 IND @ HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p544
+aVReggie Miller IND 01/07/1995 IND @ HOU W 35 23 9 16 56.3 2 6 33.3 3 4 75.0 0 2 2 4 0 0 0 2 -
+p545
+aVByron Scott IND 01/07/1995 IND @ HOU W 16 0 0 4 0.0 0 0 - 0 0 - 0 3 3 1 1 0 2 0 -
+p546
+aVMark Jackson IND 01/07/1995 IND @ HOU W 32 11 3 10 30.0 1 1 100.0 4 4 100.0 3 4 7 8 3 0 1 1 -
+p547
+aVSam Mitchell IND 01/07/1995 IND @ HOU W 9 5 2 4 50.0 0 0 - 1 1 100.0 0 3 3 0 0 0 0 1 -
+p548
+aVLaSalle Thompson IND 01/07/1995 IND @ HOU W 19 4 2 7 28.6 0 0 - 0 0 - 1 3 4 2 1 3 0 3 -
+p549
+aVDerrick McKey IND 01/07/1995 IND @ HOU W 36 16 6 10 60.0 1 1 100.0 3 4 75.0 3 1 4 7 3 0 3 3 -
+p550
+aVDale Davis IND 01/07/1995 IND @ HOU W 35 11 5 9 55.6 0 0 - 1 1 100.0 4 8 12 0 0 2 2 0 -
+p551
+aVRik Smits IND 01/07/1995 IND @ HOU W 26 12 6 10 60.0 0 0 - 0 1 0.0 1 1 2 3 1 1 6 6 -
+p552
+aVDuane Ferrell IND 01/07/1995 IND @ HOU W 13 4 0 3 0.0 0 0 - 4 4 100.0 0 0 0 0 1 0 0 0 -
+p553
+aVVern Fleming IND 01/07/1995 IND @ HOU W 16 2 1 4 25.0 0 0 - 0 0 - 0 0 0 4 0 0 1 1 -
+p554
+aVDale Davis IND 01/06/1995 IND @ DAL L 39 8 3 11 27.3 0 0 - 2 2 100.0 2 6 8 1 0 0 2 4 -
+p555
+aVJohn Williams IND 01/06/1995 IND @ DAL L 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -
+p556
+aVSam Mitchell IND 01/06/1995 IND @ DAL L 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -
+p557
+aVDuane Ferrell IND 01/06/1995 IND @ DAL L 5 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -
+p558
+aVDerrick McKey IND 01/06/1995 IND @ DAL L 29 14 6 12 50.0 0 0 - 2 2 100.0 1 2 3 3 0 2 1 5 -
+p559
+aVHaywoode Workman IND 01/06/1995 IND @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p560
+aVByron Scott IND 01/06/1995 IND @ DAL L 16 7 2 6 33.3 0 1 0.0 3 4 75.0 0 0 0 1 0 0 4 0 -
+p561
+aVVern Fleming IND 01/06/1995 IND @ DAL L 17 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 2 -
+p562
+aVRik Smits IND 01/06/1995 IND @ DAL L 30 18 7 12 58.3 0 0 - 4 4 100.0 4 9 13 2 0 1 1 2 -
+p563
+aVReggie Miller IND 01/06/1995 IND @ DAL L 33 19 7 18 38.9 3 7 42.9 2 2 100.0 0 0 0 2 1 0 3 5 -
+p564
+aVLaSalle Thompson IND 01/06/1995 IND @ DAL L 15 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 3 0 0 3 -
+p565
+aVMark Jackson IND 01/06/1995 IND @ DAL L 32 10 4 6 66.7 0 1 0.0 2 2 100.0 2 5 7 6 0 0 4 5 -
+p566
+aVLaSalle Thompson IND 01/04/1995 IND vs. WAS W 11 2 0 3 0.0 0 0 - 2 2 100.0 2 2 4 1 0 0 1 1 -
+p567
+aVDale Davis IND 01/04/1995 IND vs. WAS W 36 11 4 6 66.7 0 0 - 3 3 100.0 2 6 8 0 1 3 3 4 -
+p568
+aVSam Mitchell IND 01/04/1995 IND vs. WAS W 16 4 2 4 50.0 0 0 - 0 2 0.0 2 2 4 1 1 0 1 3 -
+p569
+aVReggie Miller IND 01/04/1995 IND vs. WAS W 31 20 5 10 50.0 3 4 75.0 7 7 100.0 0 1 1 1 0 0 2 1 -
+p570
+aVJohn Williams IND 01/04/1995 IND vs. WAS W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 2 0 0 0 -
+p571
+aVMark Jackson IND 01/04/1995 IND vs. WAS W 25 2 1 3 33.3 0 0 - 0 0 - 0 4 4 9 1 0 2 1 -
+p572
+aVVern Fleming IND 01/04/1995 IND vs. WAS W 16 5 2 6 33.3 0 0 - 1 1 100.0 2 1 3 2 0 0 2 3 -
+p573
+aVDerrick McKey IND 01/04/1995 IND vs. WAS W 42 16 6 15 40.0 0 1 0.0 4 6 66.7 2 3 5 3 1 1 1 2 -
+p574
+aVByron Scott IND 01/04/1995 IND vs. WAS W 19 14 5 10 50.0 1 2 50.0 3 4 75.0 3 4 7 1 0 0 0 1 -
+p575
+aVRik Smits IND 01/04/1995 IND vs. WAS W 30 18 7 20 35.0 0 0 - 4 7 57.1 2 8 10 3 1 2 3 4 -
+p576
+aVHaywoode Workman IND 01/04/1995 IND vs. WAS W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p577
+aVRik Smits IND 01/03/1995 IND @ NJN L 26 15 5 11 45.5 0 0 - 5 5 100.0 2 9 11 1 0 0 3 4 -
+p578
+aVVern Fleming IND 01/03/1995 IND @ NJN L 25 19 7 10 70.0 0 0 - 5 6 83.3 0 1 1 4 1 0 2 2 -
+p579
+aVReggie Miller IND 01/03/1995 IND @ NJN L 33 37 12 22 54.5 7 13 53.8 6 6 100.0 1 1 2 4 3 0 0 3 -
+p580
+aVByron Scott IND 01/03/1995 IND @ NJN L 16 7 3 7 42.9 1 4 25.0 0 0 - 0 4 4 1 1 0 2 1 -
+p581
+aVJohn Williams IND 01/03/1995 IND @ NJN L 17 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p582
+aVLaSalle Thompson IND 01/03/1995 IND @ NJN L 16 0 0 3 0.0 0 0 - 0 0 - 2 3 5 1 0 2 1 2 -
+p583
+aVSam Mitchell IND 01/03/1995 IND @ NJN L 12 8 3 5 60.0 0 0 - 2 3 66.7 0 0 0 0 0 0 0 5 -
+p584
+aVDale Davis IND 01/03/1995 IND @ NJN L 29 7 3 8 37.5 0 1 0.0 1 2 50.0 3 5 8 1 0 1 0 4 -
+p585
+aVDerrick McKey IND 01/03/1995 IND @ NJN L 43 8 4 16 25.0 0 1 0.0 0 0 - 4 1 5 3 2 0 3 6 -
+p586
+aVMark Jackson IND 01/03/1995 IND @ NJN L 23 2 1 3 33.3 0 0 - 0 0 - 1 1 2 7 0 0 1 2 -
+p587
+aVDale Davis IND 12/30/1994 IND vs. NJN W 29 8 3 5 60.0 0 0 - 2 2 100.0 2 6 8 2 0 1 0 3 -
+p588
+aVByron Scott IND 12/30/1994 IND vs. NJN W 16 14 6 10 60.0 2 2 100.0 0 0 - 1 2 3 0 0 0 0 1 -
+p589
+aVJohn Williams IND 12/30/1994 IND vs. NJN W 15 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -
+p590
+aVDuane Ferrell IND 12/30/1994 IND vs. NJN W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p591
+aVReggie Miller IND 12/30/1994 IND vs. NJN W 32 12 5 14 35.7 1 4 25.0 1 1 100.0 0 0 0 2 1 1 1 0 -
+p592
+aVDerrick McKey IND 12/30/1994 IND vs. NJN W 34 21 8 10 80.0 0 0 - 5 8 62.5 1 7 8 5 3 0 1 3 -
+p593
+aVSam Mitchell IND 12/30/1994 IND vs. NJN W 17 3 1 4 25.0 0 0 - 1 2 50.0 2 5 7 0 1 1 0 3 -
+p594
+aVLaSalle Thompson IND 12/30/1994 IND vs. NJN W 16 6 3 6 50.0 0 0 - 0 0 - 1 4 5 0 1 0 2 2 -
+p595
+aVVern Fleming IND 12/30/1994 IND vs. NJN W 18 6 2 8 25.0 0 0 - 2 2 100.0 0 3 3 2 0 0 0 1 -
+p596
+aVRik Smits IND 12/30/1994 IND vs. NJN W 31 12 5 9 55.6 0 0 - 2 4 50.0 1 5 6 0 0 1 2 3 -
+p597
+aVMark Jackson IND 12/30/1994 IND vs. NJN W 30 10 4 12 33.3 0 1 0.0 2 3 66.7 2 1 3 11 2 1 3 3 -
+p598
+aVVern Fleming IND 12/28/1994 IND @ UTH L 17 7 1 4 25.0 0 0 - 5 8 62.5 0 3 3 4 2 1 2 2 -
+p599
+aVLaSalle Thompson IND 12/28/1994 IND @ UTH L 12 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 2 0 0 1 1 -
+p600
+aVReggie Miller IND 12/28/1994 IND @ UTH L 24 18 7 10 70.0 1 2 50.0 3 3 100.0 0 1 1 1 0 0 1 2 -
+p601
+aVJohn Williams IND 12/28/1994 IND @ UTH L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 2 0 3 2 -
+p602
+aVDuane Ferrell IND 12/28/1994 IND @ UTH L 10 7 2 4 50.0 0 0 - 3 4 75.0 0 0 0 0 0 0 1 2 -
+p603
+aVHaywoode Workman IND 12/28/1994 IND @ UTH L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 2 -
+p604
+aVMark Jackson IND 12/28/1994 IND @ UTH L 26 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 6 1 0 1 3 -
+p605
+aVDerrick McKey IND 12/28/1994 IND @ UTH L 29 9 4 7 57.1 0 2 0.0 1 2 50.0 0 4 4 1 1 0 7 3 -
+p606
+aVSam Mitchell IND 12/28/1994 IND @ UTH L 20 15 5 8 62.5 0 1 0.0 5 5 100.0 3 2 5 0 0 0 0 2 -
+p607
+aVDale Davis IND 12/28/1994 IND @ UTH L 24 3 1 4 25.0 0 0 - 1 2 50.0 2 9 11 1 1 1 4 2 -
+p608
+aVRik Smits IND 12/28/1994 IND @ UTH L 24 11 4 8 50.0 0 0 - 3 4 75.0 1 5 6 1 0 1 2 4 -
+p609
+aVByron Scott IND 12/28/1994 IND @ UTH L 25 16 7 13 53.8 1 2 50.0 1 2 50.0 1 0 1 2 2 0 1 0 -
+p610
+aVReggie Miller IND 12/27/1994 IND @ DEN W 34 13 5 11 45.5 1 2 50.0 2 2 100.0 0 5 5 6 1 0 3 0 -
+p611
+aVSam Mitchell IND 12/27/1994 IND @ DEN W 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -
+p612
+aVDale Davis IND 12/27/1994 IND @ DEN W 39 15 5 11 45.5 0 0 - 5 6 83.3 5 4 9 0 1 5 3 3 -
+p613
+aVMark Jackson IND 12/27/1994 IND @ DEN W 29 6 2 7 28.6 0 0 - 2 3 66.7 1 4 5 4 1 0 3 1 -
+p614
+aVRik Smits IND 12/27/1994 IND @ DEN W 38 33 15 23 65.2 0 0 - 3 3 100.0 7 7 14 2 1 1 2 4 -
+p615
+aVLaSalle Thompson IND 12/27/1994 IND @ DEN W 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -
+p616
+aVVern Fleming IND 12/27/1994 IND @ DEN W 8 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 1 -
+p617
+aVByron Scott IND 12/27/1994 IND @ DEN W 14 8 2 3 66.7 1 1 100.0 3 4 75.0 0 2 2 2 0 0 2 1 -
+p618
+aVHaywoode Workman IND 12/27/1994 IND @ DEN W 12 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p619
+aVDerrick McKey IND 12/27/1994 IND @ DEN W 34 12 4 9 44.4 0 1 0.0 4 10 40.0 1 3 4 1 2 0 2 4 -
+p620
+aVJohn Williams IND 12/27/1994 IND @ DEN W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p621
+aVReggie Miller IND 12/23/1994 IND @ CHI L 33 16 3 13 23.1 2 7 28.6 8 10 80.0 0 0 0 1 1 0 0 1 -
+p622
+aVVern Fleming IND 12/23/1994 IND @ CHI L 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -
+p623
+aVRik Smits IND 12/23/1994 IND @ CHI L 27 15 7 12 58.3 0 0 - 1 2 50.0 3 4 7 1 1 0 6 4 -
+p624
+aVSam Mitchell IND 12/23/1994 IND @ CHI L 17 2 1 3 33.3 0 0 - 0 2 0.0 1 2 3 0 0 0 0 2 -
+p625
+aVDale Davis IND 12/23/1994 IND @ CHI L 34 10 4 11 36.4 0 0 - 2 2 100.0 6 8 14 0 1 2 0 3 -
+p626
+aVJohn Williams IND 12/23/1994 IND @ CHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -
+p627
+aVDuane Ferrell IND 12/23/1994 IND @ CHI L 15 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 3 0 0 2 2 -
+p628
+aVMark Jackson IND 12/23/1994 IND @ CHI L 23 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 3 0 0 3 2 -
+p629
+aVLaSalle Thompson IND 12/23/1994 IND @ CHI L 12 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 1 0 0 3 -
+p630
+aVHaywoode Workman IND 12/23/1994 IND @ CHI L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 5 2 0 1 3 -
+p631
+aVDerrick McKey IND 12/23/1994 IND @ CHI L 30 17 6 8 75.0 1 1 100.0 4 4 100.0 1 3 4 1 1 0 5 4 -
+p632
+aVByron Scott IND 12/23/1994 IND @ CHI L 18 10 3 8 37.5 0 0 - 4 4 100.0 1 0 1 2 2 0 3 1 -
+p633
+aVDale Davis IND 12/21/1994 IND vs. CHI W 40 12 4 8 50.0 0 0 - 4 4 100.0 0 11 11 1 3 2 2 2 -
+p634
+aVDuane Ferrell IND 12/21/1994 IND vs. CHI W 6 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 1 -
+p635
+aVMark Jackson IND 12/21/1994 IND vs. CHI W 32 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 6 2 1 6 3 -
+p636
+aVSam Mitchell IND 12/21/1994 IND vs. CHI W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p637
+aVLaSalle Thompson IND 12/21/1994 IND vs. CHI W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -
+p638
+aVByron Scott IND 12/21/1994 IND vs. CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p639
+aVJohn Williams IND 12/21/1994 IND vs. CHI W 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 1 3 -
+p640
+aVDerrick McKey IND 12/21/1994 IND vs. CHI W 38 16 5 9 55.6 1 1 100.0 5 5 100.0 2 3 5 3 1 0 3 5 -
+p641
+aVRik Smits IND 12/21/1994 IND vs. CHI W 36 25 9 12 75.0 0 0 - 7 9 77.8 3 5 8 1 0 2 2 2 -
+p642
+aVHaywoode Workman IND 12/21/1994 IND vs. CHI W 26 19 6 10 60.0 3 3 100.0 4 4 100.0 0 1 1 3 1 0 2 1 -
+p643
+aVVern Fleming IND 12/21/1994 IND vs. CHI W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -
+p644
+aVReggie Miller IND 12/21/1994 IND vs. CHI W 36 18 4 12 33.3 2 5 40.0 8 8 100.0 0 1 1 3 3 0 4 3 -
+p645
+aVReggie Miller IND 12/20/1994 IND @ CHH L 30 18 6 13 46.2 2 8 25.0 4 4 100.0 0 3 3 4 0 0 0 0 -
+p646
+aVHaywoode Workman IND 12/20/1994 IND @ CHH L 15 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 1 0 0 2 1 -
+p647
+aVDerrick McKey IND 12/20/1994 IND @ CHH L 26 10 4 6 66.7 0 1 0.0 2 2 100.0 1 0 1 4 3 0 1 4 -
+p648
+aVRik Smits IND 12/20/1994 IND @ CHH L 29 18 8 19 42.1 0 0 - 2 2 100.0 4 4 8 2 2 1 3 6 -
+p649
+aVMark Jackson IND 12/20/1994 IND @ CHH L 33 13 6 10 60.0 0 1 0.0 1 2 50.0 0 1 1 12 1 0 0 2 -
+p650
+aVLaSalle Thompson IND 12/20/1994 IND @ CHH L 15 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 2 3 -
+p651
+aVDale Davis IND 12/20/1994 IND @ CHH L 38 17 8 11 72.7 0 0 - 1 2 50.0 2 4 6 2 2 4 3 5 -
+p652
+aVByron Scott IND 12/20/1994 IND @ CHH L 19 6 2 4 50.0 0 1 0.0 2 4 50.0 0 1 1 0 2 1 5 3 -
+p653
+aVSam Mitchell IND 12/20/1994 IND @ CHH L 22 6 3 5 60.0 0 0 - 0 1 0.0 2 1 3 0 0 0 0 2 -
+p654
+aVJohn Williams IND 12/20/1994 IND @ CHH L 13 0 0 4 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 1 1 -
+p655
+aVLaSalle Thompson IND 12/16/1994 IND vs. CHH W 9 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p656
+aVByron Scott IND 12/16/1994 IND vs. CHH W 17 8 3 5 60.0 0 0 - 2 3 66.7 0 2 2 2 1 0 2 1 -
+p657
+aVDuane Ferrell IND 12/16/1994 IND vs. CHH W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p658
+aVSam Mitchell IND 12/16/1994 IND vs. CHH W 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 3 0 0 2 3 -
+p659
+aVDerrick McKey IND 12/16/1994 IND vs. CHH W 35 14 5 8 62.5 1 1 100.0 3 3 100.0 1 4 5 2 2 1 0 3 -
+p660
+aVMark Jackson IND 12/16/1994 IND vs. CHH W 34 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 10 2 0 5 1 -
+p661
+aVReggie Miller IND 12/16/1994 IND vs. CHH W 34 22 6 14 42.9 3 9 33.3 7 7 100.0 0 5 5 2 0 2 2 2 -
+p662
+aVRik Smits IND 12/16/1994 IND vs. CHH W 33 16 7 18 38.9 0 0 - 2 4 50.0 4 5 9 1 1 3 0 4 -
+p663
+aVJohn Williams IND 12/16/1994 IND vs. CHH W 12 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 1 0 2 0 -
+p664
+aVHaywoode Workman IND 12/16/1994 IND vs. CHH W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -
+p665
+aVDale Davis IND 12/16/1994 IND vs. CHH W 35 15 6 11 54.5 0 0 - 3 4 75.0 7 6 13 0 3 1 2 4 -
+p666
+aVMark Jackson IND 12/14/1994 IND vs. ATL W 34 8 4 10 40.0 0 0 - 0 0 - 1 9 10 3 1 0 5 1 -
+p667
+aVDerrick McKey IND 12/14/1994 IND vs. ATL W 44 12 4 10 40.0 0 1 0.0 4 4 100.0 1 5 6 2 4 0 1 1 -
+p668
+aVReggie Miller IND 12/14/1994 IND vs. ATL W 31 12 4 7 57.1 2 4 50.0 2 2 100.0 0 1 1 1 2 0 1 0 -
+p669
+aVSam Mitchell IND 12/14/1994 IND vs. ATL W 19 8 3 8 37.5 0 0 - 2 2 100.0 2 2 4 0 1 0 1 2 -
+p670
+aVLaSalle Thompson IND 12/14/1994 IND vs. ATL W 9 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -
+p671
+aVHaywoode Workman IND 12/14/1994 IND vs. ATL W 14 5 1 3 33.3 0 1 0.0 3 5 60.0 0 1 1 2 0 0 1 2 -
+p672
+aVByron Scott IND 12/14/1994 IND vs. ATL W 18 9 3 9 33.3 0 2 0.0 3 4 75.0 1 3 4 1 1 0 1 1 -
+p673
+aVRik Smits IND 12/14/1994 IND vs. ATL W 29 11 3 11 27.3 0 0 - 5 6 83.3 2 4 6 2 0 2 3 6 -
+p674
+aVJohn Williams IND 12/14/1994 IND vs. ATL W 7 2 1 4 25.0 0 2 0.0 0 0 - 2 0 2 0 0 0 0 2 -
+p675
+aVDale Davis IND 12/14/1994 IND vs. ATL W 35 10 4 5 80.0 0 0 - 2 4 50.0 4 6 10 0 1 0 2 2 -
+p676
+aVReggie Miller IND 12/13/1994 IND @ CLE L 34 13 6 17 35.3 1 7 14.3 0 0 - 1 3 4 4 1 0 1 3 -
+p677
+aVJohn Williams IND 12/13/1994 IND @ CLE L 12 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 1 0 1 1 -
+p678
+aVLaSalle Thompson IND 12/13/1994 IND @ CLE L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p679
+aVMark Jackson IND 12/13/1994 IND @ CLE L 32 6 2 8 25.0 0 1 0.0 2 2 100.0 0 4 4 6 1 0 1 3 -
+p680
+aVSam Mitchell IND 12/13/1994 IND @ CLE L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -
+p681
+aVDerrick McKey IND 12/13/1994 IND @ CLE L 38 10 5 12 41.7 0 2 0.0 0 0 - 1 3 4 4 2 0 2 3 -
+p682
+aVRik Smits IND 12/13/1994 IND @ CLE L 33 26 9 15 60.0 0 0 - 8 10 80.0 1 3 4 1 1 0 2 5 -
+p683
+aVDale Davis IND 12/13/1994 IND @ CLE L 38 16 7 13 53.8 0 0 - 2 2 100.0 6 6 12 0 2 2 2 4 -
+p684
+aVByron Scott IND 12/13/1994 IND @ CLE L 15 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 2 0 2 3 -
+p685
+aVHaywoode Workman IND 12/13/1994 IND @ CLE L 16 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 1 -
+p686
+aVByron Scott IND 12/10/1994 IND vs. MIA W 25 19 5 10 50.0 2 3 66.7 7 7 100.0 0 1 1 2 0 0 4 2 -
+p687
+aVHaywoode Workman IND 12/10/1994 IND vs. MIA W 16 9 3 4 75.0 1 2 50.0 2 2 100.0 0 1 1 3 1 0 1 1 -
+p688
+aVDuane Ferrell IND 12/10/1994 IND vs. MIA W 10 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -
+p689
+aVSam Mitchell IND 12/10/1994 IND vs. MIA W 19 11 4 8 50.0 0 0 - 3 3 100.0 1 3 4 3 0 1 1 0 -
+p690
+aVDerrick McKey IND 12/10/1994 IND vs. MIA W 27 10 4 5 80.0 1 1 100.0 1 2 50.0 0 2 2 6 1 0 1 4 -
+p691
+aVJohn Williams IND 12/10/1994 IND vs. MIA W 18 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -
+p692
+aVReggie Miller IND 12/10/1994 IND vs. MIA W 27 33 9 11 81.8 5 7 71.4 10 11 90.9 0 1 1 2 0 0 4 0 -
+p693
+aVLaSalle Thompson IND 12/10/1994 IND vs. MIA W 16 6 3 5 60.0 0 0 - 0 0 - 1 5 6 1 0 1 1 2 -
+p694
+aVVern Fleming IND 12/10/1994 IND vs. MIA W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 -
+p695
+aVMark Jackson IND 12/10/1994 IND vs. MIA W 25 6 1 3 33.3 0 1 0.0 4 4 100.0 0 0 0 11 2 0 2 1 -
+p696
+aVDale Davis IND 12/10/1994 IND vs. MIA W 31 14 5 7 71.4 0 0 - 4 8 50.0 1 5 6 0 2 1 1 2 -
+p697
+aVRik Smits IND 12/10/1994 IND vs. MIA W 19 6 3 7 42.9 0 0 - 0 0 - 2 4 6 1 1 0 0 0 -
+p698
+aVMark Jackson IND 12/09/1994 IND @ PHL W 33 11 5 10 50.0 0 2 0.0 1 2 50.0 0 3 3 8 3 0 6 1 -
+p699
+aVByron Scott IND 12/09/1994 IND @ PHL W 13 6 1 4 25.0 1 3 33.3 3 3 100.0 0 0 0 1 1 0 0 0 -
+p700
+aVDale Davis IND 12/09/1994 IND @ PHL W 41 14 6 10 60.0 0 0 - 2 2 100.0 9 9 18 0 2 0 4 3 -
+p701
+aVSam Mitchell IND 12/09/1994 IND @ PHL W 20 10 3 10 30.0 0 0 - 4 4 100.0 1 3 4 4 1 1 0 2 -
+p702
+aVLaSalle Thompson IND 12/09/1994 IND @ PHL W 31 13 6 14 42.9 0 0 - 1 2 50.0 1 2 3 0 1 1 2 4 -
+p703
+aVReggie Miller IND 12/09/1994 IND @ PHL W 35 12 4 11 36.4 2 4 50.0 2 2 100.0 1 1 2 4 2 0 1 0 -
+p704
+aVHaywoode Workman IND 12/09/1994 IND @ PHL W 15 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 0 5 -
+p705
+aVJohn Williams IND 12/09/1994 IND @ PHL W 15 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 4 0 0 2 1 -
+p706
+aVDerrick McKey IND 12/09/1994 IND @ PHL W 37 15 5 13 38.5 0 1 0.0 5 7 71.4 2 3 5 4 5 1 1 3 -
+p707
+aVSam Mitchell IND 12/06/1994 IND vs. DET W 20 13 5 10 50.0 0 1 0.0 3 4 75.0 1 4 5 0 0 1 2 1 -
+p708
+aVDerrick McKey IND 12/06/1994 IND vs. DET W 39 9 2 2 100.0 0 0 - 5 8 62.5 3 8 11 3 1 0 4 3 -
+p709
+aVByron Scott IND 12/06/1994 IND vs. DET W 17 5 2 7 28.6 0 1 0.0 1 1 100.0 0 1 1 2 0 0 3 2 -
+p710
+aVMark Jackson IND 12/06/1994 IND vs. DET W 34 11 4 10 40.0 1 2 50.0 2 2 100.0 1 6 7 7 0 0 5 1 -
+p711
+aVJohn Williams IND 12/06/1994 IND vs. DET W 12 7 3 12 25.0 0 1 0.0 1 1 100.0 4 4 8 1 0 0 1 2 -
+p712
+aVDale Davis IND 12/06/1994 IND vs. DET W 41 19 8 15 53.3 0 0 - 3 8 37.5 6 5 11 1 1 2 2 1 -
+p713
+aVReggie Miller IND 12/06/1994 IND vs. DET W 39 18 5 10 50.0 2 3 66.7 6 7 85.7 1 3 4 3 3 0 1 1 -
+p714
+aVLaSalle Thompson IND 12/06/1994 IND vs. DET W 21 8 4 9 44.4 0 0 - 0 0 - 2 3 5 0 1 1 4 4 -
+p715
+aVHaywoode Workman IND 12/06/1994 IND vs. DET W 17 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 4 1 0 0 0 -
+p716
+aVDerrick McKey IND 12/03/1994 IND @ GOS W 40 17 6 12 50.0 0 0 - 5 7 71.4 2 1 3 9 3 0 3 4 -
+p717
+aVReggie Miller IND 12/03/1994 IND @ GOS W 37 33 11 19 57.9 5 11 45.5 6 6 100.0 0 6 6 3 3 0 2 2 -
+p718
+aVRik Smits IND 12/03/1994 IND @ GOS W 17 2 1 7 14.3 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -
+p719
+aVSam Mitchell IND 12/03/1994 IND @ GOS W 19 6 1 5 20.0 0 0 - 4 4 100.0 2 2 4 2 1 0 2 2 -
+p720
+aVByron Scott IND 12/03/1994 IND @ GOS W 19 11 4 8 50.0 2 5 40.0 1 2 50.0 1 0 1 1 1 0 0 1 -
+p721
+aVHaywoode Workman IND 12/03/1994 IND @ GOS W 16 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 3 1 0 0 1 -
+p722
+aVMark Jackson IND 12/03/1994 IND @ GOS W 32 22 7 11 63.6 2 3 66.7 6 10 60.0 0 2 2 7 4 2 5 1 -
+p723
+aVLaSalle Thompson IND 12/03/1994 IND @ GOS W 23 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 3 0 2 5 -
+p724
+aVDale Davis IND 12/03/1994 IND @ GOS W 37 21 8 11 72.7 0 0 - 5 7 71.4 6 6 12 4 1 1 4 4 -
+p725
+aVRik Smits IND 12/01/1994 IND @ LAC W 20 16 7 12 58.3 0 0 - 2 2 100.0 3 5 8 2 0 0 6 5 -
+p726
+aVDale Davis IND 12/01/1994 IND @ LAC W 32 16 7 11 63.6 0 0 - 2 5 40.0 5 9 14 1 2 4 2 5 -
+p727
+aVByron Scott IND 12/01/1994 IND @ LAC W 17 11 4 11 36.4 0 3 0.0 3 4 75.0 0 4 4 0 3 0 2 2 -
+p728
+aVAntonio Davis IND 12/01/1994 IND @ LAC W 13 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 2 3 -
+p729
+aVReggie Miller IND 12/01/1994 IND @ LAC W 33 24 7 12 58.3 5 7 71.4 5 5 100.0 0 3 3 6 3 0 2 5 -
+p730
+aVDerrick McKey IND 12/01/1994 IND @ LAC W 38 12 5 7 71.4 0 0 - 2 4 50.0 1 1 2 3 0 1 4 4 -
+p731
+aVLaSalle Thompson IND 12/01/1994 IND @ LAC W 14 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 0 0 2 3 -
+p732
+aVMark Jackson IND 12/01/1994 IND @ LAC W 34 3 1 7 14.3 0 1 0.0 1 2 50.0 2 1 3 10 1 0 4 4 -
+p733
+aVSam Mitchell IND 12/01/1994 IND @ LAC W 25 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 0 1 2 1 2 -
+p734
+aVHaywoode Workman IND 12/01/1994 IND @ LAC W 14 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 1 2 0 2 4 -
+p735
+aVDale Davis IND 11/28/1994 IND @ SEA L 21 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 5 -
+p736
+aVHaywoode Workman IND 11/28/1994 IND @ SEA L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 4 1 0 2 1 -
+p737
+aVVern Fleming IND 11/28/1994 IND @ SEA L 7 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 2 0 0 0 0 -
+p738
+aVByron Scott IND 11/28/1994 IND @ SEA L 21 15 5 11 45.5 2 6 33.3 3 3 100.0 0 2 2 0 0 0 2 2 -
+p739
+aVRik Smits IND 11/28/1994 IND @ SEA L 24 12 6 13 46.2 0 0 - 0 0 - 3 3 6 0 0 2 2 3 -
+p740
+aVDerrick McKey IND 11/28/1994 IND @ SEA L 33 8 3 11 27.3 0 2 0.0 2 4 50.0 2 4 6 3 2 0 1 2 -
+p741
+aVAntonio Davis IND 11/28/1994 IND @ SEA L 21 5 1 5 20.0 0 0 - 3 4 75.0 3 5 8 0 0 0 3 2 -
+p742
+aVReggie Miller IND 11/28/1994 IND @ SEA L 31 20 6 12 50.0 3 7 42.9 5 6 83.3 0 0 0 1 3 0 0 2 -
+p743
+aVMark Jackson IND 11/28/1994 IND @ SEA L 22 8 3 9 33.3 0 1 0.0 2 2 100.0 1 0 1 8 0 0 1 2 -
+p744
+aVDuane Ferrell IND 11/28/1994 IND @ SEA L 10 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -
+p745
+aVSam Mitchell IND 11/28/1994 IND @ SEA L 20 12 4 5 80.0 0 0 - 4 6 66.7 1 1 2 0 1 0 0 3 -
+p746
+aVLaSalle Thompson IND 11/28/1994 IND @ SEA L 11 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 1 0 1 2 -
+p747
+aVDale Davis IND 11/27/1994 IND @ POR L 38 8 4 5 80.0 0 0 - 0 0 - 3 11 14 0 0 1 3 3 -
+p748
+aVSam Mitchell IND 11/27/1994 IND @ POR L 13 8 3 6 50.0 0 0 - 2 4 50.0 0 0 0 2 0 0 0 3 -
+p749
+aVRik Smits IND 11/27/1994 IND @ POR L 22 19 7 11 63.6 0 0 - 5 7 71.4 0 0 0 0 0 0 2 4 -
+p750
+aVHaywoode Workman IND 11/27/1994 IND @ POR L 18 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 4 1 0 1 0 -
+p751
+aVDerrick McKey IND 11/27/1994 IND @ POR L 36 4 1 5 20.0 0 1 0.0 2 2 100.0 0 4 4 7 2 0 2 5 -
+p752
+aVLaSalle Thompson IND 11/27/1994 IND @ POR L 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p753
+aVAntonio Davis IND 11/27/1994 IND @ POR L 27 6 2 5 40.0 0 0 - 2 4 50.0 1 4 5 0 0 1 5 3 -
+p754
+aVReggie Miller IND 11/27/1994 IND @ POR L 30 20 7 12 58.3 4 7 57.1 2 2 100.0 0 0 0 4 3 0 1 1 -
+p755
+aVByron Scott IND 11/27/1994 IND @ POR L 18 11 1 4 25.0 1 3 33.3 8 8 100.0 0 1 1 0 1 0 2 1 -
+p756
+aVMark Jackson IND 11/27/1994 IND @ POR L 30 9 3 7 42.9 1 3 33.3 2 3 66.7 2 2 4 4 1 0 7 3 -
+p757
+aVHaywoode Workman IND 11/25/1994 IND vs. MIL W 15 5 1 2 50.0 1 2 50.0 2 2 100.0 1 1 2 8 1 0 2 0 -
+p758
+aVByron Scott IND 11/25/1994 IND vs. MIL W 13 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 2 0 0 1 0 -
+p759
+aVDerrick McKey IND 11/25/1994 IND vs. MIL W 41 20 9 15 60.0 1 4 25.0 1 2 50.0 1 0 1 3 2 1 1 0 -
+p760
+aVReggie Miller IND 11/25/1994 IND vs. MIL W 35 22 9 15 60.0 2 6 33.3 2 4 50.0 0 3 3 2 0 0 4 3 -
+p761
+aVRik Smits IND 11/25/1994 IND vs. MIL W 39 30 11 15 73.3 0 0 - 8 13 61.5 2 6 8 4 2 0 1 3 -
+p762
+aVMark Jackson IND 11/25/1994 IND vs. MIL W 35 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 9 2 0 7 1 -
+p763
+aVAntonio Davis IND 11/25/1994 IND vs. MIL W 12 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 2 0 0 0 1 -
+p764
+aVSam Mitchell IND 11/25/1994 IND vs. MIL W 12 8 4 4 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -
+p765
+aVDale Davis IND 11/25/1994 IND vs. MIL W 38 16 6 7 85.7 0 0 - 4 6 66.7 4 6 10 2 3 0 3 5 -
+p766
+aVDerrick McKey IND 11/24/1994 IND vs. GOS W 26 13 6 8 75.0 1 1 100.0 0 0 - 2 6 8 2 2 2 1 4 -
+p767
+aVAntonio Davis IND 11/24/1994 IND vs. GOS W 25 10 2 3 66.7 0 0 - 6 9 66.7 5 5 10 0 1 0 1 2 -
+p768
+aVDale Davis IND 11/24/1994 IND vs. GOS W 27 19 8 9 88.9 0 0 - 3 4 75.0 2 6 8 0 3 1 2 2 -
+p769
+aVByron Scott IND 11/24/1994 IND vs. GOS W 22 11 5 8 62.5 1 3 33.3 0 0 - 0 2 2 3 0 0 2 0 -
+p770
+aVVern Fleming IND 11/24/1994 IND vs. GOS W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 2 -
+p771
+aVReggie Miller IND 11/24/1994 IND vs. GOS W 22 10 3 11 27.3 2 7 28.6 2 3 66.7 0 1 1 3 3 0 2 2 -
+p772
+aVMark Jackson IND 11/24/1994 IND vs. GOS W 26 8 3 6 50.0 0 1 0.0 2 3 66.7 0 5 5 14 1 0 5 2 -
+p773
+aVDuane Ferrell IND 11/24/1994 IND vs. GOS W 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 0 2 4 -
+p774
+aVLaSalle Thompson IND 11/24/1994 IND vs. GOS W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -
+p775
+aVHaywoode Workman IND 11/24/1994 IND vs. GOS W 16 6 2 3 66.7 2 2 100.0 0 0 - 0 2 2 6 2 0 2 3 -
+p776
+aVSam Mitchell IND 11/24/1994 IND vs. GOS W 25 14 7 11 63.6 0 1 0.0 0 0 - 1 2 3 3 1 0 3 4 -
+p777
+aVRik Smits IND 11/24/1994 IND vs. GOS W 29 28 12 14 85.7 0 0 - 4 6 66.7 0 4 4 2 0 0 2 3 -
+p778
+aVSam Mitchell IND 11/19/1994 IND @ CHH W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p779
+aVRik Smits IND 11/19/1994 IND @ CHH W 15 16 6 13 46.2 0 0 - 4 4 100.0 2 2 4 0 0 1 0 4 -
+p780
+aVDale Davis IND 11/19/1994 IND @ CHH W 36 14 7 15 46.7 0 0 - 0 0 - 1 10 11 0 0 2 3 2 -
+p781
+aVAntonio Davis IND 11/19/1994 IND @ CHH W 30 14 5 14 35.7 0 0 - 4 7 57.1 7 7 14 1 0 0 3 4 -
+p782
+aVHaywoode Workman IND 11/19/1994 IND @ CHH W 17 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 6 0 0 0 1 -
+p783
+aVLaSalle Thompson IND 11/19/1994 IND @ CHH W 11 10 5 5 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -
+p784
+aVDerrick McKey IND 11/19/1994 IND @ CHH W 30 19 7 9 77.8 1 1 100.0 4 5 80.0 2 4 6 6 1 0 1 4 -
+p785
+aVReggie Miller IND 11/19/1994 IND @ CHH W 34 13 5 9 55.6 3 5 60.0 0 0 - 0 1 1 2 1 0 1 1 -
+p786
+aVMark Jackson IND 11/19/1994 IND @ CHH W 31 6 3 8 37.5 0 3 0.0 0 0 - 0 1 1 9 0 0 2 0 -
+p787
+aVDuane Ferrell IND 11/19/1994 IND @ CHH W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 0 -
+p788
+aVByron Scott IND 11/19/1994 IND @ CHH W 17 2 0 5 0.0 0 1 0.0 2 3 66.7 0 3 3 1 1 1 1 2 -
+p789
+aVHaywoode Workman IND 11/18/1994 IND vs. SEA W 21 8 4 7 57.1 0 2 0.0 0 0 - 1 1 2 5 3 0 2 1 -
+p790
+aVVern Fleming IND 11/18/1994 IND vs. SEA W 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -
+p791
+aVDerrick McKey IND 11/18/1994 IND vs. SEA W 39 12 5 8 62.5 1 1 100.0 1 2 50.0 3 2 5 4 2 1 2 2 -
+p792
+aVLaSalle Thompson IND 11/18/1994 IND vs. SEA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p793
+aVRik Smits IND 11/18/1994 IND vs. SEA W 25 12 6 14 42.9 0 0 - 0 0 - 2 6 8 1 0 0 3 5 -
+p794
+aVDuane Ferrell IND 11/18/1994 IND vs. SEA W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p795
+aVAntonio Davis IND 11/18/1994 IND vs. SEA W 26 7 2 4 50.0 0 0 - 3 4 75.0 1 7 8 1 1 2 2 1 -
+p796
+aVDale Davis IND 11/18/1994 IND vs. SEA W 31 8 4 6 66.7 0 0 - 0 2 0.0 4 5 9 2 1 3 2 3 -
+p797
+aVSam Mitchell IND 11/18/1994 IND vs. SEA W 10 4 0 1 0.0 0 0 - 4 6 66.7 0 4 4 1 0 0 0 4 -
+p798
+aVReggie Miller IND 11/18/1994 IND vs. SEA W 33 22 7 16 43.8 4 9 44.4 4 4 100.0 1 2 3 3 1 0 1 1 -
+p799
+aVMark Jackson IND 11/18/1994 IND vs. SEA W 20 7 2 5 40.0 0 1 0.0 3 3 100.0 0 2 2 3 3 0 3 3 -
+p800
+aVByron Scott IND 11/18/1994 IND vs. SEA W 16 10 4 9 44.4 1 4 25.0 1 2 50.0 0 0 0 1 1 1 0 2 -
+p801
+aVMark Jackson IND 11/15/1994 IND @ MIL L 32 8 3 7 42.9 0 1 0.0 2 2 100.0 2 3 5 5 1 0 4 3 -
+p802
+aVLaSalle Thompson IND 11/15/1994 IND @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p803
+aVDale Davis IND 11/15/1994 IND @ MIL L 38 13 6 9 66.7 0 0 - 1 5 20.0 5 8 13 0 2 2 4 3 -
+p804
+aVHaywoode Workman IND 11/15/1994 IND @ MIL L 16 4 2 4 50.0 0 1 0.0 0 2 0.0 0 4 4 2 0 0 0 1 -
+p805
+aVRik Smits IND 11/15/1994 IND @ MIL L 26 9 4 10 40.0 0 0 - 1 2 50.0 1 3 4 1 0 5 0 3 -
+p806
+aVDerrick McKey IND 11/15/1994 IND @ MIL L 33 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 4 1 0 3 3 -
+p807
+aVReggie Miller IND 11/15/1994 IND @ MIL L 35 17 4 15 26.7 2 8 25.0 7 7 100.0 0 4 4 5 0 0 3 3 -
+p808
+aVSam Mitchell IND 11/15/1994 IND @ MIL L 14 7 3 8 37.5 0 0 - 1 2 50.0 2 1 3 0 2 0 0 3 -
+p809
+aVByron Scott IND 11/15/1994 IND @ MIL L 15 8 2 10 20.0 2 4 50.0 2 2 100.0 0 0 0 0 0 0 1 1 -
+p810
+aVAntonio Davis IND 11/15/1994 IND @ MIL L 27 10 4 6 66.7 0 0 - 2 2 100.0 3 4 7 0 0 3 0 0 -
+p811
+aVByron Scott IND 11/12/1994 IND @ CLE W 13 11 4 5 80.0 0 0 - 3 3 100.0 0 1 1 2 0 0 1 3 -
+p812
+aVReggie Miller IND 11/12/1994 IND @ CLE W 32 23 7 14 50.0 2 4 50.0 7 7 100.0 0 6 6 4 1 0 1 3 -
+p813
+aVSam Mitchell IND 11/12/1994 IND @ CLE W 19 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 1 1 1 2 -
+p814
+aVDerrick McKey IND 11/12/1994 IND @ CLE W 39 12 4 8 50.0 0 1 0.0 4 6 66.7 2 3 5 4 1 0 4 1 -
+p815
+aVRik Smits IND 11/12/1994 IND @ CLE W 22 12 6 11 54.5 0 0 - 0 0 - 0 5 5 0 0 3 4 5 -
+p816
+aVHaywoode Workman IND 11/12/1994 IND @ CLE W 15 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 5 0 0 1 3 -
+p817
+aVMark Jackson IND 11/12/1994 IND @ CLE W 33 7 3 6 50.0 1 1 100.0 0 0 - 1 5 6 12 1 0 3 0 -
+p818
+aVDuane Ferrell IND 11/12/1994 IND @ CLE W 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 2 1 -
+p819
+aVAntonio Davis IND 11/12/1994 IND @ CLE W 19 8 2 3 66.7 0 0 - 4 4 100.0 1 4 5 1 0 0 1 6 -
+p820
+aVVern Fleming IND 11/12/1994 IND @ CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p821
+aVDale Davis IND 11/12/1994 IND @ CLE W 38 9 4 9 44.4 0 0 - 1 4 25.0 1 7 8 2 1 7 2 2 -
+p822
+aVAntonio Davis IND 11/10/1994 IND @ DET L 16 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 1 2 0 -
+p823
+aVVern Fleming IND 11/10/1994 IND @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p824
+aVByron Scott IND 11/10/1994 IND @ DET L 13 6 1 3 33.3 1 2 50.0 3 3 100.0 0 1 1 0 0 0 0 2 -
+p825
+aVReggie Miller IND 11/10/1994 IND @ DET L 35 16 6 15 40.0 2 7 28.6 2 3 66.7 1 2 3 3 0 0 2 1 -
+p826
+aVMark Jackson IND 11/10/1994 IND @ DET L 36 15 5 9 55.6 2 4 50.0 3 5 60.0 1 1 2 15 2 0 3 3 -
+p827
+aVDerrick McKey IND 11/10/1994 IND @ DET L 40 14 6 12 50.0 0 0 - 2 2 100.0 2 4 6 4 3 1 2 5 -
+p828
+aVSam Mitchell IND 11/10/1994 IND @ DET L 22 8 4 7 57.1 0 0 - 0 0 - 3 7 10 1 1 0 2 4 -
+p829
+aVHaywoode Workman IND 11/10/1994 IND @ DET L 12 12 4 7 57.1 2 4 50.0 2 3 66.7 0 1 1 0 0 1 1 1 -
+p830
+aVDuane Ferrell IND 11/10/1994 IND @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p831
+aVDale Davis IND 11/10/1994 IND @ DET L 37 13 6 12 50.0 0 0 - 1 8 12.5 9 5 14 2 0 0 5 6 -
+p832
+aVRik Smits IND 11/10/1994 IND @ DET L 25 25 9 14 64.3 0 0 - 7 8 87.5 0 2 2 3 1 2 2 5 -
+p833
+aVHaywoode Workman IND 11/09/1994 IND vs. HOU L 16 12 4 7 57.1 2 4 50.0 2 4 50.0 1 0 1 1 1 0 0 3 -
+p834
+aVLaSalle Thompson IND 11/09/1994 IND vs. HOU L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -
+p835
+aVDerrick McKey IND 11/09/1994 IND vs. HOU L 36 17 6 13 46.2 2 4 50.0 3 4 75.0 5 4 9 3 0 0 1 5 -
+p836
+aVDale Davis IND 11/09/1994 IND vs. HOU L 28 15 7 10 70.0 0 0 - 1 2 50.0 6 8 14 0 0 0 2 6 -
+p837
+aVDuane Ferrell IND 11/09/1994 IND vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p838
+aVRik Smits IND 11/09/1994 IND vs. HOU L 18 3 1 11 9.1 0 0 - 1 1 100.0 1 6 7 1 1 0 2 5 -
+p839
+aVSam Mitchell IND 11/09/1994 IND vs. HOU L 14 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 1 0 0 1 3 -
+p840
+aVMark Jackson IND 11/09/1994 IND vs. HOU L 31 6 2 8 25.0 2 2 100.0 0 0 - 2 2 4 9 3 0 1 3 -
+p841
+aVAntonio Davis IND 11/09/1994 IND vs. HOU L 27 6 3 8 37.5 0 0 - 0 0 - 4 6 10 0 1 0 2 5 -
+p842
+aVByron Scott IND 11/09/1994 IND vs. HOU L 20 14 4 8 50.0 1 4 25.0 5 6 83.3 1 2 3 0 0 0 0 0 -
+p843
+aVReggie Miller IND 11/09/1994 IND vs. HOU L 37 25 7 18 38.9 2 7 28.6 9 13 69.2 0 2 2 4 1 0 2 5 -
+p844
+aVVern Fleming IND 11/09/1994 IND vs. HOU L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 -
+p845
+aVHaywoode Workman IND 11/05/1994 IND vs. BOS W 13 9 3 4 75.0 1 2 50.0 2 2 100.0 0 0 0 5 5 0 2 1 -
+p846
+aVAntonio Davis IND 11/05/1994 IND vs. BOS W 32 13 3 7 42.9 0 0 - 7 7 100.0 3 8 11 0 0 0 3 2 -
+p847
+aVMark Jackson IND 11/05/1994 IND vs. BOS W 35 12 6 9 66.7 0 1 0.0 0 0 - 1 1 2 8 2 0 4 2 -
+p848
+aVReggie Miller IND 11/05/1994 IND vs. BOS W 30 24 5 9 55.6 2 4 50.0 12 12 100.0 1 2 3 3 4 1 6 4 -
+p849
+aVSam Mitchell IND 11/05/1994 IND vs. BOS W 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 1 0 2 -
+p850
+aVDerrick McKey IND 11/05/1994 IND vs. BOS W 29 13 4 9 44.4 0 0 - 5 5 100.0 0 3 3 1 1 0 2 6 -
+p851
+aVByron Scott IND 11/05/1994 IND vs. BOS W 20 19 8 14 57.1 0 3 0.0 3 4 75.0 1 1 2 2 1 0 2 1 -
+p852
+aVRik Smits IND 11/05/1994 IND vs. BOS W 30 12 6 12 50.0 0 0 - 0 2 0.0 2 8 10 0 0 0 5 5 -
+p853
+aVDale Davis IND 11/05/1994 IND vs. BOS W 20 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 3 -
+p854
+aVLaSalle Thompson IND 11/05/1994 IND vs. BOS W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p855
+aVDuane Ferrell IND 11/05/1994 IND vs. BOS W 14 4 2 6 33.3 0 0 - 0 1 0.0 1 1 2 3 0 0 2 3 -
+p856
+aVDerrick McKey IND 11/04/1994 IND @ ATL W 37 14 5 14 35.7 0 2 0.0 4 4 100.0 3 3 6 2 1 0 7 5 -
+p857
+aVDuane Ferrell IND 11/04/1994 IND @ ATL W 7 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 1 1 4 -
+p858
+aVSam Mitchell IND 11/04/1994 IND @ ATL W 15 1 0 4 0.0 0 0 - 1 2 50.0 2 2 4 2 0 0 2 2 -
+p859
+aVAntonio Davis IND 11/04/1994 IND @ ATL W 21 4 1 5 20.0 0 0 - 2 2 100.0 5 4 9 0 0 1 2 5 -
+p860
+aVMark Jackson IND 11/04/1994 IND @ ATL W 38 21 9 13 69.2 3 4 75.0 0 0 - 1 3 4 3 3 0 3 1 -
+p861
+aVLaSalle Thompson IND 11/04/1994 IND @ ATL W 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -
+p862
+aVRik Smits IND 11/04/1994 IND @ ATL W 18 7 3 6 50.0 0 0 - 1 2 50.0 3 8 11 2 0 1 0 2 -
+p863
+aVByron Scott IND 11/04/1994 IND @ ATL W 18 14 4 7 57.1 2 4 50.0 4 5 80.0 0 2 2 1 0 0 3 0 -
+p864
+aVHaywoode Workman IND 11/04/1994 IND @ ATL W 11 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 3 1 0 0 1 -
+p865
+aVReggie Miller IND 11/04/1994 IND @ ATL W 31 20 6 14 42.9 2 6 33.3 6 7 85.7 1 0 1 2 0 0 2 5 -
+p866
+aVDale Davis IND 11/04/1994 IND @ ATL W 31 6 2 5 40.0 0 0 - 2 4 50.0 3 6 9 2 0 1 0 5 -
+p867
+a.

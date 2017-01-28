@@ -1,0 +1,398 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSasha Pavlovic CLE 06/14/2007 CLE vs. SAS L 21 3 1 6 16.7 1 2 50.0 0 0 - 0 1 1 0 1 0 0 4 -5
+p2
+aVDonyell Marshall CLE 06/14/2007 CLE vs. SAS L 19 5 2 6 33.3 0 3 0.0 1 2 50.0 1 3 4 2 1 0 1 4 15
+p3
+aVShannon Brown CLE 06/14/2007 CLE vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p4
+aVAnderson Varejao CLE 06/14/2007 CLE vs. SAS L 24 8 3 3 100.0 0 0 - 2 2 100.0 1 2 3 1 3 0 0 4 4
+p5
+aVEric Snow CLE 06/14/2007 CLE vs. SAS L 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 1 1 1 -7
+p6
+aVLeBron James CLE 06/14/2007 CLE vs. SAS L 46 24 10 30 33.3 2 7 28.6 2 6 33.3 0 6 6 10 0 0 6 1 2
+p7
+aVDamon Jones CLE 06/14/2007 CLE vs. SAS L 19 9 2 5 40.0 2 4 50.0 3 3 100.0 0 1 1 2 0 0 0 1 7
+p8
+aVZydrunas Ilgauskas CLE 06/14/2007 CLE vs. SAS L 26 8 3 8 37.5 0 0 - 2 2 100.0 5 8 13 1 0 1 1 3 -10
+p9
+aVDaniel Gibson CLE 06/14/2007 CLE vs. SAS L 44 10 4 10 40.0 2 6 33.3 0 0 - 1 1 2 5 0 0 0 4 2
+p10
+aVDrew Gooden CLE 06/14/2007 CLE vs. SAS L 27 11 5 12 41.7 0 0 - 1 1 100.0 4 7 11 0 0 0 1 2 -11
+p11
+aVEric Snow CLE 06/12/2007 CLE vs. SAS L 17 0 0 0 - 0 0 - 0 0 - 0 1 1 5 1 0 0 0 1
+p12
+aVDaniel Gibson CLE 06/12/2007 CLE vs. SAS L 36 2 1 10 10.0 0 5 0.0 0 0 - 0 3 3 1 1 0 0 0 -11
+p13
+aVAnderson Varejao CLE 06/12/2007 CLE vs. SAS L 15 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 2 2 1 1 3
+p14
+aVSasha Pavlovic CLE 06/12/2007 CLE vs. SAS L 42 13 5 15 33.3 2 6 33.3 1 2 50.0 0 0 0 3 0 0 1 3 -1
+p15
+aVDonyell Marshall CLE 06/12/2007 CLE vs. SAS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p16
+aVDrew Gooden CLE 06/12/2007 CLE vs. SAS L 33 13 5 11 45.5 0 0 - 3 4 75.0 4 8 12 1 0 1 2 6 0
+p17
+aVLeBron James CLE 06/12/2007 CLE vs. SAS L 42 25 9 23 39.1 0 5 0.0 7 8 87.5 0 8 8 7 2 1 5 3 4
+p18
+aVDamon Jones CLE 06/12/2007 CLE vs. SAS L 18 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 -5
+p19
+aVZydrunas Ilgauskas CLE 06/12/2007 CLE vs. SAS L 32 12 6 13 46.2 0 0 - 0 1 0.0 10 8 18 0 1 1 3 2 -4
+p20
+aVDrew Gooden CLE 06/10/2007 CLE @ SAS L 24 13 6 12 50.0 0 1 0.0 1 1 100.0 3 3 6 0 0 1 0 2 -12
+p21
+aVDonyell Marshall CLE 06/10/2007 CLE @ SAS L 21 5 1 4 25.0 1 3 33.3 2 2 100.0 1 1 2 3 1 0 0 2 7
+p22
+aVLarry Hughes CLE 06/10/2007 CLE @ SAS L 20 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 2 1 -14
+p23
+aVDaniel Gibson CLE 06/10/2007 CLE @ SAS L 32 15 6 12 50.0 2 5 40.0 1 1 100.0 0 1 1 0 1 0 0 3 -1
+p24
+aVAnderson Varejao CLE 06/10/2007 CLE @ SAS L 28 8 2 2 100.0 0 0 - 4 7 57.1 1 9 10 2 0 0 0 4 2
+p25
+aVSasha Pavlovic CLE 06/10/2007 CLE @ SAS L 27 10 4 11 36.4 2 3 66.7 0 2 0.0 2 2 4 0 1 0 3 1 -23
+p26
+aVIra Newble CLE 06/10/2007 CLE @ SAS L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p27
+aVLeBron James CLE 06/10/2007 CLE @ SAS L 38 25 9 21 42.9 0 2 0.0 7 11 63.6 3 4 7 6 1 0 6 3 -5
+p28
+aVZydrunas Ilgauskas CLE 06/10/2007 CLE @ SAS L 22 9 3 8 37.5 0 0 - 3 3 100.0 1 3 4 0 0 1 0 3 -19
+p29
+aVDamon Jones CLE 06/10/2007 CLE @ SAS L 15 6 2 4 50.0 2 3 66.7 0 0 - 1 2 3 0 0 0 0 0 19
+p30
+aVScot Pollard CLE 06/10/2007 CLE @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p31
+aVEric Snow CLE 06/10/2007 CLE @ SAS L 11 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 2 0 0 0 0 -9
+p32
+aVDamon Jones CLE 06/07/2007 CLE @ SAS L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p33
+aVLeBron James CLE 06/07/2007 CLE @ SAS L 44 14 4 16 25.0 2 6 33.3 4 4 100.0 1 6 7 4 1 1 6 1 -5
+p34
+aVZydrunas Ilgauskas CLE 06/07/2007 CLE @ SAS L 23 2 1 8 12.5 0 0 - 0 0 - 2 4 6 1 1 1 0 2 -18
+p35
+aVAnderson Varejao CLE 06/07/2007 CLE @ SAS L 31 10 3 6 50.0 0 0 - 4 7 57.1 3 1 4 0 0 0 1 3 5
+p36
+aVDaniel Gibson CLE 06/07/2007 CLE @ SAS L 28 16 7 9 77.8 2 3 66.7 0 0 - 0 1 1 4 4 0 0 1 4
+p37
+aVLarry Hughes CLE 06/07/2007 CLE @ SAS L 23 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 -18
+p38
+aVDrew Gooden CLE 06/07/2007 CLE @ SAS L 26 14 6 9 66.7 0 0 - 2 2 100.0 1 3 4 0 1 0 2 4 -5
+p39
+aVSasha Pavlovic CLE 06/07/2007 CLE @ SAS L 37 13 6 12 50.0 0 1 0.0 1 2 50.0 2 3 5 0 0 0 1 2 -5
+p40
+aVEric Snow CLE 06/07/2007 CLE @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p41
+aVDonyell Marshall CLE 06/07/2007 CLE @ SAS L 15 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 0 1 0 1 1 3
+p42
+aVLeBron James CLE 06/02/2007 CLE vs. DET W 46 20 3 11 27.3 0 2 0.0 14 19 73.7 2 12 14 8 2 2 3 1 13
+p43
+aVZydrunas Ilgauskas CLE 06/02/2007 CLE vs. DET W 23 11 5 9 55.6 0 0 - 1 1 100.0 7 5 12 0 1 1 1 3 -8
+p44
+aVAnderson Varejao CLE 06/02/2007 CLE vs. DET W 28 7 3 9 33.3 0 0 - 1 3 33.3 3 4 7 0 2 0 1 4 21
+p45
+aVDamon Jones CLE 06/02/2007 CLE vs. DET W 20 2 1 6 16.7 0 5 0.0 0 0 - 0 2 2 4 0 0 0 1 14
+p46
+aVEric Snow CLE 06/02/2007 CLE vs. DET W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p47
+aVDrew Gooden CLE 06/02/2007 CLE vs. DET W 26 7 3 9 33.3 0 0 - 1 2 50.0 2 2 4 0 0 0 4 2 5
+p48
+aVSasha Pavlovic CLE 06/02/2007 CLE vs. DET W 21 8 2 7 28.6 1 2 50.0 3 4 75.0 0 2 2 1 0 0 4 5 0
+p49
+aVDaniel Gibson CLE 06/02/2007 CLE vs. DET W 29 31 7 9 77.8 5 5 100.0 12 15 80.0 2 4 6 2 0 0 2 5 19
+p50
+aVLarry Hughes CLE 06/02/2007 CLE vs. DET W 28 9 3 8 37.5 2 4 50.0 1 2 50.0 0 3 3 4 1 0 2 0 2
+p51
+aVDonyell Marshall CLE 06/02/2007 CLE vs. DET W 12 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 0 0 1 0 3 13
+p52
+aVSasha Pavlovic CLE 05/31/2007 CLE @ DET W 42 6 2 10 20.0 1 3 33.3 1 2 50.0 3 6 9 1 0 0 3 4 -10
+p53
+aVZydrunas Ilgauskas CLE 05/31/2007 CLE @ DET W 39 16 6 9 66.7 0 0 - 4 6 66.7 1 7 8 2 0 2 1 6 -20
+p54
+aVLarry Hughes CLE 05/31/2007 CLE @ DET W 29 9 2 3 66.7 2 2 100.0 3 5 60.0 0 1 1 1 1 0 4 4 3
+p55
+aVScot Pollard CLE 05/31/2007 CLE @ DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p56
+aVDamon Jones CLE 05/31/2007 CLE @ DET W 14 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 12
+p57
+aVDonyell Marshall CLE 05/31/2007 CLE @ DET W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 0 1 21
+p58
+aVAnderson Varejao CLE 05/31/2007 CLE @ DET W 34 9 3 6 50.0 0 0 - 3 4 75.0 2 1 3 0 2 2 1 4 5
+p59
+aVEric Snow CLE 05/31/2007 CLE @ DET W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 2 0 0 0 -9
+p60
+aVLeBron James CLE 05/31/2007 CLE @ DET W 50 48 18 33 54.5 2 3 66.7 10 14 71.4 3 6 9 7 2 0 2 3 2
+p61
+aVDaniel Gibson CLE 05/31/2007 CLE @ DET W 30 11 2 7 28.6 1 3 33.3 6 6 100.0 0 0 0 1 0 0 0 6 8
+p62
+aVDrew Gooden CLE 05/31/2007 CLE @ DET W 28 7 3 10 30.0 0 0 - 1 2 50.0 3 3 6 1 1 0 1 6 0
+p63
+aVLarry Hughes CLE 05/29/2007 CLE vs. DET W 16 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 0 0 0 1 6
+p64
+aVLeBron James CLE 05/29/2007 CLE vs. DET W 44 25 8 19 42.1 1 5 20.0 8 9 88.9 0 7 7 11 3 0 3 0 -4
+p65
+aVSasha Pavlovic CLE 05/29/2007 CLE vs. DET W 40 5 2 7 28.6 1 2 50.0 0 0 - 0 3 3 2 1 0 0 3 1
+p66
+aVDaniel Gibson CLE 05/29/2007 CLE vs. DET W 35 21 4 7 57.1 1 4 25.0 12 12 100.0 0 3 3 2 2 0 4 4 6
+p67
+aVDamon Jones CLE 05/29/2007 CLE vs. DET W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 4
+p68
+aVDonyell Marshall CLE 05/29/2007 CLE vs. DET W 11 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 3 -3
+p69
+aVZydrunas Ilgauskas CLE 05/29/2007 CLE vs. DET W 33 9 3 7 42.9 0 0 - 3 4 75.0 1 6 7 0 0 0 3 2 7
+p70
+aVAnderson Varejao CLE 05/29/2007 CLE vs. DET W 20 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 0 1 0 1 4 6
+p71
+aVEric Snow CLE 05/29/2007 CLE vs. DET W 1 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 0
+p72
+aVDrew Gooden CLE 05/29/2007 CLE vs. DET W 32 19 8 14 57.1 0 0 - 3 4 75.0 1 7 8 0 1 1 1 3 -3
+p73
+aVLarry Hughes CLE 05/27/2007 CLE vs. DET W 22 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 2 1 0 3 2 -1
+p74
+aVLeBron James CLE 05/27/2007 CLE vs. DET W 46 32 12 21 57.1 2 3 66.7 6 9 66.7 1 8 9 9 2 0 3 2 6
+p75
+aVSasha Pavlovic CLE 05/27/2007 CLE vs. DET W 37 13 5 8 62.5 2 3 66.7 1 2 50.0 0 3 3 5 2 0 0 1 14
+p76
+aVDaniel Gibson CLE 05/27/2007 CLE vs. DET W 29 9 2 4 50.0 2 3 66.7 3 4 75.0 1 1 2 0 0 1 0 1 3
+p77
+aVDonyell Marshall CLE 05/27/2007 CLE vs. DET W 12 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 1 1 0 -11
+p78
+aVDrew Gooden CLE 05/27/2007 CLE vs. DET W 33 12 5 11 45.5 0 0 - 2 2 100.0 1 5 6 0 0 0 2 4 14
+p79
+aVAnderson Varejao CLE 05/27/2007 CLE vs. DET W 14 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 4 -2
+p80
+aVZydrunas Ilgauskas CLE 05/27/2007 CLE vs. DET W 37 16 7 14 50.0 0 0 - 2 2 100.0 2 5 7 2 1 1 1 1 11
+p81
+aVDamon Jones CLE 05/27/2007 CLE vs. DET W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p82
+aVLeBron James CLE 05/24/2007 CLE @ DET L 45 19 7 19 36.8 0 1 0.0 5 7 71.4 0 6 6 7 3 0 6 1 -6
+p83
+aVDrew Gooden CLE 05/24/2007 CLE @ DET L 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 1 0 2 2 -11
+p84
+aVZydrunas Ilgauskas CLE 05/24/2007 CLE @ DET L 27 3 1 6 16.7 0 0 - 1 2 50.0 0 7 7 1 0 0 2 2 -10
+p85
+aVDaniel Gibson CLE 05/24/2007 CLE @ DET L 20 9 3 8 37.5 3 7 42.9 0 0 - 2 2 4 3 1 2 0 3 4
+p86
+aVDonyell Marshall CLE 05/24/2007 CLE @ DET L 21 6 2 5 40.0 2 4 50.0 0 0 - 1 3 4 0 0 0 0 4 9
+p87
+aVAnderson Varejao CLE 05/24/2007 CLE @ DET L 31 14 5 11 45.5 0 1 0.0 4 6 66.7 7 7 14 0 1 2 2 3 8
+p88
+aVSasha Pavlovic CLE 05/24/2007 CLE @ DET L 31 14 7 10 70.0 0 3 0.0 0 0 - 0 0 0 0 3 0 1 1 -4
+p89
+aVDamon Jones CLE 05/24/2007 CLE @ DET L 11 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 5
+p90
+aVLarry Hughes CLE 05/24/2007 CLE @ DET L 38 4 2 9 22.2 0 0 - 0 0 - 1 2 3 3 2 0 2 1 -8
+p91
+aVEric Snow CLE 05/24/2007 CLE @ DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p92
+aVSasha Pavlovic CLE 05/21/2007 CLE @ DET L 32 9 4 14 28.6 1 3 33.3 0 2 0.0 0 0 0 0 0 0 0 3 -10
+p93
+aVDaniel Gibson CLE 05/21/2007 CLE @ DET L 5 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 1 0 -1
+p94
+aVEric Snow CLE 05/21/2007 CLE @ DET L 17 1 0 4 0.0 0 0 - 1 2 50.0 0 2 2 3 0 0 1 1 7
+p95
+aVDonyell Marshall CLE 05/21/2007 CLE @ DET L 10 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 2
+p96
+aVDrew Gooden CLE 05/21/2007 CLE @ DET L 24 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 2 0 0 2 -2
+p97
+aVAnderson Varejao CLE 05/21/2007 CLE @ DET L 27 13 6 9 66.7 0 1 0.0 1 2 50.0 5 3 8 1 2 0 2 2 4
+p98
+aVLarry Hughes CLE 05/21/2007 CLE @ DET L 45 13 4 13 30.8 0 3 0.0 5 7 71.4 1 6 7 2 2 1 1 3 -1
+p99
+aVZydrunas Ilgauskas CLE 05/21/2007 CLE @ DET L 35 22 9 17 52.9 0 0 - 4 4 100.0 7 6 13 1 1 1 0 2 -9
+p100
+aVLeBron James CLE 05/21/2007 CLE @ DET L 45 10 5 15 33.3 0 0 - 0 0 - 1 9 10 9 4 1 2 1 -5
+p101
+aVLarry Hughes CLE 05/18/2007 CLE @ NJN W 35 5 1 6 16.7 1 2 50.0 2 4 50.0 1 2 3 3 2 1 1 2 1
+p102
+aVLeBron James CLE 05/18/2007 CLE @ NJN W 39 23 8 20 40.0 1 5 20.0 6 9 66.7 1 7 8 8 1 0 2 4 26
+p103
+aVDonyell Marshall CLE 05/18/2007 CLE @ NJN W 19 18 6 11 54.5 6 10 60.0 0 0 - 0 5 5 0 0 0 1 4 14
+p104
+aVDrew Gooden CLE 05/18/2007 CLE @ NJN W 27 16 8 11 72.7 0 0 - 0 0 - 2 5 7 0 0 0 2 2 2
+p105
+aVDamon Jones CLE 05/18/2007 CLE @ NJN W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 15
+p106
+aVZydrunas Ilgauskas CLE 05/18/2007 CLE @ NJN W 29 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 1 0 0 3 3 -4
+p107
+aVDaniel Gibson CLE 05/18/2007 CLE @ NJN W 18 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 0 1 0 0 0 18
+p108
+aVSasha Pavlovic CLE 05/18/2007 CLE @ NJN W 26 3 1 8 12.5 1 3 33.3 0 0 - 0 1 1 3 3 0 2 2 -2
+p109
+aVEric Snow CLE 05/18/2007 CLE @ NJN W 15 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 2 0 0 3 -10
+p110
+aVAnderson Varejao CLE 05/18/2007 CLE @ NJN W 21 6 3 3 100.0 0 0 - 0 1 0.0 2 4 6 0 0 1 1 3 20
+p111
+aVAnderson Varejao CLE 05/16/2007 CLE vs. NJN L 23 3 1 2 50.0 0 0 - 1 2 50.0 2 6 8 0 2 2 2 3 5
+p112
+aVDonyell Marshall CLE 05/16/2007 CLE vs. NJN L 7 3 0 7 0.0 0 2 0.0 3 5 60.0 3 1 4 0 0 0 0 0 4
+p113
+aVLarry Hughes CLE 05/16/2007 CLE vs. NJN L 40 7 3 17 17.6 1 4 25.0 0 1 0.0 2 1 3 4 1 0 3 2 -17
+p114
+aVEric Snow CLE 05/16/2007 CLE vs. NJN L 19 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 1 7
+p115
+aVDaniel Gibson CLE 05/16/2007 CLE vs. NJN L 17 8 3 7 42.9 1 4 25.0 1 2 50.0 0 0 0 0 1 0 1 3 6
+p116
+aVZydrunas Ilgauskas CLE 05/16/2007 CLE vs. NJN L 32 16 6 8 75.0 0 0 - 4 4 100.0 2 4 6 1 1 0 2 2 -10
+p117
+aVDrew Gooden CLE 05/16/2007 CLE vs. NJN L 29 4 2 7 28.6 0 0 - 0 0 - 2 6 8 1 0 0 0 2 -21
+p118
+aVLeBron James CLE 05/16/2007 CLE vs. NJN L 43 20 5 14 35.7 0 2 0.0 10 11 90.9 3 6 9 5 2 1 5 4 -15
+p119
+aVSasha Pavlovic CLE 05/16/2007 CLE vs. NJN L 30 8 3 8 37.5 2 3 66.7 0 2 0.0 0 3 3 1 0 0 4 5 -14
+p120
+aVDaniel Gibson CLE 05/14/2007 CLE @ NJN W 6 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 0 -3
+p121
+aVDonyell Marshall CLE 05/14/2007 CLE @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p122
+aVAnderson Varejao CLE 05/14/2007 CLE @ NJN W 17 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 0 2 0 2 5 -3
+p123
+aVDrew Gooden CLE 05/14/2007 CLE @ NJN W 39 8 1 6 16.7 0 0 - 6 8 75.0 2 8 10 2 1 1 0 3 9
+p124
+aVZydrunas Ilgauskas CLE 05/14/2007 CLE @ NJN W 37 13 4 8 50.0 0 0 - 5 6 83.3 0 11 11 1 0 1 2 5 2
+p125
+aVLarry Hughes CLE 05/14/2007 CLE @ NJN W 43 19 7 19 36.8 3 6 50.0 2 2 100.0 0 1 1 1 2 2 4 4 2
+p126
+aVSasha Pavlovic CLE 05/14/2007 CLE @ NJN W 27 9 3 7 42.9 0 3 0.0 3 4 75.0 0 4 4 3 0 0 1 4 12
+p127
+aVEric Snow CLE 05/14/2007 CLE @ NJN W 21 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 1 0 0 3 -14
+p128
+aVLeBron James CLE 05/14/2007 CLE @ NJN W 46 30 9 16 56.3 2 3 66.7 10 15 66.7 0 9 9 7 0 0 3 1 9
+p129
+aVSasha Pavlovic CLE 05/12/2007 CLE @ NJN L 32 8 2 5 40.0 1 3 33.3 3 4 75.0 0 1 1 1 2 1 1 5 -23
+p130
+aVDrew Gooden CLE 05/12/2007 CLE @ NJN L 36 12 5 12 41.7 0 0 - 2 2 100.0 1 3 4 0 1 0 2 2 -13
+p131
+aVLarry Hughes CLE 05/12/2007 CLE @ NJN L 44 23 9 20 45.0 2 3 66.7 3 6 50.0 1 3 4 1 1 2 4 2 -14
+p132
+aVDaniel Gibson CLE 05/12/2007 CLE @ NJN L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 7
+p133
+aVLeBron James CLE 05/12/2007 CLE @ NJN L 44 18 5 16 31.3 1 5 20.0 7 7 100.0 0 6 6 12 0 0 2 2 -12
+p134
+aVScot Pollard CLE 05/12/2007 CLE @ NJN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p135
+aVEric Snow CLE 05/12/2007 CLE @ NJN L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 6
+p136
+aVIra Newble CLE 05/12/2007 CLE @ NJN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p137
+aVAnderson Varejao CLE 05/12/2007 CLE @ NJN L 19 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 0 1 1 1 1 10
+p138
+aVZydrunas Ilgauskas CLE 05/12/2007 CLE @ NJN L 32 11 3 7 42.9 0 0 - 5 5 100.0 2 6 8 1 1 0 1 5 -23
+p139
+aVDonyell Marshall CLE 05/12/2007 CLE @ NJN L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 1
+p140
+aVDamon Jones CLE 05/12/2007 CLE @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p141
+aVLarry Hughes CLE 05/08/2007 CLE vs. NJN W 40 12 4 14 28.6 1 6 16.7 3 6 50.0 2 5 7 3 2 0 1 1 5
+p142
+aVEric Snow CLE 05/08/2007 CLE vs. NJN W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 1 3 0
+p143
+aVZydrunas Ilgauskas CLE 05/08/2007 CLE vs. NJN W 33 13 4 8 50.0 0 0 - 5 7 71.4 3 6 9 1 0 0 1 2 6
+p144
+aVSasha Pavlovic CLE 05/08/2007 CLE vs. NJN W 37 17 7 13 53.8 1 5 20.0 2 4 50.0 3 1 4 1 2 0 3 5 6
+p145
+aVAnderson Varejao CLE 05/08/2007 CLE vs. NJN W 17 6 3 4 75.0 0 0 - 0 0 - 6 3 9 0 1 0 0 1 9
+p146
+aVDonyell Marshall CLE 05/08/2007 CLE vs. NJN W 9 3 1 3 33.3 0 1 0.0 1 2 50.0 2 1 3 0 0 0 0 1 3
+p147
+aVLeBron James CLE 05/08/2007 CLE vs. NJN W 46 36 12 24 50.0 3 7 42.9 9 13 69.2 0 1 1 12 3 0 2 2 8
+p148
+aVDrew Gooden CLE 05/08/2007 CLE vs. NJN W 36 10 5 11 45.5 0 0 - 0 1 0.0 3 11 14 0 1 1 0 4 3
+p149
+aVDaniel Gibson CLE 05/08/2007 CLE vs. NJN W 10 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 0 1 0 1 10
+p150
+aVDaniel Gibson CLE 05/06/2007 CLE vs. NJN W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p151
+aVDrew Gooden CLE 05/06/2007 CLE vs. NJN W 38 14 7 15 46.7 0 0 - 0 1 0.0 6 8 14 1 0 2 3 2 7
+p152
+aVSasha Pavlovic CLE 05/06/2007 CLE vs. NJN W 35 15 6 11 54.5 2 4 50.0 1 2 50.0 0 0 0 2 1 3 3 3 11
+p153
+aVLarry Hughes CLE 05/06/2007 CLE vs. NJN W 45 17 7 20 35.0 2 6 33.3 1 2 50.0 0 4 4 6 4 0 4 3 11
+p154
+aVAnderson Varejao CLE 05/06/2007 CLE vs. NJN W 18 2 1 4 25.0 0 1 0.0 0 0 - 1 4 5 1 1 1 1 1 -1
+p155
+aVZydrunas Ilgauskas CLE 05/06/2007 CLE vs. NJN W 36 8 4 12 33.3 0 0 - 0 0 - 8 6 14 1 1 0 1 3 13
+p156
+aVDonyell Marshall CLE 05/06/2007 CLE vs. NJN W 3 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 1 0 0 -7
+p157
+aVLeBron James CLE 05/06/2007 CLE vs. NJN W 46 21 8 21 38.1 1 4 25.0 4 6 66.7 2 9 11 7 1 1 3 2 6
+p158
+aVEric Snow CLE 05/06/2007 CLE vs. NJN W 14 0 0 0 - 0 0 - 0 0 - 2 0 2 3 0 1 1 3 -11
+p159
+aVEric Snow CLE 04/30/2007 CLE @ WAS W 16 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 -3
+p160
+aVIra Newble CLE 04/30/2007 CLE @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p161
+aVDrew Gooden CLE 04/30/2007 CLE @ WAS W 37 14 6 11 54.5 0 1 0.0 2 2 100.0 2 6 8 2 1 0 2 5 6
+p162
+aVDaniel Gibson CLE 04/30/2007 CLE @ WAS W 28 8 3 4 75.0 2 2 100.0 0 0 - 1 2 3 1 0 0 0 1 17
+p163
+aVZydrunas Ilgauskas CLE 04/30/2007 CLE @ WAS W 40 20 9 16 56.3 0 0 - 2 2 100.0 4 15 19 1 0 2 2 3 12
+p164
+aVSasha Pavlovic CLE 04/30/2007 CLE @ WAS W 15 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 3 1 0 2 3 -7
+p165
+aVDonyell Marshall CLE 04/30/2007 CLE @ WAS W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 2
+p166
+aVLarry Hughes CLE 04/30/2007 CLE @ WAS W 40 19 5 13 38.5 1 4 25.0 8 8 100.0 0 4 4 3 2 0 1 1 2
+p167
+aVLeBron James CLE 04/30/2007 CLE @ WAS W 46 31 8 22 36.4 1 5 20.0 14 17 82.4 3 8 11 7 3 1 2 3 12
+p168
+aVAnderson Varejao CLE 04/30/2007 CLE @ WAS W 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -4
+p169
+aVZydrunas Ilgauskas CLE 04/28/2007 CLE @ WAS W 41 24 10 13 76.9 0 0 - 4 4 100.0 5 3 8 0 0 0 2 3 4
+p170
+aVLeBron James CLE 04/28/2007 CLE @ WAS W 46 30 11 22 50.0 3 5 60.0 5 7 71.4 0 6 6 9 1 0 2 3 6
+p171
+aVAnderson Varejao CLE 04/28/2007 CLE @ WAS W 21 2 1 4 25.0 0 0 - 0 0 - 3 4 7 1 0 0 1 0 0
+p172
+aVIra Newble CLE 04/28/2007 CLE @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p173
+aVDaniel Gibson CLE 04/28/2007 CLE @ WAS W 11 6 1 2 50.0 1 2 50.0 3 3 100.0 0 1 1 0 1 0 1 1 0
+p174
+aVEric Snow CLE 04/28/2007 CLE @ WAS W 18 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 0 0 1 1 11
+p175
+aVLarry Hughes CLE 04/28/2007 CLE @ WAS W 39 11 4 11 36.4 1 4 25.0 2 2 100.0 0 8 8 2 1 1 2 2 0
+p176
+aVSasha Pavlovic CLE 04/28/2007 CLE @ WAS W 30 11 5 12 41.7 1 2 50.0 0 0 - 1 3 4 5 0 1 5 3 1
+p177
+aVDrew Gooden CLE 04/28/2007 CLE @ WAS W 34 10 4 7 57.1 0 0 - 2 2 100.0 5 7 12 4 0 1 0 3 8
+p178
+aVAnderson Varejao CLE 04/25/2007 CLE vs. WAS W 21 6 3 6 50.0 0 0 - 0 0 - 2 5 7 1 0 0 1 3 -5
+p179
+aVLarry Hughes CLE 04/25/2007 CLE vs. WAS W 44 19 5 11 45.5 2 4 50.0 7 8 87.5 1 7 8 5 0 0 4 1 13
+p180
+aVSasha Pavlovic CLE 04/25/2007 CLE vs. WAS W 28 9 4 12 33.3 0 3 0.0 1 2 50.0 1 3 4 1 0 0 1 3 19
+p181
+aVEric Snow CLE 04/25/2007 CLE vs. WAS W 21 5 2 4 50.0 0 1 0.0 1 2 50.0 1 5 6 3 1 0 1 2 -15
+p182
+aVDaniel Gibson CLE 04/25/2007 CLE vs. WAS W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p183
+aVLeBron James CLE 04/25/2007 CLE vs. WAS W 45 27 8 22 36.4 0 3 0.0 11 13 84.6 4 4 8 7 1 2 2 2 12
+p184
+aVDrew Gooden CLE 04/25/2007 CLE vs. WAS W 32 24 10 13 76.9 0 0 - 4 5 80.0 4 10 14 2 0 0 1 4 10
+p185
+aVZydrunas Ilgauskas CLE 04/25/2007 CLE vs. WAS W 37 16 7 14 50.0 0 0 - 2 3 66.7 3 6 9 1 0 3 4 5 15
+p186
+aVDonyell Marshall CLE 04/25/2007 CLE vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p187
+aVIra Newble CLE 04/25/2007 CLE vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p188
+aVEric Snow CLE 04/22/2007 CLE vs. WAS W 22 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 9
+p189
+aVLeBron James CLE 04/22/2007 CLE vs. WAS W 44 23 7 14 50.0 0 2 0.0 9 11 81.8 2 7 9 7 2 0 1 1 17
+p190
+aVAnderson Varejao CLE 04/22/2007 CLE vs. WAS W 26 5 1 5 20.0 0 1 0.0 3 8 37.5 4 6 10 2 0 0 1 2 7
+p191
+aVZydrunas Ilgauskas CLE 04/22/2007 CLE vs. WAS W 35 16 4 7 57.1 0 0 - 8 10 80.0 1 7 8 1 1 1 2 3 20
+p192
+aVLarry Hughes CLE 04/22/2007 CLE vs. WAS W 45 27 9 17 52.9 1 4 25.0 8 8 100.0 0 7 7 1 2 1 4 3 17
+p193
+aVDaniel Gibson CLE 04/22/2007 CLE vs. WAS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p194
+aVSasha Pavlovic CLE 04/22/2007 CLE vs. WAS W 28 9 3 9 33.3 1 2 50.0 2 2 100.0 1 1 2 0 2 0 1 4 4
+p195
+aVDonyell Marshall CLE 04/22/2007 CLE vs. WAS W 6 3 1 3 33.3 1 3 33.3 0 0 - 1 2 3 0 0 0 0 3 -7
+p196
+aVDrew Gooden CLE 04/22/2007 CLE vs. WAS W 28 10 5 10 50.0 0 0 - 0 0 - 1 5 6 3 0 1 2 2 9
+p197
+aVIra Newble CLE 04/22/2007 CLE vs. WAS W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 1
+p198
+a.

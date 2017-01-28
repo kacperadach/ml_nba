@@ -1,0 +1,1672 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBlue Edwards VAN 04/19/1998 VAN @ SAC W 17 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 3 -4
+p2
+aVGeorge Lynch VAN 04/19/1998 VAN @ SAC W 23 12 4 8 50.0 0 0 - 4 6 66.7 4 4 8 2 0 0 0 0 2
+p3
+aVLee Mayberry VAN 04/19/1998 VAN @ SAC W 25 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 5 1 0 5 1 -5
+p4
+aVBobby Hurley VAN 04/19/1998 VAN @ SAC W 28 11 3 8 37.5 0 1 0.0 5 6 83.3 0 3 3 3 0 0 2 3 9
+p5
+aVTony Massenburg VAN 04/19/1998 VAN @ SAC W 44 34 13 27 48.1 0 0 - 8 8 100.0 7 5 12 1 2 1 1 3 -1
+p6
+aVIvano Newbill VAN 04/19/1998 VAN @ SAC W 9 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 5
+p7
+aVAntonio Daniels VAN 04/19/1998 VAN @ SAC W 36 13 6 15 40.0 0 0 - 1 3 33.3 0 2 2 5 2 0 0 0 8
+p8
+aVShareef Abdur-Rahim VAN 04/19/1998 VAN @ SAC W 43 23 9 16 56.3 0 1 0.0 5 5 100.0 2 4 6 2 3 2 3 3 -3
+p9
+aVPete Chilcutt VAN 04/19/1998 VAN @ SAC W 16 6 3 6 50.0 0 1 0.0 0 0 - 2 3 5 0 0 1 0 1 14
+p10
+aVMichael Smith VAN 04/19/1998 VAN @ SAC W 24 6 3 5 60.0 0 0 - 0 0 - 0 7 7 2 1 0 1 1 -5
+p11
+aVPete Chilcutt VAN 04/18/1998 VAN @ GSW L 20 8 2 8 25.0 2 4 50.0 2 2 100.0 3 3 6 1 0 1 2 2 -15
+p12
+aVLee Mayberry VAN 04/18/1998 VAN @ GSW L 28 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 4 0 0 3 3 -11
+p13
+aVBobby Hurley VAN 04/18/1998 VAN @ GSW L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 3 1 0 1 0 -7
+p14
+aVBlue Edwards VAN 04/18/1998 VAN @ GSW L 34 18 7 11 63.6 2 2 100.0 2 2 100.0 1 2 3 7 2 1 2 2 -6
+p15
+aVMichael Smith VAN 04/18/1998 VAN @ GSW L 21 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 2 1 0 0 1 -3
+p16
+aVTony Massenburg VAN 04/18/1998 VAN @ GSW L 34 26 11 16 68.8 0 0 - 4 6 66.7 4 3 7 0 1 1 3 5 -5
+p17
+aVShareef Abdur-Rahim VAN 04/18/1998 VAN @ GSW L 42 24 10 18 55.6 0 1 0.0 4 7 57.1 2 3 5 4 1 0 4 4 -7
+p18
+aVGeorge Lynch VAN 04/18/1998 VAN @ GSW L 19 10 5 7 71.4 0 0 - 0 0 - 1 5 6 2 0 1 1 1 -1
+p19
+aVAntonio Daniels VAN 04/18/1998 VAN @ GSW L 20 6 2 5 40.0 0 0 - 2 3 66.7 0 0 0 2 2 0 0 1 0
+p20
+aVIvano Newbill VAN 04/18/1998 VAN @ GSW L 9 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 3 -5
+p21
+aVMichael Smith VAN 04/16/1998 VAN vs. SAS L 19 4 1 3 33.3 0 0 - 2 2 100.0 3 3 6 2 0 2 2 2 -2
+p22
+aVBlue Edwards VAN 04/16/1998 VAN vs. SAS L 34 22 7 15 46.7 0 1 0.0 8 9 88.9 0 1 1 2 3 0 3 2 -16
+p23
+aVTony Massenburg VAN 04/16/1998 VAN vs. SAS L 37 25 9 16 56.3 0 0 - 7 7 100.0 6 5 11 2 1 2 0 4 -12
+p24
+aVPete Chilcutt VAN 04/16/1998 VAN vs. SAS L 21 5 2 5 40.0 1 2 50.0 0 0 - 1 5 6 0 1 0 1 2 -13
+p25
+aVAntonio Daniels VAN 04/16/1998 VAN vs. SAS L 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p26
+aVGeorge Lynch VAN 04/16/1998 VAN vs. SAS L 11 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 1 1 1 1 0 -7
+p27
+aVLee Mayberry VAN 04/16/1998 VAN vs. SAS L 33 3 1 4 25.0 1 4 25.0 0 0 - 1 5 6 6 0 0 1 3 -16
+p28
+aVBobby Hurley VAN 04/16/1998 VAN vs. SAS L 15 0 0 2 0.0 0 0 - 0 0 - 1 1 2 5 1 0 1 0 3
+p29
+aVIvano Newbill VAN 04/16/1998 VAN vs. SAS L 14 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -1
+p30
+aVShareef Abdur-Rahim VAN 04/16/1998 VAN vs. SAS L 42 32 12 26 46.2 1 2 50.0 7 7 100.0 2 3 5 2 0 2 3 4 -4
+p31
+aVAntonio Daniels VAN 04/14/1998 VAN @ SEA L 29 15 5 12 41.7 1 2 50.0 4 4 100.0 2 1 3 2 0 0 2 1 -8
+p32
+aVMichael Smith VAN 04/14/1998 VAN @ SEA L 15 4 0 2 0.0 0 0 - 4 4 100.0 1 1 2 0 0 0 4 3 -12
+p33
+aVLee Mayberry VAN 04/14/1998 VAN @ SEA L 27 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 3 1 0 2 3 -6
+p34
+aVBlue Edwards VAN 04/14/1998 VAN @ SEA L 27 9 4 9 44.4 0 0 - 1 2 50.0 0 4 4 2 3 0 3 2 -5
+p35
+aVShareef Abdur-Rahim VAN 04/14/1998 VAN @ SEA L 35 18 6 12 50.0 0 1 0.0 6 12 50.0 1 5 6 1 0 0 4 2 -15
+p36
+aVGeorge Lynch VAN 04/14/1998 VAN @ SEA L 21 14 3 4 75.0 0 0 - 8 10 80.0 3 2 5 2 0 0 3 1 8
+p37
+aVBobby Hurley VAN 04/14/1998 VAN @ SEA L 14 7 3 6 50.0 0 0 - 1 1 100.0 0 1 1 1 0 0 3 1 -5
+p38
+aVIvano Newbill VAN 04/14/1998 VAN @ SEA L 15 4 2 4 50.0 0 0 - 0 0 - 3 4 7 0 1 0 0 3 4
+p39
+aVTony Massenburg VAN 04/14/1998 VAN @ SEA L 35 22 7 13 53.8 0 0 - 8 9 88.9 4 3 7 2 1 2 2 2 -12
+p40
+aVPete Chilcutt VAN 04/14/1998 VAN @ SEA L 23 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 4 3 0 0 1 -9
+p41
+aVMichael Smith VAN 04/12/1998 VAN vs. PHX L 14 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 1 2 0 2 1 -12
+p42
+aVBlue Edwards VAN 04/12/1998 VAN vs. PHX L 24 12 4 10 40.0 2 3 66.7 2 2 100.0 2 1 3 4 2 0 1 3 -13
+p43
+aVIvano Newbill VAN 04/12/1998 VAN vs. PHX L 8 6 2 2 100.0 0 0 - 2 4 50.0 1 5 6 0 0 0 3 0 4
+p44
+aVShareef Abdur-Rahim VAN 04/12/1998 VAN vs. PHX L 34 15 7 18 38.9 0 1 0.0 1 1 100.0 4 2 6 2 0 0 2 1 -13
+p45
+aVPete Chilcutt VAN 04/12/1998 VAN vs. PHX L 12 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 1 0 0 1 0 -13
+p46
+aVGeorge Lynch VAN 04/12/1998 VAN vs. PHX L 21 9 4 7 57.1 0 1 0.0 1 1 100.0 2 2 4 0 0 1 0 1 -14
+p47
+aVLarry Robinson VAN 04/12/1998 VAN vs. PHX L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 3 0 0 0 0
+p48
+aVLee Mayberry VAN 04/12/1998 VAN vs. PHX L 35 9 4 9 44.4 1 4 25.0 0 0 - 1 0 1 8 2 0 2 4 -11
+p49
+aVAntonio Daniels VAN 04/12/1998 VAN vs. PHX L 34 23 10 16 62.5 1 2 50.0 2 2 100.0 0 1 1 5 1 0 0 0 -11
+p50
+aVTony Massenburg VAN 04/12/1998 VAN vs. PHX L 33 12 3 7 42.9 0 0 - 6 8 75.0 1 11 12 2 2 0 3 3 -20
+p51
+aVBobby Hurley VAN 04/12/1998 VAN vs. PHX L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 1 2 -12
+p52
+aVBlue Edwards VAN 04/11/1998 VAN vs. POR W 44 27 7 16 43.8 2 4 50.0 11 12 91.7 1 4 5 6 3 0 3 3 21
+p53
+aVPete Chilcutt VAN 04/11/1998 VAN vs. POR W 21 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 -6
+p54
+aVBobby Hurley VAN 04/11/1998 VAN vs. POR W 12 0 0 4 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -17
+p55
+aVIvano Newbill VAN 04/11/1998 VAN vs. POR W 14 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 2 0 1 3 -8
+p56
+aVGeorge Lynch VAN 04/11/1998 VAN vs. POR W 13 5 2 9 22.2 0 0 - 1 1 100.0 1 2 3 1 1 1 0 3 -7
+p57
+aVMichael Smith VAN 04/11/1998 VAN vs. POR W 33 6 2 3 66.7 0 0 - 2 2 100.0 6 4 10 5 1 0 1 1 21
+p58
+aVTony Massenburg VAN 04/11/1998 VAN vs. POR W 36 22 8 20 40.0 0 0 - 6 9 66.7 6 1 7 0 0 0 2 4 9
+p59
+aVLee Mayberry VAN 04/11/1998 VAN vs. POR W 41 11 3 5 60.0 2 3 66.7 3 3 100.0 0 3 3 10 2 0 2 2 26
+p60
+aVAntonio Daniels VAN 04/11/1998 VAN vs. POR W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -11
+p61
+aVShareef Abdur-Rahim VAN 04/11/1998 VAN vs. POR W 45 31 15 30 50.0 1 3 33.3 0 0 - 3 6 9 0 4 4 3 1 17
+p62
+aVLee Mayberry VAN 04/08/1998 VAN @ LAL L 29 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 4 1 0 2 4 1
+p63
+aVTony Massenburg VAN 04/08/1998 VAN @ LAL L 22 13 4 9 44.4 0 0 - 5 8 62.5 3 7 10 1 1 2 2 3 -7
+p64
+aVGeorge Lynch VAN 04/08/1998 VAN @ LAL L 22 8 4 7 57.1 0 1 0.0 0 1 0.0 2 4 6 2 0 0 1 5 -14
+p65
+aVLarry Robinson VAN 04/08/1998 VAN @ LAL L 3 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p66
+aVBobby Hurley VAN 04/08/1998 VAN @ LAL L 19 6 3 6 50.0 0 0 - 0 0 - 0 1 1 4 0 0 2 0 -12
+p67
+aVMichael Smith VAN 04/08/1998 VAN @ LAL L 20 7 2 6 33.3 0 0 - 3 3 100.0 1 4 5 1 0 0 1 4 -7
+p68
+aVBryant Reeves VAN 04/08/1998 VAN @ LAL L 21 6 3 11 27.3 0 0 - 0 0 - 2 5 7 2 0 1 0 2 -8
+p69
+aVPete Chilcutt VAN 04/08/1998 VAN @ LAL L 15 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 0 0 1 -4
+p70
+aVShareef Abdur-Rahim VAN 04/08/1998 VAN @ LAL L 35 26 9 23 39.1 0 2 0.0 8 9 88.9 3 3 6 1 3 1 3 3 -4
+p71
+aVIvano Newbill VAN 04/08/1998 VAN @ LAL L 7 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 1 2 3
+p72
+aVBlue Edwards VAN 04/08/1998 VAN @ LAL L 32 20 8 11 72.7 1 1 100.0 3 5 60.0 1 3 4 6 1 0 4 3 -3
+p73
+aVAntonio Daniels VAN 04/08/1998 VAN @ LAL L 16 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 0 2 0 0 0 -1
+p74
+aVAntonio Daniels VAN 04/07/1998 VAN @ LAC W 18 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 3 0 1 0 4
+p75
+aVMichael Smith VAN 04/07/1998 VAN @ LAC W 28 10 4 5 80.0 0 0 - 2 3 66.7 3 2 5 3 1 0 1 2 18
+p76
+aVBlue Edwards VAN 04/07/1998 VAN @ LAC W 30 12 6 17 35.3 0 2 0.0 0 0 - 2 4 6 3 1 0 0 4 12
+p77
+aVBryant Reeves VAN 04/07/1998 VAN @ LAC W 32 25 12 22 54.5 0 0 - 1 1 100.0 5 5 10 2 1 2 2 2 19
+p78
+aVLee Mayberry VAN 04/07/1998 VAN @ LAC W 27 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 8 2 0 0 0 10
+p79
+aVLarry Robinson VAN 04/07/1998 VAN @ LAC W 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p80
+aVPete Chilcutt VAN 04/07/1998 VAN @ LAC W 7 2 0 1 0.0 0 0 - 2 4 50.0 1 2 3 1 0 0 0 2 -9
+p81
+aVBobby Hurley VAN 04/07/1998 VAN @ LAC W 19 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 8 0 0 2 2 10
+p82
+aVGeorge Lynch VAN 04/07/1998 VAN @ LAC W 20 4 2 8 25.0 0 0 - 0 0 - 1 5 6 4 2 0 0 1 7
+p83
+aVShareef Abdur-Rahim VAN 04/07/1998 VAN @ LAC W 38 30 10 21 47.6 2 4 50.0 8 9 88.9 2 9 11 0 1 0 3 3 16
+p84
+aVTony Massenburg VAN 04/07/1998 VAN @ LAC W 19 17 7 13 53.8 0 0 - 3 3 100.0 5 2 7 0 0 0 1 4 -3
+p85
+aVBobby Hurley VAN 04/05/1998 VAN vs. UTA L 11 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 3 1 0 3 1 -15
+p86
+aVAntonio Daniels VAN 04/05/1998 VAN vs. UTA L 21 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 2 3
+p87
+aVLee Mayberry VAN 04/05/1998 VAN vs. UTA L 22 9 2 7 28.6 1 4 25.0 4 4 100.0 0 0 0 2 0 0 1 3 0
+p88
+aVShareef Abdur-Rahim VAN 04/05/1998 VAN vs. UTA L 37 26 9 16 56.3 0 0 - 8 9 88.9 3 6 9 3 0 2 2 5 -3
+p89
+aVBlue Edwards VAN 04/05/1998 VAN vs. UTA L 32 8 2 10 20.0 0 0 - 4 5 80.0 3 1 4 4 1 0 2 1 -1
+p90
+aVMichael Smith VAN 04/05/1998 VAN vs. UTA L 22 4 2 2 100.0 0 0 - 0 1 0.0 1 5 6 1 0 0 1 2 -3
+p91
+aVLarry Robinson VAN 04/05/1998 VAN vs. UTA L 10 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 0 1
+p92
+aVGeorge Lynch VAN 04/05/1998 VAN vs. UTA L 18 8 4 7 57.1 0 1 0.0 0 0 - 3 4 7 0 0 1 2 3 2
+p93
+aVPete Chilcutt VAN 04/05/1998 VAN vs. UTA L 9 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 1 0 1 0 1 -5
+p94
+aVBryant Reeves VAN 04/05/1998 VAN vs. UTA L 42 30 11 19 57.9 0 1 0.0 8 10 80.0 3 3 6 4 1 1 1 3 4
+p95
+aVTony Massenburg VAN 04/05/1998 VAN vs. UTA L 16 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -13
+p96
+aVBryant Reeves VAN 04/03/1998 VAN vs. SEA L 28 11 5 9 55.6 0 0 - 1 3 33.3 2 3 5 2 0 1 5 3 -32
+p97
+aVAntonio Daniels VAN 04/03/1998 VAN vs. SEA L 20 4 2 4 50.0 0 0 - 0 0 - 1 2 3 4 1 0 1 0 -8
+p98
+aVLarry Robinson VAN 04/03/1998 VAN vs. SEA L 12 12 4 6 66.7 2 2 100.0 2 2 100.0 1 5 6 0 0 0 2 0 -7
+p99
+aVLee Mayberry VAN 04/03/1998 VAN vs. SEA L 25 11 4 7 57.1 3 5 60.0 0 0 - 1 2 3 2 0 1 0 1 -30
+p100
+aVIvano Newbill VAN 04/03/1998 VAN vs. SEA L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 5
+p101
+aVTony Massenburg VAN 04/03/1998 VAN vs. SEA L 18 10 4 9 44.4 0 0 - 2 2 100.0 3 1 4 0 3 2 3 2 -16
+p102
+aVPete Chilcutt VAN 04/03/1998 VAN vs. SEA L 26 10 4 8 50.0 2 3 66.7 0 0 - 1 2 3 2 1 1 3 2 -16
+p103
+aVMichael Smith VAN 04/03/1998 VAN vs. SEA L 18 2 1 4 25.0 0 0 - 0 2 0.0 3 2 5 1 0 0 2 3 -21
+p104
+aVBlue Edwards VAN 04/03/1998 VAN vs. SEA L 23 10 4 10 40.0 1 3 33.3 1 1 100.0 0 2 2 5 1 0 0 2 -26
+p105
+aVBobby Hurley VAN 04/03/1998 VAN vs. SEA L 16 0 0 3 0.0 0 0 - 0 0 - 0 1 1 5 1 0 2 3 -9
+p106
+aVShareef Abdur-Rahim VAN 04/03/1998 VAN vs. SEA L 28 19 6 11 54.5 2 2 100.0 5 5 100.0 2 4 6 5 0 1 4 2 -26
+p107
+aVGeorge Lynch VAN 04/03/1998 VAN vs. SEA L 20 7 2 8 25.0 1 2 50.0 2 2 100.0 2 0 2 2 1 1 2 0 -14
+p108
+aVMichael Smith VAN 03/31/1998 VAN vs. DAL L 22 8 4 5 80.0 0 0 - 0 0 - 8 5 13 1 1 0 2 3 -16
+p109
+aVPete Chilcutt VAN 03/31/1998 VAN vs. DAL L 9 1 0 0 - 0 0 - 1 2 50.0 1 1 2 2 1 1 0 0 5
+p110
+aVShareef Abdur-Rahim VAN 03/31/1998 VAN vs. DAL L 39 23 8 15 53.3 0 0 - 7 7 100.0 1 4 5 2 0 1 4 5 -8
+p111
+aVLee Mayberry VAN 03/31/1998 VAN vs. DAL L 19 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 4 -7
+p112
+aVTony Massenburg VAN 03/31/1998 VAN vs. DAL L 22 16 7 10 70.0 0 0 - 2 2 100.0 2 5 7 0 0 1 1 0 17
+p113
+aVLarry Robinson VAN 03/31/1998 VAN vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p114
+aVGeorge Lynch VAN 03/31/1998 VAN vs. DAL L 25 9 4 11 36.4 0 0 - 1 2 50.0 4 9 13 1 1 0 1 4 13
+p115
+aVBlue Edwards VAN 03/31/1998 VAN vs. DAL L 32 13 5 8 62.5 1 3 33.3 2 2 100.0 0 3 3 2 2 1 0 1 0
+p116
+aVBobby Hurley VAN 03/31/1998 VAN vs. DAL L 23 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 9 0 0 2 1 5
+p117
+aVBryant Reeves VAN 03/31/1998 VAN vs. DAL L 26 17 7 15 46.7 0 0 - 3 5 60.0 1 1 2 2 0 1 3 4 -20
+p118
+aVAntonio Daniels VAN 03/31/1998 VAN vs. DAL L 23 6 2 7 28.6 0 1 0.0 2 2 100.0 0 1 1 6 0 0 3 0 -4
+p119
+aVShareef Abdur-Rahim VAN 03/29/1998 VAN @ PHX L 38 30 12 23 52.2 2 2 100.0 4 4 100.0 6 6 12 2 3 1 1 4 3
+p120
+aVTony Massenburg VAN 03/29/1998 VAN @ PHX L 15 7 2 3 66.7 0 0 - 3 4 75.0 2 3 5 0 0 0 3 4 -5
+p121
+aVBlue Edwards VAN 03/29/1998 VAN @ PHX L 35 19 9 15 60.0 1 4 25.0 0 0 - 4 4 8 4 2 1 4 4 0
+p122
+aVLee Mayberry VAN 03/29/1998 VAN @ PHX L 26 5 2 8 25.0 1 5 20.0 0 0 - 0 2 2 5 1 0 3 2 -11
+p123
+aVGeorge Lynch VAN 03/29/1998 VAN @ PHX L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 3 -11
+p124
+aVMichael Smith VAN 03/29/1998 VAN @ PHX L 27 11 4 7 57.1 0 1 0.0 3 5 60.0 2 3 5 1 1 0 1 1 -1
+p125
+aVAntonio Daniels VAN 03/29/1998 VAN @ PHX L 13 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 2 0 0 1 3 -8
+p126
+aVBryant Reeves VAN 03/29/1998 VAN @ PHX L 38 15 6 9 66.7 0 0 - 3 5 60.0 1 3 4 1 0 0 3 4 -12
+p127
+aVPete Chilcutt VAN 03/29/1998 VAN @ PHX L 15 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 6
+p128
+aVBobby Hurley VAN 03/29/1998 VAN @ PHX L 23 6 2 8 25.0 0 0 - 2 2 100.0 0 0 0 4 0 0 4 2 -1
+p129
+aVShareef Abdur-Rahim VAN 03/27/1998 VAN vs. NYK L 39 19 7 13 53.8 0 0 - 5 6 83.3 3 3 6 1 0 1 2 4 4
+p130
+aVPete Chilcutt VAN 03/27/1998 VAN vs. NYK L 15 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 3 2 0 1 0 -6
+p131
+aVBryant Reeves VAN 03/27/1998 VAN vs. NYK L 49 35 12 24 50.0 0 0 - 11 12 91.7 3 11 14 1 2 2 1 4 -11
+p132
+aVLee Mayberry VAN 03/27/1998 VAN vs. NYK L 35 6 2 8 25.0 2 6 33.3 0 0 - 1 1 2 9 3 0 4 4 2
+p133
+aVAntonio Daniels VAN 03/27/1998 VAN vs. NYK L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p134
+aVTony Massenburg VAN 03/27/1998 VAN vs. NYK L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 3
+p135
+aVBobby Hurley VAN 03/27/1998 VAN vs. NYK L 18 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 2 1 0 1 2 -10
+p136
+aVBlue Edwards VAN 03/27/1998 VAN vs. NYK L 42 18 8 19 42.1 0 2 0.0 2 2 100.0 2 2 4 5 4 0 1 4 -1
+p137
+aVGeorge Lynch VAN 03/27/1998 VAN vs. NYK L 14 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 2 1 -12
+p138
+aVMichael Smith VAN 03/27/1998 VAN vs. NYK L 38 2 0 2 0.0 0 0 - 2 4 50.0 3 7 10 4 2 2 2 3 -2
+p139
+aVShareef Abdur-Rahim VAN 03/26/1998 VAN @ POR L 34 19 6 14 42.9 0 2 0.0 7 7 100.0 1 1 2 4 2 1 2 5 -1
+p140
+aVGeorge Lynch VAN 03/26/1998 VAN @ POR L 14 4 2 7 28.6 0 0 - 0 0 - 2 0 2 0 1 0 0 3 -5
+p141
+aVBlue Edwards VAN 03/26/1998 VAN @ POR L 36 9 4 11 36.4 0 0 - 1 1 100.0 0 1 1 3 1 1 1 1 2
+p142
+aVBobby Hurley VAN 03/26/1998 VAN @ POR L 17 6 2 7 28.6 1 2 50.0 1 2 50.0 0 2 2 4 0 0 2 3 -8
+p143
+aVAntonio Daniels VAN 03/26/1998 VAN @ POR L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -8
+p144
+aVTony Massenburg VAN 03/26/1998 VAN @ POR L 9 4 1 4 25.0 0 0 - 2 4 50.0 0 0 0 1 0 0 2 1 -5
+p145
+aVLee Mayberry VAN 03/26/1998 VAN @ POR L 31 14 5 8 62.5 4 6 66.7 0 0 - 0 2 2 7 0 1 0 2 2
+p146
+aVMichael Smith VAN 03/26/1998 VAN @ POR L 24 4 2 7 28.6 0 0 - 0 2 0.0 4 3 7 3 0 0 0 2 6
+p147
+aVPete Chilcutt VAN 03/26/1998 VAN @ POR L 24 11 4 6 66.7 3 4 75.0 0 0 - 2 5 7 0 0 1 0 5 -12
+p148
+aVBryant Reeves VAN 03/26/1998 VAN @ POR L 39 31 12 19 63.2 0 0 - 7 8 87.5 1 6 7 4 1 1 1 5 -1
+p149
+aVBobby Hurley VAN 03/23/1998 VAN vs. LAC W 27 12 5 6 83.3 0 0 - 2 2 100.0 0 2 2 6 2 0 1 2 13
+p150
+aVSam Mack VAN 03/23/1998 VAN vs. LAC W 23 6 2 13 15.4 2 6 33.3 0 0 - 0 2 2 2 0 0 1 2 0
+p151
+aVBryant Reeves VAN 03/23/1998 VAN vs. LAC W 38 35 14 26 53.8 0 1 0.0 7 8 87.5 5 7 12 4 1 5 3 3 8
+p152
+aVPete Chilcutt VAN 03/23/1998 VAN vs. LAC W 18 0 0 3 0.0 0 2 0.0 0 0 - 1 5 6 1 1 1 2 2 11
+p153
+aVMichael Smith VAN 03/23/1998 VAN vs. LAC W 29 12 5 6 83.3 0 0 - 2 2 100.0 5 13 18 2 0 0 3 0 2
+p154
+aVBlue Edwards VAN 03/23/1998 VAN vs. LAC W 25 11 4 10 40.0 0 0 - 3 3 100.0 2 4 6 3 2 1 1 3 11
+p155
+aVLee Mayberry VAN 03/23/1998 VAN vs. LAC W 22 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 6 1 0 0 1 -4
+p156
+aVGeorge Lynch VAN 03/23/1998 VAN vs. LAC W 20 7 3 11 27.3 0 1 0.0 1 2 50.0 4 4 8 0 1 0 2 3 16
+p157
+aVTony Massenburg VAN 03/23/1998 VAN vs. LAC W 10 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 3
+p158
+aVShareef Abdur-Rahim VAN 03/23/1998 VAN vs. LAC W 28 16 5 11 45.5 0 0 - 6 7 85.7 1 2 3 4 0 1 4 2 -5
+p159
+aVShareef Abdur-Rahim VAN 03/21/1998 VAN @ MIN L 37 31 13 19 68.4 1 1 100.0 4 4 100.0 1 6 7 1 0 0 1 1 -6
+p160
+aVBlue Edwards VAN 03/21/1998 VAN @ MIN L 24 11 5 11 45.5 0 4 0.0 1 2 50.0 1 3 4 4 3 0 1 0 -14
+p161
+aVPete Chilcutt VAN 03/21/1998 VAN @ MIN L 15 6 3 9 33.3 0 3 0.0 0 0 - 1 2 3 1 1 0 0 3 -9
+p162
+aVGeorge Lynch VAN 03/21/1998 VAN @ MIN L 16 8 4 9 44.4 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -15
+p163
+aVTony Massenburg VAN 03/21/1998 VAN @ MIN L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p164
+aVBobby Hurley VAN 03/21/1998 VAN @ MIN L 17 0 0 3 0.0 0 0 - 0 0 - 0 0 0 6 0 0 2 3 -3
+p165
+aVLee Mayberry VAN 03/21/1998 VAN @ MIN L 32 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 9 1 0 1 2 -11
+p166
+aVMichael Smith VAN 03/21/1998 VAN @ MIN L 31 8 3 6 50.0 0 0 - 2 2 100.0 5 7 12 2 1 0 2 2 2
+p167
+aVSam Mack VAN 03/21/1998 VAN @ MIN L 24 8 3 8 37.5 1 2 50.0 1 2 50.0 0 0 0 1 0 0 2 3 0
+p168
+aVBryant Reeves VAN 03/21/1998 VAN @ MIN L 38 10 4 12 33.3 0 0 - 2 2 100.0 3 4 7 2 2 2 1 5 -9
+p169
+aVPete Chilcutt VAN 03/20/1998 VAN @ CHI L 15 4 1 5 20.0 1 5 20.0 1 2 50.0 0 2 2 1 3 0 0 2 -2
+p170
+aVSam Mack VAN 03/20/1998 VAN @ CHI L 33 15 5 12 41.7 5 7 71.4 0 0 - 1 1 2 4 3 0 0 4 -12
+p171
+aVGeorge Lynch VAN 03/20/1998 VAN @ CHI L 25 6 3 10 30.0 0 0 - 0 0 - 6 2 8 3 0 0 1 3 -12
+p172
+aVLee Mayberry VAN 03/20/1998 VAN @ CHI L 32 6 2 8 25.0 2 6 33.3 0 0 - 0 0 0 3 0 0 3 2 2
+p173
+aVTony Massenburg VAN 03/20/1998 VAN @ CHI L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p174
+aVBobby Hurley VAN 03/20/1998 VAN @ CHI L 15 4 2 4 50.0 0 0 - 0 2 0.0 0 1 1 4 1 0 1 3 -6
+p175
+aVMichael Smith VAN 03/20/1998 VAN @ CHI L 24 5 1 2 50.0 0 0 - 3 6 50.0 5 8 13 2 0 0 0 1 5
+p176
+aVShareef Abdur-Rahim VAN 03/20/1998 VAN @ CHI L 34 21 7 18 38.9 0 0 - 7 12 58.3 4 2 6 3 1 1 3 3 0
+p177
+aVBryant Reeves VAN 03/20/1998 VAN @ CHI L 43 30 11 23 47.8 0 0 - 8 9 88.9 4 4 8 4 1 1 3 4 -2
+p178
+aVAntonio Daniels VAN 03/20/1998 VAN @ CHI L 14 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 0 1 3 1
+p179
+aVMichael Smith VAN 03/18/1998 VAN @ MIA L 25 4 2 3 66.7 0 0 - 0 2 0.0 0 3 3 2 1 1 1 0 -2
+p180
+aVSam Mack VAN 03/18/1998 VAN @ MIA L 28 17 6 12 50.0 3 6 50.0 2 2 100.0 2 1 3 2 2 0 2 1 -6
+p181
+aVLee Mayberry VAN 03/18/1998 VAN @ MIA L 29 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 2 1 0 2 2 -1
+p182
+aVTony Massenburg VAN 03/18/1998 VAN @ MIA L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 4 0
+p183
+aVShareef Abdur-Rahim VAN 03/18/1998 VAN @ MIA L 34 21 6 18 33.3 0 0 - 9 9 100.0 1 5 6 2 0 1 2 4 -1
+p184
+aVBryant Reeves VAN 03/18/1998 VAN @ MIA L 39 20 9 16 56.3 0 0 - 2 2 100.0 4 5 9 2 2 1 0 4 -2
+p185
+aVGeorge Lynch VAN 03/18/1998 VAN @ MIA L 23 12 4 7 57.1 0 0 - 4 4 100.0 4 4 8 3 0 1 0 1 2
+p186
+aVPete Chilcutt VAN 03/18/1998 VAN @ MIA L 11 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -2
+p187
+aVBlue Edwards VAN 03/18/1998 VAN @ MIA L 24 6 3 6 50.0 0 1 0.0 0 2 0.0 2 3 5 1 0 0 3 4 -1
+p188
+aVBobby Hurley VAN 03/18/1998 VAN @ MIA L 19 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 5 1 0 1 2 -2
+p189
+aVShareef Abdur-Rahim VAN 03/17/1998 VAN @ ORL L 32 15 5 14 35.7 0 1 0.0 5 5 100.0 2 2 4 1 0 0 3 4 -5
+p190
+aVLee Mayberry VAN 03/17/1998 VAN @ ORL L 32 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 3 1 0 1 4 -6
+p191
+aVTony Massenburg VAN 03/17/1998 VAN @ ORL L 17 13 4 5 80.0 0 0 - 5 6 83.3 0 5 5 0 0 0 1 2 -2
+p192
+aVBlue Edwards VAN 03/17/1998 VAN @ ORL L 29 19 6 10 60.0 0 0 - 7 8 87.5 3 4 7 2 1 0 4 1 -4
+p193
+aVBryant Reeves VAN 03/17/1998 VAN @ ORL L 31 17 8 17 47.1 0 0 - 1 3 33.3 4 7 11 1 0 0 1 4 -7
+p194
+aVPete Chilcutt VAN 03/17/1998 VAN @ ORL L 23 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 1 3 -1
+p195
+aVMichael Smith VAN 03/17/1998 VAN @ ORL L 24 12 5 10 50.0 0 0 - 2 2 100.0 3 5 8 1 0 0 0 3 -5
+p196
+aVBobby Hurley VAN 03/17/1998 VAN @ ORL L 16 3 0 1 0.0 0 1 0.0 3 4 75.0 1 0 1 1 0 0 1 0 0
+p197
+aVSam Mack VAN 03/17/1998 VAN @ ORL L 19 5 2 8 25.0 1 5 20.0 0 0 - 0 1 1 2 0 0 0 2 -3
+p198
+aVGeorge Lynch VAN 03/17/1998 VAN @ ORL L 16 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 1 0 1 3 -2
+p199
+aVAntonio Daniels VAN 03/15/1998 VAN vs. LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 5
+p200
+aVShareef Abdur-Rahim VAN 03/15/1998 VAN vs. LAL L 35 23 8 13 61.5 2 2 100.0 5 8 62.5 3 5 8 4 2 3 4 4 -3
+p201
+aVLee Mayberry VAN 03/15/1998 VAN vs. LAL L 28 8 3 5 60.0 2 4 50.0 0 0 - 0 0 0 7 1 0 0 2 -1
+p202
+aVPete Chilcutt VAN 03/15/1998 VAN vs. LAL L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 -19
+p203
+aVBryant Reeves VAN 03/15/1998 VAN vs. LAL L 40 24 9 18 50.0 0 0 - 6 6 100.0 2 5 7 4 2 1 1 5 -3
+p204
+aVTony Massenburg VAN 03/15/1998 VAN vs. LAL L 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -10
+p205
+aVGeorge Lynch VAN 03/15/1998 VAN vs. LAL L 15 5 1 1 100.0 0 0 - 3 6 50.0 1 3 4 1 0 1 2 0 -7
+p206
+aVIvano Newbill VAN 03/15/1998 VAN vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p207
+aVMichael Smith VAN 03/15/1998 VAN vs. LAL L 25 1 0 1 0.0 0 0 - 1 2 50.0 1 5 6 3 1 0 1 4 6
+p208
+aVBlue Edwards VAN 03/15/1998 VAN vs. LAL L 19 15 5 8 62.5 1 1 100.0 4 4 100.0 1 0 1 1 1 0 2 3 6
+p209
+aVSam Mack VAN 03/15/1998 VAN vs. LAL L 34 20 7 17 41.2 4 7 57.1 2 2 100.0 0 1 1 1 1 0 0 2 -10
+p210
+aVBobby Hurley VAN 03/15/1998 VAN vs. LAL L 17 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 5 0 0 2 3 -13
+p211
+aVGeorge Lynch VAN 03/13/1998 VAN @ UTA L 15 4 1 6 16.7 0 1 0.0 2 2 100.0 2 1 3 1 1 0 1 3 6
+p212
+aVTony Massenburg VAN 03/13/1998 VAN @ UTA L 19 5 2 4 50.0 0 0 - 1 2 50.0 1 5 6 0 0 0 0 5 5
+p213
+aVBlue Edwards VAN 03/13/1998 VAN @ UTA L 20 7 1 7 14.3 0 2 0.0 5 5 100.0 0 0 0 0 0 0 2 1 2
+p214
+aVBryant Reeves VAN 03/13/1998 VAN @ UTA L 41 23 8 18 44.4 0 0 - 7 8 87.5 6 6 12 2 0 1 1 3 -8
+p215
+aVMichael Smith VAN 03/13/1998 VAN @ UTA L 20 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 1 0 0 1 -12
+p216
+aVBobby Hurley VAN 03/13/1998 VAN @ UTA L 28 17 6 12 50.0 0 0 - 5 6 83.3 2 1 3 2 0 0 1 2 -1
+p217
+aVLee Mayberry VAN 03/13/1998 VAN @ UTA L 20 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 4 0 0 0 4 -10
+p218
+aVPete Chilcutt VAN 03/13/1998 VAN @ UTA L 16 12 4 7 57.1 2 3 66.7 2 2 100.0 2 1 3 1 2 0 1 4 -7
+p219
+aVShareef Abdur-Rahim VAN 03/13/1998 VAN @ UTA L 33 19 5 12 41.7 0 0 - 9 12 75.0 2 2 4 5 1 0 1 1 -17
+p220
+aVSam Mack VAN 03/13/1998 VAN @ UTA L 28 6 3 11 27.3 0 4 0.0 0 0 - 0 2 2 3 2 0 0 4 -13
+p221
+aVShareef Abdur-Rahim VAN 03/12/1998 VAN @ DEN L 39 17 7 10 70.0 0 0 - 3 4 75.0 1 2 3 0 1 0 3 2 9
+p222
+aVBlue Edwards VAN 03/12/1998 VAN @ DEN L 14 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 1 2 0 2 2 -14
+p223
+aVSam Mack VAN 03/12/1998 VAN @ DEN L 36 19 6 13 46.2 3 7 42.9 4 4 100.0 2 4 6 2 0 0 2 4 4
+p224
+aVBryant Reeves VAN 03/12/1998 VAN @ DEN L 38 18 6 15 40.0 0 0 - 6 10 60.0 3 3 6 2 0 4 5 1 -13
+p225
+aVGeorge Lynch VAN 03/12/1998 VAN @ DEN L 8 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -9
+p226
+aVBobby Hurley VAN 03/12/1998 VAN @ DEN L 13 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 2 -11
+p227
+aVLee Mayberry VAN 03/12/1998 VAN @ DEN L 30 11 3 6 50.0 3 5 60.0 2 2 100.0 0 3 3 9 1 0 1 1 10
+p228
+aVPete Chilcutt VAN 03/12/1998 VAN @ DEN L 21 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 1 0 0 0 2 1
+p229
+aVMichael Smith VAN 03/12/1998 VAN @ DEN L 23 6 2 3 66.7 0 0 - 2 3 66.7 0 4 4 6 1 0 2 2 -4
+p230
+aVAntonio Daniels VAN 03/12/1998 VAN @ DEN L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 2 0 -4
+p231
+aVTony Massenburg VAN 03/12/1998 VAN @ DEN L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 4 4 2 0 3 2 1 6
+p232
+aVShareef Abdur-Rahim VAN 03/08/1998 VAN vs. TOR W 34 19 5 11 45.5 1 1 100.0 8 8 100.0 2 5 7 1 1 1 4 0 0
+p233
+aVTony Massenburg VAN 03/08/1998 VAN vs. TOR W 6 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -9
+p234
+aVLee Mayberry VAN 03/08/1998 VAN vs. TOR W 27 4 1 3 33.3 0 2 0.0 2 2 100.0 0 0 0 7 2 0 2 0 9
+p235
+aVPete Chilcutt VAN 03/08/1998 VAN vs. TOR W 21 6 1 1 100.0 0 0 - 4 4 100.0 2 2 4 1 1 0 0 3 3
+p236
+aVSam Mack VAN 03/08/1998 VAN vs. TOR W 31 11 4 10 40.0 2 6 33.3 1 2 50.0 0 3 3 3 0 1 4 0 12
+p237
+aVBobby Hurley VAN 03/08/1998 VAN vs. TOR W 21 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 3 0 0 3 1 -2
+p238
+aVMichael Smith VAN 03/08/1998 VAN vs. TOR W 26 9 2 6 33.3 0 0 - 5 8 62.5 4 4 8 3 0 0 1 2 -1
+p239
+aVBlue Edwards VAN 03/08/1998 VAN vs. TOR W 17 0 0 7 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 -5
+p240
+aVBryant Reeves VAN 03/08/1998 VAN vs. TOR W 37 38 12 18 66.7 0 0 - 14 18 77.8 6 5 11 2 1 2 2 2 22
+p241
+aVGeorge Lynch VAN 03/08/1998 VAN vs. TOR W 21 15 6 9 66.7 0 0 - 3 3 100.0 5 5 10 3 1 1 0 5 6
+p242
+aVGeorge Lynch VAN 03/06/1998 VAN vs. SAC L 16 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 1 2 1 2 -1
+p243
+aVAntonio Daniels VAN 03/06/1998 VAN vs. SAC L 15 2 1 4 25.0 0 0 - 0 0 - 0 0 0 4 1 0 3 0 -5
+p244
+aVSam Mack VAN 03/06/1998 VAN vs. SAC L 27 9 4 11 36.4 1 6 16.7 0 2 0.0 0 1 1 3 1 0 2 3 -2
+p245
+aVShareef Abdur-Rahim VAN 03/06/1998 VAN vs. SAC L 35 30 12 19 63.2 0 1 0.0 6 8 75.0 4 6 10 6 0 2 2 3 1
+p246
+aVBlue Edwards VAN 03/06/1998 VAN vs. SAC L 21 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 2 0 0 3 4 0
+p247
+aVLee Mayberry VAN 03/06/1998 VAN vs. SAC L 33 8 3 7 42.9 1 4 25.0 1 2 50.0 0 1 1 5 1 0 1 4 3
+p248
+aVBryant Reeves VAN 03/06/1998 VAN vs. SAC L 40 26 11 17 64.7 0 0 - 4 5 80.0 1 5 6 3 0 1 3 5 -5
+p249
+aVPete Chilcutt VAN 03/06/1998 VAN vs. SAC L 22 3 1 5 20.0 1 3 33.3 0 0 - 1 3 4 1 0 0 0 2 4
+p250
+aVMichael Smith VAN 03/06/1998 VAN vs. SAC L 22 2 1 2 50.0 0 0 - 0 0 - 5 3 8 1 1 0 0 2 -12
+p251
+aVTony Massenburg VAN 03/06/1998 VAN vs. SAC L 9 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 7
+p252
+aVBryant Reeves VAN 03/03/1998 VAN vs. IND L 31 21 10 19 52.6 0 0 - 1 2 50.0 2 5 7 3 0 1 4 6 0
+p253
+aVSam Mack VAN 03/03/1998 VAN vs. IND L 32 16 7 16 43.8 2 7 28.6 0 0 - 1 1 2 1 1 0 0 3 -5
+p254
+aVShareef Abdur-Rahim VAN 03/03/1998 VAN vs. IND L 36 27 7 16 43.8 0 1 0.0 13 14 92.9 4 5 9 1 0 0 3 4 -4
+p255
+aVPete Chilcutt VAN 03/03/1998 VAN vs. IND L 18 8 2 6 33.3 2 3 66.7 2 2 100.0 0 4 4 0 1 1 0 5 -11
+p256
+aVAntonio Daniels VAN 03/03/1998 VAN vs. IND L 22 5 1 3 33.3 0 1 0.0 3 4 75.0 1 0 1 5 0 0 4 3 -8
+p257
+aVIvano Newbill VAN 03/03/1998 VAN vs. IND L 16 8 2 3 66.7 0 0 - 4 5 80.0 4 1 5 1 0 0 3 2 -10
+p258
+aVBlue Edwards VAN 03/03/1998 VAN vs. IND L 18 6 1 4 25.0 0 2 0.0 4 4 100.0 0 0 0 2 1 0 1 3 -3
+p259
+aVLee Mayberry VAN 03/03/1998 VAN vs. IND L 26 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 6 1 0 1 4 0
+p260
+aVGeorge Lynch VAN 03/03/1998 VAN vs. IND L 17 3 1 1 100.0 0 0 - 1 2 50.0 0 5 5 4 0 0 1 2 1
+p261
+aVMichael Smith VAN 03/03/1998 VAN vs. IND L 24 6 3 5 60.0 0 0 - 0 0 - 1 4 5 2 2 0 0 2 0
+p262
+aVLee Mayberry VAN 03/01/1998 VAN vs. ATL L 32 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 4 1 1 3 0 -22
+p263
+aVGeorge Lynch VAN 03/01/1998 VAN vs. ATL L 26 7 2 9 22.2 0 1 0.0 3 4 75.0 1 4 5 2 2 1 2 4 -8
+p264
+aVAntonio Daniels VAN 03/01/1998 VAN vs. ATL L 29 14 6 14 42.9 1 3 33.3 1 4 25.0 0 1 1 3 2 0 4 0 -15
+p265
+aVTony Massenburg VAN 03/01/1998 VAN vs. ATL L 10 2 0 5 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 2 4
+p266
+aVIvano Newbill VAN 03/01/1998 VAN vs. ATL L 9 2 0 2 0.0 0 0 - 2 4 50.0 2 3 5 1 0 0 1 0 12
+p267
+aVBryant Reeves VAN 03/01/1998 VAN vs. ATL L 30 16 8 14 57.1 0 0 - 0 0 - 4 6 10 1 0 2 2 4 -17
+p268
+aVMichael Smith VAN 03/01/1998 VAN vs. ATL L 23 2 1 4 25.0 0 0 - 0 0 - 4 4 8 1 1 1 0 4 -22
+p269
+aVShareef Abdur-Rahim VAN 03/01/1998 VAN vs. ATL L 31 10 4 14 28.6 0 1 0.0 2 4 50.0 6 3 9 5 0 2 3 2 -23
+p270
+aVBlue Edwards VAN 03/01/1998 VAN vs. ATL L 23 4 2 10 20.0 0 1 0.0 0 0 - 0 3 3 2 1 0 2 1 -16
+p271
+aVPete Chilcutt VAN 03/01/1998 VAN vs. ATL L 27 16 6 9 66.7 3 5 60.0 1 2 50.0 1 4 5 1 0 0 1 3 -18
+p272
+aVTony Massenburg VAN 02/25/1998 VAN @ CLE L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 0 1 2 4 -11
+p273
+aVBobby Hurley VAN 02/25/1998 VAN @ CLE L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p274
+aVAntonio Daniels VAN 02/25/1998 VAN @ CLE L 27 6 3 8 37.5 0 0 - 0 0 - 0 1 1 5 1 0 1 0 -9
+p275
+aVShareef Abdur-Rahim VAN 02/25/1998 VAN @ CLE L 26 11 3 7 42.9 0 0 - 5 6 83.3 1 5 6 4 1 0 6 1 -4
+p276
+aVBlue Edwards VAN 02/25/1998 VAN @ CLE L 25 9 3 7 42.9 2 4 50.0 1 3 33.3 0 1 1 3 0 0 1 5 -1
+p277
+aVPete Chilcutt VAN 02/25/1998 VAN @ CLE L 31 14 6 9 66.7 2 3 66.7 0 0 - 0 7 7 2 3 2 2 2 -4
+p278
+aVLee Mayberry VAN 02/25/1998 VAN @ CLE L 39 9 4 7 57.1 1 3 33.3 0 2 0.0 0 4 4 8 2 0 1 1 -1
+p279
+aVMichael Smith VAN 02/25/1998 VAN @ CLE L 17 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 2 2 0 2 2 -1
+p280
+aVGeorge Lynch VAN 02/25/1998 VAN @ CLE L 22 16 7 11 63.6 0 0 - 2 3 66.7 3 1 4 2 2 0 1 0 -1
+p281
+aVBryant Reeves VAN 02/25/1998 VAN @ CLE L 35 29 11 20 55.0 0 0 - 7 12 58.3 3 5 8 3 1 2 2 4 6
+p282
+aVTony Massenburg VAN 02/24/1998 VAN @ NJN L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -5
+p283
+aVMichael Smith VAN 02/24/1998 VAN @ NJN L 29 12 5 11 45.5 0 0 - 2 3 66.7 6 5 11 2 2 0 1 1 -1
+p284
+aVBryant Reeves VAN 02/24/1998 VAN @ NJN L 40 31 12 19 63.2 0 0 - 7 9 77.8 5 10 15 2 1 2 4 4 1
+p285
+aVLee Mayberry VAN 02/24/1998 VAN @ NJN L 32 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 7 0 0 2 2 -2
+p286
+aVBobby Hurley VAN 02/24/1998 VAN @ NJN L 16 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -7
+p287
+aVGeorge Lynch VAN 02/24/1998 VAN @ NJN L 16 6 3 6 50.0 0 1 0.0 0 0 - 2 0 2 1 1 0 1 1 -14
+p288
+aVBlue Edwards VAN 02/24/1998 VAN @ NJN L 32 9 3 16 18.8 0 2 0.0 3 3 100.0 2 2 4 3 1 0 1 3 -4
+p289
+aVAntonio Daniels VAN 02/24/1998 VAN @ NJN L 16 0 0 4 0.0 0 0 - 0 0 - 0 1 1 2 1 0 2 0 -5
+p290
+aVPete Chilcutt VAN 02/24/1998 VAN @ NJN L 18 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 0 0 0 1 2 -6
+p291
+aVShareef Abdur-Rahim VAN 02/24/1998 VAN @ NJN L 36 26 10 24 41.7 0 0 - 6 8 75.0 4 4 8 2 1 2 1 5 -2
+p292
+aVMichael Smith VAN 02/22/1998 VAN @ TOR L 21 6 3 5 60.0 0 0 - 0 0 - 5 3 8 3 1 0 2 3 -12
+p293
+aVPete Chilcutt VAN 02/22/1998 VAN @ TOR L 31 17 7 11 63.6 3 6 50.0 0 0 - 3 2 5 3 1 2 0 4 5
+p294
+aVGeorge Lynch VAN 02/22/1998 VAN @ TOR L 19 13 6 9 66.7 0 0 - 1 1 100.0 4 1 5 3 0 0 1 1 2
+p295
+aVShareef Abdur-Rahim VAN 02/22/1998 VAN @ TOR L 34 22 6 17 35.3 0 3 0.0 10 15 66.7 3 4 7 1 0 1 1 4 -11
+p296
+aVAntonio Daniels VAN 02/22/1998 VAN @ TOR L 23 11 4 7 57.1 1 1 100.0 2 2 100.0 0 2 2 5 0 0 3 2 -17
+p297
+aVBlue Edwards VAN 02/22/1998 VAN @ TOR L 39 12 5 18 27.8 0 3 0.0 2 2 100.0 5 3 8 9 3 0 4 1 1
+p298
+aVBobby Hurley VAN 02/22/1998 VAN @ TOR L 14 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 1 0 3 1 -15
+p299
+aVTony Massenburg VAN 02/22/1998 VAN @ TOR L 14 4 2 7 28.6 0 0 - 0 0 - 2 1 3 0 0 2 3 3 -9
+p300
+aVBryant Reeves VAN 02/22/1998 VAN @ TOR L 38 9 3 13 23.1 0 0 - 3 9 33.3 5 6 11 2 2 3 1 5 1
+p301
+aVLee Mayberry VAN 02/22/1998 VAN @ TOR L 30 9 3 8 37.5 3 6 50.0 0 0 - 1 2 3 5 1 1 2 6 15
+p302
+aVBlue Edwards VAN 02/20/1998 VAN @ ATL L 20 6 2 5 40.0 0 1 0.0 2 2 100.0 1 3 4 2 0 0 2 2 3
+p303
+aVAntonio Daniels VAN 02/20/1998 VAN @ ATL L 26 6 2 8 25.0 0 0 - 2 4 50.0 1 4 5 2 0 0 2 2 -22
+p304
+aVBobby Hurley VAN 02/20/1998 VAN @ ATL L 8 4 2 2 100.0 0 0 - 0 0 - 0 2 2 4 0 0 0 1 12
+p305
+aVSam Mack VAN 02/20/1998 VAN @ ATL L 24 8 3 10 30.0 1 5 20.0 1 1 100.0 0 1 1 2 0 0 1 3 -29
+p306
+aVTony Massenburg VAN 02/20/1998 VAN @ ATL L 19 11 4 9 44.4 0 0 - 3 4 75.0 5 0 5 0 0 0 2 3 -26
+p307
+aVShareef Abdur-Rahim VAN 02/20/1998 VAN @ ATL L 36 18 7 16 43.8 0 1 0.0 4 6 66.7 4 2 6 3 0 1 7 1 -14
+p308
+aVLee Mayberry VAN 02/20/1998 VAN @ ATL L 18 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 2 1 0 3 0 -10
+p309
+aVPete Chilcutt VAN 02/20/1998 VAN @ ATL L 20 4 2 7 28.6 0 3 0.0 0 2 0.0 0 7 7 1 2 0 0 2 -6
+p310
+aVMichael Smith VAN 02/20/1998 VAN @ ATL L 17 14 4 6 66.7 0 0 - 6 7 85.7 2 2 4 0 2 0 1 2 -1
+p311
+aVBryant Reeves VAN 02/20/1998 VAN @ ATL L 32 14 7 13 53.8 0 0 - 0 0 - 5 6 11 0 1 1 5 3 -25
+p312
+aVGeorge Lynch VAN 02/20/1998 VAN @ ATL L 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 2 2 0 3
+p313
+aVAntonio Daniels VAN 02/18/1998 VAN vs. BOS L 30 4 2 7 28.6 0 0 - 0 2 0.0 1 3 4 5 0 1 4 0 -6
+p314
+aVShareef Abdur-Rahim VAN 02/18/1998 VAN vs. BOS L 40 25 11 17 64.7 0 1 0.0 3 3 100.0 4 4 8 4 0 0 5 4 -12
+p315
+aVTony Massenburg VAN 02/18/1998 VAN vs. BOS L 15 4 2 5 40.0 0 0 - 0 0 - 2 5 7 0 0 0 2 1 -12
+p316
+aVSam Mack VAN 02/18/1998 VAN vs. BOS L 38 27 10 18 55.6 5 12 41.7 2 3 66.7 1 5 6 5 3 0 0 4 -2
+p317
+aVBlue Edwards VAN 02/18/1998 VAN vs. BOS L 26 21 7 14 50.0 2 4 50.0 5 5 100.0 2 3 5 7 2 2 2 3 -1
+p318
+aVLee Mayberry VAN 02/18/1998 VAN vs. BOS L 23 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 4 -1
+p319
+aVGeorge Lynch VAN 02/18/1998 VAN vs. BOS L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 4 1 1 3 5 -6
+p320
+aVBryant Reeves VAN 02/18/1998 VAN vs. BOS L 30 22 9 12 75.0 0 0 - 4 5 80.0 1 5 6 1 0 1 2 6 -4
+p321
+aVPete Chilcutt VAN 02/18/1998 VAN vs. BOS L 19 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 2 0 0 2 2 -1
+p322
+aVBryant Reeves VAN 02/14/1998 VAN vs. WAS W 31 22 8 12 66.7 0 0 - 6 10 60.0 5 7 12 2 0 3 2 0 9
+p323
+aVSam Mack VAN 02/14/1998 VAN vs. WAS W 33 16 7 14 50.0 2 6 33.3 0 0 - 0 4 4 3 1 0 1 1 18
+p324
+aVAntonio Daniels VAN 02/14/1998 VAN vs. WAS W 36 13 6 10 60.0 0 0 - 1 3 33.3 0 5 5 8 1 0 7 1 -11
+p325
+aVGeorge Lynch VAN 02/14/1998 VAN vs. WAS W 18 3 1 6 16.7 0 0 - 1 2 50.0 2 2 4 1 0 2 2 4 -11
+p326
+aVOtis Thorpe VAN 02/14/1998 VAN vs. WAS W 31 8 4 11 36.4 0 0 - 0 2 0.0 2 4 6 3 0 0 3 2 6
+p327
+aVShareef Abdur-Rahim VAN 02/14/1998 VAN vs. WAS W 37 21 8 13 61.5 0 0 - 5 6 83.3 4 8 12 2 0 1 3 3 4
+p328
+aVLee Mayberry VAN 02/14/1998 VAN vs. WAS W 18 0 0 0 - 0 0 - 0 0 - 0 1 1 5 2 1 0 0 10
+p329
+aVPete Chilcutt VAN 02/14/1998 VAN vs. WAS W 19 5 2 2 100.0 1 1 100.0 0 0 - 0 4 4 0 2 1 2 1 5
+p330
+aVTony Massenburg VAN 02/14/1998 VAN vs. WAS W 17 2 1 2 50.0 0 0 - 0 0 - 1 7 8 1 1 0 1 2 -6
+p331
+aVBlue Edwards VAN 02/14/1998 VAN vs. WAS W 25 20 9 14 64.3 0 1 0.0 2 2 100.0 1 2 3 3 1 0 2 2 -14
+p332
+aVShareef Abdur-Rahim VAN 02/12/1998 VAN vs. HOU L 32 16 4 12 33.3 0 0 - 8 9 88.9 4 6 10 5 2 1 4 2 -12
+p333
+aVGeorge Lynch VAN 02/12/1998 VAN vs. HOU L 16 12 6 6 100.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 3
+p334
+aVOtis Thorpe VAN 02/12/1998 VAN vs. HOU L 39 10 3 7 42.9 0 0 - 4 4 100.0 2 7 9 1 1 0 0 3 -16
+p335
+aVSam Mack VAN 02/12/1998 VAN vs. HOU L 25 9 3 5 60.0 2 2 100.0 1 1 100.0 0 1 1 3 1 0 2 2 -5
+p336
+aVPete Chilcutt VAN 02/12/1998 VAN vs. HOU L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p337
+aVBryant Reeves VAN 02/12/1998 VAN vs. HOU L 32 12 5 10 50.0 0 0 - 2 2 100.0 1 7 8 0 0 0 5 3 -10
+p338
+aVBlue Edwards VAN 02/12/1998 VAN vs. HOU L 24 13 5 10 50.0 1 2 50.0 2 2 100.0 0 1 1 2 1 1 4 2 -6
+p339
+aVTony Massenburg VAN 02/12/1998 VAN vs. HOU L 17 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 0 1 0 2 3 13
+p340
+aVLee Mayberry VAN 02/12/1998 VAN vs. HOU L 15 6 2 5 40.0 2 2 100.0 0 0 - 0 0 0 4 0 0 0 2 12
+p341
+aVAntonio Daniels VAN 02/12/1998 VAN vs. HOU L 33 15 7 11 63.6 0 0 - 1 2 50.0 1 1 2 9 1 0 3 3 -21
+p342
+aVBlue Edwards VAN 02/05/1998 VAN @ CHH L 16 12 3 5 60.0 0 0 - 6 6 100.0 0 1 1 2 0 0 1 1 8
+p343
+aVChris Robinson VAN 02/05/1998 VAN @ CHH L 12 0 0 5 0.0 0 0 - 0 0 - 0 1 1 4 1 0 1 0 6
+p344
+aVIvano Newbill VAN 02/05/1998 VAN @ CHH L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p345
+aVSam Mack VAN 02/05/1998 VAN @ CHH L 20 4 2 8 25.0 0 4 0.0 0 0 - 0 1 1 1 1 0 3 1 -29
+p346
+aVOtis Thorpe VAN 02/05/1998 VAN @ CHH L 29 8 4 11 36.4 0 0 - 0 1 0.0 1 4 5 1 1 0 2 6 -13
+p347
+aVGeorge Lynch VAN 02/05/1998 VAN @ CHH L 20 5 2 7 28.6 0 2 0.0 1 2 50.0 3 1 4 2 1 0 2 3 -5
+p348
+aVBryant Reeves VAN 02/05/1998 VAN @ CHH L 21 7 3 4 75.0 0 0 - 1 2 50.0 2 4 6 1 0 0 0 6 -26
+p349
+aVAntonio Daniels VAN 02/05/1998 VAN @ CHH L 21 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 4 1 0 4 0 -23
+p350
+aVTony Massenburg VAN 02/05/1998 VAN @ CHH L 24 16 7 12 58.3 0 0 - 2 2 100.0 4 5 9 0 0 0 0 2 1
+p351
+aVShareef Abdur-Rahim VAN 02/05/1998 VAN @ CHH L 28 19 7 8 87.5 1 1 100.0 4 6 66.7 1 3 4 3 2 1 4 1 -10
+p352
+aVPete Chilcutt VAN 02/05/1998 VAN @ CHH L 20 6 2 5 40.0 2 3 66.7 0 0 - 0 6 6 2 0 0 0 2 7
+p353
+aVLee Mayberry VAN 02/05/1998 VAN @ CHH L 27 13 4 8 50.0 3 4 75.0 2 3 66.7 0 1 1 4 1 0 2 1 8
+p354
+aVAntonio Daniels VAN 02/03/1998 VAN @ HOU L 29 10 5 17 29.4 0 0 - 0 2 0.0 1 4 5 3 0 0 1 1 -14
+p355
+aVSam Mack VAN 02/03/1998 VAN @ HOU L 31 11 4 7 57.1 1 3 33.3 2 2 100.0 1 2 3 0 1 0 0 2 -14
+p356
+aVBryant Reeves VAN 02/03/1998 VAN @ HOU L 27 6 3 5 60.0 0 0 - 0 0 - 4 4 8 2 1 0 3 5 -11
+p357
+aVBlue Edwards VAN 02/03/1998 VAN @ HOU L 17 3 1 4 25.0 0 0 - 1 1 100.0 1 0 1 2 1 0 0 1 1
+p358
+aVTony Massenburg VAN 02/03/1998 VAN @ HOU L 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 5 -6
+p359
+aVGeorge Lynch VAN 02/03/1998 VAN @ HOU L 17 13 6 12 50.0 0 0 - 1 2 50.0 2 4 6 0 1 1 0 0 -4
+p360
+aVOtis Thorpe VAN 02/03/1998 VAN @ HOU L 35 14 3 8 37.5 0 0 - 8 8 100.0 1 5 6 5 1 0 1 3 -8
+p361
+aVPete Chilcutt VAN 02/03/1998 VAN @ HOU L 20 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 1 0 1 1
+p362
+aVShareef Abdur-Rahim VAN 02/03/1998 VAN @ HOU L 34 30 10 18 55.6 1 1 100.0 9 11 81.8 1 1 2 0 1 0 2 1 -11
+p363
+aVLee Mayberry VAN 02/03/1998 VAN @ HOU L 19 8 3 5 60.0 0 1 0.0 2 2 100.0 1 1 2 7 2 0 1 1 1
+p364
+aVChris Robinson VAN 02/02/1998 VAN @ DAL L 10 9 4 5 80.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 0
+p365
+aVPete Chilcutt VAN 02/02/1998 VAN @ DAL L 16 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 2 0 0 2 1 -5
+p366
+aVAntonio Daniels VAN 02/02/1998 VAN @ DAL L 28 15 6 14 42.9 0 3 0.0 3 4 75.0 1 3 4 3 0 0 1 1 -6
+p367
+aVShareef Abdur-Rahim VAN 02/02/1998 VAN @ DAL L 34 9 2 9 22.2 0 0 - 5 5 100.0 4 5 9 2 0 0 3 2 -9
+p368
+aVGeorge Lynch VAN 02/02/1998 VAN @ DAL L 23 13 5 9 55.6 0 0 - 3 3 100.0 5 3 8 2 0 0 2 3 -1
+p369
+aVOtis Thorpe VAN 02/02/1998 VAN @ DAL L 24 6 3 7 42.9 0 0 - 0 0 - 2 3 5 5 1 1 3 3 -17
+p370
+aVBryant Reeves VAN 02/02/1998 VAN @ DAL L 37 19 7 13 53.8 0 0 - 5 6 83.3 3 7 10 1 0 0 1 3 -10
+p371
+aVBlue Edwards VAN 02/02/1998 VAN @ DAL L 23 11 5 8 62.5 1 2 50.0 0 1 0.0 0 2 2 3 0 0 2 1 -6
+p372
+aVLee Mayberry VAN 02/02/1998 VAN @ DAL L 20 3 1 6 16.7 1 4 25.0 0 0 - 1 0 1 2 0 0 1 2 -8
+p373
+aVSam Mack VAN 02/02/1998 VAN @ DAL L 25 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 0 1 0 2 3 -8
+p374
+aVSam Mack VAN 01/31/1998 VAN vs. NJN L 28 6 2 10 20.0 1 4 25.0 1 1 100.0 1 1 2 6 0 0 1 2 -8
+p375
+aVLee Mayberry VAN 01/31/1998 VAN vs. NJN L 23 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 0 2 -4
+p376
+aVPete Chilcutt VAN 01/31/1998 VAN vs. NJN L 21 15 6 7 85.7 3 3 100.0 0 0 - 0 4 4 1 0 2 2 4 5
+p377
+aVGeorge Lynch VAN 01/31/1998 VAN vs. NJN L 16 10 3 3 100.0 0 0 - 4 5 80.0 0 2 2 4 1 0 0 1 11
+p378
+aVShareef Abdur-Rahim VAN 01/31/1998 VAN vs. NJN L 35 26 9 21 42.9 1 2 50.0 7 7 100.0 3 4 7 1 1 1 2 4 -22
+p379
+aVBryant Reeves VAN 01/31/1998 VAN vs. NJN L 35 22 9 14 64.3 0 0 - 4 7 57.1 1 1 2 1 0 0 0 5 -12
+p380
+aVOtis Thorpe VAN 01/31/1998 VAN vs. NJN L 37 17 7 12 58.3 0 0 - 3 4 75.0 8 12 20 6 0 1 4 2 -12
+p381
+aVAntonio Daniels VAN 01/31/1998 VAN vs. NJN L 25 4 2 5 40.0 0 0 - 0 0 - 1 1 2 5 1 0 5 3 -6
+p382
+aVBlue Edwards VAN 01/31/1998 VAN vs. NJN L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 1 1 3 2 -2
+p383
+aVSam Mack VAN 01/29/1998 VAN vs. MIN L 27 17 5 12 41.7 2 6 33.3 5 5 100.0 1 3 4 0 1 2 3 3 3
+p384
+aVLee Mayberry VAN 01/29/1998 VAN vs. MIN L 21 7 3 4 75.0 0 1 0.0 1 1 100.0 0 2 2 5 0 0 0 4 -3
+p385
+aVAntonio Daniels VAN 01/29/1998 VAN vs. MIN L 27 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 6 0 1 3 4 -3
+p386
+aVShareef Abdur-Rahim VAN 01/29/1998 VAN vs. MIN L 38 27 10 24 41.7 1 1 100.0 6 8 75.0 3 2 5 3 2 5 3 1 -7
+p387
+aVBryant Reeves VAN 01/29/1998 VAN vs. MIN L 38 10 5 9 55.6 0 0 - 0 2 0.0 4 5 9 2 1 4 1 4 -1
+p388
+aVOtis Thorpe VAN 01/29/1998 VAN vs. MIN L 34 20 9 13 69.2 0 0 - 2 4 50.0 3 10 13 2 2 2 3 4 -11
+p389
+aVGeorge Lynch VAN 01/29/1998 VAN vs. MIN L 11 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 1 0 0 2 1
+p390
+aVPete Chilcutt VAN 01/29/1998 VAN vs. MIN L 16 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 2 4
+p391
+aVBlue Edwards VAN 01/29/1998 VAN vs. MIN L 21 8 4 13 30.8 0 2 0.0 0 0 - 2 2 4 7 3 0 2 0 -9
+p392
+aVTony Massenburg VAN 01/29/1998 VAN vs. MIN L 7 3 1 1 100.0 0 0 - 1 4 25.0 0 1 1 0 2 0 1 1 -4
+p393
+aVIvano Newbill VAN 01/27/1998 VAN vs. CHI L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p394
+aVTony Massenburg VAN 01/27/1998 VAN vs. CHI L 16 12 6 8 75.0 0 0 - 0 0 - 0 3 3 1 1 0 0 3 2
+p395
+aVBlue Edwards VAN 01/27/1998 VAN vs. CHI L 27 8 4 10 40.0 0 1 0.0 0 0 - 1 4 5 2 1 0 4 2 7
+p396
+aVAntonio Daniels VAN 01/27/1998 VAN vs. CHI L 33 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 4 1 0 2 0 -35
+p397
+aVChris Robinson VAN 01/27/1998 VAN vs. CHI L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p398
+aVSam Mack VAN 01/27/1998 VAN vs. CHI L 18 1 0 6 0.0 0 2 0.0 1 3 33.3 0 1 1 3 0 0 0 1 -20
+p399
+aVShareef Abdur-Rahim VAN 01/27/1998 VAN vs. CHI L 29 16 6 11 54.5 0 0 - 4 4 100.0 1 1 2 1 1 2 4 3 -32
+p400
+aVPete Chilcutt VAN 01/27/1998 VAN vs. CHI L 19 5 1 4 25.0 0 1 0.0 3 3 100.0 2 4 6 0 0 1 0 2 17
+p401
+aVGeorge Lynch VAN 01/27/1998 VAN vs. CHI L 22 11 5 9 55.6 0 0 - 1 2 50.0 1 4 5 1 2 0 2 2 10
+p402
+aVOtis Thorpe VAN 01/27/1998 VAN vs. CHI L 27 7 3 7 42.9 0 1 0.0 1 2 50.0 1 5 6 4 0 0 0 0 -22
+p403
+aVBryant Reeves VAN 01/27/1998 VAN vs. CHI L 29 13 5 12 41.7 0 0 - 3 4 75.0 1 5 6 0 0 0 2 3 -24
+p404
+aVLee Mayberry VAN 01/27/1998 VAN vs. CHI L 15 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 3 0 1 1 1 17
+p405
+aVAntonio Daniels VAN 01/24/1998 VAN vs. GSW W 29 11 5 8 62.5 0 1 0.0 1 2 50.0 0 1 1 5 2 0 4 1 -5
+p406
+aVOtis Thorpe VAN 01/24/1998 VAN vs. GSW W 38 15 7 11 63.6 0 0 - 1 2 50.0 4 8 12 7 2 1 2 2 8
+p407
+aVGeorge Lynch VAN 01/24/1998 VAN vs. GSW W 21 12 6 10 60.0 0 1 0.0 0 2 0.0 4 3 7 2 0 0 3 3 10
+p408
+aVLee Mayberry VAN 01/24/1998 VAN vs. GSW W 19 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 5 0 0 0 0 16
+p409
+aVBryant Reeves VAN 01/24/1998 VAN vs. GSW W 27 9 4 8 50.0 0 0 - 1 4 25.0 1 8 9 1 0 0 1 5 0
+p410
+aVTony Massenburg VAN 01/24/1998 VAN vs. GSW W 6 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 2 1
+p411
+aVSam Mack VAN 01/24/1998 VAN vs. GSW W 27 12 5 13 38.5 2 5 40.0 0 0 - 1 1 2 2 1 0 0 1 -4
+p412
+aVBlue Edwards VAN 01/24/1998 VAN vs. GSW W 21 18 6 7 85.7 0 1 0.0 6 6 100.0 0 4 4 5 2 0 0 0 15
+p413
+aVPete Chilcutt VAN 01/24/1998 VAN vs. GSW W 18 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 0 0 4 9
+p414
+aVShareef Abdur-Rahim VAN 01/24/1998 VAN vs. GSW W 35 20 5 17 29.4 0 0 - 10 13 76.9 2 5 7 0 0 3 3 3 5
+p415
+aVTony Massenburg VAN 01/23/1998 VAN @ GSW W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p416
+aVLee Mayberry VAN 01/23/1998 VAN @ GSW W 15 0 0 1 0.0 0 1 0.0 0 0 - 2 0 2 6 1 0 1 1 -2
+p417
+aVOtis Thorpe VAN 01/23/1998 VAN @ GSW W 30 10 2 5 40.0 0 0 - 6 6 100.0 1 4 5 1 2 0 0 3 11
+p418
+aVShareef Abdur-Rahim VAN 01/23/1998 VAN @ GSW W 37 26 8 15 53.3 0 0 - 10 12 83.3 0 5 5 1 2 0 3 2 8
+p419
+aVPete Chilcutt VAN 01/23/1998 VAN @ GSW W 22 10 4 9 44.4 2 3 66.7 0 0 - 1 2 3 2 1 0 1 2 3
+p420
+aVAntonio Daniels VAN 01/23/1998 VAN @ GSW W 33 3 1 7 14.3 1 2 50.0 0 2 0.0 0 6 6 5 1 0 3 1 10
+p421
+aVSam Mack VAN 01/23/1998 VAN @ GSW W 33 14 4 11 36.4 3 6 50.0 3 4 75.0 1 5 6 2 1 0 3 3 13
+p422
+aVBryant Reeves VAN 01/23/1998 VAN @ GSW W 37 13 5 11 45.5 0 0 - 3 4 75.0 1 7 8 2 0 1 0 5 5
+p423
+aVGeorge Lynch VAN 01/23/1998 VAN @ GSW W 14 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 1 0 2 -7
+p424
+aVBlue Edwards VAN 01/23/1998 VAN @ GSW W 15 8 3 8 37.5 0 1 0.0 2 3 66.7 0 1 1 2 0 0 2 2 -5
+p425
+aVLee Mayberry VAN 01/20/1998 VAN vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p426
+aVOtis Thorpe VAN 01/20/1998 VAN vs. DEN W 27 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 4 0 0 3 5 -6
+p427
+aVBryant Reeves VAN 01/20/1998 VAN vs. DEN W 39 8 2 8 25.0 0 0 - 4 4 100.0 4 8 12 2 1 1 3 2 19
+p428
+aVGeorge Lynch VAN 01/20/1998 VAN vs. DEN W 20 7 2 4 50.0 0 0 - 3 4 75.0 3 3 6 2 0 1 1 3 2
+p429
+aVShareef Abdur-Rahim VAN 01/20/1998 VAN vs. DEN W 36 24 8 16 50.0 0 0 - 8 8 100.0 4 5 9 4 3 1 1 3 15
+p430
+aVPete Chilcutt VAN 01/20/1998 VAN vs. DEN W 20 9 3 6 50.0 2 2 100.0 1 1 100.0 1 2 3 1 1 1 1 5 0
+p431
+aVChris Robinson VAN 01/20/1998 VAN vs. DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p432
+aVSam Mack VAN 01/20/1998 VAN vs. DEN W 29 16 5 12 41.7 3 8 37.5 3 3 100.0 2 2 4 2 1 0 0 0 17
+p433
+aVBlue Edwards VAN 01/20/1998 VAN vs. DEN W 20 9 4 9 44.4 0 1 0.0 1 1 100.0 0 0 0 0 0 1 1 1 -3
+p434
+aVAntonio Daniels VAN 01/20/1998 VAN vs. DEN W 41 10 5 14 35.7 0 1 0.0 0 0 - 0 1 1 4 1 1 3 1 14
+p435
+aVLee Mayberry VAN 01/16/1998 VAN @ WAS L 22 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 2 0 0 2 2 0
+p436
+aVBlue Edwards VAN 01/16/1998 VAN @ WAS L 23 15 5 9 55.6 2 4 50.0 3 3 100.0 0 3 3 4 2 0 1 3 -6
+p437
+aVPete Chilcutt VAN 01/16/1998 VAN @ WAS L 15 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 1 -1
+p438
+aVBryant Reeves VAN 01/16/1998 VAN @ WAS L 34 8 3 9 33.3 0 0 - 2 2 100.0 1 4 5 6 1 0 4 6 -1
+p439
+aVSam Mack VAN 01/16/1998 VAN @ WAS L 25 17 5 10 50.0 4 8 50.0 3 3 100.0 0 1 1 0 1 0 0 2 4
+p440
+aVGeorge Lynch VAN 01/16/1998 VAN @ WAS L 15 5 1 4 25.0 0 0 - 3 3 100.0 2 1 3 2 1 1 0 2 8
+p441
+aVTony Massenburg VAN 01/16/1998 VAN @ WAS L 12 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 1 9
+p442
+aVShareef Abdur-Rahim VAN 01/16/1998 VAN @ WAS L 34 20 7 11 63.6 0 0 - 6 7 85.7 2 5 7 1 0 0 2 3 -10
+p443
+aVOtis Thorpe VAN 01/16/1998 VAN @ WAS L 35 21 9 13 69.2 0 1 0.0 3 4 75.0 2 6 8 5 0 0 3 4 -11
+p444
+aVAntonio Daniels VAN 01/16/1998 VAN @ WAS L 26 8 4 8 50.0 0 0 - 0 0 - 0 3 3 5 1 0 3 1 -2
+p445
+aVOtis Thorpe VAN 01/15/1998 VAN @ BOS L 41 17 6 8 75.0 0 0 - 5 6 83.3 2 5 7 2 0 1 5 4 0
+p446
+aVBryant Reeves VAN 01/15/1998 VAN @ BOS L 41 41 14 21 66.7 0 1 0.0 13 15 86.7 3 9 12 1 1 0 5 4 1
+p447
+aVGeorge Lynch VAN 01/15/1998 VAN @ BOS L 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 0 0 1 1 1
+p448
+aVPete Chilcutt VAN 01/15/1998 VAN @ BOS L 10 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p449
+aVSam Mack VAN 01/15/1998 VAN @ BOS L 36 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 2 1 1 2 0 1
+p450
+aVShareef Abdur-Rahim VAN 01/15/1998 VAN @ BOS L 40 16 6 9 66.7 0 0 - 4 6 66.7 2 7 9 1 3 1 8 2 -5
+p451
+aVLee Mayberry VAN 01/15/1998 VAN @ BOS L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 6
+p452
+aVAntonio Daniels VAN 01/15/1998 VAN @ BOS L 37 4 2 6 33.3 0 1 0.0 0 0 - 0 7 7 6 0 0 2 3 -10
+p453
+aVBlue Edwards VAN 01/15/1998 VAN @ BOS L 17 9 1 6 16.7 0 2 0.0 7 7 100.0 1 1 2 5 1 1 0 2 -8
+p454
+aVShareef Abdur-Rahim VAN 01/13/1998 VAN @ PHI L 37 23 9 21 42.9 0 1 0.0 5 7 71.4 3 1 4 3 2 1 3 1 -15
+p455
+aVSam Mack VAN 01/13/1998 VAN @ PHI L 28 15 5 14 35.7 3 8 37.5 2 3 66.7 3 5 8 3 0 0 2 2 -7
+p456
+aVChris Robinson VAN 01/13/1998 VAN @ PHI L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p457
+aVOtis Thorpe VAN 01/13/1998 VAN @ PHI L 34 6 2 12 16.7 0 0 - 2 2 100.0 5 5 10 4 0 0 1 5 -22
+p458
+aVGeorge Lynch VAN 01/13/1998 VAN @ PHI L 14 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 1 0 0 2 -5
+p459
+aVBlue Edwards VAN 01/13/1998 VAN @ PHI L 22 15 4 10 40.0 1 3 33.3 6 6 100.0 0 2 2 1 0 1 1 2 -8
+p460
+aVBryant Reeves VAN 01/13/1998 VAN @ PHI L 35 21 9 12 75.0 0 0 - 3 5 60.0 2 8 10 4 0 0 2 4 0
+p461
+aVPete Chilcutt VAN 01/13/1998 VAN @ PHI L 17 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -17
+p462
+aVLee Mayberry VAN 01/13/1998 VAN @ PHI L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -14
+p463
+aVIvano Newbill VAN 01/13/1998 VAN @ PHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p464
+aVTony Massenburg VAN 01/13/1998 VAN @ PHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p465
+aVAntonio Daniels VAN 01/13/1998 VAN @ PHI L 34 5 2 11 18.2 0 2 0.0 1 2 50.0 2 1 3 6 1 1 5 2 -5
+p466
+aVTony Massenburg VAN 01/11/1998 VAN vs. MIA L 9 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -2
+p467
+aVBlue Edwards VAN 01/11/1998 VAN vs. MIA L 19 7 2 7 28.6 0 0 - 3 4 75.0 0 2 2 0 0 0 1 3 -10
+p468
+aVShareef Abdur-Rahim VAN 01/11/1998 VAN vs. MIA L 36 26 10 22 45.5 0 0 - 6 8 75.0 2 8 10 2 2 2 4 1 -6
+p469
+aVBryant Reeves VAN 01/11/1998 VAN vs. MIA L 23 2 1 4 25.0 0 0 - 0 0 - 3 2 5 1 0 2 1 5 -6
+p470
+aVLee Mayberry VAN 01/11/1998 VAN vs. MIA L 18 9 3 6 50.0 1 2 50.0 2 2 100.0 0 2 2 3 1 0 4 3 10
+p471
+aVOtis Thorpe VAN 01/11/1998 VAN vs. MIA L 23 9 4 12 33.3 0 0 - 1 1 100.0 1 4 5 1 0 0 1 4 -9
+p472
+aVAntonio Daniels VAN 01/11/1998 VAN vs. MIA L 30 4 1 6 16.7 0 2 0.0 2 2 100.0 0 2 2 5 1 0 3 1 -16
+p473
+aVSam Mack VAN 01/11/1998 VAN vs. MIA L 30 19 6 11 54.5 5 6 83.3 2 2 100.0 0 6 6 2 2 1 3 5 5
+p474
+aVPete Chilcutt VAN 01/11/1998 VAN vs. MIA L 32 8 3 4 75.0 2 2 100.0 0 0 - 2 1 3 2 3 2 4 4 6
+p475
+aVGeorge Lynch VAN 01/11/1998 VAN vs. MIA L 20 4 0 4 0.0 0 0 - 4 4 100.0 0 2 2 3 1 2 0 1 -2
+p476
+aVGeorge Lynch VAN 01/09/1998 VAN vs. CHH L 17 9 4 7 57.1 1 2 50.0 0 2 0.0 1 2 3 1 2 0 1 3 11
+p477
+aVSam Mack VAN 01/09/1998 VAN vs. CHH L 27 14 5 13 38.5 4 10 40.0 0 0 - 0 5 5 2 0 0 2 2 -10
+p478
+aVShareef Abdur-Rahim VAN 01/09/1998 VAN vs. CHH L 37 22 8 14 57.1 1 2 50.0 5 7 71.4 2 1 3 7 3 1 6 1 -19
+p479
+aVPete Chilcutt VAN 01/09/1998 VAN vs. CHH L 17 2 1 4 25.0 0 1 0.0 0 0 - 1 5 6 1 0 2 1 2 -3
+p480
+aVAntonio Daniels VAN 01/09/1998 VAN vs. CHH L 26 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 5 2 0 1 1 7
+p481
+aVOtis Thorpe VAN 01/09/1998 VAN vs. CHH L 36 4 2 4 50.0 0 0 - 0 2 0.0 0 7 7 2 1 1 5 4 -13
+p482
+aVLee Mayberry VAN 01/09/1998 VAN vs. CHH L 22 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 4 2 0 3 2 -15
+p483
+aVBlue Edwards VAN 01/09/1998 VAN vs. CHH L 21 12 5 8 62.5 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 3
+p484
+aVBryant Reeves VAN 01/09/1998 VAN vs. CHH L 36 20 10 13 76.9 0 0 - 0 0 - 3 6 9 4 0 1 3 2 -1
+p485
+aVShareef Abdur-Rahim VAN 01/07/1998 VAN @ LAC L 43 30 12 23 52.2 0 0 - 6 7 85.7 4 3 7 4 2 1 4 2 4
+p486
+aVPete Chilcutt VAN 01/07/1998 VAN @ LAC L 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 1 1 1 -9
+p487
+aVLee Mayberry VAN 01/07/1998 VAN @ LAC L 35 8 3 8 37.5 2 3 66.7 0 0 - 1 2 3 3 1 0 4 5 -7
+p488
+aVOtis Thorpe VAN 01/07/1998 VAN @ LAC L 40 16 8 13 61.5 0 0 - 0 0 - 1 7 8 4 0 0 3 3 -2
+p489
+aVGeorge Lynch VAN 01/07/1998 VAN @ LAC L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -12
+p490
+aVBryant Reeves VAN 01/07/1998 VAN @ LAC L 35 8 4 9 44.4 0 0 - 0 1 0.0 0 6 6 3 0 0 2 3 -5
+p491
+aVChris Robinson VAN 01/07/1998 VAN @ LAC L 13 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 3 -1
+p492
+aVBlue Edwards VAN 01/07/1998 VAN @ LAC L 15 6 3 3 100.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -14
+p493
+aVSam Mack VAN 01/07/1998 VAN @ LAC L 33 22 7 17 41.2 3 7 42.9 5 6 83.3 2 4 6 3 3 0 2 4 6
+p494
+aVBryant Reeves VAN 01/06/1998 VAN vs. LAL L 41 24 11 15 73.3 0 0 - 2 4 50.0 2 9 11 4 0 2 1 5 -13
+p495
+aVLee Mayberry VAN 01/06/1998 VAN vs. LAL L 41 5 2 10 20.0 1 5 20.0 0 0 - 1 2 3 11 2 0 4 5 -4
+p496
+aVChris Robinson VAN 01/06/1998 VAN vs. LAL L 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -9
+p497
+aVOtis Thorpe VAN 01/06/1998 VAN vs. LAL L 25 5 2 10 20.0 0 0 - 1 4 25.0 0 9 9 2 0 0 3 3 -23
+p498
+aVGeorge Lynch VAN 01/06/1998 VAN vs. LAL L 16 3 1 3 33.3 0 0 - 1 2 50.0 3 1 4 1 1 2 3 2 0
+p499
+aVSam Mack VAN 01/06/1998 VAN vs. LAL L 29 11 4 12 33.3 3 6 50.0 0 1 0.0 1 0 1 2 0 0 1 2 -15
+p500
+aVShareef Abdur-Rahim VAN 01/06/1998 VAN vs. LAL L 33 21 8 16 50.0 0 0 - 5 10 50.0 5 2 7 1 1 2 3 5 -14
+p501
+aVBlue Edwards VAN 01/06/1998 VAN vs. LAL L 23 8 3 9 33.3 0 1 0.0 2 2 100.0 0 5 5 2 3 0 3 0 -1
+p502
+aVPete Chilcutt VAN 01/06/1998 VAN vs. LAL L 24 6 3 9 33.3 0 2 0.0 0 1 0.0 4 7 11 3 1 3 3 3 14
+p503
+aVSam Mack VAN 01/04/1998 VAN vs. SEA L 29 21 9 14 64.3 2 4 50.0 1 1 100.0 0 2 2 0 0 0 4 4 -17
+p504
+aVOtis Thorpe VAN 01/04/1998 VAN vs. SEA L 36 8 3 10 30.0 0 0 - 2 6 33.3 1 5 6 6 1 0 3 5 -3
+p505
+aVAntonio Daniels VAN 01/04/1998 VAN vs. SEA L 30 11 5 7 71.4 0 1 0.0 1 4 25.0 0 0 0 5 0 1 2 1 -13
+p506
+aVPete Chilcutt VAN 01/04/1998 VAN vs. SEA L 24 9 3 9 33.3 0 1 0.0 3 4 75.0 4 6 10 4 1 0 2 0 -8
+p507
+aVBlue Edwards VAN 01/04/1998 VAN vs. SEA L 19 8 4 10 40.0 0 1 0.0 0 1 0.0 1 1 2 3 1 0 0 3 7
+p508
+aVShareef Abdur-Rahim VAN 01/04/1998 VAN vs. SEA L 36 21 9 17 52.9 0 0 - 3 5 60.0 3 6 9 4 4 1 3 2 -9
+p509
+aVBryant Reeves VAN 01/04/1998 VAN vs. SEA L 26 6 2 3 66.7 0 0 - 2 4 50.0 3 4 7 0 0 0 2 4 -21
+p510
+aVGeorge Lynch VAN 01/04/1998 VAN vs. SEA L 22 17 6 7 85.7 2 2 100.0 3 4 75.0 2 4 6 3 0 0 0 3 3
+p511
+aVLee Mayberry VAN 01/04/1998 VAN vs. SEA L 18 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 3 1 0 2 1 1
+p512
+aVChris Robinson VAN 01/02/1998 VAN @ SAC L 20 5 2 10 20.0 1 3 33.3 0 0 - 0 0 0 1 4 0 3 1 -3
+p513
+aVLee Mayberry VAN 01/02/1998 VAN @ SAC L 20 6 3 8 37.5 0 5 0.0 0 0 - 0 1 1 3 2 0 2 1 -1
+p514
+aVBlue Edwards VAN 01/02/1998 VAN @ SAC L 25 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 2 0 0 3 3 -4
+p515
+aVPete Chilcutt VAN 01/02/1998 VAN @ SAC L 16 5 2 3 66.7 1 1 100.0 0 0 - 2 4 6 2 1 1 1 1 1
+p516
+aVBryant Reeves VAN 01/02/1998 VAN @ SAC L 36 6 1 8 12.5 0 0 - 4 6 66.7 3 10 13 1 0 1 2 4 -2
+p517
+aVGeorge Lynch VAN 01/02/1998 VAN @ SAC L 21 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 0 1 0 2 1 -10
+p518
+aVOtis Thorpe VAN 01/02/1998 VAN @ SAC L 36 12 6 12 50.0 0 0 - 0 0 - 1 5 6 3 2 3 3 3 -19
+p519
+aVShareef Abdur-Rahim VAN 01/02/1998 VAN @ SAC L 36 30 10 13 76.9 0 0 - 10 10 100.0 2 5 7 0 1 0 2 2 -12
+p520
+aVAntonio Daniels VAN 01/02/1998 VAN @ SAC L 30 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 2 0 0 1 0 -20
+p521
+aVBlue Edwards VAN 01/01/1998 VAN vs. PHI L 32 21 9 15 60.0 3 3 100.0 0 0 - 1 3 4 3 3 1 2 5 9
+p522
+aVGeorge Lynch VAN 01/01/1998 VAN vs. PHI L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -10
+p523
+aVOtis Thorpe VAN 01/01/1998 VAN vs. PHI L 29 15 6 11 54.5 0 0 - 3 4 75.0 1 3 4 3 0 1 3 3 -8
+p524
+aVBryant Reeves VAN 01/01/1998 VAN vs. PHI L 36 12 3 7 42.9 0 0 - 6 7 85.7 4 3 7 1 0 1 1 1 2
+p525
+aVLee Mayberry VAN 01/01/1998 VAN vs. PHI L 18 4 1 2 50.0 0 1 0.0 2 3 66.7 0 1 1 3 1 1 2 4 -15
+p526
+aVChris Robinson VAN 01/01/1998 VAN vs. PHI L 16 8 3 9 33.3 2 7 28.6 0 0 - 0 0 0 0 0 0 1 1 -20
+p527
+aVShareef Abdur-Rahim VAN 01/01/1998 VAN vs. PHI L 43 23 9 16 56.3 0 0 - 5 11 45.5 6 6 12 6 1 0 2 1 -10
+p528
+aVPete Chilcutt VAN 01/01/1998 VAN vs. PHI L 18 6 3 7 42.9 0 1 0.0 0 0 - 2 0 2 2 0 1 0 4 -10
+p529
+aVAntonio Daniels VAN 01/01/1998 VAN vs. PHI L 35 13 4 9 44.4 1 2 50.0 4 6 66.7 0 1 1 9 4 3 1 3 7
+p530
+aVSam Mack VAN 12/30/1997 VAN vs. SAS L 31 28 10 14 71.4 3 3 100.0 5 7 71.4 2 1 3 2 1 0 1 4 2
+p531
+aVPete Chilcutt VAN 12/30/1997 VAN vs. SAS L 22 8 4 5 80.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 2 -10
+p532
+aVLee Mayberry VAN 12/30/1997 VAN vs. SAS L 20 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 6 2 0 1 2 -16
+p533
+aVChris Robinson VAN 12/30/1997 VAN vs. SAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p534
+aVBryant Reeves VAN 12/30/1997 VAN vs. SAS L 36 14 6 17 35.3 0 0 - 2 2 100.0 5 7 12 4 1 1 0 5 -1
+p535
+aVGeorge Lynch VAN 12/30/1997 VAN vs. SAS L 14 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 -6
+p536
+aVShareef Abdur-Rahim VAN 12/30/1997 VAN vs. SAS L 34 24 9 21 42.9 2 2 100.0 4 6 66.7 0 3 3 5 2 0 1 0 -3
+p537
+aVOtis Thorpe VAN 12/30/1997 VAN vs. SAS L 31 6 3 9 33.3 0 0 - 0 0 - 3 5 8 1 0 1 1 6 -5
+p538
+aVBlue Edwards VAN 12/30/1997 VAN vs. SAS L 19 13 5 9 55.6 3 3 100.0 0 0 - 1 3 4 1 0 1 1 3 -8
+p539
+aVAntonio Daniels VAN 12/30/1997 VAN vs. SAS L 28 13 5 9 55.6 1 1 100.0 2 2 100.0 1 1 2 7 2 0 1 1 7
+p540
+aVTony Massenburg VAN 12/30/1997 VAN vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p541
+aVGeorge Lynch VAN 12/28/1997 VAN vs. UTA L 9 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -5
+p542
+aVOtis Thorpe VAN 12/28/1997 VAN vs. UTA L 26 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 3 1 0 2 4 -9
+p543
+aVSam Mack VAN 12/28/1997 VAN vs. UTA L 29 10 4 11 36.4 1 3 33.3 1 1 100.0 0 4 4 0 0 4 2 3 -7
+p544
+aVPete Chilcutt VAN 12/28/1997 VAN vs. UTA L 15 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 0 0 1 1 3 13
+p545
+aVAntonio Daniels VAN 12/28/1997 VAN vs. UTA L 35 13 5 13 38.5 0 0 - 3 4 75.0 0 3 3 10 0 0 3 1 5
+p546
+aVTony Massenburg VAN 12/28/1997 VAN vs. UTA L 12 2 0 3 0.0 0 0 - 2 4 50.0 2 2 4 0 0 0 1 1 -1
+p547
+aVLee Mayberry VAN 12/28/1997 VAN vs. UTA L 13 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 1 0 0 0 -6
+p548
+aVShareef Abdur-Rahim VAN 12/28/1997 VAN vs. UTA L 40 31 14 23 60.9 1 2 50.0 2 3 66.7 3 7 10 4 2 3 3 1 2
+p549
+aVBlue Edwards VAN 12/28/1997 VAN vs. UTA L 19 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 1 3 1 6
+p550
+aVBryant Reeves VAN 12/28/1997 VAN vs. UTA L 42 13 5 15 33.3 0 0 - 3 4 75.0 4 6 10 2 0 0 3 3 -3
+p551
+aVBlue Edwards VAN 12/26/1997 VAN vs. PHX L 24 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 1 1 -11
+p552
+aVAntonio Daniels VAN 12/26/1997 VAN vs. PHX L 31 10 3 7 42.9 0 2 0.0 4 4 100.0 0 2 2 9 0 0 5 2 -11
+p553
+aVChris Robinson VAN 12/26/1997 VAN vs. PHX L 17 7 3 6 50.0 1 4 25.0 0 0 - 0 4 4 2 0 1 2 4 -9
+p554
+aVPete Chilcutt VAN 12/26/1997 VAN vs. PHX L 14 7 2 3 66.7 2 2 100.0 1 2 50.0 0 5 5 0 1 0 3 2 -7
+p555
+aVOtis Thorpe VAN 12/26/1997 VAN vs. PHX L 32 10 4 5 80.0 0 0 - 2 2 100.0 1 6 7 6 2 2 3 3 -14
+p556
+aVShareef Abdur-Rahim VAN 12/26/1997 VAN vs. PHX L 38 23 8 14 57.1 0 0 - 7 11 63.6 2 4 6 4 1 1 4 2 -10
+p557
+aVBryant Reeves VAN 12/26/1997 VAN vs. PHX L 33 8 4 9 44.4 0 0 - 0 0 - 2 5 7 0 0 0 3 4 -6
+p558
+aVGeorge Lynch VAN 12/26/1997 VAN vs. PHX L 26 19 8 13 61.5 0 1 0.0 3 4 75.0 1 5 6 3 1 0 1 3 -15
+p559
+aVSam Mack VAN 12/26/1997 VAN vs. PHX L 24 14 5 10 50.0 4 6 66.7 0 0 - 0 1 1 1 0 2 0 3 -7
+p560
+aVSam Mack VAN 12/21/1997 VAN vs. POR W 24 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 2 1 0 1 1 -10
+p561
+aVGeorge Lynch VAN 12/21/1997 VAN vs. POR W 24 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 2 2 2 1 12
+p562
+aVAntonio Daniels VAN 12/21/1997 VAN vs. POR W 35 14 4 15 26.7 1 2 50.0 5 6 83.3 1 4 5 8 0 0 1 0 -10
+p563
+aVChris Robinson VAN 12/21/1997 VAN vs. POR W 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 3 1 12
+p564
+aVShareef Abdur-Rahim VAN 12/21/1997 VAN vs. POR W 44 28 9 20 45.0 1 1 100.0 9 15 60.0 5 9 14 1 3 2 5 1 1
+p565
+aVTony Massenburg VAN 12/21/1997 VAN vs. POR W 21 1 0 1 0.0 0 0 - 1 2 50.0 2 5 7 1 0 1 1 2 -20
+p566
+aVPete Chilcutt VAN 12/21/1997 VAN vs. POR W 23 4 1 3 33.3 0 1 0.0 2 4 50.0 2 8 10 3 2 0 3 2 20
+p567
+aVBryant Reeves VAN 12/21/1997 VAN vs. POR W 32 12 6 10 60.0 0 0 - 0 0 - 0 5 5 1 0 1 3 6 -7
+p568
+aVBlue Edwards VAN 12/21/1997 VAN vs. POR W 24 15 5 7 71.4 1 2 50.0 4 6 66.7 1 0 1 1 1 1 1 4 12
+p569
+aVTony Massenburg VAN 12/19/1997 VAN @ POR L 33 8 2 10 20.0 0 0 - 4 9 44.4 3 7 10 1 2 1 3 4 3
+p570
+aVChris Robinson VAN 12/19/1997 VAN @ POR L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 4 -5
+p571
+aVBryant Reeves VAN 12/19/1997 VAN @ POR L 31 18 9 11 81.8 0 0 - 0 0 - 1 1 2 1 0 0 0 6 -3
+p572
+aVSam Mack VAN 12/19/1997 VAN @ POR L 25 10 3 7 42.9 1 2 50.0 3 3 100.0 0 2 2 3 1 0 0 1 7
+p573
+aVAntonio Daniels VAN 12/19/1997 VAN @ POR L 42 7 2 11 18.2 0 1 0.0 3 6 50.0 0 4 4 7 0 0 2 1 0
+p574
+aVShareef Abdur-Rahim VAN 12/19/1997 VAN @ POR L 42 25 9 21 42.9 0 0 - 7 11 63.6 3 7 10 2 2 0 3 4 -6
+p575
+aVPete Chilcutt VAN 12/19/1997 VAN @ POR L 20 2 1 3 33.3 0 2 0.0 0 0 - 2 5 7 1 1 0 1 1 1
+p576
+aVGeorge Lynch VAN 12/19/1997 VAN @ POR L 18 12 4 6 66.7 1 1 100.0 3 4 75.0 3 2 5 0 2 1 2 5 -10
+p577
+aVBlue Edwards VAN 12/19/1997 VAN @ POR L 23 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 2 1 2 2 3 -12
+p578
+aVBryant Reeves VAN 12/17/1997 VAN @ SAS L 39 23 10 20 50.0 0 0 - 3 3 100.0 2 4 6 4 0 3 1 5 3
+p579
+aVBlue Edwards VAN 12/17/1997 VAN @ SAS L 34 9 4 13 30.8 1 3 33.3 0 0 - 2 0 2 1 2 0 3 2 -1
+p580
+aVShareef Abdur-Rahim VAN 12/17/1997 VAN @ SAS L 36 24 6 18 33.3 0 1 0.0 12 14 85.7 3 4 7 1 0 1 1 1 -1
+p581
+aVIvano Newbill VAN 12/17/1997 VAN @ SAS L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -10
+p582
+aVTony Massenburg VAN 12/17/1997 VAN @ SAS L 19 2 1 3 33.3 0 0 - 0 0 - 0 6 6 0 0 1 0 1 -16
+p583
+aVChris Robinson VAN 12/17/1997 VAN @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p584
+aVGeorge Lynch VAN 12/17/1997 VAN @ SAS L 24 11 5 8 62.5 0 0 - 1 2 50.0 4 1 5 3 0 0 1 1 7
+p585
+aVAntonio Daniels VAN 12/17/1997 VAN @ SAS L 40 14 5 11 45.5 0 1 0.0 4 4 100.0 1 9 10 6 0 0 4 0 -1
+p586
+aVPete Chilcutt VAN 12/17/1997 VAN @ SAS L 19 0 0 4 0.0 0 0 - 0 0 - 2 6 8 1 0 0 0 2 -16
+p587
+aVLee Mayberry VAN 12/17/1997 VAN @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p588
+aVSam Mack VAN 12/17/1997 VAN @ SAS L 15 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 1 1 0 0 2 -10
+p589
+aVIvano Newbill VAN 12/16/1997 VAN @ HOU L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 1
+p590
+aVSam Mack VAN 12/16/1997 VAN @ HOU L 25 12 5 11 45.5 2 4 50.0 0 0 - 0 2 2 1 1 0 3 2 -6
+p591
+aVBlue Edwards VAN 12/16/1997 VAN @ HOU L 23 15 5 11 45.5 1 1 100.0 4 5 80.0 1 1 2 2 1 0 2 4 -21
+p592
+aVAntonio Daniels VAN 12/16/1997 VAN @ HOU L 25 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 4 0 0 2 0 -18
+p593
+aVShareef Abdur-Rahim VAN 12/16/1997 VAN @ HOU L 30 18 7 14 50.0 0 0 - 4 7 57.1 3 4 7 2 2 1 7 1 -17
+p594
+aVGeorge Lynch VAN 12/16/1997 VAN @ HOU L 20 4 1 7 14.3 0 0 - 2 2 100.0 2 3 5 2 4 0 4 0 -17
+p595
+aVBryant Reeves VAN 12/16/1997 VAN @ HOU L 32 13 5 11 45.5 0 0 - 3 5 60.0 2 5 7 1 1 2 0 2 -20
+p596
+aVLee Mayberry VAN 12/16/1997 VAN @ HOU L 23 10 3 6 50.0 2 4 50.0 2 4 50.0 0 1 1 2 0 0 1 3 -9
+p597
+aVChris Robinson VAN 12/16/1997 VAN @ HOU L 7 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 0 -1
+p598
+aVPete Chilcutt VAN 12/16/1997 VAN @ HOU L 24 3 1 4 25.0 0 0 - 1 2 50.0 2 6 8 1 1 1 0 4 -15
+p599
+aVTony Massenburg VAN 12/16/1997 VAN @ HOU L 24 7 3 5 60.0 0 0 - 1 1 100.0 0 4 4 0 0 0 1 2 -12
+p600
+aVBryant Reeves VAN 12/14/1997 VAN vs. HOU W 37 23 10 13 76.9 0 0 - 3 4 75.0 2 8 10 0 2 1 4 3 0
+p601
+aVSam Mack VAN 12/14/1997 VAN vs. HOU W 21 11 3 4 75.0 1 2 50.0 4 4 100.0 0 1 1 2 0 0 2 2 1
+p602
+aVGeorge Lynch VAN 12/14/1997 VAN vs. HOU W 16 6 1 4 25.0 0 0 - 4 4 100.0 0 1 1 2 1 3 0 0 5
+p603
+aVShareef Abdur-Rahim VAN 12/14/1997 VAN vs. HOU W 37 22 7 12 58.3 0 0 - 8 10 80.0 1 7 8 13 0 0 3 1 -1
+p604
+aVPete Chilcutt VAN 12/14/1997 VAN vs. HOU W 18 11 4 7 57.1 2 4 50.0 1 2 50.0 0 1 1 3 1 0 1 1 5
+p605
+aVOtis Thorpe VAN 12/14/1997 VAN vs. HOU W 38 14 7 11 63.6 0 0 - 0 2 0.0 3 5 8 5 1 0 2 2 11
+p606
+aVLee Mayberry VAN 12/14/1997 VAN vs. HOU W 23 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 5 0 0 1 2 7
+p607
+aVAntonio Daniels VAN 12/14/1997 VAN vs. HOU W 25 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 6 2 0 2 0 -2
+p608
+aVBlue Edwards VAN 12/14/1997 VAN vs. HOU W 25 13 5 8 62.5 1 1 100.0 2 3 66.7 0 2 2 1 1 2 2 3 -1
+p609
+aVSam Mack VAN 12/12/1997 VAN vs. GSW W 27 13 4 12 33.3 2 3 66.7 3 3 100.0 1 1 2 3 1 0 1 1 14
+p610
+aVGeorge Lynch VAN 12/12/1997 VAN vs. GSW W 23 5 2 6 33.3 0 0 - 1 2 50.0 3 7 10 1 2 1 2 5 1
+p611
+aVShareef Abdur-Rahim VAN 12/12/1997 VAN vs. GSW W 40 30 9 16 56.3 0 1 0.0 12 14 85.7 2 6 8 5 2 1 4 1 16
+p612
+aVPete Chilcutt VAN 12/12/1997 VAN vs. GSW W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -6
+p613
+aVAntonio Daniels VAN 12/12/1997 VAN vs. GSW W 30 7 2 4 50.0 0 1 0.0 3 4 75.0 0 3 3 7 0 0 2 3 11
+p614
+aVBryant Reeves VAN 12/12/1997 VAN vs. GSW W 33 12 4 9 44.4 0 0 - 4 6 66.7 0 6 6 3 0 2 1 4 -1
+p615
+aVLee Mayberry VAN 12/12/1997 VAN vs. GSW W 19 0 0 1 0.0 0 0 - 0 0 - 0 1 1 5 0 0 0 0 -6
+p616
+aVIvano Newbill VAN 12/12/1997 VAN vs. GSW W 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 2 0 0 2 4
+p617
+aVBlue Edwards VAN 12/12/1997 VAN vs. GSW W 21 13 6 13 46.2 1 2 50.0 0 0 - 0 1 1 2 0 0 2 0 -5
+p618
+aVOtis Thorpe VAN 12/12/1997 VAN vs. GSW W 33 13 5 9 55.6 0 1 0.0 3 4 75.0 2 7 9 3 2 0 3 2 7
+p619
+aVGeorge Lynch VAN 12/09/1997 VAN @ PHX L 21 9 4 8 50.0 0 0 - 1 4 25.0 1 1 2 3 2 1 3 3 -7
+p620
+aVBryant Reeves VAN 12/09/1997 VAN @ PHX L 33 4 2 6 33.3 0 0 - 0 2 0.0 1 5 6 5 0 0 1 4 -25
+p621
+aVIvano Newbill VAN 12/09/1997 VAN @ PHX L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p622
+aVAntonio Daniels VAN 12/09/1997 VAN @ PHX L 32 13 6 9 66.7 0 0 - 1 1 100.0 0 1 1 5 0 0 2 1 -12
+p623
+aVChris Robinson VAN 12/09/1997 VAN @ PHX L 7 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 -3
+p624
+aVLee Mayberry VAN 12/09/1997 VAN @ PHX L 19 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 1 0 2 2 -10
+p625
+aVBlue Edwards VAN 12/09/1997 VAN @ PHX L 23 9 4 10 40.0 1 2 50.0 0 1 0.0 1 4 5 2 0 0 4 1 -16
+p626
+aVSam Mack VAN 12/09/1997 VAN @ PHX L 15 5 2 8 25.0 1 4 25.0 0 0 - 1 2 3 1 0 0 0 4 -3
+p627
+aVShareef Abdur-Rahim VAN 12/09/1997 VAN @ PHX L 37 21 8 20 40.0 0 0 - 5 6 83.3 3 6 9 2 0 0 3 5 -15
+p628
+aVOtis Thorpe VAN 12/09/1997 VAN @ PHX L 32 9 4 9 44.4 0 0 - 1 2 50.0 3 1 4 6 0 1 2 2 -14
+p629
+aVPete Chilcutt VAN 12/09/1997 VAN @ PHX L 17 12 5 6 83.3 2 2 100.0 0 0 - 1 1 2 2 2 0 0 1 -6
+p630
+aVSam Mack VAN 12/05/1997 VAN vs. CLE L 19 9 3 7 42.9 3 5 60.0 0 0 - 0 3 3 0 0 0 1 2 -5
+p631
+aVPete Chilcutt VAN 12/05/1997 VAN vs. CLE L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 1 0 2 0
+p632
+aVBryant Reeves VAN 12/05/1997 VAN vs. CLE L 37 9 2 7 28.6 0 0 - 5 6 83.3 2 7 9 7 3 1 4 3 -10
+p633
+aVOtis Thorpe VAN 12/05/1997 VAN vs. CLE L 27 11 3 8 37.5 0 0 - 5 6 83.3 4 7 11 3 0 0 3 3 -16
+p634
+aVBlue Edwards VAN 12/05/1997 VAN vs. CLE L 29 16 6 14 42.9 1 1 100.0 3 4 75.0 1 0 1 0 2 1 0 1 -4
+p635
+aVTony Massenburg VAN 12/05/1997 VAN vs. CLE L 10 5 1 3 33.3 0 0 - 3 5 60.0 1 2 3 0 1 0 1 3 -6
+p636
+aVShareef Abdur-Rahim VAN 12/05/1997 VAN vs. CLE L 39 27 8 17 47.1 0 0 - 11 13 84.6 2 3 5 1 1 1 4 2 -5
+p637
+aVGeorge Lynch VAN 12/05/1997 VAN vs. CLE L 23 12 6 10 60.0 0 0 - 0 0 - 2 2 4 1 1 0 3 3 10
+p638
+aVLee Mayberry VAN 12/05/1997 VAN vs. CLE L 25 4 2 5 40.0 0 2 0.0 0 0 - 1 2 3 5 1 0 0 4 11
+p639
+aVAntonio Daniels VAN 12/05/1997 VAN vs. CLE L 23 5 2 8 25.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 2 -20
+p640
+aVBryant Reeves VAN 12/03/1997 VAN vs. ORL L 14 4 2 6 33.3 0 0 - 0 0 - 1 6 7 0 0 0 0 4 -2
+p641
+aVSam Mack VAN 12/03/1997 VAN vs. ORL L 20 5 1 9 11.1 1 2 50.0 2 2 100.0 0 0 0 2 0 0 1 1 -15
+p642
+aVGeorge Lynch VAN 12/03/1997 VAN vs. ORL L 20 16 8 12 66.7 0 0 - 0 1 0.0 0 2 2 2 0 0 2 2 7
+p643
+aVBlue Edwards VAN 12/03/1997 VAN vs. ORL L 28 15 6 7 85.7 1 1 100.0 2 3 66.7 1 1 2 5 1 1 0 4 11
+p644
+aVLee Mayberry VAN 12/03/1997 VAN vs. ORL L 22 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 4 3 0 2 1 1
+p645
+aVOtis Thorpe VAN 12/03/1997 VAN vs. ORL L 37 19 6 10 60.0 0 0 - 7 7 100.0 7 6 13 5 1 1 3 3 -5
+p646
+aVIvano Newbill VAN 12/03/1997 VAN vs. ORL L 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -7
+p647
+aVPete Chilcutt VAN 12/03/1997 VAN vs. ORL L 14 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 1 0 0 -2
+p648
+aVTony Massenburg VAN 12/03/1997 VAN vs. ORL L 8 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 1
+p649
+aVShareef Abdur-Rahim VAN 12/03/1997 VAN vs. ORL L 45 24 11 18 61.1 0 0 - 2 2 100.0 1 8 9 7 2 0 4 3 -4
+p650
+aVAntonio Daniels VAN 12/03/1997 VAN vs. ORL L 26 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 4 1 0 4 1 -5
+p651
+aVAntonio Daniels VAN 11/30/1997 VAN @ DET W 28 13 5 11 45.5 0 2 0.0 3 3 100.0 0 2 2 4 1 0 4 2 0
+p652
+aVOtis Thorpe VAN 11/30/1997 VAN @ DET W 39 15 5 9 55.6 0 0 - 5 8 62.5 2 8 10 2 0 1 4 3 8
+p653
+aVLee Mayberry VAN 11/30/1997 VAN @ DET W 20 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 8 1 0 2 2 2
+p654
+aVPete Chilcutt VAN 11/30/1997 VAN @ DET W 15 8 3 4 75.0 0 0 - 2 3 66.7 0 2 2 2 0 1 1 2 -3
+p655
+aVSam Mack VAN 11/30/1997 VAN @ DET W 19 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 2 1 0 0 1 -6
+p656
+aVBlue Edwards VAN 11/30/1997 VAN @ DET W 29 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 4 1 1 4 4 8
+p657
+aVShareef Abdur-Rahim VAN 11/30/1997 VAN @ DET W 33 19 7 9 77.8 0 0 - 5 6 83.3 1 5 6 4 1 0 6 4 4
+p658
+aVGeorge Lynch VAN 11/30/1997 VAN @ DET W 20 8 4 6 66.7 0 1 0.0 0 0 - 1 3 4 1 0 0 2 3 3
+p659
+aVBryant Reeves VAN 11/30/1997 VAN @ DET W 37 18 8 14 57.1 0 0 - 2 2 100.0 2 6 8 3 0 0 2 5 -6
+p660
+aVShareef Abdur-Rahim VAN 11/29/1997 VAN @ MIN L 31 15 7 17 41.2 0 0 - 1 3 33.3 3 3 6 1 1 0 0 3 3
+p661
+aVPete Chilcutt VAN 11/29/1997 VAN @ MIN L 23 12 4 7 57.1 1 3 33.3 3 4 75.0 2 3 5 3 0 0 1 1 -1
+p662
+aVIvano Newbill VAN 11/29/1997 VAN @ MIN L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -10
+p663
+aVLee Mayberry VAN 11/29/1997 VAN @ MIN L 21 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 2 1 0 1 2 -8
+p664
+aVGeorge Lynch VAN 11/29/1997 VAN @ MIN L 17 4 1 3 33.3 0 0 - 2 2 100.0 2 4 6 1 1 1 6 1 -22
+p665
+aVAntonio Daniels VAN 11/29/1997 VAN @ MIN L 34 16 6 10 60.0 1 2 50.0 3 6 50.0 1 2 3 7 0 0 1 3 -15
+p666
+aVSam Mack VAN 11/29/1997 VAN @ MIN L 17 4 2 7 28.6 0 4 0.0 0 0 - 0 0 0 3 1 0 1 2 2
+p667
+aVTony Massenburg VAN 11/29/1997 VAN @ MIN L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -9
+p668
+aVOtis Thorpe VAN 11/29/1997 VAN @ MIN L 28 9 2 8 25.0 0 0 - 5 6 83.3 0 2 2 3 1 0 1 3 -9
+p669
+aVBlue Edwards VAN 11/29/1997 VAN @ MIN L 24 10 3 8 37.5 0 0 - 4 6 66.7 1 2 3 2 0 0 1 5 -17
+p670
+aVBryant Reeves VAN 11/29/1997 VAN @ MIN L 32 8 4 7 57.1 0 0 - 0 0 - 3 5 8 1 0 0 4 3 -9
+p671
+aVTony Massenburg VAN 11/27/1997 VAN @ IND L 15 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p672
+aVBryant Reeves VAN 11/27/1997 VAN @ IND L 31 10 4 9 44.4 0 0 - 2 3 66.7 1 2 3 3 4 0 5 3 -23
+p673
+aVSam Mack VAN 11/27/1997 VAN @ IND L 22 12 5 10 50.0 2 5 40.0 0 0 - 0 3 3 0 0 0 1 1 -14
+p674
+aVAntonio Daniels VAN 11/27/1997 VAN @ IND L 28 9 2 4 50.0 0 0 - 5 8 62.5 0 3 3 5 0 0 5 0 -20
+p675
+aVLee Mayberry VAN 11/27/1997 VAN @ IND L 20 4 1 1 100.0 1 1 100.0 1 2 50.0 0 1 1 4 2 0 3 1 -1
+p676
+aVGeorge Lynch VAN 11/27/1997 VAN @ IND L 21 15 6 8 75.0 0 0 - 3 5 60.0 4 5 9 2 1 1 3 1 6
+p677
+aVOtis Thorpe VAN 11/27/1997 VAN @ IND L 34 6 3 6 50.0 0 0 - 0 0 - 3 5 8 3 1 0 5 2 -28
+p678
+aVPete Chilcutt VAN 11/27/1997 VAN @ IND L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 2 8
+p679
+aVBlue Edwards VAN 11/27/1997 VAN @ IND L 26 8 3 12 25.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 2 2 -7
+p680
+aVShareef Abdur-Rahim VAN 11/27/1997 VAN @ IND L 27 14 5 9 55.6 0 0 - 4 4 100.0 2 1 3 1 2 0 2 2 -27
+p681
+aVIvano Newbill VAN 11/27/1997 VAN @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 5
+p682
+aVTony Massenburg VAN 11/26/1997 VAN @ MIL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -13
+p683
+aVLee Mayberry VAN 11/26/1997 VAN @ MIL L 18 4 1 6 16.7 1 2 50.0 1 2 50.0 0 0 0 1 1 0 3 2 -4
+p684
+aVSam Mack VAN 11/26/1997 VAN @ MIL L 25 3 1 8 12.5 1 3 33.3 0 0 - 0 2 2 0 1 0 1 0 -9
+p685
+aVBryant Reeves VAN 11/26/1997 VAN @ MIL L 21 13 6 9 66.7 0 0 - 1 3 33.3 5 4 9 2 0 0 3 5 -8
+p686
+aVPete Chilcutt VAN 11/26/1997 VAN @ MIL L 15 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 4 -3
+p687
+aVShareef Abdur-Rahim VAN 11/26/1997 VAN @ MIL L 34 19 7 17 41.2 0 0 - 5 7 71.4 3 2 5 3 2 0 2 1 -16
+p688
+aVBlue Edwards VAN 11/26/1997 VAN @ MIL L 21 10 3 9 33.3 0 1 0.0 4 6 66.7 0 1 1 1 0 0 1 5 -10
+p689
+aVIvano Newbill VAN 11/26/1997 VAN @ MIL L 12 4 1 2 50.0 0 0 - 2 4 50.0 3 5 8 1 1 0 0 1 3
+p690
+aVOtis Thorpe VAN 11/26/1997 VAN @ MIL L 37 10 5 12 41.7 0 0 - 0 0 - 3 3 6 2 0 0 2 0 -10
+p691
+aVGeorge Lynch VAN 11/26/1997 VAN @ MIL L 20 7 2 8 25.0 0 0 - 3 6 50.0 0 3 3 0 1 1 0 2 -10
+p692
+aVAntonio Daniels VAN 11/26/1997 VAN @ MIL L 32 10 3 8 37.5 0 0 - 4 4 100.0 1 3 4 4 1 0 5 3 -15
+p693
+aVIvano Newbill VAN 11/23/1997 VAN @ NYK L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -1
+p694
+aVAntonio Daniels VAN 11/23/1997 VAN @ NYK L 24 3 0 7 0.0 0 1 0.0 3 4 75.0 0 2 2 2 3 0 2 2 -17
+p695
+aVSam Mack VAN 11/23/1997 VAN @ NYK L 23 6 2 7 28.6 2 6 33.3 0 0 - 1 1 2 3 1 0 0 4 -16
+p696
+aVPete Chilcutt VAN 11/23/1997 VAN @ NYK L 19 2 1 7 14.3 0 2 0.0 0 0 - 4 5 9 2 1 0 2 2 -12
+p697
+aVBryant Reeves VAN 11/23/1997 VAN @ NYK L 31 18 8 14 57.1 0 0 - 2 3 66.7 1 1 2 2 0 0 1 5 -9
+p698
+aVBlue Edwards VAN 11/23/1997 VAN @ NYK L 25 9 4 12 33.3 0 1 0.0 1 1 100.0 0 2 2 3 2 0 2 2 -4
+p699
+aVShareef Abdur-Rahim VAN 11/23/1997 VAN @ NYK L 36 16 5 11 45.5 0 0 - 6 7 85.7 2 3 5 2 0 0 5 2 -13
+p700
+aVLee Mayberry VAN 11/23/1997 VAN @ NYK L 24 6 2 6 33.3 0 1 0.0 2 2 100.0 1 0 1 4 0 0 0 1 -3
+p701
+aVGeorge Lynch VAN 11/23/1997 VAN @ NYK L 17 7 2 6 33.3 2 4 50.0 1 2 50.0 0 2 2 1 1 0 0 1 -6
+p702
+aVOtis Thorpe VAN 11/23/1997 VAN @ NYK L 33 17 3 7 42.9 0 0 - 11 12 91.7 1 6 7 0 0 1 1 6 -19
+p703
+aVBlue Edwards VAN 11/21/1997 VAN vs. DEN W 26 9 4 10 40.0 0 0 - 1 3 33.3 0 3 3 0 2 0 0 2 10
+p704
+aVShareef Abdur-Rahim VAN 11/21/1997 VAN vs. DEN W 39 28 8 18 44.4 0 0 - 12 13 92.3 1 8 9 1 1 1 2 3 5
+p705
+aVLee Mayberry VAN 11/21/1997 VAN vs. DEN W 24 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 8 1 1 1 0 14
+p706
+aVPete Chilcutt VAN 11/21/1997 VAN vs. DEN W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -9
+p707
+aVSam Mack VAN 11/21/1997 VAN vs. DEN W 22 14 5 13 38.5 3 9 33.3 1 2 50.0 1 1 2 4 0 0 0 1 -7
+p708
+aVOtis Thorpe VAN 11/21/1997 VAN vs. DEN W 36 17 6 7 85.7 0 0 - 5 9 55.6 3 5 8 5 1 0 2 4 0
+p709
+aVGeorge Lynch VAN 11/21/1997 VAN vs. DEN W 24 8 3 9 33.3 1 1 100.0 1 2 50.0 2 9 11 2 0 1 1 2 9
+p710
+aVAntonio Daniels VAN 11/21/1997 VAN vs. DEN W 24 8 4 5 80.0 0 0 - 0 0 - 0 2 2 5 0 0 1 1 -11
+p711
+aVTony Massenburg VAN 11/21/1997 VAN vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p712
+aVBryant Reeves VAN 11/21/1997 VAN vs. DEN W 33 10 4 14 28.6 0 0 - 2 2 100.0 3 4 7 2 0 2 2 1 4
+p713
+aVBryant Reeves VAN 11/19/1997 VAN @ SEA L 38 7 3 7 42.9 0 0 - 1 1 100.0 0 7 7 5 0 0 3 4 -12
+p714
+aVShareef Abdur-Rahim VAN 11/19/1997 VAN @ SEA L 38 25 9 18 50.0 0 0 - 7 10 70.0 4 3 7 4 0 1 3 3 -24
+p715
+aVPete Chilcutt VAN 11/19/1997 VAN @ SEA L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 0 2 3 2 7
+p716
+aVLee Mayberry VAN 11/19/1997 VAN @ SEA L 15 5 2 6 33.3 0 3 0.0 1 2 50.0 0 0 0 2 1 0 1 3 -6
+p717
+aVAntonio Daniels VAN 11/19/1997 VAN @ SEA L 33 13 6 11 54.5 1 1 100.0 0 0 - 1 2 3 4 2 0 4 2 -14
+p718
+aVBlue Edwards VAN 11/19/1997 VAN @ SEA L 27 14 3 9 33.3 1 2 50.0 7 7 100.0 0 5 5 2 1 0 0 2 0
+p719
+aVSam Mack VAN 11/19/1997 VAN @ SEA L 21 4 2 6 33.3 0 2 0.0 0 0 - 2 0 2 1 0 0 1 2 -20
+p720
+aVGeorge Lynch VAN 11/19/1997 VAN @ SEA L 19 8 4 7 57.1 0 2 0.0 0 0 - 2 5 7 0 0 1 2 2 -4
+p721
+aVOtis Thorpe VAN 11/19/1997 VAN @ SEA L 38 8 2 6 33.3 0 0 - 4 6 66.7 1 7 8 5 0 0 7 2 -27
+p722
+aVOtis Thorpe VAN 11/18/1997 VAN @ DEN W 31 9 2 4 50.0 0 0 - 5 5 100.0 3 4 7 4 0 1 4 4 -2
+p723
+aVBryant Reeves VAN 11/18/1997 VAN @ DEN W 32 9 4 9 44.4 0 0 - 1 2 50.0 3 3 6 1 0 2 2 3 9
+p724
+aVAntonio Daniels VAN 11/18/1997 VAN @ DEN W 30 6 2 9 22.2 0 0 - 2 4 50.0 0 2 2 4 1 1 1 1 2
+p725
+aVBlue Edwards VAN 11/18/1997 VAN @ DEN W 28 27 9 15 60.0 3 6 50.0 6 6 100.0 0 2 2 2 2 0 1 2 20
+p726
+aVPete Chilcutt VAN 11/18/1997 VAN @ DEN W 21 5 2 2 100.0 1 1 100.0 0 0 - 1 4 5 5 0 0 2 3 17
+p727
+aVLee Mayberry VAN 11/18/1997 VAN @ DEN W 18 10 4 7 57.1 2 3 66.7 0 0 - 0 3 3 5 0 0 0 2 11
+p728
+aVShareef Abdur-Rahim VAN 11/18/1997 VAN @ DEN W 35 19 8 15 53.3 0 0 - 3 8 37.5 3 3 6 1 0 1 1 1 -8
+p729
+aVGeorge Lynch VAN 11/18/1997 VAN @ DEN W 24 11 3 8 37.5 0 0 - 5 8 62.5 1 4 5 3 3 0 1 4 23
+p730
+aVSam Mack VAN 11/18/1997 VAN @ DEN W 20 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 0 0 0 2 2 -7
+p731
+aVOtis Thorpe VAN 11/16/1997 VAN @ LAL L 26 11 5 10 50.0 0 0 - 1 2 50.0 1 3 4 3 0 0 1 4 -38
+p732
+aVTony Massenburg VAN 11/16/1997 VAN @ LAL L 14 4 1 3 33.3 0 0 - 2 2 100.0 2 6 8 1 0 0 1 5 8
+p733
+aVAntonio Daniels VAN 11/16/1997 VAN @ LAL L 30 13 5 10 50.0 0 0 - 3 3 100.0 0 1 1 7 1 0 4 1 -27
+p734
+aVShareef Abdur-Rahim VAN 11/16/1997 VAN @ LAL L 33 25 10 22 45.5 0 0 - 5 6 83.3 4 3 7 0 0 1 3 1 -26
+p735
+aVSam Mack VAN 11/16/1997 VAN @ LAL L 20 8 3 8 37.5 1 2 50.0 1 2 50.0 0 1 1 3 0 0 1 1 -26
+p736
+aVBlue Edwards VAN 11/16/1997 VAN @ LAL L 25 8 4 11 36.4 0 2 0.0 0 0 - 2 1 3 5 1 0 2 2 -3
+p737
+aVPete Chilcutt VAN 11/16/1997 VAN @ LAL L 20 9 4 11 36.4 1 4 25.0 0 0 - 2 4 6 1 0 0 0 3 4
+p738
+aVLee Mayberry VAN 11/16/1997 VAN @ LAL L 21 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 4 1 0 0 0 4
+p739
+aVGeorge Lynch VAN 11/16/1997 VAN @ LAL L 24 8 4 7 57.1 0 0 - 0 1 0.0 0 5 5 0 2 1 2 2 -1
+p740
+aVIvano Newbill VAN 11/16/1997 VAN @ LAL L 28 5 1 3 33.3 0 0 - 3 6 50.0 1 4 5 1 1 0 1 5 -25
+p741
+aVIvano Newbill VAN 11/15/1997 VAN vs. MIL W 18 4 2 7 28.6 0 0 - 0 0 - 3 7 10 1 1 0 2 0 -6
+p742
+aVLee Mayberry VAN 11/15/1997 VAN vs. MIL W 22 6 2 3 66.7 1 1 100.0 1 1 100.0 0 1 1 3 2 0 1 4 10
+p743
+aVTony Massenburg VAN 11/15/1997 VAN vs. MIL W 12 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -1
+p744
+aVGeorge Lynch VAN 11/15/1997 VAN vs. MIL W 19 6 3 7 42.9 0 1 0.0 0 1 0.0 0 2 2 3 0 0 3 1 10
+p745
+aVAntonio Daniels VAN 11/15/1997 VAN vs. MIL W 26 12 5 7 71.4 0 0 - 2 2 100.0 0 1 1 4 2 0 2 0 5
+p746
+aVOtis Thorpe VAN 11/15/1997 VAN vs. MIL W 36 19 7 13 53.8 0 0 - 5 6 83.3 2 4 6 5 1 0 2 2 16
+p747
+aVSam Mack VAN 11/15/1997 VAN vs. MIL W 24 13 5 9 55.6 3 4 75.0 0 0 - 1 1 2 0 1 0 2 2 -1
+p748
+aVShareef Abdur-Rahim VAN 11/15/1997 VAN vs. MIL W 36 24 7 14 50.0 0 1 0.0 10 11 90.9 1 5 6 5 1 2 3 1 21
+p749
+aVPete Chilcutt VAN 11/15/1997 VAN vs. MIL W 23 7 2 7 28.6 0 1 0.0 3 5 60.0 1 2 3 3 3 0 1 0 5
+p750
+aVBlue Edwards VAN 11/15/1997 VAN vs. MIL W 24 12 5 7 71.4 0 1 0.0 2 3 66.7 0 0 0 3 2 0 2 4 16
+p751
+aVTony Massenburg VAN 11/12/1997 VAN @ UTA L 19 7 3 5 60.0 0 0 - 1 4 25.0 1 2 3 0 0 1 1 3 5
+p752
+aVAnthony Peeler VAN 11/12/1997 VAN @ UTA L 22 4 2 4 50.0 0 1 0.0 0 0 - 2 1 3 1 2 0 2 2 -14
+p753
+aVBlue Edwards VAN 11/12/1997 VAN @ UTA L 15 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 0 0 1 1 2 -14
+p754
+aVShareef Abdur-Rahim VAN 11/12/1997 VAN @ UTA L 27 13 5 12 41.7 0 0 - 3 3 100.0 2 5 7 0 0 0 1 3 -18
+p755
+aVAntonio Daniels VAN 11/12/1997 VAN @ UTA L 31 9 3 10 30.0 1 1 100.0 2 4 50.0 0 3 3 7 0 0 1 1 -14
+p756
+aVBryant Reeves VAN 11/12/1997 VAN @ UTA L 21 15 7 13 53.8 0 0 - 1 2 50.0 2 4 6 1 0 0 0 0 1
+p757
+aVPete Chilcutt VAN 11/12/1997 VAN @ UTA L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -10
+p758
+aVOtis Thorpe VAN 11/12/1997 VAN @ UTA L 29 4 2 7 28.6 0 0 - 0 0 - 2 3 5 4 1 1 5 3 -23
+p759
+aVGeorge Lynch VAN 11/12/1997 VAN @ UTA L 20 4 1 3 33.3 0 0 - 2 2 100.0 2 5 7 2 2 1 3 1 0
+p760
+aVLee Mayberry VAN 11/12/1997 VAN @ UTA L 17 4 2 4 50.0 0 2 0.0 0 0 - 1 0 1 4 0 0 2 3 -4
+p761
+aVSam Mack VAN 11/12/1997 VAN @ UTA L 12 13 5 9 55.6 3 6 50.0 0 0 - 0 0 0 0 1 0 2 0 3
+p762
+aVIvano Newbill VAN 11/12/1997 VAN @ UTA L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 1 1 0 0 0 -2
+p763
+aVShareef Abdur-Rahim VAN 11/11/1997 VAN vs. LAC W 35 29 12 21 57.1 0 0 - 5 6 83.3 4 5 9 2 0 0 4 2 5
+p764
+aVLee Mayberry VAN 11/11/1997 VAN vs. LAC W 17 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 5 0 0 0 3 6
+p765
+aVBryant Reeves VAN 11/11/1997 VAN vs. LAC W 30 13 6 10 60.0 0 0 - 1 4 25.0 2 6 8 2 1 1 1 5 -4
+p766
+aVPete Chilcutt VAN 11/11/1997 VAN vs. LAC W 18 7 2 5 40.0 1 1 100.0 2 4 50.0 2 5 7 1 1 0 0 1 13
+p767
+aVAnthony Peeler VAN 11/11/1997 VAN vs. LAC W 28 12 6 10 60.0 0 2 0.0 0 0 - 1 1 2 4 0 0 1 0 -8
+p768
+aVOtis Thorpe VAN 11/11/1997 VAN vs. LAC W 38 8 3 8 37.5 0 0 - 2 7 28.6 3 12 15 4 0 0 0 4 13
+p769
+aVTony Massenburg VAN 11/11/1997 VAN vs. LAC W 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p770
+aVBlue Edwards VAN 11/11/1997 VAN vs. LAC W 20 17 5 8 62.5 0 2 0.0 7 10 70.0 1 3 4 0 0 1 2 1 14
+p771
+aVGeorge Lynch VAN 11/11/1997 VAN vs. LAC W 19 12 4 8 50.0 0 0 - 4 4 100.0 3 5 8 2 0 0 1 4 -3
+p772
+aVAntonio Daniels VAN 11/11/1997 VAN vs. LAC W 31 18 5 9 55.6 0 0 - 8 10 80.0 0 0 0 10 0 1 4 1 -1
+p773
+aVBryant Reeves VAN 11/09/1997 VAN vs. DET W 39 22 9 13 69.2 0 0 - 4 7 57.1 4 6 10 1 1 1 1 1 -2
+p774
+aVGeorge Lynch VAN 11/09/1997 VAN vs. DET W 25 16 7 11 63.6 1 1 100.0 1 1 100.0 4 2 6 1 1 0 1 1 3
+p775
+aVAnthony Peeler VAN 11/09/1997 VAN vs. DET W 21 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 6 0 0 0 3 5
+p776
+aVOtis Thorpe VAN 11/09/1997 VAN vs. DET W 40 13 5 10 50.0 0 0 - 3 4 75.0 0 8 8 3 2 1 3 4 20
+p777
+aVBlue Edwards VAN 11/09/1997 VAN vs. DET W 31 16 5 7 71.4 1 2 50.0 5 5 100.0 1 7 8 1 0 0 4 2 4
+p778
+aVShareef Abdur-Rahim VAN 11/09/1997 VAN vs. DET W 45 22 6 14 42.9 0 0 - 10 14 71.4 2 9 11 2 0 1 3 4 16
+p779
+aVTony Massenburg VAN 11/09/1997 VAN vs. DET W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -11
+p780
+aVSam Mack VAN 11/09/1997 VAN vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p781
+aVPete Chilcutt VAN 11/09/1997 VAN vs. DET W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p782
+aVAntonio Daniels VAN 11/09/1997 VAN vs. DET W 23 4 2 6 33.3 0 1 0.0 0 1 0.0 0 2 2 5 0 0 1 2 5
+p783
+aVLee Mayberry VAN 11/09/1997 VAN vs. DET W 30 2 0 3 0.0 0 3 0.0 2 2 100.0 0 4 4 6 1 2 5 3 3
+p784
+aVShareef Abdur-Rahim VAN 11/07/1997 VAN vs. MIN L 36 23 8 19 42.1 0 0 - 7 9 77.8 9 8 17 3 1 0 5 3 -11
+p785
+aVPete Chilcutt VAN 11/07/1997 VAN vs. MIN L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -14
+p786
+aVAntonio Daniels VAN 11/07/1997 VAN vs. MIN L 34 12 4 11 36.4 0 0 - 4 5 80.0 0 1 1 11 1 0 5 1 3
+p787
+aVAnthony Peeler VAN 11/07/1997 VAN vs. MIN L 23 10 5 11 45.5 0 1 0.0 0 1 0.0 0 3 3 0 2 0 0 1 -3
+p788
+aVBryant Reeves VAN 11/07/1997 VAN vs. MIN L 39 19 7 13 53.8 0 0 - 5 6 83.3 3 6 9 3 0 1 2 5 1
+p789
+aVIvano Newbill VAN 11/07/1997 VAN vs. MIN L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p790
+aVTony Massenburg VAN 11/07/1997 VAN vs. MIN L 7 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 -4
+p791
+aVGeorge Lynch VAN 11/07/1997 VAN vs. MIN L 15 10 4 7 57.1 0 0 - 2 2 100.0 1 3 4 0 1 0 1 4 -8
+p792
+aVLee Mayberry VAN 11/07/1997 VAN vs. MIN L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 1 2 -14
+p793
+aVOtis Thorpe VAN 11/07/1997 VAN vs. MIN L 39 12 5 10 50.0 0 0 - 2 4 50.0 2 6 8 3 0 1 0 2 -3
+p794
+aVSam Mack VAN 11/07/1997 VAN vs. MIN L 2 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 6
+p795
+aVBlue Edwards VAN 11/07/1997 VAN vs. MIN L 19 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 4 -6
+p796
+aVBlue Edwards VAN 11/05/1997 VAN @ SAS L 20 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 -6
+p797
+aVOtis Thorpe VAN 11/05/1997 VAN @ SAS L 36 16 8 15 53.3 0 0 - 0 1 0.0 2 7 9 3 0 0 1 4 -3
+p798
+aVLee Mayberry VAN 11/05/1997 VAN @ SAS L 14 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 1 0 0 1 1 0
+p799
+aVGeorge Lynch VAN 11/05/1997 VAN @ SAS L 8 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -3
+p800
+aVTony Massenburg VAN 11/05/1997 VAN @ SAS L 16 7 3 4 75.0 0 0 - 1 1 100.0 2 4 6 1 0 0 1 1 0
+p801
+aVAntonio Daniels VAN 11/05/1997 VAN @ SAS L 34 12 5 10 50.0 0 0 - 2 4 50.0 0 4 4 8 1 0 0 0 -8
+p802
+aVShareef Abdur-Rahim VAN 11/05/1997 VAN @ SAS L 36 11 3 15 20.0 0 0 - 5 8 62.5 4 1 5 2 2 2 7 2 -4
+p803
+aVBryant Reeves VAN 11/05/1997 VAN @ SAS L 34 6 3 8 37.5 0 0 - 0 0 - 2 2 4 2 1 2 5 4 -8
+p804
+aVPete Chilcutt VAN 11/05/1997 VAN @ SAS L 14 4 2 4 50.0 0 0 - 0 0 - 0 5 5 2 0 1 1 0 -6
+p805
+aVAnthony Peeler VAN 11/05/1997 VAN @ SAS L 28 19 8 12 66.7 1 2 50.0 2 3 66.7 0 3 3 2 1 0 0 3 -2
+p806
+aVBlue Edwards VAN 11/04/1997 VAN @ DAL L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -4
+p807
+aVOtis Thorpe VAN 11/04/1997 VAN @ DAL L 38 16 6 10 60.0 0 0 - 4 6 66.7 3 11 14 3 0 0 1 5 -11
+p808
+aVLee Mayberry VAN 11/04/1997 VAN @ DAL L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 4 4 2 0 0 0 2 13
+p809
+aVBryant Reeves VAN 11/04/1997 VAN @ DAL L 41 14 7 16 43.8 0 1 0.0 0 3 0.0 3 6 9 2 0 3 2 4 -3
+p810
+aVPete Chilcutt VAN 11/04/1997 VAN @ DAL L 17 6 3 7 42.9 0 1 0.0 0 0 - 3 3 6 1 0 1 1 2 4
+p811
+aVAnthony Peeler VAN 11/04/1997 VAN @ DAL L 29 9 4 10 40.0 1 4 25.0 0 0 - 0 1 1 3 2 0 0 2 5
+p812
+aVAntonio Daniels VAN 11/04/1997 VAN @ DAL L 33 10 5 12 41.7 0 2 0.0 0 0 - 0 1 1 4 2 0 1 1 -18
+p813
+aVGeorge Lynch VAN 11/04/1997 VAN @ DAL L 15 4 2 6 33.3 0 1 0.0 0 0 - 3 1 4 1 0 0 1 2 -7
+p814
+aVShareef Abdur-Rahim VAN 11/04/1997 VAN @ DAL L 39 28 10 24 41.7 0 0 - 8 10 80.0 4 3 7 4 1 1 3 2 -4
+p815
+aVOtis Thorpe VAN 11/01/1997 VAN vs. SAC W 40 17 7 12 58.3 0 0 - 3 5 60.0 2 11 13 4 0 0 2 5 1
+p816
+aVBlue Edwards VAN 11/01/1997 VAN vs. SAC W 22 12 6 11 54.5 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -8
+p817
+aVTony Massenburg VAN 11/01/1997 VAN vs. SAC W 13 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 0 1 2 3 0
+p818
+aVAnthony Peeler VAN 11/01/1997 VAN vs. SAC W 27 15 6 9 66.7 1 2 50.0 2 2 100.0 1 0 1 3 2 0 3 3 7
+p819
+aVLee Mayberry VAN 11/01/1997 VAN vs. SAC W 31 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 6 1 0 3 2 3
+p820
+aVAntonio Daniels VAN 11/01/1997 VAN vs. SAC W 17 6 3 4 75.0 0 0 - 0 0 - 0 0 0 4 0 0 0 3 -2
+p821
+aVPete Chilcutt VAN 11/01/1997 VAN vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p822
+aVGeorge Lynch VAN 11/01/1997 VAN vs. SAC W 13 4 2 8 25.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -7
+p823
+aVBryant Reeves VAN 11/01/1997 VAN vs. SAC W 39 15 6 10 60.0 0 0 - 3 4 75.0 2 6 8 2 0 2 1 2 10
+p824
+aVShareef Abdur-Rahim VAN 11/01/1997 VAN vs. SAC W 36 19 5 16 31.3 0 0 - 9 10 90.0 3 5 8 2 2 0 2 2 7
+p825
+aVOtis Thorpe VAN 10/31/1997 VAN vs. DAL L 33 4 1 7 14.3 0 0 - 2 2 100.0 3 6 9 2 2 1 4 5 -8
+p826
+aVBlue Edwards VAN 10/31/1997 VAN vs. DAL L 21 14 6 10 60.0 1 2 50.0 1 2 50.0 2 0 2 2 0 1 0 2 6
+p827
+aVShareef Abdur-Rahim VAN 10/31/1997 VAN vs. DAL L 35 31 14 24 58.3 0 1 0.0 3 5 60.0 7 2 9 2 0 1 1 4 6
+p828
+aVAntonio Daniels VAN 10/31/1997 VAN vs. DAL L 23 6 2 8 25.0 0 1 0.0 2 4 50.0 0 1 1 4 1 0 4 3 -10
+p829
+aVPete Chilcutt VAN 10/31/1997 VAN vs. DAL L 14 4 1 5 20.0 0 2 0.0 2 2 100.0 1 0 1 0 1 0 0 2 -2
+p830
+aVIvano Newbill VAN 10/31/1997 VAN vs. DAL L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 4
+p831
+aVLee Mayberry VAN 10/31/1997 VAN vs. DAL L 25 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 7 0 0 1 1 7
+p832
+aVGeorge Lynch VAN 10/31/1997 VAN vs. DAL L 23 7 2 4 50.0 0 0 - 3 4 75.0 3 5 8 4 1 1 1 1 6
+p833
+aVAnthony Peeler VAN 10/31/1997 VAN vs. DAL L 25 5 2 10 20.0 1 5 20.0 0 0 - 1 3 4 4 0 0 0 2 -12
+p834
+aVBryant Reeves VAN 10/31/1997 VAN vs. DAL L 35 15 7 16 43.8 0 0 - 1 1 100.0 6 1 7 0 1 0 5 5 -7
+p835
+a.

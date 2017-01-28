@@ -1,0 +1,1060 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVStephen Curry GSW 01/23/2017 GSW @ MIA L 37 21 7 19 36.8 3 9 33.3 4 5 80.0 0 10 10 8 0 1 4 2 1
+p2
+aVKlay Thompson GSW 01/23/2017 GSW @ MIA L 37 22 8 18 44.4 3 8 37.5 3 4 75.0 0 5 5 1 2 1 2 4 1
+p3
+aVIan Clark GSW 01/23/2017 GSW @ MIA L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p4
+aVZaza Pachulia GSW 01/23/2017 GSW @ MIA L 27 6 2 6 33.3 0 0 - 2 4 50.0 4 5 9 2 2 0 1 3 -6
+p5
+aVKevin Durant GSW 01/23/2017 GSW @ MIA L 36 27 12 23 52.2 1 8 12.5 2 2 100.0 0 6 6 3 1 0 2 2 -9
+p6
+aVJaVale McGee GSW 01/23/2017 GSW @ MIA L 14 10 5 6 83.3 0 0 - 0 1 0.0 1 4 5 1 1 0 0 2 -3
+p7
+aVDraymond Green GSW 01/23/2017 GSW @ MIA L 39 7 3 8 37.5 0 3 0.0 1 4 25.0 1 2 3 7 1 1 2 3 7
+p8
+aVShaun Livingston GSW 01/23/2017 GSW @ MIA L 21 4 2 4 50.0 0 0 - 0 0 - 1 4 5 5 1 1 3 4 1
+p9
+aVPatrick McCaw GSW 01/23/2017 GSW @ MIA L 18 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p10
+aVKevon Looney GSW 01/22/2017 GSW @ ORL W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -13
+p11
+aVIan Clark GSW 01/22/2017 GSW @ ORL W 14 7 3 8 37.5 1 4 25.0 0 0 - 1 2 3 2 0 0 2 0 3
+p12
+aVDraymond Green GSW 01/22/2017 GSW @ ORL W 33 6 1 7 14.3 0 4 0.0 4 4 100.0 4 6 10 4 0 0 3 3 6
+p13
+aVDamian Jones GSW 01/22/2017 GSW @ ORL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -5
+p14
+aVPatrick McCaw GSW 01/22/2017 GSW @ ORL W 20 10 4 11 36.4 2 5 40.0 0 0 - 1 0 1 1 0 0 1 0 -12
+p15
+aVAndre Iguodala GSW 01/22/2017 GSW @ ORL W 29 5 1 5 20.0 1 4 25.0 2 2 100.0 0 6 6 5 1 1 3 0 12
+p16
+aVKevin Durant GSW 01/22/2017 GSW @ ORL W 29 15 5 12 41.7 1 3 33.3 4 5 80.0 1 9 10 6 3 2 1 1 35
+p17
+aVJaVale McGee GSW 01/22/2017 GSW @ ORL W 13 13 6 7 85.7 0 0 - 1 2 50.0 3 1 4 1 1 0 0 1 26
+p18
+aVZaza Pachulia GSW 01/22/2017 GSW @ ORL W 20 14 7 8 87.5 0 0 - 0 2 0.0 2 3 5 1 2 0 1 2 5
+p19
+aVJames Michael McAdoo GSW 01/22/2017 GSW @ ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -6
+p20
+aVKlay Thompson GSW 01/22/2017 GSW @ ORL W 34 21 7 14 50.0 7 9 77.8 0 0 - 0 5 5 1 0 0 3 1 17
+p21
+aVStephen Curry GSW 01/22/2017 GSW @ ORL W 30 27 8 15 53.3 7 13 53.8 4 4 100.0 1 3 4 6 0 0 3 2 32
+p22
+aVKevin Durant GSW 01/20/2017 GSW @ HOU W 34 32 12 19 63.2 2 7 28.6 6 7 85.7 0 4 4 7 2 2 1 2 25
+p23
+aVKlay Thompson GSW 01/20/2017 GSW @ HOU W 34 16 7 19 36.8 2 10 20.0 0 0 - 0 1 1 1 1 0 2 1 9
+p24
+aVKevon Looney GSW 01/20/2017 GSW @ HOU W 11 3 1 1 100.0 0 0 - 1 1 100.0 2 1 3 2 0 0 0 2 -5
+p25
+aVJames Michael McAdoo GSW 01/20/2017 GSW @ HOU W 12 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 3 0 -5
+p26
+aVZaza Pachulia GSW 01/20/2017 GSW @ HOU W 20 10 3 5 60.0 0 0 - 4 6 66.7 2 7 9 2 2 0 1 4 20
+p27
+aVStephen Curry GSW 01/20/2017 GSW @ HOU W 33 24 8 18 44.4 5 11 45.5 3 5 60.0 0 1 1 7 1 0 1 1 15
+p28
+aVShaun Livingston GSW 01/20/2017 GSW @ HOU W 18 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 1 2 1 4
+p29
+aVIan Clark GSW 01/20/2017 GSW @ HOU W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 3 -7
+p30
+aVPatrick McCaw GSW 01/20/2017 GSW @ HOU W 3 8 3 3 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p31
+aVDraymond Green GSW 01/20/2017 GSW @ HOU W 33 15 6 12 50.0 3 5 60.0 0 0 - 2 6 8 7 1 3 3 3 18
+p32
+aVAndre Iguodala GSW 01/20/2017 GSW @ HOU W 27 5 2 5 40.0 1 2 50.0 0 0 - 1 8 9 2 1 0 0 1 18
+p33
+aVKevin Durant GSW 01/18/2017 GSW vs. OKC W 34 40 13 16 81.3 5 7 71.4 9 10 90.0 2 10 12 4 0 3 2 2 31
+p34
+aVShaun Livingston GSW 01/18/2017 GSW vs. OKC W 20 8 4 8 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 4
+p35
+aVKevon Looney GSW 01/18/2017 GSW vs. OKC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p36
+aVDavid West GSW 01/18/2017 GSW vs. OKC W 11 8 4 5 80.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 7
+p37
+aVIan Clark GSW 01/18/2017 GSW vs. OKC W 13 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 3 0 0 3 4 -5
+p38
+aVAnderson Varejao GSW 01/18/2017 GSW vs. OKC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p39
+aVStephen Curry GSW 01/18/2017 GSW vs. OKC W 34 24 9 19 47.4 2 6 33.3 4 4 100.0 0 4 4 8 3 0 3 0 19
+p40
+aVJaVale McGee GSW 01/18/2017 GSW vs. OKC W 6 2 1 2 50.0 0 1 0.0 0 2 0.0 0 2 2 0 0 1 1 1 -5
+p41
+aVAndre Iguodala GSW 01/18/2017 GSW vs. OKC W 25 6 3 4 75.0 0 0 - 0 0 - 1 1 2 5 4 0 2 1 -1
+p42
+aVKlay Thompson GSW 01/18/2017 GSW vs. OKC W 30 14 5 12 41.7 3 5 60.0 1 2 50.0 1 3 4 3 1 1 1 2 21
+p43
+aVZaza Pachulia GSW 01/18/2017 GSW vs. OKC W 19 5 1 5 20.0 0 0 - 3 5 60.0 3 3 6 2 1 0 1 3 8
+p44
+aVDraymond Green GSW 01/18/2017 GSW vs. OKC W 36 12 5 9 55.6 0 1 0.0 2 4 50.0 2 9 11 5 1 3 4 2 15
+p45
+aVPatrick McCaw GSW 01/18/2017 GSW vs. OKC W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p46
+aVKevin Durant GSW 01/16/2017 GSW vs. CLE W 29 21 9 16 56.3 3 7 42.9 0 0 - 1 5 6 5 2 3 1 0 21
+p47
+aVDavid West GSW 01/16/2017 GSW vs. CLE W 15 6 3 4 75.0 0 0 - 0 0 - 0 2 2 3 1 0 1 2 16
+p48
+aVPatrick McCaw GSW 01/16/2017 GSW vs. CLE W 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -3
+p49
+aVStephen Curry GSW 01/16/2017 GSW vs. CLE W 31 20 7 20 35.0 5 12 41.7 1 2 50.0 0 2 2 11 4 0 3 2 23
+p50
+aVJames Michael McAdoo GSW 01/16/2017 GSW vs. CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p51
+aVJaVale McGee GSW 01/16/2017 GSW vs. CLE W 9 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 1 2 3 4
+p52
+aVZaza Pachulia GSW 01/16/2017 GSW vs. CLE W 21 4 2 7 28.6 0 0 - 0 0 - 3 10 13 1 1 0 1 3 24
+p53
+aVAndre Iguodala GSW 01/16/2017 GSW vs. CLE W 25 14 5 5 100.0 2 2 100.0 2 2 100.0 1 2 3 5 0 1 1 0 16
+p54
+aVShaun Livingston GSW 01/16/2017 GSW vs. CLE W 15 13 6 7 85.7 0 0 - 1 1 100.0 0 2 2 1 0 0 1 4 13
+p55
+aVDraymond Green GSW 01/16/2017 GSW vs. CLE W 35 11 4 6 66.7 0 0 - 3 4 75.0 2 11 13 11 1 5 0 1 43
+p56
+aVKevon Looney GSW 01/16/2017 GSW vs. CLE W 9 3 0 2 0.0 0 0 - 3 4 75.0 4 1 5 0 0 0 1 1 -10
+p57
+aVIan Clark GSW 01/16/2017 GSW vs. CLE W 12 2 0 3 0.0 0 2 0.0 2 4 50.0 0 3 3 0 1 0 2 0 -10
+p58
+aVKlay Thompson GSW 01/16/2017 GSW vs. CLE W 31 26 8 17 47.1 5 11 45.5 5 5 100.0 0 4 4 0 0 1 2 5 41
+p59
+aVKevin Durant GSW 01/12/2017 GSW vs. DET W 31 25 10 15 66.7 3 5 60.0 2 2 100.0 0 6 6 9 1 0 3 0 24
+p60
+aVShaun Livingston GSW 01/12/2017 GSW vs. DET W 21 10 5 7 71.4 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -10
+p61
+aVJaVale McGee GSW 01/12/2017 GSW vs. DET W 8 8 4 5 80.0 0 0 - 0 0 - 3 3 6 0 0 1 0 2 14
+p62
+aVKevon Looney GSW 01/12/2017 GSW vs. DET W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -4
+p63
+aVDraymond Green GSW 01/12/2017 GSW vs. DET W 30 2 0 4 0.0 0 2 0.0 2 2 100.0 1 8 9 13 0 2 1 1 9
+p64
+aVKlay Thompson GSW 01/12/2017 GSW vs. DET W 36 23 9 15 60.0 4 5 80.0 1 4 25.0 1 2 3 3 2 0 1 3 9
+p65
+aVIan Clark GSW 01/12/2017 GSW vs. DET W 16 14 4 8 50.0 3 4 75.0 3 4 75.0 0 2 2 1 2 0 0 0 16
+p66
+aVAndre Iguodala GSW 01/12/2017 GSW vs. DET W 21 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 2 0 0 0 3 8
+p67
+aVDavid West GSW 01/12/2017 GSW vs. DET W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -8
+p68
+aVStephen Curry GSW 01/12/2017 GSW vs. DET W 30 24 9 17 52.9 3 9 33.3 3 3 100.0 0 2 2 7 5 0 8 0 32
+p69
+aVZaza Pachulia GSW 01/12/2017 GSW vs. DET W 24 7 3 6 50.0 0 0 - 1 2 50.0 0 5 5 1 2 1 2 2 15
+p70
+aVAnderson Varejao GSW 01/12/2017 GSW vs. DET W 6 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 1 0 0 1 1 -1
+p71
+aVPatrick McCaw GSW 01/12/2017 GSW vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -4
+p72
+aVJaVale McGee GSW 01/10/2017 GSW vs. MIA W 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 2 1 1 11
+p73
+aVDavid West GSW 01/10/2017 GSW vs. MIA W 12 2 1 4 25.0 0 0 - 0 0 - 1 4 5 3 1 0 0 0 1
+p74
+aVKevin Durant GSW 01/10/2017 GSW vs. MIA W 37 28 10 21 47.6 3 6 50.0 5 5 100.0 1 7 8 0 1 2 2 2 5
+p75
+aVDraymond Green GSW 01/10/2017 GSW vs. MIA W 36 13 4 11 36.4 0 3 0.0 5 6 83.3 0 9 9 5 2 2 1 0 3
+p76
+aVAndre Iguodala GSW 01/10/2017 GSW vs. MIA W 29 9 4 6 66.7 1 2 50.0 0 0 - 1 4 5 4 0 0 0 0 13
+p77
+aVShaun Livingston GSW 01/10/2017 GSW vs. MIA W 18 8 3 5 60.0 0 0 - 2 4 50.0 0 0 0 1 0 0 0 3 0
+p78
+aVIan Clark GSW 01/10/2017 GSW vs. MIA W 22 10 4 9 44.4 2 3 66.7 0 0 - 0 1 1 3 0 0 1 3 15
+p79
+aVPatrick McCaw GSW 01/10/2017 GSW vs. MIA W 19 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 0 0 0 1 4 -11
+p80
+aVZaza Pachulia GSW 01/10/2017 GSW vs. MIA W 24 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 3 1 0 2 3 7
+p81
+aVJames Michael McAdoo GSW 01/10/2017 GSW vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p82
+aVStephen Curry GSW 01/10/2017 GSW vs. MIA W 36 24 8 21 38.1 4 11 36.4 4 5 80.0 1 7 8 9 1 1 3 0 18
+p83
+aVDraymond Green GSW 01/08/2017 GSW @ SAC W 32 9 4 9 44.4 1 4 25.0 0 0 - 1 6 7 10 2 2 4 5 21
+p84
+aVZaza Pachulia GSW 01/08/2017 GSW @ SAC W 22 10 4 5 80.0 0 0 - 2 2 100.0 5 2 7 2 3 0 1 5 15
+p85
+aVKevin Durant GSW 01/08/2017 GSW @ SAC W 36 28 9 15 60.0 2 4 50.0 8 9 88.9 0 7 7 6 1 4 1 1 6
+p86
+aVShaun Livingston GSW 01/08/2017 GSW @ SAC W 19 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 -2
+p87
+aVAndre Iguodala GSW 01/08/2017 GSW @ SAC W 29 8 3 6 50.0 1 1 100.0 1 2 50.0 2 5 7 5 1 0 0 0 -2
+p88
+aVIan Clark GSW 01/08/2017 GSW @ SAC W 10 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 3 -5
+p89
+aVDavid West GSW 01/08/2017 GSW @ SAC W 15 2 1 3 33.3 0 0 - 0 0 - 1 4 5 2 1 0 1 1 -8
+p90
+aVKlay Thompson GSW 01/08/2017 GSW @ SAC W 36 18 8 19 42.1 1 7 14.3 1 2 50.0 1 5 6 2 0 0 5 3 18
+p91
+aVStephen Curry GSW 01/08/2017 GSW @ SAC W 37 30 11 22 50.0 5 11 45.5 3 3 100.0 2 2 4 6 2 0 4 3 14
+p92
+aVJaVale McGee GSW 01/08/2017 GSW @ SAC W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p93
+aVIan Clark GSW 01/06/2017 GSW vs. MEM L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p94
+aVDraymond Green GSW 01/06/2017 GSW vs. MEM L 40 11 3 6 50.0 1 3 33.3 4 5 80.0 0 8 8 4 3 0 4 6 -7
+p95
+aVJaVale McGee GSW 01/06/2017 GSW vs. MEM L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p96
+aVZaza Pachulia GSW 01/06/2017 GSW vs. MEM L 30 10 3 4 75.0 0 0 - 4 4 100.0 0 5 5 2 0 0 0 3 -9
+p97
+aVKevin Durant GSW 01/06/2017 GSW vs. MEM L 43 27 7 17 41.2 0 5 0.0 13 18 72.2 2 11 13 4 0 3 4 1 6
+p98
+aVPatrick McCaw GSW 01/06/2017 GSW vs. MEM L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p99
+aVAndre Iguodala GSW 01/06/2017 GSW vs. MEM L 27 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 0 0 0 0 2 -13
+p100
+aVStephen Curry GSW 01/06/2017 GSW vs. MEM L 42 40 15 27 55.6 5 13 38.5 5 5 100.0 0 3 3 6 1 1 4 2 -10
+p101
+aVDavid West GSW 01/06/2017 GSW vs. MEM L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 3 2 1 0 2 2
+p102
+aVShaun Livingston GSW 01/06/2017 GSW vs. MEM L 16 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 2 1 0 3 2 -10
+p103
+aVKlay Thompson GSW 01/06/2017 GSW vs. MEM L 42 17 7 17 41.2 2 6 33.3 1 3 33.3 3 3 6 2 0 0 0 1 2
+p104
+aVDraymond Green GSW 01/04/2017 GSW vs. POR W 30 9 3 6 50.0 2 4 50.0 1 3 33.3 1 6 7 11 3 1 2 5 4
+p105
+aVKevin Durant GSW 01/04/2017 GSW vs. POR W 38 30 9 16 56.3 3 8 37.5 9 9 100.0 0 5 5 4 2 3 2 3 22
+p106
+aVDavid West GSW 01/04/2017 GSW vs. POR W 14 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 1 0 1 2 0
+p107
+aVShaun Livingston GSW 01/04/2017 GSW vs. POR W 18 9 4 6 66.7 0 0 - 1 1 100.0 1 3 4 1 0 0 2 0 1
+p108
+aVKlay Thompson GSW 01/04/2017 GSW vs. POR W 37 14 5 15 33.3 1 7 14.3 3 3 100.0 0 3 3 1 3 2 2 3 3
+p109
+aVKevon Looney GSW 01/04/2017 GSW vs. POR W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p110
+aVAndre Iguodala GSW 01/04/2017 GSW vs. POR W 30 6 2 3 66.7 1 1 100.0 1 2 50.0 2 3 5 6 2 0 0 1 1
+p111
+aVIan Clark GSW 01/04/2017 GSW vs. POR W 12 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 1 5
+p112
+aVJaVale McGee GSW 01/04/2017 GSW vs. POR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -6
+p113
+aVZaza Pachulia GSW 01/04/2017 GSW vs. POR W 19 13 5 7 71.4 0 0 - 3 3 100.0 1 2 3 1 1 3 1 1 10
+p114
+aVStephen Curry GSW 01/04/2017 GSW vs. POR W 36 35 12 25 48.0 5 13 38.5 6 8 75.0 1 6 7 5 1 0 5 1 6
+p115
+aVPatrick McCaw GSW 01/04/2017 GSW vs. POR W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p116
+aVJaVale McGee GSW 01/02/2017 GSW vs. DEN W 9 9 4 4 100.0 0 0 - 1 3 33.3 1 3 4 0 1 0 0 0 0
+p117
+aVZaza Pachulia GSW 01/02/2017 GSW vs. DEN W 19 11 4 8 50.0 0 0 - 3 3 100.0 4 5 9 1 0 0 2 4 17
+p118
+aVKlay Thompson GSW 01/02/2017 GSW vs. DEN W 37 25 9 19 47.4 4 7 57.1 3 3 100.0 0 5 5 1 0 1 0 1 7
+p119
+aVDraymond Green GSW 01/02/2017 GSW vs. DEN W 36 15 5 8 62.5 1 2 50.0 4 6 66.7 3 7 10 13 0 0 5 3 11
+p120
+aVAndre Iguodala GSW 01/02/2017 GSW vs. DEN W 22 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 3 2 0 1 0 -10
+p121
+aVIan Clark GSW 01/02/2017 GSW vs. DEN W 16 12 4 5 80.0 2 2 100.0 2 2 100.0 0 1 1 1 2 0 0 1 5
+p122
+aVShaun Livingston GSW 01/02/2017 GSW vs. DEN W 18 6 3 6 50.0 0 0 - 0 1 0.0 2 1 3 4 1 0 0 0 9
+p123
+aVDavid West GSW 01/02/2017 GSW vs. DEN W 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 3 0 0 0 1 -2
+p124
+aVKevin Durant GSW 01/02/2017 GSW vs. DEN W 34 21 10 19 52.6 1 4 25.0 0 0 - 0 3 3 2 1 1 2 2 -4
+p125
+aVStephen Curry GSW 01/02/2017 GSW vs. DEN W 35 22 8 18 44.4 3 9 33.3 3 3 100.0 0 3 3 5 0 0 3 2 7
+p126
+aVZaza Pachulia GSW 12/30/2016 GSW vs. DAL W 18 2 1 6 16.7 0 0 - 0 0 - 1 4 5 0 1 0 0 1 11
+p127
+aVKlay Thompson GSW 12/30/2016 GSW vs. DAL W 36 29 11 19 57.9 5 11 45.5 2 2 100.0 0 4 4 2 1 1 2 0 4
+p128
+aVJaVale McGee GSW 12/30/2016 GSW vs. DAL W 11 8 4 4 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p129
+aVDraymond Green GSW 12/30/2016 GSW vs. DAL W 27 13 6 10 60.0 1 3 33.3 0 0 - 2 6 8 7 0 0 3 3 17
+p130
+aVIan Clark GSW 12/30/2016 GSW vs. DAL W 24 7 3 8 37.5 0 3 0.0 1 2 50.0 1 1 2 1 1 0 1 0 -1
+p131
+aVKevon Looney GSW 12/30/2016 GSW vs. DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p132
+aVAndre Iguodala GSW 12/30/2016 GSW vs. DAL W 23 2 0 3 0.0 0 3 0.0 2 2 100.0 0 4 4 2 0 1 0 2 -2
+p133
+aVDavid West GSW 12/30/2016 GSW vs. DAL W 15 8 2 2 100.0 0 0 - 4 4 100.0 0 2 2 4 1 0 1 2 4
+p134
+aVShaun Livingston GSW 12/30/2016 GSW vs. DAL W 18 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 2 0 1 -5
+p135
+aVStephen Curry GSW 12/30/2016 GSW vs. DAL W 30 14 5 12 41.7 3 6 50.0 1 1 100.0 0 4 4 5 1 0 1 2 14
+p136
+aVKevin Durant GSW 12/30/2016 GSW vs. DAL W 35 19 7 14 50.0 2 7 28.6 3 4 75.0 0 11 11 10 0 0 4 0 9
+p137
+aVShaun Livingston GSW 12/28/2016 GSW vs. TOR W 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -20
+p138
+aVJaVale McGee GSW 12/28/2016 GSW vs. TOR W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p139
+aVStephen Curry GSW 12/28/2016 GSW vs. TOR W 36 28 9 18 50.0 3 6 50.0 7 7 100.0 1 6 7 7 0 0 2 3 27
+p140
+aVZaza Pachulia GSW 12/28/2016 GSW vs. TOR W 18 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 3 0 0 1 3 8
+p141
+aVKlay Thompson GSW 12/28/2016 GSW vs. TOR W 35 21 8 18 44.4 5 7 71.4 0 0 - 1 5 6 2 1 2 2 3 18
+p142
+aVKevin Durant GSW 12/28/2016 GSW vs. TOR W 38 22 8 15 53.3 3 5 60.0 3 5 60.0 0 17 17 7 0 5 6 0 21
+p143
+aVAndre Iguodala GSW 12/28/2016 GSW vs. TOR W 30 11 5 5 100.0 0 0 - 1 2 50.0 1 2 3 2 1 0 1 0 0
+p144
+aVDraymond Green GSW 12/28/2016 GSW vs. TOR W 38 14 6 8 75.0 2 3 66.7 0 0 - 0 6 6 10 2 2 4 3 21
+p145
+aVDavid West GSW 12/28/2016 GSW vs. TOR W 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -11
+p146
+aVIan Clark GSW 12/28/2016 GSW vs. TOR W 16 9 3 7 42.9 1 2 50.0 2 2 100.0 4 1 5 0 0 0 1 1 -14
+p147
+aVAndre Iguodala GSW 12/25/2016 GSW @ CLE L 25 0 0 4 0.0 0 2 0.0 0 0 - 1 3 4 4 0 1 2 3 0
+p148
+aVKevin Durant GSW 12/25/2016 GSW @ CLE L 38 36 11 23 47.8 2 8 25.0 12 12 100.0 0 15 15 3 1 1 0 2 0
+p149
+aVZaza Pachulia GSW 12/25/2016 GSW @ CLE L 13 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 0 0 3 4 2
+p150
+aVDavid West GSW 12/25/2016 GSW @ CLE L 14 5 1 3 33.3 0 0 - 3 3 100.0 1 1 2 5 1 0 1 1 -2
+p151
+aVKlay Thompson GSW 12/25/2016 GSW @ CLE L 41 24 9 16 56.3 5 11 45.5 1 2 50.0 0 2 2 1 1 1 2 1 1
+p152
+aVPatrick McCaw GSW 12/25/2016 GSW @ CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p153
+aVStephen Curry GSW 12/25/2016 GSW @ CLE L 37 15 4 11 36.4 2 7 28.6 5 6 83.3 0 3 3 3 3 0 3 4 -1
+p154
+aVDraymond Green GSW 12/25/2016 GSW @ CLE L 32 16 7 9 77.8 0 2 0.0 2 2 100.0 0 4 4 4 1 0 6 5 -1
+p155
+aVIan Clark GSW 12/25/2016 GSW @ CLE L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -2
+p156
+aVJaVale McGee GSW 12/25/2016 GSW @ CLE L 9 2 1 3 33.3 0 0 - 0 2 0.0 2 1 3 0 0 0 1 2 0
+p157
+aVShaun Livingston GSW 12/25/2016 GSW @ CLE L 18 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 3 0 1 1 1 -2
+p158
+aVKevon Looney GSW 12/25/2016 GSW @ CLE L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p159
+aVAndre Iguodala GSW 12/23/2016 GSW @ DET W 26 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 0 2 1 -6
+p160
+aVShaun Livingston GSW 12/23/2016 GSW @ DET W 15 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 2 0 0 2 -6
+p161
+aVZaza Pachulia GSW 12/23/2016 GSW @ DET W 19 7 2 2 100.0 0 0 - 3 3 100.0 3 5 8 0 1 0 2 1 -6
+p162
+aVDavid West GSW 12/23/2016 GSW @ DET W 14 6 3 4 75.0 0 0 - 0 0 - 0 1 1 5 1 0 0 3 5
+p163
+aVJaVale McGee GSW 12/23/2016 GSW @ DET W 9 15 6 7 85.7 0 0 - 3 3 100.0 0 3 3 0 0 1 1 3 -2
+p164
+aVStephen Curry GSW 12/23/2016 GSW @ DET W 35 25 7 16 43.8 5 10 50.0 6 6 100.0 0 3 3 8 2 0 5 1 6
+p165
+aVKlay Thompson GSW 12/23/2016 GSW @ DET W 37 17 6 14 42.9 3 8 37.5 2 2 100.0 0 3 3 2 1 0 3 0 15
+p166
+aVIan Clark GSW 12/23/2016 GSW @ DET W 15 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 1 3
+p167
+aVKevin Durant GSW 12/23/2016 GSW @ DET W 32 32 13 18 72.2 3 4 75.0 3 4 75.0 0 8 8 3 0 0 4 5 17
+p168
+aVDraymond Green GSW 12/23/2016 GSW @ DET W 38 5 1 7 14.3 0 5 0.0 3 4 75.0 0 9 9 12 2 1 4 4 4
+p169
+aVJames Michael McAdoo GSW 12/22/2016 GSW @ BKN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p170
+aVStephen Curry GSW 12/22/2016 GSW @ BKN W 33 15 6 19 31.6 3 13 23.1 0 0 - 0 2 2 7 5 0 2 5 25
+p171
+aVAndre Iguodala GSW 12/22/2016 GSW @ BKN W 25 8 3 6 50.0 2 5 40.0 0 0 - 1 5 6 1 2 1 1 0 -1
+p172
+aVKevon Looney GSW 12/22/2016 GSW @ BKN W 18 4 2 5 40.0 0 0 - 0 0 - 2 4 6 5 1 1 0 2 14
+p173
+aVJaVale McGee GSW 12/22/2016 GSW @ BKN W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 0 3
+p174
+aVKevin Durant GSW 12/22/2016 GSW @ BKN W 34 26 10 23 43.5 1 7 14.3 5 6 83.3 0 9 9 7 3 1 0 2 10
+p175
+aVKlay Thompson GSW 12/22/2016 GSW @ BKN W 35 23 9 24 37.5 5 10 50.0 0 0 - 0 5 5 2 4 0 2 0 23
+p176
+aVShaun Livingston GSW 12/22/2016 GSW @ BKN W 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 2 0 2 2 -3
+p177
+aVDavid West GSW 12/22/2016 GSW @ BKN W 16 10 4 5 80.0 0 0 - 2 2 100.0 1 5 6 2 1 2 3 2 -3
+p178
+aVAnderson Varejao GSW 12/22/2016 GSW @ BKN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p179
+aVIan Clark GSW 12/22/2016 GSW @ BKN W 15 8 4 6 66.7 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -4
+p180
+aVPatrick McCaw GSW 12/22/2016 GSW @ BKN W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p181
+aVZaza Pachulia GSW 12/22/2016 GSW @ BKN W 26 15 6 9 66.7 0 0 - 3 4 75.0 7 7 14 4 0 1 1 4 19
+p182
+aVAndre Iguodala GSW 12/20/2016 GSW vs. UTA W 26 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 4 2 1 1 3 25
+p183
+aVStephen Curry GSW 12/20/2016 GSW vs. UTA W 30 25 8 18 44.4 4 9 44.4 5 5 100.0 0 3 3 4 3 0 0 0 27
+p184
+aVDavid West GSW 12/20/2016 GSW vs. UTA W 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 0 6
+p185
+aVShaun Livingston GSW 12/20/2016 GSW vs. UTA W 18 2 1 4 25.0 0 0 - 0 0 - 1 1 2 4 0 0 0 5 5
+p186
+aVKevin Durant GSW 12/20/2016 GSW vs. UTA W 25 22 8 14 57.1 0 1 0.0 6 6 100.0 1 4 5 1 0 0 1 4 16
+p187
+aVZaza Pachulia GSW 12/20/2016 GSW vs. UTA W 15 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 0 13
+p188
+aVIan Clark GSW 12/20/2016 GSW vs. UTA W 10 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 1 1 0 2 2 7
+p189
+aVAnderson Varejao GSW 12/20/2016 GSW vs. UTA W 7 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 0 1 1 0 -4
+p190
+aVKevon Looney GSW 12/20/2016 GSW vs. UTA W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 1 0 1 1 1 -4
+p191
+aVKlay Thompson GSW 12/20/2016 GSW vs. UTA W 31 17 8 13 61.5 1 3 33.3 0 0 - 0 5 5 1 1 0 1 0 32
+p192
+aVPatrick McCaw GSW 12/20/2016 GSW vs. UTA W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p193
+aVDraymond Green GSW 12/20/2016 GSW vs. UTA W 31 15 6 11 54.5 2 5 40.0 1 2 50.0 0 11 11 4 5 0 2 3 32
+p194
+aVJaVale McGee GSW 12/20/2016 GSW vs. UTA W 15 8 4 14 28.6 0 1 0.0 0 0 - 2 5 7 1 1 0 0 0 -2
+p195
+aVJames Michael McAdoo GSW 12/17/2016 GSW vs. POR W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 8
+p196
+aVKlay Thompson GSW 12/17/2016 GSW vs. POR W 25 16 7 15 46.7 1 4 25.0 1 1 100.0 0 0 0 2 0 1 0 0 21
+p197
+aVZaza Pachulia GSW 12/17/2016 GSW vs. POR W 17 4 1 3 33.3 0 0 - 2 4 50.0 4 3 7 0 1 1 1 4 21
+p198
+aVKevin Durant GSW 12/17/2016 GSW vs. POR W 31 34 11 13 84.6 4 5 80.0 8 10 80.0 1 10 11 4 2 1 5 2 33
+p199
+aVJaVale McGee GSW 12/17/2016 GSW vs. POR W 11 11 5 5 100.0 0 0 - 1 3 33.3 0 5 5 0 1 1 1 2 4
+p200
+aVAndre Iguodala GSW 12/17/2016 GSW vs. POR W 19 9 4 6 66.7 1 2 50.0 0 0 - 0 3 3 1 0 0 1 0 15
+p201
+aVKevon Looney GSW 12/17/2016 GSW vs. POR W 12 4 2 6 33.3 0 0 - 0 0 - 2 3 5 1 0 0 0 1 9
+p202
+aVStephen Curry GSW 12/17/2016 GSW vs. POR W 27 19 6 11 54.5 5 8 62.5 2 2 100.0 0 3 3 6 0 0 3 3 21
+p203
+aVIan Clark GSW 12/17/2016 GSW vs. POR W 21 23 9 11 81.8 3 4 75.0 2 2 100.0 0 2 2 4 1 0 0 1 25
+p204
+aVDavid West GSW 12/17/2016 GSW vs. POR W 7 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 0 0 16
+p205
+aVShaun Livingston GSW 12/17/2016 GSW vs. POR W 16 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 0 12
+p206
+aVPatrick McCaw GSW 12/17/2016 GSW vs. POR W 16 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 2 1 0 1 1 20
+p207
+aVDraymond Green GSW 12/17/2016 GSW vs. POR W 29 3 1 4 25.0 0 2 0.0 1 2 50.0 0 12 12 13 0 1 1 2 20
+p208
+aVJaVale McGee GSW 12/15/2016 GSW vs. NYK W 16 17 8 10 80.0 0 0 - 1 3 33.3 2 0 2 1 0 1 1 0 13
+p209
+aVJames Michael McAdoo GSW 12/15/2016 GSW vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p210
+aVShaun Livingston GSW 12/15/2016 GSW vs. NYK W 19 10 5 8 62.5 0 0 - 0 0 - 0 1 1 3 0 1 0 2 -6
+p211
+aVPatrick McCaw GSW 12/15/2016 GSW vs. NYK W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -2
+p212
+aVIan Clark GSW 12/15/2016 GSW vs. NYK W 11 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 2 1 0 2 1 -5
+p213
+aVDraymond Green GSW 12/15/2016 GSW vs. NYK W 32 5 2 12 16.7 1 5 20.0 0 0 - 5 6 11 7 0 2 3 3 18
+p214
+aVKevon Looney GSW 12/15/2016 GSW vs. NYK W 15 5 2 2 100.0 0 0 - 1 2 50.0 2 2 4 0 1 1 0 2 -2
+p215
+aVKlay Thompson GSW 12/15/2016 GSW vs. NYK W 32 25 10 17 58.8 4 10 40.0 1 1 100.0 2 3 5 4 1 0 2 2 17
+p216
+aVKevin Durant GSW 12/15/2016 GSW vs. NYK W 33 15 7 18 38.9 1 6 16.7 0 0 - 1 13 14 8 0 2 2 1 8
+p217
+aVAndre Iguodala GSW 12/15/2016 GSW vs. NYK W 21 5 2 3 66.7 0 1 0.0 1 2 50.0 1 3 4 3 1 2 1 5 7
+p218
+aVDavid West GSW 12/15/2016 GSW vs. NYK W 10 2 1 1 100.0 0 0 - 0 0 - 1 3 4 4 2 1 2 1 -2
+p219
+aVStephen Curry GSW 12/15/2016 GSW vs. NYK W 34 8 3 14 21.4 2 8 25.0 0 0 - 1 9 10 8 1 0 3 0 20
+p220
+aVJaVale McGee GSW 12/13/2016 GSW @ NOP W 16 9 4 5 80.0 0 0 - 1 2 50.0 1 4 5 0 0 0 0 0 8
+p221
+aVIan Clark GSW 12/13/2016 GSW @ NOP W 13 6 2 6 33.3 2 4 50.0 0 0 - 0 2 2 0 0 0 0 1 -5
+p222
+aVAndre Iguodala GSW 12/13/2016 GSW @ NOP W 31 6 2 6 33.3 2 5 40.0 0 0 - 2 6 8 3 0 0 0 2 -1
+p223
+aVKevon Looney GSW 12/13/2016 GSW @ NOP W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p224
+aVPatrick McCaw GSW 12/13/2016 GSW @ NOP W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 0 2
+p225
+aVDraymond Green GSW 12/13/2016 GSW @ NOP W 36 12 4 11 36.4 2 5 40.0 2 2 100.0 1 13 14 10 4 1 2 2 5
+p226
+aVKlay Thompson GSW 12/13/2016 GSW @ NOP W 37 17 6 16 37.5 2 8 25.0 3 4 75.0 1 2 3 3 0 2 2 2 10
+p227
+aVShaun Livingston GSW 12/13/2016 GSW @ NOP W 17 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 0
+p228
+aVDavid West GSW 12/13/2016 GSW @ NOP W 12 2 1 4 25.0 0 0 - 0 0 - 0 3 3 3 0 0 1 0 -2
+p229
+aVStephen Curry GSW 12/13/2016 GSW @ NOP W 34 30 11 23 47.8 5 9 55.6 3 4 75.0 2 2 4 7 1 0 2 2 4
+p230
+aVKevin Durant GSW 12/13/2016 GSW @ NOP W 37 27 10 19 52.6 1 3 33.3 6 7 85.7 0 2 2 3 0 2 3 2 1
+p231
+aVDraymond Green GSW 12/11/2016 GSW @ MIN W 35 18 6 9 66.7 5 8 62.5 1 2 50.0 0 5 5 4 1 1 2 4 -12
+p232
+aVKlay Thompson GSW 12/11/2016 GSW @ MIN W 39 30 11 21 52.4 4 12 33.3 4 4 100.0 2 4 6 2 1 1 2 2 6
+p233
+aVPatrick McCaw GSW 12/11/2016 GSW @ MIN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 1
+p234
+aVJaVale McGee GSW 12/11/2016 GSW @ MIN W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 3
+p235
+aVDavid West GSW 12/11/2016 GSW @ MIN W 14 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 3 1 1 0 2 13
+p236
+aVAndre Iguodala GSW 12/11/2016 GSW @ MIN W 29 6 1 6 16.7 1 3 33.3 3 4 75.0 1 3 4 5 1 1 1 1 4
+p237
+aVKevon Looney GSW 12/11/2016 GSW @ MIN W 18 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 2 4 3
+p238
+aVStephen Curry GSW 12/11/2016 GSW @ MIN W 32 22 6 13 46.2 2 5 40.0 8 8 100.0 1 3 4 9 1 0 0 3 -4
+p239
+aVIan Clark GSW 12/11/2016 GSW @ MIN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p240
+aVShaun Livingston GSW 12/11/2016 GSW @ MIN W 19 9 4 5 80.0 0 0 - 1 1 100.0 0 4 4 1 1 0 0 1 13
+p241
+aVKevin Durant GSW 12/11/2016 GSW @ MIN W 37 22 6 21 28.6 1 4 25.0 9 9 100.0 1 7 8 5 0 0 1 2 9
+p242
+aVJaVale McGee GSW 12/10/2016 GSW @ MEM L 9 6 3 7 42.9 0 0 - 0 2 0.0 1 3 4 0 0 1 1 1 -2
+p243
+aVDavid West GSW 12/10/2016 GSW @ MEM L 15 9 3 3 100.0 2 2 100.0 1 2 50.0 0 3 3 4 1 2 3 3 3
+p244
+aVDamian Jones GSW 12/10/2016 GSW @ MEM L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 0
+p245
+aVDraymond Green GSW 12/10/2016 GSW @ MEM L 26 7 3 7 42.9 0 1 0.0 1 3 33.3 4 3 7 1 2 0 4 4 -21
+p246
+aVKevin Durant GSW 12/10/2016 GSW @ MEM L 31 21 7 13 53.8 3 6 50.0 4 5 80.0 0 7 7 1 1 2 3 2 -21
+p247
+aVShaun Livingston GSW 12/10/2016 GSW @ MEM L 18 6 3 4 75.0 0 0 - 0 1 0.0 0 0 0 1 0 1 3 2 -2
+p248
+aVKlay Thompson GSW 12/10/2016 GSW @ MEM L 31 8 4 14 28.6 0 3 0.0 0 0 - 0 1 1 0 1 0 0 1 -23
+p249
+aVIan Clark GSW 12/10/2016 GSW @ MEM L 23 10 5 9 55.6 0 2 0.0 0 1 0.0 0 3 3 2 0 1 0 1 7
+p250
+aVAnderson Varejao GSW 12/10/2016 GSW @ MEM L 18 0 0 2 0.0 0 0 - 0 0 - 3 2 5 2 1 0 2 3 -18
+p251
+aVStephen Curry GSW 12/10/2016 GSW @ MEM L 31 17 4 14 28.6 3 11 27.3 6 6 100.0 2 6 8 3 0 0 4 3 -24
+p252
+aVPatrick McCaw GSW 12/10/2016 GSW @ MEM L 21 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 1 0 1 1 0 -2
+p253
+aVJames Michael McAdoo GSW 12/10/2016 GSW @ MEM L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p254
+aVAndre Iguodala GSW 12/08/2016 GSW @ UTA W 24 4 2 5 40.0 0 1 0.0 0 0 - 2 3 5 3 0 0 1 0 -9
+p255
+aVIan Clark GSW 12/08/2016 GSW @ UTA W 20 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 1 1 0 0 0 -10
+p256
+aVDavid West GSW 12/08/2016 GSW @ UTA W 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 3 0 1 1 3 -12
+p257
+aVDraymond Green GSW 12/08/2016 GSW @ UTA W 35 13 4 9 44.4 4 6 66.7 1 4 25.0 2 8 10 8 4 0 1 2 10
+p258
+aVKevon Looney GSW 12/08/2016 GSW @ UTA W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p259
+aVZaza Pachulia GSW 12/08/2016 GSW @ UTA W 22 2 1 3 33.3 0 0 - 0 2 0.0 2 2 4 3 0 0 1 4 11
+p260
+aVPatrick McCaw GSW 12/08/2016 GSW @ UTA W 16 10 4 5 80.0 2 3 66.7 0 0 - 0 1 1 0 1 0 2 2 -3
+p261
+aVKevin Durant GSW 12/08/2016 GSW @ UTA W 36 21 7 15 46.7 1 3 33.3 6 8 75.0 0 11 11 4 1 2 3 2 11
+p262
+aVKlay Thompson GSW 12/08/2016 GSW @ UTA W 28 10 5 13 38.5 0 4 0.0 0 0 - 2 4 6 2 0 0 3 4 17
+p263
+aVStephen Curry GSW 12/08/2016 GSW @ UTA W 36 26 7 16 43.8 3 9 33.3 9 9 100.0 0 5 5 2 2 0 3 2 10
+p264
+aVJaVale McGee GSW 12/08/2016 GSW @ UTA W 8 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 0 1 4 8
+p265
+aVJames Michael McAdoo GSW 12/07/2016 GSW @ LAC W 3 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 1 1 0
+p266
+aVKevon Looney GSW 12/07/2016 GSW @ LAC W 5 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 1 0 4 -4
+p267
+aVKlay Thompson GSW 12/07/2016 GSW @ LAC W 35 24 8 18 44.4 3 6 50.0 5 5 100.0 2 2 4 3 0 0 1 1 16
+p268
+aVIan Clark GSW 12/07/2016 GSW @ LAC W 13 7 3 7 42.9 0 2 0.0 1 1 100.0 0 3 3 1 0 0 0 2 1
+p269
+aVKevin Durant GSW 12/07/2016 GSW @ LAC W 32 16 5 17 29.4 1 5 20.0 5 6 83.3 0 8 8 7 1 0 0 3 14
+p270
+aVStephen Curry GSW 12/07/2016 GSW @ LAC W 33 19 7 16 43.8 0 8 0.0 5 5 100.0 0 4 4 6 7 0 3 3 18
+p271
+aVPatrick McCaw GSW 12/07/2016 GSW @ LAC W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p272
+aVShaun Livingston GSW 12/07/2016 GSW @ LAC W 17 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 2 1 0 2 0 -1
+p273
+aVDavid West GSW 12/07/2016 GSW @ LAC W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 4 4 3 0 0 0 3 2
+p274
+aVDraymond Green GSW 12/07/2016 GSW @ LAC W 32 22 8 10 80.0 3 5 60.0 3 4 75.0 3 2 5 4 2 0 1 4 25
+p275
+aVZaza Pachulia GSW 12/07/2016 GSW @ LAC W 22 4 2 3 66.7 0 0 - 0 0 - 3 2 5 3 0 1 3 3 17
+p276
+aVAndre Iguodala GSW 12/07/2016 GSW @ LAC W 25 10 5 8 62.5 0 2 0.0 0 0 - 1 5 6 2 1 1 0 0 5
+p277
+aVJaVale McGee GSW 12/07/2016 GSW @ LAC W 4 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 1 0 1 0 0 -6
+p278
+aVAndre Iguodala GSW 12/05/2016 GSW vs. IND W 19 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 2 0 1 0 2 18
+p279
+aVJames Michael McAdoo GSW 12/05/2016 GSW vs. IND W 8 2 1 2 50.0 0 1 0.0 0 1 0.0 0 3 3 0 0 1 2 1 6
+p280
+aVKevon Looney GSW 12/05/2016 GSW vs. IND W 14 2 1 4 25.0 0 1 0.0 0 0 - 2 3 5 0 0 1 0 2 7
+p281
+aVDraymond Green GSW 12/05/2016 GSW vs. IND W 27 2 1 6 16.7 0 2 0.0 0 0 - 1 4 5 10 4 1 1 3 24
+p282
+aVKevin Durant GSW 12/05/2016 GSW vs. IND W 22 20 9 14 64.3 0 2 0.0 2 3 66.7 1 7 8 4 0 2 2 3 15
+p283
+aVPatrick McCaw GSW 12/05/2016 GSW vs. IND W 15 9 3 8 37.5 3 6 50.0 0 0 - 2 2 4 5 1 0 2 0 14
+p284
+aVStephen Curry GSW 12/05/2016 GSW vs. IND W 29 13 4 10 40.0 2 7 28.6 3 4 75.0 0 4 4 11 2 1 0 4 24
+p285
+aVKlay Thompson GSW 12/05/2016 GSW vs. IND W 29 60 21 33 63.6 8 14 57.1 10 11 90.9 0 2 2 1 0 0 0 0 37
+p286
+aVJaVale McGee GSW 12/05/2016 GSW vs. IND W 15 9 4 8 50.0 0 1 0.0 1 2 50.0 5 3 8 1 0 2 0 1 3
+p287
+aVDavid West GSW 12/05/2016 GSW vs. IND W 9 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 1 0 2 1 1 0
+p288
+aVShaun Livingston GSW 12/05/2016 GSW vs. IND W 14 4 2 2 100.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 16
+p289
+aVIan Clark GSW 12/05/2016 GSW vs. IND W 19 11 5 9 55.6 1 3 33.3 0 0 - 1 0 1 3 2 1 2 1 -1
+p290
+aVZaza Pachulia GSW 12/05/2016 GSW vs. IND W 18 3 1 3 33.3 0 0 - 1 2 50.0 3 2 5 5 3 1 1 2 17
+p291
+aVPatrick McCaw GSW 12/03/2016 GSW vs. PHX W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 7
+p292
+aVDraymond Green GSW 12/03/2016 GSW vs. PHX W 28 9 2 6 33.3 1 3 33.3 4 5 80.0 1 4 5 14 3 0 4 3 10
+p293
+aVShaun Livingston GSW 12/03/2016 GSW vs. PHX W 18 4 2 3 66.7 0 0 - 0 1 0.0 0 4 4 1 0 0 1 1 16
+p294
+aVIan Clark GSW 12/03/2016 GSW vs. PHX W 16 9 3 4 75.0 0 1 0.0 3 4 75.0 0 1 1 3 0 0 0 1 3
+p295
+aVJaVale McGee GSW 12/03/2016 GSW vs. PHX W 13 11 4 6 66.7 0 0 - 3 6 50.0 2 0 2 0 0 0 1 3 2
+p296
+aVDavid West GSW 12/03/2016 GSW vs. PHX W 13 10 5 6 83.3 0 0 - 0 0 - 0 2 2 2 0 0 0 1 10
+p297
+aVAnderson Varejao GSW 12/03/2016 GSW vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 0 1
+p298
+aVKevin Durant GSW 12/03/2016 GSW vs. PHX W 32 20 5 7 71.4 1 1 100.0 9 9 100.0 0 4 4 8 0 3 1 1 27
+p299
+aVKlay Thompson GSW 12/03/2016 GSW vs. PHX W 34 26 10 17 58.8 6 7 85.7 0 0 - 1 4 5 3 2 1 2 1 24
+p300
+aVZaza Pachulia GSW 12/03/2016 GSW vs. PHX W 15 7 3 5 60.0 0 0 - 1 3 33.3 0 3 3 1 3 0 3 1 17
+p301
+aVKevon Looney GSW 12/03/2016 GSW vs. PHX W 7 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 5
+p302
+aVAndre Iguodala GSW 12/03/2016 GSW vs. PHX W 23 5 2 4 50.0 1 1 100.0 0 0 - 1 5 6 3 0 0 1 2 8
+p303
+aVStephen Curry GSW 12/03/2016 GSW vs. PHX W 30 31 10 15 66.7 5 7 71.4 6 6 100.0 0 2 2 1 1 0 3 2 15
+p304
+aVShaun Livingston GSW 12/01/2016 GSW vs. HOU L 20 4 2 4 50.0 0 0 - 0 0 - 1 2 3 3 1 0 0 2 -10
+p305
+aVDavid West GSW 12/01/2016 GSW vs. HOU L 3 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -4
+p306
+aVJaVale McGee GSW 12/01/2016 GSW vs. HOU L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 2 0 1 1 -2
+p307
+aVKevon Looney GSW 12/01/2016 GSW vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p308
+aVStephen Curry GSW 12/01/2016 GSW vs. HOU L 38 28 9 22 40.9 4 13 30.8 6 6 100.0 1 2 3 5 3 1 5 6 10
+p309
+aVZaza Pachulia GSW 12/01/2016 GSW vs. HOU L 8 2 0 1 0.0 0 0 - 2 2 100.0 3 0 3 1 0 1 1 2 -14
+p310
+aVPatrick McCaw GSW 12/01/2016 GSW vs. HOU L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -11
+p311
+aVKevin Durant GSW 12/01/2016 GSW vs. HOU L 49 39 12 28 42.9 3 11 27.3 12 12 100.0 1 13 14 2 3 3 2 3 -5
+p312
+aVAndre Iguodala GSW 12/01/2016 GSW vs. HOU L 42 10 3 4 75.0 2 3 66.7 2 4 50.0 1 2 3 5 0 0 0 2 14
+p313
+aVDraymond Green GSW 12/01/2016 GSW vs. HOU L 47 20 9 15 60.0 0 2 0.0 2 5 40.0 5 10 15 9 2 1 4 6 1
+p314
+aVKlay Thompson GSW 12/01/2016 GSW vs. HOU L 47 15 4 20 20.0 3 13 23.1 4 6 66.7 0 6 6 3 0 0 2 1 -6
+p315
+aVIan Clark GSW 12/01/2016 GSW vs. HOU L 12 4 2 6 33.3 0 2 0.0 0 0 - 1 0 1 1 0 0 0 0 2
+p316
+aVJames Michael McAdoo GSW 12/01/2016 GSW vs. HOU L 8 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 1
+p317
+aVKlay Thompson GSW 11/28/2016 GSW vs. ATL W 37 20 8 18 44.4 3 6 50.0 1 1 100.0 2 2 4 2 1 1 2 3 2
+p318
+aVJaVale McGee GSW 11/28/2016 GSW vs. ATL W 5 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 3
+p319
+aVKevin Durant GSW 11/28/2016 GSW vs. ATL W 36 25 8 16 50.0 1 3 33.3 8 8 100.0 0 14 14 3 1 2 4 1 -7
+p320
+aVZaza Pachulia GSW 11/28/2016 GSW vs. ATL W 16 4 2 2 100.0 0 0 - 0 0 - 2 4 6 1 0 1 3 2 2
+p321
+aVDavid West GSW 11/28/2016 GSW vs. ATL W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -3
+p322
+aVAndre Iguodala GSW 11/28/2016 GSW vs. ATL W 28 12 5 9 55.6 2 6 33.3 0 2 0.0 0 5 5 5 0 1 0 2 18
+p323
+aVShaun Livingston GSW 11/28/2016 GSW vs. ATL W 16 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -1
+p324
+aVDraymond Green GSW 11/28/2016 GSW vs. ATL W 39 4 2 9 22.2 0 3 0.0 0 0 - 1 2 3 7 1 4 2 4 8
+p325
+aVStephen Curry GSW 11/28/2016 GSW vs. ATL W 38 25 6 17 35.3 4 11 36.4 9 11 81.8 0 3 3 3 2 0 3 2 6
+p326
+aVIan Clark GSW 11/28/2016 GSW vs. ATL W 11 8 3 6 50.0 2 5 40.0 0 0 - 0 2 2 1 0 0 0 2 -2
+p327
+aVPatrick McCaw GSW 11/28/2016 GSW vs. ATL W 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -1
+p328
+aVStephen Curry GSW 11/26/2016 GSW vs. MIN W 37 34 13 19 68.4 4 8 50.0 4 4 100.0 1 7 8 6 2 0 6 4 16
+p329
+aVZaza Pachulia GSW 11/26/2016 GSW vs. MIN W 25 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 3 1 1 0 1 14
+p330
+aVDavid West GSW 11/26/2016 GSW vs. MIN W 9 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 2 1 0 2 1 -3
+p331
+aVShaun Livingston GSW 11/26/2016 GSW vs. MIN W 23 4 2 7 28.6 0 0 - 0 0 - 1 2 3 1 0 0 1 2 6
+p332
+aVAnderson Varejao GSW 11/26/2016 GSW vs. MIN W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p333
+aVPatrick McCaw GSW 11/26/2016 GSW vs. MIN W 13 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -4
+p334
+aVKevin Durant GSW 11/26/2016 GSW vs. MIN W 38 28 10 17 58.8 3 4 75.0 5 5 100.0 3 7 10 5 0 6 3 1 9
+p335
+aVKlay Thompson GSW 11/26/2016 GSW vs. MIN W 38 23 9 17 52.9 4 9 44.4 1 2 50.0 1 5 6 2 1 0 2 1 10
+p336
+aVKevon Looney GSW 11/26/2016 GSW vs. MIN W 18 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 2 1 0 0 1 8
+p337
+aVAndre Iguodala GSW 11/26/2016 GSW vs. MIN W 23 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 2 0 2 2 5
+p338
+aVJaVale McGee GSW 11/26/2016 GSW vs. MIN W 11 8 4 5 80.0 0 0 - 0 0 - 2 3 5 1 0 1 2 1 11
+p339
+aVPatrick McCaw GSW 11/25/2016 GSW @ LAL W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 2 -11
+p340
+aVKevin Durant GSW 11/25/2016 GSW @ LAL W 33 29 11 19 57.9 3 6 50.0 4 6 66.7 1 5 6 9 1 2 2 4 36
+p341
+aVAndre Iguodala GSW 11/25/2016 GSW @ LAL W 24 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 4 1 0 1 0 15
+p342
+aVIan Clark GSW 11/25/2016 GSW @ LAL W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p343
+aVDraymond Green GSW 11/25/2016 GSW @ LAL W 26 12 5 7 71.4 1 2 50.0 1 3 33.3 0 8 8 4 3 1 2 3 11
+p344
+aVStephen Curry GSW 11/25/2016 GSW @ LAL W 36 24 8 17 47.1 4 10 40.0 4 4 100.0 2 3 5 5 3 0 3 1 14
+p345
+aVDavid West GSW 11/25/2016 GSW @ LAL W 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 3 1 0 2 4 7
+p346
+aVKevon Looney GSW 11/25/2016 GSW @ LAL W 13 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 2 0 1 7
+p347
+aVShaun Livingston GSW 11/25/2016 GSW @ LAL W 15 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 8
+p348
+aVZaza Pachulia GSW 11/25/2016 GSW @ LAL W 21 2 1 5 20.0 0 0 - 0 0 - 0 6 6 4 0 3 3 3 -2
+p349
+aVKlay Thompson GSW 11/25/2016 GSW @ LAL W 33 18 7 17 41.2 1 6 16.7 3 4 75.0 0 7 7 0 0 0 1 1 35
+p350
+aVJaVale McGee GSW 11/25/2016 GSW @ LAL W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 1 5
+p351
+aVJames Michael McAdoo GSW 11/25/2016 GSW @ LAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 4
+p352
+aVJaVale McGee GSW 11/23/2016 GSW vs. LAL W 10 8 3 4 75.0 0 0 - 2 4 50.0 0 4 4 0 0 1 2 2 19
+p353
+aVKevon Looney GSW 11/23/2016 GSW vs. LAL W 7 5 2 2 100.0 1 1 100.0 0 0 - 1 4 5 0 0 0 0 1 16
+p354
+aVAndre Iguodala GSW 11/23/2016 GSW vs. LAL W 21 4 2 7 28.6 0 4 0.0 0 0 - 0 2 2 5 0 0 1 1 12
+p355
+aVAnderson Varejao GSW 11/23/2016 GSW vs. LAL W 9 6 1 1 100.0 0 0 - 4 4 100.0 2 1 3 2 0 1 1 2 5
+p356
+aVIan Clark GSW 11/23/2016 GSW vs. LAL W 18 21 7 8 87.5 5 5 100.0 2 4 50.0 0 1 1 1 0 0 1 0 17
+p357
+aVDraymond Green GSW 11/23/2016 GSW vs. LAL W 28 5 1 6 16.7 0 3 0.0 3 6 50.0 1 8 9 11 1 1 0 1 30
+p358
+aVDavid West GSW 11/23/2016 GSW vs. LAL W 15 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 4 1 1 1 2 6
+p359
+aVKlay Thompson GSW 11/23/2016 GSW vs. LAL W 24 26 9 14 64.3 4 7 57.1 4 4 100.0 0 2 2 2 0 0 1 4 4
+p360
+aVKevin Durant GSW 11/23/2016 GSW vs. LAL W 30 28 11 15 73.3 2 4 50.0 4 5 80.0 1 5 6 5 1 1 1 3 17
+p361
+aVPatrick McCaw GSW 11/23/2016 GSW vs. LAL W 15 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 4 0 0 1 0 22
+p362
+aVStephen Curry GSW 11/23/2016 GSW vs. LAL W 29 31 11 18 61.1 7 12 58.3 2 2 100.0 0 5 5 9 1 0 1 1 32
+p363
+aVShaun Livingston GSW 11/23/2016 GSW vs. LAL W 17 6 3 4 75.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 13
+p364
+aVZaza Pachulia GSW 11/23/2016 GSW vs. LAL W 18 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 2 3 0 0 3 22
+p365
+aVKlay Thompson GSW 11/21/2016 GSW @ IND W 26 25 10 18 55.6 4 10 40.0 1 2 50.0 0 1 1 0 2 0 2 3 24
+p366
+aVJaVale McGee GSW 11/21/2016 GSW @ IND W 14 7 3 4 75.0 0 0 - 1 4 25.0 1 4 5 0 0 3 2 3 8
+p367
+aVShaun Livingston GSW 11/21/2016 GSW @ IND W 16 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 3 0 0 1 1 -2
+p368
+aVJames Michael McAdoo GSW 11/21/2016 GSW @ IND W 8 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p369
+aVDraymond Green GSW 11/21/2016 GSW @ IND W 29 10 4 7 57.1 0 2 0.0 2 2 100.0 3 6 9 7 2 2 1 1 32
+p370
+aVZaza Pachulia GSW 11/21/2016 GSW @ IND W 14 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 1 0 0 0 1 18
+p371
+aVPatrick McCaw GSW 11/21/2016 GSW @ IND W 12 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 0 0 0 0 1 8
+p372
+aVKevon Looney GSW 11/21/2016 GSW @ IND W 10 1 0 1 0.0 0 0 - 1 2 50.0 1 6 7 1 0 2 0 1 7
+p373
+aVStephen Curry GSW 11/21/2016 GSW @ IND W 29 22 6 11 54.5 2 6 33.3 8 8 100.0 2 4 6 6 1 0 1 1 34
+p374
+aVIan Clark GSW 11/21/2016 GSW @ IND W 21 10 4 10 40.0 2 5 40.0 0 0 - 1 5 6 1 0 0 0 1 16
+p375
+aVAndre Iguodala GSW 11/21/2016 GSW @ IND W 18 9 3 7 42.9 3 5 60.0 0 0 - 0 0 0 4 1 0 0 2 14
+p376
+aVKevin Durant GSW 11/21/2016 GSW @ IND W 27 14 3 9 33.3 1 4 25.0 7 7 100.0 0 11 11 6 2 2 1 0 27
+p377
+aVDavid West GSW 11/21/2016 GSW @ IND W 15 7 2 5 40.0 0 0 - 3 3 100.0 0 4 4 2 1 1 4 2 -5
+p378
+aVAndre Iguodala GSW 11/19/2016 GSW @ MIL W 25 10 4 8 50.0 2 5 40.0 0 0 - 2 1 3 3 1 0 0 1 -8
+p379
+aVPatrick McCaw GSW 11/19/2016 GSW @ MIL W 17 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 1 0 0 1 2 -18
+p380
+aVKlay Thompson GSW 11/19/2016 GSW @ MIL W 38 29 9 17 52.9 5 10 50.0 6 6 100.0 0 3 3 2 0 0 3 1 21
+p381
+aVKevin Durant GSW 11/19/2016 GSW @ MIL W 36 33 10 17 58.8 5 8 62.5 8 11 72.7 0 6 6 5 2 1 0 5 4
+p382
+aVJaVale McGee GSW 11/19/2016 GSW @ MIL W 5 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 0 4
+p383
+aVKevon Looney GSW 11/19/2016 GSW @ MIL W 4 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -16
+p384
+aVDraymond Green GSW 11/19/2016 GSW @ MIL W 36 10 3 7 42.9 0 1 0.0 4 4 100.0 1 1 2 5 3 2 2 3 10
+p385
+aVZaza Pachulia GSW 11/19/2016 GSW @ MIL W 17 4 2 7 28.6 0 0 - 0 0 - 6 4 10 4 1 0 2 3 5
+p386
+aVShaun Livingston GSW 11/19/2016 GSW @ MIL W 15 3 1 5 20.0 0 0 - 1 2 50.0 2 1 3 2 0 0 0 1 6
+p387
+aVStephen Curry GSW 11/19/2016 GSW @ MIL W 35 20 7 21 33.3 1 11 9.1 5 5 100.0 0 5 5 5 1 0 3 4 1
+p388
+aVDavid West GSW 11/19/2016 GSW @ MIL W 12 7 3 4 75.0 0 0 - 1 2 50.0 4 3 7 3 0 1 1 3 6
+p389
+aVShaun Livingston GSW 11/18/2016 GSW @ BOS W 18 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 2 1 2 1 3 -12
+p390
+aVJames Michael McAdoo GSW 11/18/2016 GSW @ BOS W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p391
+aVZaza Pachulia GSW 11/18/2016 GSW @ BOS W 21 4 2 5 40.0 0 0 - 0 0 - 4 9 13 3 2 0 1 1 19
+p392
+aVAndre Iguodala GSW 11/18/2016 GSW @ BOS W 22 8 4 7 57.1 0 1 0.0 0 1 0.0 1 5 6 2 0 0 0 1 -1
+p393
+aVKevin Durant GSW 11/18/2016 GSW @ BOS W 33 23 10 13 76.9 1 2 50.0 2 4 50.0 1 9 10 7 2 1 2 1 32
+p394
+aVIan Clark GSW 11/18/2016 GSW @ BOS W 7 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 1 2
+p395
+aVPatrick McCaw GSW 11/18/2016 GSW @ BOS W 16 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -14
+p396
+aVKlay Thompson GSW 11/18/2016 GSW @ BOS W 31 28 12 21 57.1 3 6 50.0 1 1 100.0 1 3 4 3 0 0 2 2 28
+p397
+aVDraymond Green GSW 11/18/2016 GSW @ BOS W 35 11 3 11 27.3 2 6 33.3 3 4 75.0 1 7 8 8 1 2 1 3 14
+p398
+aVStephen Curry GSW 11/18/2016 GSW @ BOS W 36 16 7 20 35.0 2 10 20.0 0 0 - 0 3 3 8 4 1 2 4 19
+p399
+aVDavid West GSW 11/18/2016 GSW @ BOS W 13 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 1
+p400
+aVKevin Durant GSW 11/16/2016 GSW @ TOR W 36 30 11 21 52.4 3 8 37.5 5 6 83.3 2 7 9 6 1 0 4 3 -6
+p401
+aVJaVale McGee GSW 11/16/2016 GSW @ TOR W 4 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -5
+p402
+aVPatrick McCaw GSW 11/16/2016 GSW @ TOR W 21 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 2 1 1 0 3 -3
+p403
+aVShaun Livingston GSW 11/16/2016 GSW @ TOR W 18 3 1 1 100.0 0 0 - 1 1 100.0 1 2 3 4 1 0 0 1 17
+p404
+aVDraymond Green GSW 11/16/2016 GSW @ TOR W 35 11 5 13 38.5 1 4 25.0 0 0 - 0 7 7 5 2 3 3 4 1
+p405
+aVDavid West GSW 11/16/2016 GSW @ TOR W 16 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 1 1 0 1 8
+p406
+aVZaza Pachulia GSW 11/16/2016 GSW @ TOR W 16 8 2 3 66.7 0 0 - 4 4 100.0 0 1 1 2 0 0 1 4 7
+p407
+aVStephen Curry GSW 11/16/2016 GSW @ TOR W 37 35 10 19 52.6 3 9 33.3 12 13 92.3 2 1 3 7 1 0 3 3 5
+p408
+aVKlay Thompson GSW 11/16/2016 GSW @ TOR W 32 15 4 15 26.7 3 11 27.3 4 4 100.0 1 3 4 1 0 1 0 1 -9
+p409
+aVAndre Iguodala GSW 11/16/2016 GSW @ TOR W 25 10 4 4 100.0 2 2 100.0 0 0 - 0 3 3 5 2 1 1 1 15
+p410
+aVJaVale McGee GSW 11/13/2016 GSW vs. PHX W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 3
+p411
+aVKevin Durant GSW 11/13/2016 GSW vs. PHX W 38 29 10 21 47.6 2 5 40.0 7 7 100.0 0 9 9 5 1 2 4 2 13
+p412
+aVZaza Pachulia GSW 11/13/2016 GSW vs. PHX W 12 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 1 0 0 0 2 -6
+p413
+aVStephen Curry GSW 11/13/2016 GSW vs. PHX W 37 30 9 17 52.9 5 9 55.6 7 7 100.0 0 6 6 6 2 0 3 2 22
+p414
+aVPatrick McCaw GSW 11/13/2016 GSW vs. PHX W 18 6 2 4 50.0 2 3 66.7 0 0 - 1 1 2 0 1 2 0 1 4
+p415
+aVAndre Iguodala GSW 11/13/2016 GSW vs. PHX W 24 4 1 4 25.0 1 3 33.3 1 2 50.0 0 3 3 3 0 1 0 1 1
+p416
+aVDraymond Green GSW 11/13/2016 GSW vs. PHX W 37 14 4 10 40.0 1 5 20.0 5 5 100.0 2 5 7 11 3 2 3 3 20
+p417
+aVKlay Thompson GSW 11/13/2016 GSW vs. PHX W 33 30 11 18 61.1 5 8 62.5 3 3 100.0 0 2 2 1 0 0 5 3 2
+p418
+aVShaun Livingston GSW 11/13/2016 GSW vs. PHX W 20 6 3 5 60.0 0 0 - 0 2 0.0 3 1 4 3 0 0 0 2 4
+p419
+aVDavid West GSW 11/13/2016 GSW vs. PHX W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -3
+p420
+aVKevon Looney GSW 11/13/2016 GSW vs. PHX W 7 2 1 1 100.0 0 0 - 0 1 0.0 1 1 2 1 0 0 0 3 6
+p421
+aVIan Clark GSW 11/13/2016 GSW vs. PHX W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -1
+p422
+aVStephen Curry GSW 11/10/2016 GSW @ DEN W 30 33 10 17 58.8 7 13 53.8 6 6 100.0 1 4 5 6 1 0 4 1 27
+p423
+aVZaza Pachulia GSW 11/10/2016 GSW @ DEN W 14 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 4 0 1 2 14
+p424
+aVPatrick McCaw GSW 11/10/2016 GSW @ DEN W 15 8 3 6 50.0 0 2 0.0 2 2 100.0 0 1 1 2 0 1 1 0 4
+p425
+aVKevon Looney GSW 11/10/2016 GSW @ DEN W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 1 0 0 -2
+p426
+aVKevin Durant GSW 11/10/2016 GSW @ DEN W 30 18 8 16 50.0 0 3 0.0 2 2 100.0 2 7 9 5 1 2 1 2 29
+p427
+aVDavid West GSW 11/10/2016 GSW @ DEN W 13 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 1 2 0 2 3 3
+p428
+aVKlay Thompson GSW 11/10/2016 GSW @ DEN W 32 19 7 14 50.0 3 4 75.0 2 2 100.0 0 2 2 3 1 0 3 1 24
+p429
+aVIan Clark GSW 11/10/2016 GSW @ DEN W 11 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 4 0 0 0 2 -4
+p430
+aVJaVale McGee GSW 11/10/2016 GSW @ DEN W 15 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 1 0 2 1 0 6
+p431
+aVDraymond Green GSW 11/10/2016 GSW @ DEN W 29 13 4 7 57.1 3 4 75.0 2 2 100.0 0 9 9 5 3 0 1 2 22
+p432
+aVShaun Livingston GSW 11/10/2016 GSW @ DEN W 18 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 1 0 1 3 -6
+p433
+aVAndre Iguodala GSW 11/10/2016 GSW @ DEN W 23 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 4 2 0 0 2 3
+p434
+aVAnderson Varejao GSW 11/10/2016 GSW @ DEN W 5 2 0 1 0.0 0 0 - 2 2 100.0 2 2 4 1 0 0 0 0 0
+p435
+aVKlay Thompson GSW 11/09/2016 GSW vs. DAL W 29 20 8 13 61.5 4 7 57.1 0 0 - 0 2 2 4 0 0 3 5 19
+p436
+aVKevin Durant GSW 11/09/2016 GSW vs. DAL W 35 28 10 16 62.5 4 7 57.1 4 5 80.0 0 10 10 4 0 1 3 3 20
+p437
+aVJames Michael McAdoo GSW 11/09/2016 GSW vs. DAL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p438
+aVDavid West GSW 11/09/2016 GSW vs. DAL W 13 5 2 3 66.7 0 0 - 1 1 100.0 2 1 3 3 0 1 1 0 14
+p439
+aVShaun Livingston GSW 11/09/2016 GSW vs. DAL W 21 1 0 2 0.0 0 0 - 1 4 25.0 0 0 0 1 0 0 1 2 6
+p440
+aVStephen Curry GSW 11/09/2016 GSW vs. DAL W 31 24 8 12 66.7 4 8 50.0 4 4 100.0 0 3 3 6 1 0 5 1 17
+p441
+aVZaza Pachulia GSW 11/09/2016 GSW vs. DAL W 13 2 1 2 50.0 0 0 - 0 0 - 0 4 4 4 0 0 1 1 3
+p442
+aVPatrick McCaw GSW 11/09/2016 GSW vs. DAL W 20 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 3 0 0 0 3 2
+p443
+aVIan Clark GSW 11/09/2016 GSW vs. DAL W 12 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 0 2
+p444
+aVAndre Iguodala GSW 11/09/2016 GSW vs. DAL W 13 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 2 1 1 0 0 13
+p445
+aVDraymond Green GSW 11/09/2016 GSW vs. DAL W 35 16 6 11 54.5 4 6 66.7 0 1 0.0 1 9 10 4 0 1 1 3 9
+p446
+aVKevon Looney GSW 11/09/2016 GSW vs. DAL W 11 5 1 1 100.0 0 0 - 3 5 60.0 0 0 0 1 0 1 0 1 4
+p447
+aVJaVale McGee GSW 11/09/2016 GSW vs. DAL W 4 4 2 2 100.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 3 -2
+p448
+aVDavid West GSW 11/07/2016 GSW vs. NOP W 14 8 3 5 60.0 0 0 - 2 2 100.0 3 1 4 2 3 0 1 1 9
+p449
+aVDraymond Green GSW 11/07/2016 GSW vs. NOP W 35 4 2 7 28.6 0 1 0.0 0 0 - 2 10 12 11 2 2 2 3 4
+p450
+aVStephen Curry GSW 11/07/2016 GSW vs. NOP W 36 46 16 26 61.5 13 17 76.5 1 2 50.0 3 2 5 5 2 0 4 2 7
+p451
+aVShaun Livingston GSW 11/07/2016 GSW vs. NOP W 17 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 9
+p452
+aVIan Clark GSW 11/07/2016 GSW vs. NOP W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 2 0 1 1 0 7
+p453
+aVZaza Pachulia GSW 11/07/2016 GSW vs. NOP W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -14
+p454
+aVAndre Iguodala GSW 11/07/2016 GSW vs. NOP W 31 2 0 4 0.0 0 4 0.0 2 2 100.0 0 4 4 8 3 0 1 1 19
+p455
+aVKevon Looney GSW 11/07/2016 GSW vs. NOP W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 3
+p456
+aVKlay Thompson GSW 11/07/2016 GSW vs. NOP W 38 24 11 20 55.0 2 7 28.6 0 0 - 0 4 4 1 3 0 1 2 3
+p457
+aVKevin Durant GSW 11/07/2016 GSW vs. NOP W 37 22 8 17 47.1 1 4 25.0 5 6 83.3 1 2 3 5 1 1 4 0 3
+p458
+aVKlay Thompson GSW 11/04/2016 GSW @ LAL L 38 10 4 18 22.2 2 10 20.0 0 0 - 0 3 3 1 2 1 4 1 -16
+p459
+aVJames Michael McAdoo GSW 11/04/2016 GSW @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p460
+aVAndre Iguodala GSW 11/04/2016 GSW @ LAL L 23 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 2 0 3 1 -22
+p461
+aVIan Clark GSW 11/04/2016 GSW @ LAL L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 0 1 0 3 2 -6
+p462
+aVStephen Curry GSW 11/04/2016 GSW @ LAL L 31 13 5 17 29.4 0 10 0.0 3 3 100.0 0 8 8 10 2 1 2 3 -5
+p463
+aVJaVale McGee GSW 11/04/2016 GSW @ LAL L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p464
+aVKevon Looney GSW 11/04/2016 GSW @ LAL L 13 11 5 5 100.0 0 0 - 1 2 50.0 2 3 5 0 0 0 1 1 -2
+p465
+aVDavid West GSW 11/04/2016 GSW @ LAL L 6 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -12
+p466
+aVShaun Livingston GSW 11/04/2016 GSW @ LAL L 20 11 5 5 100.0 0 0 - 1 1 100.0 1 0 1 4 0 0 1 1 -11
+p467
+aVDraymond Green GSW 11/04/2016 GSW @ LAL L 34 16 6 10 60.0 0 3 0.0 4 6 66.7 2 7 9 4 4 0 1 1 -9
+p468
+aVKevin Durant GSW 11/04/2016 GSW @ LAL L 35 27 10 16 62.5 2 4 50.0 5 8 62.5 1 4 5 3 2 1 2 1 -17
+p469
+aVZaza Pachulia GSW 11/04/2016 GSW @ LAL L 19 0 0 0 - 0 0 - 0 0 - 2 1 3 3 0 0 2 1 4
+p470
+aVDraymond Green GSW 11/03/2016 GSW vs. OKC W 29 9 2 9 22.2 0 2 0.0 5 6 83.3 4 6 10 5 1 4 4 3 9
+p471
+aVKevin Durant GSW 11/03/2016 GSW vs. OKC W 31 39 15 24 62.5 7 11 63.6 2 3 66.7 1 6 7 1 0 1 2 3 21
+p472
+aVAndre Iguodala GSW 11/03/2016 GSW vs. OKC W 25 3 1 5 20.0 0 1 0.0 1 2 50.0 0 3 3 2 0 1 1 1 34
+p473
+aVJames Michael McAdoo GSW 11/03/2016 GSW vs. OKC W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -1
+p474
+aVDavid West GSW 11/03/2016 GSW vs. OKC W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 17
+p475
+aVAnderson Varejao GSW 11/03/2016 GSW vs. OKC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 0
+p476
+aVIan Clark GSW 11/03/2016 GSW vs. OKC W 19 8 3 5 60.0 1 2 50.0 1 1 100.0 0 3 3 0 0 0 0 0 9
+p477
+aVShaun Livingston GSW 11/03/2016 GSW vs. OKC W 17 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 15
+p478
+aVStephen Curry GSW 11/03/2016 GSW vs. OKC W 30 21 6 14 42.9 2 6 33.3 7 8 87.5 0 1 1 7 2 1 1 1 17
+p479
+aVKevon Looney GSW 11/03/2016 GSW vs. OKC W 11 4 2 2 100.0 0 0 - 0 0 - 2 4 6 1 1 1 0 0 0
+p480
+aVKlay Thompson GSW 11/03/2016 GSW vs. OKC W 33 18 7 14 50.0 4 8 50.0 0 0 - 1 0 1 3 2 1 2 3 7
+p481
+aVZaza Pachulia GSW 11/03/2016 GSW vs. OKC W 23 8 4 4 100.0 0 0 - 0 0 - 6 4 10 5 2 3 1 3 5
+p482
+aVJaVale McGee GSW 11/03/2016 GSW vs. OKC W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -3
+p483
+aVJames Michael McAdoo GSW 11/01/2016 GSW @ POR W 9 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -11
+p484
+aVDraymond Green GSW 11/01/2016 GSW @ POR W 30 6 2 3 66.7 1 2 50.0 1 2 50.0 0 8 8 9 3 2 0 2 24
+p485
+aVShaun Livingston GSW 11/01/2016 GSW @ POR W 18 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 5 2 0 3 2 -5
+p486
+aVJaVale McGee GSW 11/01/2016 GSW @ POR W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -9
+p487
+aVDavid West GSW 11/01/2016 GSW @ POR W 11 4 2 3 66.7 0 0 - 0 0 - 0 4 4 3 1 1 0 0 26
+p488
+aVKevon Looney GSW 11/01/2016 GSW @ POR W 8 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -10
+p489
+aVKevin Durant GSW 11/01/2016 GSW @ POR W 31 20 9 15 60.0 0 3 0.0 2 3 66.7 1 4 5 2 4 1 2 3 13
+p490
+aVStephen Curry GSW 11/01/2016 GSW @ POR W 29 28 10 21 47.6 5 10 50.0 3 4 75.0 1 3 4 3 1 0 4 3 24
+p491
+aVZaza Pachulia GSW 11/01/2016 GSW @ POR W 19 5 2 3 66.7 0 0 - 1 2 50.0 1 5 6 2 0 0 0 0 2
+p492
+aVAndre Iguodala GSW 11/01/2016 GSW @ POR W 24 11 4 7 57.1 1 1 100.0 2 3 66.7 0 5 5 5 0 0 1 1 39
+p493
+aVIan Clark GSW 11/01/2016 GSW @ POR W 25 22 8 8 100.0 3 3 100.0 3 3 100.0 0 2 2 1 3 0 1 2 18
+p494
+aVKlay Thompson GSW 11/01/2016 GSW @ POR W 30 14 6 17 35.3 0 7 0.0 2 2 100.0 2 3 5 4 0 0 2 4 4
+p495
+aVZaza Pachulia GSW 10/30/2016 GSW @ PHX W 22 5 1 5 20.0 0 0 - 3 3 100.0 4 6 10 4 0 0 3 1 -7
+p496
+aVKevon Looney GSW 10/30/2016 GSW @ PHX W 3 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 2 -4
+p497
+aVShaun Livingston GSW 10/30/2016 GSW @ PHX W 14 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 1 0 0 1 2 2
+p498
+aVIan Clark GSW 10/30/2016 GSW @ PHX W 16 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 0 0 0 1 3 -10
+p499
+aVAndre Iguodala GSW 10/30/2016 GSW @ PHX W 28 4 2 5 40.0 0 3 0.0 0 0 - 1 2 3 4 2 0 0 1 4
+p500
+aVStephen Curry GSW 10/30/2016 GSW @ PHX W 34 28 9 17 52.9 5 8 62.5 5 5 100.0 0 1 1 3 0 0 1 5 2
+p501
+aVKevin Durant GSW 10/30/2016 GSW @ PHX W 38 37 10 16 62.5 2 4 50.0 15 16 93.8 0 4 4 4 4 1 4 2 18
+p502
+aVKlay Thompson GSW 10/30/2016 GSW @ PHX W 40 14 5 15 33.3 0 6 0.0 4 5 80.0 0 6 6 2 0 1 2 3 14
+p503
+aVDraymond Green GSW 10/30/2016 GSW @ PHX W 38 5 2 9 22.2 0 4 0.0 1 2 50.0 1 12 13 9 0 3 2 3 9
+p504
+aVDavid West GSW 10/30/2016 GSW @ PHX W 8 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 2
+p505
+aVDraymond Green GSW 10/28/2016 GSW @ NOP W 34 8 3 10 30.0 1 2 50.0 1 2 50.0 4 7 11 7 2 0 3 5 0
+p506
+aVKevin Durant GSW 10/28/2016 GSW @ NOP W 39 30 9 19 47.4 0 3 0.0 12 12 100.0 0 17 17 6 2 2 2 2 4
+p507
+aVKlay Thompson GSW 10/28/2016 GSW @ NOP W 39 28 11 21 52.4 2 9 22.2 4 4 100.0 0 2 2 4 1 0 1 0 4
+p508
+aVShaun Livingston GSW 10/28/2016 GSW @ NOP W 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -2
+p509
+aVPatrick McCaw GSW 10/28/2016 GSW @ NOP W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 -2
+p510
+aVStephen Curry GSW 10/28/2016 GSW @ NOP W 34 23 8 19 42.1 4 10 40.0 3 4 75.0 1 0 1 8 1 0 4 3 4
+p511
+aVDavid West GSW 10/28/2016 GSW @ NOP W 9 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 0 0 1 2 2
+p512
+aVIan Clark GSW 10/28/2016 GSW @ NOP W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p513
+aVKevon Looney GSW 10/28/2016 GSW @ NOP W 7 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 2 0 0 0 2 13
+p514
+aVAndre Iguodala GSW 10/28/2016 GSW @ NOP W 30 9 4 7 57.1 1 3 33.3 0 0 - 0 2 2 3 1 0 0 3 16
+p515
+aVZaza Pachulia GSW 10/28/2016 GSW @ NOP W 17 10 4 6 66.7 0 0 - 2 2 100.0 2 9 11 1 0 0 2 2 -2
+p516
+aVKevin Durant GSW 10/25/2016 GSW vs. SAS L 37 27 11 18 61.1 1 3 33.3 4 5 80.0 0 10 10 4 2 2 0 2 -13
+p517
+aVDraymond Green GSW 10/25/2016 GSW vs. SAS L 33 18 7 14 50.0 2 5 40.0 2 2 100.0 5 7 12 6 5 1 2 2 -5
+p518
+aVAndre Iguodala GSW 10/25/2016 GSW vs. SAS L 27 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 3 1 0 1 3 -28
+p519
+aVPatrick McCaw GSW 10/25/2016 GSW vs. SAS L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 1 1 0 0 -4
+p520
+aVShaun Livingston GSW 10/25/2016 GSW vs. SAS L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 0 1 0 -15
+p521
+aVDavid West GSW 10/25/2016 GSW vs. SAS L 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 1 4 2 -13
+p522
+aVJaVale McGee GSW 10/25/2016 GSW vs. SAS L 4 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -6
+p523
+aVZaza Pachulia GSW 10/25/2016 GSW vs. SAS L 20 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 3 2 -3
+p524
+aVAnderson Varejao GSW 10/25/2016 GSW vs. SAS L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 -8
+p525
+aVIan Clark GSW 10/25/2016 GSW vs. SAS L 13 5 2 8 25.0 0 4 0.0 1 2 50.0 0 0 0 2 0 1 0 0 -29
+p526
+aVStephen Curry GSW 10/25/2016 GSW vs. SAS L 34 26 9 18 50.0 3 10 30.0 5 6 83.3 0 3 3 4 0 0 4 1 -9
+p527
+aVKlay Thompson GSW 10/25/2016 GSW vs. SAS L 33 11 5 13 38.5 1 6 16.7 0 0 - 0 1 1 2 0 0 1 4 -6
+p528
+aVKevon Looney GSW 10/25/2016 GSW vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p529
+a.

@@ -1,0 +1,94 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMichael Doleac ORL 05/01/2001 ORL vs. MIL L 6 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 4
+p2
+aVDon Reid ORL 05/01/2001 ORL vs. MIL L 17 8 3 4 75.0 0 1 0.0 2 4 50.0 2 3 5 0 0 2 2 4 -9
+p3
+aVTracy McGrady ORL 05/01/2001 ORL vs. MIL L 43 25 10 26 38.5 0 2 0.0 5 8 62.5 2 1 3 8 2 0 0 3 -16
+p4
+aVAndrew DeClercq ORL 05/01/2001 ORL vs. MIL L 16 6 2 5 40.0 0 0 - 2 4 50.0 2 1 3 0 2 0 0 4 2
+p5
+aVDarrell Armstrong ORL 05/01/2001 ORL vs. MIL L 44 16 4 13 30.8 4 8 50.0 4 4 100.0 2 6 8 8 1 1 3 3 -19
+p6
+aVJohn Amaechi ORL 05/01/2001 ORL vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p7
+aVMonty Williams ORL 05/01/2001 ORL vs. MIL L 7 7 3 3 100.0 0 0 - 1 2 50.0 3 1 4 0 0 1 0 1 7
+p8
+aVPat Garrity ORL 05/01/2001 ORL vs. MIL L 32 8 4 11 36.4 0 4 0.0 0 0 - 0 1 1 2 0 0 1 3 -13
+p9
+aVBo Outlaw ORL 05/01/2001 ORL vs. MIL L 29 4 2 3 66.7 0 0 - 0 3 0.0 4 8 12 2 1 1 2 5 12
+p10
+aVMike Miller ORL 05/01/2001 ORL vs. MIL L 36 22 9 18 50.0 4 6 66.7 0 0 - 2 3 5 3 0 2 1 4 -13
+p11
+aVTroy Hudson ORL 05/01/2001 ORL vs. MIL L 8 6 2 4 50.0 0 2 0.0 2 2 100.0 0 0 0 2 0 0 0 1 9
+p12
+aVJohn Amaechi ORL 04/28/2001 ORL vs. MIL W 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 2 0 0 2
+p13
+aVBo Outlaw ORL 04/28/2001 ORL vs. MIL W 43 8 4 8 50.0 0 0 - 0 2 0.0 4 10 14 3 4 2 2 5 6
+p14
+aVMonty Williams ORL 04/28/2001 ORL vs. MIL W 2 0 0 0 - 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 -5
+p15
+aVTroy Hudson ORL 04/28/2001 ORL vs. MIL W 11 5 1 5 20.0 0 1 0.0 3 4 75.0 2 0 2 1 0 0 3 0 -7
+p16
+aVPat Garrity ORL 04/28/2001 ORL vs. MIL W 32 16 5 10 50.0 3 6 50.0 3 3 100.0 0 0 0 0 0 0 1 5 4
+p17
+aVAndrew DeClercq ORL 04/28/2001 ORL vs. MIL W 14 6 3 5 60.0 0 0 - 0 0 - 4 2 6 0 0 1 1 6 -1
+p18
+aVDee Brown ORL 04/28/2001 ORL vs. MIL W 24 12 4 8 50.0 4 7 57.1 0 0 - 0 1 1 0 1 0 0 3 10
+p19
+aVTracy McGrady ORL 04/28/2001 ORL vs. MIL W 50 42 14 32 43.8 0 2 0.0 14 18 77.8 0 8 8 10 3 2 2 3 12
+p20
+aVDarrell Armstrong ORL 04/28/2001 ORL vs. MIL W 49 18 6 13 46.2 2 5 40.0 4 4 100.0 2 8 10 4 2 1 4 0 8
+p21
+aVMichael Doleac ORL 04/28/2001 ORL vs. MIL W 10 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 0 2 3 -7
+p22
+aVMike Miller ORL 04/28/2001 ORL vs. MIL W 23 6 3 10 30.0 0 2 0.0 0 0 - 1 3 4 0 0 1 1 3 3
+p23
+aVJohn Amaechi ORL 04/25/2001 ORL @ MIL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -3
+p24
+aVMike Miller ORL 04/25/2001 ORL @ MIL L 19 11 4 10 40.0 2 5 40.0 1 2 50.0 1 2 3 1 0 0 1 3 -10
+p25
+aVTroy Hudson ORL 04/25/2001 ORL @ MIL L 26 4 2 7 28.6 0 0 - 0 0 - 3 3 6 3 1 0 0 1 9
+p26
+aVDarrell Armstrong ORL 04/25/2001 ORL @ MIL L 36 10 4 10 40.0 0 2 0.0 2 3 66.7 0 1 1 4 3 0 2 3 -3
+p27
+aVDee Brown ORL 04/25/2001 ORL @ MIL L 15 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 3 0 0 0 0 -1
+p28
+aVDon Reid ORL 04/25/2001 ORL @ MIL L 3 2 1 1 100.0 0 0 - 0 2 0.0 2 1 3 0 0 0 0 1 2
+p29
+aVPat Garrity ORL 04/25/2001 ORL @ MIL L 26 10 3 8 37.5 3 4 75.0 1 2 50.0 1 0 1 0 0 1 0 0 7
+p30
+aVTracy McGrady ORL 04/25/2001 ORL @ MIL L 42 35 15 31 48.4 2 4 50.0 3 3 100.0 1 5 6 7 1 1 2 3 -14
+p31
+aVBo Outlaw ORL 04/25/2001 ORL @ MIL L 31 17 8 10 80.0 0 0 - 1 2 50.0 2 5 7 3 0 1 2 2 -12
+p32
+aVAndrew DeClercq ORL 04/25/2001 ORL @ MIL L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 4 -10
+p33
+aVMichael Doleac ORL 04/25/2001 ORL @ MIL L 24 4 2 6 33.3 0 0 - 0 0 - 2 5 7 1 1 0 0 5 0
+p34
+aVDarrell Armstrong ORL 04/22/2001 ORL @ MIL L 38 9 3 9 33.3 1 4 25.0 2 2 100.0 1 2 3 3 2 0 2 4 -11
+p35
+aVMichael Doleac ORL 04/22/2001 ORL @ MIL L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p36
+aVDee Brown ORL 04/22/2001 ORL @ MIL L 15 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 1 1 0 1 0 -4
+p37
+aVMonty Williams ORL 04/22/2001 ORL @ MIL L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 2
+p38
+aVAndrew DeClercq ORL 04/22/2001 ORL @ MIL L 12 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 1 0 1 1 3 -7
+p39
+aVTroy Hudson ORL 04/22/2001 ORL @ MIL L 11 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -7
+p40
+aVBo Outlaw ORL 04/22/2001 ORL @ MIL L 31 5 2 5 40.0 0 0 - 1 4 25.0 1 8 9 1 0 2 3 3 -6
+p41
+aVDon Reid ORL 04/22/2001 ORL @ MIL L 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 0 4 -4
+p42
+aVMike Miller ORL 04/22/2001 ORL @ MIL L 34 9 3 10 30.0 1 5 20.0 2 2 100.0 1 5 6 3 0 0 0 3 -9
+p43
+aVJohn Amaechi ORL 04/22/2001 ORL @ MIL L 14 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 2 2 0 0 2 1
+p44
+aVPat Garrity ORL 04/22/2001 ORL @ MIL L 27 14 5 7 71.4 4 6 66.7 0 0 - 0 3 3 0 0 0 0 3 -7
+p45
+aVTracy McGrady ORL 04/22/2001 ORL @ MIL L 43 33 12 34 35.3 0 2 0.0 9 9 100.0 3 6 9 8 1 2 4 2 -15
+p46
+a.

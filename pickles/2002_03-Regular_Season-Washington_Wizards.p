@@ -1,0 +1,1614 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTyronn Lue WAS 04/16/2003 WAS @ PHI L 35 7 3 9 33.3 0 2 0.0 1 1 100.0 0 2 2 8 0 0 2 3 -26
+p2
+aVKwame Brown WAS 04/16/2003 WAS @ PHI L 42 17 6 10 60.0 0 0 - 5 6 83.3 2 6 8 0 1 0 5 5 -18
+p3
+aVJuan Dixon WAS 04/16/2003 WAS @ PHI L 26 14 6 14 42.9 2 5 40.0 0 0 - 1 1 2 1 2 0 3 4 -9
+p4
+aVBobby Simmons WAS 04/16/2003 WAS @ PHI L 28 4 2 9 22.2 0 1 0.0 0 0 - 2 6 8 3 0 0 2 4 -1
+p5
+aVLarry Hughes WAS 04/16/2003 WAS @ PHI L 32 11 5 12 41.7 1 2 50.0 0 0 - 1 3 4 4 0 0 3 6 -14
+p6
+aVMichael Jordan WAS 04/16/2003 WAS @ PHI L 28 15 6 15 40.0 0 0 - 3 4 75.0 0 4 4 4 0 0 2 0 -12
+p7
+aVJahidi White WAS 04/16/2003 WAS @ PHI L 15 8 2 5 40.0 0 0 - 4 4 100.0 7 2 9 0 0 0 1 3 -3
+p8
+aVChristian Laettner WAS 04/16/2003 WAS @ PHI L 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 1 0 0 2 -3
+p9
+aVBrendan Haywood WAS 04/16/2003 WAS @ PHI L 25 7 2 3 66.7 0 0 - 3 4 75.0 2 2 4 0 1 3 0 1 -14
+p10
+aVTyronn Lue WAS 04/14/2003 WAS vs. NYK L 32 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 4 0 0 1 4 -7
+p11
+aVChristian Laettner WAS 04/14/2003 WAS vs. NYK L 31 4 1 6 16.7 0 0 - 2 2 100.0 1 3 4 9 1 0 0 1 -5
+p12
+aVLarry Hughes WAS 04/14/2003 WAS vs. NYK L 28 16 7 13 53.8 2 3 66.7 0 0 - 1 2 3 2 2 0 2 1 -11
+p13
+aVKwame Brown WAS 04/14/2003 WAS vs. NYK L 37 12 6 11 54.5 0 0 - 0 0 - 4 3 7 1 1 1 2 1 -7
+p14
+aVMichael Jordan WAS 04/14/2003 WAS vs. NYK L 38 21 9 22 40.9 0 3 0.0 3 3 100.0 1 7 8 1 1 0 2 1 -11
+p15
+aVJerry Stackhouse WAS 04/14/2003 WAS vs. NYK L 15 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 1 0 0 3 1 -12
+p16
+aVBobby Simmons WAS 04/14/2003 WAS vs. NYK L 19 2 0 3 0.0 0 0 - 2 2 100.0 0 5 5 2 0 0 0 2 -1
+p17
+aVBrendan Haywood WAS 04/14/2003 WAS vs. NYK L 25 7 2 7 28.6 0 0 - 3 6 50.0 2 4 6 1 0 1 2 0 -9
+p18
+aVJuan Dixon WAS 04/14/2003 WAS vs. NYK L 16 7 3 6 50.0 1 1 100.0 0 0 - 0 3 3 0 1 0 0 1 -7
+p19
+aVChristian Laettner WAS 04/12/2003 WAS vs. ATL L 33 18 8 12 66.7 0 0 - 2 2 100.0 5 6 11 6 0 1 0 2 7
+p20
+aVMichael Jordan WAS 04/12/2003 WAS vs. ATL L 30 17 8 16 50.0 0 0 - 1 2 50.0 2 6 8 6 1 1 2 3 12
+p21
+aVJuan Dixon WAS 04/12/2003 WAS vs. ATL L 16 6 3 8 37.5 0 4 0.0 0 0 - 0 3 3 2 0 0 0 0 -12
+p22
+aVJahidi White WAS 04/12/2003 WAS vs. ATL L 12 3 1 3 33.3 0 0 - 1 2 50.0 2 5 7 0 0 1 0 0 2
+p23
+aVLarry Hughes WAS 04/12/2003 WAS vs. ATL L 31 16 7 14 50.0 0 1 0.0 2 2 100.0 0 3 3 2 3 0 3 1 -4
+p24
+aVBrendan Haywood WAS 04/12/2003 WAS vs. ATL L 23 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 2 -13
+p25
+aVKwame Brown WAS 04/12/2003 WAS vs. ATL L 23 6 2 13 15.4 0 0 - 2 5 40.0 2 3 5 0 1 2 0 2 -2
+p26
+aVBryon Russell WAS 04/12/2003 WAS vs. ATL L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -2
+p27
+aVTyronn Lue WAS 04/12/2003 WAS vs. ATL L 36 13 5 12 41.7 0 0 - 3 3 100.0 0 1 1 7 2 0 0 1 11
+p28
+aVBobby Simmons WAS 04/12/2003 WAS vs. ATL L 29 13 4 8 50.0 0 0 - 5 5 100.0 2 2 4 4 0 0 0 3 -4
+p29
+aVTyronn Lue WAS 04/11/2003 WAS @ MIA W 38 12 4 9 44.4 0 1 0.0 4 4 100.0 0 4 4 7 0 0 2 1 2
+p30
+aVLarry Hughes WAS 04/11/2003 WAS @ MIA W 24 13 5 11 45.5 1 2 50.0 2 4 50.0 0 1 1 0 0 1 1 0 12
+p31
+aVBobby Simmons WAS 04/11/2003 WAS @ MIA W 24 6 3 8 37.5 0 0 - 0 0 - 3 1 4 0 0 0 0 2 -8
+p32
+aVBrendan Haywood WAS 04/11/2003 WAS @ MIA W 18 9 4 4 100.0 0 0 - 1 1 100.0 2 2 4 0 0 0 2 2 3
+p33
+aVKwame Brown WAS 04/11/2003 WAS @ MIA W 39 12 5 9 55.6 0 0 - 2 4 50.0 2 8 10 1 2 0 2 4 -1
+p34
+aVJuan Dixon WAS 04/11/2003 WAS @ MIA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 5
+p35
+aVChristian Laettner WAS 04/11/2003 WAS @ MIA W 39 13 6 11 54.5 0 0 - 1 1 100.0 3 5 8 6 2 1 2 0 5
+p36
+aVBryon Russell WAS 04/11/2003 WAS @ MIA W 13 1 0 3 0.0 0 1 0.0 1 2 50.0 0 4 4 0 1 0 0 3 0
+p37
+aVMichael Jordan WAS 04/11/2003 WAS @ MIA W 40 25 11 26 42.3 0 1 0.0 3 3 100.0 1 1 2 4 2 0 1 2 2
+p38
+aVBrendan Haywood WAS 04/09/2003 WAS vs. BOS L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 0 -11
+p39
+aVJuan Dixon WAS 04/09/2003 WAS vs. BOS L 13 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 0 0 0 0 0 1
+p40
+aVMichael Jordan WAS 04/09/2003 WAS vs. BOS L 43 21 8 17 47.1 1 2 50.0 4 4 100.0 0 10 10 1 2 0 1 2 0
+p41
+aVKwame Brown WAS 04/09/2003 WAS vs. BOS L 32 17 7 11 63.6 0 0 - 3 3 100.0 3 6 9 0 0 1 1 1 8
+p42
+aVBobby Simmons WAS 04/09/2003 WAS vs. BOS L 19 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 1 0 5 4
+p43
+aVChristian Laettner WAS 04/09/2003 WAS vs. BOS L 37 9 4 11 36.4 0 0 - 1 2 50.0 3 7 10 2 2 0 0 3 -10
+p44
+aVJerry Stackhouse WAS 04/09/2003 WAS vs. BOS L 40 16 4 12 33.3 0 3 0.0 8 8 100.0 1 3 4 7 1 0 5 5 -5
+p45
+aVBryon Russell WAS 04/09/2003 WAS vs. BOS L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 2 -3
+p46
+aVTyronn Lue WAS 04/09/2003 WAS vs. BOS L 38 10 3 8 37.5 1 3 33.3 3 4 75.0 0 4 4 5 1 0 2 2 -4
+p47
+aVJuan Dixon WAS 04/08/2003 WAS @ CLE W 12 5 2 4 50.0 0 0 - 1 1 100.0 1 0 1 1 0 0 2 2 3
+p48
+aVBobby Simmons WAS 04/08/2003 WAS @ CLE W 28 11 4 8 50.0 0 1 0.0 3 3 100.0 1 4 5 0 0 1 1 2 11
+p49
+aVChristian Laettner WAS 04/08/2003 WAS @ CLE W 43 16 5 7 71.4 0 0 - 6 6 100.0 1 6 7 8 1 0 2 2 8
+p50
+aVTyronn Lue WAS 04/08/2003 WAS @ CLE W 39 18 7 15 46.7 1 5 20.0 3 3 100.0 0 2 2 8 3 0 2 3 11
+p51
+aVKwame Brown WAS 04/08/2003 WAS @ CLE W 6 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 -4
+p52
+aVBrendan Haywood WAS 04/08/2003 WAS @ CLE W 11 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -1
+p53
+aVJerry Stackhouse WAS 04/08/2003 WAS @ CLE W 44 18 5 17 29.4 1 2 50.0 7 8 87.5 3 3 6 4 5 0 3 2 8
+p54
+aVJahidi White WAS 04/08/2003 WAS @ CLE W 12 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -2
+p55
+aVMichael Jordan WAS 04/08/2003 WAS @ CLE W 46 26 10 19 52.6 1 1 100.0 5 5 100.0 3 7 10 3 3 1 1 0 11
+p56
+aVTyronn Lue WAS 04/06/2003 WAS @ BOS W 42 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 5 1 0 2 2 -2
+p57
+aVKwame Brown WAS 04/06/2003 WAS @ BOS W 27 5 2 6 33.3 0 0 - 1 2 50.0 0 6 6 2 1 0 1 0 3
+p58
+aVJuan Dixon WAS 04/06/2003 WAS @ BOS W 12 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 2 2 0 0 0 3
+p59
+aVJahidi White WAS 04/06/2003 WAS @ BOS W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 1
+p60
+aVChristian Laettner WAS 04/06/2003 WAS @ BOS W 49 16 8 18 44.4 0 0 - 0 0 - 3 10 13 4 0 0 4 4 0
+p61
+aVJerry Stackhouse WAS 04/06/2003 WAS @ BOS W 47 24 9 20 45.0 0 1 0.0 6 6 100.0 2 3 5 4 2 0 3 3 3
+p62
+aVBobby Simmons WAS 04/06/2003 WAS @ BOS W 34 15 6 10 60.0 0 0 - 3 4 75.0 4 3 7 3 2 0 1 5 6
+p63
+aVMichael Jordan WAS 04/06/2003 WAS @ BOS W 47 25 10 22 45.5 1 1 100.0 4 4 100.0 2 11 13 7 2 0 2 3 -9
+p64
+aVBobby Simmons WAS 04/03/2003 WAS @ ATL L 20 9 3 9 33.3 0 0 - 3 3 100.0 2 1 3 0 0 0 1 0 -2
+p65
+aVBryon Russell WAS 04/03/2003 WAS @ ATL L 14 0 0 5 0.0 0 3 0.0 0 0 - 1 1 2 2 1 1 1 3 9
+p66
+aVKwame Brown WAS 04/03/2003 WAS @ ATL L 15 4 2 2 100.0 0 0 - 0 2 0.0 0 1 1 0 1 0 2 2 4
+p67
+aVChristian Laettner WAS 04/03/2003 WAS @ ATL L 29 10 5 6 83.3 0 0 - 0 0 - 0 6 6 5 1 1 1 4 -3
+p68
+aVJuan Dixon WAS 04/03/2003 WAS @ ATL L 15 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 -1
+p69
+aVTyronn Lue WAS 04/03/2003 WAS @ ATL L 35 14 7 13 53.8 0 1 0.0 0 0 - 3 2 5 3 0 1 2 4 2
+p70
+aVBrendan Haywood WAS 04/03/2003 WAS @ ATL L 26 9 3 6 50.0 0 0 - 3 4 75.0 3 0 3 0 2 1 0 2 7
+p71
+aVMichael Jordan WAS 04/03/2003 WAS @ ATL L 43 22 10 23 43.5 0 1 0.0 2 2 100.0 1 13 14 7 2 0 0 2 -5
+p72
+aVJahidi White WAS 04/03/2003 WAS @ ATL L 12 4 2 6 33.3 0 0 - 0 0 - 2 0 2 0 0 1 1 2 -19
+p73
+aVJerry Stackhouse WAS 04/03/2003 WAS @ ATL L 31 15 5 14 35.7 1 2 50.0 4 4 100.0 1 2 3 1 2 0 3 0 -2
+p74
+aVBobby Simmons WAS 04/02/2003 WAS vs. SAC L 13 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -8
+p75
+aVChristian Laettner WAS 04/02/2003 WAS vs. SAC L 26 8 4 9 44.4 0 0 - 0 0 - 2 2 4 4 1 0 1 2 -7
+p76
+aVTyronn Lue WAS 04/02/2003 WAS vs. SAC L 39 16 7 13 53.8 2 3 66.7 0 0 - 0 8 8 7 1 0 2 5 7
+p77
+aVBrendan Haywood WAS 04/02/2003 WAS vs. SAC L 21 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 1 2 1 3 5
+p78
+aVMichael Jordan WAS 04/02/2003 WAS vs. SAC L 42 17 8 17 47.1 0 0 - 1 2 50.0 0 1 1 4 0 0 1 2 -2
+p79
+aVJerry Stackhouse WAS 04/02/2003 WAS vs. SAC L 40 27 8 19 42.1 0 2 0.0 11 11 100.0 2 4 6 7 1 0 4 1 -3
+p80
+aVJahidi White WAS 04/02/2003 WAS vs. SAC L 19 10 3 5 60.0 0 0 - 4 4 100.0 2 5 7 0 0 0 1 1 -7
+p81
+aVKwame Brown WAS 04/02/2003 WAS vs. SAC L 29 16 5 12 41.7 0 1 0.0 6 12 50.0 2 4 6 1 0 1 1 2 -1
+p82
+aVJuan Dixon WAS 04/02/2003 WAS vs. SAC L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -14
+p83
+aVJahidi White WAS 03/30/2003 WAS @ DEN L 24 3 1 2 50.0 0 0 - 1 2 50.0 5 4 9 0 0 0 2 4 -13
+p84
+aVJerry Stackhouse WAS 03/30/2003 WAS @ DEN L 36 15 5 19 26.3 0 4 0.0 5 7 71.4 1 1 2 0 2 0 0 0 -12
+p85
+aVBrendan Haywood WAS 03/30/2003 WAS @ DEN L 20 8 2 2 100.0 0 0 - 4 6 66.7 2 0 2 0 0 1 2 4 -6
+p86
+aVKwame Brown WAS 03/30/2003 WAS @ DEN L 21 8 2 5 40.0 0 0 - 4 4 100.0 1 3 4 1 1 1 0 1 1
+p87
+aVBobby Simmons WAS 03/30/2003 WAS @ DEN L 18 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 3 0 0 2 -3
+p88
+aVTyronn Lue WAS 03/30/2003 WAS @ DEN L 34 9 2 10 20.0 1 3 33.3 4 4 100.0 0 5 5 5 0 0 1 1 -9
+p89
+aVChristian Laettner WAS 03/30/2003 WAS @ DEN L 29 2 1 2 50.0 0 0 - 0 0 - 1 4 5 4 0 0 1 1 -12
+p90
+aVMichael Jordan WAS 03/30/2003 WAS @ DEN L 38 19 9 23 39.1 0 1 0.0 1 2 50.0 1 4 5 2 1 0 5 1 -20
+p91
+aVJuan Dixon WAS 03/30/2003 WAS @ DEN L 15 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p92
+aVBryon Russell WAS 03/30/2003 WAS @ DEN L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -7
+p93
+aVJerry Stackhouse WAS 03/28/2003 WAS @ LAL L 33 22 10 22 45.5 1 3 33.3 1 1 100.0 2 0 2 4 0 0 5 3 -11
+p94
+aVLarry Hughes WAS 03/28/2003 WAS @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p95
+aVKwame Brown WAS 03/28/2003 WAS @ LAL L 26 9 4 11 36.4 0 0 - 1 1 100.0 3 6 9 0 0 1 0 3 -4
+p96
+aVBrendan Haywood WAS 03/28/2003 WAS @ LAL L 24 8 3 5 60.0 0 0 - 2 4 50.0 2 3 5 0 1 2 0 6 -2
+p97
+aVJuan Dixon WAS 03/28/2003 WAS @ LAL L 6 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 1
+p98
+aVBobby Simmons WAS 03/28/2003 WAS @ LAL L 17 2 0 3 0.0 0 0 - 2 2 100.0 1 4 5 0 1 0 0 3 -1
+p99
+aVTyronn Lue WAS 03/28/2003 WAS @ LAL L 46 17 7 15 46.7 1 2 50.0 2 2 100.0 0 4 4 8 2 0 1 1 -9
+p100
+aVBryon Russell WAS 03/28/2003 WAS @ LAL L 7 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 2 0 0 1 1 -12
+p101
+aVMichael Jordan WAS 03/28/2003 WAS @ LAL L 41 23 10 20 50.0 0 0 - 3 4 75.0 0 0 0 4 1 0 1 1 -10
+p102
+aVJahidi White WAS 03/28/2003 WAS @ LAL L 16 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 1 0 4 -7
+p103
+aVChristian Laettner WAS 03/28/2003 WAS @ LAL L 22 4 2 5 40.0 0 2 0.0 0 0 - 2 4 6 2 0 1 0 1 -10
+p104
+aVJerry Stackhouse WAS 03/26/2003 WAS @ SEA W 41 20 7 18 38.9 2 6 33.3 4 4 100.0 1 3 4 9 0 0 3 2 8
+p105
+aVJahidi White WAS 03/26/2003 WAS @ SEA W 23 2 1 4 25.0 0 0 - 0 1 0.0 4 2 6 0 0 2 2 3 10
+p106
+aVBrendan Haywood WAS 03/26/2003 WAS @ SEA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -2
+p107
+aVBryon Russell WAS 03/26/2003 WAS @ SEA W 8 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -8
+p108
+aVMichael Jordan WAS 03/26/2003 WAS @ SEA W 44 26 12 22 54.5 0 0 - 2 3 66.7 1 9 10 4 2 1 4 3 5
+p109
+aVBobby Simmons WAS 03/26/2003 WAS @ SEA W 17 3 0 3 0.0 0 0 - 3 4 75.0 2 1 3 0 1 0 0 2 -2
+p110
+aVChristian Laettner WAS 03/26/2003 WAS @ SEA W 33 8 3 4 75.0 0 0 - 2 2 100.0 1 7 8 1 0 1 0 1 16
+p111
+aVTyronn Lue WAS 03/26/2003 WAS @ SEA W 45 11 4 12 33.3 2 4 50.0 1 2 50.0 0 2 2 4 1 0 0 1 7
+p112
+aVKwame Brown WAS 03/26/2003 WAS @ SEA W 25 10 4 10 40.0 0 0 - 2 4 50.0 1 4 5 1 1 2 2 1 -4
+p113
+aVJahidi White WAS 03/25/2003 WAS @ POR W 29 6 3 7 42.9 0 0 - 0 0 - 2 3 5 0 0 4 0 6 6
+p114
+aVBobby Simmons WAS 03/25/2003 WAS @ POR W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -1
+p115
+aVKwame Brown WAS 03/25/2003 WAS @ POR W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 4 1 0
+p116
+aVTyronn Lue WAS 03/25/2003 WAS @ POR W 39 21 9 14 64.3 1 1 100.0 2 2 100.0 0 4 4 5 2 0 0 4 5
+p117
+aVLarry Hughes WAS 03/25/2003 WAS @ POR W 20 9 3 7 42.9 1 2 50.0 2 2 100.0 1 0 1 4 1 0 0 2 -9
+p118
+aVBrendan Haywood WAS 03/25/2003 WAS @ POR W 17 2 1 2 50.0 0 0 - 0 0 - 3 2 5 0 0 3 0 0 4
+p119
+aVMichael Jordan WAS 03/25/2003 WAS @ POR W 41 25 11 19 57.9 0 0 - 3 4 75.0 0 5 5 7 2 0 1 4 6
+p120
+aVChristian Laettner WAS 03/25/2003 WAS @ POR W 40 6 3 5 60.0 0 0 - 0 0 - 2 9 11 5 1 0 1 2 1
+p121
+aVJerry Stackhouse WAS 03/25/2003 WAS @ POR W 38 24 10 22 45.5 1 4 25.0 3 4 75.0 1 1 2 4 0 0 2 1 8
+p122
+aVTyronn Lue WAS 03/23/2003 WAS @ GSW L 27 8 3 8 37.5 1 2 50.0 1 2 50.0 2 2 4 2 2 0 2 1 -14
+p123
+aVChristian Laettner WAS 03/23/2003 WAS @ GSW L 35 14 7 7 100.0 0 0 - 0 0 - 2 11 13 5 1 0 1 2 -12
+p124
+aVBobby Simmons WAS 03/23/2003 WAS @ GSW L 23 10 5 9 55.6 0 0 - 0 0 - 3 2 5 2 2 0 1 4 3
+p125
+aVKwame Brown WAS 03/23/2003 WAS @ GSW L 22 10 5 14 35.7 0 0 - 0 0 - 4 4 8 3 1 1 0 1 -2
+p126
+aVJahidi White WAS 03/23/2003 WAS @ GSW L 22 10 3 4 75.0 0 0 - 4 6 66.7 5 4 9 0 0 1 1 1 -1
+p127
+aVMichael Jordan WAS 03/23/2003 WAS @ GSW L 42 24 11 23 47.8 1 1 100.0 1 1 100.0 0 5 5 4 2 0 3 2 -5
+p128
+aVLarry Hughes WAS 03/23/2003 WAS @ GSW L 19 13 6 8 75.0 0 0 - 1 2 50.0 0 0 0 0 1 1 1 4 13
+p129
+aVBrendan Haywood WAS 03/23/2003 WAS @ GSW L 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 2 0 1 1
+p130
+aVJerry Stackhouse WAS 03/23/2003 WAS @ GSW L 36 18 6 21 28.6 1 5 20.0 5 5 100.0 0 1 1 10 1 1 3 5 -13
+p131
+aVKwame Brown WAS 03/21/2003 WAS @ PHX L 20 5 2 4 50.0 0 0 - 1 4 25.0 3 2 5 0 0 1 1 1 -4
+p132
+aVLarry Hughes WAS 03/21/2003 WAS @ PHX L 35 13 6 14 42.9 1 3 33.3 0 1 0.0 0 3 3 1 5 0 4 2 -12
+p133
+aVJuan Dixon WAS 03/21/2003 WAS @ PHX L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p134
+aVBobby Simmons WAS 03/21/2003 WAS @ PHX L 8 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 4
+p135
+aVJerry Stackhouse WAS 03/21/2003 WAS @ PHX L 34 7 3 10 30.0 0 2 0.0 1 2 50.0 0 1 1 9 0 0 4 0 -19
+p136
+aVBrendan Haywood WAS 03/21/2003 WAS @ PHX L 26 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 0 1 1 0 2 -21
+p137
+aVMichael Jordan WAS 03/21/2003 WAS @ PHX L 36 14 4 12 33.3 0 1 0.0 6 6 100.0 2 3 5 2 1 1 2 0 -29
+p138
+aVChristian Laettner WAS 03/21/2003 WAS @ PHX L 29 12 5 10 50.0 0 0 - 2 2 100.0 1 5 6 1 2 0 1 0 -17
+p139
+aVBryon Russell WAS 03/21/2003 WAS @ PHX L 17 4 1 8 12.5 1 2 50.0 1 2 50.0 1 1 2 2 0 1 1 4 -18
+p140
+aVTyronn Lue WAS 03/21/2003 WAS @ PHX L 24 5 2 9 22.2 1 5 20.0 0 0 - 1 1 2 4 1 0 1 3 -20
+p141
+aVJahidi White WAS 03/21/2003 WAS @ PHX L 5 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 1 0 0 0 5
+p142
+aVLarry Hughes WAS 03/18/2003 WAS vs. DET L 36 13 6 10 60.0 0 0 - 1 1 100.0 0 2 2 6 2 0 2 3 7
+p143
+aVJahidi White WAS 03/18/2003 WAS vs. DET L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -5
+p144
+aVBrendan Haywood WAS 03/18/2003 WAS vs. DET L 41 9 4 7 57.1 0 0 - 1 2 50.0 5 3 8 0 0 2 2 3 2
+p145
+aVMichael Jordan WAS 03/18/2003 WAS vs. DET L 50 23 10 25 40.0 0 1 0.0 3 4 75.0 1 10 11 3 0 0 2 2 -2
+p146
+aVJerry Stackhouse WAS 03/18/2003 WAS vs. DET L 47 28 10 23 43.5 0 3 0.0 8 8 100.0 2 1 3 5 2 0 3 1 -5
+p147
+aVKwame Brown WAS 03/18/2003 WAS vs. DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p148
+aVCharles Oakley WAS 03/18/2003 WAS vs. DET L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p149
+aVChristian Laettner WAS 03/18/2003 WAS vs. DET L 41 12 5 12 41.7 0 1 0.0 2 2 100.0 3 15 18 3 1 0 1 2 8
+p150
+aVBryon Russell WAS 03/18/2003 WAS vs. DET L 15 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -10
+p151
+aVTyronn Lue WAS 03/18/2003 WAS vs. DET L 17 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 3 0 0 0 2 -12
+p152
+aVMichael Jordan WAS 03/15/2003 WAS vs. MIA W 39 19 9 18 50.0 0 1 0.0 1 1 100.0 2 6 8 1 2 2 3 3 4
+p153
+aVCharles Oakley WAS 03/15/2003 WAS vs. MIA W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 1
+p154
+aVBrendan Haywood WAS 03/15/2003 WAS vs. MIA W 29 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 0 2 3 2 2 8
+p155
+aVJerry Stackhouse WAS 03/15/2003 WAS vs. MIA W 42 37 11 22 50.0 1 4 25.0 14 15 93.3 1 4 5 5 1 1 0 1 2
+p156
+aVChristian Laettner WAS 03/15/2003 WAS vs. MIA W 33 8 4 10 40.0 0 0 - 0 2 0.0 1 11 12 5 3 1 0 4 2
+p157
+aVBryon Russell WAS 03/15/2003 WAS vs. MIA W 21 5 1 3 33.3 0 1 0.0 3 6 50.0 2 5 7 0 2 1 0 2 8
+p158
+aVLarry Hughes WAS 03/15/2003 WAS vs. MIA W 20 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 1 1 0 1 1 7
+p159
+aVJahidi White WAS 03/15/2003 WAS vs. MIA W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 4
+p160
+aVBobby Simmons WAS 03/15/2003 WAS vs. MIA W 0 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p161
+aVTyronn Lue WAS 03/15/2003 WAS vs. MIA W 28 5 1 6 16.7 1 3 33.3 2 2 100.0 0 0 0 1 0 0 2 1 0
+p162
+aVKwame Brown WAS 03/15/2003 WAS vs. MIA W 12 2 1 3 33.3 0 0 - 0 1 0.0 1 1 2 0 0 0 0 0 2
+p163
+aVMichael Jordan WAS 03/14/2003 WAS @ DET L 40 15 6 18 33.3 0 0 - 3 4 75.0 1 4 5 4 2 1 0 2 -17
+p164
+aVTyronn Lue WAS 03/14/2003 WAS @ DET L 28 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 3 1 0 1 4 0
+p165
+aVBryon Russell WAS 03/14/2003 WAS @ DET L 18 10 3 6 50.0 0 2 0.0 4 5 80.0 1 1 2 0 1 0 0 1 4
+p166
+aVBrendan Haywood WAS 03/14/2003 WAS @ DET L 19 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 1 0 0 2 -12
+p167
+aVChristian Laettner WAS 03/14/2003 WAS @ DET L 27 6 3 9 33.3 0 0 - 0 0 - 0 4 4 3 2 1 1 4 -11
+p168
+aVJahidi White WAS 03/14/2003 WAS @ DET L 17 6 3 7 42.9 0 0 - 0 2 0.0 3 5 8 0 0 0 0 3 5
+p169
+aVJerry Stackhouse WAS 03/14/2003 WAS @ DET L 39 24 7 16 43.8 0 1 0.0 10 12 83.3 0 1 1 3 2 0 3 2 -5
+p170
+aVCharles Oakley WAS 03/14/2003 WAS @ DET L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 -6
+p171
+aVBobby Simmons WAS 03/14/2003 WAS @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p172
+aVLarry Hughes WAS 03/14/2003 WAS @ DET L 22 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 0 1 3 1 -12
+p173
+aVKwame Brown WAS 03/14/2003 WAS @ DET L 21 3 1 4 25.0 0 0 - 1 2 50.0 3 4 7 0 0 1 2 3 3
+p174
+aVChristian Laettner WAS 03/11/2003 WAS vs. ORL W 40 13 5 10 50.0 0 0 - 3 3 100.0 1 6 7 5 2 0 2 2 7
+p175
+aVCharles Oakley WAS 03/11/2003 WAS vs. ORL W 11 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 2 1 1 0 1 0
+p176
+aVJuan Dixon WAS 03/11/2003 WAS vs. ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p177
+aVBryon Russell WAS 03/11/2003 WAS vs. ORL W 23 4 0 2 0.0 0 1 0.0 4 4 100.0 0 4 4 0 2 0 0 3 -1
+p178
+aVMichael Jordan WAS 03/11/2003 WAS vs. ORL W 40 23 10 18 55.6 0 0 - 3 3 100.0 0 4 4 2 2 0 9 4 -5
+p179
+aVKwame Brown WAS 03/11/2003 WAS vs. ORL W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p180
+aVBrendan Haywood WAS 03/11/2003 WAS vs. ORL W 28 11 4 4 100.0 0 0 - 3 5 60.0 3 2 5 1 0 0 1 1 0
+p181
+aVLarry Hughes WAS 03/11/2003 WAS vs. ORL W 45 20 10 18 55.6 0 1 0.0 0 0 - 1 3 4 9 2 0 0 0 7
+p182
+aVJerry Stackhouse WAS 03/11/2003 WAS vs. ORL W 42 31 8 16 50.0 0 0 - 15 15 100.0 0 5 5 8 0 1 4 2 1
+p183
+aVMichael Jordan WAS 03/09/2003 WAS @ NYK L 43 39 13 22 59.1 0 0 - 13 15 86.7 1 7 8 1 1 0 3 3 7
+p184
+aVBryon Russell WAS 03/09/2003 WAS @ NYK L 25 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 1 3 0 0 1 1
+p185
+aVKwame Brown WAS 03/09/2003 WAS @ NYK L 28 9 3 4 75.0 0 0 - 3 4 75.0 3 1 4 3 2 1 2 2 -6
+p186
+aVLarry Hughes WAS 03/09/2003 WAS @ NYK L 34 13 5 12 41.7 0 2 0.0 3 5 60.0 0 2 2 2 2 1 1 3 -6
+p187
+aVJuan Dixon WAS 03/09/2003 WAS @ NYK L 18 13 6 11 54.5 1 4 25.0 0 3 0.0 2 1 3 1 0 0 0 2 19
+p188
+aVBrendan Haywood WAS 03/09/2003 WAS @ NYK L 21 8 2 8 25.0 0 0 - 4 4 100.0 6 3 9 1 0 0 0 0 -6
+p189
+aVCharles Oakley WAS 03/09/2003 WAS @ NYK L 20 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 3 0 0 0 2 -4
+p190
+aVChristian Laettner WAS 03/09/2003 WAS @ NYK L 22 4 1 5 20.0 0 0 - 2 2 100.0 0 6 6 1 1 0 3 5 -1
+p191
+aVJerry Stackhouse WAS 03/09/2003 WAS @ NYK L 30 5 1 7 14.3 0 0 - 3 4 75.0 1 3 4 1 0 1 2 5 -9
+p192
+aVJuan Dixon WAS 03/07/2003 WAS vs. MIL L 17 6 2 9 22.2 1 2 50.0 1 1 100.0 0 2 2 1 0 1 2 2 -1
+p193
+aVJerry Stackhouse WAS 03/07/2003 WAS vs. MIL L 46 15 5 12 41.7 1 3 33.3 4 5 80.0 0 1 1 3 2 0 2 3 -3
+p194
+aVKwame Brown WAS 03/07/2003 WAS vs. MIL L 19 5 1 3 33.3 0 0 - 3 4 75.0 3 4 7 1 2 2 2 2 -1
+p195
+aVChristian Laettner WAS 03/07/2003 WAS vs. MIL L 44 19 6 7 85.7 0 0 - 7 7 100.0 1 7 8 5 0 0 4 2 5
+p196
+aVBryon Russell WAS 03/07/2003 WAS vs. MIL L 9 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -14
+p197
+aVCharles Oakley WAS 03/07/2003 WAS vs. MIL L 13 0 0 2 0.0 0 0 - 0 0 - 1 4 5 2 0 0 0 0 0
+p198
+aVLarry Hughes WAS 03/07/2003 WAS vs. MIL L 31 10 4 10 40.0 1 2 50.0 1 4 25.0 0 5 5 8 1 1 4 3 -2
+p199
+aVMichael Jordan WAS 03/07/2003 WAS vs. MIL L 43 27 11 24 45.8 0 1 0.0 5 6 83.3 0 9 9 3 2 0 1 2 7
+p200
+aVBrendan Haywood WAS 03/07/2003 WAS vs. MIL L 18 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -2
+p201
+aVAnthony Goldwire WAS 03/07/2003 WAS vs. MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p202
+aVChristian Laettner WAS 03/05/2003 WAS vs. LAC W 26 10 4 5 80.0 0 0 - 2 3 66.7 2 11 13 5 2 0 0 3 23
+p203
+aVKwame Brown WAS 03/05/2003 WAS vs. LAC W 27 7 2 5 40.0 0 0 - 3 4 75.0 2 9 11 3 0 1 2 3 6
+p204
+aVAnthony Goldwire WAS 03/05/2003 WAS vs. LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p205
+aVJuan Dixon WAS 03/05/2003 WAS vs. LAC W 20 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 1 1 0 2 0 -2
+p206
+aVBrendan Haywood WAS 03/05/2003 WAS vs. LAC W 32 15 3 4 75.0 0 0 - 9 11 81.8 5 3 8 1 1 0 2 4 9
+p207
+aVCharles Oakley WAS 03/05/2003 WAS vs. LAC W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 3
+p208
+aVJerry Stackhouse WAS 03/05/2003 WAS vs. LAC W 34 20 5 17 29.4 0 1 0.0 10 10 100.0 1 2 3 2 0 0 0 0 30
+p209
+aVMichael Jordan WAS 03/05/2003 WAS vs. LAC W 24 10 4 14 28.6 0 0 - 2 2 100.0 3 6 9 0 0 0 1 2 11
+p210
+aVLarry Hughes WAS 03/05/2003 WAS vs. LAC W 34 20 7 10 70.0 0 0 - 6 9 66.7 1 2 3 4 1 0 6 2 17
+p211
+aVBryon Russell WAS 03/05/2003 WAS vs. LAC W 22 7 3 3 100.0 0 0 - 1 1 100.0 0 2 2 3 1 1 1 2 13
+p212
+aVBobby Simmons WAS 03/05/2003 WAS vs. LAC W 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p213
+aVJahidi White WAS 03/05/2003 WAS vs. LAC W 4 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p214
+aVAnthony Goldwire WAS 03/04/2003 WAS vs. TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p215
+aVKwame Brown WAS 03/04/2003 WAS vs. TOR L 24 12 4 5 80.0 0 0 - 4 6 66.7 3 5 8 1 0 1 1 0 3
+p216
+aVBrendan Haywood WAS 03/04/2003 WAS vs. TOR L 37 10 2 7 28.6 0 0 - 6 7 85.7 1 4 5 1 0 2 2 2 0
+p217
+aVBobby Simmons WAS 03/04/2003 WAS vs. TOR L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 1 -1
+p218
+aVChristian Laettner WAS 03/04/2003 WAS vs. TOR L 31 12 3 8 37.5 0 0 - 6 6 100.0 4 8 12 3 1 1 1 3 -5
+p219
+aVMichael Jordan WAS 03/04/2003 WAS vs. TOR L 15 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 0 0 3 1 -2
+p220
+aVLarry Hughes WAS 03/04/2003 WAS vs. TOR L 37 15 7 11 63.6 0 1 0.0 1 1 100.0 1 5 6 4 2 0 2 2 0
+p221
+aVJuan Dixon WAS 03/04/2003 WAS vs. TOR L 18 4 0 5 0.0 0 2 0.0 4 4 100.0 0 1 1 1 1 0 3 4 -7
+p222
+aVCharles Oakley WAS 03/04/2003 WAS vs. TOR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 0
+p223
+aVBryon Russell WAS 03/04/2003 WAS vs. TOR L 21 8 4 7 57.1 0 3 0.0 0 0 - 1 4 5 0 2 0 1 2 11
+p224
+aVJerry Stackhouse WAS 03/04/2003 WAS vs. TOR L 43 21 8 22 36.4 0 4 0.0 5 6 83.3 1 1 2 3 1 0 4 1 -10
+p225
+aVCharles Oakley WAS 03/02/2003 WAS @ MIA L 21 4 0 2 0.0 0 0 - 4 4 100.0 3 3 6 1 1 0 1 3 2
+p226
+aVBobby Simmons WAS 03/02/2003 WAS @ MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p227
+aVKwame Brown WAS 03/02/2003 WAS @ MIA L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 3
+p228
+aVJuan Dixon WAS 03/02/2003 WAS @ MIA L 29 4 1 7 14.3 0 2 0.0 2 2 100.0 0 1 1 2 1 0 5 1 -11
+p229
+aVAnthony Goldwire WAS 03/02/2003 WAS @ MIA L 20 10 4 6 66.7 1 1 100.0 1 1 100.0 0 3 3 1 0 0 1 0 3
+p230
+aVBryon Russell WAS 03/02/2003 WAS @ MIA L 22 11 4 7 57.1 1 2 50.0 2 3 66.7 0 1 1 0 2 0 0 6 -18
+p231
+aVJerry Stackhouse WAS 03/02/2003 WAS @ MIA L 43 24 7 17 41.2 2 7 28.6 8 8 100.0 1 1 2 5 0 0 3 2 -13
+p232
+aVChristian Laettner WAS 03/02/2003 WAS @ MIA L 36 4 1 5 20.0 0 0 - 2 2 100.0 2 8 10 4 1 0 0 1 -11
+p233
+aVBrendan Haywood WAS 03/02/2003 WAS @ MIA L 20 5 2 4 50.0 0 0 - 1 2 50.0 4 3 7 0 0 0 0 4 -8
+p234
+aVMichael Jordan WAS 03/02/2003 WAS @ MIA L 39 21 9 27 33.3 0 1 0.0 3 3 100.0 1 7 8 2 1 3 0 2 1
+p235
+aVMichael Jordan WAS 03/01/2003 WAS vs. CHI W 43 17 7 18 38.9 0 2 0.0 3 4 75.0 0 8 8 8 0 0 2 2 21
+p236
+aVJuan Dixon WAS 03/01/2003 WAS vs. CHI W 44 27 10 17 58.8 4 8 50.0 3 4 75.0 2 4 6 2 0 0 2 3 15
+p237
+aVBryon Russell WAS 03/01/2003 WAS vs. CHI W 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 2 0 1 0 -18
+p238
+aVBrendan Haywood WAS 03/01/2003 WAS vs. CHI W 35 8 1 3 33.3 0 0 - 6 10 60.0 4 3 7 0 1 5 1 4 21
+p239
+aVCharles Oakley WAS 03/01/2003 WAS vs. CHI W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -6
+p240
+aVKwame Brown WAS 03/01/2003 WAS vs. CHI W 13 2 1 6 16.7 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -8
+p241
+aVBobby Simmons WAS 03/01/2003 WAS vs. CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p242
+aVChristian Laettner WAS 03/01/2003 WAS vs. CHI W 33 13 5 8 62.5 0 0 - 3 4 75.0 2 9 11 5 2 0 3 3 11
+p243
+aVJerry Stackhouse WAS 03/01/2003 WAS vs. CHI W 43 27 6 14 42.9 1 2 50.0 14 16 87.5 0 2 2 2 3 0 2 2 14
+p244
+aVAnthony Goldwire WAS 03/01/2003 WAS vs. CHI W 3 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 1 1 -9
+p245
+aVJerry Stackhouse WAS 02/27/2003 WAS vs. HOU W 46 28 11 17 64.7 1 2 50.0 5 6 83.3 0 3 3 3 0 1 4 3 2
+p246
+aVChristian Laettner WAS 02/27/2003 WAS vs. HOU W 48 10 5 9 55.6 0 1 0.0 0 0 - 2 6 8 8 2 1 2 5 -5
+p247
+aVBrendan Haywood WAS 02/27/2003 WAS vs. HOU W 34 0 0 4 0.0 0 0 - 0 2 0.0 2 1 3 0 0 5 2 6 -3
+p248
+aVCharles Oakley WAS 02/27/2003 WAS vs. HOU W 24 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 1 1 0 1 5 10
+p249
+aVTyronn Lue WAS 02/27/2003 WAS vs. HOU W 33 12 6 7 85.7 0 0 - 0 0 - 0 3 3 4 0 0 1 3 2
+p250
+aVMichael Jordan WAS 02/27/2003 WAS vs. HOU W 50 35 15 26 57.7 0 0 - 5 7 71.4 0 11 11 6 0 0 3 3 0
+p251
+aVJuan Dixon WAS 02/27/2003 WAS vs. HOU W 31 9 4 7 57.1 1 3 33.3 0 0 - 0 4 4 1 0 0 3 1 4
+p252
+aVJerry Stackhouse WAS 02/25/2003 WAS @ IND W 39 12 3 14 21.4 1 6 16.7 5 6 83.3 3 3 6 2 1 1 1 2 8
+p253
+aVKwame Brown WAS 02/25/2003 WAS @ IND W 10 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 2
+p254
+aVJuan Dixon WAS 02/25/2003 WAS @ IND W 14 0 0 5 0.0 0 1 0.0 0 2 0.0 0 2 2 0 0 1 0 1 -4
+p255
+aVMichael Jordan WAS 02/25/2003 WAS @ IND W 41 25 11 25 44.0 0 0 - 3 4 75.0 0 6 6 3 1 0 1 2 13
+p256
+aVCharles Oakley WAS 02/25/2003 WAS @ IND W 22 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 0 0 1 3 -4
+p257
+aVTyronn Lue WAS 02/25/2003 WAS @ IND W 45 18 6 10 60.0 3 4 75.0 3 4 75.0 0 3 3 11 1 0 0 3 4
+p258
+aVBrendan Haywood WAS 02/25/2003 WAS @ IND W 31 10 3 5 60.0 0 0 - 4 8 50.0 4 6 10 1 0 2 0 2 8
+p259
+aVBobby Simmons WAS 02/25/2003 WAS @ IND W 6 0 0 2 0.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 2 -4
+p260
+aVChristian Laettner WAS 02/25/2003 WAS @ IND W 33 12 6 11 54.5 0 0 - 0 0 - 2 2 4 1 1 1 0 3 2
+p261
+aVMichael Jordan WAS 02/23/2003 WAS vs. DAL L 52 30 14 26 53.8 0 0 - 2 2 100.0 2 7 9 3 2 1 6 3 -1
+p262
+aVChristian Laettner WAS 02/23/2003 WAS vs. DAL L 32 7 3 5 60.0 0 1 0.0 1 2 50.0 3 7 10 5 1 1 0 5 -1
+p263
+aVTyronn Lue WAS 02/23/2003 WAS vs. DAL L 43 12 5 12 41.7 2 5 40.0 0 0 - 0 3 3 3 1 0 1 3 3
+p264
+aVBryon Russell WAS 02/23/2003 WAS vs. DAL L 11 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 1 -7
+p265
+aVJuan Dixon WAS 02/23/2003 WAS vs. DAL L 28 16 7 16 43.8 2 10 20.0 0 0 - 0 1 1 1 1 0 0 4 -11
+p266
+aVKwame Brown WAS 02/23/2003 WAS vs. DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p267
+aVCharles Oakley WAS 02/23/2003 WAS vs. DAL L 18 1 0 0 - 0 0 - 1 2 50.0 2 2 4 1 2 0 0 1 4
+p268
+aVBrendan Haywood WAS 02/23/2003 WAS vs. DAL L 23 5 2 5 40.0 0 0 - 1 3 33.3 2 1 3 1 1 2 2 1 -1
+p269
+aVBobby Simmons WAS 02/23/2003 WAS vs. DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p270
+aVJerry Stackhouse WAS 02/23/2003 WAS vs. DAL L 52 30 9 22 40.9 3 8 37.5 9 9 100.0 0 7 7 6 2 1 0 3 -3
+p271
+aVBrendan Haywood WAS 02/21/2003 WAS vs. NJN W 15 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 2 1 5 2
+p272
+aVBryon Russell WAS 02/21/2003 WAS vs. NJN W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p273
+aVCharles Oakley WAS 02/21/2003 WAS vs. NJN W 24 4 1 1 100.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 8
+p274
+aVChristian Laettner WAS 02/21/2003 WAS vs. NJN W 42 7 1 6 16.7 0 0 - 5 6 83.3 5 8 13 4 0 2 2 4 15
+p275
+aVMichael Jordan WAS 02/21/2003 WAS vs. NJN W 43 43 18 30 60.0 0 0 - 7 8 87.5 0 10 10 3 4 1 1 2 9
+p276
+aVEtan Thomas WAS 02/21/2003 WAS vs. NJN W 9 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 -9
+p277
+aVBobby Simmons WAS 02/21/2003 WAS vs. NJN W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 11
+p278
+aVJerry Stackhouse WAS 02/21/2003 WAS vs. NJN W 37 11 4 12 33.3 1 3 33.3 2 6 33.3 1 2 3 2 0 0 3 1 -6
+p279
+aVTyronn Lue WAS 02/21/2003 WAS vs. NJN W 34 13 4 7 57.1 1 4 25.0 4 4 100.0 0 1 1 2 0 0 1 3 17
+p280
+aVKwame Brown WAS 02/21/2003 WAS vs. NJN W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -12
+p281
+aVJuan Dixon WAS 02/21/2003 WAS vs. NJN W 15 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 3 -12
+p282
+aVBrendan Haywood WAS 02/19/2003 WAS @ NOH L 18 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 -14
+p283
+aVMichael Jordan WAS 02/19/2003 WAS @ NOH L 39 20 8 23 34.8 0 0 - 4 6 66.7 3 3 6 2 0 2 3 0 -21
+p284
+aVKwame Brown WAS 02/19/2003 WAS @ NOH L 28 13 6 7 85.7 0 0 - 1 2 50.0 3 6 9 2 1 0 0 2 4
+p285
+aVLarry Hughes WAS 02/19/2003 WAS @ NOH L 28 11 4 9 44.4 0 1 0.0 3 4 75.0 0 2 2 5 0 1 0 3 11
+p286
+aVJerry Stackhouse WAS 02/19/2003 WAS @ NOH L 40 15 6 15 40.0 0 3 0.0 3 6 50.0 0 1 1 0 0 1 2 1 -16
+p287
+aVTyronn Lue WAS 02/19/2003 WAS @ NOH L 20 3 1 6 16.7 0 4 0.0 1 2 50.0 0 3 3 3 2 0 3 1 -23
+p288
+aVBryon Russell WAS 02/19/2003 WAS @ NOH L 17 0 0 3 0.0 0 1 0.0 0 0 - 0 5 5 2 1 0 0 2 13
+p289
+aVChristian Laettner WAS 02/19/2003 WAS @ NOH L 25 4 1 7 14.3 0 0 - 2 2 100.0 2 4 6 1 1 0 2 0 -20
+p290
+aVCharles Oakley WAS 02/19/2003 WAS @ NOH L 25 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 1 2 0 0 3 6
+p291
+aVMichael Jordan WAS 02/14/2003 WAS @ UTA L 29 11 3 12 25.0 0 0 - 5 5 100.0 1 1 2 3 0 0 2 0 -35
+p292
+aVBobby Simmons WAS 02/14/2003 WAS @ UTA L 12 8 3 6 50.0 0 0 - 2 2 100.0 3 0 3 1 0 0 0 2 6
+p293
+aVCharles Oakley WAS 02/14/2003 WAS @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p294
+aVChristian Laettner WAS 02/14/2003 WAS @ UTA L 19 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 2 1 -28
+p295
+aVKwame Brown WAS 02/14/2003 WAS @ UTA L 31 8 3 7 42.9 0 0 - 2 4 50.0 3 3 6 1 1 1 4 3 -7
+p296
+aVBryon Russell WAS 02/14/2003 WAS @ UTA L 27 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 0 2 0 0 3 -24
+p297
+aVLarry Hughes WAS 02/14/2003 WAS @ UTA L 28 14 4 11 36.4 0 0 - 6 6 100.0 0 0 0 2 3 0 1 2 -11
+p298
+aVJuan Dixon WAS 02/14/2003 WAS @ UTA L 19 5 1 6 16.7 0 1 0.0 3 3 100.0 1 2 3 2 0 0 0 3 1
+p299
+aVBrendan Haywood WAS 02/14/2003 WAS @ UTA L 17 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 2 1 3 -20
+p300
+aVEtan Thomas WAS 02/14/2003 WAS @ UTA L 27 12 5 8 62.5 0 0 - 2 3 66.7 2 8 10 0 1 3 2 3 -3
+p301
+aVTyronn Lue WAS 02/14/2003 WAS @ UTA L 29 8 3 10 30.0 1 3 33.3 1 1 100.0 0 1 1 1 1 0 1 2 -33
+p302
+aVMichael Jordan WAS 02/12/2003 WAS @ LAC W 39 23 8 24 33.3 0 0 - 7 9 77.8 2 4 6 12 2 1 2 6 10
+p303
+aVKwame Brown WAS 02/12/2003 WAS @ LAC W 11 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 1 1 2 -11
+p304
+aVBryon Russell WAS 02/12/2003 WAS @ LAC W 35 15 5 8 62.5 4 6 66.7 1 2 50.0 2 5 7 3 0 0 1 1 10
+p305
+aVCharles Oakley WAS 02/12/2003 WAS @ LAC W 9 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 2 8
+p306
+aVTyronn Lue WAS 02/12/2003 WAS @ LAC W 43 21 8 12 66.7 3 5 60.0 2 2 100.0 0 2 2 4 1 0 1 2 8
+p307
+aVBobby Simmons WAS 02/12/2003 WAS @ LAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p308
+aVLarry Hughes WAS 02/12/2003 WAS @ LAC W 22 13 5 10 50.0 1 1 100.0 2 3 66.7 3 0 3 0 1 0 1 0 -14
+p309
+aVBrendan Haywood WAS 02/12/2003 WAS @ LAC W 36 7 2 4 50.0 0 0 - 3 5 60.0 2 4 6 1 0 4 2 4 -2
+p310
+aVChristian Laettner WAS 02/12/2003 WAS @ LAC W 39 17 7 10 70.0 0 0 - 3 4 75.0 3 11 14 2 2 0 1 5 17
+p311
+aVJuan Dixon WAS 02/12/2003 WAS @ LAC W 6 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 0 1 0 0 0 -3
+p312
+aVLarry Hughes WAS 02/11/2003 WAS @ SAC L 36 19 5 15 33.3 1 1 100.0 8 9 88.9 1 1 2 4 0 0 2 2 -15
+p313
+aVJuan Dixon WAS 02/11/2003 WAS @ SAC L 22 8 3 11 27.3 0 3 0.0 2 2 100.0 0 3 3 4 1 0 1 0 -6
+p314
+aVMichael Jordan WAS 02/11/2003 WAS @ SAC L 31 12 5 19 26.3 0 0 - 2 2 100.0 2 5 7 2 0 0 1 0 -25
+p315
+aVTyronn Lue WAS 02/11/2003 WAS @ SAC L 26 5 2 8 25.0 0 1 0.0 1 1 100.0 1 0 1 2 0 0 2 1 -13
+p316
+aVBryon Russell WAS 02/11/2003 WAS @ SAC L 27 5 2 8 25.0 1 1 100.0 0 0 - 0 8 8 0 1 0 0 2 -5
+p317
+aVBobby Simmons WAS 02/11/2003 WAS @ SAC L 10 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 0 0 0 3 0
+p318
+aVEtan Thomas WAS 02/11/2003 WAS @ SAC L 19 6 1 7 14.3 0 0 - 4 6 66.7 2 5 7 0 0 1 1 1 -1
+p319
+aVBrendan Haywood WAS 02/11/2003 WAS @ SAC L 29 10 4 10 40.0 0 0 - 2 3 66.7 2 3 5 0 2 2 0 4 -5
+p320
+aVChristian Laettner WAS 02/11/2003 WAS @ SAC L 24 4 2 9 22.2 0 0 - 0 0 - 6 5 11 3 0 1 0 2 -11
+p321
+aVKwame Brown WAS 02/11/2003 WAS @ SAC L 16 6 3 7 42.9 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -14
+p322
+aVMichael Jordan WAS 02/04/2003 WAS vs. CLE W 43 27 13 26 50.0 0 0 - 1 1 100.0 0 4 4 8 4 1 2 3 8
+p323
+aVEtan Thomas WAS 02/04/2003 WAS vs. CLE W 15 5 2 5 40.0 0 0 - 1 3 33.3 4 1 5 0 0 2 1 1 1
+p324
+aVJuan Dixon WAS 02/04/2003 WAS vs. CLE W 13 6 1 7 14.3 1 2 50.0 3 3 100.0 0 2 2 2 0 1 0 1 -3
+p325
+aVTyronn Lue WAS 02/04/2003 WAS vs. CLE W 36 15 5 10 50.0 3 6 50.0 2 2 100.0 0 2 2 6 3 0 3 0 12
+p326
+aVBryon Russell WAS 02/04/2003 WAS vs. CLE W 35 13 5 8 62.5 2 2 100.0 1 1 100.0 0 4 4 0 3 0 2 0 5
+p327
+aVKwame Brown WAS 02/04/2003 WAS vs. CLE W 27 11 4 8 50.0 0 0 - 3 4 75.0 1 6 7 0 1 0 0 2 11
+p328
+aVBrendan Haywood WAS 02/04/2003 WAS vs. CLE W 33 12 4 6 66.7 0 0 - 4 6 66.7 3 3 6 1 0 0 0 4 6
+p329
+aVChristian Laettner WAS 02/04/2003 WAS vs. CLE W 20 2 1 6 16.7 0 0 - 0 0 - 1 2 3 4 0 1 0 3 0
+p330
+aVLarry Hughes WAS 02/04/2003 WAS vs. CLE W 19 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 2 0 2 2 2 5
+p331
+aVChristian Laettner WAS 02/01/2003 WAS vs. NOH W 26 10 4 8 50.0 0 0 - 2 2 100.0 2 2 4 5 1 0 1 3 2
+p332
+aVBobby Simmons WAS 02/01/2003 WAS vs. NOH W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -10
+p333
+aVBryon Russell WAS 02/01/2003 WAS vs. NOH W 34 13 4 7 57.1 3 5 60.0 2 2 100.0 1 2 3 4 3 0 0 3 -1
+p334
+aVJuan Dixon WAS 02/01/2003 WAS vs. NOH W 22 10 3 8 37.5 1 2 50.0 3 4 75.0 0 2 2 1 1 0 2 1 3
+p335
+aVTyronn Lue WAS 02/01/2003 WAS vs. NOH W 37 8 3 11 27.3 0 4 0.0 2 2 100.0 0 2 2 3 2 0 0 2 11
+p336
+aVMichael Jordan WAS 02/01/2003 WAS vs. NOH W 44 45 18 33 54.5 0 0 - 9 10 90.0 1 2 3 6 1 1 2 5 14
+p337
+aVEtan Thomas WAS 02/01/2003 WAS vs. NOH W 17 6 2 2 100.0 0 0 - 2 2 100.0 2 1 3 0 1 0 1 5 -1
+p338
+aVBrendan Haywood WAS 02/01/2003 WAS vs. NOH W 23 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 1 2 0 1 3 4
+p339
+aVKwame Brown WAS 02/01/2003 WAS vs. NOH W 28 12 5 9 55.6 0 0 - 2 4 50.0 1 4 5 0 2 1 3 0 3
+p340
+aVBrendan Haywood WAS 01/30/2003 WAS @ MIL L 16 7 2 3 66.7 0 0 - 3 4 75.0 2 2 4 0 2 0 0 4 -6
+p341
+aVEtan Thomas WAS 01/30/2003 WAS @ MIL L 28 9 3 6 50.0 0 0 - 3 4 75.0 4 8 12 0 0 1 1 5 -2
+p342
+aVMichael Jordan WAS 01/30/2003 WAS @ MIL L 39 24 11 24 45.8 0 1 0.0 2 3 66.7 2 2 4 4 1 0 2 1 -16
+p343
+aVChristian Laettner WAS 01/30/2003 WAS @ MIL L 17 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 1 0 0 2 -3
+p344
+aVTyronn Lue WAS 01/30/2003 WAS @ MIL L 21 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 4 1 0 0 1 3
+p345
+aVKwame Brown WAS 01/30/2003 WAS @ MIL L 35 20 8 13 61.5 0 1 0.0 4 6 66.7 4 4 8 1 0 0 3 0 0
+p346
+aVLarry Hughes WAS 01/30/2003 WAS @ MIL L 32 8 3 7 42.9 0 0 - 2 5 40.0 2 2 4 3 0 0 0 3 -8
+p347
+aVJerry Stackhouse WAS 01/30/2003 WAS @ MIL L 22 5 2 13 15.4 0 3 0.0 1 2 50.0 2 1 3 6 0 0 1 0 -1
+p348
+aVBryon Russell WAS 01/30/2003 WAS @ MIL L 31 8 3 7 42.9 2 4 50.0 0 0 - 1 5 6 1 1 0 5 5 -2
+p349
+aVChristian Laettner WAS 01/29/2003 WAS @ NJN L 30 7 3 5 60.0 0 0 - 1 1 100.0 1 6 7 4 0 1 2 5 4
+p350
+aVLarry Hughes WAS 01/29/2003 WAS @ NJN L 31 12 4 9 44.4 0 1 0.0 4 4 100.0 1 7 8 2 0 0 0 1 0
+p351
+aVTyronn Lue WAS 01/29/2003 WAS @ NJN L 20 7 2 7 28.6 1 4 25.0 2 2 100.0 0 0 0 1 0 0 1 0 -5
+p352
+aVEtan Thomas WAS 01/29/2003 WAS @ NJN L 10 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 1 0 0 0 1 3
+p353
+aVKwame Brown WAS 01/29/2003 WAS @ NJN L 24 9 3 6 50.0 0 0 - 3 4 75.0 1 1 2 1 0 2 0 1 -9
+p354
+aVBrendan Haywood WAS 01/29/2003 WAS @ NJN L 28 4 2 7 28.6 0 0 - 0 0 - 2 7 9 1 0 2 0 0 -14
+p355
+aVBryon Russell WAS 01/29/2003 WAS @ NJN L 20 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 0 0 0 0 2 -5
+p356
+aVMichael Jordan WAS 01/29/2003 WAS @ NJN L 37 8 4 16 25.0 0 0 - 0 0 - 0 5 5 5 0 0 3 2 -8
+p357
+aVJerry Stackhouse WAS 01/29/2003 WAS @ NJN L 39 27 10 20 50.0 2 5 40.0 5 6 83.3 1 4 5 3 1 0 6 6 -6
+p358
+aVEtan Thomas WAS 01/27/2003 WAS vs. PHX W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -1
+p359
+aVMichael Jordan WAS 01/27/2003 WAS vs. PHX W 38 19 9 14 64.3 0 0 - 1 2 50.0 0 7 7 1 2 0 5 1 9
+p360
+aVLarry Hughes WAS 01/27/2003 WAS vs. PHX W 34 6 2 6 33.3 0 3 0.0 2 4 50.0 0 3 3 3 2 0 2 1 5
+p361
+aVBryon Russell WAS 01/27/2003 WAS vs. PHX W 24 0 0 5 0.0 0 2 0.0 0 0 - 0 6 6 0 2 0 2 1 -4
+p362
+aVBrendan Haywood WAS 01/27/2003 WAS vs. PHX W 32 7 2 6 33.3 0 0 - 3 4 75.0 4 3 7 1 1 2 0 4 9
+p363
+aVChristian Laettner WAS 01/27/2003 WAS vs. PHX W 32 12 6 10 60.0 0 0 - 0 0 - 1 7 8 3 3 2 1 4 7
+p364
+aVTyronn Lue WAS 01/27/2003 WAS vs. PHX W 17 10 4 7 57.1 1 1 100.0 1 1 100.0 0 1 1 3 0 0 1 2 -1
+p365
+aVJerry Stackhouse WAS 01/27/2003 WAS vs. PHX W 42 33 11 25 44.0 1 5 20.0 10 10 100.0 0 2 2 9 1 1 1 3 3
+p366
+aVKwame Brown WAS 01/27/2003 WAS vs. PHX W 17 9 2 4 50.0 0 0 - 5 6 83.3 1 1 2 0 0 0 0 3 -2
+p367
+aVJerry Stackhouse WAS 01/25/2003 WAS vs. MIN L 43 21 6 16 37.5 2 7 28.6 7 9 77.8 1 2 3 3 0 1 4 2 -11
+p368
+aVEtan Thomas WAS 01/25/2003 WAS vs. MIN L 30 10 4 6 66.7 0 0 - 2 3 66.7 5 1 6 0 1 0 2 4 -13
+p369
+aVBrendan Haywood WAS 01/25/2003 WAS vs. MIN L 19 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 2 3
+p370
+aVLarry Hughes WAS 01/25/2003 WAS vs. MIN L 40 18 8 17 47.1 2 3 66.7 0 0 - 1 5 6 4 1 0 1 1 1
+p371
+aVMichael Jordan WAS 01/25/2003 WAS vs. MIN L 41 17 8 18 44.4 0 1 0.0 1 2 50.0 0 8 8 5 2 1 4 0 -8
+p372
+aVKwame Brown WAS 01/25/2003 WAS vs. MIN L 20 5 1 4 25.0 0 0 - 3 4 75.0 2 3 5 0 1 0 0 0 3
+p373
+aVChristian Laettner WAS 01/25/2003 WAS vs. MIN L 26 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 0 0 1 1 4 -11
+p374
+aVTyronn Lue WAS 01/25/2003 WAS vs. MIN L 21 10 5 7 71.4 0 0 - 0 0 - 0 1 1 3 1 0 1 2 -4
+p375
+aVCharles Oakley WAS 01/24/2003 WAS @ CHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p376
+aVMichael Jordan WAS 01/24/2003 WAS @ CHI L 40 11 4 14 28.6 0 0 - 3 4 75.0 2 3 5 3 1 1 1 2 4
+p377
+aVTyronn Lue WAS 01/24/2003 WAS @ CHI L 24 12 4 7 57.1 2 4 50.0 2 2 100.0 1 2 3 3 1 0 1 0 -2
+p378
+aVKwame Brown WAS 01/24/2003 WAS @ CHI L 21 10 2 5 40.0 0 0 - 6 8 75.0 0 3 3 0 0 2 0 5 -9
+p379
+aVChristian Laettner WAS 01/24/2003 WAS @ CHI L 36 21 9 17 52.9 0 2 0.0 3 3 100.0 3 7 10 3 0 2 1 4 -9
+p380
+aVLarry Hughes WAS 01/24/2003 WAS @ CHI L 42 11 5 14 35.7 0 3 0.0 1 3 33.3 1 3 4 1 3 1 3 3 -17
+p381
+aVBobby Simmons WAS 01/24/2003 WAS @ CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p382
+aVBrendan Haywood WAS 01/24/2003 WAS @ CHI L 27 9 4 9 44.4 0 0 - 1 4 25.0 8 1 9 0 0 1 1 3 -5
+p383
+aVJerry Stackhouse WAS 01/24/2003 WAS @ CHI L 45 23 7 19 36.8 0 3 0.0 9 11 81.8 1 6 7 10 1 1 2 2 -3
+p384
+aVEtan Thomas WAS 01/22/2003 WAS @ NOH L 19 8 2 2 100.0 0 0 - 4 6 66.7 1 2 3 0 1 1 0 1 4
+p385
+aVMichael Jordan WAS 01/22/2003 WAS @ NOH L 38 18 9 21 42.9 0 0 - 0 0 - 0 4 4 3 3 0 2 1 -10
+p386
+aVLarry Hughes WAS 01/22/2003 WAS @ NOH L 33 14 6 11 54.5 2 3 66.7 0 0 - 0 5 5 4 2 0 4 4 -19
+p387
+aVBrendan Haywood WAS 01/22/2003 WAS @ NOH L 22 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 2 1 4 -11
+p388
+aVJerry Stackhouse WAS 01/22/2003 WAS @ NOH L 40 26 10 19 52.6 1 1 100.0 5 5 100.0 1 1 2 9 1 1 1 0 -2
+p389
+aVJuan Dixon WAS 01/22/2003 WAS @ NOH L 8 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 7
+p390
+aVKwame Brown WAS 01/22/2003 WAS @ NOH L 30 8 2 6 33.3 0 0 - 4 6 66.7 0 8 8 0 0 1 4 3 0
+p391
+aVBryon Russell WAS 01/22/2003 WAS @ NOH L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -6
+p392
+aVTyronn Lue WAS 01/22/2003 WAS @ NOH L 19 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 1 2 0 0 2 3
+p393
+aVCharles Oakley WAS 01/22/2003 WAS @ NOH L 23 4 2 3 66.7 0 0 - 0 0 - 2 2 4 3 1 0 3 3 -11
+p394
+aVEtan Thomas WAS 01/20/2003 WAS vs. DEN W 25 10 3 4 75.0 0 0 - 4 4 100.0 1 7 8 0 1 3 2 3 8
+p395
+aVMichael Jordan WAS 01/20/2003 WAS vs. DEN W 42 25 11 22 50.0 0 2 0.0 3 4 75.0 1 4 5 6 1 1 3 3 15
+p396
+aVBrendan Haywood WAS 01/20/2003 WAS vs. DEN W 23 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 0 1 3 1 3 2
+p397
+aVBobby Simmons WAS 01/20/2003 WAS vs. DEN W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p398
+aVJuan Dixon WAS 01/20/2003 WAS vs. DEN W 18 4 1 7 14.3 0 3 0.0 2 2 100.0 0 3 3 1 1 0 1 1 -3
+p399
+aVKwame Brown WAS 01/20/2003 WAS vs. DEN W 19 0 0 3 0.0 0 0 - 0 0 - 2 3 5 1 0 0 1 0 16
+p400
+aVLarry Hughes WAS 01/20/2003 WAS vs. DEN W 38 20 8 15 53.3 0 1 0.0 4 6 66.7 3 2 5 2 1 0 2 3 15
+p401
+aVBryon Russell WAS 01/20/2003 WAS vs. DEN W 26 10 3 4 75.0 1 2 50.0 3 5 60.0 1 5 6 2 2 0 2 3 8
+p402
+aVTyronn Lue WAS 01/20/2003 WAS vs. DEN W 22 10 4 7 57.1 1 2 50.0 1 1 100.0 0 1 1 4 0 0 0 1 12
+p403
+aVChristian Laettner WAS 01/20/2003 WAS vs. DEN W 26 4 1 5 20.0 0 0 - 2 3 66.7 0 3 3 3 1 2 2 3 2
+p404
+aVLarry Hughes WAS 01/18/2003 WAS vs. PHI L 26 4 2 5 40.0 0 0 - 0 0 - 1 3 4 5 0 1 5 3 -9
+p405
+aVMichael Jordan WAS 01/18/2003 WAS vs. PHI L 42 25 10 25 40.0 0 3 0.0 5 6 83.3 2 6 8 7 5 1 2 4 -14
+p406
+aVKwame Brown WAS 01/18/2003 WAS vs. PHI L 28 7 3 9 33.3 0 0 - 1 4 25.0 4 3 7 2 0 3 1 2 8
+p407
+aVTyronn Lue WAS 01/18/2003 WAS vs. PHI L 30 6 3 9 33.3 0 0 - 0 2 0.0 2 2 4 3 0 0 3 3 -1
+p408
+aVChristian Laettner WAS 01/18/2003 WAS vs. PHI L 19 3 1 6 16.7 0 0 - 1 2 50.0 0 4 4 1 0 1 3 1 -15
+p409
+aVJuan Dixon WAS 01/18/2003 WAS vs. PHI L 29 19 7 13 53.8 3 6 50.0 2 2 100.0 1 5 6 3 0 0 3 4 7
+p410
+aVBrendan Haywood WAS 01/18/2003 WAS vs. PHI L 38 10 4 5 80.0 0 0 - 2 4 50.0 3 1 4 0 1 4 0 3 -4
+p411
+aVBryon Russell WAS 01/18/2003 WAS vs. PHI L 16 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 3 0 0 0 2 -4
+p412
+aVCharles Oakley WAS 01/18/2003 WAS vs. PHI L 12 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -5
+p413
+aVBobby Simmons WAS 01/18/2003 WAS vs. PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p414
+aVMichael Jordan WAS 01/16/2003 WAS vs. ORL W 39 32 12 25 48.0 0 1 0.0 8 10 80.0 1 5 6 8 2 0 1 3 11
+p415
+aVKwame Brown WAS 01/16/2003 WAS vs. ORL W 19 9 4 9 44.4 0 0 - 1 1 100.0 3 3 6 1 0 0 1 1 -1
+p416
+aVTyronn Lue WAS 01/16/2003 WAS vs. ORL W 25 3 1 4 25.0 0 3 0.0 1 1 100.0 2 0 2 2 0 0 0 2 13
+p417
+aVLarry Hughes WAS 01/16/2003 WAS vs. ORL W 41 22 8 18 44.4 1 3 33.3 5 5 100.0 3 4 7 8 1 0 2 2 17
+p418
+aVBryon Russell WAS 01/16/2003 WAS vs. ORL W 36 4 2 4 50.0 0 1 0.0 0 0 - 1 4 5 3 4 0 1 5 11
+p419
+aVJuan Dixon WAS 01/16/2003 WAS vs. ORL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -5
+p420
+aVBrendan Haywood WAS 01/16/2003 WAS vs. ORL W 30 16 6 9 66.7 0 0 - 4 6 66.7 4 2 6 0 0 1 1 5 18
+p421
+aVBobby Simmons WAS 01/16/2003 WAS vs. ORL W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p422
+aVChristian Laettner WAS 01/16/2003 WAS vs. ORL W 34 15 7 9 77.8 1 2 50.0 0 0 - 3 4 7 3 1 0 0 2 20
+p423
+aVEtan Thomas WAS 01/16/2003 WAS vs. ORL W 9 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 1 0 0 1 1 -13
+p424
+aVMichael Jordan WAS 01/14/2003 WAS vs. TOR L 41 22 8 23 34.8 0 0 - 6 6 100.0 2 3 5 4 3 2 2 1 -3
+p425
+aVTyronn Lue WAS 01/14/2003 WAS vs. TOR L 20 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 2 0 0 2 0 -2
+p426
+aVBryon Russell WAS 01/14/2003 WAS vs. TOR L 20 4 1 5 20.0 0 1 0.0 2 2 100.0 1 4 5 0 1 0 1 3 -7
+p427
+aVChristian Laettner WAS 01/14/2003 WAS vs. TOR L 29 7 2 4 50.0 1 1 100.0 2 2 100.0 1 5 6 1 0 0 0 2 -6
+p428
+aVJuan Dixon WAS 01/14/2003 WAS vs. TOR L 24 4 2 10 20.0 0 2 0.0 0 0 - 0 0 0 1 2 0 1 0 -2
+p429
+aVBrendan Haywood WAS 01/14/2003 WAS vs. TOR L 30 10 4 6 66.7 0 0 - 2 4 50.0 3 2 5 0 0 3 0 4 -10
+p430
+aVEtan Thomas WAS 01/14/2003 WAS vs. TOR L 14 6 2 4 50.0 0 0 - 2 3 66.7 5 2 7 0 0 1 1 1 3
+p431
+aVLarry Hughes WAS 01/14/2003 WAS vs. TOR L 39 12 6 17 35.3 0 0 - 0 1 0.0 1 8 9 2 2 0 2 0 -13
+p432
+aVKwame Brown WAS 01/14/2003 WAS vs. TOR L 19 2 1 7 14.3 0 0 - 0 0 - 3 3 6 2 0 2 2 2 -2
+p433
+aVCharles Oakley WAS 01/14/2003 WAS vs. TOR L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p434
+aVJerry Stackhouse WAS 01/11/2003 WAS @ NYK W 43 22 6 15 40.0 2 5 40.0 8 8 100.0 0 4 4 3 2 0 1 2 7
+p435
+aVCharles Oakley WAS 01/11/2003 WAS @ NYK W 14 6 1 2 50.0 0 0 - 4 4 100.0 1 5 6 0 1 0 0 1 10
+p436
+aVEtan Thomas WAS 01/11/2003 WAS @ NYK W 11 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 4
+p437
+aVMichael Jordan WAS 01/11/2003 WAS @ NYK W 41 23 8 25 32.0 0 0 - 7 9 77.8 5 5 10 3 1 0 2 2 9
+p438
+aVTyronn Lue WAS 01/11/2003 WAS @ NYK W 22 5 2 6 33.3 1 1 100.0 0 0 - 1 0 1 1 1 0 0 1 4
+p439
+aVChristian Laettner WAS 01/11/2003 WAS @ NYK W 27 8 2 7 28.6 0 0 - 4 4 100.0 3 8 11 3 2 1 2 2 -5
+p440
+aVKwame Brown WAS 01/11/2003 WAS @ NYK W 23 6 3 5 60.0 0 0 - 0 1 0.0 2 1 3 1 0 3 2 3 6
+p441
+aVBrendan Haywood WAS 01/11/2003 WAS @ NYK W 21 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 0 0 1 1 -9
+p442
+aVLarry Hughes WAS 01/11/2003 WAS @ NYK W 39 11 4 14 28.6 0 0 - 3 4 75.0 2 1 3 2 2 1 2 3 -1
+p443
+aVMichael Jordan WAS 01/10/2003 WAS vs. GSW L 41 14 7 17 41.2 0 0 - 0 0 - 0 2 2 5 0 1 0 1 -8
+p444
+aVLarry Hughes WAS 01/10/2003 WAS vs. GSW L 42 16 7 19 36.8 1 1 100.0 1 2 50.0 3 8 11 7 0 1 3 3 -1
+p445
+aVCharles Oakley WAS 01/10/2003 WAS vs. GSW L 14 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 1 4 -6
+p446
+aVKwame Brown WAS 01/10/2003 WAS vs. GSW L 17 6 1 1 100.0 0 0 - 4 6 66.7 1 3 4 0 0 1 1 2 0
+p447
+aVTyronn Lue WAS 01/10/2003 WAS vs. GSW L 10 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -6
+p448
+aVBrendan Haywood WAS 01/10/2003 WAS vs. GSW L 25 9 4 6 66.7 0 0 - 1 1 100.0 3 2 5 0 0 2 0 1 1
+p449
+aVChristian Laettner WAS 01/10/2003 WAS vs. GSW L 32 10 4 7 57.1 0 1 0.0 2 2 100.0 1 4 5 3 2 3 2 2 -6
+p450
+aVBryon Russell WAS 01/10/2003 WAS vs. GSW L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 1
+p451
+aVEtan Thomas WAS 01/10/2003 WAS vs. GSW L 8 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 0 2 3 1 1
+p452
+aVJerry Stackhouse WAS 01/10/2003 WAS vs. GSW L 43 26 9 17 52.9 1 1 100.0 7 7 100.0 0 1 1 3 1 0 2 3 -1
+p453
+aVChristian Laettner WAS 01/08/2003 WAS vs. CHI W 33 18 7 9 77.8 0 1 0.0 4 5 80.0 5 6 11 4 3 0 3 5 12
+p454
+aVCharles Oakley WAS 01/08/2003 WAS vs. CHI W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p455
+aVLarry Hughes WAS 01/08/2003 WAS vs. CHI W 41 22 9 19 47.4 0 1 0.0 4 4 100.0 3 5 8 0 2 1 2 1 9
+p456
+aVEtan Thomas WAS 01/08/2003 WAS vs. CHI W 13 11 4 7 57.1 0 0 - 3 5 60.0 4 0 4 0 0 0 2 1 -11
+p457
+aVJerry Stackhouse WAS 01/08/2003 WAS vs. CHI W 40 10 2 14 14.3 0 5 0.0 6 8 75.0 0 5 5 4 0 0 2 1 7
+p458
+aVBryon Russell WAS 01/08/2003 WAS vs. CHI W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 1
+p459
+aVBrendan Haywood WAS 01/08/2003 WAS vs. CHI W 19 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 0 0 2 0 4 18
+p460
+aVMichael Jordan WAS 01/08/2003 WAS vs. CHI W 33 14 5 13 38.5 0 0 - 4 5 80.0 0 10 10 7 1 0 2 4 7
+p461
+aVKwame Brown WAS 01/08/2003 WAS vs. CHI W 23 16 7 11 63.6 0 0 - 2 4 50.0 2 6 8 0 1 1 1 1 -15
+p462
+aVTyronn Lue WAS 01/08/2003 WAS vs. CHI W 19 4 1 4 25.0 1 2 50.0 1 1 100.0 0 0 0 1 0 0 2 2 -18
+p463
+aVBrendan Haywood WAS 01/06/2003 WAS @ BOS W 17 7 3 6 50.0 0 0 - 1 5 20.0 1 1 2 0 0 0 0 3 -2
+p464
+aVChristian Laettner WAS 01/06/2003 WAS @ BOS W 39 6 3 7 42.9 0 0 - 0 0 - 2 4 6 4 1 1 0 1 6
+p465
+aVKwame Brown WAS 01/06/2003 WAS @ BOS W 19 7 2 2 100.0 0 0 - 3 5 60.0 0 4 4 2 0 0 1 3 -1
+p466
+aVLarry Hughes WAS 01/06/2003 WAS @ BOS W 43 16 5 13 38.5 0 2 0.0 6 9 66.7 1 3 4 5 2 1 2 0 7
+p467
+aVBryon Russell WAS 01/06/2003 WAS @ BOS W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 0
+p468
+aVJerry Stackhouse WAS 01/06/2003 WAS @ BOS W 43 37 11 21 52.4 4 8 50.0 11 11 100.0 1 2 3 2 2 0 2 3 13
+p469
+aVMichael Jordan WAS 01/06/2003 WAS @ BOS W 40 19 7 18 38.9 0 2 0.0 5 5 100.0 0 11 11 7 4 0 4 2 6
+p470
+aVBobby Simmons WAS 01/06/2003 WAS @ BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p471
+aVEtan Thomas WAS 01/06/2003 WAS @ BOS W 13 1 0 0 - 0 0 - 1 4 25.0 1 2 3 0 0 1 0 0 -4
+p472
+aVCharles Oakley WAS 01/06/2003 WAS @ BOS W 7 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 4 11
+p473
+aVTyronn Lue WAS 01/06/2003 WAS @ BOS W 16 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 2 1 0 1 1 -11
+p474
+aVKwame Brown WAS 01/04/2003 WAS vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 2 0 0
+p475
+aVBryon Russell WAS 01/04/2003 WAS vs. IND W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 2 -5
+p476
+aVTyronn Lue WAS 01/04/2003 WAS vs. IND W 17 0 0 8 0.0 0 5 0.0 0 0 - 0 4 4 2 1 0 3 1 -17
+p477
+aVEtan Thomas WAS 01/04/2003 WAS vs. IND W 7 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -7
+p478
+aVJerry Stackhouse WAS 01/04/2003 WAS vs. IND W 50 20 7 15 46.7 1 4 25.0 5 6 83.3 1 1 2 4 1 1 2 2 3
+p479
+aVCharles Oakley WAS 01/04/2003 WAS vs. IND W 30 4 2 3 66.7 0 0 - 0 0 - 1 5 6 4 0 0 0 3 8
+p480
+aVBrendan Haywood WAS 01/04/2003 WAS vs. IND W 37 6 2 5 40.0 0 0 - 2 4 50.0 3 4 7 1 1 1 1 6 4
+p481
+aVBobby Simmons WAS 01/04/2003 WAS vs. IND W 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p482
+aVLarry Hughes WAS 01/04/2003 WAS vs. IND W 50 23 9 19 47.4 2 5 40.0 3 4 75.0 3 4 7 6 3 2 3 3 10
+p483
+aVChristian Laettner WAS 01/04/2003 WAS vs. IND W 31 6 2 8 25.0 0 1 0.0 2 2 100.0 1 6 7 4 2 2 3 5 6
+p484
+aVMichael Jordan WAS 01/04/2003 WAS vs. IND W 53 41 14 26 53.8 3 4 75.0 10 12 83.3 3 9 12 4 3 0 2 2 15
+p485
+aVBrendan Haywood WAS 01/02/2003 WAS @ CHI W 18 8 2 6 33.3 0 0 - 4 6 66.7 3 4 7 0 0 0 0 4 18
+p486
+aVBryon Russell WAS 01/02/2003 WAS @ CHI W 16 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 2 2 1
+p487
+aVMichael Jordan WAS 01/02/2003 WAS @ CHI W 30 10 4 11 36.4 0 2 0.0 2 2 100.0 1 4 5 5 2 0 3 1 32
+p488
+aVBobby Simmons WAS 01/02/2003 WAS @ CHI W 3 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 0 0 3
+p489
+aVBrian Cardinal WAS 01/02/2003 WAS @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p490
+aVKwame Brown WAS 01/02/2003 WAS @ CHI W 27 20 8 15 53.3 0 0 - 4 4 100.0 2 10 12 0 1 2 3 4 8
+p491
+aVLarry Hughes WAS 01/02/2003 WAS @ CHI W 33 11 4 9 44.4 0 1 0.0 3 4 75.0 2 4 6 6 1 0 2 4 13
+p492
+aVChristian Laettner WAS 01/02/2003 WAS @ CHI W 28 7 1 1 100.0 0 0 - 5 6 83.3 0 5 5 4 2 2 2 2 21
+p493
+aVEtan Thomas WAS 01/02/2003 WAS @ CHI W 22 5 2 6 33.3 0 0 - 1 1 100.0 3 7 10 0 0 1 1 3 3
+p494
+aVJerry Stackhouse WAS 01/02/2003 WAS @ CHI W 37 28 12 18 66.7 1 1 100.0 3 3 100.0 0 3 3 4 0 1 3 1 24
+p495
+aVTyronn Lue WAS 01/02/2003 WAS @ CHI W 23 14 5 6 83.3 0 1 0.0 4 4 100.0 0 2 2 2 0 0 2 0 -1
+p496
+aVChristian Laettner WAS 12/31/2002 WAS vs. SAS W 27 5 2 3 66.7 0 0 - 1 2 50.0 0 5 5 3 2 0 3 4 3
+p497
+aVBryon Russell WAS 12/31/2002 WAS vs. SAS W 14 6 1 2 50.0 1 2 50.0 3 4 75.0 0 2 2 0 0 0 0 0 -5
+p498
+aVKwame Brown WAS 12/31/2002 WAS vs. SAS W 24 6 1 4 25.0 0 0 - 4 4 100.0 0 3 3 1 1 3 3 5 1
+p499
+aVBrendan Haywood WAS 12/31/2002 WAS vs. SAS W 18 8 4 6 66.7 0 0 - 0 0 - 3 2 5 0 0 0 1 4 1
+p500
+aVJerry Stackhouse WAS 12/31/2002 WAS vs. SAS W 42 25 7 17 41.2 0 2 0.0 11 13 84.6 0 3 3 7 3 0 3 1 5
+p501
+aVTyronn Lue WAS 12/31/2002 WAS vs. SAS W 23 6 2 6 33.3 0 2 0.0 2 2 100.0 1 1 2 3 0 0 1 2 -7
+p502
+aVEtan Thomas WAS 12/31/2002 WAS vs. SAS W 25 10 4 6 66.7 0 0 - 2 2 100.0 2 5 7 0 0 1 0 4 12
+p503
+aVLarry Hughes WAS 12/31/2002 WAS vs. SAS W 32 22 7 13 53.8 0 1 0.0 8 11 72.7 2 2 4 1 1 1 0 1 -4
+p504
+aVMichael Jordan WAS 12/31/2002 WAS vs. SAS W 35 17 7 15 46.7 1 1 100.0 2 2 100.0 1 6 7 3 1 0 2 1 4
+p505
+aVLarry Hughes WAS 12/30/2002 WAS @ ORL L 43 15 5 10 50.0 1 2 50.0 4 4 100.0 0 3 3 1 0 0 6 3 -16
+p506
+aVJerry Stackhouse WAS 12/30/2002 WAS @ ORL L 39 18 4 15 26.7 0 3 0.0 10 12 83.3 1 2 3 4 1 0 4 5 -20
+p507
+aVBryon Russell WAS 12/30/2002 WAS @ ORL L 28 8 2 5 40.0 2 3 66.7 2 2 100.0 1 2 3 1 0 0 1 4 -15
+p508
+aVMichael Jordan WAS 12/30/2002 WAS @ ORL L 39 21 8 17 47.1 0 0 - 5 5 100.0 0 8 8 9 3 0 4 4 -9
+p509
+aVKwame Brown WAS 12/30/2002 WAS @ ORL L 20 8 3 5 60.0 0 0 - 2 4 50.0 1 1 2 0 0 2 1 3 -9
+p510
+aVBrendan Haywood WAS 12/30/2002 WAS @ ORL L 15 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 1 0 1 1 2 -5
+p511
+aVTyronn Lue WAS 12/30/2002 WAS @ ORL L 22 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 4 0 0 1 3 -8
+p512
+aVBobby Simmons WAS 12/30/2002 WAS @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p513
+aVBrian Cardinal WAS 12/30/2002 WAS @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p514
+aVChristian Laettner WAS 12/30/2002 WAS @ ORL L 30 11 4 6 66.7 0 0 - 3 4 75.0 2 5 7 2 0 0 0 3 -3
+p515
+aVJerry Stackhouse WAS 12/28/2002 WAS vs. ATL W 42 29 8 21 38.1 2 7 28.6 11 14 78.6 2 3 5 6 2 1 1 0 7
+p516
+aVEtan Thomas WAS 12/28/2002 WAS vs. ATL W 12 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -4
+p517
+aVLarry Hughes WAS 12/28/2002 WAS vs. ATL W 24 11 5 12 41.7 1 3 33.3 0 0 - 0 6 6 2 1 0 3 1 2
+p518
+aVBryon Russell WAS 12/28/2002 WAS vs. ATL W 19 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 1 0 0 0 2 8
+p519
+aVMichael Jordan WAS 12/28/2002 WAS vs. ATL W 35 10 4 10 40.0 0 1 0.0 2 2 100.0 1 3 4 5 1 1 0 2 4
+p520
+aVChristian Laettner WAS 12/28/2002 WAS vs. ATL W 31 8 2 8 25.0 0 0 - 4 4 100.0 2 4 6 1 0 1 2 3 2
+p521
+aVBrendan Haywood WAS 12/28/2002 WAS vs. ATL W 30 5 1 3 33.3 0 0 - 3 3 100.0 1 4 5 0 1 3 1 4 16
+p522
+aVTyronn Lue WAS 12/28/2002 WAS vs. ATL W 25 13 5 8 62.5 3 4 75.0 0 0 - 0 1 1 3 0 0 0 0 6
+p523
+aVKwame Brown WAS 12/28/2002 WAS vs. ATL W 23 5 2 4 50.0 0 0 - 1 4 25.0 1 6 7 2 1 2 1 2 -1
+p524
+aVJerry Stackhouse WAS 12/26/2002 WAS vs. DET L 37 24 6 14 42.9 1 4 25.0 11 12 91.7 1 2 3 1 1 0 3 3 -1
+p525
+aVChristian Laettner WAS 12/26/2002 WAS vs. DET L 38 8 3 10 30.0 0 0 - 2 4 50.0 0 6 6 3 1 0 4 3 -3
+p526
+aVBryon Russell WAS 12/26/2002 WAS vs. DET L 15 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 2 2
+p527
+aVKwame Brown WAS 12/26/2002 WAS vs. DET L 23 10 4 8 50.0 0 0 - 2 4 50.0 4 5 9 0 0 2 0 2 4
+p528
+aVTyronn Lue WAS 12/26/2002 WAS vs. DET L 16 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 0 2 -6
+p529
+aVCharles Oakley WAS 12/26/2002 WAS vs. DET L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -3
+p530
+aVLarry Hughes WAS 12/26/2002 WAS vs. DET L 36 9 4 9 44.4 1 3 33.3 0 0 - 3 9 12 3 1 0 1 2 -6
+p531
+aVBrendan Haywood WAS 12/26/2002 WAS vs. DET L 26 7 1 1 100.0 0 0 - 5 6 83.3 2 3 5 0 0 1 0 3 -4
+p532
+aVMichael Jordan WAS 12/26/2002 WAS vs. DET L 41 17 7 17 41.2 0 1 0.0 3 4 75.0 1 3 4 1 0 2 4 4 -8
+p533
+aVTyronn Lue WAS 12/23/2002 WAS @ DAL L 31 5 2 10 20.0 1 4 25.0 0 0 - 0 3 3 2 0 0 0 4 -8
+p534
+aVEtan Thomas WAS 12/23/2002 WAS @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p535
+aVChristian Laettner WAS 12/23/2002 WAS @ DAL L 39 8 4 5 80.0 0 0 - 0 0 - 1 5 6 2 3 0 1 5 -10
+p536
+aVKwame Brown WAS 12/23/2002 WAS @ DAL L 19 5 1 7 14.3 0 0 - 3 4 75.0 2 1 3 0 2 0 2 2 -7
+p537
+aVMichael Jordan WAS 12/23/2002 WAS @ DAL L 36 13 5 15 33.3 1 1 100.0 2 2 100.0 0 7 7 8 0 2 3 3 -2
+p538
+aVBrendan Haywood WAS 12/23/2002 WAS @ DAL L 12 3 1 1 100.0 0 0 - 1 4 25.0 2 2 4 0 0 0 1 4 3
+p539
+aVJerry Stackhouse WAS 12/23/2002 WAS @ DAL L 43 28 8 22 36.4 2 6 33.3 10 11 90.9 1 9 10 4 1 0 2 1 -6
+p540
+aVBryon Russell WAS 12/23/2002 WAS @ DAL L 23 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 2 -4
+p541
+aVLarry Hughes WAS 12/23/2002 WAS @ DAL L 35 24 8 11 72.7 3 3 100.0 5 6 83.3 0 6 6 1 0 1 2 5 5
+p542
+aVCharles Oakley WAS 12/21/2002 WAS @ SAS L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 2
+p543
+aVTyronn Lue WAS 12/21/2002 WAS @ SAS L 21 9 3 9 33.3 0 3 0.0 3 4 75.0 0 1 1 5 1 0 0 2 7
+p544
+aVChristian Laettner WAS 12/21/2002 WAS @ SAS L 40 16 8 17 47.1 0 0 - 0 0 - 2 1 3 4 3 0 2 5 -10
+p545
+aVMichael Jordan WAS 12/21/2002 WAS @ SAS L 41 16 8 20 40.0 0 0 - 0 0 - 0 5 5 3 0 1 2 1 -15
+p546
+aVKwame Brown WAS 12/21/2002 WAS @ SAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -1
+p547
+aVBrendan Haywood WAS 12/21/2002 WAS @ SAS L 31 10 3 4 75.0 0 0 - 4 4 100.0 2 3 5 3 0 4 0 5 -19
+p548
+aVBryon Russell WAS 12/21/2002 WAS @ SAS L 20 6 2 3 66.7 2 3 66.7 0 0 - 1 3 4 1 0 0 0 4 8
+p549
+aVLarry Hughes WAS 12/21/2002 WAS @ SAS L 35 5 2 7 28.6 1 1 100.0 0 0 - 0 5 5 3 0 0 0 1 -16
+p550
+aVJerry Stackhouse WAS 12/21/2002 WAS @ SAS L 38 19 7 14 50.0 0 4 0.0 5 6 83.3 1 2 3 0 0 0 3 0 -11
+p551
+aVTyronn Lue WAS 12/18/2002 WAS vs. MEM W 26 7 2 6 33.3 1 5 20.0 2 2 100.0 0 1 1 6 1 0 2 0 12
+p552
+aVLarry Hughes WAS 12/18/2002 WAS vs. MEM W 26 14 6 8 75.0 0 0 - 2 2 100.0 1 1 2 6 1 0 2 2 10
+p553
+aVJerry Stackhouse WAS 12/18/2002 WAS vs. MEM W 37 25 10 17 58.8 1 3 33.3 4 4 100.0 0 2 2 7 0 1 3 3 4
+p554
+aVKwame Brown WAS 12/18/2002 WAS vs. MEM W 28 14 6 9 66.7 0 0 - 2 3 66.7 0 10 10 3 0 1 1 1 19
+p555
+aVMichael Jordan WAS 12/18/2002 WAS vs. MEM W 35 33 14 23 60.9 2 3 66.7 3 3 100.0 0 5 5 2 3 0 3 0 4
+p556
+aVJared Jeffries WAS 12/18/2002 WAS vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p557
+aVBrian Cardinal WAS 12/18/2002 WAS vs. MEM W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p558
+aVChristian Laettner WAS 12/18/2002 WAS vs. MEM W 27 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 5 2 2 1 4 -2
+p559
+aVBrendan Haywood WAS 12/18/2002 WAS vs. MEM W 41 11 5 8 62.5 0 0 - 1 1 100.0 5 7 12 2 0 2 1 5 19
+p560
+aVBryon Russell WAS 12/18/2002 WAS vs. MEM W 16 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 0 1 0 0 1 20
+p561
+aVChristian Laettner WAS 12/17/2002 WAS @ ATL W 35 7 3 6 50.0 0 0 - 1 2 50.0 1 8 9 5 1 0 0 5 6
+p562
+aVMichael Jordan WAS 12/17/2002 WAS @ ATL W 38 30 12 18 66.7 0 0 - 6 6 100.0 0 3 3 2 0 0 1 3 3
+p563
+aVBryon Russell WAS 12/17/2002 WAS @ ATL W 16 4 1 4 25.0 1 3 33.3 1 2 50.0 0 0 0 0 0 0 0 3 9
+p564
+aVCharles Oakley WAS 12/17/2002 WAS @ ATL W 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 2
+p565
+aVTyronn Lue WAS 12/17/2002 WAS @ ATL W 19 10 4 7 57.1 2 2 100.0 0 0 - 0 0 0 3 0 0 0 0 12
+p566
+aVLarry Hughes WAS 12/17/2002 WAS @ ATL W 33 20 5 11 45.5 0 1 0.0 10 12 83.3 1 7 8 4 3 0 3 3 -5
+p567
+aVBrendan Haywood WAS 12/17/2002 WAS @ ATL W 35 11 4 6 66.7 0 0 - 3 6 50.0 3 5 8 0 1 3 1 4 11
+p568
+aVKwame Brown WAS 12/17/2002 WAS @ ATL W 16 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 1 1 3 -1
+p569
+aVJerry Stackhouse WAS 12/17/2002 WAS @ ATL W 40 23 9 17 52.9 3 5 60.0 2 4 50.0 1 3 4 5 1 1 5 3 13
+p570
+aVJerry Stackhouse WAS 12/15/2002 WAS @ TOR W 38 28 10 22 45.5 2 3 66.7 6 6 100.0 2 2 4 5 1 0 3 2 16
+p571
+aVLarry Hughes WAS 12/15/2002 WAS @ TOR W 34 14 7 13 53.8 0 1 0.0 0 0 - 0 5 5 3 3 0 3 1 16
+p572
+aVCharles Oakley WAS 12/15/2002 WAS @ TOR W 8 3 0 1 0.0 0 0 - 3 4 75.0 1 1 2 0 0 0 0 1 -1
+p573
+aVBryon Russell WAS 12/15/2002 WAS @ TOR W 18 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p574
+aVEtan Thomas WAS 12/15/2002 WAS @ TOR W 7 3 1 4 25.0 0 0 - 1 2 50.0 3 2 5 0 0 0 0 0 -3
+p575
+aVKwame Brown WAS 12/15/2002 WAS @ TOR W 23 14 7 9 77.8 0 0 - 0 0 - 1 6 7 0 1 1 1 3 19
+p576
+aVChristian Laettner WAS 12/15/2002 WAS @ TOR W 33 8 4 7 57.1 0 0 - 0 2 0.0 3 4 7 7 1 0 2 1 9
+p577
+aVMichael Jordan WAS 12/15/2002 WAS @ TOR W 40 2 1 9 11.1 0 0 - 0 0 - 2 6 8 9 2 1 0 2 11
+p578
+aVBrendan Haywood WAS 12/15/2002 WAS @ TOR W 24 10 3 4 75.0 0 0 - 4 8 50.0 2 3 5 1 1 1 0 1 2
+p579
+aVTyronn Lue WAS 12/15/2002 WAS @ TOR W 14 7 3 7 42.9 0 1 0.0 1 1 100.0 1 0 1 1 0 0 0 3 -3
+p580
+aVEtan Thomas WAS 12/13/2002 WAS @ NJN L 13 0 0 2 0.0 0 0 - 0 2 0.0 3 2 5 0 0 0 3 2 4
+p581
+aVBryon Russell WAS 12/13/2002 WAS @ NJN L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p582
+aVCharles Oakley WAS 12/13/2002 WAS @ NJN L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -6
+p583
+aVJared Jeffries WAS 12/13/2002 WAS @ NJN L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p584
+aVBrendan Haywood WAS 12/13/2002 WAS @ NJN L 17 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 2 1 3 0
+p585
+aVKwame Brown WAS 12/13/2002 WAS @ NJN L 28 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 1 2 1 1 5 -15
+p586
+aVMichael Jordan WAS 12/13/2002 WAS @ NJN L 40 12 5 20 25.0 0 0 - 2 2 100.0 0 5 5 4 2 0 4 2 -14
+p587
+aVChristian Laettner WAS 12/13/2002 WAS @ NJN L 26 2 0 4 0.0 0 0 - 2 2 100.0 0 7 7 3 2 1 2 5 -7
+p588
+aVTyronn Lue WAS 12/13/2002 WAS @ NJN L 24 9 4 6 66.7 1 2 50.0 0 0 - 0 1 1 2 0 0 2 1 -12
+p589
+aVJerry Stackhouse WAS 12/13/2002 WAS @ NJN L 30 14 5 18 27.8 1 3 33.3 3 3 100.0 1 0 1 2 1 0 2 1 -5
+p590
+aVLarry Hughes WAS 12/13/2002 WAS @ NJN L 40 19 9 14 64.3 0 2 0.0 1 2 50.0 1 9 10 2 1 0 2 3 -6
+p591
+aVChristian Laettner WAS 12/10/2002 WAS vs. POR L 25 10 5 10 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 1 -17
+p592
+aVCharles Oakley WAS 12/10/2002 WAS vs. POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -6
+p593
+aVBrendan Haywood WAS 12/10/2002 WAS vs. POR L 26 4 0 1 0.0 0 0 - 4 6 66.7 1 3 4 1 0 2 2 3 -15
+p594
+aVBryon Russell WAS 12/10/2002 WAS vs. POR L 13 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 2 1 0 1 1 -11
+p595
+aVMichael Jordan WAS 12/10/2002 WAS vs. POR L 29 14 6 10 60.0 0 0 - 2 2 100.0 2 3 5 1 1 1 1 0 -15
+p596
+aVLarry Hughes WAS 12/10/2002 WAS vs. POR L 44 17 8 17 47.1 0 2 0.0 1 2 50.0 2 9 11 6 3 0 4 4 -15
+p597
+aVTyronn Lue WAS 12/10/2002 WAS vs. POR L 18 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 5 -2
+p598
+aVJared Jeffries WAS 12/10/2002 WAS vs. POR L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 0 2
+p599
+aVKwame Brown WAS 12/10/2002 WAS vs. POR L 21 11 4 7 57.1 0 0 - 3 3 100.0 2 4 6 1 0 2 1 1 3
+p600
+aVEtan Thomas WAS 12/10/2002 WAS vs. POR L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -5
+p601
+aVJerry Stackhouse WAS 12/10/2002 WAS vs. POR L 35 14 7 17 41.2 0 3 0.0 0 0 - 0 2 2 5 0 1 3 1 -18
+p602
+aVBrian Cardinal WAS 12/10/2002 WAS vs. POR L 6 2 1 4 25.0 0 1 0.0 0 0 - 3 0 3 1 0 0 1 0 4
+p603
+aVCharles Oakley WAS 12/07/2002 WAS vs. NYK W 20 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 6 1 0 2 4 3
+p604
+aVMichael Jordan WAS 12/07/2002 WAS vs. NYK W 37 20 9 18 50.0 0 1 0.0 2 4 50.0 0 9 9 2 3 0 2 3 7
+p605
+aVTyronn Lue WAS 12/07/2002 WAS vs. NYK W 16 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 2
+p606
+aVBryon Russell WAS 12/07/2002 WAS vs. NYK W 22 4 1 8 12.5 0 1 0.0 2 2 100.0 1 5 6 0 0 0 1 0 3
+p607
+aVLarry Hughes WAS 12/07/2002 WAS vs. NYK W 32 22 8 10 80.0 2 2 100.0 4 4 100.0 0 10 10 6 1 0 2 1 1
+p608
+aVBrendan Haywood WAS 12/07/2002 WAS vs. NYK W 22 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 1 1 1 2 1 13
+p609
+aVJerry Stackhouse WAS 12/07/2002 WAS vs. NYK W 37 22 7 15 46.7 1 1 100.0 7 7 100.0 2 1 3 7 1 1 4 2 -8
+p610
+aVChristian Laettner WAS 12/07/2002 WAS vs. NYK W 38 15 5 7 71.4 0 0 - 5 5 100.0 1 5 6 3 1 0 2 2 -3
+p611
+aVEtan Thomas WAS 12/07/2002 WAS vs. NYK W 16 3 1 2 50.0 0 0 - 1 2 50.0 3 2 5 0 0 0 1 3 -3
+p612
+aVJerry Stackhouse WAS 12/06/2002 WAS @ ORL L 41 23 7 17 41.2 2 6 33.3 7 9 77.8 1 3 4 8 1 1 4 2 -1
+p613
+aVKwame Brown WAS 12/06/2002 WAS @ ORL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -8
+p614
+aVBryon Russell WAS 12/06/2002 WAS @ ORL L 25 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 1 -6
+p615
+aVChristian Laettner WAS 12/06/2002 WAS @ ORL L 41 11 4 11 36.4 0 0 - 3 3 100.0 0 7 7 2 1 0 1 3 -3
+p616
+aVMichael Jordan WAS 12/06/2002 WAS @ ORL L 39 16 7 21 33.3 0 0 - 2 2 100.0 1 5 6 0 0 0 3 3 -12
+p617
+aVBrendan Haywood WAS 12/06/2002 WAS @ ORL L 22 7 3 6 50.0 0 0 - 1 1 100.0 5 3 8 0 0 0 1 2 -3
+p618
+aVJared Jeffries WAS 12/06/2002 WAS @ ORL L 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -2
+p619
+aVLarry Hughes WAS 12/06/2002 WAS @ ORL L 46 15 6 18 33.3 1 2 50.0 2 3 66.7 4 7 11 2 2 0 0 4 -9
+p620
+aVTyronn Lue WAS 12/06/2002 WAS @ ORL L 16 2 0 3 0.0 0 0 - 2 3 66.7 0 2 2 0 0 0 3 0 -6
+p621
+aVCharles Oakley WAS 12/04/2002 WAS @ DET W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 0 1 1
+p622
+aVKwame Brown WAS 12/04/2002 WAS @ DET W 12 7 3 6 50.0 0 0 - 1 1 100.0 1 2 3 0 0 0 1 1 -8
+p623
+aVJerry Stackhouse WAS 12/04/2002 WAS @ DET W 37 21 7 20 35.0 1 2 50.0 6 7 85.7 1 3 4 4 0 0 2 3 13
+p624
+aVBrendan Haywood WAS 12/04/2002 WAS @ DET W 40 11 3 7 42.9 0 0 - 5 9 55.6 3 3 6 0 0 1 2 4 9
+p625
+aVEtan Thomas WAS 12/04/2002 WAS @ DET W 8 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -6
+p626
+aVBryon Russell WAS 12/04/2002 WAS @ DET W 16 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 2 -9
+p627
+aVChristian Laettner WAS 12/04/2002 WAS @ DET W 30 6 3 3 100.0 0 0 - 0 0 - 0 6 6 2 2 0 0 4 12
+p628
+aVTyronn Lue WAS 12/04/2002 WAS @ DET W 16 2 1 4 25.0 0 0 - 0 0 - 1 0 1 4 0 0 1 1 -12
+p629
+aVMichael Jordan WAS 12/04/2002 WAS @ DET W 39 21 5 14 35.7 0 0 - 11 16 68.8 2 7 9 4 6 2 3 2 16
+p630
+aVLarry Hughes WAS 12/04/2002 WAS @ DET W 36 17 8 11 72.7 1 2 50.0 0 1 0.0 2 8 10 2 1 0 2 0 9
+p631
+aVBrendan Haywood WAS 12/03/2002 WAS vs. MIL W 18 5 1 2 50.0 0 0 - 3 4 75.0 2 3 5 1 0 4 2 4 8
+p632
+aVBryon Russell WAS 12/03/2002 WAS vs. MIL W 27 16 7 12 58.3 2 4 50.0 0 0 - 2 4 6 3 1 0 1 1 19
+p633
+aVTyronn Lue WAS 12/03/2002 WAS vs. MIL W 24 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 4 0 0 0 1 17
+p634
+aVJerry Stackhouse WAS 12/03/2002 WAS vs. MIL W 35 12 4 16 25.0 0 3 0.0 4 5 80.0 1 6 7 4 0 1 4 1 5
+p635
+aVChristian Laettner WAS 12/03/2002 WAS vs. MIL W 21 9 4 5 80.0 0 0 - 1 3 33.3 1 3 4 1 1 0 0 4 10
+p636
+aVEtan Thomas WAS 12/03/2002 WAS vs. MIL W 23 14 5 7 71.4 0 0 - 4 8 50.0 6 1 7 0 1 1 2 1 4
+p637
+aVCharles Oakley WAS 12/03/2002 WAS vs. MIL W 19 0 0 4 0.0 0 0 - 0 0 - 1 3 4 3 0 1 0 2 6
+p638
+aVJared Jeffries WAS 12/03/2002 WAS vs. MIL W 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 5
+p639
+aVLarry Hughes WAS 12/03/2002 WAS vs. MIL W 28 13 5 9 55.6 0 0 - 3 3 100.0 1 7 8 4 0 0 2 3 11
+p640
+aVMichael Jordan WAS 12/03/2002 WAS vs. MIL W 30 25 9 20 45.0 0 0 - 7 8 87.5 0 7 7 4 0 0 1 1 21
+p641
+aVBrian Cardinal WAS 12/03/2002 WAS vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p642
+aVKwame Brown WAS 12/03/2002 WAS vs. MIL W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 0 1 1 1 2 16
+p643
+aVBryon Russell WAS 11/30/2002 WAS vs. PHI L 16 3 1 5 20.0 0 4 0.0 1 2 50.0 3 1 4 3 0 0 2 1 2
+p644
+aVJared Jeffries WAS 11/30/2002 WAS vs. PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p645
+aVKwame Brown WAS 11/30/2002 WAS vs. PHI L 21 2 1 6 16.7 0 0 - 0 0 - 1 4 5 1 1 0 1 3 -9
+p646
+aVJuan Dixon WAS 11/30/2002 WAS vs. PHI L 29 18 6 13 46.2 1 3 33.3 5 5 100.0 0 2 2 1 0 0 1 2 1
+p647
+aVBrendan Haywood WAS 11/30/2002 WAS vs. PHI L 37 9 2 2 100.0 0 0 - 5 8 62.5 4 1 5 1 0 3 0 2 -4
+p648
+aVCharles Oakley WAS 11/30/2002 WAS vs. PHI L 20 0 0 0 - 0 0 - 0 0 - 3 5 8 3 1 0 1 5 4
+p649
+aVMichael Jordan WAS 11/30/2002 WAS vs. PHI L 37 16 8 20 40.0 0 2 0.0 0 0 - 1 3 4 2 0 1 2 3 -1
+p650
+aVEtan Thomas WAS 11/30/2002 WAS vs. PHI L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p651
+aVTyronn Lue WAS 11/30/2002 WAS vs. PHI L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -6
+p652
+aVLarry Hughes WAS 11/30/2002 WAS vs. PHI L 22 6 3 3 100.0 0 0 - 0 0 - 1 3 4 1 2 0 2 3 5
+p653
+aVJerry Stackhouse WAS 11/30/2002 WAS vs. PHI L 36 38 15 25 60.0 4 6 66.7 4 7 57.1 4 1 5 0 1 0 4 2 9
+p654
+aVChristian Laettner WAS 11/29/2002 WAS @ IND L 9 7 2 5 40.0 0 1 0.0 3 3 100.0 2 2 4 0 0 0 1 1 1
+p655
+aVBrendan Haywood WAS 11/29/2002 WAS @ IND L 21 4 2 5 40.0 0 0 - 0 2 0.0 4 6 10 0 0 4 0 3 -11
+p656
+aVKwame Brown WAS 11/29/2002 WAS @ IND L 27 7 3 11 27.3 0 0 - 1 2 50.0 2 3 5 1 1 2 0 3 -10
+p657
+aVTyronn Lue WAS 11/29/2002 WAS @ IND L 30 8 3 7 42.9 0 2 0.0 2 4 50.0 0 2 2 4 0 0 2 3 -16
+p658
+aVBryon Russell WAS 11/29/2002 WAS @ IND L 31 7 3 6 50.0 0 1 0.0 1 1 100.0 1 3 4 2 1 0 1 3 -22
+p659
+aVMichael Jordan WAS 11/29/2002 WAS @ IND L 30 14 6 15 40.0 0 1 0.0 2 2 100.0 0 4 4 1 1 0 1 2 -15
+p660
+aVJared Jeffries WAS 11/29/2002 WAS @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p661
+aVJuan Dixon WAS 11/29/2002 WAS @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 2 -5
+p662
+aVLarry Hughes WAS 11/29/2002 WAS @ IND L 26 8 3 6 50.0 1 1 100.0 1 2 50.0 0 1 1 4 2 3 2 4 7
+p663
+aVEtan Thomas WAS 11/29/2002 WAS @ IND L 19 5 2 4 50.0 0 0 - 1 4 25.0 4 7 11 0 0 0 3 4 6
+p664
+aVJerry Stackhouse WAS 11/29/2002 WAS @ IND L 38 24 7 15 46.7 0 3 0.0 10 11 90.9 1 2 3 6 1 0 6 4 -10
+p665
+aVJared Jeffries WAS 11/26/2002 WAS vs. IND L 24 6 3 5 60.0 0 0 - 0 0 - 4 3 7 2 2 1 1 0 7
+p666
+aVBryon Russell WAS 11/26/2002 WAS vs. IND L 20 6 1 4 25.0 0 2 0.0 4 4 100.0 0 2 2 0 0 0 1 2 -9
+p667
+aVJuan Dixon WAS 11/26/2002 WAS vs. IND L 24 15 6 13 46.2 1 4 25.0 2 3 66.7 2 3 5 4 6 0 1 4 12
+p668
+aVCharles Oakley WAS 11/26/2002 WAS vs. IND L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p669
+aVKwame Brown WAS 11/26/2002 WAS vs. IND L 16 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 3 1 -12
+p670
+aVChristian Laettner WAS 11/26/2002 WAS vs. IND L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p671
+aVBrendan Haywood WAS 11/26/2002 WAS vs. IND L 24 11 4 5 80.0 0 0 - 3 3 100.0 2 3 5 1 0 3 0 1 -11
+p672
+aVEtan Thomas WAS 11/26/2002 WAS vs. IND L 19 6 1 5 20.0 0 0 - 4 4 100.0 1 4 5 0 1 2 0 1 10
+p673
+aVTyronn Lue WAS 11/26/2002 WAS vs. IND L 27 4 1 9 11.1 0 3 0.0 2 2 100.0 1 4 5 5 2 0 3 4 -8
+p674
+aVJerry Stackhouse WAS 11/26/2002 WAS vs. IND L 39 6 2 16 12.5 0 3 0.0 2 2 100.0 0 4 4 3 0 1 3 2 -8
+p675
+aVMichael Jordan WAS 11/26/2002 WAS vs. IND L 34 28 10 21 47.6 3 3 100.0 5 8 62.5 0 1 1 2 3 0 1 2 2
+p676
+aVJared Jeffries WAS 11/23/2002 WAS @ MEM L 19 7 3 6 50.0 0 0 - 1 2 50.0 4 2 6 0 1 0 1 2 -6
+p677
+aVBrendan Haywood WAS 11/23/2002 WAS @ MEM L 14 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -3
+p678
+aVBryon Russell WAS 11/23/2002 WAS @ MEM L 17 3 1 4 25.0 1 3 33.3 0 0 - 2 1 3 0 3 0 0 1 -7
+p679
+aVLarry Hughes WAS 11/23/2002 WAS @ MEM L 20 2 1 7 14.3 0 0 - 0 0 - 1 1 2 1 0 0 1 1 3
+p680
+aVTyronn Lue WAS 11/23/2002 WAS @ MEM L 30 11 5 10 50.0 1 2 50.0 0 0 - 0 1 1 5 1 0 0 2 -4
+p681
+aVJerry Stackhouse WAS 11/23/2002 WAS @ MEM L 43 9 4 19 21.1 0 8 0.0 1 2 50.0 0 4 4 6 0 0 3 3 -11
+p682
+aVMichael Jordan WAS 11/23/2002 WAS @ MEM L 32 20 9 18 50.0 0 0 - 2 2 100.0 2 4 6 5 2 0 3 1 -6
+p683
+aVCharles Oakley WAS 11/23/2002 WAS @ MEM L 27 4 1 3 33.3 0 0 - 2 2 100.0 5 5 10 0 0 0 2 4 -3
+p684
+aVKwame Brown WAS 11/23/2002 WAS @ MEM L 36 14 6 12 50.0 0 0 - 2 2 100.0 2 6 8 2 2 1 4 6 -14
+p685
+aVJuan Dixon WAS 11/23/2002 WAS @ MEM L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p686
+aVKwame Brown WAS 11/22/2002 WAS @ HOU L 27 2 1 5 20.0 0 0 - 0 0 - 1 4 5 1 0 1 1 0 -15
+p687
+aVJerry Stackhouse WAS 11/22/2002 WAS @ HOU L 38 26 9 20 45.0 5 7 71.4 3 4 75.0 1 4 5 3 0 1 0 0 -4
+p688
+aVTyronn Lue WAS 11/22/2002 WAS @ HOU L 26 14 5 10 50.0 3 4 75.0 1 1 100.0 1 2 3 6 1 0 0 3 5
+p689
+aVJared Jeffries WAS 11/22/2002 WAS @ HOU L 27 9 4 8 50.0 0 1 0.0 1 1 100.0 2 2 4 3 0 1 1 1 -13
+p690
+aVLarry Hughes WAS 11/22/2002 WAS @ HOU L 40 22 11 19 57.9 0 1 0.0 0 0 - 0 6 6 3 1 0 1 5 -5
+p691
+aVBryon Russell WAS 11/22/2002 WAS @ HOU L 25 3 1 4 25.0 1 4 25.0 0 0 - 1 2 3 2 2 1 0 1 1
+p692
+aVBrendan Haywood WAS 11/22/2002 WAS @ HOU L 21 2 0 1 0.0 0 0 - 2 2 100.0 4 4 8 0 1 1 2 5 8
+p693
+aVEtan Thomas WAS 11/22/2002 WAS @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p694
+aVMichael Jordan WAS 11/22/2002 WAS @ HOU L 29 8 4 15 26.7 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -6
+p695
+aVChristian Laettner WAS 11/22/2002 WAS @ HOU L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 0
+p696
+aVCharles Oakley WAS 11/17/2002 WAS @ PHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p697
+aVChristian Laettner WAS 11/17/2002 WAS @ PHI L 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 2 -5
+p698
+aVJared Jeffries WAS 11/17/2002 WAS @ PHI L 21 1 0 2 0.0 0 0 - 1 2 50.0 1 4 5 1 0 0 3 4 5
+p699
+aVBrendan Haywood WAS 11/17/2002 WAS @ PHI L 31 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 0 0 2 1 3 -1
+p700
+aVLarry Hughes WAS 11/17/2002 WAS @ PHI L 24 7 1 8 12.5 0 0 - 5 6 83.3 0 1 1 1 1 2 3 2 -6
+p701
+aVJuan Dixon WAS 11/17/2002 WAS @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 1
+p702
+aVTyronn Lue WAS 11/17/2002 WAS @ PHI L 26 8 2 5 40.0 2 4 50.0 2 2 100.0 0 0 0 5 0 0 0 4 -16
+p703
+aVKwame Brown WAS 11/17/2002 WAS @ PHI L 28 8 2 2 100.0 0 0 - 4 4 100.0 0 4 4 0 0 2 2 3 -15
+p704
+aVMichael Jordan WAS 11/17/2002 WAS @ PHI L 28 19 9 16 56.3 1 2 50.0 0 0 - 0 2 2 3 1 0 5 1 -13
+p705
+aVBryon Russell WAS 11/17/2002 WAS @ PHI L 28 3 1 6 16.7 1 3 33.3 0 0 - 2 3 5 1 1 1 3 4 -15
+p706
+aVJerry Stackhouse WAS 11/17/2002 WAS @ PHI L 40 29 12 19 63.2 2 3 66.7 3 6 50.0 0 3 3 5 2 0 5 3 -9
+p707
+aVMichael Jordan WAS 11/16/2002 WAS vs. MIA W 19 8 4 5 80.0 0 0 - 0 0 - 0 5 5 2 2 0 1 3 16
+p708
+aVBrendan Haywood WAS 11/16/2002 WAS vs. MIA W 22 8 3 4 75.0 0 0 - 2 2 100.0 2 4 6 0 0 0 1 1 15
+p709
+aVJerry Stackhouse WAS 11/16/2002 WAS vs. MIA W 34 16 3 10 30.0 1 1 100.0 9 10 90.0 0 3 3 10 0 0 1 1 26
+p710
+aVEtan Thomas WAS 11/16/2002 WAS vs. MIA W 4 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 0 0 1 1 1 2
+p711
+aVKwame Brown WAS 11/16/2002 WAS vs. MIA W 38 15 7 13 53.8 0 0 - 1 3 33.3 4 7 11 1 3 2 2 2 27
+p712
+aVTyronn Lue WAS 11/16/2002 WAS vs. MIA W 26 9 4 5 80.0 1 2 50.0 0 0 - 0 2 2 4 1 0 0 3 25
+p713
+aVBryon Russell WAS 11/16/2002 WAS vs. MIA W 29 12 4 10 40.0 2 6 33.3 2 2 100.0 0 4 4 1 1 0 2 0 9
+p714
+aVJared Jeffries WAS 11/16/2002 WAS vs. MIA W 16 7 2 3 66.7 0 0 - 3 6 50.0 2 1 3 1 1 0 4 5 11
+p715
+aVJuan Dixon WAS 11/16/2002 WAS vs. MIA W 11 4 2 7 28.6 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 2
+p716
+aVCharles Oakley WAS 11/16/2002 WAS vs. MIA W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 0
+p717
+aVLarry Hughes WAS 11/16/2002 WAS vs. MIA W 30 14 5 8 62.5 0 0 - 4 4 100.0 0 7 7 1 1 0 2 1 17
+p718
+aVBrendan Haywood WAS 11/14/2002 WAS vs. UTA W 26 10 4 5 80.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 2 2
+p719
+aVChristian Laettner WAS 11/14/2002 WAS vs. UTA W 18 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 1 0 1 4 -3
+p720
+aVCharles Oakley WAS 11/14/2002 WAS vs. UTA W 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 8
+p721
+aVMichael Jordan WAS 11/14/2002 WAS vs. UTA W 34 19 7 17 41.2 0 1 0.0 5 5 100.0 0 6 6 1 1 0 3 4 11
+p722
+aVJerry Stackhouse WAS 11/14/2002 WAS vs. UTA W 40 25 5 15 33.3 1 3 33.3 14 14 100.0 1 6 7 6 0 2 5 3 -7
+p723
+aVLarry Hughes WAS 11/14/2002 WAS vs. UTA W 19 9 4 9 44.4 0 0 - 1 2 50.0 0 1 1 1 1 0 3 1 -7
+p724
+aVKwame Brown WAS 11/14/2002 WAS vs. UTA W 21 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 0 3 2 7
+p725
+aVBryon Russell WAS 11/14/2002 WAS vs. UTA W 32 16 4 8 50.0 4 7 57.1 4 4 100.0 1 0 1 2 1 0 0 2 8
+p726
+aVJared Jeffries WAS 11/14/2002 WAS vs. UTA W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 2 1 0 2 -14
+p727
+aVTyronn Lue WAS 11/14/2002 WAS vs. UTA W 29 18 6 9 66.7 0 1 0.0 6 8 75.0 1 1 2 5 0 0 0 3 10
+p728
+aVJared Jeffries WAS 11/12/2002 WAS vs. SEA L 32 14 5 8 62.5 0 0 - 4 5 80.0 3 5 8 1 0 0 1 1 -3
+p729
+aVBryon Russell WAS 11/12/2002 WAS vs. SEA L 40 10 4 7 57.1 2 5 40.0 0 0 - 1 7 8 5 1 0 2 5 -1
+p730
+aVKwame Brown WAS 11/12/2002 WAS vs. SEA L 21 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 1 0 1 1 2 -10
+p731
+aVBrendan Haywood WAS 11/12/2002 WAS vs. SEA L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -9
+p732
+aVChristian Laettner WAS 11/12/2002 WAS vs. SEA L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -6
+p733
+aVMichael Jordan WAS 11/12/2002 WAS vs. SEA L 31 27 13 22 59.1 0 0 - 1 2 50.0 1 5 6 4 1 1 4 1 8
+p734
+aVTyronn Lue WAS 11/12/2002 WAS vs. SEA L 15 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 1 4
+p735
+aVLarry Hughes WAS 11/12/2002 WAS vs. SEA L 42 19 9 14 64.3 0 0 - 1 2 50.0 2 2 4 5 4 0 2 3 -4
+p736
+aVJerry Stackhouse WAS 11/12/2002 WAS vs. SEA L 44 13 6 19 31.6 0 3 0.0 1 3 33.3 0 1 1 8 0 1 2 2 -9
+p737
+aVKwame Brown WAS 11/09/2002 WAS @ CLE W 27 10 3 9 33.3 0 0 - 4 4 100.0 0 6 6 0 0 1 3 3 4
+p738
+aVJared Jeffries WAS 11/09/2002 WAS @ CLE W 23 9 3 7 42.9 0 1 0.0 3 4 75.0 2 4 6 0 1 1 1 3 10
+p739
+aVJuan Dixon WAS 11/09/2002 WAS @ CLE W 9 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 1
+p740
+aVJerry Stackhouse WAS 11/09/2002 WAS @ CLE W 39 27 8 15 53.3 3 4 75.0 8 9 88.9 1 8 9 1 2 0 2 1 11
+p741
+aVEtan Thomas WAS 11/09/2002 WAS @ CLE W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 1
+p742
+aVLarry Hughes WAS 11/09/2002 WAS @ CLE W 22 7 3 10 30.0 0 0 - 1 2 50.0 1 1 2 3 3 1 0 2 8
+p743
+aVTyronn Lue WAS 11/09/2002 WAS @ CLE W 26 12 6 13 46.2 0 2 0.0 0 0 - 1 1 2 5 2 0 3 2 6
+p744
+aVBryon Russell WAS 11/09/2002 WAS @ CLE W 24 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 1 0 1 2 2 16
+p745
+aVMichael Jordan WAS 11/09/2002 WAS @ CLE W 32 12 5 11 45.5 0 1 0.0 2 2 100.0 2 6 8 6 0 2 0 3 10
+p746
+aVBrendan Haywood WAS 11/09/2002 WAS @ CLE W 31 4 1 6 16.7 0 0 - 2 6 33.3 3 5 8 0 2 2 2 4 3
+p747
+aVKwame Brown WAS 11/08/2002 WAS vs. LAL W 31 13 5 9 55.6 0 0 - 3 4 75.0 1 5 6 1 0 1 2 4 -9
+p748
+aVJerry Stackhouse WAS 11/08/2002 WAS vs. LAL W 38 29 9 23 39.1 0 1 0.0 11 11 100.0 1 5 6 1 0 0 3 1 7
+p749
+aVChristian Laettner WAS 11/08/2002 WAS vs. LAL W 26 5 2 3 66.7 0 0 - 1 1 100.0 0 4 4 0 0 0 1 2 8
+p750
+aVTyronn Lue WAS 11/08/2002 WAS vs. LAL W 18 4 1 4 25.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 3 -8
+p751
+aVLarry Hughes WAS 11/08/2002 WAS vs. LAL W 41 13 5 11 45.5 0 0 - 3 4 75.0 0 5 5 6 1 0 0 2 5
+p752
+aVBryon Russell WAS 11/08/2002 WAS vs. LAL W 28 2 1 3 33.3 0 0 - 0 0 - 1 6 7 3 2 0 0 4 -11
+p753
+aVMichael Jordan WAS 11/08/2002 WAS vs. LAL W 30 25 9 14 64.3 0 0 - 7 12 58.3 0 3 3 3 2 0 2 4 -7
+p754
+aVBrendan Haywood WAS 11/08/2002 WAS vs. LAL W 29 9 4 12 33.3 0 0 - 1 2 50.0 8 2 10 0 0 1 0 2 20
+p755
+aVTyronn Lue WAS 11/06/2002 WAS vs. CLE W 24 9 2 4 50.0 0 1 0.0 5 5 100.0 0 4 4 6 0 0 1 5 1
+p756
+aVJuan Dixon WAS 11/06/2002 WAS vs. CLE W 4 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 2 0 -9
+p757
+aVJerry Stackhouse WAS 11/06/2002 WAS vs. CLE W 37 35 9 16 56.3 2 4 50.0 15 17 88.2 1 4 5 3 3 1 4 0 13
+p758
+aVBryon Russell WAS 11/06/2002 WAS vs. CLE W 25 5 2 3 66.7 1 2 50.0 0 0 - 1 2 3 2 1 0 2 2 13
+p759
+aVJared Jeffries WAS 11/06/2002 WAS vs. CLE W 17 5 2 6 33.3 0 0 - 1 2 50.0 2 2 4 0 0 0 2 1 -3
+p760
+aVKwame Brown WAS 11/06/2002 WAS vs. CLE W 34 14 4 7 57.1 0 0 - 6 8 75.0 1 7 8 0 3 1 2 3 4
+p761
+aVBrendan Haywood WAS 11/06/2002 WAS vs. CLE W 26 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 1 2 4 3 15
+p762
+aVEtan Thomas WAS 11/06/2002 WAS vs. CLE W 14 8 3 3 100.0 0 0 - 2 4 50.0 1 2 3 0 0 0 1 1 -5
+p763
+aVLarry Hughes WAS 11/06/2002 WAS vs. CLE W 35 13 6 15 40.0 0 1 0.0 1 2 50.0 0 4 4 5 1 0 2 3 3
+p764
+aVMichael Jordan WAS 11/06/2002 WAS vs. CLE W 24 6 2 6 33.3 0 1 0.0 2 3 66.7 1 2 3 4 3 0 1 3 3
+p765
+aVLarry Hughes WAS 11/05/2002 WAS @ MIN L 25 8 4 10 40.0 0 0 - 0 0 - 4 2 6 2 1 0 3 2 -5
+p766
+aVTyronn Lue WAS 11/05/2002 WAS @ MIN L 25 13 5 9 55.6 1 2 50.0 2 2 100.0 0 2 2 4 1 0 0 2 -1
+p767
+aVEtan Thomas WAS 11/05/2002 WAS @ MIN L 15 7 1 5 20.0 0 0 - 5 6 83.3 1 4 5 0 0 1 1 2 1
+p768
+aVChristian Laettner WAS 11/05/2002 WAS @ MIN L 28 6 2 7 28.6 0 1 0.0 2 2 100.0 1 5 6 2 1 1 0 4 3
+p769
+aVJerry Stackhouse WAS 11/05/2002 WAS @ MIN L 42 25 8 17 47.1 1 4 25.0 8 8 100.0 0 3 3 7 0 1 3 0 -3
+p770
+aVMichael Jordan WAS 11/05/2002 WAS @ MIN L 29 10 5 14 35.7 0 0 - 0 0 - 0 2 2 1 1 0 1 2 2
+p771
+aVKwame Brown WAS 11/05/2002 WAS @ MIN L 31 7 2 10 20.0 0 0 - 3 4 75.0 3 4 7 3 0 1 2 2 -12
+p772
+aVBrendan Haywood WAS 11/05/2002 WAS @ MIN L 17 2 1 2 50.0 0 0 - 0 0 - 1 7 8 1 0 1 2 2 -4
+p773
+aVBryon Russell WAS 11/05/2002 WAS @ MIN L 26 8 2 7 28.6 0 1 0.0 4 5 80.0 1 2 3 0 3 0 0 2 -2
+p774
+aVJared Jeffries WAS 11/05/2002 WAS @ MIN L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 1 1
+p775
+aVLarry Hughes WAS 11/02/2002 WAS vs. NJN L 25 6 3 8 37.5 0 0 - 0 0 - 1 1 2 1 0 0 2 3 -12
+p776
+aVKwame Brown WAS 11/02/2002 WAS vs. NJN L 34 4 2 10 20.0 0 1 0.0 0 0 - 6 8 14 1 3 2 2 2 -12
+p777
+aVBrendan Haywood WAS 11/02/2002 WAS vs. NJN L 17 2 1 3 33.3 0 0 - 0 2 0.0 3 3 6 0 0 0 0 2 -13
+p778
+aVBryon Russell WAS 11/02/2002 WAS vs. NJN L 31 8 4 11 36.4 0 4 0.0 0 0 - 0 2 2 1 2 0 2 4 -12
+p779
+aVJared Jeffries WAS 11/02/2002 WAS vs. NJN L 12 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 2 3 2
+p780
+aVTyronn Lue WAS 11/02/2002 WAS vs. NJN L 20 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 1 0 0 1 5 9
+p781
+aVChristian Laettner WAS 11/02/2002 WAS vs. NJN L 31 13 5 9 55.6 0 1 0.0 3 4 75.0 1 4 5 3 1 0 1 3 7
+p782
+aVMichael Jordan WAS 11/02/2002 WAS vs. NJN L 27 21 7 16 43.8 1 2 50.0 6 8 75.0 0 2 2 2 2 0 0 2 1
+p783
+aVJerry Stackhouse WAS 11/02/2002 WAS vs. NJN L 43 23 8 20 40.0 1 4 25.0 6 7 85.7 1 3 4 5 3 0 4 1 -10
+p784
+aVChristian Laettner WAS 10/31/2002 WAS vs. BOS W 16 6 3 3 100.0 0 0 - 0 1 0.0 1 4 5 4 2 0 0 2 15
+p785
+aVJuan Dixon WAS 10/31/2002 WAS vs. BOS W 7 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 0 17
+p786
+aVJerry Stackhouse WAS 10/31/2002 WAS vs. BOS W 39 22 6 14 42.9 0 2 0.0 10 10 100.0 2 5 7 10 1 0 3 1 21
+p787
+aVKwame Brown WAS 10/31/2002 WAS vs. BOS W 32 20 8 12 66.7 0 0 - 4 5 80.0 3 3 6 1 1 6 3 3 13
+p788
+aVMichael Jordan WAS 10/31/2002 WAS vs. BOS W 21 21 8 15 53.3 0 0 - 5 5 100.0 0 4 4 5 2 1 0 1 29
+p789
+aVBrendan Haywood WAS 10/31/2002 WAS vs. BOS W 22 5 2 5 40.0 0 0 - 1 1 100.0 2 9 11 0 0 0 1 4 13
+p790
+aVTyronn Lue WAS 10/31/2002 WAS vs. BOS W 35 10 4 8 50.0 2 5 40.0 0 0 - 0 5 5 5 0 0 1 2 49
+p791
+aVEtan Thomas WAS 10/31/2002 WAS vs. BOS W 4 7 2 2 100.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 1 13
+p792
+aVLarry Hughes WAS 10/31/2002 WAS vs. BOS W 16 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 4 4 0
+p793
+aVBryon Russell WAS 10/31/2002 WAS vs. BOS W 20 5 2 9 22.2 0 3 0.0 1 1 100.0 4 3 7 0 2 0 1 0 5
+p794
+aVJared Jeffries WAS 10/31/2002 WAS vs. BOS W 29 12 5 7 71.4 2 2 100.0 0 1 0.0 1 4 5 1 0 0 1 1 50
+p795
+aVLarry Hughes WAS 10/30/2002 WAS @ TOR L 39 12 5 14 35.7 0 0 - 2 2 100.0 1 4 5 4 1 0 2 4 -10
+p796
+aVCharles Oakley WAS 10/30/2002 WAS @ TOR L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -13
+p797
+aVJerry Stackhouse WAS 10/30/2002 WAS @ TOR L 43 19 6 17 35.3 1 3 33.3 6 6 100.0 0 5 5 3 1 0 1 1 3
+p798
+aVEtan Thomas WAS 10/30/2002 WAS @ TOR L 8 2 0 2 0.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 3 -3
+p799
+aVBryon Russell WAS 10/30/2002 WAS @ TOR L 19 2 1 5 20.0 0 1 0.0 0 2 0.0 1 0 1 3 0 0 1 2 -4
+p800
+aVMichael Jordan WAS 10/30/2002 WAS @ TOR L 24 8 4 14 28.6 0 0 - 0 2 0.0 0 3 3 1 3 0 2 3 4
+p801
+aVChristian Laettner WAS 10/30/2002 WAS @ TOR L 20 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 1 0 1 3 -5
+p802
+aVTyronn Lue WAS 10/30/2002 WAS @ TOR L 18 7 2 9 22.2 1 3 33.3 2 2 100.0 2 1 3 1 0 0 0 0 -9
+p803
+aVKwame Brown WAS 10/30/2002 WAS @ TOR L 39 12 4 12 33.3 0 0 - 4 5 80.0 3 15 18 2 2 5 2 4 0
+p804
+aVBrendan Haywood WAS 10/30/2002 WAS @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p805
+aVJared Jeffries WAS 10/30/2002 WAS @ TOR L 16 4 1 2 50.0 0 0 - 2 4 50.0 4 0 4 0 0 1 3 1 1
+p806
+a.

@@ -1,0 +1,100 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVNicolas Batum POR 04/29/2015 POR @ MEM L 43 6 2 12 16.7 1 7 14.3 1 2 50.0 1 9 10 7 0 1 2 1 -5
+p2
+aVCJ McCollum POR 04/29/2015 POR @ MEM L 39 33 12 20 60.0 7 11 63.6 2 4 50.0 0 3 3 0 0 0 2 2 7
+p3
+aVRobin Lopez POR 04/29/2015 POR @ MEM L 18 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 0 0 3 0 4 -13
+p4
+aVLaMarcus Aldridge POR 04/29/2015 POR @ MEM L 40 14 5 18 27.8 0 0 - 4 5 80.0 2 7 9 1 0 2 1 6 -15
+p5
+aVChris Kaman POR 04/29/2015 POR @ MEM L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 1
+p6
+aVTim Frazier POR 04/29/2015 POR @ MEM L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p7
+aVArron Afflalo POR 04/29/2015 POR @ MEM L 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -14
+p8
+aVMeyers Leonard POR 04/29/2015 POR @ MEM L 32 9 3 6 50.0 3 5 60.0 0 0 - 1 3 4 1 0 0 0 6 13
+p9
+aVSteve Blake POR 04/29/2015 POR @ MEM L 6 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 2
+p10
+aVDamian Lillard POR 04/29/2015 POR @ MEM L 42 22 8 19 42.1 1 8 12.5 5 6 83.3 1 5 6 3 1 1 6 2 -7
+p11
+aVCJ McCollum POR 04/27/2015 POR vs. MEM W 35 18 8 12 66.7 2 2 100.0 0 0 - 1 4 5 2 2 0 3 2 23
+p12
+aVNicolas Batum POR 04/27/2015 POR vs. MEM W 42 12 3 13 23.1 2 8 25.0 4 6 66.7 0 13 13 4 1 0 3 2 10
+p13
+aVRobin Lopez POR 04/27/2015 POR vs. MEM W 21 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 -17
+p14
+aVArron Afflalo POR 04/27/2015 POR vs. MEM W 19 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -19
+p15
+aVLaMarcus Aldridge POR 04/27/2015 POR vs. MEM W 40 18 6 22 27.3 0 3 0.0 6 6 100.0 8 4 12 1 0 0 0 1 8
+p16
+aVDamian Lillard POR 04/27/2015 POR vs. MEM W 39 32 12 23 52.2 1 5 20.0 7 7 100.0 0 2 2 7 1 0 2 3 9
+p17
+aVMeyers Leonard POR 04/27/2015 POR vs. MEM W 35 13 5 6 83.3 3 3 100.0 0 0 - 3 10 13 2 1 0 0 4 23
+p18
+aVSteve Blake POR 04/27/2015 POR vs. MEM W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 1 -2
+p19
+aVRobin Lopez POR 04/25/2015 POR vs. MEM L 27 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 2 5 2
+p20
+aVLaMarcus Aldridge POR 04/25/2015 POR vs. MEM L 45 21 6 18 33.3 0 1 0.0 9 10 90.0 1 6 7 5 0 2 1 3 -10
+p21
+aVChris Kaman POR 04/25/2015 POR vs. MEM L 17 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 0 0 0 2 -1
+p22
+aVMeyers Leonard POR 04/25/2015 POR vs. MEM L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p23
+aVSteve Blake POR 04/25/2015 POR vs. MEM L 9 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 1 0 1 -3
+p24
+aVArron Afflalo POR 04/25/2015 POR vs. MEM L 27 5 2 5 40.0 1 2 50.0 0 1 0.0 0 6 6 1 0 0 2 6 -13
+p25
+aVCJ McCollum POR 04/25/2015 POR vs. MEM L 27 26 8 14 57.1 2 4 50.0 8 9 88.9 0 4 4 0 2 0 0 4 5
+p26
+aVDamian Lillard POR 04/25/2015 POR vs. MEM L 41 22 9 17 52.9 2 7 28.6 2 4 50.0 0 2 2 9 0 1 3 5 -2
+p27
+aVNicolas Batum POR 04/25/2015 POR vs. MEM L 42 27 9 18 50.0 6 12 50.0 3 3 100.0 1 5 6 4 0 0 0 3 -1
+p28
+aVCJ McCollum POR 04/22/2015 POR @ MEM L 29 6 3 13 23.1 0 4 0.0 0 0 - 0 3 3 0 1 0 0 2 -10
+p29
+aVNicolas Batum POR 04/22/2015 POR @ MEM L 42 11 5 15 33.3 1 6 16.7 0 0 - 2 5 7 7 0 0 4 1 -6
+p30
+aVRobin Lopez POR 04/22/2015 POR @ MEM L 31 10 5 6 83.3 0 0 - 0 0 - 4 2 6 1 1 2 2 3 -7
+p31
+aVDamian Lillard POR 04/22/2015 POR @ MEM L 40 18 5 16 31.3 1 5 20.0 7 8 87.5 0 2 2 1 0 1 1 3 -14
+p32
+aVAllen Crabbe POR 04/22/2015 POR @ MEM L 23 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 1 1 0 -8
+p33
+aVLaMarcus Aldridge POR 04/22/2015 POR @ MEM L 42 24 7 20 35.0 1 2 50.0 9 10 90.0 3 11 14 1 2 4 4 3 -12
+p34
+aVMeyers Leonard POR 04/22/2015 POR @ MEM L 18 10 4 5 80.0 2 2 100.0 0 0 - 2 5 7 0 0 0 1 1 -8
+p35
+aVSteve Blake POR 04/22/2015 POR @ MEM L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p36
+aVJoel Freeland POR 04/22/2015 POR @ MEM L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p37
+aVMeyers Leonard POR 04/19/2015 POR @ MEM L 16 7 2 4 50.0 2 3 66.7 1 2 50.0 0 9 9 2 1 2 2 4 9
+p38
+aVChris Kaman POR 04/19/2015 POR @ MEM L 14 7 3 6 50.0 0 0 - 1 1 100.0 3 3 6 2 0 0 2 2 -11
+p39
+aVDamian Lillard POR 04/19/2015 POR @ MEM L 39 14 5 21 23.8 0 6 0.0 4 7 57.1 1 7 8 3 0 0 0 2 -13
+p40
+aVJoel Freeland POR 04/19/2015 POR @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p41
+aVNicolas Batum POR 04/19/2015 POR @ MEM L 38 15 5 12 41.7 3 6 50.0 2 2 100.0 2 5 7 4 0 0 3 4 -23
+p42
+aVAllen Crabbe POR 04/19/2015 POR @ MEM L 15 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 2 0 0 1 -1
+p43
+aVSteve Blake POR 04/19/2015 POR @ MEM L 9 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 4 0 0 1 1 -8
+p44
+aVRobin Lopez POR 04/19/2015 POR @ MEM L 19 2 0 2 0.0 0 0 - 2 2 100.0 3 2 5 1 0 0 1 3 -16
+p45
+aVAlonzo Gee POR 04/19/2015 POR @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p46
+aVLaMarcus Aldridge POR 04/19/2015 POR @ MEM L 42 32 13 34 38.2 2 5 40.0 4 5 80.0 7 7 14 1 0 4 2 3 -12
+p47
+aVTim Frazier POR 04/19/2015 POR @ MEM L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p48
+aVCJ McCollum POR 04/19/2015 POR @ MEM L 37 2 1 8 12.5 0 2 0.0 0 0 - 0 5 5 0 1 1 1 3 -7
+p49
+a.

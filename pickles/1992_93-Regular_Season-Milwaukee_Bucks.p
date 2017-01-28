@@ -1,0 +1,1700 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMoses Malone MIL 04/24/1993 MIL vs. CHH L 5 4 1 2 50.0 0 0 - 2 2 100.0 2 1 3 0 0 1 0 0 -
+p2
+aVAnthony Avent MIL 04/24/1993 MIL vs. CHH L 32 6 3 9 33.3 0 0 - 0 0 - 3 8 11 2 0 0 1 4 -
+p3
+aVDerek Strong MIL 04/24/1993 MIL vs. CHH L 16 6 2 2 100.0 0 0 - 2 4 50.0 2 3 5 1 0 0 1 0 -
+p4
+aVOrlando Woolridge MIL 04/24/1993 MIL vs. CHH L 7 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p5
+aVFred Roberts MIL 04/24/1993 MIL vs. CHH L 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 -
+p6
+aVBlue Edwards MIL 04/24/1993 MIL vs. CHH L 32 11 4 11 36.4 0 0 - 3 3 100.0 3 3 6 0 2 0 2 3 -
+p7
+aVJon Barry MIL 04/24/1993 MIL vs. CHH L 10 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 1 -
+p8
+aVLee Mayberry MIL 04/24/1993 MIL vs. CHH L 13 6 2 3 66.7 0 1 0.0 2 2 100.0 1 1 2 2 0 0 1 1 -
+p9
+aVEric Murdock MIL 04/24/1993 MIL vs. CHH L 35 8 4 11 36.4 0 1 0.0 0 0 - 1 1 2 4 2 0 1 4 -
+p10
+aVTodd Day MIL 04/24/1993 MIL vs. CHH L 29 24 10 23 43.5 0 2 0.0 4 7 57.1 6 1 7 2 0 1 1 2 -
+p11
+aVFrank Brickowski MIL 04/24/1993 MIL vs. CHH L 36 22 9 16 56.3 1 2 50.0 3 3 100.0 1 2 3 9 2 0 1 5 -
+p12
+aVBrad Lohaus MIL 04/24/1993 MIL vs. CHH L 16 7 2 7 28.6 1 2 50.0 2 2 100.0 1 3 4 1 1 0 2 2 -
+p13
+aVJon Barry MIL 04/23/1993 MIL @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p14
+aVMoses Malone MIL 04/23/1993 MIL @ ATL L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p15
+aVBrad Lohaus MIL 04/23/1993 MIL @ ATL L 9 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -
+p16
+aVFrank Brickowski MIL 04/23/1993 MIL @ ATL L 44 22 11 24 45.8 0 2 0.0 0 0 - 2 6 8 7 3 0 1 4 -
+p17
+aVOrlando Woolridge MIL 04/23/1993 MIL @ ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p18
+aVBlue Edwards MIL 04/23/1993 MIL @ ATL L 33 8 3 6 50.0 0 0 - 2 2 100.0 0 7 7 2 1 0 3 2 -
+p19
+aVTodd Day MIL 04/23/1993 MIL @ ATL L 38 16 7 16 43.8 0 2 0.0 2 2 100.0 1 3 4 1 1 0 1 2 -
+p20
+aVFred Roberts MIL 04/23/1993 MIL @ ATL L 19 6 3 5 60.0 0 0 - 0 0 - 2 1 3 2 1 0 0 1 -
+p21
+aVEric Murdock MIL 04/23/1993 MIL @ ATL L 37 25 9 17 52.9 3 7 42.9 4 5 80.0 0 3 3 11 2 0 2 1 -
+p22
+aVDerek Strong MIL 04/23/1993 MIL @ ATL L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -
+p23
+aVLee Mayberry MIL 04/23/1993 MIL @ ATL L 11 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 3 0 0 1 0 -
+p24
+aVAnthony Avent MIL 04/23/1993 MIL @ ATL L 32 19 9 11 81.8 0 0 - 1 4 25.0 6 3 9 2 0 2 3 5 -
+p25
+aVJon Barry MIL 04/21/1993 MIL @ CHH L 12 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 1 -
+p26
+aVAnthony Avent MIL 04/21/1993 MIL @ CHH L 28 10 5 11 45.5 0 0 - 0 0 - 3 1 4 1 0 2 0 4 -
+p27
+aVTodd Day MIL 04/21/1993 MIL @ CHH L 32 15 4 9 44.4 0 0 - 7 10 70.0 2 1 3 1 1 0 3 3 -
+p28
+aVLee Mayberry MIL 04/21/1993 MIL @ CHH L 19 4 2 5 40.0 0 0 - 0 0 - 1 0 1 3 1 0 2 1 -
+p29
+aVBrad Lohaus MIL 04/21/1993 MIL @ CHH L 10 4 1 4 25.0 0 2 0.0 2 2 100.0 1 0 1 0 1 0 0 0 -
+p30
+aVDerek Strong MIL 04/21/1993 MIL @ CHH L 17 4 1 3 33.3 0 0 - 2 4 50.0 1 4 5 1 2 0 0 2 -
+p31
+aVBlue Edwards MIL 04/21/1993 MIL @ CHH L 41 20 10 18 55.6 0 4 0.0 0 0 - 2 4 6 3 1 0 0 2 -
+p32
+aVFrank Brickowski MIL 04/21/1993 MIL @ CHH L 37 21 10 19 52.6 1 1 100.0 0 1 0.0 1 4 5 4 3 0 1 6 -
+p33
+aVMoses Malone MIL 04/21/1993 MIL @ CHH L 6 6 1 3 33.3 0 0 - 4 4 100.0 1 2 3 1 0 0 1 0 -
+p34
+aVEric Murdock MIL 04/21/1993 MIL @ CHH L 29 14 6 13 46.2 0 0 - 2 2 100.0 2 1 3 7 1 0 2 0 -
+p35
+aVOrlando Woolridge MIL 04/21/1993 MIL @ CHH L 9 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -
+p36
+aVEric Murdock MIL 04/18/1993 MIL vs. IND L 33 19 8 12 66.7 1 2 50.0 2 2 100.0 1 3 4 10 2 0 3 0 -
+p37
+aVAnthony Avent MIL 04/18/1993 MIL vs. IND L 16 8 2 4 50.0 0 0 - 4 6 66.7 1 1 2 0 0 0 1 2 -
+p38
+aVDerek Strong MIL 04/18/1993 MIL vs. IND L 25 9 2 2 100.0 0 0 - 5 7 71.4 4 7 11 0 0 0 0 0 -
+p39
+aVTodd Day MIL 04/18/1993 MIL vs. IND L 31 12 5 13 38.5 2 4 50.0 0 0 - 1 2 3 1 1 3 1 3 -
+p40
+aVBlue Edwards MIL 04/18/1993 MIL vs. IND L 43 19 8 14 57.1 1 2 50.0 2 2 100.0 1 5 6 2 2 1 4 3 -
+p41
+aVFrank Brickowski MIL 04/18/1993 MIL vs. IND L 40 18 8 14 57.1 0 1 0.0 2 4 50.0 0 2 2 5 0 0 1 2 -
+p42
+aVOrlando Woolridge MIL 04/18/1993 MIL vs. IND L 6 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 1 1 -
+p43
+aVLee Mayberry MIL 04/18/1993 MIL vs. IND L 15 2 0 2 0.0 0 2 0.0 2 4 50.0 0 0 0 1 1 0 0 2 -
+p44
+aVBrad Lohaus MIL 04/18/1993 MIL vs. IND L 31 8 3 8 37.5 2 6 33.3 0 0 - 0 6 6 3 0 0 1 4 -
+p45
+aVLee Mayberry MIL 04/16/1993 MIL @ CHI L 12 4 2 3 66.7 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -
+p46
+aVBlue Edwards MIL 04/16/1993 MIL @ CHI L 29 5 1 8 12.5 0 1 0.0 3 3 100.0 0 2 2 1 0 0 2 1 -
+p47
+aVFred Roberts MIL 04/16/1993 MIL @ CHI L 12 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 -
+p48
+aVFrank Brickowski MIL 04/16/1993 MIL @ CHI L 24 12 5 8 62.5 1 1 100.0 1 1 100.0 1 3 4 1 1 0 3 5 -
+p49
+aVEric Murdock MIL 04/16/1993 MIL @ CHI L 36 24 9 18 50.0 0 1 0.0 6 7 85.7 1 4 5 6 0 0 4 3 -
+p50
+aVAnthony Avent MIL 04/16/1993 MIL @ CHI L 24 2 1 5 20.0 0 0 - 0 0 - 4 3 7 1 1 0 4 4 -
+p51
+aVTodd Day MIL 04/16/1993 MIL @ CHI L 34 24 8 14 57.1 1 3 33.3 7 7 100.0 4 2 6 3 1 0 4 4 -
+p52
+aVJon Barry MIL 04/16/1993 MIL @ CHI L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 1 1 -
+p53
+aVBrad Lohaus MIL 04/16/1993 MIL @ CHI L 33 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 0 2 0 4 1 -
+p54
+aVDerek Strong MIL 04/16/1993 MIL @ CHI L 28 20 5 12 41.7 2 4 50.0 8 8 100.0 1 7 8 3 0 0 0 3 -
+p55
+aVEric Murdock MIL 04/15/1993 MIL vs. CLE L 27 10 4 11 36.4 0 1 0.0 2 3 66.7 1 2 3 8 1 0 0 0 -
+p56
+aVFred Roberts MIL 04/15/1993 MIL vs. CLE L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p57
+aVLee Mayberry MIL 04/15/1993 MIL vs. CLE L 21 7 3 7 42.9 0 2 0.0 1 1 100.0 0 3 3 0 0 0 0 2 -
+p58
+aVBrad Lohaus MIL 04/15/1993 MIL vs. CLE L 23 7 3 8 37.5 1 3 33.3 0 0 - 1 2 3 0 1 1 0 1 -
+p59
+aVFrank Brickowski MIL 04/15/1993 MIL vs. CLE L 19 11 5 12 41.7 1 1 100.0 0 1 0.0 0 4 4 0 1 1 4 1 -
+p60
+aVAnthony Avent MIL 04/15/1993 MIL vs. CLE L 28 6 2 8 25.0 0 0 - 2 4 50.0 3 3 6 0 1 0 1 3 -
+p61
+aVDerek Strong MIL 04/15/1993 MIL vs. CLE L 17 13 4 7 57.1 1 1 100.0 4 4 100.0 1 3 4 1 1 0 2 1 -
+p62
+aVBlue Edwards MIL 04/15/1993 MIL vs. CLE L 27 8 4 9 44.4 0 0 - 0 0 - 2 1 3 6 1 0 2 2 -
+p63
+aVOrlando Woolridge MIL 04/15/1993 MIL vs. CLE L 16 9 3 7 42.9 0 0 - 3 4 75.0 0 2 2 0 0 1 0 1 -
+p64
+aVJon Barry MIL 04/15/1993 MIL vs. CLE L 21 8 3 8 37.5 0 1 0.0 2 2 100.0 0 0 0 4 2 0 0 3 -
+p65
+aVTodd Day MIL 04/15/1993 MIL vs. CLE L 23 11 4 13 30.8 0 3 0.0 3 7 42.9 6 2 8 0 2 0 2 4 -
+p66
+aVMoses Malone MIL 04/15/1993 MIL vs. CLE L 12 3 1 4 25.0 0 0 - 1 3 33.3 3 4 7 2 0 2 1 0 -
+p67
+aVJon Barry MIL 04/13/1993 MIL @ ORL L 13 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 2 0 1 2 -
+p68
+aVAnthony Avent MIL 04/13/1993 MIL @ ORL L 30 4 2 11 18.2 0 0 - 0 0 - 1 6 7 2 0 2 0 2 -
+p69
+aVDerek Strong MIL 04/13/1993 MIL @ ORL L 16 1 0 6 0.0 0 0 - 1 2 50.0 3 3 6 0 0 0 2 0 -
+p70
+aVDan Schayes MIL 04/13/1993 MIL @ ORL L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 1 0 0 -
+p71
+aVEric Murdock MIL 04/13/1993 MIL @ ORL L 24 12 5 7 71.4 0 0 - 2 2 100.0 0 1 1 4 2 0 4 2 -
+p72
+aVTodd Day MIL 04/13/1993 MIL @ ORL L 32 16 7 15 46.7 0 1 0.0 2 2 100.0 2 4 6 0 0 0 1 1 -
+p73
+aVOrlando Woolridge MIL 04/13/1993 MIL @ ORL L 19 10 5 10 50.0 0 0 - 0 1 0.0 0 3 3 0 1 1 0 2 -
+p74
+aVLee Mayberry MIL 04/13/1993 MIL @ ORL L 23 6 3 4 75.0 0 0 - 0 0 - 0 1 1 9 3 0 1 3 -
+p75
+aVBlue Edwards MIL 04/13/1993 MIL @ ORL L 31 13 5 10 50.0 1 1 100.0 2 2 100.0 1 1 2 2 0 0 2 2 -
+p76
+aVBrad Lohaus MIL 04/13/1993 MIL @ ORL L 32 12 5 17 29.4 2 6 33.3 0 0 - 3 4 7 2 0 1 0 3 -
+p77
+aVMoses Malone MIL 04/13/1993 MIL @ ORL L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 -
+p78
+aVFred Roberts MIL 04/13/1993 MIL @ ORL L 13 9 2 5 40.0 1 1 100.0 4 6 66.7 4 2 6 3 1 0 0 4 -
+p79
+aVOrlando Woolridge MIL 04/12/1993 MIL @ MIA L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p80
+aVFred Roberts MIL 04/12/1993 MIL @ MIA L 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 2 0 0 1 -
+p81
+aVTodd Day MIL 04/12/1993 MIL @ MIA L 37 20 6 13 46.2 2 5 40.0 6 9 66.7 1 1 2 4 0 0 1 4 -
+p82
+aVBlue Edwards MIL 04/12/1993 MIL @ MIA L 36 15 4 9 44.4 1 3 33.3 6 6 100.0 2 4 6 4 1 1 3 4 -
+p83
+aVEric Murdock MIL 04/12/1993 MIL @ MIA L 25 4 2 9 22.2 0 0 - 0 0 - 1 2 3 7 2 1 2 2 -
+p84
+aVLee Mayberry MIL 04/12/1993 MIL @ MIA L 23 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 5 1 0 2 4 -
+p85
+aVJon Barry MIL 04/12/1993 MIL @ MIA L 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -
+p86
+aVAnthony Avent MIL 04/12/1993 MIL @ MIA L 27 6 3 8 37.5 0 0 - 0 0 - 2 5 7 0 0 1 2 4 -
+p87
+aVBrad Lohaus MIL 04/12/1993 MIL @ MIA L 20 7 3 4 75.0 0 1 0.0 1 1 100.0 0 0 0 1 1 0 2 3 -
+p88
+aVDerek Strong MIL 04/12/1993 MIL @ MIA L 30 15 5 11 45.5 1 1 100.0 4 4 100.0 4 5 9 0 1 0 0 2 -
+p89
+aVDan Schayes MIL 04/12/1993 MIL @ MIA L 3 4 0 2 0.0 0 0 - 4 4 100.0 0 0 0 0 0 0 1 1 -
+p90
+aVMoses Malone MIL 04/12/1993 MIL @ MIA L 18 12 4 9 44.4 0 0 - 4 6 66.7 4 5 9 0 0 0 2 1 -
+p91
+aVDerek Strong MIL 04/10/1993 MIL vs. ORL W 20 3 1 5 20.0 0 0 - 1 2 50.0 3 2 5 1 1 0 1 1 -
+p92
+aVAnthony Avent MIL 04/10/1993 MIL vs. ORL W 32 24 9 14 64.3 0 0 - 6 9 66.7 1 4 5 2 0 2 1 5 -
+p93
+aVFred Roberts MIL 04/10/1993 MIL vs. ORL W 26 10 3 6 50.0 0 0 - 4 4 100.0 0 4 4 4 2 0 0 1 -
+p94
+aVBlue Edwards MIL 04/10/1993 MIL vs. ORL W 38 22 9 19 47.4 0 1 0.0 4 5 80.0 3 4 7 6 4 1 2 3 -
+p95
+aVEric Murdock MIL 04/10/1993 MIL vs. ORL W 33 16 7 15 46.7 0 2 0.0 2 2 100.0 0 0 0 5 3 0 3 2 -
+p96
+aVDan Schayes MIL 04/10/1993 MIL vs. ORL W 13 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 1 1 0 0 3 -
+p97
+aVBrad Lohaus MIL 04/10/1993 MIL vs. ORL W 30 12 4 12 33.3 0 5 0.0 4 6 66.7 1 7 8 0 0 1 2 3 -
+p98
+aVLee Mayberry MIL 04/10/1993 MIL vs. ORL W 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p99
+aVTodd Day MIL 04/10/1993 MIL vs. ORL W 33 17 7 12 58.3 1 1 100.0 2 7 28.6 3 3 6 3 2 0 0 3 -
+p100
+aVAnthony Avent MIL 04/08/1993 MIL vs. MIA L 28 10 2 8 25.0 0 0 - 6 8 75.0 4 3 7 0 2 1 2 5 -
+p101
+aVTodd Day MIL 04/08/1993 MIL vs. MIA L 31 12 5 16 31.3 0 5 0.0 2 2 100.0 2 2 4 2 0 2 2 3 -
+p102
+aVLee Mayberry MIL 04/08/1993 MIL vs. MIA L 40 8 3 5 60.0 1 2 50.0 1 2 50.0 0 4 4 8 2 0 0 3 -
+p103
+aVMoses Malone MIL 04/08/1993 MIL vs. MIA L 9 4 0 1 0.0 0 0 - 4 4 100.0 1 4 5 0 1 0 1 1 -
+p104
+aVBlue Edwards MIL 04/08/1993 MIL vs. MIA L 33 17 7 13 53.8 0 0 - 3 3 100.0 1 1 2 2 2 0 2 2 -
+p105
+aVBrad Lohaus MIL 04/08/1993 MIL vs. MIA L 33 20 8 16 50.0 3 6 50.0 1 2 50.0 2 2 4 3 0 2 1 3 -
+p106
+aVOrlando Woolridge MIL 04/08/1993 MIL vs. MIA L 12 7 3 3 100.0 0 0 - 1 1 100.0 1 0 1 1 0 0 4 2 -
+p107
+aVDan Schayes MIL 04/08/1993 MIL vs. MIA L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 2 2 -
+p108
+aVFred Roberts MIL 04/08/1993 MIL vs. MIA L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p109
+aVDerek Strong MIL 04/08/1993 MIL vs. MIA L 20 14 3 4 75.0 0 0 - 8 11 72.7 1 5 6 0 1 0 0 0 -
+p110
+aVJon Barry MIL 04/08/1993 MIL vs. MIA L 15 0 0 5 0.0 0 4 0.0 0 2 0.0 0 0 0 3 1 0 1 0 -
+p111
+aVJon Barry MIL 04/06/1993 MIL vs. CHI W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 1 -
+p112
+aVBrad Lohaus MIL 04/06/1993 MIL vs. CHI W 33 19 7 10 70.0 3 5 60.0 2 2 100.0 0 2 2 1 1 1 4 4 -
+p113
+aVAnthony Avent MIL 04/06/1993 MIL vs. CHI W 24 10 5 8 62.5 0 0 - 0 0 - 1 4 5 1 0 1 0 1 -
+p114
+aVFred Roberts MIL 04/06/1993 MIL vs. CHI W 18 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -
+p115
+aVTodd Day MIL 04/06/1993 MIL vs. CHI W 26 6 2 12 16.7 1 3 33.3 1 2 50.0 3 1 4 1 1 3 2 3 -
+p116
+aVDan Schayes MIL 04/06/1993 MIL vs. CHI W 27 13 4 5 80.0 0 0 - 5 6 83.3 2 6 8 1 1 2 3 3 -
+p117
+aVLee Mayberry MIL 04/06/1993 MIL vs. CHI W 34 12 5 8 62.5 0 1 0.0 2 2 100.0 0 1 1 9 2 1 3 4 -
+p118
+aVBlue Edwards MIL 04/06/1993 MIL vs. CHI W 35 24 8 13 61.5 1 1 100.0 7 10 70.0 1 3 4 4 1 0 4 3 -
+p119
+aVDerek Strong MIL 04/06/1993 MIL vs. CHI W 25 16 4 12 33.3 0 0 - 8 9 88.9 6 4 10 2 1 0 0 2 -
+p120
+aVEric Murdock MIL 04/06/1993 MIL vs. CHI W 6 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 3 2 0 0 0 -
+p121
+aVFred Roberts MIL 04/02/1993 MIL @ DEN L 29 11 4 10 40.0 0 1 0.0 3 5 60.0 3 5 8 0 1 0 0 2 -
+p122
+aVJon Barry MIL 04/02/1993 MIL @ DEN L 12 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 3 -
+p123
+aVDan Schayes MIL 04/02/1993 MIL @ DEN L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 1 0 0 5 -
+p124
+aVMoses Malone MIL 04/02/1993 MIL @ DEN L 8 3 0 6 0.0 0 0 - 3 4 75.0 4 0 4 0 0 0 0 0 -
+p125
+aVDerek Strong MIL 04/02/1993 MIL @ DEN L 13 6 2 6 33.3 0 0 - 2 4 50.0 0 5 5 2 0 0 0 1 -
+p126
+aVLee Mayberry MIL 04/02/1993 MIL @ DEN L 15 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 2 1 0 3 4 -
+p127
+aVTodd Day MIL 04/02/1993 MIL @ DEN L 43 30 12 21 57.1 1 3 33.3 5 6 83.3 6 1 7 4 2 1 1 3 -
+p128
+aVBlue Edwards MIL 04/02/1993 MIL @ DEN L 37 20 7 14 50.0 0 0 - 6 8 75.0 0 4 4 2 1 0 4 5 -
+p129
+aVBrad Lohaus MIL 04/02/1993 MIL @ DEN L 24 7 2 4 50.0 1 3 33.3 2 2 100.0 3 5 8 0 0 1 2 4 -
+p130
+aVEric Murdock MIL 04/02/1993 MIL @ DEN L 33 20 8 17 47.1 0 0 - 4 5 80.0 1 2 3 6 1 0 3 2 -
+p131
+aVAnthony Avent MIL 04/02/1993 MIL @ DEN L 13 2 1 6 16.7 0 0 - 0 0 - 1 2 3 2 0 0 0 4 -
+p132
+aVBrad Lohaus MIL 04/01/1993 MIL @ HOU L 38 18 7 12 58.3 2 4 50.0 2 2 100.0 1 6 7 3 0 0 2 5 -
+p133
+aVDan Schayes MIL 04/01/1993 MIL @ HOU L 11 0 0 0 - 0 0 - 0 0 - 1 2 3 1 1 0 0 2 -
+p134
+aVTodd Day MIL 04/01/1993 MIL @ HOU L 28 11 4 12 33.3 0 2 0.0 3 4 75.0 3 2 5 1 2 0 0 3 -
+p135
+aVLee Mayberry MIL 04/01/1993 MIL @ HOU L 14 11 5 9 55.6 1 1 100.0 0 0 - 2 1 3 3 0 0 2 2 -
+p136
+aVJon Barry MIL 04/01/1993 MIL @ HOU L 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -
+p137
+aVFred Roberts MIL 04/01/1993 MIL @ HOU L 23 8 4 7 57.1 0 0 - 0 0 - 1 2 3 3 0 1 0 2 -
+p138
+aVAnthony Avent MIL 04/01/1993 MIL @ HOU L 34 21 10 18 55.6 0 0 - 1 2 50.0 7 6 13 0 1 1 3 1 -
+p139
+aVMoses Malone MIL 04/01/1993 MIL @ HOU L 12 3 1 4 25.0 0 0 - 1 2 50.0 3 0 3 1 0 1 2 1 -
+p140
+aVEric Murdock MIL 04/01/1993 MIL @ HOU L 35 22 10 23 43.5 0 2 0.0 2 2 100.0 4 2 6 5 4 0 2 2 -
+p141
+aVBlue Edwards MIL 04/01/1993 MIL @ HOU L 36 18 6 10 60.0 1 2 50.0 5 6 83.3 2 3 5 5 4 0 2 4 -
+p142
+aVTodd Day MIL 03/29/1993 MIL vs. WAS L 29 18 7 11 63.6 0 1 0.0 4 4 100.0 3 1 4 2 0 1 5 4 -
+p143
+aVBlue Edwards MIL 03/29/1993 MIL vs. WAS L 34 12 6 14 42.9 0 1 0.0 0 1 0.0 1 3 4 4 1 0 1 3 -
+p144
+aVFred Roberts MIL 03/29/1993 MIL vs. WAS L 28 18 8 13 61.5 0 0 - 2 2 100.0 3 3 6 3 0 1 2 2 -
+p145
+aVDan Schayes MIL 03/29/1993 MIL vs. WAS L 4 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 0 -
+p146
+aVEric Murdock MIL 03/29/1993 MIL vs. WAS L 20 4 2 7 28.6 0 0 - 0 1 0.0 1 0 1 7 2 0 1 1 -
+p147
+aVDerek Strong MIL 03/29/1993 MIL vs. WAS L 11 5 2 3 66.7 0 0 - 1 1 100.0 2 2 4 0 0 0 0 1 -
+p148
+aVJon Barry MIL 03/29/1993 MIL vs. WAS L 20 11 4 7 57.1 2 3 66.7 1 1 100.0 1 2 3 3 1 0 3 2 -
+p149
+aVMoses Malone MIL 03/29/1993 MIL vs. WAS L 12 0 0 2 0.0 0 0 - 0 0 - 2 4 6 1 0 1 1 1 -
+p150
+aVLee Mayberry MIL 03/29/1993 MIL vs. WAS L 28 12 6 11 54.5 0 2 0.0 0 1 0.0 1 2 3 7 1 0 1 5 -
+p151
+aVAnthony Avent MIL 03/29/1993 MIL vs. WAS L 16 2 1 6 16.7 0 0 - 0 0 - 0 1 1 0 1 0 2 0 -
+p152
+aVBrad Lohaus MIL 03/29/1993 MIL vs. WAS L 38 21 8 12 66.7 1 4 25.0 4 6 66.7 1 5 6 2 1 1 0 2 -
+p153
+aVBlue Edwards MIL 03/27/1993 MIL @ SAC W 29 13 6 13 46.2 0 1 0.0 1 2 50.0 2 3 5 2 1 1 2 2 -
+p154
+aVDan Schayes MIL 03/27/1993 MIL @ SAC W 12 0 0 0 - 0 0 - 0 0 - 1 3 4 4 0 0 1 2 -
+p155
+aVJon Barry MIL 03/27/1993 MIL @ SAC W 15 6 2 6 33.3 1 2 50.0 1 2 50.0 0 2 2 1 0 1 3 3 -
+p156
+aVEric Murdock MIL 03/27/1993 MIL @ SAC W 25 16 7 13 53.8 0 1 0.0 2 2 100.0 2 6 8 8 3 0 2 2 -
+p157
+aVBrad Lohaus MIL 03/27/1993 MIL @ SAC W 41 34 15 22 68.2 4 11 36.4 0 0 - 1 7 8 5 1 2 3 3 -
+p158
+aVFred Roberts MIL 03/27/1993 MIL @ SAC W 22 10 5 7 71.4 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -
+p159
+aVMoses Malone MIL 03/27/1993 MIL @ SAC W 13 11 4 8 50.0 0 0 - 3 4 75.0 2 3 5 1 0 2 2 1 -
+p160
+aVDerek Strong MIL 03/27/1993 MIL @ SAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p161
+aVLee Mayberry MIL 03/27/1993 MIL @ SAC W 23 12 5 10 50.0 2 4 50.0 0 0 - 1 1 2 7 1 0 0 2 -
+p162
+aVTodd Day MIL 03/27/1993 MIL @ SAC W 30 13 5 13 38.5 1 2 50.0 2 2 100.0 5 2 7 2 2 2 1 4 -
+p163
+aVAnthony Avent MIL 03/27/1993 MIL @ SAC W 26 8 2 6 33.3 0 0 - 4 4 100.0 4 3 7 1 3 0 1 1 -
+p164
+aVBlue Edwards MIL 03/26/1993 MIL @ PHX L 43 24 11 17 64.7 0 2 0.0 2 3 66.7 3 4 7 1 2 1 2 2 -
+p165
+aVFred Roberts MIL 03/26/1993 MIL @ PHX L 26 8 2 7 28.6 0 1 0.0 4 4 100.0 6 2 8 1 3 0 2 2 -
+p166
+aVAnthony Avent MIL 03/26/1993 MIL @ PHX L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 1 1 4 -
+p167
+aVLee Mayberry MIL 03/26/1993 MIL @ PHX L 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 1 0 0 1 -
+p168
+aVDan Schayes MIL 03/26/1993 MIL @ PHX L 29 11 4 6 66.7 0 0 - 3 4 75.0 0 2 2 1 1 2 2 6 -
+p169
+aVEric Murdock MIL 03/26/1993 MIL @ PHX L 36 14 5 14 35.7 0 2 0.0 4 6 66.7 2 3 5 17 2 0 7 5 -
+p170
+aVTodd Day MIL 03/26/1993 MIL @ PHX L 38 18 7 16 43.8 0 2 0.0 4 11 36.4 2 2 4 1 2 0 3 4 -
+p171
+aVBrad Lohaus MIL 03/26/1993 MIL @ PHX L 33 20 8 11 72.7 4 4 100.0 0 0 - 0 7 7 3 0 2 3 3 -
+p172
+aVJon Barry MIL 03/26/1993 MIL @ PHX L 13 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 0 1 0 2 2 -
+p173
+aVDerek Strong MIL 03/24/1993 MIL @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p174
+aVFred Roberts MIL 03/24/1993 MIL @ LAC L 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 1 0 0 4 -
+p175
+aVAnthony Avent MIL 03/24/1993 MIL @ LAC L 26 15 6 8 75.0 0 0 - 3 4 75.0 3 4 7 1 1 0 0 5 -
+p176
+aVDan Schayes MIL 03/24/1993 MIL @ LAC L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -
+p177
+aVJon Barry MIL 03/24/1993 MIL @ LAC L 16 9 4 5 80.0 0 0 - 1 2 50.0 0 3 3 1 0 0 3 1 -
+p178
+aVEric Murdock MIL 03/24/1993 MIL @ LAC L 31 20 9 12 75.0 1 1 100.0 1 1 100.0 0 2 2 9 3 0 9 4 -
+p179
+aVTodd Day MIL 03/24/1993 MIL @ LAC L 32 14 6 14 42.9 0 5 0.0 2 4 50.0 0 1 1 4 0 0 2 2 -
+p180
+aVLee Mayberry MIL 03/24/1993 MIL @ LAC L 17 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 9 1 0 1 1 -
+p181
+aVBlue Edwards MIL 03/24/1993 MIL @ LAC L 36 15 6 11 54.5 1 4 25.0 2 3 66.7 0 3 3 2 0 2 0 3 -
+p182
+aVFrank Brickowski MIL 03/24/1993 MIL @ LAC L 31 12 6 10 60.0 0 0 - 0 0 - 2 4 6 2 4 0 2 1 -
+p183
+aVBrad Lohaus MIL 03/24/1993 MIL @ LAC L 26 16 5 7 71.4 3 3 100.0 3 4 75.0 0 1 1 1 0 4 1 3 -
+p184
+aVBrad Lohaus MIL 03/20/1993 MIL vs. PHL W 28 12 5 12 41.7 2 5 40.0 0 0 - 1 3 4 2 0 1 1 4 -
+p185
+aVBlue Edwards MIL 03/20/1993 MIL vs. PHL W 31 27 11 17 64.7 2 4 50.0 3 3 100.0 5 1 6 4 2 1 3 2 -
+p186
+aVFred Roberts MIL 03/20/1993 MIL vs. PHL W 16 3 1 3 33.3 0 0 - 1 1 100.0 1 1 2 0 0 0 1 1 -
+p187
+aVJon Barry MIL 03/20/1993 MIL vs. PHL W 24 8 3 7 42.9 2 4 50.0 0 0 - 1 4 5 4 1 0 3 3 -
+p188
+aVAnthony Avent MIL 03/20/1993 MIL vs. PHL W 29 12 6 14 42.9 0 0 - 0 1 0.0 4 10 14 1 0 0 0 1 -
+p189
+aVTodd Day MIL 03/20/1993 MIL vs. PHL W 28 10 3 9 33.3 1 4 25.0 3 4 75.0 1 2 3 0 2 1 0 2 -
+p190
+aVLee Mayberry MIL 03/20/1993 MIL vs. PHL W 24 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 7 3 0 1 2 -
+p191
+aVDerek Strong MIL 03/20/1993 MIL vs. PHL W 7 8 2 2 100.0 0 0 - 4 4 100.0 2 1 3 0 1 0 1 0 -
+p192
+aVDan Schayes MIL 03/20/1993 MIL vs. PHL W 29 20 8 11 72.7 0 0 - 4 5 80.0 2 4 6 3 0 0 1 3 -
+p193
+aVEric Murdock MIL 03/20/1993 MIL vs. PHL W 24 4 2 9 22.2 0 1 0.0 0 0 - 2 2 4 9 1 0 0 1 -
+p194
+aVAnthony Avent MIL 03/19/1993 MIL @ NJN L 42 16 7 18 38.9 0 0 - 2 2 100.0 4 11 15 2 2 1 2 4 -
+p195
+aVBrad Lohaus MIL 03/19/1993 MIL @ NJN L 31 5 2 8 25.0 0 2 0.0 1 2 50.0 0 4 4 0 1 0 1 3 -
+p196
+aVFred Roberts MIL 03/19/1993 MIL @ NJN L 17 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 1 2 0 0 0 -
+p197
+aVLee Mayberry MIL 03/19/1993 MIL @ NJN L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 0 0 1 2 -
+p198
+aVJon Barry MIL 03/19/1993 MIL @ NJN L 6 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 1 -
+p199
+aVTodd Day MIL 03/19/1993 MIL @ NJN L 39 15 4 13 30.8 0 1 0.0 7 10 70.0 3 2 5 2 2 0 2 5 -
+p200
+aVEric Murdock MIL 03/19/1993 MIL @ NJN L 32 15 7 15 46.7 1 2 50.0 0 0 - 5 3 8 5 3 0 5 3 -
+p201
+aVDan Schayes MIL 03/19/1993 MIL @ NJN L 23 9 4 9 44.4 0 0 - 1 2 50.0 2 3 5 2 2 2 1 2 -
+p202
+aVBlue Edwards MIL 03/19/1993 MIL @ NJN L 34 15 6 15 40.0 0 2 0.0 3 5 60.0 0 4 4 2 0 1 1 4 -
+p203
+aVEric Murdock MIL 03/17/1993 MIL @ IND L 27 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 6 3 0 2 0 -
+p204
+aVJon Barry MIL 03/17/1993 MIL @ IND L 15 8 3 4 75.0 1 1 100.0 1 2 50.0 0 1 1 1 2 0 0 0 -
+p205
+aVDan Schayes MIL 03/17/1993 MIL @ IND L 25 4 1 7 14.3 0 0 - 2 2 100.0 2 2 4 1 0 0 1 4 -
+p206
+aVLee Mayberry MIL 03/17/1993 MIL @ IND L 21 4 2 5 40.0 0 0 - 0 0 - 0 3 3 6 0 0 1 0 -
+p207
+aVBrad Lohaus MIL 03/17/1993 MIL @ IND L 29 10 5 12 41.7 0 1 0.0 0 2 0.0 1 4 5 0 0 4 2 3 -
+p208
+aVFred Roberts MIL 03/17/1993 MIL @ IND L 26 19 6 8 75.0 0 0 - 7 7 100.0 2 3 5 0 1 0 2 2 -
+p209
+aVTodd Day MIL 03/17/1993 MIL @ IND L 35 20 7 10 70.0 1 2 50.0 5 6 83.3 2 0 2 4 3 0 3 4 -
+p210
+aVDerek Strong MIL 03/17/1993 MIL @ IND L 9 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 0 0 0 0 -
+p211
+aVAnthony Avent MIL 03/17/1993 MIL @ IND L 21 4 1 8 12.5 0 0 - 2 2 100.0 2 2 4 1 0 0 2 3 -
+p212
+aVBlue Edwards MIL 03/17/1993 MIL @ IND L 32 12 5 16 31.3 0 4 0.0 2 2 100.0 1 2 3 2 1 0 0 3 -
+p213
+aVDan Schayes MIL 03/16/1993 MIL @ NYK L 34 8 2 6 33.3 0 0 - 4 5 80.0 2 3 5 3 3 1 2 1 -
+p214
+aVTodd Day MIL 03/16/1993 MIL @ NYK L 21 8 3 9 33.3 0 1 0.0 2 2 100.0 1 1 2 4 1 0 2 2 -
+p215
+aVAnthony Avent MIL 03/16/1993 MIL @ NYK L 22 0 0 5 0.0 0 0 - 0 0 - 0 6 6 1 2 2 3 1 -
+p216
+aVEric Murdock MIL 03/16/1993 MIL @ NYK L 30 19 9 10 90.0 0 0 - 1 1 100.0 2 2 4 6 4 0 6 6 -
+p217
+aVFrank Brickowski MIL 03/16/1993 MIL @ NYK L 14 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 0 0 0 3 3 -
+p218
+aVLee Mayberry MIL 03/16/1993 MIL @ NYK L 18 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 1 -
+p219
+aVDerek Strong MIL 03/16/1993 MIL @ NYK L 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -
+p220
+aVBlue Edwards MIL 03/16/1993 MIL @ NYK L 28 16 5 9 55.6 1 3 33.3 5 8 62.5 0 1 1 1 0 0 2 4 -
+p221
+aVFred Roberts MIL 03/16/1993 MIL @ NYK L 27 18 7 14 50.0 0 3 0.0 4 5 80.0 4 3 7 1 0 1 1 5 -
+p222
+aVBrad Lohaus MIL 03/16/1993 MIL @ NYK L 41 15 7 16 43.8 1 6 16.7 0 0 - 0 5 5 5 1 1 3 5 -
+p223
+aVDan Schayes MIL 03/12/1993 MIL @ BOS W 8 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -
+p224
+aVLee Mayberry MIL 03/12/1993 MIL @ BOS W 13 5 1 1 100.0 0 0 - 3 4 75.0 0 0 0 1 0 0 1 3 -
+p225
+aVJon Barry MIL 03/12/1993 MIL @ BOS W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p226
+aVFrank Brickowski MIL 03/12/1993 MIL @ BOS W 33 17 7 12 58.3 0 0 - 3 3 100.0 0 6 6 4 3 1 2 5 -
+p227
+aVFred Roberts MIL 03/12/1993 MIL @ BOS W 29 17 7 8 87.5 0 0 - 3 3 100.0 3 2 5 1 1 2 1 1 -
+p228
+aVAnthony Avent MIL 03/12/1993 MIL @ BOS W 33 6 3 10 30.0 0 0 - 0 0 - 1 6 7 1 0 0 1 5 -
+p229
+aVTodd Day MIL 03/12/1993 MIL @ BOS W 15 4 0 2 0.0 0 0 - 4 4 100.0 0 0 0 0 0 0 1 3 -
+p230
+aVBrad Lohaus MIL 03/12/1993 MIL @ BOS W 34 18 6 13 46.2 2 4 50.0 4 4 100.0 0 5 5 2 0 1 2 0 -
+p231
+aVEric Murdock MIL 03/12/1993 MIL @ BOS W 35 23 9 17 52.9 1 2 50.0 4 4 100.0 0 2 2 11 5 1 3 3 -
+p232
+aVBlue Edwards MIL 03/12/1993 MIL @ BOS W 35 23 6 8 75.0 3 3 100.0 8 8 100.0 0 3 3 2 3 1 2 2 -
+p233
+aVJon Barry MIL 03/11/1993 MIL vs. SEA L 11 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 2 0 2 1 -
+p234
+aVEric Murdock MIL 03/11/1993 MIL vs. SEA L 25 11 4 12 33.3 2 5 40.0 1 2 50.0 0 4 4 8 3 0 2 5 -
+p235
+aVDan Schayes MIL 03/11/1993 MIL vs. SEA L 6 4 0 0 - 0 0 - 4 4 100.0 0 2 2 0 0 0 1 0 -
+p236
+aVAnthony Avent MIL 03/11/1993 MIL vs. SEA L 36 10 3 6 50.0 0 0 - 4 4 100.0 4 3 7 1 1 2 0 2 -
+p237
+aVFrank Brickowski MIL 03/11/1993 MIL vs. SEA L 39 32 12 19 63.2 0 1 0.0 8 10 80.0 1 4 5 5 1 0 6 4 -
+p238
+aVTodd Day MIL 03/11/1993 MIL vs. SEA L 9 4 2 4 50.0 0 2 0.0 0 0 - 1 0 1 2 0 0 1 1 -
+p239
+aVBlue Edwards MIL 03/11/1993 MIL vs. SEA L 37 12 6 13 46.2 0 1 0.0 0 1 0.0 3 3 6 3 1 1 3 1 -
+p240
+aVFred Roberts MIL 03/11/1993 MIL vs. SEA L 14 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 1 0 0 2 4 -
+p241
+aVBrad Lohaus MIL 03/11/1993 MIL vs. SEA L 40 17 7 9 77.8 2 3 66.7 1 2 50.0 0 4 4 2 0 0 2 4 -
+p242
+aVLee Mayberry MIL 03/11/1993 MIL vs. SEA L 23 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 3 1 1 2 1 -
+p243
+aVLee Mayberry MIL 03/09/1993 MIL vs. ATL L 21 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 5 0 0 1 1 -
+p244
+aVAnthony Avent MIL 03/09/1993 MIL vs. ATL L 36 4 2 10 20.0 0 0 - 0 0 - 3 3 6 0 2 1 5 2 -
+p245
+aVDan Schayes MIL 03/09/1993 MIL vs. ATL L 21 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -
+p246
+aVFred Roberts MIL 03/09/1993 MIL vs. ATL L 27 15 6 9 66.7 1 2 50.0 2 3 66.7 2 1 3 2 0 1 1 2 -
+p247
+aVEric Murdock MIL 03/09/1993 MIL vs. ATL L 27 20 5 10 50.0 2 3 66.7 8 8 100.0 0 1 1 6 1 0 0 0 -
+p248
+aVJon Barry MIL 03/09/1993 MIL vs. ATL L 23 18 6 12 50.0 2 5 40.0 4 4 100.0 0 3 3 2 5 0 2 4 -
+p249
+aVBrad Lohaus MIL 03/09/1993 MIL vs. ATL L 29 11 5 12 41.7 1 5 20.0 0 0 - 0 3 3 5 1 0 2 0 -
+p250
+aVAlex Stivrins MIL 03/09/1993 MIL vs. ATL L 10 9 3 4 75.0 0 0 - 3 4 75.0 2 2 4 1 1 0 1 1 -
+p251
+aVDerek Strong MIL 03/09/1993 MIL vs. ATL L 16 2 1 2 50.0 0 1 0.0 0 2 0.0 2 5 7 1 0 0 0 1 -
+p252
+aVBlue Edwards MIL 03/09/1993 MIL vs. ATL L 30 17 8 12 66.7 0 2 0.0 1 1 100.0 0 1 1 3 0 0 1 1 -
+p253
+aVLee Mayberry MIL 03/07/1993 MIL vs. DET L 15 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 1 0 0 3 3 -
+p254
+aVFred Roberts MIL 03/07/1993 MIL vs. DET L 23 14 6 9 66.7 1 1 100.0 1 1 100.0 1 0 1 0 2 0 1 3 -
+p255
+aVJon Barry MIL 03/07/1993 MIL vs. DET L 18 1 0 4 0.0 0 2 0.0 1 2 50.0 0 0 0 2 0 0 0 1 -
+p256
+aVBrad Lohaus MIL 03/07/1993 MIL vs. DET L 39 14 5 14 35.7 2 4 50.0 2 3 66.7 1 2 3 2 1 2 3 2 -
+p257
+aVDerek Strong MIL 03/07/1993 MIL vs. DET L 19 1 0 2 0.0 0 1 0.0 1 2 50.0 1 2 3 1 1 1 0 2 -
+p258
+aVBlue Edwards MIL 03/07/1993 MIL vs. DET L 30 14 6 15 40.0 0 2 0.0 2 2 100.0 1 6 7 2 1 0 2 4 -
+p259
+aVDan Schayes MIL 03/07/1993 MIL vs. DET L 30 5 2 5 40.0 0 1 0.0 1 1 100.0 3 7 10 2 1 0 3 2 -
+p260
+aVAlex Stivrins MIL 03/07/1993 MIL vs. DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p261
+aVAnthony Avent MIL 03/07/1993 MIL vs. DET L 30 13 6 11 54.5 0 0 - 1 4 25.0 4 8 12 2 0 0 1 3 -
+p262
+aVEric Murdock MIL 03/07/1993 MIL vs. DET L 34 25 10 20 50.0 0 1 0.0 5 6 83.3 2 3 5 9 0 0 2 0 -
+p263
+aVBlue Edwards MIL 03/05/1993 MIL vs. ORL W 32 21 9 16 56.3 2 3 66.7 1 1 100.0 0 3 3 4 2 0 1 0 -
+p264
+aVBrad Lohaus MIL 03/05/1993 MIL vs. ORL W 27 12 5 11 45.5 2 3 66.7 0 0 - 0 7 7 2 0 5 1 0 -
+p265
+aVLee Mayberry MIL 03/05/1993 MIL vs. ORL W 21 8 2 4 50.0 0 1 0.0 4 4 100.0 1 0 1 6 1 0 0 1 -
+p266
+aVEric Murdock MIL 03/05/1993 MIL vs. ORL W 27 20 9 17 52.9 0 2 0.0 2 2 100.0 1 2 3 5 1 0 0 1 -
+p267
+aVAnthony Avent MIL 03/05/1993 MIL vs. ORL W 35 10 4 12 33.3 0 0 - 2 2 100.0 4 5 9 2 0 2 1 4 -
+p268
+aVJon Barry MIL 03/05/1993 MIL vs. ORL W 19 11 3 10 30.0 3 4 75.0 2 2 100.0 3 2 5 0 1 1 2 2 -
+p269
+aVDan Schayes MIL 03/05/1993 MIL vs. ORL W 21 5 2 6 33.3 0 0 - 1 2 50.0 3 2 5 2 3 0 4 5 -
+p270
+aVDerek Strong MIL 03/05/1993 MIL vs. ORL W 17 12 3 6 50.0 0 0 - 6 6 100.0 3 3 6 0 0 0 2 0 -
+p271
+aVFred Roberts MIL 03/05/1993 MIL vs. ORL W 22 4 2 5 40.0 0 0 - 0 0 - 2 3 5 3 0 1 0 2 -
+p272
+aVFrank Brickowski MIL 03/05/1993 MIL vs. ORL W 19 6 2 9 22.2 0 0 - 2 4 50.0 2 5 7 3 0 1 0 3 -
+p273
+aVAlex Stivrins MIL 03/02/1993 MIL vs. DAL W 13 2 1 7 14.3 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -
+p274
+aVFred Roberts MIL 03/02/1993 MIL vs. DAL W 14 9 3 8 37.5 0 0 - 3 3 100.0 2 2 4 3 1 0 1 1 -
+p275
+aVDerek Strong MIL 03/02/1993 MIL vs. DAL W 17 11 2 3 66.7 0 0 - 7 7 100.0 2 9 11 0 2 0 2 3 -
+p276
+aVLee Mayberry MIL 03/02/1993 MIL vs. DAL W 19 14 6 7 85.7 0 0 - 2 3 66.7 0 4 4 2 1 0 0 1 -
+p277
+aVAnthony Avent MIL 03/02/1993 MIL vs. DAL W 29 5 2 8 25.0 0 0 - 1 2 50.0 3 6 9 3 0 1 2 4 -
+p278
+aVFrank Brickowski MIL 03/02/1993 MIL vs. DAL W 26 17 6 12 50.0 0 2 0.0 5 6 83.3 2 6 8 2 1 0 0 3 -
+p279
+aVDan Schayes MIL 03/02/1993 MIL vs. DAL W 17 12 4 7 57.1 0 0 - 4 6 66.7 3 2 5 0 0 0 0 2 -
+p280
+aVBlue Edwards MIL 03/02/1993 MIL vs. DAL W 20 15 6 11 54.5 0 0 - 3 4 75.0 2 1 3 2 3 1 2 3 -
+p281
+aVEric Murdock MIL 03/02/1993 MIL vs. DAL W 29 15 3 7 42.9 0 0 - 9 12 75.0 2 4 6 3 4 0 1 1 -
+p282
+aVJon Barry MIL 03/02/1993 MIL vs. DAL W 28 9 3 6 50.0 2 3 66.7 1 2 50.0 0 1 1 5 0 0 3 2 -
+p283
+aVBrad Lohaus MIL 03/02/1993 MIL vs. DAL W 28 11 5 13 38.5 1 3 33.3 0 0 - 0 4 4 1 2 0 0 0 -
+p284
+aVFrank Brickowski MIL 02/27/1993 MIL @ DET W 39 17 7 15 46.7 0 0 - 3 5 60.0 1 6 7 1 2 2 6 4 -
+p285
+aVDan Schayes MIL 02/27/1993 MIL @ DET W 27 3 0 0 - 0 0 - 3 4 75.0 2 7 9 1 1 0 2 2 -
+p286
+aVLee Mayberry MIL 02/27/1993 MIL @ DET W 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p287
+aVDerek Strong MIL 02/27/1993 MIL @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p288
+aVFred Roberts MIL 02/27/1993 MIL @ DET W 13 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 0 0 1 2 1 -
+p289
+aVEric Murdock MIL 02/27/1993 MIL @ DET W 32 13 6 14 42.9 1 3 33.3 0 0 - 0 0 0 13 0 0 3 2 -
+p290
+aVBlue Edwards MIL 02/27/1993 MIL @ DET W 33 16 8 13 61.5 0 1 0.0 0 0 - 1 3 4 2 2 1 1 3 -
+p291
+aVJon Barry MIL 02/27/1993 MIL @ DET W 15 8 3 8 37.5 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 2 -
+p292
+aVBrad Lohaus MIL 02/27/1993 MIL @ DET W 40 27 11 18 61.1 2 5 40.0 3 4 75.0 5 4 9 4 3 2 1 3 -
+p293
+aVAnthony Avent MIL 02/27/1993 MIL @ DET W 24 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 1 1 0 0 3 -
+p294
+aVJon Barry MIL 02/26/1993 MIL @ PHL L 30 8 4 5 80.0 0 0 - 0 0 - 1 1 2 3 0 0 0 4 -
+p295
+aVAnthony Avent MIL 02/26/1993 MIL @ PHL L 19 2 0 7 0.0 0 0 - 2 2 100.0 2 3 5 1 1 1 1 2 -
+p296
+aVLee Mayberry MIL 02/26/1993 MIL @ PHL L 21 4 1 6 16.7 0 2 0.0 2 2 100.0 2 0 2 7 2 0 0 0 -
+p297
+aVFred Roberts MIL 02/26/1993 MIL @ PHL L 28 17 6 9 66.7 1 2 50.0 4 4 100.0 2 1 3 2 3 0 2 2 -
+p298
+aVDan Schayes MIL 02/26/1993 MIL @ PHL L 17 4 2 7 28.6 0 0 - 0 0 - 0 3 3 2 1 0 0 3 -
+p299
+aVBrad Lohaus MIL 02/26/1993 MIL @ PHL L 36 17 8 17 47.1 1 7 14.3 0 0 - 2 6 8 2 0 2 4 3 -
+p300
+aVBlue Edwards MIL 02/26/1993 MIL @ PHL L 28 20 8 15 53.3 2 3 66.7 2 3 66.7 1 2 3 1 4 0 3 5 -
+p301
+aVFrank Brickowski MIL 02/26/1993 MIL @ PHL L 31 18 8 14 57.1 0 0 - 2 2 100.0 2 4 6 4 2 1 1 3 -
+p302
+aVEric Murdock MIL 02/26/1993 MIL @ PHL L 30 21 8 16 50.0 1 3 33.3 4 4 100.0 3 1 4 8 1 0 1 4 -
+p303
+aVAnthony Avent MIL 02/24/1993 MIL vs. NYK L 19 2 1 7 14.3 0 0 - 0 2 0.0 0 5 5 0 1 1 1 3 -
+p304
+aVLee Mayberry MIL 02/24/1993 MIL vs. NYK L 23 2 0 6 0.0 0 1 0.0 2 2 100.0 0 2 2 6 0 0 0 1 -
+p305
+aVBrad Lohaus MIL 02/24/1993 MIL vs. NYK L 28 18 6 9 66.7 2 4 50.0 4 4 100.0 0 4 4 1 3 3 1 2 -
+p306
+aVBlue Edwards MIL 02/24/1993 MIL vs. NYK L 22 3 1 7 14.3 1 2 50.0 0 0 - 1 4 5 1 0 0 3 2 -
+p307
+aVFred Roberts MIL 02/24/1993 MIL vs. NYK L 13 4 2 4 50.0 0 0 - 0 0 - 3 1 4 2 0 1 1 1 -
+p308
+aVJon Barry MIL 02/24/1993 MIL vs. NYK L 19 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 2 1 0 2 1 -
+p309
+aVAlvin Robertson MIL 02/24/1993 MIL vs. NYK L 27 11 5 8 62.5 0 2 0.0 1 2 50.0 0 1 1 2 1 0 2 2 -
+p310
+aVEric Murdock MIL 02/24/1993 MIL vs. NYK L 25 12 4 9 44.4 0 1 0.0 4 4 100.0 0 0 0 6 3 0 3 1 -
+p311
+aVFrank Brickowski MIL 02/24/1993 MIL vs. NYK L 34 16 8 15 53.3 0 0 - 0 2 0.0 2 1 3 1 2 0 5 6 -
+p312
+aVDan Schayes MIL 02/24/1993 MIL vs. NYK L 30 15 4 8 50.0 0 0 - 7 10 70.0 4 10 14 1 0 1 0 5 -
+p313
+aVFred Roberts MIL 02/23/1993 MIL @ CHI L 14 3 1 3 33.3 0 0 - 1 1 100.0 1 2 3 2 1 0 1 1 -
+p314
+aVLee Mayberry MIL 02/23/1993 MIL @ CHI L 18 6 2 7 28.6 2 3 66.7 0 0 - 1 1 2 1 0 0 0 3 -
+p315
+aVAnthony Avent MIL 02/23/1993 MIL @ CHI L 23 13 6 10 60.0 0 0 - 1 2 50.0 1 2 3 1 0 2 1 3 -
+p316
+aVBrad Lohaus MIL 02/23/1993 MIL @ CHI L 27 15 5 10 50.0 1 1 100.0 4 6 66.7 4 3 7 1 1 0 0 2 -
+p317
+aVDan Schayes MIL 02/23/1993 MIL @ CHI L 11 1 0 3 0.0 0 0 - 1 2 50.0 1 5 6 0 0 0 0 1 -
+p318
+aVJon Barry MIL 02/23/1993 MIL @ CHI L 18 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 4 0 0 1 0 -
+p319
+aVFrank Brickowski MIL 02/23/1993 MIL @ CHI L 38 26 12 23 52.2 0 1 0.0 2 3 66.7 2 8 10 3 1 1 4 1 -
+p320
+aVAlvin Robertson MIL 02/23/1993 MIL @ CHI L 20 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 3 -
+p321
+aVBlue Edwards MIL 02/23/1993 MIL @ CHI L 41 18 8 11 72.7 0 0 - 2 2 100.0 1 5 6 5 2 0 3 5 -
+p322
+aVEric Murdock MIL 02/23/1993 MIL @ CHI L 30 10 5 13 38.5 0 3 0.0 0 0 - 2 4 6 9 3 0 4 2 -
+p323
+aVAlvin Robertson MIL 02/18/1993 MIL vs. UTH L 27 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 6 2 0 1 2 -
+p324
+aVBrad Lohaus MIL 02/18/1993 MIL vs. UTH L 5 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 2 -
+p325
+aVBlue Edwards MIL 02/18/1993 MIL vs. UTH L 40 25 10 15 66.7 1 4 25.0 4 5 80.0 2 3 5 4 3 0 1 4 -
+p326
+aVEric Murdock MIL 02/18/1993 MIL vs. UTH L 36 14 6 14 42.9 0 2 0.0 2 5 40.0 0 3 3 10 2 0 6 1 -
+p327
+aVFred Roberts MIL 02/18/1993 MIL vs. UTH L 19 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 2 0 1 3 3 -
+p328
+aVDan Schayes MIL 02/18/1993 MIL vs. UTH L 28 13 5 7 71.4 0 0 - 3 3 100.0 1 2 3 1 2 2 2 2 -
+p329
+aVAnthony Avent MIL 02/18/1993 MIL vs. UTH L 25 6 3 8 37.5 0 0 - 0 0 - 1 5 6 0 0 1 0 4 -
+p330
+aVFrank Brickowski MIL 02/18/1993 MIL vs. UTH L 42 20 9 11 81.8 0 1 0.0 2 6 33.3 0 8 8 2 0 1 1 0 -
+p331
+aVLee Mayberry MIL 02/18/1993 MIL vs. UTH L 12 2 1 3 33.3 0 1 0.0 0 0 - 2 0 2 3 0 0 1 1 -
+p332
+aVJon Barry MIL 02/18/1993 MIL vs. UTH L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -
+p333
+aVFrank Brickowski MIL 02/16/1993 MIL @ NJN L 30 14 7 14 50.0 0 0 - 0 0 - 1 3 4 3 3 0 3 6 -
+p334
+aVLee Mayberry MIL 02/16/1993 MIL @ NJN L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 4 1 -
+p335
+aVAnthony Avent MIL 02/16/1993 MIL @ NJN L 24 8 3 8 37.5 0 0 - 2 4 50.0 2 1 3 2 3 3 2 2 -
+p336
+aVJon Barry MIL 02/16/1993 MIL @ NJN L 13 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 2 0 0 3 -
+p337
+aVAlvin Robertson MIL 02/16/1993 MIL @ NJN L 33 11 4 9 44.4 0 3 0.0 3 4 75.0 1 2 3 1 1 1 3 3 -
+p338
+aVBrad Lohaus MIL 02/16/1993 MIL @ NJN L 24 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 1 0 2 0 0 -
+p339
+aVEric Murdock MIL 02/16/1993 MIL @ NJN L 34 14 5 10 50.0 1 3 33.3 3 4 75.0 1 2 3 10 3 0 3 2 -
+p340
+aVBlue Edwards MIL 02/16/1993 MIL @ NJN L 33 21 7 16 43.8 1 2 50.0 6 8 75.0 2 7 9 1 1 1 2 3 -
+p341
+aVFred Roberts MIL 02/16/1993 MIL @ NJN L 15 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 -
+p342
+aVDan Schayes MIL 02/16/1993 MIL @ NJN L 19 6 2 6 33.3 0 0 - 2 2 100.0 3 3 6 2 2 2 1 2 -
+p343
+aVJon Barry MIL 02/15/1993 MIL vs. CHH W 17 18 6 11 54.5 2 3 66.7 4 6 66.7 2 1 3 2 3 0 1 3 -
+p344
+aVAlvin Robertson MIL 02/15/1993 MIL vs. CHH W 31 11 5 8 62.5 0 1 0.0 1 2 50.0 2 5 7 4 1 0 0 3 -
+p345
+aVEric Murdock MIL 02/15/1993 MIL vs. CHH W 29 17 8 12 66.7 0 2 0.0 1 3 33.3 1 2 3 9 2 0 1 1 -
+p346
+aVAnthony Avent MIL 02/15/1993 MIL vs. CHH W 19 10 5 14 35.7 0 0 - 0 0 - 2 1 3 1 1 2 0 2 -
+p347
+aVDan Schayes MIL 02/15/1993 MIL vs. CHH W 22 8 2 5 40.0 0 0 - 4 4 100.0 1 3 4 6 0 1 1 2 -
+p348
+aVFred Roberts MIL 02/15/1993 MIL vs. CHH W 21 15 5 8 62.5 1 2 50.0 4 4 100.0 1 6 7 2 0 0 4 0 -
+p349
+aVFrank Brickowski MIL 02/15/1993 MIL vs. CHH W 24 20 9 11 81.8 0 0 - 2 2 100.0 0 2 2 6 1 0 0 2 -
+p350
+aVDan O'Sullivan MIL 02/15/1993 MIL vs. CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p351
+aVBlue Edwards MIL 02/15/1993 MIL vs. CHH W 27 12 5 13 38.5 1 3 33.3 1 1 100.0 2 4 6 3 1 1 3 3 -
+p352
+aVBrad Lohaus MIL 02/15/1993 MIL vs. CHH W 29 8 3 7 42.9 2 5 40.0 0 0 - 0 2 2 3 0 1 1 2 -
+p353
+aVLee Mayberry MIL 02/15/1993 MIL vs. CHH W 20 9 4 7 57.1 1 3 33.3 0 2 0.0 0 2 2 4 0 0 1 2 -
+p354
+aVBlue Edwards MIL 02/13/1993 MIL vs. IND W 35 19 7 11 63.6 1 2 50.0 4 5 80.0 1 4 5 3 2 0 1 2 -
+p355
+aVFred Roberts MIL 02/13/1993 MIL vs. IND W 18 9 1 2 50.0 0 0 - 7 10 70.0 0 2 2 0 1 1 0 2 -
+p356
+aVTodd Day MIL 02/13/1993 MIL vs. IND W 33 23 9 13 69.2 3 3 100.0 2 3 66.7 3 2 5 1 2 2 4 1 -
+p357
+aVDan Schayes MIL 02/13/1993 MIL vs. IND W 15 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 2 0 0 3 5 -
+p358
+aVBrad Lohaus MIL 02/13/1993 MIL vs. IND W 25 13 5 8 62.5 1 4 25.0 2 2 100.0 1 3 4 6 2 3 0 5 -
+p359
+aVEric Murdock MIL 02/13/1993 MIL vs. IND W 20 1 0 5 0.0 0 2 0.0 1 4 25.0 1 3 4 4 0 0 2 0 -
+p360
+aVAnthony Avent MIL 02/13/1993 MIL vs. IND W 23 6 3 11 27.3 0 0 - 0 0 - 2 2 4 1 1 0 2 5 -
+p361
+aVLee Mayberry MIL 02/13/1993 MIL vs. IND W 28 13 4 5 80.0 4 4 100.0 1 4 25.0 0 1 1 4 2 1 1 1 -
+p362
+aVFrank Brickowski MIL 02/13/1993 MIL vs. IND W 33 27 6 15 40.0 0 0 - 15 15 100.0 4 9 13 3 3 0 4 4 -
+p363
+aVAlvin Robertson MIL 02/13/1993 MIL vs. IND W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 1 1 2 3 -
+p364
+aVBlue Edwards MIL 02/12/1993 MIL @ CLE L 30 14 6 13 46.2 0 1 0.0 2 2 100.0 0 1 1 3 2 1 3 3 -
+p365
+aVBrad Lohaus MIL 02/12/1993 MIL @ CLE L 17 7 3 4 75.0 1 1 100.0 0 2 0.0 1 2 3 1 0 0 2 0 -
+p366
+aVAlvin Robertson MIL 02/12/1993 MIL @ CLE L 19 4 2 5 40.0 0 1 0.0 0 2 0.0 0 2 2 2 0 1 0 2 -
+p367
+aVJon Barry MIL 02/12/1993 MIL @ CLE L 5 3 1 3 33.3 0 2 0.0 1 2 50.0 0 0 0 2 0 0 1 0 -
+p368
+aVEric Murdock MIL 02/12/1993 MIL @ CLE L 29 12 5 12 41.7 0 1 0.0 2 2 100.0 3 5 8 10 0 0 3 2 -
+p369
+aVLee Mayberry MIL 02/12/1993 MIL @ CLE L 19 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 2 1 0 2 1 -
+p370
+aVFrank Brickowski MIL 02/12/1993 MIL @ CLE L 32 17 6 10 60.0 0 0 - 5 5 100.0 3 8 11 5 0 1 3 2 -
+p371
+aVFred Roberts MIL 02/12/1993 MIL @ CLE L 14 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 2 1 0 1 2 -
+p372
+aVAnthony Avent MIL 02/12/1993 MIL @ CLE L 31 7 3 10 30.0 0 0 - 1 2 50.0 2 5 7 2 2 2 2 3 -
+p373
+aVDan Schayes MIL 02/12/1993 MIL @ CLE L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -
+p374
+aVTodd Day MIL 02/12/1993 MIL @ CLE L 28 17 6 13 46.2 1 4 25.0 4 6 66.7 2 1 3 1 1 0 2 3 -
+p375
+aVDan O'Sullivan MIL 02/12/1993 MIL @ CLE L 5 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 1 1 0 0 2 -
+p376
+aVEric Murdock MIL 02/09/1993 MIL @ BOS L 32 12 5 9 55.6 0 1 0.0 2 4 50.0 1 2 3 10 1 0 2 6 -
+p377
+aVLee Mayberry MIL 02/09/1993 MIL @ BOS L 16 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 4 0 0 0 1 -
+p378
+aVFrank Brickowski MIL 02/09/1993 MIL @ BOS L 40 22 10 18 55.6 0 0 - 2 2 100.0 2 4 6 3 3 0 2 5 -
+p379
+aVTodd Day MIL 02/09/1993 MIL @ BOS L 37 29 13 18 72.2 3 5 60.0 0 0 - 1 3 4 2 2 1 4 4 -
+p380
+aVAnthony Avent MIL 02/09/1993 MIL @ BOS L 33 5 2 8 25.0 0 0 - 1 2 50.0 1 3 4 1 0 1 1 3 -
+p381
+aVBlue Edwards MIL 02/09/1993 MIL @ BOS L 31 10 5 10 50.0 0 1 0.0 0 0 - 0 3 3 3 1 1 1 3 -
+p382
+aVDan Schayes MIL 02/09/1993 MIL @ BOS L 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -
+p383
+aVFred Roberts MIL 02/09/1993 MIL @ BOS L 17 2 1 5 20.0 0 0 - 0 0 - 0 2 2 2 1 0 2 0 -
+p384
+aVAlvin Robertson MIL 02/09/1993 MIL @ BOS L 11 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 1 2 -
+p385
+aVBrad Lohaus MIL 02/09/1993 MIL @ BOS L 9 8 4 7 57.1 0 1 0.0 0 0 - 1 0 1 2 0 1 1 3 -
+p386
+aVAnthony Avent MIL 02/07/1993 MIL vs. NJN L 33 12 6 15 40.0 0 0 - 0 0 - 1 5 6 1 1 2 3 3 -
+p387
+aVFrank Brickowski MIL 02/07/1993 MIL vs. NJN L 37 26 12 18 66.7 0 0 - 2 2 100.0 2 4 6 3 1 0 0 4 -
+p388
+aVEric Murdock MIL 02/07/1993 MIL vs. NJN L 28 18 6 10 60.0 0 0 - 6 12 50.0 3 3 6 6 5 0 4 4 -
+p389
+aVAlvin Robertson MIL 02/07/1993 MIL vs. NJN L 13 4 2 3 66.7 0 0 - 0 0 - 0 4 4 2 0 0 0 3 -
+p390
+aVBlue Edwards MIL 02/07/1993 MIL vs. NJN L 30 10 5 12 41.7 0 1 0.0 0 0 - 1 4 5 5 1 1 1 1 -
+p391
+aVTodd Day MIL 02/07/1993 MIL vs. NJN L 33 14 3 9 33.3 1 1 100.0 7 10 70.0 2 2 4 4 1 3 2 4 -
+p392
+aVBrad Lohaus MIL 02/07/1993 MIL vs. NJN L 15 4 1 2 50.0 1 1 100.0 1 2 50.0 0 3 3 0 0 0 0 0 -
+p393
+aVDan Schayes MIL 02/07/1993 MIL vs. NJN L 11 6 3 5 60.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -
+p394
+aVFred Roberts MIL 02/07/1993 MIL vs. NJN L 20 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -
+p395
+aVLee Mayberry MIL 02/07/1993 MIL vs. NJN L 20 4 1 4 25.0 1 2 50.0 1 2 50.0 1 3 4 2 0 0 1 3 -
+p396
+aVLee Mayberry MIL 02/05/1993 MIL @ CHH L 15 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 4 0 0 1 0 -
+p397
+aVFrank Brickowski MIL 02/05/1993 MIL @ CHH L 31 15 6 12 50.0 0 1 0.0 3 4 75.0 0 5 5 5 0 0 1 4 -
+p398
+aVDan Schayes MIL 02/05/1993 MIL @ CHH L 13 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 0 1 1 1 -
+p399
+aVFred Roberts MIL 02/05/1993 MIL @ CHH L 9 6 1 1 100.0 0 0 - 4 4 100.0 1 0 1 0 1 0 0 1 -
+p400
+aVEric Murdock MIL 02/05/1993 MIL @ CHH L 33 14 6 13 46.2 0 1 0.0 2 3 66.7 4 3 7 11 1 0 4 4 -
+p401
+aVBlue Edwards MIL 02/05/1993 MIL @ CHH L 38 21 9 20 45.0 2 4 50.0 1 2 50.0 3 2 5 2 2 0 0 2 -
+p402
+aVTodd Day MIL 02/05/1993 MIL @ CHH L 36 22 9 17 52.9 2 3 66.7 2 2 100.0 4 5 9 2 2 2 1 4 -
+p403
+aVBrad Lohaus MIL 02/05/1993 MIL @ CHH L 18 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 2 1 0 0 2 -
+p404
+aVAnthony Avent MIL 02/05/1993 MIL @ CHH L 30 22 10 17 58.8 0 0 - 2 2 100.0 2 3 5 1 0 3 2 3 -
+p405
+aVAlvin Robertson MIL 02/05/1993 MIL @ CHH L 17 2 1 8 12.5 0 1 0.0 0 0 - 1 1 2 5 0 0 2 4 -
+p406
+aVDan Schayes MIL 02/03/1993 MIL vs. CLE L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -
+p407
+aVBlue Edwards MIL 02/03/1993 MIL vs. CLE L 24 12 6 13 46.2 0 1 0.0 0 0 - 0 2 2 2 1 0 1 2 -
+p408
+aVFred Roberts MIL 02/03/1993 MIL vs. CLE L 24 13 6 12 50.0 0 0 - 1 2 50.0 0 3 3 3 0 0 1 1 -
+p409
+aVFrank Brickowski MIL 02/03/1993 MIL vs. CLE L 30 16 7 15 46.7 0 1 0.0 2 4 50.0 3 4 7 2 3 0 1 1 -
+p410
+aVTodd Day MIL 02/03/1993 MIL vs. CLE L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 3 2 -
+p411
+aVEric Murdock MIL 02/03/1993 MIL vs. CLE L 26 6 2 7 28.6 0 0 - 2 2 100.0 2 4 6 5 0 1 1 2 -
+p412
+aVLee Mayberry MIL 02/03/1993 MIL vs. CLE L 22 10 5 6 83.3 0 0 - 0 0 - 0 2 2 9 0 0 0 2 -
+p413
+aVAlvin Robertson MIL 02/03/1993 MIL vs. CLE L 28 18 6 12 50.0 3 6 50.0 3 4 75.0 0 3 3 5 5 0 2 5 -
+p414
+aVAnthony Avent MIL 02/03/1993 MIL vs. CLE L 30 8 4 7 57.1 0 0 - 0 0 - 2 4 6 0 1 0 1 3 -
+p415
+aVBrad Lohaus MIL 02/03/1993 MIL vs. CLE L 30 11 5 10 50.0 1 3 33.3 0 0 - 3 2 5 0 0 4 1 3 -
+p416
+aVJon Barry MIL 02/01/1993 MIL vs. GOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p417
+aVTodd Day MIL 02/01/1993 MIL vs. GOS W 39 23 9 15 60.0 0 0 - 5 5 100.0 3 3 6 2 0 1 3 1 -
+p418
+aVBrad Lohaus MIL 02/01/1993 MIL vs. GOS W 16 7 2 6 33.3 0 1 0.0 3 5 60.0 0 1 1 0 4 2 1 5 -
+p419
+aVAnthony Avent MIL 02/01/1993 MIL vs. GOS W 27 14 6 11 54.5 0 0 - 2 2 100.0 4 3 7 2 0 0 2 1 -
+p420
+aVAlvin Robertson MIL 02/01/1993 MIL vs. GOS W 19 5 2 4 50.0 0 1 0.0 1 2 50.0 0 2 2 5 1 0 1 3 -
+p421
+aVDan O'Sullivan MIL 02/01/1993 MIL vs. GOS W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p422
+aVBlue Edwards MIL 02/01/1993 MIL vs. GOS W 30 14 5 10 50.0 0 0 - 4 4 100.0 1 6 7 1 4 1 6 4 -
+p423
+aVLee Mayberry MIL 02/01/1993 MIL vs. GOS W 22 17 6 9 66.7 3 5 60.0 2 2 100.0 2 3 5 1 3 0 2 4 -
+p424
+aVFred Roberts MIL 02/01/1993 MIL vs. GOS W 23 11 5 7 71.4 0 0 - 1 3 33.3 1 6 7 5 2 2 1 3 -
+p425
+aVEric Murdock MIL 02/01/1993 MIL vs. GOS W 28 11 4 6 66.7 2 2 100.0 1 1 100.0 0 2 2 10 3 0 1 2 -
+p426
+aVFrank Brickowski MIL 02/01/1993 MIL vs. GOS W 32 14 5 13 38.5 0 0 - 4 10 40.0 1 3 4 1 1 1 5 4 -
+p427
+aVFred Roberts MIL 01/30/1993 MIL @ MIN L 28 12 6 8 75.0 0 1 0.0 0 0 - 3 3 6 3 0 0 2 2 -
+p428
+aVBrad Lohaus MIL 01/30/1993 MIL @ MIN L 30 9 4 11 36.4 0 2 0.0 1 2 50.0 1 1 2 5 0 2 1 2 -
+p429
+aVAnthony Avent MIL 01/30/1993 MIL @ MIN L 19 5 2 7 28.6 0 0 - 1 2 50.0 2 3 5 3 0 1 0 4 -
+p430
+aVTodd Day MIL 01/30/1993 MIL @ MIN L 28 11 5 12 41.7 1 4 25.0 0 1 0.0 1 1 2 2 3 0 0 2 -
+p431
+aVLee Mayberry MIL 01/30/1993 MIL @ MIN L 15 2 1 3 33.3 0 0 - 0 0 - 1 1 2 4 2 0 0 2 -
+p432
+aVEric Murdock MIL 01/30/1993 MIL @ MIN L 34 18 6 18 33.3 2 5 40.0 4 6 66.7 3 3 6 5 3 1 1 5 -
+p433
+aVBlue Edwards MIL 01/30/1993 MIL @ MIN L 42 13 5 17 29.4 2 3 66.7 1 3 33.3 2 6 8 1 0 1 3 4 -
+p434
+aVFrank Brickowski MIL 01/30/1993 MIL @ MIN L 44 12 5 14 35.7 0 1 0.0 2 2 100.0 3 7 10 1 0 1 6 3 -
+p435
+aVFrank Brickowski MIL 01/28/1993 MIL @ MIA W 32 13 6 11 54.5 0 0 - 1 1 100.0 4 6 10 3 1 1 3 4 -
+p436
+aVFred Roberts MIL 01/28/1993 MIL @ MIA W 28 22 5 7 71.4 1 1 100.0 11 12 91.7 1 7 8 1 0 1 0 4 -
+p437
+aVAlan Ogg MIL 01/28/1993 MIL @ MIA W 3 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p438
+aVAnthony Avent MIL 01/28/1993 MIL @ MIA W 32 17 8 14 57.1 0 0 - 1 2 50.0 4 5 9 1 0 2 1 3 -
+p439
+aVDan Schayes MIL 01/28/1993 MIL @ MIA W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p440
+aVBrad Lohaus MIL 01/28/1993 MIL @ MIA W 21 8 3 8 37.5 2 3 66.7 0 0 - 0 4 4 1 0 1 0 2 -
+p441
+aVLee Mayberry MIL 01/28/1993 MIL @ MIA W 15 0 0 0 - 0 0 - 0 0 - 0 3 3 2 2 0 0 1 -
+p442
+aVBlue Edwards MIL 01/28/1993 MIL @ MIA W 37 16 5 13 38.5 0 1 0.0 6 6 100.0 2 3 5 3 0 1 1 4 -
+p443
+aVJon Barry MIL 01/28/1993 MIL @ MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p444
+aVTodd Day MIL 01/28/1993 MIL @ MIA W 32 10 4 14 28.6 0 2 0.0 2 2 100.0 2 4 6 0 1 0 2 1 -
+p445
+aVEric Murdock MIL 01/28/1993 MIL @ MIA W 33 19 6 13 46.2 0 2 0.0 7 7 100.0 1 5 6 10 5 0 2 2 -
+p446
+aVFrank Brickowski MIL 01/26/1993 MIL vs. HOU W 32 9 4 12 33.3 0 0 - 1 2 50.0 4 3 7 2 1 0 3 6 -
+p447
+aVTodd Day MIL 01/26/1993 MIL vs. HOU W 31 18 6 11 54.5 0 2 0.0 6 6 100.0 0 2 2 0 0 1 3 5 -
+p448
+aVLee Mayberry MIL 01/26/1993 MIL vs. HOU W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -
+p449
+aVBrad Lohaus MIL 01/26/1993 MIL vs. HOU W 21 8 2 4 50.0 1 2 50.0 3 3 100.0 1 4 5 1 0 0 0 0 -
+p450
+aVFred Roberts MIL 01/26/1993 MIL vs. HOU W 27 13 6 8 75.0 1 2 50.0 0 0 - 1 8 9 4 0 1 1 4 -
+p451
+aVDan Schayes MIL 01/26/1993 MIL vs. HOU W 17 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 2 1 3 -
+p452
+aVAnthony Avent MIL 01/26/1993 MIL vs. HOU W 34 8 4 11 36.4 0 0 - 0 0 - 3 5 8 0 0 4 3 3 -
+p453
+aVEric Murdock MIL 01/26/1993 MIL vs. HOU W 43 18 8 18 44.4 0 1 0.0 2 2 100.0 1 0 1 16 3 0 4 0 -
+p454
+aVBlue Edwards MIL 01/26/1993 MIL vs. HOU W 30 24 9 10 90.0 0 0 - 6 10 60.0 0 6 6 0 2 0 2 3 -
+p455
+aVFred Roberts MIL 01/23/1993 MIL vs. PHL L 16 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 5 -
+p456
+aVDan Schayes MIL 01/23/1993 MIL vs. PHL L 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 2 0 2 -
+p457
+aVBrad Lohaus MIL 01/23/1993 MIL vs. PHL L 26 8 4 11 36.4 0 5 0.0 0 0 - 1 5 6 4 2 3 3 5 -
+p458
+aVTodd Day MIL 01/23/1993 MIL vs. PHL L 36 11 4 17 23.5 0 5 0.0 3 3 100.0 5 2 7 0 0 0 1 1 -
+p459
+aVLee Mayberry MIL 01/23/1993 MIL vs. PHL L 25 11 4 6 66.7 3 4 75.0 0 0 - 1 3 4 5 1 0 1 6 -
+p460
+aVBlue Edwards MIL 01/23/1993 MIL vs. PHL L 41 21 9 19 47.4 0 1 0.0 3 5 60.0 9 2 11 7 6 0 3 5 -
+p461
+aVAnthony Avent MIL 01/23/1993 MIL vs. PHL L 11 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 4 0 -
+p462
+aVFrank Brickowski MIL 01/23/1993 MIL vs. PHL L 36 20 10 15 66.7 0 0 - 0 0 - 1 3 4 2 0 1 3 2 -
+p463
+aVEric Murdock MIL 01/23/1993 MIL vs. PHL L 43 21 9 16 56.3 0 0 - 3 7 42.9 3 2 5 9 2 0 4 3 -
+p464
+aVBlue Edwards MIL 01/21/1993 MIL @ IND W 41 27 10 15 66.7 0 0 - 7 9 77.8 0 1 1 4 1 0 1 2 -
+p465
+aVLee Mayberry MIL 01/21/1993 MIL @ IND W 11 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 1 1 2 -
+p466
+aVDan Schayes MIL 01/21/1993 MIL @ IND W 24 2 1 6 16.7 0 0 - 0 0 - 2 3 5 0 1 0 2 4 -
+p467
+aVAnthony Avent MIL 01/21/1993 MIL @ IND W 34 11 5 11 45.5 0 0 - 1 1 100.0 1 8 9 3 1 0 2 0 -
+p468
+aVTodd Day MIL 01/21/1993 MIL @ IND W 40 24 7 11 63.6 2 2 100.0 8 11 72.7 4 6 10 1 1 3 3 3 -
+p469
+aVFred Roberts MIL 01/21/1993 MIL @ IND W 20 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 0 2 1 4 -
+p470
+aVBrad Lohaus MIL 01/21/1993 MIL @ IND W 5 5 2 2 100.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 3 -
+p471
+aVEric Murdock MIL 01/21/1993 MIL @ IND W 37 20 4 11 36.4 0 1 0.0 12 14 85.7 1 4 5 11 2 1 3 3 -
+p472
+aVFrank Brickowski MIL 01/21/1993 MIL @ IND W 28 12 5 7 71.4 0 0 - 2 2 100.0 1 4 5 2 0 0 3 6 -
+p473
+aVFred Roberts MIL 01/19/1993 MIL vs. POR L 29 13 6 6 100.0 1 1 100.0 0 0 - 0 1 1 1 2 1 1 2 -
+p474
+aVAlan Ogg MIL 01/19/1993 MIL vs. POR L 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -
+p475
+aVJon Barry MIL 01/19/1993 MIL vs. POR L 14 4 1 6 16.7 0 2 0.0 2 2 100.0 0 1 1 1 2 0 2 0 -
+p476
+aVTodd Day MIL 01/19/1993 MIL vs. POR L 30 16 5 15 33.3 1 4 25.0 5 6 83.3 2 7 9 3 3 0 2 3 -
+p477
+aVDan Schayes MIL 01/19/1993 MIL vs. POR L 27 10 2 3 66.7 0 0 - 6 8 75.0 2 4 6 1 1 0 1 1 -
+p478
+aVFrank Brickowski MIL 01/19/1993 MIL vs. POR L 33 14 6 17 35.3 0 1 0.0 2 2 100.0 2 6 8 2 3 3 4 2 -
+p479
+aVEric Murdock MIL 01/19/1993 MIL vs. POR L 26 8 4 7 57.1 0 2 0.0 0 0 - 1 1 2 9 3 0 4 2 -
+p480
+aVLee Mayberry MIL 01/19/1993 MIL vs. POR L 22 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 6 0 0 1 2 -
+p481
+aVBlue Edwards MIL 01/19/1993 MIL vs. POR L 28 14 6 13 46.2 0 1 0.0 2 2 100.0 0 3 3 0 1 0 3 3 -
+p482
+aVAnthony Avent MIL 01/19/1993 MIL vs. POR L 19 8 4 10 40.0 0 0 - 0 1 0.0 3 3 6 1 0 0 3 3 -
+p483
+aVJon Barry MIL 01/16/1993 MIL vs. BOS L 10 5 1 2 50.0 1 1 100.0 2 4 50.0 0 1 1 2 1 0 0 0 -
+p484
+aVAnthony Avent MIL 01/16/1993 MIL vs. BOS L 27 6 2 11 18.2 0 0 - 2 3 66.7 2 2 4 1 1 0 1 1 -
+p485
+aVLee Mayberry MIL 01/16/1993 MIL vs. BOS L 39 16 7 15 46.7 2 5 40.0 0 0 - 1 2 3 5 1 0 2 1 -
+p486
+aVFred Roberts MIL 01/16/1993 MIL vs. BOS L 21 2 0 4 0.0 0 0 - 2 2 100.0 2 1 3 4 0 1 0 3 -
+p487
+aVDan Schayes MIL 01/16/1993 MIL vs. BOS L 12 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 0 0 0 2 2 -
+p488
+aVTodd Day MIL 01/16/1993 MIL vs. BOS L 29 16 5 8 62.5 2 2 100.0 4 6 66.7 0 1 1 1 1 1 1 5 -
+p489
+aVFrank Brickowski MIL 01/16/1993 MIL vs. BOS L 44 27 11 16 68.8 0 0 - 5 9 55.6 4 6 10 5 2 1 2 2 -
+p490
+aVBlue Edwards MIL 01/16/1993 MIL vs. BOS L 46 21 9 19 47.4 0 0 - 3 5 60.0 2 3 5 4 4 2 5 3 -
+p491
+aVBrad Lohaus MIL 01/16/1993 MIL vs. BOS L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -
+p492
+aVTodd Day MIL 01/14/1993 MIL vs. SAN L 24 2 1 10 10.0 0 2 0.0 0 0 - 1 2 3 3 1 0 0 4 -
+p493
+aVBlue Edwards MIL 01/14/1993 MIL vs. SAN L 42 16 5 16 31.3 1 2 50.0 5 5 100.0 0 8 8 4 1 0 1 1 -
+p494
+aVAnthony Avent MIL 01/14/1993 MIL vs. SAN L 25 12 6 9 66.7 0 0 - 0 0 - 3 1 4 0 0 1 1 2 -
+p495
+aVJon Barry MIL 01/14/1993 MIL vs. SAN L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p496
+aVLee Mayberry MIL 01/14/1993 MIL vs. SAN L 43 17 6 14 42.9 2 4 50.0 3 5 60.0 1 1 2 7 2 0 3 4 -
+p497
+aVDan Schayes MIL 01/14/1993 MIL vs. SAN L 8 4 2 7 28.6 0 0 - 0 0 - 3 1 4 1 0 0 0 1 -
+p498
+aVBrad Lohaus MIL 01/14/1993 MIL vs. SAN L 28 16 7 12 58.3 2 3 66.7 0 1 0.0 2 2 4 3 1 0 1 6 -
+p499
+aVFrank Brickowski MIL 01/14/1993 MIL vs. SAN L 35 18 9 20 45.0 0 1 0.0 0 0 - 3 7 10 2 0 0 5 1 -
+p500
+aVFred Roberts MIL 01/14/1993 MIL vs. SAN L 30 8 4 8 50.0 0 0 - 0 0 - 0 3 3 2 3 1 0 1 -
+p501
+aVDan Schayes MIL 01/12/1993 MIL @ WAS L 16 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 1 0 0 1 -
+p502
+aVBlue Edwards MIL 01/12/1993 MIL @ WAS L 33 11 4 11 36.4 1 2 50.0 2 2 100.0 0 4 4 1 0 1 2 2 -
+p503
+aVEric Murdock MIL 01/12/1993 MIL @ WAS L 26 16 8 14 57.1 0 2 0.0 0 0 - 3 2 5 4 2 0 1 3 -
+p504
+aVJon Barry MIL 01/12/1993 MIL @ WAS L 16 2 1 6 16.7 0 0 - 0 0 - 0 0 0 3 0 0 0 3 -
+p505
+aVLee Mayberry MIL 01/12/1993 MIL @ WAS L 22 9 4 9 44.4 1 2 50.0 0 0 - 1 1 2 2 1 0 2 3 -
+p506
+aVBrad Lohaus MIL 01/12/1993 MIL @ WAS L 16 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 1 0 1 1 1 -
+p507
+aVAlan Ogg MIL 01/12/1993 MIL @ WAS L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 4 4 2 1 2 2 3 -
+p508
+aVFrank Brickowski MIL 01/12/1993 MIL @ WAS L 15 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 2 0 2 3 2 -
+p509
+aVTodd Day MIL 01/12/1993 MIL @ WAS L 40 26 8 15 53.3 1 1 100.0 9 11 81.8 3 3 6 2 1 0 1 4 -
+p510
+aVFred Roberts MIL 01/12/1993 MIL @ WAS L 18 14 4 7 57.1 0 0 - 6 10 60.0 0 4 4 0 1 0 0 3 -
+p511
+aVAnthony Avent MIL 01/12/1993 MIL @ WAS L 27 8 4 10 40.0 0 0 - 0 2 0.0 5 1 6 1 0 1 1 2 -
+p512
+aVBrad Lohaus MIL 01/10/1993 MIL vs. LAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p513
+aVJon Barry MIL 01/10/1993 MIL vs. LAC L 17 4 2 7 28.6 0 1 0.0 0 2 0.0 0 0 0 0 0 0 1 2 -
+p514
+aVFrank Brickowski MIL 01/10/1993 MIL vs. LAC L 36 19 7 15 46.7 0 1 0.0 5 5 100.0 1 7 8 2 2 1 4 5 -
+p515
+aVFred Roberts MIL 01/10/1993 MIL vs. LAC L 10 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 3 0 0 0 1 -
+p516
+aVDan Schayes MIL 01/10/1993 MIL vs. LAC L 15 2 1 3 33.3 0 0 - 0 2 0.0 0 2 2 0 1 1 0 3 -
+p517
+aVEric Murdock MIL 01/10/1993 MIL vs. LAC L 36 20 8 14 57.1 1 2 50.0 3 5 60.0 1 1 2 8 2 0 1 5 -
+p518
+aVLee Mayberry MIL 01/10/1993 MIL vs. LAC L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 4 3 0 0 1 -
+p519
+aVBlue Edwards MIL 01/10/1993 MIL vs. LAC L 43 36 13 22 59.1 1 2 50.0 9 11 81.8 6 5 11 1 0 0 1 5 -
+p520
+aVTodd Day MIL 01/10/1993 MIL vs. LAC L 32 8 3 12 25.0 0 5 0.0 2 4 50.0 1 4 5 5 3 0 4 5 -
+p521
+aVAnthony Avent MIL 01/10/1993 MIL vs. LAC L 34 6 3 3 100.0 0 0 - 0 0 - 1 5 6 2 0 1 3 4 -
+p522
+aVEric Murdock MIL 01/08/1993 MIL @ CHI L 25 6 2 7 28.6 0 0 - 2 3 66.7 0 2 2 8 0 0 1 0 -
+p523
+aVBrad Lohaus MIL 01/08/1993 MIL @ CHI L 10 10 4 11 36.4 2 3 66.7 0 0 - 0 0 0 0 0 0 0 1 -
+p524
+aVTodd Day MIL 01/08/1993 MIL @ CHI L 29 20 7 17 41.2 2 4 50.0 4 7 57.1 3 3 6 1 0 0 1 2 -
+p525
+aVBlue Edwards MIL 01/08/1993 MIL @ CHI L 23 10 5 9 55.6 0 0 - 0 0 - 1 1 2 4 0 0 2 4 -
+p526
+aVJon Barry MIL 01/08/1993 MIL @ CHI L 8 6 3 3 100.0 0 0 - 0 0 - 0 2 2 3 2 0 0 0 -
+p527
+aVDan Schayes MIL 01/08/1993 MIL @ CHI L 21 0 0 2 0.0 0 0 - 0 0 - 1 3 4 2 0 0 1 0 -
+p528
+aVAnthony Avent MIL 01/08/1993 MIL @ CHI L 43 16 8 13 61.5 0 0 - 0 0 - 1 8 9 2 1 0 2 3 -
+p529
+aVFrank Brickowski MIL 01/08/1993 MIL @ CHI L 31 16 8 12 66.7 0 0 - 0 0 - 1 4 5 2 2 0 3 4 -
+p530
+aVFred Roberts MIL 01/08/1993 MIL @ CHI L 27 6 3 10 30.0 0 1 0.0 0 0 - 2 2 4 3 1 0 6 2 -
+p531
+aVLee Mayberry MIL 01/08/1993 MIL @ CHI L 23 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 5 1 0 1 0 -
+p532
+aVFrank Brickowski MIL 01/07/1993 MIL vs. ATL L 42 24 10 19 52.6 1 1 100.0 3 4 75.0 2 6 8 7 1 2 1 5 -
+p533
+aVLee Mayberry MIL 01/07/1993 MIL vs. ATL L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -
+p534
+aVDan Schayes MIL 01/07/1993 MIL vs. ATL L 24 11 3 6 50.0 0 0 - 5 6 83.3 2 1 3 2 1 0 2 1 -
+p535
+aVTodd Day MIL 01/07/1993 MIL vs. ATL L 23 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 3 1 1 0 4 -
+p536
+aVBlue Edwards MIL 01/07/1993 MIL vs. ATL L 40 18 7 16 43.8 2 4 50.0 2 2 100.0 1 4 5 3 1 0 2 4 -
+p537
+aVEric Murdock MIL 01/07/1993 MIL vs. ATL L 38 19 8 15 53.3 1 3 33.3 2 2 100.0 0 3 3 7 3 0 4 1 -
+p538
+aVAnthony Avent MIL 01/07/1993 MIL vs. ATL L 28 4 2 7 28.6 0 0 - 0 0 - 1 3 4 2 2 1 1 2 -
+p539
+aVBrad Lohaus MIL 01/07/1993 MIL vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p540
+aVJon Barry MIL 01/07/1993 MIL vs. ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p541
+aVFred Roberts MIL 01/07/1993 MIL vs. ATL L 31 12 5 8 62.5 1 1 100.0 1 2 50.0 0 1 1 2 1 0 3 4 -
+p542
+aVAnthony Avent MIL 01/05/1993 MIL vs. MIN W 36 18 7 9 77.8 0 0 - 4 4 100.0 2 4 6 3 1 0 3 2 -
+p543
+aVLee Mayberry MIL 01/05/1993 MIL vs. MIN W 13 6 2 3 66.7 0 0 - 2 3 66.7 0 2 2 2 0 0 2 1 -
+p544
+aVTodd Day MIL 01/05/1993 MIL vs. MIN W 19 12 6 13 46.2 0 3 0.0 0 0 - 3 0 3 2 0 2 1 3 -
+p545
+aVFred Roberts MIL 01/05/1993 MIL vs. MIN W 39 15 5 7 71.4 0 0 - 5 8 62.5 0 1 1 9 2 0 0 0 -
+p546
+aVEric Murdock MIL 01/05/1993 MIL vs. MIN W 35 13 5 12 41.7 1 2 50.0 2 2 100.0 0 1 1 9 6 0 1 4 -
+p547
+aVDan Schayes MIL 01/05/1993 MIL vs. MIN W 28 15 6 11 54.5 0 0 - 3 3 100.0 4 11 15 2 1 1 3 3 -
+p548
+aVBlue Edwards MIL 01/05/1993 MIL vs. MIN W 38 14 5 15 33.3 0 0 - 4 7 57.1 0 5 5 1 3 1 1 2 -
+p549
+aVBrad Lohaus MIL 01/05/1993 MIL vs. MIN W 7 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 0 -
+p550
+aVFrank Brickowski MIL 01/05/1993 MIL vs. MIN W 25 21 9 12 75.0 0 0 - 3 4 75.0 3 4 7 1 0 1 5 5 -
+p551
+aVBlue Edwards MIL 01/03/1993 MIL vs. LAL W 37 19 9 12 75.0 0 0 - 1 4 25.0 2 3 5 5 5 0 2 4 -
+p552
+aVAnthony Avent MIL 01/03/1993 MIL vs. LAL W 31 15 6 11 54.5 0 0 - 3 4 75.0 1 2 3 0 0 0 0 3 -
+p553
+aVLee Mayberry MIL 01/03/1993 MIL vs. LAL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p554
+aVBrad Lohaus MIL 01/03/1993 MIL vs. LAL W 13 5 2 3 66.7 1 2 50.0 0 0 - 1 3 4 0 0 1 1 0 -
+p555
+aVFred Roberts MIL 01/03/1993 MIL vs. LAL W 30 14 6 9 66.7 0 0 - 2 2 100.0 1 2 3 4 2 1 0 0 -
+p556
+aVFrank Brickowski MIL 01/03/1993 MIL vs. LAL W 33 18 8 10 80.0 0 0 - 2 2 100.0 2 5 7 1 1 0 1 3 -
+p557
+aVDan Schayes MIL 01/03/1993 MIL vs. LAL W 26 6 3 7 42.9 0 0 - 0 0 - 0 4 4 4 1 0 0 4 -
+p558
+aVTodd Day MIL 01/03/1993 MIL vs. LAL W 22 9 4 12 33.3 1 4 25.0 0 0 - 2 1 3 0 3 1 0 5 -
+p559
+aVEric Murdock MIL 01/03/1993 MIL vs. LAL W 44 23 9 20 45.0 0 1 0.0 5 8 62.5 1 1 2 11 5 0 1 2 -
+p560
+aVFred Roberts MIL 01/02/1993 MIL @ ATL W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p561
+aVBrad Lohaus MIL 01/02/1993 MIL @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -
+p562
+aVFrank Brickowski MIL 01/02/1993 MIL @ ATL W 29 13 5 10 50.0 1 1 100.0 2 2 100.0 2 4 6 1 1 0 4 4 -
+p563
+aVLee Mayberry MIL 01/02/1993 MIL @ ATL W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -
+p564
+aVDan Schayes MIL 01/02/1993 MIL @ ATL W 30 16 5 8 62.5 0 0 - 6 7 85.7 1 4 5 3 1 1 3 4 -
+p565
+aVEric Murdock MIL 01/02/1993 MIL @ ATL W 37 24 10 13 76.9 2 2 100.0 2 3 66.7 0 3 3 8 2 1 4 4 -
+p566
+aVJon Barry MIL 01/02/1993 MIL @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p567
+aVAnthony Avent MIL 01/02/1993 MIL @ ATL W 28 4 1 4 25.0 0 0 - 2 4 50.0 0 4 4 1 1 3 0 4 -
+p568
+aVBlue Edwards MIL 01/02/1993 MIL @ ATL W 43 31 13 19 68.4 1 2 50.0 4 4 100.0 4 3 7 0 1 2 3 3 -
+p569
+aVTodd Day MIL 01/02/1993 MIL @ ATL W 23 10 4 10 40.0 0 3 0.0 2 3 66.7 1 3 4 2 2 0 3 4 -
+p570
+aVAlvin Robertson MIL 01/02/1993 MIL @ ATL W 29 6 2 9 22.2 0 1 0.0 2 4 50.0 2 3 5 3 3 0 0 2 -
+p571
+aVAnthony Pullard MIL 12/28/1992 MIL @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p572
+aVLee Mayberry MIL 12/28/1992 MIL @ ORL L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -
+p573
+aVBlue Edwards MIL 12/28/1992 MIL @ ORL L 33 18 8 14 57.1 1 2 50.0 1 3 33.3 3 0 3 0 1 1 0 5 -
+p574
+aVDan Schayes MIL 12/28/1992 MIL @ ORL L 22 4 0 3 0.0 0 0 - 4 4 100.0 0 4 4 1 2 0 1 2 -
+p575
+aVAnthony Avent MIL 12/28/1992 MIL @ ORL L 34 16 8 15 53.3 0 0 - 0 0 - 1 4 5 2 0 2 2 4 -
+p576
+aVAlvin Robertson MIL 12/28/1992 MIL @ ORL L 32 8 3 7 42.9 1 2 50.0 1 2 50.0 1 1 2 3 1 0 1 3 -
+p577
+aVEric Murdock MIL 12/28/1992 MIL @ ORL L 34 18 6 16 37.5 0 1 0.0 6 7 85.7 3 2 5 6 3 0 1 2 -
+p578
+aVFrank Brickowski MIL 12/28/1992 MIL @ ORL L 20 8 3 7 42.9 0 0 - 2 2 100.0 2 0 2 1 2 2 4 5 -
+p579
+aVTodd Day MIL 12/28/1992 MIL @ ORL L 18 12 3 13 23.1 2 6 33.3 4 4 100.0 0 1 1 1 0 0 0 6 -
+p580
+aVBrad Lohaus MIL 12/28/1992 MIL @ ORL L 18 3 1 9 11.1 1 5 20.0 0 0 - 2 3 5 2 1 0 0 2 -
+p581
+aVFred Roberts MIL 12/28/1992 MIL @ ORL L 13 5 2 5 40.0 0 1 0.0 1 2 50.0 1 1 2 1 1 0 1 0 -
+p582
+aVJon Barry MIL 12/28/1992 MIL @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p583
+aVFrank Brickowski MIL 12/26/1992 MIL vs. NYK W 46 20 9 14 64.3 0 0 - 2 5 40.0 1 4 5 6 0 1 2 3 -
+p584
+aVEric Murdock MIL 12/26/1992 MIL vs. NYK W 21 2 0 4 0.0 0 0 - 2 2 100.0 0 4 4 4 1 0 2 4 -
+p585
+aVDan Schayes MIL 12/26/1992 MIL vs. NYK W 20 4 2 4 50.0 0 0 - 0 0 - 1 4 5 2 0 0 2 3 -
+p586
+aVAlvin Robertson MIL 12/26/1992 MIL vs. NYK W 25 7 3 7 42.9 0 1 0.0 1 2 50.0 2 1 3 4 0 0 3 5 -
+p587
+aVTodd Day MIL 12/26/1992 MIL vs. NYK W 34 22 7 14 50.0 3 4 75.0 5 7 71.4 3 0 3 0 1 2 3 5 -
+p588
+aVLee Mayberry MIL 12/26/1992 MIL vs. NYK W 32 9 4 7 57.1 1 3 33.3 0 0 - 0 2 2 4 1 0 3 3 -
+p589
+aVAnthony Avent MIL 12/26/1992 MIL vs. NYK W 40 17 8 14 57.1 0 1 0.0 1 2 50.0 3 6 9 0 0 1 1 4 -
+p590
+aVBlue Edwards MIL 12/26/1992 MIL vs. NYK W 47 21 7 17 41.2 3 3 100.0 4 4 100.0 1 4 5 6 2 1 3 2 -
+p591
+aVFrank Brickowski MIL 12/22/1992 MIL vs. SAC L 31 20 8 12 66.7 0 0 - 4 5 80.0 3 1 4 2 0 0 2 4 -
+p592
+aVBrad Lohaus MIL 12/22/1992 MIL vs. SAC L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -
+p593
+aVAlvin Robertson MIL 12/22/1992 MIL vs. SAC L 26 3 1 10 10.0 0 3 0.0 1 4 25.0 3 3 6 6 3 0 1 3 -
+p594
+aVAnthony Avent MIL 12/22/1992 MIL vs. SAC L 35 14 7 16 43.8 0 1 0.0 0 0 - 5 5 10 2 0 0 2 2 -
+p595
+aVFred Roberts MIL 12/22/1992 MIL vs. SAC L 26 8 2 5 40.0 0 0 - 4 4 100.0 1 1 2 3 4 0 1 2 -
+p596
+aVBlue Edwards MIL 12/22/1992 MIL vs. SAC L 40 12 6 18 33.3 0 1 0.0 0 0 - 2 3 5 3 0 2 2 6 -
+p597
+aVEric Murdock MIL 12/22/1992 MIL vs. SAC L 47 30 11 21 52.4 0 2 0.0 8 12 66.7 4 11 15 4 2 0 5 3 -
+p598
+aVDan Schayes MIL 12/22/1992 MIL vs. SAC L 31 8 2 6 33.3 0 0 - 4 6 66.7 2 4 6 4 0 1 0 4 -
+p599
+aVTodd Day MIL 12/22/1992 MIL vs. SAC L 18 2 0 6 0.0 0 3 0.0 2 2 100.0 0 0 0 1 1 0 2 3 -
+p600
+aVLee Mayberry MIL 12/22/1992 MIL vs. SAC L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p601
+aVBrad Lohaus MIL 12/19/1992 MIL vs. DET L 23 10 4 10 40.0 1 4 25.0 1 1 100.0 2 0 2 3 0 1 0 2 -
+p602
+aVFrank Brickowski MIL 12/19/1992 MIL vs. DET L 38 22 10 14 71.4 0 0 - 2 3 66.7 4 6 10 4 2 2 5 3 -
+p603
+aVEric Murdock MIL 12/19/1992 MIL vs. DET L 24 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 2 2 0 4 3 -
+p604
+aVLee Mayberry MIL 12/19/1992 MIL vs. DET L 24 3 1 4 25.0 1 1 100.0 0 2 0.0 0 1 1 5 0 1 2 4 -
+p605
+aVBlue Edwards MIL 12/19/1992 MIL vs. DET L 35 26 10 16 62.5 0 0 - 6 7 85.7 2 1 3 2 0 0 1 2 -
+p606
+aVFred Roberts MIL 12/19/1992 MIL vs. DET L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 -
+p607
+aVDan Schayes MIL 12/19/1992 MIL vs. DET L 11 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p608
+aVAnthony Avent MIL 12/19/1992 MIL vs. DET L 21 0 0 6 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 0 -
+p609
+aVTodd Day MIL 12/19/1992 MIL vs. DET L 29 17 7 13 53.8 0 2 0.0 3 5 60.0 5 3 8 1 3 0 1 2 -
+p610
+aVAlvin Robertson MIL 12/19/1992 MIL vs. DET L 30 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 5 3 0 3 1 -
+p611
+aVDan Schayes MIL 12/17/1992 MIL vs. NJN L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p612
+aVEric Murdock MIL 12/17/1992 MIL vs. NJN L 29 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 9 4 0 1 1 -
+p613
+aVLee Mayberry MIL 12/17/1992 MIL vs. NJN L 19 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 1 1 0 0 3 -
+p614
+aVBrad Lohaus MIL 12/17/1992 MIL vs. NJN L 18 7 2 4 50.0 1 1 100.0 2 2 100.0 0 0 0 1 1 2 0 2 -
+p615
+aVBlue Edwards MIL 12/17/1992 MIL vs. NJN L 24 14 7 10 70.0 0 0 - 0 0 - 1 2 3 2 2 0 0 2 -
+p616
+aVAnthony Avent MIL 12/17/1992 MIL vs. NJN L 33 13 6 9 66.7 0 0 - 1 2 50.0 3 4 7 1 1 1 4 3 -
+p617
+aVAlvin Robertson MIL 12/17/1992 MIL vs. NJN L 33 18 7 10 70.0 1 1 100.0 3 3 100.0 0 4 4 6 3 0 3 5 -
+p618
+aVFred Roberts MIL 12/17/1992 MIL vs. NJN L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p619
+aVTodd Day MIL 12/17/1992 MIL vs. NJN L 30 14 5 10 50.0 1 1 100.0 3 6 50.0 0 4 4 4 0 1 1 2 -
+p620
+aVFrank Brickowski MIL 12/17/1992 MIL vs. NJN L 40 19 8 13 61.5 0 0 - 3 3 100.0 1 7 8 1 0 2 8 2 -
+p621
+aVFrank Brickowski MIL 12/15/1992 MIL @ SEA L 38 22 10 16 62.5 0 1 0.0 2 2 100.0 3 7 10 5 1 1 7 4 -
+p622
+aVBlue Edwards MIL 12/15/1992 MIL @ SEA L 20 6 3 10 30.0 0 0 - 0 0 - 0 2 2 3 1 0 2 2 -
+p623
+aVBrad Lohaus MIL 12/15/1992 MIL @ SEA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p624
+aVEric Murdock MIL 12/15/1992 MIL @ SEA L 35 16 6 15 40.0 0 2 0.0 4 5 80.0 2 2 4 7 1 0 3 1 -
+p625
+aVFred Roberts MIL 12/15/1992 MIL @ SEA L 20 9 3 5 60.0 0 0 - 3 4 75.0 1 3 4 1 1 0 1 0 -
+p626
+aVTodd Day MIL 12/15/1992 MIL @ SEA L 20 15 4 7 57.1 1 3 33.3 6 6 100.0 0 0 0 0 1 0 1 3 -
+p627
+aVLee Mayberry MIL 12/15/1992 MIL @ SEA L 13 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -
+p628
+aVAnthony Avent MIL 12/15/1992 MIL @ SEA L 42 18 9 13 69.2 0 0 - 0 0 - 2 9 11 0 2 2 7 4 -
+p629
+aVDan Schayes MIL 12/15/1992 MIL @ SEA L 15 6 2 3 66.7 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 2 -
+p630
+aVAlvin Robertson MIL 12/15/1992 MIL @ SEA L 36 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 6 3 0 1 5 -
+p631
+aVDan Schayes MIL 12/13/1992 MIL @ LAL L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -
+p632
+aVEric Murdock MIL 12/13/1992 MIL @ LAL L 37 25 10 16 62.5 1 1 100.0 4 4 100.0 3 2 5 11 3 0 2 1 -
+p633
+aVJon Barry MIL 12/13/1992 MIL @ LAL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -
+p634
+aVFred Roberts MIL 12/13/1992 MIL @ LAL L 26 16 6 11 54.5 0 0 - 4 6 66.7 1 3 4 1 1 0 1 3 -
+p635
+aVTodd Day MIL 12/13/1992 MIL @ LAL L 25 20 7 9 77.8 1 1 100.0 5 7 71.4 0 1 1 1 2 2 1 5 -
+p636
+aVAlvin Robertson MIL 12/13/1992 MIL @ LAL L 28 9 4 9 44.4 1 2 50.0 0 0 - 2 4 6 1 2 0 3 4 -
+p637
+aVBrad Lohaus MIL 12/13/1992 MIL @ LAL L 18 1 0 6 0.0 0 2 0.0 1 2 50.0 0 2 2 1 0 1 0 2 -
+p638
+aVFrank Brickowski MIL 12/13/1992 MIL @ LAL L 37 14 4 12 33.3 0 0 - 6 6 100.0 1 5 6 1 0 0 4 3 -
+p639
+aVLee Mayberry MIL 12/13/1992 MIL @ LAL L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 1 1 1 -
+p640
+aVBlue Edwards MIL 12/13/1992 MIL @ LAL L 23 3 1 8 12.5 0 0 - 1 2 50.0 4 2 6 2 2 0 2 4 -
+p641
+aVAnthony Avent MIL 12/13/1992 MIL @ LAL L 20 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -
+p642
+aVAnthony Pullard MIL 12/13/1992 MIL @ LAL L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p643
+aVAnthony Avent MIL 12/12/1992 MIL @ UTH L 28 1 0 7 0.0 0 0 - 1 2 50.0 3 2 5 3 1 0 2 3 -
+p644
+aVTodd Day MIL 12/12/1992 MIL @ UTH L 23 6 3 11 27.3 0 3 0.0 0 0 - 3 2 5 0 0 0 0 3 -
+p645
+aVBrad Lohaus MIL 12/12/1992 MIL @ UTH L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 1 1 0 -
+p646
+aVLee Mayberry MIL 12/12/1992 MIL @ UTH L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 3 -
+p647
+aVDan Schayes MIL 12/12/1992 MIL @ UTH L 30 8 4 9 44.4 0 0 - 0 0 - 4 5 9 0 2 1 0 5 -
+p648
+aVFrank Brickowski MIL 12/12/1992 MIL @ UTH L 32 19 9 14 64.3 0 0 - 1 3 33.3 2 4 6 2 2 1 5 3 -
+p649
+aVAlvin Robertson MIL 12/12/1992 MIL @ UTH L 25 8 4 6 66.7 0 1 0.0 0 0 - 3 0 3 0 2 0 2 3 -
+p650
+aVBlue Edwards MIL 12/12/1992 MIL @ UTH L 32 18 8 14 57.1 0 1 0.0 2 2 100.0 1 4 5 1 2 2 3 2 -
+p651
+aVJon Barry MIL 12/12/1992 MIL @ UTH L 7 4 1 4 25.0 0 1 0.0 2 4 50.0 1 0 1 2 0 0 2 0 -
+p652
+aVFred Roberts MIL 12/12/1992 MIL @ UTH L 13 3 1 3 33.3 0 0 - 1 1 100.0 2 0 2 0 0 0 0 0 -
+p653
+aVAnthony Pullard MIL 12/12/1992 MIL @ UTH L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p654
+aVEric Murdock MIL 12/12/1992 MIL @ UTH L 31 14 4 11 36.4 0 2 0.0 6 9 66.7 1 2 3 3 2 0 4 3 -
+p655
+aVTodd Day MIL 12/10/1992 MIL @ GOS L 30 21 9 16 56.3 2 3 66.7 1 2 50.0 3 3 6 3 2 0 1 3 -
+p656
+aVFred Roberts MIL 12/10/1992 MIL @ GOS L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 1 1 -
+p657
+aVAnthony Avent MIL 12/10/1992 MIL @ GOS L 35 18 9 16 56.3 0 0 - 0 0 - 3 5 8 0 1 1 2 4 -
+p658
+aVBlue Edwards MIL 12/10/1992 MIL @ GOS L 33 28 11 21 52.4 0 2 0.0 6 9 66.7 3 4 7 1 3 1 3 5 -
+p659
+aVBrad Lohaus MIL 12/10/1992 MIL @ GOS L 18 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 4 0 1 1 3 -
+p660
+aVJon Barry MIL 12/10/1992 MIL @ GOS L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p661
+aVEric Murdock MIL 12/10/1992 MIL @ GOS L 23 4 2 11 18.2 0 1 0.0 0 0 - 2 0 2 4 0 0 2 3 -
+p662
+aVFrank Brickowski MIL 12/10/1992 MIL @ GOS L 24 11 5 8 62.5 0 0 - 1 4 25.0 3 1 4 3 0 0 1 4 -
+p663
+aVAlvin Robertson MIL 12/10/1992 MIL @ GOS L 38 14 4 10 40.0 0 2 0.0 6 8 75.0 5 3 8 6 4 1 3 3 -
+p664
+aVLee Mayberry MIL 12/10/1992 MIL @ GOS L 24 3 1 5 20.0 0 2 0.0 1 2 50.0 0 1 1 4 1 0 3 4 -
+p665
+aVFred Roberts MIL 12/08/1992 MIL @ POR L 18 7 3 9 33.3 0 0 - 1 1 100.0 1 4 5 2 0 2 1 4 -
+p666
+aVJon Barry MIL 12/08/1992 MIL @ POR L 3 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 0 -
+p667
+aVLee Mayberry MIL 12/08/1992 MIL @ POR L 16 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 0 0 1 0 -
+p668
+aVTodd Day MIL 12/08/1992 MIL @ POR L 29 14 5 13 38.5 2 5 40.0 2 2 100.0 2 3 5 1 1 0 1 4 -
+p669
+aVAnthony Avent MIL 12/08/1992 MIL @ POR L 26 10 3 9 33.3 0 0 - 4 8 50.0 7 1 8 3 1 0 3 4 -
+p670
+aVBlue Edwards MIL 12/08/1992 MIL @ POR L 28 17 8 16 50.0 0 1 0.0 1 1 100.0 1 2 3 2 1 0 3 2 -
+p671
+aVDan Schayes MIL 12/08/1992 MIL @ POR L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p672
+aVBrad Lohaus MIL 12/08/1992 MIL @ POR L 20 3 0 4 0.0 0 2 0.0 3 4 75.0 0 2 2 1 1 0 1 5 -
+p673
+aVAlvin Robertson MIL 12/08/1992 MIL @ POR L 19 3 1 7 14.3 1 3 33.3 0 0 - 1 1 2 0 1 0 3 4 -
+p674
+aVEric Murdock MIL 12/08/1992 MIL @ POR L 32 21 8 13 61.5 2 3 66.7 3 4 75.0 0 1 1 11 3 0 3 2 -
+p675
+aVAnthony Pullard MIL 12/08/1992 MIL @ POR L 16 6 3 4 75.0 0 0 - 0 0 - 0 4 4 1 1 1 3 3 -
+p676
+aVFrank Brickowski MIL 12/08/1992 MIL @ POR L 26 10 5 14 35.7 0 0 - 0 0 - 2 3 5 0 2 0 2 2 -
+p677
+aVTodd Day MIL 12/06/1992 MIL vs. PHX L 20 14 6 9 66.7 1 1 100.0 1 1 100.0 0 4 4 0 0 1 1 5 -
+p678
+aVBrad Lohaus MIL 12/06/1992 MIL vs. PHX L 21 10 4 8 50.0 2 4 50.0 0 0 - 0 4 4 3 1 0 2 3 -
+p679
+aVFrank Brickowski MIL 12/06/1992 MIL vs. PHX L 27 15 5 13 38.5 0 0 - 5 6 83.3 1 2 3 2 0 1 4 3 -
+p680
+aVAnthony Pullard MIL 12/06/1992 MIL vs. PHX L 4 4 2 4 50.0 0 0 - 0 1 0.0 0 0 0 1 0 0 0 0 -
+p681
+aVLee Mayberry MIL 12/06/1992 MIL vs. PHX L 28 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 7 0 0 2 0 -
+p682
+aVBlue Edwards MIL 12/06/1992 MIL vs. PHX L 29 19 9 11 81.8 1 1 100.0 0 1 0.0 2 3 5 4 2 0 6 4 -
+p683
+aVEric Murdock MIL 12/06/1992 MIL vs. PHX L 20 9 4 7 57.1 1 1 100.0 0 0 - 0 3 3 6 1 0 1 1 -
+p684
+aVDan Schayes MIL 12/06/1992 MIL vs. PHX L 12 0 0 4 0.0 0 0 - 0 0 - 2 4 6 4 0 1 1 1 -
+p685
+aVFred Roberts MIL 12/06/1992 MIL vs. PHX L 13 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 1 1 1 0 2 -
+p686
+aVAlvin Robertson MIL 12/06/1992 MIL vs. PHX L 29 12 5 8 62.5 0 1 0.0 2 2 100.0 1 1 2 4 2 0 4 1 -
+p687
+aVAnthony Avent MIL 12/06/1992 MIL vs. PHX L 37 19 9 14 64.3 0 0 - 1 2 50.0 0 3 3 3 2 1 4 3 -
+p688
+aVTodd Day MIL 12/05/1992 MIL @ NYK L 25 19 9 14 64.3 0 1 0.0 1 3 33.3 2 2 4 2 2 0 1 3 -
+p689
+aVLee Mayberry MIL 12/05/1992 MIL @ NYK L 29 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 9 0 0 0 0 -
+p690
+aVDan Schayes MIL 12/05/1992 MIL @ NYK L 26 8 2 6 33.3 0 0 - 4 5 80.0 2 2 4 3 1 1 3 2 -
+p691
+aVBrad Lohaus MIL 12/05/1992 MIL @ NYK L 23 5 2 6 33.3 1 3 33.3 0 0 - 0 4 4 2 0 0 0 2 -
+p692
+aVAnthony Avent MIL 12/05/1992 MIL @ NYK L 28 14 5 13 38.5 0 0 - 4 4 100.0 2 1 3 1 0 0 1 0 -
+p693
+aVAlvin Robertson MIL 12/05/1992 MIL @ NYK L 23 10 5 8 62.5 0 0 - 0 0 - 5 1 6 1 2 0 0 2 -
+p694
+aVEric Murdock MIL 12/05/1992 MIL @ NYK L 19 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 0 0 1 4 -
+p695
+aVFrank Brickowski MIL 12/05/1992 MIL @ NYK L 23 9 4 10 40.0 0 0 - 1 3 33.3 1 1 2 3 0 0 3 4 -
+p696
+aVFred Roberts MIL 12/05/1992 MIL @ NYK L 24 13 6 8 75.0 1 1 100.0 0 0 - 3 4 7 2 1 0 1 1 -
+p697
+aVBlue Edwards MIL 12/05/1992 MIL @ NYK L 20 9 3 9 33.3 0 0 - 3 3 100.0 2 3 5 3 0 0 2 2 -
+p698
+aVBrad Lohaus MIL 12/03/1992 MIL @ WAS L 22 14 5 11 45.5 1 2 50.0 3 3 100.0 0 2 2 1 0 0 2 2 -
+p699
+aVBlue Edwards MIL 12/03/1992 MIL @ WAS L 27 12 4 6 66.7 0 0 - 4 6 66.7 1 0 1 0 4 0 2 3 -
+p700
+aVLee Mayberry MIL 12/03/1992 MIL @ WAS L 18 4 1 4 25.0 1 2 50.0 1 4 25.0 0 1 1 4 1 0 3 4 -
+p701
+aVFred Roberts MIL 12/03/1992 MIL @ WAS L 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 2 3 -
+p702
+aVAnthony Avent MIL 12/03/1992 MIL @ WAS L 32 13 4 16 25.0 0 0 - 5 8 62.5 6 7 13 0 2 1 1 3 -
+p703
+aVAlvin Robertson MIL 12/03/1992 MIL @ WAS L 21 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 1 4 0 4 4 -
+p704
+aVFrank Brickowski MIL 12/03/1992 MIL @ WAS L 31 10 4 7 57.1 0 1 0.0 2 2 100.0 1 6 7 3 0 3 5 4 -
+p705
+aVEric Murdock MIL 12/03/1992 MIL @ WAS L 30 16 7 15 46.7 1 2 50.0 1 2 50.0 0 2 2 10 3 0 3 2 -
+p706
+aVTodd Day MIL 12/03/1992 MIL @ WAS L 27 19 6 14 42.9 2 3 66.7 5 6 83.3 3 0 3 4 1 0 3 3 -
+p707
+aVDan Schayes MIL 12/03/1992 MIL @ WAS L 11 3 0 1 0.0 0 0 - 3 4 75.0 1 1 2 1 1 1 2 1 -
+p708
+aVAnthony Pullard MIL 12/03/1992 MIL @ WAS L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 0 -
+p709
+aVFrank Brickowski MIL 12/02/1992 MIL vs. MIA W 38 23 9 13 69.2 0 0 - 5 7 71.4 4 6 10 6 4 0 4 5 -
+p710
+aVTodd Day MIL 12/02/1992 MIL vs. MIA W 13 7 1 9 11.1 0 6 0.0 5 6 83.3 3 2 5 3 0 1 1 1 -
+p711
+aVDan Schayes MIL 12/02/1992 MIL vs. MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p712
+aVAlaa Abdelnaby MIL 12/02/1992 MIL vs. MIA W 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -
+p713
+aVAlvin Robertson MIL 12/02/1992 MIL vs. MIA W 28 11 4 6 66.7 1 1 100.0 2 2 100.0 1 4 5 5 3 0 3 2 -
+p714
+aVAnthony Avent MIL 12/02/1992 MIL vs. MIA W 42 18 6 13 46.2 0 0 - 6 6 100.0 1 5 6 1 1 3 4 4 -
+p715
+aVLee Mayberry MIL 12/02/1992 MIL vs. MIA W 18 2 1 3 33.3 0 0 - 0 3 0.0 0 1 1 2 2 0 3 1 -
+p716
+aVEric Murdock MIL 12/02/1992 MIL vs. MIA W 30 7 1 7 14.3 0 0 - 5 6 83.3 0 1 1 6 0 0 1 4 -
+p717
+aVBlue Edwards MIL 12/02/1992 MIL vs. MIA W 32 20 9 16 56.3 0 1 0.0 2 3 66.7 0 2 2 1 2 0 5 4 -
+p718
+aVFred Roberts MIL 12/02/1992 MIL vs. MIA W 18 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 1 1 0 0 3 -
+p719
+aVBrad Lohaus MIL 12/02/1992 MIL vs. MIA W 13 4 2 6 33.3 0 3 0.0 0 0 - 1 3 4 0 1 1 0 0 -
+p720
+aVLee Mayberry MIL 11/28/1992 MIL vs. WAS W 15 3 1 5 20.0 0 1 0.0 1 1 100.0 0 1 1 2 1 0 0 5 -
+p721
+aVTodd Day MIL 11/28/1992 MIL vs. WAS W 16 5 2 10 20.0 1 4 25.0 0 0 - 0 1 1 1 1 0 0 2 -
+p722
+aVAlvin Robertson MIL 11/28/1992 MIL vs. WAS W 32 8 4 11 36.4 0 2 0.0 0 0 - 1 2 3 4 6 0 3 5 -
+p723
+aVFrank Brickowski MIL 11/28/1992 MIL vs. WAS W 40 25 7 11 63.6 0 0 - 11 19 57.9 4 7 11 6 2 1 3 0 -
+p724
+aVEric Murdock MIL 11/28/1992 MIL vs. WAS W 33 10 4 11 36.4 0 1 0.0 2 2 100.0 2 3 5 7 1 0 1 2 -
+p725
+aVAlaa Abdelnaby MIL 11/28/1992 MIL vs. WAS W 13 8 4 6 66.7 0 1 0.0 0 0 - 1 2 3 1 0 1 2 1 -
+p726
+aVBrad Lohaus MIL 11/28/1992 MIL vs. WAS W 13 5 2 5 40.0 0 1 0.0 1 2 50.0 1 1 2 0 2 0 2 1 -
+p727
+aVFred Roberts MIL 11/28/1992 MIL vs. WAS W 18 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p728
+aVBlue Edwards MIL 11/28/1992 MIL vs. WAS W 30 11 4 10 40.0 0 0 - 3 3 100.0 0 1 1 2 0 0 3 4 -
+p729
+aVAnthony Avent MIL 11/28/1992 MIL vs. WAS W 30 16 4 7 57.1 0 0 - 8 12 66.7 2 7 9 0 0 1 1 4 -
+p730
+aVBlue Edwards MIL 11/27/1992 MIL @ PHL W 30 26 10 15 66.7 0 0 - 6 6 100.0 1 1 2 3 0 1 2 3 -
+p731
+aVAlaa Abdelnaby MIL 11/27/1992 MIL @ PHL W 8 2 0 5 0.0 0 0 - 2 2 100.0 1 1 2 1 0 1 0 1 -
+p732
+aVEric Murdock MIL 11/27/1992 MIL @ PHL W 28 10 4 8 50.0 0 1 0.0 2 2 100.0 1 5 6 12 4 0 3 1 -
+p733
+aVBrad Lohaus MIL 11/27/1992 MIL @ PHL W 23 7 2 9 22.2 1 6 16.7 2 2 100.0 1 6 7 1 1 2 4 2 -
+p734
+aVTodd Day MIL 11/27/1992 MIL @ PHL W 22 12 3 9 33.3 1 2 50.0 5 5 100.0 2 5 7 1 0 1 2 2 -
+p735
+aVLee Mayberry MIL 11/27/1992 MIL @ PHL W 20 9 3 4 75.0 2 3 66.7 1 2 50.0 0 2 2 2 3 1 0 1 -
+p736
+aVAnthony Avent MIL 11/27/1992 MIL @ PHL W 23 6 3 9 33.3 0 0 - 0 0 - 2 3 5 2 1 0 2 2 -
+p737
+aVFred Roberts MIL 11/27/1992 MIL @ PHL W 17 9 3 6 50.0 0 0 - 3 3 100.0 2 3 5 1 0 1 0 1 -
+p738
+aVDan Schayes MIL 11/27/1992 MIL @ PHL W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 1 -
+p739
+aVFrank Brickowski MIL 11/27/1992 MIL @ PHL W 19 14 4 6 66.7 0 0 - 6 8 75.0 0 3 3 4 1 1 4 5 -
+p740
+aVAlvin Robertson MIL 11/27/1992 MIL @ PHL W 41 18 8 9 88.9 1 1 100.0 1 2 50.0 2 1 3 7 0 0 1 3 -
+p741
+aVEric Murdock MIL 11/25/1992 MIL vs. CLE W 27 10 5 12 41.7 0 0 - 0 0 - 2 2 4 2 0 0 2 1 -
+p742
+aVAnthony Avent MIL 11/25/1992 MIL vs. CLE W 31 10 5 13 38.5 0 0 - 0 0 - 1 6 7 2 0 0 0 1 -
+p743
+aVFrank Brickowski MIL 11/25/1992 MIL vs. CLE W 20 12 5 11 45.5 0 0 - 2 3 66.7 4 1 5 2 1 1 2 4 -
+p744
+aVTodd Day MIL 11/25/1992 MIL vs. CLE W 24 9 3 10 30.0 0 2 0.0 3 4 75.0 2 4 6 3 0 1 1 3 -
+p745
+aVAlaa Abdelnaby MIL 11/25/1992 MIL vs. CLE W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -
+p746
+aVBlue Edwards MIL 11/25/1992 MIL vs. CLE W 33 14 7 17 41.2 0 0 - 0 0 - 4 4 8 5 4 1 1 2 -
+p747
+aVBrad Lohaus MIL 11/25/1992 MIL vs. CLE W 29 18 8 12 66.7 2 5 40.0 0 0 - 0 5 5 1 0 1 2 4 -
+p748
+aVLee Mayberry MIL 11/25/1992 MIL vs. CLE W 21 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 5 0 0 0 1 -
+p749
+aVAlvin Robertson MIL 11/25/1992 MIL vs. CLE W 39 6 3 9 33.3 0 1 0.0 0 0 - 5 3 8 11 7 2 6 3 -
+p750
+aVFred Roberts MIL 11/25/1992 MIL vs. CLE W 10 8 4 6 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -
+p751
+aVBrad Lohaus MIL 11/24/1992 MIL @ CLE L 26 12 5 10 50.0 2 4 50.0 0 0 - 0 3 3 2 0 0 0 5 -
+p752
+aVLee Mayberry MIL 11/24/1992 MIL @ CLE L 14 9 4 4 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 0 -
+p753
+aVEric Murdock MIL 11/24/1992 MIL @ CLE L 34 14 4 11 36.4 0 2 0.0 6 6 100.0 0 2 2 6 1 0 3 1 -
+p754
+aVAnthony Avent MIL 11/24/1992 MIL @ CLE L 30 15 7 11 63.6 0 0 - 1 2 50.0 2 3 5 1 1 1 1 2 -
+p755
+aVFrank Brickowski MIL 11/24/1992 MIL @ CLE L 22 11 4 11 36.4 0 0 - 3 5 60.0 4 1 5 2 1 0 3 6 -
+p756
+aVAlaa Abdelnaby MIL 11/24/1992 MIL @ CLE L 18 10 4 5 80.0 0 0 - 2 2 100.0 1 2 3 1 2 1 3 2 -
+p757
+aVAlvin Robertson MIL 11/24/1992 MIL @ CLE L 33 11 5 8 62.5 0 0 - 1 1 100.0 0 7 7 7 3 0 1 2 -
+p758
+aVBlue Edwards MIL 11/24/1992 MIL @ CLE L 25 6 3 7 42.9 0 0 - 0 0 - 2 2 4 1 2 0 2 4 -
+p759
+aVFred Roberts MIL 11/24/1992 MIL @ CLE L 23 13 3 4 75.0 0 1 0.0 7 10 70.0 3 1 4 0 0 1 3 2 -
+p760
+aVTodd Day MIL 11/24/1992 MIL @ CLE L 15 4 2 6 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p761
+aVAnthony Avent MIL 11/21/1992 MIL vs. IND W 20 6 2 7 28.6 0 0 - 2 2 100.0 2 1 3 1 0 0 2 5 -
+p762
+aVAlvin Robertson MIL 11/21/1992 MIL vs. IND W 34 13 5 10 50.0 2 3 66.7 1 2 50.0 0 5 5 5 3 0 2 3 -
+p763
+aVLee Mayberry MIL 11/21/1992 MIL vs. IND W 11 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 1 0 -
+p764
+aVFred Roberts MIL 11/21/1992 MIL vs. IND W 21 10 4 6 66.7 0 0 - 2 4 50.0 0 1 1 2 0 1 0 4 -
+p765
+aVTodd Day MIL 11/21/1992 MIL vs. IND W 19 7 3 11 27.3 1 3 33.3 0 0 - 3 2 5 1 0 0 1 3 -
+p766
+aVBrad Lohaus MIL 11/21/1992 MIL vs. IND W 23 8 4 9 44.4 0 3 0.0 0 0 - 2 5 7 2 1 1 1 2 -
+p767
+aVEric Murdock MIL 11/21/1992 MIL vs. IND W 37 20 7 10 70.0 0 0 - 6 6 100.0 0 3 3 9 5 0 4 1 -
+p768
+aVBlue Edwards MIL 11/21/1992 MIL vs. IND W 34 12 3 11 27.3 0 0 - 6 9 66.7 3 8 11 2 1 0 1 3 -
+p769
+aVFrank Brickowski MIL 11/21/1992 MIL vs. IND W 21 18 5 8 62.5 0 0 - 8 10 80.0 0 4 4 1 1 0 6 6 -
+p770
+aVAlaa Abdelnaby MIL 11/21/1992 MIL vs. IND W 16 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 2 0 0 2 -
+p771
+aVDan Schayes MIL 11/21/1992 MIL vs. IND W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p772
+aVBrad Lohaus MIL 11/17/1992 MIL @ ATL W 16 3 0 1 0.0 0 1 0.0 3 4 75.0 0 1 1 1 0 0 1 1 -
+p773
+aVAlaa Abdelnaby MIL 11/17/1992 MIL @ ATL W 12 7 3 5 60.0 0 0 - 1 1 100.0 1 0 1 0 1 0 3 2 -
+p774
+aVFred Roberts MIL 11/17/1992 MIL @ ATL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p775
+aVDan Schayes MIL 11/17/1992 MIL @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p776
+aVFrank Brickowski MIL 11/17/1992 MIL @ ATL W 26 22 6 7 85.7 0 0 - 10 13 76.9 2 3 5 1 2 0 3 5 -
+p777
+aVLee Mayberry MIL 11/17/1992 MIL @ ATL W 15 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 5 1 0 0 1 -
+p778
+aVEric Murdock MIL 11/17/1992 MIL @ ATL W 33 22 6 9 66.7 0 3 0.0 10 10 100.0 1 2 3 5 3 0 7 4 -
+p779
+aVBlue Edwards MIL 11/17/1992 MIL @ ATL W 32 8 2 7 28.6 0 2 0.0 4 4 100.0 1 2 3 6 1 1 5 1 -
+p780
+aVAnthony Avent MIL 11/17/1992 MIL @ ATL W 39 19 9 15 60.0 0 0 - 1 3 33.3 1 7 8 1 0 1 0 4 -
+p781
+aVAlvin Robertson MIL 11/17/1992 MIL @ ATL W 41 20 9 15 60.0 0 2 0.0 2 3 66.7 1 9 10 9 7 0 3 4 -
+p782
+aVTodd Day MIL 11/17/1992 MIL @ ATL W 20 10 3 11 27.3 0 2 0.0 4 5 80.0 2 4 6 2 1 3 3 3 -
+p783
+aVAlaa Abdelnaby MIL 11/15/1992 MIL vs. DEN W 14 5 2 7 28.6 0 0 - 1 2 50.0 1 2 3 1 0 1 2 3 -
+p784
+aVDan Schayes MIL 11/15/1992 MIL vs. DEN W 16 9 3 5 60.0 0 0 - 3 3 100.0 0 6 6 1 0 0 1 4 -
+p785
+aVEric Murdock MIL 11/15/1992 MIL vs. DEN W 41 12 4 13 30.8 0 0 - 4 6 66.7 2 6 8 10 1 0 4 1 -
+p786
+aVTodd Day MIL 11/15/1992 MIL vs. DEN W 16 5 1 4 25.0 0 1 0.0 3 10 30.0 2 2 4 1 2 0 0 4 -
+p787
+aVAnthony Avent MIL 11/15/1992 MIL vs. DEN W 34 28 12 17 70.6 0 0 - 4 8 50.0 3 5 8 3 3 1 5 3 -
+p788
+aVFred Roberts MIL 11/15/1992 MIL vs. DEN W 12 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -
+p789
+aVAlvin Robertson MIL 11/15/1992 MIL vs. DEN W 29 7 3 9 33.3 0 0 - 1 1 100.0 2 1 3 7 5 1 1 4 -
+p790
+aVBrad Lohaus MIL 11/15/1992 MIL vs. DEN W 30 13 5 8 62.5 3 4 75.0 0 0 - 2 3 5 2 0 1 1 4 -
+p791
+aVLee Mayberry MIL 11/15/1992 MIL vs. DEN W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 -
+p792
+aVBlue Edwards MIL 11/15/1992 MIL vs. DEN W 39 32 12 17 70.6 0 1 0.0 8 8 100.0 3 6 9 5 1 1 3 4 -
+p793
+aVAnthony Pullard MIL 11/15/1992 MIL vs. DEN W 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p794
+aVLee Mayberry MIL 11/13/1992 MIL vs. CHI L 8 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 1 2 0 0 3 -
+p795
+aVAlvin Robertson MIL 11/13/1992 MIL vs. CHI L 21 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 3 0 0 0 2 -
+p796
+aVAlaa Abdelnaby MIL 11/13/1992 MIL vs. CHI L 15 2 1 4 25.0 0 0 - 0 0 - 2 5 7 2 1 0 1 0 -
+p797
+aVAnthony Avent MIL 11/13/1992 MIL vs. CHI L 15 6 2 7 28.6 0 0 - 2 2 100.0 3 3 6 0 0 0 4 2 -
+p798
+aVTodd Day MIL 11/13/1992 MIL vs. CHI L 27 12 5 16 31.3 2 4 50.0 0 0 - 3 1 4 2 1 2 1 4 -
+p799
+aVFred Roberts MIL 11/13/1992 MIL vs. CHI L 18 6 3 7 42.9 0 0 - 0 0 - 3 2 5 1 1 0 1 2 -
+p800
+aVFrank Brickowski MIL 11/13/1992 MIL vs. CHI L 24 13 5 9 55.6 0 0 - 3 4 75.0 2 8 10 4 1 1 2 4 -
+p801
+aVBrad Lohaus MIL 11/13/1992 MIL vs. CHI L 23 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 3 1 0 2 4 -
+p802
+aVDan Schayes MIL 11/13/1992 MIL vs. CHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p803
+aVEric Murdock MIL 11/13/1992 MIL vs. CHI L 40 25 7 15 46.7 1 3 33.3 10 12 83.3 1 3 4 9 2 0 1 3 -
+p804
+aVBlue Edwards MIL 11/13/1992 MIL vs. CHI L 41 23 8 18 44.4 0 0 - 7 8 87.5 1 2 3 2 1 1 5 3 -
+p805
+aVFrank Brickowski MIL 11/11/1992 MIL @ DAL W 24 15 5 8 62.5 0 0 - 5 7 71.4 3 5 8 4 1 2 3 5 -
+p806
+aVTodd Day MIL 11/11/1992 MIL @ DAL W 24 12 4 4 100.0 1 1 100.0 3 5 60.0 2 1 3 1 1 0 6 5 -
+p807
+aVDan Schayes MIL 11/11/1992 MIL @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p808
+aVFred Roberts MIL 11/11/1992 MIL @ DAL W 10 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 -
+p809
+aVAlaa Abdelnaby MIL 11/11/1992 MIL @ DAL W 27 12 4 7 57.1 0 0 - 4 7 57.1 2 4 6 1 0 0 1 3 -
+p810
+aVBrad Lohaus MIL 11/11/1992 MIL @ DAL W 18 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 3 0 0 2 4 -
+p811
+aVAlvin Robertson MIL 11/11/1992 MIL @ DAL W 24 15 6 7 85.7 1 1 100.0 2 6 33.3 0 2 2 4 2 0 4 5 -
+p812
+aVBlue Edwards MIL 11/11/1992 MIL @ DAL W 38 31 12 19 63.2 0 0 - 7 9 77.8 2 2 4 2 3 4 0 3 -
+p813
+aVEric Murdock MIL 11/11/1992 MIL @ DAL W 33 16 6 9 66.7 0 0 - 4 5 80.0 0 2 2 8 4 1 2 3 -
+p814
+aVLee Mayberry MIL 11/11/1992 MIL @ DAL W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 5 -
+p815
+aVAnthony Avent MIL 11/11/1992 MIL @ DAL W 25 10 3 10 30.0 0 0 - 4 6 66.7 0 8 8 1 2 1 1 3 -
+p816
+aVAnthony Avent MIL 11/10/1992 MIL @ SAN L 20 4 2 8 25.0 0 0 - 0 0 - 0 3 3 0 1 1 2 3 -
+p817
+aVFred Roberts MIL 11/10/1992 MIL @ SAN L 20 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 -
+p818
+aVTodd Day MIL 11/10/1992 MIL @ SAN L 16 11 4 9 44.4 2 3 66.7 1 2 50.0 2 2 4 0 0 1 3 3 -
+p819
+aVEric Murdock MIL 11/10/1992 MIL @ SAN L 28 7 2 9 22.2 0 4 0.0 3 4 75.0 3 0 3 11 3 0 6 3 -
+p820
+aVLee Mayberry MIL 11/10/1992 MIL @ SAN L 20 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 3 0 0 1 5 -
+p821
+aVBrad Lohaus MIL 11/10/1992 MIL @ SAN L 29 19 7 11 63.6 4 6 66.7 1 4 25.0 1 5 6 1 2 2 0 3 -
+p822
+aVDan Schayes MIL 11/10/1992 MIL @ SAN L 21 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 2 0 2 1 3 -
+p823
+aVAlvin Robertson MIL 11/10/1992 MIL @ SAN L 32 19 8 12 66.7 1 2 50.0 2 2 100.0 3 1 4 3 3 1 3 3 -
+p824
+aVFrank Brickowski MIL 11/10/1992 MIL @ SAN L 26 15 5 12 41.7 1 1 100.0 4 5 80.0 1 0 1 1 0 0 3 6 -
+p825
+aVBlue Edwards MIL 11/10/1992 MIL @ SAN L 28 12 5 9 55.6 1 1 100.0 1 1 100.0 0 3 3 2 1 0 1 2 -
+p826
+aVAlvin Robertson MIL 11/07/1992 MIL vs. BOS W 31 15 6 10 60.0 2 2 100.0 1 2 50.0 1 0 1 6 3 1 2 2 -
+p827
+aVBlue Edwards MIL 11/07/1992 MIL vs. BOS W 37 30 13 14 92.9 0 0 - 4 5 80.0 1 5 6 6 5 2 2 3 -
+p828
+aVEric Murdock MIL 11/07/1992 MIL vs. BOS W 34 11 5 13 38.5 1 3 33.3 0 0 - 0 5 5 9 5 0 3 3 -
+p829
+aVFred Roberts MIL 11/07/1992 MIL vs. BOS W 11 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 -
+p830
+aVLee Mayberry MIL 11/07/1992 MIL vs. BOS W 14 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 4 2 0 1 2 -
+p831
+aVDan Schayes MIL 11/07/1992 MIL vs. BOS W 19 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 0 0 4 0 4 -
+p832
+aVAnthony Avent MIL 11/07/1992 MIL vs. BOS W 26 8 3 8 37.5 0 0 - 2 2 100.0 2 8 10 0 2 1 2 2 -
+p833
+aVAlaa Abdelnaby MIL 11/07/1992 MIL vs. BOS W 7 2 1 5 20.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -
+p834
+aVFrank Brickowski MIL 11/07/1992 MIL vs. BOS W 31 19 8 13 61.5 0 0 - 3 4 75.0 2 5 7 6 1 1 2 2 -
+p835
+aVAnthony Pullard MIL 11/07/1992 MIL vs. BOS W 5 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -
+p836
+aVBrad Lohaus MIL 11/07/1992 MIL vs. BOS W 5 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 2 0 -
+p837
+aVTodd Day MIL 11/07/1992 MIL vs. BOS W 20 16 4 8 50.0 0 2 0.0 8 9 88.9 1 4 5 1 1 1 2 4 -
+p838
+aVDan Schayes MIL 11/06/1992 MIL @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p839
+aVAnthony Avent MIL 11/06/1992 MIL @ DET W 12 6 3 8 37.5 0 0 - 0 0 - 0 2 2 0 0 0 1 5 -
+p840
+aVBlue Edwards MIL 11/06/1992 MIL @ DET W 31 12 4 7 57.1 0 0 - 4 5 80.0 1 4 5 1 0 0 1 4 -
+p841
+aVAlvin Robertson MIL 11/06/1992 MIL @ DET W 31 12 6 10 60.0 0 0 - 0 0 - 0 7 7 3 2 0 2 2 -
+p842
+aVAlaa Abdelnaby MIL 11/06/1992 MIL @ DET W 19 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 0 0 0 4 -
+p843
+aVBrad Lohaus MIL 11/06/1992 MIL @ DET W 13 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 3 2 1 2 2 -
+p844
+aVLee Mayberry MIL 11/06/1992 MIL @ DET W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -
+p845
+aVFred Roberts MIL 11/06/1992 MIL @ DET W 28 10 4 8 50.0 0 0 - 2 3 66.7 1 2 3 0 3 0 1 3 -
+p846
+aVFrank Brickowski MIL 11/06/1992 MIL @ DET W 41 19 7 13 53.8 0 0 - 5 5 100.0 1 6 7 7 1 1 5 1 -
+p847
+aVEric Murdock MIL 11/06/1992 MIL @ DET W 33 12 5 10 50.0 0 0 - 2 2 100.0 1 5 6 8 1 0 3 3 -
+p848
+aVTodd Day MIL 11/06/1992 MIL @ DET W 14 9 4 7 57.1 0 2 0.0 1 2 50.0 0 2 2 0 0 0 2 2 -
+p849
+a.

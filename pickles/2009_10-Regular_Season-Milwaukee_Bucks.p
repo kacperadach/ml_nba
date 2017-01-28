@@ -1,0 +1,1746 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDan Gadzuric MIL 04/14/2010 MIL @ BOS W 26 14 7 12 58.3 0 0 - 0 1 0.0 4 5 9 1 2 0 0 5 21
+p2
+aVCarlos Delfino MIL 04/14/2010 MIL @ BOS W 19 9 3 5 60.0 1 3 33.3 2 2 100.0 1 4 5 3 0 1 0 0 3
+p3
+aVJohn Salmons MIL 04/14/2010 MIL @ BOS W 22 12 2 7 28.6 0 2 0.0 8 8 100.0 0 1 1 2 0 0 1 0 2
+p4
+aVErsan Ilyasova MIL 04/14/2010 MIL @ BOS W 18 15 5 7 71.4 2 3 66.7 3 4 75.0 0 3 3 0 0 1 0 2 23
+p5
+aVJerry Stackhouse MIL 04/14/2010 MIL @ BOS W 28 17 7 11 63.6 3 5 60.0 0 2 0.0 0 5 5 4 0 0 1 1 9
+p6
+aVDarnell Jackson MIL 04/14/2010 MIL @ BOS W 8 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -3
+p7
+aVBrandon Jennings MIL 04/14/2010 MIL @ BOS W 17 9 4 8 50.0 1 3 33.3 0 0 - 1 0 1 2 0 0 1 4 -8
+p8
+aVRoyal Ivey MIL 04/14/2010 MIL @ BOS W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 2 0 0 0 -10
+p9
+aVLuke Ridnour MIL 04/14/2010 MIL @ BOS W 26 17 6 6 100.0 3 3 100.0 2 2 100.0 0 2 2 8 0 0 1 2 24
+p10
+aVKurt Thomas MIL 04/14/2010 MIL @ BOS W 22 0 0 4 0.0 0 0 - 0 0 - 2 4 6 1 2 0 2 3 -9
+p11
+aVCharlie Bell MIL 04/14/2010 MIL @ BOS W 24 2 1 7 14.3 0 5 0.0 0 0 - 0 4 4 0 0 0 1 1 13
+p12
+aVLuc Mbah a Moute MIL 04/14/2010 MIL @ BOS W 22 7 3 5 60.0 0 1 0.0 1 5 20.0 2 1 3 3 0 0 0 0 -10
+p13
+aVLuke Ridnour MIL 04/12/2010 MIL vs. ATL L 20 10 4 10 40.0 0 2 0.0 2 2 100.0 1 1 2 5 1 0 0 2 3
+p14
+aVDan Gadzuric MIL 04/12/2010 MIL vs. ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p15
+aVLuc Mbah a Moute MIL 04/12/2010 MIL vs. ATL L 19 2 1 5 20.0 0 0 - 0 0 - 3 3 6 1 0 0 0 0 -8
+p16
+aVJerry Stackhouse MIL 04/12/2010 MIL vs. ATL L 21 13 5 12 41.7 3 6 50.0 0 1 0.0 1 0 1 1 0 0 0 0 -5
+p17
+aVPrimoz Brezec MIL 04/12/2010 MIL vs. ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p18
+aVCarlos Delfino MIL 04/12/2010 MIL vs. ATL L 35 12 4 7 57.1 3 5 60.0 1 2 50.0 0 4 4 4 2 1 1 2 -1
+p19
+aVBrandon Jennings MIL 04/12/2010 MIL vs. ATL L 40 21 8 23 34.8 2 11 18.2 3 3 100.0 1 3 4 5 2 0 2 3 -9
+p20
+aVJohn Salmons MIL 04/12/2010 MIL vs. ATL L 43 28 9 18 50.0 3 6 50.0 7 9 77.8 0 3 3 2 0 0 1 6 -8
+p21
+aVKurt Thomas MIL 04/12/2010 MIL vs. ATL L 34 6 3 6 50.0 0 0 - 0 0 - 3 7 10 1 0 0 0 3 -10
+p22
+aVErsan Ilyasova MIL 04/12/2010 MIL vs. ATL L 19 4 2 11 18.2 0 2 0.0 0 0 - 2 2 4 1 0 0 0 4 -5
+p23
+aVKurt Thomas MIL 04/10/2010 MIL vs. BOS L 25 8 2 6 33.3 0 0 - 4 4 100.0 4 6 10 1 1 0 2 2 -3
+p24
+aVCarlos Delfino MIL 04/10/2010 MIL vs. BOS L 37 10 4 13 30.8 2 6 33.3 0 2 0.0 0 4 4 2 2 0 0 4 -4
+p25
+aVJerry Stackhouse MIL 04/10/2010 MIL vs. BOS L 29 12 5 11 45.5 0 2 0.0 2 2 100.0 1 3 4 1 1 0 3 3 -14
+p26
+aVLuke Ridnour MIL 04/10/2010 MIL vs. BOS L 15 5 2 9 22.2 1 2 50.0 0 0 - 0 1 1 2 0 0 0 3 -11
+p27
+aVErsan Ilyasova MIL 04/10/2010 MIL vs. BOS L 28 11 4 12 33.3 0 4 0.0 3 4 75.0 4 4 8 1 1 0 0 2 -11
+p28
+aVJohn Salmons MIL 04/10/2010 MIL vs. BOS L 41 21 5 10 50.0 1 4 25.0 10 11 90.9 0 1 1 4 1 0 3 2 -10
+p29
+aVRoyal Ivey MIL 04/10/2010 MIL vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p30
+aVBrandon Jennings MIL 04/10/2010 MIL vs. BOS L 40 19 7 11 63.6 4 6 66.7 1 1 100.0 1 3 4 1 1 1 3 3 -10
+p31
+aVDan Gadzuric MIL 04/10/2010 MIL vs. BOS L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -3
+p32
+aVPrimoz Brezec MIL 04/10/2010 MIL vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p33
+aVLuc Mbah a Moute MIL 04/10/2010 MIL vs. BOS L 15 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 0 1 0 5 -3
+p34
+aVDan Gadzuric MIL 04/09/2010 MIL @ PHI W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 2 0 3 -2
+p35
+aVLuke Ridnour MIL 04/09/2010 MIL @ PHI W 27 18 8 12 66.7 1 2 50.0 1 1 100.0 0 3 3 2 0 0 4 3 5
+p36
+aVJohn Salmons MIL 04/09/2010 MIL @ PHI W 24 7 2 7 28.6 1 4 25.0 2 2 100.0 1 1 2 1 1 0 1 1 2
+p37
+aVKurt Thomas MIL 04/09/2010 MIL @ PHI W 37 2 1 4 25.0 0 0 - 0 0 - 1 7 8 4 1 3 3 3 5
+p38
+aVErsan Ilyasova MIL 04/09/2010 MIL @ PHI W 22 5 1 5 20.0 1 3 33.3 2 4 50.0 3 6 9 2 0 0 1 3 -2
+p39
+aVJerry Stackhouse MIL 04/09/2010 MIL @ PHI W 14 5 1 5 20.0 1 3 33.3 2 2 100.0 1 0 1 0 0 0 0 2 -1
+p40
+aVCarlos Delfino MIL 04/09/2010 MIL @ PHI W 39 23 8 14 57.1 5 8 62.5 2 2 100.0 0 3 3 5 3 0 1 1 8
+p41
+aVCharlie Bell MIL 04/09/2010 MIL @ PHI W 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -3
+p42
+aVLuc Mbah a Moute MIL 04/09/2010 MIL @ PHI W 29 13 5 9 55.6 0 0 - 3 3 100.0 2 7 9 1 0 0 1 1 3
+p43
+aVBrandon Jennings MIL 04/09/2010 MIL @ PHI W 35 16 4 17 23.5 1 8 12.5 7 7 100.0 0 2 2 7 5 0 2 1 8
+p44
+aVPrimoz Brezec MIL 04/09/2010 MIL @ PHI W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p45
+aVKurt Thomas MIL 04/07/2010 MIL vs. NJN W 27 12 6 11 54.5 0 0 - 0 0 - 2 8 10 3 2 1 1 2 14
+p46
+aVLuke Ridnour MIL 04/07/2010 MIL vs. NJN W 18 9 3 6 50.0 0 1 0.0 3 3 100.0 0 4 4 4 1 0 1 2 7
+p47
+aVLuc Mbah a Moute MIL 04/07/2010 MIL vs. NJN W 18 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 3 1 0 0 2 6
+p48
+aVCarlos Delfino MIL 04/07/2010 MIL vs. NJN W 20 7 2 9 22.2 0 6 0.0 3 4 75.0 0 2 2 2 1 0 1 0 4
+p49
+aVBrandon Jennings MIL 04/07/2010 MIL vs. NJN W 19 12 4 10 40.0 3 6 50.0 1 1 100.0 0 1 1 4 0 0 1 3 9
+p50
+aVDan Gadzuric MIL 04/07/2010 MIL vs. NJN W 17 5 2 4 50.0 0 0 - 1 2 50.0 1 7 8 0 0 1 1 2 6
+p51
+aVJohn Salmons MIL 04/07/2010 MIL vs. NJN W 37 22 10 13 76.9 1 2 50.0 1 2 50.0 0 4 4 5 2 0 1 1 22
+p52
+aVPrimoz Brezec MIL 04/07/2010 MIL vs. NJN W 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -1
+p53
+aVErsan Ilyasova MIL 04/07/2010 MIL vs. NJN W 30 15 7 12 58.3 1 4 25.0 0 1 0.0 3 6 9 2 0 1 2 3 13
+p54
+aVCharlie Bell MIL 04/07/2010 MIL vs. NJN W 19 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 0
+p55
+aVRoyal Ivey MIL 04/07/2010 MIL vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p56
+aVJerry Stackhouse MIL 04/07/2010 MIL vs. NJN W 28 18 6 9 66.7 2 2 100.0 4 4 100.0 0 2 2 2 1 2 3 3 15
+p57
+aVDan Gadzuric MIL 04/06/2010 MIL @ CHI W 13 2 1 1 100.0 0 0 - 0 2 0.0 2 2 4 0 0 0 0 2 -11
+p58
+aVJohn Salmons MIL 04/06/2010 MIL @ CHI W 44 26 8 19 42.1 3 6 50.0 7 8 87.5 1 2 3 3 1 0 0 3 2
+p59
+aVLuke Ridnour MIL 04/06/2010 MIL @ CHI W 26 13 4 9 44.4 1 5 20.0 4 4 100.0 0 0 0 1 0 0 1 1 6
+p60
+aVBrandon Jennings MIL 04/06/2010 MIL @ CHI W 26 4 1 8 12.5 1 5 20.0 1 2 50.0 0 2 2 8 0 0 4 2 2
+p61
+aVCarlos Delfino MIL 04/06/2010 MIL @ CHI W 35 8 3 8 37.5 1 4 25.0 1 2 50.0 0 7 7 2 1 0 1 2 5
+p62
+aVJerry Stackhouse MIL 04/06/2010 MIL @ CHI W 16 5 2 8 25.0 0 4 0.0 1 2 50.0 0 2 2 2 0 0 1 0 -3
+p63
+aVLuc Mbah a Moute MIL 04/06/2010 MIL @ CHI W 16 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 2 0 0 0 1
+p64
+aVErsan Ilyasova MIL 04/06/2010 MIL @ CHI W 32 17 7 14 50.0 1 5 20.0 2 2 100.0 1 6 7 0 0 1 2 3 4
+p65
+aVKurt Thomas MIL 04/06/2010 MIL @ CHI W 32 4 2 8 25.0 0 0 - 0 0 - 3 11 14 2 0 1 0 3 19
+p66
+aVErsan Ilyasova MIL 04/03/2010 MIL vs. PHX W 31 12 5 9 55.6 1 2 50.0 1 2 50.0 3 4 7 1 0 0 1 2 8
+p67
+aVCharlie Bell MIL 04/03/2010 MIL vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p68
+aVLuc Mbah a Moute MIL 04/03/2010 MIL vs. PHX W 21 0 0 0 - 0 0 - 0 0 - 4 2 6 0 0 0 1 5 -4
+p69
+aVAndrew Bogut MIL 04/03/2010 MIL vs. PHX W 12 12 6 7 85.7 0 0 - 0 2 0.0 0 4 4 0 0 0 1 1 9
+p70
+aVLuke Ridnour MIL 04/03/2010 MIL vs. PHX W 16 10 3 5 60.0 1 2 50.0 3 3 100.0 0 0 0 6 0 0 1 1 1
+p71
+aVBrandon Jennings MIL 04/03/2010 MIL vs. PHX W 31 23 7 15 46.7 1 5 20.0 8 10 80.0 0 3 3 4 1 0 1 2 11
+p72
+aVCarlos Delfino MIL 04/03/2010 MIL vs. PHX W 43 16 6 14 42.9 3 7 42.9 1 2 50.0 0 9 9 4 1 0 4 1 10
+p73
+aVKurt Thomas MIL 04/03/2010 MIL vs. PHX W 31 10 5 6 83.3 0 0 - 0 0 - 3 4 7 1 0 2 1 3 8
+p74
+aVRoyal Ivey MIL 04/03/2010 MIL vs. PHX W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 -3
+p75
+aVJohn Salmons MIL 04/03/2010 MIL vs. PHX W 34 14 6 14 42.9 1 3 33.3 1 3 33.3 0 1 1 3 1 0 2 1 13
+p76
+aVJerry Stackhouse MIL 04/03/2010 MIL vs. PHX W 18 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 1 -2
+p77
+aVPrimoz Brezec MIL 04/03/2010 MIL vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p78
+aVCharlie Bell MIL 04/02/2010 MIL @ CHA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p79
+aVErsan Ilyasova MIL 04/02/2010 MIL @ CHA L 19 7 3 7 42.9 1 3 33.3 0 0 - 3 4 7 0 0 0 0 3 3
+p80
+aVCarlos Delfino MIL 04/02/2010 MIL @ CHA L 41 14 5 14 35.7 2 8 25.0 2 2 100.0 1 3 4 2 1 1 3 1 -3
+p81
+aVAndrew Bogut MIL 04/02/2010 MIL @ CHA L 42 19 8 16 50.0 0 0 - 3 6 50.0 5 7 12 0 1 7 2 5 2
+p82
+aVJerry Stackhouse MIL 04/02/2010 MIL @ CHA L 13 3 1 3 33.3 1 2 50.0 0 1 0.0 0 1 1 0 1 0 2 1 9
+p83
+aVBrandon Jennings MIL 04/02/2010 MIL @ CHA L 38 6 3 12 25.0 0 2 0.0 0 0 - 3 1 4 5 1 0 4 2 -7
+p84
+aVLuke Ridnour MIL 04/02/2010 MIL @ CHA L 18 5 2 7 28.6 0 2 0.0 1 2 50.0 0 1 1 3 0 0 1 0 2
+p85
+aVLuc Mbah a Moute MIL 04/02/2010 MIL @ CHA L 31 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 2 2 1 1 3 -3
+p86
+aVJohn Salmons MIL 04/02/2010 MIL @ CHA L 47 28 12 22 54.5 2 4 50.0 2 2 100.0 2 3 5 5 2 1 3 4 0
+p87
+aVKurt Thomas MIL 04/02/2010 MIL @ CHA L 11 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -3
+p88
+aVJohn Salmons MIL 03/31/2010 MIL @ CLE L 43 28 9 16 56.3 3 7 42.9 7 7 100.0 1 4 5 7 1 0 3 2 0
+p89
+aVAndrew Bogut MIL 03/31/2010 MIL @ CLE L 33 19 9 17 52.9 0 0 - 1 2 50.0 4 8 12 3 0 2 3 4 -11
+p90
+aVRoyal Ivey MIL 03/31/2010 MIL @ CLE L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 0
+p91
+aVErsan Ilyasova MIL 03/31/2010 MIL @ CLE L 21 13 6 13 46.2 1 3 33.3 0 0 - 2 3 5 0 0 0 0 5 -5
+p92
+aVJerry Stackhouse MIL 03/31/2010 MIL @ CLE L 25 6 2 7 28.6 2 4 50.0 0 0 - 0 4 4 2 1 0 3 2 3
+p93
+aVLuc Mbah a Moute MIL 03/31/2010 MIL @ CLE L 20 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 1 0 0 4 -4
+p94
+aVCharlie Bell MIL 03/31/2010 MIL @ CLE L 24 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 3 -7
+p95
+aVBrandon Jennings MIL 03/31/2010 MIL @ CLE L 19 5 2 9 22.2 1 5 20.0 0 0 - 0 1 1 1 2 0 2 2 -2
+p96
+aVLuke Ridnour MIL 03/31/2010 MIL @ CLE L 29 11 5 13 38.5 1 4 25.0 0 0 - 1 2 3 11 0 0 2 4 -1
+p97
+aVKurt Thomas MIL 03/31/2010 MIL @ CLE L 21 10 5 6 83.3 0 0 - 0 0 - 2 5 7 0 0 1 0 2 12
+p98
+aVRoyal Ivey MIL 03/30/2010 MIL vs. LAC W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p99
+aVLuke Ridnour MIL 03/30/2010 MIL vs. LAC W 16 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 4 2 0 1 1 9
+p100
+aVDan Gadzuric MIL 03/30/2010 MIL vs. LAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p101
+aVPrimoz Brezec MIL 03/30/2010 MIL vs. LAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p102
+aVCharlie Bell MIL 03/30/2010 MIL vs. LAC W 38 10 4 8 50.0 1 4 25.0 1 1 100.0 2 2 4 2 0 0 1 3 13
+p103
+aVAndrew Bogut MIL 03/30/2010 MIL vs. LAC W 25 14 5 11 45.5 0 0 - 4 6 66.7 2 6 8 1 1 2 0 0 12
+p104
+aVLuc Mbah a Moute MIL 03/30/2010 MIL vs. LAC W 22 8 3 6 50.0 0 0 - 2 2 100.0 4 1 5 2 1 0 1 2 8
+p105
+aVErsan Ilyasova MIL 03/30/2010 MIL vs. LAC W 26 20 8 14 57.1 1 5 20.0 3 4 75.0 3 5 8 2 1 0 1 4 10
+p106
+aVKurt Thomas MIL 03/30/2010 MIL vs. LAC W 19 5 2 6 33.3 0 0 - 1 1 100.0 4 5 9 3 1 0 0 1 8
+p107
+aVJohn Salmons MIL 03/30/2010 MIL vs. LAC W 29 9 3 12 25.0 1 2 50.0 2 2 100.0 1 3 4 4 0 0 0 4 14
+p108
+aVBrandon Jennings MIL 03/30/2010 MIL vs. LAC W 29 17 7 15 46.7 3 5 60.0 0 0 - 0 5 5 6 1 0 1 1 12
+p109
+aVJerry Stackhouse MIL 03/30/2010 MIL vs. LAC W 24 16 7 10 70.0 2 4 50.0 0 0 - 1 2 3 3 0 0 2 2 8
+p110
+aVLuc Mbah a Moute MIL 03/28/2010 MIL vs. MEM W 11 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 3 3
+p111
+aVLuke Ridnour MIL 03/28/2010 MIL vs. MEM W 34 14 4 8 50.0 2 5 40.0 4 4 100.0 0 2 2 7 0 0 3 2 13
+p112
+aVErsan Ilyasova MIL 03/28/2010 MIL vs. MEM W 32 8 3 7 42.9 2 5 40.0 0 0 - 2 4 6 0 2 2 3 4 3
+p113
+aVJerry Stackhouse MIL 03/28/2010 MIL vs. MEM W 22 7 1 6 16.7 1 4 25.0 4 4 100.0 1 1 2 1 2 0 2 1 -7
+p114
+aVJohn Salmons MIL 03/28/2010 MIL vs. MEM W 49 25 10 19 52.6 2 4 50.0 3 4 75.0 1 5 6 6 2 0 2 2 7
+p115
+aVBrandon Jennings MIL 03/28/2010 MIL vs. MEM W 42 29 10 24 41.7 3 10 30.0 6 7 85.7 1 6 7 8 4 0 4 4 4
+p116
+aVKurt Thomas MIL 03/28/2010 MIL vs. MEM W 15 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 1 1 1 4 -3
+p117
+aVCharlie Bell MIL 03/28/2010 MIL vs. MEM W 12 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 3 1 0 0 0 -2
+p118
+aVDan Gadzuric MIL 03/28/2010 MIL vs. MEM W 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -2
+p119
+aVAndrew Bogut MIL 03/28/2010 MIL vs. MEM W 45 18 7 11 63.6 0 0 - 4 6 66.7 3 8 11 0 0 4 2 1 9
+p120
+aVRoyal Ivey MIL 03/26/2010 MIL vs. MIA L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 2 0 1 2 3
+p121
+aVBrandon Jennings MIL 03/26/2010 MIL vs. MIA L 28 4 1 8 12.5 0 3 0.0 2 2 100.0 1 1 2 2 0 0 2 3 -16
+p122
+aVCarlos Delfino MIL 03/26/2010 MIL vs. MIA L 14 3 1 7 14.3 1 5 20.0 0 0 - 0 2 2 0 0 0 0 0 -8
+p123
+aVJerry Stackhouse MIL 03/26/2010 MIL vs. MIA L 15 4 2 10 20.0 0 3 0.0 0 0 - 0 0 0 1 0 0 1 1 -11
+p124
+aVLuke Ridnour MIL 03/26/2010 MIL vs. MIA L 26 12 5 11 45.5 1 3 33.3 1 2 50.0 0 0 0 1 3 0 2 2 1
+p125
+aVCharlie Bell MIL 03/26/2010 MIL vs. MIA L 29 11 3 9 33.3 0 2 0.0 5 6 83.3 2 2 4 0 1 0 1 2 0
+p126
+aVDan Gadzuric MIL 03/26/2010 MIL vs. MIA L 20 4 2 7 28.6 0 0 - 0 2 0.0 2 3 5 0 0 0 0 0 1
+p127
+aVLuc Mbah a Moute MIL 03/26/2010 MIL vs. MIA L 38 5 2 11 18.2 0 0 - 1 2 50.0 8 3 11 2 1 0 0 2 -9
+p128
+aVPrimoz Brezec MIL 03/26/2010 MIL vs. MIA L 12 4 2 3 66.7 0 0 - 0 0 - 3 0 3 0 0 0 0 2 -8
+p129
+aVKurt Thomas MIL 03/26/2010 MIL vs. MIA L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 2 0 0 1 6 -8
+p130
+aVJohn Salmons MIL 03/26/2010 MIL vs. MIA L 37 23 9 17 52.9 1 3 33.3 4 5 80.0 0 5 5 1 1 0 2 2 -10
+p131
+aVCarlos Delfino MIL 03/24/2010 MIL vs. PHI L 29 10 3 10 30.0 2 7 28.6 2 2 100.0 2 2 4 3 3 1 2 1 -17
+p132
+aVJerry Stackhouse MIL 03/24/2010 MIL vs. PHI L 23 15 3 9 33.3 1 6 16.7 8 8 100.0 1 1 2 2 2 1 1 0 -3
+p133
+aVLuke Ridnour MIL 03/24/2010 MIL vs. PHI L 29 11 4 10 40.0 0 1 0.0 3 4 75.0 2 1 3 4 1 0 2 1 -1
+p134
+aVBrandon Jennings MIL 03/24/2010 MIL vs. PHI L 19 12 4 9 44.4 1 4 25.0 3 5 60.0 0 1 1 3 1 0 2 1 -14
+p135
+aVRoyal Ivey MIL 03/24/2010 MIL vs. PHI L 12 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 2 1 0 3 1 9
+p136
+aVKurt Thomas MIL 03/24/2010 MIL vs. PHI L 12 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 1 0 4 -8
+p137
+aVErsan Ilyasova MIL 03/24/2010 MIL vs. PHI L 33 6 3 8 37.5 0 2 0.0 0 0 - 1 10 11 0 1 1 1 1 0
+p138
+aVPrimoz Brezec MIL 03/24/2010 MIL vs. PHI L 7 4 2 2 100.0 0 0 - 0 2 0.0 2 1 3 0 0 1 0 2 1
+p139
+aVCharlie Bell MIL 03/24/2010 MIL vs. PHI L 9 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 1 0 0 2 3 1
+p140
+aVLuc Mbah a Moute MIL 03/24/2010 MIL vs. PHI L 15 5 2 3 66.7 0 0 - 1 2 50.0 3 2 5 0 3 0 0 1 -15
+p141
+aVAndrew Bogut MIL 03/24/2010 MIL vs. PHI L 20 8 4 9 44.4 0 0 - 0 0 - 2 1 3 0 0 2 3 3 -7
+p142
+aVJohn Salmons MIL 03/24/2010 MIL vs. PHI L 31 4 2 12 16.7 0 4 0.0 0 0 - 0 1 1 1 1 0 1 2 -21
+p143
+aVErsan Ilyasova MIL 03/22/2010 MIL vs. ATL W 13 3 1 6 16.7 1 2 50.0 0 0 - 1 3 4 0 0 0 1 0 -2
+p144
+aVKurt Thomas MIL 03/22/2010 MIL vs. ATL W 20 2 1 3 33.3 0 0 - 0 0 - 2 5 7 0 0 0 0 1 0
+p145
+aVLuke Ridnour MIL 03/22/2010 MIL vs. ATL W 31 18 7 9 77.8 3 3 100.0 1 2 50.0 0 4 4 8 1 0 1 1 7
+p146
+aVAndrew Bogut MIL 03/22/2010 MIL vs. ATL W 28 9 4 11 36.4 0 0 - 1 2 50.0 5 6 11 3 0 1 0 2 3
+p147
+aVCarlos Delfino MIL 03/22/2010 MIL vs. ATL W 43 23 7 16 43.8 3 9 33.3 6 6 100.0 3 6 9 5 2 0 3 4 0
+p148
+aVJerry Stackhouse MIL 03/22/2010 MIL vs. ATL W 23 7 3 7 42.9 0 4 0.0 1 2 50.0 0 2 2 0 0 1 1 1 7
+p149
+aVJohn Salmons MIL 03/22/2010 MIL vs. ATL W 41 32 12 19 63.2 3 6 50.0 5 5 100.0 0 3 3 1 1 0 2 1 8
+p150
+aVBrandon Jennings MIL 03/22/2010 MIL vs. ATL W 17 2 1 8 12.5 0 3 0.0 0 0 - 0 0 0 1 0 0 0 3 -4
+p151
+aVLuc Mbah a Moute MIL 03/22/2010 MIL vs. ATL W 23 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -4
+p152
+aVJerry Stackhouse MIL 03/20/2010 MIL @ DEN W 11 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p153
+aVLuc Mbah a Moute MIL 03/20/2010 MIL @ DEN W 36 12 3 7 42.9 0 0 - 6 6 100.0 1 5 6 2 0 0 0 2 12
+p154
+aVKurt Thomas MIL 03/20/2010 MIL @ DEN W 25 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 0 0 2 1 2 1
+p155
+aVBrandon Jennings MIL 03/20/2010 MIL @ DEN W 29 9 3 9 33.3 2 4 50.0 1 1 100.0 1 2 3 4 0 0 1 4 5
+p156
+aVJohn Salmons MIL 03/20/2010 MIL @ DEN W 39 26 8 16 50.0 1 1 100.0 9 9 100.0 0 3 3 4 1 0 3 3 1
+p157
+aVRoyal Ivey MIL 03/20/2010 MIL @ DEN W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 3 7
+p158
+aVLuke Ridnour MIL 03/20/2010 MIL @ DEN W 18 11 5 8 62.5 1 3 33.3 0 0 - 0 0 0 3 0 1 1 2 -2
+p159
+aVErsan Ilyasova MIL 03/20/2010 MIL @ DEN W 32 14 6 12 50.0 1 3 33.3 1 2 50.0 2 8 10 2 0 2 0 3 -4
+p160
+aVCharlie Bell MIL 03/20/2010 MIL @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p161
+aVCarlos Delfino MIL 03/20/2010 MIL @ DEN W 27 21 6 11 54.5 4 6 66.7 5 8 62.5 0 7 7 1 1 0 1 5 7
+p162
+aVAndrew Bogut MIL 03/20/2010 MIL @ DEN W 15 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 3 3 5 6
+p163
+aVErsan Ilyasova MIL 03/19/2010 MIL @ SAC W 35 12 3 5 60.0 1 1 100.0 5 6 83.3 3 8 11 2 0 0 2 4 6
+p164
+aVAndrew Bogut MIL 03/19/2010 MIL @ SAC W 45 21 10 20 50.0 0 0 - 1 6 16.7 3 8 11 1 2 2 3 5 9
+p165
+aVLuc Mbah a Moute MIL 03/19/2010 MIL @ SAC W 23 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 3 1 1 3 0
+p166
+aVCarlos Delfino MIL 03/19/2010 MIL @ SAC W 47 10 3 7 42.9 1 5 20.0 3 3 100.0 0 4 4 2 0 0 3 2 2
+p167
+aVJerry Stackhouse MIL 03/19/2010 MIL @ SAC W 16 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 2 0 0 0 1 0
+p168
+aVLuke Ridnour MIL 03/19/2010 MIL @ SAC W 13 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 1 -10
+p169
+aVKurt Thomas MIL 03/19/2010 MIL @ SAC W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -5
+p170
+aVPrimoz Brezec MIL 03/19/2010 MIL @ SAC W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 4
+p171
+aVBrandon Jennings MIL 03/19/2010 MIL @ SAC W 45 35 12 28 42.9 8 13 61.5 3 4 75.0 1 4 5 8 2 0 4 3 14
+p172
+aVJohn Salmons MIL 03/19/2010 MIL @ SAC W 53 27 11 23 47.8 3 5 60.0 2 4 50.0 2 5 7 5 1 0 1 2 10
+p173
+aVAndrew Bogut MIL 03/17/2010 MIL @ LAC L 41 18 8 15 53.3 0 0 - 2 4 50.0 1 10 11 3 2 4 1 5 -7
+p174
+aVKurt Thomas MIL 03/17/2010 MIL @ LAC L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 3 -3
+p175
+aVLuke Ridnour MIL 03/17/2010 MIL @ LAC L 21 7 3 10 30.0 1 4 25.0 0 0 - 0 2 2 4 1 0 1 3 -2
+p176
+aVRoyal Ivey MIL 03/17/2010 MIL @ LAC L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 1 2 0 1 1 8
+p177
+aVPrimoz Brezec MIL 03/17/2010 MIL @ LAC L 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p178
+aVCharlie Bell MIL 03/17/2010 MIL @ LAC L 24 3 1 6 16.7 1 2 50.0 0 0 - 1 0 1 2 1 0 0 2 -9
+p179
+aVErsan Ilyasova MIL 03/17/2010 MIL @ LAC L 18 6 3 6 50.0 0 1 0.0 0 0 - 1 2 3 0 1 1 2 4 11
+p180
+aVJohn Salmons MIL 03/17/2010 MIL @ LAC L 41 20 6 12 50.0 1 2 50.0 7 8 87.5 0 0 0 3 1 0 3 1 -3
+p181
+aVLuc Mbah a Moute MIL 03/17/2010 MIL @ LAC L 27 6 2 6 33.3 0 0 - 2 2 100.0 5 3 8 1 0 1 0 1 -20
+p182
+aVBrandon Jennings MIL 03/17/2010 MIL @ LAC L 35 21 9 16 56.3 3 7 42.9 0 0 - 0 5 5 5 1 0 5 5 -10
+p183
+aVJerry Stackhouse MIL 03/17/2010 MIL @ LAC L 12 5 2 7 28.6 1 5 20.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p184
+aVCarlos Delfino MIL 03/14/2010 MIL vs. IND W 33 5 1 4 25.0 1 3 33.3 2 2 100.0 0 4 4 3 0 0 1 3 15
+p185
+aVLuke Ridnour MIL 03/14/2010 MIL vs. IND W 20 13 5 8 62.5 1 1 100.0 2 3 66.7 2 1 3 2 0 0 1 1 -1
+p186
+aVAndrew Bogut MIL 03/14/2010 MIL vs. IND W 31 17 7 18 38.9 0 0 - 3 7 42.9 3 8 11 4 1 3 0 5 9
+p187
+aVErsan Ilyasova MIL 03/14/2010 MIL vs. IND W 25 7 3 10 30.0 1 3 33.3 0 0 - 0 2 2 0 0 0 1 4 4
+p188
+aVCharlie Bell MIL 03/14/2010 MIL vs. IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p189
+aVBrandon Jennings MIL 03/14/2010 MIL vs. IND W 28 8 3 7 42.9 1 1 100.0 1 1 100.0 2 4 6 8 3 0 2 2 5
+p190
+aVLuc Mbah a Moute MIL 03/14/2010 MIL vs. IND W 23 10 4 7 57.1 0 0 - 2 3 66.7 3 3 6 0 0 0 1 3 0
+p191
+aVJerry Stackhouse MIL 03/14/2010 MIL vs. IND W 24 20 7 13 53.8 4 6 66.7 2 2 100.0 2 0 2 1 1 1 5 1 -1
+p192
+aVKurt Thomas MIL 03/14/2010 MIL vs. IND W 17 6 3 5 60.0 0 0 - 0 0 - 2 7 9 0 0 1 1 3 -5
+p193
+aVJohn Salmons MIL 03/14/2010 MIL vs. IND W 36 12 3 11 27.3 0 2 0.0 6 6 100.0 0 2 2 4 3 0 3 1 -1
+p194
+aVLuc Mbah a Moute MIL 03/12/2010 MIL vs. UTA W 24 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 1 0 0 3 8
+p195
+aVKurt Thomas MIL 03/12/2010 MIL vs. UTA W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 -7
+p196
+aVJohn Salmons MIL 03/12/2010 MIL vs. UTA W 41 24 8 14 57.1 2 3 66.7 6 8 75.0 0 5 5 2 2 0 3 2 15
+p197
+aVAndrew Bogut MIL 03/12/2010 MIL vs. UTA W 39 16 5 15 33.3 0 0 - 6 8 75.0 3 9 12 2 2 4 1 3 15
+p198
+aVLuke Ridnour MIL 03/12/2010 MIL vs. UTA W 7 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 3 -10
+p199
+aVJerry Stackhouse MIL 03/12/2010 MIL vs. UTA W 13 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 0 0 0 0 -10
+p200
+aVBrandon Jennings MIL 03/12/2010 MIL vs. UTA W 41 23 7 16 43.8 3 7 42.9 6 6 100.0 0 4 4 6 0 0 2 3 18
+p201
+aVCarlos Delfino MIL 03/12/2010 MIL vs. UTA W 42 9 4 14 28.6 1 5 20.0 0 0 - 0 4 4 8 1 1 1 2 11
+p202
+aVErsan Ilyasova MIL 03/12/2010 MIL vs. UTA W 24 14 4 8 50.0 0 2 0.0 6 6 100.0 1 7 8 1 1 1 1 5 0
+p203
+aVAndrew Bogut MIL 03/09/2010 MIL vs. BOS W 42 25 10 18 55.6 0 0 - 5 5 100.0 5 12 17 2 1 4 2 3 1
+p204
+aVLuc Mbah a Moute MIL 03/09/2010 MIL vs. BOS W 25 2 0 4 0.0 0 0 - 2 2 100.0 1 3 4 1 0 1 1 0 6
+p205
+aVJohn Salmons MIL 03/09/2010 MIL vs. BOS W 43 16 7 15 46.7 2 4 50.0 0 0 - 1 1 2 4 2 0 2 3 8
+p206
+aVCarlos Delfino MIL 03/09/2010 MIL vs. BOS W 41 19 7 15 46.7 5 8 62.5 0 0 - 0 8 8 2 2 0 3 3 10
+p207
+aVKurt Thomas MIL 03/09/2010 MIL vs. BOS W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 1 0 3 1
+p208
+aVBrandon Jennings MIL 03/09/2010 MIL vs. BOS W 40 13 5 10 50.0 1 3 33.3 2 3 66.7 0 2 2 4 1 0 2 2 9
+p209
+aVCharlie Bell MIL 03/09/2010 MIL vs. BOS W 18 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 3 1 -15
+p210
+aVErsan Ilyasova MIL 03/09/2010 MIL vs. BOS W 17 9 4 6 66.7 0 0 - 1 1 100.0 2 2 4 1 0 0 0 6 -3
+p211
+aVRoyal Ivey MIL 03/09/2010 MIL vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p212
+aVLuke Ridnour MIL 03/09/2010 MIL vs. BOS W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -10
+p213
+aVJohn Salmons MIL 03/06/2010 MIL vs. CLE W 33 12 5 17 29.4 1 6 16.7 1 1 100.0 0 3 3 3 0 1 3 1 21
+p214
+aVLuke Ridnour MIL 03/06/2010 MIL vs. CLE W 12 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 2 -9
+p215
+aVCarlos Delfino MIL 03/06/2010 MIL vs. CLE W 42 16 5 13 38.5 4 8 50.0 2 2 100.0 1 12 13 1 2 0 1 1 4
+p216
+aVAndrew Bogut MIL 03/06/2010 MIL vs. CLE W 36 15 5 9 55.6 0 0 - 5 6 83.3 0 9 9 0 1 3 2 4 10
+p217
+aVLuc Mbah a Moute MIL 03/06/2010 MIL vs. CLE W 42 10 5 9 55.6 0 0 - 0 0 - 4 7 11 1 4 1 2 3 13
+p218
+aVErsan Ilyasova MIL 03/06/2010 MIL vs. CLE W 13 4 2 4 50.0 0 1 0.0 0 0 - 1 5 6 0 0 0 1 1 -1
+p219
+aVBrandon Jennings MIL 03/06/2010 MIL vs. CLE W 36 25 6 14 42.9 5 7 71.4 8 9 88.9 0 2 2 6 2 1 4 0 16
+p220
+aVKurt Thomas MIL 03/06/2010 MIL vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p221
+aVJerry Stackhouse MIL 03/06/2010 MIL vs. CLE W 21 6 2 8 25.0 1 5 20.0 1 3 33.3 2 0 2 4 3 0 1 1 -11
+p222
+aVLuke Ridnour MIL 03/05/2010 MIL @ WAS W 16 13 5 7 71.4 0 0 - 3 3 100.0 0 1 1 3 1 0 0 2 14
+p223
+aVLuc Mbah a Moute MIL 03/05/2010 MIL @ WAS W 19 6 3 4 75.0 0 0 - 0 0 - 3 2 5 2 1 0 1 2 14
+p224
+aVErsan Ilyasova MIL 03/05/2010 MIL @ WAS W 25 8 2 7 28.6 0 3 0.0 4 4 100.0 3 5 8 0 2 0 0 2 20
+p225
+aVCharlie Bell MIL 03/05/2010 MIL @ WAS W 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 0 0
+p226
+aVBrandon Jennings MIL 03/05/2010 MIL @ WAS W 24 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 9 1 0 1 2 11
+p227
+aVJerry Stackhouse MIL 03/05/2010 MIL @ WAS W 18 6 1 4 25.0 1 2 50.0 3 4 75.0 0 3 3 2 0 0 2 3 13
+p228
+aVAndrew Bogut MIL 03/05/2010 MIL @ WAS W 30 19 8 14 57.1 0 0 - 3 4 75.0 3 7 10 4 1 5 2 3 19
+p229
+aVJohn Salmons MIL 03/05/2010 MIL @ WAS W 33 17 5 13 38.5 1 4 25.0 6 7 85.7 0 5 5 5 1 0 1 2 21
+p230
+aVKurt Thomas MIL 03/05/2010 MIL @ WAS W 18 2 1 4 25.0 0 0 - 0 0 - 4 4 8 0 1 0 1 2 9
+p231
+aVRoyal Ivey MIL 03/05/2010 MIL @ WAS W 7 6 2 4 50.0 1 1 100.0 1 1 100.0 1 0 1 0 0 0 0 0 3
+p232
+aVCarlos Delfino MIL 03/05/2010 MIL @ WAS W 38 19 8 14 57.1 3 8 37.5 0 0 - 0 6 6 0 2 0 0 1 17
+p233
+aVPrimoz Brezec MIL 03/05/2010 MIL @ WAS W 6 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -1
+p234
+aVBrandon Jennings MIL 03/03/2010 MIL vs. WAS W 31 5 2 12 16.7 1 6 16.7 0 1 0.0 1 5 6 5 2 0 6 2 13
+p235
+aVJerry Stackhouse MIL 03/03/2010 MIL vs. WAS W 26 13 6 12 50.0 1 3 33.3 0 0 - 0 2 2 3 1 1 3 4 8
+p236
+aVLuke Ridnour MIL 03/03/2010 MIL vs. WAS W 15 9 3 5 60.0 1 1 100.0 2 2 100.0 0 0 0 6 0 0 1 3 4
+p237
+aVErsan Ilyasova MIL 03/03/2010 MIL vs. WAS W 33 19 7 13 53.8 1 3 33.3 4 5 80.0 1 9 10 6 1 1 1 2 13
+p238
+aVJohn Salmons MIL 03/03/2010 MIL vs. WAS W 33 22 9 15 60.0 1 1 100.0 3 3 100.0 1 1 2 2 4 0 0 0 17
+p239
+aVRoyal Ivey MIL 03/03/2010 MIL vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p240
+aVAndrew Bogut MIL 03/03/2010 MIL vs. WAS W 32 15 5 10 50.0 0 0 - 5 6 83.3 0 2 2 4 1 5 0 3 14
+p241
+aVKurt Thomas MIL 03/03/2010 MIL vs. WAS W 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 1
+p242
+aVCarlos Delfino MIL 03/03/2010 MIL vs. WAS W 38 13 5 9 55.6 3 5 60.0 0 0 - 3 8 11 3 0 0 1 0 1
+p243
+aVLuc Mbah a Moute MIL 03/03/2010 MIL vs. WAS W 21 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 1 1 3 2 0
+p244
+aVPrimoz Brezec MIL 03/03/2010 MIL vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p245
+aVErsan Ilyasova MIL 02/28/2010 MIL @ ATL L 31 9 3 9 33.3 0 1 0.0 3 4 75.0 2 6 8 1 1 0 1 6 22
+p246
+aVJerry Stackhouse MIL 02/28/2010 MIL @ ATL L 28 20 7 14 50.0 0 2 0.0 6 6 100.0 1 3 4 1 0 0 4 0 3
+p247
+aVCarlos Delfino MIL 02/28/2010 MIL @ ATL L 40 11 4 12 33.3 1 4 25.0 2 2 100.0 1 4 5 2 3 1 3 1 -19
+p248
+aVCharlie Bell MIL 02/28/2010 MIL @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p249
+aVBrandon Jennings MIL 02/28/2010 MIL @ ATL L 26 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 5 2 0 1 2 -9
+p250
+aVKurt Thomas MIL 02/28/2010 MIL @ ATL L 12 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 0 4 -4
+p251
+aVLuc Mbah a Moute MIL 02/28/2010 MIL @ ATL L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -20
+p252
+aVLuke Ridnour MIL 02/28/2010 MIL @ ATL L 27 13 6 8 75.0 1 1 100.0 0 0 - 1 3 4 4 0 0 2 3 5
+p253
+aVJohn Salmons MIL 02/28/2010 MIL @ ATL L 47 32 11 20 55.0 2 4 50.0 8 9 88.9 2 6 8 4 1 0 2 3 2
+p254
+aVAndrew Bogut MIL 02/28/2010 MIL @ ATL L 41 14 5 11 45.5 0 0 - 4 4 100.0 0 9 9 4 0 4 1 4 0
+p255
+aVPrimoz Brezec MIL 02/27/2010 MIL @ MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p256
+aVErsan Ilyasova MIL 02/27/2010 MIL @ MIA W 21 6 3 7 42.9 0 2 0.0 0 0 - 1 6 7 1 0 0 2 4 4
+p257
+aVJerry Stackhouse MIL 02/27/2010 MIL @ MIA W 25 16 6 10 60.0 4 7 57.1 0 0 - 1 2 3 1 0 1 0 4 14
+p258
+aVCarlos Delfino MIL 02/27/2010 MIL @ MIA W 36 15 6 11 54.5 3 6 50.0 0 0 - 0 8 8 5 1 0 5 2 7
+p259
+aVLuc Mbah a Moute MIL 02/27/2010 MIL @ MIA W 24 9 3 5 60.0 0 0 - 3 3 100.0 3 4 7 0 0 1 1 0 18
+p260
+aVCharlie Bell MIL 02/27/2010 MIL @ MIA W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 3
+p261
+aVRoyal Ivey MIL 02/27/2010 MIL @ MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p262
+aVLuke Ridnour MIL 02/27/2010 MIL @ MIA W 14 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 1 0 1 0 -2
+p263
+aVAndrew Bogut MIL 02/27/2010 MIL @ MIA W 30 8 4 10 40.0 0 0 - 0 1 0.0 2 8 10 0 0 2 1 2 22
+p264
+aVKurt Thomas MIL 02/27/2010 MIL @ MIA W 18 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 2 1
+p265
+aVJohn Salmons MIL 02/27/2010 MIL @ MIA W 30 18 7 11 63.6 2 5 40.0 2 2 100.0 0 3 3 5 0 1 1 1 22
+p266
+aVBrandon Jennings MIL 02/27/2010 MIL @ MIA W 30 11 4 11 36.4 1 3 33.3 2 2 100.0 1 4 5 8 0 0 0 0 24
+p267
+aVLuke Ridnour MIL 02/25/2010 MIL @ IND W 27 12 6 11 54.5 0 1 0.0 0 0 - 1 2 3 8 2 0 2 3 -7
+p268
+aVErsan Ilyasova MIL 02/25/2010 MIL @ IND W 21 17 7 9 77.8 1 2 50.0 2 2 100.0 1 4 5 1 0 0 0 3 8
+p269
+aVAndrew Bogut MIL 02/25/2010 MIL @ IND W 24 15 7 9 77.8 0 0 - 1 1 100.0 4 6 10 2 0 2 3 5 1
+p270
+aVCarlos Delfino MIL 02/25/2010 MIL @ IND W 33 10 3 9 33.3 1 3 33.3 3 4 75.0 1 6 7 4 2 1 1 2 4
+p271
+aVRoyal Ivey MIL 02/25/2010 MIL @ IND W 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 2 1
+p272
+aVCharlie Bell MIL 02/25/2010 MIL @ IND W 9 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 2 -4
+p273
+aVLuc Mbah a Moute MIL 02/25/2010 MIL @ IND W 24 6 3 7 42.9 0 0 - 0 0 - 4 5 9 0 1 1 0 4 -4
+p274
+aVJerry Stackhouse MIL 02/25/2010 MIL @ IND W 24 11 4 10 40.0 2 4 50.0 1 2 50.0 0 3 3 0 0 0 0 1 0
+p275
+aVBrandon Jennings MIL 02/25/2010 MIL @ IND W 37 18 6 18 33.3 2 4 50.0 4 4 100.0 0 4 4 7 0 0 2 3 12
+p276
+aVJohn Salmons MIL 02/25/2010 MIL @ IND W 35 20 5 12 41.7 1 3 33.3 9 10 90.0 1 1 2 1 0 1 1 3 -1
+p277
+aVCarlos Delfino MIL 02/24/2010 MIL vs. NOH W 36 9 4 8 50.0 1 4 25.0 0 0 - 0 3 3 4 1 3 1 2 19
+p278
+aVErsan Ilyasova MIL 02/24/2010 MIL vs. NOH W 18 9 4 10 40.0 1 4 25.0 0 1 0.0 0 5 5 2 0 0 1 1 1
+p279
+aVJerry Stackhouse MIL 02/24/2010 MIL vs. NOH W 25 13 4 7 57.1 2 3 66.7 3 3 100.0 0 4 4 4 0 1 3 0 5
+p280
+aVBrandon Jennings MIL 02/24/2010 MIL vs. NOH W 25 9 4 11 36.4 1 3 33.3 0 2 0.0 0 2 2 4 1 0 0 2 15
+p281
+aVKurt Thomas MIL 02/24/2010 MIL vs. NOH W 15 4 2 2 100.0 0 0 - 0 0 - 3 1 4 2 0 1 0 2 8
+p282
+aVRoyal Ivey MIL 02/24/2010 MIL vs. NOH W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p283
+aVLuke Ridnour MIL 02/24/2010 MIL vs. NOH W 20 10 5 10 50.0 0 0 - 0 0 - 0 2 2 6 1 1 1 1 4
+p284
+aVPrimoz Brezec MIL 02/24/2010 MIL vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p285
+aVAndrew Bogut MIL 02/24/2010 MIL vs. NOH W 30 26 13 21 61.9 0 0 - 0 0 - 6 7 13 1 0 2 0 2 11
+p286
+aVJohn Salmons MIL 02/24/2010 MIL vs. NOH W 33 18 5 11 45.5 0 2 0.0 8 8 100.0 0 2 2 2 0 0 1 2 15
+p287
+aVLuc Mbah a Moute MIL 02/24/2010 MIL vs. NOH W 24 10 4 7 57.1 0 0 - 2 3 66.7 4 6 10 0 0 0 0 3 13
+p288
+aVCharlie Bell MIL 02/24/2010 MIL vs. NOH W 8 7 3 4 75.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 3 7
+p289
+aVLuke Ridnour MIL 02/22/2010 MIL @ NYK W 26 6 3 10 30.0 0 2 0.0 0 0 - 1 1 2 5 0 0 1 0 15
+p290
+aVRoyal Ivey MIL 02/22/2010 MIL @ NYK W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p291
+aVJohn Salmons MIL 02/22/2010 MIL @ NYK W 40 15 7 18 38.9 1 7 14.3 0 2 0.0 0 2 2 2 2 0 3 3 10
+p292
+aVAndrew Bogut MIL 02/22/2010 MIL @ NYK W 36 24 12 15 80.0 0 0 - 0 0 - 6 14 20 0 0 5 3 3 13
+p293
+aVErsan Ilyasova MIL 02/22/2010 MIL @ NYK W 22 10 5 8 62.5 0 0 - 0 0 - 3 3 6 0 1 0 1 1 11
+p294
+aVLuc Mbah a Moute MIL 02/22/2010 MIL @ NYK W 33 11 5 6 83.3 0 0 - 1 2 50.0 3 8 11 4 1 0 0 3 14
+p295
+aVCarlos Delfino MIL 02/22/2010 MIL @ NYK W 36 10 3 13 23.1 2 5 40.0 2 2 100.0 1 6 7 1 2 0 4 4 10
+p296
+aVBrandon Jennings MIL 02/22/2010 MIL @ NYK W 27 4 1 9 11.1 0 0 - 2 2 100.0 2 6 8 7 1 0 3 0 9
+p297
+aVJerry Stackhouse MIL 02/22/2010 MIL @ NYK W 15 3 1 5 20.0 1 3 33.3 0 0 - 0 4 4 1 0 0 3 2 2
+p298
+aVJerry Stackhouse MIL 02/20/2010 MIL vs. CHA W 18 6 2 6 33.3 2 3 66.7 0 0 - 0 3 3 1 0 0 1 2 -4
+p299
+aVLuc Mbah a Moute MIL 02/20/2010 MIL vs. CHA W 40 12 6 7 85.7 0 0 - 0 0 - 2 5 7 1 1 2 2 4 5
+p300
+aVRoyal Ivey MIL 02/20/2010 MIL vs. CHA W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 3
+p301
+aVLuke Ridnour MIL 02/20/2010 MIL vs. CHA W 8 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 4 -15
+p302
+aVCharlie Bell MIL 02/20/2010 MIL vs. CHA W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 0
+p303
+aVAndrew Bogut MIL 02/20/2010 MIL vs. CHA W 41 18 8 18 44.4 0 0 - 2 4 50.0 4 9 13 4 0 5 5 2 13
+p304
+aVBrandon Jennings MIL 02/20/2010 MIL vs. CHA W 37 19 5 16 31.3 2 4 50.0 7 8 87.5 1 6 7 5 2 0 1 1 17
+p305
+aVKurt Thomas MIL 02/20/2010 MIL vs. CHA W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 2 5 -8
+p306
+aVCarlos Delfino MIL 02/20/2010 MIL vs. CHA W 30 9 3 10 30.0 1 7 14.3 2 4 50.0 1 3 4 1 1 0 1 1 9
+p307
+aVErsan Ilyasova MIL 02/20/2010 MIL vs. CHA W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 0
+p308
+aVJohn Salmons MIL 02/20/2010 MIL vs. CHA W 37 19 5 14 35.7 2 5 40.0 7 8 87.5 2 3 5 7 2 0 3 2 5
+p309
+aVJohn Salmons MIL 02/19/2010 MIL @ DET W 33 19 6 16 37.5 3 6 50.0 4 5 80.0 1 0 1 0 0 0 1 5 15
+p310
+aVKurt Thomas MIL 02/19/2010 MIL @ DET W 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p311
+aVCarlos Delfino MIL 02/19/2010 MIL @ DET W 31 16 6 10 60.0 4 7 57.1 0 0 - 0 3 3 6 1 0 4 0 0
+p312
+aVErsan Ilyasova MIL 02/19/2010 MIL @ DET W 33 16 6 6 100.0 1 1 100.0 3 6 50.0 3 9 12 3 3 0 0 2 15
+p313
+aVLuc Mbah a Moute MIL 02/19/2010 MIL @ DET W 16 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 0 1 2 2 -11
+p314
+aVJerry Stackhouse MIL 02/19/2010 MIL @ DET W 19 12 4 8 50.0 1 3 33.3 3 4 75.0 0 3 3 0 0 0 1 2 8
+p315
+aVAndrew Bogut MIL 02/19/2010 MIL @ DET W 35 12 6 14 42.9 0 0 - 0 0 - 5 7 12 1 1 5 2 2 5
+p316
+aVLuke Ridnour MIL 02/19/2010 MIL @ DET W 16 6 2 6 33.3 0 3 0.0 2 2 100.0 0 1 1 4 0 0 0 0 11
+p317
+aVBrandon Jennings MIL 02/19/2010 MIL @ DET W 32 10 1 13 7.7 0 3 0.0 8 9 88.9 1 2 3 4 4 0 2 2 -5
+p318
+aVCharlie Bell MIL 02/19/2010 MIL @ DET W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 -9
+p319
+aVLuke Ridnour MIL 02/17/2010 MIL vs. HOU L 34 12 5 14 35.7 0 0 - 2 2 100.0 0 3 3 6 1 0 0 1 -25
+p320
+aVJodie Meeks MIL 02/17/2010 MIL vs. HOU L 23 7 2 11 18.2 0 4 0.0 3 4 75.0 2 4 6 0 1 0 0 2 -8
+p321
+aVCarlos Delfino MIL 02/17/2010 MIL vs. HOU L 26 11 4 9 44.4 1 2 50.0 2 4 50.0 2 6 8 3 2 0 4 3 -23
+p322
+aVBrandon Jennings MIL 02/17/2010 MIL vs. HOU L 20 13 6 9 66.7 1 2 50.0 0 0 - 0 1 1 2 1 1 4 3 -20
+p323
+aVJerry Stackhouse MIL 02/17/2010 MIL vs. HOU L 15 2 0 5 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -15
+p324
+aVCharlie Bell MIL 02/17/2010 MIL vs. HOU L 27 9 3 8 37.5 2 6 33.3 1 1 100.0 0 1 1 2 1 0 0 1 4
+p325
+aVDan Gadzuric MIL 02/17/2010 MIL vs. HOU L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -11
+p326
+aVKurt Thomas MIL 02/17/2010 MIL vs. HOU L 18 8 4 6 66.7 0 0 - 0 0 - 2 3 5 1 0 1 0 5 5
+p327
+aVErsan Ilyasova MIL 02/17/2010 MIL vs. HOU L 20 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 2 2 0 1 3 -23
+p328
+aVAndrew Bogut MIL 02/17/2010 MIL vs. HOU L 24 12 5 12 41.7 0 0 - 2 4 50.0 3 4 7 1 0 1 3 0 -22
+p329
+aVLuc Mbah a Moute MIL 02/17/2010 MIL vs. HOU L 27 18 6 11 54.5 0 0 - 6 8 75.0 5 3 8 1 1 1 1 5 -2
+p330
+aVJodie Meeks MIL 02/10/2010 MIL @ NJN W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -2
+p331
+aVLuke Ridnour MIL 02/10/2010 MIL @ NJN W 33 17 6 13 46.2 2 3 66.7 3 3 100.0 2 2 4 8 1 1 2 2 22
+p332
+aVKurt Thomas MIL 02/10/2010 MIL @ NJN W 14 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 3 0 2 -3
+p333
+aVDan Gadzuric MIL 02/10/2010 MIL @ NJN W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 2 1 -2
+p334
+aVJerry Stackhouse MIL 02/10/2010 MIL @ NJN W 32 5 2 4 50.0 0 1 0.0 1 2 50.0 0 4 4 5 1 0 2 1 27
+p335
+aVLuc Mbah a Moute MIL 02/10/2010 MIL @ NJN W 22 8 4 4 100.0 0 0 - 0 1 0.0 6 6 12 1 1 0 0 2 0
+p336
+aVBrandon Jennings MIL 02/10/2010 MIL @ NJN W 20 7 3 8 37.5 0 0 - 1 2 50.0 1 2 3 3 2 0 5 2 -6
+p337
+aVCarlos Delfino MIL 02/10/2010 MIL @ NJN W 32 9 4 10 40.0 1 4 25.0 0 0 - 0 2 2 5 0 0 1 2 26
+p338
+aVErsan Ilyasova MIL 02/10/2010 MIL @ NJN W 22 18 8 13 61.5 2 3 66.7 0 3 0.0 1 5 6 1 1 0 0 2 22
+p339
+aVCharlie Bell MIL 02/10/2010 MIL @ NJN W 24 5 2 8 25.0 1 3 33.3 0 0 - 1 0 1 1 0 0 1 2 -7
+p340
+aVAndrew Bogut MIL 02/10/2010 MIL @ NJN W 34 22 11 22 50.0 0 0 - 0 1 0.0 2 7 9 4 1 4 0 3 23
+p341
+aVJodie Meeks MIL 02/09/2010 MIL vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p342
+aVAndrew Bogut MIL 02/09/2010 MIL vs. DET L 34 17 8 21 38.1 0 0 - 1 2 50.0 10 8 18 3 0 3 2 1 4
+p343
+aVJerry Stackhouse MIL 02/09/2010 MIL vs. DET L 16 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 0 1 1 1 -11
+p344
+aVHakim Warrick MIL 02/09/2010 MIL vs. DET L 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 4 2 -14
+p345
+aVLuc Mbah a Moute MIL 02/09/2010 MIL vs. DET L 38 9 4 8 50.0 0 0 - 1 2 50.0 6 5 11 2 1 1 1 2 2
+p346
+aVCarlos Delfino MIL 02/09/2010 MIL vs. DET L 37 9 3 11 27.3 3 8 37.5 0 0 - 1 3 4 4 0 0 0 3 -15
+p347
+aVBrandon Jennings MIL 02/09/2010 MIL vs. DET L 34 18 5 16 31.3 2 6 33.3 6 8 75.0 0 3 3 5 3 0 3 2 1
+p348
+aVCharlie Bell MIL 02/09/2010 MIL vs. DET L 41 15 5 8 62.5 1 2 50.0 4 4 100.0 0 3 3 1 2 1 2 3 -2
+p349
+aVErsan Ilyasova MIL 02/09/2010 MIL vs. DET L 10 0 0 2 0.0 0 1 0.0 0 0 - 3 1 4 0 0 0 0 1 -16
+p350
+aVLuke Ridnour MIL 02/09/2010 MIL vs. DET L 14 7 2 6 33.3 0 1 0.0 3 3 100.0 0 0 0 0 0 0 2 3 -11
+p351
+aVBrandon Jennings MIL 02/06/2010 MIL vs. IND W 32 5 2 10 20.0 1 3 33.3 0 2 0.0 0 3 3 7 2 0 0 3 20
+p352
+aVLuc Mbah a Moute MIL 02/06/2010 MIL vs. IND W 43 18 7 9 77.8 0 1 0.0 4 4 100.0 3 8 11 1 1 1 0 1 6
+p353
+aVHakim Warrick MIL 02/06/2010 MIL vs. IND W 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 2
+p354
+aVLuke Ridnour MIL 02/06/2010 MIL vs. IND W 16 4 1 6 16.7 0 2 0.0 2 2 100.0 1 1 2 0 1 0 2 2 -8
+p355
+aVJerry Stackhouse MIL 02/06/2010 MIL vs. IND W 30 14 5 11 45.5 3 6 50.0 1 2 50.0 1 5 6 1 0 0 2 2 8
+p356
+aVErsan Ilyasova MIL 02/06/2010 MIL vs. IND W 12 5 2 7 28.6 0 2 0.0 1 2 50.0 1 1 2 0 1 0 0 3 -5
+p357
+aVCharlie Bell MIL 02/06/2010 MIL vs. IND W 33 9 3 8 37.5 1 3 33.3 2 2 100.0 1 5 6 5 1 0 0 0 1
+p358
+aVCarlos Delfino MIL 02/06/2010 MIL vs. IND W 36 16 5 13 38.5 4 9 44.4 2 2 100.0 0 4 4 5 4 0 4 1 20
+p359
+aVAndrew Bogut MIL 02/06/2010 MIL vs. IND W 34 21 9 15 60.0 0 0 - 3 3 100.0 3 5 8 2 1 1 3 3 16
+p360
+aVErsan Ilyasova MIL 02/05/2010 MIL @ NYK W 30 25 10 18 55.6 2 3 66.7 3 4 75.0 2 7 9 0 0 0 0 5 1
+p361
+aVJodie Meeks MIL 02/05/2010 MIL @ NYK W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p362
+aVLuke Ridnour MIL 02/05/2010 MIL @ NYK W 11 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 3 0 0 0 2 -12
+p363
+aVJerry Stackhouse MIL 02/05/2010 MIL @ NYK W 21 5 2 7 28.6 1 3 33.3 0 0 - 1 2 3 2 0 0 0 1 -3
+p364
+aVLuc Mbah a Moute MIL 02/05/2010 MIL @ NYK W 34 16 6 7 85.7 0 0 - 4 5 80.0 4 2 6 0 2 2 2 4 12
+p365
+aVHakim Warrick MIL 02/05/2010 MIL @ NYK W 17 8 4 6 66.7 0 0 - 0 0 - 3 3 6 1 1 0 1 1 3
+p366
+aVAndrew Bogut MIL 02/05/2010 MIL @ NYK W 5 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 8
+p367
+aVCarlos Delfino MIL 02/05/2010 MIL @ NYK W 42 13 5 12 41.7 2 6 33.3 1 1 100.0 1 8 9 6 3 0 4 4 14
+p368
+aVBrandon Jennings MIL 02/05/2010 MIL @ NYK W 35 22 8 23 34.8 2 7 28.6 4 4 100.0 0 2 2 8 0 0 2 2 17
+p369
+aVKurt Thomas MIL 02/05/2010 MIL @ NYK W 9 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 1 1 -8
+p370
+aVCharlie Bell MIL 02/05/2010 MIL @ NYK W 34 13 4 10 40.0 3 4 75.0 2 4 50.0 0 1 1 1 0 0 1 2 3
+p371
+aVHakim Warrick MIL 02/02/2010 MIL @ ORL L 23 9 4 7 57.1 0 0 - 1 6 16.7 2 3 5 0 0 0 0 0 -11
+p372
+aVJodie Meeks MIL 02/02/2010 MIL @ ORL L 10 2 1 4 25.0 0 1 0.0 0 1 0.0 0 3 3 0 0 0 0 0 -7
+p373
+aVJerry Stackhouse MIL 02/02/2010 MIL @ ORL L 15 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 -4
+p374
+aVDan Gadzuric MIL 02/02/2010 MIL @ ORL L 5 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p375
+aVLuke Ridnour MIL 02/02/2010 MIL @ ORL L 26 13 5 11 45.5 2 4 50.0 1 1 100.0 1 2 3 4 0 0 2 4 -14
+p376
+aVAndrew Bogut MIL 02/02/2010 MIL @ ORL L 28 10 5 11 45.5 0 0 - 0 2 0.0 2 8 10 1 0 3 1 3 1
+p377
+aVErsan Ilyasova MIL 02/02/2010 MIL @ ORL L 17 8 2 7 28.6 1 3 33.3 3 5 60.0 2 0 2 1 0 0 0 2 -15
+p378
+aVCharlie Bell MIL 02/02/2010 MIL @ ORL L 27 13 5 11 45.5 3 5 60.0 0 0 - 1 1 2 2 0 0 2 3 -8
+p379
+aVLuc Mbah a Moute MIL 02/02/2010 MIL @ ORL L 20 2 1 4 25.0 0 0 - 0 0 - 4 2 6 1 1 1 0 1 -5
+p380
+aVKurt Thomas MIL 02/02/2010 MIL @ ORL L 16 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 1 0 0 4 -18
+p381
+aVCarlos Delfino MIL 02/02/2010 MIL @ ORL L 26 8 2 13 15.4 0 3 0.0 4 4 100.0 1 5 6 3 2 0 3 3 -6
+p382
+aVBrandon Jennings MIL 02/02/2010 MIL @ ORL L 27 2 1 7 14.3 0 3 0.0 0 0 - 0 3 3 4 1 0 0 2 2
+p383
+aVLuke Ridnour MIL 02/01/2010 MIL @ MIA W 17 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 3 0 0 1 2 25
+p384
+aVHakim Warrick MIL 02/01/2010 MIL @ MIA W 26 12 6 12 50.0 0 0 - 0 0 - 2 4 6 2 1 1 0 3 16
+p385
+aVLuc Mbah a Moute MIL 02/01/2010 MIL @ MIA W 18 4 1 2 50.0 0 0 - 2 2 100.0 3 2 5 1 0 1 2 3 -2
+p386
+aVAndrew Bogut MIL 02/01/2010 MIL @ MIA W 34 22 10 13 76.9 0 0 - 2 3 66.7 0 11 11 1 0 1 3 4 7
+p387
+aVKurt Thomas MIL 02/01/2010 MIL @ MIA W 14 8 4 4 100.0 0 0 - 0 0 - 2 2 4 1 1 0 0 2 9
+p388
+aVJerry Stackhouse MIL 02/01/2010 MIL @ MIA W 14 7 1 4 25.0 1 1 100.0 4 5 80.0 0 1 1 1 0 0 0 0 11
+p389
+aVErsan Ilyasova MIL 02/01/2010 MIL @ MIA W 10 3 0 2 0.0 0 1 0.0 3 4 75.0 1 1 2 1 0 1 0 4 5
+p390
+aVBrandon Jennings MIL 02/01/2010 MIL @ MIA W 33 9 4 10 40.0 1 4 25.0 0 0 - 0 4 4 8 2 0 3 1 -3
+p391
+aVCharlie Bell MIL 02/01/2010 MIL @ MIA W 30 12 4 8 50.0 2 5 40.0 2 2 100.0 1 0 1 0 0 0 1 2 -6
+p392
+aVCarlos Delfino MIL 02/01/2010 MIL @ MIA W 42 16 5 11 45.5 1 4 25.0 5 6 83.3 0 10 10 4 3 0 4 2 17
+p393
+aVJodie Meeks MIL 02/01/2010 MIL @ MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p394
+aVLuc Mbah a Moute MIL 01/30/2010 MIL vs. MIA W 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -3
+p395
+aVErsan Ilyasova MIL 01/30/2010 MIL vs. MIA W 16 4 2 8 25.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 2 -2
+p396
+aVJodie Meeks MIL 01/30/2010 MIL vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p397
+aVJerry Stackhouse MIL 01/30/2010 MIL vs. MIA W 22 8 4 6 66.7 0 0 - 0 0 - 0 3 3 3 1 0 4 3 13
+p398
+aVKurt Thomas MIL 01/30/2010 MIL vs. MIA W 11 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 1 1 0
+p399
+aVAndrew Bogut MIL 01/30/2010 MIL vs. MIA W 34 17 6 11 54.5 0 0 - 5 6 83.3 6 9 15 2 2 4 4 5 14
+p400
+aVHakim Warrick MIL 01/30/2010 MIL vs. MIA W 28 22 9 14 64.3 0 0 - 4 4 100.0 4 2 6 0 0 0 2 1 13
+p401
+aVBrandon Jennings MIL 01/30/2010 MIL vs. MIA W 37 17 4 13 30.8 3 5 60.0 6 8 75.0 1 4 5 5 2 0 2 2 12
+p402
+aVCarlos Delfino MIL 01/30/2010 MIL vs. MIA W 40 16 6 11 54.5 2 4 50.0 2 3 66.7 0 7 7 2 1 0 1 1 2
+p403
+aVCharlie Bell MIL 01/30/2010 MIL vs. MIA W 33 11 3 6 50.0 2 4 50.0 3 4 75.0 0 3 3 1 1 0 0 2 7
+p404
+aVLuke Ridnour MIL 01/30/2010 MIL vs. MIA W 11 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 3 0 1 1 2 -1
+p405
+aVCarlos Delfino MIL 01/27/2010 MIL vs. PHI W 25 6 3 8 37.5 0 2 0.0 0 0 - 0 5 5 1 1 0 1 2 10
+p406
+aVBrandon Jennings MIL 01/27/2010 MIL vs. PHI W 34 18 8 18 44.4 1 3 33.3 1 3 33.3 0 1 1 7 1 0 2 5 5
+p407
+aVHakim Warrick MIL 01/27/2010 MIL vs. PHI W 10 7 2 5 40.0 0 0 - 3 3 100.0 1 0 1 0 1 0 0 0 3
+p408
+aVErsan Ilyasova MIL 01/27/2010 MIL vs. PHI W 20 15 7 8 87.5 1 1 100.0 0 0 - 4 2 6 0 0 0 0 1 -6
+p409
+aVLuc Mbah a Moute MIL 01/27/2010 MIL vs. PHI W 38 2 1 6 16.7 0 1 0.0 0 2 0.0 4 4 8 0 4 1 1 1 6
+p410
+aVCharlie Bell MIL 01/27/2010 MIL vs. PHI W 44 18 8 17 47.1 2 4 50.0 0 2 0.0 1 2 3 3 1 1 0 1 5
+p411
+aVJerry Stackhouse MIL 01/27/2010 MIL vs. PHI W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -10
+p412
+aVAndrew Bogut MIL 01/27/2010 MIL vs. PHI W 38 11 3 9 33.3 0 0 - 5 7 71.4 1 8 9 0 2 1 3 2 2
+p413
+aVKurt Thomas MIL 01/27/2010 MIL vs. PHI W 10 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 1 0 5 1
+p414
+aVLuke Ridnour MIL 01/27/2010 MIL vs. PHI W 15 10 3 7 42.9 1 1 100.0 3 4 75.0 0 1 1 4 0 0 1 2 -1
+p415
+aVLuke Ridnour MIL 01/26/2010 MIL @ DAL L 28 11 4 11 36.4 1 1 100.0 2 2 100.0 0 0 0 6 1 0 1 1 -2
+p416
+aVJerry Stackhouse MIL 01/26/2010 MIL @ DAL L 22 9 3 6 50.0 1 2 50.0 2 2 100.0 1 2 3 1 3 0 3 0 1
+p417
+aVAndrew Bogut MIL 01/26/2010 MIL @ DAL L 37 32 13 14 92.9 0 0 - 6 8 75.0 1 8 9 0 0 1 3 2 -3
+p418
+aVCarlos Delfino MIL 01/26/2010 MIL @ DAL L 38 22 8 12 66.7 4 5 80.0 2 2 100.0 0 6 6 5 0 0 2 0 0
+p419
+aVBrandon Jennings MIL 01/26/2010 MIL @ DAL L 37 12 5 16 31.3 1 3 33.3 1 1 100.0 1 2 3 7 1 1 1 2 -5
+p420
+aVJodie Meeks MIL 01/26/2010 MIL @ DAL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p421
+aVErsan Ilyasova MIL 01/26/2010 MIL @ DAL L 18 11 3 4 75.0 1 2 50.0 4 5 80.0 1 2 3 0 0 0 0 3 -1
+p422
+aVLuc Mbah a Moute MIL 01/26/2010 MIL @ DAL L 30 3 1 5 20.0 0 0 - 1 2 50.0 3 1 4 0 2 2 1 2 0
+p423
+aVCharlie Bell MIL 01/26/2010 MIL @ DAL L 17 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 1 0 1 0 2 -2
+p424
+aVKurt Thomas MIL 01/26/2010 MIL @ DAL L 11 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 2
+p425
+aVAndrew Bogut MIL 01/23/2010 MIL vs. MIN W 24 14 5 6 83.3 0 0 - 4 4 100.0 0 6 6 1 0 4 1 2 17
+p426
+aVHakim Warrick MIL 01/23/2010 MIL vs. MIN W 17 18 7 8 87.5 0 0 - 4 5 80.0 1 2 3 1 0 0 1 4 8
+p427
+aVCarlos Delfino MIL 01/23/2010 MIL vs. MIN W 34 24 9 11 81.8 4 6 66.7 2 3 66.7 2 6 8 8 2 0 1 4 21
+p428
+aVLuke Ridnour MIL 01/23/2010 MIL vs. MIN W 18 9 3 8 37.5 1 3 33.3 2 2 100.0 0 4 4 6 0 0 1 2 14
+p429
+aVKurt Thomas MIL 01/23/2010 MIL vs. MIN W 20 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 1 4 2 10
+p430
+aVJerry Stackhouse MIL 01/23/2010 MIL vs. MIN W 28 14 6 12 50.0 0 3 0.0 2 2 100.0 0 3 3 5 2 0 4 2 19
+p431
+aVJodie Meeks MIL 01/23/2010 MIL vs. MIN W 7 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 8
+p432
+aVLuc Mbah a Moute MIL 01/23/2010 MIL vs. MIN W 11 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 1 1 4 2
+p433
+aVBrandon Jennings MIL 01/23/2010 MIL vs. MIN W 30 18 8 16 50.0 2 3 66.7 0 0 - 0 2 2 13 3 1 1 2 19
+p434
+aVCharlie Bell MIL 01/23/2010 MIL vs. MIN W 27 8 3 8 37.5 2 5 40.0 0 0 - 0 2 2 1 0 0 1 0 18
+p435
+aVErsan Ilyasova MIL 01/23/2010 MIL vs. MIN W 20 8 3 9 33.3 2 3 66.7 0 0 - 2 5 7 0 0 0 0 2 23
+p436
+aVDan Gadzuric MIL 01/23/2010 MIL vs. MIN W 5 3 1 3 33.3 0 0 - 1 1 100.0 1 2 3 0 0 0 0 2 6
+p437
+aVAndrew Bogut MIL 01/22/2010 MIL @ TOR L 37 22 8 13 61.5 0 0 - 6 7 85.7 0 6 6 3 0 3 0 4 -4
+p438
+aVLuke Ridnour MIL 01/22/2010 MIL @ TOR L 24 27 9 13 69.2 3 6 50.0 6 6 100.0 0 2 2 4 0 0 0 4 -14
+p439
+aVCarlos Delfino MIL 01/22/2010 MIL @ TOR L 43 9 4 16 25.0 1 8 12.5 0 2 0.0 1 10 11 1 1 0 2 3 -3
+p440
+aVBrandon Jennings MIL 01/22/2010 MIL @ TOR L 32 14 5 15 33.3 0 3 0.0 4 4 100.0 0 3 3 2 3 0 2 4 -5
+p441
+aVErsan Ilyasova MIL 01/22/2010 MIL @ TOR L 22 5 2 5 40.0 0 2 0.0 1 1 100.0 0 3 3 0 0 0 0 2 10
+p442
+aVCharlie Bell MIL 01/22/2010 MIL @ TOR L 28 3 1 7 14.3 1 6 16.7 0 0 - 2 2 4 2 1 0 0 4 0
+p443
+aVLuc Mbah a Moute MIL 01/22/2010 MIL @ TOR L 22 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 2 1 0 2 3 -9
+p444
+aVKurt Thomas MIL 01/22/2010 MIL @ TOR L 11 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 2 0 3 1
+p445
+aVJerry Stackhouse MIL 01/22/2010 MIL @ TOR L 21 8 3 5 60.0 0 1 0.0 2 2 100.0 0 3 3 1 1 0 5 3 -1
+p446
+aVFrancisco Elson MIL 01/20/2010 MIL vs. TOR W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p447
+aVJerry Stackhouse MIL 01/20/2010 MIL vs. TOR W 17 3 1 5 20.0 1 1 100.0 0 0 - 4 1 5 4 0 0 0 0 -6
+p448
+aVAndrew Bogut MIL 01/20/2010 MIL vs. TOR W 32 27 11 14 78.6 0 0 - 5 6 83.3 4 8 12 2 0 3 3 6 9
+p449
+aVHakim Warrick MIL 01/20/2010 MIL vs. TOR W 4 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p450
+aVLuc Mbah a Moute MIL 01/20/2010 MIL vs. TOR W 31 8 4 6 66.7 0 0 - 0 0 - 2 3 5 4 0 1 1 4 9
+p451
+aVCarlos Delfino MIL 01/20/2010 MIL vs. TOR W 39 22 7 15 46.7 4 8 50.0 4 4 100.0 3 5 8 4 1 0 1 1 2
+p452
+aVLuke Ridnour MIL 01/20/2010 MIL vs. TOR W 12 11 4 7 57.1 1 2 50.0 2 2 100.0 1 2 3 0 1 0 1 2 -2
+p453
+aVCharlie Bell MIL 01/20/2010 MIL vs. TOR W 35 13 6 9 66.7 1 2 50.0 0 0 - 0 3 3 3 1 0 0 2 12
+p454
+aVErsan Ilyasova MIL 01/20/2010 MIL vs. TOR W 24 9 3 12 25.0 1 4 25.0 2 4 50.0 2 3 5 1 1 0 0 4 6
+p455
+aVBrandon Jennings MIL 01/20/2010 MIL vs. TOR W 36 16 5 21 23.8 2 6 33.3 4 4 100.0 0 4 4 6 1 1 1 1 8
+p456
+aVHakim Warrick MIL 01/18/2010 MIL @ HOU L 18 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 2 0 0 2 0 -9
+p457
+aVAndrew Bogut MIL 01/18/2010 MIL @ HOU L 45 18 9 16 56.3 0 0 - 0 3 0.0 3 14 17 4 1 6 3 6 5
+p458
+aVKurt Thomas MIL 01/18/2010 MIL @ HOU L 6 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 -3
+p459
+aVErsan Ilyasova MIL 01/18/2010 MIL @ HOU L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 2 -2
+p460
+aVCharlie Bell MIL 01/18/2010 MIL @ HOU L 20 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 8
+p461
+aVLuc Mbah a Moute MIL 01/18/2010 MIL @ HOU L 44 15 7 11 63.6 1 1 100.0 0 0 - 3 5 8 1 1 0 2 5 3
+p462
+aVBrandon Jennings MIL 01/18/2010 MIL @ HOU L 42 25 9 24 37.5 4 9 44.4 3 4 75.0 1 2 3 7 0 0 2 2 -11
+p463
+aVJodie Meeks MIL 01/18/2010 MIL @ HOU L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 2 3 -2
+p464
+aVLuke Ridnour MIL 01/18/2010 MIL @ HOU L 31 14 7 15 46.7 0 4 0.0 0 0 - 0 0 0 4 0 0 3 3 -2
+p465
+aVCarlos Delfino MIL 01/18/2010 MIL @ HOU L 37 11 4 10 40.0 3 6 50.0 0 0 - 1 9 10 1 2 2 1 2 -2
+p466
+aVCarlos Delfino MIL 01/16/2010 MIL @ UTA L 39 28 10 14 71.4 6 10 60.0 2 4 50.0 0 4 4 3 4 0 5 1 -16
+p467
+aVAndrew Bogut MIL 01/16/2010 MIL @ UTA L 35 10 4 8 50.0 0 0 - 2 2 100.0 3 8 11 3 1 3 5 3 -11
+p468
+aVHakim Warrick MIL 01/16/2010 MIL @ UTA L 17 7 2 7 28.6 0 0 - 3 6 50.0 1 2 3 1 0 0 0 0 -20
+p469
+aVDan Gadzuric MIL 01/16/2010 MIL @ UTA L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 3
+p470
+aVErsan Ilyasova MIL 01/16/2010 MIL @ UTA L 25 13 5 11 45.5 2 5 40.0 1 1 100.0 2 9 11 0 1 0 2 3 -1
+p471
+aVLuc Mbah a Moute MIL 01/16/2010 MIL @ UTA L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -5
+p472
+aVBrandon Jennings MIL 01/16/2010 MIL @ UTA L 31 5 1 8 12.5 0 3 0.0 3 4 75.0 0 3 3 11 2 0 3 4 -6
+p473
+aVKurt Thomas MIL 01/16/2010 MIL @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -9
+p474
+aVLuke Ridnour MIL 01/16/2010 MIL @ UTA L 28 11 4 9 44.4 1 2 50.0 2 2 100.0 0 1 1 3 2 0 2 2 -16
+p475
+aVJodie Meeks MIL 01/16/2010 MIL @ UTA L 13 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p476
+aVCharlie Bell MIL 01/16/2010 MIL @ UTA L 32 14 6 13 46.2 2 3 66.7 0 0 - 2 3 5 2 2 0 0 0 0
+p477
+aVLuc Mbah a Moute MIL 01/15/2010 MIL @ GSW W 38 13 5 7 71.4 0 1 0.0 3 4 75.0 1 8 9 1 1 2 0 3 9
+p478
+aVBrandon Jennings MIL 01/15/2010 MIL @ GSW W 35 25 7 16 43.8 3 5 60.0 8 9 88.9 1 3 4 7 4 0 7 0 10
+p479
+aVCharlie Bell MIL 01/15/2010 MIL @ GSW W 28 12 4 9 44.4 1 4 25.0 3 4 75.0 1 0 1 1 0 0 1 5 11
+p480
+aVHakim Warrick MIL 01/15/2010 MIL @ GSW W 22 15 5 9 55.6 0 1 0.0 5 7 71.4 1 2 3 0 1 0 1 0 0
+p481
+aVCarlos Delfino MIL 01/15/2010 MIL @ GSW W 24 12 5 9 55.6 0 3 0.0 2 2 100.0 0 7 7 2 0 0 1 3 3
+p482
+aVErsan Ilyasova MIL 01/15/2010 MIL @ GSW W 20 6 1 7 14.3 0 3 0.0 4 6 66.7 3 5 8 0 1 1 0 2 6
+p483
+aVAndrew Bogut MIL 01/15/2010 MIL @ GSW W 36 15 7 15 46.7 0 0 - 1 2 50.0 4 12 16 5 0 3 0 3 14
+p484
+aVJodie Meeks MIL 01/15/2010 MIL @ GSW W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 3 -7
+p485
+aVLuke Ridnour MIL 01/15/2010 MIL @ GSW W 23 15 4 10 40.0 2 3 66.7 5 5 100.0 0 2 2 8 2 0 3 1 -1
+p486
+aVHakim Warrick MIL 01/13/2010 MIL @ POR L 16 6 2 5 40.0 0 0 - 2 4 50.0 2 0 2 0 0 0 2 1 8
+p487
+aVAndrew Bogut MIL 01/13/2010 MIL @ POR L 29 10 4 8 50.0 0 1 0.0 2 4 50.0 4 7 11 1 0 2 4 2 -19
+p488
+aVLuc Mbah a Moute MIL 01/13/2010 MIL @ POR L 16 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 0 2 -21
+p489
+aVCarlos Delfino MIL 01/13/2010 MIL @ POR L 9 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 -13
+p490
+aVKurt Thomas MIL 01/13/2010 MIL @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p491
+aVBrandon Jennings MIL 01/13/2010 MIL @ POR L 29 12 4 11 36.4 2 6 33.3 2 2 100.0 0 1 1 7 0 0 2 2 -16
+p492
+aVErsan Ilyasova MIL 01/13/2010 MIL @ POR L 32 24 9 15 60.0 4 6 66.7 2 2 100.0 2 3 5 0 1 0 0 4 -20
+p493
+aVDan Gadzuric MIL 01/13/2010 MIL @ POR L 14 7 2 4 50.0 0 0 - 3 5 60.0 3 5 8 0 1 0 1 4 16
+p494
+aVLuke Ridnour MIL 01/13/2010 MIL @ POR L 31 12 4 12 33.3 0 2 0.0 4 4 100.0 0 1 1 8 1 0 1 2 5
+p495
+aVJodie Meeks MIL 01/13/2010 MIL @ POR L 31 21 9 17 52.9 3 7 42.9 0 0 - 2 2 4 2 1 0 1 3 8
+p496
+aVCharlie Bell MIL 01/13/2010 MIL @ POR L 28 12 4 9 44.4 2 5 40.0 2 2 100.0 0 1 1 3 0 0 1 4 1
+p497
+aVLuc Mbah a Moute MIL 01/11/2010 MIL @ PHX L 17 6 3 4 75.0 0 0 - 0 1 0.0 2 3 5 0 1 0 2 3 -1
+p498
+aVHakim Warrick MIL 01/11/2010 MIL @ PHX L 31 21 8 13 61.5 0 1 0.0 5 6 83.3 3 7 10 0 0 0 1 3 9
+p499
+aVAndrew Bogut MIL 01/11/2010 MIL @ PHX L 24 13 5 16 31.3 0 0 - 3 4 75.0 5 8 13 1 3 0 3 5 -12
+p500
+aVJodie Meeks MIL 01/11/2010 MIL @ PHX L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -4
+p501
+aVCharlie Bell MIL 01/11/2010 MIL @ PHX L 36 9 3 12 25.0 3 10 30.0 0 0 - 0 2 2 1 1 0 1 2 4
+p502
+aVErsan Ilyasova MIL 01/11/2010 MIL @ PHX L 17 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 1 1 1 0 1 -14
+p503
+aVLuke Ridnour MIL 01/11/2010 MIL @ PHX L 32 17 6 13 46.2 2 3 66.7 3 4 75.0 1 2 3 7 1 0 1 3 3
+p504
+aVCarlos Delfino MIL 01/11/2010 MIL @ PHX L 24 9 4 11 36.4 1 4 25.0 0 0 - 1 4 5 2 1 0 0 0 -2
+p505
+aVKurt Thomas MIL 01/11/2010 MIL @ PHX L 21 8 4 8 50.0 0 0 - 0 0 - 1 4 5 0 1 0 2 3 2
+p506
+aVBrandon Jennings MIL 01/11/2010 MIL @ PHX L 32 14 5 18 27.8 4 11 36.4 0 0 - 1 2 3 8 2 0 0 1 -5
+p507
+aVJodie Meeks MIL 01/10/2010 MIL @ LAL L 16 12 5 8 62.5 1 3 33.3 1 2 50.0 1 4 5 2 2 0 0 1 -3
+p508
+aVKurt Thomas MIL 01/10/2010 MIL @ LAL L 16 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 1 0 0 3 -1
+p509
+aVAndrew Bogut MIL 01/10/2010 MIL @ LAL L 26 3 1 5 20.0 0 0 - 1 2 50.0 2 9 11 1 0 1 1 2 -25
+p510
+aVHakim Warrick MIL 01/10/2010 MIL @ LAL L 32 14 6 11 54.5 0 0 - 2 2 100.0 0 5 5 2 0 0 0 1 -16
+p511
+aVMichael Redd MIL 01/10/2010 MIL @ LAL L 12 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -21
+p512
+aVBrandon Jennings MIL 01/10/2010 MIL @ LAL L 24 10 4 17 23.5 2 5 40.0 0 0 - 1 3 4 3 1 0 1 4 -21
+p513
+aVLuke Ridnour MIL 01/10/2010 MIL @ LAL L 30 10 4 14 28.6 1 2 50.0 1 1 100.0 0 1 1 6 1 0 1 2 -4
+p514
+aVFrancisco Elson MIL 01/10/2010 MIL @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 8
+p515
+aVErsan Ilyasova MIL 01/10/2010 MIL @ LAL L 16 3 1 5 20.0 0 2 0.0 1 2 50.0 0 3 3 1 2 0 1 2 -2
+p516
+aVLuc Mbah a Moute MIL 01/10/2010 MIL @ LAL L 17 8 3 5 60.0 0 0 - 2 2 100.0 3 1 4 1 1 0 1 2 -6
+p517
+aVCharlie Bell MIL 01/10/2010 MIL @ LAL L 27 10 4 10 40.0 2 4 50.0 0 0 - 0 2 2 1 0 0 1 2 -3
+p518
+aVCarlos Delfino MIL 01/10/2010 MIL @ LAL L 18 5 2 8 25.0 0 3 0.0 1 2 50.0 0 4 4 0 1 0 1 2 4
+p519
+aVCharlie Bell MIL 01/08/2010 MIL vs. CHI W 21 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 1 0 1 2 0
+p520
+aVAndrew Bogut MIL 01/08/2010 MIL vs. CHI W 42 27 11 23 47.8 0 0 - 5 7 71.4 3 10 13 2 0 6 1 4 2
+p521
+aVLuke Ridnour MIL 01/08/2010 MIL vs. CHI W 16 10 3 5 60.0 2 2 100.0 2 2 100.0 0 0 0 1 0 0 4 5 -5
+p522
+aVErsan Ilyasova MIL 01/08/2010 MIL vs. CHI W 26 13 5 12 41.7 3 7 42.9 0 0 - 4 7 11 0 0 0 0 1 0
+p523
+aVHakim Warrick MIL 01/08/2010 MIL vs. CHI W 22 11 4 7 57.1 0 0 - 3 4 75.0 5 2 7 0 0 2 0 0 3
+p524
+aVBrandon Jennings MIL 01/08/2010 MIL vs. CHI W 39 5 1 9 11.1 0 2 0.0 3 3 100.0 1 2 3 8 0 3 4 5 8
+p525
+aVMichael Redd MIL 01/08/2010 MIL vs. CHI W 36 24 8 16 50.0 2 5 40.0 6 8 75.0 1 7 8 2 0 0 0 2 7
+p526
+aVCarlos Delfino MIL 01/08/2010 MIL vs. CHI W 11 0 0 5 0.0 0 4 0.0 0 0 - 0 4 4 0 0 0 0 1 -9
+p527
+aVLuc Mbah a Moute MIL 01/08/2010 MIL vs. CHI W 22 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 2 1 0 2 1 8
+p528
+aVKurt Thomas MIL 01/08/2010 MIL vs. CHI W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p529
+aVErsan Ilyasova MIL 01/05/2010 MIL @ NJN W 13 2 1 5 20.0 0 3 0.0 0 0 - 2 3 5 4 1 0 0 3 -1
+p530
+aVLuke Ridnour MIL 01/05/2010 MIL @ NJN W 24 11 4 9 44.4 1 3 33.3 2 2 100.0 0 1 1 5 2 0 1 2 16
+p531
+aVJodie Meeks MIL 01/05/2010 MIL @ NJN W 11 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p532
+aVLuc Mbah a Moute MIL 01/05/2010 MIL @ NJN W 19 7 2 5 40.0 0 0 - 3 4 75.0 3 6 9 3 0 1 0 0 0
+p533
+aVFrancisco Elson MIL 01/05/2010 MIL @ NJN W 5 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 2
+p534
+aVMichael Redd MIL 01/05/2010 MIL @ NJN W 28 9 2 9 22.2 1 2 50.0 4 4 100.0 0 1 1 2 0 0 2 0 10
+p535
+aVCharlie Bell MIL 01/05/2010 MIL @ NJN W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p536
+aVBrandon Jennings MIL 01/05/2010 MIL @ NJN W 25 9 3 8 37.5 1 4 25.0 2 2 100.0 0 3 3 3 3 0 2 2 9
+p537
+aVHakim Warrick MIL 01/05/2010 MIL @ NJN W 31 13 3 9 33.3 0 0 - 7 10 70.0 0 2 2 0 0 1 2 4 19
+p538
+aVAndrew Bogut MIL 01/05/2010 MIL @ NJN W 22 18 9 12 75.0 0 0 - 0 0 - 2 3 5 0 0 1 2 2 9
+p539
+aVCarlos Delfino MIL 01/05/2010 MIL @ NJN W 37 17 7 11 63.6 0 1 0.0 3 3 100.0 1 4 5 3 3 0 0 2 32
+p540
+aVKurt Thomas MIL 01/05/2010 MIL @ NJN W 21 2 1 4 25.0 0 0 - 0 0 - 2 7 9 0 0 1 0 4 11
+p541
+aVBrandon Jennings MIL 01/02/2010 MIL vs. OKC W 37 13 4 15 26.7 0 3 0.0 5 6 83.3 1 6 7 5 0 0 3 3 15
+p542
+aVHakim Warrick MIL 01/02/2010 MIL vs. OKC W 36 14 5 15 33.3 0 0 - 4 4 100.0 3 5 8 0 1 0 1 3 6
+p543
+aVMichael Redd MIL 01/02/2010 MIL vs. OKC W 43 27 12 23 52.2 3 7 42.9 0 1 0.0 2 5 7 2 1 1 0 3 3
+p544
+aVLuc Mbah a Moute MIL 01/02/2010 MIL vs. OKC W 38 6 2 8 25.0 1 1 100.0 1 2 50.0 1 1 2 0 1 2 1 3 4
+p545
+aVKurt Thomas MIL 01/02/2010 MIL vs. OKC W 9 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 0 0 2 3 -1
+p546
+aVAndrew Bogut MIL 01/02/2010 MIL vs. OKC W 40 23 9 17 52.9 0 0 - 5 6 83.3 5 10 15 2 1 2 2 4 15
+p547
+aVErsan Ilyasova MIL 01/02/2010 MIL vs. OKC W 21 8 4 12 33.3 0 4 0.0 0 0 - 4 6 10 2 2 1 0 4 -8
+p548
+aVJodie Meeks MIL 01/02/2010 MIL vs. OKC W 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p549
+aVCharlie Bell MIL 01/02/2010 MIL vs. OKC W 16 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 0
+p550
+aVLuke Ridnour MIL 01/02/2010 MIL vs. OKC W 25 12 6 11 54.5 0 1 0.0 0 0 - 0 1 1 4 1 0 0 3 -4
+p551
+aVCarlos Delfino MIL 12/30/2009 MIL @ ORL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 0 -1
+p552
+aVKurt Thomas MIL 12/30/2009 MIL @ ORL L 13 0 0 0 - 0 0 - 0 0 - 1 4 5 1 1 1 2 2 2
+p553
+aVCharlie Bell MIL 12/30/2009 MIL @ ORL L 8 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 2 -18
+p554
+aVAndrew Bogut MIL 12/30/2009 MIL @ ORL L 30 15 6 15 40.0 0 0 - 3 3 100.0 6 4 10 2 0 1 1 4 -17
+p555
+aVHakim Warrick MIL 12/30/2009 MIL @ ORL L 17 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -7
+p556
+aVLuc Mbah a Moute MIL 12/30/2009 MIL @ ORL L 31 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 1 1 0 2 2 -15
+p557
+aVFrancisco Elson MIL 12/30/2009 MIL @ ORL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p558
+aVMichael Redd MIL 12/30/2009 MIL @ ORL L 26 6 3 12 25.0 0 1 0.0 0 1 0.0 2 0 2 3 1 0 0 0 -1
+p559
+aVBrandon Jennings MIL 12/30/2009 MIL @ ORL L 32 20 7 19 36.8 4 7 57.1 2 3 66.7 1 1 2 4 2 0 1 2 -10
+p560
+aVErsan Ilyasova MIL 12/30/2009 MIL @ ORL L 28 13 5 11 45.5 3 3 100.0 0 0 - 3 4 7 3 0 0 2 3 -11
+p561
+aVJodie Meeks MIL 12/30/2009 MIL @ ORL L 19 6 3 8 37.5 0 4 0.0 0 0 - 0 0 0 0 1 0 2 2 -19
+p562
+aVLuke Ridnour MIL 12/30/2009 MIL @ ORL L 21 16 7 10 70.0 2 3 66.7 0 0 - 1 3 4 1 0 0 2 2 -18
+p563
+aVAndrew Bogut MIL 12/28/2009 MIL @ CHA L 19 2 1 6 16.7 0 0 - 0 2 0.0 1 4 5 1 0 2 0 1 -8
+p564
+aVMichael Redd MIL 12/28/2009 MIL @ CHA L 17 2 0 4 0.0 0 2 0.0 2 2 100.0 0 0 0 0 2 0 1 2 -15
+p565
+aVCarlos Delfino MIL 12/28/2009 MIL @ CHA L 11 2 1 5 20.0 0 3 0.0 0 0 - 3 0 3 1 0 1 1 1 -7
+p566
+aVHakim Warrick MIL 12/28/2009 MIL @ CHA L 23 10 4 7 57.1 0 0 - 2 2 100.0 1 0 1 0 1 0 1 4 -4
+p567
+aVLuke Ridnour MIL 12/28/2009 MIL @ CHA L 23 17 6 10 60.0 2 6 33.3 3 4 75.0 0 1 1 0 2 1 4 4 -14
+p568
+aVCharlie Bell MIL 12/28/2009 MIL @ CHA L 8 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p569
+aVJodie Meeks MIL 12/28/2009 MIL @ CHA L 26 6 1 7 14.3 0 3 0.0 4 4 100.0 0 7 7 2 0 0 0 0 1
+p570
+aVKurt Thomas MIL 12/28/2009 MIL @ CHA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p571
+aVErsan Ilyasova MIL 12/28/2009 MIL @ CHA L 21 12 5 10 50.0 2 4 50.0 0 0 - 2 3 5 0 1 0 1 4 2
+p572
+aVBrandon Jennings MIL 12/28/2009 MIL @ CHA L 41 24 9 18 50.0 2 5 40.0 4 6 66.7 0 2 2 7 0 0 5 3 -2
+p573
+aVLuc Mbah a Moute MIL 12/28/2009 MIL @ CHA L 36 9 3 6 50.0 0 0 - 3 4 75.0 2 8 10 1 2 1 3 3 -7
+p574
+aVFrancisco Elson MIL 12/28/2009 MIL @ CHA L 11 0 0 0 - 0 0 - 0 0 - 0 4 4 0 1 0 0 2 8
+p575
+aVMichael Redd MIL 12/26/2009 MIL vs. SAS L 22 6 2 9 22.2 0 2 0.0 2 2 100.0 0 0 0 1 1 0 0 2 -15
+p576
+aVAndrew Bogut MIL 12/26/2009 MIL vs. SAS L 27 12 6 13 46.2 0 0 - 0 0 - 5 3 8 0 0 1 3 2 -19
+p577
+aVLuc Mbah a Moute MIL 12/26/2009 MIL vs. SAS L 11 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 1 0 0 1 1 3
+p578
+aVErsan Ilyasova MIL 12/26/2009 MIL vs. SAS L 17 6 2 7 28.6 2 3 66.7 0 0 - 1 4 5 0 0 0 1 3 -10
+p579
+aVKurt Thomas MIL 12/26/2009 MIL vs. SAS L 17 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 2 0
+p580
+aVJodie Meeks MIL 12/26/2009 MIL vs. SAS L 28 15 5 8 62.5 3 4 75.0 2 2 100.0 0 0 0 1 1 0 1 0 -2
+p581
+aVBrandon Jennings MIL 12/26/2009 MIL vs. SAS L 30 10 3 8 37.5 0 2 0.0 4 6 66.7 0 2 2 8 0 0 3 2 -24
+p582
+aVFrancisco Elson MIL 12/26/2009 MIL vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p583
+aVHakim Warrick MIL 12/26/2009 MIL vs. SAS L 31 23 8 16 50.0 0 0 - 7 10 70.0 3 2 5 2 0 1 0 1 -5
+p584
+aVCharlie Bell MIL 12/26/2009 MIL vs. SAS L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -2
+p585
+aVCarlos Delfino MIL 12/26/2009 MIL vs. SAS L 24 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 2 1 0 0 0 -13
+p586
+aVLuke Ridnour MIL 12/26/2009 MIL vs. SAS L 21 13 5 10 50.0 2 3 66.7 1 1 100.0 0 0 0 5 1 0 2 1 8
+p587
+aVCharlie Bell MIL 12/23/2009 MIL vs. WAS L 28 14 6 15 40.0 0 4 0.0 2 2 100.0 0 1 1 0 2 0 0 2 2
+p588
+aVAndrew Bogut MIL 12/23/2009 MIL vs. WAS L 29 12 5 13 38.5 0 0 - 2 2 100.0 4 5 9 2 0 2 1 5 -8
+p589
+aVLuke Ridnour MIL 12/23/2009 MIL vs. WAS L 9 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 4 2
+p590
+aVBrandon Jennings MIL 12/23/2009 MIL vs. WAS L 16 7 3 9 33.3 1 4 25.0 0 0 - 2 2 4 2 0 1 3 4 -22
+p591
+aVJodie Meeks MIL 12/23/2009 MIL vs. WAS L 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 3 0 0 0 0 3
+p592
+aVLuc Mbah a Moute MIL 12/23/2009 MIL vs. WAS L 34 11 3 6 50.0 0 0 - 5 8 62.5 3 2 5 3 1 1 0 4 -6
+p593
+aVMichael Redd MIL 12/23/2009 MIL vs. WAS L 35 32 8 21 38.1 1 5 20.0 15 15 100.0 0 6 6 4 1 1 1 2 -16
+p594
+aVHakim Warrick MIL 12/23/2009 MIL vs. WAS L 11 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 0 0
+p595
+aVKurt Thomas MIL 12/23/2009 MIL vs. WAS L 19 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 1 1 2 3 -4
+p596
+aVCarlos Delfino MIL 12/23/2009 MIL vs. WAS L 23 3 1 7 14.3 1 5 20.0 0 0 - 1 5 6 3 0 0 2 2 -9
+p597
+aVErsan Ilyasova MIL 12/23/2009 MIL vs. WAS L 24 4 1 8 12.5 1 5 20.0 1 2 50.0 2 0 2 2 0 0 3 5 -2
+p598
+aVCarlos Delfino MIL 12/21/2009 MIL @ IND W 12 0 0 3 0.0 0 3 0.0 0 0 - 0 5 5 1 1 0 3 2 -7
+p599
+aVJodie Meeks MIL 12/21/2009 MIL @ IND W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -7
+p600
+aVLuke Ridnour MIL 12/21/2009 MIL @ IND W 12 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p601
+aVMichael Redd MIL 12/21/2009 MIL @ IND W 41 14 5 12 41.7 2 3 66.7 2 4 50.0 0 2 2 3 2 0 1 3 8
+p602
+aVCharlie Bell MIL 12/21/2009 MIL @ IND W 22 6 2 5 40.0 2 3 66.7 0 2 0.0 0 0 0 1 1 2 1 2 9
+p603
+aVBrandon Jennings MIL 12/21/2009 MIL @ IND W 40 16 7 19 36.8 1 2 50.0 1 2 50.0 0 4 4 6 2 1 2 2 5
+p604
+aVHakim Warrick MIL 12/21/2009 MIL @ IND W 10 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 0 -4
+p605
+aVKurt Thomas MIL 12/21/2009 MIL @ IND W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p606
+aVAndrew Bogut MIL 12/21/2009 MIL @ IND W 40 31 14 19 73.7 0 0 - 3 7 42.9 3 15 18 3 1 3 3 4 15
+p607
+aVLuc Mbah a Moute MIL 12/21/2009 MIL @ IND W 22 6 2 4 50.0 0 1 0.0 2 4 50.0 2 2 4 2 0 1 0 2 14
+p608
+aVFrancisco Elson MIL 12/21/2009 MIL @ IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p609
+aVErsan Ilyasova MIL 12/21/2009 MIL @ IND W 25 3 1 9 11.1 0 2 0.0 1 1 100.0 0 6 6 1 1 0 2 2 -3
+p610
+aVBrandon Jennings MIL 12/19/2009 MIL vs. SAC L 35 15 4 11 36.4 1 2 50.0 6 6 100.0 3 3 6 9 1 0 1 3 8
+p611
+aVLuke Ridnour MIL 12/19/2009 MIL vs. SAC L 13 6 3 10 30.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -7
+p612
+aVHakim Warrick MIL 12/19/2009 MIL vs. SAC L 15 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -7
+p613
+aVAndrew Bogut MIL 12/19/2009 MIL vs. SAC L 35 15 6 20 30.0 0 0 - 3 8 37.5 5 8 13 5 0 3 1 4 8
+p614
+aVCharlie Bell MIL 12/19/2009 MIL vs. SAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p615
+aVJodie Meeks MIL 12/19/2009 MIL vs. SAC L 9 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 2 0 0 1 9
+p616
+aVMichael Redd MIL 12/19/2009 MIL vs. SAC L 22 3 1 6 16.7 0 0 - 1 2 50.0 2 1 3 1 0 0 1 2 -7
+p617
+aVLuc Mbah a Moute MIL 12/19/2009 MIL vs. SAC L 36 14 5 5 100.0 1 1 100.0 3 4 75.0 2 2 4 0 1 1 2 3 7
+p618
+aVErsan Ilyasova MIL 12/19/2009 MIL vs. SAC L 29 14 7 14 50.0 0 3 0.0 0 0 - 2 8 10 1 0 0 2 5 5
+p619
+aVCarlos Delfino MIL 12/19/2009 MIL vs. SAC L 30 17 7 14 50.0 3 6 50.0 0 0 - 2 2 4 1 0 0 1 1 -5
+p620
+aVKurt Thomas MIL 12/19/2009 MIL vs. SAC L 13 0 0 0 - 0 0 - 0 0 - 0 5 5 0 0 0 1 1 -9
+p621
+aVJodie Meeks MIL 12/18/2009 MIL @ CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p622
+aVCharlie Bell MIL 12/18/2009 MIL @ CLE L 32 16 6 13 46.2 3 8 37.5 1 1 100.0 1 0 1 0 0 1 0 2 -1
+p623
+aVMichael Redd MIL 12/18/2009 MIL @ CLE L 21 7 2 9 22.2 1 3 33.3 2 4 50.0 0 2 2 3 0 0 1 0 -3
+p624
+aVHakim Warrick MIL 12/18/2009 MIL @ CLE L 23 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 1 0 1 1 2 -6
+p625
+aVBrandon Jennings MIL 12/18/2009 MIL @ CLE L 37 18 5 21 23.8 1 8 12.5 7 7 100.0 2 2 4 8 2 0 2 2 1
+p626
+aVErsan Ilyasova MIL 12/18/2009 MIL @ CLE L 31 18 8 15 53.3 2 5 40.0 0 0 - 1 6 7 1 2 1 1 2 6
+p627
+aVKurt Thomas MIL 12/18/2009 MIL @ CLE L 18 6 3 6 50.0 0 0 - 0 0 - 1 6 7 1 0 0 0 3 -9
+p628
+aVCarlos Delfino MIL 12/18/2009 MIL @ CLE L 24 6 3 6 50.0 0 1 0.0 0 0 - 2 4 6 5 0 0 1 2 -7
+p629
+aVLuc Mbah a Moute MIL 12/18/2009 MIL @ CLE L 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 1
+p630
+aVAndrew Bogut MIL 12/18/2009 MIL @ CLE L 17 4 2 7 28.6 0 0 - 0 0 - 3 5 8 0 0 2 0 5 2
+p631
+aVFrancisco Elson MIL 12/18/2009 MIL @ CLE L 7 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 0 1 1
+p632
+aVLuke Ridnour MIL 12/18/2009 MIL @ CLE L 17 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 4 0 1 1 3 -2
+p633
+aVLuc Mbah a Moute MIL 12/16/2009 MIL vs. LAL L 26 5 2 7 28.6 1 2 50.0 0 0 - 1 3 4 4 1 0 1 4 -3
+p634
+aVAndrew Bogut MIL 12/16/2009 MIL vs. LAL L 39 16 6 16 37.5 0 0 - 4 6 66.7 5 7 12 1 1 3 0 5 -8
+p635
+aVMichael Redd MIL 12/16/2009 MIL vs. LAL L 36 25 11 24 45.8 2 8 25.0 1 2 50.0 1 6 7 4 2 0 1 1 5
+p636
+aVBrandon Jennings MIL 12/16/2009 MIL vs. LAL L 29 11 4 11 36.4 1 5 20.0 2 2 100.0 0 3 3 7 0 0 1 3 -7
+p637
+aVCharlie Bell MIL 12/16/2009 MIL vs. LAL L 27 8 3 8 37.5 2 3 66.7 0 0 - 1 0 1 0 0 0 1 4 2
+p638
+aVHakim Warrick MIL 12/16/2009 MIL vs. LAL L 17 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 3
+p639
+aVCarlos Delfino MIL 12/16/2009 MIL vs. LAL L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 5 0 -8
+p640
+aVLuke Ridnour MIL 12/16/2009 MIL vs. LAL L 24 13 5 8 62.5 1 3 33.3 2 2 100.0 0 2 2 4 1 0 2 2 8
+p641
+aVKurt Thomas MIL 12/16/2009 MIL vs. LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 2
+p642
+aVErsan Ilyasova MIL 12/16/2009 MIL vs. LAL L 43 24 10 18 55.6 3 7 42.9 1 3 33.3 1 4 5 4 1 0 1 4 1
+p643
+aVBrandon Jennings MIL 12/12/2009 MIL vs. POR W 44 18 7 17 41.2 3 5 60.0 1 1 100.0 0 4 4 11 1 0 4 2 4
+p644
+aVHakim Warrick MIL 12/12/2009 MIL vs. POR W 13 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 1 1 0 0 1 -10
+p645
+aVLuc Mbah a Moute MIL 12/12/2009 MIL vs. POR W 42 4 2 4 50.0 0 0 - 0 0 - 2 2 4 2 0 1 1 6 1
+p646
+aVAndrew Bogut MIL 12/12/2009 MIL vs. POR W 44 27 12 19 63.2 0 0 - 3 4 75.0 2 7 9 3 0 2 4 6 14
+p647
+aVCarlos Delfino MIL 12/12/2009 MIL vs. POR W 37 9 4 12 33.3 1 4 25.0 0 0 - 1 7 8 5 3 0 1 2 24
+p648
+aVMichael Redd MIL 12/12/2009 MIL vs. POR W 29 11 5 11 45.5 1 4 25.0 0 2 0.0 0 2 2 2 1 0 1 2 -14
+p649
+aVLuke Ridnour MIL 12/12/2009 MIL vs. POR W 22 20 7 10 70.0 0 1 0.0 6 6 100.0 0 4 4 2 1 0 2 4 16
+p650
+aVKurt Thomas MIL 12/12/2009 MIL vs. POR W 14 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -7
+p651
+aVRoko Leni Ukic MIL 12/12/2009 MIL vs. POR W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p652
+aVErsan Ilyasova MIL 12/12/2009 MIL vs. POR W 40 11 4 11 36.4 3 4 75.0 0 2 0.0 3 5 8 2 1 0 2 5 14
+p653
+aVAndrew Bogut MIL 12/09/2009 MIL vs. TOR W 28 12 5 11 45.5 0 0 - 2 2 100.0 4 4 8 1 0 1 1 5 16
+p654
+aVRoko Leni Ukic MIL 12/09/2009 MIL vs. TOR W 25 17 5 9 55.6 2 5 40.0 5 6 83.3 0 2 2 4 1 0 1 2 20
+p655
+aVErsan Ilyasova MIL 12/09/2009 MIL vs. TOR W 33 17 5 11 45.5 2 4 50.0 5 6 83.3 3 6 9 0 0 0 3 5 17
+p656
+aVHakim Warrick MIL 12/09/2009 MIL vs. TOR W 13 4 2 4 50.0 0 0 - 0 1 0.0 0 2 2 2 1 0 0 2 1
+p657
+aVBrandon Jennings MIL 12/09/2009 MIL vs. TOR W 34 22 8 14 57.1 4 7 57.1 2 2 100.0 0 2 2 6 2 2 1 2 10
+p658
+aVCarlos Delfino MIL 12/09/2009 MIL vs. TOR W 37 14 5 12 41.7 0 2 0.0 4 4 100.0 1 7 8 3 0 1 1 2 18
+p659
+aVLuc Mbah a Moute MIL 12/09/2009 MIL vs. TOR W 40 16 6 8 75.0 0 1 0.0 4 5 80.0 0 4 4 0 2 1 2 4 18
+p660
+aVJodie Meeks MIL 12/09/2009 MIL vs. TOR W 16 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 2 2
+p661
+aVLuke Ridnour MIL 12/09/2009 MIL vs. TOR W 15 15 6 9 66.7 1 1 100.0 2 2 100.0 0 1 1 6 0 0 0 0 8
+p662
+aVHakim Warrick MIL 12/08/2009 MIL @ BOS L 14 4 1 5 20.0 0 0 - 2 2 100.0 3 1 4 2 0 0 2 1 0
+p663
+aVCharlie Bell MIL 12/08/2009 MIL @ BOS L 29 2 1 3 33.3 0 1 0.0 0 0 - 0 7 7 2 0 1 1 2 2
+p664
+aVLuke Ridnour MIL 12/08/2009 MIL @ BOS L 15 3 0 3 0.0 0 0 - 3 4 75.0 0 1 1 3 0 0 1 2 -7
+p665
+aVErsan Ilyasova MIL 12/08/2009 MIL @ BOS L 43 19 6 17 35.3 2 6 33.3 5 6 83.3 3 5 8 1 3 0 1 2 -13
+p666
+aVAndrew Bogut MIL 12/08/2009 MIL @ BOS L 40 25 11 17 64.7 0 0 - 3 3 100.0 4 10 14 5 1 2 7 2 -5
+p667
+aVLuc Mbah a Moute MIL 12/08/2009 MIL @ BOS L 29 7 3 5 60.0 0 0 - 1 1 100.0 2 3 5 0 0 0 2 1 -13
+p668
+aVBrandon Jennings MIL 12/08/2009 MIL @ BOS L 39 17 7 19 36.8 0 4 0.0 3 3 100.0 2 1 3 4 0 0 4 5 -1
+p669
+aVCarlos Delfino MIL 12/08/2009 MIL @ BOS L 32 12 5 10 50.0 2 4 50.0 0 0 - 0 2 2 5 0 0 2 4 -8
+p670
+aVCarlos Delfino MIL 12/06/2009 MIL vs. CLE L 31 11 5 13 38.5 1 6 16.7 0 0 - 1 3 4 2 0 0 4 0 -17
+p671
+aVAndrew Bogut MIL 12/06/2009 MIL vs. CLE L 32 7 3 11 27.3 0 0 - 1 2 50.0 4 4 8 1 0 2 1 4 -9
+p672
+aVJodie Meeks MIL 12/06/2009 MIL vs. CLE L 10 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 8
+p673
+aVRoko Leni Ukic MIL 12/06/2009 MIL vs. CLE L 15 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 8
+p674
+aVBrandon Jennings MIL 12/06/2009 MIL vs. CLE L 40 24 9 22 40.9 0 2 0.0 6 6 100.0 0 4 4 4 0 0 3 1 -10
+p675
+aVKurt Thomas MIL 12/06/2009 MIL vs. CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p676
+aVLuke Ridnour MIL 12/06/2009 MIL vs. CLE L 20 7 2 8 25.0 1 3 33.3 2 2 100.0 0 1 1 2 1 0 3 4 -12
+p677
+aVHakim Warrick MIL 12/06/2009 MIL vs. CLE L 21 11 4 9 44.4 0 0 - 3 5 60.0 3 6 9 0 0 0 0 4 -25
+p678
+aVCharlie Bell MIL 12/06/2009 MIL vs. CLE L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 1 -22
+p679
+aVDan Gadzuric MIL 12/06/2009 MIL vs. CLE L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 1 12
+p680
+aVLuc Mbah a Moute MIL 12/06/2009 MIL vs. CLE L 23 6 3 4 75.0 0 1 0.0 0 0 - 2 1 3 1 2 0 0 1 5
+p681
+aVErsan Ilyasova MIL 12/06/2009 MIL vs. CLE L 29 8 4 10 40.0 0 4 0.0 0 1 0.0 1 8 9 0 2 0 0 2 1
+p682
+aVHakim Warrick MIL 12/04/2009 MIL @ DET L 32 13 4 6 66.7 0 0 - 5 7 71.4 0 1 1 0 0 1 3 3 -10
+p683
+aVLuke Ridnour MIL 12/04/2009 MIL @ DET L 27 21 7 11 63.6 3 5 60.0 4 4 100.0 0 2 2 9 3 0 2 3 4
+p684
+aVCarlos Delfino MIL 12/04/2009 MIL @ DET L 32 15 6 12 50.0 2 8 25.0 1 1 100.0 0 7 7 2 0 0 1 3 -5
+p685
+aVAndrew Bogut MIL 12/04/2009 MIL @ DET L 27 8 4 9 44.4 0 0 - 0 0 - 2 3 5 0 0 1 0 1 -16
+p686
+aVKurt Thomas MIL 12/04/2009 MIL @ DET L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p687
+aVErsan Ilyasova MIL 12/04/2009 MIL @ DET L 15 8 4 6 66.7 0 1 0.0 0 0 - 0 4 4 1 0 0 2 5 -5
+p688
+aVDan Gadzuric MIL 12/04/2009 MIL @ DET L 8 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 1 0 0 3 8
+p689
+aVCharlie Bell MIL 12/04/2009 MIL @ DET L 40 14 5 18 27.8 2 6 33.3 2 3 66.7 0 2 2 2 1 0 0 5 -7
+p690
+aVLuc Mbah a Moute MIL 12/04/2009 MIL @ DET L 13 0 0 0 - 0 0 - 0 2 0.0 0 3 3 0 0 1 0 2 -12
+p691
+aVBrandon Jennings MIL 12/04/2009 MIL @ DET L 38 15 6 20 30.0 3 10 30.0 0 0 - 0 5 5 8 1 1 1 2 -6
+p692
+aVCarlos Delfino MIL 12/02/2009 MIL @ WAS L 34 9 4 10 40.0 1 4 25.0 0 0 - 0 8 8 2 1 1 0 2 -12
+p693
+aVLuke Ridnour MIL 12/02/2009 MIL @ WAS L 33 20 9 16 56.3 2 6 33.3 0 0 - 0 4 4 6 1 0 0 4 11
+p694
+aVBrandon Jennings MIL 12/02/2009 MIL @ WAS L 36 17 7 21 33.3 2 8 25.0 1 2 50.0 0 2 2 7 1 0 0 5 2
+p695
+aVKurt Thomas MIL 12/02/2009 MIL @ WAS L 9 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 0 1 0 1
+p696
+aVCharlie Bell MIL 12/02/2009 MIL @ WAS L 27 15 6 11 54.5 3 5 60.0 0 0 - 0 0 0 2 0 0 0 4 -14
+p697
+aVErsan Ilyasova MIL 12/02/2009 MIL @ WAS L 14 9 4 7 57.1 1 2 50.0 0 2 0.0 2 3 5 0 1 0 1 5 -6
+p698
+aVHakim Warrick MIL 12/02/2009 MIL @ WAS L 32 20 6 9 66.7 0 0 - 8 8 100.0 3 1 4 0 0 0 3 2 7
+p699
+aVJodie Meeks MIL 12/02/2009 MIL @ WAS L 17 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 1 3 4
+p700
+aVAndrew Bogut MIL 12/02/2009 MIL @ WAS L 39 8 4 14 28.6 0 0 - 0 0 - 0 7 7 5 1 3 3 2 -3
+p701
+aVHakim Warrick MIL 11/30/2009 MIL vs. CHI W 21 6 3 9 33.3 0 1 0.0 0 0 - 5 2 7 1 0 0 1 2 -19
+p702
+aVErsan Ilyasova MIL 11/30/2009 MIL vs. CHI W 27 13 5 9 55.6 1 2 50.0 2 2 100.0 4 5 9 1 1 0 3 6 21
+p703
+aVAndrew Bogut MIL 11/30/2009 MIL vs. CHI W 35 22 10 19 52.6 0 0 - 2 6 33.3 5 10 15 3 3 4 0 2 12
+p704
+aVBrandon Jennings MIL 11/30/2009 MIL vs. CHI W 43 15 5 15 33.3 3 4 75.0 2 2 100.0 1 1 2 8 1 1 3 2 -3
+p705
+aVCharlie Bell MIL 11/30/2009 MIL vs. CHI W 40 16 6 16 37.5 1 5 20.0 3 7 42.9 0 4 4 5 2 2 2 3 11
+p706
+aVKurt Thomas MIL 11/30/2009 MIL vs. CHI W 13 4 2 3 66.7 0 0 - 0 0 - 2 3 5 3 0 1 0 1 -10
+p707
+aVJodie Meeks MIL 11/30/2009 MIL vs. CHI W 15 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 0 0 1 2 -8
+p708
+aVCarlos Delfino MIL 11/30/2009 MIL vs. CHI W 27 15 5 12 41.7 3 8 37.5 2 4 50.0 2 2 4 2 1 0 1 5 11
+p709
+aVLuke Ridnour MIL 11/30/2009 MIL vs. CHI W 19 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 6 0 0 0 2 -5
+p710
+aVLuke Ridnour MIL 11/28/2009 MIL vs. ORL L 32 20 9 15 60.0 1 1 100.0 1 1 100.0 1 2 3 6 2 0 3 2 3
+p711
+aVCharlie Bell MIL 11/28/2009 MIL vs. ORL L 35 5 1 4 25.0 1 2 50.0 2 2 100.0 2 1 3 1 2 1 1 3 4
+p712
+aVErsan Ilyasova MIL 11/28/2009 MIL vs. ORL L 40 20 8 18 44.4 2 5 40.0 2 4 50.0 7 9 16 2 0 0 0 2 2
+p713
+aVHakim Warrick MIL 11/28/2009 MIL vs. ORL L 22 16 6 12 50.0 0 0 - 4 4 100.0 0 5 5 2 0 0 0 2 -5
+p714
+aVBrandon Jennings MIL 11/28/2009 MIL vs. ORL L 37 18 7 22 31.8 4 7 57.1 0 0 - 0 2 2 4 0 0 0 1 -9
+p715
+aVKurt Thomas MIL 11/28/2009 MIL vs. ORL L 30 5 2 7 28.6 0 0 - 1 2 50.0 3 6 9 2 1 0 0 4 1
+p716
+aVJodie Meeks MIL 11/28/2009 MIL vs. ORL L 11 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 7
+p717
+aVDan Gadzuric MIL 11/28/2009 MIL vs. ORL L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -2
+p718
+aVCarlos Delfino MIL 11/28/2009 MIL vs. ORL L 29 9 2 7 28.6 2 3 66.7 3 4 75.0 2 1 3 1 2 2 2 3 -11
+p719
+aVRoko Leni Ukic MIL 11/27/2009 MIL @ OKC L 6 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 1 0 -1
+p720
+aVFrancisco Elson MIL 11/27/2009 MIL @ OKC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p721
+aVMichael Redd MIL 11/27/2009 MIL @ OKC L 22 8 3 9 33.3 0 1 0.0 2 2 100.0 1 2 3 2 1 0 1 0 -20
+p722
+aVBrandon Jennings MIL 11/27/2009 MIL @ OKC L 30 14 4 12 33.3 2 3 66.7 4 6 66.7 0 1 1 3 2 0 3 1 -15
+p723
+aVKurt Thomas MIL 11/27/2009 MIL @ OKC L 25 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 2 1 3 5
+p724
+aVLuke Ridnour MIL 11/27/2009 MIL @ OKC L 30 13 4 9 44.4 1 2 50.0 4 4 100.0 0 4 4 4 1 0 3 3 -6
+p725
+aVHakim Warrick MIL 11/27/2009 MIL @ OKC L 31 15 5 10 50.0 0 0 - 5 5 100.0 2 7 9 0 0 0 1 2 -10
+p726
+aVCarlos Delfino MIL 11/27/2009 MIL @ OKC L 25 15 5 10 50.0 3 4 75.0 2 2 100.0 1 2 3 0 0 1 0 3 -23
+p727
+aVDan Gadzuric MIL 11/27/2009 MIL @ OKC L 11 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -20
+p728
+aVJodie Meeks MIL 11/27/2009 MIL @ OKC L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 3
+p729
+aVErsan Ilyasova MIL 11/27/2009 MIL @ OKC L 22 13 5 13 38.5 1 5 20.0 2 2 100.0 6 6 12 3 1 0 0 3 -10
+p730
+aVCharlie Bell MIL 11/27/2009 MIL @ OKC L 20 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 3 8
+p731
+aVCarlos Delfino MIL 11/25/2009 MIL @ NOH L 27 5 2 7 28.6 1 5 20.0 0 0 - 0 4 4 0 0 1 0 1 7
+p732
+aVHakim Warrick MIL 11/25/2009 MIL @ NOH L 33 22 9 15 60.0 0 0 - 4 7 57.1 4 6 10 0 1 0 3 3 -2
+p733
+aVDan Gadzuric MIL 11/25/2009 MIL @ NOH L 12 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 1 0 0 1 2 -2
+p734
+aVCharlie Bell MIL 11/25/2009 MIL @ NOH L 32 12 5 10 50.0 2 4 50.0 0 1 0.0 0 3 3 1 0 0 3 3 -15
+p735
+aVBrandon Jennings MIL 11/25/2009 MIL @ NOH L 32 14 4 15 26.7 1 3 33.3 5 6 83.3 1 6 7 8 4 1 5 4 -6
+p736
+aVKurt Thomas MIL 11/25/2009 MIL @ NOH L 34 6 3 6 50.0 0 0 - 0 0 - 2 7 9 2 2 3 1 4 1
+p737
+aVLuke Ridnour MIL 11/25/2009 MIL @ NOH L 43 23 9 15 60.0 1 4 25.0 4 4 100.0 1 6 7 10 0 0 1 3 4
+p738
+aVMichael Redd MIL 11/25/2009 MIL @ NOH L 30 11 4 16 25.0 1 5 20.0 2 2 100.0 1 1 2 4 2 0 2 1 2
+p739
+aVErsan Ilyasova MIL 11/25/2009 MIL @ NOH L 21 5 2 10 20.0 1 4 25.0 0 0 - 0 3 3 1 1 1 2 5 -6
+p740
+aVJodie Meeks MIL 11/25/2009 MIL @ NOH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p741
+aVHakim Warrick MIL 11/23/2009 MIL @ SAS L 19 15 5 7 71.4 0 0 - 5 5 100.0 1 3 4 2 1 0 0 1 -8
+p742
+aVKurt Thomas MIL 11/23/2009 MIL @ SAS L 21 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 1 1 1 3 -18
+p743
+aVMichael Redd MIL 11/23/2009 MIL @ SAS L 11 4 1 3 33.3 1 2 50.0 1 6 16.7 0 0 0 2 0 0 1 1 -17
+p744
+aVDan Gadzuric MIL 11/23/2009 MIL @ SAS L 20 6 3 5 60.0 0 0 - 0 0 - 3 1 4 2 1 2 0 4 3
+p745
+aVCarlos Delfino MIL 11/23/2009 MIL @ SAS L 30 11 4 7 57.1 3 4 75.0 0 0 - 1 2 3 5 0 2 0 1 -2
+p746
+aVCharlie Bell MIL 11/23/2009 MIL @ SAS L 36 9 4 9 44.4 1 2 50.0 0 0 - 1 3 4 2 0 0 1 2 -8
+p747
+aVErsan Ilyasova MIL 11/23/2009 MIL @ SAS L 33 20 8 13 61.5 1 3 33.3 3 3 100.0 1 3 4 0 4 0 0 3 -9
+p748
+aVBrandon Jennings MIL 11/23/2009 MIL @ SAS L 31 12 6 21 28.6 0 2 0.0 0 0 - 1 3 4 7 1 0 5 3 -8
+p749
+aVJodie Meeks MIL 11/23/2009 MIL @ SAS L 7 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 0 2
+p750
+aVRoko Leni Ukic MIL 11/23/2009 MIL @ SAS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p751
+aVLuke Ridnour MIL 11/23/2009 MIL @ SAS L 26 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 3 -13
+p752
+aVFrancisco Elson MIL 11/23/2009 MIL @ SAS L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p753
+aVKurt Thomas MIL 11/21/2009 MIL @ MEM W 31 8 4 8 50.0 0 0 - 0 0 - 1 9 10 2 3 2 3 3 9
+p754
+aVErsan Ilyasova MIL 11/21/2009 MIL @ MEM W 33 18 6 10 60.0 2 6 33.3 4 6 66.7 2 10 12 3 0 0 3 4 14
+p755
+aVBrandon Jennings MIL 11/21/2009 MIL @ MEM W 31 26 8 18 44.4 1 5 20.0 9 10 90.0 0 2 2 2 0 0 1 0 -2
+p756
+aVDan Gadzuric MIL 11/21/2009 MIL @ MEM W 9 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 1 0 1 4 -8
+p757
+aVJodie Meeks MIL 11/21/2009 MIL @ MEM W 23 4 1 5 20.0 0 2 0.0 2 2 100.0 0 6 6 0 0 0 1 0 9
+p758
+aVCarlos Delfino MIL 11/21/2009 MIL @ MEM W 11 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 1 4 -6
+p759
+aVRoko Leni Ukic MIL 11/21/2009 MIL @ MEM W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p760
+aVHakim Warrick MIL 11/21/2009 MIL @ MEM W 19 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 1 1 0 1 4 -10
+p761
+aVCharlie Bell MIL 11/21/2009 MIL @ MEM W 40 19 7 15 46.7 5 11 45.5 0 2 0.0 0 1 1 2 1 0 2 0 6
+p762
+aVLuke Ridnour MIL 11/21/2009 MIL @ MEM W 33 13 6 12 50.0 0 0 - 1 2 50.0 1 3 4 12 1 0 0 4 7
+p763
+aVKurt Thomas MIL 11/20/2009 MIL vs. CHA W 23 4 2 2 100.0 0 0 - 0 0 - 4 3 7 1 0 1 0 3 10
+p764
+aVHakim Warrick MIL 11/20/2009 MIL vs. CHA W 31 16 5 13 38.5 0 0 - 6 7 85.7 3 6 9 2 0 1 4 3 10
+p765
+aVDan Gadzuric MIL 11/20/2009 MIL vs. CHA W 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 3 0 0 2 4 8
+p766
+aVErsan Ilyasova MIL 11/20/2009 MIL vs. CHA W 24 13 4 9 44.4 2 3 66.7 3 3 100.0 1 6 7 1 1 0 2 4 -7
+p767
+aVFrancisco Elson MIL 11/20/2009 MIL vs. CHA W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p768
+aVCarlos Delfino MIL 11/20/2009 MIL vs. CHA W 40 9 3 12 25.0 2 6 33.3 1 1 100.0 1 5 6 5 0 0 2 3 1
+p769
+aVJodie Meeks MIL 11/20/2009 MIL vs. CHA W 14 8 2 8 25.0 2 5 40.0 2 2 100.0 0 2 2 0 1 1 0 4 12
+p770
+aVBrandon Jennings MIL 11/20/2009 MIL vs. CHA W 40 29 12 23 52.2 3 9 33.3 2 5 40.0 3 1 4 7 1 0 3 1 7
+p771
+aVCharlie Bell MIL 11/20/2009 MIL vs. CHA W 32 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 2 2 0 0 4 2
+p772
+aVLuke Ridnour MIL 11/20/2009 MIL vs. CHA W 18 8 2 4 50.0 1 3 33.3 3 3 100.0 0 2 2 3 0 0 1 1 -1
+p773
+aVErsan Ilyasova MIL 11/18/2009 MIL vs. NJN W 32 9 4 11 36.4 1 6 16.7 0 0 - 3 5 8 1 0 1 0 4 22
+p774
+aVCarlos Delfino MIL 11/18/2009 MIL vs. NJN W 39 21 7 15 46.7 4 8 50.0 3 3 100.0 0 4 4 6 1 0 2 4 21
+p775
+aVCharlie Bell MIL 11/18/2009 MIL vs. NJN W 32 2 1 1 100.0 0 0 - 0 0 - 0 4 4 5 1 0 0 2 14
+p776
+aVBrandon Jennings MIL 11/18/2009 MIL vs. NJN W 37 19 6 13 46.2 3 4 75.0 4 5 80.0 2 2 4 8 1 1 8 2 16
+p777
+aVDan Gadzuric MIL 11/18/2009 MIL vs. NJN W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -8
+p778
+aVLuke Ridnour MIL 11/18/2009 MIL vs. NJN W 28 17 7 11 63.6 2 4 50.0 1 1 100.0 1 3 4 3 0 0 2 3 -4
+p779
+aVHakim Warrick MIL 11/18/2009 MIL vs. NJN W 21 8 3 9 33.3 0 0 - 2 2 100.0 3 3 6 1 0 0 4 1 -8
+p780
+aVJodie Meeks MIL 11/18/2009 MIL vs. NJN W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -5
+p781
+aVAndrew Bogut MIL 11/18/2009 MIL vs. NJN W 37 21 10 18 55.6 0 0 - 1 2 50.0 3 8 11 3 0 1 2 3 22
+p782
+aVErsan Ilyasova MIL 11/16/2009 MIL vs. DAL L 33 19 7 13 53.8 4 7 57.1 1 2 50.0 3 9 12 2 2 0 3 4 18
+p783
+aVCharlie Bell MIL 11/16/2009 MIL vs. DAL L 21 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 5 1 0 1 3 -12
+p784
+aVLuke Ridnour MIL 11/16/2009 MIL vs. DAL L 34 17 7 14 50.0 3 4 75.0 0 0 - 1 2 3 6 4 0 0 2 14
+p785
+aVKurt Thomas MIL 11/16/2009 MIL vs. DAL L 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p786
+aVJodie Meeks MIL 11/16/2009 MIL vs. DAL L 13 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 0 0 0 1 2 -3
+p787
+aVLuc Mbah a Moute MIL 11/16/2009 MIL vs. DAL L 42 13 5 11 45.5 1 1 100.0 2 3 66.7 3 3 6 3 0 1 1 3 7
+p788
+aVAndrew Bogut MIL 11/16/2009 MIL vs. DAL L 39 13 6 12 50.0 0 0 - 1 2 50.0 2 4 6 1 2 0 2 1 -17
+p789
+aVCarlos Delfino MIL 11/16/2009 MIL vs. DAL L 17 9 3 7 42.9 1 2 50.0 2 2 100.0 1 3 4 1 0 0 0 1 -13
+p790
+aVDan Gadzuric MIL 11/16/2009 MIL vs. DAL L 9 0 0 1 0.0 0 0 - 0 0 - 3 0 3 0 0 2 0 0 15
+p791
+aVBrandon Jennings MIL 11/16/2009 MIL vs. DAL L 39 25 8 22 36.4 4 9 44.4 5 8 62.5 1 6 7 8 1 1 2 1 -7
+p792
+aVHakim Warrick MIL 11/16/2009 MIL vs. DAL L 12 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -12
+p793
+aVBrandon Jennings MIL 11/14/2009 MIL vs. GSW W 41 55 21 34 61.8 7 8 87.5 6 8 75.0 1 4 5 5 0 0 4 1 11
+p794
+aVHakim Warrick MIL 11/14/2009 MIL vs. GSW W 12 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -8
+p795
+aVDan Gadzuric MIL 11/14/2009 MIL vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p796
+aVCharlie Bell MIL 11/14/2009 MIL vs. GSW W 39 14 4 9 44.4 2 5 40.0 4 5 80.0 3 1 4 6 1 0 1 2 7
+p797
+aVAndrew Bogut MIL 11/14/2009 MIL vs. GSW W 33 19 9 12 75.0 0 0 - 1 6 16.7 3 8 11 2 0 1 3 5 18
+p798
+aVKurt Thomas MIL 11/14/2009 MIL vs. GSW W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -4
+p799
+aVRoko Leni Ukic MIL 11/14/2009 MIL vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p800
+aVLuke Ridnour MIL 11/14/2009 MIL vs. GSW W 36 13 5 10 50.0 2 5 40.0 1 2 50.0 0 3 3 4 1 1 1 4 5
+p801
+aVLuc Mbah a Moute MIL 11/14/2009 MIL vs. GSW W 38 8 3 5 60.0 1 1 100.0 1 2 50.0 5 7 12 3 2 0 3 5 13
+p802
+aVErsan Ilyasova MIL 11/14/2009 MIL vs. GSW W 14 9 2 7 28.6 0 0 - 5 5 100.0 2 2 4 0 0 1 0 2 -16
+p803
+aVJodie Meeks MIL 11/14/2009 MIL vs. GSW W 16 8 3 10 30.0 2 5 40.0 0 0 - 0 4 4 0 1 1 1 1 -6
+p804
+aVAndrew Bogut MIL 11/11/2009 MIL vs. DEN W 38 23 10 15 66.7 0 0 - 3 3 100.0 2 8 10 1 1 4 2 4 1
+p805
+aVDan Gadzuric MIL 11/11/2009 MIL vs. DEN W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 3
+p806
+aVRoko Leni Ukic MIL 11/11/2009 MIL vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 4
+p807
+aVCharlie Bell MIL 11/11/2009 MIL vs. DEN W 36 5 2 3 66.7 1 2 50.0 0 0 - 0 6 6 3 2 0 5 3 3
+p808
+aVBrandon Jennings MIL 11/11/2009 MIL vs. DEN W 38 32 11 19 57.9 2 2 100.0 8 8 100.0 0 4 4 9 0 0 4 2 8
+p809
+aVJodie Meeks MIL 11/11/2009 MIL vs. DEN W 13 2 1 7 14.3 0 6 0.0 0 0 - 0 1 1 1 0 1 0 0 4
+p810
+aVHakim Warrick MIL 11/11/2009 MIL vs. DEN W 27 8 3 10 30.0 0 0 - 2 4 50.0 3 2 5 1 2 1 0 0 7
+p811
+aVLuc Mbah a Moute MIL 11/11/2009 MIL vs. DEN W 35 10 3 8 37.5 0 0 - 4 4 100.0 4 5 9 1 2 1 1 4 3
+p812
+aVLuke Ridnour MIL 11/11/2009 MIL vs. DEN W 10 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 1 3 -2
+p813
+aVErsan Ilyasova MIL 11/11/2009 MIL vs. DEN W 22 17 5 8 62.5 3 3 100.0 4 4 100.0 1 7 8 1 0 2 1 4 -2
+p814
+aVCarlos Delfino MIL 11/11/2009 MIL vs. DEN W 14 5 2 6 33.3 0 2 0.0 1 2 50.0 0 0 0 1 0 0 2 4 1
+p815
+aVDan Gadzuric MIL 11/07/2009 MIL vs. NYK W 14 1 0 1 0.0 0 0 - 1 3 33.3 1 2 3 0 1 1 0 1 -2
+p816
+aVBrandon Jennings MIL 11/07/2009 MIL vs. NYK W 26 17 7 16 43.8 0 2 0.0 3 3 100.0 0 4 4 3 1 0 5 2 11
+p817
+aVLuc Mbah a Moute MIL 11/07/2009 MIL vs. NYK W 26 2 1 6 16.7 0 0 - 0 0 - 3 2 5 0 1 0 1 3 -3
+p818
+aVAndrew Bogut MIL 11/07/2009 MIL vs. NYK W 31 22 8 14 57.1 0 0 - 6 6 100.0 2 6 8 4 0 1 2 2 19
+p819
+aVJodie Meeks MIL 11/07/2009 MIL vs. NYK W 27 19 7 11 63.6 5 7 71.4 0 0 - 0 3 3 1 1 0 1 1 -1
+p820
+aVCharlie Bell MIL 11/07/2009 MIL vs. NYK W 21 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 1 1 0 2 1 16
+p821
+aVCarlos Delfino MIL 11/07/2009 MIL vs. NYK W 28 8 3 7 42.9 2 6 33.3 0 0 - 0 8 8 1 0 0 0 1 12
+p822
+aVLuke Ridnour MIL 11/07/2009 MIL vs. NYK W 18 10 5 12 41.7 0 4 0.0 0 0 - 0 1 1 4 0 0 2 3 9
+p823
+aVHakim Warrick MIL 11/07/2009 MIL vs. NYK W 22 9 4 6 66.7 0 0 - 1 2 50.0 2 5 7 1 1 0 4 2 -2
+p824
+aVRoko Leni Ukic MIL 11/07/2009 MIL vs. NYK W 3 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 0 -5
+p825
+aVErsan Ilyasova MIL 11/07/2009 MIL vs. NYK W 23 6 3 7 42.9 0 2 0.0 0 0 - 6 7 13 4 1 1 1 2 21
+p826
+aVRoko Leni Ukic MIL 11/06/2009 MIL @ MIN W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 3
+p827
+aVJodie Meeks MIL 11/06/2009 MIL @ MIN W 19 6 2 8 25.0 0 2 0.0 2 2 100.0 0 5 5 1 1 0 3 0 6
+p828
+aVHakim Warrick MIL 11/06/2009 MIL @ MIN W 27 12 5 6 83.3 0 0 - 2 3 66.7 3 4 7 1 0 0 1 2 9
+p829
+aVBrandon Jennings MIL 11/06/2009 MIL @ MIN W 27 9 4 16 25.0 1 4 25.0 0 0 - 1 5 6 3 2 0 1 1 6
+p830
+aVLuc Mbah a Moute MIL 11/06/2009 MIL @ MIN W 18 2 1 6 16.7 0 0 - 0 0 - 2 3 5 1 0 0 1 3 1
+p831
+aVLuke Ridnour MIL 11/06/2009 MIL @ MIN W 23 16 6 9 66.7 2 3 66.7 2 2 100.0 1 1 2 1 1 0 3 3 7
+p832
+aVAndrew Bogut MIL 11/06/2009 MIL @ MIN W 28 17 8 14 57.1 0 1 0.0 1 4 25.0 4 6 10 4 2 1 3 3 4
+p833
+aVKurt Thomas MIL 11/06/2009 MIL @ MIN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -3
+p834
+aVCharlie Bell MIL 11/06/2009 MIL @ MIN W 29 6 1 7 14.3 1 2 50.0 3 4 75.0 2 2 4 5 1 0 0 2 9
+p835
+aVErsan Ilyasova MIL 11/06/2009 MIL @ MIN W 16 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 2 3 10
+p836
+aVDan Gadzuric MIL 11/06/2009 MIL @ MIN W 15 6 3 4 75.0 0 0 - 0 1 0.0 2 2 4 1 1 0 1 2 12
+p837
+aVCarlos Delfino MIL 11/06/2009 MIL @ MIN W 28 6 2 8 25.0 2 6 33.3 0 0 - 2 2 4 1 2 0 2 0 11
+p838
+aVRoko Leni Ukic MIL 11/03/2009 MIL @ CHI L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -15
+p839
+aVCarlos Delfino MIL 11/03/2009 MIL @ CHI L 31 8 3 9 33.3 1 4 25.0 1 1 100.0 0 6 6 4 1 0 2 1 6
+p840
+aVLuc Mbah a Moute MIL 11/03/2009 MIL @ CHI L 27 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 2 1 0 1 2 -10
+p841
+aVJodie Meeks MIL 11/03/2009 MIL @ CHI L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p842
+aVAndrew Bogut MIL 11/03/2009 MIL @ CHI L 38 16 8 14 57.1 0 0 - 0 1 0.0 3 10 13 2 1 3 2 6 1
+p843
+aVBrandon Jennings MIL 11/03/2009 MIL @ CHI L 38 25 10 23 43.5 2 5 40.0 3 4 75.0 0 1 1 4 2 0 2 1 10
+p844
+aVCharlie Bell MIL 11/03/2009 MIL @ CHI L 34 11 5 11 45.5 1 4 25.0 0 0 - 0 5 5 3 1 0 1 4 11
+p845
+aVHakim Warrick MIL 11/03/2009 MIL @ CHI L 34 11 5 15 33.3 0 1 0.0 1 2 50.0 5 5 10 2 1 1 0 2 7
+p846
+aVErsan Ilyasova MIL 11/03/2009 MIL @ CHI L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 3 -11
+p847
+aVLuke Ridnour MIL 11/03/2009 MIL @ CHI L 10 4 2 4 50.0 0 0 - 0 2 0.0 0 1 1 2 0 0 2 2 -10
+p848
+aVDan Gadzuric MIL 11/03/2009 MIL @ CHI L 13 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 1 1 1 3
+p849
+aVCharlie Bell MIL 10/31/2009 MIL vs. DET W 25 5 1 3 33.3 1 1 100.0 2 2 100.0 1 2 3 3 2 0 2 2 4
+p850
+aVHakim Warrick MIL 10/31/2009 MIL vs. DET W 33 21 5 14 35.7 1 2 50.0 10 15 66.7 3 2 5 3 2 0 3 2 17
+p851
+aVLuke Ridnour MIL 10/31/2009 MIL vs. DET W 15 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 1 0 0 2 -4
+p852
+aVCarlos Delfino MIL 10/31/2009 MIL vs. DET W 20 5 2 7 28.6 1 3 33.3 0 0 - 1 2 3 1 0 0 1 0 -4
+p853
+aVLuc Mbah a Moute MIL 10/31/2009 MIL vs. DET W 28 7 3 6 50.0 0 0 - 1 2 50.0 3 5 8 0 0 0 2 3 15
+p854
+aVRoko Leni Ukic MIL 10/31/2009 MIL vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p855
+aVKurt Thomas MIL 10/31/2009 MIL vs. DET W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -6
+p856
+aVMichael Redd MIL 10/31/2009 MIL vs. DET W 24 9 2 8 25.0 1 4 25.0 4 4 100.0 0 3 3 3 2 0 0 2 9
+p857
+aVErsan Ilyasova MIL 10/31/2009 MIL vs. DET W 19 9 3 9 33.3 1 3 33.3 2 2 100.0 4 2 6 2 0 1 0 2 13
+p858
+aVDan Gadzuric MIL 10/31/2009 MIL vs. DET W 12 8 4 5 80.0 0 0 - 0 1 0.0 1 4 5 0 0 1 1 4 -5
+p859
+aVAndrew Bogut MIL 10/31/2009 MIL vs. DET W 27 6 2 7 28.6 0 0 - 2 3 66.7 2 6 8 0 0 2 1 6 3
+p860
+aVBrandon Jennings MIL 10/31/2009 MIL vs. DET W 32 24 9 15 60.0 3 4 75.0 3 4 75.0 0 2 2 3 3 0 3 5 13
+p861
+aVRoko Leni Ukic MIL 10/30/2009 MIL @ PHI L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p862
+aVBrandon Jennings MIL 10/30/2009 MIL @ PHI L 34 17 7 16 43.8 2 5 40.0 1 2 50.0 1 8 9 9 0 0 5 5 -9
+p863
+aVLuke Ridnour MIL 10/30/2009 MIL @ PHI L 16 8 2 5 40.0 0 1 0.0 4 4 100.0 0 2 2 1 3 0 1 0 -7
+p864
+aVDan Gadzuric MIL 10/30/2009 MIL @ PHI L 11 4 2 4 50.0 0 0 - 0 1 0.0 1 2 3 0 0 0 2 3 -2
+p865
+aVErsan Ilyasova MIL 10/30/2009 MIL @ PHI L 18 11 4 10 40.0 1 5 20.0 2 3 66.7 1 3 4 1 0 0 2 5 4
+p866
+aVAndrew Bogut MIL 10/30/2009 MIL @ PHI L 31 8 4 9 44.4 0 0 - 0 2 0.0 2 4 6 0 0 0 2 2 -10
+p867
+aVMichael Redd MIL 10/30/2009 MIL @ PHI L 39 17 6 17 35.3 2 6 33.3 3 5 60.0 1 5 6 1 3 0 1 0 -15
+p868
+aVHakim Warrick MIL 10/30/2009 MIL @ PHI L 19 9 4 10 40.0 0 0 - 1 2 50.0 3 1 4 0 0 0 2 2 -6
+p869
+aVKurt Thomas MIL 10/30/2009 MIL @ PHI L 14 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -11
+p870
+aVLuc Mbah a Moute MIL 10/30/2009 MIL @ PHI L 18 0 0 3 0.0 0 0 - 0 0 - 1 3 4 2 0 0 2 3 -12
+p871
+aVCharlie Bell MIL 10/30/2009 MIL @ PHI L 31 6 2 7 28.6 2 5 40.0 0 0 - 2 1 3 2 1 1 2 5 4
+p872
+a.

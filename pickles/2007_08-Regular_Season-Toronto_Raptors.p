@@ -1,0 +1,1744 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJose Calderon TOR 04/16/2008 TOR @ CHI L 30 7 3 11 27.3 1 2 50.0 0 0 - 0 0 0 8 3 0 0 1 -13
+p2
+aVAndrea Bargnani TOR 04/16/2008 TOR @ CHI L 21 13 5 11 45.5 1 4 25.0 2 2 100.0 0 1 1 0 1 1 1 4 -10
+p3
+aVAnthony Parker TOR 04/16/2008 TOR @ CHI L 15 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 6
+p4
+aVPrimoz Brezec TOR 04/16/2008 TOR @ CHI L 23 7 3 9 33.3 0 0 - 1 2 50.0 1 4 5 1 0 0 0 6 -2
+p5
+aVJason Kapono TOR 04/16/2008 TOR @ CHI L 14 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p6
+aVJamario Moon TOR 04/16/2008 TOR @ CHI L 22 5 2 4 50.0 1 2 50.0 0 0 - 0 6 6 0 1 0 0 1 6
+p7
+aVChris Bosh TOR 04/16/2008 TOR @ CHI L 15 8 3 8 37.5 0 1 0.0 2 2 100.0 2 4 6 2 0 1 2 2 6
+p8
+aVKris Humphries TOR 04/16/2008 TOR @ CHI L 28 14 5 10 50.0 0 0 - 4 6 66.7 3 4 7 0 1 2 3 6 -17
+p9
+aVCarlos Delfino TOR 04/16/2008 TOR @ CHI L 20 10 4 7 57.1 2 4 50.0 0 0 - 2 0 2 0 1 0 2 2 -12
+p10
+aVT.J. Ford TOR 04/16/2008 TOR @ CHI L 18 18 7 9 77.8 1 1 100.0 3 3 100.0 0 0 0 3 4 0 2 0 3
+p11
+aVJoey Graham TOR 04/16/2008 TOR @ CHI L 20 1 0 7 0.0 0 0 - 1 2 50.0 3 3 6 4 0 0 3 1 -18
+p12
+aVRasho Nesterovic TOR 04/16/2008 TOR @ CHI L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 3 5
+p13
+aVAndrea Bargnani TOR 04/14/2008 TOR vs. MIA W 19 8 2 11 18.2 1 6 16.7 3 3 100.0 2 5 7 0 0 3 1 3 8
+p14
+aVJason Kapono TOR 04/14/2008 TOR vs. MIA W 22 11 5 9 55.6 1 2 50.0 0 0 - 1 0 1 0 1 0 2 2 10
+p15
+aVJoey Graham TOR 04/14/2008 TOR vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p16
+aVRasho Nesterovic TOR 04/14/2008 TOR vs. MIA W 42 20 10 19 52.6 0 0 - 0 0 - 3 4 7 2 1 2 0 0 9
+p17
+aVJose Calderon TOR 04/14/2008 TOR vs. MIA W 24 2 1 4 25.0 0 2 0.0 0 0 - 2 4 6 11 2 0 0 1 12
+p18
+aVKris Humphries TOR 04/14/2008 TOR vs. MIA W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p19
+aVChris Bosh TOR 04/14/2008 TOR vs. MIA W 31 15 3 7 42.9 0 0 - 9 12 75.0 2 4 6 3 2 1 1 0 15
+p20
+aVJamario Moon TOR 04/14/2008 TOR vs. MIA W 22 4 2 6 33.3 0 1 0.0 0 0 - 1 5 6 2 1 3 0 1 3
+p21
+aVAnthony Parker TOR 04/14/2008 TOR vs. MIA W 28 13 5 6 83.3 3 3 100.0 0 0 - 0 7 7 3 0 0 3 1 7
+p22
+aVT.J. Ford TOR 04/14/2008 TOR vs. MIA W 24 11 4 6 66.7 1 1 100.0 2 2 100.0 0 0 0 4 0 0 4 2 4
+p23
+aVPrimoz Brezec TOR 04/14/2008 TOR vs. MIA W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p24
+aVCarlos Delfino TOR 04/14/2008 TOR vs. MIA W 21 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 2 0 1 1 12
+p25
+aVT.J. Ford TOR 04/13/2008 TOR @ DET L 28 10 4 11 36.4 0 1 0.0 2 2 100.0 0 2 2 8 3 0 1 3 1
+p26
+aVJamario Moon TOR 04/13/2008 TOR @ DET L 18 2 1 7 14.3 0 1 0.0 0 0 - 2 2 4 0 1 1 0 0 -5
+p27
+aVAnthony Parker TOR 04/13/2008 TOR @ DET L 32 6 2 7 28.6 1 3 33.3 1 2 50.0 0 1 1 3 1 0 2 1 -7
+p28
+aVJose Calderon TOR 04/13/2008 TOR @ DET L 24 4 2 4 50.0 0 0 - 0 0 - 0 3 3 4 0 0 0 2 -7
+p29
+aVJason Kapono TOR 04/13/2008 TOR @ DET L 16 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p30
+aVChris Bosh TOR 04/13/2008 TOR @ DET L 43 30 13 23 56.5 1 3 33.3 3 3 100.0 3 7 10 4 0 0 3 3 0
+p31
+aVRasho Nesterovic TOR 04/13/2008 TOR @ DET L 31 18 8 13 61.5 0 0 - 2 3 66.7 2 5 7 1 0 1 4 0 -7
+p32
+aVCarlos Delfino TOR 04/13/2008 TOR @ DET L 26 6 2 7 28.6 1 4 25.0 1 2 50.0 0 3 3 4 1 0 1 3 -3
+p33
+aVAndrea Bargnani TOR 04/13/2008 TOR @ DET L 21 2 1 6 16.7 0 4 0.0 0 0 - 0 3 3 1 1 0 0 2 -7
+p34
+aVChris Bosh TOR 04/11/2008 TOR vs. NJN W 38 21 7 12 58.3 0 1 0.0 7 9 77.8 2 7 9 3 3 1 3 2 25
+p35
+aVAndrea Bargnani TOR 04/11/2008 TOR vs. NJN W 24 14 3 8 37.5 0 3 0.0 8 9 88.9 3 3 6 0 0 1 1 3 18
+p36
+aVRasho Nesterovic TOR 04/11/2008 TOR vs. NJN W 23 10 5 9 55.6 0 0 - 0 0 - 3 1 4 2 0 0 3 2 7
+p37
+aVT.J. Ford TOR 04/11/2008 TOR vs. NJN W 24 14 6 14 42.9 0 1 0.0 2 3 66.7 0 3 3 8 0 0 0 0 18
+p38
+aVJason Kapono TOR 04/11/2008 TOR vs. NJN W 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 13
+p39
+aVJoey Graham TOR 04/11/2008 TOR vs. NJN W 5 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 0 3
+p40
+aVJose Calderon TOR 04/11/2008 TOR vs. NJN W 24 11 4 7 57.1 0 0 - 3 4 75.0 0 0 0 10 0 0 0 1 10
+p41
+aVPrimoz Brezec TOR 04/11/2008 TOR vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p42
+aVCarlos Delfino TOR 04/11/2008 TOR vs. NJN W 22 24 7 10 70.0 6 8 75.0 4 4 100.0 2 3 5 1 1 1 1 5 17
+p43
+aVKris Humphries TOR 04/11/2008 TOR vs. NJN W 5 1 0 4 0.0 0 0 - 1 2 50.0 1 3 4 0 0 1 0 0 3
+p44
+aVJamario Moon TOR 04/11/2008 TOR vs. NJN W 21 5 1 2 50.0 1 1 100.0 2 2 100.0 1 4 5 0 0 1 0 2 8
+p45
+aVAnthony Parker TOR 04/11/2008 TOR vs. NJN W 31 10 4 8 50.0 0 2 0.0 2 2 100.0 2 3 5 1 0 1 1 0 15
+p46
+aVT.J. Ford TOR 04/09/2008 TOR vs. MIL W 22 14 7 9 77.8 0 0 - 0 0 - 0 1 1 7 0 0 0 3 16
+p47
+aVChris Bosh TOR 04/09/2008 TOR vs. MIL W 40 32 11 18 61.1 1 2 50.0 9 11 81.8 3 8 11 2 3 4 2 2 20
+p48
+aVJoey Graham TOR 04/09/2008 TOR vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p49
+aVRasho Nesterovic TOR 04/09/2008 TOR vs. MIL W 30 14 7 14 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 2 22
+p50
+aVPrimoz Brezec TOR 04/09/2008 TOR vs. MIL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p51
+aVKris Humphries TOR 04/09/2008 TOR vs. MIL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p52
+aVAndrea Bargnani TOR 04/09/2008 TOR vs. MIL W 23 10 4 10 40.0 0 2 0.0 2 2 100.0 2 2 4 2 1 0 1 3 -10
+p53
+aVAnthony Parker TOR 04/09/2008 TOR vs. MIL W 32 18 6 10 60.0 1 3 33.3 5 6 83.3 0 4 4 2 1 2 1 3 26
+p54
+aVJamario Moon TOR 04/09/2008 TOR vs. MIL W 24 5 2 6 33.3 1 1 100.0 0 0 - 0 8 8 1 1 1 1 1 18
+p55
+aVJason Kapono TOR 04/09/2008 TOR vs. MIL W 20 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 2 0 0 1 -4
+p56
+aVJose Calderon TOR 04/09/2008 TOR vs. MIL W 26 2 1 3 33.3 0 0 - 0 0 - 1 1 2 12 0 0 0 1 2
+p57
+aVCarlos Delfino TOR 04/09/2008 TOR vs. MIL W 19 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 2 0 0 0 1 -6
+p58
+aVCarlos Delfino TOR 04/05/2008 TOR @ NJN L 17 2 1 6 16.7 0 3 0.0 0 0 - 1 2 3 2 0 0 0 3 -4
+p59
+aVRasho Nesterovic TOR 04/05/2008 TOR @ NJN L 38 22 10 12 83.3 0 0 - 2 2 100.0 7 7 14 0 1 3 2 1 -1
+p60
+aVAndrea Bargnani TOR 04/05/2008 TOR @ NJN L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 0 -5
+p61
+aVT.J. Ford TOR 04/05/2008 TOR @ NJN L 28 13 4 9 44.4 1 1 100.0 4 4 100.0 0 0 0 3 1 0 2 1 -5
+p62
+aVJose Calderon TOR 04/05/2008 TOR @ NJN L 20 7 3 9 33.3 0 3 0.0 1 1 100.0 0 3 3 4 1 0 1 4 -4
+p63
+aVJason Kapono TOR 04/05/2008 TOR @ NJN L 8 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p64
+aVChris Bosh TOR 04/05/2008 TOR @ NJN L 42 18 4 10 40.0 0 0 - 10 16 62.5 3 7 10 6 2 1 2 1 -12
+p65
+aVAnthony Parker TOR 04/05/2008 TOR @ NJN L 36 11 5 17 29.4 1 8 12.5 0 0 - 0 3 3 5 1 0 2 4 -11
+p66
+aVJamario Moon TOR 04/05/2008 TOR @ NJN L 35 13 5 11 45.5 1 6 16.7 2 2 100.0 0 2 2 2 0 1 0 1 -7
+p67
+aVJason Kapono TOR 04/04/2008 TOR vs. CHA L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p68
+aVRasho Nesterovic TOR 04/04/2008 TOR vs. CHA L 36 23 9 17 52.9 0 0 - 5 5 100.0 5 5 10 0 0 0 1 4 -1
+p69
+aVCarlos Delfino TOR 04/04/2008 TOR vs. CHA L 17 0 0 6 0.0 0 2 0.0 0 0 - 1 5 6 1 0 0 1 0 -10
+p70
+aVChris Bosh TOR 04/04/2008 TOR vs. CHA L 41 23 9 21 42.9 1 2 50.0 4 6 66.7 1 7 8 4 0 0 5 4 -1
+p71
+aVJose Calderon TOR 04/04/2008 TOR vs. CHA L 25 8 4 6 66.7 0 0 - 0 0 - 0 2 2 7 0 0 0 3 -14
+p72
+aVJamario Moon TOR 04/04/2008 TOR vs. CHA L 30 16 7 9 77.8 2 3 66.7 0 0 - 1 4 5 1 2 3 1 2 -5
+p73
+aVT.J. Ford TOR 04/04/2008 TOR vs. CHA L 30 6 3 6 50.0 0 0 - 0 0 - 1 2 3 14 2 0 3 4 5
+p74
+aVAndrea Bargnani TOR 04/04/2008 TOR vs. CHA L 18 10 4 8 50.0 0 4 0.0 2 2 100.0 0 3 3 1 0 0 1 3 -8
+p75
+aVAnthony Parker TOR 04/04/2008 TOR vs. CHA L 35 14 5 16 31.3 1 6 16.7 3 3 100.0 1 6 7 1 2 0 0 1 11
+p76
+aVJose Calderon TOR 04/02/2008 TOR @ ATL L 21 3 1 5 20.0 0 1 0.0 1 1 100.0 0 3 3 10 0 0 0 1 3
+p77
+aVT.J. Ford TOR 04/02/2008 TOR @ ATL L 32 23 11 20 55.0 0 1 0.0 1 1 100.0 0 2 2 13 1 0 3 1 -10
+p78
+aVJason Kapono TOR 04/02/2008 TOR @ ATL L 16 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 0 0 1 3 -1
+p79
+aVAndrea Bargnani TOR 04/02/2008 TOR @ ATL L 21 17 7 12 58.3 3 4 75.0 0 0 - 2 1 3 0 0 0 0 1 5
+p80
+aVChris Bosh TOR 04/02/2008 TOR @ ATL L 47 24 8 20 40.0 0 2 0.0 8 8 100.0 2 3 5 2 0 1 4 4 -9
+p81
+aVJamario Moon TOR 04/02/2008 TOR @ ATL L 23 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 1 0 0 0 1 1
+p82
+aVRasho Nesterovic TOR 04/02/2008 TOR @ ATL L 34 21 9 13 69.2 1 1 100.0 2 3 66.7 2 2 4 3 0 2 2 4 -3
+p83
+aVAnthony Parker TOR 04/02/2008 TOR @ ATL L 37 12 5 8 62.5 2 4 50.0 0 0 - 0 3 3 3 1 0 2 4 -9
+p84
+aVCarlos Delfino TOR 04/02/2008 TOR @ ATL L 34 8 3 7 42.9 0 3 0.0 2 2 100.0 2 9 11 2 3 0 1 5 -12
+p85
+aVT.J. Ford TOR 03/31/2008 TOR @ CHA W 34 16 6 12 50.0 0 0 - 4 6 66.7 0 0 0 7 1 0 2 2 19
+p86
+aVJose Calderon TOR 03/31/2008 TOR @ CHA W 18 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 3 -18
+p87
+aVKris Humphries TOR 03/31/2008 TOR @ CHA W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 3
+p88
+aVCarlos Delfino TOR 03/31/2008 TOR @ CHA W 15 6 2 6 33.3 1 4 25.0 1 1 100.0 2 2 4 0 1 0 2 2 -15
+p89
+aVRasho Nesterovic TOR 03/31/2008 TOR @ CHA W 28 14 6 14 42.9 0 0 - 2 2 100.0 3 8 11 1 0 0 0 3 14
+p90
+aVChris Bosh TOR 03/31/2008 TOR @ CHA W 46 32 9 20 45.0 1 1 100.0 13 16 81.3 2 6 8 5 2 0 0 0 9
+p91
+aVLinton Johnson TOR 03/31/2008 TOR @ CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -5
+p92
+aVJamario Moon TOR 03/31/2008 TOR @ CHA W 37 15 6 7 85.7 0 0 - 3 6 50.0 0 8 8 2 1 2 1 3 15
+p93
+aVAnthony Parker TOR 03/31/2008 TOR @ CHA W 41 20 8 14 57.1 1 4 25.0 3 4 75.0 2 2 4 5 1 0 3 3 8
+p94
+aVAndrea Bargnani TOR 03/31/2008 TOR @ CHA W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -10
+p95
+aVChris Bosh TOR 03/30/2008 TOR vs. NOH L 29 21 8 16 50.0 1 1 100.0 4 4 100.0 1 6 7 3 0 0 1 2 -13
+p96
+aVRasho Nesterovic TOR 03/30/2008 TOR vs. NOH L 29 14 7 13 53.8 0 1 0.0 0 0 - 2 1 3 0 0 0 0 2 -21
+p97
+aVJose Calderon TOR 03/30/2008 TOR vs. NOH L 29 10 4 8 50.0 1 2 50.0 1 1 100.0 0 1 1 11 0 0 1 0 14
+p98
+aVCarlos Delfino TOR 03/30/2008 TOR vs. NOH L 29 18 7 13 53.8 3 8 37.5 1 1 100.0 0 3 3 4 0 0 2 0 15
+p99
+aVJason Kapono TOR 03/30/2008 TOR vs. NOH L 16 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -23
+p100
+aVKris Humphries TOR 03/30/2008 TOR vs. NOH L 15 10 5 7 71.4 0 0 - 0 0 - 3 4 7 1 0 1 0 2 9
+p101
+aVLinton Johnson TOR 03/30/2008 TOR vs. NOH L 8 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 1 12
+p102
+aVAnthony Parker TOR 03/30/2008 TOR vs. NOH L 19 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 1 -22
+p103
+aVT.J. Ford TOR 03/30/2008 TOR vs. NOH L 26 10 5 10 50.0 0 2 0.0 0 0 - 0 1 1 6 1 0 4 2 -18
+p104
+aVAndrea Bargnani TOR 03/30/2008 TOR vs. NOH L 17 4 0 3 0.0 0 1 0.0 4 4 100.0 0 3 3 2 0 0 0 3 1
+p105
+aVJamario Moon TOR 03/30/2008 TOR vs. NOH L 23 13 5 7 71.4 3 4 75.0 0 0 - 2 4 6 1 2 1 0 0 11
+p106
+aVCarlos Delfino TOR 03/28/2008 TOR vs. NYK W 26 9 3 8 37.5 2 5 40.0 1 2 50.0 0 10 10 0 0 0 0 3 2
+p107
+aVChris Bosh TOR 03/28/2008 TOR vs. NYK W 47 29 10 17 58.8 1 2 50.0 8 10 80.0 2 8 10 1 0 1 5 4 7
+p108
+aVJose Calderon TOR 03/28/2008 TOR vs. NYK W 23 3 1 5 20.0 1 5 20.0 0 0 - 0 4 4 6 0 0 3 3 9
+p109
+aVJason Kapono TOR 03/28/2008 TOR vs. NYK W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 10
+p110
+aVAndrea Bargnani TOR 03/28/2008 TOR vs. NYK W 22 12 3 8 37.5 1 4 25.0 5 6 83.3 1 3 4 1 1 1 1 5 2
+p111
+aVT.J. Ford TOR 03/28/2008 TOR vs. NYK W 31 10 5 7 71.4 0 2 0.0 0 0 - 0 0 0 9 0 0 0 2 -3
+p112
+aVRasho Nesterovic TOR 03/28/2008 TOR vs. NYK W 27 18 8 11 72.7 0 0 - 2 2 100.0 1 7 8 0 0 1 1 4 7
+p113
+aVAnthony Parker TOR 03/28/2008 TOR vs. NYK W 35 15 5 12 41.7 2 5 40.0 3 4 75.0 0 3 3 5 0 0 2 0 0
+p114
+aVJamario Moon TOR 03/28/2008 TOR vs. NYK W 22 7 3 5 60.0 0 0 - 1 2 50.0 2 3 5 2 2 0 0 1 6
+p115
+aVJamario Moon TOR 03/26/2008 TOR vs. DET W 22 8 4 4 100.0 0 0 - 0 0 - 0 2 2 1 1 1 1 2 1
+p116
+aVJose Calderon TOR 03/26/2008 TOR vs. DET W 27 13 4 6 66.7 1 3 33.3 4 4 100.0 0 3 3 4 2 0 1 2 10
+p117
+aVT.J. Ford TOR 03/26/2008 TOR vs. DET W 29 13 5 9 55.6 1 2 50.0 2 2 100.0 0 5 5 9 0 0 1 4 1
+p118
+aVChris Bosh TOR 03/26/2008 TOR vs. DET W 37 21 10 19 52.6 0 0 - 1 2 50.0 2 4 6 3 2 0 1 0 -2
+p119
+aVJason Kapono TOR 03/26/2008 TOR vs. DET W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 6
+p120
+aVAndrea Bargnani TOR 03/26/2008 TOR vs. DET W 13 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 2 0 2 5
+p121
+aVCarlos Delfino TOR 03/26/2008 TOR vs. DET W 21 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 1 0 0 2 0 6
+p122
+aVRasho Nesterovic TOR 03/26/2008 TOR vs. DET W 46 15 7 15 46.7 0 0 - 1 1 100.0 1 8 9 2 0 4 2 1 11
+p123
+aVAnthony Parker TOR 03/26/2008 TOR vs. DET W 36 6 1 6 16.7 0 2 0.0 4 4 100.0 1 5 6 6 1 0 3 2 -3
+p124
+aVAndrea Bargnani TOR 03/23/2008 TOR vs. DEN L 26 16 7 14 50.0 2 4 50.0 0 0 - 0 4 4 0 0 0 0 3 3
+p125
+aVT.J. Ford TOR 03/23/2008 TOR vs. DEN L 16 11 5 8 62.5 0 0 - 1 1 100.0 0 0 0 4 1 0 0 0 -14
+p126
+aVChris Bosh TOR 03/23/2008 TOR vs. DEN L 42 17 6 16 37.5 0 1 0.0 5 6 83.3 3 9 12 9 0 1 4 0 0
+p127
+aVJason Kapono TOR 03/23/2008 TOR vs. DEN L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -19
+p128
+aVJamario Moon TOR 03/23/2008 TOR vs. DEN L 41 15 6 14 42.9 1 5 20.0 2 2 100.0 4 11 15 2 1 3 2 3 -3
+p129
+aVCarlos Delfino TOR 03/23/2008 TOR vs. DEN L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p130
+aVAnthony Parker TOR 03/23/2008 TOR vs. DEN L 37 14 5 10 50.0 2 7 28.6 2 2 100.0 1 3 4 3 0 0 2 4 4
+p131
+aVJose Calderon TOR 03/23/2008 TOR vs. DEN L 32 17 7 11 63.6 3 6 50.0 0 0 - 0 3 3 6 0 0 1 4 5
+p132
+aVRasho Nesterovic TOR 03/23/2008 TOR vs. DEN L 25 10 5 7 71.4 0 0 - 0 1 0.0 2 1 3 1 0 0 1 2 -15
+p133
+aVJose Calderon TOR 03/21/2008 TOR @ CLE L 29 12 5 10 50.0 1 3 33.3 1 1 100.0 0 2 2 3 1 0 0 0 6
+p134
+aVJason Kapono TOR 03/21/2008 TOR @ CLE L 28 6 3 11 27.3 0 3 0.0 0 0 - 0 0 0 2 0 0 1 0 -8
+p135
+aVKris Humphries TOR 03/21/2008 TOR @ CLE L 10 2 1 5 20.0 0 0 - 0 0 - 3 0 3 0 0 1 0 0 -11
+p136
+aVAnthony Parker TOR 03/21/2008 TOR @ CLE L 37 12 5 10 50.0 2 5 40.0 0 0 - 0 3 3 2 1 1 1 2 6
+p137
+aVChris Bosh TOR 03/21/2008 TOR @ CLE L 37 24 7 18 38.9 0 0 - 10 12 83.3 1 5 6 2 3 0 3 2 3
+p138
+aVJamario Moon TOR 03/21/2008 TOR @ CLE L 20 4 2 6 33.3 0 1 0.0 0 0 - 1 9 10 1 0 1 0 0 1
+p139
+aVRasho Nesterovic TOR 03/21/2008 TOR @ CLE L 33 16 8 13 61.5 0 0 - 0 0 - 4 3 7 2 1 0 1 4 -8
+p140
+aVT.J. Ford TOR 03/21/2008 TOR @ CLE L 19 7 3 8 37.5 1 1 100.0 0 0 - 0 2 2 5 1 0 0 2 -13
+p141
+aVCarlos Delfino TOR 03/21/2008 TOR @ CLE L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -13
+p142
+aVAndrea Bargnani TOR 03/21/2008 TOR @ CLE L 17 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 2
+p143
+aVJose Calderon TOR 03/19/2008 TOR vs. MIA W 25 10 4 5 80.0 1 2 50.0 1 2 50.0 0 5 5 10 4 0 1 1 27
+p144
+aVJason Kapono TOR 03/19/2008 TOR vs. MIA W 22 6 2 5 40.0 1 1 100.0 1 2 50.0 1 2 3 1 0 0 2 2 15
+p145
+aVJoey Graham TOR 03/19/2008 TOR vs. MIA W 12 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 9
+p146
+aVRasho Nesterovic TOR 03/19/2008 TOR vs. MIA W 31 12 6 9 66.7 0 0 - 0 0 - 1 3 4 4 1 3 2 0 30
+p147
+aVMaceo Baston TOR 03/19/2008 TOR vs. MIA W 8 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 1 1 2 3
+p148
+aVChris Bosh TOR 03/19/2008 TOR vs. MIA W 23 8 2 10 20.0 0 1 0.0 4 4 100.0 0 8 8 1 0 1 1 2 20
+p149
+aVAndrea Bargnani TOR 03/19/2008 TOR vs. MIA W 28 14 6 11 54.5 1 2 50.0 1 1 100.0 0 3 3 0 0 0 0 1 28
+p150
+aVCarlos Delfino TOR 03/19/2008 TOR vs. MIA W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 1 7
+p151
+aVT.J. Ford TOR 03/19/2008 TOR vs. MIA W 23 8 3 5 60.0 1 1 100.0 1 2 50.0 0 1 1 6 1 0 1 1 15
+p152
+aVAnthony Parker TOR 03/19/2008 TOR vs. MIA W 28 14 6 10 60.0 2 4 50.0 0 0 - 0 4 4 4 1 0 1 1 27
+p153
+aVJamario Moon TOR 03/19/2008 TOR vs. MIA W 27 9 4 6 66.7 0 0 - 1 2 50.0 3 11 14 1 0 0 0 2 26
+p154
+aVKris Humphries TOR 03/19/2008 TOR vs. MIA W 8 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p155
+aVAnthony Parker TOR 03/17/2008 TOR @ UTA L 36 11 5 12 41.7 1 3 33.3 0 0 - 0 7 7 3 2 1 2 3 -15
+p156
+aVRasho Nesterovic TOR 03/17/2008 TOR @ UTA L 37 13 6 13 46.2 0 0 - 1 2 50.0 4 8 12 2 0 1 2 2 -13
+p157
+aVAndrea Bargnani TOR 03/17/2008 TOR @ UTA L 24 5 2 11 18.2 1 3 33.3 0 0 - 1 2 3 0 0 1 2 4 8
+p158
+aVJoey Graham TOR 03/17/2008 TOR @ UTA L 3 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p159
+aVCarlos Delfino TOR 03/17/2008 TOR @ UTA L 17 4 0 3 0.0 0 2 0.0 4 4 100.0 0 1 1 0 1 0 1 4 -15
+p160
+aVJamario Moon TOR 03/17/2008 TOR @ UTA L 24 4 2 3 66.7 0 0 - 0 0 - 1 5 6 1 1 0 0 1 7
+p161
+aVJason Kapono TOR 03/17/2008 TOR @ UTA L 26 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 3 2 -25
+p162
+aVDarrick Martin TOR 03/17/2008 TOR @ UTA L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 4
+p163
+aVJose Calderon TOR 03/17/2008 TOR @ UTA L 31 16 6 12 50.0 2 2 100.0 2 2 100.0 1 0 1 7 2 0 2 3 0
+p164
+aVMaceo Baston TOR 03/17/2008 TOR @ UTA L 6 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 0 -7
+p165
+aVKris Humphries TOR 03/17/2008 TOR @ UTA L 19 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 2 1 0 0 2 -12
+p166
+aVT.J. Ford TOR 03/17/2008 TOR @ UTA L 14 7 3 9 33.3 0 1 0.0 1 1 100.0 1 0 1 2 3 0 4 2 -21
+p167
+aVAndrea Bargnani TOR 03/16/2008 TOR @ SAC L 17 5 2 7 28.6 1 2 50.0 0 0 - 0 3 3 0 0 0 1 4 -4
+p168
+aVKris Humphries TOR 03/16/2008 TOR @ SAC L 14 8 4 9 44.4 0 0 - 0 0 - 1 1 2 0 1 1 0 1 -6
+p169
+aVT.J. Ford TOR 03/16/2008 TOR @ SAC L 20 7 3 8 37.5 0 0 - 1 1 100.0 0 1 1 5 2 0 3 3 2
+p170
+aVJamario Moon TOR 03/16/2008 TOR @ SAC L 25 9 3 7 42.9 1 3 33.3 2 2 100.0 0 3 3 2 1 1 0 0 -14
+p171
+aVCarlos Delfino TOR 03/16/2008 TOR @ SAC L 19 8 1 4 25.0 1 2 50.0 5 8 62.5 1 5 6 1 0 0 2 4 -2
+p172
+aVRasho Nesterovic TOR 03/16/2008 TOR @ SAC L 48 20 10 18 55.6 0 0 - 0 0 - 2 6 8 1 2 2 1 3 -3
+p173
+aVJason Kapono TOR 03/16/2008 TOR @ SAC L 30 26 12 19 63.2 2 6 33.3 0 0 - 1 3 4 2 1 0 2 2 11
+p174
+aVAnthony Parker TOR 03/16/2008 TOR @ SAC L 39 11 5 12 41.7 1 3 33.3 0 2 0.0 0 6 6 6 2 2 2 4 -6
+p175
+aVJose Calderon TOR 03/16/2008 TOR @ SAC L 28 6 3 8 37.5 0 0 - 0 0 - 1 2 3 9 3 0 1 2 -8
+p176
+aVKris Humphries TOR 03/14/2008 TOR @ DEN L 15 12 6 6 100.0 0 0 - 0 0 - 1 4 5 0 0 1 0 3 -17
+p177
+aVJamario Moon TOR 03/14/2008 TOR @ DEN L 24 6 3 6 50.0 0 0 - 0 0 - 2 5 7 2 0 4 0 0 -12
+p178
+aVJose Calderon TOR 03/14/2008 TOR @ DEN L 23 4 2 5 40.0 0 0 - 0 0 - 0 1 1 7 0 1 4 2 -16
+p179
+aVJoey Graham TOR 03/14/2008 TOR @ DEN L 13 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 2 -14
+p180
+aVCarlos Delfino TOR 03/14/2008 TOR @ DEN L 29 16 6 12 50.0 2 5 40.0 2 3 66.7 1 6 7 4 0 1 0 0 -17
+p181
+aVMaceo Baston TOR 03/14/2008 TOR @ DEN L 14 6 3 6 50.0 0 0 - 0 0 - 1 5 6 2 1 0 1 1 -3
+p182
+aVAndrea Bargnani TOR 03/14/2008 TOR @ DEN L 13 6 2 7 28.6 0 3 0.0 2 2 100.0 1 1 2 1 1 0 2 1 -16
+p183
+aVT.J. Ford TOR 03/14/2008 TOR @ DEN L 25 5 2 7 28.6 0 0 - 1 1 100.0 0 2 2 5 0 0 3 2 -16
+p184
+aVJason Kapono TOR 03/14/2008 TOR @ DEN L 25 6 3 10 30.0 0 2 0.0 0 0 - 0 0 0 4 0 0 0 3 -16
+p185
+aVPrimoz Brezec TOR 03/14/2008 TOR @ DEN L 6 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p186
+aVRasho Nesterovic TOR 03/14/2008 TOR @ DEN L 21 15 7 9 77.8 0 0 - 1 2 50.0 2 1 3 4 1 0 3 4 -16
+p187
+aVAnthony Parker TOR 03/14/2008 TOR @ DEN L 32 19 6 11 54.5 1 2 50.0 6 6 100.0 0 3 3 4 1 1 1 3 -17
+p188
+aVAndrea Bargnani TOR 03/12/2008 TOR @ GSW L 31 14 5 9 55.6 2 3 66.7 2 4 50.0 1 2 3 3 0 1 4 1 -12
+p189
+aVJose Calderon TOR 03/12/2008 TOR @ GSW L 25 8 4 7 57.1 0 1 0.0 0 0 - 1 3 4 6 1 0 1 2 -21
+p190
+aVJamario Moon TOR 03/12/2008 TOR @ GSW L 23 7 2 5 40.0 1 2 50.0 2 2 100.0 0 5 5 0 1 2 0 2 -15
+p191
+aVKris Humphries TOR 03/12/2008 TOR @ GSW L 22 10 5 7 71.4 0 0 - 0 0 - 2 2 4 0 0 0 3 3 10
+p192
+aVCarlos Delfino TOR 03/12/2008 TOR @ GSW L 25 10 3 7 42.9 0 2 0.0 4 4 100.0 3 3 6 4 1 1 2 5 6
+p193
+aVAnthony Parker TOR 03/12/2008 TOR @ GSW L 42 22 10 16 62.5 2 3 66.7 0 0 - 2 7 9 1 1 0 1 1 -21
+p194
+aVT.J. Ford TOR 03/12/2008 TOR @ GSW L 30 23 8 18 44.4 0 2 0.0 7 8 87.5 1 3 4 8 0 0 2 2 2
+p195
+aVRasho Nesterovic TOR 03/12/2008 TOR @ GSW L 22 8 4 10 40.0 0 0 - 0 0 - 1 1 2 0 1 1 3 2 -16
+p196
+aVJason Kapono TOR 03/12/2008 TOR @ GSW L 20 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 12
+p197
+aVT.J. Ford TOR 03/11/2008 TOR @ LAL L 27 28 11 23 47.8 1 1 100.0 5 5 100.0 2 3 5 4 1 0 1 2 -6
+p198
+aVJason Kapono TOR 03/11/2008 TOR @ LAL L 22 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 2 -11
+p199
+aVAnthony Parker TOR 03/11/2008 TOR @ LAL L 36 21 7 11 63.6 4 5 80.0 3 4 75.0 0 4 4 2 2 0 1 3 1
+p200
+aVJose Calderon TOR 03/11/2008 TOR @ LAL L 21 2 1 6 16.7 0 2 0.0 0 0 - 2 1 3 6 1 0 3 0 -3
+p201
+aVCarlos Delfino TOR 03/11/2008 TOR @ LAL L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -10
+p202
+aVJamario Moon TOR 03/11/2008 TOR @ LAL L 26 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 1 1 1 0 0 2
+p203
+aVRasho Nesterovic TOR 03/11/2008 TOR @ LAL L 39 18 9 15 60.0 0 0 - 0 0 - 5 3 8 2 1 1 1 3 1
+p204
+aVPrimoz Brezec TOR 03/11/2008 TOR @ LAL L 4 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 1 1 -5
+p205
+aVAndrea Bargnani TOR 03/11/2008 TOR @ LAL L 29 15 5 10 50.0 1 4 25.0 4 4 100.0 0 6 6 6 1 0 1 2 -3
+p206
+aVKris Humphries TOR 03/11/2008 TOR @ LAL L 15 4 1 5 20.0 0 0 - 2 4 50.0 2 5 7 1 0 0 1 1 -6
+p207
+aVJoey Graham TOR 03/11/2008 TOR @ LAL L 9 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -5
+p208
+aVJason Kapono TOR 03/09/2008 TOR vs. SEA W 16 10 4 6 66.7 2 3 66.7 0 0 - 0 1 1 1 1 0 0 2 1
+p209
+aVAnthony Parker TOR 03/09/2008 TOR vs. SEA W 32 23 8 14 57.1 2 3 66.7 5 5 100.0 1 3 4 3 1 0 3 3 7
+p210
+aVKris Humphries TOR 03/09/2008 TOR vs. SEA W 14 12 6 6 100.0 0 0 - 0 2 0.0 4 2 6 1 1 0 0 2 6
+p211
+aVJamario Moon TOR 03/09/2008 TOR vs. SEA W 22 8 4 6 66.7 0 0 - 0 0 - 1 4 5 1 2 2 0 2 5
+p212
+aVAndrea Bargnani TOR 03/09/2008 TOR vs. SEA W 47 16 6 21 28.6 0 7 0.0 4 4 100.0 0 7 7 2 0 0 0 2 6
+p213
+aVJose Calderon TOR 03/09/2008 TOR vs. SEA W 28 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 5 3 0 1 1 3
+p214
+aVCarlos Delfino TOR 03/09/2008 TOR vs. SEA W 27 15 4 12 33.3 1 5 20.0 6 6 100.0 2 2 4 3 1 0 1 1 5
+p215
+aVPrimoz Brezec TOR 03/09/2008 TOR vs. SEA W 5 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -4
+p216
+aVRasho Nesterovic TOR 03/09/2008 TOR vs. SEA W 28 17 7 10 70.0 0 0 - 3 3 100.0 0 6 6 6 0 0 0 4 6
+p217
+aVT.J. Ford TOR 03/09/2008 TOR vs. SEA W 20 6 3 9 33.3 0 0 - 0 0 - 1 0 1 4 1 0 4 2 5
+p218
+aVCarlos Delfino TOR 03/07/2008 TOR vs. WAS L 34 17 7 17 41.2 1 5 20.0 2 2 100.0 1 3 4 4 3 0 1 2 -7
+p219
+aVAnthony Parker TOR 03/07/2008 TOR vs. WAS L 34 15 4 15 26.7 1 4 25.0 6 6 100.0 2 2 4 1 1 0 0 3 -12
+p220
+aVJose Calderon TOR 03/07/2008 TOR vs. WAS L 39 20 9 21 42.9 1 4 25.0 1 1 100.0 1 3 4 9 3 0 3 3 10
+p221
+aVJamario Moon TOR 03/07/2008 TOR vs. WAS L 45 13 5 11 45.5 1 4 25.0 2 2 100.0 3 5 8 0 3 2 0 5 -4
+p222
+aVAndrea Bargnani TOR 03/07/2008 TOR vs. WAS L 48 27 9 18 50.0 5 9 55.6 4 6 66.7 1 4 5 1 0 0 2 1 3
+p223
+aVKris Humphries TOR 03/07/2008 TOR vs. WAS L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -7
+p224
+aVJason Kapono TOR 03/07/2008 TOR vs. WAS L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p225
+aVPrimoz Brezec TOR 03/07/2008 TOR vs. WAS L 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 2 2
+p226
+aVT.J. Ford TOR 03/07/2008 TOR vs. WAS L 14 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 1 0 2 0 -14
+p227
+aVRasho Nesterovic TOR 03/07/2008 TOR vs. WAS L 30 7 3 7 42.9 0 0 - 1 1 100.0 6 6 12 2 0 0 1 1 11
+p228
+aVJose Calderon TOR 03/05/2008 TOR @ MIA W 26 9 4 6 66.7 1 1 100.0 0 0 - 1 2 3 13 1 0 1 0 26
+p229
+aVKris Humphries TOR 03/05/2008 TOR @ MIA W 19 3 1 4 25.0 0 0 - 1 4 25.0 1 2 3 0 1 0 0 1 14
+p230
+aVJason Kapono TOR 03/05/2008 TOR @ MIA W 19 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p231
+aVRasho Nesterovic TOR 03/05/2008 TOR @ MIA W 29 16 8 12 66.7 0 1 0.0 0 0 - 2 8 10 2 0 0 2 3 26
+p232
+aVCarlos Delfino TOR 03/05/2008 TOR @ MIA W 25 7 3 8 37.5 0 4 0.0 1 2 50.0 1 0 1 2 2 0 0 2 2
+p233
+aVJoey Graham TOR 03/05/2008 TOR @ MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p234
+aVJamario Moon TOR 03/05/2008 TOR @ MIA W 27 14 7 11 63.6 0 2 0.0 0 1 0.0 1 8 9 0 4 3 0 0 23
+p235
+aVPrimoz Brezec TOR 03/05/2008 TOR @ MIA W 14 9 2 4 50.0 0 0 - 5 7 71.4 0 1 1 0 1 0 1 2 2
+p236
+aVAnthony Parker TOR 03/05/2008 TOR @ MIA W 29 12 5 10 50.0 2 5 40.0 0 0 - 1 4 5 3 0 0 0 2 26
+p237
+aVMaceo Baston TOR 03/05/2008 TOR @ MIA W 5 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -3
+p238
+aVT.J. Ford TOR 03/05/2008 TOR @ MIA W 22 13 5 9 55.6 0 0 - 3 3 100.0 0 4 4 5 1 0 3 3 -1
+p239
+aVAndrea Bargnani TOR 03/05/2008 TOR @ MIA W 21 12 4 10 40.0 2 3 66.7 2 2 100.0 0 0 0 2 1 0 1 0 14
+p240
+aVRasho Nesterovic TOR 03/04/2008 TOR @ ORL L 19 2 1 7 14.3 0 0 - 0 0 - 4 3 7 0 0 0 0 2 -8
+p241
+aVMaceo Baston TOR 03/04/2008 TOR @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p242
+aVAnthony Parker TOR 03/04/2008 TOR @ ORL L 38 19 8 14 57.1 1 2 50.0 2 2 100.0 4 5 9 2 0 0 2 3 -5
+p243
+aVJason Kapono TOR 03/04/2008 TOR @ ORL L 19 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 1 -10
+p244
+aVJamario Moon TOR 03/04/2008 TOR @ ORL L 33 6 2 7 28.6 0 1 0.0 2 2 100.0 0 6 6 2 2 1 1 2 -1
+p245
+aVCarlos Delfino TOR 03/04/2008 TOR @ ORL L 27 4 1 7 14.3 0 4 0.0 2 2 100.0 2 7 9 3 0 0 0 1 -6
+p246
+aVJose Calderon TOR 03/04/2008 TOR @ ORL L 34 14 7 14 50.0 0 3 0.0 0 0 - 0 3 3 3 1 1 2 1 -13
+p247
+aVAndrea Bargnani TOR 03/04/2008 TOR @ ORL L 27 6 2 11 18.2 0 2 0.0 2 2 100.0 1 4 5 2 1 0 0 1 -7
+p248
+aVKris Humphries TOR 03/04/2008 TOR @ ORL L 16 10 5 8 62.5 0 0 - 0 3 0.0 1 3 4 0 0 0 0 3 -11
+p249
+aVJoey Graham TOR 03/04/2008 TOR @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p250
+aVPrimoz Brezec TOR 03/04/2008 TOR @ ORL L 9 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -1
+p251
+aVT.J. Ford TOR 03/04/2008 TOR @ ORL L 16 20 8 13 61.5 1 2 50.0 3 4 75.0 0 2 2 2 2 0 7 0 -9
+p252
+aVJason Kapono TOR 03/02/2008 TOR @ CHA L 17 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 6
+p253
+aVKris Humphries TOR 03/02/2008 TOR @ CHA L 14 7 2 3 66.7 0 0 - 3 4 75.0 1 5 6 0 0 2 1 1 -8
+p254
+aVJoey Graham TOR 03/02/2008 TOR @ CHA L 14 9 3 6 50.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p255
+aVPrimoz Brezec TOR 03/02/2008 TOR @ CHA L 11 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 4 7
+p256
+aVCarlos Delfino TOR 03/02/2008 TOR @ CHA L 23 9 3 6 50.0 0 1 0.0 3 4 75.0 1 4 5 0 1 0 1 0 -10
+p257
+aVAndrea Bargnani TOR 03/02/2008 TOR @ CHA L 18 6 2 8 25.0 0 3 0.0 2 2 100.0 0 5 5 0 0 2 0 4 0
+p258
+aVT.J. Ford TOR 03/02/2008 TOR @ CHA L 21 6 2 9 22.2 0 0 - 2 2 100.0 1 1 2 5 1 0 1 1 -13
+p259
+aVRasho Nesterovic TOR 03/02/2008 TOR @ CHA L 27 16 7 11 63.6 0 0 - 2 3 66.7 0 5 5 0 0 2 0 1 -7
+p260
+aVAnthony Parker TOR 03/02/2008 TOR @ CHA L 38 24 10 19 52.6 2 6 33.3 2 2 100.0 1 5 6 2 2 1 1 3 -12
+p261
+aVJamario Moon TOR 03/02/2008 TOR @ CHA L 27 7 3 4 75.0 1 2 50.0 0 0 - 1 4 5 0 0 1 1 3 -6
+p262
+aVJose Calderon TOR 03/02/2008 TOR @ CHA L 29 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 10 0 1 4 1 -16
+p263
+aVKris Humphries TOR 02/29/2008 TOR vs. IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p264
+aVAndrea Bargnani TOR 02/29/2008 TOR vs. IND L 40 27 12 25 48.0 3 10 30.0 0 0 - 2 7 9 1 0 1 1 6 -16
+p265
+aVT.J. Ford TOR 02/29/2008 TOR vs. IND L 28 15 5 17 29.4 0 1 0.0 5 5 100.0 2 2 4 9 1 0 1 4 1
+p266
+aVAnthony Parker TOR 02/29/2008 TOR vs. IND L 42 25 11 14 78.6 1 2 50.0 2 3 66.7 1 5 6 1 1 0 1 2 -6
+p267
+aVJamario Moon TOR 02/29/2008 TOR vs. IND L 22 8 4 8 50.0 0 2 0.0 0 0 - 1 4 5 1 0 2 1 4 -1
+p268
+aVRasho Nesterovic TOR 02/29/2008 TOR vs. IND L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p269
+aVJason Kapono TOR 02/29/2008 TOR vs. IND L 20 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 2 0 1 1 -1
+p270
+aVChris Bosh TOR 02/29/2008 TOR vs. IND L 10 7 2 6 33.3 0 0 - 3 3 100.0 1 4 5 2 0 0 1 0 -9
+p271
+aVJoey Graham TOR 02/29/2008 TOR vs. IND L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 2
+p272
+aVJose Calderon TOR 02/29/2008 TOR vs. IND L 41 13 5 9 55.6 2 3 66.7 1 1 100.0 0 6 6 11 0 0 5 3 -10
+p273
+aVCarlos Delfino TOR 02/29/2008 TOR vs. IND L 28 6 2 6 33.3 0 3 0.0 2 4 50.0 3 5 8 1 1 0 1 2 -11
+p274
+aVJamario Moon TOR 02/27/2008 TOR vs. MIN W 29 11 4 9 44.4 1 3 33.3 2 2 100.0 1 6 7 4 0 1 0 0 17
+p275
+aVChris Bosh TOR 02/27/2008 TOR vs. MIN W 41 28 12 17 70.6 1 1 100.0 3 4 75.0 5 2 7 1 0 0 2 3 20
+p276
+aVAndrea Bargnani TOR 02/27/2008 TOR vs. MIN W 24 12 5 9 55.6 1 5 20.0 1 1 100.0 0 5 5 2 0 0 1 2 1
+p277
+aVJose Calderon TOR 02/27/2008 TOR vs. MIN W 25 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 7 1 0 1 1 11
+p278
+aVAnthony Parker TOR 02/27/2008 TOR vs. MIN W 30 7 3 8 37.5 0 4 0.0 1 1 100.0 0 2 2 5 3 0 0 1 14
+p279
+aVT.J. Ford TOR 02/27/2008 TOR vs. MIN W 23 16 4 9 44.4 0 2 0.0 8 8 100.0 1 2 3 3 1 0 0 3 11
+p280
+aVJoey Graham TOR 02/27/2008 TOR vs. MIN W 3 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 0 2
+p281
+aVPrimoz Brezec TOR 02/27/2008 TOR vs. MIN W 9 4 1 2 50.0 0 0 - 2 4 50.0 3 0 3 0 0 0 0 1 5
+p282
+aVRasho Nesterovic TOR 02/27/2008 TOR vs. MIN W 18 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 3 0 4 13
+p283
+aVKris Humphries TOR 02/27/2008 TOR vs. MIN W 4 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 3
+p284
+aVJason Kapono TOR 02/27/2008 TOR vs. MIN W 18 10 5 10 50.0 0 0 - 0 0 - 1 2 3 0 2 0 0 1 10
+p285
+aVCarlos Delfino TOR 02/27/2008 TOR vs. MIN W 16 5 1 5 20.0 0 3 0.0 3 3 100.0 0 0 0 2 1 0 1 1 3
+p286
+aVJason Kapono TOR 02/25/2008 TOR @ IND W 23 9 2 6 33.3 0 0 - 5 5 100.0 1 4 5 0 1 0 1 1 10
+p287
+aVAnthony Parker TOR 02/25/2008 TOR @ IND W 34 8 2 6 33.3 1 3 33.3 3 4 75.0 2 9 11 4 0 1 2 3 -3
+p288
+aVCarlos Delfino TOR 02/25/2008 TOR @ IND W 38 23 7 9 77.8 6 7 85.7 3 4 75.0 0 5 5 1 0 1 3 3 13
+p289
+aVT.J. Ford TOR 02/25/2008 TOR @ IND W 26 16 6 15 40.0 0 2 0.0 4 6 66.7 2 3 5 7 0 0 2 3 11
+p290
+aVChris Bosh TOR 02/25/2008 TOR @ IND W 37 24 7 15 46.7 0 0 - 10 10 100.0 6 4 10 4 1 2 5 1 3
+p291
+aVJamario Moon TOR 02/25/2008 TOR @ IND W 27 9 4 8 50.0 0 2 0.0 1 2 50.0 0 2 2 1 1 1 0 4 4
+p292
+aVKris Humphries TOR 02/25/2008 TOR @ IND W 7 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 2
+p293
+aVAndrea Bargnani TOR 02/25/2008 TOR @ IND W 20 2 1 5 20.0 0 3 0.0 0 0 - 0 5 5 2 0 1 3 2 -15
+p294
+aVRasho Nesterovic TOR 02/25/2008 TOR @ IND W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 5
+p295
+aVJose Calderon TOR 02/25/2008 TOR @ IND W 24 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -10
+p296
+aVJamario Moon TOR 02/24/2008 TOR vs. NYK W 34 4 2 7 28.6 0 2 0.0 0 0 - 2 6 8 2 2 2 0 1 26
+p297
+aVKris Humphries TOR 02/24/2008 TOR vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p298
+aVChris Bosh TOR 02/24/2008 TOR vs. NYK W 27 17 7 11 63.6 0 0 - 3 5 60.0 0 5 5 3 0 0 1 3 30
+p299
+aVRasho Nesterovic TOR 02/24/2008 TOR vs. NYK W 18 8 3 6 50.0 0 0 - 2 2 100.0 5 3 8 0 0 1 0 3 3
+p300
+aVPrimoz Brezec TOR 02/24/2008 TOR vs. NYK W 13 11 5 5 100.0 0 0 - 1 1 100.0 1 2 3 0 0 1 0 4 1
+p301
+aVJose Calderon TOR 02/24/2008 TOR vs. NYK W 29 9 3 8 37.5 2 5 40.0 1 2 50.0 0 6 6 7 0 0 2 1 15
+p302
+aVAndrea Bargnani TOR 02/24/2008 TOR vs. NYK W 35 25 9 17 52.9 5 10 50.0 2 2 100.0 3 4 7 5 0 2 1 2 13
+p303
+aVCarlos Delfino TOR 02/24/2008 TOR vs. NYK W 18 8 2 10 20.0 1 2 50.0 3 3 100.0 2 4 6 1 0 0 1 1 6
+p304
+aVT.J. Ford TOR 02/24/2008 TOR vs. NYK W 19 15 6 11 54.5 1 1 100.0 2 2 100.0 0 4 4 5 0 0 1 1 8
+p305
+aVJoey Graham TOR 02/24/2008 TOR vs. NYK W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p306
+aVJason Kapono TOR 02/24/2008 TOR vs. NYK W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p307
+aVAnthony Parker TOR 02/24/2008 TOR vs. NYK W 34 16 7 12 58.3 1 3 33.3 1 2 50.0 1 2 3 2 1 0 1 3 15
+p308
+aVMaceo Baston TOR 02/22/2008 TOR @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p309
+aVCarlos Delfino TOR 02/22/2008 TOR @ NYK L 23 18 5 11 45.5 3 6 50.0 5 6 83.3 0 1 1 2 1 0 0 3 -8
+p310
+aVRasho Nesterovic TOR 02/22/2008 TOR @ NYK L 10 0 0 0 - 0 0 - 0 0 - 1 4 5 2 0 0 1 1 3
+p311
+aVChris Bosh TOR 02/22/2008 TOR @ NYK L 45 23 9 15 60.0 0 1 0.0 5 7 71.4 0 8 8 4 0 1 5 4 1
+p312
+aVT.J. Ford TOR 02/22/2008 TOR @ NYK L 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 3 1 0 2 2 -6
+p313
+aVJason Kapono TOR 02/22/2008 TOR @ NYK L 8 0 0 0 - 0 0 - 0 1 0.0 0 1 1 1 1 0 0 1 -6
+p314
+aVAnthony Parker TOR 02/22/2008 TOR @ NYK L 39 18 7 13 53.8 1 4 25.0 3 3 100.0 1 2 3 1 2 0 1 1 -2
+p315
+aVKris Humphries TOR 02/22/2008 TOR @ NYK L 9 4 2 5 40.0 0 0 - 0 2 0.0 0 4 4 1 0 0 0 1 3
+p316
+aVAndrea Bargnani TOR 02/22/2008 TOR @ NYK L 14 5 1 5 20.0 1 3 33.3 2 2 100.0 0 2 2 0 0 0 1 3 -7
+p317
+aVJose Calderon TOR 02/22/2008 TOR @ NYK L 40 15 5 15 33.3 1 6 16.7 4 4 100.0 1 2 3 6 2 0 4 1 1
+p318
+aVJamario Moon TOR 02/22/2008 TOR @ NYK L 38 16 6 8 75.0 4 6 66.7 0 0 - 2 6 8 2 1 1 2 5 2
+p319
+aVAndrea Bargnani TOR 02/20/2008 TOR vs. ORL W 19 4 1 8 12.5 0 2 0.0 2 2 100.0 1 1 2 0 0 0 1 3 -2
+p320
+aVJason Kapono TOR 02/20/2008 TOR vs. ORL W 14 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -8
+p321
+aVCarlos Delfino TOR 02/20/2008 TOR vs. ORL W 29 23 7 11 63.6 5 8 62.5 4 6 66.7 0 3 3 5 0 0 2 3 6
+p322
+aVJamario Moon TOR 02/20/2008 TOR vs. ORL W 41 17 6 12 50.0 1 2 50.0 4 4 100.0 3 9 12 4 0 1 1 4 21
+p323
+aVRasho Nesterovic TOR 02/20/2008 TOR vs. ORL W 9 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 1 2 0 2 0
+p324
+aVAnthony Parker TOR 02/20/2008 TOR vs. ORL W 35 10 4 8 50.0 2 3 66.7 0 0 - 1 5 6 2 0 0 0 4 25
+p325
+aVJose Calderon TOR 02/20/2008 TOR vs. ORL W 38 19 8 10 80.0 2 2 100.0 1 1 100.0 0 1 1 13 0 0 1 1 32
+p326
+aVChris Bosh TOR 02/20/2008 TOR vs. ORL W 39 40 14 16 87.5 1 1 100.0 11 11 100.0 3 2 5 5 1 1 1 3 28
+p327
+aVKris Humphries TOR 02/20/2008 TOR vs. ORL W 8 2 1 3 33.3 0 0 - 0 1 0.0 1 2 3 0 0 1 2 2 -2
+p328
+aVJuan Dixon TOR 02/20/2008 TOR vs. ORL W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 4 -15
+p329
+aVChris Bosh TOR 02/13/2008 TOR vs. NJN W 35 27 8 12 66.7 0 1 0.0 11 13 84.6 4 5 9 4 0 1 1 2 28
+p330
+aVDarrick Martin TOR 02/13/2008 TOR vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p331
+aVJason Kapono TOR 02/13/2008 TOR vs. NJN W 15 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -11
+p332
+aVJamario Moon TOR 02/13/2008 TOR vs. NJN W 18 15 6 7 85.7 1 2 50.0 2 2 100.0 0 5 5 1 2 0 0 2 17
+p333
+aVKris Humphries TOR 02/13/2008 TOR vs. NJN W 10 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 2 0 1 1 -9
+p334
+aVJose Calderon TOR 02/13/2008 TOR vs. NJN W 41 22 9 12 75.0 3 4 75.0 1 1 100.0 0 1 1 12 2 0 3 1 25
+p335
+aVAndrea Bargnani TOR 02/13/2008 TOR vs. NJN W 34 14 4 9 44.4 1 3 33.3 5 5 100.0 0 3 3 1 1 1 1 0 30
+p336
+aVRasho Nesterovic TOR 02/13/2008 TOR vs. NJN W 15 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 2 1 2 -16
+p337
+aVMaceo Baston TOR 02/13/2008 TOR vs. NJN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p338
+aVAnthony Parker TOR 02/13/2008 TOR vs. NJN W 29 6 2 9 22.2 1 3 33.3 1 2 50.0 1 4 5 0 2 0 0 0 32
+p339
+aVCarlos Delfino TOR 02/13/2008 TOR vs. NJN W 30 7 2 9 22.2 2 7 28.6 1 2 50.0 1 8 9 6 1 0 3 2 1
+p340
+aVJuan Dixon TOR 02/13/2008 TOR vs. NJN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p341
+aVT.J. Ford TOR 02/11/2008 TOR vs. SAS L 9 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -5
+p342
+aVJose Calderon TOR 02/11/2008 TOR vs. SAS L 36 27 12 17 70.6 2 4 50.0 1 1 100.0 0 3 3 6 0 0 1 1 2
+p343
+aVJuan Dixon TOR 02/11/2008 TOR vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -1
+p344
+aVAndrea Bargnani TOR 02/11/2008 TOR vs. SAS L 28 12 3 11 27.3 2 4 50.0 4 5 80.0 0 2 2 1 0 0 1 1 0
+p345
+aVJamario Moon TOR 02/11/2008 TOR vs. SAS L 22 8 3 6 50.0 2 4 50.0 0 0 - 2 6 8 0 0 1 1 0 -6
+p346
+aVRasho Nesterovic TOR 02/11/2008 TOR vs. SAS L 23 6 3 3 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 2 -2
+p347
+aVAnthony Parker TOR 02/11/2008 TOR vs. SAS L 33 6 3 6 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 5 -3
+p348
+aVCarlos Delfino TOR 02/11/2008 TOR vs. SAS L 27 11 5 15 33.3 1 3 33.3 0 2 0.0 1 7 8 2 0 0 1 4 6
+p349
+aVJason Kapono TOR 02/11/2008 TOR vs. SAS L 13 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 1 1 0 0 1 -8
+p350
+aVChris Bosh TOR 02/11/2008 TOR vs. SAS L 39 11 3 11 27.3 0 0 - 5 6 83.3 1 7 8 2 1 0 2 3 -14
+p351
+aVKris Humphries TOR 02/11/2008 TOR vs. SAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 6
+p352
+aVKris Humphries TOR 02/10/2008 TOR @ MIN W 8 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -2
+p353
+aVAnthony Parker TOR 02/10/2008 TOR @ MIN W 30 10 5 13 38.5 0 4 0.0 0 0 - 0 2 2 3 0 0 0 1 9
+p354
+aVJose Calderon TOR 02/10/2008 TOR @ MIN W 26 15 4 4 100.0 2 2 100.0 5 5 100.0 1 2 3 10 1 0 2 1 10
+p355
+aVT.J. Ford TOR 02/10/2008 TOR @ MIN W 22 7 2 6 33.3 0 1 0.0 3 3 100.0 1 3 4 13 1 0 1 0 13
+p356
+aVJoey Graham TOR 02/10/2008 TOR @ MIN W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p357
+aVRasho Nesterovic TOR 02/10/2008 TOR @ MIN W 22 8 4 6 66.7 0 0 - 0 0 - 1 4 5 1 0 3 2 5 12
+p358
+aVAndrea Bargnani TOR 02/10/2008 TOR @ MIN W 31 16 5 10 50.0 3 5 60.0 3 6 50.0 2 4 6 0 1 0 2 4 23
+p359
+aVJason Kapono TOR 02/10/2008 TOR @ MIN W 18 12 6 10 60.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 14
+p360
+aVChris Bosh TOR 02/10/2008 TOR @ MIN W 35 14 5 12 41.7 0 0 - 4 5 80.0 1 8 9 2 0 2 2 0 13
+p361
+aVCarlos Delfino TOR 02/10/2008 TOR @ MIN W 27 7 3 9 33.3 1 4 25.0 0 0 - 0 9 9 1 1 0 1 2 10
+p362
+aVJamario Moon TOR 02/10/2008 TOR @ MIN W 18 8 4 4 100.0 0 0 - 0 0 - 1 0 1 0 0 2 0 2 8
+p363
+aVChris Bosh TOR 02/08/2008 TOR vs. LAC L 43 29 8 17 47.1 0 0 - 13 13 100.0 2 10 12 2 4 0 3 6 -9
+p364
+aVCarlos Delfino TOR 02/08/2008 TOR vs. LAC L 17 14 4 9 44.4 1 5 20.0 5 5 100.0 0 3 3 0 0 0 0 1 -19
+p365
+aVAnthony Parker TOR 02/08/2008 TOR vs. LAC L 38 5 2 8 25.0 1 3 33.3 0 0 - 0 2 2 0 2 0 0 3 -1
+p366
+aVJamario Moon TOR 02/08/2008 TOR vs. LAC L 31 16 6 13 46.2 1 3 33.3 3 4 75.0 0 3 3 0 2 0 0 4 15
+p367
+aVJose Calderon TOR 02/08/2008 TOR vs. LAC L 35 11 4 8 50.0 2 3 66.7 1 1 100.0 2 0 2 14 2 0 3 4 4
+p368
+aVAndrea Bargnani TOR 02/08/2008 TOR vs. LAC L 36 14 5 14 35.7 1 6 16.7 3 4 75.0 0 6 6 1 4 1 1 3 4
+p369
+aVT.J. Ford TOR 02/08/2008 TOR vs. LAC L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 6 0 0 0 2 -8
+p370
+aVJason Kapono TOR 02/08/2008 TOR vs. LAC L 10 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 0
+p371
+aVRasho Nesterovic TOR 02/08/2008 TOR vs. LAC L 17 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 0 -6
+p372
+aVKris Humphries TOR 02/04/2008 TOR @ MIA W 14 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 1 1 1 3 8
+p373
+aVAnthony Parker TOR 02/04/2008 TOR @ MIA W 28 18 7 9 77.8 4 5 80.0 0 2 0.0 0 3 3 3 1 0 0 0 34
+p374
+aVT.J. Ford TOR 02/04/2008 TOR @ MIA W 17 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 4 2 0 1 0 1
+p375
+aVRasho Nesterovic TOR 02/04/2008 TOR @ MIA W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 1 1 -7
+p376
+aVJason Kapono TOR 02/04/2008 TOR @ MIA W 20 13 6 10 60.0 1 2 50.0 0 0 - 0 1 1 2 4 0 0 2 -2
+p377
+aVChris Bosh TOR 02/04/2008 TOR @ MIA W 34 24 8 11 72.7 0 0 - 8 9 88.9 0 4 4 4 0 0 4 2 28
+p378
+aVCarlos Delfino TOR 02/04/2008 TOR @ MIA W 18 7 2 3 66.7 1 2 50.0 2 2 100.0 0 1 1 3 1 0 1 0 12
+p379
+aVJuan Dixon TOR 02/04/2008 TOR @ MIA W 6 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 0 0 0 1 0 -7
+p380
+aVJose Calderon TOR 02/04/2008 TOR @ MIA W 31 11 5 6 83.3 1 2 50.0 0 0 - 0 3 3 10 1 0 1 1 31
+p381
+aVJoey Graham TOR 02/04/2008 TOR @ MIA W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p382
+aVAndrea Bargnani TOR 02/04/2008 TOR @ MIA W 34 22 9 14 64.3 2 4 50.0 2 2 100.0 0 5 5 3 0 0 0 4 38
+p383
+aVJamario Moon TOR 02/04/2008 TOR @ MIA W 26 6 2 5 40.0 0 0 - 2 2 100.0 1 8 9 1 1 0 1 2 29
+p384
+aVJamario Moon TOR 02/01/2008 TOR vs. LAL L 17 4 1 6 16.7 0 1 0.0 2 2 100.0 1 2 3 1 0 1 0 1 -14
+p385
+aVJose Calderon TOR 02/01/2008 TOR vs. LAL L 40 17 8 12 66.7 1 3 33.3 0 0 - 1 3 4 5 2 0 1 0 -18
+p386
+aVRasho Nesterovic TOR 02/01/2008 TOR vs. LAL L 10 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -7
+p387
+aVJason Kapono TOR 02/01/2008 TOR vs. LAL L 22 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -16
+p388
+aVChris Bosh TOR 02/01/2008 TOR vs. LAL L 43 22 7 22 31.8 0 0 - 8 10 80.0 8 7 15 3 1 1 1 2 -16
+p389
+aVAnthony Parker TOR 02/01/2008 TOR vs. LAL L 33 12 4 11 36.4 2 5 40.0 2 3 66.7 1 3 4 3 1 0 3 3 -9
+p390
+aVCarlos Delfino TOR 02/01/2008 TOR vs. LAL L 24 6 2 8 25.0 2 5 40.0 0 0 - 0 4 4 4 0 0 0 2 -1
+p391
+aVAndrea Bargnani TOR 02/01/2008 TOR vs. LAL L 40 28 9 18 50.0 4 7 57.1 6 6 100.0 1 3 4 0 0 0 1 3 -10
+p392
+aVJuan Dixon TOR 02/01/2008 TOR vs. LAL L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 6 0 0 1 0 -9
+p393
+aVKris Humphries TOR 01/30/2008 TOR vs. WAS W 15 3 0 6 0.0 0 0 - 3 4 75.0 0 4 4 1 1 0 0 2 5
+p394
+aVRasho Nesterovic TOR 01/30/2008 TOR vs. WAS W 20 9 4 4 100.0 0 0 - 1 2 50.0 2 6 8 2 0 0 0 1 14
+p395
+aVJason Kapono TOR 01/30/2008 TOR vs. WAS W 21 8 4 8 50.0 0 0 - 0 0 - 1 1 2 1 0 1 1 3 24
+p396
+aVJamario Moon TOR 01/30/2008 TOR vs. WAS W 24 8 4 7 57.1 0 0 - 0 0 - 2 5 7 2 2 0 0 3 14
+p397
+aVAnthony Parker TOR 01/30/2008 TOR vs. WAS W 27 15 5 8 62.5 3 3 100.0 2 2 100.0 0 1 1 0 2 0 0 2 15
+p398
+aVJose Calderon TOR 01/30/2008 TOR vs. WAS W 26 11 4 6 66.7 2 3 66.7 1 1 100.0 0 1 1 11 0 0 1 2 18
+p399
+aVJoey Graham TOR 01/30/2008 TOR vs. WAS W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 0 1 6
+p400
+aVCarlos Delfino TOR 01/30/2008 TOR vs. WAS W 17 11 4 7 57.1 3 5 60.0 0 0 - 0 4 4 3 1 0 1 0 19
+p401
+aVMaceo Baston TOR 01/30/2008 TOR vs. WAS W 9 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 0 0 4 11
+p402
+aVChris Bosh TOR 01/30/2008 TOR vs. WAS W 20 16 6 12 50.0 0 0 - 4 4 100.0 1 3 4 0 0 3 1 2 17
+p403
+aVAndrea Bargnani TOR 01/30/2008 TOR vs. WAS W 33 19 6 11 54.5 3 4 75.0 4 4 100.0 0 2 2 3 0 1 0 2 31
+p404
+aVJuan Dixon TOR 01/30/2008 TOR vs. WAS W 22 12 5 7 71.4 2 3 66.7 0 0 - 0 0 0 5 4 0 3 0 21
+p405
+aVAndrea Bargnani TOR 01/29/2008 TOR @ WAS L 17 3 1 6 16.7 0 2 0.0 1 2 50.0 2 4 6 0 0 0 2 4 3
+p406
+aVChris Bosh TOR 01/29/2008 TOR @ WAS L 50 37 11 22 50.0 1 2 50.0 14 18 77.8 4 8 12 1 3 1 2 2 -8
+p407
+aVRasho Nesterovic TOR 01/29/2008 TOR @ WAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p408
+aVJuan Dixon TOR 01/29/2008 TOR @ WAS L 11 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 4 0 0 0 2 1
+p409
+aVJose Calderon TOR 01/29/2008 TOR @ WAS L 42 23 8 11 72.7 4 7 57.1 3 4 75.0 2 4 6 13 1 0 3 2 -5
+p410
+aVAnthony Parker TOR 01/29/2008 TOR @ WAS L 41 8 3 16 18.8 2 8 25.0 0 0 - 2 3 5 4 0 0 0 2 -8
+p411
+aVKris Humphries TOR 01/29/2008 TOR @ WAS L 24 16 8 9 88.9 0 0 - 0 0 - 0 4 4 0 1 0 0 3 -3
+p412
+aVCarlos Delfino TOR 01/29/2008 TOR @ WAS L 23 1 0 6 0.0 0 4 0.0 1 2 50.0 0 2 2 0 0 0 0 2 0
+p413
+aVJason Kapono TOR 01/29/2008 TOR @ WAS L 25 6 2 3 66.7 1 1 100.0 1 2 50.0 1 1 2 1 1 0 1 2 19
+p414
+aVJamario Moon TOR 01/29/2008 TOR @ WAS L 19 7 3 8 37.5 1 1 100.0 0 0 - 0 2 2 1 1 1 0 1 -18
+p415
+aVJoey Graham TOR 01/29/2008 TOR @ WAS L 7 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p416
+aVJose Calderon TOR 01/25/2008 TOR vs. MIL W 35 11 3 7 42.9 1 3 33.3 4 4 100.0 0 3 3 12 2 0 1 3 33
+p417
+aVCarlos Delfino TOR 01/25/2008 TOR vs. MIL W 28 18 7 12 58.3 4 6 66.7 0 1 0.0 1 3 4 1 0 0 1 4 16
+p418
+aVRasho Nesterovic TOR 01/25/2008 TOR vs. MIL W 22 3 1 2 50.0 0 0 - 1 2 50.0 3 3 6 2 0 0 1 2 19
+p419
+aVAndrea Bargnani TOR 01/25/2008 TOR vs. MIL W 20 13 4 12 33.3 2 4 50.0 3 4 75.0 0 7 7 0 1 0 1 4 7
+p420
+aVAnthony Parker TOR 01/25/2008 TOR vs. MIL W 28 13 6 6 100.0 1 1 100.0 0 0 - 0 1 1 3 2 1 2 0 24
+p421
+aVJason Kapono TOR 01/25/2008 TOR vs. MIL W 20 2 1 7 14.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p422
+aVJamario Moon TOR 01/25/2008 TOR vs. MIL W 20 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 0 0 2 15
+p423
+aVJoey Graham TOR 01/25/2008 TOR vs. MIL W 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 0 2 4 2
+p424
+aVKris Humphries TOR 01/25/2008 TOR vs. MIL W 8 8 1 2 50.0 0 0 - 6 6 100.0 1 3 4 0 0 0 1 1 4
+p425
+aVDarrick Martin TOR 01/25/2008 TOR vs. MIL W 13 2 1 4 25.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 0 -2
+p426
+aVChris Bosh TOR 01/25/2008 TOR vs. MIL W 35 32 12 19 63.2 0 0 - 8 8 100.0 2 5 7 3 2 1 2 0 30
+p427
+aVCarlos Delfino TOR 01/23/2008 TOR @ BOS W 22 15 5 7 71.4 5 5 100.0 0 0 - 1 2 3 2 1 0 0 4 -7
+p428
+aVJamario Moon TOR 01/23/2008 TOR @ BOS W 26 4 2 9 22.2 0 0 - 0 0 - 0 3 3 3 2 0 1 1 9
+p429
+aVKris Humphries TOR 01/23/2008 TOR @ BOS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p430
+aVJuan Dixon TOR 01/23/2008 TOR @ BOS W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -13
+p431
+aVRasho Nesterovic TOR 01/23/2008 TOR @ BOS W 14 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 3 0 0 0 3 1
+p432
+aVAnthony Parker TOR 01/23/2008 TOR @ BOS W 42 23 8 12 66.7 4 6 66.7 3 3 100.0 1 1 2 1 2 0 3 0 6
+p433
+aVJason Kapono TOR 01/23/2008 TOR @ BOS W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p434
+aVChris Bosh TOR 01/23/2008 TOR @ BOS W 38 23 8 11 72.7 0 0 - 7 7 100.0 1 6 7 1 0 1 7 4 -5
+p435
+aVJose Calderon TOR 01/23/2008 TOR @ BOS W 39 24 8 10 80.0 3 4 75.0 5 5 100.0 0 2 2 13 3 0 4 1 12
+p436
+aVAndrea Bargnani TOR 01/23/2008 TOR @ BOS W 40 20 7 14 50.0 3 6 50.0 3 3 100.0 0 7 7 7 0 1 2 4 11
+p437
+aVAnthony Parker TOR 01/19/2008 TOR @ PHI L 27 7 3 9 33.3 1 3 33.3 0 0 - 1 6 7 3 0 0 3 3 -9
+p438
+aVJason Kapono TOR 01/19/2008 TOR @ PHI L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 0 1 0 11
+p439
+aVJose Calderon TOR 01/19/2008 TOR @ PHI L 38 8 3 9 33.3 1 3 33.3 1 1 100.0 0 1 1 11 2 0 4 2 -3
+p440
+aVJuan Dixon TOR 01/19/2008 TOR @ PHI L 24 18 6 9 66.7 4 4 100.0 2 2 100.0 0 3 3 2 1 0 4 3 7
+p441
+aVKris Humphries TOR 01/19/2008 TOR @ PHI L 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p442
+aVCarlos Delfino TOR 01/19/2008 TOR @ PHI L 22 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 2 0 0 1 2 -11
+p443
+aVJamario Moon TOR 01/19/2008 TOR @ PHI L 33 17 7 13 53.8 1 2 50.0 2 4 50.0 3 6 9 1 2 1 0 2 1
+p444
+aVAndrea Bargnani TOR 01/19/2008 TOR @ PHI L 12 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 -2
+p445
+aVChris Bosh TOR 01/19/2008 TOR @ PHI L 40 25 8 14 57.1 0 1 0.0 9 11 81.8 2 7 9 2 1 0 2 2 -5
+p446
+aVRasho Nesterovic TOR 01/19/2008 TOR @ PHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p447
+aVJoey Graham TOR 01/19/2008 TOR @ PHI L 16 13 3 4 75.0 0 0 - 7 8 87.5 0 2 2 1 0 0 0 2 -3
+p448
+aVAndrea Bargnani TOR 01/18/2008 TOR vs. ATL W 14 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 4 -8
+p449
+aVJose Calderon TOR 01/18/2008 TOR vs. ATL W 40 13 5 11 45.5 1 4 25.0 2 2 100.0 1 5 6 9 1 0 1 2 13
+p450
+aVKris Humphries TOR 01/18/2008 TOR vs. ATL W 10 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p451
+aVAnthony Parker TOR 01/18/2008 TOR vs. ATL W 42 18 7 12 58.3 4 6 66.7 0 0 - 2 3 5 2 1 0 0 2 12
+p452
+aVJason Kapono TOR 01/18/2008 TOR vs. ATL W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -1
+p453
+aVCarlos Delfino TOR 01/18/2008 TOR vs. ATL W 22 0 0 7 0.0 0 4 0.0 0 2 0.0 0 4 4 1 0 0 2 3 3
+p454
+aVJamario Moon TOR 01/18/2008 TOR vs. ATL W 38 9 3 6 50.0 0 1 0.0 3 4 75.0 0 5 5 2 5 3 0 3 15
+p455
+aVJuan Dixon TOR 01/18/2008 TOR vs. ATL W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -2
+p456
+aVChris Bosh TOR 01/18/2008 TOR vs. ATL W 43 35 12 18 66.7 0 0 - 11 14 78.6 1 8 9 3 1 1 1 2 12
+p457
+aVJoey Graham TOR 01/18/2008 TOR vs. ATL W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 10
+p458
+aVRasho Nesterovic TOR 01/18/2008 TOR vs. ATL W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p459
+aVAnthony Parker TOR 01/16/2008 TOR vs. SAC W 29 12 5 10 50.0 1 3 33.3 1 1 100.0 0 1 1 5 3 0 4 0 21
+p460
+aVDarrick Martin TOR 01/16/2008 TOR vs. SAC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p461
+aVJoey Graham TOR 01/16/2008 TOR vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p462
+aVAndrea Bargnani TOR 01/16/2008 TOR vs. SAC W 26 7 3 13 23.1 0 4 0.0 1 2 50.0 0 6 6 0 0 0 1 2 6
+p463
+aVJason Kapono TOR 01/16/2008 TOR vs. SAC W 17 8 3 9 33.3 2 3 66.7 0 0 - 0 1 1 1 1 0 0 0 6
+p464
+aVJuan Dixon TOR 01/16/2008 TOR vs. SAC W 7 0 0 2 0.0 0 1 0.0 0 0 - 2 1 3 2 0 0 0 0 -3
+p465
+aVCarlos Delfino TOR 01/16/2008 TOR vs. SAC W 33 26 8 11 72.7 5 7 71.4 5 5 100.0 3 4 7 6 4 0 1 2 16
+p466
+aVJose Calderon TOR 01/16/2008 TOR vs. SAC W 41 17 7 11 63.6 3 5 60.0 0 0 - 0 3 3 14 3 0 3 1 28
+p467
+aVChris Bosh TOR 01/16/2008 TOR vs. SAC W 42 31 11 12 91.7 0 0 - 9 10 90.0 3 6 9 2 3 0 2 5 29
+p468
+aVKris Humphries TOR 01/16/2008 TOR vs. SAC W 21 11 4 8 50.0 0 0 - 3 4 75.0 2 3 5 1 1 1 1 2 11
+p469
+aVJamario Moon TOR 01/16/2008 TOR vs. SAC W 21 4 2 5 40.0 0 1 0.0 0 0 - 2 5 7 3 1 0 2 5 15
+p470
+aVChris Bosh TOR 01/15/2008 TOR @ DET L 34 16 5 11 45.5 0 0 - 6 7 85.7 4 7 11 3 0 1 1 4 -17
+p471
+aVJuan Dixon TOR 01/15/2008 TOR @ DET L 16 2 1 8 12.5 0 1 0.0 0 0 - 0 0 0 4 0 0 1 1 4
+p472
+aVJason Kapono TOR 01/15/2008 TOR @ DET L 32 14 7 13 53.8 0 0 - 0 0 - 0 1 1 1 0 0 0 4 1
+p473
+aVAndrea Bargnani TOR 01/15/2008 TOR @ DET L 16 0 0 4 0.0 0 2 0.0 0 0 - 1 4 5 2 0 0 0 2 -23
+p474
+aVJamario Moon TOR 01/15/2008 TOR @ DET L 25 11 4 6 66.7 1 3 33.3 2 2 100.0 0 5 5 2 1 1 3 0 -15
+p475
+aVDarrick Martin TOR 01/15/2008 TOR @ DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p476
+aVRasho Nesterovic TOR 01/15/2008 TOR @ DET L 17 6 3 5 60.0 0 0 - 0 0 - 2 1 3 3 0 0 1 1 4
+p477
+aVJoey Graham TOR 01/15/2008 TOR @ DET L 13 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 3 5
+p478
+aVJose Calderon TOR 01/15/2008 TOR @ DET L 30 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 5 2 0 3 1 -12
+p479
+aVCarlos Delfino TOR 01/15/2008 TOR @ DET L 21 14 4 6 66.7 3 3 100.0 3 4 75.0 0 2 2 0 1 0 1 3 -1
+p480
+aVKris Humphries TOR 01/15/2008 TOR @ DET L 8 2 1 2 50.0 0 0 - 0 0 - 3 3 6 0 0 0 2 1 0
+p481
+aVAnthony Parker TOR 01/15/2008 TOR @ DET L 25 10 5 11 45.5 0 3 0.0 0 0 - 0 3 3 0 0 1 2 0 -10
+p482
+aVRasho Nesterovic TOR 01/13/2008 TOR vs. POR W 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -7
+p483
+aVChris Bosh TOR 01/13/2008 TOR vs. POR W 55 38 15 27 55.6 0 0 - 8 10 80.0 4 10 14 2 0 3 2 4 7
+p484
+aVCarlos Delfino TOR 01/13/2008 TOR vs. POR W 45 16 6 14 42.9 2 6 33.3 2 4 50.0 1 7 8 1 0 0 0 1 12
+p485
+aVJason Kapono TOR 01/13/2008 TOR vs. POR W 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 3
+p486
+aVAnthony Parker TOR 01/13/2008 TOR vs. POR W 51 25 10 16 62.5 3 6 50.0 2 2 100.0 0 3 3 6 1 0 0 3 6
+p487
+aVJoey Graham TOR 01/13/2008 TOR vs. POR W 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 4 7
+p488
+aVAndrea Bargnani TOR 01/13/2008 TOR vs. POR W 15 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 3 0
+p489
+aVDarrick Martin TOR 01/13/2008 TOR vs. POR W 4 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p490
+aVJamario Moon TOR 01/13/2008 TOR vs. POR W 37 4 2 6 33.3 0 0 - 0 0 - 1 7 8 3 0 2 0 3 -5
+p491
+aVKris Humphries TOR 01/13/2008 TOR vs. POR W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 5
+p492
+aVJose Calderon TOR 01/13/2008 TOR vs. POR W 54 22 7 10 70.0 3 4 75.0 5 5 100.0 0 3 3 10 2 0 3 2 5
+p493
+aVJason Kapono TOR 01/11/2008 TOR @ NYK W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p494
+aVJose Calderon TOR 01/11/2008 TOR @ NYK W 38 9 4 13 30.8 1 3 33.3 0 0 - 0 2 2 8 1 0 1 1 13
+p495
+aVJoey Graham TOR 01/11/2008 TOR @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p496
+aVAndrea Bargnani TOR 01/11/2008 TOR @ NYK W 17 7 2 2 100.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 2 5 6
+p497
+aVRasho Nesterovic TOR 01/11/2008 TOR @ NYK W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 3
+p498
+aVChris Bosh TOR 01/11/2008 TOR @ NYK W 44 40 14 30 46.7 0 0 - 12 15 80.0 4 7 11 3 2 0 6 3 12
+p499
+aVJamario Moon TOR 01/11/2008 TOR @ NYK W 39 13 5 8 62.5 1 2 50.0 2 2 100.0 1 8 9 0 4 0 2 2 13
+p500
+aVKris Humphries TOR 01/11/2008 TOR @ NYK W 23 9 3 6 50.0 0 0 - 3 4 75.0 4 3 7 0 0 1 1 3 -2
+p501
+aVCarlos Delfino TOR 01/11/2008 TOR @ NYK W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -4
+p502
+aVAnthony Parker TOR 01/11/2008 TOR @ NYK W 40 13 4 11 36.4 3 9 33.3 2 2 100.0 2 6 8 3 0 0 0 1 7
+p503
+aVDarrick Martin TOR 01/11/2008 TOR @ NYK W 10 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -4
+p504
+aVCarlos Delfino TOR 01/09/2008 TOR vs. PHI W 21 12 4 9 44.4 2 5 40.0 2 2 100.0 1 4 5 3 1 0 0 3 2
+p505
+aVKris Humphries TOR 01/09/2008 TOR vs. PHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -2
+p506
+aVChris Bosh TOR 01/09/2008 TOR vs. PHI W 25 21 8 10 80.0 0 0 - 5 6 83.3 0 1 1 3 1 3 2 3 22
+p507
+aVJuan Dixon TOR 01/09/2008 TOR vs. PHI W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 1
+p508
+aVJose Calderon TOR 01/09/2008 TOR vs. PHI W 41 17 6 10 60.0 3 5 60.0 2 2 100.0 0 6 6 9 2 0 2 2 12
+p509
+aVAnthony Parker TOR 01/09/2008 TOR vs. PHI W 31 22 8 11 72.7 4 6 66.7 2 2 100.0 0 1 1 2 2 0 2 2 13
+p510
+aVAndrea Bargnani TOR 01/09/2008 TOR vs. PHI W 17 6 2 5 40.0 0 1 0.0 2 2 100.0 1 1 2 1 1 0 1 4 6
+p511
+aVJoey Graham TOR 01/09/2008 TOR vs. PHI W 15 7 3 8 37.5 0 0 - 1 2 50.0 2 2 4 1 1 0 0 1 2
+p512
+aVRasho Nesterovic TOR 01/09/2008 TOR vs. PHI W 20 8 4 5 80.0 0 0 - 0 0 - 0 5 5 1 0 1 0 3 -2
+p513
+aVJason Kapono TOR 01/09/2008 TOR vs. PHI W 17 8 4 10 40.0 0 2 0.0 0 0 - 1 0 1 3 1 0 0 0 0
+p514
+aVJamario Moon TOR 01/09/2008 TOR vs. PHI W 41 8 4 9 44.4 0 2 0.0 0 0 - 1 8 9 2 0 5 3 1 11
+p515
+aVJoey Graham TOR 01/06/2008 TOR vs. CLE L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p516
+aVJamario Moon TOR 01/06/2008 TOR vs. CLE L 41 16 7 12 58.3 1 3 33.3 1 2 50.0 0 7 7 0 0 3 0 1 2
+p517
+aVJose Calderon TOR 01/06/2008 TOR vs. CLE L 42 16 5 9 55.6 1 3 33.3 5 5 100.0 0 4 4 11 2 0 1 2 -1
+p518
+aVRasho Nesterovic TOR 01/06/2008 TOR vs. CLE L 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 2 0 1 4 -1
+p519
+aVAnthony Parker TOR 01/06/2008 TOR vs. CLE L 38 20 7 14 50.0 3 7 42.9 3 4 75.0 2 7 9 4 2 0 1 3 4
+p520
+aVJason Kapono TOR 01/06/2008 TOR vs. CLE L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -11
+p521
+aVChris Bosh TOR 01/06/2008 TOR vs. CLE L 42 23 9 11 81.8 0 0 - 5 6 83.3 2 3 5 2 1 1 2 2 12
+p522
+aVCarlos Delfino TOR 01/06/2008 TOR vs. CLE L 14 3 1 4 25.0 0 2 0.0 1 1 100.0 0 1 1 1 1 0 0 2 -12
+p523
+aVJuan Dixon TOR 01/06/2008 TOR vs. CLE L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -2
+p524
+aVKris Humphries TOR 01/06/2008 TOR vs. CLE L 4 0 0 0 - 0 0 - 0 4 0.0 0 1 1 0 0 0 0 0 -8
+p525
+aVAndrea Bargnani TOR 01/06/2008 TOR vs. CLE L 23 4 2 9 22.2 0 2 0.0 0 2 0.0 0 3 3 1 1 1 2 3 9
+p526
+aVChris Bosh TOR 01/04/2008 TOR vs. DET L 43 23 9 21 42.9 0 0 - 5 7 71.4 5 11 16 0 0 1 1 2 -8
+p527
+aVKris Humphries TOR 01/04/2008 TOR vs. DET L 13 5 1 4 25.0 0 0 - 3 6 50.0 1 5 6 2 0 0 1 1 -9
+p528
+aVAndrea Bargnani TOR 01/04/2008 TOR vs. DET L 40 25 10 16 62.5 3 5 60.0 2 3 66.7 1 1 2 0 0 0 0 2 -15
+p529
+aVJamario Moon TOR 01/04/2008 TOR vs. DET L 36 10 4 9 44.4 1 3 33.3 1 1 100.0 2 1 3 3 1 1 0 2 -7
+p530
+aVJason Kapono TOR 01/04/2008 TOR vs. DET L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p531
+aVJuan Dixon TOR 01/04/2008 TOR vs. DET L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -7
+p532
+aVCarlos Delfino TOR 01/04/2008 TOR vs. DET L 14 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -9
+p533
+aVJose Calderon TOR 01/04/2008 TOR vs. DET L 40 15 7 13 53.8 0 1 0.0 1 1 100.0 0 3 3 9 2 0 1 5 -9
+p534
+aVAnthony Parker TOR 01/04/2008 TOR vs. DET L 36 7 2 11 18.2 1 2 50.0 2 4 50.0 0 2 2 2 2 0 0 2 -8
+p535
+aVCarlos Delfino TOR 12/31/2007 TOR @ NOH W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 -8
+p536
+aVKris Humphries TOR 12/31/2007 TOR @ NOH W 17 5 2 7 28.6 0 0 - 1 1 100.0 1 3 4 0 1 1 1 3 -9
+p537
+aVAndrea Bargnani TOR 12/31/2007 TOR @ NOH W 31 17 6 11 54.5 0 2 0.0 5 6 83.3 0 2 2 1 0 0 3 3 10
+p538
+aVJamario Moon TOR 12/31/2007 TOR @ NOH W 40 8 4 7 57.1 0 2 0.0 0 0 - 0 10 10 1 2 3 1 1 7
+p539
+aVJason Kapono TOR 12/31/2007 TOR @ NOH W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p540
+aVChris Bosh TOR 12/31/2007 TOR @ NOH W 41 29 10 21 47.6 0 0 - 9 9 100.0 1 6 7 3 2 1 2 2 9
+p541
+aVJuan Dixon TOR 12/31/2007 TOR @ NOH W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 1 0 3
+p542
+aVAnthony Parker TOR 12/31/2007 TOR @ NOH W 39 19 8 10 80.0 2 3 66.7 1 2 50.0 0 3 3 5 1 0 0 1 14
+p543
+aVJose Calderon TOR 12/31/2007 TOR @ NOH W 41 17 6 12 50.0 1 3 33.3 4 5 80.0 1 2 3 12 0 0 3 5 6
+p544
+aVJose Calderon TOR 12/29/2007 TOR @ HOU L 35 11 4 8 50.0 0 1 0.0 3 3 100.0 1 3 4 10 2 0 1 1 -9
+p545
+aVJuan Dixon TOR 12/29/2007 TOR @ HOU L 13 8 4 6 66.7 0 0 - 0 0 - 1 0 1 1 2 0 2 0 -3
+p546
+aVAndrea Bargnani TOR 12/29/2007 TOR @ HOU L 21 0 0 5 0.0 0 0 - 0 0 - 2 4 6 1 1 1 2 3 -5
+p547
+aVCarlos Delfino TOR 12/29/2007 TOR @ HOU L 26 5 2 10 20.0 1 6 16.7 0 2 0.0 0 1 1 1 0 0 0 0 -10
+p548
+aVJamario Moon TOR 12/29/2007 TOR @ HOU L 21 11 5 12 41.7 1 1 100.0 0 2 0.0 0 3 3 0 1 1 3 2 -3
+p549
+aVKris Humphries TOR 12/29/2007 TOR @ HOU L 20 7 3 9 33.3 0 0 - 1 4 25.0 4 5 9 1 0 1 1 1 -4
+p550
+aVAnthony Parker TOR 12/29/2007 TOR @ HOU L 30 6 3 7 42.9 0 2 0.0 0 0 - 1 5 6 0 1 1 0 1 -4
+p551
+aVChris Bosh TOR 12/29/2007 TOR @ HOU L 35 19 7 20 35.0 0 0 - 5 6 83.3 6 6 12 1 3 1 5 2 -7
+p552
+aVRasho Nesterovic TOR 12/29/2007 TOR @ HOU L 17 6 3 6 50.0 0 0 - 0 0 - 2 3 5 3 1 1 0 3 -3
+p553
+aVJason Kapono TOR 12/29/2007 TOR @ HOU L 22 6 3 9 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -12
+p554
+aVJamario Moon TOR 12/28/2007 TOR @ SAS W 18 4 2 5 40.0 0 0 - 0 1 0.0 2 5 7 0 1 1 0 2 3
+p555
+aVCarlos Delfino TOR 12/28/2007 TOR @ SAS W 31 8 4 10 40.0 0 1 0.0 0 0 - 1 3 4 3 2 1 1 1 19
+p556
+aVAndrea Bargnani TOR 12/28/2007 TOR @ SAS W 34 11 3 9 33.3 1 5 20.0 4 4 100.0 0 3 3 2 1 3 3 5 10
+p557
+aVChris Bosh TOR 12/28/2007 TOR @ SAS W 32 10 5 16 31.3 0 0 - 0 0 - 2 7 9 3 0 0 1 1 -4
+p558
+aVAnthony Parker TOR 12/28/2007 TOR @ SAS W 19 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 0 1 0 0 1 -9
+p559
+aVJose Calderon TOR 12/28/2007 TOR @ SAS W 33 14 6 13 46.2 0 2 0.0 2 2 100.0 2 5 7 5 1 0 1 1 -7
+p560
+aVJuan Dixon TOR 12/28/2007 TOR @ SAS W 16 4 2 8 25.0 0 2 0.0 0 0 - 0 0 0 2 2 0 1 1 17
+p561
+aVJason Kapono TOR 12/28/2007 TOR @ SAS W 32 15 5 8 62.5 2 3 66.7 3 4 75.0 1 2 3 0 0 0 0 4 14
+p562
+aVKris Humphries TOR 12/28/2007 TOR @ SAS W 25 14 6 11 54.5 0 0 - 2 3 66.7 1 10 11 1 0 0 0 3 7
+p563
+aVCarlos Delfino TOR 12/22/2007 TOR @ PHX L 35 10 4 10 40.0 2 3 66.7 0 2 0.0 6 5 11 0 0 0 1 3 -15
+p564
+aVJose Calderon TOR 12/22/2007 TOR @ PHX L 30 15 7 11 63.6 1 3 33.3 0 0 - 1 2 3 4 0 0 1 2 -22
+p565
+aVJamario Moon TOR 12/22/2007 TOR @ PHX L 14 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 0 1 0 0 3 -6
+p566
+aVAndrea Bargnani TOR 12/22/2007 TOR @ PHX L 30 13 6 13 46.2 1 4 25.0 0 0 - 1 2 3 0 0 1 2 1 -12
+p567
+aVJuan Dixon TOR 12/22/2007 TOR @ PHX L 22 4 1 6 16.7 0 1 0.0 2 2 100.0 1 5 6 4 0 0 2 3 2
+p568
+aVKris Humphries TOR 12/22/2007 TOR @ PHX L 15 4 1 6 16.7 0 0 - 2 2 100.0 0 3 3 1 0 0 0 2 -5
+p569
+aVAnthony Parker TOR 12/22/2007 TOR @ PHX L 18 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 3 -17
+p570
+aVChris Bosh TOR 12/22/2007 TOR @ PHX L 33 42 10 20 50.0 0 0 - 22 24 91.7 6 7 13 0 0 0 0 3 -10
+p571
+aVJoey Graham TOR 12/22/2007 TOR @ PHX L 10 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -4
+p572
+aVJason Kapono TOR 12/22/2007 TOR @ PHX L 33 6 3 11 27.3 0 4 0.0 0 0 - 1 3 4 1 0 0 0 2 -6
+p573
+aVJason Kapono TOR 12/21/2007 TOR @ SEA L 27 16 6 10 60.0 4 7 57.1 0 0 - 0 2 2 0 0 0 2 1 -4
+p574
+aVJose Calderon TOR 12/21/2007 TOR @ SEA L 37 15 7 15 46.7 1 4 25.0 0 0 - 2 5 7 16 0 0 1 3 -7
+p575
+aVAnthony Parker TOR 12/21/2007 TOR @ SEA L 35 18 7 12 58.3 4 6 66.7 0 0 - 0 3 3 4 1 0 0 1 -16
+p576
+aVJamario Moon TOR 12/21/2007 TOR @ SEA L 11 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -3
+p577
+aVCarlos Delfino TOR 12/21/2007 TOR @ SEA L 29 15 6 10 60.0 3 6 50.0 0 0 - 0 2 2 3 3 0 2 5 13
+p578
+aVRasho Nesterovic TOR 12/21/2007 TOR @ SEA L 13 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 0 1 1 3 -5
+p579
+aVChris Bosh TOR 12/21/2007 TOR @ SEA L 44 26 9 21 42.9 0 0 - 8 10 80.0 4 9 13 2 0 2 5 3 -4
+p580
+aVAndrea Bargnani TOR 12/21/2007 TOR @ SEA L 14 4 2 7 28.6 0 2 0.0 0 0 - 2 0 2 1 0 0 0 2 -4
+p581
+aVJuan Dixon TOR 12/21/2007 TOR @ SEA L 11 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 3 0 0 0 1 -1
+p582
+aVKris Humphries TOR 12/21/2007 TOR @ SEA L 20 10 4 9 44.4 0 0 - 2 2 100.0 1 2 3 1 1 2 2 1 -9
+p583
+aVChris Bosh TOR 12/19/2007 TOR @ POR L 33 18 6 13 46.2 0 0 - 6 6 100.0 3 8 11 2 0 0 2 3 1
+p584
+aVJose Calderon TOR 12/19/2007 TOR @ POR L 35 19 9 16 56.3 1 2 50.0 0 0 - 0 0 0 9 1 0 1 2 -5
+p585
+aVDarrick Martin TOR 12/19/2007 TOR @ POR L 13 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 2 0
+p586
+aVKris Humphries TOR 12/19/2007 TOR @ POR L 26 13 6 11 54.5 0 0 - 1 3 33.3 0 5 5 1 0 1 1 3 -6
+p587
+aVJason Kapono TOR 12/19/2007 TOR @ POR L 21 13 6 9 66.7 1 2 50.0 0 0 - 1 0 1 2 0 0 3 4 -2
+p588
+aVAndrea Bargnani TOR 12/19/2007 TOR @ POR L 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 1 2 -4
+p589
+aVAnthony Parker TOR 12/19/2007 TOR @ POR L 30 16 6 8 75.0 3 4 75.0 1 1 100.0 1 2 3 4 2 0 1 2 0
+p590
+aVRasho Nesterovic TOR 12/19/2007 TOR @ POR L 12 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 1 0 1 0 1
+p591
+aVJamario Moon TOR 12/19/2007 TOR @ POR L 23 4 2 9 22.2 0 1 0.0 0 0 - 2 2 4 1 0 2 0 2 -4
+p592
+aVCarlos Delfino TOR 12/19/2007 TOR @ POR L 27 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 1 0 0 0 1 -6
+p593
+aVChris Bosh TOR 12/18/2007 TOR @ LAC W 33 24 6 22 27.3 0 0 - 12 16 75.0 3 6 9 3 1 2 1 1 -4
+p594
+aVRasho Nesterovic TOR 12/18/2007 TOR @ LAC W 27 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 1 1 2 1
+p595
+aVJamario Moon TOR 12/18/2007 TOR @ LAC W 24 16 8 12 66.7 0 2 0.0 0 0 - 0 5 5 0 0 3 0 3 4
+p596
+aVJoey Graham TOR 12/18/2007 TOR @ LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p597
+aVAndrea Bargnani TOR 12/18/2007 TOR @ LAC W 16 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 1 0 2 0 2 9
+p598
+aVKris Humphries TOR 12/18/2007 TOR @ LAC W 20 9 4 6 66.7 0 0 - 1 3 33.3 2 2 4 0 0 0 0 2 -1
+p599
+aVDarrick Martin TOR 12/18/2007 TOR @ LAC W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p600
+aVAnthony Parker TOR 12/18/2007 TOR @ LAC W 30 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 2 1 1 2 1 -5
+p601
+aVCarlos Delfino TOR 12/18/2007 TOR @ LAC W 24 8 3 9 33.3 1 4 25.0 1 3 33.3 2 6 8 4 3 0 2 1 -2
+p602
+aVJose Calderon TOR 12/18/2007 TOR @ LAC W 38 12 4 6 66.7 1 2 50.0 3 4 75.0 2 4 6 9 1 0 0 3 0
+p603
+aVJason Kapono TOR 12/18/2007 TOR @ LAC W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 0 0 0 0 2 10
+p604
+aVAnthony Parker TOR 12/16/2007 TOR vs. BOS L 31 6 2 8 25.0 2 4 50.0 0 0 - 0 3 3 0 0 1 1 3 -33
+p605
+aVChris Bosh TOR 12/16/2007 TOR vs. BOS L 38 17 4 12 33.3 0 0 - 9 12 75.0 3 10 13 5 2 0 2 3 -9
+p606
+aVKris Humphries TOR 12/16/2007 TOR vs. BOS L 20 12 5 9 55.6 0 0 - 2 3 66.7 3 6 9 1 0 2 1 0 -5
+p607
+aVRasho Nesterovic TOR 12/16/2007 TOR vs. BOS L 16 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -7
+p608
+aVJose Calderon TOR 12/16/2007 TOR vs. BOS L 34 8 3 7 42.9 2 4 50.0 0 1 0.0 0 4 4 5 1 0 4 1 -18
+p609
+aVCarlos Delfino TOR 12/16/2007 TOR vs. BOS L 18 4 1 4 25.0 0 3 0.0 2 2 100.0 0 1 1 1 0 1 1 3 4
+p610
+aVJason Kapono TOR 12/16/2007 TOR vs. BOS L 27 8 3 9 33.3 1 2 50.0 1 1 100.0 0 1 1 1 0 0 1 2 -7
+p611
+aVJoey Graham TOR 12/16/2007 TOR vs. BOS L 9 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 2 2 16
+p612
+aVAndrea Bargnani TOR 12/16/2007 TOR vs. BOS L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 -10
+p613
+aVJamario Moon TOR 12/16/2007 TOR vs. BOS L 20 13 6 9 66.7 1 3 33.3 0 0 - 1 2 3 0 0 1 2 2 -1
+p614
+aVJuan Dixon TOR 12/16/2007 TOR vs. BOS L 5 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p615
+aVDarrick Martin TOR 12/16/2007 TOR vs. BOS L 9 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 16
+p616
+aVJason Kapono TOR 12/14/2007 TOR @ IND W 34 29 9 14 64.3 6 7 85.7 5 5 100.0 0 2 2 1 2 0 1 3 16
+p617
+aVJamario Moon TOR 12/14/2007 TOR @ IND W 15 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 0 1 1 0 -5
+p618
+aVChris Bosh TOR 12/14/2007 TOR @ IND W 38 22 9 20 45.0 0 0 - 4 6 66.7 8 8 16 2 1 0 2 3 12
+p619
+aVJuan Dixon TOR 12/14/2007 TOR @ IND W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 1
+p620
+aVAndrea Bargnani TOR 12/14/2007 TOR @ IND W 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 3 3 0
+p621
+aVRasho Nesterovic TOR 12/14/2007 TOR @ IND W 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 3 0 3 -12
+p622
+aVKris Humphries TOR 12/14/2007 TOR @ IND W 37 17 7 11 63.6 0 0 - 3 4 75.0 1 4 5 1 2 0 1 3 22
+p623
+aVAnthony Parker TOR 12/14/2007 TOR @ IND W 29 3 1 6 16.7 1 3 33.3 0 0 - 1 4 5 1 0 1 1 2 11
+p624
+aVJose Calderon TOR 12/14/2007 TOR @ IND W 41 18 5 11 45.5 2 5 40.0 6 6 100.0 0 5 5 16 0 1 2 0 10
+p625
+aVCarlos Delfino TOR 12/14/2007 TOR @ IND W 19 9 3 8 37.5 1 4 25.0 2 2 100.0 0 7 7 1 1 1 3 2 0
+p626
+aVJamario Moon TOR 12/12/2007 TOR vs. DAL W 28 4 1 6 16.7 0 0 - 2 2 100.0 2 7 9 1 0 2 0 0 4
+p627
+aVCarlos Delfino TOR 12/12/2007 TOR vs. DAL W 22 7 3 12 25.0 0 3 0.0 1 1 100.0 1 6 7 6 1 0 2 3 10
+p628
+aVRasho Nesterovic TOR 12/12/2007 TOR vs. DAL W 18 10 5 6 83.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p629
+aVChris Bosh TOR 12/12/2007 TOR vs. DAL W 31 17 7 11 63.6 0 0 - 3 4 75.0 0 5 5 1 1 1 3 2 -4
+p630
+aVDarrick Martin TOR 12/12/2007 TOR vs. DAL W 15 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 0 0 20
+p631
+aVKris Humphries TOR 12/12/2007 TOR vs. DAL W 29 16 7 10 70.0 0 0 - 2 5 40.0 5 7 12 0 0 2 1 4 15
+p632
+aVJose Calderon TOR 12/12/2007 TOR vs. DAL W 33 12 3 10 30.0 1 3 33.3 5 6 83.3 0 1 1 7 1 0 1 4 -4
+p633
+aVAnthony Parker TOR 12/12/2007 TOR vs. DAL W 26 6 2 9 22.2 2 5 40.0 0 0 - 0 4 4 5 1 0 0 1 6
+p634
+aVJason Kapono TOR 12/12/2007 TOR vs. DAL W 22 10 3 5 60.0 2 3 66.7 2 2 100.0 1 1 2 0 0 0 1 2 12
+p635
+aVAndrea Bargnani TOR 12/12/2007 TOR vs. DAL W 15 8 2 5 40.0 1 1 100.0 3 3 100.0 0 0 0 1 0 0 0 2 20
+p636
+aVCarlos Delfino TOR 12/11/2007 TOR @ ATL W 15 3 1 6 16.7 1 5 20.0 0 2 0.0 0 2 2 0 0 0 1 0 -17
+p637
+aVRasho Nesterovic TOR 12/11/2007 TOR @ ATL W 25 2 1 6 16.7 0 0 - 0 0 - 2 4 6 0 0 1 2 3 5
+p638
+aVAndrea Bargnani TOR 12/11/2007 TOR @ ATL W 12 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -5
+p639
+aVAnthony Parker TOR 12/11/2007 TOR @ ATL W 35 12 3 8 37.5 3 4 75.0 3 3 100.0 0 6 6 2 1 0 0 1 21
+p640
+aVJamario Moon TOR 12/11/2007 TOR @ ATL W 35 9 4 8 50.0 0 0 - 1 2 50.0 0 4 4 1 0 1 0 4 22
+p641
+aVJose Calderon TOR 12/11/2007 TOR @ ATL W 19 15 5 6 83.3 1 1 100.0 4 4 100.0 0 2 2 7 0 0 1 2 10
+p642
+aVT.J. Ford TOR 12/11/2007 TOR @ ATL W 30 26 11 15 73.3 0 0 - 4 6 66.7 0 2 2 8 1 0 2 1 2
+p643
+aVKris Humphries TOR 12/11/2007 TOR @ ATL W 20 5 2 7 28.6 0 1 0.0 1 2 50.0 3 2 5 1 1 0 0 1 9
+p644
+aVChris Bosh TOR 12/11/2007 TOR @ ATL W 38 20 8 17 47.1 0 0 - 4 4 100.0 1 12 13 3 1 1 2 1 13
+p645
+aVJason Kapono TOR 12/11/2007 TOR @ ATL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p646
+aVJuan Dixon TOR 12/11/2007 TOR @ ATL W 2 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 0 1 2
+p647
+aVJoey Graham TOR 12/11/2007 TOR @ ATL W 6 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 7
+p648
+aVJose Calderon TOR 12/09/2007 TOR vs. HOU W 23 7 3 6 50.0 0 0 - 1 1 100.0 0 3 3 6 1 0 0 0 10
+p649
+aVJuan Dixon TOR 12/09/2007 TOR vs. HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p650
+aVJoey Graham TOR 12/09/2007 TOR vs. HOU W 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -8
+p651
+aVChris Bosh TOR 12/09/2007 TOR vs. HOU W 42 21 7 17 41.2 0 0 - 7 9 77.8 3 7 10 3 2 4 0 2 5
+p652
+aVCarlos Delfino TOR 12/09/2007 TOR vs. HOU W 23 12 3 9 33.3 2 5 40.0 4 4 100.0 3 5 8 2 1 0 2 5 30
+p653
+aVJason Kapono TOR 12/09/2007 TOR vs. HOU W 22 10 5 7 71.4 0 2 0.0 0 0 - 0 1 1 3 0 0 3 2 9
+p654
+aVKris Humphries TOR 12/09/2007 TOR vs. HOU W 23 16 6 9 66.7 0 0 - 4 5 80.0 4 5 9 0 0 0 2 3 10
+p655
+aVAnthony Parker TOR 12/09/2007 TOR vs. HOU W 25 11 5 8 62.5 1 1 100.0 0 0 - 1 2 3 3 0 0 0 0 6
+p656
+aVRasho Nesterovic TOR 12/09/2007 TOR vs. HOU W 30 9 4 11 36.4 0 0 - 1 2 50.0 3 4 7 1 1 1 0 3 11
+p657
+aVMaceo Baston TOR 12/09/2007 TOR vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p658
+aVJamario Moon TOR 12/09/2007 TOR vs. HOU W 19 4 2 7 28.6 0 1 0.0 0 0 - 3 1 4 1 0 2 0 3 -11
+p659
+aVT.J. Ford TOR 12/09/2007 TOR vs. HOU W 24 3 1 9 11.1 0 0 - 1 2 50.0 0 1 1 4 2 0 3 0 5
+p660
+aVJamario Moon TOR 12/07/2007 TOR @ BOS L 34 2 1 6 16.7 0 0 - 0 0 - 0 4 4 1 0 2 4 3 -18
+p661
+aVDarrick Martin TOR 12/07/2007 TOR @ BOS L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 0 8
+p662
+aVRasho Nesterovic TOR 12/07/2007 TOR @ BOS L 10 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -11
+p663
+aVJuan Dixon TOR 12/07/2007 TOR @ BOS L 20 12 5 10 50.0 2 3 66.7 0 0 - 0 0 0 2 1 0 3 3 -2
+p664
+aVJason Kapono TOR 12/07/2007 TOR @ BOS L 18 7 3 9 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 1 2 -20
+p665
+aVAnthony Parker TOR 12/07/2007 TOR @ BOS L 28 13 6 13 46.2 1 6 16.7 0 0 - 2 3 5 1 4 0 1 2 -24
+p666
+aVKris Humphries TOR 12/07/2007 TOR @ BOS L 13 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 1 0 3 4
+p667
+aVT.J. Ford TOR 12/07/2007 TOR @ BOS L 22 12 5 9 55.6 0 1 0.0 2 2 100.0 0 1 1 3 1 0 4 1 -9
+p668
+aVJoey Graham TOR 12/07/2007 TOR @ BOS L 34 12 4 11 36.4 0 0 - 4 4 100.0 0 6 6 1 1 0 2 5 -25
+p669
+aVJose Calderon TOR 12/07/2007 TOR @ BOS L 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 1 0 0 1 -27
+p670
+aVCarlos Delfino TOR 12/07/2007 TOR @ BOS L 22 9 3 6 50.0 2 3 66.7 1 2 50.0 0 2 2 4 0 1 2 1 -15
+p671
+aVMaceo Baston TOR 12/07/2007 TOR @ BOS L 12 7 2 2 100.0 0 0 - 3 4 75.0 3 1 4 0 1 0 1 2 -1
+p672
+aVDarrick Martin TOR 12/05/2007 TOR vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p673
+aVMaceo Baston TOR 12/05/2007 TOR vs. PHX L 3 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p674
+aVAnthony Parker TOR 12/05/2007 TOR vs. PHX L 37 22 8 13 61.5 3 3 100.0 3 3 100.0 0 3 3 1 3 0 1 1 -17
+p675
+aVJamario Moon TOR 12/05/2007 TOR vs. PHX L 39 8 4 7 57.1 0 1 0.0 0 0 - 2 8 10 4 0 2 0 2 -17
+p676
+aVCarlos Delfino TOR 12/05/2007 TOR vs. PHX L 36 14 6 15 40.0 2 5 40.0 0 0 - 2 3 5 3 4 0 1 2 1
+p677
+aVJason Kapono TOR 12/05/2007 TOR vs. PHX L 13 3 1 4 25.0 1 1 100.0 0 1 0.0 0 1 1 0 0 0 2 2 -3
+p678
+aVT.J. Ford TOR 12/05/2007 TOR vs. PHX L 24 27 12 19 63.2 1 1 100.0 2 2 100.0 1 1 2 4 1 0 2 3 0
+p679
+aVJoey Graham TOR 12/05/2007 TOR vs. PHX L 15 8 1 6 16.7 0 0 - 6 8 75.0 0 2 2 1 0 0 1 2 -6
+p680
+aVKris Humphries TOR 12/05/2007 TOR vs. PHX L 14 8 4 6 66.7 0 0 - 0 0 - 2 2 4 1 1 0 2 1 -10
+p681
+aVJose Calderon TOR 12/05/2007 TOR vs. PHX L 32 14 6 9 66.7 2 3 66.7 0 0 - 1 2 3 9 0 0 2 2 -18
+p682
+aVJuan Dixon TOR 12/05/2007 TOR vs. PHX L 3 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 8
+p683
+aVRasho Nesterovic TOR 12/05/2007 TOR vs. PHX L 23 12 6 9 66.7 0 0 - 0 2 0.0 4 3 7 1 0 0 1 2 -13
+p684
+aVJamario Moon TOR 12/03/2007 TOR vs. CHA W 41 6 3 10 30.0 0 1 0.0 0 0 - 3 9 12 1 0 2 1 2 20
+p685
+aVAnthony Parker TOR 12/03/2007 TOR vs. CHA W 24 11 4 10 40.0 1 3 33.3 2 2 100.0 1 5 6 2 0 0 1 2 12
+p686
+aVRasho Nesterovic TOR 12/03/2007 TOR vs. CHA W 21 8 4 8 50.0 0 0 - 0 0 - 1 3 4 2 0 0 2 2 8
+p687
+aVJose Calderon TOR 12/03/2007 TOR vs. CHA W 34 12 6 11 54.5 0 0 - 0 0 - 1 6 7 9 3 0 2 2 13
+p688
+aVJoey Graham TOR 12/03/2007 TOR vs. CHA W 27 13 5 6 83.3 0 0 - 3 4 75.0 1 3 4 1 0 0 2 4 3
+p689
+aVDarrick Martin TOR 12/03/2007 TOR vs. CHA W 14 4 1 3 33.3 1 1 100.0 1 2 50.0 0 0 0 2 1 0 0 3 6
+p690
+aVJason Kapono TOR 12/03/2007 TOR vs. CHA W 24 10 4 6 66.7 2 2 100.0 0 0 - 2 1 3 2 0 0 2 0 5
+p691
+aVCarlos Delfino TOR 12/03/2007 TOR vs. CHA W 34 17 6 14 42.9 4 6 66.7 1 2 50.0 2 2 4 2 1 1 1 1 16
+p692
+aVKris Humphries TOR 12/03/2007 TOR vs. CHA W 21 17 5 7 71.4 0 0 - 7 8 87.5 3 3 6 2 1 1 1 3 12
+p693
+aVAndrea Bargnani TOR 12/01/2007 TOR @ WAS L 25 4 2 13 15.4 0 2 0.0 0 0 - 0 2 2 3 0 0 0 3 -10
+p694
+aVT.J. Ford TOR 12/01/2007 TOR @ WAS L 14 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 4 1 0 3 2 5
+p695
+aVJose Calderon TOR 12/01/2007 TOR @ WAS L 34 11 4 8 50.0 2 2 100.0 1 1 100.0 0 2 2 11 0 0 2 1 -9
+p696
+aVJason Kapono TOR 12/01/2007 TOR @ WAS L 31 23 7 13 53.8 3 5 60.0 6 6 100.0 0 0 0 1 1 0 0 2 1
+p697
+aVMaceo Baston TOR 12/01/2007 TOR @ WAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p698
+aVJamario Moon TOR 12/01/2007 TOR @ WAS L 43 16 8 15 53.3 0 0 - 0 0 - 5 8 13 1 2 1 2 5 -8
+p699
+aVRasho Nesterovic TOR 12/01/2007 TOR @ WAS L 28 6 3 4 75.0 0 0 - 0 0 - 4 4 8 2 0 0 0 2 7
+p700
+aVAnthony Parker TOR 12/01/2007 TOR @ WAS L 32 18 7 15 46.7 3 9 33.3 1 2 50.0 1 3 4 2 1 0 2 3 -6
+p701
+aVCarlos Delfino TOR 12/01/2007 TOR @ WAS L 30 15 6 16 37.5 3 9 33.3 0 0 - 0 6 6 2 1 0 1 3 -2
+p702
+aVAndrea Bargnani TOR 11/30/2007 TOR vs. CLE W 40 26 9 19 47.4 2 4 50.0 6 8 75.0 1 5 6 3 1 1 2 3 -2
+p703
+aVAnthony Parker TOR 11/30/2007 TOR vs. CLE W 33 9 4 11 36.4 1 2 50.0 0 0 - 0 6 6 0 0 0 3 2 2
+p704
+aVJose Calderon TOR 11/30/2007 TOR vs. CLE W 31 11 5 8 62.5 0 0 - 1 1 100.0 0 4 4 10 0 1 3 3 7
+p705
+aVJason Kapono TOR 11/30/2007 TOR vs. CLE W 19 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 15
+p706
+aVJamario Moon TOR 11/30/2007 TOR vs. CLE W 32 9 3 7 42.9 1 2 50.0 2 2 100.0 0 9 9 1 1 2 2 2 22
+p707
+aVKris Humphries TOR 11/30/2007 TOR vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p708
+aVT.J. Ford TOR 11/30/2007 TOR vs. CLE W 17 2 1 5 20.0 0 0 - 0 0 - 0 0 0 6 0 0 2 0 2
+p709
+aVRasho Nesterovic TOR 11/30/2007 TOR vs. CLE W 34 4 1 5 20.0 0 0 - 2 2 100.0 5 4 9 2 3 0 0 3 -2
+p710
+aVCarlos Delfino TOR 11/30/2007 TOR vs. CLE W 34 24 9 14 64.3 4 7 57.1 2 2 100.0 1 7 8 1 0 0 0 3 5
+p711
+aVRasho Nesterovic TOR 11/28/2007 TOR vs. MEM W 19 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 1 0 1 0 2 4
+p712
+aVJoey Graham TOR 11/28/2007 TOR vs. MEM W 7 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 3 1
+p713
+aVKris Humphries TOR 11/28/2007 TOR vs. MEM W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -10
+p714
+aVCarlos Delfino TOR 11/28/2007 TOR vs. MEM W 23 14 6 8 75.0 2 4 50.0 0 0 - 0 7 7 0 0 1 2 5 5
+p715
+aVDarrick Martin TOR 11/28/2007 TOR vs. MEM W 14 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 2 0 0 1 1 1
+p716
+aVChris Bosh TOR 11/28/2007 TOR vs. MEM W 11 10 5 6 83.3 0 0 - 0 0 - 0 1 1 2 0 0 0 0 4
+p717
+aVJamario Moon TOR 11/28/2007 TOR vs. MEM W 36 6 3 9 33.3 0 1 0.0 0 0 - 3 5 8 2 1 2 0 1 10
+p718
+aVJose Calderon TOR 11/28/2007 TOR vs. MEM W 34 13 6 12 50.0 0 1 0.0 1 2 50.0 0 5 5 10 0 0 0 1 11
+p719
+aVAndrea Bargnani TOR 11/28/2007 TOR vs. MEM W 21 11 3 6 50.0 1 1 100.0 4 5 80.0 1 6 7 2 0 1 1 4 22
+p720
+aVAnthony Parker TOR 11/28/2007 TOR vs. MEM W 37 19 8 14 57.1 3 5 60.0 0 0 - 1 7 8 6 0 1 2 1 -4
+p721
+aVJason Kapono TOR 11/28/2007 TOR vs. MEM W 31 14 6 12 50.0 2 5 40.0 0 0 - 2 2 4 3 0 0 3 5 16
+p722
+aVAnthony Parker TOR 11/25/2007 TOR vs. CHI W 30 9 3 11 27.3 2 3 66.7 1 1 100.0 1 4 5 0 1 0 0 1 15
+p723
+aVChris Bosh TOR 11/25/2007 TOR vs. CHI W 43 16 6 13 46.2 0 0 - 4 4 100.0 4 9 13 4 1 1 2 2 20
+p724
+aVAndrea Bargnani TOR 11/25/2007 TOR vs. CHI W 28 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 1 0 2 2 4 0
+p725
+aVKris Humphries TOR 11/25/2007 TOR vs. CHI W 8 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 1 0 2 1 2
+p726
+aVJason Kapono TOR 11/25/2007 TOR vs. CHI W 19 8 3 6 50.0 2 3 66.7 0 0 - 1 0 1 0 0 0 2 5 0
+p727
+aVCarlos Delfino TOR 11/25/2007 TOR vs. CHI W 30 13 4 13 30.8 1 3 33.3 4 4 100.0 1 7 8 2 1 0 0 3 16
+p728
+aVJose Calderon TOR 11/25/2007 TOR vs. CHI W 40 19 8 15 53.3 1 3 33.3 2 2 100.0 1 2 3 14 2 1 1 1 10
+p729
+aVJamario Moon TOR 11/25/2007 TOR vs. CHI W 35 15 7 12 58.3 0 1 0.0 1 2 50.0 2 7 9 0 3 6 0 4 7
+p730
+aVJuan Dixon TOR 11/25/2007 TOR vs. CHI W 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 5
+p731
+aVCarlos Delfino TOR 11/24/2007 TOR @ CLE L 21 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 1 1 0 0 4 -14
+p732
+aVDarrick Martin TOR 11/24/2007 TOR @ CLE L 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 1 -4
+p733
+aVJose Calderon TOR 11/24/2007 TOR @ CLE L 41 7 3 10 30.0 0 2 0.0 1 1 100.0 0 2 2 13 1 0 0 1 1
+p734
+aVAnthony Parker TOR 11/24/2007 TOR @ CLE L 32 9 4 8 50.0 1 4 25.0 0 0 - 0 7 7 1 1 0 1 5 4
+p735
+aVChris Bosh TOR 11/24/2007 TOR @ CLE L 42 41 13 25 52.0 0 0 - 15 17 88.2 1 3 4 5 1 0 1 1 3
+p736
+aVAndrea Bargnani TOR 11/24/2007 TOR @ CLE L 33 14 6 9 66.7 0 1 0.0 2 2 100.0 0 5 5 1 0 0 2 3 0
+p737
+aVKris Humphries TOR 11/24/2007 TOR @ CLE L 6 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 0 -6
+p738
+aVJason Kapono TOR 11/24/2007 TOR @ CLE L 24 17 7 11 63.6 3 6 50.0 0 0 - 1 0 1 0 0 0 0 1 -7
+p739
+aVJamario Moon TOR 11/24/2007 TOR @ CLE L 34 5 2 6 33.3 1 4 25.0 0 0 - 2 3 5 1 1 1 1 1 8
+p740
+aVJason Kapono TOR 11/21/2007 TOR @ MEM W 33 14 6 12 50.0 2 4 50.0 0 0 - 1 2 3 2 1 0 0 2 6
+p741
+aVAnthony Parker TOR 11/21/2007 TOR @ MEM W 22 7 3 5 60.0 1 1 100.0 0 0 - 1 0 1 0 1 0 0 2 -1
+p742
+aVJamario Moon TOR 11/21/2007 TOR @ MEM W 32 12 5 11 45.5 0 2 0.0 2 2 100.0 0 5 5 1 1 1 0 2 5
+p743
+aVDarrick Martin TOR 11/21/2007 TOR @ MEM W 7 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 6
+p744
+aVJose Calderon TOR 11/21/2007 TOR @ MEM W 41 10 4 13 30.8 2 4 50.0 0 0 - 1 3 4 8 1 0 2 1 0
+p745
+aVAndrea Bargnani TOR 11/21/2007 TOR @ MEM W 31 13 5 16 31.3 3 4 75.0 0 0 - 0 11 11 4 0 0 2 5 4
+p746
+aVCarlos Delfino TOR 11/21/2007 TOR @ MEM W 25 13 4 7 57.1 3 5 60.0 2 2 100.0 1 2 3 1 0 0 2 4 10
+p747
+aVJuan Dixon TOR 11/21/2007 TOR @ MEM W 7 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p748
+aVMaceo Baston TOR 11/21/2007 TOR @ MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p749
+aVKris Humphries TOR 11/21/2007 TOR @ MEM W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p750
+aVChris Bosh TOR 11/21/2007 TOR @ MEM W 33 22 8 16 50.0 0 0 - 6 7 85.7 7 12 19 3 3 1 1 4 6
+p751
+aVT.J. Ford TOR 11/20/2007 TOR @ DAL L 22 13 4 12 33.3 0 0 - 5 5 100.0 2 0 2 5 1 0 1 3 -3
+p752
+aVJose Calderon TOR 11/20/2007 TOR @ DAL L 26 14 6 10 60.0 0 2 0.0 2 2 100.0 0 1 1 6 1 0 2 2 -3
+p753
+aVChris Bosh TOR 11/20/2007 TOR @ DAL L 45 31 12 22 54.5 0 0 - 7 10 70.0 6 6 12 1 0 1 3 4 -6
+p754
+aVJason Kapono TOR 11/20/2007 TOR @ DAL L 18 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 -12
+p755
+aVKris Humphries TOR 11/20/2007 TOR @ DAL L 14 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 1 -5
+p756
+aVAndrea Bargnani TOR 11/20/2007 TOR @ DAL L 33 20 7 14 50.0 5 9 55.6 1 2 50.0 2 3 5 1 0 0 1 1 -1
+p757
+aVAnthony Parker TOR 11/20/2007 TOR @ DAL L 33 11 3 10 30.0 1 3 33.3 4 4 100.0 0 3 3 1 0 0 0 2 -5
+p758
+aVCarlos Delfino TOR 11/20/2007 TOR @ DAL L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 4
+p759
+aVJamario Moon TOR 11/20/2007 TOR @ DAL L 35 5 2 5 40.0 1 3 33.3 0 0 - 0 12 12 1 0 1 1 1 1
+p760
+aVAnthony Parker TOR 11/18/2007 TOR vs. GSW L 31 5 2 8 25.0 1 4 25.0 0 0 - 1 2 3 0 1 0 1 1 -4
+p761
+aVJose Calderon TOR 11/18/2007 TOR vs. GSW L 15 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 5 1 0 0 2 -2
+p762
+aVJason Kapono TOR 11/18/2007 TOR vs. GSW L 17 11 5 9 55.6 1 4 25.0 0 0 - 2 1 3 0 0 0 0 1 0
+p763
+aVMaceo Baston TOR 11/18/2007 TOR vs. GSW L 14 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 1 0 3 -5
+p764
+aVT.J. Ford TOR 11/18/2007 TOR vs. GSW L 33 29 12 22 54.5 0 1 0.0 5 5 100.0 2 4 6 9 2 0 3 4 -4
+p765
+aVCarlos Delfino TOR 11/18/2007 TOR vs. GSW L 23 7 3 8 37.5 1 5 20.0 0 0 - 1 6 7 0 2 0 0 4 -8
+p766
+aVChris Bosh TOR 11/18/2007 TOR vs. GSW L 33 11 4 12 33.3 0 0 - 3 6 50.0 3 8 11 1 0 2 6 4 -8
+p767
+aVKris Humphries TOR 11/18/2007 TOR vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p768
+aVAndrea Bargnani TOR 11/18/2007 TOR vs. GSW L 19 12 5 10 50.0 1 2 50.0 1 2 50.0 2 1 3 0 0 0 2 3 4
+p769
+aVJuan Dixon TOR 11/18/2007 TOR vs. GSW L 16 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 0 0 2 0 3 3
+p770
+aVJamario Moon TOR 11/18/2007 TOR vs. GSW L 38 9 3 10 30.0 0 3 0.0 3 4 75.0 2 5 7 3 1 3 1 3 -6
+p771
+aVJamario Moon TOR 11/16/2007 TOR vs. IND W 21 4 1 4 25.0 1 1 100.0 1 2 50.0 0 7 7 0 0 2 2 2 -6
+p772
+aVMaceo Baston TOR 11/16/2007 TOR vs. IND W 18 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 2 0 3 -3
+p773
+aVJose Calderon TOR 11/16/2007 TOR vs. IND W 24 15 6 8 75.0 2 2 100.0 1 1 100.0 0 3 3 10 1 0 1 2 16
+p774
+aVAndrea Bargnani TOR 11/16/2007 TOR vs. IND W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -1
+p775
+aVChris Bosh TOR 11/16/2007 TOR vs. IND W 36 22 5 15 33.3 0 0 - 12 13 92.3 2 2 4 3 1 2 4 3 -1
+p776
+aVJason Kapono TOR 11/16/2007 TOR vs. IND W 21 12 5 9 55.6 2 4 50.0 0 0 - 2 0 2 3 1 0 2 3 9
+p777
+aVAnthony Parker TOR 11/16/2007 TOR vs. IND W 30 15 5 10 50.0 2 4 50.0 3 4 75.0 0 5 5 1 1 0 0 0 3
+p778
+aVJorge Garbajosa TOR 11/16/2007 TOR vs. IND W 24 8 3 7 42.9 2 5 40.0 0 0 - 0 6 6 2 1 0 0 0 10
+p779
+aVCarlos Delfino TOR 11/16/2007 TOR vs. IND W 24 11 3 7 42.9 3 6 50.0 2 2 100.0 0 1 1 0 1 1 0 0 12
+p780
+aVT.J. Ford TOR 11/16/2007 TOR vs. IND W 25 15 6 12 50.0 0 1 0.0 3 3 100.0 1 1 2 7 1 0 3 1 -4
+p781
+aVKris Humphries TOR 11/16/2007 TOR vs. IND W 12 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 10
+p782
+aVAndrea Bargnani TOR 11/14/2007 TOR vs. UTA L 16 2 1 11 9.1 0 5 0.0 0 0 - 1 2 3 0 0 1 1 0 -13
+p783
+aVJamario Moon TOR 11/14/2007 TOR vs. UTA L 33 15 6 11 54.5 2 2 100.0 1 2 50.0 1 2 3 3 2 0 2 3 4
+p784
+aVCarlos Delfino TOR 11/14/2007 TOR vs. UTA L 17 6 2 9 22.2 0 2 0.0 2 2 100.0 3 2 5 1 0 0 0 1 -7
+p785
+aVKris Humphries TOR 11/14/2007 TOR vs. UTA L 28 4 2 4 50.0 0 0 - 0 0 - 5 9 14 1 2 0 2 5 -6
+p786
+aVRasho Nesterovic TOR 11/14/2007 TOR vs. UTA L 20 4 2 4 50.0 0 0 - 0 0 - 3 5 8 2 0 2 1 1 0
+p787
+aVChris Bosh TOR 11/14/2007 TOR vs. UTA L 31 14 5 12 41.7 0 0 - 4 4 100.0 2 5 7 1 0 1 1 2 8
+p788
+aVJason Kapono TOR 11/14/2007 TOR vs. UTA L 17 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 3 5 -7
+p789
+aVJose Calderon TOR 11/14/2007 TOR vs. UTA L 16 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 0 0 0 3 1 -13
+p790
+aVAnthony Parker TOR 11/14/2007 TOR vs. UTA L 30 19 7 11 63.6 3 4 75.0 2 2 100.0 0 3 3 3 0 0 1 3 5
+p791
+aVT.J. Ford TOR 11/14/2007 TOR vs. UTA L 32 13 5 17 29.4 1 6 16.7 2 2 100.0 2 3 5 8 2 0 3 3 9
+p792
+aVAnthony Parker TOR 11/10/2007 TOR @ CHI W 21 12 5 8 62.5 2 2 100.0 0 1 0.0 0 3 3 1 1 0 1 2 19
+p793
+aVKris Humphries TOR 11/10/2007 TOR @ CHI W 15 4 1 5 20.0 0 0 - 2 2 100.0 0 5 5 0 0 0 3 3 -4
+p794
+aVT.J. Ford TOR 11/10/2007 TOR @ CHI W 24 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 14 1 0 1 2 26
+p795
+aVJorge Garbajosa TOR 11/10/2007 TOR @ CHI W 10 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 1 0 0 1 -3
+p796
+aVJamario Moon TOR 11/10/2007 TOR @ CHI W 24 12 6 10 60.0 0 1 0.0 0 0 - 1 5 6 0 3 1 2 5 9
+p797
+aVJose Calderon TOR 11/10/2007 TOR @ CHI W 18 0 0 0 - 0 0 - 0 0 - 0 3 3 9 0 0 2 0 13
+p798
+aVJuan Dixon TOR 11/10/2007 TOR @ CHI W 11 0 0 4 0.0 0 0 - 0 0 - 0 1 1 5 1 0 2 0 -3
+p799
+aVCarlos Delfino TOR 11/10/2007 TOR @ CHI W 20 16 5 9 55.6 4 7 57.1 2 2 100.0 1 6 7 1 1 0 3 1 15
+p800
+aVAndrea Bargnani TOR 11/10/2007 TOR @ CHI W 21 14 4 7 57.1 2 4 50.0 4 4 100.0 0 0 0 2 0 0 1 4 3
+p801
+aVJason Kapono TOR 11/10/2007 TOR @ CHI W 26 11 5 7 71.4 1 3 33.3 0 0 - 0 1 1 1 0 0 3 2 11
+p802
+aVChris Bosh TOR 11/10/2007 TOR @ CHI W 27 14 7 12 58.3 0 0 - 0 0 - 2 4 6 2 1 1 2 1 29
+p803
+aVRasho Nesterovic TOR 11/10/2007 TOR @ CHI W 22 8 4 6 66.7 0 0 - 0 0 - 2 6 8 1 1 0 3 1 35
+p804
+aVJose Calderon TOR 11/09/2007 TOR @ PHI W 15 9 4 5 80.0 0 0 - 1 2 50.0 0 0 0 7 2 0 1 2 -2
+p805
+aVCarlos Delfino TOR 11/09/2007 TOR @ PHI W 30 7 2 4 50.0 2 4 50.0 1 4 25.0 2 7 9 2 2 0 1 2 6
+p806
+aVAndrea Bargnani TOR 11/09/2007 TOR @ PHI W 23 9 3 8 37.5 2 4 50.0 1 2 50.0 1 1 2 2 0 0 3 2 -2
+p807
+aVAnthony Parker TOR 11/09/2007 TOR @ PHI W 38 22 8 16 50.0 4 7 57.1 2 2 100.0 0 6 6 2 0 0 1 4 11
+p808
+aVJason Kapono TOR 11/09/2007 TOR @ PHI W 19 7 2 5 40.0 0 1 0.0 3 3 100.0 0 2 2 1 0 0 0 1 -3
+p809
+aVT.J. Ford TOR 11/09/2007 TOR @ PHI W 33 16 6 11 54.5 1 2 50.0 3 4 75.0 0 0 0 5 1 0 3 3 1
+p810
+aVJamario Moon TOR 11/09/2007 TOR @ PHI W 22 9 4 8 50.0 0 0 - 1 2 50.0 4 4 8 1 2 1 0 1 4
+p811
+aVChris Bosh TOR 11/09/2007 TOR @ PHI W 37 24 4 11 36.4 0 0 - 16 18 88.9 3 7 10 3 0 1 2 4 0
+p812
+aVRasho Nesterovic TOR 11/09/2007 TOR @ PHI W 12 0 0 4 0.0 0 0 - 0 0 - 3 5 8 1 0 0 1 1 3
+p813
+aVJuan Dixon TOR 11/09/2007 TOR @ PHI W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 3 0 -8
+p814
+aVT.J. Ford TOR 11/07/2007 TOR vs. ORL L 28 12 5 9 55.6 0 2 0.0 2 3 66.7 0 3 3 8 3 0 1 3 -11
+p815
+aVChris Bosh TOR 11/07/2007 TOR vs. ORL L 38 26 6 15 40.0 0 0 - 14 14 100.0 4 6 10 1 1 0 1 3 1
+p816
+aVRasho Nesterovic TOR 11/07/2007 TOR vs. ORL L 5 0 0 4 0.0 0 0 - 0 0 - 4 2 6 0 0 0 0 0 -6
+p817
+aVJuan Dixon TOR 11/07/2007 TOR vs. ORL L 16 12 6 13 46.2 0 2 0.0 0 0 - 0 0 0 1 2 0 0 2 -5
+p818
+aVJorge Garbajosa TOR 11/07/2007 TOR vs. ORL L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p819
+aVAnthony Parker TOR 11/07/2007 TOR vs. ORL L 28 2 1 6 16.7 0 0 - 0 0 - 0 3 3 0 0 0 1 3 1
+p820
+aVAndrea Bargnani TOR 11/07/2007 TOR vs. ORL L 35 16 7 18 38.9 2 7 28.6 0 1 0.0 2 6 8 0 0 0 3 4 3
+p821
+aVCarlos Delfino TOR 11/07/2007 TOR vs. ORL L 23 5 2 5 40.0 0 1 0.0 1 3 33.3 0 4 4 1 1 0 0 3 -13
+p822
+aVJose Calderon TOR 11/07/2007 TOR vs. ORL L 20 10 3 6 50.0 1 2 50.0 3 3 100.0 0 3 3 6 0 0 0 1 2
+p823
+aVKris Humphries TOR 11/07/2007 TOR vs. ORL L 8 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 1 -5
+p824
+aVJason Kapono TOR 11/07/2007 TOR vs. ORL L 33 9 3 11 27.3 3 6 50.0 0 0 - 0 1 1 0 0 0 1 1 -6
+p825
+aVRasho Nesterovic TOR 11/06/2007 TOR @ MIL L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -12
+p826
+aVKris Humphries TOR 11/06/2007 TOR @ MIL L 32 16 7 9 77.8 0 0 - 2 3 66.7 5 4 9 2 1 2 1 3 -6
+p827
+aVT.J. Ford TOR 11/06/2007 TOR @ MIL L 23 8 3 10 30.0 0 2 0.0 2 2 100.0 0 1 1 6 0 0 1 2 -21
+p828
+aVCarlos Delfino TOR 11/06/2007 TOR @ MIL L 31 8 3 9 33.3 1 2 50.0 1 2 50.0 0 2 2 1 1 0 2 3 -8
+p829
+aVJamario Moon TOR 11/06/2007 TOR @ MIL L 14 1 0 3 0.0 0 1 0.0 1 2 50.0 0 4 4 0 0 0 1 1 -4
+p830
+aVJose Calderon TOR 11/06/2007 TOR @ MIL L 25 9 4 9 44.4 1 1 100.0 0 0 - 0 2 2 8 1 0 4 0 -6
+p831
+aVAnthony Parker TOR 11/06/2007 TOR @ MIL L 18 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -13
+p832
+aVJuan Dixon TOR 11/06/2007 TOR @ MIL L 32 20 6 15 40.0 2 4 50.0 6 7 85.7 0 3 3 3 2 0 0 2 -9
+p833
+aVAndrea Bargnani TOR 11/06/2007 TOR @ MIL L 13 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 0 1 0 0 4 -16
+p834
+aVJason Kapono TOR 11/06/2007 TOR @ MIL L 17 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 0 0 0 1 3 -19
+p835
+aVJorge Garbajosa TOR 11/06/2007 TOR @ MIL L 13 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 1 0 0 0 -10
+p836
+aVChris Bosh TOR 11/06/2007 TOR @ MIL L 16 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 3 3 -11
+p837
+aVJason Kapono TOR 11/04/2007 TOR vs. BOS L 36 10 4 7 57.1 1 3 33.3 1 2 50.0 1 4 5 0 1 0 0 3 -5
+p838
+aVJuan Dixon TOR 11/04/2007 TOR vs. BOS L 19 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 1 0 2 1 11
+p839
+aVAnthony Parker TOR 11/04/2007 TOR vs. BOS L 29 4 2 6 33.3 0 1 0.0 0 2 0.0 0 5 5 1 1 0 1 2 -10
+p840
+aVJose Calderon TOR 11/04/2007 TOR vs. BOS L 18 5 2 11 18.2 1 4 25.0 0 0 - 2 3 5 4 1 0 1 1 -1
+p841
+aVAndrea Bargnani TOR 11/04/2007 TOR vs. BOS L 34 9 2 13 15.4 1 4 25.0 4 5 80.0 2 6 8 2 0 1 1 3 -12
+p842
+aVChris Bosh TOR 11/04/2007 TOR vs. BOS L 44 19 5 15 33.3 0 0 - 9 9 100.0 4 6 10 2 1 5 3 5 2
+p843
+aVRasho Nesterovic TOR 11/04/2007 TOR vs. BOS L 11 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -1
+p844
+aVT.J. Ford TOR 11/04/2007 TOR vs. BOS L 35 32 12 21 57.1 3 4 75.0 5 6 83.3 0 0 0 5 1 0 5 2 -2
+p845
+aVCarlos Delfino TOR 11/04/2007 TOR vs. BOS L 30 6 2 6 33.3 2 5 40.0 0 0 - 1 3 4 2 1 0 0 5 -1
+p846
+aVJorge Garbajosa TOR 11/04/2007 TOR vs. BOS L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 4
+p847
+aVJose Calderon TOR 11/02/2007 TOR @ NJN W 20 10 4 7 57.1 0 0 - 2 2 100.0 0 4 4 8 2 0 0 0 36
+p848
+aVKris Humphries TOR 11/02/2007 TOR @ NJN W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p849
+aVJoey Graham TOR 11/02/2007 TOR @ NJN W 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 1 10
+p850
+aVCarlos Delfino TOR 11/02/2007 TOR @ NJN W 34 10 4 9 44.4 2 6 33.3 0 0 - 0 6 6 4 4 0 1 4 23
+p851
+aVJuan Dixon TOR 11/02/2007 TOR @ NJN W 24 14 5 10 50.0 2 2 100.0 2 2 100.0 2 2 4 3 2 0 2 3 36
+p852
+aVT.J. Ford TOR 11/02/2007 TOR @ NJN W 23 8 4 7 57.1 0 0 - 0 0 - 0 1 1 7 0 0 3 0 4
+p853
+aVJason Kapono TOR 11/02/2007 TOR @ NJN W 16 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 1 0 0 1 3 10
+p854
+aVChris Bosh TOR 11/02/2007 TOR @ NJN W 28 15 5 7 71.4 1 1 100.0 4 4 100.0 2 3 5 2 1 2 1 2 34
+p855
+aVJorge Garbajosa TOR 11/02/2007 TOR @ NJN W 7 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 0 0 0 0 0 -2
+p856
+aVAndrea Bargnani TOR 11/02/2007 TOR @ NJN W 30 21 7 11 63.6 4 6 66.7 3 4 75.0 0 6 6 1 1 0 1 4 21
+p857
+aVAnthony Parker TOR 11/02/2007 TOR @ NJN W 19 10 3 8 37.5 2 2 100.0 2 2 100.0 0 2 2 1 0 0 2 1 6
+p858
+aVRasho Nesterovic TOR 11/02/2007 TOR @ NJN W 21 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 3 0 1 9
+p859
+aVAnthony Parker TOR 10/31/2007 TOR vs. PHI W 35 13 5 10 50.0 3 5 60.0 0 0 - 0 6 6 3 1 0 0 2 23
+p860
+aVJoey Graham TOR 10/31/2007 TOR vs. PHI W 11 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -3
+p861
+aVCarlos Delfino TOR 10/31/2007 TOR vs. PHI W 30 7 2 5 40.0 1 2 50.0 2 2 100.0 2 4 6 2 2 0 0 1 -7
+p862
+aVJuan Dixon TOR 10/31/2007 TOR vs. PHI W 18 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 -18
+p863
+aVAndrea Bargnani TOR 10/31/2007 TOR vs. PHI W 22 20 6 11 54.5 3 4 75.0 5 5 100.0 2 3 5 0 0 2 1 3 13
+p864
+aVJose Calderon TOR 10/31/2007 TOR vs. PHI W 18 13 5 7 71.4 1 1 100.0 2 2 100.0 0 1 1 4 0 0 1 1 -13
+p865
+aVRasho Nesterovic TOR 10/31/2007 TOR vs. PHI W 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -2
+p866
+aVJason Kapono TOR 10/31/2007 TOR vs. PHI W 23 9 4 6 66.7 1 1 100.0 0 0 - 1 3 4 0 1 0 0 1 19
+p867
+aVKris Humphries TOR 10/31/2007 TOR vs. PHI W 7 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 2 3 -1
+p868
+aVT.J. Ford TOR 10/31/2007 TOR vs. PHI W 31 14 6 13 46.2 0 2 0.0 2 3 66.7 0 3 3 12 2 0 1 4 24
+p869
+aVJorge Garbajosa TOR 10/31/2007 TOR vs. PHI W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p870
+aVChris Bosh TOR 10/31/2007 TOR vs. PHI W 26 16 6 14 42.9 0 0 - 4 5 80.0 0 4 4 1 1 2 2 1 14
+p871
+a.

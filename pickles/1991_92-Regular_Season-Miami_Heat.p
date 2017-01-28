@@ -1,0 +1,1596 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKeith Askins MIA 04/19/1992 MIA @ BOS L 15 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 0 2 -
+p2
+aVBrian Shaw MIA 04/19/1992 MIA @ BOS L 26 11 5 13 38.5 1 2 50.0 0 0 - 2 3 5 6 3 0 3 1 -
+p3
+aVGlen Rice MIA 04/19/1992 MIA @ BOS L 44 34 13 19 68.4 0 1 0.0 8 10 80.0 2 2 4 2 0 0 0 2 -
+p4
+aVGrant Long MIA 04/19/1992 MIA @ BOS L 41 14 7 16 43.8 0 0 - 0 0 - 1 4 5 2 0 0 2 3 -
+p5
+aVBimbo Coles MIA 04/19/1992 MIA @ BOS L 17 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 4 0 1 0 2 -
+p6
+aVSteven Smith MIA 04/19/1992 MIA @ BOS L 31 6 3 9 33.3 0 2 0.0 0 0 - 1 3 4 6 0 0 1 1 -
+p7
+aVKevin Edwards MIA 04/19/1992 MIA @ BOS L 22 8 4 10 40.0 0 0 - 0 0 - 1 1 2 3 2 0 1 0 -
+p8
+aVAlan Ogg MIA 04/19/1992 MIA @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p9
+aVAlec Kessler MIA 04/19/1992 MIA @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p10
+aVRony Seikaly MIA 04/19/1992 MIA @ BOS L 38 12 4 8 50.0 0 0 - 4 7 57.1 1 7 8 0 0 1 3 5 -
+p11
+aVSteven Smith MIA 04/16/1992 MIA vs. MIL W 31 10 4 9 44.4 0 0 - 2 2 100.0 3 2 5 5 3 0 2 1 -
+p12
+aVWinston Bennett MIA 04/16/1992 MIA vs. MIL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p13
+aVKeith Askins MIA 04/16/1992 MIA vs. MIL W 19 7 3 5 60.0 1 2 50.0 0 0 - 3 3 6 1 1 0 1 5 -
+p14
+aVGlen Rice MIA 04/16/1992 MIA vs. MIL W 38 23 9 18 50.0 3 7 42.9 2 2 100.0 1 4 5 1 2 1 1 2 -
+p15
+aVBimbo Coles MIA 04/16/1992 MIA vs. MIL W 17 8 4 6 66.7 0 0 - 0 0 - 0 3 3 3 0 0 5 1 -
+p16
+aVAlan Ogg MIA 04/16/1992 MIA vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p17
+aVGrant Long MIA 04/16/1992 MIA vs. MIL W 42 10 5 12 41.7 0 0 - 0 0 - 3 8 11 3 1 3 2 3 -
+p18
+aVRony Seikaly MIA 04/16/1992 MIA vs. MIL W 38 13 5 19 26.3 0 0 - 3 4 75.0 6 5 11 2 0 2 3 4 -
+p19
+aVBrian Shaw MIA 04/16/1992 MIA vs. MIL W 14 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 1 1 0 4 -
+p20
+aVAlec Kessler MIA 04/16/1992 MIA vs. MIL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p21
+aVKevin Edwards MIA 04/16/1992 MIA vs. MIL W 34 20 8 13 61.5 1 1 100.0 3 3 100.0 0 6 6 5 2 0 1 2 -
+p22
+aVGlen Rice MIA 04/14/1992 MIA vs. NJN L 45 36 15 32 46.9 2 8 25.0 4 4 100.0 4 5 9 3 2 1 4 2 -
+p23
+aVGrant Long MIA 04/14/1992 MIA vs. NJN L 45 19 8 20 40.0 0 1 0.0 3 3 100.0 6 7 13 3 2 1 3 2 -
+p24
+aVBimbo Coles MIA 04/14/1992 MIA vs. NJN L 21 7 2 7 28.6 0 2 0.0 3 4 75.0 1 0 1 5 0 0 0 0 -
+p25
+aVKeith Askins MIA 04/14/1992 MIA vs. NJN L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 -
+p26
+aVSteven Smith MIA 04/14/1992 MIA vs. NJN L 28 8 3 13 23.1 0 1 0.0 2 3 66.7 4 3 7 8 0 0 1 2 -
+p27
+aVAlec Kessler MIA 04/14/1992 MIA vs. NJN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p28
+aVKevin Edwards MIA 04/14/1992 MIA vs. NJN L 23 6 3 7 42.9 0 1 0.0 0 0 - 2 0 2 1 2 0 0 3 -
+p29
+aVBrian Shaw MIA 04/14/1992 MIA vs. NJN L 26 5 2 10 20.0 1 1 100.0 0 0 - 2 3 5 2 1 0 0 4 -
+p30
+aVRony Seikaly MIA 04/14/1992 MIA vs. NJN L 40 17 4 10 40.0 0 1 0.0 9 12 75.0 4 5 9 1 0 1 2 2 -
+p31
+aVGlen Rice MIA 04/11/1992 MIA vs. ORL W 42 46 19 32 59.4 4 8 50.0 4 5 80.0 3 6 9 0 3 1 2 2 -
+p32
+aVBrian Shaw MIA 04/11/1992 MIA vs. ORL W 21 6 3 7 42.9 0 1 0.0 0 0 - 1 0 1 1 1 0 1 2 -
+p33
+aVRony Seikaly MIA 04/11/1992 MIA vs. ORL W 32 8 3 8 37.5 0 0 - 2 4 50.0 6 6 12 1 0 1 3 5 -
+p34
+aVGrant Long MIA 04/11/1992 MIA vs. ORL W 38 9 3 9 33.3 0 0 - 3 4 75.0 4 6 10 5 2 1 1 2 -
+p35
+aVAlec Kessler MIA 04/11/1992 MIA vs. ORL W 11 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 0 -
+p36
+aVBimbo Coles MIA 04/11/1992 MIA vs. ORL W 28 8 3 8 37.5 0 0 - 2 4 50.0 1 1 2 11 2 0 0 1 -
+p37
+aVKevin Edwards MIA 04/11/1992 MIA vs. ORL W 28 16 7 13 53.8 0 0 - 2 3 66.7 1 4 5 4 1 0 2 2 -
+p38
+aVKeith Askins MIA 04/11/1992 MIA vs. ORL W 20 5 2 3 66.7 0 1 0.0 1 1 100.0 1 2 3 0 1 1 1 3 -
+p39
+aVSteven Smith MIA 04/11/1992 MIA vs. ORL W 20 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 3 0 1 2 3 -
+p40
+aVRony Seikaly MIA 04/10/1992 MIA @ WAS W 36 24 5 10 50.0 0 0 - 14 15 93.3 0 6 6 3 1 1 5 2 -
+p41
+aVWinston Bennett MIA 04/10/1992 MIA @ WAS W 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p42
+aVGrant Long MIA 04/10/1992 MIA @ WAS W 37 15 5 8 62.5 0 1 0.0 5 5 100.0 0 6 6 0 2 0 2 5 -
+p43
+aVGlen Rice MIA 04/10/1992 MIA @ WAS W 40 22 8 13 61.5 3 6 50.0 3 5 60.0 1 7 8 3 2 2 3 0 -
+p44
+aVKeith Askins MIA 04/10/1992 MIA @ WAS W 19 0 0 3 0.0 0 1 0.0 0 0 - 2 2 4 0 2 0 2 2 -
+p45
+aVSteven Smith MIA 04/10/1992 MIA @ WAS W 23 8 2 7 28.6 1 2 50.0 3 4 75.0 0 2 2 2 1 0 1 2 -
+p46
+aVBimbo Coles MIA 04/10/1992 MIA @ WAS W 25 13 6 12 50.0 1 1 100.0 0 0 - 0 1 1 2 1 0 0 1 -
+p47
+aVKevin Edwards MIA 04/10/1992 MIA @ WAS W 24 14 6 10 60.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 1 2 -
+p48
+aVAlec Kessler MIA 04/10/1992 MIA @ WAS W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 1 0 1 -
+p49
+aVBrian Shaw MIA 04/10/1992 MIA @ WAS W 24 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 6 2 1 1 2 -
+p50
+aVRony Seikaly MIA 04/07/1992 MIA vs. WAS W 30 11 4 9 44.4 0 0 - 3 5 60.0 6 11 17 0 0 3 4 2 -
+p51
+aVGlen Rice MIA 04/07/1992 MIA vs. WAS W 37 21 6 15 40.0 5 8 62.5 4 6 66.7 1 3 4 3 0 0 1 2 -
+p52
+aVAlec Kessler MIA 04/07/1992 MIA vs. WAS W 18 6 1 7 14.3 0 0 - 4 4 100.0 3 9 12 1 0 0 1 2 -
+p53
+aVKeith Askins MIA 04/07/1992 MIA vs. WAS W 19 2 0 3 0.0 0 2 0.0 2 2 100.0 3 0 3 2 2 0 0 3 -
+p54
+aVSteven Smith MIA 04/07/1992 MIA vs. WAS W 28 15 7 11 63.6 1 3 33.3 0 0 - 0 1 1 5 1 0 5 3 -
+p55
+aVAlan Ogg MIA 04/07/1992 MIA vs. WAS W 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 1 2 0 -
+p56
+aVBimbo Coles MIA 04/07/1992 MIA vs. WAS W 18 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 1 0 5 2 -
+p57
+aVKevin Edwards MIA 04/07/1992 MIA vs. WAS W 21 13 4 9 44.4 1 2 50.0 4 4 100.0 1 1 2 0 0 0 3 0 -
+p58
+aVGrant Long MIA 04/07/1992 MIA vs. WAS W 36 12 3 7 42.9 0 0 - 6 8 75.0 0 6 6 1 3 2 4 3 -
+p59
+aVBrian Shaw MIA 04/07/1992 MIA vs. WAS W 29 10 3 4 75.0 0 0 - 4 6 66.7 0 5 5 3 2 0 4 1 -
+p60
+aVAlec Kessler MIA 04/05/1992 MIA @ DET L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p61
+aVBrian Shaw MIA 04/05/1992 MIA @ DET L 19 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 0 -
+p62
+aVKevin Edwards MIA 04/05/1992 MIA @ DET L 29 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 3 0 0 2 1 -
+p63
+aVRony Seikaly MIA 04/05/1992 MIA @ DET L 29 14 4 8 50.0 0 0 - 6 6 100.0 3 0 3 0 0 0 4 3 -
+p64
+aVGlen Rice MIA 04/05/1992 MIA @ DET L 28 13 4 11 36.4 2 4 50.0 3 5 60.0 0 6 6 1 0 0 2 2 -
+p65
+aVSteven Smith MIA 04/05/1992 MIA @ DET L 31 12 6 15 40.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 2 -
+p66
+aVAlan Ogg MIA 04/05/1992 MIA @ DET L 19 6 2 7 28.6 0 0 - 2 5 40.0 3 2 5 0 0 0 0 3 -
+p67
+aVBimbo Coles MIA 04/05/1992 MIA @ DET L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 1 0 0 1 -
+p68
+aVGrant Long MIA 04/05/1992 MIA @ DET L 31 17 5 8 62.5 0 0 - 7 8 87.5 3 6 9 1 1 0 4 3 -
+p69
+aVJohn Morton MIA 04/05/1992 MIA @ DET L 9 6 3 3 100.0 0 0 - 0 0 - 1 3 4 1 1 0 2 1 -
+p70
+aVKeith Askins MIA 04/05/1992 MIA @ DET L 21 0 0 5 0.0 0 3 0.0 0 0 - 0 4 4 0 0 0 0 2 -
+p71
+aVKeith Askins MIA 04/03/1992 MIA vs. CLE L 7 3 0 1 0.0 0 1 0.0 3 4 75.0 2 0 2 1 0 0 0 0 -
+p72
+aVGrant Long MIA 04/03/1992 MIA vs. CLE L 44 9 3 11 27.3 0 1 0.0 3 4 75.0 6 8 14 5 0 0 2 4 -
+p73
+aVAlec Kessler MIA 04/03/1992 MIA vs. CLE L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -
+p74
+aVGlen Rice MIA 04/03/1992 MIA vs. CLE L 41 25 8 20 40.0 2 8 25.0 7 8 87.5 1 3 4 2 0 2 1 3 -
+p75
+aVBrian Shaw MIA 04/03/1992 MIA vs. CLE L 27 8 4 9 44.4 0 0 - 0 0 - 1 1 2 5 0 0 1 1 -
+p76
+aVRony Seikaly MIA 04/03/1992 MIA vs. CLE L 43 23 8 19 42.1 0 0 - 7 8 87.5 5 12 17 1 0 1 5 1 -
+p77
+aVKevin Edwards MIA 04/03/1992 MIA vs. CLE L 17 11 4 8 50.0 0 0 - 3 3 100.0 1 3 4 2 0 1 0 1 -
+p78
+aVBimbo Coles MIA 04/03/1992 MIA vs. CLE L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 0 -
+p79
+aVSteven Smith MIA 04/03/1992 MIA vs. CLE L 32 21 9 15 60.0 3 6 50.0 0 0 - 0 2 2 7 2 2 3 3 -
+p80
+aVWillie Burton MIA 04/03/1992 MIA vs. CLE L 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -
+p81
+aVJohn Morton MIA 04/01/1992 MIA @ PHL L 16 2 1 6 16.7 0 0 - 0 0 - 0 0 0 5 0 0 3 2 -
+p82
+aVBimbo Coles MIA 04/01/1992 MIA @ PHL L 27 8 4 7 57.1 0 0 - 0 0 - 0 1 1 5 2 0 4 2 -
+p83
+aVKevin Edwards MIA 04/01/1992 MIA @ PHL L 20 4 2 6 33.3 0 0 - 0 0 - 0 1 1 3 0 0 2 2 -
+p84
+aVBrian Shaw MIA 04/01/1992 MIA @ PHL L 28 10 4 10 40.0 0 1 0.0 2 2 100.0 1 2 3 4 2 1 1 1 -
+p85
+aVAlec Kessler MIA 04/01/1992 MIA @ PHL L 15 7 3 8 37.5 0 0 - 1 2 50.0 2 5 7 0 0 1 0 1 -
+p86
+aVKeith Askins MIA 04/01/1992 MIA @ PHL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -
+p87
+aVAlan Ogg MIA 04/01/1992 MIA @ PHL L 12 10 5 7 71.4 0 0 - 0 0 - 2 2 4 0 0 1 1 2 -
+p88
+aVGlen Rice MIA 04/01/1992 MIA @ PHL L 34 10 4 14 28.6 0 5 0.0 2 2 100.0 0 3 3 2 0 0 2 2 -
+p89
+aVWillie Burton MIA 04/01/1992 MIA @ PHL L 20 13 6 8 75.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 1 -
+p90
+aVRony Seikaly MIA 04/01/1992 MIA @ PHL L 34 19 9 20 45.0 0 0 - 1 1 100.0 6 8 14 2 0 1 0 2 -
+p91
+aVGrant Long MIA 04/01/1992 MIA @ PHL L 29 8 2 5 40.0 0 0 - 4 4 100.0 2 3 5 3 5 0 1 1 -
+p92
+aVGrant Long MIA 03/31/1992 MIA @ CLE L 37 16 5 10 50.0 2 2 100.0 4 4 100.0 1 7 8 4 3 0 4 2 -
+p93
+aVAlec Kessler MIA 03/31/1992 MIA @ CLE L 26 8 4 9 44.4 0 0 - 0 0 - 1 6 7 0 0 0 1 5 -
+p94
+aVWillie Burton MIA 03/31/1992 MIA @ CLE L 16 10 4 9 44.4 0 1 0.0 2 2 100.0 1 3 4 1 0 0 1 2 -
+p95
+aVKeith Askins MIA 03/31/1992 MIA @ CLE L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 3 0 0 2 -
+p96
+aVBrian Shaw MIA 03/31/1992 MIA @ CLE L 19 8 4 7 57.1 0 0 - 0 0 - 3 1 4 5 0 0 1 4 -
+p97
+aVGlen Rice MIA 03/31/1992 MIA @ CLE L 35 30 10 21 47.6 6 8 75.0 4 5 80.0 1 5 6 1 3 0 2 2 -
+p98
+aVBimbo Coles MIA 03/31/1992 MIA @ CLE L 19 8 2 10 20.0 0 1 0.0 4 4 100.0 1 0 1 8 1 0 1 1 -
+p99
+aVKevin Edwards MIA 03/31/1992 MIA @ CLE L 30 17 8 13 61.5 1 1 100.0 0 0 - 1 0 1 2 2 0 0 2 -
+p100
+aVAlan Ogg MIA 03/31/1992 MIA @ CLE L 21 6 3 3 100.0 0 0 - 0 0 - 4 2 6 0 1 2 0 2 -
+p101
+aVSteven Smith MIA 03/31/1992 MIA @ CLE L 29 9 4 10 40.0 1 5 20.0 0 0 - 0 0 0 7 1 0 0 4 -
+p102
+aVAlec Kessler MIA 03/28/1992 MIA @ ORL W 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -
+p103
+aVKevin Edwards MIA 03/28/1992 MIA @ ORL W 28 12 5 10 50.0 0 0 - 2 2 100.0 3 4 7 6 1 0 0 0 -
+p104
+aVGlen Rice MIA 03/28/1992 MIA @ ORL W 41 29 12 24 50.0 1 4 25.0 4 7 57.1 1 0 1 4 1 0 0 3 -
+p105
+aVGrant Long MIA 03/28/1992 MIA @ ORL W 32 12 5 9 55.6 0 0 - 2 4 50.0 0 7 7 0 1 1 3 5 -
+p106
+aVSteven Smith MIA 03/28/1992 MIA @ ORL W 38 13 5 9 55.6 1 2 50.0 2 2 100.0 0 2 2 5 2 1 2 4 -
+p107
+aVRony Seikaly MIA 03/28/1992 MIA @ ORL W 40 22 8 16 50.0 0 0 - 6 10 60.0 4 9 13 0 1 2 5 5 -
+p108
+aVBrian Shaw MIA 03/28/1992 MIA @ ORL W 20 8 4 7 57.1 0 0 - 0 1 0.0 1 3 4 4 1 0 2 3 -
+p109
+aVBimbo Coles MIA 03/28/1992 MIA @ ORL W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 2 1 0 1 0 -
+p110
+aVKeith Askins MIA 03/28/1992 MIA @ ORL W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -
+p111
+aVWillie Burton MIA 03/28/1992 MIA @ ORL W 15 7 2 5 40.0 1 1 100.0 2 2 100.0 1 4 5 0 0 1 0 4 -
+p112
+aVWillie Burton MIA 03/27/1992 MIA vs. SAN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -
+p113
+aVKevin Edwards MIA 03/27/1992 MIA vs. SAN W 19 12 4 6 66.7 0 0 - 4 4 100.0 0 1 1 1 1 0 0 1 -
+p114
+aVBimbo Coles MIA 03/27/1992 MIA vs. SAN W 20 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 4 0 0 2 2 -
+p115
+aVAlec Kessler MIA 03/27/1992 MIA vs. SAN W 7 3 1 5 20.0 0 0 - 1 1 100.0 1 2 3 0 0 2 0 3 -
+p116
+aVGlen Rice MIA 03/27/1992 MIA vs. SAN W 41 35 12 18 66.7 7 9 77.8 4 4 100.0 1 6 7 3 2 0 0 2 -
+p117
+aVAlan Ogg MIA 03/27/1992 MIA vs. SAN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -
+p118
+aVGrant Long MIA 03/27/1992 MIA vs. SAN W 44 27 9 15 60.0 1 1 100.0 8 9 88.9 3 9 12 2 0 1 4 5 -
+p119
+aVRony Seikaly MIA 03/27/1992 MIA vs. SAN W 36 16 6 12 50.0 0 0 - 4 5 80.0 2 13 15 1 0 2 3 2 -
+p120
+aVBrian Shaw MIA 03/27/1992 MIA vs. SAN W 29 8 4 9 44.4 0 0 - 0 0 - 2 2 4 7 2 1 2 1 -
+p121
+aVKeith Askins MIA 03/27/1992 MIA vs. SAN W 7 3 1 2 50.0 1 1 100.0 0 2 0.0 1 0 1 1 0 0 0 1 -
+p122
+aVSteven Smith MIA 03/27/1992 MIA vs. SAN W 28 6 3 9 33.3 0 1 0.0 0 0 - 2 0 2 9 0 1 3 4 -
+p123
+aVRony Seikaly MIA 03/25/1992 MIA @ MIN W 48 19 6 17 35.3 0 0 - 7 9 77.8 9 10 19 2 2 2 4 1 -
+p124
+aVKeith Askins MIA 03/25/1992 MIA @ MIN W 8 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 1 0 0 0 1 -
+p125
+aVSteven Smith MIA 03/25/1992 MIA @ MIN W 27 11 4 9 44.4 1 2 50.0 2 4 50.0 1 1 2 7 1 0 2 3 -
+p126
+aVWillie Burton MIA 03/25/1992 MIA @ MIN W 8 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 2 -
+p127
+aVBimbo Coles MIA 03/25/1992 MIA @ MIN W 21 6 2 4 50.0 0 0 - 2 4 50.0 0 0 0 1 0 0 3 2 -
+p128
+aVGlen Rice MIA 03/25/1992 MIA @ MIN W 38 22 9 17 52.9 2 7 28.6 2 2 100.0 1 9 10 1 0 1 2 3 -
+p129
+aVGrant Long MIA 03/25/1992 MIA @ MIN W 42 27 8 11 72.7 1 1 100.0 10 15 66.7 6 9 15 0 2 0 3 3 -
+p130
+aVKevin Edwards MIA 03/25/1992 MIA @ MIN W 24 12 4 9 44.4 0 1 0.0 4 6 66.7 0 2 2 1 3 0 1 3 -
+p131
+aVBrian Shaw MIA 03/25/1992 MIA @ MIN W 24 5 2 10 20.0 0 0 - 1 2 50.0 0 4 4 6 0 1 1 1 -
+p132
+aVKevin Edwards MIA 03/22/1992 MIA vs. NJN W 7 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 1 -
+p133
+aVGlen Rice MIA 03/22/1992 MIA vs. NJN W 39 12 6 14 42.9 0 1 0.0 0 2 0.0 2 7 9 5 1 1 3 2 -
+p134
+aVKeith Askins MIA 03/22/1992 MIA vs. NJN W 13 11 5 6 83.3 1 2 50.0 0 0 - 0 0 0 1 2 1 1 1 -
+p135
+aVAlec Kessler MIA 03/22/1992 MIA vs. NJN W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -
+p136
+aVBrian Shaw MIA 03/22/1992 MIA vs. NJN W 35 10 5 11 45.5 0 0 - 0 0 - 1 2 3 6 3 1 1 2 -
+p137
+aVRony Seikaly MIA 03/22/1992 MIA vs. NJN W 47 21 9 15 60.0 0 0 - 3 3 100.0 3 11 14 3 0 3 4 3 -
+p138
+aVBimbo Coles MIA 03/22/1992 MIA vs. NJN W 22 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 5 2 0 2 2 -
+p139
+aVSteven Smith MIA 03/22/1992 MIA vs. NJN W 28 16 7 13 53.8 1 2 50.0 1 2 50.0 0 3 3 2 2 0 2 4 -
+p140
+aVGrant Long MIA 03/22/1992 MIA vs. NJN W 42 29 12 18 66.7 0 0 - 5 8 62.5 0 8 8 4 4 1 2 3 -
+p141
+aVRony Seikaly MIA 03/21/1992 MIA @ NYK L 27 12 5 8 62.5 0 0 - 2 2 100.0 0 9 9 2 0 0 3 2 -
+p142
+aVJohn Morton MIA 03/21/1992 MIA @ NYK L 11 8 2 5 40.0 0 1 0.0 4 4 100.0 0 1 1 1 2 0 2 1 -
+p143
+aVKevin Edwards MIA 03/21/1992 MIA @ NYK L 20 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -
+p144
+aVAlan Ogg MIA 03/21/1992 MIA @ NYK L 13 10 5 6 83.3 0 0 - 0 0 - 3 1 4 1 0 1 2 5 -
+p145
+aVAlec Kessler MIA 03/21/1992 MIA @ NYK L 27 9 4 8 50.0 0 0 - 1 1 100.0 1 4 5 1 0 1 0 2 -
+p146
+aVWillie Burton MIA 03/21/1992 MIA @ NYK L 24 7 2 6 33.3 0 0 - 3 5 60.0 0 1 1 1 0 1 1 4 -
+p147
+aVBimbo Coles MIA 03/21/1992 MIA @ NYK L 32 11 3 10 30.0 0 0 - 5 6 83.3 3 4 7 5 1 0 1 1 -
+p148
+aVGlen Rice MIA 03/21/1992 MIA @ NYK L 13 8 3 9 33.3 1 2 50.0 1 1 100.0 0 0 0 0 0 0 0 0 -
+p149
+aVBrian Shaw MIA 03/21/1992 MIA @ NYK L 13 4 1 6 16.7 0 0 - 2 2 100.0 1 1 2 2 1 0 1 1 -
+p150
+aVSteven Smith MIA 03/21/1992 MIA @ NYK L 20 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 1 2 0 5 3 -
+p151
+aVGrant Long MIA 03/21/1992 MIA @ NYK L 21 8 3 5 60.0 0 0 - 2 2 100.0 2 2 4 4 0 0 3 4 -
+p152
+aVKeith Askins MIA 03/21/1992 MIA @ NYK L 19 3 1 6 16.7 1 2 50.0 0 2 0.0 0 1 1 0 0 0 0 2 -
+p153
+aVAlec Kessler MIA 03/18/1992 MIA vs. IND L 8 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -
+p154
+aVGlen Rice MIA 03/18/1992 MIA vs. IND L 48 26 9 20 45.0 2 4 50.0 6 7 85.7 1 2 3 3 2 1 2 2 -
+p155
+aVRony Seikaly MIA 03/18/1992 MIA vs. IND L 44 24 7 12 58.3 0 0 - 10 12 83.3 6 8 14 3 0 1 4 4 -
+p156
+aVBrian Shaw MIA 03/18/1992 MIA vs. IND L 32 15 6 12 50.0 2 3 66.7 1 2 50.0 0 2 2 6 2 0 1 5 -
+p157
+aVKeith Askins MIA 03/18/1992 MIA vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p158
+aVKevin Edwards MIA 03/18/1992 MIA vs. IND L 23 8 4 8 50.0 0 0 - 0 0 - 0 1 1 2 0 1 1 6 -
+p159
+aVWillie Burton MIA 03/18/1992 MIA vs. IND L 11 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 0 0 1 0 -
+p160
+aVSteven Smith MIA 03/18/1992 MIA vs. IND L 29 11 5 11 45.5 1 2 50.0 0 0 - 2 0 2 8 4 0 4 4 -
+p161
+aVBimbo Coles MIA 03/18/1992 MIA vs. IND L 23 4 1 7 14.3 0 1 0.0 2 2 100.0 0 1 1 2 1 0 3 6 -
+p162
+aVGrant Long MIA 03/18/1992 MIA vs. IND L 46 14 6 14 42.9 0 0 - 2 2 100.0 5 10 15 2 4 1 6 4 -
+p163
+aVBrian Shaw MIA 03/16/1992 MIA vs. CHI L 27 12 6 12 50.0 0 2 0.0 0 0 - 1 0 1 3 0 1 1 2 -
+p164
+aVGrant Long MIA 03/16/1992 MIA vs. CHI L 37 15 6 12 50.0 1 2 50.0 2 2 100.0 2 3 5 5 0 1 1 3 -
+p165
+aVSteven Smith MIA 03/16/1992 MIA vs. CHI L 33 7 3 9 33.3 1 3 33.3 0 0 - 3 2 5 1 0 0 5 4 -
+p166
+aVBimbo Coles MIA 03/16/1992 MIA vs. CHI L 25 10 3 6 50.0 0 0 - 4 6 66.7 2 1 3 8 0 1 2 0 -
+p167
+aVGlen Rice MIA 03/16/1992 MIA vs. CHI L 42 15 6 16 37.5 2 8 25.0 1 1 100.0 0 4 4 1 2 0 6 5 -
+p168
+aVAlec Kessler MIA 03/16/1992 MIA vs. CHI L 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p169
+aVRony Seikaly MIA 03/16/1992 MIA vs. CHI L 37 21 9 14 64.3 0 0 - 3 6 50.0 4 14 18 0 0 2 0 4 -
+p170
+aVKevin Edwards MIA 03/16/1992 MIA vs. CHI L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -
+p171
+aVWillie Burton MIA 03/16/1992 MIA vs. CHI L 22 16 8 14 57.1 0 0 - 0 0 - 0 1 1 0 2 0 1 2 -
+p172
+aVRony Seikaly MIA 03/14/1992 MIA @ ATL L 33 20 8 13 61.5 0 0 - 4 4 100.0 3 8 11 1 0 0 1 5 -
+p173
+aVBrian Shaw MIA 03/14/1992 MIA @ ATL L 19 2 1 6 16.7 0 0 - 0 0 - 0 4 4 1 0 0 1 1 -
+p174
+aVAlec Kessler MIA 03/14/1992 MIA @ ATL L 8 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -
+p175
+aVKevin Edwards MIA 03/14/1992 MIA @ ATL L 23 12 3 9 33.3 0 0 - 6 7 85.7 4 2 6 1 2 0 2 2 -
+p176
+aVGrant Long MIA 03/14/1992 MIA @ ATL L 42 7 2 10 20.0 0 1 0.0 3 4 75.0 3 4 7 4 2 0 2 5 -
+p177
+aVBimbo Coles MIA 03/14/1992 MIA @ ATL L 21 14 5 11 45.5 0 1 0.0 4 4 100.0 2 1 3 3 1 0 2 1 -
+p178
+aVSteven Smith MIA 03/14/1992 MIA @ ATL L 37 17 8 17 47.1 0 4 0.0 1 1 100.0 1 2 3 3 1 0 1 4 -
+p179
+aVGlen Rice MIA 03/14/1992 MIA @ ATL L 39 22 7 15 46.7 4 9 44.4 4 5 80.0 1 2 3 2 0 0 3 4 -
+p180
+aVWillie Burton MIA 03/14/1992 MIA @ ATL L 18 8 3 5 60.0 0 0 - 2 3 66.7 0 3 3 1 0 0 2 6 -
+p181
+aVGrant Long MIA 03/13/1992 MIA vs. DEN W 39 17 5 11 45.5 0 0 - 7 8 87.5 5 7 12 3 3 0 5 3 -
+p182
+aVKevin Edwards MIA 03/13/1992 MIA vs. DEN W 25 13 4 8 50.0 0 0 - 5 6 83.3 0 0 0 2 0 0 0 2 -
+p183
+aVSteven Smith MIA 03/13/1992 MIA vs. DEN W 24 10 4 9 44.4 0 1 0.0 2 4 50.0 0 2 2 4 0 1 2 0 -
+p184
+aVBimbo Coles MIA 03/13/1992 MIA vs. DEN W 25 16 6 10 60.0 1 1 100.0 3 4 75.0 3 0 3 6 1 1 3 0 -
+p185
+aVGlen Rice MIA 03/13/1992 MIA vs. DEN W 35 29 10 18 55.6 3 8 37.5 6 6 100.0 1 6 7 3 0 0 3 2 -
+p186
+aVWillie Burton MIA 03/13/1992 MIA vs. DEN W 22 13 5 6 83.3 0 0 - 3 3 100.0 1 5 6 1 2 1 2 3 -
+p187
+aVAlec Kessler MIA 03/13/1992 MIA vs. DEN W 19 3 1 9 11.1 0 0 - 1 1 100.0 2 4 6 0 1 1 0 4 -
+p188
+aVRony Seikaly MIA 03/13/1992 MIA vs. DEN W 20 8 4 10 40.0 0 0 - 0 0 - 1 4 5 1 0 3 4 5 -
+p189
+aVBrian Shaw MIA 03/13/1992 MIA vs. DEN W 22 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 3 2 1 1 1 -
+p190
+aVAlan Ogg MIA 03/13/1992 MIA vs. DEN W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -
+p191
+aVRony Seikaly MIA 03/10/1992 MIA vs. BOS W 31 15 5 11 45.5 0 0 - 5 8 62.5 3 8 11 0 1 0 1 5 -
+p192
+aVAlec Kessler MIA 03/10/1992 MIA vs. BOS W 20 4 2 4 50.0 0 0 - 0 0 - 0 5 5 0 0 0 0 6 -
+p193
+aVSteven Smith MIA 03/10/1992 MIA vs. BOS W 25 12 6 9 66.7 0 0 - 0 0 - 0 3 3 2 0 1 1 3 -
+p194
+aVBrian Shaw MIA 03/10/1992 MIA vs. BOS W 21 0 0 5 0.0 0 0 - 0 0 - 0 2 2 1 1 2 0 2 -
+p195
+aVGrant Long MIA 03/10/1992 MIA vs. BOS W 45 18 7 14 50.0 0 2 0.0 4 5 80.0 5 6 11 3 2 0 0 1 -
+p196
+aVGlen Rice MIA 03/10/1992 MIA vs. BOS W 42 31 9 21 42.9 1 7 14.3 12 13 92.3 3 4 7 4 0 0 2 3 -
+p197
+aVKevin Edwards MIA 03/10/1992 MIA vs. BOS W 23 16 6 8 75.0 0 0 - 4 4 100.0 1 3 4 1 2 1 1 1 -
+p198
+aVKeith Askins MIA 03/10/1992 MIA vs. BOS W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p199
+aVBimbo Coles MIA 03/10/1992 MIA vs. BOS W 27 12 3 10 30.0 0 0 - 6 6 100.0 0 0 0 3 1 1 0 2 -
+p200
+aVGlen Rice MIA 03/08/1992 MIA vs. WAS W 42 30 11 17 64.7 3 7 42.9 5 7 71.4 2 9 11 0 0 0 1 1 -
+p201
+aVBrian Shaw MIA 03/08/1992 MIA vs. WAS W 29 10 5 9 55.6 0 0 - 0 0 - 1 7 8 6 1 0 3 0 -
+p202
+aVSteven Smith MIA 03/08/1992 MIA vs. WAS W 35 10 5 11 45.5 0 0 - 0 0 - 3 0 3 8 0 2 7 1 -
+p203
+aVWillie Burton MIA 03/08/1992 MIA vs. WAS W 22 13 5 10 50.0 0 1 0.0 3 4 75.0 0 3 3 1 0 0 4 3 -
+p204
+aVBimbo Coles MIA 03/08/1992 MIA vs. WAS W 21 14 6 8 75.0 0 0 - 2 3 66.7 0 3 3 5 4 0 2 3 -
+p205
+aVGrant Long MIA 03/08/1992 MIA vs. WAS W 41 21 9 12 75.0 0 0 - 3 4 75.0 3 4 7 1 3 0 2 3 -
+p206
+aVKevin Edwards MIA 03/08/1992 MIA vs. WAS W 9 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p207
+aVRony Seikaly MIA 03/08/1992 MIA vs. WAS W 38 11 2 8 25.0 0 0 - 7 9 77.8 1 13 14 3 0 2 3 5 -
+p208
+aVAlan Ogg MIA 03/08/1992 MIA vs. WAS W 3 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 0 -
+p209
+aVAlec Kessler MIA 03/06/1992 MIA @ CHI L 26 14 5 13 38.5 0 0 - 4 4 100.0 2 4 6 1 0 3 3 2 -
+p210
+aVWillie Burton MIA 03/06/1992 MIA @ CHI L 21 6 2 10 20.0 0 0 - 2 2 100.0 0 0 0 2 0 0 2 3 -
+p211
+aVKeith Askins MIA 03/06/1992 MIA @ CHI L 19 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 1 1 0 1 5 -
+p212
+aVKevin Edwards MIA 03/06/1992 MIA @ CHI L 31 21 8 16 50.0 0 0 - 5 6 83.3 1 8 9 4 2 0 6 1 -
+p213
+aVBimbo Coles MIA 03/06/1992 MIA @ CHI L 17 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 3 0 0 1 1 -
+p214
+aVRony Seikaly MIA 03/06/1992 MIA @ CHI L 22 10 4 9 44.4 0 0 - 2 6 33.3 2 4 6 0 0 1 1 1 -
+p215
+aVBrian Shaw MIA 03/06/1992 MIA @ CHI L 17 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p216
+aVGrant Long MIA 03/06/1992 MIA @ CHI L 29 6 2 8 25.0 0 0 - 2 2 100.0 2 3 5 5 2 0 2 1 -
+p217
+aVJohn Morton MIA 03/06/1992 MIA @ CHI L 31 16 8 12 66.7 0 1 0.0 0 0 - 0 2 2 3 2 0 3 2 -
+p218
+aVAlan Ogg MIA 03/06/1992 MIA @ CHI L 27 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 2 4 0 4 -
+p219
+aVAlan Ogg MIA 03/05/1992 MIA @ HOU L 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -
+p220
+aVKeith Askins MIA 03/05/1992 MIA @ HOU L 17 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 1 0 0 0 1 -
+p221
+aVRony Seikaly MIA 03/05/1992 MIA @ HOU L 36 12 5 10 50.0 0 0 - 2 2 100.0 1 1 2 1 0 1 3 5 -
+p222
+aVKevin Edwards MIA 03/05/1992 MIA @ HOU L 30 17 6 12 50.0 1 2 50.0 4 6 66.7 0 3 3 5 2 0 3 1 -
+p223
+aVAlec Kessler MIA 03/05/1992 MIA @ HOU L 17 15 5 9 55.6 0 0 - 5 5 100.0 1 4 5 0 0 1 1 1 -
+p224
+aVBimbo Coles MIA 03/05/1992 MIA @ HOU L 25 6 3 5 60.0 0 0 - 0 0 - 0 1 1 6 0 0 2 0 -
+p225
+aVBrian Shaw MIA 03/05/1992 MIA @ HOU L 32 20 8 14 57.1 0 0 - 4 4 100.0 1 3 4 3 6 0 3 4 -
+p226
+aVWillie Burton MIA 03/05/1992 MIA @ HOU L 27 7 3 7 42.9 0 0 - 1 2 50.0 0 3 3 2 0 0 5 2 -
+p227
+aVGrant Long MIA 03/05/1992 MIA @ HOU L 32 8 2 8 25.0 0 0 - 4 4 100.0 3 5 8 3 2 1 3 1 -
+p228
+aVJohn Morton MIA 03/05/1992 MIA @ HOU L 13 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 2 1 0 2 1 -
+p229
+aVAlec Kessler MIA 03/03/1992 MIA vs. LAC L 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 3 -
+p230
+aVKevin Edwards MIA 03/03/1992 MIA vs. LAC L 22 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 1 1 0 0 2 -
+p231
+aVBrian Shaw MIA 03/03/1992 MIA vs. LAC L 15 0 0 4 0.0 0 0 - 0 0 - 0 3 3 8 1 0 5 0 -
+p232
+aVGrant Long MIA 03/03/1992 MIA vs. LAC L 45 20 5 16 31.3 0 0 - 10 10 100.0 4 7 11 1 0 0 0 5 -
+p233
+aVBimbo Coles MIA 03/03/1992 MIA vs. LAC L 33 16 8 13 61.5 0 1 0.0 0 0 - 1 2 3 7 3 0 2 0 -
+p234
+aVRony Seikaly MIA 03/03/1992 MIA vs. LAC L 42 20 7 14 50.0 0 0 - 6 8 75.0 3 17 20 1 0 4 4 5 -
+p235
+aVGlen Rice MIA 03/03/1992 MIA vs. LAC L 40 30 8 21 38.1 2 6 33.3 12 13 92.3 2 3 5 3 1 2 4 2 -
+p236
+aVWillie Burton MIA 03/03/1992 MIA vs. LAC L 33 18 6 7 85.7 0 0 - 6 7 85.7 4 1 5 2 1 0 4 3 -
+p237
+aVKeith Askins MIA 02/29/1992 MIA @ GOS L 19 5 1 5 20.0 0 1 0.0 3 4 75.0 2 2 4 0 2 0 0 1 -
+p238
+aVKevin Edwards MIA 02/29/1992 MIA @ GOS L 14 10 3 5 60.0 0 0 - 4 4 100.0 0 2 2 2 3 1 1 1 -
+p239
+aVGrant Long MIA 02/29/1992 MIA @ GOS L 26 12 5 11 45.5 0 2 0.0 2 2 100.0 5 4 9 2 1 0 2 2 -
+p240
+aVSteven Smith MIA 02/29/1992 MIA @ GOS L 25 2 1 9 11.1 0 2 0.0 0 0 - 1 2 3 0 1 0 2 0 -
+p241
+aVWillie Burton MIA 02/29/1992 MIA @ GOS L 26 25 9 19 47.4 0 2 0.0 7 8 87.5 0 2 2 3 3 2 0 3 -
+p242
+aVBimbo Coles MIA 02/29/1992 MIA @ GOS L 24 12 6 15 40.0 0 2 0.0 0 0 - 2 3 5 4 0 0 1 0 -
+p243
+aVGlen Rice MIA 02/29/1992 MIA @ GOS L 30 13 5 12 41.7 3 6 50.0 0 0 - 1 6 7 2 1 0 1 2 -
+p244
+aVAlan Ogg MIA 02/29/1992 MIA @ GOS L 23 8 3 3 100.0 0 0 - 2 2 100.0 1 5 6 1 0 1 1 5 -
+p245
+aVJohn Morton MIA 02/29/1992 MIA @ GOS L 7 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -
+p246
+aVAlec Kessler MIA 02/29/1992 MIA @ GOS L 25 5 2 7 28.6 0 0 - 1 2 50.0 2 2 4 0 0 0 0 4 -
+p247
+aVBrian Shaw MIA 02/29/1992 MIA @ GOS L 21 16 7 14 50.0 1 1 100.0 1 2 50.0 0 3 3 3 2 0 2 3 -
+p248
+aVBimbo Coles MIA 02/28/1992 MIA @ LAC L 17 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 4 1 0 1 2 -
+p249
+aVKevin Edwards MIA 02/28/1992 MIA @ LAC L 31 24 11 18 61.1 0 2 0.0 2 3 66.7 2 2 4 2 6 0 2 0 -
+p250
+aVRony Seikaly MIA 02/28/1992 MIA @ LAC L 29 7 3 11 27.3 0 1 0.0 1 2 50.0 1 1 2 0 0 0 3 5 -
+p251
+aVSteven Smith MIA 02/28/1992 MIA @ LAC L 17 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 2 1 1 1 4 -
+p252
+aVBrian Shaw MIA 02/28/1992 MIA @ LAC L 31 14 7 17 41.2 0 0 - 0 0 - 2 4 6 5 3 0 1 2 -
+p253
+aVGrant Long MIA 02/28/1992 MIA @ LAC L 37 7 2 11 18.2 0 0 - 3 5 60.0 3 7 10 1 1 3 4 3 -
+p254
+aVGlen Rice MIA 02/28/1992 MIA @ LAC L 39 16 7 20 35.0 1 5 20.0 1 1 100.0 0 4 4 1 2 0 3 3 -
+p255
+aVAlan Ogg MIA 02/28/1992 MIA @ LAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p256
+aVAlec Kessler MIA 02/28/1992 MIA @ LAC L 8 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -
+p257
+aVWillie Burton MIA 02/28/1992 MIA @ LAC L 23 13 5 8 62.5 0 0 - 3 5 60.0 4 4 8 3 1 2 6 6 -
+p258
+aVGrant Long MIA 02/26/1992 MIA @ DEN W 44 14 4 11 36.4 0 2 0.0 6 6 100.0 5 7 12 4 2 1 3 4 -
+p259
+aVGlen Rice MIA 02/26/1992 MIA @ DEN W 42 38 13 23 56.5 3 5 60.0 9 10 90.0 2 7 9 2 2 0 3 2 -
+p260
+aVBimbo Coles MIA 02/26/1992 MIA @ DEN W 39 14 6 11 54.5 0 1 0.0 2 3 66.7 1 4 5 7 1 1 3 3 -
+p261
+aVRony Seikaly MIA 02/26/1992 MIA @ DEN W 39 16 7 14 50.0 0 0 - 2 3 66.7 4 4 8 2 1 1 4 2 -
+p262
+aVSteven Smith MIA 02/26/1992 MIA @ DEN W 22 9 4 7 57.1 1 1 100.0 0 2 0.0 2 2 4 2 1 0 1 4 -
+p263
+aVAlec Kessler MIA 02/26/1992 MIA @ DEN W 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 3 1 1 1 -
+p264
+aVWillie Burton MIA 02/26/1992 MIA @ DEN W 21 12 2 5 40.0 0 0 - 8 12 66.7 0 6 6 0 1 0 2 4 -
+p265
+aVBrian Shaw MIA 02/26/1992 MIA @ DEN W 9 2 1 5 20.0 0 0 - 0 0 - 1 4 5 1 0 0 1 2 -
+p266
+aVKevin Edwards MIA 02/26/1992 MIA @ DEN W 15 0 0 7 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -
+p267
+aVBimbo Coles MIA 02/25/1992 MIA @ SAN L 26 8 3 6 50.0 0 1 0.0 2 4 50.0 0 1 1 3 2 0 2 1 -
+p268
+aVRony Seikaly MIA 02/25/1992 MIA @ SAN L 32 15 5 11 45.5 0 0 - 5 5 100.0 5 9 14 2 0 2 2 5 -
+p269
+aVAlan Ogg MIA 02/25/1992 MIA @ SAN L 7 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p270
+aVWillie Burton MIA 02/25/1992 MIA @ SAN L 30 11 4 14 28.6 0 0 - 3 3 100.0 0 4 4 2 0 1 3 2 -
+p271
+aVSteven Smith MIA 02/25/1992 MIA @ SAN L 22 7 3 8 37.5 0 2 0.0 1 1 100.0 1 0 1 3 0 0 4 3 -
+p272
+aVKeith Askins MIA 02/25/1992 MIA @ SAN L 21 6 2 6 33.3 2 3 66.7 0 0 - 1 1 2 0 1 1 1 4 -
+p273
+aVGrant Long MIA 02/25/1992 MIA @ SAN L 33 25 11 13 84.6 0 0 - 3 5 60.0 3 4 7 2 1 0 1 1 -
+p274
+aVKevin Edwards MIA 02/25/1992 MIA @ SAN L 26 13 6 9 66.7 0 0 - 1 1 100.0 0 2 2 3 0 0 1 2 -
+p275
+aVBrian Shaw MIA 02/25/1992 MIA @ SAN L 22 10 5 9 55.6 0 1 0.0 0 0 - 0 1 1 9 0 0 3 2 -
+p276
+aVAlec Kessler MIA 02/25/1992 MIA @ SAN L 21 0 0 6 0.0 0 0 - 0 0 - 0 5 5 0 0 0 3 5 -
+p277
+aVSteven Smith MIA 02/22/1992 MIA vs. DET W 20 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 0 1 1 3 -
+p278
+aVWillie Burton MIA 02/22/1992 MIA vs. DET W 15 2 1 5 20.0 0 0 - 0 0 - 1 1 2 3 0 1 1 2 -
+p279
+aVRony Seikaly MIA 02/22/1992 MIA vs. DET W 48 20 6 12 50.0 0 0 - 8 12 66.7 5 13 18 1 1 6 5 5 -
+p280
+aVBimbo Coles MIA 02/22/1992 MIA vs. DET W 27 22 6 13 46.2 0 0 - 10 10 100.0 1 1 2 7 0 0 4 0 -
+p281
+aVKevin Edwards MIA 02/22/1992 MIA vs. DET W 28 11 4 7 57.1 0 0 - 3 3 100.0 0 3 3 3 1 0 1 1 -
+p282
+aVGlen Rice MIA 02/22/1992 MIA vs. DET W 42 23 7 16 43.8 1 5 20.0 8 8 100.0 0 5 5 1 0 1 1 1 -
+p283
+aVBrian Shaw MIA 02/22/1992 MIA vs. DET W 21 11 4 7 57.1 0 0 - 3 4 75.0 0 2 2 1 0 0 0 1 -
+p284
+aVGrant Long MIA 02/22/1992 MIA vs. DET W 39 14 5 9 55.6 0 0 - 4 4 100.0 3 10 13 2 3 0 2 4 -
+p285
+aVGrant Long MIA 02/20/1992 MIA @ MIL W 40 15 6 11 54.5 0 1 0.0 3 4 75.0 5 4 9 1 1 3 3 3 -
+p286
+aVRony Seikaly MIA 02/20/1992 MIA @ MIL W 41 20 9 12 75.0 0 0 - 2 5 40.0 5 9 14 3 2 2 6 4 -
+p287
+aVBrian Shaw MIA 02/20/1992 MIA @ MIL W 26 12 6 10 60.0 0 0 - 0 1 0.0 1 2 3 8 1 0 2 5 -
+p288
+aVKeith Askins MIA 02/20/1992 MIA @ MIL W 9 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 -
+p289
+aVSteven Smith MIA 02/20/1992 MIA @ MIL W 35 14 6 13 46.2 1 4 25.0 1 2 50.0 1 1 2 4 1 0 2 3 -
+p290
+aVGlen Rice MIA 02/20/1992 MIA @ MIL W 44 30 13 25 52.0 3 7 42.9 1 3 33.3 2 8 10 5 0 0 1 0 -
+p291
+aVAlec Kessler MIA 02/20/1992 MIA @ MIL W 14 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 -
+p292
+aVWillie Burton MIA 02/20/1992 MIA @ MIL W 8 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -
+p293
+aVBimbo Coles MIA 02/20/1992 MIA @ MIL W 23 9 3 6 50.0 0 0 - 3 4 75.0 0 0 0 4 0 0 0 2 -
+p294
+aVSteven Smith MIA 02/17/1992 MIA vs. NYK L 35 19 7 11 63.6 3 5 60.0 2 3 66.7 0 0 0 3 3 0 2 2 -
+p295
+aVKevin Edwards MIA 02/17/1992 MIA vs. NYK L 16 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 3 2 0 3 3 -
+p296
+aVGlen Rice MIA 02/17/1992 MIA vs. NYK L 46 26 9 19 47.4 3 7 42.9 5 6 83.3 0 4 4 1 3 0 4 3 -
+p297
+aVKeith Askins MIA 02/17/1992 MIA vs. NYK L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 2 2 -
+p298
+aVAlec Kessler MIA 02/17/1992 MIA vs. NYK L 6 4 1 1 100.0 0 0 - 2 3 66.7 1 1 2 0 1 0 0 1 -
+p299
+aVRony Seikaly MIA 02/17/1992 MIA vs. NYK L 42 16 8 12 66.7 0 0 - 0 5 0.0 6 7 13 1 0 2 6 5 -
+p300
+aVGrant Long MIA 02/17/1992 MIA vs. NYK L 36 10 4 10 40.0 0 1 0.0 2 2 100.0 1 3 4 6 1 1 2 4 -
+p301
+aVBimbo Coles MIA 02/17/1992 MIA vs. NYK L 39 15 5 12 41.7 0 2 0.0 5 5 100.0 2 3 5 7 1 1 6 3 -
+p302
+aVBrian Shaw MIA 02/17/1992 MIA vs. NYK L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 0 1 -
+p303
+aVWillie Burton MIA 02/16/1992 MIA @ CHH L 17 7 3 8 37.5 0 0 - 1 1 100.0 1 0 1 0 0 0 4 4 -
+p304
+aVSteven Smith MIA 02/16/1992 MIA @ CHH L 33 14 4 12 33.3 0 3 0.0 6 6 100.0 1 3 4 3 2 0 4 1 -
+p305
+aVGrant Long MIA 02/16/1992 MIA @ CHH L 33 11 4 9 44.4 0 0 - 3 5 60.0 0 4 4 3 3 0 2 4 -
+p306
+aVAlec Kessler MIA 02/16/1992 MIA @ CHH L 24 11 4 7 57.1 0 0 - 3 4 75.0 1 6 7 1 0 0 1 2 -
+p307
+aVBrian Shaw MIA 02/16/1992 MIA @ CHH L 17 12 5 11 45.5 0 0 - 2 2 100.0 1 1 2 3 0 0 2 0 -
+p308
+aVAlan Ogg MIA 02/16/1992 MIA @ CHH L 9 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 -
+p309
+aVGlen Rice MIA 02/16/1992 MIA @ CHH L 28 15 5 13 38.5 2 4 50.0 3 3 100.0 0 3 3 0 0 0 1 2 -
+p310
+aVRony Seikaly MIA 02/16/1992 MIA @ CHH L 26 12 4 10 40.0 0 0 - 4 5 80.0 3 5 8 1 0 2 3 3 -
+p311
+aVBimbo Coles MIA 02/16/1992 MIA @ CHH L 26 16 7 8 87.5 0 0 - 2 2 100.0 2 3 5 2 0 0 4 4 -
+p312
+aVKevin Edwards MIA 02/16/1992 MIA @ CHH L 9 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -
+p313
+aVKeith Askins MIA 02/16/1992 MIA @ CHH L 18 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 2 0 0 0 5 -
+p314
+aVAlec Kessler MIA 02/13/1992 MIA vs. ATL W 12 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 1 0 1 0 -
+p315
+aVGlen Rice MIA 02/13/1992 MIA vs. ATL W 42 26 9 23 39.1 2 6 33.3 6 8 75.0 2 6 8 3 1 1 1 3 -
+p316
+aVGrant Long MIA 02/13/1992 MIA vs. ATL W 42 26 9 11 81.8 0 0 - 8 8 100.0 4 6 10 3 1 2 1 4 -
+p317
+aVBimbo Coles MIA 02/13/1992 MIA vs. ATL W 16 4 2 8 25.0 0 0 - 0 0 - 2 2 4 2 1 0 1 6 -
+p318
+aVWillie Burton MIA 02/13/1992 MIA vs. ATL W 23 15 5 9 55.6 1 1 100.0 4 4 100.0 0 2 2 2 1 1 3 1 -
+p319
+aVKeith Askins MIA 02/13/1992 MIA vs. ATL W 25 6 2 4 50.0 1 2 50.0 1 2 50.0 1 3 4 0 0 1 3 3 -
+p320
+aVBrian Shaw MIA 02/13/1992 MIA vs. ATL W 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -
+p321
+aVJohn Morton MIA 02/13/1992 MIA vs. ATL W 19 10 3 5 60.0 0 0 - 4 4 100.0 0 1 1 2 0 0 1 2 -
+p322
+aVKevin Edwards MIA 02/13/1992 MIA vs. ATL W 10 2 1 7 14.3 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -
+p323
+aVRony Seikaly MIA 02/13/1992 MIA vs. ATL W 36 24 8 13 61.5 0 0 - 8 10 80.0 3 12 15 5 0 3 4 3 -
+p324
+aVKeith Askins MIA 02/11/1992 MIA vs. PHL L 21 16 6 8 75.0 3 3 100.0 1 1 100.0 2 2 4 0 1 0 0 2 -
+p325
+aVAlec Kessler MIA 02/11/1992 MIA vs. PHL L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -
+p326
+aVRony Seikaly MIA 02/11/1992 MIA vs. PHL L 30 23 10 14 71.4 0 0 - 3 5 60.0 6 4 10 0 0 0 3 5 -
+p327
+aVBimbo Coles MIA 02/11/1992 MIA vs. PHL L 30 13 5 12 41.7 0 2 0.0 3 5 60.0 0 1 1 7 2 0 3 1 -
+p328
+aVBrian Shaw MIA 02/11/1992 MIA vs. PHL L 18 4 1 6 16.7 0 0 - 2 2 100.0 0 1 1 1 1 0 1 4 -
+p329
+aVGrant Long MIA 02/11/1992 MIA vs. PHL L 41 12 4 13 30.8 0 1 0.0 4 4 100.0 5 4 9 2 3 2 4 1 -
+p330
+aVKevin Edwards MIA 02/11/1992 MIA vs. PHL L 24 15 6 12 50.0 1 2 50.0 2 2 100.0 1 3 4 7 1 0 2 2 -
+p331
+aVWillie Burton MIA 02/11/1992 MIA vs. PHL L 16 4 2 8 25.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -
+p332
+aVAlan Ogg MIA 02/11/1992 MIA vs. PHL L 12 0 0 0 - 0 0 - 0 0 - 2 2 4 1 0 2 0 2 -
+p333
+aVGlen Rice MIA 02/11/1992 MIA vs. PHL L 38 13 6 19 31.6 0 4 0.0 1 1 100.0 3 3 6 3 2 0 1 1 -
+p334
+aVGrant Long MIA 02/05/1992 MIA vs. GOS W 38 12 5 13 38.5 0 0 - 2 2 100.0 1 5 6 5 1 1 6 4 -
+p335
+aVBrian Shaw MIA 02/05/1992 MIA vs. GOS W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -
+p336
+aVBimbo Coles MIA 02/05/1992 MIA vs. GOS W 40 11 4 9 44.4 0 0 - 3 4 75.0 0 2 2 11 1 0 5 3 -
+p337
+aVKevin Edwards MIA 02/05/1992 MIA vs. GOS W 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -
+p338
+aVKeith Askins MIA 02/05/1992 MIA vs. GOS W 26 14 7 10 70.0 0 0 - 0 0 - 4 5 9 3 1 0 2 2 -
+p339
+aVWillie Burton MIA 02/05/1992 MIA vs. GOS W 39 28 11 19 57.9 0 0 - 6 8 75.0 3 2 5 6 1 1 2 3 -
+p340
+aVRony Seikaly MIA 02/05/1992 MIA vs. GOS W 38 28 12 16 75.0 0 0 - 4 5 80.0 8 8 16 3 1 2 1 2 -
+p341
+aVGlen Rice MIA 02/05/1992 MIA vs. GOS W 41 33 11 18 61.1 2 4 50.0 9 10 90.0 1 6 7 2 2 0 4 3 -
+p342
+aVRony Seikaly MIA 02/04/1992 MIA @ NYK L 29 15 4 11 36.4 0 0 - 7 8 87.5 3 9 12 0 0 0 1 4 -
+p343
+aVAlec Kessler MIA 02/04/1992 MIA @ NYK L 22 15 7 11 63.6 0 0 - 1 1 100.0 4 3 7 0 0 0 4 2 -
+p344
+aVGrant Long MIA 02/04/1992 MIA @ NYK L 30 9 2 11 18.2 0 0 - 5 6 83.3 2 4 6 3 0 0 1 1 -
+p345
+aVBrian Shaw MIA 02/04/1992 MIA @ NYK L 23 8 3 11 27.3 0 0 - 2 2 100.0 2 1 3 3 1 0 2 2 -
+p346
+aVBimbo Coles MIA 02/04/1992 MIA @ NYK L 25 6 2 7 28.6 0 1 0.0 2 2 100.0 1 3 4 5 0 0 1 1 -
+p347
+aVKevin Edwards MIA 02/04/1992 MIA @ NYK L 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p348
+aVAlan Ogg MIA 02/04/1992 MIA @ NYK L 15 0 0 3 0.0 0 0 - 0 2 0.0 2 1 3 2 0 2 0 3 -
+p349
+aVJohn Morton MIA 02/04/1992 MIA @ NYK L 10 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 2 1 0 2 3 -
+p350
+aVWillie Burton MIA 02/04/1992 MIA @ NYK L 22 10 1 5 20.0 0 0 - 8 8 100.0 0 2 2 1 1 1 4 4 -
+p351
+aVKeith Askins MIA 02/04/1992 MIA @ NYK L 18 3 1 3 33.3 0 1 0.0 1 1 100.0 2 5 7 0 0 0 2 3 -
+p352
+aVGlen Rice MIA 02/04/1992 MIA @ NYK L 32 21 8 20 40.0 1 5 20.0 4 4 100.0 1 0 1 0 0 1 1 1 -
+p353
+aVBrian Shaw MIA 02/02/1992 MIA vs. CHH W 17 2 1 3 33.3 0 0 - 0 0 - 2 2 4 5 1 1 3 2 -
+p354
+aVRony Seikaly MIA 02/02/1992 MIA vs. CHH W 30 10 4 11 36.4 0 0 - 2 2 100.0 4 8 12 1 0 3 2 4 -
+p355
+aVBimbo Coles MIA 02/02/1992 MIA vs. CHH W 31 14 6 10 60.0 0 0 - 2 3 66.7 0 1 1 11 3 0 3 2 -
+p356
+aVGlen Rice MIA 02/02/1992 MIA vs. CHH W 41 28 11 19 57.9 2 2 100.0 4 4 100.0 0 9 9 1 2 0 2 3 -
+p357
+aVKevin Edwards MIA 02/02/1992 MIA vs. CHH W 20 9 3 8 37.5 0 0 - 3 5 60.0 0 0 0 3 0 1 1 0 -
+p358
+aVWillie Burton MIA 02/02/1992 MIA vs. CHH W 35 25 8 12 66.7 0 0 - 9 10 90.0 1 5 6 3 2 0 4 3 -
+p359
+aVAlec Kessler MIA 02/02/1992 MIA vs. CHH W 17 7 3 4 75.0 0 0 - 1 1 100.0 1 1 2 0 0 0 3 3 -
+p360
+aVAlan Ogg MIA 02/02/1992 MIA vs. CHH W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p361
+aVKeith Askins MIA 02/02/1992 MIA vs. CHH W 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 2 0 0 0 -
+p362
+aVGrant Long MIA 02/02/1992 MIA vs. CHH W 42 23 11 21 52.4 0 0 - 1 2 50.0 3 5 8 3 1 1 2 5 -
+p363
+aVGlen Rice MIA 01/31/1992 MIA @ DET L 44 21 8 23 34.8 1 4 25.0 4 5 80.0 2 2 4 4 2 1 3 4 -
+p364
+aVAlan Ogg MIA 01/31/1992 MIA @ DET L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p365
+aVBrian Shaw MIA 01/31/1992 MIA @ DET L 19 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 6 0 0 1 0 -
+p366
+aVBimbo Coles MIA 01/31/1992 MIA @ DET L 29 12 6 9 66.7 0 1 0.0 0 0 - 0 2 2 7 0 0 1 4 -
+p367
+aVGrant Long MIA 01/31/1992 MIA @ DET L 45 21 7 11 63.6 0 0 - 7 8 87.5 1 7 8 3 1 0 1 4 -
+p368
+aVAlec Kessler MIA 01/31/1992 MIA @ DET L 10 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 0 0 0 5 -
+p369
+aVKevin Edwards MIA 01/31/1992 MIA @ DET L 26 4 2 7 28.6 0 0 - 0 0 - 2 2 4 2 0 1 3 3 -
+p370
+aVRony Seikaly MIA 01/31/1992 MIA @ DET L 33 16 6 11 54.5 0 0 - 4 4 100.0 2 5 7 2 0 1 1 4 -
+p371
+aVWillie Burton MIA 01/31/1992 MIA @ DET L 28 12 5 10 50.0 1 2 50.0 1 2 50.0 0 3 3 2 1 1 2 5 -
+p372
+aVRony Seikaly MIA 01/29/1992 MIA vs. SEA W 44 21 7 10 70.0 0 0 - 7 8 87.5 2 19 21 0 1 4 4 4 -
+p373
+aVGrant Long MIA 01/29/1992 MIA vs. SEA W 41 16 6 9 66.7 0 0 - 4 4 100.0 1 2 3 1 1 0 4 3 -
+p374
+aVKevin Edwards MIA 01/29/1992 MIA vs. SEA W 22 11 3 6 50.0 0 1 0.0 5 6 83.3 1 3 4 2 3 0 2 4 -
+p375
+aVAlan Ogg MIA 01/29/1992 MIA vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p376
+aVBimbo Coles MIA 01/29/1992 MIA vs. SEA W 31 14 4 8 50.0 1 1 100.0 5 8 62.5 1 0 1 6 0 0 1 2 -
+p377
+aVGlen Rice MIA 01/29/1992 MIA vs. SEA W 40 30 11 24 45.8 2 5 40.0 6 8 75.0 1 2 3 3 0 2 2 2 -
+p378
+aVWillie Burton MIA 01/29/1992 MIA vs. SEA W 37 21 5 7 71.4 0 0 - 11 13 84.6 0 3 3 3 2 2 1 1 -
+p379
+aVBrian Shaw MIA 01/29/1992 MIA vs. SEA W 18 4 2 4 50.0 0 0 - 0 0 - 1 0 1 4 0 0 1 2 -
+p380
+aVAlec Kessler MIA 01/29/1992 MIA vs. SEA W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -
+p381
+aVBimbo Coles MIA 01/25/1992 MIA vs. DAL W 37 16 3 11 27.3 1 1 100.0 9 11 81.8 0 4 4 4 0 1 1 1 -
+p382
+aVGrant Long MIA 01/25/1992 MIA vs. DAL W 41 15 6 15 40.0 0 0 - 3 4 75.0 2 7 9 6 2 0 1 0 -
+p383
+aVWillie Burton MIA 01/25/1992 MIA vs. DAL W 39 19 6 17 35.3 0 0 - 7 10 70.0 2 4 6 5 1 1 0 4 -
+p384
+aVKevin Edwards MIA 01/25/1992 MIA vs. DAL W 20 3 1 7 14.3 0 0 - 1 3 33.3 3 6 9 7 0 1 1 2 -
+p385
+aVGlen Rice MIA 01/25/1992 MIA vs. DAL W 44 33 11 22 50.0 4 9 44.4 7 7 100.0 1 7 8 0 0 1 0 2 -
+p386
+aVSteven Smith MIA 01/25/1992 MIA vs. DAL W 11 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 1 -
+p387
+aVAlan Ogg MIA 01/25/1992 MIA vs. DAL W 23 4 2 2 100.0 0 0 - 0 0 - 3 2 5 0 0 2 0 3 -
+p388
+aVAlec Kessler MIA 01/25/1992 MIA vs. DAL W 17 7 2 6 33.3 0 0 - 3 3 100.0 2 3 5 0 0 0 0 3 -
+p389
+aVRony Seikaly MIA 01/25/1992 MIA vs. DAL W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -
+p390
+aVKevin Edwards MIA 01/24/1992 MIA @ NJN L 17 10 5 7 71.4 0 0 - 0 0 - 1 0 1 0 1 0 2 1 -
+p391
+aVGlen Rice MIA 01/24/1992 MIA @ NJN L 40 35 15 23 65.2 5 6 83.3 0 0 - 0 6 6 1 1 1 3 2 -
+p392
+aVBrian Shaw MIA 01/24/1992 MIA @ NJN L 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p393
+aVGrant Long MIA 01/24/1992 MIA @ NJN L 35 11 4 11 36.4 0 0 - 3 4 75.0 5 2 7 6 2 1 1 4 -
+p394
+aVRony Seikaly MIA 01/24/1992 MIA @ NJN L 40 21 7 14 50.0 0 0 - 7 8 87.5 6 5 11 0 0 1 3 3 -
+p395
+aVWillie Burton MIA 01/24/1992 MIA @ NJN L 44 26 8 16 50.0 0 0 - 10 10 100.0 2 2 4 3 3 1 0 3 -
+p396
+aVBimbo Coles MIA 01/24/1992 MIA @ NJN L 37 10 5 11 45.5 0 0 - 0 0 - 1 2 3 6 0 0 2 3 -
+p397
+aVAlec Kessler MIA 01/24/1992 MIA @ NJN L 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -
+p398
+aVWillie Burton MIA 01/22/1992 MIA vs. WAS W 30 21 9 17 52.9 0 0 - 3 3 100.0 3 2 5 0 2 2 2 3 -
+p399
+aVBimbo Coles MIA 01/22/1992 MIA vs. WAS W 25 19 8 13 61.5 0 0 - 3 3 100.0 2 2 4 8 0 0 2 2 -
+p400
+aVJohn Morton MIA 01/22/1992 MIA vs. WAS W 9 5 2 6 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -
+p401
+aVBrian Shaw MIA 01/22/1992 MIA vs. WAS W 23 8 4 11 36.4 0 2 0.0 0 1 0.0 2 1 3 3 1 0 3 1 -
+p402
+aVKevin Edwards MIA 01/22/1992 MIA vs. WAS W 24 7 3 8 37.5 0 1 0.0 1 2 50.0 0 1 1 7 2 0 1 0 -
+p403
+aVGlen Rice MIA 01/22/1992 MIA vs. WAS W 33 22 9 15 60.0 2 3 66.7 2 2 100.0 0 2 2 1 1 0 0 1 -
+p404
+aVGrant Long MIA 01/22/1992 MIA vs. WAS W 40 16 7 9 77.8 0 0 - 2 4 50.0 4 6 10 4 4 0 3 3 -
+p405
+aVRony Seikaly MIA 01/22/1992 MIA vs. WAS W 28 13 3 7 42.9 0 0 - 7 12 58.3 3 11 14 0 1 0 3 4 -
+p406
+aVAlec Kessler MIA 01/22/1992 MIA vs. WAS W 22 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 5 -
+p407
+aVAlan Ogg MIA 01/22/1992 MIA vs. WAS W 6 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p408
+aVAlec Kessler MIA 01/20/1992 MIA vs. MIN W 10 2 0 4 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 5 -
+p409
+aVGrant Long MIA 01/20/1992 MIA vs. MIN W 44 21 8 11 72.7 0 0 - 5 6 83.3 5 6 11 2 1 1 0 3 -
+p410
+aVAlan Ogg MIA 01/20/1992 MIA vs. MIN W 1 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p411
+aVWillie Burton MIA 01/20/1992 MIA vs. MIN W 23 14 4 7 57.1 0 0 - 6 8 75.0 2 2 4 1 1 0 0 4 -
+p412
+aVKevin Edwards MIA 01/20/1992 MIA vs. MIN W 29 16 6 11 54.5 0 1 0.0 4 5 80.0 0 4 4 2 5 0 1 1 -
+p413
+aVRony Seikaly MIA 01/20/1992 MIA vs. MIN W 40 20 7 12 58.3 0 0 - 6 8 75.0 4 11 15 0 0 1 5 3 -
+p414
+aVGlen Rice MIA 01/20/1992 MIA vs. MIN W 44 22 8 17 47.1 3 6 50.0 3 4 75.0 0 3 3 3 0 0 0 3 -
+p415
+aVBrian Shaw MIA 01/20/1992 MIA vs. MIN W 18 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 3 1 0 2 4 -
+p416
+aVBimbo Coles MIA 01/20/1992 MIA vs. MIN W 31 18 9 16 56.3 0 1 0.0 0 0 - 1 2 3 8 2 0 4 2 -
+p417
+aVAlec Kessler MIA 01/18/1992 MIA @ IND L 20 7 3 10 30.0 0 0 - 1 2 50.0 2 4 6 1 1 0 0 2 -
+p418
+aVAlan Ogg MIA 01/18/1992 MIA @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p419
+aVGlen Rice MIA 01/18/1992 MIA @ IND L 39 18 8 14 57.1 2 5 40.0 0 0 - 1 4 5 2 1 0 2 3 -
+p420
+aVBimbo Coles MIA 01/18/1992 MIA @ IND L 28 7 2 9 22.2 0 0 - 3 3 100.0 3 3 6 8 2 0 0 1 -
+p421
+aVRony Seikaly MIA 01/18/1992 MIA @ IND L 43 25 10 21 47.6 0 1 0.0 5 6 83.3 7 4 11 1 0 1 3 3 -
+p422
+aVGrant Long MIA 01/18/1992 MIA @ IND L 31 12 3 10 30.0 0 0 - 6 6 100.0 3 4 7 1 2 0 1 1 -
+p423
+aVKevin Edwards MIA 01/18/1992 MIA @ IND L 29 12 5 11 45.5 0 0 - 2 4 50.0 0 2 2 6 2 0 2 2 -
+p424
+aVBrian Shaw MIA 01/18/1992 MIA @ IND L 20 9 3 10 30.0 0 0 - 3 4 75.0 0 3 3 2 0 1 0 3 -
+p425
+aVWillie Burton MIA 01/18/1992 MIA @ IND L 22 9 3 10 30.0 0 0 - 3 3 100.0 1 4 5 2 1 0 3 3 -
+p426
+aVJohn Morton MIA 01/18/1992 MIA @ IND L 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p427
+aVKevin Edwards MIA 01/16/1992 MIA @ WAS W 29 4 2 9 22.2 0 1 0.0 0 0 - 0 4 4 2 1 0 1 1 -
+p428
+aVWillie Burton MIA 01/16/1992 MIA @ WAS W 17 10 4 9 44.4 0 0 - 2 4 50.0 1 2 3 1 1 0 0 4 -
+p429
+aVAlec Kessler MIA 01/16/1992 MIA @ WAS W 22 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 2 0 0 2 1 -
+p430
+aVGlen Rice MIA 01/16/1992 MIA @ WAS W 39 35 12 17 70.6 1 2 50.0 10 12 83.3 2 0 2 2 1 1 1 0 -
+p431
+aVRony Seikaly MIA 01/16/1992 MIA @ WAS W 40 14 5 14 35.7 0 0 - 4 8 50.0 8 12 20 1 0 0 6 5 -
+p432
+aVBrian Shaw MIA 01/16/1992 MIA @ WAS W 27 7 3 10 30.0 0 0 - 1 2 50.0 2 3 5 2 0 0 2 4 -
+p433
+aVBimbo Coles MIA 01/16/1992 MIA @ WAS W 32 12 4 9 44.4 0 0 - 4 4 100.0 0 0 0 2 1 0 4 2 -
+p434
+aVGrant Long MIA 01/16/1992 MIA @ WAS W 34 14 5 11 45.5 0 0 - 4 6 66.7 3 5 8 2 3 0 2 4 -
+p435
+aVAlec Kessler MIA 01/15/1992 MIA vs. MIL W 15 9 4 10 40.0 0 0 - 1 2 50.0 5 2 7 1 0 1 0 3 -
+p436
+aVBimbo Coles MIA 01/15/1992 MIA vs. MIL W 41 20 7 12 58.3 0 0 - 6 7 85.7 1 2 3 12 3 0 4 4 -
+p437
+aVJohn Morton MIA 01/15/1992 MIA vs. MIL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p438
+aVKevin Edwards MIA 01/15/1992 MIA vs. MIL W 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 4 0 0 2 4 -
+p439
+aVRony Seikaly MIA 01/15/1992 MIA vs. MIL W 33 16 5 7 71.4 0 0 - 6 7 85.7 2 9 11 2 1 2 1 3 -
+p440
+aVBrian Shaw MIA 01/15/1992 MIA vs. MIL W 26 14 7 10 70.0 0 0 - 0 0 - 2 4 6 3 1 0 2 2 -
+p441
+aVGlen Rice MIA 01/15/1992 MIA vs. MIL W 43 31 13 23 56.5 1 4 25.0 4 4 100.0 1 3 4 6 0 0 3 2 -
+p442
+aVGrant Long MIA 01/15/1992 MIA vs. MIL W 39 19 9 12 75.0 0 0 - 1 3 33.3 2 2 4 3 2 0 2 3 -
+p443
+aVAlan Ogg MIA 01/15/1992 MIA vs. MIL W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p444
+aVWillie Burton MIA 01/15/1992 MIA vs. MIL W 29 19 6 11 54.5 1 1 100.0 6 7 85.7 3 3 6 3 2 0 4 3 -
+p445
+aVGlen Rice MIA 01/11/1992 MIA @ CHI L 36 22 9 14 64.3 2 3 66.7 2 2 100.0 1 1 2 1 2 0 1 2 -
+p446
+aVAlec Kessler MIA 01/11/1992 MIA @ CHI L 19 9 4 10 40.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 3 -
+p447
+aVKevin Edwards MIA 01/11/1992 MIA @ CHI L 22 6 2 8 25.0 0 1 0.0 2 4 50.0 1 1 2 1 1 1 1 1 -
+p448
+aVBimbo Coles MIA 01/11/1992 MIA @ CHI L 30 10 5 9 55.6 0 0 - 0 0 - 2 3 5 7 0 1 3 1 -
+p449
+aVRony Seikaly MIA 01/11/1992 MIA @ CHI L 40 15 4 11 36.4 0 0 - 7 13 53.8 4 7 11 0 0 4 0 3 -
+p450
+aVWillie Burton MIA 01/11/1992 MIA @ CHI L 38 17 5 13 38.5 0 0 - 7 8 87.5 2 7 9 2 0 1 2 3 -
+p451
+aVBrian Shaw MIA 01/11/1992 MIA @ CHI L 18 0 0 2 0.0 0 0 - 0 2 0.0 0 2 2 4 0 0 1 2 -
+p452
+aVGrant Long MIA 01/11/1992 MIA @ CHI L 37 20 6 12 50.0 0 0 - 8 10 80.0 3 5 8 3 2 0 1 4 -
+p453
+aVAlec Kessler MIA 01/10/1992 MIA vs. HOU L 17 8 3 6 50.0 0 0 - 2 2 100.0 4 0 4 0 0 0 0 1 -
+p454
+aVKeith Askins MIA 01/10/1992 MIA vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -
+p455
+aVWillie Burton MIA 01/10/1992 MIA vs. HOU L 28 14 6 12 50.0 0 0 - 2 3 66.7 2 0 2 2 1 0 2 2 -
+p456
+aVGrant Long MIA 01/10/1992 MIA vs. HOU L 42 23 10 14 71.4 0 0 - 3 4 75.0 3 9 12 1 0 0 0 6 -
+p457
+aVRony Seikaly MIA 01/10/1992 MIA vs. HOU L 48 23 8 16 50.0 0 0 - 7 9 77.8 5 7 12 3 2 4 2 5 -
+p458
+aVGlen Rice MIA 01/10/1992 MIA vs. HOU L 50 16 7 19 36.8 0 4 0.0 2 2 100.0 3 11 14 4 4 0 0 1 -
+p459
+aVSherman Douglas MIA 01/10/1992 MIA vs. HOU L 24 6 3 11 27.3 0 1 0.0 0 1 0.0 0 2 2 5 1 0 2 3 -
+p460
+aVBimbo Coles MIA 01/10/1992 MIA vs. HOU L 29 15 7 13 53.8 0 2 0.0 1 2 50.0 1 1 2 4 2 0 0 0 -
+p461
+aVKevin Edwards MIA 01/10/1992 MIA vs. HOU L 26 2 1 8 12.5 0 0 - 0 0 - 1 0 1 3 0 0 4 2 -
+p462
+aVSherman Douglas MIA 01/08/1992 MIA vs. CHI L 27 6 3 5 60.0 0 0 - 0 0 - 0 1 1 6 2 0 3 1 -
+p463
+aVWillie Burton MIA 01/08/1992 MIA vs. CHI L 36 15 7 14 50.0 0 0 - 1 2 50.0 1 4 5 4 1 1 4 4 -
+p464
+aVKevin Edwards MIA 01/08/1992 MIA vs. CHI L 19 7 3 8 37.5 0 1 0.0 1 1 100.0 0 2 2 4 1 0 2 0 -
+p465
+aVBimbo Coles MIA 01/08/1992 MIA vs. CHI L 21 15 5 6 83.3 1 1 100.0 4 4 100.0 0 1 1 1 0 0 0 0 -
+p466
+aVGrant Long MIA 01/08/1992 MIA vs. CHI L 45 14 5 9 55.6 0 0 - 4 4 100.0 2 8 10 1 0 0 1 3 -
+p467
+aVGlen Rice MIA 01/08/1992 MIA vs. CHI L 41 33 13 21 61.9 3 4 75.0 4 5 80.0 1 3 4 4 0 0 2 3 -
+p468
+aVRony Seikaly MIA 01/08/1992 MIA vs. CHI L 42 14 5 11 45.5 0 0 - 4 7 57.1 4 10 14 3 1 0 2 4 -
+p469
+aVAlec Kessler MIA 01/08/1992 MIA vs. CHI L 9 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 0 0 2 1 1 -
+p470
+aVGrant Long MIA 01/05/1992 MIA @ LAL L 39 23 10 12 83.3 0 0 - 3 4 75.0 4 4 8 4 1 0 6 4 -
+p471
+aVBimbo Coles MIA 01/05/1992 MIA @ LAL L 5 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 -
+p472
+aVSteven Smith MIA 01/05/1992 MIA @ LAL L 38 19 7 16 43.8 0 2 0.0 5 6 83.3 4 1 5 8 0 0 1 2 -
+p473
+aVGlen Rice MIA 01/05/1992 MIA @ LAL L 38 8 3 13 23.1 0 4 0.0 2 2 100.0 2 6 8 1 1 0 1 1 -
+p474
+aVKevin Edwards MIA 01/05/1992 MIA @ LAL L 28 10 3 12 25.0 0 2 0.0 4 5 80.0 2 0 2 4 1 0 0 4 -
+p475
+aVKeith Askins MIA 01/05/1992 MIA @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p476
+aVSherman Douglas MIA 01/05/1992 MIA @ LAL L 18 11 3 5 60.0 0 0 - 5 6 83.3 0 0 0 0 0 0 2 1 -
+p477
+aVAlec Kessler MIA 01/05/1992 MIA @ LAL L 20 13 5 10 50.0 0 0 - 3 4 75.0 3 2 5 0 0 1 0 3 -
+p478
+aVWillie Burton MIA 01/05/1992 MIA @ LAL L 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 1 4 -
+p479
+aVRony Seikaly MIA 01/05/1992 MIA @ LAL L 37 21 7 13 53.8 0 0 - 7 9 77.8 5 5 10 2 1 3 1 2 -
+p480
+aVAlec Kessler MIA 01/04/1992 MIA @ SAC W 13 6 3 6 50.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 -
+p481
+aVRony Seikaly MIA 01/04/1992 MIA @ SAC W 43 17 6 13 46.2 0 0 - 5 6 83.3 5 15 20 0 1 0 5 4 -
+p482
+aVGlen Rice MIA 01/04/1992 MIA @ SAC W 39 22 8 17 47.1 2 4 50.0 4 6 66.7 1 3 4 3 3 1 2 3 -
+p483
+aVWillie Burton MIA 01/04/1992 MIA @ SAC W 24 6 2 9 22.2 0 0 - 2 2 100.0 1 3 4 1 0 1 0 1 -
+p484
+aVBimbo Coles MIA 01/04/1992 MIA @ SAC W 12 8 3 5 60.0 0 0 - 2 4 50.0 3 2 5 0 2 1 2 2 -
+p485
+aVSherman Douglas MIA 01/04/1992 MIA @ SAC W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p486
+aVKevin Edwards MIA 01/04/1992 MIA @ SAC W 27 10 1 7 14.3 0 0 - 8 8 100.0 2 3 5 4 2 0 2 2 -
+p487
+aVSteven Smith MIA 01/04/1992 MIA @ SAC W 38 18 8 14 57.1 1 2 50.0 1 2 50.0 1 2 3 5 2 0 3 6 -
+p488
+aVGrant Long MIA 01/04/1992 MIA @ SAC W 40 19 6 13 46.2 0 0 - 7 8 87.5 5 9 14 3 2 1 3 2 -
+p489
+aVSherman Douglas MIA 01/02/1992 MIA @ SEA L 25 10 5 8 62.5 0 0 - 0 0 - 1 2 3 7 1 0 1 3 -
+p490
+aVRony Seikaly MIA 01/02/1992 MIA @ SEA L 40 13 3 8 37.5 0 0 - 7 8 87.5 1 7 8 0 1 1 1 3 -
+p491
+aVGrant Long MIA 01/02/1992 MIA @ SEA L 46 15 5 10 50.0 0 0 - 5 8 62.5 4 5 9 2 0 0 3 5 -
+p492
+aVKevin Edwards MIA 01/02/1992 MIA @ SEA L 35 26 7 11 63.6 0 0 - 12 12 100.0 0 0 0 1 4 0 1 3 -
+p493
+aVSteven Smith MIA 01/02/1992 MIA @ SEA L 24 5 2 10 20.0 1 2 50.0 0 0 - 0 0 0 2 0 0 2 3 -
+p494
+aVWillie Burton MIA 01/02/1992 MIA @ SEA L 20 8 4 8 50.0 0 0 - 0 2 0.0 1 1 2 3 0 0 0 4 -
+p495
+aVGlen Rice MIA 01/02/1992 MIA @ SEA L 43 23 10 24 41.7 2 3 66.7 1 2 50.0 2 0 2 3 0 0 0 2 -
+p496
+aVKeith Askins MIA 01/02/1992 MIA @ SEA L 15 5 2 2 100.0 1 1 100.0 0 0 - 1 0 1 0 1 0 1 4 -
+p497
+aVAlec Kessler MIA 01/02/1992 MIA @ SEA L 16 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -
+p498
+aVAlan Ogg MIA 01/02/1992 MIA @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p499
+aVGrant Long MIA 12/29/1991 MIA @ POR L 32 8 3 9 33.3 0 0 - 2 2 100.0 6 3 9 5 2 0 2 1 -
+p500
+aVSteven Smith MIA 12/29/1991 MIA @ POR L 35 4 1 8 12.5 0 2 0.0 2 4 50.0 0 1 1 6 2 0 3 0 -
+p501
+aVGlen Rice MIA 12/29/1991 MIA @ POR L 31 14 6 15 40.0 0 6 0.0 2 2 100.0 0 2 2 1 0 0 2 1 -
+p502
+aVRony Seikaly MIA 12/29/1991 MIA @ POR L 27 15 2 5 40.0 0 0 - 11 12 91.7 2 5 7 0 0 0 5 3 -
+p503
+aVAlan Ogg MIA 12/29/1991 MIA @ POR L 12 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 1 3 -
+p504
+aVKevin Edwards MIA 12/29/1991 MIA @ POR L 32 20 9 14 64.3 0 1 0.0 2 4 50.0 1 1 2 2 2 0 1 3 -
+p505
+aVMilos Babic MIA 12/29/1991 MIA @ POR L 5 6 1 1 100.0 0 0 - 4 4 100.0 0 2 2 0 0 0 1 0 -
+p506
+aVJohn Morton MIA 12/29/1991 MIA @ POR L 11 1 0 6 0.0 0 3 0.0 1 2 50.0 1 2 3 0 0 0 1 2 -
+p507
+aVKeith Askins MIA 12/29/1991 MIA @ POR L 17 6 0 4 0.0 0 2 0.0 6 6 100.0 1 2 3 1 0 1 0 2 -
+p508
+aVBimbo Coles MIA 12/29/1991 MIA @ POR L 18 9 4 8 50.0 1 2 50.0 0 0 - 2 2 4 1 0 0 1 3 -
+p509
+aVAlec Kessler MIA 12/29/1991 MIA @ POR L 20 8 2 5 40.0 0 0 - 4 4 100.0 1 2 3 1 1 0 2 6 -
+p510
+aVAlec Kessler MIA 12/28/1991 MIA @ UTH L 25 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 0 0 0 1 3 -
+p511
+aVKevin Edwards MIA 12/28/1991 MIA @ UTH L 25 15 6 10 60.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 4 2 -
+p512
+aVGrant Long MIA 12/28/1991 MIA @ UTH L 26 5 2 6 33.3 0 0 - 1 2 50.0 0 5 5 4 0 0 0 5 -
+p513
+aVAlan Ogg MIA 12/28/1991 MIA @ UTH L 20 8 3 3 100.0 0 0 - 2 2 100.0 0 5 5 0 0 2 0 3 -
+p514
+aVSteven Smith MIA 12/28/1991 MIA @ UTH L 36 19 8 12 66.7 0 0 - 3 4 75.0 1 1 2 8 1 0 1 3 -
+p515
+aVWillie Burton MIA 12/28/1991 MIA @ UTH L 4 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -
+p516
+aVKeith Askins MIA 12/28/1991 MIA @ UTH L 16 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 2 0 1 3 -
+p517
+aVGlen Rice MIA 12/28/1991 MIA @ UTH L 32 16 7 15 46.7 0 3 0.0 2 3 66.7 0 1 1 4 0 0 2 2 -
+p518
+aVRony Seikaly MIA 12/28/1991 MIA @ UTH L 27 11 5 10 50.0 0 0 - 1 4 25.0 2 5 7 1 1 1 3 5 -
+p519
+aVBimbo Coles MIA 12/28/1991 MIA @ UTH L 27 14 5 9 55.6 0 0 - 4 5 80.0 0 0 0 5 2 1 3 2 -
+p520
+aVJohn Morton MIA 12/28/1991 MIA @ UTH L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p521
+aVSteven Smith MIA 12/26/1991 MIA @ PHX L 34 22 10 19 52.6 2 3 66.7 0 0 - 3 1 4 4 0 0 3 3 -
+p522
+aVGrant Long MIA 12/26/1991 MIA @ PHX L 34 8 3 8 37.5 0 0 - 2 2 100.0 4 6 10 4 2 0 1 4 -
+p523
+aVMilos Babic MIA 12/26/1991 MIA @ PHX L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p524
+aVRony Seikaly MIA 12/26/1991 MIA @ PHX L 26 8 3 9 33.3 0 0 - 2 3 66.7 2 5 7 1 0 2 3 3 -
+p525
+aVAlan Ogg MIA 12/26/1991 MIA @ PHX L 4 1 0 0 - 0 0 - 1 4 25.0 0 0 0 0 0 1 0 1 -
+p526
+aVGlen Rice MIA 12/26/1991 MIA @ PHX L 34 19 7 21 33.3 2 4 50.0 3 4 75.0 1 1 2 1 2 0 1 2 -
+p527
+aVBimbo Coles MIA 12/26/1991 MIA @ PHX L 18 5 1 5 20.0 0 2 0.0 3 4 75.0 0 0 0 1 0 0 2 0 -
+p528
+aVJohn Morton MIA 12/26/1991 MIA @ PHX L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 2 0 0 0 0 -
+p529
+aVKeith Askins MIA 12/26/1991 MIA @ PHX L 9 5 2 5 40.0 1 3 33.3 0 0 - 2 1 3 0 0 0 1 5 -
+p530
+aVKevin Edwards MIA 12/26/1991 MIA @ PHX L 23 12 4 11 36.4 0 1 0.0 4 4 100.0 1 1 2 2 2 0 2 0 -
+p531
+aVWillie Burton MIA 12/26/1991 MIA @ PHX L 28 11 5 11 45.5 0 0 - 1 2 50.0 2 3 5 5 2 1 4 3 -
+p532
+aVAlec Kessler MIA 12/26/1991 MIA @ PHX L 25 10 4 9 44.4 0 0 - 2 2 100.0 4 10 14 0 2 1 1 3 -
+p533
+aVSteven Smith MIA 12/23/1991 MIA vs. ORL W 31 18 8 12 66.7 0 2 0.0 2 2 100.0 3 1 4 8 0 1 6 2 -
+p534
+aVWillie Burton MIA 12/23/1991 MIA vs. ORL W 23 6 3 7 42.9 0 0 - 0 0 - 1 4 5 3 0 1 1 2 -
+p535
+aVMilos Babic MIA 12/23/1991 MIA vs. ORL W 1 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -
+p536
+aVGrant Long MIA 12/23/1991 MIA vs. ORL W 37 18 5 8 62.5 0 0 - 8 9 88.9 3 8 11 4 0 1 2 5 -
+p537
+aVRony Seikaly MIA 12/23/1991 MIA vs. ORL W 42 27 8 12 66.7 0 0 - 11 14 78.6 3 8 11 0 0 2 2 5 -
+p538
+aVKeith Askins MIA 12/23/1991 MIA vs. ORL W 14 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 2 3 -
+p539
+aVGlen Rice MIA 12/23/1991 MIA vs. ORL W 35 24 11 20 55.0 2 3 66.7 0 0 - 4 4 8 5 2 0 3 1 -
+p540
+aVAlec Kessler MIA 12/23/1991 MIA vs. ORL W 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -
+p541
+aVBimbo Coles MIA 12/23/1991 MIA vs. ORL W 19 5 2 12 16.7 0 1 0.0 1 2 50.0 2 2 4 3 0 0 2 3 -
+p542
+aVAlan Ogg MIA 12/23/1991 MIA vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p543
+aVKevin Edwards MIA 12/23/1991 MIA vs. ORL W 22 12 5 9 55.6 0 0 - 2 2 100.0 0 3 3 0 1 0 1 1 -
+p544
+aVBimbo Coles MIA 12/21/1991 MIA vs. BOS W 21 10 5 11 45.5 0 2 0.0 0 2 0.0 0 1 1 3 1 0 0 1 -
+p545
+aVGlen Rice MIA 12/21/1991 MIA vs. BOS W 31 13 3 13 23.1 1 5 20.0 6 6 100.0 1 2 3 1 0 2 1 1 -
+p546
+aVWillie Burton MIA 12/21/1991 MIA vs. BOS W 24 8 3 8 37.5 0 0 - 2 2 100.0 2 0 2 2 0 0 1 1 -
+p547
+aVAlec Kessler MIA 12/21/1991 MIA vs. BOS W 26 10 5 10 50.0 0 0 - 0 0 - 4 4 8 1 0 0 1 3 -
+p548
+aVGrant Long MIA 12/21/1991 MIA vs. BOS W 36 15 6 10 60.0 0 0 - 3 4 75.0 5 3 8 3 2 0 0 3 -
+p549
+aVKevin Edwards MIA 12/21/1991 MIA vs. BOS W 25 18 7 12 58.3 0 0 - 4 5 80.0 0 3 3 3 2 0 0 1 -
+p550
+aVRony Seikaly MIA 12/21/1991 MIA vs. BOS W 34 26 9 14 64.3 0 0 - 8 9 88.9 4 9 13 1 1 2 0 5 -
+p551
+aVKeith Askins MIA 12/21/1991 MIA vs. BOS W 16 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 2 1 1 0 -
+p552
+aVSteven Smith MIA 12/21/1991 MIA vs. BOS W 27 12 4 11 36.4 1 2 50.0 3 4 75.0 1 3 4 3 2 0 2 4 -
+p553
+aVAlec Kessler MIA 12/20/1991 MIA @ PHL L 16 13 5 8 62.5 0 0 - 3 4 75.0 2 2 4 2 0 0 2 6 -
+p554
+aVBimbo Coles MIA 12/20/1991 MIA @ PHL L 23 8 4 5 80.0 0 0 - 0 0 - 1 1 2 4 1 0 1 0 -
+p555
+aVKevin Edwards MIA 12/20/1991 MIA @ PHL L 23 10 5 12 41.7 0 0 - 0 0 - 1 3 4 2 0 1 4 2 -
+p556
+aVRony Seikaly MIA 12/20/1991 MIA @ PHL L 32 21 9 16 56.3 0 0 - 3 6 50.0 2 13 15 1 1 3 2 2 -
+p557
+aVSteven Smith MIA 12/20/1991 MIA @ PHL L 33 12 5 11 45.5 1 2 50.0 1 2 50.0 1 0 1 6 0 1 1 3 -
+p558
+aVAlan Ogg MIA 12/20/1991 MIA @ PHL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -
+p559
+aVGrant Long MIA 12/20/1991 MIA @ PHL L 34 11 4 8 50.0 0 0 - 3 3 100.0 4 6 10 3 2 0 3 3 -
+p560
+aVWillie Burton MIA 12/20/1991 MIA @ PHL L 19 12 6 12 50.0 0 0 - 0 0 - 2 2 4 1 0 0 4 3 -
+p561
+aVGlen Rice MIA 12/20/1991 MIA @ PHL L 30 6 2 8 25.0 2 6 33.3 0 0 - 0 1 1 3 1 0 1 1 -
+p562
+aVJohn Morton MIA 12/20/1991 MIA @ PHL L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -
+p563
+aVKeith Askins MIA 12/20/1991 MIA @ PHL L 19 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 0 1 2 -
+p564
+aVMilos Babic MIA 12/20/1991 MIA @ PHL L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -
+p565
+aVAlec Kessler MIA 12/18/1991 MIA vs. IND W 23 7 3 7 42.9 0 0 - 1 2 50.0 1 3 4 1 0 3 2 2 -
+p566
+aVKevin Edwards MIA 12/18/1991 MIA vs. IND W 9 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -
+p567
+aVGrant Long MIA 12/18/1991 MIA vs. IND W 44 20 5 12 41.7 0 0 - 10 10 100.0 6 7 13 3 3 0 2 2 -
+p568
+aVSteven Smith MIA 12/18/1991 MIA vs. IND W 41 19 9 18 50.0 0 3 0.0 1 3 33.3 2 5 7 8 0 1 1 4 -
+p569
+aVRony Seikaly MIA 12/18/1991 MIA vs. IND W 38 8 1 9 11.1 0 0 - 6 8 75.0 4 12 16 5 2 0 4 6 -
+p570
+aVWillie Burton MIA 12/18/1991 MIA vs. IND W 9 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 -
+p571
+aVBimbo Coles MIA 12/18/1991 MIA vs. IND W 18 12 3 10 30.0 0 3 0.0 6 6 100.0 1 1 2 4 2 0 0 2 -
+p572
+aVGlen Rice MIA 12/18/1991 MIA vs. IND W 49 22 8 22 36.4 5 6 83.3 1 2 50.0 2 2 4 1 3 1 3 3 -
+p573
+aVKeith Askins MIA 12/18/1991 MIA vs. IND W 34 18 7 11 63.6 2 3 66.7 2 2 100.0 2 3 5 0 3 1 2 0 -
+p574
+aVKeith Askins MIA 12/17/1991 MIA @ CLE L 25 5 2 11 18.2 1 5 20.0 0 0 - 3 2 5 0 1 1 3 4 -
+p575
+aVAlec Kessler MIA 12/17/1991 MIA @ CLE L 21 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 3 0 1 1 4 -
+p576
+aVSteven Smith MIA 12/17/1991 MIA @ CLE L 20 15 7 13 53.8 1 3 33.3 0 2 0.0 1 0 1 3 3 0 2 1 -
+p577
+aVRony Seikaly MIA 12/17/1991 MIA @ CLE L 21 9 4 7 57.1 0 0 - 1 1 100.0 3 4 7 0 0 0 1 1 -
+p578
+aVWillie Burton MIA 12/17/1991 MIA @ CLE L 20 7 3 8 37.5 0 0 - 1 1 100.0 0 0 0 3 0 1 0 2 -
+p579
+aVGlen Rice MIA 12/17/1991 MIA @ CLE L 23 9 3 8 37.5 3 3 100.0 0 0 - 0 5 5 3 0 0 0 1 -
+p580
+aVGrant Long MIA 12/17/1991 MIA @ CLE L 18 7 3 8 37.5 0 0 - 1 1 100.0 2 1 3 0 0 0 3 0 -
+p581
+aVAlan Ogg MIA 12/17/1991 MIA @ CLE L 21 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 1 3 4 -
+p582
+aVBimbo Coles MIA 12/17/1991 MIA @ CLE L 23 0 0 8 0.0 0 1 0.0 0 0 - 4 3 7 3 1 0 7 6 -
+p583
+aVMilos Babic MIA 12/17/1991 MIA @ CLE L 12 2 1 4 25.0 0 0 - 0 0 - 1 4 5 2 0 0 1 0 -
+p584
+aVJohn Morton MIA 12/17/1991 MIA @ CLE L 12 7 2 6 33.3 1 2 50.0 2 2 100.0 0 0 0 0 2 1 0 0 -
+p585
+aVKevin Edwards MIA 12/17/1991 MIA @ CLE L 24 10 4 10 40.0 0 0 - 2 2 100.0 1 1 2 1 0 0 2 1 -
+p586
+aVKeith Askins MIA 12/14/1991 MIA vs. ATL W 33 9 4 7 57.1 1 3 33.3 0 0 - 4 2 6 2 0 1 0 5 -
+p587
+aVBimbo Coles MIA 12/14/1991 MIA vs. ATL W 23 13 4 10 40.0 0 3 0.0 5 7 71.4 4 0 4 3 1 0 2 1 -
+p588
+aVAlan Ogg MIA 12/14/1991 MIA vs. ATL W 1 1 0 1 0.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 0 -
+p589
+aVGlen Rice MIA 12/14/1991 MIA vs. ATL W 37 26 10 22 45.5 4 9 44.4 2 2 100.0 0 4 4 3 1 0 2 1 -
+p590
+aVAlec Kessler MIA 12/14/1991 MIA vs. ATL W 25 14 3 10 30.0 0 0 - 8 8 100.0 2 4 6 0 0 0 1 2 -
+p591
+aVGrant Long MIA 12/14/1991 MIA vs. ATL W 33 13 6 9 66.7 0 0 - 1 1 100.0 5 7 12 5 1 0 3 2 -
+p592
+aVKevin Edwards MIA 12/14/1991 MIA vs. ATL W 26 16 7 13 53.8 0 0 - 2 2 100.0 0 5 5 2 1 1 2 1 -
+p593
+aVJohn Morton MIA 12/14/1991 MIA vs. ATL W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p594
+aVMilos Babic MIA 12/14/1991 MIA vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p595
+aVRony Seikaly MIA 12/14/1991 MIA vs. ATL W 29 16 8 10 80.0 0 0 - 0 2 0.0 2 4 6 2 0 1 1 4 -
+p596
+aVSteven Smith MIA 12/14/1991 MIA vs. ATL W 31 10 5 12 41.7 0 3 0.0 0 0 - 2 4 6 6 1 1 2 2 -
+p597
+aVKevin Edwards MIA 12/13/1991 MIA @ CHH W 31 18 7 12 58.3 0 0 - 4 4 100.0 1 2 3 3 1 1 3 2 -
+p598
+aVAlec Kessler MIA 12/13/1991 MIA @ CHH W 19 12 3 7 42.9 0 0 - 6 6 100.0 1 5 6 1 0 1 0 3 -
+p599
+aVGrant Long MIA 12/13/1991 MIA @ CHH W 34 9 4 7 57.1 0 0 - 1 2 50.0 2 0 2 5 1 0 5 3 -
+p600
+aVKeith Askins MIA 12/13/1991 MIA @ CHH W 26 4 2 3 66.7 0 1 0.0 0 0 - 1 4 5 1 0 0 0 2 -
+p601
+aVWillie Burton MIA 12/13/1991 MIA @ CHH W 13 11 4 6 66.7 0 0 - 3 4 75.0 1 3 4 3 0 0 2 3 -
+p602
+aVRony Seikaly MIA 12/13/1991 MIA @ CHH W 43 28 11 21 52.4 0 0 - 6 8 75.0 6 8 14 2 1 1 0 3 -
+p603
+aVGlen Rice MIA 12/13/1991 MIA @ CHH W 31 22 10 19 52.6 1 2 50.0 1 1 100.0 0 2 2 1 2 0 1 3 -
+p604
+aVBimbo Coles MIA 12/13/1991 MIA @ CHH W 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 4 0 -
+p605
+aVJohn Morton MIA 12/13/1991 MIA @ CHH W 25 4 0 3 0.0 0 0 - 4 4 100.0 0 2 2 7 0 0 2 2 -
+p606
+aVRony Seikaly MIA 12/11/1991 MIA vs. CLE W 39 20 7 18 38.9 0 0 - 6 8 75.0 11 13 24 0 1 0 1 2 -
+p607
+aVKevin Edwards MIA 12/11/1991 MIA vs. CLE W 17 6 3 9 33.3 0 0 - 0 0 - 0 0 0 1 2 0 1 3 -
+p608
+aVAlec Kessler MIA 12/11/1991 MIA vs. CLE W 16 8 4 8 50.0 0 0 - 0 0 - 2 4 6 0 0 2 0 2 -
+p609
+aVGrant Long MIA 12/11/1991 MIA vs. CLE W 41 16 7 16 43.8 0 0 - 2 5 40.0 4 2 6 2 3 0 3 5 -
+p610
+aVBimbo Coles MIA 12/11/1991 MIA vs. CLE W 27 11 4 10 40.0 0 0 - 3 4 75.0 3 2 5 5 2 0 0 3 -
+p611
+aVSteven Smith MIA 12/11/1991 MIA vs. CLE W 27 15 5 8 62.5 1 3 33.3 4 4 100.0 1 3 4 6 0 2 1 1 -
+p612
+aVGlen Rice MIA 12/11/1991 MIA vs. CLE W 44 21 9 19 47.4 1 2 50.0 2 2 100.0 1 4 5 2 3 2 1 3 -
+p613
+aVWillie Burton MIA 12/11/1991 MIA vs. CLE W 29 8 4 17 23.5 0 0 - 0 0 - 1 3 4 2 0 3 2 3 -
+p614
+aVGlen Rice MIA 12/10/1991 MIA @ DAL L 44 18 8 19 42.1 1 5 20.0 1 1 100.0 0 4 4 3 2 1 0 4 -
+p615
+aVSteven Smith MIA 12/10/1991 MIA @ DAL L 38 9 4 10 40.0 0 1 0.0 1 2 50.0 1 1 2 5 2 0 5 3 -
+p616
+aVRony Seikaly MIA 12/10/1991 MIA @ DAL L 42 18 6 14 42.9 0 0 - 6 8 75.0 5 9 14 2 0 2 2 3 -
+p617
+aVGrant Long MIA 12/10/1991 MIA @ DAL L 43 22 6 9 66.7 0 0 - 10 12 83.3 3 4 7 1 3 0 1 6 -
+p618
+aVWillie Burton MIA 12/10/1991 MIA @ DAL L 37 23 8 18 44.4 0 1 0.0 7 7 100.0 1 5 6 3 1 1 2 4 -
+p619
+aVKevin Edwards MIA 12/10/1991 MIA @ DAL L 27 8 2 6 33.3 0 0 - 4 4 100.0 0 4 4 2 0 1 0 1 -
+p620
+aVBimbo Coles MIA 12/10/1991 MIA @ DAL L 17 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 0 0 2 2 -
+p621
+aVAlec Kessler MIA 12/10/1991 MIA @ DAL L 17 6 3 8 37.5 0 0 - 0 0 - 1 2 3 0 1 0 1 3 -
+p622
+aVRony Seikaly MIA 12/07/1991 MIA vs. PHX L 42 18 7 18 38.9 0 0 - 4 5 80.0 4 11 15 2 0 3 2 5 -
+p623
+aVBimbo Coles MIA 12/07/1991 MIA vs. PHX L 22 10 2 7 28.6 0 0 - 6 6 100.0 0 2 2 4 1 1 4 4 -
+p624
+aVSteven Smith MIA 12/07/1991 MIA vs. PHX L 33 16 5 12 41.7 0 1 0.0 6 6 100.0 1 3 4 5 0 0 3 3 -
+p625
+aVWillie Burton MIA 12/07/1991 MIA vs. PHX L 29 18 6 8 75.0 0 0 - 6 7 85.7 0 2 2 4 0 0 3 3 -
+p626
+aVAlec Kessler MIA 12/07/1991 MIA vs. PHX L 20 13 6 7 85.7 0 0 - 1 1 100.0 3 4 7 0 0 1 1 3 -
+p627
+aVKevin Edwards MIA 12/07/1991 MIA vs. PHX L 32 14 7 11 63.6 0 0 - 0 0 - 0 5 5 1 2 0 2 3 -
+p628
+aVGlen Rice MIA 12/07/1991 MIA vs. PHX L 36 7 2 12 16.7 1 3 33.3 2 3 66.7 0 5 5 0 2 0 3 1 -
+p629
+aVGrant Long MIA 12/07/1991 MIA vs. PHX L 26 12 5 8 62.5 0 0 - 2 4 50.0 5 1 6 5 0 0 1 4 -
+p630
+aVGlen Rice MIA 12/04/1991 MIA @ BOS L 39 27 9 18 50.0 1 3 33.3 8 8 100.0 1 2 3 2 1 1 3 2 -
+p631
+aVAlan Ogg MIA 12/04/1991 MIA @ BOS L 9 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -
+p632
+aVGrant Long MIA 12/04/1991 MIA @ BOS L 39 16 7 12 58.3 0 0 - 2 2 100.0 5 6 11 2 2 0 1 4 -
+p633
+aVRony Seikaly MIA 12/04/1991 MIA @ BOS L 35 16 6 17 35.3 0 0 - 4 6 66.7 6 1 7 1 0 1 2 4 -
+p634
+aVBimbo Coles MIA 12/04/1991 MIA @ BOS L 19 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 5 0 0 1 2 -
+p635
+aVAlec Kessler MIA 12/04/1991 MIA @ BOS L 13 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 2 1 -
+p636
+aVSteven Smith MIA 12/04/1991 MIA @ BOS L 32 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 6 2 0 4 3 -
+p637
+aVJohn Morton MIA 12/04/1991 MIA @ BOS L 9 7 3 3 100.0 0 0 - 1 3 33.3 0 0 0 1 1 0 1 0 -
+p638
+aVWillie Burton MIA 12/04/1991 MIA @ BOS L 24 12 5 10 50.0 0 0 - 2 2 100.0 1 2 3 2 1 1 1 3 -
+p639
+aVKeith Askins MIA 12/04/1991 MIA @ BOS L 5 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -
+p640
+aVKevin Edwards MIA 12/04/1991 MIA @ BOS L 16 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -
+p641
+aVAlec Kessler MIA 12/03/1991 MIA vs. POR L 29 9 3 8 37.5 0 0 - 3 4 75.0 3 4 7 2 1 0 3 4 -
+p642
+aVMilos Babic MIA 12/03/1991 MIA vs. POR L 5 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 -
+p643
+aVKevin Edwards MIA 12/03/1991 MIA vs. POR L 19 9 4 10 40.0 0 0 - 1 1 100.0 0 2 2 1 1 0 2 1 -
+p644
+aVBimbo Coles MIA 12/03/1991 MIA vs. POR L 32 15 4 14 28.6 0 2 0.0 7 9 77.8 1 2 3 5 0 0 1 3 -
+p645
+aVGrant Long MIA 12/03/1991 MIA vs. POR L 31 17 5 11 45.5 0 0 - 7 10 70.0 4 4 8 1 1 0 2 0 -
+p646
+aVJohn Morton MIA 12/03/1991 MIA vs. POR L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -
+p647
+aVGlen Rice MIA 12/03/1991 MIA vs. POR L 31 17 8 17 47.1 1 4 25.0 0 0 - 3 3 6 3 2 1 3 1 -
+p648
+aVAlan Ogg MIA 12/03/1991 MIA vs. POR L 21 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 1 2 1 2 -
+p649
+aVKeith Askins MIA 12/03/1991 MIA vs. POR L 21 3 1 8 12.5 0 2 0.0 1 2 50.0 3 3 6 0 1 3 3 3 -
+p650
+aVWillie Burton MIA 12/03/1991 MIA vs. POR L 18 4 2 8 25.0 0 0 - 0 0 - 1 1 2 3 0 0 1 1 -
+p651
+aVSteven Smith MIA 12/03/1991 MIA vs. POR L 23 9 4 12 33.3 1 2 50.0 0 0 - 1 4 5 4 2 0 0 3 -
+p652
+aVGrant Long MIA 11/30/1991 MIA @ ORL L 44 14 6 12 50.0 0 0 - 2 2 100.0 4 4 8 5 1 0 5 2 -
+p653
+aVGlen Rice MIA 11/30/1991 MIA @ ORL L 42 20 8 19 42.1 1 7 14.3 3 5 60.0 1 6 7 3 2 0 4 4 -
+p654
+aVWillie Burton MIA 11/30/1991 MIA @ ORL L 25 14 5 13 38.5 0 0 - 4 6 66.7 1 5 6 2 0 0 2 3 -
+p655
+aVKeith Askins MIA 11/30/1991 MIA @ ORL L 7 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -
+p656
+aVRony Seikaly MIA 11/30/1991 MIA @ ORL L 19 5 2 4 50.0 0 0 - 1 2 50.0 0 5 5 2 1 1 1 1 -
+p657
+aVKevin Edwards MIA 11/30/1991 MIA @ ORL L 22 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 2 1 0 4 0 -
+p658
+aVSteven Smith MIA 11/30/1991 MIA @ ORL L 37 24 9 12 75.0 0 0 - 6 6 100.0 5 1 6 4 1 0 2 5 -
+p659
+aVBimbo Coles MIA 11/30/1991 MIA @ ORL L 30 15 4 7 57.1 0 0 - 7 8 87.5 0 3 3 3 1 1 7 5 -
+p660
+aVAlec Kessler MIA 11/30/1991 MIA @ ORL L 14 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -
+p661
+aVAlec Kessler MIA 11/29/1991 MIA vs. PHL W 12 2 0 3 0.0 0 0 - 2 4 50.0 3 3 6 0 0 1 0 4 -
+p662
+aVSteven Smith MIA 11/29/1991 MIA vs. PHL W 30 12 6 12 50.0 0 1 0.0 0 0 - 2 5 7 6 3 2 2 3 -
+p663
+aVKevin Edwards MIA 11/29/1991 MIA vs. PHL W 18 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 1 0 0 0 5 -
+p664
+aVRony Seikaly MIA 11/29/1991 MIA vs. PHL W 36 20 8 11 72.7 0 0 - 4 4 100.0 5 9 14 1 0 1 3 2 -
+p665
+aVKeith Askins MIA 11/29/1991 MIA vs. PHL W 14 6 2 7 28.6 2 4 50.0 0 0 - 2 2 4 0 0 0 0 1 -
+p666
+aVBimbo Coles MIA 11/29/1991 MIA vs. PHL W 23 16 3 5 60.0 0 0 - 10 10 100.0 2 1 3 3 0 0 1 0 -
+p667
+aVGrant Long MIA 11/29/1991 MIA vs. PHL W 40 9 4 11 36.4 0 1 0.0 1 4 25.0 2 8 10 3 2 1 2 2 -
+p668
+aVGlen Rice MIA 11/29/1991 MIA vs. PHL W 35 17 6 16 37.5 1 3 33.3 4 4 100.0 0 2 2 3 1 0 4 1 -
+p669
+aVWillie Burton MIA 11/29/1991 MIA vs. PHL W 32 7 3 9 33.3 0 0 - 1 2 50.0 1 4 5 2 0 0 2 2 -
+p670
+aVGrant Long MIA 11/27/1991 MIA vs. LAL L 38 15 5 10 50.0 1 1 100.0 4 4 100.0 3 6 9 0 3 1 4 4 -
+p671
+aVRony Seikaly MIA 11/27/1991 MIA vs. LAL L 42 17 8 15 53.3 0 0 - 1 1 100.0 4 7 11 3 0 1 2 4 -
+p672
+aVBimbo Coles MIA 11/27/1991 MIA vs. LAL L 30 13 5 7 71.4 0 1 0.0 3 4 75.0 0 4 4 9 1 0 2 2 -
+p673
+aVWillie Burton MIA 11/27/1991 MIA vs. LAL L 16 10 4 9 44.4 0 0 - 2 2 100.0 1 0 1 0 0 0 1 4 -
+p674
+aVKeith Askins MIA 11/27/1991 MIA vs. LAL L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p675
+aVSteven Smith MIA 11/27/1991 MIA vs. LAL L 19 2 1 4 25.0 0 0 - 0 0 - 1 1 2 5 0 0 1 0 -
+p676
+aVAlec Kessler MIA 11/27/1991 MIA vs. LAL L 15 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 0 0 3 -
+p677
+aVKevin Edwards MIA 11/27/1991 MIA vs. LAL L 35 16 7 16 43.8 0 1 0.0 2 2 100.0 0 0 0 2 3 2 3 1 -
+p678
+aVGlen Rice MIA 11/27/1991 MIA vs. LAL L 39 14 6 9 66.7 2 4 50.0 0 0 - 0 6 6 3 1 1 3 4 -
+p679
+aVBimbo Coles MIA 11/26/1991 MIA @ NYK L 24 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 4 0 0 2 3 -
+p680
+aVGlen Rice MIA 11/26/1991 MIA @ NYK L 36 23 9 20 45.0 1 5 20.0 4 4 100.0 0 9 9 2 3 1 2 3 -
+p681
+aVRony Seikaly MIA 11/26/1991 MIA @ NYK L 39 20 6 12 50.0 0 0 - 8 11 72.7 5 5 10 0 1 2 5 2 -
+p682
+aVGrant Long MIA 11/26/1991 MIA @ NYK L 36 10 5 6 83.3 0 0 - 0 2 0.0 1 3 4 2 3 1 1 0 -
+p683
+aVWillie Burton MIA 11/26/1991 MIA @ NYK L 33 10 4 9 44.4 0 0 - 2 2 100.0 3 1 4 1 0 1 1 2 -
+p684
+aVKevin Edwards MIA 11/26/1991 MIA @ NYK L 19 1 0 6 0.0 0 2 0.0 1 2 50.0 1 4 5 0 0 0 2 1 -
+p685
+aVAlec Kessler MIA 11/26/1991 MIA @ NYK L 17 6 3 4 75.0 0 0 - 0 1 0.0 1 3 4 0 0 0 1 4 -
+p686
+aVSteven Smith MIA 11/26/1991 MIA @ NYK L 29 7 3 10 30.0 1 2 50.0 0 0 - 1 3 4 7 1 0 9 3 -
+p687
+aVAlan Ogg MIA 11/26/1991 MIA @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p688
+aVKeith Askins MIA 11/26/1991 MIA @ NYK L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -
+p689
+aVWillie Burton MIA 11/23/1991 MIA @ IND L 21 10 4 11 36.4 0 0 - 2 2 100.0 1 4 5 2 1 0 3 3 -
+p690
+aVAlan Ogg MIA 11/23/1991 MIA @ IND L 12 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 2 3 -
+p691
+aVKeith Askins MIA 11/23/1991 MIA @ IND L 19 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 2 4 -
+p692
+aVKevin Edwards MIA 11/23/1991 MIA @ IND L 25 6 3 8 37.5 0 0 - 0 0 - 0 1 1 1 1 1 2 2 -
+p693
+aVSteven Smith MIA 11/23/1991 MIA @ IND L 27 13 5 13 38.5 1 4 25.0 2 2 100.0 1 2 3 3 2 0 1 1 -
+p694
+aVGlen Rice MIA 11/23/1991 MIA @ IND L 26 8 4 14 28.6 0 3 0.0 0 0 - 1 2 3 1 0 0 1 2 -
+p695
+aVMilos Babic MIA 11/23/1991 MIA @ IND L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p696
+aVBimbo Coles MIA 11/23/1991 MIA @ IND L 16 1 0 6 0.0 0 1 0.0 1 4 25.0 0 1 1 2 0 0 1 2 -
+p697
+aVJohn Morton MIA 11/23/1991 MIA @ IND L 7 6 1 2 50.0 0 1 0.0 4 4 100.0 0 2 2 0 1 0 3 2 -
+p698
+aVRony Seikaly MIA 11/23/1991 MIA @ IND L 31 10 3 7 42.9 0 0 - 4 6 66.7 4 3 7 1 2 1 2 3 -
+p699
+aVAlec Kessler MIA 11/23/1991 MIA @ IND L 23 10 3 6 50.0 0 0 - 4 4 100.0 1 5 6 0 1 1 0 4 -
+p700
+aVGrant Long MIA 11/23/1991 MIA @ IND L 28 16 3 10 30.0 0 1 0.0 10 10 100.0 6 4 10 4 1 0 1 2 -
+p701
+aVGlen Rice MIA 11/22/1991 MIA vs. SAC W 42 23 10 17 58.8 2 4 50.0 1 2 50.0 2 1 3 5 1 0 2 2 -
+p702
+aVSteven Smith MIA 11/22/1991 MIA vs. SAC W 36 23 7 13 53.8 2 4 50.0 7 8 87.5 3 3 6 7 1 0 6 4 -
+p703
+aVKeith Askins MIA 11/22/1991 MIA vs. SAC W 14 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 1 1 0 1 0 -
+p704
+aVBimbo Coles MIA 11/22/1991 MIA vs. SAC W 22 13 2 8 25.0 1 1 100.0 8 9 88.9 0 0 0 2 1 0 1 4 -
+p705
+aVKevin Edwards MIA 11/22/1991 MIA vs. SAC W 20 9 4 7 57.1 0 0 - 1 2 50.0 1 1 2 0 1 0 3 3 -
+p706
+aVAlec Kessler MIA 11/22/1991 MIA vs. SAC W 6 5 2 2 100.0 0 0 - 1 1 100.0 1 0 1 1 0 0 0 1 -
+p707
+aVGrant Long MIA 11/22/1991 MIA vs. SAC W 33 13 4 11 36.4 0 0 - 5 5 100.0 5 3 8 0 4 0 2 3 -
+p708
+aVRony Seikaly MIA 11/22/1991 MIA vs. SAC W 41 19 8 14 57.1 0 0 - 3 6 50.0 3 9 12 1 1 2 3 3 -
+p709
+aVWillie Burton MIA 11/22/1991 MIA vs. SAC W 26 9 2 7 28.6 0 0 - 5 6 83.3 1 5 6 3 1 0 0 2 -
+p710
+aVKevin Edwards MIA 11/20/1991 MIA @ PHL L 32 23 10 15 66.7 1 1 100.0 2 2 100.0 1 0 1 0 2 0 7 4 -
+p711
+aVKeith Askins MIA 11/20/1991 MIA @ PHL L 12 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 4 0 0 1 5 -
+p712
+aVSteven Smith MIA 11/20/1991 MIA @ PHL L 38 13 6 15 40.0 1 5 20.0 0 0 - 0 2 2 7 1 0 4 2 -
+p713
+aVAlec Kessler MIA 11/20/1991 MIA @ PHL L 6 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -
+p714
+aVWillie Burton MIA 11/20/1991 MIA @ PHL L 16 4 1 6 16.7 0 0 - 2 2 100.0 2 2 4 1 0 0 1 2 -
+p715
+aVBimbo Coles MIA 11/20/1991 MIA @ PHL L 20 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 0 0 0 0 -
+p716
+aVGrant Long MIA 11/20/1991 MIA @ PHL L 37 13 6 11 54.5 0 0 - 1 2 50.0 3 4 7 5 4 0 1 4 -
+p717
+aVGlen Rice MIA 11/20/1991 MIA @ PHL L 37 27 12 17 70.6 3 6 50.0 0 0 - 0 2 2 3 1 0 1 3 -
+p718
+aVRony Seikaly MIA 11/20/1991 MIA @ PHL L 42 19 7 14 50.0 0 0 - 5 5 100.0 4 12 16 5 1 1 1 4 -
+p719
+aVMilos Babic MIA 11/19/1991 MIA vs. UTH W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p720
+aVSteven Smith MIA 11/19/1991 MIA vs. UTH W 34 20 8 13 61.5 1 3 33.3 3 4 75.0 1 1 2 3 1 0 2 3 -
+p721
+aVKevin Edwards MIA 11/19/1991 MIA vs. UTH W 30 14 6 15 40.0 0 0 - 2 2 100.0 2 3 5 1 2 0 0 0 -
+p722
+aVBimbo Coles MIA 11/19/1991 MIA vs. UTH W 31 20 6 13 46.2 2 3 66.7 6 7 85.7 2 2 4 9 2 0 2 2 -
+p723
+aVGrant Long MIA 11/19/1991 MIA vs. UTH W 35 4 2 7 28.6 0 0 - 0 0 - 0 4 4 2 3 0 2 2 -
+p724
+aVKeith Askins MIA 11/19/1991 MIA vs. UTH W 21 12 5 7 71.4 2 4 50.0 0 0 - 1 2 3 2 2 0 1 3 -
+p725
+aVAlan Ogg MIA 11/19/1991 MIA vs. UTH W 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p726
+aVRony Seikaly MIA 11/19/1991 MIA vs. UTH W 34 23 8 10 80.0 0 0 - 7 9 77.8 6 11 17 3 1 2 4 3 -
+p727
+aVGlen Rice MIA 11/19/1991 MIA vs. UTH W 32 15 6 18 33.3 1 5 20.0 2 2 100.0 1 2 3 2 1 0 1 3 -
+p728
+aVAlec Kessler MIA 11/19/1991 MIA vs. UTH W 18 1 0 0 - 0 0 - 1 2 50.0 2 3 5 1 0 0 3 4 -
+p729
+aVKeith Askins MIA 11/16/1991 MIA @ MIL W 19 8 3 6 50.0 1 3 33.3 1 2 50.0 0 1 1 2 1 0 2 3 -
+p730
+aVAlec Kessler MIA 11/16/1991 MIA @ MIL W 18 6 2 6 33.3 0 0 - 2 2 100.0 6 3 9 2 0 1 2 3 -
+p731
+aVRony Seikaly MIA 11/16/1991 MIA @ MIL W 29 16 5 14 35.7 0 0 - 6 9 66.7 4 6 10 3 0 2 2 6 -
+p732
+aVSteven Smith MIA 11/16/1991 MIA @ MIL W 39 14 6 16 37.5 2 3 66.7 0 0 - 4 4 8 5 0 0 2 5 -
+p733
+aVGrant Long MIA 11/16/1991 MIA @ MIL W 43 22 8 15 53.3 0 0 - 6 6 100.0 3 7 10 2 2 2 6 3 -
+p734
+aVAlan Ogg MIA 11/16/1991 MIA @ MIL W 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 5 -
+p735
+aVGlen Rice MIA 11/16/1991 MIA @ MIL W 49 30 13 22 59.1 4 7 57.1 0 0 - 0 2 2 5 2 2 1 1 -
+p736
+aVBimbo Coles MIA 11/16/1991 MIA @ MIL W 33 11 4 5 80.0 1 2 50.0 2 3 66.7 1 2 3 6 1 0 5 5 -
+p737
+aVKevin Edwards MIA 11/16/1991 MIA @ MIL W 25 11 5 13 38.5 0 1 0.0 1 1 100.0 1 1 2 2 1 0 1 3 -
+p738
+aVKevin Edwards MIA 11/15/1991 MIA vs. CHH W 24 9 3 9 33.3 0 0 - 3 3 100.0 1 1 2 4 1 0 1 3 -
+p739
+aVAlec Kessler MIA 11/15/1991 MIA vs. CHH W 10 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 0 0 0 1 0 -
+p740
+aVGrant Long MIA 11/15/1991 MIA vs. CHH W 42 24 9 16 56.3 0 0 - 6 9 66.7 3 7 10 3 2 1 2 4 -
+p741
+aVAlan Ogg MIA 11/15/1991 MIA vs. CHH W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p742
+aVRony Seikaly MIA 11/15/1991 MIA vs. CHH W 37 9 3 9 33.3 0 0 - 3 4 75.0 4 9 13 4 1 2 1 3 -
+p743
+aVWillie Burton MIA 11/15/1991 MIA vs. CHH W 23 10 5 11 45.5 0 1 0.0 0 0 - 2 1 3 3 2 0 2 4 -
+p744
+aVSteven Smith MIA 11/15/1991 MIA vs. CHH W 31 10 3 9 33.3 2 2 100.0 2 2 100.0 1 1 2 5 0 0 1 2 -
+p745
+aVKeith Askins MIA 11/15/1991 MIA vs. CHH W 11 3 1 2 50.0 1 1 100.0 0 0 - 2 2 4 1 0 0 3 0 -
+p746
+aVGlen Rice MIA 11/15/1991 MIA vs. CHH W 37 33 14 27 51.9 2 4 50.0 3 3 100.0 0 4 4 4 1 0 1 2 -
+p747
+aVBimbo Coles MIA 11/15/1991 MIA vs. CHH W 24 17 7 8 87.5 0 0 - 3 3 100.0 0 1 1 7 2 0 4 3 -
+p748
+aVRony Seikaly MIA 11/13/1991 MIA vs. DET W 24 11 3 10 30.0 0 0 - 5 6 83.3 2 4 6 0 2 1 0 2 -
+p749
+aVAlec Kessler MIA 11/13/1991 MIA vs. DET W 23 8 3 4 75.0 0 0 - 2 4 50.0 1 3 4 0 0 1 0 2 -
+p750
+aVBimbo Coles MIA 11/13/1991 MIA vs. DET W 28 19 6 10 60.0 0 0 - 7 8 87.5 0 3 3 5 1 0 1 3 -
+p751
+aVKeith Askins MIA 11/13/1991 MIA vs. DET W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -
+p752
+aVGlen Rice MIA 11/13/1991 MIA vs. DET W 40 18 7 16 43.8 2 6 33.3 2 4 50.0 1 2 3 4 0 0 4 3 -
+p753
+aVWillie Burton MIA 11/13/1991 MIA vs. DET W 28 17 6 13 46.2 1 1 100.0 4 4 100.0 5 3 8 1 2 2 1 1 -
+p754
+aVSteven Smith MIA 11/13/1991 MIA vs. DET W 23 9 4 8 50.0 1 2 50.0 0 0 - 3 0 3 3 0 0 1 1 -
+p755
+aVKevin Edwards MIA 11/13/1991 MIA vs. DET W 25 15 7 13 53.8 0 0 - 1 2 50.0 4 4 8 3 2 0 4 3 -
+p756
+aVGrant Long MIA 11/13/1991 MIA vs. DET W 38 8 3 14 21.4 0 0 - 2 2 100.0 3 7 10 3 1 1 2 3 -
+p757
+aVGlen Rice MIA 11/09/1991 MIA @ ATL L 40 24 9 23 39.1 1 4 25.0 5 6 83.3 3 8 11 5 2 0 2 4 -
+p758
+aVBimbo Coles MIA 11/09/1991 MIA @ ATL L 18 4 2 3 66.7 0 0 - 0 0 - 1 0 1 4 0 0 4 1 -
+p759
+aVJon Sundvold MIA 11/09/1991 MIA @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p760
+aVWillie Burton MIA 11/09/1991 MIA @ ATL L 38 13 6 14 42.9 0 1 0.0 1 3 33.3 2 6 8 0 0 2 3 4 -
+p761
+aVAlan Ogg MIA 11/09/1991 MIA @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p762
+aVRony Seikaly MIA 11/09/1991 MIA @ ATL L 38 15 5 12 41.7 0 0 - 5 7 71.4 5 10 15 2 1 0 4 5 -
+p763
+aVKevin Edwards MIA 11/09/1991 MIA @ ATL L 25 12 5 10 50.0 1 1 100.0 1 2 50.0 0 1 1 3 0 0 0 2 -
+p764
+aVGrant Long MIA 11/09/1991 MIA @ ATL L 35 12 2 5 40.0 0 0 - 8 14 57.1 5 6 11 2 3 0 2 2 -
+p765
+aVKeith Askins MIA 11/09/1991 MIA @ ATL L 14 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 0 1 0 -
+p766
+aVSteven Smith MIA 11/09/1991 MIA @ ATL L 30 11 2 11 18.2 0 4 0.0 7 8 87.5 4 2 6 3 0 0 0 2 -
+p767
+aVGlen Rice MIA 11/07/1991 MIA @ NJN W 22 5 2 9 22.2 0 2 0.0 1 3 33.3 0 1 1 1 0 0 3 3 -
+p768
+aVSteven Smith MIA 11/07/1991 MIA @ NJN W 20 13 6 10 60.0 1 2 50.0 0 2 0.0 2 1 3 3 1 0 2 4 -
+p769
+aVRony Seikaly MIA 11/07/1991 MIA @ NJN W 32 16 5 14 35.7 0 0 - 6 10 60.0 6 7 13 2 1 1 3 3 -
+p770
+aVWillie Burton MIA 11/07/1991 MIA @ NJN W 36 24 9 12 75.0 0 0 - 6 11 54.5 3 6 9 1 1 1 2 3 -
+p771
+aVKeith Askins MIA 11/07/1991 MIA @ NJN W 6 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 2 1 -
+p772
+aVAlec Kessler MIA 11/07/1991 MIA @ NJN W 17 2 1 5 20.0 0 0 - 0 0 - 3 1 4 0 0 1 0 1 -
+p773
+aVJon Sundvold MIA 11/07/1991 MIA @ NJN W 6 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 -
+p774
+aVAlan Ogg MIA 11/07/1991 MIA @ NJN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p775
+aVGrant Long MIA 11/07/1991 MIA @ NJN W 42 22 8 12 66.7 0 0 - 6 7 85.7 4 7 11 1 1 0 1 2 -
+p776
+aVKevin Edwards MIA 11/07/1991 MIA @ NJN W 25 10 4 9 44.4 0 0 - 2 2 100.0 1 2 3 0 5 0 3 0 -
+p777
+aVBimbo Coles MIA 11/07/1991 MIA @ NJN W 29 14 5 12 41.7 0 0 - 4 4 100.0 2 1 3 4 3 0 3 3 -
+p778
+aVAlec Kessler MIA 11/05/1991 MIA vs. BOS L 21 2 1 8 12.5 0 0 - 0 0 - 3 6 9 0 1 0 1 3 -
+p779
+aVRony Seikaly MIA 11/05/1991 MIA vs. BOS L 40 16 6 14 42.9 0 0 - 4 5 80.0 6 9 15 2 2 3 4 5 -
+p780
+aVKevin Edwards MIA 11/05/1991 MIA vs. BOS L 15 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 3 0 1 0 2 -
+p781
+aVWillie Burton MIA 11/05/1991 MIA vs. BOS L 23 8 2 7 28.6 0 0 - 4 4 100.0 0 2 2 2 3 0 2 2 -
+p782
+aVKeith Askins MIA 11/05/1991 MIA vs. BOS L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 1 1 1 -
+p783
+aVSteven Smith MIA 11/05/1991 MIA vs. BOS L 37 12 3 7 42.9 0 0 - 6 10 60.0 0 3 3 5 0 0 3 2 -
+p784
+aVBimbo Coles MIA 11/05/1991 MIA vs. BOS L 24 16 5 8 62.5 0 0 - 6 6 100.0 0 0 0 1 1 0 2 0 -
+p785
+aVGlen Rice MIA 11/05/1991 MIA vs. BOS L 39 16 6 17 35.3 1 6 16.7 3 4 75.0 0 6 6 3 1 0 2 5 -
+p786
+aVGrant Long MIA 11/05/1991 MIA vs. BOS L 29 11 3 8 37.5 0 0 - 5 5 100.0 3 2 5 0 0 1 1 4 -
+p787
+aVJon Sundvold MIA 11/05/1991 MIA vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p788
+aVBimbo Coles MIA 11/02/1991 MIA vs. NYK W 25 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 5 1 0 2 3 -
+p789
+aVGrant Long MIA 11/02/1991 MIA vs. NYK W 38 15 5 9 55.6 0 0 - 5 6 83.3 0 4 4 3 1 1 1 1 -
+p790
+aVKeith Askins MIA 11/02/1991 MIA vs. NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p791
+aVAlec Kessler MIA 11/02/1991 MIA vs. NYK W 13 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 0 5 -
+p792
+aVRony Seikaly MIA 11/02/1991 MIA vs. NYK W 39 12 6 11 54.5 0 0 - 0 0 - 2 9 11 0 0 4 6 4 -
+p793
+aVWillie Burton MIA 11/02/1991 MIA vs. NYK W 16 5 2 7 28.6 0 0 - 1 2 50.0 1 2 3 1 0 0 2 5 -
+p794
+aVSteven Smith MIA 11/02/1991 MIA vs. NYK W 38 24 8 11 72.7 2 2 100.0 6 6 100.0 0 6 6 5 2 0 5 3 -
+p795
+aVGlen Rice MIA 11/02/1991 MIA vs. NYK W 42 29 10 22 45.5 1 5 20.0 8 8 100.0 3 5 8 1 1 1 1 0 -
+p796
+aVKevin Edwards MIA 11/02/1991 MIA vs. NYK W 24 8 3 8 37.5 0 0 - 2 2 100.0 0 5 5 2 2 2 0 2 -
+p797
+a.

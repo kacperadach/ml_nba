@@ -1,0 +1,1770 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrent Barry LAC 04/19/1997 LAC @ SEA L 17 5 2 6 33.3 1 4 25.0 0 2 0.0 0 0 0 2 1 0 0 2 2
+p2
+aVEric Piatkowski LAC 04/19/1997 LAC @ SEA L 12 12 4 9 44.4 1 1 100.0 3 4 75.0 0 2 2 1 0 0 1 0 -3
+p3
+aVDarrick Martin LAC 04/19/1997 LAC @ SEA L 18 0 0 6 0.0 0 2 0.0 0 0 - 1 1 2 5 0 0 3 3 -17
+p4
+aVRichard Manning LAC 04/19/1997 LAC @ SEA L 14 6 3 6 50.0 0 0 - 0 0 - 3 2 5 1 0 0 0 2 10
+p5
+aVLoy Vaught LAC 04/19/1997 LAC @ SEA L 30 16 7 14 50.0 0 0 - 2 3 66.7 5 8 13 1 0 0 1 1 -10
+p6
+aVRodney Rogers LAC 04/19/1997 LAC @ SEA L 27 13 5 11 45.5 2 4 50.0 1 1 100.0 2 1 3 1 1 2 3 4 -31
+p7
+aVLamond Murray LAC 04/19/1997 LAC @ SEA L 21 19 5 7 71.4 2 3 66.7 7 7 100.0 1 1 2 2 0 2 1 2 6
+p8
+aVPooh Richardson LAC 04/19/1997 LAC @ SEA L 21 15 6 10 60.0 1 3 33.3 2 4 50.0 0 1 1 4 2 0 2 2 -4
+p9
+aVLorenzen Wright LAC 04/19/1997 LAC @ SEA L 29 4 1 4 25.0 0 0 - 2 4 50.0 4 2 6 0 0 3 0 2 -34
+p10
+aVMalik Sealy LAC 04/19/1997 LAC @ SEA L 14 0 0 6 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -28
+p11
+aVBo Outlaw LAC 04/19/1997 LAC @ SEA L 20 2 1 3 33.3 0 1 0.0 0 1 0.0 2 1 3 3 0 1 1 6 -17
+p12
+aVTerry Dehere LAC 04/19/1997 LAC @ SEA L 17 8 2 5 40.0 0 1 0.0 4 4 100.0 1 1 2 1 1 0 0 2 1
+p13
+aVMalik Sealy LAC 04/18/1997 LAC vs. LAL L 24 8 2 8 25.0 2 6 33.3 2 2 100.0 0 0 0 1 0 0 1 1 -26
+p14
+aVBrent Barry LAC 04/18/1997 LAC vs. LAL L 30 11 4 7 57.1 2 4 50.0 1 2 50.0 0 2 2 11 2 0 4 4 -11
+p15
+aVPooh Richardson LAC 04/18/1997 LAC vs. LAL L 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -2
+p16
+aVLorenzen Wright LAC 04/18/1997 LAC vs. LAL L 31 12 6 13 46.2 0 0 - 0 0 - 3 6 9 0 1 2 3 5 -24
+p17
+aVRichard Manning LAC 04/18/1997 LAC vs. LAL L 4 3 1 3 33.3 0 0 - 1 4 25.0 1 0 1 0 0 0 0 2 -3
+p18
+aVLamond Murray LAC 04/18/1997 LAC vs. LAL L 21 8 2 4 50.0 0 1 0.0 4 6 66.7 1 0 1 0 0 1 1 3 -3
+p19
+aVLoy Vaught LAC 04/18/1997 LAC vs. LAL L 28 10 5 11 45.5 0 0 - 0 2 0.0 2 6 8 4 1 0 1 3 -35
+p20
+aVRodney Rogers LAC 04/18/1997 LAC vs. LAL L 27 15 6 13 46.2 2 3 66.7 1 1 100.0 2 2 4 2 0 0 3 4 -25
+p21
+aVEric Piatkowski LAC 04/18/1997 LAC vs. LAL L 19 15 5 6 83.3 2 3 66.7 3 3 100.0 0 0 0 0 0 0 1 2 -4
+p22
+aVTerry Dehere LAC 04/18/1997 LAC vs. LAL L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p23
+aVBo Outlaw LAC 04/18/1997 LAC vs. LAL L 33 9 3 6 50.0 0 0 - 3 6 50.0 2 4 6 4 3 5 3 2 6
+p24
+aVDarrick Martin LAC 04/18/1997 LAC vs. LAL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 3 0 -15
+p25
+aVMalik Sealy LAC 04/15/1997 LAC @ HOU L 28 7 3 11 27.3 1 5 20.0 0 1 0.0 0 2 2 4 1 0 2 3 -19
+p26
+aVDarrick Martin LAC 04/15/1997 LAC @ HOU L 20 4 2 7 28.6 0 0 - 0 0 - 0 1 1 7 0 0 1 1 -7
+p27
+aVBo Outlaw LAC 04/15/1997 LAC @ HOU L 30 7 3 4 75.0 0 0 - 1 2 50.0 2 3 5 5 4 1 2 4 -11
+p28
+aVEric Piatkowski LAC 04/15/1997 LAC @ HOU L 13 10 4 6 66.7 1 3 33.3 1 1 100.0 0 1 1 1 1 0 0 2 16
+p29
+aVBrent Barry LAC 04/15/1997 LAC @ HOU L 28 13 5 10 50.0 3 7 42.9 0 0 - 0 3 3 9 1 0 3 0 3
+p30
+aVRodney Rogers LAC 04/15/1997 LAC @ HOU L 43 34 13 18 72.2 4 8 50.0 4 4 100.0 1 4 5 1 2 1 4 4 -5
+p31
+aVLamond Murray LAC 04/15/1997 LAC @ HOU L 24 18 6 10 60.0 1 4 25.0 5 6 83.3 5 4 9 1 2 0 2 5 9
+p32
+aVLoy Vaught LAC 04/15/1997 LAC @ HOU L 41 22 10 18 55.6 0 1 0.0 2 2 100.0 4 7 11 3 1 0 1 3 2
+p33
+aVRichard Manning LAC 04/15/1997 LAC @ HOU L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -8
+p34
+aVTerry Dehere LAC 04/15/1997 LAC @ HOU L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 0
+p35
+aVLamond Murray LAC 04/14/1997 LAC @ DAL W 20 11 3 6 50.0 1 2 50.0 4 5 80.0 1 2 3 1 0 0 2 1 1
+p36
+aVEric Piatkowski LAC 04/14/1997 LAC @ DAL W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p37
+aVRichard Manning LAC 04/14/1997 LAC @ DAL W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p38
+aVRodney Rogers LAC 04/14/1997 LAC @ DAL W 28 9 3 9 33.3 0 1 0.0 3 4 75.0 4 3 7 4 0 0 6 5 6
+p39
+aVLorenzen Wright LAC 04/14/1997 LAC @ DAL W 34 4 2 6 33.3 0 0 - 0 0 - 3 5 8 2 1 1 2 2 7
+p40
+aVTerry Dehere LAC 04/14/1997 LAC @ DAL W 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 6
+p41
+aVDarrick Martin LAC 04/14/1997 LAC @ DAL W 33 21 4 12 33.3 2 6 33.3 11 12 91.7 0 1 1 5 2 0 1 2 10
+p42
+aVBo Outlaw LAC 04/14/1997 LAC @ DAL W 23 8 4 6 66.7 0 1 0.0 0 0 - 4 3 7 1 3 3 2 2 9
+p43
+aVBrent Barry LAC 04/14/1997 LAC @ DAL W 15 14 5 10 50.0 2 4 50.0 2 4 50.0 0 1 1 2 2 1 4 2 -4
+p44
+aVMalik Sealy LAC 04/14/1997 LAC @ DAL W 29 15 5 10 50.0 1 2 50.0 4 5 80.0 0 4 4 3 0 1 0 2 -2
+p45
+aVLoy Vaught LAC 04/14/1997 LAC @ DAL W 35 14 7 13 53.8 0 0 - 0 0 - 2 13 15 0 1 1 4 5 -2
+p46
+aVLoy Vaught LAC 04/12/1997 LAC vs. DEN W 29 10 4 8 50.0 0 0 - 2 3 66.7 2 7 9 2 2 0 1 4 7
+p47
+aVRichard Manning LAC 04/12/1997 LAC vs. DEN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p48
+aVBo Outlaw LAC 04/12/1997 LAC vs. DEN W 24 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 0 3 1 0 3 9
+p49
+aVBrent Barry LAC 04/12/1997 LAC vs. DEN W 23 7 3 6 50.0 0 2 0.0 1 2 50.0 1 3 4 8 4 0 2 2 17
+p50
+aVRodney Rogers LAC 04/12/1997 LAC vs. DEN W 37 26 10 16 62.5 5 5 100.0 1 2 50.0 0 5 5 4 1 4 1 3 24
+p51
+aVDarrick Martin LAC 04/12/1997 LAC vs. DEN W 17 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 5 1 0 2 1 4
+p52
+aVEric Piatkowski LAC 04/12/1997 LAC vs. DEN W 9 11 4 6 66.7 1 3 33.3 2 2 100.0 0 1 1 1 0 1 0 0 7
+p53
+aVMalik Sealy LAC 04/12/1997 LAC vs. DEN W 34 19 8 17 47.1 3 5 60.0 0 0 - 0 3 3 1 2 1 2 0 20
+p54
+aVLamond Murray LAC 04/12/1997 LAC vs. DEN W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 1 0 4
+p55
+aVLorenzen Wright LAC 04/12/1997 LAC vs. DEN W 46 23 10 14 71.4 0 0 - 3 3 100.0 5 9 14 2 1 1 0 3 22
+p56
+aVTerry Dehere LAC 04/12/1997 LAC vs. DEN W 8 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 0 0 0 2 2 -7
+p57
+aVPooh Richardson LAC 04/12/1997 LAC vs. DEN W 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 1 1 3
+p58
+aVLamond Murray LAC 04/10/1997 LAC vs. MIN L 13 7 1 4 25.0 0 1 0.0 5 5 100.0 0 3 3 1 1 0 1 1 -2
+p59
+aVLorenzen Wright LAC 04/10/1997 LAC vs. MIN L 36 7 3 13 23.1 0 0 - 1 2 50.0 10 2 12 0 1 3 1 2 9
+p60
+aVRichard Manning LAC 04/10/1997 LAC vs. MIN L 1 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 0 1
+p61
+aVRodney Rogers LAC 04/10/1997 LAC vs. MIN L 45 30 11 15 73.3 4 4 100.0 4 6 66.7 2 7 9 3 4 0 3 2 -11
+p62
+aVLoy Vaught LAC 04/10/1997 LAC vs. MIN L 36 16 6 13 46.2 0 0 - 4 7 57.1 0 5 5 0 2 0 2 3 -12
+p63
+aVPooh Richardson LAC 04/10/1997 LAC vs. MIN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p64
+aVEric Piatkowski LAC 04/10/1997 LAC vs. MIN L 2 7 2 3 66.7 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 2 1
+p65
+aVMalik Sealy LAC 04/10/1997 LAC vs. MIN L 28 1 0 9 0.0 0 2 0.0 1 2 50.0 0 0 0 2 3 1 3 5 -23
+p66
+aVDarrick Martin LAC 04/10/1997 LAC vs. MIN L 19 6 1 7 14.3 1 3 33.3 3 4 75.0 0 0 0 2 0 0 0 2 -20
+p67
+aVTerry Dehere LAC 04/10/1997 LAC vs. MIN L 16 15 6 10 60.0 2 5 40.0 1 2 50.0 0 2 2 2 0 0 2 1 15
+p68
+aVBrent Barry LAC 04/10/1997 LAC vs. MIN L 29 5 2 8 25.0 0 4 0.0 1 1 100.0 0 3 3 3 1 2 3 3 8
+p69
+aVBo Outlaw LAC 04/10/1997 LAC vs. MIN L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 0 -22
+p70
+aVRodney Rogers LAC 04/08/1997 LAC vs. HOU L 13 10 4 7 57.1 1 2 50.0 1 2 50.0 0 3 3 2 1 0 0 1 3
+p71
+aVLoy Vaught LAC 04/08/1997 LAC vs. HOU L 33 18 8 14 57.1 0 0 - 2 4 50.0 1 3 4 3 4 1 1 6 -7
+p72
+aVTerry Dehere LAC 04/08/1997 LAC vs. HOU L 12 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 1 0 0 0 3 -11
+p73
+aVEric Piatkowski LAC 04/08/1997 LAC vs. HOU L 10 11 4 6 66.7 1 2 50.0 2 2 100.0 1 3 4 1 2 0 0 1 -5
+p74
+aVDarrick Martin LAC 04/08/1997 LAC vs. HOU L 23 5 2 12 16.7 1 5 20.0 0 0 - 0 0 0 5 0 0 0 0 -3
+p75
+aVLamond Murray LAC 04/08/1997 LAC vs. HOU L 22 10 2 7 28.6 0 2 0.0 6 7 85.7 1 3 4 1 2 2 1 1 -14
+p76
+aVMalik Sealy LAC 04/08/1997 LAC vs. HOU L 39 26 10 17 58.8 3 6 50.0 3 3 100.0 1 4 5 4 2 0 1 1 -5
+p77
+aVRichard Manning LAC 04/08/1997 LAC vs. HOU L 8 2 0 4 0.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 1 3
+p78
+aVBrent Barry LAC 04/08/1997 LAC vs. HOU L 25 13 4 9 44.4 1 5 20.0 4 4 100.0 2 2 4 5 2 0 1 5 -7
+p79
+aVLorenzen Wright LAC 04/08/1997 LAC vs. HOU L 26 13 6 12 50.0 0 0 - 1 4 25.0 5 2 7 2 0 2 3 4 -6
+p80
+aVPooh Richardson LAC 04/08/1997 LAC vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p81
+aVBo Outlaw LAC 04/08/1997 LAC vs. HOU L 27 3 1 1 100.0 0 0 - 1 2 50.0 3 2 5 3 1 2 1 5 -3
+p82
+aVRichard Manning LAC 04/06/1997 LAC @ NJN W 6 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 0 4
+p83
+aVRodney Rogers LAC 04/06/1997 LAC @ NJN W 33 16 7 10 70.0 0 0 - 2 5 40.0 2 4 6 6 0 0 2 3 10
+p84
+aVLorenzen Wright LAC 04/06/1997 LAC @ NJN W 24 6 1 4 25.0 0 0 - 4 5 80.0 2 1 3 1 0 0 1 2 0
+p85
+aVBo Outlaw LAC 04/06/1997 LAC @ NJN W 38 9 4 6 66.7 0 0 - 1 4 25.0 4 8 12 5 4 5 3 2 4
+p86
+aVDarrick Martin LAC 04/06/1997 LAC @ NJN W 30 15 4 8 50.0 3 3 100.0 4 6 66.7 0 1 1 4 1 0 2 4 17
+p87
+aVMalik Sealy LAC 04/06/1997 LAC @ NJN W 34 10 4 12 33.3 0 4 0.0 2 2 100.0 0 4 4 3 4 0 2 4 0
+p88
+aVTerry Dehere LAC 04/06/1997 LAC @ NJN W 15 15 5 11 45.5 3 8 37.5 2 2 100.0 0 1 1 1 0 0 0 3 10
+p89
+aVLoy Vaught LAC 04/06/1997 LAC @ NJN W 33 20 10 16 62.5 0 0 - 0 3 0.0 2 9 11 3 1 1 2 2 0
+p90
+aVPooh Richardson LAC 04/06/1997 LAC @ NJN W 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p91
+aVBrent Barry LAC 04/06/1997 LAC @ NJN W 12 3 1 6 16.7 0 3 0.0 1 1 100.0 0 1 1 4 0 0 1 0 -5
+p92
+aVLamond Murray LAC 04/06/1997 LAC @ NJN W 10 7 3 4 75.0 1 1 100.0 0 2 0.0 0 1 1 0 2 1 0 0 2
+p93
+aVLorenzen Wright LAC 04/04/1997 LAC @ BOS W 25 10 5 5 100.0 0 0 - 0 0 - 2 7 9 1 0 3 0 6 3
+p94
+aVRodney Rogers LAC 04/04/1997 LAC @ BOS W 30 13 5 13 38.5 1 3 33.3 2 4 50.0 3 3 6 4 2 0 2 4 -2
+p95
+aVBo Outlaw LAC 04/04/1997 LAC @ BOS W 24 10 5 7 71.4 0 0 - 0 4 0.0 4 6 10 2 0 3 0 4 -7
+p96
+aVRichard Manning LAC 04/04/1997 LAC @ BOS W 14 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 9
+p97
+aVLamond Murray LAC 04/04/1997 LAC @ BOS W 16 24 11 15 73.3 0 2 0.0 2 2 100.0 2 5 7 0 1 1 0 3 23
+p98
+aVDarrick Martin LAC 04/04/1997 LAC @ BOS W 23 10 4 8 50.0 2 4 50.0 0 0 - 2 1 3 7 1 0 0 0 -12
+p99
+aVBrent Barry LAC 04/04/1997 LAC @ BOS W 27 8 3 12 25.0 2 8 25.0 0 0 - 0 1 1 6 1 0 0 2 28
+p100
+aVMalik Sealy LAC 04/04/1997 LAC @ BOS W 23 9 4 13 30.8 1 4 25.0 0 0 - 1 3 4 3 0 1 0 1 -11
+p101
+aVTerry Dehere LAC 04/04/1997 LAC @ BOS W 24 17 4 10 40.0 3 5 60.0 6 7 85.7 0 1 1 7 2 0 1 2 29
+p102
+aVLoy Vaught LAC 04/04/1997 LAC @ BOS W 32 12 6 11 54.5 0 0 - 0 0 - 2 3 5 1 0 0 2 3 15
+p103
+aVMalik Sealy LAC 04/03/1997 LAC @ ORL W 28 9 3 9 33.3 1 5 20.0 2 2 100.0 0 4 4 5 1 1 3 4 14
+p104
+aVRichard Manning LAC 04/03/1997 LAC @ ORL W 14 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 17
+p105
+aVLoy Vaught LAC 04/03/1997 LAC @ ORL W 34 15 5 11 45.5 0 0 - 5 6 83.3 1 7 8 2 1 0 1 1 5
+p106
+aVBrent Barry LAC 04/03/1997 LAC @ ORL W 20 10 5 7 71.4 0 2 0.0 0 0 - 0 1 1 4 1 0 3 3 5
+p107
+aVLorenzen Wright LAC 04/03/1997 LAC @ ORL W 27 7 2 6 33.3 0 0 - 3 4 75.0 2 3 5 0 1 0 1 2 4
+p108
+aVBo Outlaw LAC 04/03/1997 LAC @ ORL W 34 12 5 7 71.4 0 0 - 2 3 66.7 4 6 10 2 1 0 0 4 24
+p109
+aVTerry Dehere LAC 04/03/1997 LAC @ ORL W 19 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 6 0 0 2 4 3
+p110
+aVRodney Rogers LAC 04/03/1997 LAC @ ORL W 21 9 4 6 66.7 1 1 100.0 0 0 - 0 3 3 2 0 1 1 5 12
+p111
+aVDarrick Martin LAC 04/03/1997 LAC @ ORL W 29 31 10 14 71.4 5 6 83.3 6 7 85.7 0 1 1 3 0 0 2 2 16
+p112
+aVEric Piatkowski LAC 04/03/1997 LAC @ ORL W 14 7 3 9 33.3 1 2 50.0 0 0 - 3 0 3 2 0 1 0 1 -5
+p113
+aVPooh Richardson LAC 04/03/1997 LAC @ ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p114
+aVLoy Vaught LAC 04/01/1997 LAC @ MIA L 47 24 12 20 60.0 0 0 - 0 0 - 3 8 11 0 2 0 1 3 -7
+p115
+aVMalik Sealy LAC 04/01/1997 LAC @ MIA L 32 14 5 12 41.7 2 5 40.0 2 2 100.0 0 1 1 2 0 2 1 2 -20
+p116
+aVTerry Dehere LAC 04/01/1997 LAC @ MIA L 16 12 4 8 50.0 1 1 100.0 3 4 75.0 0 2 2 3 0 0 2 2 10
+p117
+aVEric Piatkowski LAC 04/01/1997 LAC @ MIA L 31 15 6 12 50.0 3 3 100.0 0 0 - 1 1 2 2 0 0 1 2 10
+p118
+aVBrent Barry LAC 04/01/1997 LAC @ MIA L 23 0 0 7 0.0 0 3 0.0 0 0 - 0 2 2 3 0 0 0 0 -6
+p119
+aVRodney Rogers LAC 04/01/1997 LAC @ MIA L 18 7 3 7 42.9 1 1 100.0 0 0 - 1 1 2 0 0 1 3 4 -20
+p120
+aVLamond Murray LAC 04/01/1997 LAC @ MIA L 17 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 1 1 1 1 -20
+p121
+aVBo Outlaw LAC 04/01/1997 LAC @ MIA L 30 8 4 6 66.7 0 0 - 0 2 0.0 3 5 8 6 0 1 1 3 10
+p122
+aVDarrick Martin LAC 04/01/1997 LAC @ MIA L 26 5 2 8 25.0 1 3 33.3 0 0 - 1 1 2 8 2 0 3 3 -7
+p123
+aVLorenzen Wright LAC 03/30/1997 LAC @ IND L 35 5 2 6 33.3 0 0 - 1 2 50.0 2 6 8 1 2 0 2 5 -11
+p124
+aVLoy Vaught LAC 03/30/1997 LAC @ IND L 28 16 8 14 57.1 0 0 - 0 0 - 2 1 3 0 0 0 0 5 -4
+p125
+aVBrent Barry LAC 03/30/1997 LAC @ IND L 33 15 5 13 38.5 2 5 40.0 3 4 75.0 1 1 2 3 0 1 2 4 -2
+p126
+aVRodney Rogers LAC 03/30/1997 LAC @ IND L 53 15 5 13 38.5 1 5 20.0 4 5 80.0 1 7 8 3 1 0 7 2 -7
+p127
+aVMalik Sealy LAC 03/30/1997 LAC @ IND L 49 24 8 17 47.1 3 5 60.0 5 5 100.0 1 6 7 4 8 1 2 3 -9
+p128
+aVDarrick Martin LAC 03/30/1997 LAC @ IND L 27 13 5 15 33.3 3 8 37.5 0 0 - 0 0 0 7 1 0 2 1 -4
+p129
+aVBo Outlaw LAC 03/30/1997 LAC @ IND L 39 8 4 7 57.1 0 0 - 0 0 - 2 3 5 7 2 2 0 1 3
+p130
+aVEric Piatkowski LAC 03/30/1997 LAC @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p131
+aVPooh Richardson LAC 03/28/1997 LAC @ DET L 9 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 3 0 0 1 1 -7
+p132
+aVBo Outlaw LAC 03/28/1997 LAC @ DET L 34 10 5 8 62.5 0 0 - 0 0 - 2 1 3 3 0 1 2 4 -5
+p133
+aVRodney Rogers LAC 03/28/1997 LAC @ DET L 16 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 4 2 0 4 4 -1
+p134
+aVEric Piatkowski LAC 03/28/1997 LAC @ DET L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 2 0 0 0 -5
+p135
+aVTerry Dehere LAC 03/28/1997 LAC @ DET L 9 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 1 0 0 3 3 -7
+p136
+aVLorenzen Wright LAC 03/28/1997 LAC @ DET L 34 7 3 6 50.0 0 0 - 1 2 50.0 5 5 10 0 0 0 0 3 -36
+p137
+aVBrent Barry LAC 03/28/1997 LAC @ DET L 17 14 5 9 55.6 1 4 25.0 3 3 100.0 0 1 1 0 0 0 2 4 -6
+p138
+aVDarrick Martin LAC 03/28/1997 LAC @ DET L 30 12 4 11 36.4 2 5 40.0 2 2 100.0 0 1 1 5 0 0 2 0 -10
+p139
+aVLamond Murray LAC 03/28/1997 LAC @ DET L 18 6 2 4 50.0 1 2 50.0 1 1 100.0 0 4 4 0 1 0 0 0 -18
+p140
+aVLoy Vaught LAC 03/28/1997 LAC @ DET L 33 14 6 15 40.0 0 0 - 2 2 100.0 1 8 9 3 0 0 2 1 -17
+p141
+aVMalik Sealy LAC 03/28/1997 LAC @ DET L 29 6 1 8 12.5 0 2 0.0 4 5 80.0 0 0 0 3 1 0 2 1 -28
+p142
+aVEric Piatkowski LAC 03/27/1997 LAC @ ATL L 19 8 3 7 42.9 1 2 50.0 1 2 50.0 2 2 4 1 0 0 3 1 4
+p143
+aVPooh Richardson LAC 03/27/1997 LAC @ ATL L 10 6 2 5 40.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 1 2
+p144
+aVDwayne Schintzius LAC 03/27/1997 LAC @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 1 1 3 4
+p145
+aVLoy Vaught LAC 03/27/1997 LAC @ ATL L 30 10 4 10 40.0 0 1 0.0 2 2 100.0 3 8 11 1 1 0 0 2 -13
+p146
+aVLorenzen Wright LAC 03/27/1997 LAC @ ATL L 26 20 10 11 90.9 0 0 - 0 0 - 4 5 9 0 1 0 1 4 -5
+p147
+aVMalik Sealy LAC 03/27/1997 LAC @ ATL L 25 6 2 7 28.6 1 5 20.0 1 2 50.0 0 1 1 0 0 3 0 3 -18
+p148
+aVDarrick Martin LAC 03/27/1997 LAC @ ATL L 17 4 2 8 25.0 0 2 0.0 0 0 - 1 1 2 2 0 0 2 1 -15
+p149
+aVBo Outlaw LAC 03/27/1997 LAC @ ATL L 25 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 0 2 4 2 -19
+p150
+aVBrent Barry LAC 03/27/1997 LAC @ ATL L 21 7 2 6 33.3 0 3 0.0 3 3 100.0 2 2 4 4 2 0 1 1 -2
+p151
+aVTerry Dehere LAC 03/27/1997 LAC @ ATL L 12 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 2 1 0 1 2 0
+p152
+aVRodney Rogers LAC 03/27/1997 LAC @ ATL L 27 10 3 12 25.0 1 5 20.0 3 4 75.0 6 1 7 2 1 0 1 4 -14
+p153
+aVLamond Murray LAC 03/27/1997 LAC @ ATL L 21 8 1 7 14.3 0 1 0.0 6 8 75.0 0 1 1 0 1 0 0 0 1
+p154
+aVBo Outlaw LAC 03/25/1997 LAC vs. VAN W 44 6 2 3 66.7 0 0 - 2 4 50.0 2 6 8 2 3 2 2 2 14
+p155
+aVMalik Sealy LAC 03/25/1997 LAC vs. VAN W 42 22 7 19 36.8 4 8 50.0 4 5 80.0 2 2 4 3 3 0 0 3 11
+p156
+aVEric Piatkowski LAC 03/25/1997 LAC vs. VAN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p157
+aVRodney Rogers LAC 03/25/1997 LAC vs. VAN W 41 23 7 18 38.9 1 2 50.0 8 10 80.0 4 4 8 7 1 1 2 4 12
+p158
+aVDarrick Martin LAC 03/25/1997 LAC vs. VAN W 35 18 5 17 29.4 2 4 50.0 6 6 100.0 0 1 1 6 2 0 3 4 3
+p159
+aVPooh Richardson LAC 03/25/1997 LAC vs. VAN W 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p160
+aVTerry Dehere LAC 03/25/1997 LAC vs. VAN W 14 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 0 2 0 1 2 7
+p161
+aVLoy Vaught LAC 03/25/1997 LAC vs. VAN W 26 10 5 9 55.6 0 0 - 0 0 - 1 7 8 2 1 1 2 1 -10
+p162
+aVLorenzen Wright LAC 03/25/1997 LAC vs. VAN W 47 24 10 15 66.7 0 0 - 4 4 100.0 8 6 14 0 2 1 0 1 -3
+p163
+aVPooh Richardson LAC 03/23/1997 LAC vs. SAS W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p164
+aVLorenzen Wright LAC 03/23/1997 LAC vs. SAS W 30 8 3 5 60.0 0 0 - 2 3 66.7 3 8 11 3 2 0 3 2 8
+p165
+aVMalik Sealy LAC 03/23/1997 LAC vs. SAS W 47 30 13 22 59.1 2 4 50.0 2 3 66.7 0 3 3 2 3 0 2 3 11
+p166
+aVBo Outlaw LAC 03/23/1997 LAC vs. SAS W 34 6 2 7 28.6 0 0 - 2 4 50.0 2 0 2 2 1 4 1 2 7
+p167
+aVLamond Murray LAC 03/23/1997 LAC vs. SAS W 15 8 2 4 50.0 1 1 100.0 3 5 60.0 1 0 1 0 2 0 2 1 11
+p168
+aVBrent Barry LAC 03/23/1997 LAC vs. SAS W 30 14 4 8 50.0 2 4 50.0 4 4 100.0 1 2 3 7 1 1 1 1 27
+p169
+aVDarrick Martin LAC 03/23/1997 LAC vs. SAS W 15 5 1 4 25.0 0 1 0.0 3 3 100.0 0 0 0 3 0 0 2 1 -4
+p170
+aVLoy Vaught LAC 03/23/1997 LAC vs. SAS W 28 15 7 12 58.3 0 0 - 1 2 50.0 0 4 4 2 1 0 0 3 -9
+p171
+aVRodney Rogers LAC 03/23/1997 LAC vs. SAS W 36 17 5 10 50.0 1 3 33.3 6 10 60.0 2 5 7 1 2 1 3 2 25
+p172
+aVDwayne Schintzius LAC 03/22/1997 LAC @ UTA L 12 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 1 0 1 0 2 7
+p173
+aVLamond Murray LAC 03/22/1997 LAC @ UTA L 20 6 1 9 11.1 1 2 50.0 3 4 75.0 4 2 6 0 0 0 0 1 -6
+p174
+aVPooh Richardson LAC 03/22/1997 LAC @ UTA L 11 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 4 0 0 0 0 6
+p175
+aVMalik Sealy LAC 03/22/1997 LAC @ UTA L 27 19 6 16 37.5 2 4 50.0 5 5 100.0 0 1 1 0 1 0 1 2 -16
+p176
+aVRodney Rogers LAC 03/22/1997 LAC @ UTA L 27 18 8 13 61.5 2 3 66.7 0 1 0.0 1 3 4 3 2 0 1 3 -11
+p177
+aVBrent Barry LAC 03/22/1997 LAC @ UTA L 22 4 2 7 28.6 0 2 0.0 0 0 - 1 0 1 4 0 0 1 0 -10
+p178
+aVTerry Dehere LAC 03/22/1997 LAC @ UTA L 18 3 1 4 25.0 0 1 0.0 1 2 50.0 0 3 3 3 1 0 1 3 6
+p179
+aVBo Outlaw LAC 03/22/1997 LAC @ UTA L 26 6 3 6 50.0 0 0 - 0 2 0.0 3 1 4 1 1 1 1 2 -7
+p180
+aVDarrick Martin LAC 03/22/1997 LAC @ UTA L 18 10 3 6 50.0 2 4 50.0 2 2 100.0 0 2 2 2 0 0 3 4 -12
+p181
+aVLoy Vaught LAC 03/22/1997 LAC @ UTA L 32 16 6 10 60.0 0 0 - 4 8 50.0 4 4 8 1 0 0 1 3 -8
+p182
+aVLorenzen Wright LAC 03/22/1997 LAC @ UTA L 27 6 2 5 40.0 0 0 - 2 2 100.0 2 5 7 1 1 2 2 2 -14
+p183
+aVBo Outlaw LAC 03/19/1997 LAC vs. SAC W 34 6 2 5 40.0 0 0 - 2 5 40.0 3 1 4 3 1 2 3 2 5
+p184
+aVLorenzen Wright LAC 03/19/1997 LAC vs. SAC W 33 6 3 8 37.5 0 0 - 0 0 - 2 4 6 0 1 0 0 4 11
+p185
+aVBrent Barry LAC 03/19/1997 LAC vs. SAC W 28 14 4 10 40.0 3 5 60.0 3 4 75.0 2 0 2 4 3 0 0 2 4
+p186
+aVTerry Dehere LAC 03/19/1997 LAC vs. SAC W 15 7 2 4 50.0 1 2 50.0 2 2 100.0 1 0 1 4 1 0 2 0 -1
+p187
+aVLoy Vaught LAC 03/19/1997 LAC vs. SAC W 32 12 6 12 50.0 0 0 - 0 0 - 1 11 12 1 0 0 2 0 5
+p188
+aVMalik Sealy LAC 03/19/1997 LAC vs. SAC W 33 27 8 16 50.0 2 3 66.7 9 9 100.0 1 2 3 1 0 1 2 1 11
+p189
+aVLamond Murray LAC 03/19/1997 LAC vs. SAC W 14 3 0 4 0.0 0 2 0.0 3 6 50.0 1 2 3 2 1 0 2 4 6
+p190
+aVRodney Rogers LAC 03/19/1997 LAC vs. SAC W 27 17 4 8 50.0 0 2 0.0 9 10 90.0 0 6 6 2 1 0 1 4 4
+p191
+aVEric Piatkowski LAC 03/19/1997 LAC vs. SAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p192
+aVDarrick Martin LAC 03/19/1997 LAC vs. SAC W 20 16 5 8 62.5 2 3 66.7 4 4 100.0 0 2 2 2 0 0 1 2 6
+p193
+aVBo Outlaw LAC 03/18/1997 LAC @ PHX W 33 19 9 11 81.8 0 0 - 1 3 33.3 2 3 5 4 1 2 1 2 14
+p194
+aVDarrick Martin LAC 03/18/1997 LAC @ PHX W 29 20 7 15 46.7 4 6 66.7 2 2 100.0 0 5 5 3 2 0 2 5 2
+p195
+aVMalik Sealy LAC 03/18/1997 LAC @ PHX W 29 15 6 12 50.0 1 2 50.0 2 3 66.7 0 2 2 6 2 0 2 6 1
+p196
+aVPooh Richardson LAC 03/18/1997 LAC @ PHX W 6 8 1 1 100.0 0 0 - 6 8 75.0 0 0 0 2 0 0 0 1 8
+p197
+aVBrent Barry LAC 03/18/1997 LAC @ PHX W 22 10 4 8 50.0 2 4 50.0 0 0 - 2 2 4 6 0 1 3 1 5
+p198
+aVLorenzen Wright LAC 03/18/1997 LAC @ PHX W 19 4 2 4 50.0 0 0 - 0 0 - 1 1 2 3 1 1 1 3 6
+p199
+aVRodney Rogers LAC 03/18/1997 LAC @ PHX W 29 21 8 13 61.5 2 4 50.0 3 3 100.0 2 4 6 4 0 1 3 4 4
+p200
+aVEric Piatkowski LAC 03/18/1997 LAC @ PHX W 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 2 0 0 0 1 2
+p201
+aVLoy Vaught LAC 03/18/1997 LAC @ PHX W 43 14 5 13 38.5 0 0 - 4 4 100.0 2 16 18 2 0 0 2 5 3
+p202
+aVLamond Murray LAC 03/18/1997 LAC @ PHX W 17 8 1 6 16.7 1 3 33.3 5 6 83.3 0 2 2 1 4 0 3 3 5
+p203
+aVRodney Rogers LAC 03/16/1997 LAC vs. POR L 36 19 5 15 33.3 2 4 50.0 7 10 70.0 4 6 10 2 0 1 2 2 -7
+p204
+aVDwayne Schintzius LAC 03/16/1997 LAC vs. POR L 9 0 0 3 0.0 0 0 - 0 0 - 2 3 5 1 0 2 1 2 2
+p205
+aVLoy Vaught LAC 03/16/1997 LAC vs. POR L 26 9 4 8 50.0 0 0 - 1 2 50.0 2 2 4 1 1 0 4 3 -15
+p206
+aVTerry Dehere LAC 03/16/1997 LAC vs. POR L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 1 0
+p207
+aVLorenzen Wright LAC 03/16/1997 LAC vs. POR L 22 2 0 6 0.0 0 1 0.0 2 2 100.0 0 2 2 2 0 1 1 3 -10
+p208
+aVEric Piatkowski LAC 03/16/1997 LAC vs. POR L 21 11 2 6 33.3 1 2 50.0 6 6 100.0 5 0 5 0 0 0 0 2 9
+p209
+aVBrent Barry LAC 03/16/1997 LAC vs. POR L 20 18 5 8 62.5 3 4 75.0 5 5 100.0 0 3 3 0 0 2 1 1 13
+p210
+aVPooh Richardson LAC 03/16/1997 LAC vs. POR L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 1 1 1 -4
+p211
+aVDarrick Martin LAC 03/16/1997 LAC vs. POR L 16 6 3 6 50.0 0 1 0.0 0 2 0.0 0 1 1 1 1 0 2 2 -21
+p212
+aVLamond Murray LAC 03/16/1997 LAC vs. POR L 32 20 6 15 40.0 0 1 0.0 8 9 88.9 6 4 10 3 2 0 0 3 9
+p213
+aVBo Outlaw LAC 03/16/1997 LAC vs. POR L 20 2 1 1 100.0 0 0 - 0 2 0.0 2 4 6 2 2 0 0 2 -15
+p214
+aVMalik Sealy LAC 03/16/1997 LAC vs. POR L 21 5 2 10 20.0 0 3 0.0 1 2 50.0 1 0 1 0 0 0 3 1 -21
+p215
+aVLoy Vaught LAC 03/14/1997 LAC @ LAL W 37 20 9 13 69.2 0 0 - 2 3 66.7 2 9 11 2 1 1 2 5 0
+p216
+aVEric Piatkowski LAC 03/14/1997 LAC @ LAL W 15 13 4 11 36.4 3 6 50.0 2 4 50.0 3 0 3 1 0 0 0 1 -4
+p217
+aVBo Outlaw LAC 03/14/1997 LAC @ LAL W 48 12 4 4 100.0 0 0 - 4 8 50.0 1 9 10 4 2 3 3 3 0
+p218
+aVDarrick Martin LAC 03/14/1997 LAC @ LAL W 29 2 1 8 12.5 0 2 0.0 0 0 - 1 1 2 5 0 0 0 3 3
+p219
+aVLamond Murray LAC 03/14/1997 LAC @ LAL W 14 7 1 1 100.0 1 1 100.0 4 4 100.0 0 0 0 0 2 0 1 2 -4
+p220
+aVRodney Rogers LAC 03/14/1997 LAC @ LAL W 37 21 8 14 57.1 0 2 0.0 5 9 55.6 2 5 7 3 2 2 6 3 15
+p221
+aVMalik Sealy LAC 03/14/1997 LAC @ LAL W 33 13 5 11 45.5 1 2 50.0 2 2 100.0 1 2 3 5 0 1 1 4 6
+p222
+aVLorenzen Wright LAC 03/14/1997 LAC @ LAL W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -7
+p223
+aVPooh Richardson LAC 03/14/1997 LAC @ LAL W 20 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 5 0 0 1 0 1
+p224
+aVLamond Murray LAC 03/13/1997 LAC vs. PHX L 12 2 1 6 16.7 0 1 0.0 0 0 - 3 1 4 0 0 0 1 1 0
+p225
+aVLorenzen Wright LAC 03/13/1997 LAC vs. PHX L 28 7 3 7 42.9 0 0 - 1 2 50.0 2 6 8 1 0 0 0 1 -6
+p226
+aVMalik Sealy LAC 03/13/1997 LAC vs. PHX L 32 11 5 17 29.4 1 3 33.3 0 0 - 2 1 3 4 2 0 3 3 -8
+p227
+aVBo Outlaw LAC 03/13/1997 LAC vs. PHX L 34 19 9 11 81.8 0 0 - 1 1 100.0 4 4 8 0 0 2 0 2 -16
+p228
+aVRodney Rogers LAC 03/13/1997 LAC vs. PHX L 29 11 5 11 45.5 1 1 100.0 0 0 - 1 2 3 0 2 2 3 4 -14
+p229
+aVDwayne Schintzius LAC 03/13/1997 LAC vs. PHX L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p230
+aVBrent Barry LAC 03/13/1997 LAC vs. PHX L 6 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p231
+aVTerry Dehere LAC 03/13/1997 LAC vs. PHX L 15 7 1 4 25.0 1 3 33.3 4 4 100.0 0 0 0 5 0 0 0 2 -8
+p232
+aVEric Piatkowski LAC 03/13/1997 LAC vs. PHX L 8 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 2
+p233
+aVDarrick Martin LAC 03/13/1997 LAC vs. PHX L 34 17 7 14 50.0 1 4 25.0 2 2 100.0 2 1 3 8 1 0 1 3 -5
+p234
+aVLoy Vaught LAC 03/13/1997 LAC vs. PHX L 38 16 7 18 38.9 0 1 0.0 2 2 100.0 4 8 12 0 3 0 3 2 -12
+p235
+aVMalik Sealy LAC 03/11/1997 LAC @ POR L 28 16 5 8 62.5 2 2 100.0 4 4 100.0 0 0 0 1 1 0 1 2 -13
+p236
+aVBrent Barry LAC 03/11/1997 LAC @ POR L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -3
+p237
+aVTerry Dehere LAC 03/11/1997 LAC @ POR L 8 5 1 3 33.3 1 1 100.0 2 3 66.7 1 0 1 1 0 0 0 1 -4
+p238
+aVBo Outlaw LAC 03/11/1997 LAC @ POR L 27 7 3 5 60.0 0 0 - 1 2 50.0 3 6 9 4 2 1 1 2 -10
+p239
+aVPooh Richardson LAC 03/11/1997 LAC @ POR L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 7 0 0 0 2 10
+p240
+aVRodney Rogers LAC 03/11/1997 LAC @ POR L 35 26 9 15 60.0 1 3 33.3 7 9 77.8 1 2 3 3 5 2 2 3 -4
+p241
+aVDarrick Martin LAC 03/11/1997 LAC @ POR L 24 8 2 11 18.2 0 5 0.0 4 4 100.0 1 1 2 4 2 0 0 1 -10
+p242
+aVEric Piatkowski LAC 03/11/1997 LAC @ POR L 12 4 2 3 66.7 0 1 0.0 0 1 0.0 1 0 1 1 2 0 1 1 13
+p243
+aVLoy Vaught LAC 03/11/1997 LAC @ POR L 33 14 7 19 36.8 0 0 - 0 0 - 2 6 8 2 0 1 3 2 -10
+p244
+aVLamond Murray LAC 03/11/1997 LAC @ POR L 12 10 4 8 50.0 1 2 50.0 1 3 33.3 1 3 4 1 0 0 1 3 13
+p245
+aVLorenzen Wright LAC 03/11/1997 LAC @ POR L 37 13 5 11 45.5 0 0 - 3 4 75.0 3 2 5 2 3 0 2 3 -2
+p246
+aVEric Piatkowski LAC 03/10/1997 LAC vs. GSW W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 0
+p247
+aVMalik Sealy LAC 03/10/1997 LAC vs. GSW W 22 14 6 9 66.7 0 2 0.0 2 2 100.0 2 3 5 1 4 0 2 4 2
+p248
+aVPooh Richardson LAC 03/10/1997 LAC vs. GSW W 13 4 2 6 33.3 0 2 0.0 0 0 - 1 0 1 2 0 0 1 1 -9
+p249
+aVRodney Rogers LAC 03/10/1997 LAC vs. GSW W 32 16 6 13 46.2 0 2 0.0 4 7 57.1 4 4 8 2 0 1 3 4 3
+p250
+aVLamond Murray LAC 03/10/1997 LAC vs. GSW W 9 6 2 4 50.0 1 1 100.0 1 2 50.0 1 3 4 1 1 0 1 1 -2
+p251
+aVLoy Vaught LAC 03/10/1997 LAC vs. GSW W 43 22 10 26 38.5 0 0 - 2 5 40.0 6 5 11 3 2 1 2 4 6
+p252
+aVBrent Barry LAC 03/10/1997 LAC vs. GSW W 20 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 3 1 0 1 2 14
+p253
+aVLorenzen Wright LAC 03/10/1997 LAC vs. GSW W 44 17 6 10 60.0 0 0 - 5 10 50.0 4 6 10 2 0 3 0 5 8
+p254
+aVTerry Dehere LAC 03/10/1997 LAC vs. GSW W 21 15 6 9 66.7 1 2 50.0 2 2 100.0 0 4 4 4 1 0 3 5 4
+p255
+aVBo Outlaw LAC 03/10/1997 LAC vs. GSW W 16 4 2 4 50.0 0 0 - 0 0 - 1 0 1 3 0 3 1 2 3
+p256
+aVDarrick Martin LAC 03/10/1997 LAC vs. GSW W 14 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 2 0 0 2 4 1
+p257
+aVMalik Sealy LAC 03/08/1997 LAC vs. DET L 32 9 4 11 36.4 1 3 33.3 0 0 - 0 1 1 1 2 0 1 2 1
+p258
+aVRodney Rogers LAC 03/08/1997 LAC vs. DET L 31 17 6 13 46.2 1 2 50.0 4 6 66.7 2 6 8 1 1 1 0 3 -9
+p259
+aVEric Piatkowski LAC 03/08/1997 LAC vs. DET L 20 6 2 6 33.3 0 3 0.0 2 2 100.0 2 2 4 0 1 1 0 1 -7
+p260
+aVBrent Barry LAC 03/08/1997 LAC vs. DET L 20 6 2 3 66.7 1 2 50.0 1 2 50.0 0 2 2 2 0 0 1 2 -8
+p261
+aVLamond Murray LAC 03/08/1997 LAC vs. DET L 6 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p262
+aVLorenzen Wright LAC 03/08/1997 LAC vs. DET L 17 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 1 0 1 0 4 3
+p263
+aVDarrick Martin LAC 03/08/1997 LAC vs. DET L 34 11 5 13 38.5 0 2 0.0 1 2 50.0 0 1 1 4 0 0 0 5 -4
+p264
+aVBo Outlaw LAC 03/08/1997 LAC vs. DET L 32 6 3 4 75.0 0 0 - 0 0 - 1 5 6 2 0 0 3 4 1
+p265
+aVLoy Vaught LAC 03/08/1997 LAC vs. DET L 48 23 10 23 43.5 0 0 - 3 3 100.0 5 9 14 3 1 0 3 2 -6
+p266
+aVLamond Murray LAC 03/06/1997 LAC vs. ORL L 11 5 2 4 50.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 1 1 0
+p267
+aVMalik Sealy LAC 03/06/1997 LAC vs. ORL L 30 8 3 9 33.3 0 2 0.0 2 2 100.0 0 4 4 1 2 0 1 1 -4
+p268
+aVBrent Barry LAC 03/06/1997 LAC vs. ORL L 22 8 3 7 42.9 1 2 50.0 1 1 100.0 0 0 0 1 1 1 1 2 5
+p269
+aVLorenzen Wright LAC 03/06/1997 LAC vs. ORL L 38 11 5 7 71.4 0 0 - 1 2 50.0 3 7 10 0 1 0 2 5 -7
+p270
+aVBo Outlaw LAC 03/06/1997 LAC vs. ORL L 21 7 3 7 42.9 0 0 - 1 2 50.0 3 3 6 5 0 2 3 1 1
+p271
+aVDarrick Martin LAC 03/06/1997 LAC vs. ORL L 26 16 5 7 71.4 1 2 50.0 5 6 83.3 0 0 0 3 0 0 0 2 -6
+p272
+aVRodney Rogers LAC 03/06/1997 LAC vs. ORL L 26 8 3 12 25.0 0 2 0.0 2 2 100.0 2 6 8 1 2 0 1 4 4
+p273
+aVLoy Vaught LAC 03/06/1997 LAC vs. ORL L 48 28 13 20 65.0 0 0 - 2 2 100.0 1 11 12 0 2 1 1 3 -1
+p274
+aVTerry Dehere LAC 03/06/1997 LAC vs. ORL L 13 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 6 0 0 0 0 1
+p275
+aVEric Piatkowski LAC 03/06/1997 LAC vs. ORL L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 2
+p276
+aVDarrick Martin LAC 03/04/1997 LAC vs. HOU L 24 23 8 15 53.3 3 5 60.0 4 4 100.0 0 1 1 4 2 0 2 4 -13
+p277
+aVBrent Barry LAC 03/04/1997 LAC vs. HOU L 24 8 3 7 42.9 0 2 0.0 2 2 100.0 0 0 0 3 3 0 2 2 13
+p278
+aVLorenzen Wright LAC 03/04/1997 LAC vs. HOU L 35 8 4 9 44.4 0 0 - 0 0 - 6 5 11 0 2 0 1 3 -10
+p279
+aVRodney Rogers LAC 03/04/1997 LAC vs. HOU L 29 5 2 8 25.0 0 2 0.0 1 2 50.0 0 4 4 3 0 0 0 3 6
+p280
+aVBo Outlaw LAC 03/04/1997 LAC vs. HOU L 37 15 5 7 71.4 0 1 0.0 5 11 45.5 3 1 4 1 2 2 1 3 0
+p281
+aVEric Piatkowski LAC 03/04/1997 LAC vs. HOU L 17 14 5 10 50.0 2 5 40.0 2 4 50.0 0 1 1 3 2 0 0 1 13
+p282
+aVMalik Sealy LAC 03/04/1997 LAC vs. HOU L 31 13 4 13 30.8 2 6 33.3 3 5 60.0 1 3 4 3 0 0 4 0 -18
+p283
+aVLoy Vaught LAC 03/04/1997 LAC vs. HOU L 43 23 10 15 66.7 0 0 - 3 4 75.0 4 4 8 1 3 0 2 3 -11
+p284
+aVTerry Dehere LAC 03/02/1997 LAC @ DEN L 12 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 6 1 0 0 1 -3
+p285
+aVMalik Sealy LAC 03/02/1997 LAC @ DEN L 38 11 5 14 35.7 1 6 16.7 0 0 - 0 1 1 4 1 0 2 2 0
+p286
+aVLorenzen Wright LAC 03/02/1997 LAC @ DEN L 45 9 4 9 44.4 0 0 - 1 2 50.0 4 8 12 0 0 1 1 3 -10
+p287
+aVRodney Rogers LAC 03/02/1997 LAC @ DEN L 24 8 4 11 36.4 0 1 0.0 0 0 - 1 3 4 0 0 0 1 1 4
+p288
+aVLoy Vaught LAC 03/02/1997 LAC @ DEN L 39 25 11 16 68.8 0 0 - 3 4 75.0 2 13 15 1 1 1 0 5 2
+p289
+aVBo Outlaw LAC 03/02/1997 LAC @ DEN L 31 12 2 4 50.0 0 0 - 8 8 100.0 3 3 6 3 0 2 2 6 -2
+p290
+aVLamond Murray LAC 03/02/1997 LAC @ DEN L 19 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 3 1 -4
+p291
+aVPooh Richardson LAC 03/02/1997 LAC @ DEN L 9 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -2
+p292
+aVEric Piatkowski LAC 03/02/1997 LAC @ DEN L 16 10 3 7 42.9 1 2 50.0 3 4 75.0 3 3 6 0 0 1 0 3 -2
+p293
+aVDarrick Martin LAC 03/02/1997 LAC @ DEN L 31 19 6 13 46.2 2 3 66.7 5 6 83.3 0 1 1 4 0 1 2 3 7
+p294
+aVDarrick Martin LAC 02/28/1997 LAC vs. TOR W 35 23 7 15 46.7 1 3 33.3 8 9 88.9 2 4 6 5 1 0 3 3 8
+p295
+aVTerry Dehere LAC 02/28/1997 LAC vs. TOR W 9 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 0 0 0 2 2 2
+p296
+aVLoy Vaught LAC 02/28/1997 LAC vs. TOR W 44 18 7 14 50.0 0 0 - 4 4 100.0 2 6 8 2 2 0 3 3 14
+p297
+aVLamond Murray LAC 02/28/1997 LAC vs. TOR W 12 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 0 0 0 3 3 -16
+p298
+aVPooh Richardson LAC 02/28/1997 LAC vs. TOR W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p299
+aVBo Outlaw LAC 02/28/1997 LAC vs. TOR W 37 5 1 4 25.0 0 0 - 3 6 50.0 1 7 8 5 1 2 1 4 15
+p300
+aVMalik Sealy LAC 02/28/1997 LAC vs. TOR W 30 22 5 12 41.7 3 5 60.0 9 10 90.0 2 2 4 1 1 0 5 1 15
+p301
+aVDwayne Schintzius LAC 02/28/1997 LAC vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p302
+aVRodney Rogers LAC 02/28/1997 LAC vs. TOR W 16 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 2 3 -14
+p303
+aVBrent Barry LAC 02/28/1997 LAC vs. TOR W 10 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 0 -3
+p304
+aVLorenzen Wright LAC 02/28/1997 LAC vs. TOR W 34 10 4 5 80.0 0 0 - 2 6 33.3 5 9 14 0 0 4 1 4 8
+p305
+aVEric Piatkowski LAC 02/28/1997 LAC vs. TOR W 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -11
+p306
+aVEric Piatkowski LAC 02/26/1997 LAC @ VAN W 20 10 3 10 30.0 2 7 28.6 2 2 100.0 1 0 1 1 3 1 2 2 11
+p307
+aVTerry Dehere LAC 02/26/1997 LAC @ VAN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p308
+aVPooh Richardson LAC 02/26/1997 LAC @ VAN W 19 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 5 2 1 1 2 13
+p309
+aVBo Outlaw LAC 02/26/1997 LAC @ VAN W 40 11 4 7 57.1 0 0 - 3 6 50.0 4 6 10 1 3 3 2 4 2
+p310
+aVDarrick Martin LAC 02/26/1997 LAC @ VAN W 27 6 1 8 12.5 0 2 0.0 4 4 100.0 1 3 4 5 1 0 2 3 -9
+p311
+aVLorenzen Wright LAC 02/26/1997 LAC @ VAN W 32 6 2 8 25.0 0 0 - 2 2 100.0 4 4 8 1 0 3 2 3 -8
+p312
+aVLamond Murray LAC 02/26/1997 LAC @ VAN W 23 13 5 12 41.7 2 3 66.7 1 3 33.3 3 8 11 1 0 0 1 2 12
+p313
+aVBrent Barry LAC 02/26/1997 LAC @ VAN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 3
+p314
+aVLoy Vaught LAC 02/26/1997 LAC @ VAN W 44 22 10 18 55.6 0 0 - 2 4 50.0 4 9 13 1 1 1 1 5 -1
+p315
+aVMalik Sealy LAC 02/26/1997 LAC @ VAN W 25 11 4 12 33.3 1 3 33.3 2 2 100.0 1 1 2 1 2 0 4 0 -7
+p316
+aVPooh Richardson LAC 02/25/1997 LAC vs. PHI W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -8
+p317
+aVEric Piatkowski LAC 02/25/1997 LAC vs. PHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p318
+aVMalik Sealy LAC 02/25/1997 LAC vs. PHI W 29 17 6 19 31.6 1 3 33.3 4 5 80.0 0 1 1 0 4 1 1 3 9
+p319
+aVBo Outlaw LAC 02/25/1997 LAC vs. PHI W 40 7 2 4 50.0 0 0 - 3 4 75.0 3 7 10 2 2 1 3 4 -3
+p320
+aVLorenzen Wright LAC 02/25/1997 LAC vs. PHI W 40 13 6 9 66.7 0 0 - 1 3 33.3 6 4 10 2 1 3 3 5 11
+p321
+aVBrent Barry LAC 02/25/1997 LAC vs. PHI W 19 9 2 6 33.3 1 3 33.3 4 4 100.0 0 0 0 0 0 0 1 1 -4
+p322
+aVDarrick Martin LAC 02/25/1997 LAC vs. PHI W 32 17 7 18 38.9 1 4 25.0 2 2 100.0 0 1 1 8 0 0 2 3 21
+p323
+aVTerry Dehere LAC 02/25/1997 LAC vs. PHI W 8 8 2 4 50.0 1 2 50.0 3 5 60.0 0 1 1 1 0 0 2 1 -8
+p324
+aVRodney Rogers LAC 02/25/1997 LAC vs. PHI W 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -3
+p325
+aVLoy Vaught LAC 02/25/1997 LAC vs. PHI W 40 20 10 15 66.7 0 0 - 0 0 - 1 8 9 0 2 2 1 1 15
+p326
+aVLamond Murray LAC 02/25/1997 LAC vs. PHI W 14 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 2 0 0 3 4 -2
+p327
+aVPooh Richardson LAC 02/23/1997 LAC @ MIL W 12 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 1 0 2 0 13
+p328
+aVDarrick Martin LAC 02/23/1997 LAC @ MIL W 31 19 6 12 50.0 0 3 0.0 7 8 87.5 0 3 3 6 2 0 2 2 -1
+p329
+aVRodney Rogers LAC 02/23/1997 LAC @ MIL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 2
+p330
+aVBo Outlaw LAC 02/23/1997 LAC @ MIL W 43 12 5 8 62.5 0 0 - 2 2 100.0 3 5 8 4 2 7 4 3 11
+p331
+aVMalik Sealy LAC 02/23/1997 LAC @ MIL W 39 16 5 15 33.3 0 4 0.0 6 6 100.0 1 3 4 1 2 1 2 4 8
+p332
+aVLoy Vaught LAC 02/23/1997 LAC @ MIL W 28 13 5 10 50.0 0 0 - 3 4 75.0 1 10 11 2 0 0 2 5 5
+p333
+aVLorenzen Wright LAC 02/23/1997 LAC @ MIL W 37 14 6 10 60.0 0 0 - 2 2 100.0 6 4 10 0 1 2 2 6 7
+p334
+aVLamond Murray LAC 02/23/1997 LAC @ MIL W 27 16 5 10 50.0 0 2 0.0 6 7 85.7 2 4 6 1 1 1 0 2 14
+p335
+aVEric Piatkowski LAC 02/23/1997 LAC @ MIL W 13 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 2 0 0 1 0 5
+p336
+aVTerry Dehere LAC 02/23/1997 LAC @ MIL W 5 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 1
+p337
+aVEric Piatkowski LAC 02/21/1997 LAC @ CHH L 13 10 4 6 66.7 2 3 66.7 0 1 0.0 0 1 1 0 0 1 2 0 -11
+p338
+aVBo Outlaw LAC 02/21/1997 LAC @ CHH L 26 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 4 0 0 2 4 -11
+p339
+aVDwayne Schintzius LAC 02/21/1997 LAC @ CHH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p340
+aVLoy Vaught LAC 02/21/1997 LAC @ CHH L 36 14 6 15 40.0 0 0 - 2 2 100.0 2 8 10 2 0 0 1 3 -14
+p341
+aVLamond Murray LAC 02/21/1997 LAC @ CHH L 8 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 0 0 3 0 0 2
+p342
+aVLorenzen Wright LAC 02/21/1997 LAC @ CHH L 39 16 8 14 57.1 0 0 - 0 0 - 7 4 11 1 1 0 1 4 -7
+p343
+aVTerry Dehere LAC 02/21/1997 LAC @ CHH L 12 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 0 0 1 1 -3
+p344
+aVDarrick Martin LAC 02/21/1997 LAC @ CHH L 24 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 5 1 0 2 2 -16
+p345
+aVRodney Rogers LAC 02/21/1997 LAC @ CHH L 23 10 5 9 55.6 0 1 0.0 0 0 - 0 1 1 3 1 0 6 1 -13
+p346
+aVMalik Sealy LAC 02/21/1997 LAC @ CHH L 29 14 6 13 46.2 2 4 50.0 0 0 - 2 1 3 2 1 1 2 1 -12
+p347
+aVPooh Richardson LAC 02/21/1997 LAC @ CHH L 14 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 3
+p348
+aVBrent Barry LAC 02/21/1997 LAC @ CHH L 13 7 3 9 33.3 0 2 0.0 1 2 50.0 3 2 5 2 0 0 0 0 -3
+p349
+aVPooh Richardson LAC 02/20/1997 LAC @ PHI L 15 9 4 8 50.0 1 4 25.0 0 0 - 1 1 2 1 1 0 1 1 -4
+p350
+aVLorenzen Wright LAC 02/20/1997 LAC @ PHI L 38 11 4 6 66.7 0 0 - 3 6 50.0 1 8 9 1 0 0 0 3 -6
+p351
+aVRodney Rogers LAC 02/20/1997 LAC @ PHI L 35 11 5 15 33.3 1 5 20.0 0 0 - 3 2 5 4 4 1 3 3 -7
+p352
+aVBrent Barry LAC 02/20/1997 LAC @ PHI L 9 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 5
+p353
+aVTerry Dehere LAC 02/20/1997 LAC @ PHI L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p354
+aVBo Outlaw LAC 02/20/1997 LAC @ PHI L 24 8 4 8 50.0 0 0 - 0 0 - 2 3 5 1 1 1 1 3 -1
+p355
+aVMalik Sealy LAC 02/20/1997 LAC @ PHI L 37 9 3 15 20.0 1 7 14.3 2 2 100.0 1 3 4 4 0 0 1 1 -8
+p356
+aVEric Piatkowski LAC 02/20/1997 LAC @ PHI L 6 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p357
+aVLamond Murray LAC 02/20/1997 LAC @ PHI L 13 5 1 5 20.0 0 2 0.0 3 4 75.0 3 1 4 1 1 0 2 0 -10
+p358
+aVDwayne Schintzius LAC 02/20/1997 LAC @ PHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p359
+aVDarrick Martin LAC 02/20/1997 LAC @ PHI L 23 12 3 6 50.0 3 5 60.0 3 4 75.0 1 0 1 3 1 1 0 2 -14
+p360
+aVLoy Vaught LAC 02/20/1997 LAC @ PHI L 30 9 4 18 22.2 0 2 0.0 1 2 50.0 4 6 10 4 0 0 1 2 -20
+p361
+aVLorenzen Wright LAC 02/18/1997 LAC vs. DAL W 36 9 3 4 75.0 0 0 - 3 4 75.0 3 5 8 0 0 3 3 3 9
+p362
+aVEric Piatkowski LAC 02/18/1997 LAC vs. DAL W 11 8 3 6 50.0 1 2 50.0 1 1 100.0 0 0 0 1 0 0 1 1 4
+p363
+aVBo Outlaw LAC 02/18/1997 LAC vs. DAL W 26 8 4 6 66.7 0 1 0.0 0 1 0.0 1 6 7 2 1 1 3 4 16
+p364
+aVPooh Richardson LAC 02/18/1997 LAC vs. DAL W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 0 7
+p365
+aVTerry Dehere LAC 02/18/1997 LAC vs. DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p366
+aVDarrick Martin LAC 02/18/1997 LAC vs. DAL W 21 6 2 7 28.6 1 5 20.0 1 2 50.0 0 2 2 5 1 0 1 0 3
+p367
+aVRodney Rogers LAC 02/18/1997 LAC vs. DAL W 35 11 5 11 45.5 0 1 0.0 1 2 50.0 0 6 6 3 2 0 6 2 8
+p368
+aVBrent Barry LAC 02/18/1997 LAC vs. DAL W 15 8 2 5 40.0 0 2 0.0 4 4 100.0 0 4 4 2 0 0 4 2 10
+p369
+aVLoy Vaught LAC 02/18/1997 LAC vs. DAL W 32 10 4 8 50.0 0 0 - 2 2 100.0 2 7 9 1 0 0 0 5 11
+p370
+aVLamond Murray LAC 02/18/1997 LAC vs. DAL W 14 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 10
+p371
+aVMalik Sealy LAC 02/18/1997 LAC vs. DAL W 37 23 9 13 69.2 1 3 33.3 4 5 80.0 1 1 2 3 5 1 3 3 14
+p372
+aVRodney Rogers LAC 02/14/1997 LAC @ PHX L 23 15 6 8 75.0 2 2 100.0 1 3 33.3 2 2 4 4 1 0 3 3 -5
+p373
+aVTerry Dehere LAC 02/14/1997 LAC @ PHX L 19 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 6 0 0 2 1 3
+p374
+aVLorenzen Wright LAC 02/14/1997 LAC @ PHX L 24 5 2 6 33.3 0 0 - 1 1 100.0 2 2 4 1 1 0 2 4 -9
+p375
+aVMalik Sealy LAC 02/14/1997 LAC @ PHX L 30 7 3 10 30.0 1 4 25.0 0 0 - 1 1 2 2 1 2 1 2 -16
+p376
+aVBrent Barry LAC 02/14/1997 LAC @ PHX L 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p377
+aVLamond Murray LAC 02/14/1997 LAC @ PHX L 22 7 3 7 42.9 1 1 100.0 0 0 - 3 1 4 0 0 0 1 0 -25
+p378
+aVDarrick Martin LAC 02/14/1997 LAC @ PHX L 29 18 6 16 37.5 3 6 50.0 3 5 60.0 2 1 3 9 2 0 4 4 -20
+p379
+aVBo Outlaw LAC 02/14/1997 LAC @ PHX L 21 6 3 3 100.0 0 0 - 0 0 - 1 4 5 1 1 1 1 3 -4
+p380
+aVLoy Vaught LAC 02/14/1997 LAC @ PHX L 42 16 8 14 57.1 0 0 - 0 0 - 1 6 7 4 0 1 2 3 -11
+p381
+aVEric Piatkowski LAC 02/14/1997 LAC @ PHX L 10 8 2 5 40.0 0 2 0.0 4 4 100.0 0 0 0 0 0 0 2 0 1
+p382
+aVPooh Richardson LAC 02/14/1997 LAC @ PHX L 10 8 3 6 50.0 1 3 33.3 1 2 50.0 1 0 1 0 1 0 1 1 0
+p383
+aVDarrick Martin LAC 02/13/1997 LAC @ SAC L 20 10 4 11 36.4 2 4 50.0 0 0 - 0 0 0 4 2 0 0 2 -3
+p384
+aVBrent Barry LAC 02/13/1997 LAC @ SAC L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -2
+p385
+aVLoy Vaught LAC 02/13/1997 LAC @ SAC L 35 17 6 11 54.5 0 0 - 5 6 83.3 4 4 8 1 0 0 1 3 -11
+p386
+aVBo Outlaw LAC 02/13/1997 LAC @ SAC L 26 16 5 7 71.4 0 0 - 6 8 75.0 3 5 8 1 0 0 0 1 -1
+p387
+aVMalik Sealy LAC 02/13/1997 LAC @ SAC L 36 20 8 17 47.1 3 7 42.9 1 1 100.0 1 3 4 3 1 2 2 3 -10
+p388
+aVEric Piatkowski LAC 02/13/1997 LAC @ SAC L 13 4 2 6 33.3 0 1 0.0 0 1 0.0 1 0 1 1 1 0 1 2 -2
+p389
+aVLorenzen Wright LAC 02/13/1997 LAC @ SAC L 26 0 0 4 0.0 0 0 - 0 2 0.0 1 5 6 0 1 0 0 3 -5
+p390
+aVTerry Dehere LAC 02/13/1997 LAC @ SAC L 22 3 1 8 12.5 1 6 16.7 0 0 - 0 1 1 6 0 0 2 1 -4
+p391
+aVRodney Rogers LAC 02/13/1997 LAC @ SAC L 30 13 6 15 40.0 1 3 33.3 0 0 - 1 6 7 2 1 1 6 5 2
+p392
+aVLamond Murray LAC 02/13/1997 LAC @ SAC L 25 15 5 8 62.5 1 2 50.0 4 6 66.7 4 2 6 1 1 0 0 6 1
+p393
+aVDarrick Martin LAC 02/11/1997 LAC vs. BOS W 25 12 3 8 37.5 1 2 50.0 5 5 100.0 0 1 1 6 0 0 3 2 -3
+p394
+aVPooh Richardson LAC 02/11/1997 LAC vs. BOS W 23 5 2 8 25.0 0 1 0.0 1 1 100.0 0 2 2 10 1 0 2 3 7
+p395
+aVLorenzen Wright LAC 02/11/1997 LAC vs. BOS W 34 10 5 9 55.6 0 0 - 0 0 - 4 6 10 0 0 4 1 2 -2
+p396
+aVRodney Rogers LAC 02/11/1997 LAC vs. BOS W 32 18 9 13 69.2 0 1 0.0 0 2 0.0 2 5 7 2 1 2 4 4 1
+p397
+aVLoy Vaught LAC 02/11/1997 LAC vs. BOS W 29 18 8 13 61.5 0 0 - 2 2 100.0 1 2 3 1 1 0 0 5 -5
+p398
+aVBrent Barry LAC 02/11/1997 LAC vs. BOS W 5 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 1 7
+p399
+aVMalik Sealy LAC 02/11/1997 LAC vs. BOS W 30 21 9 14 64.3 2 7 28.6 1 1 100.0 0 5 5 2 1 0 4 2 4
+p400
+aVEric Piatkowski LAC 02/11/1997 LAC vs. BOS W 18 15 4 9 44.4 3 6 50.0 4 4 100.0 3 1 4 3 1 0 1 4 0
+p401
+aVBo Outlaw LAC 02/11/1997 LAC vs. BOS W 36 11 4 6 66.7 0 0 - 3 8 37.5 2 6 8 3 0 2 2 2 8
+p402
+aVLamond Murray LAC 02/11/1997 LAC vs. BOS W 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p403
+aVPooh Richardson LAC 02/04/1997 LAC vs. LAL W 23 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 1 3 0 0 4 16
+p404
+aVMalik Sealy LAC 02/04/1997 LAC vs. LAL W 30 22 7 14 50.0 4 6 66.7 4 4 100.0 0 2 2 1 1 1 2 5 6
+p405
+aVLoy Vaught LAC 02/04/1997 LAC vs. LAL W 29 22 10 11 90.9 0 0 - 2 2 100.0 1 7 8 1 0 1 5 2 -3
+p406
+aVTerry Dehere LAC 02/04/1997 LAC vs. LAL W 3 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 0 0
+p407
+aVLorenzen Wright LAC 02/04/1997 LAC vs. LAL W 34 4 2 5 40.0 0 0 - 0 0 - 3 5 8 0 1 1 5 0 16
+p408
+aVEric Piatkowski LAC 02/04/1997 LAC vs. LAL W 15 9 4 8 50.0 1 5 20.0 0 0 - 1 4 5 2 0 0 1 0 16
+p409
+aVBo Outlaw LAC 02/04/1997 LAC vs. LAL W 32 9 4 6 66.7 0 0 - 1 2 50.0 2 8 10 6 0 5 1 4 17
+p410
+aVRodney Rogers LAC 02/04/1997 LAC vs. LAL W 38 24 10 16 62.5 0 2 0.0 4 5 80.0 5 9 14 6 1 1 6 5 30
+p411
+aVLamond Murray LAC 02/04/1997 LAC vs. LAL W 10 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 3 1 6
+p412
+aVDarrick Martin LAC 02/04/1997 LAC vs. LAL W 25 8 3 6 50.0 0 2 0.0 2 2 100.0 0 2 2 3 2 0 1 4 6
+p413
+aVEric Piatkowski LAC 02/01/1997 LAC vs. GSW W 24 12 4 7 57.1 2 5 40.0 2 2 100.0 2 1 3 4 2 0 4 4 11
+p414
+aVBo Outlaw LAC 02/01/1997 LAC vs. GSW W 29 9 3 4 75.0 0 0 - 3 5 60.0 2 2 4 2 1 0 3 2 8
+p415
+aVMalik Sealy LAC 02/01/1997 LAC vs. GSW W 24 11 5 9 55.6 1 1 100.0 0 0 - 0 0 0 2 1 0 2 3 1
+p416
+aVRodney Rogers LAC 02/01/1997 LAC vs. GSW W 43 19 9 12 75.0 1 2 50.0 0 4 0.0 0 4 4 2 0 1 4 3 10
+p417
+aVDarrick Martin LAC 02/01/1997 LAC vs. GSW W 28 9 3 7 42.9 3 5 60.0 0 0 - 0 3 3 7 1 0 1 2 0
+p418
+aVLoy Vaught LAC 02/01/1997 LAC vs. GSW W 34 25 11 17 64.7 0 0 - 3 4 75.0 3 10 13 2 3 0 4 4 1
+p419
+aVLamond Murray LAC 02/01/1997 LAC vs. GSW W 14 7 2 4 50.0 1 2 50.0 2 2 100.0 0 3 3 2 0 0 0 3 6
+p420
+aVLorenzen Wright LAC 02/01/1997 LAC vs. GSW W 24 11 5 8 62.5 0 0 - 1 2 50.0 3 5 8 0 0 0 1 4 11
+p421
+aVPooh Richardson LAC 02/01/1997 LAC vs. GSW W 20 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 4 0 0 0 2 12
+p422
+aVEric Piatkowski LAC 01/30/1997 LAC vs. VAN W 15 5 2 2 100.0 0 0 - 1 1 100.0 0 2 2 1 0 0 1 3 4
+p423
+aVPooh Richardson LAC 01/30/1997 LAC vs. VAN W 21 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 1 1 3 0 -5
+p424
+aVStanley Roberts LAC 01/30/1997 LAC vs. VAN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p425
+aVDarrick Martin LAC 01/30/1997 LAC vs. VAN W 28 13 4 12 33.3 1 2 50.0 4 4 100.0 1 4 5 5 0 0 4 1 13
+p426
+aVLamond Murray LAC 01/30/1997 LAC vs. VAN W 26 12 4 7 57.1 0 1 0.0 4 6 66.7 2 3 5 2 0 0 2 1 4
+p427
+aVTerry Dehere LAC 01/30/1997 LAC vs. VAN W 10 4 1 3 33.3 0 1 0.0 2 2 100.0 2 1 3 0 0 0 2 1 -1
+p428
+aVRodney Rogers LAC 01/30/1997 LAC vs. VAN W 23 10 4 9 44.4 0 3 0.0 2 6 33.3 3 8 11 3 2 2 1 6 5
+p429
+aVLoy Vaught LAC 01/30/1997 LAC vs. VAN W 38 28 11 20 55.0 0 0 - 6 7 85.7 4 7 11 1 2 1 3 5 0
+p430
+aVLorenzen Wright LAC 01/30/1997 LAC vs. VAN W 23 6 3 7 42.9 0 0 - 0 2 0.0 4 3 7 1 1 0 0 2 13
+p431
+aVMalik Sealy LAC 01/30/1997 LAC vs. VAN W 29 12 4 10 40.0 2 4 50.0 2 2 100.0 2 2 4 2 1 1 0 4 10
+p432
+aVBo Outlaw LAC 01/30/1997 LAC vs. VAN W 26 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 3 0 1 0 1 -6
+p433
+aVLoy Vaught LAC 01/28/1997 LAC vs. ATL L 38 12 4 9 44.4 0 0 - 4 4 100.0 0 6 6 0 1 0 1 0 -13
+p434
+aVLorenzen Wright LAC 01/28/1997 LAC vs. ATL L 30 10 2 9 22.2 0 0 - 6 6 100.0 5 4 9 1 0 0 2 4 -13
+p435
+aVEric Piatkowski LAC 01/28/1997 LAC vs. ATL L 15 4 1 5 20.0 1 5 20.0 1 1 100.0 0 1 1 1 0 1 1 1 -8
+p436
+aVLamond Murray LAC 01/28/1997 LAC vs. ATL L 13 10 4 6 66.7 1 2 50.0 1 2 50.0 1 2 3 1 1 0 1 0 -5
+p437
+aVTerry Dehere LAC 01/28/1997 LAC vs. ATL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -1
+p438
+aVBo Outlaw LAC 01/28/1997 LAC vs. ATL L 20 10 5 6 83.3 0 0 - 0 2 0.0 2 4 6 2 3 3 2 2 -4
+p439
+aVDarrick Martin LAC 01/28/1997 LAC vs. ATL L 26 20 6 9 66.7 3 4 75.0 5 5 100.0 0 0 0 4 0 0 1 1 -7
+p440
+aVMalik Sealy LAC 01/28/1997 LAC vs. ATL L 26 15 6 15 40.0 2 6 33.3 1 1 100.0 0 2 2 2 3 2 3 1 -7
+p441
+aVRodney Rogers LAC 01/28/1997 LAC vs. ATL L 32 9 3 10 30.0 0 3 0.0 3 6 50.0 2 3 5 4 2 1 2 1 -15
+p442
+aVStanley Roberts LAC 01/28/1997 LAC vs. ATL L 10 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 2 0 0 2
+p443
+aVPooh Richardson LAC 01/28/1997 LAC vs. ATL L 22 4 2 9 22.2 0 6 0.0 0 0 - 1 2 3 3 1 0 1 2 -9
+p444
+aVEric Piatkowski LAC 01/24/1997 LAC vs. DEN W 10 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 0 -7
+p445
+aVLamond Murray LAC 01/24/1997 LAC vs. DEN W 7 6 2 2 100.0 1 1 100.0 1 3 33.3 0 0 0 0 1 0 1 0 0
+p446
+aVDarrick Martin LAC 01/24/1997 LAC vs. DEN W 26 10 4 12 33.3 0 2 0.0 2 2 100.0 0 0 0 4 0 0 1 1 -7
+p447
+aVLorenzen Wright LAC 01/24/1997 LAC vs. DEN W 14 4 2 3 66.7 0 0 - 0 0 - 4 1 5 0 1 0 0 4 -1
+p448
+aVTerry Dehere LAC 01/24/1997 LAC vs. DEN W 9 4 0 0 - 0 0 - 4 6 66.7 0 0 0 0 0 0 0 2 -4
+p449
+aVMalik Sealy LAC 01/24/1997 LAC vs. DEN W 33 10 1 9 11.1 0 3 0.0 8 8 100.0 1 1 2 3 4 0 1 4 12
+p450
+aVRodney Rogers LAC 01/24/1997 LAC vs. DEN W 34 12 4 13 30.8 0 1 0.0 4 4 100.0 1 3 4 2 2 1 2 2 14
+p451
+aVBo Outlaw LAC 01/24/1997 LAC vs. DEN W 33 18 7 10 70.0 0 0 - 4 6 66.7 1 4 5 2 1 1 0 5 7
+p452
+aVLoy Vaught LAC 01/24/1997 LAC vs. DEN W 45 31 15 18 83.3 0 0 - 1 1 100.0 2 8 10 2 1 0 2 4 -1
+p453
+aVBrent Barry LAC 01/24/1997 LAC vs. DEN W 29 17 5 10 50.0 3 5 60.0 4 4 100.0 2 5 7 3 2 0 4 3 2
+p454
+aVRodney Rogers LAC 01/23/1997 LAC vs. SEA W 16 4 1 5 20.0 0 1 0.0 2 2 100.0 3 2 5 0 1 0 6 6 -14
+p455
+aVLorenzen Wright LAC 01/23/1997 LAC vs. SEA W 36 7 3 7 42.9 0 0 - 1 4 25.0 4 8 12 2 1 0 0 5 -13
+p456
+aVDwayne Schintzius LAC 01/23/1997 LAC vs. SEA W 12 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 1 3 1 12
+p457
+aVLoy Vaught LAC 01/23/1997 LAC vs. SEA W 14 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 6 -6
+p458
+aVBo Outlaw LAC 01/23/1997 LAC vs. SEA W 34 8 3 6 50.0 0 0 - 2 2 100.0 2 6 8 2 1 2 1 6 12
+p459
+aVMalik Sealy LAC 01/23/1997 LAC vs. SEA W 32 21 6 13 46.2 2 3 66.7 7 8 87.5 1 2 3 0 3 0 3 3 -2
+p460
+aVBrent Barry LAC 01/23/1997 LAC vs. SEA W 25 11 4 8 50.0 1 2 50.0 2 2 100.0 1 0 1 2 1 1 1 0 15
+p461
+aVEric Piatkowski LAC 01/23/1997 LAC vs. SEA W 30 16 6 14 42.9 2 4 50.0 2 5 40.0 2 3 5 3 0 0 3 5 13
+p462
+aVDarrick Martin LAC 01/23/1997 LAC vs. SEA W 43 31 10 21 47.6 3 7 42.9 8 8 100.0 0 2 2 9 2 0 1 2 -7
+p463
+aVBrent Barry LAC 01/21/1997 LAC @ POR L 24 12 5 11 45.5 2 4 50.0 0 0 - 1 2 3 1 0 1 2 2 -7
+p464
+aVRodney Rogers LAC 01/21/1997 LAC @ POR L 29 14 5 16 31.3 1 4 25.0 3 6 50.0 2 2 4 4 0 1 1 3 -11
+p465
+aVLorenzen Wright LAC 01/21/1997 LAC @ POR L 41 8 4 10 40.0 0 0 - 0 1 0.0 4 5 9 2 0 0 1 5 -16
+p466
+aVMalik Sealy LAC 01/21/1997 LAC @ POR L 34 13 3 10 30.0 0 2 0.0 7 8 87.5 1 4 5 4 3 0 1 1 -5
+p467
+aVLoy Vaught LAC 01/21/1997 LAC @ POR L 25 8 3 8 37.5 0 1 0.0 2 2 100.0 3 7 10 1 0 0 4 3 -17
+p468
+aVBo Outlaw LAC 01/21/1997 LAC @ POR L 29 8 4 8 50.0 0 1 0.0 0 0 - 3 7 10 1 2 2 1 1 -9
+p469
+aVEric Piatkowski LAC 01/21/1997 LAC @ POR L 12 3 1 4 25.0 1 1 100.0 0 0 - 1 2 3 0 0 1 1 2 -1
+p470
+aVTerry Dehere LAC 01/21/1997 LAC @ POR L 14 6 2 8 25.0 0 4 0.0 2 5 40.0 1 0 1 1 0 0 3 2 -11
+p471
+aVDwayne Schintzius LAC 01/21/1997 LAC @ POR L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -4
+p472
+aVPooh Richardson LAC 01/21/1997 LAC @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p473
+aVDarrick Martin LAC 01/21/1997 LAC @ POR L 24 10 4 11 36.4 0 2 0.0 2 3 66.7 0 1 1 2 1 0 2 4 -11
+p474
+aVEric Piatkowski LAC 01/19/1997 LAC vs. CLE L 2 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 1
+p475
+aVRodney Rogers LAC 01/19/1997 LAC vs. CLE L 29 8 2 5 40.0 1 1 100.0 3 4 75.0 0 4 4 2 1 2 1 6 4
+p476
+aVTerry Dehere LAC 01/19/1997 LAC vs. CLE L 28 15 4 7 57.1 1 2 50.0 6 6 100.0 0 2 2 6 1 0 3 4 -4
+p477
+aVDwayne Schintzius LAC 01/19/1997 LAC vs. CLE L 5 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 4
+p478
+aVMalik Sealy LAC 01/19/1997 LAC vs. CLE L 31 17 5 10 50.0 3 3 100.0 4 4 100.0 0 3 3 0 1 0 1 2 -12
+p479
+aVLorenzen Wright LAC 01/19/1997 LAC vs. CLE L 18 3 1 3 33.3 0 0 - 1 4 25.0 0 2 2 0 0 0 0 3 -4
+p480
+aVLamond Murray LAC 01/19/1997 LAC vs. CLE L 31 0 0 9 0.0 0 1 0.0 0 0 - 1 4 5 1 1 1 2 1 -3
+p481
+aVDarrick Martin LAC 01/19/1997 LAC vs. CLE L 39 17 4 15 26.7 1 6 16.7 8 9 88.9 0 1 1 7 1 0 0 6 2
+p482
+aVLoy Vaught LAC 01/19/1997 LAC vs. CLE L 49 21 10 16 62.5 0 0 - 1 1 100.0 1 10 11 3 1 0 1 4 -5
+p483
+aVBrent Barry LAC 01/19/1997 LAC vs. CLE L 25 9 4 9 44.4 1 3 33.3 0 0 - 0 3 3 2 1 0 2 2 -1
+p484
+aVBo Outlaw LAC 01/19/1997 LAC vs. CLE L 34 9 4 6 66.7 0 0 - 1 2 50.0 3 5 8 1 1 1 2 4 -7
+p485
+aVEric Piatkowski LAC 01/15/1997 LAC vs. IND L 16 12 3 10 30.0 2 3 66.7 4 4 100.0 2 1 3 1 4 1 1 2 -1
+p486
+aVTerry Dehere LAC 01/15/1997 LAC vs. IND L 17 9 3 8 37.5 1 4 25.0 2 2 100.0 1 0 1 2 0 0 2 3 5
+p487
+aVBrent Barry LAC 01/15/1997 LAC vs. IND L 20 0 0 5 0.0 0 4 0.0 0 0 - 0 0 0 5 0 0 1 2 -7
+p488
+aVDwayne Schintzius LAC 01/15/1997 LAC vs. IND L 12 4 2 8 25.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -2
+p489
+aVDarrick Martin LAC 01/15/1997 LAC vs. IND L 20 15 5 10 50.0 2 4 50.0 3 3 100.0 0 0 0 1 0 0 1 0 -10
+p490
+aVLoy Vaught LAC 01/15/1997 LAC vs. IND L 30 13 6 12 50.0 0 0 - 1 3 33.3 4 8 12 1 1 1 1 1 -20
+p491
+aVLamond Murray LAC 01/15/1997 LAC vs. IND L 26 0 0 6 0.0 0 2 0.0 0 0 - 2 1 3 0 0 0 1 0 -11
+p492
+aVRodney Rogers LAC 01/15/1997 LAC vs. IND L 25 12 5 9 55.6 1 3 33.3 1 1 100.0 2 2 4 1 1 0 2 4 -4
+p493
+aVLorenzen Wright LAC 01/15/1997 LAC vs. IND L 32 5 1 8 12.5 0 1 0.0 3 4 75.0 3 6 9 0 1 1 1 3 -12
+p494
+aVBo Outlaw LAC 01/15/1997 LAC vs. IND L 21 12 4 6 66.7 0 1 0.0 4 6 66.7 6 4 10 2 1 2 0 4 4
+p495
+aVMalik Sealy LAC 01/15/1997 LAC vs. IND L 20 11 5 10 50.0 0 0 - 1 1 100.0 0 0 0 2 0 0 0 1 -17
+p496
+aVMalik Sealy LAC 01/11/1997 LAC @ MIN L 28 9 4 9 44.4 0 0 - 1 1 100.0 0 3 3 3 1 2 3 2 -3
+p497
+aVLamond Murray LAC 01/11/1997 LAC @ MIN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p498
+aVRodney Rogers LAC 01/11/1997 LAC @ MIN L 45 15 6 20 30.0 0 3 0.0 3 6 50.0 3 6 9 1 2 2 4 5 5
+p499
+aVDwayne Schintzius LAC 01/11/1997 LAC @ MIN L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 3
+p500
+aVLorenzen Wright LAC 01/11/1997 LAC @ MIN L 38 15 7 9 77.8 1 1 100.0 0 0 - 7 8 15 0 0 2 2 2 -10
+p501
+aVBrent Barry LAC 01/11/1997 LAC @ MIN L 20 9 3 5 60.0 1 2 50.0 2 2 100.0 0 0 0 3 0 1 0 0 0
+p502
+aVPooh Richardson LAC 01/11/1997 LAC @ MIN L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -1
+p503
+aVTerry Dehere LAC 01/11/1997 LAC @ MIN L 12 8 1 4 25.0 1 2 50.0 5 6 83.3 0 2 2 0 0 0 3 3 -6
+p504
+aVBo Outlaw LAC 01/11/1997 LAC @ MIN L 17 4 2 4 50.0 0 0 - 0 0 - 3 2 5 1 0 2 0 6 -1
+p505
+aVDarrick Martin LAC 01/11/1997 LAC @ MIN L 31 19 7 14 50.0 4 6 66.7 1 1 100.0 0 2 2 5 0 0 5 1 9
+p506
+aVLoy Vaught LAC 01/11/1997 LAC @ MIN L 32 10 4 7 57.1 0 0 - 2 6 33.3 3 7 10 0 0 0 2 5 -2
+p507
+aVEric Piatkowski LAC 01/11/1997 LAC @ MIN L 2 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -1
+p508
+aVBo Outlaw LAC 01/10/1997 LAC @ WAS L 22 2 1 2 50.0 0 0 - 0 0 - 1 4 5 7 2 0 2 3 22
+p509
+aVMalik Sealy LAC 01/10/1997 LAC @ WAS L 17 3 1 8 12.5 0 2 0.0 1 2 50.0 2 2 4 2 0 0 1 3 -19
+p510
+aVLamond Murray LAC 01/10/1997 LAC @ WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 -3
+p511
+aVDwayne Schintzius LAC 01/10/1997 LAC @ WAS L 19 15 6 9 66.7 1 1 100.0 2 2 100.0 0 2 2 0 1 1 0 2 21
+p512
+aVBrent Barry LAC 01/10/1997 LAC @ WAS L 28 12 3 5 60.0 2 3 66.7 4 6 66.7 0 3 3 3 1 0 2 1 17
+p513
+aVLorenzen Wright LAC 01/10/1997 LAC @ WAS L 28 5 2 9 22.2 0 0 - 1 2 50.0 2 1 3 0 2 0 1 3 -23
+p514
+aVPooh Richardson LAC 01/10/1997 LAC @ WAS L 17 15 5 6 83.3 2 3 66.7 3 4 75.0 0 2 2 2 1 0 1 2 4
+p515
+aVTerry Dehere LAC 01/10/1997 LAC @ WAS L 7 6 2 4 50.0 1 2 50.0 1 1 100.0 0 1 1 3 0 0 1 0 0
+p516
+aVLoy Vaught LAC 01/10/1997 LAC @ WAS L 29 12 5 14 35.7 0 0 - 2 3 66.7 3 5 8 0 5 0 2 1 -19
+p517
+aVRodney Rogers LAC 01/10/1997 LAC @ WAS L 39 8 3 11 27.3 2 4 50.0 0 0 - 3 0 3 2 2 0 4 6 -8
+p518
+aVDarrick Martin LAC 01/10/1997 LAC @ WAS L 24 18 8 14 57.1 1 5 20.0 1 1 100.0 0 0 0 2 3 0 1 2 -8
+p519
+aVEric Piatkowski LAC 01/10/1997 LAC @ WAS L 4 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -4
+p520
+aVDarrick Martin LAC 01/07/1997 LAC @ TOR W 19 9 4 9 44.4 1 2 50.0 0 0 - 1 1 2 2 1 0 2 1 -11
+p521
+aVMalik Sealy LAC 01/07/1997 LAC @ TOR W 31 12 3 12 25.0 1 2 50.0 5 5 100.0 2 1 3 3 0 0 3 2 6
+p522
+aVEric Piatkowski LAC 01/07/1997 LAC @ TOR W 9 9 3 6 50.0 3 4 75.0 0 0 - 0 2 2 0 0 0 1 3 -3
+p523
+aVBo Outlaw LAC 01/07/1997 LAC @ TOR W 30 6 3 4 75.0 0 0 - 0 2 0.0 2 2 4 0 2 3 2 1 11
+p524
+aVRodney Rogers LAC 01/07/1997 LAC @ TOR W 42 15 6 19 31.6 0 5 0.0 3 5 60.0 4 6 10 5 0 2 3 1 5
+p525
+aVLorenzen Wright LAC 01/07/1997 LAC @ TOR W 18 4 2 4 50.0 0 0 - 0 1 0.0 1 2 3 0 1 1 1 4 -4
+p526
+aVLoy Vaught LAC 01/07/1997 LAC @ TOR W 45 21 8 16 50.0 0 0 - 5 6 83.3 5 9 14 3 0 1 1 0 12
+p527
+aVPooh Richardson LAC 01/07/1997 LAC @ TOR W 9 1 0 2 0.0 0 1 0.0 1 2 50.0 1 1 2 1 1 1 1 1 1
+p528
+aVTerry Dehere LAC 01/07/1997 LAC @ TOR W 20 6 1 4 25.0 0 1 0.0 4 5 80.0 0 2 2 8 0 0 0 3 17
+p529
+aVBrent Barry LAC 01/07/1997 LAC @ TOR W 17 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 2 1 0 1 1 1
+p530
+aVDarrick Martin LAC 01/05/1997 LAC @ SAS W 21 9 4 7 57.1 0 1 0.0 1 1 100.0 1 2 3 7 0 0 1 3 11
+p531
+aVLorenzen Wright LAC 01/05/1997 LAC @ SAS W 38 16 5 11 45.5 0 1 0.0 6 9 66.7 6 5 11 0 1 1 2 2 13
+p532
+aVLamond Murray LAC 01/05/1997 LAC @ SAS W 8 5 1 2 50.0 0 1 0.0 3 3 100.0 0 0 0 0 0 1 1 2 -6
+p533
+aVRodney Rogers LAC 01/05/1997 LAC @ SAS W 31 2 1 14 7.1 0 2 0.0 0 0 - 0 2 2 3 0 0 1 5 9
+p534
+aVBo Outlaw LAC 01/05/1997 LAC @ SAS W 19 3 0 1 0.0 0 0 - 3 6 50.0 2 2 4 1 0 4 2 3 1
+p535
+aVPooh Richardson LAC 01/05/1997 LAC @ SAS W 24 11 3 6 50.0 3 4 75.0 2 2 100.0 0 0 0 4 1 0 1 3 3
+p536
+aVMalik Sealy LAC 01/05/1997 LAC @ SAS W 25 15 5 10 50.0 0 1 0.0 5 5 100.0 2 3 5 2 2 0 3 3 7
+p537
+aVEric Piatkowski LAC 01/05/1997 LAC @ SAS W 12 8 3 6 50.0 2 3 66.7 0 0 - 1 1 2 1 0 0 0 0 0
+p538
+aVBrent Barry LAC 01/05/1997 LAC @ SAS W 23 10 3 6 50.0 1 3 33.3 3 4 75.0 0 2 2 3 0 0 1 1 2
+p539
+aVLoy Vaught LAC 01/05/1997 LAC @ SAS W 36 14 6 15 40.0 0 0 - 2 2 100.0 2 10 12 1 1 0 1 1 10
+p540
+aVTerry Dehere LAC 01/05/1997 LAC @ SAS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 -5
+p541
+aVTerry Dehere LAC 01/04/1997 LAC @ HOU W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p542
+aVLoy Vaught LAC 01/04/1997 LAC @ HOU W 38 20 9 14 64.3 2 2 100.0 0 0 - 4 7 11 2 2 0 1 4 6
+p543
+aVLorenzen Wright LAC 01/04/1997 LAC @ HOU W 35 9 4 8 50.0 0 0 - 1 2 50.0 3 2 5 1 2 2 1 5 5
+p544
+aVMalik Sealy LAC 01/04/1997 LAC @ HOU W 29 8 4 11 36.4 0 1 0.0 0 0 - 1 8 9 1 1 1 2 2 -2
+p545
+aVBrent Barry LAC 01/04/1997 LAC @ HOU W 19 8 3 5 60.0 2 3 66.7 0 0 - 0 4 4 4 3 0 1 0 6
+p546
+aVLamond Murray LAC 01/04/1997 LAC @ HOU W 13 5 1 3 33.3 0 1 0.0 3 3 100.0 1 1 2 1 0 0 1 0 -7
+p547
+aVDwayne Schintzius LAC 01/04/1997 LAC @ HOU W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p548
+aVDarrick Martin LAC 01/04/1997 LAC @ HOU W 33 20 7 15 46.7 2 4 50.0 4 6 66.7 0 3 3 8 1 0 4 1 4
+p549
+aVRodney Rogers LAC 01/04/1997 LAC @ HOU W 36 19 6 15 40.0 3 6 50.0 4 4 100.0 2 2 4 4 1 2 2 3 8
+p550
+aVPooh Richardson LAC 01/04/1997 LAC @ HOU W 9 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 3
+p551
+aVBo Outlaw LAC 01/04/1997 LAC @ HOU W 15 2 1 3 33.3 0 0 - 0 2 0.0 1 1 2 1 0 1 2 5 -1
+p552
+aVEric Piatkowski LAC 12/30/1996 LAC vs. UTA W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 1
+p553
+aVMalik Sealy LAC 12/30/1996 LAC vs. UTA W 30 14 5 9 55.6 0 1 0.0 4 5 80.0 0 0 0 5 2 1 3 3 3
+p554
+aVTerry Dehere LAC 12/30/1996 LAC vs. UTA W 7 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 1 -6
+p555
+aVRodney Rogers LAC 12/30/1996 LAC vs. UTA W 21 11 3 4 75.0 1 1 100.0 4 4 100.0 0 3 3 2 1 2 2 5 11
+p556
+aVLamond Murray LAC 12/30/1996 LAC vs. UTA W 22 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 0 1 1 1 5 -9
+p557
+aVDwayne Schintzius LAC 12/30/1996 LAC vs. UTA W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 2
+p558
+aVDarrick Martin LAC 12/30/1996 LAC vs. UTA W 41 38 10 21 47.6 3 6 50.0 15 15 100.0 1 1 2 8 1 0 3 4 20
+p559
+aVLorenzen Wright LAC 12/30/1996 LAC vs. UTA W 39 13 5 11 45.5 0 0 - 3 6 50.0 2 4 6 0 2 0 2 5 12
+p560
+aVBrent Barry LAC 12/30/1996 LAC vs. UTA W 18 10 3 4 75.0 0 1 0.0 4 4 100.0 0 2 2 2 1 1 0 2 11
+p561
+aVBo Outlaw LAC 12/30/1996 LAC vs. UTA W 25 9 4 6 66.7 0 0 - 1 3 33.3 3 2 5 0 4 1 0 0 14
+p562
+aVLoy Vaught LAC 12/30/1996 LAC vs. UTA W 26 11 5 8 62.5 0 0 - 1 2 50.0 3 4 7 1 0 0 0 4 11
+p563
+aVTerry Dehere LAC 12/27/1996 LAC vs. POR L 25 12 5 11 45.5 1 3 33.3 1 1 100.0 0 4 4 1 0 0 1 4 -6
+p564
+aVBrent Barry LAC 12/27/1996 LAC vs. POR L 14 8 3 5 60.0 2 3 66.7 0 0 - 1 2 3 2 1 0 0 0 -4
+p565
+aVEric Piatkowski LAC 12/27/1996 LAC vs. POR L 13 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 1 1 1 -5
+p566
+aVLoy Vaught LAC 12/27/1996 LAC vs. POR L 35 16 8 15 53.3 0 1 0.0 0 2 0.0 0 4 4 1 0 1 1 5 -4
+p567
+aVLamond Murray LAC 12/27/1996 LAC vs. POR L 16 5 2 7 28.6 0 0 - 1 3 33.3 0 1 1 0 0 0 2 6 -1
+p568
+aVDarrick Martin LAC 12/27/1996 LAC vs. POR L 20 6 2 4 50.0 0 2 0.0 2 3 66.7 0 2 2 5 2 0 3 2 7
+p569
+aVBo Outlaw LAC 12/27/1996 LAC vs. POR L 18 5 1 4 25.0 0 0 - 3 3 100.0 2 4 6 0 0 1 1 2 -4
+p570
+aVMalik Sealy LAC 12/27/1996 LAC vs. POR L 24 2 1 7 14.3 0 1 0.0 0 0 - 1 2 3 1 1 1 2 0 2
+p571
+aVLorenzen Wright LAC 12/27/1996 LAC vs. POR L 43 16 8 14 57.1 0 0 - 0 0 - 4 5 9 1 2 1 1 5 0
+p572
+aVRodney Rogers LAC 12/27/1996 LAC vs. POR L 32 25 10 16 62.5 0 1 0.0 5 6 83.3 1 6 7 4 0 3 2 0 -5
+p573
+aVMalik Sealy LAC 12/23/1996 LAC @ SAC L 13 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 1 2 0 2 1 -15
+p574
+aVRodney Rogers LAC 12/23/1996 LAC @ SAC L 35 20 9 14 64.3 1 3 33.3 1 2 50.0 1 6 7 4 2 3 5 3 -5
+p575
+aVTerry Dehere LAC 12/23/1996 LAC @ SAC L 23 7 1 4 25.0 1 2 50.0 4 4 100.0 1 2 3 3 0 0 1 0 -1
+p576
+aVBo Outlaw LAC 12/23/1996 LAC @ SAC L 19 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 1 1 1 1 -6
+p577
+aVDarrick Martin LAC 12/23/1996 LAC @ SAC L 21 6 2 6 33.3 0 2 0.0 2 2 100.0 0 1 1 6 3 0 0 2 -8
+p578
+aVLamond Murray LAC 12/23/1996 LAC @ SAC L 25 12 4 8 50.0 1 2 50.0 3 3 100.0 2 2 4 1 2 1 2 2 -2
+p579
+aVBrent Barry LAC 12/23/1996 LAC @ SAC L 19 5 2 4 50.0 0 1 0.0 1 1 100.0 1 1 2 1 1 0 4 1 -1
+p580
+aVPooh Richardson LAC 12/23/1996 LAC @ SAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p581
+aVLorenzen Wright LAC 12/23/1996 LAC @ SAC L 28 11 5 9 55.6 0 0 - 1 2 50.0 3 0 3 0 0 2 1 4 -4
+p582
+aVLoy Vaught LAC 12/23/1996 LAC @ SAC L 36 14 5 16 31.3 0 0 - 4 6 66.7 4 6 10 1 0 0 1 4 -17
+p583
+aVEric Piatkowski LAC 12/23/1996 LAC @ SAC L 17 11 5 9 55.6 1 2 50.0 0 0 - 3 2 5 3 2 0 1 2 2
+p584
+aVKevin Duckworth LAC 12/22/1996 LAC @ GSW L 6 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 1 0 2 0 -3
+p585
+aVBrent Barry LAC 12/22/1996 LAC @ GSW L 7 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 -3
+p586
+aVTerry Dehere LAC 12/22/1996 LAC @ GSW L 21 7 2 6 33.3 1 4 25.0 2 3 66.7 0 0 0 1 0 0 2 2 2
+p587
+aVRodney Rogers LAC 12/22/1996 LAC @ GSW L 33 7 2 11 18.2 0 0 - 3 3 100.0 3 5 8 4 0 1 4 5 -5
+p588
+aVMalik Sealy LAC 12/22/1996 LAC @ GSW L 41 18 6 13 46.2 2 4 50.0 4 6 66.7 0 3 3 2 1 0 2 6 -1
+p589
+aVBo Outlaw LAC 12/22/1996 LAC @ GSW L 25 4 2 3 66.7 0 0 - 0 0 - 2 2 4 4 1 2 0 5 1
+p590
+aVLorenzen Wright LAC 12/22/1996 LAC @ GSW L 22 0 0 0 - 0 0 - 0 0 - 0 4 4 2 1 0 2 3 -7
+p591
+aVDarrick Martin LAC 12/22/1996 LAC @ GSW L 27 12 4 10 40.0 2 5 40.0 2 2 100.0 1 0 1 6 0 0 2 3 -11
+p592
+aVLamond Murray LAC 12/22/1996 LAC @ GSW L 19 17 4 7 57.1 0 1 0.0 9 9 100.0 2 1 3 2 1 0 0 3 14
+p593
+aVLoy Vaught LAC 12/22/1996 LAC @ GSW L 38 20 10 15 66.7 0 0 - 0 0 - 3 13 16 4 0 0 2 2 -17
+p594
+aVLoy Vaught LAC 12/20/1996 LAC @ SEA L 38 6 3 8 37.5 0 0 - 0 0 - 3 5 8 0 1 1 2 4 -15
+p595
+aVLorenzen Wright LAC 12/20/1996 LAC @ SEA L 32 10 5 9 55.6 0 0 - 0 0 - 3 9 12 2 0 0 2 3 -6
+p596
+aVKevin Duckworth LAC 12/20/1996 LAC @ SEA L 14 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 1 0 0 4 -15
+p597
+aVDarrick Martin LAC 12/20/1996 LAC @ SEA L 25 15 5 13 38.5 2 3 66.7 3 3 100.0 0 1 1 6 0 0 2 3 -19
+p598
+aVRodney Rogers LAC 12/20/1996 LAC @ SEA L 24 3 1 7 14.3 1 3 33.3 0 0 - 0 0 0 1 2 1 4 5 -23
+p599
+aVBo Outlaw LAC 12/20/1996 LAC @ SEA L 21 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 2 0 1 1 -1
+p600
+aVLamond Murray LAC 12/20/1996 LAC @ SEA L 15 5 1 5 20.0 0 2 0.0 3 5 60.0 0 2 2 2 2 0 2 2 12
+p601
+aVTerry Dehere LAC 12/20/1996 LAC @ SEA L 23 14 6 8 75.0 2 2 100.0 0 0 - 0 0 0 3 1 0 4 3 3
+p602
+aVEric Piatkowski LAC 12/20/1996 LAC @ SEA L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 1 0 2 2 9
+p603
+aVMalik Sealy LAC 12/20/1996 LAC @ SEA L 37 22 7 14 50.0 0 1 0.0 8 8 100.0 2 1 3 3 0 0 2 2 -25
+p604
+aVDarrick Martin LAC 12/19/1996 LAC vs. WAS L 26 10 5 10 50.0 0 1 0.0 0 0 - 0 0 0 7 3 0 1 2 -2
+p605
+aVKevin Duckworth LAC 12/19/1996 LAC vs. WAS L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -17
+p606
+aVMalik Sealy LAC 12/19/1996 LAC vs. WAS L 30 12 4 9 44.4 0 0 - 4 4 100.0 1 4 5 0 4 0 4 4 -10
+p607
+aVEric Piatkowski LAC 12/19/1996 LAC vs. WAS L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p608
+aVTerry Dehere LAC 12/19/1996 LAC vs. WAS L 22 9 3 10 30.0 1 5 20.0 2 2 100.0 1 3 4 2 1 1 4 2 -7
+p609
+aVLoy Vaught LAC 12/19/1996 LAC vs. WAS L 43 25 11 19 57.9 0 0 - 3 4 75.0 7 11 18 0 3 0 2 2 -3
+p610
+aVRodney Rogers LAC 12/19/1996 LAC vs. WAS L 43 27 10 19 52.6 2 3 66.7 5 7 71.4 2 4 6 2 3 0 4 3 -3
+p611
+aVBo Outlaw LAC 12/19/1996 LAC vs. WAS L 21 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 0 0 1 2 2 -7
+p612
+aVLorenzen Wright LAC 12/19/1996 LAC vs. WAS L 17 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 10
+p613
+aVLamond Murray LAC 12/19/1996 LAC vs. WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p614
+aVBrent Barry LAC 12/19/1996 LAC vs. WAS L 18 4 1 7 14.3 1 4 25.0 1 2 50.0 1 2 3 3 0 0 1 3 -1
+p615
+aVBrent Barry LAC 12/16/1996 LAC vs. PHX W 20 12 5 9 55.6 2 3 66.7 0 0 - 1 3 4 2 0 0 3 2 -2
+p616
+aVKevin Duckworth LAC 12/16/1996 LAC vs. PHX W 18 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 2 0 2 -1
+p617
+aVEric Piatkowski LAC 12/16/1996 LAC vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p618
+aVMalik Sealy LAC 12/16/1996 LAC vs. PHX W 39 28 10 15 66.7 2 2 100.0 6 6 100.0 1 4 5 3 2 1 1 6 9
+p619
+aVTerry Dehere LAC 12/16/1996 LAC vs. PHX W 26 18 5 14 35.7 2 6 33.3 6 8 75.0 1 1 2 5 1 0 0 4 -5
+p620
+aVBo Outlaw LAC 12/16/1996 LAC vs. PHX W 34 15 6 8 75.0 0 0 - 3 4 75.0 1 2 3 0 0 5 0 4 0
+p621
+aVLorenzen Wright LAC 12/16/1996 LAC vs. PHX W 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 1
+p622
+aVLamond Murray LAC 12/16/1996 LAC vs. PHX W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -2
+p623
+aVDarrick Martin LAC 12/16/1996 LAC vs. PHX W 20 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 5 0 0 0 4 3
+p624
+aVRodney Rogers LAC 12/16/1996 LAC vs. PHX W 43 19 9 14 64.3 0 2 0.0 1 4 25.0 2 3 5 6 1 0 4 5 -1
+p625
+aVLoy Vaught LAC 12/16/1996 LAC vs. PHX W 46 16 8 16 50.0 0 0 - 0 0 - 4 17 21 2 1 0 3 2 0
+p626
+aVDarrick Martin LAC 12/14/1996 LAC vs. SAC W 32 15 0 8 0.0 0 1 0.0 15 15 100.0 0 0 0 7 2 0 2 4 20
+p627
+aVLorenzen Wright LAC 12/14/1996 LAC vs. SAC W 29 10 4 6 66.7 0 0 - 2 3 66.7 3 4 7 1 2 0 1 3 11
+p628
+aVRodney Rogers LAC 12/14/1996 LAC vs. SAC W 40 13 5 14 35.7 0 1 0.0 3 7 42.9 2 3 5 6 1 0 1 3 8
+p629
+aVMalik Sealy LAC 12/14/1996 LAC vs. SAC W 29 14 4 7 57.1 0 0 - 6 8 75.0 2 1 3 2 1 1 5 3 -3
+p630
+aVBo Outlaw LAC 12/14/1996 LAC vs. SAC W 24 14 6 7 85.7 0 0 - 2 7 28.6 1 2 3 0 0 1 0 0 14
+p631
+aVKevin Duckworth LAC 12/14/1996 LAC vs. SAC W 18 8 4 6 66.7 0 0 - 0 0 - 3 3 6 0 1 1 2 3 -2
+p632
+aVTerry Dehere LAC 12/14/1996 LAC vs. SAC W 16 16 4 9 44.4 0 0 - 8 8 100.0 0 0 0 0 1 0 0 3 -8
+p633
+aVBrent Barry LAC 12/14/1996 LAC vs. SAC W 19 6 2 7 28.6 2 5 40.0 0 0 - 1 1 2 3 1 0 0 1 15
+p634
+aVLoy Vaught LAC 12/14/1996 LAC vs. SAC W 33 10 5 10 50.0 0 0 - 0 0 - 6 12 18 0 1 0 2 3 5
+p635
+aVMalik Sealy LAC 12/12/1996 LAC vs. SAS W 33 14 3 8 37.5 0 0 - 8 10 80.0 0 3 3 0 1 0 1 2 2
+p636
+aVRodney Rogers LAC 12/12/1996 LAC vs. SAS W 30 16 7 10 70.0 2 2 100.0 0 0 - 1 3 4 5 0 0 4 5 -5
+p637
+aVTerry Dehere LAC 12/12/1996 LAC vs. SAS W 24 10 4 7 57.1 1 4 25.0 1 2 50.0 0 3 3 6 1 1 1 1 0
+p638
+aVLoy Vaught LAC 12/12/1996 LAC vs. SAS W 41 16 7 16 43.8 0 0 - 2 2 100.0 1 10 11 0 0 0 1 3 7
+p639
+aVBo Outlaw LAC 12/12/1996 LAC vs. SAS W 25 12 5 6 83.3 0 0 - 2 4 50.0 0 4 4 4 1 1 1 2 8
+p640
+aVLorenzen Wright LAC 12/12/1996 LAC vs. SAS W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -6
+p641
+aVKevin Duckworth LAC 12/12/1996 LAC vs. SAS W 25 10 4 5 80.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 6 1
+p642
+aVBrent Barry LAC 12/12/1996 LAC vs. SAS W 15 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 2 0 0 4 1 1
+p643
+aVDarrick Martin LAC 12/12/1996 LAC vs. SAS W 24 9 3 8 37.5 0 2 0.0 3 6 50.0 1 1 2 6 1 0 3 0 5
+p644
+aVLamond Murray LAC 12/12/1996 LAC vs. SAS W 14 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 0 0 1 2 2
+p645
+aVLoy Vaught LAC 12/10/1996 LAC vs. DAL L 31 14 7 9 77.8 0 0 - 0 0 - 0 10 10 1 1 0 4 2 -5
+p646
+aVLamond Murray LAC 12/10/1996 LAC vs. DAL L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p647
+aVKevin Duckworth LAC 12/10/1996 LAC vs. DAL L 23 6 3 6 50.0 0 0 - 0 0 - 2 1 3 1 0 0 2 3 -6
+p648
+aVBrent Barry LAC 12/10/1996 LAC vs. DAL L 24 11 4 6 66.7 2 3 66.7 1 2 50.0 0 3 3 2 1 0 2 1 0
+p649
+aVDarrick Martin LAC 12/10/1996 LAC vs. DAL L 1 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 0 0 0 2
+p650
+aVPooh Richardson LAC 12/10/1996 LAC vs. DAL L 35 13 6 10 60.0 1 4 25.0 0 0 - 0 0 0 2 0 0 1 5 -4
+p651
+aVTerry Dehere LAC 12/10/1996 LAC vs. DAL L 14 10 3 6 50.0 1 2 50.0 3 4 75.0 0 1 1 2 0 0 4 3 1
+p652
+aVMalik Sealy LAC 12/10/1996 LAC vs. DAL L 24 14 4 8 50.0 1 1 100.0 5 5 100.0 1 3 4 3 2 0 2 2 -5
+p653
+aVBo Outlaw LAC 12/10/1996 LAC vs. DAL L 25 2 1 2 50.0 0 0 - 0 0 - 3 5 8 2 0 3 1 0 1
+p654
+aVLorenzen Wright LAC 12/10/1996 LAC vs. DAL L 16 6 2 8 25.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 3 -4
+p655
+aVRodney Rogers LAC 12/10/1996 LAC vs. DAL L 41 12 5 10 50.0 0 2 0.0 2 3 66.7 0 3 3 5 1 3 1 3 5
+p656
+aVPooh Richardson LAC 12/08/1996 LAC @ CLE L 25 2 1 6 16.7 0 0 - 0 0 - 0 2 2 3 0 0 0 2 -16
+p657
+aVMalik Sealy LAC 12/08/1996 LAC @ CLE L 22 5 2 8 25.0 0 0 - 1 1 100.0 0 0 0 1 0 0 1 1 -21
+p658
+aVTerry Dehere LAC 12/08/1996 LAC @ CLE L 22 10 4 9 44.4 1 3 33.3 1 1 100.0 0 2 2 0 0 0 2 2 3
+p659
+aVLorenzen Wright LAC 12/08/1996 LAC @ CLE L 26 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 1 0 1 2 -4
+p660
+aVBo Outlaw LAC 12/08/1996 LAC @ CLE L 26 9 3 4 75.0 0 0 - 3 4 75.0 2 1 3 1 0 3 0 5 -13
+p661
+aVLoy Vaught LAC 12/08/1996 LAC @ CLE L 29 10 5 7 71.4 0 0 - 0 0 - 1 3 4 2 1 0 2 4 -24
+p662
+aVDarrick Martin LAC 12/08/1996 LAC @ CLE L 15 1 0 4 0.0 0 1 0.0 1 1 100.0 0 1 1 4 0 0 2 4 -3
+p663
+aVKevin Duckworth LAC 12/08/1996 LAC @ CLE L 7 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 1 0 0 0 0 -1
+p664
+aVLamond Murray LAC 12/08/1996 LAC @ CLE L 23 6 2 7 28.6 0 1 0.0 2 4 50.0 0 4 4 1 1 1 1 0 -2
+p665
+aVBrent Barry LAC 12/08/1996 LAC @ CLE L 12 8 1 3 33.3 1 2 50.0 5 6 83.3 0 0 0 0 0 1 2 0 -5
+p666
+aVRodney Rogers LAC 12/08/1996 LAC @ CLE L 34 13 2 8 25.0 0 0 - 9 12 75.0 4 4 8 2 3 1 5 0 -19
+p667
+aVBo Outlaw LAC 12/07/1996 LAC @ NYK L 30 11 4 6 66.7 0 0 - 3 4 75.0 2 2 4 0 2 1 1 6 22
+p668
+aVTerry Dehere LAC 12/07/1996 LAC @ NYK L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -12
+p669
+aVDarrick Martin LAC 12/07/1996 LAC @ NYK L 6 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 3 0 0 0 0 7
+p670
+aVLoy Vaught LAC 12/07/1996 LAC @ NYK L 22 8 3 9 33.3 0 0 - 2 2 100.0 5 2 7 0 0 0 2 4 -26
+p671
+aVLorenzen Wright LAC 12/07/1996 LAC @ NYK L 14 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -19
+p672
+aVRodney Rogers LAC 12/07/1996 LAC @ NYK L 44 12 4 16 25.0 0 2 0.0 4 6 66.7 1 4 5 3 0 1 2 3 -10
+p673
+aVLamond Murray LAC 12/07/1996 LAC @ NYK L 33 18 6 10 60.0 2 2 100.0 4 8 50.0 0 5 5 3 1 2 4 1 6
+p674
+aVPooh Richardson LAC 12/07/1996 LAC @ NYK L 43 11 5 15 33.3 1 5 20.0 0 0 - 2 1 3 3 3 0 1 2 -16
+p675
+aVMalik Sealy LAC 12/07/1996 LAC @ NYK L 40 13 3 13 23.1 1 4 25.0 6 7 85.7 0 6 6 1 1 0 1 2 3
+p676
+aVBrent Barry LAC 12/07/1996 LAC @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p677
+aVBo Outlaw LAC 12/05/1996 LAC @ CHI L 12 2 1 1 100.0 0 0 - 0 0 - 3 2 5 0 0 0 1 2 -3
+p678
+aVPooh Richardson LAC 12/05/1996 LAC @ CHI L 35 20 7 10 70.0 4 5 80.0 2 2 100.0 0 3 3 6 1 0 3 1 -10
+p679
+aVBrent Barry LAC 12/05/1996 LAC @ CHI L 26 17 6 15 40.0 1 5 20.0 4 4 100.0 2 0 2 0 2 1 0 1 -7
+p680
+aVLoy Vaught LAC 12/05/1996 LAC @ CHI L 40 19 9 18 50.0 0 1 0.0 1 1 100.0 3 11 14 3 0 0 2 3 -13
+p681
+aVRodney Rogers LAC 12/05/1996 LAC @ CHI L 36 15 7 15 46.7 1 2 50.0 0 0 - 3 2 5 1 2 1 3 3 -14
+p682
+aVLamond Murray LAC 12/05/1996 LAC @ CHI L 23 6 2 8 25.0 0 2 0.0 2 2 100.0 2 2 4 1 2 2 1 0 -10
+p683
+aVLorenzen Wright LAC 12/05/1996 LAC @ CHI L 27 14 5 8 62.5 0 0 - 4 5 80.0 3 3 6 2 1 0 1 0 -9
+p684
+aVKevin Duckworth LAC 12/05/1996 LAC @ CHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p685
+aVTerry Dehere LAC 12/05/1996 LAC @ CHI L 22 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 3 0 0 3 3 -11
+p686
+aVDarrick Martin LAC 12/05/1996 LAC @ CHI L 13 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 4 0 -8
+p687
+aVTerry Dehere LAC 12/03/1996 LAC vs. CHH W 34 25 8 13 61.5 4 5 80.0 5 5 100.0 0 3 3 5 1 0 2 1 12
+p688
+aVPooh Richardson LAC 12/03/1996 LAC vs. CHH W 26 4 2 9 22.2 0 2 0.0 0 0 - 0 3 3 3 3 0 0 1 3
+p689
+aVLoy Vaught LAC 12/03/1996 LAC vs. CHH W 42 23 10 18 55.6 0 0 - 3 4 75.0 3 12 15 1 0 1 2 2 2
+p690
+aVRodney Rogers LAC 12/03/1996 LAC vs. CHH W 42 13 4 12 33.3 1 2 50.0 4 8 50.0 2 6 8 6 1 1 3 3 12
+p691
+aVLamond Murray LAC 12/03/1996 LAC vs. CHH W 20 11 4 8 50.0 1 2 50.0 2 4 50.0 3 0 3 0 1 0 1 2 7
+p692
+aVBo Outlaw LAC 12/03/1996 LAC vs. CHH W 24 8 4 4 100.0 0 0 - 0 1 0.0 1 2 3 1 0 0 0 4 8
+p693
+aVBrent Barry LAC 12/03/1996 LAC vs. CHH W 14 0 0 7 0.0 0 2 0.0 0 0 - 1 0 1 2 1 0 1 6 -5
+p694
+aVLorenzen Wright LAC 12/03/1996 LAC vs. CHH W 6 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 1 2 2 -2
+p695
+aVKevin Duckworth LAC 12/03/1996 LAC vs. CHH W 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -6
+p696
+aVDarrick Martin LAC 12/03/1996 LAC vs. CHH W 23 5 1 3 33.3 0 0 - 3 5 60.0 1 2 3 4 0 0 0 2 4
+p697
+aVLoy Vaught LAC 11/30/1996 LAC vs. NJN L 33 6 3 14 21.4 0 0 - 0 0 - 4 8 12 0 1 0 3 6 1
+p698
+aVBo Outlaw LAC 11/30/1996 LAC vs. NJN L 26 9 3 5 60.0 0 0 - 3 6 50.0 3 4 7 1 0 3 3 3 -12
+p699
+aVPooh Richardson LAC 11/30/1996 LAC vs. NJN L 27 10 4 11 36.4 1 6 16.7 1 2 50.0 1 3 4 4 1 0 4 3 -12
+p700
+aVStanley Roberts LAC 11/30/1996 LAC vs. NJN L 16 7 2 8 25.0 0 0 - 3 3 100.0 2 3 5 0 0 3 0 3 3
+p701
+aVDarrick Martin LAC 11/30/1996 LAC vs. NJN L 21 12 6 10 60.0 0 0 - 0 0 - 0 2 2 5 1 0 1 3 0
+p702
+aVMalik Sealy LAC 11/30/1996 LAC vs. NJN L 40 16 5 13 38.5 1 2 50.0 5 5 100.0 1 1 2 0 1 1 5 6 -14
+p703
+aVRodney Rogers LAC 11/30/1996 LAC vs. NJN L 33 12 5 11 45.5 1 2 50.0 1 4 25.0 3 5 8 2 2 0 4 6 -1
+p704
+aVKevin Duckworth LAC 11/30/1996 LAC vs. NJN L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 3 2
+p705
+aVLamond Murray LAC 11/30/1996 LAC vs. NJN L 23 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 0 3 0 3 3 -15
+p706
+aVTerry Dehere LAC 11/30/1996 LAC vs. NJN L 14 8 3 7 42.9 0 1 0.0 2 3 66.7 1 1 2 3 1 0 0 3 0
+p707
+aVLorenzen Wright LAC 11/30/1996 LAC vs. NJN L 9 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 2 1 1 -2
+p708
+aVBrent Barry LAC 11/30/1996 LAC vs. NJN L 16 9 4 9 44.4 0 3 0.0 1 2 50.0 0 2 2 2 3 0 0 3 -5
+p709
+aVLorenzen Wright LAC 11/29/1996 LAC @ UTA L 4 2 0 1 0.0 0 0 - 2 4 50.0 0 0 0 0 1 0 0 1 -1
+p710
+aVLamond Murray LAC 11/29/1996 LAC @ UTA L 18 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 -6
+p711
+aVPooh Richardson LAC 11/29/1996 LAC @ UTA L 22 12 4 5 80.0 4 4 100.0 0 0 - 0 0 0 5 1 0 1 2 -1
+p712
+aVKevin Duckworth LAC 11/29/1996 LAC @ UTA L 11 2 0 1 0.0 0 0 - 2 2 100.0 2 4 6 0 0 0 3 4 6
+p713
+aVMalik Sealy LAC 11/29/1996 LAC @ UTA L 26 13 6 10 60.0 0 0 - 1 1 100.0 1 0 1 2 2 2 0 0 -8
+p714
+aVStanley Roberts LAC 11/29/1996 LAC @ UTA L 33 8 3 11 27.3 0 0 - 2 5 40.0 4 5 9 1 2 2 2 4 -15
+p715
+aVBrent Barry LAC 11/29/1996 LAC @ UTA L 4 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 1 1 0 1 1 -1
+p716
+aVDarrick Martin LAC 11/29/1996 LAC @ UTA L 25 18 4 10 40.0 3 6 50.0 7 8 87.5 0 0 0 3 0 0 5 3 -16
+p717
+aVLoy Vaught LAC 11/29/1996 LAC @ UTA L 22 3 1 7 14.3 0 0 - 1 2 50.0 2 4 6 0 2 0 0 3 -22
+p718
+aVBo Outlaw LAC 11/29/1996 LAC @ UTA L 20 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 0 1 0 3 2 4
+p719
+aVTerry Dehere LAC 11/29/1996 LAC @ UTA L 18 8 2 7 28.6 0 2 0.0 4 5 80.0 0 0 0 2 0 0 0 4 -10
+p720
+aVRodney Rogers LAC 11/29/1996 LAC @ UTA L 35 11 5 8 62.5 0 1 0.0 1 2 50.0 1 5 6 3 0 0 2 1 -15
+p721
+aVTerry Dehere LAC 11/27/1996 LAC vs. MIA L 27 14 5 15 33.3 1 3 33.3 3 3 100.0 1 0 1 2 2 0 4 4 4
+p722
+aVMalik Sealy LAC 11/27/1996 LAC vs. MIA L 22 3 0 4 0.0 0 0 - 3 3 100.0 0 2 2 1 0 1 3 2 -23
+p723
+aVStanley Roberts LAC 11/27/1996 LAC vs. MIA L 15 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 1 2 5 -12
+p724
+aVPooh Richardson LAC 11/27/1996 LAC vs. MIA L 23 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 2 1 -24
+p725
+aVDarrick Martin LAC 11/27/1996 LAC vs. MIA L 24 18 6 10 60.0 2 2 100.0 4 5 80.0 1 1 2 3 0 0 0 2 11
+p726
+aVLorenzen Wright LAC 11/27/1996 LAC vs. MIA L 11 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -7
+p727
+aVLamond Murray LAC 11/27/1996 LAC vs. MIA L 27 5 2 9 22.2 1 2 50.0 0 0 - 1 3 4 0 0 0 1 0 7
+p728
+aVLoy Vaught LAC 11/27/1996 LAC vs. MIA L 32 9 4 10 40.0 0 0 - 1 1 100.0 1 9 10 1 2 1 0 0 -21
+p729
+aVKevin Duckworth LAC 11/27/1996 LAC vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p730
+aVRodney Rogers LAC 11/27/1996 LAC vs. MIA L 34 11 4 11 36.4 0 1 0.0 3 3 100.0 3 2 5 3 0 0 4 3 -20
+p731
+aVBo Outlaw LAC 11/27/1996 LAC vs. MIA L 23 11 4 5 80.0 0 0 - 3 4 75.0 4 2 6 0 5 1 1 2 9
+p732
+aVStanley Roberts LAC 11/25/1996 LAC vs. CHI L 31 15 5 13 38.5 0 0 - 5 8 62.5 0 3 3 2 1 3 1 4 -7
+p733
+aVPooh Richardson LAC 11/25/1996 LAC vs. CHI L 36 10 4 11 36.4 2 5 40.0 0 0 - 2 3 5 5 0 0 3 3 -5
+p734
+aVKevin Duckworth LAC 11/25/1996 LAC vs. CHI L 17 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 2 2 4 3
+p735
+aVEric Piatkowski LAC 11/25/1996 LAC vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p736
+aVTerry Dehere LAC 11/25/1996 LAC vs. CHI L 16 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 3 1 0 2 4 1
+p737
+aVLamond Murray LAC 11/25/1996 LAC vs. CHI L 18 6 1 6 16.7 0 0 - 4 6 66.7 1 4 5 1 1 0 1 3 0
+p738
+aVLoy Vaught LAC 11/25/1996 LAC vs. CHI L 39 14 7 13 53.8 0 0 - 0 0 - 5 8 13 0 1 0 0 1 -9
+p739
+aVDarrick Martin LAC 11/25/1996 LAC vs. CHI L 4 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 1
+p740
+aVBo Outlaw LAC 11/25/1996 LAC vs. CHI L 8 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 2 0 2
+p741
+aVRodney Rogers LAC 11/25/1996 LAC vs. CHI L 31 9 3 8 37.5 1 3 33.3 2 2 100.0 2 1 3 3 0 0 0 3 -3
+p742
+aVMalik Sealy LAC 11/25/1996 LAC vs. CHI L 38 13 5 14 35.7 1 3 33.3 2 3 66.7 1 7 8 1 4 1 2 3 -2
+p743
+aVEric Piatkowski LAC 11/23/1996 LAC @ MIN L 12 15 4 5 80.0 2 2 100.0 5 6 83.3 1 1 2 1 0 0 0 3 11
+p744
+aVLorenzen Wright LAC 11/23/1996 LAC @ MIN L 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p745
+aVTerry Dehere LAC 11/23/1996 LAC @ MIN L 19 9 1 7 14.3 1 3 33.3 6 7 85.7 0 2 2 2 0 0 1 3 -9
+p746
+aVRodney Rogers LAC 11/23/1996 LAC @ MIN L 28 8 4 9 44.4 0 2 0.0 0 0 - 3 1 4 4 2 0 5 5 6
+p747
+aVStanley Roberts LAC 11/23/1996 LAC @ MIN L 27 18 5 11 45.5 0 0 - 8 11 72.7 1 4 5 0 1 1 0 2 -6
+p748
+aVDarrick Martin LAC 11/23/1996 LAC @ MIN L 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 3
+p749
+aVPooh Richardson LAC 11/23/1996 LAC @ MIN L 22 4 1 5 20.0 0 1 0.0 2 4 50.0 0 2 2 3 2 0 0 2 1
+p750
+aVLamond Murray LAC 11/23/1996 LAC @ MIN L 19 4 1 8 12.5 0 0 - 2 2 100.0 2 0 2 1 1 2 1 2 5
+p751
+aVLoy Vaught LAC 11/23/1996 LAC @ MIN L 32 12 6 7 85.7 0 0 - 0 2 0.0 2 1 3 0 1 0 2 2 -8
+p752
+aVBo Outlaw LAC 11/23/1996 LAC @ MIN L 17 2 1 1 100.0 0 0 - 0 2 0.0 2 0 2 0 0 1 1 3 -7
+p753
+aVMalik Sealy LAC 11/23/1996 LAC @ MIN L 34 15 4 10 40.0 0 0 - 7 9 77.8 2 3 5 1 3 1 3 0 -8
+p754
+aVKevin Duckworth LAC 11/23/1996 LAC @ MIN L 18 3 1 1 100.0 1 1 100.0 0 2 0.0 0 1 1 1 0 0 1 4 -3
+p755
+aVEric Piatkowski LAC 11/21/1996 LAC @ DAL L 11 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 2 -13
+p756
+aVPooh Richardson LAC 11/21/1996 LAC @ DAL L 32 8 4 12 33.3 0 6 0.0 0 0 - 0 1 1 8 1 0 1 3 -3
+p757
+aVBo Outlaw LAC 11/21/1996 LAC @ DAL L 16 7 3 7 42.9 0 1 0.0 1 2 50.0 2 2 4 0 0 0 0 3 -8
+p758
+aVLorenzen Wright LAC 11/21/1996 LAC @ DAL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p759
+aVTerry Dehere LAC 11/21/1996 LAC @ DAL L 18 2 0 4 0.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 2 4 -7
+p760
+aVDarrick Martin LAC 11/21/1996 LAC @ DAL L 7 7 1 1 100.0 1 1 100.0 4 4 100.0 0 1 1 3 0 0 0 1 6
+p761
+aVRodney Rogers LAC 11/21/1996 LAC @ DAL L 24 14 4 10 40.0 2 3 66.7 4 4 100.0 4 3 7 1 1 0 2 2 -1
+p762
+aVLamond Murray LAC 11/21/1996 LAC @ DAL L 24 14 7 12 58.3 0 2 0.0 0 1 0.0 3 3 6 0 1 0 2 0 -10
+p763
+aVKevin Duckworth LAC 11/21/1996 LAC @ DAL L 27 9 3 5 60.0 0 0 - 3 4 75.0 4 2 6 6 1 0 1 3 -8
+p764
+aVStanley Roberts LAC 11/21/1996 LAC @ DAL L 18 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 0 0 2 6 -5
+p765
+aVMalik Sealy LAC 11/21/1996 LAC @ DAL L 27 15 6 12 50.0 2 4 50.0 1 1 100.0 0 1 1 3 2 0 2 0 -5
+p766
+aVLoy Vaught LAC 11/21/1996 LAC @ DAL L 35 10 4 10 40.0 0 0 - 2 2 100.0 3 8 11 2 1 0 1 2 -4
+p767
+aVDarrick Martin LAC 11/20/1996 LAC @ SAS W 2 6 1 1 100.0 0 0 - 4 4 100.0 0 0 0 0 0 0 0 0 6
+p768
+aVLamond Murray LAC 11/20/1996 LAC @ SAS W 20 7 2 5 40.0 1 3 33.3 2 2 100.0 0 2 2 0 0 1 1 3 5
+p769
+aVRodney Rogers LAC 11/20/1996 LAC @ SAS W 25 10 4 10 40.0 0 2 0.0 2 2 100.0 2 1 3 3 0 0 2 4 -1
+p770
+aVTerry Dehere LAC 11/20/1996 LAC @ SAS W 20 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 7 1 0 1 2 4
+p771
+aVBo Outlaw LAC 11/20/1996 LAC @ SAS W 21 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 3 1 1 0 13
+p772
+aVMalik Sealy LAC 11/20/1996 LAC @ SAS W 33 7 2 10 20.0 1 3 33.3 2 2 100.0 0 4 4 3 0 0 3 3 9
+p773
+aVEric Piatkowski LAC 11/20/1996 LAC @ SAS W 15 9 3 4 75.0 2 3 66.7 1 1 100.0 0 0 0 0 0 0 2 0 3
+p774
+aVStanley Roberts LAC 11/20/1996 LAC @ SAS W 18 12 4 8 50.0 0 0 - 4 8 50.0 2 5 7 2 0 1 1 2 10
+p775
+aVPooh Richardson LAC 11/20/1996 LAC @ SAS W 25 5 2 6 33.3 1 4 25.0 0 2 0.0 1 3 4 3 0 0 2 0 2
+p776
+aVLorenzen Wright LAC 11/20/1996 LAC @ SAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p777
+aVKevin Duckworth LAC 11/20/1996 LAC @ SAS W 21 8 4 10 40.0 0 0 - 0 0 - 3 3 6 0 2 2 1 3 -2
+p778
+aVLoy Vaught LAC 11/20/1996 LAC @ SAS W 35 20 8 9 88.9 0 0 - 4 5 80.0 4 4 8 0 0 0 1 1 10
+p779
+aVLamond Murray LAC 11/17/1996 LAC vs. MIL W 13 8 4 5 80.0 0 0 - 0 0 - 1 2 3 2 0 0 2 1 0
+p780
+aVEric Piatkowski LAC 11/17/1996 LAC vs. MIL W 11 10 3 4 75.0 1 2 50.0 3 4 75.0 0 0 0 1 1 0 1 0 -1
+p781
+aVPooh Richardson LAC 11/17/1996 LAC vs. MIL W 36 7 3 10 30.0 1 3 33.3 0 0 - 4 4 8 11 4 0 3 2 9
+p782
+aVDarrick Martin LAC 11/17/1996 LAC vs. MIL W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p783
+aVStanley Roberts LAC 11/17/1996 LAC vs. MIL W 30 17 8 14 57.1 0 0 - 1 1 100.0 1 5 6 0 0 3 0 3 26
+p784
+aVLoy Vaught LAC 11/17/1996 LAC vs. MIL W 31 12 6 14 42.9 0 0 - 0 0 - 4 6 10 0 1 2 1 3 9
+p785
+aVRodney Rogers LAC 11/17/1996 LAC vs. MIL W 30 20 7 9 77.8 2 2 100.0 4 6 66.7 0 5 5 4 0 1 3 2 1
+p786
+aVLorenzen Wright LAC 11/17/1996 LAC vs. MIL W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -4
+p787
+aVMalik Sealy LAC 11/17/1996 LAC vs. MIL W 37 18 6 18 33.3 0 0 - 6 6 100.0 2 4 6 3 2 2 2 1 9
+p788
+aVTerry Dehere LAC 11/17/1996 LAC vs. MIL W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 0 0 1 0 0
+p789
+aVKevin Duckworth LAC 11/17/1996 LAC vs. MIL W 13 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 4 -10
+p790
+aVBo Outlaw LAC 11/17/1996 LAC vs. MIL W 24 5 2 3 66.7 0 0 - 1 2 50.0 2 6 8 0 1 1 0 1 2
+p791
+aVStanley Roberts LAC 11/15/1996 LAC @ LAL L 27 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 0 2 0 5 5 -2
+p792
+aVMalik Sealy LAC 11/15/1996 LAC @ LAL L 39 19 8 13 61.5 0 0 - 3 7 42.9 2 3 5 4 3 0 0 4 -4
+p793
+aVLoy Vaught LAC 11/15/1996 LAC @ LAL L 29 10 4 17 23.5 0 0 - 2 2 100.0 5 7 12 2 3 0 4 1 -7
+p794
+aVLamond Murray LAC 11/15/1996 LAC @ LAL L 29 15 6 8 75.0 1 1 100.0 2 6 33.3 3 1 4 4 0 1 1 3 1
+p795
+aVRodney Rogers LAC 11/15/1996 LAC @ LAL L 19 7 2 5 40.0 0 1 0.0 3 4 75.0 1 1 2 3 0 1 1 4 -8
+p796
+aVBo Outlaw LAC 11/15/1996 LAC @ LAL L 19 10 5 6 83.3 0 0 - 0 0 - 2 4 6 0 1 1 1 3 0
+p797
+aVKevin Duckworth LAC 11/15/1996 LAC @ LAL L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 2 3 -4
+p798
+aVPooh Richardson LAC 11/15/1996 LAC @ LAL L 28 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 4 2 0 4 2 -14
+p799
+aVEric Piatkowski LAC 11/15/1996 LAC @ LAL L 7 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 2 2 -5
+p800
+aVTerry Dehere LAC 11/15/1996 LAC @ LAL L 10 7 2 3 66.7 1 2 50.0 2 2 100.0 0 1 1 4 0 0 1 2 5
+p801
+aVDarrick Martin LAC 11/15/1996 LAC @ LAL L 12 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 3 1 0 1 1 4
+p802
+aVLorenzen Wright LAC 11/15/1996 LAC @ LAL L 7 6 3 4 75.0 0 0 - 0 0 - 3 0 3 0 0 0 0 1 -1
+p803
+aVPooh Richardson LAC 11/14/1996 LAC vs. SEA L 22 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 4 -13
+p804
+aVDarrick Martin LAC 11/14/1996 LAC vs. SEA L 18 12 5 7 71.4 1 3 33.3 1 3 33.3 0 1 1 0 1 0 2 0 0
+p805
+aVLoy Vaught LAC 11/14/1996 LAC vs. SEA L 39 11 5 14 35.7 0 0 - 1 4 25.0 4 7 11 1 1 0 1 3 -14
+p806
+aVStanley Roberts LAC 11/14/1996 LAC vs. SEA L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 2 2 0 -7
+p807
+aVRodney Rogers LAC 11/14/1996 LAC vs. SEA L 26 8 3 5 60.0 1 1 100.0 1 2 50.0 0 2 2 3 3 0 3 3 -8
+p808
+aVEric Piatkowski LAC 11/14/1996 LAC vs. SEA L 14 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 2 -12
+p809
+aVLorenzen Wright LAC 11/14/1996 LAC vs. SEA L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p810
+aVMalik Sealy LAC 11/14/1996 LAC vs. SEA L 34 17 6 16 37.5 0 1 0.0 5 5 100.0 0 2 2 3 1 0 3 2 -4
+p811
+aVKevin Duckworth LAC 11/14/1996 LAC vs. SEA L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 3 1 0 -4
+p812
+aVBo Outlaw LAC 11/14/1996 LAC vs. SEA L 36 5 2 9 22.2 0 1 0.0 1 4 25.0 5 6 11 2 0 4 4 3 -7
+p813
+aVTerry Dehere LAC 11/14/1996 LAC vs. SEA L 9 3 0 2 0.0 0 1 0.0 3 4 75.0 0 1 1 1 1 0 3 3 -3
+p814
+aVLamond Murray LAC 11/14/1996 LAC vs. SEA L 22 7 3 6 50.0 0 0 - 1 1 100.0 3 1 4 0 0 0 1 1 -8
+p815
+aVRodney Rogers LAC 11/12/1996 LAC @ VAN W 36 12 5 8 62.5 0 1 0.0 2 2 100.0 1 4 5 4 0 0 2 5 -7
+p816
+aVStanley Roberts LAC 11/12/1996 LAC @ VAN W 29 15 7 11 63.6 0 0 - 1 2 50.0 2 5 7 1 0 0 0 6 6
+p817
+aVLorenzen Wright LAC 11/12/1996 LAC @ VAN W 6 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 6
+p818
+aVPooh Richardson LAC 11/12/1996 LAC @ VAN W 37 15 5 15 33.3 3 7 42.9 2 2 100.0 1 5 6 4 1 0 2 0 8
+p819
+aVLoy Vaught LAC 11/12/1996 LAC @ VAN W 29 0 0 8 0.0 0 0 - 0 0 - 3 6 9 4 2 2 1 2 -9
+p820
+aVMalik Sealy LAC 11/12/1996 LAC @ VAN W 44 22 7 16 43.8 1 1 100.0 7 9 77.8 3 2 5 3 1 2 2 5 -2
+p821
+aVEric Piatkowski LAC 11/12/1996 LAC @ VAN W 10 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 0 1 0 1 0 5
+p822
+aVTerry Dehere LAC 11/12/1996 LAC @ VAN W 11 5 2 6 33.3 0 3 0.0 1 2 50.0 0 1 1 1 0 0 1 3 7
+p823
+aVBo Outlaw LAC 11/12/1996 LAC @ VAN W 40 13 5 7 71.4 0 0 - 3 4 75.0 3 5 8 1 5 4 1 3 20
+p824
+aVKevin Duckworth LAC 11/12/1996 LAC @ VAN W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -15
+p825
+aVLamond Murray LAC 11/12/1996 LAC @ VAN W 30 4 1 10 10.0 0 4 0.0 2 2 100.0 3 6 9 6 1 0 1 0 15
+p826
+aVDarrick Martin LAC 11/12/1996 LAC @ VAN W 14 7 3 7 42.9 0 1 0.0 1 1 100.0 0 1 1 1 0 0 2 1 1
+p827
+aVEric Piatkowski LAC 11/10/1996 LAC vs. MIN W 10 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 11
+p828
+aVDarrick Martin LAC 11/10/1996 LAC vs. MIN W 21 7 1 5 20.0 1 1 100.0 4 4 100.0 1 2 3 4 1 0 1 2 13
+p829
+aVMalik Sealy LAC 11/10/1996 LAC vs. MIN W 24 6 1 10 10.0 0 0 - 4 4 100.0 1 2 3 0 2 1 2 1 -9
+p830
+aVBo Outlaw LAC 11/10/1996 LAC vs. MIN W 16 10 3 6 50.0 0 0 - 4 8 50.0 2 4 6 1 0 1 1 4 19
+p831
+aVLoy Vaught LAC 11/10/1996 LAC vs. MIN W 29 4 2 7 28.6 0 0 - 0 0 - 3 5 8 0 2 0 2 4 -8
+p832
+aVLorenzen Wright LAC 11/10/1996 LAC vs. MIN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 0
+p833
+aVStanley Roberts LAC 11/10/1996 LAC vs. MIN W 32 19 7 17 41.2 0 0 - 5 6 83.3 4 10 14 0 0 0 1 5 17
+p834
+aVRodney Rogers LAC 11/10/1996 LAC vs. MIN W 43 22 9 13 69.2 1 1 100.0 3 4 75.0 2 6 8 3 2 0 3 3 10
+p835
+aVKevin Duckworth LAC 11/10/1996 LAC vs. MIN W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p836
+aVPooh Richardson LAC 11/10/1996 LAC vs. MIN W 27 2 1 10 10.0 0 4 0.0 0 0 - 1 3 4 4 1 0 1 0 -2
+p837
+aVLamond Murray LAC 11/10/1996 LAC vs. MIN W 9 7 3 4 75.0 0 0 - 1 1 100.0 1 1 2 1 0 0 0 1 0
+p838
+aVTerry Dehere LAC 11/10/1996 LAC vs. MIN W 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 9
+p839
+aVDarrick Martin LAC 11/08/1996 LAC vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p840
+aVMalik Sealy LAC 11/08/1996 LAC vs. NYK L 24 13 3 8 37.5 0 0 - 7 7 100.0 0 2 2 0 1 0 3 1 -14
+p841
+aVKevin Duckworth LAC 11/08/1996 LAC vs. NYK L 27 12 6 12 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 4 -17
+p842
+aVTerry Dehere LAC 11/08/1996 LAC vs. NYK L 25 5 1 6 16.7 1 2 50.0 2 2 100.0 1 1 2 4 1 0 2 2 7
+p843
+aVPooh Richardson LAC 11/08/1996 LAC vs. NYK L 32 4 2 10 20.0 0 2 0.0 0 0 - 1 1 2 3 5 0 2 2 -17
+p844
+aVBo Outlaw LAC 11/08/1996 LAC vs. NYK L 26 10 3 6 50.0 0 0 - 4 8 50.0 4 3 7 1 3 3 1 2 10
+p845
+aVRodney Rogers LAC 11/08/1996 LAC vs. NYK L 27 7 3 8 37.5 0 1 0.0 1 3 33.3 0 0 0 1 2 0 0 3 -15
+p846
+aVLoy Vaught LAC 11/08/1996 LAC vs. NYK L 25 3 0 5 0.0 0 0 - 3 4 75.0 1 5 6 0 1 0 3 3 -13
+p847
+aVEric Piatkowski LAC 11/08/1996 LAC vs. NYK L 25 5 1 5 20.0 0 1 0.0 3 3 100.0 1 2 3 0 5 0 0 4 10
+p848
+aVLorenzen Wright LAC 11/08/1996 LAC vs. NYK L 7 6 3 4 75.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 7
+p849
+aVLamond Murray LAC 11/08/1996 LAC vs. NYK L 28 9 1 5 20.0 0 1 0.0 7 9 77.8 0 2 2 1 1 2 3 1 4
+p850
+aVStanley Roberts LAC 11/08/1996 LAC vs. NYK L 19 7 2 7 28.6 0 0 - 3 4 75.0 0 4 4 1 1 2 4 5 5
+p851
+aVPooh Richardson LAC 11/05/1996 LAC @ DEN W 36 12 5 12 41.7 1 3 33.3 1 2 50.0 1 1 2 6 1 1 3 3 2
+p852
+aVRodney Rogers LAC 11/05/1996 LAC @ DEN W 23 15 5 10 50.0 1 3 33.3 4 5 80.0 1 3 4 2 0 1 1 3 3
+p853
+aVBo Outlaw LAC 11/05/1996 LAC @ DEN W 21 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 2 0 1 5 14
+p854
+aVLamond Murray LAC 11/05/1996 LAC @ DEN W 25 8 4 7 57.1 0 1 0.0 0 1 0.0 2 2 4 0 1 0 1 0 1
+p855
+aVLorenzen Wright LAC 11/05/1996 LAC @ DEN W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p856
+aVKevin Duckworth LAC 11/05/1996 LAC @ DEN W 15 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 3 2 -13
+p857
+aVMalik Sealy LAC 11/05/1996 LAC @ DEN W 27 6 1 7 14.3 0 0 - 4 4 100.0 0 2 2 2 1 0 1 2 -11
+p858
+aVTerry Dehere LAC 11/05/1996 LAC @ DEN W 19 5 1 6 16.7 0 1 0.0 3 4 75.0 0 3 3 0 1 1 0 2 18
+p859
+aVLoy Vaught LAC 11/05/1996 LAC @ DEN W 28 10 5 16 31.3 0 0 - 0 0 - 7 6 13 0 2 0 1 1 -7
+p860
+aVStanley Roberts LAC 11/05/1996 LAC @ DEN W 29 21 8 12 66.7 0 0 - 5 6 83.3 3 4 7 2 0 3 1 1 18
+p861
+aVDarrick Martin LAC 11/05/1996 LAC @ DEN W 12 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 2 1 2
+p862
+aVEric Piatkowski LAC 11/05/1996 LAC @ DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p863
+aVLoy Vaught LAC 11/02/1996 LAC vs. UTA L 36 11 4 11 36.4 0 2 0.0 3 4 75.0 4 9 13 3 2 0 0 4 -5
+p864
+aVEric Piatkowski LAC 11/02/1996 LAC vs. UTA L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 0
+p865
+aVPooh Richardson LAC 11/02/1996 LAC vs. UTA L 32 13 4 10 40.0 3 6 50.0 2 4 50.0 1 1 2 3 4 0 4 3 -9
+p866
+aVStanley Roberts LAC 11/02/1996 LAC vs. UTA L 21 8 2 7 28.6 0 0 - 4 6 66.7 1 3 4 0 0 0 0 4 2
+p867
+aVLamond Murray LAC 11/02/1996 LAC vs. UTA L 23 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 2 0 0 1 2 4
+p868
+aVTerry Dehere LAC 11/02/1996 LAC vs. UTA L 13 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 2 0 0 2 3 5
+p869
+aVDarrick Martin LAC 11/02/1996 LAC vs. UTA L 9 2 1 2 50.0 0 0 - 0 1 0.0 0 2 2 2 0 0 0 1 0
+p870
+aVBo Outlaw LAC 11/02/1996 LAC vs. UTA L 19 2 1 2 50.0 0 0 - 0 3 0.0 0 4 4 1 0 2 0 2 3
+p871
+aVMalik Sealy LAC 11/02/1996 LAC vs. UTA L 36 19 6 17 35.3 0 3 0.0 7 8 87.5 0 1 1 2 1 1 0 1 -5
+p872
+aVRodney Rogers LAC 11/02/1996 LAC vs. UTA L 25 4 2 5 40.0 0 1 0.0 0 2 0.0 3 1 4 3 1 0 4 5 -9
+p873
+aVKevin Duckworth LAC 11/02/1996 LAC vs. UTA L 20 7 2 7 28.6 1 2 50.0 2 2 100.0 0 3 3 1 0 0 0 3 -11
+p874
+aVKevin Duckworth LAC 11/01/1996 LAC @ GSW W 23 8 4 8 50.0 0 0 - 0 0 - 1 1 2 1 0 0 4 3 -4
+p875
+aVLoy Vaught LAC 11/01/1996 LAC @ GSW W 39 19 9 19 47.4 0 0 - 1 2 50.0 3 11 14 2 0 0 4 3 9
+p876
+aVBo Outlaw LAC 11/01/1996 LAC @ GSW W 24 9 4 9 44.4 0 0 - 1 1 100.0 4 4 8 1 1 1 0 1 8
+p877
+aVMalik Sealy LAC 11/01/1996 LAC @ GSW W 39 15 7 15 46.7 0 0 - 1 2 50.0 3 5 8 1 1 1 2 1 9
+p878
+aVTerry Dehere LAC 11/01/1996 LAC @ GSW W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 3
+p879
+aVRodney Rogers LAC 11/01/1996 LAC @ GSW W 15 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 1 4 -3
+p880
+aVDarrick Martin LAC 11/01/1996 LAC @ GSW W 19 13 3 7 42.9 1 2 50.0 6 6 100.0 1 0 1 5 0 0 2 3 7
+p881
+aVLamond Murray LAC 11/01/1996 LAC @ GSW W 32 13 5 11 45.5 1 1 100.0 2 2 100.0 1 6 7 1 2 0 3 6 13
+p882
+aVPooh Richardson LAC 11/01/1996 LAC @ GSW W 30 16 7 9 77.8 2 2 100.0 0 2 0.0 1 3 4 9 3 0 1 3 7
+p883
+aVStanley Roberts LAC 11/01/1996 LAC @ GSW W 9 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 2 11
+p884
+a.

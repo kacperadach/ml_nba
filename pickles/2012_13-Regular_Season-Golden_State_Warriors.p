@@ -1,0 +1,1830 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDavid Lee GSW 04/17/2013 GSW @ POR W 32 20 9 12 75.0 0 0 - 2 3 66.7 0 10 10 1 3 0 1 2 15
+p2
+aVCarl Landry GSW 04/17/2013 GSW @ POR W 29 10 5 11 45.5 0 0 - 0 0 - 3 6 9 0 0 0 2 1 10
+p3
+aVJarrett Jack GSW 04/17/2013 GSW @ POR W 34 14 6 10 60.0 0 1 0.0 2 3 66.7 1 4 5 6 0 0 1 1 14
+p4
+aVStephen Curry GSW 04/17/2013 GSW @ POR W 32 15 5 16 31.3 4 11 36.4 1 1 100.0 1 1 2 5 3 0 1 2 9
+p5
+aVFestus Ezeli GSW 04/17/2013 GSW @ POR W 16 2 1 4 25.0 0 0 - 0 0 - 4 0 4 2 0 1 1 2 -10
+p6
+aVRichard Jefferson GSW 04/17/2013 GSW @ POR W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -10
+p7
+aVKent Bazemore GSW 04/17/2013 GSW @ POR W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p8
+aVHarrison Barnes GSW 04/17/2013 GSW @ POR W 30 8 3 10 30.0 0 1 0.0 2 2 100.0 2 8 10 3 0 0 1 1 17
+p9
+aVAndrew Bogut GSW 04/17/2013 GSW @ POR W 17 2 1 8 12.5 0 0 - 0 0 - 3 5 8 3 0 2 2 2 8
+p10
+aVKlay Thompson GSW 04/17/2013 GSW @ POR W 38 24 9 19 47.4 5 7 71.4 1 2 50.0 0 3 3 0 1 0 2 4 7
+p11
+aVRichard Jefferson GSW 04/15/2013 GSW vs. SAS W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -8
+p12
+aVFestus Ezeli GSW 04/15/2013 GSW vs. SAS W 29 8 3 6 50.0 0 0 - 2 2 100.0 2 11 13 0 0 3 1 2 18
+p13
+aVHarrison Barnes GSW 04/15/2013 GSW vs. SAS W 33 11 4 10 40.0 1 3 33.3 2 2 100.0 1 6 7 3 1 0 6 2 1
+p14
+aVKent Bazemore GSW 04/15/2013 GSW vs. SAS W 7 3 0 1 0.0 0 0 - 3 4 75.0 0 0 0 1 1 1 3 1 -6
+p15
+aVKlay Thompson GSW 04/15/2013 GSW vs. SAS W 35 23 10 17 58.8 1 4 25.0 2 2 100.0 1 4 5 2 1 2 3 2 30
+p16
+aVCarl Landry GSW 04/15/2013 GSW vs. SAS W 27 16 7 9 77.8 0 0 - 2 2 100.0 2 6 8 1 2 0 1 3 -18
+p17
+aVJarrett Jack GSW 04/15/2013 GSW vs. SAS W 30 6 3 8 37.5 0 0 - 0 0 - 0 1 1 12 1 1 2 3 2
+p18
+aVStephen Curry GSW 04/15/2013 GSW vs. SAS W 39 35 13 23 56.5 7 13 53.8 2 2 100.0 1 7 8 5 2 0 3 0 13
+p19
+aVDavid Lee GSW 04/15/2013 GSW vs. SAS W 36 12 5 10 50.0 0 0 - 2 4 50.0 2 9 11 2 0 0 2 4 18
+p20
+aVKlay Thompson GSW 04/12/2013 GSW @ LAL L 43 25 10 24 41.7 2 7 28.6 3 4 75.0 0 2 2 7 2 0 1 5 3
+p21
+aVStephen Curry GSW 04/12/2013 GSW @ LAL L 44 47 17 31 54.8 9 15 60.0 4 4 100.0 3 3 6 9 3 0 1 3 3
+p22
+aVHarrison Barnes GSW 04/12/2013 GSW @ LAL L 29 4 1 6 16.7 0 0 - 2 2 100.0 2 4 6 0 0 0 0 2 0
+p23
+aVCarl Landry GSW 04/12/2013 GSW @ LAL L 28 11 5 12 41.7 0 0 - 1 2 50.0 2 3 5 1 0 1 2 5 -11
+p24
+aVJarrett Jack GSW 04/12/2013 GSW @ LAL L 28 6 3 9 33.3 0 4 0.0 0 0 - 1 7 8 5 0 0 3 3 -10
+p25
+aVFestus Ezeli GSW 04/12/2013 GSW @ LAL L 16 4 2 3 66.7 0 0 - 0 0 - 4 3 7 0 0 1 0 6 8
+p26
+aVAndris Biedrins GSW 04/12/2013 GSW @ LAL L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 1 1 1 1 5 3
+p27
+aVDavid Lee GSW 04/12/2013 GSW @ LAL L 43 19 8 12 66.7 0 0 - 3 4 75.0 2 6 8 2 1 1 0 4 -6
+p28
+aVRichard Jefferson GSW 04/11/2013 GSW vs. OKC L 12 5 2 2 100.0 0 0 - 1 4 25.0 0 1 1 1 0 0 0 0 -1
+p29
+aVDavid Lee GSW 04/11/2013 GSW vs. OKC L 32 13 6 13 46.2 0 0 - 1 1 100.0 2 9 11 0 1 1 3 3 -18
+p30
+aVJarrett Jack GSW 04/11/2013 GSW vs. OKC L 29 19 6 12 50.0 2 3 66.7 5 6 83.3 0 4 4 6 3 0 1 1 -5
+p31
+aVFestus Ezeli GSW 04/11/2013 GSW vs. OKC L 21 6 2 4 50.0 0 0 - 2 4 50.0 2 4 6 0 0 1 0 0 -4
+p32
+aVDraymond Green GSW 04/11/2013 GSW vs. OKC L 15 3 1 2 50.0 0 1 0.0 1 2 50.0 0 4 4 0 0 0 1 4 -2
+p33
+aVKlay Thompson GSW 04/11/2013 GSW vs. OKC L 31 6 2 10 20.0 0 3 0.0 2 2 100.0 0 0 0 1 1 1 2 4 -17
+p34
+aVAndrew Bogut GSW 04/11/2013 GSW vs. OKC L 9 0 0 3 0.0 0 0 - 0 0 - 0 4 4 0 1 0 1 0 -7
+p35
+aVStephen Curry GSW 04/11/2013 GSW vs. OKC L 35 22 9 18 50.0 3 6 50.0 1 1 100.0 0 3 3 7 2 0 4 0 -9
+p36
+aVAndris Biedrins GSW 04/11/2013 GSW vs. OKC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p37
+aVKent Bazemore GSW 04/11/2013 GSW vs. OKC L 8 4 2 5 40.0 0 1 0.0 0 2 0.0 0 0 0 1 1 0 1 0 -2
+p38
+aVCarl Landry GSW 04/11/2013 GSW vs. OKC L 22 10 4 7 57.1 1 1 100.0 1 2 50.0 2 1 3 0 0 0 2 1 -9
+p39
+aVHarrison Barnes GSW 04/11/2013 GSW vs. OKC L 21 9 3 8 37.5 1 1 100.0 2 2 100.0 1 1 2 0 1 0 1 5 -25
+p40
+aVKlay Thompson GSW 04/09/2013 GSW vs. MIN W 36 30 10 19 52.6 6 10 60.0 4 4 100.0 0 3 3 2 5 0 2 4 13
+p41
+aVDraymond Green GSW 04/09/2013 GSW vs. MIN W 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -4
+p42
+aVKent Bazemore GSW 04/09/2013 GSW vs. MIN W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p43
+aVRichard Jefferson GSW 04/09/2013 GSW vs. MIN W 6 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 5
+p44
+aVStephen Curry GSW 04/09/2013 GSW vs. MIN W 39 24 9 21 42.9 2 9 22.2 4 5 80.0 1 3 4 10 1 1 3 4 12
+p45
+aVFestus Ezeli GSW 04/09/2013 GSW vs. MIN W 15 3 0 2 0.0 0 0 - 3 4 75.0 3 5 8 0 0 0 0 1 1
+p46
+aVJarrett Jack GSW 04/09/2013 GSW vs. MIN W 23 4 2 8 25.0 0 1 0.0 0 0 - 0 4 4 2 0 1 0 4 0
+p47
+aVDavid Lee GSW 04/09/2013 GSW vs. MIN W 33 15 6 12 50.0 0 1 0.0 3 4 75.0 3 9 12 5 1 1 4 0 16
+p48
+aVHarrison Barnes GSW 04/09/2013 GSW vs. MIN W 26 15 6 11 54.5 1 1 100.0 2 2 100.0 3 7 10 1 0 0 1 3 23
+p49
+aVAndrew Bogut GSW 04/09/2013 GSW vs. MIN W 30 2 1 3 33.3 0 0 - 0 2 0.0 1 13 14 2 0 3 3 3 12
+p50
+aVCarl Landry GSW 04/09/2013 GSW vs. MIN W 18 5 2 7 28.6 0 0 - 1 1 100.0 0 1 1 1 0 0 0 0 3
+p51
+aVKlay Thompson GSW 04/07/2013 GSW vs. UTA L 42 20 8 15 53.3 2 3 66.7 2 4 50.0 0 2 2 2 1 1 3 3 -7
+p52
+aVDraymond Green GSW 04/07/2013 GSW vs. UTA L 3 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -5
+p53
+aVCarl Landry GSW 04/07/2013 GSW vs. UTA L 19 10 4 5 80.0 0 0 - 2 3 66.7 1 6 7 2 1 0 0 2 -1
+p54
+aVKent Bazemore GSW 04/07/2013 GSW vs. UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p55
+aVDavid Lee GSW 04/07/2013 GSW vs. UTA L 45 21 8 17 47.1 0 0 - 5 7 71.4 2 11 13 1 1 0 2 1 -9
+p56
+aVStephen Curry GSW 04/07/2013 GSW vs. UTA L 45 22 8 19 42.1 4 9 44.4 2 2 100.0 1 3 4 5 1 0 5 3 -5
+p57
+aVAndrew Bogut GSW 04/07/2013 GSW vs. UTA L 23 2 1 3 33.3 0 0 - 0 0 - 1 5 6 2 0 1 3 2 -9
+p58
+aVHarrison Barnes GSW 04/07/2013 GSW vs. UTA L 23 4 1 3 33.3 0 2 0.0 2 2 100.0 0 3 3 3 0 0 1 0 2
+p59
+aVJarrett Jack GSW 04/07/2013 GSW vs. UTA L 34 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 6 1 0 2 2 -5
+p60
+aVFestus Ezeli GSW 04/07/2013 GSW vs. UTA L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 7
+p61
+aVKent Bazemore GSW 04/05/2013 GSW @ PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p62
+aVKlay Thompson GSW 04/05/2013 GSW @ PHX W 41 25 10 18 55.6 3 4 75.0 2 3 66.7 0 0 0 3 4 1 3 5 11
+p63
+aVStephen Curry GSW 04/05/2013 GSW @ PHX W 41 18 6 15 40.0 3 8 37.5 3 3 100.0 0 1 1 15 4 0 4 5 14
+p64
+aVFestus Ezeli GSW 04/05/2013 GSW @ PHX W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -13
+p65
+aVHarrison Barnes GSW 04/05/2013 GSW @ PHX W 26 11 4 9 44.4 1 1 100.0 2 2 100.0 0 3 3 0 1 0 2 1 -3
+p66
+aVAndrew Bogut GSW 04/05/2013 GSW @ PHX W 19 6 3 5 60.0 0 0 - 0 0 - 3 2 5 0 0 0 0 2 8
+p67
+aVDraymond Green GSW 04/05/2013 GSW @ PHX W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p68
+aVDavid Lee GSW 04/05/2013 GSW @ PHX W 44 22 10 18 55.6 0 0 - 2 2 100.0 4 10 14 2 0 0 1 3 11
+p69
+aVCarl Landry GSW 04/05/2013 GSW @ PHX W 27 13 5 9 55.6 0 0 - 3 4 75.0 3 1 4 2 3 0 2 4 3
+p70
+aVJarrett Jack GSW 04/05/2013 GSW @ PHX W 32 14 5 11 45.5 2 3 66.7 2 2 100.0 2 0 2 4 3 0 1 1 0
+p71
+aVFestus Ezeli GSW 04/03/2013 GSW vs. NOH W 10 2 0 0 - 0 0 - 2 2 100.0 3 1 4 1 0 2 0 2 -8
+p72
+aVKlay Thompson GSW 04/03/2013 GSW vs. NOH W 36 8 4 11 36.4 0 2 0.0 0 0 - 1 1 2 2 1 1 1 4 22
+p73
+aVDraymond Green GSW 04/03/2013 GSW vs. NOH W 16 4 1 3 33.3 1 2 50.0 1 2 50.0 0 3 3 1 1 1 1 1 -1
+p74
+aVCarl Landry GSW 04/03/2013 GSW vs. NOH W 19 8 3 7 42.9 0 0 - 2 2 100.0 0 4 4 0 0 1 1 0 14
+p75
+aVStephen Curry GSW 04/03/2013 GSW vs. NOH W 36 20 6 14 42.9 4 10 40.0 4 4 100.0 0 3 3 9 1 0 2 5 14
+p76
+aVHarrison Barnes GSW 04/03/2013 GSW vs. NOH W 19 10 3 9 33.3 1 3 33.3 3 4 75.0 1 2 3 0 0 0 2 0 -17
+p77
+aVRichard Jefferson GSW 04/03/2013 GSW vs. NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p78
+aVDavid Lee GSW 04/03/2013 GSW vs. NOH W 38 23 9 15 60.0 0 0 - 5 6 83.3 3 13 16 4 1 1 3 3 18
+p79
+aVAndrew Bogut GSW 04/03/2013 GSW vs. NOH W 26 4 2 6 33.3 0 0 - 0 0 - 2 7 9 0 1 2 1 3 0
+p80
+aVKent Bazemore GSW 04/03/2013 GSW vs. NOH W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p81
+aVJarrett Jack GSW 04/03/2013 GSW vs. NOH W 36 19 8 11 72.7 1 1 100.0 2 2 100.0 1 2 3 8 0 0 2 2 20
+p82
+aVHarrison Barnes GSW 03/30/2013 GSW vs. POR W 34 11 4 10 40.0 0 2 0.0 3 3 100.0 0 7 7 1 1 1 1 2 9
+p83
+aVAndrew Bogut GSW 03/30/2013 GSW vs. POR W 22 10 5 8 62.5 0 0 - 0 2 0.0 3 3 6 1 0 2 0 3 2
+p84
+aVFestus Ezeli GSW 03/30/2013 GSW vs. POR W 14 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 1 2 2 1 11
+p85
+aVCarl Landry GSW 03/30/2013 GSW vs. POR W 23 25 9 10 90.0 0 0 - 7 8 87.5 3 7 10 0 0 0 0 5 24
+p86
+aVDavid Lee GSW 03/30/2013 GSW vs. POR W 25 13 5 12 41.7 0 0 - 3 4 75.0 2 6 8 3 0 0 1 4 8
+p87
+aVDraymond Green GSW 03/30/2013 GSW vs. POR W 18 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 1 2 0 2 18
+p88
+aVKlay Thompson GSW 03/30/2013 GSW vs. POR W 26 6 1 6 16.7 1 4 25.0 3 4 75.0 0 4 4 1 1 0 0 3 17
+p89
+aVKent Bazemore GSW 03/30/2013 GSW vs. POR W 6 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 2
+p90
+aVRichard Jefferson GSW 03/30/2013 GSW vs. POR W 6 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p91
+aVStephen Curry GSW 03/30/2013 GSW vs. POR W 37 39 14 22 63.6 7 12 58.3 4 4 100.0 2 3 5 6 1 0 3 2 15
+p92
+aVJarrett Jack GSW 03/30/2013 GSW vs. POR W 28 4 1 5 20.0 0 0 - 2 2 100.0 0 5 5 6 1 1 2 2 27
+p93
+aVFestus Ezeli GSW 03/27/2013 GSW vs. SAC L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 1
+p94
+aVAndrew Bogut GSW 03/27/2013 GSW vs. SAC L 27 12 6 11 54.5 0 0 - 0 0 - 5 4 9 2 1 4 1 0 -5
+p95
+aVCarl Landry GSW 03/27/2013 GSW vs. SAC L 18 16 7 9 77.8 0 0 - 2 2 100.0 5 2 7 0 1 0 0 0 0
+p96
+aVDraymond Green GSW 03/27/2013 GSW vs. SAC L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p97
+aVDavid Lee GSW 03/27/2013 GSW vs. SAC L 43 20 10 13 76.9 0 0 - 0 0 - 0 10 10 4 1 0 6 4 -9
+p98
+aVJarrett Jack GSW 03/27/2013 GSW vs. SAC L 36 16 6 13 46.2 1 3 33.3 3 4 75.0 0 2 2 7 0 0 0 2 4
+p99
+aVKlay Thompson GSW 03/27/2013 GSW vs. SAC L 34 4 1 13 7.7 1 8 12.5 1 1 100.0 0 3 3 4 0 0 2 5 -2
+p100
+aVStephen Curry GSW 03/27/2013 GSW vs. SAC L 46 17 5 18 27.8 2 9 22.2 5 6 83.3 2 3 5 12 4 0 3 3 1
+p101
+aVHarrison Barnes GSW 03/27/2013 GSW vs. SAC L 22 9 4 8 50.0 1 2 50.0 0 0 - 0 3 3 0 2 0 1 2 -16
+p102
+aVKent Bazemore GSW 03/27/2013 GSW vs. SAC L 4 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -6
+p103
+aVDraymond Green GSW 03/25/2013 GSW vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p104
+aVDavid Lee GSW 03/25/2013 GSW vs. LAL W 38 23 9 15 60.0 0 0 - 5 5 100.0 3 9 12 2 0 0 4 3 -4
+p105
+aVHarrison Barnes GSW 03/25/2013 GSW vs. LAL W 29 10 3 8 37.5 1 2 50.0 3 3 100.0 1 4 5 0 1 0 1 3 11
+p106
+aVKlay Thompson GSW 03/25/2013 GSW vs. LAL W 41 22 8 18 44.4 6 11 54.5 0 0 - 0 4 4 3 2 1 1 4 6
+p107
+aVStephen Curry GSW 03/25/2013 GSW vs. LAL W 43 25 9 24 37.5 3 9 33.3 4 7 57.1 0 7 7 10 0 0 2 4 3
+p108
+aVJarrett Jack GSW 03/25/2013 GSW vs. LAL W 34 19 9 16 56.3 0 1 0.0 1 2 50.0 0 3 3 3 0 0 2 5 2
+p109
+aVKent Bazemore GSW 03/25/2013 GSW vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p110
+aVAndrew Bogut GSW 03/25/2013 GSW vs. LAL W 30 4 2 3 66.7 0 0 - 0 2 0.0 4 5 9 4 0 2 1 5 -5
+p111
+aVFestus Ezeli GSW 03/25/2013 GSW vs. LAL W 10 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 6
+p112
+aVCarl Landry GSW 03/25/2013 GSW vs. LAL W 15 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 0 1 0 2 15
+p113
+aVDraymond Green GSW 03/23/2013 GSW vs. WAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p114
+aVFestus Ezeli GSW 03/23/2013 GSW vs. WAS W 15 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 2 1 1 -6
+p115
+aVAndrew Bogut GSW 03/23/2013 GSW vs. WAS W 28 10 5 8 62.5 0 0 - 0 0 - 2 2 4 4 1 2 4 4 9
+p116
+aVJarrett Jack GSW 03/23/2013 GSW vs. WAS W 26 11 3 8 37.5 0 0 - 5 6 83.3 0 1 1 6 1 0 3 0 0
+p117
+aVHarrison Barnes GSW 03/23/2013 GSW vs. WAS W 36 16 5 8 62.5 1 2 50.0 5 6 83.3 1 7 8 0 0 0 2 1 11
+p118
+aVStephen Curry GSW 03/23/2013 GSW vs. WAS W 32 35 13 18 72.2 6 10 60.0 3 4 75.0 0 2 2 8 2 0 3 2 9
+p119
+aVKlay Thompson GSW 03/23/2013 GSW vs. WAS W 38 18 7 16 43.8 3 7 42.9 1 2 50.0 0 0 0 2 0 0 3 2 16
+p120
+aVRichard Jefferson GSW 03/23/2013 GSW vs. WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p121
+aVCarl Landry GSW 03/23/2013 GSW vs. WAS W 17 0 0 3 0.0 0 0 - 0 0 - 1 4 5 1 0 0 1 1 -4
+p122
+aVDavid Lee GSW 03/23/2013 GSW vs. WAS W 35 11 4 9 44.4 0 0 - 3 4 75.0 2 13 15 4 1 0 3 4 19
+p123
+aVKent Bazemore GSW 03/23/2013 GSW vs. WAS W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p124
+aVKent Bazemore GSW 03/20/2013 GSW @ SAS L 6 5 1 2 50.0 0 1 0.0 3 4 75.0 0 0 0 0 2 0 2 0 1
+p125
+aVDavid Lee GSW 03/20/2013 GSW @ SAS L 38 10 4 17 23.5 0 0 - 2 2 100.0 4 8 12 1 2 1 2 3 -12
+p126
+aVCarl Landry GSW 03/20/2013 GSW @ SAS L 14 10 5 5 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -2
+p127
+aVKlay Thompson GSW 03/20/2013 GSW @ SAS L 34 9 3 8 37.5 1 1 100.0 2 2 100.0 1 2 3 0 1 1 2 2 -12
+p128
+aVFestus Ezeli GSW 03/20/2013 GSW @ SAS L 10 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 0 1 3
+p129
+aVDraymond Green GSW 03/20/2013 GSW @ SAS L 14 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 0 2 0 2 -1
+p130
+aVJarrett Jack GSW 03/20/2013 GSW @ SAS L 31 14 6 11 54.5 0 0 - 2 2 100.0 0 2 2 7 1 0 2 1 -9
+p131
+aVAndrew Bogut GSW 03/20/2013 GSW @ SAS L 33 4 2 9 22.2 0 0 - 0 0 - 4 7 11 1 0 0 0 3 -11
+p132
+aVRichard Jefferson GSW 03/20/2013 GSW @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -2
+p133
+aVHarrison Barnes GSW 03/20/2013 GSW @ SAS L 18 13 6 9 66.7 1 1 100.0 0 0 - 0 1 1 1 1 0 1 0 2
+p134
+aVStephen Curry GSW 03/20/2013 GSW @ SAS L 36 24 8 20 40.0 4 8 50.0 4 5 80.0 1 3 4 3 2 0 3 0 -12
+p135
+aVAndrew Bogut GSW 03/18/2013 GSW @ NOH W 30 8 4 6 66.7 0 0 - 0 0 - 1 8 9 5 1 4 1 3 24
+p136
+aVKent Bazemore GSW 03/18/2013 GSW @ NOH W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 4
+p137
+aVCarl Landry GSW 03/18/2013 GSW @ NOH W 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -6
+p138
+aVStephen Curry GSW 03/18/2013 GSW @ NOH W 39 30 10 19 52.6 6 9 66.7 4 4 100.0 1 6 7 3 0 0 7 3 19
+p139
+aVJarrett Jack GSW 03/18/2013 GSW @ NOH W 31 9 4 9 44.4 1 2 50.0 0 1 0.0 0 2 2 5 1 0 1 2 16
+p140
+aVDavid Lee GSW 03/18/2013 GSW @ NOH W 30 20 7 9 77.8 0 0 - 6 6 100.0 4 7 11 4 0 1 3 3 25
+p141
+aVFestus Ezeli GSW 03/18/2013 GSW @ NOH W 13 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 1 0 0 0
+p142
+aVHarrison Barnes GSW 03/18/2013 GSW @ NOH W 21 7 2 4 50.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 1 11
+p143
+aVKlay Thompson GSW 03/18/2013 GSW @ NOH W 33 13 5 15 33.3 3 6 50.0 0 0 - 0 5 5 1 1 0 4 3 16
+p144
+aVRichard Jefferson GSW 03/18/2013 GSW @ NOH W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -3
+p145
+aVDraymond Green GSW 03/18/2013 GSW @ NOH W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 1 1 0 1 -1
+p146
+aVDraymond Green GSW 03/17/2013 GSW @ HOU W 7 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 0 2 0 0 2 9
+p147
+aVFestus Ezeli GSW 03/17/2013 GSW @ HOU W 13 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 4 -4
+p148
+aVJarrett Jack GSW 03/17/2013 GSW @ HOU W 31 8 3 11 27.3 1 2 50.0 1 1 100.0 0 4 4 9 0 1 1 2 26
+p149
+aVStephen Curry GSW 03/17/2013 GSW @ HOU W 45 29 12 22 54.5 5 11 45.5 0 0 - 0 5 5 11 2 1 3 1 22
+p150
+aVDavid Lee GSW 03/17/2013 GSW @ HOU W 35 10 4 13 30.8 0 0 - 2 3 66.7 1 9 10 4 1 0 2 2 23
+p151
+aVMalcolm Thomas GSW 03/17/2013 GSW @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 8
+p152
+aVCarl Landry GSW 03/17/2013 GSW @ HOU W 13 6 3 6 50.0 0 0 - 0 1 0.0 2 2 4 1 0 0 0 1 7
+p153
+aVHarrison Barnes GSW 03/17/2013 GSW @ HOU W 18 9 4 10 40.0 1 2 50.0 0 0 - 1 4 5 0 0 0 0 0 6
+p154
+aVKlay Thompson GSW 03/17/2013 GSW @ HOU W 42 26 10 18 55.6 6 9 66.7 0 0 - 0 4 4 0 1 0 4 3 19
+p155
+aVKent Bazemore GSW 03/17/2013 GSW @ HOU W 2 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 0 0 8
+p156
+aVAndrew Bogut GSW 03/17/2013 GSW @ HOU W 33 12 4 8 50.0 0 0 - 4 4 100.0 2 10 12 0 0 3 0 2 26
+p157
+aVCarl Landry GSW 03/15/2013 GSW vs. CHI L 16 8 3 3 100.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 3 -1
+p158
+aVFestus Ezeli GSW 03/15/2013 GSW vs. CHI L 10 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 0 -1
+p159
+aVHarrison Barnes GSW 03/15/2013 GSW vs. CHI L 25 12 5 9 55.6 0 1 0.0 2 2 100.0 2 2 4 1 2 0 2 1 -3
+p160
+aVStephen Curry GSW 03/15/2013 GSW vs. CHI L 30 8 2 13 15.4 0 5 0.0 4 4 100.0 0 0 0 4 0 0 1 2 -32
+p161
+aVAndrew Bogut GSW 03/15/2013 GSW vs. CHI L 17 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 2 1 2 1 3 -25
+p162
+aVDavid Lee GSW 03/15/2013 GSW vs. CHI L 24 15 7 12 58.3 0 0 - 1 2 50.0 2 6 8 1 2 1 2 2 -30
+p163
+aVAndris Biedrins GSW 03/15/2013 GSW vs. CHI L 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 2 0 0 -8
+p164
+aVJarrett Jack GSW 03/15/2013 GSW vs. CHI L 30 20 7 15 46.7 0 0 - 6 6 100.0 1 3 4 1 1 0 2 2 -16
+p165
+aVKent Bazemore GSW 03/15/2013 GSW vs. CHI L 12 14 5 6 83.3 2 2 100.0 2 2 100.0 0 1 1 0 1 0 0 1 13
+p166
+aVMalcolm Thomas GSW 03/15/2013 GSW vs. CHI L 10 2 0 0 - 0 0 - 2 2 100.0 0 2 2 1 0 1 1 0 15
+p167
+aVRichard Jefferson GSW 03/15/2013 GSW vs. CHI L 16 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 14
+p168
+aVKlay Thompson GSW 03/15/2013 GSW vs. CHI L 32 7 3 9 33.3 0 4 0.0 1 2 50.0 0 1 1 3 1 0 2 0 -34
+p169
+aVDraymond Green GSW 03/15/2013 GSW vs. CHI L 16 0 0 4 0.0 0 1 0.0 0 0 - 0 5 5 3 0 0 0 3 18
+p170
+aVJarrett Jack GSW 03/13/2013 GSW vs. DET W 30 19 7 11 63.6 2 4 50.0 3 4 75.0 0 1 1 5 0 1 0 2 -10
+p171
+aVStephen Curry GSW 03/13/2013 GSW vs. DET W 43 31 11 17 64.7 5 7 71.4 4 4 100.0 1 1 2 8 1 0 4 0 15
+p172
+aVFestus Ezeli GSW 03/13/2013 GSW vs. DET W 15 1 0 0 - 0 0 - 1 2 50.0 1 4 5 0 1 3 2 3 -8
+p173
+aVHarrison Barnes GSW 03/13/2013 GSW vs. DET W 19 13 6 7 85.7 0 1 0.0 1 2 50.0 0 2 2 0 0 1 1 3 13
+p174
+aVMalcolm Thomas GSW 03/13/2013 GSW vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p175
+aVRichard Jefferson GSW 03/13/2013 GSW vs. DET W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p176
+aVDavid Lee GSW 03/13/2013 GSW vs. DET W 37 20 9 13 69.2 0 0 - 2 5 40.0 4 11 15 5 0 0 1 1 23
+p177
+aVCarl Landry GSW 03/13/2013 GSW vs. DET W 11 4 2 4 50.0 0 0 - 0 0 - 1 2 3 3 0 0 3 1 -15
+p178
+aVKent Bazemore GSW 03/13/2013 GSW vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p179
+aVAndrew Bogut GSW 03/13/2013 GSW vs. DET W 32 7 2 5 40.0 0 0 - 3 6 50.0 4 6 10 4 2 3 0 2 16
+p180
+aVKlay Thompson GSW 03/13/2013 GSW vs. DET W 43 10 4 15 26.7 1 6 16.7 1 2 50.0 0 3 3 1 1 1 1 2 20
+p181
+aVDraymond Green GSW 03/13/2013 GSW vs. DET W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p182
+aVAndrew Bogut GSW 03/11/2013 GSW vs. NYK W 23 4 1 4 25.0 0 0 - 2 2 100.0 2 9 11 1 2 1 0 5 35
+p183
+aVStephen Curry GSW 03/11/2013 GSW vs. NYK W 37 26 9 18 50.0 6 10 60.0 2 2 100.0 1 5 6 3 1 0 2 1 26
+p184
+aVCarl Landry GSW 03/11/2013 GSW vs. NYK W 15 0 0 1 0.0 0 0 - 0 0 - 0 6 6 0 1 0 3 1 -5
+p185
+aVMalcolm Thomas GSW 03/11/2013 GSW vs. NYK W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 5
+p186
+aVKent Bazemore GSW 03/11/2013 GSW vs. NYK W 5 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 0 4
+p187
+aVJarrett Jack GSW 03/11/2013 GSW vs. NYK W 27 4 2 7 28.6 0 0 - 0 0 - 0 2 2 1 0 0 4 2 11
+p188
+aVKlay Thompson GSW 03/11/2013 GSW vs. NYK W 35 23 9 18 50.0 4 7 57.1 1 2 50.0 1 4 5 1 3 1 0 4 26
+p189
+aVDavid Lee GSW 03/11/2013 GSW vs. NYK W 38 21 7 15 46.7 0 0 - 7 8 87.5 3 7 10 8 0 0 4 5 31
+p190
+aVDraymond Green GSW 03/11/2013 GSW vs. NYK W 13 1 0 1 0.0 0 0 - 1 2 50.0 0 5 5 0 0 1 0 1 3
+p191
+aVFestus Ezeli GSW 03/11/2013 GSW vs. NYK W 15 2 0 2 0.0 0 0 - 2 4 50.0 4 6 10 1 0 1 0 2 -8
+p192
+aVHarrison Barnes GSW 03/11/2013 GSW vs. NYK W 16 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 2 14
+p193
+aVRichard Jefferson GSW 03/11/2013 GSW vs. NYK W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 3
+p194
+aVFestus Ezeli GSW 03/09/2013 GSW vs. MIL L 11 3 1 3 33.3 0 0 - 1 4 25.0 3 2 5 0 0 0 0 0 -7
+p195
+aVRichard Jefferson GSW 03/09/2013 GSW vs. MIL L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 0 0 0 2 2 -2
+p196
+aVAndrew Bogut GSW 03/09/2013 GSW vs. MIL L 29 4 2 5 40.0 0 0 - 0 0 - 2 7 9 4 0 1 3 4 -2
+p197
+aVKlay Thompson GSW 03/09/2013 GSW vs. MIL L 39 18 7 17 41.2 2 5 40.0 2 2 100.0 0 3 3 2 1 0 1 2 -10
+p198
+aVKent Bazemore GSW 03/09/2013 GSW vs. MIL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -7
+p199
+aVCarl Landry GSW 03/09/2013 GSW vs. MIL L 29 18 7 10 70.0 0 0 - 4 4 100.0 3 7 10 0 0 0 2 1 4
+p200
+aVJarrett Jack GSW 03/09/2013 GSW vs. MIL L 27 11 4 11 36.4 0 0 - 3 4 75.0 0 2 2 4 1 0 1 0 -10
+p201
+aVStephen Curry GSW 03/09/2013 GSW vs. MIL L 39 16 7 18 38.9 2 6 33.3 0 0 - 1 1 2 10 0 0 4 4 -12
+p202
+aVMalcolm Thomas GSW 03/09/2013 GSW vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p203
+aVHarrison Barnes GSW 03/09/2013 GSW vs. MIL L 22 10 3 6 50.0 1 1 100.0 3 6 50.0 1 4 5 1 1 0 1 1 0
+p204
+aVDraymond Green GSW 03/09/2013 GSW vs. MIL L 25 9 4 7 57.1 1 2 50.0 0 0 - 2 3 5 0 0 0 2 6 -11
+p205
+aVJarrett Jack GSW 03/08/2013 GSW vs. HOU L 30 9 3 9 33.3 1 3 33.3 2 2 100.0 0 4 4 3 0 0 2 0 -2
+p206
+aVDraymond Green GSW 03/08/2013 GSW vs. HOU L 10 2 1 4 25.0 0 1 0.0 0 0 - 1 4 5 0 0 0 0 3 1
+p207
+aVHarrison Barnes GSW 03/08/2013 GSW vs. HOU L 23 6 2 10 20.0 0 2 0.0 2 2 100.0 1 2 3 0 1 0 3 0 -9
+p208
+aVFestus Ezeli GSW 03/08/2013 GSW vs. HOU L 17 0 0 0 - 0 0 - 0 2 0.0 3 4 7 0 0 1 2 3 10
+p209
+aVDavid Lee GSW 03/08/2013 GSW vs. HOU L 25 16 7 12 58.3 0 0 - 2 2 100.0 2 3 5 0 0 0 3 5 -2
+p210
+aVKlay Thompson GSW 03/08/2013 GSW vs. HOU L 43 22 9 20 45.0 4 6 66.7 0 0 - 0 5 5 3 0 2 2 3 -11
+p211
+aVRichard Jefferson GSW 03/08/2013 GSW vs. HOU L 7 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 1 0 0 1 0 5
+p212
+aVStephen Curry GSW 03/08/2013 GSW vs. HOU L 43 24 8 21 38.1 3 8 37.5 5 7 71.4 1 4 5 8 1 0 1 5 -9
+p213
+aVCarl Landry GSW 03/08/2013 GSW vs. HOU L 14 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 3 1
+p214
+aVAndrew Bogut GSW 03/08/2013 GSW vs. HOU L 28 3 1 5 20.0 1 1 100.0 0 2 0.0 3 8 11 2 4 1 2 3 -14
+p215
+aVKlay Thompson GSW 03/06/2013 GSW vs. SAC W 37 20 6 17 35.3 4 10 40.0 4 4 100.0 0 5 5 2 0 0 2 1 9
+p216
+aVFestus Ezeli GSW 03/06/2013 GSW vs. SAC W 14 3 1 1 100.0 0 0 - 1 1 100.0 3 3 6 0 1 2 2 2 0
+p217
+aVCarl Landry GSW 03/06/2013 GSW vs. SAC W 11 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 1 -11
+p218
+aVAndris Biedrins GSW 03/06/2013 GSW vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p219
+aVRichard Jefferson GSW 03/06/2013 GSW vs. SAC W 11 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 0 -2
+p220
+aVJarrett Jack GSW 03/06/2013 GSW vs. SAC W 31 12 3 14 21.4 2 5 40.0 4 4 100.0 0 1 1 3 3 0 3 1 0
+p221
+aVDavid Lee GSW 03/06/2013 GSW vs. SAC W 40 17 8 14 57.1 0 0 - 1 1 100.0 0 10 10 3 1 0 2 0 10
+p222
+aVAndrew Bogut GSW 03/06/2013 GSW vs. SAC W 28 2 0 2 0.0 0 0 - 2 2 100.0 1 7 8 1 2 2 0 4 9
+p223
+aVHarrison Barnes GSW 03/06/2013 GSW vs. SAC W 26 14 5 11 45.5 0 2 0.0 4 6 66.7 1 3 4 1 0 0 1 1 10
+p224
+aVStephen Curry GSW 03/06/2013 GSW vs. SAC W 34 13 3 11 27.3 2 5 40.0 5 5 100.0 1 4 5 8 2 0 6 4 -2
+p225
+aVDraymond Green GSW 03/06/2013 GSW vs. SAC W 6 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 -1
+p226
+aVKlay Thompson GSW 03/04/2013 GSW vs. TOR W 28 22 8 11 72.7 4 5 80.0 2 2 100.0 0 1 1 4 0 1 2 6 9
+p227
+aVAndrew Bogut GSW 03/04/2013 GSW vs. TOR W 30 4 2 4 50.0 0 0 - 0 0 - 1 7 8 1 0 1 2 5 2
+p228
+aVJarrett Jack GSW 03/04/2013 GSW vs. TOR W 38 16 6 13 46.2 1 4 25.0 3 6 50.0 0 3 3 6 2 0 0 1 15
+p229
+aVCarl Landry GSW 03/04/2013 GSW vs. TOR W 14 12 6 7 85.7 0 0 - 0 2 0.0 1 2 3 2 0 0 0 1 4
+p230
+aVStephen Curry GSW 03/04/2013 GSW vs. TOR W 42 26 8 16 50.0 2 5 40.0 8 8 100.0 2 3 5 12 0 0 6 5 1
+p231
+aVFestus Ezeli GSW 03/04/2013 GSW vs. TOR W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 9
+p232
+aVDraymond Green GSW 03/04/2013 GSW vs. TOR W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 4 -5
+p233
+aVRichard Jefferson GSW 03/04/2013 GSW vs. TOR W 8 2 0 0 - 0 0 - 2 2 100.0 0 3 3 2 0 0 0 0 6
+p234
+aVKent Bazemore GSW 03/04/2013 GSW vs. TOR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p235
+aVHarrison Barnes GSW 03/04/2013 GSW vs. TOR W 22 12 4 6 66.7 1 2 50.0 3 3 100.0 0 2 2 1 1 2 1 1 -7
+p236
+aVDavid Lee GSW 03/04/2013 GSW vs. TOR W 36 29 12 21 57.1 0 0 - 5 5 100.0 2 9 11 5 0 0 2 4 7
+p237
+aVHarrison Barnes GSW 03/02/2013 GSW @ PHI L 28 5 2 7 28.6 0 1 0.0 1 1 100.0 0 3 3 1 2 0 2 1 3
+p238
+aVDraymond Green GSW 03/02/2013 GSW @ PHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p239
+aVFestus Ezeli GSW 03/02/2013 GSW @ PHI L 20 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 2 1 0 1 6
+p240
+aVStephen Curry GSW 03/02/2013 GSW @ PHI L 42 30 11 20 55.0 3 9 33.3 5 7 71.4 0 3 3 9 3 0 4 2 2
+p241
+aVRichard Jefferson GSW 03/02/2013 GSW @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p242
+aVKlay Thompson GSW 03/02/2013 GSW @ PHI L 38 29 11 18 61.1 7 12 58.3 0 0 - 1 2 3 2 3 0 4 4 -6
+p243
+aVCarl Landry GSW 03/02/2013 GSW @ PHI L 28 12 2 7 28.6 0 0 - 8 9 88.9 3 2 5 1 2 1 2 2 -13
+p244
+aVDavid Lee GSW 03/02/2013 GSW @ PHI L 40 13 6 14 42.9 0 0 - 1 2 50.0 5 11 16 7 0 1 3 1 0
+p245
+aVJarrett Jack GSW 03/02/2013 GSW @ PHI L 29 6 3 13 23.1 0 3 0.0 0 0 - 0 1 1 1 1 0 4 1 -9
+p246
+aVKent Bazemore GSW 03/02/2013 GSW @ PHI L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -3
+p247
+aVFestus Ezeli GSW 03/01/2013 GSW @ BOS L 16 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 5 7
+p248
+aVKlay Thompson GSW 03/01/2013 GSW @ BOS L 41 15 7 19 36.8 1 7 14.3 0 0 - 0 9 9 4 0 1 2 5 2
+p249
+aVKent Bazemore GSW 03/01/2013 GSW @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p250
+aVStephen Curry GSW 03/01/2013 GSW @ BOS L 42 25 6 22 27.3 3 11 27.3 10 10 100.0 0 1 1 6 1 0 4 2 7
+p251
+aVRichard Jefferson GSW 03/01/2013 GSW @ BOS L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 1
+p252
+aVDavid Lee GSW 03/01/2013 GSW @ BOS L 39 10 4 13 30.8 0 0 - 2 4 50.0 5 14 19 4 1 0 0 3 -2
+p253
+aVDraymond Green GSW 03/01/2013 GSW @ BOS L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -12
+p254
+aVCarl Landry GSW 03/01/2013 GSW @ BOS L 21 11 5 10 50.0 0 0 - 1 2 50.0 3 1 4 1 0 0 1 3 -22
+p255
+aVJarrett Jack GSW 03/01/2013 GSW @ BOS L 19 2 1 9 11.1 0 2 0.0 0 1 0.0 0 3 3 1 0 0 1 1 -18
+p256
+aVHarrison Barnes GSW 03/01/2013 GSW @ BOS L 39 16 7 17 41.2 0 2 0.0 2 3 66.7 3 3 6 0 3 0 2 2 -6
+p257
+aVAndris Biedrins GSW 03/01/2013 GSW @ BOS L 11 0 0 0 - 0 0 - 0 0 - 1 4 5 1 1 0 0 1 4
+p258
+aVFestus Ezeli GSW 02/27/2013 GSW @ NYK L 17 4 2 2 100.0 0 0 - 0 0 - 1 5 6 0 0 2 1 1 1
+p259
+aVDraymond Green GSW 02/27/2013 GSW @ NYK L 27 4 2 4 50.0 0 1 0.0 0 0 - 0 5 5 1 1 1 1 5 -7
+p260
+aVAndris Biedrins GSW 02/27/2013 GSW @ NYK L 8 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -6
+p261
+aVKlay Thompson GSW 02/27/2013 GSW @ NYK L 36 6 3 13 23.1 0 6 0.0 0 0 - 1 3 4 0 1 1 0 5 -5
+p262
+aVRichard Jefferson GSW 02/27/2013 GSW @ NYK L 15 5 1 1 100.0 1 1 100.0 2 4 50.0 0 3 3 1 1 0 0 2 11
+p263
+aVStephen Curry GSW 02/27/2013 GSW @ NYK L 48 54 18 28 64.3 11 13 84.6 7 7 100.0 0 6 6 7 3 0 4 3 -4
+p264
+aVHarrison Barnes GSW 02/27/2013 GSW @ NYK L 19 3 1 4 25.0 1 1 100.0 0 0 - 0 3 3 0 0 0 2 4 -6
+p265
+aVJarrett Jack GSW 02/27/2013 GSW @ NYK L 37 14 6 15 40.0 2 5 40.0 0 0 - 1 3 4 2 0 0 4 0 -1
+p266
+aVCarl Landry GSW 02/27/2013 GSW @ NYK L 32 15 3 4 75.0 0 0 - 9 10 90.0 1 2 3 3 0 0 5 2 -3
+p267
+aVKlay Thompson GSW 02/26/2013 GSW @ IND L 35 13 5 14 35.7 3 6 50.0 0 0 - 2 2 4 2 2 0 0 0 -24
+p268
+aVFestus Ezeli GSW 02/26/2013 GSW @ IND L 16 0 0 0 - 0 0 - 0 0 - 2 3 5 2 0 0 0 3 -2
+p269
+aVCarl Landry GSW 02/26/2013 GSW @ IND L 26 11 3 10 30.0 0 0 - 5 5 100.0 5 4 9 1 1 0 1 3 -4
+p270
+aVJarrett Jack GSW 02/26/2013 GSW @ IND L 26 11 2 10 20.0 1 3 33.3 6 7 85.7 0 1 1 4 0 0 5 4 -11
+p271
+aVAndris Biedrins GSW 02/26/2013 GSW @ IND L 18 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 3 0 5 -2
+p272
+aVStephen Curry GSW 02/26/2013 GSW @ IND L 37 38 14 20 70.0 7 10 70.0 3 4 75.0 0 2 2 4 3 1 6 3 -12
+p273
+aVHarrison Barnes GSW 02/26/2013 GSW @ IND L 22 9 3 4 75.0 1 1 100.0 2 2 100.0 0 2 2 1 0 0 2 0 0
+p274
+aVDavid Lee GSW 02/26/2013 GSW @ IND L 36 12 5 12 41.7 0 0 - 2 4 50.0 2 10 12 1 4 2 5 3 -14
+p275
+aVKent Bazemore GSW 02/26/2013 GSW @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p276
+aVRichard Jefferson GSW 02/26/2013 GSW @ IND L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 1 11
+p277
+aVDraymond Green GSW 02/26/2013 GSW @ IND L 11 2 1 4 25.0 0 1 0.0 0 0 - 3 1 4 0 0 0 1 1 1
+p278
+aVDraymond Green GSW 02/24/2013 GSW @ MIN W 11 0 0 3 0.0 0 1 0.0 0 0 - 2 4 6 0 0 0 1 1 -3
+p279
+aVFestus Ezeli GSW 02/24/2013 GSW @ MIN W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 1 1 1 -4
+p280
+aVStephen Curry GSW 02/24/2013 GSW @ MIN W 34 18 6 15 40.0 1 5 20.0 5 5 100.0 1 4 5 5 5 0 6 5 1
+p281
+aVHarrison Barnes GSW 02/24/2013 GSW @ MIN W 22 7 3 5 60.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 0 2 -11
+p282
+aVAndris Biedrins GSW 02/24/2013 GSW @ MIN W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 2 0 3 -12
+p283
+aVDavid Lee GSW 02/24/2013 GSW @ MIN W 41 22 8 15 53.3 0 0 - 6 6 100.0 5 8 13 3 1 1 5 3 9
+p284
+aVKent Bazemore GSW 02/24/2013 GSW @ MIN W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -2
+p285
+aVKlay Thompson GSW 02/24/2013 GSW @ MIN W 34 10 4 13 30.8 1 3 33.3 1 2 50.0 1 2 3 0 2 0 2 6 -1
+p286
+aVJarrett Jack GSW 02/24/2013 GSW @ MIN W 36 23 8 19 42.1 5 7 71.4 2 2 100.0 1 4 5 8 1 0 2 2 15
+p287
+aVRichard Jefferson GSW 02/24/2013 GSW @ MIN W 9 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 2 2 -1
+p288
+aVCarl Landry GSW 02/24/2013 GSW @ MIN W 33 19 8 9 88.9 0 0 - 3 4 75.0 2 7 9 0 1 0 3 2 14
+p289
+aVAndris Biedrins GSW 02/22/2013 GSW vs. SAS W 16 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 0 3 -18
+p290
+aVStephen Curry GSW 02/22/2013 GSW vs. SAS W 45 19 6 17 35.3 3 9 33.3 4 5 80.0 0 4 4 6 1 0 2 2 0
+p291
+aVDavid Lee GSW 02/22/2013 GSW vs. SAS W 42 25 10 20 50.0 0 0 - 5 6 83.3 5 17 22 1 1 0 3 4 -2
+p292
+aVCarl Landry GSW 02/22/2013 GSW vs. SAS W 21 11 5 7 71.4 0 0 - 1 1 100.0 2 6 8 1 1 2 2 4 6
+p293
+aVRichard Jefferson GSW 02/22/2013 GSW vs. SAS W 6 0 0 0 - 0 0 - 0 1 0.0 0 1 1 1 0 0 0 1 6
+p294
+aVJarrett Jack GSW 02/22/2013 GSW vs. SAS W 42 30 11 22 50.0 1 6 16.7 7 9 77.8 0 3 3 10 1 1 1 0 19
+p295
+aVHarrison Barnes GSW 02/22/2013 GSW vs. SAS W 31 7 1 8 12.5 0 2 0.0 5 6 83.3 0 4 4 3 0 0 2 4 11
+p296
+aVKent Bazemore GSW 02/22/2013 GSW vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p297
+aVFestus Ezeli GSW 02/22/2013 GSW vs. SAS W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 1
+p298
+aVKlay Thompson GSW 02/22/2013 GSW vs. SAS W 44 10 5 14 35.7 0 3 0.0 0 0 - 0 3 3 3 1 1 1 3 -6
+p299
+aVDraymond Green GSW 02/22/2013 GSW vs. SAS W 13 3 1 5 20.0 1 1 100.0 0 0 - 2 6 8 0 0 1 1 0 13
+p300
+aVFestus Ezeli GSW 02/20/2013 GSW vs. PHX W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -4
+p301
+aVDavid Lee GSW 02/20/2013 GSW vs. PHX W 36 19 7 13 53.8 0 0 - 5 6 83.3 2 9 11 5 0 0 4 4 11
+p302
+aVStephen Curry GSW 02/20/2013 GSW vs. PHX W 41 20 8 16 50.0 2 6 33.3 2 2 100.0 0 3 3 11 1 0 2 1 16
+p303
+aVCarl Landry GSW 02/20/2013 GSW vs. PHX W 14 10 5 7 71.4 0 0 - 0 1 0.0 5 1 6 0 0 0 0 0 2
+p304
+aVKlay Thompson GSW 02/20/2013 GSW vs. PHX W 44 28 10 18 55.6 4 8 50.0 4 4 100.0 0 8 8 4 0 1 2 2 8
+p305
+aVAndrew Bogut GSW 02/20/2013 GSW vs. PHX W 29 7 3 8 37.5 0 0 - 1 2 50.0 4 7 11 5 2 3 0 0 4
+p306
+aVHarrison Barnes GSW 02/20/2013 GSW vs. PHX W 23 3 1 7 14.3 1 2 50.0 0 0 - 1 2 3 0 1 0 0 2 -5
+p307
+aVDraymond Green GSW 02/20/2013 GSW vs. PHX W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p308
+aVAndris Biedrins GSW 02/20/2013 GSW vs. PHX W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 8
+p309
+aVJarrett Jack GSW 02/20/2013 GSW vs. PHX W 36 21 8 14 57.1 3 4 75.0 2 2 100.0 1 0 1 4 1 0 2 4 11
+p310
+aVHarrison Barnes GSW 02/19/2013 GSW @ UTA L 19 3 1 5 20.0 0 2 0.0 1 2 50.0 0 0 0 0 1 0 1 2 -6
+p311
+aVKent Bazemore GSW 02/19/2013 GSW @ UTA L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 4
+p312
+aVKlay Thompson GSW 02/19/2013 GSW @ UTA L 34 15 6 11 54.5 0 2 0.0 3 4 75.0 2 5 7 0 0 0 1 0 -20
+p313
+aVJarrett Jack GSW 02/19/2013 GSW @ UTA L 33 19 6 11 54.5 1 2 50.0 6 6 100.0 0 2 2 9 0 0 5 0 -6
+p314
+aVCharles Jenkins GSW 02/19/2013 GSW @ UTA L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 3
+p315
+aVCarl Landry GSW 02/19/2013 GSW @ UTA L 18 5 2 4 50.0 0 0 - 1 1 100.0 1 4 5 0 0 0 1 1 -6
+p316
+aVDavid Lee GSW 02/19/2013 GSW @ UTA L 31 18 9 13 69.2 0 0 - 0 0 - 2 7 9 1 1 1 0 5 -12
+p317
+aVDraymond Green GSW 02/19/2013 GSW @ UTA L 15 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 -2
+p318
+aVStephen Curry GSW 02/19/2013 GSW @ UTA L 38 29 12 22 54.5 4 9 44.4 1 1 100.0 2 3 5 4 1 0 4 3 -18
+p319
+aVRichard Jefferson GSW 02/19/2013 GSW @ UTA L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 3
+p320
+aVAndris Biedrins GSW 02/19/2013 GSW @ UTA L 16 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 1 0 6 -3
+p321
+aVFestus Ezeli GSW 02/19/2013 GSW @ UTA L 8 5 1 2 50.0 0 0 - 3 6 50.0 3 1 4 0 0 1 0 0 2
+p322
+aVAndrew Bogut GSW 02/19/2013 GSW @ UTA L 15 0 0 4 0.0 0 0 - 0 0 - 2 3 5 1 0 0 0 2 -9
+p323
+aVDraymond Green GSW 02/12/2013 GSW vs. HOU L 18 9 3 4 75.0 1 2 50.0 2 4 50.0 1 3 4 2 2 1 1 0 0
+p324
+aVDavid Lee GSW 02/12/2013 GSW vs. HOU L 35 12 3 10 30.0 0 0 - 6 8 75.0 2 10 12 4 0 1 2 6 -16
+p325
+aVCarl Landry GSW 02/12/2013 GSW vs. HOU L 20 2 1 6 16.7 0 0 - 0 0 - 0 4 4 2 1 0 0 1 -1
+p326
+aVAndrew Bogut GSW 02/12/2013 GSW vs. HOU L 27 6 3 7 42.9 0 0 - 0 0 - 4 8 12 4 0 1 2 4 -9
+p327
+aVHarrison Barnes GSW 02/12/2013 GSW vs. HOU L 27 7 2 3 66.7 0 1 0.0 3 4 75.0 0 2 2 1 0 1 2 4 -3
+p328
+aVJarrett Jack GSW 02/12/2013 GSW vs. HOU L 32 22 7 14 50.0 4 7 57.1 4 4 100.0 0 3 3 5 1 0 2 1 -4
+p329
+aVKlay Thompson GSW 02/12/2013 GSW vs. HOU L 39 22 9 21 42.9 1 5 20.0 3 5 60.0 1 2 3 1 1 1 3 2 -14
+p330
+aVStephen Curry GSW 02/12/2013 GSW vs. HOU L 35 27 10 19 52.6 2 5 40.0 5 6 83.3 0 5 5 6 1 0 1 4 -3
+p331
+aVRichard Jefferson GSW 02/12/2013 GSW vs. HOU L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 5
+p332
+aVKlay Thompson GSW 02/09/2013 GSW @ DAL L 35 11 4 14 28.6 3 7 42.9 0 0 - 1 2 3 0 1 0 2 3 -23
+p333
+aVRichard Jefferson GSW 02/09/2013 GSW @ DAL L 11 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 2 5
+p334
+aVCarl Landry GSW 02/09/2013 GSW @ DAL L 28 13 4 6 66.7 0 0 - 5 7 71.4 2 4 6 1 0 0 1 2 -22
+p335
+aVAndris Biedrins GSW 02/09/2013 GSW @ DAL L 13 0 0 0 - 0 0 - 0 0 - 2 6 8 2 0 0 0 3 -1
+p336
+aVDraymond Green GSW 02/09/2013 GSW @ DAL L 23 8 3 8 37.5 0 0 - 2 2 100.0 3 6 9 1 1 0 0 3 -13
+p337
+aVStephen Curry GSW 02/09/2013 GSW @ DAL L 31 18 8 23 34.8 1 3 33.3 1 1 100.0 3 4 7 4 1 0 5 2 -22
+p338
+aVJeremy Tyler GSW 02/09/2013 GSW @ DAL L 5 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 0 1
+p339
+aVKent Bazemore GSW 02/09/2013 GSW @ DAL L 20 7 3 11 27.3 0 3 0.0 1 4 25.0 0 0 0 2 1 0 0 3 -14
+p340
+aVHarrison Barnes GSW 02/09/2013 GSW @ DAL L 29 12 4 10 40.0 2 3 66.7 2 2 100.0 1 1 2 0 0 0 0 1 -20
+p341
+aVCharles Jenkins GSW 02/09/2013 GSW @ DAL L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 2 2
+p342
+aVFestus Ezeli GSW 02/09/2013 GSW @ DAL L 11 4 2 3 66.7 0 0 - 0 0 - 3 1 4 0 0 1 1 1 -5
+p343
+aVDavid Lee GSW 02/09/2013 GSW @ DAL L 21 10 4 9 44.4 0 0 - 2 2 100.0 0 6 6 0 0 0 3 4 -13
+p344
+aVAndrew Bogut GSW 02/08/2013 GSW @ MEM L 28 7 3 3 100.0 0 0 - 1 2 50.0 1 5 6 2 0 0 1 2 -2
+p345
+aVStephen Curry GSW 02/08/2013 GSW @ MEM L 40 32 11 22 50.0 4 9 44.4 6 6 100.0 3 2 5 8 2 0 2 4 2
+p346
+aVRichard Jefferson GSW 02/08/2013 GSW @ MEM L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p347
+aVHarrison Barnes GSW 02/08/2013 GSW @ MEM L 35 6 2 8 25.0 0 2 0.0 2 4 50.0 0 7 7 4 0 0 2 3 0
+p348
+aVFestus Ezeli GSW 02/08/2013 GSW @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p349
+aVKent Bazemore GSW 02/08/2013 GSW @ MEM L 7 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p350
+aVCharles Jenkins GSW 02/08/2013 GSW @ MEM L 7 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 0 0 -2
+p351
+aVAndris Biedrins GSW 02/08/2013 GSW @ MEM L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -1
+p352
+aVDraymond Green GSW 02/08/2013 GSW @ MEM L 16 4 2 4 50.0 0 0 - 0 0 - 1 5 6 1 0 1 2 3 -2
+p353
+aVDavid Lee GSW 02/08/2013 GSW @ MEM L 41 26 10 16 62.5 0 0 - 6 6 100.0 2 4 6 0 1 0 2 4 -6
+p354
+aVCarl Landry GSW 02/08/2013 GSW @ MEM L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -3
+p355
+aVKlay Thompson GSW 02/08/2013 GSW @ MEM L 36 9 4 13 30.8 1 4 25.0 0 0 - 0 2 2 1 2 2 6 1 -5
+p356
+aVFestus Ezeli GSW 02/06/2013 GSW @ OKC L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p357
+aVCharles Jenkins GSW 02/06/2013 GSW @ OKC L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 0 1 -3
+p358
+aVCarl Landry GSW 02/06/2013 GSW @ OKC L 27 9 4 13 30.8 0 0 - 1 1 100.0 2 6 8 1 1 0 2 2 -18
+p359
+aVStephen Curry GSW 02/06/2013 GSW @ OKC L 36 14 5 20 25.0 2 7 28.6 2 2 100.0 3 5 8 11 1 0 6 3 -8
+p360
+aVRichard Jefferson GSW 02/06/2013 GSW @ OKC L 12 9 3 4 75.0 2 2 100.0 1 1 100.0 0 1 1 0 0 0 1 0 -14
+p361
+aVKent Bazemore GSW 02/06/2013 GSW @ OKC L 16 11 4 8 50.0 1 3 33.3 2 2 100.0 0 2 2 2 0 0 3 2 -11
+p362
+aVJeremy Tyler GSW 02/06/2013 GSW @ OKC L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p363
+aVDavid Lee GSW 02/06/2013 GSW @ OKC L 33 12 5 13 38.5 0 0 - 2 4 50.0 5 6 11 6 2 1 4 1 -14
+p364
+aVDraymond Green GSW 02/06/2013 GSW @ OKC L 17 0 0 2 0.0 0 0 - 0 0 - 1 5 6 1 1 0 0 1 -17
+p365
+aVAndris Biedrins GSW 02/06/2013 GSW @ OKC L 12 2 1 1 100.0 0 0 - 0 0 - 2 5 7 0 0 3 0 0 -2
+p366
+aVHarrison Barnes GSW 02/06/2013 GSW @ OKC L 29 19 7 9 77.8 2 2 100.0 3 4 75.0 0 0 0 0 1 0 0 0 -3
+p367
+aVKlay Thompson GSW 02/06/2013 GSW @ OKC L 34 19 8 16 50.0 3 6 50.0 0 0 - 0 3 3 2 1 0 2 3 -10
+p368
+aVRichard Jefferson GSW 02/05/2013 GSW @ HOU L 20 10 2 6 33.3 0 3 0.0 6 6 100.0 0 6 6 0 0 0 0 1 -3
+p369
+aVKent Bazemore GSW 02/05/2013 GSW @ HOU L 24 6 2 8 25.0 0 1 0.0 2 6 33.3 1 0 1 0 1 1 1 4 -8
+p370
+aVDavid Lee GSW 02/05/2013 GSW @ HOU L 26 18 8 10 80.0 0 0 - 2 2 100.0 4 3 7 2 0 0 2 3 -30
+p371
+aVStephen Curry GSW 02/05/2013 GSW @ HOU L 28 7 3 12 25.0 1 5 20.0 0 0 - 0 4 4 9 0 1 2 2 -27
+p372
+aVKlay Thompson GSW 02/05/2013 GSW @ HOU L 20 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 4 -20
+p373
+aVCarl Landry GSW 02/05/2013 GSW @ HOU L 22 12 4 5 80.0 0 0 - 4 4 100.0 1 4 5 1 0 0 2 1 4
+p374
+aVAndrew Bogut GSW 02/05/2013 GSW @ HOU L 25 10 5 9 55.6 0 0 - 0 0 - 2 7 9 3 0 1 0 3 -29
+p375
+aVAndris Biedrins GSW 02/05/2013 GSW @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p376
+aVJarrett Jack GSW 02/05/2013 GSW @ HOU L 29 20 7 14 50.0 2 3 66.7 4 4 100.0 0 1 1 5 0 0 2 2 -5
+p377
+aVFestus Ezeli GSW 02/05/2013 GSW @ HOU L 6 4 1 3 33.3 0 0 - 2 2 100.0 3 0 3 0 0 0 0 0 -8
+p378
+aVHarrison Barnes GSW 02/05/2013 GSW @ HOU L 17 7 3 5 60.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 1 -22
+p379
+aVCharles Jenkins GSW 02/05/2013 GSW @ HOU L 6 1 0 2 0.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -8
+p380
+aVDraymond Green GSW 02/05/2013 GSW @ HOU L 16 8 3 7 42.9 0 1 0.0 2 3 66.7 0 2 2 0 0 2 0 4 1
+p381
+aVCharles Jenkins GSW 02/02/2013 GSW vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p382
+aVRichard Jefferson GSW 02/02/2013 GSW vs. PHX W 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -3
+p383
+aVAndrew Bogut GSW 02/02/2013 GSW vs. PHX W 25 11 5 9 55.6 0 0 - 1 4 25.0 5 2 7 2 0 3 0 3 14
+p384
+aVAndris Biedrins GSW 02/02/2013 GSW vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -4
+p385
+aVHarrison Barnes GSW 02/02/2013 GSW vs. PHX W 32 21 9 11 81.8 0 0 - 3 4 75.0 1 7 8 1 0 0 2 2 17
+p386
+aVDraymond Green GSW 02/02/2013 GSW vs. PHX W 12 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 1 2 -2
+p387
+aVCarl Landry GSW 02/02/2013 GSW vs. PHX W 18 8 3 3 100.0 0 0 - 2 3 66.7 1 3 4 0 0 0 0 3 11
+p388
+aVKent Bazemore GSW 02/02/2013 GSW vs. PHX W 2 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p389
+aVStephen Curry GSW 02/02/2013 GSW vs. PHX W 42 29 11 20 55.0 6 10 60.0 1 1 100.0 0 2 2 8 2 0 2 3 28
+p390
+aVDavid Lee GSW 02/02/2013 GSW vs. PHX W 37 16 6 16 37.5 0 0 - 4 5 80.0 4 8 12 7 1 0 5 2 16
+p391
+aVKlay Thompson GSW 02/02/2013 GSW vs. PHX W 35 17 6 14 42.9 2 5 40.0 3 3 100.0 0 7 7 7 1 0 0 3 24
+p392
+aVFestus Ezeli GSW 02/02/2013 GSW vs. PHX W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -4
+p393
+aVJarrett Jack GSW 02/02/2013 GSW vs. PHX W 21 6 3 9 33.3 0 2 0.0 0 0 - 0 1 1 7 0 0 1 0 5
+p394
+aVJarrett Jack GSW 01/31/2013 GSW vs. DAL W 42 13 3 13 23.1 2 5 40.0 5 5 100.0 0 4 4 9 1 0 4 3 9
+p395
+aVCarl Landry GSW 01/31/2013 GSW vs. DAL W 19 10 4 11 36.4 0 0 - 2 2 100.0 3 3 6 0 1 1 0 1 -2
+p396
+aVDraymond Green GSW 01/31/2013 GSW vs. DAL W 15 5 1 5 20.0 1 4 25.0 2 2 100.0 1 4 5 2 0 0 3 4 4
+p397
+aVHarrison Barnes GSW 01/31/2013 GSW vs. DAL W 39 12 4 10 40.0 0 2 0.0 4 4 100.0 1 3 4 5 1 0 0 2 10
+p398
+aVKent Bazemore GSW 01/31/2013 GSW vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p399
+aVRichard Jefferson GSW 01/31/2013 GSW vs. DAL W 11 8 3 4 75.0 1 2 50.0 1 1 100.0 0 1 1 0 1 0 1 0 6
+p400
+aVKlay Thompson GSW 01/31/2013 GSW vs. DAL W 35 27 11 18 61.1 3 7 42.9 2 4 50.0 0 1 1 0 1 0 0 5 -6
+p401
+aVDavid Lee GSW 01/31/2013 GSW vs. DAL W 42 15 6 13 46.2 0 0 - 3 5 60.0 7 13 20 9 1 0 2 2 0
+p402
+aVAndris Biedrins GSW 01/31/2013 GSW vs. DAL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p403
+aVCharles Jenkins GSW 01/31/2013 GSW vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p404
+aVAndrew Bogut GSW 01/31/2013 GSW vs. DAL W 25 8 3 9 33.3 0 0 - 2 2 100.0 0 5 5 1 0 3 1 4 1
+p405
+aVDraymond Green GSW 01/29/2013 GSW @ CLE W 25 7 3 7 42.9 1 3 33.3 0 0 - 1 6 7 2 1 0 2 5 -9
+p406
+aVKent Bazemore GSW 01/29/2013 GSW @ CLE W 30 9 4 8 50.0 1 1 100.0 0 0 - 0 2 2 3 2 0 2 4 10
+p407
+aVRichard Jefferson GSW 01/29/2013 GSW @ CLE W 21 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 1 1
+p408
+aVFestus Ezeli GSW 01/29/2013 GSW @ CLE W 23 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 0 3 0 4 1
+p409
+aVJarrett Jack GSW 01/29/2013 GSW @ CLE W 36 26 11 18 61.1 3 4 75.0 1 2 50.0 0 1 1 12 1 1 4 0 10
+p410
+aVKlay Thompson GSW 01/29/2013 GSW @ CLE W 43 32 13 24 54.2 6 8 75.0 0 0 - 0 7 7 2 0 3 3 2 17
+p411
+aVCharles Jenkins GSW 01/29/2013 GSW @ CLE W 12 4 2 6 33.3 0 0 - 0 0 - 0 0 0 4 0 0 1 1 3
+p412
+aVAndris Biedrins GSW 01/29/2013 GSW @ CLE W 11 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 1 2 0 3 12
+p413
+aVDavid Lee GSW 01/29/2013 GSW @ CLE W 39 20 8 12 66.7 0 0 - 4 4 100.0 2 11 13 8 2 0 1 3 20
+p414
+aVDavid Lee GSW 01/28/2013 GSW @ TOR W 44 21 10 17 58.8 0 0 - 1 2 50.0 2 10 12 7 0 0 3 2 15
+p415
+aVCarl Landry GSW 01/28/2013 GSW @ TOR W 14 12 4 8 50.0 0 0 - 4 4 100.0 5 0 5 0 0 1 1 1 16
+p416
+aVJarrett Jack GSW 01/28/2013 GSW @ TOR W 25 14 4 10 40.0 1 3 33.3 5 7 71.4 0 4 4 4 0 0 0 2 6
+p417
+aVDraymond Green GSW 01/28/2013 GSW @ TOR W 11 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 2 2 6
+p418
+aVHarrison Barnes GSW 01/28/2013 GSW @ TOR W 33 14 6 11 54.5 0 1 0.0 2 3 66.7 1 4 5 2 0 0 0 2 17
+p419
+aVKlay Thompson GSW 01/28/2013 GSW @ TOR W 35 19 7 16 43.8 3 7 42.9 2 2 100.0 1 6 7 1 2 0 3 2 12
+p420
+aVRichard Jefferson GSW 01/28/2013 GSW @ TOR W 14 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 0 0 2 0 2 -6
+p421
+aVKent Bazemore GSW 01/28/2013 GSW @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p422
+aVStephen Curry GSW 01/28/2013 GSW @ TOR W 26 17 7 12 58.3 1 3 33.3 2 2 100.0 1 0 1 5 1 0 2 1 0
+p423
+aVAndrew Bogut GSW 01/28/2013 GSW @ TOR W 24 12 6 8 75.0 0 0 - 0 0 - 1 7 8 2 1 4 2 3 11
+p424
+aVAndris Biedrins GSW 01/28/2013 GSW @ TOR W 13 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -17
+p425
+aVCarl Landry GSW 01/26/2013 GSW @ MIL L 31 13 5 9 55.6 0 0 - 3 3 100.0 4 10 14 1 0 0 2 5 8
+p426
+aVKlay Thompson GSW 01/26/2013 GSW @ MIL L 39 19 8 21 38.1 3 11 27.3 0 0 - 0 3 3 1 2 0 1 3 -3
+p427
+aVFestus Ezeli GSW 01/26/2013 GSW @ MIL L 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 3 1 -9
+p428
+aVCharles Jenkins GSW 01/26/2013 GSW @ MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p429
+aVRichard Jefferson GSW 01/26/2013 GSW @ MIL L 13 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 1 1 0 1 2 0
+p430
+aVDraymond Green GSW 01/26/2013 GSW @ MIL L 10 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 0 1 0 1 2 -10
+p431
+aVJarrett Jack GSW 01/26/2013 GSW @ MIL L 35 13 5 12 41.7 3 3 100.0 0 0 - 1 2 3 10 1 1 1 3 -4
+p432
+aVAndris Biedrins GSW 01/26/2013 GSW @ MIL L 14 0 0 0 - 0 0 - 0 0 - 2 4 6 0 0 3 0 2 -4
+p433
+aVStephen Curry GSW 01/26/2013 GSW @ MIL L 37 26 8 19 42.1 5 9 55.6 5 5 100.0 2 0 2 7 1 0 2 2 -8
+p434
+aVHarrison Barnes GSW 01/26/2013 GSW @ MIL L 13 7 2 3 66.7 1 2 50.0 2 2 100.0 0 1 1 0 1 0 2 2 -3
+p435
+aVKent Bazemore GSW 01/26/2013 GSW @ MIL L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p436
+aVDavid Lee GSW 01/26/2013 GSW @ MIL L 38 12 6 18 33.3 0 0 - 0 0 - 2 13 15 5 1 0 2 3 -2
+p437
+aVDraymond Green GSW 01/25/2013 GSW @ CHI L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 3 -13
+p438
+aVStephen Curry GSW 01/25/2013 GSW @ CHI L 37 21 7 18 38.9 3 7 42.9 4 4 100.0 0 1 1 1 0 0 2 1 -15
+p439
+aVFestus Ezeli GSW 01/25/2013 GSW @ CHI L 9 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 2 4 -6
+p440
+aVRichard Jefferson GSW 01/25/2013 GSW @ CHI L 15 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -4
+p441
+aVKent Bazemore GSW 01/25/2013 GSW @ CHI L 5 4 0 2 0.0 0 0 - 4 6 66.7 1 0 1 0 0 0 0 0 1
+p442
+aVDavid Lee GSW 01/25/2013 GSW @ CHI L 36 23 6 15 40.0 0 0 - 11 12 91.7 2 4 6 1 1 0 2 2 -13
+p443
+aVCarl Landry GSW 01/25/2013 GSW @ CHI L 27 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 0 1 2 1 1 -1
+p444
+aVAndris Biedrins GSW 01/25/2013 GSW @ CHI L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p445
+aVJarrett Jack GSW 01/25/2013 GSW @ CHI L 27 11 5 12 41.7 1 2 50.0 0 0 - 1 4 5 5 0 2 1 2 -19
+p446
+aVCharles Jenkins GSW 01/25/2013 GSW @ CHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -1
+p447
+aVKlay Thompson GSW 01/25/2013 GSW @ CHI L 33 13 4 13 30.8 0 4 0.0 5 5 100.0 0 8 8 1 2 1 0 3 -7
+p448
+aVHarrison Barnes GSW 01/25/2013 GSW @ CHI L 22 3 0 4 0.0 0 2 0.0 3 4 75.0 0 5 5 3 1 0 2 1 7
+p449
+aVJeremy Tyler GSW 01/25/2013 GSW @ CHI L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 1
+p450
+aVHarrison Barnes GSW 01/23/2013 GSW vs. OKC W 26 2 0 5 0.0 0 1 0.0 2 2 100.0 0 7 7 2 1 0 1 2 16
+p451
+aVDraymond Green GSW 01/23/2013 GSW vs. OKC W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p452
+aVKlay Thompson GSW 01/23/2013 GSW vs. OKC W 30 19 6 11 54.5 3 6 50.0 4 4 100.0 0 1 1 2 0 0 1 6 13
+p453
+aVStephen Curry GSW 01/23/2013 GSW vs. OKC W 42 31 11 27 40.7 3 14 21.4 6 6 100.0 1 2 3 7 4 0 2 1 8
+p454
+aVFestus Ezeli GSW 01/23/2013 GSW vs. OKC W 23 1 0 1 0.0 0 0 - 1 2 50.0 3 1 4 0 3 2 3 0 4
+p455
+aVCarl Landry GSW 01/23/2013 GSW vs. OKC W 26 20 7 12 58.3 0 0 - 6 6 100.0 3 4 7 0 1 0 1 2 -8
+p456
+aVCharles Jenkins GSW 01/23/2013 GSW vs. OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p457
+aVJarrett Jack GSW 01/23/2013 GSW vs. OKC W 30 9 4 9 44.4 0 2 0.0 1 2 50.0 0 3 3 8 1 0 3 2 -7
+p458
+aVDavid Lee GSW 01/23/2013 GSW vs. OKC W 42 22 9 18 50.0 0 0 - 4 5 80.0 4 8 12 1 0 0 3 3 6
+p459
+aVKent Bazemore GSW 01/23/2013 GSW vs. OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p460
+aVAndris Biedrins GSW 01/23/2013 GSW vs. OKC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 3
+p461
+aVRichard Jefferson GSW 01/23/2013 GSW vs. OKC W 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -9
+p462
+aVFestus Ezeli GSW 01/21/2013 GSW vs. LAC W 14 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 4 -6
+p463
+aVKent Bazemore GSW 01/21/2013 GSW vs. LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p464
+aVStephen Curry GSW 01/21/2013 GSW vs. LAC W 37 28 9 14 64.3 6 8 75.0 4 4 100.0 0 3 3 6 0 0 2 4 7
+p465
+aVRichard Jefferson GSW 01/21/2013 GSW vs. LAC W 12 7 2 3 66.7 1 1 100.0 2 3 66.7 0 3 3 1 0 1 1 3 4
+p466
+aVKlay Thompson GSW 01/21/2013 GSW vs. LAC W 39 18 6 13 46.2 3 8 37.5 3 3 100.0 0 2 2 1 1 0 2 0 8
+p467
+aVDraymond Green GSW 01/21/2013 GSW vs. LAC W 12 7 3 4 75.0 1 2 50.0 0 0 - 1 2 3 0 0 0 1 1 0
+p468
+aVJeremy Tyler GSW 01/21/2013 GSW vs. LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p469
+aVHarrison Barnes GSW 01/21/2013 GSW vs. LAC W 16 9 4 4 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 1 -1
+p470
+aVDavid Lee GSW 01/21/2013 GSW vs. LAC W 39 12 5 16 31.3 0 0 - 2 2 100.0 2 9 11 6 0 0 5 5 14
+p471
+aVAndris Biedrins GSW 01/21/2013 GSW vs. LAC W 15 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 1 0 2 -3
+p472
+aVCarl Landry GSW 01/21/2013 GSW vs. LAC W 25 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 1 0 3 0 3
+p473
+aVJarrett Jack GSW 01/21/2013 GSW vs. LAC W 33 18 7 15 46.7 0 2 0.0 4 4 100.0 0 6 6 10 1 0 2 1 8
+p474
+aVAndris Biedrins GSW 01/19/2013 GSW @ NOH W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p475
+aVFestus Ezeli GSW 01/19/2013 GSW @ NOH W 30 13 5 9 55.6 0 0 - 3 3 100.0 6 2 8 1 0 1 1 3 -2
+p476
+aVRichard Jefferson GSW 01/19/2013 GSW @ NOH W 18 11 4 8 50.0 1 2 50.0 2 2 100.0 0 4 4 0 1 0 0 3 1
+p477
+aVDraymond Green GSW 01/19/2013 GSW @ NOH W 18 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -2
+p478
+aVCharles Jenkins GSW 01/19/2013 GSW @ NOH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p479
+aVKent Bazemore GSW 01/19/2013 GSW @ NOH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p480
+aVHarrison Barnes GSW 01/19/2013 GSW @ NOH W 18 2 1 2 50.0 0 1 0.0 0 1 0.0 0 1 1 2 1 0 4 2 -2
+p481
+aVJarrett Jack GSW 01/19/2013 GSW @ NOH W 36 25 7 13 53.8 1 3 33.3 10 11 90.9 0 2 2 12 2 0 2 5 13
+p482
+aVJeremy Tyler GSW 01/19/2013 GSW @ NOH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p483
+aVStephen Curry GSW 01/19/2013 GSW @ NOH W 38 20 5 17 29.4 2 8 25.0 8 10 80.0 1 2 3 7 4 0 1 2 11
+p484
+aVCarl Landry GSW 01/19/2013 GSW @ NOH W 38 11 3 9 33.3 0 0 - 5 6 83.3 3 8 11 2 1 0 3 2 -2
+p485
+aVKlay Thompson GSW 01/19/2013 GSW @ NOH W 38 29 11 16 68.8 5 7 71.4 2 2 100.0 0 3 3 1 1 0 2 1 1
+p486
+aVCarl Landry GSW 01/18/2013 GSW @ SAS L 29 15 7 13 53.8 0 0 - 1 1 100.0 1 3 4 1 1 0 1 5 -11
+p487
+aVAndris Biedrins GSW 01/18/2013 GSW @ SAS L 6 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 1 0 1 2
+p488
+aVDraymond Green GSW 01/18/2013 GSW @ SAS L 17 6 3 5 60.0 0 0 - 0 0 - 0 7 7 0 0 0 0 4 -3
+p489
+aVFestus Ezeli GSW 01/18/2013 GSW @ SAS L 18 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 1 2 3 6
+p490
+aVKlay Thompson GSW 01/18/2013 GSW @ SAS L 39 21 7 20 35.0 4 11 36.4 3 3 100.0 0 3 3 3 2 0 2 1 -6
+p491
+aVHarrison Barnes GSW 01/18/2013 GSW @ SAS L 38 4 1 5 20.0 0 2 0.0 2 2 100.0 0 8 8 2 1 0 1 0 -10
+p492
+aVJarrett Jack GSW 01/18/2013 GSW @ SAS L 43 20 9 17 52.9 0 3 0.0 2 2 100.0 0 2 2 10 0 0 1 3 -3
+p493
+aVKent Bazemore GSW 01/18/2013 GSW @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 0 0 1
+p494
+aVCharles Jenkins GSW 01/18/2013 GSW @ SAS L 6 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p495
+aVDavid Lee GSW 01/18/2013 GSW @ SAS L 38 22 9 18 50.0 0 0 - 4 6 66.7 2 4 6 7 0 0 2 4 -10
+p496
+aVJarrett Jack GSW 01/16/2013 GSW vs. MIA L 32 16 7 14 50.0 0 0 - 2 4 50.0 1 2 3 2 1 0 5 2 -21
+p497
+aVKlay Thompson GSW 01/16/2013 GSW vs. MIA L 29 2 1 8 12.5 0 4 0.0 0 0 - 0 2 2 3 0 0 4 3 -19
+p498
+aVAndris Biedrins GSW 01/16/2013 GSW vs. MIA L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 1 0 0 -14
+p499
+aVCarl Landry GSW 01/16/2013 GSW vs. MIA L 23 10 5 11 45.5 0 0 - 0 0 - 3 8 11 0 1 0 1 2 -9
+p500
+aVHarrison Barnes GSW 01/16/2013 GSW vs. MIA L 23 9 3 12 25.0 1 3 33.3 2 2 100.0 3 3 6 3 0 0 1 3 1
+p501
+aVJeremy Tyler GSW 01/16/2013 GSW vs. MIA L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 9
+p502
+aVRichard Jefferson GSW 01/16/2013 GSW vs. MIA L 11 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 0 11
+p503
+aVFestus Ezeli GSW 01/16/2013 GSW vs. MIA L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -5
+p504
+aVDraymond Green GSW 01/16/2013 GSW vs. MIA L 29 9 3 5 60.0 0 0 - 3 4 75.0 2 5 7 1 0 0 4 4 -15
+p505
+aVCharles Jenkins GSW 01/16/2013 GSW vs. MIA L 22 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 1 0 1 2 -8
+p506
+aVKent Bazemore GSW 01/16/2013 GSW vs. MIA L 18 6 1 7 14.3 1 3 33.3 3 4 75.0 1 3 4 5 1 0 1 1 10
+p507
+aVDavid Lee GSW 01/16/2013 GSW vs. MIA L 32 12 4 13 30.8 0 1 0.0 4 4 100.0 1 10 11 1 0 0 3 1 -25
+p508
+aVJarrett Jack GSW 01/13/2013 GSW @ DEN L 26 10 4 11 36.4 0 2 0.0 2 2 100.0 0 4 4 8 0 0 5 3 -11
+p509
+aVJeremy Tyler GSW 01/13/2013 GSW @ DEN L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p510
+aVDraymond Green GSW 01/13/2013 GSW @ DEN L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -2
+p511
+aVCharles Jenkins GSW 01/13/2013 GSW @ DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p512
+aVKlay Thompson GSW 01/13/2013 GSW @ DEN L 39 13 6 16 37.5 1 7 14.3 0 0 - 0 6 6 3 0 1 5 3 -7
+p513
+aVCarl Landry GSW 01/13/2013 GSW @ DEN L 29 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 2 0 2 0 2 -8
+p514
+aVKent Bazemore GSW 01/13/2013 GSW @ DEN L 2 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p515
+aVStephen Curry GSW 01/13/2013 GSW @ DEN L 41 29 11 18 61.1 7 9 77.8 0 0 - 0 0 0 7 1 0 1 4 -13
+p516
+aVHarrison Barnes GSW 01/13/2013 GSW @ DEN L 29 21 8 11 72.7 5 6 83.3 0 0 - 0 6 6 0 1 0 2 2 -8
+p517
+aVDavid Lee GSW 01/13/2013 GSW @ DEN L 42 23 11 18 61.1 0 0 - 1 2 50.0 3 10 13 6 1 1 4 5 -9
+p518
+aVFestus Ezeli GSW 01/13/2013 GSW @ DEN L 16 0 0 0 - 0 0 - 0 0 - 2 3 5 1 0 1 0 5 -3
+p519
+aVDavid Lee GSW 01/11/2013 GSW vs. POR W 36 24 11 20 55.0 0 0 - 2 4 50.0 1 9 10 1 2 0 1 2 4
+p520
+aVCarl Landry GSW 01/11/2013 GSW vs. POR W 23 15 7 11 63.6 0 0 - 1 1 100.0 3 4 7 1 0 0 0 2 1
+p521
+aVFestus Ezeli GSW 01/11/2013 GSW vs. POR W 20 0 0 1 0.0 0 0 - 0 0 - 4 3 7 2 0 1 0 2 6
+p522
+aVKlay Thompson GSW 01/11/2013 GSW vs. POR W 37 16 6 14 42.9 2 5 40.0 2 2 100.0 0 4 4 2 1 0 5 5 14
+p523
+aVKent Bazemore GSW 01/11/2013 GSW vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p524
+aVHarrison Barnes GSW 01/11/2013 GSW vs. POR W 31 13 5 9 55.6 1 2 50.0 2 2 100.0 0 7 7 1 2 0 2 3 3
+p525
+aVCharles Jenkins GSW 01/11/2013 GSW vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 1 7
+p526
+aVStephen Curry GSW 01/11/2013 GSW vs. POR W 44 22 7 22 31.8 3 8 37.5 5 5 100.0 0 3 3 12 3 1 1 1 -1
+p527
+aVDraymond Green GSW 01/11/2013 GSW vs. POR W 16 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 2 2 0 0 -4
+p528
+aVJarrett Jack GSW 01/11/2013 GSW vs. POR W 29 9 4 6 66.7 0 0 - 1 2 50.0 0 6 6 7 0 0 2 0 -1
+p529
+aVHarrison Barnes GSW 01/09/2013 GSW vs. MEM L 27 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 1 1 1 1 3 -7
+p530
+aVKlay Thompson GSW 01/09/2013 GSW vs. MEM L 42 20 6 13 46.2 2 6 33.3 6 6 100.0 2 5 7 7 1 0 1 3 3
+p531
+aVDavid Lee GSW 01/09/2013 GSW vs. MEM L 41 14 6 14 42.9 0 0 - 2 6 33.3 1 9 10 4 1 0 4 4 -10
+p532
+aVFestus Ezeli GSW 01/09/2013 GSW vs. MEM L 25 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 3 1 2 4 -1
+p533
+aVKent Bazemore GSW 01/09/2013 GSW vs. MEM L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p534
+aVJarrett Jack GSW 01/09/2013 GSW vs. MEM L 28 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 5 0 0 1 2 -7
+p535
+aVStephen Curry GSW 01/09/2013 GSW vs. MEM L 41 24 10 22 45.5 4 8 50.0 0 1 0.0 1 3 4 4 2 0 4 2 -12
+p536
+aVDraymond Green GSW 01/09/2013 GSW vs. MEM L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 4
+p537
+aVCharles Jenkins GSW 01/09/2013 GSW vs. MEM L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p538
+aVCarl Landry GSW 01/09/2013 GSW vs. MEM L 25 13 4 6 66.7 0 0 - 5 6 83.3 1 8 9 1 0 0 1 1 -5
+p539
+aVAndris Biedrins GSW 01/09/2013 GSW vs. MEM L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 2
+p540
+aVDavid Lee GSW 01/05/2013 GSW @ LAC L 29 10 3 10 30.0 0 0 - 4 4 100.0 2 3 5 2 0 0 4 1 -23
+p541
+aVKlay Thompson GSW 01/05/2013 GSW @ LAC L 30 14 4 10 40.0 3 7 42.9 3 4 75.0 0 1 1 2 0 2 1 1 -28
+p542
+aVCarl Landry GSW 01/05/2013 GSW @ LAC L 16 9 1 1 100.0 0 0 - 7 8 87.5 0 2 2 0 1 2 0 3 -9
+p543
+aVAndris Biedrins GSW 01/05/2013 GSW @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -10
+p544
+aVDraymond Green GSW 01/05/2013 GSW @ LAC L 15 8 3 5 60.0 0 1 0.0 2 2 100.0 1 7 8 0 2 0 2 3 -3
+p545
+aVJarrett Jack GSW 01/05/2013 GSW @ LAC L 24 8 3 9 33.3 1 3 33.3 1 1 100.0 0 2 2 3 0 0 2 0 -24
+p546
+aVFestus Ezeli GSW 01/05/2013 GSW @ LAC L 16 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 1 2 2 3 -18
+p547
+aVHarrison Barnes GSW 01/05/2013 GSW @ LAC L 22 11 5 9 55.6 0 1 0.0 1 2 50.0 0 2 2 3 0 1 1 1 -22
+p548
+aVKent Bazemore GSW 01/05/2013 GSW @ LAC L 12 6 3 6 50.0 0 2 0.0 0 2 0.0 0 1 1 0 0 0 1 0 11
+p549
+aVCharles Jenkins GSW 01/05/2013 GSW @ LAC L 19 6 3 3 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 5
+p550
+aVRichard Jefferson GSW 01/05/2013 GSW @ LAC L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 0 11
+p551
+aVStephen Curry GSW 01/05/2013 GSW @ LAC L 29 10 4 11 36.4 1 5 20.0 1 1 100.0 0 0 0 5 0 0 2 0 -31
+p552
+aVJeremy Tyler GSW 01/05/2013 GSW @ LAC L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 0 1 1 1 11
+p553
+aVCarl Landry GSW 01/02/2013 GSW vs. LAC W 28 7 3 7 42.9 0 0 - 1 2 50.0 1 6 7 1 2 0 4 5 3
+p554
+aVHarrison Barnes GSW 01/02/2013 GSW vs. LAC W 25 13 5 13 38.5 1 2 50.0 2 3 66.7 1 8 9 4 1 1 1 0 29
+p555
+aVCharles Jenkins GSW 01/02/2013 GSW vs. LAC W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -4
+p556
+aVJarrett Jack GSW 01/02/2013 GSW vs. LAC W 29 11 4 12 33.3 0 4 0.0 3 3 100.0 2 3 5 5 1 0 4 1 -3
+p557
+aVDraymond Green GSW 01/02/2013 GSW vs. LAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p558
+aVKlay Thompson GSW 01/02/2013 GSW vs. LAC W 35 19 7 14 50.0 5 9 55.6 0 0 - 1 2 3 3 1 0 4 4 22
+p559
+aVAndris Biedrins GSW 01/02/2013 GSW vs. LAC W 16 0 0 0 - 0 0 - 0 0 - 2 3 5 1 0 3 0 3 6
+p560
+aVDavid Lee GSW 01/02/2013 GSW vs. LAC W 40 24 9 16 56.3 0 0 - 6 6 100.0 3 10 13 7 2 0 2 5 24
+p561
+aVJeremy Tyler GSW 01/02/2013 GSW vs. LAC W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p562
+aVKent Bazemore GSW 01/02/2013 GSW vs. LAC W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 2
+p563
+aVFestus Ezeli GSW 01/02/2013 GSW vs. LAC W 8 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 1 0 0 4 5
+p564
+aVStephen Curry GSW 01/02/2013 GSW vs. LAC W 43 31 11 16 68.8 6 8 75.0 3 4 75.0 1 5 6 8 2 0 4 3 25
+p565
+aVHarrison Barnes GSW 12/29/2012 GSW vs. BOS W 26 15 5 6 83.3 3 4 75.0 2 2 100.0 0 8 8 0 0 0 2 0 14
+p566
+aVJarrett Jack GSW 12/29/2012 GSW vs. BOS W 33 14 6 14 42.9 2 4 50.0 0 0 - 1 3 4 4 0 0 1 1 14
+p567
+aVAndris Biedrins GSW 12/29/2012 GSW vs. BOS W 14 0 0 0 - 0 0 - 0 2 0.0 0 5 5 0 1 1 0 3 9
+p568
+aVJeremy Tyler GSW 12/29/2012 GSW vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p569
+aVKent Bazemore GSW 12/29/2012 GSW vs. BOS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p570
+aVKlay Thompson GSW 12/29/2012 GSW vs. BOS W 26 13 4 9 44.4 3 6 50.0 2 2 100.0 0 6 6 1 1 2 0 3 4
+p571
+aVCharles Jenkins GSW 12/29/2012 GSW vs. BOS W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p572
+aVStephen Curry GSW 12/29/2012 GSW vs. BOS W 35 22 8 13 61.5 4 5 80.0 2 2 100.0 1 3 4 9 3 2 5 3 19
+p573
+aVFestus Ezeli GSW 12/29/2012 GSW vs. BOS W 21 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 1 1 5 3 2 7
+p574
+aVRichard Jefferson GSW 12/29/2012 GSW vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p575
+aVCarl Landry GSW 12/29/2012 GSW vs. BOS W 23 3 1 4 25.0 0 0 - 1 2 50.0 1 6 7 1 0 0 3 3 9
+p576
+aVDraymond Green GSW 12/29/2012 GSW vs. BOS W 12 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 0 0 0 1 4 3
+p577
+aVDavid Lee GSW 12/29/2012 GSW vs. BOS W 32 20 10 15 66.7 0 0 - 0 0 - 0 5 5 4 1 0 3 2 18
+p578
+aVAndris Biedrins GSW 12/28/2012 GSW vs. PHI W 15 3 1 1 100.0 0 0 - 1 1 100.0 1 6 7 1 0 1 1 4 6
+p579
+aVFestus Ezeli GSW 12/28/2012 GSW vs. PHI W 10 0 0 0 - 0 0 - 0 0 - 2 3 5 0 0 0 0 3 -7
+p580
+aVKlay Thompson GSW 12/28/2012 GSW vs. PHI W 39 14 5 14 35.7 4 7 57.1 0 0 - 0 1 1 3 2 1 2 2 5
+p581
+aVDraymond Green GSW 12/28/2012 GSW vs. PHI W 13 0 0 2 0.0 0 1 0.0 0 0 - 1 4 5 1 0 0 1 1 1
+p582
+aVStephen Curry GSW 12/28/2012 GSW vs. PHI W 39 11 5 11 45.5 1 4 25.0 0 0 - 0 5 5 6 1 0 4 3 7
+p583
+aVDavid Lee GSW 12/28/2012 GSW vs. PHI W 38 25 9 19 47.4 0 0 - 7 9 77.8 1 11 12 1 0 0 4 1 8
+p584
+aVJarrett Jack GSW 12/28/2012 GSW vs. PHI W 33 16 6 14 42.9 2 4 50.0 2 3 66.7 0 4 4 6 1 0 3 2 11
+p585
+aVCarl Landry GSW 12/28/2012 GSW vs. PHI W 28 15 4 10 40.0 0 0 - 7 9 77.8 4 7 11 0 0 1 0 3 6
+p586
+aVCharles Jenkins GSW 12/28/2012 GSW vs. PHI W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 1 0 1 0 2
+p587
+aVHarrison Barnes GSW 12/28/2012 GSW vs. PHI W 16 10 4 8 50.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 2 0 -4
+p588
+aVHarrison Barnes GSW 12/26/2012 GSW @ UTA W 16 7 2 5 40.0 1 2 50.0 2 2 100.0 0 2 2 0 0 1 0 0 -3
+p589
+aVDraymond Green GSW 12/26/2012 GSW @ UTA W 15 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 1 0 1 3 4
+p590
+aVKent Bazemore GSW 12/26/2012 GSW @ UTA W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -5
+p591
+aVRichard Jefferson GSW 12/26/2012 GSW @ UTA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p592
+aVDavid Lee GSW 12/26/2012 GSW @ UTA W 35 18 7 16 43.8 0 1 0.0 4 4 100.0 3 6 9 2 1 1 0 4 12
+p593
+aVFestus Ezeli GSW 12/26/2012 GSW @ UTA W 14 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 1 0 0 0 15
+p594
+aVKlay Thompson GSW 12/26/2012 GSW @ UTA W 32 15 5 13 38.5 2 3 66.7 3 3 100.0 0 1 1 2 3 0 0 2 18
+p595
+aVCarl Landry GSW 12/26/2012 GSW @ UTA W 22 8 4 12 33.3 0 0 - 0 0 - 1 1 2 1 0 1 2 2 7
+p596
+aVJeremy Tyler GSW 12/26/2012 GSW @ UTA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -7
+p597
+aVCharles Jenkins GSW 12/26/2012 GSW @ UTA W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -7
+p598
+aVAndris Biedrins GSW 12/26/2012 GSW @ UTA W 19 0 0 0 - 0 0 - 0 0 - 1 11 12 1 0 1 2 4 0
+p599
+aVJarrett Jack GSW 12/26/2012 GSW @ UTA W 31 15 5 9 55.6 2 3 66.7 3 3 100.0 0 2 2 3 2 0 2 1 14
+p600
+aVStephen Curry GSW 12/26/2012 GSW @ UTA W 38 23 7 18 38.9 4 7 57.1 5 6 83.3 2 6 8 7 1 1 2 0 12
+p601
+aVDraymond Green GSW 12/22/2012 GSW vs. LAL L 11 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 2 0 1 1 -12
+p602
+aVFestus Ezeli GSW 12/22/2012 GSW vs. LAL L 26 2 1 3 33.3 0 0 - 0 0 - 3 5 8 0 0 3 6 4 -10
+p603
+aVStephen Curry GSW 12/22/2012 GSW vs. LAL L 45 20 8 23 34.8 3 10 30.0 1 1 100.0 1 7 8 7 4 0 4 4 6
+p604
+aVDavid Lee GSW 12/22/2012 GSW vs. LAL L 45 20 9 18 50.0 0 0 - 2 2 100.0 2 9 11 4 0 0 2 3 -1
+p605
+aVCharles Jenkins GSW 12/22/2012 GSW vs. LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -3
+p606
+aVKlay Thompson GSW 12/22/2012 GSW vs. LAL L 39 18 6 16 37.5 3 8 37.5 3 4 75.0 1 3 4 3 1 1 2 3 5
+p607
+aVHarrison Barnes GSW 12/22/2012 GSW vs. LAL L 29 13 6 13 46.2 1 4 25.0 0 0 - 3 1 4 1 3 0 0 2 -4
+p608
+aVAndris Biedrins GSW 12/22/2012 GSW vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p609
+aVJarrett Jack GSW 12/22/2012 GSW vs. LAL L 38 29 13 19 68.4 3 6 50.0 0 0 - 0 3 3 11 1 0 1 1 -3
+p610
+aVCarl Landry GSW 12/22/2012 GSW vs. LAL L 25 12 3 8 37.5 0 1 0.0 6 6 100.0 3 2 5 0 1 1 3 4 7
+p611
+aVCarl Landry GSW 12/21/2012 GSW vs. CHA W 21 11 4 10 40.0 0 0 - 3 4 75.0 1 5 6 0 0 1 0 1 8
+p612
+aVJeremy Tyler GSW 12/21/2012 GSW vs. CHA W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p613
+aVHarrison Barnes GSW 12/21/2012 GSW vs. CHA W 28 4 0 7 0.0 0 2 0.0 4 6 66.7 1 2 3 0 2 0 2 1 13
+p614
+aVDavid Lee GSW 12/21/2012 GSW vs. CHA W 34 23 11 16 68.8 0 0 - 1 1 100.0 6 5 11 11 0 0 2 3 9
+p615
+aVRichard Jefferson GSW 12/21/2012 GSW vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p616
+aVAndris Biedrins GSW 12/21/2012 GSW vs. CHA W 13 2 1 1 100.0 0 0 - 0 0 - 0 7 7 0 0 3 1 4 13
+p617
+aVKlay Thompson GSW 12/21/2012 GSW vs. CHA W 29 20 7 15 46.7 4 8 50.0 2 2 100.0 0 3 3 1 1 0 1 5 10
+p618
+aVFestus Ezeli GSW 12/21/2012 GSW vs. CHA W 20 6 3 3 100.0 0 0 - 0 0 - 4 5 9 0 0 2 1 2 -1
+p619
+aVDraymond Green GSW 12/21/2012 GSW vs. CHA W 20 11 5 6 83.3 1 2 50.0 0 0 - 0 2 2 4 0 1 0 2 15
+p620
+aVStephen Curry GSW 12/21/2012 GSW vs. CHA W 36 27 9 17 52.9 8 13 61.5 1 1 100.0 0 3 3 8 0 2 2 2 7
+p621
+aVJarrett Jack GSW 12/21/2012 GSW vs. CHA W 22 9 3 6 50.0 1 1 100.0 2 2 100.0 0 3 3 6 1 0 1 0 9
+p622
+aVKent Bazemore GSW 12/21/2012 GSW vs. CHA W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p623
+aVCharles Jenkins GSW 12/21/2012 GSW vs. CHA W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p624
+aVJarrett Jack GSW 12/19/2012 GSW @ SAC L 32 28 10 16 62.5 3 5 60.0 5 6 83.3 2 5 7 3 0 0 4 1 5
+p625
+aVDavid Lee GSW 12/19/2012 GSW @ SAC L 44 29 12 17 70.6 0 0 - 5 6 83.3 4 4 8 5 1 0 2 4 0
+p626
+aVStephen Curry GSW 12/19/2012 GSW @ SAC L 42 32 11 24 45.8 7 12 58.3 3 3 100.0 0 6 6 4 1 1 4 6 0
+p627
+aVRichard Jefferson GSW 12/19/2012 GSW @ SAC L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -3
+p628
+aVFestus Ezeli GSW 12/19/2012 GSW @ SAC L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 3 -4
+p629
+aVDraymond Green GSW 12/19/2012 GSW @ SAC L 19 2 0 5 0.0 0 1 0.0 2 2 100.0 4 1 5 3 0 1 0 2 0
+p630
+aVHarrison Barnes GSW 12/19/2012 GSW @ SAC L 16 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 3 -9
+p631
+aVCharles Jenkins GSW 12/19/2012 GSW @ SAC L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p632
+aVAndris Biedrins GSW 12/19/2012 GSW @ SAC L 7 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 1 0 0 -7
+p633
+aVCarl Landry GSW 12/19/2012 GSW @ SAC L 24 14 5 8 62.5 0 0 - 4 4 100.0 2 3 5 1 0 1 0 2 1
+p634
+aVKlay Thompson GSW 12/19/2012 GSW @ SAC L 36 11 3 9 33.3 3 6 50.0 2 2 100.0 0 5 5 5 2 1 0 3 0
+p635
+aVRichard Jefferson GSW 12/18/2012 GSW vs. NOH W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p636
+aVKlay Thompson GSW 12/18/2012 GSW vs. NOH W 35 19 5 15 33.3 3 8 37.5 6 6 100.0 0 4 4 2 3 0 1 2 8
+p637
+aVKent Bazemore GSW 12/18/2012 GSW vs. NOH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p638
+aVDavid Lee GSW 12/18/2012 GSW vs. NOH W 38 26 10 16 62.5 0 0 - 6 7 85.7 3 6 9 4 1 1 2 4 2
+p639
+aVCharles Jenkins GSW 12/18/2012 GSW vs. NOH W 9 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 2 0 6
+p640
+aVFestus Ezeli GSW 12/18/2012 GSW vs. NOH W 11 2 1 2 50.0 0 0 - 0 2 0.0 3 3 6 2 0 0 1 0 1
+p641
+aVCarl Landry GSW 12/18/2012 GSW vs. NOH W 26 16 5 8 62.5 0 0 - 6 7 85.7 5 4 9 1 1 0 3 3 -4
+p642
+aVStephen Curry GSW 12/18/2012 GSW vs. NOH W 39 13 5 13 38.5 1 3 33.3 2 2 100.0 2 3 5 3 0 0 2 2 3
+p643
+aVDraymond Green GSW 12/18/2012 GSW vs. NOH W 24 6 2 4 50.0 0 1 0.0 2 2 100.0 2 4 6 2 3 0 1 1 13
+p644
+aVJarrett Jack GSW 12/18/2012 GSW vs. NOH W 34 16 4 10 40.0 1 3 33.3 7 8 87.5 1 2 3 10 0 0 2 2 6
+p645
+aVHarrison Barnes GSW 12/18/2012 GSW vs. NOH W 19 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 1 0 1 0 1 2
+p646
+aVAndris Biedrins GSW 12/15/2012 GSW @ ATL W 14 0 0 0 - 0 0 - 0 0 - 0 7 7 0 0 1 0 4 2
+p647
+aVJarrett Jack GSW 12/15/2012 GSW @ ATL W 29 13 5 13 38.5 3 5 60.0 0 0 - 1 3 4 8 0 0 1 0 18
+p648
+aVCarl Landry GSW 12/15/2012 GSW @ ATL W 29 19 8 10 80.0 0 0 - 3 3 100.0 3 4 7 0 0 1 1 4 20
+p649
+aVCharles Jenkins GSW 12/15/2012 GSW @ ATL W 9 6 3 3 100.0 0 0 - 0 1 0.0 0 1 1 2 0 0 0 0 2
+p650
+aVRichard Jefferson GSW 12/15/2012 GSW @ ATL W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 1 1
+p651
+aVDraymond Green GSW 12/15/2012 GSW @ ATL W 20 5 2 8 25.0 0 0 - 1 1 100.0 3 5 8 1 2 1 1 3 0
+p652
+aVHarrison Barnes GSW 12/15/2012 GSW @ ATL W 31 19 8 14 57.1 3 4 75.0 0 0 - 0 3 3 1 1 0 0 3 19
+p653
+aVKlay Thompson GSW 12/15/2012 GSW @ ATL W 23 7 3 9 33.3 1 3 33.3 0 0 - 0 4 4 1 0 0 1 5 16
+p654
+aVDavid Lee GSW 12/15/2012 GSW @ ATL W 33 20 10 14 71.4 0 0 - 0 0 - 2 9 11 4 3 0 3 3 16
+p655
+aVKent Bazemore GSW 12/15/2012 GSW @ ATL W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p656
+aVJeremy Tyler GSW 12/15/2012 GSW @ ATL W 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p657
+aVStephen Curry GSW 12/15/2012 GSW @ ATL W 36 18 6 20 30.0 3 11 27.3 3 3 100.0 0 8 8 11 3 0 4 1 20
+p658
+aVKent Bazemore GSW 12/14/2012 GSW @ ORL L 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p659
+aVHarrison Barnes GSW 12/14/2012 GSW @ ORL L 17 5 2 8 25.0 0 1 0.0 1 1 100.0 1 1 2 2 0 1 0 0 -9
+p660
+aVCharles Jenkins GSW 12/14/2012 GSW @ ORL L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -10
+p661
+aVDraymond Green GSW 12/14/2012 GSW @ ORL L 14 0 0 4 0.0 0 1 0.0 0 0 - 1 4 5 0 1 0 0 4 -8
+p662
+aVRichard Jefferson GSW 12/14/2012 GSW @ ORL L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 3 0 0 1 0 6
+p663
+aVKlay Thompson GSW 12/14/2012 GSW @ ORL L 33 9 3 13 23.1 3 8 37.5 0 0 - 2 2 4 4 2 1 1 2 -7
+p664
+aVStephen Curry GSW 12/14/2012 GSW @ ORL L 43 25 8 19 42.1 2 5 40.0 7 8 87.5 1 2 3 3 0 0 1 0 -6
+p665
+aVJeremy Tyler GSW 12/14/2012 GSW @ ORL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p666
+aVCarl Landry GSW 12/14/2012 GSW @ ORL L 23 6 3 8 37.5 0 0 - 0 0 - 5 2 7 0 0 0 1 0 -8
+p667
+aVJarrett Jack GSW 12/14/2012 GSW @ ORL L 36 12 5 11 45.5 2 4 50.0 0 0 - 0 7 7 6 2 0 1 1 -10
+p668
+aVFestus Ezeli GSW 12/14/2012 GSW @ ORL L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 3 3 -9
+p669
+aVDavid Lee GSW 12/14/2012 GSW @ ORL L 41 24 11 20 55.0 0 0 - 2 2 100.0 4 11 15 1 0 0 3 4 -9
+p670
+aVStephen Curry GSW 12/12/2012 GSW @ MIA W 42 9 4 10 40.0 1 3 33.3 0 0 - 0 3 3 7 2 0 6 0 9
+p671
+aVDraymond Green GSW 12/12/2012 GSW @ MIA W 30 7 2 5 40.0 1 2 50.0 2 2 100.0 0 7 7 2 2 0 0 4 -9
+p672
+aVCharles Jenkins GSW 12/12/2012 GSW @ MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p673
+aVHarrison Barnes GSW 12/12/2012 GSW @ MIA W 18 8 3 8 37.5 0 1 0.0 2 4 50.0 1 2 3 1 2 0 0 1 3
+p674
+aVKlay Thompson GSW 12/12/2012 GSW @ MIA W 44 27 11 22 50.0 5 14 35.7 0 0 - 0 7 7 4 2 1 3 1 0
+p675
+aVCarl Landry GSW 12/12/2012 GSW @ MIA W 18 4 0 3 0.0 0 0 - 4 4 100.0 1 2 3 0 0 0 1 1 0
+p676
+aVDavid Lee GSW 12/12/2012 GSW @ MIA W 38 22 9 18 50.0 0 0 - 4 4 100.0 6 8 14 2 0 0 2 3 11
+p677
+aVJarrett Jack GSW 12/12/2012 GSW @ MIA W 31 20 9 14 64.3 2 4 50.0 0 0 - 0 4 4 4 1 0 1 0 -1
+p678
+aVFestus Ezeli GSW 12/12/2012 GSW @ MIA W 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 4 3
+p679
+aVKlay Thompson GSW 12/10/2012 GSW @ CHA W 36 10 4 7 57.1 2 5 40.0 0 0 - 1 1 2 6 0 1 1 4 1
+p680
+aVStephen Curry GSW 12/10/2012 GSW @ CHA W 37 27 10 22 45.5 4 7 57.1 3 4 75.0 1 6 7 7 1 0 3 5 3
+p681
+aVFestus Ezeli GSW 12/10/2012 GSW @ CHA W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 6
+p682
+aVHarrison Barnes GSW 12/10/2012 GSW @ CHA W 22 6 2 7 28.6 1 3 33.3 1 2 50.0 1 2 3 3 0 0 2 3 18
+p683
+aVDavid Lee GSW 12/10/2012 GSW @ CHA W 35 25 10 14 71.4 0 0 - 5 5 100.0 5 6 11 4 1 0 3 4 4
+p684
+aVDraymond Green GSW 12/10/2012 GSW @ CHA W 19 0 0 8 0.0 0 1 0.0 0 0 - 2 7 9 0 1 1 4 0 5
+p685
+aVJarrett Jack GSW 12/10/2012 GSW @ CHA W 31 12 3 11 27.3 1 4 25.0 5 6 83.3 0 5 5 6 5 0 2 2 -4
+p686
+aVCarl Landry GSW 12/10/2012 GSW @ CHA W 28 16 5 9 55.6 0 0 - 6 6 100.0 4 2 6 2 0 1 1 2 0
+p687
+aVAndris Biedrins GSW 12/10/2012 GSW @ CHA W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 2
+p688
+aVKent Bazemore GSW 12/10/2012 GSW @ CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p689
+aVJeremy Tyler GSW 12/10/2012 GSW @ CHA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p690
+aVCharles Jenkins GSW 12/10/2012 GSW @ CHA W 12 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 5
+p691
+aVFestus Ezeli GSW 12/08/2012 GSW @ WAS W 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 0 0 4
+p692
+aVStephen Curry GSW 12/08/2012 GSW @ WAS W 35 22 7 15 46.7 2 8 25.0 6 7 85.7 1 2 3 5 0 0 4 1 -5
+p693
+aVDraymond Green GSW 12/08/2012 GSW @ WAS W 23 6 3 10 30.0 0 2 0.0 0 0 - 2 6 8 1 0 1 1 6 7
+p694
+aVJarrett Jack GSW 12/08/2012 GSW @ WAS W 30 5 2 6 33.3 1 1 100.0 0 0 - 0 4 4 3 0 1 0 0 5
+p695
+aVDavid Lee GSW 12/08/2012 GSW @ WAS W 35 24 8 16 50.0 0 0 - 8 8 100.0 3 14 17 0 1 0 4 2 -1
+p696
+aVHarrison Barnes GSW 12/08/2012 GSW @ WAS W 24 3 1 7 14.3 1 2 50.0 0 2 0.0 1 5 6 4 1 0 2 1 -2
+p697
+aVCarl Landry GSW 12/08/2012 GSW @ WAS W 25 12 3 5 60.0 0 0 - 6 8 75.0 4 5 9 2 1 0 5 3 0
+p698
+aVKent Bazemore GSW 12/08/2012 GSW @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p699
+aVCharles Jenkins GSW 12/08/2012 GSW @ WAS W 15 6 3 8 37.5 0 0 - 0 0 - 1 2 3 2 0 0 0 1 7
+p700
+aVKlay Thompson GSW 12/08/2012 GSW @ WAS W 39 23 8 14 57.1 5 9 55.6 2 2 100.0 1 5 6 5 0 2 3 2 5
+p701
+aVKent Bazemore GSW 12/07/2012 GSW @ BKN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p702
+aVCharles Jenkins GSW 12/07/2012 GSW @ BKN W 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p703
+aVAndris Biedrins GSW 12/07/2012 GSW @ BKN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p704
+aVCarl Landry GSW 12/07/2012 GSW @ BKN W 19 7 3 4 75.0 0 0 - 1 1 100.0 2 4 6 1 1 1 0 4 7
+p705
+aVDavid Lee GSW 12/07/2012 GSW @ BKN W 41 30 14 22 63.6 0 0 - 2 4 50.0 7 8 15 2 0 0 2 1 16
+p706
+aVDraymond Green GSW 12/07/2012 GSW @ BKN W 28 6 3 9 33.3 0 1 0.0 0 0 - 4 6 10 3 3 0 2 3 17
+p707
+aVStephen Curry GSW 12/07/2012 GSW @ BKN W 43 28 10 19 52.6 5 9 55.6 3 3 100.0 1 3 4 5 2 0 0 1 8
+p708
+aVKlay Thompson GSW 12/07/2012 GSW @ BKN W 36 13 5 11 45.5 3 7 42.9 0 0 - 1 4 5 2 2 0 1 4 2
+p709
+aVHarrison Barnes GSW 12/07/2012 GSW @ BKN W 23 6 2 5 40.0 0 1 0.0 2 2 100.0 0 3 3 2 1 0 0 4 -3
+p710
+aVJarrett Jack GSW 12/07/2012 GSW @ BKN W 30 15 7 12 58.3 1 1 100.0 0 0 - 0 2 2 8 0 0 4 1 9
+p711
+aVFestus Ezeli GSW 12/07/2012 GSW @ BKN W 9 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -14
+p712
+aVJarrett Jack GSW 12/05/2012 GSW @ DET W 24 8 3 10 30.0 0 5 0.0 2 2 100.0 0 0 0 4 1 0 2 5 -13
+p713
+aVHarrison Barnes GSW 12/05/2012 GSW @ DET W 30 10 2 7 28.6 0 3 0.0 6 6 100.0 0 5 5 3 0 0 1 0 15
+p714
+aVDraymond Green GSW 12/05/2012 GSW @ DET W 12 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 3 0 2 -4
+p715
+aVStephen Curry GSW 12/05/2012 GSW @ DET W 37 22 7 15 46.7 4 6 66.7 4 4 100.0 0 3 3 10 4 0 1 2 10
+p716
+aVDavid Lee GSW 12/05/2012 GSW @ DET W 38 20 7 12 58.3 0 0 - 6 8 75.0 2 9 11 4 0 0 4 1 12
+p717
+aVAndris Biedrins GSW 12/05/2012 GSW @ DET W 7 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 1 0 0 2 0
+p718
+aVFestus Ezeli GSW 12/05/2012 GSW @ DET W 19 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 1 0 2 0 5 17
+p719
+aVKlay Thompson GSW 12/05/2012 GSW @ DET W 38 27 9 13 69.2 5 8 62.5 4 4 100.0 0 4 4 1 2 1 0 1 9
+p720
+aVCarl Landry GSW 12/05/2012 GSW @ DET W 26 7 2 7 28.6 0 0 - 3 6 50.0 3 1 4 0 0 1 2 4 -10
+p721
+aVCharles Jenkins GSW 12/05/2012 GSW @ DET W 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -1
+p722
+aVKent Bazemore GSW 12/03/2012 GSW vs. ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p723
+aVJarrett Jack GSW 12/03/2012 GSW vs. ORL L 29 17 6 10 60.0 1 3 33.3 4 4 100.0 0 4 4 4 1 0 3 2 -11
+p724
+aVCarl Landry GSW 12/03/2012 GSW vs. ORL L 26 9 4 8 50.0 0 0 - 1 1 100.0 3 7 10 0 0 1 2 2 -14
+p725
+aVFestus Ezeli GSW 12/03/2012 GSW vs. ORL L 16 4 2 5 40.0 0 0 - 0 0 - 3 1 4 0 0 0 1 2 6
+p726
+aVKlay Thompson GSW 12/03/2012 GSW vs. ORL L 30 8 3 12 25.0 2 6 33.3 0 0 - 0 2 2 4 0 0 1 4 7
+p727
+aVCharles Jenkins GSW 12/03/2012 GSW vs. ORL L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p728
+aVHarrison Barnes GSW 12/03/2012 GSW vs. ORL L 35 9 4 8 50.0 1 2 50.0 0 2 0.0 0 4 4 2 1 2 1 1 0
+p729
+aVStephen Curry GSW 12/03/2012 GSW vs. ORL L 44 25 9 21 42.9 3 6 50.0 4 5 80.0 1 4 5 11 2 0 1 0 -3
+p730
+aVDraymond Green GSW 12/03/2012 GSW vs. ORL L 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -8
+p731
+aVAndris Biedrins GSW 12/03/2012 GSW vs. ORL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p732
+aVDavid Lee GSW 12/03/2012 GSW vs. ORL L 39 22 9 16 56.3 0 0 - 4 6 66.7 1 8 9 2 1 2 3 5 1
+p733
+aVJarrett Jack GSW 12/01/2012 GSW vs. IND W 25 18 8 9 88.9 2 3 66.7 0 0 - 0 5 5 5 0 0 3 0 7
+p734
+aVDavid Lee GSW 12/01/2012 GSW vs. IND W 38 13 4 12 33.3 0 0 - 5 5 100.0 4 8 12 4 2 0 2 4 13
+p735
+aVCarl Landry GSW 12/01/2012 GSW vs. IND W 26 16 5 10 50.0 0 0 - 6 6 100.0 2 2 4 0 0 0 2 4 8
+p736
+aVHarrison Barnes GSW 12/01/2012 GSW vs. IND W 29 6 2 4 50.0 0 1 0.0 2 3 66.7 0 5 5 1 0 0 1 0 -2
+p737
+aVFestus Ezeli GSW 12/01/2012 GSW vs. IND W 22 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 0 2 1 4 4
+p738
+aVKlay Thompson GSW 12/01/2012 GSW vs. IND W 43 22 8 23 34.8 4 10 40.0 2 2 100.0 2 5 7 0 0 1 3 1 4
+p739
+aVCharles Jenkins GSW 12/01/2012 GSW vs. IND W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 7
+p740
+aVAndris Biedrins GSW 12/01/2012 GSW vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 3
+p741
+aVStephen Curry GSW 12/01/2012 GSW vs. IND W 37 20 7 14 50.0 3 5 60.0 3 3 100.0 0 1 1 11 2 0 4 4 6
+p742
+aVDraymond Green GSW 12/01/2012 GSW vs. IND W 11 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 1 0 0 2 5
+p743
+aVJarrett Jack GSW 11/29/2012 GSW vs. DEN W 29 18 7 14 50.0 3 4 75.0 1 1 100.0 0 2 2 5 0 0 3 3 11
+p744
+aVDavid Lee GSW 11/29/2012 GSW vs. DEN W 35 31 13 15 86.7 0 0 - 5 7 71.4 4 5 9 6 1 1 4 3 -6
+p745
+aVKlay Thompson GSW 11/29/2012 GSW vs. DEN W 43 21 10 19 52.6 1 6 16.7 0 0 - 0 9 9 3 0 1 3 2 1
+p746
+aVCarl Landry GSW 11/29/2012 GSW vs. DEN W 30 6 2 7 28.6 0 0 - 2 3 66.7 2 6 8 2 1 0 1 4 4
+p747
+aVDraymond Green GSW 11/29/2012 GSW vs. DEN W 16 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 0 2 5
+p748
+aVFestus Ezeli GSW 11/29/2012 GSW vs. DEN W 15 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 2 2 1 2 -1
+p749
+aVHarrison Barnes GSW 11/29/2012 GSW vs. DEN W 17 2 1 7 14.3 0 0 - 0 0 - 0 2 2 2 1 0 0 0 -5
+p750
+aVStephen Curry GSW 11/29/2012 GSW vs. DEN W 45 20 7 17 41.2 4 7 57.1 2 2 100.0 1 3 4 10 4 0 3 4 2
+p751
+aVCharles Jenkins GSW 11/29/2012 GSW vs. DEN W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p752
+aVAndris Biedrins GSW 11/29/2012 GSW vs. DEN W 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 1 0 2 -5
+p753
+aVCharles Jenkins GSW 11/24/2012 GSW vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p754
+aVCarl Landry GSW 11/24/2012 GSW vs. MIN W 30 18 4 7 57.1 0 0 - 10 10 100.0 6 3 9 0 0 0 1 2 10
+p755
+aVKent Bazemore GSW 11/24/2012 GSW vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p756
+aVAndris Biedrins GSW 11/24/2012 GSW vs. MIN W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 1 1 -8
+p757
+aVHarrison Barnes GSW 11/24/2012 GSW vs. MIN W 39 10 4 7 57.1 0 1 0.0 2 4 50.0 0 11 11 2 0 0 1 1 17
+p758
+aVDraymond Green GSW 11/24/2012 GSW vs. MIN W 17 4 2 6 33.3 0 0 - 0 0 - 2 4 6 1 0 0 0 3 4
+p759
+aVFestus Ezeli GSW 11/24/2012 GSW vs. MIN W 14 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 1 0 4 2
+p760
+aVJeremy Tyler GSW 11/24/2012 GSW vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p761
+aVJarrett Jack GSW 11/24/2012 GSW vs. MIN W 22 1 0 7 0.0 0 2 0.0 1 2 50.0 0 5 5 3 0 0 4 5 6
+p762
+aVKlay Thompson GSW 11/24/2012 GSW vs. MIN W 32 24 8 17 47.1 1 8 12.5 7 8 87.5 0 3 3 1 0 0 1 1 0
+p763
+aVDavid Lee GSW 11/24/2012 GSW vs. MIN W 36 17 7 14 50.0 0 0 - 3 4 75.0 3 5 8 4 0 0 2 4 5
+p764
+aVStephen Curry GSW 11/24/2012 GSW vs. MIN W 39 20 7 19 36.8 5 10 50.0 1 1 100.0 0 2 2 6 1 0 3 3 22
+p765
+aVDavid Lee GSW 11/23/2012 GSW @ DEN L 35 21 9 19 47.4 0 0 - 3 4 75.0 1 9 10 3 3 0 2 5 -17
+p766
+aVStephen Curry GSW 11/23/2012 GSW @ DEN L 26 6 2 5 40.0 2 2 100.0 0 0 - 0 1 1 3 0 0 4 4 -18
+p767
+aVAndris Biedrins GSW 11/23/2012 GSW @ DEN L 12 0 0 0 - 0 0 - 0 0 - 2 5 7 1 1 1 0 1 0
+p768
+aVDraymond Green GSW 11/23/2012 GSW @ DEN L 21 0 0 3 0.0 0 1 0.0 0 0 - 0 6 6 1 0 0 1 5 0
+p769
+aVKent Bazemore GSW 11/23/2012 GSW @ DEN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p770
+aVCharles Jenkins GSW 11/23/2012 GSW @ DEN L 12 8 4 5 80.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 2
+p771
+aVFestus Ezeli GSW 11/23/2012 GSW @ DEN L 18 0 0 3 0.0 0 0 - 0 2 0.0 1 9 10 0 0 3 0 2 -5
+p772
+aVKlay Thompson GSW 11/23/2012 GSW @ DEN L 36 16 6 12 50.0 4 7 57.1 0 0 - 0 1 1 3 0 0 0 2 -15
+p773
+aVJeremy Tyler GSW 11/23/2012 GSW @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p774
+aVJarrett Jack GSW 11/23/2012 GSW @ DEN L 35 17 7 16 43.8 1 5 20.0 2 2 100.0 0 0 0 4 2 0 2 2 -2
+p775
+aVCarl Landry GSW 11/23/2012 GSW @ DEN L 30 19 6 11 54.5 0 0 - 7 8 87.5 4 4 8 4 1 1 2 3 0
+p776
+aVHarrison Barnes GSW 11/23/2012 GSW @ DEN L 15 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 1 1 0 2 5 0
+p777
+aVDraymond Green GSW 11/21/2012 GSW vs. BKN W 14 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 0 1 0 0 1 1
+p778
+aVKlay Thompson GSW 11/21/2012 GSW vs. BKN W 38 23 10 19 52.6 3 6 50.0 0 0 - 0 1 1 3 0 0 2 3 9
+p779
+aVCarl Landry GSW 11/21/2012 GSW vs. BKN W 28 11 5 7 71.4 0 0 - 1 2 50.0 2 3 5 1 0 0 1 2 12
+p780
+aVFestus Ezeli GSW 11/21/2012 GSW vs. BKN W 16 6 3 7 42.9 0 0 - 0 0 - 5 0 5 0 0 1 2 1 -5
+p781
+aVJarrett Jack GSW 11/21/2012 GSW vs. BKN W 24 5 1 5 20.0 0 1 0.0 3 4 75.0 0 3 3 9 2 0 3 4 3
+p782
+aVDavid Lee GSW 11/21/2012 GSW vs. BKN W 43 20 10 15 66.7 0 0 - 0 0 - 4 9 13 6 0 0 4 1 16
+p783
+aVCharles Jenkins GSW 11/21/2012 GSW vs. BKN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p784
+aVHarrison Barnes GSW 11/21/2012 GSW vs. BKN W 28 9 3 7 42.9 1 2 50.0 2 3 66.7 0 5 5 1 0 0 1 2 5
+p785
+aVAndris Biedrins GSW 11/21/2012 GSW vs. BKN W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p786
+aVStephen Curry GSW 11/21/2012 GSW vs. BKN W 42 25 7 13 53.8 2 4 50.0 9 10 90.0 0 6 6 4 0 0 2 2 9
+p787
+aVCarl Landry GSW 11/19/2012 GSW @ DAL W 15 7 3 8 37.5 0 0 - 1 2 50.0 3 1 4 0 0 0 2 2 -1
+p788
+aVAndris Biedrins GSW 11/19/2012 GSW @ DAL W 13 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -1
+p789
+aVDavid Lee GSW 11/19/2012 GSW @ DAL W 43 17 7 17 41.2 0 0 - 3 6 50.0 4 15 19 3 1 0 3 4 4
+p790
+aVDraymond Green GSW 11/19/2012 GSW @ DAL W 26 9 2 4 50.0 1 2 50.0 4 4 100.0 0 7 7 1 3 0 1 4 5
+p791
+aVFestus Ezeli GSW 11/19/2012 GSW @ DAL W 21 9 4 4 100.0 0 0 - 1 3 33.3 7 1 8 0 0 1 2 3 -3
+p792
+aVKlay Thompson GSW 11/19/2012 GSW @ DAL W 42 7 2 14 14.3 1 6 16.7 2 2 100.0 1 2 3 2 1 1 4 4 6
+p793
+aVCharles Jenkins GSW 11/19/2012 GSW @ DAL W 6 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 1 0 0 1 -1
+p794
+aVKent Bazemore GSW 11/19/2012 GSW @ DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p795
+aVHarrison Barnes GSW 11/19/2012 GSW @ DAL W 40 20 8 16 50.0 4 6 66.7 0 2 0.0 2 10 12 0 1 0 2 1 8
+p796
+aVJeremy Tyler GSW 11/19/2012 GSW @ DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p797
+aVJarrett Jack GSW 11/19/2012 GSW @ DAL W 15 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 4 1 0 2 2 4
+p798
+aVStephen Curry GSW 11/19/2012 GSW @ DAL W 43 31 9 21 42.9 3 7 42.9 10 10 100.0 0 6 6 9 2 0 4 2 3
+p799
+aVHarrison Barnes GSW 11/18/2012 GSW @ OKC L 30 12 5 11 45.5 0 2 0.0 2 2 100.0 0 1 1 3 2 0 2 0 -24
+p800
+aVKent Bazemore GSW 11/18/2012 GSW @ OKC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 3
+p801
+aVDavid Lee GSW 11/18/2012 GSW @ OKC L 35 19 8 16 50.0 0 0 - 3 3 100.0 2 8 10 5 2 0 2 4 -10
+p802
+aVJarrett Jack GSW 11/18/2012 GSW @ OKC L 22 12 6 8 75.0 0 1 0.0 0 0 - 0 3 3 5 0 0 0 0 3
+p803
+aVCharles Jenkins GSW 11/18/2012 GSW @ OKC L 9 4 2 4 50.0 0 0 - 0 1 0.0 0 0 0 2 0 0 1 1 -3
+p804
+aVAndris Biedrins GSW 11/18/2012 GSW @ OKC L 10 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 1 1 1 5
+p805
+aVStephen Curry GSW 11/18/2012 GSW @ OKC L 33 22 9 17 52.9 4 8 50.0 0 0 - 1 1 2 6 0 0 3 2 -11
+p806
+aVRichard Jefferson GSW 11/18/2012 GSW @ OKC L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p807
+aVCarl Landry GSW 11/18/2012 GSW @ OKC L 29 14 3 4 75.0 0 0 - 8 8 100.0 1 2 3 1 0 1 1 2 -3
+p808
+aVFestus Ezeli GSW 11/18/2012 GSW @ OKC L 16 5 1 2 50.0 0 0 - 3 6 50.0 3 2 5 0 0 1 0 1 -7
+p809
+aVKlay Thompson GSW 11/18/2012 GSW @ OKC L 23 4 2 8 25.0 0 3 0.0 0 0 - 0 4 4 1 0 1 1 1 -18
+p810
+aVJeremy Tyler GSW 11/18/2012 GSW @ OKC L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p811
+aVDraymond Green GSW 11/18/2012 GSW @ OKC L 25 9 4 6 66.7 1 2 50.0 0 0 - 0 5 5 0 1 0 2 5 8
+p812
+aVKlay Thompson GSW 11/16/2012 GSW @ MIN W 28 12 5 14 35.7 1 6 16.7 1 2 50.0 0 3 3 2 1 0 2 3 17
+p813
+aVCarl Landry GSW 11/16/2012 GSW @ MIN W 29 15 6 8 75.0 0 0 - 3 5 60.0 1 6 7 0 0 2 3 3 -3
+p814
+aVFestus Ezeli GSW 11/16/2012 GSW @ MIN W 16 4 2 2 100.0 0 0 - 0 0 - 4 1 5 0 0 1 1 3 4
+p815
+aVRichard Jefferson GSW 11/16/2012 GSW @ MIN W 13 2 1 6 16.7 0 2 0.0 0 1 0.0 0 0 0 0 0 0 0 1 -3
+p816
+aVDraymond Green GSW 11/16/2012 GSW @ MIN W 11 3 0 1 0.0 0 1 0.0 3 4 75.0 2 2 4 2 0 0 0 3 0
+p817
+aVHarrison Barnes GSW 11/16/2012 GSW @ MIN W 35 18 8 15 53.3 0 2 0.0 2 2 100.0 2 7 9 1 0 0 1 2 11
+p818
+aVJarrett Jack GSW 11/16/2012 GSW @ MIN W 24 13 5 9 55.6 1 1 100.0 2 2 100.0 0 0 0 4 0 0 4 2 -14
+p819
+aVDavid Lee GSW 11/16/2012 GSW @ MIN W 34 18 8 15 53.3 0 0 - 2 3 66.7 6 7 13 3 1 0 1 2 18
+p820
+aVAndris Biedrins GSW 11/16/2012 GSW @ MIN W 16 0 0 0 - 0 0 - 0 0 - 0 3 3 3 0 1 0 1 -9
+p821
+aVStephen Curry GSW 11/16/2012 GSW @ MIN W 29 17 7 12 58.3 0 3 0.0 3 3 100.0 2 2 4 6 1 1 3 6 19
+p822
+aVCharles Jenkins GSW 11/16/2012 GSW @ MIN W 5 4 1 3 33.3 0 0 - 2 4 50.0 0 2 2 0 0 0 0 0 0
+p823
+aVRichard Jefferson GSW 11/14/2012 GSW vs. ATL W 12 10 4 6 66.7 1 2 50.0 1 1 100.0 0 2 2 3 0 0 1 2 5
+p824
+aVHarrison Barnes GSW 11/14/2012 GSW vs. ATL W 40 19 6 11 54.5 1 2 50.0 6 8 75.0 3 10 13 1 1 0 3 2 -5
+p825
+aVDraymond Green GSW 11/14/2012 GSW vs. ATL W 10 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 1 0 0 2
+p826
+aVJarrett Jack GSW 11/14/2012 GSW vs. ATL W 17 9 3 3 100.0 1 1 100.0 2 3 66.7 0 4 4 1 1 0 1 2 6
+p827
+aVCarl Landry GSW 11/14/2012 GSW vs. ATL W 23 10 3 6 50.0 0 0 - 4 4 100.0 1 4 5 1 1 0 3 5 6
+p828
+aVDavid Lee GSW 11/14/2012 GSW vs. ATL W 37 18 8 17 47.1 0 1 0.0 2 3 66.7 4 6 10 5 0 0 5 3 -1
+p829
+aVKlay Thompson GSW 11/14/2012 GSW vs. ATL W 35 7 2 11 18.2 1 5 20.0 2 2 100.0 0 1 1 4 0 0 3 2 -1
+p830
+aVStephen Curry GSW 11/14/2012 GSW vs. ATL W 33 12 4 12 33.3 0 5 0.0 4 4 100.0 0 1 1 7 3 0 4 3 1
+p831
+aVAndris Biedrins GSW 11/14/2012 GSW vs. ATL W 16 0 0 0 - 0 0 - 0 0 - 0 4 4 0 1 0 2 3 11
+p832
+aVCharles Jenkins GSW 11/14/2012 GSW vs. ATL W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p833
+aVFestus Ezeli GSW 11/14/2012 GSW vs. ATL W 18 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -1
+p834
+aVCarl Landry GSW 11/10/2012 GSW vs. DEN L 36 22 9 14 64.3 0 0 - 4 7 57.1 4 5 9 3 0 1 2 5 3
+p835
+aVDraymond Green GSW 11/10/2012 GSW vs. DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p836
+aVRichard Jefferson GSW 11/10/2012 GSW vs. DEN L 23 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 4 1 0 0 1 -6
+p837
+aVAndris Biedrins GSW 11/10/2012 GSW vs. DEN L 19 2 0 2 0.0 0 0 - 2 2 100.0 1 7 8 1 1 0 0 2 -3
+p838
+aVJarrett Jack GSW 11/10/2012 GSW vs. DEN L 38 8 4 11 36.4 0 1 0.0 0 0 - 0 8 8 5 2 0 1 1 -7
+p839
+aVHarrison Barnes GSW 11/10/2012 GSW vs. DEN L 19 7 2 5 40.0 1 1 100.0 2 4 50.0 3 2 5 1 0 1 1 3 -1
+p840
+aVDavid Lee GSW 11/10/2012 GSW vs. DEN L 48 18 7 19 36.8 0 0 - 4 6 66.7 5 4 9 5 4 1 2 4 12
+p841
+aVStephen Curry GSW 11/10/2012 GSW vs. DEN L 37 19 7 17 41.2 3 6 50.0 2 2 100.0 0 5 5 3 3 0 4 5 -5
+p842
+aVKlay Thompson GSW 11/10/2012 GSW vs. DEN L 55 23 9 26 34.6 5 15 33.3 0 2 0.0 0 5 5 1 0 2 3 4 4
+p843
+aVKent Bazemore GSW 11/10/2012 GSW vs. DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p844
+aVCharles Jenkins GSW 11/10/2012 GSW vs. DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p845
+aVFestus Ezeli GSW 11/10/2012 GSW vs. DEN L 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -13
+p846
+aVKent Bazemore GSW 11/09/2012 GSW @ LAL L 6 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 2 0 0 2
+p847
+aVRichard Jefferson GSW 11/09/2012 GSW @ LAL L 18 3 1 6 16.7 0 3 0.0 1 2 50.0 0 1 1 0 0 1 0 2 -14
+p848
+aVFestus Ezeli GSW 11/09/2012 GSW @ LAL L 21 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -6
+p849
+aVCarl Landry GSW 11/09/2012 GSW @ LAL L 26 6 3 12 25.0 0 1 0.0 0 2 0.0 6 5 11 2 0 0 1 3 -20
+p850
+aVDavid Lee GSW 11/09/2012 GSW @ LAL L 31 10 3 10 30.0 0 0 - 4 6 66.7 1 11 12 1 0 0 4 2 -20
+p851
+aVHarrison Barnes GSW 11/09/2012 GSW @ LAL L 29 7 3 8 37.5 1 3 33.3 0 0 - 0 4 4 0 1 0 3 4 -19
+p852
+aVDraymond Green GSW 11/09/2012 GSW @ LAL L 13 1 0 2 0.0 0 1 0.0 1 2 50.0 1 1 2 0 1 0 1 3 -6
+p853
+aVJeremy Tyler GSW 11/09/2012 GSW @ LAL L 6 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 2
+p854
+aVJarrett Jack GSW 11/09/2012 GSW @ LAL L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 1 -8
+p855
+aVKlay Thompson GSW 11/09/2012 GSW @ LAL L 29 15 6 16 37.5 3 8 37.5 0 0 - 0 2 2 1 0 0 2 4 -12
+p856
+aVAndris Biedrins GSW 11/09/2012 GSW @ LAL L 9 0 0 0 - 0 0 - 0 2 0.0 1 3 4 0 1 0 3 3 0
+p857
+aVStephen Curry GSW 11/09/2012 GSW @ LAL L 30 18 6 16 37.5 2 6 33.3 4 4 100.0 0 3 3 5 1 0 0 0 -19
+p858
+aVCharles Jenkins GSW 11/09/2012 GSW @ LAL L 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 3 0 0
+p859
+aVJarrett Jack GSW 11/07/2012 GSW vs. CLE W 26 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 5 2 0 0 0 11
+p860
+aVCarl Landry GSW 11/07/2012 GSW vs. CLE W 26 19 8 10 80.0 0 0 - 3 3 100.0 1 8 9 0 0 1 2 4 3
+p861
+aVHarrison Barnes GSW 11/07/2012 GSW vs. CLE W 30 14 5 9 55.6 1 2 50.0 3 5 60.0 1 1 2 1 1 0 2 3 -6
+p862
+aVKlay Thompson GSW 11/07/2012 GSW vs. CLE W 22 13 4 10 40.0 1 5 20.0 4 6 66.7 1 1 2 1 1 0 4 4 2
+p863
+aVDraymond Green GSW 11/07/2012 GSW vs. CLE W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 4
+p864
+aVDavid Lee GSW 11/07/2012 GSW vs. CLE W 38 22 10 16 62.5 0 0 - 2 2 100.0 2 12 14 6 3 0 1 4 7
+p865
+aVAndrew Bogut GSW 11/07/2012 GSW vs. CLE W 17 0 0 2 0.0 0 0 - 0 0 - 1 2 3 5 1 1 1 0 3
+p866
+aVStephen Curry GSW 11/07/2012 GSW vs. CLE W 36 21 8 14 57.1 2 6 33.3 3 3 100.0 0 5 5 6 2 0 3 3 7
+p867
+aVFestus Ezeli GSW 11/07/2012 GSW vs. CLE W 12 0 0 0 - 0 0 - 0 2 0.0 1 4 5 0 0 1 1 1 5
+p868
+aVRichard Jefferson GSW 11/07/2012 GSW vs. CLE W 24 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 3 0 1 1 2 14
+p869
+aVFestus Ezeli GSW 11/05/2012 GSW @ SAC L 16 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 3 0
+p870
+aVKlay Thompson GSW 11/05/2012 GSW @ SAC L 39 22 7 17 41.2 3 9 33.3 5 6 83.3 0 7 7 3 2 0 1 2 -2
+p871
+aVCarl Landry GSW 11/05/2012 GSW @ SAC L 20 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 0 0 0 1 0 -8
+p872
+aVJarrett Jack GSW 11/05/2012 GSW @ SAC L 18 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -4
+p873
+aVDraymond Green GSW 11/05/2012 GSW @ SAC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 3
+p874
+aVRichard Jefferson GSW 11/05/2012 GSW @ SAC L 14 5 1 3 33.3 1 1 100.0 2 2 100.0 1 2 3 1 0 0 0 0 -3
+p875
+aVDavid Lee GSW 11/05/2012 GSW @ SAC L 41 20 6 13 46.2 0 0 - 8 8 100.0 1 5 6 4 1 0 3 4 2
+p876
+aVStephen Curry GSW 11/05/2012 GSW @ SAC L 39 12 3 15 20.0 2 6 33.3 4 5 80.0 1 5 6 8 1 0 3 2 0
+p877
+aVAndrew Bogut GSW 11/05/2012 GSW @ SAC L 19 12 5 7 71.4 0 0 - 2 3 66.7 1 2 3 1 0 1 1 2 2
+p878
+aVCharles Jenkins GSW 11/05/2012 GSW @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p879
+aVHarrison Barnes GSW 11/05/2012 GSW @ SAC L 30 6 3 8 37.5 0 3 0.0 0 0 - 0 2 2 4 1 0 1 2 2
+p880
+aVFestus Ezeli GSW 11/03/2012 GSW @ LAC W 28 8 2 4 50.0 0 0 - 4 10 40.0 3 2 5 0 0 1 1 4 5
+p881
+aVCharles Jenkins GSW 11/03/2012 GSW @ LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p882
+aVAndris Biedrins GSW 11/03/2012 GSW @ LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p883
+aVDraymond Green GSW 11/03/2012 GSW @ LAC W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 0
+p884
+aVCarl Landry GSW 11/03/2012 GSW @ LAC W 32 23 11 16 68.8 0 0 - 1 4 25.0 6 4 10 2 0 1 2 5 0
+p885
+aVJarrett Jack GSW 11/03/2012 GSW @ LAC W 32 16 5 8 62.5 0 0 - 6 6 100.0 2 4 6 7 1 0 0 4 -3
+p886
+aVKlay Thompson GSW 11/03/2012 GSW @ LAC W 28 17 6 17 35.3 2 6 33.3 3 3 100.0 3 5 8 3 1 0 2 4 2
+p887
+aVStephen Curry GSW 11/03/2012 GSW @ LAC W 43 23 6 16 37.5 2 7 28.6 9 10 90.0 0 4 4 4 3 0 5 4 6
+p888
+aVDavid Lee GSW 11/03/2012 GSW @ LAC W 29 8 4 8 50.0 0 0 - 0 0 - 1 11 12 4 0 0 1 4 3
+p889
+aVRichard Jefferson GSW 11/03/2012 GSW @ LAC W 22 9 3 7 42.9 0 2 0.0 3 4 75.0 1 1 2 1 2 0 1 1 9
+p890
+aVHarrison Barnes GSW 11/03/2012 GSW @ LAC W 20 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 1 0 0 0 5 3
+p891
+aVStephen Curry GSW 11/02/2012 GSW vs. MEM L 43 26 10 20 50.0 6 10 60.0 0 1 0.0 1 4 5 7 1 0 4 3 -7
+p892
+aVDavid Lee GSW 11/02/2012 GSW vs. MEM L 35 16 8 13 61.5 0 0 - 0 0 - 0 7 7 0 0 0 4 5 -1
+p893
+aVAndris Biedrins GSW 11/02/2012 GSW vs. MEM L 6 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 1 0 1 -11
+p894
+aVCarl Landry GSW 11/02/2012 GSW vs. MEM L 24 20 5 10 50.0 0 0 - 10 12 83.3 4 2 6 1 1 0 3 3 12
+p895
+aVAndrew Bogut GSW 11/02/2012 GSW vs. MEM L 18 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 1 2 3 -16
+p896
+aVHarrison Barnes GSW 11/02/2012 GSW vs. MEM L 23 8 3 7 42.9 2 5 40.0 0 0 - 0 0 0 1 0 0 2 5 -11
+p897
+aVRichard Jefferson GSW 11/02/2012 GSW vs. MEM L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -9
+p898
+aVDraymond Green GSW 11/02/2012 GSW vs. MEM L 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p899
+aVBrandon Rush GSW 11/02/2012 GSW vs. MEM L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p900
+aVFestus Ezeli GSW 11/02/2012 GSW vs. MEM L 13 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 2 2 2 1 -4
+p901
+aVJarrett Jack GSW 11/02/2012 GSW vs. MEM L 27 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 6 0 0 0 2 1
+p902
+aVKlay Thompson GSW 11/02/2012 GSW vs. MEM L 38 11 4 10 40.0 1 2 50.0 2 2 100.0 0 3 3 5 1 1 1 1 -5
+p903
+aVCarl Landry GSW 10/31/2012 GSW @ PHX W 23 17 7 9 77.8 0 0 - 3 4 75.0 5 1 6 1 1 0 2 0 13
+p904
+aVDavid Lee GSW 10/31/2012 GSW @ PHX W 39 6 2 16 12.5 0 0 - 2 2 100.0 3 6 9 3 0 1 1 4 3
+p905
+aVAndrew Bogut GSW 10/31/2012 GSW @ PHX W 18 8 4 6 66.7 0 0 - 0 1 0.0 1 5 6 1 0 1 0 1 -7
+p906
+aVKlay Thompson GSW 10/31/2012 GSW @ PHX W 34 16 6 16 37.5 4 7 57.1 0 0 - 2 6 8 1 0 0 4 2 -10
+p907
+aVJarrett Jack GSW 10/31/2012 GSW @ PHX W 30 10 3 7 42.9 1 1 100.0 3 4 75.0 0 3 3 7 1 0 4 2 8
+p908
+aVDraymond Green GSW 10/31/2012 GSW @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p909
+aVRichard Jefferson GSW 10/31/2012 GSW @ PHX W 13 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 2 1 0 0 7
+p910
+aVStephen Curry GSW 10/31/2012 GSW @ PHX W 30 5 2 14 14.3 0 6 0.0 1 3 33.3 3 4 7 3 2 0 4 3 -2
+p911
+aVBrandon Rush GSW 10/31/2012 GSW @ PHX W 23 14 6 9 66.7 0 2 0.0 2 3 66.7 0 1 1 2 0 0 3 5 3
+p912
+aVHarrison Barnes GSW 10/31/2012 GSW @ PHX W 14 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 1 -2
+p913
+aVFestus Ezeli GSW 10/31/2012 GSW @ PHX W 14 3 1 2 50.0 0 0 - 1 2 50.0 1 4 5 0 3 0 0 1 0
+p914
+a.

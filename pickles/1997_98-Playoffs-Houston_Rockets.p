@@ -1,0 +1,112 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrent Price HOU 05/03/1998 HOU @ UTA L 9 0 0 0 - 0 0 - 0 0 - 0 3 3 3 0 0 1 2 -2
+p2
+aVMatt Bullard HOU 05/03/1998 HOU @ UTA L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 1
+p3
+aVOthella Harrington HOU 05/03/1998 HOU @ UTA L 14 10 4 8 50.0 0 0 - 2 3 66.7 3 3 6 0 0 1 0 1 -3
+p4
+aVMatt Maloney HOU 05/03/1998 HOU @ UTA L 38 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 1 2 2 1 1 -12
+p5
+aVMario Elie HOU 05/03/1998 HOU @ UTA L 28 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 3 0 0 0 1 -11
+p6
+aVHakeem Olajuwon HOU 05/03/1998 HOU @ UTA L 42 15 7 19 36.8 0 0 - 1 4 25.0 3 6 9 2 1 3 5 4 -14
+p7
+aVEddie Johnson HOU 05/03/1998 HOU @ UTA L 21 8 4 10 40.0 0 4 0.0 0 0 - 0 1 1 0 0 0 0 5 -5
+p8
+aVRodrick Rhodes HOU 05/03/1998 HOU @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p9
+aVKevin Willis HOU 05/03/1998 HOU @ UTA L 34 16 7 13 53.8 0 0 - 2 2 100.0 4 7 11 0 3 0 3 5 -9
+p10
+aVClyde Drexler HOU 05/03/1998 HOU @ UTA L 37 6 1 13 7.7 0 4 0.0 4 10 40.0 2 4 6 3 3 1 2 2 -12
+p11
+aVCharles Jones HOU 05/03/1998 HOU @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -1
+p12
+aVMatt Bullard HOU 05/01/1998 HOU vs. UTA L 18 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 2 1 0 0 1 10
+p13
+aVClyde Drexler HOU 05/01/1998 HOU vs. UTA L 38 11 2 11 18.2 0 3 0.0 7 7 100.0 2 3 5 5 0 1 4 5 -16
+p14
+aVRodrick Rhodes HOU 05/01/1998 HOU vs. UTA L 2 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 -2
+p15
+aVBrent Price HOU 05/01/1998 HOU vs. UTA L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -15
+p16
+aVMario Elie HOU 05/01/1998 HOU vs. UTA L 24 2 1 5 20.0 0 3 0.0 0 1 0.0 0 1 1 1 0 0 1 2 -23
+p17
+aVCharles Barkley HOU 05/01/1998 HOU vs. UTA L 8 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 5
+p18
+aVMatt Maloney HOU 05/01/1998 HOU vs. UTA L 32 5 2 4 50.0 0 2 0.0 1 1 100.0 0 0 0 3 0 0 1 2 -7
+p19
+aVHakeem Olajuwon HOU 05/01/1998 HOU vs. UTA L 39 27 10 29 34.5 0 0 - 7 9 77.8 2 13 15 1 1 5 3 3 -21
+p20
+aVEddie Johnson HOU 05/01/1998 HOU vs. UTA L 12 5 2 7 28.6 1 3 33.3 0 0 - 2 2 4 0 0 0 0 2 -13
+p21
+aVKevin Willis HOU 05/01/1998 HOU vs. UTA L 43 8 3 13 23.1 0 1 0.0 2 4 50.0 5 3 8 0 2 0 2 5 -21
+p22
+aVCharles Jones HOU 05/01/1998 HOU vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p23
+aVOthella Harrington HOU 05/01/1998 HOU vs. UTA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p24
+aVMatt Bullard HOU 04/29/1998 HOU vs. UTA W 14 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 1 16
+p25
+aVBrent Price HOU 04/29/1998 HOU vs. UTA W 14 2 0 3 0.0 0 3 0.0 2 3 66.7 1 1 2 0 0 0 0 1 -1
+p26
+aVClyde Drexler HOU 04/29/1998 HOU vs. UTA W 40 22 8 18 44.4 2 6 33.3 4 4 100.0 2 7 9 5 2 0 3 1 9
+p27
+aVKevin Willis HOU 04/29/1998 HOU vs. UTA W 28 4 2 6 33.3 0 0 - 0 0 - 2 6 8 1 1 0 2 3 18
+p28
+aVHakeem Olajuwon HOU 04/29/1998 HOU vs. UTA W 41 28 10 26 38.5 0 1 0.0 8 8 100.0 1 11 12 3 1 1 0 2 -2
+p29
+aVEddie Johnson HOU 04/29/1998 HOU vs. UTA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p30
+aVMario Elie HOU 04/29/1998 HOU vs. UTA W 33 7 3 6 50.0 1 1 100.0 0 1 0.0 1 1 2 2 2 0 1 2 -12
+p31
+aVCharles Barkley HOU 04/29/1998 HOU vs. UTA W 25 8 3 5 60.0 0 1 0.0 2 5 40.0 1 5 6 1 2 0 1 2 -8
+p32
+aVMatt Maloney HOU 04/29/1998 HOU vs. UTA W 33 11 2 8 25.0 2 7 28.6 5 6 83.3 0 4 4 5 0 0 1 4 5
+p33
+aVEddie Johnson HOU 04/25/1998 HOU @ UTA L 31 10 2 7 28.6 1 2 50.0 5 6 83.3 2 1 3 0 0 0 1 2 -8
+p34
+aVMario Elie HOU 04/25/1998 HOU @ UTA L 17 6 1 2 50.0 1 1 100.0 3 4 75.0 0 3 3 0 0 0 0 2 -3
+p35
+aVClyde Drexler HOU 04/25/1998 HOU @ UTA L 29 14 4 11 36.4 1 6 16.7 5 5 100.0 2 2 4 4 1 0 1 4 -5
+p36
+aVCharles Barkley HOU 04/25/1998 HOU @ UTA L 26 8 2 7 28.6 0 1 0.0 4 6 66.7 2 5 7 1 1 0 3 6 -8
+p37
+aVHakeem Olajuwon HOU 04/25/1998 HOU @ UTA L 30 16 6 11 54.5 0 0 - 4 8 50.0 1 4 5 1 1 1 4 5 -14
+p38
+aVRodrick Rhodes HOU 04/25/1998 HOU @ UTA L 3 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 4
+p39
+aVOthella Harrington HOU 04/25/1998 HOU @ UTA L 4 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 0
+p40
+aVKevin Willis HOU 04/25/1998 HOU @ UTA L 30 10 3 10 30.0 0 0 - 4 4 100.0 3 9 12 2 0 2 4 3 -12
+p41
+aVMatt Bullard HOU 04/25/1998 HOU @ UTA L 14 5 1 7 14.3 1 3 33.3 2 2 100.0 2 0 2 0 0 0 0 1 -18
+p42
+aVBrent Price HOU 04/25/1998 HOU @ UTA L 20 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 1 4 0 4 6 -5
+p43
+aVCharles Jones HOU 04/25/1998 HOU @ UTA L 3 2 0 0 - 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 4
+p44
+aVMatt Maloney HOU 04/25/1998 HOU @ UTA L 27 4 1 6 16.7 0 3 0.0 2 2 100.0 0 1 1 6 0 0 0 3 -10
+p45
+aVKevin Willis HOU 04/23/1998 HOU @ UTA W 31 18 7 13 53.8 0 0 - 4 6 66.7 4 10 14 2 2 1 1 5 11
+p46
+aVCharles Jones HOU 04/23/1998 HOU @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p47
+aVEddie Johnson HOU 04/23/1998 HOU @ UTA W 14 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 1 0 0 2 0 -5
+p48
+aVClyde Drexler HOU 04/23/1998 HOU @ UTA W 36 22 6 15 40.0 2 7 28.6 8 11 72.7 1 2 3 6 2 1 3 3 12
+p49
+aVMatt Bullard HOU 04/23/1998 HOU @ UTA W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 11
+p50
+aVMario Elie HOU 04/23/1998 HOU @ UTA W 30 12 4 7 57.1 1 3 33.3 3 3 100.0 1 4 5 0 0 0 3 3 11
+p51
+aVHakeem Olajuwon HOU 04/23/1998 HOU @ UTA W 36 16 6 14 42.9 0 0 - 4 4 100.0 2 11 13 5 1 6 1 4 9
+p52
+aVMatt Maloney HOU 04/23/1998 HOU @ UTA W 33 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 3 0 0 1 1 10
+p53
+aVCharles Barkley HOU 04/23/1998 HOU @ UTA W 27 12 3 6 50.0 0 0 - 6 10 60.0 1 5 6 2 1 0 1 4 6
+p54
+aVBrent Price HOU 04/23/1998 HOU @ UTA W 14 12 4 7 57.1 4 6 66.7 0 0 - 0 1 1 2 0 0 0 2 3
+p55
+a.

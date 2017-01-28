@@ -1,0 +1,1628 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKen Norman LAC 04/21/1991 LAC @ SAC L 20 10 4 12 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 2 1 -
+p2
+aVOlden Polynice LAC 04/21/1991 LAC @ SAC L 41 17 7 10 70.0 0 0 - 3 6 50.0 6 12 18 1 0 0 2 2 -
+p3
+aVRon Harper LAC 04/21/1991 LAC @ SAC L 38 11 3 11 27.3 2 5 40.0 3 4 75.0 2 1 3 4 1 3 2 2 -
+p4
+aVCharles Smith LAC 04/21/1991 LAC @ SAC L 43 25 8 19 42.1 0 0 - 9 11 81.8 3 8 11 2 1 3 2 4 -
+p5
+aVWinston Garland LAC 04/21/1991 LAC @ SAC L 33 8 4 8 50.0 0 0 - 0 0 - 0 3 3 9 4 0 5 4 -
+p6
+aVJeff Martin LAC 04/21/1991 LAC @ SAC L 10 11 4 6 66.7 3 4 75.0 0 0 - 0 0 0 0 0 0 0 2 -
+p7
+aVLAC 04/21/1991 LAC @ SAC L 10 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p8
+aVTom Garrick LAC 04/21/1991 LAC @ SAC L 15 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 7 3 0 2 2 -
+p9
+aVDanny Manning LAC 04/21/1991 LAC @ SAC L 30 15 7 17 41.2 0 1 0.0 1 1 100.0 3 3 6 2 1 2 2 4 -
+p10
+aVWinston Garland LAC 04/19/1991 LAC vs. GOS L 37 13 3 15 20.0 0 1 0.0 7 7 100.0 0 5 5 9 3 0 3 5 -
+p11
+aVCharles Smith LAC 04/19/1991 LAC vs. GOS L 40 40 14 19 73.7 0 0 - 12 13 92.3 7 10 17 2 0 3 3 0 -
+p12
+aVKen Norman LAC 04/19/1991 LAC vs. GOS L 23 9 3 10 30.0 0 1 0.0 3 6 50.0 3 1 4 1 1 1 3 3 -
+p13
+aVJeff Martin LAC 04/19/1991 LAC vs. GOS L 14 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 -
+p14
+aVTom Garrick LAC 04/19/1991 LAC vs. GOS L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 1 0 0 0 -
+p15
+aVDanny Manning LAC 04/19/1991 LAC vs. GOS L 41 19 7 14 50.0 0 1 0.0 5 7 71.4 0 9 9 7 1 1 4 4 -
+p16
+aVRon Harper LAC 04/19/1991 LAC vs. GOS L 38 16 7 18 38.9 1 5 20.0 1 1 100.0 2 3 5 2 2 1 5 5 -
+p17
+aVLAC 04/19/1991 LAC vs. GOS L 5 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p18
+aVOlden Polynice LAC 04/19/1991 LAC vs. GOS L 30 12 4 8 50.0 0 0 - 4 9 44.4 4 5 9 1 1 0 1 3 -
+p19
+aVDanny Manning LAC 04/17/1991 LAC @ PHX L 39 20 8 18 44.4 0 0 - 4 6 66.7 1 7 8 6 1 0 2 4 -
+p20
+aVKen Bannister LAC 04/17/1991 LAC @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -
+p21
+aVLAC 04/17/1991 LAC @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p22
+aVKen Norman LAC 04/17/1991 LAC @ PHX L 24 20 8 14 57.1 0 0 - 4 8 50.0 2 0 2 1 0 2 0 4 -
+p23
+aVRon Harper LAC 04/17/1991 LAC @ PHX L 38 10 4 21 19.0 2 6 33.3 0 0 - 0 6 6 8 0 1 3 5 -
+p24
+aVWinston Garland LAC 04/17/1991 LAC @ PHX L 37 11 3 8 37.5 0 0 - 5 8 62.5 1 9 10 8 1 1 2 5 -
+p25
+aVCharles Smith LAC 04/17/1991 LAC @ PHX L 32 17 6 13 46.2 0 0 - 5 6 83.3 1 5 6 1 0 0 2 6 -
+p26
+aVTom Garrick LAC 04/17/1991 LAC @ PHX L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 0 0 0 1 -
+p27
+aVOlden Polynice LAC 04/17/1991 LAC @ PHX L 40 14 7 13 53.8 0 0 - 0 3 0.0 6 5 11 0 1 3 0 3 -
+p28
+aVJeff Martin LAC 04/17/1991 LAC @ PHX L 14 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p29
+aVMike Smrek LAC 04/16/1991 LAC @ SAN L 12 4 2 6 33.3 0 0 - 0 0 - 3 2 5 1 1 0 1 3 -
+p30
+aVDanny Manning LAC 04/16/1991 LAC @ SAN L 17 8 3 11 27.3 0 0 - 2 2 100.0 2 3 5 0 0 0 2 3 -
+p31
+aVJeff Martin LAC 04/16/1991 LAC @ SAN L 21 15 5 11 45.5 1 2 50.0 4 6 66.7 1 2 3 0 1 0 0 0 -
+p32
+aVKen Bannister LAC 04/16/1991 LAC @ SAN L 10 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 1 0 0 3 -
+p33
+aVTom Garrick LAC 04/16/1991 LAC @ SAN L 14 6 1 2 50.0 0 0 - 4 4 100.0 0 1 1 7 1 0 2 2 -
+p34
+aVKen Norman LAC 04/16/1991 LAC @ SAN L 21 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 1 1 4 3 -
+p35
+aVOlden Polynice LAC 04/16/1991 LAC @ SAN L 32 7 3 5 60.0 0 0 - 1 3 33.3 1 2 3 1 0 0 2 2 -
+p36
+aVLAC 04/16/1991 LAC @ SAN L 20 17 6 14 42.9 0 0 - 5 7 71.4 4 5 9 0 1 0 0 0 -
+p37
+aVCharles Smith LAC 04/16/1991 LAC @ SAN L 31 10 5 16 31.3 0 0 - 0 0 - 1 9 10 0 0 3 4 3 -
+p38
+aVRon Harper LAC 04/16/1991 LAC @ SAN L 27 9 4 10 40.0 1 2 50.0 0 3 0.0 2 2 4 5 2 1 2 3 -
+p39
+aVGary Grant LAC 04/16/1991 LAC @ SAN L 13 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 1 1 0 0 4 -
+p40
+aVWinston Garland LAC 04/16/1991 LAC @ SAN L 22 6 3 8 37.5 0 0 - 0 0 - 0 2 2 3 0 0 3 3 -
+p41
+aVRon Harper LAC 04/12/1991 LAC vs. DEN W 39 20 7 15 46.7 1 3 33.3 5 8 62.5 0 5 5 7 4 2 7 3 -
+p42
+aVGary Grant LAC 04/12/1991 LAC vs. DEN W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -
+p43
+aVJeff Martin LAC 04/12/1991 LAC vs. DEN W 9 0 0 5 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p44
+aVOlden Polynice LAC 04/12/1991 LAC vs. DEN W 34 30 12 13 92.3 0 0 - 6 7 85.7 4 10 14 0 2 0 1 1 -
+p45
+aVLAC 04/12/1991 LAC vs. DEN W 17 11 5 6 83.3 0 0 - 1 1 100.0 2 5 7 2 1 0 1 3 -
+p46
+aVDanny Manning LAC 04/12/1991 LAC vs. DEN W 29 15 7 13 53.8 0 0 - 1 2 50.0 0 4 4 4 0 2 5 4 -
+p47
+aVTom Garrick LAC 04/12/1991 LAC vs. DEN W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 6 1 0 0 1 -
+p48
+aVWinston Garland LAC 04/12/1991 LAC vs. DEN W 36 13 4 7 57.1 1 1 100.0 4 4 100.0 2 5 7 13 2 0 2 1 -
+p49
+aVKen Norman LAC 04/12/1991 LAC vs. DEN W 25 26 11 19 57.9 0 0 - 4 6 66.7 7 4 11 3 2 2 4 4 -
+p50
+aVCharles Smith LAC 04/12/1991 LAC vs. DEN W 38 27 7 20 35.0 0 0 - 13 15 86.7 2 8 10 1 1 4 2 5 -
+p51
+aVJeff Martin LAC 04/10/1991 LAC @ SEA L 14 4 2 5 40.0 0 2 0.0 0 1 0.0 0 0 0 0 0 0 2 0 -
+p52
+aVTom Garrick LAC 04/10/1991 LAC @ SEA L 6 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 3 0 0 0 2 -
+p53
+aVWinston Garland LAC 04/10/1991 LAC @ SEA L 29 11 4 8 50.0 0 1 0.0 3 5 60.0 1 3 4 7 1 0 4 3 -
+p54
+aVDanny Manning LAC 04/10/1991 LAC @ SEA L 28 21 9 12 75.0 0 0 - 3 7 42.9 0 4 4 2 0 1 2 5 -
+p55
+aVGary Grant LAC 04/10/1991 LAC @ SEA L 18 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 6 1 0 1 6 -
+p56
+aVKen Bannister LAC 04/10/1991 LAC @ SEA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p57
+aVOlden Polynice LAC 04/10/1991 LAC @ SEA L 36 16 7 12 58.3 0 1 0.0 2 2 100.0 1 2 3 1 1 0 2 4 -
+p58
+aVMike Smrek LAC 04/10/1991 LAC @ SEA L 8 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -
+p59
+aVLAC 04/10/1991 LAC @ SEA L 21 13 6 9 66.7 0 0 - 1 2 50.0 2 3 5 2 0 0 0 1 -
+p60
+aVKen Norman LAC 04/10/1991 LAC @ SEA L 41 27 12 20 60.0 0 0 - 3 3 100.0 4 5 9 1 0 0 0 1 -
+p61
+aVRon Harper LAC 04/10/1991 LAC @ SEA L 34 11 5 16 31.3 0 1 0.0 1 2 50.0 2 0 2 7 2 0 3 2 -
+p62
+aVCharles Smith LAC 04/09/1991 LAC vs. ORL L 41 27 10 14 71.4 0 0 - 7 10 70.0 2 4 6 0 1 3 6 3 -
+p63
+aVJeff Martin LAC 04/09/1991 LAC vs. ORL L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p64
+aVDanny Manning LAC 04/09/1991 LAC vs. ORL L 33 13 4 13 30.8 0 0 - 5 6 83.3 6 2 8 1 2 1 3 5 -
+p65
+aVTom Garrick LAC 04/09/1991 LAC vs. ORL L 16 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 5 2 0 2 3 -
+p66
+aVRon Harper LAC 04/09/1991 LAC vs. ORL L 40 21 7 25 28.0 0 4 0.0 7 12 58.3 4 4 8 6 4 2 3 3 -
+p67
+aVOlden Polynice LAC 04/09/1991 LAC vs. ORL L 40 11 4 7 57.1 0 0 - 3 4 75.0 1 6 7 2 1 1 0 4 -
+p68
+aVKen Norman LAC 04/09/1991 LAC vs. ORL L 19 10 5 11 45.5 0 0 - 0 0 - 0 4 4 0 3 0 0 2 -
+p69
+aVLAC 04/09/1991 LAC vs. ORL L 10 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 0 0 0 2 -
+p70
+aVWinston Garland LAC 04/09/1991 LAC vs. ORL L 33 14 7 11 63.6 0 1 0.0 0 0 - 0 0 0 5 1 0 3 2 -
+p71
+aVRon Harper LAC 04/07/1991 LAC vs. SAC W 39 30 10 19 52.6 3 6 50.0 7 11 63.6 2 4 6 3 1 1 3 2 -
+p72
+aVDanny Manning LAC 04/07/1991 LAC vs. SAC W 36 16 6 12 50.0 0 0 - 4 4 100.0 3 3 6 9 2 1 4 5 -
+p73
+aVOlden Polynice LAC 04/07/1991 LAC vs. SAC W 32 16 7 7 100.0 0 0 - 2 4 50.0 2 3 5 1 0 0 2 4 -
+p74
+aVLAC 04/07/1991 LAC vs. SAC W 11 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 -
+p75
+aVKen Norman LAC 04/07/1991 LAC vs. SAC W 26 11 4 8 50.0 0 0 - 3 6 50.0 1 5 6 2 0 2 1 3 -
+p76
+aVWinston Garland LAC 04/07/1991 LAC vs. SAC W 37 10 3 6 50.0 0 0 - 4 4 100.0 1 3 4 5 0 0 2 4 -
+p77
+aVJeff Martin LAC 04/07/1991 LAC vs. SAC W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p78
+aVTom Garrick LAC 04/07/1991 LAC vs. SAC W 17 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 5 1 0 1 3 -
+p79
+aVCharles Smith LAC 04/07/1991 LAC vs. SAC W 37 30 10 13 76.9 0 0 - 10 10 100.0 4 5 9 5 0 0 3 3 -
+p80
+aVJeff Martin LAC 04/05/1991 LAC vs. SEA W 11 0 0 2 0.0 0 1 0.0 0 2 0.0 1 2 3 1 0 0 0 1 -
+p81
+aVRon Harper LAC 04/05/1991 LAC vs. SEA W 35 12 5 19 26.3 0 3 0.0 2 4 50.0 0 4 4 5 1 1 1 2 -
+p82
+aVDanny Manning LAC 04/05/1991 LAC vs. SEA W 28 14 3 8 37.5 0 0 - 8 8 100.0 3 4 7 2 0 2 2 4 -
+p83
+aVMike Smrek LAC 04/05/1991 LAC vs. SEA W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p84
+aVKen Norman LAC 04/05/1991 LAC vs. SEA W 30 20 8 11 72.7 1 1 100.0 3 6 50.0 0 4 4 0 0 0 0 3 -
+p85
+aVLAC 04/05/1991 LAC vs. SEA W 14 8 4 7 57.1 0 0 - 0 0 - 2 3 5 0 0 1 1 1 -
+p86
+aVTom Garrick LAC 04/05/1991 LAC vs. SEA W 24 12 6 10 60.0 0 1 0.0 0 0 - 0 4 4 6 2 0 2 0 -
+p87
+aVWinston Garland LAC 04/05/1991 LAC vs. SEA W 29 7 2 7 28.6 0 0 - 3 3 100.0 0 1 1 6 5 0 1 3 -
+p88
+aVOlden Polynice LAC 04/05/1991 LAC vs. SEA W 39 21 9 12 75.0 0 0 - 3 3 100.0 4 7 11 2 1 2 1 2 -
+p89
+aVCharles Smith LAC 04/05/1991 LAC vs. SEA W 27 13 5 10 50.0 0 0 - 3 3 100.0 1 2 3 2 1 1 0 5 -
+p90
+aVRon Harper LAC 04/03/1991 LAC @ UTH L 36 26 8 16 50.0 4 5 80.0 6 6 100.0 1 4 5 4 4 0 1 4 -
+p91
+aVJeff Martin LAC 04/03/1991 LAC @ UTH L 12 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 1 -
+p92
+aVCharles Smith LAC 04/03/1991 LAC @ UTH L 39 15 7 16 43.8 0 0 - 1 1 100.0 1 9 10 1 2 2 7 5 -
+p93
+aVDanny Manning LAC 04/03/1991 LAC @ UTH L 39 15 6 20 30.0 0 0 - 3 4 75.0 2 4 6 4 1 1 3 3 -
+p94
+aVTom Garrick LAC 04/03/1991 LAC @ UTH L 21 8 4 8 50.0 0 1 0.0 0 0 - 1 5 6 6 0 0 2 1 -
+p95
+aVOlden Polynice LAC 04/03/1991 LAC @ UTH L 43 15 6 8 75.0 0 0 - 3 6 50.0 1 7 8 1 0 0 0 2 -
+p96
+aVWinston Garland LAC 04/03/1991 LAC @ UTH L 27 8 4 6 66.7 0 1 0.0 0 0 - 1 3 4 5 0 0 1 3 -
+p97
+aVKen Norman LAC 04/03/1991 LAC @ UTH L 23 10 4 8 50.0 0 0 - 2 2 100.0 3 1 4 1 0 0 1 3 -
+p98
+aVKen Norman LAC 03/29/1991 LAC vs. DAL W 30 14 6 10 60.0 0 0 - 2 3 66.7 1 5 6 1 0 0 1 3 -
+p99
+aVCharles Smith LAC 03/29/1991 LAC vs. DAL W 30 22 9 17 52.9 0 0 - 4 5 80.0 1 4 5 0 1 2 1 1 -
+p100
+aVOlden Polynice LAC 03/29/1991 LAC vs. DAL W 35 15 7 9 77.8 0 0 - 1 4 25.0 5 3 8 0 0 0 1 4 -
+p101
+aVJeff Martin LAC 03/29/1991 LAC vs. DAL W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p102
+aVDanny Manning LAC 03/29/1991 LAC vs. DAL W 41 14 5 12 41.7 0 0 - 4 6 66.7 4 4 8 4 1 1 1 3 -
+p103
+aVRon Harper LAC 03/29/1991 LAC vs. DAL W 37 16 7 18 38.9 1 6 16.7 1 1 100.0 0 6 6 6 1 2 4 2 -
+p104
+aVMike Smrek LAC 03/29/1991 LAC vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p105
+aVWinston Garland LAC 03/29/1991 LAC vs. DAL W 28 5 1 5 20.0 0 0 - 3 4 75.0 1 3 4 7 0 0 3 4 -
+p106
+aVLAC 03/29/1991 LAC vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -
+p107
+aVTom Garrick LAC 03/29/1991 LAC vs. DAL W 21 19 7 12 58.3 0 1 0.0 5 6 83.3 1 3 4 2 0 0 0 2 -
+p108
+aVRon Harper LAC 03/27/1991 LAC vs. UTH W 41 29 12 21 57.1 2 5 40.0 3 4 75.0 0 3 3 6 2 0 0 2 -
+p109
+aVJeff Martin LAC 03/27/1991 LAC vs. UTH W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p110
+aVWinston Garland LAC 03/27/1991 LAC vs. UTH W 43 15 7 12 58.3 0 0 - 1 2 50.0 1 5 6 9 1 0 1 3 -
+p111
+aVCharles Smith LAC 03/27/1991 LAC vs. UTH W 45 22 10 15 66.7 0 0 - 2 3 66.7 0 7 7 1 0 1 4 4 -
+p112
+aVDanny Manning LAC 03/27/1991 LAC vs. UTH W 38 10 4 8 50.0 0 0 - 2 3 66.7 1 4 5 5 4 1 5 3 -
+p113
+aVKen Norman LAC 03/27/1991 LAC vs. UTH W 23 4 2 8 25.0 0 0 - 0 0 - 3 2 5 1 0 0 1 3 -
+p114
+aVTom Garrick LAC 03/27/1991 LAC vs. UTH W 8 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 3 1 0 2 0 -
+p115
+aVOlden Polynice LAC 03/27/1991 LAC vs. UTH W 37 11 3 7 42.9 0 0 - 5 8 62.5 2 5 7 1 0 0 1 5 -
+p116
+aVKen Bannister LAC 03/25/1991 LAC vs. PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p117
+aVTom Garrick LAC 03/25/1991 LAC vs. PHX W 14 2 0 2 0.0 0 0 - 2 3 66.7 0 2 2 3 2 0 1 1 -
+p118
+aVKen Norman LAC 03/25/1991 LAC vs. PHX W 27 18 8 16 50.0 0 0 - 2 3 66.7 4 5 9 1 0 0 2 3 -
+p119
+aVDanny Manning LAC 03/25/1991 LAC vs. PHX W 32 18 9 13 69.2 0 0 - 0 2 0.0 0 4 4 6 5 0 2 4 -
+p120
+aVJeff Martin LAC 03/25/1991 LAC vs. PHX W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p121
+aVRon Harper LAC 03/25/1991 LAC vs. PHX W 46 19 8 20 40.0 0 2 0.0 3 3 100.0 1 5 6 6 3 0 2 3 -
+p122
+aVCharles Smith LAC 03/25/1991 LAC vs. PHX W 40 25 9 17 52.9 0 0 - 7 7 100.0 5 4 9 2 0 2 0 2 -
+p123
+aVOlden Polynice LAC 03/25/1991 LAC vs. PHX W 40 10 4 8 50.0 0 0 - 2 6 33.3 0 4 4 1 1 0 0 4 -
+p124
+aVWinston Garland LAC 03/25/1991 LAC vs. PHX W 33 12 3 10 30.0 0 0 - 6 6 100.0 0 8 8 4 2 1 2 4 -
+p125
+aVBo Kimble LAC 03/23/1991 LAC @ GOS W 3 1 0 0 - 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -
+p126
+aVJeff Martin LAC 03/23/1991 LAC @ GOS W 17 9 4 6 66.7 1 1 100.0 0 0 - 2 0 2 0 1 0 2 2 -
+p127
+aVRon Harper LAC 03/23/1991 LAC @ GOS W 42 18 8 17 47.1 1 6 16.7 1 3 33.3 1 3 4 9 1 1 6 3 -
+p128
+aVDanny Manning LAC 03/23/1991 LAC @ GOS W 31 24 8 13 61.5 0 0 - 8 12 66.7 2 6 8 2 1 0 2 4 -
+p129
+aVOlden Polynice LAC 03/23/1991 LAC @ GOS W 34 11 4 9 44.4 0 0 - 3 7 42.9 4 7 11 3 2 0 0 4 -
+p130
+aVCharles Smith LAC 03/23/1991 LAC @ GOS W 38 27 8 17 47.1 0 0 - 11 12 91.7 5 5 10 1 2 0 1 3 -
+p131
+aVKen Bannister LAC 03/23/1991 LAC @ GOS W 7 5 2 2 100.0 0 0 - 1 4 25.0 1 0 1 0 0 1 1 1 -
+p132
+aVKen Norman LAC 03/23/1991 LAC @ GOS W 15 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -
+p133
+aVWinston Garland LAC 03/23/1991 LAC @ GOS W 30 8 3 10 30.0 0 1 0.0 2 4 50.0 2 4 6 4 1 0 0 5 -
+p134
+aVLAC 03/23/1991 LAC @ GOS W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p135
+aVTom Garrick LAC 03/23/1991 LAC @ GOS W 18 2 1 5 20.0 0 1 0.0 0 0 - 0 4 4 3 1 0 1 0 -
+p136
+aVRon Harper LAC 03/22/1991 LAC vs. CHH W 39 26 9 22 40.9 2 3 66.7 6 11 54.5 2 4 6 7 1 0 1 1 -
+p137
+aVKen Norman LAC 03/22/1991 LAC vs. CHH W 27 11 5 9 55.6 0 0 - 1 2 50.0 0 5 5 1 0 0 2 1 -
+p138
+aVOlden Polynice LAC 03/22/1991 LAC vs. CHH W 39 10 4 8 50.0 0 0 - 2 5 40.0 4 8 12 0 1 0 2 5 -
+p139
+aVBo Kimble LAC 03/22/1991 LAC vs. CHH W 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -
+p140
+aVGary Grant LAC 03/22/1991 LAC vs. CHH W 27 0 0 1 0.0 0 0 - 0 0 - 0 3 3 9 2 0 3 4 -
+p141
+aVLAC 03/22/1991 LAC vs. CHH W 16 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 1 0 0 2 -
+p142
+aVKen Bannister LAC 03/22/1991 LAC vs. CHH W 7 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -
+p143
+aVJeff Martin LAC 03/22/1991 LAC vs. CHH W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p144
+aVDanny Manning LAC 03/22/1991 LAC vs. CHH W 18 17 6 9 66.7 0 0 - 5 5 100.0 1 2 3 4 2 0 6 4 -
+p145
+aVTom Garrick LAC 03/22/1991 LAC vs. CHH W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p146
+aVWinston Garland LAC 03/22/1991 LAC vs. CHH W 19 10 3 6 50.0 0 0 - 4 4 100.0 0 0 0 1 1 0 2 2 -
+p147
+aVCharles Smith LAC 03/22/1991 LAC vs. CHH W 32 23 9 15 60.0 0 0 - 5 6 83.3 3 6 9 0 0 2 2 4 -
+p148
+aVBo Kimble LAC 03/20/1991 LAC vs. POR L 7 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 1 0 1 1 1 -
+p149
+aVLAC 03/20/1991 LAC vs. POR L 19 6 3 7 42.9 0 0 - 0 0 - 1 2 3 2 1 0 0 2 -
+p150
+aVCharles Smith LAC 03/20/1991 LAC vs. POR L 40 17 5 14 35.7 0 0 - 7 9 77.8 4 8 12 2 0 1 4 3 -
+p151
+aVKen Norman LAC 03/20/1991 LAC vs. POR L 34 13 6 15 40.0 0 2 0.0 1 1 100.0 2 5 7 1 1 0 1 4 -
+p152
+aVDanny Manning LAC 03/20/1991 LAC vs. POR L 11 11 5 6 83.3 0 0 - 1 1 100.0 0 2 2 0 0 0 0 2 -
+p153
+aVOlden Polynice LAC 03/20/1991 LAC vs. POR L 40 7 3 8 37.5 0 0 - 1 2 50.0 5 8 13 0 0 0 3 5 -
+p154
+aVRon Harper LAC 03/20/1991 LAC vs. POR L 41 25 9 20 45.0 2 5 40.0 5 7 71.4 3 5 8 3 0 0 1 3 -
+p155
+aVGary Grant LAC 03/20/1991 LAC vs. POR L 27 6 3 12 25.0 0 0 - 0 0 - 1 1 2 8 1 0 2 3 -
+p156
+aVWinston Garland LAC 03/20/1991 LAC vs. POR L 21 8 4 8 50.0 0 1 0.0 0 0 - 1 0 1 5 3 0 3 2 -
+p157
+aVTom Garrick LAC 03/19/1991 LAC @ LAL L 5 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 4 1 0 0 0 -
+p158
+aVKen Bannister LAC 03/19/1991 LAC @ LAL L 8 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -
+p159
+aVRon Harper LAC 03/19/1991 LAC @ LAL L 29 11 5 12 41.7 0 3 0.0 1 1 100.0 1 2 3 5 1 0 2 3 -
+p160
+aVGary Grant LAC 03/19/1991 LAC @ LAL L 25 10 5 10 50.0 0 1 0.0 0 0 - 2 3 5 9 0 0 6 1 -
+p161
+aVCharles Smith LAC 03/19/1991 LAC @ LAL L 31 13 3 13 23.1 0 1 0.0 7 7 100.0 4 5 9 1 2 1 1 2 -
+p162
+aVWinston Garland LAC 03/19/1991 LAC @ LAL L 18 3 1 6 16.7 0 0 - 1 1 100.0 0 1 1 2 4 0 2 1 -
+p163
+aVKen Norman LAC 03/19/1991 LAC @ LAL L 28 14 5 15 33.3 1 2 50.0 3 3 100.0 1 2 3 0 0 0 3 1 -
+p164
+aVLAC 03/19/1991 LAC @ LAL L 18 11 4 4 100.0 0 0 - 3 3 100.0 2 3 5 0 0 0 1 2 -
+p165
+aVDanny Manning LAC 03/19/1991 LAC @ LAL L 30 19 9 17 52.9 0 0 - 1 2 50.0 7 3 10 1 0 1 2 4 -
+p166
+aVBo Kimble LAC 03/19/1991 LAC @ LAL L 19 7 2 4 50.0 0 1 0.0 3 4 75.0 0 2 2 3 1 0 2 4 -
+p167
+aVOlden Polynice LAC 03/19/1991 LAC @ LAL L 29 8 4 8 50.0 0 0 - 0 0 - 2 1 3 0 1 0 0 3 -
+p168
+aVTom Garrick LAC 03/17/1991 LAC @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p169
+aVKen Bannister LAC 03/17/1991 LAC @ POR W 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -
+p170
+aVDanny Manning LAC 03/17/1991 LAC @ POR W 34 19 7 15 46.7 0 0 - 5 6 83.3 2 4 6 5 1 0 3 3 -
+p171
+aVRon Harper LAC 03/17/1991 LAC @ POR W 45 25 9 20 45.0 2 7 28.6 5 6 83.3 0 2 2 9 2 1 7 3 -
+p172
+aVWinston Garland LAC 03/17/1991 LAC @ POR W 27 13 6 11 54.5 0 0 - 1 2 50.0 3 3 6 6 0 0 1 1 -
+p173
+aVCharles Smith LAC 03/17/1991 LAC @ POR W 43 26 8 14 57.1 0 0 - 10 13 76.9 2 6 8 4 2 0 2 3 -
+p174
+aVOlden Polynice LAC 03/17/1991 LAC @ POR W 35 8 4 7 57.1 0 0 - 0 0 - 2 2 4 2 0 1 1 4 -
+p175
+aVKen Norman LAC 03/17/1991 LAC @ POR W 24 12 6 11 54.5 0 0 - 0 2 0.0 0 4 4 0 0 1 0 4 -
+p176
+aVGary Grant LAC 03/17/1991 LAC @ POR W 21 2 1 7 14.3 0 1 0.0 0 0 - 2 4 6 7 0 0 1 3 -
+p177
+aVBo Kimble LAC 03/17/1991 LAC @ POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -
+p178
+aVOlden Polynice LAC 03/15/1991 LAC vs. IND L 38 17 7 10 70.0 0 0 - 3 6 50.0 6 4 10 1 0 0 0 0 -
+p179
+aVJeff Martin LAC 03/15/1991 LAC vs. IND L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p180
+aVKen Norman LAC 03/15/1991 LAC vs. IND L 23 6 2 6 33.3 0 1 0.0 2 4 50.0 2 5 7 2 0 1 0 3 -
+p181
+aVKen Bannister LAC 03/15/1991 LAC vs. IND L 7 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 0 0 0 2 -
+p182
+aVWinston Garland LAC 03/15/1991 LAC vs. IND L 32 19 9 17 52.9 0 1 0.0 1 1 100.0 1 1 2 5 0 0 1 6 -
+p183
+aVCharles Smith LAC 03/15/1991 LAC vs. IND L 35 21 7 18 38.9 0 0 - 7 8 87.5 3 3 6 2 1 3 1 5 -
+p184
+aVLAC 03/15/1991 LAC vs. IND L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -
+p185
+aVBo Kimble LAC 03/15/1991 LAC vs. IND L 10 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p186
+aVRon Harper LAC 03/15/1991 LAC vs. IND L 39 20 8 18 44.4 0 4 0.0 4 4 100.0 1 5 6 4 1 1 6 3 -
+p187
+aVTom Garrick LAC 03/15/1991 LAC vs. IND L 16 4 1 3 33.3 0 0 - 2 2 100.0 4 2 6 3 1 0 4 1 -
+p188
+aVDanny Manning LAC 03/15/1991 LAC vs. IND L 29 14 6 9 66.7 0 0 - 2 3 66.7 0 4 4 6 1 2 2 6 -
+p189
+aVBo Kimble LAC 03/13/1991 LAC vs. SAN W 7 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 2 0 -
+p190
+aVTom Garrick LAC 03/13/1991 LAC vs. SAN W 12 5 2 3 66.7 0 1 0.0 1 2 50.0 0 2 2 1 0 0 1 2 -
+p191
+aVKen Norman LAC 03/13/1991 LAC vs. SAN W 24 12 6 11 54.5 0 0 - 0 0 - 4 3 7 0 0 1 2 3 -
+p192
+aVWinston Garland LAC 03/13/1991 LAC vs. SAN W 37 11 5 12 41.7 0 1 0.0 1 2 50.0 0 3 3 7 1 0 4 4 -
+p193
+aVRon Harper LAC 03/13/1991 LAC vs. SAN W 41 17 8 22 36.4 1 3 33.3 0 0 - 2 3 5 5 3 0 0 4 -
+p194
+aVDanny Manning LAC 03/13/1991 LAC vs. SAN W 35 17 7 17 41.2 0 0 - 3 3 100.0 2 4 6 6 2 0 1 4 -
+p195
+aVOlden Polynice LAC 03/13/1991 LAC vs. SAN W 42 12 6 12 50.0 0 0 - 0 0 - 4 6 10 1 1 2 0 2 -
+p196
+aVCharles Smith LAC 03/13/1991 LAC vs. SAN W 42 21 6 12 50.0 0 0 - 9 12 75.0 5 5 10 2 0 3 1 3 -
+p197
+aVJeff Martin LAC 03/12/1991 LAC @ DEN W 14 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 1 0 3 0 -
+p198
+aVOlden Polynice LAC 03/12/1991 LAC @ DEN W 41 13 3 10 30.0 0 0 - 7 10 70.0 7 6 13 0 0 1 2 1 -
+p199
+aVLAC 03/12/1991 LAC @ DEN W 19 10 5 9 55.6 0 0 - 0 0 - 1 5 6 0 1 2 1 2 -
+p200
+aVWinston Garland LAC 03/12/1991 LAC @ DEN W 29 11 3 7 42.9 0 0 - 5 6 83.3 2 3 5 5 1 1 1 6 -
+p201
+aVDanny Manning LAC 03/12/1991 LAC @ DEN W 40 26 11 17 64.7 0 0 - 4 8 50.0 3 9 12 4 3 1 3 4 -
+p202
+aVBo Kimble LAC 03/12/1991 LAC @ DEN W 14 12 4 10 40.0 0 0 - 4 4 100.0 1 2 3 1 0 0 1 1 -
+p203
+aVRon Harper LAC 03/12/1991 LAC @ DEN W 40 23 6 24 25.0 5 10 50.0 6 8 75.0 3 1 4 4 2 0 10 3 -
+p204
+aVCharles Smith LAC 03/12/1991 LAC @ DEN W 44 24 9 14 64.3 0 0 - 6 7 85.7 5 9 14 4 1 3 1 2 -
+p205
+aVTom Garrick LAC 03/12/1991 LAC @ DEN W 24 3 1 4 25.0 0 1 0.0 1 2 50.0 1 3 4 3 1 0 3 3 -
+p206
+aVBo Kimble LAC 03/10/1991 LAC vs. CLE L 10 7 3 3 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 0 -
+p207
+aVDanny Manning LAC 03/10/1991 LAC vs. CLE L 35 16 6 12 50.0 0 0 - 4 8 50.0 3 3 6 4 5 1 1 4 -
+p208
+aVOlden Polynice LAC 03/10/1991 LAC vs. CLE L 42 15 4 7 57.1 0 0 - 7 10 70.0 6 10 16 1 0 0 1 3 -
+p209
+aVLAC 03/10/1991 LAC vs. CLE L 17 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 1 1 0 1 2 -
+p210
+aVCharles Smith LAC 03/10/1991 LAC vs. CLE L 44 18 7 17 41.2 0 0 - 4 5 80.0 2 4 6 0 0 1 2 3 -
+p211
+aVKen Bannister LAC 03/10/1991 LAC vs. CLE L 6 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 0 0 0 2 -
+p212
+aVRon Harper LAC 03/10/1991 LAC vs. CLE L 38 13 6 25 24.0 1 3 33.3 0 0 - 0 4 4 5 2 1 8 5 -
+p213
+aVWinston Garland LAC 03/10/1991 LAC vs. CLE L 18 6 3 7 42.9 0 0 - 0 2 0.0 3 0 3 2 1 0 0 2 -
+p214
+aVGary Grant LAC 03/10/1991 LAC vs. CLE L 30 12 5 11 45.5 1 2 50.0 1 2 50.0 2 2 4 6 2 0 2 5 -
+p215
+aVOlden Polynice LAC 03/08/1991 LAC vs. BOS L 41 13 6 9 66.7 0 0 - 1 1 100.0 4 4 8 1 0 2 1 3 -
+p216
+aVCharles Smith LAC 03/08/1991 LAC vs. BOS L 39 15 7 23 30.4 0 0 - 1 1 100.0 6 2 8 2 3 1 0 3 -
+p217
+aVDanny Manning LAC 03/08/1991 LAC vs. BOS L 34 16 7 16 43.8 0 0 - 2 3 66.7 3 3 6 4 0 1 3 4 -
+p218
+aVBo Kimble LAC 03/08/1991 LAC vs. BOS L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -
+p219
+aVLAC 03/08/1991 LAC vs. BOS L 17 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 1 0 2 -
+p220
+aVJeff Martin LAC 03/08/1991 LAC vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p221
+aVGary Grant LAC 03/08/1991 LAC vs. BOS L 31 6 3 8 37.5 0 0 - 0 0 - 2 1 3 7 0 0 3 1 -
+p222
+aVWinston Garland LAC 03/08/1991 LAC vs. BOS L 17 6 3 8 37.5 0 0 - 0 0 - 2 1 3 3 1 0 0 3 -
+p223
+aVRon Harper LAC 03/08/1991 LAC vs. BOS L 40 36 14 29 48.3 1 5 20.0 7 8 87.5 0 8 8 4 2 2 3 4 -
+p224
+aVKen Bannister LAC 03/08/1991 LAC vs. BOS L 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 3 -
+p225
+aVRon Harper LAC 03/06/1991 LAC @ ORL L 37 23 8 26 30.8 2 6 33.3 5 10 50.0 1 5 6 5 3 1 5 2 -
+p226
+aVDanny Manning LAC 03/06/1991 LAC @ ORL L 34 22 6 13 46.2 0 0 - 10 12 83.3 5 1 6 4 1 4 3 4 -
+p227
+aVBo Kimble LAC 03/06/1991 LAC @ ORL L 6 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p228
+aVKen Bannister LAC 03/06/1991 LAC @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p229
+aVOlden Polynice LAC 03/06/1991 LAC @ ORL L 34 1 0 5 0.0 0 0 - 1 2 50.0 3 11 14 1 0 0 2 4 -
+p230
+aVJeff Martin LAC 03/06/1991 LAC @ ORL L 19 5 1 9 11.1 1 3 33.3 2 2 100.0 1 1 2 0 1 2 1 2 -
+p231
+aVGary Grant LAC 03/06/1991 LAC @ ORL L 39 12 6 9 66.7 0 1 0.0 0 0 - 0 1 1 8 2 1 3 2 -
+p232
+aVCharles Smith LAC 03/06/1991 LAC @ ORL L 38 17 8 14 57.1 0 0 - 1 2 50.0 4 5 9 2 1 1 2 3 -
+p233
+aVTom Garrick LAC 03/06/1991 LAC @ ORL L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 2 0 0 1 -
+p234
+aVLAC 03/06/1991 LAC @ ORL L 21 4 2 4 50.0 0 0 - 0 2 0.0 3 6 9 0 1 0 1 3 -
+p235
+aVCharles Smith LAC 03/05/1991 LAC @ MIA L 41 26 10 22 45.5 0 0 - 6 7 85.7 5 7 12 3 4 2 3 5 -
+p236
+aVTom Garrick LAC 03/05/1991 LAC @ MIA L 13 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 3 0 0 0 4 -
+p237
+aVGary Grant LAC 03/05/1991 LAC @ MIA L 27 11 5 11 45.5 0 3 0.0 1 1 100.0 2 2 4 6 3 0 5 4 -
+p238
+aVOlden Polynice LAC 03/05/1991 LAC @ MIA L 24 7 2 6 33.3 0 0 - 3 3 100.0 2 6 8 0 1 1 1 6 -
+p239
+aVRon Harper LAC 03/05/1991 LAC @ MIA L 43 31 8 17 47.1 5 7 71.4 10 12 83.3 2 4 6 6 3 0 5 3 -
+p240
+aVKen Bannister LAC 03/05/1991 LAC @ MIA L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p241
+aVLAC 03/05/1991 LAC @ MIA L 23 3 1 5 20.0 0 0 - 1 2 50.0 4 4 8 0 1 0 0 2 -
+p242
+aVWinston Garland LAC 03/05/1991 LAC @ MIA L 8 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 1 1 0 0 3 -
+p243
+aVJeff Martin LAC 03/05/1991 LAC @ MIA L 12 4 1 2 50.0 0 0 - 2 5 40.0 0 0 0 0 0 0 1 2 -
+p244
+aVDanny Manning LAC 03/05/1991 LAC @ MIA L 42 24 9 20 45.0 0 0 - 6 7 85.7 3 5 8 3 1 2 3 4 -
+p245
+aVRon Harper LAC 03/03/1991 LAC @ DET L 34 12 4 20 20.0 0 2 0.0 4 4 100.0 4 5 9 7 3 1 3 2 -
+p246
+aVCharles Smith LAC 03/03/1991 LAC @ DET L 29 11 4 12 33.3 0 1 0.0 3 6 50.0 2 3 5 0 0 1 1 5 -
+p247
+aVJeff Martin LAC 03/03/1991 LAC @ DET L 15 14 5 9 55.6 2 2 100.0 2 2 100.0 0 1 1 1 1 0 1 1 -
+p248
+aVLAC 03/03/1991 LAC @ DET L 10 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p249
+aVGary Grant LAC 03/03/1991 LAC @ DET L 38 11 5 11 45.5 1 4 25.0 0 0 - 3 3 6 4 3 0 2 4 -
+p250
+aVTom Garrick LAC 03/03/1991 LAC @ DET L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -
+p251
+aVOlden Polynice LAC 03/03/1991 LAC @ DET L 37 2 1 3 33.3 0 0 - 0 2 0.0 2 6 8 2 0 0 5 5 -
+p252
+aVKen Norman LAC 03/03/1991 LAC @ DET L 27 11 5 13 38.5 0 0 - 1 2 50.0 1 3 4 3 1 1 1 3 -
+p253
+aVDanny Manning LAC 03/03/1991 LAC @ DET L 39 31 12 18 66.7 0 0 - 7 7 100.0 3 2 5 4 1 3 0 6 -
+p254
+aVCharles Smith LAC 03/02/1991 LAC @ MIN W 39 11 3 10 30.0 0 0 - 5 6 83.3 4 8 12 5 2 2 3 1 -
+p255
+aVKen Norman LAC 03/02/1991 LAC @ MIN W 20 11 5 8 62.5 0 1 0.0 1 2 50.0 0 3 3 1 2 0 1 1 -
+p256
+aVGary Grant LAC 03/02/1991 LAC @ MIN W 36 19 8 12 66.7 1 2 50.0 2 4 50.0 0 3 3 7 1 0 2 1 -
+p257
+aVOlden Polynice LAC 03/02/1991 LAC @ MIN W 43 14 6 7 85.7 0 0 - 2 2 100.0 2 5 7 0 0 0 0 1 -
+p258
+aVRon Harper LAC 03/02/1991 LAC @ MIN W 41 26 9 26 34.6 2 4 50.0 6 8 75.0 2 4 6 8 3 1 2 3 -
+p259
+aVDanny Manning LAC 03/02/1991 LAC @ MIN W 38 17 8 13 61.5 0 0 - 1 2 50.0 2 5 7 1 0 4 1 3 -
+p260
+aVLAC 03/02/1991 LAC @ MIN W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p261
+aVTom Garrick LAC 03/02/1991 LAC @ MIN W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 4 0 0 0 2 -
+p262
+aVJeff Martin LAC 03/02/1991 LAC @ MIN W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -
+p263
+aVOlden Polynice LAC 02/28/1991 LAC vs. HOU W 41 17 5 8 62.5 0 0 - 7 8 87.5 5 7 12 0 1 0 0 4 -
+p264
+aVDanny Manning LAC 02/28/1991 LAC vs. HOU W 30 15 6 14 42.9 0 0 - 3 4 75.0 4 2 6 2 1 1 3 5 -
+p265
+aVBo Kimble LAC 02/28/1991 LAC vs. HOU W 6 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -
+p266
+aVCharles Smith LAC 02/28/1991 LAC vs. HOU W 37 13 5 12 41.7 0 0 - 3 5 60.0 6 7 13 4 2 2 3 2 -
+p267
+aVGary Grant LAC 02/28/1991 LAC vs. HOU W 38 6 3 6 50.0 0 0 - 0 0 - 2 2 4 5 1 0 5 2 -
+p268
+aVKen Bannister LAC 02/28/1991 LAC vs. HOU W 6 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 0 0 2 0 2 -
+p269
+aVRon Harper LAC 02/28/1991 LAC vs. HOU W 39 21 9 27 33.3 0 3 0.0 3 5 60.0 0 6 6 5 1 5 3 2 -
+p270
+aVJeff Martin LAC 02/28/1991 LAC vs. HOU W 22 5 2 9 22.2 0 3 0.0 1 2 50.0 0 5 5 2 1 0 3 3 -
+p271
+aVLAC 02/28/1991 LAC vs. HOU W 11 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -
+p272
+aVTom Garrick LAC 02/28/1991 LAC vs. HOU W 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 1 -
+p273
+aVKen Norman LAC 02/26/1991 LAC @ SEA L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -
+p274
+aVJeff Martin LAC 02/26/1991 LAC @ SEA L 16 6 3 7 42.9 0 2 0.0 0 1 0.0 1 0 1 0 0 0 0 1 -
+p275
+aVOlden Polynice LAC 02/26/1991 LAC @ SEA L 38 4 1 5 20.0 0 0 - 2 4 50.0 2 6 8 2 1 0 4 2 -
+p276
+aVRon Harper LAC 02/26/1991 LAC @ SEA L 41 19 8 17 47.1 1 5 20.0 2 2 100.0 0 5 5 4 1 1 6 5 -
+p277
+aVTom Garrick LAC 02/26/1991 LAC @ SEA L 15 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 2 1 -
+p278
+aVCharles Smith LAC 02/26/1991 LAC @ SEA L 42 15 7 15 46.7 0 1 0.0 1 2 50.0 3 5 8 1 3 3 1 3 -
+p279
+aVKen Bannister LAC 02/26/1991 LAC @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p280
+aVBo Kimble LAC 02/26/1991 LAC @ SEA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p281
+aVGary Grant LAC 02/26/1991 LAC @ SEA L 33 22 10 18 55.6 1 3 33.3 1 1 100.0 2 2 4 5 3 0 3 3 -
+p282
+aVDanny Manning LAC 02/26/1991 LAC @ SEA L 41 15 5 17 29.4 0 0 - 5 6 83.3 1 5 6 0 5 0 5 4 -
+p283
+aVGary Grant LAC 02/24/1991 LAC vs. DEN W 24 10 5 10 50.0 0 0 - 0 0 - 1 1 2 8 0 1 2 3 -
+p284
+aVTom Garrick LAC 02/24/1991 LAC vs. DEN W 24 8 4 6 66.7 0 0 - 0 0 - 2 3 5 12 2 1 3 3 -
+p285
+aVJeff Martin LAC 02/24/1991 LAC vs. DEN W 13 5 2 8 25.0 0 1 0.0 1 1 100.0 0 1 1 1 0 0 2 2 -
+p286
+aVDanny Manning LAC 02/24/1991 LAC vs. DEN W 30 19 7 13 53.8 0 0 - 5 8 62.5 4 6 10 0 0 1 5 5 -
+p287
+aVLAC 02/24/1991 LAC vs. DEN W 19 8 4 7 57.1 0 0 - 0 0 - 2 3 5 0 1 1 0 2 -
+p288
+aVCharles Smith LAC 02/24/1991 LAC vs. DEN W 35 18 7 18 38.9 0 0 - 4 4 100.0 5 8 13 1 1 6 2 3 -
+p289
+aVRon Harper LAC 02/24/1991 LAC vs. DEN W 34 22 8 21 38.1 2 4 50.0 4 8 50.0 5 5 10 8 1 2 2 2 -
+p290
+aVKen Norman LAC 02/24/1991 LAC vs. DEN W 29 16 5 9 55.6 0 1 0.0 6 7 85.7 2 8 10 1 2 2 1 2 -
+p291
+aVOlden Polynice LAC 02/24/1991 LAC vs. DEN W 29 19 9 13 69.2 0 0 - 1 3 33.3 4 8 12 0 1 0 1 3 -
+p292
+aVBo Kimble LAC 02/24/1991 LAC vs. DEN W 3 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 1 1 0 0 -
+p293
+aVCharles Smith LAC 02/22/1991 LAC vs. SAN W 34 14 2 10 20.0 0 0 - 10 12 83.3 0 7 7 0 1 6 1 6 -
+p294
+aVOlden Polynice LAC 02/22/1991 LAC vs. SAN W 26 8 2 7 28.6 0 0 - 4 8 50.0 5 1 6 0 0 0 1 3 -
+p295
+aVTom Garrick LAC 02/22/1991 LAC vs. SAN W 15 8 4 4 100.0 0 0 - 0 0 - 2 0 2 2 0 0 1 2 -
+p296
+aVLAC 02/22/1991 LAC vs. SAN W 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p297
+aVDanny Manning LAC 02/22/1991 LAC vs. SAN W 40 20 8 20 40.0 0 0 - 4 6 66.7 6 5 11 1 1 1 1 4 -
+p298
+aVKen Norman LAC 02/22/1991 LAC vs. SAN W 35 24 10 21 47.6 0 0 - 4 8 50.0 6 10 16 4 5 2 2 5 -
+p299
+aVJeff Martin LAC 02/22/1991 LAC vs. SAN W 14 4 2 8 25.0 0 0 - 0 0 - 1 2 3 1 2 0 0 0 -
+p300
+aVRon Harper LAC 02/22/1991 LAC vs. SAN W 37 23 6 19 31.6 0 2 0.0 11 18 61.1 1 7 8 3 0 0 1 4 -
+p301
+aVGary Grant LAC 02/22/1991 LAC vs. SAN W 33 4 2 6 33.3 0 0 - 0 0 - 1 1 2 8 1 0 3 0 -
+p302
+aVBo Kimble LAC 02/22/1991 LAC vs. SAN W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p303
+aVKen Norman LAC 02/20/1991 LAC vs. PHX L 36 11 5 20 25.0 0 0 - 1 4 25.0 3 4 7 1 1 0 2 2 -
+p304
+aVLAC 02/20/1991 LAC vs. PHX L 19 2 1 7 14.3 0 0 - 0 2 0.0 3 2 5 0 0 0 0 3 -
+p305
+aVMike Smrek LAC 02/20/1991 LAC vs. PHX L 12 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 3 -
+p306
+aVGary Grant LAC 02/20/1991 LAC vs. PHX L 37 14 7 12 58.3 0 1 0.0 0 0 - 0 1 1 8 3 0 3 4 -
+p307
+aVKen Bannister LAC 02/20/1991 LAC vs. PHX L 8 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 2 -
+p308
+aVRon Harper LAC 02/20/1991 LAC vs. PHX L 28 26 11 16 68.8 1 3 33.3 3 4 75.0 3 1 4 4 2 0 4 4 -
+p309
+aVBo Kimble LAC 02/20/1991 LAC vs. PHX L 7 2 0 4 0.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 1 0 -
+p310
+aVJeff Martin LAC 02/20/1991 LAC vs. PHX L 16 6 3 9 33.3 0 3 0.0 0 1 0.0 1 0 1 0 0 0 0 0 -
+p311
+aVDanny Manning LAC 02/20/1991 LAC vs. PHX L 30 17 7 12 58.3 0 0 - 3 4 75.0 1 3 4 2 4 1 1 5 -
+p312
+aVTom Garrick LAC 02/20/1991 LAC vs. PHX L 10 0 0 0 - 0 0 - 0 0 - 1 0 1 3 0 0 0 1 -
+p313
+aVCharles Smith LAC 02/20/1991 LAC vs. PHX L 37 10 4 12 33.3 0 0 - 2 3 66.7 7 8 15 2 0 2 2 3 -
+p314
+aVJeff Martin LAC 02/17/1991 LAC vs. PHL L 26 9 4 7 57.1 1 3 33.3 0 1 0.0 0 2 2 1 1 0 2 2 -
+p315
+aVRon Harper LAC 02/17/1991 LAC vs. PHL L 29 14 6 11 54.5 0 1 0.0 2 6 33.3 0 0 0 3 2 0 2 1 -
+p316
+aVLAC 02/17/1991 LAC vs. PHL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p317
+aVTom Garrick LAC 02/17/1991 LAC vs. PHL L 12 4 1 2 50.0 0 0 - 2 2 100.0 3 1 4 3 1 0 0 0 -
+p318
+aVDanny Manning LAC 02/17/1991 LAC vs. PHL L 32 21 10 19 52.6 0 0 - 1 1 100.0 4 1 5 4 1 1 1 4 -
+p319
+aVKen Norman LAC 02/17/1991 LAC vs. PHL L 30 19 9 16 56.3 0 0 - 1 2 50.0 1 3 4 2 3 0 2 2 -
+p320
+aVCharles Smith LAC 02/17/1991 LAC vs. PHL L 28 16 6 10 60.0 0 0 - 4 4 100.0 1 5 6 0 2 1 1 5 -
+p321
+aVGary Grant LAC 02/17/1991 LAC vs. PHL L 36 2 1 3 33.3 0 0 - 0 0 - 1 3 4 14 3 0 2 4 -
+p322
+aVBenoit Benjamin LAC 02/17/1991 LAC vs. PHL L 30 14 6 11 54.5 0 0 - 2 3 66.7 1 10 11 2 0 0 5 1 -
+p323
+aVBo Kimble LAC 02/17/1991 LAC vs. PHL L 10 5 1 4 25.0 1 3 33.3 2 2 100.0 0 0 0 2 0 1 0 1 -
+p324
+aVLAC 02/15/1991 LAC vs. MIN W 17 2 1 3 33.3 0 0 - 0 0 - 2 5 7 0 0 0 1 2 -
+p325
+aVRon Harper LAC 02/15/1991 LAC vs. MIN W 24 14 6 15 40.0 1 3 33.3 1 5 20.0 3 2 5 8 2 2 3 2 -
+p326
+aVTom Garrick LAC 02/15/1991 LAC vs. MIN W 18 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 4 0 0 1 1 -
+p327
+aVKen Bannister LAC 02/15/1991 LAC vs. MIN W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p328
+aVDanny Manning LAC 02/15/1991 LAC vs. MIN W 26 13 5 9 55.6 0 0 - 3 4 75.0 2 2 4 3 0 0 1 5 -
+p329
+aVJeff Martin LAC 02/15/1991 LAC vs. MIN W 20 12 5 8 62.5 2 3 66.7 0 0 - 1 1 2 0 0 0 0 4 -
+p330
+aVMike Smrek LAC 02/15/1991 LAC vs. MIN W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p331
+aVKen Norman LAC 02/15/1991 LAC vs. MIN W 27 16 7 12 58.3 0 0 - 2 3 66.7 1 4 5 3 0 0 0 3 -
+p332
+aVBo Kimble LAC 02/15/1991 LAC vs. MIN W 6 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 2 -
+p333
+aVCharles Smith LAC 02/15/1991 LAC vs. MIN W 33 22 8 12 66.7 0 0 - 6 8 75.0 2 3 5 4 1 4 4 3 -
+p334
+aVBenoit Benjamin LAC 02/15/1991 LAC vs. MIN W 35 27 9 14 64.3 0 0 - 9 12 75.0 4 9 13 1 0 9 3 3 -
+p335
+aVGary Grant LAC 02/15/1991 LAC vs. MIN W 30 9 4 6 66.7 0 0 - 1 1 100.0 2 3 5 9 2 0 4 1 -
+p336
+aVKen Bannister LAC 02/12/1991 LAC @ SAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 5 -
+p337
+aVCharles Smith LAC 02/12/1991 LAC @ SAC L 40 18 6 15 40.0 0 0 - 6 11 54.5 3 8 11 1 2 3 4 4 -
+p338
+aVLAC 02/12/1991 LAC @ SAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p339
+aVBenoit Benjamin LAC 02/12/1991 LAC @ SAC L 28 10 4 8 50.0 0 0 - 2 2 100.0 1 7 8 1 0 0 5 4 -
+p340
+aVGary Grant LAC 02/12/1991 LAC @ SAC L 39 14 7 10 70.0 0 0 - 0 0 - 1 2 3 13 3 0 0 2 -
+p341
+aVRon Harper LAC 02/12/1991 LAC @ SAC L 27 21 6 13 46.2 1 1 100.0 8 9 88.9 3 0 3 6 0 0 2 2 -
+p342
+aVKen Norman LAC 02/12/1991 LAC @ SAC L 34 14 7 18 38.9 0 0 - 0 2 0.0 1 1 2 1 3 0 1 3 -
+p343
+aVJeff Martin LAC 02/12/1991 LAC @ SAC L 21 11 5 8 62.5 0 0 - 1 1 100.0 0 3 3 2 0 2 0 2 -
+p344
+aVTom Garrick LAC 02/12/1991 LAC @ SAC L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 3 1 0 0 1 -
+p345
+aVDanny Manning LAC 02/12/1991 LAC @ SAC L 31 13 6 11 54.5 0 0 - 1 3 33.3 3 4 7 1 1 2 0 2 -
+p346
+aVBo Kimble LAC 02/06/1991 LAC @ SEA L 8 3 0 0 - 0 0 - 3 4 75.0 1 0 1 1 0 0 0 0 -
+p347
+aVCharles Smith LAC 02/06/1991 LAC @ SEA L 31 20 9 11 81.8 0 0 - 2 2 100.0 1 2 3 2 2 1 2 4 -
+p348
+aVKen Norman LAC 02/06/1991 LAC @ SEA L 41 20 10 17 58.8 0 0 - 0 0 - 4 5 9 4 0 0 7 4 -
+p349
+aVJeff Martin LAC 02/06/1991 LAC @ SEA L 40 21 9 18 50.0 3 5 60.0 0 0 - 1 4 5 3 0 2 1 1 -
+p350
+aVBenoit Benjamin LAC 02/06/1991 LAC @ SEA L 35 9 4 8 50.0 0 0 - 1 2 50.0 1 4 5 0 2 4 4 4 -
+p351
+aVTom Garrick LAC 02/06/1991 LAC @ SEA L 21 7 2 5 40.0 0 0 - 3 4 75.0 2 1 3 1 0 0 1 1 -
+p352
+aVDanny Manning LAC 02/06/1991 LAC @ SEA L 31 14 7 14 50.0 0 1 0.0 0 1 0.0 3 6 9 7 3 2 5 3 -
+p353
+aVGary Grant LAC 02/06/1991 LAC @ SEA L 27 7 3 4 75.0 0 0 - 1 2 50.0 0 3 3 7 0 0 1 1 -
+p354
+aVLAC 02/06/1991 LAC @ SEA L 6 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 1 -
+p355
+aVKen Norman LAC 02/05/1991 LAC @ LAL L 39 23 11 17 64.7 0 1 0.0 1 3 33.3 4 4 8 4 1 0 1 3 -
+p356
+aVBo Kimble LAC 02/05/1991 LAC @ LAL L 13 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p357
+aVGary Grant LAC 02/05/1991 LAC @ LAL L 33 2 1 5 20.0 0 0 - 0 0 - 1 3 4 12 2 0 9 3 -
+p358
+aVJeff Martin LAC 02/05/1991 LAC @ LAL L 15 10 5 8 62.5 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -
+p359
+aVLAC 02/05/1991 LAC @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p360
+aVBenoit Benjamin LAC 02/05/1991 LAC @ LAL L 42 10 5 10 50.0 0 0 - 0 1 0.0 1 6 7 2 1 1 1 4 -
+p361
+aVDanny Manning LAC 02/05/1991 LAC @ LAL L 31 13 5 8 62.5 0 0 - 3 4 75.0 1 5 6 2 1 0 4 6 -
+p362
+aVCharles Smith LAC 02/05/1991 LAC @ LAL L 39 16 7 14 50.0 0 1 0.0 2 2 100.0 5 3 8 2 2 0 1 5 -
+p363
+aVRon Harper LAC 02/05/1991 LAC @ LAL L 25 22 8 16 50.0 1 2 50.0 5 7 71.4 1 0 1 7 1 1 3 1 -
+p364
+aVLAC 02/01/1991 LAC vs. LAL L 14 4 2 5 40.0 0 0 - 0 0 - 0 5 5 0 0 0 0 3 -
+p365
+aVCharles Smith LAC 02/01/1991 LAC vs. LAL L 34 18 6 9 66.7 0 0 - 6 6 100.0 2 5 7 2 1 1 3 5 -
+p366
+aVGary Grant LAC 02/01/1991 LAC vs. LAL L 30 10 5 11 45.5 0 0 - 0 0 - 1 1 2 9 0 0 2 3 -
+p367
+aVDanny Manning LAC 02/01/1991 LAC vs. LAL L 33 18 8 18 44.4 0 0 - 2 2 100.0 6 4 10 2 2 1 2 4 -
+p368
+aVBenoit Benjamin LAC 02/01/1991 LAC vs. LAL L 35 16 6 11 54.5 0 0 - 4 4 100.0 1 7 8 2 0 0 3 2 -
+p369
+aVWinston Garland LAC 02/01/1991 LAC vs. LAL L 9 6 3 4 75.0 0 0 - 0 0 - 0 1 1 3 2 0 2 2 -
+p370
+aVBo Kimble LAC 02/01/1991 LAC vs. LAL L 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 0 3 -
+p371
+aVRon Harper LAC 02/01/1991 LAC vs. LAL L 19 9 4 15 26.7 0 1 0.0 1 2 50.0 2 0 2 2 0 0 3 2 -
+p372
+aVJeff Martin LAC 02/01/1991 LAC vs. LAL L 22 7 3 7 42.9 1 2 50.0 0 0 - 1 0 1 1 0 0 0 2 -
+p373
+aVKen Norman LAC 02/01/1991 LAC vs. LAL L 37 2 1 5 20.0 0 0 - 0 0 - 1 3 4 2 0 2 1 1 -
+p374
+aVBenoit Benjamin LAC 01/31/1991 LAC @ GOS L 17 7 3 5 60.0 0 0 - 1 4 25.0 3 7 10 0 0 1 7 2 -
+p375
+aVKen Norman LAC 01/31/1991 LAC @ GOS L 36 24 12 19 63.2 0 1 0.0 0 0 - 3 5 8 5 1 1 2 2 -
+p376
+aVGary Grant LAC 01/31/1991 LAC @ GOS L 31 22 9 13 69.2 0 0 - 4 4 100.0 2 1 3 13 0 0 5 5 -
+p377
+aVDanny Manning LAC 01/31/1991 LAC @ GOS L 28 16 8 12 66.7 0 0 - 0 2 0.0 1 2 3 1 2 0 3 2 -
+p378
+aVJeff Martin LAC 01/31/1991 LAC @ GOS L 39 16 7 18 38.9 1 4 25.0 1 1 100.0 5 3 8 1 4 0 1 4 -
+p379
+aVWinston Garland LAC 01/31/1991 LAC @ GOS L 27 6 3 9 33.3 0 1 0.0 0 0 - 1 1 2 7 2 0 3 4 -
+p380
+aVLAC 01/31/1991 LAC @ GOS L 13 8 2 3 66.7 0 0 - 4 5 80.0 2 3 5 1 0 0 2 2 -
+p381
+aVCharles Smith LAC 01/31/1991 LAC @ GOS L 38 13 5 14 35.7 0 0 - 3 4 75.0 2 4 6 1 1 1 3 5 -
+p382
+aVBo Kimble LAC 01/31/1991 LAC @ GOS L 11 7 3 5 60.0 0 2 0.0 1 2 50.0 0 2 2 1 0 0 1 3 -
+p383
+aVJeff Martin LAC 01/29/1991 LAC vs. NYK L 26 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 -
+p384
+aVBo Kimble LAC 01/29/1991 LAC vs. NYK L 2 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p385
+aVGary Grant LAC 01/29/1991 LAC vs. NYK L 41 11 4 9 44.4 0 0 - 3 4 75.0 2 5 7 15 3 0 5 3 -
+p386
+aVWinston Garland LAC 01/29/1991 LAC vs. NYK L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 -
+p387
+aVCharles Smith LAC 01/29/1991 LAC vs. NYK L 44 15 4 17 23.5 0 0 - 7 10 70.0 4 9 13 3 0 4 1 5 -
+p388
+aVBenoit Benjamin LAC 01/29/1991 LAC vs. NYK L 33 14 6 10 60.0 0 0 - 2 2 100.0 3 4 7 1 1 3 1 6 -
+p389
+aVRon Harper LAC 01/29/1991 LAC vs. NYK L 25 23 10 19 52.6 0 1 0.0 3 4 75.0 2 0 2 5 1 0 3 3 -
+p390
+aVLAC 01/29/1991 LAC vs. NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p391
+aVKen Bannister LAC 01/29/1991 LAC vs. NYK L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 -
+p392
+aVKen Norman LAC 01/29/1991 LAC vs. NYK L 40 16 8 13 61.5 0 0 - 0 0 - 3 6 9 1 2 2 2 1 -
+p393
+aVDanny Manning LAC 01/29/1991 LAC vs. NYK L 36 20 9 14 64.3 0 0 - 2 2 100.0 2 6 8 1 1 1 1 3 -
+p394
+aVJeff Martin LAC 01/26/1991 LAC vs. MIL W 18 12 6 11 54.5 0 0 - 0 0 - 2 3 5 1 0 1 0 2 -
+p395
+aVDanny Manning LAC 01/26/1991 LAC vs. MIL W 32 16 7 10 70.0 0 0 - 2 2 100.0 2 2 4 2 2 1 5 4 -
+p396
+aVBenoit Benjamin LAC 01/26/1991 LAC vs. MIL W 40 13 3 8 37.5 0 0 - 7 8 87.5 5 12 17 2 1 1 4 4 -
+p397
+aVBo Kimble LAC 01/26/1991 LAC vs. MIL W 12 4 2 7 28.6 0 0 - 0 0 - 3 0 3 2 0 0 0 3 -
+p398
+aVRon Harper LAC 01/26/1991 LAC vs. MIL W 18 13 5 13 38.5 0 1 0.0 3 6 50.0 0 2 2 4 1 1 2 3 -
+p399
+aVCharles Smith LAC 01/26/1991 LAC vs. MIL W 34 12 6 17 35.3 0 0 - 0 2 0.0 5 5 10 2 0 1 1 2 -
+p400
+aVWinston Garland LAC 01/26/1991 LAC vs. MIL W 14 5 2 4 50.0 0 0 - 1 3 33.3 0 1 1 3 2 0 2 0 -
+p401
+aVKen Norman LAC 01/26/1991 LAC vs. MIL W 38 20 9 14 64.3 0 2 0.0 2 4 50.0 3 2 5 1 1 2 0 2 -
+p402
+aVGary Grant LAC 01/26/1991 LAC vs. MIL W 34 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 10 2 0 3 2 -
+p403
+aVWinston Garland LAC 01/22/1991 LAC @ SAN L 23 6 3 13 23.1 0 1 0.0 0 0 - 4 2 6 12 2 1 3 3 -
+p404
+aVBenoit Benjamin LAC 01/22/1991 LAC @ SAN L 36 19 7 19 36.8 0 0 - 5 6 83.3 5 15 20 0 2 2 4 3 -
+p405
+aVGary Grant LAC 01/22/1991 LAC @ SAN L 20 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 4 1 0 4 1 -
+p406
+aVKen Norman LAC 01/22/1991 LAC @ SAN L 32 19 9 15 60.0 0 0 - 1 1 100.0 3 4 7 0 0 0 1 2 -
+p407
+aVTom Garrick LAC 01/22/1991 LAC @ SAN L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p408
+aVDanny Manning LAC 01/22/1991 LAC @ SAN L 25 16 8 15 53.3 0 0 - 0 0 - 2 1 3 1 2 1 4 4 -
+p409
+aVJeff Martin LAC 01/22/1991 LAC @ SAN L 35 17 8 18 44.4 1 4 25.0 0 0 - 0 3 3 3 0 1 1 3 -
+p410
+aVCharles Smith LAC 01/22/1991 LAC @ SAN L 39 19 8 13 61.5 0 0 - 3 3 100.0 7 3 10 3 3 2 3 2 -
+p411
+aVLAC 01/22/1991 LAC @ SAN L 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -
+p412
+aVBo Kimble LAC 01/22/1991 LAC @ SAN L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p413
+aVGary Grant LAC 01/19/1991 LAC @ HOU L 26 4 2 5 40.0 0 0 - 0 0 - 1 2 3 7 0 0 4 3 -
+p414
+aVTom Garrick LAC 01/19/1991 LAC @ HOU L 21 9 3 7 42.9 0 0 - 3 3 100.0 1 2 3 4 0 1 1 2 -
+p415
+aVWinston Garland LAC 01/19/1991 LAC @ HOU L 30 11 4 11 36.4 0 1 0.0 3 4 75.0 1 2 3 3 3 0 0 2 -
+p416
+aVBenoit Benjamin LAC 01/19/1991 LAC @ HOU L 40 17 7 10 70.0 0 0 - 3 3 100.0 2 17 19 1 0 1 7 3 -
+p417
+aVDanny Manning LAC 01/19/1991 LAC @ HOU L 22 14 5 8 62.5 0 0 - 4 4 100.0 1 1 2 0 1 0 4 4 -
+p418
+aVKen Norman LAC 01/19/1991 LAC @ HOU L 32 13 6 11 54.5 0 0 - 1 4 25.0 0 6 6 2 1 0 2 2 -
+p419
+aVCharles Smith LAC 01/19/1991 LAC @ HOU L 32 18 6 12 50.0 0 0 - 6 7 85.7 0 5 5 3 0 1 0 3 -
+p420
+aVBo Kimble LAC 01/19/1991 LAC @ HOU L 4 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p421
+aVJeff Martin LAC 01/19/1991 LAC @ HOU L 15 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -
+p422
+aVLAC 01/19/1991 LAC @ HOU L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 3 1 -
+p423
+aVKen Bannister LAC 01/19/1991 LAC @ HOU L 5 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 -
+p424
+aVGary Grant LAC 01/18/1991 LAC @ DAL W 35 9 4 9 44.4 0 0 - 1 2 50.0 1 3 4 14 0 0 3 2 -
+p425
+aVBenoit Benjamin LAC 01/18/1991 LAC @ DAL W 41 27 13 18 72.2 0 0 - 1 2 50.0 2 9 11 1 1 4 2 2 -
+p426
+aVWinston Garland LAC 01/18/1991 LAC @ DAL W 30 18 8 11 72.7 0 0 - 2 6 33.3 0 2 2 10 2 0 2 3 -
+p427
+aVDanny Manning LAC 01/18/1991 LAC @ DAL W 31 25 11 17 64.7 0 0 - 3 9 33.3 4 4 8 3 1 0 2 3 -
+p428
+aVCharles Smith LAC 01/18/1991 LAC @ DAL W 44 18 7 15 46.7 0 0 - 4 4 100.0 4 6 10 1 0 1 5 2 -
+p429
+aVTom Garrick LAC 01/18/1991 LAC @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p430
+aVKen Norman LAC 01/18/1991 LAC @ DAL W 37 14 6 12 50.0 0 0 - 2 3 66.7 0 9 9 4 1 2 2 3 -
+p431
+aVJeff Martin LAC 01/18/1991 LAC @ DAL W 43 6 2 6 33.3 0 0 - 2 4 50.0 1 5 6 1 0 0 0 3 -
+p432
+aVLAC 01/18/1991 LAC @ DAL W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p433
+aVWinston Garland LAC 01/16/1991 LAC vs. WAS L 23 18 8 12 66.7 0 0 - 2 4 50.0 1 1 2 2 2 0 2 3 -
+p434
+aVTom Garrick LAC 01/16/1991 LAC vs. WAS L 14 2 1 2 50.0 0 0 - 0 0 - 1 0 1 6 2 0 1 4 -
+p435
+aVLAC 01/16/1991 LAC vs. WAS L 10 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p436
+aVKen Norman LAC 01/16/1991 LAC vs. WAS L 32 12 5 15 33.3 0 0 - 2 5 40.0 6 4 10 3 1 3 2 3 -
+p437
+aVBo Kimble LAC 01/16/1991 LAC vs. WAS L 8 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 2 -
+p438
+aVCharles Smith LAC 01/16/1991 LAC vs. WAS L 38 17 6 15 40.0 0 0 - 5 8 62.5 3 5 8 1 1 5 0 2 -
+p439
+aVJeff Martin LAC 01/16/1991 LAC vs. WAS L 23 8 4 9 44.4 0 2 0.0 0 1 0.0 0 1 1 0 1 0 1 1 -
+p440
+aVBenoit Benjamin LAC 01/16/1991 LAC vs. WAS L 38 19 6 12 50.0 0 0 - 7 10 70.0 4 11 15 0 0 3 3 1 -
+p441
+aVGary Grant LAC 01/16/1991 LAC vs. WAS L 29 4 2 7 28.6 0 0 - 0 0 - 1 1 2 7 3 0 2 2 -
+p442
+aVDanny Manning LAC 01/16/1991 LAC vs. WAS L 25 13 6 12 50.0 0 0 - 1 3 33.3 2 1 3 3 1 0 2 3 -
+p443
+aVGary Grant LAC 01/14/1991 LAC vs. HOU W 43 13 5 10 50.0 0 0 - 3 4 75.0 0 3 3 16 2 1 3 4 -
+p444
+aVWinston Garland LAC 01/14/1991 LAC vs. HOU W 23 10 2 5 40.0 0 0 - 6 6 100.0 0 3 3 4 1 0 2 2 -
+p445
+aVBo Kimble LAC 01/14/1991 LAC vs. HOU W 9 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 2 2 -
+p446
+aVBenoit Benjamin LAC 01/14/1991 LAC vs. HOU W 42 14 5 12 41.7 0 0 - 4 7 57.1 1 18 19 5 0 5 6 3 -
+p447
+aVDanny Manning LAC 01/14/1991 LAC vs. HOU W 27 20 8 17 47.1 0 0 - 4 5 80.0 3 2 5 2 2 0 4 3 -
+p448
+aVJeff Martin LAC 01/14/1991 LAC vs. HOU W 32 16 6 14 42.9 0 1 0.0 4 6 66.7 4 3 7 0 0 0 2 1 -
+p449
+aVCharles Smith LAC 01/14/1991 LAC vs. HOU W 40 22 8 16 50.0 0 0 - 6 7 85.7 1 6 7 2 3 2 2 5 -
+p450
+aVKen Norman LAC 01/14/1991 LAC vs. HOU W 44 31 13 22 59.1 0 0 - 5 7 71.4 2 3 5 3 2 1 1 2 -
+p451
+aVKen Bannister LAC 01/14/1991 LAC vs. HOU W 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p452
+aVTom Garrick LAC 01/11/1991 LAC @ BOS L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 3 1 0 0 2 -
+p453
+aVDanny Manning LAC 01/11/1991 LAC @ BOS L 18 18 8 10 80.0 0 0 - 2 5 40.0 1 1 2 0 0 0 1 5 -
+p454
+aVJeff Martin LAC 01/11/1991 LAC @ BOS L 43 17 8 16 50.0 0 0 - 1 1 100.0 1 1 2 4 1 1 1 2 -
+p455
+aVBenoit Benjamin LAC 01/11/1991 LAC @ BOS L 39 18 8 16 50.0 0 0 - 2 2 100.0 4 16 20 2 0 2 4 4 -
+p456
+aVCharles Smith LAC 01/11/1991 LAC @ BOS L 36 25 8 16 50.0 0 0 - 9 10 90.0 1 6 7 3 0 2 3 4 -
+p457
+aVKen Norman LAC 01/11/1991 LAC @ BOS L 34 15 5 13 38.5 0 0 - 5 6 83.3 3 6 9 8 0 0 1 2 -
+p458
+aVWinston Garland LAC 01/11/1991 LAC @ BOS L 19 6 3 5 60.0 0 0 - 0 0 - 0 1 1 3 2 0 2 2 -
+p459
+aVGary Grant LAC 01/11/1991 LAC @ BOS L 29 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 5 0 0 1 2 -
+p460
+aVBo Kimble LAC 01/11/1991 LAC @ BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p461
+aVLAC 01/11/1991 LAC @ BOS L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p462
+aVMike Smrek LAC 01/11/1991 LAC @ BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p463
+aVWinston Garland LAC 01/10/1991 LAC @ WAS L 19 8 2 6 33.3 0 0 - 4 5 80.0 0 1 1 3 2 1 1 5 -
+p464
+aVJeff Martin LAC 01/10/1991 LAC @ WAS L 26 7 2 6 33.3 0 1 0.0 3 4 75.0 1 2 3 2 1 1 1 1 -
+p465
+aVTom Garrick LAC 01/10/1991 LAC @ WAS L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p466
+aVKen Norman LAC 01/10/1991 LAC @ WAS L 39 22 10 23 43.5 0 1 0.0 2 2 100.0 6 7 13 2 0 1 0 4 -
+p467
+aVBo Kimble LAC 01/10/1991 LAC @ WAS L 12 6 1 5 20.0 0 2 0.0 4 4 100.0 2 1 3 1 0 0 0 1 -
+p468
+aVKen Bannister LAC 01/10/1991 LAC @ WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p469
+aVGary Grant LAC 01/10/1991 LAC @ WAS L 34 8 3 6 50.0 0 0 - 2 2 100.0 1 6 7 9 5 0 1 2 -
+p470
+aVDanny Manning LAC 01/10/1991 LAC @ WAS L 29 18 7 16 43.8 0 0 - 4 5 80.0 2 2 4 3 2 0 3 4 -
+p471
+aVCharles Smith LAC 01/10/1991 LAC @ WAS L 30 15 5 14 35.7 0 1 0.0 5 6 83.3 1 0 1 1 0 3 1 5 -
+p472
+aVBenoit Benjamin LAC 01/10/1991 LAC @ WAS L 42 24 7 16 43.8 0 0 - 10 13 76.9 6 13 19 1 1 4 7 3 -
+p473
+aVBo Kimble LAC 01/08/1991 LAC @ IND W 14 10 4 7 57.1 1 2 50.0 1 1 100.0 0 1 1 3 1 0 1 3 -
+p474
+aVDanny Manning LAC 01/08/1991 LAC @ IND W 41 25 9 16 56.3 0 0 - 7 12 58.3 0 2 2 3 1 0 3 3 -
+p475
+aVMike Smrek LAC 01/08/1991 LAC @ IND W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -
+p476
+aVJeff Martin LAC 01/08/1991 LAC @ IND W 34 17 7 11 63.6 1 2 50.0 2 2 100.0 2 0 2 5 1 0 0 3 -
+p477
+aVWinston Garland LAC 01/08/1991 LAC @ IND W 21 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 4 1 0 0 2 -
+p478
+aVBenoit Benjamin LAC 01/08/1991 LAC @ IND W 42 25 8 20 40.0 0 0 - 9 10 90.0 2 18 20 3 2 1 3 3 -
+p479
+aVGary Grant LAC 01/08/1991 LAC @ IND W 27 6 3 8 37.5 0 0 - 0 0 - 0 3 3 3 2 0 5 5 -
+p480
+aVLAC 01/08/1991 LAC @ IND W 14 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -
+p481
+aVKen Norman LAC 01/08/1991 LAC @ IND W 41 24 11 16 68.8 0 0 - 2 6 33.3 2 5 7 6 0 2 1 2 -
+p482
+aVKen Bannister LAC 01/06/1991 LAC @ NYK L 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -
+p483
+aVLAC 01/06/1991 LAC @ NYK L 24 10 5 7 71.4 0 0 - 0 0 - 3 4 7 3 0 0 2 3 -
+p484
+aVWinston Garland LAC 01/06/1991 LAC @ NYK L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -
+p485
+aVKen Norman LAC 01/06/1991 LAC @ NYK L 31 15 6 14 42.9 0 0 - 3 3 100.0 2 1 3 4 1 0 1 0 -
+p486
+aVTom Garrick LAC 01/06/1991 LAC @ NYK L 12 6 3 5 60.0 0 0 - 0 0 - 0 2 2 5 1 0 2 1 -
+p487
+aVBenoit Benjamin LAC 01/06/1991 LAC @ NYK L 40 16 7 12 58.3 0 0 - 2 3 66.7 3 15 18 2 2 7 6 4 -
+p488
+aVGary Grant LAC 01/06/1991 LAC @ NYK L 27 13 6 11 54.5 1 1 100.0 0 0 - 0 1 1 8 3 0 3 3 -
+p489
+aVBo Kimble LAC 01/06/1991 LAC @ NYK L 22 5 2 10 20.0 1 2 50.0 0 0 - 1 1 2 3 0 0 1 5 -
+p490
+aVDanny Manning LAC 01/06/1991 LAC @ NYK L 34 19 9 14 64.3 0 0 - 1 1 100.0 1 4 5 1 2 0 3 4 -
+p491
+aVJeff Martin LAC 01/06/1991 LAC @ NYK L 26 2 1 9 11.1 0 3 0.0 0 2 0.0 0 1 1 1 2 1 1 4 -
+p492
+aVWinston Garland LAC 01/05/1991 LAC @ CHH L 18 4 2 2 100.0 0 0 - 0 0 - 0 2 2 5 0 0 1 2 -
+p493
+aVJeff Martin LAC 01/05/1991 LAC @ CHH L 26 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 0 1 0 1 1 -
+p494
+aVCharles Smith LAC 01/05/1991 LAC @ CHH L 32 25 8 19 42.1 0 0 - 9 12 75.0 1 2 3 4 3 0 1 4 -
+p495
+aVDanny Manning LAC 01/05/1991 LAC @ CHH L 22 10 3 5 60.0 0 0 - 4 6 66.7 0 4 4 6 3 0 3 6 -
+p496
+aVKen Norman LAC 01/05/1991 LAC @ CHH L 33 14 5 11 45.5 0 0 - 4 5 80.0 2 5 7 2 0 2 4 5 -
+p497
+aVBo Kimble LAC 01/05/1991 LAC @ CHH L 22 13 6 11 54.5 0 1 0.0 1 1 100.0 1 1 2 0 0 0 1 4 -
+p498
+aVLAC 01/05/1991 LAC @ CHH L 23 8 2 5 40.0 0 0 - 4 4 100.0 4 1 5 1 1 0 0 2 -
+p499
+aVGary Grant LAC 01/05/1991 LAC @ CHH L 30 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 4 0 0 3 3 -
+p500
+aVBenoit Benjamin LAC 01/05/1991 LAC @ CHH L 34 19 9 15 60.0 0 0 - 1 3 33.3 3 12 15 3 1 4 4 5 -
+p501
+aVKen Norman LAC 01/03/1991 LAC @ ORL L 42 23 10 23 43.5 0 0 - 3 4 75.0 2 9 11 4 3 0 2 5 -
+p502
+aVLAC 01/03/1991 LAC @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p503
+aVJeff Martin LAC 01/03/1991 LAC @ ORL L 38 23 9 14 64.3 1 4 25.0 4 5 80.0 1 2 3 3 0 4 1 1 -
+p504
+aVBenoit Benjamin LAC 01/03/1991 LAC @ ORL L 32 8 3 9 33.3 0 0 - 2 4 50.0 0 11 11 0 0 3 4 4 -
+p505
+aVDanny Manning LAC 01/03/1991 LAC @ ORL L 28 14 7 10 70.0 0 0 - 0 0 - 3 2 5 3 0 0 2 4 -
+p506
+aVCharles Smith LAC 01/03/1991 LAC @ ORL L 39 20 8 16 50.0 0 0 - 4 5 80.0 5 4 9 1 2 5 4 4 -
+p507
+aVWinston Garland LAC 01/03/1991 LAC @ ORL L 22 4 2 4 50.0 0 0 - 0 0 - 0 1 1 5 2 0 1 1 -
+p508
+aVGary Grant LAC 01/03/1991 LAC @ ORL L 36 16 7 14 50.0 0 0 - 2 2 100.0 2 2 4 13 0 1 6 3 -
+p509
+aVDanny Manning LAC 01/02/1991 LAC @ ATL L 28 13 5 10 50.0 0 0 - 3 4 75.0 1 5 6 5 0 0 1 4 -
+p510
+aVKen Norman LAC 01/02/1991 LAC @ ATL L 39 23 9 17 52.9 0 0 - 5 6 83.3 3 6 9 5 1 1 3 3 -
+p511
+aVJeff Martin LAC 01/02/1991 LAC @ ATL L 20 5 2 8 25.0 1 2 50.0 0 0 - 1 0 1 5 0 1 1 4 -
+p512
+aVBo Kimble LAC 01/02/1991 LAC @ ATL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p513
+aVTom Garrick LAC 01/02/1991 LAC @ ATL L 23 9 4 7 57.1 0 1 0.0 1 4 25.0 1 2 3 5 2 0 1 1 -
+p514
+aVWinston Garland LAC 01/02/1991 LAC @ ATL L 31 6 2 9 22.2 0 0 - 2 2 100.0 1 2 3 4 2 0 2 3 -
+p515
+aVGary Grant LAC 01/02/1991 LAC @ ATL L 17 10 5 8 62.5 0 0 - 0 0 - 0 1 1 1 0 0 3 6 -
+p516
+aVMike Smrek LAC 01/02/1991 LAC @ ATL L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 6 -
+p517
+aVLAC 01/02/1991 LAC @ ATL L 8 8 3 7 42.9 0 0 - 2 3 66.7 2 1 3 0 0 0 0 1 -
+p518
+aVBenoit Benjamin LAC 01/02/1991 LAC @ ATL L 24 8 4 10 40.0 0 0 - 0 0 - 0 6 6 1 0 1 1 3 -
+p519
+aVCharles Smith LAC 01/02/1991 LAC @ ATL L 35 23 4 14 28.6 0 0 - 15 16 93.8 4 7 11 2 0 0 3 3 -
+p520
+aVLAC 12/30/1990 LAC vs. MIA L 23 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -
+p521
+aVJeff Martin LAC 12/30/1990 LAC vs. MIA L 46 16 6 14 42.9 2 3 66.7 2 2 100.0 1 1 2 1 1 1 2 3 -
+p522
+aVBo Kimble LAC 12/30/1990 LAC vs. MIA L 15 6 0 1 0.0 0 0 - 6 9 66.7 0 1 1 0 1 0 3 5 -
+p523
+aVKen Norman LAC 12/30/1990 LAC vs. MIA L 42 21 4 12 33.3 1 4 25.0 12 14 85.7 3 5 8 5 0 2 6 3 -
+p524
+aVBenoit Benjamin LAC 12/30/1990 LAC vs. MIA L 27 21 8 11 72.7 0 0 - 5 5 100.0 2 5 7 1 0 2 6 2 -
+p525
+aVTom Garrick LAC 12/30/1990 LAC vs. MIA L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 4 0 0 2 1 -
+p526
+aVGary Grant LAC 12/30/1990 LAC vs. MIA L 26 8 4 8 50.0 0 0 - 0 0 - 0 1 1 5 2 0 2 6 -
+p527
+aVWinston Garland LAC 12/30/1990 LAC vs. MIA L 19 8 2 7 28.6 0 1 0.0 4 5 80.0 0 1 1 2 2 0 2 4 -
+p528
+aVDanny Manning LAC 12/30/1990 LAC vs. MIA L 29 15 6 12 50.0 0 0 - 3 3 100.0 1 2 3 3 3 2 2 3 -
+p529
+aVBo Kimble LAC 12/29/1990 LAC @ UTH L 17 2 1 6 16.7 0 0 - 0 2 0.0 1 1 2 3 0 0 1 4 -
+p530
+aVDanny Manning LAC 12/29/1990 LAC @ UTH L 34 14 6 16 37.5 0 0 - 2 2 100.0 2 5 7 2 2 0 2 3 -
+p531
+aVKen Bannister LAC 12/29/1990 LAC @ UTH L 11 2 1 5 20.0 0 0 - 0 2 0.0 3 3 6 0 0 0 2 5 -
+p532
+aVTom Garrick LAC 12/29/1990 LAC @ UTH L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p533
+aVLAC 12/29/1990 LAC @ UTH L 22 10 5 8 62.5 0 0 - 0 0 - 3 1 4 1 0 0 2 1 -
+p534
+aVBenoit Benjamin LAC 12/29/1990 LAC @ UTH L 25 13 5 6 83.3 0 0 - 3 4 75.0 2 8 10 2 1 4 4 4 -
+p535
+aVGary Grant LAC 12/29/1990 LAC @ UTH L 23 4 2 6 33.3 0 0 - 0 0 - 0 3 3 4 0 0 1 5 -
+p536
+aVKen Norman LAC 12/29/1990 LAC @ UTH L 34 23 9 17 52.9 0 0 - 5 7 71.4 4 3 7 2 1 1 4 3 -
+p537
+aVMike Smrek LAC 12/29/1990 LAC @ UTH L 14 1 0 5 0.0 0 0 - 1 2 50.0 1 3 4 0 0 3 0 4 -
+p538
+aVWinston Garland LAC 12/29/1990 LAC @ UTH L 21 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 7 0 1 2 1 -
+p539
+aVJeff Martin LAC 12/29/1990 LAC @ UTH L 35 25 8 18 44.4 1 3 33.3 8 10 80.0 2 2 4 1 1 0 1 3 -
+p540
+aVBo Kimble LAC 12/26/1990 LAC vs. LAL L 22 9 4 10 40.0 1 2 50.0 0 0 - 1 2 3 2 3 0 1 5 -
+p541
+aVDanny Manning LAC 12/26/1990 LAC vs. LAL L 38 18 9 17 52.9 0 0 - 0 0 - 2 5 7 2 6 0 2 5 -
+p542
+aVWinston Garland LAC 12/26/1990 LAC vs. LAL L 10 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 4 1 0 0 0 -
+p543
+aVCharles Smith LAC 12/26/1990 LAC vs. LAL L 42 20 9 16 56.3 0 0 - 2 3 66.7 4 7 11 3 0 1 0 1 -
+p544
+aVGary Grant LAC 12/26/1990 LAC vs. LAL L 38 14 7 17 41.2 0 1 0.0 0 0 - 1 1 2 10 3 0 4 1 -
+p545
+aVBenoit Benjamin LAC 12/26/1990 LAC vs. LAL L 22 9 4 9 44.4 0 0 - 1 2 50.0 4 6 10 2 2 0 1 2 -
+p546
+aVKen Norman LAC 12/26/1990 LAC vs. LAL L 40 21 10 19 52.6 0 1 0.0 1 2 50.0 2 3 5 2 0 0 5 3 -
+p547
+aVLAC 12/26/1990 LAC vs. LAL L 21 5 2 5 40.0 0 0 - 1 1 100.0 3 3 6 3 0 0 0 1 -
+p548
+aVJeff Martin LAC 12/26/1990 LAC vs. LAL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p549
+aVTom Garrick LAC 12/23/1990 LAC vs. SAC W 25 6 2 7 28.6 0 0 - 2 2 100.0 3 2 5 10 2 0 1 0 -
+p550
+aVWinston Garland LAC 12/23/1990 LAC vs. SAC W 29 10 4 7 57.1 0 1 0.0 2 2 100.0 1 2 3 6 1 0 1 3 -
+p551
+aVDanny Manning LAC 12/23/1990 LAC vs. SAC W 31 14 6 9 66.7 0 0 - 2 3 66.7 2 5 7 4 2 2 2 2 -
+p552
+aVKen Bannister LAC 12/23/1990 LAC vs. SAC W 9 9 2 7 28.6 0 0 - 5 5 100.0 2 0 2 0 0 0 0 4 -
+p553
+aVKen Norman LAC 12/23/1990 LAC vs. SAC W 40 34 13 17 76.5 0 0 - 8 11 72.7 2 7 9 1 0 0 1 4 -
+p554
+aVJeff Martin LAC 12/23/1990 LAC vs. SAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p555
+aVLAC 12/23/1990 LAC vs. SAC W 30 6 3 6 50.0 0 0 - 0 0 - 0 5 5 2 0 1 1 0 -
+p556
+aVGary Grant LAC 12/23/1990 LAC vs. SAC W 26 6 3 3 100.0 0 0 - 0 1 0.0 2 1 3 3 1 1 3 1 -
+p557
+aVCharles Smith LAC 12/23/1990 LAC vs. SAC W 34 19 8 16 50.0 0 0 - 3 6 50.0 1 4 5 3 2 0 2 4 -
+p558
+aVBo Kimble LAC 12/23/1990 LAC vs. SAC W 11 5 2 8 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 3 -
+p559
+aVKen Bannister LAC 12/21/1990 LAC vs. POR L 10 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 0 1 4 -
+p560
+aVJeff Martin LAC 12/21/1990 LAC vs. POR L 27 13 5 10 50.0 0 1 0.0 3 4 75.0 1 2 3 1 0 0 2 2 -
+p561
+aVKen Norman LAC 12/21/1990 LAC vs. POR L 41 19 7 17 41.2 0 0 - 5 8 62.5 7 5 12 1 2 0 3 2 -
+p562
+aVTom Garrick LAC 12/21/1990 LAC vs. POR L 16 2 1 2 50.0 0 0 - 0 0 - 0 0 0 6 1 0 2 3 -
+p563
+aVLAC 12/21/1990 LAC vs. POR L 32 14 7 12 58.3 0 0 - 0 2 0.0 1 10 11 4 0 2 0 3 -
+p564
+aVWinston Garland LAC 12/21/1990 LAC vs. POR L 6 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 1 0 -
+p565
+aVGreg Butler LAC 12/21/1990 LAC vs. POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p566
+aVCharles Smith LAC 12/21/1990 LAC vs. POR L 19 6 3 10 30.0 0 0 - 0 0 - 1 1 2 1 1 0 1 5 -
+p567
+aVGary Grant LAC 12/21/1990 LAC vs. POR L 26 2 1 5 20.0 0 0 - 0 0 - 0 3 3 12 0 0 3 1 -
+p568
+aVBo Kimble LAC 12/21/1990 LAC vs. POR L 28 24 9 18 50.0 3 8 37.5 3 5 60.0 0 3 3 3 1 0 1 3 -
+p569
+aVDanny Manning LAC 12/21/1990 LAC vs. POR L 33 21 8 11 72.7 0 0 - 5 6 83.3 5 5 10 1 6 2 3 4 -
+p570
+aVGary Grant LAC 12/19/1990 LAC @ NJN L 46 16 6 15 40.0 0 0 - 4 5 80.0 2 5 7 16 5 1 4 4 -
+p571
+aVKen Norman LAC 12/19/1990 LAC @ NJN L 47 24 11 22 50.0 1 1 100.0 1 2 50.0 5 5 10 2 0 2 6 4 -
+p572
+aVJeff Martin LAC 12/19/1990 LAC @ NJN L 21 2 0 6 0.0 0 1 0.0 2 2 100.0 3 3 6 0 2 1 1 3 -
+p573
+aVCharles Smith LAC 12/19/1990 LAC @ NJN L 44 25 6 19 31.6 0 0 - 13 16 81.3 1 7 8 1 1 2 3 5 -
+p574
+aVDanny Manning LAC 12/19/1990 LAC @ NJN L 17 6 3 3 100.0 0 0 - 0 0 - 1 5 6 1 0 1 4 6 -
+p575
+aVBo Kimble LAC 12/19/1990 LAC @ NJN L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p576
+aVWinston Garland LAC 12/19/1990 LAC @ NJN L 22 16 5 8 62.5 1 1 100.0 5 6 83.3 0 3 3 4 0 0 4 2 -
+p577
+aVKen Bannister LAC 12/19/1990 LAC @ NJN L 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -
+p578
+aVLAC 12/19/1990 LAC @ NJN L 29 14 5 11 45.5 0 0 - 4 4 100.0 5 3 8 0 1 1 2 5 -
+p579
+aVJeff Martin LAC 12/18/1990 LAC @ PHL L 18 13 6 8 75.0 1 2 50.0 0 2 0.0 0 1 1 1 0 0 0 0 -
+p580
+aVBo Kimble LAC 12/18/1990 LAC @ PHL L 30 10 4 13 30.8 1 2 50.0 1 1 100.0 0 4 4 3 0 0 2 3 -
+p581
+aVCharles Smith LAC 12/18/1990 LAC @ PHL L 40 31 12 21 57.1 0 0 - 7 9 77.8 3 2 5 1 0 1 3 5 -
+p582
+aVKen Norman LAC 12/18/1990 LAC @ PHL L 43 22 11 23 47.8 0 2 0.0 0 0 - 5 15 20 1 1 0 3 1 -
+p583
+aVWinston Garland LAC 12/18/1990 LAC @ PHL L 12 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -
+p584
+aVDanny Manning LAC 12/18/1990 LAC @ PHL L 31 8 3 12 25.0 0 0 - 2 2 100.0 4 4 8 2 1 1 4 5 -
+p585
+aVKen Bannister LAC 12/18/1990 LAC @ PHL L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p586
+aVGary Grant LAC 12/18/1990 LAC @ PHL L 33 0 0 4 0.0 0 1 0.0 0 0 - 2 1 3 6 3 0 5 4 -
+p587
+aVTom Garrick LAC 12/18/1990 LAC @ PHL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 4 0 0 0 1 -
+p588
+aVLAC 12/18/1990 LAC @ PHL L 25 9 4 8 50.0 0 0 - 1 2 50.0 2 4 6 0 0 1 0 3 -
+p589
+aVWinston Garland LAC 12/15/1990 LAC @ MIL L 20 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 2 2 -
+p590
+aVKen Bannister LAC 12/15/1990 LAC @ MIL L 3 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 -
+p591
+aVJeff Martin LAC 12/15/1990 LAC @ MIL L 28 5 2 6 33.3 0 1 0.0 1 1 100.0 1 0 1 2 0 0 1 4 -
+p592
+aVLAC 12/15/1990 LAC @ MIL L 18 13 6 9 66.7 0 0 - 1 2 50.0 7 6 13 0 0 0 2 2 -
+p593
+aVBo Kimble LAC 12/15/1990 LAC @ MIL L 19 4 1 8 12.5 0 2 0.0 2 2 100.0 1 1 2 2 2 0 1 3 -
+p594
+aVGary Grant LAC 12/15/1990 LAC @ MIL L 39 2 1 3 33.3 0 0 - 0 0 - 1 1 2 8 1 1 4 4 -
+p595
+aVKen Norman LAC 12/15/1990 LAC @ MIL L 39 23 10 23 43.5 1 3 33.3 2 5 40.0 3 5 8 2 1 1 3 4 -
+p596
+aVTom Garrick LAC 12/15/1990 LAC @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p597
+aVDanny Manning LAC 12/15/1990 LAC @ MIL L 33 16 5 10 50.0 0 0 - 6 9 66.7 1 6 7 5 1 0 3 4 -
+p598
+aVCharles Smith LAC 12/15/1990 LAC @ MIL L 40 27 12 20 60.0 0 0 - 3 6 50.0 3 8 11 1 1 1 2 2 -
+p599
+aVGreg Butler LAC 12/14/1990 LAC @ CHI L 9 2 1 6 16.7 0 0 - 0 0 - 3 4 7 0 0 0 1 5 -
+p600
+aVJeff Martin LAC 12/14/1990 LAC @ CHI L 44 22 8 18 44.4 1 2 50.0 5 5 100.0 2 2 4 1 1 5 2 5 -
+p601
+aVDanny Manning LAC 12/14/1990 LAC @ CHI L 30 17 7 13 53.8 0 0 - 3 3 100.0 1 4 5 0 0 1 2 4 -
+p602
+aVBo Kimble LAC 12/14/1990 LAC @ CHI L 25 6 2 8 25.0 0 1 0.0 2 2 100.0 1 4 5 5 0 0 1 3 -
+p603
+aVLAC 12/14/1990 LAC @ CHI L 30 12 6 14 42.9 0 0 - 0 0 - 4 2 6 0 0 1 1 1 -
+p604
+aVKen Norman LAC 12/14/1990 LAC @ CHI L 31 10 5 9 55.6 0 1 0.0 0 0 - 1 4 5 2 1 2 4 2 -
+p605
+aVTom Garrick LAC 12/14/1990 LAC @ CHI L 15 3 1 5 20.0 0 0 - 1 2 50.0 1 0 1 2 1 0 0 2 -
+p606
+aVKen Bannister LAC 12/14/1990 LAC @ CHI L 8 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -
+p607
+aVWinston Garland LAC 12/14/1990 LAC @ CHI L 24 8 3 11 27.3 0 0 - 2 2 100.0 2 2 4 4 0 0 1 3 -
+p608
+aVGary Grant LAC 12/14/1990 LAC @ CHI L 24 4 2 5 40.0 0 0 - 0 0 - 0 0 0 9 2 0 5 2 -
+p609
+aVDanny Manning LAC 12/12/1990 LAC @ CLE W 32 14 7 8 87.5 0 0 - 0 0 - 2 7 9 2 4 0 1 5 -
+p610
+aVBo Kimble LAC 12/12/1990 LAC @ CLE W 20 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p611
+aVLAC 12/12/1990 LAC @ CLE W 26 2 1 7 14.3 0 1 0.0 0 0 - 1 6 7 2 0 1 0 3 -
+p612
+aVWinston Garland LAC 12/12/1990 LAC @ CLE W 15 8 2 3 66.7 0 0 - 4 4 100.0 0 1 1 7 1 0 1 0 -
+p613
+aVJeff Martin LAC 12/12/1990 LAC @ CLE W 29 16 7 13 53.8 0 1 0.0 2 2 100.0 2 1 3 3 1 1 0 3 -
+p614
+aVGary Grant LAC 12/12/1990 LAC @ CLE W 35 8 4 11 36.4 0 1 0.0 0 0 - 0 3 3 9 0 0 3 0 -
+p615
+aVKen Norman LAC 12/12/1990 LAC @ CLE W 41 30 13 24 54.2 0 0 - 4 7 57.1 4 7 11 7 3 2 1 4 -
+p616
+aVKen Bannister LAC 12/12/1990 LAC @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p617
+aVCharles Smith LAC 12/12/1990 LAC @ CLE W 40 16 7 14 50.0 0 0 - 2 4 50.0 1 3 4 1 1 2 0 6 -
+p618
+aVDanny Manning LAC 12/11/1990 LAC @ MIN L 38 15 6 12 50.0 0 0 - 3 6 50.0 6 2 8 2 4 2 4 5 -
+p619
+aVKen Bannister LAC 12/11/1990 LAC @ MIN L 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -
+p620
+aVTom Garrick LAC 12/11/1990 LAC @ MIN L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p621
+aVGary Grant LAC 12/11/1990 LAC @ MIN L 31 6 2 8 25.0 0 0 - 2 2 100.0 1 2 3 12 1 1 2 1 -
+p622
+aVWinston Garland LAC 12/11/1990 LAC @ MIN L 34 6 2 8 25.0 0 1 0.0 2 4 50.0 1 1 2 5 5 0 4 4 -
+p623
+aVCharles Smith LAC 12/11/1990 LAC @ MIN L 13 8 4 9 44.4 0 0 - 0 0 - 3 1 4 1 0 0 3 2 -
+p624
+aVBo Kimble LAC 12/11/1990 LAC @ MIN L 16 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 4 0 0 1 3 -
+p625
+aVKen Norman LAC 12/11/1990 LAC @ MIN L 47 31 13 31 41.9 0 0 - 5 8 62.5 2 3 5 3 0 2 1 3 -
+p626
+aVLAC 12/11/1990 LAC @ MIN L 25 11 5 12 41.7 0 0 - 1 2 50.0 3 2 5 1 0 0 2 3 -
+p627
+aVJeff Martin LAC 12/11/1990 LAC @ MIN L 22 10 2 5 40.0 0 0 - 6 6 100.0 3 4 7 2 1 1 0 5 -
+p628
+aVBenoit Benjamin LAC 12/08/1990 LAC vs. UTH L 25 9 2 3 66.7 0 0 - 5 6 83.3 2 5 7 0 1 1 4 0 -
+p629
+aVDanny Manning LAC 12/08/1990 LAC vs. UTH L 23 13 5 10 50.0 0 0 - 3 5 60.0 2 1 3 0 3 1 3 3 -
+p630
+aVTom Garrick LAC 12/08/1990 LAC vs. UTH L 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 1 -
+p631
+aVKen Norman LAC 12/08/1990 LAC vs. UTH L 41 24 11 19 57.9 0 0 - 2 2 100.0 4 9 13 1 0 0 2 4 -
+p632
+aVLAC 12/08/1990 LAC vs. UTH L 15 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -
+p633
+aVBo Kimble LAC 12/08/1990 LAC vs. UTH L 22 2 1 5 20.0 0 0 - 0 1 0.0 1 0 1 2 1 0 3 5 -
+p634
+aVCharles Smith LAC 12/08/1990 LAC vs. UTH L 39 18 7 20 35.0 0 1 0.0 4 6 66.7 2 5 7 3 1 2 4 5 -
+p635
+aVKen Bannister LAC 12/08/1990 LAC vs. UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p636
+aVGary Grant LAC 12/08/1990 LAC vs. UTH L 36 12 6 11 54.5 0 0 - 0 0 - 0 0 0 11 0 0 2 4 -
+p637
+aVWinston Garland LAC 12/08/1990 LAC vs. UTH L 31 11 4 9 44.4 0 1 0.0 3 4 75.0 0 3 3 3 1 0 1 1 -
+p638
+aVKen Norman LAC 12/05/1990 LAC vs. DAL W 26 14 6 11 54.5 0 0 - 2 8 25.0 7 2 9 4 0 1 2 3 -
+p639
+aVBo Kimble LAC 12/05/1990 LAC vs. DAL W 25 6 3 9 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 5 -
+p640
+aVDanny Manning LAC 12/05/1990 LAC vs. DAL W 17 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 1 2 1 2 -
+p641
+aVWinston Garland LAC 12/05/1990 LAC vs. DAL W 26 2 1 6 16.7 0 0 - 0 0 - 0 3 3 6 1 1 0 5 -
+p642
+aVCharles Smith LAC 12/05/1990 LAC vs. DAL W 41 24 8 20 40.0 0 0 - 8 9 88.9 5 2 7 1 1 2 1 5 -
+p643
+aVGary Grant LAC 12/05/1990 LAC vs. DAL W 31 12 6 10 60.0 0 1 0.0 0 2 0.0 1 1 2 9 3 0 0 3 -
+p644
+aVLAC 12/05/1990 LAC vs. DAL W 20 10 5 7 71.4 0 0 - 0 0 - 1 5 6 0 0 2 1 1 -
+p645
+aVTom Garrick LAC 12/05/1990 LAC vs. DAL W 14 5 2 9 22.2 0 0 - 1 3 33.3 2 1 3 2 1 0 1 1 -
+p646
+aVBenoit Benjamin LAC 12/05/1990 LAC vs. DAL W 40 16 7 13 53.8 0 0 - 2 3 66.7 5 12 17 0 0 1 4 3 -
+p647
+aVWinston Garland LAC 12/02/1990 LAC vs. MIN W 36 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 5 5 0 3 2 -
+p648
+aVCharles Smith LAC 12/02/1990 LAC vs. MIN W 37 26 12 19 63.2 0 0 - 2 4 50.0 2 12 14 5 2 2 2 4 -
+p649
+aVJeff Martin LAC 12/02/1990 LAC vs. MIN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p650
+aVCedric Ball LAC 12/02/1990 LAC vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p651
+aVGary Grant LAC 12/02/1990 LAC vs. MIN W 34 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 9 2 0 3 0 -
+p652
+aVLAC 12/02/1990 LAC vs. MIN W 15 12 6 8 75.0 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -
+p653
+aVTom Garrick LAC 12/02/1990 LAC vs. MIN W 20 0 0 2 0.0 0 0 - 0 0 - 0 2 2 6 2 0 1 4 -
+p654
+aVDanny Manning LAC 12/02/1990 LAC vs. MIN W 20 6 3 4 75.0 0 0 - 0 0 - 2 2 4 3 0 0 4 2 -
+p655
+aVKen Bannister LAC 12/02/1990 LAC vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p656
+aVBo Kimble LAC 12/02/1990 LAC vs. MIN W 39 27 9 16 56.3 1 2 50.0 8 10 80.0 3 3 6 0 2 0 2 2 -
+p657
+aVGreg Butler LAC 12/02/1990 LAC vs. MIN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p658
+aVBenoit Benjamin LAC 12/02/1990 LAC vs. MIN W 30 9 4 13 30.8 0 0 - 1 2 50.0 3 6 9 4 0 0 3 1 -
+p659
+aVDanny Manning LAC 12/01/1990 LAC @ DEN W 22 22 8 13 61.5 0 0 - 6 8 75.0 5 3 8 1 1 1 3 3 -
+p660
+aVWinston Garland LAC 12/01/1990 LAC @ DEN W 35 9 3 12 25.0 0 1 0.0 3 4 75.0 0 8 8 8 1 0 3 4 -
+p661
+aVJeff Martin LAC 12/01/1990 LAC @ DEN W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p662
+aVTom Garrick LAC 12/01/1990 LAC @ DEN W 26 4 1 3 33.3 0 1 0.0 2 3 66.7 2 2 4 4 2 0 0 2 -
+p663
+aVCedric Ball LAC 12/01/1990 LAC @ DEN W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p664
+aVGary Grant LAC 12/01/1990 LAC @ DEN W 37 13 5 12 41.7 0 0 - 3 4 75.0 3 3 6 16 5 0 1 3 -
+p665
+aVLAC 12/01/1990 LAC @ DEN W 19 4 2 4 50.0 0 0 - 0 0 - 0 6 6 4 0 0 1 3 -
+p666
+aVBo Kimble LAC 12/01/1990 LAC @ DEN W 26 10 5 9 55.6 0 0 - 0 0 - 2 6 8 1 0 1 5 6 -
+p667
+aVCharles Smith LAC 12/01/1990 LAC @ DEN W 37 52 17 27 63.0 0 0 - 18 21 85.7 1 5 6 2 3 2 4 2 -
+p668
+aVBenoit Benjamin LAC 12/01/1990 LAC @ DEN W 30 21 8 20 40.0 0 0 - 5 7 71.4 1 12 13 0 0 0 3 1 -
+p669
+aVGary Grant LAC 11/28/1990 LAC @ DAL L 37 6 3 11 27.3 0 0 - 0 0 - 0 1 1 7 2 2 2 2 -
+p670
+aVKen Bannister LAC 11/28/1990 LAC @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p671
+aVTom Garrick LAC 11/28/1990 LAC @ DAL L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p672
+aVGreg Butler LAC 11/28/1990 LAC @ DAL L 1 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p673
+aVBenoit Benjamin LAC 11/28/1990 LAC @ DAL L 39 11 4 8 50.0 0 0 - 3 7 42.9 2 6 8 3 1 1 0 2 -
+p674
+aVDanny Manning LAC 11/28/1990 LAC @ DAL L 18 14 4 10 40.0 0 0 - 6 8 75.0 3 0 3 2 1 0 1 3 -
+p675
+aVJeff Martin LAC 11/28/1990 LAC @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p676
+aVWinston Garland LAC 11/28/1990 LAC @ DAL L 44 13 5 13 38.5 1 2 50.0 2 2 100.0 1 4 5 6 0 2 2 4 -
+p677
+aVCharles Smith LAC 11/28/1990 LAC @ DAL L 38 24 9 22 40.9 0 0 - 6 7 85.7 3 6 9 0 0 1 4 4 -
+p678
+aVLAC 11/28/1990 LAC @ DAL L 19 4 2 3 66.7 0 0 - 0 0 - 1 7 8 0 1 1 1 3 -
+p679
+aVBo Kimble LAC 11/28/1990 LAC @ DAL L 28 14 5 14 35.7 2 3 66.7 2 4 50.0 3 1 4 3 1 0 1 5 -
+p680
+aVTom Garrick LAC 11/27/1990 LAC @ HOU L 21 4 2 2 100.0 0 0 - 0 0 - 1 1 2 5 0 0 1 3 -
+p681
+aVKen Bannister LAC 11/27/1990 LAC @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p682
+aVWinston Garland LAC 11/27/1990 LAC @ HOU L 31 21 10 13 76.9 0 1 0.0 1 1 100.0 0 2 2 4 0 0 5 6 -
+p683
+aVJeff Martin LAC 11/27/1990 LAC @ HOU L 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p684
+aVBenoit Benjamin LAC 11/27/1990 LAC @ HOU L 44 16 8 12 66.7 0 0 - 0 0 - 2 11 13 3 1 3 5 3 -
+p685
+aVLAC 11/27/1990 LAC @ HOU L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p686
+aVCharles Smith LAC 11/27/1990 LAC @ HOU L 44 15 4 14 28.6 0 0 - 7 9 77.8 1 6 7 6 2 2 6 4 -
+p687
+aVBo Kimble LAC 11/27/1990 LAC @ HOU L 26 12 2 9 22.2 1 2 50.0 7 9 77.8 1 4 5 0 0 0 2 2 -
+p688
+aVDanny Manning LAC 11/27/1990 LAC @ HOU L 19 8 3 7 42.9 0 0 - 2 2 100.0 4 3 7 1 1 0 2 2 -
+p689
+aVGary Grant LAC 11/27/1990 LAC @ HOU L 40 24 11 19 57.9 2 4 50.0 0 2 0.0 1 3 4 8 1 0 4 5 -
+p690
+aVGreg Butler LAC 11/25/1990 LAC vs. ORL W 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -
+p691
+aVTom Garrick LAC 11/25/1990 LAC vs. ORL W 18 11 4 7 57.1 0 0 - 3 3 100.0 0 2 2 2 3 0 2 5 -
+p692
+aVWinston Garland LAC 11/25/1990 LAC vs. ORL W 31 6 3 8 37.5 0 0 - 0 0 - 0 3 3 9 1 1 0 1 -
+p693
+aVGary Grant LAC 11/25/1990 LAC vs. ORL W 37 14 7 11 63.6 0 0 - 0 0 - 1 4 5 8 4 0 4 1 -
+p694
+aVJeff Martin LAC 11/25/1990 LAC vs. ORL W 17 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 2 -
+p695
+aVCedric Ball LAC 11/25/1990 LAC vs. ORL W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -
+p696
+aVLAC 11/25/1990 LAC vs. ORL W 26 15 5 9 55.6 0 0 - 5 6 83.3 5 10 15 2 2 0 2 4 -
+p697
+aVKen Bannister LAC 11/25/1990 LAC vs. ORL W 6 5 1 1 100.0 0 0 - 3 6 50.0 1 2 3 0 0 0 0 1 -
+p698
+aVCharles Smith LAC 11/25/1990 LAC vs. ORL W 30 21 8 14 57.1 0 0 - 5 9 55.6 0 4 4 1 3 2 4 3 -
+p699
+aVBenoit Benjamin LAC 11/25/1990 LAC vs. ORL W 34 18 7 14 50.0 0 0 - 4 5 80.0 4 14 18 4 0 3 4 2 -
+p700
+aVDanny Manning LAC 11/25/1990 LAC vs. ORL W 15 5 2 7 28.6 0 0 - 1 2 50.0 2 3 5 2 2 1 1 4 -
+p701
+aVBo Kimble LAC 11/25/1990 LAC vs. ORL W 19 16 8 11 72.7 0 1 0.0 0 1 0.0 2 0 2 0 0 0 2 4 -
+p702
+aVBenoit Benjamin LAC 11/23/1990 LAC vs. CHI L 36 10 3 10 30.0 0 0 - 4 4 100.0 3 9 12 1 3 1 4 5 -
+p703
+aVTom Garrick LAC 11/23/1990 LAC vs. CHI L 17 6 3 4 75.0 0 0 - 0 0 - 0 1 1 3 0 0 3 2 -
+p704
+aVJeff Martin LAC 11/23/1990 LAC vs. CHI L 22 19 8 16 50.0 2 2 100.0 1 1 100.0 2 0 2 1 2 1 2 2 -
+p705
+aVBo Kimble LAC 11/23/1990 LAC vs. CHI L 28 11 5 11 45.5 1 2 50.0 0 0 - 0 3 3 4 1 1 2 5 -
+p706
+aVCharles Smith LAC 11/23/1990 LAC vs. CHI L 38 28 12 19 63.2 0 0 - 4 4 100.0 1 0 1 0 0 1 1 2 -
+p707
+aVLAC 11/23/1990 LAC vs. CHI L 27 6 3 6 50.0 0 0 - 0 0 - 2 9 11 0 1 1 0 2 -
+p708
+aVCedric Ball LAC 11/23/1990 LAC vs. CHI L 3 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 1 0 0 -
+p709
+aVKen Bannister LAC 11/23/1990 LAC vs. CHI L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p710
+aVGary Grant LAC 11/23/1990 LAC vs. CHI L 35 7 3 9 33.3 0 0 - 1 1 100.0 0 1 1 15 0 0 4 3 -
+p711
+aVWinston Garland LAC 11/23/1990 LAC vs. CHI L 31 6 3 11 27.3 0 0 - 0 1 0.0 0 1 1 6 4 0 1 3 -
+p712
+aVLAC 11/21/1990 LAC vs. NJN W 25 4 2 5 40.0 0 0 - 0 2 0.0 3 8 11 1 1 1 0 2 -
+p713
+aVBenoit Benjamin LAC 11/21/1990 LAC vs. NJN W 39 10 5 13 38.5 0 0 - 0 0 - 1 9 10 2 1 2 6 3 -
+p714
+aVGary Grant LAC 11/21/1990 LAC vs. NJN W 30 7 3 11 27.3 0 0 - 1 2 50.0 2 1 3 14 0 1 2 2 -
+p715
+aVKen Norman LAC 11/21/1990 LAC vs. NJN W 10 10 5 7 71.4 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -
+p716
+aVBo Kimble LAC 11/21/1990 LAC vs. NJN W 36 19 6 15 40.0 0 0 - 7 8 87.5 0 3 3 4 4 1 1 3 -
+p717
+aVTom Garrick LAC 11/21/1990 LAC vs. NJN W 19 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 3 0 1 2 -
+p718
+aVKen Bannister LAC 11/21/1990 LAC vs. NJN W 4 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 1 -
+p719
+aVCedric Ball LAC 11/21/1990 LAC vs. NJN W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p720
+aVCharles Smith LAC 11/21/1990 LAC vs. NJN W 38 34 13 20 65.0 0 0 - 8 11 72.7 4 6 10 1 0 5 2 5 -
+p721
+aVWinston Garland LAC 11/21/1990 LAC vs. NJN W 31 11 5 10 50.0 0 0 - 1 2 50.0 1 2 3 3 2 0 3 3 -
+p722
+aVJeff Martin LAC 11/21/1990 LAC vs. NJN W 2 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p723
+aVLAC 11/18/1990 LAC vs. SEA W 18 5 2 3 66.7 0 0 - 1 2 50.0 0 6 6 0 1 1 2 4 -
+p724
+aVJeff Martin LAC 11/18/1990 LAC vs. SEA W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -
+p725
+aVBenoit Benjamin LAC 11/18/1990 LAC vs. SEA W 32 16 4 10 40.0 0 0 - 8 10 80.0 3 9 12 2 0 2 2 2 -
+p726
+aVKen Norman LAC 11/18/1990 LAC vs. SEA W 39 22 7 25 28.0 0 0 - 8 10 80.0 1 8 9 4 2 0 2 2 -
+p727
+aVTom Garrick LAC 11/18/1990 LAC vs. SEA W 32 2 1 1 100.0 0 0 - 0 0 - 0 2 2 4 1 0 3 2 -
+p728
+aVGary Grant LAC 11/18/1990 LAC vs. SEA W 28 1 0 4 0.0 0 0 - 1 2 50.0 0 2 2 3 2 0 5 2 -
+p729
+aVWinston Garland LAC 11/18/1990 LAC vs. SEA W 36 14 7 10 70.0 0 0 - 0 0 - 0 8 8 1 1 0 1 3 -
+p730
+aVKen Bannister LAC 11/18/1990 LAC vs. SEA W 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 1 2 -
+p731
+aVCharles Smith LAC 11/18/1990 LAC vs. SEA W 37 14 6 18 33.3 0 0 - 2 3 66.7 7 5 12 3 0 2 2 3 -
+p732
+aVGary Grant LAC 11/16/1990 LAC @ PHX L 37 11 5 13 38.5 0 3 0.0 1 2 50.0 1 1 2 9 1 0 1 4 -
+p733
+aVTom Garrick LAC 11/16/1990 LAC @ PHX L 14 7 2 3 66.7 0 1 0.0 3 4 75.0 0 2 2 5 3 0 2 2 -
+p734
+aVKen Norman LAC 11/16/1990 LAC @ PHX L 43 32 13 22 59.1 1 1 100.0 5 8 62.5 1 7 8 6 2 2 2 4 -
+p735
+aVCedric Ball LAC 11/16/1990 LAC @ PHX L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p736
+aVWinston Garland LAC 11/16/1990 LAC @ PHX L 24 10 4 10 40.0 1 1 100.0 1 2 50.0 5 0 5 1 1 0 1 3 -
+p737
+aVCharles Smith LAC 11/16/1990 LAC @ PHX L 43 19 7 18 38.9 0 0 - 5 8 62.5 2 4 6 2 2 1 4 6 -
+p738
+aVBo Kimble LAC 11/16/1990 LAC @ PHX L 35 18 6 15 40.0 1 5 20.0 5 7 71.4 2 4 6 1 1 0 2 5 -
+p739
+aVBenoit Benjamin LAC 11/16/1990 LAC @ PHX L 43 9 4 16 25.0 0 0 - 1 4 25.0 2 8 10 6 2 4 3 2 -
+p740
+aVLAC 11/16/1990 LAC @ PHX L 22 4 2 4 50.0 0 0 - 0 0 - 3 3 6 1 1 0 0 2 -
+p741
+aVBo Kimble LAC 11/14/1990 LAC vs. PHX W 26 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 1 1 1 4 4 -
+p742
+aVJeff Martin LAC 11/14/1990 LAC vs. PHX W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p743
+aVBenoit Benjamin LAC 11/14/1990 LAC vs. PHX W 34 19 9 18 50.0 0 0 - 1 3 33.3 4 12 16 7 0 6 0 3 -
+p744
+aVCedric Ball LAC 11/14/1990 LAC vs. PHX W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p745
+aVCharles Smith LAC 11/14/1990 LAC vs. PHX W 34 27 12 28 42.9 0 0 - 3 3 100.0 5 6 11 0 0 1 1 4 -
+p746
+aVGary Grant LAC 11/14/1990 LAC vs. PHX W 32 8 4 9 44.4 0 0 - 0 0 - 2 3 5 10 0 0 1 5 -
+p747
+aVKen Bannister LAC 11/14/1990 LAC vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p748
+aVTom Garrick LAC 11/14/1990 LAC vs. PHX W 22 12 6 11 54.5 0 0 - 0 0 - 1 1 2 4 1 0 0 2 -
+p749
+aVWinston Garland LAC 11/14/1990 LAC vs. PHX W 22 4 1 5 20.0 0 0 - 2 3 66.7 0 3 3 5 1 0 2 3 -
+p750
+aVKen Norman LAC 11/14/1990 LAC vs. PHX W 41 22 11 17 64.7 0 0 - 0 0 - 5 3 8 2 2 7 3 2 -
+p751
+aVLAC 11/14/1990 LAC vs. PHX W 18 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 1 0 1 2 2 -
+p752
+aVCharles Smith LAC 11/11/1990 LAC @ POR L 34 21 9 18 50.0 0 0 - 3 4 75.0 2 12 14 1 0 2 2 5 -
+p753
+aVJeff Martin LAC 11/11/1990 LAC @ POR L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p754
+aVWinston Garland LAC 11/11/1990 LAC @ POR L 17 6 3 4 75.0 0 0 - 0 0 - 0 1 1 6 1 0 0 2 -
+p755
+aVKen Bannister LAC 11/11/1990 LAC @ POR L 19 3 1 3 33.3 0 0 - 1 5 20.0 0 7 7 1 1 0 1 3 -
+p756
+aVLAC 11/11/1990 LAC @ POR L 25 8 4 7 57.1 0 0 - 0 0 - 1 3 4 0 0 0 3 3 -
+p757
+aVKen Norman LAC 11/11/1990 LAC @ POR L 39 20 8 15 53.3 0 0 - 4 6 66.7 1 4 5 3 1 3 2 3 -
+p758
+aVGreg Butler LAC 11/11/1990 LAC @ POR L 4 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 0 0 0 0 0 -
+p759
+aVBenoit Benjamin LAC 11/11/1990 LAC @ POR L 24 10 4 9 44.4 0 0 - 2 2 100.0 1 6 7 1 0 1 3 3 -
+p760
+aVGary Grant LAC 11/11/1990 LAC @ POR L 27 11 5 9 55.6 1 4 25.0 0 0 - 0 0 0 10 3 1 7 1 -
+p761
+aVTom Garrick LAC 11/11/1990 LAC @ POR L 15 10 4 10 40.0 0 1 0.0 2 2 100.0 0 0 0 8 0 0 1 1 -
+p762
+aVBo Kimble LAC 11/11/1990 LAC @ POR L 30 11 5 13 38.5 0 2 0.0 1 2 50.0 1 0 1 2 1 0 2 4 -
+p763
+aVCharles Smith LAC 11/10/1990 LAC vs. ATL L 39 20 10 18 55.6 0 0 - 0 0 - 4 3 7 2 1 4 2 5 -
+p764
+aVWinston Garland LAC 11/10/1990 LAC vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p765
+aVKen Norman LAC 11/10/1990 LAC vs. ATL L 39 21 10 19 52.6 0 1 0.0 1 4 25.0 4 6 10 2 0 1 3 4 -
+p766
+aVBo Kimble LAC 11/10/1990 LAC vs. ATL L 30 12 5 17 29.4 0 4 0.0 2 2 100.0 1 4 5 5 2 0 2 1 -
+p767
+aVBenoit Benjamin LAC 11/10/1990 LAC vs. ATL L 33 12 6 10 60.0 0 0 - 0 0 - 1 5 6 3 0 2 1 1 -
+p768
+aVGary Grant LAC 11/10/1990 LAC vs. ATL L 31 14 6 12 50.0 0 0 - 2 5 40.0 0 2 2 13 3 0 4 2 -
+p769
+aVKen Bannister LAC 11/10/1990 LAC vs. ATL L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p770
+aVTom Garrick LAC 11/10/1990 LAC vs. ATL L 14 5 2 5 40.0 0 1 0.0 1 2 50.0 0 0 0 2 3 0 1 2 -
+p771
+aVLAC 11/10/1990 LAC vs. ATL L 27 8 4 10 40.0 0 0 - 0 0 - 6 7 13 0 0 0 1 3 -
+p772
+aVJeff Martin LAC 11/10/1990 LAC vs. ATL L 17 2 1 7 14.3 0 0 - 0 0 - 0 2 2 1 1 0 1 0 -
+p773
+aVJeff Martin LAC 11/07/1990 LAC vs. DET L 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p774
+aVGary Grant LAC 11/07/1990 LAC vs. DET L 30 11 5 13 38.5 0 0 - 1 2 50.0 4 3 7 10 2 0 4 4 -
+p775
+aVKen Norman LAC 11/07/1990 LAC vs. DET L 34 11 4 12 33.3 0 1 0.0 3 4 75.0 3 3 6 1 0 0 6 4 -
+p776
+aVLAC 11/07/1990 LAC vs. DET L 29 6 2 7 28.6 0 0 - 2 4 50.0 2 7 9 1 0 1 2 3 -
+p777
+aVWinston Garland LAC 11/07/1990 LAC vs. DET L 19 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 0 0 0 0 5 -
+p778
+aVBenoit Benjamin LAC 11/07/1990 LAC vs. DET L 35 18 7 16 43.8 0 0 - 4 4 100.0 1 4 5 3 0 2 1 3 -
+p779
+aVKen Bannister LAC 11/07/1990 LAC vs. DET L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 1 0 1 3 -
+p780
+aVTom Garrick LAC 11/07/1990 LAC vs. DET L 17 6 1 3 33.3 0 0 - 4 6 66.7 2 3 5 3 2 0 1 1 -
+p781
+aVGreg Butler LAC 11/07/1990 LAC vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p782
+aVDanny Manning LAC 11/07/1990 LAC vs. DET L 31 8 3 9 33.3 0 0 - 2 2 100.0 2 1 3 1 2 0 3 3 -
+p783
+aVBo Kimble LAC 11/07/1990 LAC vs. DET L 25 11 4 13 30.8 0 0 - 3 4 75.0 1 0 1 1 1 0 2 6 -
+p784
+aVTom Garrick LAC 11/06/1990 LAC @ GOS L 27 7 3 7 42.9 0 1 0.0 1 1 100.0 1 4 5 3 1 0 1 3 -
+p785
+aVGary Grant LAC 11/06/1990 LAC @ GOS L 30 0 0 3 0.0 0 0 - 0 0 - 1 1 2 12 2 0 3 6 -
+p786
+aVBo Kimble LAC 11/06/1990 LAC @ GOS L 38 20 6 17 35.3 2 5 40.0 6 6 100.0 1 3 4 4 2 0 5 5 -
+p787
+aVKen Norman LAC 11/06/1990 LAC @ GOS L 43 30 11 21 52.4 0 1 0.0 8 10 80.0 3 5 8 3 0 1 2 4 -
+p788
+aVKen Bannister LAC 11/06/1990 LAC @ GOS L 20 16 5 10 50.0 0 0 - 6 12 50.0 4 2 6 0 0 0 2 3 -
+p789
+aVLAC 11/06/1990 LAC @ GOS L 20 7 3 7 42.9 0 0 - 1 2 50.0 3 5 8 0 0 1 2 6 -
+p790
+aVGreg Butler LAC 11/06/1990 LAC @ GOS L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p791
+aVJeff Martin LAC 11/06/1990 LAC @ GOS L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 3 -
+p792
+aVDanny Manning LAC 11/06/1990 LAC @ GOS L 24 15 5 11 45.5 0 0 - 5 5 100.0 1 2 3 2 2 1 5 3 -
+p793
+aVWinston Garland LAC 11/06/1990 LAC @ GOS L 20 8 4 9 44.4 0 0 - 0 0 - 1 2 3 2 2 0 3 4 -
+p794
+aVJeff Martin LAC 11/04/1990 LAC vs. GOS W 26 13 5 10 50.0 0 0 - 3 9 33.3 1 0 1 3 1 4 1 1 -
+p795
+aVLAC 11/04/1990 LAC vs. GOS W 15 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 6 -
+p796
+aVTom Garrick LAC 11/04/1990 LAC vs. GOS W 26 4 2 8 25.0 0 1 0.0 0 0 - 2 2 4 2 4 0 3 2 -
+p797
+aVGary Grant LAC 11/04/1990 LAC vs. GOS W 37 18 6 10 60.0 0 0 - 6 7 85.7 4 5 9 10 0 0 8 4 -
+p798
+aVKen Bannister LAC 11/04/1990 LAC vs. GOS W 20 9 4 5 80.0 0 0 - 1 11 9.1 0 4 4 2 0 1 1 2 -
+p799
+aVBo Kimble LAC 11/04/1990 LAC vs. GOS W 30 11 4 13 30.8 1 3 33.3 2 2 100.0 0 0 0 0 0 1 2 5 -
+p800
+aVCharles Smith LAC 11/04/1990 LAC vs. GOS W 15 9 4 12 33.3 0 0 - 1 2 50.0 2 1 3 1 1 0 2 2 -
+p801
+aVWinston Garland LAC 11/04/1990 LAC vs. GOS W 21 10 2 7 28.6 0 1 0.0 6 6 100.0 0 3 3 4 4 0 1 4 -
+p802
+aVGreg Butler LAC 11/04/1990 LAC vs. GOS W 6 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -
+p803
+aVKen Norman LAC 11/04/1990 LAC vs. GOS W 44 26 10 17 58.8 0 1 0.0 6 9 66.7 4 9 13 3 3 0 1 4 -
+p804
+aVGary Grant LAC 11/02/1990 LAC vs. SAC W 34 9 4 8 50.0 1 1 100.0 0 0 - 1 4 5 13 0 0 3 1 -
+p805
+aVLAC 11/02/1990 LAC vs. SAC W 27 6 2 6 33.3 0 1 0.0 2 4 50.0 3 3 6 0 0 0 1 3 -
+p806
+aVKen Norman LAC 11/02/1990 LAC vs. SAC W 44 24 11 20 55.0 0 1 0.0 2 4 50.0 4 7 11 6 4 1 3 3 -
+p807
+aVCharles Smith LAC 11/02/1990 LAC vs. SAC W 38 11 5 16 31.3 0 1 0.0 1 2 50.0 3 8 11 3 4 8 1 3 -
+p808
+aVWinston Garland LAC 11/02/1990 LAC vs. SAC W 19 2 1 4 25.0 0 0 - 0 0 - 2 3 5 3 0 0 1 0 -
+p809
+aVTom Garrick LAC 11/02/1990 LAC vs. SAC W 2 5 1 1 100.0 0 0 - 3 3 100.0 0 0 0 0 1 0 0 0 -
+p810
+aVKen Bannister LAC 11/02/1990 LAC vs. SAC W 35 8 4 6 66.7 0 0 - 0 3 0.0 3 6 9 2 0 1 2 2 -
+p811
+aVJeff Martin LAC 11/02/1990 LAC vs. SAC W 10 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 0 0 0 1 0 -
+p812
+aVBo Kimble LAC 11/02/1990 LAC vs. SAC W 31 22 9 15 60.0 0 1 0.0 4 5 80.0 1 2 3 2 0 0 3 4 -
+p813
+a.

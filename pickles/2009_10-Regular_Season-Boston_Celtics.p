@@ -1,0 +1,1738 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMichael Finley BOS 04/14/2010 BOS vs. MIL L 27 8 3 7 42.9 2 3 66.7 0 0 - 0 0 0 1 1 0 0 1 0
+p2
+aVOliver Lafayette BOS 04/14/2010 BOS vs. MIL L 22 7 3 6 50.0 1 2 50.0 0 0 - 1 3 4 2 0 0 1 0 -9
+p3
+aVRajon Rondo BOS 04/14/2010 BOS vs. MIL L 32 21 7 14 50.0 0 2 0.0 7 12 58.3 2 4 6 15 1 0 4 1 -4
+p4
+aVMarquis Daniels BOS 04/14/2010 BOS vs. MIL L 31 13 6 9 66.7 1 2 50.0 0 1 0.0 2 3 5 2 0 0 0 4 -5
+p5
+aVGlen Davis BOS 04/14/2010 BOS vs. MIL L 20 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 0 0 1 6 -10
+p6
+aVShelden Williams BOS 04/14/2010 BOS vs. MIL L 28 12 3 6 50.0 0 0 - 6 6 100.0 1 3 4 1 2 3 0 2 -1
+p7
+aVBrian Scalabrine BOS 04/14/2010 BOS vs. MIL L 30 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 0 2 1 -16
+p8
+aVRasheed Wallace BOS 04/14/2010 BOS vs. MIL L 29 9 4 9 44.4 1 4 25.0 0 0 - 1 5 6 1 0 0 0 3 1
+p9
+aVNate Robinson BOS 04/14/2010 BOS vs. MIL L 21 12 4 13 30.8 2 7 28.6 2 2 100.0 0 4 4 0 0 0 0 4 -11
+p10
+aVKevin Garnett BOS 04/13/2010 BOS @ CHI L 28 14 5 12 41.7 0 0 - 4 5 80.0 2 7 9 2 2 0 1 2 5
+p11
+aVKendrick Perkins BOS 04/13/2010 BOS @ CHI L 27 2 1 3 33.3 0 0 - 0 3 0.0 4 7 11 2 0 1 1 1 -2
+p12
+aVPaul Pierce BOS 04/13/2010 BOS @ CHI L 33 28 12 17 70.6 0 1 0.0 4 4 100.0 0 2 2 2 0 0 0 3 -5
+p13
+aVGlen Davis BOS 04/13/2010 BOS @ CHI L 18 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 1 0 1 3 4 -10
+p14
+aVRay Allen BOS 04/13/2010 BOS @ CHI L 36 25 8 14 57.1 4 7 57.1 5 6 83.3 0 3 3 0 1 0 2 3 1
+p15
+aVMarquis Daniels BOS 04/13/2010 BOS @ CHI L 16 7 3 8 37.5 0 0 - 1 2 50.0 0 3 3 0 0 0 0 2 -5
+p16
+aVRajon Rondo BOS 04/13/2010 BOS @ CHI L 37 4 2 10 20.0 0 1 0.0 0 0 - 0 3 3 6 0 0 0 5 -8
+p17
+aVNate Robinson BOS 04/13/2010 BOS @ CHI L 13 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 2 1 0 1 2 -2
+p18
+aVMichael Finley BOS 04/13/2010 BOS @ CHI L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 -4
+p19
+aVRasheed Wallace BOS 04/13/2010 BOS @ CHI L 18 2 1 7 14.3 0 2 0.0 0 0 - 1 5 6 1 0 1 1 2 -10
+p20
+aVTony Allen BOS 04/10/2010 BOS @ MIL W 22 7 3 6 50.0 0 0 - 1 2 50.0 3 2 5 2 1 2 1 6 10
+p21
+aVShelden Williams BOS 04/10/2010 BOS @ MIL W 8 4 0 2 0.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 0 3
+p22
+aVMarquis Daniels BOS 04/10/2010 BOS @ MIL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p23
+aVRasheed Wallace BOS 04/10/2010 BOS @ MIL W 24 12 5 11 45.5 2 3 66.7 0 0 - 3 4 7 1 0 1 0 3 0
+p24
+aVRajon Rondo BOS 04/10/2010 BOS @ MIL W 38 15 5 14 35.7 0 1 0.0 5 8 62.5 2 3 5 10 2 0 4 2 11
+p25
+aVKendrick Perkins BOS 04/10/2010 BOS @ MIL W 18 0 0 4 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -1
+p26
+aVRay Allen BOS 04/10/2010 BOS @ MIL W 33 21 5 7 71.4 0 0 - 11 11 100.0 0 2 2 1 2 0 1 5 11
+p27
+aVGlen Davis BOS 04/10/2010 BOS @ MIL W 27 12 3 5 60.0 0 0 - 6 6 100.0 1 6 7 0 0 1 1 1 18
+p28
+aVNate Robinson BOS 04/10/2010 BOS @ MIL W 14 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 0 1 0 0 0 8
+p29
+aVPaul Pierce BOS 04/10/2010 BOS @ MIL W 37 24 10 17 58.8 0 0 - 4 4 100.0 1 5 6 0 0 2 1 3 5
+p30
+aVMichael Finley BOS 04/10/2010 BOS @ MIL W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 2 0 0 2 12
+p31
+aVRasheed Wallace BOS 04/09/2010 BOS vs. WAS L 20 10 4 7 57.1 1 2 50.0 1 3 33.3 1 2 3 0 3 1 0 1 -5
+p32
+aVMichael Finley BOS 04/09/2010 BOS vs. WAS L 19 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 0 0 0 2 0 -10
+p33
+aVGlen Davis BOS 04/09/2010 BOS vs. WAS L 12 2 1 4 25.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 6 -14
+p34
+aVKevin Garnett BOS 04/09/2010 BOS vs. WAS L 25 8 3 12 25.0 0 0 - 2 2 100.0 1 3 4 2 0 0 1 3 -7
+p35
+aVTony Allen BOS 04/09/2010 BOS vs. WAS L 10 2 1 3 33.3 0 0 - 0 0 - 2 2 4 3 0 1 2 2 -6
+p36
+aVNate Robinson BOS 04/09/2010 BOS vs. WAS L 7 13 5 9 55.6 3 6 50.0 0 0 - 0 1 1 2 1 0 0 3 1
+p37
+aVRay Allen BOS 04/09/2010 BOS vs. WAS L 34 10 4 11 36.4 2 8 25.0 0 0 - 0 3 3 2 0 1 0 0 3
+p38
+aVPaul Pierce BOS 04/09/2010 BOS vs. WAS L 31 9 4 12 33.3 1 3 33.3 0 0 - 1 6 7 2 0 0 3 1 -15
+p39
+aVRajon Rondo BOS 04/09/2010 BOS vs. WAS L 40 17 7 13 53.8 0 0 - 3 6 50.0 3 3 6 12 3 0 4 4 -9
+p40
+aVShelden Williams BOS 04/09/2010 BOS vs. WAS L 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 2 1 0 4 16
+p41
+aVMarquis Daniels BOS 04/09/2010 BOS vs. WAS L 3 8 3 5 60.0 1 2 50.0 1 1 100.0 0 0 0 1 0 0 0 2 5
+p42
+aVKendrick Perkins BOS 04/09/2010 BOS vs. WAS L 23 10 3 5 60.0 0 0 - 4 6 66.7 4 3 7 0 0 0 1 1 -9
+p43
+aVKendrick Perkins BOS 04/07/2010 BOS @ TOR W 24 7 2 2 100.0 0 0 - 3 3 100.0 2 7 9 2 0 0 1 1 8
+p44
+aVRay Allen BOS 04/07/2010 BOS @ TOR W 35 18 7 15 46.7 1 4 25.0 3 3 100.0 1 2 3 3 1 0 3 4 16
+p45
+aVKevin Garnett BOS 04/07/2010 BOS @ TOR W 28 19 7 12 58.3 0 0 - 5 6 83.3 0 1 1 2 1 1 1 1 14
+p46
+aVRajon Rondo BOS 04/07/2010 BOS @ TOR W 39 21 8 11 72.7 1 1 100.0 4 5 80.0 2 3 5 7 1 1 4 2 13
+p47
+aVRasheed Wallace BOS 04/07/2010 BOS @ TOR W 23 5 2 5 40.0 0 2 0.0 1 2 50.0 0 3 3 1 0 2 0 3 5
+p48
+aVMarquis Daniels BOS 04/07/2010 BOS @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p49
+aVShelden Williams BOS 04/07/2010 BOS @ TOR W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p50
+aVGlen Davis BOS 04/07/2010 BOS @ TOR W 20 4 1 3 33.3 0 1 0.0 2 2 100.0 2 4 6 1 0 0 2 0 -3
+p51
+aVTony Allen BOS 04/07/2010 BOS @ TOR W 16 7 3 5 60.0 0 1 0.0 1 1 100.0 1 0 1 0 0 1 2 2 -6
+p52
+aVPaul Pierce BOS 04/07/2010 BOS @ TOR W 30 20 5 11 45.5 1 3 33.3 9 11 81.8 0 1 1 5 2 0 1 3 12
+p53
+aVMichael Finley BOS 04/07/2010 BOS @ TOR W 24 14 5 7 71.4 4 5 80.0 0 0 - 0 6 6 1 0 0 0 1 1
+p54
+aVGlen Davis BOS 04/06/2010 BOS @ NYK L 18 12 4 6 66.7 0 0 - 4 5 80.0 0 2 2 0 0 0 1 4 2
+p55
+aVMichael Finley BOS 04/06/2010 BOS @ NYK L 16 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 2 0 1 1 0 13
+p56
+aVRay Allen BOS 04/06/2010 BOS @ NYK L 33 17 6 9 66.7 3 6 50.0 2 2 100.0 0 0 0 1 1 1 3 3 -12
+p57
+aVPaul Pierce BOS 04/06/2010 BOS @ NYK L 31 13 4 10 40.0 0 3 0.0 5 6 83.3 0 6 6 3 0 0 4 3 -10
+p58
+aVKevin Garnett BOS 04/06/2010 BOS @ NYK L 30 14 7 12 58.3 0 0 - 0 0 - 1 3 4 4 0 1 1 4 -5
+p59
+aVRasheed Wallace BOS 04/06/2010 BOS @ NYK L 20 7 3 7 42.9 1 2 50.0 0 2 0.0 0 2 2 2 1 0 1 1 9
+p60
+aVKendrick Perkins BOS 04/06/2010 BOS @ NYK L 28 14 6 8 75.0 0 0 - 2 2 100.0 3 5 8 3 0 1 3 4 -12
+p61
+aVTony Allen BOS 04/06/2010 BOS @ NYK L 17 5 2 5 40.0 0 0 - 1 3 33.3 1 5 6 0 1 0 0 1 3
+p62
+aVRajon Rondo BOS 04/06/2010 BOS @ NYK L 34 6 3 7 42.9 0 2 0.0 0 1 0.0 0 3 3 6 0 0 3 0 -11
+p63
+aVNate Robinson BOS 04/06/2010 BOS @ NYK L 14 5 2 4 50.0 1 2 50.0 0 1 0.0 0 3 3 5 1 0 1 2 8
+p64
+aVKevin Garnett BOS 04/04/2010 BOS vs. CLE W 35 19 5 14 35.7 0 0 - 9 10 90.0 2 6 8 3 1 1 1 4 -3
+p65
+aVMichael Finley BOS 04/04/2010 BOS vs. CLE W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 8
+p66
+aVGlen Davis BOS 04/04/2010 BOS vs. CLE W 16 8 2 4 50.0 0 0 - 4 4 100.0 2 3 5 0 0 1 0 3 1
+p67
+aVRajon Rondo BOS 04/04/2010 BOS vs. CLE W 42 16 7 14 50.0 1 1 100.0 1 1 100.0 0 3 3 14 1 0 1 2 0
+p68
+aVPaul Pierce BOS 04/04/2010 BOS vs. CLE W 34 16 4 13 30.8 1 3 33.3 7 8 87.5 0 5 5 5 0 0 1 5 3
+p69
+aVShelden Williams BOS 04/04/2010 BOS vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p70
+aVRasheed Wallace BOS 04/04/2010 BOS vs. CLE W 10 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 5
+p71
+aVRay Allen BOS 04/04/2010 BOS vs. CLE W 42 33 10 17 58.8 6 9 66.7 7 7 100.0 1 2 3 4 1 0 2 2 7
+p72
+aVTony Allen BOS 04/04/2010 BOS vs. CLE W 19 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 1 2 0 2 4 0
+p73
+aVKendrick Perkins BOS 04/04/2010 BOS vs. CLE W 31 10 4 7 57.1 0 0 - 2 6 33.3 1 9 10 0 1 1 3 4 -3
+p74
+aVGlen Davis BOS 04/02/2010 BOS vs. HOU L 11 0 0 3 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 1 0 -14
+p75
+aVMarquis Daniels BOS 04/02/2010 BOS vs. HOU L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p76
+aVKendrick Perkins BOS 04/02/2010 BOS vs. HOU L 34 15 7 10 70.0 0 0 - 1 3 33.3 5 0 5 0 1 2 4 3 -2
+p77
+aVRasheed Wallace BOS 04/02/2010 BOS vs. HOU L 19 11 4 10 40.0 0 2 0.0 3 3 100.0 0 8 8 0 0 0 1 4 -1
+p78
+aVRay Allen BOS 04/02/2010 BOS vs. HOU L 16 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 2 0 0 1 6 10
+p79
+aVPaul Pierce BOS 04/02/2010 BOS vs. HOU L 40 27 9 14 64.3 3 5 60.0 6 10 60.0 1 3 4 2 1 0 0 0 -3
+p80
+aVKevin Garnett BOS 04/02/2010 BOS vs. HOU L 33 12 4 12 33.3 0 0 - 4 4 100.0 0 3 3 3 0 1 1 6 3
+p81
+aVRajon Rondo BOS 04/02/2010 BOS vs. HOU L 48 23 10 18 55.6 0 3 0.0 3 4 75.0 2 3 5 10 5 0 3 1 0
+p82
+aVTony Allen BOS 04/02/2010 BOS vs. HOU L 28 12 4 8 50.0 0 0 - 4 6 66.7 1 4 5 3 5 1 1 4 -2
+p83
+aVNate Robinson BOS 04/02/2010 BOS vs. HOU L 9 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -13
+p84
+aVMichael Finley BOS 04/02/2010 BOS vs. HOU L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 2 0 0 0 1 -3
+p85
+aVShelden Williams BOS 04/02/2010 BOS vs. HOU L 9 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 0 1 2 6
+p86
+aVRajon Rondo BOS 03/31/2010 BOS vs. OKC L 36 16 8 12 66.7 0 0 - 0 0 - 1 4 5 11 5 0 4 4 -5
+p87
+aVRasheed Wallace BOS 03/31/2010 BOS vs. OKC L 26 18 7 8 87.5 2 3 66.7 2 4 50.0 1 0 1 1 0 0 3 3 -8
+p88
+aVKendrick Perkins BOS 03/31/2010 BOS vs. OKC L 22 6 2 4 50.0 0 0 - 2 2 100.0 2 4 6 0 0 3 1 3 3
+p89
+aVGlen Davis BOS 03/31/2010 BOS vs. OKC L 17 10 3 6 50.0 0 0 - 4 5 80.0 0 2 2 0 0 0 1 0 -6
+p90
+aVKevin Garnett BOS 03/31/2010 BOS vs. OKC L 31 18 9 13 69.2 0 0 - 0 0 - 2 7 9 4 0 1 1 1 -1
+p91
+aVRay Allen BOS 03/31/2010 BOS vs. OKC L 33 13 6 12 50.0 0 5 0.0 1 1 100.0 0 1 1 2 0 0 2 3 -2
+p92
+aVNate Robinson BOS 03/31/2010 BOS vs. OKC L 12 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 4 0 0 0 3 2
+p93
+aVMarquis Daniels BOS 03/31/2010 BOS vs. OKC L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 3 -3
+p94
+aVPaul Pierce BOS 03/31/2010 BOS vs. OKC L 37 15 5 10 50.0 1 3 33.3 4 5 80.0 1 5 6 6 2 1 2 5 -5
+p95
+aVMichael Finley BOS 03/31/2010 BOS vs. OKC L 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 0
+p96
+aVMichael Finley BOS 03/28/2010 BOS vs. SAS L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -8
+p97
+aVRasheed Wallace BOS 03/28/2010 BOS vs. SAS L 25 7 2 5 40.0 1 4 25.0 2 4 50.0 1 7 8 0 1 1 1 4 -5
+p98
+aVKevin Garnett BOS 03/28/2010 BOS vs. SAS L 35 12 6 15 40.0 0 0 - 0 0 - 2 8 10 0 1 0 1 0 -15
+p99
+aVShelden Williams BOS 03/28/2010 BOS vs. SAS L 11 11 5 5 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 4 -7
+p100
+aVBrian Scalabrine BOS 03/28/2010 BOS vs. SAS L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p101
+aVNate Robinson BOS 03/28/2010 BOS vs. SAS L 13 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 2 -12
+p102
+aVRay Allen BOS 03/28/2010 BOS vs. SAS L 27 7 2 9 22.2 0 1 0.0 3 3 100.0 0 2 2 1 0 0 1 1 -12
+p103
+aVTony Allen BOS 03/28/2010 BOS vs. SAS L 9 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 0 -8
+p104
+aVPaul Pierce BOS 03/28/2010 BOS vs. SAS L 36 18 4 11 36.4 0 3 0.0 10 11 90.9 0 3 3 5 1 1 2 2 -11
+p105
+aVRajon Rondo BOS 03/28/2010 BOS vs. SAS L 35 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 7 1 0 4 1 -9
+p106
+aVGlen Davis BOS 03/28/2010 BOS vs. SAS L 19 2 1 6 16.7 0 0 - 0 0 - 2 1 3 0 1 0 0 3 -11
+p107
+aVMarquis Daniels BOS 03/28/2010 BOS vs. SAS L 12 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -7
+p108
+aVMarquis Daniels BOS 03/26/2010 BOS vs. SAC W 6 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -10
+p109
+aVKevin Garnett BOS 03/26/2010 BOS vs. SAC W 26 18 8 14 57.1 0 0 - 2 2 100.0 2 11 13 0 1 4 0 3 16
+p110
+aVShelden Williams BOS 03/26/2010 BOS vs. SAC W 23 6 3 6 50.0 0 1 0.0 0 2 0.0 1 2 3 0 0 1 0 1 -6
+p111
+aVTony Allen BOS 03/26/2010 BOS vs. SAC W 12 6 3 4 75.0 0 0 - 0 1 0.0 1 3 4 1 1 0 0 2 -3
+p112
+aVRasheed Wallace BOS 03/26/2010 BOS vs. SAC W 24 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 1 3 3 1 6 7
+p113
+aVPaul Pierce BOS 03/26/2010 BOS vs. SAC W 33 22 6 16 37.5 0 2 0.0 10 12 83.3 5 3 8 0 2 0 1 2 18
+p114
+aVBrian Scalabrine BOS 03/26/2010 BOS vs. SAC W 7 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p115
+aVGlen Davis BOS 03/26/2010 BOS vs. SAC W 15 5 1 4 25.0 0 1 0.0 3 4 75.0 1 3 4 0 1 1 1 4 6
+p116
+aVNate Robinson BOS 03/26/2010 BOS vs. SAC W 7 1 0 4 0.0 0 1 0.0 1 2 50.0 0 1 1 1 1 0 0 1 0
+p117
+aVRay Allen BOS 03/26/2010 BOS vs. SAC W 38 20 8 18 44.4 3 7 42.9 1 1 100.0 0 4 4 3 1 1 2 3 11
+p118
+aVMichael Finley BOS 03/26/2010 BOS vs. SAC W 11 0 0 1 0.0 0 1 0.0 0 2 0.0 0 1 1 1 0 0 1 0 -3
+p119
+aVRajon Rondo BOS 03/26/2010 BOS vs. SAC W 36 6 3 10 30.0 0 1 0.0 0 0 - 2 2 4 18 3 0 2 1 11
+p120
+aVRasheed Wallace BOS 03/24/2010 BOS vs. DEN W 15 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 1 1 1 4 -1
+p121
+aVShelden Williams BOS 03/24/2010 BOS vs. DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p122
+aVKendrick Perkins BOS 03/24/2010 BOS vs. DEN W 23 7 3 7 42.9 0 0 - 1 1 100.0 2 3 5 1 0 2 1 2 14
+p123
+aVTony Allen BOS 03/24/2010 BOS vs. DEN W 20 13 5 6 83.3 0 0 - 3 4 75.0 2 0 2 0 0 0 0 5 12
+p124
+aVMichael Finley BOS 03/24/2010 BOS vs. DEN W 10 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 1
+p125
+aVPaul Pierce BOS 03/24/2010 BOS vs. DEN W 33 27 10 16 62.5 0 3 0.0 7 7 100.0 1 6 7 2 2 1 1 5 11
+p126
+aVGlen Davis BOS 03/24/2010 BOS vs. DEN W 12 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 2 4 -6
+p127
+aVKevin Garnett BOS 03/24/2010 BOS vs. DEN W 33 20 8 20 40.0 0 0 - 4 5 80.0 4 6 10 5 1 0 0 3 17
+p128
+aVMarquis Daniels BOS 03/24/2010 BOS vs. DEN W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -1
+p129
+aVRay Allen BOS 03/24/2010 BOS vs. DEN W 35 16 6 13 46.2 1 5 20.0 3 3 100.0 0 2 2 3 1 1 1 1 9
+p130
+aVNate Robinson BOS 03/24/2010 BOS vs. DEN W 16 8 3 7 42.9 2 5 40.0 0 0 - 0 2 2 2 0 0 1 3 -2
+p131
+aVRajon Rondo BOS 03/24/2010 BOS vs. DEN W 36 11 4 9 44.4 0 0 - 3 6 50.0 6 5 11 15 4 0 4 4 18
+p132
+aVShelden Williams BOS 03/22/2010 BOS @ UTA L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 1
+p133
+aVKevin Garnett BOS 03/22/2010 BOS @ UTA L 26 10 5 9 55.6 0 0 - 0 0 - 1 2 3 0 0 1 0 3 -17
+p134
+aVRasheed Wallace BOS 03/22/2010 BOS @ UTA L 21 4 2 6 33.3 0 2 0.0 0 0 - 0 4 4 1 1 3 1 1 3
+p135
+aVMichael Finley BOS 03/22/2010 BOS @ UTA L 14 8 3 3 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p136
+aVRajon Rondo BOS 03/22/2010 BOS @ UTA L 28 6 2 7 28.6 0 1 0.0 2 4 50.0 2 2 4 6 3 0 4 4 -10
+p137
+aVNate Robinson BOS 03/22/2010 BOS @ UTA L 20 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 2 1 0 1 1 -2
+p138
+aVMarquis Daniels BOS 03/22/2010 BOS @ UTA L 19 8 3 5 60.0 0 0 - 2 5 40.0 1 1 2 0 0 0 1 3 2
+p139
+aVPaul Pierce BOS 03/22/2010 BOS @ UTA L 30 11 3 13 23.1 0 2 0.0 5 6 83.3 1 5 6 2 1 0 1 3 -15
+p140
+aVGlen Davis BOS 03/22/2010 BOS @ UTA L 19 13 3 4 75.0 0 0 - 7 7 100.0 1 4 5 1 0 0 3 3 1
+p141
+aVTony Allen BOS 03/22/2010 BOS @ UTA L 2 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p142
+aVKendrick Perkins BOS 03/22/2010 BOS @ UTA L 24 7 2 5 40.0 0 0 - 3 4 75.0 4 4 8 1 1 1 3 2 -14
+p143
+aVRay Allen BOS 03/22/2010 BOS @ UTA L 30 15 4 12 33.3 2 8 25.0 5 5 100.0 0 3 3 2 2 1 3 2 -18
+p144
+aVMarquis Daniels BOS 03/20/2010 BOS @ DAL W 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -15
+p145
+aVKendrick Perkins BOS 03/20/2010 BOS @ DAL W 31 11 5 7 71.4 0 0 - 1 1 100.0 2 4 6 1 0 2 2 3 17
+p146
+aVKevin Garnett BOS 03/20/2010 BOS @ DAL W 33 8 3 9 33.3 0 0 - 2 2 100.0 1 8 9 1 5 0 3 3 17
+p147
+aVRay Allen BOS 03/20/2010 BOS @ DAL W 35 21 7 13 53.8 4 8 50.0 3 3 100.0 1 2 3 4 2 1 2 3 24
+p148
+aVGlen Davis BOS 03/20/2010 BOS @ DAL W 17 7 3 5 60.0 0 1 0.0 1 2 50.0 1 3 4 0 1 0 2 3 -8
+p149
+aVRasheed Wallace BOS 03/20/2010 BOS @ DAL W 16 2 0 2 0.0 0 1 0.0 2 2 100.0 0 3 3 0 0 1 1 2 -8
+p150
+aVPaul Pierce BOS 03/20/2010 BOS @ DAL W 36 29 10 17 58.8 1 5 20.0 8 10 80.0 0 3 3 5 2 0 2 1 16
+p151
+aVMichael Finley BOS 03/20/2010 BOS @ DAL W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -7
+p152
+aVRajon Rondo BOS 03/20/2010 BOS @ DAL W 39 20 9 15 60.0 0 1 0.0 2 2 100.0 3 7 10 5 1 0 2 2 18
+p153
+aVNate Robinson BOS 03/20/2010 BOS @ DAL W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 2 1 -9
+p154
+aVNate Robinson BOS 03/19/2010 BOS @ HOU W 13 8 3 9 33.3 2 6 33.3 0 0 - 0 1 1 1 1 0 0 2 6
+p155
+aVRasheed Wallace BOS 03/19/2010 BOS @ HOU W 19 7 3 8 37.5 1 3 33.3 0 0 - 0 9 9 1 1 2 0 3 16
+p156
+aVKevin Garnett BOS 03/19/2010 BOS @ HOU W 31 15 7 16 43.8 0 1 0.0 1 2 50.0 0 8 8 3 0 0 1 5 -4
+p157
+aVMarquis Daniels BOS 03/19/2010 BOS @ HOU W 20 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 11
+p158
+aVRajon Rondo BOS 03/19/2010 BOS @ HOU W 35 2 1 5 20.0 0 1 0.0 0 0 - 0 4 4 10 3 0 2 4 1
+p159
+aVRay Allen BOS 03/19/2010 BOS @ HOU W 36 19 7 12 58.3 5 8 62.5 0 0 - 1 0 1 6 1 0 2 2 5
+p160
+aVGlen Davis BOS 03/19/2010 BOS @ HOU W 17 7 3 7 42.9 0 0 - 1 4 25.0 5 2 7 1 0 0 2 1 11
+p161
+aVKendrick Perkins BOS 03/19/2010 BOS @ HOU W 29 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 1 1 2 1 4 -9
+p162
+aVPaul Pierce BOS 03/19/2010 BOS @ HOU W 28 26 9 14 64.3 2 3 66.7 6 8 75.0 3 2 5 1 2 0 3 4 -4
+p163
+aVMichael Finley BOS 03/19/2010 BOS @ HOU W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 2
+p164
+aVShelden Williams BOS 03/17/2010 BOS vs. NYK W 8 8 2 4 50.0 0 0 - 4 4 100.0 1 2 3 0 0 0 0 0 -5
+p165
+aVRay Allen BOS 03/17/2010 BOS vs. NYK W 24 9 3 6 50.0 2 5 40.0 1 1 100.0 0 2 2 3 0 1 1 2 24
+p166
+aVKendrick Perkins BOS 03/17/2010 BOS vs. NYK W 22 9 3 5 60.0 0 0 - 3 3 100.0 3 9 12 1 3 2 2 2 24
+p167
+aVRajon Rondo BOS 03/17/2010 BOS vs. NYK W 28 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 12 0 1 3 2 22
+p168
+aVGlen Davis BOS 03/17/2010 BOS vs. NYK W 16 0 0 5 0.0 0 0 - 0 0 - 5 1 6 0 0 0 2 4 -4
+p169
+aVKevin Garnett BOS 03/17/2010 BOS vs. NYK W 24 22 9 11 81.8 0 0 - 4 4 100.0 0 4 4 4 1 0 4 1 21
+p170
+aVPaul Pierce BOS 03/17/2010 BOS vs. NYK W 24 29 11 17 64.7 3 6 50.0 4 5 80.0 2 4 6 0 1 0 3 3 11
+p171
+aVTony Allen BOS 03/17/2010 BOS vs. NYK W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 1 0 0 -11
+p172
+aVRasheed Wallace BOS 03/17/2010 BOS vs. NYK W 23 7 3 7 42.9 0 1 0.0 1 1 100.0 0 3 3 0 1 0 0 2 -6
+p173
+aVMichael Finley BOS 03/17/2010 BOS vs. NYK W 24 2 1 9 11.1 0 4 0.0 0 0 - 0 3 3 5 0 0 1 1 -12
+p174
+aVNate Robinson BOS 03/17/2010 BOS vs. NYK W 20 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 2 1 0 1 1 -10
+p175
+aVMarquis Daniels BOS 03/17/2010 BOS vs. NYK W 20 10 5 8 62.5 0 0 - 0 0 - 1 2 3 1 1 0 1 1 6
+p176
+aVRasheed Wallace BOS 03/15/2010 BOS vs. DET W 17 8 3 4 75.0 0 1 0.0 2 2 100.0 0 4 4 1 0 1 1 3 9
+p177
+aVGlen Davis BOS 03/15/2010 BOS vs. DET W 25 13 6 8 75.0 0 0 - 1 2 50.0 2 2 4 1 0 0 1 2 10
+p178
+aVRay Allen BOS 03/15/2010 BOS vs. DET W 27 15 6 9 66.7 2 4 50.0 1 1 100.0 0 0 0 2 0 0 0 0 21
+p179
+aVRajon Rondo BOS 03/15/2010 BOS vs. DET W 29 3 1 5 20.0 0 0 - 1 2 50.0 1 1 2 6 4 0 3 1 25
+p180
+aVPaul Pierce BOS 03/15/2010 BOS vs. DET W 17 15 4 6 66.7 1 3 33.3 6 7 85.7 0 1 1 3 2 1 1 5 8
+p181
+aVKendrick Perkins BOS 03/15/2010 BOS vs. DET W 24 11 4 8 50.0 0 0 - 3 6 50.0 1 7 8 2 0 3 0 2 19
+p182
+aVMichael Finley BOS 03/15/2010 BOS vs. DET W 14 15 6 7 85.7 3 4 75.0 0 0 - 0 1 1 2 0 1 1 3 7
+p183
+aVTony Allen BOS 03/15/2010 BOS vs. DET W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 5 1 0 2 0 -2
+p184
+aVMarquis Daniels BOS 03/15/2010 BOS vs. DET W 30 11 5 7 71.4 0 1 0.0 1 2 50.0 1 4 5 4 1 0 1 3 16
+p185
+aVShelden Williams BOS 03/15/2010 BOS vs. DET W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p186
+aVKevin Garnett BOS 03/15/2010 BOS vs. DET W 23 14 6 9 66.7 0 0 - 2 2 100.0 3 5 8 4 0 0 1 1 16
+p187
+aVNate Robinson BOS 03/15/2010 BOS vs. DET W 21 8 3 8 37.5 1 3 33.3 1 2 50.0 0 3 3 4 0 0 0 4 3
+p188
+aVMichael Finley BOS 03/14/2010 BOS @ CLE L 16 4 2 7 28.6 0 3 0.0 0 0 - 1 3 4 1 0 0 0 1 -10
+p189
+aVRajon Rondo BOS 03/14/2010 BOS @ CLE L 40 16 6 11 54.5 0 1 0.0 4 4 100.0 2 6 8 6 2 0 3 1 -4
+p190
+aVPaul Pierce BOS 03/14/2010 BOS @ CLE L 36 18 6 14 42.9 3 5 60.0 3 3 100.0 1 2 3 4 0 1 3 5 4
+p191
+aVMarquis Daniels BOS 03/14/2010 BOS @ CLE L 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -15
+p192
+aVKendrick Perkins BOS 03/14/2010 BOS @ CLE L 30 6 3 5 60.0 0 0 - 0 2 0.0 1 5 6 1 1 0 1 4 9
+p193
+aVGlen Davis BOS 03/14/2010 BOS @ CLE L 15 4 2 4 50.0 0 0 - 0 3 0.0 3 0 3 0 1 0 0 4 -16
+p194
+aVNate Robinson BOS 03/14/2010 BOS @ CLE L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -7
+p195
+aVRasheed Wallace BOS 03/14/2010 BOS @ CLE L 17 5 1 8 12.5 0 2 0.0 3 4 75.0 1 3 4 0 0 0 0 3 -17
+p196
+aVShelden Williams BOS 03/14/2010 BOS @ CLE L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p197
+aVTony Allen BOS 03/14/2010 BOS @ CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p198
+aVRay Allen BOS 03/14/2010 BOS @ CLE L 35 20 7 14 50.0 3 5 60.0 3 4 75.0 0 6 6 5 0 0 0 5 -6
+p199
+aVKevin Garnett BOS 03/14/2010 BOS @ CLE L 28 18 5 11 45.5 0 0 - 8 8 100.0 2 5 7 1 1 1 3 5 4
+p200
+aVRajon Rondo BOS 03/12/2010 BOS vs. IND W 28 16 7 12 58.3 0 0 - 2 2 100.0 1 0 1 11 2 0 5 1 10
+p201
+aVKendrick Perkins BOS 03/12/2010 BOS vs. IND W 23 10 4 6 66.7 0 0 - 2 2 100.0 0 7 7 1 0 1 2 1 8
+p202
+aVRay Allen BOS 03/12/2010 BOS vs. IND W 28 13 5 7 71.4 2 2 100.0 1 1 100.0 0 4 4 3 1 1 0 3 10
+p203
+aVKevin Garnett BOS 03/12/2010 BOS vs. IND W 23 9 3 5 60.0 0 0 - 3 4 75.0 0 6 6 3 1 0 0 2 9
+p204
+aVTony Allen BOS 03/12/2010 BOS vs. IND W 9 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 1 1 0 0 3
+p205
+aVRasheed Wallace BOS 03/12/2010 BOS vs. IND W 19 6 2 4 50.0 0 2 0.0 2 2 100.0 0 5 5 0 0 0 1 3 12
+p206
+aVNate Robinson BOS 03/12/2010 BOS vs. IND W 20 15 5 9 55.6 5 6 83.3 0 0 - 0 1 1 5 4 0 3 3 9
+p207
+aVPaul Pierce BOS 03/12/2010 BOS vs. IND W 22 20 7 12 58.3 1 5 20.0 5 5 100.0 0 3 3 1 1 0 1 3 7
+p208
+aVMarquis Daniels BOS 03/12/2010 BOS vs. IND W 18 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 7
+p209
+aVShelden Williams BOS 03/12/2010 BOS vs. IND W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -1
+p210
+aVMichael Finley BOS 03/12/2010 BOS vs. IND W 18 9 4 5 80.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 3 11
+p211
+aVGlen Davis BOS 03/12/2010 BOS vs. IND W 25 15 5 11 45.5 0 0 - 5 7 71.4 0 2 2 1 1 2 1 4 10
+p212
+aVGlen Davis BOS 03/10/2010 BOS vs. MEM L 17 7 3 6 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -13
+p213
+aVRay Allen BOS 03/10/2010 BOS vs. MEM L 26 17 7 14 50.0 0 6 0.0 3 3 100.0 2 2 4 1 1 0 0 2 -13
+p214
+aVRajon Rondo BOS 03/10/2010 BOS vs. MEM L 35 17 7 15 46.7 0 1 0.0 3 6 50.0 1 0 1 8 0 0 2 2 -21
+p215
+aVTony Allen BOS 03/10/2010 BOS vs. MEM L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 2
+p216
+aVKevin Garnett BOS 03/10/2010 BOS vs. MEM L 26 6 3 9 33.3 0 0 - 0 0 - 1 6 7 2 1 1 0 1 -9
+p217
+aVShelden Williams BOS 03/10/2010 BOS vs. MEM L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 8
+p218
+aVPaul Pierce BOS 03/10/2010 BOS vs. MEM L 30 14 4 8 50.0 3 5 60.0 3 4 75.0 0 1 1 3 1 0 2 1 -13
+p219
+aVNate Robinson BOS 03/10/2010 BOS vs. MEM L 15 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 6 1 0 0 2 2
+p220
+aVMichael Finley BOS 03/10/2010 BOS vs. MEM L 14 10 4 6 66.7 2 3 66.7 0 0 - 0 3 3 0 0 0 0 1 -4
+p221
+aVMarquis Daniels BOS 03/10/2010 BOS vs. MEM L 14 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 0 1 2 2 1 -13
+p222
+aVRasheed Wallace BOS 03/10/2010 BOS vs. MEM L 22 11 3 7 42.9 1 3 33.3 4 5 80.0 0 2 2 0 6 3 0 1 -16
+p223
+aVKendrick Perkins BOS 03/10/2010 BOS vs. MEM L 23 4 2 4 50.0 0 0 - 0 2 0.0 1 5 6 0 0 0 1 3 -10
+p224
+aVPaul Pierce BOS 03/09/2010 BOS @ MIL L 36 12 3 13 23.1 1 2 50.0 5 5 100.0 0 3 3 5 0 1 4 1 -9
+p225
+aVMichael Finley BOS 03/09/2010 BOS @ MIL L 8 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 0
+p226
+aVRajon Rondo BOS 03/09/2010 BOS @ MIL L 38 20 6 10 60.0 0 0 - 8 9 88.9 2 2 4 6 0 0 4 2 -5
+p227
+aVMarquis Daniels BOS 03/09/2010 BOS @ MIL L 18 7 3 5 60.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 0 4
+p228
+aVKendrick Perkins BOS 03/09/2010 BOS @ MIL L 29 6 3 9 33.3 0 0 - 0 2 0.0 2 3 5 0 1 1 2 3 -13
+p229
+aVGlen Davis BOS 03/09/2010 BOS @ MIL L 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 3 0
+p230
+aVKevin Garnett BOS 03/09/2010 BOS @ MIL L 31 14 7 13 53.8 0 0 - 0 0 - 0 10 10 1 2 0 2 2 -2
+p231
+aVRasheed Wallace BOS 03/09/2010 BOS @ MIL L 19 7 2 3 66.7 1 1 100.0 2 2 100.0 0 4 4 1 2 0 0 3 11
+p232
+aVRay Allen BOS 03/09/2010 BOS @ MIL L 34 3 0 3 0.0 0 3 0.0 3 3 100.0 0 4 4 3 1 0 0 0 1
+p233
+aVNate Robinson BOS 03/09/2010 BOS @ MIL L 11 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 1 2 0 2 1 3
+p234
+aVPaul Pierce BOS 03/07/2010 BOS vs. WAS W 29 17 6 11 54.5 0 2 0.0 5 6 83.3 0 2 2 1 2 0 3 5 7
+p235
+aVRay Allen BOS 03/07/2010 BOS vs. WAS W 35 25 10 15 66.7 4 6 66.7 1 1 100.0 0 2 2 1 1 0 0 3 18
+p236
+aVKevin Garnett BOS 03/07/2010 BOS vs. WAS W 31 8 0 7 0.0 0 0 - 8 10 80.0 0 10 10 3 1 0 4 0 8
+p237
+aVRasheed Wallace BOS 03/07/2010 BOS vs. WAS W 18 4 1 6 16.7 0 2 0.0 2 2 100.0 0 3 3 1 0 1 0 3 -7
+p238
+aVTony Allen BOS 03/07/2010 BOS vs. WAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p239
+aVMarquis Daniels BOS 03/07/2010 BOS vs. WAS W 24 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 2 2 -10
+p240
+aVNate Robinson BOS 03/07/2010 BOS vs. WAS W 14 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 2 1 -12
+p241
+aVBrian Scalabrine BOS 03/07/2010 BOS vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p242
+aVGlen Davis BOS 03/07/2010 BOS vs. WAS W 17 3 1 7 14.3 0 0 - 1 2 50.0 6 2 8 0 2 0 1 2 -5
+p243
+aVRajon Rondo BOS 03/07/2010 BOS vs. WAS W 37 15 6 12 50.0 1 1 100.0 2 3 66.7 0 4 4 7 1 0 4 3 11
+p244
+aVKendrick Perkins BOS 03/07/2010 BOS vs. WAS W 30 12 5 7 71.4 0 0 - 2 2 100.0 2 5 7 2 0 0 0 2 9
+p245
+aVGlen Davis BOS 03/05/2010 BOS @ PHI W 16 12 5 8 62.5 0 0 - 2 2 100.0 3 3 6 1 0 0 1 2 10
+p246
+aVKevin Garnett BOS 03/05/2010 BOS @ PHI W 32 22 8 11 72.7 0 0 - 6 6 100.0 2 6 8 4 3 0 3 2 0
+p247
+aVNate Robinson BOS 03/05/2010 BOS @ PHI W 13 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 0 0 2 1 9
+p248
+aVRay Allen BOS 03/05/2010 BOS @ PHI W 35 16 7 14 50.0 1 3 33.3 1 1 100.0 0 3 3 1 0 0 2 2 1
+p249
+aVKendrick Perkins BOS 03/05/2010 BOS @ PHI W 28 6 2 4 50.0 0 0 - 2 2 100.0 3 3 6 2 0 4 1 1 2
+p250
+aVPaul Pierce BOS 03/05/2010 BOS @ PHI W 32 7 1 9 11.1 0 2 0.0 5 6 83.3 0 5 5 2 1 1 1 3 2
+p251
+aVRasheed Wallace BOS 03/05/2010 BOS @ PHI W 20 7 2 3 66.7 1 1 100.0 2 4 50.0 0 4 4 0 0 2 2 0 8
+p252
+aVBrian Scalabrine BOS 03/05/2010 BOS @ PHI W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 5
+p253
+aVRajon Rondo BOS 03/05/2010 BOS @ PHI W 41 16 6 12 50.0 0 2 0.0 4 6 66.7 1 5 6 11 2 0 4 1 5
+p254
+aVMarquis Daniels BOS 03/05/2010 BOS @ PHI W 19 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 8
+p255
+aVRasheed Wallace BOS 03/03/2010 BOS vs. CHA W 17 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 0 0 0 1 2 12
+p256
+aVTony Allen BOS 03/03/2010 BOS vs. CHA W 22 8 3 6 50.0 0 0 - 2 7 28.6 0 3 3 2 1 1 0 0 5
+p257
+aVMarquis Daniels BOS 03/03/2010 BOS vs. CHA W 30 9 4 10 40.0 1 2 50.0 0 0 - 1 4 5 2 1 0 2 2 20
+p258
+aVPaul Pierce BOS 03/03/2010 BOS vs. CHA W 27 27 9 13 69.2 4 6 66.7 5 5 100.0 0 2 2 4 3 1 3 2 19
+p259
+aVNate Robinson BOS 03/03/2010 BOS vs. CHA W 20 16 5 8 62.5 4 6 66.7 2 2 100.0 0 4 4 3 0 0 1 1 10
+p260
+aVShelden Williams BOS 03/03/2010 BOS vs. CHA W 9 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 0 0 0 0 2 -1
+p261
+aVKevin Garnett BOS 03/03/2010 BOS vs. CHA W 25 12 5 9 55.6 0 0 - 2 2 100.0 0 5 5 4 2 4 0 0 19
+p262
+aVBrian Scalabrine BOS 03/03/2010 BOS vs. CHA W 8 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 1 0 1 1 2 -3
+p263
+aVGlen Davis BOS 03/03/2010 BOS vs. CHA W 14 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 2 1 0 1 3 6
+p264
+aVKendrick Perkins BOS 03/03/2010 BOS vs. CHA W 23 8 3 4 75.0 0 0 - 2 4 50.0 0 2 2 2 0 1 1 1 15
+p265
+aVRajon Rondo BOS 03/03/2010 BOS vs. CHA W 28 8 4 8 50.0 0 0 - 0 1 0.0 0 4 4 6 1 0 3 1 14
+p266
+aVRay Allen BOS 03/03/2010 BOS vs. CHA W 18 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 1 1 0 0 4 4
+p267
+aVRajon Rondo BOS 03/02/2010 BOS @ DET W 33 15 4 10 40.0 0 1 0.0 7 8 87.5 0 4 4 11 2 0 6 1 1
+p268
+aVBrian Scalabrine BOS 03/02/2010 BOS @ DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p269
+aVTony Allen BOS 03/02/2010 BOS @ DET W 13 5 2 2 100.0 0 0 - 1 1 100.0 1 2 3 1 1 0 0 3 7
+p270
+aVGlen Davis BOS 03/02/2010 BOS @ DET W 18 12 5 14 35.7 0 0 - 2 4 50.0 2 1 3 3 1 0 0 0 5
+p271
+aVShelden Williams BOS 03/02/2010 BOS @ DET W 16 6 3 4 75.0 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -2
+p272
+aVPaul Pierce BOS 03/02/2010 BOS @ DET W 29 9 2 6 33.3 1 1 100.0 4 4 100.0 1 0 1 1 1 0 2 3 2
+p273
+aVMarquis Daniels BOS 03/02/2010 BOS @ DET W 20 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 3 1 0 1 2 0
+p274
+aVRasheed Wallace BOS 03/02/2010 BOS @ DET W 30 10 4 10 40.0 2 5 40.0 0 0 - 1 5 6 1 2 2 1 3 7
+p275
+aVNate Robinson BOS 03/02/2010 BOS @ DET W 15 14 5 7 71.4 4 5 80.0 0 0 - 1 1 2 1 0 0 0 2 4
+p276
+aVRay Allen BOS 03/02/2010 BOS @ DET W 34 18 6 11 54.5 2 5 40.0 4 4 100.0 1 1 2 1 1 0 2 1 1
+p277
+aVKevin Garnett BOS 03/02/2010 BOS @ DET W 32 14 4 8 50.0 0 0 - 6 8 75.0 1 8 9 3 2 0 0 3 0
+p278
+aVRajon Rondo BOS 02/27/2010 BOS vs. NJN L 35 13 5 9 55.6 0 0 - 3 4 75.0 2 4 6 17 3 0 4 3 6
+p279
+aVKendrick Perkins BOS 02/27/2010 BOS vs. NJN L 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 3 3 -4
+p280
+aVRasheed Wallace BOS 02/27/2010 BOS vs. NJN L 29 9 4 13 30.8 1 5 20.0 0 0 - 1 5 6 2 0 0 2 4 -4
+p281
+aVRay Allen BOS 02/27/2010 BOS vs. NJN L 33 10 3 11 27.3 1 6 16.7 3 3 100.0 2 4 6 5 0 0 2 4 3
+p282
+aVGlen Davis BOS 02/27/2010 BOS vs. NJN L 19 4 2 5 40.0 0 1 0.0 0 0 - 3 0 3 1 1 1 1 3 -17
+p283
+aVBrian Scalabrine BOS 02/27/2010 BOS vs. NJN L 17 0 0 2 0.0 0 1 0.0 0 0 - 2 0 2 2 0 0 2 2 -11
+p284
+aVNate Robinson BOS 02/27/2010 BOS vs. NJN L 23 13 6 13 46.2 1 5 20.0 0 0 - 1 1 2 3 1 0 1 5 -19
+p285
+aVMarquis Daniels BOS 02/27/2010 BOS vs. NJN L 27 16 8 9 88.9 0 1 0.0 0 0 - 1 2 3 1 1 0 3 4 8
+p286
+aVKevin Garnett BOS 02/27/2010 BOS vs. NJN L 28 26 12 16 75.0 0 0 - 2 2 100.0 1 8 9 1 2 1 0 1 8
+p287
+aVTony Allen BOS 02/27/2010 BOS vs. NJN L 10 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -10
+p288
+aVKendrick Perkins BOS 02/25/2010 BOS vs. CLE L 26 8 3 5 60.0 0 0 - 2 4 50.0 1 7 8 1 0 1 1 2 -2
+p289
+aVRay Allen BOS 02/25/2010 BOS vs. CLE L 35 21 7 13 53.8 4 8 50.0 3 3 100.0 1 1 2 1 1 0 1 3 -7
+p290
+aVBrian Scalabrine BOS 02/25/2010 BOS vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p291
+aVShelden Williams BOS 02/25/2010 BOS vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 2 -5
+p292
+aVMarcus Landry BOS 02/25/2010 BOS vs. CLE L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p293
+aVRasheed Wallace BOS 02/25/2010 BOS vs. CLE L 18 9 3 8 37.5 1 3 33.3 2 2 100.0 0 2 2 0 0 0 0 2 -12
+p294
+aVRajon Rondo BOS 02/25/2010 BOS vs. CLE L 45 19 8 19 42.1 0 1 0.0 3 6 50.0 1 3 4 11 2 0 2 2 -15
+p295
+aVKevin Garnett BOS 02/25/2010 BOS vs. CLE L 29 10 4 10 40.0 0 0 - 2 2 100.0 3 7 10 5 1 0 4 2 -3
+p296
+aVTony Allen BOS 02/25/2010 BOS vs. CLE L 15 8 3 8 37.5 0 1 0.0 2 2 100.0 1 3 4 0 0 0 2 2 -15
+p297
+aVMarquis Daniels BOS 02/25/2010 BOS vs. CLE L 31 4 2 5 40.0 0 2 0.0 0 0 - 1 2 3 0 1 0 0 2 -5
+p298
+aVGlen Davis BOS 02/25/2010 BOS vs. CLE L 16 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -12
+p299
+aVNate Robinson BOS 02/25/2010 BOS vs. CLE L 17 7 2 6 33.3 1 1 100.0 2 4 50.0 2 2 4 1 2 0 0 1 -14
+p300
+aVMarquis Daniels BOS 02/23/2010 BOS vs. NYK W 28 14 5 9 55.6 1 2 50.0 3 3 100.0 0 2 2 1 0 0 1 3 13
+p301
+aVRay Allen BOS 02/23/2010 BOS vs. NYK W 39 24 9 14 64.3 1 5 20.0 5 6 83.3 0 5 5 3 2 1 2 1 9
+p302
+aVRasheed Wallace BOS 02/23/2010 BOS vs. NYK W 20 7 3 6 50.0 1 3 33.3 0 0 - 0 5 5 1 0 0 0 1 -1
+p303
+aVTony Allen BOS 02/23/2010 BOS vs. NYK W 19 6 3 6 50.0 0 0 - 0 0 - 1 3 4 2 2 1 1 3 -10
+p304
+aVGlen Davis BOS 02/23/2010 BOS vs. NYK W 17 9 3 5 60.0 0 0 - 3 4 75.0 1 1 2 2 0 0 0 3 0
+p305
+aVKevin Garnett BOS 02/23/2010 BOS vs. NYK W 31 16 6 11 54.5 0 0 - 4 6 66.7 1 7 8 6 0 1 0 2 4
+p306
+aVKendrick Perkins BOS 02/23/2010 BOS vs. NYK W 28 12 6 7 85.7 0 0 - 0 1 0.0 3 2 5 1 2 2 2 1 4
+p307
+aVNate Robinson BOS 02/23/2010 BOS vs. NYK W 16 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 1 2 0 2 2 -5
+p308
+aVBrian Scalabrine BOS 02/23/2010 BOS vs. NYK W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 1
+p309
+aVRajon Rondo BOS 02/23/2010 BOS vs. NYK W 37 15 6 12 50.0 1 3 33.3 2 2 100.0 0 4 4 16 3 0 4 0 5
+p310
+aVKevin Garnett BOS 02/21/2010 BOS @ DEN L 31 15 7 13 53.8 0 0 - 1 2 50.0 0 5 5 3 1 2 2 2 -13
+p311
+aVMarquis Daniels BOS 02/21/2010 BOS @ DEN L 18 15 7 8 87.5 0 0 - 1 3 33.3 0 6 6 2 0 1 1 5 0
+p312
+aVPaul Pierce BOS 02/21/2010 BOS @ DEN L 31 5 2 10 20.0 0 2 0.0 1 4 25.0 0 3 3 2 2 4 3 1 -8
+p313
+aVTony Allen BOS 02/21/2010 BOS @ DEN L 14 2 0 2 0.0 0 0 - 2 4 50.0 0 0 0 1 2 1 0 1 1
+p314
+aVGlen Davis BOS 02/21/2010 BOS @ DEN L 17 6 2 6 33.3 0 0 - 2 4 50.0 4 3 7 0 1 0 0 5 2
+p315
+aVRasheed Wallace BOS 02/21/2010 BOS @ DEN L 22 8 4 10 40.0 0 3 0.0 0 0 - 0 2 2 1 1 1 1 4 -11
+p316
+aVShelden Williams BOS 02/21/2010 BOS @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p317
+aVRajon Rondo BOS 02/21/2010 BOS @ DEN L 38 15 7 12 58.3 0 3 0.0 1 2 50.0 1 4 5 11 2 1 4 5 -16
+p318
+aVBrian Scalabrine BOS 02/21/2010 BOS @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p319
+aVRay Allen BOS 02/21/2010 BOS @ DEN L 43 25 9 14 64.3 2 5 40.0 5 5 100.0 0 5 5 4 0 1 2 2 -5
+p320
+aVKendrick Perkins BOS 02/21/2010 BOS @ DEN L 23 14 7 10 70.0 0 0 - 0 0 - 3 1 4 1 1 1 0 4 -3
+p321
+aVPaul Pierce BOS 02/19/2010 BOS @ POR W 26 9 3 9 33.3 1 3 33.3 2 2 100.0 0 0 0 1 1 0 1 3 8
+p322
+aVRay Allen BOS 02/19/2010 BOS @ POR W 39 21 9 14 64.3 3 7 42.9 0 0 - 1 2 3 5 0 0 1 1 19
+p323
+aVTony Allen BOS 02/19/2010 BOS @ POR W 23 7 3 7 42.9 0 0 - 1 4 25.0 1 3 4 0 2 1 2 5 15
+p324
+aVRasheed Wallace BOS 02/19/2010 BOS @ POR W 23 6 3 7 42.9 0 3 0.0 0 0 - 0 2 2 4 1 0 0 4 6
+p325
+aVRajon Rondo BOS 02/19/2010 BOS @ POR W 32 10 5 10 50.0 0 1 0.0 0 1 0.0 1 2 3 11 3 0 2 2 6
+p326
+aVKevin Garnett BOS 02/19/2010 BOS @ POR W 22 16 7 9 77.8 1 1 100.0 1 2 50.0 0 7 7 1 0 3 3 2 14
+p327
+aVShelden Williams BOS 02/19/2010 BOS @ POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p328
+aVBrian Scalabrine BOS 02/19/2010 BOS @ POR W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 0 -2
+p329
+aVGlen Davis BOS 02/19/2010 BOS @ POR W 23 10 3 8 37.5 0 0 - 4 5 80.0 1 1 2 1 0 0 2 3 9
+p330
+aVKendrick Perkins BOS 02/19/2010 BOS @ POR W 25 7 2 3 66.7 0 0 - 3 8 37.5 1 8 9 1 0 2 1 3 13
+p331
+aVMarquis Daniels BOS 02/19/2010 BOS @ POR W 22 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 3 1 0 1 2 12
+p332
+aVBrian Scalabrine BOS 02/18/2010 BOS @ LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p333
+aVKevin Garnett BOS 02/18/2010 BOS @ LAL W 26 13 6 16 37.5 0 0 - 1 1 100.0 0 8 8 2 0 2 2 4 16
+p334
+aVRay Allen BOS 02/18/2010 BOS @ LAL W 36 24 10 15 66.7 4 6 66.7 0 1 0.0 0 2 2 2 0 0 1 3 5
+p335
+aVRajon Rondo BOS 02/18/2010 BOS @ LAL W 44 14 6 17 35.3 0 1 0.0 2 2 100.0 1 4 5 11 5 1 1 1 10
+p336
+aVPaul Pierce BOS 02/18/2010 BOS @ LAL W 41 11 4 9 44.4 1 4 25.0 2 4 50.0 0 6 6 4 0 0 1 2 15
+p337
+aVGlen Davis BOS 02/18/2010 BOS @ LAL W 16 4 2 4 50.0 0 0 - 0 0 - 2 1 3 2 0 0 0 2 -12
+p338
+aVRasheed Wallace BOS 02/18/2010 BOS @ LAL W 20 4 2 11 18.2 0 3 0.0 0 1 0.0 0 3 3 0 0 2 1 1 -10
+p339
+aVTony Allen BOS 02/18/2010 BOS @ LAL W 7 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -3
+p340
+aVMarquis Daniels BOS 02/18/2010 BOS @ LAL W 13 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -19
+p341
+aVKendrick Perkins BOS 02/18/2010 BOS @ LAL W 33 13 5 7 71.4 0 1 0.0 3 4 75.0 3 11 14 0 0 2 0 4 8
+p342
+aVKendrick Perkins BOS 02/16/2010 BOS @ SAC W 24 6 2 7 28.6 0 0 - 2 4 50.0 0 5 5 1 0 1 2 1 -4
+p343
+aVRajon Rondo BOS 02/16/2010 BOS @ SAC W 32 4 1 6 16.7 1 2 50.0 1 2 50.0 1 6 7 6 3 0 3 1 -3
+p344
+aVKevin Garnett BOS 02/16/2010 BOS @ SAC W 31 9 4 7 57.1 0 0 - 1 2 50.0 0 9 9 2 1 1 0 3 -8
+p345
+aVTony Allen BOS 02/16/2010 BOS @ SAC W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 1 0 2 2
+p346
+aVPaul Pierce BOS 02/16/2010 BOS @ SAC W 33 17 5 15 33.3 2 4 50.0 5 5 100.0 0 4 4 4 1 0 3 5 -4
+p347
+aVRay Allen BOS 02/16/2010 BOS @ SAC W 33 15 5 15 33.3 1 6 16.7 4 4 100.0 0 0 0 1 0 0 1 3 -5
+p348
+aVEddie House BOS 02/16/2010 BOS @ SAC W 16 12 4 8 50.0 4 6 66.7 0 0 - 0 1 1 0 0 0 0 1 6
+p349
+aVGlen Davis BOS 02/16/2010 BOS @ SAC W 17 6 3 7 42.9 0 0 - 0 0 - 5 3 8 3 0 1 1 1 11
+p350
+aVMarquis Daniels BOS 02/16/2010 BOS @ SAC W 22 7 1 5 20.0 0 1 0.0 5 6 83.3 2 4 6 1 1 0 2 2 10
+p351
+aVRasheed Wallace BOS 02/16/2010 BOS @ SAC W 24 17 5 9 55.6 1 4 25.0 6 6 100.0 0 5 5 0 1 3 1 4 10
+p352
+aVBrian Scalabrine BOS 02/10/2010 BOS @ NOH L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 11
+p353
+aVMarquis Daniels BOS 02/10/2010 BOS @ NOH L 24 14 7 9 77.8 0 0 - 0 1 0.0 0 2 2 3 2 1 1 0 1
+p354
+aVGlen Davis BOS 02/10/2010 BOS @ NOH L 21 9 4 7 57.1 0 0 - 1 1 100.0 1 3 4 0 1 0 1 2 -1
+p355
+aVPaul Pierce BOS 02/10/2010 BOS @ NOH L 34 15 4 11 36.4 0 3 0.0 7 8 87.5 0 3 3 4 0 0 8 4 -17
+p356
+aVKendrick Perkins BOS 02/10/2010 BOS @ NOH L 23 3 1 4 25.0 0 0 - 1 2 50.0 0 7 7 1 0 1 2 0 -5
+p357
+aVRasheed Wallace BOS 02/10/2010 BOS @ NOH L 25 13 6 9 66.7 1 2 50.0 0 1 0.0 0 5 5 3 2 2 3 2 -5
+p358
+aVKevin Garnett BOS 02/10/2010 BOS @ NOH L 26 7 2 9 22.2 0 1 0.0 3 5 60.0 0 7 7 1 1 1 0 3 -5
+p359
+aVEddie House BOS 02/10/2010 BOS @ NOH L 24 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 3 1 8
+p360
+aVTony Allen BOS 02/10/2010 BOS @ NOH L 24 13 6 9 66.7 0 0 - 1 3 33.3 2 1 3 1 3 0 2 3 -9
+p361
+aVRajon Rondo BOS 02/10/2010 BOS @ NOH L 25 7 2 7 28.6 0 1 0.0 3 6 50.0 2 1 3 4 3 0 2 4 -18
+p362
+aVTony Allen BOS 02/07/2010 BOS vs. ORL L 11 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 2 -11
+p363
+aVRasheed Wallace BOS 02/07/2010 BOS vs. ORL L 19 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 3 0 0 0 3 -10
+p364
+aVEddie House BOS 02/07/2010 BOS vs. ORL L 17 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 2 0 0 0 3 5
+p365
+aVRajon Rondo BOS 02/07/2010 BOS vs. ORL L 36 17 7 13 53.8 2 2 100.0 1 3 33.3 3 5 8 9 3 0 0 1 -3
+p366
+aVKevin Garnett BOS 02/07/2010 BOS vs. ORL L 31 13 5 13 38.5 0 0 - 3 3 100.0 3 6 9 4 1 0 4 2 -7
+p367
+aVRay Allen BOS 02/07/2010 BOS vs. ORL L 40 14 4 13 30.8 1 5 20.0 5 6 83.3 1 1 2 2 0 0 1 2 -3
+p368
+aVPaul Pierce BOS 02/07/2010 BOS vs. ORL L 30 13 5 12 41.7 1 6 16.7 2 2 100.0 2 2 4 0 3 0 3 3 -2
+p369
+aVGlen Davis BOS 02/07/2010 BOS vs. ORL L 22 9 4 11 36.4 0 0 - 1 3 33.3 3 4 7 1 1 1 0 1 3
+p370
+aVKendrick Perkins BOS 02/07/2010 BOS vs. ORL L 22 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 2 4 -5
+p371
+aVMarquis Daniels BOS 02/07/2010 BOS vs. ORL L 13 8 4 7 57.1 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -2
+p372
+aVTony Allen BOS 02/05/2010 BOS vs. NJN W 28 4 2 7 28.6 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -5
+p373
+aVRay Allen BOS 02/05/2010 BOS vs. NJN W 33 26 9 17 52.9 3 7 42.9 5 5 100.0 2 5 7 2 0 0 3 2 4
+p374
+aVGlen Davis BOS 02/05/2010 BOS vs. NJN W 21 13 5 7 71.4 0 0 - 3 4 75.0 2 1 3 2 0 0 1 4 3
+p375
+aVEddie House BOS 02/05/2010 BOS vs. NJN W 25 10 4 10 40.0 2 5 40.0 0 0 - 0 4 4 0 1 0 1 1 8
+p376
+aVBrian Scalabrine BOS 02/05/2010 BOS vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p377
+aVRajon Rondo BOS 02/05/2010 BOS vs. NJN W 44 17 6 8 75.0 0 0 - 5 6 83.3 0 3 3 11 3 1 2 2 17
+p378
+aVKevin Garnett BOS 02/05/2010 BOS vs. NJN W 26 10 5 8 62.5 0 1 0.0 0 0 - 0 7 7 3 2 0 0 1 6
+p379
+aVRasheed Wallace BOS 02/05/2010 BOS vs. NJN W 23 7 3 7 42.9 0 2 0.0 1 2 50.0 1 2 3 5 0 0 0 4 -3
+p380
+aVHenry Walker BOS 02/05/2010 BOS vs. NJN W 9 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 0 4
+p381
+aVKendrick Perkins BOS 02/05/2010 BOS vs. NJN W 26 7 2 6 33.3 0 0 - 3 6 50.0 2 4 6 1 0 0 2 3 10
+p382
+aVKevin Garnett BOS 02/03/2010 BOS vs. MIA W 31 14 6 10 60.0 0 0 - 2 3 66.7 2 4 6 9 0 0 1 4 3
+p383
+aVRasheed Wallace BOS 02/03/2010 BOS vs. MIA W 21 7 3 10 30.0 1 4 25.0 0 0 - 0 2 2 1 0 0 2 3 6
+p384
+aVEddie House BOS 02/03/2010 BOS vs. MIA W 24 16 5 9 55.6 2 4 50.0 4 4 100.0 0 4 4 2 1 0 2 3 2
+p385
+aVRay Allen BOS 02/03/2010 BOS vs. MIA W 42 23 7 15 46.7 1 5 20.0 8 9 88.9 1 6 7 3 3 0 3 2 9
+p386
+aVGlen Davis BOS 02/03/2010 BOS vs. MIA W 17 6 3 5 60.0 0 0 - 0 1 0.0 3 2 5 0 0 0 0 0 -1
+p387
+aVRajon Rondo BOS 02/03/2010 BOS vs. MIA W 44 22 6 13 46.2 2 3 66.7 8 14 57.1 4 2 6 14 3 0 4 0 2
+p388
+aVBrian Scalabrine BOS 02/03/2010 BOS vs. MIA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p389
+aVHenry Walker BOS 02/03/2010 BOS vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p390
+aVKendrick Perkins BOS 02/03/2010 BOS vs. MIA W 27 13 5 8 62.5 0 0 - 3 6 50.0 1 4 5 0 0 2 3 2 4
+p391
+aVTony Allen BOS 02/03/2010 BOS vs. MIA W 27 6 2 6 33.3 0 0 - 2 2 100.0 4 2 6 0 2 0 2 4 -3
+p392
+aVGlen Davis BOS 02/01/2010 BOS @ WAS W 8 1 0 1 0.0 0 0 - 1 4 25.0 0 2 2 2 0 0 0 0 5
+p393
+aVRajon Rondo BOS 02/01/2010 BOS @ WAS W 36 17 6 9 66.7 0 0 - 5 8 62.5 0 4 4 12 2 0 6 4 16
+p394
+aVKevin Garnett BOS 02/01/2010 BOS @ WAS W 32 19 8 9 88.9 0 0 - 3 4 75.0 0 6 6 3 1 0 1 3 13
+p395
+aVEddie House BOS 02/01/2010 BOS @ WAS W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -5
+p396
+aVKendrick Perkins BOS 02/01/2010 BOS @ WAS W 26 9 4 7 57.1 0 0 - 1 1 100.0 0 3 3 1 0 2 1 2 3
+p397
+aVPaul Pierce BOS 02/01/2010 BOS @ WAS W 28 12 3 6 50.0 1 2 50.0 5 6 83.3 1 7 8 0 1 0 2 0 8
+p398
+aVTony Allen BOS 02/01/2010 BOS @ WAS W 28 10 3 9 33.3 0 0 - 4 4 100.0 2 4 6 3 1 1 1 2 1
+p399
+aVBrian Scalabrine BOS 02/01/2010 BOS @ WAS W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -10
+p400
+aVRasheed Wallace BOS 02/01/2010 BOS @ WAS W 22 14 4 7 57.1 0 1 0.0 6 6 100.0 0 5 5 0 1 2 1 4 8
+p401
+aVRay Allen BOS 02/01/2010 BOS @ WAS W 38 17 6 13 46.2 2 5 40.0 3 3 100.0 1 4 5 2 0 0 3 4 16
+p402
+aVGlen Davis BOS 01/31/2010 BOS vs. LAL L 14 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 10
+p403
+aVKevin Garnett BOS 01/31/2010 BOS vs. LAL L 31 10 5 9 55.6 0 0 - 0 0 - 0 9 9 3 1 1 5 3 -13
+p404
+aVPaul Pierce BOS 01/31/2010 BOS vs. LAL L 32 15 4 11 36.4 3 7 42.9 4 4 100.0 0 3 3 1 1 0 4 5 7
+p405
+aVRay Allen BOS 01/31/2010 BOS vs. LAL L 34 7 2 10 20.0 0 6 0.0 3 3 100.0 2 3 5 0 1 0 1 2 -16
+p406
+aVKendrick Perkins BOS 01/31/2010 BOS vs. LAL L 30 8 3 7 42.9 0 0 - 2 5 40.0 3 7 10 0 0 0 2 3 3
+p407
+aVRajon Rondo BOS 01/31/2010 BOS vs. LAL L 38 21 9 16 56.3 0 0 - 3 4 75.0 2 3 5 12 2 0 3 1 0
+p408
+aVRasheed Wallace BOS 01/31/2010 BOS vs. LAL L 21 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 4 2 0 0 4 -2
+p409
+aVEddie House BOS 01/31/2010 BOS vs. LAL L 15 9 3 6 50.0 2 4 50.0 1 1 100.0 0 1 1 0 1 0 0 0 2
+p410
+aVTony Allen BOS 01/31/2010 BOS vs. LAL L 25 14 6 9 66.7 0 0 - 2 2 100.0 1 2 3 0 2 1 2 1 4
+p411
+aVRasheed Wallace BOS 01/29/2010 BOS @ ATL L 26 6 2 8 25.0 1 5 20.0 1 2 50.0 1 1 2 2 0 0 3 4 -13
+p412
+aVBrian Scalabrine BOS 01/29/2010 BOS @ ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p413
+aVGlen Davis BOS 01/29/2010 BOS @ ATL L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 1 -19
+p414
+aVEddie House BOS 01/29/2010 BOS @ ATL L 7 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 0 -14
+p415
+aVKevin Garnett BOS 01/29/2010 BOS @ ATL L 33 15 5 11 45.5 0 0 - 5 6 83.3 2 5 7 3 1 1 3 3 10
+p416
+aVRajon Rondo BOS 01/29/2010 BOS @ ATL L 43 6 3 13 23.1 0 0 - 0 0 - 2 3 5 8 1 0 4 4 2
+p417
+aVRay Allen BOS 01/29/2010 BOS @ ATL L 36 9 4 13 30.8 1 4 25.0 0 1 0.0 0 1 1 2 1 2 1 2 3
+p418
+aVTony Allen BOS 01/29/2010 BOS @ ATL L 15 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 1 -22
+p419
+aVKendrick Perkins BOS 01/29/2010 BOS @ ATL L 23 8 2 4 50.0 0 0 - 4 4 100.0 2 10 12 0 0 1 1 3 5
+p420
+aVPaul Pierce BOS 01/29/2010 BOS @ ATL L 38 35 11 15 73.3 1 1 100.0 12 13 92.3 0 2 2 1 1 1 3 2 8
+p421
+aVGlen Davis BOS 01/28/2010 BOS @ ORL L 17 6 2 6 33.3 0 0 - 2 2 100.0 4 1 5 2 0 0 1 5 -1
+p422
+aVRasheed Wallace BOS 01/28/2010 BOS @ ORL L 26 17 7 14 50.0 3 6 50.0 0 0 - 0 2 2 0 3 1 0 4 -5
+p423
+aVKevin Garnett BOS 01/28/2010 BOS @ ORL L 33 6 2 8 25.0 0 0 - 2 2 100.0 0 7 7 3 2 0 0 3 -4
+p424
+aVBrian Scalabrine BOS 01/28/2010 BOS @ ORL L 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 5
+p425
+aVTony Allen BOS 01/28/2010 BOS @ ORL L 12 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 2 -1
+p426
+aVEddie House BOS 01/28/2010 BOS @ ORL L 14 10 4 7 57.1 2 5 40.0 0 0 - 0 2 2 2 0 0 1 1 -3
+p427
+aVRay Allen BOS 01/28/2010 BOS @ ORL L 41 20 8 12 66.7 4 8 50.0 0 0 - 0 3 3 3 0 2 4 3 -2
+p428
+aVPaul Pierce BOS 01/28/2010 BOS @ ORL L 40 12 3 12 25.0 1 4 25.0 5 5 100.0 0 2 2 3 1 1 4 3 0
+p429
+aVKendrick Perkins BOS 01/28/2010 BOS @ ORL L 15 4 1 2 50.0 0 0 - 2 5 40.0 0 3 3 0 0 0 1 5 1
+p430
+aVRajon Rondo BOS 01/28/2010 BOS @ ORL L 37 11 5 9 55.6 1 1 100.0 0 2 0.0 2 5 7 8 0 0 2 2 0
+p431
+aVGlen Davis BOS 01/25/2010 BOS vs. LAC W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -7
+p432
+aVRasheed Wallace BOS 01/25/2010 BOS vs. LAC W 17 5 2 8 25.0 1 4 25.0 0 0 - 0 4 4 0 1 0 1 3 -9
+p433
+aVKendrick Perkins BOS 01/25/2010 BOS vs. LAC W 33 9 4 8 50.0 0 0 - 1 4 25.0 1 14 15 0 0 2 2 2 13
+p434
+aVKevin Garnett BOS 01/25/2010 BOS vs. LAC W 31 17 7 12 58.3 0 0 - 3 5 60.0 0 2 2 2 0 0 0 1 15
+p435
+aVRay Allen BOS 01/25/2010 BOS vs. LAC W 39 15 5 14 35.7 2 7 28.6 3 4 75.0 1 5 6 4 3 0 2 0 12
+p436
+aVEddie House BOS 01/25/2010 BOS vs. LAC W 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p437
+aVHenry Walker BOS 01/25/2010 BOS vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p438
+aVTony Allen BOS 01/25/2010 BOS vs. LAC W 11 5 2 5 40.0 0 0 - 1 4 25.0 2 0 2 1 2 0 0 1 -5
+p439
+aVRajon Rondo BOS 01/25/2010 BOS vs. LAC W 42 16 6 8 75.0 0 1 0.0 4 6 66.7 1 6 7 12 4 0 3 1 14
+p440
+aVPaul Pierce BOS 01/25/2010 BOS vs. LAC W 37 22 5 10 50.0 1 2 50.0 11 11 100.0 0 5 5 2 0 1 5 3 10
+p441
+aVKevin Garnett BOS 01/22/2010 BOS vs. POR W 30 13 4 9 44.4 0 0 - 5 5 100.0 0 4 4 3 0 2 1 5 -9
+p442
+aVRay Allen BOS 01/22/2010 BOS vs. POR W 43 9 3 14 21.4 1 5 20.0 2 4 50.0 0 3 3 4 1 1 1 1 2
+p443
+aVPaul Pierce BOS 01/22/2010 BOS vs. POR W 36 24 9 13 69.2 2 3 66.7 4 4 100.0 0 3 3 4 1 1 3 6 0
+p444
+aVKendrick Perkins BOS 01/22/2010 BOS vs. POR W 28 4 1 2 50.0 0 0 - 2 2 100.0 3 8 11 0 1 2 1 5 3
+p445
+aVEddie House BOS 01/22/2010 BOS vs. POR W 18 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 3 1 0 0 0 3
+p446
+aVTony Allen BOS 01/22/2010 BOS vs. POR W 23 8 4 5 80.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 10
+p447
+aVGlen Davis BOS 01/22/2010 BOS vs. POR W 18 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 1 3
+p448
+aVRajon Rondo BOS 01/22/2010 BOS vs. POR W 39 19 9 14 64.3 0 1 0.0 1 1 100.0 2 4 6 9 2 0 6 4 -6
+p449
+aVRasheed Wallace BOS 01/22/2010 BOS vs. POR W 29 14 6 13 46.2 2 7 28.6 0 0 - 0 6 6 2 0 1 1 4 9
+p450
+aVTony Allen BOS 01/20/2010 BOS @ DET L 16 4 2 4 50.0 0 1 0.0 0 2 0.0 1 0 1 1 1 1 1 1 7
+p451
+aVBrian Scalabrine BOS 01/20/2010 BOS @ DET L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -4
+p452
+aVHenry Walker BOS 01/20/2010 BOS @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p453
+aVRay Allen BOS 01/20/2010 BOS @ DET L 34 8 3 10 30.0 0 4 0.0 2 2 100.0 1 4 5 1 0 0 5 3 -15
+p454
+aVRajon Rondo BOS 01/20/2010 BOS @ DET L 43 21 8 16 50.0 0 1 0.0 5 8 62.5 1 7 8 7 4 0 1 3 -3
+p455
+aVGlen Davis BOS 01/20/2010 BOS @ DET L 15 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 1 2 1 1 5
+p456
+aVRasheed Wallace BOS 01/20/2010 BOS @ DET L 39 16 5 13 38.5 2 5 40.0 4 6 66.7 0 7 7 0 3 1 1 1 1
+p457
+aVKendrick Perkins BOS 01/20/2010 BOS @ DET L 35 8 4 7 57.1 0 0 - 0 0 - 1 3 4 2 1 3 4 5 -15
+p458
+aVEddie House BOS 01/20/2010 BOS @ DET L 14 4 1 5 20.0 1 3 33.3 1 1 100.0 1 2 3 2 0 0 0 0 -3
+p459
+aVPaul Pierce BOS 01/20/2010 BOS @ DET L 35 21 6 12 50.0 2 5 40.0 7 7 100.0 0 6 6 2 2 0 4 3 -4
+p460
+aVRay Allen BOS 01/18/2010 BOS vs. DAL L 42 21 9 15 60.0 2 4 50.0 1 1 100.0 1 2 3 4 0 0 0 1 -7
+p461
+aVGlen Davis BOS 01/18/2010 BOS vs. DAL L 15 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 1 -6
+p462
+aVJ.R. Giddens BOS 01/18/2010 BOS vs. DAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p463
+aVRajon Rondo BOS 01/18/2010 BOS vs. DAL L 37 7 3 8 37.5 0 0 - 1 2 50.0 1 3 4 12 2 1 2 3 -15
+p464
+aVBrian Scalabrine BOS 01/18/2010 BOS vs. DAL L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -3
+p465
+aVHenry Walker BOS 01/18/2010 BOS vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p466
+aVKendrick Perkins BOS 01/18/2010 BOS vs. DAL L 35 14 7 10 70.0 0 0 - 0 2 0.0 2 10 12 0 2 2 3 3 -9
+p467
+aVEddie House BOS 01/18/2010 BOS vs. DAL L 19 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 2 3
+p468
+aVTony Allen BOS 01/18/2010 BOS vs. DAL L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 4 0 0 1 2 5
+p469
+aVRasheed Wallace BOS 01/18/2010 BOS vs. DAL L 35 11 5 13 38.5 0 4 0.0 1 3 33.3 0 3 3 0 1 0 3 5 -3
+p470
+aVPaul Pierce BOS 01/18/2010 BOS vs. DAL L 35 24 9 17 52.9 2 4 50.0 4 6 66.7 0 3 3 3 2 1 3 1 -14
+p471
+aVKendrick Perkins BOS 01/14/2010 BOS vs. CHI L 37 14 5 9 55.6 0 0 - 4 7 57.1 4 6 10 1 1 5 1 3 -15
+p472
+aVEddie House BOS 01/14/2010 BOS vs. CHI L 19 11 5 6 83.3 1 2 50.0 0 0 - 0 1 1 2 0 0 1 0 8
+p473
+aVTony Allen BOS 01/14/2010 BOS vs. CHI L 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 2 2 -2
+p474
+aVGlen Davis BOS 01/14/2010 BOS vs. CHI L 26 6 2 4 50.0 0 0 - 2 4 50.0 2 6 8 0 1 0 2 3 -1
+p475
+aVShelden Williams BOS 01/14/2010 BOS vs. CHI L 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 1
+p476
+aVBrian Scalabrine BOS 01/14/2010 BOS vs. CHI L 20 7 3 8 37.5 1 5 20.0 0 0 - 0 3 3 0 0 0 0 5 -10
+p477
+aVPaul Pierce BOS 01/14/2010 BOS vs. CHI L 40 20 6 18 33.3 2 5 40.0 6 10 60.0 1 7 8 6 0 0 1 3 -9
+p478
+aVRajon Rondo BOS 01/14/2010 BOS vs. CHI L 41 15 6 14 42.9 0 1 0.0 3 7 42.9 2 1 3 7 3 0 5 2 -18
+p479
+aVRay Allen BOS 01/14/2010 BOS vs. CHI L 36 8 4 10 40.0 0 4 0.0 0 0 - 0 1 1 0 0 0 3 2 -17
+p480
+aVJ.R. Giddens BOS 01/14/2010 BOS vs. CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p481
+aVJ.R. Giddens BOS 01/13/2010 BOS @ NJN W 16 6 3 5 60.0 0 0 - 0 2 0.0 2 5 7 1 1 0 0 2 3
+p482
+aVShelden Williams BOS 01/13/2010 BOS @ NJN W 18 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 0 0 1 5 4
+p483
+aVTony Allen BOS 01/13/2010 BOS @ NJN W 25 11 5 10 50.0 0 0 - 1 3 33.3 2 3 5 2 2 0 3 3 8
+p484
+aVGlen Davis BOS 01/13/2010 BOS @ NJN W 18 13 5 8 62.5 0 0 - 3 6 50.0 4 0 4 0 0 0 2 5 -3
+p485
+aVPaul Pierce BOS 01/13/2010 BOS @ NJN W 28 24 6 9 66.7 3 5 60.0 9 9 100.0 2 4 6 3 1 0 2 2 23
+p486
+aVHenry Walker BOS 01/13/2010 BOS @ NJN W 6 6 3 4 75.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 2
+p487
+aVEddie House BOS 01/13/2010 BOS @ NJN W 21 2 1 9 11.1 0 2 0.0 0 0 - 0 2 2 1 2 0 0 1 5
+p488
+aVKendrick Perkins BOS 01/13/2010 BOS @ NJN W 26 12 6 9 66.7 0 0 - 0 2 0.0 2 6 8 2 1 5 1 4 20
+p489
+aVBrian Scalabrine BOS 01/13/2010 BOS @ NJN W 28 11 4 11 36.4 2 7 28.6 1 2 50.0 0 4 4 4 1 0 1 2 23
+p490
+aVRay Allen BOS 01/13/2010 BOS @ NJN W 25 15 5 7 71.4 1 2 50.0 4 4 100.0 1 1 2 1 0 0 1 2 13
+p491
+aVRajon Rondo BOS 01/13/2010 BOS @ NJN W 29 11 5 7 71.4 0 1 0.0 1 2 50.0 0 1 1 14 1 0 3 2 22
+p492
+aVRay Allen BOS 01/11/2010 BOS vs. ATL L 43 16 5 10 50.0 3 5 60.0 3 3 100.0 0 5 5 3 0 0 2 4 -2
+p493
+aVBrian Scalabrine BOS 01/11/2010 BOS vs. ATL L 21 9 3 4 75.0 3 3 100.0 0 0 - 1 4 5 1 0 0 0 4 9
+p494
+aVGlen Davis BOS 01/11/2010 BOS vs. ATL L 28 13 4 6 66.7 0 0 - 5 6 83.3 1 3 4 1 1 0 1 2 -13
+p495
+aVPaul Pierce BOS 01/11/2010 BOS vs. ATL L 42 19 8 15 53.3 3 6 50.0 0 0 - 0 8 8 5 0 0 4 3 -7
+p496
+aVRajon Rondo BOS 01/11/2010 BOS vs. ATL L 45 26 12 20 60.0 1 5 20.0 1 2 50.0 0 3 3 7 1 0 3 3 -8
+p497
+aVTony Allen BOS 01/11/2010 BOS vs. ATL L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p498
+aVShelden Williams BOS 01/11/2010 BOS vs. ATL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p499
+aVEddie House BOS 01/11/2010 BOS vs. ATL L 6 0 0 1 0.0 0 1 0.0 0 1 0.0 0 0 0 0 0 1 0 0 -2
+p500
+aVKendrick Perkins BOS 01/11/2010 BOS vs. ATL L 42 11 3 7 42.9 0 0 - 5 6 83.3 1 8 9 1 0 1 6 3 -13
+p501
+aVShelden Williams BOS 01/10/2010 BOS @ TOR W 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -3
+p502
+aVRajon Rondo BOS 01/10/2010 BOS @ TOR W 44 22 9 17 52.9 1 1 100.0 3 4 75.0 2 8 10 13 4 0 3 0 4
+p503
+aVPaul Pierce BOS 01/10/2010 BOS @ TOR W 34 16 4 11 36.4 1 3 33.3 7 7 100.0 0 4 4 4 0 0 1 2 11
+p504
+aVBrian Scalabrine BOS 01/10/2010 BOS @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p505
+aVRasheed Wallace BOS 01/10/2010 BOS @ TOR W 34 29 9 12 75.0 5 7 71.4 6 6 100.0 1 7 8 0 1 2 0 4 6
+p506
+aVGlen Davis BOS 01/10/2010 BOS @ TOR W 18 2 1 5 20.0 0 0 - 0 0 - 5 1 6 0 1 0 2 3 3
+p507
+aVKendrick Perkins BOS 01/10/2010 BOS @ TOR W 34 16 6 9 66.7 0 1 0.0 4 10 40.0 5 1 6 2 1 4 4 4 4
+p508
+aVEddie House BOS 01/10/2010 BOS @ TOR W 16 11 4 10 40.0 3 9 33.3 0 0 - 0 0 0 0 0 0 0 5 3
+p509
+aVRay Allen BOS 01/10/2010 BOS @ TOR W 42 16 6 13 46.2 1 5 20.0 3 5 60.0 1 3 4 5 0 0 0 1 13
+p510
+aVTony Allen BOS 01/10/2010 BOS @ TOR W 8 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 2 3 0 1 1 -6
+p511
+aVJ.R. Giddens BOS 01/10/2010 BOS @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p512
+aVGlen Davis BOS 01/08/2010 BOS @ ATL L 13 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 2 0
+p513
+aVEddie House BOS 01/08/2010 BOS @ ATL L 16 7 2 6 33.3 1 2 50.0 2 2 100.0 0 2 2 3 0 0 0 2 3
+p514
+aVBrian Scalabrine BOS 01/08/2010 BOS @ ATL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p515
+aVPaul Pierce BOS 01/08/2010 BOS @ ATL L 41 21 8 16 50.0 2 5 40.0 3 6 50.0 1 4 5 0 6 0 4 1 -8
+p516
+aVRasheed Wallace BOS 01/08/2010 BOS @ ATL L 39 11 5 15 33.3 1 8 12.5 0 0 - 1 2 3 4 1 1 1 2 -9
+p517
+aVKendrick Perkins BOS 01/08/2010 BOS @ ATL L 38 15 6 10 60.0 0 0 - 3 4 75.0 4 10 14 2 1 0 3 2 -7
+p518
+aVJ.R. Giddens BOS 01/08/2010 BOS @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p519
+aVRay Allen BOS 01/08/2010 BOS @ ATL L 41 15 5 16 31.3 3 7 42.9 2 2 100.0 0 2 2 2 2 0 1 1 -11
+p520
+aVShelden Williams BOS 01/08/2010 BOS @ ATL L 6 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 2 3 1 0
+p521
+aVRajon Rondo BOS 01/08/2010 BOS @ ATL L 42 11 4 9 44.4 2 2 100.0 1 2 50.0 2 3 5 10 1 0 2 3 -10
+p522
+aVRay Allen BOS 01/06/2010 BOS @ MIA W 37 22 6 10 60.0 3 4 75.0 7 7 100.0 0 3 3 1 4 2 3 5 13
+p523
+aVGlen Davis BOS 01/06/2010 BOS @ MIA W 19 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 1 0 1 1 1 -7
+p524
+aVTony Allen BOS 01/06/2010 BOS @ MIA W 19 9 4 6 66.7 0 1 0.0 1 3 33.3 1 0 1 0 1 0 3 4 -14
+p525
+aVRajon Rondo BOS 01/06/2010 BOS @ MIA W 50 25 9 12 75.0 0 2 0.0 7 8 87.5 0 4 4 8 0 0 6 4 13
+p526
+aVKendrick Perkins BOS 01/06/2010 BOS @ MIA W 41 20 7 10 70.0 0 1 0.0 6 9 66.7 2 8 10 3 0 3 2 2 12
+p527
+aVShelden Williams BOS 01/06/2010 BOS @ MIA W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -7
+p528
+aVPaul Pierce BOS 01/06/2010 BOS @ MIA W 43 17 4 12 33.3 1 3 33.3 8 9 88.9 0 6 6 5 2 1 5 2 14
+p529
+aVBrian Scalabrine BOS 01/06/2010 BOS @ MIA W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 0 -6
+p530
+aVRasheed Wallace BOS 01/06/2010 BOS @ MIA W 36 16 6 11 54.5 3 5 60.0 1 1 100.0 0 9 9 1 2 1 3 6 12
+p531
+aVGlen Davis BOS 01/02/2010 BOS vs. TOR W 20 15 5 9 55.6 0 0 - 5 7 71.4 1 4 5 0 1 0 1 2 -1
+p532
+aVJ.R. Giddens BOS 01/02/2010 BOS vs. TOR W 20 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 1 2 2 2
+p533
+aVTony Allen BOS 01/02/2010 BOS vs. TOR W 36 14 4 8 50.0 0 0 - 6 9 66.7 2 3 5 7 1 1 3 4 6
+p534
+aVKendrick Perkins BOS 01/02/2010 BOS vs. TOR W 30 14 5 8 62.5 0 0 - 4 4 100.0 3 7 10 1 1 1 4 2 8
+p535
+aVRay Allen BOS 01/02/2010 BOS vs. TOR W 32 23 8 13 61.5 1 4 25.0 6 7 85.7 0 2 2 4 2 0 1 3 11
+p536
+aVBrian Scalabrine BOS 01/02/2010 BOS vs. TOR W 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 0
+p537
+aVRasheed Wallace BOS 01/02/2010 BOS vs. TOR W 35 16 6 11 54.5 2 5 40.0 2 2 100.0 0 6 6 4 3 1 0 1 17
+p538
+aVLester Hudson BOS 01/02/2010 BOS vs. TOR W 12 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 2 0 0 2 1 1
+p539
+aVShelden Williams BOS 01/02/2010 BOS vs. TOR W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 4 -10
+p540
+aVEddie House BOS 01/02/2010 BOS vs. TOR W 29 12 4 11 36.4 2 6 33.3 2 2 100.0 1 3 4 4 0 1 0 0 1
+p541
+aVKendrick Perkins BOS 12/30/2009 BOS @ PHX L 30 13 6 11 54.5 0 0 - 1 5 20.0 2 5 7 1 0 0 1 4 -17
+p542
+aVTony Allen BOS 12/30/2009 BOS @ PHX L 32 12 3 8 37.5 0 0 - 6 6 100.0 3 4 7 6 3 0 4 5 -8
+p543
+aVJ.R. Giddens BOS 12/30/2009 BOS @ PHX L 8 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 0 3
+p544
+aVEddie House BOS 12/30/2009 BOS @ PHX L 22 19 7 13 53.8 5 7 71.4 0 0 - 0 1 1 0 1 0 0 2 -8
+p545
+aVRasheed Wallace BOS 12/30/2009 BOS @ PHX L 31 6 3 11 27.3 0 4 0.0 0 0 - 2 2 4 0 1 1 1 3 -11
+p546
+aVLester Hudson BOS 12/30/2009 BOS @ PHX L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 2 0 5
+p547
+aVShelden Williams BOS 12/30/2009 BOS @ PHX L 19 14 4 8 50.0 0 0 - 6 10 60.0 1 4 5 0 1 0 0 3 -4
+p548
+aVHenry Walker BOS 12/30/2009 BOS @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p549
+aVRay Allen BOS 12/30/2009 BOS @ PHX L 35 15 4 13 30.8 1 5 20.0 6 6 100.0 0 4 4 1 0 1 2 0 -12
+p550
+aVRajon Rondo BOS 12/30/2009 BOS @ PHX L 32 13 5 12 41.7 0 2 0.0 3 3 100.0 1 0 1 8 2 0 3 2 -21
+p551
+aVBrian Scalabrine BOS 12/30/2009 BOS @ PHX L 23 0 0 3 0.0 0 3 0.0 0 0 - 2 2 4 1 1 0 1 6 -14
+p552
+aVGlen Davis BOS 12/28/2009 BOS @ GSW L 10 3 1 5 20.0 0 0 - 1 1 100.0 4 1 5 0 0 0 4 4 -6
+p553
+aVKevin Garnett BOS 12/28/2009 BOS @ GSW L 31 16 7 14 50.0 0 0 - 2 2 100.0 0 9 9 2 0 2 3 1 1
+p554
+aVRay Allen BOS 12/28/2009 BOS @ GSW L 44 24 10 21 47.6 1 7 14.3 3 5 60.0 0 5 5 3 0 0 3 4 1
+p555
+aVEddie House BOS 12/28/2009 BOS @ GSW L 24 6 2 6 33.3 1 4 25.0 1 1 100.0 0 1 1 3 2 0 0 1 -14
+p556
+aVTony Allen BOS 12/28/2009 BOS @ GSW L 28 6 3 6 50.0 0 0 - 0 1 0.0 0 3 3 2 2 1 5 3 7
+p557
+aVKendrick Perkins BOS 12/28/2009 BOS @ GSW L 28 8 4 5 80.0 0 0 - 0 2 0.0 5 9 14 2 0 2 4 5 3
+p558
+aVBrian Scalabrine BOS 12/28/2009 BOS @ GSW L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p559
+aVRajon Rondo BOS 12/28/2009 BOS @ GSW L 46 30 11 18 61.1 1 3 33.3 7 9 77.8 1 2 3 15 3 0 6 3 0
+p560
+aVRasheed Wallace BOS 12/28/2009 BOS @ GSW L 21 6 2 5 40.0 2 5 40.0 0 0 - 0 4 4 1 1 0 0 2 -3
+p561
+aVGlen Davis BOS 12/27/2009 BOS @ LAC L 15 8 3 4 75.0 0 0 - 2 2 100.0 5 1 6 1 1 1 1 3 5
+p562
+aVRay Allen BOS 12/27/2009 BOS @ LAC L 39 13 6 12 50.0 1 3 33.3 0 0 - 0 2 2 5 0 0 2 2 3
+p563
+aVKevin Garnett BOS 12/27/2009 BOS @ LAC L 31 12 5 13 38.5 0 0 - 2 2 100.0 0 8 8 2 1 1 1 4 -4
+p564
+aVKendrick Perkins BOS 12/27/2009 BOS @ LAC L 26 9 4 5 80.0 0 0 - 1 2 50.0 3 3 6 0 0 1 4 3 -1
+p565
+aVRasheed Wallace BOS 12/27/2009 BOS @ LAC L 24 8 4 16 25.0 0 6 0.0 0 0 - 0 3 3 2 1 1 0 1 -6
+p566
+aVRajon Rondo BOS 12/27/2009 BOS @ LAC L 38 20 9 16 56.3 0 2 0.0 2 5 40.0 1 1 2 6 2 0 1 3 -6
+p567
+aVEddie House BOS 12/27/2009 BOS @ LAC L 17 10 4 7 57.1 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 2 -1
+p568
+aVTony Allen BOS 12/27/2009 BOS @ LAC L 40 10 4 10 40.0 0 0 - 2 2 100.0 3 7 10 4 4 0 2 3 0
+p569
+aVBrian Scalabrine BOS 12/27/2009 BOS @ LAC L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 2 0
+p570
+aVRajon Rondo BOS 12/25/2009 BOS @ ORL W 47 17 7 18 38.9 0 0 - 3 7 42.9 4 9 13 8 2 0 8 4 9
+p571
+aVRay Allen BOS 12/25/2009 BOS @ ORL W 43 18 5 12 41.7 2 5 40.0 6 7 85.7 1 5 6 4 0 0 4 2 11
+p572
+aVEddie House BOS 12/25/2009 BOS @ ORL W 17 5 1 6 16.7 0 4 0.0 3 3 100.0 0 0 0 0 1 0 0 0 10
+p573
+aVBrian Scalabrine BOS 12/25/2009 BOS @ ORL W 16 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 1 1 0 0 3 -3
+p574
+aVTony Allen BOS 12/25/2009 BOS @ ORL W 22 16 6 11 54.5 0 0 - 4 7 57.1 2 2 4 1 0 1 1 4 0
+p575
+aVKevin Garnett BOS 12/25/2009 BOS @ ORL W 33 10 3 9 33.3 0 0 - 4 4 100.0 1 6 7 3 2 0 2 1 2
+p576
+aVShelden Williams BOS 12/25/2009 BOS @ ORL W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -2
+p577
+aVKendrick Perkins BOS 12/25/2009 BOS @ ORL W 21 6 3 4 75.0 0 0 - 0 0 - 0 4 4 2 0 3 4 4 19
+p578
+aVGlen Davis BOS 12/25/2009 BOS @ ORL W 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 3
+p579
+aVRasheed Wallace BOS 12/25/2009 BOS @ ORL W 32 11 5 7 71.4 1 2 50.0 0 0 - 1 7 8 0 2 1 1 4 -4
+p580
+aVPaul Pierce BOS 12/22/2009 BOS vs. IND W 40 21 4 15 26.7 1 2 50.0 12 13 92.3 1 5 6 1 5 0 2 2 8
+p581
+aVKendrick Perkins BOS 12/22/2009 BOS vs. IND W 36 19 6 11 54.5 0 0 - 7 8 87.5 4 4 8 2 0 4 5 2 6
+p582
+aVEddie House BOS 12/22/2009 BOS vs. IND W 14 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 1 0 0 0 2 5
+p583
+aVBrian Scalabrine BOS 12/22/2009 BOS vs. IND W 22 2 0 5 0.0 0 2 0.0 2 2 100.0 1 2 3 2 0 0 0 1 -2
+p584
+aVRasheed Wallace BOS 12/22/2009 BOS vs. IND W 36 9 3 8 37.5 1 4 25.0 2 2 100.0 3 10 13 3 3 1 0 5 11
+p585
+aVRay Allen BOS 12/22/2009 BOS vs. IND W 40 23 6 14 42.9 2 8 25.0 9 9 100.0 2 5 7 3 1 1 1 3 6
+p586
+aVTony Allen BOS 12/22/2009 BOS vs. IND W 11 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 4
+p587
+aVRajon Rondo BOS 12/22/2009 BOS vs. IND W 41 15 5 14 35.7 0 0 - 5 6 83.3 0 1 1 9 6 1 2 4 7
+p588
+aVTony Allen BOS 12/20/2009 BOS vs. MIN W 25 15 5 8 62.5 0 0 - 5 7 71.4 0 6 6 3 1 1 0 4 16
+p589
+aVPaul Pierce BOS 12/20/2009 BOS vs. MIN W 34 29 8 14 57.1 6 6 100.0 7 7 100.0 1 6 7 4 0 0 2 3 16
+p590
+aVJ.R. Giddens BOS 12/20/2009 BOS vs. MIN W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p591
+aVShelden Williams BOS 12/20/2009 BOS vs. MIN W 14 0 0 2 0.0 0 0 - 0 2 0.0 3 1 4 1 0 0 1 3 1
+p592
+aVKevin Garnett BOS 12/20/2009 BOS vs. MIN W 28 10 4 5 80.0 0 0 - 2 2 100.0 0 8 8 1 0 2 1 0 28
+p593
+aVKendrick Perkins BOS 12/20/2009 BOS vs. MIN W 30 14 7 10 70.0 0 0 - 0 0 - 4 7 11 3 0 3 6 3 15
+p594
+aVEddie House BOS 12/20/2009 BOS vs. MIN W 12 7 1 6 16.7 0 2 0.0 5 5 100.0 0 0 0 4 1 0 1 0 -2
+p595
+aVRajon Rondo BOS 12/20/2009 BOS vs. MIN W 33 13 6 12 50.0 0 1 0.0 1 2 50.0 1 1 2 15 3 0 3 2 23
+p596
+aVRay Allen BOS 12/20/2009 BOS vs. MIN W 30 20 8 15 53.3 3 6 50.0 1 2 50.0 0 1 1 1 0 0 0 5 9
+p597
+aVBrian Scalabrine BOS 12/20/2009 BOS vs. MIN W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -6
+p598
+aVLester Hudson BOS 12/20/2009 BOS vs. MIN W 3 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 0 1 0 0 1 -1
+p599
+aVRasheed Wallace BOS 12/20/2009 BOS vs. MIN W 20 10 3 6 50.0 0 3 0.0 4 4 100.0 0 4 4 1 1 1 2 3 -8
+p600
+aVKevin Garnett BOS 12/18/2009 BOS vs. PHI L 34 21 5 14 35.7 0 0 - 11 11 100.0 4 6 10 4 1 4 1 1 0
+p601
+aVPaul Pierce BOS 12/18/2009 BOS vs. PHI L 34 9 4 12 33.3 1 3 33.3 0 0 - 0 6 6 3 1 0 3 3 -4
+p602
+aVRay Allen BOS 12/18/2009 BOS vs. PHI L 37 17 7 17 41.2 3 8 37.5 0 0 - 2 3 5 2 1 0 2 0 7
+p603
+aVRasheed Wallace BOS 12/18/2009 BOS vs. PHI L 9 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 1 0 2 3 1
+p604
+aVKendrick Perkins BOS 12/18/2009 BOS vs. PHI L 32 12 5 10 50.0 0 0 - 2 4 50.0 8 8 16 0 0 3 3 5 -1
+p605
+aVBrian Scalabrine BOS 12/18/2009 BOS vs. PHI L 9 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p606
+aVTony Allen BOS 12/18/2009 BOS vs. PHI L 20 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 2 3 0 0 2 -3
+p607
+aVRajon Rondo BOS 12/18/2009 BOS vs. PHI L 39 13 5 8 62.5 0 0 - 3 6 50.0 0 2 2 10 3 0 4 4 -2
+p608
+aVEddie House BOS 12/18/2009 BOS vs. PHI L 15 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 1
+p609
+aVShelden Williams BOS 12/18/2009 BOS vs. PHI L 12 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 3 -2
+p610
+aVBrian Scalabrine BOS 12/14/2009 BOS @ MEM W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p611
+aVRasheed Wallace BOS 12/14/2009 BOS @ MEM W 24 15 6 15 40.0 1 6 16.7 2 2 100.0 1 3 4 2 1 2 0 4 -4
+p612
+aVKevin Garnett BOS 12/14/2009 BOS @ MEM W 33 13 5 7 71.4 0 0 - 3 3 100.0 0 8 8 3 0 1 1 5 4
+p613
+aVShelden Williams BOS 12/14/2009 BOS @ MEM W 12 1 0 0 - 0 0 - 1 2 50.0 4 1 5 0 0 0 1 1 0
+p614
+aVEddie House BOS 12/14/2009 BOS @ MEM W 16 9 4 7 57.1 1 4 25.0 0 0 - 0 1 1 0 0 0 0 0 3
+p615
+aVPaul Pierce BOS 12/14/2009 BOS @ MEM W 41 19 5 11 45.5 3 3 100.0 6 8 75.0 1 1 2 6 1 2 2 2 5
+p616
+aVKendrick Perkins BOS 12/14/2009 BOS @ MEM W 27 13 6 10 60.0 0 0 - 1 1 100.0 0 6 6 0 1 1 2 6 10
+p617
+aVRajon Rondo BOS 12/14/2009 BOS @ MEM W 35 18 8 12 66.7 0 1 0.0 2 3 66.7 0 2 2 9 1 1 4 2 7
+p618
+aVRay Allen BOS 12/14/2009 BOS @ MEM W 37 18 6 13 46.2 5 6 83.3 1 2 50.0 2 2 4 4 1 0 1 0 3
+p619
+aVTony Allen BOS 12/14/2009 BOS @ MEM W 15 4 2 5 40.0 0 0 - 0 0 - 3 1 4 1 1 0 1 1 -3
+p620
+aVPaul Pierce BOS 12/12/2009 BOS @ CHI W 25 14 4 12 33.3 2 5 40.0 4 4 100.0 1 2 3 3 1 0 0 4 10
+p621
+aVShelden Williams BOS 12/12/2009 BOS @ CHI W 21 4 2 4 50.0 0 0 - 0 0 - 1 7 8 1 0 2 0 2 11
+p622
+aVEddie House BOS 12/12/2009 BOS @ CHI W 21 15 5 15 33.3 3 10 30.0 2 3 66.7 1 2 3 0 2 2 0 1 14
+p623
+aVRajon Rondo BOS 12/12/2009 BOS @ CHI W 39 16 6 13 46.2 0 1 0.0 4 5 80.0 0 7 7 14 3 1 5 2 20
+p624
+aVLester Hudson BOS 12/12/2009 BOS @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p625
+aVJ.R. Giddens BOS 12/12/2009 BOS @ CHI W 4 4 1 3 33.3 0 1 0.0 2 4 50.0 0 0 0 1 0 0 0 0 5
+p626
+aVKendrick Perkins BOS 12/12/2009 BOS @ CHI W 22 10 3 5 60.0 0 0 - 4 6 66.7 0 5 5 1 0 3 0 3 8
+p627
+aVRay Allen BOS 12/12/2009 BOS @ CHI W 30 10 4 10 40.0 2 4 50.0 0 0 - 0 3 3 2 0 1 1 2 19
+p628
+aVKevin Garnett BOS 12/12/2009 BOS @ CHI W 27 12 6 8 75.0 0 0 - 0 2 0.0 2 8 10 2 0 1 1 1 13
+p629
+aVBrian Scalabrine BOS 12/12/2009 BOS @ CHI W 16 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 2 11
+p630
+aVTony Allen BOS 12/12/2009 BOS @ CHI W 11 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 0 1 0 2 1 4
+p631
+aVRasheed Wallace BOS 12/12/2009 BOS @ CHI W 22 15 5 12 41.7 1 5 20.0 4 4 100.0 3 2 5 0 1 2 0 3 13
+p632
+aVEddie House BOS 12/10/2009 BOS @ WAS W 17 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 3
+p633
+aVKendrick Perkins BOS 12/10/2009 BOS @ WAS W 31 16 5 7 71.4 0 0 - 6 11 54.5 3 8 11 0 0 2 3 3 -6
+p634
+aVRay Allen BOS 12/10/2009 BOS @ WAS W 39 18 5 11 45.5 2 6 33.3 6 6 100.0 2 5 7 2 0 0 3 2 -1
+p635
+aVPaul Pierce BOS 12/10/2009 BOS @ WAS W 33 12 2 8 25.0 2 5 40.0 6 10 60.0 0 5 5 2 2 0 0 4 -3
+p636
+aVShelden Williams BOS 12/10/2009 BOS @ WAS W 13 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 3 0 0 0 1 1
+p637
+aVTony Allen BOS 12/10/2009 BOS @ WAS W 17 8 4 5 80.0 0 0 - 0 1 0.0 2 1 3 0 2 0 3 3 14
+p638
+aVRajon Rondo BOS 12/10/2009 BOS @ WAS W 38 21 10 20 50.0 0 0 - 1 1 100.0 1 2 3 11 0 1 1 3 -7
+p639
+aVRasheed Wallace BOS 12/10/2009 BOS @ WAS W 19 4 0 2 0.0 0 1 0.0 4 4 100.0 1 4 5 0 0 1 0 2 9
+p640
+aVKevin Garnett BOS 12/10/2009 BOS @ WAS W 33 17 8 14 57.1 0 0 - 1 2 50.0 0 5 5 2 2 1 2 2 0
+p641
+aVKevin Garnett BOS 12/08/2009 BOS vs. MIL W 33 25 9 13 69.2 0 0 - 7 9 77.8 1 8 9 0 2 0 2 4 13
+p642
+aVRay Allen BOS 12/08/2009 BOS vs. MIL W 36 13 4 9 44.4 2 4 50.0 3 3 100.0 0 2 2 1 1 1 1 0 11
+p643
+aVBrian Scalabrine BOS 12/08/2009 BOS vs. MIL W 15 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 2 0 1 4 -3
+p644
+aVTony Allen BOS 12/08/2009 BOS vs. MIL W 6 0 0 0 - 0 0 - 0 2 0.0 0 1 1 1 0 0 2 2 -8
+p645
+aVEddie House BOS 12/08/2009 BOS vs. MIL W 22 4 1 7 14.3 1 4 25.0 1 2 50.0 0 2 2 0 3 0 0 2 -6
+p646
+aVShelden Williams BOS 12/08/2009 BOS vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p647
+aVRajon Rondo BOS 12/08/2009 BOS vs. MIL W 39 11 3 9 33.3 0 2 0.0 5 7 71.4 3 6 9 13 5 0 1 4 18
+p648
+aVPaul Pierce BOS 12/08/2009 BOS vs. MIL W 38 15 5 9 55.6 0 2 0.0 5 6 83.3 0 5 5 5 1 0 5 3 10
+p649
+aVRasheed Wallace BOS 12/08/2009 BOS vs. MIL W 18 13 5 8 62.5 3 4 75.0 0 0 - 0 2 2 1 1 0 0 1 -6
+p650
+aVKendrick Perkins BOS 12/08/2009 BOS vs. MIL W 30 15 7 8 87.5 0 0 - 1 2 50.0 1 4 5 2 2 0 2 3 15
+p651
+aVRay Allen BOS 12/04/2009 BOS @ OKC W 33 11 4 11 36.4 1 4 25.0 2 3 66.7 1 3 4 3 1 0 1 2 27
+p652
+aVRasheed Wallace BOS 12/04/2009 BOS @ OKC W 18 10 3 7 42.9 2 2 100.0 2 2 100.0 0 3 3 1 1 0 1 1 -5
+p653
+aVLester Hudson BOS 12/04/2009 BOS @ OKC W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -6
+p654
+aVMarquis Daniels BOS 12/04/2009 BOS @ OKC W 19 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 2 2 -2
+p655
+aVRajon Rondo BOS 12/04/2009 BOS @ OKC W 31 15 7 11 63.6 0 0 - 1 4 25.0 1 1 2 6 4 0 1 2 27
+p656
+aVKendrick Perkins BOS 12/04/2009 BOS @ OKC W 26 13 5 7 71.4 0 0 - 3 4 75.0 2 6 8 2 0 1 0 2 29
+p657
+aVJ.R. Giddens BOS 12/04/2009 BOS @ OKC W 8 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 1 3 -7
+p658
+aVKevin Garnett BOS 12/04/2009 BOS @ OKC W 26 23 10 11 90.9 0 0 - 3 3 100.0 2 6 8 3 0 0 3 1 26
+p659
+aVShelden Williams BOS 12/04/2009 BOS @ OKC W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 2 0 1 2 -12
+p660
+aVEddie House BOS 12/04/2009 BOS @ OKC W 17 11 4 8 50.0 3 5 60.0 0 0 - 0 3 3 1 2 0 1 0 -9
+p661
+aVBrian Scalabrine BOS 12/04/2009 BOS @ OKC W 15 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -2
+p662
+aVPaul Pierce BOS 12/04/2009 BOS @ OKC W 31 21 6 11 54.5 3 6 50.0 6 6 100.0 1 5 6 4 0 0 2 2 24
+p663
+aVRasheed Wallace BOS 12/03/2009 BOS @ SAS W 16 13 4 9 44.4 2 5 40.0 3 5 60.0 1 1 2 0 0 4 0 2 -3
+p664
+aVPaul Pierce BOS 12/03/2009 BOS @ SAS W 37 8 2 9 22.2 1 4 25.0 3 4 75.0 0 2 2 0 1 1 3 2 13
+p665
+aVRay Allen BOS 12/03/2009 BOS @ SAS W 40 15 6 15 40.0 0 4 0.0 3 3 100.0 0 4 4 3 0 0 2 4 4
+p666
+aVBrian Scalabrine BOS 12/03/2009 BOS @ SAS W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -6
+p667
+aVEddie House BOS 12/03/2009 BOS @ SAS W 14 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 0 1 0 1 1 -4
+p668
+aVKendrick Perkins BOS 12/03/2009 BOS @ SAS W 32 9 4 7 57.1 0 0 - 1 3 33.3 1 6 7 1 0 2 2 2 7
+p669
+aVMarquis Daniels BOS 12/03/2009 BOS @ SAS W 17 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -8
+p670
+aVRajon Rondo BOS 12/03/2009 BOS @ SAS W 36 12 6 11 54.5 0 1 0.0 0 0 - 0 6 6 12 3 1 3 4 19
+p671
+aVKevin Garnett BOS 12/03/2009 BOS @ SAS W 35 20 9 15 60.0 0 0 - 2 2 100.0 0 7 7 5 2 0 0 4 13
+p672
+aVPaul Pierce BOS 12/01/2009 BOS @ CHA W 34 8 3 8 37.5 2 3 66.7 0 0 - 0 2 2 2 0 0 1 1 19
+p673
+aVJ.R. Giddens BOS 12/01/2009 BOS @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p674
+aVRajon Rondo BOS 12/01/2009 BOS @ CHA W 32 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 9 1 0 5 4 19
+p675
+aVShelden Williams BOS 12/01/2009 BOS @ CHA W 21 5 1 4 25.0 0 0 - 3 6 50.0 1 1 2 0 0 2 1 2 -3
+p676
+aVLester Hudson BOS 12/01/2009 BOS @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 1 0 0
+p677
+aVKendrick Perkins BOS 12/01/2009 BOS @ CHA W 30 21 9 10 90.0 0 0 - 3 3 100.0 3 9 12 0 0 3 3 3 19
+p678
+aVKevin Garnett BOS 12/01/2009 BOS @ CHA W 26 16 5 8 62.5 0 0 - 6 6 100.0 1 6 7 5 1 0 3 5 18
+p679
+aVRasheed Wallace BOS 12/01/2009 BOS @ CHA W 16 7 2 7 28.6 1 3 33.3 2 2 100.0 0 2 2 1 0 2 0 2 -1
+p680
+aVEddie House BOS 12/01/2009 BOS @ CHA W 17 12 5 9 55.6 2 5 40.0 0 0 - 1 1 2 0 0 0 0 4 2
+p681
+aVRay Allen BOS 12/01/2009 BOS @ CHA W 36 27 6 9 66.7 5 6 83.3 10 10 100.0 1 4 5 5 1 1 1 2 20
+p682
+aVBrian Scalabrine BOS 12/01/2009 BOS @ CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p683
+aVMarquis Daniels BOS 12/01/2009 BOS @ CHA W 22 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 1 0 2 2 -4
+p684
+aVRasheed Wallace BOS 11/29/2009 BOS @ MIA W 18 6 3 8 37.5 0 3 0.0 0 0 - 1 5 6 0 0 0 1 4 -4
+p685
+aVKevin Garnett BOS 11/29/2009 BOS @ MIA W 35 24 11 12 91.7 0 0 - 2 2 100.0 2 6 8 1 1 0 0 3 10
+p686
+aVEddie House BOS 11/29/2009 BOS @ MIA W 20 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 0 0 0 2 4 -2
+p687
+aVBrian Scalabrine BOS 11/29/2009 BOS @ MIA W 6 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p688
+aVKendrick Perkins BOS 11/29/2009 BOS @ MIA W 29 14 4 6 66.7 0 0 - 6 11 54.5 1 12 13 1 0 3 1 3 9
+p689
+aVMarquis Daniels BOS 11/29/2009 BOS @ MIA W 15 3 1 4 25.0 1 1 100.0 0 2 0.0 1 2 3 1 0 1 1 2 -5
+p690
+aVRay Allen BOS 11/29/2009 BOS @ MIA W 42 11 5 13 38.5 1 7 14.3 0 0 - 0 2 2 3 0 1 2 3 9
+p691
+aVShelden Williams BOS 11/29/2009 BOS @ MIA W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 1 1 0 -1
+p692
+aVRajon Rondo BOS 11/29/2009 BOS @ MIA W 31 13 6 11 54.5 1 3 33.3 0 0 - 0 2 2 11 1 0 1 4 16
+p693
+aVPaul Pierce BOS 11/29/2009 BOS @ MIA W 37 15 4 11 36.4 0 4 0.0 7 8 87.5 0 1 1 2 2 1 5 1 5
+p694
+aVJ.R. Giddens BOS 11/27/2009 BOS vs. TOR W 2 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p695
+aVShelden Williams BOS 11/27/2009 BOS vs. TOR W 10 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 -6
+p696
+aVRasheed Wallace BOS 11/27/2009 BOS vs. TOR W 23 15 6 11 54.5 3 6 50.0 0 0 - 1 1 2 1 4 1 1 4 4
+p697
+aVMarquis Daniels BOS 11/27/2009 BOS vs. TOR W 25 8 4 8 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -4
+p698
+aVPaul Pierce BOS 11/27/2009 BOS vs. TOR W 35 18 7 12 58.3 0 3 0.0 4 4 100.0 1 4 5 7 2 0 2 1 8
+p699
+aVRay Allen BOS 11/27/2009 BOS vs. TOR W 34 20 8 15 53.3 3 4 75.0 1 1 100.0 1 0 1 2 3 0 2 2 24
+p700
+aVLester Hudson BOS 11/27/2009 BOS vs. TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -2
+p701
+aVKevin Garnett BOS 11/27/2009 BOS vs. TOR W 28 12 6 6 100.0 0 0 - 0 0 - 1 6 7 4 0 0 2 5 11
+p702
+aVKendrick Perkins BOS 11/27/2009 BOS vs. TOR W 33 18 8 8 100.0 0 0 - 2 4 50.0 0 5 5 2 1 0 4 1 17
+p703
+aVEddie House BOS 11/27/2009 BOS vs. TOR W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 0 0 -6
+p704
+aVRajon Rondo BOS 11/27/2009 BOS vs. TOR W 32 12 5 10 50.0 0 1 0.0 2 2 100.0 1 1 2 11 4 0 3 2 23
+p705
+aVBrian Scalabrine BOS 11/27/2009 BOS vs. TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p706
+aVPaul Pierce BOS 11/25/2009 BOS vs. PHI W 43 27 10 15 66.7 3 7 42.9 4 4 100.0 0 6 6 6 1 1 0 4 10
+p707
+aVLester Hudson BOS 11/25/2009 BOS vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p708
+aVMarquis Daniels BOS 11/25/2009 BOS vs. PHI W 21 5 2 7 28.6 0 2 0.0 1 2 50.0 1 0 1 2 0 1 2 2 -3
+p709
+aVBrian Scalabrine BOS 11/25/2009 BOS vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -7
+p710
+aVRajon Rondo BOS 11/25/2009 BOS vs. PHI W 37 10 5 9 55.6 0 1 0.0 0 0 - 0 4 4 7 2 0 3 5 10
+p711
+aVRay Allen BOS 11/25/2009 BOS vs. PHI W 32 18 6 14 42.9 1 6 16.7 5 5 100.0 1 4 5 2 1 0 0 2 -4
+p712
+aVEddie House BOS 11/25/2009 BOS vs. PHI W 22 13 4 9 44.4 1 5 20.0 4 4 100.0 0 1 1 1 0 0 0 1 8
+p713
+aVShelden Williams BOS 11/25/2009 BOS vs. PHI W 6 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 -6
+p714
+aVKevin Garnett BOS 11/25/2009 BOS vs. PHI W 31 19 5 9 55.6 0 0 - 9 12 75.0 1 3 4 4 0 0 3 1 2
+p715
+aVRasheed Wallace BOS 11/25/2009 BOS vs. PHI W 21 8 2 7 28.6 2 6 33.3 2 4 50.0 1 3 4 0 0 0 2 3 -1
+p716
+aVKendrick Perkins BOS 11/25/2009 BOS vs. PHI W 23 12 4 7 57.1 0 0 - 4 6 66.7 5 3 8 1 1 1 2 4 9
+p717
+aVShelden Williams BOS 11/22/2009 BOS @ NYK W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p718
+aVPaul Pierce BOS 11/22/2009 BOS @ NYK W 42 33 9 17 52.9 6 7 85.7 9 10 90.0 0 9 9 6 1 2 3 4 9
+p719
+aVRay Allen BOS 11/22/2009 BOS @ NYK W 40 13 3 13 23.1 1 6 16.7 6 6 100.0 0 1 1 2 1 2 3 4 12
+p720
+aVKendrick Perkins BOS 11/22/2009 BOS @ NYK W 37 16 6 8 75.0 0 0 - 4 6 66.7 4 9 13 1 0 4 2 5 6
+p721
+aVRajon Rondo BOS 11/22/2009 BOS @ NYK W 43 14 5 13 38.5 0 2 0.0 4 8 50.0 2 7 9 10 4 0 2 1 4
+p722
+aVRasheed Wallace BOS 11/22/2009 BOS @ NYK W 15 0 0 6 0.0 0 3 0.0 0 0 - 1 3 4 1 4 0 0 4 -4
+p723
+aVBrian Scalabrine BOS 11/22/2009 BOS @ NYK W 12 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 -5
+p724
+aVKevin Garnett BOS 11/22/2009 BOS @ NYK W 32 10 4 15 26.7 0 0 - 2 2 100.0 2 5 7 1 0 0 3 4 8
+p725
+aVEddie House BOS 11/22/2009 BOS @ NYK W 18 10 3 7 42.9 2 6 33.3 2 3 66.7 0 2 2 0 1 0 0 1 -5
+p726
+aVMarquis Daniels BOS 11/22/2009 BOS @ NYK W 15 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -14
+p727
+aVBrian Scalabrine BOS 11/20/2009 BOS vs. ORL L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 2
+p728
+aVKendrick Perkins BOS 11/20/2009 BOS vs. ORL L 14 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 1 1 5 -14
+p729
+aVShelden Williams BOS 11/20/2009 BOS vs. ORL L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 5
+p730
+aVPaul Pierce BOS 11/20/2009 BOS vs. ORL L 38 21 7 19 36.8 0 4 0.0 7 7 100.0 0 3 3 2 0 0 3 4 -11
+p731
+aVRay Allen BOS 11/20/2009 BOS vs. ORL L 34 15 5 10 50.0 1 2 50.0 4 4 100.0 1 3 4 6 2 0 2 3 -8
+p732
+aVRasheed Wallace BOS 11/20/2009 BOS vs. ORL L 34 9 4 16 25.0 0 8 0.0 1 2 50.0 5 8 13 2 3 1 0 2 9
+p733
+aVKevin Garnett BOS 11/20/2009 BOS vs. ORL L 32 13 5 13 38.5 0 0 - 3 3 100.0 4 7 11 1 2 3 1 3 -12
+p734
+aVMarquis Daniels BOS 11/20/2009 BOS vs. ORL L 23 4 2 6 33.3 0 0 - 0 0 - 0 1 1 2 2 0 1 4 9
+p735
+aVEddie House BOS 11/20/2009 BOS vs. ORL L 19 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 1 1 0 1 0 9
+p736
+aVRajon Rondo BOS 11/20/2009 BOS vs. ORL L 29 6 3 11 27.3 0 0 - 0 0 - 3 3 6 6 1 0 3 3 -14
+p737
+aVBrian Scalabrine BOS 11/18/2009 BOS vs. GSW W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p738
+aVRay Allen BOS 11/18/2009 BOS vs. GSW W 30 15 6 10 60.0 0 2 0.0 3 3 100.0 0 1 1 0 1 0 1 2 17
+p739
+aVKendrick Perkins BOS 11/18/2009 BOS vs. GSW W 31 15 5 8 62.5 0 0 - 5 8 62.5 3 4 7 3 0 2 4 1 11
+p740
+aVRasheed Wallace BOS 11/18/2009 BOS vs. GSW W 16 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 1 1 0 1 2 8
+p741
+aVLester Hudson BOS 11/18/2009 BOS vs. GSW W 2 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p742
+aVShelden Williams BOS 11/18/2009 BOS vs. GSW W 15 4 0 2 0.0 0 0 - 4 6 66.7 1 2 3 0 0 0 1 2 -2
+p743
+aVRajon Rondo BOS 11/18/2009 BOS vs. GSW W 37 18 8 12 66.7 1 2 50.0 1 4 25.0 1 6 7 12 2 0 4 4 18
+p744
+aVPaul Pierce BOS 11/18/2009 BOS vs. GSW W 35 19 7 12 58.3 2 4 50.0 3 4 75.0 0 4 4 2 1 1 2 3 16
+p745
+aVEddie House BOS 11/18/2009 BOS vs. GSW W 17 11 4 10 40.0 3 5 60.0 0 0 - 0 1 1 2 0 0 1 2 2
+p746
+aVJ.R. Giddens BOS 11/18/2009 BOS vs. GSW W 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 1 1 -8
+p747
+aVMarquis Daniels BOS 11/18/2009 BOS vs. GSW W 18 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 1 0 1 0 1
+p748
+aVKevin Garnett BOS 11/18/2009 BOS vs. GSW W 31 12 6 12 50.0 0 0 - 0 0 - 2 4 6 4 1 0 1 2 13
+p749
+aVJ.R. Giddens BOS 11/14/2009 BOS @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p750
+aVRajon Rondo BOS 11/14/2009 BOS @ IND L 33 10 5 11 45.5 0 0 - 0 2 0.0 1 1 2 4 2 0 1 2 -7
+p751
+aVKendrick Perkins BOS 11/14/2009 BOS @ IND L 28 11 4 9 44.4 0 0 - 3 4 75.0 3 10 13 0 0 2 1 4 -5
+p752
+aVBrian Scalabrine BOS 11/14/2009 BOS @ IND L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -3
+p753
+aVLester Hudson BOS 11/14/2009 BOS @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p754
+aVRay Allen BOS 11/14/2009 BOS @ IND L 36 24 8 18 44.4 2 6 33.3 6 7 85.7 1 4 5 4 2 0 3 2 1
+p755
+aVPaul Pierce BOS 11/14/2009 BOS @ IND L 34 15 4 10 40.0 1 2 50.0 6 9 66.7 1 3 4 4 0 0 2 4 -13
+p756
+aVRasheed Wallace BOS 11/14/2009 BOS @ IND L 19 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -5
+p757
+aVMarquis Daniels BOS 11/14/2009 BOS @ IND L 20 9 3 8 37.5 0 1 0.0 3 4 75.0 2 0 2 3 0 0 0 2 -6
+p758
+aVEddie House BOS 11/14/2009 BOS @ IND L 15 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 0
+p759
+aVShelden Williams BOS 11/14/2009 BOS @ IND L 18 10 3 5 60.0 0 0 - 4 4 100.0 4 5 9 1 0 1 1 2 -2
+p760
+aVKevin Garnett BOS 11/14/2009 BOS @ IND L 29 15 7 11 63.6 0 0 - 1 1 100.0 2 5 7 2 0 0 2 3 -9
+p761
+aVLester Hudson BOS 11/13/2009 BOS vs. ATL L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p762
+aVMarquis Daniels BOS 11/13/2009 BOS vs. ATL L 19 9 4 6 66.7 0 0 - 1 1 100.0 0 0 0 1 0 0 2 3 2
+p763
+aVShelden Williams BOS 11/13/2009 BOS vs. ATL L 11 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 2
+p764
+aVEddie House BOS 11/13/2009 BOS vs. ATL L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 1
+p765
+aVRajon Rondo BOS 11/13/2009 BOS vs. ATL L 35 4 2 4 50.0 0 1 0.0 0 2 0.0 1 3 4 9 1 0 3 3 -12
+p766
+aVBrian Scalabrine BOS 11/13/2009 BOS vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p767
+aVPaul Pierce BOS 11/13/2009 BOS vs. ATL L 36 24 8 16 50.0 0 4 0.0 8 11 72.7 0 3 3 2 0 0 2 1 -11
+p768
+aVJ.R. Giddens BOS 11/13/2009 BOS vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p769
+aVKevin Garnett BOS 11/13/2009 BOS vs. ATL L 33 14 6 10 60.0 0 0 - 2 3 66.7 1 4 5 2 2 0 0 2 -7
+p770
+aVRasheed Wallace BOS 11/13/2009 BOS vs. ATL L 21 7 3 7 42.9 1 5 20.0 0 0 - 1 2 3 1 1 3 1 5 3
+p771
+aVKendrick Perkins BOS 11/13/2009 BOS vs. ATL L 29 14 6 12 50.0 0 0 - 2 2 100.0 2 7 9 0 0 1 4 4 -18
+p772
+aVRay Allen BOS 11/13/2009 BOS vs. ATL L 40 10 5 8 62.5 0 2 0.0 0 0 - 0 3 3 5 0 0 2 3 -9
+p773
+aVPaul Pierce BOS 11/11/2009 BOS vs. UTA W 32 13 4 7 57.1 3 5 60.0 2 2 100.0 2 4 6 6 3 0 2 2 18
+p774
+aVJ.R. Giddens BOS 11/11/2009 BOS vs. UTA W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p775
+aVMarquis Daniels BOS 11/11/2009 BOS vs. UTA W 21 10 3 5 60.0 0 0 - 4 6 66.7 1 2 3 3 0 0 0 1 3
+p776
+aVRajon Rondo BOS 11/11/2009 BOS vs. UTA W 31 14 7 11 63.6 0 0 - 0 0 - 1 0 1 11 2 0 4 0 20
+p777
+aVRasheed Wallace BOS 11/11/2009 BOS vs. UTA W 22 12 5 12 41.7 2 7 28.6 0 0 - 1 0 1 1 0 1 0 1 6
+p778
+aVHenry Walker BOS 11/11/2009 BOS vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p779
+aVKendrick Perkins BOS 11/11/2009 BOS vs. UTA W 26 10 4 9 44.4 0 0 - 2 2 100.0 3 5 8 2 0 0 2 1 17
+p780
+aVEddie House BOS 11/11/2009 BOS vs. UTA W 18 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 1 0 1 3 3 1
+p781
+aVRay Allen BOS 11/11/2009 BOS vs. UTA W 32 15 6 8 75.0 1 3 33.3 2 2 100.0 0 0 0 4 0 0 2 1 21
+p782
+aVKevin Garnett BOS 11/11/2009 BOS vs. UTA W 26 18 7 10 70.0 0 1 0.0 4 4 100.0 0 4 4 1 2 0 0 3 13
+p783
+aVShelden Williams BOS 11/11/2009 BOS vs. UTA W 20 6 2 5 40.0 0 0 - 2 2 100.0 4 2 6 1 0 1 2 4 4
+p784
+aVLester Hudson BOS 11/11/2009 BOS vs. UTA W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p785
+aVShelden Williams BOS 11/07/2009 BOS @ NJN W 15 8 2 3 66.7 0 0 - 4 4 100.0 1 2 3 1 0 0 1 0 15
+p786
+aVJ.R. Giddens BOS 11/07/2009 BOS @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 1 0
+p787
+aVRajon Rondo BOS 11/07/2009 BOS @ NJN W 30 16 8 11 72.7 0 1 0.0 0 2 0.0 0 4 4 3 5 0 1 1 -3
+p788
+aVRay Allen BOS 11/07/2009 BOS @ NJN W 41 12 5 13 38.5 0 3 0.0 2 2 100.0 1 3 4 4 0 0 2 0 7
+p789
+aVEddie House BOS 11/07/2009 BOS @ NJN W 18 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 2 0 0 0 12
+p790
+aVRasheed Wallace BOS 11/07/2009 BOS @ NJN W 24 9 3 10 30.0 0 4 0.0 3 3 100.0 0 4 4 0 4 1 1 2 4
+p791
+aVKevin Garnett BOS 11/07/2009 BOS @ NJN W 33 9 3 13 23.1 0 0 - 3 3 100.0 0 13 13 4 3 0 1 1 -4
+p792
+aVBrian Scalabrine BOS 11/07/2009 BOS @ NJN W 20 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 3 0 1 3 11
+p793
+aVPaul Pierce BOS 11/07/2009 BOS @ NJN W 32 16 5 8 62.5 0 0 - 6 7 85.7 0 0 0 7 2 1 2 4 2
+p794
+aVKendrick Perkins BOS 11/07/2009 BOS @ NJN W 24 9 3 5 60.0 0 0 - 3 6 50.0 1 7 8 1 0 1 2 4 6
+p795
+aVLester Hudson BOS 11/07/2009 BOS @ NJN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p796
+aVMarquis Daniels BOS 11/06/2009 BOS vs. PHX L 23 9 4 7 57.1 0 1 0.0 1 1 100.0 2 2 4 3 1 0 3 3 -14
+p797
+aVJ.R. Giddens BOS 11/06/2009 BOS vs. PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p798
+aVKendrick Perkins BOS 11/06/2009 BOS vs. PHX L 25 12 4 6 66.7 0 0 - 4 8 50.0 0 7 7 1 0 4 2 1 -1
+p799
+aVShelden Williams BOS 11/06/2009 BOS vs. PHX L 12 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 1 0 2 -14
+p800
+aVPaul Pierce BOS 11/06/2009 BOS vs. PHX L 42 16 5 15 33.3 2 5 40.0 4 6 66.7 0 4 4 6 0 1 3 2 -2
+p801
+aVRajon Rondo BOS 11/06/2009 BOS vs. PHX L 38 14 7 12 58.3 0 1 0.0 0 3 0.0 2 0 2 11 3 0 1 3 4
+p802
+aVEddie House BOS 11/06/2009 BOS vs. PHX L 11 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 -12
+p803
+aVRay Allen BOS 11/06/2009 BOS vs. PHX L 31 16 7 11 63.6 2 4 50.0 0 0 - 3 4 7 4 2 0 1 5 3
+p804
+aVKevin Garnett BOS 11/06/2009 BOS vs. PHX L 35 26 13 20 65.0 0 0 - 0 0 - 3 5 8 4 2 1 0 1 9
+p805
+aVRasheed Wallace BOS 11/06/2009 BOS vs. PHX L 24 8 4 12 33.3 0 6 0.0 0 0 - 1 4 5 1 1 0 1 3 -8
+p806
+aVRasheed Wallace BOS 11/04/2009 BOS @ MIN W 19 7 2 7 28.6 2 7 28.6 1 2 50.0 1 4 5 0 0 0 1 3 2
+p807
+aVBrian Scalabrine BOS 11/04/2009 BOS @ MIN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p808
+aVRay Allen BOS 11/04/2009 BOS @ MIN W 33 14 6 13 46.2 1 7 14.3 1 1 100.0 0 3 3 5 0 0 1 0 -2
+p809
+aVShelden Williams BOS 11/04/2009 BOS @ MIN W 9 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 0 2
+p810
+aVMarquis Daniels BOS 11/04/2009 BOS @ MIN W 18 6 2 5 40.0 0 0 - 2 6 33.3 0 1 1 3 2 0 0 2 0
+p811
+aVRajon Rondo BOS 11/04/2009 BOS @ MIN W 35 18 8 16 50.0 0 0 - 2 2 100.0 2 2 4 6 3 0 2 3 0
+p812
+aVKevin Garnett BOS 11/04/2009 BOS @ MIN W 35 12 6 13 46.2 0 0 - 0 0 - 2 9 11 2 1 3 1 1 -1
+p813
+aVEddie House BOS 11/04/2009 BOS @ MIN W 13 6 2 8 25.0 2 4 50.0 0 0 - 0 1 1 1 2 0 1 0 5
+p814
+aVPaul Pierce BOS 11/04/2009 BOS @ MIN W 41 10 3 12 25.0 0 1 0.0 4 4 100.0 1 1 2 5 0 0 1 2 -2
+p815
+aVKendrick Perkins BOS 11/04/2009 BOS @ MIN W 32 13 6 7 85.7 0 0 - 1 2 50.0 1 7 8 1 0 3 2 1 -2
+p816
+aVShelden Williams BOS 11/03/2009 BOS @ PHI W 23 11 5 8 62.5 0 0 - 1 2 50.0 1 6 7 1 0 0 0 2 28
+p817
+aVMarquis Daniels BOS 11/03/2009 BOS @ PHI W 28 6 3 5 60.0 0 0 - 0 0 - 0 3 3 4 1 0 0 0 31
+p818
+aVBrian Scalabrine BOS 11/03/2009 BOS @ PHI W 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p819
+aVKevin Garnett BOS 11/03/2009 BOS @ PHI W 23 3 1 7 14.3 0 0 - 1 4 25.0 0 6 6 2 0 0 5 2 3
+p820
+aVRay Allen BOS 11/03/2009 BOS @ PHI W 31 5 2 8 25.0 0 1 0.0 1 1 100.0 1 0 1 2 1 0 2 2 14
+p821
+aVLester Hudson BOS 11/03/2009 BOS @ PHI W 7 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 3 0 1 0 2 5
+p822
+aVPaul Pierce BOS 11/03/2009 BOS @ PHI W 31 21 8 13 61.5 1 3 33.3 4 4 100.0 1 7 8 4 2 0 3 2 12
+p823
+aVKendrick Perkins BOS 11/03/2009 BOS @ PHI W 20 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 2 0 2 3 3 3
+p824
+aVRasheed Wallace BOS 11/03/2009 BOS @ PHI W 24 20 7 10 70.0 6 8 75.0 0 0 - 0 6 6 2 2 1 0 4 30
+p825
+aVEddie House BOS 11/03/2009 BOS @ PHI W 15 12 4 5 80.0 4 5 80.0 0 0 - 0 0 0 1 0 0 0 2 24
+p826
+aVRajon Rondo BOS 11/03/2009 BOS @ PHI W 28 11 5 7 71.4 0 0 - 1 1 100.0 2 0 2 5 4 0 3 2 10
+p827
+aVJ.R. Giddens BOS 11/03/2009 BOS @ PHI W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p828
+aVRay Allen BOS 11/01/2009 BOS vs. NOH W 41 17 8 15 53.3 1 3 33.3 0 0 - 1 1 2 2 1 0 0 2 16
+p829
+aVKendrick Perkins BOS 11/01/2009 BOS vs. NOH W 35 12 5 7 71.4 0 0 - 2 4 50.0 0 7 7 2 0 1 2 1 11
+p830
+aVRajon Rondo BOS 11/01/2009 BOS vs. NOH W 36 6 3 7 42.9 0 0 - 0 0 - 0 3 3 10 3 0 4 4 6
+p831
+aVEddie House BOS 11/01/2009 BOS vs. NOH W 12 4 1 3 33.3 0 2 0.0 2 2 100.0 1 1 2 3 0 0 1 1 4
+p832
+aVShelden Williams BOS 11/01/2009 BOS vs. NOH W 10 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 0 2
+p833
+aVRasheed Wallace BOS 11/01/2009 BOS vs. NOH W 18 12 5 10 50.0 2 5 40.0 0 0 - 0 5 5 3 0 0 2 0 4
+p834
+aVMarquis Daniels BOS 11/01/2009 BOS vs. NOH W 19 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 1
+p835
+aVPaul Pierce BOS 11/01/2009 BOS vs. NOH W 37 27 10 14 71.4 3 5 60.0 4 6 66.7 1 3 4 2 2 0 2 2 3
+p836
+aVKevin Garnett BOS 11/01/2009 BOS vs. NOH W 33 14 7 15 46.7 0 0 - 0 0 - 0 7 7 5 0 1 4 4 3
+p837
+aVRajon Rondo BOS 10/30/2009 BOS vs. CHI W 30 2 1 2 50.0 0 0 - 0 0 - 3 5 8 16 1 0 2 3 15
+p838
+aVKendrick Perkins BOS 10/30/2009 BOS vs. CHI W 19 9 4 5 80.0 0 0 - 1 2 50.0 0 4 4 0 0 3 2 4 20
+p839
+aVShelden Williams BOS 10/30/2009 BOS vs. CHI W 24 10 2 4 50.0 0 0 - 6 6 100.0 2 8 10 2 0 2 1 4 10
+p840
+aVKevin Garnett BOS 10/30/2009 BOS vs. CHI W 25 16 7 13 53.8 0 0 - 2 3 66.7 2 2 4 2 1 0 1 3 15
+p841
+aVRasheed Wallace BOS 10/30/2009 BOS vs. CHI W 26 7 2 9 22.2 1 6 16.7 2 2 100.0 1 2 3 2 1 0 2 3 11
+p842
+aVPaul Pierce BOS 10/30/2009 BOS vs. CHI W 31 22 8 12 66.7 5 7 71.4 1 1 100.0 1 7 8 4 3 0 3 0 23
+p843
+aVJ.R. Giddens BOS 10/30/2009 BOS vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p844
+aVRay Allen BOS 10/30/2009 BOS vs. CHI W 23 20 7 9 77.8 2 3 66.7 4 4 100.0 0 1 1 2 0 0 2 3 20
+p845
+aVLester Hudson BOS 10/30/2009 BOS vs. CHI W 10 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 5
+p846
+aVMarquis Daniels BOS 10/30/2009 BOS vs. CHI W 25 7 2 5 40.0 0 1 0.0 3 4 75.0 0 2 2 4 1 0 1 0 10
+p847
+aVEddie House BOS 10/30/2009 BOS vs. CHI W 22 22 9 13 69.2 4 7 57.1 0 0 - 1 1 2 1 0 0 1 2 9
+p848
+aVKendrick Perkins BOS 10/28/2009 BOS vs. CHA W 26 9 4 10 40.0 0 0 - 1 1 100.0 2 5 7 1 0 4 3 2 25
+p849
+aVEddie House BOS 10/28/2009 BOS vs. CHA W 18 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 1 0 0 0 1 4
+p850
+aVPaul Pierce BOS 10/28/2009 BOS vs. CHA W 25 15 4 9 44.4 3 5 60.0 4 4 100.0 0 3 3 4 0 0 0 4 19
+p851
+aVMarquis Daniels BOS 10/28/2009 BOS vs. CHA W 22 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 4 1 0 1 4 12
+p852
+aVRay Allen BOS 10/28/2009 BOS vs. CHA W 38 18 6 17 35.3 4 10 40.0 2 3 66.7 1 1 2 2 2 0 2 1 26
+p853
+aVLester Hudson BOS 10/28/2009 BOS vs. CHA W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 9
+p854
+aVRajon Rondo BOS 10/28/2009 BOS vs. CHA W 30 10 5 6 83.3 0 0 - 0 0 - 0 3 3 11 3 0 1 2 29
+p855
+aVKevin Garnett BOS 10/28/2009 BOS vs. CHA W 26 10 5 9 55.6 0 0 - 0 0 - 3 4 7 1 1 3 1 1 34
+p856
+aVShelden Williams BOS 10/28/2009 BOS vs. CHA W 22 12 2 3 66.7 0 0 - 8 11 72.7 3 6 9 3 1 1 2 5 -1
+p857
+aVRasheed Wallace BOS 10/28/2009 BOS vs. CHA W 16 9 3 8 37.5 3 8 37.5 0 0 - 0 5 5 0 0 0 1 1 3
+p858
+aVJ.R. Giddens BOS 10/28/2009 BOS vs. CHA W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 0 1 5
+p859
+aVKendrick Perkins BOS 10/27/2009 BOS @ CLE W 26 9 4 7 57.1 0 0 - 1 1 100.0 0 1 1 1 0 1 3 3 -2
+p860
+aVShelden Williams BOS 10/27/2009 BOS @ CLE W 13 4 0 1 0.0 0 0 - 4 4 100.0 0 3 3 0 0 0 1 3 7
+p861
+aVRay Allen BOS 10/27/2009 BOS @ CLE W 42 16 5 16 31.3 2 4 50.0 4 5 80.0 0 2 2 3 3 0 3 2 4
+p862
+aVRajon Rondo BOS 10/27/2009 BOS @ CLE W 34 8 4 8 50.0 0 0 - 0 0 - 2 4 6 10 3 0 2 4 -3
+p863
+aVPaul Pierce BOS 10/27/2009 BOS @ CLE W 38 23 6 13 46.2 2 5 40.0 9 10 90.0 1 10 11 1 1 1 2 5 1
+p864
+aVRasheed Wallace BOS 10/27/2009 BOS @ CLE W 24 12 4 9 44.4 3 6 50.0 1 2 50.0 0 3 3 0 0 2 0 5 10
+p865
+aVEddie House BOS 10/27/2009 BOS @ CLE W 12 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 2 0 1 1 1 6
+p866
+aVMarquis Daniels BOS 10/27/2009 BOS @ CLE W 18 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 2 1 0 1 1 11
+p867
+aVKevin Garnett BOS 10/27/2009 BOS @ CLE W 33 13 5 10 50.0 0 0 - 3 4 75.0 3 7 10 1 1 3 1 3 -4
+p868
+a.

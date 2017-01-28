@@ -1,0 +1,1620 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHarold Ellis DEN 04/19/1998 DEN @ SAS L 2 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 0
+p2
+aVBryant Stith DEN 04/19/1998 DEN @ SAS L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p3
+aVEric Washington DEN 04/19/1998 DEN @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p4
+aVDean Garrett DEN 04/19/1998 DEN @ SAS L 22 4 2 5 40.0 0 0 - 0 0 - 0 5 5 2 1 2 0 3 -1
+p5
+aVLaPhonso Ellis DEN 04/19/1998 DEN @ SAS L 38 15 6 12 50.0 1 4 25.0 2 2 100.0 0 7 7 3 2 0 0 2 -8
+p6
+aVCory Alexander DEN 04/19/1998 DEN @ SAS L 37 9 3 11 27.3 1 5 20.0 2 2 100.0 1 5 6 5 2 0 4 3 -8
+p7
+aVTony Battie DEN 04/19/1998 DEN @ SAS L 14 5 2 7 28.6 0 0 - 1 2 50.0 1 5 6 0 0 2 3 3 -4
+p8
+aVBobby Jackson DEN 04/19/1998 DEN @ SAS L 17 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 1 2 0 3 1 -8
+p9
+aVJohnny Newman DEN 04/19/1998 DEN @ SAS L 32 13 3 7 42.9 1 2 50.0 6 9 66.7 0 2 2 0 0 0 1 0 -11
+p10
+aVDanny Fortson DEN 04/19/1998 DEN @ SAS L 35 16 8 18 44.4 0 1 0.0 0 0 - 6 2 8 1 0 0 4 3 -17
+p11
+aVAnthony Goldwire DEN 04/19/1998 DEN @ SAS L 38 14 5 7 71.4 2 2 100.0 2 2 100.0 0 3 3 2 1 0 1 0 -13
+p12
+aVJohnny Newman DEN 04/17/1998 DEN vs. POR W 30 18 3 9 33.3 2 4 50.0 10 10 100.0 1 2 3 2 0 0 0 3 3
+p13
+aVDean Garrett DEN 04/17/1998 DEN vs. POR W 34 4 2 2 100.0 0 0 - 0 0 - 2 7 9 2 3 2 0 3 11
+p14
+aVDanny Fortson DEN 04/17/1998 DEN vs. POR W 29 14 7 12 58.3 0 0 - 0 0 - 0 5 5 2 0 0 2 3 0
+p15
+aVAnthony Goldwire DEN 04/17/1998 DEN vs. POR W 38 22 8 8 100.0 3 3 100.0 3 4 75.0 0 0 0 8 0 0 1 2 8
+p16
+aVBobby Jackson DEN 04/17/1998 DEN vs. POR W 19 10 3 6 50.0 0 0 - 4 4 100.0 0 2 2 1 0 0 0 0 4
+p17
+aVLaPhonso Ellis DEN 04/17/1998 DEN vs. POR W 38 22 8 19 42.1 3 7 42.9 3 5 60.0 2 6 8 3 2 1 2 2 10
+p18
+aVBryant Stith DEN 04/17/1998 DEN vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p19
+aVCory Alexander DEN 04/17/1998 DEN vs. POR W 37 17 4 11 36.4 2 6 33.3 7 8 87.5 0 3 3 12 0 1 1 2 8
+p20
+aVPriest Lauderdale DEN 04/17/1998 DEN vs. POR W 12 2 0 1 0.0 0 0 - 2 4 50.0 1 6 7 0 0 1 5 3 0
+p21
+aVAnthony Goldwire DEN 04/15/1998 DEN @ PHX L 40 16 6 11 54.5 2 3 66.7 2 3 66.7 0 2 2 2 4 0 0 3 -1
+p22
+aVDanny Fortson DEN 04/15/1998 DEN @ PHX L 18 8 2 4 50.0 0 0 - 4 4 100.0 0 1 1 1 0 0 1 4 -16
+p23
+aVCory Alexander DEN 04/15/1998 DEN @ PHX L 38 12 4 7 57.1 2 4 50.0 2 2 100.0 0 5 5 10 2 0 7 4 -14
+p24
+aVBryant Stith DEN 04/15/1998 DEN @ PHX L 24 6 3 7 42.9 0 1 0.0 0 1 0.0 0 4 4 1 0 0 0 3 0
+p25
+aVLaPhonso Ellis DEN 04/15/1998 DEN @ PHX L 40 23 10 15 66.7 3 4 75.0 0 0 - 2 9 11 3 1 2 3 6 6
+p26
+aVJohnny Newman DEN 04/15/1998 DEN @ PHX L 38 15 6 13 46.2 0 0 - 3 4 75.0 2 1 3 2 1 0 4 1 -6
+p27
+aVDean Garrett DEN 04/15/1998 DEN @ PHX L 20 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 2 0 1 0 0 1
+p28
+aVBobby Jackson DEN 04/15/1998 DEN @ PHX L 22 6 2 9 22.2 0 1 0.0 2 2 100.0 1 1 2 1 0 0 1 2 -5
+p29
+aVCory Alexander DEN 04/14/1998 DEN @ HOU L 39 22 8 19 42.1 2 4 50.0 4 4 100.0 2 2 4 7 3 0 4 2 -5
+p30
+aVDanny Fortson DEN 04/14/1998 DEN @ HOU L 31 5 2 11 18.2 0 0 - 1 3 33.3 6 2 8 2 1 0 1 4 -2
+p31
+aVPriest Lauderdale DEN 04/14/1998 DEN @ HOU L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p32
+aVHarold Ellis DEN 04/14/1998 DEN @ HOU L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 14
+p33
+aVAnthony Goldwire DEN 04/14/1998 DEN @ HOU L 34 9 3 10 30.0 1 4 25.0 2 2 100.0 3 0 3 1 2 0 1 1 -19
+p34
+aVBryant Stith DEN 04/14/1998 DEN @ HOU L 24 4 1 8 12.5 0 3 0.0 2 2 100.0 1 2 3 4 1 0 0 1 1
+p35
+aVBobby Jackson DEN 04/14/1998 DEN @ HOU L 23 16 6 12 50.0 0 3 0.0 4 4 100.0 1 4 5 1 2 0 1 1 12
+p36
+aVLaPhonso Ellis DEN 04/14/1998 DEN @ HOU L 41 22 8 18 44.4 1 6 16.7 5 6 83.3 1 12 13 2 0 0 1 4 -15
+p37
+aVDean Garrett DEN 04/14/1998 DEN @ HOU L 34 6 3 8 37.5 0 0 - 0 0 - 3 4 7 0 3 0 1 5 -10
+p38
+aVBryant Stith DEN 04/11/1998 DEN @ DAL L 17 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 -19
+p39
+aVCory Alexander DEN 04/11/1998 DEN @ DAL L 36 8 2 12 16.7 0 5 0.0 4 6 66.7 0 8 8 6 2 0 2 3 -6
+p40
+aVJohnny Newman DEN 04/11/1998 DEN @ DAL L 30 15 4 10 40.0 1 2 50.0 6 6 100.0 0 1 1 2 0 0 2 1 -19
+p41
+aVTony Battie DEN 04/11/1998 DEN @ DAL L 15 10 5 6 83.3 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -23
+p42
+aVDanny Fortson DEN 04/11/1998 DEN @ DAL L 32 16 7 19 36.8 0 0 - 2 5 40.0 5 3 8 1 2 2 2 4 -3
+p43
+aVPriest Lauderdale DEN 04/11/1998 DEN @ DAL L 3 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 1 -4
+p44
+aVDean Garrett DEN 04/11/1998 DEN @ DAL L 25 6 2 6 33.3 0 0 - 2 2 100.0 4 4 8 1 0 1 1 1 -1
+p45
+aVAnthony Goldwire DEN 04/11/1998 DEN @ DAL L 36 15 6 13 46.2 1 3 33.3 2 2 100.0 2 1 3 1 1 0 2 1 -3
+p46
+aVEric Washington DEN 04/11/1998 DEN @ DAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p47
+aVLaPhonso Ellis DEN 04/11/1998 DEN @ DAL L 39 6 3 10 30.0 0 3 0.0 0 0 - 4 9 13 1 3 2 2 1 -4
+p48
+aVBobby Jackson DEN 04/11/1998 DEN @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p49
+aVLaPhonso Ellis DEN 04/09/1998 DEN vs. SAC W 39 26 9 15 60.0 2 3 66.7 6 7 85.7 2 13 15 4 0 3 2 3 33
+p50
+aVTony Battie DEN 04/09/1998 DEN vs. SAC W 5 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p51
+aVAnthony Goldwire DEN 04/09/1998 DEN vs. SAC W 36 15 5 11 45.5 2 3 66.7 3 4 75.0 0 2 2 8 1 0 0 4 22
+p52
+aVCory Alexander DEN 04/09/1998 DEN vs. SAC W 40 23 7 13 53.8 4 6 66.7 5 6 83.3 0 4 4 11 3 0 1 0 29
+p53
+aVDean Garrett DEN 04/09/1998 DEN vs. SAC W 27 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 4 0 2 21
+p54
+aVJoe Wolf DEN 04/09/1998 DEN vs. SAC W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p55
+aVEric Washington DEN 04/09/1998 DEN vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p56
+aVBryant Stith DEN 04/09/1998 DEN vs. SAC W 23 10 4 8 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 -2
+p57
+aVJohnny Newman DEN 04/09/1998 DEN vs. SAC W 39 35 10 17 58.8 2 3 66.7 13 13 100.0 1 1 2 2 3 0 5 2 20
+p58
+aVDanny Fortson DEN 04/09/1998 DEN vs. SAC W 21 13 4 7 57.1 0 0 - 5 7 71.4 0 3 3 0 1 1 2 6 2
+p59
+aVJohnny Newman DEN 04/07/1998 DEN vs. HOU L 28 8 2 9 22.2 0 0 - 4 4 100.0 1 1 2 2 1 1 0 6 -9
+p60
+aVBryant Stith DEN 04/07/1998 DEN vs. HOU L 13 9 2 7 28.6 1 3 33.3 4 4 100.0 1 1 2 0 1 0 0 1 -8
+p61
+aVDanny Fortson DEN 04/07/1998 DEN vs. HOU L 29 15 6 16 37.5 0 0 - 3 5 60.0 7 4 11 2 2 2 1 3 -8
+p62
+aVBobby Jackson DEN 04/07/1998 DEN vs. HOU L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -6
+p63
+aVAnthony Goldwire DEN 04/07/1998 DEN vs. HOU L 40 6 2 11 18.2 1 4 25.0 1 2 50.0 1 2 3 4 1 0 0 2 -15
+p64
+aVJoe Wolf DEN 04/07/1998 DEN vs. HOU L 13 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 1 0 1 1 -3
+p65
+aVCory Alexander DEN 04/07/1998 DEN vs. HOU L 38 19 7 16 43.8 2 6 33.3 3 4 75.0 2 9 11 8 2 1 2 3 -9
+p66
+aVDean Garrett DEN 04/07/1998 DEN vs. HOU L 32 14 7 9 77.8 0 0 - 0 0 - 2 3 5 1 0 1 2 3 -12
+p67
+aVLaPhonso Ellis DEN 04/07/1998 DEN vs. HOU L 39 14 6 15 40.0 1 4 25.0 1 2 50.0 1 3 4 2 1 2 1 4 -15
+p68
+aVDean Garrett DEN 04/05/1998 DEN vs. SEA L 32 2 1 2 50.0 0 0 - 0 0 - 0 5 5 2 0 4 1 5 5
+p69
+aVAnthony Goldwire DEN 04/05/1998 DEN vs. SEA L 40 20 8 21 38.1 3 11 27.3 1 1 100.0 3 1 4 3 2 0 0 1 4
+p70
+aVJoe Wolf DEN 04/05/1998 DEN vs. SEA L 16 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -2
+p71
+aVCory Alexander DEN 04/05/1998 DEN vs. SEA L 39 25 10 15 66.7 4 8 50.0 1 2 50.0 1 4 5 6 2 0 4 3 -1
+p72
+aVBobby Jackson DEN 04/05/1998 DEN vs. SEA L 18 3 1 8 12.5 0 1 0.0 1 2 50.0 2 1 3 4 1 0 1 2 -11
+p73
+aVLaPhonso Ellis DEN 04/05/1998 DEN vs. SEA L 38 8 4 11 36.4 0 2 0.0 0 0 - 1 8 9 5 1 1 1 3 -2
+p74
+aVDanny Fortson DEN 04/05/1998 DEN vs. SEA L 25 8 3 6 50.0 0 0 - 2 3 66.7 1 4 5 1 0 0 2 5 -6
+p75
+aVJohnny Newman DEN 04/05/1998 DEN vs. SEA L 32 17 5 9 55.6 0 1 0.0 7 10 70.0 1 3 4 3 0 0 3 2 -7
+p76
+aVAnthony Goldwire DEN 04/03/1998 DEN @ UTA L 32 4 1 7 14.3 0 1 0.0 2 2 100.0 1 0 1 1 0 0 1 2 -21
+p77
+aVDanny Fortson DEN 04/03/1998 DEN @ UTA L 35 17 5 14 35.7 0 0 - 7 8 87.5 7 2 9 0 3 0 2 4 -12
+p78
+aVBryant Stith DEN 04/03/1998 DEN @ UTA L 13 6 1 6 16.7 0 1 0.0 4 4 100.0 0 2 2 2 0 0 0 1 2
+p79
+aVBobby Jackson DEN 04/03/1998 DEN @ UTA L 21 4 2 11 18.2 0 2 0.0 0 0 - 2 1 3 4 0 0 0 2 -6
+p80
+aVCory Alexander DEN 04/03/1998 DEN @ UTA L 32 5 1 8 12.5 1 3 33.3 2 2 100.0 0 2 2 4 2 0 1 3 -19
+p81
+aVDean Garrett DEN 04/03/1998 DEN @ UTA L 30 6 1 5 20.0 0 0 - 4 4 100.0 0 7 7 0 0 0 0 3 -12
+p82
+aVJoe Wolf DEN 04/03/1998 DEN @ UTA L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p83
+aVJohnny Newman DEN 04/03/1998 DEN @ UTA L 29 12 4 10 40.0 1 1 100.0 3 4 75.0 1 0 1 0 3 0 1 5 -17
+p84
+aVTony Battie DEN 04/03/1998 DEN @ UTA L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -13
+p85
+aVLaPhonso Ellis DEN 04/03/1998 DEN @ UTA L 39 17 8 17 47.1 0 2 0.0 1 2 50.0 3 10 13 1 2 4 3 1 -11
+p86
+aVAnthony Goldwire DEN 04/01/1998 DEN vs. MIL L 39 11 4 14 28.6 1 4 25.0 2 2 100.0 0 0 0 5 1 1 0 3 -2
+p87
+aVLaPhonso Ellis DEN 04/01/1998 DEN vs. MIL L 38 18 6 16 37.5 1 3 33.3 5 6 83.3 3 8 11 2 0 1 3 2 -6
+p88
+aVJohnny Newman DEN 04/01/1998 DEN vs. MIL L 30 12 4 13 30.8 0 0 - 4 5 80.0 0 1 1 2 4 0 1 4 1
+p89
+aVDean Garrett DEN 04/01/1998 DEN vs. MIL L 25 4 2 7 28.6 0 0 - 0 0 - 2 4 6 1 0 1 0 0 -10
+p90
+aVCory Alexander DEN 04/01/1998 DEN vs. MIL L 38 23 9 15 60.0 4 7 57.1 1 1 100.0 0 3 3 6 2 0 2 4 -5
+p91
+aVDanny Fortson DEN 04/01/1998 DEN vs. MIL L 39 24 8 13 61.5 0 0 - 8 11 72.7 4 6 10 4 0 0 1 6 -4
+p92
+aVJoe Wolf DEN 04/01/1998 DEN vs. MIL L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -3
+p93
+aVBobby Jackson DEN 04/01/1998 DEN vs. MIL L 19 8 4 8 50.0 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -1
+p94
+aVAnthony Goldwire DEN 03/27/1998 DEN vs. GSW W 40 15 6 8 75.0 1 2 50.0 2 4 50.0 0 2 2 4 4 0 1 1 13
+p95
+aVJohnny Newman DEN 03/27/1998 DEN vs. GSW W 31 22 6 13 46.2 1 1 100.0 9 11 81.8 1 0 1 2 1 0 1 1 6
+p96
+aVJoe Wolf DEN 03/27/1998 DEN vs. GSW W 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 3
+p97
+aVLaPhonso Ellis DEN 03/27/1998 DEN vs. GSW W 37 21 7 15 46.7 0 1 0.0 7 7 100.0 0 2 2 1 1 2 3 3 7
+p98
+aVDean Garrett DEN 03/27/1998 DEN vs. GSW W 33 11 3 5 60.0 0 0 - 5 6 83.3 3 5 8 3 1 4 0 3 7
+p99
+aVCory Alexander DEN 03/27/1998 DEN vs. GSW W 39 13 5 6 83.3 3 4 75.0 0 0 - 0 4 4 7 3 1 3 2 1
+p100
+aVDanny Fortson DEN 03/27/1998 DEN vs. GSW W 25 11 3 8 37.5 0 0 - 5 6 83.3 0 6 6 2 0 1 3 5 0
+p101
+aVTony Battie DEN 03/27/1998 DEN vs. GSW W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 0
+p102
+aVBobby Jackson DEN 03/27/1998 DEN vs. GSW W 17 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 0 0 0 3 3
+p103
+aVLaPhonso Ellis DEN 03/25/1998 DEN vs. DAL L 41 18 8 17 47.1 2 5 40.0 0 0 - 0 10 10 5 1 1 2 4 -8
+p104
+aVAnthony Goldwire DEN 03/25/1998 DEN vs. DAL L 28 17 8 12 66.7 1 1 100.0 0 0 - 0 2 2 4 3 0 1 3 -2
+p105
+aVBobby Jackson DEN 03/25/1998 DEN vs. DAL L 21 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 4 1 0 3 3 -9
+p106
+aVDean Garrett DEN 03/25/1998 DEN vs. DAL L 23 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -9
+p107
+aVTony Battie DEN 03/25/1998 DEN vs. DAL L 20 4 2 7 28.6 0 0 - 0 0 - 3 4 7 0 0 1 0 2 -10
+p108
+aVCory Alexander DEN 03/25/1998 DEN vs. DAL L 31 12 4 6 66.7 2 4 50.0 2 3 66.7 0 5 5 4 0 0 2 1 -8
+p109
+aVJohnny Newman DEN 03/25/1998 DEN vs. DAL L 36 20 7 16 43.8 1 2 50.0 5 9 55.6 1 1 2 4 2 0 1 3 -3
+p110
+aVDanny Fortson DEN 03/25/1998 DEN vs. DAL L 35 18 7 12 58.3 0 0 - 4 5 80.0 3 2 5 3 0 0 3 4 -6
+p111
+aVBryant Stith DEN 03/25/1998 DEN vs. DAL L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p112
+aVEric Washington DEN 03/23/1998 DEN vs. LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p113
+aVPriest Lauderdale DEN 03/23/1998 DEN vs. LAL L 5 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 2 2
+p114
+aVBobby Jackson DEN 03/23/1998 DEN vs. LAL L 27 4 2 11 18.2 0 1 0.0 0 0 - 2 4 6 6 0 0 5 1 -4
+p115
+aVAnthony Goldwire DEN 03/23/1998 DEN vs. LAL L 31 18 7 9 77.8 3 4 75.0 1 2 50.0 0 1 1 2 3 0 2 1 -14
+p116
+aVCory Alexander DEN 03/23/1998 DEN vs. LAL L 30 6 2 8 25.0 0 3 0.0 2 2 100.0 0 6 6 4 1 0 5 1 -18
+p117
+aVDanny Fortson DEN 03/23/1998 DEN vs. LAL L 35 24 10 14 71.4 0 0 - 4 4 100.0 0 6 6 4 1 1 1 5 -10
+p118
+aVLaPhonso Ellis DEN 03/23/1998 DEN vs. LAL L 33 16 6 10 60.0 0 2 0.0 4 4 100.0 1 2 3 3 0 2 1 3 -25
+p119
+aVTony Battie DEN 03/23/1998 DEN vs. LAL L 18 10 5 11 45.5 0 0 - 0 0 - 4 3 7 1 1 0 0 0 4
+p120
+aVJohnny Newman DEN 03/23/1998 DEN vs. LAL L 25 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 1 0 1 2 4 -14
+p121
+aVDean Garrett DEN 03/23/1998 DEN vs. LAL L 33 4 2 6 33.3 0 0 - 0 0 - 1 5 6 2 0 2 0 3 -29
+p122
+aVEric Washington DEN 03/20/1998 DEN @ MIN L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 7
+p123
+aVJohnny Newman DEN 03/20/1998 DEN @ MIN L 22 11 3 9 33.3 1 2 50.0 4 4 100.0 0 1 1 1 0 0 2 4 -27
+p124
+aVAnthony Goldwire DEN 03/20/1998 DEN @ MIN L 33 5 2 9 22.2 1 3 33.3 0 0 - 1 3 4 2 1 0 1 3 -15
+p125
+aVBryant Stith DEN 03/20/1998 DEN @ MIN L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p126
+aVCory Alexander DEN 03/20/1998 DEN @ MIN L 35 15 4 11 36.4 3 6 50.0 4 4 100.0 0 4 4 4 1 1 3 0 -10
+p127
+aVLaPhonso Ellis DEN 03/20/1998 DEN @ MIN L 28 8 2 10 20.0 0 1 0.0 4 4 100.0 0 2 2 1 1 0 1 3 -10
+p128
+aVJoe Wolf DEN 03/20/1998 DEN @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 4
+p129
+aVBobby Jackson DEN 03/20/1998 DEN @ MIN L 30 12 4 10 40.0 1 1 100.0 3 3 100.0 0 3 3 5 1 0 3 3 -19
+p130
+aVDean Garrett DEN 03/20/1998 DEN @ MIN L 28 6 3 7 42.9 0 0 - 0 0 - 1 4 5 1 0 1 0 2 -12
+p131
+aVDanny Fortson DEN 03/20/1998 DEN @ MIN L 33 21 7 16 43.8 0 0 - 7 7 100.0 8 4 12 2 2 0 2 5 3
+p132
+aVTony Battie DEN 03/20/1998 DEN @ MIN L 16 8 4 7 57.1 0 0 - 0 2 0.0 7 0 7 1 1 1 0 1 0
+p133
+aVCory Alexander DEN 03/19/1998 DEN @ TOR L 39 12 5 12 41.7 2 4 50.0 0 0 - 0 5 5 7 2 1 2 1 3
+p134
+aVLaPhonso Ellis DEN 03/19/1998 DEN @ TOR L 39 17 7 17 41.2 0 3 0.0 3 5 60.0 4 11 15 4 0 1 3 4 5
+p135
+aVTony Battie DEN 03/19/1998 DEN @ TOR L 11 4 1 6 16.7 0 0 - 2 2 100.0 2 1 3 1 1 0 0 2 1
+p136
+aVBobby Jackson DEN 03/19/1998 DEN @ TOR L 23 13 5 9 55.6 0 0 - 3 6 50.0 0 2 2 2 2 0 1 2 -9
+p137
+aVAnthony Goldwire DEN 03/19/1998 DEN @ TOR L 39 16 5 10 50.0 3 5 60.0 3 3 100.0 0 1 1 8 2 0 1 1 3
+p138
+aVBryant Stith DEN 03/19/1998 DEN @ TOR L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p139
+aVJohnny Newman DEN 03/19/1998 DEN @ TOR L 38 24 10 16 62.5 1 1 100.0 3 5 60.0 0 2 2 2 1 1 4 5 -6
+p140
+aVJoe Wolf DEN 03/19/1998 DEN @ TOR L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p141
+aVDean Garrett DEN 03/19/1998 DEN @ TOR L 44 11 3 8 37.5 0 0 - 5 5 100.0 4 7 11 3 1 6 3 5 -2
+p142
+aVDanny Fortson DEN 03/19/1998 DEN @ TOR L 22 4 2 6 33.3 0 0 - 0 0 - 5 1 6 1 1 0 3 5 -2
+p143
+aVAnthony Goldwire DEN 03/17/1998 DEN @ WAS W 34 14 4 10 40.0 1 1 100.0 5 5 100.0 0 3 3 0 1 0 1 5 4
+p144
+aVJohnny Newman DEN 03/17/1998 DEN @ WAS W 30 16 5 12 41.7 0 1 0.0 6 8 75.0 1 1 2 2 0 1 1 4 3
+p145
+aVDanny Fortson DEN 03/17/1998 DEN @ WAS W 35 13 5 11 45.5 0 0 - 3 4 75.0 3 4 7 2 0 0 3 4 3
+p146
+aVBryant Stith DEN 03/17/1998 DEN @ WAS W 11 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p147
+aVJoe Wolf DEN 03/17/1998 DEN @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p148
+aVCory Alexander DEN 03/17/1998 DEN @ WAS W 32 14 5 11 45.5 2 6 33.3 2 2 100.0 0 2 2 5 2 0 0 3 -6
+p149
+aVDean Garrett DEN 03/17/1998 DEN @ WAS W 30 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 1 0 0 0 0 -11
+p150
+aVTony Battie DEN 03/17/1998 DEN @ WAS W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -3
+p151
+aVBobby Jackson DEN 03/17/1998 DEN @ WAS W 17 5 2 6 33.3 1 2 50.0 0 0 - 1 0 1 5 4 0 0 3 12
+p152
+aVLaPhonso Ellis DEN 03/17/1998 DEN @ WAS W 41 18 7 16 43.8 1 1 100.0 3 4 75.0 4 9 13 4 0 1 1 0 6
+p153
+aVLaPhonso Ellis DEN 03/16/1998 DEN @ CHH L 24 7 2 9 22.2 0 2 0.0 3 3 100.0 0 4 4 2 3 0 3 5 -21
+p154
+aVEric Washington DEN 03/16/1998 DEN @ CHH L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 4
+p155
+aVTony Battie DEN 03/16/1998 DEN @ CHH L 23 13 6 8 75.0 0 0 - 1 1 100.0 3 1 4 1 0 2 1 4 9
+p156
+aVCory Alexander DEN 03/16/1998 DEN @ CHH L 33 8 3 8 37.5 2 2 100.0 0 0 - 0 3 3 4 0 0 4 0 -26
+p157
+aVBobby Jackson DEN 03/16/1998 DEN @ CHH L 24 9 4 10 40.0 0 1 0.0 1 2 50.0 4 4 8 4 2 0 5 1 3
+p158
+aVDean Garrett DEN 03/16/1998 DEN @ CHH L 22 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 0 3 3 -16
+p159
+aVJohnny Newman DEN 03/16/1998 DEN @ CHH L 28 17 4 10 40.0 0 1 0.0 9 10 90.0 0 1 1 1 1 0 3 1 -10
+p160
+aVAnthony Goldwire DEN 03/16/1998 DEN @ CHH L 34 15 6 12 50.0 1 3 33.3 2 2 100.0 0 1 1 3 0 0 0 1 -25
+p161
+aVDanny Fortson DEN 03/16/1998 DEN @ CHH L 23 12 4 6 66.7 0 0 - 4 6 66.7 2 2 4 0 2 1 3 5 -13
+p162
+aVJoe Wolf DEN 03/16/1998 DEN @ CHH L 16 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 2 0 0 1 -15
+p163
+aVTony Battie DEN 03/14/1998 DEN vs. POR W 14 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 0 0 2 1 2 11
+p164
+aVDean Garrett DEN 03/14/1998 DEN vs. POR W 35 12 4 9 44.4 0 0 - 4 8 50.0 1 6 7 1 3 4 0 5 3
+p165
+aVCory Alexander DEN 03/14/1998 DEN vs. POR W 32 14 4 9 44.4 2 4 50.0 4 6 66.7 0 4 4 9 2 0 3 1 8
+p166
+aVAnthony Goldwire DEN 03/14/1998 DEN vs. POR W 37 12 5 12 41.7 0 1 0.0 2 4 50.0 1 0 1 3 0 0 1 1 -4
+p167
+aVEric Washington DEN 03/14/1998 DEN vs. POR W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p168
+aVJoe Wolf DEN 03/14/1998 DEN vs. POR W 13 0 0 2 0.0 0 0 - 0 0 - 3 5 8 1 0 0 0 2 7
+p169
+aVDanny Fortson DEN 03/14/1998 DEN vs. POR W 30 8 3 6 50.0 0 0 - 2 3 66.7 2 4 6 1 2 0 3 4 3
+p170
+aVLaPhonso Ellis DEN 03/14/1998 DEN vs. POR W 40 9 3 12 25.0 0 0 - 3 4 75.0 1 8 9 3 2 2 2 2 8
+p171
+aVJohnny Newman DEN 03/14/1998 DEN vs. POR W 28 33 9 19 47.4 1 2 50.0 14 15 93.3 1 1 2 2 4 0 5 3 10
+p172
+aVDean Garrett DEN 03/12/1998 DEN vs. VAN W 31 8 3 12 25.0 0 0 - 2 2 100.0 5 3 8 1 0 3 0 5 13
+p173
+aVLaPhonso Ellis DEN 03/12/1998 DEN vs. VAN W 42 15 5 12 41.7 0 1 0.0 5 6 83.3 5 8 13 4 1 3 4 3 4
+p174
+aVEric Washington DEN 03/12/1998 DEN vs. VAN W 17 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 7
+p175
+aVDanny Fortson DEN 03/12/1998 DEN vs. VAN W 30 19 9 17 52.9 0 0 - 1 2 50.0 6 2 8 2 2 0 2 4 -17
+p176
+aVAnthony Goldwire DEN 03/12/1998 DEN vs. VAN W 32 10 4 8 50.0 2 3 66.7 0 0 - 0 1 1 3 1 0 1 2 1
+p177
+aVCory Alexander DEN 03/12/1998 DEN vs. VAN W 43 21 8 17 47.1 2 5 40.0 3 3 100.0 2 4 6 4 4 1 4 2 6
+p178
+aVJoe Wolf DEN 03/12/1998 DEN vs. VAN W 14 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 1 1 2 1
+p179
+aVJohnny Newman DEN 03/12/1998 DEN vs. VAN W 32 17 4 11 36.4 2 3 66.7 7 7 100.0 1 1 2 3 2 0 1 2 10
+p180
+aVJohnny Newman DEN 03/10/1998 DEN vs. PHX L 30 20 5 12 41.7 0 0 - 10 11 90.9 1 3 4 1 2 1 4 2 -14
+p181
+aVBryant Stith DEN 03/10/1998 DEN vs. PHX L 29 5 1 8 12.5 0 4 0.0 3 4 75.0 0 1 1 1 1 0 2 5 -8
+p182
+aVCory Alexander DEN 03/10/1998 DEN vs. PHX L 20 7 2 5 40.0 1 2 50.0 2 2 100.0 0 3 3 0 1 0 3 1 -12
+p183
+aVEric Washington DEN 03/10/1998 DEN vs. PHX L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -11
+p184
+aVKiwane Garris DEN 03/10/1998 DEN vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p185
+aVAnthony Goldwire DEN 03/10/1998 DEN vs. PHX L 30 4 2 8 25.0 0 0 - 0 0 - 2 0 2 5 1 0 1 1 -11
+p186
+aVDanny Fortson DEN 03/10/1998 DEN vs. PHX L 34 12 6 11 54.5 0 0 - 0 2 0.0 3 2 5 5 0 1 2 5 -12
+p187
+aVDean Garrett DEN 03/10/1998 DEN vs. PHX L 31 6 3 5 60.0 0 0 - 0 0 - 1 7 8 2 0 1 4 1 -18
+p188
+aVJoe Wolf DEN 03/10/1998 DEN vs. PHX L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -12
+p189
+aVLaPhonso Ellis DEN 03/10/1998 DEN vs. PHX L 35 14 5 10 50.0 0 1 0.0 4 5 80.0 3 6 9 1 2 1 2 3 -15
+p190
+aVHarold Ellis DEN 03/10/1998 DEN vs. PHX L 7 6 2 5 40.0 0 0 - 2 3 66.7 0 1 1 0 0 0 1 1 -6
+p191
+aVTony Battie DEN 03/08/1998 DEN vs. LAC L 19 12 6 8 75.0 0 0 - 0 0 - 5 2 7 0 1 0 1 6 -1
+p192
+aVHarold Ellis DEN 03/08/1998 DEN vs. LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p193
+aVAnthony Goldwire DEN 03/08/1998 DEN vs. LAC L 34 8 3 9 33.3 0 2 0.0 2 4 50.0 0 0 0 7 1 0 3 3 -17
+p194
+aVDean Garrett DEN 03/08/1998 DEN vs. LAC L 37 10 3 9 33.3 0 0 - 4 6 66.7 1 7 8 0 2 1 1 1 -17
+p195
+aVCory Alexander DEN 03/08/1998 DEN vs. LAC L 34 11 4 13 30.8 1 5 20.0 2 2 100.0 0 3 3 5 2 0 2 2 0
+p196
+aVBryant Stith DEN 03/08/1998 DEN vs. LAC L 29 11 3 7 42.9 1 3 33.3 4 4 100.0 0 1 1 1 0 0 4 2 -10
+p197
+aVLaPhonso Ellis DEN 03/08/1998 DEN vs. LAC L 36 20 7 14 50.0 2 4 50.0 4 5 80.0 2 8 10 1 1 2 2 3 -9
+p198
+aVJohnny Newman DEN 03/08/1998 DEN vs. LAC L 36 10 4 9 44.4 0 2 0.0 2 3 66.7 2 2 4 3 1 1 4 6 -3
+p199
+aVDanny Fortson DEN 03/08/1998 DEN vs. LAC L 14 7 3 5 60.0 0 0 - 1 1 100.0 2 2 4 0 1 0 3 4 4
+p200
+aVCory Alexander DEN 03/06/1998 DEN @ ATL L 30 11 4 9 44.4 1 5 20.0 2 2 100.0 1 0 1 6 2 0 4 2 -14
+p201
+aVLaPhonso Ellis DEN 03/06/1998 DEN @ ATL L 38 9 2 9 22.2 1 1 100.0 4 4 100.0 0 8 8 6 0 0 1 3 -15
+p202
+aVKiwane Garris DEN 03/06/1998 DEN @ ATL L 3 2 0 0 - 0 0 - 2 3 66.7 0 0 0 0 0 0 1 0 -3
+p203
+aVHarold Ellis DEN 03/06/1998 DEN @ ATL L 22 13 5 11 45.5 0 1 0.0 3 4 75.0 1 2 3 3 2 1 2 4 -7
+p204
+aVTony Battie DEN 03/06/1998 DEN @ ATL L 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p205
+aVDean Garrett DEN 03/06/1998 DEN @ ATL L 34 18 8 11 72.7 0 0 - 2 5 40.0 2 8 10 0 0 1 0 4 -19
+p206
+aVJohnny Newman DEN 03/06/1998 DEN @ ATL L 38 23 10 20 50.0 1 2 50.0 2 4 50.0 4 3 7 3 5 0 3 3 -13
+p207
+aVDanny Fortson DEN 03/06/1998 DEN @ ATL L 20 9 3 6 50.0 0 0 - 3 3 100.0 2 1 3 1 0 1 1 6 -5
+p208
+aVJoe Wolf DEN 03/06/1998 DEN @ ATL L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -5
+p209
+aVEric Washington DEN 03/06/1998 DEN @ ATL L 7 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p210
+aVAnthony Goldwire DEN 03/06/1998 DEN @ ATL L 36 6 3 9 33.3 0 1 0.0 0 0 - 0 0 0 7 2 0 0 1 -15
+p211
+aVLaPhonso Ellis DEN 03/05/1998 DEN @ MIL L 38 12 4 14 28.6 0 2 0.0 4 6 66.7 2 5 7 2 0 1 2 3 -11
+p212
+aVJohnny Newman DEN 03/05/1998 DEN @ MIL L 38 22 5 13 38.5 0 2 0.0 12 14 85.7 1 3 4 3 2 0 1 4 -17
+p213
+aVAnthony Goldwire DEN 03/05/1998 DEN @ MIL L 36 13 4 13 30.8 0 2 0.0 5 5 100.0 1 0 1 3 2 0 3 1 -17
+p214
+aVTony Battie DEN 03/05/1998 DEN @ MIL L 12 0 0 5 0.0 0 0 - 0 0 - 3 3 6 0 0 0 3 1 -19
+p215
+aVEric Washington DEN 03/05/1998 DEN @ MIL L 22 5 2 7 28.6 1 1 100.0 0 0 - 0 1 1 4 0 0 0 4 1
+p216
+aVCory Alexander DEN 03/05/1998 DEN @ MIL L 27 16 6 13 46.2 3 8 37.5 1 2 50.0 1 1 2 4 5 0 2 2 -5
+p217
+aVDanny Fortson DEN 03/05/1998 DEN @ MIL L 27 11 3 8 37.5 0 0 - 5 6 83.3 4 4 8 1 2 0 0 5 -4
+p218
+aVJoe Wolf DEN 03/05/1998 DEN @ MIL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p219
+aVDean Garrett DEN 03/05/1998 DEN @ MIL L 32 8 3 11 27.3 0 0 - 2 2 100.0 2 4 6 0 1 2 1 4 -14
+p220
+aVBryant Stith DEN 03/03/1998 DEN @ CHI L 15 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p221
+aVHarold Ellis DEN 03/03/1998 DEN @ CHI L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 1 -8
+p222
+aVJoe Wolf DEN 03/03/1998 DEN @ CHI L 12 0 0 7 0.0 0 0 - 0 0 - 3 1 4 2 1 0 0 0 -12
+p223
+aVDanny Fortson DEN 03/03/1998 DEN @ CHI L 25 26 11 20 55.0 0 0 - 4 4 100.0 5 3 8 0 1 1 1 6 -12
+p224
+aVTony Battie DEN 03/03/1998 DEN @ CHI L 21 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 2 2 2 -22
+p225
+aVJohnny Newman DEN 03/03/1998 DEN @ CHI L 26 15 4 11 36.4 2 3 66.7 5 6 83.3 0 1 1 2 0 0 3 2 -8
+p226
+aVEric Washington DEN 03/03/1998 DEN @ CHI L 27 4 2 8 25.0 0 1 0.0 0 0 - 0 4 4 0 1 0 0 1 -19
+p227
+aVKiwane Garris DEN 03/03/1998 DEN @ CHI L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 1 2 -9
+p228
+aVDean Garrett DEN 03/03/1998 DEN @ CHI L 23 8 4 4 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -9
+p229
+aVLaPhonso Ellis DEN 03/03/1998 DEN @ CHI L 38 20 6 11 54.5 2 3 66.7 6 6 100.0 4 5 9 2 2 1 3 5 -10
+p230
+aVAnthony Goldwire DEN 03/03/1998 DEN @ CHI L 36 8 2 12 16.7 0 3 0.0 4 4 100.0 0 2 2 8 2 0 1 1 -19
+p231
+aVJoe Wolf DEN 03/01/1998 DEN @ IND L 17 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 1 0 1 1 4
+p232
+aVDanny Fortson DEN 03/01/1998 DEN @ IND L 27 15 6 10 60.0 0 0 - 3 4 75.0 1 7 8 0 0 0 3 3 0
+p233
+aVKiwane Garris DEN 03/01/1998 DEN @ IND L 19 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 4 1 0 0 0 3
+p234
+aVDean Garrett DEN 03/01/1998 DEN @ IND L 23 2 1 6 16.7 0 0 - 0 0 - 1 4 5 0 0 0 2 2 -27
+p235
+aVHarold Ellis DEN 03/01/1998 DEN @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p236
+aVTony Battie DEN 03/01/1998 DEN @ IND L 28 12 6 12 50.0 0 0 - 0 0 - 5 2 7 0 1 2 2 2 -27
+p237
+aVAnthony Goldwire DEN 03/01/1998 DEN @ IND L 29 11 4 11 36.4 1 4 25.0 2 2 100.0 3 1 4 2 0 0 1 2 -30
+p238
+aVBryant Stith DEN 03/01/1998 DEN @ IND L 29 9 4 11 36.4 0 2 0.0 1 2 50.0 0 1 1 2 2 0 1 1 -30
+p239
+aVLaPhonso Ellis DEN 03/01/1998 DEN @ IND L 35 4 2 12 16.7 0 3 0.0 0 0 - 0 5 5 5 0 0 1 0 -21
+p240
+aVEric Washington DEN 03/01/1998 DEN @ IND L 29 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 2 3 0 0 3 -6
+p241
+aVKiwane Garris DEN 02/27/1998 DEN vs. PHI L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 1 15
+p242
+aVDanny Fortson DEN 02/27/1998 DEN vs. PHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p243
+aVJohnny Newman DEN 02/27/1998 DEN vs. PHI L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -7
+p244
+aVDean Garrett DEN 02/27/1998 DEN vs. PHI L 41 16 8 11 72.7 0 0 - 0 0 - 5 6 11 2 2 2 2 5 3
+p245
+aVTony Battie DEN 02/27/1998 DEN vs. PHI L 32 4 2 8 25.0 0 0 - 0 0 - 0 2 2 3 0 0 2 2 -3
+p246
+aVEric Washington DEN 02/27/1998 DEN vs. PHI L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p247
+aVAnthony Goldwire DEN 02/27/1998 DEN vs. PHI L 37 12 2 11 18.2 0 2 0.0 8 8 100.0 3 1 4 4 0 1 1 2 -16
+p248
+aVBryant Stith DEN 02/27/1998 DEN vs. PHI L 38 15 4 13 30.8 0 1 0.0 7 8 87.5 2 4 6 5 1 1 3 1 7
+p249
+aVLaPhonso Ellis DEN 02/27/1998 DEN vs. PHI L 36 22 9 19 47.4 2 4 50.0 2 3 66.7 3 3 6 0 3 0 1 1 1
+p250
+aVJoe Wolf DEN 02/27/1998 DEN vs. PHI L 19 0 0 2 0.0 0 0 - 0 0 - 2 4 6 4 1 0 2 2 2
+p251
+aVLaPhonso Ellis DEN 02/25/1998 DEN vs. ATL L 31 15 5 17 29.4 1 2 50.0 4 4 100.0 3 4 7 1 0 0 2 4 -22
+p252
+aVJoe Wolf DEN 02/25/1998 DEN vs. ATL L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -9
+p253
+aVDean Garrett DEN 02/25/1998 DEN vs. ATL L 23 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 1 0 2 1 -13
+p254
+aVTony Battie DEN 02/25/1998 DEN vs. ATL L 23 6 3 10 30.0 0 0 - 0 0 - 5 9 14 0 1 0 3 3 -19
+p255
+aVGeorge Zidek DEN 02/25/1998 DEN vs. ATL L 8 9 2 3 66.7 0 0 - 5 6 83.3 0 0 0 0 0 1 0 0 4
+p256
+aVEric Washington DEN 02/25/1998 DEN vs. ATL L 25 8 3 6 50.0 0 2 0.0 2 2 100.0 3 1 4 3 1 1 1 1 -13
+p257
+aVAnthony Goldwire DEN 02/25/1998 DEN vs. ATL L 39 20 9 20 45.0 1 3 33.3 1 2 50.0 2 2 4 4 0 0 3 2 -19
+p258
+aVBryant Stith DEN 02/25/1998 DEN vs. ATL L 21 6 2 4 50.0 1 2 50.0 1 1 100.0 1 0 1 2 0 1 1 3 -15
+p259
+aVJohnny Newman DEN 02/25/1998 DEN vs. ATL L 25 7 3 11 27.3 1 1 100.0 0 0 - 0 0 0 1 2 1 1 3 -19
+p260
+aVPriest Lauderdale DEN 02/25/1998 DEN vs. ATL L 6 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 1 0 1 3 12
+p261
+aVDanny Fortson DEN 02/25/1998 DEN vs. ATL L 17 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 0 2 0 4 -14
+p262
+aVKiwane Garris DEN 02/25/1998 DEN vs. ATL L 14 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 3 0 0 2 1 7
+p263
+aVLaPhonso Ellis DEN 02/23/1998 DEN vs. CHH L 40 23 10 20 50.0 1 5 20.0 2 2 100.0 2 10 12 1 2 0 2 4 -17
+p264
+aVEric Washington DEN 02/23/1998 DEN vs. CHH L 16 6 3 5 60.0 0 0 - 0 0 - 0 0 0 3 0 1 0 2 -3
+p265
+aVAnthony Goldwire DEN 02/23/1998 DEN vs. CHH L 39 14 6 12 50.0 2 4 50.0 0 0 - 0 4 4 6 1 0 2 3 -12
+p266
+aVTony Battie DEN 02/23/1998 DEN vs. CHH L 15 2 1 5 20.0 0 0 - 0 0 - 1 0 1 2 0 1 0 2 -14
+p267
+aVJoe Wolf DEN 02/23/1998 DEN vs. CHH L 15 8 4 4 100.0 0 0 - 0 0 - 1 1 2 3 0 0 1 2 -6
+p268
+aVKiwane Garris DEN 02/23/1998 DEN vs. CHH L 10 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 0 0 0 2 3 -11
+p269
+aVJohnny Newman DEN 02/23/1998 DEN vs. CHH L 39 18 8 16 50.0 0 1 0.0 2 4 50.0 2 1 3 6 1 1 1 2 -15
+p270
+aVDanny Fortson DEN 02/23/1998 DEN vs. CHH L 19 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 0 1 0 1 3 1
+p271
+aVBryant Stith DEN 02/23/1998 DEN vs. CHH L 24 10 3 10 30.0 1 2 50.0 3 3 100.0 0 0 0 1 0 1 1 1 -6
+p272
+aVDean Garrett DEN 02/23/1998 DEN vs. CHH L 23 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 0 1 1 -17
+p273
+aVJohnny Newman DEN 02/22/1998 DEN @ SEA L 31 13 5 18 27.8 0 3 0.0 3 4 75.0 2 4 6 4 0 1 4 3 -6
+p274
+aVDean Garrett DEN 02/22/1998 DEN @ SEA L 36 2 1 3 33.3 0 0 - 0 0 - 3 9 12 1 2 3 1 2 -12
+p275
+aVKiwane Garris DEN 02/22/1998 DEN @ SEA L 13 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -4
+p276
+aVTony Battie DEN 02/22/1998 DEN @ SEA L 30 9 4 9 44.4 0 1 0.0 1 2 50.0 2 5 7 0 0 2 3 4 -24
+p277
+aVJoe Wolf DEN 02/22/1998 DEN @ SEA L 17 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 1 0 1 2 -2
+p278
+aVGeorge Zidek DEN 02/22/1998 DEN @ SEA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p279
+aVLaPhonso Ellis DEN 02/22/1998 DEN @ SEA L 34 10 5 11 45.5 0 2 0.0 0 0 - 0 4 4 2 0 0 0 3 -6
+p280
+aVEric Washington DEN 02/22/1998 DEN @ SEA L 20 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -21
+p281
+aVAnthony Goldwire DEN 02/22/1998 DEN @ SEA L 35 18 6 15 40.0 1 5 20.0 5 7 71.4 0 2 2 1 2 0 0 2 -16
+p282
+aVBryant Stith DEN 02/22/1998 DEN @ SEA L 21 10 5 9 55.6 0 2 0.0 0 0 - 2 2 4 1 0 0 1 1 -6
+p283
+aVAnthony Goldwire DEN 02/20/1998 DEN @ GSW L 36 11 4 8 50.0 1 3 33.3 2 2 100.0 0 1 1 8 2 0 0 3 1
+p284
+aVGeorge Zidek DEN 02/20/1998 DEN @ GSW L 9 2 0 4 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 1 -3
+p285
+aVEric Washington DEN 02/20/1998 DEN @ GSW L 21 8 3 4 75.0 1 1 100.0 1 1 100.0 1 0 1 1 0 0 0 5 -7
+p286
+aVJoe Wolf DEN 02/20/1998 DEN @ GSW L 16 4 2 6 33.3 0 2 0.0 0 0 - 1 4 5 0 0 0 0 2 -4
+p287
+aVJohnny Newman DEN 02/20/1998 DEN @ GSW L 33 18 6 13 46.2 0 0 - 6 8 75.0 1 1 2 5 2 1 4 3 -2
+p288
+aVTony Battie DEN 02/20/1998 DEN @ GSW L 29 18 9 14 64.3 0 0 - 0 1 0.0 1 6 7 0 1 0 5 4 -6
+p289
+aVLaPhonso Ellis DEN 02/20/1998 DEN @ GSW L 37 17 8 15 53.3 1 5 20.0 0 0 - 1 8 9 4 1 0 4 4 -1
+p290
+aVKiwane Garris DEN 02/20/1998 DEN @ GSW L 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -10
+p291
+aVDean Garrett DEN 02/20/1998 DEN @ GSW L 36 8 4 10 40.0 0 0 - 0 0 - 2 6 8 2 1 1 0 2 -2
+p292
+aVBryant Stith DEN 02/20/1998 DEN @ GSW L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p293
+aVBobby Jackson DEN 02/19/1998 DEN @ LAL L 26 11 5 12 41.7 0 0 - 1 2 50.0 0 3 3 7 3 0 3 4 -26
+p294
+aVJohnny Newman DEN 02/19/1998 DEN @ LAL L 24 19 5 10 50.0 0 0 - 9 13 69.2 1 1 2 1 0 1 3 4 -24
+p295
+aVGeorge Zidek DEN 02/19/1998 DEN @ LAL L 15 5 2 6 33.3 0 0 - 1 2 50.0 1 7 8 1 0 1 1 4 -14
+p296
+aVAnthony Goldwire DEN 02/19/1998 DEN @ LAL L 29 6 2 8 25.0 2 3 66.7 0 0 - 0 0 0 1 1 0 2 1 -28
+p297
+aVKiwane Garris DEN 02/19/1998 DEN @ LAL L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 1 -7
+p298
+aVLaPhonso Ellis DEN 02/19/1998 DEN @ LAL L 28 19 8 14 57.1 1 1 100.0 2 3 66.7 1 2 3 3 3 0 2 4 -26
+p299
+aVDean Garrett DEN 02/19/1998 DEN @ LAL L 29 7 3 5 60.0 0 0 - 1 2 50.0 1 8 9 1 0 1 1 4 -24
+p300
+aVTony Battie DEN 02/19/1998 DEN @ LAL L 26 11 4 9 44.4 0 1 0.0 3 4 75.0 1 2 3 3 1 0 0 4 -16
+p301
+aVDanny Fortson DEN 02/19/1998 DEN @ LAL L 19 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 3 -14
+p302
+aVJoe Wolf DEN 02/19/1998 DEN @ LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -4
+p303
+aVEric Washington DEN 02/19/1998 DEN @ LAL L 31 7 2 9 22.2 0 2 0.0 3 4 75.0 2 2 4 2 2 0 2 2 -12
+p304
+aVDean Garrett DEN 02/17/1998 DEN vs. NYK L 40 16 7 11 63.6 0 0 - 2 4 50.0 6 6 12 2 0 4 1 2 -11
+p305
+aVLaPhonso Ellis DEN 02/17/1998 DEN vs. NYK L 39 23 7 18 38.9 2 6 33.3 7 8 87.5 4 7 11 3 1 0 2 5 -12
+p306
+aVTony Battie DEN 02/17/1998 DEN vs. NYK L 25 2 1 6 16.7 0 1 0.0 0 0 - 2 3 5 0 0 1 0 1 -4
+p307
+aVEric Washington DEN 02/17/1998 DEN vs. NYK L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 2 0 4 -4
+p308
+aVJohnny Newman DEN 02/17/1998 DEN vs. NYK L 35 6 2 11 18.2 0 2 0.0 2 3 66.7 1 1 2 3 2 1 2 3 -10
+p309
+aVAnthony Goldwire DEN 02/17/1998 DEN vs. NYK L 31 10 5 12 41.7 0 2 0.0 0 0 - 0 0 0 3 1 0 0 2 -9
+p310
+aVDanny Fortson DEN 02/17/1998 DEN vs. NYK L 19 4 2 6 33.3 0 0 - 0 0 - 3 2 5 0 0 1 0 1 -4
+p311
+aVBobby Jackson DEN 02/17/1998 DEN vs. NYK L 36 14 6 11 54.5 1 1 100.0 1 4 25.0 0 5 5 3 1 0 4 5 -16
+p312
+aVEric Washington DEN 02/15/1998 DEN @ POR L 33 12 5 9 55.6 2 3 66.7 0 0 - 0 1 1 2 0 1 2 2 -40
+p313
+aVJohnny Newman DEN 02/15/1998 DEN @ POR L 25 21 5 12 41.7 1 1 100.0 10 11 90.9 0 0 0 1 4 0 0 3 -11
+p314
+aVJoe Wolf DEN 02/15/1998 DEN @ POR L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -6
+p315
+aVDean Garrett DEN 02/15/1998 DEN @ POR L 32 9 4 5 80.0 0 0 - 1 3 33.3 1 3 4 1 2 0 0 3 -29
+p316
+aVTony Battie DEN 02/15/1998 DEN @ POR L 30 10 4 12 33.3 0 0 - 2 2 100.0 2 2 4 1 1 2 5 4 -19
+p317
+aVAnthony Goldwire DEN 02/15/1998 DEN @ POR L 33 8 3 10 30.0 0 3 0.0 2 2 100.0 2 1 3 4 2 0 3 3 -18
+p318
+aVLaPhonso Ellis DEN 02/15/1998 DEN @ POR L 34 13 5 13 38.5 0 3 0.0 3 4 75.0 1 3 4 5 1 1 3 3 -28
+p319
+aVBobby Jackson DEN 02/15/1998 DEN @ POR L 26 3 1 7 14.3 0 0 - 1 2 50.0 0 1 1 8 1 0 2 3 -9
+p320
+aVDanny Fortson DEN 02/15/1998 DEN @ POR L 19 4 2 4 50.0 0 0 - 0 0 - 3 4 7 1 0 0 2 2 -15
+p321
+aVDean Garrett DEN 02/13/1998 DEN vs. MIN L 37 11 5 10 50.0 0 0 - 1 2 50.0 8 6 14 0 1 1 1 3 -26
+p322
+aVDanny Fortson DEN 02/13/1998 DEN vs. MIN L 17 6 2 7 28.6 0 0 - 2 2 100.0 2 1 3 0 0 0 2 5 -10
+p323
+aVLaPhonso Ellis DEN 02/13/1998 DEN vs. MIN L 36 16 6 18 33.3 0 3 0.0 4 4 100.0 5 9 14 2 1 0 3 5 -23
+p324
+aVEric Washington DEN 02/13/1998 DEN vs. MIN L 22 2 1 8 12.5 0 0 - 0 0 - 1 2 3 4 0 0 2 3 -24
+p325
+aVBobby Jackson DEN 02/13/1998 DEN vs. MIN L 34 10 4 11 36.4 0 1 0.0 2 2 100.0 0 3 3 4 1 0 3 0 -16
+p326
+aVJohnny Newman DEN 02/13/1998 DEN vs. MIN L 29 9 2 16 12.5 0 3 0.0 5 6 83.3 2 0 2 4 1 0 0 1 -8
+p327
+aVKiwane Garris DEN 02/13/1998 DEN vs. MIN L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p328
+aVAnthony Goldwire DEN 02/13/1998 DEN vs. MIN L 30 16 5 9 55.6 2 3 66.7 4 6 66.7 0 0 0 4 0 0 2 4 -4
+p329
+aVTony Battie DEN 02/13/1998 DEN vs. MIN L 30 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 1 2 1 5 3 -17
+p330
+aVJoe Wolf DEN 02/13/1998 DEN vs. MIN L 4 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -3
+p331
+aVAnthony Goldwire DEN 02/12/1998 DEN @ SAC L 29 16 4 10 40.0 0 3 0.0 8 9 88.9 0 1 1 2 0 0 1 1 1
+p332
+aVLaPhonso Ellis DEN 02/12/1998 DEN @ SAC L 35 15 6 16 37.5 0 1 0.0 3 4 75.0 2 12 14 2 0 1 3 5 1
+p333
+aVJohnny Newman DEN 02/12/1998 DEN @ SAC L 32 13 4 9 44.4 1 3 33.3 4 6 66.7 0 3 3 3 0 1 3 5 3
+p334
+aVDanny Fortson DEN 02/12/1998 DEN @ SAC L 17 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 0 0 2 3 6
+p335
+aVBobby Jackson DEN 02/12/1998 DEN @ SAC L 35 13 5 10 50.0 1 1 100.0 2 2 100.0 1 6 7 5 1 0 3 4 -1
+p336
+aVDean Garrett DEN 02/12/1998 DEN @ SAC L 37 8 2 8 25.0 0 0 - 4 8 50.0 3 10 13 2 1 5 2 1 -12
+p337
+aVTony Battie DEN 02/12/1998 DEN @ SAC L 32 7 3 8 37.5 1 1 100.0 0 0 - 2 4 6 1 2 3 1 1 1
+p338
+aVEric Washington DEN 02/12/1998 DEN @ SAC L 24 7 3 7 42.9 1 1 100.0 0 0 - 1 0 1 0 0 0 2 1 -14
+p339
+aVAnthony Goldwire DEN 02/10/1998 DEN vs. BOS W 29 19 5 9 55.6 1 2 50.0 8 10 80.0 0 4 4 5 1 1 2 5 2
+p340
+aVTony Battie DEN 02/10/1998 DEN vs. BOS W 34 10 4 5 80.0 0 0 - 2 2 100.0 3 10 13 1 1 8 2 4 13
+p341
+aVDean Garrett DEN 02/10/1998 DEN vs. BOS W 29 2 1 3 33.3 0 0 - 0 1 0.0 1 5 6 2 0 2 1 2 13
+p342
+aVEric Washington DEN 02/10/1998 DEN vs. BOS W 28 8 3 7 42.9 1 4 25.0 1 2 50.0 0 2 2 2 1 0 6 1 17
+p343
+aVLaPhonso Ellis DEN 02/10/1998 DEN vs. BOS W 38 19 7 10 70.0 2 3 66.7 3 3 100.0 2 5 7 4 0 2 1 4 15
+p344
+aVBobby Jackson DEN 02/10/1998 DEN vs. BOS W 37 14 7 12 58.3 0 0 - 0 0 - 1 4 5 14 2 0 6 3 10
+p345
+aVDanny Fortson DEN 02/10/1998 DEN vs. BOS W 17 6 1 3 33.3 0 0 - 4 4 100.0 3 3 6 0 1 0 3 5 -1
+p346
+aVJohnny Newman DEN 02/10/1998 DEN vs. BOS W 29 34 9 13 69.2 1 1 100.0 15 18 83.3 1 1 2 1 2 1 3 3 -4
+p347
+aVEric Washington DEN 02/04/1998 DEN vs. SAC L 33 10 4 11 36.4 0 2 0.0 2 2 100.0 1 0 1 0 0 2 1 4 -4
+p348
+aVJoe Wolf DEN 02/04/1998 DEN vs. SAC L 19 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -3
+p349
+aVJohnny Newman DEN 02/04/1998 DEN vs. SAC L 28 18 6 8 75.0 0 0 - 6 7 85.7 0 2 2 0 0 0 4 4 -4
+p350
+aVBobby Jackson DEN 02/04/1998 DEN vs. SAC L 34 14 4 12 33.3 0 1 0.0 6 6 100.0 0 0 0 4 3 0 4 2 -4
+p351
+aVTony Battie DEN 02/04/1998 DEN vs. SAC L 25 10 5 9 55.6 0 0 - 0 0 - 5 3 8 1 1 0 2 1 -6
+p352
+aVDanny Fortson DEN 02/04/1998 DEN vs. SAC L 14 2 1 5 20.0 0 0 - 0 0 - 1 5 6 0 1 0 0 3 4
+p353
+aVLaPhonso Ellis DEN 02/04/1998 DEN vs. SAC L 38 23 8 18 44.4 0 1 0.0 7 10 70.0 4 9 13 4 1 1 3 3 5
+p354
+aVDean Garrett DEN 02/04/1998 DEN vs. SAC L 24 4 2 7 28.6 0 0 - 0 0 - 3 2 5 0 1 1 1 4 0
+p355
+aVAnthony Goldwire DEN 02/04/1998 DEN vs. SAC L 25 12 5 8 62.5 2 2 100.0 0 0 - 1 3 4 3 1 0 2 4 2
+p356
+aVTony Battie DEN 02/02/1998 DEN vs. CHI L 22 7 3 8 37.5 1 2 50.0 0 0 - 1 1 2 0 1 0 1 3 -23
+p357
+aVEric Washington DEN 02/02/1998 DEN vs. CHI L 31 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 0 1 0 2 4 -26
+p358
+aVLaPhonso Ellis DEN 02/02/1998 DEN vs. CHI L 30 13 5 11 45.5 0 1 0.0 3 4 75.0 1 4 5 0 2 0 1 1 -28
+p359
+aVDanny Fortson DEN 02/02/1998 DEN vs. CHI L 17 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 0 1 0 3 3 -10
+p360
+aVKiwane Garris DEN 02/02/1998 DEN vs. CHI L 5 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 -9
+p361
+aVPriest Lauderdale DEN 02/02/1998 DEN vs. CHI L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -9
+p362
+aVDean Garrett DEN 02/02/1998 DEN vs. CHI L 31 6 3 10 30.0 0 0 - 0 0 - 2 6 8 0 0 3 1 2 -27
+p363
+aVAnthony Goldwire DEN 02/02/1998 DEN vs. CHI L 26 10 5 8 62.5 0 1 0.0 0 0 - 0 2 2 5 0 0 1 2 -14
+p364
+aVJoe Wolf DEN 02/02/1998 DEN vs. CHI L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -1
+p365
+aVBobby Jackson DEN 02/02/1998 DEN vs. CHI L 30 6 2 9 22.2 0 1 0.0 2 2 100.0 0 5 5 4 1 0 2 2 -28
+p366
+aVJohnny Newman DEN 02/02/1998 DEN vs. CHI L 36 19 7 16 43.8 1 1 100.0 4 5 80.0 1 1 2 3 1 2 3 4 -20
+p367
+aVTony Battie DEN 01/31/1998 DEN vs. DAL W 27 19 8 14 57.1 0 0 - 3 7 42.9 5 2 7 2 2 0 4 4 4
+p368
+aVEric Washington DEN 01/31/1998 DEN vs. DAL W 26 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 4 0 0 2 2 -8
+p369
+aVJoe Wolf DEN 01/31/1998 DEN vs. DAL W 10 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 -2
+p370
+aVAnthony Goldwire DEN 01/31/1998 DEN vs. DAL W 27 14 6 7 85.7 1 2 50.0 1 1 100.0 0 1 1 5 3 0 1 1 16
+p371
+aVDanny Fortson DEN 01/31/1998 DEN vs. DAL W 9 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 0 0 4 3 1
+p372
+aVBobby Jackson DEN 01/31/1998 DEN vs. DAL W 38 20 10 19 52.6 0 1 0.0 0 0 - 1 10 11 4 4 0 3 3 16
+p373
+aVJohnny Newman DEN 01/31/1998 DEN vs. DAL W 32 21 8 16 50.0 1 3 33.3 4 4 100.0 0 0 0 4 0 0 2 3 13
+p374
+aVLaPhonso Ellis DEN 01/31/1998 DEN vs. DAL W 33 13 4 11 36.4 1 2 50.0 4 4 100.0 4 10 14 5 1 0 2 2 14
+p375
+aVHarold Ellis DEN 01/31/1998 DEN vs. DAL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 0
+p376
+aVDean Garrett DEN 01/31/1998 DEN vs. DAL W 31 15 7 12 58.3 0 0 - 1 1 100.0 3 6 9 4 0 2 1 1 6
+p377
+aVJohnny Newman DEN 01/29/1998 DEN vs. TOR L 30 10 3 7 42.9 0 0 - 4 4 100.0 1 4 5 2 2 1 2 1 14
+p378
+aVJoe Wolf DEN 01/29/1998 DEN vs. TOR L 13 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 10
+p379
+aVEric Washington DEN 01/29/1998 DEN vs. TOR L 23 12 6 12 50.0 0 2 0.0 0 0 - 2 1 3 2 1 0 1 1 -23
+p380
+aVAnthony Goldwire DEN 01/29/1998 DEN vs. TOR L 27 0 0 5 0.0 0 0 - 0 2 0.0 0 1 1 5 0 0 1 3 10
+p381
+aVLaPhonso Ellis DEN 01/29/1998 DEN vs. TOR L 36 18 6 14 42.9 2 3 66.7 4 4 100.0 3 2 5 2 2 0 2 2 -10
+p382
+aVDanny Fortson DEN 01/29/1998 DEN vs. TOR L 27 12 4 10 40.0 0 0 - 4 4 100.0 5 5 10 2 1 0 5 3 10
+p383
+aVTony Battie DEN 01/29/1998 DEN vs. TOR L 17 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 4 -12
+p384
+aVHarold Ellis DEN 01/29/1998 DEN vs. TOR L 9 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 9
+p385
+aVDean Garrett DEN 01/29/1998 DEN vs. TOR L 27 1 0 5 0.0 0 0 - 1 4 25.0 3 2 5 0 1 1 1 2 -23
+p386
+aVPriest Lauderdale DEN 01/29/1998 DEN vs. TOR L 7 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 3 0 9
+p387
+aVBobby Jackson DEN 01/29/1998 DEN vs. TOR L 23 8 2 7 28.6 0 2 0.0 4 4 100.0 0 5 5 2 1 0 4 4 -14
+p388
+aVKiwane Garris DEN 01/27/1998 DEN vs. NJN L 13 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 1
+p389
+aVAnthony Goldwire DEN 01/27/1998 DEN vs. NJN L 38 14 6 14 42.9 0 1 0.0 2 2 100.0 1 4 5 8 4 1 0 4 -14
+p390
+aVLaPhonso Ellis DEN 01/27/1998 DEN vs. NJN L 30 9 4 14 28.6 0 0 - 1 2 50.0 5 3 8 2 0 1 0 2 -32
+p391
+aVJoe Wolf DEN 01/27/1998 DEN vs. NJN L 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 0 3 -1
+p392
+aVHarold Ellis DEN 01/27/1998 DEN vs. NJN L 15 13 6 8 75.0 0 1 0.0 1 2 50.0 1 2 3 1 1 0 3 2 0
+p393
+aVDanny Fortson DEN 01/27/1998 DEN vs. NJN L 27 15 2 7 28.6 0 1 0.0 11 14 78.6 2 9 11 2 1 0 0 5 -7
+p394
+aVEric Washington DEN 01/27/1998 DEN vs. NJN L 15 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 0 -26
+p395
+aVJohnny Newman DEN 01/27/1998 DEN vs. NJN L 22 9 4 8 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 3 -27
+p396
+aVBobby Jackson DEN 01/27/1998 DEN vs. NJN L 33 8 3 14 21.4 0 0 - 2 2 100.0 0 0 0 2 0 1 4 1 -27
+p397
+aVDean Garrett DEN 01/27/1998 DEN vs. NJN L 29 15 6 10 60.0 0 0 - 3 5 60.0 6 4 10 0 0 3 1 0 -32
+p398
+aVDean Garrett DEN 01/24/1998 DEN @ LAC W 33 12 5 8 62.5 0 0 - 2 2 100.0 5 10 15 1 0 2 2 3 7
+p399
+aVTony Battie DEN 01/24/1998 DEN @ LAC W 21 13 5 7 71.4 0 0 - 3 6 50.0 0 2 2 0 1 4 0 4 7
+p400
+aVHarold Ellis DEN 01/24/1998 DEN @ LAC W 14 4 2 3 66.7 0 0 - 0 2 0.0 0 0 0 1 3 0 0 3 10
+p401
+aVBobby Jackson DEN 01/24/1998 DEN @ LAC W 32 4 1 8 12.5 0 2 0.0 2 2 100.0 1 4 5 4 3 0 2 2 5
+p402
+aVAnthony Goldwire DEN 01/24/1998 DEN @ LAC W 29 20 6 8 75.0 0 1 0.0 8 10 80.0 0 1 1 2 1 0 1 4 11
+p403
+aVDanny Fortson DEN 01/24/1998 DEN @ LAC W 23 15 6 8 75.0 0 0 - 3 4 75.0 6 1 7 1 1 0 2 5 10
+p404
+aVLaPhonso Ellis DEN 01/24/1998 DEN @ LAC W 34 12 5 13 38.5 1 4 25.0 1 4 25.0 3 5 8 2 0 1 1 2 8
+p405
+aVJohnny Newman DEN 01/24/1998 DEN @ LAC W 38 19 3 9 33.3 0 1 0.0 13 14 92.9 0 2 2 0 1 0 3 3 21
+p406
+aVJoe Wolf DEN 01/24/1998 DEN @ LAC W 15 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 2 0 0 1 11
+p407
+aVJoe Wolf DEN 01/23/1998 DEN @ PHX L 20 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 2 5 2 -6
+p408
+aVLaPhonso Ellis DEN 01/23/1998 DEN @ PHX L 35 12 5 11 45.5 0 0 - 2 2 100.0 0 4 4 4 3 0 2 1 -17
+p409
+aVDanny Fortson DEN 01/23/1998 DEN @ PHX L 19 0 0 3 0.0 0 0 - 0 0 - 3 3 6 1 0 1 1 3 -10
+p410
+aVAnthony Goldwire DEN 01/23/1998 DEN @ PHX L 16 10 4 5 80.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 0 -1
+p411
+aVEric Washington DEN 01/23/1998 DEN @ PHX L 37 14 6 11 54.5 2 4 50.0 0 0 - 0 2 2 6 3 1 3 1 1
+p412
+aVBobby Jackson DEN 01/23/1998 DEN @ PHX L 35 18 9 16 56.3 0 2 0.0 0 0 - 2 2 4 4 1 0 1 1 -21
+p413
+aVTony Battie DEN 01/23/1998 DEN @ PHX L 31 8 4 9 44.4 0 1 0.0 0 0 - 0 4 4 4 1 0 2 4 -5
+p414
+aVDean Garrett DEN 01/23/1998 DEN @ PHX L 26 4 2 3 66.7 0 0 - 0 0 - 2 3 5 2 0 0 3 2 -11
+p415
+aVKiwane Garris DEN 01/23/1998 DEN @ PHX L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p416
+aVJohnny Newman DEN 01/23/1998 DEN @ PHX L 20 9 4 8 50.0 0 2 0.0 1 2 50.0 0 2 2 1 2 0 4 3 -11
+p417
+aVBobby Jackson DEN 01/21/1998 DEN vs. DET L 36 16 6 15 40.0 2 4 50.0 2 3 66.7 0 5 5 4 2 0 4 3 -17
+p418
+aVKiwane Garris DEN 01/21/1998 DEN vs. DET L 19 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 2 2 0 1 1 -12
+p419
+aVHarold Ellis DEN 01/21/1998 DEN vs. DET L 31 8 4 9 44.4 0 1 0.0 0 0 - 4 2 6 2 0 0 2 3 -1
+p420
+aVAnthony Goldwire DEN 01/21/1998 DEN vs. DET L 16 6 1 4 25.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 0 -16
+p421
+aVDanny Fortson DEN 01/21/1998 DEN vs. DET L 19 11 2 7 28.6 0 0 - 7 8 87.5 1 4 5 1 0 0 1 4 -7
+p422
+aVJoe Wolf DEN 01/21/1998 DEN vs. DET L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -6
+p423
+aVTony Battie DEN 01/21/1998 DEN vs. DET L 32 7 3 10 30.0 0 1 0.0 1 1 100.0 0 9 9 1 0 4 1 1 -15
+p424
+aVEric Washington DEN 01/21/1998 DEN vs. DET L 39 12 3 12 25.0 2 6 33.3 4 4 100.0 1 2 3 2 1 2 1 3 -15
+p425
+aVDean Garrett DEN 01/21/1998 DEN vs. DET L 32 2 1 6 16.7 0 0 - 0 0 - 3 4 7 1 0 2 0 5 -11
+p426
+aVEric Washington DEN 01/20/1998 DEN @ VAN L 40 14 5 13 38.5 1 3 33.3 3 3 100.0 3 2 5 2 2 1 2 3 -13
+p427
+aVLaPhonso Ellis DEN 01/20/1998 DEN @ VAN L 41 21 6 13 46.2 0 2 0.0 9 10 90.0 1 3 4 8 0 0 2 3 -9
+p428
+aVBobby Jackson DEN 01/20/1998 DEN @ VAN L 41 11 5 16 31.3 0 2 0.0 1 2 50.0 1 4 5 4 3 0 4 4 -9
+p429
+aVDanny Fortson DEN 01/20/1998 DEN @ VAN L 16 7 2 3 66.7 0 0 - 3 4 75.0 1 2 3 2 2 0 3 3 2
+p430
+aVTony Battie DEN 01/20/1998 DEN @ VAN L 37 17 6 13 46.2 0 0 - 5 7 71.4 2 7 9 1 0 5 3 2 -9
+p431
+aVJoe Wolf DEN 01/20/1998 DEN @ VAN L 18 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 2 0 2 3 0
+p432
+aVAnthony Goldwire DEN 01/20/1998 DEN @ VAN L 16 3 1 3 33.3 0 0 - 1 1 100.0 0 2 2 2 0 0 0 1 0
+p433
+aVHarold Ellis DEN 01/20/1998 DEN @ VAN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p434
+aVDean Garrett DEN 01/20/1998 DEN @ VAN L 27 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -12
+p435
+aVDanny Fortson DEN 01/18/1998 DEN @ POR L 14 4 0 2 0.0 0 0 - 4 6 66.7 0 0 0 1 0 0 0 5 -10
+p436
+aVLaPhonso Ellis DEN 01/18/1998 DEN @ POR L 37 13 4 16 25.0 1 4 25.0 4 4 100.0 2 3 5 4 0 0 5 4 -2
+p437
+aVBobby Jackson DEN 01/18/1998 DEN @ POR L 34 27 11 16 68.8 4 5 80.0 1 2 50.0 0 3 3 8 2 0 0 2 -6
+p438
+aVAnthony Goldwire DEN 01/18/1998 DEN @ POR L 20 4 1 5 20.0 0 0 - 2 2 100.0 0 4 4 0 1 0 1 4 -9
+p439
+aVEric Washington DEN 01/18/1998 DEN @ POR L 38 17 7 16 43.8 0 1 0.0 3 5 60.0 1 2 3 4 3 3 3 5 -4
+p440
+aVDean Garrett DEN 01/18/1998 DEN @ POR L 37 6 1 6 16.7 0 0 - 4 6 66.7 0 7 7 2 1 0 3 4 -10
+p441
+aVTony Battie DEN 01/18/1998 DEN @ POR L 31 8 4 7 57.1 0 0 - 0 0 - 2 3 5 1 1 3 0 4 -3
+p442
+aVHarold Ellis DEN 01/18/1998 DEN @ POR L 18 3 1 6 16.7 0 0 - 1 2 50.0 3 0 3 1 0 0 0 4 -14
+p443
+aVJoe Wolf DEN 01/18/1998 DEN @ POR L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 1 -2
+p444
+aVTony Battie DEN 01/16/1998 DEN vs. CLE L 23 2 1 6 16.7 0 0 - 0 0 - 0 3 3 2 1 2 0 6 -9
+p445
+aVHarold Ellis DEN 01/16/1998 DEN vs. CLE L 14 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 1 1 0 2 1 -14
+p446
+aVDanny Fortson DEN 01/16/1998 DEN vs. CLE L 14 4 0 1 0.0 0 0 - 4 4 100.0 1 4 5 0 1 0 1 5 -6
+p447
+aVJoe Wolf DEN 01/16/1998 DEN vs. CLE L 6 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -11
+p448
+aVPriest Lauderdale DEN 01/16/1998 DEN vs. CLE L 4 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 1 -5
+p449
+aVBobby Jackson DEN 01/16/1998 DEN vs. CLE L 38 28 10 17 58.8 0 1 0.0 8 8 100.0 3 4 7 3 6 0 7 4 -8
+p450
+aVEric Washington DEN 01/16/1998 DEN vs. CLE L 27 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 3 -25
+p451
+aVAnthony Goldwire DEN 01/16/1998 DEN vs. CLE L 43 2 1 6 16.7 0 3 0.0 0 0 - 2 2 4 5 0 1 1 1 -18
+p452
+aVLaPhonso Ellis DEN 01/16/1998 DEN vs. CLE L 33 16 6 14 42.9 1 4 25.0 3 3 100.0 1 3 4 3 0 1 3 4 -15
+p453
+aVKiwane Garris DEN 01/16/1998 DEN vs. CLE L 5 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -1
+p454
+aVDean Garrett DEN 01/16/1998 DEN vs. CLE L 34 10 3 6 50.0 0 0 - 4 7 57.1 3 6 9 1 1 1 3 2 -13
+p455
+aVJoe Wolf DEN 01/14/1998 DEN @ LAL L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 1
+p456
+aVDean Garrett DEN 01/14/1998 DEN @ LAL L 29 5 2 7 28.6 0 0 - 1 2 50.0 3 3 6 0 0 2 3 3 -13
+p457
+aVHarold Ellis DEN 01/14/1998 DEN @ LAL L 21 17 4 4 100.0 0 0 - 9 12 75.0 0 0 0 2 1 1 0 3 -5
+p458
+aVKiwane Garris DEN 01/14/1998 DEN @ LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p459
+aVEric Washington DEN 01/14/1998 DEN @ LAL L 31 17 6 10 60.0 4 5 80.0 1 1 100.0 1 3 4 4 1 1 1 5 0
+p460
+aVBobby Jackson DEN 01/14/1998 DEN @ LAL L 37 15 5 12 41.7 0 1 0.0 5 6 83.3 1 3 4 5 3 1 4 1 -14
+p461
+aVPriest Lauderdale DEN 01/14/1998 DEN @ LAL L 11 2 1 6 16.7 0 0 - 0 0 - 0 1 1 0 1 1 1 3 -10
+p462
+aVAnthony Goldwire DEN 01/14/1998 DEN @ LAL L 28 9 3 8 37.5 1 2 50.0 2 2 100.0 1 0 1 5 2 0 0 1 -20
+p463
+aVLaPhonso Ellis DEN 01/14/1998 DEN @ LAL L 29 11 3 13 23.1 0 2 0.0 5 8 62.5 2 4 6 1 1 0 2 4 -15
+p464
+aVDanny Fortson DEN 01/14/1998 DEN @ LAL L 25 19 6 9 66.7 1 1 100.0 6 7 85.7 2 3 5 0 0 0 1 4 0
+p465
+aVTony Battie DEN 01/14/1998 DEN @ LAL L 26 16 7 18 38.9 0 0 - 2 3 66.7 10 0 10 0 1 0 3 5 -14
+p466
+aVJoe Wolf DEN 01/13/1998 DEN vs. ORL L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 2 1 0 0 1 -3
+p467
+aVHarold Ellis DEN 01/13/1998 DEN vs. ORL L 12 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 2 1 1 2 -9
+p468
+aVBobby Jackson DEN 01/13/1998 DEN vs. ORL L 37 13 4 14 28.6 0 1 0.0 5 5 100.0 2 2 4 10 2 0 3 4 -11
+p469
+aVDanny Fortson DEN 01/13/1998 DEN vs. ORL L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 5 -5
+p470
+aVEric Washington DEN 01/13/1998 DEN vs. ORL L 31 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 0 3 1 1 1 -15
+p471
+aVDean Garrett DEN 01/13/1998 DEN vs. ORL L 40 15 6 12 50.0 0 0 - 3 4 75.0 0 3 3 2 0 1 1 1 -12
+p472
+aVKiwane Garris DEN 01/13/1998 DEN vs. ORL L 1 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p473
+aVAnthony Goldwire DEN 01/13/1998 DEN vs. ORL L 34 11 4 10 40.0 1 3 33.3 2 2 100.0 2 2 4 6 1 0 1 1 -3
+p474
+aVTony Battie DEN 01/13/1998 DEN vs. ORL L 30 14 7 10 70.0 0 0 - 0 0 - 0 1 1 2 0 1 1 2 -7
+p475
+aVLaPhonso Ellis DEN 01/13/1998 DEN vs. ORL L 36 16 6 10 60.0 0 2 0.0 4 4 100.0 0 5 5 5 1 1 4 4 -5
+p476
+aVJohnny Newman DEN 01/09/1998 DEN vs. MIA L 17 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 3 1 0 0 4 -4
+p477
+aVDean Garrett DEN 01/09/1998 DEN vs. MIA L 33 9 4 9 44.4 0 0 - 1 2 50.0 3 2 5 2 1 1 1 4 -29
+p478
+aVDanny Fortson DEN 01/09/1998 DEN vs. MIA L 21 4 0 5 0.0 0 0 - 4 4 100.0 3 3 6 1 0 0 2 6 -14
+p479
+aVHarold Ellis DEN 01/09/1998 DEN vs. MIA L 17 4 2 6 33.3 0 0 - 0 0 - 2 1 3 0 1 0 0 1 10
+p480
+aVTony Battie DEN 01/09/1998 DEN vs. MIA L 28 8 3 8 37.5 0 0 - 2 2 100.0 0 6 6 1 0 1 0 5 -3
+p481
+aVJoe Wolf DEN 01/09/1998 DEN vs. MIA L 6 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 5
+p482
+aVAnthony Goldwire DEN 01/09/1998 DEN vs. MIA L 21 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 3 0 0 0 2 -17
+p483
+aVBobby Jackson DEN 01/09/1998 DEN vs. MIA L 34 14 4 12 33.3 1 3 33.3 5 6 83.3 1 4 5 4 1 1 2 1 -7
+p484
+aVLaPhonso Ellis DEN 01/09/1998 DEN vs. MIA L 36 19 8 15 53.3 3 4 75.0 0 1 0.0 3 3 6 0 1 0 1 2 -18
+p485
+aVKiwane Garris DEN 01/09/1998 DEN vs. MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p486
+aVEric Washington DEN 01/09/1998 DEN vs. MIA L 26 6 2 11 18.2 0 2 0.0 2 2 100.0 0 1 1 1 2 0 3 2 -17
+p487
+aVEric Washington DEN 01/07/1998 DEN @ SAS L 22 8 2 7 28.6 2 3 66.7 2 2 100.0 1 0 1 3 3 0 1 3 5
+p488
+aVHarold Ellis DEN 01/07/1998 DEN @ SAS L 15 4 2 3 66.7 0 0 - 0 2 0.0 2 0 2 1 1 0 1 1 8
+p489
+aVLaPhonso Ellis DEN 01/07/1998 DEN @ SAS L 35 13 6 17 35.3 0 3 0.0 1 2 50.0 2 4 6 2 1 0 2 4 -9
+p490
+aVJohnny Newman DEN 01/07/1998 DEN @ SAS L 31 10 4 10 40.0 0 0 - 2 5 40.0 1 2 3 3 0 0 2 5 -13
+p491
+aVBobby Jackson DEN 01/07/1998 DEN @ SAS L 27 13 6 12 50.0 0 0 - 1 2 50.0 1 3 4 7 3 0 4 2 -5
+p492
+aVDean Garrett DEN 01/07/1998 DEN @ SAS L 39 8 4 7 57.1 0 0 - 0 0 - 5 2 7 2 1 2 1 4 -19
+p493
+aVDanny Fortson DEN 01/07/1998 DEN @ SAS L 20 10 3 10 30.0 0 0 - 4 5 80.0 3 1 4 0 1 0 4 4 6
+p494
+aVTony Battie DEN 01/07/1998 DEN @ SAS L 30 17 8 13 61.5 0 1 0.0 1 1 100.0 1 4 5 1 3 1 1 5 -6
+p495
+aVAnthony Goldwire DEN 01/07/1998 DEN @ SAS L 21 6 2 6 33.3 2 2 100.0 0 0 - 1 0 1 4 0 0 0 1 -2
+p496
+aVLaPhonso Ellis DEN 01/06/1998 DEN @ DAL L 37 15 5 13 38.5 0 3 0.0 5 5 100.0 6 3 9 4 1 1 2 4 -17
+p497
+aVDanny Fortson DEN 01/06/1998 DEN @ DAL L 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 2 2 -5
+p498
+aVDean Garrett DEN 01/06/1998 DEN @ DAL L 33 7 3 5 60.0 0 0 - 1 1 100.0 1 7 8 2 1 4 1 1 -8
+p499
+aVJohnny Newman DEN 01/06/1998 DEN @ DAL L 37 13 4 14 28.6 1 5 20.0 4 4 100.0 0 3 3 2 0 0 1 2 -10
+p500
+aVEric Washington DEN 01/06/1998 DEN @ DAL L 22 15 5 7 71.4 2 3 66.7 3 3 100.0 0 0 0 0 1 1 0 3 -11
+p501
+aVHarold Ellis DEN 01/06/1998 DEN @ DAL L 26 12 6 7 85.7 0 0 - 0 5 0.0 3 3 6 2 0 0 1 3 -11
+p502
+aVTony Battie DEN 01/06/1998 DEN @ DAL L 21 2 1 5 20.0 0 0 - 0 0 - 2 4 6 1 1 1 3 1 -4
+p503
+aVBobby Jackson DEN 01/06/1998 DEN @ DAL L 35 17 8 17 47.1 0 0 - 1 1 100.0 2 2 4 5 0 0 4 4 -14
+p504
+aVPriest Lauderdale DEN 01/06/1998 DEN @ DAL L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 3 2 1 -6
+p505
+aVAnthony Goldwire DEN 01/06/1998 DEN @ DAL L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 2 1 0 2 1 -4
+p506
+aVLaPhonso Ellis DEN 01/03/1998 DEN @ MIN L 30 14 5 12 41.7 2 4 50.0 2 2 100.0 4 4 8 4 1 1 3 1 -24
+p507
+aVDean Garrett DEN 01/03/1998 DEN @ MIN L 30 8 3 12 25.0 0 0 - 2 2 100.0 4 3 7 0 0 0 0 3 -15
+p508
+aVJohnny Newman DEN 01/03/1998 DEN @ MIN L 29 15 5 13 38.5 1 2 50.0 4 5 80.0 0 2 2 1 2 0 3 4 -2
+p509
+aVAnthony Goldwire DEN 01/03/1998 DEN @ MIN L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 4 0 0 2 5 -13
+p510
+aVHarold Ellis DEN 01/03/1998 DEN @ MIN L 35 16 8 10 80.0 0 0 - 0 0 - 5 2 7 0 1 0 1 4 -3
+p511
+aVEric Washington DEN 01/03/1998 DEN @ MIN L 25 9 3 9 33.3 1 4 25.0 2 2 100.0 0 1 1 2 1 0 2 2 -27
+p512
+aVDanny Fortson DEN 01/03/1998 DEN @ MIN L 21 9 2 7 28.6 0 0 - 5 7 71.4 0 1 1 0 0 0 2 3 -14
+p513
+aVTony Battie DEN 01/03/1998 DEN @ MIN L 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 1 5 4 -8
+p514
+aVBobby Jackson DEN 01/03/1998 DEN @ MIN L 32 11 5 11 45.5 0 2 0.0 1 2 50.0 0 1 1 5 2 0 2 2 -13
+p515
+aVPriest Lauderdale DEN 01/03/1998 DEN @ MIN L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 1 9
+p516
+aVLaPhonso Ellis DEN 01/02/1998 DEN vs. HOU L 30 26 8 20 40.0 3 6 50.0 7 9 77.8 4 5 9 3 0 0 1 3 5
+p517
+aVPriest Lauderdale DEN 01/02/1998 DEN vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -3
+p518
+aVEric Washington DEN 01/02/1998 DEN vs. HOU L 34 21 7 14 50.0 2 6 33.3 5 6 83.3 2 1 3 1 2 0 0 2 3
+p519
+aVHarold Ellis DEN 01/02/1998 DEN vs. HOU L 29 22 8 10 80.0 0 1 0.0 6 10 60.0 2 4 6 0 3 0 1 5 -5
+p520
+aVAnthony Goldwire DEN 01/02/1998 DEN vs. HOU L 24 5 1 7 14.3 1 3 33.3 2 4 50.0 1 2 3 8 2 0 1 0 -2
+p521
+aVJohnny Newman DEN 01/02/1998 DEN vs. HOU L 42 15 4 8 50.0 1 2 50.0 6 6 100.0 1 3 4 1 0 2 3 4 2
+p522
+aVBobby Jackson DEN 01/02/1998 DEN vs. HOU L 30 20 8 17 47.1 0 0 - 4 4 100.0 1 3 4 4 2 0 0 4 -4
+p523
+aVDanny Fortson DEN 01/02/1998 DEN vs. HOU L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 5
+p524
+aVTony Battie DEN 01/02/1998 DEN vs. HOU L 23 4 2 8 25.0 0 0 - 0 0 - 2 3 5 3 1 1 1 2 -6
+p525
+aVDean Garrett DEN 01/02/1998 DEN vs. HOU L 43 2 1 8 12.5 0 0 - 0 2 0.0 3 6 9 1 1 3 1 1 0
+p526
+aVLaPhonso Ellis DEN 12/30/1997 DEN vs. UTA L 28 14 4 10 40.0 2 3 66.7 4 4 100.0 0 3 3 2 0 0 2 3 -5
+p527
+aVAnthony Goldwire DEN 12/30/1997 DEN vs. UTA L 20 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -22
+p528
+aVDean Garrett DEN 12/30/1997 DEN vs. UTA L 30 5 1 2 50.0 0 0 - 3 4 75.0 2 2 4 1 0 1 0 3 -15
+p529
+aVJohnny Newman DEN 12/30/1997 DEN vs. UTA L 22 21 6 9 66.7 1 2 50.0 8 9 88.9 0 0 0 1 1 0 4 2 -17
+p530
+aVEric Washington DEN 12/30/1997 DEN vs. UTA L 26 9 3 13 23.1 1 5 20.0 2 3 66.7 0 1 1 2 0 0 0 3 -27
+p531
+aVPriest Lauderdale DEN 12/30/1997 DEN vs. UTA L 8 0 0 4 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 -8
+p532
+aVHarold Ellis DEN 12/30/1997 DEN vs. UTA L 7 3 0 3 0.0 0 0 - 3 4 75.0 2 0 2 2 0 1 1 2 -10
+p533
+aVDanny Fortson DEN 12/30/1997 DEN vs. UTA L 24 15 1 5 20.0 0 0 - 13 16 81.3 3 2 5 1 0 1 0 6 -25
+p534
+aVJoe Wolf DEN 12/30/1997 DEN vs. UTA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p535
+aVBobby Jackson DEN 12/30/1997 DEN vs. UTA L 31 18 6 13 46.2 0 0 - 6 7 85.7 2 3 5 7 3 1 1 2 -11
+p536
+aVTony Battie DEN 12/30/1997 DEN vs. UTA L 29 9 4 10 40.0 1 1 100.0 0 0 - 1 2 3 0 3 0 2 5 -9
+p537
+aVKiwane Garris DEN 12/30/1997 DEN vs. UTA L 10 3 0 3 0.0 0 1 0.0 3 3 100.0 1 0 1 1 0 0 1 2 -10
+p538
+aVBobby Jackson DEN 12/27/1997 DEN @ LAC L 34 13 5 15 33.3 0 0 - 3 3 100.0 0 5 5 8 3 0 0 4 8
+p539
+aVPriest Lauderdale DEN 12/27/1997 DEN @ LAC L 11 5 2 3 66.7 0 0 - 1 3 33.3 2 3 5 1 0 0 4 2 -11
+p540
+aVJohnny Newman DEN 12/27/1997 DEN @ LAC L 22 10 3 7 42.9 0 1 0.0 4 6 66.7 0 1 1 1 0 0 2 0 -16
+p541
+aVAnthony Goldwire DEN 12/27/1997 DEN @ LAC L 16 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 1 -9
+p542
+aVLaPhonso Ellis DEN 12/27/1997 DEN @ LAC L 35 20 9 16 56.3 0 2 0.0 2 2 100.0 0 6 6 3 1 0 2 5 0
+p543
+aVDanny Fortson DEN 12/27/1997 DEN @ LAC L 19 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 2 -9
+p544
+aVEric Washington DEN 12/27/1997 DEN @ LAC L 32 18 8 14 57.1 0 0 - 2 2 100.0 3 1 4 1 3 0 3 4 10
+p545
+aVTony Battie DEN 12/27/1997 DEN @ LAC L 27 19 9 12 75.0 0 0 - 1 1 100.0 5 5 10 1 1 0 2 3 18
+p546
+aVKiwane Garris DEN 12/27/1997 DEN @ LAC L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -11
+p547
+aVDean Garrett DEN 12/27/1997 DEN @ LAC L 37 1 0 2 0.0 0 0 - 1 2 50.0 6 3 9 1 2 1 2 2 10
+p548
+aVDanny Fortson DEN 12/26/1997 DEN vs. GSW L 23 0 0 5 0.0 0 0 - 0 0 - 1 5 6 1 1 0 2 5 -5
+p549
+aVKiwane Garris DEN 12/26/1997 DEN vs. GSW L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -1
+p550
+aVHarold Ellis DEN 12/26/1997 DEN vs. GSW L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p551
+aVJohnny Newman DEN 12/26/1997 DEN vs. GSW L 20 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 0 1 0 3 2 -13
+p552
+aVLaPhonso Ellis DEN 12/26/1997 DEN vs. GSW L 28 19 4 10 40.0 1 3 33.3 10 11 90.9 3 1 4 1 1 0 1 5 -5
+p553
+aVPriest Lauderdale DEN 12/26/1997 DEN vs. GSW L 11 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 1 0 1 3 1 -1
+p554
+aVTony Battie DEN 12/26/1997 DEN vs. GSW L 28 11 4 13 30.8 0 0 - 3 6 50.0 2 5 7 1 2 0 0 1 -1
+p555
+aVBobby Jackson DEN 12/26/1997 DEN vs. GSW L 32 10 5 15 33.3 0 0 - 0 0 - 1 3 4 5 1 1 4 2 -14
+p556
+aVEric Washington DEN 12/26/1997 DEN vs. GSW L 31 9 4 10 40.0 1 1 100.0 0 0 - 1 4 5 0 2 2 2 3 -6
+p557
+aVDean Garrett DEN 12/26/1997 DEN vs. GSW L 30 2 0 5 0.0 0 0 - 2 2 100.0 1 1 2 1 2 1 0 1 -15
+p558
+aVAnthony Goldwire DEN 12/26/1997 DEN vs. GSW L 20 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 2 0 0 1 0 1
+p559
+aVAnthony Goldwire DEN 12/23/1997 DEN @ GSW L 20 5 1 1 100.0 1 1 100.0 2 2 100.0 0 3 3 4 1 0 1 1 6
+p560
+aVKiwane Garris DEN 12/23/1997 DEN @ GSW L 13 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 3 1 0 0 1 0
+p561
+aVPriest Lauderdale DEN 12/23/1997 DEN @ GSW L 13 10 5 10 50.0 0 0 - 0 0 - 2 1 3 1 1 0 1 2 17
+p562
+aVTony Battie DEN 12/23/1997 DEN @ GSW L 21 4 0 3 0.0 0 0 - 4 6 66.7 1 2 3 1 2 0 1 2 -14
+p563
+aVLaPhonso Ellis DEN 12/23/1997 DEN @ GSW L 35 15 7 20 35.0 0 3 0.0 1 3 33.3 2 4 6 1 0 0 3 2 -15
+p564
+aVBobby Jackson DEN 12/23/1997 DEN @ GSW L 30 6 1 6 16.7 0 1 0.0 4 6 66.7 0 3 3 6 1 1 1 3 -17
+p565
+aVDanny Fortson DEN 12/23/1997 DEN @ GSW L 26 22 6 10 60.0 0 0 - 10 14 71.4 1 5 6 0 0 0 5 4 6
+p566
+aVEric Washington DEN 12/23/1997 DEN @ GSW L 20 0 0 7 0.0 0 2 0.0 0 0 - 2 4 6 1 0 0 2 3 -8
+p567
+aVDean Garrett DEN 12/23/1997 DEN @ GSW L 34 7 2 6 33.3 0 0 - 3 3 100.0 7 6 13 1 1 1 1 3 -29
+p568
+aVJohnny Newman DEN 12/23/1997 DEN @ GSW L 29 5 2 9 22.2 1 1 100.0 0 0 - 0 1 1 2 1 0 0 1 -6
+p569
+aVDanny Fortson DEN 12/20/1997 DEN vs. PHX L 22 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 1 0 1 2 5 -7
+p570
+aVDean Garrett DEN 12/20/1997 DEN vs. PHX L 29 5 1 7 14.3 0 0 - 3 6 50.0 5 4 9 0 0 5 1 1 -13
+p571
+aVLaPhonso Ellis DEN 12/20/1997 DEN vs. PHX L 22 3 1 7 14.3 0 1 0.0 1 2 50.0 1 2 3 2 2 0 3 2 -8
+p572
+aVJoe Wolf DEN 12/20/1997 DEN vs. PHX L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p573
+aVHarold Ellis DEN 12/20/1997 DEN vs. PHX L 10 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 2 0
+p574
+aVAnthony Goldwire DEN 12/20/1997 DEN vs. PHX L 19 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 3 1 0 3 3 -6
+p575
+aVJohnny Newman DEN 12/20/1997 DEN vs. PHX L 25 10 3 6 50.0 1 2 50.0 3 4 75.0 0 0 0 1 0 0 1 0 -16
+p576
+aVPriest Lauderdale DEN 12/20/1997 DEN vs. PHX L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p577
+aVTony Battie DEN 12/20/1997 DEN vs. PHX L 31 14 4 11 36.4 0 0 - 6 7 85.7 1 5 6 1 1 2 4 2 -21
+p578
+aVKiwane Garris DEN 12/20/1997 DEN vs. PHX L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 0 -12
+p579
+aVBobby Jackson DEN 12/20/1997 DEN vs. PHX L 29 11 3 12 25.0 0 1 0.0 5 6 83.3 1 7 8 5 3 1 1 1 -10
+p580
+aVEric Washington DEN 12/20/1997 DEN vs. PHX L 33 14 5 11 45.5 2 4 50.0 2 2 100.0 1 3 4 2 0 1 1 2 -16
+p581
+aVDean Garrett DEN 12/18/1997 DEN @ SEA L 31 9 4 7 57.1 0 0 - 1 2 50.0 2 4 6 0 1 1 1 1 -12
+p582
+aVTony Battie DEN 12/18/1997 DEN @ SEA L 20 11 4 6 66.7 0 0 - 3 5 60.0 0 6 6 1 3 0 2 6 15
+p583
+aVBobby Jackson DEN 12/18/1997 DEN @ SEA L 34 13 6 20 30.0 1 3 33.3 0 0 - 2 4 6 7 1 0 3 3 -3
+p584
+aVAnthony Goldwire DEN 12/18/1997 DEN @ SEA L 23 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 3 3 0 1 2 -14
+p585
+aVHarold Ellis DEN 12/18/1997 DEN @ SEA L 5 8 2 2 100.0 0 0 - 4 4 100.0 0 0 0 0 1 0 0 2 4
+p586
+aVDanny Fortson DEN 12/18/1997 DEN @ SEA L 30 14 5 8 62.5 0 0 - 4 8 50.0 2 3 5 1 0 0 2 4 -16
+p587
+aVJohnny Newman DEN 12/18/1997 DEN @ SEA L 24 8 2 7 28.6 0 2 0.0 4 6 66.7 1 1 2 1 0 0 3 4 -25
+p588
+aVKiwane Garris DEN 12/18/1997 DEN @ SEA L 7 7 2 3 66.7 0 0 - 3 4 75.0 1 1 2 1 0 0 0 1 10
+p589
+aVLaPhonso Ellis DEN 12/18/1997 DEN @ SEA L 26 13 4 8 50.0 0 2 0.0 5 6 83.3 3 5 8 5 0 0 2 2 -7
+p590
+aVEric Washington DEN 12/18/1997 DEN @ SEA L 32 18 7 12 58.3 1 3 33.3 3 5 60.0 2 2 4 0 1 0 2 2 -4
+p591
+aVPriest Lauderdale DEN 12/18/1997 DEN @ SEA L 7 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 3 -13
+p592
+aVBobby Jackson DEN 12/16/1997 DEN vs. SAS L 29 11 5 16 31.3 0 3 0.0 1 1 100.0 3 2 5 4 2 0 2 4 -4
+p593
+aVAnthony Goldwire DEN 12/16/1997 DEN vs. SAS L 28 7 3 9 33.3 1 2 50.0 0 0 - 0 3 3 3 2 0 2 1 -5
+p594
+aVPriest Lauderdale DEN 12/16/1997 DEN vs. SAS L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -4
+p595
+aVLaPhonso Ellis DEN 12/16/1997 DEN vs. SAS L 22 2 1 10 10.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 2 -24
+p596
+aVJohnny Newman DEN 12/16/1997 DEN vs. SAS L 31 10 3 10 30.0 1 2 50.0 3 4 75.0 2 0 2 3 2 0 0 1 1
+p597
+aVEric Washington DEN 12/16/1997 DEN vs. SAS L 34 14 4 7 57.1 2 3 66.7 4 6 66.7 0 2 2 0 4 0 0 4 -11
+p598
+aVDean Garrett DEN 12/16/1997 DEN vs. SAS L 31 12 4 11 36.4 0 0 - 4 4 100.0 5 4 9 1 1 1 1 1 -15
+p599
+aVDanny Fortson DEN 12/16/1997 DEN vs. SAS L 24 18 6 9 66.7 0 0 - 6 9 66.7 3 3 6 0 0 0 2 3 11
+p600
+aVTony Battie DEN 12/16/1997 DEN vs. SAS L 33 8 2 9 22.2 0 0 - 4 4 100.0 4 5 9 1 2 1 2 5 -20
+p601
+aVHarold Ellis DEN 12/16/1997 DEN vs. SAS L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p602
+aVJoe Wolf DEN 12/13/1997 DEN @ NJN L 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p603
+aVDanny Fortson DEN 12/13/1997 DEN @ NJN L 32 15 5 9 55.6 0 0 - 5 6 83.3 4 2 6 1 0 2 2 4 -15
+p604
+aVBobby Jackson DEN 12/13/1997 DEN @ NJN L 33 18 7 13 53.8 0 1 0.0 4 4 100.0 1 3 4 4 4 0 4 5 -26
+p605
+aVDean Garrett DEN 12/13/1997 DEN @ NJN L 29 4 2 7 28.6 0 0 - 0 0 - 5 8 13 1 0 1 2 2 -30
+p606
+aVJohnny Newman DEN 12/13/1997 DEN @ NJN L 31 21 7 12 58.3 0 0 - 7 9 77.8 2 0 2 1 3 0 6 4 -28
+p607
+aVEric Washington DEN 12/13/1997 DEN @ NJN L 33 8 3 8 37.5 0 0 - 2 2 100.0 1 0 1 1 0 0 2 3 -28
+p608
+aVPriest Lauderdale DEN 12/13/1997 DEN @ NJN L 8 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 0 0 0 -1
+p609
+aVAnthony Goldwire DEN 12/13/1997 DEN @ NJN L 26 14 6 9 66.7 2 3 66.7 0 0 - 1 0 1 0 0 0 3 0 -15
+p610
+aVLaPhonso Ellis DEN 12/13/1997 DEN @ NJN L 17 0 0 4 0.0 0 0 - 0 0 - 0 1 1 2 0 0 3 2 -23
+p611
+aVKiwane Garris DEN 12/13/1997 DEN @ NJN L 4 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p612
+aVTony Battie DEN 12/13/1997 DEN @ NJN L 25 9 4 11 36.4 0 1 0.0 1 2 50.0 1 1 2 2 1 3 2 6 -34
+p613
+aVLaPhonso Ellis DEN 12/12/1997 DEN @ PHI L 33 6 3 9 33.3 0 1 0.0 0 0 - 3 1 4 1 1 0 5 2 -18
+p614
+aVTony Battie DEN 12/12/1997 DEN @ PHI L 23 4 2 8 25.0 0 0 - 0 0 - 4 4 8 2 0 1 1 2 -14
+p615
+aVPriest Lauderdale DEN 12/12/1997 DEN @ PHI L 15 12 4 6 66.7 0 0 - 4 8 50.0 3 2 5 1 0 0 2 5 12
+p616
+aVBobby Jackson DEN 12/12/1997 DEN @ PHI L 23 9 2 9 22.2 0 0 - 5 6 83.3 0 3 3 4 0 0 2 5 -16
+p617
+aVAnthony Goldwire DEN 12/12/1997 DEN @ PHI L 26 14 3 9 33.3 2 3 66.7 6 8 75.0 0 3 3 7 3 0 3 2 0
+p618
+aVDanny Fortson DEN 12/12/1997 DEN @ PHI L 21 5 1 4 25.0 0 0 - 3 5 60.0 3 3 6 0 1 0 2 5 -10
+p619
+aVJohnny Newman DEN 12/12/1997 DEN @ PHI L 22 14 3 6 50.0 0 1 0.0 8 9 88.9 0 1 1 0 1 0 0 3 -6
+p620
+aVDean Garrett DEN 12/12/1997 DEN @ PHI L 38 13 5 10 50.0 0 0 - 3 4 75.0 4 8 12 2 0 0 0 2 -18
+p621
+aVEric Washington DEN 12/12/1997 DEN @ PHI L 40 14 6 15 40.0 1 5 20.0 1 2 50.0 1 4 5 1 1 1 1 2 -5
+p622
+aVLaPhonso Ellis DEN 12/10/1997 DEN @ CLE L 28 14 7 16 43.8 0 2 0.0 0 0 - 2 4 6 1 0 1 4 1 -4
+p623
+aVKiwane Garris DEN 12/10/1997 DEN @ CLE L 4 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 0 3
+p624
+aVPriest Lauderdale DEN 12/10/1997 DEN @ CLE L 17 4 2 4 50.0 0 0 - 0 0 - 2 1 3 3 0 0 4 5 1
+p625
+aVDanny Fortson DEN 12/10/1997 DEN @ CLE L 27 10 3 6 50.0 0 0 - 4 6 66.7 1 6 7 0 0 0 3 2 -13
+p626
+aVAnthony Goldwire DEN 12/10/1997 DEN @ CLE L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -6
+p627
+aVDean Garrett DEN 12/10/1997 DEN @ CLE L 25 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 2 0 3 1 1 -8
+p628
+aVJohnny Newman DEN 12/10/1997 DEN @ CLE L 27 7 1 5 20.0 0 0 - 5 6 83.3 0 3 3 3 0 0 0 5 -16
+p629
+aVTony Battie DEN 12/10/1997 DEN @ CLE L 26 8 3 11 27.3 0 0 - 2 2 100.0 3 3 6 1 1 2 2 6 -17
+p630
+aVBobby Jackson DEN 12/10/1997 DEN @ CLE L 36 10 4 11 36.4 0 3 0.0 2 2 100.0 3 10 13 6 2 0 4 2 -16
+p631
+aVEric Washington DEN 12/10/1997 DEN @ CLE L 36 19 6 14 42.9 3 7 42.9 4 6 66.7 1 0 1 0 0 0 2 0 -19
+p632
+aVPriest Lauderdale DEN 12/09/1997 DEN @ DET L 20 16 5 8 62.5 0 0 - 6 8 75.0 1 3 4 1 1 2 1 2 3
+p633
+aVDean Garrett DEN 12/09/1997 DEN @ DET L 27 4 2 5 40.0 0 0 - 0 0 - 1 8 9 1 1 3 0 2 -10
+p634
+aVEric Washington DEN 12/09/1997 DEN @ DET L 34 10 5 10 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 4 -7
+p635
+aVLaPhonso Ellis DEN 12/09/1997 DEN @ DET L 27 6 3 13 23.1 0 2 0.0 0 0 - 1 2 3 3 1 1 5 3 -13
+p636
+aVJohnny Newman DEN 12/09/1997 DEN @ DET L 30 12 5 11 45.5 0 1 0.0 2 2 100.0 2 1 3 2 0 0 2 2 -7
+p637
+aVAnthony Goldwire DEN 12/09/1997 DEN @ DET L 23 11 4 7 57.1 2 3 66.7 1 2 50.0 0 5 5 8 2 0 1 1 -1
+p638
+aVDanny Fortson DEN 12/09/1997 DEN @ DET L 22 10 5 6 83.3 0 0 - 0 2 0.0 1 5 6 0 0 0 1 6 0
+p639
+aVTony Battie DEN 12/09/1997 DEN @ DET L 23 6 3 6 50.0 0 0 - 0 0 - 2 7 9 0 0 0 2 2 -6
+p640
+aVBobby Jackson DEN 12/09/1997 DEN @ DET L 35 8 4 11 36.4 0 1 0.0 0 0 - 1 1 2 8 1 0 3 2 -4
+p641
+aVTony Battie DEN 12/07/1997 DEN vs. LAC W 24 12 5 8 62.5 0 0 - 2 4 50.0 3 4 7 2 1 2 0 6 2
+p642
+aVDean Garrett DEN 12/07/1997 DEN vs. LAC W 30 2 1 7 14.3 0 0 - 0 0 - 3 3 6 0 1 0 2 1 -5
+p643
+aVDanny Fortson DEN 12/07/1997 DEN vs. LAC W 17 15 5 9 55.6 0 0 - 5 6 83.3 3 5 8 0 0 0 2 4 3
+p644
+aVEric Washington DEN 12/07/1997 DEN vs. LAC W 31 9 4 13 30.8 1 4 25.0 0 0 - 1 1 2 0 3 1 0 2 0
+p645
+aVLaPhonso Ellis DEN 12/07/1997 DEN vs. LAC W 35 21 8 15 53.3 2 4 50.0 3 3 100.0 2 4 6 6 1 1 4 2 11
+p646
+aVAnthony Goldwire DEN 12/07/1997 DEN vs. LAC W 21 8 2 3 66.7 0 0 - 4 5 80.0 0 1 1 1 0 1 1 1 -9
+p647
+aVPriest Lauderdale DEN 12/07/1997 DEN vs. LAC W 15 6 2 5 40.0 0 0 - 2 5 40.0 1 5 6 1 0 0 2 0 15
+p648
+aVJohnny Newman DEN 12/07/1997 DEN vs. LAC W 32 10 3 11 27.3 0 3 0.0 4 4 100.0 2 0 2 2 1 1 0 2 6
+p649
+aVBobby Jackson DEN 12/07/1997 DEN vs. LAC W 36 17 7 14 50.0 0 2 0.0 3 4 75.0 1 8 9 6 5 1 5 2 17
+p650
+aVJohnny Newman DEN 12/05/1997 DEN vs. IND L 31 11 2 11 18.2 0 2 0.0 7 7 100.0 0 0 0 3 0 1 1 4 -3
+p651
+aVTony Battie DEN 12/05/1997 DEN vs. IND L 22 8 3 10 30.0 0 0 - 2 2 100.0 2 5 7 0 1 0 1 5 -6
+p652
+aVDean Garrett DEN 12/05/1997 DEN vs. IND L 36 12 4 7 57.1 0 0 - 4 6 66.7 4 6 10 1 1 1 1 4 -10
+p653
+aVAnthony Goldwire DEN 12/05/1997 DEN vs. IND L 17 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 1 0 0 2 3 5
+p654
+aVLaPhonso Ellis DEN 12/05/1997 DEN vs. IND L 31 8 4 18 22.2 0 3 0.0 0 0 - 2 5 7 5 0 1 3 2 -17
+p655
+aVEric Washington DEN 12/05/1997 DEN vs. IND L 32 13 6 13 46.2 1 5 20.0 0 0 - 3 3 6 0 0 1 4 4 -15
+p656
+aVPriest Lauderdale DEN 12/05/1997 DEN vs. IND L 12 4 1 4 25.0 0 0 - 2 6 33.3 2 2 4 1 1 0 2 2 -1
+p657
+aVJoe Wolf DEN 12/05/1997 DEN vs. IND L 6 0 0 0 - 0 0 - 0 0 - 2 1 3 0 1 0 0 0 0
+p658
+aVDanny Fortson DEN 12/05/1997 DEN vs. IND L 15 2 1 3 33.3 0 0 - 0 0 - 1 5 6 1 0 0 2 4 -2
+p659
+aVBobby Jackson DEN 12/05/1997 DEN vs. IND L 38 22 8 12 66.7 2 3 66.7 4 5 80.0 1 6 7 5 2 1 2 4 -6
+p660
+aVGeorge Zidek DEN 12/03/1997 DEN vs. LAL L 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p661
+aVDean Garrett DEN 12/03/1997 DEN vs. LAL L 32 4 1 3 33.3 0 0 - 2 2 100.0 0 8 8 0 2 0 1 3 -5
+p662
+aVBobby Jackson DEN 12/03/1997 DEN vs. LAL L 37 15 6 14 42.9 1 3 33.3 2 2 100.0 2 2 4 9 0 0 2 3 -2
+p663
+aVPriest Lauderdale DEN 12/03/1997 DEN vs. LAL L 5 4 1 2 50.0 0 0 - 2 4 50.0 0 0 0 0 0 1 1 1 -8
+p664
+aVKiwane Garris DEN 12/03/1997 DEN vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p665
+aVEric Washington DEN 12/03/1997 DEN vs. LAL L 31 11 5 11 45.5 1 6 16.7 0 0 - 0 1 1 4 1 0 2 4 -10
+p666
+aVJoe Wolf DEN 12/03/1997 DEN vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p667
+aVAnthony Goldwire DEN 12/03/1997 DEN vs. LAL L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -18
+p668
+aVLaPhonso Ellis DEN 12/03/1997 DEN vs. LAL L 35 12 5 10 50.0 1 3 33.3 1 2 50.0 2 4 6 3 0 1 4 3 -9
+p669
+aVDanny Fortson DEN 12/03/1997 DEN vs. LAL L 32 16 6 12 50.0 0 0 - 4 6 66.7 1 4 5 3 1 1 0 2 -9
+p670
+aVTony Battie DEN 12/03/1997 DEN vs. LAL L 17 8 2 6 33.3 0 0 - 4 5 80.0 3 4 7 1 0 0 0 5 -10
+p671
+aVJohnny Newman DEN 12/03/1997 DEN vs. LAL L 34 19 7 15 46.7 0 1 0.0 5 6 83.3 1 2 3 2 2 0 3 3 -17
+p672
+aVGeorge Zidek DEN 12/02/1997 DEN @ HOU L 4 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 5
+p673
+aVEric Washington DEN 12/02/1997 DEN @ HOU L 40 14 5 11 45.5 2 5 40.0 2 2 100.0 0 2 2 4 0 0 2 4 -2
+p674
+aVPriest Lauderdale DEN 12/02/1997 DEN @ HOU L 5 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -9
+p675
+aVLaPhonso Ellis DEN 12/02/1997 DEN @ HOU L 30 9 4 9 44.4 1 4 25.0 0 0 - 1 4 5 7 2 0 1 3 -14
+p676
+aVBobby Jackson DEN 12/02/1997 DEN @ HOU L 23 6 3 12 25.0 0 0 - 0 0 - 1 5 6 7 3 0 4 1 -9
+p677
+aVJohnny Newman DEN 12/02/1997 DEN @ HOU L 36 32 12 19 63.2 1 1 100.0 7 7 100.0 0 1 1 2 1 0 2 3 0
+p678
+aVDean Garrett DEN 12/02/1997 DEN @ HOU L 29 6 3 6 50.0 0 0 - 0 0 - 4 7 11 0 0 0 2 1 -13
+p679
+aVJoe Wolf DEN 12/02/1997 DEN @ HOU L 18 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 0 1 1 0 1 -13
+p680
+aVAnthony Goldwire DEN 12/02/1997 DEN @ HOU L 25 3 1 4 25.0 0 0 - 1 4 25.0 0 0 0 5 3 0 2 1 -2
+p681
+aVDanny Fortson DEN 12/02/1997 DEN @ HOU L 31 22 9 13 69.2 0 0 - 4 5 80.0 5 6 11 5 2 1 2 5 2
+p682
+aVAnthony Goldwire DEN 11/28/1997 DEN vs. MIN W 22 8 3 6 50.0 0 1 0.0 2 2 100.0 0 0 0 3 1 0 0 2 9
+p683
+aVJohnny Newman DEN 11/28/1997 DEN vs. MIN W 36 31 6 13 46.2 1 1 100.0 18 21 85.7 0 1 1 0 2 1 0 2 10
+p684
+aVDean Garrett DEN 11/28/1997 DEN vs. MIN W 39 10 4 9 44.4 0 0 - 2 5 40.0 6 10 16 0 0 0 1 0 11
+p685
+aVPriest Lauderdale DEN 11/28/1997 DEN vs. MIN W 11 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -8
+p686
+aVLaPhonso Ellis DEN 11/28/1997 DEN vs. MIN W 33 9 4 14 28.6 1 3 33.3 0 2 0.0 0 6 6 1 0 0 0 4 -1
+p687
+aVDanny Fortson DEN 11/28/1997 DEN vs. MIN W 27 12 3 11 27.3 0 0 - 6 6 100.0 2 2 4 0 0 0 4 5 13
+p688
+aVBobby Jackson DEN 11/28/1997 DEN vs. MIN W 37 14 5 14 35.7 1 1 100.0 3 4 75.0 3 6 9 5 0 1 2 1 10
+p689
+aVEric Washington DEN 11/28/1997 DEN vs. MIN W 17 5 2 7 28.6 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 4 5
+p690
+aVJoe Wolf DEN 11/28/1997 DEN vs. MIN W 19 4 2 5 40.0 0 0 - 0 0 - 3 5 8 3 0 0 0 3 6
+p691
+aVPriest Lauderdale DEN 11/25/1997 DEN @ SAC L 17 12 5 5 100.0 0 0 - 2 2 100.0 1 4 5 2 0 0 2 4 3
+p692
+aVJoe Wolf DEN 11/25/1997 DEN @ SAC L 23 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 2 0 1 2 6
+p693
+aVJohnny Newman DEN 11/25/1997 DEN @ SAC L 30 19 7 10 70.0 1 2 50.0 4 6 66.7 0 0 0 0 0 0 1 4 3
+p694
+aVDanny Fortson DEN 11/25/1997 DEN @ SAC L 19 8 2 5 40.0 0 0 - 4 4 100.0 0 4 4 0 0 0 4 4 -11
+p695
+aVEric Washington DEN 11/25/1997 DEN @ SAC L 30 11 5 14 35.7 1 4 25.0 0 0 - 3 1 4 0 1 0 1 2 -3
+p696
+aVBobby Jackson DEN 11/25/1997 DEN @ SAC L 26 9 4 11 36.4 0 0 - 1 2 50.0 3 3 6 5 0 0 6 1 -11
+p697
+aVLaPhonso Ellis DEN 11/25/1997 DEN @ SAC L 37 6 3 11 27.3 0 1 0.0 0 2 0.0 0 6 6 3 0 0 4 3 -5
+p698
+aVDean Garrett DEN 11/25/1997 DEN @ SAC L 36 13 5 8 62.5 0 0 - 3 7 42.9 7 14 21 2 0 1 0 2 -9
+p699
+aVAnthony Goldwire DEN 11/25/1997 DEN @ SAC L 22 13 5 10 50.0 1 4 25.0 2 2 100.0 0 2 2 3 0 0 0 0 7
+p700
+aVAnthony Goldwire DEN 11/22/1997 DEN vs. SEA L 24 6 2 8 25.0 0 1 0.0 2 2 100.0 0 1 1 1 0 1 0 2 4
+p701
+aVJohnny Newman DEN 11/22/1997 DEN vs. SEA L 25 4 2 6 33.3 0 0 - 0 2 0.0 0 0 0 2 1 0 2 0 6
+p702
+aVJoe Wolf DEN 11/22/1997 DEN vs. SEA L 16 2 1 3 33.3 0 0 - 0 1 0.0 1 2 3 0 0 1 0 2 -3
+p703
+aVDanny Fortson DEN 11/22/1997 DEN vs. SEA L 23 8 3 7 42.9 0 0 - 2 2 100.0 0 7 7 0 1 0 1 4 4
+p704
+aVBobby Jackson DEN 11/22/1997 DEN vs. SEA L 34 8 3 12 25.0 0 1 0.0 2 2 100.0 1 3 4 6 0 0 3 1 -11
+p705
+aVLaPhonso Ellis DEN 11/22/1997 DEN vs. SEA L 35 11 5 9 55.6 0 1 0.0 1 3 33.3 0 6 6 6 1 0 6 6 -3
+p706
+aVEric Washington DEN 11/22/1997 DEN vs. SEA L 35 22 9 19 47.4 3 7 42.9 1 2 50.0 1 2 3 0 0 0 0 4 -13
+p707
+aVDean Garrett DEN 11/22/1997 DEN vs. SEA L 39 12 6 8 75.0 0 0 - 0 1 0.0 7 10 17 3 0 5 1 3 -2
+p708
+aVPriest Lauderdale DEN 11/22/1997 DEN vs. SEA L 9 7 3 5 60.0 0 0 - 1 1 100.0 2 1 3 1 0 1 0 1 -2
+p709
+aVPriest Lauderdale DEN 11/21/1997 DEN @ VAN L 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 4
+p710
+aVEric Washington DEN 11/21/1997 DEN @ VAN L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p711
+aVLaPhonso Ellis DEN 11/21/1997 DEN @ VAN L 30 7 3 11 27.3 1 3 33.3 0 0 - 1 2 3 1 0 0 3 3 -16
+p712
+aVAnthony Goldwire DEN 11/21/1997 DEN @ VAN L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 3 0 -2
+p713
+aVDanny Fortson DEN 11/21/1997 DEN @ VAN L 21 17 7 9 77.8 0 0 - 3 3 100.0 2 3 5 0 0 0 1 5 0
+p714
+aVBryant Stith DEN 11/21/1997 DEN @ VAN L 38 22 6 14 42.9 2 4 50.0 8 8 100.0 1 5 6 3 2 1 0 3 -5
+p715
+aVJoe Wolf DEN 11/21/1997 DEN @ VAN L 17 3 1 3 33.3 0 0 - 1 1 100.0 2 4 6 0 0 0 0 4 3
+p716
+aVDean Garrett DEN 11/21/1997 DEN @ VAN L 39 13 6 14 42.9 0 0 - 1 2 50.0 3 10 13 1 1 5 1 4 -2
+p717
+aVBobby Jackson DEN 11/21/1997 DEN @ VAN L 41 12 5 18 27.8 0 2 0.0 2 2 100.0 3 10 13 9 0 0 3 1 -1
+p718
+aVJohnny Newman DEN 11/21/1997 DEN @ VAN L 35 22 10 17 58.8 1 5 20.0 1 3 33.3 1 0 1 2 1 0 0 3 -1
+p719
+aVPriest Lauderdale DEN 11/18/1997 DEN vs. VAN L 13 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 0 0 2 1 1 -6
+p720
+aVBryant Stith DEN 11/18/1997 DEN vs. VAN L 33 6 0 6 0.0 0 2 0.0 6 6 100.0 1 5 6 2 0 0 2 4 -8
+p721
+aVJohnny Newman DEN 11/18/1997 DEN vs. VAN L 32 14 6 14 42.9 0 1 0.0 2 2 100.0 0 0 0 1 0 1 0 3 -12
+p722
+aVLaPhonso Ellis DEN 11/18/1997 DEN vs. VAN L 35 17 6 13 46.2 3 4 75.0 2 2 100.0 5 3 8 4 1 0 5 3 -16
+p723
+aVAnthony Goldwire DEN 11/18/1997 DEN vs. VAN L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -11
+p724
+aVBobby Jackson DEN 11/18/1997 DEN vs. VAN L 36 18 7 14 50.0 1 1 100.0 3 5 60.0 2 0 2 7 2 0 4 4 -2
+p725
+aVJoe Wolf DEN 11/18/1997 DEN vs. VAN L 11 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 0
+p726
+aVEric Washington DEN 11/18/1997 DEN vs. VAN L 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p727
+aVDean Garrett DEN 11/18/1997 DEN vs. VAN L 35 13 5 8 62.5 0 0 - 3 7 42.9 5 6 11 1 2 1 0 4 -7
+p728
+aVDanny Fortson DEN 11/18/1997 DEN vs. VAN L 24 10 2 10 20.0 0 0 - 6 6 100.0 1 4 5 1 1 3 0 4 -5
+p729
+aVDanny Fortson DEN 11/15/1997 DEN @ MIA L 26 6 1 6 16.7 0 0 - 4 4 100.0 0 6 6 3 0 0 5 3 -12
+p730
+aVPriest Lauderdale DEN 11/15/1997 DEN @ MIA L 11 11 3 4 75.0 0 0 - 5 6 83.3 1 2 3 0 0 0 1 1 1
+p731
+aVJohnny Newman DEN 11/15/1997 DEN @ MIA L 35 7 2 9 22.2 0 2 0.0 3 3 100.0 0 1 1 1 0 0 3 4 1
+p732
+aVLaPhonso Ellis DEN 11/15/1997 DEN @ MIA L 31 20 7 15 46.7 1 4 25.0 5 5 100.0 3 3 6 3 0 0 0 5 13
+p733
+aVDean Garrett DEN 11/15/1997 DEN @ MIA L 37 14 6 8 75.0 0 0 - 2 4 50.0 4 8 12 2 0 4 1 0 -3
+p734
+aVAnthony Goldwire DEN 11/15/1997 DEN @ MIA L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 3 -3
+p735
+aVJoe Wolf DEN 11/15/1997 DEN @ MIA L 16 1 0 4 0.0 0 0 - 1 1 100.0 0 3 3 0 0 0 0 5 -6
+p736
+aVBobby Jackson DEN 11/15/1997 DEN @ MIA L 38 19 7 15 46.7 1 1 100.0 4 4 100.0 1 4 5 2 1 0 2 3 0
+p737
+aVBryant Stith DEN 11/15/1997 DEN @ MIA L 35 14 3 8 37.5 1 1 100.0 7 8 87.5 0 2 2 6 1 0 0 5 -6
+p738
+aVDean Garrett DEN 11/14/1997 DEN @ ORL L 36 4 2 8 25.0 0 0 - 0 0 - 4 3 7 0 1 1 0 4 -13
+p739
+aVJoe Wolf DEN 11/14/1997 DEN @ ORL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p740
+aVBryant Stith DEN 11/14/1997 DEN @ ORL L 31 11 3 7 42.9 1 2 50.0 4 4 100.0 0 0 0 2 2 1 3 1 -17
+p741
+aVBobby Jackson DEN 11/14/1997 DEN @ ORL L 30 7 3 11 27.3 0 2 0.0 1 2 50.0 2 3 5 5 0 0 2 2 -19
+p742
+aVDanny Fortson DEN 11/14/1997 DEN @ ORL L 21 5 1 2 50.0 0 0 - 3 6 50.0 0 6 6 0 0 1 5 2 -8
+p743
+aVTony Battie DEN 11/14/1997 DEN @ ORL L 30 12 5 12 41.7 0 0 - 2 2 100.0 2 3 5 3 1 1 0 2 -18
+p744
+aVJohnny Newman DEN 11/14/1997 DEN @ ORL L 33 23 10 16 62.5 0 1 0.0 3 4 75.0 0 3 3 0 1 0 2 3 -5
+p745
+aVLaPhonso Ellis DEN 11/14/1997 DEN @ ORL L 21 7 3 9 33.3 0 2 0.0 1 2 50.0 1 2 3 1 0 0 2 1 -8
+p746
+aVAnthony Goldwire DEN 11/14/1997 DEN @ ORL L 20 13 5 7 71.4 1 2 50.0 2 2 100.0 1 0 1 5 0 0 0 2 1
+p747
+aVEric Washington DEN 11/14/1997 DEN @ ORL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -8
+p748
+aVPriest Lauderdale DEN 11/14/1997 DEN @ ORL L 8 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 2 0 0 2 5
+p749
+aVAnthony Goldwire DEN 11/12/1997 DEN @ BOS L 15 5 1 4 25.0 0 1 0.0 3 4 75.0 1 2 3 4 0 0 2 4 -14
+p750
+aVJohnny Newman DEN 11/12/1997 DEN @ BOS L 29 10 3 11 27.3 0 2 0.0 4 4 100.0 2 4 6 5 0 1 3 4 -2
+p751
+aVBryant Stith DEN 11/12/1997 DEN @ BOS L 35 9 2 8 25.0 0 3 0.0 5 6 83.3 1 1 2 1 1 1 5 3 -10
+p752
+aVLaPhonso Ellis DEN 11/12/1997 DEN @ BOS L 21 9 4 8 50.0 0 1 0.0 1 1 100.0 0 2 2 1 1 0 2 2 -3
+p753
+aVDanny Fortson DEN 11/12/1997 DEN @ BOS L 16 9 4 7 57.1 0 0 - 1 4 25.0 3 5 8 0 0 1 2 2 -12
+p754
+aVTony Battie DEN 11/12/1997 DEN @ BOS L 28 14 7 9 77.8 0 0 - 0 0 - 2 4 6 3 0 0 2 4 -4
+p755
+aVDean Garrett DEN 11/12/1997 DEN @ BOS L 42 11 3 7 42.9 0 0 - 5 6 83.3 3 10 13 0 1 1 3 1 3
+p756
+aVEric Washington DEN 11/12/1997 DEN @ BOS L 13 13 4 8 50.0 2 4 50.0 3 4 75.0 1 1 2 0 1 0 2 1 2
+p757
+aVBobby Jackson DEN 11/12/1997 DEN @ BOS L 41 6 1 6 16.7 0 2 0.0 4 4 100.0 2 4 6 5 0 0 8 1 -10
+p758
+aVBryant Stith DEN 11/11/1997 DEN @ NYK L 39 18 7 15 46.7 1 3 33.3 3 4 75.0 3 2 5 2 3 0 2 1 -3
+p759
+aVDanny Fortson DEN 11/11/1997 DEN @ NYK L 20 5 1 8 12.5 0 0 - 3 3 100.0 5 3 8 2 1 0 3 3 -6
+p760
+aVPriest Lauderdale DEN 11/11/1997 DEN @ NYK L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p761
+aVTony Battie DEN 11/11/1997 DEN @ NYK L 32 16 7 11 63.6 0 1 0.0 2 3 66.7 2 9 11 0 0 0 3 1 3
+p762
+aVBobby Jackson DEN 11/11/1997 DEN @ NYK L 32 14 5 11 45.5 1 1 100.0 3 3 100.0 0 0 0 4 0 0 6 1 -1
+p763
+aVDean Garrett DEN 11/11/1997 DEN @ NYK L 34 12 5 8 62.5 0 0 - 2 2 100.0 2 5 7 0 2 1 0 3 -3
+p764
+aVJohnny Newman DEN 11/11/1997 DEN @ NYK L 34 13 6 13 46.2 0 1 0.0 1 1 100.0 0 3 3 4 0 0 3 2 -6
+p765
+aVAnthony Goldwire DEN 11/11/1997 DEN @ NYK L 26 6 1 4 25.0 1 1 100.0 3 4 75.0 1 1 2 5 2 0 0 1 2
+p766
+aVEric Washington DEN 11/11/1997 DEN @ NYK L 13 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 3 -1
+p767
+aVJoe Wolf DEN 11/11/1997 DEN @ NYK L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 4 3
+p768
+aVTony Battie DEN 11/07/1997 DEN vs. UTA L 29 13 6 13 46.2 0 0 - 1 1 100.0 4 2 6 3 1 3 2 4 4
+p769
+aVEric Williams DEN 11/07/1997 DEN vs. UTA L 36 25 6 16 37.5 0 0 - 13 16 81.3 2 2 4 6 3 0 3 1 3
+p770
+aVJoe Wolf DEN 11/07/1997 DEN vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p771
+aVBryant Stith DEN 11/07/1997 DEN vs. UTA L 37 8 4 11 36.4 0 1 0.0 0 0 - 1 3 4 2 2 2 4 3 -5
+p772
+aVDean Garrett DEN 11/07/1997 DEN vs. UTA L 42 6 2 6 33.3 0 0 - 2 2 100.0 3 6 9 3 1 3 0 2 4
+p773
+aVPriest Lauderdale DEN 11/07/1997 DEN vs. UTA L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p774
+aVJohnny Newman DEN 11/07/1997 DEN vs. UTA L 22 10 3 6 50.0 0 0 - 4 6 66.7 2 1 3 0 0 0 1 3 -2
+p775
+aVBobby Jackson DEN 11/07/1997 DEN vs. UTA L 38 15 7 17 41.2 0 1 0.0 1 2 50.0 0 4 4 4 2 1 1 3 0
+p776
+aVAnthony Goldwire DEN 11/07/1997 DEN vs. UTA L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p777
+aVDanny Fortson DEN 11/07/1997 DEN vs. UTA L 21 12 3 8 37.5 0 0 - 6 6 100.0 2 6 8 1 0 1 5 2 -5
+p778
+aVJohnny Newman DEN 11/04/1997 DEN vs. WAS L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 4 1 0 1 3 -10
+p779
+aVBobby Jackson DEN 11/04/1997 DEN vs. WAS L 33 16 7 15 46.7 0 0 - 2 2 100.0 2 3 5 3 1 0 5 3 -16
+p780
+aVPriest Lauderdale DEN 11/04/1997 DEN vs. WAS L 9 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 0 0 1 0 2 -5
+p781
+aVDanny Fortson DEN 11/04/1997 DEN vs. WAS L 24 22 8 16 50.0 0 0 - 6 9 66.7 5 6 11 0 1 0 2 5 -6
+p782
+aVTony Battie DEN 11/04/1997 DEN vs. WAS L 22 6 3 8 37.5 0 0 - 0 0 - 2 3 5 0 1 0 1 5 -16
+p783
+aVEric Washington DEN 11/04/1997 DEN vs. WAS L 16 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -10
+p784
+aVJoe Wolf DEN 11/04/1997 DEN vs. WAS L 10 2 1 2 50.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 1 -3
+p785
+aVDean Garrett DEN 11/04/1997 DEN vs. WAS L 29 7 3 10 30.0 0 0 - 1 2 50.0 8 4 12 0 2 0 0 1 -15
+p786
+aVAnthony Goldwire DEN 11/04/1997 DEN vs. WAS L 16 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 3 0 0 1 2 -12
+p787
+aVBryant Stith DEN 11/04/1997 DEN vs. WAS L 29 1 0 7 0.0 0 2 0.0 1 2 50.0 0 4 4 1 1 0 2 3 -21
+p788
+aVEric Williams DEN 11/04/1997 DEN vs. WAS L 35 26 7 16 43.8 0 0 - 12 19 63.2 3 3 6 0 0 0 2 3 -6
+p789
+aVDean Garrett DEN 11/01/1997 DEN @ UTA L 40 8 4 10 40.0 0 0 - 0 0 - 2 3 5 2 0 1 3 3 -12
+p790
+aVEric Williams DEN 11/01/1997 DEN @ UTA L 37 11 5 12 41.7 0 0 - 1 4 25.0 3 4 7 3 0 0 2 2 -8
+p791
+aVJoe Wolf DEN 11/01/1997 DEN @ UTA L 14 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 0
+p792
+aVAnthony Goldwire DEN 11/01/1997 DEN @ UTA L 18 7 3 5 60.0 0 1 0.0 1 2 50.0 1 2 3 1 3 0 0 2 -4
+p793
+aVBryant Stith DEN 11/01/1997 DEN @ UTA L 33 18 6 14 42.9 0 2 0.0 6 7 85.7 1 2 3 2 1 0 0 1 -6
+p794
+aVPriest Lauderdale DEN 11/01/1997 DEN @ UTA L 11 6 2 6 33.3 0 0 - 2 2 100.0 1 0 1 0 0 2 0 5 -9
+p795
+aVEric Washington DEN 11/01/1997 DEN @ UTA L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 1 1 2 -4
+p796
+aVJohnny Newman DEN 11/01/1997 DEN @ UTA L 14 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 3 1 -11
+p797
+aVBobby Jackson DEN 11/01/1997 DEN @ UTA L 34 14 6 14 42.9 0 1 0.0 2 4 50.0 2 4 6 3 2 0 1 2 -21
+p798
+aVDanny Fortson DEN 11/01/1997 DEN @ UTA L 30 15 4 11 36.4 0 0 - 7 9 77.8 5 1 6 1 1 2 1 2 -15
+p799
+aVDean Garrett DEN 10/31/1997 DEN vs. SAS L 31 2 1 8 12.5 0 0 - 0 0 - 3 3 6 2 1 2 1 5 0
+p800
+aVBobby Jackson DEN 10/31/1997 DEN vs. SAS L 37 27 10 19 52.6 2 3 66.7 5 5 100.0 3 3 6 1 2 0 4 4 -9
+p801
+aVJoe Wolf DEN 10/31/1997 DEN vs. SAS L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 1 3
+p802
+aVPriest Lauderdale DEN 10/31/1997 DEN vs. SAS L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p803
+aVBryant Stith DEN 10/31/1997 DEN vs. SAS L 39 17 6 12 50.0 1 3 33.3 4 6 66.7 0 4 4 3 1 0 2 4 -10
+p804
+aVEric Williams DEN 10/31/1997 DEN vs. SAS L 37 17 6 17 35.3 0 0 - 5 6 83.3 2 2 4 3 1 0 2 3 0
+p805
+aVJohnny Newman DEN 10/31/1997 DEN vs. SAS L 23 11 4 10 40.0 1 2 50.0 2 2 100.0 1 0 1 0 2 0 0 2 -13
+p806
+aVAnthony Goldwire DEN 10/31/1997 DEN vs. SAS L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -2
+p807
+aVDanny Fortson DEN 10/31/1997 DEN vs. SAS L 17 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 1 0 1 2 4 -20
+p808
+aVTony Battie DEN 10/31/1997 DEN vs. SAS L 31 15 6 10 60.0 0 0 - 3 5 60.0 3 3 6 0 2 0 1 4 -2
+p809
+a.

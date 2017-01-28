@@ -1,0 +1,1530 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCharlie Ward NYK 04/18/2001 NYK vs. DET W 23 9 4 8 50.0 1 4 25.0 0 0 - 0 2 2 5 0 0 2 1 5
+p2
+aVGlen Rice NYK 04/18/2001 NYK vs. DET W 31 12 4 9 44.4 2 5 40.0 2 2 100.0 0 6 6 1 1 0 2 1 1
+p3
+aVTravis Knight NYK 04/18/2001 NYK vs. DET W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p4
+aVFelton Spencer NYK 04/18/2001 NYK vs. DET W 18 15 4 5 80.0 0 0 - 7 9 77.8 1 4 5 0 0 1 2 5 4
+p5
+aVLatrell Sprewell NYK 04/18/2001 NYK vs. DET W 44 12 4 15 26.7 0 1 0.0 4 4 100.0 3 4 7 1 1 1 4 3 5
+p6
+aVKurt Thomas NYK 04/18/2001 NYK vs. DET W 46 20 9 16 56.3 0 0 - 2 2 100.0 2 12 14 3 2 0 0 4 10
+p7
+aVOthella Harrington NYK 04/18/2001 NYK vs. DET W 20 4 2 5 40.0 0 0 - 0 0 - 1 6 7 1 0 0 3 5 3
+p8
+aVMark Jackson NYK 04/18/2001 NYK vs. DET W 26 4 1 3 33.3 1 2 50.0 1 2 50.0 0 4 4 8 1 0 0 3 2
+p9
+aVAllan Houston NYK 04/18/2001 NYK vs. DET W 32 18 7 16 43.8 1 3 33.3 3 3 100.0 0 4 4 2 0 0 3 6 1
+p10
+aVMark Jackson NYK 04/16/2001 NYK @ CLE L 21 2 1 4 25.0 0 2 0.0 0 2 0.0 0 2 2 5 0 0 2 2 -8
+p11
+aVAllan Houston NYK 04/16/2001 NYK @ CLE L 42 20 8 15 53.3 2 4 50.0 2 3 66.7 0 2 2 3 3 0 1 1 -2
+p12
+aVKurt Thomas NYK 04/16/2001 NYK @ CLE L 47 19 8 13 61.5 0 0 - 3 5 60.0 4 7 11 0 0 0 1 3 -2
+p13
+aVFelton Spencer NYK 04/16/2001 NYK @ CLE L 6 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 3 -3
+p14
+aVTravis Knight NYK 04/16/2001 NYK @ CLE L 16 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 2 1 4 -1
+p15
+aVGlen Rice NYK 04/16/2001 NYK @ CLE L 22 0 0 5 0.0 0 1 0.0 0 0 - 1 5 6 2 2 0 1 2 10
+p16
+aVLatrell Sprewell NYK 04/16/2001 NYK @ CLE L 41 21 9 24 37.5 1 1 100.0 2 2 100.0 3 2 5 3 1 1 3 1 -6
+p17
+aVOthella Harrington NYK 04/16/2001 NYK @ CLE L 19 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -4
+p18
+aVCharlie Ward NYK 04/16/2001 NYK @ CLE L 27 8 3 10 30.0 1 7 14.3 1 2 50.0 1 4 5 6 2 2 5 2 6
+p19
+aVOthella Harrington NYK 04/15/2001 NYK @ PHI L 36 14 3 5 60.0 0 0 - 8 8 100.0 3 5 8 3 1 1 2 5 -9
+p20
+aVTravis Knight NYK 04/15/2001 NYK @ PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p21
+aVFelton Spencer NYK 04/15/2001 NYK @ PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p22
+aVLatrell Sprewell NYK 04/15/2001 NYK @ PHI L 45 26 11 22 50.0 0 2 0.0 4 4 100.0 0 2 2 4 3 1 4 2 -6
+p23
+aVCharlie Ward NYK 04/15/2001 NYK @ PHI L 18 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 3 0 0 3 3 -6
+p24
+aVGlen Rice NYK 04/15/2001 NYK @ PHI L 31 9 4 11 36.4 1 5 20.0 0 0 - 0 4 4 1 0 0 1 3 -8
+p25
+aVMark Jackson NYK 04/15/2001 NYK @ PHI L 33 4 2 8 25.0 0 1 0.0 0 0 - 3 6 9 2 0 0 1 2 -5
+p26
+aVKurt Thomas NYK 04/15/2001 NYK @ PHI L 38 11 5 11 45.5 0 0 - 1 2 50.0 1 4 5 2 1 0 0 5 -1
+p27
+aVAllan Houston NYK 04/15/2001 NYK @ PHI L 37 15 5 16 31.3 1 4 25.0 4 4 100.0 0 4 4 2 0 0 0 1 5
+p28
+aVKurt Thomas NYK 04/13/2001 NYK vs. ATL W 33 13 6 12 50.0 0 0 - 1 1 100.0 2 3 5 3 0 2 0 0 28
+p29
+aVGlen Rice NYK 04/13/2001 NYK vs. ATL W 37 17 7 12 58.3 2 4 50.0 1 2 50.0 1 8 9 1 0 0 2 3 30
+p30
+aVCharlie Ward NYK 04/13/2001 NYK vs. ATL W 20 9 3 5 60.0 3 3 100.0 0 0 - 1 0 1 8 2 0 2 1 13
+p31
+aVTravis Knight NYK 04/13/2001 NYK vs. ATL W 7 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 0 4
+p32
+aVLatrell Sprewell NYK 04/13/2001 NYK vs. ATL W 35 22 9 16 56.3 0 1 0.0 4 4 100.0 0 4 4 5 1 1 2 1 33
+p33
+aVOthella Harrington NYK 04/13/2001 NYK vs. ATL W 39 18 8 13 61.5 0 0 - 2 3 66.7 5 1 6 1 4 0 3 4 34
+p34
+aVFelton Spencer NYK 04/13/2001 NYK vs. ATL W 18 6 3 4 75.0 0 0 - 0 2 0.0 3 3 6 0 0 0 2 3 12
+p35
+aVMark Jackson NYK 04/13/2001 NYK vs. ATL W 40 8 3 13 23.1 0 3 0.0 2 2 100.0 0 8 8 11 2 0 2 1 23
+p36
+aVRick Brunson NYK 04/13/2001 NYK vs. ATL W 12 6 3 5 60.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 3
+p37
+aVOthella Harrington NYK 04/11/2001 NYK @ IND L 36 14 5 7 71.4 0 0 - 4 6 66.7 1 5 6 3 0 1 5 5 -7
+p38
+aVGlen Rice NYK 04/11/2001 NYK @ IND L 46 13 5 11 45.5 3 6 50.0 0 0 - 0 10 10 1 0 1 5 2 -8
+p39
+aVLatrell Sprewell NYK 04/11/2001 NYK @ IND L 48 15 6 19 31.6 0 1 0.0 3 4 75.0 1 7 8 4 1 0 2 3 -7
+p40
+aVMark Jackson NYK 04/11/2001 NYK @ IND L 39 15 7 13 53.8 1 3 33.3 0 0 - 2 3 5 8 0 0 1 2 -9
+p41
+aVTravis Knight NYK 04/11/2001 NYK @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p42
+aVMarcus Camby NYK 04/11/2001 NYK @ IND L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p43
+aVKurt Thomas NYK 04/11/2001 NYK @ IND L 39 22 7 11 63.6 0 0 - 8 11 72.7 4 6 10 1 2 0 4 5 -2
+p44
+aVCharlie Ward NYK 04/11/2001 NYK @ IND L 27 12 5 11 45.5 2 6 33.3 0 0 - 0 3 3 6 2 0 1 2 1
+p45
+aVMark Jackson NYK 04/09/2001 NYK vs. CHH W 32 9 3 4 75.0 1 1 100.0 2 2 100.0 0 2 2 7 0 0 3 3 5
+p46
+aVTravis Knight NYK 04/09/2001 NYK vs. CHH W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p47
+aVLatrell Sprewell NYK 04/09/2001 NYK vs. CHH W 46 21 10 16 62.5 1 2 50.0 0 0 - 1 4 5 5 4 0 7 4 13
+p48
+aVCharlie Ward NYK 04/09/2001 NYK vs. CHH W 31 14 5 7 71.4 3 3 100.0 1 1 100.0 0 2 2 1 2 0 0 4 12
+p49
+aVMarcus Camby NYK 04/09/2001 NYK vs. CHH W 39 17 5 12 41.7 0 0 - 7 12 58.3 5 13 18 4 2 3 1 2 11
+p50
+aVKurt Thomas NYK 04/09/2001 NYK vs. CHH W 33 22 10 13 76.9 0 0 - 2 2 100.0 2 2 4 2 2 1 2 4 13
+p51
+aVOthella Harrington NYK 04/09/2001 NYK vs. CHH W 22 14 6 7 85.7 0 0 - 2 4 50.0 1 1 2 0 0 1 1 2 4
+p52
+aVGlen Rice NYK 04/09/2001 NYK vs. CHH W 33 16 6 13 46.2 0 4 0.0 4 4 100.0 1 2 3 2 0 0 1 5 14
+p53
+aVRick Brunson NYK 04/09/2001 NYK vs. CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p54
+aVMark Jackson NYK 04/08/2001 NYK @ MIA L 23 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 3 1 0 1 1 -13
+p55
+aVAllan Houston NYK 04/08/2001 NYK @ MIA L 25 7 3 8 37.5 0 3 0.0 1 1 100.0 0 2 2 0 1 0 4 3 -9
+p56
+aVLarry Johnson NYK 04/08/2001 NYK @ MIA L 42 11 5 7 71.4 0 1 0.0 1 4 25.0 3 6 9 1 1 1 1 5 -4
+p57
+aVCharlie Ward NYK 04/08/2001 NYK @ MIA L 29 12 5 10 50.0 1 3 33.3 1 2 50.0 0 1 1 7 0 2 2 4 9
+p58
+aVGlen Rice NYK 04/08/2001 NYK @ MIA L 41 7 3 10 30.0 0 4 0.0 1 1 100.0 0 4 4 1 0 0 3 4 -11
+p59
+aVKurt Thomas NYK 04/08/2001 NYK @ MIA L 27 6 3 11 27.3 0 0 - 0 0 - 3 5 8 1 0 1 1 5 8
+p60
+aVMarcus Camby NYK 04/08/2001 NYK @ MIA L 43 23 8 17 47.1 0 1 0.0 7 8 87.5 3 12 15 0 0 0 2 4 -14
+p61
+aVRick Brunson NYK 04/08/2001 NYK @ MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p62
+aVOthella Harrington NYK 04/08/2001 NYK @ MIA L 8 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 3 9
+p63
+aVAllan Houston NYK 04/05/2001 NYK vs. WAS W 37 23 10 14 71.4 2 4 50.0 1 1 100.0 0 1 1 2 0 0 0 3 14
+p64
+aVMarcus Camby NYK 04/05/2001 NYK vs. WAS W 36 16 7 11 63.6 0 0 - 2 2 100.0 2 11 13 1 2 2 1 2 13
+p65
+aVMark Jackson NYK 04/05/2001 NYK vs. WAS W 23 5 2 7 28.6 1 2 50.0 0 0 - 1 4 5 4 0 0 2 0 -6
+p66
+aVGlen Rice NYK 04/05/2001 NYK vs. WAS W 27 18 8 9 88.9 1 2 50.0 1 1 100.0 0 0 0 2 2 0 2 2 18
+p67
+aVOthella Harrington NYK 04/05/2001 NYK vs. WAS W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 0
+p68
+aVCharlie Ward NYK 04/05/2001 NYK vs. WAS W 25 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 8 3 0 1 1 19
+p69
+aVLarry Johnson NYK 04/05/2001 NYK vs. WAS W 23 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 1 0 0 1 4 -4
+p70
+aVLatrell Sprewell NYK 04/05/2001 NYK vs. WAS W 33 9 4 10 40.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 4 3 -4
+p71
+aVKurt Thomas NYK 04/05/2001 NYK vs. WAS W 30 10 4 8 50.0 0 0 - 2 4 50.0 3 3 6 0 0 0 2 4 15
+p72
+aVGlen Rice NYK 04/03/2001 NYK vs. ORL W 31 11 4 8 50.0 0 0 - 3 4 75.0 0 3 3 2 0 1 4 2 21
+p73
+aVLarry Johnson NYK 04/03/2001 NYK vs. ORL W 24 6 2 7 28.6 1 3 33.3 1 2 50.0 1 2 3 1 0 0 1 2 -5
+p74
+aVLatrell Sprewell NYK 04/03/2001 NYK vs. ORL W 35 14 7 17 41.2 0 1 0.0 0 0 - 0 5 5 6 1 0 0 4 11
+p75
+aVKurt Thomas NYK 04/03/2001 NYK vs. ORL W 33 15 6 7 85.7 0 0 - 3 4 75.0 2 4 6 2 1 2 0 2 18
+p76
+aVMarcus Camby NYK 04/03/2001 NYK vs. ORL W 39 23 9 16 56.3 0 1 0.0 5 7 71.4 5 15 20 0 2 2 1 3 11
+p77
+aVAllan Houston NYK 04/03/2001 NYK vs. ORL W 30 11 3 9 33.3 2 2 100.0 3 3 100.0 0 2 2 4 0 0 0 1 -8
+p78
+aVCharlie Ward NYK 04/03/2001 NYK vs. ORL W 28 11 3 7 42.9 3 5 60.0 2 2 100.0 0 5 5 5 0 0 2 1 21
+p79
+aVMark Jackson NYK 04/03/2001 NYK vs. ORL W 20 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 3 1 0 2 2 -9
+p80
+aVGlen Rice NYK 04/01/2001 NYK @ LAL W 29 7 3 8 37.5 0 3 0.0 1 1 100.0 1 3 4 3 2 0 1 1 17
+p81
+aVCharlie Ward NYK 04/01/2001 NYK @ LAL W 27 9 4 6 66.7 1 2 50.0 0 0 - 1 2 3 1 1 0 1 1 15
+p82
+aVMark Jackson NYK 04/01/2001 NYK @ LAL W 19 2 1 1 100.0 0 0 - 0 0 - 2 2 4 1 0 0 2 0 -16
+p83
+aVKurt Thomas NYK 04/01/2001 NYK @ LAL W 20 0 0 3 0.0 0 0 - 0 0 - 2 4 6 2 0 0 0 5 7
+p84
+aVLarry Johnson NYK 04/01/2001 NYK @ LAL W 15 3 1 5 20.0 1 3 33.3 0 0 - 1 0 1 2 1 0 0 5 -11
+p85
+aVOthella Harrington NYK 04/01/2001 NYK @ LAL W 11 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 1 4 7
+p86
+aVAllan Houston NYK 04/01/2001 NYK @ LAL W 32 16 6 16 37.5 0 3 0.0 4 5 80.0 0 5 5 0 0 0 2 4 -7
+p87
+aVFelton Spencer NYK 04/01/2001 NYK @ LAL W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p88
+aVMarcus Camby NYK 04/01/2001 NYK @ LAL W 44 20 7 15 46.7 0 0 - 6 7 85.7 4 11 15 0 0 2 2 4 -1
+p89
+aVLatrell Sprewell NYK 04/01/2001 NYK @ LAL W 42 19 7 19 36.8 0 1 0.0 5 5 100.0 0 2 2 3 0 1 3 1 -6
+p90
+aVTravis Knight NYK 03/30/2001 NYK @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p91
+aVGlen Rice NYK 03/30/2001 NYK @ POR L 25 10 2 5 40.0 1 1 100.0 5 5 100.0 0 4 4 2 0 0 1 2 -1
+p92
+aVLarry Johnson NYK 03/30/2001 NYK @ POR L 27 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 3 0 0 1 5 -17
+p93
+aVAllan Houston NYK 03/30/2001 NYK @ POR L 28 13 5 10 50.0 0 0 - 3 3 100.0 0 2 2 0 0 0 3 1 -20
+p94
+aVFelton Spencer NYK 03/30/2001 NYK @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p95
+aVCharlie Ward NYK 03/30/2001 NYK @ POR L 18 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 4 2
+p96
+aVMarcus Camby NYK 03/30/2001 NYK @ POR L 38 12 5 10 50.0 0 0 - 2 6 33.3 1 6 7 0 0 1 1 4 -18
+p97
+aVLavor Postell NYK 03/30/2001 NYK @ POR L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 0
+p98
+aVOthella Harrington NYK 03/30/2001 NYK @ POR L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -1
+p99
+aVMark Jackson NYK 03/30/2001 NYK @ POR L 28 7 3 4 75.0 1 2 50.0 0 2 0.0 0 7 7 5 1 0 5 5 -17
+p100
+aVLatrell Sprewell NYK 03/30/2001 NYK @ POR L 39 21 9 18 50.0 1 2 50.0 2 4 50.0 0 1 1 2 3 0 3 3 -15
+p101
+aVKurt Thomas NYK 03/30/2001 NYK @ POR L 24 7 3 6 50.0 0 0 - 1 1 100.0 2 3 5 2 1 2 3 5 2
+p102
+aVLarry Johnson NYK 03/29/2001 NYK @ VAN L 21 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 2 0 0 3 4 -19
+p103
+aVMark Jackson NYK 03/29/2001 NYK @ VAN L 21 10 5 7 71.4 0 1 0.0 0 0 - 0 4 4 3 0 0 1 0 -22
+p104
+aVGlen Rice NYK 03/29/2001 NYK @ VAN L 20 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 2 0 0 0 1 -9
+p105
+aVFelton Spencer NYK 03/29/2001 NYK @ VAN L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 4
+p106
+aVAllan Houston NYK 03/29/2001 NYK @ VAN L 28 12 5 12 41.7 0 3 0.0 2 2 100.0 0 2 2 0 0 0 0 2 -25
+p107
+aVMarcus Camby NYK 03/29/2001 NYK @ VAN L 29 7 3 6 50.0 0 0 - 1 2 50.0 0 7 7 0 1 1 2 1 -23
+p108
+aVLatrell Sprewell NYK 03/29/2001 NYK @ VAN L 32 8 4 14 28.6 0 0 - 0 0 - 2 3 5 2 0 0 1 2 -27
+p109
+aVOthella Harrington NYK 03/29/2001 NYK @ VAN L 12 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 1 1 0 0 4 7
+p110
+aVLavor Postell NYK 03/29/2001 NYK @ VAN L 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p111
+aVCharlie Ward NYK 03/29/2001 NYK @ VAN L 24 13 5 5 100.0 1 1 100.0 2 3 66.7 1 3 4 8 1 1 1 1 5
+p112
+aVKurt Thomas NYK 03/29/2001 NYK @ VAN L 20 8 4 9 44.4 0 0 - 0 0 - 0 2 2 1 1 0 1 2 -10
+p113
+aVTravis Knight NYK 03/29/2001 NYK @ VAN L 12 2 1 3 33.3 0 0 - 0 2 0.0 0 3 3 0 0 0 1 1 7
+p114
+aVOthella Harrington NYK 03/27/2001 NYK @ SAC L 13 5 1 2 50.0 0 0 - 3 3 100.0 0 0 0 1 0 0 0 4 1
+p115
+aVLarry Johnson NYK 03/27/2001 NYK @ SAC L 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 2 0
+p116
+aVCharlie Ward NYK 03/27/2001 NYK @ SAC L 14 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 4 1 0 3 3 9
+p117
+aVGlen Rice NYK 03/27/2001 NYK @ SAC L 33 22 7 14 50.0 4 6 66.7 4 4 100.0 1 5 6 0 2 0 2 2 2
+p118
+aVMark Jackson NYK 03/27/2001 NYK @ SAC L 34 2 1 3 33.3 0 0 - 0 2 0.0 0 3 3 8 1 0 2 3 -11
+p119
+aVMarcus Camby NYK 03/27/2001 NYK @ SAC L 40 16 6 16 37.5 0 1 0.0 4 6 66.7 2 12 14 1 1 2 1 6 -5
+p120
+aVAllan Houston NYK 03/27/2001 NYK @ SAC L 45 21 7 15 46.7 2 3 66.7 5 5 100.0 0 6 6 3 2 0 0 3 -8
+p121
+aVKurt Thomas NYK 03/27/2001 NYK @ SAC L 35 23 8 13 61.5 1 1 100.0 6 6 100.0 3 3 6 3 1 1 1 5 -5
+p122
+aVLatrell Sprewell NYK 03/27/2001 NYK @ SAC L 43 21 7 18 38.9 0 1 0.0 7 8 87.5 0 4 4 2 1 0 3 2 -18
+p123
+aVLatrell Sprewell NYK 03/26/2001 NYK @ GSW W 45 17 6 19 31.6 0 2 0.0 5 5 100.0 0 7 7 0 1 0 3 2 7
+p124
+aVLarry Johnson NYK 03/26/2001 NYK @ GSW W 29 4 1 5 20.0 0 0 - 2 2 100.0 2 6 8 1 0 0 0 3 1
+p125
+aVMark Jackson NYK 03/26/2001 NYK @ GSW W 34 2 1 4 25.0 0 0 - 0 0 - 1 2 3 8 0 0 2 3 -4
+p126
+aVGlen Rice NYK 03/26/2001 NYK @ GSW W 23 18 7 11 63.6 3 4 75.0 1 1 100.0 1 2 3 1 0 0 1 3 12
+p127
+aVCharlie Ward NYK 03/26/2001 NYK @ GSW W 19 8 3 6 50.0 0 2 0.0 2 2 100.0 0 1 1 6 2 0 4 1 6
+p128
+aVAllan Houston NYK 03/26/2001 NYK @ GSW W 38 16 8 16 50.0 0 0 - 0 0 - 1 2 3 4 1 0 4 1 -10
+p129
+aVKurt Thomas NYK 03/26/2001 NYK @ GSW W 37 10 4 10 40.0 0 0 - 2 2 100.0 1 7 8 2 2 0 5 5 3
+p130
+aVMarcus Camby NYK 03/26/2001 NYK @ GSW W 39 14 7 14 50.0 0 0 - 0 0 - 7 10 17 1 2 2 2 4 -5
+p131
+aVOthella Harrington NYK 03/23/2001 NYK vs. NJN L 36 13 4 10 40.0 0 0 - 5 7 71.4 2 3 5 0 4 3 3 6 -4
+p132
+aVAllan Houston NYK 03/23/2001 NYK vs. NJN L 42 11 4 22 18.2 1 5 20.0 2 2 100.0 2 7 9 4 3 0 1 3 -5
+p133
+aVKurt Thomas NYK 03/23/2001 NYK vs. NJN L 29 9 3 6 50.0 0 0 - 3 6 50.0 2 8 10 0 0 2 1 6 -7
+p134
+aVCharlie Ward NYK 03/23/2001 NYK vs. NJN L 26 9 4 10 40.0 1 5 20.0 0 1 0.0 2 1 3 3 0 0 1 3 -7
+p135
+aVLavor Postell NYK 03/23/2001 NYK vs. NJN L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p136
+aVFelton Spencer NYK 03/23/2001 NYK vs. NJN L 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -2
+p137
+aVMark Jackson NYK 03/23/2001 NYK vs. NJN L 31 7 3 11 27.3 0 3 0.0 1 1 100.0 3 6 9 4 2 0 2 0 -5
+p138
+aVLatrell Sprewell NYK 03/23/2001 NYK vs. NJN L 46 29 11 21 52.4 1 4 25.0 6 6 100.0 0 8 8 3 1 0 3 1 -7
+p139
+aVTravis Knight NYK 03/23/2001 NYK vs. NJN L 17 6 2 5 40.0 0 0 - 2 4 50.0 1 4 5 0 1 1 0 2 -5
+p140
+aVOthella Harrington NYK 03/20/2001 NYK @ CLE W 29 14 4 5 80.0 0 0 - 6 6 100.0 2 3 5 2 0 2 1 5 23
+p141
+aVKurt Thomas NYK 03/20/2001 NYK @ CLE W 33 8 4 7 57.1 0 0 - 0 0 - 2 5 7 2 2 2 0 1 22
+p142
+aVFelton Spencer NYK 03/20/2001 NYK @ CLE W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 2
+p143
+aVTravis Knight NYK 03/20/2001 NYK @ CLE W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 5
+p144
+aVAllan Houston NYK 03/20/2001 NYK @ CLE W 40 39 15 23 65.2 4 5 80.0 5 5 100.0 0 5 5 1 1 1 2 2 40
+p145
+aVLavor Postell NYK 03/20/2001 NYK @ CLE W 12 10 3 3 100.0 1 1 100.0 3 3 100.0 0 2 2 0 0 0 3 1 -5
+p146
+aVMarcus Camby NYK 03/20/2001 NYK @ CLE W 28 15 5 13 38.5 0 0 - 5 6 83.3 3 9 12 1 2 3 2 2 20
+p147
+aVLatrell Sprewell NYK 03/20/2001 NYK @ CLE W 35 12 5 12 41.7 0 2 0.0 2 2 100.0 0 0 0 5 2 0 1 1 32
+p148
+aVCharlie Ward NYK 03/20/2001 NYK @ CLE W 20 2 1 5 20.0 0 0 - 0 0 - 1 3 4 6 1 0 0 1 3
+p149
+aVMark Jackson NYK 03/20/2001 NYK @ CLE W 31 8 4 6 66.7 0 0 - 0 0 - 0 5 5 10 1 0 7 4 33
+p150
+aVOthella Harrington NYK 03/17/2001 NYK vs. CHI W 27 10 4 5 80.0 0 0 - 2 3 66.7 0 5 5 0 0 1 3 3 7
+p151
+aVLavor Postell NYK 03/17/2001 NYK vs. CHI W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p152
+aVMark Jackson NYK 03/17/2001 NYK vs. CHI W 27 9 4 7 57.1 1 2 50.0 0 0 - 0 7 7 8 1 0 4 1 9
+p153
+aVTravis Knight NYK 03/17/2001 NYK vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p154
+aVFelton Spencer NYK 03/17/2001 NYK vs. CHI W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 1
+p155
+aVAllan Houston NYK 03/17/2001 NYK vs. CHI W 38 12 5 10 50.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 5 1 5
+p156
+aVKurt Thomas NYK 03/17/2001 NYK vs. CHI W 27 18 7 11 63.6 0 0 - 4 6 66.7 4 5 9 0 1 1 1 4 7
+p157
+aVLatrell Sprewell NYK 03/17/2001 NYK vs. CHI W 43 22 9 16 56.3 1 2 50.0 3 3 100.0 0 4 4 9 0 0 3 1 26
+p158
+aVMarcus Camby NYK 03/17/2001 NYK vs. CHI W 39 19 8 9 88.9 0 0 - 3 4 75.0 1 6 7 3 2 1 0 4 31
+p159
+aVCharlie Ward NYK 03/17/2001 NYK vs. CHI W 25 10 4 7 57.1 1 1 100.0 1 2 50.0 2 2 4 4 1 0 4 2 17
+p160
+aVGlen Rice NYK 03/15/2001 NYK vs. TOR W 25 10 3 8 37.5 0 2 0.0 4 4 100.0 0 3 3 0 0 0 1 0 11
+p161
+aVOthella Harrington NYK 03/15/2001 NYK vs. TOR W 21 6 3 8 37.5 0 0 - 0 0 - 3 2 5 0 1 0 0 4 8
+p162
+aVMark Jackson NYK 03/15/2001 NYK vs. TOR W 26 11 4 8 50.0 1 1 100.0 2 2 100.0 1 4 5 3 0 0 0 2 7
+p163
+aVCharlie Ward NYK 03/15/2001 NYK vs. TOR W 22 2 0 2 0.0 0 2 0.0 2 2 100.0 1 1 2 6 1 1 1 2 9
+p164
+aVLatrell Sprewell NYK 03/15/2001 NYK vs. TOR W 39 21 9 17 52.9 0 0 - 3 5 60.0 0 4 4 3 2 1 1 2 6
+p165
+aVTravis Knight NYK 03/15/2001 NYK vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p166
+aVAllan Houston NYK 03/15/2001 NYK vs. TOR W 35 11 5 16 31.3 0 2 0.0 1 1 100.0 0 3 3 1 0 0 3 1 14
+p167
+aVKurt Thomas NYK 03/15/2001 NYK vs. TOR W 40 22 8 11 72.7 0 0 - 6 7 85.7 2 7 9 0 0 2 0 4 16
+p168
+aVMarcus Camby NYK 03/15/2001 NYK vs. TOR W 32 5 2 4 50.0 0 0 - 1 2 50.0 0 7 7 3 1 1 1 4 11
+p169
+aVMarcus Camby NYK 03/13/2001 NYK vs. CLE W 34 18 9 16 56.3 0 0 - 0 0 - 2 5 7 0 0 4 1 2 8
+p170
+aVAllan Houston NYK 03/13/2001 NYK vs. CLE W 37 20 7 16 43.8 1 4 25.0 5 5 100.0 0 2 2 5 0 0 3 2 1
+p171
+aVGlen Rice NYK 03/13/2001 NYK vs. CLE W 42 17 7 15 46.7 1 2 50.0 2 2 100.0 1 5 6 1 0 0 0 3 24
+p172
+aVTravis Knight NYK 03/13/2001 NYK vs. CLE W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 0
+p173
+aVMark Jackson NYK 03/13/2001 NYK vs. CLE W 24 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 10 1 0 1 2 15
+p174
+aVCharlie Ward NYK 03/13/2001 NYK vs. CLE W 24 10 4 5 80.0 0 0 - 2 2 100.0 0 3 3 6 1 0 1 1 4
+p175
+aVOthella Harrington NYK 03/13/2001 NYK vs. CLE W 26 12 5 8 62.5 0 0 - 2 4 50.0 2 5 7 0 1 3 2 3 10
+p176
+aVKurt Thomas NYK 03/13/2001 NYK vs. CLE W 34 9 4 10 40.0 0 0 - 1 2 50.0 1 8 9 2 1 3 0 2 20
+p177
+aVLavor Postell NYK 03/13/2001 NYK vs. CLE W 18 7 1 2 50.0 0 0 - 5 6 83.3 0 3 3 1 0 0 1 1 13
+p178
+aVCharlie Ward NYK 03/11/2001 NYK vs. MIA W 21 8 3 7 42.9 2 3 66.7 0 0 - 0 4 4 2 1 1 2 3 7
+p179
+aVLatrell Sprewell NYK 03/11/2001 NYK vs. MIA W 41 16 7 18 38.9 0 2 0.0 2 2 100.0 0 3 3 4 1 0 4 1 -10
+p180
+aVGlen Rice NYK 03/11/2001 NYK vs. MIA W 26 5 2 9 22.2 1 3 33.3 0 0 - 3 2 5 3 1 0 2 1 11
+p181
+aVMarcus Camby NYK 03/11/2001 NYK vs. MIA W 33 14 6 11 54.5 0 0 - 2 2 100.0 3 10 13 3 1 0 1 5 3
+p182
+aVKurt Thomas NYK 03/11/2001 NYK vs. MIA W 37 16 6 14 42.9 0 0 - 4 4 100.0 10 4 14 3 2 2 3 3 -1
+p183
+aVMark Jackson NYK 03/11/2001 NYK vs. MIA W 27 8 4 7 57.1 0 1 0.0 0 0 - 1 2 3 5 3 0 1 0 -4
+p184
+aVOthella Harrington NYK 03/11/2001 NYK vs. MIA W 16 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 1 1 1 5 3
+p185
+aVAllan Houston NYK 03/11/2001 NYK vs. MIA W 38 13 6 16 37.5 1 1 100.0 0 2 0.0 1 2 3 1 0 0 0 1 6
+p186
+aVLatrell Sprewell NYK 03/09/2001 NYK @ NJN L 42 16 4 12 33.3 0 1 0.0 8 12 66.7 0 1 1 2 0 1 2 0 -15
+p187
+aVKurt Thomas NYK 03/09/2001 NYK @ NJN L 28 7 2 8 25.0 0 0 - 3 5 60.0 2 9 11 0 1 1 1 2 -14
+p188
+aVAllan Houston NYK 03/09/2001 NYK @ NJN L 38 23 7 18 38.9 1 5 20.0 8 9 88.9 0 2 2 4 2 0 0 4 -8
+p189
+aVOthella Harrington NYK 03/09/2001 NYK @ NJN L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 1 0 2 -4
+p190
+aVMarcus Camby NYK 03/09/2001 NYK @ NJN L 38 17 8 13 61.5 0 0 - 1 6 16.7 2 8 10 1 1 5 0 3 -10
+p191
+aVMark Jackson NYK 03/09/2001 NYK @ NJN L 23 5 2 4 50.0 1 1 100.0 0 0 - 0 4 4 1 0 0 0 3 -10
+p192
+aVGlen Rice NYK 03/09/2001 NYK @ NJN L 27 6 3 11 27.3 0 2 0.0 0 1 0.0 1 4 5 1 0 0 1 3 -6
+p193
+aVLavor Postell NYK 03/09/2001 NYK @ NJN L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p194
+aVCharlie Ward NYK 03/09/2001 NYK @ NJN L 27 4 0 4 0.0 0 1 0.0 4 4 100.0 3 3 6 7 3 0 4 3 -6
+p195
+aVFelton Spencer NYK 03/09/2001 NYK @ NJN L 3 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 4
+p196
+aVMark Jackson NYK 03/07/2001 NYK @ IND W 29 0 0 3 0.0 0 1 0.0 0 0 - 1 4 5 7 2 0 0 3 5
+p197
+aVAllan Houston NYK 03/07/2001 NYK @ IND W 36 12 5 16 31.3 0 3 0.0 2 2 100.0 0 2 2 2 1 2 1 2 3
+p198
+aVKurt Thomas NYK 03/07/2001 NYK @ IND W 28 9 4 8 50.0 0 0 - 1 2 50.0 3 3 6 0 0 1 1 4 0
+p199
+aVGlen Rice NYK 03/07/2001 NYK @ IND W 33 16 4 13 30.8 2 3 66.7 6 6 100.0 2 6 8 1 0 0 0 0 2
+p200
+aVOthella Harrington NYK 03/07/2001 NYK @ IND W 16 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 0 0 0 2 3 -2
+p201
+aVLatrell Sprewell NYK 03/07/2001 NYK @ IND W 36 26 11 21 52.4 2 3 66.7 2 2 100.0 0 3 3 1 1 1 2 5 6
+p202
+aVCharlie Ward NYK 03/07/2001 NYK @ IND W 19 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 5 0 0 3 4 -1
+p203
+aVMarcus Camby NYK 03/07/2001 NYK @ IND W 43 7 3 7 42.9 0 0 - 1 3 33.3 2 12 14 2 2 5 2 2 7
+p204
+aVKurt Thomas NYK 03/06/2001 NYK vs. IND W 35 19 6 7 85.7 0 0 - 7 8 87.5 2 4 6 0 3 0 0 3 32
+p205
+aVMark Jackson NYK 03/06/2001 NYK vs. IND W 24 15 7 9 77.8 1 1 100.0 0 0 - 1 0 1 5 0 0 4 2 2
+p206
+aVTravis Knight NYK 03/06/2001 NYK vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p207
+aVLatrell Sprewell NYK 03/06/2001 NYK vs. IND W 38 16 5 12 41.7 0 2 0.0 6 8 75.0 1 1 2 5 1 0 3 1 10
+p208
+aVMarcus Camby NYK 03/06/2001 NYK vs. IND W 30 12 5 6 83.3 0 0 - 2 3 66.7 3 7 10 0 1 0 1 5 18
+p209
+aVFelton Spencer NYK 03/06/2001 NYK vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p210
+aVCharlie Ward NYK 03/06/2001 NYK vs. IND W 24 5 1 5 20.0 1 3 33.3 2 2 100.0 0 3 3 7 1 0 0 3 12
+p211
+aVGlen Rice NYK 03/06/2001 NYK vs. IND W 24 12 6 10 60.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 3
+p212
+aVAllan Houston NYK 03/06/2001 NYK vs. IND W 37 11 3 14 21.4 0 3 0.0 5 5 100.0 0 8 8 3 0 0 0 2 13
+p213
+aVLarry Johnson NYK 03/06/2001 NYK vs. IND W 15 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 1 1 1 0 0 -9
+p214
+aVLavor Postell NYK 03/06/2001 NYK vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p215
+aVOthella Harrington NYK 03/06/2001 NYK vs. IND W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -5
+p216
+aVOthella Harrington NYK 03/04/2001 NYK @ TOR L 19 8 3 4 75.0 0 0 - 2 4 50.0 2 0 2 0 0 1 1 3 -7
+p217
+aVLarry Johnson NYK 03/04/2001 NYK @ TOR L 34 6 3 9 33.3 0 3 0.0 0 0 - 1 7 8 2 0 1 2 2 -12
+p218
+aVMark Jackson NYK 03/04/2001 NYK @ TOR L 27 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 3 0 0 2 2 -9
+p219
+aVAllan Houston NYK 03/04/2001 NYK @ TOR L 41 16 7 15 46.7 1 3 33.3 1 1 100.0 0 6 6 0 1 0 3 3 -8
+p220
+aVGlen Rice NYK 03/04/2001 NYK @ TOR L 30 8 2 9 22.2 0 1 0.0 4 4 100.0 1 1 2 1 1 0 1 2 1
+p221
+aVLatrell Sprewell NYK 03/04/2001 NYK @ TOR L 43 27 9 17 52.9 1 2 50.0 8 10 80.0 0 3 3 4 3 1 5 3 -3
+p222
+aVKurt Thomas NYK 03/04/2001 NYK @ TOR L 35 17 4 8 50.0 0 0 - 9 10 90.0 4 5 9 0 0 2 0 6 -1
+p223
+aVCharlie Ward NYK 03/04/2001 NYK @ TOR L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 1 1 2 1 -11
+p224
+aVLarry Johnson NYK 03/02/2001 NYK @ CHI L 32 2 1 4 25.0 0 2 0.0 0 0 - 1 8 9 2 0 1 1 4 -15
+p225
+aVOthella Harrington NYK 03/02/2001 NYK @ CHI L 17 7 3 5 60.0 0 0 - 1 4 25.0 2 2 4 2 0 1 1 4 1
+p226
+aVKurt Thomas NYK 03/02/2001 NYK @ CHI L 32 10 5 7 71.4 0 0 - 0 0 - 1 7 8 0 0 0 2 5 -2
+p227
+aVMark Jackson NYK 03/02/2001 NYK @ CHI L 19 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 6 0 0 5 1 -7
+p228
+aVLatrell Sprewell NYK 03/02/2001 NYK @ CHI L 40 16 4 16 25.0 1 3 33.3 7 8 87.5 1 2 3 4 3 0 2 1 -6
+p229
+aVAllan Houston NYK 03/02/2001 NYK @ CHI L 41 23 8 19 42.1 2 5 40.0 5 6 83.3 0 5 5 2 2 1 2 1 -4
+p230
+aVCharlie Ward NYK 03/02/2001 NYK @ CHI L 29 8 3 9 33.3 2 5 40.0 0 0 - 0 4 4 4 2 0 0 2 -2
+p231
+aVGlen Rice NYK 03/02/2001 NYK @ CHI L 30 4 2 9 22.2 0 3 0.0 0 0 - 0 6 6 3 0 0 0 3 -10
+p232
+aVGlen Rice NYK 03/01/2001 NYK vs. BOS W 29 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 3 0 1 2 5 1
+p233
+aVAllan Houston NYK 03/01/2001 NYK vs. BOS W 25 8 3 8 37.5 1 2 50.0 1 1 100.0 1 2 3 1 0 0 2 4 0
+p234
+aVRick Brunson NYK 03/01/2001 NYK vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p235
+aVMark Jackson NYK 03/01/2001 NYK vs. BOS W 28 2 1 8 12.5 0 2 0.0 0 0 - 0 1 1 9 3 0 1 2 4
+p236
+aVKurt Thomas NYK 03/01/2001 NYK vs. BOS W 22 16 6 9 66.7 0 1 0.0 4 4 100.0 3 1 4 0 1 0 2 4 2
+p237
+aVMarcus Camby NYK 03/01/2001 NYK vs. BOS W 39 27 10 18 55.6 0 1 0.0 7 7 100.0 4 13 17 3 0 3 2 1 3
+p238
+aVCharlie Ward NYK 03/01/2001 NYK vs. BOS W 20 5 1 4 25.0 0 0 - 3 3 100.0 0 1 1 3 3 0 0 2 3
+p239
+aVLarry Johnson NYK 03/01/2001 NYK vs. BOS W 35 21 7 16 43.8 2 6 33.3 5 6 83.3 3 7 10 0 0 0 0 4 9
+p240
+aVLatrell Sprewell NYK 03/01/2001 NYK vs. BOS W 42 13 6 17 35.3 1 3 33.3 0 0 - 1 4 5 5 2 0 2 3 15
+p241
+aVLarry Johnson NYK 02/27/2001 NYK vs. SEA W 15 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 5 0
+p242
+aVAllan Houston NYK 02/27/2001 NYK vs. SEA W 39 24 11 16 68.8 2 2 100.0 0 0 - 0 4 4 3 0 1 5 3 19
+p243
+aVMark Jackson NYK 02/27/2001 NYK vs. SEA W 36 9 3 7 42.9 2 3 66.7 1 2 50.0 2 9 11 12 0 0 3 4 10
+p244
+aVCharlie Ward NYK 02/27/2001 NYK vs. SEA W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 4 1 -12
+p245
+aVLatrell Sprewell NYK 02/27/2001 NYK vs. SEA W 42 21 6 15 40.0 1 2 50.0 8 8 100.0 0 2 2 6 0 1 2 1 15
+p246
+aVMarcus Camby NYK 02/27/2001 NYK vs. SEA W 39 21 10 13 76.9 0 0 - 1 2 50.0 2 15 17 3 0 5 1 3 9
+p247
+aVKurt Thomas NYK 02/27/2001 NYK vs. SEA W 30 4 2 6 33.3 0 0 - 0 0 - 4 3 7 3 0 2 0 4 3
+p248
+aVGlen Rice NYK 02/27/2001 NYK vs. SEA W 28 20 7 14 50.0 2 4 50.0 4 5 80.0 0 2 2 1 0 0 0 2 1
+p249
+aVCharlie Ward NYK 02/25/2001 NYK vs. SAC W 21 9 4 7 57.1 1 3 33.3 0 0 - 1 2 3 2 2 0 1 1 5
+p250
+aVLatrell Sprewell NYK 02/25/2001 NYK vs. SAC W 36 18 9 17 52.9 0 1 0.0 0 0 - 1 3 4 3 0 0 2 2 -4
+p251
+aVMark Jackson NYK 02/25/2001 NYK vs. SAC W 27 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 2 -3
+p252
+aVGlen Rice NYK 02/25/2001 NYK vs. SAC W 25 10 4 8 50.0 0 0 - 2 2 100.0 1 0 1 2 1 0 3 2 5
+p253
+aVAllan Houston NYK 02/25/2001 NYK vs. SAC W 36 21 9 16 56.3 1 4 25.0 2 2 100.0 1 6 7 2 2 0 2 1 5
+p254
+aVMarcus Camby NYK 02/25/2001 NYK vs. SAC W 36 6 2 5 40.0 0 0 - 2 2 100.0 4 13 17 1 0 2 2 3 -5
+p255
+aVLarry Johnson NYK 02/25/2001 NYK vs. SAC W 35 8 3 9 33.3 2 7 28.6 0 2 0.0 0 3 3 5 1 0 1 3 6
+p256
+aVKurt Thomas NYK 02/25/2001 NYK vs. SAC W 25 10 4 7 57.1 0 0 - 2 2 100.0 0 4 4 0 0 0 2 4 1
+p257
+aVLatrell Sprewell NYK 02/23/2001 NYK vs. PHX L 46 26 12 22 54.5 1 2 50.0 1 1 100.0 0 0 0 0 1 0 3 0 -6
+p258
+aVAllan Houston NYK 02/23/2001 NYK vs. PHX L 42 21 7 16 43.8 1 2 50.0 6 6 100.0 1 3 4 4 0 0 3 1 0
+p259
+aVCharlie Ward NYK 02/23/2001 NYK vs. PHX L 34 7 3 12 25.0 1 5 20.0 0 0 - 1 3 4 6 1 0 4 5 -3
+p260
+aVGlen Rice NYK 02/23/2001 NYK vs. PHX L 24 5 2 8 25.0 0 3 0.0 1 2 50.0 0 2 2 0 1 0 3 3 2
+p261
+aVMarcus Camby NYK 02/23/2001 NYK vs. PHX L 44 9 2 7 28.6 0 0 - 5 6 83.3 4 19 23 0 1 0 2 2 -8
+p262
+aVMark Jackson NYK 02/23/2001 NYK vs. PHX L 13 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 3 0 0 0 1 -5
+p263
+aVKurt Thomas NYK 02/23/2001 NYK vs. PHX L 20 6 1 2 50.0 0 0 - 4 4 100.0 1 4 5 0 0 0 1 3 -2
+p264
+aVLarry Johnson NYK 02/23/2001 NYK vs. PHX L 42 10 4 10 40.0 2 5 40.0 0 0 - 4 5 9 3 1 0 3 3 2
+p265
+aVKurt Thomas NYK 02/21/2001 NYK @ DET L 25 12 4 12 33.3 0 0 - 4 6 66.7 3 4 7 0 2 2 1 2 3
+p266
+aVMarcus Camby NYK 02/21/2001 NYK @ DET L 35 24 9 12 75.0 1 1 100.0 5 10 50.0 5 6 11 0 1 0 2 3 -24
+p267
+aVChris Childs NYK 02/21/2001 NYK @ DET L 29 12 4 8 50.0 1 2 50.0 3 4 75.0 1 7 8 7 2 0 2 4 4
+p268
+aVLatrell Sprewell NYK 02/21/2001 NYK @ DET L 40 11 5 18 27.8 1 3 33.3 0 0 - 3 3 6 2 0 1 1 2 -7
+p269
+aVAllan Houston NYK 02/21/2001 NYK @ DET L 35 8 2 7 28.6 0 0 - 4 5 80.0 0 3 3 1 1 0 3 6 13
+p270
+aVGlen Rice NYK 02/21/2001 NYK @ DET L 35 16 5 11 45.5 2 3 66.7 4 6 66.7 0 4 4 1 0 0 2 2 0
+p271
+aVLarry Johnson NYK 02/21/2001 NYK @ DET L 15 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 5 -5
+p272
+aVOthella Harrington NYK 02/21/2001 NYK @ DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 3
+p273
+aVCharlie Ward NYK 02/21/2001 NYK @ DET L 19 2 1 6 16.7 0 3 0.0 0 0 - 1 4 5 3 0 0 0 3 -12
+p274
+aVGlen Rice NYK 02/20/2001 NYK vs. MIA W 24 9 4 8 50.0 1 1 100.0 0 0 - 0 3 3 0 0 0 3 1 -2
+p275
+aVChris Childs NYK 02/20/2001 NYK vs. MIA W 25 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 2
+p276
+aVLarry Johnson NYK 02/20/2001 NYK vs. MIA W 37 14 5 11 45.5 2 4 50.0 2 2 100.0 0 4 4 5 2 0 2 4 5
+p277
+aVLatrell Sprewell NYK 02/20/2001 NYK vs. MIA W 37 17 8 19 42.1 1 4 25.0 0 0 - 1 4 5 2 1 0 6 3 5
+p278
+aVMarcus Camby NYK 02/20/2001 NYK vs. MIA W 37 13 5 6 83.3 0 0 - 3 3 100.0 2 10 12 1 0 4 1 4 -1
+p279
+aVCharlie Ward NYK 02/20/2001 NYK vs. MIA W 24 3 0 3 0.0 0 2 0.0 3 4 75.0 0 1 1 7 1 0 1 0 1
+p280
+aVKurt Thomas NYK 02/20/2001 NYK vs. MIA W 22 6 3 6 50.0 0 0 - 0 0 - 2 4 6 1 1 0 0 6 -1
+p281
+aVAllan Houston NYK 02/20/2001 NYK vs. MIA W 36 12 3 14 21.4 0 3 0.0 6 7 85.7 0 3 3 1 1 0 1 0 1
+p282
+aVLatrell Sprewell NYK 02/18/2001 NYK @ ORL L 42 17 7 14 50.0 0 1 0.0 3 6 50.0 0 3 3 0 2 1 4 2 -6
+p283
+aVAllan Houston NYK 02/18/2001 NYK @ ORL L 36 11 5 9 55.6 0 0 - 1 1 100.0 0 2 2 1 0 0 2 3 -15
+p284
+aVLarry Johnson NYK 02/18/2001 NYK @ ORL L 39 25 10 14 71.4 1 1 100.0 4 4 100.0 3 7 10 0 0 0 3 2 0
+p285
+aVKurt Thomas NYK 02/18/2001 NYK @ ORL L 19 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 1 0 1 2 3 -5
+p286
+aVGlen Rice NYK 02/18/2001 NYK @ ORL L 27 9 1 5 20.0 0 2 0.0 7 8 87.5 0 2 2 2 2 0 2 1 6
+p287
+aVChris Childs NYK 02/18/2001 NYK @ ORL L 26 12 5 8 62.5 2 2 100.0 0 0 - 0 0 0 6 0 0 2 4 3
+p288
+aVCharlie Ward NYK 02/18/2001 NYK @ ORL L 21 7 2 4 50.0 2 4 50.0 1 2 50.0 0 1 1 3 0 0 3 4 -9
+p289
+aVMarcus Camby NYK 02/18/2001 NYK @ ORL L 29 2 1 10 10.0 0 0 - 0 0 - 3 9 12 0 0 2 0 4 -14
+p290
+aVChris Childs NYK 02/16/2001 NYK vs. NJN W 19 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 5 0 0 2 5 -5
+p291
+aVKurt Thomas NYK 02/16/2001 NYK vs. NJN W 27 8 2 2 100.0 0 0 - 4 4 100.0 0 4 4 1 0 0 0 3 -1
+p292
+aVAllan Houston NYK 02/16/2001 NYK vs. NJN W 34 31 11 19 57.9 2 4 50.0 7 7 100.0 0 3 3 0 1 0 0 1 13
+p293
+aVGlen Rice NYK 02/16/2001 NYK vs. NJN W 21 15 6 8 75.0 2 2 100.0 1 2 50.0 0 0 0 0 1 0 0 3 -3
+p294
+aVMarcus Camby NYK 02/16/2001 NYK vs. NJN W 37 8 3 8 37.5 0 0 - 2 6 33.3 5 9 14 3 3 3 0 2 12
+p295
+aVLatrell Sprewell NYK 02/16/2001 NYK vs. NJN W 41 22 10 20 50.0 0 2 0.0 2 2 100.0 0 2 2 5 0 0 2 1 10
+p296
+aVLarry Johnson NYK 02/16/2001 NYK vs. NJN W 33 18 7 13 53.8 1 3 33.3 3 6 50.0 1 2 3 3 1 0 0 2 9
+p297
+aVCharlie Ward NYK 02/16/2001 NYK vs. NJN W 29 10 4 5 80.0 2 3 66.7 0 0 - 0 1 1 5 0 1 1 2 15
+p298
+aVLatrell Sprewell NYK 02/14/2001 NYK @ UTA L 39 23 7 13 53.8 0 0 - 9 13 69.2 0 4 4 2 1 0 4 0 -8
+p299
+aVChris Childs NYK 02/14/2001 NYK @ UTA L 21 0 0 0 - 0 0 - 0 0 - 0 4 4 6 1 1 2 2 -15
+p300
+aVTravis Knight NYK 02/14/2001 NYK @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p301
+aVLarry Johnson NYK 02/14/2001 NYK @ UTA L 25 4 1 3 33.3 1 2 50.0 1 2 50.0 0 1 1 0 0 1 1 6 -14
+p302
+aVGlen Rice NYK 02/14/2001 NYK @ UTA L 31 24 7 10 70.0 3 3 100.0 7 9 77.8 0 1 1 3 0 2 0 2 -11
+p303
+aVAllan Houston NYK 02/14/2001 NYK @ UTA L 26 12 5 13 38.5 0 3 0.0 2 2 100.0 0 3 3 1 3 0 3 6 -15
+p304
+aVMarcus Camby NYK 02/14/2001 NYK @ UTA L 30 10 5 8 62.5 0 0 - 0 0 - 1 6 7 0 1 2 1 4 -12
+p305
+aVLuc Longley NYK 02/14/2001 NYK @ UTA L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 3
+p306
+aVKurt Thomas NYK 02/14/2001 NYK @ UTA L 26 6 2 11 18.2 0 0 - 2 2 100.0 2 3 5 1 0 2 0 5 0
+p307
+aVCharlie Ward NYK 02/14/2001 NYK @ UTA L 29 6 2 6 33.3 2 5 40.0 0 0 - 2 3 5 8 2 0 2 5 -2
+p308
+aVOthella Harrington NYK 02/14/2001 NYK @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p309
+aVLavor Postell NYK 02/14/2001 NYK @ UTA L 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p310
+aVAllan Houston NYK 02/13/2001 NYK @ DEN L 35 15 5 15 33.3 0 1 0.0 5 6 83.3 1 7 8 1 0 1 1 0 -14
+p311
+aVKurt Thomas NYK 02/13/2001 NYK @ DEN L 24 8 2 7 28.6 0 0 - 4 4 100.0 1 2 3 0 1 1 1 2 2
+p312
+aVOthella Harrington NYK 02/13/2001 NYK @ DEN L 10 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 3 0 0 1 3 -5
+p313
+aVGlen Rice NYK 02/13/2001 NYK @ DEN L 24 9 4 13 30.8 1 2 50.0 0 0 - 0 5 5 1 0 0 0 3 -10
+p314
+aVLavor Postell NYK 02/13/2001 NYK @ DEN L 2 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p315
+aVMarcus Camby NYK 02/13/2001 NYK @ DEN L 25 10 4 6 66.7 0 0 - 2 2 100.0 2 7 9 2 0 0 2 6 -9
+p316
+aVCharlie Ward NYK 02/13/2001 NYK @ DEN L 17 6 2 4 50.0 2 3 66.7 0 0 - 0 6 6 3 0 0 1 1 -6
+p317
+aVLarry Johnson NYK 02/13/2001 NYK @ DEN L 34 14 5 11 45.5 0 2 0.0 4 4 100.0 1 1 2 1 0 1 2 2 -21
+p318
+aVChris Childs NYK 02/13/2001 NYK @ DEN L 31 0 0 1 0.0 0 0 - 0 0 - 0 2 2 5 0 0 2 5 -13
+p319
+aVLatrell Sprewell NYK 02/13/2001 NYK @ DEN L 38 10 3 14 21.4 0 1 0.0 4 5 80.0 0 4 4 2 2 0 4 2 -18
+p320
+aVChris Childs NYK 02/07/2001 NYK vs. DAL W 28 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 6 2 0 2 0 -3
+p321
+aVKurt Thomas NYK 02/07/2001 NYK vs. DAL W 20 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 1 1 0 12
+p322
+aVLuc Longley NYK 02/07/2001 NYK vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p323
+aVGlen Rice NYK 02/07/2001 NYK vs. DAL W 32 10 3 12 25.0 2 8 25.0 2 2 100.0 3 4 7 0 0 0 3 2 11
+p324
+aVCharlie Ward NYK 02/07/2001 NYK vs. DAL W 18 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 0 -5
+p325
+aVLatrell Sprewell NYK 02/07/2001 NYK vs. DAL W 50 20 7 17 41.2 1 2 50.0 5 6 83.3 2 9 11 5 2 1 8 0 -7
+p326
+aVAllan Houston NYK 02/07/2001 NYK vs. DAL W 48 18 9 20 45.0 0 3 0.0 0 0 - 0 5 5 7 2 0 5 6 13
+p327
+aVLarry Johnson NYK 02/07/2001 NYK vs. DAL W 49 13 5 11 45.5 2 5 40.0 1 2 50.0 2 5 7 5 0 0 1 3 0
+p328
+aVMarcus Camby NYK 02/07/2001 NYK vs. DAL W 46 15 6 9 66.7 0 0 - 3 6 50.0 5 10 15 1 0 4 2 5 -6
+p329
+aVChris Childs NYK 02/05/2001 NYK @ HOU L 20 7 3 4 75.0 1 2 50.0 0 0 - 0 3 3 2 0 0 4 1 -8
+p330
+aVLarry Johnson NYK 02/05/2001 NYK @ HOU L 37 8 4 9 44.4 0 2 0.0 0 0 - 1 1 2 3 0 0 2 3 -14
+p331
+aVOthella Harrington NYK 02/05/2001 NYK @ HOU L 18 0 0 0 - 0 0 - 0 0 - 1 5 6 0 0 1 1 3 -1
+p332
+aVGlen Rice NYK 02/05/2001 NYK @ HOU L 30 8 4 10 40.0 0 3 0.0 0 1 0.0 2 4 6 1 0 0 2 4 -10
+p333
+aVCharlie Ward NYK 02/05/2001 NYK @ HOU L 22 5 1 8 12.5 1 4 25.0 2 2 100.0 0 1 1 2 1 0 0 3 -7
+p334
+aVLatrell Sprewell NYK 02/05/2001 NYK @ HOU L 38 13 4 10 40.0 0 1 0.0 5 6 83.3 0 1 1 5 1 0 4 1 -8
+p335
+aVLuc Longley NYK 02/05/2001 NYK @ HOU L 2 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 1 0 -4
+p336
+aVMarcus Camby NYK 02/05/2001 NYK @ HOU L 31 14 5 7 71.4 0 0 - 4 4 100.0 2 4 6 0 2 2 1 5 1
+p337
+aVAllan Houston NYK 02/05/2001 NYK @ HOU L 43 31 12 20 60.0 3 4 75.0 4 5 80.0 0 5 5 2 1 0 2 2 -19
+p338
+aVChris Childs NYK 02/04/2001 NYK @ MIA W 24 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 0 0 2 2 -3
+p339
+aVTravis Knight NYK 02/04/2001 NYK @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p340
+aVOthella Harrington NYK 02/04/2001 NYK @ MIA W 16 3 1 2 50.0 0 0 - 1 1 100.0 3 3 6 1 0 0 3 5 3
+p341
+aVLarry Johnson NYK 02/04/2001 NYK @ MIA W 44 11 3 11 27.3 1 4 25.0 4 5 80.0 0 3 3 0 0 1 2 4 5
+p342
+aVCharlie Ward NYK 02/04/2001 NYK @ MIA W 33 19 6 11 54.5 4 6 66.7 3 4 75.0 0 6 6 5 2 0 3 1 4
+p343
+aVLatrell Sprewell NYK 02/04/2001 NYK @ MIA W 37 14 4 11 36.4 1 1 100.0 5 5 100.0 0 2 2 5 4 1 3 5 5
+p344
+aVMarcus Camby NYK 02/04/2001 NYK @ MIA W 38 8 4 8 50.0 0 0 - 0 0 - 5 8 13 0 2 3 1 5 0
+p345
+aVAllan Houston NYK 02/04/2001 NYK @ MIA W 38 17 6 13 46.2 0 2 0.0 5 6 83.3 0 3 3 6 2 0 3 4 -1
+p346
+aVGlen Rice NYK 02/04/2001 NYK @ MIA W 35 29 10 15 66.7 4 4 100.0 5 5 100.0 0 5 5 0 1 0 0 2 2
+p347
+aVLavor Postell NYK 02/02/2001 NYK @ NJN W 3 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 4
+p348
+aVMarcus Camby NYK 02/02/2001 NYK @ NJN W 17 5 2 4 50.0 0 0 - 1 4 25.0 0 3 3 0 1 0 0 2 -2
+p349
+aVAllan Houston NYK 02/02/2001 NYK @ NJN W 36 19 8 15 53.3 1 2 50.0 2 2 100.0 0 3 3 2 0 0 0 2 17
+p350
+aVLatrell Sprewell NYK 02/02/2001 NYK @ NJN W 39 18 8 11 72.7 1 3 33.3 1 2 50.0 0 8 8 4 1 2 2 2 24
+p351
+aVCharlie Ward NYK 02/02/2001 NYK @ NJN W 23 2 1 6 16.7 0 3 0.0 0 0 - 1 2 3 7 0 0 1 1 11
+p352
+aVTravis Knight NYK 02/02/2001 NYK @ NJN W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 11
+p353
+aVLarry Johnson NYK 02/02/2001 NYK @ NJN W 36 20 6 11 54.5 2 5 40.0 6 6 100.0 0 3 3 2 1 3 1 3 14
+p354
+aVOthella Harrington NYK 02/02/2001 NYK @ NJN W 29 8 3 8 37.5 0 0 - 2 4 50.0 3 6 9 1 0 1 2 3 18
+p355
+aVGlen Rice NYK 02/02/2001 NYK @ NJN W 24 16 7 12 58.3 0 3 0.0 2 2 100.0 0 2 2 2 0 0 1 3 10
+p356
+aVChris Childs NYK 02/02/2001 NYK @ NJN W 25 5 2 3 66.7 1 1 100.0 0 0 - 0 5 5 4 0 0 1 2 13
+p357
+aVCharlie Ward NYK 02/01/2001 NYK vs. PHI L 29 4 2 6 33.3 0 1 0.0 0 0 - 2 1 3 4 2 0 0 3 -5
+p358
+aVLatrell Sprewell NYK 02/01/2001 NYK vs. PHI L 40 21 7 19 36.8 0 2 0.0 7 10 70.0 2 7 9 5 1 1 2 2 -10
+p359
+aVMarcus Camby NYK 02/01/2001 NYK vs. PHI L 34 12 5 7 71.4 0 0 - 2 3 66.7 3 6 9 0 2 4 2 3 2
+p360
+aVGlen Rice NYK 02/01/2001 NYK vs. PHI L 15 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 1 0 1 -4
+p361
+aVAllan Houston NYK 02/01/2001 NYK vs. PHI L 41 27 11 23 47.8 3 9 33.3 2 2 100.0 0 4 4 2 4 0 2 0 -2
+p362
+aVChris Childs NYK 02/01/2001 NYK vs. PHI L 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 0 0 3 4 -2
+p363
+aVOthella Harrington NYK 02/01/2001 NYK vs. PHI L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 3
+p364
+aVLarry Johnson NYK 02/01/2001 NYK vs. PHI L 41 8 3 11 27.3 1 3 33.3 1 2 50.0 0 3 3 2 0 0 2 0 -4
+p365
+aVLuc Longley NYK 02/01/2001 NYK vs. PHI L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -13
+p366
+aVChris Childs NYK 01/28/2001 NYK vs. LAL W 24 6 1 4 25.0 0 2 0.0 4 4 100.0 0 1 1 3 0 1 3 3 -3
+p367
+aVCharlie Ward NYK 01/28/2001 NYK vs. LAL W 24 9 3 7 42.9 1 3 33.3 2 2 100.0 0 1 1 3 0 0 0 3 13
+p368
+aVAllan Houston NYK 01/28/2001 NYK vs. LAL W 42 33 14 27 51.9 3 7 42.9 2 2 100.0 0 5 5 2 0 0 2 2 11
+p369
+aVLuc Longley NYK 01/28/2001 NYK vs. LAL W 24 0 0 2 0.0 0 0 - 0 0 - 1 6 7 0 1 0 2 3 15
+p370
+aVGlen Rice NYK 01/28/2001 NYK vs. LAL W 28 7 3 8 37.5 1 2 50.0 0 0 - 4 6 10 0 1 1 3 3 -1
+p371
+aVTravis Knight NYK 01/28/2001 NYK vs. LAL W 15 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 0 0 0 1 2 -8
+p372
+aVLatrell Sprewell NYK 01/28/2001 NYK vs. LAL W 42 28 10 23 43.5 3 5 60.0 5 6 83.3 1 2 3 2 3 0 3 2 15
+p373
+aVLarry Johnson NYK 01/28/2001 NYK vs. LAL W 42 7 3 6 50.0 1 1 100.0 0 0 - 1 15 16 2 0 1 0 3 8
+p374
+aVLatrell Sprewell NYK 01/24/2001 NYK @ CHH L 42 22 10 19 52.6 0 1 0.0 2 3 66.7 0 8 8 5 2 1 3 3 -9
+p375
+aVTravis Knight NYK 01/24/2001 NYK @ CHH L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p376
+aVCharlie Ward NYK 01/24/2001 NYK @ CHH L 27 4 1 5 20.0 0 1 0.0 2 2 100.0 1 3 4 1 1 0 3 2 -13
+p377
+aVErick Strickland NYK 01/24/2001 NYK @ CHH L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p378
+aVLarry Johnson NYK 01/24/2001 NYK @ CHH L 45 5 2 9 22.2 1 3 33.3 0 0 - 1 7 8 5 2 0 3 4 -12
+p379
+aVLuc Longley NYK 01/24/2001 NYK @ CHH L 12 0 0 5 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 3 -3
+p380
+aVGlen Rice NYK 01/24/2001 NYK @ CHH L 27 11 4 12 33.3 1 5 20.0 2 4 50.0 2 5 7 1 0 0 1 3 -11
+p381
+aVChris Childs NYK 01/24/2001 NYK @ CHH L 24 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 2 2 -5
+p382
+aVAllan Houston NYK 01/24/2001 NYK @ CHH L 38 18 5 15 33.3 1 6 16.7 7 8 87.5 1 2 3 1 1 0 2 2 -12
+p383
+aVKurt Thomas NYK 01/24/2001 NYK @ CHH L 17 5 1 1 100.0 0 0 - 3 4 75.0 2 2 4 0 4 0 1 2 -2
+p384
+aVLatrell Sprewell NYK 01/23/2001 NYK @ MIL L 41 21 7 15 46.7 0 1 0.0 7 11 63.6 2 4 6 3 3 2 5 3 -9
+p385
+aVAllan Houston NYK 01/23/2001 NYK @ MIL L 38 21 7 15 46.7 2 6 33.3 5 5 100.0 0 6 6 0 0 0 0 1 -11
+p386
+aVTravis Knight NYK 01/23/2001 NYK @ MIL L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p387
+aVCharlie Ward NYK 01/23/2001 NYK @ MIL L 28 13 4 7 57.1 2 3 66.7 3 6 50.0 0 2 2 8 2 0 3 2 -8
+p388
+aVFelton Spencer NYK 01/23/2001 NYK @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p389
+aVGlen Rice NYK 01/23/2001 NYK @ MIL L 29 16 7 10 70.0 1 4 25.0 1 2 50.0 1 3 4 1 0 0 0 2 -10
+p390
+aVKurt Thomas NYK 01/23/2001 NYK @ MIL L 35 6 2 10 20.0 0 0 - 2 4 50.0 2 7 9 0 1 0 2 2 -16
+p391
+aVLarry Johnson NYK 01/23/2001 NYK @ MIL L 33 10 3 7 42.9 2 2 100.0 2 2 100.0 1 3 4 2 0 0 2 4 -11
+p392
+aVChris Childs NYK 01/23/2001 NYK @ MIL L 23 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 5 1 0 2 3 -4
+p393
+aVErick Strickland NYK 01/23/2001 NYK @ MIL L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p394
+aVLarry Johnson NYK 01/21/2001 NYK vs. IND L 41 22 6 11 54.5 0 2 0.0 10 13 76.9 2 4 6 0 0 0 0 2 -10
+p395
+aVChris Childs NYK 01/21/2001 NYK vs. IND L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 -8
+p396
+aVLatrell Sprewell NYK 01/21/2001 NYK vs. IND L 41 18 8 19 42.1 0 1 0.0 2 2 100.0 1 2 3 1 0 0 4 0 -8
+p397
+aVLuc Longley NYK 01/21/2001 NYK vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p398
+aVKurt Thomas NYK 01/21/2001 NYK vs. IND L 39 14 7 12 58.3 0 0 - 0 0 - 11 7 18 1 1 1 2 5 -9
+p399
+aVGlen Rice NYK 01/21/2001 NYK vs. IND L 23 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 2 0 1 0 2 -15
+p400
+aVErick Strickland NYK 01/21/2001 NYK vs. IND L 17 3 1 7 14.3 0 3 0.0 1 2 50.0 1 1 2 0 1 0 1 1 7
+p401
+aVCharlie Ward NYK 01/21/2001 NYK vs. IND L 21 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 3 1 0 1 2 -10
+p402
+aVAllan Houston NYK 01/21/2001 NYK vs. IND L 42 12 3 13 23.1 2 4 50.0 4 4 100.0 0 2 2 2 0 0 2 2 -11
+p403
+aVGlen Rice NYK 01/19/2001 NYK @ DET W 23 18 8 13 61.5 2 4 50.0 0 0 - 1 2 3 0 1 1 0 3 21
+p404
+aVChris Childs NYK 01/19/2001 NYK @ DET W 28 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 7 1 0 1 1 8
+p405
+aVLatrell Sprewell NYK 01/19/2001 NYK @ DET W 30 13 6 12 50.0 0 0 - 1 3 33.3 0 2 2 1 0 0 4 5 -13
+p406
+aVLuc Longley NYK 01/19/2001 NYK @ DET W 21 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 0 1 4 21
+p407
+aVAllan Houston NYK 01/19/2001 NYK @ DET W 34 34 11 21 52.4 5 7 71.4 7 7 100.0 1 5 6 0 0 0 1 4 2
+p408
+aVCharlie Ward NYK 01/19/2001 NYK @ DET W 20 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 6 2 0 2 4 -3
+p409
+aVLarry Johnson NYK 01/19/2001 NYK @ DET W 36 10 2 8 25.0 2 3 66.7 4 4 100.0 4 2 6 4 0 0 0 4 3
+p410
+aVErick Strickland NYK 01/19/2001 NYK @ DET W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 2 3
+p411
+aVKurt Thomas NYK 01/19/2001 NYK @ DET W 32 10 5 10 50.0 0 0 - 0 0 - 0 5 5 0 0 0 0 4 -15
+p412
+aVTravis Knight NYK 01/19/2001 NYK @ DET W 6 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 1 1 3 3
+p413
+aVKurt Thomas NYK 01/15/2001 NYK vs. SAS W 34 12 5 10 50.0 0 0 - 2 2 100.0 2 6 8 1 0 0 0 2 22
+p414
+aVLavor Postell NYK 01/15/2001 NYK vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p415
+aVCharlie Ward NYK 01/15/2001 NYK vs. SAS W 27 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 5 0 0 2 3 18
+p416
+aVChris Childs NYK 01/15/2001 NYK vs. SAS W 21 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 5 0 0 1 4 4
+p417
+aVMarcus Camby NYK 01/15/2001 NYK vs. SAS W 36 6 2 6 33.3 0 0 - 2 4 50.0 1 10 11 2 0 6 0 1 18
+p418
+aVLatrell Sprewell NYK 01/15/2001 NYK vs. SAS W 37 19 9 13 69.2 1 2 50.0 0 0 - 0 6 6 6 2 0 3 4 9
+p419
+aVLarry Johnson NYK 01/15/2001 NYK vs. SAS W 23 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 2 1 0 1 6 2
+p420
+aVErick Strickland NYK 01/15/2001 NYK vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 2
+p421
+aVTravis Knight NYK 01/15/2001 NYK vs. SAS W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 2
+p422
+aVGlen Rice NYK 01/15/2001 NYK vs. SAS W 22 20 8 13 61.5 1 2 50.0 3 3 100.0 0 7 7 1 0 0 0 1 7
+p423
+aVAllan Houston NYK 01/15/2001 NYK vs. SAS W 35 31 11 20 55.0 3 4 75.0 6 6 100.0 0 2 2 1 3 0 3 3 24
+p424
+aVChris Childs NYK 01/13/2001 NYK vs. POR W 16 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 1 0 1 1 -12
+p425
+aVKurt Thomas NYK 01/13/2001 NYK vs. POR W 22 10 2 7 28.6 0 0 - 6 6 100.0 2 3 5 0 0 0 3 6 10
+p426
+aVLatrell Sprewell NYK 01/13/2001 NYK vs. POR W 40 12 4 16 25.0 1 3 33.3 3 4 75.0 0 0 0 5 1 0 0 2 18
+p427
+aVMarcus Camby NYK 01/13/2001 NYK vs. POR W 25 16 5 9 55.6 0 0 - 6 7 85.7 7 8 15 2 1 1 1 6 19
+p428
+aVLarry Johnson NYK 01/13/2001 NYK vs. POR W 41 11 5 15 33.3 0 4 0.0 1 1 100.0 3 9 12 1 1 1 2 3 3
+p429
+aVAllan Houston NYK 01/13/2001 NYK vs. POR W 34 12 4 13 30.8 1 5 20.0 3 4 75.0 0 2 2 1 1 0 1 3 3
+p430
+aVCharlie Ward NYK 01/13/2001 NYK vs. POR W 32 17 5 10 50.0 4 7 57.1 3 4 75.0 0 2 2 5 2 0 0 0 25
+p431
+aVLuc Longley NYK 01/13/2001 NYK vs. POR W 7 2 0 0 - 0 0 - 2 2 100.0 2 0 2 0 0 0 1 1 -10
+p432
+aVGlen Rice NYK 01/13/2001 NYK vs. POR W 23 11 3 6 50.0 2 3 66.7 3 3 100.0 0 1 1 0 1 0 1 2 9
+p433
+aVChris Childs NYK 01/11/2001 NYK vs. HOU L 32 11 4 11 36.4 2 4 50.0 1 1 100.0 0 7 7 4 1 0 0 5 5
+p434
+aVKurt Thomas NYK 01/11/2001 NYK vs. HOU L 24 10 2 4 50.0 0 0 - 6 6 100.0 0 4 4 0 0 2 0 1 8
+p435
+aVMarcus Camby NYK 01/11/2001 NYK vs. HOU L 34 8 3 9 33.3 0 0 - 2 4 50.0 6 6 12 0 1 3 0 5 -3
+p436
+aVLarry Johnson NYK 01/11/2001 NYK vs. HOU L 37 18 6 10 60.0 0 2 0.0 6 6 100.0 1 4 5 0 1 0 3 1 -5
+p437
+aVErick Strickland NYK 01/11/2001 NYK vs. HOU L 21 7 2 9 22.2 1 3 33.3 2 2 100.0 1 0 1 0 2 0 1 3 11
+p438
+aVLatrell Sprewell NYK 01/11/2001 NYK vs. HOU L 40 5 1 11 9.1 0 0 - 3 4 75.0 2 9 11 4 1 0 6 1 0
+p439
+aVAllan Houston NYK 01/11/2001 NYK vs. HOU L 36 13 5 17 29.4 0 3 0.0 3 3 100.0 1 6 7 1 0 1 3 1 -15
+p440
+aVCharlie Ward NYK 01/11/2001 NYK vs. HOU L 16 3 1 6 16.7 1 5 20.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p441
+aVAllan Houston NYK 01/07/2001 NYK vs. WAS W 34 19 5 7 71.4 3 4 75.0 6 7 85.7 0 3 3 3 0 1 4 3 22
+p442
+aVErick Strickland NYK 01/07/2001 NYK vs. WAS W 26 11 3 10 30.0 1 4 25.0 4 4 100.0 0 3 3 3 4 0 1 4 -1
+p443
+aVTravis Knight NYK 01/07/2001 NYK vs. WAS W 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 1 0 1 -3
+p444
+aVChris Childs NYK 01/07/2001 NYK vs. WAS W 25 6 2 4 50.0 0 2 0.0 2 2 100.0 1 2 3 5 1 0 1 2 4
+p445
+aVCharlie Ward NYK 01/07/2001 NYK vs. WAS W 23 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 4 1 0 2 3 12
+p446
+aVMarcus Camby NYK 01/07/2001 NYK vs. WAS W 32 21 7 12 58.3 0 0 - 7 9 77.8 4 4 8 0 3 3 1 3 14
+p447
+aVLatrell Sprewell NYK 01/07/2001 NYK vs. WAS W 32 11 5 11 45.5 1 2 50.0 0 1 0.0 0 2 2 6 3 0 2 1 10
+p448
+aVLavor Postell NYK 01/07/2001 NYK vs. WAS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p449
+aVKurt Thomas NYK 01/07/2001 NYK vs. WAS W 28 13 5 11 45.5 0 0 - 3 3 100.0 4 6 10 1 1 1 3 5 17
+p450
+aVLarry Johnson NYK 01/07/2001 NYK vs. WAS W 34 15 6 11 54.5 1 2 50.0 2 2 100.0 4 2 6 4 1 0 1 4 8
+p451
+aVLuc Longley NYK 01/04/2001 NYK vs. ORL W 6 0 0 2 0.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 0
+p452
+aVRick Brunson NYK 01/04/2001 NYK vs. ORL W 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 0 0
+p453
+aVLatrell Sprewell NYK 01/04/2001 NYK vs. ORL W 46 20 7 19 36.8 2 4 50.0 4 7 57.1 1 2 3 3 3 0 2 4 3
+p454
+aVAllan Houston NYK 01/04/2001 NYK vs. ORL W 47 24 8 18 44.4 3 4 75.0 5 5 100.0 0 3 3 7 1 1 2 2 2
+p455
+aVMarcus Camby NYK 01/04/2001 NYK vs. ORL W 44 22 8 17 47.1 0 0 - 6 7 85.7 4 8 12 1 2 1 1 4 2
+p456
+aVLarry Johnson NYK 01/04/2001 NYK vs. ORL W 36 11 3 9 33.3 2 4 50.0 3 4 75.0 2 3 5 1 2 0 0 0 -5
+p457
+aVKurt Thomas NYK 01/04/2001 NYK vs. ORL W 30 12 4 7 57.1 0 1 0.0 4 4 100.0 3 3 6 2 2 0 1 3 15
+p458
+aVErick Strickland NYK 01/04/2001 NYK vs. ORL W 14 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 2 1
+p459
+aVChris Childs NYK 01/04/2001 NYK vs. ORL W 37 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 5 0 1 2 3 -3
+p460
+aVTravis Knight NYK 01/03/2001 NYK @ BOS W 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p461
+aVErick Strickland NYK 01/03/2001 NYK @ BOS W 21 9 4 8 50.0 0 2 0.0 1 1 100.0 0 1 1 1 2 0 1 2 15
+p462
+aVLatrell Sprewell NYK 01/03/2001 NYK @ BOS W 40 12 4 13 30.8 0 2 0.0 4 4 100.0 0 6 6 3 2 2 2 2 1
+p463
+aVLarry Johnson NYK 01/03/2001 NYK @ BOS W 28 16 6 11 54.5 1 4 25.0 3 3 100.0 0 8 8 3 0 0 3 3 2
+p464
+aVMarcus Camby NYK 01/03/2001 NYK @ BOS W 27 9 3 7 42.9 0 0 - 3 4 75.0 1 6 7 2 1 1 3 5 0
+p465
+aVRick Brunson NYK 01/03/2001 NYK @ BOS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p466
+aVAllan Houston NYK 01/03/2001 NYK @ BOS W 39 25 9 12 75.0 1 2 50.0 6 7 85.7 0 5 5 3 0 0 3 0 4
+p467
+aVChris Childs NYK 01/03/2001 NYK @ BOS W 39 17 5 5 100.0 3 3 100.0 4 4 100.0 0 0 0 7 1 0 1 2 1
+p468
+aVLuc Longley NYK 01/03/2001 NYK @ BOS W 10 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 6
+p469
+aVKurt Thomas NYK 01/03/2001 NYK @ BOS W 31 10 3 5 60.0 0 0 - 4 5 80.0 3 3 6 0 0 2 2 5 13
+p470
+aVKurt Thomas NYK 12/30/2000 NYK @ MIN W 38 12 6 18 33.3 0 0 - 0 0 - 4 10 14 1 0 0 3 4 -4
+p471
+aVAllan Houston NYK 12/30/2000 NYK @ MIN W 39 27 10 19 52.6 3 5 60.0 4 4 100.0 0 2 2 2 1 0 2 2 -1
+p472
+aVTravis Knight NYK 12/30/2000 NYK @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p473
+aVLarry Johnson NYK 12/30/2000 NYK @ MIN W 40 8 3 8 37.5 0 3 0.0 2 2 100.0 5 9 14 4 1 1 1 4 10
+p474
+aVLatrell Sprewell NYK 12/30/2000 NYK @ MIN W 42 27 12 23 52.2 1 1 100.0 2 5 40.0 2 6 8 3 2 2 1 1 10
+p475
+aVGlen Rice NYK 12/30/2000 NYK @ MIN W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -2
+p476
+aVErick Strickland NYK 12/30/2000 NYK @ MIN W 18 0 0 3 0.0 0 0 - 0 0 - 0 2 2 4 1 0 0 0 10
+p477
+aVChris Childs NYK 12/30/2000 NYK @ MIN W 37 10 2 5 40.0 1 1 100.0 5 6 83.3 1 3 4 8 0 0 4 4 10
+p478
+aVLuc Longley NYK 12/30/2000 NYK @ MIN W 18 4 1 3 33.3 0 0 - 2 2 100.0 3 6 9 0 0 1 0 2 12
+p479
+aVTravis Knight NYK 12/29/2000 NYK vs. CHI W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -4
+p480
+aVGlen Rice NYK 12/29/2000 NYK vs. CHI W 32 20 7 14 50.0 1 3 33.3 5 6 83.3 2 2 4 1 2 0 1 4 25
+p481
+aVChris Childs NYK 12/29/2000 NYK vs. CHI W 40 4 1 4 25.0 0 1 0.0 2 2 100.0 0 7 7 9 3 0 1 2 24
+p482
+aVLuc Longley NYK 12/29/2000 NYK vs. CHI W 29 5 2 4 50.0 0 0 - 1 2 50.0 0 6 6 0 1 0 0 4 15
+p483
+aVErick Strickland NYK 12/29/2000 NYK vs. CHI W 28 6 2 7 28.6 2 3 66.7 0 1 0.0 1 5 6 3 1 0 1 1 10
+p484
+aVLavor Postell NYK 12/29/2000 NYK vs. CHI W 6 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -2
+p485
+aVKurt Thomas NYK 12/29/2000 NYK vs. CHI W 26 18 8 10 80.0 0 0 - 2 3 66.7 2 5 7 0 0 2 4 3 14
+p486
+aVLatrell Sprewell NYK 12/29/2000 NYK vs. CHI W 38 32 11 17 64.7 2 2 100.0 8 9 88.9 1 4 5 4 0 0 3 2 24
+p487
+aVLarry Johnson NYK 12/29/2000 NYK vs. CHI W 35 10 3 9 33.3 0 2 0.0 4 6 66.7 1 3 4 1 1 0 0 0 29
+p488
+aVKurt Thomas NYK 12/27/2000 NYK @ WAS W 20 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 1 0 6 6
+p489
+aVRick Brunson NYK 12/27/2000 NYK @ WAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -6
+p490
+aVChris Childs NYK 12/27/2000 NYK @ WAS W 28 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 3 1 0 3 6 8
+p491
+aVLuc Longley NYK 12/27/2000 NYK @ WAS W 19 4 2 3 66.7 0 0 - 0 0 - 2 1 3 2 0 0 3 2 9
+p492
+aVTravis Knight NYK 12/27/2000 NYK @ WAS W 25 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 1 1 0 4 1
+p493
+aVLatrell Sprewell NYK 12/27/2000 NYK @ WAS W 41 25 8 17 47.1 1 3 33.3 8 9 88.9 0 3 3 2 0 0 3 3 5
+p494
+aVLarry Johnson NYK 12/27/2000 NYK @ WAS W 32 14 5 10 50.0 1 3 33.3 3 3 100.0 1 5 6 2 1 0 1 4 0
+p495
+aVAllan Houston NYK 12/27/2000 NYK @ WAS W 39 23 8 19 42.1 0 3 0.0 7 8 87.5 0 4 4 7 2 0 2 2 3
+p496
+aVGlen Rice NYK 12/27/2000 NYK @ WAS W 34 12 5 9 55.6 2 4 50.0 0 0 - 1 3 4 1 4 0 2 4 9
+p497
+aVRick Brunson NYK 12/22/2000 NYK @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p498
+aVLatrell Sprewell NYK 12/22/2000 NYK @ PHI W 39 20 8 19 42.1 0 1 0.0 4 4 100.0 2 4 6 9 1 0 2 3 26
+p499
+aVKurt Thomas NYK 12/22/2000 NYK @ PHI W 37 12 5 9 55.6 0 0 - 2 2 100.0 3 7 10 1 0 1 2 5 23
+p500
+aVChris Childs NYK 12/22/2000 NYK @ PHI W 28 5 2 4 50.0 1 2 50.0 0 0 - 1 2 3 6 0 0 6 4 -2
+p501
+aVLuc Longley NYK 12/22/2000 NYK @ PHI W 14 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 1 0 0 1 5 2
+p502
+aVLavor Postell NYK 12/22/2000 NYK @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p503
+aVTravis Knight NYK 12/22/2000 NYK @ PHI W 16 3 0 2 0.0 0 0 - 3 4 75.0 6 1 7 0 0 0 0 4 -2
+p504
+aVAllan Houston NYK 12/22/2000 NYK @ PHI W 39 27 9 18 50.0 5 5 100.0 4 5 80.0 1 5 6 4 1 0 2 2 22
+p505
+aVLarry Johnson NYK 12/22/2000 NYK @ PHI W 26 12 5 11 45.5 2 5 40.0 0 0 - 1 5 6 0 1 0 3 5 14
+p506
+aVGlen Rice NYK 12/22/2000 NYK @ PHI W 37 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 2 0 0 2 2 23
+p507
+aVErick Strickland NYK 12/21/2000 NYK vs. BOS L 8 1 0 2 0.0 0 0 - 1 1 100.0 0 0 0 1 1 0 1 0 -7
+p508
+aVKurt Thomas NYK 12/21/2000 NYK vs. BOS L 37 14 7 9 77.8 0 0 - 0 0 - 2 5 7 1 1 1 1 6 -1
+p509
+aVLatrell Sprewell NYK 12/21/2000 NYK vs. BOS L 41 19 7 13 53.8 1 3 33.3 4 4 100.0 0 9 9 3 2 0 6 4 3
+p510
+aVLarry Johnson NYK 12/21/2000 NYK vs. BOS L 30 4 2 7 28.6 0 1 0.0 0 0 - 0 5 5 4 1 1 4 3 -11
+p511
+aVMarcus Camby NYK 12/21/2000 NYK vs. BOS L 10 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 2 0
+p512
+aVChris Childs NYK 12/21/2000 NYK vs. BOS L 29 8 3 7 42.9 0 2 0.0 2 2 100.0 1 2 3 7 1 0 0 3 -10
+p513
+aVAllan Houston NYK 12/21/2000 NYK vs. BOS L 39 4 2 12 16.7 0 2 0.0 0 0 - 0 7 7 3 0 0 2 5 -4
+p514
+aVTravis Knight NYK 12/21/2000 NYK vs. BOS L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -5
+p515
+aVGlen Rice NYK 12/21/2000 NYK vs. BOS L 40 32 12 22 54.5 6 9 66.7 2 2 100.0 1 8 9 2 0 0 2 4 3
+p516
+aVRick Brunson NYK 12/21/2000 NYK vs. BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p517
+aVLuc Longley NYK 12/19/2000 NYK @ ATL L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p518
+aVChris Childs NYK 12/19/2000 NYK @ ATL L 22 2 1 4 25.0 0 0 - 0 2 0.0 0 0 0 5 0 0 2 3 -2
+p519
+aVKurt Thomas NYK 12/19/2000 NYK @ ATL L 24 10 5 10 50.0 0 0 - 0 0 - 3 1 4 1 1 0 1 2 -3
+p520
+aVLatrell Sprewell NYK 12/19/2000 NYK @ ATL L 35 10 4 14 28.6 0 1 0.0 2 7 28.6 3 6 9 7 2 1 3 5 -4
+p521
+aVMarcus Camby NYK 12/19/2000 NYK @ ATL L 39 4 1 5 20.0 0 0 - 2 2 100.0 6 11 17 0 0 1 3 4 -5
+p522
+aVRick Brunson NYK 12/19/2000 NYK @ ATL L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p523
+aVErick Strickland NYK 12/19/2000 NYK @ ATL L 21 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 1 1 0 1 5 -4
+p524
+aVAllan Houston NYK 12/19/2000 NYK @ ATL L 42 18 6 19 31.6 2 6 33.3 4 4 100.0 1 3 4 4 0 0 1 1 -1
+p525
+aVGlen Rice NYK 12/19/2000 NYK @ ATL L 41 23 10 16 62.5 2 5 40.0 1 1 100.0 0 5 5 2 0 0 0 2 -14
+p526
+aVRick Brunson NYK 12/17/2000 NYK vs. MIL W 1 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 0 0 3
+p527
+aVTravis Knight NYK 12/17/2000 NYK vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p528
+aVAllan Houston NYK 12/17/2000 NYK vs. MIL W 35 29 11 16 68.8 0 1 0.0 7 8 87.5 0 3 3 2 0 1 3 5 3
+p529
+aVKurt Thomas NYK 12/17/2000 NYK vs. MIL W 26 9 3 9 33.3 0 0 - 3 3 100.0 2 5 7 1 0 1 4 4 -7
+p530
+aVLuc Longley NYK 12/17/2000 NYK vs. MIL W 11 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 1 1 1 1 -6
+p531
+aVErick Strickland NYK 12/17/2000 NYK vs. MIL W 25 5 2 7 28.6 1 2 50.0 0 1 0.0 1 1 2 1 1 0 1 4 11
+p532
+aVLatrell Sprewell NYK 12/17/2000 NYK vs. MIL W 38 10 3 13 23.1 0 1 0.0 4 7 57.1 1 7 8 2 0 0 7 6 -14
+p533
+aVGlen Rice NYK 12/17/2000 NYK vs. MIL W 47 32 10 21 47.6 5 6 83.3 7 7 100.0 5 9 14 0 0 1 2 3 7
+p534
+aVChris Childs NYK 12/17/2000 NYK vs. MIL W 41 0 0 2 0.0 0 1 0.0 0 0 - 1 6 7 4 1 0 1 2 10
+p535
+aVMarcus Camby NYK 12/17/2000 NYK vs. MIL W 40 11 5 8 62.5 0 0 - 1 1 100.0 4 9 13 0 0 1 2 4 7
+p536
+aVLatrell Sprewell NYK 12/15/2000 NYK vs. UTA L 33 12 5 12 41.7 0 2 0.0 2 4 50.0 0 4 4 4 1 1 2 2 -25
+p537
+aVRick Brunson NYK 12/15/2000 NYK vs. UTA L 15 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 2 0 0 4 1 -6
+p538
+aVTravis Knight NYK 12/15/2000 NYK vs. UTA L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 2 1 1 0 -8
+p539
+aVChris Childs NYK 12/15/2000 NYK vs. UTA L 28 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 1 0 3 2 -26
+p540
+aVLavor Postell NYK 12/15/2000 NYK vs. UTA L 12 4 1 5 20.0 0 1 0.0 2 4 50.0 1 1 2 1 1 0 1 1 -8
+p541
+aVLuc Longley NYK 12/15/2000 NYK vs. UTA L 26 0 0 5 0.0 0 0 - 0 0 - 3 2 5 0 0 1 2 5 -18
+p542
+aVMarcus Camby NYK 12/15/2000 NYK vs. UTA L 34 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 2 1 1 -23
+p543
+aVKurt Thomas NYK 12/15/2000 NYK vs. UTA L 17 10 4 6 66.7 0 0 - 2 2 100.0 2 3 5 1 0 0 2 5 -8
+p544
+aVAllan Houston NYK 12/15/2000 NYK vs. UTA L 29 14 6 12 50.0 1 5 20.0 1 1 100.0 1 1 2 3 0 0 3 2 -10
+p545
+aVGlen Rice NYK 12/15/2000 NYK vs. UTA L 27 6 3 7 42.9 0 1 0.0 0 1 0.0 1 1 2 0 2 0 4 3 -10
+p546
+aVErick Strickland NYK 12/15/2000 NYK vs. UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -13
+p547
+aVGlen Rice NYK 12/14/2000 NYK @ TOR L 34 10 4 12 33.3 1 3 33.3 1 2 50.0 0 3 3 0 1 0 0 2 -11
+p548
+aVMarcus Camby NYK 12/14/2000 NYK @ TOR L 38 5 2 6 33.3 0 0 - 1 3 33.3 4 9 13 2 4 4 0 2 -13
+p549
+aVKurt Thomas NYK 12/14/2000 NYK @ TOR L 29 12 6 10 60.0 0 0 - 0 0 - 4 6 10 0 1 1 1 3 -2
+p550
+aVLarry Johnson NYK 12/14/2000 NYK @ TOR L 17 4 0 4 0.0 0 2 0.0 4 4 100.0 0 0 0 1 0 1 1 1 1
+p551
+aVLatrell Sprewell NYK 12/14/2000 NYK @ TOR L 40 18 7 16 43.8 2 2 100.0 2 2 100.0 0 3 3 3 0 1 5 2 0
+p552
+aVAllan Houston NYK 12/14/2000 NYK @ TOR L 38 9 4 14 28.6 0 2 0.0 1 1 100.0 0 2 2 1 1 0 6 0 -3
+p553
+aVChris Childs NYK 12/14/2000 NYK @ TOR L 31 8 4 9 44.4 0 0 - 0 0 - 0 4 4 6 2 2 2 4 7
+p554
+aVLuc Longley NYK 12/14/2000 NYK @ TOR L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 11
+p555
+aVChris Childs NYK 12/09/2000 NYK vs. DEN W 31 4 2 5 40.0 0 0 - 0 0 - 0 5 5 8 1 0 2 4 12
+p556
+aVLarry Johnson NYK 12/09/2000 NYK vs. DEN W 33 13 4 12 33.3 3 5 60.0 2 2 100.0 3 6 9 4 0 0 1 4 9
+p557
+aVKurt Thomas NYK 12/09/2000 NYK vs. DEN W 20 8 3 9 33.3 0 0 - 2 2 100.0 0 4 4 1 0 0 1 3 -4
+p558
+aVLuc Longley NYK 12/09/2000 NYK vs. DEN W 15 7 3 5 60.0 0 0 - 1 1 100.0 2 1 3 0 0 1 1 3 12
+p559
+aVGlen Rice NYK 12/09/2000 NYK vs. DEN W 33 8 3 9 33.3 1 2 50.0 1 1 100.0 2 5 7 1 0 0 2 3 0
+p560
+aVMarcus Camby NYK 12/09/2000 NYK vs. DEN W 27 6 3 5 60.0 0 0 - 0 1 0.0 4 5 9 1 1 0 0 1 2
+p561
+aVLatrell Sprewell NYK 12/09/2000 NYK vs. DEN W 41 29 11 20 55.0 1 2 50.0 6 8 75.0 1 6 7 2 1 0 4 2 4
+p562
+aVAllan Houston NYK 12/09/2000 NYK vs. DEN W 40 21 8 17 47.1 0 1 0.0 5 5 100.0 0 4 4 5 0 0 1 3 5
+p563
+aVMarcus Camby NYK 12/07/2000 NYK @ SAS W 33 16 7 11 63.6 0 0 - 2 3 66.7 3 1 4 0 3 4 0 3 -4
+p564
+aVGlen Rice NYK 12/07/2000 NYK @ SAS W 40 19 8 13 61.5 1 1 100.0 2 2 100.0 3 9 12 2 1 0 5 2 1
+p565
+aVKurt Thomas NYK 12/07/2000 NYK @ SAS W 14 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 3 1 1 5 10
+p566
+aVLatrell Sprewell NYK 12/07/2000 NYK @ SAS W 42 20 9 19 47.4 0 1 0.0 2 2 100.0 0 6 6 5 0 0 0 1 5
+p567
+aVLuc Longley NYK 12/07/2000 NYK @ SAS W 17 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 2 1 3 4
+p568
+aVLarry Johnson NYK 12/07/2000 NYK @ SAS W 31 8 3 9 33.3 2 4 50.0 0 0 - 1 4 5 1 0 1 2 5 -4
+p569
+aVTravis Knight NYK 12/07/2000 NYK @ SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p570
+aVAllan Houston NYK 12/07/2000 NYK @ SAS W 39 17 6 17 35.3 1 5 20.0 4 5 80.0 0 3 3 3 0 0 2 3 1
+p571
+aVChris Childs NYK 12/07/2000 NYK @ SAS W 23 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 3 0 0 3 5 2
+p572
+aVKurt Thomas NYK 12/06/2000 NYK @ DAL L 20 15 4 11 36.4 0 0 - 7 9 77.8 3 2 5 0 0 0 2 5 5
+p573
+aVGlen Rice NYK 12/06/2000 NYK @ DAL L 25 0 0 6 0.0 0 2 0.0 0 0 - 1 2 3 1 0 0 0 1 -12
+p574
+aVTravis Knight NYK 12/06/2000 NYK @ DAL L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 11
+p575
+aVRick Brunson NYK 12/06/2000 NYK @ DAL L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 11
+p576
+aVErick Strickland NYK 12/06/2000 NYK @ DAL L 25 6 2 8 25.0 0 4 0.0 2 2 100.0 0 1 1 2 2 0 0 2 5
+p577
+aVLatrell Sprewell NYK 12/06/2000 NYK @ DAL L 32 8 4 12 33.3 0 1 0.0 0 2 0.0 0 1 1 4 3 1 1 2 -24
+p578
+aVLavor Postell NYK 12/06/2000 NYK @ DAL L 5 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 11
+p579
+aVLarry Johnson NYK 12/06/2000 NYK @ DAL L 24 6 2 9 22.2 0 2 0.0 2 2 100.0 1 0 1 3 2 0 0 2 -13
+p580
+aVAllan Houston NYK 12/06/2000 NYK @ DAL L 35 17 6 11 54.5 2 3 66.7 3 3 100.0 1 0 1 3 0 0 2 0 -15
+p581
+aVMarcus Camby NYK 12/06/2000 NYK @ DAL L 37 18 8 13 61.5 0 0 - 2 5 40.0 4 12 16 0 0 3 0 3 -12
+p582
+aVChris Childs NYK 12/06/2000 NYK @ DAL L 26 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 5 0 0 1 3 -12
+p583
+aVLavor Postell NYK 12/04/2000 NYK vs. LAC W 8 3 1 4 25.0 1 1 100.0 0 0 - 1 0 1 0 1 0 2 1 -5
+p584
+aVAllan Houston NYK 12/04/2000 NYK vs. LAC W 31 19 6 10 60.0 1 1 100.0 6 6 100.0 0 2 2 1 0 0 1 1 24
+p585
+aVKurt Thomas NYK 12/04/2000 NYK vs. LAC W 19 14 7 8 87.5 0 0 - 0 0 - 2 6 8 0 0 0 3 4 19
+p586
+aVMarcus Camby NYK 12/04/2000 NYK vs. LAC W 30 8 4 9 44.4 0 0 - 0 1 0.0 2 2 4 1 2 2 0 2 26
+p587
+aVChris Childs NYK 12/04/2000 NYK vs. LAC W 29 4 2 3 66.7 0 0 - 0 0 - 1 3 4 11 2 0 0 3 23
+p588
+aVLarry Johnson NYK 12/04/2000 NYK vs. LAC W 27 12 5 9 55.6 2 3 66.7 0 0 - 1 2 3 1 1 0 1 3 19
+p589
+aVGlen Rice NYK 12/04/2000 NYK vs. LAC W 39 21 9 16 56.3 2 6 33.3 1 1 100.0 0 3 3 1 1 0 0 3 15
+p590
+aVLuc Longley NYK 12/04/2000 NYK vs. LAC W 10 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 2 0 0 2 2 -4
+p591
+aVRick Brunson NYK 12/04/2000 NYK vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 0
+p592
+aVLatrell Sprewell NYK 12/04/2000 NYK vs. LAC W 32 19 9 14 64.3 0 1 0.0 1 2 50.0 1 4 5 4 3 0 2 2 27
+p593
+aVTravis Knight NYK 12/04/2000 NYK vs. LAC W 10 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 0 4 -4
+p594
+aVChris Childs NYK 12/02/2000 NYK vs. MIN W 32 9 2 7 28.6 0 2 0.0 5 6 83.3 0 3 3 7 2 0 3 1 2
+p595
+aVKurt Thomas NYK 12/02/2000 NYK vs. MIN W 24 4 2 3 66.7 0 0 - 0 0 - 4 4 8 0 0 0 0 4 10
+p596
+aVErick Strickland NYK 12/02/2000 NYK vs. MIN W 10 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 3 6
+p597
+aVMarcus Camby NYK 12/02/2000 NYK vs. MIN W 33 10 5 8 62.5 0 0 - 0 0 - 4 10 14 0 3 3 1 3 -3
+p598
+aVLarry Johnson NYK 12/02/2000 NYK vs. MIN W 39 9 4 7 57.1 1 3 33.3 0 0 - 1 1 2 1 0 0 3 4 13
+p599
+aVLatrell Sprewell NYK 12/02/2000 NYK vs. MIN W 34 17 5 11 45.5 0 0 - 7 7 100.0 0 5 5 5 0 0 5 0 4
+p600
+aVGlen Rice NYK 12/02/2000 NYK vs. MIN W 30 10 2 6 33.3 1 3 33.3 5 6 83.3 0 5 5 2 0 0 1 0 10
+p601
+aVAllan Houston NYK 12/02/2000 NYK vs. MIN W 38 37 16 20 80.0 2 2 100.0 3 3 100.0 0 0 0 0 0 0 4 5 8
+p602
+aVChris Childs NYK 12/01/2000 NYK @ CHI W 24 3 1 5 20.0 0 1 0.0 1 2 50.0 1 2 3 2 0 0 2 3 -5
+p603
+aVAllan Houston NYK 12/01/2000 NYK @ CHI W 42 26 7 20 35.0 1 4 25.0 11 12 91.7 0 8 8 6 1 0 2 3 15
+p604
+aVLuc Longley NYK 12/01/2000 NYK @ CHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p605
+aVErick Strickland NYK 12/01/2000 NYK @ CHI W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 6
+p606
+aVMarcus Camby NYK 12/01/2000 NYK @ CHI W 37 9 3 5 60.0 0 1 0.0 3 6 50.0 4 7 11 1 2 2 2 5 11
+p607
+aVLatrell Sprewell NYK 12/01/2000 NYK @ CHI W 36 13 4 9 44.4 0 0 - 5 5 100.0 0 3 3 2 1 0 0 1 4
+p608
+aVKurt Thomas NYK 12/01/2000 NYK @ CHI W 22 7 3 8 37.5 0 0 - 1 2 50.0 3 3 6 1 0 1 1 5 -14
+p609
+aVLarry Johnson NYK 12/01/2000 NYK @ CHI W 37 24 8 13 61.5 2 3 66.7 6 6 100.0 2 3 5 0 0 0 1 4 13
+p610
+aVGlen Rice NYK 12/01/2000 NYK @ CHI W 29 9 3 7 42.9 0 2 0.0 3 3 100.0 0 3 3 1 0 0 1 2 1
+p611
+aVMarcus Camby NYK 11/29/2000 NYK vs. MIA L 33 9 4 9 44.4 0 1 0.0 1 4 25.0 6 7 13 0 2 2 2 6 -1
+p612
+aVKurt Thomas NYK 11/29/2000 NYK vs. MIA L 17 6 2 4 50.0 0 0 - 2 4 50.0 2 2 4 0 0 2 0 3 -12
+p613
+aVLarry Johnson NYK 11/29/2000 NYK vs. MIA L 36 6 3 11 27.3 0 2 0.0 0 0 - 3 6 9 0 0 1 1 4 1
+p614
+aVLatrell Sprewell NYK 11/29/2000 NYK vs. MIA L 44 22 9 19 47.4 0 2 0.0 4 6 66.7 0 2 2 2 4 0 1 0 4
+p615
+aVErick Strickland NYK 11/29/2000 NYK vs. MIA L 13 5 1 2 50.0 0 0 - 3 4 75.0 0 2 2 1 1 1 1 2 -12
+p616
+aVGlen Rice NYK 11/29/2000 NYK vs. MIA L 27 12 4 12 33.3 0 2 0.0 4 4 100.0 1 4 5 0 0 0 2 6 8
+p617
+aVLuc Longley NYK 11/29/2000 NYK vs. MIA L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p618
+aVAllan Houston NYK 11/29/2000 NYK vs. MIA L 41 15 6 17 35.3 0 3 0.0 3 3 100.0 1 3 4 4 0 0 0 3 -11
+p619
+aVChris Childs NYK 11/29/2000 NYK vs. MIA L 24 6 2 7 28.6 1 4 25.0 1 1 100.0 0 2 2 3 1 0 0 5 12
+p620
+aVRick Brunson NYK 11/27/2000 NYK vs. VAN W 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p621
+aVLavor Postell NYK 11/27/2000 NYK vs. VAN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p622
+aVTravis Knight NYK 11/27/2000 NYK vs. VAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p623
+aVLarry Johnson NYK 11/27/2000 NYK vs. VAN W 34 7 2 10 20.0 0 2 0.0 3 3 100.0 1 5 6 4 2 2 2 4 19
+p624
+aVGlen Rice NYK 11/27/2000 NYK vs. VAN W 35 23 7 13 53.8 5 7 71.4 4 4 100.0 2 5 7 1 0 1 1 2 27
+p625
+aVLatrell Sprewell NYK 11/27/2000 NYK vs. VAN W 38 18 6 12 50.0 2 3 66.7 4 4 100.0 0 9 9 5 0 0 1 1 14
+p626
+aVMarcus Camby NYK 11/27/2000 NYK vs. VAN W 29 8 3 10 30.0 0 1 0.0 2 2 100.0 4 10 14 0 0 0 0 5 13
+p627
+aVChris Childs NYK 11/27/2000 NYK vs. VAN W 24 2 1 3 33.3 0 0 - 0 0 - 0 2 2 7 0 0 3 4 16
+p628
+aVAllan Houston NYK 11/27/2000 NYK vs. VAN W 35 22 7 14 50.0 3 3 100.0 5 5 100.0 1 4 5 3 2 0 2 2 24
+p629
+aVLuc Longley NYK 11/27/2000 NYK vs. VAN W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 3 3 -2
+p630
+aVKurt Thomas NYK 11/27/2000 NYK vs. VAN W 24 11 4 9 44.4 0 0 - 3 4 75.0 2 4 6 3 0 4 1 0 14
+p631
+aVLarry Johnson NYK 11/25/2000 NYK vs. TOR L 38 11 5 9 55.6 1 4 25.0 0 0 - 1 7 8 4 0 0 6 4 2
+p632
+aVChris Childs NYK 11/25/2000 NYK vs. TOR L 29 7 3 5 60.0 1 1 100.0 0 0 - 0 4 4 2 0 1 1 3 -14
+p633
+aVGlen Rice NYK 11/25/2000 NYK vs. TOR L 34 9 3 12 25.0 1 4 25.0 2 3 66.7 1 1 2 2 0 0 1 3 -8
+p634
+aVMarcus Camby NYK 11/25/2000 NYK vs. TOR L 31 4 2 5 40.0 0 0 - 0 0 - 1 8 9 1 0 2 0 0 -11
+p635
+aVAllan Houston NYK 11/25/2000 NYK vs. TOR L 20 10 5 11 45.5 0 1 0.0 0 0 - 0 3 3 2 1 0 3 6 0
+p636
+aVKurt Thomas NYK 11/25/2000 NYK vs. TOR L 27 8 4 6 66.7 0 0 - 0 0 - 1 6 7 0 1 1 2 4 1
+p637
+aVLatrell Sprewell NYK 11/25/2000 NYK vs. TOR L 45 20 9 19 47.4 1 2 50.0 1 2 50.0 0 5 5 1 3 0 2 3 1
+p638
+aVErick Strickland NYK 11/25/2000 NYK vs. TOR L 15 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 2 0 0 2 1 9
+p639
+aVFelton Spencer NYK 11/22/2000 NYK @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p640
+aVLatrell Sprewell NYK 11/22/2000 NYK @ ATL L 37 16 6 12 50.0 1 3 33.3 3 4 75.0 0 3 3 3 2 0 5 2 -4
+p641
+aVKurt Thomas NYK 11/22/2000 NYK @ ATL L 23 10 5 6 83.3 0 0 - 0 0 - 1 2 3 1 0 1 0 5 12
+p642
+aVChris Childs NYK 11/22/2000 NYK @ ATL L 27 4 2 9 22.2 0 2 0.0 0 0 - 1 2 3 6 2 0 2 6 -8
+p643
+aVTravis Knight NYK 11/22/2000 NYK @ ATL L 10 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -9
+p644
+aVGlen Rice NYK 11/22/2000 NYK @ ATL L 34 7 2 5 40.0 1 3 33.3 2 2 100.0 0 2 2 1 1 0 0 1 4
+p645
+aVLavor Postell NYK 11/22/2000 NYK @ ATL L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 2 1 1 0 -1
+p646
+aVLarry Johnson NYK 11/22/2000 NYK @ ATL L 32 4 2 7 28.6 0 0 - 0 0 - 5 3 8 1 1 2 2 3 -14
+p647
+aVAllan Houston NYK 11/22/2000 NYK @ ATL L 43 21 8 16 50.0 3 3 100.0 2 3 66.7 1 4 5 2 1 0 2 4 -2
+p648
+aVErick Strickland NYK 11/22/2000 NYK @ ATL L 21 6 2 7 28.6 2 4 50.0 0 0 - 0 3 3 2 1 0 0 1 7
+p649
+aVChris Childs NYK 11/21/2000 NYK @ ORL W 28 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 3 3 0 2 3 14
+p650
+aVLarry Johnson NYK 11/21/2000 NYK @ ORL W 32 7 3 11 27.3 1 4 25.0 0 0 - 0 9 9 1 2 1 1 4 -4
+p651
+aVLatrell Sprewell NYK 11/21/2000 NYK @ ORL W 39 22 8 19 42.1 0 3 0.0 6 7 85.7 2 5 7 6 2 0 1 2 0
+p652
+aVGlen Rice NYK 11/21/2000 NYK @ ORL W 27 5 1 8 12.5 0 3 0.0 3 4 75.0 1 0 1 0 2 0 0 2 5
+p653
+aVKurt Thomas NYK 11/21/2000 NYK @ ORL W 35 22 8 13 61.5 0 0 - 6 6 100.0 4 5 9 0 1 0 3 4 1
+p654
+aVCharlie Ward NYK 11/21/2000 NYK @ ORL W 20 8 3 6 50.0 2 3 66.7 0 0 - 1 1 2 1 1 0 3 1 -13
+p655
+aVTravis Knight NYK 11/21/2000 NYK @ ORL W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -1
+p656
+aVErick Strickland NYK 11/21/2000 NYK @ ORL W 16 7 2 4 50.0 1 2 50.0 2 2 100.0 0 5 5 1 3 0 0 1 3
+p657
+aVAllan Houston NYK 11/21/2000 NYK @ ORL W 35 5 1 9 11.1 0 0 - 3 4 75.0 1 3 4 3 0 0 3 4 0
+p658
+aVLarry Johnson NYK 11/19/2000 NYK vs. GSW W 41 9 4 13 30.8 1 3 33.3 0 0 - 2 14 16 2 3 3 0 2 12
+p659
+aVCharlie Ward NYK 11/19/2000 NYK vs. GSW W 23 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 3 1 0 0 1 13
+p660
+aVFelton Spencer NYK 11/19/2000 NYK vs. GSW W 22 7 1 2 50.0 0 0 - 5 6 83.3 3 4 7 1 2 1 2 2 3
+p661
+aVLavor Postell NYK 11/19/2000 NYK vs. GSW W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p662
+aVKurt Thomas NYK 11/19/2000 NYK vs. GSW W 32 17 6 9 66.7 0 0 - 5 5 100.0 0 4 4 0 1 2 1 5 17
+p663
+aVGlen Rice NYK 11/19/2000 NYK vs. GSW W 29 11 4 8 50.0 2 3 66.7 1 2 50.0 0 3 3 2 1 0 1 2 7
+p664
+aVChris Childs NYK 11/19/2000 NYK vs. GSW W 25 6 3 6 50.0 0 3 0.0 0 0 - 0 3 3 5 1 0 1 2 4
+p665
+aVLatrell Sprewell NYK 11/19/2000 NYK vs. GSW W 40 22 9 21 42.9 1 1 100.0 3 4 75.0 2 3 5 5 1 0 1 2 25
+p666
+aVAllan Houston NYK 11/19/2000 NYK vs. GSW W 26 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 3 0 0 3 3 -2
+p667
+aVTravis Knight NYK 11/19/2000 NYK vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p668
+aVTravis Knight NYK 11/17/2000 NYK @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p669
+aVMarcus Camby NYK 11/17/2000 NYK @ PHX W 31 8 4 5 80.0 0 0 - 0 1 0.0 2 11 13 1 3 0 0 4 13
+p670
+aVKurt Thomas NYK 11/17/2000 NYK @ PHX W 25 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 3 0 2 5 12
+p671
+aVLarry Johnson NYK 11/17/2000 NYK @ PHX W 37 12 6 18 33.3 0 3 0.0 0 0 - 1 4 5 0 1 0 2 4 -11
+p672
+aVAllan Houston NYK 11/17/2000 NYK @ PHX W 37 21 8 19 42.1 0 1 0.0 5 5 100.0 0 4 4 1 0 0 1 1 10
+p673
+aVLatrell Sprewell NYK 11/17/2000 NYK @ PHX W 36 19 5 14 35.7 0 2 0.0 9 12 75.0 1 2 3 3 0 0 4 2 -7
+p674
+aVGlen Rice NYK 11/17/2000 NYK @ PHX W 24 8 1 7 14.3 0 2 0.0 6 7 85.7 0 1 1 1 2 0 2 4 2
+p675
+aVCharlie Ward NYK 11/17/2000 NYK @ PHX W 27 12 3 6 50.0 1 4 25.0 5 6 83.3 1 2 3 4 5 0 1 4 -9
+p676
+aVChris Childs NYK 11/17/2000 NYK @ PHX W 22 6 3 4 75.0 0 1 0.0 0 0 - 1 2 3 6 2 0 2 5 12
+p677
+aVGlen Rice NYK 11/15/2000 NYK @ LAC L 24 8 4 10 40.0 0 1 0.0 0 0 - 2 2 4 1 0 1 0 2 0
+p678
+aVKurt Thomas NYK 11/15/2000 NYK @ LAC L 24 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 2 2 1 5 -2
+p679
+aVMarcus Camby NYK 11/15/2000 NYK @ LAC L 39 9 3 9 33.3 0 0 - 3 3 100.0 3 10 13 0 0 3 0 3 -8
+p680
+aVChris Childs NYK 11/15/2000 NYK @ LAC L 25 4 2 4 50.0 0 0 - 0 0 - 1 1 2 5 0 0 2 2 -5
+p681
+aVAllan Houston NYK 11/15/2000 NYK @ LAC L 35 17 7 19 36.8 0 4 0.0 3 4 75.0 0 1 1 1 0 0 2 2 -8
+p682
+aVLarry Johnson NYK 11/15/2000 NYK @ LAC L 34 20 8 16 50.0 2 5 40.0 2 2 100.0 1 8 9 0 0 1 3 4 2
+p683
+aVLatrell Sprewell NYK 11/15/2000 NYK @ LAC L 37 12 5 14 35.7 0 0 - 2 3 66.7 0 6 6 1 1 0 3 3 4
+p684
+aVCharlie Ward NYK 11/15/2000 NYK @ LAC L 23 0 0 2 0.0 0 0 - 0 0 - 1 1 2 3 0 0 2 0 -1
+p685
+aVTravis Knight NYK 11/15/2000 NYK @ LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p686
+aVMarcus Camby NYK 11/14/2000 NYK @ SEA L 33 20 8 10 80.0 0 0 - 4 6 66.7 5 12 17 0 0 2 2 4 -16
+p687
+aVErick Strickland NYK 11/14/2000 NYK @ SEA L 7 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 0 0 1 1 -7
+p688
+aVLavor Postell NYK 11/14/2000 NYK @ SEA L 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p689
+aVGlen Rice NYK 11/14/2000 NYK @ SEA L 24 4 2 11 18.2 0 3 0.0 0 0 - 5 1 6 0 0 0 1 3 -6
+p690
+aVLarry Johnson NYK 11/14/2000 NYK @ SEA L 33 9 3 10 30.0 0 1 0.0 3 4 75.0 2 3 5 2 1 0 1 3 -15
+p691
+aVTravis Knight NYK 11/14/2000 NYK @ SEA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p692
+aVChris Childs NYK 11/14/2000 NYK @ SEA L 17 0 0 2 0.0 0 0 - 0 0 - 0 1 1 4 1 1 4 5 -14
+p693
+aVAllan Houston NYK 11/14/2000 NYK @ SEA L 30 12 5 16 31.3 2 4 50.0 0 0 - 0 2 2 1 0 0 3 3 -9
+p694
+aVKurt Thomas NYK 11/14/2000 NYK @ SEA L 20 6 3 3 100.0 0 0 - 0 0 - 2 5 7 2 4 0 1 5 -3
+p695
+aVLatrell Sprewell NYK 11/14/2000 NYK @ SEA L 30 10 4 14 28.6 0 3 0.0 2 2 100.0 1 0 1 1 4 0 1 0 -19
+p696
+aVFelton Spencer NYK 11/14/2000 NYK @ SEA L 4 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -4
+p697
+aVCharlie Ward NYK 11/14/2000 NYK @ SEA L 31 9 2 10 20.0 1 5 20.0 4 4 100.0 0 3 3 6 2 0 3 3 -4
+p698
+aVMarcus Camby NYK 11/11/2000 NYK vs. CHH W 33 9 3 5 60.0 0 0 - 3 4 75.0 2 11 13 0 1 2 0 2 22
+p699
+aVFelton Spencer NYK 11/11/2000 NYK vs. CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p700
+aVGlen Rice NYK 11/11/2000 NYK vs. CHH W 27 9 4 12 33.3 0 0 - 1 1 100.0 1 2 3 2 0 0 1 4 11
+p701
+aVTravis Knight NYK 11/11/2000 NYK vs. CHH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p702
+aVLarry Johnson NYK 11/11/2000 NYK vs. CHH W 40 15 7 13 53.8 0 0 - 1 2 50.0 0 5 5 2 2 1 0 2 20
+p703
+aVCharlie Ward NYK 11/11/2000 NYK vs. CHH W 39 11 5 8 62.5 1 2 50.0 0 0 - 2 2 4 5 2 0 2 3 19
+p704
+aVLavor Postell NYK 11/11/2000 NYK vs. CHH W 9 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 3 1 -10
+p705
+aVAllan Houston NYK 11/11/2000 NYK vs. CHH W 38 21 8 17 47.1 0 1 0.0 5 5 100.0 0 6 6 4 0 0 2 5 27
+p706
+aVErick Strickland NYK 11/11/2000 NYK vs. CHH W 24 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 -7
+p707
+aVKurt Thomas NYK 11/11/2000 NYK vs. CHH W 24 12 4 8 50.0 0 0 - 4 6 66.7 2 4 6 0 1 0 2 3 -10
+p708
+aVMarcus Camby NYK 11/10/2000 NYK @ BOS W 41 16 7 16 43.8 0 0 - 2 3 66.7 6 11 17 0 0 5 1 3 0
+p709
+aVGlen Rice NYK 11/10/2000 NYK @ BOS W 34 10 5 12 41.7 0 2 0.0 0 1 0.0 0 1 1 2 0 0 1 4 -3
+p710
+aVLavor Postell NYK 11/10/2000 NYK @ BOS W 15 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 2 0 4
+p711
+aVAllan Houston NYK 11/10/2000 NYK @ BOS W 47 37 13 20 65.0 5 5 100.0 6 8 75.0 0 4 4 3 0 0 4 3 1
+p712
+aVCharlie Ward NYK 11/10/2000 NYK @ BOS W 46 11 4 6 66.7 0 2 0.0 3 4 75.0 1 5 6 12 2 0 1 3 5
+p713
+aVKurt Thomas NYK 11/10/2000 NYK @ BOS W 22 6 3 9 33.3 0 0 - 0 0 - 1 5 6 1 0 0 2 5 -3
+p714
+aVErick Strickland NYK 11/10/2000 NYK @ BOS W 16 10 3 6 50.0 2 3 66.7 2 2 100.0 0 0 0 3 0 0 1 2 -1
+p715
+aVLarry Johnson NYK 11/10/2000 NYK @ BOS W 42 9 4 10 40.0 1 2 50.0 0 0 - 2 8 10 1 1 1 3 4 7
+p716
+aVMarcus Camby NYK 11/08/2000 NYK vs. CLE L 33 9 3 13 23.1 0 0 - 3 4 75.0 5 7 12 1 0 3 1 5 5
+p717
+aVErick Strickland NYK 11/08/2000 NYK vs. CLE L 16 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 1 1 0 1 2 -13
+p718
+aVCharlie Ward NYK 11/08/2000 NYK vs. CLE L 35 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 5 2 0 4 2 11
+p719
+aVChris Childs NYK 11/08/2000 NYK vs. CLE L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -11
+p720
+aVLarry Johnson NYK 11/08/2000 NYK vs. CLE L 40 17 7 13 53.8 1 2 50.0 2 2 100.0 3 3 6 4 0 0 5 1 2
+p721
+aVGlen Rice NYK 11/08/2000 NYK vs. CLE L 42 23 7 13 53.8 0 2 0.0 9 10 90.0 0 3 3 2 2 0 1 1 1
+p722
+aVAllan Houston NYK 11/08/2000 NYK vs. CLE L 42 25 9 18 50.0 0 2 0.0 7 8 87.5 0 2 2 0 0 0 3 2 9
+p723
+aVKurt Thomas NYK 11/08/2000 NYK vs. CLE L 22 8 3 6 50.0 0 0 - 2 2 100.0 5 4 9 0 1 3 1 3 -14
+p724
+aVAllan Houston NYK 11/07/2000 NYK @ MIL W 39 24 10 20 50.0 2 6 33.3 2 3 66.7 0 1 1 1 0 0 1 2 12
+p725
+aVLarry Johnson NYK 11/07/2000 NYK @ MIL W 27 13 6 10 60.0 1 2 50.0 0 0 - 2 5 7 4 1 0 1 4 -1
+p726
+aVMarcus Camby NYK 11/07/2000 NYK @ MIL W 35 12 6 8 75.0 0 0 - 0 0 - 3 10 13 2 0 2 0 1 23
+p727
+aVCharlie Ward NYK 11/07/2000 NYK @ MIL W 31 12 5 11 45.5 2 5 40.0 0 0 - 0 1 1 9 2 0 4 1 20
+p728
+aVLatrell Sprewell NYK 11/07/2000 NYK @ MIL W 34 16 5 15 33.3 1 4 25.0 5 7 71.4 2 5 7 3 1 0 1 3 20
+p729
+aVTravis Knight NYK 11/07/2000 NYK @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p730
+aVKurt Thomas NYK 11/07/2000 NYK @ MIL W 27 6 3 3 100.0 0 0 - 0 0 - 1 8 9 1 1 2 1 2 8
+p731
+aVGlen Rice NYK 11/07/2000 NYK @ MIL W 29 18 8 14 57.1 1 2 50.0 1 2 50.0 0 2 2 1 0 0 1 2 -3
+p732
+aVChris Childs NYK 11/07/2000 NYK @ MIL W 17 2 0 1 0.0 0 1 0.0 2 2 100.0 0 4 4 6 1 0 3 3 -6
+p733
+aVAllan Houston NYK 11/03/2000 NYK @ WAS W 35 18 6 17 35.3 1 5 20.0 5 5 100.0 0 3 3 0 0 0 1 1 1
+p734
+aVLatrell Sprewell NYK 11/03/2000 NYK @ WAS W 37 15 4 13 30.8 1 2 50.0 6 6 100.0 0 8 8 7 2 0 2 1 -2
+p735
+aVMarcus Camby NYK 11/03/2000 NYK @ WAS W 41 20 8 13 61.5 0 0 - 4 4 100.0 3 5 8 0 3 4 0 5 -2
+p736
+aVChris Childs NYK 11/03/2000 NYK @ WAS W 24 8 3 6 50.0 1 4 25.0 1 2 50.0 0 2 2 2 0 0 1 3 11
+p737
+aVGlen Rice NYK 11/03/2000 NYK @ WAS W 25 4 1 4 25.0 0 1 0.0 2 2 100.0 0 7 7 1 1 0 2 2 9
+p738
+aVKurt Thomas NYK 11/03/2000 NYK @ WAS W 21 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 1 2 4 7
+p739
+aVCharlie Ward NYK 11/03/2000 NYK @ WAS W 24 5 2 8 25.0 1 3 33.3 0 0 - 2 4 6 2 0 1 2 3 -7
+p740
+aVLarry Johnson NYK 11/03/2000 NYK @ WAS W 34 10 5 11 45.5 0 1 0.0 0 2 0.0 2 4 6 2 0 1 1 3 3
+p741
+aVChris Childs NYK 11/02/2000 NYK vs. ATL W 24 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 5 0 0 3 5 19
+p742
+aVAllan Houston NYK 11/02/2000 NYK vs. ATL W 34 15 6 15 40.0 1 4 25.0 2 2 100.0 0 4 4 1 0 0 2 2 15
+p743
+aVGlen Rice NYK 11/02/2000 NYK vs. ATL W 28 21 7 10 70.0 3 3 100.0 4 4 100.0 0 4 4 0 0 0 0 1 22
+p744
+aVLarry Johnson NYK 11/02/2000 NYK vs. ATL W 28 9 4 10 40.0 0 1 0.0 1 1 100.0 1 1 2 4 0 0 2 4 15
+p745
+aVLatrell Sprewell NYK 11/02/2000 NYK vs. ATL W 35 15 5 12 41.7 1 2 50.0 4 4 100.0 0 3 3 4 1 0 1 1 16
+p746
+aVMarcus Camby NYK 11/02/2000 NYK vs. ATL W 28 12 5 8 62.5 0 0 - 2 2 100.0 1 11 12 1 0 4 0 2 9
+p747
+aVErick Strickland NYK 11/02/2000 NYK vs. ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p748
+aVKurt Thomas NYK 11/02/2000 NYK vs. ATL W 19 3 1 3 33.3 0 0 - 1 2 50.0 0 5 5 2 1 1 0 4 15
+p749
+aVTravis Knight NYK 11/02/2000 NYK vs. ATL W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 1 0 0 0 8
+p750
+aVCharlie Ward NYK 11/02/2000 NYK vs. ATL W 24 10 4 4 100.0 2 2 100.0 0 0 - 0 1 1 3 1 0 4 1 6
+p751
+aVLavor Postell NYK 11/02/2000 NYK vs. ATL W 3 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 0
+p752
+aVLavor Postell NYK 10/31/2000 NYK vs. PHI L 10 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 3
+p753
+aVLatrell Sprewell NYK 10/31/2000 NYK vs. PHI L 30 6 1 9 11.1 0 1 0.0 4 4 100.0 1 2 3 1 0 0 3 3 -21
+p754
+aVErick Strickland NYK 10/31/2000 NYK vs. PHI L 15 10 4 6 66.7 2 2 100.0 0 0 - 2 5 7 0 0 0 1 1 -6
+p755
+aVAllan Houston NYK 10/31/2000 NYK vs. PHI L 32 21 7 15 46.7 1 3 33.3 6 7 85.7 0 1 1 2 2 0 2 3 -20
+p756
+aVMarcus Camby NYK 10/31/2000 NYK vs. PHI L 24 5 1 5 20.0 0 0 - 3 4 75.0 2 2 4 0 1 2 1 2 -21
+p757
+aVTravis Knight NYK 10/31/2000 NYK vs. PHI L 8 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -2
+p758
+aVKurt Thomas NYK 10/31/2000 NYK vs. PHI L 20 7 2 6 33.3 0 0 - 3 4 75.0 2 3 5 0 1 1 1 1 -12
+p759
+aVCharlie Ward NYK 10/31/2000 NYK vs. PHI L 23 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 1 1 0 5 4 -17
+p760
+aVFelton Spencer NYK 10/31/2000 NYK vs. PHI L 8 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 2 3 -2
+p761
+aVChris Childs NYK 10/31/2000 NYK vs. PHI L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 5 -15
+p762
+aVLarry Johnson NYK 10/31/2000 NYK vs. PHI L 26 6 3 5 60.0 0 0 - 0 1 0.0 2 5 7 3 0 0 2 1 -16
+p763
+aVGlen Rice NYK 10/31/2000 NYK vs. PHI L 28 9 3 8 37.5 0 0 - 3 4 75.0 1 0 1 2 1 1 3 5 -16
+p764
+a.

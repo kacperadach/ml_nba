@@ -1,0 +1,86 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPau Gasol MEM 05/01/2005 MEM vs. PHX L 36 28 12 23 52.2 1 1 100.0 3 3 100.0 2 2 4 2 1 0 1 4 -9
+p2
+aVJason Williams MEM 05/01/2005 MEM vs. PHX L 29 20 8 15 53.3 4 6 66.7 0 0 - 1 1 2 8 1 0 3 2 -12
+p3
+aVJames Posey MEM 05/01/2005 MEM vs. PHX L 28 12 3 6 50.0 3 6 50.0 3 4 75.0 0 3 3 2 2 1 1 5 4
+p4
+aVStromile Swift MEM 05/01/2005 MEM vs. PHX L 22 13 6 9 66.7 0 0 - 1 3 33.3 1 2 3 0 1 0 1 2 10
+p5
+aVEarl Watson MEM 05/01/2005 MEM vs. PHX L 19 11 4 6 66.7 1 2 50.0 2 2 100.0 2 1 3 5 1 1 1 3 4
+p6
+aVBrian Cardinal MEM 05/01/2005 MEM vs. PHX L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p7
+aVShane Battier MEM 05/01/2005 MEM vs. PHX L 30 2 1 7 14.3 0 2 0.0 0 0 - 2 3 5 3 2 0 1 5 -20
+p8
+aVMike Miller MEM 05/01/2005 MEM vs. PHX L 26 13 5 10 50.0 1 3 33.3 2 2 100.0 0 2 2 5 0 0 1 1 -9
+p9
+aVDahntay Jones MEM 05/01/2005 MEM vs. PHX L 34 14 5 10 50.0 3 4 75.0 1 2 50.0 2 3 5 0 1 0 2 4 -1
+p10
+aVLorenzen Wright MEM 05/01/2005 MEM vs. PHX L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 4 1
+p11
+aVStromile Swift MEM 04/29/2005 MEM vs. PHX L 10 9 3 5 60.0 0 0 - 3 4 75.0 5 3 8 0 0 0 0 1 -10
+p12
+aVJason Williams MEM 04/29/2005 MEM vs. PHX L 25 10 4 10 40.0 1 5 20.0 1 1 100.0 0 3 3 6 1 0 1 3 -8
+p13
+aVAntonio Burks MEM 04/29/2005 MEM vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p14
+aVBonzi Wells MEM 04/29/2005 MEM vs. PHX L 9 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 -3
+p15
+aVEarl Watson MEM 04/29/2005 MEM vs. PHX L 20 2 1 7 14.3 0 3 0.0 0 0 - 1 1 2 3 0 0 0 4 -9
+p16
+aVJames Posey MEM 04/29/2005 MEM vs. PHX L 25 7 2 6 33.3 1 3 33.3 2 2 100.0 0 1 1 1 0 0 1 2 -17
+p17
+aVDahntay Jones MEM 04/29/2005 MEM vs. PHX L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p18
+aVLorenzen Wright MEM 04/29/2005 MEM vs. PHX L 30 14 7 9 77.8 0 0 - 0 0 - 2 6 8 2 1 1 1 2 -15
+p19
+aVPau Gasol MEM 04/29/2005 MEM vs. PHX L 32 13 6 12 50.0 0 0 - 1 2 50.0 0 3 3 1 0 4 2 2 4
+p20
+aVShane Battier MEM 04/29/2005 MEM vs. PHX L 25 10 4 6 66.7 0 1 0.0 2 4 50.0 3 5 8 1 0 1 2 3 -4
+p21
+aVMike Miller MEM 04/29/2005 MEM vs. PHX L 33 13 5 12 41.7 1 4 25.0 2 2 100.0 0 2 2 2 0 2 2 1 -13
+p22
+aVBrian Cardinal MEM 04/29/2005 MEM vs. PHX L 20 6 3 6 50.0 0 0 - 0 1 0.0 0 2 2 1 0 0 0 2 -15
+p23
+aVJason Williams MEM 04/27/2005 MEM @ PHX L 30 21 9 15 60.0 3 5 60.0 0 0 - 0 0 0 2 2 0 2 0 -5
+p24
+aVJames Posey MEM 04/27/2005 MEM @ PHX L 21 9 3 6 50.0 1 2 50.0 2 4 50.0 1 4 5 1 0 0 0 2 -2
+p25
+aVPau Gasol MEM 04/27/2005 MEM @ PHX L 39 28 13 26 50.0 0 0 - 2 6 33.3 9 7 16 5 1 1 2 5 -4
+p26
+aVBrian Cardinal MEM 04/27/2005 MEM @ PHX L 33 13 4 12 33.3 0 2 0.0 5 7 71.4 1 5 6 1 3 0 0 4 -8
+p27
+aVLorenzen Wright MEM 04/27/2005 MEM @ PHX L 23 12 6 9 66.7 0 0 - 0 0 - 3 2 5 3 0 0 1 3 2
+p28
+aVEarl Watson MEM 04/27/2005 MEM @ PHX L 18 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 3 0
+p29
+aVDahntay Jones MEM 04/27/2005 MEM @ PHX L 30 8 3 8 37.5 0 1 0.0 2 2 100.0 0 4 4 1 0 0 0 4 1
+p30
+aVShane Battier MEM 04/27/2005 MEM @ PHX L 27 9 4 9 44.4 1 4 25.0 0 0 - 1 4 5 1 0 1 1 3 -3
+p31
+aVMike Miller MEM 04/27/2005 MEM @ PHX L 18 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 0 0 0 1 4 -6
+p32
+aVJason Williams MEM 04/24/2005 MEM @ PHX L 31 17 7 13 53.8 2 5 40.0 1 1 100.0 0 4 4 5 2 0 2 2 -16
+p33
+aVBonzi Wells MEM 04/24/2005 MEM @ PHX L 16 8 2 5 40.0 0 0 - 4 4 100.0 0 2 2 3 2 1 0 0 1
+p34
+aVPau Gasol MEM 04/24/2005 MEM @ PHX L 26 16 8 19 42.1 0 0 - 0 1 0.0 4 3 7 2 0 2 2 1 -1
+p35
+aVMike Miller MEM 04/24/2005 MEM @ PHX L 32 19 7 10 70.0 5 7 71.4 0 0 - 0 3 3 4 0 1 1 1 -12
+p36
+aVStromile Swift MEM 04/24/2005 MEM @ PHX L 16 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -9
+p37
+aVEarl Watson MEM 04/24/2005 MEM @ PHX L 17 6 3 7 42.9 0 3 0.0 0 0 - 0 4 4 4 1 0 1 1 5
+p38
+aVShane Battier MEM 04/24/2005 MEM @ PHX L 36 8 4 9 44.4 0 0 - 0 1 0.0 4 5 9 1 0 2 0 3 -11
+p39
+aVBrian Cardinal MEM 04/24/2005 MEM @ PHX L 19 7 2 5 40.0 0 2 0.0 3 3 100.0 1 2 3 0 0 0 1 3 3
+p40
+aVJames Posey MEM 04/24/2005 MEM @ PHX L 27 11 3 7 42.9 2 4 50.0 3 3 100.0 0 4 4 0 0 0 3 5 -9
+p41
+aVLorenzen Wright MEM 04/24/2005 MEM @ PHX L 20 5 2 7 28.6 0 0 - 1 2 50.0 1 6 7 3 0 0 0 1 -6
+p42
+a.

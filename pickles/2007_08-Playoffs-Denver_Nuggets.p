@@ -1,0 +1,86 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVNene DEN 04/28/2008 DEN vs. LAL L 11 7 3 5 60.0 0 0 - 1 1 100.0 2 2 4 0 2 0 2 6 -6
+p2
+aVAnthony Carter DEN 04/28/2008 DEN vs. LAL L 17 2 1 7 14.3 0 3 0.0 0 0 - 2 1 3 6 1 0 1 1 7
+p3
+aVLinas Kleiza DEN 04/28/2008 DEN vs. LAL L 20 8 3 9 33.3 0 5 0.0 2 2 100.0 2 3 5 1 0 0 1 1 -9
+p4
+aVAllen Iverson DEN 04/28/2008 DEN vs. LAL L 43 22 10 22 45.5 0 3 0.0 2 3 66.7 1 1 2 2 0 0 1 0 -9
+p5
+aVYakhouba Diawara DEN 04/28/2008 DEN vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p6
+aVEduardo Najera DEN 04/28/2008 DEN vs. LAL L 16 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 3 -6
+p7
+aVMarcus Camby DEN 04/28/2008 DEN vs. LAL L 31 3 1 4 25.0 1 1 100.0 0 2 0.0 4 13 17 3 1 4 2 3 2
+p8
+aVJR Smith DEN 04/28/2008 DEN vs. LAL L 31 26 7 12 58.3 3 7 42.9 9 9 100.0 0 1 1 3 2 0 1 3 -1
+p9
+aVKenyon Martin DEN 04/28/2008 DEN vs. LAL L 33 8 4 7 57.1 0 0 - 0 0 - 2 4 6 1 1 0 4 6 0
+p10
+aVCarmelo Anthony DEN 04/28/2008 DEN vs. LAL L 38 21 8 20 40.0 0 2 0.0 5 7 71.4 4 7 11 3 0 0 3 6 -6
+p11
+aVAllen Iverson DEN 04/26/2008 DEN vs. LAL L 32 15 5 16 31.3 1 3 33.3 4 4 100.0 1 3 4 3 1 0 1 1 -17
+p12
+aVKenyon Martin DEN 04/26/2008 DEN vs. LAL L 29 12 6 11 54.5 0 0 - 0 2 0.0 4 3 7 3 0 0 2 4 -23
+p13
+aVJR Smith DEN 04/26/2008 DEN vs. LAL L 25 11 4 11 36.4 2 8 25.0 1 2 50.0 1 1 2 3 1 0 2 1 -4
+p14
+aVChucky Atkins DEN 04/26/2008 DEN vs. LAL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p15
+aVSteven Hunter DEN 04/26/2008 DEN vs. LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p16
+aVMarcus Camby DEN 04/26/2008 DEN vs. LAL L 28 0 0 2 0.0 0 0 - 0 0 - 1 11 12 4 1 2 2 1 -15
+p17
+aVNene DEN 04/26/2008 DEN vs. LAL L 12 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 -1
+p18
+aVEduardo Najera DEN 04/26/2008 DEN vs. LAL L 19 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 3 0 1 3 6 -6
+p19
+aVYakhouba Diawara DEN 04/26/2008 DEN vs. LAL L 5 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 6
+p20
+aVLinas Kleiza DEN 04/26/2008 DEN vs. LAL L 30 15 5 9 55.6 0 2 0.0 5 6 83.3 3 6 9 1 0 0 2 4 -14
+p21
+aVCarmelo Anthony DEN 04/26/2008 DEN vs. LAL L 39 16 5 22 22.7 1 1 100.0 5 5 100.0 5 5 10 1 0 0 3 2 -17
+p22
+aVAnthony Carter DEN 04/26/2008 DEN vs. LAL L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 3 0 1 1 3 -1
+p23
+aVNene DEN 04/23/2008 DEN @ LAL L 7 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -8
+p24
+aVCarmelo Anthony DEN 04/23/2008 DEN @ LAL L 32 23 8 20 40.0 1 4 25.0 6 7 85.7 3 2 5 1 0 0 3 5 -15
+p25
+aVJR Smith DEN 04/23/2008 DEN @ LAL L 29 21 6 12 50.0 2 6 33.3 7 8 87.5 0 1 1 1 0 0 1 2 -16
+p26
+aVEduardo Najera DEN 04/23/2008 DEN @ LAL L 22 2 1 2 50.0 0 1 0.0 0 0 - 3 3 6 1 1 0 1 3 -19
+p27
+aVYakhouba Diawara DEN 04/23/2008 DEN @ LAL L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p28
+aVAnthony Carter DEN 04/23/2008 DEN @ LAL L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p29
+aVMarcus Camby DEN 04/23/2008 DEN @ LAL L 35 6 2 6 33.3 0 0 - 2 2 100.0 4 13 17 2 1 4 2 3 -6
+p30
+aVKenyon Martin DEN 04/23/2008 DEN @ LAL L 26 10 4 9 44.4 0 0 - 2 2 100.0 2 2 4 1 2 1 2 6 4
+p31
+aVSteven Hunter DEN 04/23/2008 DEN @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p32
+aVLinas Kleiza DEN 04/23/2008 DEN @ LAL L 34 10 5 10 50.0 0 2 0.0 0 2 0.0 2 6 8 0 0 0 2 5 -5
+p33
+aVAllen Iverson DEN 04/23/2008 DEN @ LAL L 41 31 10 21 47.6 1 6 16.7 10 13 76.9 0 1 1 6 3 0 3 1 -14
+p34
+aVCarmelo Anthony DEN 04/20/2008 DEN @ LAL L 37 30 11 26 42.3 0 1 0.0 8 10 80.0 7 5 12 3 2 1 3 4 -16
+p35
+aVAnthony Carter DEN 04/20/2008 DEN @ LAL L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 5 0 0 1 2 -24
+p36
+aVLinas Kleiza DEN 04/20/2008 DEN @ LAL L 38 23 9 13 69.2 3 5 60.0 2 3 66.7 1 3 4 1 1 0 0 1 -1
+p37
+aVJR Smith DEN 04/20/2008 DEN @ LAL L 23 15 6 8 75.0 0 1 0.0 3 5 60.0 0 3 3 0 1 0 1 6 5
+p38
+aVKenyon Martin DEN 04/20/2008 DEN @ LAL L 30 5 1 7 14.3 0 0 - 3 4 75.0 5 3 8 0 1 1 1 4 -14
+p39
+aVMarcus Camby DEN 04/20/2008 DEN @ LAL L 30 4 2 9 22.2 0 0 - 0 2 0.0 2 5 7 3 1 2 4 3 -30
+p40
+aVEduardo Najera DEN 04/20/2008 DEN @ LAL L 22 3 1 5 20.0 1 2 50.0 0 0 - 2 3 5 1 1 0 0 3 18
+p41
+aVAllen Iverson DEN 04/20/2008 DEN @ LAL L 42 30 11 24 45.8 1 2 50.0 7 13 53.8 2 3 5 7 0 1 2 1 -8
+p42
+a.

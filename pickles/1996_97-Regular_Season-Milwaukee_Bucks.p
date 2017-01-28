@@ -1,0 +1,1646 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVin Baker MIL 04/20/1997 MIL vs. CHH W 36 31 13 13 100.0 0 0 - 5 9 55.6 2 6 8 3 0 0 1 1 23
+p2
+aVArmen Gilliam MIL 04/20/1997 MIL vs. CHH W 25 23 10 11 90.9 0 0 - 3 4 75.0 1 4 5 0 1 2 1 2 13
+p3
+aVJohnny Newman MIL 04/20/1997 MIL vs. CHH W 20 6 3 6 50.0 0 0 - 0 0 - 1 2 3 3 1 0 1 3 1
+p4
+aVGlenn Robinson MIL 04/20/1997 MIL vs. CHH W 31 10 5 16 31.3 0 0 - 0 0 - 2 6 8 1 3 1 1 3 28
+p5
+aVDavid Wood MIL 04/20/1997 MIL vs. CHH W 9 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 1 0 1 1 -11
+p6
+aVRay Allen MIL 04/20/1997 MIL vs. CHH W 36 21 7 13 53.8 3 6 50.0 4 5 80.0 1 2 3 6 2 1 6 3 22
+p7
+aVAndrew Lang MIL 04/20/1997 MIL vs. CHH W 16 6 3 6 50.0 0 0 - 0 0 - 3 4 7 3 0 0 0 4 12
+p8
+aVSherman Douglas MIL 04/20/1997 MIL vs. CHH W 28 6 3 7 42.9 0 1 0.0 0 0 - 2 2 4 10 2 0 2 1 26
+p9
+aVElliot Perry MIL 04/20/1997 MIL vs. CHH W 20 9 4 6 66.7 0 0 - 1 2 50.0 0 1 1 3 0 0 0 0 -6
+p10
+aVAcie Earl MIL 04/20/1997 MIL vs. CHH W 7 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p11
+aVJoe Wolf MIL 04/20/1997 MIL vs. CHH W 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -3
+p12
+aVSherman Douglas MIL 04/18/1997 MIL @ MIN L 27 14 5 6 83.3 1 1 100.0 3 4 75.0 0 0 0 5 1 0 1 2 -21
+p13
+aVJoe Wolf MIL 04/18/1997 MIL @ MIN L 15 5 1 4 25.0 1 2 50.0 2 2 100.0 0 2 2 1 3 0 0 5 7
+p14
+aVAcie Earl MIL 04/18/1997 MIL @ MIN L 5 2 0 2 0.0 0 0 - 2 4 50.0 0 0 0 1 0 0 0 0 5
+p15
+aVJohnny Newman MIL 04/18/1997 MIL @ MIN L 24 10 3 5 60.0 0 0 - 4 4 100.0 0 3 3 1 2 0 1 1 3
+p16
+aVElliot Perry MIL 04/18/1997 MIL @ MIN L 21 9 3 7 42.9 1 3 33.3 2 2 100.0 1 0 1 4 4 0 3 1 11
+p17
+aVAndrew Lang MIL 04/18/1997 MIL @ MIN L 18 0 0 2 0.0 0 0 - 0 0 - 2 5 7 1 0 0 1 3 -13
+p18
+aVArmen Gilliam MIL 04/18/1997 MIL @ MIN L 25 10 2 2 100.0 0 0 - 6 7 85.7 2 4 6 1 0 5 2 1 -2
+p19
+aVDavid Wood MIL 04/18/1997 MIL @ MIN L 5 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p20
+aVVin Baker MIL 04/18/1997 MIL @ MIN L 29 16 6 12 50.0 0 1 0.0 4 5 80.0 1 3 4 1 0 1 3 3 -21
+p21
+aVGlenn Robinson MIL 04/18/1997 MIL @ MIN L 30 13 6 14 42.9 0 3 0.0 1 3 33.3 0 3 3 2 0 0 2 2 -20
+p22
+aVRay Allen MIL 04/18/1997 MIL @ MIN L 40 29 10 16 62.5 2 3 66.7 7 8 87.5 3 5 8 4 0 0 2 4 -4
+p23
+aVGlenn Robinson MIL 04/16/1997 MIL @ DET L 45 25 12 19 63.2 1 1 100.0 0 1 0.0 1 7 8 1 1 0 2 4 -5
+p24
+aVArmen Gilliam MIL 04/16/1997 MIL @ DET L 29 6 1 4 25.0 0 0 - 4 6 66.7 0 3 3 0 1 1 1 4 1
+p25
+aVVin Baker MIL 04/16/1997 MIL @ DET L 38 4 1 11 9.1 0 0 - 2 2 100.0 3 6 9 4 2 1 2 5 -4
+p26
+aVSherman Douglas MIL 04/16/1997 MIL @ DET L 35 19 7 12 58.3 2 5 40.0 3 4 75.0 0 0 0 5 1 1 2 2 -4
+p27
+aVChucky Brown MIL 04/16/1997 MIL @ DET L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -5
+p28
+aVAndrew Lang MIL 04/16/1997 MIL @ DET L 11 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -5
+p29
+aVRay Allen MIL 04/16/1997 MIL @ DET L 39 21 6 12 50.0 4 4 100.0 5 6 83.3 1 2 3 2 1 0 2 4 -6
+p30
+aVJohnny Newman MIL 04/16/1997 MIL @ DET L 17 3 1 5 20.0 0 1 0.0 1 2 50.0 0 1 1 2 0 0 5 1 -4
+p31
+aVElliot Perry MIL 04/16/1997 MIL @ DET L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 2 1 -3
+p32
+aVVin Baker MIL 04/15/1997 MIL vs. TOR W 44 17 8 12 66.7 0 0 - 1 4 25.0 2 4 6 5 0 0 2 3 5
+p33
+aVGlenn Robinson MIL 04/15/1997 MIL vs. TOR W 42 19 7 15 46.7 2 5 40.0 3 5 60.0 0 5 5 4 0 2 5 2 7
+p34
+aVArmen Gilliam MIL 04/15/1997 MIL vs. TOR W 30 17 8 10 80.0 0 0 - 1 2 50.0 2 4 6 0 0 4 1 4 10
+p35
+aVAndrew Lang MIL 04/15/1997 MIL vs. TOR W 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p36
+aVChucky Brown MIL 04/15/1997 MIL vs. TOR W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 2
+p37
+aVJohnny Newman MIL 04/15/1997 MIL vs. TOR W 25 8 3 9 33.3 0 0 - 2 2 100.0 0 2 2 3 1 0 0 3 7
+p38
+aVSherman Douglas MIL 04/15/1997 MIL vs. TOR W 40 9 3 7 42.9 0 1 0.0 3 4 75.0 0 4 4 8 2 0 4 3 9
+p39
+aVRay Allen MIL 04/15/1997 MIL vs. TOR W 33 14 4 7 57.1 2 3 66.7 4 4 100.0 1 7 8 4 0 0 2 1 0
+p40
+aVJoe Wolf MIL 04/15/1997 MIL vs. TOR W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 0
+p41
+aVElliot Perry MIL 04/15/1997 MIL vs. TOR W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -2
+p42
+aVJoe Wolf MIL 04/13/1997 MIL vs. NJN W 7 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 1
+p43
+aVChucky Brown MIL 04/13/1997 MIL vs. NJN W 17 13 5 6 83.3 0 0 - 3 6 50.0 1 2 3 2 0 0 1 1 6
+p44
+aVDavid Wood MIL 04/13/1997 MIL vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p45
+aVGlenn Robinson MIL 04/13/1997 MIL vs. NJN W 33 25 10 20 50.0 2 4 50.0 3 4 75.0 1 0 1 4 1 3 1 3 0
+p46
+aVVin Baker MIL 04/13/1997 MIL vs. NJN W 35 15 4 7 57.1 0 0 - 7 8 87.5 2 4 6 3 1 1 1 4 12
+p47
+aVRay Allen MIL 04/13/1997 MIL vs. NJN W 31 18 4 8 50.0 1 4 25.0 9 9 100.0 1 2 3 4 2 0 0 1 1
+p48
+aVAndrew Lang MIL 04/13/1997 MIL vs. NJN W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -9
+p49
+aVElliot Perry MIL 04/13/1997 MIL vs. NJN W 24 10 4 6 66.7 2 4 50.0 0 2 0.0 0 3 3 4 1 0 1 4 7
+p50
+aVJohnny Newman MIL 04/13/1997 MIL vs. NJN W 29 20 8 9 88.9 0 0 - 4 5 80.0 1 1 2 3 3 1 1 5 28
+p51
+aVArmen Gilliam MIL 04/13/1997 MIL vs. NJN W 24 11 5 10 50.0 0 0 - 1 2 50.0 3 2 5 3 1 1 1 3 21
+p52
+aVSherman Douglas MIL 04/13/1997 MIL vs. NJN W 24 10 5 7 71.4 0 1 0.0 0 0 - 0 0 0 6 1 1 1 3 2
+p53
+aVAcie Earl MIL 04/13/1997 MIL vs. NJN W 3 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 2 -11
+p54
+aVArmen Gilliam MIL 04/11/1997 MIL vs. PHI W 7 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 -2
+p55
+aVAndrew Lang MIL 04/11/1997 MIL vs. PHI W 10 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -10
+p56
+aVChucky Brown MIL 04/11/1997 MIL vs. PHI W 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 4 -5
+p57
+aVSherman Douglas MIL 04/11/1997 MIL vs. PHI W 32 17 7 12 58.3 0 0 - 3 4 75.0 1 0 1 6 1 0 1 3 -1
+p58
+aVGlenn Robinson MIL 04/11/1997 MIL vs. PHI W 37 40 14 22 63.6 3 4 75.0 9 11 81.8 2 5 7 2 3 2 3 2 1
+p59
+aVJoe Wolf MIL 04/11/1997 MIL vs. PHI W 20 2 1 3 33.3 0 0 - 0 0 - 2 1 3 4 1 1 0 4 15
+p60
+aVJohnny Newman MIL 04/11/1997 MIL vs. PHI W 31 10 3 10 30.0 0 0 - 4 4 100.0 1 3 4 3 2 0 3 5 17
+p61
+aVRay Allen MIL 04/11/1997 MIL vs. PHI W 35 27 11 18 61.1 3 4 75.0 2 4 50.0 1 6 7 0 1 0 1 5 8
+p62
+aVVin Baker MIL 04/11/1997 MIL vs. PHI W 36 13 4 9 44.4 0 0 - 5 6 83.3 6 5 11 5 1 3 3 3 8
+p63
+aVElliot Perry MIL 04/11/1997 MIL vs. PHI W 16 11 4 9 44.4 1 2 50.0 2 2 100.0 0 0 0 2 0 0 2 3 9
+p64
+aVVin Baker MIL 04/10/1997 MIL @ NJN L 44 24 11 23 47.8 0 0 - 2 5 40.0 7 8 15 4 1 3 8 4 -6
+p65
+aVJoe Wolf MIL 04/10/1997 MIL @ NJN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p66
+aVJohnny Newman MIL 04/10/1997 MIL @ NJN L 24 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -2
+p67
+aVAndrew Lang MIL 04/10/1997 MIL @ NJN L 18 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 4 0 3 -1
+p68
+aVArmen Gilliam MIL 04/10/1997 MIL @ NJN L 18 2 0 7 0.0 0 0 - 2 2 100.0 1 2 3 1 1 0 0 1 4
+p69
+aVRay Allen MIL 04/10/1997 MIL @ NJN L 39 17 7 17 41.2 3 7 42.9 0 0 - 1 5 6 4 0 0 0 2 -7
+p70
+aVSherman Douglas MIL 04/10/1997 MIL @ NJN L 41 21 7 9 77.8 2 3 66.7 5 6 83.3 0 4 4 8 2 0 5 3 -6
+p71
+aVChucky Brown MIL 04/10/1997 MIL @ NJN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p72
+aVGlenn Robinson MIL 04/10/1997 MIL @ NJN L 40 14 6 17 35.3 2 4 50.0 0 0 - 1 6 7 2 2 1 4 1 -2
+p73
+aVElliot Perry MIL 04/10/1997 MIL @ NJN L 7 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 2 0 0 0 1
+p74
+aVGlenn Robinson MIL 04/08/1997 MIL vs. ORL L 43 22 8 20 40.0 1 2 50.0 5 5 100.0 1 7 8 2 0 0 3 2 -6
+p75
+aVAndrew Lang MIL 04/08/1997 MIL vs. ORL L 13 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -1
+p76
+aVDavid Wood MIL 04/08/1997 MIL vs. ORL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p77
+aVRay Allen MIL 04/08/1997 MIL vs. ORL L 29 12 5 9 55.6 0 2 0.0 2 2 100.0 2 1 3 3 0 0 1 3 -18
+p78
+aVJoe Wolf MIL 04/08/1997 MIL vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p79
+aVArmen Gilliam MIL 04/08/1997 MIL vs. ORL L 24 6 2 5 40.0 0 0 - 2 4 50.0 2 3 5 1 0 0 2 4 -10
+p80
+aVJohnny Newman MIL 04/08/1997 MIL vs. ORL L 28 6 2 5 40.0 0 1 0.0 2 4 50.0 1 1 2 1 0 0 2 5 -7
+p81
+aVSherman Douglas MIL 04/08/1997 MIL vs. ORL L 40 8 2 9 22.2 0 2 0.0 4 4 100.0 0 4 4 4 2 0 4 5 -8
+p82
+aVElliot Perry MIL 04/08/1997 MIL vs. ORL L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 3 -7
+p83
+aVVin Baker MIL 04/08/1997 MIL vs. ORL L 43 19 9 15 60.0 0 0 - 1 1 100.0 7 10 17 1 0 1 1 2 -13
+p84
+aVChucky Brown MIL 04/08/1997 MIL vs. ORL L 10 7 3 4 75.0 0 0 - 1 3 33.3 0 2 2 0 0 1 1 1 -5
+p85
+aVJohnny Newman MIL 04/04/1997 MIL @ POR L 22 10 2 6 33.3 1 3 33.3 5 6 83.3 0 0 0 2 0 0 0 5 -8
+p86
+aVJoe Wolf MIL 04/04/1997 MIL @ POR L 15 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 1 0 1 4 3
+p87
+aVRay Allen MIL 04/04/1997 MIL @ POR L 25 10 5 11 45.5 0 1 0.0 0 0 - 1 5 6 1 0 0 2 2 -7
+p88
+aVChucky Brown MIL 04/04/1997 MIL @ POR L 15 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 3
+p89
+aVElliot Perry MIL 04/04/1997 MIL @ POR L 25 6 3 4 75.0 0 0 - 0 0 - 0 1 1 6 4 0 2 0 -10
+p90
+aVAndrew Lang MIL 04/04/1997 MIL @ POR L 28 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 0 2 1 1 1 -13
+p91
+aVVin Baker MIL 04/04/1997 MIL @ POR L 30 16 4 12 33.3 0 1 0.0 8 10 80.0 2 4 6 1 0 0 2 2 -18
+p92
+aVAcie Earl MIL 04/04/1997 MIL @ POR L 3 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p93
+aVDavid Wood MIL 04/04/1997 MIL @ POR L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p94
+aVGlenn Robinson MIL 04/04/1997 MIL @ POR L 31 19 7 14 50.0 0 2 0.0 5 5 100.0 0 1 1 0 1 0 4 3 -20
+p95
+aVSherman Douglas MIL 04/04/1997 MIL @ POR L 23 6 3 7 42.9 0 2 0.0 0 1 0.0 1 1 2 5 1 0 1 2 -5
+p96
+aVArmen Gilliam MIL 04/04/1997 MIL @ POR L 21 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 0 2 1 2 2 -4
+p97
+aVGlenn Robinson MIL 04/03/1997 MIL @ SEA L 31 15 7 17 41.2 1 2 50.0 0 0 - 1 2 3 4 1 2 5 1 -19
+p98
+aVChucky Brown MIL 04/03/1997 MIL @ SEA L 28 13 4 9 44.4 0 0 - 5 6 83.3 4 3 7 2 0 1 1 2 -7
+p99
+aVAcie Earl MIL 04/03/1997 MIL @ SEA L 3 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -6
+p100
+aVSherman Douglas MIL 04/03/1997 MIL @ SEA L 20 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 2 3 -25
+p101
+aVAndrew Lang MIL 04/03/1997 MIL @ SEA L 13 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 1 1 0 2 -10
+p102
+aVRay Allen MIL 04/03/1997 MIL @ SEA L 31 6 2 8 25.0 0 2 0.0 2 2 100.0 3 4 7 2 0 0 1 3 -33
+p103
+aVArmen Gilliam MIL 04/03/1997 MIL @ SEA L 15 2 1 3 33.3 0 0 - 0 0 - 2 3 5 3 2 0 0 0 14
+p104
+aVDavid Wood MIL 04/03/1997 MIL @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p105
+aVJohnny Newman MIL 04/03/1997 MIL @ SEA L 30 13 3 13 23.1 1 3 33.3 6 8 75.0 3 2 5 0 2 1 4 3 -3
+p106
+aVJoe Wolf MIL 04/03/1997 MIL @ SEA L 10 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 1 5
+p107
+aVVin Baker MIL 04/03/1997 MIL @ SEA L 31 12 5 12 41.7 0 0 - 2 5 40.0 2 6 8 3 1 3 6 2 -27
+p108
+aVElliot Perry MIL 04/03/1997 MIL @ SEA L 27 11 5 8 62.5 0 3 0.0 1 2 50.0 2 3 5 3 1 0 2 1 4
+p109
+aVSherman Douglas MIL 04/01/1997 MIL @ VAN W 44 21 8 13 61.5 2 2 100.0 3 4 75.0 1 2 3 9 2 0 1 1 15
+p110
+aVChucky Brown MIL 04/01/1997 MIL @ VAN W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 2 0
+p111
+aVRay Allen MIL 04/01/1997 MIL @ VAN W 29 13 5 7 71.4 0 0 - 3 4 75.0 0 3 3 1 0 0 2 2 6
+p112
+aVJohnny Newman MIL 04/01/1997 MIL @ VAN W 21 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 3 1 0 1 0 2
+p113
+aVArmen Gilliam MIL 04/01/1997 MIL @ VAN W 14 8 2 4 50.0 0 0 - 4 4 100.0 0 0 0 0 0 0 0 2 1
+p114
+aVElliot Perry MIL 04/01/1997 MIL @ VAN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p115
+aVVin Baker MIL 04/01/1997 MIL @ VAN W 44 18 6 9 66.7 0 0 - 6 7 85.7 2 6 8 4 3 0 2 4 12
+p116
+aVGlenn Robinson MIL 04/01/1997 MIL @ VAN W 41 25 9 17 52.9 1 1 100.0 6 7 85.7 1 5 6 1 0 1 4 6 12
+p117
+aVAndrew Lang MIL 04/01/1997 MIL @ VAN W 32 12 3 8 37.5 0 0 - 6 8 75.0 4 5 9 3 0 1 1 1 11
+p118
+aVAndrew Lang MIL 03/30/1997 MIL @ DEN L 28 7 3 5 60.0 0 0 - 1 2 50.0 5 5 10 2 1 1 1 5 15
+p119
+aVVin Baker MIL 03/30/1997 MIL @ DEN L 38 25 9 25 36.0 0 1 0.0 7 11 63.6 5 9 14 1 2 3 2 4 -3
+p120
+aVChucky Brown MIL 03/30/1997 MIL @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -1
+p121
+aVRay Allen MIL 03/30/1997 MIL @ DEN L 28 5 2 11 18.2 0 2 0.0 1 1 100.0 0 5 5 3 0 0 0 2 2
+p122
+aVSherman Douglas MIL 03/30/1997 MIL @ DEN L 25 16 4 6 66.7 0 0 - 8 8 100.0 0 1 1 3 1 0 1 2 -15
+p123
+aVJoe Wolf MIL 03/30/1997 MIL @ DEN L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p124
+aVJohnny Newman MIL 03/30/1997 MIL @ DEN L 34 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 4 0 2 2 2 3
+p125
+aVArmen Gilliam MIL 03/30/1997 MIL @ DEN L 16 1 0 1 0.0 0 0 - 1 2 50.0 0 6 6 1 0 0 1 3 -14
+p126
+aVGlenn Robinson MIL 03/30/1997 MIL @ DEN L 39 30 13 31 41.9 1 2 50.0 3 4 75.0 3 2 5 1 3 4 4 2 -2
+p127
+aVElliot Perry MIL 03/30/1997 MIL @ DEN L 23 7 2 5 40.0 2 2 100.0 1 2 50.0 1 2 3 7 1 0 1 2 13
+p128
+aVSherman Douglas MIL 03/28/1997 MIL @ UTA L 32 26 9 13 69.2 3 4 75.0 5 6 83.3 1 1 2 3 1 0 5 4 -9
+p129
+aVArmen Gilliam MIL 03/28/1997 MIL @ UTA L 36 6 2 4 50.0 0 0 - 2 2 100.0 1 7 8 2 0 0 2 3 4
+p130
+aVJimmy Carruth MIL 03/28/1997 MIL @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p131
+aVJohnny Newman MIL 03/28/1997 MIL @ UTA L 32 7 2 7 28.6 0 2 0.0 3 4 75.0 0 2 2 1 1 0 2 6 8
+p132
+aVElliot Perry MIL 03/28/1997 MIL @ UTA L 16 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 4 0 0 0 1 4
+p133
+aVChucky Brown MIL 03/28/1997 MIL @ UTA L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 6
+p134
+aVGlenn Robinson MIL 03/28/1997 MIL @ UTA L 42 25 10 18 55.6 0 1 0.0 5 6 83.3 1 9 10 4 0 0 4 6 -5
+p135
+aVJoe Wolf MIL 03/28/1997 MIL @ UTA L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p136
+aVVin Baker MIL 03/28/1997 MIL @ UTA L 44 20 9 14 64.3 0 1 0.0 2 4 50.0 1 5 6 1 2 1 2 3 -7
+p137
+aVRay Allen MIL 03/28/1997 MIL @ UTA L 20 12 5 9 55.6 1 3 33.3 1 1 100.0 0 1 1 1 0 0 3 5 -15
+p138
+aVDavid Wood MIL 03/28/1997 MIL @ UTA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p139
+aVJohnny Newman MIL 03/26/1997 MIL @ LAL L 21 10 3 7 42.9 0 2 0.0 4 4 100.0 1 0 1 0 0 0 2 4 -11
+p140
+aVElliot Perry MIL 03/26/1997 MIL @ LAL L 24 9 3 4 75.0 2 2 100.0 1 2 50.0 2 2 4 6 0 0 1 2 -13
+p141
+aVJimmy Carruth MIL 03/26/1997 MIL @ LAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -1
+p142
+aVJoe Wolf MIL 03/26/1997 MIL @ LAL L 21 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 1 0 1 4 -7
+p143
+aVVin Baker MIL 03/26/1997 MIL @ LAL L 39 21 10 18 55.6 1 2 50.0 0 2 0.0 4 8 12 3 0 2 5 4 -23
+p144
+aVChucky Brown MIL 03/26/1997 MIL @ LAL L 27 7 2 3 66.7 0 0 - 3 6 50.0 1 6 7 4 0 0 1 3 -15
+p145
+aVAcie Earl MIL 03/26/1997 MIL @ LAL L 2 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p146
+aVSherman Douglas MIL 03/26/1997 MIL @ LAL L 24 6 3 8 37.5 0 0 - 0 0 - 0 2 2 3 0 0 2 2 -9
+p147
+aVGlenn Robinson MIL 03/26/1997 MIL @ LAL L 38 15 4 19 21.1 1 4 25.0 6 8 75.0 5 3 8 5 1 0 7 3 -18
+p148
+aVDavid Wood MIL 03/26/1997 MIL @ LAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p149
+aVRay Allen MIL 03/26/1997 MIL @ LAL L 31 6 3 13 23.1 0 2 0.0 0 0 - 1 2 3 1 1 0 2 1 -12
+p150
+aVElliot Perry MIL 03/25/1997 MIL @ PHX L 17 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 1 0 0 2 4
+p151
+aVSherman Douglas MIL 03/25/1997 MIL @ PHX L 34 9 3 8 37.5 1 2 50.0 2 2 100.0 2 2 4 15 2 0 1 4 -12
+p152
+aVVin Baker MIL 03/25/1997 MIL @ PHX L 48 23 10 22 45.5 1 1 100.0 2 6 33.3 3 12 15 5 0 0 4 1 -5
+p153
+aVDavid Wood MIL 03/25/1997 MIL @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p154
+aVGlenn Robinson MIL 03/25/1997 MIL @ PHX L 37 25 12 25 48.0 0 4 0.0 1 1 100.0 3 6 9 7 0 0 2 5 0
+p155
+aVJoe Wolf MIL 03/25/1997 MIL @ PHX L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 4 -5
+p156
+aVRay Allen MIL 03/25/1997 MIL @ PHX L 43 32 14 24 58.3 3 9 33.3 1 1 100.0 1 4 5 1 2 0 2 3 -2
+p157
+aVJohnny Newman MIL 03/25/1997 MIL @ PHX L 30 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 1 4 3
+p158
+aVChucky Brown MIL 03/25/1997 MIL @ PHX L 21 9 3 4 75.0 1 1 100.0 2 4 50.0 3 4 7 1 1 1 1 6 -5
+p159
+aVRay Allen MIL 03/22/1997 MIL vs. NYK W 26 7 2 8 25.0 1 4 25.0 2 2 100.0 0 2 2 0 1 0 1 2 6
+p160
+aVJohnny Newman MIL 03/22/1997 MIL vs. NYK W 24 8 3 5 60.0 1 2 50.0 1 1 100.0 0 1 1 2 0 0 2 1 -3
+p161
+aVGlenn Robinson MIL 03/22/1997 MIL vs. NYK W 40 16 6 18 33.3 0 2 0.0 4 4 100.0 1 2 3 4 2 0 3 4 -7
+p162
+aVSherman Douglas MIL 03/22/1997 MIL vs. NYK W 38 10 5 10 50.0 0 1 0.0 0 0 - 0 3 3 8 1 0 3 4 0
+p163
+aVJoe Wolf MIL 03/22/1997 MIL vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p164
+aVVin Baker MIL 03/22/1997 MIL vs. NYK W 34 16 7 15 46.7 0 0 - 2 2 100.0 2 10 12 2 1 0 0 5 6
+p165
+aVArmen Gilliam MIL 03/22/1997 MIL vs. NYK W 44 20 10 16 62.5 0 0 - 0 0 - 5 3 8 1 2 0 3 5 -5
+p166
+aVChucky Brown MIL 03/22/1997 MIL vs. NYK W 21 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 1 6
+p167
+aVElliot Perry MIL 03/22/1997 MIL vs. NYK W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 2 0 1 1 1
+p168
+aVSherman Douglas MIL 03/20/1997 MIL vs. POR L 19 2 1 4 25.0 0 0 - 0 0 - 1 1 2 4 0 0 3 1 -23
+p169
+aVJimmy Carruth MIL 03/20/1997 MIL vs. POR L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -3
+p170
+aVAcie Earl MIL 03/20/1997 MIL vs. POR L 8 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 1 1 1 0 6
+p171
+aVGlenn Robinson MIL 03/20/1997 MIL vs. POR L 32 16 7 15 46.7 0 0 - 2 4 50.0 1 4 5 0 1 1 3 1 -19
+p172
+aVVin Baker MIL 03/20/1997 MIL vs. POR L 38 26 8 19 42.1 1 2 50.0 9 10 90.0 6 4 10 2 2 0 3 2 -25
+p173
+aVJoe Wolf MIL 03/20/1997 MIL vs. POR L 16 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 0 0 2 0 5 -5
+p174
+aVElliot Perry MIL 03/20/1997 MIL vs. POR L 29 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 4 2 1 0 2 4
+p175
+aVJohnny Newman MIL 03/20/1997 MIL vs. POR L 25 6 2 7 28.6 1 2 50.0 1 2 50.0 2 2 4 1 1 0 1 3 8
+p176
+aVArmen Gilliam MIL 03/20/1997 MIL vs. POR L 23 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 1 1 0 0 0 -11
+p177
+aVRay Allen MIL 03/20/1997 MIL vs. POR L 32 7 2 13 15.4 1 5 20.0 2 2 100.0 0 4 4 2 1 0 2 1 -22
+p178
+aVChucky Brown MIL 03/20/1997 MIL vs. POR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p179
+aVDavid Wood MIL 03/20/1997 MIL vs. POR L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 0 2
+p180
+aVSherman Douglas MIL 03/17/1997 MIL @ BOS L 35 7 3 9 33.3 0 0 - 1 2 50.0 3 1 4 9 1 0 1 2 -9
+p181
+aVJimmy Carruth MIL 03/17/1997 MIL @ BOS L 1 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 1
+p182
+aVDavid Wood MIL 03/17/1997 MIL @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p183
+aVGlenn Robinson MIL 03/17/1997 MIL @ BOS L 37 28 11 18 61.1 2 2 100.0 4 6 66.7 1 0 1 5 3 1 3 6 -8
+p184
+aVJohnny Newman MIL 03/17/1997 MIL @ BOS L 22 8 2 5 40.0 0 1 0.0 4 9 44.4 1 3 4 1 1 0 1 3 -5
+p185
+aVArmen Gilliam MIL 03/17/1997 MIL @ BOS L 29 16 8 13 61.5 0 0 - 0 0 - 2 5 7 1 0 0 0 2 -1
+p186
+aVJoe Wolf MIL 03/17/1997 MIL @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 5
+p187
+aVRay Allen MIL 03/17/1997 MIL @ BOS L 34 21 7 14 50.0 2 5 40.0 5 6 83.3 0 3 3 1 0 0 2 4 -4
+p188
+aVElliot Perry MIL 03/17/1997 MIL @ BOS L 13 4 1 3 33.3 0 2 0.0 2 2 100.0 0 3 3 1 0 0 2 0 0
+p189
+aVChucky Brown MIL 03/17/1997 MIL @ BOS L 21 5 1 1 100.0 0 0 - 3 4 75.0 1 5 6 3 0 0 1 5 -19
+p190
+aVVin Baker MIL 03/17/1997 MIL @ BOS L 40 25 8 13 61.5 0 0 - 9 10 90.0 1 3 4 2 0 2 4 6 -4
+p191
+aVRay Allen MIL 03/16/1997 MIL vs. IND W 10 9 2 3 66.7 0 0 - 5 5 100.0 0 0 0 0 0 0 1 5 -5
+p192
+aVChucky Brown MIL 03/16/1997 MIL vs. IND W 14 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 1 2 0
+p193
+aVGlenn Robinson MIL 03/16/1997 MIL vs. IND W 42 30 9 14 64.3 0 1 0.0 12 14 85.7 2 6 8 6 1 3 3 2 8
+p194
+aVArmen Gilliam MIL 03/16/1997 MIL vs. IND W 36 18 8 12 66.7 0 0 - 2 5 40.0 3 4 7 1 1 0 1 4 7
+p195
+aVJoe Wolf MIL 03/16/1997 MIL vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p196
+aVElliot Perry MIL 03/16/1997 MIL vs. IND W 14 4 1 3 33.3 1 2 50.0 1 2 50.0 1 4 5 2 1 0 3 2 -1
+p197
+aVJohnny Newman MIL 03/16/1997 MIL vs. IND W 41 14 5 12 41.7 1 3 33.3 3 4 75.0 4 1 5 1 0 1 3 6 2
+p198
+aVVin Baker MIL 03/16/1997 MIL vs. IND W 46 18 9 15 60.0 0 0 - 0 0 - 2 5 7 3 5 1 3 0 5
+p199
+aVSherman Douglas MIL 03/16/1997 MIL vs. IND W 34 7 2 9 22.2 0 1 0.0 3 4 75.0 0 1 1 10 1 0 2 3 5
+p200
+aVSherman Douglas MIL 03/14/1997 MIL vs. WAS L 22 9 4 7 57.1 1 2 50.0 0 0 - 1 0 1 3 0 0 0 1 -12
+p201
+aVElliot Perry MIL 03/14/1997 MIL vs. WAS L 26 8 3 7 42.9 2 5 40.0 0 0 - 1 2 3 3 4 0 3 3 3
+p202
+aVJohnny Newman MIL 03/14/1997 MIL vs. WAS L 24 12 5 7 71.4 0 0 - 2 3 66.7 0 1 1 6 0 0 1 5 -2
+p203
+aVGlenn Robinson MIL 03/14/1997 MIL vs. WAS L 43 22 9 19 47.4 1 1 100.0 3 4 75.0 4 3 7 5 5 0 3 3 -10
+p204
+aVVin Baker MIL 03/14/1997 MIL vs. WAS L 42 21 9 16 56.3 0 0 - 3 7 42.9 3 4 7 2 1 0 8 5 -8
+p205
+aVJoe Wolf MIL 03/14/1997 MIL vs. WAS L 18 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 1 0 0 0 3 7
+p206
+aVChucky Brown MIL 03/14/1997 MIL vs. WAS L 20 4 1 4 25.0 0 1 0.0 2 2 100.0 0 3 3 1 0 1 0 2 0
+p207
+aVRay Allen MIL 03/14/1997 MIL vs. WAS L 29 16 5 15 33.3 3 7 42.9 3 4 75.0 1 3 4 1 1 1 1 2 -10
+p208
+aVArmen Gilliam MIL 03/14/1997 MIL vs. WAS L 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 4 -13
+p209
+aVArmen Gilliam MIL 03/11/1997 MIL vs. MIA L 20 5 1 2 50.0 0 0 - 3 4 75.0 0 4 4 0 3 0 2 1 -4
+p210
+aVGlenn Robinson MIL 03/11/1997 MIL vs. MIA L 29 10 5 12 41.7 0 1 0.0 0 0 - 1 3 4 2 1 0 5 3 -13
+p211
+aVVin Baker MIL 03/11/1997 MIL vs. MIA L 44 27 12 17 70.6 1 1 100.0 2 4 50.0 4 6 10 3 1 1 1 0 -10
+p212
+aVSherman Douglas MIL 03/11/1997 MIL vs. MIA L 29 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 5 0 0 3 3 -7
+p213
+aVElliot Perry MIL 03/11/1997 MIL vs. MIA L 19 7 3 6 50.0 1 2 50.0 0 0 - 1 2 3 2 0 0 0 2 -8
+p214
+aVJohnny Newman MIL 03/11/1997 MIL vs. MIA L 27 4 1 5 20.0 0 1 0.0 2 4 50.0 1 0 1 1 2 1 1 5 -10
+p215
+aVChucky Brown MIL 03/11/1997 MIL vs. MIA L 21 6 2 4 50.0 0 0 - 2 2 100.0 3 4 7 0 0 0 1 2 -14
+p216
+aVJoe Wolf MIL 03/11/1997 MIL vs. MIA L 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 1 1 3 -2
+p217
+aVRay Allen MIL 03/11/1997 MIL vs. MIA L 40 26 8 20 40.0 3 8 37.5 7 7 100.0 2 3 5 5 0 0 4 2 -7
+p218
+aVDavid Wood MIL 03/08/1997 MIL @ CLE W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p219
+aVVin Baker MIL 03/08/1997 MIL @ CLE W 47 25 10 14 71.4 0 0 - 5 6 83.3 4 11 15 2 2 2 0 2 11
+p220
+aVChucky Brown MIL 03/08/1997 MIL @ CLE W 28 10 4 7 57.1 0 0 - 2 2 100.0 1 3 4 1 1 0 0 4 14
+p221
+aVJohnny Newman MIL 03/08/1997 MIL @ CLE W 28 11 2 6 33.3 0 0 - 7 8 87.5 0 0 0 0 1 0 4 2 12
+p222
+aVSherman Douglas MIL 03/08/1997 MIL @ CLE W 29 12 4 5 80.0 1 2 50.0 3 4 75.0 0 2 2 7 0 0 3 0 -5
+p223
+aVArmen Gilliam MIL 03/08/1997 MIL @ CLE W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 3 2 -12
+p224
+aVRay Allen MIL 03/08/1997 MIL @ CLE W 26 5 2 8 25.0 1 2 50.0 0 0 - 0 2 2 3 0 1 2 3 0
+p225
+aVElliot Perry MIL 03/08/1997 MIL @ CLE W 19 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 4 2 0 0 1 14
+p226
+aVJoe Wolf MIL 03/08/1997 MIL @ CLE W 7 0 0 0 - 0 0 - 0 0 - 2 1 3 1 0 0 0 0 2
+p227
+aVGlenn Robinson MIL 03/08/1997 MIL @ CLE W 41 20 8 18 44.4 0 3 0.0 4 5 80.0 1 8 9 2 1 2 6 4 6
+p228
+aVGlenn Robinson MIL 03/07/1997 MIL @ ATL L 42 26 11 22 50.0 3 3 100.0 1 1 100.0 2 5 7 3 0 1 3 2 -7
+p229
+aVJoe Wolf MIL 03/07/1997 MIL @ ATL L 14 0 0 1 0.0 0 0 - 0 0 - 0 8 8 0 0 1 0 2 -5
+p230
+aVVin Baker MIL 03/07/1997 MIL @ ATL L 42 11 5 15 33.3 0 0 - 1 1 100.0 5 9 14 2 1 0 7 4 -12
+p231
+aVRay Allen MIL 03/07/1997 MIL @ ATL L 33 19 7 17 41.2 2 5 40.0 3 4 75.0 4 2 6 3 1 0 1 5 -17
+p232
+aVJohnny Newman MIL 03/07/1997 MIL @ ATL L 26 9 4 6 66.7 0 1 0.0 1 2 50.0 1 2 3 0 1 0 0 4 1
+p233
+aVArmen Gilliam MIL 03/07/1997 MIL @ ATL L 34 10 3 8 37.5 0 0 - 4 4 100.0 0 5 5 0 1 0 0 4 0
+p234
+aVSherman Douglas MIL 03/07/1997 MIL @ ATL L 26 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 4 0 0 4 2 -3
+p235
+aVElliot Perry MIL 03/07/1997 MIL @ ATL L 22 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 2 0 3 3 -7
+p236
+aVVin Baker MIL 03/04/1997 MIL @ NYK L 47 25 10 17 58.8 1 3 33.3 4 8 50.0 5 10 15 2 2 0 2 5 -6
+p237
+aVJohnny Newman MIL 03/04/1997 MIL @ NYK L 11 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 5 -8
+p238
+aVChucky Brown MIL 03/04/1997 MIL @ NYK L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p239
+aVJoe Wolf MIL 03/04/1997 MIL @ NYK L 25 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 1 0 2 3 -9
+p240
+aVGlenn Robinson MIL 03/04/1997 MIL @ NYK L 43 19 8 23 34.8 1 2 50.0 2 2 100.0 1 3 4 0 3 1 6 2 -6
+p241
+aVSherman Douglas MIL 03/04/1997 MIL @ NYK L 28 8 3 5 60.0 0 1 0.0 2 2 100.0 0 0 0 5 1 0 1 2 2
+p242
+aVRay Allen MIL 03/04/1997 MIL @ NYK L 40 17 6 13 46.2 3 5 60.0 2 2 100.0 2 1 3 1 1 0 3 3 1
+p243
+aVArmen Gilliam MIL 03/04/1997 MIL @ NYK L 23 5 1 3 33.3 0 0 - 3 4 75.0 1 1 2 1 0 0 0 4 2
+p244
+aVElliot Perry MIL 03/04/1997 MIL @ NYK L 20 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 -9
+p245
+aVElliot Perry MIL 03/03/1997 MIL @ CHI L 23 11 5 10 50.0 1 4 25.0 0 0 - 1 1 2 1 1 0 2 0 2
+p246
+aVRay Allen MIL 03/03/1997 MIL @ CHI L 21 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 2 1 0 0 4 -10
+p247
+aVSherman Douglas MIL 03/03/1997 MIL @ CHI L 25 9 4 6 66.7 0 1 0.0 1 1 100.0 0 1 1 6 1 0 5 3 -20
+p248
+aVDavid Wood MIL 03/03/1997 MIL @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p249
+aVAcie Earl MIL 03/03/1997 MIL @ CHI L 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p250
+aVJoe Wolf MIL 03/03/1997 MIL @ CHI L 22 4 1 2 50.0 0 0 - 2 2 100.0 4 7 11 1 0 0 2 3 -9
+p251
+aVJohnny Newman MIL 03/03/1997 MIL @ CHI L 27 8 3 9 33.3 0 1 0.0 2 2 100.0 2 0 2 2 0 0 1 3 -16
+p252
+aVChucky Brown MIL 03/03/1997 MIL @ CHI L 12 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 0 0 2 5
+p253
+aVArmen Gilliam MIL 03/03/1997 MIL @ CHI L 28 9 4 8 50.0 0 0 - 1 5 20.0 0 2 2 0 0 1 0 1 -18
+p254
+aVCuonzo Martin MIL 03/03/1997 MIL @ CHI L 6 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p255
+aVVin Baker MIL 03/03/1997 MIL @ CHI L 30 16 5 10 50.0 0 0 - 6 8 75.0 2 5 7 1 1 0 3 4 -17
+p256
+aVGlenn Robinson MIL 03/03/1997 MIL @ CHI L 40 23 9 18 50.0 1 2 50.0 4 5 80.0 0 3 3 4 4 0 3 2 -12
+p257
+aVGlenn Robinson MIL 03/01/1997 MIL vs. SAC L 40 18 6 24 25.0 0 2 0.0 6 6 100.0 4 6 10 5 3 1 2 6 -13
+p258
+aVElliot Perry MIL 03/01/1997 MIL vs. SAC L 21 13 5 11 45.5 1 2 50.0 2 3 66.7 0 0 0 0 1 0 1 1 5
+p259
+aVArmen Gilliam MIL 03/01/1997 MIL vs. SAC L 33 9 3 7 42.9 0 0 - 3 4 75.0 3 5 8 0 2 3 1 4 -2
+p260
+aVSherman Douglas MIL 03/01/1997 MIL vs. SAC L 27 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 5 0 1 1 1 -16
+p261
+aVRay Allen MIL 03/01/1997 MIL vs. SAC L 29 12 5 11 45.5 1 6 16.7 1 2 50.0 0 0 0 2 2 0 1 1 -2
+p262
+aVJohnny Newman MIL 03/01/1997 MIL vs. SAC L 30 10 3 5 60.0 1 2 50.0 3 4 75.0 1 1 2 4 0 0 1 6 -1
+p263
+aVCuonzo Martin MIL 03/01/1997 MIL vs. SAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p264
+aVDavid Wood MIL 03/01/1997 MIL vs. SAC L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p265
+aVChucky Brown MIL 03/01/1997 MIL vs. SAC L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p266
+aVVin Baker MIL 03/01/1997 MIL vs. SAC L 44 20 9 20 45.0 0 0 - 2 2 100.0 8 7 15 2 1 6 2 6 -18
+p267
+aVChucky Brown MIL 02/28/1997 MIL @ IND L 11 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 1 -3
+p268
+aVSherman Douglas MIL 02/28/1997 MIL @ IND L 26 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 5 0 0 4 1 -8
+p269
+aVJohnny Newman MIL 02/28/1997 MIL @ IND L 25 7 1 4 25.0 0 2 0.0 5 6 83.3 1 1 2 0 0 0 1 2 -12
+p270
+aVDavid Wood MIL 02/28/1997 MIL @ IND L 3 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p271
+aVElliot Perry MIL 02/28/1997 MIL @ IND L 22 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 4 0 0 5 3 -11
+p272
+aVJoe Wolf MIL 02/28/1997 MIL @ IND L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -4
+p273
+aVRay Allen MIL 02/28/1997 MIL @ IND L 27 16 5 10 50.0 2 5 40.0 4 5 80.0 3 3 6 1 2 0 1 2 -5
+p274
+aVCuonzo Martin MIL 02/28/1997 MIL @ IND L 5 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 0 -2
+p275
+aVGlenn Robinson MIL 02/28/1997 MIL @ IND L 36 20 6 12 50.0 0 0 - 8 10 80.0 1 6 7 3 0 0 2 3 -20
+p276
+aVVin Baker MIL 02/28/1997 MIL @ IND L 37 15 6 12 50.0 0 1 0.0 3 4 75.0 2 7 9 6 0 0 3 4 -16
+p277
+aVAcie Earl MIL 02/28/1997 MIL @ IND L 9 5 1 2 50.0 0 0 - 3 4 75.0 1 2 3 0 2 0 1 3 -4
+p278
+aVArmen Gilliam MIL 02/28/1997 MIL @ IND L 28 10 5 7 71.4 0 0 - 0 1 0.0 0 4 4 0 4 0 1 4 -11
+p279
+aVGlenn Robinson MIL 02/26/1997 MIL vs. ATL L 43 22 9 19 47.4 0 1 0.0 4 5 80.0 3 7 10 0 1 2 4 1 -15
+p280
+aVChucky Brown MIL 02/26/1997 MIL vs. ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p281
+aVSherman Douglas MIL 02/26/1997 MIL vs. ATL L 29 5 2 6 33.3 1 1 100.0 0 0 - 1 3 4 3 1 0 3 2 -10
+p282
+aVVin Baker MIL 02/26/1997 MIL vs. ATL L 43 17 6 15 40.0 0 1 0.0 5 7 71.4 3 6 9 3 0 1 2 5 -1
+p283
+aVRay Allen MIL 02/26/1997 MIL vs. ATL L 23 0 0 7 0.0 0 5 0.0 0 0 - 0 5 5 3 1 1 4 1 1
+p284
+aVJohnny Newman MIL 02/26/1997 MIL vs. ATL L 30 9 4 7 57.1 1 1 100.0 0 0 - 2 1 3 0 0 0 4 4 0
+p285
+aVElliot Perry MIL 02/26/1997 MIL vs. ATL L 19 5 2 8 25.0 0 2 0.0 1 3 33.3 0 0 0 7 1 0 2 2 3
+p286
+aVArmen Gilliam MIL 02/26/1997 MIL vs. ATL L 30 11 5 10 50.0 0 0 - 1 1 100.0 2 4 6 1 2 0 1 3 -9
+p287
+aVJoe Wolf MIL 02/26/1997 MIL vs. ATL L 19 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 3 1 0 3 -3
+p288
+aVJohnny Newman MIL 02/23/1997 MIL vs. LAC L 16 4 2 8 25.0 0 1 0.0 0 2 0.0 2 1 3 0 1 0 2 0 -20
+p289
+aVArmen Gilliam MIL 02/23/1997 MIL vs. LAC L 28 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 0 1 1 3 -12
+p290
+aVGlenn Robinson MIL 02/23/1997 MIL vs. LAC L 40 25 10 22 45.5 1 4 25.0 4 4 100.0 0 4 4 0 0 0 4 3 -4
+p291
+aVVin Baker MIL 02/23/1997 MIL vs. LAC L 45 23 8 19 42.1 1 2 50.0 6 9 66.7 4 4 8 5 2 2 2 3 -14
+p292
+aVChucky Brown MIL 02/23/1997 MIL vs. LAC L 16 3 1 3 33.3 0 0 - 1 2 50.0 2 6 8 0 1 0 0 1 4
+p293
+aVElliot Perry MIL 02/23/1997 MIL vs. LAC L 29 10 4 7 57.1 2 3 66.7 0 0 - 0 1 1 4 2 0 1 4 -6
+p294
+aVJoe Wolf MIL 02/23/1997 MIL vs. LAC L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p295
+aVSherman Douglas MIL 02/23/1997 MIL vs. LAC L 19 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 6 0 0 2 4 -7
+p296
+aVRay Allen MIL 02/23/1997 MIL vs. LAC L 40 7 3 9 33.3 1 5 20.0 0 0 - 1 2 3 4 2 1 4 4 -2
+p297
+aVElliot Perry MIL 02/21/1997 MIL @ SAS L 23 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 6 3 0 1 3 6
+p298
+aVDavid Wood MIL 02/21/1997 MIL @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 3
+p299
+aVChucky Brown MIL 02/21/1997 MIL @ SAS L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 0
+p300
+aVSherman Douglas MIL 02/21/1997 MIL @ SAS L 25 13 5 6 83.3 1 1 100.0 2 2 100.0 1 3 4 5 1 0 2 2 -11
+p301
+aVGlenn Robinson MIL 02/21/1997 MIL @ SAS L 34 21 8 17 47.1 2 2 100.0 3 5 60.0 3 4 7 0 1 3 3 3 -7
+p302
+aVArmen Gilliam MIL 02/21/1997 MIL @ SAS L 25 2 1 6 16.7 0 0 - 0 0 - 2 3 5 0 0 0 0 2 -18
+p303
+aVJohnny Newman MIL 02/21/1997 MIL @ SAS L 28 7 3 6 50.0 1 2 50.0 0 0 - 1 2 3 0 2 0 1 3 -1
+p304
+aVJoe Wolf MIL 02/21/1997 MIL @ SAS L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 1
+p305
+aVRay Allen MIL 02/21/1997 MIL @ SAS L 41 17 7 16 43.8 3 6 50.0 0 0 - 2 1 3 3 0 0 3 0 -1
+p306
+aVVin Baker MIL 02/21/1997 MIL @ SAS L 45 27 8 18 44.4 1 1 100.0 10 14 71.4 2 7 9 3 0 3 4 2 3
+p307
+aVRay Allen MIL 02/20/1997 MIL @ DAL W 38 17 3 6 50.0 3 3 100.0 8 9 88.9 0 3 3 5 1 0 1 2 6
+p308
+aVVin Baker MIL 02/20/1997 MIL @ DAL W 43 29 12 19 63.2 0 1 0.0 5 10 50.0 4 8 12 4 2 3 2 2 6
+p309
+aVSherman Douglas MIL 02/20/1997 MIL @ DAL W 22 8 3 5 60.0 0 2 0.0 2 2 100.0 1 1 2 5 0 0 1 1 0
+p310
+aVArmen Gilliam MIL 02/20/1997 MIL @ DAL W 34 9 3 7 42.9 0 0 - 3 4 75.0 2 4 6 3 1 0 1 3 -7
+p311
+aVElliot Perry MIL 02/20/1997 MIL @ DAL W 26 10 3 6 50.0 1 4 25.0 3 4 75.0 1 1 2 5 3 0 3 4 0
+p312
+aVChucky Brown MIL 02/20/1997 MIL @ DAL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p313
+aVJoe Wolf MIL 02/20/1997 MIL @ DAL W 16 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 7
+p314
+aVJohnny Newman MIL 02/20/1997 MIL @ DAL W 17 9 3 7 42.9 2 3 66.7 1 2 50.0 0 1 1 0 0 0 3 4 3
+p315
+aVGlenn Robinson MIL 02/20/1997 MIL @ DAL W 40 13 6 15 40.0 1 2 50.0 0 2 0.0 1 6 7 3 0 1 3 4 -5
+p316
+aVJohnny Newman MIL 02/17/1997 MIL @ WAS L 22 9 4 6 66.7 1 1 100.0 0 0 - 1 2 3 2 0 0 2 4 -4
+p317
+aVGlenn Robinson MIL 02/17/1997 MIL @ WAS L 34 12 5 14 35.7 0 0 - 2 2 100.0 1 4 5 1 0 0 2 2 -11
+p318
+aVJoe Wolf MIL 02/17/1997 MIL @ WAS L 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p319
+aVSherman Douglas MIL 02/17/1997 MIL @ WAS L 27 9 4 9 44.4 0 1 0.0 1 2 50.0 2 2 4 2 2 0 0 1 3
+p320
+aVArmen Gilliam MIL 02/17/1997 MIL @ WAS L 43 17 5 10 50.0 0 0 - 7 10 70.0 4 11 15 1 0 0 0 4 6
+p321
+aVChucky Brown MIL 02/17/1997 MIL @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p322
+aVVin Baker MIL 02/17/1997 MIL @ WAS L 44 15 6 15 40.0 0 0 - 3 5 60.0 1 5 6 4 2 5 1 2 1
+p323
+aVRay Allen MIL 02/17/1997 MIL @ WAS L 39 15 6 15 40.0 3 5 60.0 0 0 - 1 5 6 4 1 0 2 3 11
+p324
+aVElliot Perry MIL 02/17/1997 MIL @ WAS L 21 12 5 8 62.5 1 3 33.3 1 2 50.0 0 0 0 7 1 0 0 1 -5
+p325
+aVJohnny Newman MIL 02/15/1997 MIL vs. DEN W 21 6 1 5 20.0 0 1 0.0 4 4 100.0 1 2 3 2 1 1 0 1 6
+p326
+aVElliot Perry MIL 02/15/1997 MIL vs. DEN W 18 11 5 9 55.6 1 3 33.3 0 0 - 0 2 2 2 2 0 3 0 0
+p327
+aVGlenn Robinson MIL 02/15/1997 MIL vs. DEN W 37 14 6 18 33.3 0 0 - 2 2 100.0 0 3 3 1 1 0 7 1 -2
+p328
+aVChucky Brown MIL 02/15/1997 MIL vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p329
+aVVin Baker MIL 02/15/1997 MIL vs. DEN W 44 21 8 14 57.1 0 0 - 5 8 62.5 2 9 11 2 4 1 3 6 4
+p330
+aVRay Allen MIL 02/15/1997 MIL vs. DEN W 29 15 6 9 66.7 1 3 33.3 2 2 100.0 0 3 3 4 1 0 1 4 0
+p331
+aVArmen Gilliam MIL 02/15/1997 MIL vs. DEN W 37 11 3 9 33.3 0 0 - 5 6 83.3 3 9 12 1 0 1 1 4 3
+p332
+aVSherman Douglas MIL 02/15/1997 MIL vs. DEN W 30 12 5 11 45.5 0 1 0.0 2 2 100.0 1 4 5 6 2 0 0 3 5
+p333
+aVJoe Wolf MIL 02/15/1997 MIL vs. DEN W 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p334
+aVDavid Wood MIL 02/15/1997 MIL vs. DEN W 10 2 1 4 25.0 0 1 0.0 0 0 - 2 0 2 0 1 0 0 1 9
+p335
+aVJohnny Newman MIL 02/14/1997 MIL @ TOR W 20 3 1 3 33.3 0 1 0.0 1 2 50.0 2 1 3 0 0 0 4 4 -8
+p336
+aVArmen Gilliam MIL 02/14/1997 MIL @ TOR W 42 22 7 13 53.8 0 0 - 8 8 100.0 2 14 16 2 2 2 2 2 12
+p337
+aVRay Allen MIL 02/14/1997 MIL @ TOR W 31 13 4 14 28.6 1 5 20.0 4 6 66.7 3 5 8 4 2 0 1 4 14
+p338
+aVElliot Perry MIL 02/14/1997 MIL @ TOR W 27 9 4 6 66.7 1 2 50.0 0 2 0.0 1 2 3 3 3 1 5 2 9
+p339
+aVJoe Wolf MIL 02/14/1997 MIL @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p340
+aVChucky Brown MIL 02/14/1997 MIL @ TOR W 10 6 3 3 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 2 -6
+p341
+aVDavid Wood MIL 02/14/1997 MIL @ TOR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 7
+p342
+aVGlenn Robinson MIL 02/14/1997 MIL @ TOR W 44 37 15 27 55.6 0 1 0.0 7 9 77.8 1 3 4 5 3 1 2 5 7
+p343
+aVSherman Douglas MIL 02/14/1997 MIL @ TOR W 21 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 6 2 0 2 4 -5
+p344
+aVVin Baker MIL 02/14/1997 MIL @ TOR W 41 15 5 15 33.3 0 1 0.0 5 11 45.5 5 6 11 2 0 1 3 5 -5
+p345
+aVSherman Douglas MIL 02/11/1997 MIL vs. TOR W 20 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 4 0 0 0 1 3
+p346
+aVVin Baker MIL 02/11/1997 MIL vs. TOR W 40 23 9 16 56.3 0 0 - 5 7 71.4 4 5 9 2 1 2 3 5 3
+p347
+aVRay Allen MIL 02/11/1997 MIL vs. TOR W 27 19 6 10 60.0 1 2 50.0 6 6 100.0 0 1 1 2 2 1 4 4 6
+p348
+aVJoe Wolf MIL 02/11/1997 MIL vs. TOR W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 3 2 0 1 3 4
+p349
+aVChucky Brown MIL 02/11/1997 MIL vs. TOR W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 4
+p350
+aVJohnny Newman MIL 02/11/1997 MIL vs. TOR W 34 15 6 12 50.0 3 4 75.0 0 1 0.0 1 2 3 4 0 1 0 4 12
+p351
+aVElliot Perry MIL 02/11/1997 MIL vs. TOR W 28 16 7 10 70.0 2 3 66.7 0 0 - 0 5 5 3 0 0 2 0 2
+p352
+aVGlenn Robinson MIL 02/11/1997 MIL vs. TOR W 35 12 5 14 35.7 1 3 33.3 1 2 50.0 0 7 7 4 1 1 4 2 -8
+p353
+aVArmen Gilliam MIL 02/11/1997 MIL vs. TOR W 36 10 4 9 44.4 0 0 - 2 2 100.0 0 10 10 0 1 0 1 4 -1
+p354
+aVRay Allen MIL 02/06/1997 MIL @ MIA L 34 9 2 10 20.0 1 3 33.3 4 4 100.0 3 0 3 2 0 0 2 4 -27
+p355
+aVAndrew Lang MIL 02/06/1997 MIL @ MIA L 8 0 0 5 0.0 0 0 - 0 0 - 3 0 3 2 0 0 0 0 -7
+p356
+aVJohnny Newman MIL 02/06/1997 MIL @ MIA L 36 26 9 18 50.0 1 1 100.0 7 9 77.8 0 2 2 1 1 0 1 5 -7
+p357
+aVDavid Wood MIL 02/06/1997 MIL @ MIA L 24 8 2 3 66.7 1 1 100.0 3 3 100.0 0 2 2 2 2 0 0 2 16
+p358
+aVJoe Wolf MIL 02/06/1997 MIL @ MIA L 12 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 15
+p359
+aVChucky Brown MIL 02/06/1997 MIL @ MIA L 19 6 2 4 50.0 0 1 0.0 2 2 100.0 1 2 3 1 1 0 0 0 10
+p360
+aVVin Baker MIL 02/06/1997 MIL @ MIA L 40 23 8 18 44.4 0 0 - 7 15 46.7 7 7 14 2 1 0 1 5 -27
+p361
+aVElliot Perry MIL 02/06/1997 MIL @ MIA L 41 10 3 8 37.5 0 2 0.0 4 6 66.7 0 3 3 3 0 0 3 0 -13
+p362
+aVArmen Gilliam MIL 02/06/1997 MIL @ MIA L 18 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -15
+p363
+aVShawn Respert MIL 02/06/1997 MIL @ MIA L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -5
+p364
+aVGlenn Robinson MIL 02/04/1997 MIL vs. CLE L 39 12 5 11 45.5 0 1 0.0 2 2 100.0 2 2 4 4 2 0 4 2 -5
+p365
+aVRay Allen MIL 02/04/1997 MIL vs. CLE L 21 15 3 10 30.0 2 2 100.0 7 8 87.5 2 0 2 1 0 0 1 5 -12
+p366
+aVDavid Wood MIL 02/04/1997 MIL vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p367
+aVJohnny Newman MIL 02/04/1997 MIL vs. CLE L 33 10 4 9 44.4 0 0 - 2 2 100.0 3 0 3 0 2 0 0 6 16
+p368
+aVVin Baker MIL 02/04/1997 MIL vs. CLE L 46 13 4 11 36.4 0 0 - 5 8 62.5 3 6 9 2 0 1 2 4 -1
+p369
+aVAndrew Lang MIL 02/04/1997 MIL vs. CLE L 26 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -3
+p370
+aVArmen Gilliam MIL 02/04/1997 MIL vs. CLE L 22 10 3 3 100.0 0 0 - 4 4 100.0 0 8 8 0 0 0 3 2 4
+p371
+aVShawn Respert MIL 02/04/1997 MIL vs. CLE L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 3
+p372
+aVChucky Brown MIL 02/04/1997 MIL vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 0
+p373
+aVElliot Perry MIL 02/04/1997 MIL vs. CLE L 38 16 6 12 50.0 1 2 50.0 3 5 60.0 0 2 2 3 5 0 5 5 -4
+p374
+aVDavid Wood MIL 02/01/1997 MIL vs. PHI L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -6
+p375
+aVShawn Respert MIL 02/01/1997 MIL vs. PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p376
+aVVin Baker MIL 02/01/1997 MIL vs. PHI L 43 22 8 12 66.7 0 1 0.0 6 8 75.0 4 6 10 7 1 2 2 6 1
+p377
+aVGlenn Robinson MIL 02/01/1997 MIL vs. PHI L 39 17 7 19 36.8 0 0 - 3 4 75.0 4 1 5 2 4 1 5 5 -5
+p378
+aVJohnny Newman MIL 02/01/1997 MIL vs. PHI L 24 17 5 10 50.0 0 1 0.0 7 8 87.5 4 2 6 0 2 0 4 4 -16
+p379
+aVArmen Gilliam MIL 02/01/1997 MIL vs. PHI L 15 9 4 4 100.0 0 0 - 1 2 50.0 2 4 6 0 0 2 2 2 -10
+p380
+aVAndrew Lang MIL 02/01/1997 MIL vs. PHI L 23 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 2 1 3 3
+p381
+aVElliot Perry MIL 02/01/1997 MIL vs. PHI L 46 18 8 17 47.1 1 5 20.0 1 1 100.0 0 4 4 7 6 0 1 5 -9
+p382
+aVRay Allen MIL 02/01/1997 MIL vs. PHI L 45 11 5 16 31.3 1 5 20.0 0 0 - 1 1 2 9 0 0 5 4 -3
+p383
+aVSherman Douglas MIL 01/31/1997 MIL @ CHH L 17 3 1 5 20.0 0 1 0.0 1 5 20.0 0 1 1 1 0 0 1 1 -4
+p384
+aVJohnny Newman MIL 01/31/1997 MIL @ CHH L 23 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 0 0 0 2 4 -8
+p385
+aVDavid Wood MIL 01/31/1997 MIL @ CHH L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p386
+aVAndrew Lang MIL 01/31/1997 MIL @ CHH L 37 14 6 8 75.0 0 0 - 2 2 100.0 2 5 7 0 0 2 0 4 -5
+p387
+aVRay Allen MIL 01/31/1997 MIL @ CHH L 33 22 8 15 53.3 2 4 50.0 4 5 80.0 0 2 2 1 2 1 0 4 -1
+p388
+aVArmen Gilliam MIL 01/31/1997 MIL @ CHH L 16 3 0 2 0.0 0 0 - 3 4 75.0 2 2 4 0 1 0 0 2 -2
+p389
+aVElliot Perry MIL 01/31/1997 MIL @ CHH L 31 13 5 11 45.5 1 3 33.3 2 2 100.0 2 1 3 5 3 0 2 2 -3
+p390
+aVJoe Wolf MIL 01/31/1997 MIL @ CHH L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 6
+p391
+aVGlenn Robinson MIL 01/31/1997 MIL @ CHH L 34 18 7 17 41.2 1 3 33.3 3 3 100.0 2 3 5 2 1 0 1 3 -3
+p392
+aVVin Baker MIL 01/31/1997 MIL @ CHH L 37 18 8 21 38.1 0 1 0.0 2 4 50.0 4 8 12 1 0 1 2 5 -13
+p393
+aVRay Allen MIL 01/28/1997 MIL vs. DET L 27 5 2 6 33.3 0 1 0.0 1 1 100.0 1 3 4 3 1 0 2 1 -8
+p394
+aVSherman Douglas MIL 01/28/1997 MIL vs. DET L 22 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 3 0 0 0 1 -5
+p395
+aVVin Baker MIL 01/28/1997 MIL vs. DET L 37 18 7 15 46.7 0 0 - 4 5 80.0 4 5 9 7 1 2 4 4 -8
+p396
+aVAndrew Lang MIL 01/28/1997 MIL vs. DET L 24 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 1 2 1 1 -9
+p397
+aVElliot Perry MIL 01/28/1997 MIL vs. DET L 26 16 6 11 54.5 3 4 75.0 1 2 50.0 0 4 4 1 0 0 2 4 -4
+p398
+aVGlenn Robinson MIL 01/28/1997 MIL vs. DET L 46 15 6 17 35.3 0 2 0.0 3 5 60.0 1 3 4 2 1 0 4 1 -7
+p399
+aVJohnny Newman MIL 01/28/1997 MIL vs. DET L 28 12 4 11 36.4 2 4 50.0 2 3 66.7 2 2 4 1 0 0 1 4 -1
+p400
+aVChucky Brown MIL 01/28/1997 MIL vs. DET L 20 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 -6
+p401
+aVArmen Gilliam MIL 01/28/1997 MIL vs. DET L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p402
+aVAndrew Lang MIL 01/26/1997 MIL vs. SAS W 18 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -8
+p403
+aVRay Allen MIL 01/26/1997 MIL vs. SAS W 39 15 6 9 66.7 3 5 60.0 0 0 - 0 0 0 3 3 0 1 4 5
+p404
+aVGlenn Robinson MIL 01/26/1997 MIL vs. SAS W 41 19 8 19 42.1 1 3 33.3 2 2 100.0 2 10 12 4 0 2 3 2 19
+p405
+aVChucky Brown MIL 01/26/1997 MIL vs. SAS W 20 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 1 1 0 2 -3
+p406
+aVSherman Douglas MIL 01/26/1997 MIL vs. SAS W 22 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 3 1 1 3 3 -9
+p407
+aVJohnny Newman MIL 01/26/1997 MIL vs. SAS W 28 18 7 9 77.8 0 0 - 4 4 100.0 0 2 2 1 1 1 1 1 26
+p408
+aVDavid Wood MIL 01/26/1997 MIL vs. SAS W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 5
+p409
+aVArmen Gilliam MIL 01/26/1997 MIL vs. SAS W 31 15 4 10 40.0 0 0 - 7 8 87.5 4 6 10 1 3 1 3 3 20
+p410
+aVJoe Wolf MIL 01/26/1997 MIL vs. SAS W 7 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 8
+p411
+aVElliot Perry MIL 01/26/1997 MIL vs. SAS W 26 13 4 8 50.0 0 1 0.0 5 6 83.3 0 1 1 5 4 0 2 2 27
+p412
+aVArmen Gilliam MIL 01/25/1997 MIL @ IND W 21 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 1 2 3 5
+p413
+aVRay Allen MIL 01/25/1997 MIL @ IND W 30 10 4 10 40.0 2 4 50.0 0 0 - 2 2 4 5 1 0 2 4 1
+p414
+aVSherman Douglas MIL 01/25/1997 MIL @ IND W 20 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 3 3 -8
+p415
+aVElliot Perry MIL 01/25/1997 MIL @ IND W 28 19 7 11 63.6 1 3 33.3 4 4 100.0 0 4 4 3 1 1 2 2 10
+p416
+aVAndrew Lang MIL 01/25/1997 MIL @ IND W 31 8 3 8 37.5 0 0 - 2 2 100.0 1 8 9 0 0 0 1 3 -8
+p417
+aVChucky Brown MIL 01/25/1997 MIL @ IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p418
+aVVin Baker MIL 01/25/1997 MIL @ IND W 42 17 8 18 44.4 0 1 0.0 1 1 100.0 2 5 7 5 1 4 2 4 5
+p419
+aVGlenn Robinson MIL 01/25/1997 MIL @ IND W 46 23 9 16 56.3 1 1 100.0 4 5 80.0 2 8 10 0 2 1 1 2 6
+p420
+aVJohnny Newman MIL 01/25/1997 MIL @ IND W 21 7 2 6 33.3 1 1 100.0 2 2 100.0 0 1 1 1 0 1 1 5 -1
+p421
+aVArmen Gilliam MIL 01/23/1997 MIL @ ORL L 40 4 2 6 33.3 0 0 - 0 1 0.0 3 6 9 0 1 1 3 4 -2
+p422
+aVElliot Perry MIL 01/23/1997 MIL @ ORL L 24 10 3 7 42.9 1 3 33.3 3 4 75.0 0 1 1 5 4 0 0 3 3
+p423
+aVJohnny Newman MIL 01/23/1997 MIL @ ORL L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 5 0
+p424
+aVChucky Brown MIL 01/23/1997 MIL @ ORL L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p425
+aVVin Baker MIL 01/23/1997 MIL @ ORL L 46 30 12 23 52.2 0 2 0.0 6 6 100.0 7 5 12 2 1 1 3 6 -2
+p426
+aVGlenn Robinson MIL 01/23/1997 MIL @ ORL L 43 18 6 20 30.0 1 4 25.0 5 6 83.3 2 6 8 3 3 0 3 1 0
+p427
+aVSherman Douglas MIL 01/23/1997 MIL @ ORL L 24 10 5 6 83.3 0 0 - 0 2 0.0 1 1 2 2 1 0 1 1 -7
+p428
+aVRay Allen MIL 01/23/1997 MIL @ ORL L 34 13 4 10 40.0 1 3 33.3 4 4 100.0 1 2 3 3 0 0 0 1 -9
+p429
+aVJoe Wolf MIL 01/23/1997 MIL @ ORL L 4 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 0 -1
+p430
+aVSherman Douglas MIL 01/21/1997 MIL vs. IND L 37 8 3 9 33.3 0 1 0.0 2 5 40.0 1 3 4 9 1 0 1 5 1
+p431
+aVElliot Perry MIL 01/21/1997 MIL vs. IND L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -4
+p432
+aVRay Allen MIL 01/21/1997 MIL vs. IND L 26 8 3 11 27.3 1 5 20.0 1 2 50.0 1 0 1 0 0 0 0 4 3
+p433
+aVAndrew Lang MIL 01/21/1997 MIL vs. IND L 28 4 2 6 33.3 0 0 - 0 0 - 3 3 6 1 0 2 1 5 3
+p434
+aVJohnny Newman MIL 01/21/1997 MIL vs. IND L 22 12 3 6 50.0 2 3 66.7 4 5 80.0 0 0 0 0 2 0 0 2 -4
+p435
+aVVin Baker MIL 01/21/1997 MIL vs. IND L 44 22 7 17 41.2 0 2 0.0 8 13 61.5 7 7 14 0 1 1 3 3 -2
+p436
+aVDavid Wood MIL 01/21/1997 MIL vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p437
+aVChucky Brown MIL 01/21/1997 MIL vs. IND L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p438
+aVArmen Gilliam MIL 01/21/1997 MIL vs. IND L 20 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 0 1 0 2 2 -8
+p439
+aVGlenn Robinson MIL 01/21/1997 MIL vs. IND L 46 29 10 19 52.6 1 3 33.3 8 8 100.0 0 4 4 5 2 0 2 4 -2
+p440
+aVSherman Douglas MIL 01/20/1997 MIL @ PHI W 24 10 5 10 50.0 0 0 - 0 0 - 1 2 3 8 0 0 0 1 6
+p441
+aVChucky Brown MIL 01/20/1997 MIL @ PHI W 11 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 2 0 3 3
+p442
+aVJohnny Newman MIL 01/20/1997 MIL @ PHI W 23 12 3 5 60.0 0 0 - 6 6 100.0 1 1 2 1 1 0 1 4 4
+p443
+aVJoe Wolf MIL 01/20/1997 MIL @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p444
+aVRay Allen MIL 01/20/1997 MIL @ PHI W 28 9 3 8 37.5 1 4 25.0 2 4 50.0 1 5 6 6 2 0 1 2 5
+p445
+aVArmen Gilliam MIL 01/20/1997 MIL @ PHI W 21 8 4 6 66.7 0 0 - 0 0 - 3 4 7 0 0 0 2 4 -10
+p446
+aVGlenn Robinson MIL 01/20/1997 MIL @ PHI W 45 29 12 26 46.2 1 4 25.0 4 6 66.7 1 6 7 4 1 1 3 3 9
+p447
+aVVin Baker MIL 01/20/1997 MIL @ PHI W 44 22 11 22 50.0 0 0 - 0 2 0.0 3 9 12 1 1 0 4 5 13
+p448
+aVAndrew Lang MIL 01/20/1997 MIL @ PHI W 19 5 2 5 40.0 0 0 - 1 1 100.0 1 4 5 0 0 0 0 4 10
+p449
+aVElliot Perry MIL 01/20/1997 MIL @ PHI W 24 17 6 6 100.0 1 1 100.0 4 5 80.0 0 0 0 5 2 0 0 0 3
+p450
+aVGlenn Robinson MIL 01/18/1997 MIL @ ATL L 36 14 6 14 42.9 0 1 0.0 2 2 100.0 1 5 6 2 0 0 3 2 -17
+p451
+aVChucky Brown MIL 01/18/1997 MIL @ ATL L 5 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -1
+p452
+aVDavid Wood MIL 01/18/1997 MIL @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p453
+aVVin Baker MIL 01/18/1997 MIL @ ATL L 35 15 5 16 31.3 0 1 0.0 5 6 83.3 4 9 13 0 1 0 8 3 -16
+p454
+aVSherman Douglas MIL 01/18/1997 MIL @ ATL L 25 8 3 6 50.0 1 1 100.0 1 2 50.0 1 2 3 2 1 0 0 1 -16
+p455
+aVShawn Respert MIL 01/18/1997 MIL @ ATL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p456
+aVJohnny Newman MIL 01/18/1997 MIL @ ATL L 27 10 3 8 37.5 0 1 0.0 4 4 100.0 1 1 2 1 5 0 2 4 -11
+p457
+aVJoe Wolf MIL 01/18/1997 MIL @ ATL L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 0
+p458
+aVElliot Perry MIL 01/18/1997 MIL @ ATL L 21 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 3 0 0 0 -7
+p459
+aVRay Allen MIL 01/18/1997 MIL @ ATL L 31 3 1 9 11.1 0 4 0.0 1 2 50.0 1 3 4 3 1 0 5 1 -18
+p460
+aVArmen Gilliam MIL 01/18/1997 MIL @ ATL L 19 3 1 5 20.0 0 0 - 1 2 50.0 0 3 3 0 0 1 2 2 -6
+p461
+aVAndrew Lang MIL 01/18/1997 MIL @ ATL L 35 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 1 2 4 4 -23
+p462
+aVElliot Perry MIL 01/17/1997 MIL @ CHI L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -19
+p463
+aVJoe Wolf MIL 01/17/1997 MIL @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p464
+aVGlenn Robinson MIL 01/17/1997 MIL @ CHI L 42 14 7 18 38.9 0 3 0.0 0 0 - 3 3 6 1 0 0 8 1 -17
+p465
+aVJohnny Newman MIL 01/17/1997 MIL @ CHI L 20 5 2 4 50.0 1 3 33.3 0 0 - 1 3 4 0 1 0 0 2 -13
+p466
+aVRay Allen MIL 01/17/1997 MIL @ CHI L 32 9 3 12 25.0 1 2 50.0 2 3 66.7 2 0 2 1 1 0 1 2 -21
+p467
+aVChucky Brown MIL 01/17/1997 MIL @ CHI L 10 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -6
+p468
+aVAndrew Lang MIL 01/17/1997 MIL @ CHI L 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -10
+p469
+aVVin Baker MIL 01/17/1997 MIL @ CHI L 41 36 15 23 65.2 0 1 0.0 6 8 75.0 3 7 10 2 1 1 4 3 -14
+p470
+aVArmen Gilliam MIL 01/17/1997 MIL @ CHI L 27 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 2 0 0 2 2 -19
+p471
+aVDavid Wood MIL 01/17/1997 MIL @ CHI L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p472
+aVShawn Respert MIL 01/17/1997 MIL @ CHI L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p473
+aVSherman Douglas MIL 01/17/1997 MIL @ CHI L 26 0 0 4 0.0 0 3 0.0 0 2 0.0 0 0 0 1 1 0 3 0 -3
+p474
+aVJoe Wolf MIL 01/12/1997 MIL vs. GSW W 6 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -6
+p475
+aVGlenn Robinson MIL 01/12/1997 MIL vs. GSW W 30 10 4 15 26.7 0 1 0.0 2 4 50.0 4 4 8 4 1 1 4 3 11
+p476
+aVAndrew Lang MIL 01/12/1997 MIL vs. GSW W 22 12 6 6 100.0 0 0 - 0 0 - 2 2 4 0 1 0 0 3 14
+p477
+aVSherman Douglas MIL 01/12/1997 MIL vs. GSW W 29 12 5 10 50.0 2 6 33.3 0 0 - 2 3 5 4 1 0 2 1 20
+p478
+aVElliot Perry MIL 01/12/1997 MIL vs. GSW W 19 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 6 1 0 1 1 -2
+p479
+aVVin Baker MIL 01/12/1997 MIL vs. GSW W 36 17 6 14 42.9 0 0 - 5 7 71.4 5 7 12 4 2 4 2 1 29
+p480
+aVChucky Brown MIL 01/12/1997 MIL vs. GSW W 12 7 3 5 60.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 0 -1
+p481
+aVShawn Respert MIL 01/12/1997 MIL vs. GSW W 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -6
+p482
+aVJohnny Newman MIL 01/12/1997 MIL vs. GSW W 21 7 3 6 50.0 1 1 100.0 0 0 - 1 3 4 5 0 0 2 4 3
+p483
+aVArmen Gilliam MIL 01/12/1997 MIL vs. GSW W 20 16 6 7 85.7 0 0 - 4 4 100.0 2 1 3 0 0 0 1 3 0
+p484
+aVDavid Wood MIL 01/12/1997 MIL vs. GSW W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 0 -1
+p485
+aVRay Allen MIL 01/12/1997 MIL vs. GSW W 37 22 9 20 45.0 2 6 33.3 2 2 100.0 3 6 9 6 3 1 2 4 29
+p486
+aVShawn Respert MIL 01/10/1997 MIL vs. CHI L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 0
+p487
+aVAndrew Lang MIL 01/10/1997 MIL vs. CHI L 38 3 1 3 33.3 0 0 - 1 2 50.0 4 3 7 0 0 1 0 4 -4
+p488
+aVJoe Wolf MIL 01/10/1997 MIL vs. CHI L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p489
+aVGlenn Robinson MIL 01/10/1997 MIL vs. CHI L 44 35 16 21 76.2 0 0 - 3 5 60.0 0 6 6 2 1 0 4 2 -9
+p490
+aVRay Allen MIL 01/10/1997 MIL vs. CHI L 38 22 8 15 53.3 3 5 60.0 3 3 100.0 1 7 8 5 0 0 2 3 -5
+p491
+aVJohnny Newman MIL 01/10/1997 MIL vs. CHI L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -14
+p492
+aVSherman Douglas MIL 01/10/1997 MIL vs. CHI L 33 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 4 0 0 3 4 3
+p493
+aVElliot Perry MIL 01/10/1997 MIL vs. CHI L 13 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 -18
+p494
+aVDavid Wood MIL 01/10/1997 MIL vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -3
+p495
+aVVin Baker MIL 01/10/1997 MIL vs. CHI L 40 26 9 16 56.3 0 2 0.0 8 11 72.7 1 7 8 2 0 0 4 4 -5
+p496
+aVArmen Gilliam MIL 01/10/1997 MIL vs. CHI L 11 8 2 3 66.7 0 0 - 4 4 100.0 0 0 0 0 0 0 2 3 -18
+p497
+aVChucky Brown MIL 01/10/1997 MIL vs. CHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p498
+aVSherman Douglas MIL 01/08/1997 MIL vs. UTA W 31 14 4 8 50.0 0 1 0.0 6 9 66.7 0 3 3 4 0 0 2 3 -3
+p499
+aVJohnny Newman MIL 01/08/1997 MIL vs. UTA W 32 17 4 8 50.0 2 4 50.0 7 9 77.8 1 0 1 3 4 0 2 3 17
+p500
+aVChucky Brown MIL 01/08/1997 MIL vs. UTA W 19 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 1 0 0 9
+p501
+aVAndrew Lang MIL 01/08/1997 MIL vs. UTA W 20 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 6 -4
+p502
+aVRay Allen MIL 01/08/1997 MIL vs. UTA W 30 8 3 6 50.0 1 2 50.0 1 4 25.0 0 4 4 2 1 0 0 1 -5
+p503
+aVVin Baker MIL 01/08/1997 MIL vs. UTA W 49 21 8 13 61.5 0 2 0.0 5 6 83.3 0 7 7 5 0 3 4 2 6
+p504
+aVElliot Perry MIL 01/08/1997 MIL vs. UTA W 22 13 3 6 50.0 1 3 33.3 6 6 100.0 0 0 0 3 0 0 1 4 10
+p505
+aVArmen Gilliam MIL 01/08/1997 MIL vs. UTA W 17 5 1 3 33.3 0 0 - 3 4 75.0 0 2 2 1 1 0 1 2 -1
+p506
+aVGlenn Robinson MIL 01/08/1997 MIL vs. UTA W 45 38 13 18 72.2 1 2 50.0 11 15 73.3 1 6 7 4 2 0 5 1 6
+p507
+aVAndrew Lang MIL 01/07/1997 MIL @ DET W 28 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 1 1 1 2 3 12
+p508
+aVRay Allen MIL 01/07/1997 MIL @ DET W 42 19 7 14 50.0 3 5 60.0 2 2 100.0 0 4 4 4 0 0 1 2 14
+p509
+aVJohnny Newman MIL 01/07/1997 MIL @ DET W 20 0 0 6 0.0 0 0 - 0 0 - 1 3 4 2 1 0 1 2 -4
+p510
+aVChucky Brown MIL 01/07/1997 MIL @ DET W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 0 1 -2
+p511
+aVSherman Douglas MIL 01/07/1997 MIL @ DET W 34 14 6 10 60.0 1 4 25.0 1 3 33.3 1 5 6 5 1 0 1 4 17
+p512
+aVElliot Perry MIL 01/07/1997 MIL @ DET W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 4 0 0 0 1 -7
+p513
+aVGlenn Robinson MIL 01/07/1997 MIL @ DET W 38 18 8 15 53.3 0 1 0.0 2 2 100.0 1 5 6 4 1 2 4 5 10
+p514
+aVArmen Gilliam MIL 01/07/1997 MIL @ DET W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -3
+p515
+aVVin Baker MIL 01/07/1997 MIL @ DET W 39 25 9 15 60.0 0 0 - 7 10 70.0 5 7 12 1 0 1 1 4 13
+p516
+aVGlenn Robinson MIL 01/05/1997 MIL @ NYK L 37 25 9 19 47.4 0 3 0.0 7 8 87.5 3 5 8 5 1 0 4 1 -9
+p517
+aVRay Allen MIL 01/05/1997 MIL @ NYK L 33 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 1 0 0 1 2 -9
+p518
+aVSherman Douglas MIL 01/05/1997 MIL @ NYK L 24 10 4 8 50.0 0 0 - 2 3 66.7 0 1 1 3 3 0 2 3 -12
+p519
+aVVin Baker MIL 01/05/1997 MIL @ NYK L 43 22 8 14 57.1 2 3 66.7 4 6 66.7 0 5 5 0 0 3 3 3 -2
+p520
+aVChucky Brown MIL 01/05/1997 MIL @ NYK L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p521
+aVJohnny Newman MIL 01/05/1997 MIL @ NYK L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 3 0
+p522
+aVElliot Perry MIL 01/05/1997 MIL @ NYK L 24 12 4 6 66.7 1 2 50.0 3 3 100.0 0 2 2 2 1 0 2 2 7
+p523
+aVArmen Gilliam MIL 01/05/1997 MIL @ NYK L 26 6 3 7 42.9 0 0 - 0 2 0.0 0 7 7 3 1 0 2 4 5
+p524
+aVAndrew Lang MIL 01/05/1997 MIL @ NYK L 27 4 1 7 14.3 0 0 - 2 4 50.0 3 3 6 0 3 2 0 3 -15
+p525
+aVShawn Respert MIL 01/05/1997 MIL @ NYK L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p526
+aVDavid Wood MIL 01/05/1997 MIL @ NYK L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 6
+p527
+aVVin Baker MIL 01/04/1997 MIL vs. MIN L 44 24 8 23 34.8 0 2 0.0 8 11 72.7 6 6 12 2 1 2 4 3 -1
+p528
+aVGlenn Robinson MIL 01/04/1997 MIL vs. MIN L 40 18 7 19 36.8 0 2 0.0 4 4 100.0 2 7 9 3 1 0 3 6 -9
+p529
+aVSherman Douglas MIL 01/04/1997 MIL vs. MIN L 34 6 3 8 37.5 0 1 0.0 0 0 - 3 1 4 4 3 0 1 2 -5
+p530
+aVAndrew Lang MIL 01/04/1997 MIL vs. MIN L 22 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 0 1 0 1 1 4
+p531
+aVJohnny Newman MIL 01/04/1997 MIL vs. MIN L 17 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 1 0 0 3 -13
+p532
+aVArmen Gilliam MIL 01/04/1997 MIL vs. MIN L 17 5 1 3 33.3 0 0 - 3 4 75.0 3 4 7 1 0 0 2 2 -11
+p533
+aVRay Allen MIL 01/04/1997 MIL vs. MIN L 35 17 5 17 29.4 0 4 0.0 7 8 87.5 3 6 9 3 1 0 2 2 5
+p534
+aVChucky Brown MIL 01/04/1997 MIL vs. MIN L 16 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 1 0 0 0 1 0
+p535
+aVElliot Perry MIL 01/04/1997 MIL vs. MIN L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 3 0
+p536
+aVVin Baker MIL 12/29/1996 MIL vs. MIA L 41 26 13 21 61.9 0 0 - 0 0 - 0 9 9 2 0 2 3 6 -6
+p537
+aVAndrew Lang MIL 12/29/1996 MIL vs. MIA L 36 8 2 4 50.0 0 0 - 4 4 100.0 0 9 9 1 0 2 2 1 2
+p538
+aVJohnny Newman MIL 12/29/1996 MIL vs. MIA L 29 8 4 8 50.0 0 1 0.0 0 0 - 2 3 5 2 0 0 1 3 3
+p539
+aVGlenn Robinson MIL 12/29/1996 MIL vs. MIA L 39 20 8 15 53.3 1 1 100.0 3 4 75.0 0 8 8 8 1 1 2 4 -5
+p540
+aVElliot Perry MIL 12/29/1996 MIL vs. MIA L 26 16 7 11 63.6 2 4 50.0 0 0 - 0 0 0 5 3 0 1 1 7
+p541
+aVArmen Gilliam MIL 12/29/1996 MIL vs. MIA L 13 2 1 4 25.0 0 0 - 0 1 0.0 0 2 2 1 0 0 0 2 -4
+p542
+aVChucky Brown MIL 12/29/1996 MIL vs. MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 3
+p543
+aVRay Allen MIL 12/29/1996 MIL vs. MIA L 28 10 4 8 50.0 2 3 66.7 0 0 - 2 3 5 3 2 0 1 4 3
+p544
+aVSherman Douglas MIL 12/29/1996 MIL vs. MIA L 22 4 2 4 50.0 0 0 - 0 0 - 0 0 0 5 0 0 2 4 -8
+p545
+aVArmen Gilliam MIL 12/27/1996 MIL @ CLE L 34 14 2 4 50.0 0 0 - 10 10 100.0 1 6 7 0 1 0 1 3 7
+p546
+aVAndrew Lang MIL 12/27/1996 MIL @ CLE L 14 4 2 6 33.3 0 0 - 0 1 0.0 1 0 1 0 0 0 1 1 -15
+p547
+aVRay Allen MIL 12/27/1996 MIL @ CLE L 35 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 2 0 0 1 1 -12
+p548
+aVElliot Perry MIL 12/27/1996 MIL @ CLE L 18 11 3 5 60.0 0 1 0.0 5 5 100.0 0 0 0 4 0 0 1 2 16
+p549
+aVSherman Douglas MIL 12/27/1996 MIL @ CLE L 30 7 3 10 30.0 1 4 25.0 0 0 - 0 1 1 6 1 0 3 4 -24
+p550
+aVVin Baker MIL 12/27/1996 MIL @ CLE L 41 23 10 17 58.8 0 1 0.0 3 3 100.0 0 7 7 3 2 0 3 3 -17
+p551
+aVChucky Brown MIL 12/27/1996 MIL @ CLE L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 9
+p552
+aVGlenn Robinson MIL 12/27/1996 MIL @ CLE L 41 11 4 10 40.0 0 1 0.0 3 3 100.0 0 6 6 3 1 1 2 2 -13
+p553
+aVJohnny Newman MIL 12/27/1996 MIL @ CLE L 21 7 3 8 37.5 1 1 100.0 0 0 - 1 2 3 4 2 0 1 3 9
+p554
+aVAndrew Lang MIL 12/26/1996 MIL vs. HOU L 26 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 2 0 2 2 -9
+p555
+aVGlenn Robinson MIL 12/26/1996 MIL vs. HOU L 40 11 5 14 35.7 0 2 0.0 1 2 50.0 1 1 2 7 2 1 6 4 -4
+p556
+aVVin Baker MIL 12/26/1996 MIL vs. HOU L 41 23 7 14 50.0 1 1 100.0 8 10 80.0 3 7 10 2 4 1 2 5 -13
+p557
+aVChucky Brown MIL 12/26/1996 MIL vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p558
+aVArmen Gilliam MIL 12/26/1996 MIL vs. HOU L 27 5 1 3 33.3 0 0 - 3 4 75.0 1 3 4 0 0 0 2 0 2
+p559
+aVJohnny Newman MIL 12/26/1996 MIL vs. HOU L 21 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 0 1 1 1 0 -3
+p560
+aVSherman Douglas MIL 12/26/1996 MIL vs. HOU L 27 16 7 12 58.3 0 2 0.0 2 3 66.7 1 1 2 8 1 1 1 4 -6
+p561
+aVRay Allen MIL 12/26/1996 MIL vs. HOU L 34 15 5 10 50.0 3 5 60.0 2 2 100.0 0 1 1 1 1 1 0 2 -13
+p562
+aVElliot Perry MIL 12/26/1996 MIL vs. HOU L 21 9 3 6 50.0 1 2 50.0 2 2 100.0 0 3 3 4 0 0 2 0 -5
+p563
+aVChucky Brown MIL 12/23/1996 MIL @ HOU W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -6
+p564
+aVAndrew Lang MIL 12/23/1996 MIL @ HOU W 42 4 2 7 28.6 0 0 - 0 0 - 1 9 10 0 2 2 2 4 9
+p565
+aVSherman Douglas MIL 12/23/1996 MIL @ HOU W 32 19 9 12 75.0 0 0 - 1 2 50.0 0 1 1 3 0 0 1 3 7
+p566
+aVGlenn Robinson MIL 12/23/1996 MIL @ HOU W 43 15 7 17 41.2 0 1 0.0 1 2 50.0 0 4 4 6 2 1 0 2 8
+p567
+aVRay Allen MIL 12/23/1996 MIL @ HOU W 35 16 5 10 50.0 2 3 66.7 4 6 66.7 3 5 8 3 2 0 3 0 4
+p568
+aVElliot Perry MIL 12/23/1996 MIL @ HOU W 16 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 4 0 0 0 0 -2
+p569
+aVJohnny Newman MIL 12/23/1996 MIL @ HOU W 18 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p570
+aVArmen Gilliam MIL 12/23/1996 MIL @ HOU W 6 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 2 -4
+p571
+aVVin Baker MIL 12/23/1996 MIL @ HOU W 44 17 8 16 50.0 0 0 - 1 3 33.3 0 16 16 2 1 0 4 1 11
+p572
+aVElliot Perry MIL 12/21/1996 MIL vs. ORL W 23 9 4 6 66.7 0 1 0.0 1 4 25.0 1 3 4 4 1 0 2 0 -4
+p573
+aVShawn Respert MIL 12/21/1996 MIL vs. ORL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 3
+p574
+aVRay Allen MIL 12/21/1996 MIL vs. ORL W 35 16 5 9 55.6 2 5 40.0 4 4 100.0 2 3 5 3 1 0 3 2 23
+p575
+aVJohnny Newman MIL 12/21/1996 MIL vs. ORL W 24 10 5 12 41.7 0 1 0.0 0 0 - 2 1 3 1 2 0 2 2 4
+p576
+aVChucky Brown MIL 12/21/1996 MIL vs. ORL W 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 1 0 3 6
+p577
+aVAndrew Lang MIL 12/21/1996 MIL vs. ORL W 26 8 1 3 33.3 0 0 - 6 6 100.0 0 4 4 1 0 2 0 4 21
+p578
+aVVin Baker MIL 12/21/1996 MIL vs. ORL W 34 13 5 13 38.5 0 1 0.0 3 4 75.0 3 5 8 3 0 1 3 4 9
+p579
+aVSherman Douglas MIL 12/21/1996 MIL vs. ORL W 22 11 5 6 83.3 1 2 50.0 0 0 - 0 3 3 4 1 0 1 1 19
+p580
+aVArmen Gilliam MIL 12/21/1996 MIL vs. ORL W 22 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 1 1 1 4 -3
+p581
+aVJoe Wolf MIL 12/21/1996 MIL vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p582
+aVDavid Wood MIL 12/21/1996 MIL vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p583
+aVGlenn Robinson MIL 12/21/1996 MIL vs. ORL W 35 24 10 18 55.6 0 1 0.0 4 5 80.0 5 8 13 3 1 2 2 3 6
+p584
+aVRay Allen MIL 12/19/1996 MIL @ TOR L 26 12 4 9 44.4 3 3 100.0 1 2 50.0 2 2 4 3 1 0 4 4 6
+p585
+aVGlenn Robinson MIL 12/19/1996 MIL @ TOR L 45 19 8 17 47.1 1 5 20.0 2 4 50.0 1 4 5 5 1 0 6 0 -5
+p586
+aVChucky Brown MIL 12/19/1996 MIL @ TOR L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p587
+aVElliot Perry MIL 12/19/1996 MIL @ TOR L 12 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 0 -8
+p588
+aVVin Baker MIL 12/19/1996 MIL @ TOR L 40 21 7 12 58.3 1 1 100.0 6 11 54.5 3 8 11 3 0 1 4 3 4
+p589
+aVArmen Gilliam MIL 12/19/1996 MIL @ TOR L 17 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 2 0 0 3 3 -11
+p590
+aVJohnny Newman MIL 12/19/1996 MIL @ TOR L 25 7 1 2 50.0 0 0 - 5 5 100.0 0 3 3 1 0 0 3 2 -7
+p591
+aVSherman Douglas MIL 12/19/1996 MIL @ TOR L 36 4 2 5 40.0 0 2 0.0 0 0 - 0 4 4 8 0 0 1 4 5
+p592
+aVAndrew Lang MIL 12/19/1996 MIL @ TOR L 32 19 8 12 66.7 0 0 - 3 5 60.0 4 3 7 0 0 2 0 6 10
+p593
+aVJoe Wolf MIL 12/18/1996 MIL vs. LAL L 6 0 0 0 - 0 0 - 0 0 - 2 3 5 0 0 0 0 5 -2
+p594
+aVAndrew Lang MIL 12/18/1996 MIL vs. LAL L 19 0 0 3 0.0 0 0 - 0 0 - 3 3 6 1 1 0 2 6 2
+p595
+aVRay Allen MIL 12/18/1996 MIL vs. LAL L 33 7 3 13 23.1 1 3 33.3 0 0 - 1 3 4 3 3 0 5 2 -4
+p596
+aVElliot Perry MIL 12/18/1996 MIL vs. LAL L 14 3 0 3 0.0 0 1 0.0 3 3 100.0 0 1 1 5 3 0 1 0 4
+p597
+aVGlenn Robinson MIL 12/18/1996 MIL vs. LAL L 46 42 19 30 63.3 2 3 66.7 2 2 100.0 3 3 6 2 0 1 1 3 -10
+p598
+aVDavid Wood MIL 12/18/1996 MIL vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p599
+aVVin Baker MIL 12/18/1996 MIL vs. LAL L 40 25 10 17 58.8 0 0 - 5 9 55.6 5 5 10 4 3 2 4 3 -3
+p600
+aVSherman Douglas MIL 12/18/1996 MIL vs. LAL L 34 13 6 12 50.0 0 1 0.0 1 4 25.0 1 1 2 4 1 0 3 3 -10
+p601
+aVChucky Brown MIL 12/18/1996 MIL vs. LAL L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 2
+p602
+aVJohnny Newman MIL 12/18/1996 MIL vs. LAL L 18 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 3 2
+p603
+aVArmen Gilliam MIL 12/18/1996 MIL vs. LAL L 26 9 2 5 40.0 0 0 - 5 8 62.5 2 2 4 0 2 0 1 4 -11
+p604
+aVChucky Brown MIL 12/16/1996 MIL @ BOS W 12 7 3 3 100.0 0 0 - 1 2 50.0 0 6 6 2 0 1 0 3 1
+p605
+aVAndrew Lang MIL 12/16/1996 MIL @ BOS W 23 12 6 11 54.5 0 0 - 0 0 - 7 6 13 0 0 0 0 2 7
+p606
+aVRay Allen MIL 12/16/1996 MIL @ BOS W 31 16 6 12 50.0 4 5 80.0 0 0 - 1 4 5 1 0 0 5 2 12
+p607
+aVVin Baker MIL 12/16/1996 MIL @ BOS W 42 28 12 19 63.2 0 0 - 4 7 57.1 5 6 11 5 0 1 4 2 15
+p608
+aVSherman Douglas MIL 12/16/1996 MIL @ BOS W 24 1 0 4 0.0 0 1 0.0 1 2 50.0 1 1 2 7 1 0 4 1 1
+p609
+aVGlenn Robinson MIL 12/16/1996 MIL @ BOS W 40 19 8 24 33.3 0 3 0.0 3 4 75.0 4 5 9 7 0 1 1 4 17
+p610
+aVJohnny Newman MIL 12/16/1996 MIL @ BOS W 21 6 2 4 50.0 1 2 50.0 1 2 50.0 0 2 2 2 0 0 1 4 2
+p611
+aVDavid Wood MIL 12/16/1996 MIL @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p612
+aVArmen Gilliam MIL 12/16/1996 MIL @ BOS W 22 8 4 5 80.0 0 0 - 0 2 0.0 3 3 6 2 1 0 1 3 10
+p613
+aVElliot Perry MIL 12/16/1996 MIL @ BOS W 24 10 4 8 50.0 2 2 100.0 0 0 - 1 3 4 4 0 0 3 2 15
+p614
+aVJohnny Newman MIL 12/14/1996 MIL vs. NJN W 26 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 4 0 1 1 17
+p615
+aVVin Baker MIL 12/14/1996 MIL vs. NJN W 45 27 12 24 50.0 0 0 - 3 5 60.0 7 10 17 3 1 2 3 2 3
+p616
+aVSherman Douglas MIL 12/14/1996 MIL vs. NJN W 31 12 6 10 60.0 0 2 0.0 0 1 0.0 0 3 3 6 1 0 2 2 6
+p617
+aVGlenn Robinson MIL 12/14/1996 MIL vs. NJN W 42 27 9 17 52.9 0 2 0.0 9 9 100.0 2 5 7 8 1 2 3 4 13
+p618
+aVAndrew Lang MIL 12/14/1996 MIL vs. NJN W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 4 -11
+p619
+aVChucky Brown MIL 12/14/1996 MIL vs. NJN W 14 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 9
+p620
+aVRay Allen MIL 12/14/1996 MIL vs. NJN W 22 11 4 8 50.0 1 2 50.0 2 2 100.0 0 2 2 4 0 0 1 1 -7
+p621
+aVElliot Perry MIL 12/14/1996 MIL vs. NJN W 17 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 3 4
+p622
+aVArmen Gilliam MIL 12/14/1996 MIL vs. NJN W 28 10 4 9 44.4 0 0 - 2 2 100.0 1 5 6 1 0 0 3 1 16
+p623
+aVJoe Wolf MIL 12/12/1996 MIL vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p624
+aVRay Allen MIL 12/12/1996 MIL vs. SEA W 24 17 4 9 44.4 0 3 0.0 9 12 75.0 0 1 1 2 2 0 0 3 12
+p625
+aVVin Baker MIL 12/12/1996 MIL vs. SEA W 45 16 4 14 28.6 0 2 0.0 8 10 80.0 4 6 10 2 2 2 4 2 6
+p626
+aVArmen Gilliam MIL 12/12/1996 MIL vs. SEA W 36 9 4 4 100.0 0 0 - 1 1 100.0 2 8 10 0 1 0 1 2 -6
+p627
+aVSherman Douglas MIL 12/12/1996 MIL vs. SEA W 31 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 6 0 0 1 4 11
+p628
+aVJohnny Newman MIL 12/12/1996 MIL vs. SEA W 25 12 5 9 55.6 0 1 0.0 2 6 33.3 1 2 3 2 2 0 1 4 -10
+p629
+aVAndrew Lang MIL 12/12/1996 MIL vs. SEA W 12 2 0 0 - 0 0 - 2 2 100.0 1 4 5 0 0 0 1 4 9
+p630
+aVGlenn Robinson MIL 12/12/1996 MIL vs. SEA W 46 32 13 21 61.9 3 6 50.0 3 5 60.0 1 8 9 7 2 0 7 2 2
+p631
+aVElliot Perry MIL 12/12/1996 MIL vs. SEA W 17 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 3 1 0 1 2 -6
+p632
+aVChucky Brown MIL 12/12/1996 MIL vs. SEA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p633
+aVElliot Perry MIL 12/10/1996 MIL vs. DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p634
+aVAndrew Lang MIL 12/10/1996 MIL vs. DET L 30 9 4 7 57.1 0 0 - 1 3 33.3 0 5 5 1 0 4 1 4 6
+p635
+aVDavid Wood MIL 12/10/1996 MIL vs. DET L 8 3 1 1 100.0 1 1 100.0 0 0 - 2 0 2 3 0 0 0 3 -4
+p636
+aVRay Allen MIL 12/10/1996 MIL vs. DET L 35 16 6 11 54.5 2 4 50.0 2 2 100.0 1 5 6 2 1 0 2 5 0
+p637
+aVSherman Douglas MIL 12/10/1996 MIL vs. DET L 44 15 6 10 60.0 1 2 50.0 2 2 100.0 0 4 4 6 0 1 1 2 -4
+p638
+aVArmen Gilliam MIL 12/10/1996 MIL vs. DET L 18 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -14
+p639
+aVJohnny Newman MIL 12/10/1996 MIL vs. DET L 48 12 3 7 42.9 0 1 0.0 6 8 75.0 1 6 7 4 1 3 4 4 -8
+p640
+aVShawn Respert MIL 12/10/1996 MIL vs. DET L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p641
+aVVin Baker MIL 12/10/1996 MIL vs. DET L 48 28 11 20 55.0 0 0 - 6 9 66.7 3 4 7 3 1 0 3 3 -8
+p642
+aVDavid Wood MIL 12/08/1996 MIL vs. BOS W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p643
+aVGlenn Robinson MIL 12/08/1996 MIL vs. BOS W 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 4
+p644
+aVShawn Respert MIL 12/08/1996 MIL vs. BOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p645
+aVArmen Gilliam MIL 12/08/1996 MIL vs. BOS W 23 6 3 5 60.0 0 0 - 0 1 0.0 2 4 6 0 0 0 2 2 -1
+p646
+aVJohnny Newman MIL 12/08/1996 MIL vs. BOS W 27 15 6 8 75.0 0 0 - 3 5 60.0 0 4 4 3 1 0 1 4 10
+p647
+aVElliot Perry MIL 12/08/1996 MIL vs. BOS W 11 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p648
+aVRay Allen MIL 12/08/1996 MIL vs. BOS W 38 17 6 13 46.2 1 3 33.3 4 6 66.7 2 5 7 5 4 0 5 5 17
+p649
+aVVin Baker MIL 12/08/1996 MIL vs. BOS W 37 24 11 20 55.0 0 1 0.0 2 2 100.0 3 7 10 2 0 1 3 6 13
+p650
+aVAndrew Lang MIL 12/08/1996 MIL vs. BOS W 36 14 7 11 63.6 0 0 - 0 1 0.0 7 7 14 1 3 3 2 2 13
+p651
+aVChucky Brown MIL 12/08/1996 MIL vs. BOS W 10 0 0 5 0.0 0 1 0.0 0 0 - 2 0 2 0 0 1 0 2 -4
+p652
+aVSherman Douglas MIL 12/08/1996 MIL vs. BOS W 37 16 8 15 53.3 0 2 0.0 0 1 0.0 1 1 2 10 1 0 2 0 15
+p653
+aVVin Baker MIL 12/07/1996 MIL @ WAS W 43 36 12 17 70.6 0 1 0.0 12 12 100.0 5 7 12 3 1 0 7 3 13
+p654
+aVJohnny Newman MIL 12/07/1996 MIL @ WAS W 24 5 1 3 33.3 0 0 - 3 5 60.0 0 1 1 0 2 1 1 2 -9
+p655
+aVArmen Gilliam MIL 12/07/1996 MIL @ WAS W 19 2 1 4 25.0 0 0 - 0 1 0.0 0 4 4 1 1 0 0 3 -2
+p656
+aVElliot Perry MIL 12/07/1996 MIL @ WAS W 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 3
+p657
+aVSherman Douglas MIL 12/07/1996 MIL @ WAS W 39 15 7 10 70.0 1 2 50.0 0 0 - 5 1 6 7 1 0 4 4 5
+p658
+aVRay Allen MIL 12/07/1996 MIL @ WAS W 29 12 4 11 36.4 0 3 0.0 4 4 100.0 3 3 6 3 0 0 1 3 10
+p659
+aVChucky Brown MIL 12/07/1996 MIL @ WAS W 16 6 3 4 75.0 0 0 - 0 0 - 2 2 4 2 0 1 0 3 -1
+p660
+aVAndrew Lang MIL 12/07/1996 MIL @ WAS W 21 6 3 9 33.3 0 0 - 0 0 - 1 5 6 1 0 2 0 1 2
+p661
+aVGlenn Robinson MIL 12/07/1996 MIL @ WAS W 40 44 16 23 69.6 2 4 50.0 10 11 90.9 1 6 7 6 1 1 5 3 19
+p662
+aVSherman Douglas MIL 12/03/1996 MIL vs. CHI L 33 20 6 12 50.0 2 2 100.0 6 7 85.7 0 1 1 7 2 0 1 2 2
+p663
+aVRay Allen MIL 12/03/1996 MIL vs. CHI L 29 8 3 9 33.3 0 2 0.0 2 2 100.0 3 2 5 3 1 0 1 5 13
+p664
+aVArmen Gilliam MIL 12/03/1996 MIL vs. CHI L 17 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 2 2 -12
+p665
+aVAndrew Lang MIL 12/03/1996 MIL vs. CHI L 25 6 3 4 75.0 0 0 - 0 0 - 2 3 5 1 0 0 2 1 -2
+p666
+aVVin Baker MIL 12/03/1996 MIL vs. CHI L 48 20 7 11 63.6 0 0 - 6 12 50.0 3 13 16 5 3 2 8 6 -2
+p667
+aVDavid Wood MIL 12/03/1996 MIL vs. CHI L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p668
+aVGlenn Robinson MIL 12/03/1996 MIL vs. CHI L 36 21 7 16 43.8 2 3 66.7 5 6 83.3 4 3 7 1 1 0 4 2 0
+p669
+aVElliot Perry MIL 12/03/1996 MIL vs. CHI L 15 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 1 0 -5
+p670
+aVDarrin Hancock MIL 12/03/1996 MIL vs. CHI L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p671
+aVJohnny Newman MIL 12/03/1996 MIL vs. CHI L 33 19 5 10 50.0 1 3 33.3 8 8 100.0 1 2 3 1 2 0 3 3 -3
+p672
+aVRay Allen MIL 11/30/1996 MIL vs. CHH L 28 15 5 7 71.4 2 2 100.0 3 3 100.0 0 2 2 3 0 0 2 1 14
+p673
+aVAndrew Lang MIL 11/30/1996 MIL vs. CHH L 31 8 3 7 42.9 0 0 - 2 2 100.0 2 1 3 1 2 0 3 1 -6
+p674
+aVGlenn Robinson MIL 11/30/1996 MIL vs. CHH L 43 27 9 18 50.0 3 4 75.0 6 8 75.0 0 5 5 1 1 1 3 4 -10
+p675
+aVArmen Gilliam MIL 11/30/1996 MIL vs. CHH L 22 6 1 4 25.0 0 0 - 4 4 100.0 0 4 4 1 0 0 3 3 -11
+p676
+aVElliot Perry MIL 11/30/1996 MIL vs. CHH L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -9
+p677
+aVSherman Douglas MIL 11/30/1996 MIL vs. CHH L 35 8 4 8 50.0 0 2 0.0 0 2 0.0 0 4 4 7 2 2 3 2 0
+p678
+aVJohnny Newman MIL 11/30/1996 MIL vs. CHH L 26 12 5 8 62.5 1 1 100.0 1 1 100.0 0 0 0 1 0 0 0 3 -16
+p679
+aVVin Baker MIL 11/30/1996 MIL vs. CHH L 42 11 5 12 41.7 0 0 - 1 2 50.0 4 9 13 2 1 0 3 4 3
+p680
+aVAndrew Lang MIL 11/27/1996 MIL vs. CLE W 19 4 2 3 66.7 0 0 - 0 0 - 3 1 4 0 0 1 2 2 8
+p681
+aVElliot Perry MIL 11/27/1996 MIL vs. CLE W 17 7 3 8 37.5 1 1 100.0 0 0 - 0 0 0 1 2 0 0 0 -7
+p682
+aVDavid Wood MIL 11/27/1996 MIL vs. CLE W 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -1
+p683
+aVRay Allen MIL 11/27/1996 MIL vs. CLE W 19 11 4 7 57.1 1 3 33.3 2 3 66.7 1 1 2 0 1 0 0 4 22
+p684
+aVGlenn Robinson MIL 11/27/1996 MIL vs. CLE W 42 22 8 17 47.1 2 3 66.7 4 6 66.7 2 10 12 4 0 0 3 0 20
+p685
+aVJohnny Newman MIL 11/27/1996 MIL vs. CLE W 33 5 1 5 20.0 0 0 - 3 6 50.0 1 2 3 4 1 1 0 1 2
+p686
+aVSherman Douglas MIL 11/27/1996 MIL vs. CLE W 31 14 4 6 66.7 1 1 100.0 5 7 71.4 0 3 3 4 2 0 0 1 24
+p687
+aVVin Baker MIL 11/27/1996 MIL vs. CLE W 37 22 7 13 53.8 0 0 - 8 9 88.9 0 6 6 1 0 0 5 4 20
+p688
+aVArmen Gilliam MIL 11/27/1996 MIL vs. CLE W 28 5 1 3 33.3 0 0 - 3 4 75.0 2 7 9 2 1 0 2 3 -3
+p689
+aVDavid Wood MIL 11/25/1996 MIL @ ORL W 0 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p690
+aVSherman Douglas MIL 11/25/1996 MIL @ ORL W 40 12 5 7 71.4 0 0 - 2 5 40.0 1 2 3 7 2 0 3 2 15
+p691
+aVRay Allen MIL 11/25/1996 MIL @ ORL W 24 12 5 11 45.5 1 1 100.0 1 2 50.0 3 3 6 3 0 0 1 2 3
+p692
+aVVin Baker MIL 11/25/1996 MIL @ ORL W 43 13 6 18 33.3 0 0 - 1 1 100.0 3 12 15 4 0 1 2 2 18
+p693
+aVJohnny Newman MIL 11/25/1996 MIL @ ORL W 24 9 3 6 50.0 0 0 - 3 4 75.0 1 1 2 1 0 0 0 4 7
+p694
+aVElliot Perry MIL 11/25/1996 MIL @ ORL W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 1 0 1 2 -1
+p695
+aVDarrin Hancock MIL 11/25/1996 MIL @ ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p696
+aVKeith Tower MIL 11/25/1996 MIL @ ORL W 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 2 -3
+p697
+aVGlenn Robinson MIL 11/25/1996 MIL @ ORL W 45 23 9 18 50.0 0 0 - 5 6 83.3 4 5 9 2 3 2 4 2 15
+p698
+aVArmen Gilliam MIL 11/25/1996 MIL @ ORL W 35 24 7 12 58.3 0 0 - 10 11 90.9 3 11 14 0 1 1 2 4 15
+p699
+aVJoe Wolf MIL 11/25/1996 MIL @ ORL W 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p700
+aVJoe Wolf MIL 11/23/1996 MIL vs. WAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p701
+aVSherman Douglas MIL 11/23/1996 MIL vs. WAS L 34 7 3 11 27.3 1 3 33.3 0 0 - 0 1 1 9 0 0 3 4 -4
+p702
+aVVin Baker MIL 11/23/1996 MIL vs. WAS L 38 17 6 20 30.0 0 1 0.0 5 8 62.5 7 9 16 0 0 2 4 4 -8
+p703
+aVArmen Gilliam MIL 11/23/1996 MIL vs. WAS L 40 15 6 12 50.0 0 0 - 3 5 60.0 1 6 7 0 0 0 0 4 -1
+p704
+aVGlenn Robinson MIL 11/23/1996 MIL vs. WAS L 43 33 13 21 61.9 2 3 66.7 5 6 83.3 3 9 12 2 0 0 4 3 -5
+p705
+aVJohnny Newman MIL 11/23/1996 MIL vs. WAS L 37 10 5 6 83.3 0 0 - 0 0 - 0 3 3 1 1 0 3 5 -4
+p706
+aVElliot Perry MIL 11/23/1996 MIL vs. WAS L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p707
+aVKeith Tower MIL 11/23/1996 MIL vs. WAS L 14 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -3
+p708
+aVRay Allen MIL 11/23/1996 MIL vs. WAS L 16 4 2 7 28.6 0 0 - 0 0 - 1 3 4 1 0 0 1 0 -1
+p709
+aVKeith Tower MIL 11/21/1996 MIL vs. ATL L 19 3 1 3 33.3 0 0 - 1 4 25.0 0 3 3 0 1 0 0 5 -1
+p710
+aVElliot Perry MIL 11/21/1996 MIL vs. ATL L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -8
+p711
+aVRay Allen MIL 11/21/1996 MIL vs. ATL L 38 13 6 13 46.2 1 5 20.0 0 0 - 2 5 7 3 0 0 2 2 -7
+p712
+aVShawn Respert MIL 11/21/1996 MIL vs. ATL L 7 5 2 4 50.0 0 2 0.0 1 1 100.0 0 0 0 0 0 0 1 0 -6
+p713
+aVGlenn Robinson MIL 11/21/1996 MIL vs. ATL L 44 9 4 20 20.0 0 4 0.0 1 3 33.3 4 3 7 4 1 1 2 2 -7
+p714
+aVArmen Gilliam MIL 11/21/1996 MIL vs. ATL L 43 13 4 17 23.5 0 0 - 5 5 100.0 3 8 11 0 1 1 1 4 -3
+p715
+aVJoe Wolf MIL 11/21/1996 MIL vs. ATL L 11 1 0 0 - 0 0 - 1 2 50.0 0 4 4 1 0 1 1 3 -7
+p716
+aVDavid Wood MIL 11/21/1996 MIL vs. ATL L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 1 0 2 -6
+p717
+aVJohnny Newman MIL 11/21/1996 MIL vs. ATL L 28 4 2 7 28.6 0 2 0.0 0 0 - 2 0 2 0 2 1 1 3 1
+p718
+aVSherman Douglas MIL 11/21/1996 MIL vs. ATL L 34 13 5 10 50.0 1 2 50.0 2 3 66.7 3 3 6 4 3 0 1 2 4
+p719
+aVDarrin Hancock MIL 11/19/1996 MIL vs. DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 2
+p720
+aVKeith Tower MIL 11/19/1996 MIL vs. DAL W 14 2 1 1 100.0 0 0 - 0 2 0.0 1 2 3 1 0 1 0 2 6
+p721
+aVElliot Perry MIL 11/19/1996 MIL vs. DAL W 12 8 3 8 37.5 0 1 0.0 2 2 100.0 2 1 3 0 0 0 1 2 4
+p722
+aVSherman Douglas MIL 11/19/1996 MIL vs. DAL W 36 11 4 8 50.0 3 4 75.0 0 2 0.0 1 4 5 6 3 0 0 3 -1
+p723
+aVJoe Wolf MIL 11/19/1996 MIL vs. DAL W 18 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -11
+p724
+aVArmen Gilliam MIL 11/19/1996 MIL vs. DAL W 44 27 9 19 47.4 0 0 - 9 9 100.0 2 11 13 0 2 0 1 2 2
+p725
+aVGlenn Robinson MIL 11/19/1996 MIL vs. DAL W 39 16 7 16 43.8 0 1 0.0 2 2 100.0 1 3 4 3 2 0 4 5 -2
+p726
+aVDavid Wood MIL 11/19/1996 MIL vs. DAL W 20 1 0 1 0.0 0 0 - 1 4 25.0 1 4 5 0 0 0 0 3 7
+p727
+aVRay Allen MIL 11/19/1996 MIL vs. DAL W 16 8 2 8 25.0 1 4 25.0 3 4 75.0 1 0 1 3 0 0 2 3 -11
+p728
+aVJohnny Newman MIL 11/19/1996 MIL vs. DAL W 37 27 11 16 68.8 0 2 0.0 5 8 62.5 0 0 0 2 1 0 2 2 19
+p729
+aVGlenn Robinson MIL 11/17/1996 MIL @ LAC L 41 31 13 27 48.1 2 5 40.0 3 4 75.0 2 3 5 1 2 3 3 1 -7
+p730
+aVJohnny Newman MIL 11/17/1996 MIL @ LAC L 22 6 1 4 25.0 0 1 0.0 4 4 100.0 0 0 0 0 0 0 1 1 -3
+p731
+aVArmen Gilliam MIL 11/17/1996 MIL @ LAC L 45 11 4 12 33.3 0 0 - 3 6 50.0 4 13 17 0 2 3 1 3 -13
+p732
+aVElliot Perry MIL 11/17/1996 MIL @ LAC L 24 11 4 7 57.1 0 1 0.0 3 3 100.0 0 0 0 3 4 0 2 2 -6
+p733
+aVKeith Tower MIL 11/17/1996 MIL @ LAC L 20 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -1
+p734
+aVSherman Douglas MIL 11/17/1996 MIL @ LAC L 24 6 3 8 37.5 0 0 - 0 0 - 1 1 2 3 1 0 2 1 -2
+p735
+aVJoe Wolf MIL 11/17/1996 MIL @ LAC L 31 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 0 0 0 5 -2
+p736
+aVRay Allen MIL 11/17/1996 MIL @ LAC L 33 23 9 19 47.4 3 6 50.0 2 3 66.7 4 3 7 2 1 1 4 2 -6
+p737
+aVJoe Wolf MIL 11/15/1996 MIL @ SAC L 16 0 0 4 0.0 0 1 0.0 0 0 - 2 2 4 1 0 0 0 4 -13
+p738
+aVDavid Wood MIL 11/15/1996 MIL @ SAC L 20 7 2 3 66.7 2 3 66.7 1 1 100.0 0 2 2 0 1 1 0 2 -3
+p739
+aVRay Allen MIL 11/15/1996 MIL @ SAC L 26 9 3 5 60.0 0 0 - 3 4 75.0 0 3 3 2 0 0 0 0 2
+p740
+aVJohnny Newman MIL 11/15/1996 MIL @ SAC L 31 9 2 10 20.0 0 1 0.0 5 7 71.4 4 2 6 0 0 0 2 5 -10
+p741
+aVArmen Gilliam MIL 11/15/1996 MIL @ SAC L 42 14 5 14 35.7 0 0 - 4 6 66.7 5 8 13 0 0 1 5 3 -1
+p742
+aVVin Baker MIL 11/15/1996 MIL @ SAC L 10 5 1 4 25.0 0 0 - 3 4 75.0 0 2 2 0 0 2 0 0 10
+p743
+aVGlenn Robinson MIL 11/15/1996 MIL @ SAC L 43 29 10 21 47.6 2 7 28.6 7 10 70.0 3 4 7 5 1 1 3 4 -3
+p744
+aVElliot Perry MIL 11/15/1996 MIL @ SAC L 13 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 1 0 1 0 0
+p745
+aVDarrin Hancock MIL 11/15/1996 MIL @ SAC L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 0 2 2
+p746
+aVSherman Douglas MIL 11/15/1996 MIL @ SAC L 35 20 8 11 72.7 2 2 100.0 2 3 66.7 0 2 2 10 1 2 0 1 -4
+p747
+aVJohnny Newman MIL 11/14/1996 MIL @ GSW L 28 7 3 8 37.5 0 1 0.0 1 1 100.0 0 4 4 0 1 0 1 4 13
+p748
+aVRay Allen MIL 11/14/1996 MIL @ GSW L 27 4 1 11 9.1 0 3 0.0 2 2 100.0 3 1 4 2 0 0 2 4 -18
+p749
+aVGlenn Robinson MIL 11/14/1996 MIL @ GSW L 37 12 5 15 33.3 1 3 33.3 1 1 100.0 2 6 8 4 0 0 4 3 -13
+p750
+aVArmen Gilliam MIL 11/14/1996 MIL @ GSW L 34 16 6 10 60.0 0 0 - 4 4 100.0 4 5 9 4 2 0 2 3 5
+p751
+aVAndrew Lang MIL 11/14/1996 MIL @ GSW L 18 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -12
+p752
+aVDavid Wood MIL 11/14/1996 MIL @ GSW L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p753
+aVSherman Douglas MIL 11/14/1996 MIL @ GSW L 29 9 4 7 57.1 1 2 50.0 0 0 - 1 1 2 4 1 0 4 2 -21
+p754
+aVElliot Perry MIL 11/14/1996 MIL @ GSW L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 3 1 0 1 1 12
+p755
+aVVin Baker MIL 11/14/1996 MIL @ GSW L 43 32 15 25 60.0 0 1 0.0 2 3 66.7 5 9 14 4 1 3 2 4 -13
+p756
+aVRay Allen MIL 11/12/1996 MIL vs. PHX W 42 23 9 19 47.4 1 5 20.0 4 6 66.7 1 7 8 3 2 0 1 1 9
+p757
+aVArmen Gilliam MIL 11/12/1996 MIL vs. PHX W 37 13 5 14 35.7 0 0 - 3 3 100.0 8 14 22 0 0 0 3 0 17
+p758
+aVGlenn Robinson MIL 11/12/1996 MIL vs. PHX W 41 20 8 19 42.1 0 0 - 4 4 100.0 3 2 5 2 1 1 6 3 12
+p759
+aVVin Baker MIL 11/12/1996 MIL vs. PHX W 48 32 13 25 52.0 1 2 50.0 5 7 71.4 5 7 12 3 2 5 3 3 11
+p760
+aVDavid Wood MIL 11/12/1996 MIL vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p761
+aVAndrew Lang MIL 11/12/1996 MIL vs. PHX W 16 2 1 5 20.0 0 0 - 0 0 - 2 1 3 1 0 0 1 0 -11
+p762
+aVJoe Wolf MIL 11/12/1996 MIL vs. PHX W 5 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 0 0 0 1 -1
+p763
+aVDarrin Hancock MIL 11/12/1996 MIL vs. PHX W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p764
+aVSherman Douglas MIL 11/12/1996 MIL vs. PHX W 26 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 2 1 0 2 5 11
+p765
+aVElliot Perry MIL 11/12/1996 MIL vs. PHX W 27 5 2 4 50.0 0 1 0.0 1 2 50.0 1 0 1 4 0 0 1 1 -1
+p766
+aVJohnny Newman MIL 11/12/1996 MIL vs. PHX W 19 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 1 2 0 0 2 2
+p767
+aVVin Baker MIL 11/09/1996 MIL @ CHH W 47 28 9 22 40.9 2 3 66.7 8 13 61.5 2 10 12 5 1 3 3 4 10
+p768
+aVJohnny Newman MIL 11/09/1996 MIL @ CHH W 32 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 1 1 0 1 0 1
+p769
+aVSherman Douglas MIL 11/09/1996 MIL @ CHH W 36 16 6 12 50.0 0 2 0.0 4 6 66.7 2 2 4 7 1 0 1 5 8
+p770
+aVAndrew Lang MIL 11/09/1996 MIL @ CHH W 28 2 1 4 25.0 0 0 - 0 0 - 4 5 9 1 0 0 1 6 5
+p771
+aVElliot Perry MIL 11/09/1996 MIL @ CHH W 12 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 3 0 0 0 0 -6
+p772
+aVGlenn Robinson MIL 11/09/1996 MIL @ CHH W 34 20 5 13 38.5 1 3 33.3 9 11 81.8 1 4 5 0 0 0 4 5 -2
+p773
+aVArmen Gilliam MIL 11/09/1996 MIL @ CHH W 21 9 3 4 75.0 0 0 - 3 3 100.0 1 3 4 0 1 0 1 3 -6
+p774
+aVJoe Wolf MIL 11/09/1996 MIL @ CHH W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p775
+aVRay Allen MIL 11/09/1996 MIL @ CHH W 29 9 4 10 40.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 3 5
+p776
+aVRay Allen MIL 11/08/1996 MIL @ MIA L 29 9 3 8 37.5 0 1 0.0 3 3 100.0 1 1 2 2 0 0 4 2 -8
+p777
+aVSherman Douglas MIL 11/08/1996 MIL @ MIA L 32 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 3 2 0 3 4 -4
+p778
+aVArmen Gilliam MIL 11/08/1996 MIL @ MIA L 22 6 2 8 25.0 0 0 - 2 2 100.0 2 4 6 0 1 1 0 0 -7
+p779
+aVJohnny Newman MIL 11/08/1996 MIL @ MIA L 21 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 2 -10
+p780
+aVDarrin Hancock MIL 11/08/1996 MIL @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p781
+aVAndrew Lang MIL 11/08/1996 MIL @ MIA L 32 8 4 6 66.7 0 0 - 0 0 - 1 9 10 0 1 1 1 4 -11
+p782
+aVJoe Wolf MIL 11/08/1996 MIL @ MIA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 4
+p783
+aVVin Baker MIL 11/08/1996 MIL @ MIA L 41 27 9 17 52.9 1 1 100.0 8 10 80.0 3 5 8 6 1 1 3 5 -8
+p784
+aVElliot Perry MIL 11/08/1996 MIL @ MIA L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 5 0 0 4 1 -8
+p785
+aVDavid Wood MIL 11/08/1996 MIL @ MIA L 1 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 3
+p786
+aVGlenn Robinson MIL 11/08/1996 MIL @ MIA L 37 22 10 18 55.6 1 3 33.3 1 1 100.0 1 5 6 2 5 0 3 2 -9
+p787
+aVJoe Wolf MIL 11/06/1996 MIL vs. VAN W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p788
+aVShawn Respert MIL 11/06/1996 MIL vs. VAN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p789
+aVRay Allen MIL 11/06/1996 MIL vs. VAN W 26 20 7 12 58.3 1 5 20.0 5 6 83.3 0 2 2 1 1 0 3 3 9
+p790
+aVJohnny Newman MIL 11/06/1996 MIL vs. VAN W 23 14 3 6 50.0 0 0 - 8 8 100.0 0 0 0 5 0 0 1 4 9
+p791
+aVElliot Perry MIL 11/06/1996 MIL vs. VAN W 26 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 6 1 0 2 1 9
+p792
+aVDavid Wood MIL 11/06/1996 MIL vs. VAN W 14 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 12
+p793
+aVVin Baker MIL 11/06/1996 MIL vs. VAN W 38 20 8 13 61.5 0 0 - 4 5 80.0 4 7 11 1 2 2 5 3 19
+p794
+aVAndrew Lang MIL 11/06/1996 MIL vs. VAN W 20 2 1 4 25.0 0 0 - 0 0 - 1 7 8 0 1 0 1 3 8
+p795
+aVGlenn Robinson MIL 11/06/1996 MIL vs. VAN W 29 18 7 12 58.3 1 3 33.3 3 4 75.0 0 5 5 2 1 2 1 3 10
+p796
+aVArmen Gilliam MIL 11/06/1996 MIL vs. VAN W 32 15 5 13 38.5 0 0 - 5 7 71.4 5 1 6 1 3 1 2 3 7
+p797
+aVSherman Douglas MIL 11/06/1996 MIL vs. VAN W 22 6 2 7 28.6 0 1 0.0 2 2 100.0 3 3 6 8 1 0 3 1 7
+p798
+aVDarrin Hancock MIL 11/06/1996 MIL vs. VAN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -4
+p799
+aVAndrew Lang MIL 11/02/1996 MIL vs. BOS W 25 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 1 2 0 2 10
+p800
+aVDavid Wood MIL 11/02/1996 MIL vs. BOS W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p801
+aVArmen Gilliam MIL 11/02/1996 MIL vs. BOS W 29 17 4 9 44.4 0 0 - 9 12 75.0 4 8 12 2 1 1 1 3 13
+p802
+aVElliot Perry MIL 11/02/1996 MIL vs. BOS W 21 2 0 4 0.0 0 0 - 2 2 100.0 1 2 3 5 0 0 1 2 6
+p803
+aVGlenn Robinson MIL 11/02/1996 MIL vs. BOS W 28 21 8 16 50.0 1 1 100.0 4 6 66.7 1 3 4 5 0 2 0 3 28
+p804
+aVShawn Respert MIL 11/02/1996 MIL vs. BOS W 15 7 1 5 20.0 1 3 33.3 4 4 100.0 1 2 3 1 0 0 0 2 -6
+p805
+aVVin Baker MIL 11/02/1996 MIL vs. BOS W 22 18 7 10 70.0 0 0 - 4 5 80.0 1 4 5 0 1 0 2 5 24
+p806
+aVRay Allen MIL 11/02/1996 MIL vs. BOS W 21 18 7 10 70.0 2 4 50.0 2 3 66.7 1 2 3 2 3 0 1 1 8
+p807
+aVDarrin Hancock MIL 11/02/1996 MIL vs. BOS W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p808
+aVSherman Douglas MIL 11/02/1996 MIL vs. BOS W 27 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 6 1 0 4 1 16
+p809
+aVJoe Wolf MIL 11/02/1996 MIL vs. BOS W 18 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 1 0 0 1 3 2
+p810
+aVJohnny Newman MIL 11/02/1996 MIL vs. BOS W 22 21 9 13 69.2 1 1 100.0 2 2 100.0 1 1 2 2 0 0 0 5 17
+p811
+aVArmen Gilliam MIL 11/01/1996 MIL @ PHI W 24 7 3 8 37.5 0 0 - 1 2 50.0 4 10 14 1 1 0 2 5 6
+p812
+aVJoe Wolf MIL 11/01/1996 MIL @ PHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p813
+aVGlenn Robinson MIL 11/01/1996 MIL @ PHI W 38 19 8 14 57.1 1 3 33.3 2 2 100.0 0 5 5 3 2 2 3 3 12
+p814
+aVDavid Wood MIL 11/01/1996 MIL @ PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p815
+aVDarrin Hancock MIL 11/01/1996 MIL @ PHI W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -5
+p816
+aVJohnny Newman MIL 11/01/1996 MIL @ PHI W 23 6 2 5 40.0 0 2 0.0 2 6 33.3 0 0 0 2 1 0 1 1 -6
+p817
+aVRay Allen MIL 11/01/1996 MIL @ PHI W 28 13 3 10 30.0 2 3 66.7 5 7 71.4 0 2 2 0 3 0 1 4 15
+p818
+aVElliot Perry MIL 11/01/1996 MIL @ PHI W 17 7 2 6 33.3 1 1 100.0 2 3 66.7 0 1 1 3 1 0 1 1 -9
+p819
+aVAndrew Lang MIL 11/01/1996 MIL @ PHI W 27 12 5 9 55.6 0 0 - 2 4 50.0 5 2 7 1 0 2 0 4 4
+p820
+aVSherman Douglas MIL 11/01/1996 MIL @ PHI W 31 22 8 13 61.5 0 0 - 6 8 75.0 3 3 6 8 0 0 1 5 17
+p821
+aVVin Baker MIL 11/01/1996 MIL @ PHI W 39 25 7 18 38.9 0 0 - 11 12 91.7 6 7 13 2 1 3 5 5 13
+p822
+a.

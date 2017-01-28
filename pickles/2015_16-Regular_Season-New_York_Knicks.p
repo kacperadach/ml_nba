@@ -1,0 +1,1784 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCleanthony Early NYK 04/12/2016 NYK @ IND L 30 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 0 0 0 2 2 -14
+p2
+aVKevin Seraphin NYK 04/12/2016 NYK @ IND L 11 4 2 4 50.0 0 0 - 0 0 - 0 5 5 1 0 2 0 3 0
+p3
+aVDerrick Williams NYK 04/12/2016 NYK @ IND L 32 21 8 11 72.7 4 7 57.1 1 1 100.0 0 1 1 2 1 0 3 2 -2
+p4
+aVArron Afflalo NYK 04/12/2016 NYK @ IND L 26 13 5 11 45.5 3 5 60.0 0 0 - 0 1 1 2 1 0 1 1 -5
+p5
+aVRobin Lopez NYK 04/12/2016 NYK @ IND L 22 8 4 8 50.0 0 0 - 0 0 - 2 4 6 3 0 1 1 0 -5
+p6
+aVSasha Vujacic NYK 04/12/2016 NYK @ IND L 22 4 2 8 25.0 0 3 0.0 0 0 - 0 4 4 6 0 0 1 2 1
+p7
+aVLangston Galloway NYK 04/12/2016 NYK @ IND L 35 9 3 12 25.0 0 4 0.0 3 3 100.0 1 1 2 5 2 1 0 1 -11
+p8
+aVJerian Grant NYK 04/12/2016 NYK @ IND L 39 18 7 11 63.6 2 4 50.0 2 3 66.7 0 6 6 6 2 1 5 2 -14
+p9
+aVKyle O'Quinn NYK 04/12/2016 NYK @ IND L 15 4 2 6 33.3 0 1 0.0 0 0 - 2 5 7 2 0 3 2 2 -7
+p10
+aVLou Amundson NYK 04/12/2016 NYK @ IND L 8 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 2 -3
+p11
+aVCarmelo Anthony NYK 04/10/2016 NYK vs. TOR L 25 21 7 16 43.8 1 1 100.0 6 6 100.0 1 5 6 3 0 1 2 3 -1
+p12
+aVDerrick Williams NYK 04/10/2016 NYK vs. TOR L 23 8 3 8 37.5 0 1 0.0 2 2 100.0 1 3 4 0 0 0 1 0 1
+p13
+aVKyle O'Quinn NYK 04/10/2016 NYK vs. TOR L 20 8 3 11 27.3 0 0 - 2 3 66.7 5 5 10 3 0 0 1 3 -4
+p14
+aVRobin Lopez NYK 04/10/2016 NYK vs. TOR L 28 10 4 10 40.0 0 0 - 2 2 100.0 3 2 5 1 0 1 1 0 0
+p15
+aVArron Afflalo NYK 04/10/2016 NYK vs. TOR L 23 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 0 -6
+p16
+aVSasha Vujacic NYK 04/10/2016 NYK vs. TOR L 35 13 4 11 36.4 3 7 42.9 2 2 100.0 0 8 8 1 0 1 0 3 0
+p17
+aVJerian Grant NYK 04/10/2016 NYK vs. TOR L 38 19 7 16 43.8 1 4 25.0 4 6 66.7 1 2 3 1 3 0 1 1 -4
+p18
+aVLangston Galloway NYK 04/10/2016 NYK vs. TOR L 27 7 3 10 30.0 1 4 25.0 0 0 - 1 2 3 4 0 0 1 3 -5
+p19
+aVCleanthony Early NYK 04/10/2016 NYK vs. TOR L 21 3 1 6 16.7 1 2 50.0 0 0 - 1 4 5 0 1 0 1 2 -1
+p20
+aVSasha Vujacic NYK 04/08/2016 NYK @ PHI W 32 16 6 7 85.7 2 3 66.7 2 2 100.0 0 5 5 4 2 0 0 3 4
+p21
+aVCarmelo Anthony NYK 04/08/2016 NYK @ PHI W 26 20 8 18 44.4 1 6 16.7 3 4 75.0 0 3 3 1 0 2 1 2 -7
+p22
+aVArron Afflalo NYK 04/08/2016 NYK @ PHI W 31 9 4 10 40.0 1 2 50.0 0 0 - 0 5 5 1 0 0 0 0 17
+p23
+aVRobin Lopez NYK 04/08/2016 NYK @ PHI W 28 24 9 17 52.9 0 0 - 6 12 50.0 8 7 15 1 0 3 2 4 -7
+p24
+aVLangston Galloway NYK 04/08/2016 NYK @ PHI W 31 2 1 8 12.5 0 1 0.0 0 0 - 1 3 4 3 2 0 1 2 21
+p25
+aVKyle O'Quinn NYK 04/08/2016 NYK @ PHI W 20 10 4 8 50.0 0 0 - 2 2 100.0 3 5 8 1 0 2 1 2 14
+p26
+aVCleanthony Early NYK 04/08/2016 NYK @ PHI W 17 1 0 2 0.0 0 1 0.0 1 2 50.0 0 5 5 1 0 1 0 6 10
+p27
+aVDerrick Williams NYK 04/08/2016 NYK @ PHI W 26 11 5 10 50.0 0 1 0.0 1 1 100.0 0 9 9 1 1 0 1 1 1
+p28
+aVJerian Grant NYK 04/08/2016 NYK @ PHI W 30 16 6 11 54.5 0 2 0.0 4 7 57.1 0 5 5 6 1 0 3 3 -18
+p29
+aVJerian Grant NYK 04/06/2016 NYK vs. CHA L 23 14 5 7 71.4 1 2 50.0 3 4 75.0 1 1 2 3 1 0 2 1 -4
+p30
+aVKevin Seraphin NYK 04/06/2016 NYK vs. CHA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p31
+aVArron Afflalo NYK 04/06/2016 NYK vs. CHA L 30 11 4 10 40.0 2 5 40.0 1 1 100.0 0 0 0 5 0 0 1 1 -8
+p32
+aVDerrick Williams NYK 04/06/2016 NYK vs. CHA L 32 17 7 15 46.7 1 4 25.0 2 2 100.0 3 7 10 1 0 0 2 1 -7
+p33
+aVCarmelo Anthony NYK 04/06/2016 NYK vs. CHA L 38 15 5 14 35.7 0 5 0.0 5 6 83.3 1 5 6 7 1 2 2 4 -3
+p34
+aVLangston Galloway NYK 04/06/2016 NYK vs. CHA L 25 10 4 9 44.4 2 3 66.7 0 0 - 0 3 3 3 2 0 1 1 -10
+p35
+aVLou Amundson NYK 04/06/2016 NYK vs. CHA L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 4 1 -4
+p36
+aVRobin Lopez NYK 04/06/2016 NYK vs. CHA L 35 8 3 6 50.0 0 0 - 2 2 100.0 3 4 7 3 1 2 3 2 -15
+p37
+aVKyle O'Quinn NYK 04/06/2016 NYK vs. CHA L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 5 5 0 0 2 0 3 1
+p38
+aVCleanthony Early NYK 04/06/2016 NYK vs. CHA L 11 4 2 3 66.7 0 1 0.0 0 0 - 1 3 4 0 0 0 1 0 -14
+p39
+aVSasha Vujacic NYK 04/06/2016 NYK vs. CHA L 25 16 6 9 66.7 4 5 80.0 0 0 - 1 3 4 2 0 0 2 2 -4
+p40
+aVArron Afflalo NYK 04/03/2016 NYK vs. IND L 34 15 5 15 33.3 0 4 0.0 5 5 100.0 2 6 8 2 1 1 2 3 -10
+p41
+aVCleanthony Early NYK 04/03/2016 NYK vs. IND L 17 2 0 6 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 1 1 2 -1
+p42
+aVRobin Lopez NYK 04/03/2016 NYK vs. IND L 35 10 5 16 31.3 0 0 - 0 0 - 10 5 15 3 0 6 1 2 7
+p43
+aVLangston Galloway NYK 04/03/2016 NYK vs. IND L 31 9 3 9 33.3 0 3 0.0 3 7 42.9 1 1 2 6 3 0 0 2 -5
+p44
+aVSasha Vujacic NYK 04/03/2016 NYK vs. IND L 32 21 7 15 46.7 5 10 50.0 2 2 100.0 1 2 3 3 2 0 3 3 -8
+p45
+aVKevin Seraphin NYK 04/03/2016 NYK vs. IND L 23 6 3 8 37.5 0 0 - 0 0 - 1 7 8 0 0 1 2 4 1
+p46
+aVJerian Grant NYK 04/03/2016 NYK vs. IND L 26 6 2 9 22.2 1 3 33.3 1 2 50.0 1 2 3 2 1 0 0 2 10
+p47
+aVDerrick Williams NYK 04/03/2016 NYK vs. IND L 28 12 5 13 38.5 1 3 33.3 1 2 50.0 0 6 6 2 0 0 1 0 -9
+p48
+aVKyle O'Quinn NYK 04/03/2016 NYK vs. IND L 12 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 0 0 0 0 -10
+p49
+aVJerian Grant NYK 04/01/2016 NYK vs. BKN W 29 14 6 13 46.2 2 4 50.0 0 0 - 1 2 3 4 0 1 2 2 2
+p50
+aVRobin Lopez NYK 04/01/2016 NYK vs. BKN W 29 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 2 0 4 3 0 2
+p51
+aVLou Amundson NYK 04/01/2016 NYK vs. BKN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p52
+aVKyle O'Quinn NYK 04/01/2016 NYK vs. BKN W 19 9 4 5 80.0 0 0 - 1 1 100.0 1 4 5 1 0 1 1 3 12
+p53
+aVCarmelo Anthony NYK 04/01/2016 NYK vs. BKN W 25 13 6 15 40.0 1 3 33.3 0 0 - 2 4 6 4 1 0 1 1 6
+p54
+aVArron Afflalo NYK 04/01/2016 NYK vs. BKN W 26 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 2 0 0 1 0 4
+p55
+aVKevin Seraphin NYK 04/01/2016 NYK vs. BKN W 22 12 5 9 55.6 0 1 0.0 2 2 100.0 0 7 7 0 1 0 2 3 12
+p56
+aVLangston Galloway NYK 04/01/2016 NYK vs. BKN W 24 18 7 11 63.6 4 6 66.7 0 0 - 0 6 6 7 1 1 3 0 9
+p57
+aVCleanthony Early NYK 04/01/2016 NYK vs. BKN W 23 7 3 10 30.0 1 2 50.0 0 0 - 1 5 6 3 0 0 3 1 8
+p58
+aVDerrick Williams NYK 04/01/2016 NYK vs. BKN W 24 16 5 8 62.5 4 4 100.0 2 2 100.0 0 1 1 1 0 0 0 2 -2
+p59
+aVSasha Vujacic NYK 04/01/2016 NYK vs. BKN W 17 5 2 3 66.7 1 1 100.0 0 0 - 2 3 5 0 0 1 1 0 13
+p60
+aVRobin Lopez NYK 03/30/2016 NYK @ DAL L 31 8 4 6 66.7 0 0 - 0 0 - 3 6 9 2 0 0 2 2 10
+p61
+aVKyle O'Quinn NYK 03/30/2016 NYK @ DAL L 17 8 4 8 50.0 0 0 - 0 0 - 1 3 4 1 1 0 1 2 -11
+p62
+aVLangston Galloway NYK 03/30/2016 NYK @ DAL L 22 3 1 8 12.5 0 3 0.0 1 1 100.0 0 2 2 3 2 0 2 3 -15
+p63
+aVSasha Vujacic NYK 03/30/2016 NYK @ DAL L 24 7 3 5 60.0 1 2 50.0 0 0 - 0 5 5 2 1 0 1 2 7
+p64
+aVKevin Seraphin NYK 03/30/2016 NYK @ DAL L 14 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 2 0 1 -9
+p65
+aVJose Calderon NYK 03/30/2016 NYK @ DAL L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 10
+p66
+aVArron Afflalo NYK 03/30/2016 NYK @ DAL L 31 3 1 7 14.3 0 3 0.0 1 2 50.0 1 2 3 0 1 0 3 3 -16
+p67
+aVJerian Grant NYK 03/30/2016 NYK @ DAL L 23 6 2 6 33.3 0 3 0.0 2 2 100.0 0 2 2 3 3 0 0 2 -7
+p68
+aVCarmelo Anthony NYK 03/30/2016 NYK @ DAL L 34 31 11 22 50.0 2 6 33.3 7 7 100.0 1 6 7 2 3 0 5 2 9
+p69
+aVDerrick Williams NYK 03/30/2016 NYK @ DAL L 35 15 5 8 62.5 0 0 - 5 6 83.3 3 5 8 2 0 0 4 1 12
+p70
+aVKristaps Porzingis NYK 03/28/2016 NYK @ NOP L 35 16 4 10 40.0 2 4 50.0 6 8 75.0 1 9 10 2 2 3 1 2 -1
+p71
+aVKevin Seraphin NYK 03/28/2016 NYK @ NOP L 11 4 2 6 33.3 0 0 - 0 0 - 0 4 4 0 0 0 0 2 -6
+p72
+aVCarmelo Anthony NYK 03/28/2016 NYK @ NOP L 36 22 9 22 40.9 4 11 36.4 0 0 - 0 5 5 6 0 0 4 4 -7
+p73
+aVKyle O'Quinn NYK 03/28/2016 NYK @ NOP L 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 0
+p74
+aVArron Afflalo NYK 03/28/2016 NYK @ NOP L 28 5 2 9 22.2 1 3 33.3 0 0 - 0 2 2 1 0 0 2 6 -17
+p75
+aVJose Calderon NYK 03/28/2016 NYK @ NOP L 30 9 3 7 42.9 3 6 50.0 0 0 - 1 6 7 6 2 0 1 4 -2
+p76
+aVRobin Lopez NYK 03/28/2016 NYK @ NOP L 30 17 8 12 66.7 0 0 - 1 3 33.3 3 2 5 2 0 2 3 1 1
+p77
+aVDerrick Williams NYK 03/28/2016 NYK @ NOP L 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 1
+p78
+aVLangston Galloway NYK 03/28/2016 NYK @ NOP L 22 8 3 8 37.5 0 4 0.0 2 2 100.0 0 2 2 4 4 0 0 3 0
+p79
+aVJerian Grant NYK 03/28/2016 NYK @ NOP L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 2 -5
+p80
+aVSasha Vujacic NYK 03/28/2016 NYK @ NOP L 18 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 2 1 0 1 2 -4
+p81
+aVArron Afflalo NYK 03/26/2016 NYK vs. CLE L 27 5 2 4 50.0 0 1 0.0 1 5 20.0 0 3 3 1 0 0 0 1 -9
+p82
+aVRobin Lopez NYK 03/26/2016 NYK vs. CLE L 26 8 4 8 50.0 0 0 - 0 0 - 2 4 6 0 0 0 0 3 -5
+p83
+aVJerian Grant NYK 03/26/2016 NYK vs. CLE L 8 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -16
+p84
+aVLangston Galloway NYK 03/26/2016 NYK vs. CLE L 19 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 4 0 0 1 3 4
+p85
+aVSasha Vujacic NYK 03/26/2016 NYK vs. CLE L 21 9 4 6 66.7 1 2 50.0 0 0 - 1 4 5 1 0 0 1 1 -7
+p86
+aVLou Amundson NYK 03/26/2016 NYK vs. CLE L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p87
+aVJose Calderon NYK 03/26/2016 NYK vs. CLE L 21 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 7 1 0 0 4 -2
+p88
+aVKristaps Porzingis NYK 03/26/2016 NYK vs. CLE L 41 19 7 16 43.8 1 5 20.0 4 6 66.7 3 3 6 3 1 0 2 2 -11
+p89
+aVDerrick Williams NYK 03/26/2016 NYK vs. CLE L 24 11 2 7 28.6 0 1 0.0 7 9 77.8 1 7 8 2 1 0 1 2 -5
+p90
+aVKevin Seraphin NYK 03/26/2016 NYK vs. CLE L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -11
+p91
+aVCarmelo Anthony NYK 03/26/2016 NYK vs. CLE L 39 28 9 24 37.5 5 9 55.6 5 6 83.3 2 7 9 1 2 0 1 5 -10
+p92
+aVSasha Vujacic NYK 03/24/2016 NYK vs. CHI W 19 9 3 5 60.0 3 3 100.0 0 0 - 0 1 1 3 2 0 2 1 8
+p93
+aVRobin Lopez NYK 03/24/2016 NYK vs. CHI W 34 4 2 4 50.0 0 0 - 0 0 - 0 7 7 1 0 3 4 2 14
+p94
+aVJose Calderon NYK 03/24/2016 NYK vs. CHI W 33 12 4 9 44.4 3 5 60.0 1 2 50.0 1 6 7 7 1 0 2 3 17
+p95
+aVKevin Seraphin NYK 03/24/2016 NYK vs. CHI W 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 2 1 0 -3
+p96
+aVJerian Grant NYK 03/24/2016 NYK vs. CHI W 12 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p97
+aVArron Afflalo NYK 03/24/2016 NYK vs. CHI W 29 11 5 9 55.6 1 2 50.0 0 0 - 0 3 3 2 0 0 2 0 4
+p98
+aVKristaps Porzingis NYK 03/24/2016 NYK vs. CHI W 35 19 7 15 46.7 2 5 40.0 3 3 100.0 1 9 10 0 0 3 1 2 14
+p99
+aVLangston Galloway NYK 03/24/2016 NYK vs. CHI W 16 6 1 2 50.0 0 1 0.0 4 4 100.0 0 4 4 1 0 1 0 1 -10
+p100
+aVCarmelo Anthony NYK 03/24/2016 NYK vs. CHI W 35 26 9 17 52.9 3 9 33.3 5 5 100.0 2 5 7 4 1 0 2 2 17
+p101
+aVDerrick Williams NYK 03/24/2016 NYK vs. CHI W 17 13 5 8 62.5 1 3 33.3 2 2 100.0 0 3 3 0 0 0 2 1 -1
+p102
+aVKevin Seraphin NYK 03/23/2016 NYK @ CHI W 12 2 0 2 0.0 0 0 - 2 2 100.0 0 5 5 2 1 1 1 1 -8
+p103
+aVLangston Galloway NYK 03/23/2016 NYK @ CHI W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p104
+aVJose Calderon NYK 03/23/2016 NYK @ CHI W 37 11 3 6 50.0 2 4 50.0 3 4 75.0 0 4 4 8 1 0 0 1 12
+p105
+aVRobin Lopez NYK 03/23/2016 NYK @ CHI W 33 11 5 11 45.5 0 0 - 1 1 100.0 9 4 13 3 0 4 0 2 13
+p106
+aVJerian Grant NYK 03/23/2016 NYK @ CHI W 17 8 3 5 60.0 2 3 66.7 0 0 - 1 2 3 0 0 0 2 1 -5
+p107
+aVDerrick Williams NYK 03/23/2016 NYK @ CHI W 15 10 5 7 71.4 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 0
+p108
+aVCarmelo Anthony NYK 03/23/2016 NYK @ CHI W 39 24 10 22 45.5 4 6 66.7 0 1 0.0 0 3 3 5 0 0 3 2 6
+p109
+aVSasha Vujacic NYK 03/23/2016 NYK @ CHI W 13 6 2 2 100.0 2 2 100.0 0 0 - 0 5 5 1 1 1 0 2 14
+p110
+aVKristaps Porzingis NYK 03/23/2016 NYK @ CHI W 31 29 11 16 68.8 3 6 50.0 4 6 66.7 2 8 10 1 0 0 3 5 12
+p111
+aVArron Afflalo NYK 03/23/2016 NYK @ CHI W 35 12 5 13 38.5 1 3 33.3 1 1 100.0 1 7 8 7 0 0 1 1 -6
+p112
+aVLangston Galloway NYK 03/20/2016 NYK vs. SAC L 23 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 2 1 0 1 2 -14
+p113
+aVJose Calderon NYK 03/20/2016 NYK vs. SAC L 33 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 4 1 0 2 1 4
+p114
+aVArron Afflalo NYK 03/20/2016 NYK vs. SAC L 31 6 2 8 25.0 1 3 33.3 1 1 100.0 2 4 6 0 0 0 3 2 9
+p115
+aVSasha Vujacic NYK 03/20/2016 NYK vs. SAC L 13 0 0 5 0.0 0 3 0.0 0 0 - 3 3 6 2 0 0 1 1 -6
+p116
+aVCleanthony Early NYK 03/20/2016 NYK vs. SAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p117
+aVJerian Grant NYK 03/20/2016 NYK vs. SAC L 27 14 6 15 40.0 2 5 40.0 0 0 - 0 1 1 2 2 1 3 1 -2
+p118
+aVLou Amundson NYK 03/20/2016 NYK vs. SAC L 8 0 0 3 0.0 0 0 - 0 0 - 2 0 2 2 0 1 0 1 -6
+p119
+aVDerrick Williams NYK 03/20/2016 NYK vs. SAC L 22 11 4 9 44.4 0 1 0.0 3 3 100.0 0 3 3 2 0 1 1 2 -15
+p120
+aVRobin Lopez NYK 03/20/2016 NYK vs. SAC L 38 23 9 20 45.0 0 0 - 5 7 71.4 7 13 20 0 1 2 2 2 -1
+p121
+aVKyle O'Quinn NYK 03/20/2016 NYK vs. SAC L 10 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 0 1 -7
+p122
+aVKristaps Porzingis NYK 03/20/2016 NYK vs. SAC L 35 13 6 17 35.3 0 4 0.0 1 2 50.0 2 5 7 2 0 2 1 3 -2
+p123
+aVDerrick Williams NYK 03/19/2016 NYK @ WAS L 18 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 3 0 0 2 1 4
+p124
+aVKristaps Porzingis NYK 03/19/2016 NYK @ WAS L 39 20 7 14 50.0 2 3 66.7 4 4 100.0 3 4 7 2 0 3 5 3 -11
+p125
+aVJose Calderon NYK 03/19/2016 NYK @ WAS L 24 10 4 8 50.0 2 3 66.7 0 0 - 0 1 1 2 0 0 1 3 -15
+p126
+aVArron Afflalo NYK 03/19/2016 NYK @ WAS L 35 10 3 10 30.0 2 3 66.7 2 2 100.0 0 3 3 1 0 0 3 2 -5
+p127
+aVSasha Vujacic NYK 03/19/2016 NYK @ WAS L 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -5
+p128
+aVRobin Lopez NYK 03/19/2016 NYK @ WAS L 34 9 3 6 50.0 0 0 - 3 4 75.0 5 2 7 2 0 3 0 1 -12
+p129
+aVKevin Seraphin NYK 03/19/2016 NYK @ WAS L 14 6 2 4 50.0 0 0 - 2 2 100.0 1 8 9 1 0 1 1 3 2
+p130
+aVJerian Grant NYK 03/19/2016 NYK @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p131
+aVLangston Galloway NYK 03/19/2016 NYK @ WAS L 20 9 4 10 40.0 1 3 33.3 0 1 0.0 0 2 2 4 1 2 0 2 7
+p132
+aVCarmelo Anthony NYK 03/19/2016 NYK @ WAS L 40 20 7 21 33.3 2 6 33.3 4 4 100.0 0 7 7 5 1 0 3 2 -13
+p133
+aVJose Calderon NYK 03/16/2016 NYK @ GSW L 15 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -19
+p134
+aVKevin Seraphin NYK 03/16/2016 NYK @ GSW L 19 12 5 10 50.0 0 0 - 2 2 100.0 2 1 3 3 0 0 0 0 -1
+p135
+aVDerrick Williams NYK 03/16/2016 NYK @ GSW L 14 6 2 3 66.7 1 1 100.0 1 2 50.0 0 2 2 2 0 0 0 0 -23
+p136
+aVLangston Galloway NYK 03/16/2016 NYK @ GSW L 33 14 6 13 46.2 2 4 50.0 0 0 - 0 3 3 4 1 0 1 2 -17
+p137
+aVKristaps Porzingis NYK 03/16/2016 NYK @ GSW L 26 2 1 11 9.1 0 2 0.0 0 0 - 0 7 7 3 0 1 2 2 -24
+p138
+aVRobin Lopez NYK 03/16/2016 NYK @ GSW L 14 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 1 0 2 0 -19
+p139
+aVSasha Vujacic NYK 03/16/2016 NYK @ GSW L 21 4 2 8 25.0 0 3 0.0 0 0 - 1 3 4 1 1 0 1 0 -9
+p140
+aVKyle O'Quinn NYK 03/16/2016 NYK @ GSW L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -12
+p141
+aVArron Afflalo NYK 03/16/2016 NYK @ GSW L 35 15 7 14 50.0 1 2 50.0 0 2 0.0 1 1 2 4 1 0 0 1 -24
+p142
+aVJerian Grant NYK 03/16/2016 NYK @ GSW L 19 8 4 8 50.0 0 3 0.0 0 0 - 1 2 3 2 2 0 0 0 -8
+p143
+aVCarmelo Anthony NYK 03/16/2016 NYK @ GSW L 30 18 7 13 53.8 3 4 75.0 1 2 50.0 1 5 6 6 0 0 2 3 -20
+p144
+aVLou Amundson NYK 03/16/2016 NYK @ GSW L 8 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 1 0 2 1 1 -4
+p145
+aVRobin Lopez NYK 03/13/2016 NYK @ LAL W 36 16 6 7 85.7 0 0 - 4 5 80.0 1 7 8 2 0 2 3 1 9
+p146
+aVKyle O'Quinn NYK 03/13/2016 NYK @ LAL W 12 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -6
+p147
+aVJose Calderon NYK 03/13/2016 NYK @ LAL W 35 9 4 7 57.1 1 3 33.3 0 0 - 0 3 3 6 1 0 2 3 6
+p148
+aVSasha Vujacic NYK 03/13/2016 NYK @ LAL W 18 5 1 8 12.5 1 7 14.3 2 2 100.0 0 2 2 1 1 0 0 2 8
+p149
+aVJerian Grant NYK 03/13/2016 NYK @ LAL W 13 6 2 6 33.3 0 1 0.0 2 2 100.0 1 1 2 1 0 0 0 0 -3
+p150
+aVLangston Galloway NYK 03/13/2016 NYK @ LAL W 29 9 3 5 60.0 1 3 33.3 2 4 50.0 0 3 3 2 1 1 2 0 -10
+p151
+aVDerrick Williams NYK 03/13/2016 NYK @ LAL W 32 8 3 10 30.0 0 1 0.0 2 6 33.3 0 9 9 1 2 1 0 2 9
+p152
+aVArron Afflalo NYK 03/13/2016 NYK @ LAL W 27 9 3 9 33.3 0 2 0.0 3 4 75.0 0 3 3 2 0 0 1 1 -3
+p153
+aVCarmelo Anthony NYK 03/13/2016 NYK @ LAL W 38 26 10 20 50.0 2 4 50.0 4 4 100.0 3 9 12 4 0 1 1 5 5
+p154
+aVJose Calderon NYK 03/11/2016 NYK @ LAC L 38 2 1 7 14.3 0 5 0.0 0 0 - 0 4 4 7 1 0 1 6 -7
+p155
+aVLangston Galloway NYK 03/11/2016 NYK @ LAC L 21 3 1 7 14.3 1 2 50.0 0 0 - 2 3 5 2 2 1 2 3 -3
+p156
+aVCarmelo Anthony NYK 03/11/2016 NYK @ LAC L 43 20 8 16 50.0 1 3 33.3 3 3 100.0 0 6 6 4 1 0 3 4 -7
+p157
+aVJerian Grant NYK 03/11/2016 NYK @ LAC L 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 3
+p158
+aVRobin Lopez NYK 03/11/2016 NYK @ LAC L 44 20 9 15 60.0 0 0 - 2 2 100.0 10 9 19 2 1 1 5 1 -7
+p159
+aVDerrick Williams NYK 03/11/2016 NYK @ LAC L 16 13 4 9 44.4 0 1 0.0 5 7 71.4 2 4 6 1 0 0 0 0 -4
+p160
+aVKyle O'Quinn NYK 03/11/2016 NYK @ LAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -2
+p161
+aVSasha Vujacic NYK 03/11/2016 NYK @ LAC L 28 9 3 7 42.9 1 5 20.0 2 2 100.0 0 2 2 3 0 0 0 2 -6
+p162
+aVKristaps Porzingis NYK 03/11/2016 NYK @ LAC L 31 23 6 17 35.3 1 4 25.0 10 11 90.9 0 4 4 2 1 1 1 3 -2
+p163
+aVJose Calderon NYK 03/09/2016 NYK @ PHX W 34 10 4 6 66.7 2 3 66.7 0 0 - 0 2 2 12 2 0 1 1 30
+p164
+aVLou Amundson NYK 03/09/2016 NYK @ PHX W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p165
+aVDerrick Williams NYK 03/09/2016 NYK @ PHX W 18 18 8 10 80.0 2 3 66.7 0 0 - 0 1 1 2 1 0 1 0 24
+p166
+aVCarmelo Anthony NYK 03/09/2016 NYK @ PHX W 31 23 9 15 60.0 3 4 75.0 2 3 66.7 1 6 7 1 1 1 2 0 9
+p167
+aVLangston Galloway NYK 03/09/2016 NYK @ PHX W 24 8 3 8 37.5 2 3 66.7 0 0 - 0 6 6 4 0 2 0 3 19
+p168
+aVSasha Vujacic NYK 03/09/2016 NYK @ PHX W 33 23 7 8 87.5 6 7 85.7 3 4 75.0 0 5 5 1 1 0 2 4 9
+p169
+aVKyle O'Quinn NYK 03/09/2016 NYK @ PHX W 11 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 4 1 0 1 2 16
+p170
+aVJerian Grant NYK 03/09/2016 NYK @ PHX W 28 14 6 9 66.7 0 1 0.0 2 2 100.0 0 3 3 4 2 0 2 2 18
+p171
+aVKevin Seraphin NYK 03/09/2016 NYK @ PHX W 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -2
+p172
+aVRobin Lopez NYK 03/09/2016 NYK @ PHX W 30 13 5 10 50.0 0 0 - 3 4 75.0 4 4 8 3 0 5 0 2 7
+p173
+aVKristaps Porzingis NYK 03/09/2016 NYK @ PHX W 22 13 2 10 20.0 1 3 33.3 8 9 88.9 1 4 5 0 0 0 1 4 27
+p174
+aVKristaps Porzingis NYK 03/08/2016 NYK @ DEN L 20 6 3 11 27.3 0 3 0.0 0 0 - 0 5 5 3 1 2 3 3 -8
+p175
+aVJerian Grant NYK 03/08/2016 NYK @ DEN L 22 7 1 2 50.0 0 1 0.0 5 6 83.3 0 7 7 2 0 1 2 4 -10
+p176
+aVCarmelo Anthony NYK 03/08/2016 NYK @ DEN L 39 30 9 18 50.0 1 4 25.0 11 11 100.0 2 5 7 4 0 3 4 2 -17
+p177
+aVKevin Seraphin NYK 03/08/2016 NYK @ DEN L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 1 1 3 2
+p178
+aVDerrick Williams NYK 03/08/2016 NYK @ DEN L 21 15 5 10 50.0 3 4 75.0 2 2 100.0 1 3 4 3 0 0 1 0 -9
+p179
+aVLangston Galloway NYK 03/08/2016 NYK @ DEN L 27 7 2 7 28.6 1 2 50.0 2 5 40.0 0 3 3 1 0 0 3 3 0
+p180
+aVArron Afflalo NYK 03/08/2016 NYK @ DEN L 36 9 3 8 37.5 1 2 50.0 2 2 100.0 0 4 4 2 0 0 0 1 -12
+p181
+aVJose Calderon NYK 03/08/2016 NYK @ DEN L 26 6 3 5 60.0 0 1 0.0 0 0 - 1 3 4 4 0 1 0 1 -6
+p182
+aVRobin Lopez NYK 03/08/2016 NYK @ DEN L 17 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -18
+p183
+aVKyle O'Quinn NYK 03/08/2016 NYK @ DEN L 18 10 5 8 62.5 0 1 0.0 0 0 - 2 3 5 1 0 1 1 2 -2
+p184
+aVSasha Vujacic NYK 03/05/2016 NYK vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p185
+aVCarmelo Anthony NYK 03/05/2016 NYK vs. DET W 41 24 11 19 57.9 1 4 25.0 1 2 50.0 0 10 10 6 1 1 2 2 10
+p186
+aVRobin Lopez NYK 03/05/2016 NYK vs. DET W 32 21 9 12 75.0 0 0 - 3 3 100.0 4 5 9 2 0 1 4 2 12
+p187
+aVKyle O'Quinn NYK 03/05/2016 NYK vs. DET W 16 10 5 8 62.5 0 0 - 0 0 - 2 2 4 0 0 3 2 2 1
+p188
+aVJose Calderon NYK 03/05/2016 NYK vs. DET W 34 7 2 5 40.0 1 2 50.0 2 2 100.0 0 4 4 4 1 0 0 2 16
+p189
+aVArron Afflalo NYK 03/05/2016 NYK vs. DET W 42 20 9 12 75.0 1 2 50.0 1 2 50.0 0 7 7 3 0 0 1 1 18
+p190
+aVLangston Galloway NYK 03/05/2016 NYK vs. DET W 14 3 0 3 0.0 0 2 0.0 3 4 75.0 0 2 2 1 0 0 0 0 -3
+p191
+aVDerrick Williams NYK 03/05/2016 NYK vs. DET W 19 10 3 8 37.5 0 2 0.0 4 5 80.0 0 3 3 0 1 0 0 3 -5
+p192
+aVJerian Grant NYK 03/05/2016 NYK vs. DET W 17 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 2 1 0 1 0 5
+p193
+aVLance Thomas NYK 03/05/2016 NYK vs. DET W 24 4 2 8 25.0 0 2 0.0 0 0 - 2 5 7 1 0 0 0 2 13
+p194
+aVKristaps Porzingis NYK 03/04/2016 NYK @ BOS L 20 15 6 14 42.9 1 3 33.3 2 4 50.0 3 2 5 2 0 0 0 1 8
+p195
+aVDerrick Williams NYK 03/04/2016 NYK @ BOS L 5 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 -8
+p196
+aVKyle O'Quinn NYK 03/04/2016 NYK @ BOS L 8 6 3 4 75.0 0 0 - 0 0 - 0 4 4 3 1 1 0 2 8
+p197
+aVLance Thomas NYK 03/04/2016 NYK @ BOS L 30 2 1 5 20.0 0 1 0.0 0 0 - 0 5 5 2 0 0 0 5 5
+p198
+aVArron Afflalo NYK 03/04/2016 NYK @ BOS L 39 17 7 11 63.6 3 6 50.0 0 0 - 0 1 1 3 0 0 3 1 -6
+p199
+aVJerian Grant NYK 03/04/2016 NYK @ BOS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -4
+p200
+aVJose Calderon NYK 03/04/2016 NYK @ BOS L 38 13 5 10 50.0 2 2 100.0 1 1 100.0 0 5 5 5 0 0 1 3 5
+p201
+aVLangston Galloway NYK 03/04/2016 NYK @ BOS L 24 4 1 7 14.3 0 2 0.0 2 2 100.0 1 4 5 2 1 0 2 3 -1
+p202
+aVRobin Lopez NYK 03/04/2016 NYK @ BOS L 32 12 4 10 40.0 0 0 - 4 5 80.0 4 8 12 0 0 2 1 1 -14
+p203
+aVCarmelo Anthony NYK 03/04/2016 NYK @ BOS L 40 30 13 27 48.1 2 8 25.0 2 2 100.0 2 5 7 4 1 0 1 1 2
+p204
+aVDerrick Williams NYK 03/01/2016 NYK vs. POR L 17 5 2 7 28.6 0 0 - 1 3 33.3 2 3 5 1 1 0 0 0 -17
+p205
+aVLance Thomas NYK 03/01/2016 NYK vs. POR L 23 5 2 10 20.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 0 -5
+p206
+aVSasha Vujacic NYK 03/01/2016 NYK vs. POR L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p207
+aVArron Afflalo NYK 03/01/2016 NYK vs. POR L 36 13 6 9 66.7 1 1 100.0 0 0 - 1 5 6 1 0 0 0 0 -7
+p208
+aVJimmer Fredette NYK 03/01/2016 NYK vs. POR L 3 4 0 0 - 0 0 - 4 5 80.0 0 0 0 0 0 0 0 0 -3
+p209
+aVJerian Grant NYK 03/01/2016 NYK vs. POR L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -8
+p210
+aVLangston Galloway NYK 03/01/2016 NYK vs. POR L 21 0 0 7 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 3 -13
+p211
+aVKyle O'Quinn NYK 03/01/2016 NYK vs. POR L 25 11 3 10 30.0 2 3 66.7 3 4 75.0 1 8 9 1 0 0 2 2 -14
+p212
+aVKristaps Porzingis NYK 03/01/2016 NYK vs. POR L 25 11 4 10 40.0 1 2 50.0 2 3 66.7 0 7 7 1 1 3 1 5 -9
+p213
+aVRobin Lopez NYK 03/01/2016 NYK vs. POR L 19 8 4 5 80.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 -3
+p214
+aVJose Calderon NYK 03/01/2016 NYK vs. POR L 25 5 2 8 25.0 1 5 20.0 0 0 - 0 2 2 2 0 0 3 2 -5
+p215
+aVCarmelo Anthony NYK 03/01/2016 NYK vs. POR L 34 23 10 20 50.0 0 3 0.0 3 3 100.0 2 8 10 4 1 1 1 2 -9
+p216
+aVCarmelo Anthony NYK 02/28/2016 NYK vs. MIA L 41 25 9 24 37.5 1 2 50.0 6 7 85.7 1 6 7 4 0 1 3 4 -13
+p217
+aVSasha Vujacic NYK 02/28/2016 NYK vs. MIA L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -1
+p218
+aVDerrick Williams NYK 02/28/2016 NYK vs. MIA L 12 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 0 0 1 1 0 -9
+p219
+aVRobin Lopez NYK 02/28/2016 NYK vs. MIA L 36 14 6 9 66.7 0 0 - 2 2 100.0 6 8 14 2 0 3 1 2 -8
+p220
+aVJerian Grant NYK 02/28/2016 NYK vs. MIA L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -8
+p221
+aVJose Calderon NYK 02/28/2016 NYK vs. MIA L 40 7 3 13 23.1 1 3 33.3 0 0 - 0 0 0 3 1 0 4 2 -1
+p222
+aVKristaps Porzingis NYK 02/28/2016 NYK vs. MIA L 22 9 4 13 30.8 1 3 33.3 0 0 - 2 6 8 1 0 4 0 4 -17
+p223
+aVLance Thomas NYK 02/28/2016 NYK vs. MIA L 33 12 4 9 44.4 2 2 100.0 2 2 100.0 0 3 3 1 1 0 1 4 -4
+p224
+aVLangston Galloway NYK 02/28/2016 NYK vs. MIA L 35 7 3 10 30.0 1 4 25.0 0 0 - 3 2 5 4 4 0 0 3 -24
+p225
+aVKyle O'Quinn NYK 02/26/2016 NYK vs. ORL W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 5
+p226
+aVJerian Grant NYK 02/26/2016 NYK vs. ORL W 16 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 3 1 0 1 1 10
+p227
+aVJose Calderon NYK 02/26/2016 NYK vs. ORL W 31 14 6 8 75.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 2 3 1
+p228
+aVArron Afflalo NYK 02/26/2016 NYK vs. ORL W 32 14 5 11 45.5 2 4 50.0 2 2 100.0 0 12 12 3 1 0 1 0 6
+p229
+aVRobin Lopez NYK 02/26/2016 NYK vs. ORL W 31 14 5 9 55.6 0 0 - 4 4 100.0 4 4 8 0 1 2 1 3 -3
+p230
+aVDerrick Williams NYK 02/26/2016 NYK vs. ORL W 21 11 2 4 50.0 0 2 0.0 7 8 87.5 0 3 3 0 0 0 1 1 5
+p231
+aVLangston Galloway NYK 02/26/2016 NYK vs. ORL W 17 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 9
+p232
+aVKristaps Porzingis NYK 02/26/2016 NYK vs. ORL W 25 18 7 15 46.7 0 3 0.0 4 4 100.0 2 4 6 2 2 2 0 1 12
+p233
+aVLance Thomas NYK 02/26/2016 NYK vs. ORL W 26 11 2 3 66.7 1 1 100.0 6 9 66.7 1 2 3 1 1 0 1 1 12
+p234
+aVCarmelo Anthony NYK 02/26/2016 NYK vs. ORL W 36 19 7 22 31.8 0 3 0.0 5 7 71.4 3 8 11 6 1 0 3 2 8
+p235
+aVArron Afflalo NYK 02/24/2016 NYK @ IND L 24 4 1 6 16.7 0 2 0.0 2 2 100.0 0 5 5 3 0 0 2 1 -10
+p236
+aVJose Calderon NYK 02/24/2016 NYK @ IND L 33 20 6 10 60.0 4 4 100.0 4 4 100.0 0 4 4 4 1 0 0 0 -6
+p237
+aVRobin Lopez NYK 02/24/2016 NYK @ IND L 25 4 2 3 66.7 0 0 - 0 0 - 2 5 7 1 0 3 2 2 -14
+p238
+aVLance Thomas NYK 02/24/2016 NYK @ IND L 32 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 4 0 0 3 3 13
+p239
+aVSasha Vujacic NYK 02/24/2016 NYK @ IND L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 1 0 7
+p240
+aVCarmelo Anthony NYK 02/24/2016 NYK @ IND L 35 14 5 20 25.0 1 4 25.0 3 4 75.0 1 6 7 3 1 0 1 4 -14
+p241
+aVKyle O'Quinn NYK 02/24/2016 NYK @ IND L 16 19 7 10 70.0 2 2 100.0 3 3 100.0 3 3 6 0 0 1 0 0 10
+p242
+aVLangston Galloway NYK 02/24/2016 NYK @ IND L 29 17 5 9 55.6 3 5 60.0 4 4 100.0 1 5 6 4 0 0 3 5 3
+p243
+aVKristaps Porzingis NYK 02/24/2016 NYK @ IND L 36 22 7 14 50.0 2 7 28.6 6 8 75.0 0 2 2 1 2 1 1 2 -4
+p244
+aVJose Calderon NYK 02/22/2016 NYK vs. TOR L 19 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 2 -21
+p245
+aVRobin Lopez NYK 02/22/2016 NYK vs. TOR L 28 21 10 14 71.4 0 0 - 1 1 100.0 7 6 13 0 1 0 0 2 -7
+p246
+aVKyle O'Quinn NYK 02/22/2016 NYK vs. TOR L 9 0 0 3 0.0 0 0 - 0 2 0.0 1 2 3 1 0 1 0 2 -10
+p247
+aVKristaps Porzingis NYK 02/22/2016 NYK vs. TOR L 33 17 7 14 50.0 2 6 33.3 1 1 100.0 0 2 2 1 0 0 0 2 -27
+p248
+aVLangston Galloway NYK 02/22/2016 NYK vs. TOR L 25 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 5 2
+p249
+aVCarmelo Anthony NYK 02/22/2016 NYK vs. TOR L 37 23 8 17 47.1 1 2 50.0 6 10 60.0 1 10 11 5 0 0 3 1 -18
+p250
+aVDerrick Williams NYK 02/22/2016 NYK vs. TOR L 14 6 2 3 66.7 0 1 0.0 2 4 50.0 0 0 0 0 1 0 1 0 -16
+p251
+aVArron Afflalo NYK 02/22/2016 NYK vs. TOR L 33 7 3 11 27.3 0 2 0.0 1 1 100.0 1 4 5 2 0 1 0 4 -22
+p252
+aVSasha Vujacic NYK 02/22/2016 NYK vs. TOR L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p253
+aVLance Thomas NYK 02/22/2016 NYK vs. TOR L 21 9 3 9 33.3 1 3 33.3 2 2 100.0 1 0 1 1 0 0 0 1 0
+p254
+aVJerian Grant NYK 02/22/2016 NYK vs. TOR L 12 9 3 5 60.0 1 2 50.0 2 2 100.0 1 0 1 4 0 1 1 0 -9
+p255
+aVJimmer Fredette NYK 02/22/2016 NYK vs. TOR L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p256
+aVLance Thomas NYK 02/20/2016 NYK @ MIN W 26 11 5 10 50.0 1 3 33.3 0 0 - 1 4 5 1 0 0 0 2 3
+p257
+aVKristaps Porzingis NYK 02/20/2016 NYK @ MIN W 12 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 0 1 1 1 4 10
+p258
+aVDerrick Williams NYK 02/20/2016 NYK @ MIN W 11 4 1 2 50.0 0 0 - 2 3 66.7 0 2 2 0 0 0 2 0 -8
+p259
+aVRobin Lopez NYK 02/20/2016 NYK @ MIN W 36 26 11 14 78.6 0 0 - 4 4 100.0 8 8 16 0 0 3 5 5 10
+p260
+aVCarmelo Anthony NYK 02/20/2016 NYK @ MIN W 41 30 12 23 52.2 0 3 0.0 6 7 85.7 2 9 11 4 0 0 2 1 15
+p261
+aVJose Calderon NYK 02/20/2016 NYK @ MIN W 35 9 4 8 50.0 1 4 25.0 0 0 - 0 6 6 3 0 0 2 2 8
+p262
+aVLangston Galloway NYK 02/20/2016 NYK @ MIN W 23 6 3 7 42.9 0 2 0.0 0 0 - 0 4 4 2 1 0 0 0 -1
+p263
+aVArron Afflalo NYK 02/20/2016 NYK @ MIN W 39 11 4 10 40.0 3 5 60.0 0 0 - 0 4 4 3 1 0 3 1 1
+p264
+aVSasha Vujacic NYK 02/20/2016 NYK @ MIN W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 5
+p265
+aVKyle O'Quinn NYK 02/20/2016 NYK @ MIN W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 3 1 3 -3
+p266
+aVRobin Lopez NYK 02/19/2016 NYK @ BKN L 31 10 4 9 44.4 0 1 0.0 2 2 100.0 3 4 7 0 0 0 0 1 -13
+p267
+aVLangston Galloway NYK 02/19/2016 NYK @ BKN L 26 9 4 8 50.0 1 4 25.0 0 1 0.0 0 5 5 4 1 0 0 3 6
+p268
+aVArron Afflalo NYK 02/19/2016 NYK @ BKN L 39 17 6 9 66.7 3 4 75.0 2 2 100.0 0 2 2 2 1 0 2 1 -8
+p269
+aVDerrick Williams NYK 02/19/2016 NYK @ BKN L 11 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 1 0 0 1 0 -8
+p270
+aVKevin Seraphin NYK 02/19/2016 NYK @ BKN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p271
+aVJerian Grant NYK 02/19/2016 NYK @ BKN L 16 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 3 0 0 2 2 3
+p272
+aVLance Thomas NYK 02/19/2016 NYK @ BKN L 11 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 2 2 -3
+p273
+aVKyle O'Quinn NYK 02/19/2016 NYK @ BKN L 7 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 1 -10
+p274
+aVKristaps Porzingis NYK 02/19/2016 NYK @ BKN L 35 18 6 15 40.0 1 5 20.0 5 5 100.0 1 7 8 2 1 3 4 4 1
+p275
+aVCarmelo Anthony NYK 02/19/2016 NYK @ BKN L 38 22 8 16 50.0 2 4 50.0 4 4 100.0 2 5 7 6 3 1 2 2 -8
+p276
+aVJose Calderon NYK 02/19/2016 NYK @ BKN L 22 7 3 9 33.3 1 3 33.3 0 0 - 0 4 4 2 0 1 1 1 -17
+p277
+aVDerrick Williams NYK 02/09/2016 NYK vs. WAS L 9 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -1
+p278
+aVKevin Seraphin NYK 02/09/2016 NYK vs. WAS L 15 8 4 6 66.7 0 0 - 0 0 - 0 2 2 3 0 1 3 3 8
+p279
+aVJose Calderon NYK 02/09/2016 NYK vs. WAS L 28 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 6 1 0 1 1 -8
+p280
+aVRobin Lopez NYK 02/09/2016 NYK vs. WAS L 27 14 6 9 66.7 0 0 - 2 2 100.0 2 6 8 1 0 1 1 1 -12
+p281
+aVLangston Galloway NYK 02/09/2016 NYK vs. WAS L 29 14 6 11 54.5 2 5 40.0 0 0 - 0 5 5 5 2 0 2 5 7
+p282
+aVArron Afflalo NYK 02/09/2016 NYK vs. WAS L 38 11 5 7 71.4 1 2 50.0 0 0 - 0 2 2 0 0 0 1 3 -12
+p283
+aVKristaps Porzingis NYK 02/09/2016 NYK vs. WAS L 30 20 8 14 57.1 2 6 33.3 2 2 100.0 2 3 5 3 0 3 3 2 -2
+p284
+aVLance Thomas NYK 02/09/2016 NYK vs. WAS L 11 2 1 5 20.0 0 2 0.0 0 2 0.0 0 0 0 0 0 0 0 1 -3
+p285
+aVCarmelo Anthony NYK 02/09/2016 NYK vs. WAS L 39 33 12 22 54.5 3 6 50.0 6 6 100.0 1 12 13 2 2 0 4 3 -2
+p286
+aVSasha Vujacic NYK 02/09/2016 NYK vs. WAS L 14 0 0 3 0.0 0 2 0.0 0 0 - 2 4 6 2 1 0 0 1 10
+p287
+aVRobin Lopez NYK 02/07/2016 NYK vs. DEN L 30 5 2 7 28.6 0 0 - 1 2 50.0 2 3 5 0 0 3 0 4 -2
+p288
+aVLangston Galloway NYK 02/07/2016 NYK vs. DEN L 21 6 2 6 33.3 2 5 40.0 0 0 - 1 2 3 0 0 0 1 2 -7
+p289
+aVArron Afflalo NYK 02/07/2016 NYK vs. DEN L 40 15 6 8 75.0 1 1 100.0 2 2 100.0 0 6 6 3 1 0 0 4 -8
+p290
+aVKevin Seraphin NYK 02/07/2016 NYK vs. DEN L 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -4
+p291
+aVJose Calderon NYK 02/07/2016 NYK vs. DEN L 30 11 4 6 66.7 3 5 60.0 0 0 - 0 4 4 3 0 0 1 5 4
+p292
+aVCarmelo Anthony NYK 02/07/2016 NYK vs. DEN L 35 21 7 19 36.8 0 3 0.0 7 8 87.5 1 5 6 7 0 0 3 4 -12
+p293
+aVLou Amundson NYK 02/07/2016 NYK vs. DEN L 2 2 1 1 100.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -5
+p294
+aVKristaps Porzingis NYK 02/07/2016 NYK vs. DEN L 35 21 10 23 43.5 1 3 33.3 0 0 - 3 10 13 2 0 2 2 2 7
+p295
+aVKyle O'Quinn NYK 02/07/2016 NYK vs. DEN L 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -1
+p296
+aVDerrick Williams NYK 02/07/2016 NYK vs. DEN L 13 6 1 4 25.0 0 2 0.0 4 6 66.7 0 3 3 0 0 0 1 0 -1
+p297
+aVJerian Grant NYK 02/07/2016 NYK vs. DEN L 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 1 0 1 1 -1
+p298
+aVSasha Vujacic NYK 02/07/2016 NYK vs. DEN L 10 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 5
+p299
+aVKevin Seraphin NYK 02/05/2016 NYK vs. MEM L 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -3
+p300
+aVKristaps Porzingis NYK 02/05/2016 NYK vs. MEM L 38 17 6 12 50.0 3 5 60.0 2 2 100.0 3 7 10 0 0 6 3 4 10
+p301
+aVArron Afflalo NYK 02/05/2016 NYK vs. MEM L 41 14 4 15 26.7 2 7 28.6 4 4 100.0 0 5 5 2 0 0 1 3 -6
+p302
+aVKyle O'Quinn NYK 02/05/2016 NYK vs. MEM L 10 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 2
+p303
+aVJerian Grant NYK 02/05/2016 NYK vs. MEM L 18 5 1 4 25.0 0 2 0.0 3 4 75.0 1 0 1 4 1 0 1 2 4
+p304
+aVSasha Vujacic NYK 02/05/2016 NYK vs. MEM L 16 10 2 5 40.0 2 5 40.0 4 4 100.0 1 3 4 1 0 0 1 3 -7
+p305
+aVRobin Lopez NYK 02/05/2016 NYK vs. MEM L 30 9 4 7 57.1 0 0 - 1 2 50.0 5 5 10 0 0 0 3 3 -15
+p306
+aVLangston Galloway NYK 02/05/2016 NYK vs. MEM L 33 4 2 10 20.0 0 2 0.0 0 0 - 1 2 3 3 0 0 0 2 -9
+p307
+aVDerrick Williams NYK 02/05/2016 NYK vs. MEM L 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p308
+aVJose Calderon NYK 02/05/2016 NYK vs. MEM L 35 18 7 14 50.0 3 7 42.9 1 1 100.0 0 8 8 5 1 0 4 2 -5
+p309
+aVLance Thomas NYK 02/04/2016 NYK @ DET L 31 9 2 6 33.3 1 2 50.0 4 4 100.0 0 1 1 1 0 0 0 4 9
+p310
+aVJerian Grant NYK 02/04/2016 NYK @ DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p311
+aVCarmelo Anthony NYK 02/04/2016 NYK @ DET L 40 19 4 18 22.2 1 5 20.0 10 14 71.4 0 11 11 8 1 0 3 2 -3
+p312
+aVArron Afflalo NYK 02/04/2016 NYK @ DET L 43 24 8 15 53.3 1 5 20.0 7 8 87.5 0 3 3 3 2 0 2 3 1
+p313
+aVJose Calderon NYK 02/04/2016 NYK @ DET L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 1 -17
+p314
+aVKristaps Porzingis NYK 02/04/2016 NYK @ DET L 24 5 2 9 22.2 1 4 25.0 0 0 - 0 4 4 0 0 0 0 0 -6
+p315
+aVDerrick Williams NYK 02/04/2016 NYK @ DET L 6 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -6
+p316
+aVRobin Lopez NYK 02/04/2016 NYK @ DET L 35 26 11 14 78.6 0 0 - 4 4 100.0 6 10 16 2 1 0 2 4 8
+p317
+aVSasha Vujacic NYK 02/04/2016 NYK @ DET L 11 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 1 1 0 0 5 -12
+p318
+aVLangston Galloway NYK 02/04/2016 NYK @ DET L 36 17 7 9 77.8 2 2 100.0 1 2 50.0 1 4 5 2 1 0 1 6 8
+p319
+aVKyle O'Quinn NYK 02/04/2016 NYK @ DET L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p320
+aVLance Thomas NYK 02/02/2016 NYK vs. BOS L 25 6 2 4 50.0 1 1 100.0 1 2 50.0 0 2 2 0 0 0 1 1 -8
+p321
+aVKevin Seraphin NYK 02/02/2016 NYK vs. BOS L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p322
+aVSasha Vujacic NYK 02/02/2016 NYK vs. BOS L 18 13 4 9 44.4 2 4 50.0 3 3 100.0 0 3 3 1 1 0 2 0 -7
+p323
+aVCarmelo Anthony NYK 02/02/2016 NYK vs. BOS L 35 16 4 16 25.0 1 5 20.0 7 10 70.0 1 13 14 4 0 0 3 6 -3
+p324
+aVJerian Grant NYK 02/02/2016 NYK vs. BOS L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -17
+p325
+aVArron Afflalo NYK 02/02/2016 NYK vs. BOS L 40 18 7 16 43.8 2 5 40.0 2 4 50.0 0 2 2 3 1 0 4 0 -3
+p326
+aVDerrick Williams NYK 02/02/2016 NYK vs. BOS L 11 6 3 7 42.9 0 2 0.0 0 0 - 1 1 2 1 0 0 0 1 -2
+p327
+aVLangston Galloway NYK 02/02/2016 NYK vs. BOS L 34 1 0 4 0.0 0 1 0.0 1 1 100.0 1 8 9 2 0 0 0 3 5
+p328
+aVKristaps Porzingis NYK 02/02/2016 NYK vs. BOS L 27 10 4 11 36.4 0 2 0.0 2 2 100.0 2 3 5 0 1 1 3 3 -4
+p329
+aVRobin Lopez NYK 02/02/2016 NYK vs. BOS L 37 17 6 12 50.0 0 0 - 5 6 83.3 11 2 13 2 0 3 2 1 9
+p330
+aVDerrick Williams NYK 01/31/2016 NYK vs. GSW L 24 11 4 12 33.3 1 3 33.3 2 2 100.0 3 3 6 1 0 0 0 2 -14
+p331
+aVLance Thomas NYK 01/31/2016 NYK vs. GSW L 19 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 2 1 -6
+p332
+aVThanasis Antetokounmpo NYK 01/31/2016 NYK vs. GSW L 4 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p333
+aVJerian Grant NYK 01/31/2016 NYK vs. GSW L 17 3 1 4 25.0 0 1 0.0 1 1 100.0 0 1 1 2 0 0 0 2 -5
+p334
+aVKyle O'Quinn NYK 01/31/2016 NYK vs. GSW L 8 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -3
+p335
+aVSasha Vujacic NYK 01/31/2016 NYK vs. GSW L 19 11 4 5 80.0 1 1 100.0 2 2 100.0 0 2 2 2 0 0 0 2 -9
+p336
+aVRobin Lopez NYK 01/31/2016 NYK vs. GSW L 18 6 3 5 60.0 0 0 - 0 0 - 2 3 5 2 0 2 0 0 -3
+p337
+aVArron Afflalo NYK 01/31/2016 NYK vs. GSW L 38 5 2 12 16.7 1 3 33.3 0 0 - 1 1 2 2 1 0 2 1 -13
+p338
+aVKristaps Porzingis NYK 01/31/2016 NYK vs. GSW L 20 14 3 8 37.5 2 2 100.0 6 8 75.0 3 3 6 1 1 0 2 3 -18
+p339
+aVCarmelo Anthony NYK 01/31/2016 NYK vs. GSW L 36 24 8 18 44.4 0 2 0.0 8 9 88.9 1 9 10 2 0 2 3 2 -14
+p340
+aVLangston Galloway NYK 01/31/2016 NYK vs. GSW L 32 9 3 13 23.1 1 4 25.0 2 2 100.0 0 3 3 5 3 0 0 2 -15
+p341
+aVLou Amundson NYK 01/31/2016 NYK vs. GSW L 6 2 1 5 20.0 0 0 - 0 0 - 1 0 1 2 0 0 1 3 -2
+p342
+aVCarmelo Anthony NYK 01/29/2016 NYK vs. PHX W 30 19 5 14 35.7 2 3 66.7 7 7 100.0 1 9 10 8 4 0 2 2 33
+p343
+aVLou Amundson NYK 01/29/2016 NYK vs. PHX W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p344
+aVArron Afflalo NYK 01/29/2016 NYK vs. PHX W 29 17 6 13 46.2 2 6 33.3 3 3 100.0 0 1 1 3 1 0 1 2 17
+p345
+aVKyle O'Quinn NYK 01/29/2016 NYK vs. PHX W 15 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 2 0 4 2 0 0
+p346
+aVRobin Lopez NYK 01/29/2016 NYK vs. PHX W 24 13 5 8 62.5 0 0 - 3 4 75.0 3 2 5 0 0 1 0 1 28
+p347
+aVJerian Grant NYK 01/29/2016 NYK vs. PHX W 21 4 2 7 28.6 0 0 - 0 0 - 1 2 3 2 0 0 0 1 -7
+p348
+aVSasha Vujacic NYK 01/29/2016 NYK vs. PHX W 22 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 1 2 0 1 4 -3
+p349
+aVLance Thomas NYK 01/29/2016 NYK vs. PHX W 19 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 -2
+p350
+aVKristaps Porzingis NYK 01/29/2016 NYK vs. PHX W 24 7 3 8 37.5 0 1 0.0 1 2 50.0 2 5 7 3 2 1 0 2 19
+p351
+aVDerrick Williams NYK 01/29/2016 NYK vs. PHX W 19 10 2 6 33.3 0 1 0.0 6 6 100.0 2 6 8 0 0 0 1 0 -9
+p352
+aVThanasis Antetokounmpo NYK 01/29/2016 NYK vs. PHX W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p353
+aVLangston Galloway NYK 01/29/2016 NYK vs. PHX W 28 11 4 9 44.4 2 5 40.0 1 2 50.0 1 6 7 5 3 1 0 2 24
+p354
+aVJerian Grant NYK 01/28/2016 NYK @ TOR L 25 13 4 8 50.0 1 2 50.0 4 9 44.4 0 4 4 6 2 0 2 2 -4
+p355
+aVKyle O'Quinn NYK 01/28/2016 NYK @ TOR L 19 8 4 13 30.8 0 1 0.0 0 0 - 2 4 6 3 1 2 1 3 10
+p356
+aVRobin Lopez NYK 01/28/2016 NYK @ TOR L 25 7 3 5 60.0 0 0 - 1 2 50.0 4 4 8 0 0 2 2 2 0
+p357
+aVKevin Seraphin NYK 01/28/2016 NYK @ TOR L 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -8
+p358
+aVLangston Galloway NYK 01/28/2016 NYK @ TOR L 31 12 6 10 60.0 0 3 0.0 0 0 - 1 3 4 2 0 2 0 3 -10
+p359
+aVDerrick Williams NYK 01/28/2016 NYK @ TOR L 28 6 3 12 25.0 0 3 0.0 0 0 - 1 4 5 2 1 0 0 0 -14
+p360
+aVLou Amundson NYK 01/28/2016 NYK @ TOR L 9 3 1 2 50.0 0 0 - 1 3 33.3 2 0 2 0 0 1 1 3 -5
+p361
+aVArron Afflalo NYK 01/28/2016 NYK @ TOR L 38 20 7 17 41.2 3 3 100.0 3 3 100.0 0 2 2 4 0 0 0 2 -4
+p362
+aVSasha Vujacic NYK 01/28/2016 NYK @ TOR L 24 13 5 10 50.0 3 6 50.0 0 2 0.0 2 4 6 2 2 0 1 0 -11
+p363
+aVLance Thomas NYK 01/28/2016 NYK @ TOR L 25 7 3 6 50.0 0 0 - 1 1 100.0 0 2 2 0 0 1 1 1 -4
+p364
+aVDerrick Williams NYK 01/26/2016 NYK vs. OKC L 36 19 7 15 46.7 2 4 50.0 3 4 75.0 0 10 10 4 0 0 0 1 -1
+p365
+aVJose Calderon NYK 01/26/2016 NYK vs. OKC L 21 6 3 5 60.0 0 0 - 0 0 - 0 0 0 6 1 0 1 2 1
+p366
+aVSasha Vujacic NYK 01/26/2016 NYK vs. OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p367
+aVKristaps Porzingis NYK 01/26/2016 NYK vs. OKC L 31 15 5 12 41.7 2 4 50.0 3 4 75.0 1 4 5 2 2 2 1 3 -16
+p368
+aVKevin Seraphin NYK 01/26/2016 NYK vs. OKC L 16 8 4 8 50.0 0 0 - 0 0 - 0 4 4 0 0 3 0 1 8
+p369
+aVLangston Galloway NYK 01/26/2016 NYK vs. OKC L 33 21 7 13 53.8 4 6 66.7 3 4 75.0 1 4 5 3 3 0 1 3 -7
+p370
+aVRobin Lopez NYK 01/26/2016 NYK vs. OKC L 22 10 3 7 42.9 0 0 - 4 6 66.7 4 2 6 0 0 1 1 0 -4
+p371
+aVJerian Grant NYK 01/26/2016 NYK vs. OKC L 21 7 3 5 60.0 0 1 0.0 1 1 100.0 1 1 2 6 2 0 2 0 -4
+p372
+aVLance Thomas NYK 01/26/2016 NYK vs. OKC L 41 16 5 7 71.4 1 2 50.0 5 7 71.4 2 2 4 1 1 1 1 6 -8
+p373
+aVArron Afflalo NYK 01/26/2016 NYK vs. OKC L 40 17 6 21 28.6 1 5 20.0 4 4 100.0 0 5 5 2 0 0 2 5 4
+p374
+aVKyle O'Quinn NYK 01/26/2016 NYK vs. OKC L 3 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p375
+aVLangston Galloway NYK 01/23/2016 NYK @ CHA L 21 7 2 4 50.0 0 1 0.0 3 4 75.0 0 4 4 1 0 0 0 2 -4
+p376
+aVCarmelo Anthony NYK 01/23/2016 NYK @ CHA L 29 9 4 11 36.4 0 2 0.0 1 3 33.3 0 6 6 2 0 0 3 2 -14
+p377
+aVSasha Vujacic NYK 01/23/2016 NYK @ CHA L 12 8 3 5 60.0 2 2 100.0 0 1 0.0 0 2 2 4 1 0 1 0 8
+p378
+aVKristaps Porzingis NYK 01/23/2016 NYK @ CHA L 30 13 4 9 44.4 2 5 40.0 3 4 75.0 0 4 4 0 0 3 1 5 4
+p379
+aVJerian Grant NYK 01/23/2016 NYK @ CHA L 9 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 3 -6
+p380
+aVJose Calderon NYK 01/23/2016 NYK @ CHA L 34 6 3 6 50.0 0 2 0.0 0 0 - 0 4 4 7 1 0 0 2 -13
+p381
+aVLou Amundson NYK 01/23/2016 NYK @ CHA L 13 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 6 -4
+p382
+aVArron Afflalo NYK 01/23/2016 NYK @ CHA L 31 10 3 10 30.0 2 4 50.0 2 2 100.0 1 3 4 2 1 1 3 2 -17
+p383
+aVDerrick Williams NYK 01/23/2016 NYK @ CHA L 34 19 5 16 31.3 1 5 20.0 8 14 57.1 4 10 14 4 1 0 1 2 -8
+p384
+aVRobin Lopez NYK 01/23/2016 NYK @ CHA L 20 10 4 7 57.1 0 0 - 2 4 50.0 1 7 8 0 0 2 3 1 -6
+p385
+aVKevin Seraphin NYK 01/23/2016 NYK @ CHA L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 2 1 1 -5
+p386
+aVCarmelo Anthony NYK 01/22/2016 NYK vs. LAC L 31 16 4 12 33.3 1 3 33.3 7 8 87.5 0 4 4 6 1 1 2 0 -19
+p387
+aVJose Calderon NYK 01/22/2016 NYK vs. LAC L 23 4 2 5 40.0 0 1 0.0 0 0 - 1 5 6 4 0 0 0 2 -19
+p388
+aVDerrick Williams NYK 01/22/2016 NYK vs. LAC L 29 9 4 9 44.4 0 3 0.0 1 1 100.0 1 6 7 0 1 0 2 3 -23
+p389
+aVLangston Galloway NYK 01/22/2016 NYK vs. LAC L 24 10 5 7 71.4 0 2 0.0 0 0 - 0 2 2 1 0 0 2 4 -4
+p390
+aVKristaps Porzingis NYK 01/22/2016 NYK vs. LAC L 28 13 4 17 23.5 2 6 33.3 3 4 75.0 3 5 8 0 0 0 2 2 -11
+p391
+aVRobin Lopez NYK 01/22/2016 NYK vs. LAC L 17 6 3 11 27.3 0 0 - 0 0 - 5 2 7 0 1 0 1 2 -15
+p392
+aVJerian Grant NYK 01/22/2016 NYK vs. LAC L 24 13 4 6 66.7 1 2 50.0 4 4 100.0 0 1 1 8 0 0 2 4 -8
+p393
+aVArron Afflalo NYK 01/22/2016 NYK vs. LAC L 30 5 1 5 20.0 0 1 0.0 3 3 100.0 0 1 1 2 1 0 1 3 -28
+p394
+aVLou Amundson NYK 01/22/2016 NYK vs. LAC L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p395
+aVSasha Vujacic NYK 01/22/2016 NYK vs. LAC L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -6
+p396
+aVKyle O'Quinn NYK 01/22/2016 NYK vs. LAC L 5 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 2 0 -3
+p397
+aVKevin Seraphin NYK 01/22/2016 NYK vs. LAC L 13 6 3 7 42.9 0 0 - 0 0 - 1 2 3 2 0 1 3 1 -7
+p398
+aVKristaps Porzingis NYK 01/20/2016 NYK vs. UTA W 29 16 4 9 44.4 2 5 40.0 6 6 100.0 1 4 5 2 0 3 1 6 -4
+p399
+aVRobin Lopez NYK 01/20/2016 NYK vs. UTA W 40 22 11 14 78.6 0 0 - 0 0 - 6 6 12 0 0 3 1 3 15
+p400
+aVSasha Vujacic NYK 01/20/2016 NYK vs. UTA W 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p401
+aVJose Calderon NYK 01/20/2016 NYK vs. UTA W 32 9 4 7 57.1 1 3 33.3 0 0 - 0 0 0 1 1 1 2 3 -1
+p402
+aVJerian Grant NYK 01/20/2016 NYK vs. UTA W 13 0 0 4 0.0 0 0 - 0 0 - 1 1 2 2 1 0 0 2 1
+p403
+aVCarmelo Anthony NYK 01/20/2016 NYK vs. UTA W 42 30 13 20 65.0 0 1 0.0 4 4 100.0 1 6 7 9 0 0 2 3 7
+p404
+aVArron Afflalo NYK 01/20/2016 NYK vs. UTA W 43 14 6 11 54.5 2 3 66.7 0 0 - 0 0 0 2 0 0 1 5 3
+p405
+aVDerrick Williams NYK 01/20/2016 NYK vs. UTA W 28 18 6 13 46.2 1 2 50.0 5 6 83.3 2 4 6 1 0 0 1 0 10
+p406
+aVLangston Galloway NYK 01/20/2016 NYK vs. UTA W 31 9 3 9 33.3 1 3 33.3 2 2 100.0 0 2 2 3 1 0 1 2 8
+p407
+aVKyle O'Quinn NYK 01/20/2016 NYK vs. UTA W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p408
+aVDerrick Williams NYK 01/18/2016 NYK vs. PHI W 15 7 2 4 50.0 0 1 0.0 3 3 100.0 0 2 2 1 0 0 1 1 -6
+p409
+aVKristaps Porzingis NYK 01/18/2016 NYK vs. PHI W 34 16 7 11 63.6 2 4 50.0 0 0 - 2 10 12 4 1 3 1 1 12
+p410
+aVRobin Lopez NYK 01/18/2016 NYK vs. PHI W 33 16 6 11 54.5 0 0 - 4 4 100.0 2 8 10 2 0 2 2 2 5
+p411
+aVLance Thomas NYK 01/18/2016 NYK vs. PHI W 31 12 4 7 57.1 0 0 - 4 5 80.0 1 3 4 2 0 1 2 1 -9
+p412
+aVSasha Vujacic NYK 01/18/2016 NYK vs. PHI W 6 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p413
+aVJose Calderon NYK 01/18/2016 NYK vs. PHI W 35 8 2 8 25.0 2 4 50.0 2 2 100.0 2 1 3 5 3 1 2 3 5
+p414
+aVLangston Galloway NYK 01/18/2016 NYK vs. PHI W 24 8 4 4 100.0 0 0 - 0 0 - 0 3 3 3 0 1 1 3 5
+p415
+aVJerian Grant NYK 01/18/2016 NYK vs. PHI W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p416
+aVLou Amundson NYK 01/18/2016 NYK vs. PHI W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 1
+p417
+aVKyle O'Quinn NYK 01/18/2016 NYK vs. PHI W 7 4 2 2 100.0 0 0 - 0 0 - 1 2 3 2 0 0 1 1 1
+p418
+aVArron Afflalo NYK 01/18/2016 NYK vs. PHI W 45 25 8 17 47.1 2 4 50.0 7 7 100.0 2 5 7 0 1 0 1 3 5
+p419
+aVCarmelo Anthony NYK 01/18/2016 NYK vs. PHI W 49 19 7 28 25.0 2 6 33.3 3 7 42.9 0 7 7 7 1 0 3 2 12
+p420
+aVSasha Vujacic NYK 01/16/2016 NYK @ MEM L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 6
+p421
+aVArron Afflalo NYK 01/16/2016 NYK @ MEM L 36 11 3 11 27.3 1 4 25.0 4 4 100.0 0 3 3 3 0 2 2 2 -8
+p422
+aVLou Amundson NYK 01/16/2016 NYK @ MEM L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p423
+aVKevin Seraphin NYK 01/16/2016 NYK @ MEM L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -6
+p424
+aVLangston Galloway NYK 01/16/2016 NYK @ MEM L 37 11 4 11 36.4 1 5 20.0 2 2 100.0 4 7 11 5 0 0 1 2 -4
+p425
+aVKristaps Porzingis NYK 01/16/2016 NYK @ MEM L 28 17 7 12 58.3 1 3 33.3 2 3 66.7 0 4 4 2 2 0 1 2 -1
+p426
+aVJose Calderon NYK 01/16/2016 NYK @ MEM L 32 8 4 8 50.0 0 2 0.0 0 0 - 0 3 3 5 0 0 1 1 -4
+p427
+aVLance Thomas NYK 01/16/2016 NYK @ MEM L 17 9 3 6 50.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 0 1 -10
+p428
+aVJerian Grant NYK 01/16/2016 NYK @ MEM L 16 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 1 0 1 0 1 -4
+p429
+aVDerrick Williams NYK 01/16/2016 NYK @ MEM L 26 13 4 9 44.4 0 2 0.0 5 7 71.4 1 3 4 1 2 0 0 1 -1
+p430
+aVRobin Lopez NYK 01/16/2016 NYK @ MEM L 15 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 2 1 4 -14
+p431
+aVKyle O'Quinn NYK 01/16/2016 NYK @ MEM L 21 15 5 6 83.3 0 0 - 5 6 83.3 0 5 5 0 0 0 2 3 7
+p432
+aVJose Calderon NYK 01/13/2016 NYK @ BKN L 29 16 6 12 50.0 4 6 66.7 0 0 - 2 5 7 4 2 0 1 3 -11
+p433
+aVRobin Lopez NYK 01/13/2016 NYK @ BKN L 31 9 4 8 50.0 0 0 - 1 2 50.0 7 5 12 0 0 1 2 3 -14
+p434
+aVLance Thomas NYK 01/13/2016 NYK @ BKN L 28 6 2 10 20.0 1 3 33.3 1 2 50.0 1 2 3 3 0 0 1 0 -18
+p435
+aVSasha Vujacic NYK 01/13/2016 NYK @ BKN L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 8
+p436
+aVKristaps Porzingis NYK 01/13/2016 NYK @ BKN L 37 12 5 17 29.4 0 3 0.0 2 3 66.7 4 6 10 2 3 2 1 1 -3
+p437
+aVArron Afflalo NYK 01/13/2016 NYK @ BKN L 36 18 8 16 50.0 2 5 40.0 0 0 - 0 3 3 2 0 0 0 3 -8
+p438
+aVLangston Galloway NYK 01/13/2016 NYK @ BKN L 23 6 3 4 75.0 0 0 - 0 0 - 0 2 2 5 1 0 2 0 7
+p439
+aVDerrick Williams NYK 01/13/2016 NYK @ BKN L 32 31 11 17 64.7 0 3 0.0 9 11 81.8 1 6 7 0 2 0 3 0 8
+p440
+aVJerian Grant NYK 01/13/2016 NYK @ BKN L 21 6 2 6 33.3 0 1 0.0 2 5 40.0 0 3 3 3 2 0 2 3 1
+p441
+aVCarmelo Anthony NYK 01/12/2016 NYK vs. BOS W 18 17 7 10 70.0 2 2 100.0 1 1 100.0 0 4 4 3 0 0 2 1 10
+p442
+aVLance Thomas NYK 01/12/2016 NYK vs. BOS W 22 7 1 6 16.7 0 1 0.0 5 5 100.0 0 4 4 2 1 0 3 2 -3
+p443
+aVKevin Seraphin NYK 01/12/2016 NYK vs. BOS W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p444
+aVJerian Grant NYK 01/12/2016 NYK vs. BOS W 23 16 5 6 83.3 1 1 100.0 5 6 83.3 0 1 1 8 1 1 0 1 3
+p445
+aVDerrick Williams NYK 01/12/2016 NYK vs. BOS W 29 15 5 11 45.5 0 2 0.0 5 5 100.0 1 9 10 0 0 0 2 0 7
+p446
+aVLangston Galloway NYK 01/12/2016 NYK vs. BOS W 17 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 -10
+p447
+aVKristaps Porzingis NYK 01/12/2016 NYK vs. BOS W 27 26 10 18 55.6 3 9 33.3 3 4 75.0 1 5 6 2 2 2 0 6 0
+p448
+aVKyle O'Quinn NYK 01/12/2016 NYK vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p449
+aVJose Calderon NYK 01/12/2016 NYK vs. BOS W 30 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 5 1 0 1 1 8
+p450
+aVArron Afflalo NYK 01/12/2016 NYK vs. BOS W 41 24 9 18 50.0 1 2 50.0 5 5 100.0 0 3 3 1 0 0 0 1 8
+p451
+aVLou Amundson NYK 01/12/2016 NYK vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p452
+aVRobin Lopez NYK 01/12/2016 NYK vs. BOS W 26 15 6 7 85.7 0 0 - 3 4 75.0 2 3 5 1 0 1 2 4 9
+p453
+aVLance Thomas NYK 01/10/2016 NYK vs. MIL W 22 13 6 9 66.7 1 2 50.0 0 0 - 1 1 2 1 0 0 0 4 8
+p454
+aVKristaps Porzingis NYK 01/10/2016 NYK vs. MIL W 30 15 5 11 45.5 2 5 40.0 3 4 75.0 3 3 6 2 1 5 4 3 17
+p455
+aVArron Afflalo NYK 01/10/2016 NYK vs. MIL W 31 11 5 16 31.3 0 5 0.0 1 1 100.0 0 1 1 3 1 0 0 3 15
+p456
+aVKyle O'Quinn NYK 01/10/2016 NYK vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p457
+aVRobin Lopez NYK 01/10/2016 NYK vs. MIL W 27 13 4 8 50.0 0 0 - 5 5 100.0 4 5 9 2 0 1 2 6 -3
+p458
+aVCarmelo Anthony NYK 01/10/2016 NYK vs. MIL W 37 24 10 16 62.5 1 5 20.0 3 4 75.0 3 7 10 8 0 1 1 2 25
+p459
+aVLangston Galloway NYK 01/10/2016 NYK vs. MIL W 21 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 1 -12
+p460
+aVJose Calderon NYK 01/10/2016 NYK vs. MIL W 29 9 3 5 60.0 2 3 66.7 1 2 50.0 0 4 4 7 3 0 1 2 34
+p461
+aVJerian Grant NYK 01/10/2016 NYK vs. MIL W 16 2 0 4 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 0 -19
+p462
+aVDerrick Williams NYK 01/10/2016 NYK vs. MIL W 24 8 4 9 44.4 0 1 0.0 0 0 - 0 6 6 1 0 0 1 0 0
+p463
+aVCarmelo Anthony NYK 01/08/2016 NYK @ SAS L 39 20 5 15 33.3 2 3 66.7 8 10 80.0 5 7 12 3 0 2 0 3 3
+p464
+aVJose Calderon NYK 01/08/2016 NYK @ SAS L 32 4 2 9 22.2 0 1 0.0 0 0 - 0 3 3 5 0 0 3 1 5
+p465
+aVLangston Galloway NYK 01/08/2016 NYK @ SAS L 22 11 5 9 55.6 0 1 0.0 1 1 100.0 1 4 5 2 0 0 0 3 5
+p466
+aVKyle O'Quinn NYK 01/08/2016 NYK @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p467
+aVArron Afflalo NYK 01/08/2016 NYK @ SAS L 40 8 3 8 37.5 2 3 66.7 0 0 - 1 3 4 4 0 1 0 2 1
+p468
+aVLance Thomas NYK 01/08/2016 NYK @ SAS L 13 10 4 9 44.4 2 3 66.7 0 0 - 1 0 1 0 0 1 1 2 -2
+p469
+aVDerrick Williams NYK 01/08/2016 NYK @ SAS L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 1 0 -8
+p470
+aVKristaps Porzingis NYK 01/08/2016 NYK @ SAS L 33 28 11 21 52.4 3 7 42.9 3 4 75.0 2 9 11 0 1 0 3 2 -4
+p471
+aVJerian Grant NYK 01/08/2016 NYK @ SAS L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 0 1 -5
+p472
+aVRobin Lopez NYK 01/08/2016 NYK @ SAS L 34 12 6 13 46.2 0 0 - 0 0 - 0 3 3 3 0 0 0 0 -2
+p473
+aVKristaps Porzingis NYK 01/06/2016 NYK @ MIA W 31 12 3 10 30.0 0 1 0.0 6 6 100.0 1 3 4 1 0 2 1 4 4
+p474
+aVJose Calderon NYK 01/06/2016 NYK @ MIA W 35 9 4 5 80.0 1 1 100.0 0 0 - 0 5 5 2 1 0 2 2 14
+p475
+aVKyle O'Quinn NYK 01/06/2016 NYK @ MIA W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p476
+aVLangston Galloway NYK 01/06/2016 NYK @ MIA W 14 5 2 3 66.7 0 1 0.0 1 1 100.0 0 3 3 2 1 0 0 0 -4
+p477
+aVDerrick Williams NYK 01/06/2016 NYK @ MIA W 18 13 5 8 62.5 1 2 50.0 2 2 100.0 0 8 8 0 1 0 1 1 -7
+p478
+aVLance Thomas NYK 01/06/2016 NYK @ MIA W 18 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 0 1 2 2 2
+p479
+aVCarmelo Anthony NYK 01/06/2016 NYK @ MIA W 37 25 9 12 75.0 0 1 0.0 7 8 87.5 0 5 5 4 2 0 1 3 19
+p480
+aVJerian Grant NYK 01/06/2016 NYK @ MIA W 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -3
+p481
+aVArron Afflalo NYK 01/06/2016 NYK @ MIA W 40 9 4 10 40.0 1 2 50.0 0 0 - 0 2 2 0 1 0 2 1 3
+p482
+aVRobin Lopez NYK 01/06/2016 NYK @ MIA W 35 19 9 12 75.0 0 0 - 1 1 100.0 3 1 4 1 0 2 1 3 18
+p483
+aVJose Calderon NYK 01/05/2016 NYK @ ATL W 36 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 6 1 0 1 3 8
+p484
+aVJerian Grant NYK 01/05/2016 NYK @ ATL W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p485
+aVLance Thomas NYK 01/05/2016 NYK @ ATL W 19 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 1 -1
+p486
+aVCarmelo Anthony NYK 01/05/2016 NYK @ ATL W 40 23 8 22 36.4 0 4 0.0 7 8 87.5 2 9 11 7 1 2 3 4 10
+p487
+aVDerrick Williams NYK 01/05/2016 NYK @ ATL W 16 15 3 6 50.0 1 3 33.3 8 8 100.0 1 3 4 1 0 0 0 0 -3
+p488
+aVArron Afflalo NYK 01/05/2016 NYK @ ATL W 37 23 9 16 56.3 2 2 100.0 3 4 75.0 0 7 7 4 1 0 1 4 16
+p489
+aVKristaps Porzingis NYK 01/05/2016 NYK @ ATL W 32 17 7 12 58.3 0 3 0.0 3 3 100.0 4 7 11 1 0 1 1 3 2
+p490
+aVLangston Galloway NYK 01/05/2016 NYK @ ATL W 16 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 2 1 0 2 -8
+p491
+aVRobin Lopez NYK 01/05/2016 NYK @ ATL W 35 9 4 11 36.4 0 0 - 1 1 100.0 4 4 8 1 1 2 1 2 9
+p492
+aVRobin Lopez NYK 01/03/2016 NYK vs. ATL W 30 16 7 10 70.0 0 0 - 2 2 100.0 5 6 11 5 0 3 5 4 9
+p493
+aVArron Afflalo NYK 01/03/2016 NYK vs. ATL W 37 38 14 17 82.4 7 8 87.5 3 4 75.0 0 2 2 2 0 1 1 2 14
+p494
+aVKristaps Porzingis NYK 01/03/2016 NYK vs. ATL W 30 14 5 13 38.5 2 3 66.7 2 2 100.0 2 5 7 0 0 1 2 3 13
+p495
+aVKyle O'Quinn NYK 01/03/2016 NYK vs. ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 2 1 -2
+p496
+aVJerian Grant NYK 01/03/2016 NYK vs. ATL W 18 8 4 10 40.0 0 3 0.0 0 0 - 0 3 3 7 2 1 1 0 8
+p497
+aVJose Calderon NYK 01/03/2016 NYK vs. ATL W 26 9 4 8 50.0 1 2 50.0 0 0 - 0 3 3 2 2 1 3 0 9
+p498
+aVLance Thomas NYK 01/03/2016 NYK vs. ATL W 19 2 0 5 0.0 0 2 0.0 2 2 100.0 0 3 3 1 0 0 1 4 1
+p499
+aVCarmelo Anthony NYK 01/03/2016 NYK vs. ATL W 35 11 4 10 40.0 0 3 0.0 3 4 75.0 5 4 9 5 3 0 1 2 4
+p500
+aVDerrick Williams NYK 01/03/2016 NYK vs. ATL W 21 6 3 7 42.9 0 2 0.0 0 0 - 0 5 5 3 0 0 0 2 12
+p501
+aVLangston Galloway NYK 01/03/2016 NYK vs. ATL W 20 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 0 0 0 0 1 2
+p502
+aVCarmelo Anthony NYK 01/01/2016 NYK @ CHI L 37 20 8 18 44.4 1 3 33.3 3 3 100.0 3 4 7 3 0 0 1 1 -17
+p503
+aVSasha Vujacic NYK 01/01/2016 NYK @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p504
+aVJose Calderon NYK 01/01/2016 NYK @ CHI L 35 18 7 9 77.8 3 3 100.0 1 1 100.0 1 3 4 4 1 0 1 4 -19
+p505
+aVLance Thomas NYK 01/01/2016 NYK @ CHI L 27 11 3 9 33.3 0 2 0.0 5 5 100.0 0 0 0 1 0 0 1 3 4
+p506
+aVKyle O'Quinn NYK 01/01/2016 NYK @ CHI L 12 2 1 3 33.3 0 0 - 0 0 - 0 5 5 1 0 2 1 3 -1
+p507
+aVKevin Seraphin NYK 01/01/2016 NYK @ CHI L 12 4 2 7 28.6 0 1 0.0 0 2 0.0 3 1 4 1 1 1 0 3 -13
+p508
+aVKristaps Porzingis NYK 01/01/2016 NYK @ CHI L 28 9 4 14 28.6 1 3 33.3 0 0 - 0 9 9 1 1 1 1 2 -11
+p509
+aVRobin Lopez NYK 01/01/2016 NYK @ CHI L 22 4 2 5 40.0 0 0 - 0 0 - 3 3 6 2 0 2 2 4 -5
+p510
+aVJerian Grant NYK 01/01/2016 NYK @ CHI L 4 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 0 -5
+p511
+aVArron Afflalo NYK 01/01/2016 NYK @ CHI L 29 4 2 9 22.2 0 3 0.0 0 0 - 0 1 1 0 0 0 2 2 -34
+p512
+aVLangston Galloway NYK 01/01/2016 NYK @ CHI L 15 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 3 -12
+p513
+aVDerrick Williams NYK 01/01/2016 NYK @ CHI L 17 6 1 4 25.0 0 2 0.0 4 6 66.7 0 1 1 2 0 0 1 0 -17
+p514
+aVRobin Lopez NYK 12/29/2015 NYK vs. DET W 36 11 5 8 62.5 0 0 - 1 2 50.0 3 4 7 2 1 6 3 5 4
+p515
+aVDerrick Williams NYK 12/29/2015 NYK vs. DET W 18 18 5 9 55.6 1 2 50.0 7 9 77.8 0 4 4 1 0 0 0 0 9
+p516
+aVArron Afflalo NYK 12/29/2015 NYK vs. DET W 31 9 4 9 44.4 1 2 50.0 0 0 - 0 6 6 2 1 0 0 1 -5
+p517
+aVKyle O'Quinn NYK 12/29/2015 NYK vs. DET W 11 12 6 8 75.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 8
+p518
+aVJose Calderon NYK 12/29/2015 NYK vs. DET W 33 15 5 6 83.3 3 4 75.0 2 2 100.0 0 2 2 4 0 0 0 2 9
+p519
+aVLance Thomas NYK 12/29/2015 NYK vs. DET W 29 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 2 1 0 1 2 14
+p520
+aVCarmelo Anthony NYK 12/29/2015 NYK vs. DET W 38 24 11 24 45.8 2 5 40.0 0 0 - 1 5 6 6 1 0 3 3 11
+p521
+aVJerian Grant NYK 12/29/2015 NYK vs. DET W 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 2
+p522
+aVLangston Galloway NYK 12/29/2015 NYK vs. DET W 17 2 1 1 100.0 0 0 - 0 0 - 0 4 4 3 0 0 1 1 10
+p523
+aVKristaps Porzingis NYK 12/29/2015 NYK vs. DET W 19 10 4 6 66.7 0 1 0.0 2 2 100.0 1 1 2 1 0 2 1 2 0
+p524
+aVCleanthony Early NYK 12/29/2015 NYK vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p525
+aVArron Afflalo NYK 12/27/2015 NYK @ BOS L 33 4 2 10 20.0 0 3 0.0 0 0 - 0 4 4 1 0 0 0 2 -8
+p526
+aVCleanthony Early NYK 12/27/2015 NYK @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p527
+aVCarmelo Anthony NYK 12/27/2015 NYK @ BOS L 35 29 11 26 42.3 2 5 40.0 5 7 71.4 4 6 10 2 0 0 2 3 -11
+p528
+aVLance Thomas NYK 12/27/2015 NYK @ BOS L 17 10 3 6 50.0 2 3 66.7 2 2 100.0 0 2 2 1 2 0 0 0 5
+p529
+aVJose Calderon NYK 12/27/2015 NYK @ BOS L 22 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 1 0 -9
+p530
+aVKristaps Porzingis NYK 12/27/2015 NYK @ BOS L 28 16 4 13 30.8 0 1 0.0 8 8 100.0 4 8 12 0 2 3 2 4 -6
+p531
+aVRobin Lopez NYK 12/27/2015 NYK @ BOS L 30 8 3 7 42.9 0 0 - 2 2 100.0 3 3 6 2 0 1 2 2 -3
+p532
+aVDerrick Williams NYK 12/27/2015 NYK @ BOS L 23 10 4 8 50.0 0 2 0.0 2 3 66.7 1 3 4 1 1 0 1 3 -5
+p533
+aVKyle O'Quinn NYK 12/27/2015 NYK @ BOS L 11 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 2 0 0 3 1 -7
+p534
+aVSasha Vujacic NYK 12/27/2015 NYK @ BOS L 15 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 0 0 0 2 2 -1
+p535
+aVLangston Galloway NYK 12/27/2015 NYK @ BOS L 26 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 5 0 0 0 6 0
+p536
+aVLangston Galloway NYK 12/26/2015 NYK @ ATL L 26 11 3 6 50.0 2 4 50.0 3 3 100.0 1 3 4 4 0 3 3 2 -21
+p537
+aVArron Afflalo NYK 12/26/2015 NYK @ ATL L 32 10 4 10 40.0 1 4 25.0 1 1 100.0 0 3 3 1 0 0 2 1 -7
+p538
+aVKristaps Porzingis NYK 12/26/2015 NYK @ ATL L 21 9 3 10 30.0 1 2 50.0 2 2 100.0 1 1 2 1 0 1 2 1 -3
+p539
+aVJerian Grant NYK 12/26/2015 NYK @ ATL L 15 2 1 6 16.7 0 4 0.0 0 0 - 0 0 0 1 2 0 3 1 -13
+p540
+aVLance Thomas NYK 12/26/2015 NYK @ ATL L 25 12 6 12 50.0 0 3 0.0 0 0 - 2 2 4 0 1 1 3 3 -19
+p541
+aVCarmelo Anthony NYK 12/26/2015 NYK @ ATL L 30 18 7 12 58.3 0 2 0.0 4 7 57.1 2 10 12 4 0 1 4 2 -6
+p542
+aVRobin Lopez NYK 12/26/2015 NYK @ ATL L 20 9 4 5 80.0 0 0 - 1 1 100.0 2 2 4 2 0 1 0 0 5
+p543
+aVDerrick Williams NYK 12/26/2015 NYK @ ATL L 22 12 5 8 62.5 1 2 50.0 1 2 50.0 1 4 5 0 0 0 0 1 -13
+p544
+aVJose Calderon NYK 12/26/2015 NYK @ ATL L 24 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 8 2 1 0 1 -1
+p545
+aVSasha Vujacic NYK 12/26/2015 NYK @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p546
+aVKyle O'Quinn NYK 12/26/2015 NYK @ ATL L 22 7 3 7 42.9 0 0 - 1 1 100.0 2 2 4 4 1 0 5 3 -18
+p547
+aVKristaps Porzingis NYK 12/23/2015 NYK @ CLE L 38 23 8 18 44.4 4 5 80.0 3 4 75.0 3 10 13 4 1 1 1 1 -8
+p548
+aVLance Thomas NYK 12/23/2015 NYK @ CLE L 34 8 4 11 36.4 0 2 0.0 0 0 - 1 3 4 3 1 0 1 6 -2
+p549
+aVRobin Lopez NYK 12/23/2015 NYK @ CLE L 20 8 4 9 44.4 0 0 - 0 0 - 1 4 5 0 1 3 2 1 -2
+p550
+aVJerian Grant NYK 12/23/2015 NYK @ CLE L 11 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 3
+p551
+aVLangston Galloway NYK 12/23/2015 NYK @ CLE L 26 4 2 6 33.3 0 1 0.0 0 0 - 0 5 5 0 0 1 0 1 -8
+p552
+aVCleanthony Early NYK 12/23/2015 NYK @ CLE L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p553
+aVArron Afflalo NYK 12/23/2015 NYK @ CLE L 36 16 6 17 35.3 0 4 0.0 4 4 100.0 0 5 5 3 1 0 2 2 0
+p554
+aVJose Calderon NYK 12/23/2015 NYK @ CLE L 35 10 4 5 80.0 1 1 100.0 1 1 100.0 0 3 3 6 1 0 1 1 -14
+p555
+aVDerrick Williams NYK 12/23/2015 NYK @ CLE L 21 11 2 6 33.3 0 2 0.0 7 7 100.0 0 3 3 1 0 2 2 1 1
+p556
+aVLou Amundson NYK 12/23/2015 NYK @ CLE L 9 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 0 1 1 4
+p557
+aVKevin Seraphin NYK 12/23/2015 NYK @ CLE L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p558
+aVDerrick Williams NYK 12/21/2015 NYK vs. ORL L 10 5 2 5 40.0 0 2 0.0 1 2 50.0 0 2 2 0 0 0 0 2 3
+p559
+aVSasha Vujacic NYK 12/21/2015 NYK vs. ORL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 0
+p560
+aVLangston Galloway NYK 12/21/2015 NYK vs. ORL L 26 10 3 7 42.9 1 4 25.0 3 3 100.0 0 4 4 3 0 0 1 2 5
+p561
+aVJose Calderon NYK 12/21/2015 NYK vs. ORL L 18 4 1 3 33.3 0 2 0.0 2 2 100.0 1 1 2 2 1 0 2 2 -6
+p562
+aVRobin Lopez NYK 12/21/2015 NYK vs. ORL L 34 12 6 6 100.0 0 0 - 0 0 - 2 6 8 2 0 2 0 0 -8
+p563
+aVKevin Seraphin NYK 12/21/2015 NYK vs. ORL L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p564
+aVJerian Grant NYK 12/21/2015 NYK vs. ORL L 14 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 1 2 0 0 1 -3
+p565
+aVCarmelo Anthony NYK 12/21/2015 NYK vs. ORL L 40 23 10 17 58.8 2 3 66.7 1 2 50.0 0 4 4 6 0 0 5 3 -9
+p566
+aVKristaps Porzingis NYK 12/21/2015 NYK vs. ORL L 25 9 3 12 25.0 1 6 16.7 2 2 100.0 2 6 8 1 0 4 2 1 2
+p567
+aVArron Afflalo NYK 12/21/2015 NYK vs. ORL L 33 4 2 8 25.0 0 3 0.0 0 0 - 2 3 5 3 0 0 1 2 -12
+p568
+aVLance Thomas NYK 12/21/2015 NYK vs. ORL L 27 24 9 9 100.0 3 3 100.0 3 3 100.0 1 1 2 2 1 0 3 0 -7
+p569
+aVLangston Galloway NYK 12/19/2015 NYK vs. CHI W 25 7 3 7 42.9 0 2 0.0 1 1 100.0 0 3 3 3 1 0 1 0 17
+p570
+aVCarmelo Anthony NYK 12/19/2015 NYK vs. CHI W 35 27 12 20 60.0 1 4 25.0 2 2 100.0 1 6 7 3 1 0 2 1 14
+p571
+aVJerian Grant NYK 12/19/2015 NYK vs. CHI W 14 6 2 7 28.6 0 2 0.0 2 2 100.0 0 1 1 0 0 0 1 0 -6
+p572
+aVKristaps Porzingis NYK 12/19/2015 NYK vs. CHI W 29 10 4 9 44.4 0 3 0.0 2 3 66.7 2 5 7 3 1 1 0 5 13
+p573
+aVDerrick Williams NYK 12/19/2015 NYK vs. CHI W 16 9 2 6 33.3 0 1 0.0 5 7 71.4 2 4 6 0 0 0 1 0 2
+p574
+aVArron Afflalo NYK 12/19/2015 NYK vs. CHI W 34 18 8 14 57.1 1 1 100.0 1 2 50.0 0 4 4 3 0 0 1 2 22
+p575
+aVJose Calderon NYK 12/19/2015 NYK vs. CHI W 23 5 1 5 20.0 1 5 20.0 2 2 100.0 0 2 2 5 0 0 0 2 -1
+p576
+aVLance Thomas NYK 12/19/2015 NYK vs. CHI W 24 13 4 5 80.0 2 2 100.0 3 3 100.0 0 0 0 2 2 0 0 1 16
+p577
+aVRobin Lopez NYK 12/19/2015 NYK vs. CHI W 19 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 0 0 0 2 1 1
+p578
+aVKyle O'Quinn NYK 12/19/2015 NYK vs. CHI W 20 4 2 4 50.0 0 0 - 0 0 - 3 7 10 0 1 1 3 3 2
+p579
+aVSasha Vujacic NYK 12/18/2015 NYK @ PHI W 7 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -15
+p580
+aVLou Amundson NYK 12/18/2015 NYK @ PHI W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -13
+p581
+aVLance Thomas NYK 12/18/2015 NYK @ PHI W 20 12 4 6 66.7 1 2 50.0 3 4 75.0 2 1 3 1 1 0 2 1 10
+p582
+aVKevin Seraphin NYK 12/18/2015 NYK @ PHI W 5 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -13
+p583
+aVJerian Grant NYK 12/18/2015 NYK @ PHI W 22 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 1 1 -4
+p584
+aVDerrick Williams NYK 12/18/2015 NYK @ PHI W 22 17 7 11 63.6 1 3 33.3 2 4 50.0 0 3 3 0 1 0 1 4 -2
+p585
+aVKyle O'Quinn NYK 12/18/2015 NYK @ PHI W 21 10 3 5 60.0 0 0 - 4 5 80.0 2 5 7 5 1 0 3 3 4
+p586
+aVJose Calderon NYK 12/18/2015 NYK @ PHI W 24 1 0 2 0.0 0 1 0.0 1 2 50.0 1 4 5 6 0 0 0 2 12
+p587
+aVKristaps Porzingis NYK 12/18/2015 NYK @ PHI W 26 8 3 9 33.3 0 2 0.0 2 2 100.0 1 3 4 1 1 3 2 1 15
+p588
+aVArron Afflalo NYK 12/18/2015 NYK @ PHI W 26 22 9 13 69.2 3 5 60.0 1 1 100.0 1 6 7 1 1 1 0 0 18
+p589
+aVLangston Galloway NYK 12/18/2015 NYK @ PHI W 16 7 3 5 60.0 1 1 100.0 0 1 0.0 1 1 2 3 1 0 2 2 9
+p590
+aVRobin Lopez NYK 12/18/2015 NYK @ PHI W 16 8 4 6 66.7 0 0 - 0 0 - 3 3 6 0 0 1 0 3 14
+p591
+aVCarmelo Anthony NYK 12/18/2015 NYK @ PHI W 28 16 4 14 28.6 0 2 0.0 8 9 88.9 1 4 5 4 2 0 3 1 15
+p592
+aVLance Thomas NYK 12/16/2015 NYK vs. MIN W 23 14 5 10 50.0 1 1 100.0 3 3 100.0 2 5 7 2 0 0 1 1 4
+p593
+aVJose Calderon NYK 12/16/2015 NYK vs. MIN W 25 3 1 3 33.3 1 3 33.3 0 0 - 0 8 8 3 0 0 4 0 15
+p594
+aVLangston Galloway NYK 12/16/2015 NYK vs. MIN W 32 12 5 11 45.5 1 3 33.3 1 2 50.0 2 1 3 6 1 1 0 1 -1
+p595
+aVDerrick Williams NYK 12/16/2015 NYK vs. MIN W 11 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 0 1
+p596
+aVArron Afflalo NYK 12/16/2015 NYK vs. MIN W 34 29 9 14 64.3 3 5 60.0 8 9 88.9 0 3 3 1 0 0 1 1 13
+p597
+aVSasha Vujacic NYK 12/16/2015 NYK vs. MIN W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -7
+p598
+aVCarmelo Anthony NYK 12/16/2015 NYK vs. MIN W 35 20 6 15 40.0 1 2 50.0 7 8 87.5 3 12 15 9 1 1 4 1 1
+p599
+aVRobin Lopez NYK 12/16/2015 NYK vs. MIN W 18 6 3 8 37.5 0 0 - 0 1 0.0 2 0 2 1 0 1 0 5 -12
+p600
+aVKevin Seraphin NYK 12/16/2015 NYK vs. MIN W 7 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 1 0 0 1 0 7
+p601
+aVKristaps Porzingis NYK 12/16/2015 NYK vs. MIN W 29 11 4 14 28.6 1 6 16.7 2 2 100.0 2 4 6 3 0 7 3 2 4
+p602
+aVKyle O'Quinn NYK 12/16/2015 NYK vs. MIN W 17 4 2 2 100.0 0 0 - 0 0 - 2 2 4 1 0 0 0 5 0
+p603
+aVSasha Vujacic NYK 12/12/2015 NYK @ POR W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 3 -2
+p604
+aVJose Calderon NYK 12/12/2015 NYK @ POR W 20 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 3 0 0 0 2 -14
+p605
+aVRobin Lopez NYK 12/12/2015 NYK @ POR W 29 14 5 7 71.4 0 0 - 4 4 100.0 4 3 7 1 0 0 0 3 -15
+p606
+aVDerrick Williams NYK 12/12/2015 NYK @ POR W 13 10 3 6 50.0 3 4 75.0 1 2 50.0 0 4 4 4 0 0 0 1 19
+p607
+aVKyle O'Quinn NYK 12/12/2015 NYK @ POR W 19 14 7 8 87.5 0 1 0.0 0 1 0.0 1 6 7 2 0 1 1 2 10
+p608
+aVArron Afflalo NYK 12/12/2015 NYK @ POR W 40 15 5 11 45.5 2 4 50.0 3 4 75.0 0 1 1 0 0 0 2 3 9
+p609
+aVCarmelo Anthony NYK 12/12/2015 NYK @ POR W 38 37 13 21 61.9 2 5 40.0 9 9 100.0 2 4 6 2 1 2 4 0 -8
+p610
+aVLangston Galloway NYK 12/12/2015 NYK @ POR W 30 7 2 8 25.0 1 3 33.3 2 2 100.0 0 4 4 3 0 0 0 2 9
+p611
+aVLance Thomas NYK 12/12/2015 NYK @ POR W 25 13 3 3 100.0 1 1 100.0 6 6 100.0 0 1 1 0 0 0 1 3 10
+p612
+aVKristaps Porzingis NYK 12/12/2015 NYK @ POR W 19 0 0 6 0.0 0 0 - 0 0 - 0 3 3 0 2 0 2 3 -8
+p613
+aVCarmelo Anthony NYK 12/10/2015 NYK @ SAC L 39 23 8 21 38.1 1 3 33.3 6 11 54.5 5 9 14 4 1 1 5 3 -2
+p614
+aVDerrick Williams NYK 12/10/2015 NYK @ SAC L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p615
+aVKyle O'Quinn NYK 12/10/2015 NYK @ SAC L 12 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 3 0 1 0 0 5
+p616
+aVKristaps Porzingis NYK 12/10/2015 NYK @ SAC L 34 13 4 11 36.4 1 2 50.0 4 5 80.0 2 5 7 2 2 3 3 4 -2
+p617
+aVJerian Grant NYK 12/10/2015 NYK @ SAC L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -2
+p618
+aVRobin Lopez NYK 12/10/2015 NYK @ SAC L 20 6 2 5 40.0 0 0 - 2 2 100.0 2 5 7 1 0 0 2 4 -9
+p619
+aVLance Thomas NYK 12/10/2015 NYK @ SAC L 24 10 3 7 42.9 2 4 50.0 2 2 100.0 1 5 6 2 3 0 2 1 -1
+p620
+aVJose Calderon NYK 12/10/2015 NYK @ SAC L 32 8 3 7 42.9 2 5 40.0 0 0 - 1 1 2 3 1 0 1 1 -1
+p621
+aVSasha Vujacic NYK 12/10/2015 NYK @ SAC L 18 8 3 7 42.9 2 6 33.3 0 0 - 0 2 2 0 0 0 0 2 8
+p622
+aVLangston Galloway NYK 12/10/2015 NYK @ SAC L 18 9 2 6 33.3 1 2 50.0 4 4 100.0 0 4 4 0 1 0 1 2 1
+p623
+aVArron Afflalo NYK 12/10/2015 NYK @ SAC L 33 14 6 14 42.9 0 6 0.0 2 2 100.0 0 4 4 2 1 1 2 5 -1
+p624
+aVLangston Galloway NYK 12/09/2015 NYK @ UTA L 22 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p625
+aVKyle O'Quinn NYK 12/09/2015 NYK @ UTA L 16 9 2 4 50.0 0 1 0.0 5 6 83.3 2 4 6 2 2 1 0 4 7
+p626
+aVJose Calderon NYK 12/09/2015 NYK @ UTA L 21 9 4 5 80.0 1 2 50.0 0 0 - 1 2 3 2 0 1 0 1 -18
+p627
+aVSasha Vujacic NYK 12/09/2015 NYK @ UTA L 27 10 3 5 60.0 2 2 100.0 2 4 50.0 0 1 1 7 3 0 2 3 20
+p628
+aVKristaps Porzingis NYK 12/09/2015 NYK @ UTA L 13 4 2 8 25.0 0 2 0.0 0 0 - 1 2 3 0 0 0 1 2 -27
+p629
+aVLance Thomas NYK 12/09/2015 NYK @ UTA L 22 8 3 10 30.0 1 3 33.3 1 2 50.0 0 4 4 1 0 0 0 2 -11
+p630
+aVArron Afflalo NYK 12/09/2015 NYK @ UTA L 22 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 2 -20
+p631
+aVDerrick Williams NYK 12/09/2015 NYK @ UTA L 20 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 1 0 0 0 3 -5
+p632
+aVRobin Lopez NYK 12/09/2015 NYK @ UTA L 19 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 1 0 2 -16
+p633
+aVJerian Grant NYK 12/09/2015 NYK @ UTA L 14 3 1 7 14.3 1 3 33.3 0 0 - 0 0 0 1 1 0 1 1 -12
+p634
+aVLou Amundson NYK 12/09/2015 NYK @ UTA L 10 10 4 6 66.7 0 0 - 2 6 33.3 1 3 4 1 3 0 0 2 8
+p635
+aVCarmelo Anthony NYK 12/09/2015 NYK @ UTA L 26 12 3 11 27.3 1 4 25.0 5 7 71.4 0 5 5 2 1 0 4 2 -18
+p636
+aVKevin Seraphin NYK 12/09/2015 NYK @ UTA L 9 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 0 0 2 0 -4
+p637
+aVKristaps Porzingis NYK 12/07/2015 NYK vs. DAL L 35 28 13 18 72.2 2 4 50.0 0 0 - 0 2 2 1 1 2 2 1 -2
+p638
+aVLangston Galloway NYK 12/07/2015 NYK vs. DAL L 22 3 1 6 16.7 1 2 50.0 0 0 - 1 3 4 2 2 0 1 0 -8
+p639
+aVJose Calderon NYK 12/07/2015 NYK vs. DAL L 35 14 5 7 71.4 3 4 75.0 1 1 100.0 0 7 7 5 1 0 1 3 -2
+p640
+aVJerian Grant NYK 12/07/2015 NYK vs. DAL L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 2 2 0
+p641
+aVArron Afflalo NYK 12/07/2015 NYK vs. DAL L 30 6 2 6 33.3 0 2 0.0 2 2 100.0 0 6 6 4 0 0 0 4 -7
+p642
+aVRobin Lopez NYK 12/07/2015 NYK vs. DAL L 16 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 1 0 3 -6
+p643
+aVKevin Seraphin NYK 12/07/2015 NYK vs. DAL L 16 6 3 8 37.5 0 0 - 0 0 - 1 4 5 0 0 1 0 0 -8
+p644
+aVLance Thomas NYK 12/07/2015 NYK vs. DAL L 27 11 4 9 44.4 2 5 40.0 1 1 100.0 0 2 2 0 0 0 2 3 5
+p645
+aVDerrick Williams NYK 12/07/2015 NYK vs. DAL L 10 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -3
+p646
+aVCarmelo Anthony NYK 12/07/2015 NYK vs. DAL L 38 17 6 18 33.3 1 6 16.7 4 5 80.0 1 5 6 8 0 0 5 4 -4
+p647
+aVKevin Seraphin NYK 12/05/2015 NYK @ MIL L 24 4 0 4 0.0 0 0 - 4 6 66.7 2 2 4 5 0 2 2 3 7
+p648
+aVCarmelo Anthony NYK 12/05/2015 NYK @ MIL L 32 18 6 17 35.3 2 7 28.6 4 4 100.0 0 5 5 3 1 1 2 5 -23
+p649
+aVJose Calderon NYK 12/05/2015 NYK @ MIL L 26 4 2 4 50.0 0 2 0.0 0 0 - 0 6 6 5 0 0 0 0 -21
+p650
+aVKristaps Porzingis NYK 12/05/2015 NYK @ MIL L 22 12 4 8 50.0 0 1 0.0 4 4 100.0 3 4 7 1 0 0 5 5 -15
+p651
+aVArron Afflalo NYK 12/05/2015 NYK @ MIL L 32 13 6 12 50.0 0 4 0.0 1 2 50.0 0 2 2 0 0 0 1 3 -25
+p652
+aVJerian Grant NYK 12/05/2015 NYK @ MIL L 20 7 2 6 33.3 1 3 33.3 2 4 50.0 0 3 3 2 0 0 1 2 5
+p653
+aVDerrick Williams NYK 12/05/2015 NYK @ MIL L 13 7 3 6 50.0 1 2 50.0 0 0 - 1 2 3 0 0 0 0 1 11
+p654
+aVRobin Lopez NYK 12/05/2015 NYK @ MIL L 21 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 1 3 1 -25
+p655
+aVLance Thomas NYK 12/05/2015 NYK @ MIL L 25 17 6 11 54.5 2 4 50.0 3 4 75.0 0 0 0 1 0 0 1 1 3
+p656
+aVLangston Galloway NYK 12/05/2015 NYK @ MIL L 27 4 1 5 20.0 0 2 0.0 2 2 100.0 0 6 6 4 3 0 0 3 8
+p657
+aVJose Calderon NYK 12/04/2015 NYK vs. BKN W 29 1 0 2 0.0 0 1 0.0 1 2 50.0 0 4 4 9 2 0 2 1 13
+p658
+aVCarmelo Anthony NYK 12/04/2015 NYK vs. BKN W 31 28 9 18 50.0 5 8 62.5 5 7 71.4 1 6 7 3 2 0 2 1 14
+p659
+aVLou Amundson NYK 12/04/2015 NYK vs. BKN W 4 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p660
+aVLangston Galloway NYK 12/04/2015 NYK vs. BKN W 20 8 3 9 33.3 2 5 40.0 0 0 - 0 5 5 2 1 0 0 0 6
+p661
+aVKevin Seraphin NYK 12/04/2015 NYK vs. BKN W 14 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 2 0 1 1 3 -1
+p662
+aVRobin Lopez NYK 12/04/2015 NYK vs. BKN W 30 7 3 6 50.0 0 0 - 1 1 100.0 3 2 5 3 0 3 1 0 21
+p663
+aVKristaps Porzingis NYK 12/04/2015 NYK vs. BKN W 26 19 7 13 53.8 3 4 75.0 2 2 100.0 2 8 10 2 0 2 1 3 15
+p664
+aVArron Afflalo NYK 12/04/2015 NYK vs. BKN W 29 18 7 11 63.6 1 2 50.0 3 3 100.0 0 3 3 1 0 0 1 2 13
+p665
+aVLance Thomas NYK 12/04/2015 NYK vs. BKN W 22 9 3 9 33.3 1 4 25.0 2 2 100.0 1 1 2 0 1 0 2 2 2
+p666
+aVJerian Grant NYK 12/04/2015 NYK vs. BKN W 18 4 2 4 50.0 0 0 - 0 0 - 0 3 3 3 1 0 3 1 2
+p667
+aVDerrick Williams NYK 12/04/2015 NYK vs. BKN W 17 8 3 7 42.9 0 3 0.0 2 2 100.0 0 0 0 0 1 0 0 1 3
+p668
+aVSasha Vujacic NYK 12/02/2015 NYK vs. PHI W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 -7
+p669
+aVLance Thomas NYK 12/02/2015 NYK vs. PHI W 22 10 4 7 57.1 0 1 0.0 2 3 66.7 1 1 2 0 0 1 1 1 8
+p670
+aVJose Calderon NYK 12/02/2015 NYK vs. PHI W 27 11 4 8 50.0 1 3 33.3 2 2 100.0 0 2 2 5 2 0 0 0 11
+p671
+aVKevin Seraphin NYK 12/02/2015 NYK vs. PHI W 17 8 2 5 40.0 0 0 - 4 4 100.0 1 5 6 3 1 1 2 3 8
+p672
+aVLangston Galloway NYK 12/02/2015 NYK vs. PHI W 22 2 0 5 0.0 0 2 0.0 2 2 100.0 1 2 3 0 1 0 0 1 1
+p673
+aVRobin Lopez NYK 12/02/2015 NYK vs. PHI W 22 6 3 6 50.0 0 0 - 0 0 - 1 4 5 3 0 1 2 2 14
+p674
+aVCarmelo Anthony NYK 12/02/2015 NYK vs. PHI W 26 12 5 16 31.3 0 3 0.0 2 2 100.0 0 6 6 2 0 0 4 2 12
+p675
+aVKyle O'Quinn NYK 12/02/2015 NYK vs. PHI W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -5
+p676
+aVArron Afflalo NYK 12/02/2015 NYK vs. PHI W 23 13 6 10 60.0 1 4 25.0 0 0 - 1 7 8 0 1 0 1 3 13
+p677
+aVJerian Grant NYK 12/02/2015 NYK vs. PHI W 21 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 2 0 1 4 1 -1
+p678
+aVDerrick Williams NYK 12/02/2015 NYK vs. PHI W 19 8 3 7 42.9 0 2 0.0 2 4 50.0 1 1 2 1 0 0 0 1 5
+p679
+aVKristaps Porzingis NYK 12/02/2015 NYK vs. PHI W 30 17 6 10 60.0 2 2 100.0 3 3 100.0 1 9 10 2 0 4 2 1 6
+p680
+aVCleanthony Early NYK 12/02/2015 NYK vs. PHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -5
+p681
+aVDerrick Williams NYK 11/29/2015 NYK vs. HOU L 15 12 4 5 80.0 1 1 100.0 3 3 100.0 0 4 4 1 0 0 1 2 2
+p682
+aVRobin Lopez NYK 11/29/2015 NYK vs. HOU L 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 0 1 1 3 -1
+p683
+aVArron Afflalo NYK 11/29/2015 NYK vs. HOU L 41 31 13 19 68.4 2 4 50.0 3 4 75.0 1 6 7 3 1 0 1 1 -6
+p684
+aVLangston Galloway NYK 11/29/2015 NYK vs. HOU L 26 4 2 9 22.2 0 4 0.0 0 0 - 0 0 0 4 1 0 3 3 -7
+p685
+aVLance Thomas NYK 11/29/2015 NYK vs. HOU L 36 15 6 10 60.0 1 2 50.0 2 2 100.0 1 2 3 0 0 0 2 2 -13
+p686
+aVKristaps Porzingis NYK 11/29/2015 NYK vs. HOU L 41 20 8 13 61.5 0 1 0.0 4 4 100.0 3 10 13 1 1 2 2 5 2
+p687
+aVKevin Seraphin NYK 11/29/2015 NYK vs. HOU L 32 14 7 10 70.0 0 0 - 0 0 - 0 7 7 4 1 4 5 3 2
+p688
+aVJerian Grant NYK 11/29/2015 NYK vs. HOU L 12 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 0 1
+p689
+aVCleanthony Early NYK 11/29/2015 NYK vs. HOU L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p690
+aVJose Calderon NYK 11/29/2015 NYK vs. HOU L 38 7 2 7 28.6 1 4 25.0 2 2 100.0 0 5 5 5 1 0 5 4 -3
+p691
+aVKyle O'Quinn NYK 11/29/2015 NYK vs. HOU L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -3
+p692
+aVLangston Galloway NYK 11/27/2015 NYK vs. MIA L 29 8 3 9 33.3 1 2 50.0 1 3 33.3 0 4 4 2 0 0 0 1 -7
+p693
+aVCarmelo Anthony NYK 11/27/2015 NYK vs. MIA L 34 11 4 13 30.8 1 3 33.3 2 2 100.0 1 2 3 1 1 1 1 3 -23
+p694
+aVJose Calderon NYK 11/27/2015 NYK vs. MIA L 25 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -16
+p695
+aVKyle O'Quinn NYK 11/27/2015 NYK vs. MIA L 19 5 1 5 20.0 0 2 0.0 3 4 75.0 3 5 8 3 3 0 2 2 -6
+p696
+aVKevin Seraphin NYK 11/27/2015 NYK vs. MIA L 17 10 5 11 45.5 0 0 - 0 0 - 1 2 3 1 0 0 2 2 -9
+p697
+aVRobin Lopez NYK 11/27/2015 NYK vs. MIA L 14 2 1 6 16.7 0 0 - 0 0 - 1 3 4 1 0 0 1 5 -1
+p698
+aVLance Thomas NYK 11/27/2015 NYK vs. MIA L 14 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 1 -7
+p699
+aVDerrick Williams NYK 11/27/2015 NYK vs. MIA L 18 9 3 6 50.0 1 3 33.3 2 2 100.0 0 2 2 0 0 0 1 1 -6
+p700
+aVKristaps Porzingis NYK 11/27/2015 NYK vs. MIA L 24 11 5 11 45.5 0 1 0.0 1 2 50.0 0 8 8 0 2 3 3 5 -6
+p701
+aVArron Afflalo NYK 11/27/2015 NYK vs. MIA L 19 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 1 0 1 0 2 -12
+p702
+aVLou Amundson NYK 11/27/2015 NYK vs. MIA L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p703
+aVJerian Grant NYK 11/27/2015 NYK vs. MIA L 23 8 4 7 57.1 0 0 - 0 0 - 0 1 1 6 1 0 0 0 -3
+p704
+aVLangston Galloway NYK 11/25/2015 NYK @ ORL L 16 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 5 -10
+p705
+aVArron Afflalo NYK 11/25/2015 NYK @ ORL L 31 10 4 11 36.4 2 4 50.0 0 0 - 0 1 1 1 0 0 1 3 2
+p706
+aVRobin Lopez NYK 11/25/2015 NYK @ ORL L 23 8 4 8 50.0 0 0 - 0 0 - 5 7 12 3 0 2 0 1 4
+p707
+aVLou Amundson NYK 11/25/2015 NYK @ ORL L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p708
+aVKyle O'Quinn NYK 11/25/2015 NYK @ ORL L 12 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 0 0 1 0 1 -12
+p709
+aVJose Calderon NYK 11/25/2015 NYK @ ORL L 35 23 8 14 57.1 4 8 50.0 3 4 75.0 0 3 3 4 1 0 1 1 0
+p710
+aVKevin Seraphin NYK 11/25/2015 NYK @ ORL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -13
+p711
+aVSasha Vujacic NYK 11/25/2015 NYK @ ORL L 14 2 0 3 0.0 0 3 0.0 2 2 100.0 0 1 1 0 0 1 1 4 -3
+p712
+aVKristaps Porzingis NYK 11/25/2015 NYK @ ORL L 36 10 3 13 23.1 0 4 0.0 4 6 66.7 2 7 9 3 0 6 2 1 -2
+p713
+aVJerian Grant NYK 11/25/2015 NYK @ ORL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -7
+p714
+aVCarmelo Anthony NYK 11/25/2015 NYK @ ORL L 35 28 9 17 52.9 3 4 75.0 7 9 77.8 3 9 12 3 1 0 2 4 4
+p715
+aVLance Thomas NYK 11/25/2015 NYK @ ORL L 19 6 1 3 33.3 0 1 0.0 4 4 100.0 1 0 1 0 0 0 0 0 -8
+p716
+aVArron Afflalo NYK 11/23/2015 NYK @ MIA L 33 11 4 10 40.0 1 4 25.0 2 2 100.0 2 1 3 3 0 0 2 3 -9
+p717
+aVDerrick Williams NYK 11/23/2015 NYK @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p718
+aVKevin Seraphin NYK 11/23/2015 NYK @ MIA L 5 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 4
+p719
+aVLou Amundson NYK 11/23/2015 NYK @ MIA L 10 6 2 5 40.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 2 6
+p720
+aVLangston Galloway NYK 11/23/2015 NYK @ MIA L 23 2 1 9 11.1 0 5 0.0 0 0 - 1 3 4 1 1 0 0 4 -22
+p721
+aVCarmelo Anthony NYK 11/23/2015 NYK @ MIA L 41 21 6 16 37.5 0 5 0.0 9 9 100.0 2 6 8 4 4 1 4 0 -7
+p722
+aVSasha Vujacic NYK 11/23/2015 NYK @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p723
+aVJerian Grant NYK 11/23/2015 NYK @ MIA L 12 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -5
+p724
+aVKristaps Porzingis NYK 11/23/2015 NYK @ MIA L 37 20 7 18 38.9 3 5 60.0 3 3 100.0 1 13 14 1 1 2 1 4 -8
+p725
+aVKyle O'Quinn NYK 11/23/2015 NYK @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 2 1 -9
+p726
+aVRobin Lopez NYK 11/23/2015 NYK @ MIA L 30 12 5 12 41.7 0 0 - 2 4 50.0 6 2 8 1 0 0 2 2 -2
+p727
+aVJose Calderon NYK 11/23/2015 NYK @ MIA L 32 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 2 1 0 0 1 -1
+p728
+aVLance Thomas NYK 11/23/2015 NYK @ MIA L 5 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 2 -13
+p729
+aVCarmelo Anthony NYK 11/21/2015 NYK @ HOU W 25 14 5 10 50.0 1 2 50.0 3 4 75.0 3 3 6 0 0 0 3 5 7
+p730
+aVDerrick Williams NYK 11/21/2015 NYK @ HOU W 11 6 1 5 20.0 0 2 0.0 4 4 100.0 1 3 4 0 0 0 0 1 -5
+p731
+aVKristaps Porzingis NYK 11/21/2015 NYK @ HOU W 36 24 8 12 66.7 2 3 66.7 6 6 100.0 5 9 14 2 0 7 3 1 14
+p732
+aVKevin Seraphin NYK 11/21/2015 NYK @ HOU W 7 2 1 4 25.0 0 0 - 0 0 - 3 0 3 1 0 0 0 1 -6
+p733
+aVRobin Lopez NYK 11/21/2015 NYK @ HOU W 25 8 3 5 60.0 0 0 - 2 3 66.7 4 2 6 2 0 0 1 3 8
+p734
+aVJerian Grant NYK 11/21/2015 NYK @ HOU W 13 6 0 4 0.0 0 0 - 6 6 100.0 0 0 0 0 1 0 1 2 -7
+p735
+aVLou Amundson NYK 11/21/2015 NYK @ HOU W 8 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 1 2 -4
+p736
+aVJose Calderon NYK 11/21/2015 NYK @ HOU W 33 11 3 5 60.0 3 5 60.0 2 2 100.0 0 0 0 7 1 0 0 2 8
+p737
+aVLangston Galloway NYK 11/21/2015 NYK @ HOU W 24 12 4 9 44.4 2 4 50.0 2 3 66.7 2 1 3 2 1 1 0 3 2
+p738
+aVLance Thomas NYK 11/21/2015 NYK @ HOU W 24 8 3 8 37.5 0 2 0.0 2 2 100.0 1 2 3 2 1 0 1 2 -4
+p739
+aVArron Afflalo NYK 11/21/2015 NYK @ HOU W 35 16 6 18 33.3 4 7 57.1 0 2 0.0 0 6 6 3 0 0 1 0 12
+p740
+aVKristaps Porzingis NYK 11/20/2015 NYK @ OKC W 26 7 2 5 40.0 1 2 50.0 2 4 50.0 0 6 6 2 0 1 2 1 1
+p741
+aVArron Afflalo NYK 11/20/2015 NYK @ OKC W 29 14 6 11 54.5 2 3 66.7 0 0 - 0 2 2 1 0 0 3 5 4
+p742
+aVJose Calderon NYK 11/20/2015 NYK @ OKC W 30 10 4 7 57.1 2 2 100.0 0 0 - 2 2 4 7 3 0 2 0 -5
+p743
+aVLance Thomas NYK 11/20/2015 NYK @ OKC W 20 12 5 9 55.6 2 3 66.7 0 0 - 2 1 3 1 0 0 0 0 5
+p744
+aVSasha Vujacic NYK 11/20/2015 NYK @ OKC W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p745
+aVCarmelo Anthony NYK 11/20/2015 NYK @ OKC W 35 25 9 20 45.0 1 3 33.3 6 8 75.0 0 5 5 1 1 1 3 0 -1
+p746
+aVKyle O'Quinn NYK 11/20/2015 NYK @ OKC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p747
+aVDerrick Williams NYK 11/20/2015 NYK @ OKC W 16 9 3 5 60.0 2 3 66.7 1 4 25.0 0 3 3 2 0 0 1 1 1
+p748
+aVRobin Lopez NYK 11/20/2015 NYK @ OKC W 33 7 1 3 33.3 0 0 - 5 5 100.0 2 5 7 2 0 3 6 4 0
+p749
+aVLangston Galloway NYK 11/20/2015 NYK @ OKC W 20 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 5 0 2 3 -1
+p750
+aVKevin Seraphin NYK 11/20/2015 NYK @ OKC W 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 5 2
+p751
+aVJerian Grant NYK 11/20/2015 NYK @ OKC W 13 4 1 3 33.3 1 1 100.0 1 2 50.0 0 4 4 2 0 0 0 0 8
+p752
+aVKristaps Porzingis NYK 11/17/2015 NYK vs. CHA W 31 29 10 17 58.8 2 2 100.0 7 7 100.0 2 9 11 0 0 1 1 2 20
+p753
+aVArron Afflalo NYK 11/17/2015 NYK vs. CHA W 36 16 7 15 46.7 2 5 40.0 0 0 - 0 3 3 3 0 0 1 1 22
+p754
+aVCarmelo Anthony NYK 11/17/2015 NYK vs. CHA W 37 18 6 18 33.3 1 4 25.0 5 6 83.3 2 9 11 5 0 2 1 2 19
+p755
+aVLou Amundson NYK 11/17/2015 NYK vs. CHA W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -4
+p756
+aVDerrick Williams NYK 11/17/2015 NYK vs. CHA W 6 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 1 0 1 -15
+p757
+aVSasha Vujacic NYK 11/17/2015 NYK vs. CHA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -3
+p758
+aVKevin Seraphin NYK 11/17/2015 NYK vs. CHA W 21 10 5 10 50.0 0 0 - 0 0 - 2 3 5 4 0 2 2 2 3
+p759
+aVJerian Grant NYK 11/17/2015 NYK vs. CHA W 13 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -8
+p760
+aVLangston Galloway NYK 11/17/2015 NYK vs. CHA W 28 9 3 8 37.5 3 5 60.0 0 0 - 0 4 4 5 1 0 1 3 5
+p761
+aVLance Thomas NYK 11/17/2015 NYK vs. CHA W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p762
+aVJose Calderon NYK 11/17/2015 NYK vs. CHA W 31 8 2 6 33.3 2 3 66.7 2 2 100.0 0 3 3 3 1 0 1 1 6
+p763
+aVRobin Lopez NYK 11/17/2015 NYK vs. CHA W 18 4 1 4 25.0 0 0 - 2 2 100.0 4 3 7 1 1 0 3 3 2
+p764
+aVLou Amundson NYK 11/15/2015 NYK vs. NOP W 10 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -7
+p765
+aVLance Thomas NYK 11/15/2015 NYK vs. NOP W 20 7 2 8 25.0 1 3 33.3 2 2 100.0 0 1 1 0 0 0 1 1 5
+p766
+aVDerrick Williams NYK 11/15/2015 NYK vs. NOP W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 1 0 0 1 2
+p767
+aVJerian Grant NYK 11/15/2015 NYK vs. NOP W 26 7 3 6 50.0 0 1 0.0 1 2 50.0 0 1 1 3 0 0 2 2 5
+p768
+aVCarmelo Anthony NYK 11/15/2015 NYK vs. NOP W 39 29 11 21 52.4 1 5 20.0 6 7 85.7 1 12 13 3 1 0 2 2 10
+p769
+aVJose Calderon NYK 11/15/2015 NYK vs. NOP W 21 8 4 5 80.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 2 7
+p770
+aVRobin Lopez NYK 11/15/2015 NYK vs. NOP W 14 0 0 3 0.0 0 0 - 0 0 - 1 4 5 3 1 2 0 1 2
+p771
+aVArron Afflalo NYK 11/15/2015 NYK vs. NOP W 26 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 3
+p772
+aVKyle O'Quinn NYK 11/15/2015 NYK vs. NOP W 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 1 1 3 -3
+p773
+aVLangston Galloway NYK 11/15/2015 NYK vs. NOP W 26 15 5 6 83.3 1 2 50.0 4 4 100.0 1 2 3 1 2 0 1 0 -1
+p774
+aVSasha Vujacic NYK 11/15/2015 NYK vs. NOP W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 2
+p775
+aVKristaps Porzingis NYK 11/15/2015 NYK vs. NOP W 23 10 4 15 26.7 1 4 25.0 1 2 50.0 1 3 4 0 1 1 0 4 6
+p776
+aVKevin Seraphin NYK 11/15/2015 NYK vs. NOP W 14 12 6 8 75.0 0 0 - 0 0 - 1 2 3 2 1 0 2 1 9
+p777
+aVArron Afflalo NYK 11/13/2015 NYK vs. CLE L 30 14 6 13 46.2 1 4 25.0 1 1 100.0 0 3 3 4 0 0 0 3 -2
+p778
+aVJerian Grant NYK 11/13/2015 NYK vs. CLE L 15 6 0 5 0.0 0 2 0.0 6 6 100.0 0 4 4 1 0 0 1 1 3
+p779
+aVKristaps Porzingis NYK 11/13/2015 NYK vs. CLE L 28 11 5 11 45.5 1 4 25.0 0 0 - 3 4 7 1 0 0 1 1 1
+p780
+aVLou Amundson NYK 11/13/2015 NYK vs. CLE L 20 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 0 0 2 1 2 1
+p781
+aVRobin Lopez NYK 11/13/2015 NYK vs. CLE L 25 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 1 0 0 1 2 -1
+p782
+aVCarmelo Anthony NYK 11/13/2015 NYK vs. CLE L 36 26 9 20 45.0 4 8 50.0 4 4 100.0 1 4 5 4 0 1 1 3 1
+p783
+aVKyle O'Quinn NYK 11/13/2015 NYK vs. CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p784
+aVDerrick Williams NYK 11/13/2015 NYK vs. CLE L 16 5 1 6 16.7 0 2 0.0 3 6 50.0 1 6 7 1 2 1 0 1 -7
+p785
+aVJose Calderon NYK 11/13/2015 NYK vs. CLE L 22 10 4 5 80.0 2 2 100.0 0 0 - 0 2 2 2 3 0 4 3 -12
+p786
+aVLangston Galloway NYK 11/13/2015 NYK vs. CLE L 29 7 3 9 33.3 1 4 25.0 0 0 - 1 5 6 2 1 0 1 5 1
+p787
+aVLance Thomas NYK 11/13/2015 NYK vs. CLE L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 3 3 -9
+p788
+aVLance Thomas NYK 11/11/2015 NYK @ CHA L 15 0 0 3 0.0 0 3 0.0 0 0 - 1 0 1 1 0 0 0 2 -9
+p789
+aVLou Amundson NYK 11/11/2015 NYK @ CHA L 14 9 4 4 100.0 0 0 - 1 1 100.0 1 3 4 1 1 1 0 5 1
+p790
+aVKevin Seraphin NYK 11/11/2015 NYK @ CHA L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -7
+p791
+aVLangston Galloway NYK 11/11/2015 NYK @ CHA L 19 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p792
+aVArron Afflalo NYK 11/11/2015 NYK @ CHA L 28 12 6 13 46.2 0 3 0.0 0 0 - 2 4 6 1 0 0 0 2 0
+p793
+aVKristaps Porzingis NYK 11/11/2015 NYK @ CHA L 32 10 5 10 50.0 0 1 0.0 0 0 - 2 13 15 0 0 2 3 2 9
+p794
+aVJose Calderon NYK 11/11/2015 NYK @ CHA L 28 13 6 9 66.7 1 4 25.0 0 0 - 0 2 2 5 1 0 2 1 3
+p795
+aVJerian Grant NYK 11/11/2015 NYK @ CHA L 19 8 4 8 50.0 0 3 0.0 0 0 - 0 2 2 5 0 0 3 3 -5
+p796
+aVKyle O'Quinn NYK 11/11/2015 NYK @ CHA L 12 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 1 0 1 0 3 3
+p797
+aVRobin Lopez NYK 11/11/2015 NYK @ CHA L 31 0 0 3 0.0 0 0 - 0 0 - 2 7 9 2 1 1 2 1 4
+p798
+aVCarmelo Anthony NYK 11/11/2015 NYK @ CHA L 35 29 12 25 48.0 3 6 50.0 2 4 50.0 1 5 6 4 0 0 3 2 7
+p799
+aVDerrick Williams NYK 11/11/2015 NYK @ CHA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 2 0 2 1 -12
+p800
+aVLou Amundson NYK 11/10/2015 NYK @ TOR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 0
+p801
+aVCarmelo Anthony NYK 11/10/2015 NYK @ TOR W 33 25 10 23 43.5 2 6 33.3 3 3 100.0 0 4 4 3 3 0 2 2 -2
+p802
+aVKevin Seraphin NYK 11/10/2015 NYK @ TOR W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 2 0 2
+p803
+aVRobin Lopez NYK 11/10/2015 NYK @ TOR W 29 12 6 11 54.5 0 0 - 0 0 - 5 3 8 2 1 4 0 6 -4
+p804
+aVKyle O'Quinn NYK 11/10/2015 NYK @ TOR W 12 6 2 7 28.6 0 0 - 2 3 66.7 0 6 6 1 0 2 0 1 1
+p805
+aVLangston Galloway NYK 11/10/2015 NYK @ TOR W 28 15 6 10 60.0 2 3 66.7 1 2 50.0 1 3 4 4 0 0 1 3 10
+p806
+aVSasha Vujacic NYK 11/10/2015 NYK @ TOR W 21 4 2 6 33.3 0 1 0.0 0 0 - 2 4 6 2 1 0 0 3 7
+p807
+aVLance Thomas NYK 11/10/2015 NYK @ TOR W 22 17 5 7 71.4 3 3 100.0 4 4 100.0 1 2 3 0 0 0 0 2 0
+p808
+aVCleanthony Early NYK 11/10/2015 NYK @ TOR W 6 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 4
+p809
+aVDerrick Williams NYK 11/10/2015 NYK @ TOR W 8 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 3 1 0 0 0 -2
+p810
+aVJose Calderon NYK 11/10/2015 NYK @ TOR W 29 8 3 8 37.5 2 4 50.0 0 0 - 0 3 3 2 1 0 0 3 -8
+p811
+aVKristaps Porzingis NYK 11/10/2015 NYK @ TOR W 20 8 3 11 27.3 0 1 0.0 2 2 100.0 3 3 6 1 0 0 3 3 7
+p812
+aVJerian Grant NYK 11/10/2015 NYK @ TOR W 18 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 4 0 0 1 2 -5
+p813
+aVKevin Seraphin NYK 11/08/2015 NYK vs. LAL W 8 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 1 2 1 0 1
+p814
+aVKristaps Porzingis NYK 11/08/2015 NYK vs. LAL W 26 12 3 10 30.0 1 3 33.3 5 6 83.3 2 8 10 1 0 2 0 4 18
+p815
+aVRobin Lopez NYK 11/08/2015 NYK vs. LAL W 31 14 5 9 55.6 0 0 - 4 4 100.0 5 8 13 4 0 1 2 3 4
+p816
+aVLangston Galloway NYK 11/08/2015 NYK vs. LAL W 27 14 5 9 55.6 3 4 75.0 1 1 100.0 0 4 4 1 1 0 0 1 17
+p817
+aVJose Calderon NYK 11/08/2015 NYK vs. LAL W 35 14 6 12 50.0 2 6 33.3 0 0 - 1 4 5 3 2 0 1 1 5
+p818
+aVCarmelo Anthony NYK 11/08/2015 NYK vs. LAL W 35 24 8 20 40.0 2 6 33.3 6 6 100.0 0 8 8 2 0 0 2 4 5
+p819
+aVJerian Grant NYK 11/08/2015 NYK vs. LAL W 18 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 8 0 0 2 2 -6
+p820
+aVLance Thomas NYK 11/08/2015 NYK vs. LAL W 18 7 2 3 66.7 0 0 - 3 4 75.0 0 2 2 0 0 0 0 0 -3
+p821
+aVKyle O'Quinn NYK 11/08/2015 NYK vs. LAL W 11 1 0 1 0.0 0 1 0.0 1 2 50.0 1 1 2 1 0 0 0 0 -10
+p822
+aVSasha Vujacic NYK 11/08/2015 NYK vs. LAL W 15 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 1 1 0 0 0 -8
+p823
+aVDerrick Williams NYK 11/08/2015 NYK vs. LAL W 15 6 1 4 25.0 0 0 - 4 6 66.7 0 1 1 1 0 0 1 0 -3
+p824
+aVCarmelo Anthony NYK 11/06/2015 NYK vs. MIL L 34 17 6 16 37.5 1 3 33.3 4 4 100.0 0 4 4 6 0 0 5 2 0
+p825
+aVLance Thomas NYK 11/06/2015 NYK vs. MIL L 17 5 2 5 40.0 0 1 0.0 1 1 100.0 0 2 2 0 0 0 0 1 -9
+p826
+aVKevin Seraphin NYK 11/06/2015 NYK vs. MIL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p827
+aVJose Calderon NYK 11/06/2015 NYK vs. MIL L 16 0 0 3 0.0 0 3 0.0 0 0 - 1 1 2 5 0 0 1 2 -7
+p828
+aVJerian Grant NYK 11/06/2015 NYK vs. MIL L 23 8 2 5 40.0 0 2 0.0 4 6 66.7 0 2 2 3 1 0 1 4 12
+p829
+aVLangston Galloway NYK 11/06/2015 NYK vs. MIL L 32 13 3 9 33.3 2 5 40.0 5 7 71.4 1 6 7 2 1 0 0 2 0
+p830
+aVSasha Vujacic NYK 11/06/2015 NYK vs. MIL L 27 2 1 5 20.0 0 3 0.0 0 0 - 0 4 4 3 0 0 3 3 -17
+p831
+aVRobin Lopez NYK 11/06/2015 NYK vs. MIL L 22 12 6 9 66.7 0 0 - 0 0 - 0 2 2 0 0 1 1 3 1
+p832
+aVKyle O'Quinn NYK 11/06/2015 NYK vs. MIL L 17 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 3 2 1 -5
+p833
+aVKristaps Porzingis NYK 11/06/2015 NYK vs. MIL L 28 14 6 13 46.2 1 4 25.0 1 2 50.0 9 4 13 1 0 1 2 3 -6
+p834
+aVDerrick Williams NYK 11/06/2015 NYK vs. MIL L 20 15 4 11 36.4 0 3 0.0 7 8 87.5 1 0 1 0 1 0 0 1 -4
+p835
+aVKyle O'Quinn NYK 11/04/2015 NYK @ CLE L 19 8 4 6 66.7 0 1 0.0 0 0 - 1 4 5 1 1 2 2 3 -4
+p836
+aVKevin Seraphin NYK 11/04/2015 NYK @ CLE L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 6
+p837
+aVLangston Galloway NYK 11/04/2015 NYK @ CLE L 29 12 4 9 44.4 3 5 60.0 1 2 50.0 2 2 4 0 2 0 1 1 -22
+p838
+aVKristaps Porzingis NYK 11/04/2015 NYK @ CLE L 21 13 6 11 54.5 1 4 25.0 0 0 - 1 3 4 1 2 2 0 5 -1
+p839
+aVJerian Grant NYK 11/04/2015 NYK @ CLE L 17 6 0 5 0.0 0 2 0.0 6 6 100.0 0 1 1 2 0 0 0 2 -5
+p840
+aVDerrick Williams NYK 11/04/2015 NYK @ CLE L 11 7 2 4 50.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 1 1 1
+p841
+aVCleanthony Early NYK 11/04/2015 NYK @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p842
+aVSasha Vujacic NYK 11/04/2015 NYK @ CLE L 22 9 4 10 40.0 1 5 20.0 0 0 - 0 4 4 0 0 0 2 0 7
+p843
+aVJose Calderon NYK 11/04/2015 NYK @ CLE L 29 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 5 0 0 1 0 0
+p844
+aVCarmelo Anthony NYK 11/04/2015 NYK @ CLE L 37 17 6 18 33.3 2 5 40.0 3 4 75.0 2 10 12 4 1 2 1 4 -11
+p845
+aVRobin Lopez NYK 11/04/2015 NYK @ CLE L 28 6 3 9 33.3 0 0 - 0 0 - 1 3 4 2 0 0 3 3 -13
+p846
+aVLance Thomas NYK 11/04/2015 NYK @ CLE L 15 2 1 3 33.3 0 0 - 0 1 0.0 1 0 1 1 0 0 1 3 -10
+p847
+aVKristaps Porzingis NYK 11/02/2015 NYK vs. SAS L 24 13 5 15 33.3 1 5 20.0 2 2 100.0 8 6 14 1 3 2 2 5 -8
+p848
+aVKyle O'Quinn NYK 11/02/2015 NYK vs. SAS L 19 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 1 0 0 3 7
+p849
+aVCleanthony Early NYK 11/02/2015 NYK vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p850
+aVJose Calderon NYK 11/02/2015 NYK vs. SAS L 23 6 2 5 40.0 2 2 100.0 0 0 - 0 0 0 2 1 0 1 2 -1
+p851
+aVLance Thomas NYK 11/02/2015 NYK vs. SAS L 16 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p852
+aVSasha Vujacic NYK 11/02/2015 NYK vs. SAS L 20 2 1 7 14.3 0 2 0.0 0 0 - 2 2 4 3 0 0 2 0 -10
+p853
+aVDerrick Williams NYK 11/02/2015 NYK vs. SAS L 11 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 0 0 1 1 0 -12
+p854
+aVLangston Galloway NYK 11/02/2015 NYK vs. SAS L 29 6 2 5 40.0 0 0 - 2 4 50.0 1 4 5 1 1 0 1 0 -14
+p855
+aVRobin Lopez NYK 11/02/2015 NYK vs. SAS L 32 10 5 12 41.7 0 0 - 0 0 - 1 4 5 4 1 0 1 2 -15
+p856
+aVKevin Seraphin NYK 11/02/2015 NYK vs. SAS L 5 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p857
+aVCarmelo Anthony NYK 11/02/2015 NYK vs. SAS L 35 19 4 17 23.5 1 3 33.3 10 12 83.3 3 4 7 2 1 0 1 3 -9
+p858
+aVJerian Grant NYK 11/02/2015 NYK vs. SAS L 23 12 5 8 62.5 0 0 - 2 3 66.7 0 4 4 3 0 0 1 2 5
+p859
+aVJerian Grant NYK 10/31/2015 NYK @ WAS W 21 7 3 7 42.9 1 1 100.0 0 0 - 1 1 2 0 3 0 3 3 7
+p860
+aVLance Thomas NYK 10/31/2015 NYK @ WAS W 26 12 6 8 75.0 0 0 - 0 1 0.0 0 1 1 1 1 0 2 2 0
+p861
+aVJose Calderon NYK 10/31/2015 NYK @ WAS W 21 10 4 9 44.4 1 4 25.0 1 1 100.0 0 0 0 3 1 0 2 3 -7
+p862
+aVKyle O'Quinn NYK 10/31/2015 NYK @ WAS W 15 10 3 5 60.0 0 0 - 4 5 80.0 0 2 2 1 0 1 2 4 -10
+p863
+aVSasha Vujacic NYK 10/31/2015 NYK @ WAS W 26 4 2 10 20.0 0 4 0.0 0 0 - 1 5 6 4 1 0 1 2 6
+p864
+aVRobin Lopez NYK 10/31/2015 NYK @ WAS W 31 8 3 10 30.0 0 0 - 2 2 100.0 4 4 8 3 0 2 3 4 13
+p865
+aVKristaps Porzingis NYK 10/31/2015 NYK @ WAS W 21 8 3 6 50.0 0 0 - 2 2 100.0 1 5 6 0 0 0 1 4 10
+p866
+aVDerrick Williams NYK 10/31/2015 NYK @ WAS W 15 7 2 5 40.0 1 2 50.0 2 4 50.0 0 1 1 1 1 0 1 2 2
+p867
+aVLangston Galloway NYK 10/31/2015 NYK @ WAS W 28 14 4 8 50.0 2 3 66.7 4 5 80.0 1 6 7 4 1 1 1 3 8
+p868
+aVCarmelo Anthony NYK 10/31/2015 NYK @ WAS W 36 37 11 18 61.1 4 5 80.0 11 12 91.7 1 6 7 4 0 1 2 3 6
+p869
+aVCleanthony Early NYK 10/29/2015 NYK vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p870
+aVJerian Grant NYK 10/29/2015 NYK vs. ATL L 29 5 2 4 50.0 0 0 - 1 2 50.0 1 6 7 7 0 0 3 3 6
+p871
+aVLangston Galloway NYK 10/29/2015 NYK vs. ATL L 25 8 2 4 50.0 2 4 50.0 2 2 100.0 0 4 4 3 1 0 0 2 5
+p872
+aVSasha Vujacic NYK 10/29/2015 NYK vs. ATL L 25 6 2 8 25.0 2 6 33.3 0 0 - 2 0 2 2 0 1 2 3 -18
+p873
+aVLance Thomas NYK 10/29/2015 NYK vs. ATL L 22 8 2 6 33.3 2 3 66.7 2 2 100.0 0 3 3 1 0 0 2 3 -4
+p874
+aVKristaps Porzingis NYK 10/29/2015 NYK vs. ATL L 26 10 4 10 40.0 0 4 0.0 2 2 100.0 2 6 8 0 3 1 4 5 -5
+p875
+aVJose Calderon NYK 10/29/2015 NYK vs. ATL L 18 2 0 5 0.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 0 2 -18
+p876
+aVRobin Lopez NYK 10/29/2015 NYK vs. ATL L 21 18 8 11 72.7 0 0 - 2 2 100.0 2 2 4 1 0 1 5 0 -13
+p877
+aVKyle O'Quinn NYK 10/29/2015 NYK vs. ATL L 22 10 5 9 55.6 0 0 - 0 0 - 6 4 10 3 1 1 3 1 9
+p878
+aVCarmelo Anthony NYK 10/29/2015 NYK vs. ATL L 32 25 10 27 37.0 0 7 0.0 5 5 100.0 3 4 7 3 3 0 1 4 -18
+p879
+aVDerrick Williams NYK 10/29/2015 NYK vs. ATL L 18 9 3 9 33.3 0 3 0.0 3 4 75.0 0 2 2 0 1 0 1 0 -2
+p880
+aVDerrick Williams NYK 10/28/2015 NYK @ MIL W 21 24 8 17 47.1 1 3 33.3 7 9 77.8 4 3 7 1 0 1 2 1 20
+p881
+aVKyle O'Quinn NYK 10/28/2015 NYK @ MIL W 23 8 4 10 40.0 0 1 0.0 0 0 - 7 4 11 3 1 2 1 4 23
+p882
+aVLance Thomas NYK 10/28/2015 NYK @ MIL W 20 13 5 5 100.0 0 0 - 3 3 100.0 1 2 3 1 0 0 1 1 20
+p883
+aVLangston Galloway NYK 10/28/2015 NYK @ MIL W 25 16 5 10 50.0 4 5 80.0 2 2 100.0 2 2 4 3 0 0 0 4 13
+p884
+aVCarmelo Anthony NYK 10/28/2015 NYK @ MIL W 29 11 4 16 25.0 1 5 20.0 2 2 100.0 0 6 6 5 1 1 2 4 4
+p885
+aVRobin Lopez NYK 10/28/2015 NYK @ MIL W 20 8 3 5 60.0 0 0 - 2 2 100.0 2 0 2 0 0 2 2 3 0
+p886
+aVJose Calderon NYK 10/28/2015 NYK @ MIL W 18 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 1 0 0 1 4 1
+p887
+aVSasha Vujacic NYK 10/28/2015 NYK @ MIL W 29 11 4 6 66.7 1 2 50.0 2 3 66.7 1 5 6 3 4 0 0 1 16
+p888
+aVJerian Grant NYK 10/28/2015 NYK @ MIL W 24 10 4 7 57.1 0 1 0.0 2 2 100.0 0 1 1 5 3 0 0 2 20
+p889
+aVCleanthony Early NYK 10/28/2015 NYK @ MIL W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 7
+p890
+aVKristaps Porzingis NYK 10/28/2015 NYK @ MIL W 24 16 3 11 27.3 1 2 50.0 9 12 75.0 2 3 5 1 1 1 2 3 1
+p891
+a.

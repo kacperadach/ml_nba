@@ -1,0 +1,1538 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEric Riley DAL 04/17/1998 DAL @ LAL L 16 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 5 -19
+p2
+aVShawn Bradley DAL 04/17/1998 DAL @ LAL L 28 10 2 10 20.0 0 0 - 6 6 100.0 4 2 6 4 1 3 1 6 -5
+p3
+aVShawn Respert DAL 04/17/1998 DAL @ LAL L 28 10 5 13 38.5 0 2 0.0 0 0 - 0 1 1 1 1 0 2 3 -12
+p4
+aVKhalid Reeves DAL 04/17/1998 DAL @ LAL L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 2 0 2 2 -7
+p5
+aVMichael Finley DAL 04/17/1998 DAL @ LAL L 47 31 13 30 43.3 0 3 0.0 5 5 100.0 2 4 6 7 3 0 2 3 -29
+p6
+aVErick Strickland DAL 04/17/1998 DAL @ LAL L 35 14 6 13 46.2 1 1 100.0 1 2 50.0 0 2 2 3 0 1 3 3 -9
+p7
+aVHubert Davis DAL 04/17/1998 DAL @ LAL L 41 21 9 17 52.9 3 5 60.0 0 0 - 1 0 1 1 0 0 2 0 -38
+p8
+aVA.C. Green DAL 04/17/1998 DAL @ LAL L 28 4 2 6 33.3 0 0 - 0 0 - 6 3 9 6 2 1 1 3 -22
+p9
+aVBubba Wells DAL 04/17/1998 DAL @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -4
+p10
+aVMichael Finley DAL 04/16/1998 DAL @ GSW L 45 20 9 25 36.0 0 2 0.0 2 4 50.0 3 5 8 9 0 0 5 3 -4
+p11
+aVHubert Davis DAL 04/16/1998 DAL @ GSW L 36 16 7 14 50.0 2 5 40.0 0 0 - 0 1 1 1 0 1 2 1 -9
+p12
+aVShawn Respert DAL 04/16/1998 DAL @ GSW L 21 7 3 9 33.3 1 2 50.0 0 0 - 3 2 5 0 0 0 0 1 -9
+p13
+aVEric Riley DAL 04/16/1998 DAL @ GSW L 24 6 2 3 66.7 0 0 - 2 2 100.0 2 3 5 3 1 2 3 2 -2
+p14
+aVKhalid Reeves DAL 04/16/1998 DAL @ GSW L 28 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 5 3 0 1 1 5
+p15
+aVA.C. Green DAL 04/16/1998 DAL @ GSW L 43 14 5 11 45.5 0 0 - 4 4 100.0 6 8 14 4 0 2 2 2 -2
+p16
+aVErick Strickland DAL 04/16/1998 DAL @ GSW L 15 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 1 0 1 1 1 -2
+p17
+aVShawn Bradley DAL 04/16/1998 DAL @ GSW L 28 9 4 14 28.6 0 0 - 1 2 50.0 3 5 8 3 1 2 0 4 -7
+p18
+aVKhalid Reeves DAL 04/14/1998 DAL vs. LAL L 33 12 3 6 50.0 0 1 0.0 6 7 85.7 0 1 1 2 1 0 1 4 -7
+p19
+aVA.C. Green DAL 04/14/1998 DAL vs. LAL L 28 8 4 13 30.8 0 0 - 0 0 - 2 4 6 1 0 1 0 1 -27
+p20
+aVShawn Bradley DAL 04/14/1998 DAL vs. LAL L 24 13 5 10 50.0 0 0 - 3 4 75.0 1 5 6 0 1 1 1 6 -15
+p21
+aVBubba Wells DAL 04/14/1998 DAL vs. LAL L 7 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 7
+p22
+aVErick Strickland DAL 04/14/1998 DAL vs. LAL L 28 10 5 12 41.7 0 2 0.0 0 1 0.0 2 2 4 3 2 0 3 0 -2
+p23
+aVMichael Finley DAL 04/14/1998 DAL vs. LAL L 44 23 8 22 36.4 0 1 0.0 7 8 87.5 4 7 11 10 1 0 1 2 -18
+p24
+aVEric Riley DAL 04/14/1998 DAL vs. LAL L 26 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 0 2 1 1 4 10
+p25
+aVShawn Respert DAL 04/14/1998 DAL vs. LAL L 12 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p26
+aVHubert Davis DAL 04/14/1998 DAL vs. LAL L 38 15 6 11 54.5 3 5 60.0 0 0 - 0 1 1 3 1 0 3 2 -21
+p27
+aVErick Strickland DAL 04/11/1998 DAL vs. DEN W 32 16 6 13 46.2 1 2 50.0 3 4 75.0 1 2 3 3 3 0 1 3 20
+p28
+aVShawn Respert DAL 04/11/1998 DAL vs. DEN W 20 9 4 11 36.4 1 4 25.0 0 0 - 0 2 2 1 0 0 0 0 9
+p29
+aVShawn Bradley DAL 04/11/1998 DAL vs. DEN W 32 18 7 11 63.6 0 0 - 4 4 100.0 4 10 14 2 0 4 3 6 14
+p30
+aVMartin Muursepp DAL 04/11/1998 DAL vs. DEN W 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 1
+p31
+aVKhalid Reeves DAL 04/11/1998 DAL vs. DEN W 23 13 4 8 50.0 1 2 50.0 4 5 80.0 1 2 3 3 1 1 1 0 9
+p32
+aVA.C. Green DAL 04/11/1998 DAL vs. DEN W 39 11 4 10 40.0 0 0 - 3 4 75.0 4 9 13 1 1 0 2 1 16
+p33
+aVMichael Finley DAL 04/11/1998 DAL vs. DEN W 35 15 7 13 53.8 0 1 0.0 1 2 50.0 0 8 8 7 1 1 4 1 4
+p34
+aVHubert Davis DAL 04/11/1998 DAL vs. DEN W 31 7 3 11 27.3 1 4 25.0 0 0 - 0 1 1 5 0 0 1 3 13
+p35
+aVEric Riley DAL 04/11/1998 DAL vs. DEN W 16 6 3 3 100.0 0 0 - 0 0 - 2 2 4 1 0 2 0 2 4
+p36
+aVChris Anstey DAL 04/09/1998 DAL vs. SEA L 15 8 2 5 40.0 1 1 100.0 3 4 75.0 2 3 5 1 1 1 0 4 6
+p37
+aVMichael Finley DAL 04/09/1998 DAL vs. SEA L 48 27 11 22 50.0 0 5 0.0 5 5 100.0 2 3 5 6 1 0 6 1 -2
+p38
+aVKhalid Reeves DAL 04/09/1998 DAL vs. SEA L 25 8 3 6 50.0 1 2 50.0 1 2 50.0 0 4 4 3 2 0 1 2 -4
+p39
+aVShawn Bradley DAL 04/09/1998 DAL vs. SEA L 36 14 5 12 41.7 0 0 - 4 4 100.0 1 6 7 2 1 3 2 2 -6
+p40
+aVMartin Muursepp DAL 04/09/1998 DAL vs. SEA L 28 9 4 7 57.1 0 2 0.0 1 2 50.0 0 2 2 1 1 1 0 3 -4
+p41
+aVA.C. Green DAL 04/09/1998 DAL vs. SEA L 41 5 0 5 0.0 0 0 - 5 6 83.3 5 13 18 4 2 2 3 3 8
+p42
+aVErick Strickland DAL 04/09/1998 DAL vs. SEA L 22 14 6 11 54.5 0 2 0.0 2 2 100.0 0 0 0 2 4 0 0 1 -5
+p43
+aVHubert Davis DAL 04/09/1998 DAL vs. SEA L 25 16 4 8 50.0 1 5 20.0 7 7 100.0 0 2 2 0 2 0 2 1 -3
+p44
+aVChris Anstey DAL 04/07/1998 DAL vs. POR L 23 5 2 10 20.0 0 1 0.0 1 2 50.0 1 3 4 1 2 2 3 3 -17
+p45
+aVHubert Davis DAL 04/07/1998 DAL vs. POR L 34 11 4 8 50.0 1 2 50.0 2 3 66.7 0 0 0 6 0 0 0 1 10
+p46
+aVBubba Wells DAL 04/07/1998 DAL vs. POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p47
+aVErick Strickland DAL 04/07/1998 DAL vs. POR L 23 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 2 1 0 3 0 9
+p48
+aVMartin Muursepp DAL 04/07/1998 DAL vs. POR L 25 9 3 8 37.5 1 1 100.0 2 2 100.0 1 4 5 1 1 0 3 2 -10
+p49
+aVKhalid Reeves DAL 04/07/1998 DAL vs. POR L 23 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 1 0 0 1 1 -11
+p50
+aVA.C. Green DAL 04/07/1998 DAL vs. POR L 33 8 4 9 44.4 0 0 - 0 0 - 3 4 7 0 3 1 0 1 -18
+p51
+aVMichael Finley DAL 04/07/1998 DAL vs. POR L 40 24 8 15 53.3 0 0 - 8 12 66.7 0 3 3 4 1 0 2 3 -21
+p52
+aVShawn Bradley DAL 04/07/1998 DAL vs. POR L 38 22 6 15 40.0 0 0 - 10 10 100.0 5 17 22 0 1 13 2 3 17
+p53
+aVErick Strickland DAL 04/05/1998 DAL @ SAC L 25 17 7 12 58.3 0 1 0.0 3 4 75.0 2 1 3 1 0 0 1 1 -3
+p54
+aVEric Riley DAL 04/05/1998 DAL @ SAC L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 4 2 0 4
+p55
+aVShawn Bradley DAL 04/05/1998 DAL @ SAC L 19 6 3 8 37.5 0 0 - 0 0 - 0 4 4 0 0 5 0 3 -7
+p56
+aVMartin Muursepp DAL 04/05/1998 DAL @ SAC L 37 16 4 7 57.1 1 2 50.0 7 8 87.5 6 8 14 1 1 0 1 5 8
+p57
+aVHubert Davis DAL 04/05/1998 DAL @ SAC L 29 16 6 11 54.5 4 5 80.0 0 0 - 0 1 1 0 0 0 1 1 -1
+p58
+aVKhalid Reeves DAL 04/05/1998 DAL @ SAC L 19 6 3 6 50.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -5
+p59
+aVShawn Respert DAL 04/05/1998 DAL @ SAC L 23 11 5 11 45.5 1 2 50.0 0 0 - 0 5 5 1 1 0 2 3 -2
+p60
+aVA.C. Green DAL 04/05/1998 DAL @ SAC L 32 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 0 0 2 2 -18
+p61
+aVMichael Finley DAL 04/05/1998 DAL @ SAC L 48 23 9 22 40.9 0 4 0.0 5 6 83.3 3 4 7 9 5 0 4 2 -6
+p62
+aVEric Riley DAL 04/03/1998 DAL @ POR L 13 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 1 -2
+p63
+aVHubert Davis DAL 04/03/1998 DAL @ POR L 32 25 9 15 60.0 4 9 44.4 3 4 75.0 0 3 3 5 3 0 5 3 2
+p64
+aVKhalid Reeves DAL 04/03/1998 DAL @ POR L 25 11 4 9 44.4 0 2 0.0 3 5 60.0 1 2 3 7 0 0 0 1 -15
+p65
+aVMichael Finley DAL 04/03/1998 DAL @ POR L 47 32 11 20 55.0 3 5 60.0 7 9 77.8 2 3 5 5 0 0 2 1 -4
+p66
+aVErick Strickland DAL 04/03/1998 DAL @ POR L 27 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 3 0 0 0 1 -6
+p67
+aVShawn Respert DAL 04/03/1998 DAL @ POR L 29 13 6 9 66.7 0 1 0.0 1 3 33.3 0 2 2 3 0 0 3 1 -1
+p68
+aVA.C. Green DAL 04/03/1998 DAL @ POR L 42 12 6 9 66.7 0 0 - 0 0 - 3 7 10 1 3 0 1 0 -1
+p69
+aVShawn Bradley DAL 04/03/1998 DAL @ POR L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 2 0 5 -12
+p70
+aVMartin Muursepp DAL 04/03/1998 DAL @ POR L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 1 0 4 4
+p71
+aVMichael Finley DAL 04/02/1998 DAL @ SEA L 39 10 5 14 35.7 0 2 0.0 0 0 - 2 3 5 5 2 0 3 2 -23
+p72
+aVErick Strickland DAL 04/02/1998 DAL @ SEA L 26 16 5 13 38.5 4 6 66.7 2 2 100.0 1 4 5 5 0 0 3 3 -11
+p73
+aVEric Riley DAL 04/02/1998 DAL @ SEA L 12 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 2 3 2 -11
+p74
+aVA.C. Green DAL 04/02/1998 DAL @ SEA L 37 21 7 9 77.8 0 0 - 7 8 87.5 2 7 9 0 0 1 2 4 -16
+p75
+aVHubert Davis DAL 04/02/1998 DAL @ SEA L 33 6 3 10 30.0 0 3 0.0 0 0 - 0 2 2 2 0 0 1 2 -13
+p76
+aVShawn Bradley DAL 04/02/1998 DAL @ SEA L 21 13 6 10 60.0 0 0 - 1 1 100.0 3 1 4 0 1 2 1 2 -8
+p77
+aVKhalid Reeves DAL 04/02/1998 DAL @ SEA L 22 7 1 6 16.7 0 1 0.0 5 6 83.3 2 1 3 3 2 0 2 6 -14
+p78
+aVMartin Muursepp DAL 04/02/1998 DAL @ SEA L 22 6 3 6 50.0 0 0 - 0 0 - 0 5 5 1 2 0 3 2 -2
+p79
+aVShawn Respert DAL 04/02/1998 DAL @ SEA L 29 5 2 9 22.2 1 6 16.7 0 0 - 3 3 6 8 0 0 4 2 -7
+p80
+aVMartin Muursepp DAL 03/31/1998 DAL @ VAN W 32 7 2 11 18.2 0 1 0.0 3 4 75.0 7 0 7 3 1 0 2 5 -3
+p81
+aVBubba Wells DAL 03/31/1998 DAL @ VAN W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -7
+p82
+aVKhalid Reeves DAL 03/31/1998 DAL @ VAN W 29 10 4 6 66.7 2 2 100.0 0 2 0.0 0 1 1 6 1 0 0 4 5
+p83
+aVA.C. Green DAL 03/31/1998 DAL @ VAN W 33 22 9 17 52.9 0 0 - 4 4 100.0 5 2 7 2 1 0 0 2 18
+p84
+aVErick Strickland DAL 03/31/1998 DAL @ VAN W 29 6 3 10 30.0 0 1 0.0 0 0 - 1 1 2 5 2 0 0 2 -3
+p85
+aVMichael Finley DAL 03/31/1998 DAL @ VAN W 38 22 8 18 44.4 0 3 0.0 6 6 100.0 2 2 4 7 3 0 3 2 9
+p86
+aVShawn Respert DAL 03/31/1998 DAL @ VAN W 14 14 5 6 83.3 1 2 50.0 3 4 75.0 0 1 1 0 1 0 0 1 1
+p87
+aVEric Riley DAL 03/31/1998 DAL @ VAN W 33 8 4 13 30.8 0 0 - 0 0 - 7 5 12 2 0 5 0 0 -2
+p88
+aVHubert Davis DAL 03/31/1998 DAL @ VAN W 21 13 5 10 50.0 2 6 33.3 1 1 100.0 0 2 2 1 0 0 1 2 -3
+p89
+aVKhalid Reeves DAL 03/29/1998 DAL @ LAC L 20 4 1 5 20.0 0 1 0.0 2 4 50.0 0 0 0 1 0 0 1 2 -15
+p90
+aVErick Strickland DAL 03/29/1998 DAL @ LAC L 25 5 2 8 25.0 0 0 - 1 2 50.0 2 6 8 1 0 0 2 3 -9
+p91
+aVShawn Bradley DAL 03/29/1998 DAL @ LAC L 12 4 2 7 28.6 0 0 - 0 0 - 2 3 5 0 0 0 2 0 -4
+p92
+aVA.C. Green DAL 03/29/1998 DAL @ LAC L 30 8 4 5 80.0 0 0 - 0 0 - 3 4 7 2 1 1 1 0 -9
+p93
+aVMichael Finley DAL 03/29/1998 DAL @ LAC L 38 24 10 16 62.5 2 3 66.7 2 4 50.0 1 4 5 5 1 0 3 1 -17
+p94
+aVHubert Davis DAL 03/29/1998 DAL @ LAC L 23 14 6 14 42.9 2 3 66.7 0 1 0.0 0 2 2 1 2 0 0 0 -11
+p95
+aVEric Riley DAL 03/29/1998 DAL @ LAC L 30 6 3 8 37.5 0 0 - 0 0 - 1 3 4 2 0 1 4 3 -25
+p96
+aVShawn Respert DAL 03/29/1998 DAL @ LAC L 17 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 2 1 0 2 2 -5
+p97
+aVBubba Wells DAL 03/29/1998 DAL @ LAC L 20 8 2 8 25.0 0 1 0.0 4 4 100.0 1 3 4 2 1 0 2 3 -18
+p98
+aVMartin Muursepp DAL 03/29/1998 DAL @ LAC L 24 6 0 1 0.0 0 1 0.0 6 10 60.0 4 3 7 0 2 0 6 4 2
+p99
+aVShawn Respert DAL 03/27/1998 DAL vs. UTA L 22 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 1 1 0 2 3 2
+p100
+aVHubert Davis DAL 03/27/1998 DAL vs. UTA L 33 24 8 12 66.7 3 4 75.0 5 6 83.3 0 0 0 1 2 0 1 0 -1
+p101
+aVA.C. Green DAL 03/27/1998 DAL vs. UTA L 32 8 4 8 50.0 0 1 0.0 0 0 - 1 4 5 1 0 0 1 4 -19
+p102
+aVShawn Bradley DAL 03/27/1998 DAL vs. UTA L 21 7 3 8 37.5 0 0 - 1 1 100.0 2 0 2 1 2 6 2 6 6
+p103
+aVErick Strickland DAL 03/27/1998 DAL vs. UTA L 30 9 4 7 57.1 1 1 100.0 0 0 - 1 5 6 8 1 0 1 4 0
+p104
+aVBubba Wells DAL 03/27/1998 DAL vs. UTA L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p105
+aVMartin Muursepp DAL 03/27/1998 DAL vs. UTA L 20 8 2 8 25.0 2 4 50.0 2 2 100.0 0 1 1 1 1 0 1 0 -17
+p106
+aVEric Riley DAL 03/27/1998 DAL vs. UTA L 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 0 4 -5
+p107
+aVMichael Finley DAL 03/27/1998 DAL vs. UTA L 45 24 7 21 33.3 2 4 50.0 8 12 66.7 0 5 5 8 1 0 2 1 -1
+p108
+aVKhalid Reeves DAL 03/27/1998 DAL vs. UTA L 19 3 1 6 16.7 1 3 33.3 0 2 0.0 0 0 0 3 0 0 1 3 -9
+p109
+aVEric Riley DAL 03/25/1998 DAL @ DEN W 30 9 4 8 50.0 0 0 - 1 2 50.0 2 6 8 1 1 4 1 3 -1
+p110
+aVMichael Finley DAL 03/25/1998 DAL @ DEN W 27 22 9 16 56.3 1 2 50.0 3 3 100.0 0 2 2 2 1 1 1 1 11
+p111
+aVErick Strickland DAL 03/25/1998 DAL @ DEN W 24 12 5 12 41.7 0 1 0.0 2 4 50.0 2 3 5 2 3 0 1 3 0
+p112
+aVShawn Bradley DAL 03/25/1998 DAL @ DEN W 15 12 3 6 50.0 0 0 - 6 6 100.0 0 5 5 0 0 2 0 1 5
+p113
+aVA.C. Green DAL 03/25/1998 DAL @ DEN W 39 10 2 7 28.6 0 0 - 6 6 100.0 3 8 11 0 1 1 1 2 15
+p114
+aVHubert Davis DAL 03/25/1998 DAL @ DEN W 28 12 5 7 71.4 1 1 100.0 1 1 100.0 1 2 3 2 0 0 2 0 5
+p115
+aVBubba Wells DAL 03/25/1998 DAL @ DEN W 21 10 4 7 57.1 0 0 - 2 3 66.7 2 4 6 1 1 1 2 3 0
+p116
+aVKhalid Reeves DAL 03/25/1998 DAL @ DEN W 20 2 1 4 25.0 0 0 - 0 0 - 0 0 0 6 0 0 1 0 6
+p117
+aVMartin Muursepp DAL 03/25/1998 DAL @ DEN W 36 16 5 8 62.5 2 5 40.0 4 5 80.0 1 1 2 3 3 0 0 5 14
+p118
+aVMichael Finley DAL 03/23/1998 DAL vs. MIN W 47 27 11 22 50.0 2 4 50.0 3 4 75.0 0 7 7 7 0 0 1 2 6
+p119
+aVA.C. Green DAL 03/23/1998 DAL vs. MIN W 34 2 0 3 0.0 0 0 - 2 2 100.0 2 7 9 1 1 0 1 2 -1
+p120
+aVEric Riley DAL 03/23/1998 DAL vs. MIN W 16 2 0 3 0.0 0 0 - 2 2 100.0 1 4 5 1 0 0 2 3 -16
+p121
+aVKhalid Reeves DAL 03/23/1998 DAL vs. MIN W 34 10 3 10 30.0 2 3 66.7 2 2 100.0 2 2 4 7 1 0 2 3 7
+p122
+aVShawn Bradley DAL 03/23/1998 DAL vs. MIN W 32 16 7 14 50.0 0 0 - 2 6 33.3 4 8 12 1 1 4 4 1 19
+p123
+aVMartin Muursepp DAL 03/23/1998 DAL vs. MIN W 14 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 1 2 0 3 5
+p124
+aVHubert Davis DAL 03/23/1998 DAL vs. MIN W 35 16 7 15 46.7 2 4 50.0 0 0 - 1 5 6 1 0 0 0 0 16
+p125
+aVBubba Wells DAL 03/23/1998 DAL vs. MIN W 5 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 2 0 -2
+p126
+aVErick Strickland DAL 03/23/1998 DAL vs. MIN W 23 9 4 9 44.4 1 3 33.3 0 0 - 0 2 2 0 0 0 3 3 -14
+p127
+aVChris Anstey DAL 03/21/1998 DAL vs. HOU L 23 3 1 6 16.7 0 0 - 1 1 100.0 0 5 5 3 1 0 0 0 -22
+p128
+aVMichael Finley DAL 03/21/1998 DAL vs. HOU L 44 26 9 20 45.0 2 2 100.0 6 8 75.0 2 3 5 7 3 0 4 1 -11
+p129
+aVBubba Wells DAL 03/21/1998 DAL vs. HOU L 21 2 1 4 25.0 0 0 - 0 0 - 2 2 4 2 1 0 1 0 1
+p130
+aVKhalid Reeves DAL 03/21/1998 DAL vs. HOU L 24 7 3 8 37.5 1 4 25.0 0 0 - 0 0 0 0 1 1 0 2 6
+p131
+aVA.C. Green DAL 03/21/1998 DAL vs. HOU L 31 6 3 8 37.5 0 0 - 0 0 - 1 4 5 0 1 1 0 3 -21
+p132
+aVMartin Muursepp DAL 03/21/1998 DAL vs. HOU L 20 11 4 10 40.0 1 4 25.0 2 2 100.0 1 1 2 2 1 1 1 3 4
+p133
+aVHubert Davis DAL 03/21/1998 DAL vs. HOU L 26 9 3 7 42.9 1 1 100.0 2 2 100.0 1 1 2 4 0 0 1 0 -13
+p134
+aVShawn Bradley DAL 03/21/1998 DAL vs. HOU L 30 23 11 16 68.8 0 0 - 1 4 25.0 3 6 9 0 4 1 1 3 7
+p135
+aVErick Strickland DAL 03/21/1998 DAL vs. HOU L 22 8 3 8 37.5 0 2 0.0 2 2 100.0 0 3 3 6 0 1 1 1 9
+p136
+aVChris Anstey DAL 03/19/1998 DAL vs. GSW W 28 2 1 9 11.1 0 1 0.0 0 0 - 3 2 5 0 0 0 2 3 -8
+p137
+aVHubert Davis DAL 03/19/1998 DAL vs. GSW W 23 7 2 5 40.0 1 1 100.0 2 2 100.0 1 4 5 1 0 1 0 1 13
+p138
+aVA.C. Green DAL 03/19/1998 DAL vs. GSW W 29 10 5 8 62.5 0 0 - 0 0 - 2 3 5 3 0 1 3 2 5
+p139
+aVErick Strickland DAL 03/19/1998 DAL vs. GSW W 13 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 0 -11
+p140
+aVShawn Bradley DAL 03/19/1998 DAL vs. GSW W 36 18 7 17 41.2 0 0 - 4 6 66.7 3 7 10 1 0 6 6 2 -2
+p141
+aVMichael Finley DAL 03/19/1998 DAL vs. GSW W 29 14 7 14 50.0 0 1 0.0 0 0 - 0 4 4 6 3 0 2 0 6
+p142
+aVMartin Muursepp DAL 03/19/1998 DAL vs. GSW W 28 14 5 11 45.5 3 6 50.0 1 2 50.0 0 3 3 3 1 0 0 2 16
+p143
+aVKhalid Reeves DAL 03/19/1998 DAL vs. GSW W 19 0 0 3 0.0 0 0 - 0 0 - 0 2 2 4 1 1 2 3 0
+p144
+aVBubba Wells DAL 03/19/1998 DAL vs. GSW W 26 6 1 4 25.0 0 0 - 4 4 100.0 2 5 7 1 1 0 2 2 -1
+p145
+aVEric Riley DAL 03/19/1998 DAL vs. GSW W 34 16 6 16 37.5 0 0 - 4 4 100.0 3 3 6 4 1 3 2 4 12
+p146
+aVMichael Finley DAL 03/17/1998 DAL vs. BOS W 40 16 6 15 40.0 1 5 20.0 3 5 60.0 2 6 8 11 0 0 4 1 21
+p147
+aVErick Strickland DAL 03/17/1998 DAL vs. BOS W 29 7 3 10 30.0 1 3 33.3 0 0 - 0 4 4 3 0 0 3 1 -8
+p148
+aVMartin Muursepp DAL 03/17/1998 DAL vs. BOS W 17 8 3 4 75.0 2 2 100.0 0 0 - 1 1 2 1 1 3 0 2 12
+p149
+aVBubba Wells DAL 03/17/1998 DAL vs. BOS W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 1 3 1 -2
+p150
+aVShawn Bradley DAL 03/17/1998 DAL vs. BOS W 16 10 4 6 66.7 0 0 - 2 3 66.7 1 4 5 0 1 2 1 6 4
+p151
+aVHubert Davis DAL 03/17/1998 DAL vs. BOS W 22 7 2 7 28.6 1 2 50.0 2 2 100.0 0 1 1 0 0 0 2 2 -13
+p152
+aVA.C. Green DAL 03/17/1998 DAL vs. BOS W 27 2 1 8 12.5 0 0 - 0 0 - 1 8 9 2 0 1 1 1 -2
+p153
+aVChris Anstey DAL 03/17/1998 DAL vs. BOS W 38 26 11 15 73.3 0 0 - 4 6 66.7 1 7 8 1 2 1 4 3 3
+p154
+aVKhalid Reeves DAL 03/17/1998 DAL vs. BOS W 37 21 5 6 83.3 1 1 100.0 10 11 90.9 2 2 4 6 0 0 3 2 15
+p155
+aVShawn Bradley DAL 03/15/1998 DAL @ PHX L 22 11 5 10 50.0 0 0 - 1 3 33.3 3 4 7 1 0 0 3 1 -7
+p156
+aVKhalid Reeves DAL 03/15/1998 DAL @ PHX L 30 6 2 12 16.7 1 5 20.0 1 3 33.3 0 4 4 5 1 0 3 3 -1
+p157
+aVA.C. Green DAL 03/15/1998 DAL @ PHX L 34 8 4 7 57.1 0 0 - 0 0 - 1 6 7 2 2 1 0 4 -5
+p158
+aVCedric Ceballos DAL 03/15/1998 DAL @ PHX L 15 9 4 6 66.7 0 1 0.0 1 2 50.0 1 3 4 1 1 0 1 1 -5
+p159
+aVHubert Davis DAL 03/15/1998 DAL @ PHX L 37 13 4 13 30.8 1 2 50.0 4 4 100.0 0 2 2 0 1 0 1 2 -11
+p160
+aVEric Riley DAL 03/15/1998 DAL @ PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p161
+aVBubba Wells DAL 03/15/1998 DAL @ PHX L 17 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 1 0 3 1 2
+p162
+aVChris Anstey DAL 03/15/1998 DAL @ PHX L 35 19 8 17 47.1 0 0 - 3 3 100.0 3 2 5 3 0 1 3 5 -12
+p163
+aVMichael Finley DAL 03/15/1998 DAL @ PHX L 45 20 8 18 44.4 0 1 0.0 4 6 66.7 5 1 6 12 2 0 4 0 -11
+p164
+aVMartin Muursepp DAL 03/15/1998 DAL @ PHX L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p165
+aVHubert Davis DAL 03/14/1998 DAL vs. NJN L 27 12 5 11 45.5 1 3 33.3 1 2 50.0 0 2 2 0 0 0 3 1 2
+p166
+aVBubba Wells DAL 03/14/1998 DAL vs. NJN L 26 4 2 4 50.0 0 0 - 0 1 0.0 0 4 4 2 2 0 2 1 -10
+p167
+aVChris Anstey DAL 03/14/1998 DAL vs. NJN L 18 8 2 10 20.0 0 0 - 4 6 66.7 5 5 10 1 1 0 3 1 -4
+p168
+aVMichael Finley DAL 03/14/1998 DAL vs. NJN L 31 18 9 13 69.2 0 3 0.0 0 0 - 3 1 4 4 1 0 4 2 -9
+p169
+aVCedric Ceballos DAL 03/14/1998 DAL vs. NJN L 27 17 8 16 50.0 0 1 0.0 1 3 33.3 2 1 3 2 1 0 4 3 -14
+p170
+aVKhalid Reeves DAL 03/14/1998 DAL vs. NJN L 35 11 5 8 62.5 0 1 0.0 1 3 33.3 0 1 1 2 0 0 0 3 -17
+p171
+aVA.C. Green DAL 03/14/1998 DAL vs. NJN L 23 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 2 0 0 0 3 -8
+p172
+aVMartin Muursepp DAL 03/14/1998 DAL vs. NJN L 23 6 3 7 42.9 0 0 - 0 0 - 3 9 12 1 0 0 3 5 -5
+p173
+aVEric Riley DAL 03/14/1998 DAL vs. NJN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p174
+aVShawn Bradley DAL 03/14/1998 DAL vs. NJN L 27 14 6 12 50.0 0 0 - 2 4 50.0 5 4 9 1 2 3 3 4 -10
+p175
+aVShawn Bradley DAL 03/12/1998 DAL vs. CHI W 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 2 2 0 0 -3
+p176
+aVMichael Finley DAL 03/12/1998 DAL vs. CHI W 51 32 14 29 48.3 1 2 50.0 3 6 50.0 4 4 8 5 0 0 2 4 6
+p177
+aVErick Strickland DAL 03/12/1998 DAL vs. CHI W 31 4 2 9 22.2 0 2 0.0 0 0 - 1 2 3 5 1 1 1 3 -21
+p178
+aVHubert Davis DAL 03/12/1998 DAL vs. CHI W 38 10 5 9 55.6 0 1 0.0 0 0 - 1 2 3 1 0 0 1 1 12
+p179
+aVChris Anstey DAL 03/12/1998 DAL vs. CHI W 21 8 3 6 50.0 0 1 0.0 2 4 50.0 0 6 6 0 1 0 3 2 18
+p180
+aVKhalid Reeves DAL 03/12/1998 DAL vs. CHI W 24 11 5 6 83.3 0 0 - 1 3 33.3 1 2 3 4 1 0 3 3 -6
+p181
+aVCedric Ceballos DAL 03/12/1998 DAL vs. CHI W 47 25 11 21 52.4 1 1 100.0 2 6 33.3 4 9 13 3 1 3 6 4 13
+p182
+aVA.C. Green DAL 03/12/1998 DAL vs. CHI W 41 12 4 11 36.4 0 0 - 4 4 100.0 3 14 17 2 2 2 1 0 16
+p183
+aVKhalid Reeves DAL 03/10/1998 DAL @ HOU L 23 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 0
+p184
+aVCedric Ceballos DAL 03/10/1998 DAL @ HOU L 40 24 10 17 58.8 2 2 100.0 2 3 66.7 0 5 5 4 0 0 3 2 -2
+p185
+aVErick Strickland DAL 03/10/1998 DAL @ HOU L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -1
+p186
+aVEric Riley DAL 03/10/1998 DAL @ HOU L 19 0 0 5 0.0 0 0 - 0 0 - 1 3 4 1 0 2 0 2 -2
+p187
+aVMartin Muursepp DAL 03/10/1998 DAL @ HOU L 17 11 5 6 83.3 1 1 100.0 0 0 - 1 0 1 1 2 0 2 4 4
+p188
+aVA.C. Green DAL 03/10/1998 DAL @ HOU L 33 9 4 5 80.0 0 0 - 1 2 50.0 0 7 7 1 3 0 0 1 -14
+p189
+aVHubert Davis DAL 03/10/1998 DAL @ HOU L 23 2 0 7 0.0 0 1 0.0 2 2 100.0 0 2 2 4 1 0 3 2 -5
+p190
+aVBubba Wells DAL 03/10/1998 DAL @ HOU L 9 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 11
+p191
+aVChris Anstey DAL 03/10/1998 DAL @ HOU L 29 12 5 7 71.4 1 1 100.0 1 3 33.3 0 4 4 3 1 1 1 3 -11
+p192
+aVMichael Finley DAL 03/10/1998 DAL @ HOU L 36 25 9 16 56.3 1 1 100.0 6 7 85.7 0 2 2 4 1 0 1 2 -10
+p193
+aVMartin Muursepp DAL 03/07/1998 DAL vs. MIA L 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 2 1 0 2 5
+p194
+aVChris Anstey DAL 03/07/1998 DAL vs. MIA L 34 12 5 11 45.5 0 0 - 2 2 100.0 3 9 12 2 0 4 3 3 -1
+p195
+aVCedric Ceballos DAL 03/07/1998 DAL vs. MIA L 33 17 7 18 38.9 0 3 0.0 3 3 100.0 3 2 5 1 1 0 5 4 -20
+p196
+aVErick Strickland DAL 03/07/1998 DAL vs. MIA L 19 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 3 1 0 1 2 6
+p197
+aVEric Riley DAL 03/07/1998 DAL vs. MIA L 13 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 0 0 1 2 -5
+p198
+aVKhalid Reeves DAL 03/07/1998 DAL vs. MIA L 21 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 3 1 1 1 2 -12
+p199
+aVA.C. Green DAL 03/07/1998 DAL vs. MIA L 41 16 8 11 72.7 0 0 - 0 0 - 3 3 6 2 2 0 1 4 -11
+p200
+aVMichael Finley DAL 03/07/1998 DAL vs. MIA L 45 24 8 21 38.1 3 4 75.0 5 7 71.4 1 0 1 8 1 0 2 2 -2
+p201
+aVHubert Davis DAL 03/07/1998 DAL vs. MIA L 28 8 3 6 50.0 1 2 50.0 1 1 100.0 0 1 1 1 0 0 0 3 10
+p202
+aVEric Riley DAL 03/05/1998 DAL vs. LAC W 19 11 5 6 83.3 0 0 - 1 4 25.0 3 6 9 1 0 1 3 3 12
+p203
+aVErick Strickland DAL 03/05/1998 DAL vs. LAC W 24 6 2 9 22.2 0 0 - 2 2 100.0 1 3 4 4 0 0 1 1 -18
+p204
+aVChris Anstey DAL 03/05/1998 DAL vs. LAC W 35 20 6 12 50.0 0 0 - 8 8 100.0 1 3 4 2 2 0 2 5 -2
+p205
+aVMartin Muursepp DAL 03/05/1998 DAL vs. LAC W 29 24 10 17 58.8 2 2 100.0 2 2 100.0 6 2 8 3 1 0 2 3 -18
+p206
+aVMichael Finley DAL 03/05/1998 DAL vs. LAC W 27 17 7 15 46.7 0 0 - 3 4 75.0 3 0 3 2 0 0 1 1 27
+p207
+aVBubba Wells DAL 03/05/1998 DAL vs. LAC W 22 2 1 3 33.3 0 0 - 0 2 0.0 1 3 4 3 2 0 1 2 -19
+p208
+aVHubert Davis DAL 03/05/1998 DAL vs. LAC W 25 6 3 10 30.0 0 3 0.0 0 1 0.0 1 0 1 2 0 0 1 0 -15
+p209
+aVKhalid Reeves DAL 03/05/1998 DAL vs. LAC W 21 14 6 8 75.0 2 4 50.0 0 0 - 0 0 0 6 2 0 1 3 26
+p210
+aVCedric Ceballos DAL 03/05/1998 DAL vs. LAC W 22 17 6 11 54.5 0 0 - 5 5 100.0 2 5 7 1 2 1 2 3 30
+p211
+aVA.C. Green DAL 03/05/1998 DAL vs. LAC W 18 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 4 1 0 1 27
+p212
+aVShawn Bradley DAL 03/03/1998 DAL @ MIN W 33 16 8 18 44.4 0 0 - 0 1 0.0 4 5 9 0 0 5 0 2 16
+p213
+aVHubert Davis DAL 03/03/1998 DAL @ MIN W 25 19 6 8 75.0 2 3 66.7 5 5 100.0 1 1 2 4 0 0 0 1 9
+p214
+aVMichael Finley DAL 03/03/1998 DAL @ MIN W 40 17 5 17 29.4 1 2 50.0 6 6 100.0 3 4 7 9 0 1 2 3 10
+p215
+aVChris Anstey DAL 03/03/1998 DAL @ MIN W 33 12 4 9 44.4 0 0 - 4 4 100.0 2 1 3 3 0 1 1 5 -3
+p216
+aVA.C. Green DAL 03/03/1998 DAL @ MIN W 29 8 3 4 75.0 0 0 - 2 2 100.0 3 5 8 3 1 0 1 0 13
+p217
+aVKhalid Reeves DAL 03/03/1998 DAL @ MIN W 23 9 4 10 40.0 1 3 33.3 0 0 - 1 3 4 3 1 0 1 1 -2
+p218
+aVErick Strickland DAL 03/03/1998 DAL @ MIN W 22 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 6 0 0 1 5 5
+p219
+aVCedric Ceballos DAL 03/03/1998 DAL @ MIN W 34 22 9 17 52.9 2 4 50.0 2 2 100.0 3 3 6 1 2 0 2 1 7
+p220
+aVEric Riley DAL 03/02/1998 DAL @ DET L 21 5 2 6 33.3 0 0 - 1 2 50.0 2 6 8 0 0 1 1 4 -3
+p221
+aVBubba Wells DAL 03/02/1998 DAL @ DET L 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 1 1 2 -1
+p222
+aVA.C. Green DAL 03/02/1998 DAL @ DET L 21 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 4
+p223
+aVMichael Finley DAL 03/02/1998 DAL @ DET L 37 21 9 15 60.0 1 4 25.0 2 2 100.0 1 2 3 2 2 0 3 5 0
+p224
+aVHubert Davis DAL 03/02/1998 DAL @ DET L 23 10 4 10 40.0 2 4 50.0 0 0 - 0 2 2 2 2 0 1 0 -8
+p225
+aVErick Strickland DAL 03/02/1998 DAL @ DET L 11 1 0 4 0.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 2 -13
+p226
+aVKhalid Reeves DAL 03/02/1998 DAL @ DET L 24 12 4 7 57.1 3 3 100.0 1 1 100.0 1 1 2 2 1 0 3 2 4
+p227
+aVChris Anstey DAL 03/02/1998 DAL @ DET L 27 14 6 9 66.7 0 1 0.0 2 2 100.0 1 2 3 2 1 1 2 3 -9
+p228
+aVShawn Bradley DAL 03/02/1998 DAL @ DET L 27 8 4 10 40.0 0 0 - 0 0 - 2 2 4 1 0 3 1 4 -3
+p229
+aVCedric Ceballos DAL 03/02/1998 DAL @ DET L 38 21 2 8 25.0 0 3 0.0 17 18 94.4 1 6 7 6 3 0 2 2 -1
+p230
+aVA.C. Green DAL 02/28/1998 DAL @ WAS W 48 25 8 13 61.5 0 0 - 9 12 75.0 1 10 11 1 4 0 1 4 26
+p231
+aVCedric Ceballos DAL 02/28/1998 DAL @ WAS W 42 21 8 16 50.0 1 2 50.0 4 6 66.7 4 6 10 4 0 1 3 5 18
+p232
+aVChris Anstey DAL 02/28/1998 DAL @ WAS W 23 4 1 7 14.3 1 3 33.3 1 2 50.0 4 4 8 0 1 1 1 3 14
+p233
+aVErick Strickland DAL 02/28/1998 DAL @ WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p234
+aVKhalid Reeves DAL 02/28/1998 DAL @ WAS W 34 10 5 15 33.3 0 3 0.0 0 0 - 3 4 7 6 0 0 1 3 16
+p235
+aVShawn Bradley DAL 02/28/1998 DAL @ WAS W 25 4 2 7 28.6 0 0 - 0 0 - 2 9 11 0 0 1 1 3 12
+p236
+aVMichael Finley DAL 02/28/1998 DAL @ WAS W 46 27 12 26 46.2 1 1 100.0 2 2 100.0 0 1 1 9 3 0 1 1 30
+p237
+aVHubert Davis DAL 02/28/1998 DAL @ WAS W 20 12 3 6 50.0 1 1 100.0 5 5 100.0 1 3 4 3 0 1 0 2 12
+p238
+aVChris Anstey DAL 02/26/1998 DAL @ MIA L 23 3 0 6 0.0 0 0 - 3 4 75.0 2 5 7 1 0 1 0 3 -2
+p239
+aVBubba Wells DAL 02/26/1998 DAL @ MIA L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p240
+aVCedric Ceballos DAL 02/26/1998 DAL @ MIA L 22 9 3 10 30.0 0 1 0.0 3 6 50.0 1 2 3 0 0 2 2 0 -5
+p241
+aVMartin Muursepp DAL 02/26/1998 DAL @ MIA L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 2 0 0 0 2
+p242
+aVErick Strickland DAL 02/26/1998 DAL @ MIA L 29 2 0 8 0.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 4 4 -12
+p243
+aVShawn Bradley DAL 02/26/1998 DAL @ MIA L 31 6 3 8 37.5 0 0 - 0 1 0.0 3 7 10 1 0 3 2 4 -14
+p244
+aVA.C. Green DAL 02/26/1998 DAL @ MIA L 29 4 2 4 50.0 0 0 - 0 2 0.0 1 1 2 3 0 1 0 2 -20
+p245
+aVKhalid Reeves DAL 02/26/1998 DAL @ MIA L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -8
+p246
+aVHubert Davis DAL 02/26/1998 DAL @ MIA L 33 13 5 9 55.6 2 4 50.0 1 1 100.0 1 1 2 4 1 0 1 1 -13
+p247
+aVMichael Finley DAL 02/26/1998 DAL @ MIA L 43 31 10 18 55.6 1 2 50.0 10 12 83.3 2 2 4 3 4 1 2 1 -13
+p248
+aVEric Riley DAL 02/26/1998 DAL @ MIA L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p249
+aVShawn Bradley DAL 02/25/1998 DAL @ ORL L 18 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 2 2 1 3 -9
+p250
+aVMartin Muursepp DAL 02/25/1998 DAL @ ORL L 14 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 5 -6
+p251
+aVA.C. Green DAL 02/25/1998 DAL @ ORL L 23 8 4 7 57.1 0 0 - 0 0 - 3 3 6 1 0 0 2 1 -8
+p252
+aVCedric Ceballos DAL 02/25/1998 DAL @ ORL L 22 13 4 8 50.0 0 1 0.0 5 5 100.0 0 4 4 1 0 1 2 3 -6
+p253
+aVChris Anstey DAL 02/25/1998 DAL @ ORL L 30 7 3 9 33.3 0 2 0.0 1 4 25.0 2 0 2 4 1 3 1 1 -14
+p254
+aVEric Riley DAL 02/25/1998 DAL @ ORL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 1 0 -3
+p255
+aVErick Strickland DAL 02/25/1998 DAL @ ORL L 32 9 4 7 57.1 0 2 0.0 1 2 50.0 0 1 1 3 1 0 4 3 -20
+p256
+aVBubba Wells DAL 02/25/1998 DAL @ ORL L 22 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 0 1 0 2 1 -7
+p257
+aVMichael Finley DAL 02/25/1998 DAL @ ORL L 34 16 8 15 53.3 0 1 0.0 0 2 0.0 0 6 6 4 1 0 3 2 -19
+p258
+aVHubert Davis DAL 02/25/1998 DAL @ ORL L 29 6 2 6 33.3 1 1 100.0 1 3 33.3 1 4 5 4 0 0 2 1 -11
+p259
+aVKhalid Reeves DAL 02/25/1998 DAL @ ORL L 9 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 1 0 0 3 -2
+p260
+aVCedric Ceballos DAL 02/21/1998 DAL vs. DET L 23 8 3 9 33.3 0 1 0.0 2 2 100.0 3 2 5 1 0 0 1 1 -16
+p261
+aVBubba Wells DAL 02/21/1998 DAL vs. DET L 16 3 1 5 20.0 0 0 - 1 3 33.3 2 1 3 0 0 0 1 2 -8
+p262
+aVShawn Bradley DAL 02/21/1998 DAL vs. DET L 31 12 3 9 33.3 0 0 - 6 8 75.0 3 10 13 0 1 3 2 4 -3
+p263
+aVMartin Muursepp DAL 02/21/1998 DAL vs. DET L 8 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -12
+p264
+aVKhalid Reeves DAL 02/21/1998 DAL vs. DET L 11 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 6
+p265
+aVErick Strickland DAL 02/21/1998 DAL vs. DET L 28 19 9 13 69.2 1 3 33.3 0 0 - 1 4 5 4 1 0 3 2 -8
+p266
+aVChris Anstey DAL 02/21/1998 DAL vs. DET L 17 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 1 1 0 4 -9
+p267
+aVA.C. Green DAL 02/21/1998 DAL vs. DET L 29 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -1
+p268
+aVHubert Davis DAL 02/21/1998 DAL vs. DET L 36 15 5 12 41.7 1 5 20.0 4 4 100.0 2 1 3 1 0 0 0 0 -8
+p269
+aVMichael Finley DAL 02/21/1998 DAL vs. DET L 38 8 4 14 28.6 0 0 - 0 2 0.0 1 2 3 6 0 0 3 1 2
+p270
+aVEric Riley DAL 02/21/1998 DAL vs. DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p271
+aVShawn Bradley DAL 02/19/1998 DAL vs. SAS L 27 13 6 14 42.9 0 0 - 1 3 33.3 7 8 15 0 1 4 0 4 12
+p272
+aVBubba Wells DAL 02/19/1998 DAL vs. SAS L 34 21 10 14 71.4 0 1 0.0 1 1 100.0 3 6 9 7 0 0 1 1 1
+p273
+aVHubert Davis DAL 02/19/1998 DAL vs. SAS L 38 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 4
+p274
+aVEric Riley DAL 02/19/1998 DAL vs. SAS L 12 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 2 1 0 4 9
+p275
+aVMichael Finley DAL 02/19/1998 DAL vs. SAS L 33 10 3 15 20.0 1 3 33.3 3 4 75.0 2 2 4 3 2 0 3 2 -19
+p276
+aVMartin Muursepp DAL 02/19/1998 DAL vs. SAS L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -10
+p277
+aVChris Anstey DAL 02/19/1998 DAL vs. SAS L 20 10 4 10 40.0 0 1 0.0 2 2 100.0 3 4 7 1 2 1 1 5 -7
+p278
+aVKhalid Reeves DAL 02/19/1998 DAL vs. SAS L 19 7 2 10 20.0 0 2 0.0 3 4 75.0 2 3 5 0 1 1 1 3 -10
+p279
+aVErick Strickland DAL 02/19/1998 DAL vs. SAS L 20 10 4 11 36.4 0 1 0.0 2 2 100.0 0 0 0 2 0 0 4 0 4
+p280
+aVA.C. Green DAL 02/19/1998 DAL vs. SAS L 26 0 0 5 0.0 0 0 - 0 0 - 3 6 9 0 0 0 2 0 -14
+p281
+aVHubert Davis DAL 02/17/1998 DAL vs. PHX L 36 10 5 12 41.7 0 0 - 0 0 - 0 4 4 2 0 0 0 0 -19
+p282
+aVMartin Muursepp DAL 02/17/1998 DAL vs. PHX L 10 7 2 4 50.0 0 0 - 3 4 75.0 0 1 1 1 2 0 0 3 0
+p283
+aVKhalid Reeves DAL 02/17/1998 DAL vs. PHX L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 2 0 1 0 -7
+p284
+aVA.C. Green DAL 02/17/1998 DAL vs. PHX L 32 1 0 4 0.0 0 0 - 1 2 50.0 3 7 10 0 1 0 1 4 -16
+p285
+aVBubba Wells DAL 02/17/1998 DAL vs. PHX L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p286
+aVDennis Scott DAL 02/17/1998 DAL vs. PHX L 39 17 7 16 43.8 3 7 42.9 0 0 - 0 2 2 1 3 1 0 4 -11
+p287
+aVChris Anstey DAL 02/17/1998 DAL vs. PHX L 22 6 2 9 22.2 0 1 0.0 2 2 100.0 2 3 5 0 3 1 1 1 -10
+p288
+aVErick Strickland DAL 02/17/1998 DAL vs. PHX L 19 4 2 9 22.2 0 3 0.0 0 0 - 0 1 1 2 0 0 2 1 3
+p289
+aVShawn Bradley DAL 02/17/1998 DAL vs. PHX L 26 10 5 12 41.7 0 0 - 0 0 - 1 3 4 1 1 3 1 1 -12
+p290
+aVMichael Finley DAL 02/17/1998 DAL vs. PHX L 40 22 7 18 38.9 1 5 20.0 7 8 87.5 1 1 2 2 2 0 3 0 -19
+p291
+aVBubba Wells DAL 02/15/1998 DAL @ MIN L 17 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 1 0 0 1 3 9
+p292
+aVDennis Scott DAL 02/15/1998 DAL @ MIN L 39 11 3 13 23.1 2 10 20.0 3 3 100.0 1 5 6 4 0 1 2 5 -6
+p293
+aVA.C. Green DAL 02/15/1998 DAL @ MIN L 46 11 4 8 50.0 0 0 - 3 4 75.0 3 12 15 1 2 2 0 3 -10
+p294
+aVKhalid Reeves DAL 02/15/1998 DAL @ MIN L 21 2 0 2 0.0 0 1 0.0 2 4 50.0 0 0 0 1 1 0 0 4 -6
+p295
+aVShawn Bradley DAL 02/15/1998 DAL @ MIN L 27 8 3 10 30.0 0 0 - 2 2 100.0 2 4 6 2 1 4 2 2 -12
+p296
+aVMichael Finley DAL 02/15/1998 DAL @ MIN L 49 31 12 26 46.2 2 5 40.0 5 8 62.5 0 6 6 8 3 1 2 1 -4
+p297
+aVErick Strickland DAL 02/15/1998 DAL @ MIN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p298
+aVChris Anstey DAL 02/15/1998 DAL @ MIN L 23 9 4 9 44.4 0 0 - 1 3 33.3 3 2 5 1 0 2 3 6 11
+p299
+aVMartin Muursepp DAL 02/15/1998 DAL @ MIN L 3 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 -4
+p300
+aVHubert Davis DAL 02/15/1998 DAL @ MIN L 35 15 6 15 40.0 3 6 50.0 0 0 - 0 0 0 6 0 0 0 2 -5
+p301
+aVHubert Davis DAL 02/13/1998 DAL @ IND W 43 16 7 12 58.3 2 5 40.0 0 0 - 0 2 2 2 0 0 2 1 1
+p302
+aVA.C. Green DAL 02/13/1998 DAL @ IND W 47 8 4 4 100.0 0 0 - 0 0 - 1 6 7 2 1 0 0 4 -4
+p303
+aVChris Anstey DAL 02/13/1998 DAL @ IND W 21 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 1 0 1 2 0
+p304
+aVKhalid Reeves DAL 02/13/1998 DAL @ IND W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 0
+p305
+aVShawn Bradley DAL 02/13/1998 DAL @ IND W 37 8 4 9 44.4 0 0 - 0 0 - 2 11 13 0 1 3 2 5 -1
+p306
+aVErick Strickland DAL 02/13/1998 DAL @ IND W 36 8 3 12 25.0 0 2 0.0 2 2 100.0 0 4 4 3 1 0 3 4 21
+p307
+aVDennis Scott DAL 02/13/1998 DAL @ IND W 30 7 3 13 23.1 0 3 0.0 1 1 100.0 1 1 2 1 0 0 3 0 -7
+p308
+aVEric Riley DAL 02/13/1998 DAL @ IND W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p309
+aVMartin Muursepp DAL 02/13/1998 DAL @ IND W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p310
+aVMichael Finley DAL 02/13/1998 DAL @ IND W 57 32 13 36 36.1 3 6 50.0 3 5 60.0 4 4 8 6 4 2 6 3 3
+p311
+aVA.C. Green DAL 02/11/1998 DAL @ PHI L 37 9 4 10 40.0 0 1 0.0 1 2 50.0 3 8 11 0 2 1 0 3 -9
+p312
+aVChris Anstey DAL 02/11/1998 DAL @ PHI L 13 5 2 4 50.0 0 1 0.0 1 3 33.3 2 3 5 1 4 0 0 1 13
+p313
+aVMartin Muursepp DAL 02/11/1998 DAL @ PHI L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p314
+aVEric Riley DAL 02/11/1998 DAL @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 0 0 10
+p315
+aVKhalid Reeves DAL 02/11/1998 DAL @ PHI L 35 15 5 9 55.6 1 2 50.0 4 7 57.1 0 1 1 4 1 0 2 4 14
+p316
+aVHubert Davis DAL 02/11/1998 DAL @ PHI L 28 9 4 9 44.4 1 4 25.0 0 0 - 1 0 1 2 1 0 0 2 -9
+p317
+aVShawn Bradley DAL 02/11/1998 DAL @ PHI L 26 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 2 0 3 1 3 -17
+p318
+aVMichael Finley DAL 02/11/1998 DAL @ PHI L 38 17 6 17 35.3 2 5 40.0 3 4 75.0 2 1 3 4 3 0 3 3 -8
+p319
+aVDennis Scott DAL 02/11/1998 DAL @ PHI L 42 24 9 18 50.0 3 9 33.3 3 4 75.0 2 3 5 1 1 0 3 5 14
+p320
+aVErick Strickland DAL 02/11/1998 DAL @ PHI L 15 3 1 6 16.7 0 4 0.0 1 2 50.0 0 2 2 1 0 0 2 1 -8
+p321
+aVDennis Scott DAL 02/10/1998 DAL @ NJN L 42 5 1 4 25.0 1 2 50.0 2 3 66.7 1 1 2 1 1 0 2 2 -9
+p322
+aVShawn Bradley DAL 02/10/1998 DAL @ NJN L 35 10 4 10 40.0 0 0 - 2 2 100.0 6 10 16 0 1 6 2 4 4
+p323
+aVChris Anstey DAL 02/10/1998 DAL @ NJN L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -12
+p324
+aVErick Strickland DAL 02/10/1998 DAL @ NJN L 45 14 7 15 46.7 0 2 0.0 0 0 - 0 2 2 1 2 0 2 5 -8
+p325
+aVKhalid Reeves DAL 02/10/1998 DAL @ NJN L 43 24 9 15 60.0 0 2 0.0 6 6 100.0 0 1 1 2 2 0 4 4 3
+p326
+aVMichael Finley DAL 02/10/1998 DAL @ NJN L 46 26 13 21 61.9 0 2 0.0 0 0 - 2 1 3 2 3 0 1 1 -5
+p327
+aVA.C. Green DAL 02/10/1998 DAL @ NJN L 23 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -18
+p328
+aVDennis Scott DAL 02/05/1998 DAL @ TOR L 30 14 5 10 50.0 0 4 0.0 4 4 100.0 0 1 1 2 0 0 1 3 4
+p329
+aVErick Strickland DAL 02/05/1998 DAL @ TOR L 22 12 5 15 33.3 1 6 16.7 1 2 50.0 2 2 4 5 2 0 1 5 -10
+p330
+aVShawn Bradley DAL 02/05/1998 DAL @ TOR L 37 10 5 10 50.0 0 0 - 0 0 - 4 8 12 3 0 7 1 4 4
+p331
+aVKhalid Reeves DAL 02/05/1998 DAL @ TOR L 35 14 6 12 50.0 0 0 - 2 2 100.0 0 3 3 2 0 1 0 2 -4
+p332
+aVMichael Finley DAL 02/05/1998 DAL @ TOR L 43 19 8 19 42.1 0 3 0.0 3 4 75.0 2 6 8 6 0 0 2 1 -9
+p333
+aVHubert Davis DAL 02/05/1998 DAL @ TOR L 41 14 5 13 38.5 2 4 50.0 2 2 100.0 0 3 3 3 0 0 2 0 -1
+p334
+aVA.C. Green DAL 02/05/1998 DAL @ TOR L 24 6 2 4 50.0 0 0 - 2 2 100.0 5 5 10 1 0 0 1 2 -14
+p335
+aVChris Anstey DAL 02/05/1998 DAL @ TOR L 9 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 2 -10
+p336
+aVChris Anstey DAL 02/04/1998 DAL @ BOS L 21 12 6 7 85.7 0 0 - 0 0 - 4 4 8 1 0 1 1 5 -1
+p337
+aVKhalid Reeves DAL 02/04/1998 DAL @ BOS L 27 8 3 9 33.3 0 2 0.0 2 3 66.7 2 2 4 3 2 0 4 4 -4
+p338
+aVMartin Muursepp DAL 02/04/1998 DAL @ BOS L 9 10 1 3 33.3 0 0 - 8 8 100.0 0 3 3 0 0 0 0 0 10
+p339
+aVDennis Scott DAL 02/04/1998 DAL @ BOS L 24 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 0 1 0 1 0 -14
+p340
+aVEric Riley DAL 02/04/1998 DAL @ BOS L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 8
+p341
+aVBubba Wells DAL 02/04/1998 DAL @ BOS L 9 6 0 2 0.0 0 1 0.0 6 6 100.0 0 1 1 0 0 0 0 1 10
+p342
+aVErick Strickland DAL 02/04/1998 DAL @ BOS L 24 11 3 9 33.3 1 5 20.0 4 4 100.0 0 0 0 3 1 0 3 1 -6
+p343
+aVMichael Finley DAL 02/04/1998 DAL @ BOS L 33 18 6 15 40.0 2 5 40.0 4 4 100.0 1 8 9 2 0 0 6 2 -20
+p344
+aVShawn Bradley DAL 02/04/1998 DAL @ BOS L 16 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 0 0 2 2 2 -9
+p345
+aVA.C. Green DAL 02/04/1998 DAL @ BOS L 32 9 3 3 100.0 0 0 - 3 5 60.0 6 8 14 2 2 0 2 1 -12
+p346
+aVHubert Davis DAL 02/04/1998 DAL @ BOS L 38 13 5 10 50.0 1 4 25.0 2 4 50.0 0 0 0 0 1 0 2 0 -17
+p347
+aVKhalid Reeves DAL 02/02/1998 DAL vs. VAN W 14 7 2 5 40.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 1 2 3
+p348
+aVA.C. Green DAL 02/02/1998 DAL vs. VAN W 34 10 3 6 50.0 0 0 - 4 4 100.0 4 7 11 1 1 0 0 1 8
+p349
+aVHubert Davis DAL 02/02/1998 DAL vs. VAN W 43 18 8 13 61.5 2 3 66.7 0 0 - 1 3 4 5 2 0 2 1 7
+p350
+aVDennis Scott DAL 02/02/1998 DAL vs. VAN W 28 6 3 10 30.0 0 2 0.0 0 0 - 0 2 2 6 0 0 0 2 13
+p351
+aVMichael Finley DAL 02/02/1998 DAL vs. VAN W 43 30 11 19 57.9 1 1 100.0 7 8 87.5 4 8 12 3 2 1 1 0 17
+p352
+aVEric Riley DAL 02/02/1998 DAL vs. VAN W 24 5 2 7 28.6 0 0 - 1 2 50.0 2 2 4 0 0 3 1 4 9
+p353
+aVErick Strickland DAL 02/02/1998 DAL vs. VAN W 26 21 7 13 53.8 3 4 75.0 4 4 100.0 0 0 0 4 1 0 1 2 3
+p354
+aVShawn Bradley DAL 02/02/1998 DAL vs. VAN W 22 7 3 12 25.0 0 0 - 1 2 50.0 3 4 7 1 1 5 0 4 6
+p355
+aVChris Anstey DAL 02/02/1998 DAL vs. VAN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 4
+p356
+aVA.C. Green DAL 01/31/1998 DAL @ DEN L 29 4 2 6 33.3 0 0 - 0 2 0.0 6 2 8 0 0 1 2 0 -11
+p357
+aVEric Riley DAL 01/31/1998 DAL @ DEN L 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 3
+p358
+aVKhalid Reeves DAL 01/31/1998 DAL @ DEN L 16 8 2 3 66.7 0 0 - 4 4 100.0 1 1 2 2 1 0 4 2 7
+p359
+aVErick Strickland DAL 01/31/1998 DAL @ DEN L 30 9 4 8 50.0 1 2 50.0 0 0 - 2 3 5 0 1 1 2 1 -16
+p360
+aVHubert Davis DAL 01/31/1998 DAL @ DEN L 47 16 7 14 50.0 2 4 50.0 0 0 - 0 3 3 5 1 1 1 1 -12
+p361
+aVDennis Scott DAL 01/31/1998 DAL @ DEN L 36 17 7 17 41.2 2 7 28.6 1 2 50.0 2 2 4 4 0 2 2 4 -11
+p362
+aVShawn Bradley DAL 01/31/1998 DAL @ DEN L 25 4 1 10 10.0 0 0 - 2 2 100.0 1 5 6 1 0 0 1 3 -8
+p363
+aVMichael Finley DAL 01/31/1998 DAL @ DEN L 44 38 12 26 46.2 2 4 50.0 12 14 85.7 2 4 6 5 5 1 1 2 -12
+p364
+aVChris Anstey DAL 01/31/1998 DAL @ DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p365
+aVA.C. Green DAL 01/30/1998 DAL @ UTA L 28 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 1 0 3 1 -16
+p366
+aVErick Strickland DAL 01/30/1998 DAL @ UTA L 29 6 3 9 33.3 0 0 - 0 0 - 1 3 4 3 1 0 2 4 -6
+p367
+aVShawn Bradley DAL 01/30/1998 DAL @ UTA L 36 12 3 7 42.9 0 0 - 6 6 100.0 1 6 7 2 1 5 4 4 -6
+p368
+aVChris Anstey DAL 01/30/1998 DAL @ UTA L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 0 0 4
+p369
+aVEric Riley DAL 01/30/1998 DAL @ UTA L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 4 -4
+p370
+aVBubba Wells DAL 01/30/1998 DAL @ UTA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p371
+aVKhalid Reeves DAL 01/30/1998 DAL @ UTA L 18 10 3 4 75.0 0 0 - 4 4 100.0 0 1 1 2 1 0 1 2 -4
+p372
+aVHubert Davis DAL 01/30/1998 DAL @ UTA L 37 19 8 14 57.1 2 5 40.0 1 1 100.0 0 4 4 3 1 0 1 4 0
+p373
+aVDennis Scott DAL 01/30/1998 DAL @ UTA L 28 10 3 9 33.3 2 4 50.0 2 2 100.0 0 2 2 1 1 0 1 3 -8
+p374
+aVMartin Muursepp DAL 01/30/1998 DAL @ UTA L 9 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p375
+aVMichael Finley DAL 01/30/1998 DAL @ UTA L 43 27 9 19 47.4 0 3 0.0 9 13 69.2 1 5 6 3 2 0 4 0 -10
+p376
+aVDennis Scott DAL 01/27/1998 DAL vs. CLE W 17 5 2 6 33.3 0 3 0.0 1 1 100.0 0 2 2 1 0 1 0 0 -7
+p377
+aVSamaki Walker DAL 01/27/1998 DAL vs. CLE W 34 9 4 9 44.4 0 0 - 1 1 100.0 2 3 5 3 3 4 4 5 6
+p378
+aVErick Strickland DAL 01/27/1998 DAL vs. CLE W 39 5 2 10 20.0 1 5 20.0 0 0 - 0 4 4 4 3 0 0 3 6
+p379
+aVA.C. Green DAL 01/27/1998 DAL vs. CLE W 35 3 0 4 0.0 0 0 - 3 4 75.0 3 5 8 1 2 0 0 2 11
+p380
+aVMichael Finley DAL 01/27/1998 DAL vs. CLE W 51 39 14 30 46.7 1 3 33.3 10 12 83.3 3 7 10 3 2 1 6 2 11
+p381
+aVEric Riley DAL 01/27/1998 DAL vs. CLE W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 1 1 2 -5
+p382
+aVHubert Davis DAL 01/27/1998 DAL vs. CLE W 36 10 4 10 40.0 0 0 - 2 2 100.0 1 4 5 0 0 0 2 2 -5
+p383
+aVKhalid Reeves DAL 01/27/1998 DAL vs. CLE W 22 3 1 5 20.0 0 0 - 1 1 100.0 1 5 6 1 1 1 3 2 12
+p384
+aVShawn Bradley DAL 01/27/1998 DAL vs. CLE W 26 8 2 9 22.2 0 0 - 4 4 100.0 4 4 8 0 3 0 0 2 6
+p385
+aVMichael Finley DAL 01/24/1998 DAL vs. CHH L 48 24 9 20 45.0 1 2 50.0 5 5 100.0 1 1 2 3 1 0 2 2 -2
+p386
+aVSamaki Walker DAL 01/24/1998 DAL vs. CHH L 38 13 6 13 46.2 0 0 - 1 2 50.0 4 16 20 1 1 1 1 3 -2
+p387
+aVErick Strickland DAL 01/24/1998 DAL vs. CHH L 38 10 3 13 23.1 2 7 28.6 2 2 100.0 1 2 3 3 1 0 3 4 -14
+p388
+aVHubert Davis DAL 01/24/1998 DAL vs. CHH L 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p389
+aVA.C. Green DAL 01/24/1998 DAL vs. CHH L 26 4 1 5 20.0 0 0 - 2 2 100.0 4 1 5 2 1 1 0 1 -2
+p390
+aVShawn Bradley DAL 01/24/1998 DAL vs. CHH L 35 23 11 18 61.1 0 0 - 1 2 50.0 1 3 4 1 1 8 0 4 -5
+p391
+aVDennis Scott DAL 01/24/1998 DAL vs. CHH L 16 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 1 -3
+p392
+aVKhalid Reeves DAL 01/24/1998 DAL vs. CHH L 28 13 4 9 44.4 1 1 100.0 4 4 100.0 0 2 2 5 2 0 2 3 14
+p393
+aVMichael Finley DAL 01/23/1998 DAL @ SAS L 41 15 5 14 35.7 1 3 33.3 4 4 100.0 0 4 4 5 3 0 2 3 -6
+p394
+aVShawn Bradley DAL 01/23/1998 DAL @ SAS L 25 14 6 17 35.3 0 0 - 2 4 50.0 2 0 2 0 2 3 0 1 -8
+p395
+aVSamaki Walker DAL 01/23/1998 DAL @ SAS L 42 9 4 14 28.6 0 0 - 1 1 100.0 1 11 12 2 0 1 2 3 1
+p396
+aVKhalid Reeves DAL 01/23/1998 DAL @ SAS L 17 4 2 6 33.3 0 2 0.0 0 0 - 2 2 4 5 1 0 0 1 0
+p397
+aVHubert Davis DAL 01/23/1998 DAL @ SAS L 21 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 1 -11
+p398
+aVEric Riley DAL 01/23/1998 DAL @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -3
+p399
+aVA.C. Green DAL 01/23/1998 DAL @ SAS L 34 7 3 6 50.0 0 0 - 1 1 100.0 2 6 8 1 0 0 0 4 -9
+p400
+aVDennis Scott DAL 01/23/1998 DAL @ SAS L 30 17 6 13 46.2 2 6 33.3 3 5 60.0 1 7 8 1 0 0 0 2 3
+p401
+aVErick Strickland DAL 01/23/1998 DAL @ SAS L 27 7 3 13 23.1 0 3 0.0 1 2 50.0 0 4 4 1 1 0 3 1 3
+p402
+aVDennis Scott DAL 01/20/1998 DAL vs. SEA W 22 5 2 5 40.0 1 1 100.0 0 0 - 0 4 4 1 0 0 1 2 13
+p403
+aVKhalid Reeves DAL 01/20/1998 DAL vs. SEA W 23 14 5 10 50.0 3 4 75.0 1 2 50.0 0 4 4 2 1 0 2 2 8
+p404
+aVErick Strickland DAL 01/20/1998 DAL vs. SEA W 39 30 11 17 64.7 3 4 75.0 5 5 100.0 1 1 2 3 1 0 0 3 15
+p405
+aVSamaki Walker DAL 01/20/1998 DAL vs. SEA W 21 8 3 3 100.0 0 0 - 2 6 33.3 3 6 9 2 0 0 1 5 -2
+p406
+aVShawn Bradley DAL 01/20/1998 DAL vs. SEA W 20 8 4 8 50.0 0 0 - 0 0 - 2 1 3 0 1 2 1 2 -3
+p407
+aVHubert Davis DAL 01/20/1998 DAL vs. SEA W 34 10 5 8 62.5 0 0 - 0 1 0.0 0 2 2 6 0 0 1 2 -1
+p408
+aVA.C. Green DAL 01/20/1998 DAL vs. SEA W 33 3 1 6 16.7 0 1 0.0 1 4 25.0 3 4 7 7 2 0 0 3 6
+p409
+aVMichael Finley DAL 01/20/1998 DAL vs. SEA W 48 29 12 23 52.2 1 3 33.3 4 5 80.0 2 3 5 3 1 0 2 0 9
+p410
+aVDennis Scott DAL 01/17/1998 DAL vs. MIN L 42 19 5 15 33.3 4 8 50.0 5 7 71.4 1 2 3 4 0 0 4 5 1
+p411
+aVRobert Pack DAL 01/17/1998 DAL vs. MIN L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 0 2 3 -17
+p412
+aVA.C. Green DAL 01/17/1998 DAL vs. MIN L 27 6 3 3 100.0 0 0 - 0 1 0.0 1 9 10 0 1 0 0 2 4
+p413
+aVKhalid Reeves DAL 01/17/1998 DAL vs. MIN L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p414
+aVMichael Finley DAL 01/17/1998 DAL vs. MIN L 50 29 9 18 50.0 4 6 66.7 7 7 100.0 1 5 6 7 1 1 5 4 -7
+p415
+aVShawn Bradley DAL 01/17/1998 DAL vs. MIN L 14 6 3 6 50.0 0 0 - 0 0 - 3 4 7 1 0 0 1 1 5
+p416
+aVSamaki Walker DAL 01/17/1998 DAL vs. MIN L 48 23 11 22 50.0 0 1 0.0 1 4 25.0 3 6 9 3 2 4 2 2 6
+p417
+aVHubert Davis DAL 01/17/1998 DAL vs. MIN L 45 15 6 13 46.2 1 4 25.0 2 2 100.0 0 1 1 1 1 0 0 3 0
+p418
+aVErick Strickland DAL 01/17/1998 DAL vs. MIN L 21 10 2 7 28.6 1 2 50.0 5 6 83.3 0 5 5 3 1 0 2 2 -10
+p419
+aVEric Riley DAL 01/14/1998 DAL @ ATL L 19 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 1 1 1 1 -11
+p420
+aVErick Strickland DAL 01/14/1998 DAL @ ATL L 22 7 3 9 33.3 1 4 25.0 0 0 - 1 1 2 2 4 0 0 2 -8
+p421
+aVMartin Muursepp DAL 01/14/1998 DAL @ ATL L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -2
+p422
+aVRobert Pack DAL 01/14/1998 DAL @ ATL L 16 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 5 3 0 2 0 -7
+p423
+aVA.C. Green DAL 01/14/1998 DAL @ ATL L 20 2 1 4 25.0 0 0 - 0 2 0.0 3 1 4 2 0 0 1 0 -11
+p424
+aVShawn Bradley DAL 01/14/1998 DAL @ ATL L 21 3 1 7 14.3 0 0 - 1 1 100.0 0 5 5 0 0 1 2 6 -8
+p425
+aVMichael Finley DAL 01/14/1998 DAL @ ATL L 33 25 10 18 55.6 2 4 50.0 3 4 75.0 2 3 5 1 3 0 2 0 -18
+p426
+aVSamaki Walker DAL 01/14/1998 DAL @ ATL L 28 6 2 10 20.0 0 0 - 2 2 100.0 0 7 7 0 1 0 2 5 -13
+p427
+aVDennis Scott DAL 01/14/1998 DAL @ ATL L 27 12 4 13 30.8 2 5 40.0 2 2 100.0 0 2 2 0 2 0 0 2 -28
+p428
+aVHubert Davis DAL 01/14/1998 DAL @ ATL L 22 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 2 1 0 1 1 -12
+p429
+aVKhalid Reeves DAL 01/14/1998 DAL @ ATL L 14 6 2 4 50.0 2 3 66.7 0 0 - 0 3 3 5 1 0 2 0 -6
+p430
+aVBubba Wells DAL 01/14/1998 DAL @ ATL L 10 5 2 5 40.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 2 1 -6
+p431
+aVSamaki Walker DAL 01/13/1998 DAL @ HOU L 43 26 10 20 50.0 0 0 - 6 9 66.7 6 7 13 1 2 0 3 5 -22
+p432
+aVBubba Wells DAL 01/13/1998 DAL @ HOU L 1 3 1 1 100.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 0 2
+p433
+aVHubert Davis DAL 01/13/1998 DAL @ HOU L 23 8 3 7 42.9 0 2 0.0 2 2 100.0 1 3 4 1 1 0 1 1 -8
+p434
+aVKhalid Reeves DAL 01/13/1998 DAL @ HOU L 23 8 2 6 33.3 2 5 40.0 2 2 100.0 0 0 0 2 3 0 3 1 -11
+p435
+aVMartin Muursepp DAL 01/13/1998 DAL @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p436
+aVShawn Bradley DAL 01/13/1998 DAL @ HOU L 20 4 2 6 33.3 0 0 - 0 0 - 0 5 5 0 0 1 1 6 -6
+p437
+aVEric Riley DAL 01/13/1998 DAL @ HOU L 14 4 1 1 100.0 0 0 - 2 2 100.0 1 4 5 1 1 2 1 3 -4
+p438
+aVDennis Scott DAL 01/13/1998 DAL @ HOU L 35 14 5 13 38.5 2 8 25.0 2 3 66.7 1 3 4 5 0 0 3 0 -5
+p439
+aVMichael Finley DAL 01/13/1998 DAL @ HOU L 31 16 7 16 43.8 0 1 0.0 2 3 66.7 2 1 3 5 2 0 1 1 0
+p440
+aVErick Strickland DAL 01/13/1998 DAL @ HOU L 26 3 1 9 11.1 1 4 25.0 0 0 - 1 1 2 1 0 0 1 4 -4
+p441
+aVA.C. Green DAL 01/13/1998 DAL @ HOU L 22 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 2 -9
+p442
+aVShawn Bradley DAL 01/10/1998 DAL vs. IND L 40 17 5 16 31.3 0 0 - 7 12 58.3 6 8 14 2 1 2 2 4 2
+p443
+aVErick Strickland DAL 01/10/1998 DAL vs. IND L 18 5 2 9 22.2 1 3 33.3 0 0 - 1 3 4 4 1 0 2 1 -6
+p444
+aVSamaki Walker DAL 01/10/1998 DAL vs. IND L 39 14 7 15 46.7 0 0 - 0 0 - 4 8 12 1 0 3 3 5 -6
+p445
+aVEric Riley DAL 01/10/1998 DAL vs. IND L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -12
+p446
+aVKhalid Reeves DAL 01/10/1998 DAL vs. IND L 23 10 4 5 80.0 2 3 66.7 0 0 - 0 1 1 0 1 0 2 2 -2
+p447
+aVDennis Scott DAL 01/10/1998 DAL vs. IND L 35 14 6 13 46.2 2 5 40.0 0 0 - 0 4 4 5 3 0 2 1 -4
+p448
+aVHubert Davis DAL 01/10/1998 DAL vs. IND L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 0 -2
+p449
+aVMichael Finley DAL 01/10/1998 DAL vs. IND L 43 13 6 19 31.6 1 6 16.7 0 0 - 0 2 2 3 3 0 3 3 5
+p450
+aVA.C. Green DAL 01/10/1998 DAL vs. IND L 27 6 3 8 37.5 0 1 0.0 0 0 - 4 2 6 2 2 0 0 3 0
+p451
+aVHubert Davis DAL 01/08/1998 DAL vs. SAC L 34 6 3 7 42.9 0 1 0.0 0 0 - 1 5 6 3 1 0 0 1 -15
+p452
+aVKhalid Reeves DAL 01/08/1998 DAL vs. SAC L 21 7 2 8 25.0 1 4 25.0 2 3 66.7 1 0 1 2 2 0 1 2 -1
+p453
+aVMichael Finley DAL 01/08/1998 DAL vs. SAC L 43 16 7 21 33.3 1 5 20.0 1 2 50.0 4 6 10 6 3 0 4 4 -12
+p454
+aVShawn Bradley DAL 01/08/1998 DAL vs. SAC L 39 15 6 13 46.2 0 0 - 3 5 60.0 3 6 9 0 2 7 1 5 3
+p455
+aVErick Strickland DAL 01/08/1998 DAL vs. SAC L 13 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -6
+p456
+aVSamaki Walker DAL 01/08/1998 DAL vs. SAC L 29 20 8 13 61.5 0 0 - 4 8 50.0 3 6 9 0 1 1 2 5 -10
+p457
+aVA.C. Green DAL 01/08/1998 DAL vs. SAC L 19 5 2 4 50.0 0 0 - 1 2 50.0 5 3 8 0 1 0 0 1 -14
+p458
+aVDennis Scott DAL 01/08/1998 DAL vs. SAC L 42 23 8 16 50.0 5 10 50.0 2 3 66.7 0 5 5 2 2 0 4 2 0
+p459
+aVErick Strickland DAL 01/06/1998 DAL vs. DEN W 21 7 3 7 42.9 0 2 0.0 1 1 100.0 1 1 2 3 1 0 1 3 18
+p460
+aVA.C. Green DAL 01/06/1998 DAL vs. DEN W 28 6 2 5 40.0 0 0 - 2 3 66.7 1 2 3 2 2 0 1 2 15
+p461
+aVDennis Scott DAL 01/06/1998 DAL vs. DEN W 37 28 11 15 73.3 5 8 62.5 1 1 100.0 2 3 5 3 0 0 2 1 14
+p462
+aVShawn Bradley DAL 01/06/1998 DAL vs. DEN W 22 7 3 8 37.5 0 0 - 1 2 50.0 2 4 6 4 0 4 0 3 10
+p463
+aVEric Riley DAL 01/06/1998 DAL vs. DEN W 9 2 1 3 33.3 0 0 - 0 0 - 4 3 7 1 2 0 1 1 -1
+p464
+aVSamaki Walker DAL 01/06/1998 DAL vs. DEN W 30 14 6 15 40.0 0 0 - 2 3 66.7 4 4 8 1 1 1 1 4 0
+p465
+aVKhalid Reeves DAL 01/06/1998 DAL vs. DEN W 13 4 1 4 25.0 0 0 - 2 4 50.0 1 1 2 3 2 0 1 1 3
+p466
+aVHubert Davis DAL 01/06/1998 DAL vs. DEN W 36 20 8 13 61.5 3 5 60.0 1 1 100.0 1 1 2 3 1 0 2 4 18
+p467
+aVMichael Finley DAL 01/06/1998 DAL vs. DEN W 40 20 7 13 53.8 0 1 0.0 6 6 100.0 1 4 5 4 1 0 2 1 8
+p468
+aVMartin Muursepp DAL 01/06/1998 DAL vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 5
+p469
+aVMichael Finley DAL 01/03/1998 DAL @ LAC L 37 21 9 20 45.0 0 3 0.0 3 4 75.0 1 3 4 3 1 1 1 3 -11
+p470
+aVDennis Scott DAL 01/03/1998 DAL @ LAC L 29 10 4 9 44.4 2 5 40.0 0 0 - 0 4 4 0 3 0 1 2 -14
+p471
+aVRobert Pack DAL 01/03/1998 DAL @ LAC L 8 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 1 0 0 1 0 -16
+p472
+aVShawn Bradley DAL 01/03/1998 DAL @ LAC L 30 10 3 9 33.3 0 0 - 4 6 66.7 3 6 9 0 1 3 1 1 1
+p473
+aVKhalid Reeves DAL 01/03/1998 DAL @ LAC L 15 0 0 5 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 3 1 -9
+p474
+aVBubba Wells DAL 01/03/1998 DAL @ LAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -11
+p475
+aVEric Riley DAL 01/03/1998 DAL @ LAC L 5 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -11
+p476
+aVA.C. Green DAL 01/03/1998 DAL @ LAC L 34 6 3 6 50.0 0 0 - 0 0 - 6 7 13 1 2 0 0 3 1
+p477
+aVHubert Davis DAL 01/03/1998 DAL @ LAC L 36 11 5 13 38.5 1 4 25.0 0 0 - 0 1 1 3 1 0 4 3 1
+p478
+aVErick Strickland DAL 01/03/1998 DAL @ LAC L 8 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 1 10
+p479
+aVSamaki Walker DAL 01/03/1998 DAL @ LAC L 31 20 10 19 52.6 0 0 - 0 0 - 4 9 13 0 1 0 2 3 14
+p480
+aVA.C. Green DAL 01/02/1998 DAL @ PHX L 22 4 2 3 66.7 0 0 - 0 0 - 0 5 5 2 3 0 1 1 4
+p481
+aVBubba Wells DAL 01/02/1998 DAL @ PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p482
+aVMichael Finley DAL 01/02/1998 DAL @ PHX L 45 19 7 16 43.8 1 3 33.3 4 4 100.0 1 5 6 3 3 1 3 3 -5
+p483
+aVShawn Bradley DAL 01/02/1998 DAL @ PHX L 38 10 5 13 38.5 0 1 0.0 0 0 - 3 6 9 1 1 1 4 1 -2
+p484
+aVRobert Pack DAL 01/02/1998 DAL @ PHX L 20 9 4 9 44.4 1 1 100.0 0 0 - 0 2 2 3 4 0 3 3 -13
+p485
+aVDennis Scott DAL 01/02/1998 DAL @ PHX L 30 12 5 12 41.7 1 3 33.3 1 1 100.0 1 2 3 2 0 0 2 3 -15
+p486
+aVSamaki Walker DAL 01/02/1998 DAL @ PHX L 35 15 6 11 54.5 0 0 - 3 5 60.0 5 7 12 0 1 2 2 4 -16
+p487
+aVKhalid Reeves DAL 01/02/1998 DAL @ PHX L 21 6 2 6 33.3 0 1 0.0 2 5 40.0 1 0 1 2 2 0 3 1 8
+p488
+aVHubert Davis DAL 01/02/1998 DAL @ PHX L 28 10 2 8 25.0 2 3 66.7 4 4 100.0 1 1 2 3 0 0 2 1 4
+p489
+aVRobert Pack DAL 12/30/1997 DAL @ MIL L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 1 2 0 3 1 -8
+p490
+aVMichael Finley DAL 12/30/1997 DAL @ MIL L 38 23 8 13 61.5 3 5 60.0 4 7 57.1 0 1 1 4 3 0 1 2 -14
+p491
+aVShawn Bradley DAL 12/30/1997 DAL @ MIL L 45 11 4 16 25.0 0 0 - 3 4 75.0 4 8 12 1 2 7 5 4 -10
+p492
+aVHubert Davis DAL 12/30/1997 DAL @ MIL L 19 11 4 7 57.1 1 1 100.0 2 2 100.0 0 1 1 0 1 0 1 2 -5
+p493
+aVDennis Scott DAL 12/30/1997 DAL @ MIL L 53 17 4 18 22.2 0 1 0.0 9 9 100.0 2 3 5 8 0 0 3 4 -7
+p494
+aVA.C. Green DAL 12/30/1997 DAL @ MIL L 40 8 3 8 37.5 0 0 - 2 4 50.0 5 8 13 1 0 0 2 1 1
+p495
+aVSamaki Walker DAL 12/30/1997 DAL @ MIL L 20 6 3 7 42.9 0 0 - 0 0 - 1 4 5 0 1 1 1 2 -1
+p496
+aVKhalid Reeves DAL 12/30/1997 DAL @ MIL L 34 18 6 14 42.9 1 2 50.0 5 5 100.0 2 2 4 5 2 1 0 3 9
+p497
+aVMichael Finley DAL 12/29/1997 DAL @ CHI L 45 23 7 23 30.4 3 6 50.0 6 8 75.0 1 2 3 2 2 2 3 3 -4
+p498
+aVA.C. Green DAL 12/29/1997 DAL @ CHI L 24 5 2 4 50.0 0 0 - 1 2 50.0 0 7 7 1 0 0 0 1 4
+p499
+aVBubba Wells DAL 12/29/1997 DAL @ CHI L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 6 0
+p500
+aVDennis Scott DAL 12/29/1997 DAL @ CHI L 44 18 7 17 41.2 2 3 66.7 2 2 100.0 1 5 6 1 2 0 0 5 -8
+p501
+aVRobert Pack DAL 12/29/1997 DAL @ CHI L 25 8 3 9 33.3 0 1 0.0 2 4 50.0 1 0 1 4 4 0 1 2 -13
+p502
+aVShawn Bradley DAL 12/29/1997 DAL @ CHI L 26 18 8 15 53.3 0 1 0.0 2 2 100.0 6 4 10 0 0 1 1 4 -10
+p503
+aVKhalid Reeves DAL 12/29/1997 DAL @ CHI L 24 22 5 7 71.4 1 1 100.0 11 13 84.6 1 2 3 3 0 0 2 4 9
+p504
+aVSamaki Walker DAL 12/29/1997 DAL @ CHI L 21 5 2 4 50.0 0 0 - 1 1 100.0 1 4 5 0 0 0 0 0 5
+p505
+aVHubert Davis DAL 12/29/1997 DAL @ CHI L 29 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 3 0 0 1 4 -11
+p506
+aVMichael Finley DAL 12/26/1997 DAL vs. WAS L 46 23 11 21 52.4 1 1 100.0 0 0 - 3 7 10 5 0 0 4 4 -1
+p507
+aVSamaki Walker DAL 12/26/1997 DAL vs. WAS L 26 8 4 9 44.4 0 0 - 0 0 - 4 3 7 1 0 1 1 4 -18
+p508
+aVDennis Scott DAL 12/26/1997 DAL vs. WAS L 43 22 9 17 52.9 3 6 50.0 1 1 100.0 3 4 7 0 2 3 3 4 -7
+p509
+aVA.C. Green DAL 12/26/1997 DAL vs. WAS L 31 7 2 7 28.6 0 0 - 3 3 100.0 2 6 8 0 1 0 5 3 3
+p510
+aVRobert Pack DAL 12/26/1997 DAL vs. WAS L 17 3 0 4 0.0 0 0 - 3 4 75.0 1 2 3 3 0 0 2 1 -18
+p511
+aVKhalid Reeves DAL 12/26/1997 DAL vs. WAS L 38 22 8 17 47.1 1 4 25.0 5 7 71.4 0 2 2 2 1 1 2 5 13
+p512
+aVHubert Davis DAL 12/26/1997 DAL vs. WAS L 18 2 1 8 12.5 0 1 0.0 0 0 - 2 2 4 0 0 0 0 2 5
+p513
+aVEric Riley DAL 12/26/1997 DAL vs. WAS L 21 8 2 3 66.7 0 0 - 4 4 100.0 2 6 8 0 0 1 2 3 13
+p514
+aVRobert Pack DAL 12/23/1997 DAL @ CLE L 34 7 3 9 33.3 0 0 - 1 2 50.0 0 4 4 3 2 0 4 2 -15
+p515
+aVMichael Finley DAL 12/23/1997 DAL @ CLE L 45 29 12 22 54.5 3 5 60.0 2 2 100.0 2 4 6 4 0 1 1 2 -19
+p516
+aVEric Riley DAL 12/23/1997 DAL @ CLE L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p517
+aVBubba Wells DAL 12/23/1997 DAL @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p518
+aVHubert Davis DAL 12/23/1997 DAL @ CLE L 24 12 5 6 83.3 2 2 100.0 0 0 - 0 2 2 1 1 0 0 1 7
+p519
+aVMartin Muursepp DAL 12/23/1997 DAL @ CLE L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p520
+aVDennis Scott DAL 12/23/1997 DAL @ CLE L 39 7 1 13 7.7 0 4 0.0 5 5 100.0 2 8 10 9 1 0 3 2 -20
+p521
+aVSamaki Walker DAL 12/23/1997 DAL @ CLE L 24 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 2 0 3 4 -6
+p522
+aVKhalid Reeves DAL 12/23/1997 DAL @ CLE L 20 18 5 11 45.5 2 4 50.0 6 7 85.7 1 3 4 3 1 0 1 4 5
+p523
+aVA.C. Green DAL 12/23/1997 DAL @ CLE L 40 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 3 1 1 0 3 -12
+p524
+aVMichael Finley DAL 12/22/1997 DAL @ NYK L 48 13 5 21 23.8 0 4 0.0 3 3 100.0 1 5 6 4 1 0 2 2 -12
+p525
+aVRobert Pack DAL 12/22/1997 DAL @ NYK L 39 11 2 9 22.2 0 1 0.0 7 8 87.5 1 6 7 5 1 0 4 0 -7
+p526
+aVDennis Scott DAL 12/22/1997 DAL @ NYK L 45 18 6 12 50.0 1 4 25.0 5 5 100.0 1 4 5 2 0 0 1 1 -12
+p527
+aVKhalid Reeves DAL 12/22/1997 DAL @ NYK L 29 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 1 0 0 2 2 -15
+p528
+aVHubert Davis DAL 12/22/1997 DAL @ NYK L 28 10 4 8 50.0 2 4 50.0 0 0 - 1 2 3 0 0 0 0 1 -2
+p529
+aVSamaki Walker DAL 12/22/1997 DAL @ NYK L 9 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 1 2 3 2
+p530
+aVA.C. Green DAL 12/22/1997 DAL @ NYK L 42 10 5 5 100.0 0 0 - 0 0 - 1 8 9 1 0 0 0 1 -14
+p531
+aVSamaki Walker DAL 12/20/1997 DAL vs. SAC L 29 18 7 12 58.3 0 0 - 4 4 100.0 4 3 7 0 1 1 3 6 3
+p532
+aVMichael Finley DAL 12/20/1997 DAL vs. SAC L 43 13 5 16 31.3 0 0 - 3 6 50.0 1 4 5 7 1 0 3 2 -11
+p533
+aVHubert Davis DAL 12/20/1997 DAL vs. SAC L 24 13 5 6 83.3 0 0 - 3 3 100.0 0 1 1 1 0 0 0 2 9
+p534
+aVEric Riley DAL 12/20/1997 DAL vs. SAC L 17 2 1 1 100.0 0 0 - 0 0 - 2 7 9 0 0 4 3 2 -2
+p535
+aVA.C. Green DAL 12/20/1997 DAL vs. SAC L 35 7 3 4 75.0 0 0 - 1 2 50.0 3 7 10 1 1 0 0 1 -5
+p536
+aVRobert Pack DAL 12/20/1997 DAL vs. SAC L 39 14 5 18 27.8 0 0 - 4 4 100.0 1 4 5 8 1 1 5 0 8
+p537
+aVKhalid Reeves DAL 12/20/1997 DAL vs. SAC L 10 0 0 4 0.0 0 0 - 0 0 - 1 1 2 2 1 0 2 1 -9
+p538
+aVDennis Scott DAL 12/20/1997 DAL vs. SAC L 43 21 8 17 47.1 4 6 66.7 1 1 100.0 2 6 8 3 1 1 2 3 2
+p539
+aVMartin Muursepp DAL 12/18/1997 DAL vs. PHX L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p540
+aVRobert Pack DAL 12/18/1997 DAL vs. PHX L 36 23 10 17 58.8 1 2 50.0 2 4 50.0 1 4 5 3 2 0 7 2 -4
+p541
+aVDennis Scott DAL 12/18/1997 DAL vs. PHX L 33 5 1 7 14.3 1 5 20.0 2 2 100.0 2 5 7 3 0 0 2 3 -12
+p542
+aVSamaki Walker DAL 12/18/1997 DAL vs. PHX L 43 15 7 7 100.0 0 0 - 1 4 25.0 1 15 16 1 1 5 3 2 -16
+p543
+aVKhalid Reeves DAL 12/18/1997 DAL vs. PHX L 24 6 3 9 33.3 0 1 0.0 0 0 - 1 3 4 3 0 0 1 1 -11
+p544
+aVChris Anstey DAL 12/18/1997 DAL vs. PHX L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 1
+p545
+aVA.C. Green DAL 12/18/1997 DAL vs. PHX L 17 2 1 5 20.0 0 0 - 0 0 - 0 6 6 0 0 0 0 1 -1
+p546
+aVMichael Finley DAL 12/18/1997 DAL vs. PHX L 48 18 8 19 42.1 0 2 0.0 2 3 66.7 2 3 5 4 1 1 2 1 -14
+p547
+aVHubert Davis DAL 12/18/1997 DAL vs. PHX L 30 6 2 8 25.0 0 0 - 2 2 100.0 0 1 1 3 1 0 2 2 -12
+p548
+aVMartin Muursepp DAL 12/16/1997 DAL @ GSW L 12 2 1 6 16.7 0 0 - 0 3 0.0 2 4 6 0 0 0 0 2 -2
+p549
+aVMichael Finley DAL 12/16/1997 DAL @ GSW L 47 26 11 30 36.7 2 5 40.0 2 2 100.0 6 4 10 7 0 0 1 4 -12
+p550
+aVRobert Pack DAL 12/16/1997 DAL @ GSW L 31 7 2 11 18.2 1 1 100.0 2 4 50.0 1 1 2 4 1 0 4 3 0
+p551
+aVKhalid Reeves DAL 12/16/1997 DAL @ GSW L 25 6 3 5 60.0 0 0 - 0 0 - 1 4 5 2 0 0 3 2 -9
+p552
+aVHubert Davis DAL 12/16/1997 DAL @ GSW L 19 9 3 7 42.9 2 4 50.0 1 2 50.0 1 0 1 0 1 0 0 2 -2
+p553
+aVChris Anstey DAL 12/16/1997 DAL @ GSW L 5 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 1 0 0 1 -2
+p554
+aVA.C. Green DAL 12/16/1997 DAL @ GSW L 32 4 2 8 25.0 0 0 - 0 1 0.0 3 7 10 3 0 0 1 3 -4
+p555
+aVSamaki Walker DAL 12/16/1997 DAL @ GSW L 27 17 7 9 77.8 0 0 - 3 5 60.0 4 4 8 0 0 1 1 4 -11
+p556
+aVDennis Scott DAL 12/16/1997 DAL @ GSW L 41 19 8 19 42.1 1 3 33.3 2 2 100.0 2 3 5 4 5 0 1 1 -13
+p557
+aVMartin Muursepp DAL 12/14/1997 DAL @ LAL L 22 10 3 6 50.0 0 0 - 4 4 100.0 2 0 2 0 2 1 1 2 -2
+p558
+aVMichael Finley DAL 12/14/1997 DAL @ LAL L 41 18 8 21 38.1 0 2 0.0 2 2 100.0 4 1 5 5 3 0 2 3 -19
+p559
+aVErick Strickland DAL 12/14/1997 DAL @ LAL L 23 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 2 0 0 2 1 0
+p560
+aVKevin Ollie DAL 12/14/1997 DAL @ LAL L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 0 -6
+p561
+aVChris Anstey DAL 12/14/1997 DAL @ LAL L 4 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -1
+p562
+aVDennis Scott DAL 12/14/1997 DAL @ LAL L 27 18 7 17 41.2 1 6 16.7 3 4 75.0 1 3 4 0 1 0 2 2 -29
+p563
+aVA.C. Green DAL 12/14/1997 DAL @ LAL L 18 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 0 -15
+p564
+aVSamaki Walker DAL 12/14/1997 DAL @ LAL L 33 13 6 9 66.7 0 0 - 1 6 16.7 1 7 8 0 0 2 0 4 -16
+p565
+aVBubba Wells DAL 12/14/1997 DAL @ LAL L 7 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 1 1 1 -11
+p566
+aVHubert Davis DAL 12/14/1997 DAL @ LAL L 34 13 6 14 42.9 1 2 50.0 0 0 - 1 4 5 3 1 0 1 2 -22
+p567
+aVKhalid Reeves DAL 12/14/1997 DAL @ LAL L 25 4 1 3 33.3 0 2 0.0 2 2 100.0 0 2 2 2 0 0 2 5 -29
+p568
+aVErick Strickland DAL 12/12/1997 DAL @ UTA L 13 2 1 8 12.5 0 3 0.0 0 0 - 1 0 1 1 0 0 0 2 -6
+p569
+aVSamaki Walker DAL 12/12/1997 DAL @ UTA L 7 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 2
+p570
+aVMichael Finley DAL 12/12/1997 DAL @ UTA L 48 21 8 14 57.1 0 1 0.0 5 5 100.0 2 3 5 3 2 1 1 1 -2
+p571
+aVHubert Davis DAL 12/12/1997 DAL @ UTA L 48 8 3 13 23.1 2 8 25.0 0 0 - 1 1 2 2 2 0 2 4 -2
+p572
+aVDennis Scott DAL 12/12/1997 DAL @ UTA L 45 21 7 10 70.0 5 5 100.0 2 4 50.0 1 3 4 2 1 0 1 6 -1
+p573
+aVA.C. Green DAL 12/12/1997 DAL @ UTA L 43 4 2 6 33.3 0 0 - 0 0 - 1 6 7 2 0 0 1 3 -6
+p574
+aVKhalid Reeves DAL 12/12/1997 DAL @ UTA L 35 10 4 11 36.4 0 2 0.0 2 4 50.0 1 1 2 6 4 0 4 5 5
+p575
+aVKhalid Reeves DAL 12/11/1997 DAL vs. ORL L 33 6 1 5 20.0 0 2 0.0 4 4 100.0 2 1 3 4 2 0 2 4 -7
+p576
+aVErick Strickland DAL 12/11/1997 DAL vs. ORL L 19 13 4 9 44.4 3 5 60.0 2 2 100.0 1 2 3 2 0 0 2 1 -3
+p577
+aVHubert Davis DAL 12/11/1997 DAL vs. ORL L 28 10 4 10 40.0 2 4 50.0 0 0 - 0 2 2 0 0 0 0 1 -2
+p578
+aVBubba Wells DAL 12/11/1997 DAL vs. ORL L 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -2
+p579
+aVMartin Muursepp DAL 12/11/1997 DAL vs. ORL L 18 8 3 6 50.0 0 0 - 2 3 66.7 0 2 2 0 1 2 1 4 -4
+p580
+aVMichael Finley DAL 12/11/1997 DAL vs. ORL L 42 20 6 12 50.0 0 2 0.0 8 8 100.0 4 4 8 3 2 2 3 3 -8
+p581
+aVDennis Scott DAL 12/11/1997 DAL vs. ORL L 40 13 3 9 33.3 1 3 33.3 6 6 100.0 0 6 6 3 1 1 3 1 -6
+p582
+aVA.C. Green DAL 12/11/1997 DAL vs. ORL L 29 4 2 7 28.6 0 0 - 0 0 - 1 2 3 0 2 0 0 4 -5
+p583
+aVSamaki Walker DAL 12/11/1997 DAL vs. ORL L 23 12 6 13 46.2 0 0 - 0 0 - 4 5 9 0 0 1 0 2 -13
+p584
+aVErick Strickland DAL 12/09/1997 DAL vs. LAC L 16 3 1 7 14.3 1 2 50.0 0 0 - 0 3 3 2 1 0 0 1 -9
+p585
+aVMartin Muursepp DAL 12/09/1997 DAL vs. LAC L 17 8 4 7 57.1 0 0 - 0 0 - 2 4 6 0 1 0 1 6 4
+p586
+aVSamaki Walker DAL 12/09/1997 DAL vs. LAC L 26 7 3 5 60.0 0 0 - 1 2 50.0 1 5 6 0 0 1 1 1 -2
+p587
+aVMichael Finley DAL 12/09/1997 DAL vs. LAC L 44 17 6 16 37.5 1 1 100.0 4 4 100.0 1 5 6 7 0 0 3 5 -5
+p588
+aVBubba Wells DAL 12/09/1997 DAL vs. LAC L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -7
+p589
+aVA.C. Green DAL 12/09/1997 DAL vs. LAC L 23 0 0 5 0.0 0 0 - 0 0 - 3 4 7 0 1 0 0 2 -6
+p590
+aVKhalid Reeves DAL 12/09/1997 DAL vs. LAC L 33 28 9 16 56.3 1 2 50.0 9 9 100.0 1 2 3 3 0 0 1 3 -15
+p591
+aVDennis Scott DAL 12/09/1997 DAL vs. LAC L 40 15 7 16 43.8 1 5 20.0 0 0 - 0 5 5 3 0 6 5 3 3
+p592
+aVHubert Davis DAL 12/09/1997 DAL vs. LAC L 37 12 5 9 55.6 1 3 33.3 1 2 50.0 0 5 5 5 0 0 1 3 2
+p593
+aVDennis Scott DAL 12/06/1997 DAL vs. HOU L 43 9 4 11 36.4 1 6 16.7 0 0 - 1 5 6 1 0 0 4 3 -5
+p594
+aVMichael Finley DAL 12/06/1997 DAL vs. HOU L 47 35 10 19 52.6 4 5 80.0 11 12 91.7 2 5 7 6 1 2 4 4 -2
+p595
+aVBubba Wells DAL 12/06/1997 DAL vs. HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p596
+aVChris Anstey DAL 12/06/1997 DAL vs. HOU L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p597
+aVErick Strickland DAL 12/06/1997 DAL vs. HOU L 41 19 6 15 40.0 2 5 40.0 5 5 100.0 0 6 6 3 1 0 3 3 1
+p598
+aVHubert Davis DAL 12/06/1997 DAL vs. HOU L 33 16 5 9 55.6 3 6 50.0 3 4 75.0 0 2 2 0 0 0 1 2 -10
+p599
+aVSamaki Walker DAL 12/06/1997 DAL vs. HOU L 18 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 2 1 3 -10
+p600
+aVKevin Ollie DAL 12/06/1997 DAL vs. HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p601
+aVKhalid Reeves DAL 12/06/1997 DAL vs. HOU L 29 16 7 20 35.0 0 5 0.0 2 2 100.0 0 5 5 1 1 0 1 6 10
+p602
+aVA.C. Green DAL 12/06/1997 DAL vs. HOU L 10 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 1 1 0 0 4
+p603
+aVMartin Muursepp DAL 12/06/1997 DAL vs. HOU L 17 7 3 4 75.0 0 0 - 1 2 50.0 2 3 5 1 0 0 0 5 5
+p604
+aVHubert Davis DAL 12/04/1997 DAL vs. NYK W 37 20 5 9 55.6 5 6 83.3 5 5 100.0 0 2 2 3 1 0 2 3 15
+p605
+aVErick Strickland DAL 12/04/1997 DAL vs. NYK W 23 7 3 10 30.0 1 3 33.3 0 0 - 1 0 1 3 2 1 0 2 3
+p606
+aVKevin Ollie DAL 12/04/1997 DAL vs. NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p607
+aVA.C. Green DAL 12/04/1997 DAL vs. NYK W 35 14 6 8 75.0 0 0 - 2 4 50.0 6 5 11 2 1 0 2 3 16
+p608
+aVSamaki Walker DAL 12/04/1997 DAL vs. NYK W 10 1 0 2 0.0 0 0 - 1 2 50.0 1 4 5 0 0 1 1 2 -5
+p609
+aVDennis Scott DAL 12/04/1997 DAL vs. NYK W 42 12 5 12 41.7 2 5 40.0 0 0 - 0 4 4 3 2 2 1 2 27
+p610
+aVChris Anstey DAL 12/04/1997 DAL vs. NYK W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p611
+aVKhalid Reeves DAL 12/04/1997 DAL vs. NYK W 38 24 6 16 37.5 2 3 66.7 10 12 83.3 1 7 8 3 1 0 5 3 4
+p612
+aVMichael Finley DAL 12/04/1997 DAL vs. NYK W 48 27 12 22 54.5 2 5 40.0 1 1 100.0 2 4 6 3 0 0 2 3 14
+p613
+aVMartin Muursepp DAL 12/02/1997 DAL vs. ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -7
+p614
+aVA.C. Green DAL 12/02/1997 DAL vs. ATL L 28 6 2 6 33.3 0 0 - 2 2 100.0 1 5 6 0 0 1 0 2 -16
+p615
+aVDennis Scott DAL 12/02/1997 DAL vs. ATL L 41 15 5 17 29.4 1 4 25.0 4 4 100.0 2 3 5 4 1 1 0 3 -21
+p616
+aVKevin Ollie DAL 12/02/1997 DAL vs. ATL L 3 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -7
+p617
+aVBubba Wells DAL 12/02/1997 DAL vs. ATL L 3 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 0 -7
+p618
+aVMichael Finley DAL 12/02/1997 DAL vs. ATL L 39 18 7 16 43.8 0 2 0.0 4 5 80.0 1 2 3 6 2 0 2 2 -19
+p619
+aVKhalid Reeves DAL 12/02/1997 DAL vs. ATL L 23 9 4 7 57.1 1 3 33.3 0 0 - 2 2 4 1 0 0 1 1 -7
+p620
+aVChris Anstey DAL 12/02/1997 DAL vs. ATL L 18 5 2 8 25.0 0 2 0.0 1 2 50.0 1 7 8 0 1 1 1 3 -22
+p621
+aVSamaki Walker DAL 12/02/1997 DAL vs. ATL L 34 14 6 15 40.0 0 0 - 2 3 66.7 6 9 15 2 0 2 1 4 -12
+p622
+aVErick Strickland DAL 12/02/1997 DAL vs. ATL L 23 2 1 10 10.0 0 5 0.0 0 0 - 0 1 1 3 0 1 1 1 -20
+p623
+aVHubert Davis DAL 12/02/1997 DAL vs. ATL L 23 9 4 9 44.4 1 2 50.0 0 0 - 1 0 1 0 0 1 0 3 -27
+p624
+aVKhalid Reeves DAL 11/29/1997 DAL @ SAS L 39 11 5 10 50.0 1 4 25.0 0 0 - 2 2 4 4 5 0 3 3 -18
+p625
+aVMartin Muursepp DAL 11/29/1997 DAL @ SAS L 6 0 0 4 0.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 1 3
+p626
+aVChris Anstey DAL 11/29/1997 DAL @ SAS L 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 5 9
+p627
+aVHubert Davis DAL 11/29/1997 DAL @ SAS L 10 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p628
+aVA.C. Green DAL 11/29/1997 DAL @ SAS L 38 6 2 8 25.0 0 0 - 2 2 100.0 3 5 8 0 0 0 0 3 -14
+p629
+aVDennis Scott DAL 11/29/1997 DAL @ SAS L 42 16 5 17 29.4 1 5 20.0 5 7 71.4 2 1 3 4 2 0 2 2 -11
+p630
+aVSamaki Walker DAL 11/29/1997 DAL @ SAS L 37 7 3 7 42.9 0 0 - 1 1 100.0 3 2 5 3 0 1 3 6 -16
+p631
+aVMichael Finley DAL 11/29/1997 DAL @ SAS L 44 35 13 23 56.5 4 8 50.0 5 6 83.3 1 8 9 3 0 0 4 0 -6
+p632
+aVErick Strickland DAL 11/29/1997 DAL @ SAS L 9 5 2 3 66.7 0 1 0.0 1 4 25.0 1 0 1 1 1 0 1 2 9
+p633
+aVShawn Bradley DAL 11/28/1997 DAL vs. TOR W 18 12 6 8 75.0 0 0 - 0 0 - 2 4 6 2 0 0 1 3 -1
+p634
+aVDennis Scott DAL 11/28/1997 DAL vs. TOR W 43 21 8 19 42.1 5 12 41.7 0 0 - 0 4 4 3 1 3 0 2 9
+p635
+aVChris Anstey DAL 11/28/1997 DAL vs. TOR W 8 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 3 4
+p636
+aVErick Strickland DAL 11/28/1997 DAL vs. TOR W 26 5 2 7 28.6 0 2 0.0 1 2 50.0 0 2 2 4 1 1 1 2 -4
+p637
+aVKhalid Reeves DAL 11/28/1997 DAL vs. TOR W 22 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 6 1 0 0 0 7
+p638
+aVHubert Davis DAL 11/28/1997 DAL vs. TOR W 11 6 3 9 33.3 0 1 0.0 0 0 - 2 0 2 0 0 0 1 3 -4
+p639
+aVA.C. Green DAL 11/28/1997 DAL vs. TOR W 36 5 2 5 40.0 0 0 - 1 2 50.0 4 10 14 5 1 0 2 2 1
+p640
+aVSamaki Walker DAL 11/28/1997 DAL vs. TOR W 34 14 7 12 58.3 0 0 - 0 0 - 6 4 10 0 0 0 2 4 -2
+p641
+aVMichael Finley DAL 11/28/1997 DAL vs. TOR W 42 15 6 13 46.2 2 5 40.0 1 2 50.0 2 4 6 4 0 0 2 2 0
+p642
+aVShawn Bradley DAL 11/25/1997 DAL vs. SAS L 40 16 8 17 47.1 0 0 - 0 0 - 2 8 10 0 2 6 1 6 -3
+p643
+aVHubert Davis DAL 11/25/1997 DAL vs. SAS L 19 5 2 7 28.6 0 1 0.0 1 2 50.0 0 2 2 0 0 0 1 0 -5
+p644
+aVErick Strickland DAL 11/25/1997 DAL vs. SAS L 30 13 5 11 45.5 3 4 75.0 0 0 - 1 3 4 5 1 0 2 1 3
+p645
+aVDennis Scott DAL 11/25/1997 DAL vs. SAS L 43 15 7 12 58.3 1 4 25.0 0 0 - 0 0 0 3 0 1 3 1 -4
+p646
+aVKhalid Reeves DAL 11/25/1997 DAL vs. SAS L 18 11 4 10 40.0 3 6 50.0 0 0 - 1 0 1 2 0 0 2 2 -9
+p647
+aVMichael Finley DAL 11/25/1997 DAL vs. SAS L 34 20 7 15 46.7 1 4 25.0 5 5 100.0 0 4 4 7 3 1 2 2 -15
+p648
+aVKevin Ollie DAL 11/25/1997 DAL vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p649
+aVA.C. Green DAL 11/25/1997 DAL vs. SAS L 30 6 2 6 33.3 0 0 - 2 2 100.0 4 2 6 1 0 0 1 2 -26
+p650
+aVSamaki Walker DAL 11/25/1997 DAL vs. SAS L 25 5 2 8 25.0 0 0 - 1 3 33.3 4 3 7 0 2 1 0 2 9
+p651
+aVDennis Scott DAL 11/22/1997 DAL vs. MIL L 20 5 1 7 14.3 1 1 100.0 2 2 100.0 0 2 2 1 0 3 2 2 -17
+p652
+aVChris Anstey DAL 11/22/1997 DAL vs. MIL L 3 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 2
+p653
+aVSamaki Walker DAL 11/22/1997 DAL vs. MIL L 19 2 0 4 0.0 0 0 - 2 2 100.0 2 6 8 0 1 1 1 3 -16
+p654
+aVKevin Ollie DAL 11/22/1997 DAL vs. MIL L 24 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 3 1 0 4 1 -8
+p655
+aVA.C. Green DAL 11/22/1997 DAL vs. MIL L 37 7 3 6 50.0 0 0 - 1 2 50.0 1 5 6 1 0 1 0 1 -21
+p656
+aVShawn Bradley DAL 11/22/1997 DAL vs. MIL L 35 11 5 19 26.3 0 0 - 1 2 50.0 6 8 14 2 1 6 1 6 -7
+p657
+aVBubba Wells DAL 11/22/1997 DAL vs. MIL L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 0
+p658
+aVErick Strickland DAL 11/22/1997 DAL vs. MIL L 18 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 1 1 0 5 0 -13
+p659
+aVMichael Finley DAL 11/22/1997 DAL vs. MIL L 38 12 5 12 41.7 0 0 - 2 2 100.0 0 2 2 2 2 1 3 1 -12
+p660
+aVKhalid Reeves DAL 11/22/1997 DAL vs. MIL L 16 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 2 -4
+p661
+aVHubert Davis DAL 11/22/1997 DAL vs. MIL L 29 10 4 8 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 0 -9
+p662
+aVKhalid Reeves DAL 11/20/1997 DAL vs. GSW L 19 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 3 -9
+p663
+aVShawn Bradley DAL 11/20/1997 DAL vs. GSW L 42 21 9 21 42.9 0 0 - 3 5 60.0 5 12 17 2 2 4 1 5 10
+p664
+aVSamaki Walker DAL 11/20/1997 DAL vs. GSW L 22 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 1 2 0 1 2 0
+p665
+aVErick Strickland DAL 11/20/1997 DAL vs. GSW L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p666
+aVDennis Scott DAL 11/20/1997 DAL vs. GSW L 38 33 11 24 45.8 9 14 64.3 2 2 100.0 1 2 3 1 0 1 2 2 -11
+p667
+aVA.C. Green DAL 11/20/1997 DAL vs. GSW L 37 7 3 7 42.9 0 0 - 1 2 50.0 2 5 7 2 1 0 0 2 -17
+p668
+aVHubert Davis DAL 11/20/1997 DAL vs. GSW L 29 18 8 19 42.1 2 7 28.6 0 0 - 0 1 1 3 1 0 1 1 10
+p669
+aVMichael Finley DAL 11/20/1997 DAL vs. GSW L 45 7 2 14 14.3 1 4 25.0 2 4 50.0 3 4 7 10 1 2 4 4 -8
+p670
+aVKevin Ollie DAL 11/20/1997 DAL vs. GSW L 30 8 3 5 60.0 0 0 - 2 3 66.7 2 1 3 4 3 0 2 4 5
+p671
+aVMichael Finley DAL 11/18/1997 DAL @ SAC L 36 14 6 12 50.0 2 3 66.7 0 0 - 3 1 4 3 0 0 5 3 -2
+p672
+aVSamaki Walker DAL 11/18/1997 DAL @ SAC L 19 4 2 4 50.0 0 0 - 0 1 0.0 1 0 1 1 2 0 2 1 -3
+p673
+aVKhalid Reeves DAL 11/18/1997 DAL @ SAC L 25 8 3 9 33.3 0 2 0.0 2 2 100.0 1 2 3 1 0 0 2 4 1
+p674
+aVHubert Davis DAL 11/18/1997 DAL @ SAC L 20 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 3 0 0 1 2 -6
+p675
+aVShawn Bradley DAL 11/18/1997 DAL @ SAC L 37 18 8 11 72.7 0 0 - 2 2 100.0 1 6 7 2 1 4 2 4 -10
+p676
+aVDennis Scott DAL 11/18/1997 DAL @ SAC L 40 20 8 24 33.3 4 11 36.4 0 0 - 0 4 4 4 2 0 0 1 -6
+p677
+aVErick Strickland DAL 11/18/1997 DAL @ SAC L 9 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 4 1 0 0 0 -2
+p678
+aVA.C. Green DAL 11/18/1997 DAL @ SAC L 41 20 7 15 46.7 0 0 - 6 7 85.7 8 5 13 2 4 0 1 3 -1
+p679
+aVKevin Ollie DAL 11/18/1997 DAL @ SAC L 15 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 0 -6
+p680
+aVChris Anstey DAL 11/17/1997 DAL @ POR L 12 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 1 0 0 3 -12
+p681
+aVSamaki Walker DAL 11/17/1997 DAL @ POR L 24 9 4 6 66.7 0 0 - 1 4 25.0 2 5 7 0 1 0 3 2 -27
+p682
+aVHubert Davis DAL 11/17/1997 DAL @ POR L 15 3 1 2 50.0 0 1 0.0 1 1 100.0 1 0 1 0 0 0 0 0 -20
+p683
+aVDennis Scott DAL 11/17/1997 DAL @ POR L 32 12 5 16 31.3 2 7 28.6 0 0 - 0 7 7 4 0 1 2 2 -25
+p684
+aVA.C. Green DAL 11/17/1997 DAL @ POR L 34 10 3 3 100.0 0 0 - 4 4 100.0 1 3 4 3 1 0 1 1 -31
+p685
+aVMichael Finley DAL 11/17/1997 DAL @ POR L 30 11 4 11 36.4 0 1 0.0 3 4 75.0 0 0 0 1 1 0 4 2 -31
+p686
+aVShawn Bradley DAL 11/17/1997 DAL @ POR L 26 6 3 6 50.0 0 0 - 0 2 0.0 1 4 5 1 1 1 2 2 -20
+p687
+aVErick Strickland DAL 11/17/1997 DAL @ POR L 19 1 0 6 0.0 0 4 0.0 1 2 50.0 0 0 0 1 1 0 1 1 -17
+p688
+aVKevin Ollie DAL 11/17/1997 DAL @ POR L 17 4 1 8 12.5 0 0 - 2 2 100.0 1 0 1 2 0 0 1 2 -16
+p689
+aVKhalid Reeves DAL 11/17/1997 DAL @ POR L 19 9 3 7 42.9 1 2 50.0 2 3 66.7 0 1 1 0 0 0 0 1 -14
+p690
+aVBubba Wells DAL 11/17/1997 DAL @ POR L 12 8 3 6 50.0 0 0 - 2 3 66.7 1 1 2 2 0 0 0 0 -12
+p691
+aVChris Anstey DAL 11/15/1997 DAL vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p692
+aVMichael Finley DAL 11/15/1997 DAL vs. UTA L 43 21 9 19 47.4 2 5 40.0 1 2 50.0 3 1 4 7 1 0 3 1 -12
+p693
+aVSamaki Walker DAL 11/15/1997 DAL vs. UTA L 12 1 0 1 0.0 0 0 - 1 2 50.0 1 4 5 0 0 0 1 3 -2
+p694
+aVShawn Bradley DAL 11/15/1997 DAL vs. UTA L 37 11 3 12 25.0 0 0 - 5 7 71.4 4 10 14 1 0 4 3 2 -7
+p695
+aVDennis Scott DAL 11/15/1997 DAL vs. UTA L 31 3 1 9 11.1 0 5 0.0 1 2 50.0 0 1 1 3 1 1 3 0 -7
+p696
+aVA.C. Green DAL 11/15/1997 DAL vs. UTA L 45 13 6 9 66.7 0 0 - 1 2 50.0 3 7 10 1 0 0 2 2 -8
+p697
+aVErick Strickland DAL 11/15/1997 DAL vs. UTA L 20 12 4 9 44.4 2 6 33.3 2 2 100.0 0 3 3 2 2 0 1 5 -3
+p698
+aVHubert Davis DAL 11/15/1997 DAL vs. UTA L 23 7 3 7 42.9 1 1 100.0 0 0 - 0 0 0 2 0 0 2 0 3
+p699
+aVKhalid Reeves DAL 11/15/1997 DAL vs. UTA L 28 9 3 9 33.3 2 3 66.7 1 2 50.0 1 1 2 3 0 0 1 1 -5
+p700
+aVSamaki Walker DAL 11/13/1997 DAL vs. PHI L 14 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 1 0 0 0 1
+p701
+aVMichael Finley DAL 11/13/1997 DAL vs. PHI L 37 18 7 18 38.9 2 3 66.7 2 4 50.0 1 3 4 7 2 0 1 1 7
+p702
+aVKurt Thomas DAL 11/13/1997 DAL vs. PHI L 14 8 4 7 57.1 0 0 - 0 0 - 3 3 6 0 0 0 3 0 -3
+p703
+aVShawn Bradley DAL 11/13/1997 DAL vs. PHI L 32 20 9 16 56.3 0 0 - 2 2 100.0 4 9 13 1 1 1 1 5 2
+p704
+aVHubert Davis DAL 11/13/1997 DAL vs. PHI L 31 10 4 9 44.4 1 3 33.3 1 3 33.3 0 1 1 4 3 0 1 3 -1
+p705
+aVDennis Scott DAL 11/13/1997 DAL vs. PHI L 29 4 2 11 18.2 0 5 0.0 0 0 - 0 1 1 3 0 1 1 0 -4
+p706
+aVErick Strickland DAL 11/13/1997 DAL vs. PHI L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 6 -10
+p707
+aVKhalid Reeves DAL 11/13/1997 DAL vs. PHI L 31 14 6 9 66.7 1 2 50.0 1 2 50.0 0 0 0 8 3 0 4 6 0
+p708
+aVKevin Ollie DAL 11/13/1997 DAL vs. PHI L 8 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 9
+p709
+aVA.C. Green DAL 11/13/1997 DAL vs. PHI L 35 14 7 9 77.8 0 0 - 0 1 0.0 3 5 8 2 0 0 0 1 -6
+p710
+aVMichael Finley DAL 11/11/1997 DAL vs. LAL L 37 8 3 11 27.3 1 4 25.0 1 2 50.0 2 1 3 0 3 1 4 3 -31
+p711
+aVHubert Davis DAL 11/11/1997 DAL vs. LAL L 23 11 5 9 55.6 1 2 50.0 0 0 - 0 2 2 0 0 0 0 2 -5
+p712
+aVKhalid Reeves DAL 11/11/1997 DAL vs. LAL L 23 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -19
+p713
+aVDennis Scott DAL 11/11/1997 DAL vs. LAL L 35 27 10 19 52.6 5 8 62.5 2 3 66.7 0 3 3 2 1 0 4 2 -9
+p714
+aVErick Strickland DAL 11/11/1997 DAL vs. LAL L 20 9 3 6 50.0 3 5 60.0 0 0 - 0 2 2 6 2 0 3 5 -5
+p715
+aVSamaki Walker DAL 11/11/1997 DAL vs. LAL L 15 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 1 2 1 1 5 -17
+p716
+aVKurt Thomas DAL 11/11/1997 DAL vs. LAL L 17 13 5 10 50.0 0 0 - 3 3 100.0 2 5 7 2 0 0 4 6 16
+p717
+aVBubba Wells DAL 11/11/1997 DAL vs. LAL L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p718
+aVKevin Ollie DAL 11/11/1997 DAL vs. LAL L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 2 0 0 0 0 2
+p719
+aVChris Anstey DAL 11/11/1997 DAL vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p720
+aVShawn Bradley DAL 11/11/1997 DAL vs. LAL L 23 6 2 12 16.7 0 0 - 2 2 100.0 1 2 3 0 0 2 1 3 -17
+p721
+aVA.C. Green DAL 11/11/1997 DAL vs. LAL L 40 9 4 8 50.0 0 0 - 1 2 50.0 5 11 16 8 1 0 4 3 -26
+p722
+aVA.C. Green DAL 11/08/1997 DAL vs. POR L 37 10 4 8 50.0 0 0 - 2 2 100.0 2 8 10 1 0 0 1 4 8
+p723
+aVChris Anstey DAL 11/08/1997 DAL vs. POR L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -5
+p724
+aVKurt Thomas DAL 11/08/1997 DAL vs. POR L 13 2 1 8 12.5 0 0 - 0 0 - 0 2 2 0 1 0 2 4 -15
+p725
+aVDennis Scott DAL 11/08/1997 DAL vs. POR L 21 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -5
+p726
+aVHubert Davis DAL 11/08/1997 DAL vs. POR L 37 20 8 15 53.3 3 4 75.0 1 2 50.0 1 1 2 0 3 0 0 3 -1
+p727
+aVKhalid Reeves DAL 11/08/1997 DAL vs. POR L 30 10 3 6 50.0 2 4 50.0 2 3 66.7 1 3 4 4 1 1 1 4 5
+p728
+aVErick Strickland DAL 11/08/1997 DAL vs. POR L 3 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 2
+p729
+aVKevin Ollie DAL 11/08/1997 DAL vs. POR L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 6 0 0 2 2 -14
+p730
+aVShawn Bradley DAL 11/08/1997 DAL vs. POR L 44 26 10 19 52.6 1 1 100.0 5 9 55.6 3 9 12 4 1 7 0 3 -2
+p731
+aVMichael Finley DAL 11/08/1997 DAL vs. POR L 37 21 7 20 35.0 2 5 40.0 5 8 62.5 3 6 9 4 2 0 1 1 -8
+p732
+aVMichael Finley DAL 11/05/1997 DAL @ CHH L 42 20 7 11 63.6 1 2 50.0 5 5 100.0 1 1 2 4 3 1 3 3 -4
+p733
+aVA.C. Green DAL 11/05/1997 DAL @ CHH L 39 8 3 10 30.0 0 0 - 2 2 100.0 5 7 12 3 0 0 0 2 5
+p734
+aVKurt Thomas DAL 11/05/1997 DAL @ CHH L 18 10 5 13 38.5 0 0 - 0 0 - 1 2 3 1 0 0 1 5 -3
+p735
+aVShawn Bradley DAL 11/05/1997 DAL @ CHH L 29 13 5 8 62.5 0 0 - 3 4 75.0 1 4 5 1 0 1 2 3 -4
+p736
+aVDennis Scott DAL 11/05/1997 DAL @ CHH L 24 9 3 8 37.5 0 1 0.0 3 3 100.0 0 1 1 3 0 0 1 4 -10
+p737
+aVHubert Davis DAL 11/05/1997 DAL @ CHH L 31 15 6 13 46.2 1 2 50.0 2 2 100.0 1 0 1 0 0 0 3 2 -2
+p738
+aVKevin Ollie DAL 11/05/1997 DAL @ CHH L 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -11
+p739
+aVSamaki Walker DAL 11/05/1997 DAL @ CHH L 9 4 1 1 100.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 -10
+p740
+aVKhalid Reeves DAL 11/05/1997 DAL @ CHH L 36 24 7 12 58.3 3 4 75.0 7 8 87.5 1 2 3 5 0 0 0 3 4
+p741
+aVKurt Thomas DAL 11/04/1997 DAL vs. VAN W 11 4 2 7 28.6 0 0 - 0 0 - 2 4 6 0 0 0 0 4 -2
+p742
+aVMichael Finley DAL 11/04/1997 DAL vs. VAN W 41 29 12 18 66.7 1 3 33.3 4 7 57.1 4 4 8 2 3 1 3 3 -1
+p743
+aVSamaki Walker DAL 11/04/1997 DAL vs. VAN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 3
+p744
+aVHubert Davis DAL 11/04/1997 DAL vs. VAN W 23 5 2 8 25.0 1 1 100.0 0 0 - 0 2 2 2 0 0 1 1 -1
+p745
+aVDennis Scott DAL 11/04/1997 DAL vs. VAN W 32 28 11 20 55.0 3 9 33.3 3 6 50.0 2 3 5 4 0 2 1 4 12
+p746
+aVKevin Ollie DAL 11/04/1997 DAL vs. VAN W 23 2 1 3 33.3 0 0 - 0 0 - 1 2 3 7 1 0 0 1 6
+p747
+aVA.C. Green DAL 11/04/1997 DAL vs. VAN W 41 4 1 8 12.5 0 0 - 2 2 100.0 5 8 13 0 0 0 1 1 2
+p748
+aVShawn Bradley DAL 11/04/1997 DAL vs. VAN W 37 11 5 12 41.7 0 0 - 1 1 100.0 1 11 12 0 0 6 0 3 7
+p749
+aVKhalid Reeves DAL 11/04/1997 DAL vs. VAN W 25 9 3 11 27.3 0 2 0.0 3 4 75.0 1 3 4 7 1 0 3 4 -1
+p750
+aVHubert Davis DAL 11/01/1997 DAL @ SEA W 35 12 4 10 40.0 0 4 0.0 4 4 100.0 0 1 1 4 0 0 2 1 10
+p751
+aVDennis Scott DAL 11/01/1997 DAL @ SEA W 16 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 3 0
+p752
+aVBubba Wells DAL 11/01/1997 DAL @ SEA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p753
+aVKevin Ollie DAL 11/01/1997 DAL @ SEA W 24 9 4 7 57.1 0 0 - 1 2 50.0 1 2 3 5 0 0 0 4 8
+p754
+aVShawn Bradley DAL 11/01/1997 DAL @ SEA W 39 17 7 14 50.0 0 0 - 3 3 100.0 4 10 14 1 0 4 5 5 -5
+p755
+aVSamaki Walker DAL 11/01/1997 DAL @ SEA W 13 2 1 4 25.0 0 0 - 0 2 0.0 3 4 7 0 0 0 3 2 10
+p756
+aVA.C. Green DAL 11/01/1997 DAL @ SEA W 38 11 5 9 55.6 0 0 - 1 2 50.0 3 9 12 1 2 0 1 2 8
+p757
+aVMichael Finley DAL 11/01/1997 DAL @ SEA W 45 20 5 13 38.5 0 1 0.0 10 14 71.4 6 4 10 3 1 1 2 1 8
+p758
+aVKhalid Reeves DAL 11/01/1997 DAL @ SEA W 30 16 5 12 41.7 0 3 0.0 6 6 100.0 0 1 1 3 3 0 2 2 1
+p759
+aVKhalid Reeves DAL 10/31/1997 DAL @ VAN W 23 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 4 2 0 3 4 -7
+p760
+aVKevin Ollie DAL 10/31/1997 DAL @ VAN W 27 11 3 5 60.0 0 0 - 5 6 83.3 0 4 4 3 1 0 2 2 7
+p761
+aVSamaki Walker DAL 10/31/1997 DAL @ VAN W 8 4 0 1 0.0 0 0 - 4 4 100.0 1 3 4 0 0 0 0 3 -3
+p762
+aVAdrian Caldwell DAL 10/31/1997 DAL @ VAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p763
+aVHubert Davis DAL 10/31/1997 DAL @ VAN W 38 18 8 13 61.5 1 3 33.3 1 2 50.0 1 0 1 2 0 0 2 1 -5
+p764
+aVShawn Bradley DAL 10/31/1997 DAL @ VAN W 45 17 7 19 36.8 0 0 - 3 4 75.0 2 3 5 2 0 8 2 3 2
+p765
+aVA.C. Green DAL 10/31/1997 DAL @ VAN W 40 15 6 11 54.5 0 0 - 3 6 50.0 3 11 14 1 0 0 0 1 5
+p766
+aVMichael Finley DAL 10/31/1997 DAL @ VAN W 28 16 5 9 55.6 0 0 - 6 6 100.0 2 3 5 5 1 0 2 3 13
+p767
+aVDennis Scott DAL 10/31/1997 DAL @ VAN W 29 7 2 11 18.2 0 7 0.0 3 4 75.0 0 2 2 1 1 0 5 4 -2
+p768
+a.

@@ -1,0 +1,1586 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJeff McInnis LAC 04/19/2000 LAC @ SEA W 45 13 6 17 35.3 0 0 - 1 2 50.0 0 6 6 7 1 0 1 2 9
+p2
+aVLamar Odom LAC 04/19/2000 LAC @ SEA W 39 33 9 19 47.4 1 1 100.0 14 15 93.3 6 8 14 7 1 4 5 4 14
+p3
+aVPete Chilcutt LAC 04/19/2000 LAC @ SEA W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p4
+aVCharles R. Jones LAC 04/19/2000 LAC @ SEA W 9 3 1 4 25.0 1 2 50.0 0 0 - 3 0 3 2 0 0 0 0 -6
+p5
+aVTyrone Nesby LAC 04/19/2000 LAC @ SEA W 45 23 8 21 38.1 4 8 50.0 3 3 100.0 6 3 9 4 1 0 3 0 8
+p6
+aVMichael Olowokandi LAC 04/19/2000 LAC @ SEA W 41 15 7 19 36.8 0 0 - 1 2 50.0 3 9 12 1 0 1 1 2 5
+p7
+aVEric Piatkowski LAC 04/19/2000 LAC @ SEA W 40 27 10 13 76.9 6 8 75.0 1 2 50.0 1 1 2 4 1 0 0 5 14
+p8
+aVAnthony Avent LAC 04/19/2000 LAC @ SEA W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 3
+p9
+aVEtdrick Bohannon LAC 04/19/2000 LAC @ SEA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -1
+p10
+aVLamar Odom LAC 04/18/2000 LAC vs. POR L 26 15 6 11 54.5 0 2 0.0 3 4 75.0 2 1 3 3 2 0 3 2 -5
+p11
+aVEtdrick Bohannon LAC 04/18/2000 LAC vs. POR L 8 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 1 1 1 4
+p12
+aVKeith Closs LAC 04/18/2000 LAC vs. POR L 32 14 5 12 41.7 0 1 0.0 4 6 66.7 1 3 4 2 1 0 2 1 -4
+p13
+aVCharles R. Jones LAC 04/18/2000 LAC vs. POR L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 4 3 0 0 1 4
+p14
+aVTyrone Nesby LAC 04/18/2000 LAC vs. POR L 40 20 8 18 44.4 1 2 50.0 3 4 75.0 1 1 2 2 2 0 0 2 -18
+p15
+aVEric Piatkowski LAC 04/18/2000 LAC vs. POR L 22 9 3 8 37.5 3 5 60.0 0 0 - 0 0 0 1 1 0 0 3 -11
+p16
+aVMichael Olowokandi LAC 04/18/2000 LAC vs. POR L 43 10 4 13 30.8 0 0 - 2 4 50.0 6 8 14 2 3 0 3 3 -16
+p17
+aVDerek Anderson LAC 04/18/2000 LAC vs. POR L 31 20 9 17 52.9 2 4 50.0 0 0 - 0 1 1 3 2 0 1 1 -21
+p18
+aVJeff McInnis LAC 04/18/2000 LAC vs. POR L 29 10 5 9 55.6 0 1 0.0 0 0 - 1 1 2 4 0 0 0 1 -13
+p19
+aVKeith Closs LAC 04/15/2000 LAC vs. DEN L 44 12 6 11 54.5 0 0 - 0 1 0.0 4 5 9 0 0 0 3 5 -1
+p20
+aVEtdrick Bohannon LAC 04/15/2000 LAC vs. DEN L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p21
+aVDerek Anderson LAC 04/15/2000 LAC vs. DEN L 31 31 10 20 50.0 2 5 40.0 9 11 81.8 1 1 2 3 2 0 2 6 4
+p22
+aVJeff McInnis LAC 04/15/2000 LAC vs. DEN L 33 12 5 7 71.4 0 0 - 2 2 100.0 2 3 5 4 2 0 2 5 8
+p23
+aVMichael Olowokandi LAC 04/15/2000 LAC vs. DEN L 37 8 4 10 40.0 0 0 - 0 0 - 1 6 7 1 1 1 2 6 -1
+p24
+aVEric Piatkowski LAC 04/15/2000 LAC vs. DEN L 24 13 3 10 30.0 1 4 25.0 6 6 100.0 0 1 1 0 1 0 1 0 -5
+p25
+aVTyrone Nesby LAC 04/15/2000 LAC vs. DEN L 48 25 7 19 36.8 1 5 20.0 10 12 83.3 1 7 8 3 4 0 1 0 -6
+p26
+aVLamar Odom LAC 04/15/2000 LAC vs. DEN L 41 13 5 15 33.3 0 1 0.0 3 4 75.0 3 10 13 5 2 0 5 4 -2
+p27
+aVTyrone Nesby LAC 04/14/2000 LAC @ PHX L 34 21 6 16 37.5 3 6 50.0 6 6 100.0 1 2 3 1 0 0 1 0 -15
+p28
+aVEric Piatkowski LAC 04/14/2000 LAC @ PHX L 29 9 3 8 37.5 1 4 25.0 2 2 100.0 0 2 2 2 1 0 0 5 -8
+p29
+aVLamar Odom LAC 04/14/2000 LAC @ PHX L 36 14 3 11 27.3 0 2 0.0 8 10 80.0 1 4 5 4 1 0 3 1 -11
+p30
+aVEtdrick Bohannon LAC 04/14/2000 LAC @ PHX L 16 7 1 3 33.3 0 0 - 5 8 62.5 2 1 3 1 0 0 0 4 -16
+p31
+aVKeith Closs LAC 04/14/2000 LAC @ PHX L 22 7 3 7 42.9 0 0 - 1 4 25.0 2 2 4 1 1 3 1 4 -11
+p32
+aVCharles R. Jones LAC 04/14/2000 LAC @ PHX L 18 3 1 5 20.0 0 3 0.0 1 2 50.0 1 1 2 2 1 0 1 0 -11
+p33
+aVAnthony Avent LAC 04/14/2000 LAC @ PHX L 20 4 2 4 50.0 0 0 - 0 0 - 3 4 7 3 0 0 2 3 -11
+p34
+aVMichael Olowokandi LAC 04/14/2000 LAC @ PHX L 37 15 5 15 33.3 0 0 - 5 6 83.3 1 11 12 2 3 4 5 4 -13
+p35
+aVJeff McInnis LAC 04/14/2000 LAC @ PHX L 18 5 2 8 25.0 1 3 33.3 0 0 - 0 2 2 2 0 0 2 1 -16
+p36
+aVPete Chilcutt LAC 04/14/2000 LAC @ PHX L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p37
+aVJeff McInnis LAC 04/12/2000 LAC @ UTA L 14 2 0 5 0.0 0 0 - 2 2 100.0 0 3 3 2 0 0 2 3 -8
+p38
+aVMichael Olowokandi LAC 04/12/2000 LAC @ UTA L 31 8 4 8 50.0 0 0 - 0 2 0.0 2 3 5 0 1 3 2 0 -3
+p39
+aVAnthony Avent LAC 04/12/2000 LAC @ UTA L 19 9 3 4 75.0 0 0 - 3 3 100.0 0 3 3 0 0 0 0 1 -9
+p40
+aVPete Chilcutt LAC 04/12/2000 LAC @ UTA L 16 3 1 3 33.3 1 3 33.3 0 0 - 1 2 3 2 1 0 1 6 11
+p41
+aVEtdrick Bohannon LAC 04/12/2000 LAC @ UTA L 13 3 1 2 50.0 0 0 - 1 4 25.0 4 2 6 1 0 1 0 4 -11
+p42
+aVCharles R. Jones LAC 04/12/2000 LAC @ UTA L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p43
+aVKeith Closs LAC 04/12/2000 LAC @ UTA L 17 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 3 2 2 -6
+p44
+aVEric Piatkowski LAC 04/12/2000 LAC @ UTA L 45 35 11 19 57.9 6 8 75.0 7 8 87.5 1 0 1 3 2 0 1 4 -4
+p45
+aVTyrone Nesby LAC 04/12/2000 LAC @ UTA L 41 23 8 19 42.1 3 7 42.9 4 4 100.0 1 5 6 1 2 0 5 5 -7
+p46
+aVLamar Odom LAC 04/12/2000 LAC @ UTA L 37 8 4 12 33.3 0 2 0.0 0 0 - 3 4 7 8 2 1 6 6 -6
+p47
+aVMichael Olowokandi LAC 04/11/2000 LAC vs. PHX L 45 4 2 5 40.0 0 0 - 0 0 - 2 5 7 2 1 2 5 5 -5
+p48
+aVPete Chilcutt LAC 04/11/2000 LAC vs. PHX L 5 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -3
+p49
+aVDerek Anderson LAC 04/11/2000 LAC vs. PHX L 33 25 9 18 50.0 0 2 0.0 7 7 100.0 1 3 4 5 2 0 2 2 3
+p50
+aVAnthony Avent LAC 04/11/2000 LAC vs. PHX L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 0 -4
+p51
+aVEtdrick Bohannon LAC 04/11/2000 LAC vs. PHX L 11 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 2
+p52
+aVTyrone Nesby LAC 04/11/2000 LAC vs. PHX L 42 11 4 16 25.0 1 5 20.0 2 2 100.0 2 3 5 1 0 0 3 3 -3
+p53
+aVLamar Odom LAC 04/11/2000 LAC vs. PHX L 43 26 11 19 57.9 4 4 100.0 0 0 - 2 13 15 6 1 2 3 4 4
+p54
+aVKeith Closs LAC 04/11/2000 LAC vs. PHX L 4 2 0 1 0.0 0 0 - 2 4 50.0 1 0 1 0 0 0 0 0 -5
+p55
+aVEric Piatkowski LAC 04/11/2000 LAC vs. PHX L 16 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 1 0 2 3 -20
+p56
+aVMaurice Taylor LAC 04/11/2000 LAC vs. PHX L 29 8 4 12 33.3 0 0 - 0 0 - 0 1 1 0 1 0 1 3 2
+p57
+aVJeff McInnis LAC 04/11/2000 LAC vs. PHX L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 3 1 0 1 2 -6
+p58
+aVPete Chilcutt LAC 04/08/2000 LAC @ DAL L 11 3 1 2 50.0 1 1 100.0 0 0 - 2 3 5 1 0 0 1 1 3
+p59
+aVKeith Closs LAC 04/08/2000 LAC @ DAL L 15 3 1 5 20.0 0 0 - 1 2 50.0 3 2 5 1 1 2 1 2 5
+p60
+aVJeff McInnis LAC 04/08/2000 LAC @ DAL L 41 12 5 13 38.5 2 3 66.7 0 0 - 2 2 4 7 0 0 2 3 -8
+p61
+aVEric Piatkowski LAC 04/08/2000 LAC @ DAL L 23 9 3 6 50.0 1 2 50.0 2 2 100.0 4 4 8 0 0 0 1 0 5
+p62
+aVEtdrick Bohannon LAC 04/08/2000 LAC @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p63
+aVMaurice Taylor LAC 04/08/2000 LAC @ DAL L 45 24 10 20 50.0 0 0 - 4 4 100.0 5 10 15 4 0 0 5 2 -7
+p64
+aVMichael Olowokandi LAC 04/08/2000 LAC @ DAL L 21 2 1 5 20.0 0 0 - 0 0 - 1 6 7 1 0 1 1 3 -14
+p65
+aVCharles R. Jones LAC 04/08/2000 LAC @ DAL L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 1 0 0 2 8
+p66
+aVTyrone Nesby LAC 04/08/2000 LAC @ DAL L 43 29 11 22 50.0 5 9 55.6 2 4 50.0 2 3 5 3 1 1 3 5 5
+p67
+aVLamar Odom LAC 04/08/2000 LAC @ DAL L 25 12 4 8 50.0 0 1 0.0 4 4 100.0 1 4 5 4 0 1 6 6 -7
+p68
+aVEtdrick Bohannon LAC 04/06/2000 LAC vs. MIN L 21 5 1 2 50.0 0 0 - 3 4 75.0 1 3 4 0 0 1 2 5 -3
+p69
+aVLamar Odom LAC 04/06/2000 LAC vs. MIN L 26 11 2 7 28.6 1 2 50.0 6 8 75.0 2 5 7 2 2 0 4 0 -12
+p70
+aVTyrone Nesby LAC 04/06/2000 LAC vs. MIN L 28 7 2 9 22.2 1 3 33.3 2 2 100.0 1 1 2 0 0 0 1 2 -19
+p71
+aVDerek Anderson LAC 04/06/2000 LAC vs. MIN L 18 9 2 6 33.3 1 2 50.0 4 4 100.0 0 1 1 1 1 0 0 0 -8
+p72
+aVJeff McInnis LAC 04/06/2000 LAC vs. MIN L 25 8 4 6 66.7 0 0 - 0 0 - 0 2 2 4 0 0 0 2 -19
+p73
+aVMichael Olowokandi LAC 04/06/2000 LAC vs. MIN L 26 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 3 1 -28
+p74
+aVEric Piatkowski LAC 04/06/2000 LAC vs. MIN L 20 13 5 11 45.5 2 4 50.0 1 2 50.0 0 0 0 2 0 0 0 5 -14
+p75
+aVCharles R. Jones LAC 04/06/2000 LAC vs. MIN L 19 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 3 1 0 1 2 3
+p76
+aVKeith Closs LAC 04/06/2000 LAC vs. MIN L 29 5 2 3 66.7 0 0 - 1 2 50.0 1 7 8 2 1 3 0 1 2
+p77
+aVMaurice Taylor LAC 04/06/2000 LAC vs. MIN L 28 23 8 13 61.5 0 0 - 7 10 70.0 3 3 6 0 1 0 2 3 -12
+p78
+aVTyrone Nesby LAC 04/04/2000 LAC vs. UTA L 32 12 5 12 41.7 1 3 33.3 1 1 100.0 1 0 1 1 0 0 1 3 -20
+p79
+aVJeff McInnis LAC 04/04/2000 LAC vs. UTA L 32 9 4 8 50.0 0 0 - 1 2 50.0 0 4 4 6 1 0 1 5 -2
+p80
+aVEtdrick Bohannon LAC 04/04/2000 LAC vs. UTA L 6 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 0 3 9
+p81
+aVKeith Closs LAC 04/04/2000 LAC vs. UTA L 16 4 2 6 33.3 0 0 - 0 0 - 2 1 3 1 0 3 2 2 6
+p82
+aVEric Piatkowski LAC 04/04/2000 LAC vs. UTA L 6 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 2
+p83
+aVMichael Olowokandi LAC 04/04/2000 LAC vs. UTA L 34 16 7 13 53.8 0 0 - 2 2 100.0 3 3 6 0 0 4 1 5 -18
+p84
+aVMaurice Taylor LAC 04/04/2000 LAC vs. UTA L 38 16 7 14 50.0 0 0 - 2 2 100.0 2 7 9 0 1 1 2 4 -19
+p85
+aVDerek Anderson LAC 04/04/2000 LAC vs. UTA L 36 20 8 19 42.1 1 2 50.0 3 3 100.0 2 4 6 3 0 0 3 3 -20
+p86
+aVLamar Odom LAC 04/04/2000 LAC vs. UTA L 33 11 4 7 57.1 1 2 50.0 2 2 100.0 1 3 4 5 2 3 3 5 11
+p87
+aVCharles R. Jones LAC 04/04/2000 LAC vs. UTA L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 1
+p88
+aVKeith Closs LAC 03/30/2000 LAC vs. MIL L 19 2 1 4 25.0 0 0 - 0 0 - 1 5 6 2 0 0 2 0 2
+p89
+aVTyrone Nesby LAC 03/30/2000 LAC vs. MIL L 43 17 5 14 35.7 3 7 42.9 4 6 66.7 0 3 3 6 0 0 2 2 -24
+p90
+aVEtdrick Bohannon LAC 03/30/2000 LAC vs. MIL L 11 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 2 3 0 -1
+p91
+aVMichael Olowokandi LAC 03/30/2000 LAC vs. MIL L 32 13 6 17 35.3 0 0 - 1 4 25.0 1 9 10 0 0 1 1 5 -15
+p92
+aVPete Chilcutt LAC 03/30/2000 LAC vs. MIL L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -13
+p93
+aVDerek Anderson LAC 03/30/2000 LAC vs. MIL L 37 16 4 12 33.3 1 2 50.0 7 7 100.0 0 3 3 6 0 0 2 2 -21
+p94
+aVCharles R. Jones LAC 03/30/2000 LAC vs. MIL L 15 3 1 5 20.0 1 2 50.0 0 0 - 1 1 2 1 2 0 0 0 0
+p95
+aVJeff McInnis LAC 03/30/2000 LAC vs. MIL L 40 20 9 14 64.3 1 1 100.0 1 1 100.0 2 4 6 7 1 0 2 4 -16
+p96
+aVEric Piatkowski LAC 03/30/2000 LAC vs. MIL L 27 10 4 9 44.4 0 3 0.0 2 2 100.0 0 3 3 1 2 1 1 2 -7
+p97
+aVPete Chilcutt LAC 03/28/2000 LAC vs. DAL L 9 0 0 2 0.0 0 0 - 0 0 - 1 3 4 2 1 1 1 1 -2
+p98
+aVMichael Olowokandi LAC 03/28/2000 LAC vs. DAL L 46 27 10 19 52.6 0 0 - 7 7 100.0 3 5 8 0 1 1 3 5 -11
+p99
+aVCharles R. Jones LAC 03/28/2000 LAC vs. DAL L 19 0 0 6 0.0 0 3 0.0 0 0 - 0 3 3 2 2 0 0 1 -6
+p100
+aVJeff McInnis LAC 03/28/2000 LAC vs. DAL L 48 14 7 14 50.0 0 1 0.0 0 0 - 4 0 4 9 1 0 4 3 -10
+p101
+aVDerek Anderson LAC 03/28/2000 LAC vs. DAL L 44 19 9 17 52.9 0 2 0.0 1 1 100.0 1 4 5 3 1 1 2 2 -10
+p102
+aVEtdrick Bohannon LAC 03/28/2000 LAC vs. DAL L 11 3 0 0 - 0 0 - 3 4 75.0 1 4 5 1 0 1 1 1 -4
+p103
+aVTyrone Nesby LAC 03/28/2000 LAC vs. DAL L 11 8 4 6 66.7 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -7
+p104
+aVKeith Closs LAC 03/28/2000 LAC vs. DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p105
+aVAnthony Avent LAC 03/28/2000 LAC vs. DAL L 8 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 9
+p106
+aVEric Piatkowski LAC 03/28/2000 LAC vs. DAL L 40 28 11 16 68.8 5 6 83.3 1 1 100.0 1 3 4 2 1 0 0 2 -6
+p107
+aVPete Chilcutt LAC 03/25/2000 LAC vs. DET L 21 2 1 2 50.0 0 0 - 0 0 - 0 3 3 4 1 0 0 2 -5
+p108
+aVAnthony Avent LAC 03/25/2000 LAC vs. DET L 8 4 0 0 - 0 0 - 4 4 100.0 0 2 2 0 0 0 1 2 2
+p109
+aVTroy Hudson LAC 03/25/2000 LAC vs. DET L 11 8 2 5 40.0 0 1 0.0 4 5 80.0 0 0 0 0 0 0 1 1 2
+p110
+aVMichael Olowokandi LAC 03/25/2000 LAC vs. DET L 40 21 9 14 64.3 0 0 - 3 3 100.0 1 2 3 1 1 1 3 3 -18
+p111
+aVTyrone Nesby LAC 03/25/2000 LAC vs. DET L 36 22 9 23 39.1 4 11 36.4 0 1 0.0 1 3 4 0 0 1 1 2 -19
+p112
+aVEric Piatkowski LAC 03/25/2000 LAC vs. DET L 32 20 7 11 63.6 4 6 66.7 2 4 50.0 1 2 3 2 1 0 2 3 -12
+p113
+aVCharles R. Jones LAC 03/25/2000 LAC vs. DET L 33 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 7 1 1 0 2 -12
+p114
+aVDerek Anderson LAC 03/25/2000 LAC vs. DET L 27 11 4 12 33.3 0 1 0.0 3 3 100.0 2 2 4 4 1 0 1 5 -21
+p115
+aVJeff McInnis LAC 03/25/2000 LAC vs. DET L 32 12 5 10 50.0 0 2 0.0 2 3 66.7 0 0 0 8 4 0 0 4 -12
+p116
+aVPete Chilcutt LAC 03/23/2000 LAC @ HOU L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p117
+aVKeith Closs LAC 03/23/2000 LAC @ HOU L 32 10 4 9 44.4 0 0 - 2 3 66.7 3 8 11 0 1 1 1 1 -8
+p118
+aVTroy Hudson LAC 03/23/2000 LAC @ HOU L 5 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 1
+p119
+aVTyrone Nesby LAC 03/23/2000 LAC @ HOU L 32 15 6 18 33.3 1 5 20.0 2 2 100.0 2 5 7 6 0 1 1 4 3
+p120
+aVDerek Anderson LAC 03/23/2000 LAC @ HOU L 38 20 8 14 57.1 0 2 0.0 4 6 66.7 1 4 5 1 2 0 2 1 -5
+p121
+aVEric Piatkowski LAC 03/23/2000 LAC @ HOU L 36 15 4 9 44.4 1 4 25.0 6 7 85.7 0 3 3 2 2 2 1 1 -18
+p122
+aVMichael Olowokandi LAC 03/23/2000 LAC @ HOU L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -5
+p123
+aVJeff McInnis LAC 03/23/2000 LAC @ HOU L 24 2 1 6 16.7 0 1 0.0 0 0 - 1 3 4 7 0 0 4 2 -12
+p124
+aVAnthony Avent LAC 03/23/2000 LAC @ HOU L 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -3
+p125
+aVLamar Odom LAC 03/23/2000 LAC @ HOU L 41 28 13 21 61.9 0 2 0.0 2 3 66.7 1 5 6 2 0 0 7 3 -20
+p126
+aVCharles R. Jones LAC 03/22/2000 LAC @ SAS L 10 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 3 0 0 0 0 -8
+p127
+aVPete Chilcutt LAC 03/22/2000 LAC @ SAS L 22 0 0 3 0.0 0 1 0.0 0 0 - 1 8 9 0 0 1 1 2 -20
+p128
+aVTyrone Nesby LAC 03/22/2000 LAC @ SAS L 35 11 4 12 33.3 0 3 0.0 3 4 75.0 1 4 5 5 0 1 1 2 -18
+p129
+aVLamar Odom LAC 03/22/2000 LAC @ SAS L 35 14 5 13 38.5 0 1 0.0 4 6 66.7 2 3 5 5 1 1 2 3 -13
+p130
+aVJeff McInnis LAC 03/22/2000 LAC @ SAS L 8 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p131
+aVMichael Olowokandi LAC 03/22/2000 LAC @ SAS L 35 16 8 14 57.1 0 0 - 0 0 - 2 4 6 0 0 1 2 4 -20
+p132
+aVEric Piatkowski LAC 03/22/2000 LAC @ SAS L 19 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 2 -15
+p133
+aVKeith Closs LAC 03/22/2000 LAC @ SAS L 39 14 6 8 75.0 0 0 - 2 4 50.0 3 5 8 0 1 3 3 4 -8
+p134
+aVDerek Anderson LAC 03/22/2000 LAC @ SAS L 32 17 5 13 38.5 1 2 50.0 6 7 85.7 2 1 3 6 1 0 1 2 -8
+p135
+aVTroy Hudson LAC 03/22/2000 LAC @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p136
+aVAnthony Avent LAC 03/22/2000 LAC @ SAS L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p137
+aVEric Piatkowski LAC 03/20/2000 LAC vs. WAS L 33 10 4 13 30.8 0 5 0.0 2 2 100.0 1 2 3 2 0 1 0 2 -15
+p138
+aVMaurice Taylor LAC 03/20/2000 LAC vs. WAS L 31 15 6 10 60.0 0 0 - 3 6 50.0 3 8 11 2 0 2 6 4 -11
+p139
+aVMichael Olowokandi LAC 03/20/2000 LAC vs. WAS L 28 6 3 7 42.9 0 0 - 0 2 0.0 1 4 5 0 0 1 1 4 -5
+p140
+aVKeith Closs LAC 03/20/2000 LAC vs. WAS L 23 5 1 7 14.3 0 1 0.0 3 4 75.0 2 3 5 1 1 1 2 1 -4
+p141
+aVTyrone Nesby LAC 03/20/2000 LAC vs. WAS L 40 20 6 17 35.3 4 8 50.0 4 4 100.0 1 7 8 4 2 2 1 1 -4
+p142
+aVJeff McInnis LAC 03/20/2000 LAC vs. WAS L 21 4 2 7 28.6 0 0 - 0 0 - 1 4 5 1 0 0 0 3 -5
+p143
+aVPete Chilcutt LAC 03/20/2000 LAC vs. WAS L 17 7 1 1 100.0 1 1 100.0 4 4 100.0 2 2 4 1 1 0 1 2 -6
+p144
+aVDerek Anderson LAC 03/20/2000 LAC vs. WAS L 34 18 6 13 46.2 0 2 0.0 6 6 100.0 3 2 5 4 4 0 3 3 -13
+p145
+aVCharles R. Jones LAC 03/20/2000 LAC vs. WAS L 12 8 3 4 75.0 2 3 66.7 0 2 0.0 0 0 0 1 0 1 1 2 3
+p146
+aVMichael Olowokandi LAC 03/18/2000 LAC vs. SAC L 37 9 3 8 37.5 0 0 - 3 4 75.0 1 7 8 1 0 3 4 6 -5
+p147
+aVEric Piatkowski LAC 03/18/2000 LAC vs. SAC L 42 9 4 12 33.3 1 4 25.0 0 0 - 4 9 13 3 2 1 1 5 -7
+p148
+aVDerek Anderson LAC 03/18/2000 LAC vs. SAC L 46 25 10 20 50.0 1 4 25.0 4 5 80.0 3 2 5 5 2 0 5 2 -13
+p149
+aVJeff McInnis LAC 03/18/2000 LAC vs. SAC L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p150
+aVLamar Odom LAC 03/18/2000 LAC vs. SAC L 33 18 7 13 53.8 1 1 100.0 3 6 50.0 1 8 9 2 2 0 6 6 5
+p151
+aVTyrone Nesby LAC 03/18/2000 LAC vs. SAC L 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p152
+aVPete Chilcutt LAC 03/18/2000 LAC vs. SAC L 13 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -3
+p153
+aVKeith Closs LAC 03/18/2000 LAC vs. SAC L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 4 -20
+p154
+aVCharles R. Jones LAC 03/18/2000 LAC vs. SAC L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -20
+p155
+aVMaurice Taylor LAC 03/18/2000 LAC vs. SAC L 42 11 5 13 38.5 0 0 - 1 2 50.0 1 8 9 3 1 0 6 3 -19
+p156
+aVDerek Anderson LAC 03/17/2000 LAC @ DEN L 34 11 4 16 25.0 0 4 0.0 3 4 75.0 1 2 3 3 2 0 3 1 -24
+p157
+aVAnthony Avent LAC 03/17/2000 LAC @ DEN L 12 4 2 7 28.6 0 0 - 0 0 - 2 1 3 1 0 1 1 3 -14
+p158
+aVCharles R. Jones LAC 03/17/2000 LAC @ DEN L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 1 1 0 0 0 -6
+p159
+aVPete Chilcutt LAC 03/17/2000 LAC @ DEN L 13 0 0 3 0.0 0 1 0.0 0 0 - 2 3 5 0 0 0 3 0 -16
+p160
+aVTroy Hudson LAC 03/17/2000 LAC @ DEN L 4 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p161
+aVLamar Odom LAC 03/17/2000 LAC @ DEN L 24 10 4 8 50.0 0 0 - 2 2 100.0 1 3 4 2 1 1 3 4 -16
+p162
+aVMichael Olowokandi LAC 03/17/2000 LAC @ DEN L 30 10 5 14 35.7 0 0 - 0 0 - 3 6 9 1 0 1 1 4 0
+p163
+aVMaurice Taylor LAC 03/17/2000 LAC @ DEN L 29 21 9 17 52.9 0 0 - 3 3 100.0 2 3 5 5 0 2 1 4 -17
+p164
+aVKeith Closs LAC 03/17/2000 LAC @ DEN L 15 6 2 6 33.3 0 0 - 2 2 100.0 3 4 7 2 0 2 0 1 -4
+p165
+aVJeff McInnis LAC 03/17/2000 LAC @ DEN L 33 8 4 13 30.8 0 1 0.0 0 0 - 2 4 6 7 1 0 0 3 -14
+p166
+aVEric Piatkowski LAC 03/17/2000 LAC @ DEN L 26 8 3 11 27.3 2 5 40.0 0 0 - 1 5 6 2 1 0 4 4 -17
+p167
+aVPete Chilcutt LAC 03/15/2000 LAC @ SAC L 26 6 2 2 100.0 0 0 - 2 2 100.0 3 3 6 1 3 1 1 2 -27
+p168
+aVAnthony Avent LAC 03/15/2000 LAC @ SAC L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 -8
+p169
+aVJeff McInnis LAC 03/15/2000 LAC @ SAC L 21 7 3 9 33.3 1 3 33.3 0 0 - 0 4 4 0 1 1 4 1 -6
+p170
+aVEric Piatkowski LAC 03/15/2000 LAC @ SAC L 31 2 1 7 14.3 0 2 0.0 0 0 - 2 3 5 1 0 0 2 2 -22
+p171
+aVDerek Anderson LAC 03/15/2000 LAC @ SAC L 35 6 3 11 27.3 0 4 0.0 0 0 - 1 1 2 3 4 0 6 4 -18
+p172
+aVMichael Olowokandi LAC 03/15/2000 LAC @ SAC L 28 16 8 17 47.1 0 0 - 0 0 - 5 9 14 0 0 4 3 5 1
+p173
+aVCharles R. Jones LAC 03/15/2000 LAC @ SAC L 15 8 2 9 22.2 2 6 33.3 2 2 100.0 3 0 3 2 0 0 2 2 -6
+p174
+aVLamar Odom LAC 03/15/2000 LAC @ SAC L 42 21 7 12 58.3 0 2 0.0 7 7 100.0 2 8 10 10 0 0 2 4 -8
+p175
+aVMaurice Taylor LAC 03/15/2000 LAC @ SAC L 36 11 5 19 26.3 0 0 - 1 4 25.0 4 4 8 0 2 1 2 1 -6
+p176
+aVMichael Olowokandi LAC 03/14/2000 LAC vs. DEN W 31 12 6 9 66.7 0 0 - 0 0 - 1 2 3 0 3 1 4 3 -16
+p177
+aVJeff McInnis LAC 03/14/2000 LAC vs. DEN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 6
+p178
+aVPete Chilcutt LAC 03/14/2000 LAC vs. DEN W 16 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 2
+p179
+aVLamar Odom LAC 03/14/2000 LAC vs. DEN W 45 25 8 15 53.3 3 5 60.0 6 8 75.0 0 4 4 9 1 0 2 4 4
+p180
+aVDerek Anderson LAC 03/14/2000 LAC vs. DEN W 34 20 6 11 54.5 3 3 100.0 5 7 71.4 1 3 4 4 0 0 5 1 1
+p181
+aVEric Piatkowski LAC 03/14/2000 LAC vs. DEN W 38 31 11 15 73.3 3 5 60.0 6 6 100.0 1 4 5 1 1 0 1 2 6
+p182
+aVTyrone Nesby LAC 03/14/2000 LAC vs. DEN W 28 8 4 10 40.0 0 3 0.0 0 0 - 1 2 3 3 0 0 1 3 9
+p183
+aVMaurice Taylor LAC 03/14/2000 LAC vs. DEN W 41 14 5 14 35.7 0 0 - 4 4 100.0 2 3 5 3 1 1 2 5 9
+p184
+aVAnthony Avent LAC 03/14/2000 LAC vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -1
+p185
+aVAnthony Avent LAC 03/12/2000 LAC @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p186
+aVMaurice Taylor LAC 03/12/2000 LAC @ GSW W 38 19 9 15 60.0 0 0 - 1 4 25.0 1 3 4 5 0 2 1 4 4
+p187
+aVCharles R. Jones LAC 03/12/2000 LAC @ GSW W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 1 0 1 1 1
+p188
+aVEric Piatkowski LAC 03/12/2000 LAC @ GSW W 26 20 8 14 57.1 2 7 28.6 2 2 100.0 1 2 3 3 0 0 2 1 10
+p189
+aVPete Chilcutt LAC 03/12/2000 LAC @ GSW W 19 6 3 3 100.0 0 0 - 0 0 - 2 3 5 1 0 0 0 0 12
+p190
+aVTyrone Nesby LAC 03/12/2000 LAC @ GSW W 34 17 8 17 47.1 1 4 25.0 0 0 - 1 1 2 2 0 2 1 4 7
+p191
+aVJeff McInnis LAC 03/12/2000 LAC @ GSW W 36 12 6 13 46.2 0 0 - 0 0 - 3 3 6 4 1 0 0 3 9
+p192
+aVMichael Olowokandi LAC 03/12/2000 LAC @ GSW W 32 7 2 7 28.6 0 0 - 3 6 50.0 5 7 12 0 1 2 3 2 -7
+p193
+aVLamar Odom LAC 03/12/2000 LAC @ GSW W 45 29 10 19 52.6 2 6 33.3 7 10 70.0 6 8 14 7 0 1 1 3 9
+p194
+aVAnthony Avent LAC 03/10/2000 LAC vs. CHH L 23 6 3 7 42.9 0 0 - 0 0 - 1 4 5 1 0 1 1 4 -7
+p195
+aVTroy Hudson LAC 03/10/2000 LAC vs. CHH L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 0 1 2 -11
+p196
+aVMichael Olowokandi LAC 03/10/2000 LAC vs. CHH L 22 9 3 7 42.9 0 0 - 3 4 75.0 1 4 5 0 0 2 4 4 -13
+p197
+aVTyrone Nesby LAC 03/10/2000 LAC vs. CHH L 35 20 8 17 47.1 2 6 33.3 2 2 100.0 3 4 7 1 0 0 1 2 -14
+p198
+aVEric Piatkowski LAC 03/10/2000 LAC vs. CHH L 15 11 5 8 62.5 1 4 25.0 0 0 - 0 2 2 0 0 0 0 2 -8
+p199
+aVMario Bennett LAC 03/10/2000 LAC vs. CHH L 3 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p200
+aVCharles R. Jones LAC 03/10/2000 LAC vs. CHH L 6 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p201
+aVDerek Anderson LAC 03/10/2000 LAC vs. CHH L 34 24 8 16 50.0 2 3 66.7 6 6 100.0 0 1 1 8 2 0 2 5 -5
+p202
+aVJeff McInnis LAC 03/10/2000 LAC vs. CHH L 16 11 5 5 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -2
+p203
+aVPete Chilcutt LAC 03/10/2000 LAC vs. CHH L 39 8 4 6 66.7 0 0 - 0 0 - 2 6 8 1 0 0 0 4 -13
+p204
+aVLamar Odom LAC 03/10/2000 LAC vs. CHH L 36 10 3 10 30.0 1 2 50.0 3 6 50.0 2 8 10 11 1 1 2 3 -10
+p205
+aVDerek Anderson LAC 03/08/2000 LAC vs. TOR L 44 21 5 14 35.7 2 6 33.3 9 9 100.0 3 2 5 6 4 0 3 2 -3
+p206
+aVMichael Olowokandi LAC 03/08/2000 LAC vs. TOR L 37 10 5 12 41.7 0 0 - 0 0 - 4 10 14 0 1 1 1 3 -15
+p207
+aVEric Piatkowski LAC 03/08/2000 LAC vs. TOR L 12 4 1 2 50.0 0 1 0.0 2 2 100.0 1 0 1 0 2 0 0 2 7
+p208
+aVLamar Odom LAC 03/08/2000 LAC vs. TOR L 45 16 5 9 55.6 0 2 0.0 6 6 100.0 0 11 11 8 1 0 8 2 3
+p209
+aVJeff McInnis LAC 03/08/2000 LAC vs. TOR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p210
+aVMaurice Taylor LAC 03/08/2000 LAC vs. TOR L 43 20 8 14 57.1 0 0 - 4 4 100.0 2 3 5 4 1 0 4 5 0
+p211
+aVPete Chilcutt LAC 03/08/2000 LAC vs. TOR L 16 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 16
+p212
+aVAnthony Avent LAC 03/08/2000 LAC vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p213
+aVTyrone Nesby LAC 03/08/2000 LAC vs. TOR L 39 21 8 21 38.1 2 8 25.0 3 4 75.0 0 1 1 1 2 0 2 3 -9
+p214
+aVDerek Anderson LAC 03/06/2000 LAC vs. LAL L 26 21 6 11 54.5 0 2 0.0 9 11 81.8 2 0 2 2 1 0 1 1 -9
+p215
+aVPete Chilcutt LAC 03/06/2000 LAC vs. LAL L 19 13 6 9 66.7 1 3 33.3 0 0 - 2 2 4 1 0 0 0 6 -6
+p216
+aVLamar Odom LAC 03/06/2000 LAC vs. LAL L 27 17 6 18 33.3 2 5 40.0 3 4 75.0 3 8 11 4 0 0 5 5 -1
+p217
+aVTyrone Nesby LAC 03/06/2000 LAC vs. LAL L 35 11 4 9 44.4 1 2 50.0 2 4 50.0 2 0 2 1 0 1 1 3 -13
+p218
+aVMichael Olowokandi LAC 03/06/2000 LAC vs. LAL L 14 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 1 0 0 0 5 0
+p219
+aVEric Piatkowski LAC 03/06/2000 LAC vs. LAL L 33 4 1 9 11.1 0 2 0.0 2 2 100.0 1 3 4 2 2 1 0 2 -15
+p220
+aVAnthony Avent LAC 03/06/2000 LAC vs. LAL L 16 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 1 1 2 0 4 -17
+p221
+aVMaurice Taylor LAC 03/06/2000 LAC vs. LAL L 46 25 12 22 54.5 0 0 - 1 4 25.0 5 5 10 0 3 1 1 5 -17
+p222
+aVCharles R. Jones LAC 03/06/2000 LAC vs. LAL L 11 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -10
+p223
+aVJeff McInnis LAC 03/06/2000 LAC vs. LAL L 15 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 0 -12
+p224
+aVKeith Closs LAC 03/04/2000 LAC vs. CLE L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 1 1 2 -2
+p225
+aVTyrone Nesby LAC 03/04/2000 LAC vs. CLE L 36 14 4 12 33.3 1 3 33.3 5 7 71.4 1 1 2 2 2 1 1 2 1
+p226
+aVCharles R. Jones LAC 03/04/2000 LAC vs. CLE L 12 8 3 6 50.0 1 4 25.0 1 2 50.0 1 2 3 1 0 0 3 4 -6
+p227
+aVEric Piatkowski LAC 03/04/2000 LAC vs. CLE L 20 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 0 -19
+p228
+aVAnthony Avent LAC 03/04/2000 LAC vs. CLE L 16 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 2 1 1 4 -14
+p229
+aVMaurice Taylor LAC 03/04/2000 LAC vs. CLE L 27 13 6 12 50.0 0 0 - 1 1 100.0 3 5 8 2 0 0 1 4 -10
+p230
+aVPete Chilcutt LAC 03/04/2000 LAC vs. CLE L 13 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 0
+p231
+aVMichael Olowokandi LAC 03/04/2000 LAC vs. CLE L 25 13 5 9 55.6 0 0 - 3 4 75.0 5 7 12 1 0 2 4 5 6
+p232
+aVLamar Odom LAC 03/04/2000 LAC vs. CLE L 19 17 5 8 62.5 2 3 66.7 5 6 83.3 1 1 2 2 1 1 4 6 -1
+p233
+aVJeff McInnis LAC 03/04/2000 LAC vs. CLE L 31 9 4 7 57.1 0 2 0.0 1 1 100.0 0 3 3 3 1 1 0 5 -1
+p234
+aVDerek Anderson LAC 03/04/2000 LAC vs. CLE L 34 12 2 12 16.7 0 1 0.0 8 9 88.9 0 1 1 3 3 0 1 4 -4
+p235
+aVCharles R. Jones LAC 02/28/2000 LAC vs. HOU L 25 6 2 7 28.6 2 4 50.0 0 0 - 2 2 4 3 0 1 1 1 -3
+p236
+aVJeff McInnis LAC 02/28/2000 LAC vs. HOU L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p237
+aVAnthony Avent LAC 02/28/2000 LAC vs. HOU L 14 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 1 -1
+p238
+aVTroy Hudson LAC 02/28/2000 LAC vs. HOU L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 0 -7
+p239
+aVKeith Closs LAC 02/28/2000 LAC vs. HOU L 21 4 2 8 25.0 0 0 - 0 0 - 5 2 7 1 1 3 1 1 -1
+p240
+aVEric Piatkowski LAC 02/28/2000 LAC vs. HOU L 18 2 1 7 14.3 0 3 0.0 0 0 - 4 0 4 1 1 0 2 0 -15
+p241
+aVMaurice Taylor LAC 02/28/2000 LAC vs. HOU L 30 12 4 17 23.5 0 0 - 4 6 66.7 1 2 3 1 1 0 3 2 -21
+p242
+aVPete Chilcutt LAC 02/28/2000 LAC vs. HOU L 3 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -3
+p243
+aVDerek Anderson LAC 02/28/2000 LAC vs. HOU L 30 12 3 13 23.1 0 2 0.0 6 6 100.0 5 7 12 2 4 0 2 3 -8
+p244
+aVLamar Odom LAC 02/28/2000 LAC vs. HOU L 28 20 6 14 42.9 2 2 100.0 6 6 100.0 4 7 11 2 1 2 2 5 -11
+p245
+aVTyrone Nesby LAC 02/28/2000 LAC vs. HOU L 33 12 5 16 31.3 0 3 0.0 2 2 100.0 0 3 3 1 2 2 1 2 -10
+p246
+aVMichael Olowokandi LAC 02/28/2000 LAC vs. HOU L 23 4 1 6 16.7 0 0 - 2 2 100.0 1 3 4 0 0 0 1 4 -13
+p247
+aVTroy Hudson LAC 02/26/2000 LAC vs. ATL W 10 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 4
+p248
+aVMaurice Taylor LAC 02/26/2000 LAC vs. ATL W 41 10 5 16 31.3 0 0 - 0 0 - 1 3 4 2 1 1 1 1 -5
+p249
+aVMichael Olowokandi LAC 02/26/2000 LAC vs. ATL W 39 6 3 11 27.3 0 0 - 0 0 - 4 6 10 0 0 3 5 2 -9
+p250
+aVEric Piatkowski LAC 02/26/2000 LAC vs. ATL W 16 8 3 5 60.0 2 2 100.0 0 0 - 1 4 5 0 0 0 0 2 5
+p251
+aVLamar Odom LAC 02/26/2000 LAC vs. ATL W 38 10 4 16 25.0 1 2 50.0 1 3 33.3 2 10 12 7 3 1 3 2 -3
+p252
+aVDerek Anderson LAC 02/26/2000 LAC vs. ATL W 44 21 7 16 43.8 0 0 - 7 9 77.8 1 2 3 4 1 0 3 2 0
+p253
+aVAnthony Avent LAC 02/26/2000 LAC vs. ATL W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 10
+p254
+aVTyrone Nesby LAC 02/26/2000 LAC vs. ATL W 36 14 6 13 46.2 1 1 100.0 1 1 100.0 2 5 7 3 4 0 1 3 -3
+p255
+aVKeith Closs LAC 02/26/2000 LAC vs. ATL W 7 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 1 3 0 0 6
+p256
+aVTroy Hudson LAC 02/24/2000 LAC @ MIN L 24 10 3 7 42.9 2 3 66.7 2 2 100.0 2 1 3 3 0 0 2 1 -11
+p257
+aVLamar Odom LAC 02/24/2000 LAC @ MIN L 23 11 2 9 22.2 0 1 0.0 7 8 87.5 0 2 2 1 0 0 2 3 -14
+p258
+aVBrian Skinner LAC 02/24/2000 LAC @ MIN L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -9
+p259
+aVEric Piatkowski LAC 02/24/2000 LAC @ MIN L 18 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -12
+p260
+aVAnthony Avent LAC 02/24/2000 LAC @ MIN L 12 2 1 2 50.0 0 0 - 0 2 0.0 2 5 7 0 0 0 2 1 -1
+p261
+aVKeith Closs LAC 02/24/2000 LAC @ MIN L 30 8 4 4 100.0 0 0 - 0 0 - 0 4 4 1 0 3 0 1 -20
+p262
+aVDerek Anderson LAC 02/24/2000 LAC @ MIN L 32 13 4 12 33.3 3 3 100.0 2 2 100.0 0 4 4 5 1 0 4 1 -18
+p263
+aVCharles R. Jones LAC 02/24/2000 LAC @ MIN L 18 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 6 0 1 0 1 -12
+p264
+aVMaurice Taylor LAC 02/24/2000 LAC @ MIN L 41 22 11 17 64.7 0 0 - 0 0 - 0 4 4 1 2 1 1 2 -15
+p265
+aVTyrone Nesby LAC 02/24/2000 LAC @ MIN L 31 19 6 11 54.5 1 3 33.3 6 6 100.0 0 1 1 2 1 0 2 4 -13
+p266
+aVCharles R. Jones LAC 02/23/2000 LAC @ PHI L 11 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p267
+aVTroy Hudson LAC 02/23/2000 LAC @ PHI L 29 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 4 1 0 1 2 -5
+p268
+aVBrian Skinner LAC 02/23/2000 LAC @ PHI L 8 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 0
+p269
+aVEric Piatkowski LAC 02/23/2000 LAC @ PHI L 15 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 1 1 0 1 1 -12
+p270
+aVTyrone Nesby LAC 02/23/2000 LAC @ PHI L 24 2 1 7 14.3 0 1 0.0 0 0 - 2 3 5 3 0 0 3 2 -11
+p271
+aVAnthony Avent LAC 02/23/2000 LAC @ PHI L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p272
+aVLamar Odom LAC 02/23/2000 LAC @ PHI L 42 20 8 15 53.3 0 1 0.0 4 8 50.0 2 7 9 2 4 2 2 3 -13
+p273
+aVDerek Anderson LAC 02/23/2000 LAC @ PHI L 32 19 7 13 53.8 1 1 100.0 4 4 100.0 0 3 3 3 1 0 5 1 -8
+p274
+aVMaurice Taylor LAC 02/23/2000 LAC @ PHI L 41 18 8 19 42.1 0 1 0.0 2 2 100.0 1 3 4 2 1 0 4 2 -14
+p275
+aVKeith Closs LAC 02/23/2000 LAC @ PHI L 13 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 2 1 2 -8
+p276
+aVMichael Olowokandi LAC 02/23/2000 LAC @ PHI L 23 4 2 4 50.0 0 0 - 0 0 - 1 6 7 0 0 0 0 5 -8
+p277
+aVMaurice Taylor LAC 02/21/2000 LAC @ NYK L 38 14 7 15 46.7 0 0 - 0 2 0.0 1 6 7 1 0 0 3 3 -14
+p278
+aVEric Piatkowski LAC 02/21/2000 LAC @ NYK L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p279
+aVMichael Olowokandi LAC 02/21/2000 LAC @ NYK L 33 12 4 9 44.4 0 0 - 4 5 80.0 1 7 8 0 0 1 5 3 -3
+p280
+aVKeith Closs LAC 02/21/2000 LAC @ NYK L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p281
+aVLamar Odom LAC 02/21/2000 LAC @ NYK L 45 14 4 11 36.4 2 3 66.7 4 6 66.7 0 3 3 7 1 1 2 4 -13
+p282
+aVDerek Anderson LAC 02/21/2000 LAC @ NYK L 23 9 3 6 50.0 1 2 50.0 2 2 100.0 3 3 6 1 0 0 2 1 -5
+p283
+aVBrian Skinner LAC 02/21/2000 LAC @ NYK L 20 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 1 0 0 0 4 -4
+p284
+aVTyrone Nesby LAC 02/21/2000 LAC @ NYK L 36 10 3 12 25.0 3 7 42.9 1 1 100.0 1 2 3 2 1 1 3 5 -6
+p285
+aVTroy Hudson LAC 02/21/2000 LAC @ NYK L 26 10 4 7 57.1 2 3 66.7 0 0 - 1 2 3 5 0 0 4 1 1
+p286
+aVKeith Closs LAC 02/19/2000 LAC @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p287
+aVEric Piatkowski LAC 02/19/2000 LAC @ CHI L 14 2 1 5 20.0 0 3 0.0 0 0 - 3 1 4 0 2 0 2 3 0
+p288
+aVMichael Olowokandi LAC 02/19/2000 LAC @ CHI L 28 5 2 7 28.6 0 0 - 1 2 50.0 3 6 9 1 1 5 2 5 6
+p289
+aVCharles R. Jones LAC 02/19/2000 LAC @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p290
+aVBrian Skinner LAC 02/19/2000 LAC @ CHI L 27 4 2 4 50.0 0 0 - 0 0 - 4 8 12 0 0 1 2 4 -11
+p291
+aVMaurice Taylor LAC 02/19/2000 LAC @ CHI L 27 12 5 12 41.7 0 0 - 2 2 100.0 2 5 7 2 0 0 4 4 4
+p292
+aVTyrone Nesby LAC 02/19/2000 LAC @ CHI L 36 7 3 12 25.0 1 6 16.7 0 0 - 0 4 4 2 3 0 1 6 -2
+p293
+aVLamar Odom LAC 02/19/2000 LAC @ CHI L 46 19 8 14 57.1 1 3 33.3 2 3 66.7 0 8 8 3 2 1 5 5 -2
+p294
+aVTroy Hudson LAC 02/19/2000 LAC @ CHI L 47 22 9 22 40.9 3 8 37.5 1 2 50.0 1 5 6 8 0 0 0 2 0
+p295
+aVAnthony Avent LAC 02/19/2000 LAC @ CHI L 10 1 0 2 0.0 0 0 - 1 4 25.0 2 3 5 0 0 1 0 2 -3
+p296
+aVEric Piatkowski LAC 02/18/2000 LAC @ CHH L 21 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 -13
+p297
+aVTroy Hudson LAC 02/18/2000 LAC @ CHH L 36 12 4 15 26.7 1 6 16.7 3 4 75.0 1 1 2 5 0 0 1 0 -19
+p298
+aVKeith Closs LAC 02/18/2000 LAC @ CHH L 9 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 1 0 0 -8
+p299
+aVBrian Skinner LAC 02/18/2000 LAC @ CHH L 19 5 2 3 66.7 0 0 - 1 2 50.0 1 5 6 0 0 0 2 2 1
+p300
+aVMichael Olowokandi LAC 02/18/2000 LAC @ CHH L 34 14 6 14 42.9 0 0 - 2 2 100.0 2 1 3 0 0 2 1 4 -17
+p301
+aVCharles R. Jones LAC 02/18/2000 LAC @ CHH L 12 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 2 1 0 1 3 -9
+p302
+aVTyrone Nesby LAC 02/18/2000 LAC @ CHH L 36 8 3 11 27.3 0 2 0.0 2 3 66.7 2 1 3 5 1 0 0 5 -23
+p303
+aVMaurice Taylor LAC 02/18/2000 LAC @ CHH L 34 22 9 20 45.0 0 0 - 4 4 100.0 1 3 4 0 2 0 0 1 -32
+p304
+aVLamar Odom LAC 02/18/2000 LAC @ CHH L 39 16 6 9 66.7 1 1 100.0 3 6 50.0 2 8 10 6 0 0 2 3 -20
+p305
+aVDerek Anderson LAC 02/16/2000 LAC @ ORL L 9 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 1 1 1 1 -5
+p306
+aVBrian Skinner LAC 02/16/2000 LAC @ ORL L 16 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -12
+p307
+aVAnthony Avent LAC 02/16/2000 LAC @ ORL L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p308
+aVEric Murdock LAC 02/16/2000 LAC @ ORL L 25 4 1 5 20.0 0 0 - 2 4 50.0 1 2 3 1 3 0 1 2 -22
+p309
+aVKeith Closs LAC 02/16/2000 LAC @ ORL L 11 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 0 3 0 0 -2
+p310
+aVMichael Olowokandi LAC 02/16/2000 LAC @ ORL L 34 10 5 13 38.5 0 0 - 0 0 - 6 9 15 0 2 3 0 1 -31
+p311
+aVMaurice Taylor LAC 02/16/2000 LAC @ ORL L 31 19 8 16 50.0 0 0 - 3 3 100.0 0 3 3 2 2 0 1 0 -18
+p312
+aVTyrone Nesby LAC 02/16/2000 LAC @ ORL L 31 13 5 15 33.3 1 5 20.0 2 3 66.7 4 3 7 3 0 2 2 1 -23
+p313
+aVTroy Hudson LAC 02/16/2000 LAC @ ORL L 22 10 4 8 50.0 2 4 50.0 0 0 - 1 1 2 4 0 0 5 3 -12
+p314
+aVEric Piatkowski LAC 02/16/2000 LAC @ ORL L 28 13 5 12 41.7 0 3 0.0 3 3 100.0 1 2 3 2 0 0 0 2 -8
+p315
+aVLamar Odom LAC 02/16/2000 LAC @ ORL L 23 12 5 12 41.7 0 0 - 2 4 50.0 2 4 6 2 1 1 2 6 -28
+p316
+aVCharles R. Jones LAC 02/16/2000 LAC @ ORL L 8 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 2 0 0 0 2 -4
+p317
+aVEric Murdock LAC 02/15/2000 LAC @ MIA L 30 15 4 8 50.0 0 0 - 7 11 63.6 1 4 5 5 4 0 2 1 -6
+p318
+aVKeith Closs LAC 02/15/2000 LAC @ MIA L 19 8 4 5 80.0 0 0 - 0 0 - 2 2 4 0 0 1 1 2 -13
+p319
+aVMaurice Taylor LAC 02/15/2000 LAC @ MIA L 24 12 6 15 40.0 0 0 - 0 0 - 1 5 6 0 1 0 1 4 -10
+p320
+aVMichael Olowokandi LAC 02/15/2000 LAC @ MIA L 28 12 4 11 36.4 0 0 - 4 4 100.0 4 5 9 0 0 4 2 5 -5
+p321
+aVDerek Anderson LAC 02/15/2000 LAC @ MIA L 38 8 3 16 18.8 0 2 0.0 2 2 100.0 2 2 4 1 3 0 3 1 -8
+p322
+aVAnthony Avent LAC 02/15/2000 LAC @ MIA L 7 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 1 0 0 1 5
+p323
+aVBrian Skinner LAC 02/15/2000 LAC @ MIA L 17 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 3 -15
+p324
+aVTroy Hudson LAC 02/15/2000 LAC @ MIA L 23 7 3 11 27.3 1 5 20.0 0 0 - 0 0 0 4 0 0 3 0 -16
+p325
+aVEric Piatkowski LAC 02/15/2000 LAC @ MIA L 38 15 5 13 38.5 2 5 40.0 3 5 60.0 1 0 1 1 0 0 1 2 -17
+p326
+aVCharles R. Jones LAC 02/15/2000 LAC @ MIA L 16 6 2 3 66.7 1 1 100.0 1 2 50.0 0 1 1 1 1 0 0 3 -10
+p327
+aVAnthony Avent LAC 02/10/2000 LAC vs. VAN L 18 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 0 4 6 3
+p328
+aVKeith Closs LAC 02/10/2000 LAC vs. VAN L 22 0 0 5 0.0 0 0 - 0 0 - 2 2 4 1 0 2 0 3 -21
+p329
+aVTroy Hudson LAC 02/10/2000 LAC vs. VAN L 39 12 5 14 35.7 1 3 33.3 1 2 50.0 1 1 2 5 0 0 3 2 -18
+p330
+aVLamar Odom LAC 02/10/2000 LAC vs. VAN L 35 7 3 10 30.0 0 1 0.0 1 1 100.0 1 6 7 7 0 4 3 4 -10
+p331
+aVMichael Olowokandi LAC 02/10/2000 LAC vs. VAN L 29 14 5 7 71.4 0 0 - 4 4 100.0 1 5 6 1 0 2 4 4 -14
+p332
+aVCharles R. Jones LAC 02/10/2000 LAC vs. VAN L 21 13 3 6 50.0 2 3 66.7 5 5 100.0 0 0 0 4 4 0 0 2 -12
+p333
+aVDerek Anderson LAC 02/10/2000 LAC vs. VAN L 45 29 14 23 60.9 1 5 20.0 0 0 - 2 3 5 0 1 0 3 3 -19
+p334
+aVEric Piatkowski LAC 02/10/2000 LAC vs. VAN L 31 11 4 13 30.8 1 1 100.0 2 2 100.0 4 2 6 1 1 0 3 1 -19
+p335
+aVEric Piatkowski LAC 02/09/2000 LAC @ POR L 20 11 5 11 45.5 1 3 33.3 0 0 - 2 2 4 3 0 0 1 4 -11
+p336
+aVBrian Skinner LAC 02/09/2000 LAC @ POR L 11 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p337
+aVLamar Odom LAC 02/09/2000 LAC @ POR L 45 16 6 14 42.9 2 3 66.7 2 2 100.0 3 4 7 6 1 0 1 3 -8
+p338
+aVCharles R. Jones LAC 02/09/2000 LAC @ POR L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -3
+p339
+aVMichael Olowokandi LAC 02/09/2000 LAC @ POR L 27 10 4 8 50.0 0 0 - 2 2 100.0 2 3 5 0 0 3 2 6 -9
+p340
+aVMaurice Taylor LAC 02/09/2000 LAC @ POR L 40 23 11 19 57.9 0 0 - 1 2 50.0 1 4 5 1 4 0 4 2 4
+p341
+aVKeith Closs LAC 02/09/2000 LAC @ POR L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 2
+p342
+aVDerek Anderson LAC 02/09/2000 LAC @ POR L 40 14 7 14 50.0 0 2 0.0 0 0 - 2 3 5 5 3 0 1 6 -4
+p343
+aVTroy Hudson LAC 02/09/2000 LAC @ POR L 39 22 7 15 46.7 6 11 54.5 2 2 100.0 0 1 1 4 1 0 1 1 1
+p344
+aVTroy Hudson LAC 02/06/2000 LAC vs. CHI L 29 19 7 17 41.2 2 7 28.6 3 4 75.0 1 1 2 8 2 0 2 3 -7
+p345
+aVMaurice Taylor LAC 02/06/2000 LAC vs. CHI L 41 23 11 19 57.9 0 1 0.0 1 3 33.3 2 3 5 0 4 1 1 2 -7
+p346
+aVMichael Olowokandi LAC 02/06/2000 LAC vs. CHI L 33 12 6 11 54.5 0 0 - 0 1 0.0 3 5 8 0 0 1 0 3 -5
+p347
+aVEric Piatkowski LAC 02/06/2000 LAC vs. CHI L 12 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 3 -9
+p348
+aVKeith Closs LAC 02/06/2000 LAC vs. CHI L 8 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 1 0 0 -4
+p349
+aVCharles R. Jones LAC 02/06/2000 LAC vs. CHI L 15 2 1 6 16.7 0 5 0.0 0 0 - 0 0 0 1 0 0 2 1 -6
+p350
+aVDerek Anderson LAC 02/06/2000 LAC vs. CHI L 35 12 3 9 33.3 0 4 0.0 6 6 100.0 1 1 2 3 4 1 4 3 -5
+p351
+aVLamar Odom LAC 02/06/2000 LAC vs. CHI L 26 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 1 0 3 4 4
+p352
+aVBrian Skinner LAC 02/06/2000 LAC vs. CHI L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -5
+p353
+aVEric Murdock LAC 02/06/2000 LAC vs. CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p354
+aVAnthony Avent LAC 02/06/2000 LAC vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 0 2
+p355
+aVTyrone Nesby LAC 02/06/2000 LAC vs. CHI L 28 10 4 6 66.7 0 1 0.0 2 2 100.0 0 0 0 2 0 0 2 3 -11
+p356
+aVMaurice Taylor LAC 02/05/2000 LAC vs. DAL L 26 17 8 16 50.0 0 0 - 1 2 50.0 4 2 6 2 1 0 3 6 -11
+p357
+aVDerek Anderson LAC 02/05/2000 LAC vs. DAL L 28 7 2 11 18.2 0 4 0.0 3 3 100.0 3 4 7 2 2 0 4 1 -4
+p358
+aVMichael Olowokandi LAC 02/05/2000 LAC vs. DAL L 28 10 5 8 62.5 0 0 - 0 0 - 3 8 11 0 1 2 3 1 -6
+p359
+aVTyrone Nesby LAC 02/05/2000 LAC vs. DAL L 17 8 3 9 33.3 0 2 0.0 2 2 100.0 0 1 1 2 1 0 0 0 -6
+p360
+aVAnthony Avent LAC 02/05/2000 LAC vs. DAL L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -4
+p361
+aVEric Murdock LAC 02/05/2000 LAC vs. DAL L 27 10 3 8 37.5 2 5 40.0 2 2 100.0 2 5 7 3 1 0 1 3 -9
+p362
+aVEric Piatkowski LAC 02/05/2000 LAC vs. DAL L 22 9 4 5 80.0 0 1 0.0 1 1 100.0 0 2 2 2 0 0 1 2 -8
+p363
+aVKeith Closs LAC 02/05/2000 LAC vs. DAL L 14 12 4 5 80.0 0 0 - 4 7 57.1 3 4 7 0 0 0 0 1 -2
+p364
+aVCharles R. Jones LAC 02/05/2000 LAC vs. DAL L 14 11 4 4 100.0 3 3 100.0 0 0 - 0 3 3 2 0 0 1 1 -5
+p365
+aVLamar Odom LAC 02/05/2000 LAC vs. DAL L 24 14 5 12 41.7 0 0 - 4 11 36.4 2 2 4 2 3 0 3 4 -14
+p366
+aVTroy Hudson LAC 02/05/2000 LAC vs. DAL L 21 4 2 8 25.0 0 3 0.0 0 0 - 0 0 0 6 0 0 1 0 -4
+p367
+aVBrian Skinner LAC 02/05/2000 LAC vs. DAL L 13 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 0 0 1 0 4 8
+p368
+aVMichael Olowokandi LAC 02/02/2000 LAC @ PHX L 31 6 3 14 21.4 0 0 - 0 0 - 5 4 9 1 0 2 1 3 -31
+p369
+aVEric Murdock LAC 02/02/2000 LAC @ PHX L 20 9 2 7 28.6 1 2 50.0 4 6 66.7 1 2 3 4 1 0 2 3 -21
+p370
+aVTroy Hudson LAC 02/02/2000 LAC @ PHX L 17 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 4 2 0 1 0 -16
+p371
+aVDerek Anderson LAC 02/02/2000 LAC @ PHX L 32 9 2 6 33.3 1 2 50.0 4 4 100.0 0 2 2 3 1 0 2 2 -34
+p372
+aVMaurice Taylor LAC 02/02/2000 LAC @ PHX L 29 6 3 13 23.1 0 0 - 0 0 - 1 8 9 0 0 0 4 1 -32
+p373
+aVAnthony Avent LAC 02/02/2000 LAC @ PHX L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 2 0 -6
+p374
+aVTyrone Nesby LAC 02/02/2000 LAC @ PHX L 43 17 7 19 36.8 1 4 25.0 2 3 66.7 1 3 4 4 1 0 4 3 -42
+p375
+aVEric Piatkowski LAC 02/02/2000 LAC @ PHX L 26 10 3 6 50.0 2 3 66.7 2 2 100.0 0 1 1 0 0 0 2 2 -20
+p376
+aVKeith Closs LAC 02/02/2000 LAC @ PHX L 14 2 0 3 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 2 1 -12
+p377
+aVCharles R. Jones LAC 02/02/2000 LAC @ PHX L 23 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 2 1 0 1 2 -16
+p378
+aVBrian Skinner LAC 02/01/2000 LAC vs. GSW L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p379
+aVMaurice Taylor LAC 02/01/2000 LAC vs. GSW L 34 16 8 18 44.4 0 0 - 0 0 - 2 2 4 2 0 2 1 2 -20
+p380
+aVKeith Closs LAC 02/01/2000 LAC vs. GSW L 12 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -9
+p381
+aVTroy Hudson LAC 02/01/2000 LAC vs. GSW L 13 4 1 4 25.0 1 3 33.3 1 1 100.0 0 4 4 2 0 0 1 0 -8
+p382
+aVTyrone Nesby LAC 02/01/2000 LAC vs. GSW L 36 20 7 13 53.8 2 4 50.0 4 4 100.0 0 2 2 2 2 0 3 3 -24
+p383
+aVEric Piatkowski LAC 02/01/2000 LAC vs. GSW L 18 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 0 0 0 1 0 -17
+p384
+aVCharles R. Jones LAC 02/01/2000 LAC vs. GSW L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -10
+p385
+aVMichael Olowokandi LAC 02/01/2000 LAC vs. GSW L 31 4 2 6 33.3 0 0 - 0 0 - 2 8 10 0 0 1 3 0 -19
+p386
+aVLamar Odom LAC 02/01/2000 LAC vs. GSW L 17 2 1 6 16.7 0 1 0.0 0 0 - 1 4 5 0 0 2 2 3 -9
+p387
+aVEric Murdock LAC 02/01/2000 LAC vs. GSW L 30 8 3 12 25.0 0 3 0.0 2 2 100.0 2 2 4 2 2 0 2 1 -13
+p388
+aVDerek Anderson LAC 02/01/2000 LAC vs. GSW L 36 14 4 14 28.6 1 3 33.3 5 7 71.4 2 3 5 1 1 0 1 0 -21
+p389
+aVEric Piatkowski LAC 01/29/2000 LAC vs. NJN W 9 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 0 0 1 1 -3
+p390
+aVMaurice Taylor LAC 01/29/2000 LAC vs. NJN W 43 23 8 16 50.0 0 0 - 7 8 87.5 1 7 8 0 0 2 6 3 6
+p391
+aVMichael Olowokandi LAC 01/29/2000 LAC vs. NJN W 31 6 3 8 37.5 0 0 - 0 0 - 3 10 13 0 0 4 2 5 4
+p392
+aVTyrone Nesby LAC 01/29/2000 LAC vs. NJN W 17 8 4 7 57.1 0 0 - 0 0 - 0 0 0 0 3 0 1 1 1
+p393
+aVKeith Closs LAC 01/29/2000 LAC vs. NJN W 14 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 1 0 4 -5
+p394
+aVEric Murdock LAC 01/29/2000 LAC vs. NJN W 45 16 7 11 63.6 1 1 100.0 1 2 50.0 0 7 7 10 2 0 5 4 7
+p395
+aVDerek Anderson LAC 01/29/2000 LAC vs. NJN W 40 18 6 12 50.0 1 1 100.0 5 5 100.0 0 4 4 6 2 0 3 0 10
+p396
+aVTroy Hudson LAC 01/29/2000 LAC vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p397
+aVLamar Odom LAC 01/29/2000 LAC vs. NJN W 39 21 10 19 52.6 0 1 0.0 1 2 50.0 5 5 10 3 2 0 3 0 7
+p398
+aVMaurice Taylor LAC 01/27/2000 LAC @ DAL L 32 15 6 11 54.5 0 0 - 3 4 75.0 0 4 4 1 0 2 4 5 -13
+p399
+aVMichael Olowokandi LAC 01/27/2000 LAC @ DAL L 39 4 2 10 20.0 0 0 - 0 0 - 3 11 14 0 1 3 1 3 -3
+p400
+aVTroy Hudson LAC 01/27/2000 LAC @ DAL L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -1
+p401
+aVTyrone Nesby LAC 01/27/2000 LAC @ DAL L 28 8 4 11 36.4 0 1 0.0 0 0 - 1 2 3 1 2 0 1 2 -6
+p402
+aVEric Murdock LAC 01/27/2000 LAC @ DAL L 25 2 1 7 14.3 0 1 0.0 0 0 - 0 3 3 5 1 0 3 1 -5
+p403
+aVPete Chilcutt LAC 01/27/2000 LAC @ DAL L 12 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 0 0 1 1 2 -1
+p404
+aVEric Piatkowski LAC 01/27/2000 LAC @ DAL L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 2 1 3
+p405
+aVKeith Closs LAC 01/27/2000 LAC @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p406
+aVLamar Odom LAC 01/27/2000 LAC @ DAL L 42 21 5 10 50.0 0 1 0.0 11 12 91.7 6 6 12 6 3 3 6 5 -7
+p407
+aVDerek Anderson LAC 01/27/2000 LAC @ DAL L 44 35 11 22 50.0 2 7 28.6 11 11 100.0 2 1 3 4 1 0 2 2 -6
+p408
+aVTyrone Nesby LAC 01/25/2000 LAC @ SAS L 21 7 3 8 37.5 1 4 25.0 0 0 - 0 1 1 0 0 0 0 4 -13
+p409
+aVEric Murdock LAC 01/25/2000 LAC @ SAS L 32 10 4 9 44.4 1 1 100.0 1 2 50.0 0 2 2 7 3 1 3 5 -1
+p410
+aVLamar Odom LAC 01/25/2000 LAC @ SAS L 33 16 8 14 57.1 0 0 - 0 0 - 2 8 10 3 0 1 4 5 -25
+p411
+aVMaurice Taylor LAC 01/25/2000 LAC @ SAS L 39 9 4 18 22.2 0 0 - 1 2 50.0 1 5 6 3 1 2 1 3 -10
+p412
+aVTroy Hudson LAC 01/25/2000 LAC @ SAS L 12 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 -13
+p413
+aVEric Piatkowski LAC 01/25/2000 LAC @ SAS L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 -23
+p414
+aVMichael Olowokandi LAC 01/25/2000 LAC @ SAS L 37 10 5 12 41.7 0 0 - 0 0 - 1 12 13 0 0 2 2 3 -15
+p415
+aVDerek Anderson LAC 01/25/2000 LAC @ SAS L 36 22 8 14 57.1 2 4 50.0 4 4 100.0 0 1 1 3 1 1 1 3 -9
+p416
+aVCharles R. Jones LAC 01/25/2000 LAC @ SAS L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p417
+aVKeith Closs LAC 01/25/2000 LAC @ SAS L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 3 1 3 -5
+p418
+aVDerek Anderson LAC 01/23/2000 LAC vs. ORL L 40 20 8 17 47.1 0 3 0.0 4 6 66.7 0 2 2 3 1 0 3 1 -10
+p419
+aVTyrone Nesby LAC 01/23/2000 LAC vs. ORL L 27 9 4 13 30.8 1 5 20.0 0 0 - 0 4 4 0 2 0 0 4 -2
+p420
+aVMaurice Taylor LAC 01/23/2000 LAC vs. ORL L 44 19 7 15 46.7 0 0 - 5 6 83.3 3 9 12 5 0 0 3 5 -11
+p421
+aVTroy Hudson LAC 01/23/2000 LAC vs. ORL L 28 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 6 0 0 0 1 -4
+p422
+aVEric Piatkowski LAC 01/23/2000 LAC vs. ORL L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 -3
+p423
+aVEric Murdock LAC 01/23/2000 LAC vs. ORL L 20 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 1 0 2 3 -9
+p424
+aVPete Chilcutt LAC 01/23/2000 LAC vs. ORL L 8 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 1 0 0 2 6
+p425
+aVMichael Olowokandi LAC 01/23/2000 LAC vs. ORL L 40 12 5 10 50.0 0 0 - 2 3 66.7 3 10 13 1 0 5 4 2 -19
+p426
+aVLamar Odom LAC 01/23/2000 LAC vs. ORL L 26 18 7 12 58.3 1 3 33.3 3 4 75.0 0 5 5 3 0 3 6 5 -13
+p427
+aVEric Murdock LAC 01/21/2000 LAC vs. MIN L 19 12 3 5 60.0 2 3 66.7 4 6 66.7 1 1 2 4 1 0 1 1 0
+p428
+aVTroy Hudson LAC 01/21/2000 LAC vs. MIN L 29 10 5 10 50.0 0 2 0.0 0 0 - 2 2 4 1 0 0 3 0 -6
+p429
+aVLamar Odom LAC 01/21/2000 LAC vs. MIN L 45 18 8 20 40.0 0 4 0.0 2 5 40.0 2 12 14 5 0 1 6 5 -3
+p430
+aVEric Piatkowski LAC 01/21/2000 LAC vs. MIN L 16 0 0 5 0.0 0 2 0.0 0 0 - 2 0 2 3 0 0 1 0 -2
+p431
+aVMichael Olowokandi LAC 01/21/2000 LAC vs. MIN L 21 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 6 -1
+p432
+aVDerek Anderson LAC 01/21/2000 LAC vs. MIN L 31 14 7 10 70.0 0 0 - 0 0 - 0 5 5 1 1 0 4 3 -7
+p433
+aVMaurice Taylor LAC 01/21/2000 LAC vs. MIN L 46 14 7 17 41.2 0 0 - 0 0 - 2 8 10 2 2 1 3 5 -7
+p434
+aVTyrone Nesby LAC 01/21/2000 LAC vs. MIN L 25 11 5 9 55.6 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -1
+p435
+aVPete Chilcutt LAC 01/21/2000 LAC vs. MIN L 9 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -3
+p436
+aVMaurice Taylor LAC 01/18/2000 LAC @ SAC L 43 22 11 23 47.8 0 0 - 0 0 - 1 4 5 0 0 0 2 2 -5
+p437
+aVDerek Anderson LAC 01/18/2000 LAC @ SAC L 21 11 3 5 60.0 1 2 50.0 4 4 100.0 0 2 2 2 1 0 3 3 -9
+p438
+aVEric Murdock LAC 01/18/2000 LAC @ SAC L 20 11 4 10 40.0 1 2 50.0 2 3 66.7 0 3 3 2 5 0 3 3 10
+p439
+aVLamar Odom LAC 01/18/2000 LAC @ SAC L 34 19 7 13 53.8 1 1 100.0 4 6 66.7 3 11 14 2 1 1 3 5 -7
+p440
+aVEric Piatkowski LAC 01/18/2000 LAC @ SAC L 29 7 2 7 28.6 1 2 50.0 2 2 100.0 3 6 9 1 1 0 0 4 2
+p441
+aVKeith Closs LAC 01/18/2000 LAC @ SAC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p442
+aVMichael Olowokandi LAC 01/18/2000 LAC @ SAC L 40 14 6 15 40.0 0 0 - 2 6 33.3 7 8 15 0 1 2 6 3 -10
+p443
+aVTroy Hudson LAC 01/18/2000 LAC @ SAC L 23 7 2 9 22.2 0 3 0.0 3 3 100.0 1 2 3 4 0 0 2 0 -14
+p444
+aVTyrone Nesby LAC 01/18/2000 LAC @ SAC L 24 7 3 8 37.5 0 3 0.0 1 1 100.0 1 1 2 2 1 0 0 2 4
+p445
+aVMichael Olowokandi LAC 01/17/2000 LAC vs. SAS L 22 5 2 8 25.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 3 -3
+p446
+aVTyrone Nesby LAC 01/17/2000 LAC vs. SAS L 23 0 0 7 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 2 -8
+p447
+aVTroy Hudson LAC 01/17/2000 LAC vs. SAS L 32 15 6 12 50.0 3 6 50.0 0 0 - 0 1 1 5 0 0 1 0 0
+p448
+aVKeith Closs LAC 01/17/2000 LAC vs. SAS L 25 13 6 7 85.7 0 0 - 1 2 50.0 3 4 7 0 0 3 0 2 -9
+p449
+aVLamar Odom LAC 01/17/2000 LAC vs. SAS L 39 8 3 15 20.0 0 5 0.0 2 2 100.0 2 3 5 5 3 2 2 4 -7
+p450
+aVEric Murdock LAC 01/17/2000 LAC vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p451
+aVMaurice Taylor LAC 01/17/2000 LAC vs. SAS L 40 22 10 18 55.6 0 1 0.0 2 2 100.0 1 11 12 2 2 0 5 5 5
+p452
+aVDerek Anderson LAC 01/17/2000 LAC vs. SAS L 39 17 7 11 63.6 1 3 33.3 2 5 40.0 0 3 3 3 1 0 6 2 -5
+p453
+aVEric Piatkowski LAC 01/17/2000 LAC vs. SAS L 16 13 4 7 57.1 2 3 66.7 3 3 100.0 1 4 5 0 0 0 0 3 3
+p454
+aVAnthony Avent LAC 01/15/2000 LAC @ UTA L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -8
+p455
+aVTroy Hudson LAC 01/15/2000 LAC @ UTA L 30 12 3 8 37.5 2 3 66.7 4 4 100.0 0 2 2 2 1 0 1 1 -7
+p456
+aVMichael Olowokandi LAC 01/15/2000 LAC @ UTA L 31 18 8 15 53.3 0 0 - 2 2 100.0 2 4 6 0 0 4 1 4 -12
+p457
+aVKeith Closs LAC 01/15/2000 LAC @ UTA L 14 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 1 -22
+p458
+aVDerek Anderson LAC 01/15/2000 LAC @ UTA L 30 18 9 14 64.3 0 0 - 0 0 - 0 3 3 8 0 2 2 3 -11
+p459
+aVEric Murdock LAC 01/15/2000 LAC @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p460
+aVEric Piatkowski LAC 01/15/2000 LAC @ UTA L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 1 0 1 0 2 -28
+p461
+aVTyrone Nesby LAC 01/15/2000 LAC @ UTA L 30 6 3 7 42.9 0 2 0.0 0 0 - 1 1 2 0 0 0 3 1 -25
+p462
+aVCharles R. Jones LAC 01/15/2000 LAC @ UTA L 13 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 1 1 0 2 0 -19
+p463
+aVLamar Odom LAC 01/15/2000 LAC @ UTA L 38 10 3 14 21.4 1 1 100.0 3 5 60.0 2 6 8 4 2 1 4 1 -19
+p464
+aVMaurice Taylor LAC 01/15/2000 LAC @ UTA L 26 8 4 12 33.3 0 0 - 0 0 - 1 3 4 2 0 0 0 5 -23
+p465
+aVMichael Olowokandi LAC 01/13/2000 LAC @ NJN L 45 16 8 17 47.1 0 0 - 0 0 - 2 8 10 4 0 4 3 4 -5
+p466
+aVCharles R. Jones LAC 01/13/2000 LAC @ NJN L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 4 0 0 1 1 3
+p467
+aVDerek Anderson LAC 01/13/2000 LAC @ NJN L 36 23 9 15 60.0 3 4 75.0 2 2 100.0 3 0 3 1 2 0 2 5 -8
+p468
+aVEric Piatkowski LAC 01/13/2000 LAC @ NJN L 20 8 3 6 50.0 1 3 33.3 1 2 50.0 1 2 3 0 0 0 0 0 -6
+p469
+aVTroy Hudson LAC 01/13/2000 LAC @ NJN L 29 11 5 10 50.0 1 3 33.3 0 0 - 1 3 4 4 1 0 1 1 1
+p470
+aVMaurice Taylor LAC 01/13/2000 LAC @ NJN L 44 18 7 14 50.0 1 1 100.0 3 4 75.0 0 3 3 3 0 2 2 3 -5
+p471
+aVLamar Odom LAC 01/13/2000 LAC @ NJN L 42 26 11 13 84.6 1 1 100.0 3 5 60.0 0 4 4 4 1 0 1 3 0
+p472
+aVEric Murdock LAC 01/13/2000 LAC @ NJN L 9 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 1 -5
+p473
+aVEric Piatkowski LAC 01/12/2000 LAC @ BOS L 22 5 2 6 33.3 1 3 33.3 0 0 - 2 1 3 1 0 0 0 2 -8
+p474
+aVMichael Olowokandi LAC 01/12/2000 LAC @ BOS L 44 8 4 9 44.4 0 0 - 0 0 - 4 11 15 1 1 4 1 4 0
+p475
+aVKeith Closs LAC 01/12/2000 LAC @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -7
+p476
+aVLamar Odom LAC 01/12/2000 LAC @ BOS L 42 26 10 21 47.6 4 7 57.1 2 2 100.0 2 7 9 2 0 2 2 5 -1
+p477
+aVTroy Hudson LAC 01/12/2000 LAC @ BOS L 27 0 0 4 0.0 0 0 - 0 0 - 0 4 4 4 0 0 2 2 2
+p478
+aVEric Murdock LAC 01/12/2000 LAC @ BOS L 21 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 3 0 0 4 1 -9
+p479
+aVMaurice Taylor LAC 01/12/2000 LAC @ BOS L 43 22 10 19 52.6 0 0 - 2 4 50.0 2 10 12 2 0 1 4 3 -6
+p480
+aVDerek Anderson LAC 01/12/2000 LAC @ BOS L 38 18 7 14 50.0 0 4 0.0 4 5 80.0 0 3 3 2 2 0 6 3 -6
+p481
+aVTroy Hudson LAC 01/10/2000 LAC @ CLE L 34 14 4 11 36.4 1 3 33.3 5 6 83.3 1 1 2 4 1 0 2 4 -2
+p482
+aVAnthony Avent LAC 01/10/2000 LAC @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p483
+aVEric Murdock LAC 01/10/2000 LAC @ CLE L 14 6 2 5 40.0 1 1 100.0 1 2 50.0 0 2 2 4 0 0 1 0 -4
+p484
+aVMichael Olowokandi LAC 01/10/2000 LAC @ CLE L 28 5 2 6 33.3 0 0 - 1 2 50.0 0 5 5 1 0 0 3 5 5
+p485
+aVDerek Anderson LAC 01/10/2000 LAC @ CLE L 43 29 9 19 47.4 2 3 66.7 9 9 100.0 2 3 5 5 0 1 0 3 -10
+p486
+aVEric Piatkowski LAC 01/10/2000 LAC @ CLE L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 0 0 3 5
+p487
+aVTyrone Nesby LAC 01/10/2000 LAC @ CLE L 32 15 5 8 62.5 2 4 50.0 3 3 100.0 0 3 3 0 0 0 3 5 -7
+p488
+aVKeith Closs LAC 01/10/2000 LAC @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p489
+aVLamar Odom LAC 01/10/2000 LAC @ CLE L 36 28 8 14 57.1 3 4 75.0 9 9 100.0 1 6 7 2 1 0 4 6 -2
+p490
+aVMaurice Taylor LAC 01/10/2000 LAC @ CLE L 36 6 3 14 21.4 0 0 - 0 0 - 0 6 6 2 0 3 4 5 -5
+p491
+aVMaurice Taylor LAC 01/08/2000 LAC vs. IND W 38 23 10 20 50.0 0 0 - 3 4 75.0 3 4 7 2 0 0 0 4 5
+p492
+aVMichael Olowokandi LAC 01/08/2000 LAC vs. IND W 35 24 9 12 75.0 0 0 - 6 10 60.0 5 12 17 1 0 0 3 4 29
+p493
+aVTroy Hudson LAC 01/08/2000 LAC vs. IND W 39 11 5 12 41.7 1 4 25.0 0 0 - 0 2 2 5 2 0 2 2 -4
+p494
+aVLamar Odom LAC 01/08/2000 LAC vs. IND W 38 8 2 11 18.2 0 3 0.0 4 4 100.0 1 5 6 4 2 1 2 1 0
+p495
+aVEric Piatkowski LAC 01/08/2000 LAC vs. IND W 17 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 2 1 0 0 3 10
+p496
+aVEric Murdock LAC 01/08/2000 LAC vs. IND W 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 1 17
+p497
+aVTyrone Nesby LAC 01/08/2000 LAC vs. IND W 22 23 8 12 66.7 4 5 80.0 3 4 75.0 1 2 3 1 2 0 1 2 13
+p498
+aVKeith Closs LAC 01/08/2000 LAC vs. IND W 7 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -2
+p499
+aVDerek Anderson LAC 01/08/2000 LAC vs. IND W 35 7 3 10 30.0 0 2 0.0 1 4 25.0 0 2 2 2 4 0 4 5 -3
+p500
+aVEric Piatkowski LAC 01/05/2000 LAC @ LAL L 14 2 1 6 16.7 0 3 0.0 0 0 - 1 3 4 0 1 0 0 2 -5
+p501
+aVTroy Hudson LAC 01/05/2000 LAC @ LAL L 39 15 6 12 50.0 1 3 33.3 2 2 100.0 1 3 4 7 1 0 4 1 -14
+p502
+aVKeith Closs LAC 01/05/2000 LAC @ LAL L 14 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 7
+p503
+aVLamar Odom LAC 01/05/2000 LAC @ LAL L 44 26 9 19 47.4 1 4 25.0 7 8 87.5 4 8 12 5 2 3 4 2 -11
+p504
+aVCharles R. Jones LAC 01/05/2000 LAC @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p505
+aVMichael Olowokandi LAC 01/05/2000 LAC @ LAL L 18 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 6 -9
+p506
+aVTyrone Nesby LAC 01/05/2000 LAC @ LAL L 43 23 9 16 56.3 3 7 42.9 2 4 50.0 0 3 3 4 0 0 1 3 -15
+p507
+aVDerek Anderson LAC 01/05/2000 LAC @ LAL L 24 5 2 9 22.2 0 2 0.0 1 1 100.0 0 3 3 2 0 1 2 1 -19
+p508
+aVMaurice Taylor LAC 01/05/2000 LAC @ LAL L 42 22 9 18 50.0 0 0 - 4 6 66.7 2 9 11 1 0 1 2 3 -19
+p509
+aVEric Murdock LAC 01/04/2000 LAC vs. LAL L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p510
+aVTyrone Nesby LAC 01/04/2000 LAC vs. LAL L 37 22 9 17 52.9 1 5 20.0 3 3 100.0 4 2 6 1 1 0 0 2 -14
+p511
+aVMarty Conlon LAC 01/04/2000 LAC vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p512
+aVCharles R. Jones LAC 01/04/2000 LAC vs. LAL L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p513
+aVKeith Closs LAC 01/04/2000 LAC vs. LAL L 25 6 3 8 37.5 0 0 - 0 0 - 0 4 4 0 0 4 1 3 0
+p514
+aVMaurice Taylor LAC 01/04/2000 LAC vs. LAL L 32 16 6 19 31.6 0 0 - 4 4 100.0 4 2 6 1 0 0 1 5 -23
+p515
+aVLamar Odom LAC 01/04/2000 LAC vs. LAL L 40 22 9 19 47.4 1 3 33.3 3 5 60.0 5 7 12 3 2 2 3 2 -22
+p516
+aVAnthony Avent LAC 01/04/2000 LAC vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p517
+aVTroy Hudson LAC 01/04/2000 LAC vs. LAL L 35 8 4 13 30.8 0 2 0.0 0 0 - 1 6 7 10 2 0 4 3 -5
+p518
+aVDerek Anderson LAC 01/04/2000 LAC vs. LAL L 13 7 3 7 42.9 0 1 0.0 1 1 100.0 0 2 2 0 0 0 2 0 -13
+p519
+aVMichael Olowokandi LAC 01/04/2000 LAC vs. LAL L 22 1 0 8 0.0 0 0 - 1 4 25.0 3 7 10 0 0 0 1 4 -20
+p520
+aVEric Piatkowski LAC 01/04/2000 LAC vs. LAL L 22 11 5 8 62.5 1 4 25.0 0 0 - 1 4 5 0 0 1 0 1 -10
+p521
+aVEric Piatkowski LAC 12/30/1999 LAC @ HOU L 29 24 10 16 62.5 3 4 75.0 1 1 100.0 0 0 0 2 2 3 1 2 5
+p522
+aVCharles R. Jones LAC 12/30/1999 LAC @ HOU L 30 7 3 8 37.5 1 3 33.3 0 0 - 1 2 3 8 2 0 1 0 0
+p523
+aVKeith Closs LAC 12/30/1999 LAC @ HOU L 21 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 1 0 3 0 3 1
+p524
+aVMichael Olowokandi LAC 12/30/1999 LAC @ HOU L 25 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 6 4 2 -23
+p525
+aVAnthony Avent LAC 12/30/1999 LAC @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p526
+aVMarty Conlon LAC 12/30/1999 LAC @ HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p527
+aVTyrone Nesby LAC 12/30/1999 LAC @ HOU L 29 12 4 10 40.0 1 3 33.3 3 4 75.0 1 6 7 1 0 1 3 5 -29
+p528
+aVLamar Odom LAC 12/30/1999 LAC @ HOU L 42 10 2 13 15.4 0 1 0.0 6 8 75.0 4 9 13 10 1 0 4 3 -20
+p529
+aVTroy Hudson LAC 12/30/1999 LAC @ HOU L 18 6 2 6 33.3 1 3 33.3 1 1 100.0 0 1 1 1 0 0 1 3 -22
+p530
+aVMaurice Taylor LAC 12/30/1999 LAC @ HOU L 40 31 13 22 59.1 0 0 - 5 7 71.4 0 3 3 0 0 0 1 3 -26
+p531
+aVKeith Closs LAC 12/28/1999 LAC @ DEN L 13 10 4 5 80.0 0 0 - 2 2 100.0 1 4 5 0 0 3 0 3 -3
+p532
+aVTroy Hudson LAC 12/28/1999 LAC @ DEN L 37 10 5 12 41.7 0 2 0.0 0 0 - 2 3 5 8 0 0 4 2 -11
+p533
+aVEric Piatkowski LAC 12/28/1999 LAC @ DEN L 25 13 5 9 55.6 3 4 75.0 0 0 - 0 5 5 2 1 0 1 2 -20
+p534
+aVTyrone Nesby LAC 12/28/1999 LAC @ DEN L 41 16 7 18 38.9 2 6 33.3 0 0 - 1 2 3 2 0 1 1 3 -15
+p535
+aVCharles R. Jones LAC 12/28/1999 LAC @ DEN L 18 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 4 0 0 1 0 -20
+p536
+aVMarty Conlon LAC 12/28/1999 LAC @ DEN L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p537
+aVMichael Olowokandi LAC 12/28/1999 LAC @ DEN L 31 11 3 8 37.5 0 0 - 5 8 62.5 4 5 9 1 0 2 3 2 -13
+p538
+aVLamar Odom LAC 12/28/1999 LAC @ DEN L 31 10 4 13 30.8 0 0 - 2 4 50.0 4 6 10 5 0 0 2 5 -14
+p539
+aVMaurice Taylor LAC 12/28/1999 LAC @ DEN L 42 30 13 22 59.1 0 0 - 4 4 100.0 1 5 6 3 1 3 3 4 -15
+p540
+aVEric Piatkowski LAC 12/26/1999 LAC vs. BOS W 39 15 6 11 54.5 3 6 50.0 0 1 0.0 1 3 4 2 0 0 0 3 -4
+p541
+aVTroy Hudson LAC 12/26/1999 LAC vs. BOS W 36 15 4 11 36.4 2 5 40.0 5 6 83.3 0 2 2 9 0 0 2 0 -11
+p542
+aVEric Murdock LAC 12/26/1999 LAC vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p543
+aVKeith Closs LAC 12/26/1999 LAC vs. BOS W 19 7 3 4 75.0 0 0 - 1 4 25.0 0 3 3 2 0 1 0 1 5
+p544
+aVMaurice Taylor LAC 12/26/1999 LAC vs. BOS W 48 26 12 22 54.5 0 1 0.0 2 4 50.0 3 4 7 1 0 0 4 4 3
+p545
+aVLamar Odom LAC 12/26/1999 LAC vs. BOS W 36 15 6 13 46.2 0 1 0.0 3 4 75.0 2 9 11 3 5 3 4 6 11
+p546
+aVCharles R. Jones LAC 12/26/1999 LAC vs. BOS W 17 3 1 7 14.3 1 4 25.0 0 0 - 1 1 2 3 0 0 0 1 2
+p547
+aVTyrone Nesby LAC 12/26/1999 LAC vs. BOS W 43 22 9 20 45.0 2 5 40.0 2 2 100.0 3 4 7 2 4 2 1 4 5
+p548
+aVEric Murdock LAC 12/23/1999 LAC vs. SAC W 15 2 1 6 16.7 0 0 - 0 0 - 1 3 4 2 1 0 3 1 11
+p549
+aVLamar Odom LAC 12/23/1999 LAC vs. SAC W 22 13 5 11 45.5 1 1 100.0 2 4 50.0 3 6 9 3 0 4 1 4 -13
+p550
+aVAnthony Avent LAC 12/23/1999 LAC vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p551
+aVTyrone Nesby LAC 12/23/1999 LAC vs. SAC W 34 13 5 9 55.6 0 2 0.0 3 4 75.0 0 4 4 0 2 1 1 2 -10
+p552
+aVMichael Olowokandi LAC 12/23/1999 LAC vs. SAC W 25 6 3 8 37.5 0 0 - 0 0 - 0 1 1 0 1 0 3 6 -18
+p553
+aVCharles R. Jones LAC 12/23/1999 LAC vs. SAC W 20 12 3 7 42.9 2 4 50.0 4 4 100.0 1 0 1 1 1 1 0 0 16
+p554
+aVTroy Hudson LAC 12/23/1999 LAC vs. SAC W 34 16 6 16 37.5 0 2 0.0 4 5 80.0 0 6 6 10 1 0 4 1 0
+p555
+aVEric Piatkowski LAC 12/23/1999 LAC vs. SAC W 35 12 5 9 55.6 2 4 50.0 0 0 - 0 6 6 3 1 0 2 4 6
+p556
+aVKeith Closs LAC 12/23/1999 LAC vs. SAC W 20 9 3 5 60.0 0 0 - 3 4 75.0 1 6 7 0 0 2 0 4 15
+p557
+aVMaurice Taylor LAC 12/23/1999 LAC vs. SAC W 30 14 6 14 42.9 0 0 - 2 3 66.7 2 8 10 2 2 1 4 5 14
+p558
+aVLamar Odom LAC 12/22/1999 LAC @ GSW W 42 22 9 17 52.9 1 3 33.3 3 4 75.0 1 10 11 7 2 7 2 3 1
+p559
+aVEric Murdock LAC 12/22/1999 LAC @ GSW W 15 6 2 6 33.3 0 2 0.0 2 2 100.0 0 4 4 5 0 1 2 2 5
+p560
+aVEric Piatkowski LAC 12/22/1999 LAC @ GSW W 31 22 8 15 53.3 4 8 50.0 2 2 100.0 1 1 2 5 0 0 1 2 9
+p561
+aVCharles R. Jones LAC 12/22/1999 LAC @ GSW W 22 4 1 6 16.7 0 5 0.0 2 2 100.0 0 0 0 2 1 0 0 1 -7
+p562
+aVMichael Olowokandi LAC 12/22/1999 LAC @ GSW W 30 8 4 5 80.0 0 0 - 0 0 - 2 5 7 1 0 1 1 4 14
+p563
+aVKeith Closs LAC 12/22/1999 LAC @ GSW W 20 10 4 7 57.1 0 0 - 2 2 100.0 4 4 8 1 1 2 0 0 -6
+p564
+aVTroy Hudson LAC 12/22/1999 LAC @ GSW W 32 3 1 10 10.0 0 2 0.0 1 2 50.0 0 4 4 9 1 0 1 0 0
+p565
+aVAnthony Avent LAC 12/22/1999 LAC @ GSW W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p566
+aVTyrone Nesby LAC 12/22/1999 LAC @ GSW W 45 28 11 18 61.1 4 9 44.4 2 2 100.0 0 9 9 1 1 0 2 5 7
+p567
+aVMichael Olowokandi LAC 12/19/1999 LAC @ VAN L 39 6 3 8 37.5 0 0 - 0 0 - 1 10 11 1 0 0 2 4 -1
+p568
+aVEric Piatkowski LAC 12/19/1999 LAC @ VAN L 21 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p569
+aVKeith Closs LAC 12/19/1999 LAC @ VAN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p570
+aVCharles R. Jones LAC 12/19/1999 LAC @ VAN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p571
+aVTroy Hudson LAC 12/19/1999 LAC @ VAN L 35 10 4 12 33.3 1 3 33.3 1 2 50.0 0 6 6 9 1 0 4 3 -5
+p572
+aVMaurice Taylor LAC 12/19/1999 LAC @ VAN L 41 20 6 12 50.0 0 0 - 8 10 80.0 0 4 4 2 2 3 3 4 2
+p573
+aVLamar Odom LAC 12/19/1999 LAC @ VAN L 39 28 12 21 57.1 2 4 50.0 2 8 25.0 3 2 5 3 0 4 4 6 5
+p574
+aVEric Murdock LAC 12/19/1999 LAC @ VAN L 14 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 1 2 0 1 0 4
+p575
+aVTyrone Nesby LAC 12/19/1999 LAC @ VAN L 44 16 6 9 66.7 4 5 80.0 0 0 - 0 6 6 1 2 2 3 1 2
+p576
+aVTroy Hudson LAC 12/17/1999 LAC vs. GSW W 41 20 7 14 50.0 1 4 25.0 5 5 100.0 0 7 7 2 3 0 2 1 0
+p577
+aVEric Piatkowski LAC 12/17/1999 LAC vs. GSW W 21 4 2 5 40.0 0 1 0.0 0 0 - 4 3 7 2 1 0 1 0 -4
+p578
+aVTyrone Nesby LAC 12/17/1999 LAC vs. GSW W 37 7 3 7 42.9 1 3 33.3 0 0 - 2 1 3 3 1 1 1 4 -7
+p579
+aVMichael Olowokandi LAC 12/17/1999 LAC vs. GSW W 39 16 6 13 46.2 0 0 - 4 8 50.0 4 5 9 2 0 3 5 4 3
+p580
+aVLamar Odom LAC 12/17/1999 LAC vs. GSW W 43 23 7 20 35.0 0 0 - 9 15 60.0 3 10 13 7 1 1 6 4 9
+p581
+aVKeith Closs LAC 12/17/1999 LAC vs. GSW W 9 6 2 2 100.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 0 -2
+p582
+aVCharles R. Jones LAC 12/17/1999 LAC vs. GSW W 17 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 3 1 0 0 0 3
+p583
+aVMaurice Taylor LAC 12/17/1999 LAC vs. GSW W 26 10 5 10 50.0 0 0 - 0 2 0.0 1 4 5 1 0 1 4 6 2
+p584
+aVEric Murdock LAC 12/17/1999 LAC vs. GSW W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p585
+aVAnthony Avent LAC 12/14/1999 LAC @ LAL L 14 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 1 0 2 1 -13
+p586
+aVEric Piatkowski LAC 12/14/1999 LAC @ LAL L 34 9 3 15 20.0 1 6 16.7 2 2 100.0 2 2 4 0 0 0 0 0 -14
+p587
+aVMichael Olowokandi LAC 12/14/1999 LAC @ LAL L 34 13 6 16 37.5 0 0 - 1 1 100.0 3 7 10 1 0 1 3 4 -43
+p588
+aVTyrone Nesby LAC 12/14/1999 LAC @ LAL L 34 18 7 14 50.0 3 3 100.0 1 1 100.0 2 3 5 1 1 1 1 3 -19
+p589
+aVLamar Odom LAC 12/14/1999 LAC @ LAL L 22 2 0 4 0.0 0 0 - 2 4 50.0 0 3 3 3 0 1 3 5 -11
+p590
+aVTroy Hudson LAC 12/14/1999 LAC @ LAL L 36 12 4 10 40.0 2 4 50.0 2 5 40.0 1 6 7 8 2 0 4 0 -16
+p591
+aVCharles R. Jones LAC 12/14/1999 LAC @ LAL L 20 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 5 1 0 2 1 7
+p592
+aVMaurice Taylor LAC 12/14/1999 LAC @ LAL L 21 2 1 7 14.3 0 0 - 0 0 - 0 2 2 0 2 0 2 6 -23
+p593
+aVKeith Closs LAC 12/14/1999 LAC @ LAL L 14 7 3 3 100.0 0 0 - 1 4 25.0 0 4 4 0 0 3 0 2 16
+p594
+aVEric Murdock LAC 12/14/1999 LAC @ LAL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -16
+p595
+aVBrian Skinner LAC 12/14/1999 LAC @ LAL L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p596
+aVEric Murdock LAC 12/13/1999 LAC vs. VAN W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 5
+p597
+aVEric Piatkowski LAC 12/13/1999 LAC vs. VAN W 12 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 0 1 0 2 1 0
+p598
+aVTroy Hudson LAC 12/13/1999 LAC vs. VAN W 40 18 7 15 46.7 2 5 40.0 2 2 100.0 2 3 5 11 0 0 2 4 14
+p599
+aVAnthony Avent LAC 12/13/1999 LAC vs. VAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -1
+p600
+aVLamar Odom LAC 12/13/1999 LAC vs. VAN W 25 8 4 5 80.0 0 0 - 0 0 - 2 2 4 5 1 0 3 6 8
+p601
+aVTyrone Nesby LAC 12/13/1999 LAC vs. VAN W 28 12 3 8 37.5 2 4 50.0 4 4 100.0 0 2 2 2 1 0 1 1 6
+p602
+aVMichael Olowokandi LAC 12/13/1999 LAC vs. VAN W 33 16 7 11 63.6 0 0 - 2 5 40.0 6 4 10 0 0 1 0 5 13
+p603
+aVDerek Anderson LAC 12/13/1999 LAC vs. VAN W 35 16 6 16 37.5 2 6 33.3 2 4 50.0 1 1 2 5 2 0 0 1 3
+p604
+aVBrian Skinner LAC 12/13/1999 LAC vs. VAN W 17 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 3 1 0 2 -3
+p605
+aVMaurice Taylor LAC 12/13/1999 LAC vs. VAN W 43 26 12 20 60.0 0 0 - 2 2 100.0 0 8 8 3 0 1 1 3 15
+p606
+aVTyrone Nesby LAC 12/11/1999 LAC @ IND L 20 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 6 -10
+p607
+aVBrian Skinner LAC 12/11/1999 LAC @ IND L 29 7 3 7 42.9 0 0 - 1 2 50.0 2 9 11 0 1 2 2 1 -2
+p608
+aVLamar Odom LAC 12/11/1999 LAC @ IND L 41 8 3 14 21.4 0 2 0.0 2 3 66.7 1 4 5 7 1 2 2 1 -19
+p609
+aVMaurice Taylor LAC 12/11/1999 LAC @ IND L 36 16 8 15 53.3 0 0 - 0 2 0.0 1 7 8 3 0 0 3 5 -18
+p610
+aVCharles R. Jones LAC 12/11/1999 LAC @ IND L 2 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p611
+aVMichael Olowokandi LAC 12/11/1999 LAC @ IND L 44 21 8 16 50.0 0 0 - 5 8 62.5 3 10 13 1 1 0 3 5 -26
+p612
+aVDerek Anderson LAC 12/11/1999 LAC @ IND L 33 9 3 12 25.0 1 4 25.0 2 3 66.7 0 3 3 1 3 0 1 1 -27
+p613
+aVAnthony Avent LAC 12/11/1999 LAC @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p614
+aVTroy Hudson LAC 12/11/1999 LAC @ IND L 20 13 5 8 62.5 0 1 0.0 3 3 100.0 0 0 0 2 0 0 1 0 0
+p615
+aVKeith Closs LAC 12/11/1999 LAC @ IND L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p616
+aVEric Piatkowski LAC 12/11/1999 LAC @ IND L 13 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 2 -3
+p617
+aVEric Murdock LAC 12/10/1999 LAC @ DET L 16 6 2 2 100.0 1 1 100.0 1 2 50.0 0 1 1 3 2 0 2 3 -3
+p618
+aVEric Piatkowski LAC 12/10/1999 LAC @ DET L 19 3 1 6 16.7 1 5 20.0 0 0 - 1 1 2 1 1 0 0 2 -12
+p619
+aVDerek Anderson LAC 12/10/1999 LAC @ DET L 31 14 5 11 45.5 0 1 0.0 4 4 100.0 1 4 5 5 1 0 2 1 -14
+p620
+aVMichael Olowokandi LAC 12/10/1999 LAC @ DET L 33 16 6 13 46.2 0 0 - 4 5 80.0 0 3 3 0 1 1 3 2 -17
+p621
+aVCharles R. Jones LAC 12/10/1999 LAC @ DET L 12 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 2 0 0 0 0 -8
+p622
+aVBrian Skinner LAC 12/10/1999 LAC @ DET L 8 0 0 0 - 0 0 - 0 0 - 0 5 5 0 0 1 1 1 -4
+p623
+aVAnthony Avent LAC 12/10/1999 LAC @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -9
+p624
+aVLamar Odom LAC 12/10/1999 LAC @ DET L 20 10 5 12 41.7 0 0 - 0 0 - 3 1 4 0 1 0 2 5 -1
+p625
+aVTroy Hudson LAC 12/10/1999 LAC @ DET L 19 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 3 1 0 4 0 -9
+p626
+aVKeith Closs LAC 12/10/1999 LAC @ DET L 8 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 2 0 2 -5
+p627
+aVTyrone Nesby LAC 12/10/1999 LAC @ DET L 26 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 3 1 0 0 4 -14
+p628
+aVMaurice Taylor LAC 12/10/1999 LAC @ DET L 42 13 6 14 42.9 0 0 - 1 4 25.0 3 4 7 3 2 0 3 1 -24
+p629
+aVMaurice Taylor LAC 12/08/1999 LAC @ ATL L 41 22 9 18 50.0 0 1 0.0 4 5 80.0 2 5 7 0 1 0 1 5 -16
+p630
+aVEric Piatkowski LAC 12/08/1999 LAC @ ATL L 24 4 2 8 25.0 0 3 0.0 0 0 - 0 0 0 0 1 1 0 0 -10
+p631
+aVBrian Skinner LAC 12/08/1999 LAC @ ATL L 14 0 0 2 0.0 0 0 - 0 0 - 1 6 7 1 0 1 0 1 1
+p632
+aVDerek Anderson LAC 12/08/1999 LAC @ ATL L 36 5 2 8 25.0 1 2 50.0 0 0 - 0 4 4 8 0 0 6 4 -9
+p633
+aVTyrone Nesby LAC 12/08/1999 LAC @ ATL L 24 9 4 14 28.6 1 5 20.0 0 0 - 1 1 2 3 0 0 0 1 -8
+p634
+aVLamar Odom LAC 12/08/1999 LAC @ ATL L 42 16 6 18 33.3 1 5 20.0 3 4 75.0 1 1 2 4 3 0 3 2 -15
+p635
+aVEric Murdock LAC 12/08/1999 LAC @ ATL L 19 8 3 5 60.0 1 1 100.0 1 2 50.0 0 1 1 1 3 1 3 3 -13
+p636
+aVMichael Olowokandi LAC 12/08/1999 LAC @ ATL L 40 17 6 14 42.9 0 0 - 5 6 83.3 9 11 20 1 0 3 0 3 -20
+p637
+aVEric Piatkowski LAC 12/06/1999 LAC vs. MIA L 22 3 1 7 14.3 1 3 33.3 0 0 - 3 2 5 0 0 0 0 1 -1
+p638
+aVLamar Odom LAC 12/06/1999 LAC vs. MIA L 45 20 8 19 42.1 1 4 25.0 3 4 75.0 1 6 7 4 0 2 4 4 -6
+p639
+aVMaurice Taylor LAC 12/06/1999 LAC vs. MIA L 36 17 8 18 44.4 0 0 - 1 1 100.0 3 6 9 3 1 0 8 3 -2
+p640
+aVTroy Hudson LAC 12/06/1999 LAC vs. MIA L 15 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 2 0 0 1 0 -8
+p641
+aVMichael Olowokandi LAC 12/06/1999 LAC vs. MIA L 23 4 2 3 66.7 0 0 - 0 0 - 1 6 7 0 1 1 1 5 -5
+p642
+aVBrian Skinner LAC 12/06/1999 LAC vs. MIA L 27 15 6 8 75.0 0 0 - 3 3 100.0 3 3 6 0 1 0 2 0 -8
+p643
+aVTyrone Nesby LAC 12/06/1999 LAC vs. MIA L 24 7 3 7 42.9 0 2 0.0 1 2 50.0 1 0 1 1 1 0 0 0 -10
+p644
+aVKeith Closs LAC 12/06/1999 LAC vs. MIA L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -1
+p645
+aVDerek Anderson LAC 12/06/1999 LAC vs. MIA L 38 16 7 20 35.0 0 3 0.0 2 2 100.0 2 8 10 12 0 0 0 0 1
+p646
+aVTroy Hudson LAC 12/04/1999 LAC vs. SEA L 13 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p647
+aVMichael Olowokandi LAC 12/04/1999 LAC vs. SEA L 19 6 3 6 50.0 0 0 - 0 0 - 3 2 5 0 0 1 1 5 -6
+p648
+aVEric Murdock LAC 12/04/1999 LAC vs. SEA L 22 6 3 6 50.0 0 0 - 0 2 0.0 0 2 2 6 1 0 0 3 -7
+p649
+aVLamar Odom LAC 12/04/1999 LAC vs. SEA L 33 12 5 13 38.5 0 1 0.0 2 4 50.0 4 4 8 3 0 1 1 4 -1
+p650
+aVEric Piatkowski LAC 12/04/1999 LAC vs. SEA L 18 4 1 7 14.3 1 4 25.0 1 2 50.0 1 1 2 0 0 0 1 3 -8
+p651
+aVTyrone Nesby LAC 12/04/1999 LAC vs. SEA L 30 13 3 15 20.0 0 0 - 7 8 87.5 3 3 6 0 3 0 1 4 -8
+p652
+aVCharles R. Jones LAC 12/04/1999 LAC vs. SEA L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 5
+p653
+aVMaurice Taylor LAC 12/04/1999 LAC vs. SEA L 38 19 6 17 35.3 0 1 0.0 7 8 87.5 2 4 6 2 1 1 2 3 -16
+p654
+aVBrian Skinner LAC 12/04/1999 LAC vs. SEA L 24 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 0 1 0 1 2 -8
+p655
+aVDerek Anderson LAC 12/04/1999 LAC vs. SEA L 35 19 7 12 58.3 2 4 50.0 3 3 100.0 2 3 5 3 0 0 3 1 -6
+p656
+aVAnthony Avent LAC 12/02/1999 LAC vs. HOU L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 0
+p657
+aVKeith Closs LAC 12/02/1999 LAC vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 0 0
+p658
+aVTyrone Nesby LAC 12/02/1999 LAC vs. HOU L 26 8 4 9 44.4 0 3 0.0 0 0 - 1 2 3 0 2 1 2 3 -17
+p659
+aVMichael Olowokandi LAC 12/02/1999 LAC vs. HOU L 25 10 5 7 71.4 0 0 - 0 2 0.0 1 6 7 0 1 0 3 3 -14
+p660
+aVCharles R. Jones LAC 12/02/1999 LAC vs. HOU L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p661
+aVEric Murdock LAC 12/02/1999 LAC vs. HOU L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 0
+p662
+aVTroy Hudson LAC 12/02/1999 LAC vs. HOU L 21 5 2 7 28.6 1 1 100.0 0 0 - 0 2 2 3 0 0 3 0 1
+p663
+aVDerek Anderson LAC 12/02/1999 LAC vs. HOU L 41 23 8 12 66.7 0 1 0.0 7 9 77.8 1 1 2 4 3 1 5 3 -8
+p664
+aVBrian Skinner LAC 12/02/1999 LAC vs. HOU L 13 6 2 2 100.0 0 0 - 2 2 100.0 2 4 6 0 0 1 1 5 4
+p665
+aVMaurice Taylor LAC 12/02/1999 LAC vs. HOU L 37 18 7 18 38.9 0 0 - 4 6 66.7 0 7 7 0 0 0 5 4 -22
+p666
+aVLamar Odom LAC 12/02/1999 LAC vs. HOU L 42 22 7 14 50.0 0 2 0.0 8 8 100.0 3 5 8 1 0 3 3 6 -8
+p667
+aVEric Piatkowski LAC 12/02/1999 LAC vs. HOU L 15 0 0 4 0.0 0 2 0.0 0 0 - 2 0 2 0 0 0 0 1 -1
+p668
+aVLamar Odom LAC 11/30/1999 LAC vs. PHX L 40 14 5 14 35.7 0 1 0.0 4 6 66.7 1 4 5 4 2 0 3 5 -7
+p669
+aVTroy Hudson LAC 11/30/1999 LAC vs. PHX L 16 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 2 1 0 3 1 -3
+p670
+aVTyrone Nesby LAC 11/30/1999 LAC vs. PHX L 24 8 1 6 16.7 0 1 0.0 6 8 75.0 1 2 3 1 1 0 0 1 -11
+p671
+aVEric Murdock LAC 11/30/1999 LAC vs. PHX L 20 6 2 7 28.6 1 1 100.0 1 4 25.0 1 2 3 4 2 0 0 1 -6
+p672
+aVDerek Anderson LAC 11/30/1999 LAC vs. PHX L 35 25 6 15 40.0 0 3 0.0 13 15 86.7 1 4 5 1 0 0 1 3 -1
+p673
+aVMichael Olowokandi LAC 11/30/1999 LAC vs. PHX L 25 4 2 7 28.6 0 0 - 0 2 0.0 1 4 5 0 0 2 2 3 -8
+p674
+aVMaurice Taylor LAC 11/30/1999 LAC vs. PHX L 36 15 7 14 50.0 0 0 - 1 2 50.0 2 6 8 0 1 1 5 3 -11
+p675
+aVBrian Skinner LAC 11/30/1999 LAC vs. PHX L 31 4 1 2 50.0 0 0 - 2 2 100.0 3 7 10 0 1 4 2 2 -10
+p676
+aVEric Piatkowski LAC 11/30/1999 LAC vs. PHX L 13 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 0 1 0 1 1 -13
+p677
+aVCharles R. Jones LAC 11/27/1999 LAC vs. POR L 6 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 6
+p678
+aVBrian Skinner LAC 11/27/1999 LAC vs. POR L 29 2 1 4 25.0 0 0 - 0 2 0.0 1 2 3 0 0 2 1 3 -16
+p679
+aVEric Murdock LAC 11/27/1999 LAC vs. POR L 15 4 1 5 20.0 0 1 0.0 2 4 50.0 1 0 1 1 0 0 2 2 -6
+p680
+aVMichael Olowokandi LAC 11/27/1999 LAC vs. POR L 30 10 4 8 50.0 0 0 - 2 5 40.0 3 6 9 0 1 2 3 2 -26
+p681
+aVDerek Anderson LAC 11/27/1999 LAC vs. POR L 29 6 2 7 28.6 0 1 0.0 2 2 100.0 1 6 7 3 0 0 5 3 -17
+p682
+aVLamar Odom LAC 11/27/1999 LAC vs. POR L 45 15 6 18 33.3 3 4 75.0 0 2 0.0 3 3 6 6 2 2 1 4 -8
+p683
+aVTyrone Nesby LAC 11/27/1999 LAC vs. POR L 27 16 4 13 30.8 1 3 33.3 7 10 70.0 3 2 5 0 2 0 2 0 -11
+p684
+aVAnthony Avent LAC 11/27/1999 LAC vs. POR L 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 3 1 0 2 4
+p685
+aVTroy Hudson LAC 11/27/1999 LAC vs. POR L 14 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 0 -16
+p686
+aVEric Piatkowski LAC 11/27/1999 LAC vs. POR L 31 9 4 14 28.6 1 6 16.7 0 0 - 3 7 10 0 0 1 0 1 5
+p687
+aVEric Murdock LAC 11/26/1999 LAC @ SEA L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -4
+p688
+aVEric Piatkowski LAC 11/26/1999 LAC @ SEA L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 0 0 0 2 1 -4
+p689
+aVMichael Olowokandi LAC 11/26/1999 LAC @ SEA L 24 16 8 11 72.7 0 0 - 0 0 - 1 5 6 1 0 1 1 6 -5
+p690
+aVDerek Anderson LAC 11/26/1999 LAC @ SEA L 43 29 9 21 42.9 3 4 75.0 8 10 80.0 3 5 8 5 2 0 3 4 -4
+p691
+aVTyrone Nesby LAC 11/26/1999 LAC @ SEA L 35 18 7 17 41.2 2 4 50.0 2 3 66.7 3 3 6 0 1 0 2 1 -5
+p692
+aVAnthony Avent LAC 11/26/1999 LAC @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p693
+aVTroy Hudson LAC 11/26/1999 LAC @ SEA L 33 12 5 10 50.0 0 3 0.0 2 2 100.0 0 0 0 4 1 0 2 2 1
+p694
+aVLamar Odom LAC 11/26/1999 LAC @ SEA L 38 13 4 11 36.4 0 1 0.0 5 6 83.3 0 8 8 6 2 1 6 2 1
+p695
+aVBrian Skinner LAC 11/26/1999 LAC @ SEA L 46 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 1 2 4 -3
+p696
+aVMichael Olowokandi LAC 11/23/1999 LAC vs. NYK W 16 2 0 0 - 0 0 - 2 2 100.0 2 4 6 0 0 0 1 4 -14
+p697
+aVEric Piatkowski LAC 11/23/1999 LAC vs. NYK W 19 8 1 6 16.7 1 5 20.0 5 6 83.3 1 2 3 0 1 0 1 3 2
+p698
+aVTroy Hudson LAC 11/23/1999 LAC vs. NYK W 37 16 5 14 35.7 3 9 33.3 3 3 100.0 1 2 3 2 0 0 0 0 -2
+p699
+aVTyrone Nesby LAC 11/23/1999 LAC vs. NYK W 25 22 8 17 47.1 3 8 37.5 3 4 75.0 1 7 8 3 1 1 1 6 -2
+p700
+aVLamar Odom LAC 11/23/1999 LAC vs. NYK W 43 24 8 17 47.1 1 4 25.0 7 8 87.5 2 4 6 5 1 2 4 4 16
+p701
+aVBrian Skinner LAC 11/23/1999 LAC vs. NYK W 43 5 1 5 20.0 0 0 - 3 4 75.0 2 8 10 0 3 3 3 5 8
+p702
+aVDerek Anderson LAC 11/23/1999 LAC vs. NYK W 42 23 8 17 47.1 2 5 40.0 5 5 100.0 1 3 4 3 1 0 3 4 5
+p703
+aVAnthony Avent LAC 11/23/1999 LAC vs. NYK W 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 1 12
+p704
+aVBrian Skinner LAC 11/20/1999 LAC @ WAS W 48 13 5 13 38.5 0 0 - 3 6 50.0 2 11 13 0 0 4 3 4 9
+p705
+aVLamar Odom LAC 11/20/1999 LAC @ WAS W 43 21 8 15 53.3 2 5 40.0 3 4 75.0 0 5 5 3 3 3 5 4 4
+p706
+aVAnthony Avent LAC 11/20/1999 LAC @ WAS W 8 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 1 0 0 4 -7
+p707
+aVEric Piatkowski LAC 11/20/1999 LAC @ WAS W 46 25 7 12 58.3 4 6 66.7 7 9 77.8 0 1 1 2 2 0 1 0 12
+p708
+aVMichael Olowokandi LAC 11/20/1999 LAC @ WAS W 39 11 2 11 18.2 0 0 - 7 8 87.5 2 7 9 1 0 2 1 5 13
+p709
+aVEric Murdock LAC 11/20/1999 LAC @ WAS W 23 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 6 2 0 1 4 6
+p710
+aVTroy Hudson LAC 11/20/1999 LAC @ WAS W 33 22 8 15 53.3 4 8 50.0 2 2 100.0 0 4 4 5 3 0 3 1 8
+p711
+aVMichael Olowokandi LAC 11/19/1999 LAC @ TOR L 15 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 3 6 -17
+p712
+aVCharles R. Jones LAC 11/19/1999 LAC @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p713
+aVEric Piatkowski LAC 11/19/1999 LAC @ TOR L 37 19 6 15 40.0 4 8 50.0 3 4 75.0 2 5 7 3 1 0 2 3 1
+p714
+aVLamar Odom LAC 11/19/1999 LAC @ TOR L 43 16 6 16 37.5 1 4 25.0 3 6 50.0 4 3 7 2 0 0 6 6 -12
+p715
+aVBrian Skinner LAC 11/19/1999 LAC @ TOR L 45 18 6 8 75.0 0 0 - 6 10 60.0 6 10 16 1 1 4 3 1 -10
+p716
+aVTroy Hudson LAC 11/19/1999 LAC @ TOR L 32 20 7 17 41.2 2 2 100.0 4 4 100.0 2 4 6 4 3 0 1 0 -8
+p717
+aVKeith Closs LAC 11/19/1999 LAC @ TOR L 14 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 1 1 1 7
+p718
+aVEric Murdock LAC 11/19/1999 LAC @ TOR L 32 12 5 15 33.3 1 6 16.7 1 2 50.0 0 1 1 4 0 1 1 4 0
+p719
+aVAnthony Avent LAC 11/19/1999 LAC @ TOR L 20 11 4 9 44.4 0 0 - 3 4 75.0 1 2 3 0 0 1 2 3 10
+p720
+aVAnthony Avent LAC 11/17/1999 LAC @ MIN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 1
+p721
+aVTyrone Nesby LAC 11/17/1999 LAC @ MIN W 43 20 7 16 43.8 1 4 25.0 5 7 71.4 0 6 6 3 0 1 1 5 11
+p722
+aVMichael Olowokandi LAC 11/17/1999 LAC @ MIN W 43 16 6 12 50.0 0 0 - 4 6 66.7 3 9 12 0 0 1 2 3 6
+p723
+aVTroy Hudson LAC 11/17/1999 LAC @ MIN W 30 11 4 13 30.8 2 6 33.3 1 1 100.0 2 1 3 5 2 0 3 1 -12
+p724
+aVBrian Skinner LAC 11/17/1999 LAC @ MIN W 43 4 2 5 40.0 0 0 - 0 0 - 2 8 10 1 1 1 1 3 4
+p725
+aVEric Murdock LAC 11/17/1999 LAC @ MIN W 28 16 4 10 40.0 1 2 50.0 7 9 77.8 1 4 5 7 4 0 3 1 6
+p726
+aVLamar Odom LAC 11/17/1999 LAC @ MIN W 48 22 8 21 38.1 0 1 0.0 6 9 66.7 1 6 7 1 0 1 2 1 4
+p727
+aVMichael Olowokandi LAC 11/16/1999 LAC @ MIL L 33 9 3 8 37.5 0 0 - 3 4 75.0 1 4 5 0 0 0 4 6 1
+p728
+aVDerek Anderson LAC 11/16/1999 LAC @ MIL L 37 27 11 21 52.4 1 4 25.0 4 4 100.0 2 5 7 0 0 0 1 3 -3
+p729
+aVTyrone Nesby LAC 11/16/1999 LAC @ MIL L 40 6 3 16 18.8 0 4 0.0 0 0 - 4 2 6 2 0 1 0 5 -4
+p730
+aVBrian Skinner LAC 11/16/1999 LAC @ MIL L 34 10 3 9 33.3 0 0 - 4 6 66.7 9 8 17 1 1 4 1 1 -10
+p731
+aVLamar Odom LAC 11/16/1999 LAC @ MIL L 42 22 9 19 47.4 1 4 25.0 3 7 42.9 4 6 10 5 0 1 1 4 -5
+p732
+aVAnthony Avent LAC 11/16/1999 LAC @ MIL L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p733
+aVEric Murdock LAC 11/16/1999 LAC @ MIL L 22 13 5 11 45.5 1 1 100.0 2 3 66.7 2 1 3 3 1 0 1 3 -10
+p734
+aVTroy Hudson LAC 11/16/1999 LAC @ MIL L 29 6 3 10 30.0 0 2 0.0 0 2 0.0 1 3 4 5 1 0 4 1 -7
+p735
+aVCharles R. Jones LAC 11/14/1999 LAC @ VAN L 5 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 1 0 1 1 5
+p736
+aVAnthony Avent LAC 11/14/1999 LAC @ VAN L 6 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 5
+p737
+aVMichael Olowokandi LAC 11/14/1999 LAC @ VAN L 38 14 6 13 46.2 0 0 - 2 4 50.0 4 7 11 0 1 2 5 4 -24
+p738
+aVKeith Closs LAC 11/14/1999 LAC @ VAN L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 5
+p739
+aVEric Murdock LAC 11/14/1999 LAC @ VAN L 18 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 2 0 1 2 -20
+p740
+aVDerek Anderson LAC 11/14/1999 LAC @ VAN L 36 13 4 14 28.6 0 6 0.0 5 7 71.4 1 4 5 5 0 0 1 1 -22
+p741
+aVTroy Hudson LAC 11/14/1999 LAC @ VAN L 29 13 4 10 40.0 1 3 33.3 4 5 80.0 0 0 0 4 3 0 0 3 2
+p742
+aVMaurice Taylor LAC 11/14/1999 LAC @ VAN L 11 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 1 0 1 1 0 7
+p743
+aVBrian Skinner LAC 11/14/1999 LAC @ VAN L 27 8 3 4 75.0 0 0 - 2 2 100.0 4 2 6 1 0 1 2 3 -22
+p744
+aVTyrone Nesby LAC 11/14/1999 LAC @ VAN L 31 7 3 15 20.0 1 3 33.3 0 1 0.0 1 1 2 0 0 0 2 2 -21
+p745
+aVLamar Odom LAC 11/14/1999 LAC @ VAN L 34 16 6 12 50.0 1 1 100.0 3 4 75.0 4 8 12 3 2 0 5 5 -15
+p746
+aVCharles R. Jones LAC 11/10/1999 LAC vs. SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p747
+aVDerek Anderson LAC 11/10/1999 LAC vs. SAS L 40 28 10 17 58.8 3 5 60.0 5 5 100.0 1 6 7 4 1 0 3 5 4
+p748
+aVBrian Skinner LAC 11/10/1999 LAC vs. SAS L 34 11 4 6 66.7 0 0 - 3 4 75.0 2 7 9 0 0 4 0 3 0
+p749
+aVAnthony Avent LAC 11/10/1999 LAC vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p750
+aVTroy Hudson LAC 11/10/1999 LAC vs. SAS L 33 3 1 8 12.5 1 4 25.0 0 0 - 0 1 1 6 1 0 3 1 -10
+p751
+aVTyrone Nesby LAC 11/10/1999 LAC vs. SAS L 31 6 1 11 9.1 1 3 33.3 3 6 50.0 1 1 2 0 2 1 4 4 0
+p752
+aVLamar Odom LAC 11/10/1999 LAC vs. SAS L 33 16 4 7 57.1 0 0 - 8 10 80.0 1 6 7 3 1 0 4 6 -15
+p753
+aVMaurice Taylor LAC 11/10/1999 LAC vs. SAS L 24 18 7 13 53.8 0 1 0.0 4 6 66.7 0 5 5 0 1 2 2 4 -10
+p754
+aVMichael Olowokandi LAC 11/10/1999 LAC vs. SAS L 38 12 5 9 55.6 0 0 - 2 2 100.0 3 6 9 0 2 1 2 4 -2
+p755
+aVMaurice Taylor LAC 11/08/1999 LAC vs. UTA L 42 23 8 20 40.0 0 0 - 7 8 87.5 1 4 5 1 0 0 3 5 -11
+p756
+aVBrian Skinner LAC 11/08/1999 LAC vs. UTA L 23 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 1 1 2 1 2 -9
+p757
+aVLamar Odom LAC 11/08/1999 LAC vs. UTA L 38 10 2 10 20.0 0 2 0.0 6 8 75.0 2 6 8 4 1 2 5 3 -12
+p758
+aVTyrone Nesby LAC 11/08/1999 LAC vs. UTA L 30 11 3 10 30.0 0 3 0.0 5 6 83.3 2 2 4 1 1 1 1 3 -9
+p759
+aVTroy Hudson LAC 11/08/1999 LAC vs. UTA L 35 5 2 7 28.6 0 4 0.0 1 2 50.0 0 3 3 2 1 0 2 3 -15
+p760
+aVMichael Olowokandi LAC 11/08/1999 LAC vs. UTA L 31 10 4 8 50.0 0 0 - 2 5 40.0 1 3 4 0 0 0 0 2 -10
+p761
+aVDerek Anderson LAC 11/08/1999 LAC vs. UTA L 37 11 3 13 23.1 1 3 33.3 4 4 100.0 1 7 8 2 1 0 2 2 -12
+p762
+aVCharles R. Jones LAC 11/08/1999 LAC vs. UTA L 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 3
+p763
+aVBrian Skinner LAC 11/05/1999 LAC vs. PHI W 35 11 5 9 55.6 0 0 - 1 3 33.3 3 8 11 1 0 4 0 2 23
+p764
+aVMichael Olowokandi LAC 11/05/1999 LAC vs. PHI W 25 0 0 5 0.0 0 0 - 0 0 - 0 6 6 2 1 6 0 5 -1
+p765
+aVTyrone Nesby LAC 11/05/1999 LAC vs. PHI W 21 11 5 7 71.4 1 2 50.0 0 0 - 0 2 2 1 2 1 4 6 -2
+p766
+aVDerek Anderson LAC 11/05/1999 LAC vs. PHI W 41 21 3 10 30.0 0 0 - 15 17 88.2 6 3 9 6 1 2 9 1 7
+p767
+aVTroy Hudson LAC 11/05/1999 LAC vs. PHI W 41 16 7 12 58.3 2 4 50.0 0 0 - 0 5 5 3 0 0 2 0 17
+p768
+aVMaurice Taylor LAC 11/05/1999 LAC vs. PHI W 33 14 6 15 40.0 0 0 - 2 2 100.0 1 9 10 1 0 3 7 5 2
+p769
+aVCharles R. Jones LAC 11/05/1999 LAC vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p770
+aVLamar Odom LAC 11/05/1999 LAC vs. PHI W 40 18 4 9 44.4 1 2 50.0 9 9 100.0 2 7 9 2 1 3 7 6 6
+p771
+aVAnthony Avent LAC 11/05/1999 LAC vs. PHI W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p772
+aVAnthony Avent LAC 11/03/1999 LAC @ POR L 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p773
+aVTroy Hudson LAC 11/03/1999 LAC @ POR L 22 3 1 5 20.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 1 -9
+p774
+aVEric Murdock LAC 11/03/1999 LAC @ POR L 21 9 3 3 100.0 0 0 - 3 4 75.0 1 1 2 2 0 0 2 1 -12
+p775
+aVMaurice Taylor LAC 11/03/1999 LAC @ POR L 40 22 9 19 47.4 0 0 - 4 5 80.0 1 5 6 3 1 0 4 3 -23
+p776
+aVMichael Olowokandi LAC 11/03/1999 LAC @ POR L 25 8 4 6 66.7 0 0 - 0 0 - 1 0 1 0 1 1 1 6 -18
+p777
+aVKeith Closs LAC 11/03/1999 LAC @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p778
+aVDerek Anderson LAC 11/03/1999 LAC @ POR L 35 16 7 14 50.0 0 2 0.0 2 2 100.0 2 2 4 4 2 0 1 3 -24
+p779
+aVLamar Odom LAC 11/03/1999 LAC @ POR L 44 23 5 17 29.4 1 4 25.0 12 14 85.7 3 4 7 3 2 0 0 3 -15
+p780
+aVBrian Skinner LAC 11/03/1999 LAC @ POR L 25 12 5 6 83.3 0 0 - 2 2 100.0 1 1 2 0 1 1 1 2 1
+p781
+aVTyrone Nesby LAC 11/03/1999 LAC @ POR L 21 5 2 7 28.6 0 0 - 1 1 100.0 1 5 6 2 3 0 1 6 -7
+p782
+aVCharles R. Jones LAC 11/03/1999 LAC @ POR L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p783
+aVEric Murdock LAC 11/02/1999 LAC vs. SEA L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p784
+aVMaurice Taylor LAC 11/02/1999 LAC vs. SEA L 26 14 7 13 53.8 0 0 - 0 0 - 1 2 3 2 1 2 1 6 -12
+p785
+aVDerek Anderson LAC 11/02/1999 LAC vs. SEA L 37 19 6 13 46.2 2 4 50.0 5 5 100.0 2 0 2 3 0 0 1 3 -13
+p786
+aVBrian Skinner LAC 11/02/1999 LAC vs. SEA L 21 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 1 1 0 3 1 5
+p787
+aVEric Piatkowski LAC 11/02/1999 LAC vs. SEA L 14 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 5
+p788
+aVTroy Hudson LAC 11/02/1999 LAC vs. SEA L 27 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -13
+p789
+aVTyrone Nesby LAC 11/02/1999 LAC vs. SEA L 28 16 6 14 42.9 2 5 40.0 2 4 50.0 1 3 4 0 0 0 3 4 -13
+p790
+aVLamar Odom LAC 11/02/1999 LAC vs. SEA L 43 30 10 18 55.6 2 5 40.0 8 15 53.3 2 10 12 3 2 2 3 1 -7
+p791
+aVMichael Olowokandi LAC 11/02/1999 LAC vs. SEA L 33 6 3 7 42.9 0 0 - 0 1 0.0 4 12 16 1 0 5 5 4 -12
+p792
+a.

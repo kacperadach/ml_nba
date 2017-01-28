@@ -1,0 +1,1644 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKenny Thomas HOU 04/19/2000 HOU vs. VAN L 35 13 5 12 41.7 1 4 25.0 2 2 100.0 2 6 8 3 2 0 1 3 -6
+p2
+aVWalt Williams HOU 04/19/2000 HOU vs. VAN L 31 20 8 17 47.1 3 8 37.5 1 1 100.0 3 2 5 1 0 0 1 5 1
+p3
+aVCharles Barkley HOU 04/19/2000 HOU vs. VAN L 6 2 1 3 33.3 0 0 - 0 1 0.0 1 0 1 1 0 1 0 0 -7
+p4
+aVAnthony Miller HOU 04/19/2000 HOU vs. VAN L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 1 1 0 -3
+p5
+aVMoochie Norris HOU 04/19/2000 HOU vs. VAN L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 6 1 1 2 1 7
+p6
+aVKelvin Cato HOU 04/19/2000 HOU vs. VAN L 36 12 6 7 85.7 0 0 - 0 0 - 0 3 3 0 0 4 1 5 -2
+p7
+aVCuttino Mobley HOU 04/19/2000 HOU vs. VAN L 30 7 2 11 18.2 0 2 0.0 3 4 75.0 0 2 2 0 1 0 4 3 -3
+p8
+aVShandon Anderson HOU 04/19/2000 HOU vs. VAN L 30 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 1 0 0 1 3 5
+p9
+aVSteve Francis HOU 04/19/2000 HOU vs. VAN L 37 11 3 13 23.1 0 2 0.0 5 6 83.3 2 4 6 7 2 0 3 3 -10
+p10
+aVMatt Bullard HOU 04/19/2000 HOU vs. VAN L 12 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 0 2 0 0 0 -2
+p11
+aVWalt Williams HOU 04/18/2000 HOU @ PHX W 27 0 0 8 0.0 0 3 0.0 0 1 0.0 0 5 5 2 1 2 0 1 5
+p12
+aVAnthony Miller HOU 04/18/2000 HOU @ PHX W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 5
+p13
+aVKenny Thomas HOU 04/18/2000 HOU @ PHX W 23 5 1 7 14.3 1 2 50.0 2 2 100.0 2 3 5 0 0 0 2 3 -7
+p14
+aVShandon Anderson HOU 04/18/2000 HOU @ PHX W 45 35 12 20 60.0 6 11 54.5 5 8 62.5 1 3 4 1 2 1 5 3 7
+p15
+aVCuttino Mobley HOU 04/18/2000 HOU @ PHX W 34 24 7 15 46.7 3 4 75.0 7 8 87.5 1 4 5 5 1 0 3 3 14
+p16
+aVSteve Francis HOU 04/18/2000 HOU @ PHX W 42 27 10 12 83.3 1 1 100.0 6 8 75.0 3 4 7 8 2 2 8 2 13
+p17
+aVKelvin Cato HOU 04/18/2000 HOU @ PHX W 36 6 1 2 50.0 0 0 - 4 4 100.0 2 7 9 0 2 1 1 2 4
+p18
+aVMoochie Norris HOU 04/18/2000 HOU @ PHX W 21 8 2 4 50.0 1 1 100.0 3 4 75.0 1 3 4 2 0 0 0 1 4
+p19
+aVMatt Bullard HOU 04/16/2000 HOU vs. SEA L 24 15 6 9 66.7 3 5 60.0 0 0 - 0 1 1 2 0 2 1 1 11
+p20
+aVAnthony Miller HOU 04/16/2000 HOU vs. SEA L 21 8 4 5 80.0 0 0 - 0 0 - 2 7 9 2 0 0 1 3 23
+p21
+aVKelvin Cato HOU 04/16/2000 HOU vs. SEA L 20 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 1 1 0 1 -29
+p22
+aVKenny Thomas HOU 04/16/2000 HOU vs. SEA L 17 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 0 0 2 0 -26
+p23
+aVSteve Francis HOU 04/16/2000 HOU vs. SEA L 44 20 6 12 50.0 1 3 33.3 7 10 70.0 4 5 9 8 2 1 9 3 -13
+p24
+aVCuttino Mobley HOU 04/16/2000 HOU vs. SEA L 46 35 14 24 58.3 4 8 50.0 3 3 100.0 2 7 9 1 0 3 4 5 -10
+p25
+aVShandon Anderson HOU 04/16/2000 HOU vs. SEA L 40 15 5 13 38.5 2 7 28.6 3 4 75.0 1 6 7 3 3 0 5 3 -15
+p26
+aVMoochie Norris HOU 04/16/2000 HOU vs. SEA L 27 9 3 11 27.3 0 2 0.0 3 4 75.0 0 3 3 10 2 0 0 2 14
+p27
+aVCuttino Mobley HOU 04/13/2000 HOU vs. DAL W 30 20 8 12 66.7 1 2 50.0 3 4 75.0 0 7 7 2 0 0 2 1 12
+p28
+aVKenny Thomas HOU 04/13/2000 HOU vs. DAL W 32 8 2 8 25.0 0 0 - 4 5 80.0 2 5 7 3 1 0 4 5 3
+p29
+aVMoochie Norris HOU 04/13/2000 HOU vs. DAL W 22 19 6 9 66.7 1 1 100.0 6 7 85.7 0 1 1 5 0 0 1 2 12
+p30
+aVSteve Francis HOU 04/13/2000 HOU vs. DAL W 41 16 6 19 31.6 1 3 33.3 3 4 75.0 5 6 11 7 0 1 3 4 4
+p31
+aVMatt Bullard HOU 04/13/2000 HOU vs. DAL W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 6
+p32
+aVWalt Williams HOU 04/13/2000 HOU vs. DAL W 36 21 8 11 72.7 4 6 66.7 1 1 100.0 1 10 11 6 1 0 1 6 6
+p33
+aVShandon Anderson HOU 04/13/2000 HOU vs. DAL W 44 14 6 13 46.2 1 3 33.3 1 2 50.0 3 2 5 2 0 0 1 4 9
+p34
+aVKelvin Cato HOU 04/13/2000 HOU vs. DAL W 22 11 5 6 83.3 0 0 - 1 2 50.0 0 1 1 0 0 2 2 0 -7
+p35
+aVMatt Bullard HOU 04/11/2000 HOU @ DEN W 15 10 3 6 50.0 1 3 33.3 3 4 75.0 0 0 0 1 0 0 1 1 6
+p36
+aVKenny Thomas HOU 04/11/2000 HOU @ DEN W 30 15 6 13 46.2 1 3 33.3 2 2 100.0 1 8 9 0 0 0 1 3 8
+p37
+aVCuttino Mobley HOU 04/11/2000 HOU @ DEN W 33 15 6 14 42.9 0 2 0.0 3 5 60.0 1 4 5 2 1 3 1 2 13
+p38
+aVKelvin Cato HOU 04/11/2000 HOU @ DEN W 27 10 3 6 50.0 0 0 - 4 5 80.0 2 2 4 0 0 1 1 3 -6
+p39
+aVShandon Anderson HOU 04/11/2000 HOU @ DEN W 41 13 4 11 36.4 0 3 0.0 5 8 62.5 0 9 9 2 1 0 3 2 8
+p40
+aVWalt Williams HOU 04/11/2000 HOU @ DEN W 36 23 7 12 58.3 4 4 100.0 5 8 62.5 5 7 12 3 1 2 2 3 11
+p41
+aVAnthony Miller HOU 04/11/2000 HOU @ DEN W 8 2 1 1 100.0 0 0 - 0 2 0.0 2 2 4 0 0 1 0 3 -1
+p42
+aVSteve Francis HOU 04/11/2000 HOU @ DEN W 42 13 6 15 40.0 1 1 100.0 0 2 0.0 3 5 8 11 1 0 4 2 9
+p43
+aVMoochie Norris HOU 04/11/2000 HOU @ DEN W 8 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 0 2
+p44
+aVMoochie Norris HOU 04/09/2000 HOU vs. UTA W 18 7 2 4 50.0 1 2 50.0 2 2 100.0 1 2 3 3 2 0 2 2 8
+p45
+aVKenny Thomas HOU 04/09/2000 HOU vs. UTA W 31 3 0 6 0.0 0 2 0.0 3 4 75.0 4 8 12 2 1 0 3 4 3
+p46
+aVWalt Williams HOU 04/09/2000 HOU vs. UTA W 33 21 7 10 70.0 2 3 66.7 5 5 100.0 0 1 1 3 1 0 2 3 1
+p47
+aVShandon Anderson HOU 04/09/2000 HOU vs. UTA W 42 13 3 11 27.3 2 6 33.3 5 6 83.3 1 5 6 2 0 1 2 2 8
+p48
+aVMatt Bullard HOU 04/09/2000 HOU vs. UTA W 15 6 2 3 66.7 2 3 66.7 0 0 - 0 3 3 1 0 0 1 1 8
+p49
+aVKelvin Cato HOU 04/09/2000 HOU vs. UTA W 35 7 2 4 50.0 0 1 0.0 3 4 75.0 0 7 7 1 0 0 2 2 8
+p50
+aVSteve Francis HOU 04/09/2000 HOU vs. UTA W 35 26 8 17 47.1 4 5 80.0 6 8 75.0 2 3 5 7 0 1 2 6 5
+p51
+aVCuttino Mobley HOU 04/09/2000 HOU vs. UTA W 31 16 6 14 42.9 2 6 33.3 2 3 66.7 0 3 3 2 0 0 1 3 4
+p52
+aVAnthony Miller HOU 04/07/2000 HOU @ SEA W 3 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -7
+p53
+aVSteve Francis HOU 04/07/2000 HOU @ SEA W 43 31 13 21 61.9 3 6 50.0 2 2 100.0 0 6 6 7 2 0 4 4 9
+p54
+aVCuttino Mobley HOU 04/07/2000 HOU @ SEA W 28 22 6 15 40.0 0 3 0.0 10 11 90.9 1 1 2 3 0 1 1 3 -5
+p55
+aVMoochie Norris HOU 04/07/2000 HOU @ SEA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -6
+p56
+aVMatt Bullard HOU 04/07/2000 HOU @ SEA W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p57
+aVKelvin Cato HOU 04/07/2000 HOU @ SEA W 35 6 1 2 50.0 0 0 - 4 4 100.0 2 7 9 2 1 2 3 5 9
+p58
+aVShandon Anderson HOU 04/07/2000 HOU @ SEA W 44 28 12 17 70.6 0 2 0.0 4 5 80.0 2 5 7 4 2 1 2 2 4
+p59
+aVWalt Williams HOU 04/07/2000 HOU @ SEA W 45 23 8 13 61.5 5 8 62.5 2 2 100.0 2 3 5 7 0 2 3 1 10
+p60
+aVKenny Thomas HOU 04/07/2000 HOU @ SEA W 30 7 3 9 33.3 1 2 50.0 0 0 - 0 5 5 0 0 0 3 2 9
+p61
+aVAnthony Miller HOU 04/05/2000 HOU @ POR W 15 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 2 0 0 1 2 2
+p62
+aVShandon Anderson HOU 04/05/2000 HOU @ POR W 44 30 10 12 83.3 1 3 33.3 9 9 100.0 3 7 10 3 1 0 3 2 12
+p63
+aVSteve Francis HOU 04/05/2000 HOU @ POR W 41 18 7 12 58.3 1 5 20.0 3 3 100.0 0 5 5 7 2 0 3 3 12
+p64
+aVKenny Thomas HOU 04/05/2000 HOU @ POR W 26 10 4 6 66.7 1 2 50.0 1 2 50.0 0 2 2 3 0 0 0 2 17
+p65
+aVWalt Williams HOU 04/05/2000 HOU @ POR W 26 18 7 10 70.0 4 4 100.0 0 0 - 2 1 3 3 0 0 0 3 6
+p66
+aVMatt Bullard HOU 04/05/2000 HOU @ POR W 12 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 1 0 1 0 0 3
+p67
+aVCuttino Mobley HOU 04/05/2000 HOU @ POR W 36 22 8 15 53.3 1 3 33.3 5 6 83.3 0 5 5 3 0 0 3 4 1
+p68
+aVMoochie Norris HOU 04/05/2000 HOU @ POR W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p69
+aVKelvin Cato HOU 04/05/2000 HOU @ POR W 33 9 4 8 50.0 0 0 - 1 2 50.0 0 5 5 2 0 2 1 2 11
+p70
+aVKelvin Cato HOU 04/04/2000 HOU @ VAN L 37 16 7 10 70.0 0 0 - 2 2 100.0 3 10 13 1 0 5 1 0 17
+p71
+aVShandon Anderson HOU 04/04/2000 HOU @ VAN L 31 9 3 10 30.0 0 1 0.0 3 3 100.0 1 6 7 3 0 2 4 1 6
+p72
+aVSteve Francis HOU 04/04/2000 HOU @ VAN L 40 30 13 24 54.2 3 5 60.0 1 2 50.0 1 3 4 5 1 1 6 4 -9
+p73
+aVKenny Thomas HOU 04/04/2000 HOU @ VAN L 36 10 3 10 30.0 0 1 0.0 4 4 100.0 3 8 11 2 0 1 2 2 0
+p74
+aVCuttino Mobley HOU 04/04/2000 HOU @ VAN L 28 18 6 11 54.5 2 2 100.0 4 4 100.0 2 5 7 0 0 0 3 3 -17
+p75
+aVMatt Bullard HOU 04/04/2000 HOU @ VAN L 22 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 0 0 0 0 2 -10
+p76
+aVMoochie Norris HOU 04/04/2000 HOU @ VAN L 18 6 2 5 40.0 1 3 33.3 1 1 100.0 0 0 0 4 0 0 0 1 -7
+p77
+aVWalt Williams HOU 04/04/2000 HOU @ VAN L 20 9 4 5 80.0 1 1 100.0 0 0 - 2 3 5 1 2 0 3 4 14
+p78
+aVBryce Drew HOU 04/04/2000 HOU @ VAN L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -4
+p79
+aVAnthony Miller HOU 04/01/2000 HOU vs. ATL W 7 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 5
+p80
+aVBryce Drew HOU 04/01/2000 HOU vs. ATL W 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 2
+p81
+aVSteve Francis HOU 04/01/2000 HOU vs. ATL W 31 16 7 14 50.0 1 2 50.0 1 1 100.0 2 2 4 2 1 1 4 3 12
+p82
+aVMoochie Norris HOU 04/01/2000 HOU vs. ATL W 17 8 4 5 80.0 0 0 - 0 0 - 0 3 3 1 2 0 2 0 10
+p83
+aVCuttino Mobley HOU 04/01/2000 HOU vs. ATL W 26 24 8 14 57.1 1 1 100.0 7 7 100.0 1 4 5 4 0 3 1 5 19
+p84
+aVShandon Anderson HOU 04/01/2000 HOU vs. ATL W 30 12 4 9 44.4 1 3 33.3 3 5 60.0 0 1 1 2 0 0 3 2 5
+p85
+aVMatt Bullard HOU 04/01/2000 HOU vs. ATL W 15 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 8
+p86
+aVKenny Thomas HOU 04/01/2000 HOU vs. ATL W 40 18 7 18 38.9 0 3 0.0 4 7 57.1 7 15 22 6 0 2 0 1 20
+p87
+aVKelvin Cato HOU 04/01/2000 HOU vs. ATL W 41 21 9 16 56.3 0 0 - 3 4 75.0 3 12 15 2 0 3 0 2 17
+p88
+aVWalt Williams HOU 04/01/2000 HOU vs. ATL W 28 12 5 8 62.5 1 1 100.0 1 1 100.0 1 2 3 5 0 2 1 0 12
+p89
+aVKenny Thomas HOU 03/30/2000 HOU @ MIN L 32 16 4 7 57.1 0 0 - 8 12 66.7 5 2 7 2 1 1 3 1 -16
+p90
+aVAnthony Miller HOU 03/30/2000 HOU @ MIN L 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -2
+p91
+aVBryce Drew HOU 03/30/2000 HOU @ MIN L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -5
+p92
+aVMatt Bullard HOU 03/30/2000 HOU @ MIN L 19 2 1 8 12.5 0 1 0.0 0 0 - 0 2 2 2 1 0 1 1 -14
+p93
+aVSteve Francis HOU 03/30/2000 HOU @ MIN L 36 16 3 10 30.0 0 4 0.0 10 11 90.9 1 0 1 4 1 0 2 1 -29
+p94
+aVKelvin Cato HOU 03/30/2000 HOU @ MIN L 26 9 2 5 40.0 0 0 - 5 5 100.0 1 0 1 1 0 0 1 1 -19
+p95
+aVWalt Williams HOU 03/30/2000 HOU @ MIN L 34 18 7 11 63.6 0 1 0.0 4 4 100.0 0 7 7 1 0 0 3 2 -16
+p96
+aVMoochie Norris HOU 03/30/2000 HOU @ MIN L 18 10 3 6 50.0 0 0 - 4 7 57.1 2 1 3 1 1 0 0 3 -15
+p97
+aVDevin Gray HOU 03/30/2000 HOU @ MIN L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p98
+aVCuttino Mobley HOU 03/30/2000 HOU @ MIN L 25 10 3 9 33.3 0 1 0.0 4 4 100.0 0 2 2 0 1 2 0 1 -20
+p99
+aVShandon Anderson HOU 03/30/2000 HOU @ MIN L 32 7 2 9 22.2 0 3 0.0 3 4 75.0 2 4 6 1 1 0 4 1 -17
+p100
+aVBryce Drew HOU 03/28/2000 HOU vs. GSW W 9 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 3
+p101
+aVKelvin Cato HOU 03/28/2000 HOU vs. GSW W 30 18 7 11 63.6 0 0 - 4 6 66.7 2 7 9 0 0 3 2 3 18
+p102
+aVMatt Bullard HOU 03/28/2000 HOU vs. GSW W 16 10 4 5 80.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 19
+p103
+aVAnthony Miller HOU 03/28/2000 HOU vs. GSW W 16 6 3 7 42.9 0 0 - 0 0 - 3 3 6 0 0 1 1 1 15
+p104
+aVSteve Francis HOU 03/28/2000 HOU vs. GSW W 34 15 6 9 66.7 0 2 0.0 3 4 75.0 3 5 8 5 3 0 2 0 23
+p105
+aVCuttino Mobley HOU 03/28/2000 HOU vs. GSW W 22 16 5 9 55.6 2 3 66.7 4 4 100.0 2 3 5 5 2 0 2 1 18
+p106
+aVCarlos Rogers HOU 03/28/2000 HOU vs. GSW W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p107
+aVWalt Williams HOU 03/28/2000 HOU vs. GSW W 37 20 8 18 44.4 2 5 40.0 2 2 100.0 2 9 11 6 0 2 1 3 25
+p108
+aVKenny Thomas HOU 03/28/2000 HOU vs. GSW W 30 5 1 7 14.3 0 3 0.0 3 4 75.0 1 8 9 2 0 1 4 2 18
+p109
+aVShandon Anderson HOU 03/28/2000 HOU vs. GSW W 30 20 6 11 54.5 1 5 20.0 7 8 87.5 2 2 4 5 2 0 3 0 22
+p110
+aVMoochie Norris HOU 03/28/2000 HOU vs. GSW W 14 7 2 5 40.0 0 1 0.0 3 4 75.0 0 0 0 6 1 0 1 1 12
+p111
+aVBryce Drew HOU 03/26/2000 HOU vs. CHI W 25 6 3 5 60.0 0 0 - 0 0 - 1 2 3 6 1 0 0 2 14
+p112
+aVCuttino Mobley HOU 03/26/2000 HOU vs. CHI W 24 15 5 13 38.5 3 7 42.9 2 2 100.0 2 3 5 3 0 0 0 2 11
+p113
+aVCarlos Rogers HOU 03/26/2000 HOU vs. CHI W 22 8 3 6 50.0 0 0 - 2 2 100.0 1 7 8 1 0 0 1 2 13
+p114
+aVMoochie Norris HOU 03/26/2000 HOU vs. CHI W 15 14 4 7 57.1 2 2 100.0 4 4 100.0 1 0 1 2 1 0 0 0 10
+p115
+aVAnthony Miller HOU 03/26/2000 HOU vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p116
+aVWalt Williams HOU 03/26/2000 HOU vs. CHI W 24 24 9 14 64.3 2 4 50.0 4 5 80.0 0 1 1 0 1 2 2 1 34
+p117
+aVKelvin Cato HOU 03/26/2000 HOU vs. CHI W 24 8 4 5 80.0 0 0 - 0 0 - 2 2 4 0 0 3 1 2 37
+p118
+aVKenny Thomas HOU 03/26/2000 HOU vs. CHI W 29 13 4 10 40.0 0 3 0.0 5 8 62.5 3 7 10 6 3 0 2 1 30
+p119
+aVSteve Francis HOU 03/26/2000 HOU vs. CHI W 27 19 7 13 53.8 4 8 50.0 1 2 50.0 0 4 4 3 1 0 2 3 26
+p120
+aVMatt Bullard HOU 03/26/2000 HOU vs. CHI W 18 5 2 7 28.6 1 4 25.0 0 0 - 0 4 4 3 1 0 1 1 9
+p121
+aVShandon Anderson HOU 03/26/2000 HOU vs. CHI W 29 11 4 5 80.0 3 4 75.0 0 0 - 1 5 6 8 1 1 3 0 40
+p122
+aVCuttino Mobley HOU 03/24/2000 HOU @ ORL L 38 19 7 22 31.8 2 7 28.6 3 3 100.0 1 4 5 4 4 0 4 3 -5
+p123
+aVSteve Francis HOU 03/24/2000 HOU @ ORL L 38 12 2 9 22.2 1 4 25.0 7 8 87.5 1 4 5 6 1 3 6 5 -19
+p124
+aVMoochie Norris HOU 03/24/2000 HOU @ ORL L 21 8 1 3 33.3 0 1 0.0 6 6 100.0 1 2 3 6 0 0 1 1 -10
+p125
+aVDevin Gray HOU 03/24/2000 HOU @ ORL L 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 1
+p126
+aVKelvin Cato HOU 03/24/2000 HOU @ ORL L 22 0 0 4 0.0 0 0 - 0 0 - 1 3 4 1 0 2 1 5 -12
+p127
+aVShandon Anderson HOU 03/24/2000 HOU @ ORL L 46 35 11 21 52.4 5 10 50.0 8 10 80.0 0 9 9 5 0 1 5 2 -15
+p128
+aVCarlos Rogers HOU 03/24/2000 HOU @ ORL L 21 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 0 0 2 0 1 -5
+p129
+aVBryce Drew HOU 03/24/2000 HOU @ ORL L 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -3
+p130
+aVAnthony Miller HOU 03/24/2000 HOU @ ORL L 18 9 3 4 75.0 0 0 - 3 4 75.0 2 3 5 2 0 0 0 1 -1
+p131
+aVKenny Thomas HOU 03/24/2000 HOU @ ORL L 27 4 2 5 40.0 0 2 0.0 0 0 - 2 7 9 1 0 1 1 3 -11
+p132
+aVAnthony Miller HOU 03/23/2000 HOU vs. LAC W 12 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 0 0 1 0 2 5
+p133
+aVKenny Thomas HOU 03/23/2000 HOU vs. LAC W 16 2 1 3 33.3 0 1 0.0 0 2 0.0 0 2 2 1 0 0 2 3 18
+p134
+aVBryce Drew HOU 03/23/2000 HOU vs. LAC W 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 3 0 0 0 1 -1
+p135
+aVKelvin Cato HOU 03/23/2000 HOU vs. LAC W 21 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 1 1 3 0
+p136
+aVDevin Gray HOU 03/23/2000 HOU vs. LAC W 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -1
+p137
+aVCarlos Rogers HOU 03/23/2000 HOU vs. LAC W 12 4 2 3 66.7 0 1 0.0 0 2 0.0 0 1 1 0 0 0 0 0 -8
+p138
+aVSteve Francis HOU 03/23/2000 HOU vs. LAC W 41 34 13 19 68.4 3 3 100.0 5 6 83.3 1 8 9 14 3 0 2 4 12
+p139
+aVCuttino Mobley HOU 03/23/2000 HOU vs. LAC W 44 30 13 23 56.5 2 6 33.3 2 5 40.0 1 6 7 4 1 0 8 1 14
+p140
+aVShandon Anderson HOU 03/23/2000 HOU vs. LAC W 31 8 4 8 50.0 0 0 - 0 0 - 0 2 2 0 1 0 3 2 6
+p141
+aVWalt Williams HOU 03/23/2000 HOU vs. LAC W 32 21 10 15 66.7 1 3 33.3 0 0 - 1 6 7 6 4 1 2 4 21
+p142
+aVMoochie Norris HOU 03/23/2000 HOU vs. LAC W 17 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 6 0 0 0 1 9
+p143
+aVCarlos Rogers HOU 03/20/2000 HOU @ CLE L 24 8 3 4 75.0 0 0 - 2 8 25.0 1 6 7 2 0 1 1 3 -9
+p144
+aVKelvin Cato HOU 03/20/2000 HOU @ CLE L 24 10 4 10 40.0 0 0 - 2 2 100.0 2 5 7 0 3 3 1 2 -11
+p145
+aVWalt Williams HOU 03/20/2000 HOU @ CLE L 21 17 7 9 77.8 1 1 100.0 2 2 100.0 0 6 6 2 1 0 2 1 -6
+p146
+aVBryce Drew HOU 03/20/2000 HOU @ CLE L 19 4 2 3 66.7 0 0 - 0 0 - 0 1 1 3 1 0 0 1 0
+p147
+aVShandon Anderson HOU 03/20/2000 HOU @ CLE L 27 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 3 0 0 2 0 -8
+p148
+aVAnthony Miller HOU 03/20/2000 HOU @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p149
+aVDevin Gray HOU 03/20/2000 HOU @ CLE L 3 4 1 2 50.0 0 0 - 2 4 50.0 1 0 1 0 0 0 0 1 0
+p150
+aVCuttino Mobley HOU 03/20/2000 HOU @ CLE L 24 11 4 10 40.0 0 2 0.0 3 3 100.0 0 2 2 4 0 0 3 1 -7
+p151
+aVHakeem Olajuwon HOU 03/20/2000 HOU @ CLE L 16 2 1 5 20.0 0 0 - 0 0 - 1 3 4 3 0 1 2 3 -4
+p152
+aVKenny Thomas HOU 03/20/2000 HOU @ CLE L 29 4 2 5 40.0 0 2 0.0 0 2 0.0 0 3 3 4 3 1 3 3 -2
+p153
+aVMoochie Norris HOU 03/20/2000 HOU @ CLE L 22 8 3 11 27.3 1 3 33.3 1 2 50.0 0 1 1 4 0 0 1 1 -8
+p154
+aVSteve Francis HOU 03/20/2000 HOU @ CLE L 29 17 8 14 57.1 1 4 25.0 0 0 - 2 3 5 4 2 0 5 2 -10
+p155
+aVCarlos Rogers HOU 03/19/2000 HOU @ TOR L 12 2 0 2 0.0 0 0 - 2 4 50.0 0 2 2 1 0 1 0 0 -11
+p156
+aVSteve Francis HOU 03/19/2000 HOU @ TOR L 45 16 4 9 44.4 2 5 40.0 6 6 100.0 2 5 7 7 0 1 1 3 6
+p157
+aVMoochie Norris HOU 03/19/2000 HOU @ TOR L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 0 -7
+p158
+aVWalt Williams HOU 03/19/2000 HOU @ TOR L 37 19 7 15 46.7 1 4 25.0 4 4 100.0 2 3 5 2 0 0 0 2 5
+p159
+aVShandon Anderson HOU 03/19/2000 HOU @ TOR L 41 25 9 13 69.2 3 4 75.0 4 7 57.1 3 5 8 4 3 0 3 0 3
+p160
+aVKelvin Cato HOU 03/19/2000 HOU @ TOR L 13 5 1 3 33.3 0 0 - 3 4 75.0 2 1 3 0 0 0 1 4 -10
+p161
+aVCuttino Mobley HOU 03/19/2000 HOU @ TOR L 25 8 3 9 33.3 1 3 33.3 1 2 50.0 0 1 1 2 0 0 1 3 -23
+p162
+aVHakeem Olajuwon HOU 03/19/2000 HOU @ TOR L 27 12 5 11 45.5 0 0 - 2 3 66.7 2 1 3 1 1 2 2 4 11
+p163
+aVBryce Drew HOU 03/19/2000 HOU @ TOR L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p164
+aVKenny Thomas HOU 03/19/2000 HOU @ TOR L 26 7 3 7 42.9 1 3 33.3 0 0 - 0 8 8 4 1 0 1 1 20
+p165
+aVCarlos Rogers HOU 03/17/2000 HOU @ IND L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p166
+aVDevin Gray HOU 03/17/2000 HOU @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -5
+p167
+aVKelvin Cato HOU 03/17/2000 HOU @ IND L 29 5 2 2 100.0 0 0 - 1 2 50.0 2 6 8 0 0 3 1 3 4
+p168
+aVKenny Thomas HOU 03/17/2000 HOU @ IND L 19 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -13
+p169
+aVMoochie Norris HOU 03/17/2000 HOU @ IND L 19 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -5
+p170
+aVCuttino Mobley HOU 03/17/2000 HOU @ IND L 32 25 9 14 64.3 3 5 60.0 4 5 80.0 0 4 4 4 2 0 3 2 1
+p171
+aVSteve Francis HOU 03/17/2000 HOU @ IND L 41 12 4 14 28.6 2 6 33.3 2 3 66.7 1 3 4 1 1 0 2 3 -6
+p172
+aVWalt Williams HOU 03/17/2000 HOU @ IND L 28 16 7 17 41.2 0 2 0.0 2 2 100.0 1 4 5 1 0 0 3 5 -2
+p173
+aVShandon Anderson HOU 03/17/2000 HOU @ IND L 43 22 7 13 53.8 1 2 50.0 7 7 100.0 0 6 6 6 1 0 3 4 -5
+p174
+aVHakeem Olajuwon HOU 03/17/2000 HOU @ IND L 15 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 3 0 2 2 1 -10
+p175
+aVCarlos Rogers HOU 03/16/2000 HOU @ MIL L 26 8 3 5 60.0 0 0 - 2 2 100.0 3 3 6 0 0 0 3 3 -17
+p176
+aVKelvin Cato HOU 03/16/2000 HOU @ MIL L 29 5 2 4 50.0 0 0 - 1 2 50.0 2 5 7 2 1 2 1 0 -1
+p177
+aVCuttino Mobley HOU 03/16/2000 HOU @ MIL L 34 20 5 13 38.5 3 4 75.0 7 7 100.0 1 4 5 3 0 0 3 1 -5
+p178
+aVWalt Williams HOU 03/16/2000 HOU @ MIL L 43 19 6 18 33.3 1 5 20.0 6 7 85.7 2 4 6 3 3 0 0 5 -10
+p179
+aVHakeem Olajuwon HOU 03/16/2000 HOU @ MIL L 16 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -7
+p180
+aVBryce Drew HOU 03/16/2000 HOU @ MIL L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 12
+p181
+aVSteve Francis HOU 03/16/2000 HOU @ MIL L 35 22 7 16 43.8 4 9 44.4 4 5 80.0 0 3 3 6 2 0 2 5 -11
+p182
+aVMoochie Norris HOU 03/16/2000 HOU @ MIL L 20 11 4 9 44.4 0 1 0.0 3 3 100.0 1 4 5 1 1 0 4 4 -1
+p183
+aVShandon Anderson HOU 03/16/2000 HOU @ MIL L 28 7 1 2 50.0 0 1 0.0 5 6 83.3 1 0 1 3 1 0 5 5 -10
+p184
+aVKenny Thomas HOU 03/14/2000 HOU @ NYK L 31 7 3 6 50.0 0 2 0.0 1 4 25.0 0 3 3 1 2 1 0 2 -1
+p185
+aVSteve Francis HOU 03/14/2000 HOU @ NYK L 41 32 12 17 70.6 3 7 42.9 5 6 83.3 1 4 5 4 4 0 3 4 -4
+p186
+aVKelvin Cato HOU 03/14/2000 HOU @ NYK L 18 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 2 1 5 -9
+p187
+aVCarlos Rogers HOU 03/14/2000 HOU @ NYK L 22 0 0 1 0.0 0 1 0.0 0 2 0.0 1 2 3 0 0 1 1 1 -7
+p188
+aVHakeem Olajuwon HOU 03/14/2000 HOU @ NYK L 28 4 0 9 0.0 0 0 - 4 4 100.0 1 5 6 0 0 1 1 4 5
+p189
+aVDevin Gray HOU 03/14/2000 HOU @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p190
+aVWalt Williams HOU 03/14/2000 HOU @ NYK L 15 9 2 6 33.3 0 2 0.0 5 6 83.3 0 1 1 2 0 0 2 4 2
+p191
+aVShandon Anderson HOU 03/14/2000 HOU @ NYK L 37 17 7 10 70.0 2 4 50.0 1 2 50.0 0 2 2 2 2 0 3 3 1
+p192
+aVAnthony Miller HOU 03/14/2000 HOU @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -8
+p193
+aVCuttino Mobley HOU 03/14/2000 HOU @ NYK L 34 8 3 10 30.0 0 2 0.0 2 2 100.0 0 4 4 2 1 0 7 3 -12
+p194
+aVMoochie Norris HOU 03/14/2000 HOU @ NYK L 8 6 2 6 33.3 0 0 - 2 4 50.0 0 1 1 1 0 0 0 0 -1
+p195
+aVSteve Francis HOU 03/11/2000 HOU vs. MIN L 34 19 5 13 38.5 2 6 33.3 7 8 87.5 1 5 6 4 0 0 5 5 -15
+p196
+aVAnthony Miller HOU 03/11/2000 HOU vs. MIN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 4
+p197
+aVCuttino Mobley HOU 03/11/2000 HOU vs. MIN L 20 11 4 7 57.1 0 2 0.0 3 3 100.0 1 1 2 2 1 0 1 0 -1
+p198
+aVKelvin Cato HOU 03/11/2000 HOU vs. MIN L 14 5 2 6 33.3 0 0 - 1 4 25.0 1 4 5 0 1 0 2 0 -22
+p199
+aVDevin Gray HOU 03/11/2000 HOU vs. MIN L 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 2 0 2 -4
+p200
+aVMoochie Norris HOU 03/11/2000 HOU vs. MIN L 27 6 2 6 33.3 2 3 66.7 0 0 - 2 4 6 5 0 0 1 1 -5
+p201
+aVShandon Anderson HOU 03/11/2000 HOU vs. MIN L 30 5 1 5 20.0 0 1 0.0 3 3 100.0 0 4 4 2 0 0 1 2 -16
+p202
+aVKenny Thomas HOU 03/11/2000 HOU vs. MIN L 27 9 3 9 33.3 0 2 0.0 3 6 50.0 4 3 7 2 0 1 0 2 -9
+p203
+aVCarlos Rogers HOU 03/11/2000 HOU vs. MIN L 27 12 4 12 33.3 0 2 0.0 4 5 80.0 2 5 7 2 0 0 1 1 -5
+p204
+aVBryce Drew HOU 03/11/2000 HOU vs. MIN L 19 6 2 7 28.6 1 3 33.3 1 1 100.0 1 1 2 1 0 0 1 0 -1
+p205
+aVHakeem Olajuwon HOU 03/11/2000 HOU vs. MIN L 24 9 4 9 44.4 0 0 - 1 5 20.0 2 4 6 2 0 1 2 1 4
+p206
+aVCarlos Rogers HOU 03/09/2000 HOU @ UTA L 31 5 2 3 66.7 0 0 - 1 3 33.3 2 6 8 1 0 1 2 2 -8
+p207
+aVShandon Anderson HOU 03/09/2000 HOU @ UTA L 37 16 5 10 50.0 3 5 60.0 3 4 75.0 2 1 3 1 0 0 1 3 -28
+p208
+aVHakeem Olajuwon HOU 03/09/2000 HOU @ UTA L 16 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 1 2 0 -10
+p209
+aVMoochie Norris HOU 03/09/2000 HOU @ UTA L 36 16 7 9 77.8 0 0 - 2 2 100.0 1 3 4 4 2 0 3 2 -10
+p210
+aVKelvin Cato HOU 03/09/2000 HOU @ UTA L 27 15 6 9 66.7 0 0 - 3 5 60.0 1 2 3 0 1 0 1 2 -6
+p211
+aVBryce Drew HOU 03/09/2000 HOU @ UTA L 31 11 3 9 33.3 1 4 25.0 4 4 100.0 1 1 2 4 2 0 1 1 -2
+p212
+aVKenny Thomas HOU 03/09/2000 HOU @ UTA L 21 1 0 4 0.0 0 2 0.0 1 2 50.0 1 4 5 1 2 0 2 3 -14
+p213
+aVSteve Francis HOU 03/09/2000 HOU @ UTA L 32 14 6 17 35.3 1 5 20.0 1 2 50.0 0 2 2 6 2 0 1 5 -14
+p214
+aVDevin Gray HOU 03/09/2000 HOU @ UTA L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -3
+p215
+aVWalt Williams HOU 03/07/2000 HOU vs. PHX L 15 5 1 4 25.0 1 3 33.3 2 2 100.0 1 2 3 1 0 1 2 1 -3
+p216
+aVKelvin Cato HOU 03/07/2000 HOU vs. PHX L 27 6 3 4 75.0 0 0 - 0 2 0.0 3 4 7 1 0 2 0 4 -5
+p217
+aVBryce Drew HOU 03/07/2000 HOU vs. PHX L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p218
+aVSteve Francis HOU 03/07/2000 HOU vs. PHX L 44 32 13 21 61.9 6 11 54.5 0 0 - 0 4 4 8 4 0 5 3 -13
+p219
+aVCuttino Mobley HOU 03/07/2000 HOU vs. PHX L 33 14 5 13 38.5 0 3 0.0 4 5 80.0 1 3 4 3 3 1 4 2 -4
+p220
+aVMoochie Norris HOU 03/07/2000 HOU vs. PHX L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 6
+p221
+aVHakeem Olajuwon HOU 03/07/2000 HOU vs. PHX L 23 12 5 13 38.5 0 0 - 2 3 66.7 3 5 8 1 0 0 1 1 -5
+p222
+aVCarlos Rogers HOU 03/07/2000 HOU vs. PHX L 18 6 3 6 50.0 0 0 - 0 0 - 2 3 5 2 0 0 1 1 10
+p223
+aVKenny Thomas HOU 03/07/2000 HOU vs. PHX L 29 6 3 8 37.5 0 4 0.0 0 0 - 2 4 6 2 1 0 1 2 -14
+p224
+aVShandon Anderson HOU 03/07/2000 HOU vs. PHX L 41 20 9 15 60.0 1 3 33.3 1 1 100.0 1 3 4 3 1 1 2 4 -13
+p225
+aVBryce Drew HOU 03/04/2000 HOU vs. NJN W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p226
+aVMoochie Norris HOU 03/04/2000 HOU vs. NJN W 21 5 2 7 28.6 0 2 0.0 1 2 50.0 1 4 5 4 0 0 2 1 -4
+p227
+aVCuttino Mobley HOU 03/04/2000 HOU vs. NJN W 25 14 5 13 38.5 0 2 0.0 4 6 66.7 0 7 7 1 1 0 2 3 9
+p228
+aVShandon Anderson HOU 03/04/2000 HOU vs. NJN W 43 13 5 11 45.5 2 4 50.0 1 2 50.0 1 4 5 4 1 1 1 1 7
+p229
+aVWalt Williams HOU 03/04/2000 HOU vs. NJN W 20 8 3 6 50.0 2 2 100.0 0 0 - 2 1 3 2 1 1 3 3 -6
+p230
+aVCarlos Rogers HOU 03/04/2000 HOU vs. NJN W 18 7 3 5 60.0 0 0 - 1 1 100.0 0 2 2 1 0 2 1 1 -4
+p231
+aVSteve Francis HOU 03/04/2000 HOU vs. NJN W 42 15 7 14 50.0 1 2 50.0 0 0 - 2 6 8 3 2 1 5 4 15
+p232
+aVHakeem Olajuwon HOU 03/04/2000 HOU vs. NJN W 24 12 5 9 55.6 0 0 - 2 3 66.7 5 2 7 2 0 3 4 2 -4
+p233
+aVKelvin Cato HOU 03/04/2000 HOU vs. NJN W 26 11 4 9 44.4 0 0 - 3 3 100.0 1 6 7 0 0 5 1 5 12
+p234
+aVKenny Thomas HOU 03/04/2000 HOU vs. NJN W 35 12 5 12 41.7 0 0 - 2 3 66.7 1 7 8 5 0 0 2 2 11
+p235
+aVAnthony Miller HOU 03/04/2000 HOU vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p236
+aVSteve Francis HOU 03/02/2000 HOU vs. SAC W 35 17 6 13 46.2 1 3 33.3 4 4 100.0 3 2 5 9 2 0 8 3 0
+p237
+aVKenny Thomas HOU 03/02/2000 HOU vs. SAC W 33 8 3 10 30.0 1 5 20.0 1 1 100.0 2 7 9 2 0 0 1 4 10
+p238
+aVBryce Drew HOU 03/02/2000 HOU vs. SAC W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 3
+p239
+aVShandon Anderson HOU 03/02/2000 HOU vs. SAC W 31 19 6 11 54.5 3 6 50.0 4 4 100.0 0 4 4 2 3 0 1 2 -7
+p240
+aVKelvin Cato HOU 03/02/2000 HOU vs. SAC W 28 7 3 7 42.9 0 0 - 1 2 50.0 2 6 8 0 2 1 1 3 8
+p241
+aVMoochie Norris HOU 03/02/2000 HOU vs. SAC W 25 16 5 9 55.6 2 2 100.0 4 5 80.0 0 4 4 5 3 0 2 2 9
+p242
+aVCarlos Rogers HOU 03/02/2000 HOU vs. SAC W 19 3 1 6 16.7 0 1 0.0 1 2 50.0 1 3 4 2 1 0 1 1 -11
+p243
+aVHakeem Olajuwon HOU 03/02/2000 HOU vs. SAC W 16 1 0 1 0.0 0 0 - 1 2 50.0 1 4 5 2 2 1 2 2 -1
+p244
+aVCuttino Mobley HOU 03/02/2000 HOU vs. SAC W 33 22 8 14 57.1 1 3 33.3 5 6 83.3 1 5 6 1 1 0 3 1 3
+p245
+aVWalt Williams HOU 03/02/2000 HOU vs. SAC W 15 6 3 10 30.0 0 3 0.0 0 0 - 1 2 3 2 0 0 4 2 1
+p246
+aVAnthony Miller HOU 02/28/2000 HOU @ LAC W 21 7 3 5 60.0 0 0 - 1 3 33.3 3 3 6 0 2 0 3 3 5
+p247
+aVDevin Gray HOU 02/28/2000 HOU @ LAC W 2 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p248
+aVSteve Francis HOU 02/28/2000 HOU @ LAC W 26 8 2 12 16.7 0 4 0.0 4 4 100.0 1 3 4 3 2 0 4 0 3
+p249
+aVKenny Thomas HOU 02/28/2000 HOU @ LAC W 16 6 2 8 25.0 2 3 66.7 0 0 - 4 2 6 0 2 0 1 2 -11
+p250
+aVShandon Anderson HOU 02/28/2000 HOU @ LAC W 29 5 2 8 25.0 1 3 33.3 0 0 - 0 6 6 5 1 0 3 3 5
+p251
+aVBryce Drew HOU 02/28/2000 HOU @ LAC W 19 9 3 6 50.0 2 3 66.7 1 2 50.0 0 1 1 2 0 0 1 0 14
+p252
+aVCarlos Rogers HOU 02/28/2000 HOU @ LAC W 29 13 5 8 62.5 0 0 - 3 3 100.0 1 7 8 2 0 2 1 1 15
+p253
+aVWalt Williams HOU 02/28/2000 HOU @ LAC W 19 7 2 7 28.6 1 3 33.3 2 2 100.0 1 1 2 1 0 1 1 0 4
+p254
+aVCuttino Mobley HOU 02/28/2000 HOU @ LAC W 29 21 7 18 38.9 3 7 42.9 4 6 66.7 4 4 8 2 1 0 1 1 15
+p255
+aVMoochie Norris HOU 02/28/2000 HOU @ LAC W 22 4 2 6 33.3 0 0 - 0 0 - 3 3 6 7 2 0 3 2 16
+p256
+aVMatt Bullard HOU 02/28/2000 HOU @ LAC W 28 14 5 11 45.5 4 8 50.0 0 0 - 0 7 7 5 0 0 1 2 26
+p257
+aVBryce Drew HOU 02/27/2000 HOU @ LAL L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 3 0 0 1 -6
+p258
+aVCuttino Mobley HOU 02/27/2000 HOU @ LAL L 33 29 7 17 41.2 3 5 60.0 12 12 100.0 0 3 3 1 2 0 2 3 -1
+p259
+aVMatt Bullard HOU 02/27/2000 HOU @ LAL L 20 6 2 8 25.0 1 2 50.0 1 2 50.0 0 2 2 0 1 0 0 5 -6
+p260
+aVCarlos Rogers HOU 02/27/2000 HOU @ LAL L 19 9 4 5 80.0 0 0 - 1 1 100.0 2 4 6 0 0 0 0 2 5
+p261
+aVKenny Thomas HOU 02/27/2000 HOU @ LAL L 26 14 4 10 40.0 2 5 40.0 4 4 100.0 3 2 5 2 1 0 1 3 -15
+p262
+aVShandon Anderson HOU 02/27/2000 HOU @ LAL L 21 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 1 1 4 2 -17
+p263
+aVHakeem Olajuwon HOU 02/27/2000 HOU @ LAL L 13 6 3 7 42.9 0 0 - 0 0 - 2 4 6 1 0 0 0 4 -11
+p264
+aVAnthony Miller HOU 02/27/2000 HOU @ LAL L 18 5 2 4 50.0 0 0 - 1 2 50.0 2 6 8 0 1 0 0 2 -5
+p265
+aVWalt Williams HOU 02/27/2000 HOU @ LAL L 21 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 2 1 0 0 0 -14
+p266
+aVSteve Francis HOU 02/27/2000 HOU @ LAL L 36 6 2 11 18.2 1 5 20.0 1 2 50.0 0 2 2 4 2 0 7 2 -13
+p267
+aVMoochie Norris HOU 02/27/2000 HOU @ LAL L 19 4 2 7 28.6 0 0 - 0 2 0.0 0 2 2 4 1 0 0 0 3
+p268
+aVHakeem Olajuwon HOU 02/24/2000 HOU vs. DEN L 23 10 3 7 42.9 0 0 - 4 5 80.0 3 3 6 1 0 1 1 2 -9
+p269
+aVCarlos Rogers HOU 02/24/2000 HOU vs. DEN L 25 9 4 4 100.0 0 0 - 1 1 100.0 3 5 8 2 0 2 1 2 0
+p270
+aVMatt Bullard HOU 02/24/2000 HOU vs. DEN L 14 3 1 5 20.0 1 2 50.0 0 0 - 1 0 1 1 0 1 1 2 -5
+p271
+aVKenny Thomas HOU 02/24/2000 HOU vs. DEN L 29 9 4 13 30.8 0 4 0.0 1 2 50.0 2 1 3 3 1 1 3 4 -18
+p272
+aVSteve Francis HOU 02/24/2000 HOU vs. DEN L 24 0 0 6 0.0 0 2 0.0 0 0 - 2 2 4 4 1 0 6 3 -11
+p273
+aVMoochie Norris HOU 02/24/2000 HOU vs. DEN L 6 8 3 4 75.0 1 1 100.0 1 2 50.0 1 1 2 1 1 0 0 0 14
+p274
+aVWalt Williams HOU 02/24/2000 HOU vs. DEN L 27 10 4 11 36.4 0 3 0.0 2 2 100.0 1 3 4 0 1 0 1 1 -5
+p275
+aVDevin Gray HOU 02/24/2000 HOU vs. DEN L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -16
+p276
+aVShandon Anderson HOU 02/24/2000 HOU vs. DEN L 33 14 7 11 63.6 0 1 0.0 0 1 0.0 1 6 7 2 2 0 2 1 -5
+p277
+aVAnthony Miller HOU 02/24/2000 HOU vs. DEN L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 14
+p278
+aVBryce Drew HOU 02/24/2000 HOU vs. DEN L 24 6 2 9 22.2 0 1 0.0 2 2 100.0 0 2 2 4 0 0 1 2 2
+p279
+aVCuttino Mobley HOU 02/24/2000 HOU vs. DEN L 24 24 9 12 75.0 3 3 100.0 3 3 100.0 0 3 3 0 0 0 3 2 -6
+p280
+aVKenny Thomas HOU 02/22/2000 HOU @ CHH L 45 20 9 15 60.0 2 6 33.3 0 0 - 4 4 8 3 2 0 3 2 -10
+p281
+aVShandon Anderson HOU 02/22/2000 HOU @ CHH L 27 6 2 5 40.0 0 2 0.0 2 2 100.0 0 3 3 4 0 0 0 2 -1
+p282
+aVWalt Williams HOU 02/22/2000 HOU @ CHH L 24 9 3 7 42.9 0 1 0.0 3 4 75.0 2 4 6 2 0 0 2 2 1
+p283
+aVCuttino Mobley HOU 02/22/2000 HOU @ CHH L 24 15 7 15 46.7 1 4 25.0 0 0 - 0 3 3 1 0 0 0 4 -4
+p284
+aVHakeem Olajuwon HOU 02/22/2000 HOU @ CHH L 28 6 3 7 42.9 0 0 - 0 0 - 0 5 5 3 1 2 1 1 -9
+p285
+aVMatt Bullard HOU 02/22/2000 HOU @ CHH L 20 7 3 7 42.9 1 4 25.0 0 0 - 0 1 1 1 0 0 1 0 -1
+p286
+aVSteve Francis HOU 02/22/2000 HOU @ CHH L 45 24 9 20 45.0 4 11 36.4 2 3 66.7 3 3 6 8 2 0 3 3 -5
+p287
+aVCarlos Rogers HOU 02/22/2000 HOU @ CHH L 20 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 1 0 0 1 4
+p288
+aVBryce Drew HOU 02/22/2000 HOU @ CHH L 6 4 2 2 100.0 0 0 - 0 2 0.0 1 0 1 2 1 0 0 1 0
+p289
+aVCuttino Mobley HOU 02/20/2000 HOU vs. SAS L 39 20 8 17 47.1 1 5 20.0 3 4 75.0 0 3 3 3 1 2 1 3 5
+p290
+aVBryce Drew HOU 02/20/2000 HOU vs. SAS L 14 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 9
+p291
+aVSteve Francis HOU 02/20/2000 HOU vs. SAS L 51 19 7 17 41.2 3 5 60.0 2 2 100.0 1 4 5 12 2 0 5 1 -1
+p292
+aVShandon Anderson HOU 02/20/2000 HOU vs. SAS L 34 12 2 8 25.0 0 2 0.0 8 9 88.9 0 5 5 2 1 0 5 3 -16
+p293
+aVHakeem Olajuwon HOU 02/20/2000 HOU vs. SAS L 34 21 10 16 62.5 0 0 - 1 3 33.3 2 7 9 0 0 4 2 4 -11
+p294
+aVWalt Williams HOU 02/20/2000 HOU vs. SAS L 21 5 2 4 50.0 0 2 0.0 1 2 50.0 1 2 3 1 0 1 2 0 -3
+p295
+aVCarlos Rogers HOU 02/20/2000 HOU vs. SAS L 11 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 1 0 1 -4
+p296
+aVKenny Thomas HOU 02/20/2000 HOU vs. SAS L 43 16 4 10 40.0 1 4 25.0 7 8 87.5 6 3 9 2 2 0 2 5 -3
+p297
+aVMatt Bullard HOU 02/20/2000 HOU vs. SAS L 18 11 4 7 57.1 3 5 60.0 0 0 - 1 6 7 1 2 0 1 4 14
+p298
+aVKenny Thomas HOU 02/18/2000 HOU @ SAS L 33 9 3 9 33.3 0 2 0.0 3 5 60.0 1 4 5 2 3 1 4 4 -18
+p299
+aVMoochie Norris HOU 02/18/2000 HOU @ SAS L 11 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 1 0 0 1 2 -4
+p300
+aVHakeem Olajuwon HOU 02/18/2000 HOU @ SAS L 23 8 3 8 37.5 0 0 - 2 4 50.0 1 1 2 2 2 1 2 4 -8
+p301
+aVShandon Anderson HOU 02/18/2000 HOU @ SAS L 35 14 4 9 44.4 0 2 0.0 6 8 75.0 1 3 4 3 1 0 3 2 -20
+p302
+aVBryce Drew HOU 02/18/2000 HOU @ SAS L 19 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 3 0 0 1 2 -3
+p303
+aVCuttino Mobley HOU 02/18/2000 HOU @ SAS L 31 2 1 8 12.5 0 3 0.0 0 0 - 0 1 1 4 1 0 4 1 -2
+p304
+aVKelvin Cato HOU 02/18/2000 HOU @ SAS L 20 10 5 8 62.5 0 1 0.0 0 0 - 1 6 7 0 1 3 2 1 -25
+p305
+aVDevin Gray HOU 02/18/2000 HOU @ SAS L 4 6 3 5 60.0 0 0 - 0 1 0.0 3 1 4 1 0 0 0 0 8
+p306
+aVSteve Francis HOU 02/18/2000 HOU @ SAS L 31 18 6 12 50.0 1 2 50.0 5 5 100.0 3 5 8 3 0 0 5 1 -21
+p307
+aVAnthony Miller HOU 02/18/2000 HOU @ SAS L 7 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 0 0
+p308
+aVMatt Bullard HOU 02/18/2000 HOU @ SAS L 9 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 -5
+p309
+aVWalt Williams HOU 02/18/2000 HOU @ SAS L 17 5 2 7 28.6 1 1 100.0 0 0 - 1 1 2 2 0 0 2 3 -22
+p310
+aVHakeem Olajuwon HOU 02/15/2000 HOU vs. DET W 21 11 5 8 62.5 0 0 - 1 2 50.0 2 5 7 0 0 1 2 5 15
+p311
+aVSteve Francis HOU 02/15/2000 HOU vs. DET W 30 10 4 7 57.1 1 3 33.3 1 2 50.0 3 3 6 7 1 0 4 5 2
+p312
+aVWalt Williams HOU 02/15/2000 HOU vs. DET W 16 13 5 12 41.7 3 5 60.0 0 0 - 0 2 2 0 0 1 2 5 -5
+p313
+aVBryce Drew HOU 02/15/2000 HOU vs. DET W 18 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 6 1 0 0 0 3
+p314
+aVKelvin Cato HOU 02/15/2000 HOU vs. DET W 24 5 2 5 40.0 0 0 - 1 3 33.3 2 11 13 1 0 0 1 3 -4
+p315
+aVCuttino Mobley HOU 02/15/2000 HOU vs. DET W 36 21 5 12 41.7 3 5 60.0 8 8 100.0 0 4 4 4 2 2 4 3 4
+p316
+aVMatt Bullard HOU 02/15/2000 HOU vs. DET W 16 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 0 0 1 1 -4
+p317
+aVShandon Anderson HOU 02/15/2000 HOU vs. DET W 45 25 9 20 45.0 1 5 20.0 6 6 100.0 3 3 6 4 3 0 3 4 8
+p318
+aVDevin Gray HOU 02/15/2000 HOU vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p319
+aVKenny Thomas HOU 02/15/2000 HOU vs. DET W 32 17 7 10 70.0 1 1 100.0 2 4 50.0 2 5 7 1 1 0 2 4 9
+p320
+aVSteve Francis HOU 02/09/2000 HOU @ ATL L 24 13 5 13 38.5 0 3 0.0 3 3 100.0 1 1 2 2 1 3 1 1 -20
+p321
+aVMatt Bullard HOU 02/09/2000 HOU @ ATL L 21 5 2 4 50.0 1 3 33.3 0 0 - 0 5 5 0 1 0 1 1 -18
+p322
+aVHakeem Olajuwon HOU 02/09/2000 HOU @ ATL L 21 12 5 10 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 -16
+p323
+aVBryce Drew HOU 02/09/2000 HOU @ ATL L 22 11 4 10 40.0 1 5 20.0 2 2 100.0 0 2 2 3 3 0 1 2 -3
+p324
+aVShandon Anderson HOU 02/09/2000 HOU @ ATL L 32 5 1 6 16.7 0 0 - 3 4 75.0 1 1 2 2 0 0 2 0 -19
+p325
+aVWalt Williams HOU 02/09/2000 HOU @ ATL L 23 3 1 7 14.3 1 3 33.3 0 0 - 0 2 2 1 1 0 1 4 -12
+p326
+aVDevin Gray HOU 02/09/2000 HOU @ ATL L 14 6 1 3 33.3 0 0 - 4 8 50.0 1 2 3 0 2 0 0 5 10
+p327
+aVMoochie Norris HOU 02/09/2000 HOU @ ATL L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 2 1 0 0 0 14
+p328
+aVCuttino Mobley HOU 02/09/2000 HOU @ ATL L 30 30 12 19 63.2 1 5 20.0 5 6 83.3 0 2 2 1 1 0 0 2 -5
+p329
+aVKenny Thomas HOU 02/09/2000 HOU @ ATL L 27 10 3 6 50.0 2 3 66.7 2 2 100.0 2 3 5 2 1 0 2 1 2
+p330
+aVKelvin Cato HOU 02/09/2000 HOU @ ATL L 18 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 0 0 1 2 -13
+p331
+aVSteve Francis HOU 02/08/2000 HOU vs. CLE W 24 4 2 13 15.4 0 3 0.0 0 2 0.0 0 3 3 5 1 0 2 3 -11
+p332
+aVKenny Thomas HOU 02/08/2000 HOU vs. CLE W 31 14 5 8 62.5 2 4 50.0 2 3 66.7 1 7 8 4 4 1 3 3 10
+p333
+aVWalt Williams HOU 02/08/2000 HOU vs. CLE W 27 17 7 11 63.6 3 4 75.0 0 0 - 2 1 3 2 3 0 4 2 -14
+p334
+aVCuttino Mobley HOU 02/08/2000 HOU vs. CLE W 26 11 4 10 40.0 1 2 50.0 2 2 100.0 0 1 1 2 1 0 1 0 19
+p335
+aVHakeem Olajuwon HOU 02/08/2000 HOU vs. CLE W 19 12 6 7 85.7 0 0 - 0 2 0.0 0 3 3 0 2 1 0 2 5
+p336
+aVMatt Bullard HOU 02/08/2000 HOU vs. CLE W 19 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 -4
+p337
+aVBryce Drew HOU 02/08/2000 HOU vs. CLE W 24 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 5 0 0 0 1 19
+p338
+aVKelvin Cato HOU 02/08/2000 HOU vs. CLE W 28 8 3 6 50.0 0 0 - 2 2 100.0 2 7 9 0 0 2 3 5 5
+p339
+aVShandon Anderson HOU 02/08/2000 HOU vs. CLE W 42 23 10 21 47.6 0 4 0.0 3 4 75.0 2 8 10 3 3 0 1 1 11
+p340
+aVBryce Drew HOU 02/06/2000 HOU @ DET L 48 20 8 16 50.0 2 7 28.6 2 2 100.0 1 2 3 6 2 0 4 2 -4
+p341
+aVMatt Bullard HOU 02/06/2000 HOU @ DET L 14 3 1 2 50.0 1 1 100.0 0 0 - 1 2 3 1 0 0 2 2 -13
+p342
+aVKelvin Cato HOU 02/06/2000 HOU @ DET L 33 23 9 16 56.3 0 1 0.0 5 8 62.5 5 7 12 3 1 1 2 5 -5
+p343
+aVDevin Gray HOU 02/06/2000 HOU @ DET L 13 5 1 3 33.3 0 0 - 3 3 100.0 0 1 1 1 1 0 0 1 10
+p344
+aVHakeem Olajuwon HOU 02/06/2000 HOU @ DET L 18 7 3 9 33.3 0 0 - 1 1 100.0 0 7 7 0 2 0 2 1 2
+p345
+aVCuttino Mobley HOU 02/06/2000 HOU @ DET L 37 16 4 12 33.3 1 4 25.0 7 7 100.0 2 3 5 3 1 0 0 1 0
+p346
+aVWalt Williams HOU 02/06/2000 HOU @ DET L 16 2 1 5 20.0 0 1 0.0 0 0 - 1 4 5 1 0 0 1 4 -9
+p347
+aVShandon Anderson HOU 02/06/2000 HOU @ DET L 30 13 5 10 50.0 0 3 0.0 3 5 60.0 0 1 1 2 1 1 3 4 -9
+p348
+aVKenny Thomas HOU 02/06/2000 HOU @ DET L 31 16 6 10 60.0 2 4 50.0 2 4 50.0 3 1 4 1 1 0 1 4 8
+p349
+aVShandon Anderson HOU 02/04/2000 HOU @ MIN L 24 6 1 9 11.1 0 2 0.0 4 4 100.0 0 3 3 1 1 0 1 0 -13
+p350
+aVKelvin Cato HOU 02/04/2000 HOU @ MIN L 33 15 5 10 50.0 0 0 - 5 6 83.3 3 6 9 1 1 3 1 1 -3
+p351
+aVMatt Bullard HOU 02/04/2000 HOU @ MIN L 20 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 1 -4
+p352
+aVDevin Gray HOU 02/04/2000 HOU @ MIN L 14 2 0 3 0.0 0 0 - 2 4 50.0 0 1 1 1 1 0 0 2 -11
+p353
+aVWalt Williams HOU 02/04/2000 HOU @ MIN L 34 14 6 14 42.9 1 3 33.3 1 1 100.0 1 2 3 5 2 0 2 2 -6
+p354
+aVKenny Thomas HOU 02/04/2000 HOU @ MIN L 20 3 1 3 33.3 1 1 100.0 0 0 - 2 2 4 0 0 1 0 2 -13
+p355
+aVCuttino Mobley HOU 02/04/2000 HOU @ MIN L 27 4 1 8 12.5 0 2 0.0 2 3 66.7 0 3 3 0 0 1 3 0 -12
+p356
+aVHakeem Olajuwon HOU 02/04/2000 HOU @ MIN L 24 15 7 12 58.3 0 0 - 1 4 25.0 3 5 8 1 0 0 4 0 -14
+p357
+aVBryce Drew HOU 02/04/2000 HOU @ MIN L 45 20 9 20 45.0 1 5 20.0 1 1 100.0 0 3 3 10 1 0 1 0 -9
+p358
+aVWalt Williams HOU 02/03/2000 HOU vs. PHI W 23 13 5 9 55.6 3 6 50.0 0 0 - 2 5 7 4 1 0 2 3 -2
+p359
+aVHakeem Olajuwon HOU 02/03/2000 HOU vs. PHI W 23 14 7 9 77.8 0 0 - 0 2 0.0 2 3 5 2 0 2 0 1 24
+p360
+aVAnthony Miller HOU 02/03/2000 HOU vs. PHI W 12 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 -13
+p361
+aVKenny Thomas HOU 02/03/2000 HOU vs. PHI W 35 11 4 11 36.4 1 4 25.0 2 2 100.0 4 8 12 3 0 1 3 3 18
+p362
+aVSteve Francis HOU 02/03/2000 HOU vs. PHI W 36 10 4 11 36.4 2 3 66.7 0 0 - 2 4 6 7 1 0 3 4 0
+p363
+aVShandon Anderson HOU 02/03/2000 HOU vs. PHI W 39 32 10 17 58.8 2 2 100.0 10 14 71.4 5 2 7 2 3 0 2 2 0
+p364
+aVKelvin Cato HOU 02/03/2000 HOU vs. PHI W 14 10 3 7 42.9 0 0 - 4 6 66.7 2 1 3 0 0 4 0 1 -8
+p365
+aVMatt Bullard HOU 02/03/2000 HOU vs. PHI W 21 11 3 8 37.5 3 6 50.0 2 2 100.0 1 1 2 2 0 0 3 0 -12
+p366
+aVCuttino Mobley HOU 02/03/2000 HOU vs. PHI W 25 5 1 7 14.3 1 4 25.0 2 2 100.0 2 1 3 3 0 1 2 3 5
+p367
+aVBryce Drew HOU 02/03/2000 HOU vs. PHI W 12 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 3 1 0 0 1 3
+p368
+aVShandon Anderson HOU 02/01/2000 HOU vs. CHH W 30 6 3 9 33.3 0 0 - 0 0 - 2 3 5 6 2 0 1 2 12
+p369
+aVSteve Francis HOU 02/01/2000 HOU vs. CHH W 42 22 7 24 29.2 2 6 33.3 6 6 100.0 2 5 7 8 5 1 1 2 20
+p370
+aVAnthony Miller HOU 02/01/2000 HOU vs. CHH W 11 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 2 1 2 6
+p371
+aVKelvin Cato HOU 02/01/2000 HOU vs. CHH W 21 8 3 5 60.0 0 0 - 2 4 50.0 1 7 8 0 1 2 0 1 4
+p372
+aVHakeem Olajuwon HOU 02/01/2000 HOU vs. CHH W 16 8 4 10 40.0 0 0 - 0 2 0.0 3 5 8 2 0 0 1 1 6
+p373
+aVMatt Bullard HOU 02/01/2000 HOU vs. CHH W 26 9 3 8 37.5 3 5 60.0 0 0 - 0 3 3 2 0 3 1 3 14
+p374
+aVKenny Thomas HOU 02/01/2000 HOU vs. CHH W 30 6 3 7 42.9 0 0 - 0 0 - 3 4 7 3 0 0 0 3 13
+p375
+aVCuttino Mobley HOU 02/01/2000 HOU vs. CHH W 27 23 9 15 60.0 1 4 25.0 4 5 80.0 1 3 4 2 2 0 1 2 4
+p376
+aVWalt Williams HOU 02/01/2000 HOU vs. CHH W 23 14 5 9 55.6 2 2 100.0 2 2 100.0 0 4 4 2 0 1 1 2 -5
+p377
+aVBryce Drew HOU 02/01/2000 HOU vs. CHH W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 6
+p378
+aVShandon Anderson HOU 01/30/2000 HOU vs. LAL W 30 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 1 1 1 2 3 4
+p379
+aVBryce Drew HOU 01/30/2000 HOU vs. LAL W 22 10 5 11 45.5 0 2 0.0 0 0 - 1 3 4 3 0 0 1 2 2
+p380
+aVAnthony Miller HOU 01/30/2000 HOU vs. LAL W 6 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -2
+p381
+aVSteve Francis HOU 01/30/2000 HOU vs. LAL W 29 17 6 13 46.2 1 3 33.3 4 4 100.0 0 6 6 2 0 0 4 5 7
+p382
+aVMatt Bullard HOU 01/30/2000 HOU vs. LAL W 27 8 3 13 23.1 2 7 28.6 0 0 - 0 3 3 1 0 1 0 0 7
+p383
+aVWalt Williams HOU 01/30/2000 HOU vs. LAL W 35 14 3 6 50.0 2 4 50.0 6 8 75.0 1 4 5 3 0 0 1 2 4
+p384
+aVKenny Thomas HOU 01/30/2000 HOU vs. LAL W 18 4 0 2 0.0 0 1 0.0 4 4 100.0 1 5 6 1 1 0 4 1 -2
+p385
+aVKelvin Cato HOU 01/30/2000 HOU vs. LAL W 20 8 2 3 66.7 0 0 - 4 6 66.7 0 2 2 0 1 4 1 2 5
+p386
+aVCuttino Mobley HOU 01/30/2000 HOU vs. LAL W 30 15 5 8 62.5 2 3 66.7 3 5 60.0 1 4 5 4 0 0 2 3 2
+p387
+aVHakeem Olajuwon HOU 01/30/2000 HOU vs. LAL W 22 8 3 8 37.5 0 1 0.0 2 4 50.0 0 10 10 1 0 2 0 3 3
+p388
+aVBryce Drew HOU 01/28/2000 HOU @ DEN L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 3
+p389
+aVKenny Thomas HOU 01/28/2000 HOU @ DEN L 25 7 2 6 33.3 0 1 0.0 3 4 75.0 1 2 3 0 0 0 4 2 -9
+p390
+aVWalt Williams HOU 01/28/2000 HOU @ DEN L 29 8 4 7 57.1 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 0
+p391
+aVShandon Anderson HOU 01/28/2000 HOU @ DEN L 37 12 5 11 45.5 0 0 - 2 2 100.0 2 3 5 3 3 1 4 2 -5
+p392
+aVMatt Bullard HOU 01/28/2000 HOU @ DEN L 32 18 7 18 38.9 4 9 44.4 0 0 - 1 5 6 2 2 0 0 5 -1
+p393
+aVSteve Francis HOU 01/28/2000 HOU @ DEN L 39 27 9 25 36.0 1 4 25.0 8 8 100.0 4 5 9 10 2 0 6 3 -9
+p394
+aVAnthony Miller HOU 01/28/2000 HOU @ DEN L 9 2 1 3 33.3 0 0 - 0 0 - 4 1 5 1 1 0 0 2 -5
+p395
+aVCuttino Mobley HOU 01/28/2000 HOU @ DEN L 30 10 4 10 40.0 1 4 25.0 1 3 33.3 0 7 7 6 0 0 3 3 -7
+p396
+aVKelvin Cato HOU 01/28/2000 HOU @ DEN L 15 7 3 3 100.0 0 0 - 1 4 25.0 2 8 10 1 0 3 0 2 5
+p397
+aVHakeem Olajuwon HOU 01/28/2000 HOU @ DEN L 15 7 2 4 50.0 0 0 - 3 4 75.0 0 4 4 1 1 2 0 0 -2
+p398
+aVHakeem Olajuwon HOU 01/27/2000 HOU vs. GSW L 16 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 0 1 1 0 0 3
+p399
+aVCuttino Mobley HOU 01/27/2000 HOU vs. GSW L 26 14 4 10 40.0 2 6 33.3 4 4 100.0 2 1 3 1 0 0 1 3 -1
+p400
+aVMatt Bullard HOU 01/27/2000 HOU vs. GSW L 27 17 7 12 58.3 3 7 42.9 0 0 - 0 1 1 1 2 0 0 2 5
+p401
+aVShandon Anderson HOU 01/27/2000 HOU vs. GSW L 37 11 5 14 35.7 0 0 - 1 1 100.0 1 2 3 1 1 0 3 5 -6
+p402
+aVSteve Francis HOU 01/27/2000 HOU vs. GSW L 39 25 7 20 35.0 1 3 33.3 10 15 66.7 7 10 17 14 2 1 5 3 0
+p403
+aVBryce Drew HOU 01/27/2000 HOU vs. GSW L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 -5
+p404
+aVKenny Thomas HOU 01/27/2000 HOU vs. GSW L 24 9 2 5 40.0 0 0 - 5 5 100.0 0 2 2 1 2 1 0 5 -22
+p405
+aVWalt Williams HOU 01/27/2000 HOU vs. GSW L 33 9 3 9 33.3 1 4 25.0 2 4 50.0 4 3 7 3 0 0 1 5 -1
+p406
+aVAnthony Miller HOU 01/27/2000 HOU vs. GSW L 31 19 8 14 57.1 0 0 - 3 5 60.0 7 5 12 1 1 0 0 2 2
+p407
+aVSteve Francis HOU 01/25/2000 HOU vs. MIN L 38 24 7 17 41.2 1 4 25.0 9 13 69.2 5 0 5 4 0 0 7 4 -9
+p408
+aVShandon Anderson HOU 01/25/2000 HOU vs. MIN L 29 1 0 5 0.0 0 2 0.0 1 2 50.0 1 5 6 6 1 0 0 2 -8
+p409
+aVWalt Williams HOU 01/25/2000 HOU vs. MIN L 33 16 6 16 37.5 2 5 40.0 2 2 100.0 0 4 4 1 1 0 0 1 -4
+p410
+aVBryce Drew HOU 01/25/2000 HOU vs. MIN L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -1
+p411
+aVBill Curley HOU 01/25/2000 HOU vs. MIN L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p412
+aVCuttino Mobley HOU 01/25/2000 HOU vs. MIN L 27 18 6 10 60.0 4 6 66.7 2 2 100.0 0 3 3 1 0 0 2 2 -2
+p413
+aVAnthony Miller HOU 01/25/2000 HOU vs. MIN L 13 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -7
+p414
+aVHakeem Olajuwon HOU 01/25/2000 HOU vs. MIN L 21 8 3 8 37.5 0 0 - 2 4 50.0 0 5 5 2 0 1 2 0 -1
+p415
+aVMatt Bullard HOU 01/25/2000 HOU vs. MIN L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -11
+p416
+aVKenny Thomas HOU 01/25/2000 HOU vs. MIN L 39 17 7 11 63.6 0 1 0.0 3 5 60.0 3 5 8 1 0 0 3 4 0
+p417
+aVSteve Francis HOU 01/23/2000 HOU vs. MIA W 37 10 4 9 44.4 0 2 0.0 2 2 100.0 0 4 4 9 0 0 4 1 18
+p418
+aVKenny Thomas HOU 01/23/2000 HOU vs. MIA W 25 9 4 9 44.4 1 2 50.0 0 0 - 0 4 4 3 0 0 0 0 4
+p419
+aVBill Curley HOU 01/23/2000 HOU vs. MIA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -3
+p420
+aVDevin Gray HOU 01/23/2000 HOU vs. MIA W 2 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -2
+p421
+aVWalt Williams HOU 01/23/2000 HOU vs. MIA W 28 13 5 8 62.5 3 5 60.0 0 0 - 0 3 3 5 1 1 1 3 10
+p422
+aVKelvin Cato HOU 01/23/2000 HOU vs. MIA W 6 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 0 0 1 1 11
+p423
+aVCuttino Mobley HOU 01/23/2000 HOU vs. MIA W 25 18 6 11 54.5 4 6 66.7 2 2 100.0 0 2 2 1 0 0 1 2 18
+p424
+aVBryce Drew HOU 01/23/2000 HOU vs. MIA W 11 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 1 2 0 0 2 -5
+p425
+aVShandon Anderson HOU 01/23/2000 HOU vs. MIA W 42 7 3 11 27.3 1 5 20.0 0 0 - 1 11 12 4 0 1 2 2 0
+p426
+aVHakeem Olajuwon HOU 01/23/2000 HOU vs. MIA W 24 9 3 6 50.0 0 0 - 3 3 100.0 1 3 4 2 0 4 0 1 -2
+p427
+aVAnthony Miller HOU 01/23/2000 HOU vs. MIA W 11 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 1 1 3 5
+p428
+aVMatt Bullard HOU 01/23/2000 HOU vs. MIA W 23 24 9 16 56.3 6 10 60.0 0 0 - 1 5 6 1 0 0 0 1 11
+p429
+aVSteve Francis HOU 01/20/2000 HOU vs. DEN W 31 22 8 15 53.3 0 2 0.0 6 8 75.0 5 2 7 7 2 1 4 4 1
+p430
+aVKenny Thomas HOU 01/20/2000 HOU vs. DEN W 34 13 6 13 46.2 1 1 100.0 0 2 0.0 5 5 10 4 0 0 0 3 2
+p431
+aVBryce Drew HOU 01/20/2000 HOU vs. DEN W 17 10 3 8 37.5 2 4 50.0 2 2 100.0 0 0 0 3 0 0 1 2 6
+p432
+aVAnthony Miller HOU 01/20/2000 HOU vs. DEN W 24 7 3 7 42.9 0 0 - 1 1 100.0 4 3 7 1 0 0 1 5 3
+p433
+aVCuttino Mobley HOU 01/20/2000 HOU vs. DEN W 26 17 7 11 63.6 1 4 25.0 2 2 100.0 0 3 3 2 1 0 2 0 6
+p434
+aVWalt Williams HOU 01/20/2000 HOU vs. DEN W 22 12 4 12 33.3 1 3 33.3 3 3 100.0 0 3 3 2 0 2 1 2 1
+p435
+aVShandon Anderson HOU 01/20/2000 HOU vs. DEN W 48 26 9 15 60.0 4 5 80.0 4 4 100.0 3 10 13 5 0 0 0 1 7
+p436
+aVMatt Bullard HOU 01/20/2000 HOU vs. DEN W 19 9 3 7 42.9 1 3 33.3 2 2 100.0 0 0 0 1 1 0 0 1 5
+p437
+aVHakeem Olajuwon HOU 01/20/2000 HOU vs. DEN W 18 6 2 7 28.6 0 0 - 2 4 50.0 1 4 5 2 1 1 0 2 4
+p438
+aVBryce Drew HOU 01/18/2000 HOU vs. POR W 10 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 2 -3
+p439
+aVHakeem Olajuwon HOU 01/18/2000 HOU vs. POR W 19 6 3 8 37.5 0 0 - 0 0 - 1 0 1 1 3 4 3 3 3
+p440
+aVAnthony Miller HOU 01/18/2000 HOU vs. POR W 29 8 2 4 50.0 0 0 - 4 8 50.0 3 3 6 0 2 0 1 2 -2
+p441
+aVCuttino Mobley HOU 01/18/2000 HOU vs. POR W 23 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 0 1 0 2 2 -9
+p442
+aVMatt Bullard HOU 01/18/2000 HOU vs. POR W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -5
+p443
+aVShandon Anderson HOU 01/18/2000 HOU vs. POR W 39 14 7 11 63.6 0 0 - 0 2 0.0 0 5 5 2 1 0 3 2 5
+p444
+aVCarlos Rogers HOU 01/18/2000 HOU vs. POR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p445
+aVKenny Thomas HOU 01/18/2000 HOU vs. POR W 38 22 9 16 56.3 0 0 - 4 6 66.7 5 9 14 2 2 0 3 1 10
+p446
+aVWalt Williams HOU 01/18/2000 HOU vs. POR W 34 11 4 10 40.0 2 3 66.7 1 2 50.0 2 5 7 1 2 2 2 3 6
+p447
+aVSteve Francis HOU 01/18/2000 HOU vs. POR W 38 26 10 18 55.6 2 2 100.0 4 5 80.0 1 4 5 12 0 0 1 4 4
+p448
+aVHakeem Olajuwon HOU 01/17/2000 HOU @ DAL W 14 0 0 4 0.0 0 0 - 0 0 - 0 7 7 1 0 3 1 2 4
+p449
+aVCuttino Mobley HOU 01/17/2000 HOU @ DAL W 30 17 7 13 53.8 0 3 0.0 3 5 60.0 0 1 1 1 2 0 1 0 -1
+p450
+aVDevin Gray HOU 01/17/2000 HOU @ DAL W 5 2 1 2 50.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 2 6
+p451
+aVMatt Bullard HOU 01/17/2000 HOU @ DAL W 22 12 4 6 66.7 2 3 66.7 2 2 100.0 0 1 1 1 0 0 2 5 14
+p452
+aVShandon Anderson HOU 01/17/2000 HOU @ DAL W 34 10 3 8 37.5 1 4 25.0 3 5 60.0 2 6 8 6 3 1 3 1 8
+p453
+aVKenny Thomas HOU 01/17/2000 HOU @ DAL W 35 20 6 12 50.0 0 0 - 8 10 80.0 2 10 12 1 1 1 2 4 14
+p454
+aVBryce Drew HOU 01/17/2000 HOU @ DAL W 26 8 3 8 37.5 2 6 33.3 0 0 - 0 3 3 4 0 0 1 2 -1
+p455
+aVWalt Williams HOU 01/17/2000 HOU @ DAL W 18 17 7 10 70.0 2 4 50.0 1 1 100.0 1 4 5 1 0 0 1 4 0
+p456
+aVAnthony Miller HOU 01/17/2000 HOU @ DAL W 14 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 2 3 -4
+p457
+aVSteve Francis HOU 01/17/2000 HOU @ DAL W 42 31 8 16 50.0 1 5 20.0 14 15 93.3 3 3 6 11 2 0 7 4 10
+p458
+aVBryce Drew HOU 01/15/2000 HOU @ CHI W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 0
+p459
+aVAnthony Miller HOU 01/15/2000 HOU @ CHI W 28 9 4 7 57.1 0 0 - 1 7 14.3 3 5 8 1 0 0 1 4 6
+p460
+aVKenny Thomas HOU 01/15/2000 HOU @ CHI W 32 11 4 10 40.0 0 0 - 3 7 42.9 1 4 5 4 2 0 1 2 1
+p461
+aVBill Curley HOU 01/15/2000 HOU @ CHI W 20 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 1 0 1 3 -3
+p462
+aVShandon Anderson HOU 01/15/2000 HOU @ CHI W 28 8 3 10 30.0 0 1 0.0 2 2 100.0 3 4 7 1 1 0 1 4 0
+p463
+aVSteve Francis HOU 01/15/2000 HOU @ CHI W 41 27 12 17 70.6 3 5 60.0 0 0 - 2 2 4 11 2 1 3 2 3
+p464
+aVWalt Williams HOU 01/15/2000 HOU @ CHI W 40 17 7 12 58.3 2 4 50.0 1 2 50.0 3 6 9 3 1 1 0 1 3
+p465
+aVCuttino Mobley HOU 01/15/2000 HOU @ CHI W 29 13 5 10 50.0 2 4 50.0 1 1 100.0 0 1 1 3 0 0 6 3 3
+p466
+aVMatt Bullard HOU 01/15/2000 HOU @ CHI W 16 4 1 3 33.3 0 2 0.0 2 2 100.0 0 1 1 1 0 0 1 3 2
+p467
+aVWalt Williams HOU 01/13/2000 HOU @ GSW W 25 13 5 11 45.5 2 5 40.0 1 3 33.3 0 3 3 2 2 1 1 2 -3
+p468
+aVAnthony Miller HOU 01/13/2000 HOU @ GSW W 27 5 2 5 40.0 0 0 - 1 2 50.0 2 11 13 0 1 2 2 6 22
+p469
+aVSteve Francis HOU 01/13/2000 HOU @ GSW W 37 19 7 19 36.8 1 5 20.0 4 5 80.0 5 2 7 10 1 0 4 3 7
+p470
+aVBill Curley HOU 01/13/2000 HOU @ GSW W 13 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 6 -6
+p471
+aVShandon Anderson HOU 01/13/2000 HOU @ GSW W 43 17 6 12 50.0 0 2 0.0 5 6 83.3 3 3 6 3 6 1 2 3 7
+p472
+aVCuttino Mobley HOU 01/13/2000 HOU @ GSW W 29 23 9 21 42.9 1 5 20.0 4 5 80.0 0 2 2 0 1 1 2 0 10
+p473
+aVBryce Drew HOU 01/13/2000 HOU @ GSW W 18 10 4 10 40.0 2 5 40.0 0 0 - 0 0 0 3 0 0 3 1 0
+p474
+aVMatt Bullard HOU 01/13/2000 HOU @ GSW W 18 0 0 9 0.0 0 2 0.0 0 0 - 1 4 5 2 0 1 0 1 -1
+p475
+aVKenny Thomas HOU 01/13/2000 HOU @ GSW W 30 13 6 8 75.0 0 0 - 1 1 100.0 6 6 12 1 0 0 2 5 4
+p476
+aVWalt Williams HOU 01/11/2000 HOU @ SAC L 23 9 4 9 44.4 1 1 100.0 0 0 - 4 2 6 1 0 1 4 2 -13
+p477
+aVCarlos Rogers HOU 01/11/2000 HOU @ SAC L 35 13 5 12 41.7 0 0 - 3 5 60.0 7 4 11 1 0 2 3 2 -29
+p478
+aVCuttino Mobley HOU 01/11/2000 HOU @ SAC L 32 14 5 14 35.7 1 4 25.0 3 3 100.0 2 4 6 4 4 0 2 2 -7
+p479
+aVSteve Francis HOU 01/11/2000 HOU @ SAC L 31 16 5 18 27.8 1 4 25.0 5 5 100.0 2 1 3 6 3 0 8 0 -20
+p480
+aVBryce Drew HOU 01/11/2000 HOU @ SAC L 17 7 3 9 33.3 1 4 25.0 0 0 - 0 2 2 4 1 0 1 1 1
+p481
+aVKenny Thomas HOU 01/11/2000 HOU @ SAC L 18 7 2 5 40.0 0 0 - 3 6 50.0 2 1 3 0 1 0 3 3 1
+p482
+aVThomas Hamilton HOU 01/11/2000 HOU @ SAC L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p483
+aVAnthony Miller HOU 01/11/2000 HOU @ SAC L 35 9 3 6 50.0 0 0 - 3 4 75.0 1 11 12 0 1 0 1 5 -4
+p484
+aVDevin Gray HOU 01/11/2000 HOU @ SAC L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p485
+aVShandon Anderson HOU 01/11/2000 HOU @ SAC L 27 10 4 7 57.1 0 1 0.0 2 3 66.7 1 6 7 3 0 0 5 4 -11
+p486
+aVMatt Bullard HOU 01/11/2000 HOU @ SAC L 14 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 0 1 1 3 -1
+p487
+aVWalt Williams HOU 01/08/2000 HOU vs. UTA L 18 1 0 4 0.0 0 1 0.0 1 1 100.0 0 3 3 4 1 0 0 2 -12
+p488
+aVKenny Thomas HOU 01/08/2000 HOU vs. UTA L 13 4 1 2 50.0 0 0 - 2 4 50.0 3 3 6 1 0 0 1 0 2
+p489
+aVSteve Francis HOU 01/08/2000 HOU vs. UTA L 30 5 2 10 20.0 0 1 0.0 1 2 50.0 3 1 4 4 0 1 7 2 -12
+p490
+aVBryce Drew HOU 01/08/2000 HOU vs. UTA L 24 6 2 6 33.3 1 4 25.0 1 2 50.0 1 0 1 1 0 0 3 5 -13
+p491
+aVShandon Anderson HOU 01/08/2000 HOU vs. UTA L 41 16 4 10 40.0 1 4 25.0 7 9 77.8 1 9 10 2 1 2 4 4 -7
+p492
+aVMatt Bullard HOU 01/08/2000 HOU vs. UTA L 15 6 2 8 25.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -15
+p493
+aVCuttino Mobley HOU 01/08/2000 HOU vs. UTA L 30 15 4 12 33.3 0 4 0.0 7 8 87.5 0 1 1 2 1 0 1 1 -4
+p494
+aVThomas Hamilton HOU 01/08/2000 HOU vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p495
+aVCarlos Rogers HOU 01/08/2000 HOU vs. UTA L 38 28 10 13 76.9 0 0 - 8 11 72.7 2 3 5 1 0 0 1 5 -17
+p496
+aVAnthony Miller HOU 01/08/2000 HOU vs. UTA L 27 6 2 3 66.7 0 0 - 2 3 66.7 2 9 11 1 0 0 0 4 1
+p497
+aVSteve Francis HOU 01/06/2000 HOU @ MIA L 37 22 7 15 46.7 0 1 0.0 8 9 88.9 2 0 2 6 2 0 3 3 -22
+p498
+aVKenny Thomas HOU 01/06/2000 HOU @ MIA L 35 10 3 14 21.4 0 3 0.0 4 4 100.0 2 5 7 4 0 1 0 1 1
+p499
+aVAnthony Miller HOU 01/06/2000 HOU @ MIA L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 10
+p500
+aVWalt Williams HOU 01/06/2000 HOU @ MIA L 22 17 5 6 83.3 2 2 100.0 5 6 83.3 1 3 4 0 0 2 0 3 15
+p501
+aVThomas Hamilton HOU 01/06/2000 HOU @ MIA L 22 7 2 7 28.6 0 0 - 3 3 100.0 5 2 7 0 0 0 1 1 -12
+p502
+aVMatt Bullard HOU 01/06/2000 HOU @ MIA L 13 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 1 0 0 1 1 -13
+p503
+aVCarlos Rogers HOU 01/06/2000 HOU @ MIA L 19 7 3 3 100.0 0 0 - 1 2 50.0 2 4 6 0 0 2 1 3 -10
+p504
+aVCuttino Mobley HOU 01/06/2000 HOU @ MIA L 34 12 3 8 37.5 2 3 66.7 4 4 100.0 0 1 1 2 0 0 0 1 -27
+p505
+aVBryce Drew HOU 01/06/2000 HOU @ MIA L 17 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 0 2
+p506
+aVShandon Anderson HOU 01/06/2000 HOU @ MIA L 34 17 6 9 66.7 2 3 66.7 3 4 75.0 1 4 5 3 2 0 3 0 -4
+p507
+aVCarlos Rogers HOU 01/04/2000 HOU vs. SEA L 36 11 5 15 33.3 0 0 - 1 4 25.0 6 8 14 0 1 1 0 2 -13
+p508
+aVSteve Francis HOU 01/04/2000 HOU vs. SEA L 41 27 9 14 64.3 2 3 66.7 7 8 87.5 3 3 6 7 1 0 4 4 -2
+p509
+aVKenny Thomas HOU 01/04/2000 HOU vs. SEA L 16 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 5
+p510
+aVBryce Drew HOU 01/04/2000 HOU vs. SEA L 24 13 4 6 66.7 3 5 60.0 2 2 100.0 0 1 1 3 2 0 2 0 1
+p511
+aVMatt Bullard HOU 01/04/2000 HOU vs. SEA L 32 20 7 15 46.7 2 6 33.3 4 5 80.0 1 3 4 5 1 1 0 4 -12
+p512
+aVCuttino Mobley HOU 01/04/2000 HOU vs. SEA L 39 6 2 15 13.3 1 8 12.5 1 2 50.0 1 6 7 3 0 0 3 1 -15
+p513
+aVWalt Williams HOU 01/04/2000 HOU vs. SEA L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 6 6 0 0 0 3 1 3
+p514
+aVThomas Hamilton HOU 01/04/2000 HOU vs. SEA L 12 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 0 3 0 6
+p515
+aVShandon Anderson HOU 01/04/2000 HOU vs. SEA L 24 10 3 7 42.9 2 3 66.7 2 2 100.0 1 2 3 3 1 1 3 2 -8
+p516
+aVBryce Drew HOU 12/30/1999 HOU vs. LAC W 20 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 3 0 0 0 0 -6
+p517
+aVThomas Hamilton HOU 12/30/1999 HOU vs. LAC W 17 6 3 6 50.0 0 0 - 0 1 0.0 1 4 5 1 1 0 2 3 -4
+p518
+aVShandon Anderson HOU 12/30/1999 HOU vs. LAC W 27 16 7 11 63.6 1 3 33.3 1 1 100.0 0 2 2 3 0 0 1 0 21
+p519
+aVKelvin Cato HOU 12/30/1999 HOU vs. LAC W 28 21 9 12 75.0 0 0 - 3 7 42.9 2 9 11 0 0 4 0 2 31
+p520
+aVWalt Williams HOU 12/30/1999 HOU vs. LAC W 24 16 7 19 36.8 2 7 28.6 0 0 - 2 2 4 2 0 0 1 1 -1
+p521
+aVCarlos Rogers HOU 12/30/1999 HOU vs. LAC W 33 15 7 13 53.8 0 0 - 1 2 50.0 4 4 8 3 0 1 2 4 21
+p522
+aVCuttino Mobley HOU 12/30/1999 HOU vs. LAC W 35 16 4 9 44.4 1 1 100.0 7 8 87.5 2 5 7 11 4 0 1 1 25
+p523
+aVDevin Gray HOU 12/30/1999 HOU vs. LAC W 6 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -2
+p524
+aVKenny Thomas HOU 12/30/1999 HOU vs. LAC W 18 4 2 6 33.3 0 0 - 0 0 - 0 3 3 2 0 0 1 4 -4
+p525
+aVSteve Francis HOU 12/30/1999 HOU vs. LAC W 33 19 8 12 66.7 1 2 50.0 2 2 100.0 1 2 3 11 2 0 2 0 29
+p526
+aVKelvin Cato HOU 12/28/1999 HOU vs. TOR L 26 14 5 7 71.4 0 0 - 4 5 80.0 3 4 7 1 0 2 0 5 -8
+p527
+aVCarlos Rogers HOU 12/28/1999 HOU vs. TOR L 32 19 7 13 53.8 0 0 - 5 7 71.4 3 5 8 2 2 0 2 2 -5
+p528
+aVMatt Bullard HOU 12/28/1999 HOU vs. TOR L 11 6 2 3 66.7 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 2 3
+p529
+aVShandon Anderson HOU 12/28/1999 HOU vs. TOR L 27 4 1 7 14.3 0 2 0.0 2 2 100.0 2 3 5 3 0 1 2 3 -10
+p530
+aVSteve Francis HOU 12/28/1999 HOU vs. TOR L 33 5 2 9 22.2 0 3 0.0 1 2 50.0 2 5 7 12 0 0 3 1 -1
+p531
+aVKenny Thomas HOU 12/28/1999 HOU vs. TOR L 7 3 1 3 33.3 0 0 - 1 2 50.0 3 0 3 0 0 0 0 1 5
+p532
+aVWalt Williams HOU 12/28/1999 HOU vs. TOR L 24 16 7 11 63.6 0 2 0.0 2 2 100.0 1 6 7 0 0 0 0 5 15
+p533
+aVCuttino Mobley HOU 12/28/1999 HOU vs. TOR L 41 21 9 24 37.5 0 2 0.0 3 4 75.0 1 3 4 3 1 0 5 2 -8
+p534
+aVBryce Drew HOU 12/28/1999 HOU vs. TOR L 33 11 3 9 33.3 3 3 100.0 2 3 66.7 1 4 5 1 1 0 1 1 12
+p535
+aVThomas Hamilton HOU 12/28/1999 HOU vs. TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -8
+p536
+aVBryce Drew HOU 12/26/1999 HOU @ WAS L 16 10 4 7 57.1 2 3 66.7 0 0 - 3 0 3 2 2 0 1 0 15
+p537
+aVShandon Anderson HOU 12/26/1999 HOU @ WAS L 18 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -14
+p538
+aVThomas Hamilton HOU 12/26/1999 HOU @ WAS L 19 7 3 8 37.5 0 0 - 1 2 50.0 6 7 13 0 0 0 3 2 3
+p539
+aVSteve Francis HOU 12/26/1999 HOU @ WAS L 36 21 7 16 43.8 1 3 33.3 6 11 54.5 2 1 3 7 6 0 3 4 -18
+p540
+aVCuttino Mobley HOU 12/26/1999 HOU @ WAS L 25 9 4 11 36.4 1 3 33.3 0 0 - 0 1 1 1 1 0 2 2 -5
+p541
+aVMatt Bullard HOU 12/26/1999 HOU @ WAS L 25 3 1 7 14.3 1 4 25.0 0 0 - 2 2 4 1 0 0 1 1 -21
+p542
+aVKenny Thomas HOU 12/26/1999 HOU @ WAS L 22 2 0 3 0.0 0 1 0.0 2 4 50.0 2 3 5 3 2 0 1 3 9
+p543
+aVWalt Williams HOU 12/26/1999 HOU @ WAS L 23 20 8 16 50.0 1 3 33.3 3 5 60.0 0 3 3 1 1 2 0 2 10
+p544
+aVCarlos Rogers HOU 12/26/1999 HOU @ WAS L 27 12 5 13 38.5 0 0 - 2 4 50.0 3 4 7 1 0 1 4 3 -20
+p545
+aVKelvin Cato HOU 12/26/1999 HOU @ WAS L 29 4 1 6 16.7 0 0 - 2 2 100.0 3 2 5 0 0 6 2 3 -14
+p546
+aVKelvin Cato HOU 12/23/1999 HOU vs. WAS W 39 20 8 14 57.1 0 0 - 4 7 57.1 2 10 12 0 0 2 2 4 19
+p547
+aVDevin Gray HOU 12/23/1999 HOU vs. WAS W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 1 2
+p548
+aVCarlos Rogers HOU 12/23/1999 HOU vs. WAS W 27 12 4 8 50.0 0 0 - 4 6 66.7 3 3 6 1 0 0 1 3 2
+p549
+aVBryce Drew HOU 12/23/1999 HOU vs. WAS W 16 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 2 1 0 1 4 7
+p550
+aVShandon Anderson HOU 12/23/1999 HOU vs. WAS W 20 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 3 4 -8
+p551
+aVSteve Francis HOU 12/23/1999 HOU vs. WAS W 40 16 6 18 33.3 1 2 50.0 3 4 75.0 0 4 4 11 2 0 0 1 20
+p552
+aVWalt Williams HOU 12/23/1999 HOU vs. WAS W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p553
+aVKenny Thomas HOU 12/23/1999 HOU vs. WAS W 25 7 2 6 33.3 0 1 0.0 3 6 50.0 5 5 10 1 3 1 2 1 11
+p554
+aVMatt Bullard HOU 12/23/1999 HOU vs. WAS W 33 16 6 11 54.5 4 6 66.7 0 0 - 0 3 3 1 2 0 2 3 11
+p555
+aVCuttino Mobley HOU 12/23/1999 HOU vs. WAS W 32 20 4 10 40.0 1 2 50.0 11 12 91.7 1 2 3 5 1 0 2 3 18
+p556
+aVThomas Hamilton HOU 12/23/1999 HOU vs. WAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p557
+aVShandon Anderson HOU 12/21/1999 HOU vs. POR L 39 12 5 12 41.7 2 6 33.3 0 0 - 2 5 7 4 1 1 3 0 -11
+p558
+aVKelvin Cato HOU 12/21/1999 HOU vs. POR L 29 6 2 5 40.0 0 0 - 2 4 50.0 3 4 7 0 1 3 1 2 -6
+p559
+aVSteve Francis HOU 12/21/1999 HOU vs. POR L 38 14 7 13 53.8 0 2 0.0 0 1 0.0 3 3 6 7 2 0 4 1 -5
+p560
+aVMatt Bullard HOU 12/21/1999 HOU vs. POR L 19 2 0 3 0.0 0 2 0.0 2 2 100.0 0 3 3 3 0 0 0 1 -11
+p561
+aVThomas Hamilton HOU 12/21/1999 HOU vs. POR L 14 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 2 0 -9
+p562
+aVCuttino Mobley HOU 12/21/1999 HOU vs. POR L 32 20 8 14 57.1 3 4 75.0 1 1 100.0 0 4 4 0 1 0 4 5 -2
+p563
+aVBryce Drew HOU 12/21/1999 HOU vs. POR L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -5
+p564
+aVKenny Thomas HOU 12/21/1999 HOU vs. POR L 22 3 0 4 0.0 0 3 0.0 3 5 60.0 0 6 6 0 0 0 1 1 4
+p565
+aVCarlos Rogers HOU 12/21/1999 HOU vs. POR L 28 12 5 10 50.0 0 1 0.0 2 2 100.0 5 3 8 1 1 0 2 0 -6
+p566
+aVDevin Gray HOU 12/21/1999 HOU vs. POR L 9 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 2 1
+p567
+aVCarlos Rogers HOU 12/18/1999 HOU vs. BOS W 27 17 7 9 77.8 0 0 - 3 8 37.5 2 3 5 1 1 0 1 0 2
+p568
+aVMatt Bullard HOU 12/18/1999 HOU vs. BOS W 18 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 1 0 1 2 1 -2
+p569
+aVThomas Hamilton HOU 12/18/1999 HOU vs. BOS W 12 0 0 1 0.0 0 0 - 0 0 - 2 2 4 3 0 2 3 1 -10
+p570
+aVWalt Williams HOU 12/18/1999 HOU vs. BOS W 9 1 0 3 0.0 0 2 0.0 1 1 100.0 0 2 2 0 0 1 0 1 3
+p571
+aVBryce Drew HOU 12/18/1999 HOU vs. BOS W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 0
+p572
+aVSteve Francis HOU 12/18/1999 HOU vs. BOS W 36 15 3 8 37.5 0 0 - 9 10 90.0 4 2 6 4 1 1 4 5 6
+p573
+aVShandon Anderson HOU 12/18/1999 HOU vs. BOS W 35 8 3 11 27.3 1 3 33.3 1 1 100.0 1 6 7 6 0 0 1 1 4
+p574
+aVCuttino Mobley HOU 12/18/1999 HOU vs. BOS W 33 21 6 15 40.0 2 4 50.0 7 11 63.6 0 3 3 2 1 1 2 2 7
+p575
+aVKelvin Cato HOU 12/18/1999 HOU vs. BOS W 33 27 11 13 84.6 0 0 - 5 7 71.4 3 9 12 2 2 1 1 3 14
+p576
+aVKenny Thomas HOU 12/18/1999 HOU vs. BOS W 24 6 2 7 28.6 0 1 0.0 2 2 100.0 3 3 6 1 0 0 0 1 6
+p577
+aVSteve Francis HOU 12/15/1999 HOU @ SAS L 34 24 9 15 60.0 0 2 0.0 6 8 75.0 3 3 6 4 1 0 4 2 -7
+p578
+aVKenny Thomas HOU 12/15/1999 HOU @ SAS L 17 6 3 7 42.9 0 1 0.0 0 0 - 4 1 5 1 0 0 3 5 -7
+p579
+aVCuttino Mobley HOU 12/15/1999 HOU @ SAS L 24 3 1 8 12.5 0 1 0.0 1 2 50.0 1 3 4 1 1 0 4 3 -18
+p580
+aVThomas Hamilton HOU 12/15/1999 HOU @ SAS L 26 6 2 5 40.0 0 0 - 2 3 66.7 1 5 6 1 1 2 0 1 11
+p581
+aVMatt Bullard HOU 12/15/1999 HOU @ SAS L 30 7 3 10 30.0 1 2 50.0 0 0 - 2 6 8 0 0 0 2 1 1
+p582
+aVKelvin Cato HOU 12/15/1999 HOU @ SAS L 20 7 3 7 42.9 0 0 - 1 2 50.0 1 2 3 0 0 2 0 2 -11
+p583
+aVWalt Williams HOU 12/15/1999 HOU @ SAS L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 1 0 0 3 2 -1
+p584
+aVCarlos Rogers HOU 12/15/1999 HOU @ SAS L 32 6 3 9 33.3 0 0 - 0 4 0.0 0 3 3 2 0 1 1 3 -1
+p585
+aVBryce Drew HOU 12/15/1999 HOU @ SAS L 18 2 1 7 14.3 0 1 0.0 0 0 - 1 0 1 1 2 0 1 1 -5
+p586
+aVShandon Anderson HOU 12/15/1999 HOU @ SAS L 31 13 4 6 66.7 1 2 50.0 4 7 57.1 2 3 5 2 0 1 0 3 8
+p587
+aVShandon Anderson HOU 12/14/1999 HOU vs. NYK L 35 12 5 9 55.6 2 4 50.0 0 2 0.0 0 2 2 3 1 0 4 3 -8
+p588
+aVSteve Francis HOU 12/14/1999 HOU vs. NYK L 40 20 7 17 41.2 1 3 33.3 5 6 83.3 2 2 4 5 1 0 2 5 -11
+p589
+aVThomas Hamilton HOU 12/14/1999 HOU vs. NYK L 22 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 2 -14
+p590
+aVKelvin Cato HOU 12/14/1999 HOU vs. NYK L 20 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 0 0 2 0 3 -9
+p591
+aVBryce Drew HOU 12/14/1999 HOU vs. NYK L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 0 -2
+p592
+aVKenny Thomas HOU 12/14/1999 HOU vs. NYK L 23 12 5 10 50.0 1 2 50.0 1 2 50.0 2 4 6 0 0 1 0 2 1
+p593
+aVMatt Bullard HOU 12/14/1999 HOU vs. NYK L 21 12 4 6 66.7 3 4 75.0 1 1 100.0 0 6 6 2 0 0 1 1 7
+p594
+aVCuttino Mobley HOU 12/14/1999 HOU vs. NYK L 45 14 6 16 37.5 1 4 25.0 1 1 100.0 1 1 2 3 1 0 3 1 -15
+p595
+aVCarlos Rogers HOU 12/14/1999 HOU vs. NYK L 26 8 3 5 60.0 1 1 100.0 1 2 50.0 1 7 8 3 1 0 1 1 -4
+p596
+aVCarlos Rogers HOU 12/11/1999 HOU @ NJN L 26 12 4 10 40.0 0 2 0.0 4 4 100.0 4 1 5 1 0 0 4 2 -11
+p597
+aVThomas Hamilton HOU 12/11/1999 HOU @ NJN L 33 12 6 11 54.5 0 0 - 0 0 - 3 8 11 4 0 2 1 1 3
+p598
+aVKenny Thomas HOU 12/11/1999 HOU @ NJN L 22 9 2 7 28.6 0 1 0.0 5 6 83.3 3 5 8 0 0 0 1 3 -1
+p599
+aVKelvin Cato HOU 12/11/1999 HOU @ NJN L 13 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 0 0 0 2 1 -13
+p600
+aVMatt Bullard HOU 12/11/1999 HOU @ NJN L 20 6 2 5 40.0 2 3 66.7 0 0 - 1 4 5 0 0 1 0 0 9
+p601
+aVBryce Drew HOU 12/11/1999 HOU @ NJN L 35 18 5 13 38.5 4 5 80.0 4 4 100.0 1 1 2 3 1 0 0 1 1
+p602
+aVCuttino Mobley HOU 12/11/1999 HOU @ NJN L 34 18 7 12 58.3 0 0 - 4 5 80.0 1 5 6 1 1 0 4 2 -2
+p603
+aVShandon Anderson HOU 12/11/1999 HOU @ NJN L 24 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -17
+p604
+aVSteve Francis HOU 12/11/1999 HOU @ NJN L 22 13 5 9 55.6 1 4 25.0 2 4 50.0 0 1 1 0 0 1 3 2 -19
+p605
+aVWalt Williams HOU 12/11/1999 HOU @ NJN L 11 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 0 -10
+p606
+aVWalt Williams HOU 12/10/1999 HOU @ BOS L 16 7 3 7 42.9 0 4 0.0 1 1 100.0 0 2 2 1 0 0 2 4 -14
+p607
+aVShandon Anderson HOU 12/10/1999 HOU @ BOS L 36 15 6 12 50.0 2 6 33.3 1 2 50.0 1 3 4 0 3 2 2 3 -3
+p608
+aVKelvin Cato HOU 12/10/1999 HOU @ BOS L 20 4 1 3 33.3 0 0 - 2 4 50.0 1 6 7 0 0 1 5 2 -10
+p609
+aVBryce Drew HOU 12/10/1999 HOU @ BOS L 23 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 7 1 0 0 1 7
+p610
+aVKenny Thomas HOU 12/10/1999 HOU @ BOS L 19 5 2 6 33.3 0 2 0.0 1 2 50.0 0 3 3 2 2 0 1 2 9
+p611
+aVCuttino Mobley HOU 12/10/1999 HOU @ BOS L 32 23 8 15 53.3 1 1 100.0 6 8 75.0 2 4 6 6 2 0 2 2 10
+p612
+aVThomas Hamilton HOU 12/10/1999 HOU @ BOS L 22 9 4 6 66.7 0 0 - 1 2 50.0 2 3 5 1 1 3 2 3 3
+p613
+aVSteve Francis HOU 12/10/1999 HOU @ BOS L 30 10 5 12 41.7 0 1 0.0 0 0 - 2 0 2 5 1 0 8 2 -7
+p614
+aVCarlos Rogers HOU 12/10/1999 HOU @ BOS L 35 15 7 12 58.3 0 1 0.0 1 2 50.0 2 11 13 4 0 3 3 0 -7
+p615
+aVMatt Bullard HOU 12/10/1999 HOU @ BOS L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p616
+aVCuttino Mobley HOU 12/08/1999 HOU @ PHI L 32 14 3 10 30.0 1 4 25.0 7 9 77.8 2 1 3 2 4 1 6 3 -9
+p617
+aVThomas Hamilton HOU 12/08/1999 HOU @ PHI L 16 0 0 2 0.0 0 0 - 0 1 0.0 0 5 5 0 0 1 3 0 -2
+p618
+aVShandon Anderson HOU 12/08/1999 HOU @ PHI L 20 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 3 0 0 3 1 4
+p619
+aVKelvin Cato HOU 12/08/1999 HOU @ PHI L 25 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 0 1 3 1 2 -5
+p620
+aVKenny Thomas HOU 12/08/1999 HOU @ PHI L 25 8 3 10 30.0 1 2 50.0 1 2 50.0 3 3 6 0 0 0 2 2 -10
+p621
+aVCarlos Rogers HOU 12/08/1999 HOU @ PHI L 31 13 6 10 60.0 0 0 - 1 1 100.0 3 4 7 0 0 0 2 1 -3
+p622
+aVWalt Williams HOU 12/08/1999 HOU @ PHI L 19 8 3 4 75.0 2 2 100.0 0 0 - 1 5 6 0 1 0 3 3 -3
+p623
+aVBryce Drew HOU 12/08/1999 HOU @ PHI L 19 7 3 8 37.5 1 5 20.0 0 0 - 0 4 4 3 2 0 3 2 -5
+p624
+aVCharles Barkley HOU 12/08/1999 HOU @ PHI L 8 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 3
+p625
+aVSteve Francis HOU 12/08/1999 HOU @ PHI L 34 18 6 15 40.0 1 5 20.0 5 6 83.3 2 1 3 7 0 1 4 3 -4
+p626
+aVMatt Bullard HOU 12/08/1999 HOU @ PHI L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -16
+p627
+aVWalt Williams HOU 12/06/1999 HOU vs. VAN W 34 14 5 12 41.7 4 10 40.0 0 0 - 1 3 4 3 2 2 2 4 4
+p628
+aVBryce Drew HOU 12/06/1999 HOU vs. VAN W 43 17 7 16 43.8 3 7 42.9 0 0 - 1 1 2 5 1 1 0 1 8
+p629
+aVCarlos Rogers HOU 12/06/1999 HOU vs. VAN W 24 18 8 11 72.7 0 0 - 2 4 50.0 4 3 7 0 0 1 2 2 -3
+p630
+aVShandon Anderson HOU 12/06/1999 HOU vs. VAN W 26 1 0 5 0.0 0 1 0.0 1 2 50.0 1 6 7 7 2 0 1 3 15
+p631
+aVKenny Thomas HOU 12/06/1999 HOU vs. VAN W 22 7 3 8 37.5 1 3 33.3 0 0 - 2 2 4 0 0 0 1 3 -12
+p632
+aVKelvin Cato HOU 12/06/1999 HOU vs. VAN W 24 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 0 1 2 3 6 5
+p633
+aVCharles Barkley HOU 12/06/1999 HOU vs. VAN W 37 25 9 14 64.3 0 1 0.0 7 12 58.3 4 7 11 7 1 0 1 4 5
+p634
+aVCuttino Mobley HOU 12/06/1999 HOU vs. VAN W 30 13 4 10 40.0 0 2 0.0 5 6 83.3 0 1 1 1 2 2 0 0 -7
+p635
+aVCharles Barkley HOU 12/04/1999 HOU vs. PHX W 35 21 9 15 60.0 0 2 0.0 3 4 75.0 1 2 3 4 2 0 3 1 5
+p636
+aVMatt Bullard HOU 12/04/1999 HOU vs. PHX W 16 6 2 5 40.0 2 2 100.0 0 0 - 0 2 2 3 1 0 1 2 8
+p637
+aVKenny Thomas HOU 12/04/1999 HOU vs. PHX W 27 15 5 9 55.6 2 2 100.0 3 5 60.0 1 2 3 1 2 1 2 2 9
+p638
+aVThomas Hamilton HOU 12/04/1999 HOU vs. PHX W 7 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 2 2 3
+p639
+aVWalt Williams HOU 12/04/1999 HOU vs. PHX W 20 3 1 6 16.7 0 4 0.0 1 2 50.0 0 2 2 3 2 0 1 1 4
+p640
+aVShandon Anderson HOU 12/04/1999 HOU vs. PHX W 42 26 11 16 68.8 3 5 60.0 1 1 100.0 1 5 6 4 2 0 2 2 4
+p641
+aVBryce Drew HOU 12/04/1999 HOU vs. PHX W 42 14 5 16 31.3 3 8 37.5 1 1 100.0 1 5 6 10 0 0 3 3 7
+p642
+aVCuttino Mobley HOU 12/04/1999 HOU vs. PHX W 24 12 4 10 40.0 1 1 100.0 3 3 100.0 0 1 1 6 1 1 0 2 5
+p643
+aVKelvin Cato HOU 12/04/1999 HOU vs. PHX W 27 8 4 8 50.0 0 0 - 0 0 - 2 6 8 0 3 2 0 4 5
+p644
+aVMatt Bullard HOU 12/02/1999 HOU @ LAC W 13 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 2 1 0 0 2 6
+p645
+aVBryce Drew HOU 12/02/1999 HOU @ LAC W 36 15 5 8 62.5 3 4 75.0 2 2 100.0 0 0 0 2 1 0 1 3 4
+p646
+aVKelvin Cato HOU 12/02/1999 HOU @ LAC W 32 14 6 8 75.0 0 0 - 2 4 50.0 0 2 2 0 1 3 1 4 20
+p647
+aVCarlos Rogers HOU 12/02/1999 HOU @ LAC W 13 2 0 3 0.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 1 -7
+p648
+aVShandon Anderson HOU 12/02/1999 HOU @ LAC W 48 27 10 18 55.6 3 7 42.9 4 5 80.0 2 4 6 6 3 3 5 4 13
+p649
+aVWalt Williams HOU 12/02/1999 HOU @ LAC W 17 2 1 8 12.5 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 6
+p650
+aVCuttino Mobley HOU 12/02/1999 HOU @ LAC W 27 15 3 10 30.0 0 1 0.0 9 9 100.0 1 2 3 3 3 1 2 2 4
+p651
+aVKenny Thomas HOU 12/02/1999 HOU @ LAC W 15 10 4 5 80.0 1 1 100.0 1 1 100.0 1 5 6 0 0 0 3 3 16
+p652
+aVCharles Barkley HOU 12/02/1999 HOU @ LAC W 29 12 4 9 44.4 0 1 0.0 4 10 40.0 3 7 10 7 1 1 4 3 2
+p653
+aVThomas Hamilton HOU 12/02/1999 HOU @ LAC W 10 6 3 7 42.9 0 0 - 0 2 0.0 2 3 5 0 0 0 2 0 1
+p654
+aVCarlos Rogers HOU 12/01/1999 HOU @ PHX L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -8
+p655
+aVBryce Drew HOU 12/01/1999 HOU @ PHX L 16 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 3 -14
+p656
+aVThomas Hamilton HOU 12/01/1999 HOU @ PHX L 8 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 0 1 2 -3
+p657
+aVKenny Thomas HOU 12/01/1999 HOU @ PHX L 11 2 1 3 33.3 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 -8
+p658
+aVCuttino Mobley HOU 12/01/1999 HOU @ PHX L 34 18 7 16 43.8 2 8 25.0 2 2 100.0 0 2 2 3 2 1 3 2 -13
+p659
+aVShandon Anderson HOU 12/01/1999 HOU @ PHX L 46 12 3 7 42.9 0 0 - 6 8 75.0 3 4 7 2 2 0 1 3 -2
+p660
+aVWalt Williams HOU 12/01/1999 HOU @ PHX L 20 9 4 9 44.4 1 6 16.7 0 0 - 0 5 5 4 0 2 4 1 11
+p661
+aVCharles Barkley HOU 12/01/1999 HOU @ PHX L 48 22 7 14 50.0 1 3 33.3 7 11 63.6 2 11 13 3 0 1 4 5 2
+p662
+aVMatt Bullard HOU 12/01/1999 HOU @ PHX L 10 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 0 -7
+p663
+aVSteve Francis HOU 12/01/1999 HOU @ PHX L 42 24 10 20 50.0 3 4 75.0 1 2 50.0 1 6 7 10 1 1 6 4 8
+p664
+aVKelvin Cato HOU 12/01/1999 HOU @ PHX L 46 23 9 14 64.3 0 1 0.0 5 8 62.5 0 6 6 1 1 1 1 4 4
+p665
+aVSteve Francis HOU 11/29/1999 HOU @ VAN W 36 24 10 18 55.6 2 3 66.7 2 4 50.0 3 6 9 10 2 2 0 6 5
+p666
+aVCarlos Rogers HOU 11/29/1999 HOU @ VAN W 19 6 3 6 50.0 0 0 - 0 2 0.0 2 2 4 0 0 0 1 2 -4
+p667
+aVCuttino Mobley HOU 11/29/1999 HOU @ VAN W 35 17 5 12 41.7 1 2 50.0 6 7 85.7 1 1 2 3 3 0 2 1 8
+p668
+aVCharles Barkley HOU 11/29/1999 HOU @ VAN W 39 22 8 11 72.7 1 2 50.0 5 8 62.5 3 4 7 0 1 0 1 2 9
+p669
+aVMatt Bullard HOU 11/29/1999 HOU @ VAN W 29 11 4 6 66.7 3 5 60.0 0 0 - 0 5 5 1 0 0 1 3 6
+p670
+aVKelvin Cato HOU 11/29/1999 HOU @ VAN W 32 13 6 12 50.0 0 0 - 1 5 20.0 3 7 10 1 0 5 4 4 11
+p671
+aVKenny Thomas HOU 11/29/1999 HOU @ VAN W 20 5 2 8 25.0 1 3 33.3 0 0 - 2 4 6 0 1 2 2 2 0
+p672
+aVShandon Anderson HOU 11/29/1999 HOU @ VAN W 21 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 2 0 0 2 1 -2
+p673
+aVWalt Williams HOU 11/29/1999 HOU @ VAN W 17 5 1 6 16.7 1 4 25.0 2 2 100.0 0 2 2 3 0 0 0 3 4
+p674
+aVBryce Drew HOU 11/29/1999 HOU @ VAN W 17 11 4 5 80.0 1 1 100.0 2 2 100.0 1 0 1 0 0 0 2 0 3
+p675
+aVCharles Barkley HOU 11/26/1999 HOU @ POR L 40 13 3 11 27.3 1 3 33.3 6 6 100.0 3 8 11 6 1 0 4 4 0
+p676
+aVHakeem Olajuwon HOU 11/26/1999 HOU @ POR L 15 6 2 5 40.0 0 0 - 2 4 50.0 1 4 5 0 0 0 2 2 -13
+p677
+aVCarlos Rogers HOU 11/26/1999 HOU @ POR L 13 2 1 3 33.3 0 0 - 0 0 - 0 6 6 0 1 1 5 1 -3
+p678
+aVWalt Williams HOU 11/26/1999 HOU @ POR L 19 5 2 6 33.3 1 3 33.3 0 0 - 0 4 4 1 2 2 0 2 -6
+p679
+aVCuttino Mobley HOU 11/26/1999 HOU @ POR L 39 25 7 19 36.8 3 7 42.9 8 9 88.9 1 4 5 3 1 0 5 3 7
+p680
+aVShandon Anderson HOU 11/26/1999 HOU @ POR L 22 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 0 0 2 1 -11
+p681
+aVBryce Drew HOU 11/26/1999 HOU @ POR L 16 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 17
+p682
+aVMatt Bullard HOU 11/26/1999 HOU @ POR L 26 8 3 8 37.5 2 7 28.6 0 0 - 0 4 4 2 0 0 0 3 4
+p683
+aVKelvin Cato HOU 11/26/1999 HOU @ POR L 37 13 4 7 57.1 0 0 - 5 7 71.4 5 7 12 1 1 2 0 4 8
+p684
+aVSteve Francis HOU 11/26/1999 HOU @ POR L 38 10 3 17 17.6 0 4 0.0 4 6 66.7 3 2 5 2 0 0 4 5 -18
+p685
+aVBryce Drew HOU 11/23/1999 HOU vs. DAL W 25 14 5 9 55.6 4 6 66.7 0 0 - 0 2 2 4 0 0 0 1 -4
+p686
+aVKenny Thomas HOU 11/23/1999 HOU vs. DAL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -3
+p687
+aVKelvin Cato HOU 11/23/1999 HOU vs. DAL W 8 3 1 1 100.0 0 0 - 1 3 33.3 0 0 0 0 0 1 1 0 -11
+p688
+aVMatt Bullard HOU 11/23/1999 HOU vs. DAL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -16
+p689
+aVCharles Barkley HOU 11/23/1999 HOU vs. DAL W 33 26 10 15 66.7 0 1 0.0 6 10 60.0 7 8 15 4 1 0 1 1 29
+p690
+aVCarlos Rogers HOU 11/23/1999 HOU vs. DAL W 20 10 5 10 50.0 0 0 - 0 0 - 3 5 8 0 1 0 1 3 -3
+p691
+aVHakeem Olajuwon HOU 11/23/1999 HOU vs. DAL W 29 8 4 7 57.1 0 0 - 0 0 - 0 6 6 3 0 3 1 0 33
+p692
+aVShandon Anderson HOU 11/23/1999 HOU vs. DAL W 29 16 7 7 100.0 2 2 100.0 0 0 - 2 3 5 4 3 1 4 4 26
+p693
+aVSteve Francis HOU 11/23/1999 HOU vs. DAL W 37 17 7 20 35.0 1 7 14.3 2 2 100.0 1 3 4 7 2 0 3 3 29
+p694
+aVCuttino Mobley HOU 11/23/1999 HOU vs. DAL W 26 15 5 12 41.7 1 4 25.0 4 4 100.0 2 0 2 3 1 1 5 4 -7
+p695
+aVWalt Williams HOU 11/23/1999 HOU vs. DAL W 22 10 4 7 57.1 1 4 25.0 1 1 100.0 0 3 3 4 1 0 2 1 27
+p696
+aVCuttino Mobley HOU 11/21/1999 HOU @ SAC L 32 14 5 11 45.5 1 2 50.0 3 3 100.0 0 1 1 3 3 1 0 0 -3
+p697
+aVHakeem Olajuwon HOU 11/21/1999 HOU @ SAC L 32 20 8 16 50.0 0 0 - 4 4 100.0 2 13 15 0 2 0 3 3 0
+p698
+aVShandon Anderson HOU 11/21/1999 HOU @ SAC L 35 12 5 10 50.0 2 3 66.7 0 0 - 2 3 5 1 1 0 1 2 0
+p699
+aVBryce Drew HOU 11/21/1999 HOU @ SAC L 20 7 3 8 37.5 1 1 100.0 0 0 - 0 0 0 2 0 0 0 2 6
+p700
+aVSteve Francis HOU 11/21/1999 HOU @ SAC L 35 21 8 18 44.4 2 6 33.3 3 4 75.0 8 1 9 4 1 0 8 1 -18
+p701
+aVCharles Barkley HOU 11/21/1999 HOU @ SAC L 39 19 8 17 47.1 1 3 33.3 2 2 100.0 1 7 8 5 1 0 2 1 -3
+p702
+aVWalt Williams HOU 11/21/1999 HOU @ SAC L 23 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 1 0 0 1 1 -2
+p703
+aVCarlos Rogers HOU 11/21/1999 HOU @ SAC L 25 6 3 7 42.9 0 0 - 0 0 - 2 4 6 1 0 1 1 0 -5
+p704
+aVBryce Drew HOU 11/20/1999 HOU @ SEA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p705
+aVHakeem Olajuwon HOU 11/20/1999 HOU @ SEA L 32 16 8 13 61.5 0 0 - 0 0 - 2 2 4 1 2 1 1 5 -7
+p706
+aVSteve Francis HOU 11/20/1999 HOU @ SEA L 42 27 10 20 50.0 5 13 38.5 2 2 100.0 2 5 7 5 1 0 7 5 -4
+p707
+aVMatt Bullard HOU 11/20/1999 HOU @ SEA L 18 9 3 5 60.0 3 4 75.0 0 2 0.0 0 2 2 2 0 0 0 1 0
+p708
+aVCarlos Rogers HOU 11/20/1999 HOU @ SEA L 22 10 3 6 50.0 0 0 - 4 6 66.7 3 7 10 1 0 0 0 2 0
+p709
+aVCharles Barkley HOU 11/20/1999 HOU @ SEA L 33 9 3 13 23.1 0 3 0.0 3 5 60.0 3 8 11 4 1 0 2 2 4
+p710
+aVWalt Williams HOU 11/20/1999 HOU @ SEA L 21 3 1 5 20.0 1 3 33.3 0 0 - 0 5 5 3 0 1 1 3 -3
+p711
+aVShandon Anderson HOU 11/20/1999 HOU @ SEA L 28 14 6 13 46.2 0 3 0.0 2 2 100.0 4 1 5 4 0 0 3 3 -4
+p712
+aVKelvin Cato HOU 11/20/1999 HOU @ SEA L 9 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 0 0 2 1 -3
+p713
+aVCuttino Mobley HOU 11/20/1999 HOU @ SEA L 29 19 7 13 53.8 4 6 66.7 1 2 50.0 2 1 3 5 0 2 0 3 1
+p714
+aVTony Massenburg HOU 11/18/1999 HOU vs. SAC L 9 5 2 2 100.0 0 0 - 1 1 100.0 1 1 2 0 1 0 1 2 -7
+p715
+aVKenny Thomas HOU 11/18/1999 HOU vs. SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p716
+aVWalt Williams HOU 11/18/1999 HOU vs. SAC L 13 6 2 4 50.0 2 3 66.7 0 0 - 1 3 4 5 0 0 3 4 8
+p717
+aVBryce Drew HOU 11/18/1999 HOU vs. SAC L 25 7 3 9 33.3 1 4 25.0 0 0 - 0 2 2 1 1 0 4 3 -26
+p718
+aVShandon Anderson HOU 11/18/1999 HOU vs. SAC L 37 11 5 12 41.7 1 4 25.0 0 0 - 1 5 6 4 2 1 1 3 1
+p719
+aVCharles Barkley HOU 11/18/1999 HOU vs. SAC L 28 16 8 14 57.1 0 2 0.0 0 0 - 6 10 16 1 0 0 4 3 -10
+p720
+aVCuttino Mobley HOU 11/18/1999 HOU vs. SAC L 33 8 3 12 25.0 0 4 0.0 2 2 100.0 0 2 2 7 1 0 0 1 -16
+p721
+aVSteve Francis HOU 11/18/1999 HOU vs. SAC L 34 16 6 14 42.9 0 2 0.0 4 6 66.7 3 1 4 11 2 0 4 2 -18
+p722
+aVKelvin Cato HOU 11/18/1999 HOU vs. SAC L 18 8 3 5 60.0 0 0 - 2 2 100.0 2 4 6 0 1 0 2 5 -3
+p723
+aVHakeem Olajuwon HOU 11/18/1999 HOU vs. SAC L 34 31 13 23 56.5 0 0 - 5 8 62.5 3 5 8 2 0 3 0 3 -2
+p724
+aVCarlos Rogers HOU 11/18/1999 HOU vs. SAC L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -14
+p725
+aVSteve Francis HOU 11/16/1999 HOU @ DAL L 15 3 1 5 20.0 0 0 - 1 2 50.0 0 3 3 6 1 0 1 2 -12
+p726
+aVThomas Hamilton HOU 11/16/1999 HOU @ DAL L 6 6 2 5 40.0 0 0 - 2 3 66.7 2 2 4 1 0 1 0 1 5
+p727
+aVCuttino Mobley HOU 11/16/1999 HOU @ DAL L 27 7 2 9 22.2 0 1 0.0 3 3 100.0 1 1 2 0 0 0 3 3 -1
+p728
+aVWalt Williams HOU 11/16/1999 HOU @ DAL L 27 7 3 11 27.3 1 7 14.3 0 1 0.0 2 2 4 1 0 1 1 2 -11
+p729
+aVCarlos Rogers HOU 11/16/1999 HOU @ DAL L 14 13 6 9 66.7 0 0 - 1 3 33.3 7 3 10 0 0 2 2 3 -10
+p730
+aVCharles Barkley HOU 11/16/1999 HOU @ DAL L 29 7 1 7 14.3 1 1 100.0 4 4 100.0 4 7 11 4 1 0 2 2 -16
+p731
+aVHakeem Olajuwon HOU 11/16/1999 HOU @ DAL L 27 13 6 10 60.0 0 0 - 1 2 50.0 1 5 6 1 1 1 2 2 -14
+p732
+aVShandon Anderson HOU 11/16/1999 HOU @ DAL L 32 14 4 9 44.4 2 4 50.0 4 7 57.1 0 2 2 3 3 0 3 3 -24
+p733
+aVTony Massenburg HOU 11/16/1999 HOU @ DAL L 8 4 2 6 33.3 0 0 - 0 0 - 2 2 4 1 0 0 1 0 -6
+p734
+aVKelvin Cato HOU 11/16/1999 HOU @ DAL L 14 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 0 1 0 0 3 -1
+p735
+aVBryce Drew HOU 11/16/1999 HOU @ DAL L 37 15 5 18 27.8 1 7 14.3 4 6 66.7 0 3 3 2 1 0 1 1 -10
+p736
+aVKenny Thomas HOU 11/16/1999 HOU @ DAL L 5 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 5
+p737
+aVCharles Barkley HOU 11/15/1999 HOU vs. IND L 35 18 7 12 58.3 1 1 100.0 3 4 75.0 9 15 24 0 1 0 1 5 -11
+p738
+aVCuttino Mobley HOU 11/15/1999 HOU vs. IND L 33 5 2 10 20.0 0 3 0.0 1 2 50.0 1 2 3 1 1 0 1 3 -5
+p739
+aVTony Massenburg HOU 11/15/1999 HOU vs. IND L 13 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 0 0 1 1 0 -1
+p740
+aVCarlos Rogers HOU 11/15/1999 HOU vs. IND L 13 0 0 1 0.0 0 1 0.0 0 2 0.0 0 2 2 0 1 1 2 2 3
+p741
+aVBryce Drew HOU 11/15/1999 HOU vs. IND L 10 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 1 0 0 2 0 0
+p742
+aVHakeem Olajuwon HOU 11/15/1999 HOU vs. IND L 35 18 9 21 42.9 0 0 - 0 0 - 0 5 5 3 1 0 5 3 -8
+p743
+aVShandon Anderson HOU 11/15/1999 HOU vs. IND L 17 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 1 1 2 -7
+p744
+aVSteve Francis HOU 11/15/1999 HOU vs. IND L 38 18 8 17 47.1 2 6 33.3 0 0 - 2 4 6 12 2 0 4 4 -9
+p745
+aVKelvin Cato HOU 11/15/1999 HOU vs. IND L 13 6 1 1 100.0 0 0 - 4 4 100.0 0 4 4 0 1 2 0 2 2
+p746
+aVWalt Williams HOU 11/15/1999 HOU vs. IND L 33 8 4 8 50.0 0 4 0.0 0 0 - 0 4 4 4 1 0 0 4 -9
+p747
+aVCuttino Mobley HOU 11/13/1999 HOU @ GSW W 27 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 3 1 0 4 0 10
+p748
+aVCarlos Rogers HOU 11/13/1999 HOU @ GSW W 19 6 1 2 50.0 0 0 - 4 4 100.0 1 2 3 0 0 0 0 1 -2
+p749
+aVKelvin Cato HOU 11/13/1999 HOU @ GSW W 23 7 3 8 37.5 0 0 - 1 2 50.0 0 6 6 0 0 0 0 2 2
+p750
+aVWalt Williams HOU 11/13/1999 HOU @ GSW W 29 16 5 8 62.5 5 8 62.5 1 1 100.0 0 2 2 1 2 0 1 3 10
+p751
+aVTony Massenburg HOU 11/13/1999 HOU @ GSW W 14 7 2 3 66.7 0 0 - 3 4 75.0 0 1 1 0 0 0 0 3 5
+p752
+aVHakeem Olajuwon HOU 11/13/1999 HOU @ GSW W 33 15 6 16 37.5 0 0 - 3 4 75.0 3 12 15 0 2 3 2 2 4
+p753
+aVSteve Francis HOU 11/13/1999 HOU @ GSW W 42 27 7 13 53.8 4 7 57.1 9 10 90.0 1 4 5 8 1 1 1 2 3
+p754
+aVShandon Anderson HOU 11/13/1999 HOU @ GSW W 21 6 3 10 30.0 0 0 - 0 0 - 0 0 0 3 1 0 1 1 -2
+p755
+aVBryce Drew HOU 11/13/1999 HOU @ GSW W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 5
+p756
+aVCharles Barkley HOU 11/13/1999 HOU @ GSW W 26 15 5 17 29.4 0 1 0.0 5 7 71.4 9 7 16 2 1 0 1 3 5
+p757
+aVBryce Drew HOU 11/12/1999 HOU @ LAL W 18 12 5 6 83.3 2 2 100.0 0 0 - 0 1 1 0 0 0 0 1 4
+p758
+aVWalt Williams HOU 11/12/1999 HOU @ LAL W 26 7 2 7 28.6 1 3 33.3 2 2 100.0 1 3 4 2 1 1 2 3 13
+p759
+aVKenny Thomas HOU 11/12/1999 HOU @ LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p760
+aVThomas Hamilton HOU 11/12/1999 HOU @ LAL W 1 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -1
+p761
+aVCarlos Rogers HOU 11/12/1999 HOU @ LAL W 26 16 6 6 100.0 0 0 - 4 4 100.0 1 5 6 1 1 1 3 1 8
+p762
+aVTony Massenburg HOU 11/12/1999 HOU @ LAL W 21 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 0 1 1 1 2 3
+p763
+aVCuttino Mobley HOU 11/12/1999 HOU @ LAL W 29 6 1 7 14.3 0 3 0.0 4 4 100.0 1 1 2 4 1 0 1 3 7
+p764
+aVHakeem Olajuwon HOU 11/12/1999 HOU @ LAL W 32 12 6 12 50.0 0 0 - 0 0 - 1 10 11 1 4 6 4 1 23
+p765
+aVShandon Anderson HOU 11/12/1999 HOU @ LAL W 36 9 4 10 40.0 0 2 0.0 1 1 100.0 2 5 7 3 2 0 1 2 16
+p766
+aVSteve Francis HOU 11/12/1999 HOU @ LAL W 34 22 6 11 54.5 3 6 50.0 7 8 87.5 0 4 4 7 2 0 6 2 12
+p767
+aVKelvin Cato HOU 11/12/1999 HOU @ LAL W 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 2 4 -1
+p768
+aVWalt Williams HOU 11/10/1999 HOU vs. LAL L 26 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 3 1 0 1 3 7
+p769
+aVSteve Francis HOU 11/10/1999 HOU vs. LAL L 42 26 9 18 50.0 2 8 25.0 6 8 75.0 2 8 10 5 4 0 6 4 -6
+p770
+aVShandon Anderson HOU 11/10/1999 HOU vs. LAL L 24 7 3 6 50.0 0 0 - 1 1 100.0 1 3 4 5 2 0 1 4 20
+p771
+aVCarlos Rogers HOU 11/10/1999 HOU vs. LAL L 20 8 4 8 50.0 0 1 0.0 0 1 0.0 2 3 5 0 0 1 1 3 -14
+p772
+aVCuttino Mobley HOU 11/10/1999 HOU vs. LAL L 35 9 1 6 16.7 1 5 20.0 6 7 85.7 0 5 5 5 0 0 2 4 -15
+p773
+aVTony Massenburg HOU 11/10/1999 HOU vs. LAL L 17 6 2 4 50.0 0 0 - 2 3 66.7 1 0 1 0 0 1 1 3 -6
+p774
+aVCharles Barkley HOU 11/10/1999 HOU vs. LAL L 9 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 0 5
+p775
+aVBryce Drew HOU 11/10/1999 HOU vs. LAL L 13 4 1 3 33.3 1 1 100.0 1 2 50.0 0 1 1 0 0 0 0 0 4
+p776
+aVThomas Hamilton HOU 11/10/1999 HOU vs. LAL L 5 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 1 1 1 -8
+p777
+aVKelvin Cato HOU 11/10/1999 HOU vs. LAL L 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -5
+p778
+aVHakeem Olajuwon HOU 11/10/1999 HOU vs. LAL L 36 15 5 18 27.8 0 0 - 5 7 71.4 3 7 10 1 1 2 1 1 13
+p779
+aVShandon Anderson HOU 11/08/1999 HOU vs. ORL L 29 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 1 1 0 2 1 -3
+p780
+aVWalt Williams HOU 11/08/1999 HOU vs. ORL L 25 5 1 5 20.0 0 2 0.0 3 3 100.0 1 0 1 2 0 2 4 6 3
+p781
+aVTony Massenburg HOU 11/08/1999 HOU vs. ORL L 9 8 2 4 50.0 0 0 - 4 4 100.0 1 4 5 0 0 1 2 0 -2
+p782
+aVSteve Francis HOU 11/08/1999 HOU vs. ORL L 31 9 3 9 33.3 0 2 0.0 3 4 75.0 0 1 1 6 1 2 3 4 -2
+p783
+aVCuttino Mobley HOU 11/08/1999 HOU vs. ORL L 35 25 10 15 66.7 2 3 66.7 3 4 75.0 1 6 7 5 3 0 2 4 -10
+p784
+aVCarlos Rogers HOU 11/08/1999 HOU vs. ORL L 6 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 1 0 -4
+p785
+aVKelvin Cato HOU 11/08/1999 HOU vs. ORL L 19 8 2 4 50.0 0 0 - 4 7 57.1 4 0 4 0 0 2 0 4 0
+p786
+aVBryce Drew HOU 11/08/1999 HOU vs. ORL L 18 2 1 6 16.7 0 3 0.0 0 0 - 1 2 3 0 1 0 2 2 -3
+p787
+aVCharles Barkley HOU 11/08/1999 HOU vs. ORL L 37 18 6 13 46.2 0 1 0.0 6 8 75.0 4 13 17 5 0 0 8 4 -2
+p788
+aVHakeem Olajuwon HOU 11/08/1999 HOU vs. ORL L 30 16 6 15 40.0 0 0 - 4 5 80.0 1 7 8 0 6 3 3 3 -2
+p789
+aVWalt Williams HOU 11/05/1999 HOU vs. SAS L 36 19 7 14 50.0 3 8 37.5 2 2 100.0 2 2 4 1 1 0 2 5 -3
+p790
+aVHakeem Olajuwon HOU 11/05/1999 HOU vs. SAS L 35 13 6 13 46.2 0 0 - 1 2 50.0 5 3 8 2 2 1 3 1 -9
+p791
+aVSteve Francis HOU 11/05/1999 HOU vs. SAS L 37 15 6 13 46.2 0 5 0.0 3 4 75.0 2 1 3 3 3 0 5 4 -1
+p792
+aVCharles Barkley HOU 11/05/1999 HOU vs. SAS L 40 18 7 16 43.8 0 0 - 4 8 50.0 3 10 13 2 1 0 2 5 -1
+p793
+aVBryce Drew HOU 11/05/1999 HOU vs. SAS L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 -9
+p794
+aVCuttino Mobley HOU 11/05/1999 HOU vs. SAS L 32 14 4 14 28.6 1 3 33.3 5 7 71.4 0 2 2 1 2 0 2 2 -8
+p795
+aVKelvin Cato HOU 11/05/1999 HOU vs. SAS L 16 4 2 6 33.3 0 0 - 0 0 - 3 4 7 0 1 2 0 2 -4
+p796
+aVCarlos Rogers HOU 11/05/1999 HOU vs. SAS L 11 0 0 0 - 0 0 - 0 0 - 0 3 3 1 1 0 0 1 -9
+p797
+aVShandon Anderson HOU 11/05/1999 HOU vs. SAS L 17 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 2 1 1 3 2 0
+p798
+aVTony Massenburg HOU 11/05/1999 HOU vs. SAS L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -6
+p799
+aVKelvin Cato HOU 11/04/1999 HOU @ UTA L 19 6 1 4 25.0 0 0 - 4 6 66.7 1 2 3 0 1 2 0 4 -9
+p800
+aVHakeem Olajuwon HOU 11/04/1999 HOU @ UTA L 28 12 6 13 46.2 0 1 0.0 0 0 - 1 3 4 3 3 3 3 2 -17
+p801
+aVTony Massenburg HOU 11/04/1999 HOU @ UTA L 10 2 1 1 100.0 0 0 - 0 0 - 0 6 6 1 0 0 1 2 1
+p802
+aVThomas Hamilton HOU 11/04/1999 HOU @ UTA L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 2 1 4
+p803
+aVBryce Drew HOU 11/04/1999 HOU @ UTA L 19 10 3 7 42.9 1 3 33.3 3 3 100.0 1 0 1 2 2 0 3 3 0
+p804
+aVCarlos Rogers HOU 11/04/1999 HOU @ UTA L 11 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 1 0 8
+p805
+aVWalt Williams HOU 11/04/1999 HOU @ UTA L 29 9 3 6 50.0 2 4 50.0 1 1 100.0 0 2 2 0 1 0 2 3 -18
+p806
+aVSteve Francis HOU 11/04/1999 HOU @ UTA L 30 8 3 8 37.5 1 2 50.0 1 2 50.0 0 2 2 5 0 0 4 2 -15
+p807
+aVShandon Anderson HOU 11/04/1999 HOU @ UTA L 22 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 3 2 -11
+p808
+aVCuttino Mobley HOU 11/04/1999 HOU @ UTA L 33 17 6 12 50.0 3 6 50.0 2 2 100.0 1 3 4 1 2 0 3 2 -12
+p809
+aVCharles Barkley HOU 11/04/1999 HOU @ UTA L 34 8 3 10 30.0 0 1 0.0 2 2 100.0 1 4 5 6 0 0 1 1 -11
+p810
+aVShandon Anderson HOU 11/02/1999 HOU vs. MIL L 27 11 4 10 40.0 2 4 50.0 1 2 50.0 1 1 2 4 0 0 2 3 -14
+p811
+aVKelvin Cato HOU 11/02/1999 HOU vs. MIL L 24 7 3 7 42.9 0 0 - 1 2 50.0 1 4 5 0 0 2 1 3 5
+p812
+aVKenny Thomas HOU 11/02/1999 HOU vs. MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p813
+aVCarlos Rogers HOU 11/02/1999 HOU vs. MIL L 3 4 0 1 0.0 0 0 - 4 4 100.0 0 2 2 0 0 0 0 0 6
+p814
+aVSteve Francis HOU 11/02/1999 HOU vs. MIL L 38 14 4 13 30.8 1 5 20.0 5 8 62.5 3 3 6 4 3 0 2 4 -7
+p815
+aVTony Massenburg HOU 11/02/1999 HOU vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 6
+p816
+aVCuttino Mobley HOU 11/02/1999 HOU vs. MIL L 38 13 6 14 42.9 1 4 25.0 0 0 - 3 0 3 0 0 1 2 2 6
+p817
+aVBryce Drew HOU 11/02/1999 HOU vs. MIL L 18 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 3 1 0 3 2 7
+p818
+aVHakeem Olajuwon HOU 11/02/1999 HOU vs. MIL L 34 12 4 9 44.4 0 0 - 4 6 66.7 2 9 11 7 1 2 3 4 -5
+p819
+aVWalt Williams HOU 11/02/1999 HOU vs. MIL L 21 10 4 8 50.0 1 4 25.0 1 1 100.0 0 0 0 1 0 1 4 4 -13
+p820
+aVCharles Barkley HOU 11/02/1999 HOU vs. MIL L 35 13 5 6 83.3 0 0 - 3 6 50.0 5 6 11 2 0 1 1 2 -14
+p821
+a.

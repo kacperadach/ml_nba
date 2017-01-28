@@ -1,0 +1,1678 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAndre Iguodala PHI 04/15/2009 PHI @ CLE W 47 24 6 11 54.5 2 4 50.0 10 14 71.4 2 6 8 5 2 0 3 0 6
+p2
+aVLou Williams PHI 04/15/2009 PHI @ CLE W 32 19 7 11 63.6 0 0 - 5 6 83.3 0 2 2 0 2 0 2 3 2
+p3
+aVMarreese Speights PHI 04/15/2009 PHI @ CLE W 14 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 4
+p4
+aVWillie Green PHI 04/15/2009 PHI @ CLE W 20 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 3 -2
+p5
+aVReggie Evans PHI 04/15/2009 PHI @ CLE W 20 10 4 6 66.7 0 0 - 2 2 100.0 2 5 7 0 1 0 3 3 -8
+p6
+aVRoyal Ivey PHI 04/15/2009 PHI @ CLE W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p7
+aVAndre Miller PHI 04/15/2009 PHI @ CLE W 44 30 10 18 55.6 1 2 50.0 9 13 69.2 1 0 1 8 3 0 1 3 2
+p8
+aVTheo Ratliff PHI 04/15/2009 PHI @ CLE W 25 2 1 1 100.0 0 0 - 0 0 - 2 4 6 0 1 3 0 1 11
+p9
+aVThaddeus Young PHI 04/15/2009 PHI @ CLE W 37 20 8 14 57.1 0 1 0.0 4 6 66.7 3 6 9 1 3 0 4 1 9
+p10
+aVSamuel Dalembert PHI 04/15/2009 PHI @ CLE W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 2 0 1 -9
+p11
+aVThaddeus Young PHI 04/14/2009 PHI vs. BOS L 29 18 8 16 50.0 1 4 25.0 1 3 33.3 1 2 3 1 3 0 1 3 1
+p12
+aVLou Williams PHI 04/14/2009 PHI vs. BOS L 25 14 4 10 40.0 0 0 - 6 6 100.0 0 1 1 2 1 0 1 1 2
+p13
+aVRoyal Ivey PHI 04/14/2009 PHI vs. BOS L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 5
+p14
+aVSamuel Dalembert PHI 04/14/2009 PHI vs. BOS L 34 8 4 7 57.1 0 0 - 0 0 - 4 5 9 0 2 4 1 2 2
+p15
+aVAndre Iguodala PHI 04/14/2009 PHI vs. BOS L 43 25 9 18 50.0 1 4 25.0 6 8 75.0 1 4 5 7 2 1 4 2 -3
+p16
+aVReggie Evans PHI 04/14/2009 PHI vs. BOS L 14 2 1 6 16.7 0 0 - 0 0 - 3 2 5 0 0 0 1 4 -6
+p17
+aVWillie Green PHI 04/14/2009 PHI vs. BOS L 25 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 1 0 1 1 2 -8
+p18
+aVTheo Ratliff PHI 04/14/2009 PHI vs. BOS L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p19
+aVMarreese Speights PHI 04/14/2009 PHI vs. BOS L 15 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 1 0 1 0 1 10
+p20
+aVAndre Miller PHI 04/14/2009 PHI vs. BOS L 37 15 5 12 41.7 0 1 0.0 5 6 83.3 1 5 6 9 0 0 2 3 -14
+p21
+aVAndre Iguodala PHI 04/12/2009 PHI @ TOR L 44 21 7 13 53.8 2 4 50.0 5 7 71.4 2 3 5 8 0 0 10 2 -14
+p22
+aVTheo Ratliff PHI 04/12/2009 PHI @ TOR L 16 0 0 0 - 0 0 - 0 0 - 1 3 4 0 2 1 1 0 -2
+p23
+aVMarreese Speights PHI 04/12/2009 PHI @ TOR L 29 10 5 13 38.5 0 1 0.0 0 0 - 2 3 5 0 0 0 0 3 0
+p24
+aVWillie Green PHI 04/12/2009 PHI @ TOR L 21 7 3 8 37.5 1 2 50.0 0 0 - 1 0 1 0 0 1 0 1 -13
+p25
+aVAndre Miller PHI 04/12/2009 PHI @ TOR L 33 10 2 14 14.3 0 1 0.0 6 7 85.7 4 2 6 4 0 0 2 3 -6
+p26
+aVRoyal Ivey PHI 04/12/2009 PHI @ TOR L 15 9 3 5 60.0 3 4 75.0 0 0 - 2 0 2 0 0 0 2 2 -1
+p27
+aVSamuel Dalembert PHI 04/12/2009 PHI @ TOR L 29 18 6 7 85.7 0 0 - 6 6 100.0 6 6 12 0 0 1 2 3 1
+p28
+aVLou Williams PHI 04/12/2009 PHI @ TOR L 30 23 5 13 38.5 0 5 0.0 13 14 92.9 1 3 4 6 2 0 1 4 0
+p29
+aVReggie Evans PHI 04/12/2009 PHI @ TOR L 19 6 3 9 33.3 0 0 - 0 0 - 3 5 8 0 0 0 1 2 -7
+p30
+aVKareem Rush PHI 04/12/2009 PHI @ TOR L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 7
+p31
+aVRoyal Ivey PHI 04/10/2009 PHI vs. CLE L 8 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -10
+p32
+aVSamuel Dalembert PHI 04/10/2009 PHI vs. CLE L 30 6 2 4 50.0 0 0 - 2 2 100.0 1 6 7 0 0 3 1 3 2
+p33
+aVReggie Evans PHI 04/10/2009 PHI vs. CLE L 25 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 1 1 0 0 2 -1
+p34
+aVMarreese Speights PHI 04/10/2009 PHI vs. CLE L 23 9 4 9 44.4 0 0 - 1 2 50.0 5 4 9 1 0 1 0 0 -7
+p35
+aVAndre Miller PHI 04/10/2009 PHI vs. CLE L 40 17 8 19 42.1 0 0 - 1 2 50.0 0 2 2 3 1 0 1 2 -2
+p36
+aVWillie Green PHI 04/10/2009 PHI vs. CLE L 35 8 3 13 23.1 1 4 25.0 1 2 50.0 0 5 5 4 1 0 1 1 -4
+p37
+aVTheo Ratliff PHI 04/10/2009 PHI vs. CLE L 16 2 0 1 0.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 1 -15
+p38
+aVAndre Iguodala PHI 04/10/2009 PHI vs. CLE L 39 26 8 11 72.7 1 2 50.0 9 11 81.8 0 1 1 3 1 0 1 3 -5
+p39
+aVLou Williams PHI 04/10/2009 PHI vs. CLE L 23 17 5 10 50.0 0 2 0.0 7 8 87.5 0 2 2 0 1 1 3 1 -8
+p40
+aVAndre Iguodala PHI 04/09/2009 PHI @ CHI L 42 19 7 15 46.7 2 4 50.0 3 6 50.0 2 5 7 10 1 0 1 2 -5
+p41
+aVAndre Miller PHI 04/09/2009 PHI @ CHI L 37 20 9 18 50.0 0 0 - 2 3 66.7 1 4 5 5 0 0 3 2 -4
+p42
+aVReggie Evans PHI 04/09/2009 PHI @ CHI L 23 6 1 1 100.0 0 0 - 4 6 66.7 2 3 5 1 1 0 1 3 -2
+p43
+aVTheo Ratliff PHI 04/09/2009 PHI @ CHI L 13 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 0 0 1 0 1 -13
+p44
+aVSamuel Dalembert PHI 04/09/2009 PHI @ CHI L 26 9 4 10 40.0 0 0 - 1 2 50.0 3 3 6 1 1 3 3 3 5
+p45
+aVRoyal Ivey PHI 04/09/2009 PHI @ CHI L 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -16
+p46
+aVDonyell Marshall PHI 04/09/2009 PHI @ CHI L 7 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 0 -6
+p47
+aVMarreese Speights PHI 04/09/2009 PHI @ CHI L 26 9 3 7 42.9 0 0 - 3 4 75.0 0 3 3 0 0 0 0 3 -12
+p48
+aVWillie Green PHI 04/09/2009 PHI @ CHI L 31 12 5 6 83.3 2 2 100.0 0 0 - 1 3 4 1 0 0 2 2 2
+p49
+aVLou Williams PHI 04/09/2009 PHI @ CHI L 22 16 6 11 54.5 2 3 66.7 2 2 100.0 0 1 1 3 3 0 2 0 -19
+p50
+aVLou Williams PHI 04/07/2009 PHI @ CHA L 28 20 7 15 46.7 1 1 100.0 5 6 83.3 0 0 0 2 2 0 0 2 -12
+p51
+aVDonyell Marshall PHI 04/07/2009 PHI @ CHA L 10 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 0 0 0 5
+p52
+aVRoyal Ivey PHI 04/07/2009 PHI @ CHA L 9 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 0 2 -7
+p53
+aVTheo Ratliff PHI 04/07/2009 PHI @ CHA L 26 2 0 3 0.0 0 0 - 2 2 100.0 2 3 5 1 2 4 0 4 -23
+p54
+aVAndre Iguodala PHI 04/07/2009 PHI @ CHA L 41 19 8 19 42.1 2 8 25.0 1 3 33.3 0 4 4 4 0 3 1 1 -6
+p55
+aVSamuel Dalembert PHI 04/07/2009 PHI @ CHA L 20 4 2 5 40.0 0 0 - 0 0 - 4 5 9 0 0 1 1 4 19
+p56
+aVAndre Miller PHI 04/07/2009 PHI @ CHA L 43 23 8 13 61.5 0 0 - 7 7 100.0 3 1 4 7 1 1 3 2 7
+p57
+aVWillie Green PHI 04/07/2009 PHI @ CHA L 23 17 6 14 42.9 3 6 50.0 2 2 100.0 1 1 2 2 1 0 0 3 7
+p58
+aVReggie Evans PHI 04/07/2009 PHI @ CHA L 21 0 0 3 0.0 0 1 0.0 0 4 0.0 0 4 4 0 0 0 0 4 2
+p59
+aVMarreese Speights PHI 04/07/2009 PHI @ CHA L 20 8 3 6 50.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 2 -7
+p60
+aVAndre Miller PHI 04/05/2009 PHI @ NJN L 31 7 3 9 33.3 0 0 - 1 2 50.0 1 1 2 5 2 0 3 4 -15
+p61
+aVAndre Iguodala PHI 04/05/2009 PHI @ NJN L 38 5 1 8 12.5 0 2 0.0 3 8 37.5 3 3 6 5 1 1 1 3 -12
+p62
+aVMarreese Speights PHI 04/05/2009 PHI @ NJN L 15 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -28
+p63
+aVTheo Ratliff PHI 04/05/2009 PHI @ NJN L 17 8 4 5 80.0 0 0 - 0 1 0.0 3 2 5 0 0 2 0 2 -10
+p64
+aVWillie Green PHI 04/05/2009 PHI @ NJN L 32 9 4 11 36.4 1 3 33.3 0 0 - 0 0 0 1 0 0 0 1 -18
+p65
+aVRoyal Ivey PHI 04/05/2009 PHI @ NJN L 16 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 1 1 0 1 1 -13
+p66
+aVReggie Evans PHI 04/05/2009 PHI @ NJN L 19 4 2 4 50.0 0 0 - 0 4 0.0 3 8 11 1 0 0 1 0 -1
+p67
+aVDonyell Marshall PHI 04/05/2009 PHI @ NJN L 5 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 -9
+p68
+aVLou Williams PHI 04/05/2009 PHI @ NJN L 32 14 4 15 26.7 2 6 33.3 4 6 66.7 1 2 3 1 3 0 0 1 -28
+p69
+aVKareem Rush PHI 04/05/2009 PHI @ NJN L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 0 -1
+p70
+aVSamuel Dalembert PHI 04/05/2009 PHI @ NJN L 26 9 4 7 57.1 0 0 - 1 2 50.0 2 9 11 0 0 3 5 4 -10
+p71
+aVAndre Iguodala PHI 04/04/2009 PHI vs. DET W 45 31 13 19 68.4 1 2 50.0 4 6 66.7 2 7 9 1 1 0 2 3 3
+p72
+aVLou Williams PHI 04/04/2009 PHI vs. DET W 29 15 6 10 60.0 1 1 100.0 2 4 50.0 0 2 2 2 0 0 2 2 3
+p73
+aVAndre Miller PHI 04/04/2009 PHI vs. DET W 45 21 6 17 35.3 0 0 - 9 10 90.0 2 8 10 12 2 0 3 3 12
+p74
+aVReggie Evans PHI 04/04/2009 PHI vs. DET W 23 6 2 4 50.0 0 0 - 2 2 100.0 2 6 8 0 0 0 1 3 10
+p75
+aVSamuel Dalembert PHI 04/04/2009 PHI vs. DET W 10 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 4 10
+p76
+aVMarreese Speights PHI 04/04/2009 PHI vs. DET W 24 10 4 10 40.0 0 0 - 2 2 100.0 3 2 5 0 0 1 0 4 -5
+p77
+aVDonyell Marshall PHI 04/04/2009 PHI vs. DET W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 8
+p78
+aVRoyal Ivey PHI 04/04/2009 PHI vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p79
+aVWillie Green PHI 04/04/2009 PHI vs. DET W 22 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 2 2 0 1 2 9
+p80
+aVTheo Ratliff PHI 04/04/2009 PHI vs. DET W 31 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 1 2 2 4 -15
+p81
+aVReggie Evans PHI 04/02/2009 PHI vs. MIL W 26 13 4 6 66.7 0 0 - 5 7 71.4 4 3 7 0 0 0 2 4 2
+p82
+aVAndre Miller PHI 04/02/2009 PHI vs. MIL W 39 18 7 11 63.6 0 0 - 4 4 100.0 2 3 5 11 1 0 8 2 19
+p83
+aVSamuel Dalembert PHI 04/02/2009 PHI vs. MIL W 19 4 1 6 16.7 0 0 - 2 4 50.0 2 8 10 0 0 0 1 4 7
+p84
+aVTheo Ratliff PHI 04/02/2009 PHI vs. MIL W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 3 -11
+p85
+aVAndre Iguodala PHI 04/02/2009 PHI vs. MIL W 43 20 5 14 35.7 0 3 0.0 10 14 71.4 1 3 4 3 3 0 3 1 13
+p86
+aVMarreese Speights PHI 04/02/2009 PHI vs. MIL W 27 14 6 9 66.7 0 0 - 2 2 100.0 2 4 6 0 1 0 1 4 1
+p87
+aVLou Williams PHI 04/02/2009 PHI vs. MIL W 31 21 7 10 70.0 1 2 50.0 6 8 75.0 1 2 3 4 2 0 1 0 7
+p88
+aVWillie Green PHI 04/02/2009 PHI vs. MIL W 17 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 4 1
+p89
+aVDonyell Marshall PHI 04/02/2009 PHI vs. MIL W 16 3 1 4 25.0 1 3 33.3 0 0 - 0 7 7 2 0 1 1 2 22
+p90
+aVRoyal Ivey PHI 04/02/2009 PHI vs. MIL W 14 4 1 4 25.0 1 3 33.3 1 2 50.0 0 1 1 0 0 0 0 2 -11
+p91
+aVAndre Miller PHI 03/31/2009 PHI vs. ATL W 42 18 6 15 40.0 0 2 0.0 6 7 85.7 2 2 4 10 2 0 1 2 9
+p92
+aVTheo Ratliff PHI 03/31/2009 PHI vs. ATL W 10 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 1 1 0 2 11
+p93
+aVThaddeus Young PHI 03/31/2009 PHI vs. ATL W 10 6 3 8 37.5 0 0 - 0 2 0.0 0 1 1 2 1 0 0 1 7
+p94
+aVLou Williams PHI 03/31/2009 PHI vs. ATL W 19 4 1 6 16.7 0 1 0.0 2 2 100.0 1 0 1 2 0 0 2 0 3
+p95
+aVWillie Green PHI 03/31/2009 PHI vs. ATL W 31 15 7 9 77.8 1 2 50.0 0 0 - 0 0 0 2 1 0 1 1 10
+p96
+aVSamuel Dalembert PHI 03/31/2009 PHI vs. ATL W 30 6 2 4 50.0 0 0 - 2 2 100.0 3 4 7 0 0 1 1 3 6
+p97
+aVReggie Evans PHI 03/31/2009 PHI vs. ATL W 20 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 0 2 0 1 3 -6
+p98
+aVRoyal Ivey PHI 03/31/2009 PHI vs. ATL W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p99
+aVMarreese Speights PHI 03/31/2009 PHI vs. ATL W 25 16 6 13 46.2 0 1 0.0 4 4 100.0 2 1 3 2 0 0 0 4 8
+p100
+aVAndre Iguodala PHI 03/31/2009 PHI vs. ATL W 43 19 6 13 46.2 1 5 20.0 6 8 75.0 1 2 3 8 2 0 1 2 15
+p101
+aVDonyell Marshall PHI 03/29/2009 PHI @ DET L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p102
+aVThaddeus Young PHI 03/29/2009 PHI @ DET L 39 22 10 15 66.7 0 1 0.0 2 2 100.0 4 4 8 3 1 0 1 3 2
+p103
+aVLou Williams PHI 03/29/2009 PHI @ DET L 21 10 4 9 44.4 1 2 50.0 1 2 50.0 1 0 1 1 1 0 1 2 -5
+p104
+aVWillie Green PHI 03/29/2009 PHI @ DET L 23 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 4 1 1 0 1 2
+p105
+aVReggie Evans PHI 03/29/2009 PHI @ DET L 18 5 2 5 40.0 0 0 - 1 2 50.0 3 2 5 0 0 0 1 1 -6
+p106
+aVAndre Iguodala PHI 03/29/2009 PHI @ DET L 44 27 10 19 52.6 1 5 20.0 6 6 100.0 2 5 7 5 2 0 3 1 0
+p107
+aVRoyal Ivey PHI 03/29/2009 PHI @ DET L 15 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -5
+p108
+aVSamuel Dalembert PHI 03/29/2009 PHI @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p109
+aVAndre Miller PHI 03/29/2009 PHI @ DET L 33 13 5 14 35.7 0 2 0.0 3 3 100.0 1 3 4 6 2 0 2 1 1
+p110
+aVTheo Ratliff PHI 03/29/2009 PHI @ DET L 23 9 3 5 60.0 0 0 - 3 4 75.0 2 3 5 0 0 0 0 2 4
+p111
+aVMarreese Speights PHI 03/29/2009 PHI @ DET L 13 2 0 5 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 4 -10
+p112
+aVReggie Evans PHI 03/27/2009 PHI vs. CHA L 22 10 3 4 75.0 0 0 - 4 6 66.7 1 3 4 0 3 0 3 5 -1
+p113
+aVThaddeus Young PHI 03/27/2009 PHI vs. CHA L 39 21 10 14 71.4 1 1 100.0 0 0 - 3 4 7 4 2 0 2 2 -1
+p114
+aVTheo Ratliff PHI 03/27/2009 PHI vs. CHA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p115
+aVDonyell Marshall PHI 03/27/2009 PHI vs. CHA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p116
+aVRoyal Ivey PHI 03/27/2009 PHI vs. CHA L 11 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 5 -5
+p117
+aVAndre Iguodala PHI 03/27/2009 PHI vs. CHA L 42 25 8 18 44.4 2 6 33.3 7 9 77.8 2 1 3 3 2 0 1 1 -6
+p118
+aVMarreese Speights PHI 03/27/2009 PHI vs. CHA L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 0 5
+p119
+aVLou Williams PHI 03/27/2009 PHI vs. CHA L 25 14 3 7 42.9 0 1 0.0 8 8 100.0 0 2 2 1 0 0 2 3 0
+p120
+aVAndre Miller PHI 03/27/2009 PHI vs. CHA L 35 7 2 11 18.2 0 0 - 3 3 100.0 0 2 2 3 1 0 5 1 0
+p121
+aVWillie Green PHI 03/27/2009 PHI vs. CHA L 22 7 2 6 33.3 0 2 0.0 3 3 100.0 0 0 0 2 2 0 0 2 -2
+p122
+aVSamuel Dalembert PHI 03/27/2009 PHI vs. CHA L 23 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 0 1 2 1 3 -10
+p123
+aVAndre Miller PHI 03/25/2009 PHI vs. MIN W 35 15 5 9 55.6 0 0 - 5 6 83.3 2 5 7 2 1 0 2 3 0
+p124
+aVReggie Evans PHI 03/25/2009 PHI vs. MIN W 19 4 0 0 - 0 0 - 4 4 100.0 1 2 3 0 2 0 1 4 -1
+p125
+aVWillie Green PHI 03/25/2009 PHI vs. MIN W 20 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 1 0 1 1 4
+p126
+aVTheo Ratliff PHI 03/25/2009 PHI vs. MIN W 12 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 1 0 2 15
+p127
+aVLou Williams PHI 03/25/2009 PHI vs. MIN W 26 9 1 9 11.1 0 2 0.0 7 8 87.5 1 4 5 5 1 2 1 1 2
+p128
+aVSamuel Dalembert PHI 03/25/2009 PHI vs. MIN W 21 8 3 3 100.0 0 0 - 2 2 100.0 1 6 7 0 0 1 3 4 3
+p129
+aVRoyal Ivey PHI 03/25/2009 PHI vs. MIN W 15 6 2 3 66.7 2 2 100.0 0 0 - 0 2 2 1 0 0 0 1 10
+p130
+aVThaddeus Young PHI 03/25/2009 PHI vs. MIN W 39 29 9 18 50.0 0 2 0.0 11 14 78.6 0 3 3 0 3 0 0 2 15
+p131
+aVMarreese Speights PHI 03/25/2009 PHI vs. MIN W 8 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 2 0 2 -10
+p132
+aVDonyell Marshall PHI 03/25/2009 PHI vs. MIN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 3
+p133
+aVAndre Iguodala PHI 03/25/2009 PHI vs. MIN W 41 15 4 14 28.6 2 5 40.0 5 6 83.3 2 5 7 6 1 0 2 0 -1
+p134
+aVMarreese Speights PHI 03/23/2009 PHI @ POR W 14 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 7
+p135
+aVSamuel Dalembert PHI 03/23/2009 PHI @ POR W 33 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 2 1 5 -4
+p136
+aVReggie Evans PHI 03/23/2009 PHI @ POR W 14 12 5 9 55.6 0 0 - 2 2 100.0 5 2 7 1 0 0 0 3 13
+p137
+aVLou Williams PHI 03/23/2009 PHI @ POR W 27 9 2 7 28.6 0 1 0.0 5 5 100.0 2 1 3 1 1 0 0 1 17
+p138
+aVThaddeus Young PHI 03/23/2009 PHI @ POR W 44 25 10 15 66.7 1 1 100.0 4 4 100.0 2 5 7 1 0 0 1 2 -5
+p139
+aVWillie Green PHI 03/23/2009 PHI @ POR W 26 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -7
+p140
+aVAndre Iguodala PHI 03/23/2009 PHI @ POR W 45 25 7 13 53.8 2 3 66.7 9 11 81.8 0 3 3 5 1 2 4 4 9
+p141
+aVAndre Miller PHI 03/23/2009 PHI @ POR W 46 27 9 20 45.0 0 0 - 9 11 81.8 1 9 10 3 3 0 6 3 5
+p142
+aVRoyal Ivey PHI 03/23/2009 PHI @ POR W 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 0
+p143
+aVTheo Ratliff PHI 03/23/2009 PHI @ POR W 9 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 1 1 2 -5
+p144
+aVWillie Green PHI 03/22/2009 PHI @ SAC W 22 10 4 8 50.0 1 2 50.0 1 3 33.3 0 2 2 3 2 0 2 2 12
+p145
+aVAndre Miller PHI 03/22/2009 PHI @ SAC W 34 4 2 4 50.0 0 0 - 0 0 - 0 4 4 8 5 0 2 4 16
+p146
+aVRoyal Ivey PHI 03/22/2009 PHI @ SAC W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -4
+p147
+aVSamuel Dalembert PHI 03/22/2009 PHI @ SAC W 27 4 2 5 40.0 0 0 - 0 0 - 0 4 4 0 0 2 3 3 12
+p148
+aVLou Williams PHI 03/22/2009 PHI @ SAC W 26 18 6 9 66.7 1 2 50.0 5 6 83.3 0 2 2 5 1 1 1 1 0
+p149
+aVReggie Evans PHI 03/22/2009 PHI @ SAC W 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p150
+aVKareem Rush PHI 03/22/2009 PHI @ SAC W 13 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 0 1 0 0 2 5
+p151
+aVAndre Iguodala PHI 03/22/2009 PHI @ SAC W 35 27 10 14 71.4 3 5 60.0 4 6 66.7 1 6 7 3 2 1 2 4 7
+p152
+aVMarreese Speights PHI 03/22/2009 PHI @ SAC W 20 15 5 10 50.0 0 0 - 5 6 83.3 3 3 6 0 0 0 3 1 -2
+p153
+aVThaddeus Young PHI 03/22/2009 PHI @ SAC W 35 22 9 15 60.0 0 0 - 4 6 66.7 1 5 6 1 2 1 2 2 16
+p154
+aVMarreese Speights PHI 03/20/2009 PHI @ GSW L 18 10 5 9 55.6 0 0 - 0 0 - 2 1 3 0 0 1 2 3 -7
+p155
+aVAndre Miller PHI 03/20/2009 PHI @ GSW L 31 10 3 8 37.5 0 0 - 4 4 100.0 1 1 2 4 1 0 1 3 -7
+p156
+aVThaddeus Young PHI 03/20/2009 PHI @ GSW L 38 23 9 21 42.9 0 3 0.0 5 6 83.3 5 1 6 4 1 1 3 3 3
+p157
+aVDonyell Marshall PHI 03/20/2009 PHI @ GSW L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -6
+p158
+aVWillie Green PHI 03/20/2009 PHI @ GSW L 22 10 4 7 57.1 1 1 100.0 1 1 100.0 0 1 1 2 0 0 1 1 -15
+p159
+aVSamuel Dalembert PHI 03/20/2009 PHI @ GSW L 33 15 5 12 41.7 0 0 - 5 6 83.3 11 12 23 0 1 0 1 1 0
+p160
+aVRoyal Ivey PHI 03/20/2009 PHI @ GSW L 16 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 2
+p161
+aVLou Williams PHI 03/20/2009 PHI @ GSW L 30 20 5 17 29.4 2 7 28.6 8 11 72.7 1 5 6 6 5 0 0 1 4
+p162
+aVAndre Iguodala PHI 03/20/2009 PHI @ GSW L 39 19 5 17 29.4 1 3 33.3 8 10 80.0 2 3 5 7 2 0 2 4 -8
+p163
+aVReggie Evans PHI 03/20/2009 PHI @ GSW L 8 0 0 1 0.0 0 0 - 0 2 0.0 2 1 3 0 0 0 2 1 -6
+p164
+aVLou Williams PHI 03/18/2009 PHI @ PHX L 28 21 5 12 41.7 3 6 50.0 8 11 72.7 1 2 3 3 2 1 1 2 -7
+p165
+aVTheo Ratliff PHI 03/18/2009 PHI @ PHX L 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p166
+aVThaddeus Young PHI 03/18/2009 PHI @ PHX L 35 23 10 17 58.8 1 1 100.0 2 4 50.0 2 3 5 2 0 1 0 0 -13
+p167
+aVRoyal Ivey PHI 03/18/2009 PHI @ PHX L 10 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -14
+p168
+aVAndre Iguodala PHI 03/18/2009 PHI @ PHX L 41 11 5 10 50.0 0 2 0.0 1 2 50.0 0 4 4 7 1 0 3 1 -5
+p169
+aVReggie Evans PHI 03/18/2009 PHI @ PHX L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -7
+p170
+aVSamuel Dalembert PHI 03/18/2009 PHI @ PHX L 29 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 1 2 4 -18
+p171
+aVMarreese Speights PHI 03/18/2009 PHI @ PHX L 4 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 0 1 0 2 -5
+p172
+aVAndre Miller PHI 03/18/2009 PHI @ PHX L 39 23 8 15 53.3 1 2 50.0 6 6 100.0 1 3 4 8 2 1 0 3 3
+p173
+aVDonyell Marshall PHI 03/18/2009 PHI @ PHX L 20 12 4 6 66.7 3 5 60.0 1 2 50.0 0 1 1 2 0 0 0 4 12
+p174
+aVWillie Green PHI 03/18/2009 PHI @ PHX L 19 12 6 9 66.7 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -3
+p175
+aVWillie Green PHI 03/17/2009 PHI @ LAL W 20 8 4 8 50.0 0 3 0.0 0 0 - 0 1 1 1 0 1 0 1 -12
+p176
+aVDonyell Marshall PHI 03/17/2009 PHI @ LAL W 10 9 3 3 100.0 3 3 100.0 0 0 - 0 0 0 3 2 0 0 2 12
+p177
+aVAndre Iguodala PHI 03/17/2009 PHI @ LAL W 46 25 9 21 42.9 1 7 14.3 6 7 85.7 0 2 2 2 2 1 2 0 -2
+p178
+aVRoyal Ivey PHI 03/17/2009 PHI @ LAL W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 2 0 0 0 8
+p179
+aVAndre Miller PHI 03/17/2009 PHI @ LAL W 37 8 4 12 33.3 0 2 0.0 0 0 - 1 1 2 6 0 0 3 0 -14
+p180
+aVTheo Ratliff PHI 03/17/2009 PHI @ LAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 4
+p181
+aVMarreese Speights PHI 03/17/2009 PHI @ LAL W 5 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 1 7
+p182
+aVLou Williams PHI 03/17/2009 PHI @ LAL W 27 18 7 15 46.7 1 4 25.0 3 3 100.0 0 1 1 6 1 0 1 1 16
+p183
+aVReggie Evans PHI 03/17/2009 PHI @ LAL W 20 5 2 3 66.7 0 0 - 1 2 50.0 1 7 8 0 0 0 0 3 10
+p184
+aVSamuel Dalembert PHI 03/17/2009 PHI @ LAL W 30 3 1 8 12.5 0 0 - 1 4 25.0 8 6 14 0 0 2 2 1 -21
+p185
+aVThaddeus Young PHI 03/17/2009 PHI @ LAL W 29 14 6 10 60.0 0 0 - 2 2 100.0 2 5 7 2 0 0 1 4 -3
+p186
+aVThaddeus Young PHI 03/15/2009 PHI vs. MIA W 38 17 7 16 43.8 1 3 33.3 2 2 100.0 1 5 6 1 1 0 0 2 8
+p187
+aVMarreese Speights PHI 03/15/2009 PHI vs. MIA W 18 8 4 5 80.0 0 0 - 0 0 - 2 3 5 2 0 1 0 3 -1
+p188
+aVAndre Iguodala PHI 03/15/2009 PHI vs. MIA W 44 21 7 14 50.0 0 0 - 7 12 58.3 2 4 6 5 1 1 3 2 9
+p189
+aVLou Williams PHI 03/15/2009 PHI vs. MIA W 21 7 2 8 25.0 1 4 25.0 2 2 100.0 0 1 1 2 0 0 4 3 7
+p190
+aVAndre Miller PHI 03/15/2009 PHI vs. MIA W 39 10 4 9 44.4 0 0 - 2 3 66.7 2 1 3 11 2 0 1 2 6
+p191
+aVReggie Evans PHI 03/15/2009 PHI vs. MIA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p192
+aVSamuel Dalembert PHI 03/15/2009 PHI vs. MIA W 30 8 4 7 57.1 0 0 - 0 0 - 4 8 12 0 0 4 0 4 9
+p193
+aVTheo Ratliff PHI 03/15/2009 PHI vs. MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p194
+aVDonyell Marshall PHI 03/15/2009 PHI vs. MIA W 11 10 3 6 50.0 3 5 60.0 1 2 50.0 1 4 5 0 0 0 1 2 15
+p195
+aVWillie Green PHI 03/15/2009 PHI vs. MIA W 23 4 2 11 18.2 0 4 0.0 0 0 - 0 1 1 3 1 0 1 1 2
+p196
+aVRoyal Ivey PHI 03/15/2009 PHI vs. MIA W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -5
+p197
+aVWillie Green PHI 03/13/2009 PHI vs. CHI W 26 6 2 9 22.2 0 0 - 2 2 100.0 0 3 3 5 1 0 1 0 4
+p198
+aVRoyal Ivey PHI 03/13/2009 PHI vs. CHI W 11 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 2 1 0 1 0 -8
+p199
+aVMarreese Speights PHI 03/13/2009 PHI vs. CHI W 18 10 5 9 55.6 0 0 - 0 0 - 0 2 2 0 2 0 0 4 1
+p200
+aVLou Williams PHI 03/13/2009 PHI vs. CHI W 23 4 2 6 33.3 0 0 - 0 0 - 0 1 1 2 2 0 5 1 -2
+p201
+aVAndre Iguodala PHI 03/13/2009 PHI vs. CHI W 40 25 12 20 60.0 0 1 0.0 1 2 50.0 1 5 6 5 1 1 0 2 0
+p202
+aVReggie Evans PHI 03/13/2009 PHI vs. CHI W 14 5 2 2 100.0 0 0 - 1 2 50.0 2 2 4 0 0 1 0 2 2
+p203
+aVThaddeus Young PHI 03/13/2009 PHI vs. CHI W 36 31 14 21 66.7 1 1 100.0 2 2 100.0 3 2 5 0 0 0 1 3 6
+p204
+aVAndre Miller PHI 03/13/2009 PHI vs. CHI W 36 13 5 10 50.0 0 0 - 3 4 75.0 1 3 4 13 2 0 3 3 12
+p205
+aVSamuel Dalembert PHI 03/13/2009 PHI vs. CHI W 35 8 4 6 66.7 0 0 - 0 0 - 5 14 19 0 0 4 1 4 0
+p206
+aVThaddeus Young PHI 03/11/2009 PHI vs. TOR W 36 29 13 20 65.0 2 5 40.0 1 4 25.0 1 4 5 1 0 1 1 2 16
+p207
+aVKareem Rush PHI 03/11/2009 PHI vs. TOR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p208
+aVMarreese Speights PHI 03/11/2009 PHI vs. TOR W 16 13 5 7 71.4 0 0 - 3 4 75.0 0 2 2 1 0 0 1 5 -1
+p209
+aVRoyal Ivey PHI 03/11/2009 PHI vs. TOR W 17 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 0 -2
+p210
+aVLou Williams PHI 03/11/2009 PHI vs. TOR W 25 13 5 9 55.6 0 0 - 3 3 100.0 0 0 0 5 0 0 1 0 7
+p211
+aVSamuel Dalembert PHI 03/11/2009 PHI vs. TOR W 33 19 9 13 69.2 0 0 - 1 1 100.0 4 9 13 0 1 3 2 2 8
+p212
+aVAndre Iguodala PHI 03/11/2009 PHI vs. TOR W 36 15 4 9 44.4 2 4 50.0 5 6 83.3 0 5 5 7 2 1 1 1 5
+p213
+aVReggie Evans PHI 03/11/2009 PHI vs. TOR W 18 5 2 3 66.7 0 0 - 1 4 25.0 3 2 5 1 2 0 1 0 13
+p214
+aVDonyell Marshall PHI 03/11/2009 PHI vs. TOR W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p215
+aVAndre Miller PHI 03/11/2009 PHI vs. TOR W 31 9 2 5 40.0 1 1 100.0 4 4 100.0 1 2 3 7 1 0 3 3 11
+p216
+aVWillie Green PHI 03/11/2009 PHI vs. TOR W 23 8 3 6 50.0 0 2 0.0 2 2 100.0 1 1 2 1 0 0 0 1 2
+p217
+aVMarreese Speights PHI 03/08/2009 PHI @ OKC L 27 8 3 6 50.0 0 0 - 2 4 50.0 3 3 6 0 0 0 0 3 -5
+p218
+aVSamuel Dalembert PHI 03/08/2009 PHI @ OKC L 17 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -3
+p219
+aVThaddeus Young PHI 03/08/2009 PHI @ OKC L 39 20 8 18 44.4 2 4 50.0 2 2 100.0 1 4 5 0 3 0 2 1 2
+p220
+aVTheo Ratliff PHI 03/08/2009 PHI @ OKC L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -8
+p221
+aVAndre Miller PHI 03/08/2009 PHI @ OKC L 37 20 7 14 50.0 0 1 0.0 6 8 75.0 2 2 4 3 1 0 3 4 -11
+p222
+aVWillie Green PHI 03/08/2009 PHI @ OKC L 21 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 1 1 0 1 2 -6
+p223
+aVReggie Evans PHI 03/08/2009 PHI @ OKC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -14
+p224
+aVAndre Iguodala PHI 03/08/2009 PHI @ OKC L 43 9 3 11 27.3 0 3 0.0 3 6 50.0 2 6 8 3 1 2 6 2 -16
+p225
+aVLou Williams PHI 03/08/2009 PHI @ OKC L 23 8 3 11 27.3 0 2 0.0 2 5 40.0 0 1 1 2 1 0 5 2 -4
+p226
+aVRoyal Ivey PHI 03/08/2009 PHI @ OKC L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 0 -10
+p227
+aVSamuel Dalembert PHI 03/07/2009 PHI @ MEM W 25 6 3 6 50.0 0 0 - 0 0 - 1 6 7 0 1 1 1 4 3
+p228
+aVThaddeus Young PHI 03/07/2009 PHI @ MEM W 30 14 5 14 35.7 0 3 0.0 4 4 100.0 4 4 8 0 2 0 1 3 6
+p229
+aVAndre Miller PHI 03/07/2009 PHI @ MEM W 34 20 8 17 47.1 0 0 - 4 8 50.0 6 4 10 8 1 0 1 1 10
+p230
+aVWillie Green PHI 03/07/2009 PHI @ MEM W 24 10 4 9 44.4 0 2 0.0 2 3 66.7 0 1 1 2 1 0 1 1 0
+p231
+aVAndre Iguodala PHI 03/07/2009 PHI @ MEM W 43 24 9 18 50.0 2 7 28.6 4 6 66.7 2 2 4 4 2 0 2 0 11
+p232
+aVLou Williams PHI 03/07/2009 PHI @ MEM W 23 18 7 12 58.3 1 1 100.0 3 4 75.0 0 2 2 3 1 0 1 0 7
+p233
+aVMarreese Speights PHI 03/07/2009 PHI @ MEM W 16 7 3 5 60.0 0 0 - 1 3 33.3 1 2 3 0 1 2 1 2 4
+p234
+aVRoyal Ivey PHI 03/07/2009 PHI @ MEM W 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -9
+p235
+aVTheo Ratliff PHI 03/07/2009 PHI @ MEM W 23 10 5 5 100.0 0 0 - 0 0 - 2 1 3 0 2 2 0 5 2
+p236
+aVReggie Evans PHI 03/07/2009 PHI @ MEM W 6 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 0 -9
+p237
+aVWillie Green PHI 03/02/2009 PHI vs. NOH L 24 7 3 12 25.0 1 5 20.0 0 0 - 0 3 3 2 0 0 0 2 -10
+p238
+aVAndre Miller PHI 03/02/2009 PHI vs. NOH L 39 28 12 16 75.0 0 0 - 4 4 100.0 1 5 6 7 0 0 3 3 3
+p239
+aVSamuel Dalembert PHI 03/02/2009 PHI vs. NOH L 13 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 1 1 2 -14
+p240
+aVThaddeus Young PHI 03/02/2009 PHI vs. NOH L 41 11 5 12 41.7 1 2 50.0 0 0 - 1 2 3 0 2 0 0 1 2
+p241
+aVMarreese Speights PHI 03/02/2009 PHI vs. NOH L 20 2 1 7 14.3 0 0 - 0 0 - 3 4 7 1 0 1 0 2 -2
+p242
+aVAndre Iguodala PHI 03/02/2009 PHI vs. NOH L 42 30 11 18 61.1 2 5 40.0 6 6 100.0 1 3 4 4 0 0 4 2 -14
+p243
+aVReggie Evans PHI 03/02/2009 PHI vs. NOH L 25 0 0 0 - 0 0 - 0 2 0.0 3 5 8 0 0 0 1 3 4
+p244
+aVLou Williams PHI 03/02/2009 PHI vs. NOH L 24 9 2 9 22.2 0 4 0.0 5 6 83.3 1 2 3 5 0 0 1 3 3
+p245
+aVRoyal Ivey PHI 03/02/2009 PHI vs. NOH L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -7
+p246
+aVAndre Iguodala PHI 02/28/2009 PHI vs. ORL L 45 22 8 21 38.1 2 4 50.0 4 7 57.1 1 4 5 4 1 0 0 1 -1
+p247
+aVThaddeus Young PHI 02/28/2009 PHI vs. ORL L 41 18 7 15 46.7 0 0 - 4 4 100.0 2 0 2 0 2 1 3 4 -8
+p248
+aVWillie Green PHI 02/28/2009 PHI vs. ORL L 35 19 7 14 50.0 2 2 100.0 3 3 100.0 0 1 1 2 1 1 0 3 -1
+p249
+aVSamuel Dalembert PHI 02/28/2009 PHI vs. ORL L 16 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 0 0 0 2 5 -3
+p250
+aVReggie Evans PHI 02/28/2009 PHI vs. ORL L 20 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 2 -5
+p251
+aVAndre Miller PHI 02/28/2009 PHI vs. ORL L 38 23 10 14 71.4 0 1 0.0 3 4 75.0 2 6 8 7 1 0 3 1 -7
+p252
+aVTheo Ratliff PHI 02/28/2009 PHI vs. ORL L 14 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 4 -1
+p253
+aVRoyal Ivey PHI 02/28/2009 PHI vs. ORL L 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 1 0 0 -3
+p254
+aVLou Williams PHI 02/28/2009 PHI vs. ORL L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 4 2 0 3 2 -5
+p255
+aVMarreese Speights PHI 02/28/2009 PHI vs. ORL L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 4
+p256
+aVMarreese Speights PHI 02/27/2009 PHI @ NYK W 7 5 1 3 33.3 0 0 - 3 4 75.0 0 3 3 0 0 0 0 2 -3
+p257
+aVLou Williams PHI 02/27/2009 PHI @ NYK W 22 10 2 6 33.3 0 2 0.0 6 7 85.7 0 3 3 0 1 0 2 2 -4
+p258
+aVReggie Evans PHI 02/27/2009 PHI @ NYK W 19 7 2 4 50.0 0 0 - 3 4 75.0 4 4 8 0 1 0 3 2 0
+p259
+aVWillie Green PHI 02/27/2009 PHI @ NYK W 23 8 3 6 50.0 1 2 50.0 1 2 50.0 0 3 3 3 0 0 2 3 8
+p260
+aVSamuel Dalembert PHI 02/27/2009 PHI @ NYK W 32 10 3 6 50.0 0 1 0.0 4 7 57.1 5 9 14 0 0 2 0 3 11
+p261
+aVThaddeus Young PHI 02/27/2009 PHI @ NYK W 41 23 7 12 58.3 1 2 50.0 8 10 80.0 1 2 3 2 1 2 1 2 12
+p262
+aVAndre Iguodala PHI 02/27/2009 PHI @ NYK W 42 15 5 12 41.7 0 1 0.0 5 9 55.6 1 6 7 3 2 1 4 1 -2
+p263
+aVRoyal Ivey PHI 02/27/2009 PHI @ NYK W 17 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 0 0 0 0 1 -4
+p264
+aVAndre Miller PHI 02/27/2009 PHI @ NYK W 38 25 9 17 52.9 0 1 0.0 7 7 100.0 3 0 3 6 3 0 3 3 7
+p265
+aVAndre Miller PHI 02/25/2009 PHI @ WAS W 35 17 5 10 50.0 0 0 - 7 10 70.0 1 3 4 7 1 1 2 3 6
+p266
+aVRoyal Ivey PHI 02/25/2009 PHI @ WAS W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 2 0 0 0 -6
+p267
+aVSamuel Dalembert PHI 02/25/2009 PHI @ WAS W 29 11 4 10 40.0 0 0 - 3 4 75.0 6 7 13 0 1 3 4 2 4
+p268
+aVWillie Green PHI 02/25/2009 PHI @ WAS W 21 12 6 10 60.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 3
+p269
+aVThaddeus Young PHI 02/25/2009 PHI @ WAS W 30 8 4 11 36.4 0 0 - 0 0 - 1 3 4 0 1 0 2 2 1
+p270
+aVAndre Iguodala PHI 02/25/2009 PHI @ WAS W 44 22 7 13 53.8 3 5 60.0 5 8 62.5 1 8 9 11 3 0 7 0 11
+p271
+aVLou Williams PHI 02/25/2009 PHI @ WAS W 23 16 6 12 50.0 2 5 40.0 2 2 100.0 1 0 1 2 1 0 2 2 10
+p272
+aVReggie Evans PHI 02/25/2009 PHI @ WAS W 27 11 3 4 75.0 0 0 - 5 7 71.4 3 5 8 0 1 0 2 3 14
+p273
+aVMarreese Speights PHI 02/25/2009 PHI @ WAS W 12 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -3
+p274
+aVLou Williams PHI 02/23/2009 PHI @ NJN L 20 10 4 6 66.7 0 1 0.0 2 5 40.0 0 1 1 3 0 0 3 3 -9
+p275
+aVWillie Green PHI 02/23/2009 PHI @ NJN L 26 14 6 9 66.7 2 4 50.0 0 0 - 1 2 3 2 2 0 1 2 14
+p276
+aVThaddeus Young PHI 02/23/2009 PHI @ NJN L 36 14 5 11 45.5 0 1 0.0 4 4 100.0 2 3 5 1 3 0 1 3 -1
+p277
+aVSamuel Dalembert PHI 02/23/2009 PHI @ NJN L 31 13 5 12 41.7 0 0 - 3 6 50.0 4 6 10 0 2 3 0 2 4
+p278
+aVAndre Miller PHI 02/23/2009 PHI @ NJN L 33 17 5 12 41.7 0 0 - 7 12 58.3 2 3 5 10 2 0 2 4 5
+p279
+aVMarreese Speights PHI 02/23/2009 PHI @ NJN L 18 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 2 0 2 1
+p280
+aVReggie Evans PHI 02/23/2009 PHI @ NJN L 18 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 3 4 -13
+p281
+aVRoyal Ivey PHI 02/23/2009 PHI @ NJN L 17 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 0 0 0 2 1 -14
+p282
+aVAndre Iguodala PHI 02/23/2009 PHI @ NJN L 42 21 7 13 53.8 1 3 33.3 6 8 75.0 1 8 9 5 1 0 2 3 3
+p283
+aVAndre Iguodala PHI 02/21/2009 PHI @ MIA L 42 14 4 16 25.0 1 5 20.0 5 8 62.5 1 3 4 8 2 0 2 2 -4
+p284
+aVRoyal Ivey PHI 02/21/2009 PHI @ MIA L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p285
+aVTheo Ratliff PHI 02/21/2009 PHI @ MIA L 16 0 0 0 - 0 0 - 0 0 - 2 2 4 1 0 1 0 1 4
+p286
+aVLou Williams PHI 02/21/2009 PHI @ MIA L 30 22 7 19 36.8 3 7 42.9 5 5 100.0 1 1 2 1 0 0 2 1 8
+p287
+aVMarreese Speights PHI 02/21/2009 PHI @ MIA L 20 12 6 10 60.0 0 0 - 0 0 - 3 3 6 1 1 0 1 3 0
+p288
+aVThaddeus Young PHI 02/21/2009 PHI @ MIA L 29 10 4 8 50.0 0 1 0.0 2 2 100.0 1 3 4 0 1 1 1 4 -9
+p289
+aVWillie Green PHI 02/21/2009 PHI @ MIA L 17 0 0 9 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 0 3 -16
+p290
+aVReggie Evans PHI 02/21/2009 PHI @ MIA L 9 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 3
+p291
+aVSamuel Dalembert PHI 02/21/2009 PHI @ MIA L 22 2 1 3 33.3 0 0 - 0 0 - 2 5 7 0 0 0 0 5 -10
+p292
+aVAndre Miller PHI 02/21/2009 PHI @ MIA L 41 30 11 21 52.4 0 0 - 8 8 100.0 3 6 9 2 0 0 0 3 -2
+p293
+aVAndre Iguodala PHI 02/18/2009 PHI vs. DEN L 27 10 1 6 16.7 0 0 - 8 11 72.7 0 1 1 4 0 1 3 6 -10
+p294
+aVRoyal Ivey PHI 02/18/2009 PHI vs. DEN L 24 3 1 6 16.7 0 4 0.0 1 2 50.0 1 4 5 2 1 1 1 3 -4
+p295
+aVTheo Ratliff PHI 02/18/2009 PHI vs. DEN L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p296
+aVLou Williams PHI 02/18/2009 PHI vs. DEN L 27 15 3 14 21.4 1 3 33.3 8 10 80.0 0 2 2 3 1 0 3 2 -11
+p297
+aVSamuel Dalembert PHI 02/18/2009 PHI vs. DEN L 34 12 5 9 55.6 0 0 - 2 2 100.0 3 7 10 2 1 3 2 5 -15
+p298
+aVThaddeus Young PHI 02/18/2009 PHI vs. DEN L 37 12 4 14 28.6 2 3 66.7 2 3 66.7 2 3 5 0 1 1 2 3 -18
+p299
+aVReggie Evans PHI 02/18/2009 PHI vs. DEN L 20 1 0 3 0.0 0 0 - 1 4 25.0 3 3 6 0 2 0 0 2 1
+p300
+aVMarreese Speights PHI 02/18/2009 PHI vs. DEN L 22 11 5 11 45.5 1 1 100.0 0 0 - 5 5 10 1 2 1 2 5 -4
+p301
+aVAndre Miller PHI 02/18/2009 PHI vs. DEN L 22 17 6 13 46.2 0 0 - 5 5 100.0 3 4 7 3 0 0 1 0 -1
+p302
+aVWillie Green PHI 02/18/2009 PHI vs. DEN L 26 8 3 9 33.3 0 2 0.0 2 2 100.0 0 2 2 0 2 0 1 3 0
+p303
+aVDonyell Marshall PHI 02/17/2009 PHI @ IND L 5 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -8
+p304
+aVThaddeus Young PHI 02/17/2009 PHI @ IND L 43 16 7 14 50.0 1 3 33.3 1 3 33.3 4 5 9 0 3 0 0 2 -6
+p305
+aVRoyal Ivey PHI 02/17/2009 PHI @ IND L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 2 2 0 0 1 -2
+p306
+aVAndre Miller PHI 02/17/2009 PHI @ IND L 36 6 2 10 20.0 0 1 0.0 2 3 66.7 3 2 5 6 1 1 1 2 -9
+p307
+aVLou Williams PHI 02/17/2009 PHI @ IND L 24 17 7 16 43.8 0 4 0.0 3 5 60.0 1 2 3 1 1 0 2 0 4
+p308
+aVWillie Green PHI 02/17/2009 PHI @ IND L 29 15 6 16 37.5 0 3 0.0 3 5 60.0 0 2 2 1 1 0 2 1 -4
+p309
+aVMarreese Speights PHI 02/17/2009 PHI @ IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p310
+aVAndre Iguodala PHI 02/17/2009 PHI @ IND L 42 20 8 18 44.4 0 0 - 4 5 80.0 1 4 5 9 2 0 2 2 -8
+p311
+aVSamuel Dalembert PHI 02/17/2009 PHI @ IND L 25 6 3 5 60.0 0 0 - 0 0 - 3 6 9 1 0 1 1 4 -12
+p312
+aVReggie Evans PHI 02/17/2009 PHI @ IND L 21 8 1 4 25.0 0 0 - 6 8 75.0 5 6 11 0 1 1 1 1 4
+p313
+aVAndre Miller PHI 02/11/2009 PHI vs. MEM W 38 24 9 11 81.8 0 0 - 6 6 100.0 1 2 3 9 2 0 2 1 8
+p314
+aVAndre Iguodala PHI 02/11/2009 PHI vs. MEM W 43 18 7 12 58.3 0 2 0.0 4 7 57.1 0 3 3 3 0 0 1 0 12
+p315
+aVRoyal Ivey PHI 02/11/2009 PHI vs. MEM W 16 7 2 6 33.3 2 4 50.0 1 2 50.0 0 1 1 1 1 0 0 0 -3
+p316
+aVLou Williams PHI 02/11/2009 PHI vs. MEM W 23 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 4 0 0 1 1 1
+p317
+aVMarreese Speights PHI 02/11/2009 PHI vs. MEM W 16 10 5 7 71.4 0 0 - 0 0 - 0 2 2 0 0 0 0 5 6
+p318
+aVWillie Green PHI 02/11/2009 PHI vs. MEM W 19 6 2 6 33.3 0 0 - 2 3 66.7 0 1 1 4 2 0 0 1 0
+p319
+aVTheo Ratliff PHI 02/11/2009 PHI vs. MEM W 10 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 2 0 1 13
+p320
+aVSamuel Dalembert PHI 02/11/2009 PHI vs. MEM W 30 8 3 4 75.0 0 0 - 2 4 50.0 2 5 7 0 0 2 2 5 -2
+p321
+aVThaddeus Young PHI 02/11/2009 PHI vs. MEM W 33 12 6 17 35.3 0 3 0.0 0 0 - 0 2 2 3 4 0 1 2 -3
+p322
+aVReggie Evans PHI 02/11/2009 PHI vs. MEM W 11 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 1 0 2 3 -12
+p323
+aVMarreese Speights PHI 02/09/2009 PHI vs. PHX W 24 24 11 16 68.8 0 0 - 2 2 100.0 4 3 7 0 1 2 0 3 9
+p324
+aVSamuel Dalembert PHI 02/09/2009 PHI vs. PHX W 23 6 2 5 40.0 0 0 - 2 2 100.0 4 7 11 1 0 1 1 2 21
+p325
+aVDonyell Marshall PHI 02/09/2009 PHI vs. PHX W 4 5 2 3 66.7 1 2 50.0 0 0 - 1 2 3 0 0 1 0 0 -1
+p326
+aVKareem Rush PHI 02/09/2009 PHI vs. PHX W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p327
+aVThaddeus Young PHI 02/09/2009 PHI vs. PHX W 30 25 10 14 71.4 2 2 100.0 3 4 75.0 3 2 5 1 1 0 1 2 14
+p328
+aVReggie Evans PHI 02/09/2009 PHI vs. PHX W 17 4 1 3 33.3 0 0 - 2 3 66.7 1 5 6 1 1 0 1 1 -2
+p329
+aVLou Williams PHI 02/09/2009 PHI vs. PHX W 26 11 3 13 23.1 1 3 33.3 4 4 100.0 1 2 3 4 1 0 1 2 5
+p330
+aVWillie Green PHI 02/09/2009 PHI vs. PHX W 18 4 2 8 25.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 12
+p331
+aVTheo Ratliff PHI 02/09/2009 PHI vs. PHX W 4 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -1
+p332
+aVAndre Iguodala PHI 02/09/2009 PHI vs. PHX W 38 22 6 14 42.9 0 4 0.0 10 11 90.9 1 4 5 7 1 0 1 1 12
+p333
+aVAndre Miller PHI 02/09/2009 PHI vs. PHX W 27 7 3 8 37.5 0 0 - 1 2 50.0 3 6 9 6 2 1 3 2 8
+p334
+aVRoyal Ivey PHI 02/09/2009 PHI vs. PHX W 25 0 0 6 0.0 0 2 0.0 0 0 - 2 1 3 0 1 2 1 4 9
+p335
+aVThaddeus Young PHI 02/07/2009 PHI vs. MIA W 32 14 6 11 54.5 1 3 33.3 1 3 33.3 1 1 2 2 0 0 1 3 8
+p336
+aVSamuel Dalembert PHI 02/07/2009 PHI vs. MIA W 22 2 1 1 100.0 0 0 - 0 0 - 0 10 10 1 1 3 0 3 -2
+p337
+aVRoyal Ivey PHI 02/07/2009 PHI vs. MIA W 22 11 4 7 57.1 2 3 66.7 1 2 50.0 0 1 1 1 1 0 0 2 11
+p338
+aVMarreese Speights PHI 02/07/2009 PHI vs. MIA W 22 15 5 8 62.5 0 0 - 5 6 83.3 3 3 6 2 0 2 0 2 13
+p339
+aVLou Williams PHI 02/07/2009 PHI vs. MIA W 21 10 2 9 22.2 0 3 0.0 6 6 100.0 0 4 4 3 3 0 3 1 12
+p340
+aVTheo Ratliff PHI 02/07/2009 PHI vs. MIA W 6 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 0 1
+p341
+aVReggie Evans PHI 02/07/2009 PHI vs. MIA W 20 5 0 3 0.0 0 0 - 5 6 83.3 2 7 9 0 0 0 1 2 11
+p342
+aVAndre Miller PHI 02/07/2009 PHI vs. MIA W 34 15 3 7 42.9 0 0 - 9 9 100.0 1 2 3 5 0 0 4 2 -4
+p343
+aVAndre Iguodala PHI 02/07/2009 PHI vs. MIA W 38 12 4 10 40.0 1 2 50.0 3 4 75.0 0 2 2 5 0 0 2 1 1
+p344
+aVWillie Green PHI 02/07/2009 PHI vs. MIA W 24 10 5 12 41.7 0 3 0.0 0 0 - 0 0 0 2 2 0 0 2 -1
+p345
+aVReggie Evans PHI 02/05/2009 PHI vs. IND W 15 3 0 1 0.0 0 0 - 3 4 75.0 2 2 4 0 0 0 1 3 -22
+p346
+aVAndre Miller PHI 02/05/2009 PHI vs. IND W 40 13 3 9 33.3 0 0 - 7 9 77.8 0 2 2 12 2 0 3 3 19
+p347
+aVLou Williams PHI 02/05/2009 PHI vs. IND W 20 5 2 7 28.6 0 1 0.0 1 2 50.0 0 2 2 0 0 0 2 2 -23
+p348
+aVAndre Iguodala PHI 02/05/2009 PHI vs. IND W 44 20 8 13 61.5 0 0 - 4 7 57.1 3 5 8 11 4 0 4 3 14
+p349
+aVSamuel Dalembert PHI 02/05/2009 PHI vs. IND W 33 18 6 13 46.2 0 0 - 6 6 100.0 6 14 20 0 0 1 2 3 27
+p350
+aVWillie Green PHI 02/05/2009 PHI vs. IND W 29 23 9 17 52.9 2 4 50.0 3 4 75.0 1 3 4 1 1 1 0 1 21
+p351
+aVRoyal Ivey PHI 02/05/2009 PHI vs. IND W 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -12
+p352
+aVMarreese Speights PHI 02/05/2009 PHI vs. IND W 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -13
+p353
+aVThaddeus Young PHI 02/05/2009 PHI vs. IND W 38 14 5 20 25.0 2 5 40.0 2 2 100.0 3 4 7 2 5 1 1 3 14
+p354
+aVAndre Miller PHI 02/03/2009 PHI vs. BOS L 40 21 8 19 42.1 0 0 - 5 6 83.3 3 1 4 7 1 0 3 3 1
+p355
+aVWillie Green PHI 02/03/2009 PHI vs. BOS L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -5
+p356
+aVReggie Evans PHI 02/03/2009 PHI vs. BOS L 24 8 1 2 50.0 0 0 - 6 8 75.0 4 6 10 1 2 0 1 3 14
+p357
+aVElton Brand PHI 02/03/2009 PHI vs. BOS L 9 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -2
+p358
+aVSamuel Dalembert PHI 02/03/2009 PHI vs. BOS L 33 14 7 13 53.8 0 0 - 0 0 - 1 6 7 0 0 3 1 3 -1
+p359
+aVRoyal Ivey PHI 02/03/2009 PHI vs. BOS L 10 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 1
+p360
+aVLou Williams PHI 02/03/2009 PHI vs. BOS L 26 11 3 7 42.9 0 0 - 5 5 100.0 0 0 0 4 1 0 0 3 -7
+p361
+aVThaddeus Young PHI 02/03/2009 PHI vs. BOS L 36 10 4 13 30.8 0 2 0.0 2 2 100.0 0 1 1 2 1 0 3 0 8
+p362
+aVMarreese Speights PHI 02/03/2009 PHI vs. BOS L 6 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 1
+p363
+aVAndre Iguodala PHI 02/03/2009 PHI vs. BOS L 40 22 8 17 47.1 0 3 0.0 6 7 85.7 1 5 6 6 3 1 1 3 -15
+p364
+aVSamuel Dalembert PHI 01/31/2009 PHI vs. NJN L 15 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 1 0 2 5
+p365
+aVTheo Ratliff PHI 01/31/2009 PHI vs. NJN L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p366
+aVWillie Green PHI 01/31/2009 PHI vs. NJN L 17 8 3 5 60.0 1 2 50.0 1 2 50.0 1 2 3 2 1 0 0 3 3
+p367
+aVRoyal Ivey PHI 01/31/2009 PHI vs. NJN L 14 5 1 3 33.3 1 3 33.3 2 2 100.0 0 1 1 2 1 0 0 2 -2
+p368
+aVLou Williams PHI 01/31/2009 PHI vs. NJN L 29 9 3 9 33.3 2 5 40.0 1 2 50.0 0 2 2 1 1 0 3 1 -3
+p369
+aVAndre Miller PHI 01/31/2009 PHI vs. NJN L 35 19 7 17 41.2 0 0 - 5 6 83.3 3 4 7 7 1 0 2 4 -2
+p370
+aVReggie Evans PHI 01/31/2009 PHI vs. NJN L 6 0 0 4 0.0 0 0 - 0 0 - 3 1 4 1 2 0 0 1 8
+p371
+aVThaddeus Young PHI 01/31/2009 PHI vs. NJN L 42 11 4 12 33.3 0 3 0.0 3 5 60.0 1 5 6 0 3 4 1 0 -8
+p372
+aVAndre Iguodala PHI 01/31/2009 PHI vs. NJN L 42 18 4 11 36.4 1 4 25.0 9 10 90.0 0 6 6 3 1 0 3 3 1
+p373
+aVElton Brand PHI 01/31/2009 PHI vs. NJN L 18 5 2 10 20.0 0 0 - 1 3 33.3 5 4 9 0 0 0 1 4 -12
+p374
+aVMarreese Speights PHI 01/31/2009 PHI vs. NJN L 16 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 1 0 1 4 5 -1
+p375
+aVThaddeus Young PHI 01/30/2009 PHI vs. WAS W 42 18 7 19 36.8 2 7 28.6 2 2 100.0 3 6 9 1 2 0 3 4 10
+p376
+aVAndre Iguodala PHI 01/30/2009 PHI vs. WAS W 38 20 9 15 60.0 1 3 33.3 1 4 25.0 0 4 4 4 2 0 0 2 8
+p377
+aVRoyal Ivey PHI 01/30/2009 PHI vs. WAS W 10 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 0 0 0 0 0 -12
+p378
+aVSamuel Dalembert PHI 01/30/2009 PHI vs. WAS W 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 1 0 12
+p379
+aVLou Williams PHI 01/30/2009 PHI vs. WAS W 29 14 5 10 50.0 2 5 40.0 2 4 50.0 1 1 2 7 1 2 4 0 -1
+p380
+aVAndre Miller PHI 01/30/2009 PHI vs. WAS W 34 6 3 3 100.0 0 0 - 0 0 - 1 5 6 9 1 1 1 5 22
+p381
+aVElton Brand PHI 01/30/2009 PHI vs. WAS W 26 9 4 5 80.0 0 0 - 1 2 50.0 0 3 3 0 0 4 0 3 -9
+p382
+aVMarreese Speights PHI 01/30/2009 PHI vs. WAS W 13 8 2 4 50.0 0 0 - 4 4 100.0 1 1 2 1 0 0 0 1 3
+p383
+aVWillie Green PHI 01/30/2009 PHI vs. WAS W 24 20 9 15 60.0 2 5 40.0 0 0 - 0 1 1 5 1 0 0 3 14
+p384
+aVReggie Evans PHI 01/30/2009 PHI vs. WAS W 10 3 1 1 100.0 0 0 - 1 4 25.0 2 5 7 1 0 0 3 3 3
+p385
+aVRoyal Ivey PHI 01/28/2009 PHI @ HOU W 12 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 0 1 1 0 2 2
+p386
+aVSamuel Dalembert PHI 01/28/2009 PHI @ HOU W 29 6 3 5 60.0 0 0 - 0 0 - 4 9 13 0 3 4 4 4 -11
+p387
+aVTheo Ratliff PHI 01/28/2009 PHI @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p388
+aVAndre Iguodala PHI 01/28/2009 PHI @ HOU W 34 20 8 17 47.1 0 3 0.0 4 5 80.0 1 2 3 1 0 1 4 3 -6
+p389
+aVAndre Miller PHI 01/28/2009 PHI @ HOU W 38 16 4 13 30.8 0 1 0.0 8 8 100.0 1 2 3 7 3 1 2 1 -2
+p390
+aVElton Brand PHI 01/28/2009 PHI @ HOU W 26 14 6 10 60.0 0 0 - 2 2 100.0 2 5 7 1 0 6 1 3 6
+p391
+aVLou Williams PHI 01/28/2009 PHI @ HOU W 29 17 5 14 35.7 1 4 25.0 6 6 100.0 1 2 3 6 2 0 2 0 10
+p392
+aVWillie Green PHI 01/28/2009 PHI @ HOU W 19 8 4 8 50.0 0 0 - 0 0 - 0 1 1 2 1 0 2 0 -6
+p393
+aVMarreese Speights PHI 01/28/2009 PHI @ HOU W 21 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 0 1 1 1 12
+p394
+aVReggie Evans PHI 01/28/2009 PHI @ HOU W 6 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -2
+p395
+aVThaddeus Young PHI 01/28/2009 PHI @ HOU W 27 8 4 6 66.7 0 2 0.0 0 0 - 1 6 7 0 1 0 2 5 7
+p396
+aVAndre Iguodala PHI 01/26/2009 PHI @ NOH L 42 17 7 14 50.0 1 3 33.3 2 4 50.0 1 4 5 7 3 1 4 1 -14
+p397
+aVMarreese Speights PHI 01/26/2009 PHI @ NOH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p398
+aVWillie Green PHI 01/26/2009 PHI @ NOH L 20 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 1 2 -14
+p399
+aVThaddeus Young PHI 01/26/2009 PHI @ NOH L 41 22 11 16 68.8 0 1 0.0 0 0 - 1 3 4 0 2 0 1 2 -10
+p400
+aVElton Brand PHI 01/26/2009 PHI @ NOH L 18 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 1 1 2 2 0
+p401
+aVAndre Miller PHI 01/26/2009 PHI @ NOH L 37 19 7 10 70.0 0 1 0.0 5 8 62.5 0 2 2 4 3 0 6 5 -6
+p402
+aVLou Williams PHI 01/26/2009 PHI @ NOH L 28 11 4 12 33.3 0 5 0.0 3 4 75.0 2 5 7 6 0 1 4 1 -1
+p403
+aVRoyal Ivey PHI 01/26/2009 PHI @ NOH L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -9
+p404
+aVReggie Evans PHI 01/26/2009 PHI @ NOH L 12 4 1 1 100.0 0 0 - 2 4 50.0 2 1 3 0 1 1 0 1 -6
+p405
+aVSamuel Dalembert PHI 01/26/2009 PHI @ NOH L 27 8 4 4 100.0 0 0 - 0 0 - 4 8 12 1 1 2 2 4 -18
+p406
+aVAndre Iguodala PHI 01/24/2009 PHI vs. NYK W 41 24 9 18 50.0 1 5 20.0 5 8 62.5 3 4 7 6 2 0 2 1 15
+p407
+aVSamuel Dalembert PHI 01/24/2009 PHI vs. NYK W 35 10 4 5 80.0 0 0 - 2 2 100.0 5 12 17 1 0 3 1 3 21
+p408
+aVThaddeus Young PHI 01/24/2009 PHI vs. NYK W 39 17 8 17 47.1 1 2 50.0 0 0 - 0 3 3 3 2 1 2 2 4
+p409
+aVLou Williams PHI 01/24/2009 PHI vs. NYK W 19 10 2 10 20.0 1 3 33.3 5 6 83.3 1 2 3 3 1 0 2 3 -16
+p410
+aVMarreese Speights PHI 01/24/2009 PHI vs. NYK W 12 8 2 3 66.7 0 0 - 4 6 66.7 0 0 0 1 1 1 0 1 -9
+p411
+aVWillie Green PHI 01/24/2009 PHI vs. NYK W 23 14 5 8 62.5 1 1 100.0 3 3 100.0 0 1 1 1 1 0 1 1 17
+p412
+aVAndre Miller PHI 01/24/2009 PHI vs. NYK W 38 21 7 9 77.8 0 0 - 7 7 100.0 0 5 5 5 1 0 3 1 9
+p413
+aVRoyal Ivey PHI 01/24/2009 PHI vs. NYK W 19 6 2 4 50.0 2 4 50.0 0 0 - 1 1 2 1 2 1 0 1 -3
+p414
+aVElton Brand PHI 01/24/2009 PHI vs. NYK W 13 6 3 4 75.0 0 0 - 0 0 - 2 1 3 1 0 2 1 3 -8
+p415
+aVReggie Evans PHI 01/19/2009 PHI vs. DAL L 24 6 2 3 66.7 0 0 - 2 4 50.0 4 1 5 1 1 0 0 4 0
+p416
+aVRoyal Ivey PHI 01/19/2009 PHI vs. DAL L 18 11 3 7 42.9 2 5 40.0 3 4 75.0 0 1 1 1 1 0 0 2 -2
+p417
+aVSamuel Dalembert PHI 01/19/2009 PHI vs. DAL L 25 6 3 5 60.0 0 0 - 0 0 - 1 8 9 1 0 3 2 1 -3
+p418
+aVAndre Iguodala PHI 01/19/2009 PHI vs. DAL L 42 18 6 15 40.0 3 3 100.0 3 4 75.0 5 7 12 1 2 0 5 1 3
+p419
+aVThaddeus Young PHI 01/19/2009 PHI vs. DAL L 36 11 4 7 57.1 0 1 0.0 3 5 60.0 1 3 4 4 1 0 3 3 4
+p420
+aVWillie Green PHI 01/19/2009 PHI vs. DAL L 17 2 1 7 14.3 0 3 0.0 0 0 - 0 0 0 2 0 0 0 2 1
+p421
+aVAndre Miller PHI 01/19/2009 PHI vs. DAL L 36 12 5 13 38.5 0 1 0.0 2 2 100.0 3 5 8 7 1 0 4 1 -5
+p422
+aVLou Williams PHI 01/19/2009 PHI vs. DAL L 26 25 10 21 47.6 4 9 44.4 1 2 50.0 1 5 6 0 1 0 2 1 2
+p423
+aVMarreese Speights PHI 01/19/2009 PHI vs. DAL L 17 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p424
+aVRoyal Ivey PHI 01/17/2009 PHI @ NYK W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -10
+p425
+aVMarreese Speights PHI 01/17/2009 PHI @ NYK W 22 10 5 9 55.6 0 0 - 0 0 - 2 3 5 0 1 0 0 1 -6
+p426
+aVAndre Miller PHI 01/17/2009 PHI @ NYK W 39 27 10 19 52.6 0 2 0.0 7 11 63.6 1 4 5 8 2 1 1 2 20
+p427
+aVReggie Evans PHI 01/17/2009 PHI @ NYK W 12 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 5 -5
+p428
+aVAndre Iguodala PHI 01/17/2009 PHI @ NYK W 42 28 10 17 58.8 3 5 60.0 5 8 62.5 2 8 10 7 3 0 1 2 17
+p429
+aVTheo Ratliff PHI 01/17/2009 PHI @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p430
+aVSamuel Dalembert PHI 01/17/2009 PHI @ NYK W 25 8 4 6 66.7 0 0 - 0 0 - 3 5 8 0 0 2 1 1 16
+p431
+aVLou Williams PHI 01/17/2009 PHI @ NYK W 29 15 6 13 46.2 2 5 40.0 1 4 25.0 0 0 0 3 0 0 1 2 -2
+p432
+aVWillie Green PHI 01/17/2009 PHI @ NYK W 19 8 3 8 37.5 1 1 100.0 1 2 50.0 1 1 2 2 2 0 2 2 12
+p433
+aVThaddeus Young PHI 01/17/2009 PHI @ NYK W 40 10 5 11 45.5 0 1 0.0 0 0 - 4 6 10 2 3 1 2 3 14
+p434
+aVDonyell Marshall PHI 01/16/2009 PHI vs. SAS W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 2
+p435
+aVSamuel Dalembert PHI 01/16/2009 PHI vs. SAS W 19 8 4 7 57.1 0 0 - 0 0 - 5 7 12 0 1 1 0 4 6
+p436
+aVAndre Miller PHI 01/16/2009 PHI vs. SAS W 32 11 5 11 45.5 0 0 - 1 1 100.0 1 1 2 6 1 0 2 2 21
+p437
+aVReggie Evans PHI 01/16/2009 PHI vs. SAS W 12 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 2 2 1
+p438
+aVThaddeus Young PHI 01/16/2009 PHI vs. SAS W 31 27 11 15 73.3 1 1 100.0 4 4 100.0 2 3 5 0 0 0 1 0 24
+p439
+aVRoyal Ivey PHI 01/16/2009 PHI vs. SAS W 21 6 2 9 22.2 2 3 66.7 0 0 - 0 3 3 0 3 0 0 0 8
+p440
+aVTheo Ratliff PHI 01/16/2009 PHI vs. SAS W 15 0 0 0 - 0 0 - 0 0 - 0 6 6 0 0 1 0 3 14
+p441
+aVLou Williams PHI 01/16/2009 PHI vs. SAS W 27 14 4 12 33.3 2 3 66.7 4 6 66.7 0 3 3 6 2 0 4 2 11
+p442
+aVKareem Rush PHI 01/16/2009 PHI vs. SAS W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p443
+aVWillie Green PHI 01/16/2009 PHI vs. SAS W 21 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 2 0 1 2 1 11
+p444
+aVAndre Iguodala PHI 01/16/2009 PHI vs. SAS W 33 21 7 11 63.6 2 4 50.0 5 6 83.3 0 5 5 8 1 0 2 2 12
+p445
+aVMarreese Speights PHI 01/16/2009 PHI vs. SAS W 21 13 6 10 60.0 0 0 - 1 2 50.0 2 7 9 0 1 2 0 1 3
+p446
+aVMarreese Speights PHI 01/14/2009 PHI vs. POR W 27 13 6 11 54.5 0 1 0.0 1 2 50.0 1 3 4 1 1 3 1 3 16
+p447
+aVAndre Iguodala PHI 01/14/2009 PHI vs. POR W 38 29 10 17 58.8 4 6 66.7 5 6 83.3 0 4 4 6 2 0 1 2 19
+p448
+aVKareem Rush PHI 01/14/2009 PHI vs. POR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p449
+aVWillie Green PHI 01/14/2009 PHI vs. POR W 24 8 3 11 27.3 2 5 40.0 0 0 - 1 0 1 1 1 1 0 2 -3
+p450
+aVReggie Evans PHI 01/14/2009 PHI vs. POR W 21 6 2 5 40.0 0 0 - 2 2 100.0 3 3 6 2 2 0 1 3 19
+p451
+aVAndre Miller PHI 01/14/2009 PHI vs. POR W 34 12 5 11 45.5 1 1 100.0 1 1 100.0 2 3 5 6 1 0 3 1 9
+p452
+aVSamuel Dalembert PHI 01/14/2009 PHI vs. POR W 30 4 1 1 100.0 0 0 - 2 2 100.0 1 8 9 0 0 3 2 1 3
+p453
+aVThaddeus Young PHI 01/14/2009 PHI vs. POR W 22 11 4 7 57.1 3 4 75.0 0 0 - 0 1 1 2 2 0 1 5 8
+p454
+aVRoyal Ivey PHI 01/14/2009 PHI vs. POR W 14 3 1 5 20.0 0 2 0.0 1 1 100.0 1 1 2 2 0 0 0 2 15
+p455
+aVLou Williams PHI 01/14/2009 PHI vs. POR W 27 14 3 7 42.9 1 4 25.0 7 7 100.0 1 0 1 6 1 0 0 3 19
+p456
+aVWillie Green PHI 01/11/2009 PHI @ ATL W 17 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 2 0 0 2 2 -2
+p457
+aVMarreese Speights PHI 01/11/2009 PHI @ ATL W 23 12 6 7 85.7 0 0 - 0 0 - 3 5 8 0 0 1 1 4 16
+p458
+aVSamuel Dalembert PHI 01/11/2009 PHI @ ATL W 25 6 2 3 66.7 0 0 - 2 2 100.0 0 6 6 0 0 4 3 3 -1
+p459
+aVRoyal Ivey PHI 01/11/2009 PHI @ ATL W 20 3 1 3 33.3 1 1 100.0 0 0 - 1 3 4 1 0 0 0 1 13
+p460
+aVThaddeus Young PHI 01/11/2009 PHI @ ATL W 39 22 9 15 60.0 3 4 75.0 1 2 50.0 4 5 9 1 1 0 4 2 9
+p461
+aVLou Williams PHI 01/11/2009 PHI @ ATL W 25 11 4 13 30.8 1 4 25.0 2 2 100.0 0 0 0 6 0 0 1 2 7
+p462
+aVAndre Miller PHI 01/11/2009 PHI @ ATL W 34 19 8 15 53.3 1 2 50.0 2 2 100.0 1 0 1 7 3 0 2 3 12
+p463
+aVReggie Evans PHI 01/11/2009 PHI @ ATL W 15 4 0 1 0.0 0 0 - 4 4 100.0 2 3 5 1 1 0 1 2 10
+p464
+aVAndre Iguodala PHI 01/11/2009 PHI @ ATL W 42 27 9 13 69.2 3 4 75.0 6 7 85.7 0 6 6 9 2 0 5 2 11
+p465
+aVReggie Evans PHI 01/09/2009 PHI vs. CHA W 15 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 1
+p466
+aVRoyal Ivey PHI 01/09/2009 PHI vs. CHA W 9 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 0 -9
+p467
+aVThaddeus Young PHI 01/09/2009 PHI vs. CHA W 40 15 7 13 53.8 0 0 - 1 1 100.0 4 4 8 0 0 0 3 4 3
+p468
+aVLou Williams PHI 01/09/2009 PHI vs. CHA W 29 12 3 6 50.0 0 1 0.0 6 7 85.7 2 2 4 4 0 1 3 2 2
+p469
+aVTheo Ratliff PHI 01/09/2009 PHI vs. CHA W 8 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -1
+p470
+aVAndre Iguodala PHI 01/09/2009 PHI vs. CHA W 39 12 4 12 33.3 2 4 50.0 2 2 100.0 0 2 2 7 1 0 1 2 8
+p471
+aVSamuel Dalembert PHI 01/09/2009 PHI vs. CHA W 25 4 2 6 33.3 0 0 - 0 0 - 1 8 9 0 1 4 2 3 10
+p472
+aVMarreese Speights PHI 01/09/2009 PHI vs. CHA W 16 9 4 11 36.4 0 1 0.0 1 1 100.0 3 1 4 0 0 2 0 3 -2
+p473
+aVWillie Green PHI 01/09/2009 PHI vs. CHA W 19 11 5 9 55.6 0 0 - 1 2 50.0 0 1 1 1 2 0 1 3 4
+p474
+aVAndre Miller PHI 01/09/2009 PHI vs. CHA W 39 22 9 12 75.0 1 1 100.0 3 5 60.0 2 2 4 6 2 0 2 0 14
+p475
+aVReggie Evans PHI 01/07/2009 PHI @ MIL W 13 1 0 0 - 0 0 - 1 2 50.0 1 5 6 0 1 0 1 2 -2
+p476
+aVTheo Ratliff PHI 01/07/2009 PHI @ MIL W 18 7 2 2 100.0 0 0 - 3 4 75.0 2 0 2 0 1 2 0 1 -5
+p477
+aVAndre Miller PHI 01/07/2009 PHI @ MIL W 39 28 8 13 61.5 2 2 100.0 10 11 90.9 3 6 9 6 0 0 3 2 6
+p478
+aVMarreese Speights PHI 01/07/2009 PHI @ MIL W 14 8 3 5 60.0 0 0 - 2 3 66.7 1 3 4 1 0 1 2 4 5
+p479
+aVAndre Iguodala PHI 01/07/2009 PHI @ MIL W 42 20 6 14 42.9 0 2 0.0 8 11 72.7 0 5 5 7 3 0 4 1 5
+p480
+aVSamuel Dalembert PHI 01/07/2009 PHI @ MIL W 16 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 3 1 4 4
+p481
+aVWillie Green PHI 01/07/2009 PHI @ MIL W 20 9 4 5 80.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 2 3
+p482
+aVDonyell Marshall PHI 01/07/2009 PHI @ MIL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -5
+p483
+aVRoyal Ivey PHI 01/07/2009 PHI @ MIL W 19 9 3 5 60.0 3 4 75.0 0 0 - 0 0 0 1 1 0 0 2 5
+p484
+aVLou Williams PHI 01/07/2009 PHI @ MIL W 22 12 3 8 37.5 2 4 50.0 4 4 100.0 1 1 2 3 0 0 1 3 -5
+p485
+aVThaddeus Young PHI 01/07/2009 PHI @ MIL W 33 10 4 11 36.4 0 1 0.0 2 2 100.0 0 2 2 2 2 0 2 2 14
+p486
+aVMarreese Speights PHI 01/06/2009 PHI vs. HOU W 23 15 6 9 66.7 0 0 - 3 5 60.0 3 5 8 1 1 4 1 1 8
+p487
+aVThaddeus Young PHI 01/06/2009 PHI vs. HOU W 36 8 4 10 40.0 0 0 - 0 2 0.0 4 2 6 0 0 0 2 1 -1
+p488
+aVReggie Evans PHI 01/06/2009 PHI vs. HOU W 11 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 0
+p489
+aVTheo Ratliff PHI 01/06/2009 PHI vs. HOU W 19 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 0 1 3 1 3 -10
+p490
+aVAndre Miller PHI 01/06/2009 PHI vs. HOU W 36 9 2 7 28.6 0 0 - 5 8 62.5 3 2 5 8 1 0 3 2 -2
+p491
+aVAndre Iguodala PHI 01/06/2009 PHI vs. HOU W 43 28 12 19 63.2 1 4 25.0 3 6 50.0 1 2 3 3 4 0 3 2 15
+p492
+aVLou Williams PHI 01/06/2009 PHI vs. HOU W 26 15 5 10 50.0 1 3 33.3 4 8 50.0 0 3 3 8 1 0 3 4 3
+p493
+aVSamuel Dalembert PHI 01/06/2009 PHI vs. HOU W 13 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 1 0 0 4 12
+p494
+aVWillie Green PHI 01/06/2009 PHI vs. HOU W 21 14 7 11 63.6 0 1 0.0 0 0 - 0 1 1 1 2 0 1 3 3
+p495
+aVRoyal Ivey PHI 01/06/2009 PHI vs. HOU W 13 7 2 3 66.7 1 1 100.0 2 2 100.0 0 4 4 1 0 0 0 0 12
+p496
+aVReggie Evans PHI 01/03/2009 PHI @ SAS L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 8
+p497
+aVLou Williams PHI 01/03/2009 PHI @ SAS L 27 11 4 9 44.4 2 3 66.7 1 2 50.0 0 3 3 6 2 0 0 2 3
+p498
+aVWillie Green PHI 01/03/2009 PHI @ SAS L 22 2 1 9 11.1 0 3 0.0 0 0 - 2 1 3 2 0 1 0 1 -5
+p499
+aVAndre Iguodala PHI 01/03/2009 PHI @ SAS L 41 25 10 15 66.7 0 2 0.0 5 5 100.0 1 7 8 8 1 0 3 1 2
+p500
+aVTheo Ratliff PHI 01/03/2009 PHI @ SAS L 13 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 1 2 1 1 9
+p501
+aVAndre Miller PHI 01/03/2009 PHI @ SAS L 37 28 12 14 85.7 1 1 100.0 3 4 75.0 0 6 6 3 1 0 1 2 -7
+p502
+aVRoyal Ivey PHI 01/03/2009 PHI @ SAS L 20 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 3
+p503
+aVSamuel Dalembert PHI 01/03/2009 PHI @ SAS L 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 1 3 -6
+p504
+aVMarreese Speights PHI 01/03/2009 PHI @ SAS L 18 10 4 7 57.1 0 0 - 2 2 100.0 3 3 6 0 0 0 1 3 -5
+p505
+aVThaddeus Young PHI 01/03/2009 PHI @ SAS L 38 19 8 16 50.0 1 2 50.0 2 2 100.0 3 2 5 0 0 0 1 1 -12
+p506
+aVRoyal Ivey PHI 01/02/2009 PHI @ DAL L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p507
+aVAndre Iguodala PHI 01/02/2009 PHI @ DAL L 43 22 9 17 52.9 2 4 50.0 2 2 100.0 1 3 4 5 2 0 0 1 -8
+p508
+aVAndre Miller PHI 01/02/2009 PHI @ DAL L 39 17 8 17 47.1 1 4 25.0 0 0 - 3 8 11 4 1 0 8 5 -14
+p509
+aVTheo Ratliff PHI 01/02/2009 PHI @ DAL L 24 6 2 2 100.0 0 0 - 2 4 50.0 0 6 6 0 0 0 0 2 -6
+p510
+aVLou Williams PHI 01/02/2009 PHI @ DAL L 30 17 6 15 40.0 0 2 0.0 5 6 83.3 0 2 2 3 1 0 3 3 -8
+p511
+aVThaddeus Young PHI 01/02/2009 PHI @ DAL L 40 8 4 10 40.0 0 1 0.0 0 2 0.0 1 4 5 1 0 1 0 2 -10
+p512
+aVReggie Evans PHI 01/02/2009 PHI @ DAL L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 1 2 0
+p513
+aVSamuel Dalembert PHI 01/02/2009 PHI @ DAL L 21 0 0 2 0.0 0 0 - 0 0 - 3 6 9 0 0 3 1 2 -4
+p514
+aVWillie Green PHI 01/02/2009 PHI @ DAL L 25 11 4 12 33.3 1 2 50.0 2 2 100.0 0 0 0 2 0 0 1 1 -2
+p515
+aVLou Williams PHI 12/31/2008 PHI @ LAC W 27 9 3 10 30.0 0 2 0.0 3 4 75.0 0 2 2 4 1 2 2 3 8
+p516
+aVRoyal Ivey PHI 12/31/2008 PHI @ LAC W 9 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 0 0 2 0
+p517
+aVReggie Evans PHI 12/31/2008 PHI @ LAC W 9 5 2 2 100.0 0 0 - 1 2 50.0 0 5 5 0 0 0 1 1 3
+p518
+aVAndre Iguodala PHI 12/31/2008 PHI @ LAC W 44 28 7 16 43.8 0 3 0.0 14 17 82.4 1 6 7 7 2 0 1 2 7
+p519
+aVMarreese Speights PHI 12/31/2008 PHI @ LAC W 7 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 0
+p520
+aVAndre Miller PHI 12/31/2008 PHI @ LAC W 39 15 7 13 53.8 0 0 - 1 1 100.0 0 1 1 9 2 0 3 2 8
+p521
+aVTheo Ratliff PHI 12/31/2008 PHI @ LAC W 27 2 0 3 0.0 0 0 - 2 4 50.0 3 5 8 0 1 4 0 4 12
+p522
+aVSamuel Dalembert PHI 12/31/2008 PHI @ LAC W 13 6 1 4 25.0 0 0 - 4 4 100.0 0 2 2 0 0 3 1 4 -8
+p523
+aVThaddeus Young PHI 12/31/2008 PHI @ LAC W 38 20 10 14 71.4 0 0 - 0 0 - 3 3 6 1 3 0 0 4 8
+p524
+aVWillie Green PHI 12/31/2008 PHI @ LAC W 26 6 3 11 27.3 0 2 0.0 0 0 - 2 2 4 5 1 0 1 1 2
+p525
+aVKareem Rush PHI 12/29/2008 PHI @ UTA L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 1
+p526
+aVAndre Miller PHI 12/29/2008 PHI @ UTA L 30 13 5 12 41.7 0 0 - 3 4 75.0 0 0 0 8 1 0 3 6 -12
+p527
+aVAndre Iguodala PHI 12/29/2008 PHI @ UTA L 39 17 6 12 50.0 0 3 0.0 5 7 71.4 1 5 6 4 2 0 3 1 -11
+p528
+aVMarreese Speights PHI 12/29/2008 PHI @ UTA L 18 10 4 7 57.1 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -4
+p529
+aVSamuel Dalembert PHI 12/29/2008 PHI @ UTA L 22 7 2 5 40.0 0 0 - 3 3 100.0 5 5 10 0 0 0 2 1 -11
+p530
+aVLou Williams PHI 12/29/2008 PHI @ UTA L 28 14 5 12 41.7 0 1 0.0 4 5 80.0 1 1 2 3 2 0 1 2 -13
+p531
+aVThaddeus Young PHI 12/29/2008 PHI @ UTA L 33 17 8 14 57.1 1 2 50.0 0 0 - 3 4 7 1 1 0 1 3 -16
+p532
+aVReggie Evans PHI 12/29/2008 PHI @ UTA L 31 6 3 4 75.0 0 0 - 0 0 - 2 10 12 2 2 0 3 3 -12
+p533
+aVWillie Green PHI 12/29/2008 PHI @ UTA L 29 9 4 9 44.4 0 1 0.0 1 4 25.0 0 0 0 2 1 0 2 1 -7
+p534
+aVWillie Green PHI 12/26/2008 PHI @ DEN L 22 13 6 10 60.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 3 15
+p535
+aVMarreese Speights PHI 12/26/2008 PHI @ DEN L 18 12 5 12 41.7 0 0 - 2 3 66.7 1 1 2 1 1 0 0 1 -6
+p536
+aVThaddeus Young PHI 12/26/2008 PHI @ DEN L 30 10 4 7 57.1 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 0 4
+p537
+aVAndre Iguodala PHI 12/26/2008 PHI @ DEN L 46 24 9 15 60.0 2 3 66.7 4 7 57.1 1 3 4 4 5 2 4 2 -6
+p538
+aVRoyal Ivey PHI 12/26/2008 PHI @ DEN L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 1 0 1 2 -4
+p539
+aVLou Williams PHI 12/26/2008 PHI @ DEN L 27 16 5 10 50.0 0 1 0.0 6 10 60.0 0 3 3 4 3 0 5 2 -17
+p540
+aVReggie Evans PHI 12/26/2008 PHI @ DEN L 14 2 0 1 0.0 0 0 - 2 4 50.0 2 3 5 0 1 1 1 3 -9
+p541
+aVAndre Miller PHI 12/26/2008 PHI @ DEN L 39 19 8 15 53.3 1 2 50.0 2 2 100.0 2 3 5 8 2 0 3 5 0
+p542
+aVDonyell Marshall PHI 12/26/2008 PHI @ DEN L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 0
+p543
+aVSamuel Dalembert PHI 12/26/2008 PHI @ DEN L 28 2 1 4 25.0 0 0 - 0 2 0.0 2 11 13 0 0 2 1 5 3
+p544
+aVLou Williams PHI 12/23/2008 PHI @ BOS L 32 16 4 9 44.4 0 1 0.0 8 10 80.0 0 1 1 8 0 0 5 4 -15
+p545
+aVMarreese Speights PHI 12/23/2008 PHI @ BOS L 31 16 7 11 63.6 0 0 - 2 3 66.7 2 4 6 2 0 3 1 4 -12
+p546
+aVKareem Rush PHI 12/23/2008 PHI @ BOS L 19 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -13
+p547
+aVThaddeus Young PHI 12/23/2008 PHI @ BOS L 30 7 2 8 25.0 0 2 0.0 3 4 75.0 2 4 6 1 0 0 3 4 -5
+p548
+aVSamuel Dalembert PHI 12/23/2008 PHI @ BOS L 32 8 4 5 80.0 0 0 - 0 0 - 0 13 13 1 1 3 2 4 -16
+p549
+aVReggie Evans PHI 12/23/2008 PHI @ BOS L 16 12 5 7 71.4 0 0 - 2 6 33.3 2 3 5 0 3 0 1 4 -3
+p550
+aVAndre Iguodala PHI 12/23/2008 PHI @ BOS L 35 14 7 17 41.2 0 5 0.0 0 2 0.0 0 2 2 4 3 1 4 3 -5
+p551
+aVAndre Miller PHI 12/23/2008 PHI @ BOS L 38 14 6 15 40.0 0 1 0.0 2 2 100.0 2 3 5 8 0 0 3 4 -21
+p552
+aVRoyal Ivey PHI 12/23/2008 PHI @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -5
+p553
+aVAndre Iguodala PHI 12/20/2008 PHI vs. IND L 41 26 9 19 47.4 0 3 0.0 8 8 100.0 2 4 6 6 2 0 5 1 5
+p554
+aVRoyal Ivey PHI 12/20/2008 PHI vs. IND L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -6
+p555
+aVKareem Rush PHI 12/20/2008 PHI vs. IND L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p556
+aVSamuel Dalembert PHI 12/20/2008 PHI vs. IND L 36 11 4 5 80.0 0 0 - 3 6 50.0 3 11 14 0 0 5 3 3 11
+p557
+aVLou Williams PHI 12/20/2008 PHI vs. IND L 26 17 5 15 33.3 0 2 0.0 7 7 100.0 1 2 3 0 2 0 2 4 -5
+p558
+aVMarreese Speights PHI 12/20/2008 PHI vs. IND L 25 12 6 11 54.5 0 0 - 0 0 - 2 2 4 1 1 4 2 2 -8
+p559
+aVAndre Miller PHI 12/20/2008 PHI vs. IND L 42 14 5 12 41.7 0 1 0.0 4 4 100.0 4 6 10 12 1 0 0 4 1
+p560
+aVReggie Evans PHI 12/20/2008 PHI vs. IND L 12 2 0 0 - 0 0 - 2 2 100.0 0 3 3 1 0 0 1 1 -12
+p561
+aVWillie Green PHI 12/20/2008 PHI vs. IND L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 3 0 0 1 1 11
+p562
+aVThaddeus Young PHI 12/20/2008 PHI vs. IND L 31 10 5 12 41.7 0 0 - 0 0 - 1 1 2 1 1 0 2 1 1
+p563
+aVKareem Rush PHI 12/19/2008 PHI @ WAS W 11 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 2 1 0 0 0 7
+p564
+aVSamuel Dalembert PHI 12/19/2008 PHI @ WAS W 12 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 3 3 -11
+p565
+aVReggie Evans PHI 12/19/2008 PHI @ WAS W 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 4
+p566
+aVMarreese Speights PHI 12/19/2008 PHI @ WAS W 22 17 7 9 77.8 0 0 - 3 3 100.0 1 2 3 0 0 2 1 3 2
+p567
+aVTheo Ratliff PHI 12/19/2008 PHI @ WAS W 17 2 0 0 - 0 0 - 2 4 50.0 0 3 3 1 1 4 0 0 10
+p568
+aVAndre Miller PHI 12/19/2008 PHI @ WAS W 37 12 5 14 35.7 0 2 0.0 2 3 66.7 1 1 2 6 1 0 2 3 -1
+p569
+aVThaddeus Young PHI 12/19/2008 PHI @ WAS W 40 18 4 12 33.3 2 5 40.0 8 8 100.0 1 4 5 2 4 1 3 1 10
+p570
+aVAndre Iguodala PHI 12/19/2008 PHI @ WAS W 40 18 4 9 44.4 1 1 100.0 9 11 81.8 0 9 9 4 0 0 2 3 3
+p571
+aVWillie Green PHI 12/19/2008 PHI @ WAS W 19 4 2 5 40.0 0 2 0.0 0 0 - 0 4 4 3 0 0 1 1 6
+p572
+aVLou Williams PHI 12/19/2008 PHI @ WAS W 29 26 10 17 58.8 4 8 50.0 2 3 66.7 0 2 2 4 1 0 0 2 0
+p573
+aVWillie Green PHI 12/17/2008 PHI vs. MIL W 28 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 4 0 0 0 3 2
+p574
+aVMarreese Speights PHI 12/17/2008 PHI vs. MIL W 19 12 3 7 42.9 0 0 - 6 7 85.7 2 5 7 0 1 0 1 5 12
+p575
+aVAndre Iguodala PHI 12/17/2008 PHI vs. MIL W 34 4 2 14 14.3 0 2 0.0 0 0 - 0 6 6 7 1 0 3 4 7
+p576
+aVElton Brand PHI 12/17/2008 PHI vs. MIL W 22 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 1 1 1 2 -10
+p577
+aVAndre Miller PHI 12/17/2008 PHI vs. MIL W 42 19 9 14 64.3 0 0 - 1 3 33.3 1 2 3 3 2 0 3 1 -5
+p578
+aVThaddeus Young PHI 12/17/2008 PHI vs. MIL W 31 10 4 7 57.1 1 1 100.0 1 4 25.0 2 2 4 0 1 0 3 2 6
+p579
+aVReggie Evans PHI 12/17/2008 PHI vs. MIL W 15 2 1 4 25.0 0 0 - 0 0 - 5 4 9 0 1 0 1 4 11
+p580
+aVLou Williams PHI 12/17/2008 PHI vs. MIL W 32 25 9 17 52.9 2 4 50.0 5 9 55.6 2 2 4 2 1 0 3 1 7
+p581
+aVSamuel Dalembert PHI 12/17/2008 PHI vs. MIL W 19 8 2 3 66.7 0 0 - 4 4 100.0 1 5 6 0 1 0 1 1 -5
+p582
+aVAndre Miller PHI 12/13/2008 PHI vs. WAS W 38 8 3 4 75.0 0 0 - 2 2 100.0 0 4 4 12 1 0 2 1 21
+p583
+aVThaddeus Young PHI 12/13/2008 PHI vs. WAS W 29 14 5 9 55.6 1 2 50.0 3 4 75.0 2 2 4 0 0 0 1 3 -1
+p584
+aVSamuel Dalembert PHI 12/13/2008 PHI vs. WAS W 33 5 2 5 40.0 0 0 - 1 2 50.0 3 14 17 0 0 1 3 3 16
+p585
+aVAndre Iguodala PHI 12/13/2008 PHI vs. WAS W 36 14 5 11 45.5 0 2 0.0 4 5 80.0 0 5 5 4 3 0 2 0 14
+p586
+aVReggie Evans PHI 12/13/2008 PHI vs. WAS W 5 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 0
+p587
+aVLou Williams PHI 12/13/2008 PHI vs. WAS W 25 15 5 11 45.5 0 3 0.0 5 6 83.3 0 1 1 5 1 0 1 2 -5
+p588
+aVMarreese Speights PHI 12/13/2008 PHI vs. WAS W 11 8 1 3 33.3 0 0 - 6 6 100.0 1 2 3 0 0 0 0 0 -3
+p589
+aVElton Brand PHI 12/13/2008 PHI vs. WAS W 38 27 12 19 63.2 0 0 - 3 8 37.5 2 7 9 3 1 1 2 3 23
+p590
+aVWillie Green PHI 12/13/2008 PHI vs. WAS W 25 13 5 10 50.0 1 5 20.0 2 2 100.0 0 0 0 0 0 0 2 1 10
+p591
+aVElton Brand PHI 12/12/2008 PHI @ CLE L 38 11 4 13 30.8 0 0 - 3 6 50.0 3 8 11 3 0 0 4 4 -8
+p592
+aVSamuel Dalembert PHI 12/12/2008 PHI @ CLE L 27 6 3 5 60.0 0 0 - 0 0 - 1 8 9 0 0 3 2 4 -4
+p593
+aVRoyal Ivey PHI 12/12/2008 PHI @ CLE L 14 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 1 4 -4
+p594
+aVThaddeus Young PHI 12/12/2008 PHI @ CLE L 20 10 5 9 55.6 0 1 0.0 0 0 - 4 0 4 0 0 0 1 1 -9
+p595
+aVAndre Miller PHI 12/12/2008 PHI @ CLE L 41 8 2 8 25.0 0 2 0.0 4 6 66.7 0 2 2 7 2 1 3 1 -18
+p596
+aVAndre Iguodala PHI 12/12/2008 PHI @ CLE L 46 16 7 14 50.0 0 3 0.0 2 2 100.0 0 7 7 4 2 0 3 1 -13
+p597
+aVWillie Green PHI 12/12/2008 PHI @ CLE L 37 19 8 13 61.5 1 3 33.3 2 2 100.0 0 2 2 1 2 0 2 4 -12
+p598
+aVDonyell Marshall PHI 12/12/2008 PHI @ CLE L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -3
+p599
+aVReggie Evans PHI 12/12/2008 PHI @ CLE L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 1 3 -6
+p600
+aVMarreese Speights PHI 12/12/2008 PHI @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p601
+aVAndre Miller PHI 12/10/2008 PHI vs. CLE L 40 22 7 11 63.6 0 0 - 8 10 80.0 1 4 5 8 1 0 1 4 2
+p602
+aVWillie Green PHI 12/10/2008 PHI vs. CLE L 20 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 -9
+p603
+aVReggie Evans PHI 12/10/2008 PHI vs. CLE L 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 7
+p604
+aVDonyell Marshall PHI 12/10/2008 PHI vs. CLE L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p605
+aVMarreese Speights PHI 12/10/2008 PHI vs. CLE L 7 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 1 0 0 3 2
+p606
+aVThaddeus Young PHI 12/10/2008 PHI vs. CLE L 27 6 2 9 22.2 0 2 0.0 2 3 66.7 0 5 5 0 0 0 0 2 -2
+p607
+aVLou Williams PHI 12/10/2008 PHI vs. CLE L 28 22 7 15 46.7 0 1 0.0 8 11 72.7 0 1 1 1 0 0 2 2 1
+p608
+aVTheo Ratliff PHI 12/10/2008 PHI vs. CLE L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -1
+p609
+aVRoyal Ivey PHI 12/10/2008 PHI vs. CLE L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -10
+p610
+aVAndre Iguodala PHI 12/10/2008 PHI vs. CLE L 40 27 11 16 68.8 1 2 50.0 4 4 100.0 3 6 9 5 1 0 2 1 -1
+p611
+aVSamuel Dalembert PHI 12/10/2008 PHI vs. CLE L 17 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -18
+p612
+aVElton Brand PHI 12/10/2008 PHI vs. CLE L 35 6 3 11 27.3 0 0 - 0 0 - 4 6 10 1 0 2 7 2 -9
+p613
+aVLou Williams PHI 12/06/2008 PHI vs. NJN L 24 13 6 13 46.2 1 3 33.3 0 1 0.0 0 1 1 3 3 1 1 1 1
+p614
+aVThaddeus Young PHI 12/06/2008 PHI vs. NJN L 37 8 3 11 27.3 0 4 0.0 2 2 100.0 1 7 8 2 1 0 1 1 -5
+p615
+aVDonyell Marshall PHI 12/06/2008 PHI vs. NJN L 16 13 5 7 71.4 3 5 60.0 0 0 - 2 3 5 1 1 0 1 2 2
+p616
+aVReggie Evans PHI 12/06/2008 PHI vs. NJN L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p617
+aVSamuel Dalembert PHI 12/06/2008 PHI vs. NJN L 20 0 0 6 0.0 0 0 - 0 0 - 3 2 5 0 1 1 0 1 -12
+p618
+aVMarreese Speights PHI 12/06/2008 PHI vs. NJN L 16 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 1 -11
+p619
+aVKareem Rush PHI 12/06/2008 PHI vs. NJN L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 0
+p620
+aVTheo Ratliff PHI 12/06/2008 PHI vs. NJN L 20 0 0 1 0.0 0 0 - 0 2 0.0 2 2 4 0 0 1 1 4 7
+p621
+aVRoyal Ivey PHI 12/06/2008 PHI vs. NJN L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -4
+p622
+aVAndre Iguodala PHI 12/06/2008 PHI vs. NJN L 37 20 5 15 33.3 2 6 33.3 8 9 88.9 4 7 11 3 0 1 5 0 -17
+p623
+aVAndre Miller PHI 12/06/2008 PHI vs. NJN L 33 16 4 9 44.4 0 0 - 8 8 100.0 2 1 3 5 0 0 5 3 -21
+p624
+aVWillie Green PHI 12/06/2008 PHI vs. NJN L 22 6 2 7 28.6 0 2 0.0 2 3 66.7 0 0 0 1 0 0 0 2 5
+p625
+aVThaddeus Young PHI 12/05/2008 PHI @ DET W 32 9 4 8 50.0 0 2 0.0 1 1 100.0 1 2 3 2 0 0 0 2 11
+p626
+aVReggie Evans PHI 12/05/2008 PHI @ DET W 13 7 2 4 50.0 0 0 - 3 4 75.0 2 0 2 1 0 0 1 1 -1
+p627
+aVLou Williams PHI 12/05/2008 PHI @ DET W 22 16 4 7 57.1 0 0 - 8 9 88.9 1 3 4 3 1 0 1 3 22
+p628
+aVAndre Iguodala PHI 12/05/2008 PHI @ DET W 37 14 5 11 45.5 1 2 50.0 3 3 100.0 2 6 8 5 0 2 3 2 -4
+p629
+aVSamuel Dalembert PHI 12/05/2008 PHI @ DET W 19 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 3 1
+p630
+aVRoyal Ivey PHI 12/05/2008 PHI @ DET W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p631
+aVMarreese Speights PHI 12/05/2008 PHI @ DET W 23 8 4 11 36.4 0 0 - 0 0 - 0 6 6 1 0 1 2 3 -13
+p632
+aVAndre Miller PHI 12/05/2008 PHI @ DET W 36 19 5 8 62.5 0 0 - 9 10 90.0 1 5 6 3 1 0 1 2 -4
+p633
+aVDonyell Marshall PHI 12/05/2008 PHI @ DET W 14 8 3 6 50.0 2 4 50.0 0 0 - 1 2 3 0 0 1 0 2 17
+p634
+aVWillie Green PHI 12/05/2008 PHI @ DET W 23 9 4 11 36.4 0 2 0.0 1 2 50.0 1 1 2 3 0 0 0 2 4
+p635
+aVTheo Ratliff PHI 12/05/2008 PHI @ DET W 18 2 1 4 25.0 0 0 - 0 0 - 2 3 5 1 2 3 2 1 -2
+p636
+aVRoyal Ivey PHI 12/03/2008 PHI vs. LAL L 16 5 2 6 33.3 0 2 0.0 1 2 50.0 1 1 2 2 3 0 1 1 -2
+p637
+aVWillie Green PHI 12/03/2008 PHI vs. LAL L 14 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 1 -21
+p638
+aVSamuel Dalembert PHI 12/03/2008 PHI vs. LAL L 30 11 4 6 66.7 0 0 - 3 4 75.0 3 5 8 3 0 0 1 5 3
+p639
+aVAndre Iguodala PHI 12/03/2008 PHI vs. LAL L 42 19 9 16 56.3 0 3 0.0 1 3 33.3 1 4 5 5 2 0 2 3 -5
+p640
+aVAndre Miller PHI 12/03/2008 PHI vs. LAL L 38 26 11 21 52.4 0 0 - 4 6 66.7 1 7 8 5 2 0 1 3 -2
+p641
+aVElton Brand PHI 12/03/2008 PHI vs. LAL L 25 3 1 7 14.3 0 0 - 1 2 50.0 3 2 5 3 2 1 1 2 -7
+p642
+aVLou Williams PHI 12/03/2008 PHI vs. LAL L 17 15 5 8 62.5 3 5 60.0 2 2 100.0 0 0 0 1 0 0 2 0 -2
+p643
+aVThaddeus Young PHI 12/03/2008 PHI vs. LAL L 36 17 7 14 50.0 2 3 66.7 1 1 100.0 3 5 8 0 1 0 1 4 5
+p644
+aVMarreese Speights PHI 12/03/2008 PHI vs. LAL L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -11
+p645
+aVTheo Ratliff PHI 12/03/2008 PHI vs. LAL L 17 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 1 0 2 -18
+p646
+aVAndre Miller PHI 12/02/2008 PHI @ CHI W 44 28 9 26 34.6 0 2 0.0 10 11 90.9 1 3 4 4 3 0 2 3 4
+p647
+aVAndre Iguodala PHI 12/02/2008 PHI @ CHI W 47 25 11 19 57.9 0 1 0.0 3 5 60.0 2 7 9 5 1 1 5 2 10
+p648
+aVMarreese Speights PHI 12/02/2008 PHI @ CHI W 26 11 5 9 55.6 0 0 - 1 1 100.0 5 3 8 0 0 0 0 3 11
+p649
+aVTheo Ratliff PHI 12/02/2008 PHI @ CHI W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 10
+p650
+aVLou Williams PHI 12/02/2008 PHI @ CHI W 11 5 1 5 20.0 0 2 0.0 3 4 75.0 1 0 1 2 0 0 3 1 0
+p651
+aVElton Brand PHI 12/02/2008 PHI @ CHI W 43 22 8 18 44.4 0 0 - 6 9 66.7 5 9 14 0 2 1 1 4 1
+p652
+aVRoyal Ivey PHI 12/02/2008 PHI @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -3
+p653
+aVWillie Green PHI 12/02/2008 PHI @ CHI W 40 8 3 10 30.0 2 3 66.7 0 0 - 1 4 5 2 2 0 4 5 15
+p654
+aVSamuel Dalembert PHI 12/02/2008 PHI @ CHI W 12 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 2 0 1 -3
+p655
+aVThaddeus Young PHI 12/02/2008 PHI @ CHI W 30 4 1 9 11.1 0 3 0.0 2 2 100.0 2 3 5 2 5 1 2 4 -5
+p656
+aVKareem Rush PHI 11/30/2008 PHI vs. CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p657
+aVElton Brand PHI 11/30/2008 PHI vs. CHI L 41 21 8 15 53.3 0 0 - 5 6 83.3 2 10 12 1 0 0 3 3 1
+p658
+aVThaddeus Young PHI 11/30/2008 PHI vs. CHI L 36 17 8 14 57.1 1 2 50.0 0 0 - 1 4 5 4 0 0 1 1 -3
+p659
+aVRoyal Ivey PHI 11/30/2008 PHI vs. CHI L 14 7 3 7 42.9 1 2 50.0 0 0 - 2 3 5 2 0 0 0 1 -14
+p660
+aVMarreese Speights PHI 11/30/2008 PHI vs. CHI L 19 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 0 1 0 1 2 -1
+p661
+aVAndre Miller PHI 11/30/2008 PHI vs. CHI L 34 15 5 12 41.7 1 1 100.0 4 6 66.7 0 1 1 10 3 0 0 0 2
+p662
+aVSamuel Dalembert PHI 11/30/2008 PHI vs. CHI L 15 4 2 6 33.3 0 0 - 0 0 - 3 1 4 0 0 0 2 2 0
+p663
+aVLou Williams PHI 11/30/2008 PHI vs. CHI L 15 2 1 9 11.1 0 4 0.0 0 0 - 0 0 0 3 1 0 3 1 -15
+p664
+aVWillie Green PHI 11/30/2008 PHI vs. CHI L 21 12 4 5 80.0 2 3 66.7 2 2 100.0 0 2 2 3 0 0 0 5 -1
+p665
+aVReggie Evans PHI 11/30/2008 PHI vs. CHI L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -12
+p666
+aVAndre Iguodala PHI 11/30/2008 PHI vs. CHI L 34 8 3 9 33.3 0 1 0.0 2 3 66.7 1 2 3 6 0 0 4 4 -1
+p667
+aVMarreese Speights PHI 11/28/2008 PHI @ BOS L 15 12 5 11 45.5 0 0 - 2 4 50.0 4 2 6 0 0 0 1 4 -9
+p668
+aVAndre Miller PHI 11/28/2008 PHI @ BOS L 28 12 6 12 50.0 0 1 0.0 0 0 - 2 3 5 3 1 0 5 2 -11
+p669
+aVSamuel Dalembert PHI 11/28/2008 PHI @ BOS L 24 0 0 2 0.0 0 0 - 0 2 0.0 0 4 4 0 0 0 1 1 -11
+p670
+aVAndre Iguodala PHI 11/28/2008 PHI @ BOS L 34 9 4 8 50.0 0 1 0.0 1 4 25.0 2 4 6 2 2 1 4 3 -24
+p671
+aVLou Williams PHI 11/28/2008 PHI @ BOS L 20 15 5 7 71.4 1 2 50.0 4 5 80.0 0 1 1 6 3 0 0 0 -13
+p672
+aVReggie Evans PHI 11/28/2008 PHI @ BOS L 14 1 0 0 - 0 0 - 1 2 50.0 2 5 7 1 0 1 1 2 3
+p673
+aVElton Brand PHI 11/28/2008 PHI @ BOS L 32 18 8 14 57.1 0 0 - 2 2 100.0 2 6 8 0 0 0 0 2 -15
+p674
+aVTheo Ratliff PHI 11/28/2008 PHI @ BOS L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -16
+p675
+aVRoyal Ivey PHI 11/28/2008 PHI @ BOS L 12 5 1 5 20.0 1 3 33.3 2 2 100.0 0 0 0 2 0 0 0 2 2
+p676
+aVKareem Rush PHI 11/28/2008 PHI @ BOS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p677
+aVWillie Green PHI 11/28/2008 PHI @ BOS L 24 2 1 6 16.7 0 0 - 0 0 - 2 3 5 0 0 0 1 1 -16
+p678
+aVThaddeus Young PHI 11/28/2008 PHI @ BOS L 22 4 2 9 22.2 0 1 0.0 0 0 - 0 1 1 1 0 1 1 0 -8
+p679
+aVAndre Iguodala PHI 11/26/2008 PHI vs. ORL L 39 17 5 13 38.5 1 4 25.0 6 7 85.7 1 5 6 7 2 0 4 3 0
+p680
+aVSamuel Dalembert PHI 11/26/2008 PHI vs. ORL L 25 4 2 6 33.3 0 0 - 0 0 - 4 3 7 1 0 1 1 6 3
+p681
+aVTheo Ratliff PHI 11/26/2008 PHI vs. ORL L 18 2 1 1 100.0 0 0 - 0 0 - 2 3 5 2 0 0 1 4 -4
+p682
+aVMarreese Speights PHI 11/26/2008 PHI vs. ORL L 14 12 5 7 71.4 1 1 100.0 1 2 50.0 1 2 3 0 1 0 1 1 3
+p683
+aVElton Brand PHI 11/26/2008 PHI vs. ORL L 33 21 9 14 64.3 0 0 - 3 5 60.0 2 4 6 2 2 2 2 4 -5
+p684
+aVKareem Rush PHI 11/26/2008 PHI vs. ORL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p685
+aVAndre Miller PHI 11/26/2008 PHI vs. ORL L 34 8 3 13 23.1 0 3 0.0 2 2 100.0 2 4 6 4 1 0 1 0 -7
+p686
+aVWillie Green PHI 11/26/2008 PHI vs. ORL L 20 4 2 6 33.3 0 0 - 0 1 0.0 1 0 1 5 0 0 0 1 4
+p687
+aVReggie Evans PHI 11/26/2008 PHI vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p688
+aVRoyal Ivey PHI 11/26/2008 PHI vs. ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p689
+aVThaddeus Young PHI 11/26/2008 PHI vs. ORL L 34 13 6 10 60.0 1 3 33.3 0 0 - 1 1 2 1 1 0 2 3 -3
+p690
+aVLou Williams PHI 11/26/2008 PHI vs. ORL L 17 13 3 10 30.0 0 1 0.0 7 7 100.0 0 3 3 3 0 0 1 2 3
+p691
+aVAndre Iguodala PHI 11/24/2008 PHI @ CHA L 39 17 7 14 50.0 1 3 33.3 2 2 100.0 1 4 5 2 5 0 0 1 -1
+p692
+aVReggie Evans PHI 11/24/2008 PHI @ CHA L 16 0 0 0 - 0 0 - 0 2 0.0 2 1 3 0 0 0 0 1 -9
+p693
+aVLou Williams PHI 11/24/2008 PHI @ CHA L 27 14 5 15 33.3 1 7 14.3 3 3 100.0 0 1 1 3 2 0 2 1 -1
+p694
+aVThaddeus Young PHI 11/24/2008 PHI @ CHA L 36 6 2 10 20.0 0 4 0.0 2 4 50.0 1 4 5 1 3 0 3 3 -11
+p695
+aVWillie Green PHI 11/24/2008 PHI @ CHA L 16 9 4 8 50.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 2 -4
+p696
+aVElton Brand PHI 11/24/2008 PHI @ CHA L 34 18 6 13 46.2 0 0 - 6 7 85.7 4 5 9 0 1 1 2 6 -6
+p697
+aVSamuel Dalembert PHI 11/24/2008 PHI @ CHA L 27 8 3 7 42.9 0 1 0.0 2 2 100.0 3 4 7 0 0 3 1 3 -7
+p698
+aVAndre Miller PHI 11/24/2008 PHI @ CHA L 37 10 4 13 30.8 0 0 - 2 3 66.7 0 1 1 6 1 1 3 3 -10
+p699
+aVMarreese Speights PHI 11/24/2008 PHI @ CHA L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 4
+p700
+aVKareem Rush PHI 11/23/2008 PHI vs. GSW W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 0
+p701
+aVMarreese Speights PHI 11/23/2008 PHI vs. GSW W 12 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 0 1 1 0 0 -2
+p702
+aVSamuel Dalembert PHI 11/23/2008 PHI vs. GSW W 36 8 4 9 44.4 0 0 - 0 0 - 9 7 16 0 1 2 1 2 12
+p703
+aVReggie Evans PHI 11/23/2008 PHI vs. GSW W 8 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 0 0 1 -6
+p704
+aVWillie Green PHI 11/23/2008 PHI vs. GSW W 20 9 4 13 30.8 1 5 20.0 0 1 0.0 0 1 1 3 1 0 2 2 -8
+p705
+aVElton Brand PHI 11/23/2008 PHI vs. GSW W 39 23 10 22 45.5 0 0 - 3 3 100.0 5 7 12 3 0 1 2 2 12
+p706
+aVLou Williams PHI 11/23/2008 PHI vs. GSW W 15 7 2 6 33.3 0 0 - 3 4 75.0 0 3 3 2 1 0 0 1 -1
+p707
+aVAndre Iguodala PHI 11/23/2008 PHI vs. GSW W 29 15 6 14 42.9 2 3 66.7 1 2 50.0 1 4 5 3 0 1 2 5 12
+p708
+aVAndre Miller PHI 11/23/2008 PHI vs. GSW W 37 9 3 5 60.0 1 1 100.0 2 2 100.0 1 2 3 8 0 0 6 1 11
+p709
+aVThaddeus Young PHI 11/23/2008 PHI vs. GSW W 34 12 5 12 41.7 2 3 66.7 0 0 - 2 4 6 1 2 0 3 3 10
+p710
+aVSamuel Dalembert PHI 11/21/2008 PHI vs. LAC W 28 11 5 9 55.6 0 0 - 1 1 100.0 3 5 8 0 4 0 2 3 13
+p711
+aVAndre Iguodala PHI 11/21/2008 PHI vs. LAC W 36 14 5 12 41.7 0 1 0.0 4 7 57.1 0 6 6 12 4 1 5 2 12
+p712
+aVReggie Evans PHI 11/21/2008 PHI vs. LAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 1 1 -8
+p713
+aVLou Williams PHI 11/21/2008 PHI vs. LAC W 7 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -8
+p714
+aVThaddeus Young PHI 11/21/2008 PHI vs. LAC W 41 17 7 12 58.3 1 2 50.0 2 4 50.0 2 4 6 0 1 0 1 3 -4
+p715
+aVWillie Green PHI 11/21/2008 PHI vs. LAC W 22 9 3 7 42.9 0 1 0.0 3 3 100.0 1 1 2 2 0 0 0 4 -8
+p716
+aVAndre Miller PHI 11/21/2008 PHI vs. LAC W 41 13 4 8 50.0 1 1 100.0 4 6 66.7 2 1 3 7 3 0 3 1 9
+p717
+aVTheo Ratliff PHI 11/21/2008 PHI vs. LAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p718
+aVElton Brand PHI 11/21/2008 PHI vs. LAC W 40 17 6 18 33.3 0 0 - 5 6 83.3 2 6 8 0 0 5 4 4 9
+p719
+aVMarreese Speights PHI 11/21/2008 PHI vs. LAC W 15 8 4 8 50.0 0 0 - 0 0 - 5 1 6 1 0 1 2 3 -10
+p720
+aVLou Williams PHI 11/19/2008 PHI @ MIN L 11 7 2 6 33.3 0 0 - 3 3 100.0 1 0 1 2 0 0 1 1 -6
+p721
+aVThaddeus Young PHI 11/19/2008 PHI @ MIN L 38 15 7 11 63.6 0 1 0.0 1 2 50.0 1 1 2 2 1 0 1 2 -6
+p722
+aVSamuel Dalembert PHI 11/19/2008 PHI @ MIN L 34 4 2 6 33.3 0 0 - 0 0 - 1 10 11 0 1 4 1 4 -3
+p723
+aVElton Brand PHI 11/19/2008 PHI @ MIN L 39 19 9 21 42.9 0 0 - 1 3 33.3 3 10 13 2 0 0 4 3 -4
+p724
+aVMarreese Speights PHI 11/19/2008 PHI @ MIN L 12 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 1 2 1 0 4 1
+p725
+aVWillie Green PHI 11/19/2008 PHI @ MIN L 18 6 3 5 60.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 4 -9
+p726
+aVRoyal Ivey PHI 11/19/2008 PHI @ MIN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 3
+p727
+aVAndre Miller PHI 11/19/2008 PHI @ MIN L 33 20 8 13 61.5 0 0 - 4 4 100.0 1 2 3 6 0 0 3 3 -3
+p728
+aVAndre Iguodala PHI 11/19/2008 PHI @ MIN L 39 17 6 15 40.0 1 6 16.7 4 9 44.4 4 5 9 6 1 0 3 3 -1
+p729
+aVKareem Rush PHI 11/19/2008 PHI @ MIN L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p730
+aVReggie Evans PHI 11/19/2008 PHI @ MIN L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p731
+aVAndre Iguodala PHI 11/15/2008 PHI vs. OKC W 30 15 7 14 50.0 1 2 50.0 0 0 - 1 4 5 5 1 0 0 0 19
+p732
+aVKareem Rush PHI 11/15/2008 PHI vs. OKC W 8 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p733
+aVAndre Miller PHI 11/15/2008 PHI vs. OKC W 29 6 2 5 40.0 0 1 0.0 2 2 100.0 2 4 6 9 4 0 1 1 30
+p734
+aVRoyal Ivey PHI 11/15/2008 PHI vs. OKC W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 -2
+p735
+aVMarreese Speights PHI 11/15/2008 PHI vs. OKC W 17 9 4 8 50.0 0 0 - 1 3 33.3 4 4 8 0 0 0 2 2 6
+p736
+aVElton Brand PHI 11/15/2008 PHI vs. OKC W 27 15 5 14 35.7 0 0 - 5 8 62.5 1 3 4 5 1 2 1 1 33
+p737
+aVReggie Evans PHI 11/15/2008 PHI vs. OKC W 13 6 2 4 50.0 0 0 - 2 2 100.0 5 2 7 1 0 1 1 2 -7
+p738
+aVWillie Green PHI 11/15/2008 PHI vs. OKC W 20 7 3 9 33.3 1 2 50.0 0 0 - 1 1 2 2 2 0 1 4 -1
+p739
+aVSamuel Dalembert PHI 11/15/2008 PHI vs. OKC W 31 13 6 10 60.0 0 0 - 1 2 50.0 4 12 16 0 0 3 1 1 19
+p740
+aVThaddeus Young PHI 11/15/2008 PHI vs. OKC W 32 23 10 15 66.7 1 3 33.3 2 2 100.0 1 3 4 2 0 0 2 0 35
+p741
+aVDonyell Marshall PHI 11/15/2008 PHI vs. OKC W 7 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p742
+aVLou Williams PHI 11/15/2008 PHI vs. OKC W 19 3 1 8 12.5 0 2 0.0 1 4 25.0 0 3 3 4 1 0 4 1 -5
+p743
+aVWillie Green PHI 11/14/2008 PHI @ IND W 28 14 6 15 40.0 2 2 100.0 0 0 - 2 0 2 2 0 0 1 4 9
+p744
+aVAndre Iguodala PHI 11/14/2008 PHI @ IND W 38 10 2 12 16.7 0 1 0.0 6 8 75.0 1 9 10 2 0 3 1 0 3
+p745
+aVThaddeus Young PHI 11/14/2008 PHI @ IND W 41 25 11 18 61.1 0 3 0.0 3 6 50.0 5 5 10 0 1 1 1 1 6
+p746
+aVReggie Evans PHI 11/14/2008 PHI @ IND W 10 3 1 2 50.0 0 0 - 1 2 50.0 3 3 6 0 0 1 0 2 8
+p747
+aVKareem Rush PHI 11/14/2008 PHI @ IND W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -5
+p748
+aVRoyal Ivey PHI 11/14/2008 PHI @ IND W 12 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 0 0 16
+p749
+aVSamuel Dalembert PHI 11/14/2008 PHI @ IND W 12 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -23
+p750
+aVMarreese Speights PHI 11/14/2008 PHI @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p751
+aVLou Williams PHI 11/14/2008 PHI @ IND W 12 4 1 5 20.0 0 1 0.0 2 3 66.7 0 2 2 1 0 0 1 2 3
+p752
+aVElton Brand PHI 11/14/2008 PHI @ IND W 37 14 4 17 23.5 0 0 - 6 7 85.7 5 10 15 2 2 3 1 2 -4
+p753
+aVAndre Miller PHI 11/14/2008 PHI @ IND W 36 19 8 20 40.0 0 0 - 3 3 100.0 2 1 3 2 2 2 3 1 -1
+p754
+aVSamuel Dalembert PHI 11/12/2008 PHI @ TOR W 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 6 13
+p755
+aVLou Williams PHI 11/12/2008 PHI @ TOR W 11 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 1 1 0 2 0 2
+p756
+aVWillie Green PHI 11/12/2008 PHI @ TOR W 32 17 6 10 60.0 3 4 75.0 2 3 66.7 1 1 2 9 1 1 0 2 13
+p757
+aVReggie Evans PHI 11/12/2008 PHI @ TOR W 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -5
+p758
+aVMarreese Speights PHI 11/12/2008 PHI @ TOR W 20 12 5 9 55.6 0 0 - 2 2 100.0 4 3 7 1 0 1 0 5 -2
+p759
+aVAndre Miller PHI 11/12/2008 PHI @ TOR W 37 18 8 14 57.1 0 1 0.0 2 2 100.0 1 4 5 5 2 0 1 2 8
+p760
+aVElton Brand PHI 11/12/2008 PHI @ TOR W 39 25 12 21 57.1 0 0 - 1 2 50.0 3 5 8 2 1 3 3 1 15
+p761
+aVThaddeus Young PHI 11/12/2008 PHI @ TOR W 31 7 3 5 60.0 1 2 50.0 0 0 - 0 4 4 1 3 1 5 4 -2
+p762
+aVAndre Iguodala PHI 11/12/2008 PHI @ TOR W 38 18 5 13 38.5 1 3 33.3 7 8 87.5 0 9 9 10 0 0 1 1 8
+p763
+aVAndre Miller PHI 11/11/2008 PHI vs. UTA L 37 25 9 16 56.3 0 0 - 7 8 87.5 0 1 1 6 0 0 1 1 -1
+p764
+aVLou Williams PHI 11/11/2008 PHI vs. UTA L 17 5 2 8 25.0 0 2 0.0 1 1 100.0 0 0 0 0 1 2 3 1 -18
+p765
+aVAndre Iguodala PHI 11/11/2008 PHI vs. UTA L 43 15 5 11 45.5 1 2 50.0 4 6 66.7 2 8 10 5 2 1 4 1 -5
+p766
+aVSamuel Dalembert PHI 11/11/2008 PHI vs. UTA L 33 6 2 5 40.0 0 0 - 2 2 100.0 2 9 11 1 0 2 1 4 2
+p767
+aVKareem Rush PHI 11/11/2008 PHI vs. UTA L 6 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p768
+aVThaddeus Young PHI 11/11/2008 PHI vs. UTA L 41 9 3 15 20.0 0 2 0.0 3 4 75.0 5 6 11 4 0 1 2 1 -8
+p769
+aVRoyal Ivey PHI 11/11/2008 PHI vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p770
+aVWillie Green PHI 11/11/2008 PHI vs. UTA L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -18
+p771
+aVReggie Evans PHI 11/11/2008 PHI vs. UTA L 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -3
+p772
+aVElton Brand PHI 11/11/2008 PHI vs. UTA L 34 13 6 13 46.2 0 0 - 1 1 100.0 0 5 5 1 0 5 5 4 12
+p773
+aVMarreese Speights PHI 11/11/2008 PHI vs. UTA L 10 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 1 0 2 -20
+p774
+aVWillie Green PHI 11/06/2008 PHI @ ORL L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 2 0 0 3 3 3
+p775
+aVSamuel Dalembert PHI 11/06/2008 PHI @ ORL L 30 10 5 8 62.5 0 0 - 0 0 - 8 6 14 1 0 3 1 4 -2
+p776
+aVAndre Iguodala PHI 11/06/2008 PHI @ ORL L 39 16 4 12 33.3 1 3 33.3 7 7 100.0 1 10 11 8 0 0 5 4 -2
+p777
+aVRoyal Ivey PHI 11/06/2008 PHI @ ORL L 9 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 1 0 0 1 -2
+p778
+aVMarreese Speights PHI 11/06/2008 PHI @ ORL L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -2
+p779
+aVElton Brand PHI 11/06/2008 PHI @ ORL L 35 6 3 8 37.5 0 0 - 0 2 0.0 2 10 12 1 0 0 2 2 -19
+p780
+aVReggie Evans PHI 11/06/2008 PHI @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p781
+aVKareem Rush PHI 11/06/2008 PHI @ ORL L 17 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 1 2
+p782
+aVThaddeus Young PHI 11/06/2008 PHI @ ORL L 34 19 7 18 38.9 1 5 20.0 4 4 100.0 2 2 4 0 1 0 1 1 -14
+p783
+aVAndre Miller PHI 11/06/2008 PHI @ ORL L 34 15 7 24 29.2 1 1 100.0 0 0 - 3 1 4 2 0 0 0 2 -18
+p784
+aVLou Williams PHI 11/06/2008 PHI @ ORL L 14 8 4 11 36.4 0 1 0.0 0 0 - 0 2 2 1 2 0 1 0 8
+p785
+aVTheo Ratliff PHI 11/06/2008 PHI @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p786
+aVKareem Rush PHI 11/05/2008 PHI @ MIA L 12 4 0 3 0.0 0 3 0.0 4 4 100.0 0 1 1 1 0 1 1 0 7
+p787
+aVElton Brand PHI 11/05/2008 PHI @ MIA L 35 12 4 10 40.0 0 0 - 4 4 100.0 2 10 12 1 2 1 4 1 -13
+p788
+aVRoyal Ivey PHI 11/05/2008 PHI @ MIA L 11 6 1 3 33.3 0 1 0.0 4 4 100.0 0 0 0 0 0 0 1 1 -6
+p789
+aVAndre Miller PHI 11/05/2008 PHI @ MIA L 28 11 3 8 37.5 0 0 - 5 6 83.3 0 1 1 6 0 0 3 2 -13
+p790
+aVMarreese Speights PHI 11/05/2008 PHI @ MIA L 17 6 3 6 50.0 0 0 - 0 0 - 5 5 10 1 0 0 3 3 -10
+p791
+aVWillie Green PHI 11/05/2008 PHI @ MIA L 15 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -22
+p792
+aVSamuel Dalembert PHI 11/05/2008 PHI @ MIA L 25 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 0 1 2 3 -3
+p793
+aVLou Williams PHI 11/05/2008 PHI @ MIA L 19 16 5 13 38.5 2 3 66.7 4 4 100.0 0 0 0 0 1 0 1 3 -15
+p794
+aVAndre Iguodala PHI 11/05/2008 PHI @ MIA L 23 2 1 7 14.3 0 1 0.0 0 0 - 0 3 3 1 2 1 4 3 -3
+p795
+aVThaddeus Young PHI 11/05/2008 PHI @ MIA L 38 19 7 14 50.0 3 7 42.9 2 2 100.0 1 3 4 0 3 0 5 0 -23
+p796
+aVReggie Evans PHI 11/05/2008 PHI @ MIA L 17 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 4 -14
+p797
+aVWillie Green PHI 11/03/2008 PHI vs. SAC W 16 16 5 6 83.3 1 1 100.0 5 5 100.0 0 2 2 2 0 0 0 3 18
+p798
+aVKareem Rush PHI 11/03/2008 PHI vs. SAC W 13 10 4 4 100.0 2 2 100.0 0 0 - 0 2 2 3 0 0 0 0 10
+p799
+aVDonyell Marshall PHI 11/03/2008 PHI vs. SAC W 8 12 4 5 80.0 4 5 80.0 0 0 - 0 1 1 2 0 0 1 1 3
+p800
+aVElton Brand PHI 11/03/2008 PHI vs. SAC W 29 15 5 11 45.5 0 0 - 5 6 83.3 1 3 4 0 0 0 3 1 18
+p801
+aVRoyal Ivey PHI 11/03/2008 PHI vs. SAC W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 3
+p802
+aVSamuel Dalembert PHI 11/03/2008 PHI vs. SAC W 23 5 2 3 66.7 0 0 - 1 3 33.3 2 4 6 0 1 0 4 3 16
+p803
+aVThaddeus Young PHI 11/03/2008 PHI vs. SAC W 31 18 8 14 57.1 2 2 100.0 0 0 - 2 0 2 1 1 0 0 1 21
+p804
+aVReggie Evans PHI 11/03/2008 PHI vs. SAC W 14 4 0 1 0.0 0 0 - 4 8 50.0 3 2 5 1 0 0 0 2 11
+p805
+aVAndre Iguodala PHI 11/03/2008 PHI vs. SAC W 24 10 4 5 80.0 0 0 - 2 3 66.7 1 4 5 3 2 1 2 3 21
+p806
+aVMarreese Speights PHI 11/03/2008 PHI vs. SAC W 22 4 2 8 25.0 0 0 - 0 0 - 1 1 2 2 2 3 0 0 20
+p807
+aVLou Williams PHI 11/03/2008 PHI vs. SAC W 28 17 7 13 53.8 1 3 33.3 2 4 50.0 0 0 0 3 0 0 3 1 14
+p808
+aVAndre Miller PHI 11/03/2008 PHI vs. SAC W 24 12 3 5 60.0 0 0 - 6 6 100.0 1 3 4 5 2 0 0 4 15
+p809
+aVWillie Green PHI 11/01/2008 PHI @ ATL L 16 4 2 4 50.0 0 2 0.0 0 1 0.0 0 0 0 3 0 0 0 1 -9
+p810
+aVElton Brand PHI 11/01/2008 PHI @ ATL L 45 17 6 14 42.9 0 0 - 5 6 83.3 7 9 16 3 1 0 4 3 -10
+p811
+aVAndre Miller PHI 11/01/2008 PHI @ ATL L 35 11 5 18 27.8 0 0 - 1 1 100.0 0 2 2 8 0 0 1 4 -14
+p812
+aVSamuel Dalembert PHI 11/01/2008 PHI @ ATL L 34 12 5 11 45.5 0 0 - 2 2 100.0 3 8 11 0 0 1 4 4 -8
+p813
+aVAndre Iguodala PHI 11/01/2008 PHI @ ATL L 44 16 6 13 46.2 2 6 33.3 2 2 100.0 0 4 4 4 3 1 6 2 -3
+p814
+aVReggie Evans PHI 11/01/2008 PHI @ ATL L 17 4 1 4 25.0 0 0 - 2 2 100.0 3 5 8 0 1 0 2 0 6
+p815
+aVLou Williams PHI 11/01/2008 PHI @ ATL L 13 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 2 1 0 1 1 5
+p816
+aVThaddeus Young PHI 11/01/2008 PHI @ ATL L 37 22 9 15 60.0 4 6 66.7 0 0 - 1 4 5 1 0 0 0 1 -2
+p817
+aVReggie Evans PHI 10/31/2008 PHI vs. NYK W 13 3 1 3 33.3 0 0 - 1 2 50.0 3 6 9 1 0 0 2 1 -1
+p818
+aVThaddeus Young PHI 10/31/2008 PHI vs. NYK W 24 13 6 10 60.0 0 1 0.0 1 2 50.0 3 3 6 1 0 0 2 4 13
+p819
+aVSamuel Dalembert PHI 10/31/2008 PHI vs. NYK W 33 8 4 8 50.0 0 0 - 0 2 0.0 1 8 9 0 0 4 2 3 22
+p820
+aVLou Williams PHI 10/31/2008 PHI vs. NYK W 27 15 6 14 42.9 0 1 0.0 3 5 60.0 1 3 4 4 0 0 2 1 21
+p821
+aVWillie Green PHI 10/31/2008 PHI vs. NYK W 29 18 8 10 80.0 2 2 100.0 0 0 - 0 2 2 1 2 0 0 0 22
+p822
+aVAndre Miller PHI 10/31/2008 PHI vs. NYK W 33 20 8 12 66.7 0 0 - 4 4 100.0 1 6 7 8 0 0 4 3 19
+p823
+aVElton Brand PHI 10/31/2008 PHI vs. NYK W 31 24 12 19 63.2 0 0 - 0 2 0.0 2 12 14 2 0 3 3 2 22
+p824
+aVKareem Rush PHI 10/31/2008 PHI vs. NYK W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 2 2 2
+p825
+aVAndre Iguodala PHI 10/31/2008 PHI vs. NYK W 37 7 3 7 42.9 0 1 0.0 1 2 50.0 1 5 6 7 1 0 1 0 26
+p826
+aVMarreese Speights PHI 10/31/2008 PHI vs. NYK W 6 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -1
+p827
+aVLou Williams PHI 10/29/2008 PHI vs. TOR L 24 16 5 15 33.3 2 7 28.6 4 4 100.0 2 2 4 1 0 0 2 0 -18
+p828
+aVSamuel Dalembert PHI 10/29/2008 PHI vs. TOR L 29 9 3 9 33.3 0 0 - 3 3 100.0 9 8 17 0 1 2 2 5 -5
+p829
+aVTheo Ratliff PHI 10/29/2008 PHI vs. TOR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 5
+p830
+aVThaddeus Young PHI 10/29/2008 PHI vs. TOR L 24 8 3 6 50.0 1 2 50.0 1 1 100.0 3 2 5 1 0 0 4 4 3
+p831
+aVWillie Green PHI 10/29/2008 PHI vs. TOR L 20 6 1 5 20.0 1 4 25.0 3 4 75.0 1 3 4 1 1 3 1 1 -14
+p832
+aVElton Brand PHI 10/29/2008 PHI vs. TOR L 39 14 5 14 35.7 0 0 - 4 6 66.7 4 9 13 0 0 0 4 4 -9
+p833
+aVAndre Iguodala PHI 10/29/2008 PHI vs. TOR L 41 15 5 17 29.4 0 5 0.0 5 8 62.5 1 2 3 6 1 0 3 0 -3
+p834
+aVReggie Evans PHI 10/29/2008 PHI vs. TOR L 13 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -5
+p835
+aVAndre Miller PHI 10/29/2008 PHI vs. TOR L 36 13 6 16 37.5 0 0 - 1 2 50.0 3 1 4 5 0 2 0 1 -5
+p836
+aVKareem Rush PHI 10/29/2008 PHI vs. TOR L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 2
+p837
+aVDonyell Marshall PHI 10/29/2008 PHI vs. TOR L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -6
+p838
+a.

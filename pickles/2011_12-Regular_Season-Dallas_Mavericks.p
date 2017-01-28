@@ -1,0 +1,1456 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVYi Jianlian DAL 04/26/2012 DAL @ ATL L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 3 0 1 0 -2
+p2
+aVKelenna Azubuike DAL 04/26/2012 DAL @ ATL L 8 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 0 1 0 2 1 0
+p3
+aVBrian Cardinal DAL 04/26/2012 DAL @ ATL L 5 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -4
+p4
+aVBrandan Wright DAL 04/26/2012 DAL @ ATL L 17 6 3 7 42.9 0 0 - 0 2 0.0 0 4 4 0 1 1 0 1 1
+p5
+aVJason Terry DAL 04/26/2012 DAL @ ATL L 26 11 3 9 33.3 1 4 25.0 4 4 100.0 0 5 5 5 0 0 0 1 -7
+p6
+aVShawn Marion DAL 04/26/2012 DAL @ ATL L 27 4 2 8 25.0 0 1 0.0 0 2 0.0 3 5 8 3 1 0 1 1 -15
+p7
+aVVince Carter DAL 04/26/2012 DAL @ ATL L 23 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 3 2 0 2 0 -6
+p8
+aVRodrigue Beaubois DAL 04/26/2012 DAL @ ATL L 34 13 5 12 41.7 1 3 33.3 2 2 100.0 1 4 5 6 0 1 4 1 -11
+p9
+aVDominique Jones DAL 04/26/2012 DAL @ ATL L 16 3 0 5 0.0 0 1 0.0 3 4 75.0 1 5 6 2 0 0 1 0 0
+p10
+aVDirk Nowitzki DAL 04/26/2012 DAL @ ATL L 26 22 7 12 58.3 1 1 100.0 7 7 100.0 0 3 3 1 0 0 4 2 -7
+p11
+aVBrendan Haywood DAL 04/26/2012 DAL @ ATL L 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p12
+aVDelonte West DAL 04/26/2012 DAL @ ATL L 21 3 1 4 25.0 1 1 100.0 0 0 - 1 2 3 0 0 0 1 0 -16
+p13
+aVIan Mahinmi DAL 04/26/2012 DAL @ ATL L 17 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 1 0 4 -4
+p14
+aVBrendan Haywood DAL 04/21/2012 DAL @ CHI L 14 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 1 0 1 0 -2
+p15
+aVShawn Marion DAL 04/21/2012 DAL @ CHI L 31 6 2 5 40.0 0 1 0.0 2 2 100.0 0 6 6 0 2 2 1 0 -26
+p16
+aVVince Carter DAL 04/21/2012 DAL @ CHI L 29 15 4 11 36.4 1 4 25.0 6 7 85.7 1 1 2 1 0 0 1 2 -6
+p17
+aVDelonte West DAL 04/21/2012 DAL @ CHI L 31 13 6 13 46.2 0 1 0.0 1 1 100.0 0 3 3 2 0 0 1 0 -17
+p18
+aVDominique Jones DAL 04/21/2012 DAL @ CHI L 25 8 3 7 42.9 0 0 - 2 2 100.0 0 3 3 4 3 1 2 4 -1
+p19
+aVBrandan Wright DAL 04/21/2012 DAL @ CHI L 17 6 3 6 50.0 0 0 - 0 0 - 3 4 7 0 0 0 0 1 -2
+p20
+aVKelenna Azubuike DAL 04/21/2012 DAL @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p21
+aVIan Mahinmi DAL 04/21/2012 DAL @ CHI L 17 2 0 4 0.0 0 0 - 2 2 100.0 3 3 6 0 0 0 4 2 -6
+p22
+aVBrian Cardinal DAL 04/21/2012 DAL @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p23
+aVDirk Nowitzki DAL 04/21/2012 DAL @ CHI L 33 17 6 15 40.0 1 4 25.0 4 5 80.0 1 6 7 0 0 0 0 3 10
+p24
+aVRodrigue Beaubois DAL 04/21/2012 DAL @ CHI L 38 16 7 15 46.7 2 5 40.0 0 0 - 1 5 6 5 1 0 2 2 4
+p25
+aVVince Carter DAL 04/20/2012 DAL vs. GSW W 27 19 5 9 55.6 1 2 50.0 8 8 100.0 1 8 9 3 1 1 4 3 19
+p26
+aVBrendan Haywood DAL 04/20/2012 DAL vs. GSW W 15 4 2 3 66.7 0 0 - 0 0 - 5 2 7 0 0 0 2 3 2
+p27
+aVKelenna Azubuike DAL 04/20/2012 DAL vs. GSW W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 -6
+p28
+aVJason Kidd DAL 04/20/2012 DAL vs. GSW W 22 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 4 0 0 1 1 -2
+p29
+aVBrian Cardinal DAL 04/20/2012 DAL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p30
+aVDirk Nowitzki DAL 04/20/2012 DAL vs. GSW W 27 16 7 14 50.0 0 1 0.0 2 2 100.0 1 4 5 2 0 0 4 3 6
+p31
+aVIan Mahinmi DAL 04/20/2012 DAL vs. GSW W 21 9 2 5 40.0 0 0 - 5 5 100.0 3 6 9 0 2 1 0 2 11
+p32
+aVDelonte West DAL 04/20/2012 DAL vs. GSW W 33 16 5 10 50.0 1 2 50.0 5 5 100.0 0 3 3 4 2 1 2 1 11
+p33
+aVBrandan Wright DAL 04/20/2012 DAL vs. GSW W 17 17 8 9 88.9 0 0 - 1 2 50.0 2 5 7 0 0 1 0 0 -4
+p34
+aVJason Terry DAL 04/20/2012 DAL vs. GSW W 28 9 4 12 33.3 1 8 12.5 0 0 - 0 0 0 4 1 0 1 0 12
+p35
+aVYi Jianlian DAL 04/20/2012 DAL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p36
+aVRodrigue Beaubois DAL 04/20/2012 DAL vs. GSW W 14 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 2 1 0 0 0 6
+p37
+aVShawn Marion DAL 04/20/2012 DAL vs. GSW W 27 14 5 10 50.0 0 0 - 4 4 100.0 1 7 8 0 2 0 1 2 3
+p38
+aVRodrigue Beaubois DAL 04/18/2012 DAL vs. HOU W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 2 5
+p39
+aVIan Mahinmi DAL 04/18/2012 DAL vs. HOU W 12 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 9
+p40
+aVShawn Marion DAL 04/18/2012 DAL vs. HOU W 26 4 2 6 33.3 0 0 - 0 0 - 0 6 6 1 2 0 1 1 -18
+p41
+aVDelonte West DAL 04/18/2012 DAL vs. HOU W 21 11 5 9 55.6 0 2 0.0 1 1 100.0 0 2 2 3 2 0 3 1 -11
+p42
+aVBrendan Haywood DAL 04/18/2012 DAL vs. HOU W 15 3 1 4 25.0 0 0 - 1 2 50.0 3 1 4 0 0 0 1 0 -9
+p43
+aVBrandan Wright DAL 04/18/2012 DAL vs. HOU W 21 4 2 2 100.0 0 0 - 0 0 - 3 2 5 0 0 1 0 0 7
+p44
+aVDirk Nowitzki DAL 04/18/2012 DAL vs. HOU W 39 35 10 18 55.6 3 4 75.0 12 12 100.0 0 4 4 2 1 0 0 3 17
+p45
+aVJason Terry DAL 04/18/2012 DAL vs. HOU W 33 19 6 11 54.5 3 6 50.0 4 5 80.0 1 3 4 3 0 0 3 3 14
+p46
+aVJason Kidd DAL 04/18/2012 DAL vs. HOU W 35 12 4 7 57.1 4 7 57.1 0 0 - 0 3 3 8 0 0 1 1 1
+p47
+aVVince Carter DAL 04/18/2012 DAL vs. HOU W 30 23 8 18 44.4 1 6 16.7 6 6 100.0 3 1 4 3 1 0 1 1 20
+p48
+aVBrendan Haywood DAL 04/16/2012 DAL @ UTA L 21 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 1 1 1 3 -9
+p49
+aVIan Mahinmi DAL 04/16/2012 DAL @ UTA L 36 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 2 0 1 5 2
+p50
+aVJason Kidd DAL 04/16/2012 DAL @ UTA L 45 10 3 8 37.5 3 8 37.5 1 2 50.0 1 4 5 6 4 0 2 4 -1
+p51
+aVShawn Marion DAL 04/16/2012 DAL @ UTA L 24 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 1 -6
+p52
+aVDirk Nowitzki DAL 04/16/2012 DAL @ UTA L 53 40 13 26 50.0 2 7 28.6 12 12 100.0 1 8 9 6 0 0 3 4 8
+p53
+aVBrian Cardinal DAL 04/16/2012 DAL @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p54
+aVVince Carter DAL 04/16/2012 DAL @ UTA L 45 18 5 15 33.3 3 7 42.9 5 6 83.3 1 11 12 4 2 1 1 5 -3
+p55
+aVYi Jianlian DAL 04/16/2012 DAL @ UTA L 5 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -3
+p56
+aVJason Terry DAL 04/16/2012 DAL @ UTA L 54 27 11 25 44.0 4 9 44.4 1 1 100.0 0 2 2 3 2 0 3 3 0
+p57
+aVBrandan Wright DAL 04/16/2012 DAL @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 1 1 4
+p58
+aVDelonte West DAL 04/16/2012 DAL @ UTA L 27 16 5 8 62.5 2 2 100.0 4 4 100.0 0 1 1 0 1 1 1 4 -3
+p59
+aVJason Terry DAL 04/15/2012 DAL @ LAL L 37 21 8 15 53.3 5 6 83.3 0 0 - 0 3 3 4 1 0 0 1 -6
+p60
+aVBrandan Wright DAL 04/15/2012 DAL @ LAL L 9 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -4
+p61
+aVShawn Marion DAL 04/15/2012 DAL @ LAL L 33 10 4 9 44.4 0 1 0.0 2 2 100.0 1 10 11 4 0 0 1 3 -6
+p62
+aVDelonte West DAL 04/15/2012 DAL @ LAL L 38 20 9 15 60.0 0 1 0.0 2 2 100.0 1 1 2 2 0 0 2 4 -5
+p63
+aVIan Mahinmi DAL 04/15/2012 DAL @ LAL L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 2 -3
+p64
+aVJason Kidd DAL 04/15/2012 DAL @ LAL L 39 13 5 7 71.4 3 4 75.0 0 0 - 0 3 3 7 1 0 1 2 -2
+p65
+aVDirk Nowitzki DAL 04/15/2012 DAL @ LAL L 43 24 9 28 32.1 3 8 37.5 3 3 100.0 0 14 14 1 0 1 2 0 5
+p66
+aVVince Carter DAL 04/15/2012 DAL @ LAL L 21 7 2 5 40.0 1 1 100.0 2 2 100.0 0 3 3 1 0 0 0 5 1
+p67
+aVBrendan Haywood DAL 04/15/2012 DAL @ LAL L 38 9 4 5 80.0 0 0 - 1 2 50.0 3 2 5 0 2 2 0 4 0
+p68
+aVVince Carter DAL 04/13/2012 DAL @ POR W 27 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 2 1 0 1 2 9
+p69
+aVBrandan Wright DAL 04/13/2012 DAL @ POR W 27 13 6 10 60.0 0 0 - 1 2 50.0 5 3 8 0 1 3 0 3 -15
+p70
+aVJason Terry DAL 04/13/2012 DAL @ POR W 34 10 3 16 18.8 2 8 25.0 2 2 100.0 1 1 2 1 0 0 3 0 -3
+p71
+aVIan Mahinmi DAL 04/13/2012 DAL @ POR W 13 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 0 1 1 1 3 8
+p72
+aVRodrigue Beaubois DAL 04/13/2012 DAL @ POR W 12 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -8
+p73
+aVShawn Marion DAL 04/13/2012 DAL @ POR W 38 17 8 10 80.0 1 1 100.0 0 0 - 4 10 14 3 1 0 3 5 4
+p74
+aVBrendan Haywood DAL 04/13/2012 DAL @ POR W 8 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 2 1 0 10
+p75
+aVDelonte West DAL 04/13/2012 DAL @ POR W 44 21 10 17 58.8 1 2 50.0 0 0 - 2 4 6 7 3 0 6 5 9
+p76
+aVDirk Nowitzki DAL 04/13/2012 DAL @ POR W 37 24 8 14 57.1 4 5 80.0 4 4 100.0 0 9 9 3 1 1 5 3 1
+p77
+aVBrendan Haywood DAL 04/12/2012 DAL @ GSW W 11 4 2 3 66.7 0 0 - 0 1 0.0 1 0 1 0 0 0 0 0 3
+p78
+aVBrian Cardinal DAL 04/12/2012 DAL @ GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p79
+aVShawn Marion DAL 04/12/2012 DAL @ GSW W 25 7 2 8 25.0 0 1 0.0 3 4 75.0 5 7 12 3 3 1 1 0 2
+p80
+aVBrandan Wright DAL 04/12/2012 DAL @ GSW W 32 16 6 8 75.0 0 0 - 4 4 100.0 4 5 9 0 1 2 1 2 2
+p81
+aVIan Mahinmi DAL 04/12/2012 DAL @ GSW W 10 2 1 3 33.3 0 0 - 0 2 0.0 2 2 4 0 0 0 1 2 1
+p82
+aVDirk Nowitzki DAL 04/12/2012 DAL @ GSW W 37 27 10 23 43.5 1 5 20.0 6 7 85.7 0 1 1 3 1 0 2 5 21
+p83
+aVJason Terry DAL 04/12/2012 DAL @ GSW W 31 16 6 12 50.0 2 6 33.3 2 2 100.0 1 0 1 4 2 0 1 0 7
+p84
+aVRodrigue Beaubois DAL 04/12/2012 DAL @ GSW W 21 11 5 9 55.6 1 2 50.0 0 0 - 0 2 2 5 1 0 1 1 7
+p85
+aVDelonte West DAL 04/12/2012 DAL @ GSW W 15 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 1 1 0 1 2 -5
+p86
+aVVince Carter DAL 04/12/2012 DAL @ GSW W 25 12 5 7 71.4 2 4 50.0 0 0 - 1 0 1 2 0 0 0 3 8
+p87
+aVJason Kidd DAL 04/12/2012 DAL @ GSW W 33 9 3 6 50.0 3 5 60.0 0 0 - 0 10 10 12 3 2 2 3 1
+p88
+aVShawn Marion DAL 04/10/2012 DAL vs. SAC W 22 10 5 11 45.5 0 0 - 0 0 - 8 6 14 2 0 0 2 1 -6
+p89
+aVJason Kidd DAL 04/10/2012 DAL vs. SAC W 22 7 2 5 40.0 1 2 50.0 2 4 50.0 0 6 6 7 1 2 4 1 4
+p90
+aVYi Jianlian DAL 04/10/2012 DAL vs. SAC W 9 8 4 5 80.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -1
+p91
+aVRodrigue Beaubois DAL 04/10/2012 DAL vs. SAC W 21 15 5 13 38.5 0 0 - 5 5 100.0 1 4 5 2 0 0 0 1 6
+p92
+aVVince Carter DAL 04/10/2012 DAL vs. SAC W 28 7 3 9 33.3 1 3 33.3 0 0 - 1 6 7 5 1 3 2 2 13
+p93
+aVBrendan Haywood DAL 04/10/2012 DAL vs. SAC W 16 11 4 6 66.7 0 0 - 3 5 60.0 3 2 5 0 0 3 1 0 1
+p94
+aVDominique Jones DAL 04/10/2012 DAL vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p95
+aVDelonte West DAL 04/10/2012 DAL vs. SAC W 21 13 5 10 50.0 1 1 100.0 2 2 100.0 0 1 1 1 2 0 2 1 -4
+p96
+aVDirk Nowitzki DAL 04/10/2012 DAL vs. SAC W 29 15 4 14 28.6 1 3 33.3 6 6 100.0 2 6 8 0 0 1 1 4 8
+p97
+aVBrandan Wright DAL 04/10/2012 DAL vs. SAC W 28 9 4 10 40.0 0 0 - 1 4 25.0 2 2 4 1 2 2 2 2 6
+p98
+aVIan Mahinmi DAL 04/10/2012 DAL vs. SAC W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 4
+p99
+aVJason Terry DAL 04/10/2012 DAL vs. SAC W 34 13 4 8 50.0 3 4 75.0 2 2 100.0 0 3 3 5 1 0 2 1 21
+p100
+aVLamar Odom DAL 04/07/2012 DAL @ MEM L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p101
+aVJason Terry DAL 04/07/2012 DAL @ MEM L 36 12 4 9 44.4 3 6 50.0 1 2 50.0 1 1 2 8 2 0 3 0 -5
+p102
+aVBrendan Haywood DAL 04/07/2012 DAL @ MEM L 12 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 0 0 1 1 2 -13
+p103
+aVDirk Nowitzki DAL 04/07/2012 DAL @ MEM L 36 17 5 16 31.3 3 7 42.9 4 4 100.0 0 8 8 2 0 0 3 0 3
+p104
+aVDelonte West DAL 04/07/2012 DAL @ MEM L 25 8 3 8 37.5 0 2 0.0 2 2 100.0 0 1 1 2 0 0 3 2 -2
+p105
+aVVince Carter DAL 04/07/2012 DAL @ MEM L 30 14 6 8 75.0 1 2 50.0 1 1 100.0 0 4 4 3 0 3 0 2 -1
+p106
+aVBrandan Wright DAL 04/07/2012 DAL @ MEM L 36 16 7 11 63.6 0 0 - 2 4 50.0 2 4 6 1 0 1 2 0 8
+p107
+aVRodrigue Beaubois DAL 04/07/2012 DAL @ MEM L 23 9 4 10 40.0 1 2 50.0 0 0 - 0 3 3 4 0 0 1 3 -5
+p108
+aVBrian Cardinal DAL 04/07/2012 DAL @ MEM L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -2
+p109
+aVShawn Marion DAL 04/07/2012 DAL @ MEM L 34 12 5 8 62.5 1 1 100.0 1 2 50.0 3 8 11 3 3 0 1 5 -1
+p110
+aVBrandan Wright DAL 04/06/2012 DAL vs. POR L 25 13 6 7 85.7 0 0 - 1 1 100.0 2 3 5 0 1 2 0 0 -2
+p111
+aVRodrigue Beaubois DAL 04/06/2012 DAL vs. POR L 25 10 5 14 35.7 0 5 0.0 0 1 0.0 1 0 1 5 0 0 0 3 -1
+p112
+aVLamar Odom DAL 04/06/2012 DAL vs. POR L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 2 1 -2
+p113
+aVDirk Nowitzki DAL 04/06/2012 DAL vs. POR L 43 23 9 16 56.3 1 5 20.0 4 4 100.0 1 13 14 2 0 1 1 1 6
+p114
+aVVince Carter DAL 04/06/2012 DAL vs. POR L 24 6 3 10 30.0 0 2 0.0 0 0 - 0 5 5 0 1 0 1 1 -5
+p115
+aVShawn Marion DAL 04/06/2012 DAL vs. POR L 42 12 6 11 54.5 0 0 - 0 0 - 1 8 9 1 1 1 3 1 0
+p116
+aVJason Terry DAL 04/06/2012 DAL vs. POR L 37 18 7 14 50.0 4 9 44.4 0 0 - 0 1 1 5 3 0 2 1 -3
+p117
+aVDelonte West DAL 04/06/2012 DAL vs. POR L 30 10 4 13 30.8 1 1 100.0 1 2 50.0 0 2 2 5 0 0 0 1 -3
+p118
+aVBrendan Haywood DAL 04/06/2012 DAL vs. POR L 28 2 1 5 20.0 0 0 - 0 0 - 4 2 6 0 0 1 1 4 0
+p119
+aVBrendan Haywood DAL 04/04/2012 DAL vs. MEM W 22 5 2 4 50.0 0 0 - 1 2 50.0 3 2 5 1 0 0 0 1 6
+p120
+aVIan Mahinmi DAL 04/04/2012 DAL vs. MEM W 24 4 2 5 40.0 0 0 - 0 0 - 4 6 10 0 0 0 1 4 2
+p121
+aVBrandan Wright DAL 04/04/2012 DAL vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p122
+aVVince Carter DAL 04/04/2012 DAL vs. MEM W 23 5 2 9 22.2 1 4 25.0 0 0 - 0 1 1 3 1 0 1 1 10
+p123
+aVRodrigue Beaubois DAL 04/04/2012 DAL vs. MEM W 22 8 3 7 42.9 0 1 0.0 2 3 66.7 0 2 2 5 1 2 1 1 9
+p124
+aVDirk Nowitzki DAL 04/04/2012 DAL vs. MEM W 38 23 10 18 55.6 0 1 0.0 3 5 60.0 2 8 10 2 1 1 0 1 20
+p125
+aVShawn Marion DAL 04/04/2012 DAL vs. MEM W 29 16 7 11 63.6 0 2 0.0 2 2 100.0 0 7 7 3 1 3 2 0 10
+p126
+aVJason Terry DAL 04/04/2012 DAL vs. MEM W 35 15 6 14 42.9 1 4 25.0 2 2 100.0 0 4 4 3 2 1 6 1 1
+p127
+aVLamar Odom DAL 04/04/2012 DAL vs. MEM W 19 5 2 5 40.0 0 1 0.0 1 2 50.0 0 5 5 0 1 0 0 1 -11
+p128
+aVDelonte West DAL 04/04/2012 DAL vs. MEM W 26 14 6 7 85.7 2 2 100.0 0 0 - 0 0 0 2 0 1 1 1 1
+p129
+aVRodrigue Beaubois DAL 04/02/2012 DAL vs. LAC L 16 7 3 8 37.5 1 6 16.7 0 0 - 0 1 1 2 0 0 3 2 -11
+p130
+aVDelonte West DAL 04/02/2012 DAL vs. LAC L 36 6 3 9 33.3 0 4 0.0 0 2 0.0 0 1 1 4 0 1 1 2 -12
+p131
+aVIan Mahinmi DAL 04/02/2012 DAL vs. LAC L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -5
+p132
+aVDominique Jones DAL 04/02/2012 DAL vs. LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p133
+aVJason Terry DAL 04/02/2012 DAL vs. LAC L 32 15 6 13 46.2 1 4 25.0 2 2 100.0 0 3 3 4 1 0 2 0 -9
+p134
+aVBrendan Haywood DAL 04/02/2012 DAL vs. LAC L 16 5 2 6 33.3 0 0 - 1 2 50.0 3 1 4 0 0 0 0 1 -14
+p135
+aVYi Jianlian DAL 04/02/2012 DAL vs. LAC L 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p136
+aVBrian Cardinal DAL 04/02/2012 DAL vs. LAC L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 -1
+p137
+aVBrandan Wright DAL 04/02/2012 DAL vs. LAC L 21 8 3 6 50.0 0 0 - 2 4 50.0 3 3 6 0 0 0 0 0 0
+p138
+aVDirk Nowitzki DAL 04/02/2012 DAL vs. LAC L 36 19 7 14 50.0 1 2 50.0 4 4 100.0 0 4 4 0 1 1 2 1 -16
+p139
+aVVince Carter DAL 04/02/2012 DAL vs. LAC L 29 3 1 6 16.7 0 2 0.0 1 3 33.3 0 7 7 2 0 0 2 3 -13
+p140
+aVShawn Marion DAL 04/02/2012 DAL vs. LAC L 25 4 2 9 22.2 0 2 0.0 0 0 - 2 7 9 2 1 2 1 0 -12
+p141
+aVJason Kidd DAL 03/30/2012 DAL @ ORL W 24 0 0 4 0.0 0 3 0.0 0 0 - 0 4 4 6 1 0 3 2 -15
+p142
+aVJason Terry DAL 03/30/2012 DAL @ ORL W 35 17 7 12 58.3 1 4 25.0 2 3 66.7 0 6 6 3 2 0 0 2 6
+p143
+aVIan Mahinmi DAL 03/30/2012 DAL @ ORL W 19 4 2 3 66.7 0 0 - 0 2 0.0 1 4 5 0 3 1 0 3 15
+p144
+aVShawn Marion DAL 03/30/2012 DAL @ ORL W 35 15 7 10 70.0 1 1 100.0 0 0 - 0 9 9 4 1 0 2 2 5
+p145
+aVBrandan Wright DAL 03/30/2012 DAL @ ORL W 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 5
+p146
+aVLamar Odom DAL 03/30/2012 DAL @ ORL W 13 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p147
+aVVince Carter DAL 03/30/2012 DAL @ ORL W 25 12 4 11 36.4 2 5 40.0 2 2 100.0 0 0 0 1 0 0 1 2 -5
+p148
+aVDirk Nowitzki DAL 03/30/2012 DAL @ ORL W 37 28 9 18 50.0 2 3 66.7 8 8 100.0 0 3 3 2 0 1 1 3 3
+p149
+aVDelonte West DAL 03/30/2012 DAL @ ORL W 24 15 5 10 50.0 1 4 25.0 4 4 100.0 0 3 3 5 1 0 1 1 17
+p150
+aVBrendan Haywood DAL 03/30/2012 DAL @ ORL W 26 5 2 5 40.0 0 0 - 1 2 50.0 3 0 3 0 1 1 1 3 -18
+p151
+aVVince Carter DAL 03/29/2012 DAL @ MIA L 19 11 4 7 57.1 3 6 50.0 0 0 - 0 1 1 2 1 0 1 0 6
+p152
+aVBrian Cardinal DAL 03/29/2012 DAL @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p153
+aVRodrigue Beaubois DAL 03/29/2012 DAL @ MIA L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 1 -1
+p154
+aVBrandan Wright DAL 03/29/2012 DAL @ MIA L 29 11 5 8 62.5 0 0 - 1 2 50.0 1 2 3 2 2 0 0 2 -11
+p155
+aVDirk Nowitzki DAL 03/29/2012 DAL @ MIA L 34 25 9 19 47.4 0 1 0.0 7 7 100.0 1 5 6 3 1 1 3 3 -9
+p156
+aVIan Mahinmi DAL 03/29/2012 DAL @ MIA L 19 6 3 6 50.0 0 0 - 0 1 0.0 0 5 5 0 0 0 0 4 -10
+p157
+aVJason Kidd DAL 03/29/2012 DAL @ MIA L 29 6 2 8 25.0 2 8 25.0 0 0 - 0 6 6 4 1 0 1 3 -16
+p158
+aVJason Terry DAL 03/29/2012 DAL @ MIA L 31 3 1 10 10.0 1 5 20.0 0 0 - 0 0 0 4 0 0 3 3 -20
+p159
+aVDelonte West DAL 03/29/2012 DAL @ MIA L 8 7 3 3 100.0 1 1 100.0 0 1 0.0 0 0 0 1 0 0 2 0 -9
+p160
+aVLamar Odom DAL 03/29/2012 DAL @ MIA L 23 12 4 6 66.7 2 2 100.0 2 2 100.0 2 2 4 3 0 0 2 2 -12
+p161
+aVYi Jianlian DAL 03/29/2012 DAL @ MIA L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p162
+aVShawn Marion DAL 03/29/2012 DAL @ MIA L 27 4 2 7 28.6 0 0 - 0 0 - 2 2 4 1 1 0 1 1 -15
+p163
+aVBrandan Wright DAL 03/27/2012 DAL vs. HOU W 30 13 6 7 85.7 0 0 - 1 1 100.0 0 7 7 0 0 0 0 2 13
+p164
+aVBrian Cardinal DAL 03/27/2012 DAL vs. HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p165
+aVIan Mahinmi DAL 03/27/2012 DAL vs. HOU W 18 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 2 0 1 4 -4
+p166
+aVVince Carter DAL 03/27/2012 DAL vs. HOU W 19 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 0 0 0 2 1 -14
+p167
+aVDominique Jones DAL 03/27/2012 DAL vs. HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p168
+aVDirk Nowitzki DAL 03/27/2012 DAL vs. HOU W 35 21 5 17 29.4 0 3 0.0 11 12 91.7 0 6 6 3 0 0 1 1 5
+p169
+aVRodrigue Beaubois DAL 03/27/2012 DAL vs. HOU W 27 14 5 9 55.6 1 2 50.0 3 5 60.0 1 2 3 5 1 0 3 3 6
+p170
+aVLamar Odom DAL 03/27/2012 DAL vs. HOU W 23 9 4 5 80.0 0 0 - 1 2 50.0 0 4 4 3 1 1 0 1 8
+p171
+aVJason Kidd DAL 03/27/2012 DAL vs. HOU W 24 6 2 3 66.7 2 3 66.7 0 0 - 0 6 6 2 1 0 3 0 5
+p172
+aVShawn Marion DAL 03/27/2012 DAL vs. HOU W 29 4 2 6 33.3 0 0 - 0 0 - 2 9 11 1 0 1 1 2 7
+p173
+aVJason Terry DAL 03/27/2012 DAL vs. HOU W 34 12 5 14 35.7 2 8 25.0 0 0 - 0 1 1 4 2 0 2 0 21
+p174
+aVBrian Cardinal DAL 03/24/2012 DAL @ HOU W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p175
+aVIan Mahinmi DAL 03/24/2012 DAL @ HOU W 18 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 2 0 0 -13
+p176
+aVDirk Nowitzki DAL 03/24/2012 DAL @ HOU W 39 31 10 20 50.0 2 6 33.3 9 10 90.0 0 7 7 3 0 2 0 3 10
+p177
+aVBrandan Wright DAL 03/24/2012 DAL @ HOU W 34 14 7 9 77.8 0 0 - 0 0 - 1 5 6 1 0 7 0 1 13
+p178
+aVJason Kidd DAL 03/24/2012 DAL @ HOU W 35 9 3 6 50.0 2 5 40.0 1 2 50.0 0 2 2 4 1 1 2 2 -11
+p179
+aVShawn Marion DAL 03/24/2012 DAL @ HOU W 36 12 4 11 36.4 0 1 0.0 4 4 100.0 1 14 15 2 0 1 2 4 -1
+p180
+aVJason Terry DAL 03/24/2012 DAL @ HOU W 38 24 9 16 56.3 2 4 50.0 4 4 100.0 0 1 1 3 0 0 1 0 3
+p181
+aVRodrigue Beaubois DAL 03/24/2012 DAL @ HOU W 26 6 2 8 25.0 0 4 0.0 2 2 100.0 0 1 1 3 1 1 0 3 8
+p182
+aVLamar Odom DAL 03/24/2012 DAL @ HOU W 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -5
+p183
+aVVince Carter DAL 03/24/2012 DAL @ HOU W 22 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 0 1 1 1 4 2
+p184
+aVYi Jianlian DAL 03/23/2012 DAL @ SAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p185
+aVDirk Nowitzki DAL 03/23/2012 DAL @ SAS L 37 16 5 21 23.8 0 2 0.0 6 6 100.0 0 2 2 2 0 0 2 1 -6
+p186
+aVBrandan Wright DAL 03/23/2012 DAL @ SAS L 14 2 0 1 0.0 0 0 - 2 4 50.0 1 0 1 0 0 3 1 1 -18
+p187
+aVVince Carter DAL 03/23/2012 DAL @ SAS L 24 3 1 5 20.0 1 3 33.3 0 0 - 1 3 4 1 0 0 1 1 -17
+p188
+aVJason Terry DAL 03/23/2012 DAL @ SAS L 32 18 7 18 38.9 4 10 40.0 0 0 - 1 1 2 4 1 1 0 0 -15
+p189
+aVDominique Jones DAL 03/23/2012 DAL @ SAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p190
+aVJason Kidd DAL 03/23/2012 DAL @ SAS L 32 14 5 11 45.5 4 8 50.0 0 0 - 0 7 7 1 1 0 0 2 2
+p191
+aVRodrigue Beaubois DAL 03/23/2012 DAL @ SAS L 28 10 3 6 50.0 1 1 100.0 3 3 100.0 0 4 4 5 1 0 3 1 -14
+p192
+aVShawn Marion DAL 03/23/2012 DAL @ SAS L 31 13 5 11 45.5 1 2 50.0 2 2 100.0 0 4 4 0 2 1 3 1 2
+p193
+aVIan Mahinmi DAL 03/23/2012 DAL @ SAS L 34 11 5 6 83.3 0 0 - 1 2 50.0 1 8 9 0 2 2 0 2 1
+p194
+aVBrian Cardinal DAL 03/23/2012 DAL @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p195
+aVVince Carter DAL 03/21/2012 DAL vs. LAL L 33 9 4 10 40.0 1 4 25.0 0 2 0.0 0 0 0 1 1 0 0 2 -6
+p196
+aVIan Mahinmi DAL 03/21/2012 DAL vs. LAL L 29 8 3 6 50.0 0 0 - 2 2 100.0 3 4 7 1 2 0 2 2 -5
+p197
+aVJason Terry DAL 03/21/2012 DAL vs. LAL L 34 23 8 15 53.3 3 6 50.0 4 4 100.0 0 1 1 0 0 0 0 1 -23
+p198
+aVDirk Nowitzki DAL 03/21/2012 DAL vs. LAL L 36 26 10 23 43.5 2 5 40.0 4 5 80.0 3 7 10 4 2 0 1 2 -15
+p199
+aVRodrigue Beaubois DAL 03/21/2012 DAL vs. LAL L 29 6 3 12 25.0 0 4 0.0 0 0 - 0 3 3 5 2 0 1 1 -4
+p200
+aVYi Jianlian DAL 03/21/2012 DAL vs. LAL L 3 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 1 0 0 1
+p201
+aVBrandan Wright DAL 03/21/2012 DAL vs. LAL L 17 7 2 3 66.7 0 0 - 3 4 75.0 1 3 4 0 1 1 1 1 -12
+p202
+aVBrian Cardinal DAL 03/21/2012 DAL vs. LAL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p203
+aVJason Kidd DAL 03/21/2012 DAL vs. LAL L 28 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 2 4 0 1 4 -5
+p204
+aVLamar Odom DAL 03/21/2012 DAL vs. LAL L 24 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 1 1 0 1 2 -11
+p205
+aVDominique Jones DAL 03/21/2012 DAL vs. LAL L 3 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 1
+p206
+aVYi Jianlian DAL 03/19/2012 DAL @ DEN W 3 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 -3
+p207
+aVDominique Jones DAL 03/19/2012 DAL @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p208
+aVDirk Nowitzki DAL 03/19/2012 DAL @ DEN W 31 33 12 19 63.2 3 4 75.0 6 8 75.0 1 10 11 6 0 1 3 2 23
+p209
+aVIan Mahinmi DAL 03/19/2012 DAL @ DEN W 18 11 5 7 71.4 0 0 - 1 2 50.0 3 2 5 1 1 0 0 3 12
+p210
+aVRodrigue Beaubois DAL 03/19/2012 DAL @ DEN W 36 14 6 14 42.9 2 4 50.0 0 0 - 0 3 3 6 1 0 3 2 14
+p211
+aVJason Kidd DAL 03/19/2012 DAL @ DEN W 25 7 2 4 50.0 1 3 33.3 2 2 100.0 0 1 1 10 4 0 0 1 9
+p212
+aVVince Carter DAL 03/19/2012 DAL @ DEN W 33 14 5 9 55.6 2 5 40.0 2 2 100.0 0 6 6 3 2 2 2 0 13
+p213
+aVSean Williams DAL 03/19/2012 DAL @ DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p214
+aVLamar Odom DAL 03/19/2012 DAL @ DEN W 26 6 3 7 42.9 0 1 0.0 0 0 - 1 8 9 4 1 0 4 5 4
+p215
+aVBrandan Wright DAL 03/19/2012 DAL @ DEN W 27 15 7 9 77.8 0 0 - 1 1 100.0 0 6 6 0 1 1 0 3 8
+p216
+aVBrian Cardinal DAL 03/19/2012 DAL @ DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p217
+aVJason Terry DAL 03/19/2012 DAL @ DEN W 33 10 4 12 33.3 2 7 28.6 0 0 - 0 1 1 3 1 0 1 1 14
+p218
+aVJason Kidd DAL 03/17/2012 DAL vs. SAS W 34 14 5 9 55.6 4 5 80.0 0 0 - 0 5 5 10 0 0 1 1 20
+p219
+aVIan Mahinmi DAL 03/17/2012 DAL vs. SAS W 29 7 2 4 50.0 0 0 - 3 4 75.0 2 6 8 0 1 0 1 4 1
+p220
+aVBrandan Wright DAL 03/17/2012 DAL vs. SAS W 20 8 2 5 40.0 0 0 - 4 6 66.7 3 6 9 1 1 1 0 2 6
+p221
+aVRodrigue Beaubois DAL 03/17/2012 DAL vs. SAS W 35 16 8 16 50.0 0 4 0.0 0 0 - 0 8 8 1 1 0 3 2 -4
+p222
+aVVince Carter DAL 03/17/2012 DAL vs. SAS W 29 10 3 6 50.0 1 3 33.3 3 4 75.0 3 3 6 2 1 0 0 2 23
+p223
+aVLamar Odom DAL 03/17/2012 DAL vs. SAS W 21 4 1 7 14.3 0 2 0.0 2 2 100.0 0 3 3 1 1 1 0 1 -4
+p224
+aVDirk Nowitzki DAL 03/17/2012 DAL vs. SAS W 36 27 9 19 47.4 2 3 66.7 7 7 100.0 1 5 6 4 0 0 4 2 5
+p225
+aVJason Terry DAL 03/17/2012 DAL vs. SAS W 30 17 6 10 60.0 3 4 75.0 2 2 100.0 0 3 3 2 0 0 2 1 -6
+p226
+aVBrian Cardinal DAL 03/17/2012 DAL vs. SAS W 6 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 -6
+p227
+aVJason Kidd DAL 03/15/2012 DAL vs. CHA W 24 7 2 5 40.0 1 4 25.0 2 2 100.0 0 3 3 3 2 0 0 0 11
+p228
+aVBrandan Wright DAL 03/15/2012 DAL vs. CHA W 13 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 1 2 0 1 -18
+p229
+aVShawn Marion DAL 03/15/2012 DAL vs. CHA W 27 4 2 8 25.0 0 1 0.0 0 0 - 1 5 6 4 0 1 2 0 9
+p230
+aVJason Terry DAL 03/15/2012 DAL vs. CHA W 30 18 6 13 46.2 3 5 60.0 3 4 75.0 1 4 5 2 0 2 3 2 6
+p231
+aVLamar Odom DAL 03/15/2012 DAL vs. CHA W 19 2 1 4 25.0 0 2 0.0 0 0 - 1 4 5 2 0 1 2 1 1
+p232
+aVBrian Cardinal DAL 03/15/2012 DAL vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p233
+aVDirk Nowitzki DAL 03/15/2012 DAL vs. CHA W 33 27 9 21 42.9 3 7 42.9 6 7 85.7 0 6 6 5 0 0 1 2 10
+p234
+aVDominique Jones DAL 03/15/2012 DAL vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p235
+aVBrendan Haywood DAL 03/15/2012 DAL vs. CHA W 15 6 3 5 60.0 0 0 - 0 2 0.0 4 4 8 0 0 2 0 2 -2
+p236
+aVIan Mahinmi DAL 03/15/2012 DAL vs. CHA W 20 8 3 4 75.0 0 0 - 2 3 66.7 3 2 5 0 0 0 1 4 23
+p237
+aVRodrigue Beaubois DAL 03/15/2012 DAL vs. CHA W 25 14 7 9 77.8 0 0 - 0 0 - 0 4 4 3 2 0 2 1 -8
+p238
+aVVince Carter DAL 03/15/2012 DAL vs. CHA W 31 11 3 11 27.3 2 6 33.3 3 3 100.0 0 0 0 1 1 0 0 3 -1
+p239
+aVShawn Marion DAL 03/13/2012 DAL vs. WAS W 34 10 4 10 40.0 0 1 0.0 2 2 100.0 2 11 13 4 1 0 2 0 -1
+p240
+aVBrian Cardinal DAL 03/13/2012 DAL vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p241
+aVJason Kidd DAL 03/13/2012 DAL vs. WAS W 23 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 4 3 0 0 2 1
+p242
+aVVince Carter DAL 03/13/2012 DAL vs. WAS W 25 14 6 11 54.5 2 5 40.0 0 0 - 1 4 5 2 0 0 2 5 14
+p243
+aVIan Mahinmi DAL 03/13/2012 DAL vs. WAS W 18 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 1 0 4 12
+p244
+aVJason Terry DAL 03/13/2012 DAL vs. WAS W 34 24 10 20 50.0 2 4 50.0 2 2 100.0 0 4 4 1 1 0 2 1 3
+p245
+aVRodrigue Beaubois DAL 03/13/2012 DAL vs. WAS W 28 19 8 14 57.1 0 3 0.0 3 4 75.0 2 4 6 4 2 1 0 4 10
+p246
+aVDirk Nowitzki DAL 03/13/2012 DAL vs. WAS W 28 27 10 14 71.4 2 5 40.0 5 6 83.3 0 4 4 3 0 0 2 5 19
+p247
+aVBrandan Wright DAL 03/13/2012 DAL vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 0
+p248
+aVBrendan Haywood DAL 03/13/2012 DAL vs. WAS W 25 6 3 7 42.9 0 0 - 0 0 - 3 5 8 1 0 0 3 5 -2
+p249
+aVLamar Odom DAL 03/13/2012 DAL vs. WAS W 19 3 1 6 16.7 0 1 0.0 1 1 100.0 2 1 3 3 1 0 0 4 -13
+p250
+aVRodrigue Beaubois DAL 03/10/2012 DAL @ GSW L 34 12 3 5 60.0 2 3 66.7 4 4 100.0 0 4 4 3 2 0 2 4 -12
+p251
+aVLamar Odom DAL 03/10/2012 DAL @ GSW L 19 3 1 6 16.7 1 2 50.0 0 0 - 1 3 4 2 0 1 0 2 -21
+p252
+aVIan Mahinmi DAL 03/10/2012 DAL @ GSW L 27 9 3 7 42.9 0 0 - 3 5 60.0 4 5 9 0 1 0 2 3 -4
+p253
+aVYi Jianlian DAL 03/10/2012 DAL @ GSW L 6 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 2 -3
+p254
+aVJason Terry DAL 03/10/2012 DAL @ GSW L 33 15 5 14 35.7 4 9 44.4 1 1 100.0 0 1 1 5 1 0 7 2 -18
+p255
+aVShawn Marion DAL 03/10/2012 DAL @ GSW L 24 4 2 5 40.0 0 0 - 0 0 - 1 5 6 1 1 1 2 0 -7
+p256
+aVDirk Nowitzki DAL 03/10/2012 DAL @ GSW L 30 22 7 16 43.8 1 1 100.0 7 8 87.5 1 3 4 0 1 0 2 0 -4
+p257
+aVVince Carter DAL 03/10/2012 DAL @ GSW L 24 7 2 9 22.2 1 4 25.0 2 2 100.0 1 2 3 2 1 0 0 2 -20
+p258
+aVBrian Cardinal DAL 03/10/2012 DAL @ GSW L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 0 1 -3
+p259
+aVSean Williams DAL 03/10/2012 DAL @ GSW L 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -15
+p260
+aVDominique Jones DAL 03/10/2012 DAL @ GSW L 26 8 2 4 50.0 0 1 0.0 4 6 66.7 0 4 4 5 0 0 3 1 -13
+p261
+aVShawn Marion DAL 03/09/2012 DAL @ SAC L 32 14 7 12 58.3 0 1 0.0 0 0 - 2 6 8 2 1 0 4 1 -23
+p262
+aVDirk Nowitzki DAL 03/09/2012 DAL @ SAC L 29 13 5 13 38.5 0 0 - 3 3 100.0 1 8 9 1 1 1 3 1 -21
+p263
+aVSean Williams DAL 03/09/2012 DAL @ SAC L 19 7 3 3 100.0 0 0 - 1 2 50.0 2 0 2 0 0 2 2 2 14
+p264
+aVDominique Jones DAL 03/09/2012 DAL @ SAC L 10 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 2 2 1 2 1 1
+p265
+aVBrian Cardinal DAL 03/09/2012 DAL @ SAC L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 8
+p266
+aVRodrigue Beaubois DAL 03/09/2012 DAL @ SAC L 25 5 1 6 16.7 0 1 0.0 3 4 75.0 0 4 4 4 1 0 0 2 15
+p267
+aVJason Terry DAL 03/09/2012 DAL @ SAC L 26 23 10 18 55.6 3 6 50.0 0 0 - 1 2 3 3 2 0 1 0 -3
+p268
+aVLamar Odom DAL 03/09/2012 DAL @ SAC L 22 4 2 7 28.6 0 3 0.0 0 0 - 3 1 4 2 0 0 0 1 -1
+p269
+aVYi Jianlian DAL 03/09/2012 DAL @ SAC L 6 3 0 2 0.0 0 1 0.0 3 4 75.0 0 2 2 0 0 1 0 0 7
+p270
+aVIan Mahinmi DAL 03/09/2012 DAL @ SAC L 23 12 5 8 62.5 0 0 - 2 3 66.7 6 1 7 0 0 1 1 3 -23
+p271
+aVVince Carter DAL 03/09/2012 DAL @ SAC L 17 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 2 0 0 2 2 -15
+p272
+aVJason Kidd DAL 03/09/2012 DAL @ SAC L 22 6 2 8 25.0 2 7 28.6 0 0 - 1 1 2 4 0 0 2 2 -24
+p273
+aVJason Terry DAL 03/08/2012 DAL @ PHX L 20 6 3 7 42.9 0 3 0.0 0 0 - 0 2 2 1 0 0 1 1 -10
+p274
+aVLamar Odom DAL 03/08/2012 DAL @ PHX L 22 15 6 10 60.0 1 1 100.0 2 5 40.0 0 4 4 2 0 0 0 0 -12
+p275
+aVRodrigue Beaubois DAL 03/08/2012 DAL @ PHX L 22 5 2 9 22.2 1 4 25.0 0 0 - 0 2 2 2 0 0 1 2 -5
+p276
+aVIan Mahinmi DAL 03/08/2012 DAL @ PHX L 33 4 0 2 0.0 0 0 - 4 4 100.0 0 2 2 0 0 0 2 4 -5
+p277
+aVSean Williams DAL 03/08/2012 DAL @ PHX L 15 4 2 3 66.7 0 0 - 0 0 - 3 1 4 2 0 2 0 2 3
+p278
+aVJason Kidd DAL 03/08/2012 DAL @ PHX L 30 12 4 9 44.4 3 5 60.0 1 1 100.0 1 3 4 3 3 1 2 1 8
+p279
+aVDirk Nowitzki DAL 03/08/2012 DAL @ PHX L 36 18 8 15 53.3 0 2 0.0 2 2 100.0 1 6 7 2 1 0 1 3 -5
+p280
+aVVince Carter DAL 03/08/2012 DAL @ PHX L 30 18 8 21 38.1 2 5 40.0 0 0 - 3 2 5 4 1 0 1 3 8
+p281
+aVShawn Marion DAL 03/08/2012 DAL @ PHX L 32 12 5 11 45.5 1 2 50.0 1 1 100.0 0 8 8 3 0 1 2 0 8
+p282
+aVDirk Nowitzki DAL 03/06/2012 DAL vs. NYK W 34 28 8 18 44.4 0 1 0.0 12 12 100.0 0 3 3 1 1 0 2 1 16
+p283
+aVIan Mahinmi DAL 03/06/2012 DAL vs. NYK W 27 9 4 5 80.0 0 0 - 1 2 50.0 2 4 6 0 3 2 1 5 13
+p284
+aVLamar Odom DAL 03/06/2012 DAL vs. NYK W 23 3 1 9 11.1 0 2 0.0 1 2 50.0 1 3 4 1 0 1 1 0 -5
+p285
+aVShawn Marion DAL 03/06/2012 DAL vs. NYK W 36 8 4 9 44.4 0 1 0.0 0 0 - 2 7 9 1 1 3 1 4 15
+p286
+aVVince Carter DAL 03/06/2012 DAL vs. NYK W 23 3 1 8 12.5 1 6 16.7 0 0 - 1 6 7 2 1 0 1 1 9
+p287
+aVJason Kidd DAL 03/06/2012 DAL vs. NYK W 32 15 4 9 44.4 3 6 50.0 4 4 100.0 2 2 4 6 1 0 4 5 8
+p288
+aVYi Jianlian DAL 03/06/2012 DAL vs. NYK W 13 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 1 0 0 0 1 -7
+p289
+aVJason Terry DAL 03/06/2012 DAL vs. NYK W 32 9 3 8 37.5 1 4 25.0 2 2 100.0 0 7 7 1 1 0 2 3 5
+p290
+aVRodrigue Beaubois DAL 03/06/2012 DAL vs. NYK W 20 18 6 11 54.5 2 6 33.3 4 6 66.7 1 1 2 1 1 0 1 0 -4
+p291
+aVJason Kidd DAL 03/05/2012 DAL @ OKC L 29 6 2 4 50.0 2 4 50.0 0 0 - 0 4 4 5 3 0 2 0 2
+p292
+aVLamar Odom DAL 03/05/2012 DAL @ OKC L 24 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 0 0 1 1 1 6
+p293
+aVSean Williams DAL 03/05/2012 DAL @ OKC L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p294
+aVShawn Marion DAL 03/05/2012 DAL @ OKC L 36 10 5 11 45.5 0 0 - 0 0 - 6 4 10 2 3 0 1 0 -3
+p295
+aVIan Mahinmi DAL 03/05/2012 DAL @ OKC L 28 13 5 6 83.3 0 0 - 3 3 100.0 1 4 5 2 2 1 0 6 4
+p296
+aVRodrigue Beaubois DAL 03/05/2012 DAL @ OKC L 21 9 3 9 33.3 1 2 50.0 2 2 100.0 0 1 1 1 3 2 2 4 -3
+p297
+aVVince Carter DAL 03/05/2012 DAL @ OKC L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -15
+p298
+aVYi Jianlian DAL 03/05/2012 DAL @ OKC L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 1 1 -7
+p299
+aVBrendan Haywood DAL 03/05/2012 DAL @ OKC L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p300
+aVDirk Nowitzki DAL 03/05/2012 DAL @ OKC L 38 27 10 22 45.5 4 6 66.7 3 3 100.0 0 5 5 0 0 0 3 3 -7
+p301
+aVJason Terry DAL 03/05/2012 DAL @ OKC L 37 18 7 19 36.8 2 6 33.3 2 2 100.0 0 5 5 7 1 0 2 4 2
+p302
+aVIan Mahinmi DAL 03/03/2012 DAL vs. UTA W 17 2 1 4 25.0 0 0 - 0 0 - 3 5 8 1 0 0 1 5 13
+p303
+aVYi Jianlian DAL 03/03/2012 DAL vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p304
+aVRodrigue Beaubois DAL 03/03/2012 DAL vs. UTA W 20 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 2 0 0 1 3 8
+p305
+aVJason Kidd DAL 03/03/2012 DAL vs. UTA W 28 4 1 5 20.0 1 2 50.0 1 2 50.0 0 4 4 8 2 0 2 1 -2
+p306
+aVJason Terry DAL 03/03/2012 DAL vs. UTA W 34 22 8 15 53.3 3 6 50.0 3 4 75.0 0 0 0 2 2 0 2 0 5
+p307
+aVVince Carter DAL 03/03/2012 DAL vs. UTA W 28 9 3 8 37.5 1 3 33.3 2 2 100.0 0 3 3 4 3 0 2 3 -1
+p308
+aVLamar Odom DAL 03/03/2012 DAL vs. UTA W 18 9 3 5 60.0 1 2 50.0 2 2 100.0 0 5 5 3 0 3 0 1 6
+p309
+aVBrendan Haywood DAL 03/03/2012 DAL vs. UTA W 31 6 2 4 50.0 0 0 - 2 2 100.0 3 4 7 0 1 1 2 3 -7
+p310
+aVDirk Nowitzki DAL 03/03/2012 DAL vs. UTA W 29 40 14 21 66.7 3 8 37.5 9 10 90.0 1 5 6 0 1 0 4 2 8
+p311
+aVShawn Marion DAL 03/03/2012 DAL vs. UTA W 33 7 3 9 33.3 0 0 - 1 2 50.0 3 3 6 4 2 1 1 2 6
+p312
+aVIan Mahinmi DAL 03/02/2012 DAL @ NOH L 6 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -6
+p313
+aVDirk Nowitzki DAL 03/02/2012 DAL @ NOH L 35 19 7 19 36.8 5 8 62.5 0 0 - 3 6 9 2 1 0 6 2 -5
+p314
+aVDominique Jones DAL 03/02/2012 DAL @ NOH L 17 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 3 1 1 1 0 -8
+p315
+aVBrendan Haywood DAL 03/02/2012 DAL @ NOH L 27 4 2 6 33.3 0 0 - 0 0 - 4 3 7 1 0 2 0 3 9
+p316
+aVVince Carter DAL 03/02/2012 DAL @ NOH L 27 14 4 10 40.0 2 7 28.6 4 4 100.0 0 4 4 4 1 1 1 2 0
+p317
+aVBrian Cardinal DAL 03/02/2012 DAL @ NOH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p318
+aVRodrigue Beaubois DAL 03/02/2012 DAL @ NOH L 31 25 11 17 64.7 2 4 50.0 1 1 100.0 0 2 2 3 4 0 1 3 -1
+p319
+aVJason Terry DAL 03/02/2012 DAL @ NOH L 23 2 1 9 11.1 0 5 0.0 0 0 - 0 1 1 4 0 0 1 2 -19
+p320
+aVJason Kidd DAL 03/02/2012 DAL @ NOH L 28 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 6 1 0 2 2 14
+p321
+aVShawn Marion DAL 03/02/2012 DAL @ NOH L 30 11 5 11 45.5 1 2 50.0 0 0 - 1 3 4 2 1 0 0 2 -2
+p322
+aVBrandan Wright DAL 03/02/2012 DAL @ NOH L 14 9 4 4 100.0 0 0 - 1 1 100.0 0 1 1 0 0 1 0 0 -7
+p323
+aVYi Jianlian DAL 02/29/2012 DAL @ MEM L 12 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 0 1 0 2 2 -16
+p324
+aVRodrigue Beaubois DAL 02/29/2012 DAL @ MEM L 38 16 7 16 43.8 0 4 0.0 2 2 100.0 1 1 2 3 1 0 4 3 -3
+p325
+aVVince Carter DAL 02/29/2012 DAL @ MEM L 30 9 4 9 44.4 0 1 0.0 1 1 100.0 1 2 3 1 0 1 3 1 4
+p326
+aVDirk Nowitzki DAL 02/29/2012 DAL @ MEM L 10 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 2 0 1
+p327
+aVBrandan Wright DAL 02/29/2012 DAL @ MEM L 21 8 2 3 66.7 0 0 - 4 4 100.0 2 5 7 0 2 2 1 1 -3
+p328
+aVDominique Jones DAL 02/29/2012 DAL @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p329
+aVShawn Marion DAL 02/29/2012 DAL @ MEM L 32 7 3 11 27.3 0 1 0.0 1 1 100.0 2 6 8 2 1 0 4 2 -11
+p330
+aVBrian Cardinal DAL 02/29/2012 DAL @ MEM L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -5
+p331
+aVBrendan Haywood DAL 02/29/2012 DAL @ MEM L 26 10 5 8 62.5 0 0 - 0 1 0.0 1 3 4 1 1 1 0 3 -8
+p332
+aVJason Terry DAL 02/29/2012 DAL @ MEM L 33 18 7 15 46.7 2 8 25.0 2 3 66.7 0 4 4 5 1 1 1 1 -11
+p333
+aVJason Kidd DAL 02/29/2012 DAL @ MEM L 27 8 3 8 37.5 2 6 33.3 0 0 - 0 0 0 3 1 0 1 0 -1
+p334
+aVShawn Marion DAL 02/28/2012 DAL vs. NJN L 31 11 5 16 31.3 1 3 33.3 0 0 - 4 4 8 2 0 0 3 4 6
+p335
+aVYi Jianlian DAL 02/28/2012 DAL vs. NJN L 8 4 1 3 33.3 0 0 - 2 3 66.7 0 1 1 1 0 0 0 0 -4
+p336
+aVJason Terry DAL 02/28/2012 DAL vs. NJN L 33 12 4 14 28.6 2 6 33.3 2 2 100.0 0 4 4 3 4 2 4 0 -1
+p337
+aVBrandan Wright DAL 02/28/2012 DAL vs. NJN L 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 2 0 0 -3
+p338
+aVRodrigue Beaubois DAL 02/28/2012 DAL vs. NJN L 24 11 3 10 30.0 1 3 33.3 4 4 100.0 1 2 3 2 3 0 2 1 -13
+p339
+aVDirk Nowitzki DAL 02/28/2012 DAL vs. NJN L 36 24 7 19 36.8 3 4 75.0 7 11 63.6 4 6 10 1 3 0 1 0 6
+p340
+aVJason Kidd DAL 02/28/2012 DAL vs. NJN L 30 3 1 7 14.3 1 7 14.3 0 0 - 0 4 4 8 2 0 1 0 7
+p341
+aVBrendan Haywood DAL 02/28/2012 DAL vs. NJN L 29 18 7 10 70.0 0 0 - 4 5 80.0 5 5 10 1 1 3 0 4 8
+p342
+aVDominique Jones DAL 02/28/2012 DAL vs. NJN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p343
+aVBrian Cardinal DAL 02/28/2012 DAL vs. NJN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p344
+aVIan Mahinmi DAL 02/28/2012 DAL vs. NJN L 12 3 1 4 25.0 0 0 - 1 2 50.0 3 4 7 0 0 0 0 1 -6
+p345
+aVVince Carter DAL 02/28/2012 DAL vs. NJN L 22 2 1 4 25.0 0 2 0.0 0 1 0.0 0 1 1 0 0 0 2 1 0
+p346
+aVBrian Cardinal DAL 02/22/2012 DAL vs. LAL L 7 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 0 0 1 1 2
+p347
+aVYi Jianlian DAL 02/22/2012 DAL vs. LAL L 12 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 0 1 7
+p348
+aVDominique Jones DAL 02/22/2012 DAL vs. LAL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p349
+aVJason Terry DAL 02/22/2012 DAL vs. LAL L 31 16 7 16 43.8 2 7 28.6 0 0 - 0 4 4 5 1 0 4 1 -1
+p350
+aVShawn Marion DAL 02/22/2012 DAL vs. LAL L 37 8 3 11 27.3 0 3 0.0 2 2 100.0 7 2 9 5 3 0 1 2 -10
+p351
+aVBrandan Wright DAL 02/22/2012 DAL vs. LAL L 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 1 0 2 19
+p352
+aVBrendan Haywood DAL 02/22/2012 DAL vs. LAL L 32 4 2 6 33.3 0 0 - 0 2 0.0 6 5 11 2 2 1 1 5 -18
+p353
+aVDirk Nowitzki DAL 02/22/2012 DAL vs. LAL L 36 25 9 22 40.9 1 6 16.7 6 8 75.0 2 10 12 2 1 0 0 3 -12
+p354
+aVVince Carter DAL 02/22/2012 DAL vs. LAL L 31 20 7 17 41.2 3 7 42.9 3 4 75.0 2 3 5 1 0 1 2 3 2
+p355
+aVJason Kidd DAL 02/22/2012 DAL vs. LAL L 34 5 2 6 33.3 1 5 20.0 0 0 - 1 1 2 4 2 0 2 2 -6
+p356
+aVIan Mahinmi DAL 02/22/2012 DAL vs. LAL L 6 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -6
+p357
+aVJason Kidd DAL 02/20/2012 DAL vs. BOS W 23 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 8 3 0 1 2 20
+p358
+aVBrandan Wright DAL 02/20/2012 DAL vs. BOS W 23 9 4 7 57.1 0 0 - 1 2 50.0 2 3 5 1 0 3 0 1 -3
+p359
+aVLamar Odom DAL 02/20/2012 DAL vs. BOS W 20 4 2 8 25.0 0 5 0.0 0 0 - 0 4 4 2 2 1 0 2 0
+p360
+aVBrian Cardinal DAL 02/20/2012 DAL vs. BOS W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p361
+aVBrendan Haywood DAL 02/20/2012 DAL vs. BOS W 17 5 2 5 40.0 0 0 - 1 2 50.0 3 5 8 0 0 0 0 2 18
+p362
+aVYi Jianlian DAL 02/20/2012 DAL vs. BOS W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p363
+aVShawn Marion DAL 02/20/2012 DAL vs. BOS W 26 11 5 10 50.0 0 0 - 1 2 50.0 2 2 4 0 2 0 2 1 10
+p364
+aVVince Carter DAL 02/20/2012 DAL vs. BOS W 27 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 3 1 0 1 2 10
+p365
+aVIan Mahinmi DAL 02/20/2012 DAL vs. BOS W 11 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 1 -1
+p366
+aVDominique Jones DAL 02/20/2012 DAL vs. BOS W 25 7 3 8 37.5 0 0 - 1 1 100.0 1 3 4 5 0 0 1 3 -4
+p367
+aVDirk Nowitzki DAL 02/20/2012 DAL vs. BOS W 30 26 10 24 41.7 1 3 33.3 5 5 100.0 2 14 16 1 1 2 1 1 27
+p368
+aVJason Terry DAL 02/20/2012 DAL vs. BOS W 32 16 6 11 54.5 4 7 57.1 0 0 - 1 4 5 6 0 0 0 0 9
+p369
+aVBrendan Haywood DAL 02/19/2012 DAL @ NYK L 27 9 4 6 66.7 0 0 - 1 3 33.3 2 4 6 1 0 2 0 3 20
+p370
+aVJason Terry DAL 02/19/2012 DAL @ NYK L 30 13 5 13 38.5 3 10 30.0 0 0 - 3 4 7 6 2 0 2 3 -3
+p371
+aVVince Carter DAL 02/19/2012 DAL @ NYK L 26 9 3 9 33.3 2 4 50.0 1 1 100.0 0 3 3 2 2 0 1 1 -15
+p372
+aVShawn Marion DAL 02/19/2012 DAL @ NYK L 36 14 6 11 54.5 0 1 0.0 2 2 100.0 5 2 7 2 2 0 1 2 -10
+p373
+aVDominique Jones DAL 02/19/2012 DAL @ NYK L 15 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 3 1 0 2 3 -7
+p374
+aVJason Kidd DAL 02/19/2012 DAL @ NYK L 28 8 3 9 33.3 2 8 25.0 0 0 - 1 4 5 4 3 0 5 2 12
+p375
+aVBrandan Wright DAL 02/19/2012 DAL @ NYK L 20 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 0 0 1 2 1 -25
+p376
+aVLamar Odom DAL 02/19/2012 DAL @ NYK L 20 2 1 6 16.7 0 4 0.0 0 0 - 0 6 6 3 0 0 2 3 -17
+p377
+aVDirk Nowitzki DAL 02/19/2012 DAL @ NYK L 38 34 11 20 55.0 4 5 80.0 8 9 88.9 1 4 5 3 2 0 4 2 10
+p378
+aVDominique Jones DAL 02/17/2012 DAL @ PHI W 21 12 5 9 55.6 0 1 0.0 2 3 66.7 0 2 2 0 1 0 5 3 -21
+p379
+aVBrendan Haywood DAL 02/17/2012 DAL @ PHI W 17 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 0 0 0 0 15
+p380
+aVYi Jianlian DAL 02/17/2012 DAL @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p381
+aVDirk Nowitzki DAL 02/17/2012 DAL @ PHI W 37 28 10 22 45.5 2 4 50.0 6 6 100.0 0 12 12 2 0 0 0 0 18
+p382
+aVVince Carter DAL 02/17/2012 DAL @ PHI W 37 10 3 8 37.5 0 1 0.0 4 5 80.0 1 5 6 4 1 1 4 3 4
+p383
+aVLamar Odom DAL 02/17/2012 DAL @ PHI W 27 5 2 5 40.0 1 2 50.0 0 1 0.0 1 2 3 4 1 0 2 3 -4
+p384
+aVJason Kidd DAL 02/17/2012 DAL @ PHI W 30 9 3 8 37.5 2 6 33.3 1 1 100.0 1 8 9 8 2 1 1 2 28
+p385
+aVIan Mahinmi DAL 02/17/2012 DAL @ PHI W 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p386
+aVBrandan Wright DAL 02/17/2012 DAL @ PHI W 24 8 3 10 30.0 0 0 - 2 2 100.0 1 3 4 1 0 2 1 2 -9
+p387
+aVShawn Marion DAL 02/17/2012 DAL @ PHI W 38 6 3 13 23.1 0 0 - 0 0 - 3 4 7 1 0 0 2 1 3
+p388
+aVDirk Nowitzki DAL 02/15/2012 DAL vs. DEN W 25 12 5 12 41.7 0 2 0.0 2 2 100.0 0 3 3 4 1 1 2 3 16
+p389
+aVIan Mahinmi DAL 02/15/2012 DAL vs. DEN W 11 6 0 0 - 0 0 - 6 8 75.0 0 3 3 0 0 0 0 2 -6
+p390
+aVYi Jianlian DAL 02/15/2012 DAL vs. DEN W 8 6 2 3 66.7 2 2 100.0 0 0 - 1 0 1 0 0 0 2 3 -12
+p391
+aVBrendan Haywood DAL 02/15/2012 DAL vs. DEN W 12 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 1 0 0 0 9
+p392
+aVBrian Cardinal DAL 02/15/2012 DAL vs. DEN W 12 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 2 0 0 0 0 -11
+p393
+aVVince Carter DAL 02/15/2012 DAL vs. DEN W 26 15 5 10 50.0 2 4 50.0 3 3 100.0 0 6 6 2 1 0 2 3 27
+p394
+aVLamar Odom DAL 02/15/2012 DAL vs. DEN W 30 14 6 12 50.0 1 4 25.0 1 2 50.0 1 2 3 2 1 1 1 3 -3
+p395
+aVDominique Jones DAL 02/15/2012 DAL vs. DEN W 31 4 0 6 0.0 0 1 0.0 4 4 100.0 1 3 4 6 0 0 1 4 1
+p396
+aVShawn Marion DAL 02/15/2012 DAL vs. DEN W 27 16 8 14 57.1 0 1 0.0 0 1 0.0 5 5 10 6 0 0 3 0 29
+p397
+aVBrandan Wright DAL 02/15/2012 DAL vs. DEN W 25 10 5 7 71.4 0 0 - 0 0 - 2 5 7 0 0 1 1 2 15
+p398
+aVJason Kidd DAL 02/15/2012 DAL vs. DEN W 22 13 4 6 66.7 4 6 66.7 1 1 100.0 0 3 3 3 3 0 0 2 23
+p399
+aVDelonte West DAL 02/15/2012 DAL vs. DEN W 12 3 1 5 20.0 0 2 0.0 1 1 100.0 1 0 1 3 2 2 0 1 2
+p400
+aVIan Mahinmi DAL 02/13/2012 DAL vs. LAC W 7 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 2 -3
+p401
+aVVince Carter DAL 02/13/2012 DAL vs. LAC W 25 10 4 9 44.4 2 4 50.0 0 0 - 0 4 4 2 2 1 2 2 9
+p402
+aVDirk Nowitzki DAL 02/13/2012 DAL vs. LAC W 32 22 5 15 33.3 1 3 33.3 11 15 73.3 0 7 7 2 2 0 1 3 -1
+p403
+aVJason Terry DAL 02/13/2012 DAL vs. LAC W 32 9 4 12 33.3 1 3 33.3 0 0 - 1 2 3 3 0 0 2 1 -4
+p404
+aVDelonte West DAL 02/13/2012 DAL vs. LAC W 25 10 4 8 50.0 0 2 0.0 2 2 100.0 0 3 3 3 1 0 2 1 2
+p405
+aVJason Kidd DAL 02/13/2012 DAL vs. LAC W 26 3 1 4 25.0 1 3 33.3 0 0 - 0 4 4 4 1 0 1 2 7
+p406
+aVShawn Marion DAL 02/13/2012 DAL vs. LAC W 31 16 7 14 50.0 0 2 0.0 2 2 100.0 0 1 1 3 2 0 0 0 2
+p407
+aVBrandan Wright DAL 02/13/2012 DAL vs. LAC W 12 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 1 0 1 4 -1
+p408
+aVBrendan Haywood DAL 02/13/2012 DAL vs. LAC W 29 10 5 6 83.3 0 0 - 0 3 0.0 5 4 9 1 1 0 0 4 6
+p409
+aVLamar Odom DAL 02/13/2012 DAL vs. LAC W 21 9 3 8 37.5 1 1 100.0 2 2 100.0 0 3 3 3 1 0 2 2 3
+p410
+aVDirk Nowitzki DAL 02/11/2012 DAL vs. POR W 44 20 7 20 35.0 0 3 0.0 6 6 100.0 1 8 9 1 0 0 2 1 -5
+p411
+aVDelonte West DAL 02/11/2012 DAL vs. POR W 31 10 5 11 45.5 0 1 0.0 0 0 - 0 2 2 4 4 0 3 3 -10
+p412
+aVShawn Marion DAL 02/11/2012 DAL vs. POR W 40 14 5 14 35.7 0 1 0.0 4 4 100.0 4 8 12 2 0 0 3 1 12
+p413
+aVJason Terry DAL 02/11/2012 DAL vs. POR W 42 19 8 13 61.5 2 5 40.0 1 1 100.0 0 6 6 2 0 0 6 3 -2
+p414
+aVIan Mahinmi DAL 02/11/2012 DAL vs. POR W 14 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 3 3
+p415
+aVVince Carter DAL 02/11/2012 DAL vs. POR W 22 7 3 8 37.5 1 2 50.0 0 0 - 1 2 3 4 0 0 3 3 12
+p416
+aVBrendan Haywood DAL 02/11/2012 DAL vs. POR W 38 7 3 4 75.0 0 0 - 1 4 25.0 2 8 10 0 0 2 1 5 2
+p417
+aVBrandan Wright DAL 02/11/2012 DAL vs. POR W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -2
+p418
+aVLamar Odom DAL 02/11/2012 DAL vs. POR W 23 10 4 5 80.0 2 2 100.0 0 2 0.0 1 4 5 0 0 0 2 2 0
+p419
+aVJason Kidd DAL 02/11/2012 DAL vs. POR W 31 5 2 6 33.3 1 5 20.0 0 0 - 0 8 8 8 1 0 2 2 5
+p420
+aVBrendan Haywood DAL 02/10/2012 DAL @ MIN W 16 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 1 1 0 3 16
+p421
+aVShawn Marion DAL 02/10/2012 DAL @ MIN W 33 9 4 8 50.0 0 0 - 1 2 50.0 2 6 8 2 0 0 1 2 8
+p422
+aVDelonte West DAL 02/10/2012 DAL @ MIN W 21 10 4 9 44.4 0 1 0.0 2 2 100.0 1 2 3 2 3 0 3 3 -18
+p423
+aVBrandan Wright DAL 02/10/2012 DAL @ MIN W 18 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 1 1 2 0 2 8
+p424
+aVLamar Odom DAL 02/10/2012 DAL @ MIN W 14 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 1 0 1 0 4 -17
+p425
+aVVince Carter DAL 02/10/2012 DAL @ MIN W 26 12 4 10 40.0 1 2 50.0 3 3 100.0 0 3 3 1 5 0 2 3 24
+p426
+aVJason Terry DAL 02/10/2012 DAL @ MIN W 33 16 7 21 33.3 2 7 28.6 0 0 - 1 2 3 5 2 0 3 3 -10
+p427
+aVBrian Cardinal DAL 02/10/2012 DAL @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p428
+aVDirk Nowitzki DAL 02/10/2012 DAL @ MIN W 35 33 11 19 57.9 4 7 57.1 7 10 70.0 1 3 4 3 1 3 1 3 22
+p429
+aVJason Kidd DAL 02/10/2012 DAL @ MIN W 27 8 2 4 50.0 2 3 66.7 2 2 100.0 0 5 5 10 2 1 8 4 23
+p430
+aVIan Mahinmi DAL 02/10/2012 DAL @ MIN W 14 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 1 -19
+p431
+aVYi Jianlian DAL 02/10/2012 DAL @ MIN W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p432
+aVDirk Nowitzki DAL 02/08/2012 DAL @ DEN W 35 25 11 20 55.0 1 6 16.7 2 2 100.0 0 9 9 3 1 1 1 2 12
+p433
+aVRodrigue Beaubois DAL 02/08/2012 DAL @ DEN W 20 13 5 7 71.4 2 3 66.7 1 1 100.0 1 2 3 2 0 1 2 3 6
+p434
+aVLamar Odom DAL 02/08/2012 DAL @ DEN W 19 6 3 7 42.9 0 0 - 0 0 - 2 3 5 2 1 0 0 3 -4
+p435
+aVJason Terry DAL 02/08/2012 DAL @ DEN W 28 5 1 9 11.1 0 5 0.0 3 4 75.0 0 1 1 5 2 0 1 1 -2
+p436
+aVIan Mahinmi DAL 02/08/2012 DAL @ DEN W 11 7 3 6 50.0 0 0 - 1 1 100.0 2 2 4 0 0 1 2 3 -5
+p437
+aVBrendan Haywood DAL 02/08/2012 DAL @ DEN W 20 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 2 1 7
+p438
+aVVince Carter DAL 02/08/2012 DAL @ DEN W 29 17 7 12 58.3 3 7 42.9 0 0 - 0 5 5 8 2 1 1 3 16
+p439
+aVBrandan Wright DAL 02/08/2012 DAL @ DEN W 16 10 5 8 62.5 0 0 - 0 0 - 2 2 4 0 1 1 0 1 8
+p440
+aVShawn Marion DAL 02/08/2012 DAL @ DEN W 31 13 5 8 62.5 2 3 66.7 1 1 100.0 2 3 5 5 0 0 1 2 9
+p441
+aVDelonte West DAL 02/08/2012 DAL @ DEN W 31 9 4 12 33.3 1 4 25.0 0 0 - 2 5 7 5 2 0 2 3 3
+p442
+aVLamar Odom DAL 02/04/2012 DAL @ CLE L 26 7 2 7 28.6 0 2 0.0 3 6 50.0 0 5 5 3 0 0 1 2 19
+p443
+aVRodrigue Beaubois DAL 02/04/2012 DAL @ CLE L 20 0 0 2 0.0 0 0 - 0 0 - 0 2 2 5 2 1 2 0 5
+p444
+aVShawn Marion DAL 02/04/2012 DAL @ CLE L 31 4 1 5 20.0 0 0 - 2 2 100.0 1 5 6 0 0 1 3 3 -16
+p445
+aVVince Carter DAL 02/04/2012 DAL @ CLE L 16 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -12
+p446
+aVBrandan Wright DAL 02/04/2012 DAL @ CLE L 29 11 5 9 55.6 0 1 0.0 1 3 33.3 2 6 8 0 0 4 1 5 2
+p447
+aVDelonte West DAL 02/04/2012 DAL @ CLE L 28 11 4 7 57.1 0 0 - 3 3 100.0 0 1 1 7 3 0 4 1 -10
+p448
+aVJason Terry DAL 02/04/2012 DAL @ CLE L 34 17 5 14 35.7 4 8 50.0 3 3 100.0 0 4 4 3 0 0 4 1 4
+p449
+aVBrendan Haywood DAL 02/04/2012 DAL @ CLE L 19 10 4 4 100.0 0 0 - 2 5 40.0 0 5 5 0 1 0 0 2 -5
+p450
+aVDirk Nowitzki DAL 02/04/2012 DAL @ CLE L 35 24 9 15 60.0 2 2 100.0 4 5 80.0 1 7 8 3 0 2 5 1 -2
+p451
+aVDominique Jones DAL 02/03/2012 DAL vs. IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 2
+p452
+aVYi Jianlian DAL 02/03/2012 DAL vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p453
+aVJason Terry DAL 02/03/2012 DAL vs. IND L 31 10 4 11 36.4 2 3 66.7 0 0 - 1 0 1 2 1 1 0 1 7
+p454
+aVVince Carter DAL 02/03/2012 DAL vs. IND L 30 14 6 10 60.0 2 3 66.7 0 0 - 0 3 3 5 2 1 2 1 -18
+p455
+aVRodrigue Beaubois DAL 02/03/2012 DAL vs. IND L 21 4 2 8 25.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 2 -8
+p456
+aVDirk Nowitzki DAL 02/03/2012 DAL vs. IND L 33 30 12 17 70.6 1 4 25.0 5 6 83.3 0 7 7 2 0 0 4 3 -6
+p457
+aVLamar Odom DAL 02/03/2012 DAL vs. IND L 21 6 1 7 14.3 0 2 0.0 4 5 80.0 2 4 6 3 0 0 2 0 -1
+p458
+aVDelonte West DAL 02/03/2012 DAL vs. IND L 24 5 2 8 25.0 1 3 33.3 0 0 - 1 4 5 3 1 1 0 1 2
+p459
+aVBrandan Wright DAL 02/03/2012 DAL vs. IND L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 4
+p460
+aVBrendan Haywood DAL 02/03/2012 DAL vs. IND L 28 6 2 8 25.0 0 0 - 2 2 100.0 4 2 6 1 0 4 3 3 -20
+p461
+aVShawn Marion DAL 02/03/2012 DAL vs. IND L 30 8 4 11 36.4 0 0 - 0 0 - 5 2 7 3 2 0 3 1 -24
+p462
+aVIan Mahinmi DAL 02/03/2012 DAL vs. IND L 16 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 2 1 1 2 5
+p463
+aVRodrigue Beaubois DAL 02/01/2012 DAL vs. OKC L 32 9 3 13 23.1 1 3 33.3 2 2 100.0 0 4 4 4 2 0 0 4 -5
+p464
+aVBrandan Wright DAL 02/01/2012 DAL vs. OKC L 25 12 4 5 80.0 0 0 - 4 6 66.7 0 1 1 0 0 3 1 4 -5
+p465
+aVDelonte West DAL 02/01/2012 DAL vs. OKC L 16 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 3 0 2 2 0 -4
+p466
+aVYi Jianlian DAL 02/01/2012 DAL vs. OKC L 9 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 3 1 0 0
+p467
+aVDirk Nowitzki DAL 02/01/2012 DAL vs. OKC L 38 8 2 15 13.3 0 5 0.0 4 4 100.0 0 8 8 2 2 0 0 4 -10
+p468
+aVIan Mahinmi DAL 02/01/2012 DAL vs. OKC L 23 6 3 8 37.5 0 0 - 0 0 - 4 5 9 0 1 0 2 2 -4
+p469
+aVJason Terry DAL 02/01/2012 DAL vs. OKC L 36 25 7 10 70.0 2 4 50.0 9 9 100.0 0 1 1 3 2 0 2 1 -4
+p470
+aVShawn Marion DAL 02/01/2012 DAL vs. OKC L 33 12 6 15 40.0 0 2 0.0 0 0 - 6 4 10 2 0 1 4 0 -2
+p471
+aVVince Carter DAL 02/01/2012 DAL vs. OKC L 29 8 3 10 30.0 0 3 0.0 2 2 100.0 0 5 5 2 1 1 2 3 -11
+p472
+aVJason Terry DAL 01/30/2012 DAL @ PHX W 26 11 4 7 57.1 3 6 50.0 0 0 - 0 2 2 3 0 0 3 0 16
+p473
+aVBrandan Wright DAL 01/30/2012 DAL @ PHX W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p474
+aVYi Jianlian DAL 01/30/2012 DAL @ PHX W 6 6 3 6 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -1
+p475
+aVLamar Odom DAL 01/30/2012 DAL @ PHX W 16 7 3 7 42.9 1 2 50.0 0 0 - 1 4 5 2 1 0 0 0 6
+p476
+aVRodrigue Beaubois DAL 01/30/2012 DAL @ PHX W 24 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 7 1 1 1 2 12
+p477
+aVDirk Nowitzki DAL 01/30/2012 DAL @ PHX W 28 10 4 10 40.0 0 3 0.0 2 2 100.0 1 3 4 4 0 0 0 0 9
+p478
+aVDominique Jones DAL 01/30/2012 DAL @ PHX W 5 4 0 1 0.0 0 0 - 4 6 66.7 0 2 2 2 0 1 1 1 1
+p479
+aVBrian Cardinal DAL 01/30/2012 DAL @ PHX W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p480
+aVVince Carter DAL 01/30/2012 DAL @ PHX W 28 21 8 13 61.5 5 7 71.4 0 0 - 1 2 3 4 2 0 0 1 22
+p481
+aVBrendan Haywood DAL 01/30/2012 DAL @ PHX W 20 2 1 1 100.0 0 0 - 0 0 - 2 6 8 0 1 0 0 4 14
+p482
+aVShawn Marion DAL 01/30/2012 DAL @ PHX W 27 20 9 15 60.0 0 1 0.0 2 4 50.0 1 4 5 2 0 1 2 1 14
+p483
+aVDelonte West DAL 01/30/2012 DAL @ PHX W 28 25 9 12 75.0 5 6 83.3 2 2 100.0 0 3 3 6 2 0 3 2 14
+p484
+aVIan Mahinmi DAL 01/30/2012 DAL @ PHX W 20 8 3 7 42.9 0 0 - 2 4 50.0 1 3 4 0 0 0 0 4 5
+p485
+aVDominique Jones DAL 01/29/2012 DAL vs. SAS W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p486
+aVDirk Nowitzki DAL 01/29/2012 DAL vs. SAS W 38 10 5 14 35.7 0 3 0.0 0 0 - 1 12 13 1 1 0 0 3 6
+p487
+aVJason Terry DAL 01/29/2012 DAL vs. SAS W 38 34 14 23 60.9 1 3 33.3 5 5 100.0 1 1 2 4 1 0 2 2 8
+p488
+aVVince Carter DAL 01/29/2012 DAL vs. SAS W 31 21 8 15 53.3 2 5 40.0 3 3 100.0 0 3 3 3 2 1 1 3 -1
+p489
+aVShawn Marion DAL 01/29/2012 DAL vs. SAS W 36 9 4 15 26.7 1 3 33.3 0 0 - 4 5 9 0 3 2 0 2 -2
+p490
+aVIan Mahinmi DAL 01/29/2012 DAL vs. SAS W 22 4 2 4 50.0 0 0 - 0 2 0.0 3 5 8 0 0 1 1 3 -5
+p491
+aVDelonte West DAL 01/29/2012 DAL vs. SAS W 16 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 -6
+p492
+aVRodrigue Beaubois DAL 01/29/2012 DAL vs. SAS W 36 14 7 16 43.8 0 3 0.0 0 0 - 0 3 3 7 0 3 1 2 4
+p493
+aVBrendan Haywood DAL 01/29/2012 DAL vs. SAS W 26 3 1 2 50.0 0 0 - 1 2 50.0 4 4 8 0 0 5 2 2 2
+p494
+aVLamar Odom DAL 01/29/2012 DAL vs. SAS W 19 4 2 5 40.0 0 2 0.0 0 0 - 2 3 5 0 0 0 0 1 4
+p495
+aVVince Carter DAL 01/27/2012 DAL vs. UTA W 28 12 5 10 50.0 1 3 33.3 1 2 50.0 0 4 4 3 0 0 0 1 14
+p496
+aVIan Mahinmi DAL 01/27/2012 DAL vs. UTA W 19 5 2 3 66.7 0 0 - 1 2 50.0 2 5 7 0 0 0 1 2 9
+p497
+aVShawn Marion DAL 01/27/2012 DAL vs. UTA W 32 16 6 12 50.0 1 2 50.0 3 3 100.0 1 2 3 4 0 0 0 3 11
+p498
+aVBrendan Haywood DAL 01/27/2012 DAL vs. UTA W 26 12 4 5 80.0 0 0 - 4 6 66.7 7 5 12 2 1 2 3 0 10
+p499
+aVDominique Jones DAL 01/27/2012 DAL vs. UTA W 13 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 5 2 0 1 0 9
+p500
+aVRodrigue Beaubois DAL 01/27/2012 DAL vs. UTA W 36 22 9 15 60.0 3 5 60.0 1 1 100.0 0 6 6 7 1 4 2 3 -4
+p501
+aVLamar Odom DAL 01/27/2012 DAL vs. UTA W 32 19 7 12 58.3 3 4 75.0 2 4 50.0 1 4 5 1 0 0 1 3 15
+p502
+aVJason Kidd DAL 01/27/2012 DAL vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p503
+aVJason Terry DAL 01/27/2012 DAL vs. UTA W 29 18 7 13 53.8 3 5 60.0 1 2 50.0 0 0 0 3 1 0 1 2 19
+p504
+aVBrandan Wright DAL 01/27/2012 DAL vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p505
+aVYi Jianlian DAL 01/27/2012 DAL vs. UTA W 17 8 4 9 44.4 0 0 - 0 0 - 2 3 5 0 1 0 0 1 1
+p506
+aVBrian Cardinal DAL 01/27/2012 DAL vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p507
+aVShawn Marion DAL 01/25/2012 DAL vs. MIN L 31 15 6 11 54.5 0 1 0.0 3 4 75.0 2 4 6 1 2 1 1 2 -16
+p508
+aVIan Mahinmi DAL 01/25/2012 DAL vs. MIN L 18 3 1 5 20.0 0 0 - 1 2 50.0 4 1 5 0 0 0 1 4 -9
+p509
+aVLamar Odom DAL 01/25/2012 DAL vs. MIN L 16 5 2 14 14.3 0 2 0.0 1 2 50.0 0 4 4 0 0 0 2 0 -10
+p510
+aVBrian Cardinal DAL 01/25/2012 DAL vs. MIN L 15 3 1 3 33.3 1 3 33.3 0 0 - 1 1 2 0 0 0 1 2 5
+p511
+aVJason Kidd DAL 01/25/2012 DAL vs. MIN L 33 8 3 6 50.0 2 5 40.0 0 0 - 3 5 8 7 1 0 2 3 -18
+p512
+aVBrendan Haywood DAL 01/25/2012 DAL vs. MIN L 25 8 4 6 66.7 0 0 - 0 0 - 4 6 10 0 0 1 1 3 -10
+p513
+aVJason Terry DAL 01/25/2012 DAL vs. MIN L 29 17 8 19 42.1 1 6 16.7 0 0 - 0 2 2 5 0 0 1 1 -8
+p514
+aVRodrigue Beaubois DAL 01/25/2012 DAL vs. MIN L 20 11 5 11 45.5 1 4 25.0 0 0 - 1 2 3 5 0 3 1 3 -2
+p515
+aVDelonte West DAL 01/25/2012 DAL vs. MIN L 18 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 3 2 0 2 0 -10
+p516
+aVYi Jianlian DAL 01/25/2012 DAL vs. MIN L 20 8 4 11 36.4 0 0 - 0 0 - 1 2 3 1 1 0 0 3 -5
+p517
+aVBrandan Wright DAL 01/25/2012 DAL vs. MIN L 13 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 0 1 2 1 3 6
+p518
+aVDominique Jones DAL 01/25/2012 DAL vs. MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p519
+aVJason Terry DAL 01/23/2012 DAL vs. PHX W 32 12 5 10 50.0 1 5 20.0 1 2 50.0 0 0 0 4 4 0 4 1 10
+p520
+aVIan Mahinmi DAL 01/23/2012 DAL vs. PHX W 29 17 4 7 57.1 0 0 - 9 12 75.0 4 5 9 2 0 3 2 2 -6
+p521
+aVRodrigue Beaubois DAL 01/23/2012 DAL vs. PHX W 18 4 0 5 0.0 0 2 0.0 4 4 100.0 0 3 3 1 2 1 2 2 0
+p522
+aVJason Kidd DAL 01/23/2012 DAL vs. PHX W 33 3 1 6 16.7 1 6 16.7 0 0 - 0 5 5 5 1 0 0 1 5
+p523
+aVBrian Cardinal DAL 01/23/2012 DAL vs. PHX W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 3 10
+p524
+aVDelonte West DAL 01/23/2012 DAL vs. PHX W 24 2 1 6 16.7 0 1 0.0 0 0 - 1 5 6 3 2 1 2 2 2
+p525
+aVBrendan Haywood DAL 01/23/2012 DAL vs. PHX W 19 10 5 10 50.0 0 0 - 0 0 - 4 2 6 1 0 0 2 3 12
+p526
+aVShawn Marion DAL 01/23/2012 DAL vs. PHX W 31 29 11 21 52.4 4 6 66.7 3 5 60.0 1 3 4 2 1 0 0 1 -3
+p527
+aVBrandan Wright DAL 01/23/2012 DAL vs. PHX W 9 5 2 4 50.0 0 0 - 1 1 100.0 2 1 3 0 1 0 0 0 9
+p528
+aVLamar Odom DAL 01/23/2012 DAL vs. PHX W 28 11 4 10 40.0 2 4 50.0 1 5 20.0 0 3 3 5 0 0 0 2 -9
+p529
+aVBrandan Wright DAL 01/21/2012 DAL @ NOH W 7 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 1 0 1 0 3 -4
+p530
+aVLamar Odom DAL 01/21/2012 DAL @ NOH W 26 16 6 14 42.9 1 5 20.0 3 6 50.0 3 1 4 2 0 0 3 3 9
+p531
+aVShawn Marion DAL 01/21/2012 DAL @ NOH W 37 14 6 11 54.5 1 2 50.0 1 2 50.0 1 11 12 1 0 1 0 1 6
+p532
+aVJason Kidd DAL 01/21/2012 DAL @ NOH W 34 0 0 6 0.0 0 5 0.0 0 0 - 0 10 10 5 0 0 2 1 12
+p533
+aVBrian Cardinal DAL 01/21/2012 DAL @ NOH W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 -12
+p534
+aVBrendan Haywood DAL 01/21/2012 DAL @ NOH W 28 6 3 5 60.0 0 0 - 0 0 - 2 8 10 0 0 2 0 5 8
+p535
+aVIan Mahinmi DAL 01/21/2012 DAL @ NOH W 18 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 0 0 0 5 -1
+p536
+aVDelonte West DAL 01/21/2012 DAL @ NOH W 34 16 6 10 60.0 1 2 50.0 3 4 75.0 0 5 5 6 1 1 1 2 11
+p537
+aVRodrigue Beaubois DAL 01/21/2012 DAL @ NOH W 17 7 3 8 37.5 1 3 33.3 0 0 - 1 2 3 0 3 1 0 2 -12
+p538
+aVYi Jianlian DAL 01/21/2012 DAL @ NOH W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 3 2 3
+p539
+aVJason Terry DAL 01/21/2012 DAL @ NOH W 27 12 3 16 18.8 0 7 0.0 6 6 100.0 0 2 2 2 2 0 2 0 -10
+p540
+aVIan Mahinmi DAL 01/19/2012 DAL @ UTA W 19 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 1 1 0 1 -2
+p541
+aVBrendan Haywood DAL 01/19/2012 DAL @ UTA W 29 6 1 1 100.0 0 0 - 4 4 100.0 0 5 5 3 1 0 1 3 5
+p542
+aVDelonte West DAL 01/19/2012 DAL @ UTA W 16 8 4 5 80.0 0 0 - 0 1 0.0 0 3 3 0 0 0 0 3 9
+p543
+aVJason Kidd DAL 01/19/2012 DAL @ UTA W 34 2 1 4 25.0 0 2 0.0 0 0 - 1 4 5 11 0 1 6 2 0
+p544
+aVBrian Cardinal DAL 01/19/2012 DAL @ UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p545
+aVRodrigue Beaubois DAL 01/19/2012 DAL @ UTA W 18 17 6 9 66.7 2 4 50.0 3 4 75.0 0 2 2 2 0 2 1 2 -6
+p546
+aVJason Terry DAL 01/19/2012 DAL @ UTA W 31 10 3 14 21.4 2 10 20.0 2 2 100.0 0 1 1 1 0 0 2 3 -2
+p547
+aVLamar Odom DAL 01/19/2012 DAL @ UTA W 20 11 4 5 80.0 1 1 100.0 2 2 100.0 1 0 1 1 1 1 0 2 -9
+p548
+aVShawn Marion DAL 01/19/2012 DAL @ UTA W 33 22 10 17 58.8 0 1 0.0 2 4 50.0 0 7 7 3 1 1 4 2 15
+p549
+aVDirk Nowitzki DAL 01/19/2012 DAL @ UTA W 37 12 5 12 41.7 0 2 0.0 2 2 100.0 1 4 5 1 0 0 1 1 11
+p550
+aVShawn Marion DAL 01/18/2012 DAL @ LAC L 35 12 6 12 50.0 0 0 - 0 0 - 6 4 10 2 3 0 1 1 -9
+p551
+aVDirk Nowitzki DAL 01/18/2012 DAL @ LAC L 33 17 6 18 33.3 3 6 50.0 2 2 100.0 0 7 7 1 1 3 2 4 -5
+p552
+aVDelonte West DAL 01/18/2012 DAL @ LAC L 25 17 6 14 42.9 3 5 60.0 2 3 66.7 0 2 2 2 1 0 2 2 -14
+p553
+aVRodrigue Beaubois DAL 01/18/2012 DAL @ LAC L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p554
+aVBrian Cardinal DAL 01/18/2012 DAL @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 0
+p555
+aVIan Mahinmi DAL 01/18/2012 DAL @ LAC L 22 13 4 7 57.1 0 0 - 5 7 71.4 2 1 3 1 0 2 1 5 7
+p556
+aVBrendan Haywood DAL 01/18/2012 DAL @ LAC L 26 6 3 5 60.0 0 0 - 0 2 0.0 5 3 8 0 0 1 0 2 -9
+p557
+aVJason Kidd DAL 01/18/2012 DAL @ LAC L 35 5 2 6 33.3 1 5 20.0 0 0 - 1 2 3 10 0 0 4 1 1
+p558
+aVJason Terry DAL 01/18/2012 DAL @ LAC L 30 12 5 13 38.5 2 4 50.0 0 0 - 0 1 1 5 1 1 4 0 4
+p559
+aVLamar Odom DAL 01/18/2012 DAL @ LAC L 25 5 1 4 25.0 0 0 - 3 4 75.0 1 6 7 1 1 0 1 1 10
+p560
+aVDelonte West DAL 01/16/2012 DAL @ LAL L 18 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 2 0 0 2 3 0
+p561
+aVJason Terry DAL 01/16/2012 DAL @ LAL L 34 7 3 10 30.0 1 5 20.0 0 0 - 0 1 1 7 1 1 1 1 -2
+p562
+aVVince Carter DAL 01/16/2012 DAL @ LAL L 18 6 2 6 33.3 1 4 25.0 1 2 50.0 0 3 3 0 2 1 1 3 -2
+p563
+aVBrendan Haywood DAL 01/16/2012 DAL @ LAL L 21 1 0 3 0.0 0 0 - 1 2 50.0 1 6 7 0 0 2 2 2 -2
+p564
+aVJason Kidd DAL 01/16/2012 DAL @ LAL L 34 3 1 9 11.1 0 8 0.0 1 2 50.0 0 7 7 2 2 0 3 1 -4
+p565
+aVDirk Nowitzki DAL 01/16/2012 DAL @ LAL L 33 21 8 17 47.1 0 1 0.0 5 6 83.3 1 6 7 1 0 0 3 1 0
+p566
+aVIan Mahinmi DAL 01/16/2012 DAL @ LAL L 24 9 4 7 57.1 0 0 - 1 2 50.0 3 7 10 0 1 0 0 2 -1
+p567
+aVShawn Marion DAL 01/16/2012 DAL @ LAL L 34 7 3 10 30.0 0 1 0.0 1 2 50.0 6 3 9 2 1 1 2 0 -3
+p568
+aVLamar Odom DAL 01/16/2012 DAL @ LAL L 24 10 4 12 33.3 2 5 40.0 0 0 - 0 4 4 2 0 0 1 2 -1
+p569
+aVBrandan Wright DAL 01/14/2012 DAL vs. SAC W 8 4 1 6 16.7 0 0 - 2 4 50.0 3 1 4 0 0 0 2 1 8
+p570
+aVBrian Cardinal DAL 01/14/2012 DAL vs. SAC W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 0 0 5
+p571
+aVJason Kidd DAL 01/14/2012 DAL vs. SAC W 29 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 6 6 1 2 1 19
+p572
+aVIan Mahinmi DAL 01/14/2012 DAL vs. SAC W 17 7 1 3 33.3 0 0 - 5 5 100.0 1 5 6 0 0 1 1 1 24
+p573
+aVDirk Nowitzki DAL 01/14/2012 DAL vs. SAC W 20 14 6 14 42.9 0 2 0.0 2 2 100.0 0 2 2 1 1 2 0 4 4
+p574
+aVJason Terry DAL 01/14/2012 DAL vs. SAC W 23 21 8 13 61.5 2 4 50.0 3 3 100.0 0 2 2 3 0 0 2 0 28
+p575
+aVShawn Marion DAL 01/14/2012 DAL vs. SAC W 21 10 5 9 55.6 0 0 - 0 0 - 4 4 8 2 0 0 2 1 8
+p576
+aVLamar Odom DAL 01/14/2012 DAL vs. SAC W 22 9 3 7 42.9 1 2 50.0 2 4 50.0 0 7 7 2 0 1 1 3 32
+p577
+aVRodrigue Beaubois DAL 01/14/2012 DAL vs. SAC W 16 6 3 5 60.0 0 1 0.0 0 1 0.0 0 3 3 1 1 0 0 2 18
+p578
+aVBrendan Haywood DAL 01/14/2012 DAL vs. SAC W 16 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 1 2 0 2
+p579
+aVVince Carter DAL 01/14/2012 DAL vs. SAC W 27 16 6 8 75.0 3 3 100.0 1 2 50.0 0 6 6 1 1 0 3 1 31
+p580
+aVYi Jianlian DAL 01/14/2012 DAL vs. SAC W 12 5 1 4 25.0 0 0 - 3 4 75.0 2 5 7 0 0 0 0 1 8
+p581
+aVDelonte West DAL 01/14/2012 DAL vs. SAC W 22 0 0 6 0.0 0 2 0.0 0 0 - 0 3 3 3 0 0 1 1 8
+p582
+aVBrian Cardinal DAL 01/13/2012 DAL vs. MIL W 20 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 3 0 1 1 3 18
+p583
+aVBrandan Wright DAL 01/13/2012 DAL vs. MIL W 13 7 2 2 100.0 0 0 - 3 5 60.0 2 4 6 0 1 3 0 0 7
+p584
+aVIan Mahinmi DAL 01/13/2012 DAL vs. MIL W 19 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 0 2 0 1 3 13
+p585
+aVRodrigue Beaubois DAL 01/13/2012 DAL vs. MIL W 24 15 7 12 58.3 1 3 33.3 0 0 - 2 4 6 2 0 0 2 2 13
+p586
+aVJason Terry DAL 01/13/2012 DAL vs. MIL W 26 17 5 9 55.6 3 5 60.0 4 5 80.0 0 2 2 3 2 0 3 0 11
+p587
+aVYi Jianlian DAL 01/13/2012 DAL vs. MIL W 6 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 1 0 1 2 3
+p588
+aVDirk Nowitzki DAL 01/13/2012 DAL vs. MIL W 22 11 4 7 57.1 1 2 50.0 2 2 100.0 0 5 5 2 0 0 0 0 14
+p589
+aVVince Carter DAL 01/13/2012 DAL vs. MIL W 18 16 7 10 70.0 2 3 66.7 0 0 - 0 0 0 2 0 0 2 1 10
+p590
+aVDelonte West DAL 01/13/2012 DAL vs. MIL W 22 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 4 1 0 3 1 13
+p591
+aVDominique Jones DAL 01/13/2012 DAL vs. MIL W 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 0 0 2 2 3
+p592
+aVBrendan Haywood DAL 01/13/2012 DAL vs. MIL W 16 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 3 1 0 0 6
+p593
+aVLamar Odom DAL 01/13/2012 DAL vs. MIL W 24 6 3 8 37.5 0 2 0.0 0 0 - 0 6 6 1 0 1 1 3 13
+p594
+aVShawn Marion DAL 01/13/2012 DAL vs. MIL W 22 10 4 9 44.4 2 2 100.0 0 0 - 2 3 5 1 3 0 1 0 6
+p595
+aVJason Terry DAL 01/11/2012 DAL @ BOS W 33 18 7 16 43.8 3 8 37.5 1 1 100.0 0 2 2 1 4 0 2 1 -3
+p596
+aVVince Carter DAL 01/11/2012 DAL @ BOS W 28 4 1 8 12.5 0 1 0.0 2 2 100.0 0 3 3 3 0 0 2 3 2
+p597
+aVLamar Odom DAL 01/11/2012 DAL @ BOS W 15 6 2 3 66.7 1 2 50.0 1 2 50.0 0 2 2 2 0 1 1 0 1
+p598
+aVShawn Marion DAL 01/11/2012 DAL @ BOS W 32 15 7 14 50.0 1 2 50.0 0 0 - 3 4 7 2 1 1 1 2 9
+p599
+aVRodrigue Beaubois DAL 01/11/2012 DAL @ BOS W 9 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 2 1 0 0 1 -3
+p600
+aVBrian Cardinal DAL 01/11/2012 DAL @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p601
+aVDelonte West DAL 01/11/2012 DAL @ BOS W 34 12 5 14 35.7 1 2 50.0 1 2 50.0 1 3 4 3 3 0 3 2 10
+p602
+aVIan Mahinmi DAL 01/11/2012 DAL @ BOS W 18 8 4 5 80.0 0 0 - 0 2 0.0 3 3 6 0 1 0 1 6 6
+p603
+aVBrendan Haywood DAL 01/11/2012 DAL @ BOS W 29 8 3 5 60.0 0 0 - 2 8 25.0 3 8 11 0 0 0 1 3 -3
+p604
+aVDirk Nowitzki DAL 01/11/2012 DAL @ BOS W 38 16 5 11 45.5 0 1 0.0 6 6 100.0 2 5 7 4 1 1 3 2 4
+p605
+aVBrian Cardinal DAL 01/10/2012 DAL @ DET W 20 1 0 3 0.0 0 3 0.0 1 2 50.0 0 2 2 1 0 0 1 4 -28
+p606
+aVVince Carter DAL 01/10/2012 DAL @ DET W 19 11 4 7 57.1 3 5 60.0 0 0 - 0 3 3 5 3 0 2 3 33
+p607
+aVIan Mahinmi DAL 01/10/2012 DAL @ DET W 22 10 5 8 62.5 0 1 0.0 0 0 - 1 2 3 0 0 0 1 2 1
+p608
+aVDirk Nowitzki DAL 01/10/2012 DAL @ DET W 28 18 9 10 90.0 0 0 - 0 1 0.0 0 7 7 1 0 1 2 3 42
+p609
+aVShawn Marion DAL 01/10/2012 DAL @ DET W 22 14 4 6 66.7 0 0 - 6 6 100.0 0 1 1 0 2 1 1 0 24
+p610
+aVJason Terry DAL 01/10/2012 DAL @ DET W 27 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 4 1 0 0 0 -4
+p611
+aVDominique Jones DAL 01/10/2012 DAL @ DET W 6 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -10
+p612
+aVRodrigue Beaubois DAL 01/10/2012 DAL @ DET W 18 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 3 2 0 1 1 -14
+p613
+aVDelonte West DAL 01/10/2012 DAL @ DET W 26 6 1 5 20.0 0 0 - 4 4 100.0 1 2 3 10 5 0 2 2 23
+p614
+aVBrandan Wright DAL 01/10/2012 DAL @ DET W 8 9 4 5 80.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -9
+p615
+aVLamar Odom DAL 01/10/2012 DAL @ DET W 21 5 0 3 0.0 0 2 0.0 5 6 83.3 1 6 7 4 0 1 2 4 1
+p616
+aVYi Jianlian DAL 01/10/2012 DAL @ DET W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -11
+p617
+aVBrendan Haywood DAL 01/10/2012 DAL @ DET W 18 9 3 4 75.0 0 0 - 3 6 50.0 0 2 2 0 0 1 0 2 22
+p618
+aVVince Carter DAL 01/07/2012 DAL vs. NOH W 26 13 5 11 45.5 1 3 33.3 2 2 100.0 1 2 3 1 1 0 2 2 5
+p619
+aVDominique Jones DAL 01/07/2012 DAL vs. NOH W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -3
+p620
+aVShawn Marion DAL 01/07/2012 DAL vs. NOH W 30 6 1 6 16.7 0 0 - 4 4 100.0 0 5 5 2 0 1 1 0 19
+p621
+aVJason Terry DAL 01/07/2012 DAL vs. NOH W 31 12 5 9 55.6 2 3 66.7 0 0 - 0 0 0 4 1 0 2 0 16
+p622
+aVBrendan Haywood DAL 01/07/2012 DAL vs. NOH W 17 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 1 0 2 2 5
+p623
+aVIan Mahinmi DAL 01/07/2012 DAL vs. NOH W 24 13 5 6 83.3 0 0 - 3 8 37.5 2 5 7 1 2 1 2 3 11
+p624
+aVBrian Cardinal DAL 01/07/2012 DAL vs. NOH W 14 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 3 -1
+p625
+aVDirk Nowitzki DAL 01/07/2012 DAL vs. NOH W 30 10 2 11 18.2 0 2 0.0 6 6 100.0 0 2 2 4 2 0 0 2 14
+p626
+aVDelonte West DAL 01/07/2012 DAL vs. NOH W 22 12 2 6 33.3 0 0 - 8 8 100.0 0 2 2 4 2 0 1 0 7
+p627
+aVBrandan Wright DAL 01/07/2012 DAL vs. NOH W 7 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -1
+p628
+aVRodrigue Beaubois DAL 01/07/2012 DAL vs. NOH W 16 11 4 10 40.0 3 5 60.0 0 0 - 0 2 2 2 2 0 2 2 2
+p629
+aVLamar Odom DAL 01/07/2012 DAL vs. NOH W 20 9 4 9 44.4 1 4 25.0 0 0 - 1 4 5 2 1 0 1 5 1
+p630
+aVBrian Cardinal DAL 01/05/2012 DAL @ SAS L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 0 0
+p631
+aVRodrigue Beaubois DAL 01/05/2012 DAL @ SAS L 21 4 1 8 12.5 0 3 0.0 2 2 100.0 0 5 5 1 1 3 2 0 7
+p632
+aVDirk Nowitzki DAL 01/05/2012 DAL @ SAS L 24 6 3 11 27.3 0 3 0.0 0 1 0.0 1 5 6 0 1 1 2 0 -18
+p633
+aVJason Terry DAL 01/05/2012 DAL @ SAS L 25 12 4 14 28.6 1 5 20.0 3 4 75.0 1 1 2 2 2 0 0 0 -2
+p634
+aVIan Mahinmi DAL 01/05/2012 DAL @ SAS L 20 7 2 3 66.7 0 0 - 3 4 75.0 2 7 9 0 0 1 4 2 0
+p635
+aVJason Kidd DAL 01/05/2012 DAL @ SAS L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 3 0 0 1 1 -14
+p636
+aVDelonte West DAL 01/05/2012 DAL @ SAS L 27 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 3 0 0 1 0 -25
+p637
+aVBrendan Haywood DAL 01/05/2012 DAL @ SAS L 20 6 2 4 50.0 0 0 - 2 4 50.0 3 3 6 0 0 0 1 2 -17
+p638
+aVLamar Odom DAL 01/05/2012 DAL @ SAS L 26 6 3 10 30.0 0 4 0.0 0 0 - 1 7 8 0 0 0 3 1 -10
+p639
+aVDominique Jones DAL 01/05/2012 DAL @ SAS L 8 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -7
+p640
+aVBrandan Wright DAL 01/05/2012 DAL @ SAS L 5 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 0
+p641
+aVVince Carter DAL 01/05/2012 DAL @ SAS L 21 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 4 -7
+p642
+aVShawn Marion DAL 01/05/2012 DAL @ SAS L 23 2 1 6 16.7 0 0 - 0 0 - 1 5 6 1 1 2 0 1 -17
+p643
+aVJason Terry DAL 01/04/2012 DAL vs. PHX W 33 18 6 12 50.0 5 8 62.5 1 1 100.0 0 3 3 5 0 0 3 1 14
+p644
+aVBrian Cardinal DAL 01/04/2012 DAL vs. PHX W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 5
+p645
+aVRodrigue Beaubois DAL 01/04/2012 DAL vs. PHX W 9 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 2 1 0 0 1 -4
+p646
+aVLamar Odom DAL 01/04/2012 DAL vs. PHX W 23 15 6 12 50.0 1 4 25.0 2 4 50.0 0 5 5 0 2 0 1 2 10
+p647
+aVIan Mahinmi DAL 01/04/2012 DAL vs. PHX W 25 4 1 1 100.0 0 0 - 2 3 66.7 3 2 5 1 0 1 1 4 10
+p648
+aVBrendan Haywood DAL 01/04/2012 DAL vs. PHX W 23 5 2 6 33.3 0 0 - 1 2 50.0 5 7 12 1 1 1 1 0 -1
+p649
+aVDelonte West DAL 01/04/2012 DAL vs. PHX W 10 6 3 4 75.0 0 0 - 0 0 - 0 0 0 3 1 0 1 4 -1
+p650
+aVShawn Marion DAL 01/04/2012 DAL vs. PHX W 27 13 6 15 40.0 0 1 0.0 1 2 50.0 6 1 7 2 1 0 2 1 -4
+p651
+aVVince Carter DAL 01/04/2012 DAL vs. PHX W 22 7 3 10 30.0 0 2 0.0 1 2 50.0 2 4 6 5 0 0 0 1 8
+p652
+aVJason Kidd DAL 01/04/2012 DAL vs. PHX W 28 3 1 6 16.7 1 4 25.0 0 0 - 1 4 5 3 4 0 0 3 0
+p653
+aVDirk Nowitzki DAL 01/04/2012 DAL vs. PHX W 35 20 7 17 41.2 0 0 - 6 7 85.7 1 5 6 7 0 0 3 2 8
+p654
+aVJason Terry DAL 01/02/2012 DAL vs. OKC W 31 15 6 12 50.0 3 5 60.0 0 0 - 0 1 1 3 2 1 1 1 9
+p655
+aVBrian Cardinal DAL 01/02/2012 DAL vs. OKC W 2 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 -1
+p656
+aVDirk Nowitzki DAL 01/02/2012 DAL vs. OKC W 36 26 10 16 62.5 1 5 20.0 5 6 83.3 1 5 6 3 2 0 2 2 24
+p657
+aVLamar Odom DAL 01/02/2012 DAL vs. OKC W 20 8 2 4 50.0 0 1 0.0 4 5 80.0 2 3 5 2 0 0 1 4 6
+p658
+aVShawn Marion DAL 01/02/2012 DAL vs. OKC W 26 17 8 17 47.1 1 2 50.0 0 0 - 1 3 4 1 0 0 0 2 4
+p659
+aVDominique Jones DAL 01/02/2012 DAL vs. OKC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p660
+aVDelonte West DAL 01/02/2012 DAL vs. OKC W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 0 4
+p661
+aVRodrigue Beaubois DAL 01/02/2012 DAL vs. OKC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 0
+p662
+aVIan Mahinmi DAL 01/02/2012 DAL vs. OKC W 21 10 5 8 62.5 0 0 - 0 0 - 4 5 9 0 1 0 1 5 6
+p663
+aVVince Carter DAL 01/02/2012 DAL vs. OKC W 24 14 3 9 33.3 0 0 - 8 9 88.9 0 2 2 3 0 1 1 2 4
+p664
+aVJason Kidd DAL 01/02/2012 DAL vs. OKC W 34 0 0 1 0.0 0 0 - 0 0 - 0 5 5 9 0 0 3 2 2
+p665
+aVBrendan Haywood DAL 01/02/2012 DAL vs. OKC W 26 6 3 6 50.0 0 0 - 0 0 - 3 5 8 0 0 2 0 5 7
+p666
+aVSean Williams DAL 01/01/2012 DAL @ MIN L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p667
+aVIan Mahinmi DAL 01/01/2012 DAL @ MIN L 20 6 2 3 66.7 0 0 - 2 3 66.7 0 4 4 0 0 1 1 4 -6
+p668
+aVRodrigue Beaubois DAL 01/01/2012 DAL @ MIN L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 1 0 1 -5
+p669
+aVDominique Jones DAL 01/01/2012 DAL @ MIN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p670
+aVBrendan Haywood DAL 01/01/2012 DAL @ MIN L 15 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 1 1 3 2 2 4
+p671
+aVJason Terry DAL 01/01/2012 DAL @ MIN L 28 10 4 11 36.4 2 4 50.0 0 0 - 0 4 4 2 2 0 4 1 -18
+p672
+aVDelonte West DAL 01/01/2012 DAL @ MIN L 23 13 6 9 66.7 0 1 0.0 1 1 100.0 0 0 0 2 0 0 2 1 -2
+p673
+aVLamar Odom DAL 01/01/2012 DAL @ MIN L 14 7 2 7 28.6 2 4 50.0 1 4 25.0 1 2 3 2 0 0 2 1 -9
+p674
+aVVince Carter DAL 01/01/2012 DAL @ MIN L 20 6 1 7 14.3 0 1 0.0 4 4 100.0 2 0 2 1 1 1 2 3 4
+p675
+aVBrian Cardinal DAL 01/01/2012 DAL @ MIN L 11 0 0 4 0.0 0 4 0.0 0 0 - 1 1 2 0 0 0 1 1 -10
+p676
+aVJason Kidd DAL 01/01/2012 DAL @ MIN L 35 3 1 5 20.0 1 5 20.0 0 0 - 0 4 4 5 4 0 2 3 -8
+p677
+aVDirk Nowitzki DAL 01/01/2012 DAL @ MIN L 32 21 9 20 45.0 2 3 66.7 1 1 100.0 0 4 4 0 1 0 0 2 -12
+p678
+aVShawn Marion DAL 01/01/2012 DAL @ MIN L 28 8 1 3 33.3 0 1 0.0 6 6 100.0 1 5 6 3 2 3 1 2 -21
+p679
+aVJason Terry DAL 12/30/2011 DAL vs. TOR W 31 17 5 10 50.0 2 6 33.3 5 6 83.3 0 2 2 3 0 0 1 0 19
+p680
+aVDelonte West DAL 12/30/2011 DAL vs. TOR W 16 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 3 1 0 0 1 -6
+p681
+aVShawn Marion DAL 12/30/2011 DAL vs. TOR W 30 12 5 8 62.5 0 0 - 2 3 66.7 0 1 1 2 0 0 0 0 -11
+p682
+aVDominique Jones DAL 12/30/2011 DAL vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p683
+aVVince Carter DAL 12/30/2011 DAL vs. TOR W 19 10 3 7 42.9 1 4 25.0 3 3 100.0 0 2 2 2 1 1 0 2 18
+p684
+aVJason Kidd DAL 12/30/2011 DAL vs. TOR W 31 9 3 8 37.5 3 7 42.9 0 0 - 1 6 7 6 0 0 1 1 1
+p685
+aVRodrigue Beaubois DAL 12/30/2011 DAL vs. TOR W 17 7 2 6 33.3 1 3 33.3 2 2 100.0 0 2 2 1 3 0 3 1 12
+p686
+aVIan Mahinmi DAL 12/30/2011 DAL vs. TOR W 29 19 6 6 100.0 0 0 - 7 11 63.6 1 4 5 0 1 2 1 4 21
+p687
+aVDirk Nowitzki DAL 12/30/2011 DAL vs. TOR W 31 18 7 16 43.8 0 1 0.0 4 5 80.0 0 4 4 4 4 1 2 0 5
+p688
+aVLamar Odom DAL 12/30/2011 DAL vs. TOR W 12 3 0 3 0.0 0 1 0.0 3 4 75.0 0 4 4 0 0 0 1 2 11
+p689
+aVBrian Cardinal DAL 12/30/2011 DAL vs. TOR W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 3
+p690
+aVBrendan Haywood DAL 12/30/2011 DAL vs. TOR W 19 4 1 2 50.0 0 0 - 2 4 50.0 5 4 9 0 0 0 1 2 -8
+p691
+aVIan Mahinmi DAL 12/29/2011 DAL @ OKC L 21 9 3 4 75.0 0 0 - 3 4 75.0 2 0 2 0 1 0 1 4 -14
+p692
+aVDelonte West DAL 12/29/2011 DAL @ OKC L 23 15 5 10 50.0 1 2 50.0 4 4 100.0 1 3 4 6 2 0 1 2 18
+p693
+aVSean Williams DAL 12/29/2011 DAL @ OKC L 4 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -10
+p694
+aVShawn Marion DAL 12/29/2011 DAL @ OKC L 31 8 4 11 36.4 0 2 0.0 0 0 - 4 2 6 1 2 0 1 2 -1
+p695
+aVJason Terry DAL 12/29/2011 DAL @ OKC L 32 16 6 17 35.3 4 8 50.0 0 0 - 0 0 0 9 1 0 0 1 -21
+p696
+aVJason Kidd DAL 12/29/2011 DAL @ OKC L 35 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 3 5 0 3 1 -2
+p697
+aVVince Carter DAL 12/29/2011 DAL @ OKC L 16 8 3 8 37.5 2 3 66.7 0 2 0.0 1 2 3 0 1 0 1 2 3
+p698
+aVBrendan Haywood DAL 12/29/2011 DAL @ OKC L 23 8 4 7 57.1 0 0 - 0 1 0.0 2 3 5 0 1 1 1 3 16
+p699
+aVDirk Nowitzki DAL 12/29/2011 DAL @ OKC L 39 29 9 17 52.9 1 4 25.0 10 10 100.0 2 8 10 4 0 0 4 5 19
+p700
+aVLamar Odom DAL 12/29/2011 DAL @ OKC L 17 4 2 11 18.2 0 4 0.0 0 0 - 0 2 2 2 1 0 0 2 -18
+p701
+aVDelonte West DAL 12/26/2011 DAL vs. DEN L 25 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 4 3 0 1 1 5
+p702
+aVVince Carter DAL 12/26/2011 DAL vs. DEN L 21 11 3 6 50.0 2 3 66.7 3 4 75.0 0 1 1 3 1 1 3 4 -3
+p703
+aVRodrigue Beaubois DAL 12/26/2011 DAL vs. DEN L 15 10 3 5 60.0 2 2 100.0 2 2 100.0 1 1 2 1 2 0 2 4 13
+p704
+aVBrian Cardinal DAL 12/26/2011 DAL vs. DEN L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 2 0 0 3 -5
+p705
+aVSean Williams DAL 12/26/2011 DAL vs. DEN L 11 12 4 4 100.0 0 0 - 4 4 100.0 1 2 3 0 1 1 3 5 15
+p706
+aVBrendan Haywood DAL 12/26/2011 DAL vs. DEN L 22 7 3 5 60.0 0 0 - 1 4 25.0 2 3 5 0 0 0 0 2 -24
+p707
+aVJason Kidd DAL 12/26/2011 DAL vs. DEN L 24 12 4 9 44.4 4 8 50.0 0 0 - 0 3 3 4 0 0 2 2 -27
+p708
+aVJason Terry DAL 12/26/2011 DAL vs. DEN L 26 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 4 2 0 4 2 -23
+p709
+aVLamar Odom DAL 12/26/2011 DAL vs. DEN L 33 6 1 10 10.0 0 5 0.0 4 5 80.0 0 7 7 0 0 1 2 3 -14
+p710
+aVDirk Nowitzki DAL 12/26/2011 DAL vs. DEN L 26 20 7 14 50.0 0 2 0.0 6 6 100.0 0 4 4 0 0 0 1 2 -21
+p711
+aVShawn Marion DAL 12/26/2011 DAL vs. DEN L 23 2 1 5 20.0 0 1 0.0 0 0 - 0 6 6 3 0 0 1 0 -14
+p712
+aVDominique Jones DAL 12/26/2011 DAL vs. DEN L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p713
+aVIan Mahinmi DAL 12/26/2011 DAL vs. DEN L 5 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -6
+p714
+aVDirk Nowitzki DAL 12/25/2011 DAL vs. MIA L 29 21 6 15 40.0 0 0 - 9 10 90.0 1 4 5 3 0 0 2 4 -28
+p715
+aVJason Kidd DAL 12/25/2011 DAL vs. MIA L 28 9 2 5 40.0 2 5 40.0 3 3 100.0 0 0 0 3 2 0 2 2 -26
+p716
+aVBrandan Wright DAL 12/25/2011 DAL vs. MIA L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 9
+p717
+aVVince Carter DAL 12/25/2011 DAL vs. MIA L 21 5 2 6 33.3 1 3 33.3 0 2 0.0 0 2 2 3 0 0 2 3 0
+p718
+aVLamar Odom DAL 12/25/2011 DAL vs. MIA L 13 4 1 6 16.7 1 2 50.0 1 3 33.3 1 3 4 1 1 0 2 4 -11
+p719
+aVJason Terry DAL 12/25/2011 DAL vs. MIA L 29 23 9 18 50.0 4 10 40.0 1 2 50.0 0 1 1 3 2 0 0 2 -1
+p720
+aVIan Mahinmi DAL 12/25/2011 DAL vs. MIA L 15 2 1 3 33.3 0 0 - 0 1 0.0 1 3 4 0 0 0 0 4 6
+p721
+aVRodrigue Beaubois DAL 12/25/2011 DAL vs. MIA L 8 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 3 0 0 0 1 12
+p722
+aVShawn Marion DAL 12/25/2011 DAL vs. MIA L 29 12 6 10 60.0 0 0 - 0 0 - 2 4 6 3 0 0 3 3 -31
+p723
+aVDelonte West DAL 12/25/2011 DAL vs. MIA L 25 10 3 7 42.9 1 3 33.3 3 3 100.0 0 0 0 3 3 0 3 0 -4
+p724
+aVBrendan Haywood DAL 12/25/2011 DAL vs. MIA L 14 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 2 4 -6
+p725
+aVBrian Cardinal DAL 12/25/2011 DAL vs. MIA L 14 4 0 2 0.0 0 2 0.0 4 4 100.0 0 2 2 1 1 0 1 2 16
+p726
+aVDominique Jones DAL 12/25/2011 DAL vs. MIA L 4 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 9
+p727
+a.

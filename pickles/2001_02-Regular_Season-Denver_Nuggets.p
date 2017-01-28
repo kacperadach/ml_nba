@@ -1,0 +1,1678 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChris Andersen DEN 04/17/2002 DEN @ MIN L 24 4 2 6 33.3 0 0 - 0 0 - 4 0 4 1 1 3 1 2 -3
+p2
+aVRyan Bowen DEN 04/17/2002 DEN @ MIN L 12 0 0 3 0.0 0 0 - 0 0 - 1 0 1 3 0 0 0 0 -4
+p3
+aVJames Posey DEN 04/17/2002 DEN @ MIN L 25 9 4 10 40.0 1 4 25.0 0 0 - 0 3 3 2 2 0 0 1 -11
+p4
+aVMengke Bateer DEN 04/17/2002 DEN @ MIN L 27 12 3 11 27.3 2 4 50.0 4 4 100.0 0 3 3 2 3 1 3 3 -2
+p5
+aVKenny Satterfield DEN 04/17/2002 DEN @ MIN L 41 21 9 20 45.0 2 4 50.0 1 2 50.0 1 3 4 6 1 0 4 1 -10
+p6
+aVZendon Hamilton DEN 04/17/2002 DEN @ MIN L 27 16 5 9 55.6 0 0 - 6 8 75.0 2 2 4 1 1 0 1 2 -16
+p7
+aVDonnell Harvey DEN 04/17/2002 DEN @ MIN L 36 12 5 9 55.6 0 0 - 2 3 66.7 6 2 8 1 0 0 1 5 -10
+p8
+aVCarlos Arroyo DEN 04/17/2002 DEN @ MIN L 26 10 5 12 41.7 0 2 0.0 0 0 - 1 1 2 6 2 0 0 1 2
+p9
+aVCalbert Cheaney DEN 04/17/2002 DEN @ MIN L 22 6 3 5 60.0 0 0 - 0 0 - 0 3 3 3 0 0 0 3 -16
+p10
+aVCalbert Cheaney DEN 04/16/2002 DEN vs. HOU W 29 10 5 9 55.6 0 0 - 0 0 - 0 2 2 3 1 1 1 2 10
+p11
+aVChris Andersen DEN 04/16/2002 DEN vs. HOU W 24 9 4 12 33.3 0 1 0.0 1 3 33.3 3 4 7 2 2 4 0 1 11
+p12
+aVDonnell Harvey DEN 04/16/2002 DEN vs. HOU W 34 12 6 10 60.0 0 0 - 0 0 - 1 7 8 1 1 0 0 3 28
+p13
+aVJames Posey DEN 04/16/2002 DEN vs. HOU W 40 26 11 17 64.7 1 4 25.0 3 3 100.0 0 8 8 4 5 0 2 2 32
+p14
+aVZendon Hamilton DEN 04/16/2002 DEN vs. HOU W 23 11 4 11 36.4 0 0 - 3 4 75.0 4 4 8 0 0 3 1 1 7
+p15
+aVKenny Satterfield DEN 04/16/2002 DEN vs. HOU W 31 6 3 11 27.3 0 0 - 0 0 - 1 4 5 12 1 0 1 3 20
+p16
+aVMengke Bateer DEN 04/16/2002 DEN vs. HOU W 18 5 1 5 20.0 0 1 0.0 3 3 100.0 2 4 6 4 0 1 0 3 24
+p17
+aVRyan Bowen DEN 04/16/2002 DEN vs. HOU W 19 10 4 8 50.0 1 1 100.0 1 1 100.0 1 4 5 0 0 0 0 2 6
+p18
+aVCarlos Arroyo DEN 04/16/2002 DEN vs. HOU W 22 12 6 7 85.7 0 0 - 0 0 - 0 1 1 5 1 0 1 1 17
+p19
+aVCalbert Cheaney DEN 04/13/2002 DEN vs. PHX W 35 14 6 9 66.7 0 0 - 2 2 100.0 1 5 6 4 0 1 1 1 10
+p20
+aVKenny Satterfield DEN 04/13/2002 DEN vs. PHX W 19 4 2 4 50.0 0 0 - 0 0 - 0 2 2 7 1 0 3 3 3
+p21
+aVRyan Bowen DEN 04/13/2002 DEN vs. PHX W 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -8
+p22
+aVDonnell Harvey DEN 04/13/2002 DEN vs. PHX W 33 15 6 10 60.0 0 0 - 3 4 75.0 3 7 10 2 1 2 1 3 6
+p23
+aVJames Posey DEN 04/13/2002 DEN vs. PHX W 32 13 4 11 36.4 1 3 33.3 4 7 57.1 1 3 4 1 4 2 2 1 -8
+p24
+aVMengke Bateer DEN 04/13/2002 DEN vs. PHX W 19 9 4 8 50.0 1 2 50.0 0 0 - 3 2 5 1 1 0 2 4 -1
+p25
+aVVoshon Lenard DEN 04/13/2002 DEN vs. PHX W 30 28 9 15 60.0 4 7 57.1 6 6 100.0 0 2 2 2 0 0 1 2 6
+p26
+aVGeorge McCloud DEN 04/13/2002 DEN vs. PHX W 29 7 2 7 28.6 1 3 33.3 2 4 50.0 0 2 2 7 2 1 1 2 1
+p27
+aVZendon Hamilton DEN 04/13/2002 DEN vs. PHX W 25 6 2 6 33.3 0 0 - 2 2 100.0 3 3 6 0 0 1 2 3 11
+p28
+aVKenny Satterfield DEN 04/12/2002 DEN vs. GSW W 17 12 3 4 75.0 0 0 - 6 6 100.0 0 1 1 2 3 0 4 1 -1
+p29
+aVCarlos Arroyo DEN 04/12/2002 DEN vs. GSW W 14 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 5 0 0 1 2 11
+p30
+aVJuwan Howard DEN 04/12/2002 DEN vs. GSW W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 1 0 0 7
+p31
+aVGeorge McCloud DEN 04/12/2002 DEN vs. GSW W 17 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 5 0 0 3 3 0
+p32
+aVRyan Bowen DEN 04/12/2002 DEN vs. GSW W 34 7 3 5 60.0 0 1 0.0 1 1 100.0 0 0 0 2 4 1 0 3 -1
+p33
+aVJames Posey DEN 04/12/2002 DEN vs. GSW W 35 17 6 12 50.0 2 5 40.0 3 7 42.9 1 7 8 6 6 1 3 4 -1
+p34
+aVChris Andersen DEN 04/12/2002 DEN vs. GSW W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 2 0 2 2
+p35
+aVVoshon Lenard DEN 04/12/2002 DEN vs. GSW W 30 12 5 15 33.3 2 6 33.3 0 0 - 0 1 1 2 1 1 2 1 15
+p36
+aVDonnell Harvey DEN 04/12/2002 DEN vs. GSW W 34 14 6 12 50.0 0 0 - 2 2 100.0 3 3 6 2 1 0 2 2 -2
+p37
+aVCalbert Cheaney DEN 04/12/2002 DEN vs. GSW W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 1 0 1 6
+p38
+aVMengke Bateer DEN 04/12/2002 DEN vs. GSW W 17 2 1 2 50.0 0 0 - 0 1 0.0 0 5 5 3 1 0 1 3 -2
+p39
+aVZendon Hamilton DEN 04/12/2002 DEN vs. GSW W 24 14 6 10 60.0 0 0 - 2 4 50.0 2 4 6 0 1 0 3 3 6
+p40
+aVChris Andersen DEN 04/10/2002 DEN @ SAS L 18 11 4 6 66.7 0 0 - 3 3 100.0 3 4 7 0 0 3 1 0 9
+p41
+aVDonnell Harvey DEN 04/10/2002 DEN @ SAS L 32 8 4 9 44.4 0 0 - 0 0 - 2 5 7 2 2 0 0 5 1
+p42
+aVKenny Satterfield DEN 04/10/2002 DEN @ SAS L 22 9 4 8 50.0 1 2 50.0 0 2 0.0 0 0 0 5 0 0 2 2 8
+p43
+aVCarlos Arroyo DEN 04/10/2002 DEN @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p44
+aVCalbert Cheaney DEN 04/10/2002 DEN @ SAS L 24 2 1 6 16.7 0 0 - 0 0 - 0 2 2 3 0 0 1 2 -15
+p45
+aVJames Posey DEN 04/10/2002 DEN @ SAS L 19 8 3 9 33.3 0 3 0.0 2 3 66.7 0 4 4 0 2 0 3 2 -11
+p46
+aVGeorge McCloud DEN 04/10/2002 DEN @ SAS L 27 5 1 7 14.3 0 4 0.0 3 3 100.0 1 2 3 3 1 0 4 3 -17
+p47
+aVMengke Bateer DEN 04/10/2002 DEN @ SAS L 21 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 1 0 2 2 -4
+p48
+aVVoshon Lenard DEN 04/10/2002 DEN @ SAS L 28 9 3 12 25.0 0 3 0.0 3 4 75.0 2 1 3 3 2 1 1 3 6
+p49
+aVZendon Hamilton DEN 04/10/2002 DEN @ SAS L 13 3 0 0 - 0 0 - 3 6 50.0 1 2 3 1 0 0 1 3 4
+p50
+aVJuwan Howard DEN 04/10/2002 DEN @ SAS L 33 19 8 13 61.5 0 0 - 3 3 100.0 2 1 3 2 0 0 2 2 -15
+p51
+aVDonnell Harvey DEN 04/09/2002 DEN @ MEM L 19 8 4 7 57.1 0 0 - 0 0 - 4 6 10 0 0 1 2 5 -3
+p52
+aVGeorge McCloud DEN 04/09/2002 DEN @ MEM L 29 10 3 11 27.3 1 3 33.3 3 5 60.0 2 1 3 5 2 0 3 2 -8
+p53
+aVMengke Bateer DEN 04/09/2002 DEN @ MEM L 14 8 3 6 50.0 0 1 0.0 2 3 66.7 1 1 2 1 1 1 1 4 1
+p54
+aVZendon Hamilton DEN 04/09/2002 DEN @ MEM L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -8
+p55
+aVVoshon Lenard DEN 04/09/2002 DEN @ MEM L 18 12 6 12 50.0 0 3 0.0 0 0 - 1 2 3 1 0 0 0 0 -13
+p56
+aVCalbert Cheaney DEN 04/09/2002 DEN @ MEM L 27 6 3 7 42.9 0 0 - 0 0 - 1 2 3 3 0 1 0 1 -8
+p57
+aVRyan Bowen DEN 04/09/2002 DEN @ MEM L 23 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 1 0 0 2 -8
+p58
+aVChris Andersen DEN 04/09/2002 DEN @ MEM L 12 2 0 5 0.0 0 0 - 2 2 100.0 3 4 7 0 0 5 1 2 7
+p59
+aVJuwan Howard DEN 04/09/2002 DEN @ MEM L 27 18 7 12 58.3 0 0 - 4 4 100.0 2 4 6 2 1 0 5 4 -7
+p60
+aVCarlos Arroyo DEN 04/09/2002 DEN @ MEM L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p61
+aVJames Posey DEN 04/09/2002 DEN @ MEM L 33 8 3 8 37.5 0 3 0.0 2 2 100.0 1 5 6 2 1 0 2 1 -12
+p62
+aVKenny Satterfield DEN 04/09/2002 DEN @ MEM L 23 6 3 9 33.3 0 1 0.0 0 0 - 1 1 2 5 1 0 2 0 -2
+p63
+aVCalbert Cheaney DEN 04/07/2002 DEN @ LAC L 16 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -17
+p64
+aVGeorge McCloud DEN 04/07/2002 DEN @ LAC L 25 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 2 1 0 2 1 -18
+p65
+aVMengke Bateer DEN 04/07/2002 DEN @ LAC L 25 10 5 13 38.5 0 1 0.0 0 0 - 1 2 3 0 0 0 2 4 -14
+p66
+aVKenny Satterfield DEN 04/07/2002 DEN @ LAC L 23 7 3 5 60.0 0 0 - 1 2 50.0 1 0 1 4 2 0 1 1 -4
+p67
+aVDonnell Harvey DEN 04/07/2002 DEN @ LAC L 18 16 8 13 61.5 0 0 - 0 3 0.0 3 0 3 0 1 0 2 1 3
+p68
+aVCarlos Arroyo DEN 04/07/2002 DEN @ LAC L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 4
+p69
+aVVoshon Lenard DEN 04/07/2002 DEN @ LAC L 23 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 3 0 0 1 2 -4
+p70
+aVJames Posey DEN 04/07/2002 DEN @ LAC L 35 18 6 11 54.5 2 6 33.3 4 4 100.0 1 5 6 3 2 0 1 1 -18
+p71
+aVZendon Hamilton DEN 04/07/2002 DEN @ LAC L 17 9 4 10 40.0 0 0 - 1 1 100.0 4 3 7 0 0 0 3 2 -9
+p72
+aVJuwan Howard DEN 04/07/2002 DEN @ LAC L 31 8 4 10 40.0 0 0 - 0 0 - 1 2 3 0 1 1 1 2 -23
+p73
+aVChris Andersen DEN 04/07/2002 DEN @ LAC L 10 0 0 2 0.0 0 0 - 0 0 - 4 0 4 0 0 0 0 1 -2
+p74
+aVRyan Bowen DEN 04/07/2002 DEN @ LAC L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 1 1 1 -8
+p75
+aVZendon Hamilton DEN 04/05/2002 DEN @ GSW L 15 10 4 7 57.1 0 0 - 2 5 40.0 3 0 3 1 1 0 0 0 -9
+p76
+aVCarlos Arroyo DEN 04/05/2002 DEN @ GSW L 9 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 9
+p77
+aVMengke Bateer DEN 04/05/2002 DEN @ GSW L 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 3 1
+p78
+aVGeorge McCloud DEN 04/05/2002 DEN @ GSW L 34 12 5 14 35.7 2 6 33.3 0 0 - 0 9 9 3 1 1 6 6 3
+p79
+aVJuwan Howard DEN 04/05/2002 DEN @ GSW L 33 27 8 19 42.1 0 0 - 11 14 78.6 5 3 8 3 0 2 3 5 5
+p80
+aVVoshon Lenard DEN 04/05/2002 DEN @ GSW L 32 15 5 17 29.4 1 6 16.7 4 5 80.0 0 1 1 1 2 0 2 4 4
+p81
+aVJames Posey DEN 04/05/2002 DEN @ GSW L 20 2 1 7 14.3 0 2 0.0 0 0 - 3 2 5 1 1 0 0 2 -12
+p82
+aVCalbert Cheaney DEN 04/05/2002 DEN @ GSW L 28 10 5 13 38.5 0 0 - 0 0 - 4 3 7 5 2 0 3 4 -1
+p83
+aVChris Andersen DEN 04/05/2002 DEN @ GSW L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 -8
+p84
+aVDonnell Harvey DEN 04/05/2002 DEN @ GSW L 21 7 2 6 33.3 0 0 - 3 4 75.0 7 4 11 1 0 1 0 1 1
+p85
+aVRyan Bowen DEN 04/05/2002 DEN @ GSW L 13 2 1 3 33.3 0 0 - 0 2 0.0 0 3 3 2 2 0 1 0 -6
+p86
+aVKenny Satterfield DEN 04/05/2002 DEN @ GSW L 14 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -7
+p87
+aVDonnell Harvey DEN 04/04/2002 DEN vs. MIN W 21 9 3 4 75.0 0 0 - 3 7 42.9 2 4 6 0 0 2 0 1 5
+p88
+aVCalbert Cheaney DEN 04/04/2002 DEN vs. MIN W 27 8 4 9 44.4 0 0 - 0 0 - 1 2 3 5 0 0 0 2 -1
+p89
+aVVoshon Lenard DEN 04/04/2002 DEN vs. MIN W 26 15 6 15 40.0 3 6 50.0 0 0 - 1 0 1 2 1 0 1 1 3
+p90
+aVMengke Bateer DEN 04/04/2002 DEN vs. MIN W 16 8 4 7 57.1 0 0 - 0 2 0.0 1 1 2 0 0 0 2 5 10
+p91
+aVJames Posey DEN 04/04/2002 DEN vs. MIN W 43 10 3 7 42.9 2 3 66.7 2 2 100.0 1 4 5 6 3 2 2 2 2
+p92
+aVGeorge McCloud DEN 04/04/2002 DEN vs. MIN W 27 8 1 8 12.5 1 3 33.3 5 5 100.0 0 0 0 6 0 0 2 3 -3
+p93
+aVKenny Satterfield DEN 04/04/2002 DEN vs. MIN W 21 6 2 6 33.3 0 2 0.0 2 2 100.0 0 4 4 5 1 0 1 2 4
+p94
+aVRyan Bowen DEN 04/04/2002 DEN vs. MIN W 24 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 0 2 3 -6
+p95
+aVChris Andersen DEN 04/04/2002 DEN vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p96
+aVJuwan Howard DEN 04/04/2002 DEN vs. MIN W 33 20 7 15 46.7 0 0 - 6 8 75.0 4 10 14 0 1 1 2 2 -8
+p97
+aVKenny Satterfield DEN 04/02/2002 DEN vs. UTA W 19 7 2 5 40.0 0 0 - 3 5 60.0 0 0 0 1 1 0 1 3 -1
+p98
+aVMengke Bateer DEN 04/02/2002 DEN vs. UTA W 12 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 0 0 2 5 -5
+p99
+aVChris Andersen DEN 04/02/2002 DEN vs. UTA W 8 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 0 1 0 1 1 9
+p100
+aVGeorge McCloud DEN 04/02/2002 DEN vs. UTA W 29 11 3 6 50.0 1 2 50.0 4 6 66.7 0 2 2 7 0 2 5 5 9
+p101
+aVDonnell Harvey DEN 04/02/2002 DEN vs. UTA W 13 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -8
+p102
+aVVoshon Lenard DEN 04/02/2002 DEN vs. UTA W 27 13 5 12 41.7 3 6 50.0 0 0 - 0 2 2 2 2 2 1 3 2
+p103
+aVCalbert Cheaney DEN 04/02/2002 DEN vs. UTA W 26 17 8 12 66.7 0 0 - 1 1 100.0 0 3 3 2 1 0 2 4 9
+p104
+aVJames Posey DEN 04/02/2002 DEN vs. UTA W 37 11 4 9 44.4 1 1 100.0 2 5 40.0 2 2 4 7 6 1 4 2 11
+p105
+aVZendon Hamilton DEN 04/02/2002 DEN vs. UTA W 10 5 1 3 33.3 0 0 - 3 6 50.0 2 2 4 0 1 0 1 0 9
+p106
+aVRyan Bowen DEN 04/02/2002 DEN vs. UTA W 25 8 2 3 66.7 0 0 - 4 4 100.0 0 4 4 0 2 2 3 1 2
+p107
+aVJuwan Howard DEN 04/02/2002 DEN vs. UTA W 35 20 9 15 60.0 0 0 - 2 2 100.0 1 5 6 2 1 2 2 3 3
+p108
+aVMengke Bateer DEN 03/31/2002 DEN @ DET L 15 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -1
+p109
+aVCarlos Arroyo DEN 03/31/2002 DEN @ DET L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -12
+p110
+aVChris Andersen DEN 03/31/2002 DEN @ DET L 23 2 0 2 0.0 0 0 - 2 2 100.0 1 4 5 0 0 1 2 3 -8
+p111
+aVKenny Satterfield DEN 03/31/2002 DEN @ DET L 37 14 6 14 42.9 1 2 50.0 1 2 50.0 0 2 2 7 1 1 3 4 8
+p112
+aVJuwan Howard DEN 03/31/2002 DEN @ DET L 39 16 8 16 50.0 0 0 - 0 0 - 1 7 8 8 1 0 2 2 9
+p113
+aVCalbert Cheaney DEN 03/31/2002 DEN @ DET L 34 22 10 18 55.6 0 0 - 2 2 100.0 0 2 2 0 1 0 3 5 15
+p114
+aVJames Posey DEN 03/31/2002 DEN @ DET L 14 6 2 6 33.3 2 2 100.0 0 0 - 0 2 2 0 1 0 4 3 -20
+p115
+aVDonnell Harvey DEN 03/31/2002 DEN @ DET L 33 6 2 6 33.3 0 0 - 2 2 100.0 3 7 10 1 0 2 1 1 -5
+p116
+aVZendon Hamilton DEN 03/31/2002 DEN @ DET L 34 8 3 5 60.0 0 0 - 2 3 66.7 4 6 10 0 0 0 2 3 -6
+p117
+aVJuwan Howard DEN 03/30/2002 DEN @ CHI W 38 23 9 16 56.3 0 0 - 5 7 71.4 2 6 8 2 2 1 5 3 17
+p118
+aVKenny Satterfield DEN 03/30/2002 DEN @ CHI W 30 12 6 15 40.0 0 0 - 0 0 - 2 5 7 11 1 0 1 2 17
+p119
+aVRyan Bowen DEN 03/30/2002 DEN @ CHI W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 8
+p120
+aVMengke Bateer DEN 03/30/2002 DEN @ CHI W 29 5 2 7 28.6 0 0 - 1 2 50.0 1 7 8 6 0 0 2 3 11
+p121
+aVVoshon Lenard DEN 03/30/2002 DEN @ CHI W 26 17 6 12 50.0 2 4 50.0 3 6 50.0 1 1 2 5 1 0 2 4 6
+p122
+aVDonnell Harvey DEN 03/30/2002 DEN @ CHI W 23 7 3 4 75.0 0 0 - 1 1 100.0 2 7 9 5 0 0 2 4 1
+p123
+aVCalbert Cheaney DEN 03/30/2002 DEN @ CHI W 39 16 7 11 63.6 0 0 - 2 2 100.0 2 2 4 1 0 0 1 1 20
+p124
+aVCarlos Arroyo DEN 03/30/2002 DEN @ CHI W 18 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -1
+p125
+aVChris Andersen DEN 03/30/2002 DEN @ CHI W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p126
+aVZendon Hamilton DEN 03/30/2002 DEN @ CHI W 21 20 8 10 80.0 0 0 - 4 7 57.1 3 5 8 0 1 2 3 3 4
+p127
+aVCarlos Arroyo DEN 03/28/2002 DEN @ MIL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 0
+p128
+aVMengke Bateer DEN 03/28/2002 DEN @ MIL L 11 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 0 1 0 1 1 0
+p129
+aVChris Andersen DEN 03/28/2002 DEN @ MIL L 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 2 1 3 4
+p130
+aVJuwan Howard DEN 03/28/2002 DEN @ MIL L 38 10 5 14 35.7 0 0 - 0 0 - 6 7 13 3 0 0 3 6 -4
+p131
+aVRyan Bowen DEN 03/28/2002 DEN @ MIL L 36 10 4 8 50.0 0 1 0.0 2 4 50.0 1 6 7 1 2 0 0 1 -3
+p132
+aVKenny Satterfield DEN 03/28/2002 DEN @ MIL L 8 3 1 4 25.0 0 2 0.0 1 1 100.0 0 0 0 1 1 0 1 2 3
+p133
+aVVoshon Lenard DEN 03/28/2002 DEN @ MIL L 28 25 7 16 43.8 4 6 66.7 7 7 100.0 2 2 4 1 3 0 3 4 -4
+p134
+aVDonnell Harvey DEN 03/28/2002 DEN @ MIL L 25 8 4 8 50.0 0 0 - 0 0 - 5 6 11 0 0 0 2 6 -17
+p135
+aVCalbert Cheaney DEN 03/28/2002 DEN @ MIL L 38 15 6 14 42.9 0 0 - 3 3 100.0 2 2 4 7 0 0 0 5 -5
+p136
+aVGeorge McCloud DEN 03/28/2002 DEN @ MIL L 41 11 4 19 21.1 0 5 0.0 3 3 100.0 1 4 5 3 2 0 2 3 -9
+p137
+aVZendon Hamilton DEN 03/26/2002 DEN @ WAS L 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 0 -12
+p138
+aVChris Andersen DEN 03/26/2002 DEN @ WAS L 14 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 2 8
+p139
+aVCalbert Cheaney DEN 03/26/2002 DEN @ WAS L 24 3 1 7 14.3 0 0 - 1 2 50.0 0 2 2 1 0 0 0 3 -9
+p140
+aVMengke Bateer DEN 03/26/2002 DEN @ WAS L 23 9 2 10 20.0 0 1 0.0 5 5 100.0 5 2 7 0 0 1 1 4 1
+p141
+aVJuwan Howard DEN 03/26/2002 DEN @ WAS L 30 17 5 12 41.7 0 0 - 7 9 77.8 3 4 7 2 0 0 7 4 -20
+p142
+aVDonnell Harvey DEN 03/26/2002 DEN @ WAS L 27 18 6 8 75.0 0 0 - 6 8 75.0 1 6 7 0 0 0 1 3 -12
+p143
+aVKenny Satterfield DEN 03/26/2002 DEN @ WAS L 26 12 5 12 41.7 0 0 - 2 2 100.0 2 3 5 6 2 0 1 2 -9
+p144
+aVVoshon Lenard DEN 03/26/2002 DEN @ WAS L 37 16 6 11 54.5 2 5 40.0 2 2 100.0 0 3 3 4 2 2 3 3 -5
+p145
+aVRyan Bowen DEN 03/26/2002 DEN @ WAS L 25 2 0 0 - 0 0 - 2 2 100.0 0 5 5 1 3 0 1 3 -10
+p146
+aVGeorge McCloud DEN 03/26/2002 DEN @ WAS L 27 3 1 6 16.7 0 3 0.0 1 2 50.0 0 0 0 4 1 0 5 2 -12
+p147
+aVVoshon Lenard DEN 03/25/2002 DEN @ NYK W 26 21 8 15 53.3 5 7 71.4 0 0 - 0 3 3 4 0 0 3 2 10
+p148
+aVJuwan Howard DEN 03/25/2002 DEN @ NYK W 36 20 7 18 38.9 0 0 - 6 10 60.0 6 6 12 1 1 0 2 3 -5
+p149
+aVRyan Bowen DEN 03/25/2002 DEN @ NYK W 33 6 3 6 50.0 0 0 - 0 0 - 3 4 7 0 0 1 1 3 3
+p150
+aVCalbert Cheaney DEN 03/25/2002 DEN @ NYK W 40 6 2 10 20.0 0 1 0.0 2 3 66.7 1 9 10 1 2 0 1 3 -1
+p151
+aVGeorge McCloud DEN 03/25/2002 DEN @ NYK W 41 8 3 13 23.1 1 5 20.0 1 2 50.0 0 3 3 8 2 0 3 3 -1
+p152
+aVKenny Satterfield DEN 03/25/2002 DEN @ NYK W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 3 2 -3
+p153
+aVDonnell Harvey DEN 03/25/2002 DEN @ NYK W 27 10 3 7 42.9 0 0 - 4 5 80.0 3 2 5 1 1 0 0 3 4
+p154
+aVChris Andersen DEN 03/25/2002 DEN @ NYK W 9 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 15
+p155
+aVZendon Hamilton DEN 03/25/2002 DEN @ NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p156
+aVMengke Bateer DEN 03/25/2002 DEN @ NYK W 17 7 3 6 50.0 0 0 - 1 1 100.0 2 6 8 2 0 0 4 3 -8
+p157
+aVTim Hardaway DEN 03/23/2002 DEN vs. SEA W 9 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 2
+p158
+aVJuwan Howard DEN 03/23/2002 DEN vs. SEA W 37 22 9 18 50.0 0 0 - 4 7 57.1 5 5 10 5 0 0 2 3 2
+p159
+aVRyan Bowen DEN 03/23/2002 DEN vs. SEA W 40 8 3 5 60.0 0 0 - 2 2 100.0 3 4 7 1 1 2 0 3 7
+p160
+aVCalbert Cheaney DEN 03/23/2002 DEN vs. SEA W 37 4 2 11 18.2 0 0 - 0 0 - 0 6 6 4 1 0 1 2 0
+p161
+aVZendon Hamilton DEN 03/23/2002 DEN vs. SEA W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 1 1
+p162
+aVCarlos Arroyo DEN 03/23/2002 DEN vs. SEA W 10 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 0 1 0 1 -8
+p163
+aVGeorge McCloud DEN 03/23/2002 DEN vs. SEA W 41 16 6 11 54.5 1 4 25.0 3 4 75.0 2 4 6 3 0 0 8 2 6
+p164
+aVVoshon Lenard DEN 03/23/2002 DEN vs. SEA W 35 24 10 20 50.0 4 7 57.1 0 0 - 0 4 4 4 1 0 4 4 5
+p165
+aVDonnell Harvey DEN 03/23/2002 DEN vs. SEA W 20 5 2 5 40.0 0 0 - 1 3 33.3 3 6 9 2 1 2 0 4 0
+p166
+aVMengke Bateer DEN 03/21/2002 DEN @ SAC L 11 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 0 6 -11
+p167
+aVZendon Hamilton DEN 03/21/2002 DEN @ SAC L 21 14 3 7 42.9 0 0 - 8 11 72.7 2 2 4 0 0 0 0 1 -13
+p168
+aVChris Andersen DEN 03/21/2002 DEN @ SAC L 18 3 1 4 25.0 0 1 0.0 1 2 50.0 1 4 5 1 0 4 1 1 -12
+p169
+aVKenny Satterfield DEN 03/21/2002 DEN @ SAC L 13 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -10
+p170
+aVCarlos Arroyo DEN 03/21/2002 DEN @ SAC L 24 10 4 12 33.3 0 0 - 2 2 100.0 0 2 2 3 0 0 0 3 -4
+p171
+aVVoshon Lenard DEN 03/21/2002 DEN @ SAC L 17 6 3 12 25.0 0 1 0.0 0 0 - 2 3 5 0 1 0 1 0 -23
+p172
+aVCalbert Cheaney DEN 03/21/2002 DEN @ SAC L 33 10 5 11 45.5 0 0 - 0 0 - 3 4 7 1 2 0 3 2 -24
+p173
+aVDonnell Harvey DEN 03/21/2002 DEN @ SAC L 17 8 2 6 33.3 0 0 - 4 4 100.0 2 2 4 0 0 0 2 5 -19
+p174
+aVRyan Bowen DEN 03/21/2002 DEN @ SAC L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -4
+p175
+aVTim Hardaway DEN 03/21/2002 DEN @ SAC L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 3 2 0 4 1 -17
+p176
+aVJuwan Howard DEN 03/21/2002 DEN @ SAC L 29 9 3 13 23.1 0 0 - 3 6 50.0 6 1 7 6 0 0 2 2 -17
+p177
+aVGeorge McCloud DEN 03/21/2002 DEN @ SAC L 29 15 5 12 41.7 1 6 16.7 4 4 100.0 1 3 4 2 2 0 3 0 -26
+p178
+aVJuwan Howard DEN 03/20/2002 DEN vs. WAS L 22 6 1 6 16.7 0 0 - 4 4 100.0 2 3 5 0 0 1 2 1 -28
+p179
+aVMengke Bateer DEN 03/20/2002 DEN vs. WAS L 18 5 2 7 28.6 0 0 - 1 2 50.0 0 6 6 1 0 0 0 3 -5
+p180
+aVAntonio McDyess DEN 03/20/2002 DEN vs. WAS L 22 16 6 11 54.5 0 0 - 4 5 80.0 2 8 10 0 0 1 3 2 -21
+p181
+aVDonnell Harvey DEN 03/20/2002 DEN vs. WAS L 22 10 4 10 40.0 0 0 - 2 2 100.0 1 3 4 3 1 2 3 2 1
+p182
+aVVoshon Lenard DEN 03/20/2002 DEN vs. WAS L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p183
+aVCalbert Cheaney DEN 03/20/2002 DEN vs. WAS L 26 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 2 0 0 2 5 -19
+p184
+aVCarlos Arroyo DEN 03/20/2002 DEN vs. WAS L 22 4 2 6 33.3 0 0 - 0 0 - 0 1 1 4 0 0 1 0 2
+p185
+aVTim Hardaway DEN 03/20/2002 DEN vs. WAS L 18 2 1 5 20.0 0 0 - 0 0 - 0 1 1 7 1 0 4 1 -29
+p186
+aVZendon Hamilton DEN 03/20/2002 DEN vs. WAS L 16 10 3 6 50.0 0 0 - 4 7 57.1 3 4 7 0 2 0 1 0 -3
+p187
+aVRyan Bowen DEN 03/20/2002 DEN vs. WAS L 14 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -18
+p188
+aVGeorge McCloud DEN 03/20/2002 DEN vs. WAS L 29 5 1 5 20.0 0 2 0.0 3 4 75.0 0 0 0 3 0 1 1 3 -28
+p189
+aVKenny Satterfield DEN 03/20/2002 DEN vs. WAS L 26 9 2 8 25.0 0 0 - 5 5 100.0 0 1 1 3 1 0 3 0 -2
+p190
+aVVoshon Lenard DEN 03/18/2002 DEN vs. DET L 28 18 8 16 50.0 0 1 0.0 2 2 100.0 1 3 4 5 0 1 2 2 9
+p191
+aVAntonio McDyess DEN 03/18/2002 DEN vs. DET L 25 1 0 2 0.0 0 0 - 1 2 50.0 1 7 8 2 1 1 3 3 -12
+p192
+aVRyan Bowen DEN 03/18/2002 DEN vs. DET L 21 7 3 5 60.0 0 1 0.0 1 1 100.0 0 3 3 0 1 0 2 3 8
+p193
+aVDonnell Harvey DEN 03/18/2002 DEN vs. DET L 23 12 6 7 85.7 0 0 - 0 1 0.0 2 5 7 0 0 0 0 4 15
+p194
+aVGeorge McCloud DEN 03/18/2002 DEN vs. DET L 40 12 2 9 22.2 0 1 0.0 8 8 100.0 2 2 4 8 1 1 3 2 -13
+p195
+aVCalbert Cheaney DEN 03/18/2002 DEN vs. DET L 29 11 5 9 55.6 0 1 0.0 1 2 50.0 0 1 1 1 1 0 0 3 -24
+p196
+aVCarlos Arroyo DEN 03/18/2002 DEN vs. DET L 25 6 3 6 50.0 0 0 - 0 0 - 0 0 0 8 1 0 2 1 -6
+p197
+aVJuwan Howard DEN 03/18/2002 DEN vs. DET L 37 18 7 16 43.8 0 0 - 4 4 100.0 1 8 9 2 0 1 4 2 -17
+p198
+aVMengke Bateer DEN 03/18/2002 DEN vs. DET L 12 6 2 2 100.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 5 5
+p199
+aVJuwan Howard DEN 03/16/2002 DEN @ MIA L 31 17 5 11 45.5 0 0 - 7 10 70.0 2 4 6 0 0 0 3 4 -12
+p200
+aVCalbert Cheaney DEN 03/16/2002 DEN @ MIA L 38 20 8 14 57.1 0 0 - 4 5 80.0 1 3 4 1 3 0 0 2 -29
+p201
+aVRyan Bowen DEN 03/16/2002 DEN @ MIA L 27 5 1 4 25.0 0 0 - 3 4 75.0 0 2 2 0 3 0 0 3 -5
+p202
+aVMengke Bateer DEN 03/16/2002 DEN @ MIA L 21 4 2 7 28.6 0 0 - 0 0 - 4 3 7 0 0 1 2 6 -16
+p203
+aVKenny Satterfield DEN 03/16/2002 DEN @ MIA L 8 1 0 3 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 1 0 -7
+p204
+aVCarlos Arroyo DEN 03/16/2002 DEN @ MIA L 24 5 1 5 20.0 0 0 - 3 4 75.0 1 1 2 1 0 0 1 1 -6
+p205
+aVZendon Hamilton DEN 03/16/2002 DEN @ MIA L 35 10 3 10 30.0 0 0 - 4 10 40.0 5 6 11 0 1 0 3 4 -12
+p206
+aVVoshon Lenard DEN 03/16/2002 DEN @ MIA L 25 7 3 10 30.0 0 2 0.0 1 2 50.0 1 1 2 2 1 0 0 1 -23
+p207
+aVGeorge McCloud DEN 03/16/2002 DEN @ MIA L 33 7 3 10 30.0 0 5 0.0 1 2 50.0 1 3 4 4 0 1 3 2 -15
+p208
+aVZendon Hamilton DEN 03/15/2002 DEN @ ORL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p209
+aVJames Posey DEN 03/15/2002 DEN @ ORL L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 2 -3
+p210
+aVAntonio McDyess DEN 03/15/2002 DEN @ ORL L 27 18 8 11 72.7 0 0 - 2 3 66.7 2 2 4 3 1 0 5 2 -5
+p211
+aVMengke Bateer DEN 03/15/2002 DEN @ ORL L 17 7 3 7 42.9 0 0 - 1 2 50.0 1 4 5 1 0 0 2 3 -10
+p212
+aVCarlos Arroyo DEN 03/15/2002 DEN @ ORL L 27 11 5 8 62.5 0 0 - 1 2 50.0 1 3 4 5 1 0 1 5 0
+p213
+aVCalbert Cheaney DEN 03/15/2002 DEN @ ORL L 19 10 4 8 50.0 0 0 - 2 2 100.0 3 1 4 0 0 0 2 3 -18
+p214
+aVRyan Bowen DEN 03/15/2002 DEN @ ORL L 13 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 1 2 0 1 1 -5
+p215
+aVTim Hardaway DEN 03/15/2002 DEN @ ORL L 17 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 6 2 0 2 2 -15
+p216
+aVJuwan Howard DEN 03/15/2002 DEN @ ORL L 31 20 9 16 56.3 0 0 - 2 3 66.7 3 8 11 3 0 0 4 4 -7
+p217
+aVDonnell Harvey DEN 03/15/2002 DEN @ ORL L 23 13 4 6 66.7 0 0 - 5 7 71.4 0 3 3 1 2 0 0 1 -17
+p218
+aVGeorge McCloud DEN 03/15/2002 DEN @ ORL L 29 9 3 8 37.5 1 3 33.3 2 2 100.0 1 5 6 4 0 0 6 1 -17
+p219
+aVVoshon Lenard DEN 03/15/2002 DEN @ ORL L 21 9 4 12 33.3 1 2 50.0 0 0 - 1 0 1 1 0 0 2 4 -13
+p220
+aVJames Posey DEN 03/13/2002 DEN @ ATL L 9 2 1 2 50.0 0 0 - 0 1 0.0 1 2 3 0 0 0 2 1 -5
+p221
+aVTim Hardaway DEN 03/13/2002 DEN @ ATL L 31 20 7 17 41.2 5 12 41.7 1 5 20.0 0 4 4 4 2 0 3 2 1
+p222
+aVGeorge McCloud DEN 03/13/2002 DEN @ ATL L 34 19 7 16 43.8 2 8 25.0 3 3 100.0 0 4 4 7 0 1 3 3 7
+p223
+aVDonnell Harvey DEN 03/13/2002 DEN @ ATL L 15 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 1 1 2 -6
+p224
+aVCarlos Arroyo DEN 03/13/2002 DEN @ ATL L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -1
+p225
+aVCalbert Cheaney DEN 03/13/2002 DEN @ ATL L 31 15 6 12 50.0 0 0 - 3 3 100.0 5 5 10 3 1 0 2 4 -8
+p226
+aVRyan Bowen DEN 03/13/2002 DEN @ ATL L 24 6 3 5 60.0 0 2 0.0 0 0 - 3 1 4 0 0 1 1 0 5
+p227
+aVJuwan Howard DEN 03/13/2002 DEN @ ATL L 41 14 6 16 37.5 0 0 - 2 2 100.0 5 6 11 2 2 0 2 6 7
+p228
+aVAntonio McDyess DEN 03/13/2002 DEN @ ATL L 36 16 6 8 75.0 0 0 - 4 4 100.0 3 5 8 6 2 1 3 4 -3
+p229
+aVVoshon Lenard DEN 03/13/2002 DEN @ ATL L 13 0 0 7 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 1 -12
+p230
+aVMengke Bateer DEN 03/13/2002 DEN @ ATL L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p231
+aVJames Posey DEN 03/11/2002 DEN vs. SAS L 16 2 0 3 0.0 0 2 0.0 2 2 100.0 0 2 2 1 0 0 0 3 -11
+p232
+aVCalbert Cheaney DEN 03/11/2002 DEN vs. SAS L 21 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 0 0 2 5 -11
+p233
+aVMengke Bateer DEN 03/11/2002 DEN vs. SAS L 9 7 2 4 50.0 0 0 - 3 3 100.0 1 2 3 0 0 0 0 3 -12
+p234
+aVJuwan Howard DEN 03/11/2002 DEN vs. SAS L 40 14 7 20 35.0 0 0 - 0 0 - 3 4 7 1 1 1 0 3 -6
+p235
+aVGeorge McCloud DEN 03/11/2002 DEN vs. SAS L 29 5 2 6 33.3 0 2 0.0 1 1 100.0 0 3 3 11 1 0 0 3 -11
+p236
+aVTim Hardaway DEN 03/11/2002 DEN vs. SAS L 24 3 1 9 11.1 1 5 20.0 0 0 - 0 3 3 3 0 1 4 0 -5
+p237
+aVRyan Bowen DEN 03/11/2002 DEN vs. SAS L 23 8 4 7 57.1 0 0 - 0 1 0.0 3 0 3 0 2 1 1 1 -3
+p238
+aVZendon Hamilton DEN 03/11/2002 DEN vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p239
+aVVoshon Lenard DEN 03/11/2002 DEN vs. SAS L 27 10 3 10 30.0 0 4 0.0 4 6 66.7 0 2 2 4 1 0 4 1 -2
+p240
+aVDonnell Harvey DEN 03/11/2002 DEN vs. SAS L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 4 -14
+p241
+aVCarlos Arroyo DEN 03/11/2002 DEN vs. SAS L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 -2
+p242
+aVAntonio McDyess DEN 03/11/2002 DEN vs. SAS L 28 19 8 9 88.9 0 0 - 3 3 100.0 0 4 4 1 1 1 1 2 1
+p243
+aVCalbert Cheaney DEN 03/09/2002 DEN vs. POR W 22 10 4 6 66.7 0 0 - 2 4 50.0 0 2 2 2 0 0 2 0 -20
+p244
+aVCarlos Arroyo DEN 03/09/2002 DEN vs. POR W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p245
+aVDonnell Harvey DEN 03/09/2002 DEN vs. POR W 20 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 3 1 0 2 4 12
+p246
+aVGeorge McCloud DEN 03/09/2002 DEN vs. POR W 34 26 11 14 78.6 4 4 100.0 0 0 - 1 2 3 6 1 1 2 6 19
+p247
+aVAntonio McDyess DEN 03/09/2002 DEN vs. POR W 24 8 3 9 33.3 0 0 - 2 2 100.0 1 2 3 1 0 0 2 2 -23
+p248
+aVJuwan Howard DEN 03/09/2002 DEN vs. POR W 49 22 9 25 36.0 0 0 - 4 6 66.7 5 7 12 4 2 1 4 4 4
+p249
+aVTim Hardaway DEN 03/09/2002 DEN vs. POR W 25 9 3 7 42.9 2 6 33.3 1 2 50.0 0 3 3 8 0 0 2 4 -12
+p250
+aVVoshon Lenard DEN 03/09/2002 DEN vs. POR W 27 12 4 11 36.4 2 4 50.0 2 2 100.0 0 3 3 2 2 0 0 2 -9
+p251
+aVRyan Bowen DEN 03/09/2002 DEN vs. POR W 26 6 3 5 60.0 0 0 - 0 0 - 0 4 4 3 5 1 1 2 25
+p252
+aVJames Posey DEN 03/09/2002 DEN vs. POR W 31 14 4 12 33.3 2 4 50.0 4 4 100.0 2 3 5 3 2 2 0 4 22
+p253
+aVGeorge McCloud DEN 03/07/2002 DEN vs. NYK W 23 10 4 10 40.0 1 5 20.0 1 2 50.0 0 2 2 10 2 0 1 1 16
+p254
+aVZendon Hamilton DEN 03/07/2002 DEN vs. NYK W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -4
+p255
+aVCalbert Cheaney DEN 03/07/2002 DEN vs. NYK W 36 10 4 6 66.7 0 0 - 2 3 66.7 0 6 6 2 0 0 4 3 9
+p256
+aVRyan Bowen DEN 03/07/2002 DEN vs. NYK W 24 7 3 3 100.0 0 0 - 1 1 100.0 0 1 1 0 1 0 0 2 5
+p257
+aVCarlos Arroyo DEN 03/07/2002 DEN vs. NYK W 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p258
+aVJames Posey DEN 03/07/2002 DEN vs. NYK W 27 20 8 9 88.9 1 2 50.0 3 3 100.0 0 5 5 3 2 2 2 4 14
+p259
+aVMengke Bateer DEN 03/07/2002 DEN vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -5
+p260
+aVDonnell Harvey DEN 03/07/2002 DEN vs. NYK W 20 5 2 6 33.3 0 0 - 1 2 50.0 2 4 6 0 1 0 0 3 17
+p261
+aVJuwan Howard DEN 03/07/2002 DEN vs. NYK W 44 30 12 19 63.2 0 0 - 6 6 100.0 2 5 7 9 1 0 3 5 14
+p262
+aVAntonio McDyess DEN 03/07/2002 DEN vs. NYK W 8 2 0 1 0.0 0 0 - 2 4 50.0 0 0 0 0 0 0 0 0 -1
+p263
+aVTim Hardaway DEN 03/07/2002 DEN vs. NYK W 21 9 3 9 33.3 3 6 50.0 0 0 - 0 0 0 9 2 0 1 1 0
+p264
+aVVoshon Lenard DEN 03/07/2002 DEN vs. NYK W 21 8 4 7 57.1 0 0 - 0 0 - 1 4 5 1 0 0 0 2 -3
+p265
+aVVoshon Lenard DEN 03/04/2002 DEN @ UTA L 36 20 7 14 50.0 1 3 33.3 5 7 71.4 0 2 2 3 1 0 4 3 -13
+p266
+aVDonnell Harvey DEN 03/04/2002 DEN @ UTA L 22 6 3 5 60.0 0 0 - 0 0 - 5 3 8 0 1 1 0 2 -11
+p267
+aVJuwan Howard DEN 03/04/2002 DEN @ UTA L 36 8 3 12 25.0 0 0 - 2 4 50.0 6 6 12 2 0 0 5 3 -14
+p268
+aVGeorge McCloud DEN 03/04/2002 DEN @ UTA L 18 3 1 8 12.5 0 4 0.0 1 1 100.0 0 1 1 2 0 0 2 5 1
+p269
+aVRyan Bowen DEN 03/04/2002 DEN @ UTA L 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -8
+p270
+aVTim Hardaway DEN 03/04/2002 DEN @ UTA L 17 8 2 4 50.0 2 3 66.7 2 2 100.0 0 1 1 2 1 0 5 4 -13
+p271
+aVMengke Bateer DEN 03/04/2002 DEN @ UTA L 12 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 5 2
+p272
+aVJames Posey DEN 03/04/2002 DEN @ UTA L 21 9 1 7 14.3 0 3 0.0 7 8 87.5 2 1 3 1 4 0 2 6 -10
+p273
+aVAntonio McDyess DEN 03/04/2002 DEN @ UTA L 22 10 5 9 55.6 0 0 - 0 0 - 2 4 6 3 4 2 2 2 -7
+p274
+aVKenny Satterfield DEN 03/04/2002 DEN @ UTA L 19 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 2 -11
+p275
+aVZendon Hamilton DEN 03/04/2002 DEN @ UTA L 8 4 1 2 50.0 0 0 - 2 3 66.7 0 1 1 0 0 0 0 1 -3
+p276
+aVCalbert Cheaney DEN 03/04/2002 DEN @ UTA L 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p277
+aVAntonio McDyess DEN 03/03/2002 DEN vs. DAL L 25 16 4 9 44.4 0 0 - 8 8 100.0 5 4 9 1 1 1 0 2 -3
+p278
+aVDonnell Harvey DEN 03/03/2002 DEN vs. DAL L 28 7 3 5 60.0 0 0 - 1 3 33.3 2 10 12 1 1 0 1 5 6
+p279
+aVGeorge McCloud DEN 03/03/2002 DEN vs. DAL L 33 20 6 11 54.5 3 6 50.0 5 6 83.3 1 4 5 7 0 0 0 4 12
+p280
+aVMengke Bateer DEN 03/03/2002 DEN vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p281
+aVVoshon Lenard DEN 03/03/2002 DEN vs. DAL L 20 6 3 10 30.0 0 3 0.0 0 0 - 0 4 4 1 0 0 0 1 -24
+p282
+aVTim Hardaway DEN 03/03/2002 DEN vs. DAL L 36 16 7 14 50.0 2 7 28.6 0 0 - 0 1 1 9 1 0 5 3 -17
+p283
+aVJames Posey DEN 03/03/2002 DEN vs. DAL L 12 4 2 10 20.0 0 3 0.0 0 0 - 0 4 4 3 0 0 2 4 5
+p284
+aVCalbert Cheaney DEN 03/03/2002 DEN vs. DAL L 26 9 4 10 40.0 0 0 - 1 2 50.0 0 2 2 2 0 1 1 0 -13
+p285
+aVRyan Bowen DEN 03/03/2002 DEN vs. DAL L 32 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 1 3 0 1 19
+p286
+aVJuwan Howard DEN 03/03/2002 DEN vs. DAL L 50 30 8 20 40.0 0 0 - 14 17 82.4 4 6 10 5 0 0 3 5 -10
+p287
+aVMengke Bateer DEN 03/01/2002 DEN vs. MEM W 8 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 0 0 1 6 -1
+p288
+aVJames Posey DEN 03/01/2002 DEN vs. MEM W 26 12 4 8 50.0 1 4 25.0 3 4 75.0 1 4 5 1 2 0 1 1 4
+p289
+aVVoshon Lenard DEN 03/01/2002 DEN vs. MEM W 10 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 2 -1
+p290
+aVTim Hardaway DEN 03/01/2002 DEN vs. MEM W 25 22 7 11 63.6 3 6 50.0 5 5 100.0 0 2 2 3 1 0 2 1 18
+p291
+aVKenny Satterfield DEN 03/01/2002 DEN vs. MEM W 8 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -12
+p292
+aVRyan Bowen DEN 03/01/2002 DEN vs. MEM W 24 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 2 0 0 3 25
+p293
+aVCalbert Cheaney DEN 03/01/2002 DEN vs. MEM W 36 11 5 10 50.0 0 0 - 1 1 100.0 0 1 1 1 1 0 4 4 -2
+p294
+aVJuwan Howard DEN 03/01/2002 DEN vs. MEM W 34 24 8 14 57.1 0 0 - 8 9 88.9 3 6 9 3 2 1 2 3 19
+p295
+aVZendon Hamilton DEN 03/01/2002 DEN vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p296
+aVGeorge McCloud DEN 03/01/2002 DEN vs. MEM W 19 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 5 0 0 2 3 4
+p297
+aVDonnell Harvey DEN 03/01/2002 DEN vs. MEM W 28 5 2 8 25.0 0 0 - 1 1 100.0 2 2 4 0 2 2 1 5 10
+p298
+aVAntonio McDyess DEN 03/01/2002 DEN vs. MEM W 19 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 1 0 1 1 1 8
+p299
+aVJames Posey DEN 02/27/2002 DEN @ GSW L 36 10 3 12 25.0 0 2 0.0 4 5 80.0 5 0 5 1 5 0 1 1 -20
+p300
+aVTim Hardaway DEN 02/27/2002 DEN @ GSW L 28 18 6 16 37.5 5 11 45.5 1 2 50.0 1 2 3 6 1 0 1 3 -10
+p301
+aVScott Williams DEN 02/27/2002 DEN @ GSW L 21 0 0 1 0.0 0 0 - 0 2 0.0 4 2 6 1 0 2 1 4 -4
+p302
+aVKenny Satterfield DEN 02/27/2002 DEN @ GSW L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 2 0 3 1 -11
+p303
+aVJuwan Howard DEN 02/27/2002 DEN @ GSW L 39 21 8 23 34.8 0 1 0.0 5 8 62.5 1 6 7 3 1 2 1 6 -13
+p304
+aVZendon Hamilton DEN 02/27/2002 DEN @ GSW L 11 4 1 4 25.0 0 0 - 2 2 100.0 3 0 3 0 0 1 0 3 -7
+p305
+aVCalbert Cheaney DEN 02/27/2002 DEN @ GSW L 24 14 7 11 63.6 0 0 - 0 1 0.0 1 2 3 1 3 0 2 6 -11
+p306
+aVGeorge McCloud DEN 02/27/2002 DEN @ GSW L 31 13 4 12 33.3 0 5 0.0 5 6 83.3 3 3 6 3 2 2 5 3 -3
+p307
+aVRyan Bowen DEN 02/27/2002 DEN @ GSW L 14 7 2 5 40.0 0 1 0.0 3 4 75.0 2 1 3 2 0 0 0 2 5
+p308
+aVMengke Bateer DEN 02/27/2002 DEN @ GSW L 14 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 1 0 1 5 -7
+p309
+aVVoshon Lenard DEN 02/27/2002 DEN @ GSW L 12 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 0 0 0 1 0 -4
+p310
+aVVoshon Lenard DEN 02/24/2002 DEN vs. ATL L 31 13 5 12 41.7 3 5 60.0 0 0 - 2 0 2 1 2 0 0 1 -2
+p311
+aVTim Hardaway DEN 02/24/2002 DEN vs. ATL L 33 6 2 14 14.3 1 8 12.5 1 2 50.0 0 2 2 10 4 1 3 0 -15
+p312
+aVJames Posey DEN 02/24/2002 DEN vs. ATL L 40 20 7 15 46.7 1 4 25.0 5 7 71.4 4 10 14 3 0 2 6 2 -5
+p313
+aVDonnell Harvey DEN 02/24/2002 DEN vs. ATL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -4
+p314
+aVRyan Bowen DEN 02/24/2002 DEN vs. ATL L 20 3 1 5 20.0 0 0 - 1 2 50.0 5 1 6 1 1 1 0 1 14
+p315
+aVKenny Satterfield DEN 02/24/2002 DEN vs. ATL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 2
+p316
+aVJuwan Howard DEN 02/24/2002 DEN vs. ATL L 42 28 12 16 75.0 0 0 - 4 4 100.0 2 2 4 1 1 1 0 5 -7
+p317
+aVScott Williams DEN 02/24/2002 DEN vs. ATL L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 2 0 3 -6
+p318
+aVGeorge McCloud DEN 02/24/2002 DEN vs. ATL L 27 6 2 10 20.0 0 4 0.0 2 3 66.7 1 3 4 4 1 0 2 2 4
+p319
+aVZendon Hamilton DEN 02/24/2002 DEN vs. ATL L 6 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 1 2
+p320
+aVCalbert Cheaney DEN 02/24/2002 DEN vs. ATL L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -8
+p321
+aVKenny Satterfield DEN 02/23/2002 DEN @ POR L 17 5 2 6 33.3 0 1 0.0 1 2 50.0 1 1 2 3 2 0 2 1 -4
+p322
+aVGeorge McCloud DEN 02/23/2002 DEN @ POR L 29 20 5 9 55.6 3 5 60.0 7 8 87.5 1 1 2 3 1 0 1 1 -6
+p323
+aVJuwan Howard DEN 02/23/2002 DEN @ POR L 35 16 6 12 50.0 0 0 - 4 5 80.0 2 4 6 4 0 1 3 3 -6
+p324
+aVCalbert Cheaney DEN 02/23/2002 DEN @ POR L 26 7 3 6 50.0 0 0 - 1 2 50.0 0 5 5 1 0 1 0 1 -8
+p325
+aVVoshon Lenard DEN 02/23/2002 DEN @ POR L 26 5 2 12 16.7 1 6 16.7 0 0 - 1 2 3 2 0 0 1 3 -6
+p326
+aVTim Hardaway DEN 02/23/2002 DEN @ POR L 26 11 4 9 44.4 2 5 40.0 1 1 100.0 0 2 2 5 0 0 2 3 -8
+p327
+aVDonnell Harvey DEN 02/23/2002 DEN @ POR L 27 3 1 7 14.3 0 0 - 1 4 25.0 3 2 5 4 0 1 0 2 7
+p328
+aVZendon Hamilton DEN 02/23/2002 DEN @ POR L 15 7 2 4 50.0 0 0 - 3 4 75.0 2 2 4 0 1 0 1 4 -6
+p329
+aVJames Posey DEN 02/23/2002 DEN @ POR L 24 8 2 8 25.0 1 3 33.3 3 5 60.0 0 6 6 3 0 1 0 4 -4
+p330
+aVScott Williams DEN 02/23/2002 DEN @ POR L 15 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 0 0 2 3 -14
+p331
+aVRaef LaFrentz DEN 02/20/2002 DEN vs. UTA L 39 17 6 14 42.9 2 6 33.3 3 4 75.0 2 9 11 2 0 5 1 4 -7
+p332
+aVCalbert Cheaney DEN 02/20/2002 DEN vs. UTA L 28 12 4 8 50.0 0 0 - 4 4 100.0 1 2 3 0 0 0 2 4 -7
+p333
+aVScott Williams DEN 02/20/2002 DEN vs. UTA L 22 4 2 5 40.0 0 0 - 0 0 - 5 5 10 1 0 1 2 3 -14
+p334
+aVZendon Hamilton DEN 02/20/2002 DEN vs. UTA L 11 8 2 3 66.7 0 0 - 4 4 100.0 3 2 5 1 1 0 1 4 -3
+p335
+aVTariq Abdul-Wahad DEN 02/20/2002 DEN vs. UTA L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 0 2 0 -10
+p336
+aVVoshon Lenard DEN 02/20/2002 DEN vs. UTA L 24 16 5 12 41.7 3 4 75.0 3 4 75.0 0 2 2 3 2 0 0 2 5
+p337
+aVGeorge McCloud DEN 02/20/2002 DEN vs. UTA L 31 14 5 12 41.7 2 5 40.0 2 2 100.0 2 1 3 1 2 1 0 4 -5
+p338
+aVKenny Satterfield DEN 02/20/2002 DEN vs. UTA L 12 3 1 7 14.3 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 1 -10
+p339
+aVJames Posey DEN 02/20/2002 DEN vs. UTA L 25 4 2 6 33.3 0 0 - 0 0 - 1 0 1 2 1 1 0 4 -3
+p340
+aVAvery Johnson DEN 02/20/2002 DEN vs. UTA L 36 19 7 13 53.8 0 0 - 5 5 100.0 0 0 0 3 1 0 4 2 -1
+p341
+aVScott Williams DEN 02/18/2002 DEN @ PHI L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 2 0 0 2 -12
+p342
+aVAvery Johnson DEN 02/18/2002 DEN @ PHI L 31 17 7 16 43.8 0 0 - 3 6 50.0 0 1 1 4 2 1 0 2 -25
+p343
+aVZendon Hamilton DEN 02/18/2002 DEN @ PHI L 16 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 0 1 0 2 3 -9
+p344
+aVCalbert Cheaney DEN 02/18/2002 DEN @ PHI L 28 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -6
+p345
+aVKenny Satterfield DEN 02/18/2002 DEN @ PHI L 17 4 2 6 33.3 0 0 - 0 0 - 1 2 3 5 2 0 0 0 -2
+p346
+aVGeorge McCloud DEN 02/18/2002 DEN @ PHI L 20 6 2 8 25.0 0 2 0.0 2 2 100.0 1 3 4 1 0 0 2 3 -9
+p347
+aVVoshon Lenard DEN 02/18/2002 DEN @ PHI L 28 15 4 13 30.8 1 4 25.0 6 6 100.0 2 1 3 1 1 0 2 2 -15
+p348
+aVTariq Abdul-Wahad DEN 02/18/2002 DEN @ PHI L 17 2 1 5 20.0 0 0 - 0 0 - 3 2 5 2 0 0 1 2 -21
+p349
+aVRaef LaFrentz DEN 02/18/2002 DEN @ PHI L 30 17 7 15 46.7 2 5 40.0 1 1 100.0 0 4 4 2 1 1 1 4 -19
+p350
+aVJames Posey DEN 02/18/2002 DEN @ PHI L 39 13 5 16 31.3 0 4 0.0 3 5 60.0 3 6 9 4 1 1 1 5 -17
+p351
+aVRaef LaFrentz DEN 02/17/2002 DEN @ NJN L 20 6 3 7 42.9 0 2 0.0 0 0 - 1 1 2 0 0 2 2 4 -11
+p352
+aVTariq Abdul-Wahad DEN 02/17/2002 DEN @ NJN L 24 14 5 10 50.0 0 0 - 4 4 100.0 1 3 4 0 0 0 1 1 -10
+p353
+aVAvery Johnson DEN 02/17/2002 DEN @ NJN L 31 10 4 14 28.6 0 0 - 2 3 66.7 1 3 4 4 1 0 0 2 -19
+p354
+aVJames Posey DEN 02/17/2002 DEN @ NJN L 29 10 4 10 40.0 2 6 33.3 0 0 - 0 3 3 2 0 1 1 2 -5
+p355
+aVKenny Satterfield DEN 02/17/2002 DEN @ NJN L 17 2 1 2 50.0 0 0 - 0 0 - 1 1 2 4 1 0 1 3 -2
+p356
+aVScott Williams DEN 02/17/2002 DEN @ NJN L 14 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 0 1 3 -10
+p357
+aVVoshon Lenard DEN 02/17/2002 DEN @ NJN L 30 14 7 15 46.7 0 3 0.0 0 0 - 0 1 1 2 1 0 2 1 -11
+p358
+aVCalbert Cheaney DEN 02/17/2002 DEN @ NJN L 20 2 1 7 14.3 0 0 - 0 0 - 1 1 2 2 1 1 0 2 -16
+p359
+aVGeorge McCloud DEN 02/17/2002 DEN @ NJN L 28 12 4 8 50.0 2 3 66.7 2 3 66.7 0 0 0 2 2 1 2 3 -5
+p360
+aVZendon Hamilton DEN 02/17/2002 DEN @ NJN L 28 5 1 6 16.7 0 0 - 3 4 75.0 3 9 12 1 2 2 3 2 -16
+p361
+aVRaef LaFrentz DEN 02/15/2002 DEN @ MIN W 38 30 12 17 70.6 6 8 75.0 0 0 - 0 5 5 0 0 2 1 4 5
+p362
+aVGeorge McCloud DEN 02/15/2002 DEN @ MIN W 25 9 4 7 57.1 1 2 50.0 0 0 - 1 5 6 1 0 0 1 2 -7
+p363
+aVKenny Satterfield DEN 02/15/2002 DEN @ MIN W 11 0 0 3 0.0 0 0 - 0 0 - 1 1 2 4 0 0 1 0 -4
+p364
+aVJames Posey DEN 02/15/2002 DEN @ MIN W 32 15 5 10 50.0 3 6 50.0 2 3 66.7 2 6 8 2 1 0 2 2 15
+p365
+aVAvery Johnson DEN 02/15/2002 DEN @ MIN W 37 18 6 14 42.9 0 0 - 6 8 75.0 1 0 1 16 0 0 1 1 5
+p366
+aVRyan Bowen DEN 02/15/2002 DEN @ MIN W 18 6 3 8 37.5 0 0 - 0 0 - 3 3 6 1 1 1 0 2 1
+p367
+aVCalbert Cheaney DEN 02/15/2002 DEN @ MIN W 27 6 3 11 27.3 0 0 - 0 0 - 0 3 3 1 0 1 0 3 7
+p368
+aVVoshon Lenard DEN 02/15/2002 DEN @ MIN W 18 6 3 8 37.5 0 2 0.0 0 1 0.0 0 2 2 4 0 0 1 1 -7
+p369
+aVZendon Hamilton DEN 02/15/2002 DEN @ MIN W 26 7 3 3 100.0 0 0 - 1 5 20.0 2 7 9 0 0 1 0 4 -7
+p370
+aVTariq Abdul-Wahad DEN 02/15/2002 DEN @ MIN W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p371
+aVZendon Hamilton DEN 02/14/2002 DEN @ MEM W 18 8 2 3 66.7 0 0 - 4 4 100.0 2 3 5 0 0 0 1 2 -14
+p372
+aVRyan Bowen DEN 02/14/2002 DEN @ MEM W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -3
+p373
+aVTariq Abdul-Wahad DEN 02/14/2002 DEN @ MEM W 20 12 6 6 100.0 0 0 - 0 0 - 1 2 3 0 4 1 1 6 23
+p374
+aVGeorge McCloud DEN 02/14/2002 DEN @ MEM W 29 16 6 10 60.0 4 5 80.0 0 1 0.0 0 5 5 1 2 0 1 2 19
+p375
+aVCalbert Cheaney DEN 02/14/2002 DEN @ MEM W 26 8 4 5 80.0 0 0 - 0 2 0.0 1 1 2 5 1 1 0 3 16
+p376
+aVRaef LaFrentz DEN 02/14/2002 DEN @ MEM W 38 23 8 21 38.1 5 8 62.5 2 2 100.0 3 6 9 1 0 5 0 1 16
+p377
+aVKenny Satterfield DEN 02/14/2002 DEN @ MEM W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 2 2 -4
+p378
+aVChris Andersen DEN 02/14/2002 DEN @ MEM W 8 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 1 1 0 3 2
+p379
+aVAvery Johnson DEN 02/14/2002 DEN @ MEM W 39 16 6 12 50.0 0 0 - 4 5 80.0 1 1 2 11 1 0 5 1 19
+p380
+aVVoshon Lenard DEN 02/14/2002 DEN @ MEM W 25 13 6 13 46.2 1 2 50.0 0 0 - 0 1 1 2 1 1 1 0 6
+p381
+aVJames Posey DEN 02/14/2002 DEN @ MEM W 20 2 1 8 12.5 0 3 0.0 0 1 0.0 0 3 3 2 1 0 0 4 -5
+p382
+aVNick Van Exel DEN 02/12/2002 DEN vs. BOS L 26 12 5 18 27.8 2 8 25.0 0 1 0.0 0 2 2 5 0 0 2 2 -18
+p383
+aVJames Posey DEN 02/12/2002 DEN vs. BOS L 22 4 1 6 16.7 0 3 0.0 2 2 100.0 0 3 3 2 3 0 3 4 -11
+p384
+aVRaef LaFrentz DEN 02/12/2002 DEN vs. BOS L 39 10 4 14 28.6 1 5 20.0 1 2 50.0 3 4 7 1 0 3 2 3 -14
+p385
+aVTariq Abdul-Wahad DEN 02/12/2002 DEN vs. BOS L 13 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 1 1 0 1 3 -7
+p386
+aVChris Andersen DEN 02/12/2002 DEN vs. BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p387
+aVAvery Johnson DEN 02/12/2002 DEN vs. BOS L 32 21 7 11 63.6 0 0 - 7 10 70.0 0 4 4 6 0 0 2 1 -2
+p388
+aVGeorge McCloud DEN 02/12/2002 DEN vs. BOS L 19 14 4 9 44.4 2 5 40.0 4 6 66.7 1 1 2 0 1 0 0 0 -7
+p389
+aVCalbert Cheaney DEN 02/12/2002 DEN vs. BOS L 33 12 5 11 45.5 0 0 - 2 2 100.0 1 4 5 1 0 0 2 4 -3
+p390
+aVZendon Hamilton DEN 02/12/2002 DEN vs. BOS L 24 7 2 7 28.6 0 0 - 3 5 60.0 4 5 9 0 1 1 0 3 -11
+p391
+aVRyan Bowen DEN 02/12/2002 DEN vs. BOS L 27 7 3 6 50.0 0 1 0.0 1 2 50.0 6 3 9 1 0 1 1 4 -11
+p392
+aVRyan Bowen DEN 02/05/2002 DEN vs. POR W 25 7 3 6 50.0 0 0 - 1 1 100.0 4 2 6 1 0 0 1 2 9
+p393
+aVAvery Johnson DEN 02/05/2002 DEN vs. POR W 15 6 3 6 50.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -6
+p394
+aVGeorge McCloud DEN 02/05/2002 DEN vs. POR W 21 9 4 6 66.7 1 3 33.3 0 0 - 0 1 1 0 2 0 0 1 1
+p395
+aVTariq Abdul-Wahad DEN 02/05/2002 DEN vs. POR W 15 2 1 3 33.3 0 0 - 0 0 - 0 5 5 2 0 1 2 2 11
+p396
+aVCalbert Cheaney DEN 02/05/2002 DEN vs. POR W 30 14 6 11 54.5 0 0 - 2 2 100.0 0 5 5 2 1 0 3 2 5
+p397
+aVZendon Hamilton DEN 02/05/2002 DEN vs. POR W 29 9 2 7 28.6 0 0 - 5 6 83.3 1 7 8 1 1 0 0 1 -11
+p398
+aVNick Van Exel DEN 02/05/2002 DEN vs. POR W 41 20 7 13 53.8 1 5 20.0 5 5 100.0 0 6 6 16 1 0 7 1 8
+p399
+aVVoshon Lenard DEN 02/05/2002 DEN vs. POR W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p400
+aVJames Posey DEN 02/05/2002 DEN vs. POR W 18 5 2 6 33.3 1 4 25.0 0 0 - 3 2 5 1 0 0 3 2 -15
+p401
+aVRaef LaFrentz DEN 02/05/2002 DEN vs. POR W 42 25 11 19 57.9 1 4 25.0 2 2 100.0 3 6 9 2 2 5 3 4 4
+p402
+aVJames Posey DEN 02/01/2002 DEN @ SAC L 36 13 6 12 50.0 1 2 50.0 0 2 0.0 5 2 7 2 1 0 0 4 -30
+p403
+aVRaef LaFrentz DEN 02/01/2002 DEN @ SAC L 30 16 6 21 28.6 2 5 40.0 2 3 66.7 5 6 11 1 1 1 1 1 -18
+p404
+aVVoshon Lenard DEN 02/01/2002 DEN @ SAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -3
+p405
+aVAvery Johnson DEN 02/01/2002 DEN @ SAC L 23 12 6 8 75.0 0 0 - 0 0 - 0 1 1 3 0 0 3 2 -9
+p406
+aVRyan Bowen DEN 02/01/2002 DEN @ SAC L 20 8 3 6 50.0 0 0 - 2 4 50.0 1 1 2 1 1 0 1 2 -9
+p407
+aVKenny Satterfield DEN 02/01/2002 DEN @ SAC L 9 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 0 0 1 0 -4
+p408
+aVNick Van Exel DEN 02/01/2002 DEN @ SAC L 25 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 7 0 0 0 3 -28
+p409
+aVZendon Hamilton DEN 02/01/2002 DEN @ SAC L 19 8 3 10 30.0 0 0 - 2 2 100.0 3 0 3 0 0 0 4 4 -26
+p410
+aVCalbert Cheaney DEN 02/01/2002 DEN @ SAC L 30 11 5 12 41.7 0 0 - 1 1 100.0 3 3 6 5 0 0 2 4 -19
+p411
+aVTariq Abdul-Wahad DEN 02/01/2002 DEN @ SAC L 13 9 3 9 33.3 0 0 - 3 4 75.0 1 4 5 1 1 0 1 3 -10
+p412
+aVGeorge McCloud DEN 02/01/2002 DEN @ SAC L 29 10 5 10 50.0 0 2 0.0 0 2 0.0 4 3 7 1 0 2 3 5 -24
+p413
+aVRaef LaFrentz DEN 01/29/2002 DEN vs. MIA L 48 30 12 24 50.0 6 11 54.5 0 0 - 2 5 7 2 1 6 1 2 -11
+p414
+aVCalbert Cheaney DEN 01/29/2002 DEN vs. MIA L 42 12 6 11 54.5 0 0 - 0 2 0.0 0 7 7 0 1 1 1 4 -2
+p415
+aVZendon Hamilton DEN 01/29/2002 DEN vs. MIA L 30 11 4 4 100.0 0 0 - 3 6 50.0 5 6 11 1 0 0 4 4 5
+p416
+aVNick Van Exel DEN 01/29/2002 DEN vs. MIA L 42 15 6 14 42.9 1 2 50.0 2 2 100.0 0 5 5 7 2 0 7 2 -7
+p417
+aVGeorge McCloud DEN 01/29/2002 DEN vs. MIA L 9 3 1 3 33.3 0 1 0.0 1 1 100.0 1 0 1 0 0 0 0 1 -7
+p418
+aVRyan Bowen DEN 01/29/2002 DEN vs. MIA L 31 7 3 7 42.9 0 0 - 1 2 50.0 4 2 6 0 2 0 1 3 6
+p419
+aVVoshon Lenard DEN 01/29/2002 DEN vs. MIA L 25 7 3 13 23.1 1 3 33.3 0 0 - 0 2 2 1 1 1 1 1 -3
+p420
+aVJames Posey DEN 01/29/2002 DEN vs. MIA L 20 0 0 2 0.0 0 0 - 0 0 - 0 1 1 4 0 0 0 1 -9
+p421
+aVAvery Johnson DEN 01/29/2002 DEN vs. MIA L 19 9 1 3 33.3 0 0 - 7 10 70.0 0 2 2 5 0 0 1 0 -2
+p422
+aVCalbert Cheaney DEN 01/24/2002 DEN vs. DAL L 41 12 6 8 75.0 0 0 - 0 0 - 1 6 7 2 1 2 0 2 -2
+p423
+aVGeorge McCloud DEN 01/24/2002 DEN vs. DAL L 18 4 2 7 28.6 0 4 0.0 0 0 - 1 3 4 3 0 0 2 2 0
+p424
+aVAvery Johnson DEN 01/24/2002 DEN vs. DAL L 12 7 2 5 40.0 0 0 - 3 4 75.0 0 0 0 1 0 0 0 1 -10
+p425
+aVVoshon Lenard DEN 01/24/2002 DEN vs. DAL L 25 4 2 13 15.4 0 3 0.0 0 0 - 1 6 7 4 1 0 2 2 -9
+p426
+aVRaef LaFrentz DEN 01/24/2002 DEN vs. DAL L 33 24 11 19 57.9 2 3 66.7 0 1 0.0 2 2 4 2 0 2 1 2 -10
+p427
+aVZendon Hamilton DEN 01/24/2002 DEN vs. DAL L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -3
+p428
+aVNick Van Exel DEN 01/24/2002 DEN vs. DAL L 43 9 4 10 40.0 1 2 50.0 0 0 - 0 6 6 15 3 1 0 3 -6
+p429
+aVRyan Bowen DEN 01/24/2002 DEN vs. DAL L 31 18 6 10 60.0 0 0 - 6 7 85.7 1 1 2 2 1 0 1 3 -2
+p430
+aVJames Posey DEN 01/24/2002 DEN vs. DAL L 32 17 6 13 46.2 2 7 28.6 3 3 100.0 0 5 5 3 1 0 2 4 7
+p431
+aVJames Posey DEN 01/22/2002 DEN @ LAL W 35 23 8 13 61.5 4 6 66.7 3 4 75.0 1 7 8 2 1 1 2 6 14
+p432
+aVNick Van Exel DEN 01/22/2002 DEN @ LAL W 37 17 6 13 46.2 3 6 50.0 2 2 100.0 1 2 3 12 1 0 3 0 2
+p433
+aVCalbert Cheaney DEN 01/22/2002 DEN @ LAL W 28 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 4 3 -2
+p434
+aVVoshon Lenard DEN 01/22/2002 DEN @ LAL W 26 29 9 11 81.8 3 3 100.0 8 11 72.7 0 4 4 2 0 1 1 0 20
+p435
+aVRaef LaFrentz DEN 01/22/2002 DEN @ LAL W 30 8 4 9 44.4 0 2 0.0 0 0 - 1 5 6 2 2 1 1 6 8
+p436
+aVKenny Satterfield DEN 01/22/2002 DEN @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p437
+aVAvery Johnson DEN 01/22/2002 DEN @ LAL W 10 2 1 3 33.3 0 0 - 0 2 0.0 1 0 1 1 0 0 3 1 11
+p438
+aVZendon Hamilton DEN 01/22/2002 DEN @ LAL W 30 17 6 11 54.5 0 0 - 5 8 62.5 1 7 8 1 3 0 2 3 -2
+p439
+aVChris Andersen DEN 01/22/2002 DEN @ LAL W 11 5 2 2 100.0 0 0 - 1 2 50.0 2 2 4 0 1 0 1 2 5
+p440
+aVRyan Bowen DEN 01/22/2002 DEN @ LAL W 31 0 0 3 0.0 0 0 - 0 2 0.0 0 4 4 0 1 1 0 1 21
+p441
+aVRyan Bowen DEN 01/21/2002 DEN @ LAC L 32 9 4 6 66.7 0 0 - 1 2 50.0 5 2 7 1 2 0 1 3 -6
+p442
+aVRaef LaFrentz DEN 01/21/2002 DEN @ LAC L 29 10 5 12 41.7 0 3 0.0 0 2 0.0 2 4 6 2 0 3 0 4 -6
+p443
+aVCalbert Cheaney DEN 01/21/2002 DEN @ LAC L 25 4 2 5 40.0 0 0 - 0 0 - 3 1 4 2 0 0 0 1 -15
+p444
+aVZendon Hamilton DEN 01/21/2002 DEN @ LAC L 33 13 5 15 33.3 0 0 - 3 3 100.0 5 5 10 0 1 0 1 2 -12
+p445
+aVJames Posey DEN 01/21/2002 DEN @ LAC L 25 8 2 7 28.6 1 2 50.0 3 3 100.0 0 3 3 1 0 0 2 3 -15
+p446
+aVVoshon Lenard DEN 01/21/2002 DEN @ LAC L 24 16 7 14 50.0 1 5 20.0 1 2 50.0 1 3 4 0 0 0 2 4 0
+p447
+aVNick Van Exel DEN 01/21/2002 DEN @ LAC L 43 19 7 22 31.8 3 6 50.0 2 2 100.0 2 5 7 10 0 0 1 2 -11
+p448
+aVAvery Johnson DEN 01/21/2002 DEN @ LAC L 27 10 5 10 50.0 0 0 - 0 0 - 0 0 0 5 0 0 0 1 0
+p449
+aVAvery Johnson DEN 01/19/2002 DEN @ SEA L 24 2 1 4 25.0 0 0 - 0 0 - 0 1 1 6 1 0 1 0 -13
+p450
+aVVoshon Lenard DEN 01/19/2002 DEN @ SEA L 29 16 5 11 45.5 4 6 66.7 2 2 100.0 0 2 2 3 0 0 1 1 -14
+p451
+aVKenny Satterfield DEN 01/19/2002 DEN @ SEA L 12 4 0 4 0.0 0 2 0.0 4 4 100.0 0 0 0 2 0 0 4 0 0
+p452
+aVRaef LaFrentz DEN 01/19/2002 DEN @ SEA L 22 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 0 0 2 3 3 -21
+p453
+aVNick Van Exel DEN 01/19/2002 DEN @ SEA L 32 28 11 19 57.9 3 4 75.0 3 4 75.0 0 3 3 2 0 0 3 1 -28
+p454
+aVCalbert Cheaney DEN 01/19/2002 DEN @ SEA L 23 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 1 0 1 1 2 -16
+p455
+aVZendon Hamilton DEN 01/19/2002 DEN @ SEA L 34 10 3 8 37.5 0 0 - 4 5 80.0 7 5 12 1 0 0 4 5 -18
+p456
+aVRyan Bowen DEN 01/19/2002 DEN @ SEA L 25 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 1 1 0 1 -5
+p457
+aVJames Posey DEN 01/19/2002 DEN @ SEA L 30 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 3 2 1 0 2 -16
+p458
+aVChris Andersen DEN 01/19/2002 DEN @ SEA L 8 0 0 6 0.0 0 0 - 0 0 - 2 0 2 0 1 1 1 2 -4
+p459
+aVNick Van Exel DEN 01/18/2002 DEN vs. SEA W 34 7 2 8 25.0 0 1 0.0 3 3 100.0 0 5 5 5 1 0 2 4 -8
+p460
+aVRaef LaFrentz DEN 01/18/2002 DEN vs. SEA W 20 3 1 5 20.0 1 2 50.0 0 0 - 1 6 7 1 0 0 3 4 -4
+p461
+aVChris Andersen DEN 01/18/2002 DEN vs. SEA W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -2
+p462
+aVCalbert Cheaney DEN 01/18/2002 DEN vs. SEA W 8 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 1 0 0 1 2
+p463
+aVZendon Hamilton DEN 01/18/2002 DEN vs. SEA W 27 12 3 12 25.0 0 0 - 6 6 100.0 11 5 16 1 0 2 2 4 7
+p464
+aVJames Posey DEN 01/18/2002 DEN vs. SEA W 40 10 5 14 35.7 0 4 0.0 0 1 0.0 1 3 4 2 2 1 3 4 3
+p465
+aVAvery Johnson DEN 01/18/2002 DEN vs. SEA W 37 18 6 10 60.0 0 0 - 6 9 66.7 0 2 2 7 2 0 2 0 11
+p466
+aVVoshon Lenard DEN 01/18/2002 DEN vs. SEA W 30 27 9 18 50.0 5 6 83.3 4 6 66.7 1 4 5 3 0 1 2 1 13
+p467
+aVRyan Bowen DEN 01/18/2002 DEN vs. SEA W 40 18 7 12 58.3 0 0 - 4 4 100.0 4 8 12 2 1 1 1 5 8
+p468
+aVZendon Hamilton DEN 01/16/2002 DEN vs. SAC L 23 8 2 9 22.2 0 0 - 4 6 66.7 3 4 7 0 0 1 1 1 1
+p469
+aVKenny Satterfield DEN 01/16/2002 DEN vs. SAC L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p470
+aVChris Andersen DEN 01/16/2002 DEN vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p471
+aVJames Posey DEN 01/16/2002 DEN vs. SAC L 41 19 7 16 43.8 2 5 40.0 3 4 75.0 1 7 8 4 0 0 4 5 1
+p472
+aVCalbert Cheaney DEN 01/16/2002 DEN vs. SAC L 35 10 5 7 71.4 0 0 - 0 0 - 2 4 6 2 1 0 2 4 -13
+p473
+aVAvery Johnson DEN 01/16/2002 DEN vs. SAC L 40 23 9 18 50.0 0 0 - 5 6 83.3 0 1 1 12 2 1 5 3 4
+p474
+aVRyan Bowen DEN 01/16/2002 DEN vs. SAC L 28 8 4 7 57.1 0 0 - 0 0 - 3 3 6 2 3 1 1 2 -2
+p475
+aVVoshon Lenard DEN 01/16/2002 DEN vs. SAC L 27 9 4 12 33.3 1 5 20.0 0 0 - 0 2 2 5 3 0 2 2 -4
+p476
+aVRaef LaFrentz DEN 01/16/2002 DEN vs. SAC L 36 30 12 19 63.2 6 9 66.7 0 1 0.0 3 7 10 2 1 6 1 2 4
+p477
+aVAvery Johnson DEN 01/14/2002 DEN @ UTA L 16 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 2 0 0 0 2 -1
+p478
+aVCalbert Cheaney DEN 01/14/2002 DEN @ UTA L 22 4 2 5 40.0 0 0 - 0 0 - 3 0 3 1 0 0 0 3 -14
+p479
+aVChris Andersen DEN 01/14/2002 DEN @ UTA L 22 17 5 9 55.6 0 2 0.0 7 8 87.5 4 5 9 0 0 2 1 2 8
+p480
+aVRaef LaFrentz DEN 01/14/2002 DEN @ UTA L 34 10 4 8 50.0 1 2 50.0 1 2 50.0 0 1 1 1 0 2 2 3 -11
+p481
+aVNick Van Exel DEN 01/14/2002 DEN @ UTA L 46 26 10 23 43.5 1 3 33.3 5 8 62.5 1 8 9 5 0 0 2 3 -9
+p482
+aVVoshon Lenard DEN 01/14/2002 DEN @ UTA L 20 7 3 9 33.3 1 5 20.0 0 0 - 0 1 1 0 0 1 1 1 7
+p483
+aVJames Posey DEN 01/14/2002 DEN @ UTA L 40 16 4 11 36.4 0 1 0.0 8 8 100.0 1 4 5 3 3 1 2 1 -9
+p484
+aVZendon Hamilton DEN 01/14/2002 DEN @ UTA L 16 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 4 -10
+p485
+aVRyan Bowen DEN 01/14/2002 DEN @ UTA L 24 5 1 2 50.0 0 0 - 3 3 100.0 1 1 2 1 0 1 0 1 -6
+p486
+aVJames Posey DEN 01/12/2002 DEN @ HOU L 42 19 6 12 50.0 1 5 20.0 6 7 85.7 3 13 16 2 3 0 2 3 -8
+p487
+aVVoshon Lenard DEN 01/12/2002 DEN @ HOU L 21 20 7 14 50.0 2 3 66.7 4 4 100.0 0 3 3 1 1 1 1 3 -2
+p488
+aVRyan Bowen DEN 01/12/2002 DEN @ HOU L 36 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 2 2 1 3 -12
+p489
+aVZendon Hamilton DEN 01/12/2002 DEN @ HOU L 3 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -4
+p490
+aVScott Williams DEN 01/12/2002 DEN @ HOU L 13 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 1 0 2 -2
+p491
+aVAvery Johnson DEN 01/12/2002 DEN @ HOU L 28 14 7 12 58.3 0 0 - 0 0 - 1 0 1 7 0 0 3 0 -1
+p492
+aVRaef LaFrentz DEN 01/12/2002 DEN @ HOU L 39 16 6 15 40.0 0 2 0.0 4 5 80.0 1 5 6 1 0 0 2 2 -7
+p493
+aVNick Van Exel DEN 01/12/2002 DEN @ HOU L 33 4 2 14 14.3 0 4 0.0 0 0 - 0 4 4 7 1 0 3 1 -16
+p494
+aVCalbert Cheaney DEN 01/12/2002 DEN @ HOU L 27 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 1 0 0 1 -8
+p495
+aVJames Posey DEN 01/10/2002 DEN vs. CLE W 39 4 2 7 28.6 0 3 0.0 0 0 - 1 5 6 7 1 1 4 3 -2
+p496
+aVRaef LaFrentz DEN 01/10/2002 DEN vs. CLE W 34 29 12 18 66.7 3 5 60.0 2 3 66.7 4 6 10 3 1 4 1 3 8
+p497
+aVRyan Bowen DEN 01/10/2002 DEN vs. CLE W 27 10 5 5 100.0 0 0 - 0 0 - 1 1 2 0 1 1 1 4 -10
+p498
+aVVoshon Lenard DEN 01/10/2002 DEN vs. CLE W 23 10 4 10 40.0 2 5 40.0 0 0 - 2 4 6 1 1 1 1 1 8
+p499
+aVAvery Johnson DEN 01/10/2002 DEN vs. CLE W 24 10 4 7 57.1 0 0 - 2 2 100.0 0 4 4 8 0 0 1 2 10
+p500
+aVNick Van Exel DEN 01/10/2002 DEN vs. CLE W 43 26 10 24 41.7 2 5 40.0 4 6 66.7 1 3 4 11 2 0 3 0 8
+p501
+aVScott Williams DEN 01/10/2002 DEN vs. CLE W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -3
+p502
+aVCalbert Cheaney DEN 01/10/2002 DEN vs. CLE W 35 5 2 7 28.6 0 0 - 1 2 50.0 1 4 5 0 0 1 0 4 6
+p503
+aVRyan Bowen DEN 01/08/2002 DEN @ DAL L 33 4 2 6 33.3 0 0 - 0 0 - 6 2 8 1 0 0 2 6 0
+p504
+aVNick Van Exel DEN 01/08/2002 DEN @ DAL L 43 31 12 29 41.4 2 8 25.0 5 5 100.0 0 3 3 6 1 0 6 2 7
+p505
+aVJames Posey DEN 01/08/2002 DEN @ DAL L 45 8 3 13 23.1 1 5 20.0 1 2 50.0 2 14 16 2 2 0 2 4 3
+p506
+aVVoshon Lenard DEN 01/08/2002 DEN @ DAL L 30 7 3 11 27.3 1 3 33.3 0 0 - 1 4 5 0 3 3 1 0 1
+p507
+aVAvery Johnson DEN 01/08/2002 DEN @ DAL L 21 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 4 0 0 1 0 -2
+p508
+aVCalbert Cheaney DEN 01/08/2002 DEN @ DAL L 20 8 4 6 66.7 0 0 - 0 0 - 2 1 3 2 1 0 1 4 -13
+p509
+aVZendon Hamilton DEN 01/08/2002 DEN @ DAL L 6 4 1 2 50.0 0 0 - 2 4 50.0 2 1 3 0 1 0 1 1 -3
+p510
+aVRaef LaFrentz DEN 01/08/2002 DEN @ DAL L 35 24 10 15 66.7 1 2 50.0 3 3 100.0 4 7 11 0 0 0 1 3 8
+p511
+aVScott Williams DEN 01/08/2002 DEN @ DAL L 7 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -6
+p512
+aVKenny Satterfield DEN 01/07/2002 DEN @ CHH L 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 1
+p513
+aVScott Williams DEN 01/07/2002 DEN @ CHH L 18 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 2 1 2 0 -14
+p514
+aVChris Andersen DEN 01/07/2002 DEN @ CHH L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p515
+aVGeorge McCloud DEN 01/07/2002 DEN @ CHH L 18 5 2 6 33.3 1 3 33.3 0 0 - 2 1 3 1 2 0 0 3 1
+p516
+aVAvery Johnson DEN 01/07/2002 DEN @ CHH L 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 2 0 1 1 -7
+p517
+aVRyan Bowen DEN 01/07/2002 DEN @ CHH L 16 4 1 2 50.0 0 0 - 2 2 100.0 3 0 3 0 0 0 0 2 -2
+p518
+aVRaef LaFrentz DEN 01/07/2002 DEN @ CHH L 27 6 2 9 22.2 0 0 - 2 4 50.0 1 3 4 1 0 3 1 2 -10
+p519
+aVJames Posey DEN 01/07/2002 DEN @ CHH L 36 10 4 12 33.3 0 4 0.0 2 2 100.0 1 6 7 1 1 2 1 0 -10
+p520
+aVCalbert Cheaney DEN 01/07/2002 DEN @ CHH L 17 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 0 1 3 3
+p521
+aVZendon Hamilton DEN 01/07/2002 DEN @ CHH L 20 7 3 5 60.0 0 0 - 1 1 100.0 0 5 5 1 0 0 0 3 -4
+p522
+aVVoshon Lenard DEN 01/07/2002 DEN @ CHH L 28 9 3 11 27.3 1 2 50.0 2 2 100.0 0 2 2 2 1 0 0 2 -15
+p523
+aVNick Van Exel DEN 01/07/2002 DEN @ CHH L 42 24 10 28 35.7 3 5 60.0 1 2 50.0 0 4 4 9 0 0 2 0 -14
+p524
+aVJames Posey DEN 01/04/2002 DEN vs. LAC L 44 28 10 24 41.7 4 8 50.0 4 4 100.0 3 10 13 1 1 3 4 5 -4
+p525
+aVNick Van Exel DEN 01/04/2002 DEN vs. LAC L 19 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 5 0 1 0 0 -8
+p526
+aVRaef LaFrentz DEN 01/04/2002 DEN vs. LAC L 40 20 8 16 50.0 1 3 33.3 3 4 75.0 7 5 12 1 1 8 1 3 5
+p527
+aVCalbert Cheaney DEN 01/04/2002 DEN vs. LAC L 18 4 2 4 50.0 0 0 - 0 1 0.0 0 3 3 1 0 0 0 1 6
+p528
+aVVoshon Lenard DEN 01/04/2002 DEN vs. LAC L 34 6 3 15 20.0 0 2 0.0 0 0 - 0 6 6 3 3 2 3 1 -6
+p529
+aVScott Williams DEN 01/04/2002 DEN vs. LAC L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -4
+p530
+aVShawnelle Scott DEN 01/04/2002 DEN vs. LAC L 11 2 1 4 25.0 0 0 - 0 2 0.0 3 4 7 0 0 0 2 4 -10
+p531
+aVGeorge McCloud DEN 01/04/2002 DEN vs. LAC L 8 0 0 5 0.0 0 1 0.0 0 0 - 2 2 4 0 0 0 1 1 -7
+p532
+aVRyan Bowen DEN 01/04/2002 DEN vs. LAC L 30 8 4 7 57.1 0 1 0.0 0 0 - 2 4 6 1 1 0 0 3 12
+p533
+aVAvery Johnson DEN 01/04/2002 DEN vs. LAC L 29 10 4 11 36.4 0 0 - 2 2 100.0 0 2 2 10 0 1 1 1 6
+p534
+aVCalbert Cheaney DEN 01/02/2002 DEN vs. LAL L 21 6 3 4 75.0 0 0 - 0 0 - 1 6 7 1 0 1 1 1 3
+p535
+aVAvery Johnson DEN 01/02/2002 DEN vs. LAL L 15 13 5 12 41.7 0 1 0.0 3 4 75.0 0 0 0 1 0 0 1 1 0
+p536
+aVScott Williams DEN 01/02/2002 DEN vs. LAL L 26 7 2 6 33.3 0 0 - 3 4 75.0 3 7 10 0 0 0 1 3 -4
+p537
+aVGeorge McCloud DEN 01/02/2002 DEN vs. LAL L 25 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 3 2 7
+p538
+aVNick Van Exel DEN 01/02/2002 DEN vs. LAL L 34 25 9 19 47.4 3 6 50.0 4 6 66.7 0 1 1 8 0 0 4 1 -3
+p539
+aVJames Posey DEN 01/02/2002 DEN vs. LAL L 29 5 2 6 33.3 1 2 50.0 0 0 - 1 4 5 2 1 1 1 4 -6
+p540
+aVRyan Bowen DEN 01/02/2002 DEN vs. LAL L 26 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 1 0 1 2 7
+p541
+aVVoshon Lenard DEN 01/02/2002 DEN vs. LAL L 29 22 8 13 61.5 4 5 80.0 2 4 50.0 1 2 3 6 0 1 2 2 -2
+p542
+aVRaef LaFrentz DEN 01/02/2002 DEN vs. LAL L 35 6 3 11 27.3 0 3 0.0 0 0 - 2 6 8 1 1 4 2 4 -7
+p543
+aVNick Van Exel DEN 12/29/2001 DEN @ PHX L 41 24 9 24 37.5 2 8 25.0 4 7 57.1 0 2 2 5 0 0 3 0 -15
+p544
+aVGeorge McCloud DEN 12/29/2001 DEN @ PHX L 27 7 3 5 60.0 1 2 50.0 0 0 - 0 4 4 1 1 0 0 4 -15
+p545
+aVAvery Johnson DEN 12/29/2001 DEN @ PHX L 36 21 8 14 57.1 0 0 - 5 7 71.4 1 0 1 9 1 0 3 1 -18
+p546
+aVRaef LaFrentz DEN 12/29/2001 DEN @ PHX L 36 11 5 10 50.0 1 3 33.3 0 0 - 4 9 13 2 1 7 2 5 -18
+p547
+aVVoshon Lenard DEN 12/29/2001 DEN @ PHX L 23 9 4 9 44.4 0 2 0.0 1 2 50.0 0 1 1 0 1 0 3 0 -4
+p548
+aVCalbert Cheaney DEN 12/29/2001 DEN @ PHX L 9 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -1
+p549
+aVJames Posey DEN 12/29/2001 DEN @ PHX L 24 5 2 7 28.6 1 3 33.3 0 0 - 0 4 4 2 4 0 2 4 -10
+p550
+aVScott Williams DEN 12/29/2001 DEN @ PHX L 21 9 2 5 40.0 0 0 - 5 6 83.3 2 5 7 2 1 2 3 5 3
+p551
+aVRyan Bowen DEN 12/29/2001 DEN @ PHX L 22 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -7
+p552
+aVJames Posey DEN 12/28/2001 DEN vs. PHI W 33 12 3 12 25.0 2 5 40.0 4 4 100.0 2 4 6 1 1 0 2 3 -1
+p553
+aVRaef LaFrentz DEN 12/28/2001 DEN vs. PHI W 25 8 4 8 50.0 0 1 0.0 0 0 - 3 3 6 2 0 0 1 5 -1
+p554
+aVGeorge McCloud DEN 12/28/2001 DEN vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p555
+aVAvery Johnson DEN 12/28/2001 DEN vs. PHI W 30 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 8 2 0 2 4 4
+p556
+aVCalbert Cheaney DEN 12/28/2001 DEN vs. PHI W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 1 2 1 0 4
+p557
+aVVoshon Lenard DEN 12/28/2001 DEN vs. PHI W 22 12 6 10 60.0 0 2 0.0 0 0 - 0 2 2 0 0 1 3 2 -7
+p558
+aVRyan Bowen DEN 12/28/2001 DEN vs. PHI W 34 10 5 8 62.5 0 0 - 0 0 - 5 5 10 0 1 3 0 3 3
+p559
+aVShawnelle Scott DEN 12/28/2001 DEN vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p560
+aVNick Van Exel DEN 12/28/2001 DEN vs. PHI W 45 33 14 31 45.2 2 9 22.2 3 5 60.0 0 3 3 11 1 1 2 1 9
+p561
+aVScott Williams DEN 12/28/2001 DEN vs. PHI W 34 10 5 11 45.5 0 0 - 0 0 - 4 9 13 1 0 4 2 3 3
+p562
+aVRyan Bowen DEN 12/26/2001 DEN vs. MIN L 30 9 2 4 50.0 0 0 - 5 6 83.3 1 8 9 0 1 1 0 3 12
+p563
+aVNick Van Exel DEN 12/26/2001 DEN vs. MIN L 45 27 11 21 52.4 2 6 33.3 3 4 75.0 1 4 5 9 0 0 6 1 -3
+p564
+aVVoshon Lenard DEN 12/26/2001 DEN vs. MIN L 32 10 4 10 40.0 2 6 33.3 0 0 - 0 4 4 2 0 0 0 0 -4
+p565
+aVGeorge McCloud DEN 12/26/2001 DEN vs. MIN L 16 8 3 5 60.0 2 2 100.0 0 0 - 0 2 2 1 0 1 0 0 4
+p566
+aVAvery Johnson DEN 12/26/2001 DEN vs. MIN L 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 8 0 0 0 1 -2
+p567
+aVJames Posey DEN 12/26/2001 DEN vs. MIN L 42 18 6 19 31.6 2 6 33.3 4 4 100.0 1 6 7 3 3 1 1 4 -6
+p568
+aVScott Williams DEN 12/26/2001 DEN vs. MIN L 20 2 1 4 25.0 0 0 - 0 0 - 4 1 5 1 0 0 1 2 -10
+p569
+aVRaef LaFrentz DEN 12/26/2001 DEN vs. MIN L 39 15 5 15 33.3 0 2 0.0 5 6 83.3 3 7 10 0 0 3 1 3 -6
+p570
+aVNick Van Exel DEN 12/22/2001 DEN vs. GSW L 40 13 6 20 30.0 1 6 16.7 0 0 - 2 7 9 14 1 0 2 2 -9
+p571
+aVScott Williams DEN 12/22/2001 DEN vs. GSW L 17 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 0 2 1 2 -13
+p572
+aVCalbert Cheaney DEN 12/22/2001 DEN vs. GSW L 14 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 2 2 0 2 2 -3
+p573
+aVShawnelle Scott DEN 12/22/2001 DEN vs. GSW L 15 1 0 4 0.0 0 0 - 1 2 50.0 3 3 6 0 0 0 2 2 9
+p574
+aVVoshon Lenard DEN 12/22/2001 DEN vs. GSW L 34 18 6 15 40.0 1 5 20.0 5 6 83.3 0 1 1 3 2 1 1 4 -6
+p575
+aVRaef LaFrentz DEN 12/22/2001 DEN vs. GSW L 25 13 5 11 45.5 2 3 66.7 1 1 100.0 1 5 6 3 1 1 1 6 9
+p576
+aVRyan Bowen DEN 12/22/2001 DEN vs. GSW L 19 2 0 3 0.0 0 0 - 2 2 100.0 3 3 6 0 0 1 0 4 -5
+p577
+aVJames Posey DEN 12/22/2001 DEN vs. GSW L 46 33 12 23 52.2 5 9 55.6 4 4 100.0 3 8 11 2 0 1 2 5 -2
+p578
+aVAvery Johnson DEN 12/22/2001 DEN vs. GSW L 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 3 0 0 1 0 4
+p579
+aVGeorge McCloud DEN 12/22/2001 DEN vs. GSW L 21 12 5 9 55.6 2 3 66.7 0 0 - 2 1 3 3 2 0 3 4 -4
+p580
+aVRyan Bowen DEN 12/21/2001 DEN @ SAS L 21 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 1 0 4 -5
+p581
+aVAvery Johnson DEN 12/21/2001 DEN @ SAS L 25 9 3 8 37.5 0 0 - 3 4 75.0 1 1 2 4 1 0 4 1 -24
+p582
+aVCalbert Cheaney DEN 12/21/2001 DEN @ SAS L 21 2 1 5 20.0 0 0 - 0 0 - 0 4 4 3 0 0 1 3 -21
+p583
+aVNick Van Exel DEN 12/21/2001 DEN @ SAS L 28 11 5 13 38.5 1 4 25.0 0 0 - 0 2 2 8 3 0 5 2 -20
+p584
+aVRaef LaFrentz DEN 12/21/2001 DEN @ SAS L 26 10 5 14 35.7 0 2 0.0 0 0 - 1 5 6 1 1 3 2 3 -11
+p585
+aVJames Posey DEN 12/21/2001 DEN @ SAS L 27 10 4 8 50.0 2 4 50.0 0 0 - 1 1 2 1 0 0 1 3 -12
+p586
+aVVoshon Lenard DEN 12/21/2001 DEN @ SAS L 25 8 3 6 50.0 2 3 66.7 0 0 - 1 0 1 0 2 0 2 2 -13
+p587
+aVZendon Hamilton DEN 12/21/2001 DEN @ SAS L 12 5 1 3 33.3 0 0 - 3 5 60.0 2 1 3 0 0 0 2 1 -5
+p588
+aVScott Williams DEN 12/21/2001 DEN @ SAS L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -17
+p589
+aVKenny Satterfield DEN 12/21/2001 DEN @ SAS L 10 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 0 1 0 0 0 -6
+p590
+aVGeorge McCloud DEN 12/21/2001 DEN @ SAS L 15 1 0 6 0.0 0 1 0.0 1 2 50.0 0 0 0 1 1 0 3 0 -23
+p591
+aVShawnelle Scott DEN 12/21/2001 DEN @ SAS L 18 4 2 5 40.0 0 0 - 0 0 - 3 5 8 1 0 0 1 1 -18
+p592
+aVScott Williams DEN 12/18/2001 DEN vs. SAS L 13 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 2 2 -10
+p593
+aVNick Van Exel DEN 12/18/2001 DEN vs. SAS L 41 25 10 25 40.0 3 11 27.3 2 2 100.0 2 2 4 15 1 0 3 2 1
+p594
+aVRyan Bowen DEN 12/18/2001 DEN vs. SAS L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -12
+p595
+aVVoshon Lenard DEN 12/18/2001 DEN vs. SAS L 36 24 11 19 57.9 2 6 33.3 0 0 - 3 4 7 1 2 1 3 4 2
+p596
+aVShawnelle Scott DEN 12/18/2001 DEN vs. SAS L 23 8 3 9 33.3 0 0 - 2 2 100.0 8 4 12 2 1 1 0 2 3
+p597
+aVRaef LaFrentz DEN 12/18/2001 DEN vs. SAS L 37 20 9 14 64.3 2 5 40.0 0 0 - 3 3 6 1 1 2 3 6 -1
+p598
+aVGeorge McCloud DEN 12/18/2001 DEN vs. SAS L 23 4 2 8 25.0 0 2 0.0 0 0 - 1 0 1 0 1 0 1 2 -13
+p599
+aVJames Posey DEN 12/18/2001 DEN vs. SAS L 36 6 3 14 21.4 0 4 0.0 0 0 - 2 4 6 2 3 1 0 4 1
+p600
+aVAvery Johnson DEN 12/18/2001 DEN vs. SAS L 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 1 1 2 -14
+p601
+aVCalbert Cheaney DEN 12/18/2001 DEN vs. SAS L 7 2 1 2 50.0 0 0 - 0 1 0.0 0 2 2 1 0 1 0 0 -2
+p602
+aVAvery Johnson DEN 12/15/2001 DEN vs. PHX W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -8
+p603
+aVRaef LaFrentz DEN 12/15/2001 DEN vs. PHX W 37 19 8 13 61.5 2 4 50.0 1 2 50.0 3 5 8 1 0 4 1 4 17
+p604
+aVCalbert Cheaney DEN 12/15/2001 DEN vs. PHX W 22 10 5 7 71.4 0 0 - 0 2 0.0 2 5 7 1 0 0 3 4 0
+p605
+aVZendon Hamilton DEN 12/15/2001 DEN vs. PHX W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p606
+aVShawnelle Scott DEN 12/15/2001 DEN vs. PHX W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p607
+aVGeorge McCloud DEN 12/15/2001 DEN vs. PHX W 17 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 3 0 0 3 1 -11
+p608
+aVScott Williams DEN 12/15/2001 DEN vs. PHX W 13 8 4 6 66.7 0 0 - 0 0 - 2 3 5 0 0 1 0 1 -5
+p609
+aVJames Posey DEN 12/15/2001 DEN vs. PHX W 36 14 3 10 30.0 2 3 66.7 6 6 100.0 3 5 8 4 0 1 0 3 18
+p610
+aVNick Van Exel DEN 12/15/2001 DEN vs. PHX W 40 24 8 21 38.1 3 7 42.9 5 8 62.5 1 1 2 10 2 0 3 2 16
+p611
+aVRyan Bowen DEN 12/15/2001 DEN vs. PHX W 21 6 3 7 42.9 0 0 - 0 0 - 3 0 3 0 1 1 1 5 11
+p612
+aVVoshon Lenard DEN 12/15/2001 DEN vs. PHX W 37 19 8 17 47.1 1 3 33.3 2 2 100.0 2 7 9 4 2 0 2 1 11
+p613
+aVJames Posey DEN 12/13/2001 DEN vs. MEM W 20 2 1 7 14.3 0 1 0.0 0 0 - 1 3 4 1 2 0 2 5 -3
+p614
+aVZendon Hamilton DEN 12/13/2001 DEN vs. MEM W 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 0 6
+p615
+aVRyan Bowen DEN 12/13/2001 DEN vs. MEM W 27 6 2 6 33.3 0 2 0.0 2 4 50.0 3 3 6 0 5 3 3 3 3
+p616
+aVVoshon Lenard DEN 12/13/2001 DEN vs. MEM W 39 25 11 22 50.0 1 6 16.7 2 2 100.0 0 8 8 2 1 1 1 1 13
+p617
+aVScott Williams DEN 12/13/2001 DEN vs. MEM W 16 7 3 8 37.5 0 0 - 1 2 50.0 9 4 13 0 1 0 2 3 3
+p618
+aVCalbert Cheaney DEN 12/13/2001 DEN vs. MEM W 23 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 1 0 2 3
+p619
+aVGeorge McCloud DEN 12/13/2001 DEN vs. MEM W 23 0 0 6 0.0 0 4 0.0 0 0 - 2 3 5 1 1 0 4 2 1
+p620
+aVNick Van Exel DEN 12/13/2001 DEN vs. MEM W 42 20 7 20 35.0 2 6 33.3 4 6 66.7 1 2 3 14 0 1 2 2 7
+p621
+aVAvery Johnson DEN 12/13/2001 DEN vs. MEM W 8 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -5
+p622
+aVShawnelle Scott DEN 12/13/2001 DEN vs. MEM W 13 6 3 3 100.0 0 0 - 0 1 0.0 0 5 5 0 0 0 0 0 -3
+p623
+aVRaef LaFrentz DEN 12/13/2001 DEN vs. MEM W 25 13 5 11 45.5 1 2 50.0 2 3 66.7 3 3 6 2 2 3 1 5 -10
+p624
+aVRaef LaFrentz DEN 12/11/2001 DEN vs. CHH L 38 23 9 14 64.3 2 4 50.0 3 4 75.0 1 8 9 1 0 5 0 3 1
+p625
+aVJames Posey DEN 12/11/2001 DEN vs. CHH L 31 22 7 16 43.8 2 6 33.3 6 6 100.0 2 2 4 2 1 1 5 1 -5
+p626
+aVVoshon Lenard DEN 12/11/2001 DEN vs. CHH L 20 12 5 6 83.3 2 2 100.0 0 0 - 0 1 1 2 0 0 2 0 -4
+p627
+aVAvery Johnson DEN 12/11/2001 DEN vs. CHH L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 0 -6
+p628
+aVScott Williams DEN 12/11/2001 DEN vs. CHH L 20 4 2 6 33.3 0 1 0.0 0 0 - 4 4 8 1 0 0 3 4 -4
+p629
+aVShawnelle Scott DEN 12/11/2001 DEN vs. CHH L 17 4 2 6 33.3 0 0 - 0 0 - 6 3 9 0 0 0 3 5 -3
+p630
+aVRyan Bowen DEN 12/11/2001 DEN vs. CHH L 20 0 0 3 0.0 0 0 - 0 0 - 1 3 4 4 1 1 0 2 0
+p631
+aVNick Van Exel DEN 12/11/2001 DEN vs. CHH L 43 18 7 22 31.8 1 5 20.0 3 4 75.0 1 6 7 15 0 0 0 1 4
+p632
+aVZendon Hamilton DEN 12/11/2001 DEN vs. CHH L 15 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 0 0 2 0 3 5
+p633
+aVGeorge McCloud DEN 12/11/2001 DEN vs. CHH L 24 9 4 9 44.4 1 3 33.3 0 0 - 2 0 2 0 0 0 0 1 -2
+p634
+aVCalbert Cheaney DEN 12/11/2001 DEN vs. CHH L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -1
+p635
+aVGeorge McCloud DEN 12/08/2001 DEN @ CLE L 26 13 5 10 50.0 3 6 50.0 0 0 - 0 4 4 5 0 0 2 1 -3
+p636
+aVRyan Bowen DEN 12/08/2001 DEN @ CLE L 19 6 3 6 50.0 0 0 - 0 0 - 4 1 5 0 1 0 0 2 -11
+p637
+aVZendon Hamilton DEN 12/08/2001 DEN @ CLE L 3 4 0 0 - 0 0 - 4 6 66.7 1 0 1 0 0 0 0 1 4
+p638
+aVAvery Johnson DEN 12/08/2001 DEN @ CLE L 20 6 3 6 50.0 0 0 - 0 0 - 0 0 0 4 1 0 1 2 -3
+p639
+aVCalbert Cheaney DEN 12/08/2001 DEN @ CLE L 19 2 1 2 50.0 0 0 - 0 0 - 1 3 4 3 0 1 1 0 -4
+p640
+aVNick Van Exel DEN 12/08/2001 DEN @ CLE L 30 10 4 14 28.6 1 2 50.0 1 2 50.0 0 5 5 4 0 1 0 0 -10
+p641
+aVScott Williams DEN 12/08/2001 DEN @ CLE L 13 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 1 0 4 -16
+p642
+aVRaef LaFrentz DEN 12/08/2001 DEN @ CLE L 32 15 5 11 45.5 3 4 75.0 2 4 50.0 0 2 2 0 1 5 0 5 2
+p643
+aVKenny Satterfield DEN 12/08/2001 DEN @ CLE L 3 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 1 1 0 0 0 4
+p644
+aVJames Posey DEN 12/08/2001 DEN @ CLE L 31 15 4 13 30.8 1 4 25.0 6 7 85.7 2 7 9 3 0 0 2 3 -6
+p645
+aVShawnelle Scott DEN 12/08/2001 DEN @ CLE L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p646
+aVVoshon Lenard DEN 12/08/2001 DEN @ CLE L 41 17 5 18 27.8 1 5 20.0 6 6 100.0 2 5 7 4 2 0 2 3 -11
+p647
+aVNick Van Exel DEN 12/07/2001 DEN @ TOR L 48 27 9 24 37.5 5 12 41.7 4 4 100.0 0 5 5 7 2 0 6 1 5
+p648
+aVVoshon Lenard DEN 12/07/2001 DEN @ TOR L 25 11 4 9 44.4 1 1 100.0 2 2 100.0 2 1 3 3 1 0 2 1 1
+p649
+aVCalbert Cheaney DEN 12/07/2001 DEN @ TOR L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -12
+p650
+aVRyan Bowen DEN 12/07/2001 DEN @ TOR L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p651
+aVShawnelle Scott DEN 12/07/2001 DEN @ TOR L 7 6 3 3 100.0 0 0 - 0 1 0.0 1 1 2 0 0 0 1 1 -6
+p652
+aVRaef LaFrentz DEN 12/07/2001 DEN @ TOR L 42 16 7 19 36.8 0 5 0.0 2 4 50.0 5 3 8 2 2 7 1 2 -4
+p653
+aVJames Posey DEN 12/07/2001 DEN @ TOR L 41 7 3 10 30.0 1 2 50.0 0 0 - 1 7 8 1 1 1 0 5 -2
+p654
+aVAvery Johnson DEN 12/07/2001 DEN @ TOR L 30 0 0 3 0.0 0 0 - 0 0 - 0 2 2 5 0 0 2 1 2
+p655
+aVScott Williams DEN 12/07/2001 DEN @ TOR L 24 16 6 11 54.5 0 0 - 4 6 66.7 4 3 7 1 2 1 2 2 8
+p656
+aVGeorge McCloud DEN 12/07/2001 DEN @ TOR L 29 9 3 8 37.5 1 4 25.0 2 3 66.7 1 4 5 2 0 0 1 4 -3
+p657
+aVScott Williams DEN 12/05/2001 DEN @ BOS L 13 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -8
+p658
+aVZendon Hamilton DEN 12/05/2001 DEN @ BOS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p659
+aVAvery Johnson DEN 12/05/2001 DEN @ BOS L 31 16 7 9 77.8 0 0 - 2 3 66.7 1 1 2 6 2 0 3 3 -14
+p660
+aVNick Van Exel DEN 12/05/2001 DEN @ BOS L 29 16 8 20 40.0 0 4 0.0 0 0 - 0 1 1 3 0 0 3 2 -24
+p661
+aVRaef LaFrentz DEN 12/05/2001 DEN @ BOS L 24 7 3 6 50.0 1 1 100.0 0 0 - 3 5 8 1 0 3 1 2 -14
+p662
+aVCalbert Cheaney DEN 12/05/2001 DEN @ BOS L 31 10 5 11 45.5 0 1 0.0 0 0 - 0 4 4 2 1 0 0 3 1
+p663
+aVVoshon Lenard DEN 12/05/2001 DEN @ BOS L 28 14 6 13 46.2 1 4 25.0 1 3 33.3 1 2 3 0 1 0 2 0 1
+p664
+aVKenny Satterfield DEN 12/05/2001 DEN @ BOS L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 2 0 3 1 4
+p665
+aVRyan Bowen DEN 12/05/2001 DEN @ BOS L 24 2 1 1 100.0 0 0 - 0 0 - 2 4 6 1 0 0 0 5 -7
+p666
+aVJames Posey DEN 12/05/2001 DEN @ BOS L 20 2 1 9 11.1 0 3 0.0 0 0 - 1 7 8 2 0 0 3 0 -13
+p667
+aVGeorge McCloud DEN 12/05/2001 DEN @ BOS L 18 5 1 5 20.0 1 3 33.3 2 3 66.7 0 2 2 3 2 0 1 3 -12
+p668
+aVShawnelle Scott DEN 12/05/2001 DEN @ BOS L 11 4 2 2 100.0 0 0 - 0 0 - 2 4 6 1 0 1 1 1 7
+p669
+aVScott Williams DEN 12/04/2001 DEN @ IND L 14 5 2 8 25.0 0 0 - 1 1 100.0 1 0 1 1 1 0 1 2 -3
+p670
+aVRyan Bowen DEN 12/04/2001 DEN @ IND L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -3
+p671
+aVNick Van Exel DEN 12/04/2001 DEN @ IND L 44 30 12 26 46.2 0 4 0.0 6 8 75.0 0 0 0 10 1 0 0 3 0
+p672
+aVGeorge McCloud DEN 12/04/2001 DEN @ IND L 38 11 3 11 27.3 1 3 33.3 4 5 80.0 1 8 9 2 2 0 2 2 -3
+p673
+aVRaef LaFrentz DEN 12/04/2001 DEN @ IND L 36 13 5 13 38.5 0 1 0.0 3 4 75.0 4 8 12 1 1 3 0 3 3
+p674
+aVAvery Johnson DEN 12/04/2001 DEN @ IND L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -12
+p675
+aVCalbert Cheaney DEN 12/04/2001 DEN @ IND L 10 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 0 1 0
+p676
+aVShawnelle Scott DEN 12/04/2001 DEN @ IND L 24 9 4 6 66.7 0 0 - 1 1 100.0 1 3 4 2 0 0 0 5 -4
+p677
+aVZendon Hamilton DEN 12/04/2001 DEN @ IND L 8 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -14
+p678
+aVJames Posey DEN 12/04/2001 DEN @ IND L 23 4 1 6 16.7 0 1 0.0 2 2 100.0 1 2 3 1 0 1 1 3 -7
+p679
+aVVoshon Lenard DEN 12/04/2001 DEN @ IND L 22 20 7 13 53.8 3 5 60.0 3 4 75.0 0 1 1 1 1 0 2 1 3
+p680
+aVGeorge McCloud DEN 11/30/2001 DEN vs. LAC W 34 6 2 10 20.0 1 5 20.0 1 2 50.0 4 5 9 2 0 1 2 2 1
+p681
+aVShawnelle Scott DEN 11/30/2001 DEN vs. LAC W 22 4 2 5 40.0 0 0 - 0 2 0.0 5 5 10 1 0 0 1 2 13
+p682
+aVNick Van Exel DEN 11/30/2001 DEN vs. LAC W 40 18 4 19 21.1 4 9 44.4 6 6 100.0 0 2 2 6 1 0 2 0 13
+p683
+aVScott Williams DEN 11/30/2001 DEN vs. LAC W 16 7 3 5 60.0 0 0 - 1 1 100.0 0 3 3 0 0 0 0 2 2
+p684
+aVRaef LaFrentz DEN 11/30/2001 DEN vs. LAC W 37 26 8 19 42.1 2 5 40.0 8 10 80.0 6 9 15 1 3 2 0 4 2
+p685
+aVRyan Bowen DEN 11/30/2001 DEN vs. LAC W 19 8 4 6 66.7 0 0 - 0 0 - 5 2 7 2 0 1 1 2 -11
+p686
+aVVoshon Lenard DEN 11/30/2001 DEN vs. LAC W 14 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p687
+aVAvery Johnson DEN 11/30/2001 DEN vs. LAC W 28 13 6 9 66.7 0 0 - 1 1 100.0 0 0 0 7 1 1 2 1 -3
+p688
+aVJames Posey DEN 11/30/2001 DEN vs. LAC W 30 12 6 14 42.9 0 3 0.0 0 0 - 3 0 3 0 5 0 1 5 2
+p689
+aVVoshon Lenard DEN 11/28/2001 DEN vs. IND L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p690
+aVGeorge McCloud DEN 11/28/2001 DEN vs. IND L 33 18 7 15 46.7 2 7 28.6 2 2 100.0 2 3 5 5 0 1 3 1 -19
+p691
+aVNick Van Exel DEN 11/28/2001 DEN vs. IND L 41 20 8 23 34.8 2 8 25.0 2 3 66.7 0 3 3 9 1 1 1 1 -6
+p692
+aVCalbert Cheaney DEN 11/28/2001 DEN vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p693
+aVRaef LaFrentz DEN 11/28/2001 DEN vs. IND L 38 13 5 12 41.7 1 5 20.0 2 2 100.0 1 10 11 0 0 5 2 2 -7
+p694
+aVRyan Bowen DEN 11/28/2001 DEN vs. IND L 32 4 2 6 33.3 0 0 - 0 0 - 8 4 12 1 1 1 1 4 -15
+p695
+aVScott Williams DEN 11/28/2001 DEN vs. IND L 22 4 2 6 33.3 0 0 - 0 0 - 3 4 7 0 1 0 2 2 -13
+p696
+aVAvery Johnson DEN 11/28/2001 DEN vs. IND L 25 9 3 10 30.0 0 2 0.0 3 4 75.0 1 2 3 7 3 0 0 5 1
+p697
+aVJames Posey DEN 11/28/2001 DEN vs. IND L 38 15 4 18 22.2 0 4 0.0 7 8 87.5 3 3 6 2 3 0 3 2 -7
+p698
+aVJames Posey DEN 11/25/2001 DEN @ LAL L 43 17 6 15 40.0 3 8 37.5 2 4 50.0 1 5 6 3 2 0 4 3 -6
+p699
+aVShawnelle Scott DEN 11/25/2001 DEN @ LAL L 8 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 5 -8
+p700
+aVAvery Johnson DEN 11/25/2001 DEN @ LAL L 20 6 3 4 75.0 0 0 - 0 0 - 0 1 1 5 1 0 0 1 -4
+p701
+aVGeorge McCloud DEN 11/25/2001 DEN @ LAL L 41 13 4 12 33.3 1 3 33.3 4 4 100.0 4 3 7 3 3 0 4 1 1
+p702
+aVRyan Bowen DEN 11/25/2001 DEN @ LAL L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p703
+aVRaef LaFrentz DEN 11/25/2001 DEN @ LAL L 42 13 6 14 42.9 1 2 50.0 0 0 - 2 9 11 3 1 3 1 3 -2
+p704
+aVNick Van Exel DEN 11/25/2001 DEN @ LAL L 38 34 14 23 60.9 2 3 66.7 4 5 80.0 0 1 1 8 0 0 2 2 6
+p705
+aVVoshon Lenard DEN 11/25/2001 DEN @ LAL L 7 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -11
+p706
+aVScott Williams DEN 11/25/2001 DEN @ LAL L 29 6 3 9 33.3 0 0 - 0 0 - 3 6 9 1 0 1 1 6 -5
+p707
+aVRaef LaFrentz DEN 11/23/2001 DEN @ POR L 34 15 5 11 45.5 5 8 62.5 0 0 - 0 9 9 1 0 5 1 5 -12
+p708
+aVGeorge McCloud DEN 11/23/2001 DEN @ POR L 32 11 4 10 40.0 1 2 50.0 2 2 100.0 3 8 11 3 2 0 1 6 -7
+p709
+aVChris Andersen DEN 11/23/2001 DEN @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p710
+aVScott Williams DEN 11/23/2001 DEN @ POR L 19 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 1 1 3 -1
+p711
+aVRyan Bowen DEN 11/23/2001 DEN @ POR L 19 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 4 11
+p712
+aVCalbert Cheaney DEN 11/23/2001 DEN @ POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p713
+aVAvery Johnson DEN 11/23/2001 DEN @ POR L 44 14 6 9 66.7 0 0 - 2 4 50.0 2 1 3 12 1 0 2 3 4
+p714
+aVVoshon Lenard DEN 11/23/2001 DEN @ POR L 18 8 4 7 57.1 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 -1
+p715
+aVNick Van Exel DEN 11/23/2001 DEN @ POR L 37 29 11 25 44.0 1 4 25.0 6 7 85.7 1 2 3 4 0 0 0 1 -14
+p716
+aVJames Posey DEN 11/23/2001 DEN @ POR L 34 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 2 0 2 3 3 -11
+p717
+aVNick Van Exel DEN 11/21/2001 DEN vs. LAL L 38 21 8 22 36.4 1 5 20.0 4 4 100.0 0 4 4 6 1 0 1 3 -11
+p718
+aVShawnelle Scott DEN 11/21/2001 DEN vs. LAL L 15 8 4 6 66.7 0 0 - 0 0 - 3 3 6 0 0 1 0 3 -2
+p719
+aVScott Williams DEN 11/21/2001 DEN vs. LAL L 16 3 1 8 12.5 0 0 - 1 2 50.0 2 2 4 1 0 0 1 3 -18
+p720
+aVVoshon Lenard DEN 11/21/2001 DEN vs. LAL L 10 3 1 6 16.7 1 2 50.0 0 0 - 2 0 2 1 0 0 0 0 -4
+p721
+aVAvery Johnson DEN 11/21/2001 DEN vs. LAL L 25 7 3 9 33.3 0 1 0.0 1 2 50.0 0 1 1 2 0 0 0 2 -13
+p722
+aVTariq Abdul-Wahad DEN 11/21/2001 DEN vs. LAL L 14 2 1 6 16.7 0 0 - 0 0 - 2 1 3 1 0 1 1 1 -12
+p723
+aVCalbert Cheaney DEN 11/21/2001 DEN vs. LAL L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -2
+p724
+aVGeorge McCloud DEN 11/21/2001 DEN vs. LAL L 32 7 3 9 33.3 1 4 25.0 0 0 - 1 2 3 0 1 0 2 3 -12
+p725
+aVJames Posey DEN 11/21/2001 DEN vs. LAL L 23 9 3 7 42.9 1 1 100.0 2 2 100.0 0 4 4 1 3 0 2 3 -8
+p726
+aVRyan Bowen DEN 11/21/2001 DEN vs. LAL L 32 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 0 3 1 2 -7
+p727
+aVRaef LaFrentz DEN 11/21/2001 DEN vs. LAL L 30 6 3 9 33.3 0 1 0.0 0 0 - 1 4 5 1 1 1 1 3 -16
+p728
+aVRyan Bowen DEN 11/19/2001 DEN vs. NJN W 28 2 1 4 25.0 0 0 - 0 0 - 2 3 5 1 3 1 1 5 0
+p729
+aVJames Posey DEN 11/19/2001 DEN vs. NJN W 39 6 2 8 25.0 0 1 0.0 2 4 50.0 5 6 11 7 1 0 3 4 6
+p730
+aVRaef LaFrentz DEN 11/19/2001 DEN vs. NJN W 40 25 9 16 56.3 2 3 66.7 5 6 83.3 3 4 7 1 3 1 0 1 2
+p731
+aVIsaiah Rider DEN 11/19/2001 DEN vs. NJN W 8 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 6
+p732
+aVGeorge McCloud DEN 11/19/2001 DEN vs. NJN W 29 11 4 9 44.4 3 4 75.0 0 0 - 0 2 2 1 0 0 1 3 4
+p733
+aVNick Van Exel DEN 11/19/2001 DEN vs. NJN W 47 30 12 30 40.0 3 6 50.0 3 5 60.0 0 3 3 8 1 0 3 2 -1
+p734
+aVTariq Abdul-Wahad DEN 11/19/2001 DEN vs. NJN W 39 12 5 11 45.5 0 0 - 2 4 50.0 3 1 4 3 3 1 1 3 4
+p735
+aVAvery Johnson DEN 11/19/2001 DEN vs. NJN W 19 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 6 1 1 0 1 -6
+p736
+aVScott Williams DEN 11/19/2001 DEN vs. NJN W 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 0
+p737
+aVRaef LaFrentz DEN 11/17/2001 DEN @ SEA W 29 17 6 14 42.9 1 3 33.3 4 5 80.0 4 3 7 1 0 1 1 4 3
+p738
+aVJames Posey DEN 11/17/2001 DEN @ SEA W 36 12 5 8 62.5 0 2 0.0 2 4 50.0 5 6 11 7 1 0 1 1 18
+p739
+aVAvery Johnson DEN 11/17/2001 DEN @ SEA W 25 5 1 5 20.0 0 0 - 3 4 75.0 0 1 1 3 1 0 2 2 -8
+p740
+aVGeorge McCloud DEN 11/17/2001 DEN @ SEA W 33 17 6 16 37.5 1 6 16.7 4 6 66.7 3 5 8 5 2 1 2 5 -5
+p741
+aVTariq Abdul-Wahad DEN 11/17/2001 DEN @ SEA W 40 5 2 4 50.0 0 0 - 1 1 100.0 1 7 8 1 1 2 1 4 14
+p742
+aVScott Williams DEN 11/17/2001 DEN @ SEA W 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 1
+p743
+aVRyan Bowen DEN 11/17/2001 DEN @ SEA W 26 7 3 6 50.0 0 0 - 1 2 50.0 2 2 4 0 1 0 1 0 14
+p744
+aVNick Van Exel DEN 11/17/2001 DEN @ SEA W 39 38 12 29 41.4 7 15 46.7 7 7 100.0 0 3 3 3 1 0 2 2 13
+p745
+aVNick Van Exel DEN 11/15/2001 DEN vs. ORL L 36 13 6 19 31.6 1 3 33.3 0 3 0.0 0 5 5 4 1 0 1 1 -22
+p746
+aVVoshon Lenard DEN 11/15/2001 DEN vs. ORL L 8 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 -2
+p747
+aVShawnelle Scott DEN 11/15/2001 DEN vs. ORL L 10 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 1 0 1 4 0
+p748
+aVRaef LaFrentz DEN 11/15/2001 DEN vs. ORL L 29 12 5 13 38.5 1 3 33.3 1 1 100.0 5 2 7 1 0 3 0 2 -19
+p749
+aVRyan Bowen DEN 11/15/2001 DEN vs. ORL L 27 14 4 9 44.4 0 0 - 6 7 85.7 1 5 6 1 2 0 0 2 4
+p750
+aVTariq Abdul-Wahad DEN 11/15/2001 DEN vs. ORL L 17 3 1 9 11.1 0 0 - 1 3 33.3 2 0 2 1 1 0 1 3 -10
+p751
+aVIsaiah Rider DEN 11/15/2001 DEN vs. ORL L 20 8 2 9 22.2 1 4 25.0 3 4 75.0 0 2 2 2 0 0 1 1 3
+p752
+aVAvery Johnson DEN 11/15/2001 DEN vs. ORL L 26 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 6 0 0 0 1 -8
+p753
+aVGeorge McCloud DEN 11/15/2001 DEN vs. ORL L 29 9 4 9 44.4 1 3 33.3 0 0 - 4 3 7 2 0 0 2 0 -20
+p754
+aVScott Williams DEN 11/15/2001 DEN vs. ORL L 13 4 2 6 33.3 0 1 0.0 0 0 - 3 4 7 0 0 1 0 1 6
+p755
+aVJames Posey DEN 11/15/2001 DEN vs. ORL L 26 6 2 7 28.6 0 3 0.0 2 2 100.0 1 3 4 1 0 0 1 4 -27
+p756
+aVGeorge McCloud DEN 11/13/2001 DEN vs. CHI W 25 0 0 4 0.0 0 2 0.0 0 0 - 1 4 5 4 0 0 3 4 -5
+p757
+aVShawnelle Scott DEN 11/13/2001 DEN vs. CHI W 11 7 3 5 60.0 0 0 - 1 2 50.0 5 0 5 0 0 2 0 3 0
+p758
+aVNick Van Exel DEN 11/13/2001 DEN vs. CHI W 40 23 9 22 40.9 1 5 20.0 4 5 80.0 0 2 2 6 0 0 3 0 3
+p759
+aVRaef LaFrentz DEN 11/13/2001 DEN vs. CHI W 34 18 8 10 80.0 2 2 100.0 0 1 0.0 2 6 8 1 0 3 1 5 7
+p760
+aVTariq Abdul-Wahad DEN 11/13/2001 DEN vs. CHI W 17 12 6 10 60.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 1
+p761
+aVIsaiah Rider DEN 11/13/2001 DEN vs. CHI W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 5
+p762
+aVScott Williams DEN 11/13/2001 DEN vs. CHI W 26 16 4 5 80.0 0 0 - 8 8 100.0 1 7 8 0 0 3 0 2 12
+p763
+aVRyan Bowen DEN 11/13/2001 DEN vs. CHI W 11 4 2 2 100.0 0 0 - 0 0 - 1 1 2 4 1 0 0 4 5
+p764
+aVAvery Johnson DEN 11/13/2001 DEN vs. CHI W 28 9 3 5 60.0 0 0 - 3 4 75.0 0 3 3 3 1 0 1 3 7
+p765
+aVJames Posey DEN 11/13/2001 DEN vs. CHI W 41 9 1 10 10.0 0 5 0.0 7 8 87.5 1 5 6 4 0 0 1 4 5
+p766
+aVJames Posey DEN 11/11/2001 DEN vs. TOR W 36 13 5 12 41.7 1 2 50.0 2 2 100.0 5 9 14 5 1 1 2 3 12
+p767
+aVRaef LaFrentz DEN 11/11/2001 DEN vs. TOR W 33 12 5 17 29.4 1 2 50.0 1 2 50.0 2 4 6 0 1 5 2 2 7
+p768
+aVGeorge McCloud DEN 11/11/2001 DEN vs. TOR W 29 14 5 9 55.6 1 2 50.0 3 3 100.0 2 3 5 2 1 0 2 4 8
+p769
+aVAvery Johnson DEN 11/11/2001 DEN vs. TOR W 24 12 4 9 44.4 0 1 0.0 4 4 100.0 0 3 3 2 0 0 1 1 9
+p770
+aVTariq Abdul-Wahad DEN 11/11/2001 DEN vs. TOR W 19 12 5 11 45.5 0 0 - 2 2 100.0 7 1 8 2 0 0 1 4 1
+p771
+aVIsaiah Rider DEN 11/11/2001 DEN vs. TOR W 19 4 2 7 28.6 0 0 - 0 0 - 1 2 3 4 1 0 2 2 2
+p772
+aVScott Williams DEN 11/11/2001 DEN vs. TOR W 15 4 2 7 28.6 0 0 - 0 0 - 0 5 5 0 0 1 0 0 4
+p773
+aVRyan Bowen DEN 11/11/2001 DEN vs. TOR W 20 1 0 0 - 0 0 - 1 2 50.0 0 4 4 0 1 0 0 2 3
+p774
+aVNick Van Exel DEN 11/11/2001 DEN vs. TOR W 46 24 10 23 43.5 2 7 28.6 2 2 100.0 0 4 4 9 0 0 1 1 9
+p775
+aVNick Van Exel DEN 11/09/2001 DEN vs. HOU W 40 28 12 21 57.1 2 6 33.3 2 3 66.7 0 3 3 9 0 0 3 3 17
+p776
+aVVoshon Lenard DEN 11/09/2001 DEN vs. HOU W 5 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p777
+aVAvery Johnson DEN 11/09/2001 DEN vs. HOU W 32 14 6 12 50.0 0 0 - 2 3 66.7 1 1 2 11 4 1 0 1 23
+p778
+aVRaef LaFrentz DEN 11/09/2001 DEN vs. HOU W 23 11 5 8 62.5 1 2 50.0 0 2 0.0 2 3 5 2 0 2 1 3 17
+p779
+aVJames Posey DEN 11/09/2001 DEN vs. HOU W 18 6 3 5 60.0 0 1 0.0 0 0 - 2 4 6 4 1 1 1 4 24
+p780
+aVZendon Hamilton DEN 11/09/2001 DEN vs. HOU W 6 3 1 4 25.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 0 1
+p781
+aVRyan Bowen DEN 11/09/2001 DEN vs. HOU W 19 2 1 1 100.0 0 0 - 0 0 - 3 2 5 1 1 0 0 5 16
+p782
+aVShawnelle Scott DEN 11/09/2001 DEN vs. HOU W 5 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 1
+p783
+aVScott Williams DEN 11/09/2001 DEN vs. HOU W 13 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 1 0 1 1 9
+p784
+aVGeorge McCloud DEN 11/09/2001 DEN vs. HOU W 21 4 1 2 50.0 0 0 - 2 2 100.0 0 6 6 0 0 0 2 4 -8
+p785
+aVIsaiah Rider DEN 11/09/2001 DEN vs. HOU W 31 28 12 19 63.2 0 1 0.0 4 7 57.1 3 7 10 1 0 1 0 1 19
+p786
+aVTariq Abdul-Wahad DEN 11/09/2001 DEN vs. HOU W 27 4 2 6 33.3 0 0 - 0 1 0.0 2 1 3 3 0 2 2 3 15
+p787
+aVScott Williams DEN 11/08/2001 DEN @ DAL L 18 6 3 7 42.9 0 0 - 0 0 - 0 4 4 0 0 1 0 4 -5
+p788
+aVJames Posey DEN 11/08/2001 DEN @ DAL L 23 10 4 7 57.1 0 0 - 2 2 100.0 0 0 0 1 2 0 1 6 -16
+p789
+aVZendon Hamilton DEN 11/08/2001 DEN @ DAL L 16 3 1 4 25.0 0 0 - 1 2 50.0 2 4 6 0 0 1 2 1 -2
+p790
+aVTariq Abdul-Wahad DEN 11/08/2001 DEN @ DAL L 20 6 2 8 25.0 0 0 - 2 3 66.7 3 0 3 0 0 0 2 4 -18
+p791
+aVNick Van Exel DEN 11/08/2001 DEN @ DAL L 35 13 6 13 46.2 1 3 33.3 0 0 - 0 2 2 7 0 0 2 0 -23
+p792
+aVRaef LaFrentz DEN 11/08/2001 DEN @ DAL L 24 9 4 10 40.0 1 2 50.0 0 0 - 2 7 9 1 0 3 0 6 -13
+p793
+aVAvery Johnson DEN 11/08/2001 DEN @ DAL L 31 10 3 9 33.3 0 0 - 4 4 100.0 1 3 4 5 2 1 0 1 -2
+p794
+aVIsaiah Rider DEN 11/08/2001 DEN @ DAL L 28 19 7 13 53.8 1 2 50.0 4 4 100.0 3 2 5 2 0 1 2 4 8
+p795
+aVRyan Bowen DEN 11/08/2001 DEN @ DAL L 16 6 3 7 42.9 0 0 - 0 0 - 3 1 4 1 0 0 0 1 17
+p796
+aVGeorge McCloud DEN 11/08/2001 DEN @ DAL L 30 9 2 6 33.3 0 1 0.0 5 6 83.3 0 5 5 2 1 0 1 4 -16
+p797
+aVTariq Abdul-Wahad DEN 11/06/2001 DEN @ HOU L 16 6 3 7 42.9 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -2
+p798
+aVRaef LaFrentz DEN 11/06/2001 DEN @ HOU L 40 18 8 13 61.5 2 2 100.0 0 1 0.0 4 10 14 1 0 2 2 3 -6
+p799
+aVGeorge McCloud DEN 11/06/2001 DEN @ HOU L 26 6 2 6 33.3 0 1 0.0 2 2 100.0 0 3 3 1 1 0 2 2 2
+p800
+aVScott Williams DEN 11/06/2001 DEN @ HOU L 19 8 4 8 50.0 0 0 - 0 1 0.0 0 1 1 0 1 2 0 4 -6
+p801
+aVAvery Johnson DEN 11/06/2001 DEN @ HOU L 22 18 8 10 80.0 0 0 - 2 3 66.7 0 0 0 5 1 0 1 4 2
+p802
+aVIsaiah Rider DEN 11/06/2001 DEN @ HOU L 26 8 4 12 33.3 0 2 0.0 0 0 - 1 3 4 2 0 0 2 1 -11
+p803
+aVVoshon Lenard DEN 11/06/2001 DEN @ HOU L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p804
+aVNick Van Exel DEN 11/06/2001 DEN @ HOU L 44 25 10 22 45.5 0 6 0.0 5 5 100.0 2 2 4 7 1 0 4 3 -5
+p805
+aVRyan Bowen DEN 11/06/2001 DEN @ HOU L 11 0 0 1 0.0 0 0 - 0 0 - 4 0 4 0 0 0 0 0 -2
+p806
+aVJames Posey DEN 11/06/2001 DEN @ HOU L 29 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 3 0 0 1 4 1
+p807
+aVShawnelle Scott DEN 11/03/2001 DEN vs. SAC L 10 4 2 2 100.0 0 0 - 0 2 0.0 2 0 2 0 0 0 1 3 -8
+p808
+aVIsaiah Rider DEN 11/03/2001 DEN vs. SAC L 5 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 2 0 -7
+p809
+aVGeorge McCloud DEN 11/03/2001 DEN vs. SAC L 22 4 0 9 0.0 0 2 0.0 4 4 100.0 0 3 3 1 0 0 2 3 -17
+p810
+aVZendon Hamilton DEN 11/03/2001 DEN vs. SAC L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 3
+p811
+aVAvery Johnson DEN 11/03/2001 DEN vs. SAC L 22 13 4 7 57.1 0 0 - 5 6 83.3 0 2 2 2 0 0 0 3 -8
+p812
+aVRyan Bowen DEN 11/03/2001 DEN vs. SAC L 17 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 4
+p813
+aVNick Van Exel DEN 11/03/2001 DEN vs. SAC L 39 32 12 25 48.0 1 5 20.0 7 7 100.0 2 7 9 7 0 0 3 2 -17
+p814
+aVRaef LaFrentz DEN 11/03/2001 DEN vs. SAC L 25 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 0 0 3 0 6 2
+p815
+aVTariq Abdul-Wahad DEN 11/03/2001 DEN vs. SAC L 25 6 3 11 27.3 0 0 - 0 0 - 3 2 5 0 1 0 2 2 -10
+p816
+aVVoshon Lenard DEN 11/03/2001 DEN vs. SAC L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 1
+p817
+aVScott Williams DEN 11/03/2001 DEN vs. SAC L 24 9 4 10 40.0 0 0 - 1 1 100.0 4 4 8 0 1 0 0 3 -1
+p818
+aVJames Posey DEN 11/03/2001 DEN vs. SAC L 33 13 3 11 27.3 1 4 25.0 6 7 85.7 2 6 8 3 0 1 1 4 -2
+p819
+aVRyan Bowen DEN 11/01/2001 DEN vs. MIL L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 0 11
+p820
+aVJames Posey DEN 11/01/2001 DEN vs. MIL L 35 14 7 13 53.8 0 0 - 0 0 - 2 4 6 5 1 0 0 3 -3
+p821
+aVTariq Abdul-Wahad DEN 11/01/2001 DEN vs. MIL L 31 7 2 6 33.3 1 1 100.0 2 2 100.0 2 1 3 2 2 0 1 5 -11
+p822
+aVShawnelle Scott DEN 11/01/2001 DEN vs. MIL L 14 3 1 2 50.0 0 0 - 1 1 100.0 1 2 3 0 0 1 0 3 1
+p823
+aVGeorge McCloud DEN 11/01/2001 DEN vs. MIL L 25 14 3 9 33.3 0 4 0.0 8 8 100.0 1 3 4 2 1 0 2 4 3
+p824
+aVScott Williams DEN 11/01/2001 DEN vs. MIL L 36 6 2 4 50.0 0 0 - 2 2 100.0 2 9 11 2 0 0 2 4 2
+p825
+aVRaef LaFrentz DEN 11/01/2001 DEN vs. MIL L 21 1 0 5 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -8
+p826
+aVNick Van Exel DEN 11/01/2001 DEN vs. MIL L 41 44 16 32 50.0 6 11 54.5 6 7 85.7 0 7 7 8 0 1 4 1 0
+p827
+aVIsaiah Rider DEN 11/01/2001 DEN vs. MIL L 14 7 3 4 75.0 1 1 100.0 0 0 - 1 3 4 0 1 0 2 0 0
+p828
+aVAvery Johnson DEN 11/01/2001 DEN vs. MIL L 14 1 0 0 - 0 0 - 1 2 50.0 0 0 0 3 0 0 2 0 0
+p829
+aVAvery Johnson DEN 10/30/2001 DEN @ PHX W 20 8 3 7 42.9 0 0 - 2 3 66.7 0 0 0 1 0 0 0 0 -15
+p830
+aVRaef LaFrentz DEN 10/30/2001 DEN @ PHX W 30 9 3 9 33.3 0 2 0.0 3 6 50.0 1 6 7 1 1 3 2 2 14
+p831
+aVScott Williams DEN 10/30/2001 DEN @ PHX W 30 12 6 14 42.9 0 0 - 0 1 0.0 6 9 15 0 0 1 0 2 8
+p832
+aVShawnelle Scott DEN 10/30/2001 DEN @ PHX W 6 2 1 3 33.3 0 0 - 0 2 0.0 3 1 4 0 1 0 0 1 0
+p833
+aVJames Posey DEN 10/30/2001 DEN @ PHX W 39 13 5 6 83.3 1 1 100.0 2 4 50.0 4 6 10 1 4 0 2 3 8
+p834
+aVNick Van Exel DEN 10/30/2001 DEN @ PHX W 38 27 9 22 40.9 3 6 50.0 6 7 85.7 0 2 2 9 0 0 4 3 9
+p835
+aVGeorge McCloud DEN 10/30/2001 DEN @ PHX W 30 6 1 6 16.7 0 4 0.0 4 4 100.0 0 1 1 2 2 0 0 2 -11
+p836
+aVIsaiah Rider DEN 10/30/2001 DEN @ PHX W 16 9 3 8 37.5 1 2 50.0 2 2 100.0 1 1 2 1 1 0 2 2 0
+p837
+aVTariq Abdul-Wahad DEN 10/30/2001 DEN @ PHX W 31 13 4 14 28.6 0 1 0.0 5 6 83.3 4 3 7 1 2 1 2 1 2
+p838
+a.

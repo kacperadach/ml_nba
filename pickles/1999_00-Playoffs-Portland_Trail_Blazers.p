@@ -1,0 +1,318 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBonzi Wells POR 06/04/2000 POR @ LAL L 18 7 2 7 28.6 0 2 0.0 3 3 100.0 1 2 3 0 2 0 1 4 6
+p2
+aVDamon Stoudamire POR 06/04/2000 POR @ LAL L 19 5 2 6 33.3 1 1 100.0 0 0 - 1 0 1 3 1 0 0 2 6
+p3
+aVGreg Anthony POR 06/04/2000 POR @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p4
+aVSteven Smith POR 06/04/2000 POR @ LAL L 42 18 7 17 41.2 3 4 75.0 1 2 50.0 0 3 3 2 0 1 2 1 -8
+p5
+aVScottie Pippen POR 06/04/2000 POR @ LAL L 43 12 3 10 30.0 2 6 33.3 4 4 100.0 1 9 10 3 2 0 3 6 -6
+p6
+aVJermaine O'Neal POR 06/04/2000 POR @ LAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -2
+p7
+aVDetlef Schrempf POR 06/04/2000 POR @ LAL L 21 6 3 3 100.0 0 0 - 0 0 - 0 5 5 0 0 0 2 5 -14
+p8
+aVArvydas Sabonis POR 06/04/2000 POR @ LAL L 32 6 2 6 33.3 0 0 - 2 2 100.0 1 4 5 3 1 0 0 6 10
+p9
+aVRasheed Wallace POR 06/04/2000 POR @ LAL L 45 30 13 26 50.0 2 2 100.0 2 5 40.0 0 4 4 1 0 1 1 4 -5
+p10
+aVBrian Grant POR 06/04/2000 POR @ LAL L 8 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 1 2 -14
+p11
+aVBonzi Wells POR 06/02/2000 POR vs. LAL W 18 20 8 13 61.5 0 0 - 4 4 100.0 3 1 4 2 0 0 0 4 1
+p12
+aVBrian Grant POR 06/02/2000 POR vs. LAL W 14 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 0 3 -3
+p13
+aVArvydas Sabonis POR 06/02/2000 POR vs. LAL W 45 10 3 10 30.0 0 1 0.0 4 4 100.0 2 9 11 6 2 1 3 3 12
+p14
+aVRasheed Wallace POR 06/02/2000 POR vs. LAL W 38 18 6 10 60.0 0 0 - 6 8 75.0 2 3 5 1 0 2 1 3 6
+p15
+aVDetlef Schrempf POR 06/02/2000 POR vs. LAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 0
+p16
+aVScottie Pippen POR 06/02/2000 POR vs. LAL W 47 9 1 6 16.7 0 3 0.0 7 10 70.0 1 5 6 4 1 2 1 2 10
+p17
+aVDamon Stoudamire POR 06/02/2000 POR vs. LAL W 30 14 7 13 53.8 0 1 0.0 0 1 0.0 0 7 7 4 1 1 0 2 11
+p18
+aVSteven Smith POR 06/02/2000 POR vs. LAL W 39 26 10 18 55.6 1 3 33.3 5 5 100.0 2 3 5 2 3 0 3 2 13
+p19
+aVDetlef Schrempf POR 05/30/2000 POR @ LAL W 26 9 2 4 50.0 0 2 0.0 5 6 83.3 0 5 5 6 0 0 2 3 9
+p20
+aVScottie Pippen POR 05/30/2000 POR @ LAL W 43 22 8 12 66.7 2 4 50.0 4 7 57.1 3 3 6 3 6 4 4 4 2
+p21
+aVBonzi Wells POR 05/30/2000 POR @ LAL W 14 5 2 7 28.6 1 2 50.0 0 0 - 1 3 4 1 0 0 0 2 -1
+p22
+aVDamon Stoudamire POR 05/30/2000 POR @ LAL W 14 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 1 5
+p23
+aVGreg Anthony POR 05/30/2000 POR @ LAL W 7 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 2 1 0 0 1 4
+p24
+aVSteven Smith POR 05/30/2000 POR @ LAL W 37 13 3 8 37.5 2 5 40.0 5 6 83.3 1 2 3 3 1 0 3 3 5
+p25
+aVJermaine O'Neal POR 05/30/2000 POR @ LAL W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 1 -2
+p26
+aVArvydas Sabonis POR 05/30/2000 POR @ LAL W 26 12 6 10 60.0 0 1 0.0 0 0 - 2 4 6 0 0 1 0 5 7
+p27
+aVRasheed Wallace POR 05/30/2000 POR @ LAL W 45 22 7 21 33.3 1 2 50.0 7 8 87.5 4 6 10 2 0 0 2 4 8
+p28
+aVBrian Grant POR 05/30/2000 POR @ LAL W 22 9 4 7 57.1 0 0 - 1 1 100.0 1 6 7 1 1 1 1 4 3
+p29
+aVDamon Stoudamire POR 05/28/2000 POR vs. LAL L 33 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 5 1 0 0 2 11
+p30
+aVArvydas Sabonis POR 05/28/2000 POR vs. LAL L 28 14 5 11 45.5 1 4 25.0 3 3 100.0 0 7 7 2 1 1 2 5 -1
+p31
+aVScottie Pippen POR 05/28/2000 POR vs. LAL L 43 11 4 12 33.3 0 4 0.0 3 4 75.0 2 8 10 2 3 0 5 5 -9
+p32
+aVRasheed Wallace POR 05/28/2000 POR vs. LAL L 48 34 11 25 44.0 1 3 33.3 11 13 84.6 6 7 13 3 1 0 3 5 -12
+p33
+aVBrian Grant POR 05/28/2000 POR vs. LAL L 18 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 3 -10
+p34
+aVStacey Augmon POR 05/28/2000 POR vs. LAL L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p35
+aVGreg Anthony POR 05/28/2000 POR vs. LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -6
+p36
+aVBonzi Wells POR 05/28/2000 POR vs. LAL L 19 3 0 3 0.0 0 0 - 3 6 50.0 0 0 0 3 1 0 1 4 -30
+p37
+aVSteven Smith POR 05/28/2000 POR vs. LAL L 43 20 6 15 40.0 3 4 75.0 5 6 83.3 2 2 4 3 0 0 0 3 0
+p38
+aVJermaine O'Neal POR 05/26/2000 POR vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p39
+aVBonzi Wells POR 05/26/2000 POR vs. LAL L 10 3 0 3 0.0 0 0 - 3 4 75.0 2 1 3 0 0 0 0 1 1
+p40
+aVArvydas Sabonis POR 05/26/2000 POR vs. LAL L 34 11 3 6 50.0 1 2 50.0 4 4 100.0 1 3 4 1 1 0 0 3 7
+p41
+aVScottie Pippen POR 05/26/2000 POR vs. LAL L 36 12 5 13 38.5 1 3 33.3 1 2 50.0 1 8 9 6 2 0 3 2 4
+p42
+aVBrian Grant POR 05/26/2000 POR vs. LAL L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -6
+p43
+aVStacey Augmon POR 05/26/2000 POR vs. LAL L 13 8 4 8 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p44
+aVDetlef Schrempf POR 05/26/2000 POR vs. LAL L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 3 1 0 2 2 -1
+p45
+aVSteven Smith POR 05/26/2000 POR vs. LAL L 37 14 5 11 45.5 1 3 33.3 3 3 100.0 0 0 0 5 2 0 1 3 -3
+p46
+aVDamon Stoudamire POR 05/26/2000 POR vs. LAL L 38 19 7 10 70.0 3 4 75.0 2 2 100.0 1 2 3 4 1 0 4 3 5
+p47
+aVRasheed Wallace POR 05/26/2000 POR vs. LAL L 35 19 9 11 81.8 0 0 - 1 2 50.0 0 4 4 2 1 1 4 5 -1
+p48
+aVGreg Anthony POR 05/26/2000 POR vs. LAL L 7 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 1 1 0 1 -4
+p49
+aVGreg Anthony POR 05/22/2000 POR @ LAL W 21 6 3 7 42.9 0 3 0.0 0 0 - 0 1 1 4 2 0 2 3 19
+p50
+aVSteven Smith POR 05/22/2000 POR @ LAL W 36 24 8 14 57.1 2 2 100.0 6 6 100.0 2 2 4 1 1 0 0 1 29
+p51
+aVScottie Pippen POR 05/22/2000 POR @ LAL W 39 21 6 10 60.0 0 1 0.0 9 12 75.0 2 9 11 3 3 0 4 2 20
+p52
+aVDetlef Schrempf POR 05/22/2000 POR @ LAL W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 1 11
+p53
+aVBrian Grant POR 05/22/2000 POR @ LAL W 21 2 1 2 50.0 0 0 - 0 0 - 3 2 5 0 0 0 0 6 11
+p54
+aVStacey Augmon POR 05/22/2000 POR @ LAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 9
+p55
+aVArvydas Sabonis POR 05/22/2000 POR @ LAL W 16 5 2 8 25.0 0 1 0.0 1 2 50.0 2 3 5 1 1 3 0 6 12
+p56
+aVGary Grant POR 05/22/2000 POR @ LAL W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 0
+p57
+aVDamon Stoudamire POR 05/22/2000 POR @ LAL W 10 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 4 -4
+p58
+aVJermaine O'Neal POR 05/22/2000 POR @ LAL W 4 4 1 2 50.0 0 0 - 2 3 66.7 0 1 1 0 0 0 0 0 1
+p59
+aVBonzi Wells POR 05/22/2000 POR @ LAL W 23 12 4 8 50.0 0 0 - 4 7 57.1 2 4 6 2 1 0 1 5 12
+p60
+aVRasheed Wallace POR 05/22/2000 POR @ LAL W 45 29 8 18 44.4 3 3 100.0 10 11 90.9 1 11 12 3 2 0 0 1 25
+p61
+aVBonzi Wells POR 05/20/2000 POR @ LAL L 19 17 5 11 45.5 1 3 33.3 6 8 75.0 1 3 4 0 2 0 2 2 1
+p62
+aVRasheed Wallace POR 05/20/2000 POR @ LAL L 16 11 5 8 62.5 0 1 0.0 1 1 100.0 1 2 3 0 0 0 1 3 -5
+p63
+aVScottie Pippen POR 05/20/2000 POR @ LAL L 41 19 7 17 41.2 3 11 27.3 2 2 100.0 0 11 11 5 1 0 0 5 -4
+p64
+aVSteven Smith POR 05/20/2000 POR @ LAL L 40 13 4 9 44.4 3 4 75.0 2 2 100.0 0 0 0 2 0 0 2 4 -14
+p65
+aVDamon Stoudamire POR 05/20/2000 POR @ LAL L 30 10 5 11 45.5 0 2 0.0 0 0 - 0 5 5 4 0 0 4 2 -15
+p66
+aVBrian Grant POR 05/20/2000 POR @ LAL L 19 9 3 5 60.0 0 0 - 3 4 75.0 2 5 7 1 0 1 1 5 -12
+p67
+aVArvydas Sabonis POR 05/20/2000 POR @ LAL L 33 0 0 4 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 4 -15
+p68
+aVGreg Anthony POR 05/20/2000 POR @ LAL L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -9
+p69
+aVDetlef Schrempf POR 05/20/2000 POR @ LAL L 21 11 3 7 42.9 0 0 - 5 5 100.0 2 3 5 1 0 0 1 4 -13
+p70
+aVJermaine O'Neal POR 05/20/2000 POR @ LAL L 7 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 0 0 1 0 2 6
+p71
+aVBrian Grant POR 05/16/2000 POR vs. UTA W 29 6 3 6 50.0 0 0 - 0 0 - 3 3 6 0 1 0 5 4 -1
+p72
+aVArvydas Sabonis POR 05/16/2000 POR vs. UTA W 36 16 7 12 58.3 0 0 - 2 5 40.0 0 9 9 0 1 0 3 2 2
+p73
+aVRasheed Wallace POR 05/16/2000 POR vs. UTA W 29 11 5 9 55.6 0 0 - 1 1 100.0 1 0 1 0 2 3 0 3 3
+p74
+aVStacey Augmon POR 05/16/2000 POR vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p75
+aVDetlef Schrempf POR 05/16/2000 POR vs. UTA W 16 5 2 8 25.0 0 1 0.0 1 2 50.0 1 3 4 0 0 0 0 2 4
+p76
+aVGreg Anthony POR 05/16/2000 POR vs. UTA W 15 2 0 4 0.0 0 2 0.0 2 2 100.0 0 5 5 0 0 0 1 3 -1
+p77
+aVDamon Stoudamire POR 05/16/2000 POR vs. UTA W 32 8 3 7 42.9 2 3 66.7 0 0 - 1 4 5 5 0 1 2 3 3
+p78
+aVSteven Smith POR 05/16/2000 POR vs. UTA W 34 10 2 5 40.0 0 2 0.0 6 9 66.7 0 3 3 6 1 0 3 3 3
+p79
+aVBonzi Wells POR 05/16/2000 POR vs. UTA W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -1
+p80
+aVScottie Pippen POR 05/16/2000 POR vs. UTA W 38 23 9 20 45.0 2 7 28.6 3 4 75.0 2 7 9 8 3 1 3 4 -2
+p81
+aVBonzi Wells POR 05/14/2000 POR @ UTA L 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 2 1 2
+p82
+aVArvydas Sabonis POR 05/14/2000 POR @ UTA L 25 6 2 6 33.3 1 3 33.3 1 1 100.0 1 4 5 1 1 0 2 4 -1
+p83
+aVDamon Stoudamire POR 05/14/2000 POR @ UTA L 25 9 3 11 27.3 1 3 33.3 2 3 66.7 0 1 1 4 1 1 0 3 -9
+p84
+aVSteven Smith POR 05/14/2000 POR @ UTA L 37 19 5 10 50.0 3 5 60.0 6 9 66.7 0 1 1 1 0 0 1 4 -5
+p85
+aVDetlef Schrempf POR 05/14/2000 POR @ UTA L 26 5 1 3 33.3 0 0 - 3 5 60.0 1 3 4 1 0 0 1 1 -2
+p86
+aVRasheed Wallace POR 05/14/2000 POR @ UTA L 37 15 6 15 40.0 0 0 - 3 4 75.0 2 5 7 2 1 4 5 4 -6
+p87
+aVGreg Anthony POR 05/14/2000 POR @ UTA L 22 3 1 5 20.0 1 5 20.0 0 0 - 0 1 1 1 1 1 2 1 6
+p88
+aVJermaine O'Neal POR 05/14/2000 POR @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p89
+aVScottie Pippen POR 05/14/2000 POR @ UTA L 28 6 2 9 22.2 1 4 25.0 1 2 50.0 4 2 6 4 2 0 2 2 -4
+p90
+aVBrian Grant POR 05/14/2000 POR @ UTA L 26 20 6 10 60.0 0 0 - 8 10 80.0 6 7 13 1 2 2 1 5 4
+p91
+aVSteven Smith POR 05/11/2000 POR @ UTA W 34 21 6 11 54.5 2 2 100.0 7 7 100.0 1 0 1 6 1 0 1 3 4
+p92
+aVArvydas Sabonis POR 05/11/2000 POR @ UTA W 35 22 10 13 76.9 0 0 - 2 3 66.7 2 6 8 2 0 1 3 2 14
+p93
+aVGreg Anthony POR 05/11/2000 POR @ UTA W 24 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 3 2 0 1 0 26
+p94
+aVBrian Grant POR 05/11/2000 POR @ UTA W 16 1 0 2 0.0 0 0 - 1 2 50.0 3 4 7 1 1 0 1 4 17
+p95
+aVJermaine O'Neal POR 05/11/2000 POR @ UTA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 6
+p96
+aVScottie Pippen POR 05/11/2000 POR @ UTA W 35 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 7 1 0 0 1 6
+p97
+aVDetlef Schrempf POR 05/11/2000 POR @ UTA W 22 9 3 3 100.0 0 0 - 3 4 75.0 2 4 6 4 0 0 0 4 11
+p98
+aVRasheed Wallace POR 05/11/2000 POR @ UTA W 26 17 7 15 46.7 0 0 - 3 4 75.0 2 5 7 0 1 0 1 5 3
+p99
+aVDamon Stoudamire POR 05/11/2000 POR @ UTA W 23 4 2 7 28.6 0 0 - 0 0 - 1 2 3 2 0 0 1 4 -7
+p100
+aVBonzi Wells POR 05/11/2000 POR @ UTA W 14 19 8 13 61.5 0 2 0.0 3 4 75.0 0 4 4 1 0 0 2 1 15
+p101
+aVGreg Anthony POR 05/09/2000 POR vs. UTA W 15 13 4 4 100.0 2 2 100.0 3 3 100.0 0 1 1 3 2 1 1 2 24
+p102
+aVRasheed Wallace POR 05/09/2000 POR vs. UTA W 31 14 6 11 54.5 0 0 - 2 2 100.0 2 6 8 1 3 1 1 1 12
+p103
+aVStacey Augmon POR 05/09/2000 POR vs. UTA W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -12
+p104
+aVDetlef Schrempf POR 05/09/2000 POR vs. UTA W 29 13 2 5 40.0 1 1 100.0 8 11 72.7 0 5 5 4 0 0 3 5 10
+p105
+aVJermaine O'Neal POR 05/09/2000 POR vs. UTA W 9 2 1 4 25.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -5
+p106
+aVBrian Grant POR 05/09/2000 POR vs. UTA W 22 0 0 0 - 0 0 - 0 0 - 2 6 8 0 0 1 0 4 19
+p107
+aVScottie Pippen POR 05/09/2000 POR vs. UTA W 22 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 4 0 0 2 4 17
+p108
+aVDamon Stoudamire POR 05/09/2000 POR vs. UTA W 25 9 4 8 50.0 0 2 0.0 1 2 50.0 0 2 2 3 1 0 3 3 8
+p109
+aVGary Grant POR 05/09/2000 POR vs. UTA W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p110
+aVBonzi Wells POR 05/09/2000 POR vs. UTA W 18 17 7 9 77.8 0 1 0.0 3 5 60.0 1 1 2 2 0 0 3 3 -3
+p111
+aVSteven Smith POR 05/09/2000 POR vs. UTA W 29 19 6 8 75.0 1 2 50.0 6 6 100.0 0 1 1 2 2 1 4 2 21
+p112
+aVArvydas Sabonis POR 05/09/2000 POR vs. UTA W 21 10 4 8 50.0 1 1 100.0 1 2 50.0 1 4 5 4 2 0 1 0 13
+p113
+aVArvydas Sabonis POR 05/07/2000 POR vs. UTA W 34 13 2 9 22.2 0 1 0.0 9 10 90.0 2 12 14 4 2 0 2 3 11
+p114
+aVScottie Pippen POR 05/07/2000 POR vs. UTA W 38 20 8 14 57.1 1 2 50.0 3 4 75.0 1 4 5 3 3 0 0 2 26
+p115
+aVRasheed Wallace POR 05/07/2000 POR vs. UTA W 38 12 5 14 35.7 0 0 - 2 4 50.0 2 3 5 1 0 2 1 5 11
+p116
+aVSteven Smith POR 05/07/2000 POR vs. UTA W 30 12 3 5 60.0 0 1 0.0 6 6 100.0 1 0 1 3 2 0 1 2 7
+p117
+aVDetlef Schrempf POR 05/07/2000 POR vs. UTA W 23 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 2 2 0 1 0 9
+p118
+aVBonzi Wells POR 05/07/2000 POR vs. UTA W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -2
+p119
+aVDamon Stoudamire POR 05/07/2000 POR vs. UTA W 30 14 4 9 44.4 1 2 50.0 5 6 83.3 1 1 2 3 0 0 0 4 8
+p120
+aVGreg Anthony POR 05/07/2000 POR vs. UTA W 17 12 3 7 42.9 2 5 40.0 4 5 80.0 0 1 1 2 1 1 0 3 11
+p121
+aVBrian Grant POR 05/07/2000 POR vs. UTA W 22 7 2 10 20.0 0 0 - 3 4 75.0 6 4 10 1 0 0 1 1 14
+p122
+aVBrian Grant POR 05/02/2000 POR @ MIN W 21 4 1 3 33.3 0 0 - 2 4 50.0 0 5 5 0 0 0 1 2 11
+p123
+aVSteven Smith POR 05/02/2000 POR @ MIN W 38 14 6 14 42.9 1 2 50.0 1 1 100.0 1 2 3 1 1 1 1 4 16
+p124
+aVGreg Anthony POR 05/02/2000 POR @ MIN W 17 6 1 5 20.0 1 3 33.3 3 4 75.0 0 2 2 2 1 0 1 2 6
+p125
+aVDamon Stoudamire POR 05/02/2000 POR @ MIN W 30 11 5 9 55.6 0 2 0.0 1 1 100.0 0 1 1 4 0 0 2 2 2
+p126
+aVStacey Augmon POR 05/02/2000 POR @ MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p127
+aVScottie Pippen POR 05/02/2000 POR @ MIN W 38 10 4 12 33.3 0 2 0.0 2 4 50.0 1 6 7 6 1 0 6 4 6
+p128
+aVDetlef Schrempf POR 05/02/2000 POR @ MIN W 15 10 2 3 66.7 0 1 0.0 6 6 100.0 1 2 3 0 0 0 1 0 0
+p129
+aVArvydas Sabonis POR 05/02/2000 POR @ MIN W 28 15 6 9 66.7 1 2 50.0 2 3 66.7 2 9 11 0 1 2 2 3 -4
+p130
+aVRasheed Wallace POR 05/02/2000 POR @ MIN W 45 15 6 11 54.5 0 1 0.0 3 4 75.0 2 6 8 2 2 1 1 4 7
+p131
+aVBrian Grant POR 04/30/2000 POR @ MIN L 26 11 2 5 40.0 0 0 - 7 8 87.5 3 4 7 0 0 0 1 4 -11
+p132
+aVScottie Pippen POR 04/30/2000 POR @ MIN L 38 16 6 14 42.9 2 6 33.3 2 2 100.0 1 4 5 6 0 0 1 3 -4
+p133
+aVRasheed Wallace POR 04/30/2000 POR @ MIN L 43 15 7 12 58.3 1 1 100.0 0 0 - 3 1 4 3 0 2 0 0 -9
+p134
+aVGreg Anthony POR 04/30/2000 POR @ MIN L 20 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 5 1 0 1 2 -8
+p135
+aVDetlef Schrempf POR 04/30/2000 POR @ MIN L 8 0 0 4 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -3
+p136
+aVSteven Smith POR 04/30/2000 POR @ MIN L 42 22 8 14 57.1 2 4 50.0 4 4 100.0 1 3 4 2 2 0 0 4 -8
+p137
+aVArvydas Sabonis POR 04/30/2000 POR @ MIN L 32 17 7 14 50.0 1 4 25.0 2 2 100.0 0 6 6 0 0 3 2 4 7
+p138
+aVDamon Stoudamire POR 04/30/2000 POR @ MIN L 27 2 0 8 0.0 0 3 0.0 2 2 100.0 0 1 1 6 0 0 1 6 1
+p139
+aVScottie Pippen POR 04/26/2000 POR vs. MIN W 38 21 7 15 46.7 3 6 50.0 4 5 80.0 2 5 7 3 2 0 3 2 14
+p140
+aVArvydas Sabonis POR 04/26/2000 POR vs. MIN W 33 19 7 15 46.7 0 1 0.0 5 6 83.3 1 4 5 2 1 0 4 5 10
+p141
+aVDamon Stoudamire POR 04/26/2000 POR vs. MIN W 36 13 5 11 45.5 0 1 0.0 3 3 100.0 1 3 4 6 1 0 1 1 12
+p142
+aVGreg Anthony POR 04/26/2000 POR vs. MIN W 11 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 2 -8
+p143
+aVSteven Smith POR 04/26/2000 POR vs. MIN W 37 12 4 8 50.0 2 2 100.0 2 2 100.0 2 0 2 3 1 0 3 2 3
+p144
+aVBrian Grant POR 04/26/2000 POR vs. MIN W 17 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 0 0 0 0 1 -7
+p145
+aVRasheed Wallace POR 04/26/2000 POR vs. MIN W 42 9 3 9 33.3 0 0 - 3 5 60.0 0 7 7 4 2 1 0 3 -1
+p146
+aVBonzi Wells POR 04/26/2000 POR vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -5
+p147
+aVDetlef Schrempf POR 04/26/2000 POR vs. MIN W 16 2 1 4 25.0 0 0 - 0 0 - 1 3 4 4 0 0 0 0 2
+p148
+aVSteven Smith POR 04/23/2000 POR vs. MIN W 41 17 5 14 35.7 3 8 37.5 4 4 100.0 0 5 5 2 2 1 2 3 -1
+p149
+aVScottie Pippen POR 04/23/2000 POR vs. MIN W 42 28 9 21 42.9 3 5 60.0 7 8 87.5 1 8 9 2 2 0 0 1 12
+p150
+aVBrian Grant POR 04/23/2000 POR vs. MIN W 21 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 1 0 2 3 11
+p151
+aVRasheed Wallace POR 04/23/2000 POR vs. MIN W 37 15 6 10 60.0 0 0 - 3 3 100.0 3 2 5 3 0 2 2 2 11
+p152
+aVDamon Stoudamire POR 04/23/2000 POR vs. MIN W 35 18 7 12 58.3 2 4 50.0 2 2 100.0 1 2 3 4 0 1 1 1 7
+p153
+aVDetlef Schrempf POR 04/23/2000 POR vs. MIN W 16 6 1 2 50.0 0 0 - 4 4 100.0 0 3 3 2 0 0 0 2 -11
+p154
+aVGreg Anthony POR 04/23/2000 POR vs. MIN W 12 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 3 0
+p155
+aVStacey Augmon POR 04/23/2000 POR vs. MIN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p156
+aVArvydas Sabonis POR 04/23/2000 POR vs. MIN W 26 5 2 9 22.2 0 0 - 1 2 50.0 2 3 5 3 0 1 2 4 -2
+p157
+aVBonzi Wells POR 04/23/2000 POR vs. MIN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p158
+a.

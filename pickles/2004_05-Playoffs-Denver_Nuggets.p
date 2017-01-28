@@ -1,0 +1,102 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMarcus Camby DEN 05/04/2005 DEN @ SAS L 34 6 2 4 50.0 0 0 - 2 2 100.0 2 8 10 2 0 3 1 5 1
+p2
+aVWesley Person DEN 05/04/2005 DEN @ SAS L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 4
+p3
+aVGreg Buckner DEN 05/04/2005 DEN @ SAS L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 3 -9
+p4
+aVBryon Russell DEN 05/04/2005 DEN @ SAS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p5
+aVNene DEN 05/04/2005 DEN @ SAS L 22 11 5 9 55.6 0 0 - 1 2 50.0 2 3 5 0 1 0 1 3 -14
+p6
+aVCarmelo Anthony DEN 05/04/2005 DEN @ SAS L 38 25 9 19 47.4 0 0 - 7 8 87.5 1 3 4 2 1 0 3 3 -10
+p7
+aVKenyon Martin DEN 05/04/2005 DEN @ SAS L 35 14 7 16 43.8 0 1 0.0 0 1 0.0 1 5 6 1 0 1 2 4 -4
+p8
+aVEarl Boykins DEN 05/04/2005 DEN @ SAS L 41 14 6 16 37.5 0 3 0.0 2 2 100.0 0 1 1 5 0 0 2 1 -8
+p9
+aVAndre Miller DEN 05/04/2005 DEN @ SAS L 36 16 6 12 50.0 0 1 0.0 4 5 80.0 4 3 7 6 4 0 2 6 -10
+p10
+aVKenyon Martin DEN 05/02/2005 DEN vs. SAS L 29 12 5 9 55.6 0 0 - 2 3 66.7 1 5 6 2 1 0 1 6 4
+p11
+aVDerMarr Johnson DEN 05/02/2005 DEN vs. SAS L 18 7 3 6 50.0 0 2 0.0 1 1 100.0 1 0 1 1 0 1 0 1 0
+p12
+aVEarl Boykins DEN 05/02/2005 DEN vs. SAS L 37 32 12 20 60.0 0 2 0.0 8 9 88.9 0 0 0 5 2 1 3 5 -11
+p13
+aVNene DEN 05/02/2005 DEN vs. SAS L 28 7 0 2 0.0 0 0 - 7 10 70.0 2 5 7 0 0 0 0 5 -12
+p14
+aVCarmelo Anthony DEN 05/02/2005 DEN vs. SAS L 46 28 8 19 42.1 0 0 - 12 14 85.7 3 4 7 5 0 0 2 4 -11
+p15
+aVMarcus Camby DEN 05/02/2005 DEN vs. SAS L 43 12 5 12 41.7 0 0 - 2 2 100.0 1 7 8 3 1 3 2 5 -11
+p16
+aVAndre Miller DEN 05/02/2005 DEN vs. SAS L 36 11 4 10 40.0 0 0 - 3 4 75.0 1 6 7 1 0 0 2 6 -6
+p17
+aVWesley Person DEN 05/02/2005 DEN vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p18
+aVBryon Russell DEN 05/02/2005 DEN vs. SAS L 3 3 0 0 - 0 0 - 3 3 100.0 0 0 0 0 0 0 0 0 2
+p19
+aVGreg Buckner DEN 05/02/2005 DEN vs. SAS L 23 3 1 5 20.0 1 4 25.0 0 0 - 0 4 4 2 0 1 0 5 -12
+p20
+aVAndre Miller DEN 04/30/2005 DEN vs. SAS L 42 12 5 12 41.7 0 1 0.0 2 6 33.3 3 3 6 7 4 0 4 4 2
+p21
+aVKenyon Martin DEN 04/30/2005 DEN vs. SAS L 39 18 8 13 61.5 0 0 - 2 4 50.0 0 4 4 1 0 2 0 4 -4
+p22
+aVNene DEN 04/30/2005 DEN vs. SAS L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 2 2 2
+p23
+aVGreg Buckner DEN 04/30/2005 DEN vs. SAS L 26 3 1 5 20.0 1 2 50.0 0 0 - 1 5 6 2 1 0 0 1 -2
+p24
+aVEduardo Najera DEN 04/30/2005 DEN vs. SAS L 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -12
+p25
+aVCarmelo Anthony DEN 04/30/2005 DEN vs. SAS L 39 19 7 17 41.2 0 1 0.0 5 8 62.5 4 2 6 1 0 1 2 3 1
+p26
+aVEarl Boykins DEN 04/30/2005 DEN vs. SAS L 24 8 3 12 25.0 0 1 0.0 2 2 100.0 1 0 1 4 1 0 3 5 -9
+p27
+aVMarcus Camby DEN 04/30/2005 DEN vs. SAS L 37 12 3 4 75.0 0 0 - 6 10 60.0 0 14 14 2 0 5 3 3 -2
+p28
+aVDerMarr Johnson DEN 04/30/2005 DEN vs. SAS L 13 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 0 0 0 0 3 -16
+p29
+aVFrancisco Elson DEN 04/27/2005 DEN @ SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 1
+p30
+aVMarcus Camby DEN 04/27/2005 DEN @ SAS L 31 9 4 12 33.3 0 0 - 1 4 25.0 1 11 12 0 1 1 1 2 -18
+p31
+aVWesley Person DEN 04/27/2005 DEN @ SAS L 22 9 4 7 57.1 1 2 50.0 0 0 - 1 0 1 1 1 0 1 0 -19
+p32
+aVKenyon Martin DEN 04/27/2005 DEN @ SAS L 23 7 2 6 33.3 0 0 - 3 3 100.0 1 2 3 2 1 0 2 3 -16
+p33
+aVEduardo Najera DEN 04/27/2005 DEN @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p34
+aVDerMarr Johnson DEN 04/27/2005 DEN @ SAS L 29 12 4 7 57.1 2 4 50.0 2 2 100.0 1 3 4 2 0 1 0 4 -5
+p35
+aVGreg Buckner DEN 04/27/2005 DEN @ SAS L 17 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 3 -13
+p36
+aVAndre Miller DEN 04/27/2005 DEN @ SAS L 33 11 2 8 25.0 0 0 - 7 9 77.8 0 2 2 7 1 1 3 3 -15
+p37
+aVCarmelo Anthony DEN 04/27/2005 DEN @ SAS L 26 10 5 14 35.7 0 0 - 0 0 - 1 3 4 1 2 0 3 5 -15
+p38
+aVEarl Boykins DEN 04/27/2005 DEN @ SAS L 24 8 3 11 27.3 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 2 -20
+p39
+aVNene DEN 04/27/2005 DEN @ SAS L 23 6 1 4 25.0 0 0 - 4 6 66.7 1 5 6 1 0 0 1 4 -14
+p40
+aVBryon Russell DEN 04/27/2005 DEN @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p41
+aVAndre Miller DEN 04/24/2005 DEN @ SAS W 37 31 11 24 45.8 2 2 100.0 7 8 87.5 1 3 4 5 1 0 1 3 10
+p42
+aVNene DEN 04/24/2005 DEN @ SAS W 17 9 3 5 60.0 0 0 - 3 5 60.0 3 3 6 1 0 2 1 2 4
+p43
+aVDerMarr Johnson DEN 04/24/2005 DEN @ SAS W 16 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 2 0 0 1 -2
+p44
+aVGreg Buckner DEN 04/24/2005 DEN @ SAS W 19 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 2 2 3
+p45
+aVKenyon Martin DEN 04/24/2005 DEN @ SAS W 38 11 5 14 35.7 0 0 - 1 2 50.0 4 5 9 0 3 2 2 5 -3
+p46
+aVEarl Boykins DEN 04/24/2005 DEN @ SAS W 25 9 3 9 33.3 0 0 - 3 4 75.0 1 1 2 3 1 0 0 0 -1
+p47
+aVWesley Person DEN 04/24/2005 DEN @ SAS W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 5
+p48
+aVMarcus Camby DEN 04/24/2005 DEN @ SAS W 41 12 3 9 33.3 0 0 - 6 9 66.7 0 12 12 2 1 4 4 3 11
+p49
+aVCarmelo Anthony DEN 04/24/2005 DEN @ SAS W 31 14 6 14 42.9 0 0 - 2 2 100.0 5 1 6 1 0 0 3 5 3
+p50
+a.

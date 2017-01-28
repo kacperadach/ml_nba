@@ -1,0 +1,1772 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEd Pinckney BOS 04/22/1990 BOS @ PHL W 20 8 3 8 37.5 0 0 - 2 2 100.0 2 2 4 0 1 2 1 0 -
+p2
+aVJohn Bagley BOS 04/22/1990 BOS @ PHL W 28 8 4 8 50.0 0 0 - 0 0 - 1 1 2 5 4 0 1 1 -
+p3
+aVJoe Kleine BOS 04/22/1990 BOS @ PHL W 17 8 3 4 75.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 4 -
+p4
+aVJim Paxson BOS 04/22/1990 BOS @ PHL W 27 15 6 11 54.5 0 0 - 3 3 100.0 2 1 3 5 0 0 1 2 -
+p5
+aVMichael Smith BOS 04/22/1990 BOS @ PHL W 20 6 3 8 37.5 0 0 - 0 0 - 2 4 6 4 1 0 1 1 -
+p6
+aVRobert Parish BOS 04/22/1990 BOS @ PHL W 26 18 6 13 46.2 0 0 - 6 8 75.0 4 9 13 2 0 0 1 1 -
+p7
+aVCharles Smith BOS 04/22/1990 BOS @ PHL W 20 6 2 4 50.0 0 0 - 2 2 100.0 3 4 7 4 2 0 3 4 -
+p8
+aVKevin Gamble BOS 04/22/1990 BOS @ PHL W 16 8 4 7 57.1 0 0 - 0 1 0.0 0 1 1 2 1 0 2 5 -
+p9
+aVReggie Lewis BOS 04/22/1990 BOS @ PHL W 33 19 8 18 44.4 0 0 - 3 3 100.0 1 3 4 6 3 0 0 2 -
+p10
+aVKevin McHale BOS 04/22/1990 BOS @ PHL W 33 22 11 17 64.7 0 1 0.0 0 0 - 3 6 9 1 1 4 1 3 -
+p11
+aVJohn Bagley BOS 04/20/1990 BOS vs. CHI W 36 8 2 7 28.6 0 1 0.0 4 4 100.0 1 5 6 11 1 1 2 1 -
+p12
+aVMichael Smith BOS 04/20/1990 BOS vs. CHI W 15 10 4 8 50.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 1 -
+p13
+aVJim Paxson BOS 04/20/1990 BOS vs. CHI W 31 11 5 8 62.5 0 0 - 1 2 50.0 0 0 0 5 1 0 2 2 -
+p14
+aVEd Pinckney BOS 04/20/1990 BOS vs. CHI W 21 19 6 8 75.0 0 0 - 7 8 87.5 3 5 8 1 2 2 0 2 -
+p15
+aVKevin McHale BOS 04/20/1990 BOS vs. CHI W 34 16 7 14 50.0 0 0 - 2 2 100.0 2 9 11 2 0 1 2 3 -
+p16
+aVJoe Kleine BOS 04/20/1990 BOS vs. CHI W 19 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -
+p17
+aVKevin Gamble BOS 04/20/1990 BOS vs. CHI W 10 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 3 0 0 0 0 -
+p18
+aVRobert Parish BOS 04/20/1990 BOS vs. CHI W 22 15 6 9 66.7 0 0 - 3 5 60.0 0 5 5 0 0 0 2 1 -
+p19
+aVReggie Lewis BOS 04/20/1990 BOS vs. CHI W 40 28 9 17 52.9 0 0 - 10 11 90.9 1 6 7 4 1 1 2 2 -
+p20
+aVCharles Smith BOS 04/20/1990 BOS vs. CHI W 12 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 2 1 0 1 1 -
+p21
+aVKevin Gamble BOS 04/18/1990 BOS vs. ORL W 9 3 1 4 25.0 0 0 - 1 1 100.0 0 1 1 2 0 0 0 1 -
+p22
+aVRobert Parish BOS 04/18/1990 BOS vs. ORL W 20 11 4 5 80.0 0 0 - 3 4 75.0 2 4 6 2 2 0 0 1 -
+p23
+aVCharles Smith BOS 04/18/1990 BOS vs. ORL W 20 8 2 4 50.0 0 0 - 4 6 66.7 0 1 1 3 2 0 1 2 -
+p24
+aVEd Pinckney BOS 04/18/1990 BOS vs. ORL W 6 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -
+p25
+aVJim Paxson BOS 04/18/1990 BOS vs. ORL W 37 18 8 13 61.5 0 1 0.0 2 2 100.0 0 2 2 6 1 0 1 2 -
+p26
+aVMichael Smith BOS 04/18/1990 BOS vs. ORL W 21 17 7 10 70.0 1 2 50.0 2 4 50.0 2 1 3 6 0 0 2 1 -
+p27
+aVKevin McHale BOS 04/18/1990 BOS vs. ORL W 42 33 13 22 59.1 0 4 0.0 7 7 100.0 1 9 10 3 0 6 4 3 -
+p28
+aVJoe Kleine BOS 04/18/1990 BOS vs. ORL W 28 10 5 9 55.6 0 0 - 0 0 - 2 9 11 3 0 1 2 2 -
+p29
+aVReggie Lewis BOS 04/18/1990 BOS vs. ORL W 32 20 9 20 45.0 0 0 - 2 3 66.7 3 4 7 9 2 3 2 4 -
+p30
+aVJohn Bagley BOS 04/18/1990 BOS vs. ORL W 25 11 5 6 83.3 0 0 - 1 1 100.0 0 2 2 6 0 0 1 3 -
+p31
+aVReggie Lewis BOS 04/17/1990 BOS @ CHI L 37 24 11 13 84.6 0 0 - 2 4 50.0 2 1 3 2 2 0 2 4 -
+p32
+aVJim Paxson BOS 04/17/1990 BOS @ CHI L 16 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 1 0 0 0 2 -
+p33
+aVRobert Parish BOS 04/17/1990 BOS @ CHI L 35 17 8 13 61.5 0 0 - 1 2 50.0 6 12 18 0 0 0 1 2 -
+p34
+aVJoe Kleine BOS 04/17/1990 BOS @ CHI L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -
+p35
+aVLarry Bird BOS 04/17/1990 BOS @ CHI L 45 23 9 23 39.1 2 3 66.7 3 4 75.0 1 4 5 8 2 1 3 3 -
+p36
+aVJohn Bagley BOS 04/17/1990 BOS @ CHI L 31 5 1 2 50.0 0 0 - 3 6 50.0 2 1 3 14 2 0 2 2 -
+p37
+aVKevin McHale BOS 04/17/1990 BOS @ CHI L 43 28 13 24 54.2 0 1 0.0 2 2 100.0 3 8 11 2 1 2 5 3 -
+p38
+aVMichael Smith BOS 04/17/1990 BOS @ CHI L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p39
+aVDennis Johnson BOS 04/17/1990 BOS @ CHI L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p40
+aVCharles Smith BOS 04/17/1990 BOS @ CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p41
+aVRobert Parish BOS 04/15/1990 BOS vs. NYK W 38 25 10 18 55.6 0 0 - 5 6 83.3 5 9 14 2 0 2 4 3 -
+p42
+aVJoe Kleine BOS 04/15/1990 BOS vs. NYK W 10 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 0 1 0 0 1 -
+p43
+aVDennis Johnson BOS 04/15/1990 BOS vs. NYK W 38 2 0 6 0.0 0 0 - 2 2 100.0 3 3 6 7 2 2 1 1 -
+p44
+aVKevin McHale BOS 04/15/1990 BOS vs. NYK W 41 17 8 17 47.1 0 2 0.0 1 1 100.0 0 4 4 1 0 1 3 4 -
+p45
+aVJim Paxson BOS 04/15/1990 BOS vs. NYK W 16 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 0 0 1 1 3 -
+p46
+aVReggie Lewis BOS 04/15/1990 BOS vs. NYK W 40 34 12 18 66.7 1 1 100.0 9 9 100.0 2 3 5 2 0 1 0 3 -
+p47
+aVJohn Bagley BOS 04/15/1990 BOS vs. NYK W 10 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 2 -
+p48
+aVLarry Bird BOS 04/15/1990 BOS vs. NYK W 44 17 5 22 22.7 2 6 33.3 5 5 100.0 3 14 17 13 3 1 2 5 -
+p49
+aVEd Pinckney BOS 04/15/1990 BOS vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p50
+aVEd Pinckney BOS 04/12/1990 BOS vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p51
+aVKevin McHale BOS 04/12/1990 BOS vs. MIA W 41 24 7 10 70.0 0 0 - 10 10 100.0 3 5 8 1 0 5 3 0 -
+p52
+aVJoe Kleine BOS 04/12/1990 BOS vs. MIA W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -
+p53
+aVCharles Smith BOS 04/12/1990 BOS vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p54
+aVDennis Johnson BOS 04/12/1990 BOS vs. MIA W 29 10 4 8 50.0 0 1 0.0 2 2 100.0 0 1 1 8 3 1 2 1 -
+p55
+aVRobert Parish BOS 04/12/1990 BOS vs. MIA W 31 23 9 13 69.2 0 0 - 5 5 100.0 5 5 10 2 1 2 1 2 -
+p56
+aVKevin Gamble BOS 04/12/1990 BOS vs. MIA W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p57
+aVJohn Bagley BOS 04/12/1990 BOS vs. MIA W 17 4 2 2 100.0 0 0 - 0 0 - 0 3 3 10 0 0 2 5 -
+p58
+aVLarry Bird BOS 04/12/1990 BOS vs. MIA W 40 40 14 23 60.9 2 5 40.0 10 10 100.0 2 4 6 9 1 0 4 1 -
+p59
+aVJim Paxson BOS 04/12/1990 BOS vs. MIA W 18 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -
+p60
+aVMichael Smith BOS 04/12/1990 BOS vs. MIA W 2 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 -
+p61
+aVReggie Lewis BOS 04/12/1990 BOS vs. MIA W 44 22 8 14 57.1 0 0 - 6 6 100.0 2 8 10 4 1 0 3 2 -
+p62
+aVReggie Lewis BOS 04/10/1990 BOS @ NJN W 36 21 9 18 50.0 0 0 - 3 5 60.0 3 4 7 2 2 0 2 3 -
+p63
+aVJoe Kleine BOS 04/10/1990 BOS @ NJN W 19 8 4 5 80.0 0 0 - 0 0 - 1 3 4 1 1 1 0 3 -
+p64
+aVDennis Johnson BOS 04/10/1990 BOS @ NJN W 29 6 3 6 50.0 0 0 - 0 0 - 0 4 4 6 2 0 5 3 -
+p65
+aVMichael Smith BOS 04/10/1990 BOS @ NJN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p66
+aVJim Paxson BOS 04/10/1990 BOS @ NJN W 15 7 3 6 50.0 0 0 - 1 2 50.0 0 3 3 0 1 1 1 0 -
+p67
+aVLarry Bird BOS 04/10/1990 BOS @ NJN W 38 19 8 18 44.4 0 2 0.0 3 3 100.0 1 6 7 5 1 0 5 2 -
+p68
+aVKevin Gamble BOS 04/10/1990 BOS @ NJN W 4 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -
+p69
+aVJohn Bagley BOS 04/10/1990 BOS @ NJN W 16 4 2 3 66.7 0 0 - 0 0 - 1 0 1 4 2 1 2 1 -
+p70
+aVRobert Parish BOS 04/10/1990 BOS @ NJN W 34 18 9 15 60.0 0 0 - 0 0 - 4 6 10 0 0 0 3 4 -
+p71
+aVKevin McHale BOS 04/10/1990 BOS @ NJN W 35 24 8 14 57.1 1 2 50.0 7 7 100.0 3 10 13 1 1 5 2 3 -
+p72
+aVCharles Smith BOS 04/10/1990 BOS @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -
+p73
+aVEd Pinckney BOS 04/10/1990 BOS @ NJN W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -
+p74
+aVCharles Smith BOS 04/07/1990 BOS @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p75
+aVReggie Lewis BOS 04/07/1990 BOS @ MIA W 42 22 9 16 56.3 0 0 - 4 5 80.0 1 5 6 6 2 0 3 3 -
+p76
+aVRobert Parish BOS 04/07/1990 BOS @ MIA W 35 15 6 9 66.7 0 0 - 3 3 100.0 2 9 11 3 0 4 2 3 -
+p77
+aVLarry Bird BOS 04/07/1990 BOS @ MIA W 42 37 13 21 61.9 4 6 66.7 7 10 70.0 0 9 9 10 1 1 3 4 -
+p78
+aVDennis Johnson BOS 04/07/1990 BOS @ MIA W 32 10 4 9 44.4 0 0 - 2 2 100.0 2 3 5 10 2 0 1 4 -
+p79
+aVEd Pinckney BOS 04/07/1990 BOS @ MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p80
+aVJoe Kleine BOS 04/07/1990 BOS @ MIA W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p81
+aVKevin Gamble BOS 04/07/1990 BOS @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p82
+aVJohn Bagley BOS 04/07/1990 BOS @ MIA W 18 2 1 4 25.0 0 0 - 0 0 - 3 2 5 6 0 0 3 1 -
+p83
+aVMichael Smith BOS 04/07/1990 BOS @ MIA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p84
+aVJim Paxson BOS 04/07/1990 BOS @ MIA W 7 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 1 -
+p85
+aVKevin McHale BOS 04/07/1990 BOS @ MIA W 38 21 9 18 50.0 0 1 0.0 3 3 100.0 3 8 11 2 2 1 1 1 -
+p86
+aVJim Paxson BOS 04/06/1990 BOS @ CLE W 20 9 3 5 60.0 0 0 - 3 4 75.0 1 1 2 2 0 0 1 2 -
+p87
+aVJohn Bagley BOS 04/06/1990 BOS @ CLE W 17 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 5 1 0 0 0 -
+p88
+aVJoe Kleine BOS 04/06/1990 BOS @ CLE W 23 8 4 9 44.4 0 0 - 0 0 - 3 5 8 1 0 0 0 4 -
+p89
+aVDennis Johnson BOS 04/06/1990 BOS @ CLE W 32 18 6 10 60.0 0 0 - 6 6 100.0 2 1 3 5 0 0 2 3 -
+p90
+aVRobert Parish BOS 04/06/1990 BOS @ CLE W 19 7 3 6 50.0 0 0 - 1 2 50.0 2 3 5 0 0 3 1 6 -
+p91
+aVKevin McHale BOS 04/06/1990 BOS @ CLE W 41 30 13 19 68.4 0 2 0.0 4 5 80.0 2 9 11 1 0 1 2 6 -
+p92
+aVReggie Lewis BOS 04/06/1990 BOS @ CLE W 42 24 12 19 63.2 0 0 - 0 1 0.0 2 4 6 6 1 1 0 2 -
+p93
+aVEd Pinckney BOS 04/06/1990 BOS @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p94
+aVLarry Bird BOS 04/06/1990 BOS @ CLE W 45 11 4 17 23.5 0 1 0.0 3 3 100.0 1 14 15 10 1 1 8 1 -
+p95
+aVKevin McHale BOS 04/04/1990 BOS vs. NJN W 35 24 11 18 61.1 1 1 100.0 1 3 33.3 5 6 11 3 1 1 1 3 -
+p96
+aVJim Paxson BOS 04/04/1990 BOS vs. NJN W 20 6 3 7 42.9 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p97
+aVJoe Kleine BOS 04/04/1990 BOS vs. NJN W 25 4 2 8 25.0 0 1 0.0 0 0 - 4 2 6 1 0 0 1 1 -
+p98
+aVEd Pinckney BOS 04/04/1990 BOS vs. NJN W 4 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 1 0 0 0 1 -
+p99
+aVReggie Lewis BOS 04/04/1990 BOS vs. NJN W 27 21 9 12 75.0 0 0 - 3 3 100.0 0 5 5 3 0 1 1 3 -
+p100
+aVDennis Johnson BOS 04/04/1990 BOS vs. NJN W 20 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 9 0 0 0 1 -
+p101
+aVMichael Smith BOS 04/04/1990 BOS vs. NJN W 6 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 0 0 -
+p102
+aVLarry Bird BOS 04/04/1990 BOS vs. NJN W 39 43 16 29 55.2 2 4 50.0 9 9 100.0 3 12 15 6 2 0 1 1 -
+p103
+aVJohn Bagley BOS 04/04/1990 BOS vs. NJN W 22 2 1 2 50.0 0 0 - 0 0 - 0 4 4 11 0 0 1 2 -
+p104
+aVKevin Gamble BOS 04/04/1990 BOS vs. NJN W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p105
+aVCharles Smith BOS 04/04/1990 BOS vs. NJN W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p106
+aVRobert Parish BOS 04/04/1990 BOS vs. NJN W 32 15 6 12 50.0 0 0 - 3 4 75.0 3 6 9 0 1 4 4 2 -
+p107
+aVKevin Gamble BOS 04/03/1990 BOS @ DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p108
+aVJoe Kleine BOS 04/03/1990 BOS @ DET L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -
+p109
+aVReggie Lewis BOS 04/03/1990 BOS @ DET L 36 6 1 12 8.3 0 0 - 4 4 100.0 2 1 3 2 3 2 1 3 -
+p110
+aVEd Pinckney BOS 04/03/1990 BOS @ DET L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p111
+aVDennis Johnson BOS 04/03/1990 BOS @ DET L 35 10 5 9 55.6 0 2 0.0 0 0 - 1 2 3 7 2 1 3 1 -
+p112
+aVMichael Smith BOS 04/03/1990 BOS @ DET L 11 8 4 7 57.1 0 0 - 0 0 - 1 3 4 0 1 0 0 3 -
+p113
+aVKevin McHale BOS 04/03/1990 BOS @ DET L 39 22 9 18 50.0 0 1 0.0 4 6 66.7 4 5 9 2 0 3 3 5 -
+p114
+aVCharles Smith BOS 04/03/1990 BOS @ DET L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p115
+aVJohn Bagley BOS 04/03/1990 BOS @ DET L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 1 1 2 -
+p116
+aVJim Paxson BOS 04/03/1990 BOS @ DET L 19 7 3 8 37.5 0 0 - 1 1 100.0 0 2 2 0 3 0 2 2 -
+p117
+aVRobert Parish BOS 04/03/1990 BOS @ DET L 25 10 4 12 33.3 0 0 - 2 2 100.0 0 3 3 1 0 0 0 2 -
+p118
+aVLarry Bird BOS 04/03/1990 BOS @ DET L 42 19 5 13 38.5 1 2 50.0 8 8 100.0 0 9 9 5 2 1 1 3 -
+p119
+aVLarry Bird BOS 04/01/1990 BOS vs. ORL W 40 36 14 26 53.8 2 3 66.7 6 7 85.7 1 8 9 6 0 1 1 1 -
+p120
+aVEd Pinckney BOS 04/01/1990 BOS vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p121
+aVRobert Parish BOS 04/01/1990 BOS vs. ORL W 36 10 3 9 33.3 0 0 - 4 4 100.0 1 10 11 5 0 2 1 1 -
+p122
+aVMichael Smith BOS 04/01/1990 BOS vs. ORL W 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p123
+aVCharles Smith BOS 04/01/1990 BOS vs. ORL W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 -
+p124
+aVJoe Kleine BOS 04/01/1990 BOS vs. ORL W 13 9 4 4 100.0 0 0 - 1 2 50.0 2 2 4 1 0 1 0 4 -
+p125
+aVKevin Gamble BOS 04/01/1990 BOS vs. ORL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p126
+aVJim Paxson BOS 04/01/1990 BOS vs. ORL W 15 16 7 9 77.8 0 0 - 2 2 100.0 2 0 2 1 0 0 2 3 -
+p127
+aVJohn Bagley BOS 04/01/1990 BOS vs. ORL W 17 0 0 3 0.0 0 0 - 0 0 - 2 0 2 8 1 0 1 1 -
+p128
+aVDennis Johnson BOS 04/01/1990 BOS vs. ORL W 26 12 4 5 80.0 0 0 - 4 4 100.0 1 3 4 8 0 0 1 2 -
+p129
+aVReggie Lewis BOS 04/01/1990 BOS vs. ORL W 38 29 13 18 72.2 0 0 - 3 4 75.0 0 6 6 4 2 1 1 5 -
+p130
+aVKevin McHale BOS 04/01/1990 BOS vs. ORL W 40 19 9 16 56.3 0 0 - 1 4 25.0 0 4 4 1 2 5 3 5 -
+p131
+aVLarry Bird BOS 03/30/1990 BOS vs. DET W 46 33 12 23 52.2 2 6 33.3 7 7 100.0 0 9 9 7 1 5 2 3 -
+p132
+aVRobert Parish BOS 03/30/1990 BOS vs. DET W 41 23 10 14 71.4 0 0 - 3 4 75.0 3 11 14 0 1 0 1 1 -
+p133
+aVMichael Smith BOS 03/30/1990 BOS vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p134
+aVEd Pinckney BOS 03/30/1990 BOS vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p135
+aVCharles Smith BOS 03/30/1990 BOS vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p136
+aVJoe Kleine BOS 03/30/1990 BOS vs. DET W 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p137
+aVKevin McHale BOS 03/30/1990 BOS vs. DET W 42 19 6 13 46.2 0 1 0.0 7 10 70.0 2 7 9 5 1 2 2 2 -
+p138
+aVDennis Johnson BOS 03/30/1990 BOS vs. DET W 27 6 2 11 18.2 0 1 0.0 2 2 100.0 1 1 2 7 2 0 2 6 -
+p139
+aVJohn Bagley BOS 03/30/1990 BOS vs. DET W 18 5 1 5 20.0 0 0 - 3 4 75.0 3 2 5 6 1 0 2 1 -
+p140
+aVReggie Lewis BOS 03/30/1990 BOS vs. DET W 37 25 8 13 61.5 0 0 - 9 9 100.0 2 2 4 4 0 3 1 2 -
+p141
+aVJim Paxson BOS 03/30/1990 BOS vs. DET W 12 10 1 2 50.0 0 1 0.0 8 8 100.0 0 0 0 1 0 0 0 1 -
+p142
+aVEd Pinckney BOS 03/28/1990 BOS @ PHL L 12 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 2 1 2 -
+p143
+aVMichael Smith BOS 03/28/1990 BOS @ PHL L 9 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 2 1 0 1 1 -
+p144
+aVCharles Smith BOS 03/28/1990 BOS @ PHL L 7 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 2 0 0 0 0 -
+p145
+aVRobert Parish BOS 03/28/1990 BOS @ PHL L 37 25 12 18 66.7 0 0 - 1 1 100.0 3 10 13 4 0 1 2 0 -
+p146
+aVLarry Bird BOS 03/28/1990 BOS @ PHL L 35 15 6 13 46.2 1 2 50.0 2 2 100.0 0 6 6 3 1 0 3 2 -
+p147
+aVJohn Bagley BOS 03/28/1990 BOS @ PHL L 19 3 1 5 20.0 0 1 0.0 1 2 50.0 0 1 1 7 0 0 1 1 -
+p148
+aVJoe Kleine BOS 03/28/1990 BOS @ PHL L 18 4 0 5 0.0 0 0 - 4 4 100.0 1 5 6 0 0 0 1 5 -
+p149
+aVDennis Johnson BOS 03/28/1990 BOS @ PHL L 22 13 4 7 57.1 0 0 - 5 5 100.0 1 2 3 4 0 0 2 3 -
+p150
+aVJim Paxson BOS 03/28/1990 BOS @ PHL L 8 8 2 3 66.7 1 1 100.0 3 4 75.0 0 1 1 0 1 0 0 1 -
+p151
+aVKevin Gamble BOS 03/28/1990 BOS @ PHL L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -
+p152
+aVReggie Lewis BOS 03/28/1990 BOS @ PHL L 34 13 5 11 45.5 0 0 - 3 5 60.0 0 3 3 2 0 0 2 1 -
+p153
+aVKevin McHale BOS 03/28/1990 BOS @ PHL L 29 9 4 13 30.8 0 1 0.0 1 2 50.0 0 1 1 3 0 1 1 3 -
+p154
+aVRobert Parish BOS 03/27/1990 BOS @ IND L 37 10 5 10 50.0 0 0 - 0 0 - 5 7 12 2 0 0 2 2 -
+p155
+aVEd Pinckney BOS 03/27/1990 BOS @ IND L 10 2 1 4 25.0 0 0 - 0 0 - 3 1 4 1 3 0 1 0 -
+p156
+aVLarry Bird BOS 03/27/1990 BOS @ IND L 43 21 10 24 41.7 0 1 0.0 1 2 50.0 0 7 7 4 3 0 1 1 -
+p157
+aVKevin McHale BOS 03/27/1990 BOS @ IND L 38 32 12 22 54.5 0 1 0.0 8 14 57.1 3 8 11 2 0 2 2 4 -
+p158
+aVDennis Johnson BOS 03/27/1990 BOS @ IND L 34 14 4 8 50.0 1 1 100.0 5 6 83.3 1 2 3 3 0 0 0 5 -
+p159
+aVJohn Bagley BOS 03/27/1990 BOS @ IND L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 3 0 -
+p160
+aVKevin Gamble BOS 03/27/1990 BOS @ IND L 24 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 -
+p161
+aVJoe Kleine BOS 03/27/1990 BOS @ IND L 11 6 1 2 50.0 0 0 - 4 4 100.0 1 2 3 0 0 1 2 3 -
+p162
+aVJim Paxson BOS 03/27/1990 BOS @ IND L 24 7 3 8 37.5 0 1 0.0 1 2 50.0 0 2 2 2 0 0 1 5 -
+p163
+aVMichael Smith BOS 03/27/1990 BOS @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p164
+aVMichael Smith BOS 03/24/1990 BOS @ NYK W 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p165
+aVDennis Johnson BOS 03/24/1990 BOS @ NYK W 27 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 6 1 0 2 1 -
+p166
+aVReggie Lewis BOS 03/24/1990 BOS @ NYK W 42 31 10 22 45.5 0 0 - 11 15 73.3 4 6 10 4 3 0 1 4 -
+p167
+aVRobert Parish BOS 03/24/1990 BOS @ NYK W 27 18 9 9 100.0 0 0 - 0 0 - 1 4 5 0 0 0 2 4 -
+p168
+aVEd Pinckney BOS 03/24/1990 BOS @ NYK W 4 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 0 -
+p169
+aVJoe Kleine BOS 03/24/1990 BOS @ NYK W 13 2 0 0 - 0 0 - 2 2 100.0 0 6 6 0 0 0 1 3 -
+p170
+aVKevin Gamble BOS 03/24/1990 BOS @ NYK W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p171
+aVKevin McHale BOS 03/24/1990 BOS @ NYK W 44 27 10 19 52.6 1 1 100.0 6 6 100.0 3 10 13 4 1 1 2 5 -
+p172
+aVJohn Bagley BOS 03/24/1990 BOS @ NYK W 21 2 1 2 50.0 0 0 - 0 0 - 1 1 2 5 0 0 0 2 -
+p173
+aVLarry Bird BOS 03/24/1990 BOS @ NYK W 44 19 8 21 38.1 1 3 33.3 2 2 100.0 1 8 9 8 2 1 5 0 -
+p174
+aVJohn Bagley BOS 03/23/1990 BOS vs. ATL W 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 3 2 0 0 0 -
+p175
+aVKevin Gamble BOS 03/23/1990 BOS vs. ATL W 18 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 4 2 0 0 1 -
+p176
+aVReggie Lewis BOS 03/23/1990 BOS vs. ATL W 34 10 4 13 30.8 0 1 0.0 2 4 50.0 2 3 5 2 2 0 1 2 -
+p177
+aVMichael Smith BOS 03/23/1990 BOS vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p178
+aVRobert Parish BOS 03/23/1990 BOS vs. ATL W 29 13 4 4 100.0 0 0 - 5 6 83.3 2 10 12 2 0 2 3 4 -
+p179
+aVKevin McHale BOS 03/23/1990 BOS vs. ATL W 39 27 10 20 50.0 0 4 0.0 7 8 87.5 3 4 7 4 0 2 2 1 -
+p180
+aVEd Pinckney BOS 03/23/1990 BOS vs. ATL W 12 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -
+p181
+aVLarry Bird BOS 03/23/1990 BOS vs. ATL W 40 23 8 19 42.1 3 8 37.5 4 4 100.0 0 5 5 4 1 0 5 5 -
+p182
+aVJoe Kleine BOS 03/23/1990 BOS vs. ATL W 19 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 0 1 1 -
+p183
+aVDennis Johnson BOS 03/23/1990 BOS vs. ATL W 36 11 5 12 41.7 0 1 0.0 1 1 100.0 1 2 3 8 3 0 1 1 -
+p184
+aVKevin Gamble BOS 03/21/1990 BOS vs. CLE W 19 13 4 8 50.0 0 0 - 5 5 100.0 1 2 3 4 0 0 2 1 -
+p185
+aVJoe Kleine BOS 03/21/1990 BOS vs. CLE W 23 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -
+p186
+aVJohn Bagley BOS 03/21/1990 BOS vs. CLE W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p187
+aVRobert Parish BOS 03/21/1990 BOS vs. CLE W 25 18 9 15 60.0 0 0 - 0 2 0.0 4 12 16 1 1 1 0 3 -
+p188
+aVMichael Smith BOS 03/21/1990 BOS vs. CLE W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 2 1 -
+p189
+aVKevin McHale BOS 03/21/1990 BOS vs. CLE W 38 24 12 23 52.2 0 3 0.0 0 0 - 7 6 13 3 0 4 2 1 -
+p190
+aVReggie Lewis BOS 03/21/1990 BOS vs. CLE W 36 26 13 25 52.0 0 0 - 0 0 - 2 1 3 4 1 1 2 2 -
+p191
+aVEd Pinckney BOS 03/21/1990 BOS vs. CLE W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -
+p192
+aVDennis Johnson BOS 03/21/1990 BOS vs. CLE W 34 12 5 6 83.3 0 0 - 2 2 100.0 2 1 3 9 2 0 1 4 -
+p193
+aVCharles Smith BOS 03/21/1990 BOS vs. CLE W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p194
+aVLarry Bird BOS 03/21/1990 BOS vs. CLE W 42 25 11 16 68.8 1 3 33.3 2 2 100.0 1 9 10 16 1 2 2 3 -
+p195
+aVMichael Smith BOS 03/18/1990 BOS vs. NJN W 16 8 3 6 50.0 0 1 0.0 2 2 100.0 1 2 3 2 0 0 1 1 -
+p196
+aVJoe Kleine BOS 03/18/1990 BOS vs. NJN W 24 10 3 5 60.0 0 0 - 4 4 100.0 1 3 4 1 0 2 0 2 -
+p197
+aVLarry Bird BOS 03/18/1990 BOS vs. NJN W 36 29 8 15 53.3 0 2 0.0 13 13 100.0 1 17 18 11 1 0 5 0 -
+p198
+aVJohn Bagley BOS 03/18/1990 BOS vs. NJN W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 3 0 0 1 5 -
+p199
+aVEd Pinckney BOS 03/18/1990 BOS vs. NJN W 12 8 4 5 80.0 0 0 - 0 0 - 1 0 1 1 0 1 1 2 -
+p200
+aVRobert Parish BOS 03/18/1990 BOS vs. NJN W 17 4 2 7 28.6 0 0 - 0 0 - 0 5 5 2 0 0 1 2 -
+p201
+aVKevin McHale BOS 03/18/1990 BOS vs. NJN W 35 25 9 13 69.2 1 1 100.0 6 6 100.0 2 3 5 2 1 5 1 3 -
+p202
+aVKevin Gamble BOS 03/18/1990 BOS vs. NJN W 21 4 0 3 0.0 0 0 - 4 4 100.0 0 4 4 2 1 1 3 1 -
+p203
+aVJim Paxson BOS 03/18/1990 BOS vs. NJN W 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p204
+aVDennis Johnson BOS 03/18/1990 BOS vs. NJN W 24 4 2 3 66.7 0 0 - 0 0 - 1 3 4 10 2 0 2 2 -
+p205
+aVReggie Lewis BOS 03/18/1990 BOS vs. NJN W 23 22 10 14 71.4 0 0 - 2 2 100.0 2 2 4 1 2 2 1 3 -
+p206
+aVCharles Smith BOS 03/18/1990 BOS vs. NJN W 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 2 3 -
+p207
+aVDennis Johnson BOS 03/16/1990 BOS @ ORL W 30 6 3 7 42.9 0 0 - 0 0 - 2 3 5 9 3 0 1 4 -
+p208
+aVKevin Gamble BOS 03/16/1990 BOS @ ORL W 17 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 3 0 0 0 1 -
+p209
+aVMichael Smith BOS 03/16/1990 BOS @ ORL W 24 17 7 13 53.8 0 0 - 3 3 100.0 1 1 2 5 0 0 0 1 -
+p210
+aVJoe Kleine BOS 03/16/1990 BOS @ ORL W 22 6 3 7 42.9 0 0 - 0 0 - 2 1 3 2 0 1 1 1 -
+p211
+aVLarry Bird BOS 03/16/1990 BOS @ ORL W 44 46 19 33 57.6 1 3 33.3 7 8 87.5 0 8 8 10 1 0 0 1 -
+p212
+aVJim Paxson BOS 03/16/1990 BOS @ ORL W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p213
+aVEd Pinckney BOS 03/16/1990 BOS @ ORL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p214
+aVJohn Bagley BOS 03/16/1990 BOS @ ORL W 18 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p215
+aVReggie Lewis BOS 03/16/1990 BOS @ ORL W 27 8 4 8 50.0 0 0 - 0 0 - 1 1 2 3 4 0 0 4 -
+p216
+aVKevin McHale BOS 03/16/1990 BOS @ ORL W 44 30 11 15 73.3 1 2 50.0 7 8 87.5 3 3 6 3 0 2 5 3 -
+p217
+aVLarry Bird BOS 03/14/1990 BOS @ DAL L 44 21 9 21 42.9 1 3 33.3 2 2 100.0 0 10 10 8 2 0 4 2 -
+p218
+aVJim Paxson BOS 03/14/1990 BOS @ DAL L 15 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p219
+aVMichael Smith BOS 03/14/1990 BOS @ DAL L 12 8 2 7 28.6 0 0 - 4 4 100.0 3 2 5 2 1 0 2 1 -
+p220
+aVKevin McHale BOS 03/14/1990 BOS @ DAL L 43 30 14 21 66.7 1 2 50.0 1 2 50.0 5 6 11 4 0 3 2 5 -
+p221
+aVJoe Kleine BOS 03/14/1990 BOS @ DAL L 32 11 4 7 57.1 0 0 - 3 3 100.0 4 6 10 1 0 1 2 4 -
+p222
+aVEd Pinckney BOS 03/14/1990 BOS @ DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p223
+aVKevin Gamble BOS 03/14/1990 BOS @ DAL L 1 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p224
+aVCharles Smith BOS 03/14/1990 BOS @ DAL L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p225
+aVReggie Lewis BOS 03/14/1990 BOS @ DAL L 37 16 8 15 53.3 0 0 - 0 0 - 0 0 0 3 2 1 3 2 -
+p226
+aVJohn Bagley BOS 03/14/1990 BOS @ DAL L 25 8 4 7 57.1 0 2 0.0 0 0 - 0 1 1 3 1 0 1 1 -
+p227
+aVDennis Johnson BOS 03/14/1990 BOS @ DAL L 21 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 5 0 0 1 2 -
+p228
+aVKevin McHale BOS 03/13/1990 BOS @ ATL W 33 26 11 16 68.8 1 2 50.0 3 4 75.0 3 7 10 5 0 2 3 1 -
+p229
+aVDennis Johnson BOS 03/13/1990 BOS @ ATL W 31 10 3 6 50.0 0 0 - 4 4 100.0 0 3 3 8 2 2 2 2 -
+p230
+aVMichael Smith BOS 03/13/1990 BOS @ ATL W 9 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -
+p231
+aVReggie Lewis BOS 03/13/1990 BOS @ ATL W 34 21 7 15 46.7 0 0 - 7 9 77.8 5 3 8 5 0 1 2 4 -
+p232
+aVJohn Bagley BOS 03/13/1990 BOS @ ATL W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 4 3 0 1 0 -
+p233
+aVJim Paxson BOS 03/13/1990 BOS @ ATL W 15 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 1 -
+p234
+aVEd Pinckney BOS 03/13/1990 BOS @ ATL W 19 3 1 2 50.0 0 0 - 1 3 33.3 0 2 2 0 0 0 0 2 -
+p235
+aVJoe Kleine BOS 03/13/1990 BOS @ ATL W 38 18 7 14 50.0 0 0 - 4 4 100.0 2 4 6 0 2 2 0 2 -
+p236
+aVCharles Smith BOS 03/13/1990 BOS @ ATL W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p237
+aVLarry Bird BOS 03/13/1990 BOS @ ATL W 44 22 9 14 64.3 0 2 0.0 4 4 100.0 1 10 11 7 2 0 2 2 -
+p238
+aVDennis Johnson BOS 03/11/1990 BOS vs. PHL W 36 13 5 6 83.3 0 0 - 3 4 75.0 1 0 1 8 2 0 2 3 -
+p239
+aVLarry Bird BOS 03/11/1990 BOS vs. PHL W 43 41 15 21 71.4 1 2 50.0 10 10 100.0 0 10 10 4 0 0 3 4 -
+p240
+aVKevin McHale BOS 03/11/1990 BOS vs. PHL W 42 27 11 17 64.7 0 1 0.0 5 5 100.0 1 9 10 7 0 0 1 5 -
+p241
+aVReggie Lewis BOS 03/11/1990 BOS vs. PHL W 36 10 5 14 35.7 0 0 - 0 0 - 1 5 6 6 1 2 1 1 -
+p242
+aVMichael Smith BOS 03/11/1990 BOS vs. PHL W 5 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -
+p243
+aVRobert Parish BOS 03/11/1990 BOS vs. PHL W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -
+p244
+aVJoe Kleine BOS 03/11/1990 BOS vs. PHL W 38 10 3 12 25.0 0 0 - 4 5 80.0 5 5 10 2 0 1 1 5 -
+p245
+aVEd Pinckney BOS 03/11/1990 BOS vs. PHL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -
+p246
+aVCharles Smith BOS 03/11/1990 BOS vs. PHL W 12 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 1 2 -
+p247
+aVJim Paxson BOS 03/11/1990 BOS vs. PHL W 14 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 -
+p248
+aVCharles Smith BOS 03/09/1990 BOS vs. WAS L 32 11 5 6 83.3 0 0 - 1 2 50.0 1 5 6 8 2 0 1 3 -
+p249
+aVDennis Johnson BOS 03/09/1990 BOS vs. WAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 0 0 0 0 -
+p250
+aVReggie Lewis BOS 03/09/1990 BOS vs. WAS L 32 13 4 13 30.8 0 1 0.0 5 8 62.5 1 4 5 1 2 2 1 3 -
+p251
+aVLarry Bird BOS 03/09/1990 BOS vs. WAS L 48 27 11 23 47.8 1 4 25.0 4 5 80.0 5 9 14 7 1 1 2 2 -
+p252
+aVJoe Kleine BOS 03/09/1990 BOS vs. WAS L 16 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 0 0 1 2 2 -
+p253
+aVJohn Bagley BOS 03/09/1990 BOS vs. WAS L 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 3 1 0 0 0 -
+p254
+aVRobert Parish BOS 03/09/1990 BOS vs. WAS L 25 8 2 9 22.2 0 0 - 4 4 100.0 1 7 8 0 0 1 2 3 -
+p255
+aVJim Paxson BOS 03/09/1990 BOS vs. WAS L 25 11 4 11 36.4 1 1 100.0 2 4 50.0 1 1 2 1 2 0 0 4 -
+p256
+aVKevin McHale BOS 03/09/1990 BOS vs. WAS L 32 31 11 17 64.7 0 2 0.0 9 10 90.0 4 4 8 3 0 1 4 2 -
+p257
+aVMichael Smith BOS 03/09/1990 BOS vs. WAS L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 -
+p258
+aVJim Paxson BOS 03/07/1990 BOS vs. POR L 18 13 5 9 55.6 0 1 0.0 3 3 100.0 0 1 1 0 0 0 2 1 -
+p259
+aVLarry Bird BOS 03/07/1990 BOS vs. POR L 36 22 11 21 52.4 0 2 0.0 0 0 - 3 9 12 6 0 1 3 1 -
+p260
+aVCharles Smith BOS 03/07/1990 BOS vs. POR L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 1 0 1 1 -
+p261
+aVReggie Lewis BOS 03/07/1990 BOS vs. POR L 30 20 9 17 52.9 0 2 0.0 2 3 66.7 2 2 4 6 1 2 2 3 -
+p262
+aVMichael Smith BOS 03/07/1990 BOS vs. POR L 26 11 5 11 45.5 0 1 0.0 1 2 50.0 0 0 0 1 0 0 2 3 -
+p263
+aVJohn Bagley BOS 03/07/1990 BOS vs. POR L 17 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 0 0 2 2 -
+p264
+aVDennis Johnson BOS 03/07/1990 BOS vs. POR L 21 0 0 3 0.0 0 0 - 0 0 - 0 2 2 6 1 0 1 2 -
+p265
+aVKevin Gamble BOS 03/07/1990 BOS vs. POR L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p266
+aVRobert Parish BOS 03/07/1990 BOS vs. POR L 32 14 3 9 33.3 0 0 - 8 8 100.0 2 9 11 1 0 1 0 1 -
+p267
+aVJoe Kleine BOS 03/07/1990 BOS vs. POR L 12 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -
+p268
+aVKevin McHale BOS 03/07/1990 BOS vs. POR L 32 21 4 12 33.3 0 1 0.0 13 14 92.9 3 4 7 2 0 3 0 2 -
+p269
+aVEd Pinckney BOS 03/07/1990 BOS vs. POR L 4 4 0 0 - 0 0 - 4 4 100.0 1 1 2 0 0 0 0 0 -
+p270
+aVJim Paxson BOS 03/04/1990 BOS vs. CHI L 20 12 4 8 50.0 1 2 50.0 3 3 100.0 1 0 1 2 0 1 0 0 -
+p271
+aVMichael Smith BOS 03/04/1990 BOS vs. CHI L 30 16 6 12 50.0 0 3 0.0 4 4 100.0 1 1 2 0 1 0 0 1 -
+p272
+aVJohn Bagley BOS 03/04/1990 BOS vs. CHI L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 5 0 1 1 2 -
+p273
+aVLarry Bird BOS 03/04/1990 BOS vs. CHI L 43 38 16 32 50.0 3 5 60.0 3 4 75.0 2 9 11 9 1 0 3 2 -
+p274
+aVReggie Lewis BOS 03/04/1990 BOS vs. CHI L 28 8 3 9 33.3 0 0 - 2 3 66.7 2 1 3 1 0 1 2 5 -
+p275
+aVKevin McHale BOS 03/04/1990 BOS vs. CHI L 33 11 4 12 33.3 1 1 100.0 2 3 66.7 4 8 12 4 0 3 2 6 -
+p276
+aVRobert Parish BOS 03/04/1990 BOS vs. CHI L 38 18 8 12 66.7 0 0 - 2 2 100.0 5 13 18 2 0 1 4 4 -
+p277
+aVDennis Johnson BOS 03/04/1990 BOS vs. CHI L 33 11 4 8 50.0 0 0 - 3 4 75.0 1 0 1 11 0 0 3 2 -
+p278
+aVKevin Gamble BOS 03/02/1990 BOS @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p279
+aVJoe Kleine BOS 03/02/1990 BOS @ MIA W 8 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 1 -
+p280
+aVMichael Smith BOS 03/02/1990 BOS @ MIA W 31 12 6 13 46.2 0 1 0.0 0 0 - 4 6 10 4 0 0 4 1 -
+p281
+aVJim Paxson BOS 03/02/1990 BOS @ MIA W 15 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 1 1 0 1 0 -
+p282
+aVEd Pinckney BOS 03/02/1990 BOS @ MIA W 3 1 0 0 - 0 0 - 1 2 50.0 2 0 2 0 0 1 0 0 -
+p283
+aVCharles Smith BOS 03/02/1990 BOS @ MIA W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -
+p284
+aVLarry Bird BOS 03/02/1990 BOS @ MIA W 41 28 13 20 65.0 0 2 0.0 2 2 100.0 0 4 4 7 2 2 6 2 -
+p285
+aVJohn Bagley BOS 03/02/1990 BOS @ MIA W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 0 -
+p286
+aVDennis Johnson BOS 03/02/1990 BOS @ MIA W 28 9 4 9 44.4 0 0 - 1 2 50.0 1 1 2 10 2 1 2 3 -
+p287
+aVRobert Parish BOS 03/02/1990 BOS @ MIA W 31 15 5 9 55.6 0 0 - 5 5 100.0 4 10 14 0 1 2 3 2 -
+p288
+aVKevin McHale BOS 03/02/1990 BOS @ MIA W 28 26 8 10 80.0 2 2 100.0 8 9 88.9 0 6 6 2 1 1 1 3 -
+p289
+aVReggie Lewis BOS 03/02/1990 BOS @ MIA W 32 18 7 14 50.0 0 0 - 4 4 100.0 1 4 5 2 2 1 0 0 -
+p290
+aVJohn Bagley BOS 02/28/1990 BOS vs. DAL W 22 4 2 8 25.0 0 1 0.0 0 0 - 2 1 3 4 2 0 0 1 -
+p291
+aVKevin Gamble BOS 02/28/1990 BOS vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p292
+aVReggie Lewis BOS 02/28/1990 BOS vs. DAL W 37 16 5 12 41.7 0 0 - 6 6 100.0 3 6 9 5 1 1 3 3 -
+p293
+aVRobert Parish BOS 02/28/1990 BOS vs. DAL W 26 12 5 9 55.6 0 0 - 2 2 100.0 3 3 6 1 0 0 1 0 -
+p294
+aVMichael Smith BOS 02/28/1990 BOS vs. DAL W 30 21 8 17 47.1 0 2 0.0 5 6 83.3 1 4 5 3 0 0 4 0 -
+p295
+aVJoe Kleine BOS 02/28/1990 BOS vs. DAL W 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p296
+aVLarry Bird BOS 02/28/1990 BOS vs. DAL W 44 31 13 22 59.1 2 4 50.0 3 4 75.0 0 12 12 5 1 1 3 3 -
+p297
+aVJim Paxson BOS 02/28/1990 BOS vs. DAL W 11 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 3 0 0 3 1 -
+p298
+aVDennis Johnson BOS 02/28/1990 BOS vs. DAL W 21 8 2 3 66.7 0 0 - 4 4 100.0 2 2 4 5 1 0 0 3 -
+p299
+aVKevin McHale BOS 02/28/1990 BOS vs. DAL W 31 15 6 9 66.7 0 1 0.0 3 4 75.0 3 8 11 2 0 1 3 2 -
+p300
+aVCharles Smith BOS 02/28/1990 BOS vs. DAL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p301
+aVJim Paxson BOS 02/25/1990 BOS @ DEN W 20 9 4 6 66.7 1 2 50.0 0 0 - 1 0 1 3 0 0 1 4 -
+p302
+aVMichael Smith BOS 02/25/1990 BOS @ DEN W 33 24 11 18 61.1 1 2 50.0 1 2 50.0 4 1 5 3 0 0 3 1 -
+p303
+aVReggie Lewis BOS 02/25/1990 BOS @ DEN W 28 14 5 7 71.4 0 0 - 4 4 100.0 0 2 2 0 0 2 1 4 -
+p304
+aVJoe Kleine BOS 02/25/1990 BOS @ DEN W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p305
+aVDennis Johnson BOS 02/25/1990 BOS @ DEN W 20 2 1 3 33.3 0 0 - 0 0 - 0 4 4 5 0 0 2 1 -
+p306
+aVRobert Parish BOS 02/25/1990 BOS @ DEN W 23 10 3 7 42.9 0 0 - 4 6 66.7 1 5 6 1 0 0 2 5 -
+p307
+aVLarry Bird BOS 02/25/1990 BOS @ DEN W 42 25 9 17 52.9 1 2 50.0 6 8 75.0 0 17 17 4 1 1 3 2 -
+p308
+aVCharles Smith BOS 02/25/1990 BOS @ DEN W 32 12 4 8 50.0 0 0 - 4 6 66.7 2 5 7 7 2 0 1 1 -
+p309
+aVKevin McHale BOS 02/25/1990 BOS @ DEN W 34 17 4 13 30.8 1 3 33.3 8 8 100.0 2 7 9 1 0 2 0 3 -
+p310
+aVCharles Smith BOS 02/23/1990 BOS @ GOS W 27 8 3 5 60.0 0 0 - 2 4 50.0 1 3 4 9 0 0 3 5 -
+p311
+aVJoe Kleine BOS 02/23/1990 BOS @ GOS W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p312
+aVReggie Lewis BOS 02/23/1990 BOS @ GOS W 38 18 6 17 35.3 0 0 - 6 7 85.7 3 3 6 5 1 1 2 2 -
+p313
+aVJim Paxson BOS 02/23/1990 BOS @ GOS W 22 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 1 3 -
+p314
+aVKevin McHale BOS 02/23/1990 BOS @ GOS W 33 34 10 16 62.5 3 3 100.0 11 11 100.0 3 8 11 1 2 1 1 4 -
+p315
+aVMichael Smith BOS 02/23/1990 BOS @ GOS W 30 16 7 15 46.7 0 1 0.0 2 2 100.0 2 2 4 2 0 0 1 2 -
+p316
+aVLarry Bird BOS 02/23/1990 BOS @ GOS W 41 25 10 17 58.8 1 2 50.0 4 4 100.0 3 11 14 8 1 2 5 6 -
+p317
+aVDennis Johnson BOS 02/23/1990 BOS @ GOS W 22 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 -
+p318
+aVEd Pinckney BOS 02/23/1990 BOS @ GOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p319
+aVRobert Parish BOS 02/23/1990 BOS @ GOS W 23 12 4 9 44.4 0 0 - 4 5 80.0 1 4 5 0 0 1 2 1 -
+p320
+aVRobert Parish BOS 02/21/1990 BOS @ UTH L 28 9 3 7 42.9 0 0 - 3 4 75.0 2 4 6 0 0 0 3 4 -
+p321
+aVDennis Johnson BOS 02/21/1990 BOS @ UTH L 34 2 0 5 0.0 0 1 0.0 2 2 100.0 0 1 1 10 0 1 1 1 -
+p322
+aVLarry Bird BOS 02/21/1990 BOS @ UTH L 41 24 10 22 45.5 0 2 0.0 4 5 80.0 1 8 9 7 1 0 1 1 -
+p323
+aVKevin McHale BOS 02/21/1990 BOS @ UTH L 38 34 10 17 58.8 0 1 0.0 14 15 93.3 3 6 9 1 1 4 2 3 -
+p324
+aVMichael Smith BOS 02/21/1990 BOS @ UTH L 4 8 3 4 75.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 -
+p325
+aVKevin Gamble BOS 02/21/1990 BOS @ UTH L 4 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -
+p326
+aVCharles Smith BOS 02/21/1990 BOS @ UTH L 14 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 4 2 0 0 4 -
+p327
+aVReggie Lewis BOS 02/21/1990 BOS @ UTH L 38 6 3 7 42.9 0 0 - 0 2 0.0 0 4 4 3 0 0 1 2 -
+p328
+aVEd Pinckney BOS 02/21/1990 BOS @ UTH L 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 1 1 3 -
+p329
+aVJoe Kleine BOS 02/21/1990 BOS @ UTH L 16 9 3 4 75.0 0 0 - 3 4 75.0 3 2 5 1 0 0 0 3 -
+p330
+aVJim Paxson BOS 02/21/1990 BOS @ UTH L 13 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p331
+aVKevin McHale BOS 02/20/1990 BOS @ PHX L 24 4 2 11 18.2 0 0 - 0 0 - 2 6 8 2 1 1 2 0 -
+p332
+aVKevin Gamble BOS 02/20/1990 BOS @ PHX L 17 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p333
+aVDennis Johnson BOS 02/20/1990 BOS @ PHX L 25 8 4 9 44.4 0 1 0.0 0 0 - 0 3 3 8 0 0 1 4 -
+p334
+aVRobert Parish BOS 02/20/1990 BOS @ PHX L 27 14 6 12 50.0 0 0 - 2 2 100.0 3 5 8 2 1 0 0 0 -
+p335
+aVMichael Smith BOS 02/20/1990 BOS @ PHX L 9 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 0 0 3 0 -
+p336
+aVReggie Lewis BOS 02/20/1990 BOS @ PHX L 34 17 7 12 58.3 0 0 - 3 4 75.0 1 2 3 4 1 0 1 1 -
+p337
+aVJoe Kleine BOS 02/20/1990 BOS @ PHX L 21 11 4 9 44.4 0 0 - 3 3 100.0 4 3 7 1 1 0 1 4 -
+p338
+aVLarry Bird BOS 02/20/1990 BOS @ PHX L 32 19 7 18 38.9 1 1 100.0 4 5 80.0 3 4 7 6 3 1 2 3 -
+p339
+aVCharles Smith BOS 02/20/1990 BOS @ PHX L 23 7 2 6 33.3 0 1 0.0 3 6 50.0 1 2 3 2 2 0 1 5 -
+p340
+aVEd Pinckney BOS 02/20/1990 BOS @ PHX L 20 11 4 6 66.7 0 0 - 3 4 75.0 3 3 6 4 0 0 1 2 -
+p341
+aVJim Paxson BOS 02/20/1990 BOS @ PHX L 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -
+p342
+aVJim Paxson BOS 02/18/1990 BOS @ LAL L 13 6 3 5 60.0 0 0 - 0 0 - 0 0 0 3 1 0 1 1 -
+p343
+aVRobert Parish BOS 02/18/1990 BOS @ LAL L 38 20 9 12 75.0 0 0 - 2 4 50.0 3 11 14 3 0 1 3 5 -
+p344
+aVCharles Smith BOS 02/18/1990 BOS @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p345
+aVLarry Bird BOS 02/18/1990 BOS @ LAL L 46 20 9 17 52.9 0 0 - 2 2 100.0 0 7 7 7 1 0 4 2 -
+p346
+aVKevin Gamble BOS 02/18/1990 BOS @ LAL L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 0 0 2 3 -
+p347
+aVDennis Johnson BOS 02/18/1990 BOS @ LAL L 39 10 5 10 50.0 0 2 0.0 0 0 - 0 3 3 12 0 0 1 3 -
+p348
+aVMichael Smith BOS 02/18/1990 BOS @ LAL L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p349
+aVJoe Kleine BOS 02/18/1990 BOS @ LAL L 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p350
+aVKevin McHale BOS 02/18/1990 BOS @ LAL L 34 21 8 14 57.1 0 1 0.0 5 6 83.3 1 3 4 1 0 1 1 5 -
+p351
+aVReggie Lewis BOS 02/18/1990 BOS @ LAL L 36 24 10 13 76.9 0 0 - 4 4 100.0 2 0 2 9 1 0 3 3 -
+p352
+aVEd Pinckney BOS 02/18/1990 BOS @ LAL L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -
+p353
+aVEd Pinckney BOS 02/16/1990 BOS @ POR L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -
+p354
+aVMichael Smith BOS 02/16/1990 BOS @ POR L 11 7 3 7 42.9 0 1 0.0 1 1 100.0 0 1 1 1 0 0 1 3 -
+p355
+aVJim Paxson BOS 02/16/1990 BOS @ POR L 13 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -
+p356
+aVRobert Parish BOS 02/16/1990 BOS @ POR L 30 7 3 12 25.0 0 0 - 1 2 50.0 4 3 7 2 1 1 3 2 -
+p357
+aVReggie Lewis BOS 02/16/1990 BOS @ POR L 35 14 5 14 35.7 0 0 - 4 6 66.7 1 3 4 2 1 0 3 5 -
+p358
+aVDennis Johnson BOS 02/16/1990 BOS @ POR L 26 8 4 6 66.7 0 0 - 0 0 - 0 4 4 3 1 0 0 3 -
+p359
+aVJoe Kleine BOS 02/16/1990 BOS @ POR L 18 5 2 5 40.0 0 0 - 1 1 100.0 1 3 4 0 0 0 0 1 -
+p360
+aVLarry Bird BOS 02/16/1990 BOS @ POR L 37 21 8 22 36.4 1 3 33.3 4 4 100.0 1 7 8 6 2 0 3 2 -
+p361
+aVJohn Bagley BOS 02/16/1990 BOS @ POR L 16 0 0 1 0.0 0 0 - 0 0 - 0 0 0 6 0 0 1 2 -
+p362
+aVCharles Smith BOS 02/16/1990 BOS @ POR L 7 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 0 0 4 -
+p363
+aVKevin Gamble BOS 02/16/1990 BOS @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p364
+aVKevin McHale BOS 02/16/1990 BOS @ POR L 38 34 9 18 50.0 2 2 100.0 14 14 100.0 3 5 8 1 0 4 3 2 -
+p365
+aVMichael Smith BOS 02/14/1990 BOS @ SAN W 10 11 3 5 60.0 0 0 - 5 5 100.0 0 2 2 2 1 0 1 0 -
+p366
+aVDennis Johnson BOS 02/14/1990 BOS @ SAN W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 3 0 -
+p367
+aVJohn Bagley BOS 02/14/1990 BOS @ SAN W 34 2 1 6 16.7 0 0 - 0 0 - 0 1 1 6 0 0 3 3 -
+p368
+aVKevin Gamble BOS 02/14/1990 BOS @ SAN W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -
+p369
+aVReggie Lewis BOS 02/14/1990 BOS @ SAN W 39 24 11 16 68.8 0 0 - 2 2 100.0 1 2 3 3 0 1 2 4 -
+p370
+aVEd Pinckney BOS 02/14/1990 BOS @ SAN W 10 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 2 0 0 1 -
+p371
+aVRobert Parish BOS 02/14/1990 BOS @ SAN W 36 16 5 10 50.0 0 0 - 6 8 75.0 5 8 13 2 3 2 2 5 -
+p372
+aVLarry Bird BOS 02/14/1990 BOS @ SAN W 37 20 8 23 34.8 1 3 33.3 3 3 100.0 1 11 12 7 0 0 3 2 -
+p373
+aVKevin McHale BOS 02/14/1990 BOS @ SAN W 39 28 12 15 80.0 0 0 - 4 4 100.0 4 7 11 1 0 2 4 4 -
+p374
+aVCharles Smith BOS 02/14/1990 BOS @ SAN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 1 0 0 1 -
+p375
+aVJoe Kleine BOS 02/14/1990 BOS @ SAN W 12 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 3 2 -
+p376
+aVEd Pinckney BOS 02/13/1990 BOS @ HOU W 15 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 2 1 -
+p377
+aVDennis Johnson BOS 02/13/1990 BOS @ HOU W 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -
+p378
+aVKevin Gamble BOS 02/13/1990 BOS @ HOU W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p379
+aVKevin McHale BOS 02/13/1990 BOS @ HOU W 35 14 4 15 26.7 0 1 0.0 6 6 100.0 4 4 8 4 1 2 1 4 -
+p380
+aVMichael Smith BOS 02/13/1990 BOS @ HOU W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -
+p381
+aVJohn Bagley BOS 02/13/1990 BOS @ HOU W 37 10 5 12 41.7 0 1 0.0 0 0 - 1 5 6 7 2 0 4 0 -
+p382
+aVRobert Parish BOS 02/13/1990 BOS @ HOU W 35 8 4 8 50.0 0 0 - 0 0 - 3 6 9 3 2 0 2 3 -
+p383
+aVJoe Kleine BOS 02/13/1990 BOS @ HOU W 11 8 4 7 57.1 0 0 - 0 0 - 2 2 4 0 1 0 0 1 -
+p384
+aVReggie Lewis BOS 02/13/1990 BOS @ HOU W 40 25 9 22 40.9 0 0 - 7 7 100.0 3 2 5 4 2 0 2 3 -
+p385
+aVLarry Bird BOS 02/13/1990 BOS @ HOU W 46 38 15 30 50.0 1 4 25.0 7 8 87.5 0 14 14 8 3 0 3 4 -
+p386
+aVRobert Parish BOS 02/07/1990 BOS vs. CHH W 18 13 5 6 83.3 0 0 - 3 3 100.0 1 7 8 2 1 0 0 1 -
+p387
+aVReggie Lewis BOS 02/07/1990 BOS vs. CHH W 26 26 12 17 70.6 0 0 - 2 2 100.0 0 2 2 5 0 0 0 1 -
+p388
+aVJohn Bagley BOS 02/07/1990 BOS vs. CHH W 18 4 2 3 66.7 0 0 - 0 0 - 1 1 2 6 1 0 2 0 -
+p389
+aVLarry Bird BOS 02/07/1990 BOS vs. CHH W 30 18 8 12 66.7 0 1 0.0 2 2 100.0 0 4 4 12 1 1 7 1 -
+p390
+aVCharles Smith BOS 02/07/1990 BOS vs. CHH W 30 6 1 2 50.0 0 0 - 4 6 66.7 0 1 1 9 5 1 2 5 -
+p391
+aVMichael Smith BOS 02/07/1990 BOS vs. CHH W 21 12 5 11 45.5 0 2 0.0 2 2 100.0 2 1 3 3 0 0 2 5 -
+p392
+aVEd Pinckney BOS 02/07/1990 BOS vs. CHH W 20 14 6 7 85.7 0 0 - 2 2 100.0 3 2 5 0 2 1 1 4 -
+p393
+aVKevin McHale BOS 02/07/1990 BOS vs. CHH W 24 31 10 15 66.7 3 4 75.0 8 9 88.9 1 7 8 2 0 3 1 2 -
+p394
+aVJoe Kleine BOS 02/07/1990 BOS vs. CHH W 30 16 6 10 60.0 0 0 - 4 5 80.0 2 7 9 1 0 1 0 3 -
+p395
+aVKevin Gamble BOS 02/07/1990 BOS vs. CHH W 15 4 2 5 40.0 0 0 - 0 0 - 0 1 1 4 0 0 1 0 -
+p396
+aVJim Paxson BOS 02/07/1990 BOS vs. CHH W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p397
+aVLarry Bird BOS 02/06/1990 BOS vs. MIL L 42 24 11 22 50.0 1 4 25.0 1 1 100.0 0 2 2 8 2 1 5 3 -
+p398
+aVEd Pinckney BOS 02/06/1990 BOS vs. MIL L 18 4 2 2 100.0 0 0 - 0 0 - 1 5 6 2 1 1 1 0 -
+p399
+aVKevin McHale BOS 02/06/1990 BOS vs. MIL L 29 28 8 15 53.3 0 2 0.0 12 13 92.3 4 7 11 0 0 0 2 3 -
+p400
+aVJohn Bagley BOS 02/06/1990 BOS vs. MIL L 35 8 4 7 57.1 0 0 - 0 0 - 0 0 0 4 0 0 1 3 -
+p401
+aVReggie Lewis BOS 02/06/1990 BOS vs. MIL L 30 15 7 14 50.0 1 1 100.0 0 1 0.0 2 4 6 3 1 0 2 4 -
+p402
+aVRobert Parish BOS 02/06/1990 BOS vs. MIL L 38 16 7 10 70.0 0 0 - 2 4 50.0 2 5 7 5 0 1 3 2 -
+p403
+aVJoe Kleine BOS 02/06/1990 BOS vs. MIL L 10 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 2 -
+p404
+aVCharles Smith BOS 02/06/1990 BOS vs. MIL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p405
+aVJim Paxson BOS 02/06/1990 BOS vs. MIL L 14 0 0 3 0.0 0 0 - 0 0 - 2 0 2 2 0 0 1 1 -
+p406
+aVKevin Gamble BOS 02/06/1990 BOS vs. MIL L 17 4 1 5 20.0 0 0 - 2 4 50.0 0 2 2 1 0 1 1 0 -
+p407
+aVMichael Smith BOS 02/06/1990 BOS vs. MIL L 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -
+p408
+aVJohn Bagley BOS 02/04/1990 BOS vs. SAC W 20 2 1 2 50.0 0 0 - 0 0 - 0 0 0 4 1 0 2 0 -
+p409
+aVMichael Smith BOS 02/04/1990 BOS vs. SAC W 24 16 7 10 70.0 0 1 0.0 2 2 100.0 0 3 3 8 1 0 1 0 -
+p410
+aVJim Paxson BOS 02/04/1990 BOS vs. SAC W 20 16 7 9 77.8 0 0 - 2 2 100.0 0 0 0 3 0 0 0 0 -
+p411
+aVKevin Gamble BOS 02/04/1990 BOS vs. SAC W 18 10 3 5 60.0 0 0 - 4 4 100.0 0 3 3 2 1 1 1 0 -
+p412
+aVKevin McHale BOS 02/04/1990 BOS vs. SAC W 23 21 7 10 70.0 2 3 66.7 5 5 100.0 1 4 5 6 0 0 3 3 -
+p413
+aVCharles Smith BOS 02/04/1990 BOS vs. SAC W 15 4 2 4 50.0 0 0 - 0 0 - 1 1 2 3 0 0 0 3 -
+p414
+aVRobert Parish BOS 02/04/1990 BOS vs. SAC W 22 14 6 11 54.5 0 0 - 2 3 66.7 2 9 11 1 2 0 1 1 -
+p415
+aVReggie Lewis BOS 02/04/1990 BOS vs. SAC W 28 14 6 11 54.5 0 0 - 2 2 100.0 0 4 4 4 0 1 0 1 -
+p416
+aVLarry Bird BOS 02/04/1990 BOS vs. SAC W 24 14 6 16 37.5 0 0 - 2 2 100.0 0 1 1 8 0 1 3 1 -
+p417
+aVEd Pinckney BOS 02/04/1990 BOS vs. SAC W 20 4 2 4 50.0 0 0 - 0 0 - 2 6 8 1 1 0 0 1 -
+p418
+aVJoe Kleine BOS 02/04/1990 BOS vs. SAC W 26 6 3 6 50.0 0 0 - 0 0 - 0 5 5 0 1 2 1 3 -
+p419
+aVEd Pinckney BOS 02/02/1990 BOS @ MIN L 15 3 0 1 0.0 0 0 - 3 4 75.0 1 0 1 0 0 0 1 0 -
+p420
+aVKevin Gamble BOS 02/02/1990 BOS @ MIN L 15 7 3 6 50.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 0 2 -
+p421
+aVJoe Kleine BOS 02/02/1990 BOS @ MIN L 18 8 2 5 40.0 0 0 - 4 4 100.0 2 5 7 2 0 0 1 2 -
+p422
+aVJim Paxson BOS 02/02/1990 BOS @ MIN L 18 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 -
+p423
+aVRobert Parish BOS 02/02/1990 BOS @ MIN L 30 12 4 8 50.0 0 0 - 4 6 66.7 4 6 10 2 0 0 2 4 -
+p424
+aVReggie Lewis BOS 02/02/1990 BOS @ MIN L 34 15 6 12 50.0 0 2 0.0 3 4 75.0 0 2 2 2 0 1 1 6 -
+p425
+aVJohn Bagley BOS 02/02/1990 BOS @ MIN L 38 11 5 6 83.3 1 1 100.0 0 0 - 0 0 0 5 0 0 3 0 -
+p426
+aVMichael Smith BOS 02/02/1990 BOS @ MIN L 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 0 -
+p427
+aVLarry Bird BOS 02/02/1990 BOS @ MIN L 36 18 7 17 41.2 0 2 0.0 4 4 100.0 1 8 9 11 0 0 3 6 -
+p428
+aVKevin McHale BOS 02/02/1990 BOS @ MIN L 32 26 9 14 64.3 0 1 0.0 8 8 100.0 2 3 5 0 0 3 2 5 -
+p429
+aVCharles Smith BOS 01/31/1990 BOS vs. NYK W 1 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p430
+aVRobert Parish BOS 01/31/1990 BOS vs. NYK W 36 26 12 22 54.5 0 0 - 2 2 100.0 7 4 11 0 0 3 1 5 -
+p431
+aVJohn Bagley BOS 01/31/1990 BOS vs. NYK W 30 2 1 5 20.0 0 0 - 0 0 - 0 2 2 7 1 0 2 1 -
+p432
+aVKevin McHale BOS 01/31/1990 BOS vs. NYK W 34 17 5 14 35.7 1 2 50.0 6 6 100.0 4 7 11 1 2 2 5 2 -
+p433
+aVJim Paxson BOS 01/31/1990 BOS vs. NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p434
+aVKevin Gamble BOS 01/31/1990 BOS vs. NYK W 21 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 2 0 1 0 0 -
+p435
+aVEd Pinckney BOS 01/31/1990 BOS vs. NYK W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p436
+aVDennis Johnson BOS 01/31/1990 BOS vs. NYK W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 -
+p437
+aVLarry Bird BOS 01/31/1990 BOS vs. NYK W 45 19 5 17 29.4 0 3 0.0 9 9 100.0 1 4 5 10 5 1 5 5 -
+p438
+aVMichael Smith BOS 01/31/1990 BOS vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -
+p439
+aVJoe Kleine BOS 01/31/1990 BOS vs. NYK W 12 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 0 1 0 2 1 -
+p440
+aVReggie Lewis BOS 01/31/1990 BOS vs. NYK W 33 15 6 10 60.0 0 0 - 3 4 75.0 0 3 3 2 2 0 0 3 -
+p441
+aVJoe Kleine BOS 01/28/1990 BOS vs. PHX W 17 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 1 0 3 -
+p442
+aVJohn Bagley BOS 01/28/1990 BOS vs. PHX W 17 10 5 5 100.0 0 0 - 0 0 - 0 0 0 4 0 0 0 2 -
+p443
+aVCharles Smith BOS 01/28/1990 BOS vs. PHX W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p444
+aVRobert Parish BOS 01/28/1990 BOS vs. PHX W 30 17 7 9 77.8 0 0 - 3 4 75.0 1 10 11 0 0 4 1 2 -
+p445
+aVLarry Bird BOS 01/28/1990 BOS vs. PHX W 41 22 9 18 50.0 0 1 0.0 4 4 100.0 2 4 6 13 0 1 4 2 -
+p446
+aVMichael Smith BOS 01/28/1990 BOS vs. PHX W 8 7 3 6 50.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 1 -
+p447
+aVEd Pinckney BOS 01/28/1990 BOS vs. PHX W 10 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 1 0 1 2 2 -
+p448
+aVReggie Lewis BOS 01/28/1990 BOS vs. PHX W 33 16 6 13 46.2 0 0 - 4 4 100.0 0 3 3 3 1 0 2 3 -
+p449
+aVKevin McHale BOS 01/28/1990 BOS vs. PHX W 37 21 8 16 50.0 1 1 100.0 4 5 80.0 2 7 9 6 0 3 2 2 -
+p450
+aVDennis Johnson BOS 01/28/1990 BOS vs. PHX W 30 10 3 5 60.0 0 0 - 4 4 100.0 0 3 3 12 3 0 1 5 -
+p451
+aVKevin Gamble BOS 01/28/1990 BOS vs. PHX W 16 7 2 3 66.7 0 0 - 3 3 100.0 2 0 2 1 0 0 0 0 -
+p452
+aVJohn Bagley BOS 01/25/1990 BOS @ WAS L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -
+p453
+aVEd Pinckney BOS 01/25/1990 BOS @ WAS L 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -
+p454
+aVMichael Smith BOS 01/25/1990 BOS @ WAS L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p455
+aVLarry Bird BOS 01/25/1990 BOS @ WAS L 46 23 11 28 39.3 1 4 25.0 0 0 - 0 10 10 9 0 3 1 1 -
+p456
+aVJoe Kleine BOS 01/25/1990 BOS @ WAS L 13 8 2 2 100.0 0 0 - 4 4 100.0 1 3 4 0 0 1 1 2 -
+p457
+aVDennis Johnson BOS 01/25/1990 BOS @ WAS L 41 4 2 9 22.2 0 1 0.0 0 0 - 0 4 4 8 0 1 1 2 -
+p458
+aVKevin Gamble BOS 01/25/1990 BOS @ WAS L 17 8 4 5 80.0 0 0 - 0 1 0.0 1 0 1 0 1 0 0 3 -
+p459
+aVKevin McHale BOS 01/25/1990 BOS @ WAS L 36 25 12 18 66.7 0 0 - 1 1 100.0 7 7 14 4 0 2 3 1 -
+p460
+aVRobert Parish BOS 01/25/1990 BOS @ WAS L 35 14 5 8 62.5 0 0 - 4 5 80.0 5 11 16 0 1 0 8 4 -
+p461
+aVReggie Lewis BOS 01/25/1990 BOS @ WAS L 33 12 5 12 41.7 0 0 - 2 2 100.0 1 2 3 2 0 1 2 3 -
+p462
+aVReggie Lewis BOS 01/24/1990 BOS vs. MIA W 24 16 6 12 50.0 0 0 - 4 4 100.0 0 2 2 1 0 0 3 1 -
+p463
+aVKevin Gamble BOS 01/24/1990 BOS vs. MIA W 22 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 0 -
+p464
+aVLarry Bird BOS 01/24/1990 BOS vs. MIA W 33 20 10 22 45.5 0 0 - 0 0 - 3 10 13 7 2 2 0 1 -
+p465
+aVCharles Smith BOS 01/24/1990 BOS vs. MIA W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p466
+aVJim Paxson BOS 01/24/1990 BOS vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p467
+aVKevin McHale BOS 01/24/1990 BOS vs. MIA W 27 15 7 16 43.8 0 0 - 1 2 50.0 5 7 12 3 1 1 2 0 -
+p468
+aVRobert Parish BOS 01/24/1990 BOS vs. MIA W 24 23 9 10 90.0 0 0 - 5 7 71.4 6 3 9 1 0 2 2 2 -
+p469
+aVDennis Johnson BOS 01/24/1990 BOS vs. MIA W 24 6 3 4 75.0 0 0 - 0 0 - 1 4 5 4 1 0 4 2 -
+p470
+aVEd Pinckney BOS 01/24/1990 BOS vs. MIA W 21 8 2 8 25.0 0 0 - 4 6 66.7 2 2 4 2 0 0 3 2 -
+p471
+aVMichael Smith BOS 01/24/1990 BOS vs. MIA W 15 6 3 6 50.0 0 0 - 0 0 - 1 3 4 3 0 0 1 2 -
+p472
+aVJoe Kleine BOS 01/24/1990 BOS vs. MIA W 24 8 4 9 44.4 0 1 0.0 0 0 - 4 4 8 2 0 1 2 5 -
+p473
+aVJohn Bagley BOS 01/24/1990 BOS vs. MIA W 22 6 3 4 75.0 0 0 - 0 0 - 1 2 3 9 1 0 3 2 -
+p474
+aVDennis Johnson BOS 01/21/1990 BOS vs. GOS L 26 2 1 3 33.3 0 0 - 0 0 - 0 1 1 8 2 0 4 2 -
+p475
+aVJohn Bagley BOS 01/21/1990 BOS vs. GOS L 21 2 1 8 12.5 0 2 0.0 0 0 - 0 1 1 6 1 0 1 2 -
+p476
+aVEd Pinckney BOS 01/21/1990 BOS vs. GOS L 16 4 1 6 16.7 0 1 0.0 2 2 100.0 2 0 2 0 0 0 2 2 -
+p477
+aVReggie Lewis BOS 01/21/1990 BOS vs. GOS L 33 19 8 17 47.1 0 0 - 3 3 100.0 2 6 8 4 0 0 1 5 -
+p478
+aVMichael Smith BOS 01/21/1990 BOS vs. GOS L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p479
+aVKevin McHale BOS 01/21/1990 BOS vs. GOS L 33 22 10 17 58.8 0 0 - 2 3 66.7 5 4 9 1 1 1 3 2 -
+p480
+aVRobert Parish BOS 01/21/1990 BOS vs. GOS L 38 29 13 22 59.1 0 0 - 3 3 100.0 5 3 8 1 0 0 3 1 -
+p481
+aVKevin Gamble BOS 01/21/1990 BOS vs. GOS L 16 0 0 4 0.0 0 0 - 0 0 - 2 3 5 0 0 1 0 2 -
+p482
+aVJoe Kleine BOS 01/21/1990 BOS vs. GOS L 10 0 0 0 - 0 0 - 0 0 - 0 7 7 0 2 0 0 2 -
+p483
+aVLarry Bird BOS 01/21/1990 BOS vs. GOS L 42 37 13 21 61.9 2 4 50.0 9 9 100.0 0 5 5 12 4 2 3 3 -
+p484
+aVRobert Parish BOS 01/19/1990 BOS vs. IND W 40 22 9 14 64.3 0 0 - 4 5 80.0 4 7 11 0 0 1 1 3 -
+p485
+aVEd Pinckney BOS 01/19/1990 BOS vs. IND W 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -
+p486
+aVJoe Kleine BOS 01/19/1990 BOS vs. IND W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p487
+aVJohn Bagley BOS 01/19/1990 BOS vs. IND W 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 1 0 3 3 -
+p488
+aVDennis Johnson BOS 01/19/1990 BOS vs. IND W 36 13 4 8 50.0 0 0 - 5 6 83.3 1 6 7 9 1 0 1 4 -
+p489
+aVMichael Smith BOS 01/19/1990 BOS vs. IND W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -
+p490
+aVKevin McHale BOS 01/19/1990 BOS vs. IND W 33 20 7 11 63.6 0 0 - 6 6 100.0 4 5 9 2 0 1 1 2 -
+p491
+aVLarry Bird BOS 01/19/1990 BOS vs. IND W 43 29 12 23 52.2 1 3 33.3 4 4 100.0 0 12 12 9 1 1 6 0 -
+p492
+aVReggie Lewis BOS 01/19/1990 BOS vs. IND W 40 15 6 15 40.0 0 0 - 3 4 75.0 2 5 7 3 1 1 2 3 -
+p493
+aVJim Paxson BOS 01/19/1990 BOS vs. IND W 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p494
+aVKevin McHale BOS 01/17/1990 BOS @ ORL W 27 21 8 12 66.7 0 0 - 5 5 100.0 1 3 4 0 1 0 1 1 -
+p495
+aVJoe Kleine BOS 01/17/1990 BOS @ ORL W 18 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 0 0 0 3 -
+p496
+aVJohn Bagley BOS 01/17/1990 BOS @ ORL W 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 7 0 0 4 0 -
+p497
+aVMichael Smith BOS 01/17/1990 BOS @ ORL W 16 10 5 10 50.0 0 0 - 0 0 - 3 1 4 2 0 0 3 3 -
+p498
+aVJim Paxson BOS 01/17/1990 BOS @ ORL W 21 14 6 8 75.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 3 -
+p499
+aVKevin Gamble BOS 01/17/1990 BOS @ ORL W 6 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -
+p500
+aVCharles Smith BOS 01/17/1990 BOS @ ORL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -
+p501
+aVDennis Johnson BOS 01/17/1990 BOS @ ORL W 27 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 5 3 0 0 2 -
+p502
+aVLarry Bird BOS 01/17/1990 BOS @ ORL W 29 14 6 17 35.3 0 3 0.0 2 2 100.0 1 9 10 10 1 1 3 3 -
+p503
+aVEd Pinckney BOS 01/17/1990 BOS @ ORL W 21 13 6 6 100.0 0 0 - 1 2 50.0 0 1 1 5 1 1 2 3 -
+p504
+aVReggie Lewis BOS 01/17/1990 BOS @ ORL W 24 14 4 9 44.4 0 0 - 6 6 100.0 3 1 4 3 2 0 5 3 -
+p505
+aVRobert Parish BOS 01/17/1990 BOS @ ORL W 30 25 9 13 69.2 0 0 - 7 7 100.0 6 10 16 2 2 3 2 2 -
+p506
+aVLarry Bird BOS 01/13/1990 BOS @ MIA W 34 14 5 15 33.3 2 5 40.0 2 2 100.0 2 9 11 7 3 0 2 3 -
+p507
+aVJoe Kleine BOS 01/13/1990 BOS @ MIA W 10 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 1 1 1 -
+p508
+aVRobert Parish BOS 01/13/1990 BOS @ MIA W 38 30 10 19 52.6 0 0 - 10 12 83.3 7 6 13 2 1 1 2 3 -
+p509
+aVDennis Johnson BOS 01/13/1990 BOS @ MIA W 31 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 2 1 0 2 1 -
+p510
+aVEd Pinckney BOS 01/13/1990 BOS @ MIA W 23 7 2 4 50.0 0 0 - 3 3 100.0 3 4 7 0 0 0 2 0 -
+p511
+aVKevin McHale BOS 01/13/1990 BOS @ MIA W 25 26 8 17 47.1 0 0 - 10 11 90.9 8 2 10 1 1 0 4 5 -
+p512
+aVReggie Lewis BOS 01/13/1990 BOS @ MIA W 35 15 5 14 35.7 0 0 - 5 7 71.4 3 2 5 0 1 1 2 0 -
+p513
+aVJohn Bagley BOS 01/13/1990 BOS @ MIA W 16 0 0 3 0.0 0 0 - 0 2 0.0 0 0 0 2 1 0 2 1 -
+p514
+aVMichael Smith BOS 01/13/1990 BOS @ MIA W 10 6 3 6 50.0 0 0 - 0 0 - 3 0 3 1 0 0 0 0 -
+p515
+aVKevin Gamble BOS 01/13/1990 BOS @ MIA W 17 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -
+p516
+aVCharles Smith BOS 01/13/1990 BOS @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p517
+aVDennis Johnson BOS 01/12/1990 BOS vs. SAN L 31 12 4 11 36.4 0 0 - 4 5 80.0 1 4 5 6 2 0 3 3 -
+p518
+aVEd Pinckney BOS 01/12/1990 BOS vs. SAN L 10 2 1 2 50.0 0 0 - 0 0 - 2 0 2 2 0 0 0 4 -
+p519
+aVMichael Smith BOS 01/12/1990 BOS vs. SAN L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p520
+aVKevin Gamble BOS 01/12/1990 BOS vs. SAN L 30 11 5 11 45.5 1 3 33.3 0 0 - 3 1 4 2 0 0 3 1 -
+p521
+aVRobert Parish BOS 01/12/1990 BOS vs. SAN L 26 11 5 9 55.6 0 0 - 1 2 50.0 3 9 12 1 0 0 2 4 -
+p522
+aVJoe Kleine BOS 01/12/1990 BOS vs. SAN L 22 9 4 7 57.1 0 0 - 1 2 50.0 5 3 8 0 0 1 2 1 -
+p523
+aVJohn Bagley BOS 01/12/1990 BOS vs. SAN L 18 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 0 0 2 2 -
+p524
+aVKevin McHale BOS 01/12/1990 BOS vs. SAN L 38 17 7 14 50.0 0 0 - 3 4 75.0 5 7 12 1 1 2 5 4 -
+p525
+aVJim Paxson BOS 01/12/1990 BOS vs. SAN L 17 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -
+p526
+aVReggie Lewis BOS 01/12/1990 BOS vs. SAN L 45 22 9 27 33.3 0 2 0.0 4 5 80.0 1 0 1 1 2 1 1 4 -
+p527
+aVKevin Gamble BOS 01/10/1990 BOS vs. DET W 27 7 2 8 25.0 0 0 - 3 4 75.0 1 1 2 4 0 0 1 4 -
+p528
+aVJoe Kleine BOS 01/10/1990 BOS vs. DET W 8 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 2 -
+p529
+aVEd Pinckney BOS 01/10/1990 BOS vs. DET W 9 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -
+p530
+aVDennis Johnson BOS 01/10/1990 BOS vs. DET W 38 10 4 14 28.6 0 0 - 2 2 100.0 0 6 6 7 0 0 0 6 -
+p531
+aVKevin McHale BOS 01/10/1990 BOS vs. DET W 39 30 10 18 55.6 0 0 - 10 10 100.0 3 10 13 1 0 0 5 4 -
+p532
+aVReggie Lewis BOS 01/10/1990 BOS vs. DET W 45 32 11 23 47.8 0 0 - 10 12 83.3 5 6 11 0 2 2 0 4 -
+p533
+aVJim Paxson BOS 01/10/1990 BOS vs. DET W 33 4 2 7 28.6 0 0 - 0 0 - 0 3 3 6 1 0 2 1 -
+p534
+aVRobert Parish BOS 01/10/1990 BOS vs. DET W 40 19 8 17 47.1 0 0 - 3 9 33.3 8 6 14 1 1 1 2 2 -
+p535
+aVCharles Smith BOS 01/10/1990 BOS vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p536
+aVJim Paxson BOS 01/09/1990 BOS @ NJN L 33 6 2 8 25.0 0 0 - 2 4 50.0 1 3 4 6 1 1 0 3 -
+p537
+aVDennis Johnson BOS 01/09/1990 BOS @ NJN L 35 10 4 9 44.4 0 0 - 2 4 50.0 1 2 3 3 0 0 1 2 -
+p538
+aVRobert Parish BOS 01/09/1990 BOS @ NJN L 23 7 3 6 50.0 0 0 - 1 1 100.0 1 6 7 1 1 3 4 6 -
+p539
+aVKevin McHale BOS 01/09/1990 BOS @ NJN L 28 13 5 10 50.0 0 0 - 3 4 75.0 0 6 6 0 0 1 1 2 -
+p540
+aVEd Pinckney BOS 01/09/1990 BOS @ NJN L 26 3 1 2 50.0 0 0 - 1 3 33.3 2 7 9 1 1 0 1 4 -
+p541
+aVJoe Kleine BOS 01/09/1990 BOS @ NJN L 19 3 1 3 33.3 0 0 - 1 1 100.0 0 2 2 0 0 0 2 2 -
+p542
+aVCharles Smith BOS 01/09/1990 BOS @ NJN L 3 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 0 -
+p543
+aVKevin Gamble BOS 01/09/1990 BOS @ NJN L 27 13 5 10 50.0 0 0 - 3 3 100.0 1 2 3 2 1 0 1 3 -
+p544
+aVMichael Smith BOS 01/09/1990 BOS @ NJN L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -
+p545
+aVReggie Lewis BOS 01/09/1990 BOS @ NJN L 43 22 7 19 36.8 0 0 - 8 10 80.0 0 7 7 2 0 1 5 3 -
+p546
+aVKevin Gamble BOS 01/06/1990 BOS @ WAS W 20 12 5 7 71.4 0 0 - 2 4 50.0 3 2 5 3 1 0 0 2 -
+p547
+aVMichael Smith BOS 01/06/1990 BOS @ WAS W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 0 0 0 -
+p548
+aVRobert Parish BOS 01/06/1990 BOS @ WAS W 39 29 12 15 80.0 0 0 - 5 5 100.0 3 10 13 2 1 0 4 2 -
+p549
+aVEd Pinckney BOS 01/06/1990 BOS @ WAS W 20 11 3 4 75.0 0 0 - 5 6 83.3 3 5 8 0 1 0 1 2 -
+p550
+aVDennis Johnson BOS 01/06/1990 BOS @ WAS W 39 6 2 9 22.2 0 0 - 2 2 100.0 1 4 5 9 0 1 3 3 -
+p551
+aVJim Paxson BOS 01/06/1990 BOS @ WAS W 31 12 5 11 45.5 0 0 - 2 2 100.0 0 2 2 4 0 0 2 3 -
+p552
+aVCharles Smith BOS 01/06/1990 BOS @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p553
+aVKevin McHale BOS 01/06/1990 BOS @ WAS W 34 9 2 9 22.2 0 0 - 5 6 83.3 2 6 8 3 0 3 2 3 -
+p554
+aVReggie Lewis BOS 01/06/1990 BOS @ WAS W 35 21 10 21 47.6 0 0 - 1 2 50.0 0 1 1 2 1 1 1 2 -
+p555
+aVJoe Kleine BOS 01/06/1990 BOS @ WAS W 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 3 -
+p556
+aVKevin McHale BOS 01/05/1990 BOS vs. LAC L 35 20 8 17 47.1 0 0 - 4 4 100.0 2 10 12 1 1 2 2 4 -
+p557
+aVReggie Lewis BOS 01/05/1990 BOS vs. LAC L 35 14 7 16 43.8 0 0 - 0 0 - 2 4 6 8 3 4 3 4 -
+p558
+aVMichael Smith BOS 01/05/1990 BOS vs. LAC L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p559
+aVEd Pinckney BOS 01/05/1990 BOS vs. LAC L 13 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -
+p560
+aVCharles Smith BOS 01/05/1990 BOS vs. LAC L 1 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -
+p561
+aVLarry Bird BOS 01/05/1990 BOS vs. LAC L 19 12 4 11 36.4 0 1 0.0 4 4 100.0 1 2 3 3 1 1 1 1 -
+p562
+aVKevin Gamble BOS 01/05/1990 BOS vs. LAC L 23 8 2 9 22.2 0 2 0.0 4 4 100.0 1 3 4 6 1 0 1 1 -
+p563
+aVDennis Johnson BOS 01/05/1990 BOS vs. LAC L 31 5 2 6 33.3 0 1 0.0 1 4 25.0 0 4 4 5 0 0 1 2 -
+p564
+aVJoe Kleine BOS 01/05/1990 BOS vs. LAC L 22 8 4 6 66.7 0 0 - 0 0 - 1 1 2 1 1 0 0 4 -
+p565
+aVRobert Parish BOS 01/05/1990 BOS vs. LAC L 25 14 6 12 50.0 0 0 - 2 4 50.0 2 3 5 0 1 0 3 2 -
+p566
+aVJim Paxson BOS 01/05/1990 BOS vs. LAC L 35 16 8 14 57.1 0 0 - 0 0 - 2 0 2 9 1 0 2 5 -
+p567
+aVJoe Kleine BOS 01/03/1990 BOS vs. WAS W 25 12 5 11 45.5 0 0 - 2 2 100.0 5 8 13 0 0 0 0 3 -
+p568
+aVLarry Bird BOS 01/03/1990 BOS vs. WAS W 36 20 9 19 47.4 2 6 33.3 0 0 - 0 9 9 9 2 1 3 1 -
+p569
+aVMichael Smith BOS 01/03/1990 BOS vs. WAS W 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 0 2 1 -
+p570
+aVReggie Lewis BOS 01/03/1990 BOS vs. WAS W 27 16 7 12 58.3 0 0 - 2 2 100.0 0 4 4 0 0 0 1 4 -
+p571
+aVRobert Parish BOS 01/03/1990 BOS vs. WAS W 23 14 5 10 50.0 0 0 - 4 4 100.0 3 3 6 2 1 0 3 2 -
+p572
+aVEd Pinckney BOS 01/03/1990 BOS vs. WAS W 28 14 6 7 85.7 0 0 - 2 3 66.7 4 1 5 0 0 0 1 3 -
+p573
+aVCharles Smith BOS 01/03/1990 BOS vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p574
+aVDennis Johnson BOS 01/03/1990 BOS vs. WAS W 31 12 4 10 40.0 0 0 - 4 4 100.0 0 3 3 11 1 0 2 1 -
+p575
+aVJim Paxson BOS 01/03/1990 BOS vs. WAS W 23 6 3 7 42.9 0 0 - 0 0 - 1 0 1 5 0 0 0 0 -
+p576
+aVKevin Gamble BOS 01/03/1990 BOS vs. WAS W 15 6 3 5 60.0 0 0 - 0 0 - 1 1 2 4 0 0 0 0 -
+p577
+aVKevin McHale BOS 01/03/1990 BOS vs. WAS W 20 18 5 8 62.5 0 0 - 8 8 100.0 3 4 7 2 1 1 2 5 -
+p578
+aVEd Pinckney BOS 12/29/1989 BOS @ SEA W 12 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 2 -
+p579
+aVJim Paxson BOS 12/29/1989 BOS @ SEA W 23 2 1 5 20.0 0 0 - 0 0 - 0 0 0 3 1 0 0 0 -
+p580
+aVJoe Kleine BOS 12/29/1989 BOS @ SEA W 24 15 7 8 87.5 0 0 - 1 2 50.0 3 5 8 0 0 0 0 2 -
+p581
+aVKevin Gamble BOS 12/29/1989 BOS @ SEA W 22 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 -
+p582
+aVReggie Lewis BOS 12/29/1989 BOS @ SEA W 31 16 7 13 53.8 0 0 - 2 2 100.0 2 1 3 3 0 0 4 2 -
+p583
+aVRobert Parish BOS 12/29/1989 BOS @ SEA W 24 13 4 8 50.0 0 0 - 5 6 83.3 2 7 9 1 0 0 0 0 -
+p584
+aVLarry Bird BOS 12/29/1989 BOS @ SEA W 40 9 4 11 36.4 0 2 0.0 1 1 100.0 0 9 9 7 0 0 7 1 -
+p585
+aVDennis Johnson BOS 12/29/1989 BOS @ SEA W 28 9 2 6 33.3 0 1 0.0 5 6 83.3 2 2 4 4 4 0 2 3 -
+p586
+aVKevin McHale BOS 12/29/1989 BOS @ SEA W 36 22 11 15 73.3 0 0 - 0 0 - 3 6 9 2 0 2 3 2 -
+p587
+aVDennis Johnson BOS 12/27/1989 BOS @ SAC W 32 4 1 6 16.7 0 0 - 2 2 100.0 1 1 2 6 1 1 0 1 -
+p588
+aVKevin Gamble BOS 12/27/1989 BOS @ SAC W 21 7 2 4 50.0 0 0 - 3 4 75.0 3 0 3 4 0 0 1 1 -
+p589
+aVEd Pinckney BOS 12/27/1989 BOS @ SAC W 16 7 3 4 75.0 0 0 - 1 2 50.0 3 1 4 1 1 0 2 1 -
+p590
+aVLarry Bird BOS 12/27/1989 BOS @ SAC W 49 37 14 31 45.2 2 4 50.0 7 7 100.0 4 7 11 10 2 0 3 1 -
+p591
+aVMichael Smith BOS 12/27/1989 BOS @ SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p592
+aVReggie Lewis BOS 12/27/1989 BOS @ SAC W 41 26 12 22 54.5 0 0 - 2 5 40.0 2 4 6 2 0 0 2 3 -
+p593
+aVKevin McHale BOS 12/27/1989 BOS @ SAC W 37 13 5 11 45.5 0 0 - 3 6 50.0 2 9 11 5 0 1 1 2 -
+p594
+aVRobert Parish BOS 12/27/1989 BOS @ SAC W 40 16 6 12 50.0 0 0 - 4 6 66.7 3 6 9 2 0 1 3 2 -
+p595
+aVJoe Kleine BOS 12/27/1989 BOS @ SAC W 13 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 2 0 0 1 2 -
+p596
+aVJim Paxson BOS 12/27/1989 BOS @ SAC W 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 1 1 3 -
+p597
+aVEd Pinckney BOS 12/26/1989 BOS @ LAC W 19 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 -
+p598
+aVRobert Parish BOS 12/26/1989 BOS @ LAC W 33 11 4 10 40.0 0 0 - 3 4 75.0 8 10 18 1 0 2 3 3 -
+p599
+aVKevin McHale BOS 12/26/1989 BOS @ LAC W 28 20 9 15 60.0 0 1 0.0 2 2 100.0 2 4 6 3 0 2 1 5 -
+p600
+aVReggie Lewis BOS 12/26/1989 BOS @ LAC W 31 28 9 19 47.4 0 0 - 10 11 90.9 2 3 5 3 1 0 2 3 -
+p601
+aVDennis Johnson BOS 12/26/1989 BOS @ LAC W 32 7 2 4 50.0 0 0 - 3 4 75.0 0 5 5 9 1 0 2 2 -
+p602
+aVLarry Bird BOS 12/26/1989 BOS @ LAC W 39 27 11 22 50.0 1 3 33.3 4 4 100.0 2 3 5 5 2 0 5 4 -
+p603
+aVMichael Smith BOS 12/26/1989 BOS @ LAC W 9 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p604
+aVCharles Smith BOS 12/26/1989 BOS @ LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p605
+aVJim Paxson BOS 12/26/1989 BOS @ LAC W 11 4 2 5 40.0 0 0 - 0 1 0.0 0 0 0 2 1 0 1 1 -
+p606
+aVKevin Gamble BOS 12/26/1989 BOS @ LAC W 20 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 4 0 0 2 0 -
+p607
+aVJoe Kleine BOS 12/26/1989 BOS @ LAC W 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -
+p608
+aVJoe Kleine BOS 12/22/1989 BOS vs. PHL L 12 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 1 0 1 2 -
+p609
+aVDennis Johnson BOS 12/22/1989 BOS vs. PHL L 41 12 6 15 40.0 0 0 - 0 0 - 3 6 9 9 3 1 3 5 -
+p610
+aVKelvin Upshaw BOS 12/22/1989 BOS vs. PHL L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -
+p611
+aVReggie Lewis BOS 12/22/1989 BOS vs. PHL L 29 9 4 10 40.0 0 0 - 1 2 50.0 1 2 3 3 2 1 1 2 -
+p612
+aVJim Paxson BOS 12/22/1989 BOS vs. PHL L 18 6 3 6 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -
+p613
+aVEd Pinckney BOS 12/22/1989 BOS vs. PHL L 17 7 3 6 50.0 0 0 - 1 1 100.0 2 2 4 1 0 2 0 3 -
+p614
+aVCharles Smith BOS 12/22/1989 BOS vs. PHL L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p615
+aVKevin Gamble BOS 12/22/1989 BOS vs. PHL L 12 4 1 3 33.3 1 2 50.0 1 2 50.0 0 2 2 3 0 0 0 1 -
+p616
+aVLarry Bird BOS 12/22/1989 BOS vs. PHL L 37 11 5 14 35.7 0 1 0.0 1 1 100.0 2 10 12 9 2 0 3 2 -
+p617
+aVKevin McHale BOS 12/22/1989 BOS vs. PHL L 31 14 6 14 42.9 0 0 - 2 2 100.0 0 3 3 1 1 2 1 4 -
+p618
+aVRobert Parish BOS 12/22/1989 BOS vs. PHL L 36 19 9 20 45.0 0 0 - 1 1 100.0 4 6 10 0 0 0 1 4 -
+p619
+aVKevin Gamble BOS 12/20/1989 BOS vs. UTH W 15 12 5 6 83.3 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 -
+p620
+aVJim Paxson BOS 12/20/1989 BOS vs. UTH W 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 1 0 0 2 -
+p621
+aVKelvin Upshaw BOS 12/20/1989 BOS vs. UTH W 12 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 3 1 0 0 1 -
+p622
+aVReggie Lewis BOS 12/20/1989 BOS vs. UTH W 26 14 7 10 70.0 0 0 - 0 0 - 0 4 4 2 1 2 1 2 -
+p623
+aVDennis Johnson BOS 12/20/1989 BOS vs. UTH W 36 9 4 9 44.4 0 2 0.0 1 2 50.0 0 0 0 14 1 1 0 5 -
+p624
+aVKevin McHale BOS 12/20/1989 BOS vs. UTH W 35 19 7 12 58.3 0 0 - 5 5 100.0 0 7 7 3 0 3 1 2 -
+p625
+aVLarry Bird BOS 12/20/1989 BOS vs. UTH W 41 40 16 30 53.3 1 2 50.0 7 7 100.0 0 8 8 5 2 0 2 3 -
+p626
+aVRobert Parish BOS 12/20/1989 BOS vs. UTH W 34 7 2 6 33.3 0 0 - 3 4 75.0 1 7 8 0 2 1 3 1 -
+p627
+aVJoe Kleine BOS 12/20/1989 BOS vs. UTH W 14 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -
+p628
+aVEd Pinckney BOS 12/20/1989 BOS vs. UTH W 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 2 1 1 4 -
+p629
+aVReggie Lewis BOS 12/19/1989 BOS @ MIL W 22 13 5 11 45.5 0 0 - 3 4 75.0 2 1 3 2 2 0 1 3 -
+p630
+aVDennis Johnson BOS 12/19/1989 BOS @ MIL W 36 8 4 8 50.0 0 1 0.0 0 1 0.0 0 5 5 5 3 1 4 4 -
+p631
+aVJoe Kleine BOS 12/19/1989 BOS @ MIL W 13 4 1 5 20.0 0 0 - 2 3 66.7 1 3 4 1 0 0 1 2 -
+p632
+aVEd Pinckney BOS 12/19/1989 BOS @ MIL W 18 9 3 4 75.0 0 0 - 3 3 100.0 1 4 5 4 0 0 2 3 -
+p633
+aVKelvin Upshaw BOS 12/19/1989 BOS @ MIL W 12 3 1 4 25.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 3 4 -
+p634
+aVRobert Parish BOS 12/19/1989 BOS @ MIL W 35 10 4 11 36.4 0 0 - 2 2 100.0 1 7 8 2 0 0 0 0 -
+p635
+aVLarry Bird BOS 12/19/1989 BOS @ MIL W 38 21 8 15 53.3 0 0 - 5 7 71.4 1 11 12 6 1 0 1 1 -
+p636
+aVKevin Gamble BOS 12/19/1989 BOS @ MIL W 24 11 3 3 100.0 0 0 - 5 6 83.3 0 0 0 3 3 0 2 1 -
+p637
+aVKevin McHale BOS 12/19/1989 BOS @ MIL W 30 14 5 10 50.0 0 0 - 4 4 100.0 1 10 11 0 0 3 2 2 -
+p638
+aVMichael Smith BOS 12/19/1989 BOS @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p639
+aVJim Paxson BOS 12/19/1989 BOS @ MIL W 11 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 0 0 0 3 -
+p640
+aVMichael Smith BOS 12/15/1989 BOS vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p641
+aVKevin McHale BOS 12/15/1989 BOS vs. LAL L 34 21 9 11 81.8 0 0 - 3 3 100.0 2 3 5 4 0 3 1 5 -
+p642
+aVJoe Kleine BOS 12/15/1989 BOS vs. LAL L 7 4 2 3 66.7 0 0 - 0 1 0.0 1 0 1 0 0 0 1 1 -
+p643
+aVKevin Gamble BOS 12/15/1989 BOS vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p644
+aVEd Pinckney BOS 12/15/1989 BOS vs. LAL L 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -
+p645
+aVKelvin Upshaw BOS 12/15/1989 BOS vs. LAL L 13 3 1 5 20.0 1 1 100.0 0 0 - 1 0 1 2 0 0 1 3 -
+p646
+aVDennis Johnson BOS 12/15/1989 BOS vs. LAL L 34 24 11 15 73.3 0 0 - 2 2 100.0 0 4 4 6 2 0 5 5 -
+p647
+aVReggie Lewis BOS 12/15/1989 BOS vs. LAL L 23 6 3 7 42.9 0 0 - 0 0 - 0 1 1 3 0 1 0 2 -
+p648
+aVLarry Bird BOS 12/15/1989 BOS vs. LAL L 43 21 9 27 33.3 1 2 50.0 2 2 100.0 3 9 12 2 3 0 5 3 -
+p649
+aVJim Paxson BOS 12/15/1989 BOS vs. LAL L 29 6 3 5 60.0 0 0 - 0 0 - 0 1 1 4 0 0 1 2 -
+p650
+aVRobert Parish BOS 12/15/1989 BOS vs. LAL L 41 23 10 16 62.5 0 0 - 3 5 60.0 3 7 10 3 0 0 2 1 -
+p651
+aVJim Paxson BOS 12/13/1989 BOS vs. SEA W 37 15 7 12 58.3 1 1 100.0 0 0 - 1 2 3 2 0 0 0 3 -
+p652
+aVJoe Kleine BOS 12/13/1989 BOS vs. SEA W 20 3 0 3 0.0 0 0 - 3 4 75.0 1 3 4 0 0 2 3 4 -
+p653
+aVKevin McHale BOS 12/13/1989 BOS vs. SEA W 24 16 5 10 50.0 0 0 - 6 8 75.0 3 8 11 2 1 1 7 2 -
+p654
+aVRobert Parish BOS 12/13/1989 BOS vs. SEA W 28 5 2 8 25.0 0 0 - 1 1 100.0 4 5 9 1 1 1 3 2 -
+p655
+aVKevin Gamble BOS 12/13/1989 BOS vs. SEA W 11 7 2 5 40.0 0 0 - 3 4 75.0 0 2 2 1 0 0 1 2 -
+p656
+aVLarry Bird BOS 12/13/1989 BOS vs. SEA W 46 40 17 27 63.0 2 5 40.0 4 4 100.0 3 8 11 10 1 2 5 2 -
+p657
+aVKelvin Upshaw BOS 12/13/1989 BOS vs. SEA W 10 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 3 0 0 3 2 -
+p658
+aVDennis Johnson BOS 12/13/1989 BOS vs. SEA W 38 6 2 10 20.0 0 1 0.0 2 2 100.0 0 4 4 12 3 0 1 3 -
+p659
+aVEd Pinckney BOS 12/13/1989 BOS vs. SEA W 26 14 3 4 75.0 0 0 - 8 8 100.0 3 2 5 1 1 0 2 2 -
+p660
+aVLarry Bird BOS 12/09/1989 BOS @ NYK L 36 25 11 26 42.3 0 1 0.0 3 3 100.0 3 10 13 3 1 0 3 2 -
+p661
+aVJoe Kleine BOS 12/09/1989 BOS @ NYK L 32 9 4 7 57.1 0 0 - 1 2 50.0 5 1 6 2 0 0 2 5 -
+p662
+aVDennis Johnson BOS 12/09/1989 BOS @ NYK L 28 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 7 1 0 2 4 -
+p663
+aVCharles Smith BOS 12/09/1989 BOS @ NYK L 8 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 -
+p664
+aVMichael Smith BOS 12/09/1989 BOS @ NYK L 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p665
+aVKevin Gamble BOS 12/09/1989 BOS @ NYK L 23 8 3 6 50.0 0 0 - 2 2 100.0 2 1 3 4 1 0 0 1 -
+p666
+aVKevin McHale BOS 12/09/1989 BOS @ NYK L 28 17 7 14 50.0 0 0 - 3 3 100.0 1 4 5 2 0 0 5 5 -
+p667
+aVKelvin Upshaw BOS 12/09/1989 BOS @ NYK L 12 2 1 5 20.0 0 0 - 0 0 - 0 0 0 3 0 0 0 2 -
+p668
+aVJim Paxson BOS 12/09/1989 BOS @ NYK L 25 8 4 10 40.0 0 0 - 0 0 - 0 1 1 4 1 0 1 1 -
+p669
+aVRobert Parish BOS 12/09/1989 BOS @ NYK L 16 5 2 6 33.3 0 0 - 1 1 100.0 2 0 2 1 0 0 3 5 -
+p670
+aVEd Pinckney BOS 12/09/1989 BOS @ NYK L 26 8 3 5 60.0 0 0 - 2 2 100.0 1 3 4 1 0 2 1 3 -
+p671
+aVJim Paxson BOS 12/08/1989 BOS vs. DEN L 39 4 2 9 22.2 0 0 - 0 0 - 1 2 3 3 1 0 3 2 -
+p672
+aVDennis Johnson BOS 12/08/1989 BOS vs. DEN L 30 4 1 7 14.3 0 0 - 2 2 100.0 3 2 5 7 4 0 1 4 -
+p673
+aVRobert Parish BOS 12/08/1989 BOS vs. DEN L 38 38 15 21 71.4 0 0 - 8 9 88.9 8 4 12 1 0 1 0 1 -
+p674
+aVKevin McHale BOS 12/08/1989 BOS vs. DEN L 35 20 6 16 37.5 0 0 - 8 8 100.0 3 9 12 0 0 2 4 4 -
+p675
+aVJoe Kleine BOS 12/08/1989 BOS vs. DEN L 10 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 0 0 0 1 1 -
+p676
+aVReggie Lewis BOS 12/08/1989 BOS vs. DEN L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -
+p677
+aVCharles Smith BOS 12/08/1989 BOS vs. DEN L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 2 0 2 1 -
+p678
+aVLarry Bird BOS 12/08/1989 BOS vs. DEN L 43 24 9 23 39.1 1 4 25.0 5 5 100.0 1 11 12 12 2 1 7 4 -
+p679
+aVKevin Gamble BOS 12/08/1989 BOS vs. DEN L 8 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -
+p680
+aVKelvin Upshaw BOS 12/08/1989 BOS vs. DEN L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p681
+aVEd Pinckney BOS 12/08/1989 BOS vs. DEN L 13 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 1 1 0 1 -
+p682
+aVReggie Lewis BOS 12/06/1989 BOS vs. NYK W 24 15 7 12 58.3 0 0 - 1 1 100.0 3 0 3 1 0 0 0 4 -
+p683
+aVCharles Smith BOS 12/06/1989 BOS vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p684
+aVMichael Smith BOS 12/06/1989 BOS vs. NYK W 1 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p685
+aVKelvin Upshaw BOS 12/06/1989 BOS vs. NYK W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 5 1 0 2 1 -
+p686
+aVEd Pinckney BOS 12/06/1989 BOS vs. NYK W 15 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 1 0 1 2 -
+p687
+aVJim Paxson BOS 12/06/1989 BOS vs. NYK W 28 16 7 10 70.0 0 0 - 2 2 100.0 0 1 1 4 2 0 1 4 -
+p688
+aVLarry Bird BOS 12/06/1989 BOS vs. NYK W 42 27 9 25 36.0 1 7 14.3 8 8 100.0 2 9 11 7 3 0 4 4 -
+p689
+aVKevin Gamble BOS 12/06/1989 BOS vs. NYK W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p690
+aVJoe Kleine BOS 12/06/1989 BOS vs. NYK W 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -
+p691
+aVKevin McHale BOS 12/06/1989 BOS vs. NYK W 32 18 8 14 57.1 0 0 - 2 2 100.0 1 6 7 1 1 0 1 3 -
+p692
+aVRobert Parish BOS 12/06/1989 BOS vs. NYK W 34 17 7 12 58.3 0 0 - 3 4 75.0 7 10 17 1 1 0 6 5 -
+p693
+aVDennis Johnson BOS 12/06/1989 BOS vs. NYK W 37 14 5 9 55.6 0 1 0.0 4 4 100.0 2 2 4 13 1 0 1 0 -
+p694
+aVReggie Lewis BOS 12/05/1989 BOS @ CHH W 23 18 5 14 35.7 0 1 0.0 8 9 88.9 1 2 3 2 2 0 1 2 -
+p695
+aVEd Pinckney BOS 12/05/1989 BOS @ CHH W 15 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 1 0 2 6 -
+p696
+aVRobert Parish BOS 12/05/1989 BOS @ CHH W 22 16 7 7 100.0 0 0 - 2 3 66.7 1 5 6 3 0 1 3 0 -
+p697
+aVLarry Bird BOS 12/05/1989 BOS @ CHH W 29 11 4 13 30.8 1 2 50.0 2 2 100.0 2 11 13 11 1 0 2 2 -
+p698
+aVJoe Kleine BOS 12/05/1989 BOS @ CHH W 26 10 5 6 83.3 0 0 - 0 0 - 1 7 8 1 0 0 2 3 -
+p699
+aVJim Paxson BOS 12/05/1989 BOS @ CHH W 30 12 5 10 50.0 0 0 - 2 2 100.0 2 0 2 1 1 0 0 0 -
+p700
+aVDennis Johnson BOS 12/05/1989 BOS @ CHH W 22 13 6 8 75.0 0 0 - 1 1 100.0 0 3 3 3 0 0 1 1 -
+p701
+aVCharles Smith BOS 12/05/1989 BOS @ CHH W 10 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 1 0 2 1 -
+p702
+aVKevin Gamble BOS 12/05/1989 BOS @ CHH W 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 1 1 0 -
+p703
+aVKevin McHale BOS 12/05/1989 BOS @ CHH W 32 20 8 14 57.1 0 0 - 4 4 100.0 2 4 6 4 0 2 1 2 -
+p704
+aVKelvin Upshaw BOS 12/05/1989 BOS @ CHH W 19 4 2 5 40.0 0 0 - 0 0 - 1 2 3 4 0 1 2 2 -
+p705
+aVMichael Smith BOS 12/05/1989 BOS @ CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p706
+aVRobert Parish BOS 12/01/1989 BOS vs. CLE W 34 16 8 10 80.0 0 0 - 0 0 - 3 8 11 1 0 3 2 1 -
+p707
+aVDennis Johnson BOS 12/01/1989 BOS vs. CLE W 21 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 5 1 0 3 2 -
+p708
+aVMichael Smith BOS 12/01/1989 BOS vs. CLE W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p709
+aVCharles Smith BOS 12/01/1989 BOS vs. CLE W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -
+p710
+aVKevin McHale BOS 12/01/1989 BOS vs. CLE W 37 18 8 15 53.3 0 0 - 2 2 100.0 2 2 4 2 0 3 1 1 -
+p711
+aVLarry Bird BOS 12/01/1989 BOS vs. CLE W 42 29 11 26 42.3 1 3 33.3 6 6 100.0 1 8 9 5 2 1 4 2 -
+p712
+aVKevin Gamble BOS 12/01/1989 BOS vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p713
+aVReggie Lewis BOS 12/01/1989 BOS vs. CLE W 33 16 8 11 72.7 0 0 - 0 0 - 2 4 6 1 1 0 2 1 -
+p714
+aVJoe Kleine BOS 12/01/1989 BOS vs. CLE W 14 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -
+p715
+aVEd Pinckney BOS 12/01/1989 BOS vs. CLE W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 2 1 2 -
+p716
+aVJim Paxson BOS 12/01/1989 BOS vs. CLE W 20 8 3 6 50.0 0 1 0.0 2 2 100.0 0 1 1 1 2 0 1 1 -
+p717
+aVKelvin Upshaw BOS 12/01/1989 BOS vs. CLE W 19 7 3 6 50.0 1 1 100.0 0 1 0.0 1 3 4 8 0 0 0 1 -
+p718
+aVKevin Gamble BOS 11/29/1989 BOS @ NJN W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p719
+aVJoe Kleine BOS 11/29/1989 BOS @ NJN W 19 6 3 6 50.0 0 0 - 0 0 - 1 5 6 2 0 1 2 1 -
+p720
+aVKelvin Upshaw BOS 11/29/1989 BOS @ NJN W 6 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p721
+aVReggie Lewis BOS 11/29/1989 BOS @ NJN W 19 8 4 7 57.1 0 0 - 0 0 - 1 1 2 2 2 0 1 0 -
+p722
+aVCharles Smith BOS 11/29/1989 BOS @ NJN W 20 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 1 1 0 0 2 -
+p723
+aVDennis Johnson BOS 11/29/1989 BOS @ NJN W 22 1 0 3 0.0 0 0 - 1 2 50.0 1 0 1 2 2 0 2 3 -
+p724
+aVEd Pinckney BOS 11/29/1989 BOS @ NJN W 19 10 4 7 57.1 0 0 - 2 2 100.0 3 1 4 1 0 0 0 1 -
+p725
+aVMichael Smith BOS 11/29/1989 BOS @ NJN W 4 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -
+p726
+aVLarry Bird BOS 11/29/1989 BOS @ NJN W 35 29 12 20 60.0 3 3 100.0 2 2 100.0 2 9 11 7 4 1 3 2 -
+p727
+aVJim Paxson BOS 11/29/1989 BOS @ NJN W 33 10 5 8 62.5 0 2 0.0 0 0 - 1 2 3 3 0 0 2 2 -
+p728
+aVRobert Parish BOS 11/29/1989 BOS @ NJN W 29 17 7 11 63.6 0 0 - 3 3 100.0 1 9 10 0 1 1 3 2 -
+p729
+aVKevin McHale BOS 11/29/1989 BOS @ NJN W 29 23 9 14 64.3 0 0 - 5 5 100.0 2 7 9 2 0 3 3 3 -
+p730
+aVLarry Bird BOS 11/25/1989 BOS @ ATL L 37 12 4 7 57.1 0 0 - 4 4 100.0 1 9 10 6 3 2 1 4 -
+p731
+aVCharles Smith BOS 11/25/1989 BOS @ ATL L 22 10 2 12 16.7 0 1 0.0 6 8 75.0 0 1 1 1 0 0 1 3 -
+p732
+aVDennis Johnson BOS 11/25/1989 BOS @ ATL L 25 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 6 0 0 3 1 -
+p733
+aVKelvin Upshaw BOS 11/25/1989 BOS @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p734
+aVKevin Gamble BOS 11/25/1989 BOS @ ATL L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p735
+aVReggie Lewis BOS 11/25/1989 BOS @ ATL L 18 6 3 7 42.9 0 0 - 0 0 - 1 3 4 3 0 0 1 0 -
+p736
+aVMichael Smith BOS 11/25/1989 BOS @ ATL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p737
+aVRobert Parish BOS 11/25/1989 BOS @ ATL L 34 22 10 12 83.3 0 0 - 2 4 50.0 4 5 9 2 0 2 2 5 -
+p738
+aVKevin McHale BOS 11/25/1989 BOS @ ATL L 33 22 7 13 53.8 0 0 - 8 8 100.0 2 2 4 2 0 3 2 2 -
+p739
+aVJim Paxson BOS 11/25/1989 BOS @ ATL L 22 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 1 0 0 1 1 -
+p740
+aVEd Pinckney BOS 11/25/1989 BOS @ ATL L 23 11 5 10 50.0 0 0 - 1 1 100.0 2 4 6 2 1 0 2 1 -
+p741
+aVJoe Kleine BOS 11/25/1989 BOS @ ATL L 14 6 3 8 37.5 0 0 - 0 0 - 5 1 6 0 0 0 2 0 -
+p742
+aVJim Paxson BOS 11/24/1989 BOS vs. IND L 13 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -
+p743
+aVKevin McHale BOS 11/24/1989 BOS vs. IND L 30 15 7 12 58.3 0 0 - 1 1 100.0 0 5 5 2 0 1 0 4 -
+p744
+aVEd Pinckney BOS 11/24/1989 BOS vs. IND L 18 6 1 7 14.3 0 0 - 4 4 100.0 7 5 12 1 0 2 2 2 -
+p745
+aVJoe Kleine BOS 11/24/1989 BOS vs. IND L 12 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 -
+p746
+aVKevin Gamble BOS 11/24/1989 BOS vs. IND L 13 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 1 0 0 0 1 -
+p747
+aVReggie Lewis BOS 11/24/1989 BOS vs. IND L 28 5 2 8 25.0 0 0 - 1 1 100.0 0 4 4 3 0 0 0 6 -
+p748
+aVLarry Bird BOS 11/24/1989 BOS vs. IND L 42 24 9 26 34.6 0 3 0.0 6 7 85.7 3 8 11 9 1 2 3 1 -
+p749
+aVDennis Johnson BOS 11/24/1989 BOS vs. IND L 31 18 5 9 55.6 0 0 - 8 11 72.7 1 0 1 4 2 0 3 4 -
+p750
+aVCharles Smith BOS 11/24/1989 BOS vs. IND L 17 10 4 8 50.0 0 0 - 2 3 66.7 1 1 2 3 2 0 0 4 -
+p751
+aVRobert Parish BOS 11/24/1989 BOS vs. IND L 36 19 8 14 57.1 0 0 - 3 4 75.0 5 8 13 1 0 1 2 1 -
+p752
+aVRobert Parish BOS 11/22/1989 BOS vs. HOU W 30 14 5 12 41.7 0 0 - 4 5 80.0 3 8 11 0 0 2 3 2 -
+p753
+aVEd Pinckney BOS 11/22/1989 BOS vs. HOU W 18 7 2 4 50.0 0 0 - 3 4 75.0 1 2 3 3 0 0 0 2 -
+p754
+aVMichael Smith BOS 11/22/1989 BOS vs. HOU W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -
+p755
+aVLarry Bird BOS 11/22/1989 BOS vs. HOU W 35 26 8 14 57.1 0 1 0.0 10 10 100.0 0 14 14 5 1 4 2 2 -
+p756
+aVCharles Smith BOS 11/22/1989 BOS vs. HOU W 18 6 2 5 40.0 0 1 0.0 2 4 50.0 0 2 2 3 5 0 0 2 -
+p757
+aVKevin Gamble BOS 11/22/1989 BOS vs. HOU W 16 6 1 3 33.3 0 0 - 4 5 80.0 1 1 2 1 1 0 0 3 -
+p758
+aVJim Paxson BOS 11/22/1989 BOS vs. HOU W 11 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 3 -
+p759
+aVReggie Lewis BOS 11/22/1989 BOS vs. HOU W 32 22 8 14 57.1 0 0 - 6 8 75.0 0 6 6 5 0 0 2 3 -
+p760
+aVKevin McHale BOS 11/22/1989 BOS vs. HOU W 26 10 2 11 18.2 0 1 0.0 6 7 85.7 0 7 7 2 0 2 5 3 -
+p761
+aVDennis Johnson BOS 11/22/1989 BOS vs. HOU W 30 4 2 10 20.0 0 0 - 0 0 - 3 1 4 7 0 0 2 1 -
+p762
+aVJoe Kleine BOS 11/22/1989 BOS vs. HOU W 22 4 0 2 0.0 0 0 - 4 6 66.7 0 4 4 0 1 0 1 2 -
+p763
+aVKevin Gamble BOS 11/21/1989 BOS @ IND L 24 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 1 0 0 0 3 -
+p764
+aVRobert Parish BOS 11/21/1989 BOS @ IND L 32 16 8 15 53.3 0 0 - 0 2 0.0 5 11 16 1 0 0 1 4 -
+p765
+aVDennis Johnson BOS 11/21/1989 BOS @ IND L 27 11 5 8 62.5 0 0 - 1 2 50.0 0 0 0 9 0 0 2 2 -
+p766
+aVEd Pinckney BOS 11/21/1989 BOS @ IND L 19 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 1 3 0 0 -
+p767
+aVMichael Smith BOS 11/21/1989 BOS @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p768
+aVJoe Kleine BOS 11/21/1989 BOS @ IND L 16 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 0 0 0 0 0 -
+p769
+aVJohn Bagley BOS 11/21/1989 BOS @ IND L 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 3 0 0 2 0 -
+p770
+aVReggie Lewis BOS 11/21/1989 BOS @ IND L 35 16 6 17 35.3 0 0 - 4 6 66.7 3 5 8 3 1 1 1 3 -
+p771
+aVCharles Smith BOS 11/21/1989 BOS @ IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p772
+aVKevin McHale BOS 11/21/1989 BOS @ IND L 29 23 9 16 56.3 0 0 - 5 5 100.0 2 6 8 2 0 1 3 6 -
+p773
+aVLarry Bird BOS 11/21/1989 BOS @ IND L 41 25 10 26 38.5 0 2 0.0 5 6 83.3 2 5 7 9 0 0 1 3 -
+p774
+aVKevin McHale BOS 11/18/1989 BOS @ DET L 24 9 3 5 60.0 0 0 - 3 3 100.0 1 5 6 1 0 1 5 4 -
+p775
+aVKevin Gamble BOS 11/18/1989 BOS @ DET L 21 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 1 3 -
+p776
+aVCharles Smith BOS 11/18/1989 BOS @ DET L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 1 4 -
+p777
+aVLarry Bird BOS 11/18/1989 BOS @ DET L 38 22 8 18 44.4 2 3 66.7 4 4 100.0 1 3 4 3 0 0 4 4 -
+p778
+aVMichael Smith BOS 11/18/1989 BOS @ DET L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p779
+aVEd Pinckney BOS 11/18/1989 BOS @ DET L 24 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 2 1 2 3 1 -
+p780
+aVJoe Kleine BOS 11/18/1989 BOS @ DET L 20 4 2 7 28.6 0 0 - 0 0 - 3 7 10 2 0 0 0 1 -
+p781
+aVDennis Johnson BOS 11/18/1989 BOS @ DET L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 3 2 -
+p782
+aVJim Paxson BOS 11/18/1989 BOS @ DET L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p783
+aVReggie Lewis BOS 11/18/1989 BOS @ DET L 27 11 4 11 36.4 1 2 50.0 2 2 100.0 1 1 2 1 1 1 1 1 -
+p784
+aVRobert Parish BOS 11/18/1989 BOS @ DET L 28 16 8 13 61.5 0 0 - 0 0 - 4 8 12 0 0 0 5 4 -
+p785
+aVJohn Bagley BOS 11/18/1989 BOS @ DET L 29 8 3 7 42.9 0 0 - 2 2 100.0 0 4 4 8 1 0 5 1 -
+p786
+aVCharles Smith BOS 11/17/1989 BOS vs. MIN W 12 6 3 4 75.0 0 0 - 0 0 - 0 3 3 3 1 1 1 0 -
+p787
+aVDennis Johnson BOS 11/17/1989 BOS vs. MIN W 16 5 2 5 40.0 0 1 0.0 1 1 100.0 0 1 1 5 0 0 0 2 -
+p788
+aVJoe Kleine BOS 11/17/1989 BOS vs. MIN W 24 10 4 5 80.0 0 0 - 2 2 100.0 1 7 8 2 0 0 1 3 -
+p789
+aVMichael Smith BOS 11/17/1989 BOS vs. MIN W 13 4 2 4 50.0 0 0 - 0 2 0.0 0 1 1 1 0 0 1 1 -
+p790
+aVKevin McHale BOS 11/17/1989 BOS vs. MIN W 25 14 5 11 45.5 0 1 0.0 4 4 100.0 1 4 5 0 0 2 0 1 -
+p791
+aVRobert Parish BOS 11/17/1989 BOS vs. MIN W 24 19 9 13 69.2 0 0 - 1 3 33.3 5 5 10 0 0 0 1 2 -
+p792
+aVLarry Bird BOS 11/17/1989 BOS vs. MIN W 28 11 5 9 55.6 0 0 - 1 1 100.0 1 3 4 9 1 2 4 3 -
+p793
+aVJim Paxson BOS 11/17/1989 BOS vs. MIN W 16 9 2 7 28.6 0 0 - 5 5 100.0 0 0 0 2 1 0 0 3 -
+p794
+aVReggie Lewis BOS 11/17/1989 BOS vs. MIN W 15 10 4 9 44.4 0 0 - 2 2 100.0 1 2 3 1 1 1 4 5 -
+p795
+aVKevin Gamble BOS 11/17/1989 BOS vs. MIN W 24 8 4 11 36.4 0 0 - 0 0 - 1 1 2 3 4 1 2 0 -
+p796
+aVJohn Bagley BOS 11/17/1989 BOS vs. MIN W 20 12 5 6 83.3 0 0 - 2 2 100.0 0 0 0 4 0 0 2 1 -
+p797
+aVEd Pinckney BOS 11/17/1989 BOS vs. MIN W 23 8 2 4 50.0 0 0 - 4 4 100.0 3 6 9 2 0 2 0 2 -
+p798
+aVKelvin Upshaw BOS 11/15/1989 BOS vs. NJN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p799
+aVKevin McHale BOS 11/15/1989 BOS vs. NJN W 26 18 9 14 64.3 0 0 - 0 0 - 3 2 5 1 0 2 1 3 -
+p800
+aVEd Pinckney BOS 11/15/1989 BOS vs. NJN W 22 15 6 9 66.7 0 0 - 3 3 100.0 2 1 3 3 0 1 0 3 -
+p801
+aVLarry Bird BOS 11/15/1989 BOS vs. NJN W 28 12 6 13 46.2 0 0 - 0 0 - 3 12 15 10 1 1 3 0 -
+p802
+aVJim Paxson BOS 11/15/1989 BOS vs. NJN W 15 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 0 -
+p803
+aVRobert Parish BOS 11/15/1989 BOS vs. NJN W 25 26 10 13 76.9 0 0 - 6 7 85.7 3 9 12 2 1 0 2 1 -
+p804
+aVJoe Kleine BOS 11/15/1989 BOS vs. NJN W 23 10 5 10 50.0 0 0 - 0 0 - 1 5 6 2 0 1 1 1 -
+p805
+aVDennis Johnson BOS 11/15/1989 BOS vs. NJN W 19 0 0 5 0.0 0 0 - 0 0 - 1 0 1 7 0 0 2 1 -
+p806
+aVReggie Lewis BOS 11/15/1989 BOS vs. NJN W 28 24 9 11 81.8 0 0 - 6 7 85.7 0 6 6 1 3 1 2 0 -
+p807
+aVJohn Bagley BOS 11/15/1989 BOS vs. NJN W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 6 0 0 1 3 -
+p808
+aVCharles Smith BOS 11/15/1989 BOS vs. NJN W 12 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 5 1 0 2 0 -
+p809
+aVKevin Gamble BOS 11/15/1989 BOS vs. NJN W 25 13 5 6 83.3 0 0 - 3 3 100.0 0 1 1 4 0 1 2 1 -
+p810
+aVEd Pinckney BOS 11/14/1989 BOS vs. PHL W 20 12 6 7 85.7 0 0 - 0 2 0.0 2 2 4 3 2 0 2 1 -
+p811
+aVReggie Lewis BOS 11/14/1989 BOS vs. PHL W 19 0 0 3 0.0 0 0 - 0 2 0.0 1 2 3 1 1 0 3 4 -
+p812
+aVDennis Johnson BOS 11/14/1989 BOS vs. PHL W 16 12 5 6 83.3 0 0 - 2 2 100.0 0 3 3 2 0 0 2 1 -
+p813
+aVJoe Kleine BOS 11/14/1989 BOS vs. PHL W 16 6 3 3 100.0 0 0 - 0 0 - 0 5 5 0 0 1 3 1 -
+p814
+aVRobert Parish BOS 11/14/1989 BOS vs. PHL W 32 9 4 9 44.4 0 0 - 1 2 50.0 2 6 8 3 1 0 3 1 -
+p815
+aVLarry Bird BOS 11/14/1989 BOS vs. PHL W 35 10 5 11 45.5 0 0 - 0 0 - 0 6 6 8 1 1 0 1 -
+p816
+aVJim Paxson BOS 11/14/1989 BOS vs. PHL W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 2 -
+p817
+aVKevin McHale BOS 11/14/1989 BOS vs. PHL W 29 15 5 9 55.6 0 0 - 5 5 100.0 0 3 3 1 0 2 1 3 -
+p818
+aVKevin Gamble BOS 11/14/1989 BOS vs. PHL W 35 14 6 11 54.5 0 0 - 2 2 100.0 0 4 4 5 2 0 3 2 -
+p819
+aVCharles Smith BOS 11/14/1989 BOS vs. PHL W 5 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p820
+aVJohn Bagley BOS 11/14/1989 BOS vs. PHL W 27 14 6 10 60.0 0 1 0.0 2 2 100.0 1 2 3 7 2 0 1 2 -
+p821
+aVJoe Kleine BOS 11/11/1989 BOS @ CLE L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p822
+aVRobert Parish BOS 11/11/1989 BOS @ CLE L 39 31 12 14 85.7 0 0 - 7 10 70.0 6 11 17 1 1 0 2 3 -
+p823
+aVKevin McHale BOS 11/11/1989 BOS @ CLE L 31 12 5 10 50.0 0 0 - 2 3 66.7 0 5 5 0 0 1 3 4 -
+p824
+aVDennis Johnson BOS 11/11/1989 BOS @ CLE L 29 4 2 5 40.0 0 0 - 0 1 0.0 1 1 2 7 2 0 0 2 -
+p825
+aVLarry Bird BOS 11/11/1989 BOS @ CLE L 41 18 7 17 41.2 0 0 - 4 5 80.0 2 6 8 7 0 1 4 2 -
+p826
+aVJim Paxson BOS 11/11/1989 BOS @ CLE L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p827
+aVEd Pinckney BOS 11/11/1989 BOS @ CLE L 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 1 1 2 -
+p828
+aVReggie Lewis BOS 11/11/1989 BOS @ CLE L 26 3 1 8 12.5 0 0 - 1 1 100.0 0 3 3 1 0 1 0 0 -
+p829
+aVKevin Gamble BOS 11/11/1989 BOS @ CLE L 27 18 6 12 50.0 0 1 0.0 6 6 100.0 1 1 2 3 1 0 1 4 -
+p830
+aVCharles Smith BOS 11/11/1989 BOS @ CLE L 9 11 4 5 80.0 0 0 - 3 3 100.0 0 0 0 2 0 0 0 2 -
+p831
+aVJohn Bagley BOS 11/11/1989 BOS @ CLE L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -
+p832
+aVJoe Kleine BOS 11/10/1989 BOS vs. ATL W 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -
+p833
+aVJim Paxson BOS 11/10/1989 BOS vs. ATL W 15 6 3 7 42.9 0 0 - 0 1 0.0 0 0 0 1 0 0 1 5 -
+p834
+aVDennis Johnson BOS 11/10/1989 BOS vs. ATL W 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 5 0 0 2 1 -
+p835
+aVJohn Bagley BOS 11/10/1989 BOS vs. ATL W 26 6 2 4 50.0 0 1 0.0 2 2 100.0 1 2 3 13 2 0 1 4 -
+p836
+aVLarry Bird BOS 11/10/1989 BOS vs. ATL W 39 50 19 25 76.0 1 1 100.0 11 12 91.7 3 10 13 7 0 0 3 3 -
+p837
+aVCharles Smith BOS 11/10/1989 BOS vs. ATL W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -
+p838
+aVEd Pinckney BOS 11/10/1989 BOS vs. ATL W 21 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 1 1 2 3 -
+p839
+aVKevin McHale BOS 11/10/1989 BOS vs. ATL W 27 20 7 11 63.6 0 0 - 6 6 100.0 3 5 8 2 0 1 1 2 -
+p840
+aVRobert Parish BOS 11/10/1989 BOS vs. ATL W 37 4 2 7 28.6 0 0 - 0 2 0.0 2 10 12 1 1 1 1 3 -
+p841
+aVReggie Lewis BOS 11/10/1989 BOS vs. ATL W 34 18 7 17 41.2 0 0 - 4 5 80.0 2 3 5 3 2 2 2 2 -
+p842
+aVKevin Gamble BOS 11/10/1989 BOS vs. ATL W 8 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 -
+p843
+aVRobert Parish BOS 11/08/1989 BOS @ WAS L 29 19 7 9 77.8 0 0 - 5 6 83.3 3 8 11 1 0 0 3 1 -
+p844
+aVJohn Bagley BOS 11/08/1989 BOS @ WAS L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 5 1 0 2 1 -
+p845
+aVJoe Kleine BOS 11/08/1989 BOS @ WAS L 5 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -
+p846
+aVEd Pinckney BOS 11/08/1989 BOS @ WAS L 32 8 4 8 50.0 0 0 - 0 0 - 3 2 5 0 0 1 1 4 -
+p847
+aVReggie Lewis BOS 11/08/1989 BOS @ WAS L 25 13 5 8 62.5 1 1 100.0 2 5 40.0 1 4 5 2 1 1 0 4 -
+p848
+aVKevin McHale BOS 11/08/1989 BOS @ WAS L 27 22 9 16 56.3 0 1 0.0 4 4 100.0 1 3 4 0 0 0 2 3 -
+p849
+aVLarry Bird BOS 11/08/1989 BOS @ WAS L 40 20 9 26 34.6 0 2 0.0 2 3 66.7 0 7 7 4 1 3 3 2 -
+p850
+aVDennis Johnson BOS 11/08/1989 BOS @ WAS L 29 0 0 2 0.0 0 0 - 0 0 - 0 1 1 11 0 0 0 2 -
+p851
+aVKevin Gamble BOS 11/08/1989 BOS @ WAS L 25 13 5 9 55.6 0 0 - 3 4 75.0 4 1 5 5 1 0 3 6 -
+p852
+aVJim Paxson BOS 11/08/1989 BOS @ WAS L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p853
+aVCharles Smith BOS 11/08/1989 BOS @ WAS L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -
+p854
+aVReggie Lewis BOS 11/07/1989 BOS @ MIL L 27 14 6 16 37.5 0 0 - 2 3 66.7 1 3 4 1 3 2 0 3 -
+p855
+aVJoe Kleine BOS 11/07/1989 BOS @ MIL L 18 4 0 3 0.0 0 0 - 4 4 100.0 1 4 5 0 0 0 1 4 -
+p856
+aVLarry Bird BOS 11/07/1989 BOS @ MIL L 39 18 7 20 35.0 0 3 0.0 4 4 100.0 0 11 11 7 3 1 3 2 -
+p857
+aVJim Paxson BOS 11/07/1989 BOS @ MIL L 12 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 1 1 -
+p858
+aVDennis Johnson BOS 11/07/1989 BOS @ MIL L 19 10 5 7 71.4 0 0 - 0 0 - 1 0 1 2 2 0 0 3 -
+p859
+aVRobert Parish BOS 11/07/1989 BOS @ MIL L 27 15 5 9 55.6 0 0 - 5 7 71.4 4 5 9 2 0 0 5 4 -
+p860
+aVKevin McHale BOS 11/07/1989 BOS @ MIL L 34 18 7 13 53.8 0 0 - 4 4 100.0 4 5 9 3 0 0 2 4 -
+p861
+aVKevin Gamble BOS 11/07/1989 BOS @ MIL L 18 9 4 7 57.1 0 0 - 1 2 50.0 0 3 3 1 0 0 0 1 -
+p862
+aVEd Pinckney BOS 11/07/1989 BOS @ MIL L 17 3 0 4 0.0 0 0 - 3 4 75.0 0 2 2 0 0 1 1 1 -
+p863
+aVJohn Bagley BOS 11/07/1989 BOS @ MIL L 29 8 3 6 50.0 0 1 0.0 2 2 100.0 1 1 2 3 1 0 4 1 -
+p864
+aVEd Pinckney BOS 11/04/1989 BOS @ CHI W 15 8 3 5 60.0 0 0 - 2 4 50.0 2 2 4 1 0 0 0 1 -
+p865
+aVJim Paxson BOS 11/04/1989 BOS @ CHI W 13 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 -
+p866
+aVJohn Bagley BOS 11/04/1989 BOS @ CHI W 32 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 10 1 0 5 2 -
+p867
+aVJoe Kleine BOS 11/04/1989 BOS @ CHI W 20 14 7 10 70.0 0 0 - 0 0 - 6 6 12 0 0 0 1 2 -
+p868
+aVLarry Bird BOS 11/04/1989 BOS @ CHI W 38 27 12 24 50.0 0 1 0.0 3 4 75.0 2 7 9 6 0 0 7 3 -
+p869
+aVKevin McHale BOS 11/04/1989 BOS @ CHI W 33 12 5 12 41.7 0 0 - 2 2 100.0 3 6 9 2 0 2 2 3 -
+p870
+aVReggie Lewis BOS 11/04/1989 BOS @ CHI W 35 15 6 14 42.9 0 1 0.0 3 3 100.0 1 1 2 2 1 3 1 3 -
+p871
+aVRobert Parish BOS 11/04/1989 BOS @ CHI W 28 18 7 10 70.0 0 0 - 4 9 44.4 5 4 9 0 1 1 2 0 -
+p872
+aVKevin Gamble BOS 11/04/1989 BOS @ CHI W 10 3 1 4 25.0 0 1 0.0 1 1 100.0 0 2 2 3 1 0 0 0 -
+p873
+aVDennis Johnson BOS 11/04/1989 BOS @ CHI W 16 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 3 -
+p874
+aVDennis Johnson BOS 11/03/1989 BOS vs. MIL W 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 4 0 0 2 3 -
+p875
+aVJohn Bagley BOS 11/03/1989 BOS vs. MIL W 31 13 6 8 75.0 0 1 0.0 1 2 50.0 0 0 0 16 0 0 4 3 -
+p876
+aVJim Paxson BOS 11/03/1989 BOS vs. MIL W 18 6 2 6 33.3 0 0 - 2 4 50.0 0 0 0 3 0 0 1 1 -
+p877
+aVRobert Parish BOS 11/03/1989 BOS vs. MIL W 29 9 3 5 60.0 0 0 - 3 6 50.0 1 2 3 4 1 1 2 2 -
+p878
+aVKevin McHale BOS 11/03/1989 BOS vs. MIL W 26 21 9 14 64.3 0 0 - 3 5 60.0 1 7 8 2 1 2 1 4 -
+p879
+aVLarry Bird BOS 11/03/1989 BOS vs. MIL W 33 32 10 17 58.8 1 2 50.0 11 12 91.7 0 8 8 4 1 0 4 3 -
+p880
+aVKelvin Upshaw BOS 11/03/1989 BOS vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p881
+aVEd Pinckney BOS 11/03/1989 BOS vs. MIL W 22 2 0 0 - 0 0 - 2 4 50.0 1 8 9 0 0 1 0 3 -
+p882
+aVKevin Gamble BOS 11/03/1989 BOS vs. MIL W 17 6 1 5 20.0 0 0 - 4 4 100.0 2 2 4 3 1 0 0 0 -
+p883
+aVJoe Kleine BOS 11/03/1989 BOS vs. MIL W 19 8 4 7 57.1 0 0 - 0 0 - 4 3 7 1 0 0 0 3 -
+p884
+aVReggie Lewis BOS 11/03/1989 BOS vs. MIL W 28 26 12 16 75.0 0 0 - 2 2 100.0 2 1 3 0 1 1 2 5 -
+p885
+a.

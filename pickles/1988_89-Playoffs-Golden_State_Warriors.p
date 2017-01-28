@@ -1,0 +1,156 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLarry Smith GOS 05/16/1989 GOS @ PHX L 20 2 1 4 25.0 0 0 - 0 0 - 5 4 9 2 0 2 2 0 -
+p2
+aVRalph Sampson GOS 05/16/1989 GOS @ PHX L 21 10 4 10 40.0 0 1 0.0 2 4 50.0 4 4 8 1 0 2 0 4 -
+p3
+aVManute Bol GOS 05/16/1989 GOS @ PHX L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 0 0 3 0 1 -
+p4
+aVSteve Alford GOS 05/16/1989 GOS @ PHX L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -
+p5
+aVTerry Teagle GOS 05/16/1989 GOS @ PHX L 26 15 6 12 50.0 0 0 - 3 4 75.0 2 4 6 3 1 1 1 3 -
+p6
+aVWinston Garland GOS 05/16/1989 GOS @ PHX L 37 17 6 15 40.0 0 0 - 5 6 83.3 3 4 7 2 1 0 2 2 -
+p7
+aVMitch Richmond GOS 05/16/1989 GOS @ PHX L 38 23 10 21 47.6 1 2 50.0 2 2 100.0 2 0 2 4 2 0 2 5 -
+p8
+aVOtis Smith GOS 05/16/1989 GOS @ PHX L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p9
+aVRod Higgins GOS 05/16/1989 GOS @ PHX L 31 13 3 11 27.3 0 5 0.0 7 8 87.5 2 1 3 1 3 2 2 2 -
+p10
+aVChris Mullin GOS 05/16/1989 GOS @ PHX L 42 22 10 19 52.6 0 1 0.0 2 2 100.0 2 4 6 6 4 0 8 5 -
+p11
+aVBen McDonald GOS 05/13/1989 GOS vs. PHX L 4 1 0 1 0.0 0 1 0.0 1 2 50.0 3 0 3 0 0 0 1 0 -
+p12
+aVMitch Richmond GOS 05/13/1989 GOS vs. PHX L 41 11 4 16 25.0 0 2 0.0 3 4 75.0 3 3 6 3 4 0 4 4 -
+p13
+aVRod Higgins GOS 05/13/1989 GOS vs. PHX L 31 18 5 9 55.6 0 1 0.0 8 8 100.0 4 2 6 2 1 0 0 4 -
+p14
+aVOrlando Graham GOS 05/13/1989 GOS vs. PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p15
+aVSteve Alford GOS 05/13/1989 GOS vs. PHX L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -
+p16
+aVManute Bol GOS 05/13/1989 GOS vs. PHX L 16 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 0 0 1 0 2 -
+p17
+aVRalph Sampson GOS 05/13/1989 GOS vs. PHX L 12 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 0 0 0 3 2 -
+p18
+aVOtis Smith GOS 05/13/1989 GOS vs. PHX L 9 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 1 1 0 0 -
+p19
+aVTerry Teagle GOS 05/13/1989 GOS vs. PHX L 27 23 10 17 58.8 0 0 - 3 3 100.0 2 4 6 0 2 1 1 4 -
+p20
+aVChris Mullin GOS 05/13/1989 GOS vs. PHX L 43 28 6 20 30.0 0 1 0.0 16 19 84.2 2 5 7 2 2 5 5 1 -
+p21
+aVWinston Garland GOS 05/13/1989 GOS vs. PHX L 33 10 4 14 28.6 0 0 - 2 2 100.0 1 4 5 4 4 0 3 4 -
+p22
+aVLarry Smith GOS 05/13/1989 GOS vs. PHX L 7 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 1 -
+p23
+aVTerry Teagle GOS 05/11/1989 GOS vs. PHX L 32 15 6 19 31.6 0 0 - 3 5 60.0 0 3 3 1 0 0 3 2 -
+p24
+aVLarry Smith GOS 05/11/1989 GOS vs. PHX L 14 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p25
+aVOtis Smith GOS 05/11/1989 GOS vs. PHX L 20 12 6 9 66.7 0 0 - 0 0 - 3 5 8 2 0 0 1 3 -
+p26
+aVChris Mullin GOS 05/11/1989 GOS vs. PHX L 46 32 14 21 66.7 0 1 0.0 4 5 80.0 0 4 4 6 0 1 3 2 -
+p27
+aVSteve Alford GOS 05/11/1989 GOS vs. PHX L 9 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 2 0 0 0 2 -
+p28
+aVWinston Garland GOS 05/11/1989 GOS vs. PHX L 25 11 4 10 40.0 1 3 33.3 2 2 100.0 1 2 3 1 1 0 3 6 -
+p29
+aVRod Higgins GOS 05/11/1989 GOS vs. PHX L 34 13 5 12 41.7 1 4 25.0 2 3 66.7 2 7 9 3 0 1 0 4 -
+p30
+aVManute Bol GOS 05/11/1989 GOS vs. PHX L 22 3 1 6 16.7 0 3 0.0 1 2 50.0 1 8 9 0 0 3 0 4 -
+p31
+aVMitch Richmond GOS 05/11/1989 GOS vs. PHX L 38 13 6 18 33.3 0 2 0.0 1 2 50.0 1 7 8 2 3 0 3 1 -
+p32
+aVTerry Teagle GOS 05/09/1989 GOS @ PHX W 36 29 14 24 58.3 0 1 0.0 1 1 100.0 2 2 4 2 0 0 1 5 -
+p33
+aVManute Bol GOS 05/09/1989 GOS @ PHX W 17 2 1 3 33.3 0 1 0.0 0 1 0.0 0 0 0 0 0 2 0 0 -
+p34
+aVRod Higgins GOS 05/09/1989 GOS @ PHX W 42 21 7 12 58.3 3 6 50.0 4 4 100.0 3 5 8 4 3 1 2 2 -
+p35
+aVLarry Smith GOS 05/09/1989 GOS @ PHX W 26 0 0 1 0.0 0 0 - 0 0 - 2 2 4 2 1 0 2 5 -
+p36
+aVSteve Alford GOS 05/09/1989 GOS @ PHX W 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 -
+p37
+aVMitch Richmond GOS 05/09/1989 GOS @ PHX W 36 25 8 16 50.0 1 5 20.0 8 8 100.0 2 11 13 4 0 0 1 4 -
+p38
+aVChris Mullin GOS 05/09/1989 GOS @ PHX W 48 37 14 24 58.3 0 2 0.0 9 11 81.8 3 6 9 5 0 2 3 3 -
+p39
+aVWinston Garland GOS 05/09/1989 GOS @ PHX W 33 11 5 11 45.5 0 0 - 1 1 100.0 1 1 2 3 2 2 1 5 -
+p40
+aVTerry Teagle GOS 05/06/1989 GOS @ PHX L 30 18 8 16 50.0 0 1 0.0 2 2 100.0 1 3 4 2 0 0 0 2 -
+p41
+aVMitch Richmond GOS 05/06/1989 GOS @ PHX L 32 12 5 14 35.7 0 1 0.0 2 2 100.0 1 3 4 3 1 1 3 1 -
+p42
+aVBen McDonald GOS 05/06/1989 GOS @ PHX L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 2 2 -
+p43
+aVOrlando Graham GOS 05/06/1989 GOS @ PHX L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -
+p44
+aVRalph Sampson GOS 05/06/1989 GOS @ PHX L 10 6 3 7 42.9 0 2 0.0 0 0 - 1 1 2 0 1 0 1 2 -
+p45
+aVOtis Smith GOS 05/06/1989 GOS @ PHX L 17 5 2 9 22.2 0 0 - 1 2 50.0 3 2 5 2 0 0 1 2 -
+p46
+aVWinston Garland GOS 05/06/1989 GOS @ PHX L 26 16 6 10 60.0 0 0 - 4 4 100.0 1 3 4 6 1 0 3 3 -
+p47
+aVLarry Smith GOS 05/06/1989 GOS @ PHX L 19 2 1 2 50.0 0 0 - 0 0 - 4 4 8 1 2 1 0 4 -
+p48
+aVManute Bol GOS 05/06/1989 GOS @ PHX L 13 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 2 1 3 -
+p49
+aVSteve Alford GOS 05/06/1989 GOS @ PHX L 19 12 4 9 44.4 3 5 60.0 1 2 50.0 1 1 2 1 1 0 0 3 -
+p50
+aVRod Higgins GOS 05/06/1989 GOS @ PHX L 22 11 5 8 62.5 0 2 0.0 1 2 50.0 0 3 3 0 0 0 0 4 -
+p51
+aVChris Mullin GOS 05/06/1989 GOS @ PHX L 31 18 8 13 61.5 0 1 0.0 2 2 100.0 2 4 6 2 2 0 7 2 -
+p52
+aVBen McDonald GOS 05/02/1989 GOS vs. UTH W 5 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 -
+p53
+aVTerry Teagle GOS 05/02/1989 GOS vs. UTH W 28 24 10 19 52.6 0 0 - 4 5 80.0 2 2 4 1 2 0 0 4 -
+p54
+aVWinston Garland GOS 05/02/1989 GOS vs. UTH W 37 11 4 12 33.3 0 0 - 3 4 75.0 1 2 3 2 0 0 1 4 -
+p55
+aVManute Bol GOS 05/02/1989 GOS vs. UTH W 24 4 1 5 20.0 1 5 20.0 1 2 50.0 0 3 3 0 0 5 2 3 -
+p56
+aVChris Mullin GOS 05/02/1989 GOS vs. UTH W 45 35 13 24 54.2 0 0 - 9 12 75.0 0 5 5 4 2 1 4 0 -
+p57
+aVMitch Richmond GOS 05/02/1989 GOS vs. UTH W 41 26 9 10 90.0 0 0 - 8 8 100.0 1 10 11 8 2 0 2 3 -
+p58
+aVLarry Smith GOS 05/02/1989 GOS vs. UTH W 18 0 0 1 0.0 0 0 - 0 0 - 1 1 2 3 0 3 0 3 -
+p59
+aVRod Higgins GOS 05/02/1989 GOS vs. UTH W 42 17 6 12 50.0 2 6 33.3 3 5 60.0 3 11 14 4 4 1 2 1 -
+p60
+aVRod Higgins GOS 04/29/1989 GOS @ UTH W 37 17 6 11 54.5 3 7 42.9 2 2 100.0 3 4 7 0 2 1 1 1 -
+p61
+aVChris Mullin GOS 04/29/1989 GOS @ UTH W 41 22 7 12 58.3 0 0 - 8 8 100.0 1 6 7 7 2 1 1 4 -
+p62
+aVTerry Teagle GOS 04/29/1989 GOS @ UTH W 30 20 9 18 50.0 0 0 - 2 2 100.0 4 1 5 0 1 1 5 3 -
+p63
+aVMitch Richmond GOS 04/29/1989 GOS @ UTH W 43 21 7 19 36.8 0 2 0.0 7 9 77.8 0 7 7 6 1 0 3 3 -
+p64
+aVWinston Garland GOS 04/29/1989 GOS @ UTH W 40 13 6 11 54.5 0 0 - 1 2 50.0 4 2 6 3 0 0 1 4 -
+p65
+aVBen McDonald GOS 04/29/1989 GOS @ UTH W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 0 0 2 -
+p66
+aVLarry Smith GOS 04/29/1989 GOS @ UTH W 19 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 1 1 5 -
+p67
+aVManute Bol GOS 04/29/1989 GOS @ UTH W 20 4 2 7 28.6 0 5 0.0 0 2 0.0 0 5 5 0 1 6 0 3 -
+p68
+aVBen McDonald GOS 04/27/1989 GOS @ UTH W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 4 -
+p69
+aVSteve Alford GOS 04/27/1989 GOS @ UTH W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p70
+aVTerry Teagle GOS 04/27/1989 GOS @ UTH W 31 14 7 16 43.8 0 0 - 0 0 - 2 3 5 1 2 0 2 4 -
+p71
+aVManute Bol GOS 04/27/1989 GOS @ UTH W 18 5 2 6 33.3 1 2 50.0 0 0 - 3 4 7 1 1 7 0 5 -
+p72
+aVChris Mullin GOS 04/27/1989 GOS @ UTH W 45 41 16 30 53.3 1 2 50.0 8 8 100.0 1 2 3 4 2 1 1 2 -
+p73
+aVWinston Garland GOS 04/27/1989 GOS @ UTH W 39 18 6 15 40.0 0 0 - 6 7 85.7 2 1 3 8 4 0 1 3 -
+p74
+aVLarry Smith GOS 04/27/1989 GOS @ UTH W 25 4 2 5 40.0 0 0 - 0 0 - 4 7 11 6 1 4 1 5 -
+p75
+aVRod Higgins GOS 04/27/1989 GOS @ UTH W 28 9 3 7 42.9 1 4 25.0 2 2 100.0 6 3 9 6 0 1 4 1 -
+p76
+aVMitch Richmond GOS 04/27/1989 GOS @ UTH W 45 30 13 21 61.9 1 2 50.0 3 3 100.0 0 7 7 5 1 0 6 4 -
+p77
+a.

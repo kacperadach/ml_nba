@@ -1,0 +1,1660 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTerrell Brandon CLE 04/19/1992 CLE vs. ATL W 17 4 2 7 28.6 0 0 - 0 0 - 0 0 0 4 0 0 0 0 -
+p2
+aVJohn Battle CLE 04/19/1992 CLE vs. ATL W 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 2 3 -
+p3
+aVLarry Nance CLE 04/19/1992 CLE vs. ATL W 40 20 8 13 61.5 0 0 - 4 5 80.0 5 7 12 2 2 1 1 5 -
+p4
+aVSteve Kerr CLE 04/19/1992 CLE vs. ATL W 25 13 5 9 55.6 1 4 25.0 2 2 100.0 0 2 2 4 3 1 0 0 -
+p5
+aVMark Price CLE 04/19/1992 CLE vs. ATL W 35 22 7 16 43.8 2 6 33.3 6 6 100.0 1 1 2 6 1 0 4 1 -
+p6
+aVBrad Daugherty CLE 04/19/1992 CLE vs. ATL W 33 10 3 8 37.5 0 0 - 4 8 50.0 2 5 7 5 1 1 2 0 -
+p7
+aVHot Rod Williams CLE 04/19/1992 CLE vs. ATL W 31 16 6 8 75.0 0 0 - 4 7 57.1 0 5 5 4 1 2 0 4 -
+p8
+aVMike Sanders CLE 04/19/1992 CLE vs. ATL W 13 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 4 -
+p9
+aVDanny Ferry CLE 04/19/1992 CLE vs. ATL W 12 5 2 5 40.0 0 1 0.0 1 1 100.0 0 2 2 0 2 2 2 0 -
+p10
+aVCraig Ehlo CLE 04/19/1992 CLE vs. ATL W 23 13 6 10 60.0 1 1 100.0 0 0 - 2 6 8 3 0 0 0 2 -
+p11
+aVSteve Kerr CLE 04/17/1992 CLE @ IND W 36 24 9 16 56.3 3 4 75.0 3 4 75.0 0 2 2 3 1 0 1 1 -
+p12
+aVTerrell Brandon CLE 04/17/1992 CLE @ IND W 24 7 3 9 33.3 0 1 0.0 1 2 50.0 2 1 3 5 1 0 5 3 -
+p13
+aVHot Rod Williams CLE 04/17/1992 CLE @ IND W 41 30 11 17 64.7 0 0 - 8 10 80.0 4 12 16 3 1 3 2 0 -
+p14
+aVCraig Ehlo CLE 04/17/1992 CLE @ IND W 23 10 3 9 33.3 1 3 33.3 3 5 60.0 1 0 1 4 1 1 3 2 -
+p15
+aVLarry Nance CLE 04/17/1992 CLE @ IND W 38 13 5 15 33.3 0 0 - 3 3 100.0 6 6 12 4 2 3 0 6 -
+p16
+aVMike Sanders CLE 04/17/1992 CLE @ IND W 24 8 3 5 60.0 0 0 - 2 3 66.7 0 2 2 2 0 0 1 5 -
+p17
+aVJohn Battle CLE 04/17/1992 CLE @ IND W 14 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 4 0 0 0 2 -
+p18
+aVHenry James CLE 04/17/1992 CLE @ IND W 24 8 3 7 42.9 0 0 - 2 3 66.7 0 4 4 1 2 0 1 2 -
+p19
+aVDanny Ferry CLE 04/17/1992 CLE @ IND W 16 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 1 -
+p20
+aVLarry Nance CLE 04/15/1992 CLE @ CHH L 30 16 6 10 60.0 0 0 - 4 5 80.0 1 10 11 6 1 3 2 4 -
+p21
+aVBrad Daugherty CLE 04/15/1992 CLE @ CHH L 31 18 6 17 35.3 0 0 - 6 8 75.0 3 8 11 5 2 2 8 1 -
+p22
+aVCraig Ehlo CLE 04/15/1992 CLE @ CHH L 14 7 3 5 60.0 1 1 100.0 0 0 - 1 0 1 1 1 0 3 1 -
+p23
+aVJohn Battle CLE 04/15/1992 CLE @ CHH L 29 16 7 13 53.8 0 0 - 2 2 100.0 0 2 2 3 1 0 1 2 -
+p24
+aVTerrell Brandon CLE 04/15/1992 CLE @ CHH L 31 11 5 9 55.6 0 0 - 1 2 50.0 0 2 2 2 1 2 2 2 -
+p25
+aVSteve Kerr CLE 04/15/1992 CLE @ CHH L 22 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 4 1 0 0 2 -
+p26
+aVBobby Phills CLE 04/15/1992 CLE @ CHH L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -
+p27
+aVHot Rod Williams CLE 04/15/1992 CLE @ CHH L 34 17 8 13 61.5 0 0 - 1 2 50.0 4 2 6 2 1 4 0 4 -
+p28
+aVHenry James CLE 04/15/1992 CLE @ CHH L 27 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 -
+p29
+aVMike Sanders CLE 04/15/1992 CLE @ CHH L 18 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -
+p30
+aVBobby Phills CLE 04/14/1992 CLE vs. CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p31
+aVTerrell Brandon CLE 04/14/1992 CLE vs. CHI W 23 14 7 10 70.0 0 0 - 0 0 - 1 2 3 5 0 0 0 0 -
+p32
+aVMark Price CLE 04/14/1992 CLE vs. CHI W 30 9 4 10 40.0 0 2 0.0 1 1 100.0 0 3 3 5 0 0 2 2 -
+p33
+aVMike Sanders CLE 04/14/1992 CLE vs. CHI W 19 16 7 10 70.0 0 0 - 2 2 100.0 4 2 6 2 1 0 1 4 -
+p34
+aVLarry Nance CLE 04/14/1992 CLE vs. CHI W 26 14 7 16 43.8 0 0 - 0 0 - 1 6 7 2 1 1 0 3 -
+p35
+aVHenry James CLE 04/14/1992 CLE vs. CHI W 9 12 6 6 100.0 0 0 - 0 0 - 0 1 1 0 0 1 3 2 -
+p36
+aVHot Rod Williams CLE 04/14/1992 CLE vs. CHI W 32 15 5 10 50.0 0 0 - 5 6 83.3 2 5 7 3 0 3 2 1 -
+p37
+aVDanny Ferry CLE 04/14/1992 CLE vs. CHI W 23 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 1 -
+p38
+aVBrad Daugherty CLE 04/14/1992 CLE vs. CHI W 31 21 7 9 77.8 0 0 - 7 9 77.8 0 9 9 3 1 0 2 3 -
+p39
+aVJohn Battle CLE 04/14/1992 CLE vs. CHI W 19 4 2 7 28.6 0 0 - 0 0 - 0 2 2 3 1 0 0 0 -
+p40
+aVSteve Kerr CLE 04/14/1992 CLE vs. CHI W 24 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 7 0 0 0 0 -
+p41
+aVSteve Kerr CLE 04/12/1992 CLE vs. WAS W 32 19 9 14 64.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -
+p42
+aVTerrell Brandon CLE 04/12/1992 CLE vs. WAS W 23 11 5 7 71.4 0 0 - 1 1 100.0 0 4 4 9 0 1 0 3 -
+p43
+aVJohn Battle CLE 04/12/1992 CLE vs. WAS W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p44
+aVHenry James CLE 04/12/1992 CLE vs. WAS W 10 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -
+p45
+aVJimmy Oliver CLE 04/12/1992 CLE vs. WAS W 5 5 2 5 40.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 0 -
+p46
+aVBrad Daugherty CLE 04/12/1992 CLE vs. WAS W 35 20 6 10 60.0 0 0 - 8 8 100.0 4 10 14 5 2 2 4 2 -
+p47
+aVDanny Ferry CLE 04/12/1992 CLE vs. WAS W 20 4 1 10 10.0 0 1 0.0 2 2 100.0 2 4 6 1 0 1 1 4 -
+p48
+aVLarry Nance CLE 04/12/1992 CLE vs. WAS W 25 9 3 6 50.0 0 0 - 3 4 75.0 1 6 7 2 2 0 2 1 -
+p49
+aVBobby Phills CLE 04/12/1992 CLE vs. WAS W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 2 1 -
+p50
+aVHot Rod Williams CLE 04/12/1992 CLE vs. WAS W 25 8 4 6 66.7 0 0 - 0 0 - 4 7 11 5 0 4 1 2 -
+p51
+aVMark Price CLE 04/12/1992 CLE vs. WAS W 25 18 7 11 63.6 2 4 50.0 2 2 100.0 0 3 3 5 0 1 2 1 -
+p52
+aVMike Sanders CLE 04/12/1992 CLE vs. WAS W 24 15 6 8 75.0 0 0 - 3 5 60.0 1 2 3 6 0 1 0 1 -
+p53
+aVHenry James CLE 04/10/1992 CLE @ NJN L 15 7 2 7 28.6 0 0 - 3 4 75.0 1 0 1 0 0 0 1 4 -
+p54
+aVJohn Battle CLE 04/10/1992 CLE @ NJN L 6 2 0 4 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p55
+aVMike Sanders CLE 04/10/1992 CLE @ NJN L 24 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 2 0 0 2 -
+p56
+aVMark Price CLE 04/10/1992 CLE @ NJN L 26 12 4 9 44.4 2 6 33.3 2 2 100.0 0 1 1 2 1 0 1 0 -
+p57
+aVHot Rod Williams CLE 04/10/1992 CLE @ NJN L 36 22 6 12 50.0 0 0 - 10 13 76.9 6 5 11 1 1 5 1 1 -
+p58
+aVDanny Ferry CLE 04/10/1992 CLE @ NJN L 33 6 3 12 25.0 0 3 0.0 0 0 - 1 5 6 0 2 0 0 3 -
+p59
+aVLarry Nance CLE 04/10/1992 CLE @ NJN L 25 10 5 10 50.0 0 0 - 0 0 - 1 5 6 4 0 8 1 2 -
+p60
+aVTerrell Brandon CLE 04/10/1992 CLE @ NJN L 22 8 3 9 33.3 0 0 - 2 2 100.0 2 2 4 2 0 0 7 0 -
+p61
+aVBobby Phills CLE 04/10/1992 CLE @ NJN L 20 11 5 8 62.5 0 1 0.0 1 2 50.0 1 1 2 1 1 0 1 1 -
+p62
+aVSteve Kerr CLE 04/10/1992 CLE @ NJN L 17 0 0 5 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -
+p63
+aVJimmy Oliver CLE 04/10/1992 CLE @ NJN L 16 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 2 1 0 0 -
+p64
+aVSteve Kerr CLE 04/09/1992 CLE vs. CHH W 29 23 7 11 63.6 3 6 50.0 6 7 85.7 0 3 3 1 0 1 1 1 -
+p65
+aVJohn Battle CLE 04/09/1992 CLE vs. CHH W 24 12 4 12 33.3 0 0 - 4 5 80.0 1 0 1 4 0 0 1 1 -
+p66
+aVHenry James CLE 04/09/1992 CLE vs. CHH W 8 4 1 6 16.7 0 1 0.0 2 2 100.0 1 1 2 1 1 0 0 3 -
+p67
+aVLarry Nance CLE 04/09/1992 CLE vs. CHH W 41 26 12 16 75.0 0 0 - 2 2 100.0 2 8 10 14 1 2 1 0 -
+p68
+aVTerrell Brandon CLE 04/09/1992 CLE vs. CHH W 11 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 1 0 0 2 2 -
+p69
+aVBrad Daugherty CLE 04/09/1992 CLE vs. CHH W 25 12 5 8 62.5 0 0 - 2 3 66.7 1 4 5 3 3 1 1 5 -
+p70
+aVHot Rod Williams CLE 04/09/1992 CLE vs. CHH W 28 15 7 8 87.5 0 0 - 1 1 100.0 3 3 6 3 1 0 3 5 -
+p71
+aVMark Price CLE 04/09/1992 CLE vs. CHH W 32 18 6 10 60.0 2 2 100.0 4 4 100.0 0 4 4 10 1 0 5 2 -
+p72
+aVDanny Ferry CLE 04/09/1992 CLE vs. CHH W 12 5 2 4 50.0 1 1 100.0 0 1 0.0 1 1 2 4 0 1 0 3 -
+p73
+aVMike Sanders CLE 04/09/1992 CLE vs. CHH W 30 23 10 13 76.9 0 0 - 3 3 100.0 2 2 4 1 2 0 0 4 -
+p74
+aVMike Sanders CLE 04/07/1992 CLE vs. BOS L 24 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 1 2 -
+p75
+aVTerrell Brandon CLE 04/07/1992 CLE vs. BOS L 3 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p76
+aVMark Price CLE 04/07/1992 CLE vs. BOS L 41 22 9 18 50.0 1 5 20.0 3 3 100.0 1 0 1 8 2 0 2 2 -
+p77
+aVSteve Kerr CLE 04/07/1992 CLE vs. BOS L 34 12 5 10 50.0 0 2 0.0 2 2 100.0 2 3 5 7 1 1 2 1 -
+p78
+aVBrad Daugherty CLE 04/07/1992 CLE vs. BOS L 43 27 11 21 52.4 0 0 - 5 7 71.4 1 10 11 2 0 0 0 0 -
+p79
+aVHot Rod Williams CLE 04/07/1992 CLE vs. BOS L 36 14 6 10 60.0 0 0 - 2 3 66.7 3 5 8 3 0 3 1 0 -
+p80
+aVJohn Battle CLE 04/07/1992 CLE vs. BOS L 19 5 2 7 28.6 0 0 - 1 1 100.0 0 0 0 2 0 0 0 3 -
+p81
+aVLarry Nance CLE 04/07/1992 CLE vs. BOS L 40 13 4 13 30.8 0 0 - 5 5 100.0 3 4 7 3 0 3 1 2 -
+p82
+aVJohn Battle CLE 04/05/1992 CLE vs. NYK W 16 11 3 4 75.0 0 0 - 5 6 83.3 0 1 1 2 0 1 1 3 -
+p83
+aVHot Rod Williams CLE 04/05/1992 CLE vs. NYK W 34 10 4 7 57.1 0 0 - 2 2 100.0 3 6 9 5 0 2 1 4 -
+p84
+aVBrad Daugherty CLE 04/05/1992 CLE vs. NYK W 38 22 6 12 50.0 0 0 - 10 12 83.3 0 7 7 4 1 0 3 3 -
+p85
+aVMike Sanders CLE 04/05/1992 CLE vs. NYK W 31 8 4 7 57.1 0 0 - 0 0 - 1 6 7 1 0 3 1 4 -
+p86
+aVLarry Nance CLE 04/05/1992 CLE vs. NYK W 41 11 5 12 41.7 0 0 - 1 4 25.0 1 3 4 2 1 3 0 3 -
+p87
+aVTerrell Brandon CLE 04/05/1992 CLE vs. NYK W 15 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 2 -
+p88
+aVMark Price CLE 04/05/1992 CLE vs. NYK W 33 20 8 15 53.3 2 5 40.0 2 4 50.0 0 4 4 6 1 0 5 1 -
+p89
+aVSteve Kerr CLE 04/05/1992 CLE vs. NYK W 32 15 5 6 83.3 4 4 100.0 1 2 50.0 0 5 5 3 2 1 0 0 -
+p90
+aVLarry Nance CLE 04/03/1992 CLE @ MIA W 37 14 5 14 35.7 0 0 - 4 6 66.7 4 6 10 4 3 3 1 3 -
+p91
+aVHot Rod Williams CLE 04/03/1992 CLE @ MIA W 29 12 6 9 66.7 0 0 - 0 0 - 1 1 2 1 0 1 0 3 -
+p92
+aVSteve Kerr CLE 04/03/1992 CLE @ MIA W 24 13 5 7 71.4 3 4 75.0 0 0 - 1 0 1 2 0 0 1 0 -
+p93
+aVMike Sanders CLE 04/03/1992 CLE @ MIA W 30 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 0 0 1 5 -
+p94
+aVTerrell Brandon CLE 04/03/1992 CLE @ MIA W 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p95
+aVBrad Daugherty CLE 04/03/1992 CLE @ MIA W 37 20 9 16 56.3 0 0 - 2 2 100.0 1 14 15 1 0 1 4 3 -
+p96
+aVJohn Battle CLE 04/03/1992 CLE @ MIA W 24 14 6 13 46.2 0 0 - 2 2 100.0 0 4 4 3 1 0 0 2 -
+p97
+aVMark Price CLE 04/03/1992 CLE @ MIA W 40 21 8 17 47.1 2 7 28.6 3 4 75.0 1 2 3 11 1 0 3 3 -
+p98
+aVDanny Ferry CLE 04/03/1992 CLE @ MIA W 11 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 0 1 0 0 1 -
+p99
+aVBobby Phills CLE 04/02/1992 CLE vs. LAC W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p100
+aVLarry Nance CLE 04/02/1992 CLE vs. LAC W 30 19 9 13 69.2 0 0 - 1 1 100.0 1 7 8 2 0 4 0 0 -
+p101
+aVMark Price CLE 04/02/1992 CLE vs. LAC W 25 18 5 10 50.0 4 5 80.0 4 6 66.7 0 2 2 6 2 0 3 0 -
+p102
+aVTerrell Brandon CLE 04/02/1992 CLE vs. LAC W 21 10 5 8 62.5 0 0 - 0 0 - 0 2 2 4 1 0 2 2 -
+p103
+aVHenry James CLE 04/02/1992 CLE vs. LAC W 6 2 0 5 0.0 0 2 0.0 2 2 100.0 1 0 1 0 1 1 1 0 -
+p104
+aVJohn Battle CLE 04/02/1992 CLE vs. LAC W 22 16 6 8 75.0 0 0 - 4 6 66.7 0 1 1 2 0 0 2 2 -
+p105
+aVSteve Kerr CLE 04/02/1992 CLE vs. LAC W 24 10 4 4 100.0 2 2 100.0 0 0 - 1 0 1 2 3 0 2 2 -
+p106
+aVHot Rod Williams CLE 04/02/1992 CLE vs. LAC W 30 9 3 8 37.5 0 0 - 3 3 100.0 6 6 12 4 0 3 1 3 -
+p107
+aVMike Sanders CLE 04/02/1992 CLE vs. LAC W 35 8 3 5 60.0 0 0 - 2 2 100.0 2 3 5 4 0 1 0 5 -
+p108
+aVBrad Daugherty CLE 04/02/1992 CLE vs. LAC W 32 18 7 13 53.8 0 0 - 4 4 100.0 1 3 4 7 1 1 3 4 -
+p109
+aVDanny Ferry CLE 04/02/1992 CLE vs. LAC W 9 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 4 -
+p110
+aVJohn Battle CLE 03/31/1992 CLE vs. MIA W 26 15 6 13 46.2 0 0 - 3 3 100.0 0 0 0 5 1 0 1 1 -
+p111
+aVHenry James CLE 03/31/1992 CLE vs. MIA W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p112
+aVMike Sanders CLE 03/31/1992 CLE vs. MIA W 31 9 4 10 40.0 0 2 0.0 1 2 50.0 1 0 1 2 2 0 2 4 -
+p113
+aVMark Price CLE 03/31/1992 CLE vs. MIA W 32 21 6 8 75.0 4 6 66.7 5 5 100.0 0 5 5 12 1 2 2 2 -
+p114
+aVBrad Daugherty CLE 03/31/1992 CLE vs. MIA W 39 23 9 11 81.8 0 0 - 5 6 83.3 3 11 14 2 1 1 4 2 -
+p115
+aVSteve Kerr CLE 03/31/1992 CLE vs. MIA W 20 6 3 4 75.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 -
+p116
+aVBobby Phills CLE 03/31/1992 CLE vs. MIA W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p117
+aVLarry Nance CLE 03/31/1992 CLE vs. MIA W 30 20 8 14 57.1 0 0 - 4 5 80.0 2 7 9 2 0 4 0 3 -
+p118
+aVHot Rod Williams CLE 03/31/1992 CLE vs. MIA W 25 11 4 6 66.7 0 0 - 3 4 75.0 3 3 6 2 0 1 1 2 -
+p119
+aVJimmy Oliver CLE 03/31/1992 CLE vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p120
+aVDanny Ferry CLE 03/31/1992 CLE vs. MIA W 11 6 2 3 66.7 0 1 0.0 2 2 100.0 0 3 3 1 0 1 1 3 -
+p121
+aVTerrell Brandon CLE 03/31/1992 CLE vs. MIA W 15 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 6 1 0 6 2 -
+p122
+aVSteve Kerr CLE 03/28/1992 CLE @ CHI L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 0 -
+p123
+aVTerrell Brandon CLE 03/28/1992 CLE @ CHI L 21 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 4 1 0 0 0 -
+p124
+aVBobby Phills CLE 03/28/1992 CLE @ CHI L 7 4 2 3 66.7 0 0 - 0 1 0.0 0 0 0 1 2 0 0 0 -
+p125
+aVHot Rod Williams CLE 03/28/1992 CLE @ CHI L 28 13 3 8 37.5 0 0 - 7 9 77.8 4 2 6 5 1 0 0 1 -
+p126
+aVBrad Daugherty CLE 03/28/1992 CLE @ CHI L 32 20 8 13 61.5 0 0 - 4 5 80.0 2 5 7 1 0 1 2 2 -
+p127
+aVLarry Nance CLE 03/28/1992 CLE @ CHI L 31 16 5 8 62.5 0 0 - 6 8 75.0 0 5 5 1 0 0 2 2 -
+p128
+aVMike Sanders CLE 03/28/1992 CLE @ CHI L 32 19 6 7 85.7 1 1 100.0 6 6 100.0 3 5 8 2 0 0 2 3 -
+p129
+aVJohn Battle CLE 03/28/1992 CLE @ CHI L 25 6 3 10 30.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -
+p130
+aVDanny Ferry CLE 03/28/1992 CLE @ CHI L 10 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -
+p131
+aVJimmy Oliver CLE 03/28/1992 CLE @ CHI L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p132
+aVMark Price CLE 03/28/1992 CLE @ CHI L 28 7 3 10 30.0 1 3 33.3 0 1 0.0 1 1 2 5 1 0 4 3 -
+p133
+aVHenry James CLE 03/28/1992 CLE @ CHI L 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p134
+aVBrad Daugherty CLE 03/27/1992 CLE @ CHH W 36 24 8 16 50.0 0 0 - 8 9 88.9 0 9 9 3 3 0 2 1 -
+p135
+aVLarry Nance CLE 03/27/1992 CLE @ CHH W 41 21 10 12 83.3 0 1 0.0 1 4 25.0 5 8 13 5 0 3 1 3 -
+p136
+aVMike Sanders CLE 03/27/1992 CLE @ CHH W 29 10 3 5 60.0 0 0 - 4 6 66.7 1 2 3 0 2 0 1 3 -
+p137
+aVMark Price CLE 03/27/1992 CLE @ CHH W 34 18 6 16 37.5 2 6 33.3 4 4 100.0 0 0 0 8 1 0 4 0 -
+p138
+aVSteve Kerr CLE 03/27/1992 CLE @ CHH W 33 14 6 9 66.7 2 2 100.0 0 0 - 1 2 3 4 0 0 3 0 -
+p139
+aVJohn Battle CLE 03/27/1992 CLE @ CHH W 19 16 7 12 58.3 0 1 0.0 2 3 66.7 0 2 2 3 0 0 1 2 -
+p140
+aVTerrell Brandon CLE 03/27/1992 CLE @ CHH W 14 6 3 4 75.0 0 0 - 0 0 - 0 0 0 5 0 0 2 1 -
+p141
+aVHot Rod Williams CLE 03/27/1992 CLE @ CHH W 34 12 4 9 44.4 0 0 - 4 4 100.0 4 2 6 5 1 2 2 2 -
+p142
+aVLarry Nance CLE 03/25/1992 CLE @ ORL W 39 22 9 19 47.4 0 0 - 4 4 100.0 2 5 7 2 1 1 1 2 -
+p143
+aVSteve Kerr CLE 03/25/1992 CLE @ ORL W 28 9 3 4 75.0 1 1 100.0 2 2 100.0 0 5 5 5 2 0 0 2 -
+p144
+aVTerrell Brandon CLE 03/25/1992 CLE @ ORL W 16 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 2 3 2 -
+p145
+aVMark Price CLE 03/25/1992 CLE @ ORL W 34 30 12 17 70.6 0 3 0.0 6 6 100.0 0 2 2 4 0 0 1 1 -
+p146
+aVJohn Battle CLE 03/25/1992 CLE @ ORL W 18 3 0 7 0.0 0 0 - 3 4 75.0 0 2 2 0 0 0 2 1 -
+p147
+aVBobby Phills CLE 03/25/1992 CLE @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p148
+aVHot Rod Williams CLE 03/25/1992 CLE @ ORL W 22 5 0 3 0.0 0 0 - 5 6 83.3 2 3 5 1 0 3 1 2 -
+p149
+aVDanny Ferry CLE 03/25/1992 CLE @ ORL W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -
+p150
+aVBrad Daugherty CLE 03/25/1992 CLE @ ORL W 40 18 7 14 50.0 0 0 - 4 7 57.1 3 7 10 6 1 3 6 5 -
+p151
+aVMike Sanders CLE 03/25/1992 CLE @ ORL W 37 13 6 9 66.7 0 0 - 1 3 33.3 1 7 8 4 4 1 1 4 -
+p152
+aVHenry James CLE 03/24/1992 CLE vs. IND W 27 10 2 9 22.2 0 3 0.0 6 8 75.0 1 2 3 3 0 0 0 2 -
+p153
+aVLarry Nance CLE 03/24/1992 CLE vs. IND W 30 14 5 13 38.5 0 0 - 4 4 100.0 2 6 8 5 1 2 4 4 -
+p154
+aVTerrell Brandon CLE 03/24/1992 CLE vs. IND W 19 4 1 4 25.0 0 0 - 2 2 100.0 2 3 5 6 2 2 1 2 -
+p155
+aVMike Sanders CLE 03/24/1992 CLE vs. IND W 28 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 3 0 1 0 4 -
+p156
+aVSteve Kerr CLE 03/24/1992 CLE vs. IND W 18 13 5 6 83.3 3 4 75.0 0 0 - 0 2 2 2 2 0 0 1 -
+p157
+aVJimmy Oliver CLE 03/24/1992 CLE vs. IND W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p158
+aVBobby Phills CLE 03/24/1992 CLE vs. IND W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p159
+aVBrad Daugherty CLE 03/24/1992 CLE vs. IND W 35 32 14 17 82.4 0 0 - 4 4 100.0 3 8 11 11 2 1 3 3 -
+p160
+aVDanny Ferry CLE 03/24/1992 CLE vs. IND W 22 4 2 7 28.6 0 0 - 0 0 - 1 2 3 2 0 0 1 4 -
+p161
+aVJohn Battle CLE 03/24/1992 CLE vs. IND W 22 12 5 7 71.4 0 0 - 2 3 66.7 0 1 1 1 1 0 1 1 -
+p162
+aVMark Price CLE 03/24/1992 CLE vs. IND W 33 25 10 14 71.4 3 5 60.0 2 2 100.0 0 3 3 8 1 1 2 2 -
+p163
+aVDanny Ferry CLE 03/22/1992 CLE vs. ATL W 23 8 4 10 40.0 0 1 0.0 0 0 - 5 11 16 3 1 0 1 2 -
+p164
+aVHot Rod Williams CLE 03/22/1992 CLE vs. ATL W 19 0 0 4 0.0 0 0 - 0 0 - 2 3 5 2 1 1 1 3 -
+p165
+aVBobby Phills CLE 03/22/1992 CLE vs. ATL W 9 7 2 9 22.2 0 1 0.0 3 4 75.0 2 2 4 1 0 0 1 0 -
+p166
+aVBrad Daugherty CLE 03/22/1992 CLE vs. ATL W 30 22 8 19 42.1 0 0 - 6 6 100.0 3 4 7 0 1 0 3 2 -
+p167
+aVJimmy Oliver CLE 03/22/1992 CLE vs. ATL W 8 8 2 4 50.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 1 -
+p168
+aVSteve Kerr CLE 03/22/1992 CLE vs. ATL W 18 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -
+p169
+aVMike Sanders CLE 03/22/1992 CLE vs. ATL W 22 2 1 5 20.0 0 0 - 0 0 - 1 4 5 2 2 0 0 3 -
+p170
+aVJohn Battle CLE 03/22/1992 CLE vs. ATL W 21 21 9 13 69.2 0 1 0.0 3 3 100.0 0 0 0 4 0 0 0 1 -
+p171
+aVMark Price CLE 03/22/1992 CLE vs. ATL W 22 18 7 10 70.0 3 3 100.0 1 1 100.0 1 0 1 6 0 0 0 1 -
+p172
+aVHenry James CLE 03/22/1992 CLE vs. ATL W 10 2 1 5 20.0 0 2 0.0 0 2 0.0 2 3 5 0 0 0 2 1 -
+p173
+aVTerrell Brandon CLE 03/22/1992 CLE vs. ATL W 26 11 5 7 71.4 0 0 - 1 1 100.0 1 2 3 13 1 0 0 5 -
+p174
+aVLarry Nance CLE 03/22/1992 CLE vs. ATL W 32 20 8 12 66.7 0 1 0.0 4 4 100.0 1 9 10 3 1 2 0 1 -
+p175
+aVBrad Daugherty CLE 03/20/1992 CLE vs. GOS W 34 28 10 16 62.5 0 0 - 8 8 100.0 2 8 10 4 2 2 2 1 -
+p176
+aVHenry James CLE 03/20/1992 CLE vs. GOS W 7 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -
+p177
+aVMike Sanders CLE 03/20/1992 CLE vs. GOS W 24 4 2 6 33.3 0 0 - 0 0 - 4 3 7 2 0 0 2 6 -
+p178
+aVHot Rod Williams CLE 03/20/1992 CLE vs. GOS W 31 23 6 9 66.7 0 0 - 11 13 84.6 5 2 7 2 1 3 1 5 -
+p179
+aVDanny Ferry CLE 03/20/1992 CLE vs. GOS W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 2 -
+p180
+aVSteve Kerr CLE 03/20/1992 CLE vs. GOS W 21 7 1 9 11.1 0 1 0.0 5 6 83.3 0 4 4 2 2 0 0 1 -
+p181
+aVTerrell Brandon CLE 03/20/1992 CLE vs. GOS W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -
+p182
+aVMark Price CLE 03/20/1992 CLE vs. GOS W 35 19 7 15 46.7 3 6 50.0 2 2 100.0 1 3 4 6 3 0 3 1 -
+p183
+aVLarry Nance CLE 03/20/1992 CLE vs. GOS W 38 26 7 11 63.6 0 0 - 12 14 85.7 5 5 10 5 2 2 0 3 -
+p184
+aVJohn Battle CLE 03/20/1992 CLE vs. GOS W 32 11 4 12 33.3 0 1 0.0 3 4 75.0 1 3 4 4 0 0 2 1 -
+p185
+aVJimmy Oliver CLE 03/20/1992 CLE vs. GOS W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p186
+aVJohn Battle CLE 03/18/1992 CLE @ BOS L 30 18 6 14 42.9 0 2 0.0 6 6 100.0 0 1 1 1 0 2 3 2 -
+p187
+aVMark Price CLE 03/18/1992 CLE @ BOS L 32 15 6 18 33.3 1 5 20.0 2 2 100.0 1 1 2 6 1 0 0 3 -
+p188
+aVDanny Ferry CLE 03/18/1992 CLE @ BOS L 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -
+p189
+aVHot Rod Williams CLE 03/18/1992 CLE @ BOS L 39 13 4 9 44.4 0 0 - 5 6 83.3 3 6 9 3 3 3 1 2 -
+p190
+aVTerrell Brandon CLE 03/18/1992 CLE @ BOS L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 2 0 1 0 -
+p191
+aVSteve Kerr CLE 03/18/1992 CLE @ BOS L 20 6 3 7 42.9 0 0 - 0 0 - 1 1 2 5 0 0 0 1 -
+p192
+aVMike Sanders CLE 03/18/1992 CLE @ BOS L 31 10 3 5 60.0 0 0 - 4 5 80.0 1 4 5 2 0 0 0 5 -
+p193
+aVLarry Nance CLE 03/18/1992 CLE @ BOS L 43 24 7 13 53.8 0 0 - 10 12 83.3 2 7 9 4 1 1 2 3 -
+p194
+aVHenry James CLE 03/18/1992 CLE @ BOS L 15 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 0 0 0 1 1 -
+p195
+aVHot Rod Williams CLE 03/16/1992 CLE @ WAS W 40 25 10 16 62.5 0 0 - 5 6 83.3 3 8 11 3 1 2 0 2 -
+p196
+aVLarry Nance CLE 03/16/1992 CLE @ WAS W 32 12 6 8 75.0 0 0 - 0 0 - 3 5 8 2 0 3 0 0 -
+p197
+aVTerrell Brandon CLE 03/16/1992 CLE @ WAS W 19 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 1 1 1 1 -
+p198
+aVJohn Battle CLE 03/16/1992 CLE @ WAS W 25 16 6 12 50.0 0 0 - 4 4 100.0 0 1 1 2 0 0 2 1 -
+p199
+aVMike Sanders CLE 03/16/1992 CLE @ WAS W 32 16 8 10 80.0 0 0 - 0 0 - 0 2 2 3 4 1 1 3 -
+p200
+aVSteve Kerr CLE 03/16/1992 CLE @ WAS W 17 6 3 6 50.0 0 0 - 0 0 - 0 1 1 2 0 0 2 0 -
+p201
+aVMark Price CLE 03/16/1992 CLE @ WAS W 35 18 8 16 50.0 2 4 50.0 0 0 - 1 3 4 4 1 0 3 0 -
+p202
+aVBrad Daugherty CLE 03/16/1992 CLE @ WAS W 17 3 0 4 0.0 0 0 - 3 4 75.0 0 4 4 4 0 0 2 2 -
+p203
+aVDanny Ferry CLE 03/16/1992 CLE @ WAS W 23 11 5 8 62.5 1 1 100.0 0 0 - 1 5 6 0 0 0 3 1 -
+p204
+aVDanny Ferry CLE 03/15/1992 CLE vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -
+p205
+aVMark Price CLE 03/15/1992 CLE vs. DEN W 31 29 10 18 55.6 1 4 25.0 8 8 100.0 0 1 1 10 2 0 1 3 -
+p206
+aVJohn Battle CLE 03/15/1992 CLE vs. DEN W 23 13 6 9 66.7 1 1 100.0 0 0 - 0 2 2 2 0 0 1 0 -
+p207
+aVSteve Kerr CLE 03/15/1992 CLE vs. DEN W 25 7 1 5 20.0 0 1 0.0 5 6 83.3 2 3 5 4 2 1 2 1 -
+p208
+aVTerrell Brandon CLE 03/15/1992 CLE vs. DEN W 17 4 0 4 0.0 0 0 - 4 4 100.0 1 1 2 1 0 0 1 1 -
+p209
+aVMike Sanders CLE 03/15/1992 CLE vs. DEN W 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 2 0 0 1 -
+p210
+aVHot Rod Williams CLE 03/15/1992 CLE vs. DEN W 26 7 3 6 50.0 0 0 - 1 2 50.0 3 4 7 0 2 3 1 4 -
+p211
+aVBrad Daugherty CLE 03/15/1992 CLE vs. DEN W 43 17 4 14 28.6 0 0 - 9 10 90.0 5 12 17 5 1 1 3 4 -
+p212
+aVHenry James CLE 03/15/1992 CLE vs. DEN W 20 11 4 12 33.3 1 2 50.0 2 2 100.0 0 2 2 0 0 2 1 0 -
+p213
+aVLarry Nance CLE 03/15/1992 CLE vs. DEN W 36 8 3 10 30.0 0 0 - 2 3 66.7 2 9 11 0 2 1 4 1 -
+p214
+aVDanny Ferry CLE 03/13/1992 CLE vs. LAL W 15 10 4 8 50.0 2 3 66.7 0 0 - 1 2 3 0 0 0 1 4 -
+p215
+aVBrad Daugherty CLE 03/13/1992 CLE vs. LAL W 44 12 4 11 36.4 0 0 - 4 8 50.0 4 8 12 4 1 2 3 5 -
+p216
+aVSteve Kerr CLE 03/13/1992 CLE vs. LAL W 25 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 4 0 1 2 0 -
+p217
+aVJohn Battle CLE 03/13/1992 CLE vs. LAL W 26 12 6 10 60.0 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -
+p218
+aVHot Rod Williams CLE 03/13/1992 CLE vs. LAL W 32 15 6 11 54.5 0 0 - 3 3 100.0 2 7 9 2 0 3 3 1 -
+p219
+aVMark Price CLE 03/13/1992 CLE vs. LAL W 37 19 4 15 26.7 1 3 33.3 10 10 100.0 0 3 3 9 1 0 2 2 -
+p220
+aVHenry James CLE 03/13/1992 CLE vs. LAL W 22 11 5 11 45.5 0 1 0.0 1 1 100.0 0 2 2 1 1 0 0 2 -
+p221
+aVTerrell Brandon CLE 03/13/1992 CLE vs. LAL W 18 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 5 1 0 0 2 -
+p222
+aVLarry Nance CLE 03/13/1992 CLE vs. LAL W 46 20 9 14 64.3 0 1 0.0 2 2 100.0 2 9 11 4 1 2 0 1 -
+p223
+aVHenry James CLE 03/10/1992 CLE vs. PHX W 15 7 3 8 37.5 0 1 0.0 1 2 50.0 0 2 2 0 1 1 0 0 -
+p224
+aVMark Price CLE 03/10/1992 CLE vs. PHX W 37 24 8 15 53.3 3 6 50.0 5 6 83.3 0 1 1 12 1 0 3 3 -
+p225
+aVCraig Ehlo CLE 03/10/1992 CLE vs. PHX W 14 6 3 6 50.0 0 0 - 0 0 - 2 1 3 0 0 1 0 0 -
+p226
+aVBrad Daugherty CLE 03/10/1992 CLE vs. PHX W 39 23 8 16 50.0 0 0 - 7 8 87.5 4 9 13 4 3 2 2 4 -
+p227
+aVDanny Ferry CLE 03/10/1992 CLE vs. PHX W 12 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 3 -
+p228
+aVJohn Battle CLE 03/10/1992 CLE vs. PHX W 23 7 3 8 37.5 0 1 0.0 1 1 100.0 0 2 2 0 1 0 1 2 -
+p229
+aVHot Rod Williams CLE 03/10/1992 CLE vs. PHX W 38 8 3 10 30.0 0 0 - 2 4 50.0 3 4 7 2 0 2 2 2 -
+p230
+aVSteve Kerr CLE 03/10/1992 CLE vs. PHX W 18 5 2 5 40.0 1 3 33.3 0 0 - 1 3 4 1 1 1 1 0 -
+p231
+aVTerrell Brandon CLE 03/10/1992 CLE vs. PHX W 7 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -
+p232
+aVLarry Nance CLE 03/10/1992 CLE vs. PHX W 37 15 5 12 41.7 0 0 - 5 6 83.3 7 7 14 4 0 5 1 1 -
+p233
+aVJohn Battle CLE 03/07/1992 CLE @ ATL W 26 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 6 0 0 3 3 -
+p234
+aVDanny Ferry CLE 03/07/1992 CLE @ ATL W 2 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -
+p235
+aVHot Rod Williams CLE 03/07/1992 CLE @ ATL W 35 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 4 2 2 0 2 -
+p236
+aVTerrell Brandon CLE 03/07/1992 CLE @ ATL W 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 1 0 1 0 -
+p237
+aVHenry James CLE 03/07/1992 CLE @ ATL W 14 2 0 6 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 2 1 -
+p238
+aVMark Price CLE 03/07/1992 CLE @ ATL W 30 16 6 14 42.9 2 7 28.6 2 2 100.0 0 2 2 8 1 0 2 2 -
+p239
+aVLarry Nance CLE 03/07/1992 CLE @ ATL W 44 35 16 22 72.7 0 0 - 3 3 100.0 3 9 12 1 0 3 1 2 -
+p240
+aVWinston Bennett CLE 03/07/1992 CLE @ ATL W 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p241
+aVCraig Ehlo CLE 03/07/1992 CLE @ ATL W 31 17 8 13 61.5 0 2 0.0 1 3 33.3 4 4 8 3 2 1 1 2 -
+p242
+aVBrad Daugherty CLE 03/07/1992 CLE @ ATL W 39 15 7 15 46.7 0 0 - 1 1 100.0 1 9 10 3 1 2 4 4 -
+p243
+aVSteve Kerr CLE 03/05/1992 CLE @ GOS L 12 4 1 3 33.3 1 1 100.0 1 2 50.0 0 1 1 1 0 0 1 0 -
+p244
+aVJohn Battle CLE 03/05/1992 CLE @ GOS L 18 11 5 7 71.4 0 0 - 1 1 100.0 1 0 1 0 0 0 2 2 -
+p245
+aVCraig Ehlo CLE 03/05/1992 CLE @ GOS L 30 10 5 12 41.7 0 3 0.0 0 0 - 3 9 12 9 1 0 2 3 -
+p246
+aVHot Rod Williams CLE 03/05/1992 CLE @ GOS L 26 11 3 8 37.5 0 0 - 5 6 83.3 4 4 8 1 2 0 3 3 -
+p247
+aVDanny Ferry CLE 03/05/1992 CLE @ GOS L 14 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 2 2 -
+p248
+aVBrad Daugherty CLE 03/05/1992 CLE @ GOS L 32 20 8 18 44.4 0 0 - 4 5 80.0 3 7 10 2 0 0 1 1 -
+p249
+aVTerrell Brandon CLE 03/05/1992 CLE @ GOS L 27 17 7 11 63.6 0 0 - 3 4 75.0 1 1 2 5 1 1 5 3 -
+p250
+aVLarry Nance CLE 03/05/1992 CLE @ GOS L 35 20 7 11 63.6 0 0 - 6 6 100.0 5 5 10 4 0 7 1 2 -
+p251
+aVHenry James CLE 03/05/1992 CLE @ GOS L 24 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -
+p252
+aVMark Price CLE 03/05/1992 CLE @ GOS L 22 6 3 12 25.0 0 3 0.0 0 0 - 1 2 3 6 0 0 1 1 -
+p253
+aVJohn Battle CLE 03/04/1992 CLE @ SAC W 21 14 6 12 50.0 0 0 - 2 2 100.0 2 3 5 3 0 0 0 3 -
+p254
+aVBrad Daugherty CLE 03/04/1992 CLE @ SAC W 37 21 10 14 71.4 0 0 - 1 2 50.0 1 10 11 2 1 0 2 2 -
+p255
+aVHot Rod Williams CLE 03/04/1992 CLE @ SAC W 31 13 5 9 55.6 0 0 - 3 3 100.0 1 5 6 5 0 6 0 2 -
+p256
+aVCraig Ehlo CLE 03/04/1992 CLE @ SAC W 36 17 6 13 46.2 1 3 33.3 4 8 50.0 4 3 7 3 2 1 3 3 -
+p257
+aVDanny Ferry CLE 03/04/1992 CLE @ SAC W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p258
+aVHenry James CLE 03/04/1992 CLE @ SAC W 14 4 2 7 28.6 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -
+p259
+aVWinston Bennett CLE 03/04/1992 CLE @ SAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p260
+aVTerrell Brandon CLE 03/04/1992 CLE @ SAC W 17 12 6 14 42.9 0 0 - 0 0 - 1 0 1 2 0 0 1 2 -
+p261
+aVMark Price CLE 03/04/1992 CLE @ SAC W 31 13 4 13 30.8 1 4 25.0 4 4 100.0 2 0 2 8 0 0 0 3 -
+p262
+aVLarry Nance CLE 03/04/1992 CLE @ SAC W 38 15 6 11 54.5 0 1 0.0 3 4 75.0 3 5 8 4 1 3 0 3 -
+p263
+aVCraig Ehlo CLE 03/01/1992 CLE @ SEA L 39 21 9 18 50.0 3 4 75.0 0 0 - 1 2 3 1 2 0 0 5 -
+p264
+aVDanny Ferry CLE 03/01/1992 CLE @ SEA L 24 12 4 10 40.0 1 3 33.3 3 3 100.0 1 1 2 1 0 1 0 1 -
+p265
+aVHenry James CLE 03/01/1992 CLE @ SEA L 10 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -
+p266
+aVTerrell Brandon CLE 03/01/1992 CLE @ SEA L 13 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 2 2 0 2 0 -
+p267
+aVBrad Daugherty CLE 03/01/1992 CLE @ SEA L 39 21 8 12 66.7 0 0 - 5 7 71.4 3 6 9 3 2 0 8 5 -
+p268
+aVJohn Battle CLE 03/01/1992 CLE @ SEA L 24 11 4 7 57.1 0 0 - 3 3 100.0 0 2 2 0 2 0 1 2 -
+p269
+aVLarry Nance CLE 03/01/1992 CLE @ SEA L 42 10 3 10 30.0 0 0 - 4 4 100.0 4 3 7 4 3 1 2 3 -
+p270
+aVMark Price CLE 03/01/1992 CLE @ SEA L 40 19 5 18 27.8 1 5 20.0 8 8 100.0 0 4 4 11 1 0 2 1 -
+p271
+aVWinston Bennett CLE 03/01/1992 CLE @ SEA L 9 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 1 0 0 5 -
+p272
+aVDanny Ferry CLE 02/28/1992 CLE @ LAL W 11 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 1 1 1 0 2 -
+p273
+aVLarry Nance CLE 02/28/1992 CLE @ LAL W 43 25 11 16 68.8 0 0 - 3 4 75.0 3 6 9 4 2 5 1 1 -
+p274
+aVMark Price CLE 02/28/1992 CLE @ LAL W 34 18 6 15 40.0 0 1 0.0 6 7 85.7 1 2 3 13 3 0 1 1 -
+p275
+aVCraig Ehlo CLE 02/28/1992 CLE @ LAL W 42 15 7 14 50.0 1 3 33.3 0 2 0.0 2 3 5 5 3 0 0 2 -
+p276
+aVJohn Battle CLE 02/28/1992 CLE @ LAL W 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p277
+aVTerrell Brandon CLE 02/28/1992 CLE @ LAL W 14 4 1 7 14.3 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 1 -
+p278
+aVHot Rod Williams CLE 02/28/1992 CLE @ LAL W 42 7 3 4 75.0 0 0 - 1 4 25.0 2 5 7 4 0 2 3 4 -
+p279
+aVBrad Daugherty CLE 02/28/1992 CLE @ LAL W 42 25 12 15 80.0 0 0 - 1 2 50.0 2 9 11 3 2 1 2 3 -
+p280
+aVWinston Bennett CLE 02/28/1992 CLE @ LAL W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p281
+aVCraig Ehlo CLE 02/26/1992 CLE @ PHX L 30 9 4 9 44.4 1 3 33.3 0 0 - 2 2 4 2 4 1 4 1 -
+p282
+aVTerrell Brandon CLE 02/26/1992 CLE @ PHX L 13 6 1 5 20.0 0 1 0.0 4 4 100.0 0 1 1 2 0 0 1 2 -
+p283
+aVWinston Bennett CLE 02/26/1992 CLE @ PHX L 15 6 3 7 42.9 0 0 - 0 1 0.0 1 3 4 0 1 0 0 1 -
+p284
+aVHenry James CLE 02/26/1992 CLE @ PHX L 11 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 5 -
+p285
+aVJohn Battle CLE 02/26/1992 CLE @ PHX L 26 13 6 14 42.9 0 0 - 1 2 50.0 1 1 2 2 0 0 1 2 -
+p286
+aVHot Rod Williams CLE 02/26/1992 CLE @ PHX L 31 12 3 7 42.9 0 1 0.0 6 8 75.0 5 5 10 2 0 2 0 2 -
+p287
+aVMark Price CLE 02/26/1992 CLE @ PHX L 35 18 5 19 26.3 0 3 0.0 8 8 100.0 3 3 6 6 0 0 2 2 -
+p288
+aVBrad Daugherty CLE 02/26/1992 CLE @ PHX L 44 32 14 24 58.3 0 0 - 4 7 57.1 2 11 13 3 0 1 0 3 -
+p289
+aVLarry Nance CLE 02/26/1992 CLE @ PHX L 35 4 2 10 20.0 0 0 - 0 0 - 3 5 8 3 0 1 0 3 -
+p290
+aVJohn Battle CLE 02/23/1992 CLE vs. MIL W 29 14 7 14 50.0 0 1 0.0 0 0 - 0 2 2 3 0 1 0 1 -
+p291
+aVCraig Ehlo CLE 02/23/1992 CLE vs. MIL W 40 15 7 12 58.3 1 1 100.0 0 0 - 1 3 4 10 1 0 4 1 -
+p292
+aVTerrell Brandon CLE 02/23/1992 CLE vs. MIL W 22 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 7 2 0 1 1 -
+p293
+aVSteve Kerr CLE 02/23/1992 CLE vs. MIL W 26 6 3 5 60.0 0 1 0.0 0 0 - 1 2 3 4 0 0 0 1 -
+p294
+aVDanny Ferry CLE 02/23/1992 CLE vs. MIL W 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 1 0 0 -
+p295
+aVHot Rod Williams CLE 02/23/1992 CLE vs. MIL W 22 8 4 6 66.7 0 0 - 0 2 0.0 2 3 5 4 1 3 2 2 -
+p296
+aVLarry Nance CLE 02/23/1992 CLE vs. MIL W 39 21 9 17 52.9 0 0 - 3 3 100.0 4 8 12 5 1 3 1 3 -
+p297
+aVWinston Bennett CLE 02/23/1992 CLE vs. MIL W 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 2 0 1 1 -
+p298
+aVBrad Daugherty CLE 02/23/1992 CLE vs. MIL W 39 25 10 14 71.4 0 0 - 5 8 62.5 4 5 9 5 2 1 4 3 -
+p299
+aVJohn Battle CLE 02/21/1992 CLE vs. SAC W 13 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p300
+aVDanny Ferry CLE 02/21/1992 CLE vs. SAC W 23 10 5 10 50.0 0 1 0.0 0 0 - 1 4 5 5 1 1 3 3 -
+p301
+aVTerrell Brandon CLE 02/21/1992 CLE vs. SAC W 21 8 4 7 57.1 0 1 0.0 0 0 - 1 1 2 5 2 0 3 3 -
+p302
+aVHot Rod Williams CLE 02/21/1992 CLE vs. SAC W 22 15 5 7 71.4 0 0 - 5 7 71.4 2 5 7 1 1 0 1 2 -
+p303
+aVWinston Bennett CLE 02/21/1992 CLE vs. SAC W 17 3 1 6 16.7 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 -
+p304
+aVHenry James CLE 02/21/1992 CLE vs. SAC W 16 11 5 9 55.6 1 1 100.0 0 0 - 3 0 3 1 0 0 0 1 -
+p305
+aVLarry Nance CLE 02/21/1992 CLE vs. SAC W 32 14 6 9 66.7 0 0 - 2 2 100.0 0 4 4 2 0 6 1 2 -
+p306
+aVBrad Daugherty CLE 02/21/1992 CLE vs. SAC W 29 30 13 14 92.9 0 0 - 4 6 66.7 1 14 15 5 3 1 2 2 -
+p307
+aVCraig Ehlo CLE 02/21/1992 CLE vs. SAC W 23 8 4 7 57.1 0 1 0.0 0 0 - 2 5 7 5 0 1 2 0 -
+p308
+aVSteve Kerr CLE 02/21/1992 CLE vs. SAC W 13 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 4 1 1 0 1 -
+p309
+aVJimmy Oliver CLE 02/21/1992 CLE vs. SAC W 4 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 1 1 -
+p310
+aVMark Price CLE 02/21/1992 CLE vs. SAC W 27 13 5 10 50.0 1 3 33.3 2 2 100.0 0 1 1 9 1 0 1 3 -
+p311
+aVLarry Nance CLE 02/20/1992 CLE @ NYK W 39 14 6 12 50.0 0 0 - 2 2 100.0 2 5 7 0 0 7 0 2 -
+p312
+aVMark Price CLE 02/20/1992 CLE @ NYK W 34 22 7 13 53.8 1 3 33.3 7 7 100.0 0 2 2 9 1 0 3 2 -
+p313
+aVCraig Ehlo CLE 02/20/1992 CLE @ NYK W 36 13 4 12 33.3 1 4 25.0 4 4 100.0 1 4 5 6 2 0 0 3 -
+p314
+aVWinston Bennett CLE 02/20/1992 CLE @ NYK W 13 4 2 5 40.0 0 0 - 0 1 0.0 3 0 3 1 1 0 1 4 -
+p315
+aVJohn Battle CLE 02/20/1992 CLE @ NYK W 25 9 3 10 30.0 0 0 - 3 5 60.0 1 1 2 1 1 0 2 3 -
+p316
+aVHot Rod Williams CLE 02/20/1992 CLE @ NYK W 30 5 1 5 20.0 0 0 - 3 3 100.0 1 2 3 1 1 2 0 2 -
+p317
+aVBrad Daugherty CLE 02/20/1992 CLE @ NYK W 43 19 7 13 53.8 0 0 - 5 7 71.4 2 12 14 2 1 2 2 2 -
+p318
+aVHenry James CLE 02/20/1992 CLE @ NYK W 7 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -
+p319
+aVTerrell Brandon CLE 02/20/1992 CLE @ NYK W 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 2 0 3 1 -
+p320
+aVTerrell Brandon CLE 02/18/1992 CLE @ MIL L 20 6 2 6 33.3 0 0 - 2 3 66.7 0 4 4 5 0 0 1 0 -
+p321
+aVBrad Daugherty CLE 02/18/1992 CLE @ MIL L 36 19 5 11 45.5 0 1 0.0 9 9 100.0 1 7 8 1 1 2 0 3 -
+p322
+aVHot Rod Williams CLE 02/18/1992 CLE @ MIL L 30 13 4 7 57.1 0 0 - 5 5 100.0 0 2 2 1 0 4 0 4 -
+p323
+aVWinston Bennett CLE 02/18/1992 CLE @ MIL L 18 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 1 -
+p324
+aVCraig Ehlo CLE 02/18/1992 CLE @ MIL L 35 12 4 9 44.4 2 2 100.0 2 2 100.0 3 4 7 1 1 1 1 2 -
+p325
+aVMark Price CLE 02/18/1992 CLE @ MIL L 28 11 5 11 45.5 1 4 25.0 0 0 - 0 1 1 7 0 0 3 0 -
+p326
+aVHenry James CLE 02/18/1992 CLE @ MIL L 20 17 6 8 75.0 1 3 33.3 4 4 100.0 2 2 4 0 1 1 0 3 -
+p327
+aVJohn Battle CLE 02/18/1992 CLE @ MIL L 24 18 8 12 66.7 0 0 - 2 2 100.0 0 0 0 4 1 0 5 4 -
+p328
+aVLarry Nance CLE 02/18/1992 CLE @ MIL L 29 16 6 11 54.5 0 0 - 4 4 100.0 1 4 5 2 0 2 2 5 -
+p329
+aVLarry Nance CLE 02/17/1992 CLE @ CHI W 38 15 6 9 66.7 0 0 - 3 4 75.0 0 4 4 1 0 0 0 4 -
+p330
+aVWinston Bennett CLE 02/17/1992 CLE @ CHI W 17 4 2 5 40.0 0 0 - 0 0 - 2 1 3 1 0 0 2 3 -
+p331
+aVMark Price CLE 02/17/1992 CLE @ CHI W 36 23 9 14 64.3 3 5 60.0 2 2 100.0 0 1 1 5 2 0 4 2 -
+p332
+aVBrad Daugherty CLE 02/17/1992 CLE @ CHI W 43 25 9 14 64.3 0 0 - 7 10 70.0 3 11 14 4 1 0 2 1 -
+p333
+aVTerrell Brandon CLE 02/17/1992 CLE @ CHI W 12 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 2 1 0 0 0 -
+p334
+aVJohn Battle CLE 02/17/1992 CLE @ CHI W 18 10 3 7 42.9 0 0 - 4 4 100.0 0 0 0 0 0 0 2 1 -
+p335
+aVCraig Ehlo CLE 02/17/1992 CLE @ CHI W 40 16 6 9 66.7 2 3 66.7 2 2 100.0 1 6 7 6 0 0 4 2 -
+p336
+aVDanny Ferry CLE 02/17/1992 CLE @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p337
+aVHot Rod Williams CLE 02/17/1992 CLE @ CHI W 33 16 6 8 75.0 0 0 - 4 5 80.0 0 3 3 3 1 3 0 2 -
+p338
+aVTerrell Brandon CLE 02/15/1992 CLE vs. NJN W 16 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 4 3 1 0 1 -
+p339
+aVMark Price CLE 02/15/1992 CLE vs. NJN W 26 24 8 12 66.7 1 2 50.0 7 7 100.0 0 2 2 11 2 0 3 0 -
+p340
+aVSteve Kerr CLE 02/15/1992 CLE vs. NJN W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p341
+aVJimmy Oliver CLE 02/15/1992 CLE vs. NJN W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p342
+aVBrad Daugherty CLE 02/15/1992 CLE vs. NJN W 39 27 11 16 68.8 0 0 - 5 7 71.4 5 11 16 4 0 0 1 2 -
+p343
+aVWinston Bennett CLE 02/15/1992 CLE vs. NJN W 27 14 5 9 55.6 0 0 - 4 6 66.7 4 5 9 0 2 0 2 3 -
+p344
+aVLarry Nance CLE 02/15/1992 CLE vs. NJN W 31 14 4 10 40.0 0 0 - 6 8 75.0 3 3 6 0 2 2 0 3 -
+p345
+aVHot Rod Williams CLE 02/15/1992 CLE vs. NJN W 24 2 1 8 12.5 0 0 - 0 0 - 2 3 5 3 2 2 1 0 -
+p346
+aVCraig Ehlo CLE 02/15/1992 CLE vs. NJN W 28 12 5 15 33.3 0 1 0.0 2 2 100.0 1 1 2 2 0 0 0 1 -
+p347
+aVDanny Ferry CLE 02/15/1992 CLE vs. NJN W 14 6 1 5 20.0 0 0 - 4 6 66.7 1 1 2 2 0 1 0 5 -
+p348
+aVJohn Battle CLE 02/15/1992 CLE vs. NJN W 21 12 4 5 80.0 0 0 - 4 4 100.0 0 3 3 3 0 0 0 1 -
+p349
+aVHenry James CLE 02/15/1992 CLE vs. NJN W 5 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 1 -
+p350
+aVBrad Daugherty CLE 02/12/1992 CLE @ DEN L 34 22 8 14 57.1 0 0 - 6 10 60.0 6 6 12 3 1 1 6 3 -
+p351
+aVHenry James CLE 02/12/1992 CLE @ DEN L 11 4 2 10 20.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -
+p352
+aVHot Rod Williams CLE 02/12/1992 CLE @ DEN L 27 12 3 9 33.3 0 0 - 6 8 75.0 3 9 12 1 1 3 0 3 -
+p353
+aVJimmy Oliver CLE 02/12/1992 CLE @ DEN L 15 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 3 0 0 0 0 -
+p354
+aVCraig Ehlo CLE 02/12/1992 CLE @ DEN L 37 25 9 15 60.0 2 3 66.7 5 6 83.3 3 3 6 2 1 0 1 3 -
+p355
+aVMark Price CLE 02/12/1992 CLE @ DEN L 34 15 6 15 40.0 1 4 25.0 2 2 100.0 2 1 3 7 2 0 1 1 -
+p356
+aVLarry Nance CLE 02/12/1992 CLE @ DEN L 36 12 5 12 41.7 0 0 - 2 2 100.0 5 6 11 3 0 5 2 1 -
+p357
+aVDanny Ferry CLE 02/12/1992 CLE @ DEN L 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 2 -
+p358
+aVTerrell Brandon CLE 02/12/1992 CLE @ DEN L 19 5 2 10 20.0 0 0 - 1 2 50.0 1 0 1 0 2 0 1 0 -
+p359
+aVJohn Battle CLE 02/12/1992 CLE @ DEN L 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p360
+aVJimmy Oliver CLE 02/11/1992 CLE @ UTH L 13 2 0 3 0.0 0 0 - 2 2 100.0 2 0 2 1 1 0 0 1 -
+p361
+aVDanny Ferry CLE 02/11/1992 CLE @ UTH L 11 5 1 3 33.3 1 1 100.0 2 2 100.0 0 2 2 0 0 0 0 3 -
+p362
+aVLarry Nance CLE 02/11/1992 CLE @ UTH L 40 21 8 12 66.7 0 0 - 5 5 100.0 2 10 12 1 0 2 1 4 -
+p363
+aVTerrell Brandon CLE 02/11/1992 CLE @ UTH L 15 7 3 6 50.0 0 0 - 1 4 25.0 0 0 0 0 0 0 2 2 -
+p364
+aVJohn Battle CLE 02/11/1992 CLE @ UTH L 31 15 5 7 71.4 0 0 - 5 8 62.5 0 1 1 2 1 0 3 0 -
+p365
+aVMark Price CLE 02/11/1992 CLE @ UTH L 33 18 6 14 42.9 1 6 16.7 5 5 100.0 0 3 3 9 1 0 4 1 -
+p366
+aVBrad Daugherty CLE 02/11/1992 CLE @ UTH L 35 11 5 13 38.5 0 0 - 1 2 50.0 2 5 7 1 0 0 0 2 -
+p367
+aVCraig Ehlo CLE 02/11/1992 CLE @ UTH L 31 13 6 12 50.0 1 4 25.0 0 0 - 4 3 7 3 1 0 0 4 -
+p368
+aVHot Rod Williams CLE 02/11/1992 CLE @ UTH L 31 17 6 11 54.5 0 0 - 5 5 100.0 3 4 7 2 2 1 1 4 -
+p369
+aVJohn Battle CLE 02/06/1992 CLE vs. DET L 26 6 2 4 50.0 0 1 0.0 2 4 50.0 0 1 1 1 0 0 2 2 -
+p370
+aVTerrell Brandon CLE 02/06/1992 CLE vs. DET L 19 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 2 1 0 2 2 -
+p371
+aVCraig Ehlo CLE 02/06/1992 CLE vs. DET L 37 15 6 10 60.0 2 2 100.0 1 2 50.0 2 4 6 3 2 1 0 4 -
+p372
+aVDanny Ferry CLE 02/06/1992 CLE vs. DET L 15 6 1 5 20.0 0 2 0.0 4 4 100.0 2 1 3 0 0 0 1 1 -
+p373
+aVLarry Nance CLE 02/06/1992 CLE vs. DET L 36 18 7 14 50.0 0 0 - 4 6 66.7 1 4 5 2 4 5 3 4 -
+p374
+aVWinston Bennett CLE 02/06/1992 CLE vs. DET L 13 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 2 0 1 2 -
+p375
+aVMark Price CLE 02/06/1992 CLE vs. DET L 33 11 4 13 30.8 0 3 0.0 3 3 100.0 0 3 3 7 2 0 0 1 -
+p376
+aVHenry James CLE 02/06/1992 CLE vs. DET L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -
+p377
+aVBrad Daugherty CLE 02/06/1992 CLE vs. DET L 36 24 10 21 47.6 0 0 - 4 6 66.7 3 8 11 1 0 0 3 3 -
+p378
+aVHot Rod Williams CLE 02/06/1992 CLE vs. DET L 20 8 1 4 25.0 0 0 - 6 6 100.0 1 1 2 2 0 1 0 1 -
+p379
+aVDanny Ferry CLE 02/05/1992 CLE @ PHL W 13 9 4 5 80.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 -
+p380
+aVTerrell Brandon CLE 02/05/1992 CLE @ PHL W 21 8 4 10 40.0 0 1 0.0 0 0 - 1 1 2 2 2 0 2 1 -
+p381
+aVJohn Battle CLE 02/05/1992 CLE @ PHL W 19 4 2 6 33.3 0 0 - 0 0 - 1 4 5 1 0 0 2 0 -
+p382
+aVMark Price CLE 02/05/1992 CLE @ PHL W 32 22 7 14 50.0 4 7 57.1 4 4 100.0 1 3 4 5 4 0 4 1 -
+p383
+aVHot Rod Williams CLE 02/05/1992 CLE @ PHL W 37 10 4 8 50.0 0 0 - 2 4 50.0 5 6 11 7 0 3 1 3 -
+p384
+aVBrad Daugherty CLE 02/05/1992 CLE @ PHL W 41 19 7 15 46.7 0 0 - 5 8 62.5 5 7 12 7 0 0 1 3 -
+p385
+aVWinston Bennett CLE 02/05/1992 CLE @ PHL W 15 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 1 0 0 2 -
+p386
+aVCraig Ehlo CLE 02/05/1992 CLE @ PHL W 42 8 3 10 30.0 1 1 100.0 1 2 50.0 2 3 5 8 0 2 3 2 -
+p387
+aVLarry Nance CLE 02/05/1992 CLE @ PHL W 45 26 13 20 65.0 0 0 - 0 1 0.0 0 6 6 3 2 5 1 3 -
+p388
+aVHenry James CLE 02/02/1992 CLE vs. MIN W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p389
+aVTerrell Brandon CLE 02/02/1992 CLE vs. MIN W 19 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 5 4 1 1 0 -
+p390
+aVSteve Kerr CLE 02/02/1992 CLE vs. MIN W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p391
+aVDanny Ferry CLE 02/02/1992 CLE vs. MIN W 17 6 3 6 50.0 0 0 - 0 0 - 1 1 2 3 0 0 1 3 -
+p392
+aVJohn Battle CLE 02/02/1992 CLE vs. MIN W 21 9 4 9 44.4 0 0 - 1 3 33.3 0 1 1 3 1 0 2 1 -
+p393
+aVMark Price CLE 02/02/1992 CLE vs. MIN W 31 20 8 14 57.1 2 2 100.0 2 2 100.0 2 2 4 9 0 1 3 2 -
+p394
+aVBrad Daugherty CLE 02/02/1992 CLE vs. MIN W 33 24 9 10 90.0 0 0 - 6 6 100.0 3 8 11 2 1 2 2 1 -
+p395
+aVJimmy Oliver CLE 02/02/1992 CLE vs. MIN W 20 2 1 6 16.7 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -
+p396
+aVLarry Nance CLE 02/02/1992 CLE vs. MIN W 36 17 8 14 57.1 0 0 - 1 1 100.0 3 3 6 4 0 4 1 1 -
+p397
+aVHot Rod Williams CLE 02/02/1992 CLE vs. MIN W 29 10 4 8 50.0 0 0 - 2 4 50.0 6 10 16 1 0 2 1 2 -
+p398
+aVCraig Ehlo CLE 02/02/1992 CLE vs. MIN W 30 10 5 8 62.5 0 1 0.0 0 0 - 0 7 7 4 0 1 2 2 -
+p399
+aVJohn Battle CLE 01/30/1992 CLE vs. ORL W 24 17 7 12 58.3 0 0 - 3 3 100.0 0 1 1 1 0 0 1 1 -
+p400
+aVWinston Bennett CLE 01/30/1992 CLE vs. ORL W 12 2 1 4 25.0 0 0 - 0 0 - 4 0 4 2 0 0 0 3 -
+p401
+aVHot Rod Williams CLE 01/30/1992 CLE vs. ORL W 35 14 4 9 44.4 0 0 - 6 7 85.7 1 8 9 5 0 2 1 5 -
+p402
+aVJimmy Oliver CLE 01/30/1992 CLE vs. ORL W 21 6 3 8 37.5 0 0 - 0 0 - 0 1 1 5 0 0 0 1 -
+p403
+aVDanny Ferry CLE 01/30/1992 CLE vs. ORL W 20 10 3 6 50.0 0 0 - 4 4 100.0 0 3 3 1 0 1 0 1 -
+p404
+aVLarry Nance CLE 01/30/1992 CLE vs. ORL W 40 33 15 19 78.9 0 0 - 3 3 100.0 3 10 13 4 2 3 2 1 -
+p405
+aVHenry James CLE 01/30/1992 CLE vs. ORL W 3 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p406
+aVTerrell Brandon CLE 01/30/1992 CLE vs. ORL W 17 6 3 9 33.3 0 1 0.0 0 0 - 1 1 2 3 1 1 4 1 -
+p407
+aVCraig Ehlo CLE 01/30/1992 CLE vs. ORL W 37 7 2 7 28.6 1 3 33.3 2 4 50.0 1 8 9 3 2 0 1 4 -
+p408
+aVMark Price CLE 01/30/1992 CLE vs. ORL W 31 20 7 13 53.8 1 2 50.0 5 5 100.0 2 2 4 13 1 1 2 0 -
+p409
+aVJohn Battle CLE 01/29/1992 CLE @ DET W 30 14 7 12 58.3 0 0 - 0 0 - 1 1 2 1 2 0 2 2 -
+p410
+aVHenry James CLE 01/29/1992 CLE @ DET W 16 5 2 8 25.0 1 2 50.0 0 0 - 1 1 2 1 0 0 1 3 -
+p411
+aVWinston Bennett CLE 01/29/1992 CLE @ DET W 14 0 0 3 0.0 0 0 - 0 0 - 1 4 5 1 1 0 2 6 -
+p412
+aVJimmy Oliver CLE 01/29/1992 CLE @ DET W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p413
+aVLarry Nance CLE 01/29/1992 CLE @ DET W 43 18 5 15 33.3 0 0 - 8 9 88.9 8 6 14 2 1 5 1 2 -
+p414
+aVCraig Ehlo CLE 01/29/1992 CLE @ DET W 32 6 3 6 50.0 0 0 - 0 0 - 0 5 5 6 1 1 2 2 -
+p415
+aVTerrell Brandon CLE 01/29/1992 CLE @ DET W 25 10 4 9 44.4 0 2 0.0 2 2 100.0 1 2 3 1 0 0 1 2 -
+p416
+aVMark Price CLE 01/29/1992 CLE @ DET W 30 16 6 13 46.2 1 5 20.0 3 4 75.0 0 6 6 7 2 0 3 5 -
+p417
+aVHot Rod Williams CLE 01/29/1992 CLE @ DET W 39 22 8 21 38.1 0 0 - 6 8 75.0 3 7 10 0 2 2 2 3 -
+p418
+aVTerrell Brandon CLE 01/25/1992 CLE @ ORL L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 0 -
+p419
+aVSteve Kerr CLE 01/25/1992 CLE @ ORL L 8 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 0 0 0 2 0 -
+p420
+aVHot Rod Williams CLE 01/25/1992 CLE @ ORL L 41 14 3 10 30.0 0 0 - 8 12 66.7 2 8 10 3 1 6 1 2 -
+p421
+aVCraig Ehlo CLE 01/25/1992 CLE @ ORL L 29 6 3 9 33.3 0 1 0.0 0 0 - 3 3 6 2 0 0 1 3 -
+p422
+aVJohn Battle CLE 01/25/1992 CLE @ ORL L 25 12 6 12 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 -
+p423
+aVHenry James CLE 01/25/1992 CLE @ ORL L 20 9 4 9 44.4 0 1 0.0 1 1 100.0 0 4 4 1 1 1 1 2 -
+p424
+aVWinston Bennett CLE 01/25/1992 CLE @ ORL L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p425
+aVMark Price CLE 01/25/1992 CLE @ ORL L 37 24 9 14 64.3 2 4 50.0 4 5 80.0 0 3 3 8 4 0 3 3 -
+p426
+aVLarry Nance CLE 01/25/1992 CLE @ ORL L 40 22 8 12 66.7 0 1 0.0 6 6 100.0 1 3 4 3 1 4 1 1 -
+p427
+aVJimmy Oliver CLE 01/25/1992 CLE @ ORL L 7 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 1 0 2 0 -
+p428
+aVDanny Ferry CLE 01/25/1992 CLE @ ORL L 16 2 0 6 0.0 0 1 0.0 2 2 100.0 4 4 8 1 1 1 0 1 -
+p429
+aVHot Rod Williams CLE 01/24/1992 CLE @ IND W 42 16 6 13 46.2 0 0 - 4 5 80.0 7 6 13 3 0 2 0 1 -
+p430
+aVLarry Nance CLE 01/24/1992 CLE @ IND W 39 23 9 15 60.0 0 0 - 5 7 71.4 7 3 10 2 1 0 0 4 -
+p431
+aVMark Price CLE 01/24/1992 CLE @ IND W 30 16 6 14 42.9 2 3 66.7 2 2 100.0 0 1 1 6 3 0 3 2 -
+p432
+aVJohn Battle CLE 01/24/1992 CLE @ IND W 16 12 4 7 57.1 0 0 - 4 4 100.0 0 1 1 3 2 0 1 0 -
+p433
+aVWinston Bennett CLE 01/24/1992 CLE @ IND W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p434
+aVJimmy Oliver CLE 01/24/1992 CLE @ IND W 19 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 3 -
+p435
+aVHenry James CLE 01/24/1992 CLE @ IND W 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p436
+aVDanny Ferry CLE 01/24/1992 CLE @ IND W 25 12 6 10 60.0 0 1 0.0 0 0 - 2 10 12 3 1 0 0 3 -
+p437
+aVTerrell Brandon CLE 01/24/1992 CLE @ IND W 22 4 2 7 28.6 0 0 - 0 0 - 1 0 1 3 1 0 1 1 -
+p438
+aVCraig Ehlo CLE 01/24/1992 CLE @ IND W 33 13 5 16 31.3 2 5 40.0 1 2 50.0 2 3 5 4 4 0 2 3 -
+p439
+aVLarry Nance CLE 01/22/1992 CLE vs. IND W 47 26 9 13 69.2 0 0 - 8 8 100.0 3 8 11 5 1 3 1 1 -
+p440
+aVMark Price CLE 01/22/1992 CLE vs. IND W 38 30 8 14 57.1 1 4 25.0 13 13 100.0 0 1 1 2 2 0 4 3 -
+p441
+aVHenry James CLE 01/22/1992 CLE vs. IND W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -
+p442
+aVDanny Ferry CLE 01/22/1992 CLE vs. IND W 16 8 4 8 50.0 0 0 - 0 0 - 3 1 4 2 1 1 1 3 -
+p443
+aVCraig Ehlo CLE 01/22/1992 CLE vs. IND W 45 8 3 9 33.3 0 1 0.0 2 4 50.0 2 4 6 11 3 0 1 3 -
+p444
+aVTerrell Brandon CLE 01/22/1992 CLE vs. IND W 15 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 4 0 0 2 1 -
+p445
+aVHot Rod Williams CLE 01/22/1992 CLE vs. IND W 47 16 6 14 42.9 0 0 - 4 4 100.0 3 6 9 5 2 2 1 4 -
+p446
+aVJimmy Oliver CLE 01/22/1992 CLE vs. IND W 21 11 5 9 55.6 0 0 - 1 2 50.0 0 2 2 2 2 0 1 2 -
+p447
+aVJohn Battle CLE 01/22/1992 CLE vs. IND W 29 14 5 12 41.7 0 0 - 4 4 100.0 0 4 4 3 0 0 2 3 -
+p448
+aVMark Price CLE 01/20/1992 CLE vs. BOS L 29 21 7 12 58.3 3 5 60.0 4 4 100.0 0 4 4 8 0 0 1 1 -
+p449
+aVWinston Bennett CLE 01/20/1992 CLE vs. BOS L 24 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 0 1 0 -
+p450
+aVHenry James CLE 01/20/1992 CLE vs. BOS L 21 9 2 8 25.0 0 2 0.0 5 6 83.3 1 2 3 0 0 1 0 3 -
+p451
+aVHot Rod Williams CLE 01/20/1992 CLE vs. BOS L 44 21 9 12 75.0 0 0 - 3 5 60.0 5 5 10 7 1 1 2 2 -
+p452
+aVDanny Ferry CLE 01/20/1992 CLE vs. BOS L 25 4 2 8 25.0 0 2 0.0 0 0 - 2 4 6 3 1 1 2 2 -
+p453
+aVCraig Ehlo CLE 01/20/1992 CLE vs. BOS L 44 16 7 16 43.8 0 2 0.0 2 2 100.0 1 6 7 2 1 0 2 2 -
+p454
+aVJohn Battle CLE 01/20/1992 CLE vs. BOS L 34 19 8 15 53.3 0 0 - 3 4 75.0 1 0 1 1 0 0 1 2 -
+p455
+aVTerrell Brandon CLE 01/20/1992 CLE vs. BOS L 19 10 4 8 50.0 0 0 - 2 3 66.7 2 1 3 6 1 0 4 1 -
+p456
+aVHenry James CLE 01/18/1992 CLE vs. NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p457
+aVTerrell Brandon CLE 01/18/1992 CLE vs. NYK W 14 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 4 0 0 1 0 -
+p458
+aVCraig Ehlo CLE 01/18/1992 CLE vs. NYK W 39 12 4 8 50.0 1 3 33.3 3 3 100.0 0 3 3 4 1 1 2 3 -
+p459
+aVHot Rod Williams CLE 01/18/1992 CLE vs. NYK W 34 10 4 9 44.4 0 0 - 2 2 100.0 2 7 9 2 0 3 2 4 -
+p460
+aVWinston Bennett CLE 01/18/1992 CLE vs. NYK W 14 3 1 6 16.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 3 -
+p461
+aVMark Price CLE 01/18/1992 CLE vs. NYK W 34 24 7 12 58.3 1 3 33.3 9 9 100.0 0 1 1 10 1 0 1 0 -
+p462
+aVJohn Battle CLE 01/18/1992 CLE vs. NYK W 23 12 5 11 45.5 0 0 - 2 2 100.0 0 2 2 2 0 0 0 1 -
+p463
+aVBrad Daugherty CLE 01/18/1992 CLE vs. NYK W 40 31 13 18 72.2 0 0 - 5 6 83.3 2 5 7 4 0 1 0 4 -
+p464
+aVLarry Nance CLE 01/18/1992 CLE vs. NYK W 26 10 5 9 55.6 0 0 - 0 0 - 2 4 6 1 0 2 0 1 -
+p465
+aVDanny Ferry CLE 01/18/1992 CLE vs. NYK W 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 0 3 -
+p466
+aVCraig Ehlo CLE 01/16/1992 CLE vs. CHI L 28 6 2 10 20.0 1 3 33.3 1 2 50.0 1 0 1 3 0 0 2 2 -
+p467
+aVMark Price CLE 01/16/1992 CLE vs. CHI L 36 14 6 12 50.0 0 2 0.0 2 2 100.0 1 2 3 11 0 1 1 2 -
+p468
+aVWinston Bennett CLE 01/16/1992 CLE vs. CHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p469
+aVHot Rod Williams CLE 01/16/1992 CLE vs. CHI L 27 7 3 8 37.5 0 0 - 1 2 50.0 2 3 5 1 2 4 0 2 -
+p470
+aVTerrell Brandon CLE 01/16/1992 CLE vs. CHI L 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -
+p471
+aVJohn Battle CLE 01/16/1992 CLE vs. CHI L 35 20 9 15 60.0 0 1 0.0 2 2 100.0 0 4 4 2 2 0 1 2 -
+p472
+aVBrad Daugherty CLE 01/16/1992 CLE vs. CHI L 40 14 4 9 44.4 0 0 - 6 8 75.0 1 11 12 3 0 1 1 1 -
+p473
+aVLarry Nance CLE 01/16/1992 CLE vs. CHI L 38 16 8 14 57.1 0 0 - 0 0 - 2 5 7 1 0 3 2 5 -
+p474
+aVHenry James CLE 01/16/1992 CLE vs. CHI L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p475
+aVDanny Ferry CLE 01/16/1992 CLE vs. CHI L 14 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 2 -
+p476
+aVLarry Nance CLE 01/14/1992 CLE vs. POR L 39 17 6 12 50.0 0 0 - 5 6 83.3 1 4 5 5 2 1 1 3 -
+p477
+aVCraig Ehlo CLE 01/14/1992 CLE vs. POR L 34 13 5 12 41.7 1 3 33.3 2 3 66.7 1 2 3 3 1 0 1 3 -
+p478
+aVBrad Daugherty CLE 01/14/1992 CLE vs. POR L 36 19 7 13 53.8 0 0 - 5 7 71.4 4 8 12 1 0 0 6 2 -
+p479
+aVMark Price CLE 01/14/1992 CLE vs. POR L 29 26 5 10 50.0 3 6 50.0 13 14 92.9 0 1 1 5 2 0 1 3 -
+p480
+aVJohn Battle CLE 01/14/1992 CLE vs. POR L 21 8 4 9 44.4 0 1 0.0 0 2 0.0 0 1 1 5 1 0 0 1 -
+p481
+aVWinston Bennett CLE 01/14/1992 CLE vs. POR L 15 2 1 4 25.0 0 0 - 0 0 - 3 2 5 0 0 0 1 2 -
+p482
+aVHot Rod Williams CLE 01/14/1992 CLE vs. POR L 32 10 3 8 37.5 0 1 0.0 4 6 66.7 2 7 9 2 1 5 3 3 -
+p483
+aVDanny Ferry CLE 01/14/1992 CLE vs. POR L 15 15 6 8 75.0 3 4 75.0 0 0 - 0 4 4 1 0 0 2 4 -
+p484
+aVTerrell Brandon CLE 01/14/1992 CLE vs. POR L 19 4 2 9 22.2 0 1 0.0 0 0 - 0 3 3 6 0 3 2 1 -
+p485
+aVLarry Nance CLE 01/11/1992 CLE vs. PHL W 37 14 7 14 50.0 0 0 - 0 0 - 1 7 8 1 2 2 0 2 -
+p486
+aVHenry James CLE 01/11/1992 CLE vs. PHL W 6 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p487
+aVWinston Bennett CLE 01/11/1992 CLE vs. PHL W 10 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -
+p488
+aVBrad Daugherty CLE 01/11/1992 CLE vs. PHL W 39 23 6 13 46.2 0 0 - 11 12 91.7 5 11 16 8 0 0 1 4 -
+p489
+aVJohn Battle CLE 01/11/1992 CLE vs. PHL W 25 13 6 13 46.2 1 2 50.0 0 0 - 0 0 0 0 1 0 1 3 -
+p490
+aVDanny Ferry CLE 01/11/1992 CLE vs. PHL W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p491
+aVCraig Ehlo CLE 01/11/1992 CLE vs. PHL W 39 9 4 7 57.1 1 2 50.0 0 0 - 2 3 5 3 1 0 2 1 -
+p492
+aVMark Price CLE 01/11/1992 CLE vs. PHL W 27 20 8 10 80.0 1 1 100.0 3 4 75.0 1 2 3 6 1 0 4 1 -
+p493
+aVHot Rod Williams CLE 01/11/1992 CLE vs. PHL W 32 17 7 11 63.6 0 0 - 3 4 75.0 5 3 8 0 0 1 0 2 -
+p494
+aVTerrell Brandon CLE 01/11/1992 CLE vs. PHL W 21 8 3 9 33.3 0 0 - 2 2 100.0 1 2 3 8 1 0 2 1 -
+p495
+aVMark Price CLE 01/09/1992 CLE @ WAS W 36 25 10 16 62.5 2 5 40.0 3 4 75.0 0 0 0 8 1 0 3 1 -
+p496
+aVWinston Bennett CLE 01/09/1992 CLE @ WAS W 23 4 2 7 28.6 0 0 - 0 0 - 2 2 4 2 0 0 0 2 -
+p497
+aVLarry Nance CLE 01/09/1992 CLE @ WAS W 41 20 9 16 56.3 0 0 - 2 3 66.7 2 13 15 2 2 2 2 4 -
+p498
+aVJohn Battle CLE 01/09/1992 CLE @ WAS W 21 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 3 1 0 1 3 -
+p499
+aVBrad Daugherty CLE 01/09/1992 CLE @ WAS W 37 21 8 10 80.0 0 0 - 5 7 71.4 5 8 13 3 0 1 5 4 -
+p500
+aVHot Rod Williams CLE 01/09/1992 CLE @ WAS W 24 2 1 5 20.0 0 0 - 0 2 0.0 2 2 4 1 0 0 1 0 -
+p501
+aVHenry James CLE 01/09/1992 CLE @ WAS W 8 3 1 3 33.3 0 0 - 1 1 100.0 0 2 2 0 1 0 0 1 -
+p502
+aVCraig Ehlo CLE 01/09/1992 CLE @ WAS W 33 14 7 15 46.7 0 1 0.0 0 0 - 0 2 2 1 3 1 2 3 -
+p503
+aVTerrell Brandon CLE 01/09/1992 CLE @ WAS W 17 6 3 6 50.0 0 0 - 0 0 - 0 0 0 2 0 1 1 3 -
+p504
+aVJimmy Oliver CLE 01/07/1992 CLE @ MIN W 2 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p505
+aVJohn Battle CLE 01/07/1992 CLE @ MIN W 28 12 5 9 55.6 0 0 - 2 4 50.0 0 2 2 3 0 0 0 2 -
+p506
+aVLarry Nance CLE 01/07/1992 CLE @ MIN W 37 16 6 9 66.7 0 0 - 4 4 100.0 0 10 10 2 1 3 1 4 -
+p507
+aVWinston Bennett CLE 01/07/1992 CLE @ MIN W 25 8 3 6 50.0 0 0 - 2 4 50.0 4 3 7 2 0 0 0 1 -
+p508
+aVTerrell Brandon CLE 01/07/1992 CLE @ MIN W 25 9 3 8 37.5 0 0 - 3 4 75.0 0 0 0 4 2 0 5 2 -
+p509
+aVSteve Kerr CLE 01/07/1992 CLE @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p510
+aVBrad Daugherty CLE 01/07/1992 CLE @ MIN W 33 27 9 11 81.8 0 0 - 9 12 75.0 1 7 8 5 0 0 1 1 -
+p511
+aVCraig Ehlo CLE 01/07/1992 CLE @ MIN W 22 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -
+p512
+aVHot Rod Williams CLE 01/07/1992 CLE @ MIN W 25 6 1 1 100.0 0 0 - 4 4 100.0 0 6 6 4 0 2 1 3 -
+p513
+aVDanny Ferry CLE 01/07/1992 CLE @ MIN W 13 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 1 -
+p514
+aVMark Price CLE 01/07/1992 CLE @ MIN W 21 16 8 11 72.7 0 1 0.0 0 0 - 0 3 3 6 1 0 3 2 -
+p515
+aVHenry James CLE 01/07/1992 CLE @ MIN W 7 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p516
+aVLarry Nance CLE 01/03/1992 CLE @ BOS W 41 20 9 13 69.2 0 1 0.0 2 2 100.0 0 6 6 4 2 7 1 2 -
+p517
+aVJohn Battle CLE 01/03/1992 CLE @ BOS W 23 19 8 10 80.0 0 0 - 3 3 100.0 0 1 1 3 0 0 3 3 -
+p518
+aVTerrell Brandon CLE 01/03/1992 CLE @ BOS W 22 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 7 0 0 0 1 -
+p519
+aVMark Price CLE 01/03/1992 CLE @ BOS W 26 12 6 12 50.0 0 1 0.0 0 0 - 0 1 1 5 2 0 2 1 -
+p520
+aVHot Rod Williams CLE 01/03/1992 CLE @ BOS W 20 6 2 5 40.0 0 0 - 2 3 66.7 1 3 4 1 0 0 0 3 -
+p521
+aVWinston Bennett CLE 01/03/1992 CLE @ BOS W 18 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 0 0 0 2 -
+p522
+aVBrad Daugherty CLE 01/03/1992 CLE @ BOS W 37 20 8 14 57.1 0 0 - 4 6 66.7 3 11 14 3 0 0 1 2 -
+p523
+aVCraig Ehlo CLE 01/03/1992 CLE @ BOS W 28 15 5 10 50.0 1 4 25.0 4 4 100.0 0 2 2 4 3 0 0 2 -
+p524
+aVHenry James CLE 01/03/1992 CLE @ BOS W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p525
+aVDanny Ferry CLE 01/03/1992 CLE @ BOS W 15 5 2 6 33.3 1 1 100.0 0 0 - 0 2 2 4 1 0 1 1 -
+p526
+aVWinston Bennett CLE 01/02/1992 CLE @ NYK W 13 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 5 -
+p527
+aVTerrell Brandon CLE 01/02/1992 CLE @ NYK W 16 4 2 8 25.0 0 0 - 0 0 - 0 3 3 3 1 0 1 0 -
+p528
+aVDanny Ferry CLE 01/02/1992 CLE @ NYK W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p529
+aVHenry James CLE 01/02/1992 CLE @ NYK W 8 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -
+p530
+aVHot Rod Williams CLE 01/02/1992 CLE @ NYK W 37 11 4 9 44.4 0 1 0.0 3 5 60.0 0 4 4 3 2 3 1 1 -
+p531
+aVCraig Ehlo CLE 01/02/1992 CLE @ NYK W 24 11 4 6 66.7 1 2 50.0 2 2 100.0 0 7 7 5 1 0 4 2 -
+p532
+aVLarry Nance CLE 01/02/1992 CLE @ NYK W 36 12 5 13 38.5 0 0 - 2 4 50.0 4 2 6 2 1 4 0 2 -
+p533
+aVJohn Battle CLE 01/02/1992 CLE @ NYK W 24 19 6 6 100.0 0 0 - 7 7 100.0 1 2 3 1 1 0 1 1 -
+p534
+aVBrad Daugherty CLE 01/02/1992 CLE @ NYK W 37 23 6 13 46.2 0 0 - 11 12 91.7 4 6 10 3 0 1 1 2 -
+p535
+aVMark Price CLE 01/02/1992 CLE @ NYK W 32 22 8 11 72.7 1 3 33.3 5 5 100.0 0 2 2 7 3 0 7 4 -
+p536
+aVCraig Ehlo CLE 12/30/1991 CLE vs. HOU W 21 14 6 12 50.0 2 5 40.0 0 2 0.0 1 1 2 5 0 1 1 1 -
+p537
+aVDanny Ferry CLE 12/30/1991 CLE vs. HOU W 21 10 5 7 71.4 0 0 - 0 0 - 1 7 8 4 1 0 1 3 -
+p538
+aVHot Rod Williams CLE 12/30/1991 CLE vs. HOU W 26 8 4 6 66.7 0 0 - 0 0 - 1 7 8 2 0 5 1 4 -
+p539
+aVJimmy Oliver CLE 12/30/1991 CLE vs. HOU W 5 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p540
+aVSteve Kerr CLE 12/30/1991 CLE vs. HOU W 7 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 0 -
+p541
+aVLarry Nance CLE 12/30/1991 CLE vs. HOU W 29 8 4 10 40.0 0 0 - 0 0 - 3 6 9 2 0 5 0 2 -
+p542
+aVWinston Bennett CLE 12/30/1991 CLE vs. HOU W 22 8 4 7 57.1 0 1 0.0 0 0 - 2 4 6 2 0 1 0 2 -
+p543
+aVJohn Battle CLE 12/30/1991 CLE vs. HOU W 23 8 3 6 50.0 0 1 0.0 2 2 100.0 0 1 1 7 1 0 5 0 -
+p544
+aVTerrell Brandon CLE 12/30/1991 CLE vs. HOU W 24 11 5 11 45.5 0 1 0.0 1 2 50.0 0 1 1 8 1 1 2 1 -
+p545
+aVBrad Daugherty CLE 12/30/1991 CLE vs. HOU W 27 18 6 8 75.0 0 0 - 6 6 100.0 0 7 7 1 0 0 0 0 -
+p546
+aVHenry James CLE 12/30/1991 CLE vs. HOU W 16 13 5 9 55.6 3 4 75.0 0 0 - 0 1 1 0 0 1 0 0 -
+p547
+aVMark Price CLE 12/30/1991 CLE vs. HOU W 19 17 5 7 71.4 1 2 50.0 6 6 100.0 0 1 1 10 1 1 2 2 -
+p548
+aVLarry Nance CLE 12/27/1991 CLE vs. SAN W 34 13 5 12 41.7 0 0 - 3 6 50.0 3 8 11 3 1 4 2 1 -
+p549
+aVTerrell Brandon CLE 12/27/1991 CLE vs. SAN W 18 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 1 0 0 5 1 -
+p550
+aVMark Price CLE 12/27/1991 CLE vs. SAN W 30 14 3 10 30.0 1 4 25.0 7 8 87.5 3 2 5 7 1 0 3 3 -
+p551
+aVCraig Ehlo CLE 12/27/1991 CLE vs. SAN W 39 6 3 11 27.3 0 3 0.0 0 0 - 1 5 6 6 0 0 0 2 -
+p552
+aVJohn Battle CLE 12/27/1991 CLE vs. SAN W 17 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 0 0 1 1 1 -
+p553
+aVHot Rod Williams CLE 12/27/1991 CLE vs. SAN W 28 12 4 8 50.0 0 0 - 4 6 66.7 4 3 7 2 3 5 1 1 -
+p554
+aVDanny Ferry CLE 12/27/1991 CLE vs. SAN W 11 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -
+p555
+aVHenry James CLE 12/27/1991 CLE vs. SAN W 11 2 0 3 0.0 0 2 0.0 2 2 100.0 2 0 2 1 0 0 1 2 -
+p556
+aVBrad Daugherty CLE 12/27/1991 CLE vs. SAN W 38 31 9 12 75.0 0 0 - 13 14 92.9 2 4 6 2 0 1 3 3 -
+p557
+aVWinston Bennett CLE 12/27/1991 CLE vs. SAN W 14 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -
+p558
+aVJohn Battle CLE 12/26/1991 CLE @ MIL W 22 16 6 11 54.5 0 0 - 4 4 100.0 0 1 1 0 0 0 2 0 -
+p559
+aVHot Rod Williams CLE 12/26/1991 CLE @ MIL W 31 16 7 16 43.8 0 0 - 2 3 66.7 5 10 15 3 0 1 0 2 -
+p560
+aVMark Price CLE 12/26/1991 CLE @ MIL W 26 15 5 12 41.7 2 4 50.0 3 3 100.0 1 1 2 5 1 0 2 1 -
+p561
+aVBrad Daugherty CLE 12/26/1991 CLE @ MIL W 34 16 6 9 66.7 0 0 - 4 4 100.0 1 7 8 3 0 5 6 4 -
+p562
+aVWinston Bennett CLE 12/26/1991 CLE @ MIL W 19 10 5 6 83.3 0 0 - 0 0 - 2 3 5 1 0 0 0 3 -
+p563
+aVDanny Ferry CLE 12/26/1991 CLE @ MIL W 21 12 6 9 66.7 0 1 0.0 0 0 - 2 0 2 3 0 0 2 1 -
+p564
+aVCraig Ehlo CLE 12/26/1991 CLE @ MIL W 36 9 4 8 50.0 0 3 0.0 1 1 100.0 3 5 8 6 2 0 5 4 -
+p565
+aVTerrell Brandon CLE 12/26/1991 CLE @ MIL W 22 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 4 1 1 1 2 -
+p566
+aVLarry Nance CLE 12/26/1991 CLE @ MIL W 29 11 3 8 37.5 0 0 - 5 6 83.3 4 3 7 2 0 1 0 3 -
+p567
+aVHenry James CLE 12/23/1991 CLE vs. UTH W 27 19 7 11 63.6 4 5 80.0 1 2 50.0 0 0 0 0 0 0 1 1 -
+p568
+aVHot Rod Williams CLE 12/23/1991 CLE vs. UTH W 29 6 1 4 25.0 0 0 - 4 6 66.7 1 8 9 1 0 2 0 4 -
+p569
+aVLarry Nance CLE 12/23/1991 CLE vs. UTH W 34 12 4 10 40.0 0 0 - 4 4 100.0 3 6 9 3 0 2 2 3 -
+p570
+aVBrad Daugherty CLE 12/23/1991 CLE vs. UTH W 37 19 8 15 53.3 0 0 - 3 4 75.0 5 7 12 4 0 1 2 3 -
+p571
+aVMark Price CLE 12/23/1991 CLE vs. UTH W 29 17 4 13 30.8 2 3 66.7 7 7 100.0 0 1 1 7 1 0 0 2 -
+p572
+aVCraig Ehlo CLE 12/23/1991 CLE vs. UTH W 27 14 5 12 41.7 2 4 50.0 2 4 50.0 2 4 6 4 1 0 1 5 -
+p573
+aVWinston Bennett CLE 12/23/1991 CLE vs. UTH W 11 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -
+p574
+aVTerrell Brandon CLE 12/23/1991 CLE vs. UTH W 19 10 5 9 55.6 0 1 0.0 0 0 - 2 0 2 5 0 0 0 0 -
+p575
+aVJohn Battle CLE 12/23/1991 CLE vs. UTH W 27 12 4 10 40.0 0 0 - 4 4 100.0 1 1 2 2 1 0 2 1 -
+p576
+aVDanny Ferry CLE 12/21/1991 CLE vs. CHH W 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 1 0 2 -
+p577
+aVSteve Kerr CLE 12/21/1991 CLE vs. CHH W 5 1 0 0 - 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 -
+p578
+aVCraig Ehlo CLE 12/21/1991 CLE vs. CHH W 22 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 6 0 0 4 2 -
+p579
+aVLarry Nance CLE 12/21/1991 CLE vs. CHH W 27 18 8 12 66.7 0 0 - 2 2 100.0 2 2 4 2 1 7 1 2 -
+p580
+aVHenry James CLE 12/21/1991 CLE vs. CHH W 22 17 8 11 72.7 1 3 33.3 0 0 - 1 1 2 0 0 0 3 0 -
+p581
+aVWinston Bennett CLE 12/21/1991 CLE vs. CHH W 21 7 3 6 50.0 0 0 - 1 2 50.0 0 5 5 1 0 0 1 2 -
+p582
+aVTerrell Brandon CLE 12/21/1991 CLE vs. CHH W 23 15 6 10 60.0 0 0 - 3 3 100.0 4 3 7 10 1 0 2 1 -
+p583
+aVJimmy Oliver CLE 12/21/1991 CLE vs. CHH W 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -
+p584
+aVBrad Daugherty CLE 12/21/1991 CLE vs. CHH W 32 24 10 17 58.8 0 0 - 4 6 66.7 6 3 9 4 1 1 3 3 -
+p585
+aVHot Rod Williams CLE 12/21/1991 CLE vs. CHH W 26 4 1 5 20.0 0 0 - 2 6 33.3 1 3 4 2 2 5 0 0 -
+p586
+aVJohn Battle CLE 12/21/1991 CLE vs. CHH W 12 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p587
+aVMark Price CLE 12/21/1991 CLE vs. CHH W 25 15 5 9 55.6 1 1 100.0 4 4 100.0 0 1 1 5 0 0 0 2 -
+p588
+aVBrad Daugherty CLE 12/20/1991 CLE @ ATL W 32 17 7 11 63.6 0 0 - 3 4 75.0 1 9 10 7 0 0 0 4 -
+p589
+aVTerrell Brandon CLE 12/20/1991 CLE @ ATL W 27 19 7 13 53.8 0 0 - 5 6 83.3 0 1 1 7 4 0 2 1 -
+p590
+aVLarry Nance CLE 12/20/1991 CLE @ ATL W 22 15 5 11 45.5 0 0 - 5 6 83.3 0 6 6 2 3 2 1 2 -
+p591
+aVHot Rod Williams CLE 12/20/1991 CLE @ ATL W 30 10 5 7 71.4 0 0 - 0 0 - 2 6 8 2 0 5 1 1 -
+p592
+aVJimmy Oliver CLE 12/20/1991 CLE @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p593
+aVWinston Bennett CLE 12/20/1991 CLE @ ATL W 19 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -
+p594
+aVCraig Ehlo CLE 12/20/1991 CLE @ ATL W 26 11 3 8 37.5 1 2 50.0 4 4 100.0 2 2 4 2 0 0 2 1 -
+p595
+aVJohn Battle CLE 12/20/1991 CLE @ ATL W 24 14 7 10 70.0 0 0 - 0 0 - 0 0 0 5 0 0 1 1 -
+p596
+aVHenry James CLE 12/20/1991 CLE @ ATL W 17 14 6 9 66.7 0 1 0.0 2 2 100.0 1 1 2 1 1 0 1 1 -
+p597
+aVSteve Kerr CLE 12/20/1991 CLE @ ATL W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 -
+p598
+aVDanny Ferry CLE 12/20/1991 CLE @ ATL W 21 12 6 7 85.7 0 0 - 0 0 - 3 3 6 0 1 0 2 3 -
+p599
+aVMark Price CLE 12/20/1991 CLE @ ATL W 20 2 1 8 12.5 0 4 0.0 0 0 - 0 2 2 4 3 0 1 0 -
+p600
+aVHot Rod Williams CLE 12/18/1991 CLE @ NJN L 30 23 9 13 69.2 0 0 - 5 7 71.4 5 5 10 0 0 4 4 1 -
+p601
+aVBrad Daugherty CLE 12/18/1991 CLE @ NJN L 34 16 6 19 31.6 0 0 - 4 6 66.7 6 3 9 0 1 1 6 1 -
+p602
+aVDanny Ferry CLE 12/18/1991 CLE @ NJN L 15 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 1 1 0 1 3 -
+p603
+aVJimmy Oliver CLE 12/18/1991 CLE @ NJN L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p604
+aVWinston Bennett CLE 12/18/1991 CLE @ NJN L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -
+p605
+aVLarry Nance CLE 12/18/1991 CLE @ NJN L 28 2 0 10 0.0 0 0 - 2 2 100.0 6 3 9 3 0 4 1 3 -
+p606
+aVCraig Ehlo CLE 12/18/1991 CLE @ NJN L 23 8 3 6 50.0 1 1 100.0 1 2 50.0 1 6 7 1 0 1 2 3 -
+p607
+aVJohn Battle CLE 12/18/1991 CLE @ NJN L 20 8 3 8 37.5 0 0 - 2 2 100.0 1 2 3 1 2 0 1 3 -
+p608
+aVHenry James CLE 12/18/1991 CLE @ NJN L 13 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 3 -
+p609
+aVMark Price CLE 12/18/1991 CLE @ NJN L 25 6 3 13 23.1 0 3 0.0 0 0 - 1 0 1 6 2 1 2 1 -
+p610
+aVTerrell Brandon CLE 12/18/1991 CLE @ NJN L 23 16 7 12 58.3 0 0 - 2 2 100.0 0 2 2 2 4 0 4 1 -
+p611
+aVSteve Kerr CLE 12/18/1991 CLE @ NJN L 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 0 -
+p612
+aVBrad Daugherty CLE 12/17/1991 CLE vs. MIA W 24 17 6 11 54.5 0 0 - 5 7 71.4 0 7 7 3 0 0 1 1 -
+p613
+aVLarry Nance CLE 12/17/1991 CLE vs. MIA W 21 9 4 8 50.0 0 0 - 1 2 50.0 1 3 4 3 3 2 0 2 -
+p614
+aVTerrell Brandon CLE 12/17/1991 CLE vs. MIA W 20 8 4 7 57.1 0 0 - 0 0 - 0 1 1 7 1 0 0 2 -
+p615
+aVWinston Bennett CLE 12/17/1991 CLE vs. MIA W 31 11 4 11 36.4 0 0 - 3 4 75.0 4 6 10 2 0 0 1 2 -
+p616
+aVDanny Ferry CLE 12/17/1991 CLE vs. MIA W 18 11 5 10 50.0 1 1 100.0 0 0 - 3 8 11 1 0 0 0 0 -
+p617
+aVHenry James CLE 12/17/1991 CLE vs. MIA W 15 17 7 14 50.0 1 4 25.0 2 2 100.0 5 3 8 1 2 0 1 0 -
+p618
+aVMark Price CLE 12/17/1991 CLE vs. MIA W 17 18 8 10 80.0 2 2 100.0 0 0 - 1 2 3 11 0 0 3 0 -
+p619
+aVSteve Kerr CLE 12/17/1991 CLE vs. MIA W 11 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 3 2 0 1 1 -
+p620
+aVCraig Ehlo CLE 12/17/1991 CLE vs. MIA W 24 7 3 5 60.0 1 2 50.0 0 0 - 0 4 4 3 3 0 0 1 -
+p621
+aVJohn Battle CLE 12/17/1991 CLE vs. MIA W 19 18 7 11 63.6 0 0 - 4 4 100.0 0 1 1 2 0 0 1 2 -
+p622
+aVHot Rod Williams CLE 12/17/1991 CLE vs. MIA W 25 16 5 8 62.5 0 0 - 6 6 100.0 4 2 6 0 0 3 0 3 -
+p623
+aVJimmy Oliver CLE 12/17/1991 CLE vs. MIA W 15 11 4 6 66.7 0 1 0.0 3 4 75.0 1 1 2 3 0 0 1 2 -
+p624
+aVTerrell Brandon CLE 12/14/1991 CLE vs. DAL L 16 0 0 5 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 1 -
+p625
+aVMark Price CLE 12/14/1991 CLE vs. DAL L 32 14 6 10 60.0 2 3 66.7 0 0 - 0 2 2 10 1 1 2 1 -
+p626
+aVHot Rod Williams CLE 12/14/1991 CLE vs. DAL L 30 12 5 6 83.3 0 0 - 2 2 100.0 5 4 9 2 0 0 2 0 -
+p627
+aVBrad Daugherty CLE 12/14/1991 CLE vs. DAL L 38 24 7 15 46.7 0 0 - 10 10 100.0 6 9 15 5 2 2 0 4 -
+p628
+aVJohn Battle CLE 12/14/1991 CLE vs. DAL L 26 12 5 8 62.5 0 0 - 2 2 100.0 0 1 1 4 1 0 0 1 -
+p629
+aVLarry Nance CLE 12/14/1991 CLE vs. DAL L 35 16 8 19 42.1 0 0 - 0 0 - 1 5 6 3 1 2 0 0 -
+p630
+aVWinston Bennett CLE 12/14/1991 CLE vs. DAL L 25 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 1 0 0 0 1 -
+p631
+aVHenry James CLE 12/14/1991 CLE vs. DAL L 12 2 1 8 12.5 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p632
+aVCraig Ehlo CLE 12/14/1991 CLE vs. DAL L 26 10 4 11 36.4 2 4 50.0 0 1 0.0 0 2 2 2 3 0 2 1 -
+p633
+aVJimmy Oliver CLE 12/12/1991 CLE vs. ATL W 5 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -
+p634
+aVWinston Bennett CLE 12/12/1991 CLE vs. ATL W 27 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 1 2 2 5 -
+p635
+aVHot Rod Williams CLE 12/12/1991 CLE vs. ATL W 28 10 4 5 80.0 0 0 - 2 2 100.0 1 6 7 0 1 3 4 2 -
+p636
+aVMark Price CLE 12/12/1991 CLE vs. ATL W 19 8 4 8 50.0 0 3 0.0 0 0 - 0 0 0 7 2 0 2 2 -
+p637
+aVCraig Ehlo CLE 12/12/1991 CLE vs. ATL W 24 19 7 13 53.8 3 5 60.0 2 2 100.0 0 1 1 2 0 0 0 2 -
+p638
+aVTerrell Brandon CLE 12/12/1991 CLE vs. ATL W 24 12 5 8 62.5 0 0 - 2 2 100.0 0 2 2 7 1 0 0 0 -
+p639
+aVSteve Kerr CLE 12/12/1991 CLE vs. ATL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p640
+aVHenry James CLE 12/12/1991 CLE vs. ATL W 18 18 7 12 58.3 0 0 - 4 4 100.0 2 3 5 1 0 0 0 4 -
+p641
+aVDanny Ferry CLE 12/12/1991 CLE vs. ATL W 8 7 1 4 25.0 0 0 - 5 6 83.3 1 3 4 0 0 0 1 3 -
+p642
+aVJohn Battle CLE 12/12/1991 CLE vs. ATL W 18 6 1 6 16.7 0 0 - 4 4 100.0 0 0 0 4 0 0 0 2 -
+p643
+aVBrad Daugherty CLE 12/12/1991 CLE vs. ATL W 32 20 5 11 45.5 0 0 - 10 13 76.9 5 10 15 7 0 0 1 3 -
+p644
+aVLarry Nance CLE 12/12/1991 CLE vs. ATL W 31 26 12 15 80.0 0 0 - 2 2 100.0 0 8 8 4 1 2 1 5 -
+p645
+aVWinston Bennett CLE 12/11/1991 CLE @ MIA L 12 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p646
+aVTerrell Brandon CLE 12/11/1991 CLE @ MIA L 23 12 5 11 45.5 0 0 - 2 2 100.0 1 4 5 2 0 0 2 3 -
+p647
+aVMark Price CLE 12/11/1991 CLE @ MIA L 31 21 7 15 46.7 2 4 50.0 5 6 83.3 2 1 3 4 1 0 3 0 -
+p648
+aVBrad Daugherty CLE 12/11/1991 CLE @ MIA L 29 12 3 12 25.0 0 0 - 6 8 75.0 1 8 9 4 0 2 1 0 -
+p649
+aVHenry James CLE 12/11/1991 CLE @ MIA L 26 11 3 10 30.0 0 2 0.0 5 5 100.0 1 6 7 1 0 1 1 1 -
+p650
+aVCraig Ehlo CLE 12/11/1991 CLE @ MIA L 29 11 4 9 44.4 2 4 50.0 1 2 50.0 2 3 5 1 0 0 3 2 -
+p651
+aVLarry Nance CLE 12/11/1991 CLE @ MIA L 30 17 6 13 46.2 0 0 - 5 6 83.3 5 6 11 0 1 3 1 5 -
+p652
+aVJohn Battle CLE 12/11/1991 CLE @ MIA L 20 0 0 7 0.0 0 0 - 0 0 - 0 0 0 1 1 0 3 0 -
+p653
+aVHot Rod Williams CLE 12/11/1991 CLE @ MIA L 33 18 7 12 58.3 0 0 - 4 7 57.1 10 6 16 3 3 5 1 6 -
+p654
+aVDanny Ferry CLE 12/11/1991 CLE @ MIA L 7 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 1 0 1 3 -
+p655
+aVLarry Nance CLE 12/07/1991 CLE vs. WAS W 37 14 5 12 41.7 0 0 - 4 4 100.0 3 5 8 2 4 5 2 3 -
+p656
+aVSteve Kerr CLE 12/07/1991 CLE vs. WAS W 26 8 4 7 57.1 0 2 0.0 0 0 - 1 1 2 5 0 0 2 1 -
+p657
+aVWinston Bennett CLE 12/07/1991 CLE vs. WAS W 20 10 3 5 60.0 0 0 - 4 5 80.0 2 4 6 2 0 0 0 0 -
+p658
+aVBrad Daugherty CLE 12/07/1991 CLE vs. WAS W 40 23 7 11 63.6 0 0 - 9 14 64.3 0 8 8 6 3 1 3 4 -
+p659
+aVHenry James CLE 12/07/1991 CLE vs. WAS W 12 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 0 0 0 0 3 -
+p660
+aVJohn Battle CLE 12/07/1991 CLE vs. WAS W 21 9 4 12 33.3 0 1 0.0 1 2 50.0 0 0 0 1 0 0 2 3 -
+p661
+aVCraig Ehlo CLE 12/07/1991 CLE vs. WAS W 32 14 5 10 50.0 4 5 80.0 0 0 - 0 5 5 5 0 0 0 4 -
+p662
+aVHot Rod Williams CLE 12/07/1991 CLE vs. WAS W 29 7 2 9 22.2 0 0 - 3 4 75.0 4 12 16 5 0 2 1 1 -
+p663
+aVTerrell Brandon CLE 12/07/1991 CLE vs. WAS W 23 6 3 8 37.5 0 0 - 0 0 - 0 2 2 2 1 0 4 1 -
+p664
+aVTerrell Brandon CLE 12/05/1991 CLE @ DET W 22 10 4 9 44.4 0 0 - 2 2 100.0 2 3 5 4 1 0 0 2 -
+p665
+aVBrad Daugherty CLE 12/05/1991 CLE @ DET W 36 25 8 15 53.3 0 0 - 9 10 90.0 2 7 9 1 2 0 1 2 -
+p666
+aVJohn Battle CLE 12/05/1991 CLE @ DET W 23 11 5 7 71.4 0 0 - 1 1 100.0 1 2 3 2 1 0 2 1 -
+p667
+aVCraig Ehlo CLE 12/05/1991 CLE @ DET W 29 9 3 7 42.9 1 1 100.0 2 4 50.0 2 2 4 3 1 0 0 2 -
+p668
+aVWinston Bennett CLE 12/05/1991 CLE @ DET W 15 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 2 0 0 1 3 -
+p669
+aVDanny Ferry CLE 12/05/1991 CLE @ DET W 17 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 4 0 0 1 5 -
+p670
+aVMark Price CLE 12/05/1991 CLE @ DET W 26 15 4 13 30.8 1 4 25.0 6 6 100.0 0 1 1 5 2 0 2 2 -
+p671
+aVHot Rod Williams CLE 12/05/1991 CLE @ DET W 35 16 7 13 53.8 0 0 - 2 2 100.0 6 6 12 2 1 2 0 6 -
+p672
+aVLarry Nance CLE 12/05/1991 CLE @ DET W 37 15 6 16 37.5 0 0 - 3 4 75.0 5 4 9 2 1 4 0 2 -
+p673
+aVHenry James CLE 12/04/1991 CLE @ CHI L 17 12 4 6 66.7 2 3 66.7 2 2 100.0 0 1 1 1 0 0 3 6 -
+p674
+aVJohn Battle CLE 12/04/1991 CLE @ CHI L 24 4 1 6 16.7 0 1 0.0 2 2 100.0 0 1 1 4 1 0 1 0 -
+p675
+aVMark Price CLE 12/04/1991 CLE @ CHI L 28 11 4 12 33.3 1 2 50.0 2 2 100.0 1 1 2 6 1 0 0 0 -
+p676
+aVWinston Bennett CLE 12/04/1991 CLE @ CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -
+p677
+aVHot Rod Williams CLE 12/04/1991 CLE @ CHI L 33 22 8 11 72.7 0 0 - 6 10 60.0 7 4 11 2 1 0 1 2 -
+p678
+aVCraig Ehlo CLE 12/04/1991 CLE @ CHI L 40 13 6 15 40.0 1 5 20.0 0 1 0.0 0 1 1 5 2 0 5 3 -
+p679
+aVDanny Ferry CLE 12/04/1991 CLE @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p680
+aVLarry Nance CLE 12/04/1991 CLE @ CHI L 42 12 6 15 40.0 0 0 - 0 2 0.0 5 2 7 0 1 5 2 4 -
+p681
+aVBrad Daugherty CLE 12/04/1991 CLE @ CHI L 41 26 9 18 50.0 0 0 - 8 9 88.9 2 7 9 4 2 0 3 5 -
+p682
+aVTerrell Brandon CLE 12/04/1991 CLE @ CHI L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p683
+aVJohn Battle CLE 11/29/1991 CLE vs. ORL W 24 10 4 10 40.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 2 -
+p684
+aVBrad Daugherty CLE 11/29/1991 CLE vs. ORL W 44 29 12 20 60.0 0 0 - 5 8 62.5 7 7 14 5 1 1 4 6 -
+p685
+aVWinston Bennett CLE 11/29/1991 CLE vs. ORL W 26 4 0 5 0.0 0 0 - 4 4 100.0 2 5 7 3 1 0 1 1 -
+p686
+aVTerrell Brandon CLE 11/29/1991 CLE vs. ORL W 17 9 2 5 40.0 1 2 50.0 4 4 100.0 0 3 3 3 1 0 2 3 -
+p687
+aVMark Price CLE 11/29/1991 CLE vs. ORL W 30 16 7 14 50.0 0 1 0.0 2 2 100.0 1 3 4 13 4 0 1 2 -
+p688
+aVLarry Nance CLE 11/29/1991 CLE vs. ORL W 33 15 6 11 54.5 0 0 - 3 3 100.0 1 5 6 1 0 1 0 1 -
+p689
+aVHot Rod Williams CLE 11/29/1991 CLE vs. ORL W 28 7 3 8 37.5 0 0 - 1 1 100.0 1 4 5 4 0 7 2 2 -
+p690
+aVCraig Ehlo CLE 11/29/1991 CLE vs. ORL W 29 19 7 16 43.8 0 1 0.0 5 5 100.0 2 2 4 3 1 0 1 2 -
+p691
+aVHenry James CLE 11/29/1991 CLE vs. ORL W 9 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -
+p692
+aVDanny Ferry CLE 11/27/1991 CLE vs. PHL W 6 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 1 0 0 0 -
+p693
+aVSteve Kerr CLE 11/27/1991 CLE vs. PHL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p694
+aVLarry Nance CLE 11/27/1991 CLE vs. PHL W 37 18 6 10 60.0 0 0 - 6 6 100.0 2 5 7 5 1 8 1 2 -
+p695
+aVHot Rod Williams CLE 11/27/1991 CLE vs. PHL W 31 12 3 7 42.9 0 0 - 6 8 75.0 1 6 7 0 1 6 0 2 -
+p696
+aVCraig Ehlo CLE 11/27/1991 CLE vs. PHL W 26 5 2 8 25.0 0 1 0.0 1 2 50.0 4 2 6 3 1 0 1 2 -
+p697
+aVMark Price CLE 11/27/1991 CLE vs. PHL W 22 12 5 8 62.5 1 1 100.0 1 1 100.0 0 2 2 12 2 0 2 1 -
+p698
+aVHenry James CLE 11/27/1991 CLE vs. PHL W 17 12 4 9 44.4 2 5 40.0 2 2 100.0 1 1 2 0 0 0 0 0 -
+p699
+aVJohn Battle CLE 11/27/1991 CLE vs. PHL W 23 11 5 9 55.6 0 1 0.0 1 1 100.0 0 2 2 4 0 0 1 2 -
+p700
+aVBrad Daugherty CLE 11/27/1991 CLE vs. PHL W 36 31 14 21 66.7 0 0 - 3 4 75.0 3 6 9 4 0 1 2 2 -
+p701
+aVTerrell Brandon CLE 11/27/1991 CLE vs. PHL W 23 6 3 7 42.9 0 0 - 0 0 - 3 3 6 6 0 1 3 2 -
+p702
+aVWinston Bennett CLE 11/27/1991 CLE vs. PHL W 16 0 0 4 0.0 0 0 - 0 0 - 1 5 6 1 0 1 1 2 -
+p703
+aVLarry Nance CLE 11/26/1991 CLE @ PHL W 35 14 6 10 60.0 0 0 - 2 4 50.0 1 2 3 3 1 5 2 1 -
+p704
+aVSteve Kerr CLE 11/26/1991 CLE @ PHL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -
+p705
+aVMark Price CLE 11/26/1991 CLE @ PHL W 22 12 4 6 66.7 1 2 50.0 3 3 100.0 0 2 2 8 2 0 1 1 -
+p706
+aVHenry James CLE 11/26/1991 CLE @ PHL W 24 14 6 12 50.0 2 3 66.7 0 2 0.0 0 3 3 1 0 0 2 0 -
+p707
+aVWinston Bennett CLE 11/26/1991 CLE @ PHL W 14 6 3 4 75.0 0 0 - 0 1 0.0 0 1 1 0 0 1 0 3 -
+p708
+aVTerrell Brandon CLE 11/26/1991 CLE @ PHL W 19 0 0 6 0.0 0 2 0.0 0 0 - 0 2 2 5 5 0 1 2 -
+p709
+aVDanny Ferry CLE 11/26/1991 CLE @ PHL W 11 2 1 6 16.7 0 0 - 0 0 - 1 6 7 1 1 0 0 3 -
+p710
+aVHot Rod Williams CLE 11/26/1991 CLE @ PHL W 23 4 1 10 10.0 0 0 - 2 4 50.0 4 2 6 3 1 0 0 3 -
+p711
+aVBrad Daugherty CLE 11/26/1991 CLE @ PHL W 37 31 8 15 53.3 0 0 - 15 16 93.8 2 5 7 1 1 1 1 3 -
+p712
+aVJohn Battle CLE 11/26/1991 CLE @ PHL W 21 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -
+p713
+aVCraig Ehlo CLE 11/26/1991 CLE @ PHL W 27 10 5 11 45.5 0 2 0.0 0 0 - 2 3 5 1 1 0 1 1 -
+p714
+aVJohn Battle CLE 11/23/1991 CLE vs. DET W 23 13 5 11 45.5 0 0 - 3 3 100.0 3 1 4 4 0 0 3 2 -
+p715
+aVChucky Brown CLE 11/23/1991 CLE vs. DET W 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -
+p716
+aVSteve Kerr CLE 11/23/1991 CLE vs. DET W 25 7 2 6 33.3 1 1 100.0 2 2 100.0 0 1 1 3 0 0 0 2 -
+p717
+aVHenry James CLE 11/23/1991 CLE vs. DET W 9 10 4 7 57.1 1 3 33.3 1 2 50.0 0 2 2 0 0 0 1 2 -
+p718
+aVDanny Ferry CLE 11/23/1991 CLE vs. DET W 15 6 2 6 33.3 0 0 - 2 2 100.0 3 1 4 1 0 0 0 5 -
+p719
+aVWinston Bennett CLE 11/23/1991 CLE vs. DET W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -
+p720
+aVHot Rod Williams CLE 11/23/1991 CLE vs. DET W 27 8 4 7 57.1 0 0 - 0 1 0.0 2 7 9 3 1 2 0 3 -
+p721
+aVTerrell Brandon CLE 11/23/1991 CLE vs. DET W 23 10 5 9 55.6 0 1 0.0 0 2 0.0 0 0 0 2 0 0 1 3 -
+p722
+aVCraig Ehlo CLE 11/23/1991 CLE vs. DET W 26 8 2 6 33.3 1 2 50.0 3 4 75.0 0 2 2 3 4 0 1 3 -
+p723
+aVBrad Daugherty CLE 11/23/1991 CLE vs. DET W 36 19 8 12 66.7 0 0 - 3 4 75.0 0 12 12 3 1 2 3 3 -
+p724
+aVLarry Nance CLE 11/23/1991 CLE vs. DET W 42 13 6 13 46.2 0 0 - 1 1 100.0 5 4 9 8 1 6 1 1 -
+p725
+aVSteve Kerr CLE 11/21/1991 CLE vs. NJN W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p726
+aVMark Price CLE 11/21/1991 CLE vs. NJN W 28 24 7 13 53.8 0 2 0.0 10 10 100.0 1 0 1 3 1 0 3 2 -
+p727
+aVChucky Brown CLE 11/21/1991 CLE vs. NJN W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p728
+aVCraig Ehlo CLE 11/21/1991 CLE vs. NJN W 38 6 1 7 14.3 1 2 50.0 3 4 75.0 0 3 3 3 2 0 4 2 -
+p729
+aVBrad Daugherty CLE 11/21/1991 CLE vs. NJN W 37 26 8 14 57.1 0 0 - 10 13 76.9 6 9 15 3 1 2 3 3 -
+p730
+aVLarry Nance CLE 11/21/1991 CLE vs. NJN W 38 25 9 19 47.4 0 0 - 7 9 77.8 4 13 17 4 1 1 1 1 -
+p731
+aVDanny Ferry CLE 11/21/1991 CLE vs. NJN W 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -
+p732
+aVHot Rod Williams CLE 11/21/1991 CLE vs. NJN W 22 7 3 6 50.0 0 0 - 1 4 25.0 1 0 1 4 1 0 1 0 -
+p733
+aVWinston Bennett CLE 11/21/1991 CLE vs. NJN W 21 6 2 3 66.7 0 0 - 2 2 100.0 4 1 5 2 1 1 0 4 -
+p734
+aVJohn Battle CLE 11/21/1991 CLE vs. NJN W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p735
+aVTerrell Brandon CLE 11/21/1991 CLE vs. NJN W 24 10 4 10 40.0 0 0 - 2 2 100.0 1 0 1 4 1 0 0 0 -
+p736
+aVHenry James CLE 11/21/1991 CLE vs. NJN W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p737
+aVBrad Daugherty CLE 11/20/1991 CLE @ CHH L 33 18 8 15 53.3 0 0 - 2 2 100.0 4 4 8 2 0 0 5 2 -
+p738
+aVHenry James CLE 11/20/1991 CLE @ CHH L 16 12 5 11 45.5 1 2 50.0 1 2 50.0 0 0 0 1 1 0 2 0 -
+p739
+aVCraig Ehlo CLE 11/20/1991 CLE @ CHH L 44 21 9 23 39.1 1 7 14.3 2 2 100.0 6 5 11 6 0 0 2 4 -
+p740
+aVMark Price CLE 11/20/1991 CLE @ CHH L 26 14 5 9 55.6 2 2 100.0 2 2 100.0 2 2 4 8 0 0 1 2 -
+p741
+aVJohn Battle CLE 11/20/1991 CLE @ CHH L 21 9 4 10 40.0 0 0 - 1 2 50.0 0 2 2 1 1 0 1 2 -
+p742
+aVDanny Ferry CLE 11/20/1991 CLE @ CHH L 9 2 0 0 - 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -
+p743
+aVLarry Nance CLE 11/20/1991 CLE @ CHH L 28 12 5 11 45.5 0 0 - 2 3 66.7 1 2 3 4 1 0 0 1 -
+p744
+aVWinston Bennett CLE 11/20/1991 CLE @ CHH L 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -
+p745
+aVHot Rod Williams CLE 11/20/1991 CLE @ CHH L 27 8 4 7 57.1 0 0 - 0 1 0.0 2 1 3 2 1 1 1 1 -
+p746
+aVTerrell Brandon CLE 11/20/1991 CLE @ CHH L 22 8 4 10 40.0 0 0 - 0 0 - 1 3 4 5 2 0 1 0 -
+p747
+aVBrad Daugherty CLE 11/16/1991 CLE vs. IND W 42 27 11 15 73.3 0 0 - 5 9 55.6 2 6 8 8 1 5 2 1 -
+p748
+aVJohn Battle CLE 11/16/1991 CLE vs. IND W 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -
+p749
+aVLarry Nance CLE 11/16/1991 CLE vs. IND W 38 32 12 14 85.7 0 0 - 8 10 80.0 5 7 12 1 2 2 0 1 -
+p750
+aVTerrell Brandon CLE 11/16/1991 CLE vs. IND W 22 5 2 8 25.0 0 1 0.0 1 4 25.0 2 1 3 5 0 0 1 3 -
+p751
+aVDanny Ferry CLE 11/16/1991 CLE vs. IND W 6 2 0 0 - 0 0 - 2 4 50.0 1 1 2 1 0 0 0 1 -
+p752
+aVHenry James CLE 11/16/1991 CLE vs. IND W 19 7 3 9 33.3 1 3 33.3 0 0 - 1 2 3 0 0 0 1 1 -
+p753
+aVHot Rod Williams CLE 11/16/1991 CLE vs. IND W 24 18 4 6 66.7 0 0 - 10 10 100.0 3 5 8 1 0 0 0 5 -
+p754
+aVMark Price CLE 11/16/1991 CLE vs. IND W 26 13 2 9 22.2 2 6 33.3 7 7 100.0 1 2 3 9 1 2 2 2 -
+p755
+aVCraig Ehlo CLE 11/16/1991 CLE vs. IND W 40 19 7 12 58.3 3 5 60.0 2 2 100.0 1 3 4 5 1 1 2 3 -
+p756
+aVWinston Bennett CLE 11/16/1991 CLE vs. IND W 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 2 3 -
+p757
+aVCraig Ehlo CLE 11/14/1991 CLE vs. SEA W 47 17 7 13 53.8 0 1 0.0 3 4 75.0 2 3 5 1 0 0 3 5 -
+p758
+aVLarry Nance CLE 11/14/1991 CLE vs. SEA W 46 23 10 18 55.6 0 0 - 3 4 75.0 2 6 8 2 1 2 1 1 -
+p759
+aVBrad Daugherty CLE 11/14/1991 CLE vs. SEA W 45 23 7 13 53.8 0 0 - 9 10 90.0 3 7 10 5 0 6 2 3 -
+p760
+aVHot Rod Williams CLE 11/14/1991 CLE vs. SEA W 38 10 1 7 14.3 0 0 - 8 10 80.0 3 10 13 3 1 1 1 4 -
+p761
+aVJohn Battle CLE 11/14/1991 CLE vs. SEA W 9 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -
+p762
+aVWinston Bennett CLE 11/14/1991 CLE vs. SEA W 23 6 2 4 50.0 0 0 - 2 2 100.0 3 3 6 1 1 1 3 3 -
+p763
+aVMark Price CLE 11/14/1991 CLE vs. SEA W 23 14 6 9 66.7 2 4 50.0 0 0 - 0 2 2 10 1 0 1 3 -
+p764
+aVSteve Kerr CLE 11/14/1991 CLE vs. SEA W 6 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p765
+aVTerrell Brandon CLE 11/14/1991 CLE vs. SEA W 28 14 6 14 42.9 0 0 - 2 2 100.0 0 0 0 4 1 0 2 1 -
+p766
+aVMark Price CLE 11/12/1991 CLE vs. MIL W 15 11 3 6 50.0 0 1 0.0 5 5 100.0 0 3 3 4 2 0 2 0 -
+p767
+aVBrad Daugherty CLE 11/12/1991 CLE vs. MIL W 36 25 9 12 75.0 0 0 - 7 10 70.0 0 6 6 2 0 1 2 2 -
+p768
+aVSteve Kerr CLE 11/12/1991 CLE vs. MIL W 14 6 2 5 40.0 0 3 0.0 2 4 50.0 0 0 0 3 0 0 2 2 -
+p769
+aVChucky Brown CLE 11/12/1991 CLE vs. MIL W 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 2 0 0 0 2 -
+p770
+aVTerrell Brandon CLE 11/12/1991 CLE vs. MIL W 30 12 6 12 50.0 0 1 0.0 0 0 - 1 3 4 11 1 0 4 1 -
+p771
+aVLarry Nance CLE 11/12/1991 CLE vs. MIL W 27 10 4 8 50.0 0 0 - 2 2 100.0 2 2 4 4 1 3 2 3 -
+p772
+aVHenry James CLE 11/12/1991 CLE vs. MIL W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p773
+aVDanny Ferry CLE 11/12/1991 CLE vs. MIL W 12 11 1 4 25.0 0 1 0.0 9 10 90.0 0 3 3 0 1 0 2 5 -
+p774
+aVJohn Morton CLE 11/12/1991 CLE vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p775
+aVCraig Ehlo CLE 11/12/1991 CLE vs. MIL W 34 22 8 13 61.5 4 5 80.0 2 2 100.0 2 8 10 5 4 0 2 2 -
+p776
+aVHot Rod Williams CLE 11/12/1991 CLE vs. MIL W 24 12 5 9 55.6 0 0 - 2 2 100.0 2 0 2 1 1 0 2 1 -
+p777
+aVWinston Bennett CLE 11/12/1991 CLE vs. MIL W 29 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 1 0 2 3 -
+p778
+aVHot Rod Williams CLE 11/08/1991 CLE @ SAN L 40 14 5 13 38.5 0 0 - 4 4 100.0 3 7 10 2 1 0 2 3 -
+p779
+aVLarry Nance CLE 11/08/1991 CLE @ SAN L 33 11 5 11 45.5 0 0 - 1 3 33.3 2 7 9 3 0 1 4 6 -
+p780
+aVWinston Bennett CLE 11/08/1991 CLE @ SAN L 18 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 4 -
+p781
+aVCraig Ehlo CLE 11/08/1991 CLE @ SAN L 48 29 12 25 48.0 3 5 60.0 2 2 100.0 1 6 7 6 3 4 0 3 -
+p782
+aVDanny Ferry CLE 11/08/1991 CLE @ SAN L 20 5 1 6 16.7 0 0 - 3 4 75.0 0 0 0 1 0 0 0 2 -
+p783
+aVTerrell Brandon CLE 11/08/1991 CLE @ SAN L 44 10 5 17 29.4 0 2 0.0 0 0 - 0 3 3 2 5 1 2 2 -
+p784
+aVSteve Kerr CLE 11/08/1991 CLE @ SAN L 21 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 0 0 2 1 -
+p785
+aVBrad Daugherty CLE 11/08/1991 CLE @ SAN L 41 26 10 18 55.6 0 1 0.0 6 11 54.5 2 8 10 1 3 2 4 5 -
+p786
+aVLarry Nance CLE 11/07/1991 CLE @ HOU L 34 20 8 15 53.3 0 0 - 4 6 66.7 3 3 6 2 0 2 1 2 -
+p787
+aVChucky Brown CLE 11/07/1991 CLE @ HOU L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p788
+aVHenry James CLE 11/07/1991 CLE @ HOU L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p789
+aVCraig Ehlo CLE 11/07/1991 CLE @ HOU L 34 13 6 13 46.2 1 3 33.3 0 1 0.0 0 1 1 2 1 1 3 1 -
+p790
+aVTerrell Brandon CLE 11/07/1991 CLE @ HOU L 34 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 5 2 0 2 1 -
+p791
+aVJohn Morton CLE 11/07/1991 CLE @ HOU L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p792
+aVSteve Kerr CLE 11/07/1991 CLE @ HOU L 24 7 3 8 37.5 0 3 0.0 1 1 100.0 0 2 2 5 1 0 0 3 -
+p793
+aVJimmy Oliver CLE 11/07/1991 CLE @ HOU L 3 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p794
+aVHot Rod Williams CLE 11/07/1991 CLE @ HOU L 22 8 3 6 50.0 0 0 - 2 2 100.0 3 1 4 0 0 0 1 1 -
+p795
+aVWinston Bennett CLE 11/07/1991 CLE @ HOU L 19 6 3 10 30.0 0 0 - 0 0 - 2 7 9 1 1 0 0 2 -
+p796
+aVDanny Ferry CLE 11/07/1991 CLE @ HOU L 12 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 -
+p797
+aVBrad Daugherty CLE 11/07/1991 CLE @ HOU L 36 13 5 12 41.7 0 0 - 3 4 75.0 2 8 10 6 1 0 2 1 -
+p798
+aVLarry Nance CLE 11/05/1991 CLE @ DAL W 33 29 11 13 84.6 0 0 - 7 7 100.0 2 3 5 1 1 2 3 3 -
+p799
+aVSteve Kerr CLE 11/05/1991 CLE @ DAL W 23 6 2 7 28.6 0 2 0.0 2 2 100.0 1 2 3 1 0 0 1 2 -
+p800
+aVCraig Ehlo CLE 11/05/1991 CLE @ DAL W 42 22 9 20 45.0 0 3 0.0 4 4 100.0 3 7 10 5 2 0 0 2 -
+p801
+aVDanny Ferry CLE 11/05/1991 CLE @ DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p802
+aVWinston Bennett CLE 11/05/1991 CLE @ DAL W 18 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 5 -
+p803
+aVTerrell Brandon CLE 11/05/1991 CLE @ DAL W 39 19 5 9 55.6 0 0 - 9 12 75.0 1 3 4 7 0 0 2 2 -
+p804
+aVHenry James CLE 11/05/1991 CLE @ DAL W 16 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 0 2 1 1 2 -
+p805
+aVBrad Daugherty CLE 11/05/1991 CLE @ DAL W 37 20 7 12 58.3 0 0 - 6 8 75.0 3 9 12 6 0 2 2 1 -
+p806
+aVHot Rod Williams CLE 11/05/1991 CLE @ DAL W 27 11 3 5 60.0 0 0 - 5 6 83.3 1 2 3 2 2 0 1 3 -
+p807
+aVJohn Morton CLE 11/02/1991 CLE @ LAC L 24 7 2 6 33.3 0 0 - 3 4 75.0 2 2 4 4 0 0 1 1 -
+p808
+aVHenry James CLE 11/02/1991 CLE @ LAC L 27 17 7 14 50.0 1 3 33.3 2 2 100.0 1 2 3 0 0 0 1 3 -
+p809
+aVChucky Brown CLE 11/02/1991 CLE @ LAC L 10 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 1 1 0 0 1 -
+p810
+aVBrad Daugherty CLE 11/02/1991 CLE @ LAC L 36 20 9 14 64.3 0 0 - 2 4 50.0 2 8 10 3 3 2 3 4 -
+p811
+aVCraig Ehlo CLE 11/02/1991 CLE @ LAC L 20 8 2 8 25.0 1 2 50.0 3 4 75.0 0 2 2 3 0 0 1 5 -
+p812
+aVTerrell Brandon CLE 11/02/1991 CLE @ LAC L 19 8 4 9 44.4 0 0 - 0 0 - 0 1 1 2 1 0 1 3 -
+p813
+aVSteve Kerr CLE 11/02/1991 CLE @ LAC L 17 12 4 7 57.1 2 5 40.0 2 3 66.7 0 1 1 1 1 0 1 1 -
+p814
+aVHot Rod Williams CLE 11/02/1991 CLE @ LAC L 25 4 2 7 28.6 0 1 0.0 0 0 - 1 6 7 2 0 1 2 2 -
+p815
+aVDanny Ferry CLE 11/02/1991 CLE @ LAC L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p816
+aVLarry Nance CLE 11/02/1991 CLE @ LAC L 37 17 7 13 53.8 0 0 - 3 3 100.0 4 5 9 4 0 1 2 4 -
+p817
+aVJimmy Oliver CLE 11/02/1991 CLE @ LAC L 21 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 5 -
+p818
+aVSteve Kerr CLE 11/01/1991 CLE @ POR L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -
+p819
+aVDanny Ferry CLE 11/01/1991 CLE @ POR L 24 10 4 10 40.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 3 -
+p820
+aVHot Rod Williams CLE 11/01/1991 CLE @ POR L 22 8 4 7 57.1 0 0 - 0 0 - 2 1 3 3 0 0 1 2 -
+p821
+aVBrad Daugherty CLE 11/01/1991 CLE @ POR L 39 23 9 14 64.3 0 0 - 5 6 83.3 4 10 14 2 0 1 5 2 -
+p822
+aVCraig Ehlo CLE 11/01/1991 CLE @ POR L 35 15 6 12 50.0 3 6 50.0 0 0 - 2 2 4 8 1 0 2 2 -
+p823
+aVHenry James CLE 11/01/1991 CLE @ POR L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 4 -
+p824
+aVLarry Nance CLE 11/01/1991 CLE @ POR L 33 21 10 17 58.8 0 0 - 1 1 100.0 3 5 8 0 0 4 3 5 -
+p825
+aVTerrell Brandon CLE 11/01/1991 CLE @ POR L 30 15 6 15 40.0 0 1 0.0 3 3 100.0 1 2 3 6 3 0 2 3 -
+p826
+aVJimmy Oliver CLE 11/01/1991 CLE @ POR L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -
+p827
+aVChucky Brown CLE 11/01/1991 CLE @ POR L 12 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 2 1 -
+p828
+aVJohn Morton CLE 11/01/1991 CLE @ POR L 18 5 1 6 16.7 0 1 0.0 3 3 100.0 1 1 2 1 1 0 2 2 -
+p829
+a.

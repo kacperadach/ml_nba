@@ -1,0 +1,94 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVElden Campbell LAL 05/09/1993 LAL @ PHX L 42 17 7 16 43.8 0 0 - 3 5 60.0 3 6 9 1 3 5 1 1 -
+p2
+aVVlade Divac LAL 05/09/1993 LAL @ PHX L 21 12 6 8 75.0 0 0 - 0 0 - 2 2 4 6 0 1 2 5 -
+p3
+aVSedale Threatt LAL 05/09/1993 LAL @ PHX L 46 18 7 20 35.0 0 2 0.0 4 5 80.0 1 3 4 9 3 0 2 6 -
+p4
+aVDoug Christie LAL 05/09/1993 LAL @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p5
+aVJames Edwards LAL 05/09/1993 LAL @ PHX L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p6
+aVJames Worthy LAL 05/09/1993 LAL @ PHX L 39 24 11 23 47.8 1 2 50.0 1 2 50.0 0 1 1 2 2 0 2 2 -
+p7
+aVA.C. Green LAL 05/09/1993 LAL @ PHX L 50 15 6 16 37.5 0 2 0.0 3 5 60.0 10 9 19 3 1 1 0 6 -
+p8
+aVTony Smith LAL 05/09/1993 LAL @ PHX L 13 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 -
+p9
+aVByron Scott LAL 05/09/1993 LAL @ PHX L 42 11 3 8 37.5 2 5 40.0 3 4 75.0 0 5 5 1 1 0 0 3 -
+p10
+aVDuane Cooper LAL 05/09/1993 LAL @ PHX L 3 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p11
+aVA.C. Green LAL 05/06/1993 LAL vs. PHX L 45 5 2 6 33.3 0 1 0.0 1 2 50.0 3 12 15 1 1 1 3 0 -
+p12
+aVDuane Cooper LAL 05/06/1993 LAL vs. PHX L 1 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 0 -
+p13
+aVDoug Christie LAL 05/06/1993 LAL vs. PHX L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 3 -
+p14
+aVElden Campbell LAL 05/06/1993 LAL vs. PHX L 30 12 4 11 36.4 0 0 - 4 10 40.0 2 5 7 0 0 0 2 4 -
+p15
+aVVlade Divac LAL 05/06/1993 LAL vs. PHX L 41 17 7 20 35.0 1 4 25.0 2 3 66.7 7 5 12 4 2 3 0 4 -
+p16
+aVJames Worthy LAL 05/06/1993 LAL vs. PHX L 24 12 6 16 37.5 0 1 0.0 0 0 - 1 2 3 1 1 0 1 0 -
+p17
+aVTony Smith LAL 05/06/1993 LAL vs. PHX L 17 15 5 9 55.6 1 2 50.0 4 5 80.0 2 0 2 1 1 0 0 5 -
+p18
+aVByron Scott LAL 05/06/1993 LAL vs. PHX L 34 12 3 9 33.3 2 2 100.0 4 4 100.0 0 3 3 4 0 0 2 1 -
+p19
+aVSedale Threatt LAL 05/06/1993 LAL vs. PHX L 37 13 6 14 42.9 0 2 0.0 1 1 100.0 1 2 3 6 0 1 3 3 -
+p20
+aVByron Scott LAL 05/04/1993 LAL vs. PHX L 36 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 0 2 0 1 2 -
+p21
+aVJames Worthy LAL 05/04/1993 LAL vs. PHX L 30 13 6 18 33.3 0 1 0.0 1 1 100.0 4 2 6 4 2 0 2 4 -
+p22
+aVA.C. Green LAL 05/04/1993 LAL vs. PHX L 44 14 5 9 55.6 0 2 0.0 4 6 66.7 6 11 17 3 2 1 4 4 -
+p23
+aVDoug Christie LAL 05/04/1993 LAL vs. PHX L 12 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 0 -
+p24
+aVSedale Threatt LAL 05/04/1993 LAL vs. PHX L 39 15 5 17 29.4 2 4 50.0 3 4 75.0 0 1 1 10 4 0 2 3 -
+p25
+aVElden Campbell LAL 05/04/1993 LAL vs. PHX L 33 17 8 17 47.1 0 0 - 1 1 100.0 4 5 9 1 1 1 4 5 -
+p26
+aVVlade Divac LAL 05/04/1993 LAL vs. PHX L 34 30 11 22 50.0 2 4 50.0 6 8 75.0 1 7 8 6 1 4 3 5 -
+p27
+aVTony Smith LAL 05/04/1993 LAL vs. PHX L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p28
+aVByron Scott LAL 05/02/1993 LAL @ PHX W 30 17 7 10 70.0 3 5 60.0 0 2 0.0 0 1 1 2 0 0 1 5 -
+p29
+aVJames Edwards LAL 05/02/1993 LAL @ PHX W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p30
+aVA.C. Green LAL 05/02/1993 LAL @ PHX W 42 7 1 5 20.0 0 0 - 5 8 62.5 2 11 13 3 2 0 2 2 -
+p31
+aVTony Smith LAL 05/02/1993 LAL @ PHX W 18 6 3 4 75.0 0 0 - 0 2 0.0 2 1 3 1 0 0 1 2 -
+p32
+aVDoug Christie LAL 05/02/1993 LAL @ PHX W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -
+p33
+aVSedale Threatt LAL 05/02/1993 LAL @ PHX W 43 9 4 14 28.6 1 4 25.0 0 0 - 1 5 6 8 3 0 2 4 -
+p34
+aVJames Worthy LAL 05/02/1993 LAL @ PHX W 24 11 5 14 35.7 1 3 33.3 0 0 - 0 2 2 2 0 0 0 2 -
+p35
+aVElden Campbell LAL 05/02/1993 LAL @ PHX W 41 15 6 15 40.0 0 0 - 3 4 75.0 4 4 8 3 1 3 3 1 -
+p36
+aVVlade Divac LAL 05/02/1993 LAL @ PHX W 34 19 8 15 53.3 1 1 100.0 2 7 28.6 3 10 13 6 1 3 5 3 -
+p37
+aVJames Worthy LAL 04/30/1993 LAL @ PHX W 31 9 4 15 26.7 0 1 0.0 1 2 50.0 2 3 5 4 0 0 2 3 -
+p38
+aVDoug Christie LAL 04/30/1993 LAL @ PHX W 8 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 1 1 2 0 -
+p39
+aVVlade Divac LAL 04/30/1993 LAL @ PHX W 37 12 5 9 55.6 0 0 - 2 4 50.0 4 6 10 6 2 1 1 5 -
+p40
+aVByron Scott LAL 04/30/1993 LAL @ PHX W 35 22 6 11 54.5 1 2 50.0 9 11 81.8 0 2 2 2 2 0 0 0 -
+p41
+aVJames Edwards LAL 04/30/1993 LAL @ PHX W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p42
+aVSedale Threatt LAL 04/30/1993 LAL @ PHX W 40 35 17 24 70.8 0 1 0.0 1 2 50.0 0 3 3 7 3 0 3 3 -
+p43
+aVElden Campbell LAL 04/30/1993 LAL @ PHX W 32 9 4 10 40.0 0 0 - 1 4 25.0 4 5 9 2 1 3 2 4 -
+p44
+aVTony Smith LAL 04/30/1993 LAL @ PHX W 13 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 3 -
+p45
+aVA.C. Green LAL 04/30/1993 LAL @ PHX W 39 8 4 6 66.7 0 0 - 0 0 - 5 4 9 3 1 0 0 2 -
+p46
+a.

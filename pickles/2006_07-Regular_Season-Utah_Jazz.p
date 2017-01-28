@@ -1,0 +1,1728 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGordan Giricek UTA 04/18/2007 UTA vs. HOU W 26 14 6 10 60.0 2 4 50.0 0 2 0.0 1 3 4 2 0 0 0 1 17
+p2
+aVJarron Collins UTA 04/18/2007 UTA vs. HOU W 12 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 3
+p3
+aVMatt Harpring UTA 04/18/2007 UTA vs. HOU W 14 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 8
+p4
+aVCarlos Boozer UTA 04/18/2007 UTA vs. HOU W 19 9 3 7 42.9 0 0 - 3 4 75.0 1 4 5 1 1 0 0 0 -12
+p5
+aVAndrei Kirilenko UTA 04/18/2007 UTA vs. HOU W 22 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 1 0 0 0 0 -7
+p6
+aVRafael Araujo UTA 04/18/2007 UTA vs. HOU W 17 8 2 6 33.3 0 0 - 4 4 100.0 1 4 5 2 0 0 0 5 13
+p7
+aVDee Brown UTA 04/18/2007 UTA vs. HOU W 31 13 3 7 42.9 0 2 0.0 7 8 87.5 0 5 5 8 3 0 3 2 22
+p8
+aVRonnie Brewer UTA 04/18/2007 UTA vs. HOU W 18 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 1 1 0 1 0 16
+p9
+aVDerek Fisher UTA 04/18/2007 UTA vs. HOU W 16 5 1 5 20.0 0 0 - 3 3 100.0 1 1 2 1 0 0 4 4 -14
+p10
+aVMehmet Okur UTA 04/18/2007 UTA vs. HOU W 19 12 4 8 50.0 2 3 66.7 2 2 100.0 1 4 5 2 0 0 0 1 -6
+p11
+aVDeron Williams UTA 04/18/2007 UTA vs. HOU W 17 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 4 0 0 3 3 -12
+p12
+aVPaul Millsap UTA 04/18/2007 UTA vs. HOU W 30 14 6 11 54.5 0 0 - 2 4 50.0 5 5 10 0 0 0 4 3 22
+p13
+aVMehmet Okur UTA 04/16/2007 UTA vs. POR W 26 16 5 13 38.5 0 2 0.0 6 7 85.7 2 2 4 1 0 1 1 4 18
+p14
+aVDerek Fisher UTA 04/16/2007 UTA vs. POR W 27 13 1 4 25.0 0 0 - 11 12 91.7 1 5 6 7 2 0 0 2 20
+p15
+aVAndrei Kirilenko UTA 04/16/2007 UTA vs. POR W 24 2 1 3 33.3 0 0 - 0 0 - 1 3 4 4 1 5 0 2 24
+p16
+aVMatt Harpring UTA 04/16/2007 UTA vs. POR W 23 11 4 7 57.1 0 0 - 3 4 75.0 2 1 3 1 0 0 3 3 7
+p17
+aVPaul Millsap UTA 04/16/2007 UTA vs. POR W 20 16 6 6 100.0 0 0 - 4 5 80.0 2 4 6 3 1 0 0 1 9
+p18
+aVDeron Williams UTA 04/16/2007 UTA vs. POR W 30 13 6 11 54.5 0 1 0.0 1 2 50.0 0 3 3 4 0 0 2 4 18
+p19
+aVRonnie Brewer UTA 04/16/2007 UTA vs. POR W 5 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 10
+p20
+aVRafael Araujo UTA 04/16/2007 UTA vs. POR W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 9
+p21
+aVGordan Giricek UTA 04/16/2007 UTA vs. POR W 23 21 6 8 75.0 5 6 83.3 4 4 100.0 1 3 4 0 0 0 2 1 18
+p22
+aVCarlos Boozer UTA 04/16/2007 UTA vs. POR W 29 26 12 14 85.7 0 0 - 2 4 50.0 2 8 10 3 1 1 2 4 25
+p23
+aVJarron Collins UTA 04/16/2007 UTA vs. POR W 12 4 1 3 33.3 0 0 - 2 2 100.0 2 4 6 1 0 0 0 3 9
+p24
+aVDee Brown UTA 04/16/2007 UTA vs. POR W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 9 1 0 1 0 18
+p25
+aVCarlos Boozer UTA 04/14/2007 UTA vs. PHX L 30 18 8 18 44.4 0 0 - 2 3 66.7 2 8 10 3 0 0 4 1 -34
+p26
+aVPaul Millsap UTA 04/14/2007 UTA vs. PHX L 22 6 3 5 60.0 0 0 - 0 1 0.0 1 8 9 1 0 0 0 2 4
+p27
+aVMatt Harpring UTA 04/14/2007 UTA vs. PHX L 24 13 6 10 60.0 0 0 - 1 2 50.0 2 2 4 1 0 0 0 4 -25
+p28
+aVMehmet Okur UTA 04/14/2007 UTA vs. PHX L 28 20 6 13 46.2 3 5 60.0 5 8 62.5 6 4 10 1 0 1 1 2 -24
+p29
+aVDee Brown UTA 04/14/2007 UTA vs. PHX L 16 12 5 6 83.3 1 1 100.0 1 2 50.0 0 1 1 0 0 0 1 4 -7
+p30
+aVCJ Miles UTA 04/14/2007 UTA vs. PHX L 19 2 0 4 0.0 0 0 - 2 4 50.0 0 2 2 1 0 0 1 3 -2
+p31
+aVDeron Williams UTA 04/14/2007 UTA vs. PHX L 31 4 1 9 11.1 1 4 25.0 1 2 50.0 0 2 2 8 0 0 5 2 -25
+p32
+aVRonnie Brewer UTA 04/14/2007 UTA vs. PHX L 29 8 4 6 66.7 0 0 - 0 0 - 1 2 3 2 0 0 0 0 -6
+p33
+aVRafael Araujo UTA 04/14/2007 UTA vs. PHX L 8 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p34
+aVDerek Fisher UTA 04/14/2007 UTA vs. PHX L 25 9 2 9 22.2 0 1 0.0 5 7 71.4 1 1 2 6 1 0 3 4 -19
+p35
+aVJarron Collins UTA 04/14/2007 UTA vs. PHX L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 1
+p36
+aVRonnie Brewer UTA 04/13/2007 UTA @ DAL W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p37
+aVDeron Williams UTA 04/13/2007 UTA @ DAL W 40 17 6 13 46.2 3 4 75.0 2 2 100.0 0 6 6 9 0 0 4 3 10
+p38
+aVCJ Miles UTA 04/13/2007 UTA @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p39
+aVMatt Harpring UTA 04/13/2007 UTA @ DAL W 36 14 5 14 35.7 0 2 0.0 4 4 100.0 2 3 5 2 0 0 1 3 9
+p40
+aVDee Brown UTA 04/13/2007 UTA @ DAL W 20 2 1 3 33.3 0 2 0.0 0 2 0.0 0 3 3 6 0 2 2 2 14
+p41
+aVJarron Collins UTA 04/13/2007 UTA @ DAL W 23 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 0 0 0 4 19
+p42
+aVMehmet Okur UTA 04/13/2007 UTA @ DAL W 25 7 3 6 50.0 1 3 33.3 0 0 - 1 7 8 0 0 1 2 4 5
+p43
+aVPaul Millsap UTA 04/13/2007 UTA @ DAL W 20 10 5 6 83.3 0 0 - 0 0 - 4 3 7 0 0 0 2 3 2
+p44
+aVCarlos Boozer UTA 04/13/2007 UTA @ DAL W 38 32 12 19 63.2 0 0 - 8 11 72.7 5 10 15 7 0 0 3 3 8
+p45
+aVDerek Fisher UTA 04/13/2007 UTA @ DAL W 35 15 3 7 42.9 1 2 50.0 8 8 100.0 1 2 3 1 2 0 3 2 4
+p46
+aVRonnie Brewer UTA 04/11/2007 UTA vs. DEN L 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -10
+p47
+aVJarron Collins UTA 04/11/2007 UTA vs. DEN L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 13
+p48
+aVDee Brown UTA 04/11/2007 UTA vs. DEN L 17 9 3 4 75.0 3 4 75.0 0 0 - 0 1 1 1 0 0 0 2 9
+p49
+aVMehmet Okur UTA 04/11/2007 UTA vs. DEN L 34 20 8 14 57.1 3 4 75.0 1 2 50.0 2 2 4 3 0 0 3 3 -21
+p50
+aVCarlos Boozer UTA 04/11/2007 UTA vs. DEN L 39 19 9 18 50.0 0 0 - 1 1 100.0 6 8 14 8 1 0 2 4 -8
+p51
+aVDerek Fisher UTA 04/11/2007 UTA vs. DEN L 29 5 2 10 20.0 0 3 0.0 1 2 50.0 0 2 2 2 1 2 1 4 -17
+p52
+aVMatt Harpring UTA 04/11/2007 UTA vs. DEN L 37 31 13 19 68.4 0 0 - 5 6 83.3 1 2 3 4 2 0 2 2 -3
+p53
+aVDeron Williams UTA 04/11/2007 UTA vs. DEN L 44 18 8 19 42.1 1 3 33.3 1 2 50.0 1 5 6 14 1 1 3 4 -10
+p54
+aVPaul Millsap UTA 04/11/2007 UTA vs. DEN L 18 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 1 0 1 4 2
+p55
+aVPaul Millsap UTA 04/09/2007 UTA @ GSW L 23 4 2 5 40.0 0 1 0.0 0 2 0.0 4 2 6 1 1 0 2 5 8
+p56
+aVCJ Miles UTA 04/09/2007 UTA @ GSW L 10 4 1 5 20.0 0 2 0.0 2 2 100.0 2 0 2 1 1 0 1 1 4
+p57
+aVDeron Williams UTA 04/09/2007 UTA @ GSW L 22 4 1 8 12.5 0 1 0.0 2 2 100.0 2 2 4 3 0 0 3 4 -20
+p58
+aVDerek Fisher UTA 04/09/2007 UTA @ GSW L 29 10 3 13 23.1 1 5 20.0 3 3 100.0 0 1 1 5 2 0 2 3 -16
+p59
+aVRonnie Brewer UTA 04/09/2007 UTA @ GSW L 33 21 7 9 77.8 0 0 - 7 9 77.8 3 1 4 0 1 0 3 1 -12
+p60
+aVJarron Collins UTA 04/09/2007 UTA @ GSW L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 3
+p61
+aVGordan Giricek UTA 04/09/2007 UTA @ GSW L 10 4 1 3 33.3 1 1 100.0 1 2 50.0 1 2 3 0 0 0 0 0 -5
+p62
+aVMatt Harpring UTA 04/09/2007 UTA @ GSW L 28 17 6 10 60.0 0 0 - 5 8 62.5 1 7 8 0 1 0 6 3 -25
+p63
+aVCarlos Boozer UTA 04/09/2007 UTA @ GSW L 29 17 5 12 41.7 0 0 - 7 10 70.0 4 7 11 1 2 0 4 3 -29
+p64
+aVDee Brown UTA 04/09/2007 UTA @ GSW L 19 0 0 3 0.0 0 0 - 0 0 - 1 2 3 8 3 0 1 1 -5
+p65
+aVMehmet Okur UTA 04/09/2007 UTA @ GSW L 24 14 5 8 62.5 1 1 100.0 3 4 75.0 1 0 1 1 0 1 1 2 -28
+p66
+aVRafael Araujo UTA 04/09/2007 UTA @ GSW L 7 6 2 5 40.0 0 0 - 2 6 33.3 2 2 4 0 0 0 1 1 5
+p67
+aVMehmet Okur UTA 04/07/2007 UTA vs. SEA L 35 10 5 8 62.5 0 2 0.0 0 0 - 1 3 4 2 0 0 2 2 -3
+p68
+aVRafael Araujo UTA 04/07/2007 UTA vs. SEA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p69
+aVRonnie Brewer UTA 04/07/2007 UTA vs. SEA L 18 12 5 7 71.4 0 1 0.0 2 2 100.0 3 0 3 1 1 0 1 0 10
+p70
+aVMatt Harpring UTA 04/07/2007 UTA vs. SEA L 30 10 4 6 66.7 1 2 50.0 1 1 100.0 2 1 3 2 1 1 3 4 -13
+p71
+aVPaul Millsap UTA 04/07/2007 UTA vs. SEA L 17 12 5 6 83.3 0 0 - 2 3 66.7 1 2 3 2 0 1 2 2 1
+p72
+aVGordan Giricek UTA 04/07/2007 UTA vs. SEA L 22 10 4 9 44.4 1 4 25.0 1 1 100.0 0 4 4 0 1 0 0 0 3
+p73
+aVDeron Williams UTA 04/07/2007 UTA vs. SEA L 42 24 10 17 58.8 2 3 66.7 2 3 66.7 3 2 5 13 1 0 5 4 -5
+p74
+aVJarron Collins UTA 04/07/2007 UTA vs. SEA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 5
+p75
+aVDerek Fisher UTA 04/07/2007 UTA vs. SEA L 31 9 4 11 36.4 1 4 25.0 0 0 - 1 1 2 3 2 0 2 2 -4
+p76
+aVCarlos Boozer UTA 04/07/2007 UTA vs. SEA L 31 16 8 14 57.1 0 0 - 0 0 - 3 10 13 4 2 0 0 1 -4
+p77
+aVGordan Giricek UTA 04/06/2007 UTA @ SAC L 36 16 6 16 37.5 2 6 33.3 2 2 100.0 1 1 2 2 0 0 0 3 -4
+p78
+aVDeron Williams UTA 04/06/2007 UTA @ SAC L 17 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 5 2 0 1 1 7
+p79
+aVMehmet Okur UTA 04/06/2007 UTA @ SAC L 38 24 9 15 60.0 2 4 50.0 4 4 100.0 3 5 8 2 1 1 2 3 4
+p80
+aVCarlos Boozer UTA 04/06/2007 UTA @ SAC L 41 17 8 14 57.1 0 0 - 1 1 100.0 1 5 6 1 2 0 3 4 6
+p81
+aVAndrei Kirilenko UTA 04/06/2007 UTA @ SAC L 15 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 2 1 0 0 0 8
+p82
+aVDee Brown UTA 04/06/2007 UTA @ SAC L 5 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -14
+p83
+aVJarron Collins UTA 04/06/2007 UTA @ SAC L 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p84
+aVMatt Harpring UTA 04/06/2007 UTA @ SAC L 28 14 5 10 50.0 0 0 - 4 6 66.7 2 1 3 1 0 1 3 5 -13
+p85
+aVPaul Millsap UTA 04/06/2007 UTA @ SAC L 15 6 2 5 40.0 0 0 - 2 2 100.0 6 2 8 0 0 1 1 3 -15
+p86
+aVDerek Fisher UTA 04/06/2007 UTA @ SAC L 39 14 5 15 33.3 0 4 0.0 4 5 80.0 0 2 2 9 2 0 1 4 3
+p87
+aVJarron Collins UTA 04/04/2007 UTA @ POR L 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -2
+p88
+aVPaul Millsap UTA 04/04/2007 UTA @ POR L 15 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -4
+p89
+aVCarlos Boozer UTA 04/04/2007 UTA @ POR L 35 21 7 15 46.7 0 0 - 7 11 63.6 7 14 21 5 0 0 8 2 -5
+p90
+aVAndrei Kirilenko UTA 04/04/2007 UTA @ POR L 23 8 3 5 60.0 0 1 0.0 2 2 100.0 2 1 3 0 1 4 2 0 -7
+p91
+aVDeron Williams UTA 04/04/2007 UTA @ POR L 43 14 4 13 30.8 2 4 50.0 4 7 57.1 0 1 1 13 0 0 2 4 -2
+p92
+aVMehmet Okur UTA 04/04/2007 UTA @ POR L 39 11 5 14 35.7 0 5 0.0 1 3 33.3 4 4 8 3 0 0 2 3 1
+p93
+aVDerek Fisher UTA 04/04/2007 UTA @ POR L 29 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 2 1 0 1 2 -10
+p94
+aVGordan Giricek UTA 04/04/2007 UTA @ POR L 24 13 5 8 62.5 3 5 60.0 0 0 - 0 1 1 0 2 0 2 6 2
+p95
+aVMatt Harpring UTA 04/04/2007 UTA @ POR L 25 12 5 10 50.0 0 0 - 2 2 100.0 2 3 5 1 3 0 0 0 2
+p96
+aVGordan Giricek UTA 04/01/2007 UTA @ HOU W 26 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 0
+p97
+aVMehmet Okur UTA 04/01/2007 UTA @ HOU W 37 20 7 18 38.9 1 5 20.0 5 8 62.5 1 8 9 1 0 0 0 4 4
+p98
+aVDerek Fisher UTA 04/01/2007 UTA @ HOU W 24 7 2 7 28.6 0 0 - 3 3 100.0 0 2 2 1 0 0 1 2 -2
+p99
+aVAndrei Kirilenko UTA 04/01/2007 UTA @ HOU W 31 8 3 8 37.5 0 0 - 2 2 100.0 2 2 4 2 1 0 0 2 5
+p100
+aVCarlos Boozer UTA 04/01/2007 UTA @ HOU W 26 13 4 13 30.8 0 0 - 5 9 55.6 2 8 10 3 0 1 2 4 6
+p101
+aVPaul Millsap UTA 04/01/2007 UTA @ HOU W 23 2 1 3 33.3 0 0 - 0 0 - 3 7 10 2 1 0 2 4 -2
+p102
+aVDeron Williams UTA 04/01/2007 UTA @ HOU W 41 12 5 15 33.3 0 1 0.0 2 2 100.0 0 5 5 11 0 0 1 0 0
+p103
+aVMatt Harpring UTA 04/01/2007 UTA @ HOU W 22 9 3 6 50.0 0 0 - 3 3 100.0 0 3 3 1 1 0 1 4 6
+p104
+aVJarron Collins UTA 04/01/2007 UTA @ HOU W 10 6 1 2 50.0 0 0 - 4 6 66.7 0 1 1 1 0 0 0 2 -2
+p105
+aVCJ Miles UTA 03/30/2007 UTA @ SAS L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -7
+p106
+aVGordan Giricek UTA 03/30/2007 UTA @ SAS L 14 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 0 0 0 2 3 -5
+p107
+aVDeron Williams UTA 03/30/2007 UTA @ SAS L 41 23 8 16 50.0 1 4 25.0 6 6 100.0 0 3 3 5 0 0 5 2 -12
+p108
+aVCarlos Boozer UTA 03/30/2007 UTA @ SAS L 37 18 8 15 53.3 0 0 - 2 2 100.0 3 7 10 4 2 0 3 2 -6
+p109
+aVAndrei Kirilenko UTA 03/30/2007 UTA @ SAS L 40 11 4 10 40.0 1 1 100.0 2 2 100.0 1 4 5 3 2 2 1 1 -4
+p110
+aVDerek Fisher UTA 03/30/2007 UTA @ SAS L 40 15 5 11 45.5 0 2 0.0 5 5 100.0 1 1 2 4 1 0 1 3 -1
+p111
+aVDee Brown UTA 03/30/2007 UTA @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p112
+aVPaul Millsap UTA 03/30/2007 UTA @ SAS L 11 8 2 5 40.0 0 0 - 4 4 100.0 2 0 2 1 2 0 0 2 -3
+p113
+aVMehmet Okur UTA 03/30/2007 UTA @ SAS L 39 16 5 9 55.6 1 3 33.3 5 7 71.4 2 9 11 2 1 0 0 4 -3
+p114
+aVJarron Collins UTA 03/30/2007 UTA @ SAS L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p115
+aVJarron Collins UTA 03/28/2007 UTA vs. MIN W 10 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -2
+p116
+aVAndrei Kirilenko UTA 03/28/2007 UTA vs. MIN W 40 13 6 9 66.7 0 0 - 1 1 100.0 1 7 8 1 3 5 5 0 1
+p117
+aVDerek Fisher UTA 03/28/2007 UTA vs. MIN W 29 11 3 8 37.5 1 2 50.0 4 4 100.0 0 1 1 0 0 0 0 4 12
+p118
+aVDee Brown UTA 03/28/2007 UTA vs. MIN W 13 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 3 -10
+p119
+aVMehmet Okur UTA 03/28/2007 UTA vs. MIN W 38 23 6 14 42.9 2 4 50.0 9 10 90.0 3 9 12 1 0 0 0 2 8
+p120
+aVCJ Miles UTA 03/28/2007 UTA vs. MIN W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 3 -3
+p121
+aVCarlos Boozer UTA 03/28/2007 UTA vs. MIN W 39 25 11 21 52.4 0 0 - 3 5 60.0 3 8 11 3 2 1 2 2 18
+p122
+aVRonnie Brewer UTA 03/28/2007 UTA vs. MIN W 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 1 2
+p123
+aVPaul Millsap UTA 03/28/2007 UTA vs. MIN W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -14
+p124
+aVDeron Williams UTA 03/28/2007 UTA vs. MIN W 39 22 5 9 55.6 1 2 50.0 11 14 78.6 0 1 1 14 1 0 3 4 18
+p125
+aVRafael Araujo UTA 03/26/2007 UTA vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p126
+aVDee Brown UTA 03/26/2007 UTA vs. WAS W 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -1
+p127
+aVDerek Fisher UTA 03/26/2007 UTA vs. WAS W 25 10 2 10 20.0 2 5 40.0 4 7 57.1 0 1 1 1 1 0 1 3 7
+p128
+aVCarlos Boozer UTA 03/26/2007 UTA vs. WAS W 37 41 15 21 71.4 0 0 - 11 14 78.6 5 11 16 2 0 0 3 5 4
+p129
+aVMehmet Okur UTA 03/26/2007 UTA vs. WAS W 32 16 6 14 42.9 0 2 0.0 4 10 40.0 0 5 5 2 2 1 0 3 10
+p130
+aVAndrei Kirilenko UTA 03/26/2007 UTA vs. WAS W 26 6 0 3 0.0 0 1 0.0 6 6 100.0 1 4 5 1 2 2 2 6 -10
+p131
+aVPaul Millsap UTA 03/26/2007 UTA vs. WAS W 19 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 1 1 2 5 3
+p132
+aVDeron Williams UTA 03/26/2007 UTA vs. WAS W 42 16 6 12 50.0 0 2 0.0 4 4 100.0 3 2 5 13 1 0 3 4 8
+p133
+aVCJ Miles UTA 03/26/2007 UTA vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p134
+aVMatt Harpring UTA 03/26/2007 UTA vs. WAS W 31 6 1 8 12.5 0 1 0.0 4 4 100.0 3 10 13 1 1 1 2 3 10
+p135
+aVJarron Collins UTA 03/26/2007 UTA vs. WAS W 13 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -1
+p136
+aVMehmet Okur UTA 03/24/2007 UTA vs. MEM W 31 8 4 13 30.8 0 2 0.0 0 0 - 1 5 6 2 0 0 2 3 13
+p137
+aVDeron Williams UTA 03/24/2007 UTA vs. MEM W 40 21 6 12 50.0 1 4 25.0 8 10 80.0 0 2 2 13 0 0 3 4 16
+p138
+aVPaul Millsap UTA 03/24/2007 UTA vs. MEM W 23 11 5 12 41.7 0 0 - 1 1 100.0 7 7 14 2 1 2 0 2 5
+p139
+aVAndrei Kirilenko UTA 03/24/2007 UTA vs. MEM W 30 12 6 8 75.0 0 1 0.0 0 1 0.0 0 1 1 4 2 4 0 4 16
+p140
+aVMatt Harpring UTA 03/24/2007 UTA vs. MEM W 31 24 5 10 50.0 1 2 50.0 13 14 92.9 1 3 4 4 0 0 1 2 10
+p141
+aVJarron Collins UTA 03/24/2007 UTA vs. MEM W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p142
+aVCarlos Boozer UTA 03/24/2007 UTA vs. MEM W 33 28 13 17 76.5 0 0 - 2 2 100.0 3 12 15 1 2 1 2 5 -2
+p143
+aVRonnie Brewer UTA 03/24/2007 UTA vs. MEM W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p144
+aVDerek Fisher UTA 03/24/2007 UTA vs. MEM W 18 8 3 11 27.3 0 2 0.0 2 4 50.0 0 0 0 7 0 0 0 3 -1
+p145
+aVRafael Araujo UTA 03/24/2007 UTA vs. MEM W 1 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p146
+aVDee Brown UTA 03/24/2007 UTA vs. MEM W 21 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 0 0 1 3 -2
+p147
+aVCJ Miles UTA 03/23/2007 UTA @ LAC L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 3 3 -5
+p148
+aVDeron Williams UTA 03/23/2007 UTA @ LAC L 29 5 1 5 20.0 0 2 0.0 3 4 75.0 0 1 1 6 0 0 3 0 -19
+p149
+aVDee Brown UTA 03/23/2007 UTA @ LAC L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 2 -9
+p150
+aVPaul Millsap UTA 03/23/2007 UTA @ LAC L 24 9 2 5 40.0 0 0 - 5 14 35.7 3 4 7 0 5 0 1 1 -15
+p151
+aVMatt Harpring UTA 03/23/2007 UTA @ LAC L 19 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 1 1 0 1 4 -15
+p152
+aVCarlos Boozer UTA 03/23/2007 UTA @ LAC L 30 13 6 13 46.2 0 0 - 1 2 50.0 2 7 9 3 2 0 4 3 -23
+p153
+aVAndrei Kirilenko UTA 03/23/2007 UTA @ LAC L 27 12 5 9 55.6 1 2 50.0 1 2 50.0 0 1 1 0 1 2 1 3 -21
+p154
+aVRonnie Brewer UTA 03/23/2007 UTA @ LAC L 15 4 1 3 33.3 0 0 - 2 4 50.0 0 1 1 0 0 0 1 1 -5
+p155
+aVMehmet Okur UTA 03/23/2007 UTA @ LAC L 20 4 1 7 14.3 0 0 - 2 5 40.0 1 5 6 1 0 0 1 1 -16
+p156
+aVRafael Araujo UTA 03/23/2007 UTA @ LAC L 18 5 2 4 50.0 0 0 - 1 2 50.0 0 4 4 1 0 0 0 1 -9
+p157
+aVJarron Collins UTA 03/23/2007 UTA @ LAC L 5 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 0 0 1 1 -1
+p158
+aVDerek Fisher UTA 03/23/2007 UTA @ LAC L 25 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 3 0 0 0 2 -22
+p159
+aVRonnie Brewer UTA 03/20/2007 UTA vs. GSW W 12 5 2 3 66.7 0 0 - 1 4 25.0 0 0 0 1 1 0 0 1 -9
+p160
+aVDeron Williams UTA 03/20/2007 UTA vs. GSW W 41 10 4 14 28.6 0 2 0.0 2 2 100.0 0 5 5 17 0 0 2 4 7
+p161
+aVCarlos Boozer UTA 03/20/2007 UTA vs. GSW W 40 25 11 18 61.1 0 0 - 3 4 75.0 5 16 21 5 0 0 4 5 12
+p162
+aVDerek Fisher UTA 03/20/2007 UTA vs. GSW W 31 19 7 12 58.3 1 1 100.0 4 5 80.0 1 2 3 5 1 0 1 0 0
+p163
+aVAndrei Kirilenko UTA 03/20/2007 UTA vs. GSW W 36 12 4 5 80.0 0 0 - 4 4 100.0 0 4 4 3 1 3 5 3 18
+p164
+aVJarron Collins UTA 03/20/2007 UTA vs. GSW W 5 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -6
+p165
+aVPaul Millsap UTA 03/20/2007 UTA vs. GSW W 23 16 6 9 66.7 1 1 100.0 3 3 100.0 3 3 6 0 2 1 1 2 3
+p166
+aVMatt Harpring UTA 03/20/2007 UTA vs. GSW W 25 8 3 8 37.5 0 0 - 2 2 100.0 0 0 0 1 0 0 3 4 -5
+p167
+aVMehmet Okur UTA 03/20/2007 UTA vs. GSW W 27 5 1 4 25.0 0 2 0.0 3 4 75.0 0 4 4 0 0 2 2 1 0
+p168
+aVCarlos Boozer UTA 03/17/2007 UTA @ CLE L 40 19 9 20 45.0 0 0 - 1 4 25.0 2 12 14 1 0 1 5 3 2
+p169
+aVRonnie Brewer UTA 03/17/2007 UTA @ CLE L 14 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 1 0 0 -14
+p170
+aVAndrei Kirilenko UTA 03/17/2007 UTA @ CLE L 37 7 3 6 50.0 0 1 0.0 1 2 50.0 1 7 8 4 2 4 2 2 9
+p171
+aVCJ Miles UTA 03/17/2007 UTA @ CLE L 17 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 1 0 0 0 2 -14
+p172
+aVDeron Williams UTA 03/17/2007 UTA @ CLE L 43 12 5 14 35.7 0 2 0.0 2 2 100.0 1 3 4 7 2 1 5 2 -1
+p173
+aVJarron Collins UTA 03/17/2007 UTA @ CLE L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p174
+aVDerek Fisher UTA 03/17/2007 UTA @ CLE L 33 8 3 10 30.0 2 6 33.3 0 0 - 0 0 0 1 0 0 0 4 -7
+p175
+aVMehmet Okur UTA 03/17/2007 UTA @ CLE L 41 19 6 17 35.3 0 3 0.0 7 7 100.0 2 6 8 3 0 0 1 5 -1
+p176
+aVPaul Millsap UTA 03/17/2007 UTA @ CLE L 8 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -11
+p177
+aVAndrei Kirilenko UTA 03/16/2007 UTA @ PHI L 24 8 4 8 50.0 0 0 - 0 3 0.0 0 0 0 0 0 4 5 2 -13
+p178
+aVMehmet Okur UTA 03/16/2007 UTA @ PHI L 40 15 7 18 38.9 1 3 33.3 0 1 0.0 1 9 10 6 2 0 2 2 -1
+p179
+aVDeron Williams UTA 03/16/2007 UTA @ PHI L 42 18 7 12 58.3 2 5 40.0 2 2 100.0 0 2 2 16 0 1 2 3 -1
+p180
+aVDerek Fisher UTA 03/16/2007 UTA @ PHI L 26 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 4 0 0 0 1 -8
+p181
+aVMatt Harpring UTA 03/16/2007 UTA @ PHI L 29 14 4 8 50.0 0 1 0.0 6 6 100.0 3 6 9 1 2 1 3 3 9
+p182
+aVPaul Millsap UTA 03/16/2007 UTA @ PHI L 22 5 2 4 50.0 0 0 - 1 2 50.0 3 2 5 1 2 2 1 5 -4
+p183
+aVGordan Giricek UTA 03/16/2007 UTA @ PHI L 26 10 4 6 66.7 2 2 100.0 0 0 - 1 2 3 1 1 0 3 2 10
+p184
+aVCarlos Boozer UTA 03/16/2007 UTA @ PHI L 27 14 7 14 50.0 0 0 - 0 0 - 2 6 8 1 1 0 1 4 5
+p185
+aVJarron Collins UTA 03/16/2007 UTA @ PHI L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p186
+aVDeron Williams UTA 03/14/2007 UTA @ ORL L 42 14 6 15 40.0 1 3 33.3 1 1 100.0 1 1 2 11 1 0 6 3 -6
+p187
+aVJarron Collins UTA 03/14/2007 UTA @ ORL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p188
+aVMatt Harpring UTA 03/14/2007 UTA @ ORL L 21 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 1 1 0 1 5 0
+p189
+aVMehmet Okur UTA 03/14/2007 UTA @ ORL L 40 21 6 15 40.0 3 5 60.0 6 6 100.0 4 8 12 2 1 0 3 5 0
+p190
+aVDerek Fisher UTA 03/14/2007 UTA @ ORL L 38 13 4 12 33.3 2 3 66.7 3 3 100.0 1 3 4 1 2 0 2 3 2
+p191
+aVGordan Giricek UTA 03/14/2007 UTA @ ORL L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -9
+p192
+aVAndrei Kirilenko UTA 03/14/2007 UTA @ ORL L 21 0 0 0 - 0 0 - 0 0 - 1 1 2 2 2 2 2 0 -3
+p193
+aVCarlos Boozer UTA 03/14/2007 UTA @ ORL L 43 29 14 24 58.3 0 0 - 1 3 33.3 3 4 7 3 2 1 4 1 5
+p194
+aVCJ Miles UTA 03/14/2007 UTA @ ORL L 10 5 2 5 40.0 0 1 0.0 1 2 50.0 1 0 1 0 1 0 1 0 -17
+p195
+aVPaul Millsap UTA 03/14/2007 UTA @ ORL L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 2 2 -20
+p196
+aVDeron Williams UTA 03/13/2007 UTA @ MIA L 39 15 6 12 50.0 2 5 40.0 1 2 50.0 0 1 1 8 0 0 5 2 -15
+p197
+aVGordan Giricek UTA 03/13/2007 UTA @ MIA L 33 10 3 7 42.9 2 3 66.7 2 2 100.0 1 2 3 0 0 0 0 2 -1
+p198
+aVDerek Fisher UTA 03/13/2007 UTA @ MIA L 24 1 0 4 0.0 0 1 0.0 1 1 100.0 0 1 1 1 3 0 1 1 12
+p199
+aVMatt Harpring UTA 03/13/2007 UTA @ MIA L 31 12 4 10 40.0 0 0 - 4 6 66.7 1 2 3 0 0 0 1 1 -2
+p200
+aVJarron Collins UTA 03/13/2007 UTA @ MIA L 12 4 1 3 33.3 0 0 - 2 3 66.7 3 1 4 1 0 0 0 2 6
+p201
+aVAndrei Kirilenko UTA 03/13/2007 UTA @ MIA L 17 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 2 0 0 0 1 0
+p202
+aVMehmet Okur UTA 03/13/2007 UTA @ MIA L 36 19 6 12 50.0 2 7 28.6 5 8 62.5 1 9 10 3 0 0 1 5 -8
+p203
+aVPaul Millsap UTA 03/13/2007 UTA @ MIA L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -9
+p204
+aVCarlos Boozer UTA 03/13/2007 UTA @ MIA L 39 20 6 14 42.9 0 0 - 8 12 66.7 3 10 13 5 0 0 3 3 7
+p205
+aVMehmet Okur UTA 03/10/2007 UTA vs. NOK W 35 29 9 15 60.0 5 7 71.4 6 8 75.0 1 4 5 3 0 0 3 3 14
+p206
+aVDerek Fisher UTA 03/10/2007 UTA vs. NOK W 20 7 3 6 50.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 5 0
+p207
+aVCarlos Boozer UTA 03/10/2007 UTA vs. NOK W 34 20 10 20 50.0 0 0 - 0 0 - 7 6 13 2 1 1 2 1 15
+p208
+aVDeron Williams UTA 03/10/2007 UTA vs. NOK W 41 10 3 13 23.1 0 4 0.0 4 4 100.0 1 2 3 13 3 0 3 4 13
+p209
+aVJarron Collins UTA 03/10/2007 UTA vs. NOK W 13 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -4
+p210
+aVAndrei Kirilenko UTA 03/10/2007 UTA vs. NOK W 23 2 1 3 33.3 0 0 - 0 0 - 1 4 5 2 3 2 0 1 12
+p211
+aVGordan Giricek UTA 03/10/2007 UTA vs. NOK W 35 16 7 14 50.0 1 3 33.3 1 2 50.0 2 4 6 0 1 0 1 1 7
+p212
+aVPaul Millsap UTA 03/10/2007 UTA vs. NOK W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -5
+p213
+aVMatt Harpring UTA 03/10/2007 UTA vs. NOK W 25 10 2 7 28.6 0 0 - 6 8 75.0 1 6 7 1 1 0 4 2 -2
+p214
+aVMehmet Okur UTA 03/07/2007 UTA vs. IND W 19 8 1 8 12.5 0 2 0.0 6 8 75.0 0 5 5 0 0 1 0 3 13
+p215
+aVCarlos Boozer UTA 03/07/2007 UTA vs. IND W 31 14 5 16 31.3 0 0 - 4 6 66.7 6 10 16 4 1 0 0 2 6
+p216
+aVMatt Harpring UTA 03/07/2007 UTA vs. IND W 26 14 5 13 38.5 0 0 - 4 4 100.0 2 2 4 2 2 0 5 3 17
+p217
+aVRafael Araujo UTA 03/07/2007 UTA vs. IND W 12 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 1 2 1 5
+p218
+aVRonnie Brewer UTA 03/07/2007 UTA vs. IND W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 3
+p219
+aVJarron Collins UTA 03/07/2007 UTA vs. IND W 19 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 5 7
+p220
+aVDeron Williams UTA 03/07/2007 UTA vs. IND W 35 17 7 13 53.8 1 3 33.3 2 2 100.0 1 2 3 6 0 0 5 3 24
+p221
+aVPaul Millsap UTA 03/07/2007 UTA vs. IND W 18 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 2 5 0 0 2 14
+p222
+aVAndrei Kirilenko UTA 03/07/2007 UTA vs. IND W 19 9 4 5 80.0 0 0 - 1 2 50.0 0 4 4 4 0 0 0 1 4
+p223
+aVDee Brown UTA 03/07/2007 UTA vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p224
+aVGordan Giricek UTA 03/07/2007 UTA vs. IND W 26 8 1 8 12.5 0 2 0.0 6 6 100.0 0 3 3 0 1 0 1 2 11
+p225
+aVDerek Fisher UTA 03/07/2007 UTA vs. IND W 29 11 4 7 57.1 0 2 0.0 3 3 100.0 0 4 4 4 0 0 3 3 3
+p226
+aVDerek Fisher UTA 03/05/2007 UTA vs. CHA W 29 6 2 7 28.6 0 1 0.0 2 2 100.0 0 3 3 3 1 0 0 3 24
+p227
+aVDeron Williams UTA 03/05/2007 UTA vs. CHA W 32 12 2 6 33.3 0 2 0.0 8 9 88.9 1 4 5 6 1 0 5 2 19
+p228
+aVPaul Millsap UTA 03/05/2007 UTA vs. CHA W 13 2 0 4 0.0 0 0 - 2 2 100.0 1 3 4 1 1 0 1 3 7
+p229
+aVAndrei Kirilenko UTA 03/05/2007 UTA vs. CHA W 28 7 2 5 40.0 0 0 - 3 4 75.0 5 3 8 3 2 4 4 4 14
+p230
+aVMehmet Okur UTA 03/05/2007 UTA vs. CHA W 31 32 13 15 86.7 1 2 50.0 5 7 71.4 3 6 9 3 0 0 1 3 15
+p231
+aVMatt Harpring UTA 03/05/2007 UTA vs. CHA W 25 19 7 10 70.0 0 0 - 5 7 71.4 0 2 2 3 0 0 1 1 9
+p232
+aVJarron Collins UTA 03/05/2007 UTA vs. CHA W 15 8 3 6 50.0 0 0 - 2 3 66.7 4 1 5 2 0 0 1 1 7
+p233
+aVRafael Araujo UTA 03/05/2007 UTA vs. CHA W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 3
+p234
+aVDee Brown UTA 03/05/2007 UTA vs. CHA W 6 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 4 1 0 0 0 0
+p235
+aVGordan Giricek UTA 03/05/2007 UTA vs. CHA W 29 15 3 4 75.0 0 0 - 9 9 100.0 0 2 2 2 0 0 1 3 7
+p236
+aVCarlos Boozer UTA 03/05/2007 UTA vs. CHA W 27 12 6 9 66.7 0 0 - 0 2 0.0 1 8 9 1 3 1 3 2 17
+p237
+aVCJ Miles UTA 03/05/2007 UTA vs. CHA W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 3
+p238
+aVGordan Giricek UTA 03/04/2007 UTA @ NOK W 27 13 5 8 62.5 2 2 100.0 1 2 50.0 0 2 2 0 1 0 1 5 7
+p239
+aVJarron Collins UTA 03/04/2007 UTA @ NOK W 14 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 2 0 1 2 2 9
+p240
+aVCarlos Boozer UTA 03/04/2007 UTA @ NOK W 32 17 7 14 50.0 0 0 - 3 4 75.0 4 8 12 1 2 0 0 2 4
+p241
+aVDeron Williams UTA 03/04/2007 UTA @ NOK W 37 20 7 15 46.7 2 5 40.0 4 4 100.0 2 0 2 6 1 0 4 3 14
+p242
+aVPaul Millsap UTA 03/04/2007 UTA @ NOK W 16 8 2 3 66.7 0 0 - 4 4 100.0 1 3 4 0 0 3 3 0 10
+p243
+aVDerek Fisher UTA 03/04/2007 UTA @ NOK W 32 6 1 5 20.0 0 1 0.0 4 7 57.1 0 0 0 4 0 0 0 1 7
+p244
+aVMatt Harpring UTA 03/04/2007 UTA @ NOK W 27 9 2 7 28.6 0 0 - 5 6 83.3 4 5 9 2 1 0 0 2 7
+p245
+aVAndrei Kirilenko UTA 03/04/2007 UTA @ NOK W 21 3 1 4 25.0 0 1 0.0 1 3 33.3 0 6 6 1 0 1 1 2 7
+p246
+aVMehmet Okur UTA 03/04/2007 UTA @ NOK W 34 28 10 17 58.8 1 5 20.0 7 9 77.8 3 6 9 2 1 0 0 2 5
+p247
+aVGordan Giricek UTA 03/02/2007 UTA @ MIN W 30 20 7 11 63.6 4 5 80.0 2 3 66.7 1 4 5 3 1 0 0 1 22
+p248
+aVDerek Fisher UTA 03/02/2007 UTA @ MIN W 31 9 3 9 33.3 1 3 33.3 2 2 100.0 0 2 2 5 2 0 2 3 15
+p249
+aVDeron Williams UTA 03/02/2007 UTA @ MIN W 30 21 7 12 58.3 3 6 50.0 4 4 100.0 0 4 4 8 0 0 3 2 19
+p250
+aVCarlos Boozer UTA 03/02/2007 UTA @ MIN W 25 8 4 7 57.1 0 0 - 0 0 - 3 6 9 2 0 0 3 4 17
+p251
+aVMehmet Okur UTA 03/02/2007 UTA @ MIN W 26 10 4 10 40.0 1 3 33.3 1 2 50.0 1 2 3 3 1 0 1 3 7
+p252
+aVRafael Araujo UTA 03/02/2007 UTA @ MIN W 3 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -2
+p253
+aVPaul Millsap UTA 03/02/2007 UTA @ MIN W 22 10 4 4 100.0 0 0 - 2 3 66.7 2 4 6 2 0 3 3 0 19
+p254
+aVJarron Collins UTA 03/02/2007 UTA @ MIN W 20 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 2 0 1 2 2 11
+p255
+aVCJ Miles UTA 03/02/2007 UTA @ MIN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p256
+aVMatt Harpring UTA 03/02/2007 UTA @ MIN W 28 19 9 13 69.2 0 1 0.0 1 1 100.0 1 0 1 2 0 1 2 3 22
+p257
+aVDee Brown UTA 03/02/2007 UTA @ MIN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p258
+aVAndrei Kirilenko UTA 03/02/2007 UTA @ MIN W 20 10 4 5 80.0 0 1 0.0 2 3 66.7 0 2 2 1 2 0 1 3 4
+p259
+aVRafael Araujo UTA 02/28/2007 UTA @ MEM W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -9
+p260
+aVJarron Collins UTA 02/28/2007 UTA @ MEM W 5 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 2 -4
+p261
+aVGordan Giricek UTA 02/28/2007 UTA @ MEM W 27 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 0 2 0 1 3 18
+p262
+aVMehmet Okur UTA 02/28/2007 UTA @ MEM W 28 16 6 12 50.0 2 3 66.7 2 4 50.0 2 3 5 2 0 0 0 3 11
+p263
+aVDeron Williams UTA 02/28/2007 UTA @ MEM W 37 14 6 10 60.0 2 2 100.0 0 0 - 0 3 3 10 0 0 4 1 8
+p264
+aVPaul Millsap UTA 02/28/2007 UTA @ MEM W 21 1 0 0 - 0 0 - 1 2 50.0 2 5 7 0 1 2 1 5 10
+p265
+aVAndrei Kirilenko UTA 02/28/2007 UTA @ MEM W 17 7 3 5 60.0 0 1 0.0 1 4 25.0 1 0 1 2 2 2 3 2 -11
+p266
+aVDerek Fisher UTA 02/28/2007 UTA @ MEM W 30 7 2 10 20.0 1 2 50.0 2 2 100.0 0 3 3 3 1 0 1 2 11
+p267
+aVRonnie Brewer UTA 02/28/2007 UTA @ MEM W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p268
+aVDee Brown UTA 02/28/2007 UTA @ MEM W 2 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -5
+p269
+aVMatt Harpring UTA 02/28/2007 UTA @ MEM W 29 25 7 12 58.3 0 0 - 11 11 100.0 0 3 3 3 2 0 2 3 33
+p270
+aVCarlos Boozer UTA 02/28/2007 UTA @ MEM W 36 24 12 16 75.0 0 0 - 0 0 - 3 13 16 3 1 0 4 3 24
+p271
+aVRafael Araujo UTA 02/26/2007 UTA vs. LAL L 5 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 1 0 2 0 0
+p272
+aVCarlos Boozer UTA 02/26/2007 UTA vs. LAL L 30 13 6 11 54.5 0 0 - 1 2 50.0 2 7 9 2 1 0 1 2 6
+p273
+aVDerek Fisher UTA 02/26/2007 UTA vs. LAL L 41 23 8 15 53.3 4 6 66.7 3 6 50.0 0 2 2 8 2 0 2 4 -3
+p274
+aVRonnie Brewer UTA 02/26/2007 UTA vs. LAL L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p275
+aVDee Brown UTA 02/26/2007 UTA vs. LAL L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 2 1 -5
+p276
+aVCJ Miles UTA 02/26/2007 UTA vs. LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p277
+aVAndrei Kirilenko UTA 02/26/2007 UTA vs. LAL L 28 12 3 7 42.9 0 1 0.0 6 7 85.7 4 1 5 2 0 0 0 5 0
+p278
+aVMatt Harpring UTA 02/26/2007 UTA vs. LAL L 33 14 6 13 46.2 0 0 - 2 5 40.0 3 4 7 5 0 0 1 4 -15
+p279
+aVMehmet Okur UTA 02/26/2007 UTA vs. LAL L 35 9 3 19 15.8 1 4 25.0 2 2 100.0 2 4 6 2 0 0 0 1 -1
+p280
+aVJarron Collins UTA 02/26/2007 UTA vs. LAL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p281
+aVPaul Millsap UTA 02/26/2007 UTA vs. LAL L 21 4 1 3 33.3 0 0 - 2 2 100.0 3 4 7 1 0 0 0 2 -14
+p282
+aVGordan Giricek UTA 02/26/2007 UTA vs. LAL L 25 12 5 9 55.6 0 2 0.0 2 2 100.0 0 2 2 1 0 0 1 3 2
+p283
+aVDerek Fisher UTA 02/24/2007 UTA vs. BOS W 32 21 8 11 72.7 3 4 75.0 2 4 50.0 0 2 2 3 2 0 4 3 12
+p284
+aVRonnie Brewer UTA 02/24/2007 UTA vs. BOS W 12 3 0 2 0.0 0 1 0.0 3 4 75.0 1 0 1 1 3 0 0 3 9
+p285
+aVCJ Miles UTA 02/24/2007 UTA vs. BOS W 18 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 3 1 1 1 1 1
+p286
+aVDee Brown UTA 02/24/2007 UTA vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 2 0 0
+p287
+aVDeron Williams UTA 02/24/2007 UTA vs. BOS W 27 2 1 10 10.0 0 2 0.0 0 1 0.0 0 3 3 10 2 0 2 3 4
+p288
+aVGordan Giricek UTA 02/24/2007 UTA vs. BOS W 23 16 7 8 87.5 1 2 50.0 1 2 50.0 0 2 2 1 1 0 2 3 11
+p289
+aVPaul Millsap UTA 02/24/2007 UTA vs. BOS W 32 10 5 14 35.7 0 0 - 0 0 - 7 1 8 1 2 2 1 3 19
+p290
+aVJarron Collins UTA 02/24/2007 UTA vs. BOS W 24 8 3 6 50.0 0 0 - 2 2 100.0 3 5 8 1 1 0 1 2 7
+p291
+aVCarlos Boozer UTA 02/24/2007 UTA vs. BOS W 23 16 6 11 54.5 0 0 - 4 5 80.0 3 7 10 4 0 0 1 1 0
+p292
+aVLou Amundson UTA 02/24/2007 UTA vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p293
+aVMatt Harpring UTA 02/24/2007 UTA vs. BOS W 29 15 4 8 50.0 0 1 0.0 7 10 70.0 1 2 3 4 2 1 1 1 17
+p294
+aVRafael Araujo UTA 02/24/2007 UTA vs. BOS W 15 6 3 3 100.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 10
+p295
+aVDeron Williams UTA 02/23/2007 UTA @ DEN W 41 26 8 20 40.0 2 5 40.0 8 8 100.0 1 3 4 14 1 0 4 3 11
+p296
+aVGordan Giricek UTA 02/23/2007 UTA @ DEN W 21 12 5 13 38.5 2 6 33.3 0 0 - 1 3 4 2 1 0 2 4 -2
+p297
+aVCarlos Boozer UTA 02/23/2007 UTA @ DEN W 12 10 5 8 62.5 0 0 - 0 0 - 0 3 3 1 0 0 0 0 5
+p298
+aVRafael Araujo UTA 02/23/2007 UTA @ DEN W 34 5 2 3 66.7 0 0 - 1 2 50.0 3 7 10 2 0 1 0 3 7
+p299
+aVAndrei Kirilenko UTA 02/23/2007 UTA @ DEN W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 3
+p300
+aVDee Brown UTA 02/23/2007 UTA @ DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p301
+aVCJ Miles UTA 02/23/2007 UTA @ DEN W 13 8 3 4 75.0 1 2 50.0 1 2 50.0 1 0 1 0 0 1 0 2 7
+p302
+aVMatt Harpring UTA 02/23/2007 UTA @ DEN W 31 22 8 13 61.5 1 2 50.0 5 9 55.6 0 2 2 1 2 0 1 3 0
+p303
+aVDerek Fisher UTA 02/23/2007 UTA @ DEN W 27 6 2 7 28.6 0 2 0.0 2 2 100.0 0 0 0 2 1 0 3 5 -2
+p304
+aVJarron Collins UTA 02/23/2007 UTA @ DEN W 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 4 5
+p305
+aVRonnie Brewer UTA 02/23/2007 UTA @ DEN W 12 9 4 5 80.0 0 0 - 1 2 50.0 1 1 2 1 1 0 1 0 10
+p306
+aVPaul Millsap UTA 02/23/2007 UTA @ DEN W 28 14 2 8 25.0 0 0 - 10 13 76.9 5 5 10 1 4 1 2 5 6
+p307
+aVRonnie Brewer UTA 02/20/2007 UTA @ POR L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 3
+p308
+aVDee Brown UTA 02/20/2007 UTA @ POR L 12 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 1 -6
+p309
+aVJarron Collins UTA 02/20/2007 UTA @ POR L 18 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 2 0 0 1 2 -8
+p310
+aVMatt Harpring UTA 02/20/2007 UTA @ POR L 29 13 3 7 42.9 0 0 - 7 8 87.5 5 7 12 1 0 0 0 3 7
+p311
+aVDerek Fisher UTA 02/20/2007 UTA @ POR L 36 20 5 14 35.7 1 4 25.0 9 9 100.0 0 2 2 10 3 0 3 5 3
+p312
+aVRafael Araujo UTA 02/20/2007 UTA @ POR L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 2
+p313
+aVAndrei Kirilenko UTA 02/20/2007 UTA @ POR L 28 5 1 5 20.0 0 1 0.0 3 4 75.0 0 6 6 0 0 1 2 2 -6
+p314
+aVGordan Giricek UTA 02/20/2007 UTA @ POR L 24 9 4 8 50.0 0 0 - 1 2 50.0 0 2 2 0 1 0 1 2 -11
+p315
+aVMehmet Okur UTA 02/20/2007 UTA @ POR L 41 25 9 20 45.0 1 3 33.3 6 6 100.0 2 6 8 1 1 0 2 3 -4
+p316
+aVPaul Millsap UTA 02/20/2007 UTA @ POR L 29 18 8 12 66.7 0 0 - 2 4 50.0 4 2 6 1 0 0 2 3 5
+p317
+aVMehmet Okur UTA 02/14/2007 UTA vs. CLE W 36 22 8 13 61.5 3 4 75.0 3 3 100.0 1 4 5 2 0 0 1 2 -3
+p318
+aVAndrei Kirilenko UTA 02/14/2007 UTA vs. CLE W 27 10 5 6 83.3 0 0 - 0 0 - 0 2 2 2 1 3 1 4 -2
+p319
+aVPaul Millsap UTA 02/14/2007 UTA vs. CLE W 30 7 3 7 42.9 0 0 - 1 4 25.0 3 3 6 1 2 1 3 3 1
+p320
+aVDerek Fisher UTA 02/14/2007 UTA vs. CLE W 25 3 1 7 14.3 0 2 0.0 1 2 50.0 0 1 1 2 1 0 1 0 -10
+p321
+aVDeron Williams UTA 02/14/2007 UTA vs. CLE W 43 33 14 23 60.9 1 4 25.0 4 8 50.0 0 6 6 12 2 0 2 3 7
+p322
+aVRafael Araujo UTA 02/14/2007 UTA vs. CLE W 10 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 2
+p323
+aVGordan Giricek UTA 02/14/2007 UTA vs. CLE W 28 8 2 8 25.0 2 4 50.0 2 2 100.0 1 1 2 2 1 0 1 2 5
+p324
+aVMatt Harpring UTA 02/14/2007 UTA vs. CLE W 24 9 4 10 40.0 1 1 100.0 0 0 - 3 3 6 1 0 0 0 2 7
+p325
+aVJarron Collins UTA 02/14/2007 UTA vs. CLE W 17 5 1 4 25.0 0 0 - 3 4 75.0 2 3 5 1 0 1 0 4 -2
+p326
+aVDeron Williams UTA 02/12/2007 UTA vs. ATL W 31 7 3 7 42.9 1 2 50.0 0 0 - 0 6 6 9 1 0 4 2 16
+p327
+aVRonnie Brewer UTA 02/12/2007 UTA vs. ATL W 10 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 0 1 0 -6
+p328
+aVDerek Fisher UTA 02/12/2007 UTA vs. ATL W 31 14 4 8 50.0 1 2 50.0 5 5 100.0 1 2 3 4 2 0 0 2 19
+p329
+aVDee Brown UTA 02/12/2007 UTA vs. ATL W 5 4 1 1 100.0 0 0 - 2 2 100.0 2 0 2 1 0 0 0 0 2
+p330
+aVMehmet Okur UTA 02/12/2007 UTA vs. ATL W 30 19 4 9 44.4 2 3 66.7 9 10 90.0 0 6 6 1 1 0 3 2 20
+p331
+aVJarron Collins UTA 02/12/2007 UTA vs. ATL W 29 3 1 4 25.0 0 0 - 1 2 50.0 1 4 5 2 0 0 1 5 11
+p332
+aVGordan Giricek UTA 02/12/2007 UTA vs. ATL W 19 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 0 0 0 2 1 21
+p333
+aVPaul Millsap UTA 02/12/2007 UTA vs. ATL W 17 13 4 9 44.4 0 0 - 5 6 83.3 3 6 9 0 0 0 1 5 11
+p334
+aVMatt Harpring UTA 02/12/2007 UTA vs. ATL W 20 11 3 12 25.0 0 0 - 5 5 100.0 4 4 8 2 1 0 1 4 5
+p335
+aVCJ Miles UTA 02/12/2007 UTA vs. ATL W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 1
+p336
+aVRafael Araujo UTA 02/12/2007 UTA vs. ATL W 11 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 7
+p337
+aVAndrei Kirilenko UTA 02/12/2007 UTA vs. ATL W 33 11 3 5 60.0 0 1 0.0 5 6 83.3 1 3 4 4 2 4 1 1 23
+p338
+aVDerek Fisher UTA 02/10/2007 UTA vs. NYK W 42 14 5 10 50.0 1 2 50.0 3 3 100.0 1 0 1 4 2 0 0 4 11
+p339
+aVRafael Araujo UTA 02/10/2007 UTA vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p340
+aVMehmet Okur UTA 02/10/2007 UTA vs. NYK W 43 29 11 22 50.0 4 7 57.1 3 6 50.0 3 3 6 5 2 1 2 2 17
+p341
+aVMatt Harpring UTA 02/10/2007 UTA vs. NYK W 36 13 5 13 38.5 1 2 50.0 2 2 100.0 1 6 7 1 2 0 2 4 7
+p342
+aVPaul Millsap UTA 02/10/2007 UTA vs. NYK W 38 18 7 11 63.6 0 0 - 4 8 50.0 6 3 9 2 3 2 2 4 8
+p343
+aVAndrei Kirilenko UTA 02/10/2007 UTA vs. NYK W 25 5 2 6 33.3 0 1 0.0 1 4 25.0 1 2 3 2 0 3 1 0 -9
+p344
+aVGordan Giricek UTA 02/10/2007 UTA vs. NYK W 15 2 1 3 33.3 0 2 0.0 0 0 - 1 3 4 4 0 1 1 1 1
+p345
+aVRonnie Brewer UTA 02/10/2007 UTA vs. NYK W 7 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -2
+p346
+aVDeron Williams UTA 02/10/2007 UTA vs. NYK W 42 16 7 14 50.0 1 1 100.0 1 3 33.3 0 3 3 10 1 1 4 4 -6
+p347
+aVJarron Collins UTA 02/10/2007 UTA vs. NYK W 14 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 1 0 1 3 -10
+p348
+aVRafael Araujo UTA 02/05/2007 UTA vs. CHI W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 16
+p349
+aVPaul Millsap UTA 02/05/2007 UTA vs. CHI W 20 4 2 4 50.0 0 0 - 0 2 0.0 1 5 6 2 1 1 0 3 -3
+p350
+aVMehmet Okur UTA 02/05/2007 UTA vs. CHI W 28 20 7 17 41.2 3 5 60.0 3 5 60.0 2 3 5 3 0 0 2 5 -10
+p351
+aVJarron Collins UTA 02/05/2007 UTA vs. CHI W 26 7 2 3 66.7 0 0 - 3 4 75.0 2 4 6 1 1 0 0 4 -3
+p352
+aVDerek Fisher UTA 02/05/2007 UTA vs. CHI W 37 19 6 13 46.2 0 1 0.0 7 7 100.0 2 0 2 3 1 0 3 5 5
+p353
+aVGordan Giricek UTA 02/05/2007 UTA vs. CHI W 20 12 4 8 50.0 2 4 50.0 2 2 100.0 0 2 2 0 0 0 1 3 6
+p354
+aVDeron Williams UTA 02/05/2007 UTA vs. CHI W 40 18 8 14 57.1 1 4 25.0 1 5 20.0 0 1 1 13 2 0 5 4 -1
+p355
+aVAndrei Kirilenko UTA 02/05/2007 UTA vs. CHI W 27 5 1 5 20.0 0 3 0.0 3 4 75.0 2 6 8 2 1 3 3 3 -5
+p356
+aVRonnie Brewer UTA 02/05/2007 UTA vs. CHI W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p357
+aVMatt Harpring UTA 02/05/2007 UTA vs. CHI W 32 13 6 8 75.0 0 1 0.0 1 2 50.0 0 9 9 0 1 0 2 3 16
+p358
+aVMehmet Okur UTA 02/03/2007 UTA @ PHX W 37 29 13 27 48.1 1 7 14.3 2 4 50.0 6 6 12 0 1 0 3 4 -3
+p359
+aVJarron Collins UTA 02/03/2007 UTA @ PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p360
+aVGordan Giricek UTA 02/03/2007 UTA @ PHX W 25 7 2 4 50.0 1 2 50.0 2 2 100.0 1 3 4 1 1 0 1 2 12
+p361
+aVMatt Harpring UTA 02/03/2007 UTA @ PHX W 30 12 4 8 50.0 0 0 - 4 4 100.0 2 1 3 1 1 0 0 3 6
+p362
+aVDerek Fisher UTA 02/03/2007 UTA @ PHX W 37 9 4 10 40.0 0 3 0.0 1 1 100.0 3 1 4 3 4 0 0 4 -5
+p363
+aVDeron Williams UTA 02/03/2007 UTA @ PHX W 38 28 12 17 70.6 2 2 100.0 2 2 100.0 1 1 2 10 1 0 5 3 0
+p364
+aVRonnie Brewer UTA 02/03/2007 UTA @ PHX W 12 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 14
+p365
+aVAndrei Kirilenko UTA 02/03/2007 UTA @ PHX W 36 10 3 9 33.3 0 1 0.0 4 4 100.0 0 5 5 3 1 3 1 4 -11
+p366
+aVPaul Millsap UTA 02/03/2007 UTA @ PHX W 24 8 4 9 44.4 0 0 - 0 0 - 3 3 6 2 0 0 2 5 4
+p367
+aVJarron Collins UTA 01/31/2007 UTA vs. SAS W 10 5 2 4 50.0 0 0 - 1 2 50.0 3 0 3 1 1 0 0 4 6
+p368
+aVMehmet Okur UTA 01/31/2007 UTA vs. SAS W 38 31 10 14 71.4 3 6 50.0 8 8 100.0 4 7 11 2 1 0 0 2 -1
+p369
+aVPaul Millsap UTA 01/31/2007 UTA vs. SAS W 29 15 6 9 66.7 0 0 - 3 4 75.0 2 6 8 2 0 2 3 3 -5
+p370
+aVMatt Harpring UTA 01/31/2007 UTA vs. SAS W 22 4 1 5 20.0 0 0 - 2 4 50.0 1 3 4 0 0 0 2 3 0
+p371
+aVGordan Giricek UTA 01/31/2007 UTA vs. SAS W 21 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 1 1 1 1 2 1
+p372
+aVAndrei Kirilenko UTA 01/31/2007 UTA vs. SAS W 32 9 3 14 21.4 0 1 0.0 3 4 75.0 4 4 8 1 1 0 3 1 4
+p373
+aVDerek Fisher UTA 01/31/2007 UTA vs. SAS W 31 8 1 7 14.3 1 2 50.0 5 6 83.3 0 1 1 5 1 0 1 1 2
+p374
+aVDeron Williams UTA 01/31/2007 UTA vs. SAS W 38 14 5 14 35.7 1 4 25.0 3 4 75.0 1 5 6 7 1 0 2 3 5
+p375
+aVRafael Araujo UTA 01/31/2007 UTA vs. SAS W 19 7 2 5 40.0 0 0 - 3 4 75.0 2 3 5 1 2 0 1 3 8
+p376
+aVRonnie Brewer UTA 01/29/2007 UTA vs. NJN L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p377
+aVDeron Williams UTA 01/29/2007 UTA vs. NJN L 37 25 10 16 62.5 1 3 33.3 4 5 80.0 0 1 1 5 1 0 6 4 -1
+p378
+aVRafael Araujo UTA 01/29/2007 UTA vs. NJN L 5 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 7
+p379
+aVDerek Fisher UTA 01/29/2007 UTA vs. NJN L 28 17 4 7 57.1 1 2 50.0 8 8 100.0 1 3 4 4 0 0 2 2 -5
+p380
+aVMehmet Okur UTA 01/29/2007 UTA vs. NJN L 38 18 5 16 31.3 3 7 42.9 5 6 83.3 4 7 11 5 1 1 0 1 -6
+p381
+aVAndrei Kirilenko UTA 01/29/2007 UTA vs. NJN L 22 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 5 -8
+p382
+aVJarron Collins UTA 01/29/2007 UTA vs. NJN L 16 5 2 5 40.0 0 0 - 1 1 100.0 1 0 1 1 0 0 1 1 -8
+p383
+aVMatt Harpring UTA 01/29/2007 UTA vs. NJN L 31 13 2 4 50.0 0 0 - 9 11 81.8 2 6 8 0 1 0 1 4 1
+p384
+aVPaul Millsap UTA 01/29/2007 UTA vs. NJN L 31 16 5 8 62.5 0 0 - 6 7 85.7 6 6 12 3 1 2 8 6 12
+p385
+aVGordan Giricek UTA 01/29/2007 UTA vs. NJN L 17 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 1 2 9
+p386
+aVRafael Araujo UTA 01/27/2007 UTA @ NOK L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p387
+aVGordan Giricek UTA 01/27/2007 UTA @ NOK L 10 3 0 3 0.0 0 2 0.0 3 4 75.0 0 1 1 1 1 1 1 1 -1
+p388
+aVDeron Williams UTA 01/27/2007 UTA @ NOK L 39 27 11 19 57.9 0 2 0.0 5 8 62.5 2 3 5 8 0 1 4 2 -18
+p389
+aVJarron Collins UTA 01/27/2007 UTA @ NOK L 8 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p390
+aVPaul Millsap UTA 01/27/2007 UTA @ NOK L 35 15 5 11 45.5 0 0 - 5 8 62.5 10 7 17 0 1 2 0 4 -6
+p391
+aVDerek Fisher UTA 01/27/2007 UTA @ NOK L 43 14 4 11 36.4 1 3 33.3 5 6 83.3 0 2 2 2 3 0 2 3 -8
+p392
+aVMatt Harpring UTA 01/27/2007 UTA @ NOK L 30 7 2 10 20.0 0 1 0.0 3 4 75.0 2 6 8 1 1 0 1 5 -5
+p393
+aVMehmet Okur UTA 01/27/2007 UTA @ NOK L 42 11 5 18 27.8 0 6 0.0 1 1 100.0 1 6 7 2 1 2 4 1 -8
+p394
+aVRonnie Brewer UTA 01/27/2007 UTA @ NOK L 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 2 0 0 2 -6
+p395
+aVCJ Miles UTA 01/27/2007 UTA @ NOK L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 5
+p396
+aVCarlos Boozer UTA 01/27/2007 UTA @ NOK L 3 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -6
+p397
+aVMehmet Okur UTA 01/26/2007 UTA vs. DEN W 36 14 5 17 29.4 0 7 0.0 4 6 66.7 2 3 5 2 0 0 1 2 -2
+p398
+aVCarlos Boozer UTA 01/26/2007 UTA vs. DEN W 38 25 10 16 62.5 0 0 - 5 7 71.4 5 14 19 2 1 0 2 3 3
+p399
+aVAndrei Kirilenko UTA 01/26/2007 UTA vs. DEN W 14 7 2 3 66.7 1 1 100.0 2 2 100.0 0 0 0 4 0 1 0 2 -2
+p400
+aVRonnie Brewer UTA 01/26/2007 UTA vs. DEN W 16 12 5 6 83.3 0 0 - 2 2 100.0 1 3 4 0 1 0 0 2 14
+p401
+aVDeron Williams UTA 01/26/2007 UTA vs. DEN W 39 16 5 11 45.5 1 3 33.3 5 6 83.3 0 1 1 12 0 0 4 4 4
+p402
+aVDee Brown UTA 01/26/2007 UTA vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p403
+aVDerek Fisher UTA 01/26/2007 UTA vs. DEN W 25 8 2 8 25.0 0 1 0.0 4 4 100.0 0 0 0 2 0 0 3 3 4
+p404
+aVGordan Giricek UTA 01/26/2007 UTA vs. DEN W 15 13 5 8 62.5 3 6 50.0 0 1 0.0 0 1 1 1 0 0 1 2 7
+p405
+aVJarron Collins UTA 01/26/2007 UTA vs. DEN W 11 4 2 4 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 2 5
+p406
+aVPaul Millsap UTA 01/26/2007 UTA vs. DEN W 17 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 1 1 2 0 4 3
+p407
+aVMatt Harpring UTA 01/26/2007 UTA vs. DEN W 22 11 3 4 75.0 0 0 - 5 8 62.5 0 2 2 2 1 0 1 4 -14
+p408
+aVCarlos Boozer UTA 01/24/2007 UTA vs. MEM L 36 39 18 24 75.0 0 0 - 3 5 60.0 2 13 15 1 0 0 3 6 6
+p409
+aVJarron Collins UTA 01/24/2007 UTA vs. MEM L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 2 3 -6
+p410
+aVDeron Williams UTA 01/24/2007 UTA vs. MEM L 41 7 3 13 23.1 0 3 0.0 1 2 50.0 1 4 5 21 0 1 1 5 13
+p411
+aVMehmet Okur UTA 01/24/2007 UTA vs. MEM L 38 27 11 19 57.9 5 7 71.4 0 2 0.0 3 8 11 3 1 2 0 5 6
+p412
+aVMatt Harpring UTA 01/24/2007 UTA vs. MEM L 26 12 4 7 57.1 0 1 0.0 4 6 66.7 1 1 2 1 1 0 1 3 -10
+p413
+aVPaul Millsap UTA 01/24/2007 UTA vs. MEM L 18 6 3 7 42.9 0 1 0.0 0 0 - 3 3 6 1 1 2 0 6 -12
+p414
+aVAndrei Kirilenko UTA 01/24/2007 UTA vs. MEM L 37 18 6 8 75.0 0 0 - 6 9 66.7 5 7 12 4 0 3 5 2 7
+p415
+aVGordan Giricek UTA 01/24/2007 UTA vs. MEM L 18 10 5 10 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 1 -13
+p416
+aVDerek Fisher UTA 01/24/2007 UTA vs. MEM L 31 11 4 9 44.4 0 1 0.0 3 5 60.0 2 0 2 6 1 0 0 1 2
+p417
+aVDee Brown UTA 01/24/2007 UTA vs. MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p418
+aVPaul Millsap UTA 01/22/2007 UTA vs. MIN W 12 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 1 0 0 8
+p419
+aVMehmet Okur UTA 01/22/2007 UTA vs. MIN W 34 28 10 16 62.5 4 6 66.7 4 5 80.0 0 5 5 0 0 1 1 2 6
+p420
+aVAndrei Kirilenko UTA 01/22/2007 UTA vs. MIN W 29 7 3 5 60.0 0 0 - 1 3 33.3 0 5 5 0 0 1 4 1 1
+p421
+aVGordan Giricek UTA 01/22/2007 UTA vs. MIN W 13 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 8
+p422
+aVDerek Fisher UTA 01/22/2007 UTA vs. MIN W 36 9 3 10 30.0 0 1 0.0 3 4 75.0 2 2 4 7 1 0 0 3 2
+p423
+aVDeron Williams UTA 01/22/2007 UTA vs. MIN W 38 21 9 16 56.3 1 3 33.3 2 2 100.0 0 3 3 15 2 1 0 2 14
+p424
+aVJarron Collins UTA 01/22/2007 UTA vs. MIN W 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 3 0 0 1 3 13
+p425
+aVCarlos Boozer UTA 01/22/2007 UTA vs. MIN W 32 18 9 14 64.3 0 0 - 0 0 - 1 4 5 3 1 0 1 3 3
+p426
+aVMatt Harpring UTA 01/22/2007 UTA vs. MIN W 26 11 5 9 55.6 0 0 - 1 1 100.0 1 2 3 1 2 0 1 4 20
+p427
+aVPaul Millsap UTA 01/20/2007 UTA @ CHI W 14 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 1 2 4 5
+p428
+aVAndrei Kirilenko UTA 01/20/2007 UTA @ CHI W 31 10 2 6 33.3 0 2 0.0 6 8 75.0 2 4 6 7 3 2 2 2 6
+p429
+aVMehmet Okur UTA 01/20/2007 UTA @ CHI W 33 21 7 18 38.9 3 9 33.3 4 5 80.0 1 10 11 0 0 0 0 4 4
+p430
+aVDerek Fisher UTA 01/20/2007 UTA @ CHI W 43 14 3 11 27.3 0 1 0.0 8 9 88.9 2 1 3 4 1 0 3 4 13
+p431
+aVJarron Collins UTA 01/20/2007 UTA @ CHI W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 1 1 3 4
+p432
+aVMatt Harpring UTA 01/20/2007 UTA @ CHI W 21 11 4 8 50.0 0 0 - 3 4 75.0 2 0 2 0 2 0 0 2 5
+p433
+aVGordan Giricek UTA 01/20/2007 UTA @ CHI W 17 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 5
+p434
+aVDeron Williams UTA 01/20/2007 UTA @ CHI W 33 12 6 12 50.0 0 1 0.0 0 0 - 0 0 0 7 2 0 5 6 1
+p435
+aVCarlos Boozer UTA 01/20/2007 UTA @ CHI W 38 19 7 13 53.8 0 0 - 5 10 50.0 2 12 14 4 0 0 2 2 7
+p436
+aVDerek Fisher UTA 01/19/2007 UTA @ TOR W 34 10 4 9 44.4 0 0 - 2 3 66.7 0 2 2 5 2 0 1 3 4
+p437
+aVMehmet Okur UTA 01/19/2007 UTA @ TOR W 38 27 9 19 47.4 2 8 25.0 7 8 87.5 0 3 3 1 1 1 0 3 10
+p438
+aVCarlos Boozer UTA 01/19/2007 UTA @ TOR W 31 23 11 16 68.8 0 0 - 1 2 50.0 4 15 19 3 2 0 4 5 13
+p439
+aVPaul Millsap UTA 01/19/2007 UTA @ TOR W 18 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 1 0 0 2 -10
+p440
+aVGordan Giricek UTA 01/19/2007 UTA @ TOR W 16 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 3 1 1
+p441
+aVAndrei Kirilenko UTA 01/19/2007 UTA @ TOR W 33 8 4 6 66.7 0 0 - 0 0 - 0 5 5 6 1 2 0 2 8
+p442
+aVJarron Collins UTA 01/19/2007 UTA @ TOR W 7 8 1 2 50.0 0 0 - 6 6 100.0 1 1 2 0 0 0 0 2 3
+p443
+aVDeron Williams UTA 01/19/2007 UTA @ TOR W 39 16 5 16 31.3 1 4 25.0 5 6 83.3 1 2 3 8 1 0 3 2 8
+p444
+aVMatt Harpring UTA 01/19/2007 UTA @ TOR W 21 6 3 5 60.0 0 0 - 0 0 - 1 3 4 3 0 0 4 3 3
+p445
+aVAndrei Kirilenko UTA 01/17/2007 UTA @ DET W 35 9 4 9 44.4 0 0 - 1 2 50.0 1 6 7 4 4 0 1 1 9
+p446
+aVDeron Williams UTA 01/17/2007 UTA @ DET W 43 31 12 17 70.6 1 3 33.3 6 9 66.7 0 3 3 10 1 0 4 4 5
+p447
+aVMehmet Okur UTA 01/17/2007 UTA @ DET W 40 22 8 13 61.5 0 3 0.0 6 8 75.0 4 3 7 1 0 1 0 1 9
+p448
+aVDerek Fisher UTA 01/17/2007 UTA @ DET W 28 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 3 1 0 2 4 -11
+p449
+aVPaul Millsap UTA 01/17/2007 UTA @ DET W 12 2 0 3 0.0 0 0 - 2 4 50.0 3 0 3 0 0 2 0 2 -14
+p450
+aVGordan Giricek UTA 01/17/2007 UTA @ DET W 20 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 1 9
+p451
+aVJarron Collins UTA 01/17/2007 UTA @ DET W 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p452
+aVMatt Harpring UTA 01/17/2007 UTA @ DET W 18 10 3 6 50.0 0 0 - 4 6 66.7 2 2 4 2 0 0 1 4 -9
+p453
+aVCarlos Boozer UTA 01/17/2007 UTA @ DET W 40 20 10 21 47.6 0 0 - 0 2 0.0 1 8 9 6 2 0 3 5 9
+p454
+aVMatt Harpring UTA 01/15/2007 UTA @ WAS L 28 9 2 7 28.6 0 0 - 5 6 83.3 1 4 5 1 0 0 4 4 7
+p455
+aVDerek Fisher UTA 01/15/2007 UTA @ WAS L 24 4 1 6 16.7 0 1 0.0 2 2 100.0 0 3 3 4 0 0 1 5 6
+p456
+aVJarron Collins UTA 01/15/2007 UTA @ WAS L 5 3 1 3 33.3 0 0 - 1 1 100.0 2 0 2 0 0 0 0 0 5
+p457
+aVMehmet Okur UTA 01/15/2007 UTA @ WAS L 40 38 13 22 59.1 4 8 50.0 8 10 80.0 3 6 9 2 0 1 0 3 -8
+p458
+aVCarlos Boozer UTA 01/15/2007 UTA @ WAS L 38 27 12 18 66.7 0 0 - 3 4 75.0 7 6 13 3 0 0 4 2 -14
+p459
+aVDee Brown UTA 01/15/2007 UTA @ WAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 0
+p460
+aVRonnie Brewer UTA 01/15/2007 UTA @ WAS L 21 8 4 10 40.0 0 1 0.0 0 0 - 2 0 2 0 1 0 1 4 0
+p461
+aVAndrei Kirilenko UTA 01/15/2007 UTA @ WAS L 30 4 0 4 0.0 0 2 0.0 4 4 100.0 2 1 3 2 1 1 1 2 -17
+p462
+aVPaul Millsap UTA 01/15/2007 UTA @ WAS L 13 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 3 11
+p463
+aVDeron Williams UTA 01/15/2007 UTA @ WAS L 37 12 4 11 36.4 2 6 33.3 2 2 100.0 0 6 6 13 4 0 0 5 -5
+p464
+aVRonnie Brewer UTA 01/13/2007 UTA vs. MIA L 14 4 2 4 50.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 2 9
+p465
+aVAndrei Kirilenko UTA 01/13/2007 UTA vs. MIA L 33 11 1 4 25.0 0 0 - 9 10 90.0 2 2 4 3 0 0 2 3 -14
+p466
+aVMatt Harpring UTA 01/13/2007 UTA vs. MIA L 29 18 5 8 62.5 1 3 33.3 7 11 63.6 0 1 1 3 0 0 2 2 3
+p467
+aVDeron Williams UTA 01/13/2007 UTA vs. MIA L 36 19 7 12 58.3 1 1 100.0 4 5 80.0 1 5 6 5 3 0 1 2 -16
+p468
+aVMehmet Okur UTA 01/13/2007 UTA vs. MIA L 19 11 5 7 71.4 0 1 0.0 1 2 50.0 1 1 2 0 1 0 1 5 -13
+p469
+aVJarron Collins UTA 01/13/2007 UTA vs. MIA L 8 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 0 1 3 -2
+p470
+aVRafael Araujo UTA 01/13/2007 UTA vs. MIA L 13 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 0 1 0 1 2 5
+p471
+aVCarlos Boozer UTA 01/13/2007 UTA vs. MIA L 39 29 10 19 52.6 0 0 - 9 13 69.2 4 10 14 2 0 0 4 4 -12
+p472
+aVDee Brown UTA 01/13/2007 UTA vs. MIA L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 0 7
+p473
+aVDerek Fisher UTA 01/13/2007 UTA vs. MIA L 17 7 2 3 66.7 1 2 50.0 2 3 66.7 0 0 0 4 0 0 4 2 -9
+p474
+aVGordan Giricek UTA 01/13/2007 UTA vs. MIA L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 -7
+p475
+aVPaul Millsap UTA 01/13/2007 UTA vs. MIA L 17 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 1 1 3 4
+p476
+aVDerek Fisher UTA 01/12/2007 UTA @ SEA L 30 6 1 4 25.0 0 1 0.0 4 4 100.0 0 1 1 5 0 0 1 6 0
+p477
+aVAndrei Kirilenko UTA 01/12/2007 UTA @ SEA L 30 11 3 8 37.5 0 2 0.0 5 6 83.3 0 3 3 3 2 2 0 3 -21
+p478
+aVJarron Collins UTA 01/12/2007 UTA @ SEA L 7 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p479
+aVGordan Giricek UTA 01/12/2007 UTA @ SEA L 25 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 4 1 0 4 3 -2
+p480
+aVMehmet Okur UTA 01/12/2007 UTA @ SEA L 39 23 9 18 50.0 2 5 40.0 3 5 60.0 3 5 8 1 0 1 3 4 -20
+p481
+aVRonnie Brewer UTA 01/12/2007 UTA @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p482
+aVDeron Williams UTA 01/12/2007 UTA @ SEA L 48 15 4 18 22.2 0 4 0.0 7 8 87.5 0 7 7 9 2 0 2 5 -5
+p483
+aVPaul Millsap UTA 01/12/2007 UTA @ SEA L 15 5 2 3 66.7 0 0 - 1 2 50.0 1 4 5 0 2 1 1 5 9
+p484
+aVMatt Harpring UTA 01/12/2007 UTA @ SEA L 24 11 4 7 57.1 0 0 - 3 5 60.0 1 0 1 1 0 0 0 0 11
+p485
+aVCarlos Boozer UTA 01/12/2007 UTA @ SEA L 45 32 14 20 70.0 0 0 - 4 5 80.0 6 10 16 3 3 0 5 4 -12
+p486
+aVGordan Giricek UTA 01/09/2007 UTA vs. DAL L 18 7 2 3 66.7 1 1 100.0 2 2 100.0 0 3 3 2 0 0 2 3 -13
+p487
+aVMatt Harpring UTA 01/09/2007 UTA vs. DAL L 29 14 4 8 50.0 0 0 - 6 6 100.0 2 4 6 2 0 0 1 6 8
+p488
+aVAndrei Kirilenko UTA 01/09/2007 UTA vs. DAL L 32 11 4 8 50.0 1 2 50.0 2 4 50.0 2 4 6 2 3 0 2 4 -22
+p489
+aVDeron Williams UTA 01/09/2007 UTA vs. DAL L 37 13 3 11 27.3 0 1 0.0 7 8 87.5 1 2 3 6 2 0 3 3 -8
+p490
+aVCarlos Boozer UTA 01/09/2007 UTA vs. DAL L 42 29 13 19 68.4 0 0 - 3 4 75.0 1 3 4 4 3 0 5 3 -8
+p491
+aVPaul Millsap UTA 01/09/2007 UTA vs. DAL L 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 12
+p492
+aVMehmet Okur UTA 01/09/2007 UTA vs. DAL L 36 14 3 9 33.3 1 6 16.7 7 8 87.5 0 4 4 2 0 0 3 5 -14
+p493
+aVRonnie Brewer UTA 01/09/2007 UTA vs. DAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 12
+p494
+aVJarron Collins UTA 01/09/2007 UTA vs. DAL L 4 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 1 0 0 1 4
+p495
+aVDerek Fisher UTA 01/09/2007 UTA vs. DAL L 27 11 3 6 50.0 1 1 100.0 4 4 100.0 0 0 0 3 1 0 4 2 14
+p496
+aVRonnie Brewer UTA 01/06/2007 UTA @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p497
+aVPaul Millsap UTA 01/06/2007 UTA @ DEN W 22 5 2 5 40.0 0 0 - 1 2 50.0 4 4 8 1 2 3 2 4 12
+p498
+aVDeron Williams UTA 01/06/2007 UTA @ DEN W 42 28 12 22 54.5 4 9 44.4 0 0 - 0 3 3 12 4 0 2 5 17
+p499
+aVDee Brown UTA 01/06/2007 UTA @ DEN W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p500
+aVAndrei Kirilenko UTA 01/06/2007 UTA @ DEN W 37 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 4 0 0 2 1 14
+p501
+aVMatt Harpring UTA 01/06/2007 UTA @ DEN W 20 6 1 8 12.5 0 0 - 4 4 100.0 2 5 7 1 0 0 2 2 9
+p502
+aVDerek Fisher UTA 01/06/2007 UTA @ DEN W 23 10 3 8 37.5 1 1 100.0 3 3 100.0 1 3 4 3 1 0 1 2 -7
+p503
+aVMehmet Okur UTA 01/06/2007 UTA @ DEN W 28 10 4 13 30.8 1 3 33.3 1 2 50.0 2 4 6 0 0 0 3 4 0
+p504
+aVJarron Collins UTA 01/06/2007 UTA @ DEN W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 2
+p505
+aVGordan Giricek UTA 01/06/2007 UTA @ DEN W 17 9 4 7 57.1 0 1 0.0 1 2 50.0 0 3 3 2 1 0 1 2 9
+p506
+aVCarlos Boozer UTA 01/06/2007 UTA @ DEN W 36 24 10 12 83.3 0 0 - 4 4 100.0 3 8 11 3 1 0 4 4 10
+p507
+aVAndrei Kirilenko UTA 01/05/2007 UTA @ HOU L 37 16 6 13 46.2 0 3 0.0 4 6 66.7 2 4 6 2 0 4 1 2 -29
+p508
+aVCJ Miles UTA 01/05/2007 UTA @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p509
+aVDerek Fisher UTA 01/05/2007 UTA @ HOU L 20 3 1 9 11.1 1 3 33.3 0 0 - 0 2 2 0 0 0 1 0 -19
+p510
+aVRonnie Brewer UTA 01/05/2007 UTA @ HOU L 17 8 2 4 50.0 0 0 - 4 4 100.0 1 2 3 1 0 1 0 1 4
+p511
+aVMatt Harpring UTA 01/05/2007 UTA @ HOU L 21 12 4 7 57.1 0 0 - 4 4 100.0 1 4 5 1 1 0 0 5 12
+p512
+aVPaul Millsap UTA 01/05/2007 UTA @ HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 7
+p513
+aVCarlos Boozer UTA 01/05/2007 UTA @ HOU L 37 15 6 13 46.2 0 0 - 3 5 60.0 2 15 17 6 0 0 3 3 -10
+p514
+aVDeron Williams UTA 01/05/2007 UTA @ HOU L 39 19 8 17 47.1 3 4 75.0 0 0 - 0 0 0 8 0 0 4 2 -16
+p515
+aVDee Brown UTA 01/05/2007 UTA @ HOU L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p516
+aVJarron Collins UTA 01/05/2007 UTA @ HOU L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 4 -2
+p517
+aVMehmet Okur UTA 01/05/2007 UTA @ HOU L 31 7 2 9 22.2 1 5 20.0 2 4 50.0 3 2 5 4 0 0 2 4 -19
+p518
+aVGordan Giricek UTA 01/05/2007 UTA @ HOU L 11 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 0 -1
+p519
+aVJarron Collins UTA 01/03/2007 UTA vs. PHI W 6 0 0 1 0.0 0 0 - 0 2 0.0 1 0 1 1 0 0 0 0 -1
+p520
+aVDeron Williams UTA 01/03/2007 UTA vs. PHI W 39 7 1 12 8.3 0 3 0.0 5 6 83.3 0 3 3 14 2 0 1 1 14
+p521
+aVCarlos Boozer UTA 01/03/2007 UTA vs. PHI W 39 27 10 14 71.4 0 0 - 7 10 70.0 5 9 14 1 0 0 1 3 10
+p522
+aVPaul Millsap UTA 01/03/2007 UTA vs. PHI W 11 1 0 0 - 0 0 - 1 2 50.0 2 1 3 0 1 1 2 4 1
+p523
+aVAndrei Kirilenko UTA 01/03/2007 UTA vs. PHI W 29 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 2 3 0 4 5 -4
+p524
+aVMatt Harpring UTA 01/03/2007 UTA vs. PHI W 19 20 10 14 71.4 0 1 0.0 0 0 - 1 1 2 0 0 1 2 3 15
+p525
+aVDee Brown UTA 01/03/2007 UTA vs. PHI W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p526
+aVMehmet Okur UTA 01/03/2007 UTA vs. PHI W 30 21 4 11 36.4 3 5 60.0 10 10 100.0 3 4 7 1 0 0 0 3 9
+p527
+aVDerek Fisher UTA 01/03/2007 UTA vs. PHI W 32 12 5 10 50.0 0 0 - 2 3 66.7 0 1 1 4 2 0 2 2 8
+p528
+aVRonnie Brewer UTA 01/03/2007 UTA vs. PHI W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 0
+p529
+aVGordan Giricek UTA 01/03/2007 UTA vs. PHI W 22 4 1 5 20.0 0 1 0.0 2 2 100.0 0 4 4 4 1 1 1 3 6
+p530
+aVAndrei Kirilenko UTA 12/30/2006 UTA vs. POR W 36 14 4 6 66.7 1 1 100.0 5 6 83.3 0 4 4 2 2 3 3 3 10
+p531
+aVDerek Fisher UTA 12/30/2006 UTA vs. POR W 17 11 5 8 62.5 1 1 100.0 0 0 - 0 1 1 2 1 0 0 2 -2
+p532
+aVPaul Millsap UTA 12/30/2006 UTA vs. POR W 15 11 4 4 100.0 0 0 - 3 3 100.0 3 3 6 0 2 1 0 3 8
+p533
+aVMatt Harpring UTA 12/30/2006 UTA vs. POR W 11 2 1 5 20.0 0 0 - 0 0 - 2 3 5 2 0 0 0 0 0
+p534
+aVCarlos Boozer UTA 12/30/2006 UTA vs. POR W 37 19 8 15 53.3 0 0 - 3 5 60.0 2 8 10 4 0 0 2 2 6
+p535
+aVMehmet Okur UTA 12/30/2006 UTA vs. POR W 31 20 9 13 69.2 0 1 0.0 2 2 100.0 3 4 7 0 0 0 4 3 0
+p536
+aVGordan Giricek UTA 12/30/2006 UTA vs. POR W 32 9 3 9 33.3 0 2 0.0 3 4 75.0 0 4 4 2 1 0 2 3 12
+p537
+aVDee Brown UTA 12/30/2006 UTA vs. POR W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -3
+p538
+aVDeron Williams UTA 12/30/2006 UTA vs. POR W 39 8 4 13 30.8 0 2 0.0 0 2 0.0 2 2 4 12 0 1 2 2 13
+p539
+aVJarron Collins UTA 12/30/2006 UTA vs. POR W 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 6
+p540
+aVJarron Collins UTA 12/28/2006 UTA @ SAS L 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 4 1 0 0 3 -10
+p541
+aVMehmet Okur UTA 12/28/2006 UTA @ SAS L 16 10 4 7 57.1 0 2 0.0 2 2 100.0 0 1 1 3 0 0 1 4 -6
+p542
+aVDeron Williams UTA 12/28/2006 UTA @ SAS L 25 11 5 9 55.6 1 1 100.0 0 0 - 0 2 2 2 0 0 2 4 -19
+p543
+aVDee Brown UTA 12/28/2006 UTA @ SAS L 23 8 4 6 66.7 0 1 0.0 0 2 0.0 0 3 3 4 2 1 0 2 1
+p544
+aVPaul Millsap UTA 12/28/2006 UTA @ SAS L 22 10 3 6 50.0 0 0 - 4 8 50.0 2 3 5 0 1 2 2 3 -2
+p545
+aVGordan Giricek UTA 12/28/2006 UTA @ SAS L 18 11 4 8 50.0 1 3 33.3 2 4 50.0 2 2 4 0 1 0 0 2 -19
+p546
+aVRonnie Brewer UTA 12/28/2006 UTA @ SAS L 19 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 0 1 0 2 1 2
+p547
+aVAndrei Kirilenko UTA 12/28/2006 UTA @ SAS L 27 6 2 6 33.3 1 3 33.3 1 2 50.0 1 5 6 1 2 1 1 0 -26
+p548
+aVCJ Miles UTA 12/28/2006 UTA @ SAS L 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 8
+p549
+aVDerek Fisher UTA 12/28/2006 UTA @ SAS L 23 5 1 6 16.7 1 2 50.0 2 2 100.0 0 0 0 1 0 0 2 2 -22
+p550
+aVCarlos Boozer UTA 12/28/2006 UTA @ SAS L 27 9 2 10 20.0 0 0 - 5 7 71.4 1 6 7 1 2 0 4 2 -25
+p551
+aVRafael Araujo UTA 12/28/2006 UTA @ SAS L 16 4 1 4 25.0 0 0 - 2 3 66.7 1 5 6 1 0 0 1 3 3
+p552
+aVAndrei Kirilenko UTA 12/26/2006 UTA vs. LAC W 15 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 3 0 2 1 3 1
+p553
+aVCarlos Boozer UTA 12/26/2006 UTA vs. LAC W 41 26 11 19 57.9 0 0 - 4 4 100.0 4 6 10 1 2 0 2 1 15
+p554
+aVCJ Miles UTA 12/26/2006 UTA vs. LAC W 7 0 0 2 0.0 0 0 - 0 2 0.0 1 2 3 0 1 0 0 0 -7
+p555
+aVDerek Fisher UTA 12/26/2006 UTA vs. LAC W 34 9 2 8 25.0 0 0 - 5 5 100.0 0 4 4 3 0 1 2 3 13
+p556
+aVJarron Collins UTA 12/26/2006 UTA vs. LAC W 7 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 0 0 0 -5
+p557
+aVDee Brown UTA 12/26/2006 UTA vs. LAC W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 0 -5
+p558
+aVPaul Millsap UTA 12/26/2006 UTA vs. LAC W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 1 0 1 1 4 -8
+p559
+aVMehmet Okur UTA 12/26/2006 UTA vs. LAC W 37 24 8 14 57.1 2 7 28.6 6 8 75.0 3 8 11 4 0 1 0 3 15
+p560
+aVDeron Williams UTA 12/26/2006 UTA vs. LAC W 38 21 8 18 44.4 1 3 33.3 4 9 44.4 1 2 3 7 1 0 3 1 15
+p561
+aVGordan Giricek UTA 12/26/2006 UTA vs. LAC W 23 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 0 1 0 1 5 19
+p562
+aVRonnie Brewer UTA 12/26/2006 UTA vs. LAC W 18 2 0 1 0.0 0 0 - 2 2 100.0 2 3 5 0 1 0 0 0 -3
+p563
+aVMehmet Okur UTA 12/23/2006 UTA @ MEM W 32 20 6 14 42.9 1 5 20.0 7 8 87.5 3 6 9 0 0 0 1 2 -1
+p564
+aVDeron Williams UTA 12/23/2006 UTA @ MEM W 36 17 6 14 42.9 0 2 0.0 5 5 100.0 0 2 2 9 1 0 3 5 -6
+p565
+aVRonnie Brewer UTA 12/23/2006 UTA @ MEM W 23 10 5 6 83.3 0 0 - 0 0 - 1 0 1 0 3 0 0 2 5
+p566
+aVJarron Collins UTA 12/23/2006 UTA @ MEM W 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 2 1 0 0 0 5
+p567
+aVCarlos Boozer UTA 12/23/2006 UTA @ MEM W 38 24 7 17 41.2 0 0 - 10 12 83.3 2 9 11 5 2 0 5 2 7
+p568
+aVDerek Fisher UTA 12/23/2006 UTA @ MEM W 36 11 2 7 28.6 1 3 33.3 6 6 100.0 1 1 2 3 1 0 0 3 3
+p569
+aVMatt Harpring UTA 12/23/2006 UTA @ MEM W 26 7 3 10 30.0 0 1 0.0 1 2 50.0 3 4 7 1 1 0 1 2 9
+p570
+aVAndrei Kirilenko UTA 12/23/2006 UTA @ MEM W 29 7 2 4 50.0 1 2 50.0 2 2 100.0 1 2 3 4 0 0 2 1 -5
+p571
+aVPaul Millsap UTA 12/23/2006 UTA @ MEM W 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -2
+p572
+aVGordan Giricek UTA 12/22/2006 UTA @ CHA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 3
+p573
+aVAndrei Kirilenko UTA 12/22/2006 UTA @ CHA L 37 10 3 5 60.0 1 1 100.0 3 4 75.0 1 4 5 5 0 2 4 3 -3
+p574
+aVPaul Millsap UTA 12/22/2006 UTA @ CHA L 20 6 2 3 66.7 0 0 - 2 4 50.0 2 2 4 1 3 3 1 4 0
+p575
+aVRafael Araujo UTA 12/22/2006 UTA @ CHA L 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p576
+aVMehmet Okur UTA 12/22/2006 UTA @ CHA L 33 19 4 9 44.4 3 5 60.0 8 9 88.9 0 6 6 3 0 1 2 4 0
+p577
+aVJarron Collins UTA 12/22/2006 UTA @ CHA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -12
+p578
+aVDee Brown UTA 12/22/2006 UTA @ CHA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p579
+aVCarlos Boozer UTA 12/22/2006 UTA @ CHA L 37 22 9 19 47.4 0 0 - 4 6 66.7 3 11 14 3 2 0 3 3 -9
+p580
+aVRonnie Brewer UTA 12/22/2006 UTA @ CHA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p581
+aVMatt Harpring UTA 12/22/2006 UTA @ CHA L 23 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 1 0 0 1 5 -15
+p582
+aVDerek Fisher UTA 12/22/2006 UTA @ CHA L 27 11 4 7 57.1 1 1 100.0 2 2 100.0 0 1 1 3 0 0 2 3 1
+p583
+aVDeron Williams UTA 12/22/2006 UTA @ CHA L 39 15 6 15 40.0 0 3 0.0 3 6 50.0 2 2 4 5 0 0 3 4 -7
+p584
+aVPaul Millsap UTA 12/20/2006 UTA @ ATL W 17 2 1 3 33.3 0 0 - 0 2 0.0 1 1 2 0 2 0 0 2 -3
+p585
+aVRonnie Brewer UTA 12/20/2006 UTA @ ATL W 13 8 1 2 50.0 0 0 - 6 8 75.0 2 1 3 2 2 1 0 1 15
+p586
+aVDerek Fisher UTA 12/20/2006 UTA @ ATL W 27 18 6 8 75.0 2 3 66.7 4 8 50.0 0 2 2 1 1 0 2 5 14
+p587
+aVDee Brown UTA 12/20/2006 UTA @ ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 0 0
+p588
+aVMatt Harpring UTA 12/20/2006 UTA @ ATL W 21 11 4 8 50.0 0 0 - 3 7 42.9 1 4 5 0 1 1 1 3 -10
+p589
+aVDeron Williams UTA 12/20/2006 UTA @ ATL W 36 13 5 11 45.5 2 6 33.3 1 1 100.0 0 2 2 9 0 0 6 3 -12
+p590
+aVJarron Collins UTA 12/20/2006 UTA @ ATL W 13 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 4 -9
+p591
+aVMehmet Okur UTA 12/20/2006 UTA @ ATL W 35 30 11 17 64.7 4 5 80.0 4 5 80.0 2 8 10 3 3 1 4 3 15
+p592
+aVAndrei Kirilenko UTA 12/20/2006 UTA @ ATL W 34 12 4 7 57.1 0 0 - 4 5 80.0 2 3 5 5 2 1 3 4 14
+p593
+aVCarlos Boozer UTA 12/20/2006 UTA @ ATL W 31 13 5 10 50.0 0 0 - 3 5 60.0 2 3 5 4 1 0 3 4 9
+p594
+aVGordan Giricek UTA 12/20/2006 UTA @ ATL W 9 5 2 3 66.7 0 1 0.0 1 1 100.0 0 0 0 2 0 0 1 1 -3
+p595
+aVDee Brown UTA 12/18/2006 UTA @ NYK L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -4
+p596
+aVMatt Harpring UTA 12/18/2006 UTA @ NYK L 24 3 1 5 20.0 0 0 - 1 2 50.0 0 4 4 1 0 0 1 1 -11
+p597
+aVGordan Giricek UTA 12/18/2006 UTA @ NYK L 9 3 1 7 14.3 0 1 0.0 1 1 100.0 0 0 0 0 0 0 1 0 -9
+p598
+aVPaul Millsap UTA 12/18/2006 UTA @ NYK L 13 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 0 3 3 -5
+p599
+aVCarlos Boozer UTA 12/18/2006 UTA @ NYK L 42 23 9 20 45.0 0 0 - 5 6 83.3 5 5 10 1 1 0 7 4 8
+p600
+aVAndrei Kirilenko UTA 12/18/2006 UTA @ NYK L 40 9 1 4 25.0 0 3 0.0 7 8 87.5 4 7 11 6 1 4 3 4 6
+p601
+aVJarron Collins UTA 12/18/2006 UTA @ NYK L 13 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -7
+p602
+aVDeron Williams UTA 12/18/2006 UTA @ NYK L 43 23 9 19 47.4 3 6 50.0 2 3 66.7 1 6 7 4 3 0 0 3 3
+p603
+aVMehmet Okur UTA 12/18/2006 UTA @ NYK L 40 19 7 21 33.3 4 7 57.1 1 4 25.0 3 6 9 4 0 0 1 3 6
+p604
+aVDerek Fisher UTA 12/18/2006 UTA @ NYK L 31 10 3 8 37.5 0 1 0.0 4 5 80.0 0 2 2 0 1 0 1 2 8
+p605
+aVDerek Fisher UTA 12/17/2006 UTA @ IND W 31 15 6 14 42.9 0 2 0.0 3 4 75.0 1 2 3 3 1 0 2 4 9
+p606
+aVMehmet Okur UTA 12/17/2006 UTA @ IND W 36 17 6 11 54.5 3 4 75.0 2 2 100.0 3 4 7 1 0 0 1 5 7
+p607
+aVJarron Collins UTA 12/17/2006 UTA @ IND W 9 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 2 0 0 0 2 0
+p608
+aVGordan Giricek UTA 12/17/2006 UTA @ IND W 12 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 0 0 0 2 0 -1
+p609
+aVPaul Millsap UTA 12/17/2006 UTA @ IND W 16 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -1
+p610
+aVDeron Williams UTA 12/17/2006 UTA @ IND W 27 17 5 7 71.4 2 3 66.7 5 6 83.3 1 2 3 5 1 0 5 6 6
+p611
+aVAndrei Kirilenko UTA 12/17/2006 UTA @ IND W 30 7 2 5 40.0 0 1 0.0 3 4 75.0 1 5 6 6 0 6 3 5 20
+p612
+aVCarlos Boozer UTA 12/17/2006 UTA @ IND W 36 18 7 15 46.7 0 0 - 4 6 66.7 5 6 11 3 1 1 4 5 13
+p613
+aVMatt Harpring UTA 12/17/2006 UTA @ IND W 22 12 5 9 55.6 0 0 - 2 4 50.0 1 2 3 0 0 0 1 4 -7
+p614
+aVDee Brown UTA 12/17/2006 UTA @ IND W 21 6 1 6 16.7 0 1 0.0 4 6 66.7 0 2 2 2 2 0 1 3 4
+p615
+aVDeron Williams UTA 12/15/2006 UTA vs. SAC L 37 15 5 13 38.5 1 7 14.3 4 4 100.0 2 4 6 9 0 0 1 2 -1
+p616
+aVDerek Fisher UTA 12/15/2006 UTA vs. SAC L 34 8 3 8 37.5 0 3 0.0 2 2 100.0 0 1 1 4 1 0 3 3 1
+p617
+aVCarlos Boozer UTA 12/15/2006 UTA vs. SAC L 40 14 5 12 41.7 0 0 - 4 7 57.1 3 8 11 3 1 2 5 2 6
+p618
+aVMatt Harpring UTA 12/15/2006 UTA vs. SAC L 17 6 2 5 40.0 0 1 0.0 2 4 50.0 2 1 3 0 1 0 1 1 2
+p619
+aVDee Brown UTA 12/15/2006 UTA vs. SAC L 6 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 2 0 0 1 3 2
+p620
+aVMehmet Okur UTA 12/15/2006 UTA vs. SAC L 29 17 6 13 46.2 3 6 50.0 2 2 100.0 0 4 4 2 1 0 1 5 1
+p621
+aVGordan Giricek UTA 12/15/2006 UTA vs. SAC L 18 12 4 5 80.0 1 1 100.0 3 4 75.0 0 1 1 1 1 0 2 3 -4
+p622
+aVJarron Collins UTA 12/15/2006 UTA vs. SAC L 17 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 3
+p623
+aVPaul Millsap UTA 12/15/2006 UTA vs. SAC L 11 5 1 5 20.0 0 0 - 3 4 75.0 1 2 3 2 0 4 0 3 -12
+p624
+aVAndrei Kirilenko UTA 12/15/2006 UTA vs. SAC L 31 11 4 7 57.1 0 1 0.0 3 3 100.0 3 8 11 3 1 3 2 5 -3
+p625
+aVCarlos Boozer UTA 12/13/2006 UTA @ LAC W 45 28 13 21 61.9 0 0 - 2 2 100.0 5 10 15 4 3 1 0 4 24
+p626
+aVDee Brown UTA 12/13/2006 UTA @ LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p627
+aVDeron Williams UTA 12/13/2006 UTA @ LAC W 42 28 10 18 55.6 2 4 50.0 6 7 85.7 0 2 2 14 0 1 4 4 25
+p628
+aVJarron Collins UTA 12/13/2006 UTA @ LAC W 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 3 3
+p629
+aVPaul Millsap UTA 12/13/2006 UTA @ LAC W 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 6
+p630
+aVMatt Harpring UTA 12/13/2006 UTA @ LAC W 25 7 3 7 42.9 1 1 100.0 0 0 - 2 3 5 0 0 0 2 6 5
+p631
+aVDerek Fisher UTA 12/13/2006 UTA @ LAC W 27 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 6 2 0 0 1 7
+p632
+aVRonnie Brewer UTA 12/13/2006 UTA @ LAC W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 9
+p633
+aVAndrei Kirilenko UTA 12/13/2006 UTA @ LAC W 40 12 4 8 50.0 0 0 - 4 8 50.0 1 5 6 3 0 1 3 3 12
+p634
+aVMehmet Okur UTA 12/13/2006 UTA @ LAC W 34 18 6 16 37.5 4 7 57.1 2 4 50.0 2 3 5 2 1 0 1 4 10
+p635
+aVCJ Miles UTA 12/11/2006 UTA vs. DAL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p636
+aVDee Brown UTA 12/11/2006 UTA vs. DAL W 13 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 4 -1
+p637
+aVRonnie Brewer UTA 12/11/2006 UTA vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p638
+aVCarlos Boozer UTA 12/11/2006 UTA vs. DAL W 39 31 13 25 52.0 0 0 - 5 6 83.3 3 8 11 1 1 0 1 2 28
+p639
+aVMehmet Okur UTA 12/11/2006 UTA vs. DAL W 26 9 2 5 40.0 0 0 - 5 7 71.4 0 4 4 1 1 0 0 4 16
+p640
+aVPaul Millsap UTA 12/11/2006 UTA vs. DAL W 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 1 0 2 4 0
+p641
+aVMatt Harpring UTA 12/11/2006 UTA vs. DAL W 25 15 6 11 54.5 0 0 - 3 4 75.0 2 6 8 1 1 0 1 2 12
+p642
+aVJarron Collins UTA 12/11/2006 UTA vs. DAL W 22 2 1 4 25.0 0 0 - 0 0 - 3 2 5 0 0 0 1 3 6
+p643
+aVAndrei Kirilenko UTA 12/11/2006 UTA vs. DAL W 35 10 3 7 42.9 0 1 0.0 4 4 100.0 0 2 2 6 1 4 2 1 20
+p644
+aVDeron Williams UTA 12/11/2006 UTA vs. DAL W 35 18 7 11 63.6 2 3 66.7 2 2 100.0 0 5 5 7 0 0 4 4 23
+p645
+aVDerek Fisher UTA 12/11/2006 UTA vs. DAL W 26 10 3 8 37.5 0 1 0.0 4 4 100.0 0 5 5 3 1 0 2 2 12
+p646
+aVDeron Williams UTA 12/08/2006 UTA @ MIN L 42 21 10 17 58.8 1 4 25.0 0 0 - 2 3 5 11 0 0 3 3 0
+p647
+aVPaul Millsap UTA 12/08/2006 UTA @ MIN L 18 9 3 4 75.0 0 0 - 3 5 60.0 1 0 1 0 0 0 0 2 -1
+p648
+aVJarron Collins UTA 12/08/2006 UTA @ MIN L 5 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 2
+p649
+aVDerek Fisher UTA 12/08/2006 UTA @ MIN L 30 17 6 9 66.7 0 1 0.0 5 7 71.4 2 3 5 4 2 0 1 3 -5
+p650
+aVMatt Harpring UTA 12/08/2006 UTA @ MIN L 25 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 1 1 0 0 0 -3
+p651
+aVMehmet Okur UTA 12/08/2006 UTA @ MIN L 35 18 5 11 45.5 3 7 42.9 5 6 83.3 0 4 4 1 0 1 6 6 -13
+p652
+aVAndrei Kirilenko UTA 12/08/2006 UTA @ MIN L 37 12 3 7 42.9 0 3 0.0 6 8 75.0 0 5 5 3 0 1 4 4 -13
+p653
+aVDee Brown UTA 12/08/2006 UTA @ MIN L 10 2 0 2 0.0 0 1 0.0 2 2 100.0 1 0 1 0 1 0 1 0 0
+p654
+aVCarlos Boozer UTA 12/08/2006 UTA @ MIN L 37 8 4 17 23.5 0 0 - 0 1 0.0 5 8 13 2 0 0 0 2 -2
+p655
+aVDerek Fisher UTA 12/04/2006 UTA vs. MIL W 31 7 3 9 33.3 0 2 0.0 1 1 100.0 0 1 1 3 0 1 1 4 22
+p656
+aVMehmet Okur UTA 12/04/2006 UTA vs. MIL W 34 17 6 16 37.5 1 4 25.0 4 4 100.0 4 9 13 4 0 2 2 1 19
+p657
+aVJarron Collins UTA 12/04/2006 UTA vs. MIL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p658
+aVDee Brown UTA 12/04/2006 UTA vs. MIL W 16 7 3 6 50.0 1 2 50.0 0 1 0.0 0 1 1 2 1 0 1 1 -5
+p659
+aVAndrei Kirilenko UTA 12/04/2006 UTA vs. MIL W 34 14 6 6 100.0 2 2 100.0 0 0 - 1 3 4 5 1 2 3 3 19
+p660
+aVMatt Harpring UTA 12/04/2006 UTA vs. MIL W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 2 4 -1
+p661
+aVGordan Giricek UTA 12/04/2006 UTA vs. MIL W 9 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p662
+aVPaul Millsap UTA 12/04/2006 UTA vs. MIL W 22 9 3 5 60.0 0 0 - 3 4 75.0 2 5 7 1 1 3 1 4 -2
+p663
+aVCarlos Boozer UTA 12/04/2006 UTA vs. MIL W 39 30 12 18 66.7 0 0 - 6 10 60.0 5 8 13 4 0 0 3 4 16
+p664
+aVDeron Williams UTA 12/04/2006 UTA vs. MIL W 33 11 3 10 30.0 0 4 0.0 5 6 83.3 1 6 7 8 1 0 1 0 18
+p665
+aVRonnie Brewer UTA 12/04/2006 UTA vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p666
+aVCJ Miles UTA 12/04/2006 UTA vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p667
+aVDee Brown UTA 12/02/2006 UTA vs. SEA W 19 0 0 5 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 1 3
+p668
+aVGordan Giricek UTA 12/02/2006 UTA vs. SEA W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 7
+p669
+aVAndrei Kirilenko UTA 12/02/2006 UTA vs. SEA W 36 11 4 6 66.7 1 1 100.0 2 4 50.0 1 3 4 7 2 1 5 1 -8
+p670
+aVPaul Millsap UTA 12/02/2006 UTA vs. SEA W 20 16 7 8 87.5 0 0 - 2 2 100.0 4 6 10 1 0 0 1 2 -4
+p671
+aVMehmet Okur UTA 12/02/2006 UTA vs. SEA W 28 12 5 10 50.0 2 2 100.0 0 0 - 0 5 5 2 0 0 2 2 -6
+p672
+aVMatt Harpring UTA 12/02/2006 UTA vs. SEA W 18 11 4 8 50.0 1 2 50.0 2 2 100.0 1 0 1 0 0 0 2 3 8
+p673
+aVJarron Collins UTA 12/02/2006 UTA vs. SEA W 12 4 2 5 40.0 0 0 - 0 0 - 1 2 3 3 0 0 0 3 4
+p674
+aVDeron Williams UTA 12/02/2006 UTA vs. SEA W 39 18 7 19 36.8 0 5 0.0 4 5 80.0 0 5 5 9 2 0 2 5 6
+p675
+aVDerek Fisher UTA 12/02/2006 UTA vs. SEA W 27 11 2 5 40.0 1 2 50.0 6 7 85.7 1 1 2 1 0 0 0 6 -8
+p676
+aVCarlos Boozer UTA 12/02/2006 UTA vs. SEA W 34 24 9 12 75.0 0 0 - 6 10 60.0 1 7 8 7 1 2 4 4 8
+p677
+aVMehmet Okur UTA 11/30/2006 UTA @ LAL L 23 11 4 8 50.0 1 1 100.0 2 2 100.0 2 1 3 1 1 0 2 4 -12
+p678
+aVCJ Miles UTA 11/30/2006 UTA @ LAL L 11 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -12
+p679
+aVRonnie Brewer UTA 11/30/2006 UTA @ LAL L 23 8 4 8 50.0 0 0 - 0 1 0.0 0 1 1 2 2 0 0 2 -5
+p680
+aVAndrei Kirilenko UTA 11/30/2006 UTA @ LAL L 32 12 4 8 50.0 1 3 33.3 3 4 75.0 1 4 5 2 1 2 1 3 -18
+p681
+aVDerek Fisher UTA 11/30/2006 UTA @ LAL L 14 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 3 2 1
+p682
+aVMatt Harpring UTA 11/30/2006 UTA @ LAL L 22 2 1 7 14.3 0 0 - 0 0 - 2 0 2 0 1 1 2 2 -19
+p683
+aVCarlos Boozer UTA 11/30/2006 UTA @ LAL L 34 26 11 16 68.8 0 0 - 4 6 66.7 2 5 7 5 0 0 1 4 -31
+p684
+aVJarron Collins UTA 11/30/2006 UTA @ LAL L 16 4 1 3 33.3 0 0 - 2 2 100.0 3 3 6 2 0 0 1 4 -13
+p685
+aVPaul Millsap UTA 11/30/2006 UTA @ LAL L 16 13 6 7 85.7 0 0 - 1 3 33.3 4 3 7 0 1 0 2 2 -1
+p686
+aVGordan Giricek UTA 11/30/2006 UTA @ LAL L 15 2 0 5 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 4 -9
+p687
+aVDeron Williams UTA 11/30/2006 UTA @ LAL L 29 13 5 11 45.5 0 3 0.0 3 5 60.0 0 1 1 9 0 1 2 4 -30
+p688
+aVDee Brown UTA 11/30/2006 UTA @ LAL L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -1
+p689
+aVDerek Fisher UTA 11/29/2006 UTA vs. SAS W 22 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 4 0 1 1 3 1
+p690
+aVDeron Williams UTA 11/29/2006 UTA vs. SAS W 36 15 5 11 45.5 4 4 100.0 1 2 50.0 0 2 2 9 0 0 3 2 9
+p691
+aVGordan Giricek UTA 11/29/2006 UTA vs. SAS W 19 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 1 0
+p692
+aVPaul Millsap UTA 11/29/2006 UTA vs. SAS W 8 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 1 0 1 1 -4
+p693
+aVJarron Collins UTA 11/29/2006 UTA vs. SAS W 16 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 1 0 0 1 -2
+p694
+aVMehmet Okur UTA 11/29/2006 UTA vs. SAS W 28 10 4 9 44.4 1 4 25.0 1 1 100.0 0 2 2 1 1 0 0 3 3
+p695
+aVAndrei Kirilenko UTA 11/29/2006 UTA vs. SAS W 33 9 1 5 20.0 0 1 0.0 7 8 87.5 3 6 9 5 1 3 1 0 15
+p696
+aVCarlos Boozer UTA 11/29/2006 UTA vs. SAS W 38 23 10 16 62.5 0 0 - 3 6 50.0 5 11 16 0 2 2 4 2 15
+p697
+aVMatt Harpring UTA 11/29/2006 UTA vs. SAS W 31 13 5 12 41.7 0 0 - 3 6 50.0 3 9 12 1 0 1 0 1 7
+p698
+aVRonnie Brewer UTA 11/29/2006 UTA vs. SAS W 9 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p699
+aVGordan Giricek UTA 11/27/2006 UTA vs. ORL L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 3 2 -8
+p700
+aVCarlos Boozer UTA 11/27/2006 UTA vs. ORL L 40 21 10 22 45.5 0 0 - 1 3 33.3 1 9 10 1 0 0 2 4 -4
+p701
+aVCJ Miles UTA 11/27/2006 UTA vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p702
+aVJarron Collins UTA 11/27/2006 UTA vs. ORL L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p703
+aVAndrei Kirilenko UTA 11/27/2006 UTA vs. ORL L 36 11 3 6 50.0 0 2 0.0 5 6 83.3 1 4 5 5 3 4 4 4 -2
+p704
+aVDeron Williams UTA 11/27/2006 UTA vs. ORL L 30 8 4 10 40.0 0 2 0.0 0 0 - 0 3 3 6 0 0 1 4 -2
+p705
+aVDee Brown UTA 11/27/2006 UTA vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p706
+aVMatt Harpring UTA 11/27/2006 UTA vs. ORL L 28 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 4 -4
+p707
+aVMehmet Okur UTA 11/27/2006 UTA vs. ORL L 37 13 3 9 33.3 1 5 20.0 6 6 100.0 0 9 9 3 0 1 4 3 -5
+p708
+aVRonnie Brewer UTA 11/27/2006 UTA vs. ORL L 20 9 4 7 57.1 0 1 0.0 1 2 50.0 1 2 3 1 1 0 0 0 -9
+p709
+aVDerek Fisher UTA 11/27/2006 UTA vs. ORL L 18 5 2 4 50.0 0 1 0.0 1 1 100.0 0 0 0 2 2 0 4 2 -14
+p710
+aVPaul Millsap UTA 11/27/2006 UTA vs. ORL L 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -9
+p711
+aVMehmet Okur UTA 11/25/2006 UTA @ GSW L 27 4 2 5 40.0 0 2 0.0 0 1 0.0 2 6 8 1 1 1 3 3 -23
+p712
+aVDee Brown UTA 11/25/2006 UTA @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 7
+p713
+aVJarron Collins UTA 11/25/2006 UTA @ GSW L 18 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 1 0 2 3 9
+p714
+aVGordan Giricek UTA 11/25/2006 UTA @ GSW L 17 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 1 1 0 0 0 -7
+p715
+aVDeron Williams UTA 11/25/2006 UTA @ GSW L 35 14 5 14 35.7 4 9 44.4 0 0 - 0 3 3 8 1 0 6 5 -17
+p716
+aVCJ Miles UTA 11/25/2006 UTA @ GSW L 3 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 0 0 7
+p717
+aVRonnie Brewer UTA 11/25/2006 UTA @ GSW L 10 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 1 -12
+p718
+aVCarlos Boozer UTA 11/25/2006 UTA @ GSW L 29 4 2 7 28.6 0 0 - 0 0 - 3 7 10 2 1 0 0 4 -24
+p719
+aVPaul Millsap UTA 11/25/2006 UTA @ GSW L 22 9 2 7 28.6 0 0 - 5 6 83.3 5 4 9 1 2 2 2 2 12
+p720
+aVMatt Harpring UTA 11/25/2006 UTA @ GSW L 26 15 6 15 40.0 0 2 0.0 3 4 75.0 4 2 6 2 1 0 2 4 -12
+p721
+aVDerek Fisher UTA 11/25/2006 UTA @ GSW L 22 12 2 7 28.6 2 3 66.7 6 7 85.7 0 1 1 3 1 0 2 0 2
+p722
+aVAndrei Kirilenko UTA 11/25/2006 UTA @ GSW L 28 4 2 11 18.2 0 5 0.0 0 0 - 0 4 4 3 1 2 4 1 -7
+p723
+aVMatt Harpring UTA 11/24/2006 UTA vs. LAL W 31 10 4 9 44.4 0 1 0.0 2 2 100.0 0 6 6 3 1 0 3 5 4
+p724
+aVRonnie Brewer UTA 11/24/2006 UTA vs. LAL W 17 7 3 3 100.0 0 0 - 1 2 50.0 1 3 4 1 1 0 0 3 0
+p725
+aVDerek Fisher UTA 11/24/2006 UTA vs. LAL W 13 13 3 4 75.0 1 1 100.0 6 6 100.0 0 0 0 4 1 0 1 1 -1
+p726
+aVJarron Collins UTA 11/24/2006 UTA vs. LAL W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p727
+aVCJ Miles UTA 11/24/2006 UTA vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p728
+aVAndrei Kirilenko UTA 11/24/2006 UTA vs. LAL W 29 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 4 0 5 2 3 10
+p729
+aVPaul Millsap UTA 11/24/2006 UTA vs. LAL W 11 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 2 3 -9
+p730
+aVCarlos Boozer UTA 11/24/2006 UTA vs. LAL W 37 31 13 26 50.0 0 0 - 5 7 71.4 7 9 16 2 0 0 0 4 15
+p731
+aVGordan Giricek UTA 11/24/2006 UTA vs. LAL W 18 12 3 5 60.0 1 2 50.0 5 5 100.0 0 0 0 1 1 0 0 2 1
+p732
+aVMehmet Okur UTA 11/24/2006 UTA vs. LAL W 38 18 8 13 61.5 2 6 33.3 0 0 - 5 7 12 2 0 3 1 2 9
+p733
+aVDeron Williams UTA 11/24/2006 UTA vs. LAL W 35 15 5 13 38.5 1 2 50.0 4 6 66.7 1 3 4 10 0 1 3 2 7
+p734
+aVCarlos Boozer UTA 11/22/2006 UTA @ SAC W 39 32 14 20 70.0 0 0 - 4 5 80.0 3 10 13 5 1 2 3 3 5
+p735
+aVGordan Giricek UTA 11/22/2006 UTA @ SAC W 16 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 0 1 0 4 -4
+p736
+aVMehmet Okur UTA 11/22/2006 UTA @ SAC W 36 10 4 12 33.3 1 6 16.7 1 1 100.0 5 5 10 3 1 0 2 4 2
+p737
+aVDerek Fisher UTA 11/22/2006 UTA @ SAC W 25 16 5 9 55.6 1 2 50.0 5 5 100.0 0 2 2 2 0 1 1 0 27
+p738
+aVMatt Harpring UTA 11/22/2006 UTA @ SAC W 34 16 8 13 61.5 0 0 - 0 2 0.0 4 2 6 1 0 0 1 4 14
+p739
+aVRonnie Brewer UTA 11/22/2006 UTA @ SAC W 14 11 5 7 71.4 0 1 0.0 1 2 50.0 1 1 2 1 0 0 1 1 -7
+p740
+aVJarron Collins UTA 11/22/2006 UTA @ SAC W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 0 1
+p741
+aVCJ Miles UTA 11/22/2006 UTA @ SAC W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 1 2 -2
+p742
+aVPaul Millsap UTA 11/22/2006 UTA @ SAC W 20 2 0 3 0.0 0 0 - 2 2 100.0 1 4 5 1 0 1 2 4 3
+p743
+aVDeron Williams UTA 11/22/2006 UTA @ SAC W 39 20 9 13 69.2 0 2 0.0 2 2 100.0 1 6 7 13 1 0 5 3 6
+p744
+aVDeron Williams UTA 11/20/2006 UTA vs. TOR W 36 12 5 18 27.8 2 4 50.0 0 2 0.0 0 5 5 8 2 0 3 3 -4
+p745
+aVJarron Collins UTA 11/20/2006 UTA vs. TOR W 13 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 1 1 1 2 7
+p746
+aVCJ Miles UTA 11/20/2006 UTA vs. TOR W 14 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 5 1 -9
+p747
+aVRonnie Brewer UTA 11/20/2006 UTA vs. TOR W 21 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -3
+p748
+aVDerek Fisher UTA 11/20/2006 UTA vs. TOR W 22 6 2 6 33.3 2 2 100.0 0 0 - 0 2 2 2 0 0 0 1 5
+p749
+aVRoger Powell UTA 11/20/2006 UTA vs. TOR W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p750
+aVDee Brown UTA 11/20/2006 UTA vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p751
+aVPaul Millsap UTA 11/20/2006 UTA vs. TOR W 27 20 8 10 80.0 0 0 - 4 7 57.1 5 2 7 2 0 2 1 4 25
+p752
+aVMehmet Okur UTA 11/20/2006 UTA vs. TOR W 42 17 5 16 31.3 1 6 16.7 6 8 75.0 2 11 13 5 1 1 2 4 7
+p753
+aVCarlos Boozer UTA 11/20/2006 UTA vs. TOR W 33 35 14 16 87.5 0 0 - 7 10 70.0 2 7 9 0 1 0 2 4 -10
+p754
+aVMatt Harpring UTA 11/20/2006 UTA vs. TOR W 24 3 1 6 16.7 0 1 0.0 1 2 50.0 1 3 4 0 1 0 1 4 11
+p755
+aVCJ Miles UTA 11/18/2006 UTA vs. PHX W 16 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -4
+p756
+aVJarron Collins UTA 11/18/2006 UTA vs. PHX W 15 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -7
+p757
+aVMehmet Okur UTA 11/18/2006 UTA vs. PHX W 38 18 6 15 40.0 0 2 0.0 6 8 75.0 2 3 5 2 0 2 2 5 8
+p758
+aVPaul Millsap UTA 11/18/2006 UTA vs. PHX W 22 18 5 6 83.3 0 0 - 8 10 80.0 4 6 10 0 0 1 1 6 6
+p759
+aVMatt Harpring UTA 11/18/2006 UTA vs. PHX W 28 12 5 7 71.4 0 0 - 2 2 100.0 0 3 3 2 2 1 2 5 12
+p760
+aVDerek Fisher UTA 11/18/2006 UTA vs. PHX W 28 9 3 9 33.3 1 4 25.0 2 2 100.0 0 1 1 1 1 0 1 4 -5
+p761
+aVCarlos Boozer UTA 11/18/2006 UTA vs. PHX W 37 22 10 16 62.5 0 0 - 2 2 100.0 3 13 16 4 1 0 5 4 21
+p762
+aVRafael Araujo UTA 11/18/2006 UTA vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -6
+p763
+aVDeron Williams UTA 11/18/2006 UTA vs. PHX W 42 25 11 23 47.8 1 4 25.0 2 3 66.7 0 2 2 14 1 1 3 5 10
+p764
+aVRoger Powell UTA 11/18/2006 UTA vs. PHX W 7 2 0 1 0.0 0 1 0.0 2 2 100.0 2 0 2 0 0 0 2 2 -9
+p765
+aVRonnie Brewer UTA 11/18/2006 UTA vs. PHX W 27 8 2 6 33.3 0 2 0.0 4 4 100.0 1 1 2 0 1 0 0 0 -11
+p766
+aVDee Brown UTA 11/17/2006 UTA @ SEA W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 6
+p767
+aVJarron Collins UTA 11/17/2006 UTA @ SEA W 15 8 3 4 75.0 0 0 - 2 3 66.7 3 2 5 1 1 0 0 2 16
+p768
+aVMatt Harpring UTA 11/17/2006 UTA @ SEA W 37 21 9 15 60.0 1 1 100.0 2 3 66.7 0 3 3 2 1 0 1 2 13
+p769
+aVDerek Fisher UTA 11/17/2006 UTA @ SEA W 18 7 3 10 30.0 1 2 50.0 0 1 0.0 1 0 1 6 2 0 1 6 15
+p770
+aVMehmet Okur UTA 11/17/2006 UTA @ SEA W 34 15 5 10 50.0 2 4 50.0 3 4 75.0 4 7 11 4 0 0 2 5 -7
+p771
+aVDeron Williams UTA 11/17/2006 UTA @ SEA W 34 27 9 16 56.3 2 3 66.7 7 9 77.8 0 3 3 8 2 0 2 4 2
+p772
+aVRonnie Brewer UTA 11/17/2006 UTA @ SEA W 24 11 5 9 55.6 0 1 0.0 1 2 50.0 4 1 5 1 2 0 3 1 1
+p773
+aVCarlos Boozer UTA 11/17/2006 UTA @ SEA W 37 14 5 10 50.0 0 0 - 4 5 80.0 4 9 13 4 1 0 3 1 1
+p774
+aVCJ Miles UTA 11/17/2006 UTA @ SEA W 10 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 4 -7
+p775
+aVPaul Millsap UTA 11/17/2006 UTA @ SEA W 20 11 4 7 57.1 0 0 - 3 4 75.0 3 3 6 0 1 1 0 5 5
+p776
+aVRafael Araujo UTA 11/14/2006 UTA vs. LAC W 5 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -1
+p777
+aVMehmet Okur UTA 11/14/2006 UTA vs. LAC W 40 27 11 16 68.8 1 2 50.0 4 5 80.0 4 2 6 3 0 1 3 5 13
+p778
+aVCarlos Boozer UTA 11/14/2006 UTA vs. LAC W 35 16 7 13 53.8 0 0 - 2 2 100.0 2 13 15 7 1 0 2 4 14
+p779
+aVRoger Powell UTA 11/14/2006 UTA vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p780
+aVDerek Fisher UTA 11/14/2006 UTA vs. LAC W 20 8 2 5 40.0 0 1 0.0 4 4 100.0 0 1 1 4 0 0 0 4 13
+p781
+aVDeron Williams UTA 11/14/2006 UTA vs. LAC W 37 16 8 17 47.1 0 1 0.0 0 0 - 1 1 2 7 2 1 2 2 6
+p782
+aVJarron Collins UTA 11/14/2006 UTA vs. LAC W 1 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p783
+aVRonnie Brewer UTA 11/14/2006 UTA vs. LAC W 25 12 5 7 71.4 0 0 - 2 5 40.0 1 0 1 0 1 2 1 1 12
+p784
+aVMatt Harpring UTA 11/14/2006 UTA vs. LAC W 30 22 7 11 63.6 2 3 66.7 6 8 75.0 2 3 5 1 0 0 1 3 26
+p785
+aVDee Brown UTA 11/14/2006 UTA vs. LAC W 2 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 2 2
+p786
+aVPaul Millsap UTA 11/14/2006 UTA vs. LAC W 23 4 0 2 0.0 0 0 - 4 6 66.7 0 6 6 0 4 4 0 5 20
+p787
+aVCJ Miles UTA 11/14/2006 UTA vs. LAC W 21 0 0 6 0.0 0 3 0.0 0 0 - 0 2 2 3 1 0 0 2 0
+p788
+aVMatt Harpring UTA 11/11/2006 UTA @ MIL W 27 17 6 9 66.7 1 1 100.0 4 5 80.0 3 4 7 3 0 0 3 3 7
+p789
+aVRonnie Brewer UTA 11/11/2006 UTA @ MIL W 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 1 1 1 -7
+p790
+aVMehmet Okur UTA 11/11/2006 UTA @ MIL W 35 3 1 9 11.1 0 4 0.0 1 2 50.0 1 10 11 2 0 0 5 4 -19
+p791
+aVPaul Millsap UTA 11/11/2006 UTA @ MIL W 27 15 6 9 66.7 0 0 - 3 4 75.0 1 4 5 2 1 2 2 2 -2
+p792
+aVDeron Williams UTA 11/11/2006 UTA @ MIL W 44 27 9 16 56.3 3 6 50.0 6 6 100.0 0 3 3 15 5 0 2 4 2
+p793
+aVDerek Fisher UTA 11/11/2006 UTA @ MIL W 13 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 2 6 4
+p794
+aVAndrei Kirilenko UTA 11/11/2006 UTA @ MIL W 11 7 3 3 100.0 0 0 - 1 2 50.0 3 1 4 3 0 1 1 2 7
+p795
+aVCJ Miles UTA 11/11/2006 UTA @ MIL W 22 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 0 1 0 1 5 2
+p796
+aVCarlos Boozer UTA 11/11/2006 UTA @ MIL W 37 32 13 20 65.0 0 0 - 6 6 100.0 5 5 10 3 0 0 2 4 -6
+p797
+aVDee Brown UTA 11/11/2006 UTA @ MIL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 2 1 0 0 6
+p798
+aVJarron Collins UTA 11/11/2006 UTA @ MIL W 14 2 1 2 50.0 0 0 - 0 1 0.0 0 2 2 0 0 0 0 1 16
+p799
+aVRonnie Brewer UTA 11/10/2006 UTA @ BOS W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p800
+aVCarlos Boozer UTA 11/10/2006 UTA @ BOS W 39 24 9 13 69.2 0 0 - 6 8 75.0 1 13 14 4 1 1 2 3 -1
+p801
+aVPaul Millsap UTA 11/10/2006 UTA @ BOS W 18 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 0 1 1 3 5
+p802
+aVDerek Fisher UTA 11/10/2006 UTA @ BOS W 32 8 2 12 16.7 1 4 25.0 3 4 75.0 0 4 4 3 2 0 3 4 -2
+p803
+aVAndrei Kirilenko UTA 11/10/2006 UTA @ BOS W 30 9 4 8 50.0 1 3 33.3 0 0 - 1 1 2 4 1 5 0 4 8
+p804
+aVCJ Miles UTA 11/10/2006 UTA @ BOS W 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 8
+p805
+aVDeron Williams UTA 11/10/2006 UTA @ BOS W 40 26 10 15 66.7 0 2 0.0 6 9 66.7 0 5 5 14 1 0 3 3 20
+p806
+aVMatt Harpring UTA 11/10/2006 UTA @ BOS W 18 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 1 0 0 1 -6
+p807
+aVJarron Collins UTA 11/10/2006 UTA @ BOS W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 2 1
+p808
+aVMehmet Okur UTA 11/10/2006 UTA @ BOS W 32 23 9 13 69.2 4 5 80.0 1 2 50.0 3 4 7 1 0 0 3 3 9
+p809
+aVAndrei Kirilenko UTA 11/08/2006 UTA @ NJN L 35 6 2 10 20.0 0 3 0.0 2 2 100.0 3 5 8 4 0 3 0 5 -17
+p810
+aVDeron Williams UTA 11/08/2006 UTA @ NJN L 37 14 7 12 58.3 0 1 0.0 0 0 - 0 1 1 5 3 0 5 4 -14
+p811
+aVCarlos Boozer UTA 11/08/2006 UTA @ NJN L 26 15 5 9 55.6 0 0 - 5 7 71.4 2 4 6 7 0 0 3 2 -13
+p812
+aVGordan Giricek UTA 11/08/2006 UTA @ NJN L 19 11 4 9 44.4 1 2 50.0 2 2 100.0 2 3 5 3 0 0 0 3 4
+p813
+aVJarron Collins UTA 11/08/2006 UTA @ NJN L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 9
+p814
+aVMehmet Okur UTA 11/08/2006 UTA @ NJN L 33 13 4 13 30.8 2 5 40.0 3 4 75.0 3 5 8 0 0 0 2 4 -16
+p815
+aVMatt Harpring UTA 11/08/2006 UTA @ NJN L 29 13 6 8 75.0 0 1 0.0 1 1 100.0 1 7 8 0 0 0 3 4 8
+p816
+aVDerek Fisher UTA 11/08/2006 UTA @ NJN L 23 15 4 9 44.4 0 1 0.0 7 9 77.8 0 0 0 1 2 0 3 2 -1
+p817
+aVPaul Millsap UTA 11/08/2006 UTA @ NJN L 19 2 1 5 20.0 0 0 - 0 0 - 2 7 9 1 0 0 0 3 15
+p818
+aVCJ Miles UTA 11/08/2006 UTA @ NJN L 11 0 0 3 0.0 0 2 0.0 0 2 0.0 0 2 2 1 0 0 0 3 -10
+p819
+aVRonnie Brewer UTA 11/06/2006 UTA vs. DET W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 2
+p820
+aVMatt Harpring UTA 11/06/2006 UTA vs. DET W 14 9 4 7 57.1 0 0 - 1 1 100.0 1 1 2 0 0 0 2 3 -11
+p821
+aVGordan Giricek UTA 11/06/2006 UTA vs. DET W 17 13 6 6 100.0 1 1 100.0 0 0 - 2 1 3 0 0 0 1 4 4
+p822
+aVPaul Millsap UTA 11/06/2006 UTA vs. DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p823
+aVCarlos Boozer UTA 11/06/2006 UTA vs. DET W 37 20 8 17 47.1 0 0 - 4 4 100.0 4 7 11 4 1 1 1 4 -1
+p824
+aVAndrei Kirilenko UTA 11/06/2006 UTA vs. DET W 40 11 3 6 50.0 1 1 100.0 4 9 44.4 3 5 8 4 0 2 4 3 11
+p825
+aVMehmet Okur UTA 11/06/2006 UTA vs. DET W 37 23 8 16 50.0 2 5 40.0 5 5 100.0 2 8 10 3 1 1 0 5 8
+p826
+aVJarron Collins UTA 11/06/2006 UTA vs. DET W 13 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 2 0 0 0 3 -1
+p827
+aVDerek Fisher UTA 11/06/2006 UTA vs. DET W 25 12 4 8 50.0 1 1 100.0 3 3 100.0 0 2 2 7 0 0 1 1 0
+p828
+aVCJ Miles UTA 11/06/2006 UTA vs. DET W 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 0
+p829
+aVDeron Williams UTA 11/06/2006 UTA vs. DET W 38 14 7 15 46.7 0 2 0.0 0 0 - 1 0 1 7 1 0 5 4 -2
+p830
+aVCJ Miles UTA 11/04/2006 UTA vs. GSW W 22 17 6 10 60.0 2 4 50.0 3 3 100.0 1 0 1 2 0 0 3 4 1
+p831
+aVDerek Fisher UTA 11/04/2006 UTA vs. GSW W 15 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 3 3 0 1 3 24
+p832
+aVGordan Giricek UTA 11/04/2006 UTA vs. GSW W 20 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 3 0 0 1 2 12
+p833
+aVCarlos Boozer UTA 11/04/2006 UTA vs. GSW W 33 17 7 15 46.7 0 0 - 3 8 37.5 4 10 14 0 0 0 3 0 3
+p834
+aVDee Brown UTA 11/04/2006 UTA vs. GSW W 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 5 1 1 2 1 9
+p835
+aVAndrei Kirilenko UTA 11/04/2006 UTA vs. GSW W 27 4 1 5 20.0 0 2 0.0 2 2 100.0 2 3 5 3 3 4 4 2 4
+p836
+aVMatt Harpring UTA 11/04/2006 UTA vs. GSW W 20 12 5 10 50.0 0 0 - 2 2 100.0 2 1 3 1 1 0 0 1 16
+p837
+aVRonnie Brewer UTA 11/04/2006 UTA vs. GSW W 7 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 5
+p838
+aVDeron Williams UTA 11/04/2006 UTA vs. GSW W 25 8 3 9 33.3 0 1 0.0 2 2 100.0 0 4 4 4 0 0 1 3 5
+p839
+aVPaul Millsap UTA 11/04/2006 UTA vs. GSW W 14 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 10
+p840
+aVJarron Collins UTA 11/04/2006 UTA vs. GSW W 11 8 3 3 100.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 4 8
+p841
+aVMehmet Okur UTA 11/04/2006 UTA vs. GSW W 35 21 9 13 69.2 2 2 100.0 1 1 100.0 2 10 12 2 2 2 0 2 23
+p842
+aVCarlos Boozer UTA 11/03/2006 UTA @ PHX W 34 21 7 15 46.7 0 0 - 7 8 87.5 2 10 12 3 0 0 1 4 5
+p843
+aVAndrei Kirilenko UTA 11/03/2006 UTA @ PHX W 41 17 5 11 45.5 1 1 100.0 6 9 66.7 4 10 14 3 1 2 3 6 7
+p844
+aVMehmet Okur UTA 11/03/2006 UTA @ PHX W 29 13 5 9 55.6 0 0 - 3 3 100.0 2 9 11 1 0 0 3 3 -23
+p845
+aVDeron Williams UTA 11/03/2006 UTA @ PHX W 34 12 6 14 42.9 0 3 0.0 0 0 - 0 1 1 6 1 0 1 4 -9
+p846
+aVDerek Fisher UTA 11/03/2006 UTA @ PHX W 27 18 5 10 50.0 1 2 50.0 7 8 87.5 0 2 2 3 0 0 2 4 11
+p847
+aVCJ Miles UTA 11/03/2006 UTA @ PHX W 17 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 2 2 0 1 2 1
+p848
+aVJarron Collins UTA 11/03/2006 UTA @ PHX W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 9
+p849
+aVRonnie Brewer UTA 11/03/2006 UTA @ PHX W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -2
+p850
+aVPaul Millsap UTA 11/03/2006 UTA @ PHX W 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 3 -1
+p851
+aVGordan Giricek UTA 11/03/2006 UTA @ PHX W 15 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 1 0 0 1 1 8
+p852
+aVMatt Harpring UTA 11/03/2006 UTA @ PHX W 30 17 6 12 50.0 0 0 - 5 6 83.3 1 3 4 1 1 0 2 4 14
+p853
+aVCJ Miles UTA 11/01/2006 UTA vs. HOU W 23 12 4 5 80.0 2 3 66.7 2 2 100.0 1 2 3 0 0 1 2 1 6
+p854
+aVRonnie Brewer UTA 11/01/2006 UTA vs. HOU W 16 9 3 5 60.0 0 0 - 3 4 75.0 1 1 2 0 2 0 0 1 9
+p855
+aVMatt Harpring UTA 11/01/2006 UTA vs. HOU W 20 5 2 4 50.0 1 1 100.0 0 0 - 2 3 5 0 0 0 5 4 5
+p856
+aVPaul Millsap UTA 11/01/2006 UTA vs. HOU W 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p857
+aVAndrei Kirilenko UTA 11/01/2006 UTA vs. HOU W 25 5 2 3 66.7 0 0 - 1 1 100.0 1 3 4 0 0 1 0 4 2
+p858
+aVCarlos Boozer UTA 11/01/2006 UTA vs. HOU W 38 24 10 18 55.6 0 0 - 4 6 66.7 3 16 19 1 1 1 3 1 3
+p859
+aVDeron Williams UTA 11/01/2006 UTA vs. HOU W 39 18 7 14 50.0 0 1 0.0 4 4 100.0 0 3 3 10 0 0 2 3 4
+p860
+aVJarron Collins UTA 11/01/2006 UTA vs. HOU W 18 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 0 0 3 5
+p861
+aVMehmet Okur UTA 11/01/2006 UTA vs. HOU W 29 17 4 15 26.7 0 3 0.0 9 11 81.8 1 4 5 1 2 0 3 5 12
+p862
+aVDerek Fisher UTA 11/01/2006 UTA vs. HOU W 22 13 5 7 71.4 0 2 0.0 3 3 100.0 0 1 1 6 1 0 1 3 2
+p863
+a.

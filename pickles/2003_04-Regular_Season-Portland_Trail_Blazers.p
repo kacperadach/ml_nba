@@ -1,0 +1,1624 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVQyntel Woods POR 04/14/2004 POR vs. LAL L 4 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -1
+p2
+aVDale Davis POR 04/14/2004 POR vs. LAL L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p3
+aVDesmond Ferguson POR 04/14/2004 POR vs. LAL L 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p4
+aVDan Dickau POR 04/14/2004 POR vs. LAL L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 2 0 1
+p5
+aVTravis Outlaw POR 04/14/2004 POR vs. LAL L 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -6
+p6
+aVDamon Stoudamire POR 04/14/2004 POR vs. LAL L 45 13 6 14 42.9 1 3 33.3 0 0 - 0 6 6 12 2 0 4 3 -2
+p7
+aVZach Randolph POR 04/14/2004 POR vs. LAL L 41 21 9 22 40.9 0 0 - 3 5 60.0 4 14 18 1 1 0 5 4 4
+p8
+aVRuben Patterson POR 04/14/2004 POR vs. LAL L 20 2 1 2 50.0 0 0 - 0 3 0.0 2 3 5 2 0 0 2 4 -9
+p9
+aVShareef Abdur-Rahim POR 04/14/2004 POR vs. LAL L 16 8 2 5 40.0 0 0 - 4 4 100.0 0 2 2 1 0 0 2 1 -2
+p10
+aVTheo Ratliff POR 04/14/2004 POR vs. LAL L 47 12 6 8 75.0 0 0 - 0 0 - 4 6 10 2 0 5 2 4 1
+p11
+aVDarius Miles POR 04/14/2004 POR vs. LAL L 36 16 7 14 50.0 0 1 0.0 2 2 100.0 2 5 7 4 1 0 1 3 9
+p12
+aVDerek Anderson POR 04/14/2004 POR vs. LAL L 43 17 7 12 58.3 1 3 33.3 2 2 100.0 1 3 4 3 1 0 1 2 1
+p13
+aVShareef Abdur-Rahim POR 04/12/2004 POR vs. SAS L 25 8 2 7 28.6 0 0 - 4 4 100.0 1 4 5 1 0 0 1 3 -1
+p14
+aVDerek Anderson POR 04/12/2004 POR vs. SAS L 33 10 3 12 25.0 0 4 0.0 4 4 100.0 1 2 3 3 1 0 2 2 -15
+p15
+aVTheo Ratliff POR 04/12/2004 POR vs. SAS L 26 7 2 3 66.7 0 0 - 3 4 75.0 4 3 7 0 0 1 3 5 2
+p16
+aVDan Dickau POR 04/12/2004 POR vs. SAS L 10 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 0 2 0 1 1 7
+p17
+aVEddie Gill POR 04/12/2004 POR vs. SAS L 11 6 2 4 50.0 1 1 100.0 1 1 100.0 0 0 0 2 2 0 1 2 -5
+p18
+aVQyntel Woods POR 04/12/2004 POR vs. SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p19
+aVDarius Miles POR 04/12/2004 POR vs. SAS L 20 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -13
+p20
+aVRuben Patterson POR 04/12/2004 POR vs. SAS L 20 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 2 0 3 2 -5
+p21
+aVZach Randolph POR 04/12/2004 POR vs. SAS L 38 13 6 14 42.9 0 0 - 1 4 25.0 2 7 9 1 2 1 2 3 -13
+p22
+aVDamon Stoudamire POR 04/12/2004 POR vs. SAS L 36 12 5 15 33.3 2 5 40.0 0 0 - 0 3 3 6 1 0 1 4 -13
+p23
+aVDale Davis POR 04/12/2004 POR vs. SAS L 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -8
+p24
+aVDesmond Ferguson POR 04/12/2004 POR vs. SAS L 5 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p25
+aVDamon Stoudamire POR 04/10/2004 POR @ DEN L 43 15 6 17 35.3 2 7 28.6 1 2 50.0 0 4 4 6 3 0 1 5 -6
+p26
+aVZach Randolph POR 04/10/2004 POR @ DEN L 43 23 8 19 42.1 0 0 - 7 8 87.5 2 9 11 2 0 1 3 3 -5
+p27
+aVEddie Gill POR 04/10/2004 POR @ DEN L 11 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 1 1 -2
+p28
+aVDale Davis POR 04/10/2004 POR @ DEN L 12 4 2 2 100.0 0 0 - 0 1 0.0 1 0 1 0 1 0 0 2 -9
+p29
+aVRuben Patterson POR 04/10/2004 POR @ DEN L 18 1 0 0 - 0 0 - 1 2 50.0 1 0 1 2 0 1 0 0 -12
+p30
+aVDarius Miles POR 04/10/2004 POR @ DEN L 39 23 9 13 69.2 1 2 50.0 4 7 57.1 1 4 5 1 2 2 5 2 -5
+p31
+aVTheo Ratliff POR 04/10/2004 POR @ DEN L 40 2 1 4 25.0 0 0 - 0 0 - 3 8 11 0 1 3 1 5 -1
+p32
+aVShareef Abdur-Rahim POR 04/10/2004 POR @ DEN L 10 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 0 0 0 3 2 -5
+p33
+aVDerek Anderson POR 04/10/2004 POR @ DEN L 46 21 8 16 50.0 4 6 66.7 1 1 100.0 0 3 3 4 2 0 3 1 -5
+p34
+aVDesmond Ferguson POR 04/10/2004 POR @ DEN L 3 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 0
+p35
+aVQyntel Woods POR 04/09/2004 POR @ SAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p36
+aVDesmond Ferguson POR 04/09/2004 POR @ SAS L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 14
+p37
+aVTheo Ratliff POR 04/09/2004 POR @ SAS L 36 7 2 2 100.0 0 0 - 3 6 50.0 3 2 5 0 0 2 1 5 -3
+p38
+aVEddie Gill POR 04/09/2004 POR @ SAS L 17 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 0 2 0 1 2 11
+p39
+aVRuben Patterson POR 04/09/2004 POR @ SAS L 22 7 3 6 50.0 0 0 - 1 2 50.0 2 2 4 2 0 1 1 1 -3
+p40
+aVDarius Miles POR 04/09/2004 POR @ SAS L 23 10 4 9 44.4 0 0 - 2 2 100.0 2 0 2 0 0 0 0 3 -15
+p41
+aVZach Randolph POR 04/09/2004 POR @ SAS L 35 21 10 19 52.6 1 1 100.0 0 0 - 4 4 8 2 1 0 3 5 -10
+p42
+aVDan Dickau POR 04/09/2004 POR @ SAS L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p43
+aVShareef Abdur-Rahim POR 04/09/2004 POR @ SAS L 19 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 1 2 1 2 2 5
+p44
+aVDamon Stoudamire POR 04/09/2004 POR @ SAS L 31 5 2 12 16.7 0 4 0.0 1 2 50.0 2 2 4 3 2 0 2 0 -21
+p45
+aVDale Davis POR 04/09/2004 POR @ SAS L 10 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 1 0 1 -13
+p46
+aVDerek Anderson POR 04/09/2004 POR @ SAS L 36 13 5 11 45.5 3 4 75.0 0 0 - 1 1 2 4 4 0 4 1 -25
+p47
+aVDerek Anderson POR 04/07/2004 POR vs. GSW W 33 15 5 13 38.5 1 4 25.0 4 4 100.0 0 2 2 6 2 0 0 0 -5
+p48
+aVShareef Abdur-Rahim POR 04/07/2004 POR vs. GSW W 16 4 2 6 33.3 0 0 - 0 0 - 0 3 3 1 2 1 1 2 7
+p49
+aVDamon Stoudamire POR 04/07/2004 POR vs. GSW W 40 14 5 13 38.5 2 4 50.0 2 2 100.0 0 7 7 2 0 0 0 4 7
+p50
+aVTheo Ratliff POR 04/07/2004 POR vs. GSW W 43 4 2 4 50.0 0 0 - 0 0 - 2 11 13 2 2 8 0 1 12
+p51
+aVEddie Gill POR 04/07/2004 POR vs. GSW W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 1 1 1 -1
+p52
+aVDarius Miles POR 04/07/2004 POR vs. GSW W 37 21 9 16 56.3 0 0 - 3 4 75.0 0 5 5 3 0 0 2 1 6
+p53
+aVZach Randolph POR 04/07/2004 POR vs. GSW W 37 20 8 15 53.3 0 0 - 4 5 80.0 2 3 5 1 0 0 1 1 -5
+p54
+aVRuben Patterson POR 04/07/2004 POR vs. GSW W 26 9 3 4 75.0 1 1 100.0 2 3 66.7 0 1 1 5 2 2 3 2 9
+p55
+aVEddie Gill POR 04/06/2004 POR @ LAL W 8 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 1 0 2 0 -3
+p56
+aVQyntel Woods POR 04/06/2004 POR @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p57
+aVZach Randolph POR 04/06/2004 POR @ LAL W 32 22 10 18 55.6 0 0 - 2 2 100.0 2 7 9 5 1 1 2 2 13
+p58
+aVDesmond Ferguson POR 04/06/2004 POR @ LAL W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p59
+aVDale Davis POR 04/06/2004 POR @ LAL W 23 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 2 2 0 2 15
+p60
+aVShareef Abdur-Rahim POR 04/06/2004 POR @ LAL W 20 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 4 1 0 2 1 -2
+p61
+aVRuben Patterson POR 04/06/2004 POR @ LAL W 23 0 0 4 0.0 0 0 - 0 0 - 1 0 1 2 1 0 1 2 -7
+p62
+aVDarius Miles POR 04/06/2004 POR @ LAL W 29 14 6 13 46.2 0 0 - 2 2 100.0 0 6 6 3 1 1 3 2 17
+p63
+aVDan Dickau POR 04/06/2004 POR @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p64
+aVDamon Stoudamire POR 04/06/2004 POR @ LAL W 40 24 10 17 58.8 4 7 57.1 0 0 - 0 1 1 3 3 1 4 3 14
+p65
+aVDerek Anderson POR 04/06/2004 POR @ LAL W 42 17 6 13 46.2 1 4 25.0 4 4 100.0 1 8 9 8 2 0 3 3 18
+p66
+aVTheo Ratliff POR 04/06/2004 POR @ LAL W 20 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 2 4 1 3 -1
+p67
+aVDerek Anderson POR 04/03/2004 POR vs. NOH L 32 9 2 16 12.5 0 7 0.0 5 7 71.4 1 7 8 4 1 0 1 0 -13
+p68
+aVDale Davis POR 04/03/2004 POR vs. NOH L 7 0 0 2 0.0 0 0 - 0 0 - 3 0 3 1 0 0 1 1 -1
+p69
+aVDan Dickau POR 04/03/2004 POR vs. NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p70
+aVEddie Gill POR 04/03/2004 POR vs. NOH L 8 6 2 4 50.0 0 2 0.0 2 2 100.0 1 1 2 0 0 0 0 1 6
+p71
+aVDarius Miles POR 04/03/2004 POR vs. NOH L 30 14 7 10 70.0 0 0 - 0 0 - 1 4 5 1 0 2 0 1 -11
+p72
+aVDesmond Ferguson POR 04/03/2004 POR vs. NOH L 10 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 -2
+p73
+aVZach Randolph POR 04/03/2004 POR vs. NOH L 36 17 8 14 57.1 0 0 - 1 2 50.0 2 6 8 0 0 0 3 4 -3
+p74
+aVDamon Stoudamire POR 04/03/2004 POR vs. NOH L 40 2 1 9 11.1 0 5 0.0 0 0 - 0 1 1 5 2 0 3 3 -19
+p75
+aVTheo Ratliff POR 04/03/2004 POR vs. NOH L 32 6 3 7 42.9 0 0 - 0 0 - 5 3 8 3 0 3 0 3 -18
+p76
+aVShareef Abdur-Rahim POR 04/03/2004 POR vs. NOH L 21 14 4 11 36.4 1 2 50.0 5 5 100.0 3 1 4 0 1 1 2 3 -4
+p77
+aVRuben Patterson POR 04/03/2004 POR vs. NOH L 22 8 3 4 75.0 0 0 - 2 4 50.0 2 2 4 2 3 0 2 1 -5
+p78
+aVEddie Gill POR 04/01/2004 POR @ PHI W 11 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 1 1 0 1 1 -7
+p79
+aVDarius Miles POR 04/01/2004 POR @ PHI W 42 18 7 13 53.8 0 0 - 4 4 100.0 3 7 10 4 4 1 5 2 10
+p80
+aVZach Randolph POR 04/01/2004 POR @ PHI W 39 18 8 15 53.3 0 0 - 2 3 66.7 2 7 9 1 1 0 3 3 7
+p81
+aVDamon Stoudamire POR 04/01/2004 POR @ PHI W 37 9 3 9 33.3 3 8 37.5 0 0 - 0 4 4 6 1 0 1 1 13
+p82
+aVShareef Abdur-Rahim POR 04/01/2004 POR @ PHI W 15 8 3 8 37.5 0 0 - 2 4 50.0 1 0 1 1 1 0 0 2 -6
+p83
+aVTheo Ratliff POR 04/01/2004 POR @ PHI W 36 14 6 8 75.0 0 0 - 2 3 66.7 2 4 6 0 0 6 0 3 12
+p84
+aVDerek Anderson POR 04/01/2004 POR @ PHI W 43 12 3 11 27.3 1 3 33.3 5 6 83.3 0 4 4 6 0 0 2 2 6
+p85
+aVRuben Patterson POR 04/01/2004 POR @ PHI W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -4
+p86
+aVDale Davis POR 04/01/2004 POR @ PHI W 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -1
+p87
+aVEddie Gill POR 03/31/2004 POR @ BOS W 17 11 5 5 100.0 0 0 - 1 1 100.0 0 5 5 2 0 0 2 3 -1
+p88
+aVZach Randolph POR 03/31/2004 POR @ BOS W 40 18 9 15 60.0 0 0 - 0 0 - 3 8 11 4 1 0 5 3 5
+p89
+aVRuben Patterson POR 03/31/2004 POR @ BOS W 19 4 2 3 66.7 0 0 - 0 0 - 1 0 1 3 0 0 1 3 -8
+p90
+aVDamon Stoudamire POR 03/31/2004 POR @ BOS W 31 9 2 8 25.0 2 3 66.7 3 3 100.0 0 3 3 6 2 0 4 0 5
+p91
+aVDerek Anderson POR 03/31/2004 POR @ BOS W 36 10 3 9 33.3 0 3 0.0 4 5 80.0 1 5 6 6 3 0 3 2 12
+p92
+aVDale Davis POR 03/31/2004 POR @ BOS W 6 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 0 1
+p93
+aVDesmond Ferguson POR 03/31/2004 POR @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p94
+aVDarius Miles POR 03/31/2004 POR @ BOS W 40 31 13 17 76.5 0 0 - 5 8 62.5 0 3 3 3 3 1 2 2 13
+p95
+aVTheo Ratliff POR 03/31/2004 POR @ BOS W 38 14 7 10 70.0 0 0 - 0 2 0.0 5 3 8 0 1 6 3 2 10
+p96
+aVShareef Abdur-Rahim POR 03/31/2004 POR @ BOS W 12 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 1 0 1 1 2 1
+p97
+aVRuben Patterson POR 03/29/2004 POR @ NYK L 18 9 2 4 50.0 0 0 - 5 7 71.4 0 2 2 1 0 0 1 1 2
+p98
+aVDamon Stoudamire POR 03/29/2004 POR @ NYK L 36 20 7 17 41.2 2 6 33.3 4 4 100.0 0 5 5 4 1 0 2 3 1
+p99
+aVEddie Gill POR 03/29/2004 POR @ NYK L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 2 0 0 0 0
+p100
+aVZach Randolph POR 03/29/2004 POR @ NYK L 32 19 9 16 56.3 0 0 - 1 1 100.0 2 5 7 1 0 0 3 1 -4
+p101
+aVTheo Ratliff POR 03/29/2004 POR @ NYK L 38 8 3 4 75.0 0 0 - 2 2 100.0 1 5 6 0 2 6 1 3 -8
+p102
+aVDerek Anderson POR 03/29/2004 POR @ NYK L 45 16 6 14 42.9 1 4 25.0 3 3 100.0 0 4 4 7 1 0 3 2 0
+p103
+aVDale Davis POR 03/29/2004 POR @ NYK L 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 7
+p104
+aVDarius Miles POR 03/29/2004 POR @ NYK L 31 10 5 8 62.5 0 0 - 0 0 - 1 4 5 0 0 2 2 1 -4
+p105
+aVShareef Abdur-Rahim POR 03/29/2004 POR @ NYK L 18 7 1 2 50.0 0 0 - 5 6 83.3 1 3 4 1 1 1 1 1 1
+p106
+aVDerek Anderson POR 03/27/2004 POR vs. SEA W 45 22 6 14 42.9 2 2 100.0 8 10 80.0 0 3 3 7 4 0 0 1 1
+p107
+aVEddie Gill POR 03/27/2004 POR vs. SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p108
+aVRuben Patterson POR 03/27/2004 POR vs. SEA W 32 7 3 8 37.5 0 0 - 1 2 50.0 4 2 6 3 0 0 0 4 5
+p109
+aVDarius Miles POR 03/27/2004 POR vs. SEA W 30 10 4 9 44.4 0 0 - 2 4 50.0 1 1 2 2 0 0 0 1 9
+p110
+aVTheo Ratliff POR 03/27/2004 POR vs. SEA W 41 18 6 7 85.7 0 0 - 6 9 66.7 4 5 9 2 3 6 1 3 6
+p111
+aVZach Randolph POR 03/27/2004 POR vs. SEA W 45 25 8 15 53.3 0 0 - 9 10 90.0 1 8 9 1 1 0 3 3 -1
+p112
+aVShareef Abdur-Rahim POR 03/27/2004 POR vs. SEA W 20 10 4 10 40.0 0 0 - 2 5 40.0 2 2 4 1 1 0 1 2 6
+p113
+aVDamon Stoudamire POR 03/27/2004 POR vs. SEA W 49 23 8 20 40.0 5 11 45.5 2 2 100.0 2 4 6 8 3 0 2 0 16
+p114
+aVDarius Miles POR 03/24/2004 POR vs. LAC W 19 6 3 9 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -12
+p115
+aVDamon Stoudamire POR 03/24/2004 POR vs. LAC W 44 32 11 22 50.0 6 10 60.0 4 4 100.0 1 1 2 5 2 0 0 0 6
+p116
+aVDerek Anderson POR 03/24/2004 POR vs. LAC W 45 10 3 11 27.3 1 9 11.1 3 4 75.0 0 4 4 6 0 0 1 2 12
+p117
+aVEddie Gill POR 03/24/2004 POR vs. LAC W 4 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 1 0
+p118
+aVRuben Patterson POR 03/24/2004 POR vs. LAC W 25 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 2 2 1 3 3 4
+p119
+aVZach Randolph POR 03/24/2004 POR vs. LAC W 32 13 5 13 38.5 0 0 - 3 4 75.0 1 5 6 3 2 1 3 5 13
+p120
+aVDale Davis POR 03/24/2004 POR vs. LAC W 12 0 0 2 0.0 0 0 - 0 0 - 4 2 6 1 0 0 0 1 -4
+p121
+aVShareef Abdur-Rahim POR 03/24/2004 POR vs. LAC W 26 14 6 13 46.2 0 1 0.0 2 2 100.0 1 2 3 1 0 0 0 3 -5
+p122
+aVTheo Ratliff POR 03/24/2004 POR vs. LAC W 33 8 4 8 50.0 0 0 - 0 2 0.0 6 6 12 2 2 3 0 4 16
+p123
+aVZach Randolph POR 03/22/2004 POR vs. HOU L 42 20 7 20 35.0 0 0 - 6 13 46.2 4 7 11 2 1 0 4 2 -13
+p124
+aVDale Davis POR 03/22/2004 POR vs. HOU L 8 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 1 0 3 -4
+p125
+aVDarius Miles POR 03/22/2004 POR vs. HOU L 36 16 6 15 40.0 0 0 - 4 6 66.7 3 1 4 2 1 0 0 3 -10
+p126
+aVRuben Patterson POR 03/22/2004 POR vs. HOU L 26 8 2 3 66.7 0 1 0.0 4 4 100.0 1 2 3 2 3 0 0 0 0
+p127
+aVEddie Gill POR 03/22/2004 POR vs. HOU L 4 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 1
+p128
+aVDerek Anderson POR 03/22/2004 POR vs. HOU L 49 9 3 12 25.0 0 5 0.0 3 4 75.0 0 8 8 5 1 0 1 1 -2
+p129
+aVShareef Abdur-Rahim POR 03/22/2004 POR vs. HOU L 16 9 4 7 57.1 1 1 100.0 0 0 - 4 1 5 0 1 1 0 2 5
+p130
+aVTheo Ratliff POR 03/22/2004 POR vs. HOU L 35 2 1 4 25.0 0 0 - 0 2 0.0 2 3 5 1 0 4 0 6 -10
+p131
+aVDamon Stoudamire POR 03/22/2004 POR vs. HOU L 49 19 7 15 46.7 3 6 50.0 2 2 100.0 0 3 3 5 2 0 4 1 -7
+p132
+aVDan Dickau POR 03/20/2004 POR vs. ORL W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 1 1
+p133
+aVZach Randolph POR 03/20/2004 POR vs. ORL W 33 16 8 14 57.1 0 0 - 0 0 - 0 9 9 3 0 0 2 3 23
+p134
+aVQyntel Woods POR 03/20/2004 POR vs. ORL W 2 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 1
+p135
+aVShareef Abdur-Rahim POR 03/20/2004 POR vs. ORL W 21 10 5 14 35.7 0 2 0.0 0 0 - 2 1 3 2 0 0 2 2 4
+p136
+aVDamon Stoudamire POR 03/20/2004 POR vs. ORL W 41 9 3 7 42.9 2 4 50.0 1 1 100.0 0 5 5 11 0 0 4 3 23
+p137
+aVOmar Cook POR 03/20/2004 POR vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p138
+aVTheo Ratliff POR 03/20/2004 POR vs. ORL W 26 14 6 7 85.7 0 0 - 2 2 100.0 2 4 6 0 2 6 2 4 15
+p139
+aVDarius Miles POR 03/20/2004 POR vs. ORL W 29 8 4 7 57.1 0 0 - 0 0 - 1 7 8 5 0 3 2 1 10
+p140
+aVDerek Anderson POR 03/20/2004 POR vs. ORL W 42 24 8 17 47.1 3 8 37.5 5 6 83.3 0 4 4 5 2 0 4 1 24
+p141
+aVEddie Gill POR 03/20/2004 POR vs. ORL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p142
+aVRuben Patterson POR 03/20/2004 POR vs. ORL W 24 8 4 6 66.7 0 0 - 0 0 - 1 2 3 2 1 0 0 2 6
+p143
+aVDale Davis POR 03/20/2004 POR vs. ORL W 14 0 0 4 0.0 0 0 - 0 0 - 3 5 8 0 0 3 0 1 -5
+p144
+aVDarius Miles POR 03/17/2004 POR @ IND L 29 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 1 1 2 3 5 -8
+p145
+aVQyntel Woods POR 03/17/2004 POR @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p146
+aVRuben Patterson POR 03/17/2004 POR @ IND L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 2 0 1 1 4
+p147
+aVDerek Anderson POR 03/17/2004 POR @ IND L 41 6 1 11 9.1 0 5 0.0 4 7 57.1 0 4 4 6 3 1 3 3 -8
+p148
+aVDamon Stoudamire POR 03/17/2004 POR @ IND L 40 14 6 18 33.3 2 7 28.6 0 0 - 3 1 4 3 1 0 5 2 -9
+p149
+aVTheo Ratliff POR 03/17/2004 POR @ IND L 35 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 0 0 7 1 2 -4
+p150
+aVEddie Gill POR 03/17/2004 POR @ IND L 10 8 1 2 50.0 1 1 100.0 5 6 83.3 1 1 2 1 0 0 0 1 -2
+p151
+aVZach Randolph POR 03/17/2004 POR @ IND L 38 16 8 12 66.7 0 0 - 0 0 - 1 5 6 0 1 0 3 0 -8
+p152
+aVShareef Abdur-Rahim POR 03/17/2004 POR @ IND L 22 12 2 4 50.0 1 1 100.0 7 8 87.5 0 6 6 0 0 2 2 3 -6
+p153
+aVDale Davis POR 03/17/2004 POR @ IND L 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 0 0 -3
+p154
+aVDamon Stoudamire POR 03/16/2004 POR @ MIL W 43 14 6 19 31.6 2 10 20.0 0 0 - 3 4 7 8 1 0 3 1 6
+p155
+aVZach Randolph POR 03/16/2004 POR @ MIL W 36 16 8 18 44.4 0 0 - 0 0 - 1 10 11 2 1 1 1 3 5
+p156
+aVDale Davis POR 03/16/2004 POR @ MIL W 12 4 2 3 66.7 0 0 - 0 0 - 3 0 3 0 0 2 0 1 -9
+p157
+aVTheo Ratliff POR 03/16/2004 POR @ MIL W 37 10 3 7 42.9 0 0 - 4 4 100.0 4 5 9 1 1 2 0 4 10
+p158
+aVRuben Patterson POR 03/16/2004 POR @ MIL W 17 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 2 -10
+p159
+aVShareef Abdur-Rahim POR 03/16/2004 POR @ MIL W 17 16 6 7 85.7 0 0 - 4 4 100.0 0 3 3 2 0 0 2 2 -12
+p160
+aVEddie Gill POR 03/16/2004 POR @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p161
+aVDerek Anderson POR 03/16/2004 POR @ MIL W 35 20 9 15 60.0 2 6 33.3 0 0 - 1 1 2 8 1 0 0 3 14
+p162
+aVDarius Miles POR 03/16/2004 POR @ MIL W 39 20 8 15 53.3 0 0 - 4 4 100.0 0 4 4 1 3 0 2 1 6
+p163
+aVRuben Patterson POR 03/14/2004 POR @ MIN W 19 3 0 5 0.0 0 0 - 3 4 75.0 2 1 3 1 0 0 1 2 -11
+p164
+aVDale Davis POR 03/14/2004 POR @ MIN W 9 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 7
+p165
+aVShareef Abdur-Rahim POR 03/14/2004 POR @ MIN W 17 4 2 7 28.6 0 0 - 0 0 - 3 3 6 1 0 2 0 2 6
+p166
+aVDarius Miles POR 03/14/2004 POR @ MIN W 37 19 8 12 66.7 0 0 - 3 6 50.0 2 4 6 3 1 3 4 3 6
+p167
+aVZach Randolph POR 03/14/2004 POR @ MIN W 37 20 6 14 42.9 0 0 - 8 9 88.9 6 5 11 1 0 1 3 2 7
+p168
+aVTheo Ratliff POR 03/14/2004 POR @ MIN W 32 7 3 4 75.0 0 0 - 1 4 25.0 4 6 10 0 0 6 1 3 -1
+p169
+aVDerek Anderson POR 03/14/2004 POR @ MIN W 38 21 7 16 43.8 3 6 50.0 4 5 80.0 1 5 6 3 1 0 1 3 24
+p170
+aVDamon Stoudamire POR 03/14/2004 POR @ MIN W 46 17 6 15 40.0 3 8 37.5 2 2 100.0 2 4 6 8 1 1 0 2 7
+p171
+aVOmar Cook POR 03/14/2004 POR @ MIN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p172
+aVTheo Ratliff POR 03/12/2004 POR vs. SAC W 39 11 4 7 57.1 0 0 - 3 4 75.0 4 7 11 1 2 8 3 1 15
+p173
+aVZach Randolph POR 03/12/2004 POR vs. SAC W 37 17 8 22 36.4 0 1 0.0 1 1 100.0 5 9 14 3 1 0 2 2 2
+p174
+aVDamon Stoudamire POR 03/12/2004 POR vs. SAC W 45 20 9 22 40.9 2 7 28.6 0 0 - 0 6 6 2 2 0 4 2 -3
+p175
+aVOmar Cook POR 03/12/2004 POR vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 2 0 5
+p176
+aVDerek Anderson POR 03/12/2004 POR vs. SAC W 41 6 2 10 20.0 0 4 0.0 2 2 100.0 0 6 6 7 2 0 0 3 11
+p177
+aVRuben Patterson POR 03/12/2004 POR vs. SAC W 23 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -2
+p178
+aVShareef Abdur-Rahim POR 03/12/2004 POR vs. SAC W 15 8 3 6 50.0 0 0 - 2 2 100.0 2 1 3 2 1 0 1 1 -1
+p179
+aVDale Davis POR 03/12/2004 POR vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -12
+p180
+aVDarius Miles POR 03/12/2004 POR vs. SAC W 32 13 6 9 66.7 0 0 - 1 3 33.3 3 1 4 2 2 1 0 1 -5
+p181
+aVRuben Patterson POR 03/10/2004 POR vs. MIN W 25 12 5 6 83.3 0 0 - 2 3 66.7 0 2 2 1 1 1 1 2 16
+p182
+aVTheo Ratliff POR 03/10/2004 POR vs. MIN W 29 2 1 6 16.7 0 0 - 0 2 0.0 2 3 5 2 1 5 0 4 -6
+p183
+aVDarius Miles POR 03/10/2004 POR vs. MIN W 29 5 2 6 33.3 0 0 - 1 2 50.0 5 3 8 4 0 1 3 1 5
+p184
+aVEddie Gill POR 03/10/2004 POR vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p185
+aVZach Randolph POR 03/10/2004 POR vs. MIN W 33 18 8 16 50.0 0 0 - 2 4 50.0 5 6 11 0 0 0 2 1 1
+p186
+aVDerek Anderson POR 03/10/2004 POR vs. MIN W 38 13 5 15 33.3 1 5 20.0 2 3 66.7 2 4 6 7 3 0 5 1 -3
+p187
+aVOmar Cook POR 03/10/2004 POR vs. MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 11
+p188
+aVQyntel Woods POR 03/10/2004 POR vs. MIN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p189
+aVDale Davis POR 03/10/2004 POR vs. MIN W 10 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 12
+p190
+aVDan Dickau POR 03/10/2004 POR vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p191
+aVDamon Stoudamire POR 03/10/2004 POR vs. MIN W 44 28 11 19 57.9 6 10 60.0 0 1 0.0 0 5 5 7 1 0 2 0 14
+p192
+aVShareef Abdur-Rahim POR 03/10/2004 POR vs. MIN W 22 9 4 7 57.1 0 0 - 1 1 100.0 3 3 6 0 3 1 0 2 19
+p193
+aVDerek Anderson POR 03/07/2004 POR @ LAC L 35 22 9 17 52.9 4 8 50.0 0 0 - 1 2 3 3 0 0 1 1 -19
+p194
+aVQyntel Woods POR 03/07/2004 POR @ LAC L 10 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 1 0
+p195
+aVRuben Patterson POR 03/07/2004 POR @ LAC L 14 2 1 6 16.7 0 0 - 0 2 0.0 2 0 2 1 0 0 1 1 -8
+p196
+aVDamon Stoudamire POR 03/07/2004 POR @ LAC L 32 2 1 9 11.1 0 3 0.0 0 0 - 2 1 3 3 0 0 1 2 -6
+p197
+aVTheo Ratliff POR 03/07/2004 POR @ LAC L 31 3 0 1 0.0 0 0 - 3 4 75.0 0 3 3 1 1 4 2 3 -16
+p198
+aVShareef Abdur-Rahim POR 03/07/2004 POR @ LAC L 39 13 6 17 35.3 0 0 - 1 1 100.0 5 6 11 3 1 0 3 4 -11
+p199
+aVDan Dickau POR 03/07/2004 POR @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -8
+p200
+aVDale Davis POR 03/07/2004 POR @ LAC L 22 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 2 1 0 1 -9
+p201
+aVOmar Cook POR 03/07/2004 POR @ LAC L 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 0 -3
+p202
+aVEddie Gill POR 03/07/2004 POR @ LAC L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -3
+p203
+aVDarius Miles POR 03/07/2004 POR @ LAC L 41 24 11 20 55.0 0 1 0.0 2 3 66.7 5 8 13 3 0 0 1 2 -17
+p204
+aVDale Davis POR 03/06/2004 POR vs. UTA W 20 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 1 3 0 2 4
+p205
+aVDerek Anderson POR 03/06/2004 POR vs. UTA W 38 13 5 9 55.6 1 3 33.3 2 2 100.0 0 5 5 7 0 0 3 1 21
+p206
+aVQyntel Woods POR 03/06/2004 POR vs. UTA W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -2
+p207
+aVDamon Stoudamire POR 03/06/2004 POR vs. UTA W 33 13 4 12 33.3 3 7 42.9 2 2 100.0 0 2 2 8 1 0 1 2 17
+p208
+aVEddie Gill POR 03/06/2004 POR vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p209
+aVDan Dickau POR 03/06/2004 POR vs. UTA W 15 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 3 4
+p210
+aVRuben Patterson POR 03/06/2004 POR vs. UTA W 14 3 1 2 50.0 0 0 - 1 3 33.3 0 0 0 0 1 0 0 1 5
+p211
+aVDarius Miles POR 03/06/2004 POR vs. UTA W 35 19 8 10 80.0 0 0 - 3 3 100.0 2 3 5 5 1 1 1 2 11
+p212
+aVTheo Ratliff POR 03/06/2004 POR vs. UTA W 27 7 3 4 75.0 0 0 - 1 3 33.3 1 4 5 0 1 7 2 5 20
+p213
+aVShareef Abdur-Rahim POR 03/06/2004 POR vs. UTA W 19 6 1 4 25.0 0 0 - 4 6 66.7 0 4 4 3 1 1 2 4 4
+p214
+aVZach Randolph POR 03/06/2004 POR vs. UTA W 32 23 9 17 52.9 0 0 - 5 5 100.0 2 4 6 1 1 0 2 2 27
+p215
+aVOmar Cook POR 03/06/2004 POR vs. UTA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p216
+aVRuben Patterson POR 03/04/2004 POR vs. DET L 17 5 1 6 16.7 0 1 0.0 3 4 75.0 2 3 5 4 1 0 2 1 0
+p217
+aVEddie Gill POR 03/04/2004 POR vs. DET L 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 6
+p218
+aVQyntel Woods POR 03/04/2004 POR vs. DET L 12 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 0 6
+p219
+aVDarius Miles POR 03/04/2004 POR vs. DET L 19 2 1 8 12.5 0 1 0.0 0 0 - 2 2 4 0 2 0 0 1 -21
+p220
+aVDerek Anderson POR 03/04/2004 POR vs. DET L 25 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 0 1 0 3 0 -12
+p221
+aVDale Davis POR 03/04/2004 POR vs. DET L 30 4 1 3 33.3 0 0 - 2 2 100.0 3 3 6 0 0 0 0 1 -10
+p222
+aVDamon Stoudamire POR 03/04/2004 POR vs. DET L 29 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 4 0 0 3 3 -21
+p223
+aVOmar Cook POR 03/04/2004 POR vs. DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -2
+p224
+aVDan Dickau POR 03/04/2004 POR vs. DET L 20 9 3 8 37.5 1 1 100.0 2 2 100.0 0 2 2 1 2 0 1 3 6
+p225
+aVTheo Ratliff POR 03/04/2004 POR vs. DET L 18 1 0 3 0.0 0 0 - 1 2 50.0 1 5 6 1 0 1 1 3 -5
+p226
+aVZach Randolph POR 03/04/2004 POR vs. DET L 26 11 5 9 55.6 0 0 - 1 2 50.0 1 5 6 0 0 1 1 1 -22
+p227
+aVShareef Abdur-Rahim POR 03/04/2004 POR vs. DET L 26 10 4 10 40.0 0 1 0.0 2 2 100.0 2 0 2 0 0 0 3 3 0
+p228
+aVShareef Abdur-Rahim POR 03/03/2004 POR vs. MEM L 26 4 1 6 16.7 0 0 - 2 2 100.0 2 6 8 0 2 1 1 1 2
+p229
+aVZach Randolph POR 03/03/2004 POR vs. MEM L 30 13 6 20 30.0 0 0 - 1 2 50.0 5 3 8 1 0 0 2 2 -11
+p230
+aVDerek Anderson POR 03/03/2004 POR vs. MEM L 34 6 2 12 16.7 0 4 0.0 2 2 100.0 1 1 2 6 2 0 2 2 -13
+p231
+aVRuben Patterson POR 03/03/2004 POR vs. MEM L 29 19 8 15 53.3 0 0 - 3 3 100.0 3 2 5 7 3 0 0 1 4
+p232
+aVEddie Gill POR 03/03/2004 POR vs. MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p233
+aVTheo Ratliff POR 03/03/2004 POR vs. MEM L 32 11 3 5 60.0 0 0 - 5 6 83.3 4 7 11 0 0 4 1 4 -11
+p234
+aVDamon Stoudamire POR 03/03/2004 POR vs. MEM L 35 12 6 12 50.0 0 3 0.0 0 0 - 0 5 5 3 1 0 3 3 -2
+p235
+aVDarius Miles POR 03/03/2004 POR vs. MEM L 24 10 4 11 36.4 0 0 - 2 2 100.0 2 2 4 0 1 0 5 1 -15
+p236
+aVDale Davis POR 03/03/2004 POR vs. MEM L 13 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 0 1 0 1 3
+p237
+aVDan Dickau POR 03/03/2004 POR vs. MEM L 16 9 3 6 50.0 2 4 50.0 1 2 50.0 0 1 1 2 1 0 2 2 -2
+p238
+aVRuben Patterson POR 02/28/2004 POR @ DAL L 19 4 2 9 22.2 0 0 - 0 0 - 4 2 6 0 0 0 1 1 -10
+p239
+aVDale Davis POR 02/28/2004 POR @ DAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 4
+p240
+aVShareef Abdur-Rahim POR 02/28/2004 POR @ DAL L 32 13 6 13 46.2 0 0 - 1 2 50.0 0 5 5 3 0 1 1 2 -27
+p241
+aVDan Dickau POR 02/28/2004 POR @ DAL L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -7
+p242
+aVDamon Stoudamire POR 02/28/2004 POR @ DAL L 43 16 4 16 25.0 3 9 33.3 5 5 100.0 0 3 3 8 0 0 0 3 -13
+p243
+aVQyntel Woods POR 02/28/2004 POR @ DAL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p244
+aVZach Randolph POR 02/28/2004 POR @ DAL L 30 18 6 10 60.0 0 0 - 6 6 100.0 3 8 11 0 0 1 6 5 -11
+p245
+aVDerek Anderson POR 02/28/2004 POR @ DAL L 39 14 5 12 41.7 2 7 28.6 2 2 100.0 0 5 5 4 0 0 0 1 -11
+p246
+aVDarius Miles POR 02/28/2004 POR @ DAL L 31 16 5 10 50.0 0 0 - 6 9 66.7 2 3 5 3 2 1 2 3 -7
+p247
+aVTheo Ratliff POR 02/28/2004 POR @ DAL L 27 8 4 7 57.1 0 0 - 0 0 - 3 1 4 0 0 2 1 3 -11
+p248
+aVTheo Ratliff POR 02/27/2004 POR @ HOU L 21 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 1 3 0 4 -5
+p249
+aVRuben Patterson POR 02/27/2004 POR @ HOU L 20 2 1 1 100.0 0 0 - 0 2 0.0 0 3 3 3 1 0 3 3 2
+p250
+aVDarius Miles POR 02/27/2004 POR @ HOU L 24 6 3 9 33.3 0 1 0.0 0 0 - 2 1 3 1 1 3 0 1 -4
+p251
+aVDale Davis POR 02/27/2004 POR @ HOU L 15 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 2 1 2
+p252
+aVDamon Stoudamire POR 02/27/2004 POR @ HOU L 37 12 5 12 41.7 2 5 40.0 0 0 - 1 5 6 3 0 0 5 4 -8
+p253
+aVQyntel Woods POR 02/27/2004 POR @ HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -4
+p254
+aVZach Randolph POR 02/27/2004 POR @ HOU L 42 17 6 15 40.0 0 0 - 5 6 83.3 2 15 17 1 2 0 3 2 -10
+p255
+aVDerek Anderson POR 02/27/2004 POR @ HOU L 42 22 7 14 50.0 3 4 75.0 5 6 83.3 0 2 2 9 1 0 1 1 0
+p256
+aVDan Dickau POR 02/27/2004 POR @ HOU L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 2
+p257
+aVShareef Abdur-Rahim POR 02/27/2004 POR @ HOU L 21 15 5 7 71.4 0 0 - 5 6 83.3 0 1 1 3 0 0 2 2 5
+p258
+aVDale Davis POR 02/24/2004 POR @ ORL W 18 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 1 0 -14
+p259
+aVDamon Stoudamire POR 02/24/2004 POR @ ORL W 41 17 6 15 40.0 4 7 57.1 1 2 50.0 0 9 9 7 1 0 3 2 13
+p260
+aVShareef Abdur-Rahim POR 02/24/2004 POR @ ORL W 43 14 6 11 54.5 0 0 - 2 2 100.0 2 6 8 3 0 1 4 5 13
+p261
+aVDarius Miles POR 02/24/2004 POR @ ORL W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 3
+p262
+aVTheo Ratliff POR 02/24/2004 POR @ ORL W 31 4 2 8 25.0 0 0 - 0 0 - 4 4 8 0 0 9 0 4 14
+p263
+aVDerek Anderson POR 02/24/2004 POR @ ORL W 47 18 7 16 43.8 3 8 37.5 1 3 33.3 0 1 1 2 0 0 1 1 -5
+p264
+aVZach Randolph POR 02/24/2004 POR @ ORL W 41 24 9 17 52.9 0 0 - 6 9 66.7 1 11 12 1 0 0 2 1 0
+p265
+aVDan Dickau POR 02/24/2004 POR @ ORL W 14 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 3 3 -6
+p266
+aVQyntel Woods POR 02/24/2004 POR @ ORL W 6 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 2 1 2
+p267
+aVRuben Patterson POR 02/24/2004 POR @ ORL W 20 9 4 5 80.0 0 0 - 1 3 33.3 0 1 1 1 0 1 1 2 -5
+p268
+aVOmar Cook POR 02/23/2004 POR @ MIA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -8
+p269
+aVTheo Ratliff POR 02/23/2004 POR @ MIA W 33 4 2 5 40.0 0 0 - 0 0 - 2 5 7 0 0 2 0 4 11
+p270
+aVDerek Anderson POR 02/23/2004 POR @ MIA W 41 20 7 12 58.3 1 2 50.0 5 7 71.4 0 4 4 4 2 0 2 1 8
+p271
+aVDan Dickau POR 02/23/2004 POR @ MIA W 7 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 1 0 0 0 11
+p272
+aVDarius Miles POR 02/23/2004 POR @ MIA W 20 6 3 8 37.5 0 0 - 0 0 - 1 0 1 0 0 2 3 4 -2
+p273
+aVQyntel Woods POR 02/23/2004 POR @ MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p274
+aVZach Randolph POR 02/23/2004 POR @ MIA W 35 22 11 17 64.7 0 0 - 0 0 - 3 9 12 2 2 1 1 2 1
+p275
+aVShareef Abdur-Rahim POR 02/23/2004 POR @ MIA W 26 9 3 8 37.5 0 0 - 3 4 75.0 1 1 2 1 3 0 1 1 7
+p276
+aVRuben Patterson POR 02/23/2004 POR @ MIA W 30 8 3 7 42.9 0 1 0.0 2 4 50.0 2 5 7 1 1 0 1 1 7
+p277
+aVDamon Stoudamire POR 02/23/2004 POR @ MIA W 38 18 4 11 36.4 4 10 40.0 6 7 85.7 0 2 2 4 1 0 3 0 10
+p278
+aVDerek Anderson POR 02/21/2004 POR vs. BOS W 26 10 2 9 22.2 1 6 16.7 5 5 100.0 1 5 6 6 1 0 1 2 30
+p279
+aVDan Dickau POR 02/21/2004 POR vs. BOS W 14 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 3 0 0 1 4 -6
+p280
+aVDamon Stoudamire POR 02/21/2004 POR vs. BOS W 26 16 6 7 85.7 2 2 100.0 2 2 100.0 2 0 2 7 1 0 4 1 29
+p281
+aVShareef Abdur-Rahim POR 02/21/2004 POR vs. BOS W 22 9 3 5 60.0 0 0 - 3 4 75.0 2 3 5 2 1 0 3 5 4
+p282
+aVQyntel Woods POR 02/21/2004 POR vs. BOS W 23 16 6 11 54.5 0 1 0.0 4 6 66.7 0 2 2 2 0 0 1 2 -9
+p283
+aVOmar Cook POR 02/21/2004 POR vs. BOS W 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 2 0 0 3 -19
+p284
+aVDarius Miles POR 02/21/2004 POR vs. BOS W 34 13 3 7 42.9 0 0 - 7 8 87.5 2 2 4 3 1 0 0 0 28
+p285
+aVTheo Ratliff POR 02/21/2004 POR vs. BOS W 31 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 1 6 1 3 34
+p286
+aVRuben Patterson POR 02/21/2004 POR vs. BOS W 11 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 2 0
+p287
+aVZach Randolph POR 02/21/2004 POR vs. BOS W 38 27 11 19 57.9 0 0 - 5 7 71.4 1 14 15 2 2 0 2 4 14
+p288
+aVDale Davis POR 02/20/2004 POR @ GSW W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p289
+aVDerek Anderson POR 02/20/2004 POR @ GSW W 43 16 4 13 30.8 1 6 16.7 7 8 87.5 0 1 1 3 1 1 0 0 3
+p290
+aVZach Randolph POR 02/20/2004 POR @ GSW W 30 19 8 16 50.0 0 0 - 3 5 60.0 1 5 6 0 0 3 2 4 5
+p291
+aVTheo Ratliff POR 02/20/2004 POR @ GSW W 30 8 2 6 33.3 0 0 - 4 5 80.0 4 7 11 0 1 3 2 3 -7
+p292
+aVDan Dickau POR 02/20/2004 POR @ GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p293
+aVShareef Abdur-Rahim POR 02/20/2004 POR @ GSW W 31 12 5 10 50.0 1 1 100.0 1 1 100.0 2 7 9 3 0 1 3 2 1
+p294
+aVOmar Cook POR 02/20/2004 POR @ GSW W 9 2 1 7 14.3 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -8
+p295
+aVDarius Miles POR 02/20/2004 POR @ GSW W 25 14 6 11 54.5 0 0 - 2 2 100.0 1 5 6 4 1 0 1 3 -2
+p296
+aVRuben Patterson POR 02/20/2004 POR @ GSW W 24 6 2 7 28.6 0 0 - 2 2 100.0 5 0 5 1 1 1 0 2 3
+p297
+aVDamon Stoudamire POR 02/20/2004 POR @ GSW W 39 15 5 12 41.7 3 5 60.0 2 3 66.7 4 5 9 7 1 0 1 3 9
+p298
+aVZach Randolph POR 02/18/2004 POR vs. LAC W 31 17 6 12 50.0 0 0 - 5 6 83.3 4 6 10 3 1 0 2 4 19
+p299
+aVDamon Stoudamire POR 02/18/2004 POR vs. LAC W 33 10 4 9 44.4 1 2 50.0 1 3 33.3 1 2 3 8 2 0 3 1 4
+p300
+aVQyntel Woods POR 02/18/2004 POR vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p301
+aVRuben Patterson POR 02/18/2004 POR vs. LAC W 20 9 4 9 44.4 0 0 - 1 1 100.0 4 1 5 3 4 1 2 1 11
+p302
+aVDerek Anderson POR 02/18/2004 POR vs. LAC W 41 27 9 20 45.0 6 13 46.2 3 3 100.0 0 5 5 3 1 0 2 1 17
+p303
+aVOmar Cook POR 02/18/2004 POR vs. LAC W 16 2 1 2 50.0 0 0 - 0 0 - 1 0 1 5 0 0 0 1 10
+p304
+aVDale Davis POR 02/18/2004 POR vs. LAC W 9 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 3 2
+p305
+aVTheo Ratliff POR 02/18/2004 POR vs. LAC W 26 6 3 7 42.9 0 0 - 0 0 - 4 2 6 2 0 5 0 2 4
+p306
+aVDan Dickau POR 02/18/2004 POR vs. LAC W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p307
+aVDarius Miles POR 02/18/2004 POR vs. LAC W 24 11 5 9 55.6 0 0 - 1 1 100.0 3 5 8 3 1 0 1 3 -6
+p308
+aVShareef Abdur-Rahim POR 02/18/2004 POR vs. LAC W 38 13 5 11 45.5 0 0 - 3 4 75.0 2 2 4 2 1 1 4 2 16
+p309
+aVDale Davis POR 02/17/2004 POR @ LAL L 23 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 1 1 0 4 0
+p310
+aVZach Randolph POR 02/17/2004 POR @ LAL L 27 8 4 10 40.0 0 0 - 0 0 - 1 4 5 2 0 0 1 1 -4
+p311
+aVRuben Patterson POR 02/17/2004 POR @ LAL L 25 17 5 7 71.4 1 1 100.0 6 7 85.7 1 0 1 1 1 0 1 4 1
+p312
+aVShareef Abdur-Rahim POR 02/17/2004 POR @ LAL L 28 16 6 13 46.2 0 0 - 4 5 80.0 2 3 5 1 1 1 3 3 -6
+p313
+aVTheo Ratliff POR 02/17/2004 POR @ LAL L 19 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 0 0 1 3 3
+p314
+aVDan Dickau POR 02/17/2004 POR @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p315
+aVOmar Cook POR 02/17/2004 POR @ LAL L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 2
+p316
+aVDerek Anderson POR 02/17/2004 POR @ LAL L 40 15 6 11 54.5 3 6 50.0 0 0 - 0 3 3 2 3 0 1 1 -3
+p317
+aVQyntel Woods POR 02/17/2004 POR @ LAL L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p318
+aVDamon Stoudamire POR 02/17/2004 POR @ LAL L 41 14 6 16 37.5 2 8 25.0 0 0 - 0 6 6 12 2 0 1 1 -3
+p319
+aVDarius Miles POR 02/17/2004 POR @ LAL L 22 12 5 9 55.6 0 0 - 2 3 66.7 0 4 4 1 2 0 2 3 -3
+p320
+aVDamon Stoudamire POR 02/12/2004 POR vs. DEN L 34 9 4 9 44.4 1 4 25.0 0 2 0.0 0 2 2 12 0 0 3 2 -11
+p321
+aVOmar Cook POR 02/12/2004 POR vs. DEN L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 2
+p322
+aVShareef Abdur-Rahim POR 02/12/2004 POR vs. DEN L 30 20 8 16 50.0 0 1 0.0 4 5 80.0 3 9 12 3 0 0 0 3 -2
+p323
+aVTheo Ratliff POR 02/12/2004 POR vs. DEN L 28 14 6 7 85.7 0 0 - 2 2 100.0 4 6 10 0 0 4 3 5 -7
+p324
+aVDale Davis POR 02/12/2004 POR vs. DEN L 15 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -1
+p325
+aVRuben Patterson POR 02/12/2004 POR vs. DEN L 19 6 3 8 37.5 0 0 - 0 2 0.0 3 1 4 4 2 0 2 1 -6
+p326
+aVDerek Anderson POR 02/12/2004 POR vs. DEN L 40 17 6 17 35.3 3 11 27.3 2 2 100.0 1 0 1 5 1 0 3 3 -9
+p327
+aVDan Dickau POR 02/12/2004 POR vs. DEN L 6 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 2 0
+p328
+aVZach Randolph POR 02/12/2004 POR vs. DEN L 32 8 2 7 28.6 0 0 - 4 4 100.0 0 8 8 2 1 0 6 2 -9
+p329
+aVDarius Miles POR 02/12/2004 POR vs. DEN L 29 15 6 10 60.0 0 0 - 3 7 42.9 1 2 3 2 1 0 1 4 -2
+p330
+aVVladimir Stepania POR 02/10/2004 POR vs. UTA L 16 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 1 0 0 2 -1
+p331
+aVDamon Stoudamire POR 02/10/2004 POR vs. UTA L 43 18 6 16 37.5 2 10 20.0 4 4 100.0 1 4 5 7 1 0 1 4 0
+p332
+aVDerek Anderson POR 02/10/2004 POR vs. UTA L 40 21 5 13 38.5 1 5 20.0 10 11 90.9 0 3 3 4 1 0 3 2 3
+p333
+aVQyntel Woods POR 02/10/2004 POR vs. UTA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -3
+p334
+aVRuben Patterson POR 02/10/2004 POR vs. UTA L 19 3 1 4 25.0 0 1 0.0 1 2 50.0 2 2 4 2 0 0 1 2 -4
+p335
+aVZach Randolph POR 02/10/2004 POR vs. UTA L 44 16 6 15 40.0 0 0 - 4 6 66.7 2 6 8 1 5 1 4 5 -3
+p336
+aVOmar Cook POR 02/10/2004 POR vs. UTA L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -7
+p337
+aVDale Davis POR 02/10/2004 POR vs. UTA L 31 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 2 1 1 2 -3
+p338
+aVDarius Miles POR 02/10/2004 POR vs. UTA L 33 19 9 14 64.3 0 0 - 1 2 50.0 1 2 3 1 1 1 1 2 -7
+p339
+aVRasheed Wallace POR 02/08/2004 POR vs. SEA W 39 14 5 11 45.5 2 4 50.0 2 2 100.0 1 4 5 3 0 3 3 5 20
+p340
+aVDarius Miles POR 02/08/2004 POR vs. SEA W 24 10 4 6 66.7 0 0 - 2 2 100.0 1 5 6 2 1 0 2 2 15
+p341
+aVQyntel Woods POR 02/08/2004 POR vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p342
+aVDale Davis POR 02/08/2004 POR vs. SEA W 19 9 2 6 33.3 0 0 - 5 8 62.5 2 4 6 1 0 1 0 4 -14
+p343
+aVWesley Person POR 02/08/2004 POR vs. SEA W 11 8 3 6 50.0 2 3 66.7 0 0 - 0 3 3 1 1 0 0 0 -7
+p344
+aVDamon Stoudamire POR 02/08/2004 POR vs. SEA W 35 19 7 14 50.0 2 5 40.0 3 3 100.0 1 1 2 6 1 0 2 0 16
+p345
+aVZach Randolph POR 02/08/2004 POR vs. SEA W 38 25 10 18 55.6 0 0 - 5 5 100.0 2 14 16 2 1 1 2 3 14
+p346
+aVOmar Cook POR 02/08/2004 POR vs. SEA W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -6
+p347
+aVEddie Gill POR 02/08/2004 POR vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p348
+aVRuben Patterson POR 02/08/2004 POR vs. SEA W 23 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 2 0 0 2 1 -5
+p349
+aVDerek Anderson POR 02/08/2004 POR vs. SEA W 36 6 2 11 18.2 0 4 0.0 2 3 66.7 1 5 6 9 5 0 1 0 17
+p350
+aVRuben Patterson POR 02/06/2004 POR @ UTA W 20 4 1 2 50.0 0 0 - 2 4 50.0 1 1 2 1 1 1 2 4 14
+p351
+aVDarius Miles POR 02/06/2004 POR @ UTA W 29 10 3 8 37.5 0 0 - 4 4 100.0 1 1 2 1 2 1 1 3 -2
+p352
+aVOmar Cook POR 02/06/2004 POR @ UTA W 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 1 0 2 0 4
+p353
+aVWesley Person POR 02/06/2004 POR @ UTA W 13 7 2 6 33.3 1 3 33.3 2 2 100.0 1 1 2 0 1 0 1 0 4
+p354
+aVDerek Anderson POR 02/06/2004 POR @ UTA W 33 11 5 9 55.6 1 4 25.0 0 0 - 0 1 1 3 2 0 3 2 14
+p355
+aVDamon Stoudamire POR 02/06/2004 POR @ UTA W 36 14 3 11 27.3 1 5 20.0 7 7 100.0 1 5 6 5 1 0 1 2 10
+p356
+aVZach Randolph POR 02/06/2004 POR @ UTA W 43 19 7 14 50.0 0 0 - 5 6 83.3 4 10 14 2 1 2 2 4 19
+p357
+aVRasheed Wallace POR 02/06/2004 POR @ UTA W 34 16 4 12 33.3 1 1 100.0 7 9 77.8 0 6 6 3 0 4 0 3 11
+p358
+aVEddie Gill POR 02/06/2004 POR @ UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p359
+aVQyntel Woods POR 02/06/2004 POR @ UTA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p360
+aVDale Davis POR 02/06/2004 POR @ UTA W 16 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 0 0 3 4
+p361
+aVRasheed Wallace POR 02/04/2004 POR @ PHX W 12 8 3 5 60.0 2 2 100.0 0 0 - 1 1 2 3 1 1 1 3 15
+p362
+aVZach Randolph POR 02/04/2004 POR @ PHX W 41 19 9 17 52.9 0 0 - 1 1 100.0 2 8 10 2 0 1 3 2 1
+p363
+aVDamon Stoudamire POR 02/04/2004 POR @ PHX W 37 14 5 12 41.7 3 6 50.0 1 1 100.0 0 2 2 11 3 0 3 3 -3
+p364
+aVDerek Anderson POR 02/04/2004 POR @ PHX W 29 13 6 11 54.5 1 3 33.3 0 0 - 0 1 1 3 0 0 2 1 9
+p365
+aVDale Davis POR 02/04/2004 POR @ PHX W 22 8 4 6 66.7 0 0 - 0 0 - 2 4 6 0 0 3 0 1 3
+p366
+aVQyntel Woods POR 02/04/2004 POR @ PHX W 22 8 3 8 37.5 0 2 0.0 2 2 100.0 2 1 3 1 1 0 1 2 -4
+p367
+aVWesley Person POR 02/04/2004 POR @ PHX W 20 12 3 7 42.9 2 3 66.7 4 6 66.7 1 4 5 3 0 0 0 0 -3
+p368
+aVDarius Miles POR 02/04/2004 POR @ PHX W 30 15 6 11 54.5 0 0 - 3 4 75.0 0 3 3 0 1 0 4 5 6
+p369
+aVOmar Cook POR 02/04/2004 POR @ PHX W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 1 0 0 3 1
+p370
+aVVladimir Stepania POR 02/04/2004 POR @ PHX W 15 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 1 0 0 4 -5
+p371
+aVZach Randolph POR 02/02/2004 POR @ DEN L 39 28 9 18 50.0 0 0 - 10 17 58.8 5 6 11 3 1 0 5 5 -23
+p372
+aVVladimir Stepania POR 02/02/2004 POR @ DEN L 4 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p373
+aVWesley Person POR 02/02/2004 POR @ DEN L 21 5 2 7 28.6 1 2 50.0 0 0 - 1 5 6 1 0 1 0 0 -1
+p374
+aVDamon Stoudamire POR 02/02/2004 POR @ DEN L 32 13 6 12 50.0 1 3 33.3 0 0 - 0 2 2 5 0 0 2 6 -20
+p375
+aVRuben Patterson POR 02/02/2004 POR @ DEN L 27 9 4 5 80.0 0 0 - 1 4 25.0 3 3 6 0 0 0 2 3 -11
+p376
+aVDerek Anderson POR 02/02/2004 POR @ DEN L 27 5 1 3 33.3 1 2 50.0 2 2 100.0 1 1 2 4 0 0 3 3 -14
+p377
+aVDale Davis POR 02/02/2004 POR @ DEN L 19 1 0 3 0.0 0 0 - 1 2 50.0 4 4 8 2 0 0 2 3 -5
+p378
+aVQyntel Woods POR 02/02/2004 POR @ DEN L 13 2 1 7 14.3 0 0 - 0 0 - 0 2 2 1 1 1 0 4 2
+p379
+aVTravis Outlaw POR 02/02/2004 POR @ DEN L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p380
+aVRasheed Wallace POR 02/02/2004 POR @ DEN L 34 12 5 10 50.0 0 1 0.0 2 2 100.0 0 4 4 1 2 1 4 1 -9
+p381
+aVDarius Miles POR 02/02/2004 POR @ DEN L 22 20 8 14 57.1 0 0 - 4 4 100.0 3 4 7 2 1 1 6 2 -8
+p382
+aVVladimir Stepania POR 01/31/2004 POR vs. CHI W 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 3
+p383
+aVDale Davis POR 01/31/2004 POR vs. CHI W 19 4 1 3 33.3 0 0 - 2 4 50.0 2 3 5 0 0 0 1 2 -10
+p384
+aVRuben Patterson POR 01/31/2004 POR vs. CHI W 33 14 5 8 62.5 0 0 - 4 5 80.0 2 1 3 4 1 0 4 4 6
+p385
+aVZach Randolph POR 01/31/2004 POR vs. CHI W 40 20 9 14 64.3 0 0 - 2 3 66.7 1 8 9 2 0 1 2 4 6
+p386
+aVWesley Person POR 01/31/2004 POR vs. CHI W 14 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 1 -1
+p387
+aVRasheed Wallace POR 01/31/2004 POR vs. CHI W 37 29 13 18 72.2 3 5 60.0 0 0 - 0 7 7 0 2 2 1 5 13
+p388
+aVDarius Miles POR 01/31/2004 POR vs. CHI W 23 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 2 0 1 2 2 7
+p389
+aVQyntel Woods POR 01/31/2004 POR vs. CHI W 4 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 0 0 -6
+p390
+aVDerek Anderson POR 01/31/2004 POR vs. CHI W 40 12 3 17 17.6 0 6 0.0 6 6 100.0 0 3 3 6 1 0 0 1 10
+p391
+aVDamon Stoudamire POR 01/31/2004 POR vs. CHI W 47 12 4 11 36.4 1 5 20.0 3 3 100.0 0 7 7 14 1 1 2 3 7
+p392
+aVRuben Patterson POR 01/29/2004 POR @ ATL W 20 8 4 7 57.1 0 0 - 0 0 - 4 1 5 1 1 0 3 2 -7
+p393
+aVDamon Stoudamire POR 01/29/2004 POR @ ATL W 39 8 3 9 33.3 0 2 0.0 2 3 66.7 1 5 6 13 2 0 2 0 20
+p394
+aVWesley Person POR 01/29/2004 POR @ ATL W 13 1 0 4 0.0 0 3 0.0 1 2 50.0 0 0 0 1 1 0 2 0 -3
+p395
+aVDerek Anderson POR 01/29/2004 POR @ ATL W 36 15 5 10 50.0 3 8 37.5 2 2 100.0 1 3 4 1 1 0 0 1 11
+p396
+aVDarius Miles POR 01/29/2004 POR @ ATL W 27 16 7 11 63.6 1 2 50.0 1 2 50.0 1 1 2 0 1 0 2 2 14
+p397
+aVZach Randolph POR 01/29/2004 POR @ ATL W 43 22 7 18 38.9 0 0 - 8 10 80.0 3 9 12 1 1 0 1 1 12
+p398
+aVDale Davis POR 01/29/2004 POR @ ATL W 16 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 1 0 1 2 -9
+p399
+aVRasheed Wallace POR 01/29/2004 POR @ ATL W 37 20 9 18 50.0 2 7 28.6 0 0 - 2 4 6 1 1 0 3 5 13
+p400
+aVQyntel Woods POR 01/29/2004 POR @ ATL W 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -11
+p401
+aVWesley Person POR 01/28/2004 POR @ MEM W 14 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 0 0 2 0 7
+p402
+aVRasheed Wallace POR 01/28/2004 POR @ MEM W 35 16 6 12 50.0 2 4 50.0 2 4 50.0 2 8 10 1 2 2 0 2 7
+p403
+aVDale Davis POR 01/28/2004 POR @ MEM W 29 0 0 1 0.0 0 0 - 0 0 - 1 7 8 0 0 1 0 4 16
+p404
+aVQyntel Woods POR 01/28/2004 POR @ MEM W 17 8 3 10 30.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 0 2 3
+p405
+aVDarius Miles POR 01/28/2004 POR @ MEM W 22 6 2 9 22.2 0 0 - 2 2 100.0 3 3 6 4 0 2 2 1 5
+p406
+aVTravis Outlaw POR 01/28/2004 POR @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p407
+aVRuben Patterson POR 01/28/2004 POR @ MEM W 26 12 4 9 44.4 0 0 - 4 4 100.0 2 5 7 3 3 0 3 5 14
+p408
+aVZach Randolph POR 01/28/2004 POR @ MEM W 24 21 9 11 81.8 0 0 - 3 4 75.0 1 8 9 2 0 0 3 4 -2
+p409
+aVDamon Stoudamire POR 01/28/2004 POR @ MEM W 31 10 3 11 27.3 2 4 50.0 2 2 100.0 1 3 4 5 2 0 2 2 9
+p410
+aVDerek Anderson POR 01/28/2004 POR @ MEM W 34 12 4 12 33.3 2 3 66.7 2 2 100.0 3 1 4 5 1 0 2 1 5
+p411
+aVVladimir Stepania POR 01/28/2004 POR @ MEM W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 0
+p412
+aVWesley Person POR 01/26/2004 POR @ WAS W 18 12 5 6 83.3 2 3 66.7 0 0 - 0 1 1 1 0 0 3 2 -2
+p413
+aVRuben Patterson POR 01/26/2004 POR @ WAS W 27 4 2 3 66.7 0 0 - 0 1 0.0 1 1 2 5 2 0 1 1 3
+p414
+aVZach Randolph POR 01/26/2004 POR @ WAS W 38 16 8 15 53.3 0 0 - 0 0 - 0 9 9 4 1 0 2 3 17
+p415
+aVDarius Miles POR 01/26/2004 POR @ WAS W 21 10 4 6 66.7 0 0 - 2 4 50.0 1 4 5 2 1 0 1 0 8
+p416
+aVDale Davis POR 01/26/2004 POR @ WAS W 26 4 2 3 66.7 0 0 - 0 2 0.0 1 4 5 1 1 0 1 3 -6
+p417
+aVQyntel Woods POR 01/26/2004 POR @ WAS W 4 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 0 3
+p418
+aVDerek Anderson POR 01/26/2004 POR @ WAS W 30 10 2 10 20.0 2 6 33.3 4 4 100.0 0 4 4 4 1 0 0 3 13
+p419
+aVDamon Stoudamire POR 01/26/2004 POR @ WAS W 44 18 6 12 50.0 6 8 75.0 0 0 - 0 1 1 11 2 1 3 1 8
+p420
+aVRasheed Wallace POR 01/26/2004 POR @ WAS W 32 16 7 15 46.7 1 4 25.0 1 2 50.0 0 4 4 1 0 2 4 4 11
+p421
+aVRuben Patterson POR 01/24/2004 POR vs. GSW L 28 9 3 6 50.0 0 0 - 3 4 75.0 1 3 4 2 1 0 3 2 -14
+p422
+aVDerek Anderson POR 01/24/2004 POR vs. GSW L 27 11 4 10 40.0 3 7 42.9 0 0 - 1 3 4 3 1 0 4 3 -13
+p423
+aVVladimir Stepania POR 01/24/2004 POR vs. GSW L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p424
+aVTravis Outlaw POR 01/24/2004 POR vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p425
+aVDale Davis POR 01/24/2004 POR vs. GSW L 20 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p426
+aVZach Randolph POR 01/24/2004 POR vs. GSW L 37 23 11 21 52.4 0 0 - 1 2 50.0 1 6 7 1 3 0 1 1 -19
+p427
+aVDarius Miles POR 01/24/2004 POR vs. GSW L 20 12 6 10 60.0 0 0 - 0 3 0.0 1 2 3 4 1 1 2 3 -2
+p428
+aVWesley Person POR 01/24/2004 POR vs. GSW L 19 11 4 5 80.0 2 2 100.0 1 1 100.0 0 0 0 1 0 0 0 1 -4
+p429
+aVRasheed Wallace POR 01/24/2004 POR vs. GSW L 36 13 6 16 37.5 1 2 50.0 0 0 - 5 4 9 3 1 1 1 3 -14
+p430
+aVDamon Stoudamire POR 01/24/2004 POR vs. GSW L 38 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 7 1 0 2 4 -11
+p431
+aVQyntel Woods POR 01/24/2004 POR vs. GSW L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 1 1 3 2 -7
+p432
+aVDale Davis POR 01/20/2004 POR @ SAC W 30 0 0 3 0.0 0 0 - 0 2 0.0 2 8 10 2 0 2 0 4 10
+p433
+aVZach Randolph POR 01/20/2004 POR @ SAC W 33 16 8 18 44.4 0 0 - 0 2 0.0 6 5 11 0 0 0 4 3 -1
+p434
+aVQyntel Woods POR 01/20/2004 POR @ SAC W 16 5 2 5 40.0 0 0 - 1 3 33.3 0 2 2 1 2 0 1 4 3
+p435
+aVDamon Stoudamire POR 01/20/2004 POR @ SAC W 28 9 4 8 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 3 1
+p436
+aVDerek Anderson POR 01/20/2004 POR @ SAC W 40 29 9 18 50.0 2 6 33.3 9 13 69.2 2 4 6 3 2 1 2 1 -2
+p437
+aVWesley Person POR 01/20/2004 POR @ SAC W 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 6
+p438
+aVRuben Patterson POR 01/20/2004 POR @ SAC W 34 9 3 7 42.9 0 0 - 3 8 37.5 4 4 8 4 2 0 2 5 0
+p439
+aVRasheed Wallace POR 01/20/2004 POR @ SAC W 33 26 9 15 60.0 0 2 0.0 8 9 88.9 1 14 15 2 0 3 2 6 2
+p440
+aVVladimir Stepania POR 01/20/2004 POR @ SAC W 9 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 0 7
+p441
+aVJeff McInnis POR 01/20/2004 POR @ SAC W 26 9 4 8 50.0 1 1 100.0 0 0 - 0 2 2 4 1 0 3 6 -1
+p442
+aVZach Randolph POR 01/18/2004 POR @ PHX L 42 25 8 20 40.0 0 0 - 9 9 100.0 4 7 11 1 3 2 6 2 -1
+p443
+aVDale Davis POR 01/18/2004 POR @ PHX L 26 9 4 7 57.1 0 0 - 1 3 33.3 2 2 4 4 0 0 1 3 -6
+p444
+aVRasheed Wallace POR 01/18/2004 POR @ PHX L 37 19 6 17 35.3 4 5 80.0 3 3 100.0 3 4 7 2 2 2 2 3 -10
+p445
+aVRuben Patterson POR 01/18/2004 POR @ PHX L 26 8 4 7 57.1 0 0 - 0 2 0.0 0 4 4 3 3 1 3 4 -2
+p446
+aVQyntel Woods POR 01/18/2004 POR @ PHX L 11 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -2
+p447
+aVDamon Stoudamire POR 01/18/2004 POR @ PHX L 37 10 3 9 33.3 1 4 25.0 3 4 75.0 0 3 3 3 4 0 2 2 -2
+p448
+aVDerek Anderson POR 01/18/2004 POR @ PHX L 24 5 2 7 28.6 1 5 20.0 0 0 - 0 2 2 1 0 0 4 0 -4
+p449
+aVVladimir Stepania POR 01/18/2004 POR @ PHX L 12 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 1 1 0 0 7
+p450
+aVWesley Person POR 01/18/2004 POR @ PHX L 25 6 2 6 33.3 1 3 33.3 1 2 50.0 0 0 0 2 1 0 2 2 0
+p451
+aVVladimir Stepania POR 01/17/2004 POR vs. DAL L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p452
+aVQyntel Woods POR 01/17/2004 POR vs. DAL L 5 5 2 3 66.7 1 1 100.0 0 0 - 2 0 2 0 0 0 0 0 7
+p453
+aVRasheed Wallace POR 01/17/2004 POR vs. DAL L 37 24 8 20 40.0 0 3 0.0 8 11 72.7 1 3 4 5 1 3 5 5 -9
+p454
+aVDamon Stoudamire POR 01/17/2004 POR vs. DAL L 27 11 3 6 50.0 3 5 60.0 2 2 100.0 1 0 1 4 0 0 2 3 -16
+p455
+aVJeff McInnis POR 01/17/2004 POR vs. DAL L 18 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 0 1 3 9
+p456
+aVDale Davis POR 01/17/2004 POR vs. DAL L 23 4 1 1 100.0 0 0 - 2 3 66.7 0 0 0 0 0 1 0 2 -8
+p457
+aVRuben Patterson POR 01/17/2004 POR vs. DAL L 33 24 11 16 68.8 0 0 - 2 2 100.0 5 5 10 3 2 0 3 3 0
+p458
+aVZach Randolph POR 01/17/2004 POR vs. DAL L 37 18 5 9 55.6 0 1 0.0 8 9 88.9 0 10 10 4 1 0 6 3 3
+p459
+aVDerek Anderson POR 01/17/2004 POR vs. DAL L 28 2 1 7 14.3 0 3 0.0 0 0 - 0 4 4 3 0 0 1 3 -5
+p460
+aVWesley Person POR 01/17/2004 POR vs. DAL L 22 12 4 5 80.0 1 1 100.0 3 4 75.0 0 2 2 2 0 2 0 1 3
+p461
+aVQyntel Woods POR 01/15/2004 POR vs. PHX L 16 4 2 9 22.2 0 1 0.0 0 0 - 1 1 2 1 1 1 2 0 -14
+p462
+aVRuben Patterson POR 01/15/2004 POR vs. PHX L 31 21 9 12 75.0 0 0 - 3 6 50.0 2 2 4 2 3 1 1 2 6
+p463
+aVDale Davis POR 01/15/2004 POR vs. PHX L 31 7 2 5 40.0 0 0 - 3 4 75.0 1 7 8 1 0 0 3 2 -18
+p464
+aVWesley Person POR 01/15/2004 POR vs. PHX L 18 8 3 5 60.0 2 4 50.0 0 0 - 1 2 3 0 1 0 0 0 10
+p465
+aVVladimir Stepania POR 01/15/2004 POR vs. PHX L 11 4 2 3 66.7 0 0 - 0 2 0.0 4 3 7 2 0 0 0 0 7
+p466
+aVJeff McInnis POR 01/15/2004 POR vs. PHX L 24 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 4 1 0 1 1 11
+p467
+aVDamon Stoudamire POR 01/15/2004 POR vs. PHX L 32 11 3 7 42.9 2 4 50.0 3 4 75.0 0 3 3 2 1 0 0 2 -21
+p468
+aVDerek Anderson POR 01/15/2004 POR vs. PHX L 37 14 3 7 42.9 2 4 50.0 6 9 66.7 0 1 1 8 1 0 3 3 -15
+p469
+aVZach Randolph POR 01/15/2004 POR vs. PHX L 40 21 10 22 45.5 0 0 - 1 2 50.0 7 5 12 2 0 1 7 4 -11
+p470
+aVJeff McInnis POR 01/13/2004 POR @ LAC L 27 11 5 10 50.0 0 0 - 1 2 50.0 1 1 2 1 0 0 2 0 -5
+p471
+aVWesley Person POR 01/13/2004 POR @ LAC L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p472
+aVVladimir Stepania POR 01/13/2004 POR @ LAC L 19 8 2 4 50.0 0 0 - 4 6 66.7 3 3 6 0 1 2 1 4 -2
+p473
+aVDale Davis POR 01/13/2004 POR @ LAC L 45 6 1 7 14.3 0 0 - 4 4 100.0 4 10 14 3 1 2 0 6 -1
+p474
+aVRuben Patterson POR 01/13/2004 POR @ LAC L 39 11 5 7 71.4 0 0 - 1 4 25.0 1 5 6 4 0 1 5 2 2
+p475
+aVZach Randolph POR 01/13/2004 POR @ LAC L 41 12 6 19 31.6 0 0 - 0 0 - 3 10 13 3 0 1 3 2 -10
+p476
+aVDamon Stoudamire POR 01/13/2004 POR @ LAC L 42 24 9 17 52.9 3 7 42.9 3 3 100.0 0 0 0 4 1 0 2 5 -13
+p477
+aVDerek Anderson POR 01/13/2004 POR @ LAC L 35 22 8 16 50.0 4 8 50.0 2 2 100.0 1 3 4 4 0 0 3 4 6
+p478
+aVQyntel Woods POR 01/13/2004 POR @ LAC L 12 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -11
+p479
+aVQyntel Woods POR 01/11/2004 POR @ TOR L 25 9 4 9 44.4 1 1 100.0 0 0 - 3 5 8 1 0 0 1 3 2
+p480
+aVDerek Anderson POR 01/11/2004 POR @ TOR L 17 2 0 10 0.0 0 2 0.0 2 2 100.0 0 2 2 0 2 0 0 0 -14
+p481
+aVWesley Person POR 01/11/2004 POR @ TOR L 8 2 1 2 50.0 0 1 0.0 0 1 0.0 0 0 0 0 0 0 0 0 -6
+p482
+aVDamon Stoudamire POR 01/11/2004 POR @ TOR L 38 11 4 15 26.7 1 8 12.5 2 3 66.7 3 2 5 5 0 0 0 0 2
+p483
+aVZach Randolph POR 01/11/2004 POR @ TOR L 39 10 5 17 29.4 0 0 - 0 2 0.0 2 4 6 2 1 0 4 0 -8
+p484
+aVDale Davis POR 01/11/2004 POR @ TOR L 44 15 5 10 50.0 0 0 - 5 8 62.5 10 3 13 2 0 3 0 2 -5
+p485
+aVVladimir Stepania POR 01/11/2004 POR @ TOR L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p486
+aVJeff McInnis POR 01/11/2004 POR @ TOR L 38 20 6 13 46.2 1 2 50.0 7 8 87.5 0 4 4 4 0 0 1 2 -8
+p487
+aVRuben Patterson POR 01/11/2004 POR @ TOR L 18 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 5 -9
+p488
+aVDale Davis POR 01/09/2004 POR @ CHI W 29 8 2 6 33.3 0 0 - 4 4 100.0 4 6 10 6 1 5 1 5 13
+p489
+aVJeff McInnis POR 01/09/2004 POR @ CHI W 38 15 6 11 54.5 1 2 50.0 2 2 100.0 0 1 1 1 0 0 3 2 2
+p490
+aVZach Randolph POR 01/09/2004 POR @ CHI W 31 7 3 12 25.0 0 0 - 1 2 50.0 3 3 6 0 0 2 6 3 -4
+p491
+aVVladimir Stepania POR 01/09/2004 POR @ CHI W 33 9 4 7 57.1 0 0 - 1 3 33.3 0 12 12 2 2 2 3 4 12
+p492
+aVDamon Stoudamire POR 01/09/2004 POR @ CHI W 40 12 5 12 41.7 0 1 0.0 2 2 100.0 0 5 5 4 0 0 4 1 -1
+p493
+aVRuben Patterson POR 01/09/2004 POR @ CHI W 34 8 3 7 42.9 0 0 - 2 4 50.0 4 6 10 4 1 1 2 2 10
+p494
+aVQyntel Woods POR 01/09/2004 POR @ CHI W 15 9 4 5 80.0 0 1 0.0 1 1 100.0 1 3 4 0 0 1 0 4 -1
+p495
+aVWesley Person POR 01/09/2004 POR @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p496
+aVDerek Anderson POR 01/09/2004 POR @ CHI W 17 19 4 10 40.0 1 4 25.0 10 13 76.9 0 1 1 4 1 0 1 2 13
+p497
+aVWesley Person POR 01/08/2004 POR @ MIN L 19 0 0 3 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 0 -1
+p498
+aVJeff McInnis POR 01/08/2004 POR @ MIN L 44 15 6 12 50.0 1 2 50.0 2 2 100.0 1 2 3 3 1 0 0 1 -14
+p499
+aVQyntel Woods POR 01/08/2004 POR @ MIN L 21 10 3 7 42.9 0 1 0.0 4 7 57.1 3 5 8 0 0 1 7 3 -14
+p500
+aVDerek Anderson POR 01/08/2004 POR @ MIN L 22 5 2 10 20.0 1 4 25.0 0 0 - 2 2 4 4 0 0 1 0 -6
+p501
+aVZach Randolph POR 01/08/2004 POR @ MIN L 36 19 9 19 47.4 0 0 - 1 2 50.0 1 6 7 0 0 2 4 2 -15
+p502
+aVSlavko Vranes POR 01/08/2004 POR @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p503
+aVRasheed Wallace POR 01/08/2004 POR @ MIN L 26 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 -15
+p504
+aVVladimir Stepania POR 01/08/2004 POR @ MIN L 22 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 1 0 1 3 -8
+p505
+aVRuben Patterson POR 01/08/2004 POR @ MIN L 17 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 2 -11
+p506
+aVDamon Stoudamire POR 01/08/2004 POR @ MIN L 30 6 3 9 33.3 0 1 0.0 0 0 - 0 4 4 5 1 0 2 2 -22
+p507
+aVJeff McInnis POR 01/05/2004 POR @ SEA L 31 12 5 7 71.4 0 0 - 2 4 50.0 1 1 2 7 0 0 1 4 4
+p508
+aVDamon Stoudamire POR 01/05/2004 POR @ SEA L 48 22 9 20 45.0 4 9 44.4 0 0 - 2 3 5 6 4 0 3 1 -18
+p509
+aVWesley Person POR 01/05/2004 POR @ SEA L 35 14 6 10 60.0 2 4 50.0 0 0 - 3 7 10 0 1 0 2 1 -21
+p510
+aVRuben Patterson POR 01/05/2004 POR @ SEA L 18 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 2 0 3 4 -6
+p511
+aVQyntel Woods POR 01/05/2004 POR @ SEA L 10 0 0 3 0.0 0 0 - 0 0 - 3 2 5 2 0 0 0 1 -7
+p512
+aVRasheed Wallace POR 01/05/2004 POR @ SEA L 45 13 5 15 33.3 0 3 0.0 3 5 60.0 2 1 3 0 1 1 0 1 -16
+p513
+aVZach Randolph POR 01/05/2004 POR @ SEA L 46 28 11 19 57.9 0 0 - 6 7 85.7 2 10 12 5 0 0 5 4 -5
+p514
+aVDale Davis POR 01/05/2004 POR @ SEA L 32 15 7 12 58.3 0 0 - 1 2 50.0 4 5 9 3 1 0 0 1 14
+p515
+aVZach Randolph POR 01/02/2004 POR vs. DEN L 40 19 6 17 35.3 0 0 - 7 8 87.5 3 11 14 2 1 1 2 0 -5
+p516
+aVMatt Carroll POR 01/02/2004 POR vs. DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p517
+aVWesley Person POR 01/02/2004 POR vs. DEN L 25 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 2 1 0 0 2 -20
+p518
+aVRuben Patterson POR 01/02/2004 POR vs. DEN L 15 2 1 1 100.0 0 0 - 0 4 0.0 0 0 0 1 1 1 0 0 -3
+p519
+aVVladimir Stepania POR 01/02/2004 POR vs. DEN L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 0
+p520
+aVDale Davis POR 01/02/2004 POR vs. DEN L 21 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 6
+p521
+aVDamon Stoudamire POR 01/02/2004 POR vs. DEN L 38 9 3 7 42.9 2 2 100.0 1 1 100.0 1 4 5 9 1 2 5 4 -4
+p522
+aVRasheed Wallace POR 01/02/2004 POR vs. DEN L 41 30 12 20 60.0 4 5 80.0 2 4 50.0 2 5 7 4 0 1 4 2 -2
+p523
+aVQyntel Woods POR 01/02/2004 POR vs. DEN L 17 12 4 7 57.1 0 0 - 4 7 57.1 0 4 4 0 0 1 2 4 -20
+p524
+aVJeff McInnis POR 01/02/2004 POR vs. DEN L 38 12 5 11 45.5 0 2 0.0 2 4 50.0 0 1 1 9 0 0 1 5 -2
+p525
+aVTravis Outlaw POR 01/02/2004 POR vs. DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p526
+aVDamon Stoudamire POR 12/31/2003 POR @ DET L 36 6 1 6 16.7 1 3 33.3 3 3 100.0 0 4 4 4 2 1 1 3 -3
+p527
+aVDale Davis POR 12/31/2003 POR @ DET L 30 7 2 3 66.7 0 0 - 3 4 75.0 2 3 5 0 0 3 3 0 -11
+p528
+aVJeff McInnis POR 12/31/2003 POR @ DET L 37 13 6 12 50.0 0 2 0.0 1 2 50.0 0 0 0 7 1 0 2 2 -10
+p529
+aVZach Randolph POR 12/31/2003 POR @ DET L 42 16 8 24 33.3 0 0 - 0 0 - 4 10 14 2 0 0 2 1 -7
+p530
+aVQyntel Woods POR 12/31/2003 POR @ DET L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -4
+p531
+aVWesley Person POR 12/31/2003 POR @ DET L 25 7 3 4 75.0 0 0 - 1 1 100.0 0 4 4 2 0 2 0 1 0
+p532
+aVRasheed Wallace POR 12/31/2003 POR @ DET L 40 17 7 16 43.8 2 5 40.0 1 2 50.0 1 4 5 2 1 0 0 3 0
+p533
+aVVladimir Stepania POR 12/31/2003 POR @ DET L 5 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 1
+p534
+aVRuben Patterson POR 12/31/2003 POR @ DET L 21 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 1 1 0 1 1 -1
+p535
+aVRuben Patterson POR 12/29/2003 POR @ NJN W 28 12 6 8 75.0 0 0 - 0 1 0.0 3 3 6 1 1 1 2 3 2
+p536
+aVJeff McInnis POR 12/29/2003 POR @ NJN W 34 13 6 11 54.5 1 2 50.0 0 0 - 1 3 4 8 0 0 1 1 -2
+p537
+aVZach Randolph POR 12/29/2003 POR @ NJN W 46 14 4 12 33.3 0 0 - 6 6 100.0 2 11 13 5 1 0 4 2 8
+p538
+aVWesley Person POR 12/29/2003 POR @ NJN W 27 8 3 6 50.0 2 4 50.0 0 0 - 1 3 4 3 0 0 1 1 9
+p539
+aVDamon Stoudamire POR 12/29/2003 POR @ NJN W 36 6 2 11 18.2 0 4 0.0 2 2 100.0 0 3 3 4 1 0 1 3 0
+p540
+aVRasheed Wallace POR 12/29/2003 POR @ NJN W 31 16 7 14 50.0 0 3 0.0 2 2 100.0 1 3 4 0 0 1 2 4 -5
+p541
+aVQyntel Woods POR 12/29/2003 POR @ NJN W 22 12 6 9 66.7 0 0 - 0 0 - 2 5 7 2 0 2 2 4 7
+p542
+aVKaniel Dickens POR 12/29/2003 POR @ NJN W 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -5
+p543
+aVVladimir Stepania POR 12/29/2003 POR @ NJN W 11 6 3 3 100.0 0 0 - 0 0 - 1 1 2 1 1 0 0 2 6
+p544
+aVQyntel Woods POR 12/28/2003 POR @ CLE L 12 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 2 1 0 0 3 0
+p545
+aVDale Davis POR 12/28/2003 POR @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p546
+aVJeff McInnis POR 12/28/2003 POR @ CLE L 39 14 6 13 46.2 2 3 66.7 0 0 - 0 3 3 4 2 0 1 3 -6
+p547
+aVRasheed Wallace POR 12/28/2003 POR @ CLE L 38 17 5 19 26.3 3 10 30.0 4 4 100.0 0 9 9 2 1 2 0 1 -11
+p548
+aVDamon Stoudamire POR 12/28/2003 POR @ CLE L 40 5 2 6 33.3 0 3 0.0 1 1 100.0 0 3 3 4 1 1 5 3 -15
+p549
+aVWesley Person POR 12/28/2003 POR @ CLE L 20 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 1 1 1 -7
+p550
+aVRuben Patterson POR 12/28/2003 POR @ CLE L 23 4 1 7 14.3 0 0 - 2 6 33.3 5 1 6 3 0 0 1 0 -11
+p551
+aVZach Randolph POR 12/28/2003 POR @ CLE L 41 20 9 23 39.1 0 0 - 2 2 100.0 4 5 9 2 1 1 4 1 -8
+p552
+aVVladimir Stepania POR 12/28/2003 POR @ CLE L 23 7 2 6 33.3 0 0 - 3 4 75.0 3 2 5 0 2 0 0 2 2
+p553
+aVRasheed Wallace POR 12/26/2003 POR vs. MIN W 36 14 4 12 33.3 0 1 0.0 6 6 100.0 4 5 9 2 0 2 2 2 10
+p554
+aVRuben Patterson POR 12/26/2003 POR vs. MIN W 25 6 1 4 25.0 0 0 - 4 6 66.7 1 2 3 5 1 1 1 1 5
+p555
+aVDale Davis POR 12/26/2003 POR vs. MIN W 28 10 4 5 80.0 0 0 - 2 2 100.0 2 1 3 0 1 0 0 3 1
+p556
+aVJeff McInnis POR 12/26/2003 POR vs. MIN W 42 21 9 12 75.0 0 1 0.0 3 4 75.0 1 2 3 8 2 0 2 3 5
+p557
+aVWesley Person POR 12/26/2003 POR vs. MIN W 26 20 8 12 66.7 2 3 66.7 2 2 100.0 1 5 6 1 1 0 1 1 21
+p558
+aVVladimir Stepania POR 12/26/2003 POR vs. MIN W 16 3 0 4 0.0 0 0 - 3 6 50.0 3 4 7 0 0 0 0 1 13
+p559
+aVDamon Stoudamire POR 12/26/2003 POR vs. MIN W 28 9 3 8 37.5 1 4 25.0 2 2 100.0 1 1 2 4 1 0 2 1 -6
+p560
+aVQyntel Woods POR 12/26/2003 POR vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p561
+aVZach Randolph POR 12/26/2003 POR vs. MIN W 38 18 8 20 40.0 0 0 - 2 4 50.0 4 8 12 0 0 0 3 3 -4
+p562
+aVDamon Stoudamire POR 12/23/2003 POR vs. DAL W 40 16 6 17 35.3 2 5 40.0 2 2 100.0 1 2 3 7 1 0 0 3 9
+p563
+aVWesley Person POR 12/23/2003 POR vs. DAL W 15 10 4 8 50.0 2 5 40.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p564
+aVJeff McInnis POR 12/23/2003 POR vs. DAL W 41 14 7 12 58.3 0 1 0.0 0 0 - 0 3 3 10 3 1 1 4 10
+p565
+aVRasheed Wallace POR 12/23/2003 POR vs. DAL W 21 7 3 9 33.3 0 3 0.0 1 2 50.0 1 4 5 3 0 0 1 5 6
+p566
+aVRuben Patterson POR 12/23/2003 POR vs. DAL W 40 12 4 7 57.1 0 0 - 4 7 57.1 3 3 6 2 3 0 2 2 4
+p567
+aVDale Davis POR 12/23/2003 POR vs. DAL W 21 1 0 1 0.0 0 0 - 1 2 50.0 1 5 6 0 1 1 1 2 8
+p568
+aVZach Randolph POR 12/23/2003 POR vs. DAL W 37 27 12 17 70.6 0 0 - 3 6 50.0 3 6 9 5 2 1 2 3 6
+p569
+aVKaniel Dickens POR 12/23/2003 POR vs. DAL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p570
+aVQyntel Woods POR 12/23/2003 POR vs. DAL W 19 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 2 0 0 4 2 4
+p571
+aVMatt Carroll POR 12/21/2003 POR @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p572
+aVVladimir Stepania POR 12/21/2003 POR @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 1
+p573
+aVRuben Patterson POR 12/21/2003 POR @ SAC L 30 10 4 6 66.7 0 0 - 2 3 66.7 2 4 6 2 3 0 0 4 -8
+p574
+aVWesley Person POR 12/21/2003 POR @ SAC L 24 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -9
+p575
+aVDamon Stoudamire POR 12/21/2003 POR @ SAC L 40 11 5 12 41.7 0 4 0.0 1 1 100.0 1 3 4 6 1 0 3 3 -10
+p576
+aVRasheed Wallace POR 12/21/2003 POR @ SAC L 39 27 12 18 66.7 0 1 0.0 3 4 75.0 2 2 4 2 0 2 2 2 -14
+p577
+aVJeff McInnis POR 12/21/2003 POR @ SAC L 34 16 7 12 58.3 2 3 66.7 0 0 - 1 3 4 7 2 0 3 4 -18
+p578
+aVZach Randolph POR 12/21/2003 POR @ SAC L 44 26 10 27 37.0 0 0 - 6 6 100.0 4 9 13 3 0 1 4 4 -18
+p579
+aVDale Davis POR 12/21/2003 POR @ SAC L 24 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -10
+p580
+aVZach Randolph POR 12/20/2003 POR vs. SAS L 41 29 11 18 61.1 0 0 - 7 10 70.0 2 5 7 2 1 0 2 2 -6
+p581
+aVWesley Person POR 12/20/2003 POR vs. SAS L 20 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -15
+p582
+aVVladimir Stepania POR 12/20/2003 POR vs. SAS L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 0 7
+p583
+aVJeff McInnis POR 12/20/2003 POR vs. SAS L 39 20 8 11 72.7 0 0 - 4 4 100.0 1 5 6 5 2 0 1 5 -3
+p584
+aVRuben Boumtje-Boumtje POR 12/20/2003 POR vs. SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p585
+aVRasheed Wallace POR 12/20/2003 POR vs. SAS L 38 18 8 20 40.0 0 4 0.0 2 2 100.0 1 5 6 3 0 2 3 4 -13
+p586
+aVQyntel Woods POR 12/20/2003 POR vs. SAS L 14 0 0 5 0.0 0 0 - 0 0 - 4 2 6 2 0 0 0 0 5
+p587
+aVKaniel Dickens POR 12/20/2003 POR vs. SAS L 1 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 3
+p588
+aVMatt Carroll POR 12/20/2003 POR vs. SAS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 7
+p589
+aVRuben Patterson POR 12/20/2003 POR vs. SAS L 20 6 3 6 50.0 0 0 - 0 0 - 3 2 5 1 0 0 1 2 -15
+p590
+aVDale Davis POR 12/20/2003 POR vs. SAS L 23 4 1 3 33.3 0 0 - 2 4 50.0 2 4 6 2 0 1 0 2 -7
+p591
+aVDamon Stoudamire POR 12/20/2003 POR vs. SAS L 34 8 3 13 23.1 1 5 20.0 1 1 100.0 0 1 1 4 2 0 0 1 -9
+p592
+aVWesley Person POR 12/18/2003 POR vs. PHX W 21 9 2 4 50.0 1 3 33.3 4 4 100.0 0 3 3 3 0 0 0 1 2
+p593
+aVRuben Boumtje-Boumtje POR 12/18/2003 POR vs. PHX W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p594
+aVRuben Patterson POR 12/18/2003 POR vs. PHX W 24 14 5 5 100.0 0 0 - 4 4 100.0 1 3 4 3 2 1 2 2 10
+p595
+aVZach Randolph POR 12/18/2003 POR vs. PHX W 40 29 10 23 43.5 0 0 - 9 10 90.0 7 13 20 3 2 0 5 4 4
+p596
+aVRasheed Wallace POR 12/18/2003 POR vs. PHX W 45 15 7 14 50.0 0 3 0.0 1 2 50.0 1 6 7 8 0 3 2 1 12
+p597
+aVDamon Stoudamire POR 12/18/2003 POR vs. PHX W 38 15 6 13 46.2 2 6 33.3 1 1 100.0 0 4 4 2 0 0 4 5 2
+p598
+aVDale Davis POR 12/18/2003 POR vs. PHX W 28 10 5 7 71.4 0 0 - 0 0 - 2 5 7 1 0 1 0 1 -2
+p599
+aVJeff McInnis POR 12/18/2003 POR vs. PHX W 38 9 3 10 30.0 0 0 - 3 4 75.0 0 2 2 4 0 0 1 1 12
+p600
+aVDale Davis POR 12/16/2003 POR vs. MIL L 22 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 0 0 2 4 -3
+p601
+aVZach Randolph POR 12/16/2003 POR vs. MIL L 41 30 13 22 59.1 0 1 0.0 4 5 80.0 3 15 18 4 0 1 1 4 -7
+p602
+aVVladimir Stepania POR 12/16/2003 POR vs. MIL L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p603
+aVDamon Stoudamire POR 12/16/2003 POR vs. MIL L 41 21 9 17 52.9 2 6 33.3 1 1 100.0 0 3 3 10 2 0 1 1 -7
+p604
+aVWesley Person POR 12/16/2003 POR vs. MIL L 27 12 5 9 55.6 2 3 66.7 0 0 - 0 2 2 4 1 0 0 2 4
+p605
+aVRasheed Wallace POR 12/16/2003 POR vs. MIL L 43 15 7 13 53.8 0 2 0.0 1 4 25.0 2 3 5 2 1 1 3 4 -8
+p606
+aVRuben Patterson POR 12/16/2003 POR vs. MIL L 24 7 2 4 50.0 0 0 - 3 4 75.0 3 0 3 4 2 0 3 2 0
+p607
+aVJeff McInnis POR 12/16/2003 POR vs. MIL L 32 8 4 12 33.3 0 1 0.0 0 0 - 1 3 4 5 2 0 2 1 -7
+p608
+aVZach Randolph POR 12/13/2003 POR vs. LAL W 36 24 10 21 47.6 0 0 - 4 7 57.1 4 7 11 5 0 0 3 4 0
+p609
+aVRuben Patterson POR 12/13/2003 POR vs. LAL W 22 11 5 6 83.3 0 0 - 1 4 25.0 2 1 3 4 1 0 0 4 12
+p610
+aVVladimir Stepania POR 12/13/2003 POR vs. LAL W 7 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 1 0 1 2
+p611
+aVJeff McInnis POR 12/13/2003 POR vs. LAL W 35 8 3 9 33.3 0 0 - 2 2 100.0 1 1 2 5 0 0 3 2 -4
+p612
+aVRasheed Wallace POR 12/13/2003 POR vs. LAL W 41 28 11 21 52.4 2 4 50.0 4 5 80.0 3 4 7 5 1 0 4 4 -2
+p613
+aVWesley Person POR 12/13/2003 POR vs. LAL W 18 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 0 1 0 0 1 4
+p614
+aVQyntel Woods POR 12/13/2003 POR vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p615
+aVDamon Stoudamire POR 12/13/2003 POR vs. LAL W 40 25 10 22 45.5 5 11 45.5 0 0 - 0 5 5 8 1 0 1 3 9
+p616
+aVDale Davis POR 12/13/2003 POR vs. LAL W 40 8 4 5 80.0 0 0 - 0 0 - 3 11 14 2 1 0 0 3 1
+p617
+aVMatt Carroll POR 12/10/2003 POR @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p618
+aVTravis Outlaw POR 12/10/2003 POR @ SAS L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p619
+aVRuben Boumtje-Boumtje POR 12/10/2003 POR @ SAS L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -5
+p620
+aVQyntel Woods POR 12/10/2003 POR @ SAS L 12 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 1 0 0 1 1 -4
+p621
+aVDale Davis POR 12/10/2003 POR @ SAS L 30 2 1 8 12.5 0 0 - 0 0 - 5 8 13 3 0 0 1 3 -17
+p622
+aVVladimir Stepania POR 12/10/2003 POR @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 5
+p623
+aVWesley Person POR 12/10/2003 POR @ SAS L 26 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 0
+p624
+aVZach Randolph POR 12/10/2003 POR @ SAS L 43 22 9 20 45.0 0 0 - 4 4 100.0 5 4 9 1 1 0 3 4 -16
+p625
+aVRasheed Wallace POR 12/10/2003 POR @ SAS L 31 23 8 20 40.0 3 7 42.9 4 5 80.0 3 3 6 1 0 5 1 1 -25
+p626
+aVRuben Patterson POR 12/10/2003 POR @ SAS L 16 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 1 0 1 1 -10
+p627
+aVDamon Stoudamire POR 12/10/2003 POR @ SAS L 35 8 2 9 22.2 2 5 40.0 2 2 100.0 0 5 5 6 0 0 1 3 -22
+p628
+aVJeff McInnis POR 12/10/2003 POR @ SAS L 30 5 1 8 12.5 0 1 0.0 3 5 60.0 0 2 2 4 0 0 1 1 -21
+p629
+aVDamon Stoudamire POR 12/09/2003 POR @ HOU L 39 19 6 14 42.9 5 9 55.6 2 2 100.0 1 1 2 2 2 0 1 1 -1
+p630
+aVWesley Person POR 12/09/2003 POR @ HOU L 25 8 3 5 60.0 2 2 100.0 0 0 - 1 2 3 1 0 0 0 1 6
+p631
+aVRuben Patterson POR 12/09/2003 POR @ HOU L 22 6 3 4 75.0 0 0 - 0 3 0.0 1 4 5 0 1 1 1 3 -7
+p632
+aVJeff McInnis POR 12/09/2003 POR @ HOU L 39 12 5 13 38.5 2 3 66.7 0 0 - 0 2 2 7 1 0 1 2 0
+p633
+aVVladimir Stepania POR 12/09/2003 POR @ HOU L 9 0 0 2 0.0 0 0 - 0 0 - 2 0 2 2 0 0 0 1 -1
+p634
+aVDale Davis POR 12/09/2003 POR @ HOU L 23 3 1 6 16.7 0 0 - 1 2 50.0 3 3 6 5 2 2 2 2 -10
+p635
+aVRasheed Wallace POR 12/09/2003 POR @ HOU L 37 12 3 12 25.0 0 2 0.0 6 6 100.0 1 4 5 2 0 1 1 5 2
+p636
+aVZach Randolph POR 12/09/2003 POR @ HOU L 46 31 12 25 48.0 0 0 - 7 7 100.0 5 6 11 1 1 2 4 3 1
+p637
+aVRasheed Wallace POR 12/07/2003 POR @ MEM L 41 13 5 12 41.7 2 6 33.3 1 1 100.0 3 6 9 2 0 5 3 3 -9
+p638
+aVRuben Boumtje-Boumtje POR 12/07/2003 POR @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p639
+aVQyntel Woods POR 12/07/2003 POR @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p640
+aVJeff McInnis POR 12/07/2003 POR @ MEM L 37 8 4 12 33.3 0 2 0.0 0 0 - 0 4 4 3 2 0 6 2 -12
+p641
+aVTravis Outlaw POR 12/07/2003 POR @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p642
+aVDale Davis POR 12/07/2003 POR @ MEM L 34 4 2 4 50.0 0 0 - 0 0 - 1 4 5 2 0 3 1 5 -11
+p643
+aVRuben Patterson POR 12/07/2003 POR @ MEM L 21 10 4 6 66.7 0 0 - 2 2 100.0 1 0 1 0 1 0 2 2 -7
+p644
+aVMatt Carroll POR 12/07/2003 POR @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p645
+aVWesley Person POR 12/07/2003 POR @ MEM L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 0
+p646
+aVVladimir Stepania POR 12/07/2003 POR @ MEM L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 0 2 -1
+p647
+aVDamon Stoudamire POR 12/07/2003 POR @ MEM L 44 11 5 11 45.5 1 5 20.0 0 0 - 0 5 5 10 0 0 3 1 -16
+p648
+aVZach Randolph POR 12/07/2003 POR @ MEM L 35 29 13 21 61.9 0 0 - 3 4 75.0 5 8 13 1 0 1 2 5 -14
+p649
+aVQyntel Woods POR 12/05/2003 POR vs. NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 9
+p650
+aVVladimir Stepania POR 12/05/2003 POR vs. NYK W 9 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 11
+p651
+aVJeff McInnis POR 12/05/2003 POR vs. NYK W 33 11 5 8 62.5 0 0 - 1 1 100.0 1 3 4 8 0 0 4 5 10
+p652
+aVWesley Person POR 12/05/2003 POR vs. NYK W 14 8 3 8 37.5 2 5 40.0 0 0 - 1 2 3 2 1 0 0 0 -4
+p653
+aVZach Randolph POR 12/05/2003 POR vs. NYK W 40 22 9 21 42.9 0 1 0.0 4 6 66.7 2 7 9 1 0 0 3 3 9
+p654
+aVDale Davis POR 12/05/2003 POR vs. NYK W 30 6 3 6 50.0 0 0 - 0 0 - 6 2 8 0 0 0 1 1 -10
+p655
+aVRasheed Wallace POR 12/05/2003 POR vs. NYK W 38 17 7 18 38.9 2 4 50.0 1 1 100.0 1 6 7 1 0 1 1 2 2
+p656
+aVDamon Stoudamire POR 12/05/2003 POR vs. NYK W 43 10 3 8 37.5 0 3 0.0 4 4 100.0 1 1 2 8 2 0 2 2 -3
+p657
+aVRuben Patterson POR 12/05/2003 POR vs. NYK W 27 10 4 6 66.7 0 0 - 2 4 50.0 1 2 3 3 1 0 1 3 11
+p658
+aVDamon Stoudamire POR 12/03/2003 POR vs. IND W 49 17 6 18 33.3 1 4 25.0 4 5 80.0 1 3 4 5 2 0 1 2 0
+p659
+aVVladimir Stepania POR 12/03/2003 POR vs. IND W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -6
+p660
+aVDale Davis POR 12/03/2003 POR vs. IND W 33 9 4 10 40.0 0 0 - 1 2 50.0 5 2 7 3 2 1 0 5 3
+p661
+aVZach Randolph POR 12/03/2003 POR vs. IND W 48 34 13 23 56.5 0 0 - 8 11 72.7 3 6 9 1 1 0 3 2 9
+p662
+aVJeff McInnis POR 12/03/2003 POR vs. IND W 38 13 5 11 45.5 0 0 - 3 3 100.0 0 2 2 7 2 0 2 6 10
+p663
+aVRuben Patterson POR 12/03/2003 POR vs. IND W 24 3 1 3 33.3 0 1 0.0 1 4 25.0 0 6 6 1 3 1 1 0 -7
+p664
+aVRasheed Wallace POR 12/03/2003 POR vs. IND W 47 17 7 19 36.8 1 8 12.5 2 2 100.0 4 4 8 2 2 4 0 2 2
+p665
+aVQyntel Woods POR 12/03/2003 POR vs. IND W 14 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 1 1 1 -6
+p666
+aVMatt Carroll POR 12/03/2003 POR vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p667
+aVDale Davis POR 11/28/2003 POR vs. NJN W 39 4 1 3 33.3 0 0 - 2 4 50.0 2 8 10 3 4 2 0 3 9
+p668
+aVBonzi Wells POR 11/28/2003 POR vs. NJN W 16 0 0 4 0.0 0 0 - 0 0 - 0 0 0 4 0 0 2 4 -4
+p669
+aVMatt Carroll POR 11/28/2003 POR vs. NJN W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p670
+aVDamon Stoudamire POR 11/28/2003 POR vs. NJN W 45 28 12 17 70.6 3 6 50.0 1 2 50.0 0 4 4 7 0 1 2 1 3
+p671
+aVVladimir Stepania POR 11/28/2003 POR vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -1
+p672
+aVJeff McInnis POR 11/28/2003 POR vs. NJN W 38 18 9 16 56.3 0 1 0.0 0 0 - 1 3 4 4 0 0 2 0 11
+p673
+aVQyntel Woods POR 11/28/2003 POR vs. NJN W 23 6 2 9 22.2 0 0 - 2 2 100.0 3 0 3 3 1 0 2 3 -1
+p674
+aVZach Randolph POR 11/28/2003 POR vs. NJN W 37 26 10 17 58.8 0 0 - 6 10 60.0 4 5 9 4 2 0 0 4 5
+p675
+aVRasheed Wallace POR 11/28/2003 POR vs. NJN W 29 11 5 14 35.7 1 3 33.3 0 0 - 0 10 10 2 0 1 0 2 2
+p676
+aVZach Randolph POR 11/25/2003 POR vs. WAS L 41 24 10 19 52.6 0 0 - 4 4 100.0 4 11 15 0 0 0 5 4 0
+p677
+aVDale Davis POR 11/25/2003 POR vs. WAS L 30 8 4 5 80.0 0 0 - 0 0 - 4 2 6 2 1 2 2 2 0
+p678
+aVBonzi Wells POR 11/25/2003 POR vs. WAS L 23 5 2 11 18.2 0 0 - 1 2 50.0 3 4 7 0 0 0 3 2 -11
+p679
+aVVladimir Stepania POR 11/25/2003 POR vs. WAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p680
+aVDamon Stoudamire POR 11/25/2003 POR vs. WAS L 32 14 6 10 60.0 1 2 50.0 1 1 100.0 1 4 5 7 1 0 3 1 4
+p681
+aVQyntel Woods POR 11/25/2003 POR vs. WAS L 19 4 2 6 33.3 0 1 0.0 0 2 0.0 2 3 5 2 0 0 0 1 -1
+p682
+aVRuben Patterson POR 11/25/2003 POR vs. WAS L 15 3 1 4 25.0 0 0 - 1 2 50.0 3 2 5 1 2 0 3 2 -2
+p683
+aVRasheed Wallace POR 11/25/2003 POR vs. WAS L 41 3 1 6 16.7 0 4 0.0 1 2 50.0 0 1 1 7 1 0 3 3 10
+p684
+aVJeff McInnis POR 11/25/2003 POR vs. WAS L 32 19 8 15 53.3 0 0 - 3 3 100.0 1 2 3 5 3 0 1 2 -3
+p685
+aVRuben Patterson POR 11/23/2003 POR @ GSW L 20 0 0 5 0.0 0 0 - 0 0 - 3 1 4 1 1 0 1 2 2
+p686
+aVRasheed Wallace POR 11/23/2003 POR @ GSW L 41 11 5 14 35.7 0 5 0.0 1 3 33.3 0 8 8 3 1 0 4 3 -7
+p687
+aVBonzi Wells POR 11/23/2003 POR @ GSW L 15 13 5 13 38.5 1 2 50.0 2 3 66.7 3 1 4 0 1 0 0 1 -5
+p688
+aVDamon Stoudamire POR 11/23/2003 POR @ GSW L 35 5 2 10 20.0 0 5 0.0 1 1 100.0 2 3 5 7 1 0 2 3 -7
+p689
+aVQyntel Woods POR 11/23/2003 POR @ GSW L 17 7 3 6 50.0 0 1 0.0 1 3 33.3 3 2 5 2 0 0 3 6 5
+p690
+aVMatt Carroll POR 11/23/2003 POR @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p691
+aVDale Davis POR 11/23/2003 POR @ GSW L 24 5 2 3 66.7 0 0 - 1 2 50.0 3 4 7 1 1 2 1 3 -7
+p692
+aVVladimir Stepania POR 11/23/2003 POR @ GSW L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 1
+p693
+aVZach Randolph POR 11/23/2003 POR @ GSW L 35 17 8 14 57.1 0 0 - 1 3 33.3 1 7 8 0 0 0 4 5 -8
+p694
+aVJeff McInnis POR 11/23/2003 POR @ GSW L 40 12 6 17 35.3 0 2 0.0 0 0 - 0 4 4 6 0 0 0 1 -4
+p695
+aVDamon Stoudamire POR 11/21/2003 POR vs. HOU W 40 23 8 13 61.5 3 4 75.0 4 4 100.0 1 4 5 7 2 0 1 1 12
+p696
+aVRuben Boumtje-Boumtje POR 11/21/2003 POR vs. HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p697
+aVQyntel Woods POR 11/21/2003 POR vs. HOU W 29 5 2 10 20.0 1 2 50.0 0 0 - 2 6 8 0 1 1 3 0 12
+p698
+aVZach Randolph POR 11/21/2003 POR vs. HOU W 42 21 6 19 31.6 0 0 - 9 11 81.8 3 5 8 3 1 0 2 3 11
+p699
+aVVladimir Stepania POR 11/21/2003 POR vs. HOU W 17 3 1 5 20.0 0 0 - 1 2 50.0 4 1 5 1 0 0 2 3 -11
+p700
+aVDale Davis POR 11/21/2003 POR vs. HOU W 16 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 3 -1
+p701
+aVRasheed Wallace POR 11/21/2003 POR vs. HOU W 39 14 4 14 28.6 1 6 16.7 5 6 83.3 0 6 6 3 4 0 0 5 11
+p702
+aVMatt Carroll POR 11/21/2003 POR vs. HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p703
+aVRuben Patterson POR 11/21/2003 POR vs. HOU W 21 7 3 6 50.0 0 1 0.0 1 1 100.0 5 3 8 1 1 0 0 1 14
+p704
+aVJeff McInnis POR 11/21/2003 POR vs. HOU W 34 8 3 13 23.1 1 3 33.3 1 2 50.0 1 0 1 5 0 0 1 1 -12
+p705
+aVDamon Stoudamire POR 11/19/2003 POR vs. MIA W 39 13 4 13 30.8 2 5 40.0 3 3 100.0 1 2 3 6 4 0 5 2 1
+p706
+aVQyntel Woods POR 11/19/2003 POR vs. MIA W 18 11 2 2 100.0 0 0 - 7 10 70.0 2 4 6 0 1 1 0 2 7
+p707
+aVJeff McInnis POR 11/19/2003 POR vs. MIA W 40 11 4 10 40.0 0 1 0.0 3 4 75.0 0 3 3 8 3 0 1 3 26
+p708
+aVMatt Carroll POR 11/19/2003 POR vs. MIA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p709
+aVRasheed Wallace POR 11/19/2003 POR vs. MIA W 42 21 6 15 40.0 2 5 40.0 7 8 87.5 2 9 11 1 1 2 2 3 15
+p710
+aVTracy Murray POR 11/19/2003 POR vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -12
+p711
+aVRuben Patterson POR 11/19/2003 POR vs. MIA W 16 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 1 0 1 1 1 -20
+p712
+aVVladimir Stepania POR 11/19/2003 POR vs. MIA W 12 10 5 7 71.4 0 0 - 0 1 0.0 4 0 4 1 0 0 2 2 2
+p713
+aVDale Davis POR 11/19/2003 POR vs. MIA W 26 7 3 6 50.0 0 0 - 1 2 50.0 0 3 3 0 1 1 1 0 -4
+p714
+aVZach Randolph POR 11/19/2003 POR vs. MIA W 39 17 8 12 66.7 0 0 - 1 2 50.0 0 10 10 2 0 1 3 2 1
+p715
+aVDale Davis POR 11/17/2003 POR @ DAL L 31 5 2 7 28.6 0 0 - 1 2 50.0 6 3 9 2 0 0 0 3 -17
+p716
+aVMatt Carroll POR 11/17/2003 POR @ DAL L 14 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p717
+aVDamon Stoudamire POR 11/17/2003 POR @ DAL L 36 5 1 11 9.1 0 5 0.0 3 3 100.0 3 4 7 7 1 0 1 1 -13
+p718
+aVQyntel Woods POR 11/17/2003 POR @ DAL L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 3 2
+p719
+aVVladimir Stepania POR 11/17/2003 POR @ DAL L 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 0 10
+p720
+aVZach Randolph POR 11/17/2003 POR @ DAL L 41 25 9 12 75.0 0 0 - 7 11 63.6 10 9 19 6 1 0 5 4 -8
+p721
+aVJeff McInnis POR 11/17/2003 POR @ DAL L 26 9 4 9 44.4 1 2 50.0 0 0 - 0 0 0 4 1 0 1 5 -1
+p722
+aVRasheed Wallace POR 11/17/2003 POR @ DAL L 45 31 12 25 48.0 3 5 60.0 4 5 80.0 4 4 8 3 1 2 1 3 -3
+p723
+aVBonzi Wells POR 11/17/2003 POR @ DAL L 28 14 7 13 53.8 0 1 0.0 0 0 - 0 2 2 0 2 1 3 1 1
+p724
+aVZach Randolph POR 11/15/2003 POR @ NOH L 39 13 6 14 42.9 0 0 - 1 1 100.0 3 4 7 2 2 1 5 3 -13
+p725
+aVBonzi Wells POR 11/15/2003 POR @ NOH L 43 19 8 19 42.1 0 2 0.0 3 4 75.0 3 6 9 1 1 1 3 2 -11
+p726
+aVVladimir Stepania POR 11/15/2003 POR @ NOH L 8 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 1 0 1 -6
+p727
+aVQyntel Woods POR 11/15/2003 POR @ NOH L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -10
+p728
+aVRuben Boumtje-Boumtje POR 11/15/2003 POR @ NOH L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p729
+aVJeff McInnis POR 11/15/2003 POR @ NOH L 21 5 2 9 22.2 0 1 0.0 1 1 100.0 0 0 0 3 0 0 1 3 -14
+p730
+aVMatt Carroll POR 11/15/2003 POR @ NOH L 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -5
+p731
+aVTravis Outlaw POR 11/15/2003 POR @ NOH L 3 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -5
+p732
+aVDale Davis POR 11/15/2003 POR @ NOH L 32 4 1 2 50.0 0 0 - 2 4 50.0 5 1 6 0 2 1 2 3 -9
+p733
+aVDamon Stoudamire POR 11/15/2003 POR @ NOH L 38 14 5 12 41.7 3 6 50.0 1 1 100.0 1 3 4 7 2 0 2 1 -13
+p734
+aVRasheed Wallace POR 11/15/2003 POR @ NOH L 41 19 7 17 41.2 1 6 16.7 4 4 100.0 2 6 8 3 0 1 1 0 -19
+p735
+aVDale Davis POR 11/13/2003 POR vs. SAC W 35 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 4 1 2 0 3 7
+p736
+aVQyntel Woods POR 11/13/2003 POR vs. SAC W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -9
+p737
+aVDamon Stoudamire POR 11/13/2003 POR vs. SAC W 47 17 7 15 46.7 1 5 20.0 2 2 100.0 1 5 6 6 0 0 4 1 12
+p738
+aVZach Randolph POR 11/13/2003 POR vs. SAC W 47 28 10 18 55.6 0 0 - 8 8 100.0 5 9 14 5 3 3 1 3 9
+p739
+aVRasheed Wallace POR 11/13/2003 POR vs. SAC W 45 26 11 20 55.0 1 1 100.0 3 5 60.0 3 3 6 4 2 0 5 2 6
+p740
+aVJeff McInnis POR 11/13/2003 POR vs. SAC W 30 10 5 8 62.5 0 0 - 0 0 - 0 2 2 5 3 0 3 2 -19
+p741
+aVBonzi Wells POR 11/13/2003 POR vs. SAC W 51 27 13 24 54.2 0 1 0.0 1 1 100.0 2 7 9 4 3 0 4 4 4
+p742
+aVDamon Stoudamire POR 11/11/2003 POR vs. TOR W 33 14 6 10 60.0 1 3 33.3 1 1 100.0 0 4 4 5 0 0 1 2 1
+p743
+aVJeff McInnis POR 11/11/2003 POR vs. TOR W 22 11 5 9 55.6 0 0 - 1 2 50.0 0 2 2 6 1 0 1 1 6
+p744
+aVZach Randolph POR 11/11/2003 POR vs. TOR W 43 18 7 18 38.9 0 0 - 4 4 100.0 4 7 11 3 1 0 2 3 1
+p745
+aVVladimir Stepania POR 11/11/2003 POR vs. TOR W 11 4 2 5 40.0 0 0 - 0 0 - 5 2 7 0 0 1 0 3 7
+p746
+aVBonzi Wells POR 11/11/2003 POR vs. TOR W 32 11 5 11 45.5 0 0 - 1 1 100.0 0 2 2 2 0 1 4 4 0
+p747
+aVDale Davis POR 11/11/2003 POR vs. TOR W 34 10 5 7 71.4 0 0 - 0 0 - 3 7 10 1 0 0 0 2 -4
+p748
+aVQyntel Woods POR 11/11/2003 POR vs. TOR W 24 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 8
+p749
+aVRasheed Wallace POR 11/11/2003 POR vs. TOR W 40 11 4 15 26.7 2 4 50.0 1 4 25.0 2 6 8 3 1 0 2 2 -4
+p750
+aVDale Davis POR 11/08/2003 POR vs. ATL W 32 12 6 11 54.5 0 0 - 0 0 - 4 4 8 1 2 2 2 1 7
+p751
+aVQyntel Woods POR 11/08/2003 POR vs. ATL W 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -6
+p752
+aVVladimir Stepania POR 11/08/2003 POR vs. ATL W 16 2 1 2 50.0 0 0 - 0 0 - 0 7 7 1 0 2 1 2 -2
+p753
+aVRasheed Wallace POR 11/08/2003 POR vs. ATL W 39 11 4 13 30.8 3 6 50.0 0 0 - 0 7 7 1 1 1 1 1 4
+p754
+aVZach Randolph POR 11/08/2003 POR vs. ATL W 41 29 12 22 54.5 0 0 - 5 6 83.3 3 6 9 2 0 1 0 0 12
+p755
+aVTracy Murray POR 11/08/2003 POR vs. ATL W 8 5 2 3 66.7 1 1 100.0 0 0 - 1 0 1 0 0 0 0 2 2
+p756
+aVBonzi Wells POR 11/08/2003 POR vs. ATL W 29 4 2 10 20.0 0 0 - 0 0 - 2 2 4 4 2 0 1 1 8
+p757
+aVJeff McInnis POR 11/08/2003 POR vs. ATL W 35 21 8 14 57.1 1 2 50.0 4 4 100.0 1 3 4 9 0 0 1 0 8
+p758
+aVDamon Stoudamire POR 11/08/2003 POR vs. ATL W 29 6 2 9 22.2 2 5 40.0 0 0 - 0 1 1 8 1 0 2 3 2
+p759
+aVBonzi Wells POR 11/07/2003 POR @ SEA L 28 13 5 15 33.3 0 0 - 3 4 75.0 2 2 4 2 1 0 1 3 -13
+p760
+aVZach Randolph POR 11/07/2003 POR @ SEA L 36 19 9 16 56.3 0 0 - 1 3 33.3 5 4 9 3 1 0 6 2 -14
+p761
+aVTracy Murray POR 11/07/2003 POR @ SEA L 8 3 1 2 50.0 1 2 50.0 0 1 0.0 0 1 1 0 0 0 0 0 -6
+p762
+aVQyntel Woods POR 11/07/2003 POR @ SEA L 20 4 2 6 33.3 0 1 0.0 0 0 - 2 5 7 0 1 0 3 2 -19
+p763
+aVDale Davis POR 11/07/2003 POR @ SEA L 30 8 4 5 80.0 0 0 - 0 0 - 1 4 5 2 1 1 0 2 2
+p764
+aVMatt Carroll POR 11/07/2003 POR @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p765
+aVDamon Stoudamire POR 11/07/2003 POR @ SEA L 37 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 3 0 0 3 1 -16
+p766
+aVJeff McInnis POR 11/07/2003 POR @ SEA L 27 6 3 10 30.0 0 1 0.0 0 0 - 1 1 2 3 1 0 0 3 -8
+p767
+aVRasheed Wallace POR 11/07/2003 POR @ SEA L 44 25 11 19 57.9 2 5 40.0 1 2 50.0 2 9 11 4 0 2 4 3 -19
+p768
+aVVladimir Stepania POR 11/07/2003 POR @ SEA L 6 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 3 -1
+p769
+aVRuben Boumtje-Boumtje POR 11/07/2003 POR @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p770
+aVTracy Murray POR 11/05/2003 POR vs. MEM W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 12
+p771
+aVVladimir Stepania POR 11/05/2003 POR vs. MEM W 14 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 2 10
+p772
+aVJeff McInnis POR 11/05/2003 POR vs. MEM W 24 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 2 0 1 0 0 0
+p773
+aVRasheed Wallace POR 11/05/2003 POR vs. MEM W 40 9 4 10 40.0 1 2 50.0 0 1 0.0 0 10 10 3 1 2 1 2 3
+p774
+aVDale Davis POR 11/05/2003 POR vs. MEM W 28 9 4 7 57.1 0 0 - 1 1 100.0 5 4 9 0 1 0 1 1 5
+p775
+aVQyntel Woods POR 11/05/2003 POR vs. MEM W 18 9 3 7 42.9 0 0 - 3 3 100.0 2 2 4 2 1 1 1 4 9
+p776
+aVBonzi Wells POR 11/05/2003 POR vs. MEM W 38 17 7 12 58.3 0 0 - 3 4 75.0 0 2 2 3 1 0 3 4 -1
+p777
+aVDamon Stoudamire POR 11/05/2003 POR vs. MEM W 35 13 4 10 40.0 1 2 50.0 4 5 80.0 0 4 4 4 1 0 2 1 -6
+p778
+aVZach Randolph POR 11/05/2003 POR vs. MEM W 35 20 8 18 44.4 0 0 - 4 5 80.0 7 9 16 4 1 1 6 3 -2
+p779
+aVTracy Murray POR 11/03/2003 POR vs. PHI L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p780
+aVDale Davis POR 11/03/2003 POR vs. PHI L 33 4 2 5 40.0 0 0 - 0 4 0.0 6 5 11 1 1 0 2 2 -7
+p781
+aVDamon Stoudamire POR 11/03/2003 POR vs. PHI L 32 11 5 14 35.7 1 5 20.0 0 0 - 0 1 1 6 1 0 4 6 -15
+p782
+aVZach Randolph POR 11/03/2003 POR vs. PHI L 34 11 5 10 50.0 0 0 - 1 1 100.0 3 8 11 2 2 0 3 4 -1
+p783
+aVBonzi Wells POR 11/03/2003 POR vs. PHI L 35 17 7 15 46.7 0 0 - 3 4 75.0 2 3 5 3 5 0 2 4 -7
+p784
+aVRuben Patterson POR 11/03/2003 POR vs. PHI L 26 12 4 7 57.1 0 0 - 4 5 80.0 3 1 4 0 1 0 1 5 -10
+p785
+aVDerek Anderson POR 11/03/2003 POR vs. PHI L 3 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -3
+p786
+aVJeff McInnis POR 11/03/2003 POR vs. PHI L 20 2 1 9 11.1 0 2 0.0 0 0 - 0 1 1 3 1 0 1 1 4
+p787
+aVRuben Boumtje-Boumtje POR 11/03/2003 POR vs. PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p788
+aVVladimir Stepania POR 11/03/2003 POR vs. PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 0
+p789
+aVQyntel Woods POR 11/03/2003 POR vs. PHI L 10 3 0 1 0.0 0 0 - 3 4 75.0 0 0 0 0 0 1 2 2 -7
+p790
+aVRasheed Wallace POR 11/03/2003 POR vs. PHI L 41 22 7 14 50.0 2 2 100.0 6 8 75.0 2 5 7 6 1 2 3 2 -11
+p791
+aVZach Randolph POR 11/01/2003 POR vs. CLE W 33 21 8 13 61.5 0 0 - 5 5 100.0 4 9 13 4 2 0 2 5 10
+p792
+aVQyntel Woods POR 11/01/2003 POR vs. CLE W 17 13 5 8 62.5 3 3 100.0 0 0 - 1 3 4 2 1 0 0 0 20
+p793
+aVDamon Stoudamire POR 11/01/2003 POR vs. CLE W 30 14 6 12 50.0 2 5 40.0 0 0 - 0 2 2 5 1 0 3 2 0
+p794
+aVRasheed Wallace POR 11/01/2003 POR vs. CLE W 30 11 4 11 36.4 1 4 25.0 2 4 50.0 2 2 4 2 0 2 3 4 15
+p795
+aVBonzi Wells POR 11/01/2003 POR vs. CLE W 31 12 4 14 28.6 0 2 0.0 4 4 100.0 1 4 5 7 0 0 2 3 4
+p796
+aVTracy Murray POR 11/01/2003 POR vs. CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p797
+aVRuben Boumtje-Boumtje POR 11/01/2003 POR vs. CLE W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p798
+aVDale Davis POR 11/01/2003 POR vs. CLE W 34 8 2 3 66.7 0 0 - 4 4 100.0 0 5 5 1 2 0 0 3 10
+p799
+aVJeff McInnis POR 11/01/2003 POR vs. CLE W 24 15 6 8 75.0 0 1 0.0 3 5 60.0 0 2 2 3 0 0 2 1 19
+p800
+aVRuben Patterson POR 11/01/2003 POR vs. CLE W 20 6 2 5 40.0 0 0 - 2 5 40.0 0 1 1 1 0 0 0 3 10
+p801
+aVVladimir Stepania POR 11/01/2003 POR vs. CLE W 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 1 0 1 10
+p802
+aVZach Randolph POR 10/29/2003 POR @ UTA L 36 22 6 16 37.5 0 0 - 10 11 90.9 4 5 9 0 0 0 3 2 1
+p803
+aVDamon Stoudamire POR 10/29/2003 POR @ UTA L 41 16 7 12 58.3 1 3 33.3 1 2 50.0 1 0 1 6 0 0 2 0 -4
+p804
+aVVladimir Stepania POR 10/29/2003 POR @ UTA L 16 0 0 4 0.0 0 0 - 0 0 - 3 2 5 1 0 0 1 3 -8
+p805
+aVRasheed Wallace POR 10/29/2003 POR @ UTA L 40 21 8 13 61.5 2 4 50.0 3 4 75.0 1 5 6 3 2 2 2 2 5
+p806
+aVJeff McInnis POR 10/29/2003 POR @ UTA L 25 19 8 13 61.5 1 3 33.3 2 4 50.0 0 1 1 4 1 0 2 5 -14
+p807
+aVTracy Murray POR 10/29/2003 POR @ UTA L 1 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p808
+aVDale Davis POR 10/29/2003 POR @ UTA L 30 4 2 4 50.0 0 0 - 0 0 - 5 2 7 0 1 0 1 3 3
+p809
+aVBonzi Wells POR 10/29/2003 POR @ UTA L 35 6 3 14 21.4 0 0 - 0 0 - 3 5 8 5 4 0 4 5 -6
+p810
+aVRuben Patterson POR 10/29/2003 POR @ UTA L 16 4 2 6 33.3 0 1 0.0 0 0 - 2 0 2 1 2 0 0 0 -11
+p811
+a.

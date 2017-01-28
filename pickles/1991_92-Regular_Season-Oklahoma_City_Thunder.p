@@ -1,0 +1,1650 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDana Barros SEA 04/19/1992 SEA @ GOS L 18 10 4 7 57.1 2 3 66.7 0 0 - 0 1 1 1 0 0 1 2 -
+p2
+aVNate McMillan SEA 04/19/1992 SEA @ GOS L 38 14 5 11 45.5 0 3 0.0 4 6 66.7 3 3 6 9 5 1 2 3 -
+p3
+aVRicky Pierce SEA 04/19/1992 SEA @ GOS L 35 17 4 16 25.0 1 3 33.3 8 9 88.9 3 2 5 4 2 0 2 5 -
+p4
+aVBart Kofoed SEA 04/19/1992 SEA @ GOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p5
+aVShawn Kemp SEA 04/19/1992 SEA @ GOS L 40 23 10 18 55.6 0 0 - 3 6 50.0 8 11 19 1 3 3 4 5 -
+p6
+aVEddie Johnson SEA 04/19/1992 SEA @ GOS L 22 7 2 7 28.6 0 0 - 3 4 75.0 0 0 0 3 1 0 1 4 -
+p7
+aVDerrick McKey SEA 04/19/1992 SEA @ GOS L 33 7 3 12 25.0 0 1 0.0 1 2 50.0 3 5 8 1 0 1 3 2 -
+p8
+aVGary Payton SEA 04/19/1992 SEA @ GOS L 25 12 6 13 46.2 0 0 - 0 0 - 4 1 5 2 3 0 3 3 -
+p9
+aVMichael Cage SEA 04/19/1992 SEA @ GOS L 24 14 6 11 54.5 0 0 - 2 2 100.0 4 4 8 0 4 1 3 3 -
+p10
+aVTony Brown SEA 04/19/1992 SEA @ GOS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p11
+aVRich King SEA 04/17/1992 SEA vs. SAC W 6 6 3 6 50.0 0 0 - 0 0 - 4 1 5 0 0 0 1 0 -
+p12
+aVTony Brown SEA 04/17/1992 SEA vs. SAC W 22 7 3 10 30.0 0 1 0.0 1 1 100.0 3 2 5 2 0 0 2 3 -
+p13
+aVBart Kofoed SEA 04/17/1992 SEA vs. SAC W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -
+p14
+aVGary Payton SEA 04/17/1992 SEA vs. SAC W 29 10 4 8 50.0 0 0 - 2 5 40.0 0 3 3 7 3 0 1 3 -
+p15
+aVDana Barros SEA 04/17/1992 SEA vs. SAC W 28 17 6 9 66.7 4 5 80.0 1 2 50.0 0 2 2 3 2 0 0 2 -
+p16
+aVShawn Kemp SEA 04/17/1992 SEA vs. SAC W 29 24 10 15 66.7 0 0 - 4 5 80.0 6 8 14 3 1 2 2 5 -
+p17
+aVDerrick McKey SEA 04/17/1992 SEA vs. SAC W 29 23 7 12 58.3 1 1 100.0 8 8 100.0 1 3 4 4 2 2 3 1 -
+p18
+aVEddie Johnson SEA 04/17/1992 SEA vs. SAC W 28 20 9 15 60.0 0 1 0.0 2 2 100.0 2 1 3 3 1 0 0 0 -
+p19
+aVNate McMillan SEA 04/17/1992 SEA vs. SAC W 25 8 2 6 33.3 0 2 0.0 4 4 100.0 1 4 5 9 2 0 1 4 -
+p20
+aVMichael Cage SEA 04/17/1992 SEA vs. SAC W 30 11 5 7 71.4 0 1 0.0 1 2 50.0 3 4 7 0 5 2 2 3 -
+p21
+aVMarty Conlon SEA 04/17/1992 SEA vs. SAC W 5 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p22
+aVDana Barros SEA 04/14/1992 SEA @ PHX L 26 8 4 8 50.0 0 2 0.0 0 0 - 1 0 1 1 1 0 3 1 -
+p23
+aVShawn Kemp SEA 04/14/1992 SEA @ PHX L 31 26 6 9 66.7 0 0 - 14 17 82.4 3 8 11 1 0 5 3 5 -
+p24
+aVNate McMillan SEA 04/14/1992 SEA @ PHX L 25 6 3 10 30.0 0 1 0.0 0 0 - 4 1 5 3 4 0 1 5 -
+p25
+aVBart Kofoed SEA 04/14/1992 SEA @ PHX L 7 5 1 1 100.0 0 0 - 3 6 50.0 0 0 0 0 0 0 0 1 -
+p26
+aVDerrick McKey SEA 04/14/1992 SEA @ PHX L 33 11 3 7 42.9 0 0 - 5 7 71.4 0 4 4 1 3 0 1 3 -
+p27
+aVTony Brown SEA 04/14/1992 SEA @ PHX L 9 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -
+p28
+aVRicky Pierce SEA 04/14/1992 SEA @ PHX L 22 16 7 16 43.8 0 0 - 2 2 100.0 3 2 5 2 0 0 2 5 -
+p29
+aVGary Payton SEA 04/14/1992 SEA @ PHX L 27 7 3 10 30.0 0 0 - 1 2 50.0 0 1 1 6 2 1 2 3 -
+p30
+aVMarty Conlon SEA 04/14/1992 SEA @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p31
+aVMichael Cage SEA 04/14/1992 SEA @ PHX L 31 9 3 10 30.0 0 0 - 3 4 75.0 3 5 8 1 3 1 2 4 -
+p32
+aVRich King SEA 04/14/1992 SEA @ PHX L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -
+p33
+aVEddie Johnson SEA 04/14/1992 SEA @ PHX L 23 9 2 11 18.2 0 0 - 5 6 83.3 3 0 3 2 0 0 3 2 -
+p34
+aVDerrick McKey SEA 04/12/1992 SEA vs. MIN W 25 14 6 10 60.0 0 0 - 2 3 66.7 1 3 4 3 2 1 1 2 -
+p35
+aVMarty Conlon SEA 04/12/1992 SEA vs. MIN W 7 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -
+p36
+aVGary Payton SEA 04/12/1992 SEA vs. MIN W 28 4 2 8 25.0 0 0 - 0 0 - 2 2 4 5 5 1 0 3 -
+p37
+aVEddie Johnson SEA 04/12/1992 SEA vs. MIN W 16 7 3 7 42.9 0 0 - 1 2 50.0 1 2 3 2 1 0 1 2 -
+p38
+aVNate McMillan SEA 04/12/1992 SEA vs. MIN W 28 10 4 6 66.7 2 3 66.7 0 0 - 1 3 4 10 3 1 2 3 -
+p39
+aVMichael Cage SEA 04/12/1992 SEA vs. MIN W 28 18 8 11 72.7 0 1 0.0 2 2 100.0 1 1 2 2 2 2 1 1 -
+p40
+aVShawn Kemp SEA 04/12/1992 SEA vs. MIN W 29 18 7 11 63.6 0 0 - 4 5 80.0 7 9 16 3 0 2 5 3 -
+p41
+aVBart Kofoed SEA 04/12/1992 SEA vs. MIN W 13 4 2 6 33.3 0 1 0.0 0 1 0.0 0 1 1 3 0 0 1 1 -
+p42
+aVDana Barros SEA 04/12/1992 SEA vs. MIN W 27 14 6 8 75.0 2 3 66.7 0 0 - 0 1 1 5 1 0 0 1 -
+p43
+aVRicky Pierce SEA 04/12/1992 SEA vs. MIN W 20 21 9 11 81.8 0 0 - 3 4 75.0 0 3 3 0 0 0 1 2 -
+p44
+aVTony Brown SEA 04/12/1992 SEA vs. MIN W 10 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 4 0 0 0 1 -
+p45
+aVRich King SEA 04/12/1992 SEA vs. MIN W 9 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -
+p46
+aVShawn Kemp SEA 04/10/1992 SEA @ POR L 25 10 5 10 50.0 0 0 - 0 0 - 2 7 9 1 1 1 2 4 -
+p47
+aVBart Kofoed SEA 04/10/1992 SEA @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p48
+aVNate McMillan SEA 04/10/1992 SEA @ POR L 33 10 4 10 40.0 0 1 0.0 2 2 100.0 2 3 5 12 4 0 3 6 -
+p49
+aVTony Brown SEA 04/10/1992 SEA @ POR L 17 9 4 10 40.0 0 3 0.0 1 3 33.3 0 1 1 1 0 0 0 5 -
+p50
+aVMarty Conlon SEA 04/10/1992 SEA @ POR L 19 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 2 1 1 -
+p51
+aVDana Barros SEA 04/10/1992 SEA @ POR L 16 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 3 0 0 3 -
+p52
+aVMichael Cage SEA 04/10/1992 SEA @ POR L 30 6 3 7 42.9 0 0 - 0 0 - 3 4 7 2 1 0 1 4 -
+p53
+aVRich King SEA 04/10/1992 SEA @ POR L 4 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -
+p54
+aVEddie Johnson SEA 04/10/1992 SEA @ POR L 30 36 15 24 62.5 1 2 50.0 5 6 83.3 0 3 3 4 0 0 0 5 -
+p55
+aVRicky Pierce SEA 04/10/1992 SEA @ POR L 37 23 9 17 52.9 0 1 0.0 5 5 100.0 2 1 3 6 1 0 2 4 -
+p56
+aVGary Payton SEA 04/10/1992 SEA @ POR L 28 2 1 4 25.0 0 1 0.0 0 0 - 2 2 4 6 0 0 1 1 -
+p57
+aVDerrick McKey SEA 04/09/1992 SEA vs. PHX W 31 16 5 10 50.0 1 1 100.0 5 6 83.3 2 4 6 2 3 1 2 2 -
+p58
+aVRicky Pierce SEA 04/09/1992 SEA vs. PHX W 27 14 5 18 27.8 0 0 - 4 4 100.0 0 0 0 4 1 0 2 2 -
+p59
+aVMarty Conlon SEA 04/09/1992 SEA vs. PHX W 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p60
+aVBart Kofoed SEA 04/09/1992 SEA vs. PHX W 6 1 0 2 0.0 0 0 - 1 1 100.0 1 0 1 1 0 0 0 0 -
+p61
+aVTony Brown SEA 04/09/1992 SEA vs. PHX W 8 7 2 6 33.3 2 3 66.7 1 2 50.0 2 1 3 0 0 1 1 2 -
+p62
+aVNate McMillan SEA 04/09/1992 SEA vs. PHX W 29 14 6 9 66.7 2 3 66.7 0 0 - 2 5 7 12 6 1 2 3 -
+p63
+aVRich King SEA 04/09/1992 SEA vs. PHX W 6 4 2 6 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -
+p64
+aVEddie Johnson SEA 04/09/1992 SEA vs. PHX W 22 10 4 11 36.4 0 1 0.0 2 2 100.0 1 0 1 1 0 0 1 2 -
+p65
+aVDana Barros SEA 04/09/1992 SEA vs. PHX W 25 11 5 6 83.3 1 1 100.0 0 0 - 0 3 3 2 2 0 1 0 -
+p66
+aVGary Payton SEA 04/09/1992 SEA vs. PHX W 25 8 4 6 66.7 0 0 - 0 0 - 1 2 3 4 2 0 2 1 -
+p67
+aVShawn Kemp SEA 04/09/1992 SEA vs. PHX W 22 17 7 17 41.2 0 0 - 3 4 75.0 8 6 14 3 0 0 2 4 -
+p68
+aVMichael Cage SEA 04/09/1992 SEA vs. PHX W 33 15 7 9 77.8 0 0 - 1 1 100.0 1 10 11 1 2 0 1 3 -
+p69
+aVMichael Cage SEA 04/07/1992 SEA vs. LAL W 31 12 6 10 60.0 0 0 - 0 0 - 3 6 9 0 3 1 1 2 -
+p70
+aVDana Barros SEA 04/07/1992 SEA vs. LAL W 14 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 3 0 0 0 1 -
+p71
+aVGary Payton SEA 04/07/1992 SEA vs. LAL W 26 18 8 12 66.7 0 1 0.0 2 2 100.0 1 2 3 7 3 0 3 4 -
+p72
+aVDerrick McKey SEA 04/07/1992 SEA vs. LAL W 32 16 7 11 63.6 0 1 0.0 2 2 100.0 5 3 8 3 1 0 2 3 -
+p73
+aVRicky Pierce SEA 04/07/1992 SEA vs. LAL W 28 16 7 15 46.7 0 0 - 2 2 100.0 2 1 3 6 1 0 2 3 -
+p74
+aVTony Brown SEA 04/07/1992 SEA vs. LAL W 11 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 2 0 0 2 -
+p75
+aVNate McMillan SEA 04/07/1992 SEA vs. LAL W 33 5 2 5 40.0 1 2 50.0 0 2 0.0 1 1 2 6 1 0 1 2 -
+p76
+aVBart Kofoed SEA 04/07/1992 SEA vs. LAL W 4 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -
+p77
+aVShawn Kemp SEA 04/07/1992 SEA vs. LAL W 31 14 4 7 57.1 0 0 - 6 8 75.0 2 10 12 0 2 3 3 2 -
+p78
+aVEddie Johnson SEA 04/07/1992 SEA vs. LAL W 22 18 6 9 66.7 0 0 - 6 6 100.0 3 1 4 1 0 0 1 2 -
+p79
+aVRich King SEA 04/07/1992 SEA vs. LAL W 4 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p80
+aVMarty Conlon SEA 04/07/1992 SEA vs. LAL W 4 5 2 4 50.0 0 0 - 1 2 50.0 5 1 6 0 0 0 0 2 -
+p81
+aVRicky Pierce SEA 04/03/1992 SEA @ LAL W 35 21 7 13 53.8 0 2 0.0 7 7 100.0 0 2 2 1 2 0 3 2 -
+p82
+aVEddie Johnson SEA 04/03/1992 SEA @ LAL W 33 24 9 17 52.9 0 1 0.0 6 6 100.0 2 1 3 4 2 0 5 2 -
+p83
+aVMichael Cage SEA 04/03/1992 SEA @ LAL W 32 11 5 8 62.5 0 0 - 1 2 50.0 5 5 10 0 2 3 2 4 -
+p84
+aVNate McMillan SEA 04/03/1992 SEA @ LAL W 38 8 3 10 30.0 0 3 0.0 2 2 100.0 1 1 2 11 5 1 3 4 -
+p85
+aVDana Barros SEA 04/03/1992 SEA @ LAL W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p86
+aVShawn Kemp SEA 04/03/1992 SEA @ LAL W 35 22 8 13 61.5 0 0 - 6 8 75.0 6 8 14 0 2 2 7 5 -
+p87
+aVTony Brown SEA 04/03/1992 SEA @ LAL W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p88
+aVDerrick McKey SEA 04/03/1992 SEA @ LAL W 27 6 2 9 22.2 0 1 0.0 2 2 100.0 3 3 6 2 1 1 3 4 -
+p89
+aVGary Payton SEA 04/03/1992 SEA @ LAL W 25 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 8 2 0 3 4 -
+p90
+aVNate McMillan SEA 04/02/1992 SEA @ SAC W 32 9 3 7 42.9 2 4 50.0 1 2 50.0 0 3 3 7 2 0 2 4 -
+p91
+aVTony Brown SEA 04/02/1992 SEA @ SAC W 19 10 4 7 57.1 2 3 66.7 0 0 - 0 3 3 3 1 0 0 2 -
+p92
+aVRicky Pierce SEA 04/02/1992 SEA @ SAC W 38 25 12 24 50.0 1 2 50.0 0 0 - 1 1 2 9 0 0 1 5 -
+p93
+aVEddie Johnson SEA 04/02/1992 SEA @ SAC W 26 28 12 21 57.1 2 3 66.7 2 3 66.7 2 4 6 2 1 0 1 1 -
+p94
+aVShawn Kemp SEA 04/02/1992 SEA @ SAC W 20 8 3 4 75.0 0 0 - 2 2 100.0 3 8 11 0 1 0 1 3 -
+p95
+aVDerrick McKey SEA 04/02/1992 SEA @ SAC W 35 20 8 16 50.0 0 2 0.0 4 4 100.0 4 1 5 0 0 2 3 2 -
+p96
+aVMichael Cage SEA 04/02/1992 SEA @ SAC W 22 6 3 7 42.9 0 0 - 0 0 - 2 1 3 0 1 1 0 4 -
+p97
+aVGary Payton SEA 04/02/1992 SEA @ SAC W 30 0 0 3 0.0 0 0 - 0 2 0.0 3 2 5 4 3 0 3 4 -
+p98
+aVDana Barros SEA 04/02/1992 SEA @ SAC W 18 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 -
+p99
+aVMarty Conlon SEA 03/31/1992 SEA vs. UTH W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -
+p100
+aVDerrick McKey SEA 03/31/1992 SEA vs. UTH W 35 10 5 13 38.5 0 1 0.0 0 0 - 0 3 3 3 1 0 4 3 -
+p101
+aVNate McMillan SEA 03/31/1992 SEA vs. UTH W 36 16 7 11 63.6 2 3 66.7 0 0 - 0 6 6 8 2 0 1 1 -
+p102
+aVBart Kofoed SEA 03/31/1992 SEA vs. UTH W 1 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 -
+p103
+aVGary Payton SEA 03/31/1992 SEA vs. UTH W 37 15 6 10 60.0 0 0 - 3 7 42.9 7 3 10 13 4 0 3 3 -
+p104
+aVDana Barros SEA 03/31/1992 SEA vs. UTH W 21 18 7 11 63.6 4 6 66.7 0 0 - 1 1 2 6 2 0 0 2 -
+p105
+aVMichael Cage SEA 03/31/1992 SEA vs. UTH W 26 10 5 5 100.0 0 0 - 0 4 0.0 3 3 6 2 0 0 2 5 -
+p106
+aVShawn Kemp SEA 03/31/1992 SEA vs. UTH W 24 16 6 10 60.0 0 0 - 4 5 80.0 5 5 10 1 1 2 3 6 -
+p107
+aVRicky Pierce SEA 03/31/1992 SEA vs. UTH W 28 14 7 12 58.3 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -
+p108
+aVEddie Johnson SEA 03/31/1992 SEA vs. UTH W 24 18 6 12 50.0 0 0 - 6 6 100.0 2 0 2 2 1 0 2 1 -
+p109
+aVTony Brown SEA 03/31/1992 SEA vs. UTH W 1 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -
+p110
+aVGary Payton SEA 03/28/1992 SEA vs. NYK L 29 4 2 5 40.0 0 0 - 0 0 - 1 3 4 5 0 0 3 3 -
+p111
+aVShawn Kemp SEA 03/28/1992 SEA vs. NYK L 40 27 8 11 72.7 0 0 - 11 16 68.8 1 11 12 1 0 1 4 3 -
+p112
+aVRich King SEA 03/28/1992 SEA vs. NYK L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p113
+aVTony Brown SEA 03/28/1992 SEA vs. NYK L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p114
+aVEddie Johnson SEA 03/28/1992 SEA vs. NYK L 25 11 3 9 33.3 2 3 66.7 3 4 75.0 0 2 2 2 0 0 0 0 -
+p115
+aVDana Barros SEA 03/28/1992 SEA vs. NYK L 17 9 3 9 33.3 3 9 33.3 0 0 - 0 1 1 1 0 0 0 2 -
+p116
+aVRicky Pierce SEA 03/28/1992 SEA vs. NYK L 35 12 4 14 28.6 0 0 - 4 5 80.0 0 1 1 2 1 0 2 1 -
+p117
+aVNate McMillan SEA 03/28/1992 SEA vs. NYK L 21 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 6 0 1 0 1 -
+p118
+aVMichael Cage SEA 03/28/1992 SEA vs. NYK L 25 4 2 4 50.0 0 0 - 0 0 - 7 4 11 0 2 1 2 0 -
+p119
+aVDerrick McKey SEA 03/28/1992 SEA vs. NYK L 30 13 5 9 55.6 0 1 0.0 3 3 100.0 3 3 6 0 0 1 2 5 -
+p120
+aVNate McMillan SEA 03/27/1992 SEA vs. MIL W 26 10 3 10 30.0 2 6 33.3 2 2 100.0 2 5 7 6 1 0 2 3 -
+p121
+aVMichael Cage SEA 03/27/1992 SEA vs. MIL W 32 14 6 7 85.7 0 0 - 2 4 50.0 3 2 5 0 1 4 1 5 -
+p122
+aVGary Payton SEA 03/27/1992 SEA vs. MIL W 25 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 5 1 0 1 4 -
+p123
+aVShawn Kemp SEA 03/27/1992 SEA vs. MIL W 22 6 1 3 33.3 0 0 - 4 4 100.0 3 2 5 0 0 1 4 5 -
+p124
+aVRicky Pierce SEA 03/27/1992 SEA vs. MIL W 32 16 6 10 60.0 0 0 - 4 5 80.0 1 2 3 1 1 0 5 4 -
+p125
+aVDerrick McKey SEA 03/27/1992 SEA vs. MIL W 33 11 4 8 50.0 0 1 0.0 3 3 100.0 2 3 5 0 2 1 0 2 -
+p126
+aVDana Barros SEA 03/27/1992 SEA vs. MIL W 20 9 3 8 37.5 1 2 50.0 2 2 100.0 0 1 1 1 1 0 1 1 -
+p127
+aVTony Brown SEA 03/27/1992 SEA vs. MIL W 17 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 2 0 0 1 4 -
+p128
+aVEddie Johnson SEA 03/27/1992 SEA vs. MIL W 33 21 7 14 50.0 0 0 - 7 9 77.8 1 2 3 3 2 1 3 3 -
+p129
+aVBart Kofoed SEA 03/24/1992 SEA vs. HOU W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 4 0 0 0 2 -
+p130
+aVRich King SEA 03/24/1992 SEA vs. HOU W 4 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p131
+aVNate McMillan SEA 03/24/1992 SEA vs. HOU W 22 7 3 7 42.9 1 2 50.0 0 0 - 2 2 4 7 2 1 1 2 -
+p132
+aVTony Brown SEA 03/24/1992 SEA vs. HOU W 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -
+p133
+aVRicky Pierce SEA 03/24/1992 SEA vs. HOU W 27 20 9 17 52.9 1 3 33.3 1 1 100.0 3 0 3 1 2 0 1 2 -
+p134
+aVMichael Cage SEA 03/24/1992 SEA vs. HOU W 32 9 2 8 25.0 0 0 - 5 6 83.3 6 5 11 0 0 1 1 3 -
+p135
+aVShawn Kemp SEA 03/24/1992 SEA vs. HOU W 28 19 4 9 44.4 0 0 - 11 12 91.7 6 5 11 2 1 0 1 4 -
+p136
+aVGary Payton SEA 03/24/1992 SEA vs. HOU W 27 18 9 17 52.9 0 0 - 0 0 - 2 2 4 7 4 0 2 4 -
+p137
+aVMarty Conlon SEA 03/24/1992 SEA vs. HOU W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p138
+aVEddie Johnson SEA 03/24/1992 SEA vs. HOU W 24 8 4 10 40.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p139
+aVDerrick McKey SEA 03/24/1992 SEA vs. HOU W 34 23 10 14 71.4 2 2 100.0 1 1 100.0 2 3 5 2 1 1 0 1 -
+p140
+aVDana Barros SEA 03/24/1992 SEA vs. HOU W 20 10 2 7 28.6 1 4 25.0 5 5 100.0 1 1 2 2 1 0 1 1 -
+p141
+aVMichael Cage SEA 03/22/1992 SEA @ DAL W 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -
+p142
+aVDana Barros SEA 03/22/1992 SEA @ DAL W 19 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 4 0 1 0 1 -
+p143
+aVRicky Pierce SEA 03/22/1992 SEA @ DAL W 33 24 6 16 37.5 1 3 33.3 11 13 84.6 0 3 3 3 3 1 1 4 -
+p144
+aVEddie Johnson SEA 03/22/1992 SEA @ DAL W 36 31 12 24 50.0 0 2 0.0 7 7 100.0 0 3 3 2 0 0 0 1 -
+p145
+aVShawn Kemp SEA 03/22/1992 SEA @ DAL W 37 18 5 10 50.0 0 0 - 8 11 72.7 4 13 17 0 2 0 2 6 -
+p146
+aVGary Payton SEA 03/22/1992 SEA @ DAL W 19 4 2 8 25.0 0 0 - 0 0 - 1 0 1 2 1 0 1 3 -
+p147
+aVMarty Conlon SEA 03/22/1992 SEA @ DAL W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p148
+aVTony Brown SEA 03/22/1992 SEA @ DAL W 7 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -
+p149
+aVNate McMillan SEA 03/22/1992 SEA @ DAL W 33 13 5 9 55.6 2 3 66.7 1 1 100.0 2 4 6 8 1 0 1 4 -
+p150
+aVDerrick McKey SEA 03/22/1992 SEA @ DAL W 34 15 6 11 54.5 1 1 100.0 2 4 50.0 1 3 4 2 1 2 1 6 -
+p151
+aVRicky Pierce SEA 03/21/1992 SEA @ SAN L 35 19 8 19 42.1 1 2 50.0 2 3 66.7 3 0 3 3 2 0 2 3 -
+p152
+aVMichael Cage SEA 03/21/1992 SEA @ SAN L 31 8 4 6 66.7 0 0 - 0 0 - 2 5 7 4 2 0 1 4 -
+p153
+aVEddie Johnson SEA 03/21/1992 SEA @ SAN L 29 23 9 17 52.9 1 1 100.0 4 4 100.0 0 2 2 2 2 0 1 5 -
+p154
+aVDana Barros SEA 03/21/1992 SEA @ SAN L 19 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 4 3 0 1 2 -
+p155
+aVTony Brown SEA 03/21/1992 SEA @ SAN L 13 5 2 5 40.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 0 1 -
+p156
+aVShawn Kemp SEA 03/21/1992 SEA @ SAN L 24 11 5 12 41.7 0 0 - 1 2 50.0 5 8 13 1 0 1 2 6 -
+p157
+aVMarty Conlon SEA 03/21/1992 SEA @ SAN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p158
+aVNate McMillan SEA 03/21/1992 SEA @ SAN L 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 4 1 0 0 3 -
+p159
+aVGary Payton SEA 03/21/1992 SEA @ SAN L 35 8 4 9 44.4 0 0 - 0 2 0.0 2 0 2 3 1 0 4 3 -
+p160
+aVDerrick McKey SEA 03/21/1992 SEA @ SAN L 36 11 5 13 38.5 1 3 33.3 0 0 - 1 2 3 3 2 1 2 2 -
+p161
+aVRich King SEA 03/19/1992 SEA @ HOU W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -
+p162
+aVDana Barros SEA 03/19/1992 SEA @ HOU W 16 10 3 6 50.0 2 5 40.0 2 2 100.0 0 0 0 2 0 1 0 3 -
+p163
+aVDerrick McKey SEA 03/19/1992 SEA @ HOU W 28 13 6 12 50.0 0 0 - 1 2 50.0 2 3 5 3 2 0 1 1 -
+p164
+aVMichael Cage SEA 03/19/1992 SEA @ HOU W 34 13 6 10 60.0 0 0 - 1 1 100.0 4 10 14 0 1 1 2 3 -
+p165
+aVShawn Kemp SEA 03/19/1992 SEA @ HOU W 38 18 7 11 63.6 0 0 - 4 6 66.7 4 10 14 3 2 3 2 3 -
+p166
+aVTony Brown SEA 03/19/1992 SEA @ HOU W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p167
+aVEddie Johnson SEA 03/19/1992 SEA @ HOU W 27 16 5 13 38.5 0 1 0.0 6 7 85.7 1 1 2 2 0 1 2 3 -
+p168
+aVBart Kofoed SEA 03/19/1992 SEA @ HOU W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p169
+aVRicky Pierce SEA 03/19/1992 SEA @ HOU W 33 22 10 19 52.6 0 1 0.0 2 2 100.0 2 0 2 1 1 0 2 3 -
+p170
+aVNate McMillan SEA 03/19/1992 SEA @ HOU W 24 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 4 4 1 1 2 -
+p171
+aVMarty Conlon SEA 03/19/1992 SEA @ HOU W 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p172
+aVGary Payton SEA 03/19/1992 SEA @ HOU W 31 12 4 11 36.4 1 2 50.0 3 4 75.0 1 3 4 11 3 0 0 1 -
+p173
+aVNate McMillan SEA 03/17/1992 SEA vs. GOS L 16 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 3 1 0 1 1 -
+p174
+aVDerrick McKey SEA 03/17/1992 SEA vs. GOS L 26 4 0 3 0.0 0 1 0.0 4 6 66.7 0 4 4 1 0 0 3 0 -
+p175
+aVRicky Pierce SEA 03/17/1992 SEA vs. GOS L 38 24 9 18 50.0 1 3 33.3 5 5 100.0 3 2 5 5 4 1 5 3 -
+p176
+aVShawn Kemp SEA 03/17/1992 SEA vs. GOS L 25 18 5 12 41.7 0 0 - 8 11 72.7 6 9 15 0 0 2 1 5 -
+p177
+aVMichael Cage SEA 03/17/1992 SEA vs. GOS L 16 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -
+p178
+aVBenoit Benjamin SEA 03/17/1992 SEA vs. GOS L 27 13 5 11 45.5 0 0 - 3 5 60.0 3 5 8 0 2 1 3 3 -
+p179
+aVGary Payton SEA 03/17/1992 SEA vs. GOS L 34 17 8 18 44.4 0 1 0.0 1 2 50.0 2 2 4 4 3 0 4 4 -
+p180
+aVDana Barros SEA 03/17/1992 SEA vs. GOS L 16 5 2 3 66.7 0 1 0.0 1 1 100.0 0 0 0 1 1 0 0 2 -
+p181
+aVEddie Johnson SEA 03/17/1992 SEA vs. GOS L 31 13 6 11 54.5 0 0 - 1 1 100.0 3 0 3 0 1 0 2 4 -
+p182
+aVTony Brown SEA 03/17/1992 SEA vs. GOS L 11 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 0 1 0 1 1 -
+p183
+aVNate McMillan SEA 03/15/1992 SEA vs. DAL W 32 4 2 6 33.3 0 1 0.0 0 0 - 2 2 4 3 2 0 2 5 -
+p184
+aVRicky Pierce SEA 03/15/1992 SEA vs. DAL W 30 23 7 16 43.8 0 0 - 9 12 75.0 1 1 2 5 1 1 3 2 -
+p185
+aVGary Payton SEA 03/15/1992 SEA vs. DAL W 32 6 1 9 11.1 0 0 - 4 6 66.7 3 5 8 8 3 0 2 4 -
+p186
+aVBenoit Benjamin SEA 03/15/1992 SEA vs. DAL W 25 9 3 7 42.9 0 0 - 3 6 50.0 1 4 5 0 1 1 0 2 -
+p187
+aVDana Barros SEA 03/15/1992 SEA vs. DAL W 18 15 5 8 62.5 2 4 50.0 3 4 75.0 0 1 1 1 1 0 1 0 -
+p188
+aVEddie Johnson SEA 03/15/1992 SEA vs. DAL W 24 12 5 11 45.5 0 0 - 2 3 66.7 2 0 2 4 0 0 0 0 -
+p189
+aVShawn Kemp SEA 03/15/1992 SEA vs. DAL W 31 20 6 13 46.2 0 0 - 8 10 80.0 5 10 15 1 2 4 0 4 -
+p190
+aVMichael Cage SEA 03/15/1992 SEA vs. DAL W 25 7 2 5 40.0 0 0 - 3 4 75.0 1 2 3 0 1 0 1 3 -
+p191
+aVDerrick McKey SEA 03/15/1992 SEA vs. DAL W 23 13 4 7 57.1 1 2 50.0 4 4 100.0 1 1 2 4 0 0 1 5 -
+p192
+aVEddie Johnson SEA 03/11/1992 SEA @ LAC W 23 16 7 13 53.8 0 1 0.0 2 2 100.0 2 1 3 2 0 0 2 1 -
+p193
+aVGary Payton SEA 03/11/1992 SEA @ LAC W 33 1 0 8 0.0 0 2 0.0 1 2 50.0 1 0 1 9 2 0 0 1 -
+p194
+aVDerrick McKey SEA 03/11/1992 SEA @ LAC W 32 18 5 8 62.5 2 3 66.7 6 6 100.0 0 5 5 0 2 2 2 4 -
+p195
+aVBenoit Benjamin SEA 03/11/1992 SEA @ LAC W 26 18 9 12 75.0 0 0 - 0 0 - 2 4 6 0 0 3 4 5 -
+p196
+aVNate McMillan SEA 03/11/1992 SEA @ LAC W 23 10 4 6 66.7 2 2 100.0 0 3 0.0 1 1 2 4 5 0 0 1 -
+p197
+aVRicky Pierce SEA 03/11/1992 SEA @ LAC W 35 19 7 17 41.2 0 0 - 5 6 83.3 2 3 5 6 0 0 1 3 -
+p198
+aVMichael Cage SEA 03/11/1992 SEA @ LAC W 33 10 3 5 60.0 0 0 - 4 5 80.0 1 5 6 0 0 2 0 4 -
+p199
+aVShawn Kemp SEA 03/11/1992 SEA @ LAC W 11 3 0 4 0.0 0 0 - 3 4 75.0 0 1 1 0 0 2 0 5 -
+p200
+aVDana Barros SEA 03/11/1992 SEA @ LAC W 24 9 4 8 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 2 1 -
+p201
+aVMichael Cage SEA 03/10/1992 SEA vs. DET L 25 8 3 6 50.0 0 0 - 2 2 100.0 3 5 8 0 2 1 0 3 -
+p202
+aVGary Payton SEA 03/10/1992 SEA vs. DET L 37 19 7 11 63.6 0 0 - 5 6 83.3 1 4 5 3 2 0 1 3 -
+p203
+aVRicky Pierce SEA 03/10/1992 SEA vs. DET L 35 16 7 15 46.7 0 0 - 2 2 100.0 2 0 2 2 0 0 2 2 -
+p204
+aVBenoit Benjamin SEA 03/10/1992 SEA vs. DET L 19 4 1 3 33.3 0 0 - 2 4 50.0 1 6 7 0 0 1 1 1 -
+p205
+aVDana Barros SEA 03/10/1992 SEA vs. DET L 15 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 0 1 0 0 0 -
+p206
+aVNate McMillan SEA 03/10/1992 SEA vs. DET L 27 6 3 5 60.0 0 1 0.0 0 0 - 1 2 3 5 3 0 0 6 -
+p207
+aVDerrick McKey SEA 03/10/1992 SEA vs. DET L 22 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 1 0 3 2 -
+p208
+aVShawn Kemp SEA 03/10/1992 SEA vs. DET L 32 11 3 13 23.1 0 0 - 5 6 83.3 3 6 9 0 1 1 1 2 -
+p209
+aVEddie Johnson SEA 03/10/1992 SEA vs. DET L 28 14 7 14 50.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 4 -
+p210
+aVDerrick McKey SEA 03/08/1992 SEA @ POR L 22 8 3 9 33.3 0 1 0.0 2 2 100.0 1 1 2 3 0 0 1 5 -
+p211
+aVEddie Johnson SEA 03/08/1992 SEA @ POR L 23 10 3 13 23.1 0 1 0.0 4 4 100.0 2 1 3 1 1 0 2 4 -
+p212
+aVDana Barros SEA 03/08/1992 SEA @ POR L 15 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 0 0 0 2 1 -
+p213
+aVGary Payton SEA 03/08/1992 SEA @ POR L 38 10 5 14 35.7 0 2 0.0 0 0 - 6 2 8 7 1 0 2 4 -
+p214
+aVTony Brown SEA 03/08/1992 SEA @ POR L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p215
+aVBart Kofoed SEA 03/08/1992 SEA @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p216
+aVMichael Cage SEA 03/08/1992 SEA @ POR L 35 12 6 11 54.5 0 0 - 0 0 - 4 5 9 1 0 0 0 1 -
+p217
+aVRicky Pierce SEA 03/08/1992 SEA @ POR L 41 28 8 20 40.0 1 5 20.0 11 13 84.6 6 4 10 5 0 0 4 2 -
+p218
+aVNate McMillan SEA 03/08/1992 SEA @ POR L 25 10 2 5 40.0 1 2 50.0 5 6 83.3 2 2 4 2 1 1 2 5 -
+p219
+aVShawn Kemp SEA 03/08/1992 SEA @ POR L 14 7 2 4 50.0 0 0 - 3 4 75.0 4 3 7 0 2 1 2 4 -
+p220
+aVBenoit Benjamin SEA 03/08/1992 SEA @ POR L 21 6 3 9 33.3 0 0 - 0 0 - 3 3 6 0 0 0 2 4 -
+p221
+aVEddie Johnson SEA 03/07/1992 SEA vs. NJN W 23 17 6 10 60.0 0 0 - 5 5 100.0 1 1 2 1 2 0 6 2 -
+p222
+aVBenoit Benjamin SEA 03/07/1992 SEA vs. NJN W 26 11 5 12 41.7 0 0 - 1 2 50.0 0 8 8 2 3 3 3 0 -
+p223
+aVGary Payton SEA 03/07/1992 SEA vs. NJN W 27 5 2 7 28.6 0 0 - 1 2 50.0 1 4 5 6 2 0 2 3 -
+p224
+aVDerrick McKey SEA 03/07/1992 SEA vs. NJN W 21 4 2 8 25.0 0 0 - 0 0 - 0 2 2 3 1 1 0 0 -
+p225
+aVBart Kofoed SEA 03/07/1992 SEA vs. NJN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p226
+aVMichael Cage SEA 03/07/1992 SEA vs. NJN W 26 13 6 10 60.0 0 0 - 1 1 100.0 2 11 13 1 1 0 0 2 -
+p227
+aVNate McMillan SEA 03/07/1992 SEA vs. NJN W 30 14 7 11 63.6 0 1 0.0 0 0 - 3 3 6 7 4 0 3 5 -
+p228
+aVRicky Pierce SEA 03/07/1992 SEA vs. NJN W 33 27 12 19 63.2 0 0 - 3 5 60.0 1 3 4 5 0 0 0 2 -
+p229
+aVRich King SEA 03/07/1992 SEA vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p230
+aVDana Barros SEA 03/07/1992 SEA vs. NJN W 20 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -
+p231
+aVShawn Kemp SEA 03/07/1992 SEA vs. NJN W 28 9 4 9 44.4 0 0 - 1 3 33.3 3 6 9 1 0 2 1 3 -
+p232
+aVTony Brown SEA 03/05/1992 SEA @ PHX L 16 8 3 6 50.0 1 4 25.0 1 2 50.0 1 2 3 0 0 0 0 3 -
+p233
+aVGary Payton SEA 03/05/1992 SEA @ PHX L 40 10 5 15 33.3 0 0 - 0 0 - 2 4 6 12 2 0 0 4 -
+p234
+aVEddie Johnson SEA 03/05/1992 SEA @ PHX L 24 6 2 7 28.6 0 0 - 2 2 100.0 2 1 3 1 1 0 3 2 -
+p235
+aVDana Barros SEA 03/05/1992 SEA @ PHX L 26 19 8 10 80.0 1 2 50.0 2 3 66.7 0 1 1 1 1 0 0 3 -
+p236
+aVBart Kofoed SEA 03/05/1992 SEA @ PHX L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p237
+aVShawn Kemp SEA 03/05/1992 SEA @ PHX L 32 18 3 12 25.0 0 0 - 12 14 85.7 5 14 19 1 2 4 3 6 -
+p238
+aVRicky Pierce SEA 03/05/1992 SEA @ PHX L 26 23 9 17 52.9 1 2 50.0 4 5 80.0 0 0 0 1 0 0 1 3 -
+p239
+aVMarty Conlon SEA 03/05/1992 SEA @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -
+p240
+aVMichael Cage SEA 03/05/1992 SEA @ PHX L 20 5 2 6 33.3 0 0 - 1 2 50.0 4 1 5 0 0 0 0 1 -
+p241
+aVNate McMillan SEA 03/05/1992 SEA @ PHX L 24 6 3 9 33.3 0 1 0.0 0 0 - 4 2 6 4 0 0 2 6 -
+p242
+aVBenoit Benjamin SEA 03/05/1992 SEA @ PHX L 24 8 3 11 27.3 0 0 - 2 4 50.0 1 3 4 0 1 2 2 4 -
+p243
+aVShawn Kemp SEA 03/03/1992 SEA vs. DEN W 27 21 6 10 60.0 0 0 - 9 11 81.8 6 7 13 2 3 1 1 4 -
+p244
+aVMichael Cage SEA 03/03/1992 SEA vs. DEN W 24 11 5 8 62.5 0 0 - 1 2 50.0 2 5 7 1 0 0 0 1 -
+p245
+aVTony Brown SEA 03/03/1992 SEA vs. DEN W 16 12 5 10 50.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -
+p246
+aVRich King SEA 03/03/1992 SEA vs. DEN W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 2 1 -
+p247
+aVDana Barros SEA 03/03/1992 SEA vs. DEN W 25 9 4 7 57.1 0 1 0.0 1 2 50.0 1 0 1 4 0 0 3 0 -
+p248
+aVNate McMillan SEA 03/03/1992 SEA vs. DEN W 29 5 2 6 33.3 0 3 0.0 1 4 25.0 1 4 5 2 0 0 4 0 -
+p249
+aVRicky Pierce SEA 03/03/1992 SEA vs. DEN W 27 16 6 12 50.0 1 1 100.0 3 3 100.0 0 0 0 4 2 0 3 2 -
+p250
+aVBenoit Benjamin SEA 03/03/1992 SEA vs. DEN W 28 17 8 12 66.7 0 0 - 1 2 50.0 2 4 6 0 1 1 3 3 -
+p251
+aVBart Kofoed SEA 03/03/1992 SEA vs. DEN W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 4 1 0 1 2 -
+p252
+aVMarty Conlon SEA 03/03/1992 SEA vs. DEN W 4 2 0 0 - 0 0 - 2 4 50.0 2 2 4 0 1 0 0 0 -
+p253
+aVGary Payton SEA 03/03/1992 SEA vs. DEN W 25 6 3 7 42.9 0 0 - 0 0 - 1 1 2 9 2 0 0 4 -
+p254
+aVEddie Johnson SEA 03/03/1992 SEA vs. DEN W 19 7 2 7 28.6 0 0 - 3 4 75.0 1 2 3 2 0 0 2 3 -
+p255
+aVMichael Cage SEA 03/01/1992 SEA vs. CLE W 37 16 6 11 54.5 0 0 - 4 4 100.0 6 8 14 1 1 0 0 4 -
+p256
+aVEddie Johnson SEA 03/01/1992 SEA vs. CLE W 37 22 11 19 57.9 0 0 - 0 0 - 2 3 5 4 1 0 3 4 -
+p257
+aVDana Barros SEA 03/01/1992 SEA vs. CLE W 13 9 3 5 60.0 1 1 100.0 2 2 100.0 0 0 0 4 0 0 1 0 -
+p258
+aVShawn Kemp SEA 03/01/1992 SEA vs. CLE W 18 8 4 9 44.4 0 0 - 0 0 - 2 3 5 0 1 1 2 6 -
+p259
+aVRicky Pierce SEA 03/01/1992 SEA vs. CLE W 33 22 7 14 50.0 0 1 0.0 8 8 100.0 1 3 4 6 0 0 5 3 -
+p260
+aVNate McMillan SEA 03/01/1992 SEA vs. CLE W 28 7 3 9 33.3 1 2 50.0 0 0 - 5 4 9 2 2 0 3 2 -
+p261
+aVBenoit Benjamin SEA 03/01/1992 SEA vs. CLE W 33 12 5 8 62.5 0 0 - 2 3 66.7 3 11 14 5 1 1 5 2 -
+p262
+aVGary Payton SEA 03/01/1992 SEA vs. CLE W 36 13 6 11 54.5 1 1 100.0 0 0 - 0 1 1 5 3 0 2 3 -
+p263
+aVTony Brown SEA 03/01/1992 SEA vs. CLE W 5 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 1 0 0 0 0 -
+p264
+aVBenoit Benjamin SEA 02/29/1992 SEA @ SAC L 20 9 4 9 44.4 0 0 - 1 1 100.0 2 6 8 0 0 2 2 2 -
+p265
+aVShawn Kemp SEA 02/29/1992 SEA @ SAC L 28 14 6 10 60.0 0 0 - 2 2 100.0 3 2 5 4 3 3 2 2 -
+p266
+aVMarty Conlon SEA 02/29/1992 SEA @ SAC L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p267
+aVDana Barros SEA 02/29/1992 SEA @ SAC L 30 19 9 13 69.2 1 4 25.0 0 0 - 1 5 6 4 1 0 1 1 -
+p268
+aVGary Payton SEA 02/29/1992 SEA @ SAC L 30 14 7 10 70.0 0 0 - 0 0 - 1 1 2 7 5 0 1 4 -
+p269
+aVRicky Pierce SEA 02/29/1992 SEA @ SAC L 31 15 6 13 46.2 1 4 25.0 2 3 66.7 0 1 1 4 3 0 5 3 -
+p270
+aVEddie Johnson SEA 02/29/1992 SEA @ SAC L 25 21 7 19 36.8 1 3 33.3 6 6 100.0 1 1 2 2 0 0 1 4 -
+p271
+aVNate McMillan SEA 02/29/1992 SEA @ SAC L 28 9 4 9 44.4 1 3 33.3 0 2 0.0 1 0 1 3 1 0 0 4 -
+p272
+aVRich King SEA 02/29/1992 SEA @ SAC L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 -
+p273
+aVTony Brown SEA 02/29/1992 SEA @ SAC L 11 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 0 4 0 1 1 -
+p274
+aVMichael Cage SEA 02/29/1992 SEA @ SAC L 27 4 2 6 33.3 0 0 - 0 0 - 5 2 7 2 0 0 1 2 -
+p275
+aVNate McMillan SEA 02/27/1992 SEA @ UTH W 36 12 5 8 62.5 1 2 50.0 1 2 50.0 0 3 3 7 3 4 1 4 -
+p276
+aVShawn Kemp SEA 02/27/1992 SEA @ UTH W 31 13 6 12 50.0 0 0 - 1 2 50.0 3 6 9 3 1 2 4 4 -
+p277
+aVGary Payton SEA 02/27/1992 SEA @ UTH W 34 4 2 10 20.0 0 1 0.0 0 0 - 0 4 4 7 2 0 1 5 -
+p278
+aVDana Barros SEA 02/27/1992 SEA @ UTH W 17 11 4 4 100.0 3 3 100.0 0 0 - 0 3 3 2 1 0 1 3 -
+p279
+aVTony Brown SEA 02/27/1992 SEA @ UTH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p280
+aVMichael Cage SEA 02/27/1992 SEA @ UTH W 34 10 4 4 100.0 0 0 - 2 6 33.3 3 5 8 2 0 1 1 4 -
+p281
+aVBenoit Benjamin SEA 02/27/1992 SEA @ UTH W 39 17 8 15 53.3 0 0 - 1 1 100.0 4 3 7 2 0 2 1 4 -
+p282
+aVRicky Pierce SEA 02/27/1992 SEA @ UTH W 39 29 10 18 55.6 0 1 0.0 9 10 90.0 2 5 7 6 2 0 2 2 -
+p283
+aVEddie Johnson SEA 02/27/1992 SEA @ UTH W 31 32 8 15 53.3 0 2 0.0 16 18 88.9 1 1 2 2 0 0 2 2 -
+p284
+aVBart Kofoed SEA 02/27/1992 SEA @ UTH W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p285
+aVGary Payton SEA 02/24/1992 SEA @ MIN W 25 5 2 7 28.6 0 1 0.0 1 2 50.0 2 1 3 4 1 0 3 2 -
+p286
+aVDana Barros SEA 02/24/1992 SEA @ MIN W 17 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 4 1 0 1 0 -
+p287
+aVNate McMillan SEA 02/24/1992 SEA @ MIN W 33 8 4 8 50.0 0 0 - 0 0 - 2 6 8 8 3 2 3 2 -
+p288
+aVBart Kofoed SEA 02/24/1992 SEA @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p289
+aVEddie Johnson SEA 02/24/1992 SEA @ MIN W 33 26 10 17 58.8 0 1 0.0 6 8 75.0 1 1 2 3 1 1 1 1 -
+p290
+aVRicky Pierce SEA 02/24/1992 SEA @ MIN W 31 9 4 13 30.8 0 1 0.0 1 1 100.0 0 4 4 5 0 2 0 0 -
+p291
+aVMichael Cage SEA 02/24/1992 SEA @ MIN W 25 4 2 3 66.7 0 0 - 0 2 0.0 3 4 7 2 0 1 0 2 -
+p292
+aVShawn Kemp SEA 02/24/1992 SEA @ MIN W 28 21 9 15 60.0 0 1 0.0 3 4 75.0 7 8 15 2 0 4 2 6 -
+p293
+aVBenoit Benjamin SEA 02/24/1992 SEA @ MIN W 32 24 10 20 50.0 0 0 - 4 6 66.7 0 7 7 1 0 1 0 4 -
+p294
+aVTony Brown SEA 02/24/1992 SEA @ MIN W 15 2 1 4 25.0 0 0 - 0 0 - 1 1 2 3 0 0 1 1 -
+p295
+aVBenoit Benjamin SEA 02/22/1992 SEA vs. POR W 35 13 4 15 26.7 0 0 - 5 6 83.3 7 6 13 2 0 2 2 3 -
+p296
+aVEddie Johnson SEA 02/22/1992 SEA vs. POR W 34 29 11 23 47.8 0 3 0.0 7 9 77.8 1 6 7 4 1 1 1 2 -
+p297
+aVMichael Cage SEA 02/22/1992 SEA vs. POR W 27 8 4 4 100.0 0 0 - 0 0 - 1 4 5 0 1 0 0 4 -
+p298
+aVMarty Conlon SEA 02/22/1992 SEA vs. POR W 11 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -
+p299
+aVTony Brown SEA 02/22/1992 SEA vs. POR W 12 2 0 5 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 2 -
+p300
+aVNate McMillan SEA 02/22/1992 SEA vs. POR W 32 20 8 12 66.7 2 3 66.7 2 3 66.7 1 4 5 8 2 0 2 3 -
+p301
+aVBart Kofoed SEA 02/22/1992 SEA vs. POR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p302
+aVGary Payton SEA 02/22/1992 SEA vs. POR W 35 13 5 11 45.5 0 1 0.0 3 3 100.0 0 2 2 8 2 0 1 4 -
+p303
+aVDana Barros SEA 02/22/1992 SEA vs. POR W 25 15 4 9 44.4 3 6 50.0 4 4 100.0 0 3 3 2 0 0 0 2 -
+p304
+aVRich King SEA 02/22/1992 SEA vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p305
+aVShawn Kemp SEA 02/22/1992 SEA vs. POR W 27 11 5 10 50.0 0 0 - 1 3 33.3 1 5 6 1 1 2 3 6 -
+p306
+aVShawn Kemp SEA 02/20/1992 SEA vs. LAL W 22 19 8 12 66.7 0 0 - 3 3 100.0 6 5 11 0 0 0 1 4 -
+p307
+aVRicky Pierce SEA 02/20/1992 SEA vs. LAL W 34 19 7 19 36.8 0 2 0.0 5 6 83.3 2 4 6 3 1 1 4 3 -
+p308
+aVEddie Johnson SEA 02/20/1992 SEA vs. LAL W 31 24 11 19 57.9 0 0 - 2 2 100.0 2 0 2 3 1 0 1 0 -
+p309
+aVBenoit Benjamin SEA 02/20/1992 SEA vs. LAL W 31 13 6 13 46.2 0 0 - 1 2 50.0 2 5 7 0 1 1 4 4 -
+p310
+aVTony Brown SEA 02/20/1992 SEA vs. LAL W 18 10 4 7 57.1 2 3 66.7 0 0 - 1 0 1 2 0 0 1 1 -
+p311
+aVNate McMillan SEA 02/20/1992 SEA vs. LAL W 19 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 4 0 1 0 4 -
+p312
+aVGary Payton SEA 02/20/1992 SEA vs. LAL W 28 2 1 4 25.0 0 0 - 0 0 - 0 1 1 7 0 0 1 2 -
+p313
+aVDana Barros SEA 02/20/1992 SEA vs. LAL W 20 5 1 4 25.0 1 2 50.0 2 2 100.0 0 2 2 1 1 0 1 2 -
+p314
+aVBart Kofoed SEA 02/20/1992 SEA vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p315
+aVMichael Cage SEA 02/20/1992 SEA vs. LAL W 34 8 2 7 28.6 0 1 0.0 4 4 100.0 7 7 14 2 2 1 2 3 -
+p316
+aVMichael Cage SEA 02/17/1992 SEA vs. PHX W 18 1 0 4 0.0 0 0 - 1 4 25.0 4 2 6 0 0 0 2 0 -
+p317
+aVRicky Pierce SEA 02/17/1992 SEA vs. PHX W 34 16 5 14 35.7 0 1 0.0 6 6 100.0 2 2 4 1 0 0 4 3 -
+p318
+aVEddie Johnson SEA 02/17/1992 SEA vs. PHX W 33 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 2 -
+p319
+aVShawn Kemp SEA 02/17/1992 SEA vs. PHX W 38 24 7 17 41.2 0 0 - 10 13 76.9 10 4 14 3 2 5 3 3 -
+p320
+aVGary Payton SEA 02/17/1992 SEA vs. PHX W 37 12 6 12 50.0 0 1 0.0 0 0 - 0 5 5 8 4 0 2 5 -
+p321
+aVBenoit Benjamin SEA 02/17/1992 SEA vs. PHX W 30 12 5 12 41.7 0 0 - 2 3 66.7 5 7 12 2 1 1 3 4 -
+p322
+aVNate McMillan SEA 02/17/1992 SEA vs. PHX W 15 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 2 1 0 1 3 -
+p323
+aVDana Barros SEA 02/17/1992 SEA vs. PHX W 23 17 7 12 58.3 1 3 33.3 2 2 100.0 0 3 3 1 2 0 0 2 -
+p324
+aVTony Brown SEA 02/17/1992 SEA vs. PHX W 12 6 1 4 25.0 0 0 - 4 4 100.0 2 1 3 0 1 0 0 2 -
+p325
+aVShawn Kemp SEA 02/15/1992 SEA @ GOS L 21 6 3 7 42.9 0 0 - 0 1 0.0 3 5 8 2 2 1 2 6 -
+p326
+aVRich King SEA 02/15/1992 SEA @ GOS L 6 6 2 3 66.7 0 0 - 2 3 66.7 0 1 1 1 0 0 0 0 -
+p327
+aVRicky Pierce SEA 02/15/1992 SEA @ GOS L 26 8 2 7 28.6 0 1 0.0 4 4 100.0 1 1 2 0 1 0 2 6 -
+p328
+aVDana Barros SEA 02/15/1992 SEA @ GOS L 18 10 4 10 40.0 2 4 50.0 0 0 - 1 0 1 2 0 1 3 1 -
+p329
+aVBart Kofoed SEA 02/15/1992 SEA @ GOS L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -
+p330
+aVGary Payton SEA 02/15/1992 SEA @ GOS L 24 4 2 5 40.0 0 0 - 0 0 - 1 2 3 10 0 0 1 4 -
+p331
+aVTony Brown SEA 02/15/1992 SEA @ GOS L 26 11 4 10 40.0 0 3 0.0 3 4 75.0 2 2 4 2 2 1 3 2 -
+p332
+aVNate McMillan SEA 02/15/1992 SEA @ GOS L 29 10 5 12 41.7 0 2 0.0 0 3 0.0 2 1 3 6 2 0 5 4 -
+p333
+aVMarty Conlon SEA 02/15/1992 SEA @ GOS L 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p334
+aVMichael Cage SEA 02/15/1992 SEA @ GOS L 16 14 7 9 77.8 0 0 - 0 0 - 2 2 4 0 0 2 1 2 -
+p335
+aVEddie Johnson SEA 02/15/1992 SEA @ GOS L 34 28 12 22 54.5 0 2 0.0 4 5 80.0 1 3 4 6 0 0 2 4 -
+p336
+aVBenoit Benjamin SEA 02/15/1992 SEA @ GOS L 28 21 8 13 61.5 0 0 - 5 7 71.4 5 6 11 2 0 4 2 2 -
+p337
+aVNate McMillan SEA 02/14/1992 SEA vs. SAN W 28 0 0 5 0.0 0 2 0.0 0 0 - 1 4 5 8 3 0 2 1 -
+p338
+aVGary Payton SEA 02/14/1992 SEA vs. SAN W 28 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 4 4 0 0 4 -
+p339
+aVMarty Conlon SEA 02/14/1992 SEA vs. SAN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 3 0 -
+p340
+aVBenoit Benjamin SEA 02/14/1992 SEA vs. SAN W 34 14 7 10 70.0 0 0 - 0 0 - 0 8 8 3 1 2 2 4 -
+p341
+aVEddie Johnson SEA 02/14/1992 SEA vs. SAN W 26 22 10 16 62.5 0 0 - 2 2 100.0 0 1 1 2 0 0 0 2 -
+p342
+aVShawn Kemp SEA 02/14/1992 SEA vs. SAN W 29 13 6 12 50.0 0 0 - 1 1 100.0 2 2 4 1 0 0 4 3 -
+p343
+aVBart Kofoed SEA 02/14/1992 SEA vs. SAN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -
+p344
+aVDana Barros SEA 02/14/1992 SEA vs. SAN W 22 16 7 14 50.0 2 4 50.0 0 0 - 2 1 3 2 3 0 0 0 -
+p345
+aVTony Brown SEA 02/14/1992 SEA vs. SAN W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p346
+aVRich King SEA 02/14/1992 SEA vs. SAN W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p347
+aVRicky Pierce SEA 02/14/1992 SEA vs. SAN W 30 23 9 16 56.3 0 3 0.0 5 5 100.0 0 0 0 6 0 0 2 2 -
+p348
+aVMichael Cage SEA 02/14/1992 SEA vs. SAN W 25 8 4 6 66.7 0 0 - 0 2 0.0 3 7 10 2 1 0 1 3 -
+p349
+aVGary Payton SEA 02/11/1992 SEA vs. HOU W 27 4 2 6 33.3 0 0 - 0 1 0.0 1 0 1 4 3 0 2 1 -
+p350
+aVShawn Kemp SEA 02/11/1992 SEA vs. HOU W 19 14 6 10 60.0 0 0 - 2 2 100.0 3 6 9 1 2 2 0 2 -
+p351
+aVMichael Cage SEA 02/11/1992 SEA vs. HOU W 38 8 3 8 37.5 0 0 - 2 4 50.0 2 8 10 2 2 2 0 5 -
+p352
+aVEddie Johnson SEA 02/11/1992 SEA vs. HOU W 30 15 5 14 35.7 1 1 100.0 4 4 100.0 0 2 2 4 0 0 0 4 -
+p353
+aVDana Barros SEA 02/11/1992 SEA vs. HOU W 21 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 3 -
+p354
+aVRicky Pierce SEA 02/11/1992 SEA vs. HOU W 36 31 11 23 47.8 1 2 50.0 8 8 100.0 2 2 4 1 2 0 4 3 -
+p355
+aVTony Brown SEA 02/11/1992 SEA vs. HOU W 11 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -
+p356
+aVBenoit Benjamin SEA 02/11/1992 SEA vs. HOU W 25 12 5 10 50.0 0 0 - 2 2 100.0 5 1 6 0 0 1 0 3 -
+p357
+aVNate McMillan SEA 02/11/1992 SEA vs. HOU W 33 10 4 9 44.4 0 2 0.0 2 2 100.0 2 4 6 4 1 0 4 4 -
+p358
+aVBenoit Benjamin SEA 02/05/1992 SEA @ NJN W 28 12 5 14 35.7 0 0 - 2 2 100.0 3 7 10 1 0 2 4 1 -
+p359
+aVRicky Pierce SEA 02/05/1992 SEA @ NJN W 35 19 6 14 42.9 1 2 50.0 6 6 100.0 0 1 1 3 1 1 3 2 -
+p360
+aVShawn Kemp SEA 02/05/1992 SEA @ NJN W 20 10 4 7 57.1 0 0 - 2 3 66.7 5 1 6 1 1 0 3 6 -
+p361
+aVNate McMillan SEA 02/05/1992 SEA @ NJN W 30 2 1 5 20.0 0 0 - 0 0 - 3 1 4 4 1 1 0 5 -
+p362
+aVEddie Johnson SEA 02/05/1992 SEA @ NJN W 26 13 5 10 50.0 0 0 - 3 3 100.0 0 2 2 1 0 0 4 3 -
+p363
+aVDana Barros SEA 02/05/1992 SEA @ NJN W 15 2 0 6 0.0 0 3 0.0 2 4 50.0 0 1 1 3 1 1 1 1 -
+p364
+aVMichael Cage SEA 02/05/1992 SEA @ NJN W 31 10 5 8 62.5 0 0 - 0 0 - 2 6 8 0 5 0 1 3 -
+p365
+aVTony Brown SEA 02/05/1992 SEA @ NJN W 18 9 3 8 37.5 1 2 50.0 2 2 100.0 1 4 5 1 3 1 2 0 -
+p366
+aVGary Payton SEA 02/05/1992 SEA @ NJN W 37 18 8 15 53.3 0 0 - 2 3 66.7 1 2 3 3 5 2 0 4 -
+p367
+aVShawn Kemp SEA 02/03/1992 SEA @ ATL W 30 16 6 11 54.5 0 0 - 4 5 80.0 5 10 15 2 1 2 4 4 -
+p368
+aVGary Payton SEA 02/03/1992 SEA @ ATL W 40 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 12 5 0 3 3 -
+p369
+aVTony Brown SEA 02/03/1992 SEA @ ATL W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -
+p370
+aVRicky Pierce SEA 02/03/1992 SEA @ ATL W 34 26 7 16 43.8 2 4 50.0 10 10 100.0 1 2 3 2 2 0 5 5 -
+p371
+aVBenoit Benjamin SEA 02/03/1992 SEA @ ATL W 28 17 8 14 57.1 0 0 - 1 1 100.0 4 7 11 1 0 2 2 3 -
+p372
+aVNate McMillan SEA 02/03/1992 SEA @ ATL W 17 0 0 4 0.0 0 0 - 0 0 - 1 2 3 5 2 1 1 2 -
+p373
+aVDana Barros SEA 02/03/1992 SEA @ ATL W 22 11 4 8 50.0 2 2 100.0 1 2 50.0 0 1 1 2 2 0 0 3 -
+p374
+aVMichael Cage SEA 02/03/1992 SEA @ ATL W 30 13 6 13 46.2 0 0 - 1 2 50.0 3 4 7 0 0 2 0 3 -
+p375
+aVEddie Johnson SEA 02/03/1992 SEA @ ATL W 30 22 9 18 50.0 0 1 0.0 4 4 100.0 2 4 6 3 2 1 5 4 -
+p376
+aVDana Barros SEA 02/02/1992 SEA @ MIL L 24 9 3 11 27.3 0 3 0.0 3 4 75.0 1 0 1 1 1 0 2 1 -
+p377
+aVGary Payton SEA 02/02/1992 SEA @ MIL L 28 10 5 8 62.5 0 0 - 0 0 - 1 1 2 2 2 1 3 4 -
+p378
+aVBenoit Benjamin SEA 02/02/1992 SEA @ MIL L 31 19 8 15 53.3 0 0 - 3 4 75.0 6 7 13 1 1 0 4 2 -
+p379
+aVBart Kofoed SEA 02/02/1992 SEA @ MIL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p380
+aVShawn Kemp SEA 02/02/1992 SEA @ MIL L 26 17 5 9 55.6 0 0 - 7 10 70.0 4 2 6 2 0 1 0 4 -
+p381
+aVTony Brown SEA 02/02/1992 SEA @ MIL L 16 11 4 9 44.4 1 2 50.0 2 2 100.0 3 0 3 4 0 0 3 1 -
+p382
+aVMarty Conlon SEA 02/02/1992 SEA @ MIL L 8 7 3 4 75.0 0 0 - 1 1 100.0 1 3 4 0 0 0 0 0 -
+p383
+aVRicky Pierce SEA 02/02/1992 SEA @ MIL L 29 12 5 13 38.5 0 1 0.0 2 2 100.0 0 1 1 3 3 1 2 3 -
+p384
+aVMichael Cage SEA 02/02/1992 SEA @ MIL L 15 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 1 0 0 2 -
+p385
+aVEddie Johnson SEA 02/02/1992 SEA @ MIL L 26 4 1 9 11.1 0 0 - 2 2 100.0 1 0 1 3 1 0 2 1 -
+p386
+aVNate McMillan SEA 02/02/1992 SEA @ MIL L 23 7 2 6 33.3 1 1 100.0 2 2 100.0 1 4 5 3 3 1 4 6 -
+p387
+aVRich King SEA 02/02/1992 SEA @ MIL L 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p388
+aVBenoit Benjamin SEA 01/31/1992 SEA @ CHH W 13 4 2 7 28.6 0 0 - 0 0 - 0 3 3 1 0 4 3 1 -
+p389
+aVDana Barros SEA 01/31/1992 SEA @ CHH W 22 12 4 9 44.4 2 4 50.0 2 2 100.0 1 1 2 1 0 0 1 4 -
+p390
+aVNate McMillan SEA 01/31/1992 SEA @ CHH W 19 8 3 5 60.0 0 0 - 2 2 100.0 4 1 5 8 1 1 1 4 -
+p391
+aVMichael Cage SEA 01/31/1992 SEA @ CHH W 25 8 4 5 80.0 0 0 - 0 2 0.0 2 5 7 1 1 0 0 5 -
+p392
+aVTony Brown SEA 01/31/1992 SEA @ CHH W 16 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 2 3 1 1 3 -
+p393
+aVShawn Kemp SEA 01/31/1992 SEA @ CHH W 31 22 10 23 43.5 0 0 - 2 5 40.0 9 12 21 2 2 4 0 4 -
+p394
+aVGary Payton SEA 01/31/1992 SEA @ CHH W 26 6 3 8 37.5 0 0 - 0 0 - 1 2 3 4 1 2 1 3 -
+p395
+aVRicky Pierce SEA 01/31/1992 SEA @ CHH W 38 26 8 20 40.0 0 1 0.0 10 10 100.0 2 1 3 7 1 0 3 1 -
+p396
+aVMarty Conlon SEA 01/31/1992 SEA @ CHH W 10 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 0 1 -
+p397
+aVEddie Johnson SEA 01/31/1992 SEA @ CHH W 40 30 12 26 46.2 0 3 0.0 6 6 100.0 2 2 4 4 0 0 4 3 -
+p398
+aVShawn Kemp SEA 01/29/1992 SEA @ MIA L 31 25 11 17 64.7 0 0 - 3 4 75.0 9 7 16 0 0 4 3 4 -
+p399
+aVEddie Johnson SEA 01/29/1992 SEA @ MIA L 39 23 10 26 38.5 0 3 0.0 3 4 75.0 0 5 5 3 1 0 0 3 -
+p400
+aVDana Barros SEA 01/29/1992 SEA @ MIA L 15 9 4 11 36.4 1 4 25.0 0 0 - 0 1 1 0 0 0 1 2 -
+p401
+aVBenoit Benjamin SEA 01/29/1992 SEA @ MIA L 28 15 5 12 41.7 0 0 - 5 5 100.0 2 5 7 2 0 2 2 3 -
+p402
+aVMichael Cage SEA 01/29/1992 SEA @ MIA L 25 4 2 3 66.7 0 0 - 0 0 - 3 3 6 1 2 0 0 3 -
+p403
+aVNate McMillan SEA 01/29/1992 SEA @ MIA L 28 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 4 0 2 4 -
+p404
+aVTony Brown SEA 01/29/1992 SEA @ MIA L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p405
+aVRicky Pierce SEA 01/29/1992 SEA @ MIA L 33 28 9 16 56.3 1 2 50.0 9 9 100.0 1 1 2 1 3 0 4 5 -
+p406
+aVGary Payton SEA 01/29/1992 SEA @ MIA L 38 8 3 9 33.3 0 0 - 2 2 100.0 2 0 2 11 2 0 2 3 -
+p407
+aVMichael Cage SEA 01/28/1992 SEA @ ORL W 36 6 3 7 42.9 0 0 - 0 0 - 2 3 5 2 2 0 1 1 -
+p408
+aVGary Payton SEA 01/28/1992 SEA @ ORL W 38 6 3 9 33.3 0 0 - 0 2 0.0 3 1 4 7 2 0 6 3 -
+p409
+aVEddie Johnson SEA 01/28/1992 SEA @ ORL W 39 39 17 31 54.8 0 2 0.0 5 7 71.4 3 8 11 3 5 0 0 4 -
+p410
+aVNate McMillan SEA 01/28/1992 SEA @ ORL W 22 2 1 4 25.0 0 1 0.0 0 0 - 2 2 4 4 1 0 0 5 -
+p411
+aVShawn Kemp SEA 01/28/1992 SEA @ ORL W 22 6 1 7 14.3 0 0 - 4 6 66.7 5 2 7 0 1 2 2 3 -
+p412
+aVDana Barros SEA 01/28/1992 SEA @ ORL W 17 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 -
+p413
+aVRicky Pierce SEA 01/28/1992 SEA @ ORL W 37 25 11 21 52.4 0 0 - 3 4 75.0 3 3 6 4 4 0 3 3 -
+p414
+aVBenoit Benjamin SEA 01/28/1992 SEA @ ORL W 29 15 5 10 50.0 0 0 - 5 8 62.5 0 2 2 0 1 3 0 2 -
+p415
+aVGary Payton SEA 01/25/1992 SEA vs. UTH L 36 19 9 13 69.2 0 0 - 1 1 100.0 1 3 4 8 2 0 3 4 -
+p416
+aVDana Barros SEA 01/25/1992 SEA vs. UTH L 14 5 1 2 50.0 1 2 50.0 2 2 100.0 0 2 2 2 0 0 1 1 -
+p417
+aVRicky Pierce SEA 01/25/1992 SEA vs. UTH L 43 22 7 14 50.0 0 0 - 8 9 88.9 0 2 2 3 0 0 2 1 -
+p418
+aVMichael Cage SEA 01/25/1992 SEA vs. UTH L 25 10 5 6 83.3 0 0 - 0 2 0.0 1 5 6 1 0 1 0 3 -
+p419
+aVEddie Johnson SEA 01/25/1992 SEA vs. UTH L 36 12 6 16 37.5 0 1 0.0 0 0 - 1 0 1 4 1 0 2 4 -
+p420
+aVShawn Kemp SEA 01/25/1992 SEA vs. UTH L 29 9 3 12 25.0 0 0 - 3 4 75.0 4 8 12 2 0 1 3 6 -
+p421
+aVBenoit Benjamin SEA 01/25/1992 SEA vs. UTH L 38 22 11 14 78.6 0 0 - 0 0 - 1 8 9 0 0 2 2 4 -
+p422
+aVMarty Conlon SEA 01/25/1992 SEA vs. UTH L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p423
+aVBart Kofoed SEA 01/25/1992 SEA vs. UTH L 14 4 1 3 33.3 0 0 - 2 3 66.7 0 1 1 2 0 0 1 0 -
+p424
+aVGary Payton SEA 01/23/1992 SEA vs. POR L 40 17 8 12 66.7 0 1 0.0 1 2 50.0 2 6 8 7 3 0 5 4 -
+p425
+aVShawn Kemp SEA 01/23/1992 SEA vs. POR L 35 26 12 20 60.0 0 0 - 2 3 66.7 3 6 9 1 3 4 0 2 -
+p426
+aVBenoit Benjamin SEA 01/23/1992 SEA vs. POR L 37 11 3 12 25.0 0 0 - 5 6 83.3 0 5 5 0 0 2 1 2 -
+p427
+aVEddie Johnson SEA 01/23/1992 SEA vs. POR L 40 11 4 16 25.0 1 2 50.0 2 2 100.0 5 4 9 2 0 1 3 1 -
+p428
+aVMichael Cage SEA 01/23/1992 SEA vs. POR L 25 6 1 6 16.7 0 0 - 4 4 100.0 3 5 8 0 2 0 0 4 -
+p429
+aVRicky Pierce SEA 01/23/1992 SEA vs. POR L 43 25 8 21 38.1 0 2 0.0 9 9 100.0 0 1 1 8 1 0 0 2 -
+p430
+aVDana Barros SEA 01/23/1992 SEA vs. POR L 17 13 5 9 55.6 2 4 50.0 1 2 50.0 1 1 2 1 1 0 1 1 -
+p431
+aVBart Kofoed SEA 01/23/1992 SEA vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p432
+aVMichael Cage SEA 01/21/1992 SEA vs. ATL L 24 2 1 1 100.0 0 0 - 0 0 - 0 10 10 2 3 1 1 4 -
+p433
+aVEddie Johnson SEA 01/21/1992 SEA vs. ATL L 41 25 10 20 50.0 1 5 20.0 4 4 100.0 2 3 5 2 2 0 1 4 -
+p434
+aVRicky Pierce SEA 01/21/1992 SEA vs. ATL L 39 29 9 23 39.1 0 3 0.0 11 12 91.7 1 2 3 2 1 0 6 4 -
+p435
+aVBenoit Benjamin SEA 01/21/1992 SEA vs. ATL L 35 21 9 14 64.3 0 0 - 3 3 100.0 2 5 7 0 0 2 4 2 -
+p436
+aVGary Payton SEA 01/21/1992 SEA vs. ATL L 36 14 6 12 50.0 0 0 - 2 2 100.0 0 1 1 10 1 0 0 5 -
+p437
+aVDana Barros SEA 01/21/1992 SEA vs. ATL L 16 5 2 9 22.2 1 4 25.0 0 0 - 0 2 2 1 2 0 0 0 -
+p438
+aVMarty Conlon SEA 01/21/1992 SEA vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p439
+aVShawn Kemp SEA 01/21/1992 SEA vs. ATL L 37 21 10 21 47.6 0 0 - 1 3 33.3 5 8 13 0 4 1 3 4 -
+p440
+aVBart Kofoed SEA 01/21/1992 SEA vs. ATL L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -
+p441
+aVRich King SEA 01/21/1992 SEA vs. ATL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p442
+aVDana Barros SEA 01/20/1992 SEA @ LAL L 22 15 6 9 66.7 0 1 0.0 3 4 75.0 1 0 1 3 2 0 3 3 -
+p443
+aVBart Kofoed SEA 01/20/1992 SEA @ LAL L 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 4 1 0 1 2 -
+p444
+aVRicky Pierce SEA 01/20/1992 SEA @ LAL L 34 12 6 16 37.5 0 1 0.0 0 0 - 0 2 2 4 4 1 5 3 -
+p445
+aVEddie Johnson SEA 01/20/1992 SEA @ LAL L 39 29 10 21 47.6 2 3 66.7 7 7 100.0 1 2 3 3 1 0 1 3 -
+p446
+aVBenoit Benjamin SEA 01/20/1992 SEA @ LAL L 27 8 3 7 42.9 0 0 - 2 2 100.0 1 7 8 1 0 1 1 2 -
+p447
+aVMarty Conlon SEA 01/20/1992 SEA @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p448
+aVShawn Kemp SEA 01/20/1992 SEA @ LAL L 29 16 7 13 53.8 0 0 - 2 4 50.0 9 6 15 2 2 2 2 4 -
+p449
+aVMichael Cage SEA 01/20/1992 SEA @ LAL L 32 6 2 7 28.6 0 0 - 2 2 100.0 5 6 11 1 1 2 3 3 -
+p450
+aVRich King SEA 01/20/1992 SEA @ LAL L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 4 -
+p451
+aVGary Payton SEA 01/20/1992 SEA @ LAL L 35 20 7 18 38.9 0 2 0.0 6 6 100.0 3 2 5 6 2 0 2 2 -
+p452
+aVDerrick McKey SEA 01/18/1992 SEA vs. LAL W 20 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 1 1 3 -
+p453
+aVMichael Cage SEA 01/18/1992 SEA vs. LAL W 26 7 2 3 66.7 0 0 - 3 3 100.0 1 9 10 1 0 0 2 2 -
+p454
+aVMarty Conlon SEA 01/18/1992 SEA vs. LAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -
+p455
+aVEddie Johnson SEA 01/18/1992 SEA vs. LAL W 36 24 8 16 50.0 1 4 25.0 7 7 100.0 2 4 6 3 0 0 1 2 -
+p456
+aVBart Kofoed SEA 01/18/1992 SEA vs. LAL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p457
+aVShawn Kemp SEA 01/18/1992 SEA vs. LAL W 22 8 4 8 50.0 0 1 0.0 0 0 - 3 3 6 1 0 1 3 6 -
+p458
+aVGary Payton SEA 01/18/1992 SEA vs. LAL W 37 19 9 16 56.3 0 1 0.0 1 1 100.0 2 3 5 3 2 0 4 2 -
+p459
+aVRicky Pierce SEA 01/18/1992 SEA vs. LAL W 34 28 11 15 73.3 0 1 0.0 6 8 75.0 0 5 5 1 2 0 2 0 -
+p460
+aVDana Barros SEA 01/18/1992 SEA vs. LAL W 18 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 -
+p461
+aVBenoit Benjamin SEA 01/18/1992 SEA vs. LAL W 36 15 5 11 45.5 0 0 - 5 6 83.3 2 7 9 4 0 1 5 5 -
+p462
+aVBart Kofoed SEA 01/16/1992 SEA vs. LAC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -
+p463
+aVShawn Kemp SEA 01/16/1992 SEA vs. LAC W 37 16 5 10 50.0 0 0 - 6 8 75.0 4 15 19 1 1 5 3 5 -
+p464
+aVDana Barros SEA 01/16/1992 SEA vs. LAC W 14 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -
+p465
+aVRicky Pierce SEA 01/16/1992 SEA vs. LAC W 37 26 8 18 44.4 1 2 50.0 9 10 90.0 3 2 5 1 2 0 6 3 -
+p466
+aVGary Payton SEA 01/16/1992 SEA vs. LAC W 40 12 6 15 40.0 0 0 - 0 0 - 2 1 3 6 2 1 3 4 -
+p467
+aVEddie Johnson SEA 01/16/1992 SEA vs. LAC W 25 12 6 11 54.5 0 2 0.0 0 0 - 0 1 1 0 1 0 2 2 -
+p468
+aVMichael Cage SEA 01/16/1992 SEA vs. LAC W 22 5 2 2 100.0 0 0 - 1 2 50.0 3 4 7 2 1 1 2 0 -
+p469
+aVBenoit Benjamin SEA 01/16/1992 SEA vs. LAC W 29 10 3 8 37.5 0 0 - 4 6 66.7 2 8 10 0 1 3 2 3 -
+p470
+aVDerrick McKey SEA 01/16/1992 SEA vs. LAC W 31 16 5 13 38.5 1 1 100.0 5 5 100.0 2 1 3 1 1 2 1 5 -
+p471
+aVMichael Cage SEA 01/14/1992 SEA vs. CHH L 27 9 3 3 100.0 0 0 - 3 4 75.0 1 6 7 3 2 1 0 4 -
+p472
+aVRich King SEA 01/14/1992 SEA vs. CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p473
+aVRicky Pierce SEA 01/14/1992 SEA vs. CHH L 36 20 6 21 28.6 0 3 0.0 8 9 88.9 2 2 4 6 2 0 1 4 -
+p474
+aVBenoit Benjamin SEA 01/14/1992 SEA vs. CHH L 24 14 6 11 54.5 0 0 - 2 3 66.7 3 2 5 1 1 2 1 0 -
+p475
+aVNate McMillan SEA 01/14/1992 SEA vs. CHH L 22 0 0 6 0.0 0 2 0.0 0 0 - 2 3 5 5 0 1 1 3 -
+p476
+aVShawn Kemp SEA 01/14/1992 SEA vs. CHH L 35 18 8 13 61.5 0 0 - 2 4 50.0 6 6 12 1 0 1 2 3 -
+p477
+aVDerrick McKey SEA 01/14/1992 SEA vs. CHH L 42 18 8 13 61.5 0 0 - 2 3 66.7 1 1 2 1 1 0 3 3 -
+p478
+aVEddie Johnson SEA 01/14/1992 SEA vs. CHH L 32 19 8 17 47.1 0 2 0.0 3 4 75.0 0 3 3 1 1 0 1 2 -
+p479
+aVBart Kofoed SEA 01/14/1992 SEA vs. CHH L 31 15 5 7 71.4 1 2 50.0 4 4 100.0 2 3 5 9 0 0 2 0 -
+p480
+aVDana Barros SEA 01/14/1992 SEA vs. CHH L 15 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 4 1 0 0 0 -
+p481
+aVMarty Conlon SEA 01/13/1992 SEA @ LAC L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -
+p482
+aVDana Barros SEA 01/13/1992 SEA @ LAC L 27 9 4 11 36.4 1 1 100.0 0 0 - 0 2 2 1 0 0 1 2 -
+p483
+aVShawn Kemp SEA 01/13/1992 SEA @ LAC L 36 10 4 7 57.1 0 0 - 2 2 100.0 3 7 10 2 1 3 4 4 -
+p484
+aVBenoit Benjamin SEA 01/13/1992 SEA @ LAC L 33 13 6 14 42.9 0 0 - 1 1 100.0 1 9 10 1 0 1 7 5 -
+p485
+aVEddie Johnson SEA 01/13/1992 SEA @ LAC L 28 20 7 18 38.9 0 2 0.0 6 9 66.7 4 6 10 0 0 0 4 3 -
+p486
+aVGary Payton SEA 01/13/1992 SEA @ LAC L 31 15 6 10 60.0 0 0 - 3 4 75.0 0 3 3 8 0 0 0 2 -
+p487
+aVMichael Cage SEA 01/13/1992 SEA @ LAC L 25 12 5 8 62.5 0 0 - 2 4 50.0 3 2 5 0 1 1 0 3 -
+p488
+aVNate McMillan SEA 01/13/1992 SEA @ LAC L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 1 1 0 3 -
+p489
+aVDerrick McKey SEA 01/13/1992 SEA @ LAC L 35 13 6 11 54.5 1 2 50.0 0 0 - 1 5 6 1 1 0 3 5 -
+p490
+aVDerrick McKey SEA 01/11/1992 SEA @ HOU L 35 11 4 8 50.0 0 1 0.0 3 4 75.0 0 3 3 4 1 1 4 3 -
+p491
+aVGary Payton SEA 01/11/1992 SEA @ HOU L 26 4 2 2 100.0 0 0 - 0 0 - 1 1 2 4 0 1 1 3 -
+p492
+aVBenoit Benjamin SEA 01/11/1992 SEA @ HOU L 33 19 8 12 66.7 0 0 - 3 5 60.0 0 7 7 0 0 1 2 3 -
+p493
+aVDana Barros SEA 01/11/1992 SEA @ HOU L 12 9 3 3 100.0 1 1 100.0 2 2 100.0 0 1 1 2 0 0 0 0 -
+p494
+aVMichael Cage SEA 01/11/1992 SEA @ HOU L 20 4 2 4 50.0 0 1 0.0 0 0 - 0 7 7 1 0 0 0 1 -
+p495
+aVShawn Kemp SEA 01/11/1992 SEA @ HOU L 23 8 2 7 28.6 0 0 - 4 4 100.0 2 4 6 1 0 1 4 4 -
+p496
+aVRicky Pierce SEA 01/11/1992 SEA @ HOU L 36 26 9 15 60.0 0 0 - 8 10 80.0 1 0 1 6 2 0 2 2 -
+p497
+aVEddie Johnson SEA 01/11/1992 SEA @ HOU L 33 28 10 20 50.0 3 4 75.0 5 6 83.3 0 2 2 4 0 0 1 5 -
+p498
+aVNate McMillan SEA 01/11/1992 SEA @ HOU L 22 6 3 4 75.0 0 0 - 0 0 - 0 2 2 8 3 0 0 2 -
+p499
+aVMichael Cage SEA 01/10/1992 SEA @ DAL W 22 8 4 5 80.0 0 0 - 0 0 - 1 7 8 1 1 0 0 3 -
+p500
+aVRicky Pierce SEA 01/10/1992 SEA @ DAL W 34 18 4 14 28.6 0 4 0.0 10 10 100.0 2 2 4 3 1 0 3 1 -
+p501
+aVShawn Kemp SEA 01/10/1992 SEA @ DAL W 31 14 6 18 33.3 0 0 - 2 3 66.7 3 10 13 1 2 2 1 3 -
+p502
+aVDerrick McKey SEA 01/10/1992 SEA @ DAL W 38 14 2 7 28.6 0 0 - 10 10 100.0 1 4 5 1 0 0 4 1 -
+p503
+aVDana Barros SEA 01/10/1992 SEA @ DAL W 14 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 2 0 0 1 2 -
+p504
+aVBenoit Benjamin SEA 01/10/1992 SEA @ DAL W 27 5 2 7 28.6 0 0 - 1 2 50.0 4 6 10 0 0 1 0 2 -
+p505
+aVEddie Johnson SEA 01/10/1992 SEA @ DAL W 26 19 8 14 57.1 1 1 100.0 2 2 100.0 2 4 6 1 2 0 0 0 -
+p506
+aVGary Payton SEA 01/10/1992 SEA @ DAL W 26 10 5 6 83.3 0 0 - 0 0 - 1 4 5 4 0 0 4 3 -
+p507
+aVNate McMillan SEA 01/10/1992 SEA @ DAL W 22 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 2 1 0 0 5 -
+p508
+aVRicky Pierce SEA 01/08/1992 SEA vs. ORL L 32 20 9 17 52.9 1 1 100.0 1 1 100.0 2 3 5 3 0 0 1 3 -
+p509
+aVDerrick McKey SEA 01/08/1992 SEA vs. ORL L 38 15 6 13 46.2 0 0 - 3 3 100.0 0 2 2 4 1 0 1 1 -
+p510
+aVEddie Johnson SEA 01/08/1992 SEA vs. ORL L 18 12 5 11 45.5 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -
+p511
+aVNate McMillan SEA 01/08/1992 SEA vs. ORL L 16 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 5 0 0 4 2 -
+p512
+aVMichael Cage SEA 01/08/1992 SEA vs. ORL L 25 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 1 1 2 3 -
+p513
+aVGary Payton SEA 01/08/1992 SEA vs. ORL L 32 2 1 6 16.7 0 0 - 0 0 - 2 4 6 9 0 0 2 5 -
+p514
+aVShawn Kemp SEA 01/08/1992 SEA vs. ORL L 31 10 5 9 55.6 0 0 - 0 2 0.0 4 4 8 5 0 0 2 4 -
+p515
+aVDana Barros SEA 01/08/1992 SEA vs. ORL L 16 15 6 9 66.7 3 3 100.0 0 3 0.0 1 1 2 0 0 0 1 1 -
+p516
+aVBenoit Benjamin SEA 01/08/1992 SEA vs. ORL L 32 24 10 16 62.5 0 0 - 4 6 66.7 2 4 6 1 0 3 1 3 -
+p517
+aVGary Payton SEA 01/07/1992 SEA @ DEN W 34 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 4 1 2 4 2 -
+p518
+aVDerrick McKey SEA 01/07/1992 SEA @ DEN W 38 26 8 18 44.4 1 3 33.3 9 10 90.0 1 3 4 2 0 0 3 1 -
+p519
+aVMarty Conlon SEA 01/07/1992 SEA @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p520
+aVRicky Pierce SEA 01/07/1992 SEA @ DEN W 35 28 11 19 57.9 2 2 100.0 4 4 100.0 1 2 3 1 1 0 0 1 -
+p521
+aVNate McMillan SEA 01/07/1992 SEA @ DEN W 14 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 1 1 2 1 2 -
+p522
+aVMichael Cage SEA 01/07/1992 SEA @ DEN W 37 9 2 6 33.3 0 0 - 5 9 55.6 1 5 6 2 0 1 2 3 -
+p523
+aVDana Barros SEA 01/07/1992 SEA @ DEN W 13 5 2 2 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 1 2 -
+p524
+aVBenoit Benjamin SEA 01/07/1992 SEA @ DEN W 15 5 2 2 100.0 0 0 - 1 2 50.0 0 3 3 0 3 0 4 5 -
+p525
+aVEddie Johnson SEA 01/07/1992 SEA @ DEN W 18 8 3 6 50.0 0 0 - 2 2 100.0 2 1 3 0 0 0 2 5 -
+p526
+aVShawn Kemp SEA 01/07/1992 SEA @ DEN W 35 15 7 12 58.3 0 0 - 1 2 50.0 2 9 11 0 2 4 2 4 -
+p527
+aVRich King SEA 01/04/1992 SEA vs. PHL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p528
+aVRicky Pierce SEA 01/04/1992 SEA vs. PHL L 38 15 7 15 46.7 0 2 0.0 1 1 100.0 0 1 1 2 1 0 3 5 -
+p529
+aVBart Kofoed SEA 01/04/1992 SEA vs. PHL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p530
+aVMarty Conlon SEA 01/04/1992 SEA vs. PHL L 3 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p531
+aVMichael Cage SEA 01/04/1992 SEA vs. PHL L 22 10 5 6 83.3 0 0 - 0 0 - 2 5 7 2 1 2 2 1 -
+p532
+aVGary Payton SEA 01/04/1992 SEA vs. PHL L 24 4 2 3 66.7 0 0 - 0 0 - 0 0 0 7 1 0 0 3 -
+p533
+aVDerrick McKey SEA 01/04/1992 SEA vs. PHL L 39 24 11 18 61.1 0 1 0.0 2 2 100.0 3 2 5 2 1 1 1 2 -
+p534
+aVEddie Johnson SEA 01/04/1992 SEA vs. PHL L 27 3 1 6 16.7 0 0 - 1 2 50.0 0 3 3 3 0 0 0 1 -
+p535
+aVBenoit Benjamin SEA 01/04/1992 SEA vs. PHL L 20 5 2 8 25.0 0 1 0.0 1 2 50.0 0 4 4 1 0 0 2 2 -
+p536
+aVShawn Kemp SEA 01/04/1992 SEA vs. PHL L 32 22 6 11 54.5 0 0 - 10 13 76.9 4 3 7 1 0 5 5 3 -
+p537
+aVNate McMillan SEA 01/04/1992 SEA vs. PHL L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 3 2 -
+p538
+aVDana Barros SEA 01/04/1992 SEA vs. PHL L 18 6 2 5 40.0 2 2 100.0 0 0 - 0 1 1 2 1 0 0 2 -
+p539
+aVBenoit Benjamin SEA 01/02/1992 SEA vs. MIA W 39 14 4 12 33.3 0 0 - 6 6 100.0 5 10 15 1 1 0 4 4 -
+p540
+aVGary Payton SEA 01/02/1992 SEA vs. MIA W 36 8 3 5 60.0 0 1 0.0 2 2 100.0 1 3 4 4 0 0 0 2 -
+p541
+aVRicky Pierce SEA 01/02/1992 SEA vs. MIA W 44 34 9 22 40.9 0 4 0.0 16 17 94.1 1 1 2 3 0 2 3 4 -
+p542
+aVDana Barros SEA 01/02/1992 SEA vs. MIA W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p543
+aVShawn Kemp SEA 01/02/1992 SEA vs. MIA W 26 16 5 8 62.5 0 0 - 6 8 75.0 3 4 7 0 2 2 5 6 -
+p544
+aVNate McMillan SEA 01/02/1992 SEA vs. MIA W 18 4 2 3 66.7 0 1 0.0 0 0 - 2 2 4 4 0 1 3 1 -
+p545
+aVMichael Cage SEA 01/02/1992 SEA vs. MIA W 31 9 3 4 75.0 0 0 - 3 4 75.0 3 5 8 1 0 0 0 3 -
+p546
+aVDerrick McKey SEA 01/02/1992 SEA vs. MIA W 41 22 10 17 58.8 0 0 - 2 2 100.0 2 5 7 2 0 0 2 3 -
+p547
+aVEddie Johnson SEA 01/02/1992 SEA vs. MIA W 21 4 2 8 25.0 0 1 0.0 0 0 - 1 0 1 1 1 0 1 1 -
+p548
+aVRicky Pierce SEA 12/27/1991 SEA vs. BOS L 33 26 11 13 84.6 2 2 100.0 2 2 100.0 1 2 3 3 1 0 4 1 -
+p549
+aVGary Payton SEA 12/27/1991 SEA vs. BOS L 34 4 2 5 40.0 0 0 - 0 0 - 0 1 1 4 3 1 2 1 -
+p550
+aVDerrick McKey SEA 12/27/1991 SEA vs. BOS L 37 17 8 17 47.1 0 1 0.0 1 2 50.0 4 3 7 3 2 1 2 2 -
+p551
+aVBenoit Benjamin SEA 12/27/1991 SEA vs. BOS L 31 18 8 13 61.5 0 0 - 2 3 66.7 1 5 6 2 1 2 5 3 -
+p552
+aVDana Barros SEA 12/27/1991 SEA vs. BOS L 15 0 0 5 0.0 0 3 0.0 0 2 0.0 0 1 1 1 0 0 1 0 -
+p553
+aVBart Kofoed SEA 12/27/1991 SEA vs. BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p554
+aVMichael Cage SEA 12/27/1991 SEA vs. BOS L 28 9 4 7 57.1 0 0 - 1 1 100.0 1 3 4 2 2 0 1 3 -
+p555
+aVEddie Johnson SEA 12/27/1991 SEA vs. BOS L 20 4 2 5 40.0 0 0 - 0 0 - 0 0 0 3 0 0 1 3 -
+p556
+aVRich King SEA 12/27/1991 SEA vs. BOS L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p557
+aVNate McMillan SEA 12/27/1991 SEA vs. BOS L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -
+p558
+aVMarty Conlon SEA 12/27/1991 SEA vs. BOS L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -
+p559
+aVShawn Kemp SEA 12/27/1991 SEA vs. BOS L 17 5 2 7 28.6 0 0 - 1 2 50.0 1 1 2 2 1 0 0 0 -
+p560
+aVGary Payton SEA 12/26/1991 SEA @ SAC W 36 18 7 17 41.2 0 0 - 4 6 66.7 6 2 8 5 1 0 3 4 -
+p561
+aVNate McMillan SEA 12/26/1991 SEA @ SAC W 17 7 3 4 75.0 0 1 0.0 1 2 50.0 0 2 2 3 2 0 3 2 -
+p562
+aVDana Barros SEA 12/26/1991 SEA @ SAC W 18 17 5 6 83.3 3 3 100.0 4 4 100.0 0 1 1 4 2 0 2 0 -
+p563
+aVBenoit Benjamin SEA 12/26/1991 SEA @ SAC W 41 7 3 10 30.0 0 0 - 1 4 25.0 4 9 13 3 1 4 2 1 -
+p564
+aVShawn Kemp SEA 12/26/1991 SEA @ SAC W 23 17 6 10 60.0 0 0 - 5 7 71.4 2 6 8 1 0 2 6 3 -
+p565
+aVMichael Cage SEA 12/26/1991 SEA @ SAC W 31 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 1 1 1 2 -
+p566
+aVMarty Conlon SEA 12/26/1991 SEA @ SAC W 20 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -
+p567
+aVDerrick McKey SEA 12/26/1991 SEA @ SAC W 44 16 5 13 38.5 0 0 - 6 6 100.0 1 6 7 3 1 1 1 4 -
+p568
+aVRicky Pierce SEA 12/26/1991 SEA @ SAC W 35 27 10 20 50.0 1 2 50.0 6 6 100.0 0 3 3 2 3 0 2 4 -
+p569
+aVDerrick McKey SEA 12/22/1991 SEA @ POR L 32 16 6 14 42.9 1 2 50.0 3 4 75.0 2 5 7 2 1 2 4 3 -
+p570
+aVRicky Pierce SEA 12/22/1991 SEA @ POR L 33 12 5 11 45.5 0 2 0.0 2 2 100.0 1 2 3 1 1 0 1 2 -
+p571
+aVRich King SEA 12/22/1991 SEA @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p572
+aVBenoit Benjamin SEA 12/22/1991 SEA @ POR L 33 18 6 9 66.7 0 0 - 6 8 75.0 2 3 5 1 0 2 3 4 -
+p573
+aVMichael Cage SEA 12/22/1991 SEA @ POR L 34 10 5 9 55.6 0 0 - 0 0 - 3 6 9 2 0 0 0 4 -
+p574
+aVDana Barros SEA 12/22/1991 SEA @ POR L 17 8 3 7 42.9 2 2 100.0 0 0 - 0 1 1 2 1 0 0 1 -
+p575
+aVGary Payton SEA 12/22/1991 SEA @ POR L 36 11 5 12 41.7 0 0 - 1 1 100.0 2 3 5 5 1 1 2 3 -
+p576
+aVMarty Conlon SEA 12/22/1991 SEA @ POR L 14 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 2 0 -
+p577
+aVBart Kofoed SEA 12/22/1991 SEA @ POR L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 5 0 0 0 0 -
+p578
+aVEddie Johnson SEA 12/22/1991 SEA @ POR L 32 10 4 13 30.8 0 4 0.0 2 4 50.0 0 5 5 1 2 0 1 3 -
+p579
+aVBart Kofoed SEA 12/21/1991 SEA vs. GOS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p580
+aVMichael Cage SEA 12/21/1991 SEA vs. GOS W 30 4 2 2 100.0 0 0 - 0 0 - 3 7 10 2 2 0 1 3 -
+p581
+aVBenoit Benjamin SEA 12/21/1991 SEA vs. GOS W 40 25 10 14 71.4 0 0 - 5 12 41.7 5 4 9 1 1 1 1 3 -
+p582
+aVRicky Pierce SEA 12/21/1991 SEA vs. GOS W 38 34 13 23 56.5 1 2 50.0 7 8 87.5 0 0 0 6 0 0 4 3 -
+p583
+aVDerrick McKey SEA 12/21/1991 SEA vs. GOS W 33 13 5 12 41.7 0 0 - 3 3 100.0 3 4 7 2 2 2 2 2 -
+p584
+aVGary Payton SEA 12/21/1991 SEA vs. GOS W 44 17 7 17 41.2 0 0 - 3 8 37.5 5 6 11 12 1 0 1 2 -
+p585
+aVDana Barros SEA 12/21/1991 SEA vs. GOS W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -
+p586
+aVMarty Conlon SEA 12/21/1991 SEA vs. GOS W 11 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 1 2 2 -
+p587
+aVEddie Johnson SEA 12/21/1991 SEA vs. GOS W 33 27 11 18 61.1 0 0 - 5 5 100.0 3 2 5 1 0 0 1 5 -
+p588
+aVDana Barros SEA 12/19/1991 SEA vs. DEN W 18 6 2 7 28.6 1 3 33.3 1 2 50.0 0 0 0 1 0 0 0 0 -
+p589
+aVRicky Pierce SEA 12/19/1991 SEA vs. DEN W 30 29 11 15 73.3 0 1 0.0 7 7 100.0 1 4 5 2 2 1 1 1 -
+p590
+aVBart Kofoed SEA 12/19/1991 SEA vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p591
+aVBenoit Benjamin SEA 12/19/1991 SEA vs. DEN W 27 16 7 14 50.0 0 0 - 2 3 66.7 0 4 4 1 1 4 2 2 -
+p592
+aVNate McMillan SEA 12/19/1991 SEA vs. DEN W 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 4 2 0 3 1 -
+p593
+aVMarty Conlon SEA 12/19/1991 SEA vs. DEN W 18 13 5 8 62.5 0 0 - 3 4 75.0 3 2 5 0 0 1 3 2 -
+p594
+aVMichael Cage SEA 12/19/1991 SEA vs. DEN W 35 12 4 10 40.0 0 0 - 4 4 100.0 5 10 15 3 1 4 3 1 -
+p595
+aVEddie Johnson SEA 12/19/1991 SEA vs. DEN W 38 28 13 23 56.5 0 0 - 2 2 100.0 6 3 9 1 1 0 1 2 -
+p596
+aVGary Payton SEA 12/19/1991 SEA vs. DEN W 30 1 0 1 0.0 0 0 - 1 2 50.0 3 3 6 4 0 1 2 3 -
+p597
+aVRich King SEA 12/19/1991 SEA vs. DEN W 3 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -
+p598
+aVDerrick McKey SEA 12/19/1991 SEA vs. DEN W 22 8 3 12 25.0 0 0 - 2 3 66.7 4 1 5 4 0 0 5 6 -
+p599
+aVMarty Conlon SEA 12/17/1991 SEA vs. LAC W 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 1 0 1 -
+p600
+aVBenoit Benjamin SEA 12/17/1991 SEA vs. LAC W 35 20 7 12 58.3 0 0 - 6 6 100.0 0 7 7 2 1 2 4 5 -
+p601
+aVDerrick McKey SEA 12/17/1991 SEA vs. LAC W 28 14 4 12 33.3 0 0 - 6 9 66.7 3 1 4 1 2 0 2 1 -
+p602
+aVGary Payton SEA 12/17/1991 SEA vs. LAC W 25 16 5 9 55.6 0 0 - 6 8 75.0 1 2 3 4 3 0 3 2 -
+p603
+aVRicky Pierce SEA 12/17/1991 SEA vs. LAC W 36 19 8 16 50.0 1 2 50.0 2 2 100.0 1 2 3 3 1 0 2 2 -
+p604
+aVEddie Johnson SEA 12/17/1991 SEA vs. LAC W 29 14 6 16 37.5 0 2 0.0 2 3 66.7 7 3 10 2 1 0 1 1 -
+p605
+aVMichael Cage SEA 12/17/1991 SEA vs. LAC W 42 7 2 6 33.3 0 0 - 3 4 75.0 3 10 13 0 3 0 0 3 -
+p606
+aVBart Kofoed SEA 12/17/1991 SEA vs. LAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p607
+aVNate McMillan SEA 12/17/1991 SEA vs. LAC W 20 16 7 10 70.0 0 2 0.0 2 2 100.0 2 2 4 6 1 1 1 3 -
+p608
+aVDana Barros SEA 12/17/1991 SEA vs. LAC W 12 6 2 4 50.0 0 0 - 2 4 50.0 0 1 1 0 1 0 0 0 -
+p609
+aVRich King SEA 12/14/1991 SEA @ PHL L 10 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 4 -
+p610
+aVNate McMillan SEA 12/14/1991 SEA @ PHL L 17 10 4 6 66.7 2 2 100.0 0 0 - 0 3 3 8 1 0 3 4 -
+p611
+aVMarty Conlon SEA 12/14/1991 SEA @ PHL L 23 12 4 5 80.0 0 0 - 4 4 100.0 2 0 2 2 0 0 0 1 -
+p612
+aVBart Kofoed SEA 12/14/1991 SEA @ PHL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p613
+aVBenoit Benjamin SEA 12/14/1991 SEA @ PHL L 38 23 10 22 45.5 0 0 - 3 4 75.0 2 7 9 5 0 6 5 2 -
+p614
+aVRicky Pierce SEA 12/14/1991 SEA @ PHL L 24 11 4 10 40.0 1 2 50.0 2 2 100.0 0 1 1 2 0 0 2 4 -
+p615
+aVMichael Cage SEA 12/14/1991 SEA @ PHL L 37 6 3 8 37.5 0 0 - 0 0 - 3 4 7 3 2 2 1 4 -
+p616
+aVEddie Johnson SEA 12/14/1991 SEA @ PHL L 35 18 8 13 61.5 1 2 50.0 1 2 50.0 1 3 4 1 2 0 0 3 -
+p617
+aVDana Barros SEA 12/14/1991 SEA @ PHL L 25 5 2 8 25.0 0 3 0.0 1 1 100.0 0 0 0 3 0 0 0 0 -
+p618
+aVGary Payton SEA 12/14/1991 SEA @ PHL L 30 6 3 8 37.5 0 0 - 0 0 - 0 3 3 4 0 1 0 3 -
+p619
+aVDerrick McKey SEA 12/13/1991 SEA @ BOS L 32 18 9 20 45.0 0 1 0.0 0 0 - 2 4 6 4 2 2 2 5 -
+p620
+aVMichael Cage SEA 12/13/1991 SEA @ BOS L 25 6 3 6 50.0 0 0 - 0 0 - 3 4 7 2 1 0 1 2 -
+p621
+aVBart Kofoed SEA 12/13/1991 SEA @ BOS L 1 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p622
+aVDana Barros SEA 12/13/1991 SEA @ BOS L 13 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 3 1 0 1 1 -
+p623
+aVRicky Pierce SEA 12/13/1991 SEA @ BOS L 35 21 9 18 50.0 0 0 - 3 4 75.0 1 4 5 3 1 1 2 1 -
+p624
+aVRich King SEA 12/13/1991 SEA @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p625
+aVBenoit Benjamin SEA 12/13/1991 SEA @ BOS L 28 12 5 12 41.7 0 0 - 2 3 66.7 2 6 8 2 0 0 3 2 -
+p626
+aVEddie Johnson SEA 12/13/1991 SEA @ BOS L 36 19 8 15 53.3 0 1 0.0 3 3 100.0 2 1 3 1 2 0 2 1 -
+p627
+aVNate McMillan SEA 12/13/1991 SEA @ BOS L 22 2 1 3 33.3 0 0 - 0 0 - 2 1 3 8 1 0 1 3 -
+p628
+aVGary Payton SEA 12/13/1991 SEA @ BOS L 25 0 0 3 0.0 0 0 - 0 0 - 0 1 1 7 0 1 2 2 -
+p629
+aVMarty Conlon SEA 12/13/1991 SEA @ BOS L 18 12 5 8 62.5 0 0 - 2 4 50.0 3 2 5 0 1 0 0 0 -
+p630
+aVBenoit Benjamin SEA 12/11/1991 SEA @ NYK L 22 7 3 9 33.3 0 1 0.0 1 3 33.3 0 9 9 1 0 2 1 1 -
+p631
+aVRich King SEA 12/11/1991 SEA @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p632
+aVEddie Johnson SEA 12/11/1991 SEA @ NYK L 34 10 5 13 38.5 0 0 - 0 0 - 2 3 5 3 0 0 3 0 -
+p633
+aVRicky Pierce SEA 12/11/1991 SEA @ NYK L 40 25 9 19 47.4 0 2 0.0 7 7 100.0 3 3 6 7 0 0 6 2 -
+p634
+aVMichael Cage SEA 12/11/1991 SEA @ NYK L 32 6 3 7 42.9 0 1 0.0 0 0 - 2 3 5 2 1 0 2 4 -
+p635
+aVGary Payton SEA 12/11/1991 SEA @ NYK L 31 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 4 0 0 2 1 -
+p636
+aVShawn Kemp SEA 12/11/1991 SEA @ NYK L 39 14 4 7 57.1 0 0 - 6 6 100.0 3 6 9 2 2 3 4 5 -
+p637
+aVNate McMillan SEA 12/11/1991 SEA @ NYK L 20 13 6 9 66.7 0 0 - 1 1 100.0 2 5 7 3 2 0 3 3 -
+p638
+aVMarty Conlon SEA 12/11/1991 SEA @ NYK L 19 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -
+p639
+aVEddie Johnson SEA 12/10/1991 SEA @ CHI L 35 15 5 17 29.4 0 2 0.0 5 5 100.0 3 3 6 1 0 0 1 3 -
+p640
+aVBart Kofoed SEA 12/10/1991 SEA @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p641
+aVRich King SEA 12/10/1991 SEA @ CHI L 14 2 0 3 0.0 0 0 - 2 4 50.0 3 2 5 1 1 1 0 2 -
+p642
+aVNate McMillan SEA 12/10/1991 SEA @ CHI L 22 5 2 5 40.0 0 0 - 1 3 33.3 0 1 1 4 0 0 0 3 -
+p643
+aVMarty Conlon SEA 12/10/1991 SEA @ CHI L 16 5 2 5 40.0 0 0 - 1 1 100.0 1 0 1 1 0 1 1 2 -
+p644
+aVGary Payton SEA 12/10/1991 SEA @ CHI L 33 9 3 8 37.5 0 0 - 3 4 75.0 0 0 0 5 1 0 5 1 -
+p645
+aVMichael Cage SEA 12/10/1991 SEA @ CHI L 37 13 6 10 60.0 0 0 - 1 2 50.0 7 6 13 1 1 0 1 3 -
+p646
+aVRicky Pierce SEA 12/10/1991 SEA @ CHI L 42 30 12 19 63.2 1 1 100.0 5 5 100.0 0 5 5 1 2 0 1 2 -
+p647
+aVShawn Kemp SEA 12/10/1991 SEA @ CHI L 40 24 7 14 50.0 0 0 - 10 10 100.0 2 7 9 5 0 5 3 5 -
+p648
+aVMichael Cage SEA 12/07/1991 SEA vs. DAL W 35 16 6 13 46.2 0 0 - 4 6 66.7 5 9 14 1 2 0 0 2 -
+p649
+aVRich King SEA 12/07/1991 SEA vs. DAL W 24 10 4 10 40.0 0 0 - 2 2 100.0 2 2 4 4 1 1 0 2 -
+p650
+aVGary Payton SEA 12/07/1991 SEA vs. DAL W 31 5 2 4 50.0 0 0 - 1 2 50.0 3 2 5 4 0 0 2 2 -
+p651
+aVEddie Johnson SEA 12/07/1991 SEA vs. DAL W 41 25 11 21 52.4 0 1 0.0 3 3 100.0 2 3 5 4 1 1 1 4 -
+p652
+aVNate McMillan SEA 12/07/1991 SEA vs. DAL W 20 1 0 1 0.0 0 1 0.0 1 2 50.0 1 1 2 6 2 1 1 4 -
+p653
+aVMarty Conlon SEA 12/07/1991 SEA vs. DAL W 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p654
+aVQuintin Dailey SEA 12/07/1991 SEA vs. DAL W 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p655
+aVShawn Kemp SEA 12/07/1991 SEA vs. DAL W 29 20 10 15 66.7 0 0 - 0 1 0.0 4 2 6 1 0 0 2 4 -
+p656
+aVRicky Pierce SEA 12/07/1991 SEA vs. DAL W 36 27 9 23 39.1 0 1 0.0 9 9 100.0 1 1 2 1 0 0 1 2 -
+p657
+aVRicky Pierce SEA 12/06/1991 SEA vs. MIN W 41 29 9 24 37.5 0 1 0.0 11 11 100.0 3 1 4 5 1 1 2 2 -
+p658
+aVQuintin Dailey SEA 12/06/1991 SEA vs. MIN W 7 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 0 -
+p659
+aVShawn Kemp SEA 12/06/1991 SEA vs. MIN W 35 21 7 16 43.8 0 0 - 7 12 58.3 6 5 11 1 2 1 2 4 -
+p660
+aVGary Payton SEA 12/06/1991 SEA vs. MIN W 34 8 4 7 57.1 0 0 - 0 0 - 2 2 4 5 0 0 5 3 -
+p661
+aVRich King SEA 12/06/1991 SEA vs. MIN W 8 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 1 -
+p662
+aVEddie Johnson SEA 12/06/1991 SEA vs. MIN W 42 23 8 18 44.4 0 0 - 7 8 87.5 3 1 4 2 2 0 1 2 -
+p663
+aVNate McMillan SEA 12/06/1991 SEA vs. MIN W 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 1 1 5 -
+p664
+aVMichael Cage SEA 12/06/1991 SEA vs. MIN W 40 6 3 6 50.0 0 0 - 0 0 - 7 16 23 2 0 0 2 2 -
+p665
+aVMarty Conlon SEA 12/06/1991 SEA vs. MIN W 18 3 1 5 20.0 0 0 - 1 2 50.0 1 1 2 1 1 0 2 3 -
+p666
+aVGary Payton SEA 12/03/1991 SEA vs. WAS W 27 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 5 1 0 2 4 -
+p667
+aVEddie Johnson SEA 12/03/1991 SEA vs. WAS W 34 23 8 14 57.1 0 1 0.0 7 8 87.5 3 4 7 0 2 1 5 3 -
+p668
+aVBenoit Benjamin SEA 12/03/1991 SEA vs. WAS W 27 4 2 5 40.0 0 0 - 0 0 - 0 5 5 2 0 1 2 1 -
+p669
+aVRicky Pierce SEA 12/03/1991 SEA vs. WAS W 42 26 11 22 50.0 2 3 66.7 2 2 100.0 0 0 0 0 0 0 5 4 -
+p670
+aVQuintin Dailey SEA 12/03/1991 SEA vs. WAS W 6 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -
+p671
+aVMichael Cage SEA 12/03/1991 SEA vs. WAS W 35 9 4 5 80.0 0 0 - 1 2 50.0 5 5 10 1 3 0 2 4 -
+p672
+aVMarty Conlon SEA 12/03/1991 SEA vs. WAS W 14 4 2 6 33.3 0 0 - 0 0 - 1 2 3 2 1 0 1 1 -
+p673
+aVShawn Kemp SEA 12/03/1991 SEA vs. WAS W 34 15 5 16 31.3 0 0 - 5 6 83.3 6 6 12 4 1 2 3 3 -
+p674
+aVNate McMillan SEA 12/03/1991 SEA vs. WAS W 21 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 2 1 0 0 2 -
+p675
+aVNate McMillan SEA 11/30/1991 SEA @ SAN L 33 10 5 13 38.5 0 2 0.0 0 0 - 5 5 10 3 1 0 2 3 -
+p676
+aVMichael Cage SEA 11/30/1991 SEA @ SAN L 31 6 2 8 25.0 0 0 - 2 2 100.0 3 6 9 2 1 0 0 3 -
+p677
+aVQuintin Dailey SEA 11/30/1991 SEA @ SAN L 27 6 2 11 18.2 0 1 0.0 2 2 100.0 0 1 1 1 2 0 3 1 -
+p678
+aVShawn Kemp SEA 11/30/1991 SEA @ SAN L 21 19 6 10 60.0 0 0 - 7 9 77.8 3 2 5 2 0 0 2 6 -
+p679
+aVMarty Conlon SEA 11/30/1991 SEA @ SAN L 26 14 3 7 42.9 0 0 - 8 8 100.0 0 1 1 0 0 0 2 1 -
+p680
+aVGary Payton SEA 11/30/1991 SEA @ SAN L 28 7 3 6 50.0 0 0 - 1 1 100.0 1 2 3 5 3 0 1 2 -
+p681
+aVEddie Johnson SEA 11/30/1991 SEA @ SAN L 31 21 6 13 46.2 0 1 0.0 9 10 90.0 0 4 4 3 0 1 1 3 -
+p682
+aVBenoit Benjamin SEA 11/30/1991 SEA @ SAN L 25 8 3 10 30.0 0 0 - 2 3 66.7 1 4 5 0 0 1 3 3 -
+p683
+aVRich King SEA 11/30/1991 SEA @ SAN L 18 10 2 5 40.0 0 0 - 6 6 100.0 0 4 4 0 0 0 2 5 -
+p684
+aVRicky Pierce SEA 11/29/1991 SEA @ DEN L 25 14 4 9 44.4 1 2 50.0 5 5 100.0 1 1 2 0 2 2 5 2 -
+p685
+aVBenoit Benjamin SEA 11/29/1991 SEA @ DEN L 38 14 3 9 33.3 0 0 - 8 10 80.0 0 5 5 0 3 4 4 4 -
+p686
+aVNate McMillan SEA 11/29/1991 SEA @ DEN L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 2 2 0 3 4 -
+p687
+aVDerrick McKey SEA 11/29/1991 SEA @ DEN L 18 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 3 2 0 0 2 -
+p688
+aVGary Payton SEA 11/29/1991 SEA @ DEN L 36 12 4 10 40.0 0 0 - 4 6 66.7 2 0 2 4 3 1 2 3 -
+p689
+aVMichael Cage SEA 11/29/1991 SEA @ DEN L 37 6 3 6 50.0 0 0 - 0 0 - 4 9 13 1 0 0 1 4 -
+p690
+aVMarty Conlon SEA 11/29/1991 SEA @ DEN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p691
+aVShawn Kemp SEA 11/29/1991 SEA @ DEN L 13 6 1 4 25.0 0 0 - 4 4 100.0 0 3 3 0 0 1 1 1 -
+p692
+aVEddie Johnson SEA 11/29/1991 SEA @ DEN L 31 20 6 17 35.3 0 2 0.0 8 8 100.0 1 1 2 0 1 0 2 3 -
+p693
+aVQuintin Dailey SEA 11/29/1991 SEA @ DEN L 19 13 4 8 50.0 0 0 - 5 6 83.3 1 4 5 0 1 1 5 2 -
+p694
+aVRich King SEA 11/29/1991 SEA @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p695
+aVBenoit Benjamin SEA 11/26/1991 SEA vs. GOS W 24 10 5 10 50.0 0 0 - 0 1 0.0 1 4 5 0 0 0 1 2 -
+p696
+aVDana Barros SEA 11/26/1991 SEA vs. GOS W 9 11 4 5 80.0 1 1 100.0 2 2 100.0 1 0 1 1 0 0 0 0 -
+p697
+aVGary Payton SEA 11/26/1991 SEA vs. GOS W 37 10 5 13 38.5 0 0 - 0 0 - 4 4 8 5 3 1 4 4 -
+p698
+aVQuintin Dailey SEA 11/26/1991 SEA vs. GOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p699
+aVShawn Kemp SEA 11/26/1991 SEA vs. GOS W 23 21 8 15 53.3 0 1 0.0 5 6 83.3 0 5 5 1 4 2 3 3 -
+p700
+aVRicky Pierce SEA 11/26/1991 SEA vs. GOS W 38 19 5 18 27.8 1 2 50.0 8 8 100.0 1 0 1 2 0 1 3 5 -
+p701
+aVRich King SEA 11/26/1991 SEA vs. GOS W 1 4 0 0 - 0 0 - 4 6 66.7 0 1 1 0 0 0 0 0 -
+p702
+aVDerrick McKey SEA 11/26/1991 SEA vs. GOS W 40 17 5 14 35.7 0 2 0.0 7 9 77.8 5 10 15 6 4 2 3 1 -
+p703
+aVNate McMillan SEA 11/26/1991 SEA vs. GOS W 17 0 0 1 0.0 0 0 - 0 0 - 1 1 2 9 3 0 2 2 -
+p704
+aVMichael Cage SEA 11/26/1991 SEA vs. GOS W 31 13 5 7 71.4 0 0 - 3 4 75.0 7 7 14 1 1 0 1 4 -
+p705
+aVEddie Johnson SEA 11/26/1991 SEA vs. GOS W 39 29 8 16 50.0 1 2 50.0 12 13 92.3 0 1 1 1 0 0 2 4 -
+p706
+aVBenoit Benjamin SEA 11/24/1991 SEA @ LAC L 43 13 6 15 40.0 0 0 - 1 2 50.0 2 13 15 5 2 1 7 4 -
+p707
+aVGary Payton SEA 11/24/1991 SEA @ LAC L 29 0 0 5 0.0 0 0 - 0 0 - 0 2 2 3 0 1 4 4 -
+p708
+aVDana Barros SEA 11/24/1991 SEA @ LAC L 15 6 2 8 25.0 1 3 33.3 1 2 50.0 0 0 0 0 0 0 1 1 -
+p709
+aVNate McMillan SEA 11/24/1991 SEA @ LAC L 20 11 4 9 44.4 0 0 - 3 3 100.0 4 2 6 5 4 0 3 2 -
+p710
+aVDerrick McKey SEA 11/24/1991 SEA @ LAC L 39 16 6 12 50.0 0 0 - 4 4 100.0 1 7 8 3 1 0 4 3 -
+p711
+aVRicky Pierce SEA 11/24/1991 SEA @ LAC L 32 28 12 18 66.7 0 0 - 4 4 100.0 0 1 1 2 0 0 0 1 -
+p712
+aVEddie Johnson SEA 11/24/1991 SEA @ LAC L 22 4 2 10 20.0 0 1 0.0 0 2 0.0 2 0 2 1 0 0 1 2 -
+p713
+aVMichael Cage SEA 11/24/1991 SEA @ LAC L 40 8 3 4 75.0 0 0 - 2 2 100.0 5 4 9 0 2 0 2 1 -
+p714
+aVEddie Johnson SEA 11/22/1991 SEA vs. CHI L 16 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 1 0 0 2 1 -
+p715
+aVBenoit Benjamin SEA 11/22/1991 SEA vs. CHI L 45 27 10 21 47.6 0 0 - 7 8 87.5 2 10 12 0 1 2 3 5 -
+p716
+aVQuintin Dailey SEA 11/22/1991 SEA vs. CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p717
+aVGary Payton SEA 11/22/1991 SEA vs. CHI L 36 8 4 10 40.0 0 0 - 0 0 - 3 2 5 7 2 0 5 2 -
+p718
+aVMichael Cage SEA 11/22/1991 SEA vs. CHI L 45 2 0 1 0.0 0 0 - 2 4 50.0 4 8 12 1 2 0 1 3 -
+p719
+aVDerrick McKey SEA 11/22/1991 SEA vs. CHI L 46 29 7 15 46.7 0 0 - 15 15 100.0 4 2 6 4 0 0 5 2 -
+p720
+aVDana Barros SEA 11/22/1991 SEA vs. CHI L 14 8 4 7 57.1 0 3 0.0 0 0 - 0 1 1 0 0 0 2 1 -
+p721
+aVNate McMillan SEA 11/22/1991 SEA vs. CHI L 17 3 1 5 20.0 1 2 50.0 0 2 0.0 1 1 2 2 2 0 1 1 -
+p722
+aVRich King SEA 11/22/1991 SEA vs. CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p723
+aVRicky Pierce SEA 11/22/1991 SEA vs. CHI L 39 30 13 23 56.5 0 0 - 4 4 100.0 1 3 4 5 1 0 0 4 -
+p724
+aVBart Kofoed SEA 11/22/1991 SEA vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p725
+aVMichael Cage SEA 11/20/1991 SEA @ DET W 41 7 3 7 42.9 0 0 - 1 2 50.0 1 8 9 3 1 1 0 2 -
+p726
+aVQuintin Dailey SEA 11/20/1991 SEA @ DET W 9 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -
+p727
+aVNate McMillan SEA 11/20/1991 SEA @ DET W 19 0 0 1 0.0 0 0 - 0 0 - 0 2 2 4 0 0 1 4 -
+p728
+aVGary Payton SEA 11/20/1991 SEA @ DET W 29 14 6 13 46.2 1 1 100.0 1 2 50.0 4 1 5 4 4 1 1 2 -
+p729
+aVEddie Johnson SEA 11/20/1991 SEA @ DET W 32 16 6 15 40.0 0 1 0.0 4 4 100.0 1 5 6 2 0 0 0 3 -
+p730
+aVRich King SEA 11/20/1991 SEA @ DET W 6 3 0 0 - 0 0 - 3 6 50.0 2 2 4 0 0 0 0 0 -
+p731
+aVDana Barros SEA 11/20/1991 SEA @ DET W 21 10 4 5 80.0 2 2 100.0 0 0 - 0 0 0 3 1 0 0 0 -
+p732
+aVBart Kofoed SEA 11/20/1991 SEA @ DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p733
+aVRicky Pierce SEA 11/20/1991 SEA @ DET W 26 18 8 18 44.4 0 2 0.0 2 2 100.0 2 2 4 1 1 0 0 3 -
+p734
+aVDerrick McKey SEA 11/20/1991 SEA @ DET W 31 9 3 15 20.0 0 2 0.0 3 6 50.0 2 3 5 2 3 1 1 2 -
+p735
+aVBenoit Benjamin SEA 11/20/1991 SEA @ DET W 24 10 5 12 41.7 0 0 - 0 0 - 3 5 8 0 0 3 2 3 -
+p736
+aVRicky Pierce SEA 11/19/1991 SEA @ WAS W 35 18 6 13 46.2 0 1 0.0 6 6 100.0 1 3 4 3 0 0 4 6 -
+p737
+aVBenoit Benjamin SEA 11/19/1991 SEA @ WAS W 30 15 5 14 35.7 0 0 - 5 7 71.4 3 8 11 2 2 1 1 4 -
+p738
+aVGary Payton SEA 11/19/1991 SEA @ WAS W 34 22 9 11 81.8 0 0 - 4 4 100.0 0 3 3 7 1 0 5 3 -
+p739
+aVDana Barros SEA 11/19/1991 SEA @ WAS W 14 9 3 4 75.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 1 1 -
+p740
+aVEddie Johnson SEA 11/19/1991 SEA @ WAS W 24 12 5 11 45.5 0 0 - 2 2 100.0 1 3 4 3 0 0 5 4 -
+p741
+aVNate McMillan SEA 11/19/1991 SEA @ WAS W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 4 2 2 2 2 -
+p742
+aVDerrick McKey SEA 11/19/1991 SEA @ WAS W 44 17 6 9 66.7 1 1 100.0 4 4 100.0 1 3 4 3 1 4 3 3 -
+p743
+aVMichael Cage SEA 11/19/1991 SEA @ WAS W 44 20 10 14 71.4 0 0 - 0 3 0.0 8 12 20 2 1 2 1 3 -
+p744
+aVRich King SEA 11/19/1991 SEA @ WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p745
+aVDana Barros SEA 11/17/1991 SEA @ MIN W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p746
+aVBenoit Benjamin SEA 11/17/1991 SEA @ MIN W 39 25 9 14 64.3 0 0 - 7 12 58.3 0 7 7 2 0 4 4 3 -
+p747
+aVQuintin Dailey SEA 11/17/1991 SEA @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p748
+aVGary Payton SEA 11/17/1991 SEA @ MIN W 34 10 5 10 50.0 0 1 0.0 0 0 - 1 1 2 9 0 0 4 5 -
+p749
+aVDerrick McKey SEA 11/17/1991 SEA @ MIN W 40 17 5 9 55.6 0 1 0.0 7 8 87.5 0 5 5 3 0 2 1 2 -
+p750
+aVEddie Johnson SEA 11/17/1991 SEA @ MIN W 24 8 2 8 25.0 0 1 0.0 4 4 100.0 0 5 5 0 0 0 2 2 -
+p751
+aVNate McMillan SEA 11/17/1991 SEA @ MIN W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 4 1 0 1 1 -
+p752
+aVMarty Conlon SEA 11/17/1991 SEA @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p753
+aVRich King SEA 11/17/1991 SEA @ MIN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -
+p754
+aVMichael Cage SEA 11/17/1991 SEA @ MIN W 34 12 6 8 75.0 0 0 - 0 1 0.0 4 7 11 1 0 0 1 5 -
+p755
+aVRicky Pierce SEA 11/17/1991 SEA @ MIN W 40 28 12 21 57.1 0 2 0.0 4 4 100.0 2 4 6 4 1 1 2 2 -
+p756
+aVBart Kofoed SEA 11/17/1991 SEA @ MIN W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 3 2 -
+p757
+aVRicky Pierce SEA 11/15/1991 SEA @ IND W 40 34 12 22 54.5 0 0 - 10 11 90.9 0 3 3 3 2 0 0 2 -
+p758
+aVBenoit Benjamin SEA 11/15/1991 SEA @ IND W 32 11 4 11 36.4 0 0 - 3 6 50.0 3 6 9 1 1 4 4 4 -
+p759
+aVDana Barros SEA 11/15/1991 SEA @ IND W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -
+p760
+aVMarty Conlon SEA 11/15/1991 SEA @ IND W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p761
+aVQuintin Dailey SEA 11/15/1991 SEA @ IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p762
+aVDerrick McKey SEA 11/15/1991 SEA @ IND W 40 22 7 12 58.3 0 0 - 8 10 80.0 4 7 11 4 1 1 2 1 -
+p763
+aVEddie Johnson SEA 11/15/1991 SEA @ IND W 33 32 11 19 57.9 4 5 80.0 6 8 75.0 2 3 5 1 1 1 4 3 -
+p764
+aVBart Kofoed SEA 11/15/1991 SEA @ IND W 11 0 0 2 0.0 0 2 0.0 0 2 0.0 1 2 3 1 0 1 1 0 -
+p765
+aVGary Payton SEA 11/15/1991 SEA @ IND W 38 16 6 8 75.0 0 0 - 4 5 80.0 2 3 5 15 2 0 2 4 -
+p766
+aVMichael Cage SEA 11/15/1991 SEA @ IND W 33 9 3 6 50.0 0 0 - 3 4 75.0 6 8 14 4 0 1 0 2 -
+p767
+aVRich King SEA 11/15/1991 SEA @ IND W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p768
+aVRicky Pierce SEA 11/14/1991 SEA @ CLE L 41 29 10 18 55.6 1 2 50.0 8 8 100.0 0 2 2 4 1 0 1 5 -
+p769
+aVDana Barros SEA 11/14/1991 SEA @ CLE L 16 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 4 0 0 2 1 -
+p770
+aVDerrick McKey SEA 11/14/1991 SEA @ CLE L 45 20 8 15 53.3 1 2 50.0 3 3 100.0 1 4 5 1 0 0 3 5 -
+p771
+aVEddie Johnson SEA 11/14/1991 SEA @ CLE L 22 13 5 10 50.0 0 1 0.0 3 4 75.0 2 4 6 0 0 0 0 3 -
+p772
+aVBenoit Benjamin SEA 11/14/1991 SEA @ CLE L 44 16 7 19 36.8 0 0 - 2 3 66.7 2 7 9 4 1 2 5 5 -
+p773
+aVGary Payton SEA 11/14/1991 SEA @ CLE L 42 11 5 7 71.4 0 0 - 1 2 50.0 2 3 5 12 4 1 3 5 -
+p774
+aVMichael Cage SEA 11/14/1991 SEA @ CLE L 43 12 5 10 50.0 0 0 - 2 4 50.0 4 6 10 2 2 1 1 3 -
+p775
+aVRich King SEA 11/14/1991 SEA @ CLE L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p776
+aVBart Kofoed SEA 11/14/1991 SEA @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p777
+aVQuintin Dailey SEA 11/14/1991 SEA @ CLE L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -
+p778
+aVNate McMillan SEA 11/09/1991 SEA vs. IND W 16 4 2 3 66.7 0 1 0.0 0 0 - 2 1 3 3 2 0 1 3 -
+p779
+aVRich King SEA 11/09/1991 SEA vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p780
+aVMarty Conlon SEA 11/09/1991 SEA vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p781
+aVEddie Johnson SEA 11/09/1991 SEA vs. IND W 23 12 5 14 35.7 2 4 50.0 0 0 - 0 0 0 0 0 0 1 2 -
+p782
+aVDerrick McKey SEA 11/09/1991 SEA vs. IND W 40 20 8 15 53.3 1 1 100.0 3 7 42.9 3 1 4 2 1 0 2 3 -
+p783
+aVRicky Pierce SEA 11/09/1991 SEA vs. IND W 35 21 8 18 44.4 0 1 0.0 5 5 100.0 1 1 2 3 0 0 1 5 -
+p784
+aVGary Payton SEA 11/09/1991 SEA vs. IND W 32 13 4 11 36.4 0 0 - 5 7 71.4 1 1 2 7 0 0 1 4 -
+p785
+aVBenoit Benjamin SEA 11/09/1991 SEA vs. IND W 40 21 7 13 53.8 0 0 - 7 9 77.8 4 10 14 0 1 1 3 5 -
+p786
+aVDana Barros SEA 11/09/1991 SEA vs. IND W 13 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -
+p787
+aVMichael Cage SEA 11/09/1991 SEA vs. IND W 37 23 10 14 71.4 0 0 - 3 5 60.0 10 12 22 1 1 0 2 5 -
+p788
+aVRicky Pierce SEA 11/07/1991 SEA @ UTH W 34 12 5 16 31.3 0 3 0.0 2 5 40.0 2 0 2 1 1 0 3 0 -
+p789
+aVBenoit Benjamin SEA 11/07/1991 SEA @ UTH W 44 22 8 13 61.5 0 0 - 6 8 75.0 2 11 13 3 3 4 7 2 -
+p790
+aVNate McMillan SEA 11/07/1991 SEA @ UTH W 17 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 2 1 0 0 3 -
+p791
+aVDerrick McKey SEA 11/07/1991 SEA @ UTH W 45 20 6 11 54.5 2 2 100.0 6 6 100.0 2 9 11 3 1 2 3 2 -
+p792
+aVEddie Johnson SEA 11/07/1991 SEA @ UTH W 19 6 2 9 22.2 0 0 - 2 2 100.0 2 2 4 1 0 1 0 1 -
+p793
+aVGary Payton SEA 11/07/1991 SEA @ UTH W 31 12 6 10 60.0 0 0 - 0 0 - 0 2 2 5 1 0 0 3 -
+p794
+aVMichael Cage SEA 11/07/1991 SEA @ UTH W 37 17 7 10 70.0 0 0 - 3 8 37.5 4 4 8 2 1 0 1 5 -
+p795
+aVDana Barros SEA 11/07/1991 SEA @ UTH W 13 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 2 -
+p796
+aVBart Kofoed SEA 11/05/1991 SEA vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p797
+aVMichael Cage SEA 11/05/1991 SEA vs. SAC W 31 6 2 7 28.6 0 0 - 2 2 100.0 6 10 16 0 1 1 1 3 -
+p798
+aVBenoit Benjamin SEA 11/05/1991 SEA vs. SAC W 35 14 6 12 50.0 0 0 - 2 3 66.7 1 7 8 0 0 4 6 1 -
+p799
+aVGary Payton SEA 11/05/1991 SEA vs. SAC W 36 18 7 10 70.0 0 0 - 4 5 80.0 1 3 4 9 2 0 4 2 -
+p800
+aVRicky Pierce SEA 11/05/1991 SEA vs. SAC W 28 15 6 12 50.0 1 3 33.3 2 3 66.7 3 1 4 3 0 2 2 2 -
+p801
+aVEddie Johnson SEA 11/05/1991 SEA vs. SAC W 25 7 3 10 30.0 0 0 - 1 4 25.0 2 2 4 3 1 0 2 2 -
+p802
+aVNate McMillan SEA 11/05/1991 SEA vs. SAC W 11 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 4 2 0 1 2 -
+p803
+aVDana Barros SEA 11/05/1991 SEA vs. SAC W 20 9 4 11 36.4 1 3 33.3 0 0 - 0 1 1 0 1 0 2 1 -
+p804
+aVMarty Conlon SEA 11/05/1991 SEA vs. SAC W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p805
+aVDerrick McKey SEA 11/05/1991 SEA vs. SAC W 43 20 8 17 47.1 0 1 0.0 4 5 80.0 3 1 4 2 1 0 0 3 -
+p806
+aVRich King SEA 11/05/1991 SEA vs. SAC W 8 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -
+p807
+aVDerrick McKey SEA 11/03/1991 SEA vs. SAN L 41 23 8 14 57.1 0 0 - 7 8 87.5 4 3 7 4 4 3 2 4 -
+p808
+aVRicky Pierce SEA 11/03/1991 SEA vs. SAN L 34 16 4 12 33.3 1 3 33.3 7 8 87.5 1 1 2 0 0 0 3 2 -
+p809
+aVMichael Cage SEA 11/03/1991 SEA vs. SAN L 36 4 2 3 66.7 0 0 - 0 0 - 3 6 9 0 1 1 2 3 -
+p810
+aVGary Payton SEA 11/03/1991 SEA vs. SAN L 17 6 3 9 33.3 0 0 - 0 0 - 1 4 5 3 1 0 5 3 -
+p811
+aVBenoit Benjamin SEA 11/03/1991 SEA vs. SAN L 31 9 4 7 57.1 0 0 - 1 2 50.0 2 6 8 1 0 0 5 6 -
+p812
+aVNate McMillan SEA 11/03/1991 SEA vs. SAN L 31 9 3 5 60.0 0 2 0.0 3 3 100.0 1 0 1 10 0 0 1 3 -
+p813
+aVDana Barros SEA 11/03/1991 SEA vs. SAN L 15 10 5 10 50.0 0 0 - 0 0 - 0 1 1 0 2 0 1 0 -
+p814
+aVEddie Johnson SEA 11/03/1991 SEA vs. SAN L 35 21 8 21 38.1 2 8 25.0 3 4 75.0 2 5 7 2 0 0 2 4 -
+p815
+aVMichael Cage SEA 11/01/1991 SEA vs. PHX L 32 10 4 5 80.0 0 0 - 2 3 66.7 6 7 13 0 2 0 1 4 -
+p816
+aVGary Payton SEA 11/01/1991 SEA vs. PHX L 18 10 5 12 41.7 0 0 - 0 0 - 2 1 3 7 1 0 2 2 -
+p817
+aVDerrick McKey SEA 11/01/1991 SEA vs. PHX L 39 20 8 15 53.3 0 1 0.0 4 4 100.0 2 5 7 1 1 2 6 4 -
+p818
+aVBenoit Benjamin SEA 11/01/1991 SEA vs. PHX L 40 13 5 18 27.8 0 0 - 3 5 60.0 4 8 12 3 0 2 2 2 -
+p819
+aVEddie Johnson SEA 11/01/1991 SEA vs. PHX L 32 5 2 7 28.6 0 0 - 1 4 25.0 0 4 4 3 1 0 1 1 -
+p820
+aVDana Barros SEA 11/01/1991 SEA vs. PHX L 24 7 2 9 22.2 1 4 25.0 2 2 100.0 0 1 1 0 0 0 2 1 -
+p821
+aVNate McMillan SEA 11/01/1991 SEA vs. PHX L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 0 -
+p822
+aVBart Kofoed SEA 11/01/1991 SEA vs. PHX L 19 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 3 -
+p823
+aVRicky Pierce SEA 11/01/1991 SEA vs. PHX L 31 25 8 17 47.1 0 1 0.0 9 10 90.0 1 2 3 2 0 0 3 3 -
+p824
+a.

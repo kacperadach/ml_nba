@@ -1,0 +1,1726 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHamed Haddadi MEM 04/13/2011 MEM @ LAC L 13 10 3 5 60.0 0 0 - 4 5 80.0 1 2 3 0 1 1 0 3 11
+p2
+aVShane Battier MEM 04/13/2011 MEM @ LAC L 28 13 4 8 50.0 1 4 25.0 4 5 80.0 2 6 8 3 0 0 2 1 -7
+p3
+aVLeon Powe MEM 04/13/2011 MEM @ LAC L 11 4 0 3 0.0 0 0 - 4 4 100.0 1 0 1 2 0 0 2 2 -14
+p4
+aVMarc Gasol MEM 04/13/2011 MEM @ LAC L 27 10 5 11 45.5 0 0 - 0 0 - 2 5 7 2 0 1 1 4 -4
+p5
+aVDarrell Arthur MEM 04/13/2011 MEM @ LAC L 31 7 2 10 20.0 0 0 - 3 4 75.0 3 6 9 3 2 1 2 6 -2
+p6
+aVO.J. Mayo MEM 04/13/2011 MEM @ LAC L 30 12 4 11 36.4 2 6 33.3 2 2 100.0 0 2 2 4 2 1 5 5 -10
+p7
+aVIsh Smith MEM 04/13/2011 MEM @ LAC L 25 8 3 3 100.0 0 0 - 2 3 66.7 1 1 2 3 1 0 4 2 3
+p8
+aVGreivis Vasquez MEM 04/13/2011 MEM @ LAC L 33 17 7 11 63.6 2 2 100.0 1 1 100.0 0 0 0 4 0 0 2 1 -8
+p9
+aVSam Young MEM 04/13/2011 MEM @ LAC L 42 22 8 22 36.4 2 3 66.7 4 4 100.0 3 4 7 4 2 0 3 0 -4
+p10
+aVDarrell Arthur MEM 04/12/2011 MEM @ POR L 16 6 3 7 42.9 0 0 - 0 0 - 3 3 6 1 0 0 1 4 0
+p11
+aVShane Battier MEM 04/12/2011 MEM @ POR L 30 12 4 6 66.7 2 2 100.0 2 2 100.0 0 1 1 2 0 0 1 2 -20
+p12
+aVSam Young MEM 04/12/2011 MEM @ POR L 36 13 5 9 55.6 1 1 100.0 2 3 66.7 2 2 4 2 1 0 0 3 -9
+p13
+aVIsh Smith MEM 04/12/2011 MEM @ POR L 13 6 3 6 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -8
+p14
+aVLeon Powe MEM 04/12/2011 MEM @ POR L 12 2 0 4 0.0 0 0 - 2 6 33.3 2 3 5 0 0 0 2 2 2
+p15
+aVMarc Gasol MEM 04/12/2011 MEM @ POR L 30 11 4 9 44.4 0 0 - 3 4 75.0 4 6 10 2 0 1 0 3 -4
+p16
+aVGreivis Vasquez MEM 04/12/2011 MEM @ POR L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 2 2 -17
+p17
+aVO.J. Mayo MEM 04/12/2011 MEM @ POR L 34 13 5 13 38.5 2 4 50.0 1 1 100.0 0 5 5 3 0 0 2 3 2
+p18
+aVMike Conley MEM 04/12/2011 MEM @ POR L 31 17 8 13 61.5 1 3 33.3 0 0 - 0 0 0 2 1 0 2 0 0
+p19
+aVHamed Haddadi MEM 04/12/2011 MEM @ POR L 20 9 4 8 50.0 0 0 - 1 2 50.0 4 6 10 1 0 1 4 3 -11
+p20
+aVO.J. Mayo MEM 04/10/2011 MEM vs. NOH W 26 18 6 12 50.0 2 6 33.3 4 4 100.0 1 0 1 2 3 0 1 2 17
+p21
+aVDarrell Arthur MEM 04/10/2011 MEM vs. NOH W 16 8 4 7 57.1 0 0 - 0 0 - 0 2 2 2 0 1 1 2 17
+p22
+aVSam Young MEM 04/10/2011 MEM vs. NOH W 22 14 5 7 71.4 0 0 - 4 6 66.7 0 6 6 2 0 0 3 1 5
+p23
+aVMarc Gasol MEM 04/10/2011 MEM vs. NOH W 29 16 5 7 71.4 0 0 - 6 6 100.0 1 6 7 2 1 3 3 2 12
+p24
+aVZach Randolph MEM 04/10/2011 MEM vs. NOH W 25 14 5 8 62.5 0 0 - 4 5 80.0 2 3 5 6 0 0 1 3 9
+p25
+aVMike Conley MEM 04/10/2011 MEM vs. NOH W 25 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 3 3 0 0 2 11
+p26
+aVGreivis Vasquez MEM 04/10/2011 MEM vs. NOH W 23 13 5 5 100.0 2 2 100.0 1 3 33.3 0 1 1 5 1 0 2 4 11
+p27
+aVLeon Powe MEM 04/10/2011 MEM vs. NOH W 7 4 2 5 40.0 0 0 - 0 3 0.0 0 0 0 0 0 0 0 1 -4
+p28
+aVHamed Haddadi MEM 04/10/2011 MEM vs. NOH W 19 9 2 3 66.7 0 0 - 5 6 83.3 1 6 7 1 0 1 1 3 10
+p29
+aVTony Allen MEM 04/10/2011 MEM vs. NOH W 22 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 1 2 0 1 1 5
+p30
+aVShane Battier MEM 04/10/2011 MEM vs. NOH W 21 5 2 3 66.7 1 2 50.0 0 0 - 1 4 5 1 0 0 0 0 20
+p31
+aVIsh Smith MEM 04/10/2011 MEM vs. NOH W 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -3
+p32
+aVHamed Haddadi MEM 04/08/2011 MEM vs. SAC W 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 1
+p33
+aVZach Randolph MEM 04/08/2011 MEM vs. SAC W 42 27 10 18 55.6 0 1 0.0 7 10 70.0 5 10 15 4 4 0 1 2 16
+p34
+aVGreivis Vasquez MEM 04/08/2011 MEM vs. SAC W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -9
+p35
+aVShane Battier MEM 04/08/2011 MEM vs. SAC W 20 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -8
+p36
+aVMarc Gasol MEM 04/08/2011 MEM vs. SAC W 32 18 5 11 45.5 0 0 - 8 9 88.9 0 4 4 0 0 4 2 4 -1
+p37
+aVDarrell Arthur MEM 04/08/2011 MEM vs. SAC W 12 10 5 7 71.4 0 0 - 0 1 0.0 0 1 1 1 0 2 0 3 -6
+p38
+aVO.J. Mayo MEM 04/08/2011 MEM vs. SAC W 15 8 3 12 25.0 0 5 0.0 2 2 100.0 1 1 2 2 0 0 1 0 -6
+p39
+aVLeon Powe MEM 04/08/2011 MEM vs. SAC W 3 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 2
+p40
+aVSam Young MEM 04/08/2011 MEM vs. SAC W 29 10 4 7 57.1 0 0 - 2 4 50.0 1 4 5 2 0 1 1 1 9
+p41
+aVTony Allen MEM 04/08/2011 MEM vs. SAC W 36 13 6 11 54.5 0 0 - 1 2 50.0 2 2 4 3 1 3 1 2 11
+p42
+aVMike Conley MEM 04/08/2011 MEM vs. SAC W 39 12 4 11 36.4 1 1 100.0 3 5 60.0 0 5 5 8 2 0 1 2 16
+p43
+aVMarc Gasol MEM 04/05/2011 MEM vs. LAC L 41 14 6 11 54.5 0 0 - 2 4 50.0 5 10 15 2 4 3 1 3 -5
+p44
+aVSam Young MEM 04/05/2011 MEM vs. LAC L 22 13 5 6 83.3 0 0 - 3 5 60.0 1 3 4 0 0 0 1 0 4
+p45
+aVDarrell Arthur MEM 04/05/2011 MEM vs. LAC L 14 0 0 7 0.0 0 0 - 0 0 - 0 2 2 1 2 1 3 1 -11
+p46
+aVShane Battier MEM 04/05/2011 MEM vs. LAC L 26 4 2 5 40.0 0 2 0.0 0 0 - 4 3 7 1 1 1 0 2 -5
+p47
+aVMike Conley MEM 04/05/2011 MEM vs. LAC L 39 20 8 16 50.0 0 3 0.0 4 4 100.0 1 4 5 4 4 0 1 2 -1
+p48
+aVZach Randolph MEM 04/05/2011 MEM vs. LAC L 36 14 6 15 40.0 0 0 - 2 4 50.0 0 7 7 2 0 0 2 3 12
+p49
+aVGreivis Vasquez MEM 04/05/2011 MEM vs. LAC L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p50
+aVIsh Smith MEM 04/05/2011 MEM vs. LAC L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p51
+aVO.J. Mayo MEM 04/05/2011 MEM vs. LAC L 11 3 1 9 11.1 0 2 0.0 1 1 100.0 1 0 1 0 2 0 2 2 -8
+p52
+aVLeon Powe MEM 04/05/2011 MEM vs. LAC L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p53
+aVHamed Haddadi MEM 04/05/2011 MEM vs. LAC L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p54
+aVTony Allen MEM 04/05/2011 MEM vs. LAC L 37 8 4 13 30.8 0 1 0.0 0 0 - 1 2 3 1 1 2 4 3 7
+p55
+aVDarrell Arthur MEM 04/02/2011 MEM vs. MIN W 17 6 2 5 40.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 3 2
+p56
+aVIsh Smith MEM 04/02/2011 MEM vs. MIN W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 4 2 0 1 2 5
+p57
+aVGreivis Vasquez MEM 04/02/2011 MEM vs. MIN W 8 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -7
+p58
+aVTony Allen MEM 04/02/2011 MEM vs. MIN W 29 12 6 13 46.2 0 1 0.0 0 0 - 3 1 4 2 4 1 0 2 14
+p59
+aVShane Battier MEM 04/02/2011 MEM vs. MIN W 17 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 1 4
+p60
+aVSam Young MEM 04/02/2011 MEM vs. MIN W 23 9 4 6 66.7 0 0 - 1 2 50.0 1 4 5 0 1 1 1 0 5
+p61
+aVHamed Haddadi MEM 04/02/2011 MEM vs. MIN W 4 4 2 3 66.7 0 0 - 0 1 0.0 1 0 1 0 0 0 0 1 6
+p62
+aVMarc Gasol MEM 04/02/2011 MEM vs. MIN W 30 10 5 7 71.4 0 0 - 0 0 - 2 7 9 1 4 1 0 4 2
+p63
+aVMike Conley MEM 04/02/2011 MEM vs. MIN W 34 5 2 11 18.2 1 3 33.3 0 0 - 1 2 3 9 3 0 5 2 17
+p64
+aVZach Randolph MEM 04/02/2011 MEM vs. MIN W 31 22 9 14 64.3 0 1 0.0 4 4 100.0 4 4 8 2 0 0 4 1 21
+p65
+aVLeon Powe MEM 04/02/2011 MEM vs. MIN W 12 11 5 8 62.5 0 0 - 1 2 50.0 2 1 3 1 0 0 2 2 4
+p66
+aVO.J. Mayo MEM 04/02/2011 MEM vs. MIN W 27 20 8 12 66.7 3 4 75.0 1 2 50.0 1 4 5 3 3 0 1 1 12
+p67
+aVGreivis Vasquez MEM 04/01/2011 MEM @ NOH W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 2
+p68
+aVLeon Powe MEM 04/01/2011 MEM @ NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p69
+aVDarrell Arthur MEM 04/01/2011 MEM @ NOH W 17 2 1 5 20.0 0 0 - 0 0 - 2 3 5 1 1 1 1 4 -4
+p70
+aVO.J. Mayo MEM 04/01/2011 MEM @ NOH W 16 13 5 7 71.4 2 2 100.0 1 1 100.0 0 1 1 1 1 0 2 3 9
+p71
+aVSam Young MEM 04/01/2011 MEM @ NOH W 24 7 2 6 33.3 0 0 - 3 4 75.0 0 4 4 0 1 0 1 0 -4
+p72
+aVMike Conley MEM 04/01/2011 MEM @ NOH W 39 10 4 10 40.0 1 3 33.3 1 2 50.0 1 4 5 7 0 0 2 1 10
+p73
+aVMarc Gasol MEM 04/01/2011 MEM @ NOH W 35 13 6 10 60.0 1 1 100.0 0 0 - 3 7 10 3 1 1 2 4 18
+p74
+aVHamed Haddadi MEM 04/01/2011 MEM @ NOH W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -8
+p75
+aVZach Randolph MEM 04/01/2011 MEM @ NOH W 40 28 11 19 57.9 1 1 100.0 5 6 83.3 4 6 10 7 1 0 3 4 23
+p76
+aVTony Allen MEM 04/01/2011 MEM @ NOH W 35 17 7 12 58.3 0 1 0.0 3 4 75.0 2 1 3 4 0 1 1 1 6
+p77
+aVShane Battier MEM 04/01/2011 MEM @ NOH W 20 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 1 1 0 13
+p78
+aVTony Allen MEM 03/30/2011 MEM vs. GSW W 34 21 10 17 58.8 0 0 - 1 2 50.0 2 6 8 4 3 1 1 2 24
+p79
+aVO.J. Mayo MEM 03/30/2011 MEM vs. GSW W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 2 1 1 3 -5
+p80
+aVSam Young MEM 03/30/2011 MEM vs. GSW W 24 11 5 10 50.0 0 0 - 1 2 50.0 0 2 2 1 1 1 1 1 9
+p81
+aVMarc Gasol MEM 03/30/2011 MEM vs. GSW W 27 8 4 5 80.0 0 0 - 0 2 0.0 1 2 3 3 2 1 1 2 14
+p82
+aVShane Battier MEM 03/30/2011 MEM vs. GSW W 26 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 0 0 1 13
+p83
+aVGreivis Vasquez MEM 03/30/2011 MEM vs. GSW W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 0 -3
+p84
+aVDarrell Arthur MEM 03/30/2011 MEM vs. GSW W 24 17 8 18 44.4 0 0 - 1 1 100.0 4 3 7 2 1 2 0 0 10
+p85
+aVIsh Smith MEM 03/30/2011 MEM vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p86
+aVHamed Haddadi MEM 03/30/2011 MEM vs. GSW W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p87
+aVMike Conley MEM 03/30/2011 MEM vs. GSW W 37 20 8 13 61.5 2 3 66.7 2 4 50.0 0 4 4 7 1 0 0 0 22
+p88
+aVZach Randolph MEM 03/30/2011 MEM vs. GSW W 32 20 8 11 72.7 0 0 - 4 4 100.0 2 11 13 6 1 0 1 2 18
+p89
+aVLeon Powe MEM 03/30/2011 MEM vs. GSW W 9 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -7
+p90
+aVMike Conley MEM 03/27/2011 MEM vs. SAS W 34 12 4 8 50.0 0 1 0.0 4 7 57.1 1 2 3 4 1 2 3 4 10
+p91
+aVShane Battier MEM 03/27/2011 MEM vs. SAS W 27 10 4 6 66.7 2 4 50.0 0 0 - 1 1 2 3 0 0 1 1 -2
+p92
+aVGreivis Vasquez MEM 03/27/2011 MEM vs. SAS W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -8
+p93
+aVSam Young MEM 03/27/2011 MEM vs. SAS W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 4 1 1
+p94
+aVLeon Powe MEM 03/27/2011 MEM vs. SAS W 7 4 2 4 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 4 -4
+p95
+aVIsh Smith MEM 03/27/2011 MEM vs. SAS W 9 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 5
+p96
+aVMarc Gasol MEM 03/27/2011 MEM vs. SAS W 37 11 5 11 45.5 0 1 0.0 1 1 100.0 0 8 8 4 1 4 1 2 7
+p97
+aVDarrell Arthur MEM 03/27/2011 MEM vs. SAS W 16 8 4 8 50.0 0 0 - 0 0 - 4 3 7 1 0 0 2 2 -2
+p98
+aVO.J. Mayo MEM 03/27/2011 MEM vs. SAS W 27 17 6 11 54.5 4 6 66.7 1 2 50.0 0 0 0 1 0 0 2 0 8
+p99
+aVZach Randolph MEM 03/27/2011 MEM vs. SAS W 32 23 8 14 57.1 0 0 - 7 9 77.8 5 6 11 3 0 0 0 2 11
+p100
+aVHamed Haddadi MEM 03/27/2011 MEM vs. SAS W 2 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -1
+p101
+aVTony Allen MEM 03/27/2011 MEM vs. SAS W 31 23 9 10 90.0 0 1 0.0 5 6 83.3 0 4 4 2 5 1 1 3 10
+p102
+aVShane Battier MEM 03/25/2011 MEM @ CHI L 15 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -1
+p103
+aVDarrell Arthur MEM 03/25/2011 MEM @ CHI L 20 10 4 8 50.0 0 1 0.0 2 2 100.0 1 2 3 2 0 3 2 4 -4
+p104
+aVGreivis Vasquez MEM 03/25/2011 MEM @ CHI L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -3
+p105
+aVSam Young MEM 03/25/2011 MEM @ CHI L 19 7 3 6 50.0 0 2 0.0 1 2 50.0 1 2 3 1 1 0 0 0 -3
+p106
+aVMarc Gasol MEM 03/25/2011 MEM @ CHI L 32 14 6 8 75.0 0 0 - 2 2 100.0 4 7 11 4 0 3 0 4 -4
+p107
+aVMike Conley MEM 03/25/2011 MEM @ CHI L 40 12 5 16 31.3 0 4 0.0 2 4 50.0 0 1 1 6 3 0 0 1 0
+p108
+aVO.J. Mayo MEM 03/25/2011 MEM @ CHI L 28 9 3 10 30.0 2 4 50.0 1 2 50.0 1 1 2 2 0 0 1 1 0
+p109
+aVTony Allen MEM 03/25/2011 MEM @ CHI L 33 13 6 8 75.0 0 0 - 1 1 100.0 0 2 2 3 2 1 3 2 -3
+p110
+aVLeon Powe MEM 03/25/2011 MEM @ CHI L 10 11 1 2 50.0 0 1 0.0 9 10 90.0 0 1 1 0 1 0 0 4 1
+p111
+aVZach Randolph MEM 03/25/2011 MEM @ CHI L 34 16 6 11 54.5 0 2 0.0 4 7 57.1 0 5 5 4 1 1 4 2 2
+p112
+aVDarrell Arthur MEM 03/23/2011 MEM @ BOS W 19 10 5 9 55.6 0 0 - 0 0 - 1 3 4 1 1 0 1 1 9
+p113
+aVShane Battier MEM 03/23/2011 MEM @ BOS W 26 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 3 0 2 1 7
+p114
+aVTony Allen MEM 03/23/2011 MEM @ BOS W 29 8 4 10 40.0 0 1 0.0 0 0 - 2 5 7 1 1 1 0 0 -1
+p115
+aVMarc Gasol MEM 03/23/2011 MEM @ BOS W 27 11 5 9 55.6 0 0 - 1 4 25.0 3 8 11 1 3 2 2 4 -9
+p116
+aVGreivis Vasquez MEM 03/23/2011 MEM @ BOS W 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 0 2 0 12
+p117
+aVZach Randolph MEM 03/23/2011 MEM @ BOS W 33 13 6 13 46.2 0 0 - 1 1 100.0 5 3 8 2 0 0 2 2 -6
+p118
+aVO.J. Mayo MEM 03/23/2011 MEM @ BOS W 19 11 5 11 45.5 1 1 100.0 0 0 - 0 1 1 2 2 0 0 3 4
+p119
+aVLeon Powe MEM 03/23/2011 MEM @ BOS W 17 13 5 6 83.3 0 0 - 3 4 75.0 0 0 0 1 0 0 0 0 12
+p120
+aVMike Conley MEM 03/23/2011 MEM @ BOS W 37 9 1 9 11.1 1 3 33.3 6 8 75.0 0 2 2 5 1 0 5 0 -9
+p121
+aVSam Young MEM 03/23/2011 MEM @ BOS W 22 11 4 11 36.4 1 1 100.0 2 2 100.0 0 7 7 0 1 0 0 5 -4
+p122
+aVLeon Powe MEM 03/21/2011 MEM vs. UTA W 10 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p123
+aVMike Conley MEM 03/21/2011 MEM vs. UTA W 35 11 5 13 38.5 1 3 33.3 0 0 - 0 0 0 11 1 0 1 1 20
+p124
+aVO.J. Mayo MEM 03/21/2011 MEM vs. UTA W 26 11 4 7 57.1 3 4 75.0 0 0 - 0 2 2 2 0 1 1 2 12
+p125
+aVTony Allen MEM 03/21/2011 MEM vs. UTA W 26 12 5 8 62.5 0 0 - 2 3 66.7 0 1 1 3 2 0 1 2 9
+p126
+aVDarrell Arthur MEM 03/21/2011 MEM vs. UTA W 19 14 7 11 63.6 0 0 - 0 0 - 0 2 2 1 1 4 2 4 6
+p127
+aVSam Young MEM 03/21/2011 MEM vs. UTA W 22 4 2 6 33.3 0 0 - 0 0 - 2 0 2 3 2 0 1 2 6
+p128
+aVZach Randolph MEM 03/21/2011 MEM vs. UTA W 34 19 8 15 53.3 0 1 0.0 3 4 75.0 5 8 13 5 1 0 2 2 23
+p129
+aVShane Battier MEM 03/21/2011 MEM vs. UTA W 22 2 1 5 20.0 0 2 0.0 0 0 - 2 4 6 2 0 0 0 1 9
+p130
+aVMarc Gasol MEM 03/21/2011 MEM vs. UTA W 20 11 4 9 44.4 0 0 - 3 3 100.0 3 3 6 2 1 1 1 3 0
+p131
+aVGreivis Vasquez MEM 03/21/2011 MEM vs. UTA W 13 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 4 0 0 0 1 -2
+p132
+aVHamed Haddadi MEM 03/21/2011 MEM vs. UTA W 12 10 5 7 71.4 0 0 - 0 0 - 2 2 4 0 0 1 0 1 3
+p133
+aVO.J. Mayo MEM 03/19/2011 MEM vs. IND W 21 7 3 9 33.3 0 2 0.0 1 2 50.0 1 1 2 3 1 2 0 2 13
+p134
+aVDarrell Arthur MEM 03/19/2011 MEM vs. IND W 24 8 4 8 50.0 0 0 - 0 0 - 0 7 7 0 0 3 2 4 10
+p135
+aVTony Allen MEM 03/19/2011 MEM vs. IND W 34 19 7 14 50.0 0 0 - 5 6 83.3 4 7 11 6 6 1 0 1 15
+p136
+aVShane Battier MEM 03/19/2011 MEM vs. IND W 17 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 1 0 0 0 7
+p137
+aVMike Conley MEM 03/19/2011 MEM vs. IND W 36 17 8 18 44.4 0 3 0.0 1 2 50.0 1 2 3 9 4 0 1 3 23
+p138
+aVIsh Smith MEM 03/19/2011 MEM vs. IND W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p139
+aVSam Young MEM 03/19/2011 MEM vs. IND W 26 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 0 0 0 2 0 8
+p140
+aVMarc Gasol MEM 03/19/2011 MEM vs. IND W 21 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 1 2 1 0 4 21
+p141
+aVLeon Powe MEM 03/19/2011 MEM vs. IND W 13 9 4 7 57.1 0 1 0.0 1 3 33.3 1 1 2 0 0 0 0 4 3
+p142
+aVZach Randolph MEM 03/19/2011 MEM vs. IND W 34 17 8 11 72.7 0 0 - 1 2 50.0 2 8 10 3 1 2 4 2 6
+p143
+aVGreivis Vasquez MEM 03/19/2011 MEM vs. IND W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 3 0 2
+p144
+aVShane Battier MEM 03/17/2011 MEM @ NYK L 25 11 3 7 42.9 1 4 25.0 4 4 100.0 2 3 5 3 0 0 0 1 -16
+p145
+aVMike Conley MEM 03/17/2011 MEM @ NYK L 33 16 6 12 50.0 2 3 66.7 2 2 100.0 1 3 4 6 0 0 2 3 -2
+p146
+aVTony Allen MEM 03/17/2011 MEM @ NYK L 23 14 4 9 44.4 0 1 0.0 6 7 85.7 2 2 4 1 3 0 1 2 -2
+p147
+aVZach Randolph MEM 03/17/2011 MEM @ NYK L 30 14 6 11 54.5 0 0 - 2 2 100.0 2 4 6 1 1 0 2 2 -8
+p148
+aVIsh Smith MEM 03/17/2011 MEM @ NYK L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -7
+p149
+aVO.J. Mayo MEM 03/17/2011 MEM @ NYK L 23 2 1 7 14.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -19
+p150
+aVMarc Gasol MEM 03/17/2011 MEM @ NYK L 26 7 3 5 60.0 0 0 - 1 3 33.3 1 5 6 1 0 2 0 1 -4
+p151
+aVSam Young MEM 03/17/2011 MEM @ NYK L 24 11 4 6 66.7 1 1 100.0 2 2 100.0 1 2 3 2 0 0 0 3 -5
+p152
+aVDarrell Arthur MEM 03/17/2011 MEM @ NYK L 28 15 5 11 45.5 0 0 - 5 6 83.3 0 7 7 4 1 0 3 4 -19
+p153
+aVLeon Powe MEM 03/17/2011 MEM @ NYK L 13 7 2 4 50.0 0 0 - 3 4 75.0 0 3 3 0 1 0 0 1 -11
+p154
+aVGreivis Vasquez MEM 03/17/2011 MEM @ NYK L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 1 0 -12
+p155
+aVLeon Powe MEM 03/14/2011 MEM vs. LAC W 4 8 3 4 75.0 0 0 - 2 3 66.7 0 1 1 0 1 0 0 0 0
+p156
+aVZach Randolph MEM 03/14/2011 MEM vs. LAC W 37 30 12 18 66.7 1 2 50.0 5 6 83.3 6 6 12 1 0 0 1 3 14
+p157
+aVHamed Haddadi MEM 03/14/2011 MEM vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p158
+aVGreivis Vasquez MEM 03/14/2011 MEM vs. LAC W 16 11 5 8 62.5 1 2 50.0 0 0 - 0 1 1 4 1 0 3 2 11
+p159
+aVO.J. Mayo MEM 03/14/2011 MEM vs. LAC W 19 0 0 5 0.0 0 0 - 0 0 - 0 1 1 2 1 1 0 0 16
+p160
+aVIsh Smith MEM 03/14/2011 MEM vs. LAC W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 2
+p161
+aVDarrell Arthur MEM 03/14/2011 MEM vs. LAC W 20 12 6 9 66.7 0 0 - 0 0 - 0 2 2 1 1 0 1 2 11
+p162
+aVTony Allen MEM 03/14/2011 MEM vs. LAC W 29 8 4 9 44.4 0 2 0.0 0 0 - 0 1 1 4 3 1 3 3 7
+p163
+aVSam Young MEM 03/14/2011 MEM vs. LAC W 28 14 6 9 66.7 1 1 100.0 1 2 50.0 0 3 3 2 3 0 2 3 26
+p164
+aVMarc Gasol MEM 03/14/2011 MEM vs. LAC W 25 4 2 4 50.0 0 0 - 0 0 - 2 9 11 2 2 3 0 2 14
+p165
+aVShane Battier MEM 03/14/2011 MEM vs. LAC W 26 3 1 4 25.0 1 2 50.0 0 0 - 1 7 8 0 0 3 2 1 10
+p166
+aVMike Conley MEM 03/14/2011 MEM vs. LAC W 28 13 5 12 41.7 2 3 66.7 1 2 50.0 1 3 4 5 2 0 2 4 7
+p167
+aVMarc Gasol MEM 03/12/2011 MEM @ MIA L 33 15 6 12 50.0 0 1 0.0 3 4 75.0 1 6 7 2 3 1 2 2 -36
+p168
+aVHamed Haddadi MEM 03/12/2011 MEM @ MIA L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 1 1 1 2
+p169
+aVSam Young MEM 03/12/2011 MEM @ MIA L 24 6 1 7 14.3 0 0 - 4 6 66.7 2 3 5 0 0 0 0 1 -11
+p170
+aVLeon Powe MEM 03/12/2011 MEM @ MIA L 7 4 1 1 100.0 0 0 - 2 4 50.0 0 2 2 1 0 0 0 1 2
+p171
+aVIsh Smith MEM 03/12/2011 MEM @ MIA L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 1
+p172
+aVTony Allen MEM 03/12/2011 MEM @ MIA L 23 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 0 1 0 0 1 -32
+p173
+aVO.J. Mayo MEM 03/12/2011 MEM @ MIA L 25 19 8 13 61.5 0 1 0.0 3 3 100.0 1 2 3 1 0 0 2 5 -14
+p174
+aVMike Conley MEM 03/12/2011 MEM @ MIA L 35 2 1 11 9.1 0 2 0.0 0 0 - 2 2 4 10 2 0 4 2 -29
+p175
+aVZach Randolph MEM 03/12/2011 MEM @ MIA L 27 13 6 12 50.0 0 1 0.0 1 2 50.0 4 5 9 1 0 1 2 2 -21
+p176
+aVShane Battier MEM 03/12/2011 MEM @ MIA L 21 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 0 1 0 0 2 -19
+p177
+aVDarrell Arthur MEM 03/12/2011 MEM @ MIA L 19 6 2 7 28.6 0 0 - 2 2 100.0 0 4 4 0 1 0 2 3 -9
+p178
+aVGreivis Vasquez MEM 03/12/2011 MEM @ MIA L 9 10 4 5 80.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 2 1
+p179
+aVO.J. Mayo MEM 03/09/2011 MEM vs. NYK L 20 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 1 0
+p180
+aVHamed Haddadi MEM 03/09/2011 MEM vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p181
+aVIsh Smith MEM 03/09/2011 MEM vs. NYK L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p182
+aVZach Randolph MEM 03/09/2011 MEM vs. NYK L 38 20 7 13 53.8 0 0 - 6 7 85.7 1 10 11 3 2 0 4 3 -4
+p183
+aVMarc Gasol MEM 03/09/2011 MEM vs. NYK L 24 12 3 7 42.9 0 0 - 6 6 100.0 2 1 3 1 0 3 4 3 -20
+p184
+aVShane Battier MEM 03/09/2011 MEM vs. NYK L 27 3 1 2 50.0 1 1 100.0 0 0 - 0 4 4 1 1 0 0 0 16
+p185
+aVDarrell Arthur MEM 03/09/2011 MEM vs. NYK L 29 21 6 12 50.0 0 0 - 9 9 100.0 1 6 7 0 1 2 3 1 16
+p186
+aVSam Young MEM 03/09/2011 MEM vs. NYK L 21 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 2 1 1 1 -7
+p187
+aVTony Allen MEM 03/09/2011 MEM vs. NYK L 32 22 7 8 87.5 0 0 - 8 9 88.9 0 1 1 4 2 1 2 4 -10
+p188
+aVMike Conley MEM 03/09/2011 MEM vs. NYK L 39 20 7 13 53.8 2 3 66.7 4 4 100.0 0 0 0 6 5 0 2 0 -7
+p189
+aVTony Allen MEM 03/07/2011 MEM vs. OKC W 31 20 7 12 58.3 1 2 50.0 5 7 71.4 3 3 6 2 1 0 1 3 -2
+p190
+aVZach Randolph MEM 03/07/2011 MEM vs. OKC W 36 17 6 9 66.7 0 1 0.0 5 6 83.3 1 5 6 4 3 0 2 3 19
+p191
+aVMike Conley MEM 03/07/2011 MEM vs. OKC W 39 20 9 20 45.0 0 5 0.0 2 2 100.0 0 2 2 9 2 1 0 1 13
+p192
+aVO.J. Mayo MEM 03/07/2011 MEM vs. OKC W 23 7 2 6 33.3 1 2 50.0 2 4 50.0 2 5 7 2 1 1 1 2 0
+p193
+aVDarrell Arthur MEM 03/07/2011 MEM vs. OKC W 14 6 3 9 33.3 0 0 - 0 0 - 1 3 4 0 0 3 1 2 -19
+p194
+aVIsh Smith MEM 03/07/2011 MEM vs. OKC W 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 -5
+p195
+aVShane Battier MEM 03/07/2011 MEM vs. OKC W 27 7 3 6 50.0 0 2 0.0 1 2 50.0 5 2 7 1 0 2 1 2 8
+p196
+aVJason Williams MEM 03/07/2011 MEM vs. OKC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p197
+aVMarc Gasol MEM 03/07/2011 MEM vs. OKC W 29 18 9 13 69.2 0 0 - 0 0 - 3 3 6 1 0 2 1 2 0
+p198
+aVSam Young MEM 03/07/2011 MEM vs. OKC W 32 12 5 9 55.6 0 0 - 2 3 66.7 0 1 1 2 0 0 0 4 18
+p199
+aVMike Conley MEM 03/06/2011 MEM @ DAL W 35 17 7 15 46.7 1 2 50.0 2 2 100.0 1 2 3 10 1 0 1 4 1
+p200
+aVDarrell Arthur MEM 03/06/2011 MEM @ DAL W 23 13 6 11 54.5 0 0 - 1 1 100.0 0 6 6 1 0 1 0 5 11
+p201
+aVIsh Smith MEM 03/06/2011 MEM @ DAL W 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p202
+aVTony Allen MEM 03/06/2011 MEM @ DAL W 20 4 2 8 25.0 0 0 - 0 0 - 0 2 2 2 1 0 1 1 -21
+p203
+aVHamed Haddadi MEM 03/06/2011 MEM @ DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p204
+aVJason Williams MEM 03/06/2011 MEM @ DAL W 9 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p205
+aVO.J. Mayo MEM 03/06/2011 MEM @ DAL W 28 11 4 11 36.4 1 5 20.0 2 2 100.0 0 1 1 7 2 0 1 3 22
+p206
+aVZach Randolph MEM 03/06/2011 MEM @ DAL W 42 27 10 13 76.9 0 0 - 7 10 70.0 4 5 9 1 4 1 3 2 -1
+p207
+aVSam Young MEM 03/06/2011 MEM @ DAL W 13 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 1 0 0 2 0 -14
+p208
+aVMarc Gasol MEM 03/06/2011 MEM @ DAL W 29 16 6 9 66.7 0 0 - 4 6 66.7 4 6 10 0 1 0 3 3 -4
+p209
+aVShane Battier MEM 03/06/2011 MEM @ DAL W 37 11 4 10 40.0 1 5 20.0 2 2 100.0 6 5 11 1 0 0 0 3 11
+p210
+aVHamed Haddadi MEM 03/04/2011 MEM vs. NOH L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 4
+p211
+aVTony Allen MEM 03/04/2011 MEM vs. NOH L 27 6 2 5 40.0 0 0 - 2 2 100.0 3 3 6 1 2 3 4 2 -14
+p212
+aVShane Battier MEM 03/04/2011 MEM vs. NOH L 20 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 3 1 0 1 2 10
+p213
+aVJason Williams MEM 03/04/2011 MEM vs. NOH L 14 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 3 1 0 1 0 -9
+p214
+aVMike Conley MEM 03/04/2011 MEM vs. NOH L 25 12 5 7 71.4 2 4 50.0 0 0 - 1 0 1 3 1 0 2 4 -1
+p215
+aVZach Randolph MEM 03/04/2011 MEM vs. NOH L 36 20 6 15 40.0 0 1 0.0 8 10 80.0 3 8 11 3 2 0 2 3 -22
+p216
+aVSam Young MEM 03/04/2011 MEM vs. NOH L 24 4 2 8 25.0 0 1 0.0 0 0 - 2 0 2 2 0 1 0 1 -20
+p217
+aVO.J. Mayo MEM 03/04/2011 MEM vs. NOH L 25 13 5 10 50.0 3 7 42.9 0 0 - 0 2 2 6 1 0 1 2 10
+p218
+aVMarc Gasol MEM 03/04/2011 MEM vs. NOH L 33 12 4 8 50.0 0 0 - 4 7 57.1 1 4 5 1 0 0 2 2 2
+p219
+aVIsh Smith MEM 03/04/2011 MEM vs. NOH L 9 4 1 2 50.0 0 0 - 2 4 50.0 0 1 1 1 0 0 0 2 3
+p220
+aVDarrell Arthur MEM 03/04/2011 MEM vs. NOH L 22 12 6 11 54.5 0 2 0.0 0 0 - 0 5 5 0 1 1 1 4 2
+p221
+aVSam Young MEM 03/01/2011 MEM vs. SAS W 28 6 3 7 42.9 0 0 - 0 0 - 0 1 1 3 2 0 0 3 7
+p222
+aVZach Randolph MEM 03/01/2011 MEM vs. SAS W 36 21 9 19 47.4 0 0 - 3 3 100.0 4 6 10 5 4 0 3 1 7
+p223
+aVMike Conley MEM 03/01/2011 MEM vs. SAS W 34 18 7 11 63.6 0 0 - 4 4 100.0 0 4 4 9 3 1 2 0 10
+p224
+aVGreivis Vasquez MEM 03/01/2011 MEM vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p225
+aVDarrell Arthur MEM 03/01/2011 MEM vs. SAS W 31 21 9 19 47.4 0 1 0.0 3 3 100.0 5 3 8 0 0 3 3 3 13
+p226
+aVMarc Gasol MEM 03/01/2011 MEM vs. SAS W 12 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 2 0 2 3
+p227
+aVTony Allen MEM 03/01/2011 MEM vs. SAS W 33 20 8 9 88.9 0 0 - 4 4 100.0 1 2 3 1 1 0 1 3 15
+p228
+aVShane Battier MEM 03/01/2011 MEM vs. SAS W 24 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 1 4 11
+p229
+aVRodney Carney MEM 03/01/2011 MEM vs. SAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p230
+aVO.J. Mayo MEM 03/01/2011 MEM vs. SAS W 19 9 4 10 40.0 0 2 0.0 1 2 50.0 0 4 4 0 0 1 0 1 13
+p231
+aVJason Williams MEM 03/01/2011 MEM vs. SAS W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 1 0 2 0 3
+p232
+aVHamed Haddadi MEM 03/01/2011 MEM vs. SAS W 5 6 3 3 100.0 0 0 - 0 0 - 3 1 4 0 0 0 0 0 -2
+p233
+aVDarrell Arthur MEM 02/27/2011 MEM @ SAS L 17 12 5 10 50.0 0 0 - 2 2 100.0 2 1 3 2 1 2 0 3 -12
+p234
+aVO.J. Mayo MEM 02/27/2011 MEM @ SAS L 16 0 0 3 0.0 0 0 - 0 0 - 0 1 1 3 1 0 3 2 4
+p235
+aVMike Conley MEM 02/27/2011 MEM @ SAS L 38 19 9 17 52.9 1 3 33.3 0 0 - 0 3 3 1 1 1 2 5 5
+p236
+aVTony Allen MEM 02/27/2011 MEM @ SAS L 19 10 5 10 50.0 0 1 0.0 0 1 0.0 3 0 3 1 0 1 2 5 -17
+p237
+aVJason Williams MEM 02/27/2011 MEM @ SAS L 14 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 1 0 1 0 -15
+p238
+aVZach Randolph MEM 02/27/2011 MEM @ SAS L 43 24 7 26 26.9 1 1 100.0 9 10 90.0 10 7 17 5 0 1 0 1 -1
+p239
+aVMarc Gasol MEM 02/27/2011 MEM @ SAS L 35 6 1 7 14.3 0 0 - 4 4 100.0 3 4 7 7 0 1 2 4 -1
+p240
+aVSam Young MEM 02/27/2011 MEM @ SAS L 26 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 1 0 0 3 5
+p241
+aVShane Battier MEM 02/27/2011 MEM @ SAS L 30 8 2 6 33.3 2 4 50.0 2 2 100.0 0 4 4 0 4 0 1 3 -3
+p242
+aVZach Randolph MEM 02/26/2011 MEM vs. SAC W 30 23 10 15 66.7 0 0 - 3 4 75.0 5 7 12 1 0 0 0 3 18
+p243
+aVJason Williams MEM 02/26/2011 MEM vs. SAC W 16 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 5 0 0 1 0 11
+p244
+aVMarc Gasol MEM 02/26/2011 MEM vs. SAC W 27 21 10 15 66.7 0 0 - 1 1 100.0 1 5 6 1 1 1 1 3 12
+p245
+aVShane Battier MEM 02/26/2011 MEM vs. SAC W 25 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 3 1 3 1 0 23
+p246
+aVSam Young MEM 02/26/2011 MEM vs. SAC W 30 10 5 9 55.6 0 0 - 0 0 - 0 6 6 3 1 0 0 2 15
+p247
+aVMike Conley MEM 02/26/2011 MEM vs. SAC W 25 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 4 0 1 2 2 20
+p248
+aVGreivis Vasquez MEM 02/26/2011 MEM vs. SAC W 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 1 0 1 -3
+p249
+aVHamed Haddadi MEM 02/26/2011 MEM vs. SAC W 21 10 5 11 45.5 0 0 - 0 1 0.0 4 6 10 1 0 2 1 3 16
+p250
+aVDarrell Arthur MEM 02/26/2011 MEM vs. SAC W 15 17 7 8 87.5 0 0 - 3 4 75.0 2 1 3 0 0 0 1 2 15
+p251
+aVO.J. Mayo MEM 02/26/2011 MEM vs. SAC W 26 13 4 12 33.3 3 7 42.9 2 2 100.0 0 3 3 1 4 0 2 1 16
+p252
+aVTony Allen MEM 02/26/2011 MEM vs. SAC W 16 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 1 0 1 1 2
+p253
+aVRodney Carney MEM 02/26/2011 MEM vs. SAC W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -5
+p254
+aVMarc Gasol MEM 02/23/2011 MEM @ MIN W 33 9 4 9 44.4 0 0 - 1 2 50.0 1 5 6 3 0 2 2 3 12
+p255
+aVDarrell Arthur MEM 02/23/2011 MEM @ MIN W 15 4 2 5 40.0 0 0 - 0 0 - 2 5 7 1 0 1 2 3 4
+p256
+aVMike Conley MEM 02/23/2011 MEM @ MIN W 37 22 5 15 33.3 3 6 50.0 9 12 75.0 1 4 5 9 1 1 2 3 14
+p257
+aVSam Young MEM 02/23/2011 MEM @ MIN W 39 16 6 14 42.9 1 1 100.0 3 3 100.0 2 7 9 1 2 0 3 3 1
+p258
+aVO.J. Mayo MEM 02/23/2011 MEM @ MIN W 20 9 4 12 33.3 1 7 14.3 0 0 - 0 1 1 6 3 0 2 1 1
+p259
+aVHasheem Thabeet MEM 02/23/2011 MEM @ MIN W 10 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 -8
+p260
+aVZach Randolph MEM 02/23/2011 MEM @ MIN W 37 24 10 16 62.5 0 1 0.0 4 7 57.1 2 8 10 5 0 0 0 3 10
+p261
+aVJason Williams MEM 02/23/2011 MEM @ MIN W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 0 -4
+p262
+aVTony Allen MEM 02/23/2011 MEM @ MIN W 37 16 6 11 54.5 0 0 - 4 4 100.0 2 1 3 0 2 1 0 4 15
+p263
+aVJason Williams MEM 02/22/2011 MEM @ DEN L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 9 0 0 1 2 4
+p264
+aVMike Conley MEM 02/22/2011 MEM @ DEN L 30 10 4 6 66.7 2 2 100.0 0 0 - 0 1 1 3 0 1 4 1 -20
+p265
+aVHasheem Thabeet MEM 02/22/2011 MEM @ DEN L 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 5
+p266
+aVDarrell Arthur MEM 02/22/2011 MEM @ DEN L 22 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 6 1
+p267
+aVZach Randolph MEM 02/22/2011 MEM @ DEN L 28 12 6 10 60.0 0 0 - 0 2 0.0 5 3 8 0 2 0 5 4 -23
+p268
+aVMarc Gasol MEM 02/22/2011 MEM @ DEN L 25 10 3 6 50.0 0 0 - 4 5 80.0 2 0 2 3 2 0 4 6 -18
+p269
+aVTony Allen MEM 02/22/2011 MEM @ DEN L 31 26 8 15 53.3 0 0 - 10 14 71.4 2 6 8 2 1 0 2 4 -5
+p270
+aVXavier Henry MEM 02/22/2011 MEM @ DEN L 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p271
+aVSam Young MEM 02/22/2011 MEM @ DEN L 30 10 5 11 45.5 0 0 - 0 3 0.0 2 5 7 2 2 2 2 3 -16
+p272
+aVDeMarre Carroll MEM 02/22/2011 MEM @ DEN L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 14
+p273
+aVGreivis Vasquez MEM 02/22/2011 MEM @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 1 0 0 0
+p274
+aVO.J. Mayo MEM 02/22/2011 MEM @ DEN L 30 21 8 14 57.1 2 7 28.6 3 5 60.0 0 3 3 1 1 0 3 1 -9
+p275
+aVGreivis Vasquez MEM 02/15/2011 MEM vs. PHI W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 6
+p276
+aVDarrell Arthur MEM 02/15/2011 MEM vs. PHI W 19 9 3 7 42.9 0 0 - 3 4 75.0 1 6 7 1 0 1 1 4 0
+p277
+aVMarc Gasol MEM 02/15/2011 MEM vs. PHI W 33 9 4 9 44.4 0 0 - 1 2 50.0 0 5 5 3 0 1 0 2 13
+p278
+aVTony Allen MEM 02/15/2011 MEM vs. PHI W 32 10 5 13 38.5 0 0 - 0 0 - 1 2 3 0 2 0 1 4 7
+p279
+aVJason Williams MEM 02/15/2011 MEM vs. PHI W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 1 0 0 8
+p280
+aVMike Conley MEM 02/15/2011 MEM vs. PHI W 37 22 9 17 52.9 4 7 57.1 0 1 0.0 0 2 2 3 5 2 1 2 0
+p281
+aVZach Randolph MEM 02/15/2011 MEM vs. PHI W 43 21 7 17 41.2 0 1 0.0 7 8 87.5 4 6 10 7 2 1 0 2 12
+p282
+aVO.J. Mayo MEM 02/15/2011 MEM vs. PHI W 6 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p283
+aVRudy Gay MEM 02/15/2011 MEM vs. PHI W 13 11 5 7 71.4 0 1 0.0 1 4 25.0 2 2 4 1 1 0 0 1 15
+p284
+aVXavier Henry MEM 02/15/2011 MEM vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p285
+aVSam Young MEM 02/15/2011 MEM vs. PHI W 36 12 6 12 50.0 0 0 - 0 0 - 3 2 5 1 2 0 1 3 1
+p286
+aVMarc Gasol MEM 02/13/2011 MEM vs. DEN W 27 15 5 8 62.5 0 0 - 5 7 71.4 2 5 7 1 0 0 2 1 -20
+p287
+aVRudy Gay MEM 02/13/2011 MEM vs. DEN W 39 23 9 15 60.0 1 2 50.0 4 4 100.0 0 5 5 4 2 0 4 3 3
+p288
+aVDarrell Arthur MEM 02/13/2011 MEM vs. DEN W 31 24 8 11 72.7 0 0 - 8 10 80.0 2 4 6 1 1 2 1 3 17
+p289
+aVMike Conley MEM 02/13/2011 MEM vs. DEN W 36 17 7 11 63.6 1 1 100.0 2 2 100.0 0 0 0 5 3 0 2 2 8
+p290
+aVSam Young MEM 02/13/2011 MEM vs. DEN W 32 6 3 11 27.3 0 1 0.0 0 0 - 1 3 4 3 1 0 1 2 15
+p291
+aVTony Allen MEM 02/13/2011 MEM vs. DEN W 28 17 6 8 75.0 0 0 - 5 6 83.3 0 3 3 0 3 0 0 2 6
+p292
+aVGreivis Vasquez MEM 02/13/2011 MEM vs. DEN W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -10
+p293
+aVZach Randolph MEM 02/13/2011 MEM vs. DEN W 34 14 6 13 46.2 0 1 0.0 2 3 66.7 5 11 16 1 1 0 2 3 11
+p294
+aVJason Williams MEM 02/13/2011 MEM vs. DEN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 10
+p295
+aVTony Allen MEM 02/11/2011 MEM vs. MIL W 25 10 3 7 42.9 0 0 - 4 8 50.0 0 1 1 2 2 2 1 2 14
+p296
+aVHasheem Thabeet MEM 02/11/2011 MEM vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p297
+aVHamed Haddadi MEM 02/11/2011 MEM vs. MIL W 8 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 2 1 2 10
+p298
+aVGreivis Vasquez MEM 02/11/2011 MEM vs. MIL W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p299
+aVMarc Gasol MEM 02/11/2011 MEM vs. MIL W 36 9 3 7 42.9 0 0 - 3 4 75.0 1 7 8 2 0 2 2 4 -1
+p300
+aVDarrell Arthur MEM 02/11/2011 MEM vs. MIL W 36 12 5 14 35.7 0 0 - 2 2 100.0 3 5 8 0 1 3 1 3 -10
+p301
+aVSam Young MEM 02/11/2011 MEM vs. MIL W 42 19 7 10 70.0 0 1 0.0 5 6 83.3 1 7 8 0 0 0 0 2 4
+p302
+aVMike Conley MEM 02/11/2011 MEM vs. MIL W 39 23 8 19 42.1 3 5 60.0 4 6 66.7 1 4 5 8 3 0 3 3 2
+p303
+aVDeMarre Carroll MEM 02/11/2011 MEM vs. MIL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p304
+aVJason Williams MEM 02/11/2011 MEM vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p305
+aVRudy Gay MEM 02/11/2011 MEM vs. MIL W 40 14 5 11 45.5 0 0 - 4 4 100.0 3 7 10 3 3 0 4 3 1
+p306
+aVTony Allen MEM 02/08/2011 MEM @ OKC W 40 27 9 12 75.0 0 0 - 9 12 75.0 1 3 4 1 5 3 0 5 24
+p307
+aVDeMarre Carroll MEM 02/08/2011 MEM @ OKC W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -8
+p308
+aVZach Randolph MEM 02/08/2011 MEM @ OKC W 47 31 11 19 57.9 1 1 100.0 8 9 88.9 4 10 14 4 0 0 2 2 14
+p309
+aVSam Young MEM 02/08/2011 MEM @ OKC W 45 14 5 11 45.5 0 1 0.0 4 6 66.7 0 3 3 3 1 1 1 0 12
+p310
+aVDarrell Arthur MEM 02/08/2011 MEM @ OKC W 13 4 2 10 20.0 0 0 - 0 0 - 0 2 2 0 0 0 1 5 -16
+p311
+aVHasheem Thabeet MEM 02/08/2011 MEM @ OKC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p312
+aVMarc Gasol MEM 02/08/2011 MEM @ OKC W 44 12 5 11 45.5 0 0 - 2 2 100.0 0 5 5 2 1 1 0 3 14
+p313
+aVGreivis Vasquez MEM 02/08/2011 MEM @ OKC W 17 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 3 0 0 1 1 -5
+p314
+aVXavier Henry MEM 02/08/2011 MEM @ OKC W 12 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 1 0 0 2 -20
+p315
+aVMike Conley MEM 02/08/2011 MEM @ OKC W 36 13 4 12 33.3 1 3 33.3 4 6 66.7 0 4 4 4 2 0 3 4 9
+p316
+aVMarc Gasol MEM 02/07/2011 MEM vs. LAL L 40 10 5 14 35.7 0 0 - 0 0 - 2 10 12 3 0 2 2 5 -10
+p317
+aVDarrell Arthur MEM 02/07/2011 MEM vs. LAL L 14 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 0 2 1 1 4 -9
+p318
+aVZach Randolph MEM 02/07/2011 MEM vs. LAL L 40 8 2 14 14.3 0 1 0.0 4 4 100.0 3 9 12 4 1 0 4 4 -6
+p319
+aVRudy Gay MEM 02/07/2011 MEM vs. LAL L 40 18 7 15 46.7 1 3 33.3 3 4 75.0 2 6 8 3 1 1 2 2 -3
+p320
+aVGreivis Vasquez MEM 02/07/2011 MEM vs. LAL L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p321
+aVMike Conley MEM 02/07/2011 MEM vs. LAL L 39 13 5 12 41.7 1 2 50.0 2 3 66.7 0 3 3 4 3 0 2 0 -8
+p322
+aVSam Young MEM 02/07/2011 MEM vs. LAL L 34 22 9 19 47.4 2 3 66.7 2 2 100.0 1 2 3 1 2 0 2 4 -10
+p323
+aVHasheem Thabeet MEM 02/07/2011 MEM vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p324
+aVXavier Henry MEM 02/07/2011 MEM vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p325
+aVTony Allen MEM 02/07/2011 MEM vs. LAL L 21 6 2 5 40.0 0 1 0.0 2 2 100.0 4 0 4 2 1 0 1 5 -6
+p326
+aVZach Randolph MEM 02/05/2011 MEM @ HOU L 45 22 8 14 57.1 0 0 - 6 7 85.7 7 10 17 1 0 3 3 2 -13
+p327
+aVMarc Gasol MEM 02/05/2011 MEM @ HOU L 39 19 7 15 46.7 0 0 - 5 6 83.3 1 0 1 2 0 0 3 4 -9
+p328
+aVRudy Gay MEM 02/05/2011 MEM @ HOU L 48 17 7 19 36.8 0 1 0.0 3 3 100.0 1 10 11 2 1 3 2 2 -10
+p329
+aVMike Conley MEM 02/05/2011 MEM @ HOU L 41 6 2 16 12.5 0 5 0.0 2 3 66.7 2 1 3 5 2 0 2 2 -6
+p330
+aVGreivis Vasquez MEM 02/05/2011 MEM @ HOU L 19 7 3 5 60.0 1 2 50.0 0 0 - 1 5 6 3 0 0 1 1 6
+p331
+aVDarrell Arthur MEM 02/05/2011 MEM @ HOU L 22 9 4 5 80.0 0 0 - 1 2 50.0 1 3 4 0 0 1 1 4 18
+p332
+aVSam Young MEM 02/05/2011 MEM @ HOU L 31 7 2 8 25.0 0 0 - 3 4 75.0 1 2 3 0 3 1 0 5 -2
+p333
+aVTony Allen MEM 02/05/2011 MEM @ HOU L 17 6 3 6 50.0 0 0 - 0 0 - 0 1 1 3 2 0 0 5 8
+p334
+aVXavier Henry MEM 02/05/2011 MEM @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p335
+aVDarrell Arthur MEM 02/04/2011 MEM vs. CLE W 16 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 0 2 3 5 4
+p336
+aVHasheem Thabeet MEM 02/04/2011 MEM vs. CLE W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 2 1 0 2 -2
+p337
+aVRudy Gay MEM 02/04/2011 MEM vs. CLE W 45 26 8 20 40.0 1 3 33.3 9 11 81.8 1 10 11 4 3 2 2 2 12
+p338
+aVZach Randolph MEM 02/04/2011 MEM vs. CLE W 44 29 12 19 63.2 0 0 - 5 5 100.0 5 8 13 2 0 0 6 3 6
+p339
+aVMarc Gasol MEM 02/04/2011 MEM vs. CLE W 24 6 3 6 50.0 0 0 - 0 0 - 0 1 1 3 0 0 2 5 6
+p340
+aVSam Young MEM 02/04/2011 MEM vs. CLE W 34 19 7 10 70.0 0 0 - 5 5 100.0 1 0 1 2 1 1 0 0 5
+p341
+aVGreivis Vasquez MEM 02/04/2011 MEM vs. CLE W 11 7 3 5 60.0 0 1 0.0 1 1 100.0 2 1 3 1 2 1 0 1 7
+p342
+aVXavier Henry MEM 02/04/2011 MEM vs. CLE W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p343
+aVTony Allen MEM 02/04/2011 MEM vs. CLE W 16 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -1
+p344
+aVHamed Haddadi MEM 02/04/2011 MEM vs. CLE W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 0 2 1
+p345
+aVMike Conley MEM 02/04/2011 MEM vs. CLE W 38 21 7 13 53.8 2 4 50.0 5 6 83.3 0 2 2 8 1 0 1 4 1
+p346
+aVGreivis Vasquez MEM 02/02/2011 MEM @ MIN W 13 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 1 -5
+p347
+aVRudy Gay MEM 02/02/2011 MEM @ MIN W 39 22 8 14 57.1 1 2 50.0 5 6 83.3 1 6 7 7 2 1 4 2 14
+p348
+aVZach Randolph MEM 02/02/2011 MEM @ MIN W 34 23 11 20 55.0 1 1 100.0 0 0 - 3 10 13 2 1 1 2 3 23
+p349
+aVMike Conley MEM 02/02/2011 MEM @ MIN W 36 9 3 12 25.0 3 5 60.0 0 0 - 0 5 5 9 3 0 2 1 25
+p350
+aVSam Young MEM 02/02/2011 MEM @ MIN W 40 18 9 16 56.3 0 0 - 0 0 - 1 3 4 6 3 1 0 1 26
+p351
+aVDarrell Arthur MEM 02/02/2011 MEM @ MIN W 18 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 0 0 0 1 2 -5
+p352
+aVTony Allen MEM 02/02/2011 MEM @ MIN W 18 6 2 6 33.3 0 2 0.0 2 2 100.0 1 0 1 0 2 0 2 1 -3
+p353
+aVHasheem Thabeet MEM 02/02/2011 MEM @ MIN W 11 3 1 3 33.3 0 0 - 1 1 100.0 0 3 3 0 0 0 0 2 -5
+p354
+aVXavier Henry MEM 02/02/2011 MEM @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p355
+aVMarc Gasol MEM 02/02/2011 MEM @ MIN W 31 13 5 8 62.5 1 1 100.0 2 2 100.0 2 5 7 3 1 4 4 2 25
+p356
+aVDarrell Arthur MEM 01/31/2011 MEM vs. ORL W 19 14 5 8 62.5 0 0 - 4 4 100.0 0 2 2 1 0 0 1 3 6
+p357
+aVGreivis Vasquez MEM 01/31/2011 MEM vs. ORL W 16 2 1 2 50.0 0 1 0.0 0 1 0.0 0 1 1 4 0 0 1 0 5
+p358
+aVTony Allen MEM 01/31/2011 MEM vs. ORL W 17 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 4 1 1 1 1 1
+p359
+aVMike Conley MEM 01/31/2011 MEM vs. ORL W 38 26 9 14 64.3 4 6 66.7 4 5 80.0 0 2 2 11 2 0 3 3 -2
+p360
+aVXavier Henry MEM 01/31/2011 MEM vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p361
+aVSam Young MEM 01/31/2011 MEM vs. ORL W 29 10 5 9 55.6 0 1 0.0 0 0 - 0 1 1 0 2 0 2 2 1
+p362
+aVRudy Gay MEM 01/31/2011 MEM vs. ORL W 42 13 5 15 33.3 0 2 0.0 3 4 75.0 1 6 7 3 1 1 2 1 6
+p363
+aVZach Randolph MEM 01/31/2011 MEM vs. ORL W 33 10 4 11 36.4 0 0 - 2 4 50.0 4 5 9 0 0 0 2 3 -9
+p364
+aVMarc Gasol MEM 01/31/2011 MEM vs. ORL W 32 19 9 11 81.8 0 0 - 1 3 33.3 2 6 8 2 0 1 2 5 2
+p365
+aVHasheem Thabeet MEM 01/31/2011 MEM vs. ORL W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 7
+p366
+aVTony Allen MEM 01/29/2011 MEM vs. WAS W 34 15 6 8 75.0 0 0 - 3 3 100.0 1 1 2 1 3 0 0 2 24
+p367
+aVRudy Gay MEM 01/29/2011 MEM vs. WAS W 25 4 2 11 18.2 0 2 0.0 0 0 - 0 3 3 4 1 0 3 5 4
+p368
+aVSam Young MEM 01/29/2011 MEM vs. WAS W 32 10 4 10 40.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 5 2
+p369
+aVHasheem Thabeet MEM 01/29/2011 MEM vs. WAS W 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 1
+p370
+aVMike Conley MEM 01/29/2011 MEM vs. WAS W 40 15 6 12 50.0 2 2 100.0 1 2 50.0 0 3 3 12 0 0 1 2 13
+p371
+aVGreivis Vasquez MEM 01/29/2011 MEM vs. WAS W 8 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 3 0 0 2 1 1
+p372
+aVXavier Henry MEM 01/29/2011 MEM vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p373
+aVZach Randolph MEM 01/29/2011 MEM vs. WAS W 37 24 10 21 47.6 0 2 0.0 4 4 100.0 9 11 20 3 0 0 1 1 10
+p374
+aVDarrell Arthur MEM 01/29/2011 MEM vs. WAS W 26 22 9 11 81.8 0 0 - 4 4 100.0 1 4 5 2 0 1 1 2 16
+p375
+aVMarc Gasol MEM 01/29/2011 MEM vs. WAS W 30 14 6 10 60.0 0 0 - 2 4 50.0 3 5 8 1 0 5 1 5 1
+p376
+aVZach Randolph MEM 01/28/2011 MEM @ PHI W 31 22 6 11 54.5 0 0 - 10 11 90.9 5 7 12 2 1 0 2 3 1
+p377
+aVGreivis Vasquez MEM 01/28/2011 MEM @ PHI W 10 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 2 1 0 2 0 -1
+p378
+aVTony Allen MEM 01/28/2011 MEM @ PHI W 20 8 2 5 40.0 0 0 - 4 4 100.0 3 3 6 2 2 3 1 4 -3
+p379
+aVMarc Gasol MEM 01/28/2011 MEM @ PHI W 33 12 4 8 50.0 0 0 - 4 4 100.0 1 3 4 5 2 3 2 2 7
+p380
+aVXavier Henry MEM 01/28/2011 MEM @ PHI W 7 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 1
+p381
+aVSam Young MEM 01/28/2011 MEM @ PHI W 29 12 5 9 55.6 1 2 50.0 1 1 100.0 0 1 1 0 1 0 2 3 12
+p382
+aVMike Conley MEM 01/28/2011 MEM @ PHI W 38 13 6 15 40.0 0 1 0.0 1 2 50.0 0 5 5 4 1 0 1 0 6
+p383
+aVDarrell Arthur MEM 01/28/2011 MEM @ PHI W 21 9 4 11 36.4 0 0 - 1 1 100.0 1 1 2 0 1 0 2 2 -4
+p384
+aVHasheem Thabeet MEM 01/28/2011 MEM @ PHI W 11 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 2 1 0 0 9
+p385
+aVRudy Gay MEM 01/28/2011 MEM @ PHI W 40 16 7 15 46.7 0 0 - 2 2 100.0 2 3 5 4 2 2 2 1 -3
+p386
+aVRudy Gay MEM 01/26/2011 MEM @ NJN L 41 22 10 18 55.6 1 3 33.3 1 2 50.0 1 5 6 3 1 1 3 2 -1
+p387
+aVMike Conley MEM 01/26/2011 MEM @ NJN L 39 16 7 13 53.8 1 4 25.0 1 2 50.0 1 4 5 5 0 0 2 3 4
+p388
+aVZach Randolph MEM 01/26/2011 MEM @ NJN L 38 20 8 22 36.4 0 2 0.0 4 4 100.0 6 10 16 1 0 0 1 3 4
+p389
+aVSam Young MEM 01/26/2011 MEM @ NJN L 21 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 2 0 0 10
+p390
+aVDarrell Arthur MEM 01/26/2011 MEM @ NJN L 15 8 3 6 50.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 1 -9
+p391
+aVHamed Haddadi MEM 01/26/2011 MEM @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p392
+aVO.J. Mayo MEM 01/26/2011 MEM @ NJN L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 1 1 0 1 -7
+p393
+aVGreivis Vasquez MEM 01/26/2011 MEM @ NJN L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -9
+p394
+aVHasheem Thabeet MEM 01/26/2011 MEM @ NJN L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p395
+aVTony Allen MEM 01/26/2011 MEM @ NJN L 18 4 2 2 100.0 0 0 - 0 2 0.0 0 3 3 1 4 1 0 2 -9
+p396
+aVMarc Gasol MEM 01/26/2011 MEM @ NJN L 36 12 3 11 27.3 0 0 - 6 7 85.7 2 4 6 5 1 1 2 2 -1
+p397
+aVZach Randolph MEM 01/24/2011 MEM @ TOR W 35 17 8 24 33.3 0 0 - 1 1 100.0 5 7 12 0 0 0 1 3 -7
+p398
+aVTony Allen MEM 01/24/2011 MEM @ TOR W 11 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 2 0 1 0 -5
+p399
+aVMike Conley MEM 01/24/2011 MEM @ TOR W 36 13 5 9 55.6 0 1 0.0 3 6 50.0 2 5 7 4 1 1 2 3 -5
+p400
+aVHasheem Thabeet MEM 01/24/2011 MEM @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p401
+aVO.J. Mayo MEM 01/24/2011 MEM @ TOR W 33 15 5 10 50.0 2 5 40.0 3 3 100.0 1 4 5 2 0 1 0 2 12
+p402
+aVGreivis Vasquez MEM 01/24/2011 MEM @ TOR W 12 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 3 0 0 1 1 7
+p403
+aVDarrell Arthur MEM 01/24/2011 MEM @ TOR W 20 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 1 2 1 0 3 11
+p404
+aVRudy Gay MEM 01/24/2011 MEM @ TOR W 39 21 8 20 40.0 2 4 50.0 3 4 75.0 3 4 7 2 1 1 0 3 -3
+p405
+aVMarc Gasol MEM 01/24/2011 MEM @ TOR W 41 17 7 14 50.0 0 0 - 3 4 75.0 4 4 8 4 0 4 4 5 0
+p406
+aVSam Young MEM 01/24/2011 MEM @ TOR W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p407
+aVSam Young MEM 01/22/2011 MEM @ MIL W 25 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 5
+p408
+aVO.J. Mayo MEM 01/22/2011 MEM @ MIL W 25 11 5 7 71.4 1 3 33.3 0 0 - 0 0 0 0 1 0 3 0 3
+p409
+aVZach Randolph MEM 01/22/2011 MEM @ MIL W 33 16 7 10 70.0 0 0 - 2 4 50.0 3 8 11 2 1 0 4 2 11
+p410
+aVRudy Gay MEM 01/22/2011 MEM @ MIL W 40 11 3 10 30.0 0 1 0.0 5 6 83.3 0 7 7 3 0 0 3 3 15
+p411
+aVMarc Gasol MEM 01/22/2011 MEM @ MIL W 34 24 7 12 58.3 0 1 0.0 10 11 90.9 2 14 16 2 0 3 4 4 21
+p412
+aVTony Allen MEM 01/22/2011 MEM @ MIL W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 3
+p413
+aVGreivis Vasquez MEM 01/22/2011 MEM @ MIL W 10 0 0 2 0.0 0 0 - 0 0 - 1 2 3 4 0 0 1 3 -6
+p414
+aVHasheem Thabeet MEM 01/22/2011 MEM @ MIL W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -8
+p415
+aVDarrell Arthur MEM 01/22/2011 MEM @ MIL W 23 14 7 11 63.6 0 0 - 0 0 - 3 1 4 2 2 0 1 1 2
+p416
+aVMike Conley MEM 01/22/2011 MEM @ MIL W 38 8 3 11 27.3 1 3 33.3 1 2 50.0 0 5 5 2 1 2 1 1 19
+p417
+aVMarc Gasol MEM 01/21/2011 MEM vs. HOU W 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -7
+p418
+aVO.J. Mayo MEM 01/21/2011 MEM vs. HOU W 33 13 5 10 50.0 0 2 0.0 3 4 75.0 1 4 5 4 2 1 0 2 10
+p419
+aVDarrell Arthur MEM 01/21/2011 MEM vs. HOU W 22 9 4 9 44.4 0 0 - 1 1 100.0 1 3 4 1 1 0 0 4 7
+p420
+aVMike Conley MEM 01/21/2011 MEM vs. HOU W 35 17 7 11 63.6 0 0 - 3 5 60.0 0 2 2 5 2 0 3 1 2
+p421
+aVHasheem Thabeet MEM 01/21/2011 MEM vs. HOU W 12 5 1 2 50.0 0 0 - 3 4 75.0 2 4 6 0 1 1 0 4 7
+p422
+aVGreivis Vasquez MEM 01/21/2011 MEM vs. HOU W 13 6 3 5 60.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 3
+p423
+aVZach Randolph MEM 01/21/2011 MEM vs. HOU W 44 29 14 25 56.0 0 0 - 1 1 100.0 7 12 19 0 1 1 3 1 1
+p424
+aVRudy Gay MEM 01/21/2011 MEM vs. HOU W 39 22 9 17 52.9 0 0 - 4 4 100.0 1 3 4 5 2 1 2 4 -1
+p425
+aVTony Allen MEM 01/21/2011 MEM vs. HOU W 12 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 7
+p426
+aVSam Young MEM 01/21/2011 MEM vs. HOU W 13 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -4
+p427
+aVDarrell Arthur MEM 01/19/2011 MEM @ NOH L 14 4 2 6 33.3 0 0 - 0 0 - 2 2 4 0 0 1 0 4 -8
+p428
+aVO.J. Mayo MEM 01/19/2011 MEM @ NOH L 27 10 4 10 40.0 2 4 50.0 0 0 - 2 1 3 2 0 1 3 5 0
+p429
+aVSam Young MEM 01/19/2011 MEM @ NOH L 26 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 2 0 0 2 2 1
+p430
+aVGreivis Vasquez MEM 01/19/2011 MEM @ NOH L 17 7 2 5 40.0 1 1 100.0 2 2 100.0 0 1 1 3 0 0 1 1 1
+p431
+aVRudy Gay MEM 01/19/2011 MEM @ NOH L 50 22 8 23 34.8 2 4 50.0 4 6 66.7 2 6 8 5 1 1 1 2 -8
+p432
+aVMike Conley MEM 01/19/2011 MEM @ NOH L 39 22 9 11 81.8 1 2 50.0 3 4 75.0 0 2 2 5 0 0 4 3 3
+p433
+aVZach Randolph MEM 01/19/2011 MEM @ NOH L 42 17 8 20 40.0 0 0 - 1 1 100.0 3 7 10 2 1 0 1 3 11
+p434
+aVHasheem Thabeet MEM 01/19/2011 MEM @ NOH L 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -1
+p435
+aVMarc Gasol MEM 01/19/2011 MEM @ NOH L 41 12 5 8 62.5 0 0 - 2 2 100.0 0 10 10 5 1 1 0 2 -4
+p436
+aVHamed Haddadi MEM 01/17/2011 MEM vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -7
+p437
+aVGreivis Vasquez MEM 01/17/2011 MEM vs. CHI L 25 7 2 8 25.0 0 2 0.0 3 3 100.0 0 0 0 4 0 0 3 1 1
+p438
+aVO.J. Mayo MEM 01/17/2011 MEM vs. CHI L 30 15 7 14 50.0 1 3 33.3 0 1 0.0 1 1 2 2 0 0 0 1 -3
+p439
+aVZach Randolph MEM 01/17/2011 MEM vs. CHI L 33 21 7 20 35.0 0 1 0.0 7 12 58.3 9 4 13 0 0 0 1 1 -12
+p440
+aVMike Conley MEM 01/17/2011 MEM vs. CHI L 29 5 2 6 33.3 0 0 - 1 1 100.0 0 2 2 6 2 0 1 2 -10
+p441
+aVDarrell Arthur MEM 01/17/2011 MEM vs. CHI L 16 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 2 7
+p442
+aVMarc Gasol MEM 01/17/2011 MEM vs. CHI L 26 12 5 7 71.4 0 0 - 2 3 66.7 2 2 4 2 0 1 1 3 -19
+p443
+aVRudy Gay MEM 01/17/2011 MEM vs. CHI L 36 9 1 10 10.0 0 0 - 7 10 70.0 1 5 6 0 0 1 1 4 -17
+p444
+aVHasheem Thabeet MEM 01/17/2011 MEM vs. CHI L 11 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 2 4 10
+p445
+aVSam Young MEM 01/17/2011 MEM vs. CHI L 31 5 1 5 20.0 0 1 0.0 3 3 100.0 2 3 5 0 0 0 1 0 -10
+p446
+aVMarc Gasol MEM 01/15/2011 MEM vs. DAL W 34 8 4 10 40.0 0 0 - 0 0 - 0 7 7 2 2 2 1 2 23
+p447
+aVO.J. Mayo MEM 01/15/2011 MEM vs. DAL W 26 2 1 10 10.0 0 4 0.0 0 0 - 0 1 1 1 3 0 2 0 -5
+p448
+aVMike Conley MEM 01/15/2011 MEM vs. DAL W 29 8 3 6 50.0 0 0 - 2 2 100.0 0 4 4 6 0 0 0 3 23
+p449
+aVZach Randolph MEM 01/15/2011 MEM vs. DAL W 35 23 9 18 50.0 0 2 0.0 5 5 100.0 5 15 20 2 0 0 3 4 23
+p450
+aVGreivis Vasquez MEM 01/15/2011 MEM vs. DAL W 19 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 4 0 0 0 2 -4
+p451
+aVHasheem Thabeet MEM 01/15/2011 MEM vs. DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -3
+p452
+aVSam Young MEM 01/15/2011 MEM vs. DAL W 27 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 2 1 4 1 3 25
+p453
+aVDarrell Arthur MEM 01/15/2011 MEM vs. DAL W 22 17 6 8 75.0 0 0 - 5 6 83.3 0 2 2 1 1 1 3 3 -5
+p454
+aVRudy Gay MEM 01/15/2011 MEM vs. DAL W 42 16 7 14 50.0 0 2 0.0 2 2 100.0 2 4 6 1 1 0 2 1 18
+p455
+aVDarrell Arthur MEM 01/12/2011 MEM @ DET W 20 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 0 1 0 0 3 8
+p456
+aVHamed Haddadi MEM 01/12/2011 MEM @ DET W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 3
+p457
+aVMarc Gasol MEM 01/12/2011 MEM @ DET W 34 10 2 5 40.0 0 0 - 6 8 75.0 1 6 7 3 0 3 3 3 2
+p458
+aVRudy Gay MEM 01/12/2011 MEM @ DET W 46 26 10 13 76.9 0 1 0.0 6 9 66.7 0 3 3 2 1 1 3 1 5
+p459
+aVGreivis Vasquez MEM 01/12/2011 MEM @ DET W 15 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 4 1 0 2 4 7
+p460
+aVSam Young MEM 01/12/2011 MEM @ DET W 25 8 3 6 50.0 1 3 33.3 1 2 50.0 1 2 3 0 0 0 0 4 3
+p461
+aVO.J. Mayo MEM 01/12/2011 MEM @ DET W 25 8 3 9 33.3 2 2 100.0 0 0 - 0 1 1 0 2 1 1 4 6
+p462
+aVMike Conley MEM 01/12/2011 MEM @ DET W 33 8 4 10 40.0 0 2 0.0 0 0 - 0 2 2 9 0 0 2 3 1
+p463
+aVZach Randolph MEM 01/12/2011 MEM @ DET W 39 34 10 17 58.8 0 0 - 14 17 82.4 5 12 17 2 2 1 3 1 5
+p464
+aVO.J. Mayo MEM 01/10/2011 MEM @ CHA L 21 4 1 8 12.5 0 2 0.0 2 2 100.0 1 2 3 1 0 1 3 0 -23
+p465
+aVSam Young MEM 01/10/2011 MEM @ CHA L 13 6 3 6 50.0 0 0 - 0 0 - 2 0 2 1 2 0 0 1 8
+p466
+aVTony Allen MEM 01/10/2011 MEM @ CHA L 32 13 5 9 55.6 0 0 - 3 6 50.0 1 3 4 2 5 2 2 3 4
+p467
+aVZach Randolph MEM 01/10/2011 MEM @ CHA L 34 15 7 17 41.2 0 1 0.0 1 3 33.3 6 9 15 1 0 0 2 4 -9
+p468
+aVMarc Gasol MEM 01/10/2011 MEM @ CHA L 27 10 4 7 57.1 0 0 - 2 2 100.0 3 4 7 1 2 1 2 3 -15
+p469
+aVDarrell Arthur MEM 01/10/2011 MEM @ CHA L 15 5 2 3 66.7 0 0 - 1 2 50.0 3 0 3 0 1 0 1 1 -21
+p470
+aVGreivis Vasquez MEM 01/10/2011 MEM @ CHA L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -14
+p471
+aVHasheem Thabeet MEM 01/10/2011 MEM @ CHA L 13 1 0 0 - 0 0 - 1 2 50.0 0 5 5 0 0 0 1 2 9
+p472
+aVRudy Gay MEM 01/10/2011 MEM @ CHA L 40 13 5 16 31.3 1 3 33.3 2 5 40.0 1 4 5 0 0 0 3 1 -5
+p473
+aVMike Conley MEM 01/10/2011 MEM @ CHA L 37 13 6 17 35.3 1 3 33.3 0 0 - 0 1 1 7 2 0 1 4 -4
+p474
+aVDarrell Arthur MEM 01/08/2011 MEM @ OKC L 19 6 3 7 42.9 0 0 - 0 2 0.0 2 1 3 1 0 0 0 1 -2
+p475
+aVSam Young MEM 01/08/2011 MEM @ OKC L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 -1
+p476
+aVZach Randolph MEM 01/08/2011 MEM @ OKC L 42 27 12 21 57.1 0 0 - 3 6 50.0 9 7 16 1 1 2 3 3 -1
+p477
+aVTony Allen MEM 01/08/2011 MEM @ OKC L 18 9 2 5 40.0 0 0 - 5 7 71.4 1 1 2 0 1 0 2 4 -9
+p478
+aVGreivis Vasquez MEM 01/08/2011 MEM @ OKC L 23 9 3 9 33.3 0 3 0.0 3 3 100.0 0 2 2 6 1 1 1 1 1
+p479
+aVO.J. Mayo MEM 01/08/2011 MEM @ OKC L 33 11 5 17 29.4 1 5 20.0 0 1 0.0 2 2 4 1 3 0 1 2 -6
+p480
+aVRudy Gay MEM 01/08/2011 MEM @ OKC L 37 20 9 18 50.0 0 3 0.0 2 4 50.0 3 2 5 3 3 1 1 6 0
+p481
+aVMarc Gasol MEM 01/08/2011 MEM @ OKC L 35 6 2 4 50.0 0 0 - 2 3 66.7 0 7 7 4 0 3 2 2 -15
+p482
+aVMike Conley MEM 01/08/2011 MEM @ OKC L 28 10 3 10 30.0 0 3 0.0 4 4 100.0 0 1 1 4 0 0 1 3 -12
+p483
+aVTony Allen MEM 01/07/2011 MEM vs. UTA W 23 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 4 1 1 1 6
+p484
+aVDarrell Arthur MEM 01/07/2011 MEM vs. UTA W 15 9 4 8 50.0 0 0 - 1 1 100.0 3 1 4 0 1 1 0 4 5
+p485
+aVRudy Gay MEM 01/07/2011 MEM vs. UTA W 42 28 8 14 57.1 3 3 100.0 9 10 90.0 3 6 9 4 4 0 5 1 8
+p486
+aVHasheem Thabeet MEM 01/07/2011 MEM vs. UTA W 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p487
+aVMike Conley MEM 01/07/2011 MEM vs. UTA W 24 10 4 8 50.0 0 0 - 2 3 66.7 1 2 3 4 2 0 1 4 1
+p488
+aVGreivis Vasquez MEM 01/07/2011 MEM vs. UTA W 24 6 2 6 33.3 1 3 33.3 1 1 100.0 0 1 1 7 2 0 1 3 10
+p489
+aVZach Randolph MEM 01/07/2011 MEM vs. UTA W 36 26 10 18 55.6 0 1 0.0 6 7 85.7 3 8 11 2 1 0 1 3 7
+p490
+aVO.J. Mayo MEM 01/07/2011 MEM vs. UTA W 29 13 6 12 50.0 1 4 25.0 0 1 0.0 0 0 0 3 2 0 0 1 7
+p491
+aVSam Young MEM 01/07/2011 MEM vs. UTA W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p492
+aVMarc Gasol MEM 01/07/2011 MEM vs. UTA W 33 12 5 11 45.5 0 0 - 2 5 40.0 2 2 4 1 1 4 4 4 7
+p493
+aVMike Conley MEM 01/04/2011 MEM vs. OKC W 43 9 4 11 36.4 0 2 0.0 1 2 50.0 1 4 5 9 0 1 4 3 8
+p494
+aVZach Randolph MEM 01/04/2011 MEM vs. OKC W 41 31 11 20 55.0 0 0 - 9 10 90.0 6 10 16 0 2 0 1 2 -3
+p495
+aVMarc Gasol MEM 01/04/2011 MEM vs. OKC W 37 10 5 8 62.5 0 0 - 0 2 0.0 0 10 10 0 0 0 1 1 14
+p496
+aVRudy Gay MEM 01/04/2011 MEM vs. OKC W 44 27 12 18 66.7 0 1 0.0 3 4 75.0 2 3 5 4 1 1 4 0 4
+p497
+aVSam Young MEM 01/04/2011 MEM vs. OKC W 11 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 2 0 0 2 1
+p498
+aVGreivis Vasquez MEM 01/04/2011 MEM vs. OKC W 14 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 6 0 0 3 5 2
+p499
+aVTony Allen MEM 01/04/2011 MEM vs. OKC W 32 19 6 13 46.2 2 3 66.7 5 5 100.0 2 0 2 2 3 2 1 5 0
+p500
+aVDarrell Arthur MEM 01/04/2011 MEM vs. OKC W 18 9 4 10 40.0 0 0 - 1 3 33.3 0 1 1 1 1 1 0 2 -1
+p501
+aVDarrell Arthur MEM 01/02/2011 MEM @ LAL W 14 9 4 7 57.1 0 0 - 1 1 100.0 2 1 3 2 1 0 0 0 4
+p502
+aVMike Conley MEM 01/02/2011 MEM @ LAL W 32 12 4 7 57.1 1 1 100.0 3 4 75.0 0 5 5 6 1 0 0 2 18
+p503
+aVMarc Gasol MEM 01/02/2011 MEM @ LAL W 38 4 2 10 20.0 0 0 - 0 0 - 2 8 10 6 3 4 3 3 26
+p504
+aVZach Randolph MEM 01/02/2011 MEM @ LAL W 34 21 9 17 52.9 0 0 - 3 4 75.0 2 6 8 1 1 0 1 3 15
+p505
+aVGreivis Vasquez MEM 01/02/2011 MEM @ LAL W 16 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 3 0 0 1 1 1
+p506
+aVTony Allen MEM 01/02/2011 MEM @ LAL W 28 10 5 12 41.7 0 1 0.0 0 0 - 3 2 5 4 3 0 2 3 1
+p507
+aVO.J. Mayo MEM 01/02/2011 MEM @ LAL W 26 15 5 10 50.0 2 5 40.0 3 3 100.0 0 3 3 5 2 0 1 2 22
+p508
+aVSam Young MEM 01/02/2011 MEM @ LAL W 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 0
+p509
+aVRudy Gay MEM 01/02/2011 MEM @ LAL W 36 27 10 19 52.6 2 4 50.0 5 6 83.3 1 4 5 2 3 0 1 1 15
+p510
+aVHasheem Thabeet MEM 01/02/2011 MEM @ LAL W 9 0 0 4 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -7
+p511
+aVHamed Haddadi MEM 01/01/2011 MEM @ UTA L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p512
+aVGreivis Vasquez MEM 01/01/2011 MEM @ UTA L 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -3
+p513
+aVO.J. Mayo MEM 01/01/2011 MEM @ UTA L 48 18 6 18 33.3 3 9 33.3 3 4 75.0 2 4 6 3 1 0 3 4 -6
+p514
+aVMarc Gasol MEM 01/01/2011 MEM @ UTA L 32 16 4 8 50.0 1 1 100.0 7 9 77.8 3 0 3 4 1 2 3 5 -8
+p515
+aVMike Conley MEM 01/01/2011 MEM @ UTA L 38 17 6 14 42.9 1 7 14.3 4 4 100.0 1 3 4 7 2 0 4 5 -3
+p516
+aVDarrell Arthur MEM 01/01/2011 MEM @ UTA L 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -1
+p517
+aVZach Randolph MEM 01/01/2011 MEM @ UTA L 39 27 10 18 55.6 0 0 - 7 10 70.0 5 11 16 1 0 0 2 1 -5
+p518
+aVTony Allen MEM 01/01/2011 MEM @ UTA L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 2 0 2 4 -7
+p519
+aVHasheem Thabeet MEM 01/01/2011 MEM @ UTA L 8 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 4
+p520
+aVSam Young MEM 01/01/2011 MEM @ UTA L 34 8 4 11 36.4 0 0 - 0 0 - 1 2 3 0 1 2 2 2 1
+p521
+aVRudy Gay MEM 12/29/2010 MEM @ SAC L 40 16 6 17 35.3 1 1 100.0 3 4 75.0 1 3 4 1 1 0 3 2 -5
+p522
+aVTony Allen MEM 12/29/2010 MEM @ SAC L 24 10 3 6 50.0 0 0 - 4 4 100.0 0 3 3 2 3 0 2 3 -5
+p523
+aVMarc Gasol MEM 12/29/2010 MEM @ SAC L 40 11 4 13 30.8 0 0 - 3 6 50.0 2 3 5 1 1 1 4 2 7
+p524
+aVDarrell Arthur MEM 12/29/2010 MEM @ SAC L 14 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 1
+p525
+aVZach Randolph MEM 12/29/2010 MEM @ SAC L 37 35 15 27 55.6 0 0 - 5 6 83.3 9 8 17 3 2 0 0 3 -4
+p526
+aVMike Conley MEM 12/29/2010 MEM @ SAC L 34 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 7 1 0 3 3 -1
+p527
+aVSam Young MEM 12/29/2010 MEM @ SAC L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p528
+aVGreivis Vasquez MEM 12/29/2010 MEM @ SAC L 14 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 1 0 0 1 1 -1
+p529
+aVO.J. Mayo MEM 12/29/2010 MEM @ SAC L 29 10 3 10 30.0 0 1 0.0 4 5 80.0 1 5 6 2 0 0 2 3 4
+p530
+aVHasheem Thabeet MEM 12/29/2010 MEM @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p531
+aVMarc Gasol MEM 12/27/2010 MEM vs. TOR W 31 9 4 8 50.0 0 0 - 1 1 100.0 2 3 5 2 0 2 2 2 -2
+p532
+aVMike Conley MEM 12/27/2010 MEM vs. TOR W 39 12 4 7 57.1 1 1 100.0 3 6 50.0 0 0 0 6 2 0 3 0 12
+p533
+aVZach Randolph MEM 12/27/2010 MEM vs. TOR W 37 21 8 13 61.5 0 1 0.0 5 5 100.0 1 7 8 3 1 0 4 3 17
+p534
+aVHamed Haddadi MEM 12/27/2010 MEM vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p535
+aVDarrell Arthur MEM 12/27/2010 MEM vs. TOR W 21 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 4
+p536
+aVO.J. Mayo MEM 12/27/2010 MEM vs. TOR W 26 12 4 9 44.4 1 5 20.0 3 4 75.0 0 0 0 0 1 0 2 1 -1
+p537
+aVGreivis Vasquez MEM 12/27/2010 MEM vs. TOR W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -1
+p538
+aVRudy Gay MEM 12/27/2010 MEM vs. TOR W 40 18 6 13 46.2 1 4 25.0 5 6 83.3 0 5 5 6 5 1 5 5 19
+p539
+aVTony Allen MEM 12/27/2010 MEM vs. TOR W 34 14 5 9 55.6 0 0 - 4 4 100.0 1 7 8 2 6 1 2 3 13
+p540
+aVSam Young MEM 12/27/2010 MEM vs. TOR W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -6
+p541
+aVXavier Henry MEM 12/26/2010 MEM @ IND W 15 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 6
+p542
+aVMarc Gasol MEM 12/26/2010 MEM @ IND W 38 17 7 11 63.6 0 0 - 3 5 60.0 1 7 8 7 0 2 1 3 25
+p543
+aVO.J. Mayo MEM 12/26/2010 MEM @ IND W 25 17 5 14 35.7 2 4 50.0 5 5 100.0 2 4 6 2 0 0 2 3 17
+p544
+aVDarrell Arthur MEM 12/26/2010 MEM @ IND W 13 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -2
+p545
+aVMike Conley MEM 12/26/2010 MEM @ IND W 39 4 2 7 28.6 0 1 0.0 0 1 0.0 0 6 6 10 2 1 1 2 27
+p546
+aVZach Randolph MEM 12/26/2010 MEM @ IND W 35 18 7 16 43.8 0 0 - 4 7 57.1 1 15 16 1 0 0 2 3 18
+p547
+aVRudy Gay MEM 12/26/2010 MEM @ IND W 40 30 11 20 55.0 3 3 100.0 5 5 100.0 4 4 8 5 5 1 1 4 17
+p548
+aVTony Allen MEM 12/26/2010 MEM @ IND W 12 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 3 -13
+p549
+aVHasheem Thabeet MEM 12/26/2010 MEM @ IND W 10 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 0 0 1 3 -11
+p550
+aVGreivis Vasquez MEM 12/26/2010 MEM @ IND W 9 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -13
+p551
+aVSam Young MEM 12/26/2010 MEM @ IND W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p552
+aVHamed Haddadi MEM 12/21/2010 MEM vs. NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p553
+aVDarrell Arthur MEM 12/21/2010 MEM vs. NJN L 18 4 2 5 40.0 0 0 - 0 0 - 3 0 3 0 0 0 0 1 -10
+p554
+aVRudy Gay MEM 12/21/2010 MEM vs. NJN L 44 11 4 16 25.0 1 3 33.3 2 2 100.0 1 8 9 1 4 4 3 0 -5
+p555
+aVXavier Henry MEM 12/21/2010 MEM vs. NJN L 19 11 5 6 83.3 0 0 - 1 2 50.0 0 2 2 1 1 0 1 1 -2
+p556
+aVTony Allen MEM 12/21/2010 MEM vs. NJN L 7 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -2
+p557
+aVGreivis Vasquez MEM 12/21/2010 MEM vs. NJN L 15 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 1 0 1 3 -6
+p558
+aVZach Randolph MEM 12/21/2010 MEM vs. NJN L 32 11 4 13 30.8 0 0 - 3 5 60.0 5 9 14 5 0 0 1 1 2
+p559
+aVO.J. Mayo MEM 12/21/2010 MEM vs. NJN L 27 17 6 15 40.0 1 6 16.7 4 5 80.0 0 1 1 0 2 0 0 1 -4
+p560
+aVHasheem Thabeet MEM 12/21/2010 MEM vs. NJN L 16 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 0 1 4 -3
+p561
+aVMike Conley MEM 12/21/2010 MEM vs. NJN L 33 13 5 12 41.7 1 2 50.0 2 3 66.7 0 1 1 8 1 0 0 4 -1
+p562
+aVMarc Gasol MEM 12/21/2010 MEM vs. NJN L 28 19 6 10 60.0 0 0 - 7 10 70.0 1 3 4 0 1 2 0 5 -6
+p563
+aVZach Randolph MEM 12/18/2010 MEM @ SAS L 46 24 11 23 47.8 0 1 0.0 2 3 66.7 10 11 21 1 1 0 2 1 5
+p564
+aVMike Conley MEM 12/18/2010 MEM @ SAS L 39 13 6 12 50.0 1 2 50.0 0 0 - 1 1 2 8 1 0 4 3 -2
+p565
+aVDarrell Arthur MEM 12/18/2010 MEM @ SAS L 18 2 1 6 16.7 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -10
+p566
+aVGreivis Vasquez MEM 12/18/2010 MEM @ SAS L 17 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 0 -7
+p567
+aVSam Young MEM 12/18/2010 MEM @ SAS L 18 11 4 9 44.4 0 0 - 3 3 100.0 0 2 2 0 0 0 0 3 4
+p568
+aVMarc Gasol MEM 12/18/2010 MEM @ SAS L 40 11 3 11 27.3 0 1 0.0 5 8 62.5 0 11 11 6 1 3 1 2 -2
+p569
+aVXavier Henry MEM 12/18/2010 MEM @ SAS L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p570
+aVTony Allen MEM 12/18/2010 MEM @ SAS L 29 15 5 9 55.6 1 1 100.0 4 7 57.1 2 1 3 1 1 1 3 3 -14
+p571
+aVHasheem Thabeet MEM 12/18/2010 MEM @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p572
+aVO.J. Mayo MEM 12/18/2010 MEM @ SAS L 47 27 11 19 57.9 5 8 62.5 0 0 - 1 4 5 5 2 0 2 1 3
+p573
+aVMarc Gasol MEM 12/17/2010 MEM @ HOU L 30 10 2 16 12.5 0 0 - 6 6 100.0 3 1 4 1 0 0 0 3 -13
+p574
+aVXavier Henry MEM 12/17/2010 MEM @ HOU L 14 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 9
+p575
+aVSam Young MEM 12/17/2010 MEM @ HOU L 19 19 8 9 88.9 1 1 100.0 2 2 100.0 0 0 0 0 2 1 0 0 4
+p576
+aVZach Randolph MEM 12/17/2010 MEM @ HOU L 30 13 4 13 30.8 0 0 - 5 7 71.4 4 5 9 0 0 1 3 1 -19
+p577
+aVTony Allen MEM 12/17/2010 MEM @ HOU L 15 1 0 6 0.0 0 0 - 1 2 50.0 1 3 4 0 0 3 2 0 -18
+p578
+aVDarrell Arthur MEM 12/17/2010 MEM @ HOU L 19 8 4 9 44.4 0 0 - 0 0 - 0 3 3 0 3 2 2 3 -13
+p579
+aVMike Conley MEM 12/17/2010 MEM @ HOU L 23 7 2 5 40.0 1 1 100.0 2 2 100.0 0 4 4 3 0 0 1 2 -14
+p580
+aVHasheem Thabeet MEM 12/17/2010 MEM @ HOU L 15 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 1 0 0 6
+p581
+aVGreivis Vasquez MEM 12/17/2010 MEM @ HOU L 25 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 2 2 0 3 2 -2
+p582
+aVRudy Gay MEM 12/17/2010 MEM @ HOU L 29 19 8 14 57.1 0 1 0.0 3 4 75.0 1 3 4 3 4 1 3 4 -15
+p583
+aVHamed Haddadi MEM 12/17/2010 MEM @ HOU L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 7
+p584
+aVO.J. Mayo MEM 12/17/2010 MEM @ HOU L 20 6 2 7 28.6 0 1 0.0 2 2 100.0 1 1 2 3 1 0 1 2 -12
+p585
+aVZach Randolph MEM 12/15/2010 MEM vs. CHA W 32 19 8 16 50.0 0 1 0.0 3 3 100.0 3 6 9 1 1 0 1 1 20
+p586
+aVMarc Gasol MEM 12/15/2010 MEM vs. CHA W 25 5 1 3 33.3 0 0 - 3 4 75.0 0 10 10 3 0 2 2 3 15
+p587
+aVSam Young MEM 12/15/2010 MEM vs. CHA W 6 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 1
+p588
+aVMike Conley MEM 12/15/2010 MEM vs. CHA W 30 6 2 6 33.3 0 2 0.0 2 2 100.0 0 3 3 9 4 0 3 2 17
+p589
+aVRudy Gay MEM 12/15/2010 MEM vs. CHA W 37 23 8 15 53.3 1 4 25.0 6 6 100.0 1 5 6 5 0 2 1 1 20
+p590
+aVGreivis Vasquez MEM 12/15/2010 MEM vs. CHA W 18 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 6 1 0 2 1 16
+p591
+aVHasheem Thabeet MEM 12/15/2010 MEM vs. CHA W 14 8 2 2 100.0 0 0 - 4 6 66.7 1 2 3 0 0 1 0 5 9
+p592
+aVXavier Henry MEM 12/15/2010 MEM vs. CHA W 22 7 3 7 42.9 0 0 - 1 1 100.0 0 1 1 1 2 0 1 3 1
+p593
+aVDarrell Arthur MEM 12/15/2010 MEM vs. CHA W 17 10 4 6 66.7 0 0 - 2 4 50.0 1 3 4 0 0 0 0 3 15
+p594
+aVTony Allen MEM 12/15/2010 MEM vs. CHA W 12 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 1 1 0 2 11
+p595
+aVO.J. Mayo MEM 12/15/2010 MEM vs. CHA W 24 24 10 15 66.7 3 6 50.0 1 1 100.0 0 1 1 4 1 0 1 1 34
+p596
+aVHamed Haddadi MEM 12/15/2010 MEM vs. CHA W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p597
+aVDarrell Arthur MEM 12/13/2010 MEM vs. POR W 21 4 2 4 50.0 0 0 - 0 0 - 3 3 6 1 0 0 1 1 12
+p598
+aVMarc Gasol MEM 12/13/2010 MEM vs. POR W 33 6 2 8 25.0 0 0 - 2 2 100.0 2 6 8 1 0 3 3 4 6
+p599
+aVZach Randolph MEM 12/13/2010 MEM vs. POR W 41 25 8 20 40.0 0 1 0.0 9 13 69.2 8 12 20 2 3 0 0 1 9
+p600
+aVTony Allen MEM 12/13/2010 MEM vs. POR W 18 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 3 1 1 2 17
+p601
+aVO.J. Mayo MEM 12/13/2010 MEM vs. POR W 29 14 5 10 50.0 2 4 50.0 2 6 33.3 0 1 1 2 0 0 1 1 15
+p602
+aVGreivis Vasquez MEM 12/13/2010 MEM vs. POR W 15 6 2 4 50.0 1 1 100.0 1 1 100.0 1 1 2 2 0 0 1 4 14
+p603
+aVXavier Henry MEM 12/13/2010 MEM vs. POR W 18 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 2 1 0 2 1 -5
+p604
+aVMike Conley MEM 12/13/2010 MEM vs. POR W 33 11 3 9 33.3 1 3 33.3 4 4 100.0 0 5 5 3 2 0 3 2 -4
+p605
+aVRudy Gay MEM 12/13/2010 MEM vs. POR W 34 16 7 17 41.2 2 3 66.7 0 0 - 1 4 5 1 2 1 2 1 1
+p606
+aVGreivis Vasquez MEM 12/11/2010 MEM @ LAC W 13 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 1 0 0 0 -7
+p607
+aVDarrell Arthur MEM 12/11/2010 MEM @ LAC W 17 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 1 0 1 3 -8
+p608
+aVO.J. Mayo MEM 12/11/2010 MEM @ LAC W 17 13 5 11 45.5 1 1 100.0 2 4 50.0 0 0 0 1 0 0 2 2 -5
+p609
+aVRudy Gay MEM 12/11/2010 MEM @ LAC W 44 12 5 12 41.7 1 3 33.3 1 2 50.0 0 2 2 2 4 0 6 1 5
+p610
+aVSam Young MEM 12/11/2010 MEM @ LAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p611
+aVXavier Henry MEM 12/11/2010 MEM @ LAC W 15 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 1
+p612
+aVMike Conley MEM 12/11/2010 MEM @ LAC W 35 7 3 14 21.4 1 4 25.0 0 0 - 1 0 1 8 2 0 0 1 8
+p613
+aVMarc Gasol MEM 12/11/2010 MEM @ LAC W 39 17 6 11 54.5 0 0 - 5 5 100.0 2 6 8 4 3 2 3 3 -1
+p614
+aVTony Allen MEM 12/11/2010 MEM @ LAC W 16 8 3 5 60.0 0 1 0.0 2 3 66.7 0 2 2 0 4 1 2 2 5
+p615
+aVZach Randolph MEM 12/11/2010 MEM @ LAC W 40 18 9 20 45.0 0 1 0.0 0 0 - 4 9 13 2 1 0 1 4 11
+p616
+aVGreivis Vasquez MEM 12/08/2010 MEM @ PHX W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -8
+p617
+aVDarrell Arthur MEM 12/08/2010 MEM @ PHX W 29 12 5 13 38.5 0 1 0.0 2 2 100.0 4 6 10 2 1 0 4 3 -11
+p618
+aVSam Young MEM 12/08/2010 MEM @ PHX W 7 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 3 -2
+p619
+aVRudy Gay MEM 12/08/2010 MEM @ PHX W 48 22 7 12 58.3 1 1 100.0 7 8 87.5 1 3 4 3 1 2 2 2 4
+p620
+aVO.J. Mayo MEM 12/08/2010 MEM @ PHX W 24 6 1 4 25.0 0 1 0.0 4 4 100.0 0 3 3 0 1 0 1 2 -4
+p621
+aVMike Conley MEM 12/08/2010 MEM @ PHX W 44 11 5 13 38.5 0 0 - 1 2 50.0 0 0 0 14 3 1 3 0 14
+p622
+aVZach Randolph MEM 12/08/2010 MEM @ PHX W 43 34 15 19 78.9 1 1 100.0 3 4 75.0 5 12 17 0 0 0 2 4 18
+p623
+aVXavier Henry MEM 12/08/2010 MEM @ PHX W 33 8 4 11 36.4 0 1 0.0 0 0 - 0 1 1 1 0 1 1 3 9
+p624
+aVMarc Gasol MEM 12/08/2010 MEM @ PHX W 27 7 3 6 50.0 0 0 - 1 2 50.0 3 5 8 1 0 0 2 5 10
+p625
+aVO.J. Mayo MEM 12/06/2010 MEM @ UTA L 23 6 3 9 33.3 0 2 0.0 0 1 0.0 1 2 3 2 1 0 1 1 -4
+p626
+aVZach Randolph MEM 12/06/2010 MEM @ UTA L 40 17 8 17 47.1 0 1 0.0 1 3 33.3 5 9 14 0 1 2 1 1 6
+p627
+aVMike Conley MEM 12/06/2010 MEM @ UTA L 38 19 5 10 50.0 0 1 0.0 9 10 90.0 0 2 2 5 0 0 3 2 -8
+p628
+aVRudy Gay MEM 12/06/2010 MEM @ UTA L 40 18 8 22 36.4 1 4 25.0 1 2 50.0 4 4 8 0 0 1 4 3 -2
+p629
+aVDarrell Arthur MEM 12/06/2010 MEM @ UTA L 17 8 4 7 57.1 0 0 - 0 0 - 2 1 3 0 1 0 1 4 -8
+p630
+aVTony Allen MEM 12/06/2010 MEM @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p631
+aVHasheem Thabeet MEM 12/06/2010 MEM @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p632
+aVXavier Henry MEM 12/06/2010 MEM @ UTA L 24 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 -5
+p633
+aVSam Young MEM 12/06/2010 MEM @ UTA L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p634
+aVGreivis Vasquez MEM 12/06/2010 MEM @ UTA L 10 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 3 1 0 1 2 -1
+p635
+aVMarc Gasol MEM 12/06/2010 MEM @ UTA L 35 13 4 6 66.7 0 0 - 5 5 100.0 1 6 7 5 2 1 2 3 -8
+p636
+aVZach Randolph MEM 12/05/2010 MEM @ DEN L 38 18 8 21 38.1 0 1 0.0 2 3 66.7 5 7 12 1 0 0 6 4 2
+p637
+aVXavier Henry MEM 12/05/2010 MEM @ DEN L 27 17 8 12 66.7 1 2 50.0 0 0 - 0 2 2 3 0 0 0 3 10
+p638
+aVMarc Gasol MEM 12/05/2010 MEM @ DEN L 25 10 5 6 83.3 0 0 - 0 0 - 1 5 6 3 0 2 1 5 0
+p639
+aVHasheem Thabeet MEM 12/05/2010 MEM @ DEN L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 1 1 -15
+p640
+aVSam Young MEM 12/05/2010 MEM @ DEN L 17 4 1 5 20.0 0 1 0.0 2 2 100.0 0 3 3 2 4 0 1 1 -7
+p641
+aVMike Conley MEM 12/05/2010 MEM @ DEN L 41 19 8 12 66.7 2 2 100.0 1 2 50.0 1 4 5 9 0 0 2 3 7
+p642
+aVTony Allen MEM 12/05/2010 MEM @ DEN L 5 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 2 3
+p643
+aVDarrell Arthur MEM 12/05/2010 MEM @ DEN L 15 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 1 0 2 4 2
+p644
+aVGreivis Vasquez MEM 12/05/2010 MEM @ DEN L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -8
+p645
+aVRudy Gay MEM 12/05/2010 MEM @ DEN L 40 24 8 17 47.1 2 6 33.3 6 9 66.7 0 4 4 3 2 5 1 3 9
+p646
+aVO.J. Mayo MEM 12/05/2010 MEM @ DEN L 16 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 1 0 0 2 3 -8
+p647
+aVZach Randolph MEM 12/03/2010 MEM vs. HOU L 36 14 6 12 50.0 0 1 0.0 2 4 50.0 1 7 8 0 0 1 0 1 -15
+p648
+aVGreivis Vasquez MEM 12/03/2010 MEM vs. HOU L 12 5 2 5 40.0 0 2 0.0 1 1 100.0 1 1 2 2 0 0 0 1 -1
+p649
+aVTony Allen MEM 12/03/2010 MEM vs. HOU L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p650
+aVHasheem Thabeet MEM 12/03/2010 MEM vs. HOU L 5 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -3
+p651
+aVMarc Gasol MEM 12/03/2010 MEM vs. HOU L 36 20 7 9 77.8 0 0 - 6 7 85.7 3 4 7 5 2 3 1 2 -12
+p652
+aVDarrell Arthur MEM 12/03/2010 MEM vs. HOU L 19 7 3 9 33.3 0 0 - 1 2 50.0 2 2 4 0 0 0 0 3 -6
+p653
+aVSam Young MEM 12/03/2010 MEM vs. HOU L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -7
+p654
+aVO.J. Mayo MEM 12/03/2010 MEM vs. HOU L 24 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 1 -6
+p655
+aVRudy Gay MEM 12/03/2010 MEM vs. HOU L 43 29 9 13 69.2 2 2 100.0 9 9 100.0 0 4 4 2 1 1 4 3 -12
+p656
+aVMike Conley MEM 12/03/2010 MEM vs. HOU L 36 19 7 16 43.8 0 3 0.0 5 6 83.3 0 1 1 8 3 0 2 2 -15
+p657
+aVXavier Henry MEM 12/03/2010 MEM vs. HOU L 16 8 3 4 75.0 0 0 - 2 2 100.0 1 0 1 1 0 0 3 3 -5
+p658
+aVGreivis Vasquez MEM 12/01/2010 MEM @ ATL L 9 2 1 3 33.3 0 1 0.0 0 2 0.0 0 1 1 4 0 0 0 2 0
+p659
+aVTony Allen MEM 12/01/2010 MEM @ ATL L 14 8 4 6 66.7 0 0 - 0 0 - 0 1 1 1 3 0 1 4 -2
+p660
+aVXavier Henry MEM 12/01/2010 MEM @ ATL L 23 3 1 4 25.0 0 0 - 1 3 33.3 0 0 0 1 0 1 0 3 1
+p661
+aVRudy Gay MEM 12/01/2010 MEM @ ATL L 37 23 9 20 45.0 2 3 66.7 3 3 100.0 1 3 4 1 1 1 3 4 5
+p662
+aVSam Young MEM 12/01/2010 MEM @ ATL L 10 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -8
+p663
+aVHasheem Thabeet MEM 12/01/2010 MEM @ ATL L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p664
+aVZach Randolph MEM 12/01/2010 MEM @ ATL L 43 19 6 16 37.5 0 1 0.0 7 8 87.5 7 12 19 2 0 2 0 4 -3
+p665
+aVDeMarre Carroll MEM 12/01/2010 MEM @ ATL L 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -4
+p666
+aVMike Conley MEM 12/01/2010 MEM @ ATL L 39 22 10 13 76.9 0 2 0.0 2 2 100.0 0 2 2 9 1 0 4 4 -2
+p667
+aVO.J. Mayo MEM 12/01/2010 MEM @ ATL L 24 10 4 8 50.0 1 2 50.0 1 1 100.0 1 1 2 2 0 0 1 1 2
+p668
+aVMarc Gasol MEM 12/01/2010 MEM @ ATL L 31 16 6 8 75.0 0 0 - 4 5 80.0 2 8 10 3 0 1 3 3 4
+p669
+aVHasheem Thabeet MEM 11/30/2010 MEM vs. LAL W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 4 1
+p670
+aVMike Conley MEM 11/30/2010 MEM vs. LAL W 35 28 10 13 76.9 4 5 80.0 4 6 66.7 0 3 3 3 2 0 2 1 2
+p671
+aVSam Young MEM 11/30/2010 MEM vs. LAL W 9 7 2 2 100.0 1 1 100.0 2 2 100.0 0 0 0 3 1 0 1 3 4
+p672
+aVO.J. Mayo MEM 11/30/2010 MEM vs. LAL W 25 11 5 11 45.5 1 2 50.0 0 1 0.0 1 1 2 1 1 2 0 1 -7
+p673
+aVXavier Henry MEM 11/30/2010 MEM vs. LAL W 26 12 6 11 54.5 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 8
+p674
+aVRudy Gay MEM 11/30/2010 MEM vs. LAL W 44 14 7 15 46.7 0 0 - 0 0 - 1 4 5 2 0 6 2 1 6
+p675
+aVMarc Gasol MEM 11/30/2010 MEM vs. LAL W 35 10 4 8 50.0 0 0 - 2 3 66.7 1 8 9 1 0 3 0 4 0
+p676
+aVTony Allen MEM 11/30/2010 MEM vs. LAL W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p677
+aVGreivis Vasquez MEM 11/30/2010 MEM vs. LAL W 13 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 0
+p678
+aVZach Randolph MEM 11/30/2010 MEM vs. LAL W 39 13 4 13 30.8 1 2 50.0 4 4 100.0 2 6 8 4 0 0 1 2 2
+p679
+aVGreivis Vasquez MEM 11/27/2010 MEM @ CLE L 17 9 4 6 66.7 1 2 50.0 0 0 - 0 3 3 3 0 0 2 2 9
+p680
+aVMike Conley MEM 11/27/2010 MEM @ CLE L 31 11 3 9 33.3 1 3 33.3 4 6 66.7 0 1 1 5 2 0 1 1 -16
+p681
+aVXavier Henry MEM 11/27/2010 MEM @ CLE L 22 9 4 9 44.4 1 1 100.0 0 0 - 1 1 2 0 0 1 1 1 -13
+p682
+aVSam Young MEM 11/27/2010 MEM @ CLE L 11 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 3 9
+p683
+aVMarc Gasol MEM 11/27/2010 MEM @ CLE L 37 4 2 8 25.0 0 0 - 0 0 - 2 4 6 2 1 3 4 2 -4
+p684
+aVTony Allen MEM 11/27/2010 MEM @ CLE L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 2
+p685
+aVO.J. Mayo MEM 11/27/2010 MEM @ CLE L 26 13 6 12 50.0 1 3 33.3 0 0 - 0 3 3 1 0 0 0 3 7
+p686
+aVDarrell Arthur MEM 11/27/2010 MEM @ CLE L 21 4 2 5 40.0 0 0 - 0 0 - 0 7 7 0 1 1 0 3 6
+p687
+aVZach Randolph MEM 11/27/2010 MEM @ CLE L 32 13 6 16 37.5 1 2 50.0 0 0 - 3 8 11 1 1 1 4 1 -16
+p688
+aVRudy Gay MEM 11/27/2010 MEM @ CLE L 37 17 7 14 50.0 1 2 50.0 2 3 66.7 0 5 5 6 2 0 3 1 -14
+p689
+aVDarrell Arthur MEM 11/26/2010 MEM vs. GSW W 21 6 3 8 37.5 0 0 - 0 0 - 1 5 6 2 1 4 1 2 -4
+p690
+aVGreivis Vasquez MEM 11/26/2010 MEM vs. GSW W 13 10 3 5 60.0 2 3 66.7 2 2 100.0 0 1 1 2 0 0 2 0 0
+p691
+aVTony Allen MEM 11/26/2010 MEM vs. GSW W 16 5 1 4 25.0 0 0 - 3 4 75.0 0 3 3 1 1 0 0 2 -6
+p692
+aVZach Randolph MEM 11/26/2010 MEM vs. GSW W 38 14 6 10 60.0 0 0 - 2 4 50.0 0 7 7 4 1 1 3 3 16
+p693
+aVSam Young MEM 11/26/2010 MEM vs. GSW W 5 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 1 -4
+p694
+aVMarc Gasol MEM 11/26/2010 MEM vs. GSW W 29 12 5 7 71.4 0 0 - 2 2 100.0 3 1 4 4 1 3 0 1 3
+p695
+aVMike Conley MEM 11/26/2010 MEM vs. GSW W 35 14 4 8 50.0 2 3 66.7 4 4 100.0 0 3 3 5 0 0 4 4 5
+p696
+aVO.J. Mayo MEM 11/26/2010 MEM vs. GSW W 27 23 8 14 57.1 2 5 40.0 5 5 100.0 0 3 3 2 1 1 1 0 9
+p697
+aVXavier Henry MEM 11/26/2010 MEM vs. GSW W 18 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 0
+p698
+aVRudy Gay MEM 11/26/2010 MEM vs. GSW W 39 25 9 17 52.9 2 4 50.0 5 6 83.3 2 1 3 2 2 2 1 2 6
+p699
+aVGreivis Vasquez MEM 11/24/2010 MEM vs. DET W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 5 0 0 1 2 -6
+p700
+aVDarrell Arthur MEM 11/24/2010 MEM vs. DET W 26 14 7 9 77.8 0 0 - 0 0 - 1 5 6 0 2 1 0 3 2
+p701
+aVMike Conley MEM 11/24/2010 MEM vs. DET W 32 14 6 10 60.0 0 2 0.0 2 2 100.0 0 1 1 7 3 0 2 2 27
+p702
+aVXavier Henry MEM 11/24/2010 MEM vs. DET W 12 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 4 -3
+p703
+aVRudy Gay MEM 11/24/2010 MEM vs. DET W 35 17 6 17 35.3 0 2 0.0 5 6 83.3 2 4 6 0 0 1 1 3 33
+p704
+aVTony Allen MEM 11/24/2010 MEM vs. DET W 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 1 -6
+p705
+aVO.J. Mayo MEM 11/24/2010 MEM vs. DET W 23 9 4 11 36.4 1 2 50.0 0 0 - 1 0 1 2 0 1 0 0 5
+p706
+aVSam Young MEM 11/24/2010 MEM vs. DET W 22 11 5 10 50.0 0 2 0.0 1 1 100.0 1 5 6 0 1 1 0 0 16
+p707
+aVZach Randolph MEM 11/24/2010 MEM vs. DET W 28 21 9 16 56.3 0 0 - 3 4 75.0 5 9 14 1 1 0 0 1 16
+p708
+aVMarc Gasol MEM 11/24/2010 MEM vs. DET W 35 10 4 5 80.0 0 0 - 2 2 100.0 0 6 6 2 1 0 0 4 21
+p709
+aVHasheem Thabeet MEM 11/20/2010 MEM vs. MIA W 6 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 1 0 0 1 -4
+p710
+aVXavier Henry MEM 11/20/2010 MEM vs. MIA W 26 6 1 9 11.1 0 2 0.0 4 4 100.0 0 2 2 3 0 0 0 1 5
+p711
+aVMike Conley MEM 11/20/2010 MEM vs. MIA W 36 16 6 12 50.0 1 2 50.0 3 4 75.0 1 4 5 6 0 0 1 1 5
+p712
+aVZach Randolph MEM 11/20/2010 MEM vs. MIA W 27 21 8 14 57.1 0 0 - 5 7 71.4 6 7 13 1 0 1 2 2 -4
+p713
+aVO.J. Mayo MEM 11/20/2010 MEM vs. MIA W 22 2 1 7 14.3 0 3 0.0 0 0 - 0 0 0 1 0 1 2 0 -3
+p714
+aVSam Young MEM 11/20/2010 MEM vs. MIA W 13 10 4 6 66.7 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 0 2
+p715
+aVDarrell Arthur MEM 11/20/2010 MEM vs. MIA W 29 14 7 9 77.8 0 0 - 0 0 - 1 5 6 1 0 1 1 3 9
+p716
+aVMarc Gasol MEM 11/20/2010 MEM vs. MIA W 34 11 5 8 62.5 0 0 - 1 2 50.0 4 7 11 1 0 1 2 3 3
+p717
+aVGreivis Vasquez MEM 11/20/2010 MEM vs. MIA W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -3
+p718
+aVRudy Gay MEM 11/20/2010 MEM vs. MIA W 35 15 5 13 38.5 0 3 0.0 5 6 83.3 2 6 8 2 0 1 4 1 0
+p719
+aVAcie Law MEM 11/19/2010 MEM @ WAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p720
+aVMarc Gasol MEM 11/19/2010 MEM @ WAS L 37 16 7 9 77.8 0 0 - 2 3 66.7 2 6 8 3 1 1 2 4 -9
+p721
+aVDarrell Arthur MEM 11/19/2010 MEM @ WAS L 13 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 1 1 0 1 4 1
+p722
+aVTony Allen MEM 11/19/2010 MEM @ WAS L 12 9 4 5 80.0 0 0 - 1 1 100.0 0 0 0 2 1 1 2 3 7
+p723
+aVXavier Henry MEM 11/19/2010 MEM @ WAS L 11 2 1 4 25.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 5
+p724
+aVO.J. Mayo MEM 11/19/2010 MEM @ WAS L 29 3 1 11 9.1 1 4 25.0 0 0 - 1 2 3 1 0 0 0 4 -12
+p725
+aVSam Young MEM 11/19/2010 MEM @ WAS L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 0 4
+p726
+aVGreivis Vasquez MEM 11/19/2010 MEM @ WAS L 12 5 2 6 33.3 0 3 0.0 1 2 50.0 0 1 1 1 1 0 0 3 2
+p727
+aVHasheem Thabeet MEM 11/19/2010 MEM @ WAS L 6 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 2
+p728
+aVMike Conley MEM 11/19/2010 MEM @ WAS L 29 12 5 13 38.5 2 4 50.0 0 0 - 0 0 0 6 4 0 4 4 -4
+p729
+aVZach Randolph MEM 11/19/2010 MEM @ WAS L 40 19 9 16 56.3 0 0 - 1 2 50.0 6 6 12 2 0 0 3 2 0
+p730
+aVRudy Gay MEM 11/19/2010 MEM @ WAS L 38 11 3 8 37.5 1 2 50.0 4 6 66.7 1 6 7 3 2 0 6 4 -7
+p731
+aVXavier Henry MEM 11/16/2010 MEM vs. POR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p732
+aVTony Allen MEM 11/16/2010 MEM vs. POR L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -4
+p733
+aVMarc Gasol MEM 11/16/2010 MEM vs. POR L 26 9 4 6 66.7 0 0 - 1 3 33.3 1 3 4 3 1 1 1 5 -3
+p734
+aVZach Randolph MEM 11/16/2010 MEM vs. POR L 40 19 7 12 58.3 0 0 - 5 8 62.5 5 9 14 0 0 0 3 1 -1
+p735
+aVRudy Gay MEM 11/16/2010 MEM vs. POR L 45 20 8 12 66.7 1 2 50.0 3 3 100.0 4 4 8 5 2 0 3 2 5
+p736
+aVSam Young MEM 11/16/2010 MEM vs. POR L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 1 -1
+p737
+aVGreivis Vasquez MEM 11/16/2010 MEM vs. POR L 17 5 1 8 12.5 0 4 0.0 3 5 60.0 0 1 1 2 1 0 2 0 -1
+p738
+aVHasheem Thabeet MEM 11/16/2010 MEM vs. POR L 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 0 -8
+p739
+aVO.J. Mayo MEM 11/16/2010 MEM vs. POR L 33 17 7 13 53.8 3 6 50.0 0 0 - 0 3 3 2 1 1 3 1 -1
+p740
+aVMike Conley MEM 11/16/2010 MEM vs. POR L 31 16 5 14 35.7 2 5 40.0 4 4 100.0 0 2 2 6 0 0 3 1 0
+p741
+aVDarrell Arthur MEM 11/16/2010 MEM vs. POR L 18 8 2 4 50.0 0 0 - 4 4 100.0 0 0 0 0 1 1 2 5 4
+p742
+aVGreivis Vasquez MEM 11/15/2010 MEM @ ORL L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 4 1 -14
+p743
+aVMarc Gasol MEM 11/15/2010 MEM @ ORL L 29 14 4 8 50.0 0 0 - 6 8 75.0 4 4 8 2 1 0 3 5 -4
+p744
+aVTony Allen MEM 11/15/2010 MEM @ ORL L 10 7 3 5 60.0 0 0 - 1 2 50.0 2 0 2 0 4 0 2 2 -8
+p745
+aVZach Randolph MEM 11/15/2010 MEM @ ORL L 37 9 4 15 26.7 0 0 - 1 4 25.0 4 5 9 2 1 1 2 2 -13
+p746
+aVRudy Gay MEM 11/15/2010 MEM @ ORL L 40 9 4 17 23.5 1 4 25.0 0 0 - 3 6 9 3 1 2 3 1 -10
+p747
+aVO.J. Mayo MEM 11/15/2010 MEM @ ORL L 29 11 4 9 44.4 1 5 20.0 2 3 66.7 1 2 3 1 1 0 1 3 -3
+p748
+aVDarrell Arthur MEM 11/15/2010 MEM @ ORL L 19 7 3 7 42.9 0 0 - 1 2 50.0 0 4 4 1 0 1 1 3 -11
+p749
+aVMike Conley MEM 11/15/2010 MEM @ ORL L 36 11 5 11 45.5 1 2 50.0 0 0 - 1 2 3 8 1 0 2 3 -3
+p750
+aVXavier Henry MEM 11/15/2010 MEM @ ORL L 15 2 1 3 33.3 0 1 0.0 0 1 0.0 0 0 0 0 0 0 0 2 -11
+p751
+aVSam Young MEM 11/15/2010 MEM @ ORL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p752
+aVHasheem Thabeet MEM 11/15/2010 MEM @ ORL L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 5 -6
+p753
+aVAcie Law MEM 11/13/2010 MEM vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p754
+aVGreivis Vasquez MEM 11/13/2010 MEM vs. BOS L 12 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 3 3
+p755
+aVHasheem Thabeet MEM 11/13/2010 MEM vs. BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p756
+aVRudy Gay MEM 11/13/2010 MEM vs. BOS L 49 22 10 18 55.6 0 0 - 2 2 100.0 1 5 6 4 1 2 2 3 0
+p757
+aVMarc Gasol MEM 11/13/2010 MEM vs. BOS L 43 14 4 9 44.4 0 0 - 6 7 85.7 1 5 6 5 2 2 2 5 -4
+p758
+aVZach Randolph MEM 11/13/2010 MEM vs. BOS L 40 21 10 14 71.4 0 1 0.0 1 2 50.0 3 8 11 1 0 0 2 3 -12
+p759
+aVMike Conley MEM 11/13/2010 MEM vs. BOS L 38 13 3 10 30.0 1 4 25.0 6 6 100.0 0 1 1 4 2 0 6 3 -4
+p760
+aVDarrell Arthur MEM 11/13/2010 MEM vs. BOS L 17 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 0 0 0 1 9
+p761
+aVXavier Henry MEM 11/13/2010 MEM vs. BOS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p762
+aVTony Allen MEM 11/13/2010 MEM vs. BOS L 21 11 4 7 57.1 0 0 - 3 4 75.0 2 2 4 3 3 0 2 1 11
+p763
+aVO.J. Mayo MEM 11/13/2010 MEM vs. BOS L 33 12 5 14 35.7 0 3 0.0 2 3 66.7 0 2 2 1 1 1 2 3 -18
+p764
+aVXavier Henry MEM 11/10/2010 MEM vs. DAL L 20 7 3 10 30.0 0 1 0.0 1 2 50.0 1 2 3 1 0 0 0 1 -4
+p765
+aVSam Young MEM 11/10/2010 MEM vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p766
+aVMike Conley MEM 11/10/2010 MEM vs. DAL L 37 9 4 11 36.4 1 3 33.3 0 0 - 0 4 4 5 1 1 3 2 -13
+p767
+aVHasheem Thabeet MEM 11/10/2010 MEM vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p768
+aVMarc Gasol MEM 11/10/2010 MEM vs. DAL L 31 10 4 9 44.4 0 0 - 2 4 50.0 2 3 5 1 1 1 2 2 -5
+p769
+aVTony Allen MEM 11/10/2010 MEM vs. DAL L 10 4 2 5 40.0 0 0 - 0 1 0.0 1 1 2 3 0 0 1 0 -5
+p770
+aVDarrell Arthur MEM 11/10/2010 MEM vs. DAL L 17 9 3 4 75.0 0 0 - 3 4 75.0 0 3 3 0 0 0 1 1 -11
+p771
+aVO.J. Mayo MEM 11/10/2010 MEM vs. DAL L 29 4 1 8 12.5 0 3 0.0 2 2 100.0 1 2 3 3 0 0 2 0 -15
+p772
+aVGreivis Vasquez MEM 11/10/2010 MEM vs. DAL L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p773
+aVAcie Law MEM 11/10/2010 MEM vs. DAL L 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p774
+aVZach Randolph MEM 11/10/2010 MEM vs. DAL L 35 23 10 16 62.5 0 0 - 3 5 60.0 4 5 9 4 1 0 0 1 -12
+p775
+aVRudy Gay MEM 11/10/2010 MEM vs. DAL L 39 18 8 18 44.4 2 6 33.3 0 1 0.0 3 6 9 2 1 1 2 2 -14
+p776
+aVO.J. Mayo MEM 11/08/2010 MEM vs. PHX W 31 16 7 14 50.0 1 2 50.0 1 1 100.0 0 3 3 4 0 1 1 2 9
+p777
+aVMike Conley MEM 11/08/2010 MEM vs. PHX W 36 16 6 16 37.5 1 4 25.0 3 4 75.0 0 2 2 6 4 0 3 2 5
+p778
+aVRudy Gay MEM 11/08/2010 MEM vs. PHX W 38 22 8 18 44.4 2 5 40.0 4 4 100.0 2 6 8 3 0 0 2 5 14
+p779
+aVMarc Gasol MEM 11/08/2010 MEM vs. PHX W 28 10 5 6 83.3 0 0 - 0 0 - 4 4 8 1 0 0 3 5 8
+p780
+aVXavier Henry MEM 11/08/2010 MEM vs. PHX W 25 14 4 9 44.4 0 1 0.0 6 7 85.7 0 0 0 0 2 0 1 0 0
+p781
+aVZach Randolph MEM 11/08/2010 MEM vs. PHX W 41 23 9 16 56.3 0 0 - 5 6 83.3 8 12 20 2 3 0 1 3 12
+p782
+aVAcie Law MEM 11/08/2010 MEM vs. PHX W 12 3 0 3 0.0 0 1 0.0 3 4 75.0 1 0 1 3 1 0 1 2 7
+p783
+aVSam Young MEM 11/08/2010 MEM vs. PHX W 9 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 2 -2
+p784
+aVDarrell Arthur MEM 11/08/2010 MEM vs. PHX W 20 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 1 1 1 1 -3
+p785
+aVMike Conley MEM 11/06/2010 MEM @ SAC W 36 14 7 17 41.2 0 4 0.0 0 0 - 0 3 3 5 1 1 2 4 11
+p786
+aVZach Randolph MEM 11/06/2010 MEM @ SAC W 29 20 8 15 53.3 0 0 - 4 5 80.0 4 7 11 2 0 0 4 2 7
+p787
+aVMarc Gasol MEM 11/06/2010 MEM @ SAC W 39 6 3 6 50.0 0 0 - 0 0 - 3 2 5 1 2 2 0 3 14
+p788
+aVRudy Gay MEM 11/06/2010 MEM @ SAC W 46 32 11 19 57.9 1 4 25.0 9 9 100.0 2 7 9 3 2 1 2 3 13
+p789
+aVXavier Henry MEM 11/06/2010 MEM @ SAC W 15 9 3 6 50.0 0 2 0.0 3 4 75.0 1 1 2 0 0 0 0 0 -5
+p790
+aVDarrell Arthur MEM 11/06/2010 MEM @ SAC W 14 4 2 5 40.0 0 0 - 0 0 - 3 4 7 0 0 0 1 1 7
+p791
+aVHasheem Thabeet MEM 11/06/2010 MEM @ SAC W 12 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 1 1 0 -9
+p792
+aVO.J. Mayo MEM 11/06/2010 MEM @ SAC W 35 14 6 12 50.0 2 4 50.0 0 3 0.0 0 4 4 1 1 0 3 4 9
+p793
+aVAcie Law MEM 11/06/2010 MEM @ SAC W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 2 -4
+p794
+aVGreivis Vasquez MEM 11/06/2010 MEM @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p795
+aVAcie Law MEM 11/05/2010 MEM @ PHX L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 3 1 0 0 1 0
+p796
+aVSam Young MEM 11/05/2010 MEM @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p797
+aVDarrell Arthur MEM 11/05/2010 MEM @ PHX L 25 10 4 7 57.1 0 0 - 2 4 50.0 5 6 11 0 2 2 3 2 -1
+p798
+aVTony Allen MEM 11/05/2010 MEM @ PHX L 14 5 2 6 33.3 0 0 - 1 2 50.0 0 0 0 2 2 0 1 2 -4
+p799
+aVO.J. Mayo MEM 11/05/2010 MEM @ PHX L 51 23 6 17 35.3 3 8 37.5 8 10 80.0 1 4 5 3 1 1 4 2 -1
+p800
+aVZach Randolph MEM 11/05/2010 MEM @ PHX L 41 12 3 11 27.3 0 1 0.0 6 7 85.7 3 11 14 3 2 0 4 4 -4
+p801
+aVMike Conley MEM 11/05/2010 MEM @ PHX L 47 16 7 15 46.7 0 2 0.0 2 6 33.3 0 4 4 7 5 0 5 5 -5
+p802
+aVMarc Gasol MEM 11/05/2010 MEM @ PHX L 47 26 12 13 92.3 0 0 - 2 3 66.7 4 3 7 3 3 2 5 6 -4
+p803
+aVRudy Gay MEM 11/05/2010 MEM @ PHX L 52 26 11 25 44.0 3 8 37.5 1 2 50.0 2 2 4 0 2 2 4 6 -1
+p804
+aVHasheem Thabeet MEM 11/05/2010 MEM @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p805
+aVO.J. Mayo MEM 11/03/2010 MEM @ GSW L 37 23 9 20 45.0 3 5 60.0 2 2 100.0 0 2 2 5 1 1 2 1 -7
+p806
+aVMarc Gasol MEM 11/03/2010 MEM @ GSW L 31 10 3 5 60.0 0 0 - 4 6 66.7 2 6 8 2 1 1 4 4 4
+p807
+aVAcie Law MEM 11/03/2010 MEM @ GSW L 4 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 0 0 0 0
+p808
+aVHamed Haddadi MEM 11/03/2010 MEM @ GSW L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -6
+p809
+aVHasheem Thabeet MEM 11/03/2010 MEM @ GSW L 10 4 1 2 50.0 0 0 - 2 4 50.0 3 1 4 1 0 0 1 3 1
+p810
+aVSam Young MEM 11/03/2010 MEM @ GSW L 19 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 0 2 0 0 1 -6
+p811
+aVDarrell Arthur MEM 11/03/2010 MEM @ GSW L 28 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 0 0 2 6 8
+p812
+aVRudy Gay MEM 11/03/2010 MEM @ GSW L 46 35 14 23 60.9 4 7 57.1 3 4 75.0 1 6 7 3 2 0 3 3 -6
+p813
+aVTony Allen MEM 11/03/2010 MEM @ GSW L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -7
+p814
+aVMike Conley MEM 11/03/2010 MEM @ GSW L 44 18 6 13 46.2 1 5 20.0 5 7 71.4 0 7 7 13 3 0 3 2 -6
+p815
+aVXavier Henry MEM 11/03/2010 MEM @ GSW L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 4 -5
+p816
+aVO.J. Mayo MEM 11/02/2010 MEM @ LAL L 27 8 3 11 27.3 1 4 25.0 1 1 100.0 0 1 1 0 2 0 2 2 -2
+p817
+aVSam Young MEM 11/02/2010 MEM @ LAL L 20 8 1 7 14.3 0 2 0.0 6 6 100.0 0 2 2 0 2 0 1 3 -13
+p818
+aVRudy Gay MEM 11/02/2010 MEM @ LAL L 32 30 12 18 66.7 3 3 100.0 3 3 100.0 1 3 4 3 1 1 2 2 -16
+p819
+aVDarrell Arthur MEM 11/02/2010 MEM @ LAL L 34 10 5 15 33.3 0 0 - 0 1 0.0 2 5 7 2 2 1 1 2 -11
+p820
+aVHasheem Thabeet MEM 11/02/2010 MEM @ LAL L 14 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 0 0 2 0 3 -16
+p821
+aVTony Allen MEM 11/02/2010 MEM @ LAL L 14 5 2 7 28.6 0 0 - 1 1 100.0 1 0 1 2 0 0 1 2 -5
+p822
+aVDeMarre Carroll MEM 11/02/2010 MEM @ LAL L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 7
+p823
+aVXavier Henry MEM 11/02/2010 MEM @ LAL L 12 10 3 7 42.9 0 1 0.0 4 7 57.1 2 1 3 0 0 0 0 2 -11
+p824
+aVMike Conley MEM 11/02/2010 MEM @ LAL L 34 16 6 11 54.5 3 4 75.0 1 3 33.3 1 4 5 8 3 0 1 0 -1
+p825
+aVMarc Gasol MEM 11/02/2010 MEM @ LAL L 28 11 3 8 37.5 0 0 - 5 5 100.0 5 3 8 5 2 0 2 4 -9
+p826
+aVAcie Law MEM 11/02/2010 MEM @ LAL L 14 2 1 5 20.0 0 0 - 0 0 - 1 0 1 2 0 0 2 0 -18
+p827
+aVMike Conley MEM 10/30/2010 MEM vs. MIN W 38 14 5 15 33.3 1 5 20.0 3 4 75.0 2 5 7 11 7 0 3 1 27
+p828
+aVTony Allen MEM 10/30/2010 MEM vs. MIN W 22 10 5 8 62.5 0 0 - 0 0 - 2 2 4 2 2 1 3 3 -1
+p829
+aVGreivis Vasquez MEM 10/30/2010 MEM vs. MIN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p830
+aVSam Young MEM 10/30/2010 MEM vs. MIN W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -13
+p831
+aVDeMarre Carroll MEM 10/30/2010 MEM vs. MIN W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p832
+aVMarc Gasol MEM 10/30/2010 MEM vs. MIN W 31 11 3 6 50.0 0 0 - 5 7 71.4 2 6 8 2 3 1 3 3 31
+p833
+aVO.J. Mayo MEM 10/30/2010 MEM vs. MIN W 40 29 11 21 52.4 5 9 55.6 2 2 100.0 0 7 7 5 3 1 4 2 26
+p834
+aVHamed Haddadi MEM 10/30/2010 MEM vs. MIN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p835
+aVAcie Law MEM 10/30/2010 MEM vs. MIN W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -4
+p836
+aVRudy Gay MEM 10/30/2010 MEM vs. MIN W 43 25 11 22 50.0 2 4 50.0 1 1 100.0 2 4 6 5 4 0 2 3 30
+p837
+aVHasheem Thabeet MEM 10/30/2010 MEM vs. MIN W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 5 -10
+p838
+aVDarrell Arthur MEM 10/30/2010 MEM vs. MIN W 31 18 7 13 53.8 0 0 - 4 4 100.0 1 5 6 1 2 0 1 5 18
+p839
+aVSam Young MEM 10/29/2010 MEM @ DAL W 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -3
+p840
+aVMike Conley MEM 10/29/2010 MEM @ DAL W 37 8 3 11 27.3 0 1 0.0 2 4 50.0 1 4 5 6 4 0 4 3 8
+p841
+aVTony Allen MEM 10/29/2010 MEM @ DAL W 14 10 4 5 80.0 0 0 - 2 4 50.0 1 1 2 0 0 0 3 4 7
+p842
+aVO.J. Mayo MEM 10/29/2010 MEM @ DAL W 37 20 6 17 35.3 4 9 44.4 4 4 100.0 1 3 4 2 3 1 1 2 4
+p843
+aVAcie Law MEM 10/29/2010 MEM @ DAL W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -7
+p844
+aVXavier Henry MEM 10/29/2010 MEM @ DAL W 12 6 1 7 14.3 0 1 0.0 4 6 66.7 0 1 1 0 0 0 0 3 -8
+p845
+aVHasheem Thabeet MEM 10/29/2010 MEM @ DAL W 12 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -11
+p846
+aVDarrell Arthur MEM 10/29/2010 MEM @ DAL W 27 14 6 10 60.0 0 0 - 2 2 100.0 2 3 5 1 1 1 1 5 6
+p847
+aVHamed Haddadi MEM 10/29/2010 MEM @ DAL W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -2
+p848
+aVMarc Gasol MEM 10/29/2010 MEM @ DAL W 33 10 2 5 40.0 0 0 - 6 8 75.0 6 9 15 4 1 0 1 4 14
+p849
+aVRudy Gay MEM 10/29/2010 MEM @ DAL W 44 21 9 19 47.4 0 3 0.0 3 4 75.0 3 5 8 3 3 1 1 1 -3
+p850
+aVDarrell Arthur MEM 10/27/2010 MEM vs. ATL L 31 19 8 12 66.7 0 0 - 3 3 100.0 0 3 3 0 0 0 2 6 -9
+p851
+aVXavier Henry MEM 10/27/2010 MEM vs. ATL L 14 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 2
+p852
+aVHasheem Thabeet MEM 10/27/2010 MEM vs. ATL L 19 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 2 2 1 -18
+p853
+aVO.J. Mayo MEM 10/27/2010 MEM vs. ATL L 34 9 4 9 44.4 1 2 50.0 0 0 - 1 1 2 0 0 0 2 3 -3
+p854
+aVAcie Law MEM 10/27/2010 MEM vs. ATL L 12 3 0 2 0.0 0 2 0.0 3 6 50.0 0 0 0 0 2 0 3 2 -14
+p855
+aVMike Conley MEM 10/27/2010 MEM vs. ATL L 36 23 9 15 60.0 1 2 50.0 4 4 100.0 1 4 5 8 0 0 2 3 -1
+p856
+aVTony Allen MEM 10/27/2010 MEM vs. ATL L 11 0 0 6 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 4 -17
+p857
+aVZach Randolph MEM 10/27/2010 MEM vs. ATL L 15 4 1 6 16.7 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -9
+p858
+aVDeMarre Carroll MEM 10/27/2010 MEM vs. ATL L 6 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 3
+p859
+aVSam Young MEM 10/27/2010 MEM vs. ATL L 26 17 8 12 66.7 1 1 100.0 0 1 0.0 0 5 5 2 3 1 2 1 -4
+p860
+aVRudy Gay MEM 10/27/2010 MEM vs. ATL L 31 21 7 16 43.8 1 2 50.0 6 7 85.7 2 8 10 2 1 0 0 4 -10
+p861
+aVHamed Haddadi MEM 10/27/2010 MEM vs. ATL L 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 0 5
+p862
+a.

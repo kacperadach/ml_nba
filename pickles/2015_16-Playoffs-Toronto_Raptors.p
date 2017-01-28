@@ -1,0 +1,434 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPatrick Patterson TOR 05/27/2016 TOR vs. CLE L 35 9 3 9 33.3 1 5 20.0 2 4 50.0 0 1 1 2 1 0 1 4 -12
+p2
+aVTerrence Ross TOR 05/27/2016 TOR vs. CLE L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -5
+p3
+aVJason Thompson TOR 05/27/2016 TOR vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p4
+aVJames Johnson TOR 05/27/2016 TOR vs. CLE L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 -8
+p5
+aVDelon Wright TOR 05/27/2016 TOR vs. CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p6
+aVNorman Powell TOR 05/27/2016 TOR vs. CLE L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -1
+p7
+aVLuis Scola TOR 05/27/2016 TOR vs. CLE L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p8
+aVJonas Valanciunas TOR 05/27/2016 TOR vs. CLE L 17 6 3 5 60.0 0 0 - 0 0 - 4 4 8 1 0 0 0 0 4
+p9
+aVDeMar DeRozan TOR 05/27/2016 TOR vs. CLE L 42 20 9 18 50.0 0 1 0.0 2 2 100.0 0 3 3 4 0 0 4 4 -24
+p10
+aVKyle Lowry TOR 05/27/2016 TOR vs. CLE L 42 35 11 22 50.0 6 12 50.0 7 7 100.0 1 2 3 3 0 1 2 2 -30
+p11
+aVBismack Biyombo TOR 05/27/2016 TOR vs. CLE L 26 4 1 4 25.0 0 0 - 2 4 50.0 0 9 9 0 1 1 1 2 -25
+p12
+aVDeMarre Carroll TOR 05/27/2016 TOR vs. CLE L 28 7 3 9 33.3 1 2 50.0 0 0 - 2 4 6 0 0 0 1 3 -16
+p13
+aVCory Joseph TOR 05/27/2016 TOR vs. CLE L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 2 0 0 1 -4
+p14
+aVKyle Lowry TOR 05/25/2016 TOR @ CLE L 29 13 5 12 41.7 1 4 25.0 2 6 33.3 0 3 3 6 1 0 5 3 -25
+p15
+aVDeMar DeRozan TOR 05/25/2016 TOR @ CLE L 31 14 2 8 25.0 0 0 - 10 12 83.3 0 3 3 3 2 1 2 2 -32
+p16
+aVBismack Biyombo TOR 05/25/2016 TOR @ CLE L 21 7 2 3 66.7 0 0 - 3 3 100.0 0 4 4 0 0 1 0 3 -21
+p17
+aVTerrence Ross TOR 05/25/2016 TOR @ CLE L 21 3 1 4 25.0 0 2 0.0 1 2 50.0 0 2 2 1 0 0 2 5 -13
+p18
+aVDelon Wright TOR 05/25/2016 TOR @ CLE L 12 6 2 3 66.7 0 0 - 2 5 40.0 0 1 1 0 2 0 0 0 2
+p19
+aVDeMarre Carroll TOR 05/25/2016 TOR @ CLE L 27 5 2 7 28.6 0 4 0.0 1 1 100.0 0 2 2 2 1 0 1 2 -25
+p20
+aVNorman Powell TOR 05/25/2016 TOR @ CLE L 13 6 3 9 33.3 0 0 - 0 0 - 1 0 1 1 1 0 0 1 -1
+p21
+aVJames Johnson TOR 05/25/2016 TOR @ CLE L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 1 0 1 2 -3
+p22
+aVJason Thompson TOR 05/25/2016 TOR @ CLE L 12 2 1 3 33.3 0 0 - 0 2 0.0 3 2 5 1 0 1 0 0 2
+p23
+aVPatrick Patterson TOR 05/25/2016 TOR @ CLE L 19 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 2 2 -24
+p24
+aVCory Joseph TOR 05/25/2016 TOR @ CLE L 10 3 1 5 20.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 3 1 -20
+p25
+aVJonas Valanciunas TOR 05/25/2016 TOR @ CLE L 18 9 4 4 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 2 1 -17
+p26
+aVLuis Scola TOR 05/25/2016 TOR @ CLE L 15 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 3 1 0 0 3 -13
+p27
+aVJames Johnson TOR 05/23/2016 TOR vs. CLE W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -3
+p28
+aVKyle Lowry TOR 05/23/2016 TOR vs. CLE W 44 35 14 20 70.0 4 7 57.1 3 4 75.0 1 4 5 5 3 0 2 4 4
+p29
+aVLuis Scola TOR 05/23/2016 TOR vs. CLE W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -2
+p30
+aVCory Joseph TOR 05/23/2016 TOR vs. CLE W 16 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 0 -1
+p31
+aVDeMarre Carroll TOR 05/23/2016 TOR vs. CLE W 36 11 3 12 25.0 1 7 14.3 4 5 80.0 2 1 3 2 1 0 0 2 10
+p32
+aVTerrence Ross TOR 05/23/2016 TOR vs. CLE W 7 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 0 0 -3
+p33
+aVPatrick Patterson TOR 05/23/2016 TOR vs. CLE W 34 9 3 5 60.0 1 3 33.3 2 2 100.0 2 3 5 2 1 0 2 2 8
+p34
+aVDeMar DeRozan TOR 05/23/2016 TOR vs. CLE W 40 32 14 23 60.9 0 1 0.0 4 4 100.0 0 3 3 3 1 0 2 2 8
+p35
+aVBismack Biyombo TOR 05/23/2016 TOR vs. CLE W 42 5 2 4 50.0 0 0 - 1 4 25.0 3 11 14 1 0 3 1 3 9
+p36
+aVJames Johnson TOR 05/21/2016 TOR vs. CLE W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 1
+p37
+aVDeMar DeRozan TOR 05/21/2016 TOR vs. CLE W 40 32 12 24 50.0 0 1 0.0 8 9 88.9 0 5 5 4 0 0 0 1 10
+p38
+aVTerrence Ross TOR 05/21/2016 TOR vs. CLE W 12 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 5
+p39
+aVLuis Scola TOR 05/21/2016 TOR vs. CLE W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 0
+p40
+aVKyle Lowry TOR 05/21/2016 TOR vs. CLE W 33 20 7 13 53.8 4 8 50.0 2 2 100.0 1 5 6 3 0 0 3 4 8
+p41
+aVCory Joseph TOR 05/21/2016 TOR vs. CLE W 31 14 6 10 60.0 2 3 66.7 0 0 - 1 4 5 3 0 0 2 3 15
+p42
+aVBismack Biyombo TOR 05/21/2016 TOR vs. CLE W 39 7 3 6 50.0 0 0 - 1 2 50.0 8 18 26 1 0 4 1 3 12
+p43
+aVDeMarre Carroll TOR 05/21/2016 TOR vs. CLE W 28 10 4 11 36.4 2 7 28.6 0 0 - 1 3 4 1 0 0 2 1 7
+p44
+aVPatrick Patterson TOR 05/21/2016 TOR vs. CLE W 30 10 4 10 40.0 2 6 33.3 0 0 - 1 5 6 1 1 0 0 2 17
+p45
+aVJason Thompson TOR 05/19/2016 TOR @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p46
+aVBismack Biyombo TOR 05/19/2016 TOR @ CLE L 29 3 1 3 33.3 0 0 - 1 1 100.0 2 3 5 0 0 2 0 4 -4
+p47
+aVNorman Powell TOR 05/19/2016 TOR @ CLE L 3 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p48
+aVLucas Nogueira TOR 05/19/2016 TOR @ CLE L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p49
+aVLuis Scola TOR 05/19/2016 TOR @ CLE L 14 6 1 5 20.0 1 4 25.0 3 4 75.0 1 2 3 1 0 0 0 2 -13
+p50
+aVDeMarre Carroll TOR 05/19/2016 TOR @ CLE L 22 7 2 6 33.3 1 3 33.3 2 2 100.0 0 5 5 1 0 1 0 3 -9
+p51
+aVKyle Lowry TOR 05/19/2016 TOR @ CLE L 33 10 4 14 28.6 1 8 12.5 1 2 50.0 1 5 6 3 1 0 5 4 -7
+p52
+aVDelon Wright TOR 05/19/2016 TOR @ CLE L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -3
+p53
+aVTerrence Ross TOR 05/19/2016 TOR @ CLE L 16 11 4 10 40.0 2 6 33.3 1 2 50.0 1 1 2 1 2 0 1 4 -5
+p54
+aVDeMar DeRozan TOR 05/19/2016 TOR @ CLE L 36 22 8 18 44.4 0 0 - 6 6 100.0 0 5 5 2 1 0 2 4 -11
+p55
+aVCory Joseph TOR 05/19/2016 TOR @ CLE L 27 11 5 10 50.0 1 4 25.0 0 0 - 1 4 5 3 2 0 1 1 -17
+p56
+aVJames Johnson TOR 05/19/2016 TOR @ CLE L 19 11 5 7 71.4 1 2 50.0 0 1 0.0 0 3 3 1 0 0 0 2 -7
+p57
+aVPatrick Patterson TOR 05/19/2016 TOR @ CLE L 29 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 4 0 1 1 4 -15
+p58
+aVNorman Powell TOR 05/17/2016 TOR @ CLE L 6 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -2
+p59
+aVDeMarre Carroll TOR 05/17/2016 TOR @ CLE L 20 2 1 5 20.0 0 3 0.0 0 0 - 1 0 1 1 2 1 1 5 -15
+p60
+aVDeMar DeRozan TOR 05/17/2016 TOR @ CLE L 35 18 9 17 52.9 0 1 0.0 0 0 - 0 0 0 5 0 0 3 1 -22
+p61
+aVBismack Biyombo TOR 05/17/2016 TOR @ CLE L 31 12 5 5 100.0 0 0 - 2 2 100.0 2 2 4 0 2 0 2 2 -22
+p62
+aVDelon Wright TOR 05/17/2016 TOR @ CLE L 10 7 1 2 50.0 0 0 - 5 6 83.3 0 1 1 0 1 0 0 0 -4
+p63
+aVPatrick Patterson TOR 05/17/2016 TOR @ CLE L 28 8 3 8 37.5 1 4 25.0 1 2 50.0 0 2 2 4 0 0 1 2 -16
+p64
+aVJames Johnson TOR 05/17/2016 TOR @ CLE L 20 10 4 6 66.7 2 2 100.0 0 0 - 1 3 4 1 1 0 2 4 -6
+p65
+aVTerrence Ross TOR 05/17/2016 TOR @ CLE L 19 4 1 5 20.0 1 3 33.3 1 2 50.0 0 1 1 0 1 0 1 2 -23
+p66
+aVKyle Lowry TOR 05/17/2016 TOR @ CLE L 32 8 4 14 28.6 0 7 0.0 0 0 - 0 4 4 5 0 0 4 2 -16
+p67
+aVCory Joseph TOR 05/17/2016 TOR @ CLE L 15 4 1 6 16.7 0 2 0.0 2 4 50.0 0 1 1 3 1 0 0 3 -20
+p68
+aVLuis Scola TOR 05/17/2016 TOR @ CLE L 14 7 1 2 50.0 1 1 100.0 4 4 100.0 0 2 2 0 0 0 0 4 -7
+p69
+aVLucas Nogueira TOR 05/17/2016 TOR @ CLE L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p70
+aVJason Thompson TOR 05/17/2016 TOR @ CLE L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p71
+aVNorman Powell TOR 05/15/2016 TOR vs. MIA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p72
+aVTerrence Ross TOR 05/15/2016 TOR vs. MIA W 18 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 0 2 0 1 1 2
+p73
+aVCory Joseph TOR 05/15/2016 TOR vs. MIA W 19 1 0 8 0.0 0 1 0.0 1 2 50.0 0 0 0 3 1 0 0 2 14
+p74
+aVJason Thompson TOR 05/15/2016 TOR vs. MIA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p75
+aVPatrick Patterson TOR 05/15/2016 TOR vs. MIA W 37 11 2 8 25.0 0 4 0.0 7 7 100.0 7 4 11 0 1 2 1 2 19
+p76
+aVJames Johnson TOR 05/15/2016 TOR vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p77
+aVDeMar DeRozan TOR 05/15/2016 TOR vs. MIA W 35 28 12 29 41.4 0 1 0.0 4 7 57.1 4 4 8 1 0 0 3 3 15
+p78
+aVDelon Wright TOR 05/15/2016 TOR vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p79
+aVKyle Lowry TOR 05/15/2016 TOR vs. MIA W 42 35 11 20 55.0 5 7 71.4 8 11 72.7 3 4 7 9 4 0 4 4 31
+p80
+aVLucas Nogueira TOR 05/15/2016 TOR vs. MIA W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p81
+aVBismack Biyombo TOR 05/15/2016 TOR vs. MIA W 41 17 6 8 75.0 0 0 - 5 12 41.7 6 10 16 1 0 2 0 4 25
+p82
+aVDeMarre Carroll TOR 05/15/2016 TOR vs. MIA W 34 14 4 5 80.0 2 2 100.0 4 4 100.0 0 5 5 2 0 0 0 5 21
+p83
+aVLucas Nogueira TOR 05/13/2016 TOR @ MIA L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p84
+aVNorman Powell TOR 05/13/2016 TOR @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 0
+p85
+aVKyle Lowry TOR 05/13/2016 TOR @ MIA L 37 36 12 27 44.4 3 5 60.0 9 10 90.0 1 3 4 3 0 0 2 5 -5
+p86
+aVBismack Biyombo TOR 05/13/2016 TOR @ MIA L 33 4 1 4 25.0 0 0 - 2 4 50.0 1 12 13 2 0 2 2 2 -7
+p87
+aVTerrence Ross TOR 05/13/2016 TOR @ MIA L 24 6 3 8 37.5 0 4 0.0 0 0 - 0 2 2 1 0 0 0 0 -9
+p88
+aVDeMarre Carroll TOR 05/13/2016 TOR @ MIA L 25 5 2 4 50.0 1 3 33.3 0 2 0.0 0 6 6 0 0 1 1 2 -2
+p89
+aVDeMar DeRozan TOR 05/13/2016 TOR @ MIA L 43 23 8 21 38.1 0 1 0.0 7 7 100.0 0 4 4 2 1 0 2 3 -7
+p90
+aVPatrick Patterson TOR 05/13/2016 TOR @ MIA L 33 8 4 7 57.1 0 2 0.0 0 0 - 4 4 8 0 0 1 0 1 -8
+p91
+aVCory Joseph TOR 05/13/2016 TOR @ MIA L 26 7 3 9 33.3 0 0 - 1 2 50.0 1 2 3 1 1 0 0 3 -15
+p92
+aVJames Johnson TOR 05/13/2016 TOR @ MIA L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 1 -2
+p93
+aVJason Thompson TOR 05/13/2016 TOR @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p94
+aVCory Joseph TOR 05/11/2016 TOR vs. MIA W 25 9 4 6 66.7 0 0 - 1 1 100.0 0 1 1 5 2 0 0 3 -12
+p95
+aVKyle Lowry TOR 05/11/2016 TOR vs. MIA W 41 25 9 25 36.0 4 9 44.4 3 4 75.0 1 9 10 6 3 1 1 2 25
+p96
+aVJason Thompson TOR 05/11/2016 TOR vs. MIA W 10 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -9
+p97
+aVNorman Powell TOR 05/11/2016 TOR vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p98
+aVDeMarre Carroll TOR 05/11/2016 TOR vs. MIA W 26 6 1 7 14.3 1 2 50.0 3 4 75.0 2 4 6 1 0 0 2 4 12
+p99
+aVTerrence Ross TOR 05/11/2016 TOR vs. MIA W 22 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 1 1 1 0 3
+p100
+aVDeMar DeRozan TOR 05/11/2016 TOR vs. MIA W 34 34 11 22 50.0 1 1 100.0 11 11 100.0 0 4 4 2 2 0 1 5 5
+p101
+aVBismack Biyombo TOR 05/11/2016 TOR vs. MIA W 38 10 4 5 80.0 0 0 - 2 4 50.0 3 3 6 0 2 4 4 3 15
+p102
+aVPatrick Patterson TOR 05/11/2016 TOR vs. MIA W 40 8 3 12 25.0 0 4 0.0 2 2 100.0 3 3 6 1 0 1 0 0 5
+p103
+aVDeMar DeRozan TOR 05/09/2016 TOR @ MIA L 34 9 4 17 23.5 0 1 0.0 1 4 25.0 1 2 3 0 0 0 3 2 -11
+p104
+aVDeMarre Carroll TOR 05/09/2016 TOR @ MIA L 38 13 6 11 54.5 1 3 33.3 0 0 - 0 3 3 0 1 0 0 4 -8
+p105
+aVPatrick Patterson TOR 05/09/2016 TOR @ MIA L 41 7 3 8 37.5 1 4 25.0 0 0 - 2 2 4 0 0 0 3 1 8
+p106
+aVNorman Powell TOR 05/09/2016 TOR @ MIA L 12 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 1 0 1 1 -8
+p107
+aVBismack Biyombo TOR 05/09/2016 TOR @ MIA L 31 13 4 6 66.7 0 0 - 5 5 100.0 3 10 13 1 1 2 1 2 11
+p108
+aVLucas Nogueira TOR 05/09/2016 TOR @ MIA L 13 2 1 1 100.0 0 0 - 0 0 - 0 5 5 0 0 0 0 2 -7
+p109
+aVTerrence Ross TOR 05/09/2016 TOR @ MIA L 28 14 4 10 40.0 3 4 75.0 3 3 100.0 1 2 3 1 0 0 2 3 -11
+p110
+aVKyle Lowry TOR 05/09/2016 TOR @ MIA L 32 10 2 11 18.2 0 6 0.0 6 7 85.7 0 7 7 9 4 0 4 6 -2
+p111
+aVCory Joseph TOR 05/09/2016 TOR @ MIA L 37 14 7 17 41.2 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -7
+p112
+aVTerrence Ross TOR 05/07/2016 TOR @ MIA W 19 5 2 3 66.7 0 1 0.0 1 2 50.0 0 2 2 1 1 0 4 2 -11
+p113
+aVNorman Powell TOR 05/07/2016 TOR @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p114
+aVLuis Scola TOR 05/07/2016 TOR @ MIA W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 3 -13
+p115
+aVCory Joseph TOR 05/07/2016 TOR @ MIA W 23 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 5 -8
+p116
+aVDeMar DeRozan TOR 05/07/2016 TOR @ MIA W 40 19 6 17 35.3 0 0 - 7 8 87.5 1 5 6 5 0 0 2 1 13
+p117
+aVDeMarre Carroll TOR 05/07/2016 TOR @ MIA W 38 6 2 9 22.2 1 3 33.3 1 2 50.0 0 5 5 3 0 0 0 3 13
+p118
+aVBismack Biyombo TOR 05/07/2016 TOR @ MIA W 12 3 0 0 - 0 0 - 3 4 75.0 2 3 5 0 0 0 0 1 -4
+p119
+aVKyle Lowry TOR 05/07/2016 TOR @ MIA W 41 33 11 19 57.9 5 8 62.5 6 6 100.0 0 2 2 2 1 0 4 4 8
+p120
+aVJonas Valanciunas TOR 05/07/2016 TOR @ MIA W 22 16 7 12 58.3 0 0 - 2 5 40.0 3 9 12 1 1 0 2 2 12
+p121
+aVPatrick Patterson TOR 05/07/2016 TOR @ MIA W 36 9 3 4 75.0 2 3 66.7 1 1 100.0 0 3 3 1 1 0 0 1 13
+p122
+aVDeMar DeRozan TOR 05/05/2016 TOR vs. MIA W 42 20 9 24 37.5 0 0 - 2 8 25.0 2 6 8 1 3 0 0 1 9
+p123
+aVNorman Powell TOR 05/05/2016 TOR vs. MIA W 9 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 3 -19
+p124
+aVJames Johnson TOR 05/05/2016 TOR vs. MIA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p125
+aVJonas Valanciunas TOR 05/05/2016 TOR vs. MIA W 38 15 7 9 77.8 0 0 - 1 2 50.0 6 6 12 2 3 1 2 1 17
+p126
+aVTerrence Ross TOR 05/05/2016 TOR vs. MIA W 28 10 5 11 45.5 0 2 0.0 0 0 - 0 2 2 0 1 0 0 0 -1
+p127
+aVDeMarre Carroll TOR 05/05/2016 TOR vs. MIA W 40 21 7 13 53.8 3 6 50.0 4 6 66.7 2 3 5 1 4 0 0 4 4
+p128
+aVKyle Lowry TOR 05/05/2016 TOR vs. MIA W 47 18 7 22 31.8 1 7 14.3 3 6 50.0 1 3 4 6 3 0 4 3 10
+p129
+aVPatrick Patterson TOR 05/05/2016 TOR vs. MIA W 17 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 0 0 0 0 1 -7
+p130
+aVBismack Biyombo TOR 05/05/2016 TOR vs. MIA W 14 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -5
+p131
+aVCory Joseph TOR 05/05/2016 TOR vs. MIA W 26 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 4 0 0 2 5 10
+p132
+aVTerrence Ross TOR 05/03/2016 TOR vs. MIA L 27 19 7 13 53.8 2 7 28.6 3 5 60.0 1 1 2 1 1 2 2 0 -5
+p133
+aVBismack Biyombo TOR 05/03/2016 TOR vs. MIA L 12 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -13
+p134
+aVKyle Lowry TOR 05/03/2016 TOR vs. MIA L 43 7 3 13 23.1 1 7 14.3 0 0 - 1 3 4 6 3 0 3 5 7
+p135
+aVJonas Valanciunas TOR 05/03/2016 TOR vs. MIA L 41 24 10 16 62.5 0 0 - 4 4 100.0 0 14 14 3 2 3 1 2 10
+p136
+aVDeMar DeRozan TOR 05/03/2016 TOR vs. MIA L 42 22 9 22 40.9 0 0 - 4 6 66.7 0 6 6 4 1 0 2 2 -5
+p137
+aVDeMarre Carroll TOR 05/03/2016 TOR vs. MIA L 37 10 4 7 57.1 2 4 50.0 0 0 - 0 4 4 0 2 1 2 5 -4
+p138
+aVCory Joseph TOR 05/03/2016 TOR vs. MIA L 23 10 5 9 55.6 0 0 - 0 0 - 1 2 3 2 0 0 2 4 -4
+p139
+aVNorman Powell TOR 05/03/2016 TOR vs. MIA L 22 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 2 1 0 1 3 -6
+p140
+aVPatrick Patterson TOR 05/03/2016 TOR vs. MIA L 18 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 0 0 1 2 -10
+p141
+aVNorman Powell TOR 05/01/2016 TOR vs. IND W 23 13 5 6 83.3 3 4 75.0 0 0 - 1 2 3 1 1 1 0 1 0
+p142
+aVBismack Biyombo TOR 05/01/2016 TOR vs. IND W 20 3 1 3 33.3 0 0 - 1 4 25.0 4 7 11 0 0 0 0 3 7
+p143
+aVDeMarre Carroll TOR 05/01/2016 TOR vs. IND W 37 3 1 6 16.7 1 4 25.0 0 0 - 2 2 4 1 2 2 1 0 5
+p144
+aVJonas Valanciunas TOR 05/01/2016 TOR vs. IND W 28 10 4 10 40.0 0 0 - 2 2 100.0 6 9 15 1 0 1 1 3 -2
+p145
+aVDeMar DeRozan TOR 05/01/2016 TOR vs. IND W 40 30 10 32 31.3 1 5 20.0 9 9 100.0 0 5 5 2 3 2 1 2 5
+p146
+aVCory Joseph TOR 05/01/2016 TOR vs. IND W 27 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 4 0 1 2 1 0
+p147
+aVKyle Lowry TOR 05/01/2016 TOR vs. IND W 37 11 5 14 35.7 0 4 0.0 1 2 50.0 2 2 4 9 1 0 3 2 0
+p148
+aVPatrick Patterson TOR 05/01/2016 TOR vs. IND W 23 11 4 9 44.4 3 5 60.0 0 0 - 2 2 4 3 0 0 0 0 11
+p149
+aVTerrence Ross TOR 05/01/2016 TOR vs. IND W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p150
+aVDeMar DeRozan TOR 04/29/2016 TOR @ IND L 37 8 3 13 23.1 0 1 0.0 2 2 100.0 1 2 3 1 1 0 4 4 -14
+p151
+aVDeMarre Carroll TOR 04/29/2016 TOR @ IND L 30 15 5 12 41.7 2 7 28.6 3 4 75.0 3 1 4 0 2 0 2 4 -3
+p152
+aVCory Joseph TOR 04/29/2016 TOR @ IND L 25 15 4 6 66.7 3 3 100.0 4 6 66.7 1 1 2 2 1 0 2 3 -17
+p153
+aVTerrence Ross TOR 04/29/2016 TOR @ IND L 13 9 3 7 42.9 2 4 50.0 1 2 50.0 1 1 2 0 0 2 0 0 -3
+p154
+aVDelon Wright TOR 04/29/2016 TOR @ IND L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 8
+p155
+aVJason Thompson TOR 04/29/2016 TOR @ IND L 3 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 8
+p156
+aVNorman Powell TOR 04/29/2016 TOR @ IND L 19 2 1 6 16.7 0 4 0.0 0 0 - 0 2 2 0 0 0 1 1 -18
+p157
+aVPatrick Patterson TOR 04/29/2016 TOR @ IND L 27 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 0 0 0 0 1 -8
+p158
+aVKyle Lowry TOR 04/29/2016 TOR @ IND L 39 10 4 14 28.6 1 7 14.3 1 2 50.0 0 5 5 10 2 0 4 3 -17
+p159
+aVBismack Biyombo TOR 04/29/2016 TOR @ IND L 19 2 1 3 33.3 0 0 - 0 0 - 5 5 10 0 1 1 0 2 -23
+p160
+aVJonas Valanciunas TOR 04/29/2016 TOR @ IND L 26 14 5 9 55.6 0 0 - 4 6 66.7 4 5 9 0 2 2 2 5 -3
+p161
+aVJonas Valanciunas TOR 04/26/2016 TOR vs. IND W 23 11 5 8 62.5 0 0 - 1 3 33.3 3 2 5 2 1 2 4 0 -6
+p162
+aVKyle Lowry TOR 04/26/2016 TOR vs. IND W 37 14 3 11 27.3 1 5 20.0 7 8 87.5 1 3 4 5 1 0 0 4 7
+p163
+aVDeMarre Carroll TOR 04/26/2016 TOR vs. IND W 26 5 1 3 33.3 0 1 0.0 3 4 75.0 1 2 3 0 2 0 0 4 -11
+p164
+aVCory Joseph TOR 04/26/2016 TOR vs. IND W 23 8 3 6 50.0 1 2 50.0 1 1 100.0 2 1 3 1 2 1 0 1 12
+p165
+aVTerrence Ross TOR 04/26/2016 TOR vs. IND W 14 3 1 6 16.7 1 6 16.7 0 0 - 0 1 1 0 0 0 0 3 2
+p166
+aVNorman Powell TOR 04/26/2016 TOR vs. IND W 28 10 4 11 36.4 0 4 0.0 2 2 100.0 0 4 4 0 2 0 0 1 16
+p167
+aVPatrick Patterson TOR 04/26/2016 TOR vs. IND W 26 7 3 10 30.0 1 4 25.0 0 0 - 0 2 2 1 0 0 1 1 -20
+p168
+aVBismack Biyombo TOR 04/26/2016 TOR vs. IND W 24 10 3 5 60.0 0 0 - 4 4 100.0 4 12 16 1 0 0 1 1 10
+p169
+aVDeMar DeRozan TOR 04/26/2016 TOR vs. IND W 40 34 10 22 45.5 2 4 50.0 12 13 92.3 1 2 3 2 1 0 1 3 5
+p170
+aVPatrick Patterson TOR 04/23/2016 TOR @ IND L 27 8 2 5 40.0 1 4 25.0 3 4 75.0 1 0 1 2 0 1 0 1 -22
+p171
+aVCory Joseph TOR 04/23/2016 TOR @ IND L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 3 0 3 1 -17
+p172
+aVBismack Biyombo TOR 04/23/2016 TOR @ IND L 13 5 1 1 100.0 0 0 - 3 8 37.5 3 6 9 0 0 1 3 1 -5
+p173
+aVDeMarre Carroll TOR 04/23/2016 TOR @ IND L 32 12 4 9 44.4 4 8 50.0 0 0 - 1 5 6 0 0 0 0 3 -8
+p174
+aVDelon Wright TOR 04/23/2016 TOR @ IND L 3 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p175
+aVKyle Lowry TOR 04/23/2016 TOR @ IND L 36 12 4 12 33.3 0 5 0.0 4 6 66.7 1 2 3 5 1 0 3 6 -8
+p176
+aVJames Johnson TOR 04/23/2016 TOR @ IND L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 2
+p177
+aVTerrence Ross TOR 04/23/2016 TOR @ IND L 19 7 2 9 22.2 1 4 25.0 2 2 100.0 0 1 1 0 1 0 0 0 -3
+p178
+aVNorman Powell TOR 04/23/2016 TOR @ IND L 14 10 3 5 60.0 2 3 66.7 2 2 100.0 1 2 3 0 2 0 0 1 6
+p179
+aVDeMar DeRozan TOR 04/23/2016 TOR @ IND L 33 8 4 15 26.7 0 2 0.0 0 0 - 0 6 6 4 1 0 6 3 -14
+p180
+aVJonas Valanciunas TOR 04/23/2016 TOR @ IND L 28 16 6 7 85.7 0 0 - 4 4 100.0 2 4 6 0 0 1 1 3 -15
+p181
+aVLuis Scola TOR 04/23/2016 TOR @ IND L 14 1 0 5 0.0 0 4 0.0 1 2 50.0 0 2 2 0 0 0 1 0 -5
+p182
+aVJason Thompson TOR 04/23/2016 TOR @ IND L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p183
+aVDeMarre Carroll TOR 04/21/2016 TOR @ IND W 35 17 7 16 43.8 3 9 33.3 0 0 - 4 1 5 0 1 1 2 3 13
+p184
+aVJonas Valanciunas TOR 04/21/2016 TOR @ IND W 27 9 3 8 37.5 0 0 - 3 3 100.0 4 10 14 0 0 1 2 5 16
+p185
+aVDeMar DeRozan TOR 04/21/2016 TOR @ IND W 36 21 7 19 36.8 0 1 0.0 7 9 77.8 0 2 2 3 2 0 2 2 -1
+p186
+aVBismack Biyombo TOR 04/21/2016 TOR @ IND W 21 6 3 5 60.0 0 0 - 0 0 - 3 5 8 0 0 1 0 5 0
+p187
+aVCory Joseph TOR 04/21/2016 TOR @ IND W 24 10 5 10 50.0 0 1 0.0 0 0 - 0 2 2 4 1 0 1 2 12
+p188
+aVTerrence Ross TOR 04/21/2016 TOR @ IND W 10 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 2 0 0 0 2 3
+p189
+aVDelon Wright TOR 04/21/2016 TOR @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p190
+aVPatrick Patterson TOR 04/21/2016 TOR @ IND W 26 7 2 7 28.6 1 5 20.0 2 2 100.0 1 3 4 0 1 1 1 1 13
+p191
+aVKyle Lowry TOR 04/21/2016 TOR @ IND W 40 21 8 21 38.1 4 10 40.0 1 2 50.0 2 2 4 8 1 0 2 3 18
+p192
+aVLuis Scola TOR 04/21/2016 TOR @ IND W 16 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 1 0 0 1 3 5
+p193
+aVNorman Powell TOR 04/21/2016 TOR @ IND W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p194
+aVDelon Wright TOR 04/18/2016 TOR vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p195
+aVLuis Scola TOR 04/18/2016 TOR vs. IND W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 4
+p196
+aVBismack Biyombo TOR 04/18/2016 TOR vs. IND W 17 6 1 2 50.0 0 0 - 4 5 80.0 2 2 4 1 1 1 1 2 10
+p197
+aVDeMarre Carroll TOR 04/18/2016 TOR vs. IND W 20 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 2 4 -12
+p198
+aVJonas Valanciunas TOR 04/18/2016 TOR vs. IND W 31 23 10 18 55.6 0 0 - 3 4 75.0 5 10 15 0 1 2 1 4 1
+p199
+aVTerrence Ross TOR 04/18/2016 TOR vs. IND W 10 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 1 1 0 0 2 -8
+p200
+aVPatrick Patterson TOR 04/18/2016 TOR vs. IND W 31 14 5 6 83.3 2 2 100.0 2 2 100.0 2 4 6 1 1 1 3 2 21
+p201
+aVNorman Powell TOR 04/18/2016 TOR vs. IND W 22 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 1 1 1 0 2 21
+p202
+aVKyle Lowry TOR 04/18/2016 TOR vs. IND W 40 18 4 13 30.8 0 5 0.0 10 10 100.0 1 6 7 9 1 0 2 2 13
+p203
+aVDeMar DeRozan TOR 04/18/2016 TOR vs. IND W 31 10 5 18 27.8 0 2 0.0 0 0 - 1 3 4 2 1 0 2 3 6
+p204
+aVJason Thompson TOR 04/18/2016 TOR vs. IND W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p205
+aVCory Joseph TOR 04/18/2016 TOR vs. IND W 24 16 6 8 75.0 0 0 - 4 4 100.0 0 1 1 3 1 0 1 2 5
+p206
+aVBismack Biyombo TOR 04/16/2016 TOR vs. IND L 24 6 1 2 50.0 0 0 - 4 6 66.7 1 7 8 0 0 2 2 1 -4
+p207
+aVKyle Lowry TOR 04/16/2016 TOR vs. IND L 41 11 3 13 23.1 1 7 14.3 4 9 44.4 0 2 2 7 2 1 6 5 -10
+p208
+aVPatrick Patterson TOR 04/16/2016 TOR vs. IND L 28 9 4 5 80.0 1 1 100.0 0 0 - 3 3 6 1 0 1 1 1 1
+p209
+aVCory Joseph TOR 04/16/2016 TOR vs. IND L 24 18 5 6 83.3 1 2 50.0 7 8 87.5 1 2 3 3 1 0 2 4 -7
+p210
+aVDeMarre Carroll TOR 04/16/2016 TOR vs. IND L 19 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 1 1 -7
+p211
+aVTerrence Ross TOR 04/16/2016 TOR vs. IND L 14 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 2 3 -3
+p212
+aVDeMar DeRozan TOR 04/16/2016 TOR vs. IND L 37 14 5 19 26.3 0 3 0.0 4 6 66.7 2 0 2 4 2 0 3 4 -11
+p213
+aVNorman Powell TOR 04/16/2016 TOR vs. IND L 17 5 2 4 50.0 0 1 0.0 1 2 50.0 1 2 3 0 0 0 2 1 -2
+p214
+aVJonas Valanciunas TOR 04/16/2016 TOR vs. IND L 21 12 4 14 28.6 0 0 - 4 4 100.0 11 8 19 0 0 1 0 6 -6
+p215
+aVLuis Scola TOR 04/16/2016 TOR vs. IND L 15 4 2 4 50.0 0 1 0.0 0 1 0.0 0 6 6 1 1 0 0 1 -1
+p216
+a.

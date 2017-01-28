@@ -1,0 +1,1644 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJordan Hamilton NOP 04/13/2016 NOP @ MIN L 35 6 2 10 20.0 1 6 16.7 1 2 50.0 1 6 7 5 0 0 1 1 -44
+p2
+aVOmer Asik NOP 04/13/2016 NOP @ MIN L 32 24 10 13 76.9 0 0 - 4 6 66.7 3 8 11 1 1 0 2 1 -14
+p3
+aVDante Cunningham NOP 04/13/2016 NOP @ MIN L 35 17 6 14 42.9 2 6 33.3 3 4 75.0 0 0 0 2 0 0 1 3 -28
+p4
+aVKendrick Perkins NOP 04/13/2016 NOP @ MIN L 20 6 2 7 28.6 0 0 - 2 2 100.0 1 4 5 3 0 0 6 1 -31
+p5
+aVTim Frazier NOP 04/13/2016 NOP @ MIN L 36 6 3 15 20.0 0 2 0.0 0 0 - 1 3 4 15 1 0 3 4 -21
+p6
+aVToney Douglas NOP 04/13/2016 NOP @ MIN L 42 22 6 13 46.2 2 5 40.0 8 8 100.0 3 1 4 5 4 0 3 2 -21
+p7
+aVJames Ennis III NOP 04/13/2016 NOP @ MIN L 40 28 11 20 55.0 6 11 54.5 0 0 - 1 1 2 0 1 0 0 4 -16
+p8
+aVToney Douglas NOP 04/11/2016 NOP vs. CHI L 33 21 8 13 61.5 3 6 50.0 2 2 100.0 0 2 2 3 1 0 0 1 9
+p9
+aVTim Frazier NOP 04/11/2016 NOP vs. CHI L 33 20 6 15 40.0 1 3 33.3 7 9 77.8 1 5 6 11 3 0 2 5 -8
+p10
+aVKendrick Perkins NOP 04/11/2016 NOP vs. CHI L 17 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 1 1 2 -10
+p11
+aVJordan Hamilton NOP 04/11/2016 NOP vs. CHI L 24 15 5 10 50.0 3 6 50.0 2 3 66.7 0 3 3 2 0 0 2 4 -3
+p12
+aVJames Ennis III NOP 04/11/2016 NOP vs. CHI L 40 29 9 14 64.3 5 8 62.5 6 7 85.7 2 3 5 4 1 1 1 3 -9
+p13
+aVLuke Babbitt NOP 04/11/2016 NOP vs. CHI L 35 7 2 10 20.0 0 2 0.0 3 3 100.0 4 1 5 4 0 0 3 3 0
+p14
+aVOmer Asik NOP 04/11/2016 NOP vs. CHI L 24 14 6 8 75.0 0 0 - 2 4 50.0 2 5 7 1 3 0 1 1 4
+p15
+aVDante Cunningham NOP 04/11/2016 NOP vs. CHI L 35 10 5 9 55.6 0 1 0.0 0 0 - 0 1 1 2 0 0 0 4 -8
+p16
+aVTim Frazier NOP 04/09/2016 NOP vs. PHX L 31 11 5 14 35.7 1 3 33.3 0 2 0.0 3 5 8 7 1 0 1 2 -5
+p17
+aVJordan Hamilton NOP 04/09/2016 NOP vs. PHX L 27 13 4 12 33.3 1 4 25.0 4 4 100.0 1 4 5 1 2 1 0 4 -7
+p18
+aVOmer Asik NOP 04/09/2016 NOP vs. PHX L 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -16
+p19
+aVDante Cunningham NOP 04/09/2016 NOP vs. PHX L 30 13 5 11 45.5 0 1 0.0 3 5 60.0 0 1 1 2 1 0 0 2 -23
+p20
+aVAlexis Ajinca NOP 04/09/2016 NOP vs. PHX L 23 4 2 9 22.2 0 0 - 0 0 - 3 1 4 1 0 1 3 3 -22
+p21
+aVKendrick Perkins NOP 04/09/2016 NOP vs. PHX L 16 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 2 3 1
+p22
+aVLuke Babbitt NOP 04/09/2016 NOP vs. PHX L 34 17 7 16 43.8 0 1 0.0 3 3 100.0 1 8 9 2 0 0 0 5 -7
+p23
+aVToney Douglas NOP 04/09/2016 NOP vs. PHX L 31 23 8 14 57.1 3 6 50.0 4 4 100.0 0 2 2 5 1 0 1 2 -23
+p24
+aVJames Ennis III NOP 04/09/2016 NOP vs. PHX L 34 18 8 16 50.0 2 6 33.3 0 0 - 4 2 6 0 3 0 3 3 -3
+p25
+aVTim Frazier NOP 04/08/2016 NOP vs. LAL W 26 7 3 7 42.9 1 2 50.0 0 2 0.0 0 3 3 12 1 0 3 3 2
+p26
+aVJordan Hamilton NOP 04/08/2016 NOP vs. LAL W 24 12 5 11 45.5 2 6 33.3 0 1 0.0 0 2 2 0 0 0 4 0 7
+p27
+aVLuke Babbitt NOP 04/08/2016 NOP vs. LAL W 24 15 5 8 62.5 3 3 100.0 2 2 100.0 0 3 3 4 1 0 1 2 -9
+p28
+aVJames Ennis III NOP 04/08/2016 NOP vs. LAL W 27 6 2 6 33.3 0 3 0.0 2 2 100.0 0 3 3 2 1 0 2 1 9
+p29
+aVOmer Asik NOP 04/08/2016 NOP vs. LAL W 18 1 0 1 0.0 0 0 - 1 2 50.0 2 5 7 1 0 0 1 2 7
+p30
+aVAlexis Ajinca NOP 04/08/2016 NOP vs. LAL W 37 28 12 17 70.6 0 0 - 4 4 100.0 5 10 15 2 1 2 2 3 3
+p31
+aVDante Cunningham NOP 04/08/2016 NOP vs. LAL W 34 19 7 11 63.6 3 4 75.0 2 2 100.0 0 1 1 3 0 0 2 2 14
+p32
+aVKendrick Perkins NOP 04/08/2016 NOP vs. LAL W 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 2 0 3 1
+p33
+aVToney Douglas NOP 04/08/2016 NOP vs. LAL W 33 20 7 15 46.7 1 4 25.0 5 6 83.3 1 5 6 4 1 0 1 4 6
+p34
+aVToney Douglas NOP 04/06/2016 NOP @ BOS L 30 19 7 13 53.8 2 6 33.3 3 3 100.0 0 7 7 3 1 0 3 4 -5
+p35
+aVJames Ennis III NOP 04/06/2016 NOP @ BOS L 29 13 5 6 83.3 2 3 66.7 1 1 100.0 2 2 4 1 2 0 5 6 -8
+p36
+aVJordan Hamilton NOP 04/06/2016 NOP @ BOS L 28 14 5 11 45.5 2 6 33.3 2 2 100.0 1 5 6 1 0 0 1 2 6
+p37
+aVOmer Asik NOP 04/06/2016 NOP @ BOS L 14 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 0 0 0 3 3 -18
+p38
+aVAlexis Ajinca NOP 04/06/2016 NOP @ BOS L 22 10 4 9 44.4 0 0 - 2 2 100.0 2 6 8 3 0 0 4 4 -8
+p39
+aVLuke Babbitt NOP 04/06/2016 NOP @ BOS L 33 16 5 13 38.5 2 5 40.0 4 6 66.7 0 8 8 4 0 0 0 1 7
+p40
+aVTim Frazier NOP 04/06/2016 NOP @ BOS L 34 18 7 14 50.0 1 2 50.0 3 3 100.0 0 5 5 6 2 1 4 3 -2
+p41
+aVDante Cunningham NOP 04/06/2016 NOP @ BOS L 31 2 0 6 0.0 0 2 0.0 2 2 100.0 0 3 3 3 0 1 0 5 -21
+p42
+aVKendrick Perkins NOP 04/06/2016 NOP @ BOS L 19 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 0 14
+p43
+aVKendrick Perkins NOP 04/05/2016 NOP @ PHI L 23 8 4 7 57.1 0 0 - 0 0 - 0 7 7 2 0 0 0 0 -23
+p44
+aVJames Ennis III NOP 04/05/2016 NOP @ PHI L 30 11 3 7 42.9 1 4 25.0 4 6 66.7 0 1 1 2 0 1 4 3 -12
+p45
+aVJordan Hamilton NOP 04/05/2016 NOP @ PHI L 27 8 3 7 42.9 0 0 - 2 2 100.0 5 3 8 2 1 0 3 2 -19
+p46
+aVAlexis Ajinca NOP 04/05/2016 NOP @ PHI L 25 12 6 12 50.0 0 0 - 0 0 - 2 8 10 0 0 0 4 3 9
+p47
+aVLuke Babbitt NOP 04/05/2016 NOP @ PHI L 31 16 7 16 43.8 2 3 66.7 0 0 - 2 6 8 3 0 0 2 3 -6
+p48
+aVToney Douglas NOP 04/05/2016 NOP @ PHI L 37 7 3 12 25.0 1 4 25.0 0 0 - 2 5 7 1 1 0 2 2 -16
+p49
+aVTim Frazier NOP 04/05/2016 NOP @ PHI L 36 12 4 12 33.3 0 2 0.0 4 4 100.0 3 3 6 9 3 0 1 2 5
+p50
+aVDante Cunningham NOP 04/05/2016 NOP @ PHI L 32 19 7 9 77.8 3 5 60.0 2 4 50.0 0 2 2 1 0 0 1 1 -8
+p51
+aVLuke Babbitt NOP 04/03/2016 NOP @ BKN W 33 21 8 15 53.3 3 5 60.0 2 3 66.7 0 1 1 4 0 1 0 5 4
+p52
+aVDante Cunningham NOP 04/03/2016 NOP @ BKN W 32 14 6 11 54.5 1 3 33.3 1 3 33.3 2 2 4 3 1 0 3 3 13
+p53
+aVJordan Hamilton NOP 04/03/2016 NOP @ BKN W 34 13 6 11 54.5 0 3 0.0 1 3 33.3 2 9 11 3 0 0 2 2 9
+p54
+aVOmer Asik NOP 04/03/2016 NOP @ BKN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -5
+p55
+aVTim Frazier NOP 04/03/2016 NOP @ BKN W 37 19 7 11 63.6 2 3 66.7 3 4 75.0 0 2 2 13 3 0 0 3 30
+p56
+aVToney Douglas NOP 04/03/2016 NOP @ BKN W 27 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 4 1 0 2 0 1
+p57
+aVJames Ennis III NOP 04/03/2016 NOP @ BKN W 29 14 4 10 40.0 2 6 33.3 4 6 66.7 0 3 3 2 4 1 0 3 19
+p58
+aVAlexis Ajinca NOP 04/03/2016 NOP @ BKN W 29 16 7 9 77.8 0 0 - 2 2 100.0 1 5 6 1 1 4 2 1 17
+p59
+aVKendrick Perkins NOP 04/03/2016 NOP @ BKN W 15 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 1 1 1 1 2 7
+p60
+aVJordan Hamilton NOP 03/31/2016 NOP vs. DEN W 32 14 6 14 42.9 2 5 40.0 0 0 - 0 7 7 2 2 1 1 2 -5
+p61
+aVAlexis Ajinca NOP 03/31/2016 NOP vs. DEN W 16 8 4 7 57.1 0 0 - 0 0 - 3 5 8 0 2 1 3 2 2
+p62
+aVDante Cunningham NOP 03/31/2016 NOP vs. DEN W 37 5 2 5 40.0 0 1 0.0 1 2 50.0 1 6 7 2 1 1 3 2 14
+p63
+aVToney Douglas NOP 03/31/2016 NOP vs. DEN W 36 20 7 12 58.3 3 7 42.9 3 3 100.0 1 2 3 10 0 0 2 2 13
+p64
+aVJames Ennis III NOP 03/31/2016 NOP vs. DEN W 30 11 4 12 33.3 3 5 60.0 0 0 - 5 1 6 3 0 0 1 1 -3
+p65
+aVOmer Asik NOP 03/31/2016 NOP vs. DEN W 15 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 0 -6
+p66
+aVKendrick Perkins NOP 03/31/2016 NOP vs. DEN W 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 0
+p67
+aVLuke Babbitt NOP 03/31/2016 NOP vs. DEN W 36 22 9 25 36.0 2 6 33.3 2 2 100.0 2 8 10 3 2 1 3 2 9
+p68
+aVTim Frazier NOP 03/31/2016 NOP vs. DEN W 29 17 6 12 50.0 3 5 60.0 2 2 100.0 1 4 5 8 0 0 2 3 6
+p69
+aVKendrick Perkins NOP 03/30/2016 NOP @ SAS L 19 2 1 1 100.0 0 0 - 0 0 - 0 4 4 2 0 0 4 2 6
+p70
+aVAlexis Ajinca NOP 03/30/2016 NOP @ SAS L 32 18 8 19 42.1 0 0 - 2 3 66.7 3 6 9 0 1 0 3 4 -7
+p71
+aVJames Ennis III NOP 03/30/2016 NOP @ SAS L 24 13 4 9 44.4 3 4 75.0 2 2 100.0 3 2 5 4 0 0 1 2 3
+p72
+aVDante Cunningham NOP 03/30/2016 NOP @ SAS L 38 10 4 9 44.4 0 2 0.0 2 2 100.0 2 3 5 3 1 0 1 1 -14
+p73
+aVTim Frazier NOP 03/30/2016 NOP @ SAS L 25 11 4 8 50.0 0 0 - 3 4 75.0 1 2 3 7 2 0 3 2 3
+p74
+aVOmer Asik NOP 03/30/2016 NOP @ SAS L 25 2 1 3 33.3 0 0 - 0 2 0.0 1 8 9 0 0 0 0 1 -19
+p75
+aVJordan Hamilton NOP 03/30/2016 NOP @ SAS L 31 14 6 15 40.0 1 5 20.0 1 2 50.0 1 4 5 4 1 0 2 2 -13
+p76
+aVLuke Babbitt NOP 03/30/2016 NOP @ SAS L 19 10 4 7 57.1 0 1 0.0 2 3 66.7 0 2 2 2 0 0 2 2 11
+p77
+aVToney Douglas NOP 03/30/2016 NOP @ SAS L 28 12 4 9 44.4 4 5 80.0 0 0 - 0 2 2 5 1 0 1 1 -10
+p78
+aVOmer Asik NOP 03/28/2016 NOP vs. NYK W 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -6
+p79
+aVDante Cunningham NOP 03/28/2016 NOP vs. NYK W 40 12 3 7 42.9 1 3 33.3 5 6 83.3 0 3 3 2 0 0 0 2 3
+p80
+aVJordan Hamilton NOP 03/28/2016 NOP vs. NYK W 19 5 2 5 40.0 1 4 25.0 0 0 - 0 4 4 2 2 1 1 3 4
+p81
+aVAlexis Ajinca NOP 03/28/2016 NOP vs. NYK W 26 12 4 11 36.4 0 0 - 4 5 80.0 0 6 6 1 0 1 1 3 -10
+p82
+aVKendrick Perkins NOP 03/28/2016 NOP vs. NYK W 21 3 0 0 - 0 0 - 3 4 75.0 2 6 8 0 0 1 0 1 15
+p83
+aVJrue Holiday NOP 03/28/2016 NOP vs. NYK W 34 22 9 19 47.4 2 5 40.0 2 2 100.0 1 5 6 6 4 0 2 0 4
+p84
+aVToney Douglas NOP 03/28/2016 NOP vs. NYK W 25 16 4 10 40.0 2 3 66.7 6 6 100.0 1 4 5 2 0 0 3 2 22
+p85
+aVLuke Babbitt NOP 03/28/2016 NOP vs. NYK W 24 14 4 6 66.7 2 3 66.7 4 4 100.0 0 4 4 2 1 0 0 2 12
+p86
+aVTim Frazier NOP 03/28/2016 NOP vs. NYK W 23 4 1 7 14.3 0 1 0.0 2 6 33.3 0 6 6 2 2 0 1 1 -2
+p87
+aVAlonzo Gee NOP 03/28/2016 NOP vs. NYK W 20 9 4 8 50.0 0 0 - 1 4 25.0 1 1 2 1 2 0 3 1 -2
+p88
+aVLuke Babbitt NOP 03/26/2016 NOP vs. TOR L 28 14 6 11 54.5 2 4 50.0 0 0 - 0 4 4 5 0 0 0 3 -4
+p89
+aVKendrick Perkins NOP 03/26/2016 NOP vs. TOR L 16 2 1 1 100.0 0 0 - 0 0 - 0 4 4 2 1 0 0 2 -3
+p90
+aVJordan Hamilton NOP 03/26/2016 NOP vs. TOR L 24 11 5 10 50.0 0 0 - 1 2 50.0 1 3 4 3 0 0 0 2 1
+p91
+aVTim Frazier NOP 03/26/2016 NOP vs. TOR L 29 12 5 9 55.6 0 1 0.0 2 2 100.0 1 2 3 6 0 0 2 1 -9
+p92
+aVToney Douglas NOP 03/26/2016 NOP vs. TOR L 22 11 4 14 28.6 2 5 40.0 1 1 100.0 0 1 1 2 1 0 1 3 -21
+p93
+aVOmer Asik NOP 03/26/2016 NOP vs. TOR L 24 7 2 6 33.3 0 0 - 3 6 50.0 2 5 7 0 2 0 0 0 -25
+p94
+aVAlexis Ajinca NOP 03/26/2016 NOP vs. TOR L 21 9 3 10 30.0 0 0 - 3 3 100.0 1 3 4 1 1 1 1 2 -11
+p95
+aVDante Cunningham NOP 03/26/2016 NOP vs. TOR L 36 7 3 12 25.0 0 4 0.0 1 2 50.0 1 0 1 1 0 0 0 2 -21
+p96
+aVAlonzo Gee NOP 03/26/2016 NOP vs. TOR L 41 18 8 12 66.7 0 1 0.0 2 4 50.0 3 5 8 2 1 0 3 3 -27
+p97
+aVAlonzo Gee NOP 03/24/2016 NOP @ IND L 41 17 7 13 53.8 1 2 50.0 2 3 66.7 1 2 3 1 0 0 1 0 0
+p98
+aVAlexis Ajinca NOP 03/24/2016 NOP @ IND L 36 22 10 20 50.0 0 0 - 2 2 100.0 2 7 9 2 1 0 5 4 -11
+p99
+aVDante Cunningham NOP 03/24/2016 NOP @ IND L 38 9 4 13 30.8 1 5 20.0 0 0 - 1 1 2 1 2 0 0 1 -4
+p100
+aVOmer Asik NOP 03/24/2016 NOP @ IND L 24 2 1 4 25.0 0 0 - 0 2 0.0 1 14 15 0 0 0 1 1 -13
+p101
+aVToney Douglas NOP 03/24/2016 NOP @ IND L 29 13 5 13 38.5 1 5 20.0 2 2 100.0 1 4 5 3 3 0 1 4 -8
+p102
+aVKendrick Perkins NOP 03/24/2016 NOP @ IND L 19 1 0 3 0.0 0 0 - 1 2 50.0 1 4 5 2 0 0 0 2 3
+p103
+aVTim Frazier NOP 03/24/2016 NOP @ IND L 29 18 7 11 63.6 1 1 100.0 3 3 100.0 2 3 5 5 0 0 6 2 -5
+p104
+aVLuke Babbitt NOP 03/24/2016 NOP @ IND L 24 2 1 8 12.5 0 3 0.0 0 0 - 0 3 3 1 1 0 2 2 -2
+p105
+aVAlexis Ajinca NOP 03/22/2016 NOP vs. MIA L 12 4 1 4 25.0 0 0 - 2 3 66.7 2 0 2 0 0 0 0 0 -6
+p106
+aVTim Frazier NOP 03/22/2016 NOP vs. MIA L 28 11 3 10 30.0 1 2 50.0 4 4 100.0 0 2 2 4 0 0 1 2 -7
+p107
+aVDante Cunningham NOP 03/22/2016 NOP vs. MIA L 27 4 1 3 33.3 0 1 0.0 2 2 100.0 1 3 4 3 0 0 1 4 -17
+p108
+aVJrue Holiday NOP 03/22/2016 NOP vs. MIA L 36 24 7 23 30.4 3 8 37.5 7 7 100.0 0 5 5 7 4 0 1 2 -17
+p109
+aVLuke Babbitt NOP 03/22/2016 NOP vs. MIA L 35 23 10 19 52.6 2 2 100.0 1 2 50.0 3 1 4 1 1 0 2 5 -12
+p110
+aVToney Douglas NOP 03/22/2016 NOP vs. MIA L 31 14 4 16 25.0 1 3 33.3 5 6 83.3 1 8 9 1 1 0 2 4 -4
+p111
+aVKendrick Perkins NOP 03/22/2016 NOP vs. MIA L 23 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 0 3 3 -4
+p112
+aVOmer Asik NOP 03/22/2016 NOP vs. MIA L 21 8 3 6 50.0 0 0 - 2 5 40.0 1 8 9 0 1 0 0 1 -2
+p113
+aVAlonzo Gee NOP 03/22/2016 NOP vs. MIA L 26 7 3 3 100.0 0 0 - 1 1 100.0 1 1 2 0 0 1 2 4 -1
+p114
+aVAlexis Ajinca NOP 03/20/2016 NOP vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p115
+aVOmer Asik NOP 03/20/2016 NOP vs. LAC W 30 15 6 9 66.7 0 0 - 3 5 60.0 1 13 14 2 0 0 3 4 7
+p116
+aVJrue Holiday NOP 03/20/2016 NOP vs. LAC W 39 22 7 17 41.2 3 6 50.0 5 6 83.3 1 1 2 8 1 1 5 4 1
+p117
+aVTim Frazier NOP 03/20/2016 NOP vs. LAC W 20 17 5 8 62.5 1 1 100.0 6 7 85.7 2 5 7 2 4 0 5 5 -1
+p118
+aVAlonzo Gee NOP 03/20/2016 NOP vs. LAC W 28 4 1 5 20.0 0 1 0.0 2 2 100.0 1 6 7 0 0 0 3 4 -3
+p119
+aVKendrick Perkins NOP 03/20/2016 NOP vs. LAC W 16 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 1 1 0 0 5 3
+p120
+aVToney Douglas NOP 03/20/2016 NOP vs. LAC W 37 15 5 12 41.7 1 6 16.7 4 6 66.7 0 7 7 9 1 0 4 3 8
+p121
+aVLuke Babbitt NOP 03/20/2016 NOP vs. LAC W 29 14 4 9 44.4 1 2 50.0 5 5 100.0 2 6 8 0 0 0 2 4 5
+p122
+aVDante Cunningham NOP 03/20/2016 NOP vs. LAC W 40 19 6 10 60.0 1 5 20.0 6 7 85.7 3 3 6 0 2 0 0 3 5
+p123
+aVToney Douglas NOP 03/18/2016 NOP vs. POR L 31 12 4 10 40.0 2 3 66.7 2 4 50.0 0 1 1 6 2 0 0 4 -16
+p124
+aVAlonzo Gee NOP 03/18/2016 NOP vs. POR L 28 0 0 1 0.0 0 0 - 0 0 - 0 5 5 2 1 0 2 2 -4
+p125
+aVDante Cunningham NOP 03/18/2016 NOP vs. POR L 28 3 1 4 25.0 0 2 0.0 1 2 50.0 1 6 7 1 1 1 0 3 1
+p126
+aVTim Frazier NOP 03/18/2016 NOP vs. POR L 27 13 4 6 66.7 1 1 100.0 4 5 80.0 0 3 3 4 0 0 4 2 1
+p127
+aVAnthony Davis NOP 03/18/2016 NOP vs. POR L 14 19 8 18 44.4 0 1 0.0 3 3 100.0 1 0 1 0 0 0 0 2 -11
+p128
+aVRyan Anderson NOP 03/18/2016 NOP vs. POR L 37 30 10 21 47.6 2 9 22.2 8 8 100.0 1 6 7 3 0 1 0 1 10
+p129
+aVOmer Asik NOP 03/18/2016 NOP vs. POR L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -12
+p130
+aVJrue Holiday NOP 03/18/2016 NOP vs. POR L 38 30 11 19 57.9 4 4 100.0 4 4 100.0 0 2 2 6 2 0 1 5 3
+p131
+aVLuke Babbitt NOP 03/18/2016 NOP vs. POR L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 4
+p132
+aVKendrick Perkins NOP 03/18/2016 NOP vs. POR L 18 0 0 1 0.0 0 0 - 0 2 0.0 0 5 5 1 1 1 0 3 -1
+p133
+aVKendrick Perkins NOP 03/16/2016 NOP @ SAC W 19 4 2 4 50.0 0 0 - 0 0 - 0 6 6 0 0 0 1 0 15
+p134
+aVAlonzo Gee NOP 03/16/2016 NOP @ SAC W 24 7 3 4 75.0 1 1 100.0 0 0 - 0 4 4 2 1 1 1 2 19
+p135
+aVJrue Holiday NOP 03/16/2016 NOP @ SAC W 28 17 7 14 50.0 1 3 33.3 2 2 100.0 0 0 0 4 0 0 3 1 6
+p136
+aVTim Frazier NOP 03/16/2016 NOP @ SAC W 27 14 6 10 60.0 0 2 0.0 2 2 100.0 0 3 3 9 1 0 0 2 4
+p137
+aVOrlando Johnson NOP 03/16/2016 NOP @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p138
+aVAnthony Davis NOP 03/16/2016 NOP @ SAC W 31 27 10 20 50.0 1 3 33.3 6 8 75.0 3 11 14 2 1 2 1 2 2
+p139
+aVDante Cunningham NOP 03/16/2016 NOP @ SAC W 26 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -3
+p140
+aVRyan Anderson NOP 03/16/2016 NOP @ SAC W 28 29 11 21 52.4 5 6 83.3 2 2 100.0 2 3 5 3 0 0 1 2 14
+p141
+aVLuke Babbitt NOP 03/16/2016 NOP @ SAC W 13 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 11
+p142
+aVToney Douglas NOP 03/16/2016 NOP @ SAC W 21 11 4 7 57.1 3 4 75.0 0 0 - 1 2 3 3 1 1 0 3 11
+p143
+aVOmer Asik NOP 03/16/2016 NOP @ SAC W 21 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 1 1 0 0 1 -1
+p144
+aVAnthony Davis NOP 03/14/2016 NOP @ GSW L 29 22 6 20 30.0 0 0 - 10 11 90.9 5 7 12 1 1 2 2 3 -30
+p145
+aVLuke Babbitt NOP 03/14/2016 NOP @ GSW L 35 12 5 11 45.5 1 2 50.0 1 2 50.0 1 4 5 1 2 0 0 2 -8
+p146
+aVDante Cunningham NOP 03/14/2016 NOP @ GSW L 21 2 1 6 16.7 0 3 0.0 0 0 - 2 1 3 0 0 1 0 4 -9
+p147
+aVRyan Anderson NOP 03/14/2016 NOP @ GSW L 31 19 6 13 46.2 0 2 0.0 7 9 77.8 2 2 4 2 0 0 0 3 -3
+p148
+aVJrue Holiday NOP 03/14/2016 NOP @ GSW L 28 13 5 16 31.3 1 5 20.0 2 2 100.0 0 4 4 4 2 0 1 1 -28
+p149
+aVOrlando Johnson NOP 03/14/2016 NOP @ GSW L 22 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 1 1 0 0 1 -7
+p150
+aVKendrick Perkins NOP 03/14/2016 NOP @ GSW L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 6
+p151
+aVAlonzo Gee NOP 03/14/2016 NOP @ GSW L 31 10 3 6 50.0 0 1 0.0 4 4 100.0 4 1 5 1 4 0 1 2 -8
+p152
+aVToney Douglas NOP 03/14/2016 NOP @ GSW L 38 22 6 14 42.9 4 10 40.0 6 6 100.0 1 4 5 8 3 0 4 3 -3
+p153
+aVRyan Anderson NOP 03/12/2016 NOP @ MIL L 34 13 5 18 27.8 1 9 11.1 2 2 100.0 3 3 6 0 1 2 3 2 -6
+p154
+aVLuke Babbitt NOP 03/12/2016 NOP @ MIL L 38 16 7 17 41.2 1 5 20.0 1 2 50.0 2 7 9 3 1 0 0 3 -4
+p155
+aVJrue Holiday NOP 03/12/2016 NOP @ MIL L 29 8 4 13 30.8 0 6 0.0 0 0 - 0 3 3 4 1 1 7 3 2
+p156
+aVAnthony Davis NOP 03/12/2016 NOP @ MIL L 34 29 8 22 36.4 2 3 66.7 11 12 91.7 2 9 11 2 2 0 1 1 -24
+p157
+aVAlonzo Gee NOP 03/12/2016 NOP @ MIL L 34 10 4 5 80.0 0 1 0.0 2 4 50.0 2 3 5 4 0 0 0 4 1
+p158
+aVOrlando Johnson NOP 03/12/2016 NOP @ MIL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p159
+aVDante Cunningham NOP 03/12/2016 NOP @ MIL L 30 9 4 6 66.7 1 3 33.3 0 0 - 1 2 3 0 0 1 1 2 -12
+p160
+aVKendrick Perkins NOP 03/12/2016 NOP @ MIL L 12 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 1 0 0 0 1 9
+p161
+aVOmer Asik NOP 03/12/2016 NOP @ MIL L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -8
+p162
+aVToney Douglas NOP 03/12/2016 NOP @ MIL L 19 5 2 4 50.0 1 2 50.0 0 0 - 0 6 6 4 2 0 3 2 -13
+p163
+aVOrlando Johnson NOP 03/11/2016 NOP @ MEM L 5 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p164
+aVJrue Holiday NOP 03/11/2016 NOP @ MEM L 41 34 12 27 44.4 2 7 28.6 8 10 80.0 0 5 5 10 0 1 7 4 3
+p165
+aVOmer Asik NOP 03/11/2016 NOP @ MEM L 13 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 8
+p166
+aVDante Cunningham NOP 03/11/2016 NOP @ MEM L 46 17 7 11 63.6 2 5 40.0 1 2 50.0 1 5 6 1 2 4 2 5 -5
+p167
+aVAnthony Davis NOP 03/11/2016 NOP @ MEM L 47 25 9 17 52.9 0 1 0.0 7 9 77.8 2 11 13 2 1 1 3 3 -10
+p168
+aVToney Douglas NOP 03/11/2016 NOP @ MEM L 42 12 5 15 33.3 1 7 14.3 1 4 25.0 1 6 7 6 2 0 2 6 1
+p169
+aVLuke Babbitt NOP 03/11/2016 NOP @ MEM L 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 4 -6
+p170
+aVAlonzo Gee NOP 03/11/2016 NOP @ MEM L 25 0 0 0 - 0 0 - 0 2 0.0 0 4 4 0 1 0 0 2 -9
+p171
+aVRyan Anderson NOP 03/11/2016 NOP @ MEM L 37 24 8 17 47.1 2 4 50.0 6 7 85.7 8 6 14 3 0 0 3 1 -12
+p172
+aVToney Douglas NOP 03/09/2016 NOP @ CHA L 37 14 5 13 38.5 3 7 42.9 1 1 100.0 1 0 1 5 0 1 2 5 6
+p173
+aVOrlando Johnson NOP 03/09/2016 NOP @ CHA L 21 5 2 7 28.6 0 3 0.0 1 2 50.0 0 3 3 0 0 0 2 1 -20
+p174
+aVAlonzo Gee NOP 03/09/2016 NOP @ CHA L 24 6 3 3 100.0 0 0 - 0 0 - 1 6 7 1 1 0 0 1 -2
+p175
+aVKendrick Perkins NOP 03/09/2016 NOP @ CHA L 14 2 1 1 100.0 0 0 - 0 2 0.0 2 5 7 1 0 1 0 4 3
+p176
+aVOmer Asik NOP 03/09/2016 NOP @ CHA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 0 2 -12
+p177
+aVJrue Holiday NOP 03/09/2016 NOP @ CHA L 38 38 13 23 56.5 5 9 55.6 7 7 100.0 0 4 4 6 0 0 4 3 -4
+p178
+aVDante Cunningham NOP 03/09/2016 NOP @ CHA L 32 5 2 4 50.0 0 1 0.0 1 1 100.0 1 0 1 1 0 0 1 2 -5
+p179
+aVAnthony Davis NOP 03/09/2016 NOP @ CHA L 39 40 14 26 53.8 2 7 28.6 10 12 83.3 1 12 13 5 0 1 2 2 -7
+p180
+aVRyan Anderson NOP 03/09/2016 NOP @ CHA L 29 3 0 8 0.0 0 6 0.0 3 3 100.0 0 6 6 1 0 0 0 3 -4
+p181
+aVRyan Anderson NOP 03/07/2016 NOP vs. SAC W 27 19 6 14 42.9 1 4 25.0 6 8 75.0 3 3 6 2 1 0 1 1 24
+p182
+aVKendrick Perkins NOP 03/07/2016 NOP vs. SAC W 17 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 2 2 1 -1
+p183
+aVToney Douglas NOP 03/07/2016 NOP vs. SAC W 21 6 2 9 22.2 2 6 33.3 0 0 - 0 2 2 3 1 1 3 1 5
+p184
+aVOmer Asik NOP 03/07/2016 NOP vs. SAC W 14 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 2 4 -9
+p185
+aVJrue Holiday NOP 03/07/2016 NOP vs. SAC W 36 20 9 18 50.0 1 5 20.0 1 1 100.0 0 4 4 10 4 1 3 2 -4
+p186
+aVAlonzo Gee NOP 03/07/2016 NOP vs. SAC W 20 9 4 6 66.7 0 0 - 1 1 100.0 3 4 7 0 0 0 0 2 11
+p187
+aVDante Cunningham NOP 03/07/2016 NOP vs. SAC W 29 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 0 4 1 0 2 -8
+p188
+aVAnthony Davis NOP 03/07/2016 NOP vs. SAC W 38 31 13 21 61.9 1 3 33.3 4 9 44.4 1 9 10 1 3 1 5 5 -8
+p189
+aVNorris Cole NOP 03/07/2016 NOP vs. SAC W 40 23 8 19 42.1 1 4 25.0 6 7 85.7 1 6 7 6 3 0 1 3 5
+p190
+aVJrue Holiday NOP 03/05/2016 NOP vs. UTA L 37 22 9 22 40.9 3 7 42.9 1 1 100.0 0 2 2 7 2 0 3 4 -8
+p191
+aVEric Gordon NOP 03/05/2016 NOP vs. UTA L 11 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 2 0 2 0 0 2
+p192
+aVAlonzo Gee NOP 03/05/2016 NOP vs. UTA L 18 4 2 2 100.0 0 0 - 0 1 0.0 1 1 2 3 0 0 0 3 -18
+p193
+aVDante Cunningham NOP 03/05/2016 NOP vs. UTA L 30 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 1 0 1 5 6
+p194
+aVToney Douglas NOP 03/05/2016 NOP vs. UTA L 19 9 3 8 37.5 3 4 75.0 0 0 - 0 1 1 0 0 0 0 3 -15
+p195
+aVRyan Anderson NOP 03/05/2016 NOP vs. UTA L 22 9 4 10 40.0 1 5 20.0 0 0 - 0 2 2 2 1 0 1 0 -14
+p196
+aVLuke Babbitt NOP 03/05/2016 NOP vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p197
+aVAnthony Davis NOP 03/05/2016 NOP vs. UTA L 35 29 11 31 35.5 1 2 50.0 6 7 85.7 2 9 11 2 1 2 1 4 -5
+p198
+aVOmer Asik NOP 03/05/2016 NOP vs. UTA L 25 4 1 2 50.0 0 0 - 2 2 100.0 2 4 6 1 0 1 0 2 12
+p199
+aVNorris Cole NOP 03/05/2016 NOP vs. UTA L 29 6 3 9 33.3 0 0 - 0 0 - 0 2 2 5 1 0 1 4 -3
+p200
+aVKendrick Perkins NOP 03/05/2016 NOP vs. UTA L 13 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -17
+p201
+aVToney Douglas NOP 03/03/2016 NOP vs. SAS L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p202
+aVRyan Anderson NOP 03/03/2016 NOP vs. SAS L 13 8 3 10 30.0 1 3 33.3 1 1 100.0 1 3 4 0 0 0 0 2 -6
+p203
+aVJrue Holiday NOP 03/03/2016 NOP vs. SAS L 28 13 5 17 29.4 1 4 25.0 2 2 100.0 1 2 3 7 2 0 1 0 -6
+p204
+aVAlonzo Gee NOP 03/03/2016 NOP vs. SAS L 16 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 1 1 0 -5
+p205
+aVEric Gordon NOP 03/03/2016 NOP vs. SAS L 34 23 9 19 47.4 3 6 50.0 2 2 100.0 0 5 5 4 0 0 0 1 -10
+p206
+aVDante Cunningham NOP 03/03/2016 NOP vs. SAS L 32 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 2 0 0 1 2 -3
+p207
+aVKendrick Perkins NOP 03/03/2016 NOP vs. SAS L 27 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 0 0 2 3 -12
+p208
+aVNorris Cole NOP 03/03/2016 NOP vs. SAS L 29 11 5 13 38.5 1 3 33.3 0 0 - 0 3 3 5 2 0 3 2 15
+p209
+aVAnthony Davis NOP 03/03/2016 NOP vs. SAS L 35 17 7 12 58.3 0 1 0.0 3 3 100.0 1 12 13 1 2 2 2 1 -3
+p210
+aVLuke Babbitt NOP 03/03/2016 NOP vs. SAS L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 2 0 1 1 1 -1
+p211
+aVAnthony Davis NOP 03/02/2016 NOP @ HOU L 39 12 5 13 38.5 1 2 50.0 1 2 50.0 1 7 8 3 2 1 1 4 -15
+p212
+aVNorris Cole NOP 03/02/2016 NOP @ HOU L 36 21 9 16 56.3 2 3 66.7 1 1 100.0 0 4 4 8 1 1 1 0 -2
+p213
+aVRyan Anderson NOP 03/02/2016 NOP @ HOU L 25 14 5 20 25.0 2 7 28.6 2 2 100.0 5 5 10 0 1 0 3 4 -1
+p214
+aVDante Cunningham NOP 03/02/2016 NOP @ HOU L 29 16 5 9 55.6 4 7 57.1 2 4 50.0 0 3 3 1 0 0 3 2 -9
+p215
+aVJrue Holiday NOP 03/02/2016 NOP @ HOU L 30 13 5 13 38.5 1 7 14.3 2 2 100.0 0 3 3 8 1 0 5 3 -4
+p216
+aVAlexis Ajinca NOP 03/02/2016 NOP @ HOU L 7 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 0 1 1 0 3 2
+p217
+aVEric Gordon NOP 03/02/2016 NOP @ HOU L 32 14 5 11 45.5 4 9 44.4 0 0 - 0 3 3 3 1 0 5 5 -3
+p218
+aVToney Douglas NOP 03/02/2016 NOP @ HOU L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 2 -2
+p219
+aVKendrick Perkins NOP 03/02/2016 NOP @ HOU L 22 0 0 1 0.0 0 0 - 0 0 - 0 8 8 1 3 0 2 2 11
+p220
+aVAlonzo Gee NOP 03/02/2016 NOP @ HOU L 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -2
+p221
+aVDante Cunningham NOP 02/27/2016 NOP vs. MIN L 33 8 3 9 33.3 0 3 0.0 2 4 50.0 1 1 2 2 0 0 2 2 -4
+p222
+aVToney Douglas NOP 02/27/2016 NOP vs. MIN L 10 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 1 2 1
+p223
+aVRyan Anderson NOP 02/27/2016 NOP vs. MIN L 40 31 10 18 55.6 3 7 42.9 8 9 88.9 3 11 14 0 1 2 0 3 2
+p224
+aVKendrick Perkins NOP 02/27/2016 NOP vs. MIN L 20 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 1 0 2 4 -5
+p225
+aVJrue Holiday NOP 02/27/2016 NOP vs. MIN L 36 20 8 13 61.5 1 3 33.3 3 3 100.0 0 2 2 8 2 1 6 1 4
+p226
+aVAlonzo Gee NOP 02/27/2016 NOP vs. MIN L 19 2 1 3 33.3 0 1 0.0 0 0 - 1 6 7 0 0 0 0 2 0
+p227
+aVEric Gordon NOP 02/27/2016 NOP vs. MIN L 34 31 9 17 52.9 4 9 44.4 9 10 90.0 0 3 3 2 3 0 3 3 -3
+p228
+aVLuke Babbitt NOP 02/27/2016 NOP vs. MIN L 6 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 0 1 0 0 5
+p229
+aVNorris Cole NOP 02/27/2016 NOP vs. MIN L 29 7 3 9 33.3 1 2 50.0 0 0 - 1 4 5 7 1 0 1 3 -1
+p230
+aVAlexis Ajinca NOP 02/27/2016 NOP vs. MIN L 13 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -9
+p231
+aVKendrick Perkins NOP 02/25/2016 NOP vs. OKC W 13 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 0 3 5
+p232
+aVToney Douglas NOP 02/25/2016 NOP vs. OKC W 14 12 5 7 71.4 2 3 66.7 0 0 - 1 3 4 2 1 0 0 1 6
+p233
+aVAnthony Davis NOP 02/25/2016 NOP vs. OKC W 38 30 11 26 42.3 2 3 66.7 6 7 85.7 1 5 6 2 1 4 2 2 1
+p234
+aVJrue Holiday NOP 02/25/2016 NOP vs. OKC W 26 22 8 12 66.7 2 3 66.7 4 4 100.0 0 1 1 9 1 0 4 5 8
+p235
+aVLuke Babbitt NOP 02/25/2016 NOP vs. OKC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p236
+aVDante Cunningham NOP 02/25/2016 NOP vs. OKC W 42 10 4 6 66.7 2 2 100.0 0 0 - 3 3 6 3 2 0 1 2 8
+p237
+aVAlexis Ajinca NOP 02/25/2016 NOP vs. OKC W 19 2 1 3 33.3 0 0 - 0 0 - 3 4 7 1 0 2 0 2 5
+p238
+aVRyan Anderson NOP 02/25/2016 NOP vs. OKC W 26 26 11 22 50.0 2 6 33.3 2 2 100.0 4 2 6 0 0 0 1 2 -2
+p239
+aVNorris Cole NOP 02/25/2016 NOP vs. OKC W 35 21 7 14 50.0 2 3 66.7 5 5 100.0 1 5 6 8 0 0 4 4 -3
+p240
+aVAlonzo Gee NOP 02/25/2016 NOP vs. OKC W 23 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 4 -6
+p241
+aVAnthony Davis NOP 02/23/2016 NOP @ WAS L 37 9 3 9 33.3 0 1 0.0 3 4 75.0 3 17 20 3 2 1 3 1 -20
+p242
+aVJrue Holiday NOP 02/23/2016 NOP @ WAS L 32 20 7 21 33.3 0 5 0.0 6 7 85.7 0 4 4 7 0 0 3 3 1
+p243
+aVToney Douglas NOP 02/23/2016 NOP @ WAS L 26 11 2 8 25.0 1 4 25.0 6 7 85.7 0 4 4 1 2 0 0 3 -8
+p244
+aVDante Cunningham NOP 02/23/2016 NOP @ WAS L 28 7 3 8 37.5 1 3 33.3 0 0 - 2 1 3 0 0 2 2 3 -22
+p245
+aVLuke Babbitt NOP 02/23/2016 NOP @ WAS L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p246
+aVAlonzo Gee NOP 02/23/2016 NOP @ WAS L 16 5 1 4 25.0 0 1 0.0 3 7 42.9 0 0 0 0 1 0 2 1 1
+p247
+aVKendrick Perkins NOP 02/23/2016 NOP @ WAS L 18 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 3 2 -12
+p248
+aVAlexis Ajinca NOP 02/23/2016 NOP @ WAS L 17 7 1 5 20.0 0 0 - 5 6 83.3 1 3 4 2 0 0 2 1 -10
+p249
+aVNorris Cole NOP 02/23/2016 NOP @ WAS L 18 9 3 10 30.0 1 2 50.0 2 2 100.0 0 2 2 2 1 0 0 1 -14
+p250
+aVRyan Anderson NOP 02/23/2016 NOP @ WAS L 25 16 7 11 63.6 2 4 50.0 0 0 - 1 3 4 2 2 0 1 1 4
+p251
+aVBryce Dejean-Jones NOP 02/23/2016 NOP @ WAS L 21 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 0 1 0 1 -19
+p252
+aVKendrick Perkins NOP 02/21/2016 NOP @ DET W 7 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 0 1 0
+p253
+aVAlonzo Gee NOP 02/21/2016 NOP @ DET W 27 0 0 0 - 0 0 - 0 0 - 0 4 4 2 0 1 0 4 0
+p254
+aVAlexis Ajinca NOP 02/21/2016 NOP @ DET W 10 4 2 6 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 1 1
+p255
+aVAnthony Davis NOP 02/21/2016 NOP @ DET W 43 59 24 34 70.6 2 2 100.0 9 10 90.0 6 14 20 4 0 1 2 1 17
+p256
+aVToney Douglas NOP 02/21/2016 NOP @ DET W 23 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 2 0 3 1 -1
+p257
+aVDante Cunningham NOP 02/21/2016 NOP @ DET W 24 4 1 5 20.0 0 2 0.0 2 2 100.0 0 3 3 2 0 0 0 2 -3
+p258
+aVJrue Holiday NOP 02/21/2016 NOP @ DET W 32 20 6 14 42.9 0 4 0.0 8 9 88.9 2 5 7 9 0 0 5 3 4
+p259
+aVNorris Cole NOP 02/21/2016 NOP @ DET W 21 5 2 5 40.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 3 3 2
+p260
+aVOmer Asik NOP 02/21/2016 NOP @ DET W 7 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 1
+p261
+aVRyan Anderson NOP 02/21/2016 NOP @ DET W 25 6 1 12 8.3 0 6 0.0 4 4 100.0 0 3 3 0 1 0 0 1 0
+p262
+aVBryce Dejean-Jones NOP 02/21/2016 NOP @ DET W 21 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 2 1 0 1 2 4
+p263
+aVJrue Holiday NOP 02/19/2016 NOP vs. PHI W 33 24 8 17 47.1 1 4 25.0 7 8 87.5 0 3 3 12 4 0 4 1 22
+p264
+aVNorris Cole NOP 02/19/2016 NOP vs. PHI W 27 12 5 8 62.5 0 0 - 2 4 50.0 0 3 3 4 0 0 3 4 4
+p265
+aVOmer Asik NOP 02/19/2016 NOP vs. PHI W 19 9 4 6 66.7 0 0 - 1 2 50.0 7 7 14 0 1 0 1 3 -9
+p266
+aVAlexis Ajinca NOP 02/19/2016 NOP vs. PHI W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 0 9
+p267
+aVDante Cunningham NOP 02/19/2016 NOP vs. PHI W 32 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -8
+p268
+aVBryce Dejean-Jones NOP 02/19/2016 NOP vs. PHI W 17 5 2 5 40.0 1 2 50.0 0 0 - 0 4 4 1 0 0 3 2 -6
+p269
+aVAnthony Davis NOP 02/19/2016 NOP vs. PHI W 38 34 9 22 40.9 0 2 0.0 16 20 80.0 2 5 7 1 2 2 2 3 -2
+p270
+aVRyan Anderson NOP 02/19/2016 NOP vs. PHI W 28 26 9 15 60.0 4 6 66.7 4 4 100.0 0 4 4 1 1 0 2 2 17
+p271
+aVToney Douglas NOP 02/19/2016 NOP vs. PHI W 18 3 1 3 33.3 1 3 33.3 0 0 - 1 0 1 2 1 1 0 3 -3
+p272
+aVAlonzo Gee NOP 02/19/2016 NOP vs. PHI W 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 3 0 0 2 11
+p273
+aVRyan Anderson NOP 02/11/2016 NOP @ OKC L 21 4 2 12 16.7 0 2 0.0 0 0 - 3 2 5 0 0 0 0 1 -23
+p274
+aVOmer Asik NOP 02/11/2016 NOP @ OKC L 18 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 -6
+p275
+aVDante Cunningham NOP 02/11/2016 NOP @ OKC L 27 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 1 1 0 0 2 -11
+p276
+aVAlexis Ajinca NOP 02/11/2016 NOP @ OKC L 17 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 0 1 2 1 3 -11
+p277
+aVAnthony Davis NOP 02/11/2016 NOP @ OKC L 31 23 8 14 57.1 0 1 0.0 7 12 58.3 0 3 3 2 2 0 1 3 -13
+p278
+aVLuke Babbitt NOP 02/11/2016 NOP @ OKC L 9 3 1 4 25.0 0 0 - 1 2 50.0 2 0 2 0 1 0 0 1 1
+p279
+aVAlonzo Gee NOP 02/11/2016 NOP @ OKC L 33 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 -19
+p280
+aVJrue Holiday NOP 02/11/2016 NOP @ OKC L 32 23 11 20 55.0 1 4 25.0 0 0 - 0 4 4 6 5 0 4 1 -17
+p281
+aVToney Douglas NOP 02/11/2016 NOP @ OKC L 25 10 4 9 44.4 1 4 25.0 1 2 50.0 0 2 2 1 2 0 0 2 -21
+p282
+aVNorris Cole NOP 02/11/2016 NOP @ OKC L 27 15 5 13 38.5 1 3 33.3 4 4 100.0 0 5 5 6 0 0 1 1 -10
+p283
+aVRyan Anderson NOP 02/10/2016 NOP vs. UTA W 24 7 3 10 30.0 0 4 0.0 1 1 100.0 0 3 3 1 0 0 0 2 16
+p284
+aVJrue Holiday NOP 02/10/2016 NOP vs. UTA W 31 21 9 19 47.4 0 3 0.0 3 4 75.0 2 4 6 9 2 1 5 3 13
+p285
+aVToney Douglas NOP 02/10/2016 NOP vs. UTA W 22 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 2 2 0 0 1 9
+p286
+aVAnthony Davis NOP 02/10/2016 NOP vs. UTA W 34 19 7 15 46.7 1 1 100.0 4 6 66.7 2 2 4 5 0 1 0 5 -10
+p287
+aVDante Cunningham NOP 02/10/2016 NOP vs. UTA W 29 8 3 6 50.0 2 5 40.0 0 0 - 0 2 2 0 0 1 0 2 -5
+p288
+aVAlexis Ajinca NOP 02/10/2016 NOP vs. UTA W 21 8 3 6 50.0 0 0 - 2 3 66.7 2 9 11 0 0 0 0 5 13
+p289
+aVOmer Asik NOP 02/10/2016 NOP vs. UTA W 17 4 2 3 66.7 0 0 - 0 3 0.0 3 5 8 0 1 0 1 1 -9
+p290
+aVAlonzo Gee NOP 02/10/2016 NOP vs. UTA W 20 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 2 8
+p291
+aVNorris Cole NOP 02/10/2016 NOP vs. UTA W 24 11 4 10 40.0 1 1 100.0 2 2 100.0 0 2 2 4 2 0 2 0 -7
+p292
+aVBryce Dejean-Jones NOP 02/10/2016 NOP vs. UTA W 19 9 3 5 60.0 1 1 100.0 2 2 100.0 0 2 2 2 1 0 0 0 -8
+p293
+aVJrue Holiday NOP 02/08/2016 NOP @ MIN W 28 27 11 23 47.8 3 7 42.9 2 2 100.0 1 5 6 9 3 0 1 0 26
+p294
+aVToney Douglas NOP 02/08/2016 NOP @ MIN W 16 4 1 5 20.0 1 4 25.0 1 2 50.0 0 2 2 2 0 0 0 1 -3
+p295
+aVRyan Anderson NOP 02/08/2016 NOP @ MIN W 31 26 9 17 52.9 3 4 75.0 5 6 83.3 1 2 3 0 1 1 1 2 14
+p296
+aVLuke Babbitt NOP 02/08/2016 NOP @ MIN W 15 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 0 0 0 0 1 10
+p297
+aVNorris Cole NOP 02/08/2016 NOP @ MIN W 32 10 4 9 44.4 0 1 0.0 2 2 100.0 0 3 3 6 0 0 1 3 8
+p298
+aVAlexis Ajinca NOP 02/08/2016 NOP @ MIN W 17 0 0 4 0.0 0 0 - 0 0 - 1 4 5 0 0 1 0 2 0
+p299
+aVAnthony Davis NOP 02/08/2016 NOP @ MIN W 31 27 12 20 60.0 1 2 50.0 2 6 33.3 0 8 8 1 2 0 0 2 15
+p300
+aVAlonzo Gee NOP 02/08/2016 NOP @ MIN W 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 6 0
+p301
+aVOmer Asik NOP 02/08/2016 NOP @ MIN W 17 4 2 3 66.7 0 0 - 0 2 0.0 4 4 8 0 0 0 0 1 -1
+p302
+aVBryce Dejean-Jones NOP 02/08/2016 NOP @ MIN W 12 0 0 4 0.0 0 1 0.0 0 0 - 1 3 4 2 0 0 1 3 -6
+p303
+aVDante Cunningham NOP 02/08/2016 NOP @ MIN W 29 8 4 5 80.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 4 7
+p304
+aVRyan Anderson NOP 02/06/2016 NOP @ CLE L 27 6 2 11 18.2 0 5 0.0 2 2 100.0 1 3 4 2 0 0 1 0 -14
+p305
+aVNorris Cole NOP 02/06/2016 NOP @ CLE L 34 26 10 19 52.6 2 4 50.0 4 4 100.0 0 2 2 5 1 0 5 2 -6
+p306
+aVOmer Asik NOP 02/06/2016 NOP @ CLE L 29 6 3 4 75.0 0 0 - 0 0 - 4 8 12 2 0 0 0 2 -7
+p307
+aVAlonzo Gee NOP 02/06/2016 NOP @ CLE L 17 3 1 4 25.0 0 2 0.0 1 2 50.0 2 2 4 0 1 0 0 2 -9
+p308
+aVDante Cunningham NOP 02/06/2016 NOP @ CLE L 31 6 2 6 33.3 2 5 40.0 0 0 - 0 3 3 2 1 0 0 4 -6
+p309
+aVAnthony Davis NOP 02/06/2016 NOP @ CLE L 40 24 11 20 55.0 0 0 - 2 4 50.0 4 7 11 0 0 2 2 3 -9
+p310
+aVBryce Dejean-Jones NOP 02/06/2016 NOP @ CLE L 20 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 2 0 0 0 0 0
+p311
+aVJrue Holiday NOP 02/06/2016 NOP @ CLE L 28 12 5 18 27.8 1 4 25.0 1 2 50.0 2 3 5 4 2 0 0 1 -15
+p312
+aVToney Douglas NOP 02/06/2016 NOP @ CLE L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -9
+p313
+aVDante Cunningham NOP 02/04/2016 NOP vs. LAL L 32 1 0 1 0.0 0 0 - 1 2 50.0 3 2 5 2 0 1 0 3 26
+p314
+aVBryce Dejean-Jones NOP 02/04/2016 NOP vs. LAL L 43 17 6 10 60.0 1 3 33.3 4 8 50.0 1 8 9 1 2 0 1 1 4
+p315
+aVAnthony Davis NOP 02/04/2016 NOP vs. LAL L 39 39 16 25 64.0 0 2 0.0 7 12 58.3 2 9 11 0 1 1 1 3 4
+p316
+aVToney Douglas NOP 02/04/2016 NOP vs. LAL L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -8
+p317
+aVRyan Anderson NOP 02/04/2016 NOP vs. LAL L 33 17 7 14 50.0 2 7 28.6 1 2 50.0 0 4 4 0 0 0 0 2 5
+p318
+aVAlexis Ajinca NOP 02/04/2016 NOP vs. LAL L 9 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 1 0 2 -7
+p319
+aVJrue Holiday NOP 02/04/2016 NOP vs. LAL L 34 19 9 20 45.0 1 6 16.7 0 0 - 0 0 0 9 1 1 2 1 13
+p320
+aVOmer Asik NOP 02/04/2016 NOP vs. LAL L 15 0 0 0 - 0 0 - 0 0 - 1 7 8 0 0 0 0 2 -8
+p321
+aVAlonzo Gee NOP 02/04/2016 NOP vs. LAL L 16 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 2 3 -29
+p322
+aVNorris Cole NOP 02/04/2016 NOP vs. LAL L 13 2 1 10 10.0 0 1 0.0 0 0 - 0 0 0 2 2 0 1 3 -15
+p323
+aVDante Cunningham NOP 02/03/2016 NOP @ SAS L 20 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 0
+p324
+aVAlexis Ajinca NOP 02/03/2016 NOP @ SAS L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p325
+aVJrue Holiday NOP 02/03/2016 NOP @ SAS L 30 20 8 18 44.4 0 4 0.0 4 4 100.0 2 2 4 5 2 0 3 3 -19
+p326
+aVRyan Anderson NOP 02/03/2016 NOP @ SAS L 31 10 4 9 44.4 0 2 0.0 2 2 100.0 2 8 10 0 0 0 1 2 -17
+p327
+aVAnthony Davis NOP 02/03/2016 NOP @ SAS L 37 28 11 22 50.0 0 1 0.0 6 7 85.7 3 7 10 4 4 4 4 1 -12
+p328
+aVAlonzo Gee NOP 02/03/2016 NOP @ SAS L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 3 -8
+p329
+aVNorris Cole NOP 02/03/2016 NOP @ SAS L 34 14 7 17 41.2 0 1 0.0 0 0 - 0 4 4 9 1 0 2 3 -8
+p330
+aVBryce Dejean-Jones NOP 02/03/2016 NOP @ SAS L 23 8 3 7 42.9 2 5 40.0 0 0 - 0 3 3 1 1 0 3 3 7
+p331
+aVOmer Asik NOP 02/03/2016 NOP @ SAS L 20 6 3 4 75.0 0 0 - 0 1 0.0 3 8 11 0 0 0 1 1 10
+p332
+aVToney Douglas NOP 02/03/2016 NOP @ SAS L 22 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 1 3 0 0 3 -16
+p333
+aVAnthony Davis NOP 02/01/2016 NOP vs. MEM L 37 23 10 20 50.0 1 2 50.0 2 3 66.7 3 6 9 3 1 1 1 1 -28
+p334
+aVAlexis Ajinca NOP 02/01/2016 NOP vs. MEM L 9 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 1 0 0 0 1 9
+p335
+aVOmer Asik NOP 02/01/2016 NOP vs. MEM L 20 6 3 7 42.9 0 0 - 0 2 0.0 4 4 8 0 0 0 0 2 2
+p336
+aVRyan Anderson NOP 02/01/2016 NOP vs. MEM L 29 9 3 9 33.3 1 4 25.0 2 4 50.0 1 2 3 1 1 0 4 0 -13
+p337
+aVDante Cunningham NOP 02/01/2016 NOP vs. MEM L 18 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 1 0 1 0 1 -16
+p338
+aVNorris Cole NOP 02/01/2016 NOP vs. MEM L 38 23 9 15 60.0 3 3 100.0 2 2 100.0 1 2 3 6 1 0 1 3 -9
+p339
+aVAlonzo Gee NOP 02/01/2016 NOP vs. MEM L 25 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 1 1 0 1 1 1
+p340
+aVToney Douglas NOP 02/01/2016 NOP vs. MEM L 12 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 1 2 0 0 3 -5
+p341
+aVBryce Dejean-Jones NOP 02/01/2016 NOP vs. MEM L 24 9 3 7 42.9 1 3 33.3 2 2 100.0 3 2 5 1 2 0 0 0 -4
+p342
+aVJrue Holiday NOP 02/01/2016 NOP vs. MEM L 27 4 1 14 7.1 0 4 0.0 2 4 50.0 0 1 1 4 0 2 2 2 -12
+p343
+aVOmer Asik NOP 01/30/2016 NOP vs. BKN W 25 6 3 5 60.0 0 0 - 0 0 - 3 8 11 0 0 3 1 3 -3
+p344
+aVBryce Dejean-Jones NOP 01/30/2016 NOP vs. BKN W 36 8 3 7 42.9 1 3 33.3 1 1 100.0 2 7 9 1 1 0 1 2 2
+p345
+aVDante Cunningham NOP 01/30/2016 NOP vs. BKN W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p346
+aVNorris Cole NOP 01/30/2016 NOP vs. BKN W 30 12 6 14 42.9 0 2 0.0 0 0 - 0 2 2 5 0 0 3 3 -6
+p347
+aVJrue Holiday NOP 01/30/2016 NOP vs. BKN W 24 26 10 19 52.6 3 7 42.9 3 3 100.0 0 0 0 7 0 0 3 3 3
+p348
+aVRyan Anderson NOP 01/30/2016 NOP vs. BKN W 26 24 8 15 53.3 5 9 55.6 3 4 75.0 2 4 6 5 2 1 0 2 7
+p349
+aVToney Douglas NOP 01/30/2016 NOP vs. BKN W 15 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 0 4
+p350
+aVAnthony Davis NOP 01/30/2016 NOP vs. BKN W 40 20 9 22 40.9 1 2 50.0 1 2 50.0 6 10 16 3 0 2 1 2 -3
+p351
+aVAlonzo Gee NOP 01/30/2016 NOP vs. BKN W 39 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 2 0 0 1 3
+p352
+aVAlonzo Gee NOP 01/28/2016 NOP vs. SAC W 29 10 3 4 75.0 0 1 0.0 4 4 100.0 0 2 2 0 5 0 1 2 20
+p353
+aVDante Cunningham NOP 01/28/2016 NOP vs. SAC W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p354
+aVKendrick Perkins NOP 01/28/2016 NOP vs. SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 1
+p355
+aVToney Douglas NOP 01/28/2016 NOP vs. SAC W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 1 0
+p356
+aVBryce Dejean-Jones NOP 01/28/2016 NOP vs. SAC W 35 14 5 12 41.7 3 6 50.0 1 6 16.7 1 1 2 2 2 1 1 2 -14
+p357
+aVRyan Anderson NOP 01/28/2016 NOP vs. SAC W 40 36 13 25 52.0 5 11 45.5 5 6 83.3 3 6 9 4 0 0 1 2 11
+p358
+aVAlexis Ajinca NOP 01/28/2016 NOP vs. SAC W 14 2 1 4 25.0 0 0 - 0 0 - 1 5 6 1 1 1 3 3 4
+p359
+aVOmer Asik NOP 01/28/2016 NOP vs. SAC W 27 8 4 6 66.7 0 0 - 0 0 - 4 9 13 0 0 4 2 3 6
+p360
+aVNorris Cole NOP 01/28/2016 NOP vs. SAC W 38 17 8 19 42.1 1 3 33.3 0 0 - 0 7 7 10 1 0 3 2 11
+p361
+aVJrue Holiday NOP 01/28/2016 NOP vs. SAC W 34 25 8 24 33.3 1 4 25.0 8 8 100.0 3 2 5 8 0 0 0 3 10
+p362
+aVTyreke Evans NOP 01/25/2016 NOP vs. HOU L 16 5 2 6 33.3 1 3 33.3 0 3 0.0 1 1 2 2 0 0 0 2 -23
+p363
+aVLuke Babbitt NOP 01/25/2016 NOP vs. HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p364
+aVAlonzo Gee NOP 01/25/2016 NOP vs. HOU L 33 5 2 7 28.6 1 3 33.3 0 2 0.0 2 8 10 1 2 0 0 3 -6
+p365
+aVAlexis Ajinca NOP 01/25/2016 NOP vs. HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 4
+p366
+aVAnthony Davis NOP 01/25/2016 NOP vs. HOU L 19 9 4 9 44.4 0 0 - 1 1 100.0 2 4 6 1 2 0 4 1 -4
+p367
+aVNorris Cole NOP 01/25/2016 NOP vs. HOU L 35 10 4 11 36.4 2 4 50.0 0 2 0.0 0 4 4 4 0 0 3 2 -6
+p368
+aVJrue Holiday NOP 01/25/2016 NOP vs. HOU L 36 32 13 21 61.9 2 5 40.0 4 5 80.0 1 5 6 9 3 0 4 2 16
+p369
+aVToney Douglas NOP 01/25/2016 NOP vs. HOU L 25 18 6 8 75.0 3 4 75.0 3 4 75.0 0 3 3 6 1 1 0 1 20
+p370
+aVDante Cunningham NOP 01/25/2016 NOP vs. HOU L 23 7 3 6 50.0 1 3 33.3 0 0 - 2 1 3 0 0 2 0 2 -4
+p371
+aVOmer Asik NOP 01/25/2016 NOP vs. HOU L 6 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -9
+p372
+aVRyan Anderson NOP 01/25/2016 NOP vs. HOU L 37 22 7 20 35.0 3 6 50.0 5 6 83.3 7 2 9 0 0 1 1 0 5
+p373
+aVBryce Dejean-Jones NOP 01/25/2016 NOP vs. HOU L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 1 2
+p374
+aVBryce Dejean-Jones NOP 01/23/2016 NOP vs. MIL W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p375
+aVJrue Holiday NOP 01/23/2016 NOP vs. MIL W 25 13 6 11 54.5 1 2 50.0 0 0 - 0 4 4 9 3 0 2 3 32
+p376
+aVLuke Babbitt NOP 01/23/2016 NOP vs. MIL W 8 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 0
+p377
+aVToney Douglas NOP 01/23/2016 NOP vs. MIL W 24 14 5 8 62.5 4 6 66.7 0 1 0.0 1 0 1 4 3 0 0 0 10
+p378
+aVAlonzo Gee NOP 01/23/2016 NOP vs. MIL W 35 12 5 9 55.6 0 0 - 2 2 100.0 3 3 6 3 1 0 0 4 18
+p379
+aVRyan Anderson NOP 01/23/2016 NOP vs. MIL W 34 23 8 20 40.0 6 11 54.5 1 1 100.0 1 5 6 2 0 0 1 1 21
+p380
+aVNorris Cole NOP 01/23/2016 NOP vs. MIL W 27 11 4 10 40.0 3 5 60.0 0 0 - 0 3 3 3 1 0 1 2 7
+p381
+aVAlexis Ajinca NOP 01/23/2016 NOP vs. MIL W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 2 2
+p382
+aVOmer Asik NOP 01/23/2016 NOP vs. MIL W 19 4 2 4 50.0 0 0 - 0 0 - 4 4 8 0 0 0 1 2 -4
+p383
+aVAnthony Davis NOP 01/23/2016 NOP vs. MIL W 36 22 8 17 47.1 1 2 50.0 5 7 71.4 1 6 7 5 1 4 1 1 9
+p384
+aVTyreke Evans NOP 01/23/2016 NOP vs. MIL W 24 10 3 12 25.0 1 3 33.3 3 4 75.0 1 1 2 6 1 0 2 2 -12
+p385
+aVDante Cunningham NOP 01/21/2016 NOP vs. DET W 19 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 7
+p386
+aVLuke Babbitt NOP 01/21/2016 NOP vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p387
+aVToney Douglas NOP 01/21/2016 NOP vs. DET W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 3 0 0 2 6
+p388
+aVOmer Asik NOP 01/21/2016 NOP vs. DET W 20 12 4 5 80.0 0 0 - 4 4 100.0 4 4 8 0 0 1 0 1 7
+p389
+aVBryce Dejean-Jones NOP 01/21/2016 NOP vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p390
+aVJrue Holiday NOP 01/21/2016 NOP vs. DET W 22 6 3 11 27.3 0 1 0.0 0 0 - 0 2 2 4 1 0 1 0 6
+p391
+aVRyan Anderson NOP 01/21/2016 NOP vs. DET W 31 13 5 9 55.6 0 1 0.0 3 3 100.0 1 1 2 0 0 0 1 1 13
+p392
+aVNorris Cole NOP 01/21/2016 NOP vs. DET W 31 12 5 11 45.5 0 0 - 2 2 100.0 0 8 8 7 0 0 1 4 7
+p393
+aVTyreke Evans NOP 01/21/2016 NOP vs. DET W 31 22 8 14 57.1 2 3 66.7 4 4 100.0 1 3 4 10 2 0 4 3 16
+p394
+aVAlexis Ajinca NOP 01/21/2016 NOP vs. DET W 10 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 0
+p395
+aVAnthony Davis NOP 01/21/2016 NOP vs. DET W 36 32 13 23 56.5 1 2 50.0 5 5 100.0 3 4 7 2 1 2 2 4 15
+p396
+aVAlonzo Gee NOP 01/21/2016 NOP vs. DET W 29 7 3 4 75.0 1 2 50.0 0 0 - 2 7 9 1 1 1 0 1 9
+p397
+aVAlonzo Gee NOP 01/19/2016 NOP vs. MIN W 30 7 2 2 100.0 0 0 - 3 3 100.0 1 3 4 1 2 0 1 2 8
+p398
+aVAnthony Davis NOP 01/19/2016 NOP vs. MIN W 37 35 13 22 59.1 1 2 50.0 8 10 80.0 3 4 7 0 0 2 0 5 8
+p399
+aVDante Cunningham NOP 01/19/2016 NOP vs. MIN W 24 11 4 6 66.7 3 4 75.0 0 0 - 1 0 1 0 2 2 0 4 10
+p400
+aVEric Gordon NOP 01/19/2016 NOP vs. MIN W 25 11 4 9 44.4 3 7 42.9 0 0 - 0 1 1 3 1 0 2 2 -5
+p401
+aVOmer Asik NOP 01/19/2016 NOP vs. MIN W 11 2 1 4 25.0 0 0 - 0 0 - 3 5 8 0 1 0 2 1 -3
+p402
+aVJrue Holiday NOP 01/19/2016 NOP vs. MIN W 27 19 7 14 50.0 2 3 66.7 3 4 75.0 1 1 2 9 1 0 1 0 17
+p403
+aVNorris Cole NOP 01/19/2016 NOP vs. MIN W 23 7 3 6 50.0 0 1 0.0 1 1 100.0 0 5 5 2 0 0 2 2 20
+p404
+aVTyreke Evans NOP 01/19/2016 NOP vs. MIN W 21 13 6 11 54.5 0 2 0.0 1 1 100.0 1 2 3 5 0 1 4 2 -2
+p405
+aVAlexis Ajinca NOP 01/19/2016 NOP vs. MIN W 15 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 0 0 0 2 13
+p406
+aVRyan Anderson NOP 01/19/2016 NOP vs. MIN W 27 7 1 6 16.7 1 4 25.0 4 4 100.0 0 3 3 0 2 1 3 4 9
+p407
+aVRyan Anderson NOP 01/18/2016 NOP @ MEM L 27 14 6 14 42.9 2 5 40.0 0 0 - 1 3 4 0 1 0 0 3 5
+p408
+aVOmer Asik NOP 01/18/2016 NOP @ MEM L 20 8 4 4 100.0 0 0 - 0 0 - 2 4 6 0 0 0 0 2 -1
+p409
+aVAnthony Davis NOP 01/18/2016 NOP @ MEM L 37 21 6 12 50.0 0 2 0.0 9 11 81.8 0 8 8 2 3 3 3 3 -4
+p410
+aVJrue Holiday NOP 01/18/2016 NOP @ MEM L 29 23 9 13 69.2 1 2 50.0 4 4 100.0 0 2 2 9 0 0 3 2 4
+p411
+aVDante Cunningham NOP 01/18/2016 NOP @ MEM L 24 7 2 5 40.0 1 3 33.3 2 2 100.0 0 1 1 0 1 2 0 3 0
+p412
+aVAlexis Ajinca NOP 01/18/2016 NOP @ MEM L 12 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -3
+p413
+aVNorris Cole NOP 01/18/2016 NOP @ MEM L 30 10 5 12 41.7 0 3 0.0 0 0 - 0 1 1 4 2 0 4 0 -2
+p414
+aVAlonzo Gee NOP 01/18/2016 NOP @ MEM L 24 2 0 2 0.0 0 0 - 2 2 100.0 2 4 6 1 0 0 2 3 -8
+p415
+aVEric Gordon NOP 01/18/2016 NOP @ MEM L 37 10 2 7 28.6 2 4 50.0 4 4 100.0 0 2 2 3 1 0 3 3 -1
+p416
+aVOmer Asik NOP 01/15/2016 NOP vs. CHA W 14 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 1 -4
+p417
+aVEric Gordon NOP 01/15/2016 NOP vs. CHA W 32 10 4 12 33.3 2 6 33.3 0 0 - 0 1 1 2 1 0 1 0 -3
+p418
+aVJrue Holiday NOP 01/15/2016 NOP vs. CHA W 27 13 6 14 42.9 1 3 33.3 0 0 - 1 5 6 10 0 0 2 2 6
+p419
+aVTyreke Evans NOP 01/15/2016 NOP vs. CHA W 27 12 5 10 50.0 2 3 66.7 0 0 - 0 2 2 7 1 0 2 3 -4
+p420
+aVAlexis Ajinca NOP 01/15/2016 NOP vs. CHA W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 5
+p421
+aVNorris Cole NOP 01/15/2016 NOP vs. CHA W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 4 1 1 0 0 5
+p422
+aVDante Cunningham NOP 01/15/2016 NOP vs. CHA W 24 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 2 1 2 1 2 -1
+p423
+aVAlonzo Gee NOP 01/15/2016 NOP vs. CHA W 29 8 3 5 60.0 0 1 0.0 2 2 100.0 3 6 9 0 2 1 0 2 1
+p424
+aVRyan Anderson NOP 01/15/2016 NOP vs. CHA W 29 32 12 19 63.2 6 8 75.0 2 2 100.0 2 6 8 0 0 0 0 0 10
+p425
+aVAnthony Davis NOP 01/15/2016 NOP vs. CHA W 35 22 8 14 57.1 0 2 0.0 6 7 85.7 1 4 5 4 1 2 1 3 -5
+p426
+aVAnthony Davis NOP 01/13/2016 NOP @ SAC W 37 24 8 23 34.8 1 2 50.0 7 8 87.5 3 7 10 3 2 0 0 2 2
+p427
+aVRyan Anderson NOP 01/13/2016 NOP @ SAC W 20 18 7 12 58.3 4 6 66.7 0 1 0.0 1 0 1 0 2 0 0 0 15
+p428
+aVJrue Holiday NOP 01/13/2016 NOP @ SAC W 27 6 2 12 16.7 0 4 0.0 2 2 100.0 0 3 3 10 1 0 1 4 8
+p429
+aVTyreke Evans NOP 01/13/2016 NOP @ SAC W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 3 0 0 0 0 5
+p430
+aVDante Cunningham NOP 01/13/2016 NOP @ SAC W 23 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 1 2 0 1 1 10
+p431
+aVOmer Asik NOP 01/13/2016 NOP @ SAC W 29 8 4 9 44.4 0 0 - 0 0 - 8 5 13 0 0 0 2 5 -2
+p432
+aVAlexis Ajinca NOP 01/13/2016 NOP @ SAC W 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 2 0 4 9
+p433
+aVAlonzo Gee NOP 01/13/2016 NOP @ SAC W 18 5 2 4 50.0 1 1 100.0 0 0 - 0 4 4 2 0 0 1 0 7
+p434
+aVNorris Cole NOP 01/13/2016 NOP @ SAC W 26 18 8 16 50.0 2 4 50.0 0 0 - 0 2 2 2 0 0 1 0 -14
+p435
+aVEric Gordon NOP 01/13/2016 NOP @ SAC W 43 24 9 19 47.4 6 12 50.0 0 0 - 0 5 5 6 3 1 1 2 20
+p436
+aVRyan Anderson NOP 01/12/2016 NOP @ LAL L 42 15 7 19 36.8 1 5 20.0 0 1 0.0 4 3 7 2 0 1 3 2 2
+p437
+aVAlonzo Gee NOP 01/12/2016 NOP @ LAL L 16 5 1 1 100.0 0 0 - 3 4 75.0 1 1 2 0 0 0 0 2 -7
+p438
+aVJrue Holiday NOP 01/12/2016 NOP @ LAL L 26 14 7 18 38.9 0 4 0.0 0 0 - 0 5 5 4 0 0 0 1 -5
+p439
+aVNorris Cole NOP 01/12/2016 NOP @ LAL L 32 11 5 13 38.5 1 1 100.0 0 0 - 0 3 3 4 0 1 0 3 -9
+p440
+aVEric Gordon NOP 01/12/2016 NOP @ LAL L 27 14 6 9 66.7 1 3 33.3 1 1 100.0 0 2 2 1 0 1 1 3 -4
+p441
+aVAlexis Ajinca NOP 01/12/2016 NOP @ LAL L 22 10 4 8 50.0 0 0 - 2 2 100.0 5 5 10 2 0 1 2 4 -7
+p442
+aVOmer Asik NOP 01/12/2016 NOP @ LAL L 18 1 0 3 0.0 0 0 - 1 2 50.0 2 11 13 2 1 1 0 1 7
+p443
+aVDante Cunningham NOP 01/12/2016 NOP @ LAL L 17 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 1 0 1 0 5 6
+p444
+aVLuke Babbitt NOP 01/12/2016 NOP @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p445
+aVTyreke Evans NOP 01/12/2016 NOP @ LAL L 34 21 8 17 47.1 3 7 42.9 2 4 50.0 0 5 5 4 1 0 5 4 -2
+p446
+aVLuke Babbitt NOP 01/10/2016 NOP @ LAC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p447
+aVAlonzo Gee NOP 01/10/2016 NOP @ LAC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p448
+aVTyreke Evans NOP 01/10/2016 NOP @ LAC L 41 26 9 19 47.4 2 5 40.0 6 8 75.0 3 4 7 7 1 1 5 5 0
+p449
+aVToney Douglas NOP 01/10/2016 NOP @ LAC L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -5
+p450
+aVAlexis Ajinca NOP 01/10/2016 NOP @ LAC L 14 9 3 5 60.0 0 0 - 3 3 100.0 2 4 6 1 0 0 0 0 2
+p451
+aVRyan Anderson NOP 01/10/2016 NOP @ LAC L 43 16 5 14 35.7 2 6 33.3 4 4 100.0 3 7 10 0 0 0 2 4 -7
+p452
+aVDante Cunningham NOP 01/10/2016 NOP @ LAC L 35 8 3 10 30.0 2 6 33.3 0 0 - 2 5 7 1 1 0 1 3 9
+p453
+aVJrue Holiday NOP 01/10/2016 NOP @ LAC L 36 29 11 27 40.7 1 4 25.0 6 8 75.0 3 8 11 4 3 0 3 3 -4
+p454
+aVNorris Cole NOP 01/10/2016 NOP @ LAC L 15 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 1 0 0 1 2 -1
+p455
+aVOmer Asik NOP 01/10/2016 NOP @ LAC L 26 8 2 4 50.0 0 0 - 4 6 66.7 2 9 11 2 0 0 1 3 -7
+p456
+aVEric Gordon NOP 01/10/2016 NOP @ LAC L 38 7 3 10 30.0 1 5 20.0 0 0 - 0 1 1 4 2 1 1 2 1
+p457
+aVEric Gordon NOP 01/08/2016 NOP vs. IND L 36 8 3 11 27.3 1 6 16.7 1 2 50.0 0 3 3 3 1 0 1 2 1
+p458
+aVJrue Holiday NOP 01/08/2016 NOP vs. IND L 35 15 5 12 41.7 1 2 50.0 4 6 66.7 0 0 0 4 4 2 3 2 -4
+p459
+aVRyan Anderson NOP 01/08/2016 NOP vs. IND L 37 21 7 17 41.2 4 10 40.0 3 4 75.0 3 3 6 2 3 2 3 3 -4
+p460
+aVTyreke Evans NOP 01/08/2016 NOP vs. IND L 38 27 10 19 52.6 3 5 60.0 4 4 100.0 0 7 7 5 4 0 4 3 -5
+p461
+aVNorris Cole NOP 01/08/2016 NOP vs. IND L 23 4 1 9 11.1 0 2 0.0 2 2 100.0 0 1 1 1 2 0 0 3 -6
+p462
+aVAnthony Davis NOP 01/08/2016 NOP vs. IND L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -1
+p463
+aVAlonzo Gee NOP 01/08/2016 NOP vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p464
+aVOmer Asik NOP 01/08/2016 NOP vs. IND L 16 1 0 1 0.0 0 0 - 1 2 50.0 0 5 5 1 1 0 2 2 -6
+p465
+aVDante Cunningham NOP 01/08/2016 NOP vs. IND L 26 4 2 5 40.0 0 3 0.0 0 0 - 2 0 2 1 1 0 0 1 -6
+p466
+aVAlexis Ajinca NOP 01/08/2016 NOP vs. IND L 26 4 2 7 28.6 0 1 0.0 0 0 - 3 9 12 3 5 1 1 2 8
+p467
+aVNorris Cole NOP 01/06/2016 NOP vs. DAL L 28 4 1 6 16.7 0 1 0.0 2 2 100.0 1 3 4 0 0 0 0 3 -18
+p468
+aVAlexis Ajinca NOP 01/06/2016 NOP vs. DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p469
+aVDante Cunningham NOP 01/06/2016 NOP vs. DAL L 14 4 1 4 25.0 1 3 33.3 1 2 50.0 0 4 4 0 1 0 0 1 -7
+p470
+aVTyreke Evans NOP 01/06/2016 NOP vs. DAL L 35 16 6 13 46.2 1 4 25.0 3 4 75.0 0 9 9 5 2 0 2 3 3
+p471
+aVEric Gordon NOP 01/06/2016 NOP vs. DAL L 23 14 5 9 55.6 4 7 57.1 0 0 - 1 0 1 3 0 0 1 1 2
+p472
+aVAlonzo Gee NOP 01/06/2016 NOP vs. DAL L 18 0 0 4 0.0 0 3 0.0 0 0 - 1 5 6 1 0 0 0 1 8
+p473
+aVOmer Asik NOP 01/06/2016 NOP vs. DAL L 19 6 3 6 50.0 0 0 - 0 0 - 6 1 7 0 0 2 2 0 3
+p474
+aVAnthony Davis NOP 01/06/2016 NOP vs. DAL L 42 26 11 25 44.0 0 3 0.0 4 5 80.0 5 6 11 7 2 3 3 3 -3
+p475
+aVJrue Holiday NOP 01/06/2016 NOP vs. DAL L 29 11 5 13 38.5 1 3 33.3 0 0 - 1 5 6 6 1 0 2 5 -16
+p476
+aVRyan Anderson NOP 01/06/2016 NOP vs. DAL L 29 10 2 12 16.7 0 6 0.0 6 7 85.7 0 3 3 0 1 0 0 0 -14
+p477
+aVKendrick Perkins NOP 01/02/2016 NOP @ DAL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -4
+p478
+aVNorris Cole NOP 01/02/2016 NOP @ DAL W 38 16 7 16 43.8 0 2 0.0 2 2 100.0 1 11 12 4 4 0 5 4 7
+p479
+aVAnthony Davis NOP 01/02/2016 NOP @ DAL W 43 31 13 22 59.1 0 0 - 5 6 83.3 4 10 14 0 1 1 4 2 7
+p480
+aVToney Douglas NOP 01/02/2016 NOP @ DAL W 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 2 -4
+p481
+aVAlonzo Gee NOP 01/02/2016 NOP @ DAL W 25 5 2 3 66.7 0 0 - 1 2 50.0 0 8 8 2 0 0 0 3 4
+p482
+aVJrue Holiday NOP 01/02/2016 NOP @ DAL W 30 20 8 14 57.1 2 6 33.3 2 4 50.0 0 3 3 5 2 1 3 1 1
+p483
+aVOmer Asik NOP 01/02/2016 NOP @ DAL W 20 1 0 0 - 0 0 - 1 2 50.0 2 1 3 1 0 0 4 3 8
+p484
+aVRyan Anderson NOP 01/02/2016 NOP @ DAL W 29 16 4 12 33.3 2 6 33.3 6 6 100.0 2 6 8 1 1 0 1 1 1
+p485
+aVEric Gordon NOP 01/02/2016 NOP @ DAL W 37 16 6 14 42.9 2 5 40.0 2 2 100.0 0 3 3 1 0 0 1 2 15
+p486
+aVEric Gordon NOP 12/31/2015 NOP vs. LAC L 35 10 3 11 27.3 2 5 40.0 2 2 100.0 0 2 2 0 1 1 2 4 -8
+p487
+aVAnthony Davis NOP 12/31/2015 NOP vs. LAC L 38 14 7 17 41.2 0 2 0.0 0 2 0.0 2 13 15 1 0 2 1 3 -10
+p488
+aVAlonzo Gee NOP 12/31/2015 NOP vs. LAC L 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -5
+p489
+aVDante Cunningham NOP 12/31/2015 NOP vs. LAC L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p490
+aVNorris Cole NOP 12/31/2015 NOP vs. LAC L 34 15 6 13 46.2 2 4 50.0 1 2 50.0 1 4 5 4 1 0 2 1 -6
+p491
+aVTyreke Evans NOP 12/31/2015 NOP vs. LAC L 34 14 5 13 38.5 1 7 14.3 3 5 60.0 0 6 6 9 3 0 4 4 -6
+p492
+aVJrue Holiday NOP 12/31/2015 NOP vs. LAC L 28 11 4 8 50.0 1 2 50.0 2 2 100.0 1 1 2 6 1 0 5 5 -1
+p493
+aVRyan Anderson NOP 12/31/2015 NOP vs. LAC L 29 17 7 11 63.6 1 3 33.3 2 2 100.0 0 4 4 0 0 0 0 1 4
+p494
+aVOmer Asik NOP 12/31/2015 NOP vs. LAC L 21 4 2 2 100.0 0 0 - 0 0 - 1 7 8 0 0 0 1 1 7
+p495
+aVAlexis Ajinca NOP 12/31/2015 NOP vs. LAC L 3 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p496
+aVAnthony Davis NOP 12/28/2015 NOP @ ORL L 28 20 9 16 56.3 0 2 0.0 2 5 40.0 2 6 8 1 2 1 2 1 -12
+p497
+aVAlonzo Gee NOP 12/28/2015 NOP @ ORL L 16 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -15
+p498
+aVJrue Holiday NOP 12/28/2015 NOP @ ORL L 26 11 4 10 40.0 1 2 50.0 2 2 100.0 0 2 2 4 1 1 1 0 5
+p499
+aVTyreke Evans NOP 12/28/2015 NOP @ ORL L 30 16 6 12 50.0 2 2 100.0 2 2 100.0 2 2 4 8 0 0 1 3 -19
+p500
+aVAlexis Ajinca NOP 12/28/2015 NOP @ ORL L 13 7 2 2 100.0 0 0 - 3 3 100.0 0 3 3 0 0 2 0 2 -4
+p501
+aVDante Cunningham NOP 12/28/2015 NOP @ ORL L 18 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 0 0 0 0 2 3
+p502
+aVOmer Asik NOP 12/28/2015 NOP @ ORL L 15 2 1 2 50.0 0 0 - 0 2 0.0 1 4 5 0 0 0 1 2 -13
+p503
+aVRyan Anderson NOP 12/28/2015 NOP @ ORL L 23 3 1 8 12.5 0 4 0.0 1 1 100.0 1 2 3 4 0 0 1 0 -1
+p504
+aVNorris Cole NOP 12/28/2015 NOP @ ORL L 30 17 8 14 57.1 1 2 50.0 0 0 - 1 7 8 3 1 0 4 1 -6
+p505
+aVEric Gordon NOP 12/28/2015 NOP @ ORL L 24 3 1 6 16.7 1 5 20.0 0 0 - 0 0 0 0 0 1 2 0 -13
+p506
+aVToney Douglas NOP 12/28/2015 NOP @ ORL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 3
+p507
+aVKendrick Perkins NOP 12/28/2015 NOP @ ORL L 15 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -3
+p508
+aVEric Gordon NOP 12/26/2015 NOP vs. HOU W 40 26 10 12 83.3 6 8 75.0 0 0 - 1 1 2 5 1 0 1 3 -4
+p509
+aVJrue Holiday NOP 12/26/2015 NOP vs. HOU W 27 9 3 7 42.9 1 2 50.0 2 3 66.7 0 2 2 3 1 1 2 3 6
+p510
+aVOmer Asik NOP 12/26/2015 NOP vs. HOU W 23 10 2 4 50.0 0 0 - 6 6 100.0 2 6 8 0 0 2 1 2 0
+p511
+aVNorris Cole NOP 12/26/2015 NOP vs. HOU W 16 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 0 1 0 1 2 -5
+p512
+aVAnthony Davis NOP 12/26/2015 NOP vs. HOU W 38 24 8 16 50.0 1 2 50.0 7 8 87.5 2 11 13 2 0 3 4 3 7
+p513
+aVKendrick Perkins NOP 12/26/2015 NOP vs. HOU W 8 4 2 2 100.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -4
+p514
+aVRyan Anderson NOP 12/26/2015 NOP vs. HOU W 23 16 6 9 66.7 2 4 50.0 2 3 66.7 2 3 5 1 0 1 2 2 1
+p515
+aVDante Cunningham NOP 12/26/2015 NOP vs. HOU W 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 0
+p516
+aVTyreke Evans NOP 12/26/2015 NOP vs. HOU W 40 11 3 13 23.1 1 3 33.3 4 4 100.0 0 4 4 13 2 1 4 2 10
+p517
+aVAlonzo Gee NOP 12/26/2015 NOP vs. HOU W 21 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -1
+p518
+aVOmer Asik NOP 12/25/2015 NOP @ MIA L 18 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -3
+p519
+aVEric Gordon NOP 12/25/2015 NOP @ MIA L 43 16 5 15 33.3 1 3 33.3 5 5 100.0 0 3 3 2 2 0 3 5 -1
+p520
+aVRyan Anderson NOP 12/25/2015 NOP @ MIA L 37 18 7 14 50.0 3 6 50.0 1 1 100.0 2 6 8 1 1 0 1 3 2
+p521
+aVJrue Holiday NOP 12/25/2015 NOP @ MIA L 27 9 4 9 44.4 1 3 33.3 0 0 - 0 3 3 2 0 0 2 2 -2
+p522
+aVDante Cunningham NOP 12/25/2015 NOP @ MIA L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p523
+aVAnthony Davis NOP 12/25/2015 NOP @ MIA L 50 29 13 29 44.8 1 2 50.0 2 3 66.7 3 12 15 4 4 3 4 2 -11
+p524
+aVAlonzo Gee NOP 12/25/2015 NOP @ MIA L 17 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 1 0 0 0 2 -14
+p525
+aVTyreke Evans NOP 12/25/2015 NOP @ MIA L 35 6 2 9 22.2 0 1 0.0 2 2 100.0 0 6 6 7 0 0 5 3 -1
+p526
+aVNorris Cole NOP 12/25/2015 NOP @ MIA L 31 8 4 10 40.0 0 2 0.0 0 0 - 1 2 3 1 3 0 1 3 -2
+p527
+aVAlonzo Gee NOP 12/23/2015 NOP vs. POR W 28 8 3 4 75.0 2 2 100.0 0 0 - 1 4 5 1 0 1 1 2 21
+p528
+aVToney Douglas NOP 12/23/2015 NOP vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p529
+aVRyan Anderson NOP 12/23/2015 NOP vs. POR W 27 13 4 11 36.4 3 7 42.9 2 2 100.0 1 5 6 1 0 1 3 0 15
+p530
+aVJrue Holiday NOP 12/23/2015 NOP vs. POR W 21 19 7 13 53.8 3 5 60.0 2 2 100.0 0 2 2 5 0 0 0 1 7
+p531
+aVLuke Babbitt NOP 12/23/2015 NOP vs. POR W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p532
+aVDante Cunningham NOP 12/23/2015 NOP vs. POR W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p533
+aVTyreke Evans NOP 12/23/2015 NOP vs. POR W 35 24 7 14 50.0 2 6 33.3 8 8 100.0 1 7 8 9 2 0 3 1 26
+p534
+aVOmer Asik NOP 12/23/2015 NOP vs. POR W 25 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 0 2 0 5 17
+p535
+aVNorris Cole NOP 12/23/2015 NOP vs. POR W 19 6 2 7 28.6 0 2 0.0 2 4 50.0 0 5 5 1 1 1 1 4 8
+p536
+aVEric Gordon NOP 12/23/2015 NOP vs. POR W 34 11 3 8 37.5 3 7 42.9 2 2 100.0 1 3 4 6 1 0 1 0 15
+p537
+aVAnthony Davis NOP 12/23/2015 NOP vs. POR W 36 28 12 21 57.1 0 1 0.0 4 5 80.0 3 9 12 1 1 3 2 1 21
+p538
+aVIsh Smith NOP 12/23/2015 NOP vs. POR W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p539
+aVEric Gordon NOP 12/20/2015 NOP @ DEN W 32 20 6 11 54.5 4 7 57.1 4 5 80.0 1 2 3 3 0 1 1 1 19
+p540
+aVJrue Holiday NOP 12/20/2015 NOP @ DEN W 25 21 7 13 53.8 2 5 40.0 5 8 62.5 0 3 3 5 2 1 1 3 -11
+p541
+aVLuke Babbitt NOP 12/20/2015 NOP @ DEN W 7 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 -6
+p542
+aVOmer Asik NOP 12/20/2015 NOP @ DEN W 17 5 2 2 100.0 0 0 - 1 2 50.0 2 2 4 1 0 0 1 3 16
+p543
+aVRyan Anderson NOP 12/20/2015 NOP @ DEN W 32 16 6 12 50.0 2 3 66.7 2 3 66.7 2 3 5 1 0 1 2 1 7
+p544
+aVAlonzo Gee NOP 12/20/2015 NOP @ DEN W 17 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 3 16
+p545
+aVNorris Cole NOP 12/20/2015 NOP @ DEN W 20 10 3 6 50.0 0 0 - 4 4 100.0 0 0 0 1 0 0 0 2 -11
+p546
+aVDante Cunningham NOP 12/20/2015 NOP @ DEN W 19 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 0 0 2 0 3 -12
+p547
+aVAnthony Davis NOP 12/20/2015 NOP @ DEN W 20 27 9 12 75.0 0 0 - 9 9 100.0 0 6 6 1 0 4 1 1 11
+p548
+aVIsh Smith NOP 12/20/2015 NOP @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p549
+aVTyreke Evans NOP 12/20/2015 NOP @ DEN W 33 21 7 13 53.8 1 2 50.0 6 8 75.0 1 7 8 10 1 1 2 3 14
+p550
+aVKendrick Perkins NOP 12/20/2015 NOP @ DEN W 17 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 2 2 -16
+p551
+aVIsh Smith NOP 12/18/2015 NOP @ PHX L 16 12 4 7 57.1 0 2 0.0 4 4 100.0 0 0 0 2 1 0 2 1 0
+p552
+aVEric Gordon NOP 12/18/2015 NOP @ PHX L 29 15 2 11 18.2 2 9 22.2 9 11 81.8 0 1 1 1 2 1 2 3 -3
+p553
+aVKendrick Perkins NOP 12/18/2015 NOP @ PHX L 10 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 2 -4
+p554
+aVJrue Holiday NOP 12/18/2015 NOP @ PHX L 27 14 4 13 30.8 1 6 16.7 5 8 62.5 0 2 2 4 0 0 2 2 -18
+p555
+aVOmer Asik NOP 12/18/2015 NOP @ PHX L 21 4 2 3 66.7 0 0 - 0 0 - 3 3 6 1 1 0 1 3 -9
+p556
+aVNorris Cole NOP 12/18/2015 NOP @ PHX L 24 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 1 0 0 2 1 -11
+p557
+aVAnthony Davis NOP 12/18/2015 NOP @ PHX L 42 16 5 12 41.7 0 0 - 6 6 100.0 3 9 12 2 2 3 4 3 -18
+p558
+aVAlonzo Gee NOP 12/18/2015 NOP @ PHX L 21 5 2 3 66.7 1 1 100.0 0 0 - 2 3 5 1 0 1 1 2 -15
+p559
+aVRyan Anderson NOP 12/18/2015 NOP @ PHX L 21 3 0 3 0.0 0 0 - 3 3 100.0 0 2 2 0 0 0 3 1 4
+p560
+aVTyreke Evans NOP 12/18/2015 NOP @ PHX L 24 12 4 10 40.0 0 1 0.0 4 4 100.0 1 3 4 1 2 1 3 4 1
+p561
+aVDante Cunningham NOP 12/18/2015 NOP @ PHX L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p562
+aVAlexis Ajinca NOP 12/16/2015 NOP @ UTA W 4 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p563
+aVDante Cunningham NOP 12/16/2015 NOP @ UTA W 14 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 1 15
+p564
+aVNorris Cole NOP 12/16/2015 NOP @ UTA W 18 7 3 7 42.9 1 2 50.0 0 0 - 0 3 3 1 1 0 2 2 3
+p565
+aVRyan Anderson NOP 12/16/2015 NOP @ UTA W 34 24 5 10 50.0 1 1 100.0 13 13 100.0 1 3 4 1 2 0 1 1 11
+p566
+aVAlonzo Gee NOP 12/16/2015 NOP @ UTA W 23 8 3 3 100.0 1 1 100.0 1 2 50.0 0 1 1 2 1 0 0 4 -7
+p567
+aVEric Gordon NOP 12/16/2015 NOP @ UTA W 28 19 5 9 55.6 4 7 57.1 5 5 100.0 0 0 0 1 1 0 3 4 2
+p568
+aVAnthony Davis NOP 12/16/2015 NOP @ UTA W 38 17 7 15 46.7 0 1 0.0 3 3 100.0 2 11 13 0 0 1 0 3 8
+p569
+aVOmer Asik NOP 12/16/2015 NOP @ UTA W 20 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 1
+p570
+aVIsh Smith NOP 12/16/2015 NOP @ UTA W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p571
+aVTyreke Evans NOP 12/16/2015 NOP @ UTA W 35 11 4 12 33.3 1 4 25.0 2 2 100.0 1 3 4 5 2 0 3 3 9
+p572
+aVJrue Holiday NOP 12/16/2015 NOP @ UTA W 24 15 6 10 60.0 2 3 66.7 1 1 100.0 2 1 3 4 2 1 0 2 11
+p573
+aVRyan Anderson NOP 12/14/2015 NOP @ POR L 31 16 5 16 31.3 2 7 28.6 4 4 100.0 0 4 4 0 1 0 0 1 -5
+p574
+aVTyreke Evans NOP 12/14/2015 NOP @ POR L 38 19 7 15 46.7 1 2 50.0 4 5 80.0 2 10 12 5 4 1 3 4 1
+p575
+aVNorris Cole NOP 12/14/2015 NOP @ POR L 15 6 2 6 33.3 2 3 66.7 0 0 - 0 2 2 2 0 0 0 1 -4
+p576
+aVOmer Asik NOP 12/14/2015 NOP @ POR L 9 2 0 0 - 0 0 - 2 4 50.0 1 2 3 0 0 1 0 3 11
+p577
+aVAlonzo Gee NOP 12/14/2015 NOP @ POR L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -15
+p578
+aVAnthony Davis NOP 12/14/2015 NOP @ POR L 42 28 11 19 57.9 0 2 0.0 6 9 66.7 2 8 10 1 0 5 2 2 -7
+p579
+aVJrue Holiday NOP 12/14/2015 NOP @ POR L 29 19 7 14 50.0 3 6 50.0 2 2 100.0 0 5 5 2 2 1 2 3 17
+p580
+aVAlexis Ajinca NOP 12/14/2015 NOP @ POR L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -7
+p581
+aVEric Gordon NOP 12/14/2015 NOP @ POR L 34 9 3 9 33.3 0 5 0.0 3 3 100.0 0 3 3 3 2 0 1 2 2
+p582
+aVDante Cunningham NOP 12/14/2015 NOP @ POR L 14 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -9
+p583
+aVIsh Smith NOP 12/14/2015 NOP @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p584
+aVIsh Smith NOP 12/12/2015 NOP @ CHI L 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 1 0 0 0 -4
+p585
+aVDante Cunningham NOP 12/12/2015 NOP @ CHI L 17 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 4 -11
+p586
+aVOmer Asik NOP 12/12/2015 NOP @ CHI L 13 6 3 3 100.0 0 0 - 0 0 - 1 3 4 2 1 0 0 4 9
+p587
+aVTyreke Evans NOP 12/12/2015 NOP @ CHI L 36 22 10 22 45.5 2 6 33.3 0 0 - 1 2 3 8 0 0 1 3 -13
+p588
+aVKendrick Perkins NOP 12/12/2015 NOP @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p589
+aVAlexis Ajinca NOP 12/12/2015 NOP @ CHI L 26 6 3 7 42.9 0 0 - 0 0 - 2 4 6 2 0 2 1 3 -7
+p590
+aVEric Gordon NOP 12/12/2015 NOP @ CHI L 34 14 5 15 33.3 2 6 33.3 2 2 100.0 0 0 0 2 1 0 1 2 3
+p591
+aVNorris Cole NOP 12/12/2015 NOP @ CHI L 21 10 5 9 55.6 0 0 - 0 0 - 0 6 6 6 0 0 1 0 -2
+p592
+aVAnthony Davis NOP 12/12/2015 NOP @ CHI L 42 22 8 24 33.3 0 2 0.0 6 9 66.7 0 13 13 2 1 4 4 1 8
+p593
+aVAlonzo Gee NOP 12/12/2015 NOP @ CHI L 37 9 4 6 66.7 1 1 100.0 0 0 - 1 4 5 2 5 0 1 5 0
+p594
+aVNorris Cole NOP 12/11/2015 NOP vs. WAS W 21 5 2 5 40.0 0 2 0.0 1 2 50.0 0 1 1 2 0 0 1 3 -6
+p595
+aVAlonzo Gee NOP 12/11/2015 NOP vs. WAS W 17 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 0 0 1 2 -3
+p596
+aVAlexis Ajinca NOP 12/11/2015 NOP vs. WAS W 23 7 3 8 37.5 0 0 - 1 2 50.0 1 9 10 0 0 0 1 2 -3
+p597
+aVAnthony Davis NOP 12/11/2015 NOP vs. WAS W 39 18 8 15 53.3 1 3 33.3 1 2 50.0 4 7 11 2 1 0 2 1 13
+p598
+aVOmer Asik NOP 12/11/2015 NOP vs. WAS W 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p599
+aVEric Gordon NOP 12/11/2015 NOP vs. WAS W 36 15 5 12 41.7 3 7 42.9 2 2 100.0 0 4 4 1 1 0 2 2 1
+p600
+aVDante Cunningham NOP 12/11/2015 NOP vs. WAS W 19 8 2 3 66.7 2 2 100.0 2 2 100.0 0 0 0 0 2 0 0 2 -15
+p601
+aVIsh Smith NOP 12/11/2015 NOP vs. WAS W 15 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 4 0 0 1 1 11
+p602
+aVJrue Holiday NOP 12/11/2015 NOP vs. WAS W 27 19 6 10 60.0 5 7 71.4 2 2 100.0 0 0 0 6 3 0 4 3 3
+p603
+aVTyreke Evans NOP 12/11/2015 NOP vs. WAS W 34 27 10 18 55.6 5 6 83.3 2 4 50.0 0 7 7 4 2 0 3 2 9
+p604
+aVJrue Holiday NOP 12/07/2015 NOP vs. BOS L 22 14 4 9 44.4 1 2 50.0 5 5 100.0 0 2 2 6 1 1 1 1 -4
+p605
+aVTyreke Evans NOP 12/07/2015 NOP vs. BOS L 18 0 0 5 0.0 0 0 - 0 0 - 1 1 2 3 1 0 5 2 -15
+p606
+aVAlexis Ajinca NOP 12/07/2015 NOP vs. BOS L 19 12 6 9 66.7 0 0 - 0 0 - 3 6 9 1 0 0 0 1 7
+p607
+aVNorris Cole NOP 12/07/2015 NOP vs. BOS L 29 8 4 15 26.7 0 4 0.0 0 0 - 1 1 2 1 2 1 3 4 -3
+p608
+aVOmer Asik NOP 12/07/2015 NOP vs. BOS L 10 3 0 1 0.0 0 0 - 3 4 75.0 1 1 2 0 1 0 0 0 -7
+p609
+aVRyan Anderson NOP 12/07/2015 NOP vs. BOS L 34 18 7 17 41.2 1 2 50.0 3 4 75.0 5 4 9 2 0 0 1 2 -11
+p610
+aVLuke Babbitt NOP 12/07/2015 NOP vs. BOS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p611
+aVEric Gordon NOP 12/07/2015 NOP vs. BOS L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 1 1 2 -16
+p612
+aVDante Cunningham NOP 12/07/2015 NOP vs. BOS L 30 7 2 3 66.7 1 1 100.0 2 2 100.0 0 5 5 2 1 0 0 2 -12
+p613
+aVIsh Smith NOP 12/07/2015 NOP vs. BOS L 16 7 3 4 75.0 0 0 - 1 2 50.0 0 4 4 4 0 0 3 0 0
+p614
+aVAnthony Davis NOP 12/07/2015 NOP vs. BOS L 30 16 8 21 38.1 0 2 0.0 0 0 - 2 4 6 0 2 3 0 3 -24
+p615
+aVAlonzo Gee NOP 12/07/2015 NOP vs. BOS L 13 8 3 3 100.0 1 1 100.0 1 1 100.0 0 1 1 1 0 0 0 0 -8
+p616
+aVNorris Cole NOP 12/04/2015 NOP vs. CLE W 16 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 3
+p617
+aVEric Gordon NOP 12/04/2015 NOP vs. CLE W 31 19 7 9 77.8 4 5 80.0 1 2 50.0 0 1 1 2 0 0 2 0 6
+p618
+aVOmer Asik NOP 12/04/2015 NOP vs. CLE W 25 6 1 2 50.0 0 0 - 4 6 66.7 2 3 5 1 2 0 1 3 5
+p619
+aVLuke Babbitt NOP 12/04/2015 NOP vs. CLE W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p620
+aVRyan Anderson NOP 12/04/2015 NOP vs. CLE W 32 18 5 12 41.7 2 6 33.3 6 7 85.7 3 2 5 0 1 0 3 3 10
+p621
+aVAlonzo Gee NOP 12/04/2015 NOP vs. CLE W 13 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 4 -13
+p622
+aVJrue Holiday NOP 12/04/2015 NOP vs. CLE W 25 13 5 10 50.0 1 2 50.0 2 3 66.7 2 5 7 5 2 0 2 3 11
+p623
+aVTyreke Evans NOP 12/04/2015 NOP vs. CLE W 35 14 5 13 38.5 0 2 0.0 4 5 80.0 1 6 7 10 0 0 4 4 0
+p624
+aVAnthony Davis NOP 12/04/2015 NOP vs. CLE W 46 31 13 22 59.1 2 4 50.0 3 6 50.0 1 11 12 1 4 1 1 2 7
+p625
+aVDante Cunningham NOP 12/04/2015 NOP vs. CLE W 37 6 3 5 60.0 0 2 0.0 0 0 - 2 6 8 3 1 1 1 3 8
+p626
+aVAnthony Davis NOP 12/02/2015 NOP @ HOU L 35 29 9 20 45.0 1 2 50.0 10 11 90.9 2 11 13 1 2 2 2 2 -11
+p627
+aVOmer Asik NOP 12/02/2015 NOP @ HOU L 22 6 3 6 50.0 0 0 - 0 0 - 3 1 4 1 0 0 2 4 -5
+p628
+aVIsh Smith NOP 12/02/2015 NOP @ HOU L 13 4 2 3 66.7 0 0 - 0 0 - 2 6 8 2 1 0 1 1 -2
+p629
+aVRyan Anderson NOP 12/02/2015 NOP @ HOU L 27 19 7 18 38.9 3 9 33.3 2 2 100.0 5 5 10 0 0 2 6 5 -5
+p630
+aVToney Douglas NOP 12/02/2015 NOP @ HOU L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 3 1
+p631
+aVAlexis Ajinca NOP 12/02/2015 NOP @ HOU L 9 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 1 2 4 2
+p632
+aVDante Cunningham NOP 12/02/2015 NOP @ HOU L 12 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 1 0 0 0 1 5
+p633
+aVNorris Cole NOP 12/02/2015 NOP @ HOU L 24 5 2 10 20.0 0 5 0.0 1 1 100.0 0 3 3 3 0 0 3 4 0
+p634
+aVAlonzo Gee NOP 12/02/2015 NOP @ HOU L 23 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 2 0 0 1 4 -6
+p635
+aVTyreke Evans NOP 12/02/2015 NOP @ HOU L 32 10 2 9 22.2 0 1 0.0 6 8 75.0 0 6 6 8 1 1 3 1 -9
+p636
+aVEric Gordon NOP 12/02/2015 NOP @ HOU L 33 10 4 10 40.0 1 5 20.0 1 1 100.0 0 2 2 2 0 0 2 3 -5
+p637
+aVDante Cunningham NOP 12/01/2015 NOP vs. MEM L 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -4
+p638
+aVTyreke Evans NOP 12/01/2015 NOP vs. MEM L 31 20 7 12 58.3 2 5 40.0 4 4 100.0 2 3 5 10 0 1 1 0 3
+p639
+aVRyan Anderson NOP 12/01/2015 NOP vs. MEM L 33 16 6 16 37.5 2 6 33.3 2 2 100.0 2 6 8 2 0 0 0 2 -13
+p640
+aVAnthony Davis NOP 12/01/2015 NOP vs. MEM L 41 17 4 15 26.7 1 1 100.0 8 13 61.5 3 11 14 2 2 9 1 1 -1
+p641
+aVAlonzo Gee NOP 12/01/2015 NOP vs. MEM L 28 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 5
+p642
+aVNorris Cole NOP 12/01/2015 NOP vs. MEM L 23 11 3 12 25.0 2 7 28.6 3 6 50.0 0 2 2 2 0 0 0 4 -10
+p643
+aVIsh Smith NOP 12/01/2015 NOP vs. MEM L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 1 -10
+p644
+aVJrue Holiday NOP 12/01/2015 NOP vs. MEM L 26 12 4 7 57.1 2 4 50.0 2 2 100.0 0 1 1 4 1 0 2 1 6
+p645
+aVAlexis Ajinca NOP 12/01/2015 NOP vs. MEM L 13 10 5 6 83.3 0 0 - 0 0 - 1 2 3 0 0 0 0 4 9
+p646
+aVEric Gordon NOP 12/01/2015 NOP vs. MEM L 20 8 2 5 40.0 0 3 0.0 4 4 100.0 0 1 1 4 0 1 1 2 -20
+p647
+aVOmer Asik NOP 12/01/2015 NOP vs. MEM L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p648
+aVToney Douglas NOP 11/28/2015 NOP @ UTA L 16 8 3 4 75.0 2 3 66.7 0 0 - 1 1 2 2 0 0 1 3 -6
+p649
+aVIsh Smith NOP 11/28/2015 NOP @ UTA L 37 13 5 14 35.7 0 2 0.0 3 5 60.0 1 5 6 6 2 0 2 1 -12
+p650
+aVRyan Anderson NOP 11/28/2015 NOP @ UTA L 38 9 1 7 14.3 1 4 25.0 6 6 100.0 0 2 2 5 1 1 2 2 1
+p651
+aVEric Gordon NOP 11/28/2015 NOP @ UTA L 32 4 1 9 11.1 1 3 33.3 1 2 50.0 0 0 0 1 1 0 2 1 -8
+p652
+aVJrue Holiday NOP 11/28/2015 NOP @ UTA L 14 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 4 1 -6
+p653
+aVAnthony Davis NOP 11/28/2015 NOP @ UTA L 44 36 12 18 66.7 0 2 0.0 12 15 80.0 1 10 11 1 2 3 2 4 1
+p654
+aVAlonzo Gee NOP 11/28/2015 NOP @ UTA L 26 8 4 5 80.0 0 1 0.0 0 0 - 0 2 2 2 2 0 1 3 8
+p655
+aVOmer Asik NOP 11/28/2015 NOP @ UTA L 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -16
+p656
+aVAlexis Ajinca NOP 11/28/2015 NOP @ UTA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p657
+aVDante Cunningham NOP 11/28/2015 NOP @ UTA L 20 5 2 3 66.7 1 1 100.0 0 0 - 1 7 8 0 0 0 1 3 -23
+p658
+aVDante Cunningham NOP 11/27/2015 NOP @ LAC L 20 2 1 5 20.0 0 1 0.0 0 0 - 2 3 5 1 2 0 2 0 5
+p659
+aVToney Douglas NOP 11/27/2015 NOP @ LAC L 24 11 4 11 36.4 1 4 25.0 2 2 100.0 1 0 1 2 2 0 1 4 3
+p660
+aVOmer Asik NOP 11/27/2015 NOP @ LAC L 16 3 1 1 100.0 0 0 - 1 2 50.0 1 9 10 0 0 0 0 2 -10
+p661
+aVRyan Anderson NOP 11/27/2015 NOP @ LAC L 23 9 3 14 21.4 1 3 33.3 2 2 100.0 6 2 8 0 2 1 1 4 -12
+p662
+aVEric Gordon NOP 11/27/2015 NOP @ LAC L 30 16 5 12 41.7 1 5 20.0 5 6 83.3 0 3 3 2 0 0 2 2 -19
+p663
+aVIsh Smith NOP 11/27/2015 NOP @ LAC L 38 15 7 20 35.0 0 1 0.0 1 3 33.3 1 3 4 10 2 0 1 1 -20
+p664
+aVJrue Holiday NOP 11/27/2015 NOP @ LAC L 13 7 3 6 50.0 0 2 0.0 1 2 50.0 0 2 2 3 0 0 2 4 -4
+p665
+aVAlonzo Gee NOP 11/27/2015 NOP @ LAC L 33 2 1 4 25.0 0 0 - 0 0 - 1 5 6 2 0 0 0 2 -24
+p666
+aVLuke Babbitt NOP 11/27/2015 NOP @ LAC L 15 8 2 5 40.0 2 3 66.7 2 2 100.0 1 4 5 0 0 0 0 1 2
+p667
+aVAnthony Davis NOP 11/27/2015 NOP @ LAC L 28 17 7 16 43.8 0 1 0.0 3 4 75.0 2 4 6 0 0 0 3 3 -26
+p668
+aVToney Douglas NOP 11/25/2015 NOP @ PHX W 10 7 1 1 100.0 1 1 100.0 4 4 100.0 0 0 0 0 0 0 0 1 -6
+p669
+aVJrue Holiday NOP 11/25/2015 NOP @ PHX W 25 19 6 15 40.0 1 4 25.0 6 6 100.0 0 2 2 5 0 1 2 4 8
+p670
+aVLuke Babbitt NOP 11/25/2015 NOP @ PHX W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p671
+aVIsh Smith NOP 11/25/2015 NOP @ PHX W 36 20 9 16 56.3 2 2 100.0 0 0 - 0 5 5 11 1 0 2 4 -2
+p672
+aVAnthony Davis NOP 11/25/2015 NOP @ PHX W 39 26 11 14 78.6 0 0 - 4 6 66.7 2 15 17 0 2 2 4 3 7
+p673
+aVRyan Anderson NOP 11/25/2015 NOP @ PHX W 37 20 7 13 53.8 1 3 33.3 5 7 71.4 2 4 6 1 0 0 1 1 13
+p674
+aVOmer Asik NOP 11/25/2015 NOP @ PHX W 10 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 0 1 1 2 -5
+p675
+aVDante Cunningham NOP 11/25/2015 NOP @ PHX W 28 5 2 6 33.3 1 2 50.0 0 2 0.0 0 7 7 0 0 1 1 2 4
+p676
+aVEric Gordon NOP 11/25/2015 NOP @ PHX W 35 23 6 11 54.5 4 9 44.4 7 7 100.0 0 1 1 3 0 0 1 2 13
+p677
+aVAlonzo Gee NOP 11/25/2015 NOP @ PHX W 16 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 1 2 4 -3
+p678
+aVJrue Holiday NOP 11/22/2015 NOP vs. PHX W 23 8 3 6 50.0 0 0 - 2 4 50.0 0 0 0 4 0 0 1 6 -7
+p679
+aVAlonzo Gee NOP 11/22/2015 NOP vs. PHX W 38 8 3 6 50.0 0 2 0.0 2 2 100.0 1 6 7 5 3 0 1 3 13
+p680
+aVEric Gordon NOP 11/22/2015 NOP vs. PHX W 39 20 6 16 37.5 5 12 41.7 3 4 75.0 0 4 4 4 2 0 3 2 11
+p681
+aVOmer Asik NOP 11/22/2015 NOP vs. PHX W 15 2 0 0 - 0 0 - 2 2 100.0 0 4 4 0 0 0 1 0 3
+p682
+aVAnthony Davis NOP 11/22/2015 NOP vs. PHX W 39 32 11 22 50.0 1 2 50.0 9 11 81.8 6 13 19 1 2 4 3 4 16
+p683
+aVToney Douglas NOP 11/22/2015 NOP vs. PHX W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -4
+p684
+aVLuke Babbitt NOP 11/22/2015 NOP vs. PHX W 8 4 1 3 33.3 1 3 33.3 1 2 50.0 0 0 0 1 0 0 0 3 -4
+p685
+aVIsh Smith NOP 11/22/2015 NOP vs. PHX W 30 17 6 15 40.0 0 2 0.0 5 6 83.3 2 7 9 8 3 1 2 2 9
+p686
+aVDante Cunningham NOP 11/22/2015 NOP vs. PHX W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -10
+p687
+aVRyan Anderson NOP 11/22/2015 NOP vs. PHX W 33 29 8 14 57.1 4 7 57.1 9 9 100.0 1 4 5 0 0 1 1 2 3
+p688
+aVRyan Anderson NOP 11/20/2015 NOP vs. SAS W 33 30 12 21 57.1 6 11 54.5 0 0 - 1 6 7 0 0 0 2 0 16
+p689
+aVAlonzo Gee NOP 11/20/2015 NOP vs. SAS W 18 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 1
+p690
+aVIsh Smith NOP 11/20/2015 NOP vs. SAS W 31 17 7 10 70.0 1 2 50.0 2 2 100.0 0 4 4 13 0 0 2 3 13
+p691
+aVOmer Asik NOP 11/20/2015 NOP vs. SAS W 12 1 0 0 - 0 0 - 1 2 50.0 1 6 7 0 0 0 1 2 -5
+p692
+aVDante Cunningham NOP 11/20/2015 NOP vs. SAS W 24 4 2 6 33.3 0 2 0.0 0 0 - 2 3 5 0 0 0 1 1 7
+p693
+aVToney Douglas NOP 11/20/2015 NOP vs. SAS W 12 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 0 9
+p694
+aVAnthony Davis NOP 11/20/2015 NOP vs. SAS W 39 20 9 23 39.1 0 1 0.0 2 2 100.0 2 16 18 3 0 2 1 2 15
+p695
+aVJrue Holiday NOP 11/20/2015 NOP vs. SAS W 24 9 3 10 30.0 0 2 0.0 3 3 100.0 0 3 3 7 0 1 1 4 6
+p696
+aVEric Gordon NOP 11/20/2015 NOP vs. SAS W 35 11 3 9 33.3 1 3 33.3 4 4 100.0 0 1 1 2 2 0 1 0 6
+p697
+aVAlexis Ajinca NOP 11/20/2015 NOP vs. SAS W 11 8 2 4 50.0 0 0 - 4 4 100.0 0 3 3 0 0 0 0 3 2
+p698
+aVAlexis Ajinca NOP 11/18/2015 NOP @ OKC L 23 12 6 8 75.0 0 0 - 0 0 - 1 9 10 1 0 2 1 5 -11
+p699
+aVAlonzo Gee NOP 11/18/2015 NOP @ OKC L 31 3 1 2 50.0 1 2 50.0 0 0 - 2 4 6 0 1 1 1 2 -2
+p700
+aVToney Douglas NOP 11/18/2015 NOP @ OKC L 14 8 3 6 50.0 0 2 0.0 2 2 100.0 0 0 0 3 0 0 2 2 -8
+p701
+aVEric Gordon NOP 11/18/2015 NOP @ OKC L 37 18 6 20 30.0 1 9 11.1 5 5 100.0 1 1 2 5 3 0 1 3 2
+p702
+aVRyan Anderson NOP 11/18/2015 NOP @ OKC L 44 30 13 25 52.0 4 10 40.0 0 0 - 4 3 7 3 2 0 3 3 -7
+p703
+aVJimmer Fredette NOP 11/18/2015 NOP @ OKC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p704
+aVDante Cunningham NOP 11/18/2015 NOP @ OKC L 27 9 4 9 44.4 1 3 33.3 0 0 - 0 6 6 2 2 0 0 6 8
+p705
+aVIsh Smith NOP 11/18/2015 NOP @ OKC L 34 18 8 20 40.0 0 2 0.0 2 2 100.0 0 3 3 6 0 0 1 1 0
+p706
+aVLuke Babbitt NOP 11/18/2015 NOP @ OKC L 27 5 2 5 40.0 1 4 25.0 0 0 - 2 4 6 1 0 1 1 3 -8
+p707
+aVAlonzo Gee NOP 11/17/2015 NOP vs. DEN L 22 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 0 1 2 4 -14
+p708
+aVIsh Smith NOP 11/17/2015 NOP vs. DEN L 38 13 6 9 66.7 1 1 100.0 0 0 - 0 3 3 8 1 1 3 1 -6
+p709
+aVJrue Holiday NOP 11/17/2015 NOP vs. DEN L 23 10 4 13 30.8 0 4 0.0 2 2 100.0 0 1 1 7 0 1 1 1 -20
+p710
+aVDante Cunningham NOP 11/17/2015 NOP vs. DEN L 31 11 5 8 62.5 0 1 0.0 1 2 50.0 4 1 5 0 2 3 1 2 -8
+p711
+aVAlexis Ajinca NOP 11/17/2015 NOP vs. DEN L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -9
+p712
+aVRyan Anderson NOP 11/17/2015 NOP vs. DEN L 34 24 10 17 58.8 1 4 25.0 3 4 75.0 2 4 6 2 0 0 0 1 -8
+p713
+aVAnthony Davis NOP 11/17/2015 NOP vs. DEN L 6 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p714
+aVJimmer Fredette NOP 11/17/2015 NOP vs. DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p715
+aVLuke Babbitt NOP 11/17/2015 NOP vs. DEN L 26 11 4 7 57.1 3 4 75.0 0 0 - 0 7 7 0 0 0 0 2 -2
+p716
+aVToney Douglas NOP 11/17/2015 NOP vs. DEN L 17 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 9
+p717
+aVEric Gordon NOP 11/17/2015 NOP vs. DEN L 38 19 7 17 41.2 2 8 25.0 3 3 100.0 0 1 1 6 1 1 1 1 -25
+p718
+aVAlexis Ajinca NOP 11/15/2015 NOP @ NYK L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 3 2 -9
+p719
+aVToney Douglas NOP 11/15/2015 NOP @ NYK L 11 4 0 3 0.0 0 2 0.0 4 4 100.0 0 0 0 2 1 0 0 1 -1
+p720
+aVJrue Holiday NOP 11/15/2015 NOP @ NYK L 25 7 2 8 25.0 0 1 0.0 3 4 75.0 0 3 3 4 1 0 3 3 -9
+p721
+aVEric Gordon NOP 11/15/2015 NOP @ NYK L 39 11 5 11 45.5 1 5 20.0 0 0 - 0 2 2 2 0 0 0 4 -7
+p722
+aVAnthony Davis NOP 11/15/2015 NOP @ NYK L 40 36 14 26 53.8 2 4 50.0 6 7 85.7 1 10 11 1 1 4 4 4 -9
+p723
+aVAlonzo Gee NOP 11/15/2015 NOP @ NYK L 26 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 1 2 0 2 3 -2
+p724
+aVDante Cunningham NOP 11/15/2015 NOP @ NYK L 25 6 3 3 100.0 0 0 - 0 0 - 0 5 5 0 0 0 0 3 1
+p725
+aVOmer Asik NOP 11/15/2015 NOP @ NYK L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p726
+aVLuke Babbitt NOP 11/15/2015 NOP @ NYK L 7 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 1 0 0 -3
+p727
+aVIsh Smith NOP 11/15/2015 NOP @ NYK L 22 2 1 2 50.0 0 0 - 0 0 - 1 2 3 5 0 0 3 0 1
+p728
+aVRyan Anderson NOP 11/15/2015 NOP @ NYK L 26 16 5 11 45.5 2 5 40.0 4 4 100.0 0 5 5 0 0 0 3 1 2
+p729
+aVIsh Smith NOP 11/13/2015 NOP @ TOR L 23 6 1 9 11.1 0 2 0.0 4 4 100.0 2 2 4 4 0 2 3 3 -5
+p730
+aVEric Gordon NOP 11/13/2015 NOP @ TOR L 36 30 11 22 50.0 4 11 36.4 4 5 80.0 1 2 3 1 1 0 3 2 -22
+p731
+aVLuke Babbitt NOP 11/13/2015 NOP @ TOR L 17 4 1 2 50.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 4 5
+p732
+aVJimmer Fredette NOP 11/13/2015 NOP @ TOR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p733
+aVOmer Asik NOP 11/13/2015 NOP @ TOR L 24 2 0 3 0.0 0 0 - 2 4 50.0 2 5 7 0 1 2 3 1 -15
+p734
+aVAlonzo Gee NOP 11/13/2015 NOP @ TOR L 25 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 2 2 0 0 4 -15
+p735
+aVRyan Anderson NOP 11/13/2015 NOP @ TOR L 33 5 2 9 22.2 0 3 0.0 1 2 50.0 0 6 6 2 0 0 1 0 -19
+p736
+aVAlexis Ajinca NOP 11/13/2015 NOP @ TOR L 24 10 5 9 55.6 0 0 - 0 0 - 2 7 9 0 1 0 1 5 -4
+p737
+aVJrue Holiday NOP 11/13/2015 NOP @ TOR L 21 19 8 14 57.1 2 4 50.0 1 2 50.0 0 0 0 3 2 0 2 1 -14
+p738
+aVDante Cunningham NOP 11/13/2015 NOP @ TOR L 19 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 2 0 0 1 0 -11
+p739
+aVToney Douglas NOP 11/13/2015 NOP @ TOR L 15 2 1 7 14.3 0 0 - 0 0 - 0 0 0 1 3 0 0 2 3
+p740
+aVAlonzo Gee NOP 11/11/2015 NOP @ ATL L 30 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 5 -5
+p741
+aVRyan Anderson NOP 11/11/2015 NOP @ ATL L 35 17 7 16 43.8 2 5 40.0 1 1 100.0 5 6 11 0 0 0 3 1 -7
+p742
+aVIsh Smith NOP 11/11/2015 NOP @ ATL L 39 18 8 17 47.1 2 4 50.0 0 0 - 0 5 5 10 1 0 3 0 -1
+p743
+aVDante Cunningham NOP 11/11/2015 NOP @ ATL L 22 7 3 3 100.0 0 0 - 1 2 50.0 1 3 4 1 0 0 2 3 -15
+p744
+aVEric Gordon NOP 11/11/2015 NOP @ ATL L 32 26 10 20 50.0 4 6 66.7 2 3 66.7 0 3 3 3 2 0 2 4 -9
+p745
+aVAlexis Ajinca NOP 11/11/2015 NOP @ ATL L 9 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 2
+p746
+aVLuke Babbitt NOP 11/11/2015 NOP @ ATL L 30 7 2 8 25.0 2 5 40.0 1 2 50.0 0 3 3 2 0 0 1 2 -6
+p747
+aVToney Douglas NOP 11/11/2015 NOP @ ATL L 24 12 4 11 36.4 3 7 42.9 1 1 100.0 0 1 1 4 2 0 3 1 1
+p748
+aVOmer Asik NOP 11/11/2015 NOP @ ATL L 21 4 0 1 0.0 0 0 - 4 6 66.7 1 7 8 0 0 0 3 4 0
+p749
+aVOmer Asik NOP 11/10/2015 NOP vs. DAL W 16 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 0 1 0 2 4
+p750
+aVLuke Babbitt NOP 11/10/2015 NOP vs. DAL W 24 3 1 3 33.3 1 3 33.3 0 0 - 0 7 7 1 0 0 1 3 17
+p751
+aVDante Cunningham NOP 11/10/2015 NOP vs. DAL W 18 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 0
+p752
+aVRyan Anderson NOP 11/10/2015 NOP vs. DAL W 28 25 10 16 62.5 2 4 50.0 3 4 75.0 5 6 11 1 0 0 2 3 14
+p753
+aVIsh Smith NOP 11/10/2015 NOP vs. DAL W 27 17 6 11 54.5 0 0 - 5 5 100.0 0 3 3 12 1 1 2 2 -6
+p754
+aVJrue Holiday NOP 11/10/2015 NOP vs. DAL W 15 10 4 5 80.0 2 2 100.0 0 0 - 0 1 1 3 2 0 1 2 10
+p755
+aVAlonzo Gee NOP 11/10/2015 NOP vs. DAL W 22 8 4 7 57.1 0 1 0.0 0 0 - 2 5 7 0 2 0 2 6 11
+p756
+aVAnthony Davis NOP 11/10/2015 NOP vs. DAL W 19 17 8 14 57.1 0 1 0.0 1 4 25.0 0 7 7 2 1 1 1 2 17
+p757
+aVAlexis Ajinca NOP 11/10/2015 NOP vs. DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 -12
+p758
+aVEric Gordon NOP 11/10/2015 NOP vs. DAL W 34 17 5 19 26.3 4 13 30.8 3 3 100.0 1 1 2 3 1 1 0 1 28
+p759
+aVToney Douglas NOP 11/10/2015 NOP vs. DAL W 25 17 5 8 62.5 5 7 71.4 2 2 100.0 0 1 1 2 0 0 2 4 4
+p760
+aVJimmer Fredette NOP 11/10/2015 NOP vs. DAL W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -12
+p761
+aVRyan Anderson NOP 11/07/2015 NOP @ DAL L 35 21 8 15 53.3 1 5 20.0 4 4 100.0 2 7 9 1 0 1 2 2 -18
+p762
+aVAnthony Davis NOP 11/07/2015 NOP @ DAL L 39 25 11 19 57.9 0 2 0.0 3 5 60.0 1 5 6 4 1 2 4 5 -7
+p763
+aVAlonzo Gee NOP 11/07/2015 NOP @ DAL L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 1 1 1 12
+p764
+aVIsh Smith NOP 11/07/2015 NOP @ DAL L 33 7 3 14 21.4 1 3 33.3 0 0 - 0 7 7 7 2 1 2 2 8
+p765
+aVToney Douglas NOP 11/07/2015 NOP @ DAL L 28 11 4 10 40.0 1 3 33.3 2 2 100.0 0 1 1 3 2 0 0 4 -17
+p766
+aVAlexis Ajinca NOP 11/07/2015 NOP @ DAL L 16 8 4 5 80.0 0 0 - 0 0 - 3 3 6 0 0 0 1 1 7
+p767
+aVDante Cunningham NOP 11/07/2015 NOP @ DAL L 19 0 0 3 0.0 0 2 0.0 0 0 - 1 4 5 1 0 0 0 1 -17
+p768
+aVLuke Babbitt NOP 11/07/2015 NOP @ DAL L 19 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 0 1 0 5 -8
+p769
+aVEric Gordon NOP 11/07/2015 NOP @ DAL L 41 21 7 15 46.7 5 10 50.0 2 2 100.0 0 5 5 4 1 0 2 3 -5
+p770
+aVAlexis Ajinca NOP 11/06/2015 NOP vs. ATL L 9 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 1 0 1 0
+p771
+aVAnthony Davis NOP 11/06/2015 NOP vs. ATL L 41 43 14 23 60.9 1 1 100.0 14 16 87.5 2 8 10 3 4 3 1 5 -1
+p772
+aVEric Gordon NOP 11/06/2015 NOP vs. ATL L 39 22 8 15 53.3 3 7 42.9 3 3 100.0 0 2 2 2 1 1 1 5 -7
+p773
+aVAlonzo Gee NOP 11/06/2015 NOP vs. ATL L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p774
+aVLuke Babbitt NOP 11/06/2015 NOP vs. ATL L 29 13 5 10 50.0 1 6 16.7 2 2 100.0 0 4 4 1 0 0 1 5 -2
+p775
+aVToney Douglas NOP 11/06/2015 NOP vs. ATL L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p776
+aVRyan Anderson NOP 11/06/2015 NOP vs. ATL L 30 10 4 10 40.0 2 7 28.6 0 0 - 2 3 5 4 0 2 1 3 -7
+p777
+aVDante Cunningham NOP 11/06/2015 NOP vs. ATL L 23 8 3 6 50.0 1 2 50.0 1 1 100.0 0 3 3 1 0 0 0 3 -9
+p778
+aVIsh Smith NOP 11/06/2015 NOP vs. ATL L 34 8 4 11 36.4 0 3 0.0 0 0 - 1 3 4 11 2 0 0 2 3
+p779
+aVJrue Holiday NOP 11/06/2015 NOP vs. ATL L 23 4 1 2 50.0 1 2 50.0 1 2 50.0 0 1 1 8 1 0 7 0 0
+p780
+aVLuke Babbitt NOP 11/03/2015 NOP vs. ORL L 28 8 3 8 37.5 2 6 33.3 0 0 - 0 8 8 1 1 0 0 1 -11
+p781
+aVEric Gordon NOP 11/03/2015 NOP vs. ORL L 38 21 8 19 42.1 4 12 33.3 1 2 50.0 1 1 2 4 0 0 4 2 4
+p782
+aVDante Cunningham NOP 11/03/2015 NOP vs. ORL L 21 5 2 5 40.0 0 2 0.0 1 2 50.0 1 5 6 1 1 0 0 1 1
+p783
+aVJrue Holiday NOP 11/03/2015 NOP vs. ORL L 23 14 4 13 30.8 2 3 66.7 4 6 66.7 0 2 2 4 2 1 3 0 8
+p784
+aVAnthony Davis NOP 11/03/2015 NOP vs. ORL L 36 14 3 12 25.0 0 2 0.0 8 10 80.0 1 8 9 1 1 5 2 2 -2
+p785
+aVRyan Anderson NOP 11/03/2015 NOP vs. ORL L 27 14 4 15 26.7 3 7 42.9 3 4 75.0 1 3 4 0 3 1 0 1 -12
+p786
+aVAlexis Ajinca NOP 11/03/2015 NOP vs. ORL L 20 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 2 1 2 -1
+p787
+aVIsh Smith NOP 11/03/2015 NOP vs. ORL L 17 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 7 1 0 1 0 -7
+p788
+aVAlonzo Gee NOP 11/03/2015 NOP vs. ORL L 10 2 1 4 25.0 0 1 0.0 0 0 - 2 0 2 0 1 0 1 0 -11
+p789
+aVToney Douglas NOP 11/03/2015 NOP vs. ORL L 20 9 4 6 66.7 0 2 0.0 1 1 100.0 2 4 6 4 2 0 2 5 -14
+p790
+aVEric Gordon NOP 10/31/2015 NOP vs. GSW L 24 9 3 11 27.3 1 3 33.3 2 2 100.0 1 3 4 2 1 0 0 5 6
+p791
+aVIsh Smith NOP 10/31/2015 NOP vs. GSW L 11 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 3 0 0 3 1 -2
+p792
+aVLuke Babbitt NOP 10/31/2015 NOP vs. GSW L 30 4 2 6 33.3 0 4 0.0 0 0 - 0 6 6 1 0 0 1 2 -8
+p793
+aVOmer Asik NOP 10/31/2015 NOP vs. GSW L 10 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -12
+p794
+aVAlexis Ajinca NOP 10/31/2015 NOP vs. GSW L 6 7 3 5 60.0 0 0 - 1 1 100.0 4 1 5 1 1 0 0 0 5
+p795
+aVJrue Holiday NOP 10/31/2015 NOP vs. GSW L 27 22 8 19 42.1 1 4 25.0 5 5 100.0 0 2 2 6 0 0 4 4 -11
+p796
+aVAnthony Davis NOP 10/31/2015 NOP vs. GSW L 37 26 8 17 47.1 1 2 50.0 9 11 81.8 5 10 15 4 0 2 3 2 -19
+p797
+aVDante Cunningham NOP 10/31/2015 NOP vs. GSW L 22 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 0 0 1 0 2 -11
+p798
+aVAlonzo Gee NOP 10/31/2015 NOP vs. GSW L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -16
+p799
+aVToney Douglas NOP 10/31/2015 NOP vs. GSW L 23 17 7 12 58.3 1 1 100.0 2 3 66.7 1 2 3 4 1 0 3 3 -4
+p800
+aVKendrick Perkins NOP 10/31/2015 NOP vs. GSW L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p801
+aVRyan Anderson NOP 10/31/2015 NOP vs. GSW L 30 19 8 16 50.0 2 4 50.0 1 1 100.0 3 4 7 0 0 1 1 0 -2
+p802
+aVDante Cunningham NOP 10/28/2015 NOP @ POR L 31 0 0 3 0.0 0 3 0.0 0 0 - 0 6 6 1 1 0 0 3 9
+p803
+aVKendrick Perkins NOP 10/28/2015 NOP @ POR L 9 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -16
+p804
+aVAnthony Davis NOP 10/28/2015 NOP @ POR L 41 25 10 17 58.8 3 5 60.0 2 4 50.0 2 8 10 0 2 2 2 1 -8
+p805
+aVRyan Anderson NOP 10/28/2015 NOP @ POR L 39 21 9 20 45.0 3 9 33.3 0 1 0.0 0 9 9 1 1 0 2 1 -2
+p806
+aVEric Gordon NOP 10/28/2015 NOP @ POR L 41 20 6 13 46.2 3 8 37.5 5 7 71.4 1 1 2 3 1 0 1 1 -22
+p807
+aVJrue Holiday NOP 10/28/2015 NOP @ POR L 21 12 5 14 35.7 1 4 25.0 1 1 100.0 0 1 1 3 0 0 2 2 -13
+p808
+aVNate Robinson NOP 10/28/2015 NOP @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p809
+aVIsh Smith NOP 10/28/2015 NOP @ POR L 29 7 3 14 21.4 1 3 33.3 0 2 0.0 0 4 4 8 2 0 3 5 1
+p810
+aVAlexis Ajinca NOP 10/28/2015 NOP @ POR L 7 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -10
+p811
+aVAlonzo Gee NOP 10/28/2015 NOP @ POR L 18 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 2 0 0 1 2 -30
+p812
+aVAnthony Davis NOP 10/27/2015 NOP @ GSW L 35 18 4 20 20.0 0 2 0.0 10 15 66.7 1 5 6 2 0 3 5 4 -16
+p813
+aVRyan Anderson NOP 10/27/2015 NOP @ GSW L 29 9 2 7 28.6 1 3 33.3 4 5 80.0 2 4 6 1 1 0 3 2 -8
+p814
+aVNate Robinson NOP 10/27/2015 NOP @ GSW L 19 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 5 -21
+p815
+aVAlonzo Gee NOP 10/27/2015 NOP @ GSW L 27 8 4 5 80.0 0 0 - 0 0 - 0 5 5 1 3 0 3 3 -8
+p816
+aVKendrick Perkins NOP 10/27/2015 NOP @ GSW L 16 10 5 5 100.0 0 0 - 0 0 - 0 4 4 1 0 0 0 1 -12
+p817
+aVIsh Smith NOP 10/27/2015 NOP @ GSW L 38 17 7 13 53.8 1 2 50.0 2 4 50.0 1 1 2 9 3 0 2 5 5
+p818
+aVAlexis Ajinca NOP 10/27/2015 NOP @ GSW L 17 6 3 7 42.9 0 0 - 0 0 - 3 1 4 0 0 0 1 3 4
+p819
+aVEric Gordon NOP 10/27/2015 NOP @ GSW L 33 14 5 17 29.4 2 7 28.6 2 2 100.0 0 4 4 4 1 0 4 1 -9
+p820
+aVDante Cunningham NOP 10/27/2015 NOP @ GSW L 27 13 5 8 62.5 2 3 66.7 1 1 100.0 1 1 2 0 0 0 0 2 -15
+p821
+a.

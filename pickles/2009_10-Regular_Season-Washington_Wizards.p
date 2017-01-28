@@ -1,0 +1,1720 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCedric Jackson WAS 04/14/2010 WAS vs. IND W 19 8 2 5 40.0 1 3 33.3 3 4 75.0 0 1 1 4 0 0 5 2 -7
+p2
+aVFabricio Oberto WAS 04/14/2010 WAS vs. IND W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -6
+p3
+aVNick Young WAS 04/14/2010 WAS vs. IND W 17 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 1 2 -2
+p4
+aVShaun Livingston WAS 04/14/2010 WAS vs. IND W 29 10 4 8 50.0 0 0 - 2 4 50.0 0 2 2 7 0 0 1 1 8
+p5
+aVQuinton Ross WAS 04/14/2010 WAS vs. IND W 15 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 5
+p6
+aVAndray Blatche WAS 04/14/2010 WAS vs. IND W 29 26 11 19 57.9 0 2 0.0 4 5 80.0 1 6 7 3 4 0 2 1 2
+p7
+aVAl Thornton WAS 04/14/2010 WAS vs. IND W 18 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -2
+p8
+aVJaVale McGee WAS 04/14/2010 WAS vs. IND W 29 14 5 10 50.0 0 0 - 4 6 66.7 0 8 8 0 3 3 2 6 0
+p9
+aVMike Miller WAS 04/14/2010 WAS vs. IND W 14 6 1 3 33.3 1 2 50.0 3 3 100.0 0 2 2 3 0 0 1 1 2
+p10
+aVCartier Martin WAS 04/14/2010 WAS vs. IND W 32 11 5 14 35.7 1 5 20.0 0 0 - 1 4 5 2 0 0 1 5 -1
+p11
+aVJames Singleton WAS 04/14/2010 WAS vs. IND W 26 6 1 4 25.0 0 0 - 4 5 80.0 7 10 17 0 0 1 3 0 6
+p12
+aVAl Thornton WAS 04/12/2010 WAS @ NYK L 17 6 2 5 40.0 1 1 100.0 1 2 50.0 0 0 0 0 2 0 0 0 -5
+p13
+aVCartier Martin WAS 04/12/2010 WAS @ NYK L 4 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -2
+p14
+aVJames Singleton WAS 04/12/2010 WAS @ NYK L 23 6 3 7 42.9 0 0 - 0 0 - 3 3 6 1 1 1 1 1 -20
+p15
+aVNick Young WAS 04/12/2010 WAS @ NYK L 35 16 6 14 42.9 2 5 40.0 2 2 100.0 0 1 1 2 0 0 1 1 -1
+p16
+aVAndray Blatche WAS 04/12/2010 WAS @ NYK L 36 19 8 16 50.0 1 1 100.0 2 7 28.6 3 7 10 7 2 0 4 5 0
+p17
+aVFabricio Oberto WAS 04/12/2010 WAS @ NYK L 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 1 3 7
+p18
+aVEarl Boykins WAS 04/12/2010 WAS @ NYK L 12 5 2 6 33.3 1 1 100.0 0 0 - 1 1 2 2 1 0 0 0 -6
+p19
+aVShaun Livingston WAS 04/12/2010 WAS @ NYK L 36 18 6 8 75.0 0 0 - 6 6 100.0 0 2 2 7 1 0 3 5 -5
+p20
+aVJaVale McGee WAS 04/12/2010 WAS @ NYK L 27 8 4 8 50.0 0 1 0.0 0 2 0.0 3 5 8 1 0 6 1 2 -9
+p21
+aVMike Miller WAS 04/12/2010 WAS @ NYK L 40 23 9 14 64.3 5 8 62.5 0 0 - 1 6 7 5 0 0 4 4 -14
+p22
+aVCartier Martin WAS 04/10/2010 WAS vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p23
+aVNick Young WAS 04/10/2010 WAS vs. ATL L 40 23 10 19 52.6 3 5 60.0 0 0 - 2 2 4 0 0 0 2 2 -1
+p24
+aVMike Miller WAS 04/10/2010 WAS vs. ATL L 40 16 6 10 60.0 4 5 80.0 0 0 - 0 3 3 6 0 0 2 3 -9
+p25
+aVJaVale McGee WAS 04/10/2010 WAS vs. ATL L 24 8 3 8 37.5 0 0 - 2 3 66.7 2 8 10 1 0 3 1 4 0
+p26
+aVFabricio Oberto WAS 04/10/2010 WAS vs. ATL L 17 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 2 3 0
+p27
+aVAl Thornton WAS 04/10/2010 WAS vs. ATL L 18 5 2 3 66.7 0 1 0.0 1 2 50.0 1 2 3 1 0 0 0 0 -19
+p28
+aVEarl Boykins WAS 04/10/2010 WAS vs. ATL L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -2
+p29
+aVShaun Livingston WAS 04/10/2010 WAS vs. ATL L 40 15 6 9 66.7 0 0 - 3 4 75.0 0 3 3 7 1 0 4 3 1
+p30
+aVJames Singleton WAS 04/10/2010 WAS vs. ATL L 18 0 0 2 0.0 0 0 - 0 0 - 3 4 7 1 0 1 1 0 -10
+p31
+aVAndray Blatche WAS 04/10/2010 WAS vs. ATL L 36 24 11 24 45.8 0 1 0.0 2 3 66.7 5 4 9 7 0 0 4 0 -8
+p32
+aVQuinton Ross WAS 04/09/2010 WAS @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p33
+aVFabricio Oberto WAS 04/09/2010 WAS @ BOS W 17 2 1 2 50.0 0 0 - 0 0 - 2 3 5 3 0 0 0 3 5
+p34
+aVJaVale McGee WAS 04/09/2010 WAS @ BOS W 21 14 4 9 44.4 0 0 - 6 8 75.0 3 8 11 1 1 3 3 2 -4
+p35
+aVAndray Blatche WAS 04/09/2010 WAS @ BOS W 43 31 12 23 52.2 1 2 50.0 6 8 75.0 1 10 11 2 1 2 5 3 15
+p36
+aVNick Young WAS 04/09/2010 WAS @ BOS W 40 19 5 15 33.3 3 7 42.9 6 8 75.0 0 3 3 1 0 0 2 3 2
+p37
+aVEarl Boykins WAS 04/09/2010 WAS @ BOS W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 1
+p38
+aVShaun Livingston WAS 04/09/2010 WAS @ BOS W 42 25 9 13 69.2 0 0 - 7 9 77.8 1 5 6 7 2 0 4 1 9
+p39
+aVJames Singleton WAS 04/09/2010 WAS @ BOS W 15 6 2 2 100.0 0 0 - 2 2 100.0 1 3 4 0 1 0 0 1 4
+p40
+aVAl Thornton WAS 04/09/2010 WAS @ BOS W 18 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 11
+p41
+aVMike Miller WAS 04/09/2010 WAS @ BOS W 38 9 4 8 50.0 1 3 33.3 0 0 - 1 5 6 7 0 1 3 4 7
+p42
+aVEarl Boykins WAS 04/07/2010 WAS @ ORL L 13 8 4 5 80.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -13
+p43
+aVAndray Blatche WAS 04/07/2010 WAS @ ORL L 34 13 5 19 26.3 0 1 0.0 3 4 75.0 1 3 4 1 0 1 4 1 -14
+p44
+aVCedric Jackson WAS 04/07/2010 WAS @ ORL L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p45
+aVJaVale McGee WAS 04/07/2010 WAS @ ORL L 18 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 0 1 1 1 5 -5
+p46
+aVCartier Martin WAS 04/07/2010 WAS @ ORL L 13 9 4 6 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 2 2 -16
+p47
+aVShaun Livingston WAS 04/07/2010 WAS @ ORL L 32 7 3 6 50.0 0 0 - 1 1 100.0 2 1 3 3 0 0 2 1 -11
+p48
+aVJames Singleton WAS 04/07/2010 WAS @ ORL L 24 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 3 -18
+p49
+aVNick Young WAS 04/07/2010 WAS @ ORL L 35 21 9 15 60.0 1 3 33.3 2 3 66.7 1 2 3 2 0 0 0 5 -9
+p50
+aVFabricio Oberto WAS 04/07/2010 WAS @ ORL L 20 0 0 1 0.0 0 0 - 0 0 - 1 3 4 3 1 0 3 3 -17
+p51
+aVMike Miller WAS 04/07/2010 WAS @ ORL L 35 16 6 9 66.7 2 3 66.7 2 2 100.0 0 9 9 5 0 0 2 3 -13
+p52
+aVAl Thornton WAS 04/07/2010 WAS @ ORL L 13 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -16
+p53
+aVAndray Blatche WAS 04/06/2010 WAS vs. GSW W 34 21 8 16 50.0 0 0 - 5 5 100.0 0 6 6 1 0 1 4 5 24
+p54
+aVJames Singleton WAS 04/06/2010 WAS vs. GSW W 21 1 0 4 0.0 0 0 - 1 2 50.0 2 3 5 0 0 0 1 2 1
+p55
+aVCartier Martin WAS 04/06/2010 WAS vs. GSW W 22 7 3 10 30.0 1 4 25.0 0 0 - 2 3 5 2 1 1 1 0 11
+p56
+aVNick Young WAS 04/06/2010 WAS vs. GSW W 44 29 10 18 55.6 5 11 45.5 4 6 66.7 2 2 4 1 2 0 1 1 13
+p57
+aVJaVale McGee WAS 04/06/2010 WAS vs. GSW W 30 25 11 18 61.1 0 0 - 3 4 75.0 9 6 15 1 0 3 2 1 3
+p58
+aVFabricio Oberto WAS 04/06/2010 WAS vs. GSW W 11 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 1 1 1 8
+p59
+aVCedric Jackson WAS 04/06/2010 WAS vs. GSW W 10 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -10
+p60
+aVMike Miller WAS 04/06/2010 WAS vs. GSW W 31 8 3 4 75.0 2 3 66.7 0 0 - 0 6 6 7 0 2 4 3 12
+p61
+aVShaun Livingston WAS 04/06/2010 WAS vs. GSW W 38 21 9 11 81.8 0 0 - 3 3 100.0 1 4 5 9 0 0 0 3 28
+p62
+aVJaVale McGee WAS 04/04/2010 WAS vs. NJN W 17 14 5 8 62.5 0 0 - 4 6 66.7 1 5 6 0 0 1 0 4 6
+p63
+aVAndray Blatche WAS 04/04/2010 WAS vs. NJN W 44 20 5 18 27.8 0 1 0.0 10 10 100.0 1 8 9 13 2 0 5 1 13
+p64
+aVCartier Martin WAS 04/04/2010 WAS vs. NJN W 22 16 4 7 57.1 2 2 100.0 6 7 85.7 1 1 2 2 2 0 1 1 2
+p65
+aVEarl Boykins WAS 04/04/2010 WAS vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p66
+aVCedric Jackson WAS 04/04/2010 WAS vs. NJN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -1
+p67
+aVShaun Livingston WAS 04/04/2010 WAS vs. NJN W 38 16 5 9 55.6 0 0 - 6 7 85.7 1 2 3 8 0 1 2 4 16
+p68
+aVFabricio Oberto WAS 04/04/2010 WAS vs. NJN W 17 8 4 4 100.0 0 0 - 0 0 - 2 3 5 0 1 0 0 3 3
+p69
+aVJames Singleton WAS 04/04/2010 WAS vs. NJN W 19 2 1 6 16.7 0 0 - 0 0 - 1 0 1 0 1 0 0 3 -2
+p70
+aVMike Miller WAS 04/04/2010 WAS vs. NJN W 39 17 7 13 53.8 1 2 50.0 2 3 66.7 4 9 13 3 3 0 5 0 7
+p71
+aVNick Young WAS 04/04/2010 WAS vs. NJN W 35 16 7 12 58.3 1 1 100.0 1 1 100.0 0 0 0 1 0 1 0 0 11
+p72
+aVMike Miller WAS 04/02/2010 WAS vs. CHI L 42 15 6 14 42.9 1 1 100.0 2 2 100.0 1 4 5 7 0 0 2 5 -4
+p73
+aVEarl Boykins WAS 04/02/2010 WAS vs. CHI L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p74
+aVJames Singleton WAS 04/02/2010 WAS vs. CHI L 18 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 0
+p75
+aVQuinton Ross WAS 04/02/2010 WAS vs. CHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p76
+aVFabricio Oberto WAS 04/02/2010 WAS vs. CHI L 16 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 2 0 0 3 2 -3
+p77
+aVAndray Blatche WAS 04/02/2010 WAS vs. CHI L 40 18 7 20 35.0 0 1 0.0 4 5 80.0 7 6 13 7 2 0 2 2 -7
+p78
+aVNick Young WAS 04/02/2010 WAS vs. CHI L 35 10 2 13 15.4 2 6 33.3 4 4 100.0 0 0 0 1 1 0 0 3 -2
+p79
+aVShaun Livingston WAS 04/02/2010 WAS vs. CHI L 39 12 5 11 45.5 0 1 0.0 2 2 100.0 1 4 5 3 0 1 3 2 -2
+p80
+aVCartier Martin WAS 04/02/2010 WAS vs. CHI L 15 8 2 7 28.6 2 4 50.0 2 2 100.0 2 3 5 1 0 0 1 2 -8
+p81
+aVJaVale McGee WAS 04/02/2010 WAS vs. CHI L 22 13 6 14 42.9 0 0 - 1 3 33.3 3 6 9 0 1 3 1 0 -6
+p82
+aVShaun Livingston WAS 03/31/2010 WAS @ NOH W 37 18 8 10 80.0 0 0 - 2 2 100.0 0 3 3 8 0 0 3 4 17
+p83
+aVMike Miller WAS 03/31/2010 WAS @ NOH W 44 27 9 14 64.3 2 4 50.0 7 8 87.5 0 7 7 2 1 0 1 1 9
+p84
+aVQuinton Ross WAS 03/31/2010 WAS @ NOH W 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -12
+p85
+aVAndray Blatche WAS 03/31/2010 WAS @ NOH W 39 23 10 17 58.8 0 0 - 3 5 60.0 0 1 1 4 3 1 2 1 12
+p86
+aVFabricio Oberto WAS 03/31/2010 WAS @ NOH W 19 2 1 1 100.0 0 0 - 0 0 - 0 3 3 3 0 1 3 5 17
+p87
+aVEarl Boykins WAS 03/31/2010 WAS @ NOH W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p88
+aVNick Young WAS 03/31/2010 WAS @ NOH W 36 9 3 9 33.3 1 1 100.0 2 2 100.0 0 2 2 0 0 0 1 2 13
+p89
+aVJaVale McGee WAS 03/31/2010 WAS @ NOH W 14 11 5 10 50.0 0 0 - 1 2 50.0 3 3 6 0 0 2 1 2 -7
+p90
+aVJames Singleton WAS 03/31/2010 WAS @ NOH W 25 6 2 5 40.0 0 1 0.0 2 2 100.0 1 3 4 1 0 0 2 2 -14
+p91
+aVQuinton Ross WAS 03/30/2010 WAS @ HOU L 28 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 1
+p92
+aVCartier Martin WAS 03/30/2010 WAS @ HOU L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 2
+p93
+aVJames Singleton WAS 03/30/2010 WAS @ HOU L 26 12 5 10 50.0 0 0 - 2 2 100.0 1 5 6 0 0 3 3 3 3
+p94
+aVFabricio Oberto WAS 03/30/2010 WAS @ HOU L 16 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 1 0 1 1 -3
+p95
+aVMike Miller WAS 03/30/2010 WAS @ HOU L 39 14 4 15 26.7 1 7 14.3 5 6 83.3 4 8 12 4 0 1 1 2 -5
+p96
+aVAndray Blatche WAS 03/30/2010 WAS @ HOU L 41 31 13 23 56.5 0 1 0.0 5 8 62.5 5 5 10 3 4 3 2 4 -9
+p97
+aVJaVale McGee WAS 03/30/2010 WAS @ HOU L 13 13 5 9 55.6 0 0 - 3 4 75.0 4 2 6 0 0 0 1 2 1
+p98
+aVShaun Livingston WAS 03/30/2010 WAS @ HOU L 26 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 2 0 1 2 0 0
+p99
+aVEarl Boykins WAS 03/30/2010 WAS @ HOU L 22 12 4 8 50.0 1 2 50.0 3 5 60.0 0 0 0 1 0 1 2 0 -4
+p100
+aVNick Young WAS 03/30/2010 WAS @ HOU L 23 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 2 0 0 2 4 -6
+p101
+aVQuinton Ross WAS 03/27/2010 WAS vs. UTA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p102
+aVNick Young WAS 03/27/2010 WAS vs. UTA L 26 16 6 13 46.2 3 7 42.9 1 1 100.0 0 1 1 0 1 0 2 5 -13
+p103
+aVJaVale McGee WAS 03/27/2010 WAS vs. UTA L 16 6 2 3 66.7 0 0 - 2 4 50.0 1 0 1 0 1 1 0 3 -7
+p104
+aVMike Miller WAS 03/27/2010 WAS vs. UTA L 38 14 5 11 45.5 2 4 50.0 2 3 66.7 0 7 7 3 0 0 1 0 -18
+p105
+aVAndray Blatche WAS 03/27/2010 WAS vs. UTA L 42 20 8 22 36.4 0 3 0.0 4 8 50.0 2 3 5 7 2 0 2 3 -13
+p106
+aVAlonzo Gee WAS 03/27/2010 WAS vs. UTA L 27 6 2 7 28.6 0 1 0.0 2 2 100.0 3 0 3 1 1 1 1 2 -4
+p107
+aVShaun Livingston WAS 03/27/2010 WAS vs. UTA L 35 14 6 12 50.0 0 0 - 2 2 100.0 1 2 3 3 1 1 2 3 -3
+p108
+aVJames Singleton WAS 03/27/2010 WAS vs. UTA L 32 6 2 11 18.2 0 1 0.0 2 2 100.0 7 5 12 4 1 0 2 3 -9
+p109
+aVFabricio Oberto WAS 03/27/2010 WAS vs. UTA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p110
+aVEarl Boykins WAS 03/27/2010 WAS vs. UTA L 13 3 1 6 16.7 1 2 50.0 0 0 - 0 3 3 2 0 0 2 2 -13
+p111
+aVRandy Foye WAS 03/26/2010 WAS @ CHA L 21 17 5 8 62.5 4 5 80.0 3 3 100.0 1 0 1 2 0 0 2 1 1
+p112
+aVJames Singleton WAS 03/26/2010 WAS @ CHA L 38 8 2 8 25.0 0 1 0.0 4 4 100.0 2 5 7 1 2 1 1 1 -11
+p113
+aVNick Young WAS 03/26/2010 WAS @ CHA L 18 10 4 7 57.1 2 2 100.0 0 0 - 0 1 1 0 1 0 2 4 10
+p114
+aVAndray Blatche WAS 03/26/2010 WAS @ CHA L 38 18 8 19 42.1 2 3 66.7 0 0 - 1 4 5 6 2 0 6 2 -17
+p115
+aVFabricio Oberto WAS 03/26/2010 WAS @ CHA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p116
+aVJaVale McGee WAS 03/26/2010 WAS @ CHA L 19 8 3 4 75.0 0 0 - 2 2 100.0 0 5 5 0 0 2 2 4 7
+p117
+aVAlonzo Gee WAS 03/26/2010 WAS @ CHA L 33 19 5 9 55.6 2 2 100.0 7 10 70.0 0 0 0 2 2 0 1 5 -9
+p118
+aVQuinton Ross WAS 03/26/2010 WAS @ CHA L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 3
+p119
+aVShaun Livingston WAS 03/26/2010 WAS @ CHA L 27 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 3 1 0 2 2 -12
+p120
+aVMike Miller WAS 03/26/2010 WAS @ CHA L 37 10 4 8 50.0 2 5 40.0 0 0 - 0 7 7 8 0 0 1 5 -26
+p121
+aVJaVale McGee WAS 03/24/2010 WAS @ IND L 12 0 0 5 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -14
+p122
+aVQuinton Ross WAS 03/24/2010 WAS @ IND L 13 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 1 1 0 2 -3
+p123
+aVAndray Blatche WAS 03/24/2010 WAS @ IND L 39 21 8 17 47.1 2 2 100.0 3 4 75.0 3 3 6 0 0 0 5 1 -18
+p124
+aVAlonzo Gee WAS 03/24/2010 WAS @ IND L 14 2 1 6 16.7 0 0 - 0 0 - 2 1 3 2 1 0 0 1 -2
+p125
+aVEarl Boykins WAS 03/24/2010 WAS @ IND L 18 2 1 8 12.5 0 1 0.0 0 0 - 0 2 2 3 0 0 2 2 5
+p126
+aVAl Thornton WAS 03/24/2010 WAS @ IND L 23 6 3 8 37.5 0 0 - 0 0 - 1 3 4 2 1 0 2 3 -9
+p127
+aVJames Singleton WAS 03/24/2010 WAS @ IND L 35 19 8 13 61.5 0 0 - 3 5 60.0 6 15 21 0 0 1 1 1 -1
+p128
+aVRandy Foye WAS 03/24/2010 WAS @ IND L 19 9 3 9 33.3 1 5 20.0 2 2 100.0 0 2 2 1 0 0 0 2 -7
+p129
+aVNick Young WAS 03/24/2010 WAS @ IND L 24 12 6 11 54.5 0 1 0.0 0 2 0.0 0 1 1 1 1 0 0 4 2
+p130
+aVMike Miller WAS 03/24/2010 WAS @ IND L 32 5 2 10 20.0 1 2 50.0 0 0 - 1 11 12 2 1 0 0 2 -23
+p131
+aVShaun Livingston WAS 03/24/2010 WAS @ IND L 11 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -15
+p132
+aVJames Singleton WAS 03/23/2010 WAS vs. CHA L 37 9 3 10 30.0 1 3 33.3 2 2 100.0 3 4 7 1 0 0 3 5 -8
+p133
+aVMike Miller WAS 03/23/2010 WAS vs. CHA L 44 15 6 15 40.0 2 5 40.0 1 2 50.0 0 4 4 4 3 0 3 4 -9
+p134
+aVNick Young WAS 03/23/2010 WAS vs. CHA L 23 9 3 6 50.0 1 3 33.3 2 2 100.0 0 2 2 0 0 1 1 2 -1
+p135
+aVAlonzo Gee WAS 03/23/2010 WAS vs. CHA L 15 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 1 4 5
+p136
+aVRandy Foye WAS 03/23/2010 WAS vs. CHA L 25 6 3 12 25.0 0 3 0.0 0 0 - 0 4 4 2 1 0 1 4 -17
+p137
+aVAndray Blatche WAS 03/23/2010 WAS vs. CHA L 8 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 2 0 0 0
+p138
+aVQuinton Ross WAS 03/23/2010 WAS vs. CHA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p139
+aVEarl Boykins WAS 03/23/2010 WAS vs. CHA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p140
+aVJaVale McGee WAS 03/23/2010 WAS vs. CHA L 46 14 6 12 50.0 0 0 - 2 2 100.0 4 8 12 0 0 2 4 6 -5
+p141
+aVShaun Livingston WAS 03/23/2010 WAS vs. CHA L 24 9 3 8 37.5 0 0 - 3 3 100.0 0 3 3 6 1 0 1 2 9
+p142
+aVFabricio Oberto WAS 03/23/2010 WAS vs. CHA L 12 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 1 0 0 0 1 -11
+p143
+aVAl Thornton WAS 03/23/2010 WAS vs. CHA L 27 10 4 8 50.0 1 2 50.0 1 2 50.0 2 3 5 2 0 0 4 6 -7
+p144
+aVNick Young WAS 03/21/2010 WAS @ LAL L 22 22 7 11 63.6 2 5 40.0 6 8 75.0 0 1 1 0 1 0 1 1 7
+p145
+aVMike Miller WAS 03/21/2010 WAS @ LAL L 30 11 4 9 44.4 3 7 42.9 0 0 - 0 2 2 5 0 0 0 1 -23
+p146
+aVAndray Blatche WAS 03/21/2010 WAS @ LAL L 39 16 7 20 35.0 0 0 - 2 2 100.0 5 7 12 5 3 0 2 2 -11
+p147
+aVRandy Foye WAS 03/21/2010 WAS @ LAL L 20 9 4 8 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 0 0 -1
+p148
+aVQuinton Ross WAS 03/21/2010 WAS @ LAL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 11
+p149
+aVJames Singleton WAS 03/21/2010 WAS @ LAL L 27 4 2 4 50.0 0 0 - 0 0 - 2 5 7 2 0 0 1 6 -3
+p150
+aVFabricio Oberto WAS 03/21/2010 WAS @ LAL L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p151
+aVJaVale McGee WAS 03/21/2010 WAS @ LAL L 21 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 2 2 1 -6
+p152
+aVAlonzo Gee WAS 03/21/2010 WAS @ LAL L 7 2 1 4 25.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 0 5
+p153
+aVShaun Livingston WAS 03/21/2010 WAS @ LAL L 28 8 4 7 57.1 0 0 - 0 0 - 0 0 0 6 2 0 4 1 -6
+p154
+aVAl Thornton WAS 03/21/2010 WAS @ LAL L 33 18 7 12 58.3 0 0 - 4 6 66.7 1 1 2 3 4 0 2 3 -5
+p155
+aVAndray Blatche WAS 03/19/2010 WAS @ POR L 36 12 6 19 31.6 0 0 - 0 1 0.0 0 5 5 1 1 0 4 3 2
+p156
+aVAlonzo Gee WAS 03/19/2010 WAS @ POR L 20 5 2 5 40.0 0 0 - 1 2 50.0 3 0 3 0 0 0 2 0 0
+p157
+aVShaun Livingston WAS 03/19/2010 WAS @ POR L 28 6 3 10 30.0 0 0 - 0 0 - 0 2 2 4 0 1 2 3 -12
+p158
+aVAl Thornton WAS 03/19/2010 WAS @ POR L 27 5 2 5 40.0 0 0 - 1 4 25.0 0 3 3 2 0 1 1 6 -2
+p159
+aVJames Singleton WAS 03/19/2010 WAS @ POR L 36 10 4 8 50.0 0 1 0.0 2 2 100.0 5 11 16 1 1 0 1 2 3
+p160
+aVNick Young WAS 03/19/2010 WAS @ POR L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p161
+aVMike Miller WAS 03/19/2010 WAS @ POR L 37 16 5 11 45.5 1 4 25.0 5 5 100.0 2 6 8 3 0 0 2 2 3
+p162
+aVJaVale McGee WAS 03/19/2010 WAS @ POR L 23 9 4 6 66.7 0 0 - 1 3 33.3 2 7 9 0 0 3 0 2 -9
+p163
+aVRandy Foye WAS 03/19/2010 WAS @ POR L 24 11 4 11 36.4 2 2 100.0 1 1 100.0 0 3 3 2 0 0 1 1 9
+p164
+aVMike Miller WAS 03/16/2010 WAS @ DEN L 39 5 2 8 25.0 0 3 0.0 1 2 50.0 2 6 8 4 1 0 3 1 -9
+p165
+aVRandy Foye WAS 03/16/2010 WAS @ DEN L 18 2 1 6 16.7 0 2 0.0 0 1 0.0 0 1 1 2 0 0 0 1 -5
+p166
+aVJames Singleton WAS 03/16/2010 WAS @ DEN L 26 6 3 6 50.0 0 0 - 0 0 - 3 1 4 0 0 1 0 5 -15
+p167
+aVNick Young WAS 03/16/2010 WAS @ DEN L 16 8 3 6 50.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 2 3
+p168
+aVEarl Boykins WAS 03/16/2010 WAS @ DEN L 11 5 1 4 25.0 1 1 100.0 2 2 100.0 0 0 0 1 0 1 0 0 -8
+p169
+aVJaVale McGee WAS 03/16/2010 WAS @ DEN L 22 5 1 6 16.7 0 0 - 3 4 75.0 2 1 3 0 0 2 1 2 5
+p170
+aVAndray Blatche WAS 03/16/2010 WAS @ DEN L 36 23 10 19 52.6 0 0 - 3 7 42.9 1 7 8 1 1 1 2 4 -4
+p171
+aVShaun Livingston WAS 03/16/2010 WAS @ DEN L 19 4 2 6 33.3 0 0 - 0 0 - 1 4 5 6 0 0 0 3 5
+p172
+aVAlonzo Gee WAS 03/16/2010 WAS @ DEN L 27 13 5 9 55.6 2 3 66.7 1 4 25.0 3 7 10 0 2 0 3 0 -6
+p173
+aVAl Thornton WAS 03/16/2010 WAS @ DEN L 27 16 6 8 75.0 1 1 100.0 3 4 75.0 0 1 1 0 1 2 4 6 -16
+p174
+aVMike Miller WAS 03/15/2010 WAS @ UTA L 33 14 5 11 45.5 1 2 50.0 3 4 75.0 1 9 10 3 0 0 0 2 -22
+p175
+aVJames Singleton WAS 03/15/2010 WAS @ UTA L 31 6 1 6 16.7 0 0 - 4 4 100.0 4 6 10 0 1 2 1 5 -3
+p176
+aVAndray Blatche WAS 03/15/2010 WAS @ UTA L 32 24 9 19 47.4 0 0 - 6 8 75.0 5 1 6 4 1 0 4 4 -17
+p177
+aVShaun Livingston WAS 03/15/2010 WAS @ UTA L 23 6 3 8 37.5 0 0 - 0 0 - 2 1 3 0 1 2 1 1 -16
+p178
+aVRandy Foye WAS 03/15/2010 WAS @ UTA L 24 8 3 6 50.0 1 3 33.3 1 2 50.0 1 0 1 5 0 0 2 3 -14
+p179
+aVEarl Boykins WAS 03/15/2010 WAS @ UTA L 8 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -5
+p180
+aVFabricio Oberto WAS 03/15/2010 WAS @ UTA L 8 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -8
+p181
+aVAl Thornton WAS 03/15/2010 WAS @ UTA L 25 4 1 9 11.1 0 0 - 2 2 100.0 2 2 4 0 0 0 1 0 -17
+p182
+aVQuinton Ross WAS 03/15/2010 WAS @ UTA L 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p183
+aVNick Young WAS 03/15/2010 WAS @ UTA L 12 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 1 3 -5
+p184
+aVJaVale McGee WAS 03/15/2010 WAS @ UTA L 24 7 3 8 37.5 0 0 - 1 2 50.0 2 6 8 0 0 3 1 1 -18
+p185
+aVAlonzo Gee WAS 03/15/2010 WAS @ UTA L 15 10 3 4 75.0 1 1 100.0 3 4 75.0 1 2 3 2 1 0 2 1 7
+p186
+aVRandy Foye WAS 03/13/2010 WAS vs. ORL L 19 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 3 0 0 1 0 -16
+p187
+aVMike Miller WAS 03/13/2010 WAS vs. ORL L 30 4 2 3 66.7 0 0 - 0 0 - 1 3 4 5 2 0 3 1 -6
+p188
+aVJaVale McGee WAS 03/13/2010 WAS vs. ORL L 22 5 1 6 16.7 0 0 - 3 4 75.0 3 0 3 0 0 2 1 5 -14
+p189
+aVQuinton Ross WAS 03/13/2010 WAS vs. ORL L 9 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -8
+p190
+aVJames Singleton WAS 03/13/2010 WAS vs. ORL L 18 4 2 5 40.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 3 -15
+p191
+aVAlonzo Gee WAS 03/13/2010 WAS vs. ORL L 12 7 2 5 40.0 1 1 100.0 2 2 100.0 1 4 5 0 0 0 0 0 -2
+p192
+aVAl Thornton WAS 03/13/2010 WAS vs. ORL L 34 15 6 15 40.0 0 1 0.0 3 4 75.0 0 3 3 0 0 1 1 0 -5
+p193
+aVFabricio Oberto WAS 03/13/2010 WAS vs. ORL L 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 4 12
+p194
+aVAndray Blatche WAS 03/13/2010 WAS vs. ORL L 41 32 14 23 60.9 1 3 33.3 3 5 60.0 1 3 4 4 2 2 2 1 -11
+p195
+aVShaun Livingston WAS 03/13/2010 WAS vs. ORL L 31 18 8 11 72.7 0 1 0.0 2 2 100.0 0 3 3 8 0 1 2 2 -4
+p196
+aVNick Young WAS 03/13/2010 WAS vs. ORL L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p197
+aVAlonzo Gee WAS 03/12/2010 WAS @ DET L 5 6 3 4 75.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 4
+p198
+aVJames Singleton WAS 03/12/2010 WAS @ DET L 25 7 3 3 100.0 0 0 - 1 2 50.0 3 3 6 1 0 2 2 5 -8
+p199
+aVShaun Livingston WAS 03/12/2010 WAS @ DET L 8 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 4 0 0 1 1 3
+p200
+aVRandy Foye WAS 03/12/2010 WAS @ DET L 21 11 3 7 42.9 3 5 60.0 2 2 100.0 0 3 3 8 1 0 4 2 -13
+p201
+aVAndray Blatche WAS 03/12/2010 WAS @ DET L 39 23 11 22 50.0 0 0 - 1 1 100.0 3 7 10 4 0 0 2 2 -7
+p202
+aVFabricio Oberto WAS 03/12/2010 WAS @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p203
+aVNick Young WAS 03/12/2010 WAS @ DET L 16 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -7
+p204
+aVMike Miller WAS 03/12/2010 WAS @ DET L 33 10 4 12 33.3 1 5 20.0 1 1 100.0 1 2 3 2 0 0 1 1 -18
+p205
+aVJaVale McGee WAS 03/12/2010 WAS @ DET L 23 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 1 0 2 3 -18
+p206
+aVAl Thornton WAS 03/12/2010 WAS @ DET L 39 16 5 13 38.5 0 0 - 6 6 100.0 2 4 6 2 1 0 2 1 -4
+p207
+aVEarl Boykins WAS 03/12/2010 WAS @ DET L 19 4 0 3 0.0 0 1 0.0 4 5 80.0 0 1 1 2 1 0 1 0 -4
+p208
+aVQuinton Ross WAS 03/12/2010 WAS @ DET L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p209
+aVAndray Blatche WAS 03/11/2010 WAS vs. ATL L 36 30 12 19 63.2 0 1 0.0 6 6 100.0 3 7 10 1 3 0 7 2 -9
+p210
+aVShaun Livingston WAS 03/11/2010 WAS vs. ATL L 18 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 4 1 0 2 4 3
+p211
+aVFabricio Oberto WAS 03/11/2010 WAS vs. ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p212
+aVRandy Foye WAS 03/11/2010 WAS vs. ATL L 30 10 5 11 45.5 0 4 0.0 0 0 - 0 2 2 4 2 0 3 1 -5
+p213
+aVAlonzo Gee WAS 03/11/2010 WAS vs. ATL L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p214
+aVNick Young WAS 03/11/2010 WAS vs. ATL L 29 17 5 11 45.5 1 4 25.0 6 6 100.0 0 0 0 1 2 1 0 2 5
+p215
+aVAl Thornton WAS 03/11/2010 WAS vs. ATL L 28 7 2 7 28.6 0 1 0.0 3 4 75.0 2 5 7 1 0 0 1 2 -9
+p216
+aVJames Singleton WAS 03/11/2010 WAS vs. ATL L 18 0 0 5 0.0 0 1 0.0 0 0 - 6 1 7 1 0 0 3 2 -2
+p217
+aVMike Miller WAS 03/11/2010 WAS vs. ATL L 33 11 4 8 50.0 0 2 0.0 3 4 75.0 2 3 5 7 1 0 3 4 -3
+p218
+aVJaVale McGee WAS 03/11/2010 WAS vs. ATL L 38 20 10 13 76.9 0 0 - 0 0 - 3 6 9 1 0 0 1 5 2
+p219
+aVQuinton Ross WAS 03/11/2010 WAS vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p220
+aVJames Singleton WAS 03/09/2010 WAS vs. HOU L 28 12 3 4 75.0 0 0 - 6 6 100.0 1 3 4 1 2 3 1 4 -3
+p221
+aVJaVale McGee WAS 03/09/2010 WAS vs. HOU L 17 4 2 5 40.0 0 0 - 0 0 - 3 4 7 0 0 0 0 2 -15
+p222
+aVAndray Blatche WAS 03/09/2010 WAS vs. HOU L 38 18 9 22 40.9 0 0 - 0 0 - 1 7 8 2 2 1 5 2 -7
+p223
+aVFabricio Oberto WAS 03/09/2010 WAS vs. HOU L 8 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p224
+aVAl Thornton WAS 03/09/2010 WAS vs. HOU L 39 15 6 14 42.9 0 2 0.0 3 4 75.0 3 6 9 3 1 1 2 3 -9
+p225
+aVQuinton Ross WAS 03/09/2010 WAS vs. HOU L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -5
+p226
+aVShaun Livingston WAS 03/09/2010 WAS vs. HOU L 20 4 2 5 40.0 0 0 - 0 0 - 0 0 0 5 0 1 2 2 6
+p227
+aVNick Young WAS 03/09/2010 WAS vs. HOU L 23 18 6 13 46.2 2 4 50.0 4 4 100.0 1 0 1 0 0 0 1 2 3
+p228
+aVMike Miller WAS 03/09/2010 WAS vs. HOU L 34 7 3 9 33.3 1 3 33.3 0 0 - 0 8 8 5 0 2 4 3 0
+p229
+aVEarl Boykins WAS 03/09/2010 WAS vs. HOU L 9 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 2 0 0 2 0 -12
+p230
+aVRandy Foye WAS 03/09/2010 WAS vs. HOU L 19 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 3 0 0 1 2 -2
+p231
+aVRandy Foye WAS 03/07/2010 WAS @ BOS L 35 9 3 14 21.4 0 5 0.0 3 3 100.0 0 2 2 8 2 0 3 3 7
+p232
+aVNick Young WAS 03/07/2010 WAS @ BOS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p233
+aVAl Thornton WAS 03/07/2010 WAS @ BOS L 42 24 10 17 58.8 1 2 50.0 3 5 60.0 2 9 11 2 3 0 4 4 -1
+p234
+aVJames Singleton WAS 03/07/2010 WAS @ BOS L 22 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 2 1 3 2
+p235
+aVJaVale McGee WAS 03/07/2010 WAS @ BOS L 31 13 2 3 66.7 0 0 - 9 10 90.0 1 0 1 0 1 5 3 2 -2
+p236
+aVFabricio Oberto WAS 03/07/2010 WAS @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p237
+aVQuinton Ross WAS 03/07/2010 WAS @ BOS L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p238
+aVAndray Blatche WAS 03/07/2010 WAS @ BOS L 43 23 10 20 50.0 0 0 - 3 3 100.0 0 9 9 1 1 1 4 5 -5
+p239
+aVMike Miller WAS 03/07/2010 WAS @ BOS L 41 8 3 7 42.9 0 2 0.0 2 3 66.7 1 7 8 2 0 0 1 1 -8
+p240
+aVEarl Boykins WAS 03/07/2010 WAS @ BOS L 13 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -10
+p241
+aVAndray Blatche WAS 03/05/2010 WAS vs. MIL L 35 13 5 16 31.3 0 1 0.0 3 6 50.0 0 6 6 3 0 1 1 1 -28
+p242
+aVShaun Livingston WAS 03/05/2010 WAS vs. MIL L 15 6 3 4 75.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 -4
+p243
+aVJames Singleton WAS 03/05/2010 WAS vs. MIL L 25 4 2 11 18.2 0 1 0.0 0 2 0.0 4 4 8 0 1 1 1 2 -13
+p244
+aVEarl Boykins WAS 03/05/2010 WAS vs. MIL L 20 12 5 7 71.4 0 0 - 2 3 66.7 1 0 1 0 0 0 2 2 -20
+p245
+aVQuinton Ross WAS 03/05/2010 WAS vs. MIL L 13 0 0 5 0.0 0 0 - 0 0 - 2 2 4 0 0 1 2 4 -13
+p246
+aVNick Young WAS 03/05/2010 WAS vs. MIL L 11 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p247
+aVRandy Foye WAS 03/05/2010 WAS vs. MIL L 24 8 3 10 30.0 0 0 - 2 3 66.7 0 1 1 2 0 0 1 2 -4
+p248
+aVAl Thornton WAS 03/05/2010 WAS vs. MIL L 27 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 1 2 2 -17
+p249
+aVJaVale McGee WAS 03/05/2010 WAS vs. MIL L 31 13 5 11 45.5 0 0 - 3 5 60.0 5 6 11 0 0 4 1 3 -9
+p250
+aVMichael Harris WAS 03/05/2010 WAS vs. MIL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p251
+aVMike Miller WAS 03/05/2010 WAS vs. MIL L 29 6 3 6 50.0 0 1 0.0 0 0 - 0 4 4 2 2 1 1 2 -19
+p252
+aVFabricio Oberto WAS 03/05/2010 WAS vs. MIL L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -6
+p253
+aVAndray Blatche WAS 03/03/2010 WAS @ MIL L 37 18 8 14 57.1 0 1 0.0 2 4 50.0 4 5 9 3 2 0 6 3 -15
+p254
+aVEarl Boykins WAS 03/03/2010 WAS @ MIL L 15 8 4 5 80.0 0 0 - 0 0 - 0 0 0 2 0 0 4 0 -11
+p255
+aVNick Young WAS 03/03/2010 WAS @ MIL L 15 6 1 8 12.5 0 1 0.0 4 4 100.0 0 2 2 0 0 0 0 0 -4
+p256
+aVAl Thornton WAS 03/03/2010 WAS @ MIL L 23 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 2 -8
+p257
+aVFabricio Oberto WAS 03/03/2010 WAS @ MIL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p258
+aVShaun Livingston WAS 03/03/2010 WAS @ MIL L 15 6 3 6 50.0 0 0 - 0 0 - 0 1 1 4 1 0 2 1 0
+p259
+aVJames Singleton WAS 03/03/2010 WAS @ MIL L 26 6 3 5 60.0 0 0 - 0 0 - 3 5 8 0 1 4 1 1 -14
+p260
+aVMichael Harris WAS 03/03/2010 WAS @ MIL L 4 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 3 4
+p261
+aVMike Miller WAS 03/03/2010 WAS @ MIL L 26 3 1 3 33.3 1 2 50.0 0 0 - 0 5 5 2 0 0 2 1 -5
+p262
+aVRandy Foye WAS 03/03/2010 WAS @ MIL L 29 18 6 13 46.2 3 6 50.0 3 4 75.0 0 4 4 5 1 0 2 0 -7
+p263
+aVQuinton Ross WAS 03/03/2010 WAS @ MIL L 17 4 2 7 28.6 0 1 0.0 0 1 0.0 0 1 1 0 0 0 1 3 -8
+p264
+aVJaVale McGee WAS 03/03/2010 WAS @ MIL L 27 14 6 11 54.5 0 0 - 2 3 66.7 3 4 7 1 0 3 2 5 2
+p265
+aVQuinton Ross WAS 02/28/2010 WAS @ NJN W 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p266
+aVAndray Blatche WAS 02/28/2010 WAS @ NJN W 39 36 17 31 54.8 0 1 0.0 2 3 66.7 5 10 15 4 2 2 3 5 13
+p267
+aVAl Thornton WAS 02/28/2010 WAS @ NJN W 40 20 7 13 53.8 0 0 - 6 6 100.0 1 7 8 1 1 0 3 5 0
+p268
+aVJaVale McGee WAS 02/28/2010 WAS @ NJN W 24 4 2 6 33.3 0 0 - 0 2 0.0 2 2 4 2 0 2 1 4 -2
+p269
+aVEarl Boykins WAS 02/28/2010 WAS @ NJN W 21 4 2 7 28.6 0 0 - 0 0 - 0 1 1 4 0 0 0 0 3
+p270
+aVRandy Foye WAS 02/28/2010 WAS @ NJN W 29 16 4 13 30.8 2 5 40.0 6 7 85.7 1 4 5 2 0 0 0 2 1
+p271
+aVShaun Livingston WAS 02/28/2010 WAS @ NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 3
+p272
+aVNick Young WAS 02/28/2010 WAS @ NJN W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p273
+aVJames Singleton WAS 02/28/2010 WAS @ NJN W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p274
+aVFabricio Oberto WAS 02/28/2010 WAS @ NJN W 23 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 1 1 5 6
+p275
+aVMike Miller WAS 02/28/2010 WAS @ NJN W 37 9 3 8 37.5 1 3 33.3 2 2 100.0 0 8 8 6 1 0 0 0 10
+p276
+aVMichael Harris WAS 02/28/2010 WAS @ NJN W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p277
+aVRandy Foye WAS 02/26/2010 WAS vs. NYK L 41 22 8 11 72.7 3 4 75.0 3 5 60.0 0 1 1 10 0 0 3 1 -1
+p278
+aVJames Singleton WAS 02/26/2010 WAS vs. NYK L 10 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 1 3 0 1 -1
+p279
+aVFabricio Oberto WAS 02/26/2010 WAS vs. NYK L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p280
+aVEarl Boykins WAS 02/26/2010 WAS vs. NYK L 12 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 0 2
+p281
+aVMike Miller WAS 02/26/2010 WAS vs. NYK L 38 12 5 10 50.0 2 4 50.0 0 0 - 0 6 6 5 0 1 2 6 15
+p282
+aVJaVale McGee WAS 02/26/2010 WAS vs. NYK L 27 18 7 12 58.3 0 0 - 4 6 66.7 4 6 10 2 0 5 3 4 -8
+p283
+aVMichael Harris WAS 02/26/2010 WAS vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p284
+aVShaun Livingston WAS 02/26/2010 WAS vs. NYK L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p285
+aVAndray Blatche WAS 02/26/2010 WAS vs. NYK L 51 26 11 21 52.4 1 2 50.0 3 5 60.0 3 15 18 6 1 3 8 3 3
+p286
+aVQuinton Ross WAS 02/26/2010 WAS vs. NYK L 28 7 3 6 50.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 1 6 3
+p287
+aVNick Young WAS 02/26/2010 WAS vs. NYK L 18 7 2 7 28.6 2 4 50.0 1 2 50.0 0 1 1 1 0 0 1 2 -14
+p288
+aVAl Thornton WAS 02/26/2010 WAS vs. NYK L 30 11 5 11 45.5 1 2 50.0 0 2 0.0 2 2 4 5 0 1 1 6 11
+p289
+aVJames Singleton WAS 02/24/2010 WAS vs. MEM L 25 9 2 9 22.2 0 0 - 5 6 83.3 6 4 10 2 0 4 0 2 0
+p290
+aVMike Miller WAS 02/24/2010 WAS vs. MEM L 33 6 3 6 50.0 0 0 - 0 0 - 0 3 3 7 0 0 4 0 -7
+p291
+aVFabricio Oberto WAS 02/24/2010 WAS vs. MEM L 15 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 1 0 1 3 -6
+p292
+aVJaVale McGee WAS 02/24/2010 WAS vs. MEM L 15 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 4 4
+p293
+aVEarl Boykins WAS 02/24/2010 WAS vs. MEM L 21 8 4 11 36.4 0 1 0.0 0 1 0.0 0 2 2 3 1 0 0 0 -11
+p294
+aVNick Young WAS 02/24/2010 WAS vs. MEM L 15 7 3 4 75.0 0 0 - 1 3 33.3 0 0 0 1 1 0 0 1 4
+p295
+aVAndray Blatche WAS 02/24/2010 WAS vs. MEM L 41 24 10 19 52.6 0 1 0.0 4 5 80.0 1 7 8 5 1 0 4 3 -6
+p296
+aVAl Thornton WAS 02/24/2010 WAS vs. MEM L 35 16 6 10 60.0 0 0 - 4 6 66.7 3 8 11 0 1 1 0 2 -7
+p297
+aVRandy Foye WAS 02/24/2010 WAS vs. MEM L 28 8 2 6 33.3 1 4 25.0 3 3 100.0 0 4 4 7 0 0 1 3 2
+p298
+aVMichael Harris WAS 02/24/2010 WAS vs. MEM L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p299
+aVQuinton Ross WAS 02/24/2010 WAS vs. MEM L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p300
+aVNick Young WAS 02/22/2010 WAS vs. CHI W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -5
+p301
+aVFabricio Oberto WAS 02/22/2010 WAS vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p302
+aVMike Miller WAS 02/22/2010 WAS vs. CHI W 34 8 3 7 42.9 2 5 40.0 0 0 - 0 4 4 5 1 0 1 3 13
+p303
+aVAl Thornton WAS 02/22/2010 WAS vs. CHI W 30 17 8 17 47.1 1 1 100.0 0 0 - 2 5 7 0 1 0 3 2 3
+p304
+aVJosh Howard WAS 02/22/2010 WAS vs. CHI W 8 7 2 4 50.0 0 0 - 3 3 100.0 0 1 1 0 0 1 1 1 2
+p305
+aVEarl Boykins WAS 02/22/2010 WAS vs. CHI W 11 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -1
+p306
+aVJaVale McGee WAS 02/22/2010 WAS vs. CHI W 22 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 1 1 2 12
+p307
+aVJames Singleton WAS 02/22/2010 WAS vs. CHI W 28 9 4 10 40.0 0 1 0.0 1 2 50.0 4 8 12 0 0 3 3 4 -4
+p308
+aVAndray Blatche WAS 02/22/2010 WAS vs. CHI W 41 25 8 13 61.5 0 1 0.0 9 9 100.0 4 7 11 2 2 2 3 2 5
+p309
+aVRandy Foye WAS 02/22/2010 WAS vs. CHI W 37 16 7 13 53.8 0 3 0.0 2 3 66.7 0 1 1 9 1 0 1 2 9
+p310
+aVQuinton Ross WAS 02/22/2010 WAS vs. CHI W 18 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p311
+aVJames Singleton WAS 02/20/2010 WAS @ TOR L 19 6 3 5 60.0 0 1 0.0 0 0 - 2 2 4 0 1 0 1 2 -7
+p312
+aVAl Thornton WAS 02/20/2010 WAS @ TOR L 29 10 5 9 55.6 0 0 - 0 2 0.0 1 0 1 1 0 1 0 3 -10
+p313
+aVFabricio Oberto WAS 02/20/2010 WAS @ TOR L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -1
+p314
+aVRandy Foye WAS 02/20/2010 WAS @ TOR L 30 14 5 13 38.5 3 4 75.0 1 1 100.0 0 0 0 6 0 0 2 2 -6
+p315
+aVJaVale McGee WAS 02/20/2010 WAS @ TOR L 23 10 4 6 66.7 0 0 - 2 3 66.7 1 3 4 0 1 0 0 1 8
+p316
+aVEarl Boykins WAS 02/20/2010 WAS @ TOR L 21 9 4 7 57.1 0 1 0.0 1 1 100.0 0 1 1 3 0 0 0 0 -4
+p317
+aVAndray Blatche WAS 02/20/2010 WAS @ TOR L 33 24 11 21 52.4 0 1 0.0 2 3 66.7 3 3 6 3 1 2 1 3 -4
+p318
+aVNick Young WAS 02/20/2010 WAS @ TOR L 4 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -6
+p319
+aVJosh Howard WAS 02/20/2010 WAS @ TOR L 33 17 5 17 29.4 1 4 25.0 6 8 75.0 3 4 7 4 0 1 0 5 3
+p320
+aVQuinton Ross WAS 02/20/2010 WAS @ TOR L 10 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 1 1 0 0 3 -5
+p321
+aVMike Miller WAS 02/20/2010 WAS @ TOR L 30 7 3 4 75.0 1 1 100.0 0 0 - 4 3 7 1 0 0 8 3 7
+p322
+aVFabricio Oberto WAS 02/19/2010 WAS vs. DEN W 14 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -3
+p323
+aVJosh Howard WAS 02/19/2010 WAS vs. DEN W 23 20 8 11 72.7 1 3 33.3 3 3 100.0 1 3 4 0 0 0 0 4 25
+p324
+aVJames Singleton WAS 02/19/2010 WAS vs. DEN W 20 7 2 5 40.0 1 2 50.0 2 2 100.0 3 6 9 1 1 2 1 4 13
+p325
+aVMike Miller WAS 02/19/2010 WAS vs. DEN W 25 6 1 6 16.7 1 3 33.3 3 4 75.0 1 2 3 7 1 0 1 1 -8
+p326
+aVEarl Boykins WAS 02/19/2010 WAS vs. DEN W 28 12 4 11 36.4 0 1 0.0 4 4 100.0 0 4 4 5 1 0 2 1 18
+p327
+aVRandy Foye WAS 02/19/2010 WAS vs. DEN W 20 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 -6
+p328
+aVAndray Blatche WAS 02/19/2010 WAS vs. DEN W 28 18 8 13 61.5 0 0 - 2 2 100.0 3 8 11 3 1 0 2 4 -3
+p329
+aVAl Thornton WAS 02/19/2010 WAS vs. DEN W 32 21 7 12 58.3 0 1 0.0 7 9 77.8 3 2 5 1 2 4 1 1 12
+p330
+aVNick Young WAS 02/19/2010 WAS vs. DEN W 23 12 5 9 55.6 2 3 66.7 0 0 - 0 2 2 1 0 0 0 4 18
+p331
+aVQuinton Ross WAS 02/19/2010 WAS vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p332
+aVJaVale McGee WAS 02/19/2010 WAS vs. DEN W 22 9 4 13 30.8 0 0 - 1 1 100.0 2 5 7 0 0 3 1 2 -6
+p333
+aVNick Young WAS 02/17/2010 WAS vs. MIN W 15 3 1 7 14.3 1 3 33.3 0 0 - 0 1 1 1 1 0 0 0 7
+p334
+aVQuinton Ross WAS 02/17/2010 WAS vs. MIN W 11 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -11
+p335
+aVMike Miller WAS 02/17/2010 WAS vs. MIN W 44 17 5 8 62.5 5 5 100.0 2 2 100.0 3 3 6 5 2 0 0 1 18
+p336
+aVRandy Foye WAS 02/17/2010 WAS vs. MIN W 27 8 3 10 30.0 0 3 0.0 2 2 100.0 0 2 2 6 0 0 3 2 -13
+p337
+aVFabricio Oberto WAS 02/17/2010 WAS vs. MIN W 14 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 1 1 0 2 7
+p338
+aVJosh Howard WAS 02/17/2010 WAS vs. MIN W 27 14 5 14 35.7 1 4 25.0 3 6 50.0 0 1 1 0 3 0 2 3 4
+p339
+aVEarl Boykins WAS 02/17/2010 WAS vs. MIN W 20 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 8 2 0 2 1 22
+p340
+aVJaVale McGee WAS 02/17/2010 WAS vs. MIN W 23 14 7 10 70.0 0 0 - 0 5 0.0 6 5 11 1 1 4 3 3 -6
+p341
+aVAndray Blatche WAS 02/17/2010 WAS vs. MIN W 36 33 14 22 63.6 0 0 - 5 7 71.4 3 10 13 1 2 1 3 4 4
+p342
+aVJames Singleton WAS 02/17/2010 WAS vs. MIN W 23 6 2 6 33.3 0 1 0.0 2 2 100.0 3 4 7 0 1 1 1 4 13
+p343
+aVDominic McGuire WAS 02/09/2010 WAS @ CHA L 9 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 9
+p344
+aVNick Young WAS 02/09/2010 WAS @ CHA L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p345
+aVJaVale McGee WAS 02/09/2010 WAS @ CHA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p346
+aVBrendan Haywood WAS 02/09/2010 WAS @ CHA L 30 12 3 5 60.0 0 0 - 6 8 75.0 4 7 11 0 0 2 0 3 -1
+p347
+aVAndray Blatche WAS 02/09/2010 WAS @ CHA L 19 15 5 8 62.5 1 1 100.0 4 4 100.0 1 1 2 0 0 1 1 4 1
+p348
+aVCaron Butler WAS 02/09/2010 WAS @ CHA L 47 23 10 23 43.5 1 6 16.7 2 2 100.0 0 4 4 8 1 0 5 5 -7
+p349
+aVDeShawn Stevenson WAS 02/09/2010 WAS @ CHA L 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p350
+aVRandy Foye WAS 02/09/2010 WAS @ CHA L 33 5 2 9 22.2 0 3 0.0 1 2 50.0 0 3 3 7 0 0 0 1 4
+p351
+aVAntawn Jamison WAS 02/09/2010 WAS @ CHA L 38 16 6 18 33.3 1 4 25.0 3 4 75.0 3 3 6 1 1 0 1 3 3
+p352
+aVEarl Boykins WAS 02/09/2010 WAS @ CHA L 15 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 1 0 1 0 -6
+p353
+aVMike Miller WAS 02/09/2010 WAS @ CHA L 35 19 8 10 80.0 3 3 100.0 0 0 - 1 5 6 3 2 2 0 2 -6
+p354
+aVAntawn Jamison WAS 02/05/2010 WAS @ ORL W 39 9 4 12 33.3 1 5 20.0 0 0 - 2 7 9 0 0 0 1 1 -2
+p355
+aVBrendan Haywood WAS 02/05/2010 WAS @ ORL W 31 5 2 4 50.0 0 0 - 1 2 50.0 1 9 10 0 0 2 5 5 2
+p356
+aVDominic McGuire WAS 02/05/2010 WAS @ ORL W 15 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 1 1 2 -3
+p357
+aVMike Miller WAS 02/05/2010 WAS @ ORL W 26 9 3 5 60.0 1 1 100.0 2 2 100.0 0 8 8 2 1 0 3 5 -5
+p358
+aVCaron Butler WAS 02/05/2010 WAS @ ORL W 43 31 11 22 50.0 1 4 25.0 8 8 100.0 3 6 9 2 1 0 3 3 -2
+p359
+aVJaVale McGee WAS 02/05/2010 WAS @ ORL W 8 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 1 0
+p360
+aVNick Young WAS 02/05/2010 WAS @ ORL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p361
+aVAndray Blatche WAS 02/05/2010 WAS @ ORL W 18 8 4 10 40.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 1
+p362
+aVDeShawn Stevenson WAS 02/05/2010 WAS @ ORL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 9
+p363
+aVRandy Foye WAS 02/05/2010 WAS @ ORL W 35 22 6 14 42.9 1 3 33.3 9 10 90.0 0 7 7 7 0 1 4 3 3
+p364
+aVEarl Boykins WAS 02/05/2010 WAS @ ORL W 13 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -1
+p365
+aVDominic McGuire WAS 02/03/2010 WAS @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p366
+aVMike James WAS 02/03/2010 WAS @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p367
+aVRandy Foye WAS 02/03/2010 WAS @ NYK L 31 15 7 14 50.0 1 3 33.3 0 0 - 0 1 1 1 2 0 3 1 -22
+p368
+aVMike Miller WAS 02/03/2010 WAS @ NYK L 41 12 5 8 62.5 2 3 66.7 0 0 - 0 5 5 2 2 0 4 4 -19
+p369
+aVNick Young WAS 02/03/2010 WAS @ NYK L 28 15 5 14 35.7 2 8 25.0 3 3 100.0 0 1 1 1 0 1 2 0 -10
+p370
+aVFabricio Oberto WAS 02/03/2010 WAS @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p371
+aVEarl Boykins WAS 02/03/2010 WAS @ NYK L 23 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 6 0 0 2 1 -1
+p372
+aVBrendan Haywood WAS 02/03/2010 WAS @ NYK L 24 12 6 8 75.0 0 0 - 0 0 - 3 5 8 0 0 4 1 3 -21
+p373
+aVDeShawn Stevenson WAS 02/03/2010 WAS @ NYK L 17 0 0 4 0.0 0 3 0.0 0 0 - 0 4 4 0 0 0 1 1 -2
+p374
+aVAndray Blatche WAS 02/03/2010 WAS @ NYK L 21 14 7 10 70.0 0 0 - 0 0 - 1 2 3 1 1 1 0 2 5
+p375
+aVJaVale McGee WAS 02/03/2010 WAS @ NYK L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p376
+aVAntawn Jamison WAS 02/03/2010 WAS @ NYK L 41 11 4 10 40.0 0 1 0.0 3 4 75.0 0 6 6 2 3 1 1 0 -15
+p377
+aVFabricio Oberto WAS 02/01/2010 WAS vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p378
+aVRandy Foye WAS 02/01/2010 WAS vs. BOS L 18 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 4 0 0 2 2 -13
+p379
+aVAntawn Jamison WAS 02/01/2010 WAS vs. BOS L 40 8 2 17 11.8 0 4 0.0 4 6 66.7 0 8 8 2 2 0 1 5 -4
+p380
+aVCaron Butler WAS 02/01/2010 WAS vs. BOS L 41 20 6 15 40.0 0 2 0.0 8 8 100.0 2 9 11 2 3 0 6 3 -14
+p381
+aVEarl Boykins WAS 02/01/2010 WAS vs. BOS L 31 14 5 9 55.6 0 0 - 4 4 100.0 0 0 0 3 1 0 2 2 2
+p382
+aVBrendan Haywood WAS 02/01/2010 WAS vs. BOS L 29 12 4 6 66.7 0 0 - 4 4 100.0 2 3 5 0 1 0 0 3 -15
+p383
+aVNick Young WAS 02/01/2010 WAS vs. BOS L 14 10 3 5 60.0 0 0 - 4 5 80.0 0 0 0 1 0 0 0 4 -1
+p384
+aVAndray Blatche WAS 02/01/2010 WAS vs. BOS L 22 9 3 10 30.0 0 0 - 3 4 75.0 2 2 4 1 3 1 0 2 -1
+p385
+aVMike Miller WAS 02/01/2010 WAS vs. BOS L 41 13 5 7 71.4 1 2 50.0 2 3 66.7 3 4 7 2 0 1 1 1 -7
+p386
+aVMike Miller WAS 01/30/2010 WAS vs. NYK W 43 25 9 15 60.0 7 10 70.0 0 0 - 2 7 9 8 1 0 4 3 8
+p387
+aVDominic McGuire WAS 01/30/2010 WAS vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p388
+aVEarl Boykins WAS 01/30/2010 WAS vs. NYK W 16 9 3 6 50.0 0 2 0.0 3 4 75.0 0 0 0 0 0 0 1 0 -5
+p389
+aVNick Young WAS 01/30/2010 WAS vs. NYK W 19 10 3 11 27.3 2 2 100.0 2 2 100.0 0 2 2 1 1 0 0 2 -10
+p390
+aVAndray Blatche WAS 01/30/2010 WAS vs. NYK W 26 10 5 10 50.0 0 0 - 0 0 - 6 3 9 1 1 1 2 2 -4
+p391
+aVCaron Butler WAS 01/30/2010 WAS vs. NYK W 34 10 5 14 35.7 0 1 0.0 0 0 - 3 3 6 4 1 0 2 3 22
+p392
+aVAntawn Jamison WAS 01/30/2010 WAS vs. NYK W 45 21 10 26 38.5 0 1 0.0 1 3 33.3 11 12 23 3 0 0 2 4 13
+p393
+aVRandy Foye WAS 01/30/2010 WAS vs. NYK W 32 14 6 12 50.0 2 5 40.0 0 0 - 0 0 0 5 0 0 2 3 15
+p394
+aVBrendan Haywood WAS 01/30/2010 WAS vs. NYK W 25 7 3 4 75.0 0 0 - 1 1 100.0 2 8 10 1 0 0 1 2 11
+p395
+aVAndray Blatche WAS 01/29/2010 WAS @ NJN W 24 14 4 7 57.1 0 0 - 6 6 100.0 3 3 6 1 1 0 1 4 13
+p396
+aVFabricio Oberto WAS 01/29/2010 WAS @ NJN W 19 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 2 1 6 7
+p397
+aVMike Miller WAS 01/29/2010 WAS @ NJN W 39 7 3 9 33.3 1 5 20.0 0 0 - 5 7 12 1 2 0 4 3 -1
+p398
+aVBrendan Haywood WAS 01/29/2010 WAS @ NJN W 28 8 3 4 75.0 0 0 - 2 3 66.7 3 3 6 1 0 3 4 3 -5
+p399
+aVCaron Butler WAS 01/29/2010 WAS @ NJN W 31 8 3 9 33.3 0 1 0.0 2 2 100.0 1 3 4 1 1 2 2 2 -7
+p400
+aVEarl Boykins WAS 01/29/2010 WAS @ NJN W 31 15 7 13 53.8 0 0 - 1 2 50.0 1 4 5 1 0 0 3 0 17
+p401
+aVRandy Foye WAS 01/29/2010 WAS @ NJN W 19 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -14
+p402
+aVAntawn Jamison WAS 01/29/2010 WAS @ NJN W 25 9 3 13 23.1 1 5 20.0 2 2 100.0 1 4 5 2 1 0 3 3 -11
+p403
+aVNick Young WAS 01/29/2010 WAS @ NJN W 16 10 4 9 44.4 1 3 33.3 1 2 50.0 1 0 1 0 0 0 0 2 7
+p404
+aVDeShawn Stevenson WAS 01/29/2010 WAS @ NJN W 9 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 0 1 0 1 4
+p405
+aVMike James WAS 01/26/2010 WAS vs. LAL L 2 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 1 0 -4
+p406
+aVDominic McGuire WAS 01/26/2010 WAS vs. LAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p407
+aVEarl Boykins WAS 01/26/2010 WAS vs. LAL L 22 2 1 6 16.7 0 0 - 0 0 - 0 1 1 4 0 0 0 0 -7
+p408
+aVCaron Butler WAS 01/26/2010 WAS vs. LAL L 36 18 7 13 53.8 1 3 33.3 3 3 100.0 1 7 8 3 3 0 0 4 -2
+p409
+aVJaVale McGee WAS 01/26/2010 WAS vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p410
+aVMike Miller WAS 01/26/2010 WAS vs. LAL L 36 15 7 12 58.3 1 4 25.0 0 0 - 3 2 5 4 1 0 3 1 -9
+p411
+aVRandy Foye WAS 01/26/2010 WAS vs. LAL L 32 11 5 12 41.7 1 4 25.0 0 0 - 1 2 3 4 1 0 1 2 3
+p412
+aVAndray Blatche WAS 01/26/2010 WAS vs. LAL L 19 10 5 8 62.5 0 0 - 0 0 - 2 2 4 0 0 0 1 4 -7
+p413
+aVBrendan Haywood WAS 01/26/2010 WAS vs. LAL L 31 11 4 6 66.7 0 0 - 3 5 60.0 4 4 8 1 0 0 1 3 -9
+p414
+aVAntawn Jamison WAS 01/26/2010 WAS vs. LAL L 46 27 11 23 47.8 2 4 50.0 3 4 75.0 3 8 11 0 0 0 1 4 -8
+p415
+aVDeShawn Stevenson WAS 01/26/2010 WAS vs. LAL L 15 8 3 6 50.0 2 5 40.0 0 0 - 0 1 1 2 0 0 1 2 -13
+p416
+aVDeShawn Stevenson WAS 01/24/2010 WAS vs. LAC L 12 5 2 7 28.6 0 2 0.0 1 1 100.0 0 0 0 0 0 0 1 2 -16
+p417
+aVRandy Foye WAS 01/24/2010 WAS vs. LAC L 27 6 3 9 33.3 0 0 - 0 0 - 1 3 4 3 0 0 1 4 -13
+p418
+aVEarl Boykins WAS 01/24/2010 WAS vs. LAC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p419
+aVMike James WAS 01/24/2010 WAS vs. LAC L 19 11 4 11 36.4 2 5 40.0 1 2 50.0 0 1 1 2 2 0 3 1 3
+p420
+aVAntawn Jamison WAS 01/24/2010 WAS vs. LAC L 39 20 8 16 50.0 3 3 100.0 1 4 25.0 4 6 10 2 1 0 4 1 -15
+p421
+aVFabricio Oberto WAS 01/24/2010 WAS vs. LAC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p422
+aVMike Miller WAS 01/24/2010 WAS vs. LAC L 33 8 3 8 37.5 0 4 0.0 2 2 100.0 0 6 6 3 1 0 2 3 3
+p423
+aVNick Young WAS 01/24/2010 WAS vs. LAC L 5 0 0 3 0.0 0 1 0.0 0 2 0.0 0 0 0 1 1 0 0 1 -1
+p424
+aVAndray Blatche WAS 01/24/2010 WAS vs. LAC L 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 1 2 0 -3
+p425
+aVCaron Butler WAS 01/24/2010 WAS vs. LAC L 43 10 5 17 29.4 0 2 0.0 0 0 - 1 7 8 4 1 2 2 1 -13
+p426
+aVBrendan Haywood WAS 01/24/2010 WAS vs. LAC L 39 18 7 8 87.5 0 0 - 4 6 66.7 7 5 12 1 0 3 3 4 -5
+p427
+aVFabricio Oberto WAS 01/22/2010 WAS vs. MIA L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p428
+aVDeShawn Stevenson WAS 01/22/2010 WAS vs. MIA L 12 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 -5
+p429
+aVJaVale McGee WAS 01/22/2010 WAS vs. MIA L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 4 0 1 -8
+p430
+aVAndray Blatche WAS 01/22/2010 WAS vs. MIA L 32 19 5 9 55.6 1 1 100.0 8 10 80.0 6 5 11 3 0 0 2 2 -15
+p431
+aVDominic McGuire WAS 01/22/2010 WAS vs. MIA L 5 2 1 2 50.0 0 0 - 0 1 0.0 2 0 2 0 0 0 1 0 -3
+p432
+aVNick Young WAS 01/22/2010 WAS vs. MIA L 17 13 5 10 50.0 3 5 60.0 0 0 - 0 0 0 0 1 0 1 2 -5
+p433
+aVCaron Butler WAS 01/22/2010 WAS vs. MIA L 33 14 5 13 38.5 0 0 - 4 5 80.0 1 1 2 1 0 0 0 2 -20
+p434
+aVMike Miller WAS 01/22/2010 WAS vs. MIA L 24 3 1 6 16.7 1 5 20.0 0 0 - 2 6 8 2 0 0 1 1 -20
+p435
+aVAntawn Jamison WAS 01/22/2010 WAS vs. MIA L 28 8 4 14 28.6 0 2 0.0 0 0 - 0 5 5 0 1 0 1 0 -2
+p436
+aVBrendan Haywood WAS 01/22/2010 WAS vs. MIA L 17 2 1 2 50.0 0 0 - 0 1 0.0 0 2 2 0 0 0 1 1 -19
+p437
+aVEarl Boykins WAS 01/22/2010 WAS vs. MIA L 24 9 4 9 44.4 1 3 33.3 0 0 - 1 0 1 5 1 0 2 1 -1
+p438
+aVRandy Foye WAS 01/22/2010 WAS vs. MIA L 30 14 5 11 45.5 2 3 66.7 2 2 100.0 0 2 2 2 2 0 1 1 -18
+p439
+aVAndray Blatche WAS 01/20/2010 WAS vs. DAL L 17 8 4 7 57.1 0 0 - 0 0 - 2 2 4 1 1 2 0 3 2
+p440
+aVMike Miller WAS 01/20/2010 WAS vs. DAL L 31 8 3 5 60.0 2 2 100.0 0 0 - 0 3 3 4 1 0 1 3 9
+p441
+aVDominic McGuire WAS 01/20/2010 WAS vs. DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p442
+aVRandy Foye WAS 01/20/2010 WAS vs. DAL L 35 26 9 14 64.3 2 3 66.7 6 6 100.0 0 1 1 3 1 1 3 3 -6
+p443
+aVEarl Boykins WAS 01/20/2010 WAS vs. DAL L 17 11 5 10 50.0 1 2 50.0 0 0 - 1 0 1 3 0 0 1 0 1
+p444
+aVAntawn Jamison WAS 01/20/2010 WAS vs. DAL L 36 7 2 10 20.0 0 3 0.0 3 4 75.0 1 2 3 3 2 0 4 2 4
+p445
+aVBrendan Haywood WAS 01/20/2010 WAS vs. DAL L 37 13 6 11 54.5 0 0 - 1 2 50.0 8 10 18 0 0 2 1 0 1
+p446
+aVCaron Butler WAS 01/20/2010 WAS vs. DAL L 43 20 7 20 35.0 0 1 0.0 6 8 75.0 2 8 10 1 1 0 1 3 6
+p447
+aVDeShawn Stevenson WAS 01/20/2010 WAS vs. DAL L 17 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 0 -12
+p448
+aVNick Young WAS 01/20/2010 WAS vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p449
+aVJaVale McGee WAS 01/20/2010 WAS vs. DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p450
+aVAndray Blatche WAS 01/18/2010 WAS vs. POR W 14 8 3 7 42.9 0 1 0.0 2 2 100.0 0 3 3 0 0 0 2 1 1
+p451
+aVDeShawn Stevenson WAS 01/18/2010 WAS vs. POR W 21 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -2
+p452
+aVDominic McGuire WAS 01/18/2010 WAS vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p453
+aVBrendan Haywood WAS 01/18/2010 WAS vs. POR W 39 5 2 5 40.0 0 0 - 1 2 50.0 3 5 8 0 0 1 0 4 4
+p454
+aVAntawn Jamison WAS 01/18/2010 WAS vs. POR W 42 28 10 21 47.6 1 3 33.3 7 8 87.5 1 3 4 1 2 0 3 4 5
+p455
+aVRandy Foye WAS 01/18/2010 WAS vs. POR W 39 19 6 10 60.0 0 0 - 7 8 87.5 1 2 3 5 1 0 2 1 12
+p456
+aVMike Miller WAS 01/18/2010 WAS vs. POR W 24 13 4 4 100.0 1 1 100.0 4 4 100.0 1 3 4 4 0 1 4 3 9
+p457
+aVCaron Butler WAS 01/18/2010 WAS vs. POR W 42 18 8 14 57.1 0 1 0.0 2 2 100.0 3 6 9 4 0 0 2 1 10
+p458
+aVEarl Boykins WAS 01/18/2010 WAS vs. POR W 15 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 -3
+p459
+aVNick Young WAS 01/18/2010 WAS vs. POR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p460
+aVBrendan Haywood WAS 01/16/2010 WAS vs. SAC W 29 10 4 10 40.0 0 0 - 2 2 100.0 7 3 10 0 1 3 0 2 10
+p461
+aVNick Young WAS 01/16/2010 WAS vs. SAC W 23 12 5 10 50.0 1 1 100.0 1 2 50.0 0 2 2 0 1 0 2 3 2
+p462
+aVAntawn Jamison WAS 01/16/2010 WAS vs. SAC W 41 14 6 17 35.3 0 4 0.0 2 4 50.0 1 8 9 2 0 0 0 2 15
+p463
+aVRandy Foye WAS 01/16/2010 WAS vs. SAC W 30 8 2 8 25.0 0 3 0.0 4 5 80.0 0 0 0 6 0 0 2 2 13
+p464
+aVCaron Butler WAS 01/16/2010 WAS vs. SAC W 34 19 6 12 50.0 1 3 33.3 6 7 85.7 1 5 6 1 1 0 1 3 7
+p465
+aVDeShawn Stevenson WAS 01/16/2010 WAS vs. SAC W 20 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 3 0 0 1 0 8
+p466
+aVAndray Blatche WAS 01/16/2010 WAS vs. SAC W 18 7 3 6 50.0 0 1 0.0 1 2 50.0 0 3 3 2 0 1 2 4 -3
+p467
+aVEarl Boykins WAS 01/16/2010 WAS vs. SAC W 20 13 6 10 60.0 0 0 - 1 1 100.0 0 2 2 3 2 0 0 2 -3
+p468
+aVDominic McGuire WAS 01/16/2010 WAS vs. SAC W 13 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 1 0 1 3 1
+p469
+aVJaVale McGee WAS 01/16/2010 WAS vs. SAC W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 4 1 2 0
+p470
+aVCaron Butler WAS 01/15/2010 WAS @ CHI L 56 27 10 26 38.5 1 5 20.0 6 6 100.0 1 7 8 2 1 1 1 5 4
+p471
+aVEarl Boykins WAS 01/15/2010 WAS @ CHI L 11 8 4 5 80.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -8
+p472
+aVFabricio Oberto WAS 01/15/2010 WAS @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p473
+aVBrendan Haywood WAS 01/15/2010 WAS @ CHI L 48 16 7 11 63.6 0 0 - 2 6 33.3 9 11 20 0 0 2 2 5 5
+p474
+aVDominic McGuire WAS 01/15/2010 WAS @ CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p475
+aVNick Young WAS 01/15/2010 WAS @ CHI L 12 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 4 -2
+p476
+aVAntawn Jamison WAS 01/15/2010 WAS @ CHI L 55 34 11 25 44.0 3 9 33.3 9 14 64.3 4 14 18 5 1 0 0 2 -1
+p477
+aVAndray Blatche WAS 01/15/2010 WAS @ CHI L 10 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 1 0 1 0 3 -5
+p478
+aVDeShawn Stevenson WAS 01/15/2010 WAS @ CHI L 46 6 2 4 50.0 2 3 66.7 0 0 - 1 1 2 5 0 0 1 2 0
+p479
+aVRandy Foye WAS 01/15/2010 WAS @ CHI L 48 22 10 23 43.5 0 3 0.0 2 2 100.0 0 3 3 7 2 1 1 1 6
+p480
+aVAndray Blatche WAS 01/13/2010 WAS @ ATL L 17 6 1 7 14.3 0 1 0.0 4 5 80.0 3 1 4 1 0 0 1 5 -21
+p481
+aVAntawn Jamison WAS 01/13/2010 WAS @ ATL L 46 25 10 22 45.5 2 4 50.0 3 5 60.0 5 14 19 3 1 0 2 1 -4
+p482
+aVDeShawn Stevenson WAS 01/13/2010 WAS @ ATL L 20 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 0 8
+p483
+aVCaron Butler WAS 01/13/2010 WAS @ ATL L 42 15 6 18 33.3 1 1 100.0 2 2 100.0 2 9 11 3 0 0 3 3 -1
+p484
+aVBrendan Haywood WAS 01/13/2010 WAS @ ATL L 34 13 3 7 42.9 0 0 - 7 7 100.0 6 4 10 0 0 0 2 3 -1
+p485
+aVRandy Foye WAS 01/13/2010 WAS @ ATL L 46 18 7 15 46.7 2 5 40.0 2 2 100.0 0 4 4 8 1 0 3 2 -7
+p486
+aVEarl Boykins WAS 01/13/2010 WAS @ ATL L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -20
+p487
+aVNick Young WAS 01/13/2010 WAS @ ATL L 21 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -5
+p488
+aVDominic McGuire WAS 01/13/2010 WAS @ ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p489
+aVCaron Butler WAS 01/12/2010 WAS vs. DET L 44 14 7 17 41.2 0 2 0.0 0 0 - 0 4 4 2 1 1 1 3 -3
+p490
+aVBrendan Haywood WAS 01/12/2010 WAS vs. DET L 37 7 2 5 40.0 0 0 - 3 6 50.0 4 11 15 0 0 0 1 5 -4
+p491
+aVDominic McGuire WAS 01/12/2010 WAS vs. DET L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -11
+p492
+aVRandy Foye WAS 01/12/2010 WAS vs. DET L 37 20 8 15 53.3 2 3 66.7 2 3 66.7 1 4 5 10 1 1 2 4 -2
+p493
+aVJaVale McGee WAS 01/12/2010 WAS vs. DET L 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -5
+p494
+aVEarl Boykins WAS 01/12/2010 WAS vs. DET L 20 8 3 6 50.0 2 2 100.0 0 0 - 1 0 1 1 0 0 0 0 -14
+p495
+aVDeShawn Stevenson WAS 01/12/2010 WAS vs. DET L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 3 1 0 1 0 2
+p496
+aVAntawn Jamison WAS 01/12/2010 WAS vs. DET L 45 31 11 19 57.9 3 5 60.0 6 8 75.0 3 7 10 0 0 1 0 0 -4
+p497
+aVNick Young WAS 01/12/2010 WAS vs. DET L 29 8 2 9 22.2 2 4 50.0 2 2 100.0 0 1 1 4 0 0 4 4 -4
+p498
+aVEarl Boykins WAS 01/10/2010 WAS vs. NOH L 14 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 2 -6
+p499
+aVAntawn Jamison WAS 01/10/2010 WAS vs. NOH L 44 32 13 21 61.9 2 7 28.6 4 6 66.7 1 7 8 2 0 0 2 2 6
+p500
+aVNick Young WAS 01/10/2010 WAS vs. NOH L 37 20 7 10 70.0 2 3 66.7 4 7 57.1 2 4 6 1 1 0 2 4 2
+p501
+aVCaron Butler WAS 01/10/2010 WAS vs. NOH L 43 12 5 13 38.5 0 0 - 2 2 100.0 0 6 6 6 2 0 3 4 -3
+p502
+aVMike Miller WAS 01/10/2010 WAS vs. NOH L 15 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 3 3 -15
+p503
+aVAndray Blatche WAS 01/10/2010 WAS vs. NOH L 17 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 2 3 2 -16
+p504
+aVRandy Foye WAS 01/10/2010 WAS vs. NOH L 37 23 8 17 47.1 1 4 25.0 6 6 100.0 0 4 4 8 1 1 3 4 1
+p505
+aVBrendan Haywood WAS 01/10/2010 WAS vs. NOH L 34 12 6 6 100.0 0 0 - 0 0 - 4 9 13 0 1 4 1 2 9
+p506
+aVDominic McGuire WAS 01/10/2010 WAS vs. NOH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p507
+aVAntawn Jamison WAS 01/08/2010 WAS vs. ORL W 42 28 10 21 47.6 1 3 33.3 7 10 70.0 1 10 11 1 2 0 1 3 3
+p508
+aVNick Young WAS 01/08/2010 WAS vs. ORL W 14 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p509
+aVCaron Butler WAS 01/08/2010 WAS vs. ORL W 38 23 7 16 43.8 1 3 33.3 8 8 100.0 2 5 7 1 1 2 4 3 16
+p510
+aVDeShawn Stevenson WAS 01/08/2010 WAS vs. ORL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p511
+aVBrendan Haywood WAS 01/08/2010 WAS vs. ORL W 34 18 6 6 100.0 0 0 - 6 6 100.0 4 11 15 0 0 1 2 4 15
+p512
+aVFabricio Oberto WAS 01/08/2010 WAS vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -2
+p513
+aVRandy Foye WAS 01/08/2010 WAS vs. ORL W 34 20 5 17 29.4 2 7 28.6 8 8 100.0 0 4 4 6 0 2 0 3 22
+p514
+aVAndray Blatche WAS 01/08/2010 WAS vs. ORL W 15 4 2 8 25.0 0 0 - 0 0 - 5 3 8 0 0 0 1 2 -1
+p515
+aVEarl Boykins WAS 01/08/2010 WAS vs. ORL W 14 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 3 1 0 2 0 -15
+p516
+aVMike Miller WAS 01/08/2010 WAS vs. ORL W 39 6 2 5 40.0 1 1 100.0 1 2 50.0 2 4 6 6 0 0 5 1 18
+p517
+aVBrendan Haywood WAS 01/06/2010 WAS @ CLE L 27 4 1 4 25.0 0 0 - 2 4 50.0 2 5 7 0 0 3 1 4 -18
+p518
+aVEarl Boykins WAS 01/06/2010 WAS @ CLE L 19 10 5 7 71.4 0 0 - 0 0 - 0 1 1 6 0 1 0 0 -8
+p519
+aVRandy Foye WAS 01/06/2010 WAS @ CLE L 29 18 8 12 66.7 2 5 40.0 0 0 - 0 2 2 2 0 0 3 2 -15
+p520
+aVDominic McGuire WAS 01/06/2010 WAS @ CLE L 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -1
+p521
+aVNick Young WAS 01/06/2010 WAS @ CLE L 37 14 5 18 27.8 2 6 33.3 2 2 100.0 2 1 3 3 1 0 0 4 -19
+p522
+aVJaVale McGee WAS 01/06/2010 WAS @ CLE L 10 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -1
+p523
+aVAndray Blatche WAS 01/06/2010 WAS @ CLE L 20 10 5 14 35.7 0 0 - 0 0 - 2 1 3 1 2 0 3 2 -7
+p524
+aVAntawn Jamison WAS 01/06/2010 WAS @ CLE L 28 26 7 15 46.7 3 4 75.0 9 10 90.0 0 2 2 1 1 0 0 3 -16
+p525
+aVDeShawn Stevenson WAS 01/06/2010 WAS @ CLE L 15 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 1 1 0 -4
+p526
+aVCaron Butler WAS 01/06/2010 WAS @ CLE L 38 8 3 9 33.3 0 0 - 2 2 100.0 0 4 4 3 1 0 2 4 -22
+p527
+aVFabricio Oberto WAS 01/06/2010 WAS @ CLE L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -4
+p528
+aVEarl Boykins WAS 01/05/2010 WAS @ PHI W 6 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -7
+p529
+aVCaron Butler WAS 01/05/2010 WAS @ PHI W 36 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 4 2 0 1 1 0
+p530
+aVDeShawn Stevenson WAS 01/05/2010 WAS @ PHI W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 10
+p531
+aVJaVale McGee WAS 01/05/2010 WAS @ PHI W 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -3
+p532
+aVAndray Blatche WAS 01/05/2010 WAS @ PHI W 38 12 5 8 62.5 0 1 0.0 2 4 50.0 1 2 3 3 1 2 5 4 11
+p533
+aVGilbert Arenas WAS 01/05/2010 WAS @ PHI W 38 19 6 15 40.0 1 5 20.0 6 8 75.0 0 1 1 14 2 0 2 4 16
+p534
+aVRandy Foye WAS 01/05/2010 WAS @ PHI W 13 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 4 -13
+p535
+aVFabricio Oberto WAS 01/05/2010 WAS @ PHI W 21 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 2 0 1 3 -2
+p536
+aVNick Young WAS 01/05/2010 WAS @ PHI W 31 21 9 14 64.3 2 2 100.0 1 1 100.0 0 3 3 1 1 0 0 0 15
+p537
+aVAntawn Jamison WAS 01/05/2010 WAS @ PHI W 42 32 13 20 65.0 1 2 50.0 5 5 100.0 2 12 14 1 1 0 3 2 8
+p538
+aVAndray Blatche WAS 01/02/2010 WAS vs. SAS L 27 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 1 1 3 1 1 -10
+p539
+aVFabricio Oberto WAS 01/02/2010 WAS vs. SAS L 14 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 2 -2
+p540
+aVAntawn Jamison WAS 01/02/2010 WAS vs. SAS L 42 17 6 12 50.0 2 3 66.7 3 4 75.0 2 7 9 1 1 2 2 3 -14
+p541
+aVRandy Foye WAS 01/02/2010 WAS vs. SAS L 18 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p542
+aVBrendan Haywood WAS 01/02/2010 WAS vs. SAS L 30 4 2 5 40.0 0 0 - 0 0 - 2 7 9 0 0 1 1 4 -2
+p543
+aVCaron Butler WAS 01/02/2010 WAS vs. SAS L 47 24 10 21 47.6 1 2 50.0 3 5 60.0 1 5 6 1 1 0 3 4 -7
+p544
+aVDominic McGuire WAS 01/02/2010 WAS vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p545
+aVDeShawn Stevenson WAS 01/02/2010 WAS vs. SAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p546
+aVEarl Boykins WAS 01/02/2010 WAS vs. SAS L 19 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 5 1 0 0 1 -4
+p547
+aVGilbert Arenas WAS 01/02/2010 WAS vs. SAS L 35 23 10 25 40.0 1 4 25.0 2 2 100.0 0 3 3 8 0 0 1 3 -13
+p548
+aVAntawn Jamison WAS 12/29/2009 WAS vs. OKC L 41 28 12 25 48.0 1 1 100.0 3 4 75.0 2 1 3 1 0 0 1 1 -25
+p549
+aVNick Young WAS 12/29/2009 WAS vs. OKC L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -9
+p550
+aVEarl Boykins WAS 12/29/2009 WAS vs. OKC L 21 2 0 5 0.0 0 1 0.0 2 2 100.0 0 1 1 4 1 0 0 1 -1
+p551
+aVRandy Foye WAS 12/29/2009 WAS vs. OKC L 30 12 5 13 38.5 2 5 40.0 0 0 - 0 4 4 3 0 0 0 2 -6
+p552
+aVGilbert Arenas WAS 12/29/2009 WAS vs. OKC L 40 24 8 20 40.0 4 8 50.0 4 5 80.0 0 7 7 8 3 2 3 3 -6
+p553
+aVBrendan Haywood WAS 12/29/2009 WAS vs. OKC L 36 16 7 9 77.8 0 0 - 2 2 100.0 7 1 8 0 0 1 2 1 5
+p554
+aVCaron Butler WAS 12/29/2009 WAS vs. OKC L 39 10 3 11 27.3 1 3 33.3 3 5 60.0 1 4 5 3 3 0 1 3 -8
+p555
+aVAndray Blatche WAS 12/29/2009 WAS vs. OKC L 23 6 2 7 28.6 0 0 - 2 2 100.0 3 6 9 1 1 0 2 2 -8
+p556
+aVDominic McGuire WAS 12/29/2009 WAS vs. OKC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p557
+aVRandy Foye WAS 12/28/2009 WAS @ MEM L 23 11 4 6 66.7 0 1 0.0 3 3 100.0 0 1 1 3 0 0 1 5 -3
+p558
+aVGilbert Arenas WAS 12/28/2009 WAS @ MEM L 46 30 12 26 46.2 5 11 45.5 1 2 50.0 0 4 4 5 5 0 4 5 6
+p559
+aVBrendan Haywood WAS 12/28/2009 WAS @ MEM L 45 12 5 8 62.5 0 0 - 2 5 40.0 5 4 9 1 0 5 1 5 8
+p560
+aVDominic McGuire WAS 12/28/2009 WAS @ MEM L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -2
+p561
+aVDeShawn Stevenson WAS 12/28/2009 WAS @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p562
+aVAndray Blatche WAS 12/28/2009 WAS @ MEM L 20 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 2 0 1 4 2 -5
+p563
+aVCaron Butler WAS 12/28/2009 WAS @ MEM L 49 24 9 18 50.0 1 2 50.0 5 6 83.3 5 4 9 2 1 1 3 2 -3
+p564
+aVEarl Boykins WAS 12/28/2009 WAS @ MEM L 17 0 0 7 0.0 0 1 0.0 0 0 - 0 0 0 6 0 0 1 0 -8
+p565
+aVNick Young WAS 12/28/2009 WAS @ MEM L 18 7 2 5 40.0 1 2 50.0 2 3 66.7 0 1 1 0 1 0 1 1 0
+p566
+aVAntawn Jamison WAS 12/28/2009 WAS @ MEM L 41 24 8 22 36.4 3 5 60.0 5 6 83.3 4 9 13 0 1 0 1 3 -13
+p567
+aVRandy Foye WAS 12/26/2009 WAS @ MIN L 32 16 6 13 46.2 3 5 60.0 1 2 50.0 2 2 4 0 1 0 2 3 -17
+p568
+aVEarl Boykins WAS 12/26/2009 WAS @ MIN L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 3 1
+p569
+aVDominic McGuire WAS 12/26/2009 WAS @ MIN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -5
+p570
+aVAntawn Jamison WAS 12/26/2009 WAS @ MIN L 40 20 6 14 42.9 1 5 20.0 7 8 87.5 0 6 6 0 0 0 2 4 -13
+p571
+aVGilbert Arenas WAS 12/26/2009 WAS @ MIN L 42 26 10 28 35.7 1 7 14.3 5 7 71.4 2 5 7 9 0 0 7 4 -14
+p572
+aVCaron Butler WAS 12/26/2009 WAS @ MIN L 40 13 3 9 33.3 0 1 0.0 7 7 100.0 0 8 8 1 2 0 1 4 -3
+p573
+aVFabricio Oberto WAS 12/26/2009 WAS @ MIN L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p574
+aVNick Young WAS 12/26/2009 WAS @ MIN L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p575
+aVAndray Blatche WAS 12/26/2009 WAS @ MIN L 23 8 4 6 66.7 0 0 - 0 0 - 1 7 8 0 0 0 0 5 -3
+p576
+aVBrendan Haywood WAS 12/26/2009 WAS @ MIN L 31 2 1 4 25.0 0 0 - 0 0 - 2 8 10 1 0 2 2 3 0
+p577
+aVDominic McGuire WAS 12/23/2009 WAS @ MIL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p578
+aVNick Young WAS 12/23/2009 WAS @ MIL W 21 4 1 1 100.0 1 1 100.0 1 2 50.0 0 2 2 0 0 0 0 3 2
+p579
+aVAntawn Jamison WAS 12/23/2009 WAS @ MIL W 40 23 6 11 54.5 1 1 100.0 10 11 90.9 0 10 10 0 0 0 0 4 20
+p580
+aVEarl Boykins WAS 12/23/2009 WAS @ MIL W 19 15 5 8 62.5 2 2 100.0 3 3 100.0 0 1 1 2 1 0 2 0 6
+p581
+aVBrendan Haywood WAS 12/23/2009 WAS @ MIL W 36 5 2 4 50.0 0 0 - 1 2 50.0 1 8 9 0 1 6 0 5 8
+p582
+aVCaron Butler WAS 12/23/2009 WAS @ MIL W 43 25 10 17 58.8 0 1 0.0 5 5 100.0 0 10 10 1 2 0 3 4 11
+p583
+aVAndray Blatche WAS 12/23/2009 WAS @ MIL W 11 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 1 0 0 2 4 -7
+p584
+aVFabricio Oberto WAS 12/23/2009 WAS @ MIL W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 2 3 3
+p585
+aVRandy Foye WAS 12/23/2009 WAS @ MIL W 24 12 4 8 50.0 1 2 50.0 3 3 100.0 0 1 1 6 1 0 0 3 14
+p586
+aVGilbert Arenas WAS 12/23/2009 WAS @ MIL W 32 18 5 14 35.7 1 3 33.3 7 8 87.5 0 4 4 10 2 0 7 2 2
+p587
+aVNick Young WAS 12/22/2009 WAS vs. PHI W 20 13 5 10 50.0 2 5 40.0 1 2 50.0 0 1 1 0 1 0 0 2 -4
+p588
+aVEarl Boykins WAS 12/22/2009 WAS vs. PHI W 26 18 6 10 60.0 1 2 50.0 5 6 83.3 2 0 2 1 1 0 1 4 13
+p589
+aVDominic McGuire WAS 12/22/2009 WAS vs. PHI W 8 2 1 2 50.0 0 0 - 0 2 0.0 3 2 5 2 0 0 0 2 -3
+p590
+aVFabricio Oberto WAS 12/22/2009 WAS vs. PHI W 16 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -4
+p591
+aVBrendan Haywood WAS 12/22/2009 WAS vs. PHI W 24 2 1 4 25.0 0 0 - 0 0 - 1 5 6 2 0 1 2 1 2
+p592
+aVCaron Butler WAS 12/22/2009 WAS vs. PHI W 38 14 4 11 36.4 0 1 0.0 6 6 100.0 1 2 3 4 3 1 1 2 10
+p593
+aVAntawn Jamison WAS 12/22/2009 WAS vs. PHI W 33 7 1 6 16.7 0 0 - 5 6 83.3 1 4 5 3 1 0 1 3 8
+p594
+aVRandy Foye WAS 12/22/2009 WAS vs. PHI W 18 8 3 7 42.9 1 1 100.0 1 2 50.0 0 2 2 2 2 0 0 1 -3
+p595
+aVAndray Blatche WAS 12/22/2009 WAS vs. PHI W 22 10 5 9 55.6 0 0 - 0 0 - 1 4 5 1 0 1 2 3 8
+p596
+aVGilbert Arenas WAS 12/22/2009 WAS vs. PHI W 34 31 13 24 54.2 3 6 50.0 2 2 100.0 1 7 8 2 0 0 1 2 8
+p597
+aVEarl Boykins WAS 12/19/2009 WAS @ PHX L 14 1 0 4 0.0 0 1 0.0 1 1 100.0 0 0 0 2 0 0 0 0 -11
+p598
+aVDominic McGuire WAS 12/19/2009 WAS @ PHX L 18 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -2
+p599
+aVAndray Blatche WAS 12/19/2009 WAS @ PHX L 22 7 3 9 33.3 0 0 - 1 1 100.0 5 4 9 0 0 1 3 4 -7
+p600
+aVAntawn Jamison WAS 12/19/2009 WAS @ PHX L 29 15 7 15 46.7 1 4 25.0 0 0 - 1 3 4 0 0 0 0 1 -23
+p601
+aVBrendan Haywood WAS 12/19/2009 WAS @ PHX L 26 3 1 2 50.0 0 0 - 1 3 33.3 2 4 6 1 0 3 1 1 -17
+p602
+aVJaVale McGee WAS 12/19/2009 WAS @ PHX L 19 2 1 5 20.0 0 0 - 0 2 0.0 1 2 3 0 1 2 0 0 -5
+p603
+aVRandy Foye WAS 12/19/2009 WAS @ PHX L 19 13 3 7 42.9 1 4 25.0 6 6 100.0 0 1 1 4 0 0 1 3 -3
+p604
+aVGilbert Arenas WAS 12/19/2009 WAS @ PHX L 24 22 6 21 28.6 3 5 60.0 7 8 87.5 1 3 4 3 2 1 2 4 -21
+p605
+aVNick Young WAS 12/19/2009 WAS @ PHX L 28 20 6 9 66.7 2 3 66.7 6 6 100.0 0 5 5 1 0 1 0 4 -15
+p606
+aVCaron Butler WAS 12/19/2009 WAS @ PHX L 28 10 4 9 44.4 1 2 50.0 1 2 50.0 1 3 4 3 1 0 3 3 -18
+p607
+aVDeShawn Stevenson WAS 12/19/2009 WAS @ PHX L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -8
+p608
+aVAntawn Jamison WAS 12/18/2009 WAS @ GSW W 37 10 4 14 28.6 1 6 16.7 1 2 50.0 2 8 10 1 4 0 2 3 20
+p609
+aVGilbert Arenas WAS 12/18/2009 WAS @ GSW W 43 45 15 25 60.0 4 10 40.0 11 16 68.8 1 2 3 13 0 1 5 2 17
+p610
+aVDeShawn Stevenson WAS 12/18/2009 WAS @ GSW W 20 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 3 2 0 0 2 2
+p611
+aVDominic McGuire WAS 12/18/2009 WAS @ GSW W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -8
+p612
+aVBrendan Haywood WAS 12/18/2009 WAS @ GSW W 33 15 7 9 77.8 0 0 - 1 2 50.0 1 11 12 0 1 0 1 3 14
+p613
+aVCaron Butler WAS 12/18/2009 WAS @ GSW W 46 28 13 22 59.1 0 1 0.0 2 2 100.0 2 8 10 2 5 0 2 3 13
+p614
+aVAndray Blatche WAS 12/18/2009 WAS @ GSW W 22 8 4 12 33.3 0 0 - 0 0 - 3 3 6 0 0 0 3 2 -12
+p615
+aVEarl Boykins WAS 12/18/2009 WAS @ GSW W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -8
+p616
+aVRandy Foye WAS 12/18/2009 WAS @ GSW W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p617
+aVNick Young WAS 12/18/2009 WAS @ GSW W 23 7 1 4 25.0 0 2 0.0 5 6 83.3 0 2 2 0 1 0 2 4 12
+p618
+aVBrendan Haywood WAS 12/16/2009 WAS @ SAC L 35 9 4 7 57.1 0 0 - 1 2 50.0 6 8 14 2 0 2 0 2 1
+p619
+aVGilbert Arenas WAS 12/16/2009 WAS @ SAC L 38 33 10 22 45.5 3 6 50.0 10 12 83.3 2 4 6 6 2 0 4 6 4
+p620
+aVCaron Butler WAS 12/16/2009 WAS @ SAC L 39 16 7 19 36.8 0 2 0.0 2 2 100.0 2 5 7 1 2 0 2 2 3
+p621
+aVDeShawn Stevenson WAS 12/16/2009 WAS @ SAC L 21 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 2 1 -3
+p622
+aVRandy Foye WAS 12/16/2009 WAS @ SAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p623
+aVEarl Boykins WAS 12/16/2009 WAS @ SAC L 15 8 4 8 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -11
+p624
+aVDominic McGuire WAS 12/16/2009 WAS @ SAC L 13 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 8
+p625
+aVAntawn Jamison WAS 12/16/2009 WAS @ SAC L 41 30 11 22 50.0 0 6 0.0 8 8 100.0 4 4 8 0 0 0 1 5 -2
+p626
+aVNick Young WAS 12/16/2009 WAS @ SAC L 12 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 0 0 2 0 2 -4
+p627
+aVAndray Blatche WAS 12/16/2009 WAS @ SAC L 18 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 2 1 3 -8
+p628
+aVRandy Foye WAS 12/14/2009 WAS @ LAC L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -5
+p629
+aVAntawn Jamison WAS 12/14/2009 WAS @ LAC L 38 32 13 24 54.2 3 3 100.0 3 4 75.0 5 6 11 2 1 0 3 5 4
+p630
+aVCaron Butler WAS 12/14/2009 WAS @ LAC L 39 20 6 14 42.9 1 2 50.0 7 8 87.5 0 7 7 5 5 0 5 2 16
+p631
+aVFabricio Oberto WAS 12/14/2009 WAS @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p632
+aVDominic McGuire WAS 12/14/2009 WAS @ LAC L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -19
+p633
+aVGilbert Arenas WAS 12/14/2009 WAS @ LAC L 34 16 4 14 28.6 1 7 14.3 7 8 87.5 1 3 4 9 4 0 6 6 10
+p634
+aVDeShawn Stevenson WAS 12/14/2009 WAS @ LAC L 24 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 1 0 0 1 3 12
+p635
+aVAndray Blatche WAS 12/14/2009 WAS @ LAC L 13 3 1 5 20.0 0 0 - 1 1 100.0 1 2 3 0 2 0 0 1 -10
+p636
+aVEarl Boykins WAS 12/14/2009 WAS @ LAC L 14 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -12
+p637
+aVNick Young WAS 12/14/2009 WAS @ LAC L 19 4 2 7 28.6 0 3 0.0 0 0 - 1 0 1 1 0 0 1 3 -9
+p638
+aVBrendan Haywood WAS 12/14/2009 WAS @ LAC L 42 12 4 10 40.0 0 0 - 4 5 80.0 7 5 12 1 0 4 1 2 4
+p639
+aVBrendan Haywood WAS 12/12/2009 WAS vs. IND L 35 6 2 5 40.0 0 0 - 2 2 100.0 5 4 9 1 1 5 1 4 -4
+p640
+aVEarl Boykins WAS 12/12/2009 WAS vs. IND L 20 14 7 12 58.3 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 -7
+p641
+aVRandy Foye WAS 12/12/2009 WAS vs. IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 0 -12
+p642
+aVAntawn Jamison WAS 12/12/2009 WAS vs. IND L 45 31 13 18 72.2 4 6 66.7 1 5 20.0 3 4 7 0 3 0 4 4 3
+p643
+aVJaVale McGee WAS 12/12/2009 WAS vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p644
+aVAndray Blatche WAS 12/12/2009 WAS vs. IND L 18 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 2 1 0 1 4 -11
+p645
+aVDeShawn Stevenson WAS 12/12/2009 WAS vs. IND L 20 2 1 3 33.3 0 2 0.0 0 0 - 1 3 4 3 0 0 1 4 -1
+p646
+aVCaron Butler WAS 12/12/2009 WAS vs. IND L 39 23 9 15 60.0 0 2 0.0 5 5 100.0 0 3 3 2 0 0 4 1 4
+p647
+aVNick Young WAS 12/12/2009 WAS vs. IND L 14 10 3 3 100.0 2 2 100.0 2 2 100.0 0 2 2 0 2 0 0 0 14
+p648
+aVDominic McGuire WAS 12/12/2009 WAS vs. IND L 7 0 0 0 - 0 0 - 0 0 - 1 3 4 1 0 0 0 1 3
+p649
+aVGilbert Arenas WAS 12/12/2009 WAS vs. IND L 35 22 8 20 40.0 2 6 33.3 4 7 57.1 2 8 10 11 2 0 4 3 6
+p650
+aVFabricio Oberto WAS 12/10/2009 WAS vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -4
+p651
+aVNick Young WAS 12/10/2009 WAS vs. BOS L 12 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 2 0
+p652
+aVJaVale McGee WAS 12/10/2009 WAS vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p653
+aVAndray Blatche WAS 12/10/2009 WAS vs. BOS L 26 17 7 10 70.0 1 2 50.0 2 2 100.0 1 2 3 3 5 0 1 4 -4
+p654
+aVGilbert Arenas WAS 12/10/2009 WAS vs. BOS L 42 25 11 23 47.8 2 6 33.3 1 6 16.7 1 2 3 8 0 0 4 4 0
+p655
+aVAntawn Jamison WAS 12/10/2009 WAS vs. BOS L 36 16 7 14 50.0 2 5 40.0 0 1 0.0 2 6 8 0 1 0 1 3 -2
+p656
+aVBrendan Haywood WAS 12/10/2009 WAS vs. BOS L 35 17 7 7 100.0 0 0 - 3 4 75.0 1 7 8 0 1 1 4 3 6
+p657
+aVDeShawn Stevenson WAS 12/10/2009 WAS vs. BOS L 16 5 1 4 25.0 1 3 33.3 2 2 100.0 0 0 0 0 0 1 0 3 9
+p658
+aVEarl Boykins WAS 12/10/2009 WAS vs. BOS L 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -8
+p659
+aVCaron Butler WAS 12/10/2009 WAS vs. BOS L 41 10 3 10 30.0 0 0 - 4 5 80.0 2 6 8 5 0 1 1 4 0
+p660
+aVRandy Foye WAS 12/10/2009 WAS vs. BOS L 14 6 3 10 30.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 2 -5
+p661
+aVNick Young WAS 12/06/2009 WAS @ DET L 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 2 4
+p662
+aVDominic McGuire WAS 12/06/2009 WAS @ DET L 13 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -6
+p663
+aVBrendan Haywood WAS 12/06/2009 WAS @ DET L 32 6 3 6 50.0 0 0 - 0 0 - 5 6 11 0 0 2 2 2 2
+p664
+aVAntawn Jamison WAS 12/06/2009 WAS @ DET L 37 13 4 14 28.6 1 5 20.0 4 7 57.1 0 2 2 0 2 1 1 4 -9
+p665
+aVDeShawn Stevenson WAS 12/06/2009 WAS @ DET L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -9
+p666
+aVEarl Boykins WAS 12/06/2009 WAS @ DET L 25 18 5 11 45.5 2 5 40.0 6 6 100.0 1 1 2 4 0 0 0 3 -4
+p667
+aVAndray Blatche WAS 12/06/2009 WAS @ DET L 20 9 4 8 50.0 0 0 - 1 1 100.0 1 4 5 1 1 1 4 3 3
+p668
+aVRandy Foye WAS 12/06/2009 WAS @ DET L 13 12 3 4 75.0 0 1 0.0 6 6 100.0 0 0 0 1 0 0 0 1 -1
+p669
+aVJaVale McGee WAS 12/06/2009 WAS @ DET L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -6
+p670
+aVGilbert Arenas WAS 12/06/2009 WAS @ DET L 32 8 3 9 33.3 0 4 0.0 2 2 100.0 1 5 6 9 0 1 3 5 4
+p671
+aVCaron Butler WAS 12/06/2009 WAS @ DET L 35 20 8 19 42.1 3 6 50.0 1 1 100.0 4 6 10 0 1 0 4 3 2
+p672
+aVNick Young WAS 12/04/2009 WAS vs. TOR L 25 13 5 11 45.5 1 3 33.3 2 2 100.0 0 4 4 0 1 0 0 1 -3
+p673
+aVGilbert Arenas WAS 12/04/2009 WAS vs. TOR L 39 34 12 26 46.2 5 11 45.5 5 7 71.4 1 2 3 3 0 0 1 1 -19
+p674
+aVDominic McGuire WAS 12/04/2009 WAS vs. TOR L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p675
+aVJaVale McGee WAS 12/04/2009 WAS vs. TOR L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 2
+p676
+aVEarl Boykins WAS 12/04/2009 WAS vs. TOR L 39 14 5 12 41.7 2 4 50.0 2 2 100.0 2 6 8 5 2 0 4 1 10
+p677
+aVAntawn Jamison WAS 12/04/2009 WAS vs. TOR L 36 13 4 16 25.0 1 7 14.3 4 6 66.7 4 4 8 2 1 1 0 5 -12
+p678
+aVBrendan Haywood WAS 12/04/2009 WAS vs. TOR L 41 7 1 7 14.3 0 0 - 5 8 62.5 7 9 16 0 0 5 1 3 -13
+p679
+aVAndray Blatche WAS 12/04/2009 WAS vs. TOR L 23 6 2 8 25.0 0 1 0.0 2 2 100.0 3 5 8 3 2 2 2 3 19
+p680
+aVCaron Butler WAS 12/04/2009 WAS vs. TOR L 45 16 4 11 36.4 1 3 33.3 7 7 100.0 2 2 4 5 2 0 0 3 -3
+p681
+aVRandy Foye WAS 12/04/2009 WAS vs. TOR L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 9
+p682
+aVFabricio Oberto WAS 12/02/2009 WAS vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p683
+aVAntawn Jamison WAS 12/02/2009 WAS vs. MIL W 39 15 5 8 62.5 2 3 66.7 3 4 75.0 1 8 9 2 1 0 0 5 8
+p684
+aVNick Young WAS 12/02/2009 WAS vs. MIL W 34 21 7 12 58.3 0 1 0.0 7 7 100.0 0 5 5 1 1 0 5 2 0
+p685
+aVGilbert Arenas WAS 12/02/2009 WAS vs. MIL W 38 22 10 24 41.7 1 6 16.7 1 2 50.0 0 2 2 9 0 0 4 2 7
+p686
+aVAndray Blatche WAS 12/02/2009 WAS vs. MIL W 20 10 5 5 100.0 0 0 - 0 0 - 0 4 4 0 2 1 0 3 -12
+p687
+aVDominic McGuire WAS 12/02/2009 WAS vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p688
+aVDeShawn Stevenson WAS 12/02/2009 WAS vs. MIL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p689
+aVRandy Foye WAS 12/02/2009 WAS vs. MIL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -3
+p690
+aVEarl Boykins WAS 12/02/2009 WAS vs. MIL W 20 13 3 5 60.0 0 0 - 7 10 70.0 0 1 1 4 0 0 2 0 0
+p691
+aVCaron Butler WAS 12/02/2009 WAS vs. MIL W 37 15 4 10 40.0 0 0 - 7 10 70.0 0 6 6 4 0 1 3 2 8
+p692
+aVBrendan Haywood WAS 12/02/2009 WAS vs. MIL W 35 8 4 5 80.0 0 0 - 0 1 0.0 2 12 14 0 2 2 1 2 10
+p693
+aVJaVale McGee WAS 12/01/2009 WAS @ TOR W 7 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 -8
+p694
+aVCaron Butler WAS 12/01/2009 WAS @ TOR W 38 19 6 12 50.0 1 2 50.0 6 6 100.0 0 7 7 1 3 1 3 3 -10
+p695
+aVNick Young WAS 12/01/2009 WAS @ TOR W 30 6 3 9 33.3 0 0 - 0 0 - 1 2 3 2 1 0 0 1 5
+p696
+aVBrendan Haywood WAS 12/01/2009 WAS @ TOR W 35 15 7 10 70.0 0 0 - 1 8 12.5 7 2 9 0 2 3 1 3 17
+p697
+aVAntawn Jamison WAS 12/01/2009 WAS @ TOR W 43 30 12 22 54.5 2 6 33.3 4 8 50.0 0 12 12 2 1 1 2 3 15
+p698
+aVGilbert Arenas WAS 12/01/2009 WAS @ TOR W 39 22 7 17 41.2 3 7 42.9 5 5 100.0 0 4 4 9 1 1 1 2 15
+p699
+aVDominic McGuire WAS 12/01/2009 WAS @ TOR W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 3 14
+p700
+aVEarl Boykins WAS 12/01/2009 WAS @ TOR W 21 8 3 8 37.5 0 2 0.0 2 2 100.0 1 1 2 5 0 0 2 1 0
+p701
+aVAndray Blatche WAS 12/01/2009 WAS @ TOR W 11 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 1 0 0 5 -18
+p702
+aVRandy Foye WAS 12/01/2009 WAS @ TOR W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -10
+p703
+aVRandy Foye WAS 11/28/2009 WAS vs. CHA L 11 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 2 4 0
+p704
+aVAndray Blatche WAS 11/28/2009 WAS vs. CHA L 21 6 3 9 33.3 0 0 - 0 0 - 1 2 3 1 2 2 0 2 -11
+p705
+aVFabricio Oberto WAS 11/28/2009 WAS vs. CHA L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p706
+aVCaron Butler WAS 11/28/2009 WAS vs. CHA L 37 19 6 11 54.5 0 2 0.0 7 7 100.0 0 7 7 1 0 0 3 1 -9
+p707
+aVDominic McGuire WAS 11/28/2009 WAS vs. CHA L 14 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 0 0 2 7
+p708
+aVNick Young WAS 11/28/2009 WAS vs. CHA L 23 10 4 11 36.4 2 4 50.0 0 0 - 0 1 1 0 1 0 1 4 -7
+p709
+aVAntawn Jamison WAS 11/28/2009 WAS vs. CHA L 27 6 2 9 22.2 1 6 16.7 1 2 50.0 0 0 0 1 1 0 3 2 -16
+p710
+aVDeShawn Stevenson WAS 11/28/2009 WAS vs. CHA L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -5
+p711
+aVGilbert Arenas WAS 11/28/2009 WAS vs. CHA L 33 6 3 11 27.3 0 2 0.0 0 0 - 0 2 2 6 0 0 2 3 -19
+p712
+aVJaVale McGee WAS 11/28/2009 WAS vs. CHA L 17 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 3 0 1 -2
+p713
+aVBrendan Haywood WAS 11/28/2009 WAS vs. CHA L 26 10 4 6 66.7 0 0 - 2 2 100.0 2 7 9 1 0 1 0 1 -11
+p714
+aVEarl Boykins WAS 11/28/2009 WAS vs. CHA L 18 6 3 10 30.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 0 -4
+p715
+aVAntawn Jamison WAS 11/27/2009 WAS @ MIA W 42 24 11 20 55.0 2 4 50.0 0 2 0.0 3 10 13 1 0 1 1 2 9
+p716
+aVAndray Blatche WAS 11/27/2009 WAS @ MIA W 19 8 4 9 44.4 0 1 0.0 0 0 - 1 8 9 2 0 0 1 2 14
+p717
+aVEarl Boykins WAS 11/27/2009 WAS @ MIA W 21 10 4 6 66.7 0 1 0.0 2 2 100.0 0 3 3 9 1 0 0 2 14
+p718
+aVNick Young WAS 11/27/2009 WAS @ MIA W 37 22 10 23 43.5 0 3 0.0 2 4 50.0 2 2 4 5 0 0 3 3 3
+p719
+aVCaron Butler WAS 11/27/2009 WAS @ MIA W 37 9 4 9 44.4 0 1 0.0 1 2 50.0 3 4 7 1 2 0 3 3 -2
+p720
+aVRandy Foye WAS 11/27/2009 WAS @ MIA W 11 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 7
+p721
+aVJaVale McGee WAS 11/27/2009 WAS @ MIA W 15 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 1 2 0 1 -4
+p722
+aVGilbert Arenas WAS 11/27/2009 WAS @ MIA W 27 9 4 7 57.1 0 2 0.0 1 1 100.0 0 2 2 5 1 1 2 0 -4
+p723
+aVBrendan Haywood WAS 11/27/2009 WAS @ MIA W 31 6 2 5 40.0 0 0 - 2 4 50.0 5 2 7 0 2 1 2 4 13
+p724
+aVJaVale McGee WAS 11/24/2009 WAS vs. PHI W 14 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 0 6 0 2 -1
+p725
+aVDeShawn Stevenson WAS 11/24/2009 WAS vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p726
+aVEarl Boykins WAS 11/24/2009 WAS vs. PHI W 19 4 2 7 28.6 0 0 - 0 0 - 0 3 3 6 2 0 1 0 -6
+p727
+aVAntawn Jamison WAS 11/24/2009 WAS vs. PHI W 41 32 13 23 56.5 1 4 25.0 5 6 83.3 8 6 14 3 1 0 2 3 7
+p728
+aVAndray Blatche WAS 11/24/2009 WAS vs. PHI W 22 14 7 13 53.8 0 0 - 0 0 - 2 3 5 2 1 1 2 3 -10
+p729
+aVGilbert Arenas WAS 11/24/2009 WAS vs. PHI W 40 17 6 14 42.9 0 3 0.0 5 8 62.5 0 3 3 8 1 1 6 2 -2
+p730
+aVNick Young WAS 11/24/2009 WAS vs. PHI W 32 20 8 16 50.0 2 4 50.0 2 2 100.0 1 3 4 2 0 0 1 4 11
+p731
+aVBrendan Haywood WAS 11/24/2009 WAS vs. PHI W 34 8 4 7 57.1 0 0 - 0 0 - 5 3 8 1 1 0 0 3 2
+p732
+aVRandy Foye WAS 11/24/2009 WAS vs. PHI W 16 9 3 9 33.3 3 6 50.0 0 0 - 1 1 2 0 0 1 1 1 -10
+p733
+aVFabricio Oberto WAS 11/24/2009 WAS vs. PHI W 21 0 0 0 - 0 0 - 0 0 - 0 4 4 1 1 0 1 2 15
+p734
+aVJaVale McGee WAS 11/21/2009 WAS @ SAS L 14 7 2 4 50.0 0 0 - 3 3 100.0 1 2 3 0 0 3 0 0 -1
+p735
+aVRandy Foye WAS 11/21/2009 WAS @ SAS L 27 10 2 10 20.0 0 0 - 6 6 100.0 2 1 3 2 1 0 0 0 -15
+p736
+aVGilbert Arenas WAS 11/21/2009 WAS @ SAS L 32 18 7 18 38.9 1 5 20.0 3 5 60.0 0 6 6 2 1 0 3 3 -23
+p737
+aVDominic McGuire WAS 11/21/2009 WAS @ SAS L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p738
+aVAndray Blatche WAS 11/21/2009 WAS @ SAS L 25 4 2 8 25.0 0 1 0.0 0 2 0.0 1 2 3 1 1 0 1 2 -2
+p739
+aVFabricio Oberto WAS 11/21/2009 WAS @ SAS L 11 2 0 0 - 0 0 - 2 2 100.0 1 3 4 1 0 2 1 5 1
+p740
+aVMike Miller WAS 11/21/2009 WAS @ SAS L 7 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -2
+p741
+aVEarl Boykins WAS 11/21/2009 WAS @ SAS L 20 9 3 10 30.0 0 0 - 3 4 75.0 1 1 2 4 0 0 1 0 0
+p742
+aVDeShawn Stevenson WAS 11/21/2009 WAS @ SAS L 10 0 0 4 0.0 0 4 0.0 0 0 - 0 2 2 0 0 0 0 0 -4
+p743
+aVCaron Butler WAS 11/21/2009 WAS @ SAS L 32 8 3 9 33.3 1 2 50.0 1 2 50.0 1 4 5 1 1 0 2 0 -20
+p744
+aVBrendan Haywood WAS 11/21/2009 WAS @ SAS L 23 5 2 4 50.0 0 0 - 1 1 100.0 2 6 8 0 0 1 1 2 -22
+p745
+aVAntawn Jamison WAS 11/21/2009 WAS @ SAS L 32 15 4 12 33.3 2 6 33.3 5 9 55.6 1 6 7 0 2 0 0 1 -23
+p746
+aVBrendan Haywood WAS 11/20/2009 WAS @ OKC L 36 16 8 12 66.7 0 0 - 0 0 - 7 10 17 2 0 0 2 3 0
+p747
+aVMike Miller WAS 11/20/2009 WAS @ OKC L 35 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 2 0 0 3 2 -19
+p748
+aVRandy Foye WAS 11/20/2009 WAS @ OKC L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 2 0 -9
+p749
+aVNick Young WAS 11/20/2009 WAS @ OKC L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p750
+aVCaron Butler WAS 11/20/2009 WAS @ OKC L 37 22 7 16 43.8 4 6 66.7 4 5 80.0 1 3 4 4 2 0 3 2 -9
+p751
+aVEarl Boykins WAS 11/20/2009 WAS @ OKC L 17 11 5 7 71.4 0 1 0.0 1 1 100.0 0 0 0 2 1 0 3 2 -11
+p752
+aVDominic McGuire WAS 11/20/2009 WAS @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p753
+aVAndray Blatche WAS 11/20/2009 WAS @ OKC L 15 6 3 7 42.9 0 0 - 0 0 - 1 0 1 0 0 2 1 3 -15
+p754
+aVDeShawn Stevenson WAS 11/20/2009 WAS @ OKC L 12 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 1
+p755
+aVJaVale McGee WAS 11/20/2009 WAS @ OKC L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p756
+aVGilbert Arenas WAS 11/20/2009 WAS @ OKC L 37 23 7 20 35.0 1 4 25.0 8 10 80.0 1 2 3 8 3 0 3 4 -11
+p757
+aVAntawn Jamison WAS 11/20/2009 WAS @ OKC L 37 22 9 17 52.9 1 2 50.0 3 7 42.9 7 5 12 0 2 1 2 3 -16
+p758
+aVAntawn Jamison WAS 11/18/2009 WAS vs. CLE W 38 31 12 22 54.5 2 7 28.6 5 6 83.3 6 4 10 2 1 0 2 3 4
+p759
+aVDominic McGuire WAS 11/18/2009 WAS vs. CLE W 4 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p760
+aVCaron Butler WAS 11/18/2009 WAS vs. CLE W 40 19 6 16 37.5 0 2 0.0 7 7 100.0 2 4 6 1 1 0 3 3 20
+p761
+aVDeShawn Stevenson WAS 11/18/2009 WAS vs. CLE W 17 2 0 0 - 0 0 - 2 2 100.0 0 3 3 1 0 1 0 0 14
+p762
+aVRandy Foye WAS 11/18/2009 WAS vs. CLE W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p763
+aVAndray Blatche WAS 11/18/2009 WAS vs. CLE W 17 6 1 1 100.0 0 0 - 4 6 66.7 0 0 0 0 2 0 1 2 8
+p764
+aVMike Miller WAS 11/18/2009 WAS vs. CLE W 39 17 7 11 63.6 2 4 50.0 1 1 100.0 1 7 8 6 1 0 3 0 26
+p765
+aVEarl Boykins WAS 11/18/2009 WAS vs. CLE W 20 9 3 7 42.9 0 1 0.0 3 3 100.0 0 1 1 3 0 0 1 3 2
+p766
+aVGilbert Arenas WAS 11/18/2009 WAS vs. CLE W 32 18 6 22 27.3 1 8 12.5 5 6 83.3 1 5 6 8 1 0 2 2 7
+p767
+aVBrendan Haywood WAS 11/18/2009 WAS vs. CLE W 30 6 1 1 100.0 0 0 - 4 4 100.0 6 7 13 0 0 3 0 1 13
+p768
+aVCaron Butler WAS 11/14/2009 WAS vs. DET L 39 16 6 14 42.9 0 0 - 4 4 100.0 2 7 9 3 1 0 2 5 0
+p769
+aVDominic McGuire WAS 11/14/2009 WAS vs. DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p770
+aVGilbert Arenas WAS 11/14/2009 WAS vs. DET L 40 19 7 18 38.9 4 7 57.1 1 2 50.0 0 6 6 10 2 1 2 2 0
+p771
+aVBrendan Haywood WAS 11/14/2009 WAS vs. DET L 38 11 3 8 37.5 0 0 - 5 7 71.4 5 4 9 0 0 3 4 4 5
+p772
+aVEarl Boykins WAS 11/14/2009 WAS vs. DET L 31 20 7 12 58.3 1 2 50.0 5 5 100.0 0 1 1 3 0 0 4 1 1
+p773
+aVAndray Blatche WAS 11/14/2009 WAS vs. DET L 31 13 5 13 38.5 0 0 - 3 3 100.0 2 9 11 3 0 2 1 2 -8
+p774
+aVJaVale McGee WAS 11/14/2009 WAS vs. DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 1 3 0
+p775
+aVDeShawn Stevenson WAS 11/14/2009 WAS vs. DET L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -6
+p776
+aVMike Miller WAS 11/14/2009 WAS vs. DET L 34 20 7 11 63.6 4 7 57.1 2 2 100.0 1 2 3 3 0 0 2 5 0
+p777
+aVFabricio Oberto WAS 11/14/2009 WAS vs. DET L 13 2 0 0 - 0 0 - 2 2 100.0 3 1 4 1 0 0 0 3 -6
+p778
+aVFabricio Oberto WAS 11/10/2009 WAS @ MIA L 17 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p779
+aVDominic McGuire WAS 11/10/2009 WAS @ MIA L 8 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 -3
+p780
+aVNick Young WAS 11/10/2009 WAS @ MIA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p781
+aVRandy Foye WAS 11/10/2009 WAS @ MIA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p782
+aVAndray Blatche WAS 11/10/2009 WAS @ MIA L 39 13 5 13 38.5 0 0 - 3 3 100.0 3 7 10 5 0 0 3 4 -11
+p783
+aVGilbert Arenas WAS 11/10/2009 WAS @ MIA L 42 21 7 20 35.0 3 7 42.9 4 8 50.0 0 5 5 8 3 0 12 2 -9
+p784
+aVCaron Butler WAS 11/10/2009 WAS @ MIA L 45 19 8 18 44.4 0 2 0.0 3 4 75.0 2 5 7 0 2 0 4 4 -11
+p785
+aVDeShawn Stevenson WAS 11/10/2009 WAS @ MIA L 40 8 3 8 37.5 1 4 25.0 1 2 50.0 0 1 1 3 1 0 0 3 -25
+p786
+aVBrendan Haywood WAS 11/10/2009 WAS @ MIA L 40 13 5 9 55.6 0 0 - 3 4 75.0 4 7 11 0 0 4 3 4 -14
+p787
+aVAndray Blatche WAS 11/08/2009 WAS vs. PHX L 33 20 9 15 60.0 1 2 50.0 1 1 100.0 2 3 5 1 0 3 3 2 -4
+p788
+aVGilbert Arenas WAS 11/08/2009 WAS vs. PHX L 36 20 7 22 31.8 2 6 33.3 4 5 80.0 1 5 6 6 0 0 4 5 -9
+p789
+aVRandy Foye WAS 11/08/2009 WAS vs. PHX L 36 16 5 14 35.7 1 5 20.0 5 5 100.0 0 4 4 1 2 1 3 3 -16
+p790
+aVDeShawn Stevenson WAS 11/08/2009 WAS vs. PHX L 25 4 2 5 40.0 0 1 0.0 0 0 - 0 7 7 1 2 0 2 2 -2
+p791
+aVFabricio Oberto WAS 11/08/2009 WAS vs. PHX L 26 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 5 2 0 2 2 -12
+p792
+aVDominic McGuire WAS 11/08/2009 WAS vs. PHX L 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 2 0 0 0 -2
+p793
+aVBrendan Haywood WAS 11/08/2009 WAS vs. PHX L 32 10 4 8 50.0 0 0 - 2 6 33.3 8 2 10 0 0 5 1 3 -4
+p794
+aVCaron Butler WAS 11/08/2009 WAS vs. PHX L 41 19 7 20 35.0 0 2 0.0 5 8 62.5 0 6 6 1 4 0 2 1 -11
+p795
+aVCaron Butler WAS 11/06/2009 WAS @ IND L 36 24 8 21 38.1 1 5 20.0 7 9 77.8 4 8 12 0 0 0 3 1 -22
+p796
+aVAndray Blatche WAS 11/06/2009 WAS @ IND L 15 1 0 5 0.0 0 0 - 1 2 50.0 1 2 3 1 0 2 1 4 -4
+p797
+aVPaul Davis WAS 11/06/2009 WAS @ IND L 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 1 0 0 6
+p798
+aVDominic McGuire WAS 11/06/2009 WAS @ IND L 8 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 2 0 -2
+p799
+aVMike James WAS 11/06/2009 WAS @ IND L 22 6 2 8 25.0 0 1 0.0 2 4 50.0 0 1 1 3 1 0 1 1 9
+p800
+aVDeShawn Stevenson WAS 11/06/2009 WAS @ IND L 16 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 -10
+p801
+aVGilbert Arenas WAS 11/06/2009 WAS @ IND L 35 13 5 10 50.0 1 1 100.0 2 4 50.0 0 2 2 5 1 0 3 4 -24
+p802
+aVBrendan Haywood WAS 11/06/2009 WAS @ IND L 35 9 4 9 44.4 0 0 - 1 3 33.3 8 11 19 0 1 4 3 3 -5
+p803
+aVNick Young WAS 11/06/2009 WAS @ IND L 15 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 0 0 1 0 3 0
+p804
+aVJaVale McGee WAS 11/06/2009 WAS @ IND L 7 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -1
+p805
+aVRandy Foye WAS 11/06/2009 WAS @ IND L 34 16 6 14 42.9 2 5 40.0 2 2 100.0 0 4 4 2 0 0 2 0 -10
+p806
+aVFabricio Oberto WAS 11/06/2009 WAS @ IND L 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 2 5 -17
+p807
+aVDeShawn Stevenson WAS 11/04/2009 WAS vs. MIA L 23 2 0 3 0.0 0 3 0.0 2 4 50.0 1 2 3 2 1 0 0 2 5
+p808
+aVCaron Butler WAS 11/04/2009 WAS vs. MIA L 45 13 6 13 46.2 0 0 - 1 2 50.0 5 5 10 1 1 0 5 3 -2
+p809
+aVGilbert Arenas WAS 11/04/2009 WAS vs. MIA L 38 32 9 27 33.3 2 8 25.0 12 15 80.0 0 1 1 3 2 0 3 2 -14
+p810
+aVRandy Foye WAS 11/04/2009 WAS vs. MIA L 19 6 2 6 33.3 2 3 66.7 0 0 - 0 2 2 0 0 1 1 1 -6
+p811
+aVBrendan Haywood WAS 11/04/2009 WAS vs. MIA L 36 16 6 12 50.0 0 0 - 4 4 100.0 4 7 11 1 2 2 1 4 -18
+p812
+aVJaVale McGee WAS 11/04/2009 WAS vs. MIA L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 11
+p813
+aVFabricio Oberto WAS 11/04/2009 WAS vs. MIA L 21 2 1 3 33.3 0 0 - 0 0 - 1 2 3 3 0 0 1 2 -5
+p814
+aVMike Miller WAS 11/04/2009 WAS vs. MIA L 19 8 3 5 60.0 1 2 50.0 1 1 100.0 0 4 4 3 0 0 1 2 5
+p815
+aVAndray Blatche WAS 11/04/2009 WAS vs. MIA L 31 10 4 12 33.3 0 0 - 2 2 100.0 2 5 7 2 1 2 0 2 4
+p816
+aVMike Miller WAS 11/03/2009 WAS @ CLE L 35 12 2 3 66.7 1 2 50.0 7 8 87.5 1 7 8 3 1 0 1 5 -16
+p817
+aVNick Young WAS 11/03/2009 WAS @ CLE L 2 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 4
+p818
+aVDeShawn Stevenson WAS 11/03/2009 WAS @ CLE L 18 3 0 4 0.0 0 4 0.0 3 4 75.0 0 2 2 0 0 1 1 2 -9
+p819
+aVBrendan Haywood WAS 11/03/2009 WAS @ CLE L 27 8 3 8 37.5 0 0 - 2 2 100.0 3 6 9 0 1 1 1 6 -6
+p820
+aVGilbert Arenas WAS 11/03/2009 WAS @ CLE L 39 22 7 18 38.9 1 2 50.0 7 11 63.6 0 7 7 5 0 0 3 2 -13
+p821
+aVDominic McGuire WAS 11/03/2009 WAS @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p822
+aVAndray Blatche WAS 11/03/2009 WAS @ CLE L 25 7 3 7 42.9 0 0 - 1 2 50.0 4 4 8 1 0 2 3 4 -1
+p823
+aVFabricio Oberto WAS 11/03/2009 WAS @ CLE L 25 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 2 0 0 0 2 -9
+p824
+aVCaron Butler WAS 11/03/2009 WAS @ CLE L 38 22 7 18 38.9 1 4 25.0 7 8 87.5 2 4 6 0 1 0 2 1 -1
+p825
+aVRandy Foye WAS 11/03/2009 WAS @ CLE L 20 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -14
+p826
+aVJaVale McGee WAS 11/03/2009 WAS @ CLE L 11 2 0 1 0.0 0 0 - 2 2 100.0 2 3 5 0 1 1 1 4 1
+p827
+aVBrendan Haywood WAS 10/31/2009 WAS vs. NJN W 29 10 4 10 40.0 0 0 - 2 3 66.7 3 4 7 0 0 1 2 3 9
+p828
+aVDeShawn Stevenson WAS 10/31/2009 WAS vs. NJN W 28 10 4 6 66.7 2 4 50.0 0 0 - 1 5 6 2 1 0 1 2 15
+p829
+aVRandy Foye WAS 10/31/2009 WAS vs. NJN W 36 17 7 12 58.3 1 2 50.0 2 2 100.0 0 3 3 8 1 0 2 4 11
+p830
+aVNick Young WAS 10/31/2009 WAS vs. NJN W 12 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 3
+p831
+aVAndray Blatche WAS 10/31/2009 WAS vs. NJN W 28 30 15 18 83.3 0 0 - 0 0 - 1 5 6 2 1 1 1 1 23
+p832
+aVDominic McGuire WAS 10/31/2009 WAS vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p833
+aVMike Miller WAS 10/31/2009 WAS vs. NJN W 35 9 3 6 50.0 2 3 66.7 1 2 50.0 2 9 11 3 2 0 2 4 14
+p834
+aVFabricio Oberto WAS 10/31/2009 WAS vs. NJN W 24 4 2 4 50.0 0 0 - 0 0 - 1 1 2 5 0 0 1 2 10
+p835
+aVGilbert Arenas WAS 10/31/2009 WAS vs. NJN W 29 32 9 13 69.2 3 4 75.0 11 12 91.7 0 1 1 7 1 0 3 2 19
+p836
+aVJaVale McGee WAS 10/31/2009 WAS vs. NJN W 12 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 1
+p837
+aVPaul Davis WAS 10/31/2009 WAS vs. NJN W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -5
+p838
+aVCaron Butler WAS 10/30/2009 WAS @ ATL L 17 5 2 5 40.0 1 2 50.0 0 0 - 1 3 4 1 1 0 1 1 -7
+p839
+aVMike Miller WAS 10/30/2009 WAS @ ATL L 33 7 3 5 60.0 0 0 - 1 2 50.0 0 10 10 5 2 0 2 5 7
+p840
+aVDeShawn Stevenson WAS 10/30/2009 WAS @ ATL L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -9
+p841
+aVAndray Blatche WAS 10/30/2009 WAS @ ATL L 34 13 5 7 71.4 0 0 - 3 5 60.0 0 6 6 1 0 1 2 3 -17
+p842
+aVFabricio Oberto WAS 10/30/2009 WAS @ ATL L 18 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 7
+p843
+aVDominic McGuire WAS 10/30/2009 WAS @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p844
+aVJaVale McGee WAS 10/30/2009 WAS @ ATL L 10 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 1 0 2 0 2 -1
+p845
+aVGilbert Arenas WAS 10/30/2009 WAS @ ATL L 38 23 9 22 40.9 3 6 50.0 2 4 50.0 1 1 2 4 2 0 7 1 -11
+p846
+aVRandy Foye WAS 10/30/2009 WAS @ ATL L 30 9 3 12 25.0 1 3 33.3 2 2 100.0 0 2 2 6 0 0 1 1 -3
+p847
+aVNick Young WAS 10/30/2009 WAS @ ATL L 13 0 0 8 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -3
+p848
+aVBrendan Haywood WAS 10/30/2009 WAS @ ATL L 34 19 7 12 58.3 0 0 - 5 7 71.4 3 6 9 0 0 2 0 1 -11
+p849
+aVCaron Butler WAS 10/27/2009 WAS @ DAL W 38 16 6 17 35.3 0 2 0.0 4 4 100.0 1 7 8 1 0 2 2 3 1
+p850
+aVGilbert Arenas WAS 10/27/2009 WAS @ DAL W 38 29 10 21 47.6 1 4 25.0 8 9 88.9 0 2 2 9 0 0 3 3 8
+p851
+aVDeShawn Stevenson WAS 10/27/2009 WAS @ DAL W 18 0 0 2 0.0 0 1 0.0 0 2 0.0 1 4 5 3 1 0 0 2 -1
+p852
+aVDominic McGuire WAS 10/27/2009 WAS @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p853
+aVBrendan Haywood WAS 10/27/2009 WAS @ DAL W 38 7 3 10 30.0 0 0 - 1 2 50.0 1 9 10 0 0 0 0 3 1
+p854
+aVMike Miller WAS 10/27/2009 WAS @ DAL W 22 6 2 4 50.0 2 3 66.7 0 0 - 0 8 8 2 2 0 0 4 12
+p855
+aVRandy Foye WAS 10/27/2009 WAS @ DAL W 30 19 8 14 57.1 1 3 33.3 2 2 100.0 2 1 3 1 2 0 2 4 16
+p856
+aVFabricio Oberto WAS 10/27/2009 WAS @ DAL W 17 5 2 2 100.0 0 0 - 1 1 100.0 1 2 3 2 0 0 2 5 15
+p857
+aVJaVale McGee WAS 10/27/2009 WAS @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p858
+aVAndray Blatche WAS 10/27/2009 WAS @ DAL W 35 20 8 14 57.1 0 0 - 4 4 100.0 3 4 7 1 1 2 0 3 9
+p859
+a.

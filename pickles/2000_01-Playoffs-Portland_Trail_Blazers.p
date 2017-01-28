@@ -1,0 +1,66 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRasheed Wallace POR 04/29/2001 POR vs. LAL L 46 9 4 19 21.1 0 1 0.0 1 2 50.0 3 10 13 4 1 0 1 3 -8
+p2
+aVDamon Stoudamire POR 04/29/2001 POR vs. LAL L 44 25 10 22 45.5 1 6 16.7 4 4 100.0 0 5 5 4 0 0 2 1 -1
+p3
+aVWill Perdue POR 04/29/2001 POR vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p4
+aVAntonio Harvey POR 04/29/2001 POR vs. LAL L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -5
+p5
+aVDetlef Schrempf POR 04/29/2001 POR vs. LAL L 12 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 1 1 -7
+p6
+aVSteven Smith POR 04/29/2001 POR vs. LAL L 42 25 8 16 50.0 3 5 60.0 6 6 100.0 3 3 6 3 1 0 4 2 -10
+p7
+aVArvydas Sabonis POR 04/29/2001 POR vs. LAL L 39 12 6 10 60.0 0 0 - 0 0 - 4 7 11 1 1 1 1 4 -11
+p8
+aVGreg Anthony POR 04/29/2001 POR vs. LAL L 12 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 1 0 1 2 -11
+p9
+aVScottie Pippen POR 04/29/2001 POR vs. LAL L 37 7 3 13 23.1 0 6 0.0 1 1 100.0 1 2 3 1 3 1 3 5 -10
+p10
+aVArvydas Sabonis POR 04/26/2001 POR @ LAL L 34 11 5 10 50.0 0 0 - 1 2 50.0 1 4 5 3 0 4 0 3 -13
+p11
+aVGreg Anthony POR 04/26/2001 POR @ LAL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p12
+aVRod Strickland POR 04/26/2001 POR @ LAL L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p13
+aVDale Davis POR 04/26/2001 POR @ LAL L 11 1 0 2 0.0 0 1 0.0 1 2 50.0 1 1 2 0 1 0 0 1 -10
+p14
+aVWill Perdue POR 04/26/2001 POR @ LAL L 3 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 5
+p15
+aVRasheed Wallace POR 04/26/2001 POR @ LAL L 38 17 6 14 42.9 2 5 40.0 3 4 75.0 0 4 4 2 0 1 2 4 -16
+p16
+aVScottie Pippen POR 04/26/2001 POR @ LAL L 40 21 8 15 53.3 2 7 28.6 3 5 60.0 1 7 8 2 4 1 6 3 -16
+p17
+aVDetlef Schrempf POR 04/26/2001 POR @ LAL L 16 9 2 2 100.0 1 1 100.0 4 4 100.0 0 3 3 1 0 0 0 1 -1
+p18
+aVDamon Stoudamire POR 04/26/2001 POR @ LAL L 35 10 3 9 33.3 0 4 0.0 4 4 100.0 0 0 0 5 1 1 5 3 -17
+p19
+aVStacey Augmon POR 04/26/2001 POR @ LAL L 12 1 0 4 0.0 0 0 - 1 1 100.0 1 3 4 2 0 0 0 2 -6
+p20
+aVSteven Smith POR 04/26/2001 POR @ LAL L 40 16 5 10 50.0 0 2 0.0 6 7 85.7 1 2 3 4 0 0 4 1 -12
+p21
+aVAntonio Harvey POR 04/22/2001 POR @ LAL L 7 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -3
+p22
+aVRod Strickland POR 04/22/2001 POR @ LAL L 13 8 2 5 40.0 0 0 - 4 6 66.7 1 2 3 2 2 0 1 1 10
+p23
+aVDetlef Schrempf POR 04/22/2001 POR @ LAL L 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 1 7
+p24
+aVStacey Augmon POR 04/22/2001 POR @ LAL L 16 9 4 6 66.7 0 0 - 1 1 100.0 0 0 0 2 1 0 1 1 3
+p25
+aVDale Davis POR 04/22/2001 POR @ LAL L 9 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 1 6 -21
+p26
+aVScottie Pippen POR 04/22/2001 POR @ LAL L 40 13 5 10 50.0 1 4 25.0 2 3 66.7 0 6 6 4 1 0 3 6 -22
+p27
+aVSteven Smith POR 04/22/2001 POR @ LAL L 40 10 3 8 37.5 1 4 25.0 3 3 100.0 1 3 4 0 1 1 2 0 -15
+p28
+aVRasheed Wallace POR 04/22/2001 POR @ LAL L 44 24 9 18 50.0 2 5 40.0 4 8 50.0 2 5 7 1 0 2 1 2 -12
+p29
+aVDamon Stoudamire POR 04/22/2001 POR @ LAL L 36 18 6 15 40.0 1 3 33.3 5 5 100.0 1 3 4 4 1 0 2 2 -17
+p30
+aVArvydas Sabonis POR 04/22/2001 POR @ LAL L 31 11 3 9 33.3 0 2 0.0 5 6 83.3 3 6 9 4 0 2 1 5 7
+p31
+aVWill Perdue POR 04/22/2001 POR @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p32
+a.

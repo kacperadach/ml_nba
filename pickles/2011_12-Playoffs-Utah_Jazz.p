@@ -1,0 +1,94 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJamaal Tinsley UTA 05/07/2012 UTA vs. SAS L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -21
+p2
+aVEnes Kanter UTA 05/07/2012 UTA vs. SAS L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 2 1 2 -8
+p3
+aVPaul Millsap UTA 05/07/2012 UTA vs. SAS L 41 10 4 17 23.5 0 3 0.0 2 4 50.0 7 12 19 2 0 2 3 2 11
+p4
+aVDerrick Favors UTA 05/07/2012 UTA vs. SAS L 37 16 4 8 50.0 0 0 - 8 12 66.7 1 9 10 1 2 2 1 5 0
+p5
+aVAl Jefferson UTA 05/07/2012 UTA vs. SAS L 41 26 13 19 68.4 0 1 0.0 0 1 0.0 2 8 10 2 2 1 2 2 0
+p6
+aVBlake Ahearn UTA 05/07/2012 UTA vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p7
+aVGordon Hayward UTA 05/07/2012 UTA vs. SAS L 25 0 0 7 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 -2
+p8
+aVDevin Harris UTA 05/07/2012 UTA vs. SAS L 35 19 6 17 35.3 0 4 0.0 7 9 77.8 0 3 3 7 1 1 2 4 15
+p9
+aVAlec Burks UTA 05/07/2012 UTA vs. SAS L 16 0 0 8 0.0 0 1 0.0 0 0 - 2 2 4 1 0 0 2 0 -16
+p10
+aVJosh Howard UTA 05/07/2012 UTA vs. SAS L 6 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -12
+p11
+aVDeMarre Carroll UTA 05/07/2012 UTA vs. SAS L 18 6 3 5 60.0 0 2 0.0 0 0 - 3 2 5 1 1 0 0 4 1
+p12
+aVDeMarre Carroll UTA 05/05/2012 UTA vs. SAS L 15 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 1 0 0 1 -1
+p13
+aVGordon Hayward UTA 05/05/2012 UTA vs. SAS L 33 4 1 10 10.0 0 5 0.0 2 2 100.0 0 3 3 5 1 0 1 1 -10
+p14
+aVJosh Howard UTA 05/05/2012 UTA vs. SAS L 16 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 -5
+p15
+aVJamaal Tinsley UTA 05/05/2012 UTA vs. SAS L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 1 -1
+p16
+aVDevin Harris UTA 05/05/2012 UTA vs. SAS L 35 21 8 15 53.3 3 5 60.0 2 4 50.0 0 0 0 5 1 0 3 5 -11
+p17
+aVPaul Millsap UTA 05/05/2012 UTA vs. SAS L 33 9 4 12 33.3 0 0 - 1 4 25.0 4 7 11 0 1 5 2 3 -11
+p18
+aVAlec Burks UTA 05/05/2012 UTA vs. SAS L 15 11 4 10 40.0 0 1 0.0 3 4 75.0 1 1 2 0 0 0 1 1 -2
+p19
+aVEnes Kanter UTA 05/05/2012 UTA vs. SAS L 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 4
+p20
+aVAl Jefferson UTA 05/05/2012 UTA vs. SAS L 38 21 10 18 55.6 0 0 - 1 2 50.0 3 8 11 2 0 1 1 2 -16
+p21
+aVDerrick Favors UTA 05/05/2012 UTA vs. SAS L 32 15 5 14 35.7 0 0 - 5 10 50.0 6 5 11 0 2 2 1 2 -7
+p22
+aVDeMarre Carroll UTA 05/02/2012 UTA @ SAS L 18 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 3 1 4
+p23
+aVAl Jefferson UTA 05/02/2012 UTA @ SAS L 30 10 5 15 33.3 0 0 - 0 0 - 0 4 4 2 1 1 1 2 -38
+p24
+aVAlec Burks UTA 05/02/2012 UTA @ SAS L 20 9 2 8 25.0 0 0 - 5 5 100.0 2 2 4 1 1 0 0 2 1
+p25
+aVPaul Millsap UTA 05/02/2012 UTA @ SAS L 29 9 4 11 36.4 0 0 - 1 2 50.0 2 3 5 0 0 0 1 2 -35
+p26
+aVBlake Ahearn UTA 05/02/2012 UTA @ SAS L 6 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 0 0 0 0 2
+p27
+aVGordon Hayward UTA 05/02/2012 UTA @ SAS L 28 8 3 10 30.0 0 2 0.0 2 2 100.0 1 1 2 4 0 0 1 0 -32
+p28
+aVDevin Harris UTA 05/02/2012 UTA @ SAS L 23 5 2 7 28.6 0 2 0.0 1 1 100.0 0 0 0 1 1 0 2 2 -36
+p29
+aVEnes Kanter UTA 05/02/2012 UTA @ SAS L 16 8 4 8 50.0 0 0 - 0 1 0.0 6 4 10 1 0 1 2 2 1
+p30
+aVJeremy Evans UTA 05/02/2012 UTA @ SAS L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 1 1 0 0 1 2
+p31
+aVJosh Howard UTA 05/02/2012 UTA @ SAS L 24 10 3 9 33.3 0 0 - 4 5 80.0 2 3 5 1 1 1 0 0 -33
+p32
+aVDerrick Favors UTA 05/02/2012 UTA @ SAS L 21 9 3 9 33.3 0 0 - 3 3 100.0 4 5 9 0 1 0 2 1 6
+p33
+aVJamaal Tinsley UTA 05/02/2012 UTA @ SAS L 19 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 3 1 0 3 3 3
+p34
+aVDevin Harris UTA 04/29/2012 UTA @ SAS L 26 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 2 0 1 5 3 -14
+p35
+aVJamaal Tinsley UTA 04/29/2012 UTA @ SAS L 20 9 3 8 37.5 1 1 100.0 2 2 100.0 0 1 1 5 1 0 2 2 -3
+p36
+aVEnes Kanter UTA 04/29/2012 UTA @ SAS L 10 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 1 1 2 6
+p37
+aVAlec Burks UTA 04/29/2012 UTA @ SAS L 11 6 1 2 50.0 0 0 - 4 5 80.0 0 1 1 1 1 0 0 1 2
+p38
+aVBlake Ahearn UTA 04/29/2012 UTA @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p39
+aVGordon Hayward UTA 04/29/2012 UTA @ SAS L 37 17 2 6 33.3 1 4 25.0 12 12 100.0 1 2 3 2 2 0 1 1 -17
+p40
+aVJosh Howard UTA 04/29/2012 UTA @ SAS L 16 0 0 4 0.0 0 1 0.0 0 0 - 1 3 4 1 1 0 2 1 -9
+p41
+aVDeMarre Carroll UTA 04/29/2012 UTA @ SAS L 22 7 3 8 37.5 1 3 33.3 0 0 - 1 3 4 1 0 1 0 3 -6
+p42
+aVDerrick Favors UTA 04/29/2012 UTA @ SAS L 26 7 3 5 60.0 0 0 - 1 4 25.0 3 5 8 1 0 2 1 3 0
+p43
+aVPaul Millsap UTA 04/29/2012 UTA @ SAS L 36 20 8 14 57.1 0 0 - 4 6 66.7 4 5 9 0 0 3 3 4 -23
+p44
+aVAl Jefferson UTA 04/29/2012 UTA @ SAS L 32 16 8 16 50.0 0 0 - 0 1 0.0 2 7 9 4 2 0 1 4 -15
+p45
+aVJeremy Evans UTA 04/29/2012 UTA @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p46
+a.

@@ -1,0 +1,1810 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLuc Mbah a Moute MIN 04/16/2014 MIN vs. UTA L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p2
+aVRobbie Hummel MIN 04/16/2014 MIN vs. UTA L 32 10 3 5 60.0 2 2 100.0 2 2 100.0 2 7 9 1 2 0 0 2 9
+p3
+aVRicky Rubio MIN 04/16/2014 MIN vs. UTA L 45 14 4 13 30.8 1 4 25.0 5 5 100.0 0 2 2 6 1 0 2 5 3
+p4
+aVRonny Turiaf MIN 04/16/2014 MIN vs. UTA L 16 12 3 5 60.0 0 0 - 6 8 75.0 3 5 8 0 1 3 2 1 -1
+p5
+aVGorgui Dieng MIN 04/16/2014 MIN vs. UTA L 28 4 1 8 12.5 0 0 - 2 4 50.0 3 4 7 1 0 2 1 2 -6
+p6
+aVCorey Brewer MIN 04/16/2014 MIN vs. UTA L 31 11 4 8 50.0 0 2 0.0 3 5 60.0 1 1 2 1 4 0 1 2 -22
+p7
+aVKevin Martin MIN 04/16/2014 MIN vs. UTA L 40 36 12 24 50.0 3 5 60.0 9 10 90.0 1 1 2 1 2 0 1 6 -2
+p8
+aVAlexey Shved MIN 04/16/2014 MIN vs. UTA L 18 11 3 6 50.0 1 3 33.3 4 6 66.7 0 1 1 3 0 0 1 1 -4
+p9
+aVKevin Love MIN 04/16/2014 MIN vs. UTA L 47 19 4 15 26.7 1 9 11.1 10 12 83.3 0 10 10 9 0 0 5 2 -12
+p10
+aVDante Cunningham MIN 04/16/2014 MIN vs. UTA L 26 13 6 12 50.0 0 0 - 1 2 50.0 3 0 3 1 2 0 2 2 7
+p11
+aVRicky Rubio MIN 04/14/2014 MIN @ GSW L 32 15 4 7 57.1 0 0 - 7 9 77.8 0 1 1 8 1 0 7 4 -6
+p12
+aVKevin Love MIN 04/14/2014 MIN @ GSW L 36 40 11 24 45.8 5 9 55.6 13 16 81.3 2 12 14 9 0 0 6 2 -6
+p13
+aVGorgui Dieng MIN 04/14/2014 MIN @ GSW L 35 14 6 8 75.0 0 0 - 2 3 66.7 1 10 11 3 1 2 3 3 -5
+p14
+aVKevin Martin MIN 04/14/2014 MIN @ GSW L 33 14 5 10 50.0 2 3 66.7 2 2 100.0 1 2 3 3 0 0 3 1 -6
+p15
+aVLuc Mbah a Moute MIN 04/14/2014 MIN @ GSW L 18 4 2 6 33.3 0 0 - 0 0 - 3 1 4 2 1 0 1 0 -7
+p16
+aVDante Cunningham MIN 04/14/2014 MIN @ GSW L 18 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 3 -6
+p17
+aVRobbie Hummel MIN 04/14/2014 MIN @ GSW L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 -3
+p18
+aVCorey Brewer MIN 04/14/2014 MIN @ GSW L 41 22 10 13 76.9 0 0 - 2 3 66.7 2 1 3 5 3 0 0 1 -6
+p19
+aVJ.J. Barea MIN 04/14/2014 MIN @ GSW L 21 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 6 0 0 1 2 -5
+p20
+aVRicky Rubio MIN 04/13/2014 MIN @ SAC L 32 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 11 0 0 2 1 -8
+p21
+aVKevin Love MIN 04/13/2014 MIN @ SAC L 38 43 12 23 52.2 4 9 44.4 15 17 88.2 4 7 11 1 0 0 3 0 -13
+p22
+aVRobbie Hummel MIN 04/13/2014 MIN @ SAC L 17 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 1 0 0 0 3 9
+p23
+aVCorey Brewer MIN 04/13/2014 MIN @ SAC L 30 10 2 8 25.0 0 1 0.0 6 8 75.0 0 0 0 1 2 1 0 4 -18
+p24
+aVRonny Turiaf MIN 04/13/2014 MIN @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 7
+p25
+aVKevin Martin MIN 04/13/2014 MIN @ SAC L 18 2 0 8 0.0 0 3 0.0 2 2 100.0 0 1 1 0 1 0 1 1 -9
+p26
+aVGorgui Dieng MIN 04/13/2014 MIN @ SAC L 35 21 9 15 60.0 1 1 100.0 2 2 100.0 3 11 14 4 2 2 3 4 -4
+p27
+aVJ.J. Barea MIN 04/13/2014 MIN @ SAC L 22 5 2 11 18.2 1 5 20.0 0 0 - 0 2 2 7 0 0 0 3 9
+p28
+aVDante Cunningham MIN 04/13/2014 MIN @ SAC L 17 7 3 7 42.9 0 0 - 1 1 100.0 1 5 6 1 0 0 0 2 6
+p29
+aVLuc Mbah a Moute MIN 04/13/2014 MIN @ SAC L 25 12 6 9 66.7 0 0 - 0 0 - 1 2 3 0 1 1 1 1 6
+p30
+aVRobbie Hummel MIN 04/11/2014 MIN vs. HOU W 29 5 2 8 25.0 1 3 33.3 0 0 - 1 1 2 3 1 0 0 2 8
+p31
+aVDante Cunningham MIN 04/11/2014 MIN vs. HOU W 42 20 7 15 46.7 0 0 - 6 10 60.0 4 9 13 1 1 3 0 4 11
+p32
+aVCorey Brewer MIN 04/11/2014 MIN vs. HOU W 45 51 19 30 63.3 2 6 33.3 11 15 73.3 1 1 2 1 6 1 2 4 5
+p33
+aVJ.J. Barea MIN 04/11/2014 MIN vs. HOU W 11 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 3 1 0 1 0 -11
+p34
+aVRicky Rubio MIN 04/11/2014 MIN vs. HOU W 40 16 5 16 31.3 0 1 0.0 6 11 54.5 0 5 5 10 1 0 6 5 10
+p35
+aVRonny Turiaf MIN 04/11/2014 MIN vs. HOU W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -13
+p36
+aVGorgui Dieng MIN 04/11/2014 MIN vs. HOU W 38 12 6 13 46.2 0 0 - 0 0 - 10 10 20 3 2 2 3 3 16
+p37
+aVLuc Mbah a Moute MIN 04/11/2014 MIN vs. HOU W 27 4 1 8 12.5 0 1 0.0 2 2 100.0 2 4 6 1 1 2 3 3 -16
+p38
+aVOthyus Jeffers MIN 04/09/2014 MIN vs. CHI L 11 2 0 1 0.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 1 1 7
+p39
+aVGorgui Dieng MIN 04/09/2014 MIN vs. CHI L 31 9 3 8 37.5 0 0 - 3 3 100.0 4 4 8 0 0 3 2 3 -11
+p40
+aVLuc Mbah a Moute MIN 04/09/2014 MIN vs. CHI L 21 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -4
+p41
+aVRonny Turiaf MIN 04/09/2014 MIN vs. CHI L 17 11 5 7 71.4 0 0 - 1 1 100.0 2 3 5 0 0 1 0 1 -4
+p42
+aVAlexey Shved MIN 04/09/2014 MIN vs. CHI L 16 9 3 7 42.9 1 3 33.3 2 2 100.0 1 1 2 5 0 0 3 2 0
+p43
+aVCorey Brewer MIN 04/09/2014 MIN vs. CHI L 32 9 4 9 44.4 0 2 0.0 1 2 50.0 0 1 1 1 4 0 2 3 -14
+p44
+aVKevin Love MIN 04/09/2014 MIN vs. CHI L 33 17 7 20 35.0 2 8 25.0 1 1 100.0 1 9 10 3 0 1 3 2 -11
+p45
+aVRobbie Hummel MIN 04/09/2014 MIN vs. CHI L 32 7 3 6 50.0 0 1 0.0 1 1 100.0 2 3 5 0 0 0 0 1 -19
+p46
+aVRicky Rubio MIN 04/09/2014 MIN vs. CHI L 32 15 5 14 35.7 1 2 50.0 4 4 100.0 0 1 1 6 0 0 0 1 -15
+p47
+aVDante Cunningham MIN 04/09/2014 MIN vs. CHI L 15 6 3 7 42.9 0 0 - 0 0 - 1 1 2 1 1 0 1 0 -4
+p48
+aVOthyus Jeffers MIN 04/08/2014 MIN vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p49
+aVLuc Mbah a Moute MIN 04/08/2014 MIN vs. SAS W 19 11 5 7 71.4 1 1 100.0 0 0 - 1 0 1 0 0 0 0 2 -2
+p50
+aVGorgui Dieng MIN 04/08/2014 MIN vs. SAS W 27 12 4 15 26.7 0 0 - 4 5 80.0 7 8 15 0 0 1 0 3 20
+p51
+aVCorey Brewer MIN 04/08/2014 MIN vs. SAS W 29 14 5 8 62.5 1 1 100.0 3 3 100.0 0 3 3 2 4 0 2 1 24
+p52
+aVAlexey Shved MIN 04/08/2014 MIN vs. SAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p53
+aVRonny Turiaf MIN 04/08/2014 MIN vs. SAS W 21 10 4 5 80.0 0 0 - 2 4 50.0 3 6 9 1 0 1 1 3 -1
+p54
+aVJ.J. Barea MIN 04/08/2014 MIN vs. SAS W 21 7 3 9 33.3 0 2 0.0 1 1 100.0 0 1 1 4 0 0 5 4 0
+p55
+aVDante Cunningham MIN 04/08/2014 MIN vs. SAS W 15 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 5 3 0 0 0 5
+p56
+aVRicky Rubio MIN 04/08/2014 MIN vs. SAS W 34 23 10 17 58.8 0 1 0.0 3 4 75.0 0 2 2 7 1 0 2 2 25
+p57
+aVRobbie Hummel MIN 04/08/2014 MIN vs. SAS W 35 9 4 10 40.0 1 4 25.0 0 0 - 3 4 7 0 1 0 1 2 13
+p58
+aVKevin Love MIN 04/08/2014 MIN vs. SAS W 33 19 5 15 33.3 2 6 33.3 7 7 100.0 2 10 12 4 0 1 4 0 14
+p59
+aVDante Cunningham MIN 04/05/2014 MIN @ ORL L 34 12 5 9 55.6 0 0 - 2 5 40.0 2 4 6 3 1 3 2 1 9
+p60
+aVGorgui Dieng MIN 04/05/2014 MIN @ ORL L 36 12 5 9 55.6 0 0 - 2 3 66.7 4 4 8 3 0 2 3 2 4
+p61
+aVRonny Turiaf MIN 04/05/2014 MIN @ ORL L 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -12
+p62
+aVChase Budinger MIN 04/05/2014 MIN @ ORL L 1 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p63
+aVRobbie Hummel MIN 04/05/2014 MIN @ ORL L 33 12 4 10 40.0 0 3 0.0 4 4 100.0 1 5 6 2 1 0 1 2 -3
+p64
+aVCorey Brewer MIN 04/05/2014 MIN @ ORL L 33 15 6 9 66.7 1 2 50.0 2 5 40.0 0 0 0 3 5 0 0 2 6
+p65
+aVRicky Rubio MIN 04/05/2014 MIN @ ORL L 33 18 7 18 38.9 0 3 0.0 4 5 80.0 0 1 1 10 3 0 3 2 -2
+p66
+aVJ.J. Barea MIN 04/05/2014 MIN @ ORL L 17 6 3 8 37.5 0 4 0.0 0 0 - 0 3 3 5 0 0 3 1 -12
+p67
+aVLuc Mbah a Moute MIN 04/05/2014 MIN @ ORL L 31 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 0 1 0 1 0 -26
+p68
+aVAlexey Shved MIN 04/05/2014 MIN @ ORL L 9 1 0 4 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -4
+p69
+aVKevin Love MIN 04/04/2014 MIN @ MIA W 45 28 11 27 40.7 2 9 22.2 4 5 80.0 4 7 11 2 0 1 4 1 -5
+p70
+aVLuc Mbah a Moute MIN 04/04/2014 MIN @ MIA W 23 7 1 2 50.0 0 1 0.0 5 6 83.3 0 0 0 1 1 0 0 6 -11
+p71
+aVShabazz Muhammad MIN 04/04/2014 MIN @ MIA W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 4
+p72
+aVChase Budinger MIN 04/04/2014 MIN @ MIA W 38 24 7 9 77.8 5 7 71.4 5 7 71.4 2 2 4 4 2 0 2 4 -8
+p73
+aVRicky Rubio MIN 04/04/2014 MIN @ MIA W 46 13 5 9 55.6 1 3 33.3 2 3 66.7 0 5 5 14 2 0 4 2 4
+p74
+aVRobbie Hummel MIN 04/04/2014 MIN @ MIA W 13 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 1 1 0 1 1 6
+p75
+aVGorgui Dieng MIN 04/04/2014 MIN @ MIA W 25 15 6 15 40.0 0 0 - 3 6 50.0 2 2 4 0 1 3 2 2 -4
+p76
+aVRonny Turiaf MIN 04/04/2014 MIN @ MIA W 26 6 3 5 60.0 0 0 - 0 0 - 0 8 8 0 1 1 2 2 6
+p77
+aVJ.J. Barea MIN 04/04/2014 MIN @ MIA W 39 13 4 12 33.3 3 7 42.9 2 2 100.0 0 6 6 3 1 0 1 2 6
+p78
+aVCorey Brewer MIN 04/04/2014 MIN @ MIA W 32 12 5 9 55.6 0 2 0.0 2 3 66.7 1 5 6 2 1 0 1 2 7
+p79
+aVRicky Rubio MIN 04/02/2014 MIN vs. MEM W 33 14 5 11 45.5 1 2 50.0 3 4 75.0 1 2 3 7 3 0 2 3 15
+p80
+aVGorgui Dieng MIN 04/02/2014 MIN vs. MEM W 26 8 4 6 66.7 0 0 - 0 0 - 2 7 9 0 1 1 5 2 5
+p81
+aVKevin Love MIN 04/02/2014 MIN vs. MEM W 36 24 9 15 60.0 2 5 40.0 4 5 80.0 4 12 16 10 1 1 2 2 14
+p82
+aVJ.J. Barea MIN 04/02/2014 MIN vs. MEM W 15 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 7 1 0 1 1 -1
+p83
+aVRonny Turiaf MIN 04/02/2014 MIN vs. MEM W 22 11 5 5 100.0 0 0 - 1 3 33.3 3 4 7 2 0 3 1 2 7
+p84
+aVKevin Martin MIN 04/02/2014 MIN vs. MEM W 34 21 10 18 55.6 1 3 33.3 0 0 - 0 2 2 2 1 0 2 2 15
+p85
+aVShabazz Muhammad MIN 04/02/2014 MIN vs. MEM W 14 8 4 5 80.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p86
+aVChase Budinger MIN 04/02/2014 MIN vs. MEM W 15 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 1
+p87
+aVDante Cunningham MIN 04/02/2014 MIN vs. MEM W 10 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 1 0 0 0 0 2
+p88
+aVRobbie Hummel MIN 04/02/2014 MIN vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p89
+aVCorey Brewer MIN 04/02/2014 MIN vs. MEM W 34 6 2 7 28.6 0 2 0.0 2 2 100.0 1 1 2 2 1 1 1 1 11
+p90
+aVRobbie Hummel MIN 03/31/2014 MIN vs. LAC L 23 11 4 8 50.0 3 4 75.0 0 0 - 0 2 2 3 1 0 1 3 16
+p91
+aVCorey Brewer MIN 03/31/2014 MIN vs. LAC L 21 9 4 8 50.0 1 3 33.3 0 0 - 0 1 1 1 1 2 1 1 -22
+p92
+aVNikola Pekovic MIN 03/31/2014 MIN vs. LAC L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p93
+aVKevin Love MIN 03/31/2014 MIN vs. LAC L 29 20 8 21 38.1 2 8 25.0 2 3 66.7 5 8 13 4 1 0 4 1 -30
+p94
+aVShabazz Muhammad MIN 03/31/2014 MIN vs. LAC L 12 11 5 6 83.3 0 0 - 1 2 50.0 0 3 3 1 0 0 0 2 12
+p95
+aVGorgui Dieng MIN 03/31/2014 MIN vs. LAC L 19 14 4 4 100.0 0 0 - 6 6 100.0 3 1 4 3 3 1 1 4 -4
+p96
+aVRicky Rubio MIN 03/31/2014 MIN vs. LAC L 28 3 1 6 16.7 1 2 50.0 0 0 - 1 1 2 7 1 0 5 1 -32
+p97
+aVJ.J. Barea MIN 03/31/2014 MIN vs. LAC L 24 4 2 10 20.0 0 1 0.0 0 0 - 0 3 3 8 0 0 2 5 19
+p98
+aVChase Budinger MIN 03/31/2014 MIN vs. LAC L 27 12 5 8 62.5 1 3 33.3 1 1 100.0 0 5 5 1 2 1 1 2 12
+p99
+aVDante Cunningham MIN 03/31/2014 MIN vs. LAC L 19 8 4 8 50.0 0 0 - 0 0 - 3 3 6 2 0 0 2 1 5
+p100
+aVKevin Martin MIN 03/31/2014 MIN vs. LAC L 30 12 4 14 28.6 2 5 40.0 2 2 100.0 0 2 2 0 0 0 0 2 -21
+p101
+aVCorey Brewer MIN 03/30/2014 MIN @ BKN L 30 21 9 13 69.2 0 1 0.0 3 4 75.0 1 2 3 2 4 0 2 3 3
+p102
+aVAlexey Shved MIN 03/30/2014 MIN @ BKN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p103
+aVLuc Mbah a Moute MIN 03/30/2014 MIN @ BKN L 9 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -5
+p104
+aVRicky Rubio MIN 03/30/2014 MIN @ BKN L 31 7 2 7 28.6 0 1 0.0 3 4 75.0 1 3 4 12 2 0 3 4 6
+p105
+aVKevin Martin MIN 03/30/2014 MIN @ BKN L 39 21 9 16 56.3 1 2 50.0 2 4 50.0 0 3 3 3 2 0 2 4 -8
+p106
+aVRobbie Hummel MIN 03/30/2014 MIN @ BKN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p107
+aVDante Cunningham MIN 03/30/2014 MIN @ BKN L 13 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -11
+p108
+aVJ.J. Barea MIN 03/30/2014 MIN @ BKN L 15 6 2 6 33.3 1 3 33.3 1 2 50.0 0 1 1 2 0 0 2 0 -18
+p109
+aVNikola Pekovic MIN 03/30/2014 MIN @ BKN L 27 13 5 7 71.4 0 0 - 3 5 60.0 2 4 6 1 2 0 3 1 8
+p110
+aVChase Budinger MIN 03/30/2014 MIN @ BKN L 17 6 2 6 33.3 0 2 0.0 2 2 100.0 0 2 2 1 0 0 2 2 -15
+p111
+aVKevin Love MIN 03/30/2014 MIN @ BKN L 33 14 5 14 35.7 1 3 33.3 3 4 75.0 4 5 9 3 0 0 2 2 -1
+p112
+aVShabazz Muhammad MIN 03/30/2014 MIN @ BKN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p113
+aVGorgui Dieng MIN 03/30/2014 MIN @ BKN L 19 5 2 4 50.0 0 0 - 1 2 50.0 2 9 11 0 2 0 3 0 -23
+p114
+aVChase Budinger MIN 03/28/2014 MIN vs. LAL W 24 11 3 7 42.9 1 3 33.3 4 4 100.0 2 3 5 3 2 0 0 1 13
+p115
+aVAlexey Shved MIN 03/28/2014 MIN vs. LAL W 6 5 2 3 66.7 0 1 0.0 1 1 100.0 0 1 1 3 0 0 3 1 -1
+p116
+aVGorgui Dieng MIN 03/28/2014 MIN vs. LAL W 23 14 5 5 100.0 0 0 - 4 7 57.1 3 6 9 0 0 1 2 5 2
+p117
+aVKevin Love MIN 03/28/2014 MIN vs. LAL W 29 22 6 10 60.0 3 5 60.0 7 9 77.8 0 10 10 10 1 0 4 1 21
+p118
+aVNikola Pekovic MIN 03/28/2014 MIN vs. LAL W 22 26 9 10 90.0 0 0 - 8 8 100.0 1 2 3 0 0 0 3 3 38
+p119
+aVShabazz Muhammad MIN 03/28/2014 MIN vs. LAL W 7 9 4 4 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 2
+p120
+aVKevin Martin MIN 03/28/2014 MIN vs. LAL W 24 17 7 12 58.3 1 3 33.3 2 2 100.0 1 2 3 4 0 0 1 0 23
+p121
+aVCorey Brewer MIN 03/28/2014 MIN vs. LAL W 27 11 3 6 50.0 0 1 0.0 5 5 100.0 1 2 3 3 2 0 0 1 21
+p122
+aVDante Cunningham MIN 03/28/2014 MIN vs. LAL W 14 8 4 6 66.7 0 0 - 0 1 0.0 1 2 3 0 0 1 2 0 8
+p123
+aVRobbie Hummel MIN 03/28/2014 MIN vs. LAL W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p124
+aVJ.J. Barea MIN 03/28/2014 MIN vs. LAL W 16 8 3 6 50.0 2 3 66.7 0 0 - 0 4 4 4 0 0 3 0 18
+p125
+aVLuc Mbah a Moute MIN 03/28/2014 MIN vs. LAL W 15 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 13
+p126
+aVRicky Rubio MIN 03/28/2014 MIN vs. LAL W 26 10 4 5 80.0 0 0 - 2 3 66.7 0 6 6 6 1 0 2 0 19
+p127
+aVRicky Rubio MIN 03/26/2014 MIN vs. ATL W 31 4 1 6 16.7 0 1 0.0 2 4 50.0 0 1 1 10 6 0 2 3 19
+p128
+aVChase Budinger MIN 03/26/2014 MIN vs. ATL W 22 12 5 8 62.5 2 5 40.0 0 0 - 0 7 7 0 2 0 0 2 14
+p129
+aVKevin Love MIN 03/26/2014 MIN vs. ATL W 29 14 5 9 55.6 2 4 50.0 2 2 100.0 0 12 12 4 0 0 5 0 6
+p130
+aVRobbie Hummel MIN 03/26/2014 MIN vs. ATL W 12 9 3 6 50.0 2 3 66.7 1 2 50.0 0 0 0 1 1 0 0 3 10
+p131
+aVGorgui Dieng MIN 03/26/2014 MIN vs. ATL W 41 15 6 8 75.0 0 0 - 3 4 75.0 5 10 15 2 1 1 1 3 25
+p132
+aVLuc Mbah a Moute MIN 03/26/2014 MIN vs. ATL W 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -2
+p133
+aVKevin Martin MIN 03/26/2014 MIN vs. ATL W 31 18 8 17 47.1 1 3 33.3 1 1 100.0 1 1 2 0 3 0 1 1 12
+p134
+aVJ.J. Barea MIN 03/26/2014 MIN vs. ATL W 23 8 3 8 37.5 1 2 50.0 1 1 100.0 0 1 1 8 0 0 3 2 16
+p135
+aVDante Cunningham MIN 03/26/2014 MIN vs. ATL W 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 2 0 9
+p136
+aVShabazz Muhammad MIN 03/26/2014 MIN vs. ATL W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p137
+aVCorey Brewer MIN 03/26/2014 MIN vs. ATL W 30 18 8 16 50.0 0 1 0.0 2 2 100.0 0 3 3 3 3 0 3 0 15
+p138
+aVAlexey Shved MIN 03/26/2014 MIN vs. ATL W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 -2
+p139
+aVGorgui Dieng MIN 03/24/2014 MIN @ MEM L 37 11 5 10 50.0 0 0 - 1 2 50.0 7 10 17 1 1 0 2 4 -14
+p140
+aVLuc Mbah a Moute MIN 03/24/2014 MIN @ MEM L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p141
+aVKevin Martin MIN 03/24/2014 MIN @ MEM L 23 13 5 13 38.5 0 3 0.0 3 4 75.0 1 0 1 1 0 0 1 1 -20
+p142
+aVRicky Rubio MIN 03/24/2014 MIN @ MEM L 32 6 1 8 12.5 0 4 0.0 4 4 100.0 1 1 2 4 3 1 1 3 -26
+p143
+aVShabazz Muhammad MIN 03/24/2014 MIN @ MEM L 12 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p144
+aVKevin Love MIN 03/24/2014 MIN @ MEM L 34 16 6 18 33.3 2 8 25.0 2 2 100.0 1 6 7 4 0 0 3 1 -32
+p145
+aVRobbie Hummel MIN 03/24/2014 MIN @ MEM L 5 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 0 0 0 0 0 2
+p146
+aVChase Budinger MIN 03/24/2014 MIN @ MEM L 25 9 3 9 33.3 1 3 33.3 2 2 100.0 0 5 5 2 0 1 1 0 3
+p147
+aVAlexey Shved MIN 03/24/2014 MIN @ MEM L 16 5 1 7 14.3 1 3 33.3 2 2 100.0 0 0 0 5 1 1 1 0 9
+p148
+aVCorey Brewer MIN 03/24/2014 MIN @ MEM L 27 15 6 10 60.0 1 1 100.0 2 3 66.7 3 4 7 0 0 0 1 3 -10
+p149
+aVDante Cunningham MIN 03/24/2014 MIN @ MEM L 21 9 4 7 57.1 0 0 - 1 1 100.0 1 1 2 2 2 1 0 2 10
+p150
+aVDante Cunningham MIN 03/23/2014 MIN vs. PHX L 26 9 4 7 57.1 0 0 - 1 1 100.0 0 3 3 0 1 3 1 4 -19
+p151
+aVShabazz Muhammad MIN 03/23/2014 MIN vs. PHX L 17 9 3 8 37.5 0 1 0.0 3 4 75.0 5 0 5 0 0 0 0 0 -7
+p152
+aVKevin Martin MIN 03/23/2014 MIN vs. PHX L 35 25 6 16 37.5 2 4 50.0 11 12 91.7 0 0 0 1 1 0 2 3 -2
+p153
+aVRicky Rubio MIN 03/23/2014 MIN vs. PHX L 44 19 7 12 58.3 2 4 50.0 3 5 60.0 1 3 4 9 3 0 2 4 -4
+p154
+aVKevin Love MIN 03/23/2014 MIN vs. PHX L 38 36 11 27 40.7 3 10 30.0 11 12 91.7 5 9 14 9 2 0 3 3 3
+p155
+aVGorgui Dieng MIN 03/23/2014 MIN vs. PHX L 25 6 2 3 66.7 0 0 - 2 2 100.0 3 6 9 2 1 0 1 3 10
+p156
+aVJ.J. Barea MIN 03/23/2014 MIN vs. PHX L 17 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 4 0 0 2 2 -8
+p157
+aVCorey Brewer MIN 03/23/2014 MIN vs. PHX L 38 14 6 15 40.0 1 2 50.0 1 1 100.0 2 1 3 0 1 0 1 5 -8
+p158
+aVChase Budinger MIN 03/20/2014 MIN @ HOU L 27 11 5 14 35.7 1 5 20.0 0 0 - 1 1 2 2 1 0 0 3 -14
+p159
+aVCorey Brewer MIN 03/20/2014 MIN @ HOU L 17 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 -14
+p160
+aVAlexey Shved MIN 03/20/2014 MIN @ HOU L 9 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 1 0 0 3 0 -3
+p161
+aVJ.J. Barea MIN 03/20/2014 MIN @ HOU L 15 4 1 5 20.0 0 2 0.0 2 2 100.0 1 0 1 3 0 0 4 0 -11
+p162
+aVKevin Martin MIN 03/20/2014 MIN @ HOU L 20 6 2 5 40.0 1 3 33.3 1 2 50.0 0 1 1 1 1 0 2 2 -13
+p163
+aVGorgui Dieng MIN 03/20/2014 MIN @ HOU L 38 22 6 16 37.5 0 0 - 10 11 90.9 8 13 21 4 1 0 0 3 -10
+p164
+aVRicky Rubio MIN 03/20/2014 MIN @ HOU L 25 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 8 0 0 2 1 -5
+p165
+aVRobbie Hummel MIN 03/20/2014 MIN @ HOU L 10 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 -13
+p166
+aVDante Cunningham MIN 03/20/2014 MIN @ HOU L 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 2 -17
+p167
+aVLuc Mbah a Moute MIN 03/20/2014 MIN @ HOU L 25 11 5 7 71.4 1 1 100.0 0 2 0.0 2 1 3 1 1 1 1 0 -2
+p168
+aVKevin Love MIN 03/20/2014 MIN @ HOU L 30 29 10 19 52.6 5 9 55.6 4 4 100.0 1 5 6 5 1 2 1 2 -6
+p169
+aVShabazz Muhammad MIN 03/20/2014 MIN @ HOU L 6 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -7
+p170
+aVKevin Love MIN 03/19/2014 MIN @ DAL W 41 35 11 20 55.0 2 5 40.0 11 14 78.6 1 7 8 3 0 1 4 2 -9
+p171
+aVGorgui Dieng MIN 03/19/2014 MIN @ DAL W 25 10 5 5 100.0 0 0 - 0 0 - 3 8 11 1 1 1 0 4 15
+p172
+aVKevin Martin MIN 03/19/2014 MIN @ DAL W 37 19 5 15 33.3 3 7 42.9 6 6 100.0 1 1 2 0 1 0 3 2 -10
+p173
+aVChase Budinger MIN 03/19/2014 MIN @ DAL W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p174
+aVDante Cunningham MIN 03/19/2014 MIN @ DAL W 18 3 1 4 25.0 0 1 0.0 1 2 50.0 1 0 1 0 0 1 0 1 5
+p175
+aVJ.J. Barea MIN 03/19/2014 MIN @ DAL W 19 15 6 13 46.2 2 7 28.6 1 2 50.0 0 5 5 4 1 0 2 2 1
+p176
+aVRicky Rubio MIN 03/19/2014 MIN @ DAL W 49 22 8 12 66.7 0 1 0.0 6 7 85.7 1 9 10 15 4 1 3 2 11
+p177
+aVCorey Brewer MIN 03/19/2014 MIN @ DAL W 48 13 6 15 40.0 1 3 33.3 0 0 - 1 3 4 2 1 0 1 3 10
+p178
+aVRobbie Hummel MIN 03/19/2014 MIN @ DAL W 21 6 2 6 33.3 2 5 40.0 0 0 - 0 4 4 0 0 0 0 2 -9
+p179
+aVCorey Brewer MIN 03/16/2014 MIN vs. SAC W 33 10 5 9 55.6 0 1 0.0 0 0 - 2 2 4 2 0 0 0 2 9
+p180
+aVRobbie Hummel MIN 03/16/2014 MIN vs. SAC W 10 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 2 3
+p181
+aVLuc Mbah a Moute MIN 03/16/2014 MIN vs. SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p182
+aVGorgui Dieng MIN 03/16/2014 MIN vs. SAC W 37 12 5 7 71.4 0 0 - 2 6 33.3 3 8 11 0 2 5 1 2 8
+p183
+aVJ.J. Barea MIN 03/16/2014 MIN vs. SAC W 18 5 1 6 16.7 1 3 33.3 2 2 100.0 0 0 0 4 1 0 1 0 -7
+p184
+aVKevin Martin MIN 03/16/2014 MIN vs. SAC W 40 31 8 20 40.0 1 3 33.3 14 14 100.0 0 3 3 3 1 0 2 2 6
+p185
+aVDante Cunningham MIN 03/16/2014 MIN vs. SAC W 19 2 1 7 14.3 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -16
+p186
+aVKevin Love MIN 03/16/2014 MIN vs. SAC W 39 26 9 15 60.0 3 6 50.0 5 7 71.4 1 9 10 5 1 0 4 1 9
+p187
+aVRicky Rubio MIN 03/16/2014 MIN vs. SAC W 34 12 3 8 37.5 1 1 100.0 5 7 71.4 0 5 5 9 3 0 1 4 14
+p188
+aVChase Budinger MIN 03/16/2014 MIN vs. SAC W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p189
+aVShabazz Muhammad MIN 03/14/2014 MIN @ CHA L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -18
+p190
+aVJ.J. Barea MIN 03/14/2014 MIN @ CHA L 21 9 4 9 44.4 0 1 0.0 1 1 100.0 1 3 4 4 0 0 1 4 -12
+p191
+aVKevin Martin MIN 03/14/2014 MIN @ CHA L 33 19 6 13 46.2 3 5 60.0 4 4 100.0 1 4 5 1 1 0 0 1 -1
+p192
+aVNikola Pekovic MIN 03/14/2014 MIN @ CHA L 17 8 4 11 36.4 0 0 - 0 0 - 0 4 4 0 1 0 1 1 1
+p193
+aVRobbie Hummel MIN 03/14/2014 MIN @ CHA L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p194
+aVKevin Love MIN 03/14/2014 MIN @ CHA L 36 18 7 17 41.2 2 4 50.0 2 4 50.0 0 6 6 5 0 0 0 1 -2
+p195
+aVGorgui Dieng MIN 03/14/2014 MIN @ CHA L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p196
+aVDante Cunningham MIN 03/14/2014 MIN @ CHA L 21 10 5 8 62.5 0 0 - 0 0 - 1 3 4 2 1 1 2 2 -14
+p197
+aVCorey Brewer MIN 03/14/2014 MIN @ CHA L 31 10 3 6 50.0 0 1 0.0 4 6 66.7 0 2 2 1 3 1 0 2 2
+p198
+aVRicky Rubio MIN 03/14/2014 MIN @ CHA L 32 6 1 6 16.7 0 1 0.0 4 4 100.0 0 3 3 9 2 0 3 0 3
+p199
+aVChase Budinger MIN 03/14/2014 MIN @ CHA L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 2 -9
+p200
+aVAlexey Shved MIN 03/14/2014 MIN @ CHA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p201
+aVLuc Mbah a Moute MIN 03/14/2014 MIN @ CHA L 8 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -7
+p202
+aVRobbie Hummel MIN 03/11/2014 MIN vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p203
+aVCorey Brewer MIN 03/11/2014 MIN vs. MIL W 35 4 1 8 12.5 0 0 - 2 2 100.0 1 4 5 3 2 0 1 4 2
+p204
+aVDante Cunningham MIN 03/11/2014 MIN vs. MIL W 29 9 4 8 50.0 0 0 - 1 2 50.0 1 2 3 0 1 1 2 3 14
+p205
+aVAlexey Shved MIN 03/11/2014 MIN vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p206
+aVShabazz Muhammad MIN 03/11/2014 MIN vs. MIL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p207
+aVGorgui Dieng MIN 03/11/2014 MIN vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p208
+aVChase Budinger MIN 03/11/2014 MIN vs. MIL W 10 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 0 0 0 1 7
+p209
+aVKevin Martin MIN 03/11/2014 MIN vs. MIL W 31 26 9 18 50.0 2 5 40.0 6 7 85.7 0 2 2 0 1 0 2 2 -2
+p210
+aVJ.J. Barea MIN 03/11/2014 MIN vs. MIL W 28 19 7 10 70.0 2 3 66.7 3 4 75.0 1 1 2 4 1 0 1 3 5
+p211
+aVKevin Love MIN 03/11/2014 MIN vs. MIL W 42 27 10 22 45.5 3 9 33.3 4 7 57.1 2 8 10 6 0 3 0 1 12
+p212
+aVRicky Rubio MIN 03/11/2014 MIN vs. MIL W 33 11 3 4 75.0 1 1 100.0 4 4 100.0 1 1 2 10 3 0 1 5 24
+p213
+aVNikola Pekovic MIN 03/11/2014 MIN vs. MIL W 23 14 6 9 66.7 0 0 - 2 4 50.0 5 3 8 1 1 0 0 5 2
+p214
+aVChase Budinger MIN 03/09/2014 MIN vs. TOR L 13 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 2
+p215
+aVJ.J. Barea MIN 03/09/2014 MIN vs. TOR L 19 5 2 8 25.0 1 3 33.3 0 0 - 1 1 2 3 0 0 2 4 -3
+p216
+aVNikola Pekovic MIN 03/09/2014 MIN vs. TOR L 33 17 8 13 61.5 0 0 - 1 1 100.0 5 6 11 0 0 0 5 3 -6
+p217
+aVShabazz Muhammad MIN 03/09/2014 MIN vs. TOR L 8 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 3
+p218
+aVCorey Brewer MIN 03/09/2014 MIN vs. TOR L 44 17 6 13 46.2 0 2 0.0 5 9 55.6 2 1 3 3 6 1 0 4 11
+p219
+aVLuc Mbah a Moute MIN 03/09/2014 MIN vs. TOR L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -18
+p220
+aVKevin Martin MIN 03/09/2014 MIN vs. TOR L 32 20 8 19 42.1 1 3 33.3 3 3 100.0 0 2 2 0 0 0 0 3 -6
+p221
+aVRicky Rubio MIN 03/09/2014 MIN vs. TOR L 26 8 3 8 37.5 0 0 - 2 2 100.0 1 0 1 7 2 0 0 6 -1
+p222
+aVDante Cunningham MIN 03/09/2014 MIN vs. TOR L 17 2 1 4 25.0 0 0 - 0 1 0.0 0 2 2 2 0 0 0 1 -14
+p223
+aVKevin Love MIN 03/09/2014 MIN vs. TOR L 41 26 9 22 40.9 4 9 44.4 4 4 100.0 3 8 11 9 1 1 0 2 0
+p224
+aVAlexey Shved MIN 03/09/2014 MIN vs. TOR L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -3
+p225
+aVShabazz Muhammad MIN 03/07/2014 MIN vs. DET W 10 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 -6
+p226
+aVNikola Pekovic MIN 03/07/2014 MIN vs. DET W 29 17 5 14 35.7 0 0 - 7 10 70.0 2 7 9 0 2 0 1 3 24
+p227
+aVJ.J. Barea MIN 03/07/2014 MIN vs. DET W 15 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 6 0 0 0 0 -8
+p228
+aVLuc Mbah a Moute MIN 03/07/2014 MIN vs. DET W 8 6 3 3 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 3
+p229
+aVKevin Love MIN 03/07/2014 MIN vs. DET W 36 28 10 18 55.6 3 7 42.9 5 6 83.3 5 9 14 4 2 0 2 1 20
+p230
+aVRicky Rubio MIN 03/07/2014 MIN vs. DET W 36 11 2 6 33.3 1 3 33.3 6 8 75.0 1 7 8 10 3 0 3 2 20
+p231
+aVKevin Martin MIN 03/07/2014 MIN vs. DET W 32 24 9 16 56.3 1 5 20.0 5 5 100.0 0 1 1 1 0 0 2 0 22
+p232
+aVChase Budinger MIN 03/07/2014 MIN vs. DET W 16 7 3 5 60.0 1 3 33.3 0 0 - 1 2 3 0 0 0 0 3 -9
+p233
+aVDante Cunningham MIN 03/07/2014 MIN vs. DET W 17 4 2 8 25.0 0 0 - 0 0 - 2 1 3 0 0 1 1 3 -11
+p234
+aVCorey Brewer MIN 03/07/2014 MIN vs. DET W 34 8 4 9 44.4 0 1 0.0 0 0 - 0 3 3 4 0 0 0 3 21
+p235
+aVGorgui Dieng MIN 03/07/2014 MIN vs. DET W 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 2 1 3 -11
+p236
+aVDante Cunningham MIN 03/05/2014 MIN vs. NYK L 29 7 3 6 50.0 0 0 - 1 2 50.0 4 2 6 1 0 0 1 2 -12
+p237
+aVShabazz Muhammad MIN 03/05/2014 MIN vs. NYK L 14 10 5 5 100.0 0 0 - 0 0 - 2 1 3 0 1 0 4 3 -11
+p238
+aVChase Budinger MIN 03/05/2014 MIN vs. NYK L 23 7 3 10 30.0 1 5 20.0 0 0 - 1 3 4 0 0 0 0 0 -9
+p239
+aVJ.J. Barea MIN 03/05/2014 MIN vs. NYK L 15 5 1 9 11.1 1 2 50.0 2 2 100.0 1 1 2 5 0 0 1 1 -10
+p240
+aVNikola Pekovic MIN 03/05/2014 MIN vs. NYK L 26 17 8 12 66.7 0 0 - 1 1 100.0 2 4 6 0 0 0 0 2 -5
+p241
+aVKevin Martin MIN 03/05/2014 MIN vs. NYK L 28 12 3 10 30.0 2 5 40.0 4 4 100.0 0 3 3 1 0 0 0 2 0
+p242
+aVRicky Rubio MIN 03/05/2014 MIN vs. NYK L 32 11 4 6 66.7 0 0 - 3 3 100.0 3 3 6 8 2 0 6 4 0
+p243
+aVAlexey Shved MIN 03/05/2014 MIN vs. NYK L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p244
+aVGorgui Dieng MIN 03/05/2014 MIN vs. NYK L 1 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p245
+aVKevin Love MIN 03/05/2014 MIN vs. NYK L 36 19 6 17 35.3 3 10 30.0 4 6 66.7 3 5 8 2 0 0 2 2 -6
+p246
+aVA.J. Price MIN 03/05/2014 MIN vs. NYK L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p247
+aVLuc Mbah a Moute MIN 03/05/2014 MIN vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 1
+p248
+aVCorey Brewer MIN 03/05/2014 MIN vs. NYK L 30 16 5 11 45.5 0 3 0.0 6 6 100.0 0 6 6 2 0 1 0 3 -2
+p249
+aVKevin Martin MIN 03/03/2014 MIN @ DEN W 31 22 3 11 27.3 0 4 0.0 16 17 94.1 1 1 2 2 0 0 2 1 -1
+p250
+aVDante Cunningham MIN 03/03/2014 MIN @ DEN W 25 9 4 5 80.0 0 0 - 1 1 100.0 2 2 4 2 1 0 0 4 0
+p251
+aVGorgui Dieng MIN 03/03/2014 MIN @ DEN W 4 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 5
+p252
+aVJ.J. Barea MIN 03/03/2014 MIN @ DEN W 26 16 4 10 40.0 1 1 100.0 7 8 87.5 1 1 2 5 1 0 2 3 -2
+p253
+aVShabazz Muhammad MIN 03/03/2014 MIN @ DEN W 12 7 1 5 20.0 0 1 0.0 5 6 83.3 0 3 3 0 1 0 0 2 9
+p254
+aVRicky Rubio MIN 03/03/2014 MIN @ DEN W 26 5 1 2 50.0 0 0 - 3 4 75.0 1 4 5 5 1 0 4 5 -6
+p255
+aVLuc Mbah a Moute MIN 03/03/2014 MIN @ DEN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p256
+aVCorey Brewer MIN 03/03/2014 MIN @ DEN W 36 16 6 10 60.0 1 2 50.0 3 6 50.0 2 0 2 1 2 0 3 3 -5
+p257
+aVKevin Love MIN 03/03/2014 MIN @ DEN W 38 33 10 21 47.6 2 6 33.3 11 13 84.6 3 16 19 4 2 0 4 1 -3
+p258
+aVNikola Pekovic MIN 03/03/2014 MIN @ DEN W 24 16 5 8 62.5 0 0 - 6 9 66.7 3 6 9 1 0 0 2 1 5
+p259
+aVChase Budinger MIN 03/03/2014 MIN @ DEN W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 0 1 0 0 1 17
+p260
+aVChase Budinger MIN 03/01/2014 MIN @ SAC W 14 6 3 6 50.0 0 3 0.0 0 0 - 1 1 2 0 0 0 0 2 -9
+p261
+aVKevin Love MIN 03/01/2014 MIN @ SAC W 38 22 4 12 33.3 2 5 40.0 12 14 85.7 1 9 10 7 2 1 3 3 19
+p262
+aVNikola Pekovic MIN 03/01/2014 MIN @ SAC W 28 20 8 12 66.7 0 0 - 4 6 66.7 7 2 9 0 0 1 1 5 18
+p263
+aVKevin Martin MIN 03/01/2014 MIN @ SAC W 34 26 9 16 56.3 1 5 20.0 7 8 87.5 0 4 4 2 2 0 1 0 20
+p264
+aVCorey Brewer MIN 03/01/2014 MIN @ SAC W 34 13 5 10 50.0 1 3 33.3 2 2 100.0 0 2 2 1 2 0 2 4 20
+p265
+aVDante Cunningham MIN 03/01/2014 MIN @ SAC W 27 7 3 9 33.3 0 0 - 1 2 50.0 1 3 4 0 0 1 0 4 -8
+p266
+aVJ.J. Barea MIN 03/01/2014 MIN @ SAC W 16 6 3 9 33.3 0 3 0.0 0 0 - 0 5 5 5 0 0 0 0 -2
+p267
+aVLuc Mbah a Moute MIN 03/01/2014 MIN @ SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p268
+aVShabazz Muhammad MIN 03/01/2014 MIN @ SAC W 14 0 0 2 0.0 0 0 - 0 2 0.0 0 2 2 0 0 1 1 1 -9
+p269
+aVRicky Rubio MIN 03/01/2014 MIN @ SAC W 32 8 2 4 50.0 1 2 50.0 3 4 75.0 1 1 2 8 1 0 2 4 13
+p270
+aVCorey Brewer MIN 02/25/2014 MIN @ PHX W 33 18 7 9 77.8 1 1 100.0 3 7 42.9 0 1 1 1 2 0 3 2 14
+p271
+aVKevin Love MIN 02/25/2014 MIN @ PHX W 39 33 10 22 45.5 3 6 50.0 10 14 71.4 3 10 13 9 0 2 3 1 16
+p272
+aVAlexey Shved MIN 02/25/2014 MIN @ PHX W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -5
+p273
+aVDante Cunningham MIN 02/25/2014 MIN @ PHX W 34 12 5 8 62.5 0 1 0.0 2 2 100.0 0 5 5 2 3 3 1 4 18
+p274
+aVShabazz Muhammad MIN 02/25/2014 MIN @ PHX W 24 20 8 13 61.5 0 0 - 4 6 66.7 3 3 6 1 2 0 1 2 8
+p275
+aVGorgui Dieng MIN 02/25/2014 MIN @ PHX W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -5
+p276
+aVRicky Rubio MIN 02/25/2014 MIN @ PHX W 35 7 3 8 37.5 0 1 0.0 1 1 100.0 0 3 3 11 3 0 2 3 15
+p277
+aVJ.J. Barea MIN 02/25/2014 MIN @ PHX W 14 6 3 9 33.3 0 3 0.0 0 0 - 1 0 1 0 0 0 3 4 -1
+p278
+aVLuc Mbah a Moute MIN 02/25/2014 MIN @ PHX W 16 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -12
+p279
+aVChase Budinger MIN 02/25/2014 MIN @ PHX W 30 10 4 9 44.4 1 4 25.0 1 2 50.0 0 2 2 0 0 0 1 2 2
+p280
+aVRobbie Hummel MIN 02/25/2014 MIN @ PHX W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p281
+aVCorey Brewer MIN 02/23/2014 MIN @ POR L 32 6 3 11 27.3 0 2 0.0 0 0 - 2 3 5 1 2 0 0 2 -19
+p282
+aVA.J. Price MIN 02/23/2014 MIN @ POR L 4 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 4
+p283
+aVJ.J. Barea MIN 02/23/2014 MIN @ POR L 21 21 7 16 43.8 4 8 50.0 3 3 100.0 0 0 0 2 1 0 2 5 -7
+p284
+aVLuc Mbah a Moute MIN 02/23/2014 MIN @ POR L 23 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 0 1 1 2 -11
+p285
+aVChase Budinger MIN 02/23/2014 MIN @ POR L 24 8 3 6 50.0 2 3 66.7 0 0 - 1 1 2 0 0 0 0 2 -7
+p286
+aVRicky Rubio MIN 02/23/2014 MIN @ POR L 23 5 2 6 33.3 0 1 0.0 1 1 100.0 1 0 1 11 1 0 3 0 -8
+p287
+aVAlexey Shved MIN 02/23/2014 MIN @ POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p288
+aVKevin Love MIN 02/23/2014 MIN @ POR L 35 31 11 21 52.4 2 8 25.0 7 9 77.8 2 8 10 0 1 0 4 4 -19
+p289
+aVShabazz Muhammad MIN 02/23/2014 MIN @ POR L 22 2 1 8 12.5 0 0 - 0 1 0.0 5 2 7 0 0 0 1 3 1
+p290
+aVDante Cunningham MIN 02/23/2014 MIN @ POR L 25 12 6 14 42.9 0 0 - 0 2 0.0 5 1 6 0 0 1 0 0 -11
+p291
+aVGorgui Dieng MIN 02/23/2014 MIN @ POR L 13 3 0 1 0.0 0 0 - 3 4 75.0 3 3 6 2 0 0 1 1 8
+p292
+aVRobbie Hummel MIN 02/23/2014 MIN @ POR L 14 2 1 3 33.3 0 2 0.0 0 0 - 2 6 8 0 0 0 2 1 10
+p293
+aVChase Budinger MIN 02/22/2014 MIN @ UTA W 23 13 4 6 66.7 3 4 75.0 2 2 100.0 1 3 4 2 1 0 2 3 15
+p294
+aVDante Cunningham MIN 02/22/2014 MIN @ UTA W 33 11 5 8 62.5 0 0 - 1 2 50.0 0 5 5 3 1 0 0 4 5
+p295
+aVRobbie Hummel MIN 02/22/2014 MIN @ UTA W 8 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 1
+p296
+aVCorey Brewer MIN 02/22/2014 MIN @ UTA W 36 13 5 12 41.7 0 2 0.0 3 3 100.0 2 2 4 1 0 0 1 2 21
+p297
+aVKevin Love MIN 02/22/2014 MIN @ UTA W 33 37 11 20 55.0 6 10 60.0 9 10 90.0 3 9 12 10 1 0 1 3 23
+p298
+aVShabazz Muhammad MIN 02/22/2014 MIN @ UTA W 11 6 3 8 37.5 0 0 - 0 0 - 2 4 6 0 1 0 1 1 -3
+p299
+aVLuc Mbah a Moute MIN 02/22/2014 MIN @ UTA W 24 8 2 4 50.0 0 0 - 4 5 80.0 1 2 3 0 0 0 1 2 3
+p300
+aVRicky Rubio MIN 02/22/2014 MIN @ UTA W 27 15 5 7 71.4 1 1 100.0 4 5 80.0 3 3 6 7 0 0 4 2 16
+p301
+aVA.J. Price MIN 02/22/2014 MIN @ UTA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p302
+aVGorgui Dieng MIN 02/22/2014 MIN @ UTA W 22 8 4 5 80.0 0 0 - 0 2 0.0 0 8 8 1 0 3 1 4 4
+p303
+aVJ.J. Barea MIN 02/22/2014 MIN @ UTA W 21 7 3 9 33.3 0 2 0.0 1 4 25.0 0 0 0 6 0 0 0 2 1
+p304
+aVJ.J. Barea MIN 02/19/2014 MIN vs. IND W 15 12 6 10 60.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 4
+p305
+aVRobbie Hummel MIN 02/19/2014 MIN vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p306
+aVGorgui Dieng MIN 02/19/2014 MIN vs. IND W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 4
+p307
+aVLuc Mbah a Moute MIN 02/19/2014 MIN vs. IND W 25 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 4 7
+p308
+aVA.J. Price MIN 02/19/2014 MIN vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p309
+aVKevin Love MIN 02/19/2014 MIN vs. IND W 37 42 14 22 63.6 5 10 50.0 9 10 90.0 1 15 16 1 1 0 3 2 14
+p310
+aVCorey Brewer MIN 02/19/2014 MIN vs. IND W 28 12 5 10 50.0 0 1 0.0 2 3 66.7 0 1 1 1 3 0 0 4 10
+p311
+aVAlexey Shved MIN 02/19/2014 MIN vs. IND W 14 6 2 5 40.0 0 2 0.0 2 2 100.0 0 4 4 1 0 0 2 0 7
+p312
+aVDante Cunningham MIN 02/19/2014 MIN vs. IND W 24 10 4 9 44.4 0 0 - 2 2 100.0 2 5 7 0 1 2 2 1 5
+p313
+aVRonny Turiaf MIN 02/19/2014 MIN vs. IND W 30 11 5 7 71.4 0 0 - 1 8 12.5 1 3 4 0 1 2 0 3 3
+p314
+aVRicky Rubio MIN 02/19/2014 MIN vs. IND W 33 6 2 10 20.0 0 0 - 2 6 33.3 1 6 7 17 2 0 2 1 9
+p315
+aVChase Budinger MIN 02/19/2014 MIN vs. IND W 28 5 2 8 25.0 1 5 20.0 0 0 - 0 2 2 2 1 0 1 3 2
+p316
+aVShabazz Muhammad MIN 02/19/2014 MIN vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 0
+p317
+aVKevin Love MIN 02/12/2014 MIN vs. DEN W 37 32 11 20 55.0 6 11 54.5 4 4 100.0 2 9 11 8 0 1 1 2 30
+p318
+aVRicky Rubio MIN 02/12/2014 MIN vs. DEN W 33 11 4 6 66.7 0 0 - 3 4 75.0 1 0 1 12 7 0 1 2 28
+p319
+aVChase Budinger MIN 02/12/2014 MIN vs. DEN W 27 12 4 13 30.8 3 7 42.9 1 2 50.0 0 1 1 1 2 0 0 2 17
+p320
+aVDante Cunningham MIN 02/12/2014 MIN vs. DEN W 16 6 3 7 42.9 0 0 - 0 0 - 2 3 5 1 0 0 0 2 18
+p321
+aVCorey Brewer MIN 02/12/2014 MIN vs. DEN W 36 22 9 14 64.3 1 3 33.3 3 4 75.0 0 2 2 1 5 0 3 2 27
+p322
+aVRobbie Hummel MIN 02/12/2014 MIN vs. DEN W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -5
+p323
+aVJ.J. Barea MIN 02/12/2014 MIN vs. DEN W 18 18 8 8 100.0 2 2 100.0 0 0 - 0 1 1 3 0 0 1 4 15
+p324
+aVRonny Turiaf MIN 02/12/2014 MIN vs. DEN W 29 3 1 6 16.7 0 0 - 1 3 33.3 1 10 11 3 0 4 1 1 15
+p325
+aVGorgui Dieng MIN 02/12/2014 MIN vs. DEN W 8 2 0 0 - 0 0 - 2 4 50.0 0 4 4 1 0 0 1 1 -4
+p326
+aVLuc Mbah a Moute MIN 02/12/2014 MIN vs. DEN W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 4
+p327
+aVAlexey Shved MIN 02/12/2014 MIN vs. DEN W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p328
+aVShabazz Muhammad MIN 02/12/2014 MIN vs. DEN W 6 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -5
+p329
+aVA.J. Price MIN 02/12/2014 MIN vs. DEN W 8 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -6
+p330
+aVJ.J. Barea MIN 02/10/2014 MIN vs. HOU L 16 4 1 9 11.1 0 4 0.0 2 2 100.0 0 1 1 6 0 0 2 1 -2
+p331
+aVChase Budinger MIN 02/10/2014 MIN vs. HOU L 28 15 5 14 35.7 1 3 33.3 4 4 100.0 4 3 7 0 0 0 1 2 -21
+p332
+aVGorgui Dieng MIN 02/10/2014 MIN vs. HOU L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p333
+aVLuc Mbah a Moute MIN 02/10/2014 MIN vs. HOU L 29 10 5 6 83.3 0 0 - 0 0 - 1 1 2 1 1 0 1 2 1
+p334
+aVAlexey Shved MIN 02/10/2014 MIN vs. HOU L 19 11 4 10 40.0 2 5 40.0 1 1 100.0 0 1 1 1 1 1 3 1 -4
+p335
+aVA.J. Price MIN 02/10/2014 MIN vs. HOU L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p336
+aVDante Cunningham MIN 02/10/2014 MIN vs. HOU L 18 2 1 5 20.0 0 0 - 0 0 - 3 2 5 0 1 0 0 2 -3
+p337
+aVRicky Rubio MIN 02/10/2014 MIN vs. HOU L 30 7 2 10 20.0 1 4 25.0 2 2 100.0 2 5 7 9 1 1 3 3 -15
+p338
+aVRonny Turiaf MIN 02/10/2014 MIN vs. HOU L 30 2 1 2 50.0 0 0 - 0 0 - 3 7 10 1 1 1 1 2 -15
+p339
+aVShabazz Muhammad MIN 02/10/2014 MIN vs. HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p340
+aVCorey Brewer MIN 02/10/2014 MIN vs. HOU L 18 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 1 2 0 1 4 -11
+p341
+aVKevin Love MIN 02/10/2014 MIN vs. HOU L 37 31 9 23 39.1 1 6 16.7 12 12 100.0 3 7 10 1 1 0 4 1 -11
+p342
+aVCorey Brewer MIN 02/08/2014 MIN vs. POR L 39 26 11 23 47.8 0 1 0.0 4 6 66.7 3 4 7 2 0 1 0 1 6
+p343
+aVChase Budinger MIN 02/08/2014 MIN vs. POR L 29 19 6 12 50.0 3 6 50.0 4 5 80.0 1 4 5 1 1 0 3 0 19
+p344
+aVRonny Turiaf MIN 02/08/2014 MIN vs. POR L 38 8 4 8 50.0 0 0 - 0 0 - 6 7 13 3 0 3 1 6 8
+p345
+aVJ.J. Barea MIN 02/08/2014 MIN vs. POR L 14 6 1 7 14.3 0 3 0.0 4 4 100.0 0 3 3 0 1 0 1 2 -18
+p346
+aVGorgui Dieng MIN 02/08/2014 MIN vs. POR L 9 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 -16
+p347
+aVRicky Rubio MIN 02/08/2014 MIN vs. POR L 39 25 8 19 42.1 2 4 50.0 7 8 87.5 0 2 2 9 1 0 3 5 5
+p348
+aVRobbie Hummel MIN 02/08/2014 MIN vs. POR L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -4
+p349
+aVDante Cunningham MIN 02/08/2014 MIN vs. POR L 39 14 6 16 37.5 0 1 0.0 2 6 33.3 2 8 10 2 1 1 0 4 4
+p350
+aVLuc Mbah a Moute MIN 02/08/2014 MIN vs. POR L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -6
+p351
+aVAlexey Shved MIN 02/08/2014 MIN vs. POR L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -14
+p352
+aVShabazz Muhammad MIN 02/08/2014 MIN vs. POR L 17 12 4 8 50.0 0 2 0.0 4 5 80.0 0 2 2 0 1 0 1 4 -19
+p353
+aVKevin Love MIN 02/07/2014 MIN @ NOP L 36 26 6 20 30.0 0 6 0.0 14 17 82.4 4 15 19 3 1 0 2 3 -2
+p354
+aVDante Cunningham MIN 02/07/2014 MIN @ NOP L 29 2 1 3 33.3 0 0 - 0 0 - 1 5 6 1 1 1 0 3 -1
+p355
+aVKevin Martin MIN 02/07/2014 MIN @ NOP L 34 15 3 11 27.3 1 4 25.0 8 10 80.0 0 3 3 1 2 0 3 1 6
+p356
+aVRonny Turiaf MIN 02/07/2014 MIN @ NOP L 21 8 4 5 80.0 0 0 - 0 0 - 1 2 3 2 0 3 1 3 -1
+p357
+aVJ.J. Barea MIN 02/07/2014 MIN @ NOP L 15 9 3 8 37.5 1 2 50.0 2 2 100.0 0 0 0 0 1 0 4 2 -13
+p358
+aVLuc Mbah a Moute MIN 02/07/2014 MIN @ NOP L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -13
+p359
+aVRicky Rubio MIN 02/07/2014 MIN @ NOP L 33 11 3 10 30.0 1 2 50.0 4 4 100.0 1 4 5 6 1 1 3 2 8
+p360
+aVChase Budinger MIN 02/07/2014 MIN @ NOP L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -13
+p361
+aVCorey Brewer MIN 02/07/2014 MIN @ NOP L 41 16 6 10 60.0 1 2 50.0 3 4 75.0 0 4 4 0 2 0 2 0 -4
+p362
+aVGorgui Dieng MIN 02/07/2014 MIN @ NOP L 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p363
+aVJ.J. Barea MIN 02/05/2014 MIN @ OKC L 15 11 4 6 66.7 1 2 50.0 2 2 100.0 1 1 2 4 1 0 1 1 -4
+p364
+aVShabazz Muhammad MIN 02/05/2014 MIN @ OKC L 6 6 3 5 60.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 1 3
+p365
+aVAlexey Shved MIN 02/05/2014 MIN @ OKC L 17 8 2 7 28.6 1 3 33.3 3 4 75.0 0 1 1 1 0 0 2 0 0
+p366
+aVLuc Mbah a Moute MIN 02/05/2014 MIN @ OKC L 27 8 3 7 42.9 0 1 0.0 2 2 100.0 2 2 4 0 0 0 2 2 -8
+p367
+aVKevin Martin MIN 02/05/2014 MIN @ OKC L 23 8 4 10 40.0 0 1 0.0 0 0 - 0 2 2 1 2 0 0 0 -10
+p368
+aVRonny Turiaf MIN 02/05/2014 MIN @ OKC L 28 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 1 0 4 0 3 3
+p369
+aVChase Budinger MIN 02/05/2014 MIN @ OKC L 21 7 2 6 33.3 1 4 25.0 2 2 100.0 1 2 3 0 1 0 2 3 -1
+p370
+aVDante Cunningham MIN 02/05/2014 MIN @ OKC L 43 18 9 13 69.2 0 0 - 0 0 - 3 5 8 3 3 3 2 3 -16
+p371
+aVA.J. Price MIN 02/05/2014 MIN @ OKC L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p372
+aVGorgui Dieng MIN 02/05/2014 MIN @ OKC L 8 0 0 4 0.0 0 0 - 0 0 - 2 3 5 1 0 0 1 3 -2
+p373
+aVRicky Rubio MIN 02/05/2014 MIN @ OKC L 33 19 6 12 50.0 1 3 33.3 6 11 54.5 1 7 8 5 0 0 4 0 -11
+p374
+aVRobbie Hummel MIN 02/05/2014 MIN @ OKC L 17 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 0 1 0 0 -3
+p375
+aVRicky Rubio MIN 02/04/2014 MIN vs. LAL W 31 4 1 4 25.0 0 0 - 2 2 100.0 1 5 6 13 1 0 2 3 5
+p376
+aVDante Cunningham MIN 02/04/2014 MIN vs. LAL W 24 5 2 7 28.6 0 0 - 1 2 50.0 1 8 9 1 0 1 1 1 9
+p377
+aVKevin Martin MIN 02/04/2014 MIN vs. LAL W 41 32 13 26 50.0 4 6 66.7 2 3 66.7 0 3 3 4 1 0 1 2 5
+p378
+aVLuc Mbah a Moute MIN 02/04/2014 MIN vs. LAL W 18 4 1 5 20.0 0 0 - 2 2 100.0 3 0 3 2 0 0 1 1 4
+p379
+aVA.J. Price MIN 02/04/2014 MIN vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p380
+aVGorgui Dieng MIN 02/04/2014 MIN vs. LAL W 8 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 2 1 0 2 15
+p381
+aVJ.J. Barea MIN 02/04/2014 MIN vs. LAL W 17 11 3 8 37.5 0 2 0.0 5 5 100.0 0 3 3 4 0 0 1 1 5
+p382
+aVRonny Turiaf MIN 02/04/2014 MIN vs. LAL W 22 2 1 1 100.0 0 0 - 0 2 0.0 1 4 5 0 0 2 1 2 -4
+p383
+aVCorey Brewer MIN 02/04/2014 MIN vs. LAL W 31 11 5 10 50.0 1 3 33.3 0 2 0.0 1 0 1 1 3 0 2 3 4
+p384
+aVKevin Love MIN 02/04/2014 MIN vs. LAL W 41 31 8 19 42.1 2 5 40.0 13 18 72.2 3 14 17 3 1 1 3 2 5
+p385
+aVChase Budinger MIN 02/04/2014 MIN vs. LAL W 7 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 2 4
+p386
+aVRicky Rubio MIN 02/01/2014 MIN @ ATL L 32 5 1 3 33.3 0 1 0.0 3 4 75.0 0 4 4 11 5 0 3 6 -11
+p387
+aVRonny Turiaf MIN 02/01/2014 MIN @ ATL L 23 5 2 4 50.0 0 0 - 1 2 50.0 3 4 7 1 0 5 4 2 -13
+p388
+aVA.J. Price MIN 02/01/2014 MIN @ ATL L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p389
+aVJ.J. Barea MIN 02/01/2014 MIN @ ATL L 16 12 5 11 45.5 2 4 50.0 0 0 - 0 2 2 4 0 0 2 2 4
+p390
+aVLuc Mbah a Moute MIN 02/01/2014 MIN @ ATL L 10 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 1 0 2 2
+p391
+aVKevin Martin MIN 02/01/2014 MIN @ ATL L 23 17 5 14 35.7 1 3 33.3 6 7 85.7 0 0 0 1 0 0 1 3 -16
+p392
+aVAlexey Shved MIN 02/01/2014 MIN @ ATL L 23 9 3 9 33.3 1 4 25.0 2 4 50.0 2 3 5 1 1 0 1 2 5
+p393
+aVCorey Brewer MIN 02/01/2014 MIN @ ATL L 32 10 5 7 71.4 0 0 - 0 0 - 1 2 3 5 1 0 3 4 -17
+p394
+aVChase Budinger MIN 02/01/2014 MIN @ ATL L 14 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 13
+p395
+aVDante Cunningham MIN 02/01/2014 MIN @ ATL L 25 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 1 1 0 3 6
+p396
+aVKevin Love MIN 02/01/2014 MIN @ ATL L 38 43 12 22 54.5 2 3 66.7 17 18 94.4 6 13 19 1 1 0 3 0 -9
+p397
+aVChase Budinger MIN 01/31/2014 MIN vs. MEM L 18 3 1 5 20.0 1 5 20.0 0 0 - 0 2 2 1 0 0 0 2 -3
+p398
+aVRonny Turiaf MIN 01/31/2014 MIN vs. MEM L 28 7 3 4 75.0 0 0 - 1 2 50.0 2 8 10 2 1 1 2 2 -4
+p399
+aVKevin Martin MIN 01/31/2014 MIN vs. MEM L 38 14 7 17 41.2 0 2 0.0 0 0 - 1 2 3 1 1 0 2 2 -1
+p400
+aVKevin Love MIN 01/31/2014 MIN vs. MEM L 37 28 12 20 60.0 3 7 42.9 1 1 100.0 2 14 16 2 0 1 2 2 5
+p401
+aVAlexey Shved MIN 01/31/2014 MIN vs. MEM L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p402
+aVCorey Brewer MIN 01/31/2014 MIN vs. MEM L 34 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 3 2
+p403
+aVDante Cunningham MIN 01/31/2014 MIN vs. MEM L 18 12 6 9 66.7 0 0 - 0 0 - 2 5 7 0 1 0 0 3 5
+p404
+aVRicky Rubio MIN 01/31/2014 MIN vs. MEM L 27 6 2 7 28.6 0 1 0.0 2 2 100.0 0 3 3 8 1 0 4 2 8
+p405
+aVGorgui Dieng MIN 01/31/2014 MIN vs. MEM L 13 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 1 2 2 2 -14
+p406
+aVJ.J. Barea MIN 01/31/2014 MIN vs. MEM L 21 12 5 11 45.5 2 5 40.0 0 0 - 0 0 0 4 0 0 1 2 -12
+p407
+aVRicky Rubio MIN 01/29/2014 MIN vs. NOP W 24 5 1 4 25.0 0 1 0.0 3 3 100.0 1 2 3 6 1 0 2 4 11
+p408
+aVDante Cunningham MIN 01/29/2014 MIN vs. NOP W 20 12 6 7 85.7 0 0 - 0 0 - 0 6 6 1 0 0 1 2 4
+p409
+aVChase Budinger MIN 01/29/2014 MIN vs. NOP W 15 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 2 10
+p410
+aVRonny Turiaf MIN 01/29/2014 MIN vs. NOP W 26 4 2 5 40.0 0 0 - 0 0 - 3 5 8 1 0 0 1 4 9
+p411
+aVGorgui Dieng MIN 01/29/2014 MIN vs. NOP W 6 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 1
+p412
+aVCorey Brewer MIN 01/29/2014 MIN vs. NOP W 25 3 1 4 25.0 0 2 0.0 1 2 50.0 0 2 2 2 1 0 1 2 8
+p413
+aVKevin Martin MIN 01/29/2014 MIN vs. NOP W 33 18 7 18 38.9 1 6 16.7 3 5 60.0 1 5 6 1 0 2 2 1 1
+p414
+aVKevin Love MIN 01/29/2014 MIN vs. NOP W 43 30 11 26 42.3 1 6 16.7 7 9 77.8 5 9 14 5 0 0 3 1 8
+p415
+aVJ.J. Barea MIN 01/29/2014 MIN vs. NOP W 24 10 4 9 44.4 1 3 33.3 1 2 50.0 0 2 2 6 0 0 3 0 0
+p416
+aVLuc Mbah a Moute MIN 01/29/2014 MIN vs. NOP W 23 3 0 2 0.0 0 0 - 3 4 75.0 2 1 3 0 1 1 0 3 3
+p417
+aVNikola Pekovic MIN 01/27/2014 MIN @ CHI W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 6
+p418
+aVAlexey Shved MIN 01/27/2014 MIN @ CHI W 9 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 1 1 2 1 0 3
+p419
+aVLuc Mbah a Moute MIN 01/27/2014 MIN @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p420
+aVKevin Martin MIN 01/27/2014 MIN @ CHI W 28 8 3 9 33.3 1 2 50.0 1 2 50.0 0 6 6 1 0 0 0 1 3
+p421
+aVGorgui Dieng MIN 01/27/2014 MIN @ CHI W 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 1
+p422
+aVDante Cunningham MIN 01/27/2014 MIN @ CHI W 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 1 1 0 0 5
+p423
+aVCorey Brewer MIN 01/27/2014 MIN @ CHI W 35 11 5 8 62.5 1 2 50.0 0 0 - 0 0 0 3 3 2 2 2 6
+p424
+aVKevin Love MIN 01/27/2014 MIN @ CHI W 36 31 8 17 47.1 1 7 14.3 14 14 100.0 0 8 8 2 1 0 3 4 4
+p425
+aVRicky Rubio MIN 01/27/2014 MIN @ CHI W 30 9 3 8 37.5 0 1 0.0 3 4 75.0 1 5 6 4 2 0 3 1 3
+p426
+aVChase Budinger MIN 01/27/2014 MIN @ CHI W 20 12 5 7 71.4 2 2 100.0 0 0 - 0 4 4 1 0 0 0 0 6
+p427
+aVRonny Turiaf MIN 01/27/2014 MIN @ CHI W 32 14 6 7 85.7 0 0 - 2 3 66.7 4 3 7 0 0 3 1 3 2
+p428
+aVJ.J. Barea MIN 01/27/2014 MIN @ CHI W 18 4 2 7 28.6 0 3 0.0 0 0 - 0 4 4 7 0 0 2 1 6
+p429
+aVKevin Love MIN 01/25/2014 MIN @ POR L 36 15 4 12 33.3 1 3 33.3 6 6 100.0 1 12 13 4 1 1 4 2 5
+p430
+aVLuc Mbah a Moute MIN 01/25/2014 MIN @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p431
+aVNikola Pekovic MIN 01/25/2014 MIN @ POR L 35 23 9 18 50.0 0 0 - 5 5 100.0 3 8 11 2 0 0 0 2 7
+p432
+aVAlexey Shved MIN 01/25/2014 MIN @ POR L 6 5 1 3 33.3 0 1 0.0 3 3 100.0 0 0 0 1 0 0 1 0 -12
+p433
+aVKevin Martin MIN 01/25/2014 MIN @ POR L 41 30 11 22 50.0 6 10 60.0 2 4 50.0 1 3 4 2 0 1 0 4 3
+p434
+aVDante Cunningham MIN 01/25/2014 MIN @ POR L 10 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -17
+p435
+aVGorgui Dieng MIN 01/25/2014 MIN @ POR L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p436
+aVRicky Rubio MIN 01/25/2014 MIN @ POR L 37 10 4 8 50.0 0 2 0.0 2 2 100.0 1 2 3 11 2 0 1 4 3
+p437
+aVJ.J. Barea MIN 01/25/2014 MIN @ POR L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 -17
+p438
+aVChase Budinger MIN 01/25/2014 MIN @ POR L 24 6 2 7 28.6 1 3 33.3 1 2 50.0 0 4 4 0 0 0 0 1 -17
+p439
+aVRonny Turiaf MIN 01/25/2014 MIN @ POR L 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 1 1 1 -19
+p440
+aVA.J. Price MIN 01/25/2014 MIN @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p441
+aVCorey Brewer MIN 01/25/2014 MIN @ POR L 24 11 5 8 62.5 1 2 50.0 0 0 - 1 1 2 1 2 2 2 4 6
+p442
+aVRicky Rubio MIN 01/24/2014 MIN @ GSW W 33 9 4 7 57.1 0 1 0.0 1 2 50.0 1 0 1 12 4 0 4 5 7
+p443
+aVLuc Mbah a Moute MIN 01/24/2014 MIN @ GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p444
+aVCorey Brewer MIN 01/24/2014 MIN @ GSW W 33 15 6 11 54.5 3 5 60.0 0 0 - 0 0 0 4 2 0 0 2 -6
+p445
+aVKevin Love MIN 01/24/2014 MIN @ GSW W 37 26 7 18 38.9 1 5 20.0 11 14 78.6 5 9 14 8 1 0 2 1 -1
+p446
+aVRonny Turiaf MIN 01/24/2014 MIN @ GSW W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -13
+p447
+aVNikola Pekovic MIN 01/24/2014 MIN @ GSW W 33 22 11 18 61.1 0 0 - 0 0 - 5 9 14 1 0 0 1 1 14
+p448
+aVDante Cunningham MIN 01/24/2014 MIN @ GSW W 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 1 2
+p449
+aVJ.J. Barea MIN 01/24/2014 MIN @ GSW W 10 5 2 4 50.0 1 3 33.3 0 1 0.0 0 2 2 2 0 0 2 1 -5
+p450
+aVChase Budinger MIN 01/24/2014 MIN @ GSW W 15 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 0 0 0 0 1 7
+p451
+aVAlexey Shved MIN 01/24/2014 MIN @ GSW W 14 7 2 5 40.0 0 0 - 3 5 60.0 0 3 3 0 1 0 0 1 -8
+p452
+aVA.J. Price MIN 01/24/2014 MIN @ GSW W 4 2 1 3 33.3 0 1 0.0 0 1 0.0 1 0 1 0 0 0 1 0 1
+p453
+aVKevin Martin MIN 01/24/2014 MIN @ GSW W 34 26 10 17 58.8 3 3 100.0 3 5 60.0 1 3 4 2 1 0 2 4 7
+p454
+aVShabazz Muhammad MIN 01/21/2014 MIN @ UTA W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p455
+aVNikola Pekovic MIN 01/21/2014 MIN @ UTA W 32 18 7 14 50.0 0 0 - 4 4 100.0 2 7 9 2 0 0 2 4 26
+p456
+aVDante Cunningham MIN 01/21/2014 MIN @ UTA W 10 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -11
+p457
+aVKevin Martin MIN 01/21/2014 MIN @ UTA W 27 18 5 16 31.3 2 5 40.0 6 6 100.0 0 4 4 2 1 0 1 2 24
+p458
+aVLuc Mbah a Moute MIN 01/21/2014 MIN @ UTA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p459
+aVCorey Brewer MIN 01/21/2014 MIN @ UTA W 33 19 7 11 63.6 1 3 33.3 4 4 100.0 0 4 4 2 1 2 0 3 25
+p460
+aVRicky Rubio MIN 01/21/2014 MIN @ UTA W 39 11 3 5 60.0 1 2 50.0 4 4 100.0 2 3 5 13 5 0 1 3 20
+p461
+aVRonny Turiaf MIN 01/21/2014 MIN @ UTA W 13 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 3 -7
+p462
+aVJ.J. Barea MIN 01/21/2014 MIN @ UTA W 21 15 6 11 54.5 3 5 60.0 0 0 - 0 1 1 3 1 0 1 1 -9
+p463
+aVChase Budinger MIN 01/21/2014 MIN @ UTA W 13 0 0 4 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -6
+p464
+aVGorgui Dieng MIN 01/21/2014 MIN @ UTA W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p465
+aVAlexey Shved MIN 01/21/2014 MIN @ UTA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p466
+aVKevin Love MIN 01/21/2014 MIN @ UTA W 38 19 7 15 46.7 1 6 16.7 4 5 80.0 3 10 13 7 0 0 2 1 26
+p467
+aVLuc Mbah a Moute MIN 01/18/2014 MIN vs. UTA W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -6
+p468
+aVKevin Love MIN 01/18/2014 MIN vs. UTA W 29 18 5 10 50.0 2 4 50.0 6 11 54.5 2 11 13 5 3 1 1 2 35
+p469
+aVDante Cunningham MIN 01/18/2014 MIN vs. UTA W 19 0 0 5 0.0 0 0 - 0 0 - 1 6 7 0 0 0 1 3 -9
+p470
+aVShabazz Muhammad MIN 01/18/2014 MIN vs. UTA W 7 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 1 0 1 0 -2
+p471
+aVNikola Pekovic MIN 01/18/2014 MIN vs. UTA W 29 27 12 17 70.6 0 0 - 3 3 100.0 3 11 14 1 1 1 1 2 30
+p472
+aVGorgui Dieng MIN 01/18/2014 MIN vs. UTA W 10 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 1 1 4 1
+p473
+aVRonny Turiaf MIN 01/18/2014 MIN vs. UTA W 9 1 0 0 - 0 0 - 1 4 25.0 4 1 5 1 0 1 1 3 -5
+p474
+aVKevin Martin MIN 01/18/2014 MIN vs. UTA W 25 20 7 16 43.8 1 6 16.7 5 6 83.3 0 1 1 2 1 0 1 1 30
+p475
+aVRicky Rubio MIN 01/18/2014 MIN vs. UTA W 26 6 2 6 33.3 1 1 100.0 1 2 50.0 1 7 8 9 1 0 2 2 31
+p476
+aVAlexey Shved MIN 01/18/2014 MIN vs. UTA W 14 10 3 5 60.0 1 2 50.0 3 6 50.0 0 2 2 2 0 0 1 0 1
+p477
+aVCorey Brewer MIN 01/18/2014 MIN vs. UTA W 27 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 0 5 31
+p478
+aVChase Budinger MIN 01/18/2014 MIN vs. UTA W 16 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 0 -3
+p479
+aVJ.J. Barea MIN 01/18/2014 MIN vs. UTA W 16 3 1 6 16.7 0 2 0.0 1 2 50.0 0 3 3 2 1 0 2 1 -4
+p480
+aVCorey Brewer MIN 01/17/2014 MIN @ TOR L 19 4 2 3 66.7 0 1 0.0 0 2 0.0 0 0 0 1 0 0 1 4 -6
+p481
+aVJ.J. Barea MIN 01/17/2014 MIN @ TOR L 25 14 5 13 38.5 0 4 0.0 4 4 100.0 0 4 4 5 1 0 1 2 -6
+p482
+aVDante Cunningham MIN 01/17/2014 MIN @ TOR L 16 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 0 0
+p483
+aVA.J. Price MIN 01/17/2014 MIN @ TOR L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p484
+aVRicky Rubio MIN 01/17/2014 MIN @ TOR L 23 6 2 6 33.3 0 1 0.0 2 2 100.0 0 4 4 4 2 0 0 0 1
+p485
+aVAlexey Shved MIN 01/17/2014 MIN @ TOR L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p486
+aVLuc Mbah a Moute MIN 01/17/2014 MIN @ TOR L 18 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 1
+p487
+aVChase Budinger MIN 01/17/2014 MIN @ TOR L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 2 1 -7
+p488
+aVRonny Turiaf MIN 01/17/2014 MIN @ TOR L 23 6 3 4 75.0 0 0 - 0 2 0.0 4 6 10 0 0 0 1 2 4
+p489
+aVKevin Martin MIN 01/17/2014 MIN @ TOR L 33 18 7 14 50.0 2 6 33.3 2 2 100.0 0 1 1 1 0 1 3 3 -1
+p490
+aVNikola Pekovic MIN 01/17/2014 MIN @ TOR L 25 13 6 12 50.0 0 0 - 1 2 50.0 3 3 6 1 0 2 1 2 -9
+p491
+aVKevin Love MIN 01/17/2014 MIN @ TOR L 32 16 7 19 36.8 1 3 33.3 1 2 50.0 4 8 12 3 1 0 1 5 -5
+p492
+aVJ.J. Barea MIN 01/15/2014 MIN vs. SAC L 24 14 5 14 35.7 1 5 20.0 3 4 75.0 0 3 3 2 0 0 0 5 7
+p493
+aVKevin Martin MIN 01/15/2014 MIN vs. SAC L 24 14 6 14 42.9 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -5
+p494
+aVAlexey Shved MIN 01/15/2014 MIN vs. SAC L 24 13 4 10 40.0 1 4 25.0 4 5 80.0 0 2 2 4 3 0 1 1 2
+p495
+aVKevin Love MIN 01/15/2014 MIN vs. SAC L 37 27 9 16 56.3 4 6 66.7 5 6 83.3 3 8 11 5 1 0 1 2 -3
+p496
+aVChase Budinger MIN 01/15/2014 MIN vs. SAC L 13 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 1 0 0 1 -7
+p497
+aVDante Cunningham MIN 01/15/2014 MIN vs. SAC L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p498
+aVNikola Pekovic MIN 01/15/2014 MIN vs. SAC L 36 14 5 12 41.7 0 0 - 4 5 80.0 2 6 8 2 1 3 3 5 0
+p499
+aVCorey Brewer MIN 01/15/2014 MIN vs. SAC L 35 12 4 8 50.0 0 1 0.0 4 5 80.0 2 1 3 2 1 1 2 4 4
+p500
+aVRonny Turiaf MIN 01/15/2014 MIN vs. SAC L 15 4 2 2 100.0 0 0 - 0 2 0.0 2 2 4 0 0 0 0 2 -4
+p501
+aVRicky Rubio MIN 01/15/2014 MIN vs. SAC L 24 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 5 3 0 5 2 -10
+p502
+aVA.J. Price MIN 01/12/2014 MIN @ SAS L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p503
+aVLuc Mbah a Moute MIN 01/12/2014 MIN @ SAS L 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p504
+aVKevin Love MIN 01/12/2014 MIN @ SAS L 32 14 3 14 21.4 0 2 0.0 8 11 72.7 1 6 7 0 0 2 1 0 -18
+p505
+aVKevin Martin MIN 01/12/2014 MIN @ SAS L 26 6 2 12 16.7 0 3 0.0 2 2 100.0 2 1 3 2 1 0 2 1 -13
+p506
+aVRonny Turiaf MIN 01/12/2014 MIN @ SAS L 15 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 2 2 0 0 1
+p507
+aVCorey Brewer MIN 01/12/2014 MIN @ SAS L 23 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 1 2 0 0 2 -15
+p508
+aVAlexey Shved MIN 01/12/2014 MIN @ SAS L 23 11 4 7 57.1 3 4 75.0 0 0 - 1 2 3 1 2 0 2 0 -1
+p509
+aVNikola Pekovic MIN 01/12/2014 MIN @ SAS L 29 22 10 15 66.7 0 0 - 2 2 100.0 5 1 6 0 2 0 1 3 -17
+p510
+aVChase Budinger MIN 01/12/2014 MIN @ SAS L 21 5 2 8 25.0 1 2 50.0 0 0 - 1 3 4 1 0 0 0 2 -1
+p511
+aVDante Cunningham MIN 01/12/2014 MIN @ SAS L 14 6 3 8 37.5 0 0 - 0 0 - 0 2 2 0 1 1 1 1 -2
+p512
+aVRicky Rubio MIN 01/12/2014 MIN @ SAS L 30 7 3 8 37.5 1 2 50.0 0 0 - 1 3 4 8 2 1 2 2 -18
+p513
+aVGorgui Dieng MIN 01/12/2014 MIN @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 0 0 -2
+p514
+aVJ.J. Barea MIN 01/12/2014 MIN @ SAS L 16 9 3 9 33.3 0 2 0.0 3 3 100.0 1 3 4 4 1 0 1 2 0
+p515
+aVDante Cunningham MIN 01/10/2014 MIN vs. CHA W 16 6 3 5 60.0 0 0 - 0 0 - 2 4 6 6 2 1 1 0 15
+p516
+aVJ.J. Barea MIN 01/10/2014 MIN vs. CHA W 19 7 2 6 33.3 2 3 66.7 1 1 100.0 0 3 3 5 0 0 1 1 9
+p517
+aVLuc Mbah a Moute MIN 01/10/2014 MIN vs. CHA W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 4
+p518
+aVA.J. Price MIN 01/10/2014 MIN vs. CHA W 6 3 1 3 33.3 1 2 50.0 0 1 0.0 0 2 2 1 0 0 1 0 4
+p519
+aVNikola Pekovic MIN 01/10/2014 MIN vs. CHA W 27 26 10 14 71.4 0 0 - 6 6 100.0 3 3 6 3 2 0 1 2 15
+p520
+aVKevin Love MIN 01/10/2014 MIN vs. CHA W 32 19 6 10 60.0 2 4 50.0 5 7 71.4 2 12 14 4 0 1 1 1 12
+p521
+aVRonny Turiaf MIN 01/10/2014 MIN vs. CHA W 15 2 1 5 20.0 0 0 - 0 0 - 2 5 7 0 0 2 0 0 8
+p522
+aVCorey Brewer MIN 01/10/2014 MIN vs. CHA W 28 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 1 2 3 7
+p523
+aVGorgui Dieng MIN 01/10/2014 MIN vs. CHA W 6 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 4
+p524
+aVAlexey Shved MIN 01/10/2014 MIN vs. CHA W 20 11 4 8 50.0 1 3 33.3 2 4 50.0 1 1 2 0 1 0 1 1 14
+p525
+aVChase Budinger MIN 01/10/2014 MIN vs. CHA W 16 8 4 9 44.4 0 3 0.0 0 0 - 0 2 2 1 0 0 0 3 16
+p526
+aVKevin Martin MIN 01/10/2014 MIN vs. CHA W 24 19 9 12 75.0 1 1 100.0 0 0 - 0 4 4 4 1 0 1 1 14
+p527
+aVRicky Rubio MIN 01/10/2014 MIN vs. CHA W 26 8 3 10 30.0 2 3 66.7 0 0 - 2 1 3 6 0 0 3 2 13
+p528
+aVRonny Turiaf MIN 01/08/2014 MIN vs. PHX L 15 5 2 2 100.0 0 0 - 1 2 50.0 0 4 4 2 0 0 0 1 5
+p529
+aVCorey Brewer MIN 01/08/2014 MIN vs. PHX L 37 15 6 10 60.0 1 2 50.0 2 4 50.0 1 3 4 0 1 1 1 1 2
+p530
+aVKevin Martin MIN 01/08/2014 MIN vs. PHX L 34 20 6 16 37.5 2 5 40.0 6 6 100.0 0 5 5 2 0 0 3 2 -3
+p531
+aVJ.J. Barea MIN 01/08/2014 MIN vs. PHX L 13 8 3 6 50.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 2 0 -4
+p532
+aVDante Cunningham MIN 01/08/2014 MIN vs. PHX L 11 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 1 0 2 3
+p533
+aVAlexey Shved MIN 01/08/2014 MIN vs. PHX L 14 7 2 6 33.3 1 1 100.0 2 2 100.0 1 3 4 1 0 1 0 0 2
+p534
+aVRicky Rubio MIN 01/08/2014 MIN vs. PHX L 35 7 2 6 33.3 0 0 - 3 4 75.0 0 8 8 8 0 0 2 5 3
+p535
+aVChase Budinger MIN 01/08/2014 MIN vs. PHX L 11 6 2 3 66.7 1 2 50.0 1 2 50.0 0 1 1 0 1 0 1 1 -3
+p536
+aVKevin Love MIN 01/08/2014 MIN vs. PHX L 37 15 4 20 20.0 1 5 20.0 6 6 100.0 2 10 12 1 0 0 0 5 -4
+p537
+aVNikola Pekovic MIN 01/08/2014 MIN vs. PHX L 33 17 6 16 37.5 0 0 - 5 5 100.0 8 4 12 2 1 2 2 1 -6
+p538
+aVKevin Martin MIN 01/06/2014 MIN @ PHI W 23 18 5 10 50.0 3 4 75.0 5 5 100.0 0 1 1 4 2 0 1 0 19
+p539
+aVRonny Turiaf MIN 01/06/2014 MIN @ PHI W 23 0 0 1 0.0 0 0 - 0 0 - 2 7 9 1 0 2 2 3 9
+p540
+aVGorgui Dieng MIN 01/06/2014 MIN @ PHI W 6 2 1 2 50.0 0 0 - 0 2 0.0 2 1 3 0 1 0 0 1 2
+p541
+aVCorey Brewer MIN 01/06/2014 MIN @ PHI W 28 15 5 8 62.5 3 3 100.0 2 3 66.7 0 3 3 2 2 0 0 3 26
+p542
+aVKevin Love MIN 01/06/2014 MIN @ PHI W 29 26 7 12 58.3 4 7 57.1 8 10 80.0 1 6 7 4 2 1 1 0 28
+p543
+aVAlexey Shved MIN 01/06/2014 MIN @ PHI W 23 10 4 12 33.3 1 3 33.3 1 1 100.0 1 2 3 4 3 1 0 1 16
+p544
+aVDante Cunningham MIN 01/06/2014 MIN @ PHI W 15 10 5 9 55.6 0 0 - 0 0 - 0 1 1 0 1 1 0 0 4
+p545
+aVA.J. Price MIN 01/06/2014 MIN @ PHI W 6 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 2
+p546
+aVRobbie Hummel MIN 01/06/2014 MIN @ PHI W 20 3 1 5 20.0 1 3 33.3 0 0 - 3 5 8 1 1 0 0 2 5
+p547
+aVRicky Rubio MIN 01/06/2014 MIN @ PHI W 25 4 2 8 25.0 0 0 - 0 0 - 0 3 3 8 1 0 1 1 22
+p548
+aVJ.J. Barea MIN 01/06/2014 MIN @ PHI W 19 13 5 12 41.7 3 4 75.0 0 0 - 0 1 1 2 0 0 5 1 3
+p549
+aVNikola Pekovic MIN 01/06/2014 MIN @ PHI W 23 16 7 15 46.7 0 0 - 2 2 100.0 5 9 14 1 0 1 3 1 19
+p550
+aVRobbie Hummel MIN 01/04/2014 MIN vs. OKC L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p551
+aVDante Cunningham MIN 01/04/2014 MIN vs. OKC L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 3 -10
+p552
+aVAlexey Shved MIN 01/04/2014 MIN vs. OKC L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -13
+p553
+aVKevin Love MIN 01/04/2014 MIN vs. OKC L 43 30 11 21 52.4 5 9 55.6 3 7 42.9 2 12 14 5 2 1 7 2 -4
+p554
+aVCorey Brewer MIN 01/04/2014 MIN vs. OKC L 40 15 6 14 42.9 1 4 25.0 2 4 50.0 0 1 1 3 3 0 1 6 -1
+p555
+aVNikola Pekovic MIN 01/04/2014 MIN vs. OKC L 38 31 13 22 59.1 0 0 - 5 8 62.5 5 6 11 0 0 0 0 2 6
+p556
+aVKevin Martin MIN 01/04/2014 MIN vs. OKC L 40 17 7 14 50.0 1 3 33.3 2 3 66.7 1 5 6 1 1 0 3 2 7
+p557
+aVRicky Rubio MIN 01/04/2014 MIN vs. OKC L 34 13 4 13 30.8 0 2 0.0 5 6 83.3 0 4 4 10 5 0 2 4 8
+p558
+aVJ.J. Barea MIN 01/04/2014 MIN vs. OKC L 14 5 2 5 40.0 0 2 0.0 1 1 100.0 0 1 1 3 0 0 1 2 -12
+p559
+aVCorey Brewer MIN 01/01/2014 MIN vs. NOP W 23 5 2 4 50.0 1 1 100.0 0 0 - 2 3 5 4 4 1 1 4 17
+p560
+aVA.J. Price MIN 01/01/2014 MIN vs. NOP W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p561
+aVLuc Mbah a Moute MIN 01/01/2014 MIN vs. NOP W 15 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 2 0 6
+p562
+aVRobbie Hummel MIN 01/01/2014 MIN vs. NOP W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p563
+aVNikola Pekovic MIN 01/01/2014 MIN vs. NOP W 34 22 7 12 58.3 0 0 - 8 11 72.7 3 4 7 0 1 0 1 3 9
+p564
+aVKevin Martin MIN 01/01/2014 MIN vs. NOP W 31 20 8 14 57.1 0 3 0.0 4 5 80.0 1 2 3 3 0 0 1 2 20
+p565
+aVGorgui Dieng MIN 01/01/2014 MIN vs. NOP W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p566
+aVKevin Love MIN 01/01/2014 MIN vs. NOP W 35 21 7 19 36.8 1 7 14.3 6 8 75.0 2 4 6 3 1 1 2 2 21
+p567
+aVJ.J. Barea MIN 01/01/2014 MIN vs. NOP W 18 17 7 9 77.8 3 5 60.0 0 0 - 0 0 0 5 0 0 2 0 -1
+p568
+aVRicky Rubio MIN 01/01/2014 MIN vs. NOP W 33 14 4 6 66.7 1 1 100.0 5 6 83.3 1 7 8 9 3 2 3 1 18
+p569
+aVAlexey Shved MIN 01/01/2014 MIN vs. NOP W 17 10 2 4 50.0 2 4 50.0 4 4 100.0 0 3 3 2 1 1 1 3 -8
+p570
+aVDante Cunningham MIN 01/01/2014 MIN vs. NOP W 23 10 5 6 83.3 0 0 - 0 0 - 1 3 4 0 0 1 1 4 4
+p571
+aVShabazz Muhammad MIN 01/01/2014 MIN vs. NOP W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p572
+aVCorey Brewer MIN 12/30/2013 MIN vs. DAL L 34 16 7 12 58.3 2 5 40.0 0 0 - 0 2 2 1 1 1 1 4 10
+p573
+aVLuc Mbah a Moute MIN 12/30/2013 MIN vs. DAL L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -14
+p574
+aVRicky Rubio MIN 12/30/2013 MIN vs. DAL L 31 4 1 3 33.3 0 1 0.0 2 2 100.0 1 8 9 13 3 0 2 3 4
+p575
+aVAlexey Shved MIN 12/30/2013 MIN vs. DAL L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 2 0 -3
+p576
+aVDante Cunningham MIN 12/30/2013 MIN vs. DAL L 15 0 0 2 0.0 0 0 - 0 0 - 2 4 6 0 0 0 0 0 0
+p577
+aVKevin Martin MIN 12/30/2013 MIN vs. DAL L 36 19 6 15 40.0 1 3 33.3 6 7 85.7 2 1 3 1 0 1 3 2 -4
+p578
+aVKevin Love MIN 12/30/2013 MIN vs. DAL L 40 36 14 24 58.3 2 7 28.6 6 8 75.0 4 7 11 4 1 0 1 3 -3
+p579
+aVJ.J. Barea MIN 12/30/2013 MIN vs. DAL L 17 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 2 0 0 5 0 -6
+p580
+aVRobbie Hummel MIN 12/30/2013 MIN vs. DAL L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 7
+p581
+aVNikola Pekovic MIN 12/30/2013 MIN vs. DAL L 42 18 6 13 46.2 0 0 - 6 6 100.0 3 7 10 1 1 1 1 2 -1
+p582
+aVGorgui Dieng MIN 12/28/2013 MIN @ MIL W 2 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p583
+aVKevin Martin MIN 12/28/2013 MIN @ MIL W 29 20 8 17 47.1 4 7 57.1 0 0 - 0 2 2 2 1 0 4 2 21
+p584
+aVA.J. Price MIN 12/28/2013 MIN @ MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p585
+aVCorey Brewer MIN 12/28/2013 MIN @ MIL W 33 12 5 9 55.6 0 2 0.0 2 2 100.0 2 0 2 3 3 0 3 3 15
+p586
+aVShabazz Muhammad MIN 12/28/2013 MIN @ MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p587
+aVRobbie Hummel MIN 12/28/2013 MIN @ MIL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p588
+aVKevin Love MIN 12/28/2013 MIN @ MIL W 35 33 11 17 64.7 4 6 66.7 7 9 77.8 2 13 15 6 1 0 2 1 33
+p589
+aVAlexey Shved MIN 12/28/2013 MIN @ MIL W 20 5 2 8 25.0 1 5 20.0 0 0 - 1 2 3 2 1 1 0 0 1
+p590
+aVLuc Mbah a Moute MIN 12/28/2013 MIN @ MIL W 15 8 2 5 40.0 0 0 - 4 8 50.0 5 3 8 0 0 0 1 0 -6
+p591
+aVNikola Pekovic MIN 12/28/2013 MIN @ MIL W 33 19 7 12 58.3 0 0 - 5 8 62.5 6 5 11 3 1 1 3 2 14
+p592
+aVRicky Rubio MIN 12/28/2013 MIN @ MIL W 27 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 8 6 0 3 3 27
+p593
+aVDante Cunningham MIN 12/28/2013 MIN @ MIL W 19 6 3 6 50.0 0 0 - 0 0 - 2 2 4 1 1 0 0 1 3
+p594
+aVJ.J. Barea MIN 12/28/2013 MIN @ MIL W 19 6 2 8 25.0 2 3 66.7 0 0 - 1 2 3 6 0 0 2 2 -7
+p595
+aVJ.J. Barea MIN 12/27/2013 MIN vs. WAS W 19 17 8 10 80.0 1 1 100.0 0 0 - 0 0 0 4 0 0 2 3 10
+p596
+aVRicky Rubio MIN 12/27/2013 MIN vs. WAS W 27 11 2 5 40.0 0 0 - 7 8 87.5 3 5 8 9 3 0 0 1 11
+p597
+aVGorgui Dieng MIN 12/27/2013 MIN vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p598
+aVLuc Mbah a Moute MIN 12/27/2013 MIN vs. WAS W 20 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 0 13
+p599
+aVKevin Love MIN 12/27/2013 MIN vs. WAS W 32 25 8 18 44.4 2 7 28.6 7 7 100.0 1 10 11 1 1 0 0 2 8
+p600
+aVNikola Pekovic MIN 12/27/2013 MIN vs. WAS W 34 18 6 13 46.2 0 0 - 6 8 75.0 6 4 10 0 0 0 0 2 21
+p601
+aVA.J. Price MIN 12/27/2013 MIN vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 1
+p602
+aVDante Cunningham MIN 12/27/2013 MIN vs. WAS W 23 6 3 7 42.9 0 0 - 0 0 - 2 1 3 1 4 0 1 0 13
+p603
+aVCorey Brewer MIN 12/27/2013 MIN vs. WAS W 24 10 4 9 44.4 0 3 0.0 2 2 100.0 0 0 0 2 1 0 0 1 10
+p604
+aVKevin Martin MIN 12/27/2013 MIN vs. WAS W 26 12 5 12 41.7 0 2 0.0 2 5 40.0 0 2 2 0 1 0 0 2 4
+p605
+aVShabazz Muhammad MIN 12/27/2013 MIN vs. WAS W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p606
+aVRobbie Hummel MIN 12/27/2013 MIN vs. WAS W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p607
+aVAlexey Shved MIN 12/27/2013 MIN vs. WAS W 23 13 3 7 42.9 2 2 100.0 5 6 83.3 2 3 5 1 0 1 1 1 16
+p608
+aVKevin Love MIN 12/22/2013 MIN @ LAC L 43 45 15 23 65.2 2 6 33.3 13 15 86.7 3 16 19 6 1 0 4 3 -3
+p609
+aVRicky Rubio MIN 12/22/2013 MIN @ LAC L 39 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 12 0 0 3 2 -11
+p610
+aVLuc Mbah a Moute MIN 12/22/2013 MIN @ LAC L 25 2 1 5 20.0 0 2 0.0 0 2 0.0 3 3 6 2 2 0 1 1 -13
+p611
+aVKevin Martin MIN 12/22/2013 MIN @ LAC L 32 16 7 12 58.3 1 2 50.0 1 1 100.0 2 5 7 4 0 0 6 6 1
+p612
+aVAlexey Shved MIN 12/22/2013 MIN @ LAC L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p613
+aVRobbie Hummel MIN 12/22/2013 MIN @ LAC L 13 2 1 4 25.0 0 2 0.0 0 0 - 2 2 4 0 0 0 0 0 1
+p614
+aVJ.J. Barea MIN 12/22/2013 MIN @ LAC L 25 12 4 11 36.4 2 5 40.0 2 4 50.0 0 1 1 1 0 0 0 2 7
+p615
+aVNikola Pekovic MIN 12/22/2013 MIN @ LAC L 46 34 16 28 57.1 0 0 - 2 3 66.7 8 6 14 1 0 1 2 5 2
+p616
+aVDante Cunningham MIN 12/22/2013 MIN @ LAC L 11 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 1 1 3 1
+p617
+aVCorey Brewer MIN 12/22/2013 MIN @ LAC L 23 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 1 1 2 1 -4
+p618
+aVKevin Martin MIN 12/20/2013 MIN @ LAL L 30 14 6 17 35.3 0 2 0.0 2 2 100.0 1 1 2 2 1 0 1 2 -3
+p619
+aVLuc Mbah a Moute MIN 12/20/2013 MIN @ LAL L 20 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 3 0 1 2 -5
+p620
+aVA.J. Price MIN 12/20/2013 MIN @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p621
+aVDante Cunningham MIN 12/20/2013 MIN @ LAL L 18 4 2 7 28.6 0 0 - 0 0 - 4 2 6 0 0 0 0 0 -3
+p622
+aVGorgui Dieng MIN 12/20/2013 MIN @ LAL L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p623
+aVCorey Brewer MIN 12/20/2013 MIN @ LAL L 28 5 0 7 0.0 0 3 0.0 5 6 83.3 1 2 3 3 1 0 3 2 -8
+p624
+aVKevin Love MIN 12/20/2013 MIN @ LAL L 42 25 9 18 50.0 2 7 28.6 5 5 100.0 4 9 13 3 0 1 0 2 -8
+p625
+aVRicky Rubio MIN 12/20/2013 MIN @ LAL L 31 6 3 8 37.5 0 1 0.0 0 0 - 1 5 6 7 1 0 3 3 -7
+p626
+aVJ.J. Barea MIN 12/20/2013 MIN @ LAL L 20 8 3 9 33.3 2 5 40.0 0 0 - 0 3 3 2 1 0 4 1 -15
+p627
+aVNikola Pekovic MIN 12/20/2013 MIN @ LAL L 35 22 7 18 38.9 0 0 - 8 12 66.7 10 3 13 1 2 0 3 3 -15
+p628
+aVAlexey Shved MIN 12/20/2013 MIN @ LAL L 15 3 1 7 14.3 1 4 25.0 0 0 - 1 0 1 2 1 1 1 1 -1
+p629
+aVNikola Pekovic MIN 12/18/2013 MIN vs. POR W 29 30 14 19 73.7 0 0 - 2 3 66.7 5 4 9 1 0 0 1 4 -7
+p630
+aVCorey Brewer MIN 12/18/2013 MIN vs. POR W 33 6 2 6 33.3 0 2 0.0 2 2 100.0 0 2 2 1 1 0 0 2 -11
+p631
+aVLuc Mbah a Moute MIN 12/18/2013 MIN vs. POR W 14 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 0 23
+p632
+aVKevin Love MIN 12/18/2013 MIN vs. POR W 41 29 10 18 55.6 4 7 57.1 5 6 83.3 2 13 15 9 1 0 4 0 5
+p633
+aVJ.J. Barea MIN 12/18/2013 MIN vs. POR W 22 10 4 11 36.4 2 4 50.0 0 2 0.0 0 3 3 5 0 0 0 3 21
+p634
+aVAlexey Shved MIN 12/18/2013 MIN vs. POR W 6 4 2 3 66.7 0 0 - 0 0 - 1 1 2 3 1 0 0 1 11
+p635
+aVKevin Martin MIN 12/18/2013 MIN vs. POR W 37 22 8 15 53.3 1 4 25.0 5 5 100.0 1 4 5 0 1 0 3 2 -9
+p636
+aVRicky Rubio MIN 12/18/2013 MIN vs. POR W 32 9 2 11 18.2 0 2 0.0 5 6 83.3 0 5 5 7 2 0 2 4 -2
+p637
+aVDante Cunningham MIN 12/18/2013 MIN vs. POR W 26 4 2 8 25.0 0 0 - 0 0 - 2 5 7 1 2 1 0 3 24
+p638
+aVRobbie Hummel MIN 12/16/2013 MIN @ BOS L 19 2 1 4 25.0 0 1 0.0 0 0 - 2 2 4 0 0 0 0 1 -4
+p639
+aVJ.J. Barea MIN 12/16/2013 MIN @ BOS L 27 10 4 10 40.0 2 4 50.0 0 0 - 1 1 2 11 0 0 1 1 6
+p640
+aVAlexey Shved MIN 12/16/2013 MIN @ BOS L 26 10 3 9 33.3 2 6 33.3 2 4 50.0 1 2 3 2 0 0 0 1 8
+p641
+aVLuc Mbah a Moute MIN 12/16/2013 MIN @ BOS L 29 9 4 4 100.0 1 1 100.0 0 0 - 0 6 6 2 1 0 1 1 1
+p642
+aVGorgui Dieng MIN 12/16/2013 MIN @ BOS L 13 4 2 4 50.0 0 0 - 0 1 0.0 1 2 3 0 1 0 1 4 8
+p643
+aVNikola Pekovic MIN 12/16/2013 MIN @ BOS L 25 13 6 16 37.5 0 0 - 1 4 25.0 4 3 7 1 1 0 1 4 -8
+p644
+aVKevin Love MIN 12/16/2013 MIN @ BOS L 36 27 9 25 36.0 2 11 18.2 7 11 63.6 5 9 14 1 1 0 1 2 -11
+p645
+aVCorey Brewer MIN 12/16/2013 MIN @ BOS L 22 4 1 8 12.5 0 3 0.0 2 2 100.0 0 1 1 0 0 0 2 1 -13
+p646
+aVRicky Rubio MIN 12/16/2013 MIN @ BOS L 22 6 2 12 16.7 1 3 33.3 1 2 50.0 2 3 5 3 2 0 0 3 -11
+p647
+aVDante Cunningham MIN 12/16/2013 MIN @ BOS L 21 12 5 6 83.3 0 0 - 2 2 100.0 3 3 6 2 0 0 0 2 4
+p648
+aVJ.J. Barea MIN 12/15/2013 MIN @ MEM W 23 15 5 10 50.0 3 5 60.0 2 2 100.0 0 0 0 5 2 0 2 4 8
+p649
+aVDante Cunningham MIN 12/15/2013 MIN @ MEM W 25 4 2 7 28.6 0 0 - 0 2 0.0 3 5 8 2 0 1 0 2 -2
+p650
+aVKevin Love MIN 12/15/2013 MIN @ MEM W 38 30 11 21 52.4 4 8 50.0 4 4 100.0 2 7 9 4 0 3 3 1 7
+p651
+aVLuc Mbah a Moute MIN 12/15/2013 MIN @ MEM W 6 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 0
+p652
+aVKevin Martin MIN 12/15/2013 MIN @ MEM W 19 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 0
+p653
+aVRobbie Hummel MIN 12/15/2013 MIN @ MEM W 18 3 1 3 33.3 1 2 50.0 0 0 - 1 5 6 2 0 0 0 0 -2
+p654
+aVCorey Brewer MIN 12/15/2013 MIN @ MEM W 37 9 4 8 50.0 1 4 25.0 0 2 0.0 2 10 12 2 3 0 1 1 7
+p655
+aVRicky Rubio MIN 12/15/2013 MIN @ MEM W 34 12 3 9 33.3 2 3 66.7 4 5 80.0 0 2 2 4 2 0 3 3 3
+p656
+aVNikola Pekovic MIN 12/15/2013 MIN @ MEM W 28 19 6 12 50.0 0 0 - 7 8 87.5 2 3 5 1 0 1 0 5 11
+p657
+aVAlexey Shved MIN 12/15/2013 MIN @ MEM W 13 6 2 4 50.0 1 2 50.0 1 1 100.0 0 1 1 0 0 0 0 1 8
+p658
+aVRicky Rubio MIN 12/13/2013 MIN @ SAS L 36 15 5 13 38.5 0 2 0.0 5 6 83.3 0 4 4 9 4 1 5 2 7
+p659
+aVJ.J. Barea MIN 12/13/2013 MIN @ SAS L 12 5 2 7 28.6 0 1 0.0 1 2 50.0 0 1 1 2 0 0 0 2 -13
+p660
+aVAlexey Shved MIN 12/13/2013 MIN @ SAS L 9 7 2 3 66.7 1 1 100.0 2 2 100.0 1 0 1 1 0 0 0 2 -6
+p661
+aVCorey Brewer MIN 12/13/2013 MIN @ SAS L 36 9 3 9 33.3 0 3 0.0 3 4 75.0 0 2 2 2 1 2 0 2 7
+p662
+aVNikola Pekovic MIN 12/13/2013 MIN @ SAS L 37 18 7 13 53.8 0 0 - 4 4 100.0 4 7 11 1 0 0 2 2 -3
+p663
+aVLuc Mbah a Moute MIN 12/13/2013 MIN @ SAS L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -12
+p664
+aVKevin Love MIN 12/13/2013 MIN @ SAS L 39 42 15 27 55.6 8 9 88.9 4 4 100.0 4 10 14 2 1 0 1 0 5
+p665
+aVDante Cunningham MIN 12/13/2013 MIN @ SAS L 20 0 0 1 0.0 0 0 - 0 0 - 1 3 4 2 1 1 1 1 -16
+p666
+aVKevin Martin MIN 12/13/2013 MIN @ SAS L 33 14 4 12 33.3 2 6 33.3 4 4 100.0 0 2 2 3 2 0 2 0 2
+p667
+aVRobbie Hummel MIN 12/13/2013 MIN @ SAS L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p668
+aVLuc Mbah a Moute MIN 12/11/2013 MIN vs. PHI W 13 4 2 6 33.3 0 0 - 0 0 - 3 1 4 0 0 0 2 0 5
+p669
+aVNikola Pekovic MIN 12/11/2013 MIN vs. PHI W 38 20 9 15 60.0 0 0 - 2 2 100.0 7 3 10 3 0 1 3 2 16
+p670
+aVRicky Rubio MIN 12/11/2013 MIN vs. PHI W 36 21 5 12 41.7 2 3 66.7 9 10 90.0 1 4 5 7 4 0 3 4 -3
+p671
+aVJ.J. Barea MIN 12/11/2013 MIN vs. PHI W 14 2 0 5 0.0 0 2 0.0 2 3 66.7 0 2 2 3 0 0 1 2 10
+p672
+aVDante Cunningham MIN 12/11/2013 MIN vs. PHI W 20 8 3 7 42.9 0 0 - 2 2 100.0 2 0 2 2 1 0 0 1 4
+p673
+aVKevin Love MIN 12/11/2013 MIN vs. PHI W 37 26 9 21 42.9 1 6 16.7 7 8 87.5 4 11 15 5 2 0 3 0 -6
+p674
+aVAlexey Shved MIN 12/11/2013 MIN vs. PHI W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 1 1 1 0
+p675
+aVCorey Brewer MIN 12/11/2013 MIN vs. PHI W 34 10 4 13 30.8 2 3 66.7 0 0 - 0 3 3 0 0 0 0 3 -3
+p676
+aVKevin Martin MIN 12/11/2013 MIN vs. PHI W 28 5 1 9 11.1 0 3 0.0 3 4 75.0 0 0 0 2 1 0 0 2 -4
+p677
+aVRobbie Hummel MIN 12/11/2013 MIN vs. PHI W 12 10 4 6 66.7 2 3 66.7 0 0 - 0 3 3 0 0 0 0 0 16
+p678
+aVGorgui Dieng MIN 12/10/2013 MIN @ DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p679
+aVLuc Mbah a Moute MIN 12/10/2013 MIN @ DET W 12 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 1 1 0 0 1 1
+p680
+aVA.J. Price MIN 12/10/2013 MIN @ DET W 3 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 3
+p681
+aVShabazz Muhammad MIN 12/10/2013 MIN @ DET W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p682
+aVJ.J. Barea MIN 12/10/2013 MIN @ DET W 17 10 4 8 50.0 1 3 33.3 1 2 50.0 0 2 2 6 0 0 0 1 9
+p683
+aVCorey Brewer MIN 12/10/2013 MIN @ DET W 28 11 5 10 50.0 1 5 20.0 0 0 - 0 0 0 4 1 0 1 1 21
+p684
+aVKevin Martin MIN 12/10/2013 MIN @ DET W 30 18 5 9 55.6 3 5 60.0 5 5 100.0 0 2 2 1 4 0 1 0 23
+p685
+aVNikola Pekovic MIN 12/10/2013 MIN @ DET W 33 18 7 14 50.0 0 0 - 4 6 66.7 2 3 5 0 0 0 2 2 16
+p686
+aVDante Cunningham MIN 12/10/2013 MIN @ DET W 25 6 3 6 50.0 0 0 - 0 0 - 2 6 8 0 3 0 1 3 11
+p687
+aVAlexey Shved MIN 12/10/2013 MIN @ DET W 18 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 3 1 0 2 2 4
+p688
+aVRicky Rubio MIN 12/10/2013 MIN @ DET W 28 15 5 9 55.6 1 2 50.0 4 4 100.0 1 3 4 9 2 0 0 3 15
+p689
+aVRobbie Hummel MIN 12/10/2013 MIN @ DET W 10 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 1 7
+p690
+aVKevin Love MIN 12/10/2013 MIN @ DET W 30 26 6 15 40.0 4 6 66.7 10 10 100.0 6 10 16 7 0 0 4 1 19
+p691
+aVAlexey Shved MIN 12/07/2013 MIN vs. MIA L 9 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 2 0 0 2 0 1
+p692
+aVJ.J. Barea MIN 12/07/2013 MIN vs. MIA L 19 2 0 5 0.0 0 2 0.0 2 2 100.0 0 3 3 1 1 0 2 1 -21
+p693
+aVKevin Martin MIN 12/07/2013 MIN vs. MIA L 34 19 5 16 31.3 1 7 14.3 8 10 80.0 1 3 4 0 4 0 1 4 -9
+p694
+aVCorey Brewer MIN 12/07/2013 MIN vs. MIA L 32 13 3 10 30.0 2 6 33.3 5 6 83.3 4 2 6 0 0 0 3 3 -8
+p695
+aVLuc Mbah a Moute MIN 12/07/2013 MIN vs. MIA L 26 11 4 9 44.4 0 1 0.0 3 4 75.0 1 1 2 1 1 0 1 2 -3
+p696
+aVRicky Rubio MIN 12/07/2013 MIN vs. MIA L 27 1 0 4 0.0 0 1 0.0 1 2 50.0 0 5 5 6 3 0 6 0 -7
+p697
+aVShabazz Muhammad MIN 12/07/2013 MIN vs. MIA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p698
+aVRobbie Hummel MIN 12/07/2013 MIN vs. MIA L 12 8 2 3 66.7 2 2 100.0 2 2 100.0 1 2 3 0 0 0 0 1 -8
+p699
+aVNikola Pekovic MIN 12/07/2013 MIN vs. MIA L 38 18 7 18 38.9 0 0 - 4 7 57.1 7 5 12 0 0 0 3 1 -13
+p700
+aVDante Cunningham MIN 12/07/2013 MIN vs. MIA L 17 4 2 9 22.2 0 0 - 0 0 - 1 1 2 1 2 1 0 1 -29
+p701
+aVGorgui Dieng MIN 12/07/2013 MIN vs. MIA L 9 5 1 3 33.3 0 0 - 3 4 75.0 2 4 6 0 0 0 0 2 -6
+p702
+aVA.J. Price MIN 12/07/2013 MIN vs. MIA L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -3
+p703
+aVLuc Mbah a Moute MIN 12/01/2013 MIN @ OKC L 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -18
+p704
+aVRobbie Hummel MIN 12/01/2013 MIN @ OKC L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p705
+aVA.J. Price MIN 12/01/2013 MIN @ OKC L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p706
+aVKevin Love MIN 12/01/2013 MIN @ OKC L 32 16 4 14 28.6 3 6 50.0 5 7 71.4 3 9 12 2 1 0 1 2 2
+p707
+aVRicky Rubio MIN 12/01/2013 MIN @ OKC L 29 8 4 6 66.7 0 2 0.0 0 0 - 0 4 4 7 2 0 3 2 9
+p708
+aVKevin Martin MIN 12/01/2013 MIN @ OKC L 40 24 6 16 37.5 4 8 50.0 8 8 100.0 2 4 6 2 2 0 4 2 -8
+p709
+aVShabazz Muhammad MIN 12/01/2013 MIN @ OKC L 1 4 1 3 33.3 1 2 50.0 1 2 50.0 1 0 1 0 0 0 0 0 -2
+p710
+aVAlexey Shved MIN 12/01/2013 MIN @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p711
+aVNikola Pekovic MIN 12/01/2013 MIN @ OKC L 38 22 8 17 47.1 0 0 - 6 9 66.7 4 6 10 3 1 0 0 1 -5
+p712
+aVDante Cunningham MIN 12/01/2013 MIN @ OKC L 15 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 1 1 1 1 -9
+p713
+aVGorgui Dieng MIN 12/01/2013 MIN @ OKC L 6 2 1 2 50.0 0 0 - 0 0 - 2 1 3 2 1 1 0 0 -3
+p714
+aVCorey Brewer MIN 12/01/2013 MIN @ OKC L 38 10 5 14 35.7 0 6 0.0 0 0 - 1 3 4 3 2 0 3 3 4
+p715
+aVJ.J. Barea MIN 12/01/2013 MIN @ OKC L 20 9 4 9 44.4 1 4 25.0 0 0 - 0 1 1 2 1 0 0 1 -16
+p716
+aVKevin Love MIN 11/30/2013 MIN @ DAL W 35 21 6 14 42.9 2 5 40.0 7 11 63.6 3 8 11 2 0 1 1 1 12
+p717
+aVGorgui Dieng MIN 11/30/2013 MIN @ DAL W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -1
+p718
+aVNikola Pekovic MIN 11/30/2013 MIN @ DAL W 32 21 10 13 76.9 0 0 - 1 2 50.0 5 4 9 0 0 0 2 2 -4
+p719
+aVCorey Brewer MIN 11/30/2013 MIN @ DAL W 34 13 5 8 62.5 3 5 60.0 0 0 - 0 3 3 3 1 0 1 0 6
+p720
+aVLuc Mbah a Moute MIN 11/30/2013 MIN @ DAL W 26 4 2 5 40.0 0 0 - 0 3 0.0 4 3 7 1 0 2 3 1 10
+p721
+aVJ.J. Barea MIN 11/30/2013 MIN @ DAL W 16 6 2 5 40.0 2 4 50.0 0 0 - 0 4 4 6 1 0 3 0 8
+p722
+aVRicky Rubio MIN 11/30/2013 MIN @ DAL W 32 12 4 12 33.3 1 5 20.0 3 3 100.0 0 2 2 7 2 0 1 0 -2
+p723
+aVKevin Martin MIN 11/30/2013 MIN @ DAL W 36 27 7 14 50.0 3 6 50.0 10 11 90.9 0 1 1 3 0 1 2 3 -4
+p724
+aVDante Cunningham MIN 11/30/2013 MIN @ DAL W 25 8 4 6 66.7 0 1 0.0 0 0 - 1 4 5 2 0 0 1 2 5
+p725
+aVRicky Rubio MIN 11/27/2013 MIN vs. DEN L 42 17 6 12 50.0 0 1 0.0 5 6 83.3 1 4 5 11 2 0 7 4 -1
+p726
+aVKevin Love MIN 11/27/2013 MIN vs. DEN L 40 19 7 19 36.8 3 9 33.3 2 2 100.0 5 10 15 3 1 0 2 2 1
+p727
+aVRobbie Hummel MIN 11/27/2013 MIN vs. DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -9
+p728
+aVAlexey Shved MIN 11/27/2013 MIN vs. DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p729
+aVShabazz Muhammad MIN 11/27/2013 MIN vs. DEN L 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p730
+aVNikola Pekovic MIN 11/27/2013 MIN vs. DEN L 38 21 8 14 57.1 0 0 - 5 6 83.3 4 6 10 1 0 0 0 3 8
+p731
+aVCorey Brewer MIN 11/27/2013 MIN vs. DEN L 41 14 5 9 55.6 2 5 40.0 2 3 66.7 1 3 4 1 2 2 1 3 1
+p732
+aVDante Cunningham MIN 11/27/2013 MIN vs. DEN L 18 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 1 0 1 -21
+p733
+aVKevin Martin MIN 11/27/2013 MIN vs. DEN L 36 29 9 21 42.9 0 5 0.0 11 11 100.0 2 3 5 1 0 0 3 3 9
+p734
+aVJ.J. Barea MIN 11/27/2013 MIN vs. DEN L 17 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -15
+p735
+aVJ.J. Barea MIN 11/25/2013 MIN @ IND L 19 6 3 11 27.3 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 -4
+p736
+aVDante Cunningham MIN 11/25/2013 MIN @ IND L 18 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -13
+p737
+aVRicky Rubio MIN 11/25/2013 MIN @ IND L 36 7 3 9 33.3 0 2 0.0 1 2 50.0 2 7 9 7 5 0 2 3 -14
+p738
+aVKevin Martin MIN 11/25/2013 MIN @ IND L 38 18 4 14 28.6 2 5 40.0 8 8 100.0 0 1 1 3 0 0 1 2 -14
+p739
+aVNikola Pekovic MIN 11/25/2013 MIN @ IND L 37 20 8 15 53.3 0 0 - 4 6 66.7 5 6 11 0 0 0 3 3 -10
+p740
+aVRobbie Hummel MIN 11/25/2013 MIN @ IND L 11 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 2 0 0 3 4
+p741
+aVCorey Brewer MIN 11/25/2013 MIN @ IND L 40 9 3 12 25.0 0 5 0.0 3 4 75.0 0 1 1 1 1 1 6 3 -14
+p742
+aVKevin Love MIN 11/25/2013 MIN @ IND L 41 20 6 20 30.0 1 5 20.0 7 8 87.5 4 13 17 2 1 0 5 1 -5
+p743
+aVRicky Rubio MIN 11/23/2013 MIN @ HOU L 35 7 3 9 33.3 1 2 50.0 0 0 - 1 4 5 8 4 1 3 2 -10
+p744
+aVA.J. Price MIN 11/23/2013 MIN @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 3
+p745
+aVJ.J. Barea MIN 11/23/2013 MIN @ HOU L 18 3 1 10 10.0 1 5 20.0 0 0 - 1 1 2 1 1 0 0 1 -6
+p746
+aVAlexey Shved MIN 11/23/2013 MIN @ HOU L 8 7 3 6 50.0 0 2 0.0 1 1 100.0 1 0 1 1 0 0 0 0 4
+p747
+aVGorgui Dieng MIN 11/23/2013 MIN @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 3 0 0 3
+p748
+aVKevin Love MIN 11/23/2013 MIN @ HOU L 36 27 11 22 50.0 2 5 40.0 3 3 100.0 6 9 15 2 1 0 2 1 -15
+p749
+aVDerrick Williams MIN 11/23/2013 MIN @ HOU L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 4
+p750
+aVDante Cunningham MIN 11/23/2013 MIN @ HOU L 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -8
+p751
+aVNikola Pekovic MIN 11/23/2013 MIN @ HOU L 36 14 6 13 46.2 0 0 - 2 4 50.0 5 2 7 1 1 1 1 1 -6
+p752
+aVCorey Brewer MIN 11/23/2013 MIN @ HOU L 38 22 8 14 57.1 1 4 25.0 5 7 71.4 0 2 2 1 5 0 1 2 -7
+p753
+aVRobbie Hummel MIN 11/23/2013 MIN @ HOU L 8 0 0 2 0.0 0 1 0.0 0 0 - 2 1 3 1 0 0 0 1 -1
+p754
+aVKevin Martin MIN 11/23/2013 MIN @ HOU L 35 19 7 19 36.8 3 6 50.0 2 2 100.0 1 2 3 1 1 0 0 3 -16
+p755
+aVNikola Pekovic MIN 11/22/2013 MIN vs. BKN W 26 15 5 12 41.7 0 0 - 5 7 71.4 4 3 7 1 0 1 1 1 28
+p756
+aVGorgui Dieng MIN 11/22/2013 MIN vs. BKN W 8 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 1 0 3 1 2 -3
+p757
+aVKevin Love MIN 11/22/2013 MIN vs. BKN W 28 17 5 11 45.5 0 3 0.0 7 7 100.0 6 10 16 4 2 0 1 1 30
+p758
+aVA.J. Price MIN 11/22/2013 MIN vs. BKN W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -3
+p759
+aVDante Cunningham MIN 11/22/2013 MIN vs. BKN W 19 4 2 5 40.0 0 0 - 0 0 - 1 6 7 3 1 1 1 2 9
+p760
+aVCorey Brewer MIN 11/22/2013 MIN vs. BKN W 28 15 6 13 46.2 3 6 50.0 0 0 - 1 0 1 1 1 1 1 2 30
+p761
+aVDerrick Williams MIN 11/22/2013 MIN vs. BKN W 15 6 3 7 42.9 0 1 0.0 0 0 - 2 3 5 0 1 0 0 1 -4
+p762
+aVAlexey Shved MIN 11/22/2013 MIN vs. BKN W 13 5 2 6 33.3 1 4 25.0 0 0 - 1 0 1 2 0 0 1 1 -6
+p763
+aVJ.J. Barea MIN 11/22/2013 MIN vs. BKN W 15 8 2 5 40.0 2 4 50.0 2 2 100.0 0 0 0 2 0 0 0 1 11
+p764
+aVKevin Martin MIN 11/22/2013 MIN vs. BKN W 31 17 6 16 37.5 2 6 33.3 3 3 100.0 0 1 1 3 1 0 0 2 34
+p765
+aVRobbie Hummel MIN 11/22/2013 MIN vs. BKN W 23 5 2 9 22.2 1 8 12.5 0 0 - 0 4 4 1 1 0 0 2 2
+p766
+aVRicky Rubio MIN 11/22/2013 MIN vs. BKN W 25 12 4 8 50.0 2 3 66.7 2 2 100.0 0 2 2 8 3 0 2 3 22
+p767
+aVRobbie Hummel MIN 11/20/2013 MIN vs. LAC L 14 4 1 5 20.0 0 3 0.0 2 2 100.0 1 4 5 0 1 0 1 2 -2
+p768
+aVJ.J. Barea MIN 11/20/2013 MIN vs. LAC L 13 2 0 4 0.0 0 2 0.0 2 2 100.0 0 1 1 3 0 0 1 1 -3
+p769
+aVKevin Love MIN 11/20/2013 MIN vs. LAC L 37 10 2 14 14.3 0 3 0.0 6 10 60.0 4 8 12 8 1 0 5 2 4
+p770
+aVCorey Brewer MIN 11/20/2013 MIN vs. LAC L 40 17 5 12 41.7 1 6 16.7 6 8 75.0 0 2 2 1 1 0 2 2 -1
+p771
+aVAlexey Shved MIN 11/20/2013 MIN vs. LAC L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 -3
+p772
+aVDerrick Williams MIN 11/20/2013 MIN vs. LAC L 11 4 0 4 0.0 0 1 0.0 4 4 100.0 1 3 4 0 0 0 0 1 -8
+p773
+aVKevin Martin MIN 11/20/2013 MIN vs. LAC L 34 28 11 21 52.4 3 4 75.0 3 3 100.0 2 8 10 4 1 0 2 3 -2
+p774
+aVNikola Pekovic MIN 11/20/2013 MIN vs. LAC L 32 20 9 13 69.2 0 0 - 2 2 100.0 1 6 7 0 0 1 1 2 0
+p775
+aVRicky Rubio MIN 11/20/2013 MIN vs. LAC L 35 5 2 7 28.6 1 2 50.0 0 0 - 1 1 2 6 4 0 1 3 -1
+p776
+aVDante Cunningham MIN 11/20/2013 MIN vs. LAC L 16 8 4 8 50.0 0 0 - 0 0 - 0 1 1 1 1 1 0 1 -4
+p777
+aVDante Cunningham MIN 11/19/2013 MIN @ WAS L 23 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 2 0 2 1 2 -2
+p778
+aVJ.J. Barea MIN 11/19/2013 MIN @ WAS L 29 12 5 10 50.0 1 3 33.3 1 2 50.0 0 2 2 7 0 0 2 1 9
+p779
+aVKevin Martin MIN 11/19/2013 MIN @ WAS L 33 11 4 17 23.5 1 5 20.0 2 2 100.0 0 5 5 4 1 0 1 0 -6
+p780
+aVCorey Brewer MIN 11/19/2013 MIN @ WAS L 35 16 7 17 41.2 1 5 20.0 1 1 100.0 3 1 4 0 4 0 1 3 -14
+p781
+aVAlexey Shved MIN 11/19/2013 MIN @ WAS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 2 0 0 9
+p782
+aVRobbie Hummel MIN 11/19/2013 MIN @ WAS L 22 7 2 3 66.7 2 2 100.0 1 1 100.0 0 6 6 1 0 0 0 1 3
+p783
+aVRicky Rubio MIN 11/19/2013 MIN @ WAS L 19 10 3 5 60.0 1 1 100.0 3 4 75.0 1 3 4 2 0 0 3 3 -13
+p784
+aVNikola Pekovic MIN 11/19/2013 MIN @ WAS L 36 13 5 10 50.0 0 0 - 3 5 60.0 2 4 6 1 1 0 2 2 4
+p785
+aVKevin Love MIN 11/19/2013 MIN @ WAS L 37 25 8 17 47.1 4 10 40.0 5 9 55.6 6 5 11 4 0 0 3 5 -10
+p786
+aVDante Cunningham MIN 11/16/2013 MIN vs. BOS W 28 12 6 10 60.0 0 0 - 0 0 - 2 2 4 3 5 1 0 2 11
+p787
+aVJ.J. Barea MIN 11/16/2013 MIN vs. BOS W 21 13 6 15 40.0 1 4 25.0 0 0 - 0 0 0 3 0 0 1 0 10
+p788
+aVAlexey Shved MIN 11/16/2013 MIN vs. BOS W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p789
+aVGorgui Dieng MIN 11/16/2013 MIN vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p790
+aVRicky Rubio MIN 11/16/2013 MIN vs. BOS W 32 3 1 5 20.0 0 1 0.0 1 2 50.0 1 5 6 7 1 0 2 4 17
+p791
+aVKevin Martin MIN 11/16/2013 MIN vs. BOS W 34 20 6 18 33.3 1 7 14.3 7 8 87.5 1 5 6 0 2 0 2 2 3
+p792
+aVCorey Brewer MIN 11/16/2013 MIN vs. BOS W 28 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 2 2 1 1 2 4
+p793
+aVNikola Pekovic MIN 11/16/2013 MIN vs. BOS W 31 20 8 9 88.9 0 0 - 4 5 80.0 8 4 12 0 1 0 0 0 7
+p794
+aVDerrick Williams MIN 11/16/2013 MIN vs. BOS W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p795
+aVKevin Love MIN 11/16/2013 MIN vs. BOS W 33 23 7 16 43.8 2 4 50.0 7 7 100.0 2 10 12 2 1 0 7 3 20
+p796
+aVRobbie Hummel MIN 11/16/2013 MIN vs. BOS W 20 8 3 7 42.9 2 5 40.0 0 0 - 1 4 5 1 0 1 0 4 14
+p797
+aVA.J. Price MIN 11/16/2013 MIN vs. BOS W 3 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 0
+p798
+aVCorey Brewer MIN 11/15/2013 MIN @ DEN L 36 11 4 9 44.4 1 4 25.0 2 2 100.0 1 2 3 0 1 0 3 4 -4
+p799
+aVKevin Love MIN 11/15/2013 MIN @ DEN L 35 28 10 20 50.0 2 7 28.6 6 7 85.7 2 8 10 2 3 2 3 4 -1
+p800
+aVDante Cunningham MIN 11/15/2013 MIN @ DEN L 26 12 6 13 46.2 0 0 - 0 2 0.0 2 2 4 0 0 0 0 2 -4
+p801
+aVRobbie Hummel MIN 11/15/2013 MIN @ DEN L 13 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 1 1 0 0 0 2
+p802
+aVKevin Martin MIN 11/15/2013 MIN @ DEN L 35 27 9 20 45.0 2 7 28.6 7 8 87.5 1 3 4 2 1 0 4 2 -1
+p803
+aVRicky Rubio MIN 11/15/2013 MIN @ DEN L 35 0 0 5 0.0 0 0 - 0 0 - 2 6 8 12 3 0 5 5 -6
+p804
+aVNikola Pekovic MIN 11/15/2013 MIN @ DEN L 34 14 7 11 63.6 0 0 - 0 0 - 2 4 6 1 1 0 0 3 -4
+p805
+aVJ.J. Barea MIN 11/15/2013 MIN @ DEN L 25 21 10 14 71.4 1 2 50.0 0 0 - 0 4 4 4 0 0 1 2 -2
+p806
+aVKevin Love MIN 11/13/2013 MIN vs. CLE W 31 33 10 16 62.5 1 4 25.0 12 14 85.7 2 6 8 6 0 0 0 2 26
+p807
+aVDante Cunningham MIN 11/13/2013 MIN vs. CLE W 22 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 1 0 3 26
+p808
+aVA.J. Price MIN 11/13/2013 MIN vs. CLE W 12 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 1 -3
+p809
+aVCorey Brewer MIN 11/13/2013 MIN vs. CLE W 30 27 10 17 58.8 5 5 100.0 2 3 66.7 3 1 4 1 2 0 0 2 31
+p810
+aVJ.J. Barea MIN 11/13/2013 MIN vs. CLE W 14 6 3 3 100.0 0 0 - 0 0 - 0 2 2 7 0 0 0 0 16
+p811
+aVShabazz Muhammad MIN 11/13/2013 MIN vs. CLE W 10 0 0 4 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 -8
+p812
+aVRicky Rubio MIN 11/13/2013 MIN vs. CLE W 31 16 5 7 71.4 1 1 100.0 5 5 100.0 1 5 6 16 3 0 3 1 22
+p813
+aVAlexey Shved MIN 11/13/2013 MIN vs. CLE W 12 5 1 4 25.0 1 3 33.3 2 2 100.0 0 0 0 0 0 1 0 0 -3
+p814
+aVRobbie Hummel MIN 11/13/2013 MIN vs. CLE W 28 10 4 6 66.7 2 4 50.0 0 0 - 0 4 4 1 0 0 0 3 23
+p815
+aVGorgui Dieng MIN 11/13/2013 MIN vs. CLE W 10 2 1 2 50.0 0 0 - 0 0 - 0 6 6 1 0 1 2 1 -8
+p816
+aVDerrick Williams MIN 11/13/2013 MIN vs. CLE W 22 9 3 7 42.9 1 2 50.0 2 2 100.0 0 3 3 0 0 2 2 2 10
+p817
+aVNikola Pekovic MIN 11/13/2013 MIN vs. CLE W 19 10 5 7 71.4 0 0 - 0 0 - 1 6 7 1 0 0 2 4 13
+p818
+aVKevin Martin MIN 11/11/2013 MIN @ LAC L 35 30 9 22 40.9 4 8 50.0 8 8 100.0 0 1 1 3 1 0 1 3 1
+p819
+aVDante Cunningham MIN 11/11/2013 MIN @ LAC L 17 4 2 7 28.6 0 0 - 0 0 - 4 3 7 0 1 1 0 1 -8
+p820
+aVJ.J. Barea MIN 11/11/2013 MIN @ LAC L 17 3 1 8 12.5 1 2 50.0 0 0 - 1 1 2 4 0 0 1 1 -12
+p821
+aVAlexey Shved MIN 11/11/2013 MIN @ LAC L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -6
+p822
+aVNikola Pekovic MIN 11/11/2013 MIN @ LAC L 36 23 10 14 71.4 0 0 - 3 4 75.0 4 6 10 1 2 0 0 4 7
+p823
+aVGorgui Dieng MIN 11/11/2013 MIN @ LAC L 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -7
+p824
+aVRicky Rubio MIN 11/11/2013 MIN @ LAC L 34 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 10 2 0 3 5 12
+p825
+aVCorey Brewer MIN 11/11/2013 MIN @ LAC L 36 9 4 10 40.0 1 5 20.0 0 0 - 1 2 3 2 1 0 4 4 8
+p826
+aVKevin Love MIN 11/11/2013 MIN @ LAC L 39 23 8 19 42.1 4 8 50.0 3 4 75.0 5 14 19 7 0 0 3 3 4
+p827
+aVDerrick Williams MIN 11/11/2013 MIN @ LAC L 11 6 2 5 40.0 0 3 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -9
+p828
+aVShabazz Muhammad MIN 11/10/2013 MIN @ LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p829
+aVGorgui Dieng MIN 11/10/2013 MIN @ LAL W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p830
+aVKevin Martin MIN 11/10/2013 MIN @ LAL W 33 27 11 23 47.8 3 5 60.0 2 2 100.0 0 5 5 1 2 0 0 1 10
+p831
+aVCorey Brewer MIN 11/10/2013 MIN @ LAL W 38 17 6 9 66.7 1 3 33.3 4 6 66.7 0 1 1 3 4 2 2 2 27
+p832
+aVNikola Pekovic MIN 11/10/2013 MIN @ LAL W 34 14 6 14 42.9 0 0 - 2 3 66.7 4 6 10 4 1 1 3 2 16
+p833
+aVAlexey Shved MIN 11/10/2013 MIN @ LAL W 8 3 1 1 100.0 0 0 - 1 2 50.0 2 0 2 0 1 0 1 0 -4
+p834
+aVJ.J. Barea MIN 11/10/2013 MIN @ LAL W 19 9 4 8 50.0 0 1 0.0 1 1 100.0 0 3 3 3 0 0 3 3 8
+p835
+aVKevin Love MIN 11/10/2013 MIN @ LAL W 37 25 8 17 47.1 4 9 44.4 5 5 100.0 1 12 13 3 1 0 3 2 21
+p836
+aVDerrick Williams MIN 11/10/2013 MIN @ LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p837
+aVRicky Rubio MIN 11/10/2013 MIN @ LAL W 38 12 5 9 55.6 2 2 100.0 0 0 - 1 9 10 14 5 0 5 1 27
+p838
+aVRobbie Hummel MIN 11/10/2013 MIN @ LAL W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p839
+aVA.J. Price MIN 11/10/2013 MIN @ LAL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p840
+aVDante Cunningham MIN 11/10/2013 MIN @ LAL W 19 2 1 4 25.0 0 0 - 0 0 - 2 3 5 1 0 2 0 3 8
+p841
+aVJ.J. Barea MIN 11/08/2013 MIN vs. DAL W 16 5 2 8 25.0 1 3 33.3 0 0 - 0 4 4 4 0 0 3 2 -6
+p842
+aVAlexey Shved MIN 11/08/2013 MIN vs. DAL W 7 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 1 1 1 0 1 -5
+p843
+aVRicky Rubio MIN 11/08/2013 MIN vs. DAL W 35 6 2 8 25.0 0 0 - 2 2 100.0 0 3 3 4 3 0 3 1 13
+p844
+aVNikola Pekovic MIN 11/08/2013 MIN vs. DAL W 31 15 4 9 44.4 0 0 - 7 8 87.5 4 2 6 0 1 3 2 2 1
+p845
+aVCorey Brewer MIN 11/08/2013 MIN vs. DAL W 37 17 7 14 50.0 1 3 33.3 2 3 66.7 1 2 3 4 0 0 2 3 13
+p846
+aVRobbie Hummel MIN 11/08/2013 MIN vs. DAL W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p847
+aVDante Cunningham MIN 11/08/2013 MIN vs. DAL W 30 6 3 6 50.0 0 0 - 0 0 - 5 2 7 3 1 1 0 2 0
+p848
+aVKevin Martin MIN 11/08/2013 MIN vs. DAL W 38 32 10 19 52.6 3 5 60.0 9 10 90.0 0 5 5 2 2 0 2 1 14
+p849
+aVKevin Love MIN 11/08/2013 MIN vs. DAL W 35 32 12 21 57.1 3 6 50.0 5 5 100.0 6 9 15 8 0 1 2 2 19
+p850
+aVCorey Brewer MIN 11/06/2013 MIN vs. GSW L 33 18 7 14 50.0 1 2 50.0 3 3 100.0 0 1 1 0 0 0 1 5 -2
+p851
+aVKevin Love MIN 11/06/2013 MIN vs. GSW L 38 25 10 25 40.0 1 4 25.0 4 4 100.0 7 9 16 6 2 1 3 0 -2
+p852
+aVRobbie Hummel MIN 11/06/2013 MIN vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p853
+aVAlexey Shved MIN 11/06/2013 MIN vs. GSW L 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p854
+aVNikola Pekovic MIN 11/06/2013 MIN vs. GSW L 37 10 4 11 36.4 0 0 - 2 3 66.7 2 5 7 3 0 0 2 3 -9
+p855
+aVRicky Rubio MIN 11/06/2013 MIN vs. GSW L 33 7 2 8 25.0 0 1 0.0 3 5 60.0 1 3 4 7 1 0 4 3 -2
+p856
+aVGorgui Dieng MIN 11/06/2013 MIN vs. GSW L 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 2 1 3 -4
+p857
+aVJ.J. Barea MIN 11/06/2013 MIN vs. GSW L 14 5 2 6 33.3 0 1 0.0 1 2 50.0 0 2 2 3 0 0 3 1 -14
+p858
+aVShabazz Muhammad MIN 11/06/2013 MIN vs. GSW L 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p859
+aVA.J. Price MIN 11/06/2013 MIN vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p860
+aVDante Cunningham MIN 11/06/2013 MIN vs. GSW L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -14
+p861
+aVKevin Martin MIN 11/06/2013 MIN vs. GSW L 38 23 7 15 46.7 2 5 40.0 7 8 87.5 0 3 3 2 2 0 3 2 -8
+p862
+aVDerrick Williams MIN 11/06/2013 MIN vs. GSW L 19 0 0 6 0.0 0 3 0.0 0 0 - 0 2 2 0 1 0 0 1 -12
+p863
+aVKevin Martin MIN 11/04/2013 MIN @ CLE L 34 23 7 16 43.8 5 8 62.5 4 4 100.0 1 3 4 3 0 0 2 1 11
+p864
+aVRicky Rubio MIN 11/04/2013 MIN @ CLE L 26 4 0 7 0.0 0 3 0.0 4 4 100.0 0 1 1 5 5 1 2 1 -3
+p865
+aVDerrick Williams MIN 11/04/2013 MIN @ CLE L 22 13 5 9 55.6 0 1 0.0 3 4 75.0 0 2 2 0 1 0 0 0 2
+p866
+aVDante Cunningham MIN 11/04/2013 MIN @ CLE L 15 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 1 2 0 2 -9
+p867
+aVAlexey Shved MIN 11/04/2013 MIN @ CLE L 8 2 0 3 0.0 0 1 0.0 2 3 66.7 0 0 0 1 0 0 1 0 -12
+p868
+aVCorey Brewer MIN 11/04/2013 MIN @ CLE L 38 13 5 12 41.7 0 4 0.0 3 3 100.0 1 2 3 1 6 0 3 4 11
+p869
+aVJ.J. Barea MIN 11/04/2013 MIN @ CLE L 22 8 4 11 36.4 0 4 0.0 0 1 0.0 0 3 3 2 1 0 2 1 2
+p870
+aVNikola Pekovic MIN 11/04/2013 MIN @ CLE L 35 8 3 12 25.0 0 0 - 2 4 50.0 5 7 12 1 2 0 3 2 -12
+p871
+aVKevin Love MIN 11/04/2013 MIN @ CLE L 36 17 8 20 40.0 0 7 0.0 1 1 100.0 4 9 13 5 0 1 3 1 7
+p872
+aVGorgui Dieng MIN 11/04/2013 MIN @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 1 3 -2
+p873
+aVKevin Love MIN 11/03/2013 MIN @ NYK W 41 34 10 19 52.6 2 8 25.0 12 15 80.0 2 13 15 5 0 0 4 4 24
+p874
+aVNikola Pekovic MIN 11/03/2013 MIN @ NYK W 41 11 4 10 40.0 0 0 - 3 4 75.0 4 8 12 0 0 1 2 1 8
+p875
+aVAlexey Shved MIN 11/03/2013 MIN @ NYK W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 0 -3
+p876
+aVKevin Martin MIN 11/03/2013 MIN @ NYK W 36 30 9 12 75.0 5 5 100.0 7 9 77.8 0 3 3 2 2 0 0 1 26
+p877
+aVRicky Rubio MIN 11/03/2013 MIN @ NYK W 41 8 3 11 27.3 0 3 0.0 2 2 100.0 1 5 6 10 3 0 4 3 13
+p878
+aVDerrick Williams MIN 11/03/2013 MIN @ NYK W 21 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 0 0 -15
+p879
+aVJ.J. Barea MIN 11/03/2013 MIN @ NYK W 18 7 3 8 37.5 1 5 20.0 0 0 - 0 2 2 5 2 0 0 0 -8
+p880
+aVCorey Brewer MIN 11/03/2013 MIN @ NYK W 24 10 3 8 37.5 0 2 0.0 4 6 66.7 1 1 2 1 1 0 0 4 14
+p881
+aVDante Cunningham MIN 11/03/2013 MIN @ NYK W 15 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 3 -14
+p882
+aVRobbie Hummel MIN 11/01/2013 MIN vs. OKC W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 -14
+p883
+aVShabazz Muhammad MIN 11/01/2013 MIN vs. OKC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p884
+aVKevin Martin MIN 11/01/2013 MIN vs. OKC W 24 9 4 11 36.4 0 0 - 1 1 100.0 1 2 3 3 2 0 2 0 16
+p885
+aVJ.J. Barea MIN 11/01/2013 MIN vs. OKC W 19 10 4 8 50.0 2 5 40.0 0 0 - 1 1 2 2 1 0 0 1 10
+p886
+aVKevin Love MIN 11/01/2013 MIN vs. OKC W 29 24 7 12 58.3 3 5 60.0 7 8 87.5 1 11 12 2 2 0 1 1 26
+p887
+aVNikola Pekovic MIN 11/01/2013 MIN vs. OKC W 28 15 5 10 50.0 0 0 - 5 6 83.3 3 7 10 1 0 0 4 3 20
+p888
+aVRonny Turiaf MIN 11/01/2013 MIN vs. OKC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p889
+aVAlexey Shved MIN 11/01/2013 MIN vs. OKC W 17 7 1 3 33.3 0 2 0.0 5 6 83.3 0 2 2 0 0 0 1 1 -5
+p890
+aVGorgui Dieng MIN 11/01/2013 MIN vs. OKC W 14 0 0 1 0.0 0 0 - 0 4 0.0 0 0 0 1 0 0 2 4 -10
+p891
+aVRicky Rubio MIN 11/01/2013 MIN vs. OKC W 29 14 4 8 50.0 2 3 66.7 4 4 100.0 1 1 2 10 5 0 1 2 29
+p892
+aVCorey Brewer MIN 11/01/2013 MIN vs. OKC W 21 9 3 8 37.5 1 3 33.3 2 2 100.0 1 0 1 1 0 0 0 2 13
+p893
+aVDerrick Williams MIN 11/01/2013 MIN vs. OKC W 27 10 4 6 66.7 0 1 0.0 2 2 100.0 0 7 7 0 1 2 2 2 6
+p894
+aVDante Cunningham MIN 11/01/2013 MIN vs. OKC W 15 2 1 6 16.7 0 0 - 0 0 - 1 2 3 0 2 0 1 2 15
+p895
+aVAlexey Shved MIN 10/30/2013 MIN vs. ORL W 16 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 2 0 0 2 0 3
+p896
+aVRonny Turiaf MIN 10/30/2013 MIN vs. ORL W 16 3 1 4 25.0 0 0 - 1 1 100.0 1 2 3 1 1 1 0 3 5
+p897
+aVRicky Rubio MIN 10/30/2013 MIN vs. ORL W 40 13 5 15 33.3 1 3 33.3 2 2 100.0 2 4 6 11 3 1 4 3 -1
+p898
+aVKevin Martin MIN 10/30/2013 MIN vs. ORL W 43 23 6 19 31.6 2 7 28.6 9 9 100.0 0 2 2 3 0 0 1 1 3
+p899
+aVNikola Pekovic MIN 10/30/2013 MIN vs. ORL W 30 11 5 11 45.5 0 0 - 1 1 100.0 1 6 7 0 0 0 2 3 5
+p900
+aVJ.J. Barea MIN 10/30/2013 MIN vs. ORL W 20 11 4 9 44.4 1 2 50.0 2 2 100.0 1 1 2 4 0 0 1 2 4
+p901
+aVCorey Brewer MIN 10/30/2013 MIN vs. ORL W 40 16 7 11 63.6 1 4 25.0 1 3 33.3 1 2 3 2 3 0 3 2 6
+p902
+aVDante Cunningham MIN 10/30/2013 MIN vs. ORL W 20 10 5 7 71.4 0 0 - 0 0 - 3 3 6 0 0 1 0 2 -9
+p903
+aVKevin Love MIN 10/30/2013 MIN vs. ORL W 41 31 8 19 42.1 3 8 37.5 12 16 75.0 4 13 17 4 0 0 1 3 9
+p904
+a.

@@ -1,0 +1,1042 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRobert Traylor MIL 05/05/1999 MIL @ NJN L 14 4 2 2 100.0 0 0 - 0 1 0.0 1 3 4 1 1 0 3 5 -3
+p2
+aVTim Thomas MIL 05/05/1999 MIL @ NJN L 28 16 7 11 63.6 1 1 100.0 1 2 50.0 2 5 7 2 1 0 1 4 -16
+p3
+aVHaywoode Workman MIL 05/05/1999 MIL @ NJN L 33 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 1 2 0 4 4 -10
+p4
+aVRay Allen MIL 05/05/1999 MIL @ NJN L 37 22 9 24 37.5 1 8 12.5 3 3 100.0 0 5 5 4 2 0 1 0 -9
+p5
+aVArmen Gilliam MIL 05/05/1999 MIL @ NJN L 28 12 6 9 66.7 0 0 - 0 0 - 0 1 1 1 1 0 2 3 -10
+p6
+aVChris Gatling MIL 05/05/1999 MIL @ NJN L 20 10 5 8 62.5 0 0 - 0 0 - 0 5 5 1 1 0 1 2 -2
+p7
+aVMichael Curry MIL 05/05/1999 MIL @ NJN L 29 14 5 8 62.5 0 2 0.0 4 5 80.0 1 3 4 2 2 0 0 2 2
+p8
+aVErvin Johnson MIL 05/05/1999 MIL @ NJN L 21 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 1 0 3 -2
+p9
+aVSam Cassell MIL 05/05/1999 MIL @ NJN L 28 16 5 10 50.0 0 1 0.0 6 6 100.0 1 2 3 5 0 0 2 4 6
+p10
+aVPaul Grant MIL 05/05/1999 MIL @ NJN L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p11
+aVArmen Gilliam MIL 05/04/1999 MIL vs. TOR W 30 14 6 15 40.0 0 0 - 2 2 100.0 2 7 9 2 1 1 1 2 14
+p12
+aVHaywoode Workman MIL 05/04/1999 MIL vs. TOR W 30 10 4 8 50.0 2 2 100.0 0 0 - 0 6 6 7 0 0 2 1 -6
+p13
+aVErvin Johnson MIL 05/04/1999 MIL vs. TOR W 14 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 4 1 8
+p14
+aVMichael Curry MIL 05/04/1999 MIL vs. TOR W 26 11 4 8 50.0 0 0 - 3 4 75.0 0 3 3 2 1 0 1 3 -11
+p15
+aVPaul Grant MIL 05/04/1999 MIL vs. TOR W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -3
+p16
+aVScott Williams MIL 05/04/1999 MIL vs. TOR W 12 4 2 6 33.3 0 0 - 0 0 - 1 4 5 0 0 1 1 2 0
+p17
+aVRobert Traylor MIL 05/04/1999 MIL vs. TOR W 30 15 5 8 62.5 0 0 - 5 5 100.0 5 3 8 0 1 1 1 4 2
+p18
+aVTim Thomas MIL 05/04/1999 MIL vs. TOR W 33 11 5 12 41.7 1 2 50.0 0 0 - 2 1 3 4 1 0 4 3 23
+p19
+aVChris Gatling MIL 05/04/1999 MIL vs. TOR W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p20
+aVSam Cassell MIL 05/04/1999 MIL vs. TOR W 23 13 3 6 50.0 1 2 50.0 6 6 100.0 1 2 3 6 4 0 2 1 24
+p21
+aVRay Allen MIL 05/04/1999 MIL vs. TOR W 36 19 6 11 54.5 1 4 25.0 6 6 100.0 0 3 3 3 0 0 1 3 12
+p22
+aVRay Allen MIL 05/01/1999 MIL @ BOS W 43 26 9 17 52.9 3 7 42.9 5 5 100.0 0 3 3 5 1 0 4 5 4
+p23
+aVMichael Curry MIL 05/01/1999 MIL @ BOS W 30 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 1 1 0 1 1 7
+p24
+aVHaywoode Workman MIL 05/01/1999 MIL @ BOS W 28 2 1 1 100.0 0 0 - 0 0 - 0 2 2 4 1 0 2 0 9
+p25
+aVTim Thomas MIL 05/01/1999 MIL @ BOS W 22 4 2 9 22.2 0 2 0.0 0 1 0.0 1 1 2 1 1 0 3 3 0
+p26
+aVVinny Del Negro MIL 05/01/1999 MIL @ BOS W 24 5 2 4 50.0 1 2 50.0 0 0 - 0 5 5 1 3 1 0 0 7
+p27
+aVErvin Johnson MIL 05/01/1999 MIL @ BOS W 9 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 0 1 0 0 0 2
+p28
+aVArmen Gilliam MIL 05/01/1999 MIL @ BOS W 23 12 3 8 37.5 0 0 - 6 8 75.0 1 7 8 0 0 3 2 2 4
+p29
+aVChris Gatling MIL 05/01/1999 MIL @ BOS W 20 8 3 8 37.5 0 0 - 2 4 50.0 5 3 8 0 1 0 0 2 -1
+p30
+aVSam Cassell MIL 05/01/1999 MIL @ BOS W 22 13 5 16 31.3 0 0 - 3 3 100.0 2 0 2 2 1 0 3 1 3
+p31
+aVRobert Traylor MIL 05/01/1999 MIL @ BOS W 19 4 2 6 33.3 0 0 - 0 0 - 3 4 7 0 1 0 1 4 10
+p32
+aVHaywoode Workman MIL 04/30/1999 MIL vs. DET L 35 7 3 8 37.5 1 5 20.0 0 0 - 0 2 2 4 1 0 2 3 -2
+p33
+aVVinny Del Negro MIL 04/30/1999 MIL vs. DET L 25 8 4 11 36.4 0 1 0.0 0 0 - 0 3 3 3 0 0 1 0 4
+p34
+aVGlenn Robinson MIL 04/30/1999 MIL vs. DET L 14 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 1 0 0 1 0 6
+p35
+aVTim Thomas MIL 04/30/1999 MIL vs. DET L 24 9 4 12 33.3 0 4 0.0 1 2 50.0 3 4 7 4 0 0 1 6 1
+p36
+aVRobert Traylor MIL 04/30/1999 MIL vs. DET L 18 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 3 2 1 1
+p37
+aVDell Curry MIL 04/30/1999 MIL vs. DET L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p38
+aVArmen Gilliam MIL 04/30/1999 MIL vs. DET L 14 3 1 4 25.0 0 0 - 1 2 50.0 0 4 4 1 1 0 0 0 7
+p39
+aVChris Gatling MIL 04/30/1999 MIL vs. DET L 16 8 4 8 50.0 0 2 0.0 0 0 - 0 4 4 2 0 0 2 3 -16
+p40
+aVErvin Johnson MIL 04/30/1999 MIL vs. DET L 23 12 5 10 50.0 0 0 - 2 2 100.0 5 1 6 2 2 0 1 2 -4
+p41
+aVMichael Curry MIL 04/30/1999 MIL vs. DET L 26 8 3 7 42.9 0 1 0.0 2 2 100.0 0 0 0 1 2 0 0 2 -18
+p42
+aVRay Allen MIL 04/30/1999 MIL vs. DET L 41 9 2 8 25.0 0 4 0.0 5 6 83.3 1 3 4 2 2 1 2 1 0
+p43
+aVMichael Curry MIL 04/28/1999 MIL vs. TOR W 30 14 6 10 60.0 0 0 - 2 2 100.0 1 4 5 2 0 0 0 3 2
+p44
+aVTim Thomas MIL 04/28/1999 MIL vs. TOR W 24 21 7 9 77.8 1 1 100.0 6 10 60.0 1 4 5 0 0 1 2 5 17
+p45
+aVRobert Traylor MIL 04/28/1999 MIL vs. TOR W 23 5 2 3 66.7 0 0 - 1 2 50.0 2 5 7 2 2 0 2 2 10
+p46
+aVVinny Del Negro MIL 04/28/1999 MIL vs. TOR W 24 15 5 7 71.4 1 1 100.0 4 4 100.0 1 1 2 4 1 0 0 0 7
+p47
+aVGlenn Robinson MIL 04/28/1999 MIL vs. TOR W 31 18 8 16 50.0 0 0 - 2 2 100.0 0 1 1 5 0 2 5 5 1
+p48
+aVHaywoode Workman MIL 04/28/1999 MIL vs. TOR W 32 6 1 5 20.0 1 3 33.3 3 4 75.0 1 2 3 8 0 0 2 1 5
+p49
+aVChris Gatling MIL 04/28/1999 MIL vs. TOR W 18 7 3 6 50.0 0 1 0.0 1 2 50.0 1 4 5 2 1 0 0 1 7
+p50
+aVErvin Johnson MIL 04/28/1999 MIL vs. TOR W 21 11 4 4 100.0 0 0 - 3 7 42.9 1 3 4 1 0 1 1 4 2
+p51
+aVRay Allen MIL 04/28/1999 MIL vs. TOR W 37 18 7 11 63.6 3 5 60.0 1 2 50.0 0 2 2 7 2 0 2 3 14
+p52
+aVMichael Curry MIL 04/26/1999 MIL vs. WAS W 30 5 0 4 0.0 0 0 - 5 6 83.3 0 3 3 2 0 0 1 1 6
+p53
+aVChris Gatling MIL 04/26/1999 MIL vs. WAS W 25 13 5 13 38.5 1 2 50.0 2 2 100.0 6 5 11 0 0 0 1 4 15
+p54
+aVVinny Del Negro MIL 04/26/1999 MIL vs. WAS W 28 11 3 7 42.9 1 3 33.3 4 4 100.0 1 3 4 4 3 0 1 1 13
+p55
+aVRobert Traylor MIL 04/26/1999 MIL vs. WAS W 20 9 4 6 66.7 0 0 - 1 2 50.0 4 3 7 2 0 0 1 0 -1
+p56
+aVHaywoode Workman MIL 04/26/1999 MIL vs. WAS W 25 5 1 4 25.0 1 3 33.3 2 2 100.0 2 1 3 7 0 0 3 0 -7
+p57
+aVErvin Johnson MIL 04/26/1999 MIL vs. WAS W 21 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 1 0 1 2 2 -3
+p58
+aVTim Thomas MIL 04/26/1999 MIL vs. WAS W 16 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 -2
+p59
+aVGlenn Robinson MIL 04/26/1999 MIL vs. WAS W 41 31 12 25 48.0 2 2 100.0 5 8 62.5 3 4 7 0 2 0 3 1 11
+p60
+aVRay Allen MIL 04/26/1999 MIL vs. WAS W 34 19 5 14 35.7 3 6 50.0 6 6 100.0 0 6 6 2 2 0 0 5 8
+p61
+aVHaywoode Workman MIL 04/25/1999 MIL @ ATL L 26 3 1 6 16.7 0 0 - 1 1 100.0 1 1 2 2 3 0 1 1 -10
+p62
+aVRobert Traylor MIL 04/25/1999 MIL @ ATL L 19 5 1 5 20.0 0 0 - 3 4 75.0 2 1 3 1 0 2 0 3 4
+p63
+aVChris Gatling MIL 04/25/1999 MIL @ ATL L 16 0 0 3 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 2 2 -8
+p64
+aVVinny Del Negro MIL 04/25/1999 MIL @ ATL L 24 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 2 0 0 1 2 -2
+p65
+aVErvin Johnson MIL 04/25/1999 MIL @ ATL L 22 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 5 -10
+p66
+aVDell Curry MIL 04/25/1999 MIL @ ATL L 11 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 1 1 0 1 0 -8
+p67
+aVTim Thomas MIL 04/25/1999 MIL @ ATL L 25 12 4 8 50.0 1 3 33.3 3 6 50.0 0 2 2 2 2 1 0 3 0
+p68
+aVMichael Curry MIL 04/25/1999 MIL @ ATL L 19 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -16
+p69
+aVGlenn Robinson MIL 04/25/1999 MIL @ ATL L 34 18 9 17 52.9 0 0 - 0 0 - 3 5 8 3 0 0 2 4 -8
+p70
+aVArmen Gilliam MIL 04/25/1999 MIL @ ATL L 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p71
+aVRay Allen MIL 04/25/1999 MIL @ ATL L 36 21 7 14 50.0 1 2 50.0 6 6 100.0 1 1 2 3 0 0 2 4 -14
+p72
+aVRay Allen MIL 04/23/1999 MIL vs. CLE W 36 16 5 13 38.5 1 6 16.7 5 5 100.0 2 4 6 3 0 0 5 0 1
+p73
+aVMichael Curry MIL 04/23/1999 MIL vs. CLE W 20 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 4
+p74
+aVTim Thomas MIL 04/23/1999 MIL vs. CLE W 21 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 2 0
+p75
+aVVinny Del Negro MIL 04/23/1999 MIL vs. CLE W 19 3 0 3 0.0 0 0 - 3 4 75.0 0 2 2 3 0 0 1 1 8
+p76
+aVDell Curry MIL 04/23/1999 MIL vs. CLE W 24 5 2 7 28.6 1 4 25.0 0 0 - 1 1 2 0 0 0 1 1 11
+p77
+aVErvin Johnson MIL 04/23/1999 MIL vs. CLE W 16 11 4 4 100.0 0 0 - 3 4 75.0 3 2 5 0 0 2 1 4 2
+p78
+aVArmen Gilliam MIL 04/23/1999 MIL vs. CLE W 21 4 1 5 20.0 0 0 - 2 2 100.0 3 4 7 0 2 2 3 0 1
+p79
+aVHaywoode Workman MIL 04/23/1999 MIL vs. CLE W 30 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 5 0 0 4 2 -6
+p80
+aVRobert Traylor MIL 04/23/1999 MIL vs. CLE W 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -1
+p81
+aVGlenn Robinson MIL 04/23/1999 MIL vs. CLE W 39 26 10 20 50.0 0 0 - 6 6 100.0 5 12 17 1 1 2 2 2 0
+p82
+aVTim Thomas MIL 04/21/1999 MIL @ IND L 31 21 7 15 46.7 2 5 40.0 5 8 62.5 4 1 5 0 1 0 3 3 -6
+p83
+aVHaywoode Workman MIL 04/21/1999 MIL @ IND L 38 12 4 11 36.4 1 4 25.0 3 5 60.0 0 4 4 11 1 0 0 5 6
+p84
+aVRay Allen MIL 04/21/1999 MIL @ IND L 44 14 4 19 21.1 0 4 0.0 6 8 75.0 3 5 8 5 0 0 4 3 -12
+p85
+aVErvin Johnson MIL 04/21/1999 MIL @ IND L 27 4 2 3 66.7 0 0 - 0 2 0.0 1 7 8 0 3 0 2 4 -1
+p86
+aVGlenn Robinson MIL 04/21/1999 MIL @ IND L 45 27 12 21 57.1 0 2 0.0 3 4 75.0 3 11 14 3 0 1 1 0 -1
+p87
+aVVinny Del Negro MIL 04/21/1999 MIL @ IND L 21 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -8
+p88
+aVChris Gatling MIL 04/21/1999 MIL @ IND L 13 6 3 4 75.0 0 0 - 0 2 0.0 1 1 2 0 2 1 4 4 -14
+p89
+aVMichael Curry MIL 04/21/1999 MIL @ IND L 30 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 1 4 -8
+p90
+aVRobert Traylor MIL 04/21/1999 MIL @ IND L 16 6 2 3 66.7 0 0 - 2 3 66.7 3 3 6 0 2 1 1 2 4
+p91
+aVChris Gatling MIL 04/20/1999 MIL vs. ORL W 17 9 4 7 57.1 0 1 0.0 1 2 50.0 0 1 1 2 1 0 1 2 -15
+p92
+aVRobert Traylor MIL 04/20/1999 MIL vs. ORL W 22 11 5 6 83.3 0 0 - 1 6 16.7 1 3 4 1 0 1 0 3 10
+p93
+aVGlenn Robinson MIL 04/20/1999 MIL vs. ORL W 31 18 7 14 50.0 0 0 - 4 5 80.0 0 8 8 2 0 1 2 3 20
+p94
+aVTim Thomas MIL 04/20/1999 MIL vs. ORL W 27 10 4 10 40.0 1 3 33.3 1 2 50.0 1 2 3 2 2 1 2 3 3
+p95
+aVVinny Del Negro MIL 04/20/1999 MIL vs. ORL W 25 10 5 7 71.4 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -3
+p96
+aVErvin Johnson MIL 04/20/1999 MIL vs. ORL W 24 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 1 0 1 0 4 7
+p97
+aVHaywoode Workman MIL 04/20/1999 MIL vs. ORL W 32 7 2 5 40.0 1 2 50.0 2 2 100.0 1 4 5 9 1 0 2 2 11
+p98
+aVMichael Curry MIL 04/20/1999 MIL vs. ORL W 22 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 2 4
+p99
+aVRay Allen MIL 04/20/1999 MIL vs. ORL W 40 18 8 15 53.3 2 5 40.0 0 0 - 3 6 9 5 1 1 5 3 23
+p100
+aVRobert Traylor MIL 04/18/1999 MIL @ CHI L 12 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 1 2 -1
+p101
+aVVinny Del Negro MIL 04/18/1999 MIL @ CHI L 21 6 2 7 28.6 0 0 - 2 3 66.7 0 1 1 3 0 0 0 1 -12
+p102
+aVGlenn Robinson MIL 04/18/1999 MIL @ CHI L 41 17 5 17 29.4 1 3 33.3 6 7 85.7 2 4 6 1 2 1 3 2 6
+p103
+aVRay Allen MIL 04/18/1999 MIL @ CHI L 38 19 7 16 43.8 0 6 0.0 5 5 100.0 1 3 4 6 1 0 4 3 -4
+p104
+aVMichael Curry MIL 04/18/1999 MIL @ CHI L 31 9 3 5 60.0 0 0 - 3 4 75.0 0 5 5 3 3 0 1 3 12
+p105
+aVHaywoode Workman MIL 04/18/1999 MIL @ CHI L 33 2 1 6 16.7 0 2 0.0 0 0 - 1 4 5 6 2 0 5 1 8
+p106
+aVChris Gatling MIL 04/18/1999 MIL @ CHI L 7 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 3 -2
+p107
+aVTim Thomas MIL 04/18/1999 MIL @ CHI L 17 6 2 3 66.7 0 0 - 2 2 100.0 4 2 6 0 2 0 2 4 -10
+p108
+aVErvin Johnson MIL 04/18/1999 MIL @ CHI L 11 1 0 3 0.0 0 0 - 1 4 25.0 2 2 4 0 1 0 0 1 -13
+p109
+aVArmen Gilliam MIL 04/18/1999 MIL @ CHI L 28 15 6 9 66.7 0 0 - 3 3 100.0 1 4 5 2 0 0 0 0 6
+p110
+aVErvin Johnson MIL 04/16/1999 MIL vs. CHH L 26 8 3 5 60.0 0 0 - 2 3 66.7 5 5 10 0 1 2 0 4 -18
+p111
+aVTim Thomas MIL 04/16/1999 MIL vs. CHH L 18 10 3 5 60.0 0 1 0.0 4 6 66.7 0 3 3 1 1 0 0 3 6
+p112
+aVHaywoode Workman MIL 04/16/1999 MIL vs. CHH L 34 9 4 6 66.7 1 2 50.0 0 0 - 1 3 4 4 7 1 2 5 -7
+p113
+aVChris Gatling MIL 04/16/1999 MIL vs. CHH L 17 11 3 5 60.0 0 0 - 5 6 83.3 1 1 2 0 1 0 0 1 -2
+p114
+aVDell Curry MIL 04/16/1999 MIL vs. CHH L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p115
+aVMichael Curry MIL 04/16/1999 MIL vs. CHH L 31 11 5 9 55.6 0 0 - 1 2 50.0 0 2 2 3 2 0 1 5 3
+p116
+aVRobert Traylor MIL 04/16/1999 MIL vs. CHH L 17 6 3 4 75.0 0 0 - 0 0 - 1 7 8 1 0 1 2 6 12
+p117
+aVVinny Del Negro MIL 04/16/1999 MIL vs. CHH L 18 4 1 3 33.3 0 1 0.0 2 4 50.0 0 2 2 3 1 0 2 1 -1
+p118
+aVRay Allen MIL 04/16/1999 MIL vs. CHH L 42 21 9 18 50.0 1 3 33.3 2 4 50.0 1 5 6 5 1 0 6 3 6
+p119
+aVGlenn Robinson MIL 04/16/1999 MIL vs. CHH L 34 14 5 19 26.3 0 1 0.0 4 4 100.0 0 4 4 1 2 3 2 1 -4
+p120
+aVMichael Curry MIL 04/14/1999 MIL vs. MIA W 30 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 3 1 1 0 3 4
+p121
+aVRay Allen MIL 04/14/1999 MIL vs. MIA W 35 31 9 15 60.0 2 4 50.0 11 12 91.7 0 2 2 1 0 0 2 2 -2
+p122
+aVScott Williams MIL 04/14/1999 MIL vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p123
+aVHaywoode Workman MIL 04/14/1999 MIL vs. MIA W 23 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 7 0 0 2 0 7
+p124
+aVVinny Del Negro MIL 04/14/1999 MIL vs. MIA W 25 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 2 0 1 1 7
+p125
+aVRobert Traylor MIL 04/14/1999 MIL vs. MIA W 13 2 1 5 20.0 0 0 - 0 0 - 3 2 5 0 3 0 0 3 7
+p126
+aVTim Thomas MIL 04/14/1999 MIL vs. MIA W 10 8 2 4 50.0 0 2 0.0 4 5 80.0 1 0 1 2 1 0 1 1 12
+p127
+aVChris Gatling MIL 04/14/1999 MIL vs. MIA W 18 1 0 3 0.0 0 0 - 1 4 25.0 1 4 5 1 0 1 0 2 10
+p128
+aVDell Curry MIL 04/14/1999 MIL vs. MIA W 22 12 5 8 62.5 2 5 40.0 0 0 - 1 1 2 1 0 0 0 4 4
+p129
+aVErvin Johnson MIL 04/14/1999 MIL vs. MIA W 27 7 3 8 37.5 0 0 - 1 2 50.0 4 3 7 0 0 1 0 4 7
+p130
+aVGlenn Robinson MIL 04/14/1999 MIL vs. MIA W 33 29 13 22 59.1 1 2 50.0 2 2 100.0 3 4 7 3 0 1 1 3 10
+p131
+aVErvin Johnson MIL 04/13/1999 MIL vs. ATL W 30 4 2 3 66.7 0 0 - 0 2 0.0 2 6 8 1 2 2 1 2 4
+p132
+aVVinny Del Negro MIL 04/13/1999 MIL vs. ATL W 21 2 1 2 50.0 0 0 - 0 0 - 0 0 0 7 1 0 1 1 -6
+p133
+aVDell Curry MIL 04/13/1999 MIL vs. ATL W 22 20 8 17 47.1 4 10 40.0 0 0 - 1 2 3 0 0 0 3 0 -6
+p134
+aVTim Thomas MIL 04/13/1999 MIL vs. ATL W 20 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 1 1 0 0 1 12
+p135
+aVChris Gatling MIL 04/13/1999 MIL vs. ATL W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -1
+p136
+aVRobert Traylor MIL 04/13/1999 MIL vs. ATL W 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 1 2 3
+p137
+aVArmen Gilliam MIL 04/13/1999 MIL vs. ATL W 7 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -2
+p138
+aVGlenn Robinson MIL 04/13/1999 MIL vs. ATL W 35 18 8 14 57.1 0 1 0.0 2 2 100.0 0 2 2 2 2 2 2 2 15
+p139
+aVRay Allen MIL 04/13/1999 MIL vs. ATL W 35 18 8 14 57.1 1 3 33.3 1 1 100.0 1 5 6 1 1 0 2 3 4
+p140
+aVMichael Curry MIL 04/13/1999 MIL vs. ATL W 19 7 2 4 50.0 0 1 0.0 3 4 75.0 0 3 3 1 3 0 0 2 -1
+p141
+aVHaywoode Workman MIL 04/13/1999 MIL vs. ATL W 27 9 3 5 60.0 1 2 50.0 2 2 100.0 0 2 2 11 0 0 1 1 13
+p142
+aVVinny Del Negro MIL 04/11/1999 MIL @ MIA L 19 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 2 1 -12
+p143
+aVArmen Gilliam MIL 04/11/1999 MIL @ MIA L 25 11 4 6 66.7 0 0 - 3 4 75.0 1 4 5 1 2 0 1 2 -4
+p144
+aVErvin Johnson MIL 04/11/1999 MIL @ MIA L 19 7 3 5 60.0 0 0 - 1 2 50.0 2 3 5 0 1 0 2 4 -10
+p145
+aVMichael Curry MIL 04/11/1999 MIL @ MIA L 18 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 1 2 -11
+p146
+aVTim Thomas MIL 04/11/1999 MIL @ MIA L 17 4 1 2 50.0 0 0 - 2 4 50.0 2 0 2 1 0 0 1 2 3
+p147
+aVDell Curry MIL 04/11/1999 MIL @ MIA L 24 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 0 0 0 0 2 -1
+p148
+aVHaywoode Workman MIL 04/11/1999 MIL @ MIA L 29 15 6 9 66.7 2 2 100.0 1 2 50.0 0 3 3 8 1 0 1 1 9
+p149
+aVChris Gatling MIL 04/11/1999 MIL @ MIA L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -6
+p150
+aVGlenn Robinson MIL 04/11/1999 MIL @ MIA L 33 14 5 14 35.7 0 0 - 4 5 80.0 1 5 6 2 4 0 1 2 7
+p151
+aVRay Allen MIL 04/11/1999 MIL @ MIA L 39 25 11 19 57.9 0 2 0.0 3 3 100.0 2 2 4 6 2 0 1 3 8
+p152
+aVRobert Traylor MIL 04/11/1999 MIL @ MIA L 12 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 1 0 0 2 2 2
+p153
+aVVinny Del Negro MIL 04/09/1999 MIL @ ORL L 16 2 1 5 20.0 0 0 - 0 0 - 0 1 1 4 0 0 0 0 -9
+p154
+aVRay Allen MIL 04/09/1999 MIL @ ORL L 32 21 9 16 56.3 2 4 50.0 1 2 50.0 3 1 4 2 2 0 5 1 -3
+p155
+aVDell Curry MIL 04/09/1999 MIL @ ORL L 20 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 1 1 0 2 1 -14
+p156
+aVChris Gatling MIL 04/09/1999 MIL @ ORL L 21 7 3 6 50.0 0 0 - 1 3 33.3 0 3 3 1 3 0 1 2 -4
+p157
+aVErvin Johnson MIL 04/09/1999 MIL @ ORL L 22 6 3 4 75.0 0 0 - 0 0 - 3 6 9 1 1 0 0 4 -5
+p158
+aVGlenn Robinson MIL 04/09/1999 MIL @ ORL L 33 15 5 13 38.5 1 4 25.0 4 6 66.7 0 4 4 1 0 2 5 2 -15
+p159
+aVScott Williams MIL 04/09/1999 MIL @ ORL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p160
+aVMichael Curry MIL 04/09/1999 MIL @ ORL L 23 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 2 4 -7
+p161
+aVRobert Traylor MIL 04/09/1999 MIL @ ORL L 20 4 2 4 50.0 0 0 - 0 4 0.0 3 3 6 2 2 1 2 3 -3
+p162
+aVHaywoode Workman MIL 04/09/1999 MIL @ ORL L 32 11 5 10 50.0 1 4 25.0 0 0 - 3 2 5 6 0 0 4 4 -3
+p163
+aVTim Thomas MIL 04/09/1999 MIL @ ORL L 19 8 4 7 57.1 0 1 0.0 0 0 - 0 4 4 0 1 1 0 1 3
+p164
+aVHaywoode Workman MIL 04/07/1999 MIL vs. CLE W 21 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 5 0 0 2 5 -9
+p165
+aVRay Allen MIL 04/07/1999 MIL vs. CLE W 37 17 7 15 46.7 3 5 60.0 0 0 - 4 1 5 3 1 0 1 5 -2
+p166
+aVDell Curry MIL 04/07/1999 MIL vs. CLE W 27 13 5 6 83.3 2 2 100.0 1 2 50.0 0 2 2 2 1 0 1 1 18
+p167
+aVErvin Johnson MIL 04/07/1999 MIL vs. CLE W 23 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 0 2 2 3 6
+p168
+aVMichael Curry MIL 04/07/1999 MIL vs. CLE W 27 4 1 4 25.0 0 1 0.0 2 2 100.0 2 2 4 2 1 0 1 3 16
+p169
+aVGlenn Robinson MIL 04/07/1999 MIL vs. CLE W 37 33 12 20 60.0 3 3 100.0 6 6 100.0 0 3 3 3 2 0 5 3 6
+p170
+aVVinny Del Negro MIL 04/07/1999 MIL vs. CLE W 27 11 4 4 100.0 1 1 100.0 2 2 100.0 0 3 3 7 1 0 2 2 17
+p171
+aVTim Thomas MIL 04/07/1999 MIL vs. CLE W 13 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 1 0 2 1 -8
+p172
+aVRobert Traylor MIL 04/07/1999 MIL vs. CLE W 14 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 1 0 2 -11
+p173
+aVChris Gatling MIL 04/07/1999 MIL vs. CLE W 13 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 4 7
+p174
+aVVinny Del Negro MIL 04/06/1999 MIL @ PHI L 23 4 2 7 28.6 0 0 - 0 0 - 1 2 3 4 0 0 0 0 -3
+p175
+aVTim Thomas MIL 04/06/1999 MIL @ PHI L 16 6 1 5 20.0 0 1 0.0 4 4 100.0 3 1 4 0 0 1 2 5 -9
+p176
+aVHaywoode Workman MIL 04/06/1999 MIL @ PHI L 25 10 3 7 42.9 2 4 50.0 2 2 100.0 1 4 5 6 3 0 1 1 -3
+p177
+aVChris Gatling MIL 04/06/1999 MIL @ PHI L 10 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 2 0 0 1 0 3
+p178
+aVMichael Curry MIL 04/06/1999 MIL @ PHI L 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 2 4 -2
+p179
+aVErvin Johnson MIL 04/06/1999 MIL @ PHI L 22 7 2 2 100.0 0 0 - 3 5 60.0 3 2 5 0 0 1 1 5 -5
+p180
+aVGlenn Robinson MIL 04/06/1999 MIL @ PHI L 37 22 7 14 50.0 1 3 33.3 7 8 87.5 1 2 3 0 3 0 3 3 -10
+p181
+aVArmen Gilliam MIL 04/06/1999 MIL @ PHI L 16 14 5 6 83.3 0 0 - 4 4 100.0 1 4 5 0 0 1 1 4 -1
+p182
+aVRobert Traylor MIL 04/06/1999 MIL @ PHI L 17 0 0 8 0.0 0 0 - 0 0 - 4 0 4 1 0 2 0 2 -7
+p183
+aVRay Allen MIL 04/06/1999 MIL @ PHI L 34 12 5 19 26.3 0 6 0.0 2 2 100.0 2 3 5 7 0 0 0 4 -10
+p184
+aVDell Curry MIL 04/06/1999 MIL @ PHI L 24 8 3 6 50.0 2 3 66.7 0 0 - 1 3 4 3 0 0 0 1 7
+p185
+aVRay Allen MIL 04/04/1999 MIL @ CLE L 29 2 0 8 0.0 0 4 0.0 2 2 100.0 1 4 5 3 1 0 0 2 -20
+p186
+aVMichael Curry MIL 04/04/1999 MIL @ CLE L 27 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 2 1 5 -12
+p187
+aVScott Williams MIL 04/04/1999 MIL @ CLE L 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -2
+p188
+aVErvin Johnson MIL 04/04/1999 MIL @ CLE L 13 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 1 2 3 -9
+p189
+aVChris Gatling MIL 04/04/1999 MIL @ CLE L 23 9 4 5 80.0 0 0 - 1 1 100.0 1 5 6 1 2 1 1 5 3
+p190
+aVDell Curry MIL 04/04/1999 MIL @ CLE L 24 12 5 8 62.5 2 2 100.0 0 0 - 1 4 5 2 1 0 1 1 3
+p191
+aVVinny Del Negro MIL 04/04/1999 MIL @ CLE L 21 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 2 -11
+p192
+aVHaywoode Workman MIL 04/04/1999 MIL @ CLE L 23 3 1 5 20.0 0 1 0.0 1 2 50.0 0 4 4 5 1 0 2 0 -14
+p193
+aVRobert Traylor MIL 04/04/1999 MIL @ CLE L 23 14 6 10 60.0 0 0 - 2 2 100.0 1 0 1 1 1 0 1 3 -15
+p194
+aVGlenn Robinson MIL 04/04/1999 MIL @ CLE L 28 8 3 12 25.0 0 2 0.0 2 2 100.0 1 4 5 3 1 2 2 2 -24
+p195
+aVTim Thomas MIL 04/04/1999 MIL @ CLE L 24 16 8 15 53.3 0 3 0.0 0 2 0.0 2 1 3 1 0 0 1 5 -19
+p196
+aVTim Thomas MIL 04/02/1999 MIL @ BOS W 17 4 2 6 33.3 0 3 0.0 0 0 - 2 1 3 0 1 0 0 1 0
+p197
+aVErvin Johnson MIL 04/02/1999 MIL @ BOS W 10 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 3 -11
+p198
+aVHaywoode Workman MIL 04/02/1999 MIL @ BOS W 33 0 0 4 0.0 0 0 - 0 0 - 0 6 6 5 2 0 1 1 1
+p199
+aVVinny Del Negro MIL 04/02/1999 MIL @ BOS W 19 8 3 6 50.0 1 1 100.0 1 2 50.0 0 2 2 2 1 0 0 2 -4
+p200
+aVMichael Curry MIL 04/02/1999 MIL @ BOS W 25 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 1 0 2 -7
+p201
+aVChris Gatling MIL 04/02/1999 MIL @ BOS W 15 4 1 4 25.0 0 0 - 2 4 50.0 2 1 3 0 1 0 0 1 1
+p202
+aVRobert Traylor MIL 04/02/1999 MIL @ BOS W 26 15 5 6 83.3 0 0 - 5 12 41.7 3 3 6 0 3 1 2 4 -2
+p203
+aVGlenn Robinson MIL 04/02/1999 MIL @ BOS W 34 12 5 17 29.4 2 4 50.0 0 0 - 2 4 6 1 0 1 3 0 8
+p204
+aVDell Curry MIL 04/02/1999 MIL @ BOS W 27 18 7 12 58.3 2 7 28.6 2 2 100.0 0 3 3 4 1 0 3 1 6
+p205
+aVRay Allen MIL 04/02/1999 MIL @ BOS W 35 19 6 12 50.0 1 3 33.3 6 8 75.0 0 5 5 3 0 1 2 1 13
+p206
+aVGlenn Robinson MIL 03/31/1999 MIL @ CHH W 29 14 6 14 42.9 1 2 50.0 1 1 100.0 0 6 6 3 1 0 5 3 0
+p207
+aVErvin Johnson MIL 03/31/1999 MIL @ CHH W 21 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 0 1 0 0 6 14
+p208
+aVChris Gatling MIL 03/31/1999 MIL @ CHH W 18 8 4 6 66.7 0 1 0.0 0 4 0.0 1 3 4 0 2 0 1 3 10
+p209
+aVRobert Traylor MIL 03/31/1999 MIL @ CHH W 24 9 4 5 80.0 0 0 - 1 2 50.0 2 2 4 0 1 2 4 5 -5
+p210
+aVHaywoode Workman MIL 03/31/1999 MIL @ CHH W 27 5 2 5 40.0 0 1 0.0 1 2 50.0 0 3 3 7 0 0 3 2 -3
+p211
+aVVinny Del Negro MIL 03/31/1999 MIL @ CHH W 21 8 4 6 66.7 0 1 0.0 0 0 - 0 3 3 5 0 0 1 1 11
+p212
+aVDell Curry MIL 03/31/1999 MIL @ CHH W 27 18 7 10 70.0 2 3 66.7 2 2 100.0 2 2 4 3 1 0 2 2 -5
+p213
+aVMichael Curry MIL 03/31/1999 MIL @ CHH W 23 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 3 0 0 2 3 9
+p214
+aVRay Allen MIL 03/31/1999 MIL @ CHH W 31 20 9 14 64.3 2 2 100.0 0 1 0.0 2 3 5 3 1 0 1 2 5
+p215
+aVTim Thomas MIL 03/31/1999 MIL @ CHH W 19 8 3 6 50.0 2 4 50.0 0 0 - 1 2 3 2 1 2 1 1 4
+p216
+aVHaywoode Workman MIL 03/30/1999 MIL vs. WAS W 29 15 6 9 66.7 0 0 - 3 3 100.0 0 5 5 7 0 0 4 2 17
+p217
+aVRobert Traylor MIL 03/30/1999 MIL vs. WAS W 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -1
+p218
+aVTim Thomas MIL 03/30/1999 MIL vs. WAS W 17 12 4 8 50.0 2 4 50.0 2 2 100.0 1 0 1 0 1 0 1 0 -1
+p219
+aVGlenn Robinson MIL 03/30/1999 MIL vs. WAS W 37 11 4 13 30.8 0 4 0.0 3 4 75.0 1 7 8 6 1 0 3 0 6
+p220
+aVRay Allen MIL 03/30/1999 MIL vs. WAS W 34 25 8 12 66.7 3 3 100.0 6 6 100.0 1 7 8 3 1 0 4 2 13
+p221
+aVChris Gatling MIL 03/30/1999 MIL vs. WAS W 17 16 8 9 88.9 0 0 - 0 1 0.0 1 2 3 0 0 0 1 4 -3
+p222
+aVVinny Del Negro MIL 03/30/1999 MIL vs. WAS W 19 7 2 4 50.0 1 1 100.0 2 2 100.0 0 0 0 2 0 0 1 1 -15
+p223
+aVDell Curry MIL 03/30/1999 MIL vs. WAS W 25 13 5 8 62.5 2 5 40.0 1 2 50.0 0 2 2 4 1 0 1 0 4
+p224
+aVMichael Curry MIL 03/30/1999 MIL vs. WAS W 23 0 0 4 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 -1
+p225
+aVErvin Johnson MIL 03/30/1999 MIL vs. WAS W 22 6 2 4 50.0 0 0 - 2 3 66.7 4 3 7 1 0 2 1 2 -9
+p226
+aVDell Curry MIL 03/28/1999 MIL @ MIN W 25 15 7 11 63.6 1 2 50.0 0 0 - 0 2 2 2 0 0 0 1 10
+p227
+aVChris Gatling MIL 03/28/1999 MIL @ MIN W 20 0 0 3 0.0 0 0 - 0 2 0.0 0 3 3 0 2 0 2 4 0
+p228
+aVErvin Johnson MIL 03/28/1999 MIL @ MIN W 22 6 2 3 66.7 0 0 - 2 4 50.0 3 3 6 0 2 2 0 1 10
+p229
+aVRobert Traylor MIL 03/28/1999 MIL @ MIN W 19 4 1 3 33.3 0 0 - 2 4 50.0 0 3 3 1 3 0 2 3 2
+p230
+aVHaywoode Workman MIL 03/28/1999 MIL @ MIN W 31 19 4 8 50.0 1 1 100.0 10 12 83.3 0 7 7 8 2 0 1 2 6
+p231
+aVTim Thomas MIL 03/28/1999 MIL @ MIN W 17 4 2 5 40.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -5
+p232
+aVRay Allen MIL 03/28/1999 MIL @ MIN W 30 14 6 13 46.2 2 4 50.0 0 0 - 1 1 2 1 1 0 2 1 6
+p233
+aVGlenn Robinson MIL 03/28/1999 MIL @ MIN W 36 18 8 17 47.1 0 1 0.0 2 4 50.0 1 5 6 1 0 2 3 0 9
+p234
+aVMichael Curry MIL 03/28/1999 MIL @ MIN W 19 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 4 0 0 0 4 -1
+p235
+aVVinny Del Negro MIL 03/28/1999 MIL @ MIN W 22 10 3 7 42.9 0 1 0.0 4 6 66.7 1 4 5 4 0 0 1 2 8
+p236
+aVErvin Johnson MIL 03/26/1999 MIL @ DET L 11 3 0 0 - 0 0 - 3 6 50.0 3 0 3 0 0 1 2 2 -7
+p237
+aVDell Curry MIL 03/26/1999 MIL @ DET L 27 18 6 14 42.9 4 9 44.4 2 2 100.0 0 3 3 0 1 0 0 1 3
+p238
+aVGlenn Robinson MIL 03/26/1999 MIL @ DET L 34 11 2 10 20.0 1 3 33.3 6 8 75.0 1 8 9 4 1 2 4 4 6
+p239
+aVRobert Traylor MIL 03/26/1999 MIL @ DET L 19 6 3 3 100.0 0 0 - 0 0 - 2 1 3 1 0 2 0 3 -8
+p240
+aVTim Thomas MIL 03/26/1999 MIL @ DET L 11 2 1 4 25.0 0 1 0.0 0 4 0.0 0 3 3 0 0 0 2 6 -10
+p241
+aVVinny Del Negro MIL 03/26/1999 MIL @ DET L 22 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 2 2 0 1 2 -9
+p242
+aVMichael Curry MIL 03/26/1999 MIL @ DET L 27 9 3 6 50.0 0 1 0.0 3 4 75.0 0 0 0 1 0 1 1 4 -10
+p243
+aVHaywoode Workman MIL 03/26/1999 MIL @ DET L 30 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 5 1 0 0 0 5
+p244
+aVRay Allen MIL 03/26/1999 MIL @ DET L 38 29 7 19 36.8 4 9 44.4 11 11 100.0 2 4 6 5 3 0 3 3 4
+p245
+aVChris Gatling MIL 03/26/1999 MIL @ DET L 20 1 0 1 0.0 0 0 - 1 4 25.0 0 5 5 1 1 0 4 4 1
+p246
+aVArmen Gilliam MIL 03/24/1999 MIL vs. MIA L 13 9 2 4 50.0 0 0 - 5 6 83.3 0 4 4 0 1 0 0 2 2
+p247
+aVDell Curry MIL 03/24/1999 MIL vs. MIA L 20 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p248
+aVGlenn Robinson MIL 03/24/1999 MIL vs. MIA L 25 17 7 17 41.2 0 2 0.0 3 3 100.0 0 2 2 1 0 1 2 5 -13
+p249
+aVErvin Johnson MIL 03/24/1999 MIL vs. MIA L 24 0 0 0 - 0 0 - 0 0 - 1 4 5 1 1 0 2 4 -8
+p250
+aVTim Thomas MIL 03/24/1999 MIL vs. MIA L 14 9 4 7 57.1 1 1 100.0 0 0 - 1 1 2 0 1 1 0 2 -6
+p251
+aVMichael Curry MIL 03/24/1999 MIL vs. MIA L 27 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 1 1 0 0 1 3
+p252
+aVVinny Del Negro MIL 03/24/1999 MIL vs. MIA L 23 8 4 11 36.4 0 1 0.0 0 0 - 0 3 3 3 0 0 2 1 -6
+p253
+aVRobert Traylor MIL 03/24/1999 MIL vs. MIA L 18 3 1 5 20.0 0 0 - 1 1 100.0 3 2 5 1 1 0 1 5 -6
+p254
+aVChris Gatling MIL 03/24/1999 MIL vs. MIA L 17 8 4 6 66.7 0 0 - 0 2 0.0 0 2 2 0 1 1 0 0 7
+p255
+aVRay Allen MIL 03/24/1999 MIL vs. MIA L 34 12 4 11 36.4 0 2 0.0 4 4 100.0 1 5 6 2 0 0 2 5 -9
+p256
+aVHaywoode Workman MIL 03/24/1999 MIL vs. MIA L 25 2 0 5 0.0 0 1 0.0 2 2 100.0 0 6 6 5 0 0 3 2 -2
+p257
+aVErvin Johnson MIL 03/22/1999 MIL vs. DET W 16 8 2 3 66.7 0 0 - 4 4 100.0 1 3 4 0 0 1 0 3 12
+p258
+aVDell Curry MIL 03/22/1999 MIL vs. DET W 22 9 3 9 33.3 2 6 33.3 1 2 50.0 0 4 4 1 1 0 1 0 1
+p259
+aVChris Gatling MIL 03/22/1999 MIL vs. DET W 21 16 7 11 63.6 0 0 - 2 4 50.0 0 5 5 4 1 1 2 5 28
+p260
+aVRay Allen MIL 03/22/1999 MIL vs. DET W 26 19 6 9 66.7 2 3 66.7 5 5 100.0 0 3 3 2 1 0 1 3 24
+p261
+aVTim Thomas MIL 03/22/1999 MIL vs. DET W 23 9 3 4 75.0 0 1 0.0 3 6 50.0 2 5 7 0 0 0 0 5 8
+p262
+aVRobert Traylor MIL 03/22/1999 MIL vs. DET W 19 6 3 4 75.0 0 0 - 0 0 - 2 2 4 2 0 0 2 6 9
+p263
+aVHaywoode Workman MIL 03/22/1999 MIL vs. DET W 28 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 8 1 0 2 2 13
+p264
+aVGlenn Robinson MIL 03/22/1999 MIL vs. DET W 24 18 8 12 66.7 2 2 100.0 0 0 - 1 3 4 2 1 0 1 5 29
+p265
+aVVinny Del Negro MIL 03/22/1999 MIL vs. DET W 22 4 2 4 50.0 0 0 - 0 0 - 1 2 3 4 0 0 2 0 18
+p266
+aVScott Williams MIL 03/22/1999 MIL vs. DET W 7 8 2 5 40.0 0 0 - 4 7 57.1 1 2 3 0 0 0 1 2 -9
+p267
+aVMichael Curry MIL 03/22/1999 MIL vs. DET W 33 10 2 4 50.0 0 0 - 6 6 100.0 0 1 1 1 3 0 1 5 12
+p268
+aVRobert Traylor MIL 03/21/1999 MIL vs. CHH L 14 7 3 4 75.0 0 0 - 1 1 100.0 1 0 1 1 1 1 1 3 10
+p269
+aVRay Allen MIL 03/21/1999 MIL vs. CHH L 38 16 6 15 40.0 1 7 14.3 3 4 75.0 0 4 4 7 0 0 1 1 10
+p270
+aVArmen Gilliam MIL 03/21/1999 MIL vs. CHH L 10 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -24
+p271
+aVSam Cassell MIL 03/21/1999 MIL vs. CHH L 26 13 5 12 41.7 0 0 - 3 4 75.0 0 1 1 4 1 0 1 3 8
+p272
+aVVinny Del Negro MIL 03/21/1999 MIL vs. CHH L 16 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 2 1 -21
+p273
+aVDell Curry MIL 03/21/1999 MIL vs. CHH L 25 5 1 6 16.7 1 2 50.0 2 2 100.0 1 1 2 0 1 0 1 0 -7
+p274
+aVMichael Curry MIL 03/21/1999 MIL vs. CHH L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -21
+p275
+aVErvin Johnson MIL 03/21/1999 MIL vs. CHH L 33 12 5 8 62.5 0 0 - 2 2 100.0 7 6 13 0 1 2 1 5 19
+p276
+aVHaywoode Workman MIL 03/21/1999 MIL vs. CHH L 11 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 2 0 0 0 0 3
+p277
+aVGlenn Robinson MIL 03/21/1999 MIL vs. CHH L 36 19 7 21 33.3 0 2 0.0 5 6 83.3 1 7 8 4 0 0 0 4 6
+p278
+aVTim Thomas MIL 03/21/1999 MIL vs. CHH L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -8
+p279
+aVChris Gatling MIL 03/21/1999 MIL vs. CHH L 14 3 1 6 16.7 0 0 - 1 2 50.0 2 3 5 0 1 0 2 3 -10
+p280
+aVChris Gatling MIL 03/20/1999 MIL @ ATL W 14 12 5 8 62.5 0 0 - 2 4 50.0 1 2 3 0 1 0 1 3 0
+p281
+aVErvin Johnson MIL 03/20/1999 MIL @ ATL W 28 6 3 5 60.0 0 0 - 0 0 - 3 9 12 1 1 2 2 4 9
+p282
+aVHaywoode Workman MIL 03/20/1999 MIL @ ATL W 20 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 0 2 -6
+p283
+aVRay Allen MIL 03/20/1999 MIL @ ATL W 26 8 1 9 11.1 0 2 0.0 6 6 100.0 0 2 2 3 2 0 4 5 -2
+p284
+aVMichael Curry MIL 03/20/1999 MIL @ ATL W 18 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 2 2 0 1 2 6
+p285
+aVVinny Del Negro MIL 03/20/1999 MIL @ ATL W 28 0 0 3 0.0 0 0 - 0 0 - 1 0 1 7 2 1 1 2 12
+p286
+aVTim Thomas MIL 03/20/1999 MIL @ ATL W 16 7 2 5 40.0 0 1 0.0 3 4 75.0 2 0 2 2 1 0 0 1 -5
+p287
+aVArmen Gilliam MIL 03/20/1999 MIL @ ATL W 22 4 2 7 28.6 0 0 - 0 0 - 1 2 3 2 0 2 1 1 9
+p288
+aVGlenn Robinson MIL 03/20/1999 MIL @ ATL W 33 21 8 13 61.5 0 1 0.0 5 5 100.0 0 3 3 2 2 0 1 1 -2
+p289
+aVRobert Traylor MIL 03/20/1999 MIL @ ATL W 8 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 3 -3
+p290
+aVDell Curry MIL 03/20/1999 MIL @ ATL W 28 12 4 11 36.4 2 3 66.7 2 2 100.0 0 2 2 1 1 0 0 0 12
+p291
+aVTim Thomas MIL 03/18/1999 MIL vs. BOS W 22 13 5 8 62.5 1 2 50.0 2 2 100.0 1 1 2 0 2 0 0 4 2
+p292
+aVGlenn Robinson MIL 03/18/1999 MIL vs. BOS W 36 23 7 14 50.0 2 3 66.7 7 9 77.8 0 4 4 3 2 1 2 1 26
+p293
+aVHaywoode Workman MIL 03/18/1999 MIL vs. BOS W 26 9 4 5 80.0 0 1 0.0 1 2 50.0 1 7 8 8 2 0 7 3 26
+p294
+aVErvin Johnson MIL 03/18/1999 MIL vs. BOS W 13 7 3 4 75.0 0 0 - 1 2 50.0 0 4 4 0 1 0 0 1 -7
+p295
+aVDell Curry MIL 03/18/1999 MIL vs. BOS W 24 4 2 9 22.2 0 1 0.0 0 0 - 1 1 2 1 3 0 0 1 0
+p296
+aVMichael Curry MIL 03/18/1999 MIL vs. BOS W 18 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 2
+p297
+aVRay Allen MIL 03/18/1999 MIL vs. BOS W 35 21 9 12 75.0 3 3 100.0 0 0 - 1 3 4 7 0 0 1 2 21
+p298
+aVRobert Traylor MIL 03/18/1999 MIL vs. BOS W 24 14 6 9 66.7 0 0 - 2 4 50.0 2 5 7 0 4 2 0 2 24
+p299
+aVVinny Del Negro MIL 03/18/1999 MIL vs. BOS W 22 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 -10
+p300
+aVChris Gatling MIL 03/18/1999 MIL vs. BOS W 20 6 2 8 25.0 0 0 - 2 4 50.0 1 5 6 0 0 1 1 3 -4
+p301
+aVRobert Traylor MIL 03/16/1999 MIL vs. PHX L 24 9 3 4 75.0 0 0 - 3 4 75.0 2 0 2 0 1 1 0 6 2
+p302
+aVChris Gatling MIL 03/16/1999 MIL vs. PHX L 22 8 4 7 57.1 0 0 - 0 2 0.0 2 4 6 2 0 0 0 5 -1
+p303
+aVAdonis Jordan MIL 03/16/1999 MIL vs. PHX L 8 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 3 3 0 0 0 6
+p304
+aVRay Allen MIL 03/16/1999 MIL vs. PHX L 25 10 3 8 37.5 1 1 100.0 3 3 100.0 1 1 2 3 0 0 6 3 -23
+p305
+aVMichael Curry MIL 03/16/1999 MIL vs. PHX L 27 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 0 0 0 3 5 -3
+p306
+aVTim Thomas MIL 03/16/1999 MIL vs. PHX L 24 17 6 7 85.7 2 2 100.0 3 6 50.0 0 2 2 3 1 0 1 2 2
+p307
+aVGlenn Robinson MIL 03/16/1999 MIL vs. PHX L 22 12 4 11 36.4 0 1 0.0 4 4 100.0 2 2 4 1 2 0 5 2 -18
+p308
+aVErvin Johnson MIL 03/16/1999 MIL vs. PHX L 19 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -10
+p309
+aVVinny Del Negro MIL 03/16/1999 MIL vs. PHX L 32 5 2 7 28.6 1 1 100.0 0 0 - 0 2 2 7 0 0 1 1 -23
+p310
+aVDell Curry MIL 03/16/1999 MIL vs. PHX L 28 18 7 14 50.0 4 8 50.0 0 0 - 1 1 2 2 2 0 2 1 -9
+p311
+aVArmen Gilliam MIL 03/16/1999 MIL vs. PHX L 9 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -13
+p312
+aVChris Gatling MIL 03/15/1999 MIL vs. NYK L 25 10 5 11 45.5 0 0 - 0 4 0.0 4 4 8 1 0 0 2 3 -2
+p313
+aVMichael Curry MIL 03/15/1999 MIL vs. NYK L 27 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 4 4
+p314
+aVDell Curry MIL 03/15/1999 MIL vs. NYK L 20 9 4 8 50.0 1 3 33.3 0 0 - 0 2 2 1 1 0 1 2 -5
+p315
+aVRay Allen MIL 03/15/1999 MIL vs. NYK L 37 29 11 22 50.0 3 6 50.0 4 5 80.0 2 2 4 4 2 0 5 2 -9
+p316
+aVVinny Del Negro MIL 03/15/1999 MIL vs. NYK L 32 16 7 10 70.0 0 0 - 2 2 100.0 2 1 3 3 2 0 2 1 -3
+p317
+aVArmen Gilliam MIL 03/15/1999 MIL vs. NYK L 19 9 3 6 50.0 0 0 - 3 3 100.0 1 1 2 1 0 0 1 1 -4
+p318
+aVTim Thomas MIL 03/15/1999 MIL vs. NYK L 8 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 1 1
+p319
+aVRobert Traylor MIL 03/15/1999 MIL vs. NYK L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -8
+p320
+aVGlenn Robinson MIL 03/15/1999 MIL vs. NYK L 37 15 6 13 46.2 0 0 - 3 3 100.0 2 2 4 4 0 2 5 5 -3
+p321
+aVErvin Johnson MIL 03/15/1999 MIL vs. NYK L 24 7 2 3 66.7 0 0 - 3 6 50.0 1 4 5 0 1 1 0 2 -1
+p322
+aVAdonis Jordan MIL 03/14/1999 MIL @ WAS L 7 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -13
+p323
+aVMichael Curry MIL 03/14/1999 MIL @ WAS L 26 8 4 5 80.0 0 0 - 0 0 - 0 2 2 1 1 0 2 4 -2
+p324
+aVErvin Johnson MIL 03/14/1999 MIL @ WAS L 23 7 2 3 66.7 0 0 - 3 3 100.0 2 9 11 1 0 1 0 3 -18
+p325
+aVRay Allen MIL 03/14/1999 MIL @ WAS L 39 22 9 19 47.4 1 5 20.0 3 3 100.0 0 5 5 5 1 0 4 1 -6
+p326
+aVDell Curry MIL 03/14/1999 MIL @ WAS L 18 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 0 3 1 -11
+p327
+aVGlenn Robinson MIL 03/14/1999 MIL @ WAS L 37 15 6 18 33.3 1 2 50.0 2 2 100.0 3 6 9 1 1 1 3 1 -4
+p328
+aVVinny Del Negro MIL 03/14/1999 MIL @ WAS L 33 10 4 9 44.4 1 1 100.0 1 2 50.0 0 6 6 6 0 0 3 3 -2
+p329
+aVTim Thomas MIL 03/14/1999 MIL @ WAS L 19 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -13
+p330
+aVArmen Gilliam MIL 03/14/1999 MIL @ WAS L 23 13 6 11 54.5 0 0 - 1 2 50.0 3 1 4 0 0 0 1 2 4
+p331
+aVRobert Traylor MIL 03/14/1999 MIL @ WAS L 16 4 1 2 50.0 0 0 - 2 3 66.7 2 2 4 0 2 2 0 3 5
+p332
+aVRobert Traylor MIL 03/12/1999 MIL @ IND L 21 10 4 5 80.0 0 0 - 2 4 50.0 0 2 2 1 3 0 1 5 5
+p333
+aVErvin Johnson MIL 03/12/1999 MIL @ IND L 26 4 2 5 40.0 0 0 - 0 0 - 5 7 12 0 0 1 2 3 -9
+p334
+aVGlenn Robinson MIL 03/12/1999 MIL @ IND L 39 30 12 23 52.2 2 4 50.0 4 4 100.0 4 5 9 4 2 0 2 1 -2
+p335
+aVTim Thomas MIL 03/12/1999 MIL @ IND L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p336
+aVRay Allen MIL 03/12/1999 MIL @ IND L 39 18 7 14 50.0 2 6 33.3 2 2 100.0 1 3 4 6 1 0 3 1 3
+p337
+aVDell Curry MIL 03/12/1999 MIL @ IND L 19 15 4 6 66.7 2 2 100.0 5 5 100.0 2 1 3 0 0 0 1 1 -4
+p338
+aVArmen Gilliam MIL 03/12/1999 MIL @ IND L 30 13 5 12 41.7 0 0 - 3 6 50.0 4 3 7 0 1 0 3 1 -1
+p339
+aVVinny Del Negro MIL 03/12/1999 MIL @ IND L 39 12 6 14 42.9 0 1 0.0 0 0 - 0 0 0 8 4 0 1 3 -7
+p340
+aVMichael Curry MIL 03/12/1999 MIL @ IND L 20 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 5 -2
+p341
+aVTyrone Hill MIL 03/10/1999 MIL vs. SEA W 35 19 9 10 90.0 0 0 - 1 3 33.3 4 2 6 1 0 2 0 4 8
+p342
+aVVinny Del Negro MIL 03/10/1999 MIL vs. SEA W 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -9
+p343
+aVArmen Gilliam MIL 03/10/1999 MIL vs. SEA W 15 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -7
+p344
+aVTerrell Brandon MIL 03/10/1999 MIL vs. SEA W 36 11 5 13 38.5 0 1 0.0 1 2 50.0 2 6 8 9 2 0 3 3 13
+p345
+aVMichael Curry MIL 03/10/1999 MIL vs. SEA W 23 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 3 1 0 1 4 -13
+p346
+aVDell Curry MIL 03/10/1999 MIL vs. SEA W 13 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 1 0 0 0 1 -1
+p347
+aVGlenn Robinson MIL 03/10/1999 MIL vs. SEA W 36 22 9 15 60.0 1 1 100.0 3 3 100.0 1 5 6 2 1 0 4 4 6
+p348
+aVErvin Johnson MIL 03/10/1999 MIL vs. SEA W 21 5 2 5 40.0 0 0 - 1 2 50.0 3 6 9 1 0 3 1 3 7
+p349
+aVRobert Traylor MIL 03/10/1999 MIL vs. SEA W 14 5 2 4 50.0 0 0 - 1 4 25.0 2 0 2 1 1 0 0 3 9
+p350
+aVRay Allen MIL 03/10/1999 MIL vs. SEA W 35 19 6 14 42.9 3 6 50.0 4 4 100.0 0 4 4 1 2 0 2 2 7
+p351
+aVArmen Gilliam MIL 03/09/1999 MIL @ NYK W 16 9 3 6 50.0 0 0 - 3 4 75.0 1 2 3 0 0 0 2 3 3
+p352
+aVMichael Curry MIL 03/09/1999 MIL @ NYK W 20 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 1 0 0 1 -1
+p353
+aVDell Curry MIL 03/09/1999 MIL @ NYK W 15 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 1 1 0 1 0 11
+p354
+aVErvin Johnson MIL 03/09/1999 MIL @ NYK W 17 6 2 3 66.7 0 0 - 2 2 100.0 1 6 7 3 0 3 1 0 3
+p355
+aVRay Allen MIL 03/09/1999 MIL @ NYK W 34 6 2 11 18.2 2 6 33.3 0 0 - 1 4 5 3 2 0 2 2 -5
+p356
+aVTerrell Brandon MIL 03/09/1999 MIL @ NYK W 33 17 7 15 46.7 1 1 100.0 2 2 100.0 0 1 1 5 1 0 2 1 3
+p357
+aVVinny Del Negro MIL 03/09/1999 MIL @ NYK W 15 0 0 2 0.0 0 0 - 0 0 - 0 3 3 4 0 0 0 2 -2
+p358
+aVGlenn Robinson MIL 03/09/1999 MIL @ NYK W 39 27 12 17 70.6 2 2 100.0 1 1 100.0 2 3 5 3 0 1 3 2 2
+p359
+aVRobert Traylor MIL 03/09/1999 MIL @ NYK W 17 8 3 6 50.0 0 0 - 2 4 50.0 3 2 5 1 2 0 1 2 -3
+p360
+aVTyrone Hill MIL 03/09/1999 MIL @ NYK W 34 8 2 8 25.0 0 0 - 4 10 40.0 3 3 6 1 1 1 3 4 -6
+p361
+aVRay Allen MIL 03/08/1999 MIL vs. CHI W 36 17 6 13 46.2 1 6 16.7 4 4 100.0 3 3 6 4 2 1 1 2 6
+p362
+aVErvin Johnson MIL 03/08/1999 MIL vs. CHI W 12 4 1 4 25.0 0 0 - 2 3 66.7 3 1 4 0 0 1 0 1 -7
+p363
+aVArmen Gilliam MIL 03/08/1999 MIL vs. CHI W 20 4 1 8 12.5 0 0 - 2 2 100.0 2 6 8 0 1 0 1 0 2
+p364
+aVGlenn Robinson MIL 03/08/1999 MIL vs. CHI W 33 10 2 12 16.7 1 1 100.0 5 5 100.0 1 5 6 1 1 0 2 3 4
+p365
+aVRobert Traylor MIL 03/08/1999 MIL vs. CHI W 7 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -8
+p366
+aVTyrone Hill MIL 03/08/1999 MIL vs. CHI W 31 6 1 3 33.3 0 0 - 4 4 100.0 1 5 6 1 4 2 2 3 4
+p367
+aVMichael Curry MIL 03/08/1999 MIL vs. CHI W 28 10 5 7 71.4 0 0 - 0 0 - 0 4 4 1 2 0 1 3 11
+p368
+aVDell Curry MIL 03/08/1999 MIL vs. CHI W 19 7 2 7 28.6 1 2 50.0 2 3 66.7 0 3 3 1 1 1 2 0 5
+p369
+aVVinny Del Negro MIL 03/08/1999 MIL vs. CHI W 20 6 3 7 42.9 0 0 - 0 0 - 0 2 2 3 1 0 1 1 4
+p370
+aVTerrell Brandon MIL 03/08/1999 MIL vs. CHI W 34 14 5 13 38.5 0 1 0.0 4 4 100.0 1 4 5 8 1 1 3 2 4
+p371
+aVDell Curry MIL 03/05/1999 MIL vs. NYK W 15 4 1 5 20.0 0 3 0.0 2 2 100.0 0 0 0 0 3 0 1 1 0
+p372
+aVRobert Traylor MIL 03/05/1999 MIL vs. NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -1
+p373
+aVTerrell Brandon MIL 03/05/1999 MIL vs. NYK W 26 16 6 13 46.2 2 4 50.0 2 2 100.0 0 1 1 3 1 0 2 0 -8
+p374
+aVErvin Johnson MIL 03/05/1999 MIL vs. NYK W 28 8 3 6 50.0 0 0 - 2 2 100.0 7 7 14 0 2 0 1 5 -12
+p375
+aVMichael Curry MIL 03/05/1999 MIL vs. NYK W 20 8 2 4 50.0 0 0 - 4 4 100.0 1 3 4 1 1 0 1 3 7
+p376
+aVVinny Del Negro MIL 03/05/1999 MIL vs. NYK W 25 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 5 2 0 2 0 12
+p377
+aVTyrone Hill MIL 03/05/1999 MIL vs. NYK W 33 15 5 10 50.0 0 0 - 5 8 62.5 4 7 11 2 1 0 0 3 8
+p378
+aVRay Allen MIL 03/05/1999 MIL vs. NYK W 32 9 2 12 16.7 1 4 25.0 4 7 57.1 1 2 3 3 0 0 1 1 -2
+p379
+aVGlenn Robinson MIL 03/05/1999 MIL vs. NYK W 37 19 8 18 44.4 1 3 33.3 2 4 50.0 4 5 9 5 0 0 1 0 3
+p380
+aVArmen Gilliam MIL 03/05/1999 MIL vs. NYK W 17 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -2
+p381
+aVVinny Del Negro MIL 03/03/1999 MIL vs. GSW W 24 5 2 4 50.0 0 0 - 1 1 100.0 0 3 3 3 0 0 2 2 16
+p382
+aVJerald Honeycutt MIL 03/03/1999 MIL vs. GSW W 8 3 1 3 33.3 0 2 0.0 1 2 50.0 0 1 1 0 1 0 1 4 4
+p383
+aVRay Allen MIL 03/03/1999 MIL vs. GSW W 28 18 6 13 46.2 2 3 66.7 4 4 100.0 2 2 4 5 0 0 0 0 17
+p384
+aVArmen Gilliam MIL 03/03/1999 MIL vs. GSW W 16 10 3 8 37.5 0 0 - 4 7 57.1 1 4 5 1 0 0 4 2 13
+p385
+aVRobert Traylor MIL 03/03/1999 MIL vs. GSW W 26 6 2 6 33.3 0 0 - 2 2 100.0 3 5 8 3 2 4 1 6 13
+p386
+aVTyrone Hill MIL 03/03/1999 MIL vs. GSW W 27 20 7 11 63.6 0 0 - 6 7 85.7 2 8 10 1 2 0 2 3 16
+p387
+aVGlenn Robinson MIL 03/03/1999 MIL vs. GSW W 25 19 5 12 41.7 1 2 50.0 8 8 100.0 0 2 2 1 0 1 0 1 14
+p388
+aVErvin Johnson MIL 03/03/1999 MIL vs. GSW W 20 2 1 2 50.0 0 0 - 0 0 - 3 4 7 2 1 2 3 3 15
+p389
+aVMichael Curry MIL 03/03/1999 MIL vs. GSW W 20 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 1 0 1 4 9
+p390
+aVElliot Perry MIL 03/03/1999 MIL vs. GSW W 24 6 2 6 33.3 1 1 100.0 1 2 50.0 0 4 4 8 2 0 0 1 12
+p391
+aVDell Curry MIL 03/03/1999 MIL vs. GSW W 22 13 5 8 62.5 3 4 75.0 0 0 - 0 0 0 1 0 0 0 2 11
+p392
+aVErvin Johnson MIL 03/02/1999 MIL @ NJN W 24 9 3 5 60.0 0 0 - 3 4 75.0 2 8 10 1 0 3 1 4 2
+p393
+aVVinny Del Negro MIL 03/02/1999 MIL @ NJN W 30 10 5 7 71.4 0 0 - 0 0 - 0 2 2 4 1 1 2 3 0
+p394
+aVDell Curry MIL 03/02/1999 MIL @ NJN W 16 8 3 8 37.5 2 4 50.0 0 0 - 2 2 4 0 0 1 1 0 9
+p395
+aVRay Allen MIL 03/02/1999 MIL @ NJN W 38 19 5 13 38.5 1 2 50.0 8 8 100.0 2 8 10 0 1 1 5 2 2
+p396
+aVElliot Perry MIL 03/02/1999 MIL @ NJN W 18 10 5 7 71.4 0 0 - 0 0 - 0 3 3 3 2 0 2 1 8
+p397
+aVMichael Curry MIL 03/02/1999 MIL @ NJN W 22 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 1 1 0 0 2 12
+p398
+aVTyrone Hill MIL 03/02/1999 MIL @ NJN W 28 1 0 3 0.0 0 0 - 1 6 16.7 3 1 4 2 1 0 2 4 -5
+p399
+aVGlenn Robinson MIL 03/02/1999 MIL @ NJN W 35 18 6 18 33.3 0 0 - 6 6 100.0 3 3 6 2 1 1 2 3 4
+p400
+aVRobert Traylor MIL 03/02/1999 MIL @ NJN W 13 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 4 0 1 1
+p401
+aVArmen Gilliam MIL 03/02/1999 MIL @ NJN W 16 8 4 11 36.4 0 0 - 0 0 - 0 3 3 0 0 0 1 0 7
+p402
+aVRobert Traylor MIL 02/28/1999 MIL vs. PHI L 19 6 3 5 60.0 0 0 - 0 0 - 3 3 6 1 1 2 2 5 6
+p403
+aVArmen Gilliam MIL 02/28/1999 MIL vs. PHI L 20 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 1 -15
+p404
+aVGlenn Robinson MIL 02/28/1999 MIL vs. PHI L 34 14 7 15 46.7 0 1 0.0 0 0 - 2 3 5 1 0 1 1 1 -9
+p405
+aVMichael Curry MIL 02/28/1999 MIL vs. PHI L 17 9 4 6 66.7 0 1 0.0 1 3 33.3 0 3 3 1 2 1 3 2 -4
+p406
+aVDell Curry MIL 02/28/1999 MIL vs. PHI L 23 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 1 0 2 1 -7
+p407
+aVJerald Honeycutt MIL 02/28/1999 MIL vs. PHI L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 5
+p408
+aVTyrone Hill MIL 02/28/1999 MIL vs. PHI L 27 2 0 5 0.0 0 0 - 2 2 100.0 4 6 10 0 1 0 2 3 -2
+p409
+aVErvin Johnson MIL 02/28/1999 MIL vs. PHI L 18 5 2 5 40.0 0 0 - 1 4 25.0 2 2 4 0 0 3 1 2 2
+p410
+aVVinny Del Negro MIL 02/28/1999 MIL vs. PHI L 21 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 -12
+p411
+aVElliot Perry MIL 02/28/1999 MIL vs. PHI L 2 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p412
+aVTerrell Brandon MIL 02/28/1999 MIL vs. PHI L 33 6 3 15 20.0 0 2 0.0 0 0 - 1 1 2 5 3 1 2 2 -14
+p413
+aVRay Allen MIL 02/28/1999 MIL vs. PHI L 24 16 7 12 58.3 1 3 33.3 1 1 100.0 1 0 1 2 1 0 4 3 -8
+p414
+aVErvin Johnson MIL 02/26/1999 MIL @ DEN L 15 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 2 0 3 5 -3
+p415
+aVArmen Gilliam MIL 02/26/1999 MIL @ DEN L 19 12 4 6 66.7 0 0 - 4 4 100.0 1 1 2 1 0 0 1 2 -15
+p416
+aVGlenn Robinson MIL 02/26/1999 MIL @ DEN L 29 19 9 18 50.0 1 1 100.0 0 0 - 2 3 5 3 3 1 1 1 4
+p417
+aVMichael Curry MIL 02/26/1999 MIL @ DEN L 25 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 2 0 1 1 -9
+p418
+aVRobert Traylor MIL 02/26/1999 MIL @ DEN L 15 8 4 4 100.0 0 0 - 0 0 - 0 4 4 1 1 2 0 4 16
+p419
+aVDell Curry MIL 02/26/1999 MIL @ DEN L 18 6 2 6 33.3 1 2 50.0 1 2 50.0 0 2 2 0 1 0 2 1 -13
+p420
+aVTyrone Hill MIL 02/26/1999 MIL @ DEN L 31 4 1 4 25.0 0 0 - 2 2 100.0 3 2 5 2 1 0 1 4 10
+p421
+aVTerrell Brandon MIL 02/26/1999 MIL @ DEN L 36 18 7 16 43.8 0 4 0.0 4 5 80.0 1 3 4 7 3 0 2 0 16
+p422
+aVVinny Del Negro MIL 02/26/1999 MIL @ DEN L 17 6 1 4 25.0 0 0 - 4 4 100.0 0 0 0 4 2 0 0 1 -19
+p423
+aVRay Allen MIL 02/26/1999 MIL @ DEN L 35 18 7 16 43.8 2 3 66.7 2 2 100.0 1 2 3 3 1 0 1 0 8
+p424
+aVRobert Traylor MIL 02/23/1999 MIL @ CHI W 13 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 1
+p425
+aVTyrone Hill MIL 02/23/1999 MIL @ CHI W 33 9 4 10 40.0 0 0 - 1 2 50.0 2 7 9 0 3 1 0 3 9
+p426
+aVVinny Del Negro MIL 02/23/1999 MIL @ CHI W 22 7 2 5 40.0 1 1 100.0 2 2 100.0 1 1 2 4 0 0 2 2 -3
+p427
+aVDell Curry MIL 02/23/1999 MIL @ CHI W 18 16 7 12 58.3 2 6 33.3 0 0 - 0 1 1 0 0 1 1 0 -4
+p428
+aVMichael Curry MIL 02/23/1999 MIL @ CHI W 14 0 0 4 0.0 0 2 0.0 0 0 - 2 0 2 3 0 0 0 1 -10
+p429
+aVTerrell Brandon MIL 02/23/1999 MIL @ CHI W 35 10 5 12 41.7 0 1 0.0 0 0 - 1 2 3 14 2 1 4 1 5
+p430
+aVRay Allen MIL 02/23/1999 MIL @ CHI W 31 16 6 11 54.5 1 3 33.3 3 3 100.0 2 1 3 4 0 0 0 4 10
+p431
+aVGlenn Robinson MIL 02/23/1999 MIL @ CHI W 35 24 12 19 63.2 0 1 0.0 0 0 - 0 6 6 2 0 1 0 4 8
+p432
+aVArmen Gilliam MIL 02/23/1999 MIL @ CHI W 19 4 1 2 50.0 0 0 - 2 4 50.0 0 1 1 0 1 1 1 2 -4
+p433
+aVErvin Johnson MIL 02/23/1999 MIL @ CHI W 20 4 2 5 40.0 0 0 - 0 0 - 4 6 10 0 2 0 2 4 -2
+p434
+aVTyrone Hill MIL 02/20/1999 MIL vs. IND L 31 6 2 6 33.3 0 0 - 2 6 33.3 2 5 7 0 0 0 1 5 -10
+p435
+aVTerrell Brandon MIL 02/20/1999 MIL vs. IND L 32 6 2 8 25.0 0 0 - 2 2 100.0 0 2 2 5 2 0 3 0 -11
+p436
+aVGlenn Robinson MIL 02/20/1999 MIL vs. IND L 35 31 13 22 59.1 1 1 100.0 4 4 100.0 4 6 10 2 0 0 1 3 -2
+p437
+aVMichael Curry MIL 02/20/1999 MIL vs. IND L 11 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 1
+p438
+aVVinny Del Negro MIL 02/20/1999 MIL vs. IND L 25 5 2 7 28.6 1 4 25.0 0 0 - 0 3 3 6 1 0 2 1 3
+p439
+aVDell Curry MIL 02/20/1999 MIL vs. IND L 19 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 0 2 0 0 1 12
+p440
+aVRay Allen MIL 02/20/1999 MIL vs. IND L 27 7 3 10 30.0 1 5 20.0 0 0 - 2 3 5 4 0 0 0 0 -12
+p441
+aVArmen Gilliam MIL 02/20/1999 MIL vs. IND L 22 8 3 7 42.9 0 0 - 2 4 50.0 1 2 3 2 1 0 0 1 8
+p442
+aVRobert Traylor MIL 02/20/1999 MIL vs. IND L 13 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 0 0 2 -13
+p443
+aVErvin Johnson MIL 02/20/1999 MIL vs. IND L 24 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 2 0 4 14
+p444
+aVDell Curry MIL 02/19/1999 MIL @ TOR L 23 17 6 8 75.0 3 3 100.0 2 3 66.7 0 1 1 1 1 0 3 0 1
+p445
+aVVinny Del Negro MIL 02/19/1999 MIL @ TOR L 22 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 4 2 0 2 1 5
+p446
+aVGlenn Robinson MIL 02/19/1999 MIL @ TOR L 36 8 3 16 18.8 0 2 0.0 2 2 100.0 5 1 6 1 0 2 3 4 -20
+p447
+aVTerrell Brandon MIL 02/19/1999 MIL @ TOR L 35 14 7 15 46.7 0 0 - 0 0 - 1 1 2 5 1 0 3 1 -13
+p448
+aVRay Allen MIL 02/19/1999 MIL @ TOR L 27 10 4 12 33.3 2 4 50.0 0 0 - 0 1 1 2 0 1 2 2 -6
+p449
+aVRobert Traylor MIL 02/19/1999 MIL @ TOR L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 9
+p450
+aVArmen Gilliam MIL 02/19/1999 MIL @ TOR L 23 8 4 4 100.0 0 0 - 0 0 - 0 3 3 2 2 1 2 2 -3
+p451
+aVTyrone Hill MIL 02/19/1999 MIL @ TOR L 30 5 0 2 0.0 0 0 - 5 6 83.3 1 6 7 0 1 0 1 5 -13
+p452
+aVErvin Johnson MIL 02/19/1999 MIL @ TOR L 20 6 2 5 40.0 0 0 - 2 2 100.0 4 5 9 0 0 3 1 2 -6
+p453
+aVMichael Curry MIL 02/19/1999 MIL @ TOR L 18 7 1 5 20.0 0 0 - 5 6 83.3 0 1 1 2 0 0 0 1 6
+p454
+aVMichael Curry MIL 02/17/1999 MIL vs. CHI W 19 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 -5
+p455
+aVDell Curry MIL 02/17/1999 MIL vs. CHI W 21 13 5 11 45.5 1 4 25.0 2 2 100.0 0 2 2 0 1 0 1 0 -3
+p456
+aVGlenn Robinson MIL 02/17/1999 MIL vs. CHI W 29 12 5 13 38.5 0 1 0.0 2 2 100.0 4 3 7 2 1 0 0 6 11
+p457
+aVErvin Johnson MIL 02/17/1999 MIL vs. CHI W 18 2 1 5 20.0 0 0 - 0 0 - 4 4 8 0 0 1 0 3 3
+p458
+aVArmen Gilliam MIL 02/17/1999 MIL vs. CHI W 21 16 7 9 77.8 0 0 - 2 2 100.0 2 6 8 0 0 0 0 2 4
+p459
+aVVinny Del Negro MIL 02/17/1999 MIL vs. CHI W 25 4 2 7 28.6 0 0 - 0 0 - 1 3 4 3 0 0 2 0 9
+p460
+aVTyrone Hill MIL 02/17/1999 MIL vs. CHI W 32 10 3 10 30.0 0 0 - 4 8 50.0 5 7 12 1 0 1 3 5 -4
+p461
+aVRay Allen MIL 02/17/1999 MIL vs. CHI W 34 15 5 8 62.5 2 3 66.7 3 4 75.0 0 4 4 3 1 0 5 5 9
+p462
+aVRobert Traylor MIL 02/17/1999 MIL vs. CHI W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 5
+p463
+aVTerrell Brandon MIL 02/17/1999 MIL vs. CHI W 33 17 5 12 41.7 0 2 0.0 7 9 77.8 1 1 2 7 0 0 3 3 11
+p464
+aVRay Allen MIL 02/16/1999 MIL @ PHI W 30 7 2 8 25.0 1 4 25.0 2 2 100.0 1 1 2 2 3 0 2 4 1
+p465
+aVDell Curry MIL 02/16/1999 MIL @ PHI W 24 16 6 11 54.5 3 5 60.0 1 1 100.0 0 3 3 1 4 0 3 2 5
+p466
+aVMichael Curry MIL 02/16/1999 MIL @ PHI W 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 6
+p467
+aVVinny Del Negro MIL 02/16/1999 MIL @ PHI W 19 9 3 8 37.5 0 0 - 3 4 75.0 0 1 1 5 0 0 0 1 2
+p468
+aVTerrell Brandon MIL 02/16/1999 MIL @ PHI W 33 15 6 14 42.9 3 6 50.0 0 0 - 1 4 5 6 2 0 1 5 -2
+p469
+aVArmen Gilliam MIL 02/16/1999 MIL @ PHI W 21 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 -2
+p470
+aVErvin Johnson MIL 02/16/1999 MIL @ PHI W 28 7 3 6 50.0 0 0 - 1 3 33.3 6 4 10 0 1 1 1 4 -11
+p471
+aVGlenn Robinson MIL 02/16/1999 MIL @ PHI W 36 18 9 16 56.3 0 0 - 0 0 - 1 2 3 2 0 1 4 3 4
+p472
+aVTyrone Hill MIL 02/16/1999 MIL @ PHI W 34 16 7 15 46.7 0 0 - 2 2 100.0 7 5 12 2 0 0 0 5 2
+p473
+aVTerrell Brandon MIL 02/14/1999 MIL @ ORL L 36 20 9 18 50.0 1 3 33.3 1 1 100.0 1 3 4 6 2 0 3 1 -4
+p474
+aVErvin Johnson MIL 02/14/1999 MIL @ ORL L 26 9 3 5 60.0 0 0 - 3 4 75.0 1 7 8 0 0 3 0 3 1
+p475
+aVTyrone Hill MIL 02/14/1999 MIL @ ORL L 31 5 2 4 50.0 0 0 - 1 3 33.3 3 6 9 1 1 0 1 4 2
+p476
+aVArmen Gilliam MIL 02/14/1999 MIL @ ORL L 21 4 1 5 20.0 0 0 - 2 2 100.0 0 5 5 0 0 0 4 2 1
+p477
+aVMichael Curry MIL 02/14/1999 MIL @ ORL L 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -1
+p478
+aVRobert Traylor MIL 02/14/1999 MIL @ ORL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -2
+p479
+aVRay Allen MIL 02/14/1999 MIL @ ORL L 32 8 4 13 30.8 0 3 0.0 0 0 - 2 4 6 4 0 0 5 0 -1
+p480
+aVGlenn Robinson MIL 02/14/1999 MIL @ ORL L 35 15 7 17 41.2 1 2 50.0 0 0 - 1 5 6 1 1 1 0 3 -2
+p481
+aVVinny Del Negro MIL 02/14/1999 MIL @ ORL L 21 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 3 5 -6
+p482
+aVDell Curry MIL 02/14/1999 MIL @ ORL L 17 11 4 5 80.0 3 4 75.0 0 0 - 0 1 1 3 2 0 2 3 -3
+p483
+aVElliot Perry MIL 02/11/1999 MIL vs. NJN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p484
+aVTerrell Brandon MIL 02/11/1999 MIL vs. NJN W 33 8 4 11 36.4 0 0 - 0 0 - 0 3 3 10 0 0 2 2 25
+p485
+aVRobert Traylor MIL 02/11/1999 MIL vs. NJN W 13 6 3 5 60.0 0 1 0.0 0 0 - 3 2 5 1 1 2 1 2 -4
+p486
+aVVinny Del Negro MIL 02/11/1999 MIL vs. NJN W 23 12 5 7 71.4 2 2 100.0 0 0 - 0 4 4 4 0 0 1 2 13
+p487
+aVAdonis Jordan MIL 02/11/1999 MIL vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -6
+p488
+aVRay Allen MIL 02/11/1999 MIL vs. NJN W 30 19 6 9 66.7 1 2 50.0 6 6 100.0 1 0 1 3 4 1 3 2 22
+p489
+aVGlenn Robinson MIL 02/11/1999 MIL vs. NJN W 30 18 9 20 45.0 0 3 0.0 0 0 - 1 5 6 0 2 2 1 3 23
+p490
+aVArmen Gilliam MIL 02/11/1999 MIL vs. NJN W 21 11 3 5 60.0 0 0 - 5 6 83.3 1 2 3 0 2 0 2 2 5
+p491
+aVErvin Johnson MIL 02/11/1999 MIL vs. NJN W 17 4 2 5 40.0 0 0 - 0 0 - 0 6 6 0 0 2 0 1 6
+p492
+aVJamie Feick MIL 02/11/1999 MIL vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p493
+aVDell Curry MIL 02/11/1999 MIL vs. NJN W 16 5 2 7 28.6 1 5 20.0 0 0 - 0 4 4 1 0 0 1 0 -1
+p494
+aVMichael Curry MIL 02/11/1999 MIL vs. NJN W 21 2 1 3 33.3 0 0 - 0 0 - 0 4 4 3 2 1 1 2 5
+p495
+aVTyrone Hill MIL 02/11/1999 MIL vs. NJN W 30 10 4 7 57.1 0 0 - 2 4 50.0 3 6 9 2 0 0 3 4 24
+p496
+aVElliot Perry MIL 02/09/1999 MIL @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p497
+aVMichael Curry MIL 02/09/1999 MIL @ TOR W 21 4 2 2 100.0 0 0 - 0 0 - 1 1 2 2 2 0 0 1 -1
+p498
+aVErvin Johnson MIL 02/09/1999 MIL @ TOR W 20 3 1 5 20.0 0 0 - 1 2 50.0 3 2 5 1 1 1 3 3 -2
+p499
+aVAdonis Jordan MIL 02/09/1999 MIL @ TOR W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p500
+aVTerrell Brandon MIL 02/09/1999 MIL @ TOR W 32 14 7 14 50.0 0 2 0.0 0 0 - 0 4 4 3 4 0 3 1 2
+p501
+aVArmen Gilliam MIL 02/09/1999 MIL @ TOR W 23 8 3 7 42.9 0 0 - 2 2 100.0 1 4 5 0 1 1 0 2 6
+p502
+aVRay Allen MIL 02/09/1999 MIL @ TOR W 31 17 5 10 50.0 1 2 50.0 6 6 100.0 0 2 2 3 3 0 1 2 17
+p503
+aVJamie Feick MIL 02/09/1999 MIL @ TOR W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p504
+aVJerald Honeycutt MIL 02/09/1999 MIL @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p505
+aVDell Curry MIL 02/09/1999 MIL @ TOR W 24 15 6 12 50.0 3 6 50.0 0 0 - 0 4 4 1 0 0 1 5 5
+p506
+aVGlenn Robinson MIL 02/09/1999 MIL @ TOR W 27 16 7 13 53.8 0 1 0.0 2 3 66.7 1 4 5 2 1 2 3 4 20
+p507
+aVTyrone Hill MIL 02/09/1999 MIL @ TOR W 25 6 2 3 66.7 0 0 - 2 4 50.0 1 3 4 1 1 1 3 4 9
+p508
+aVVinny Del Negro MIL 02/09/1999 MIL @ TOR W 25 8 4 7 57.1 0 0 - 0 0 - 0 2 2 7 0 0 1 0 23
+p509
+aVRobert Traylor MIL 02/09/1999 MIL @ TOR W 8 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 0 1 1 4 0
+p510
+aVArmen Gilliam MIL 02/06/1999 MIL @ CHH W 30 17 4 9 44.4 0 0 - 9 10 90.0 1 1 2 0 4 0 1 2 -9
+p511
+aVErvin Johnson MIL 02/06/1999 MIL @ CHH W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 5 7
+p512
+aVVinny Del Negro MIL 02/06/1999 MIL @ CHH W 17 0 0 4 0.0 0 0 - 0 0 - 0 2 2 6 0 0 0 1 7
+p513
+aVTyrone Hill MIL 02/06/1999 MIL @ CHH W 25 4 1 7 14.3 0 0 - 2 4 50.0 3 4 7 0 1 0 0 5 10
+p514
+aVTerrell Brandon MIL 02/06/1999 MIL @ CHH W 39 17 7 19 36.8 0 1 0.0 3 4 75.0 1 6 7 11 0 0 0 3 1
+p515
+aVDell Curry MIL 02/06/1999 MIL @ CHH W 22 17 7 13 53.8 3 4 75.0 0 0 - 2 0 2 4 1 0 0 3 19
+p516
+aVRobert Traylor MIL 02/06/1999 MIL @ CHH W 8 4 1 4 25.0 0 0 - 2 2 100.0 3 1 4 1 1 1 0 2 -8
+p517
+aVMichael Curry MIL 02/06/1999 MIL @ CHH W 25 2 1 3 33.3 0 1 0.0 0 2 0.0 0 5 5 2 0 0 1 4 -5
+p518
+aVGlenn Robinson MIL 02/06/1999 MIL @ CHH W 42 25 11 21 52.4 0 0 - 3 3 100.0 1 3 4 2 3 0 1 2 6
+p519
+aVRay Allen MIL 02/06/1999 MIL @ CHH W 41 25 8 13 61.5 3 5 60.0 6 8 75.0 1 2 3 5 1 0 2 1 2
+p520
+a.

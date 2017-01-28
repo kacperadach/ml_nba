@@ -1,0 +1,1332 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDan Gadzuric NYK 04/26/2012 NYK @ CHA W 6 0 0 2 0.0 0 0 - 0 2 0.0 1 2 3 0 1 1 1 2 0
+p2
+aVMike Bibby NYK 04/26/2012 NYK @ CHA W 37 3 1 4 25.0 1 3 33.3 0 0 - 1 3 4 12 1 0 1 1 15
+p3
+aVIman Shumpert NYK 04/26/2012 NYK @ CHA W 21 12 4 8 50.0 1 3 33.3 3 4 75.0 0 0 0 2 1 0 2 4 7
+p4
+aVJR Smith NYK 04/26/2012 NYK @ CHA W 36 22 10 16 62.5 1 3 33.3 1 2 50.0 0 3 3 6 3 0 1 3 18
+p5
+aVSteve Novak NYK 04/26/2012 NYK @ CHA W 32 9 3 7 42.9 3 6 50.0 0 0 - 0 6 6 1 1 0 1 3 16
+p6
+aVLandry Fields NYK 04/26/2012 NYK @ CHA W 31 6 3 10 30.0 0 2 0.0 0 0 - 0 5 5 7 0 0 1 3 7
+p7
+aVAmar'e Stoudemire NYK 04/26/2012 NYK @ CHA W 24 21 9 15 60.0 0 0 - 3 5 60.0 0 2 2 3 0 2 1 2 14
+p8
+aVJosh Harrellson NYK 04/26/2012 NYK @ CHA W 30 18 8 12 66.7 2 3 66.7 0 0 - 2 7 9 0 0 2 1 1 17
+p9
+aVJerome Jordan NYK 04/26/2012 NYK @ CHA W 24 13 6 11 54.5 0 0 - 1 2 50.0 2 2 4 0 0 1 0 2 6
+p10
+aVDan Gadzuric NYK 04/25/2012 NYK vs. LAC W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p11
+aVLandry Fields NYK 04/25/2012 NYK vs. LAC W 22 8 4 8 50.0 0 0 - 0 1 0.0 1 2 3 1 0 0 0 1 2
+p12
+aVJR Smith NYK 04/25/2012 NYK vs. LAC W 30 21 7 13 53.8 3 7 42.9 4 4 100.0 1 1 2 5 4 0 2 3 13
+p13
+aVBaron Davis NYK 04/25/2012 NYK vs. LAC W 19 12 5 10 50.0 2 5 40.0 0 0 - 0 0 0 1 1 0 1 0 -9
+p14
+aVCarmelo Anthony NYK 04/25/2012 NYK vs. LAC W 28 17 7 16 43.8 0 2 0.0 3 4 75.0 0 6 6 3 1 0 1 1 0
+p15
+aVAmar'e Stoudemire NYK 04/25/2012 NYK vs. LAC W 29 10 4 9 44.4 0 0 - 2 3 66.7 2 5 7 1 0 1 2 4 1
+p16
+aVTyson Chandler NYK 04/25/2012 NYK vs. LAC W 32 11 2 4 50.0 0 0 - 7 10 70.0 2 3 5 0 1 1 2 2 1
+p17
+aVSteve Novak NYK 04/25/2012 NYK vs. LAC W 27 14 4 8 50.0 4 7 57.1 2 2 100.0 0 3 3 0 1 0 0 3 14
+p18
+aVMike Bibby NYK 04/25/2012 NYK vs. LAC W 21 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 5 0 0 0 1 11
+p19
+aVIman Shumpert NYK 04/25/2012 NYK vs. LAC W 24 6 3 5 60.0 0 1 0.0 0 0 - 2 5 7 2 1 0 0 1 -1
+p20
+aVMike Bibby NYK 04/22/2012 NYK @ ATL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -5
+p21
+aVCarmelo Anthony NYK 04/22/2012 NYK @ ATL W 42 39 14 32 43.8 3 5 60.0 8 9 88.9 2 8 10 2 2 0 2 2 6
+p22
+aVJR Smith NYK 04/22/2012 NYK @ ATL W 32 7 3 7 42.9 1 5 20.0 0 0 - 0 4 4 4 5 0 3 2 2
+p23
+aVAmar'e Stoudemire NYK 04/22/2012 NYK @ ATL W 34 22 9 13 69.2 0 0 - 4 8 50.0 1 11 12 0 1 1 4 4 -6
+p24
+aVJosh Harrellson NYK 04/22/2012 NYK @ ATL W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 0 1 0 7
+p25
+aVLandry Fields NYK 04/22/2012 NYK @ ATL W 30 18 7 8 87.5 3 3 100.0 1 1 100.0 1 3 4 1 1 0 0 3 6
+p26
+aVSteve Novak NYK 04/22/2012 NYK @ ATL W 20 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 2 -2
+p27
+aVIman Shumpert NYK 04/22/2012 NYK @ ATL W 36 11 4 8 50.0 1 1 100.0 2 2 100.0 2 1 3 3 1 0 0 2 0
+p28
+aVToney Douglas NYK 04/22/2012 NYK @ ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p29
+aVBaron Davis NYK 04/22/2012 NYK @ ATL W 31 13 5 9 55.6 3 4 75.0 0 0 - 0 1 1 10 2 0 4 5 -1
+p30
+aVJR Smith NYK 04/20/2012 NYK @ CLE L 36 11 4 12 33.3 2 6 33.3 1 2 50.0 0 3 3 6 3 0 0 1 -3
+p31
+aVCarmelo Anthony NYK 04/20/2012 NYK @ CLE L 29 12 5 13 38.5 1 2 50.0 1 1 100.0 0 1 1 4 0 0 4 4 -11
+p32
+aVLandry Fields NYK 04/20/2012 NYK @ CLE L 22 8 4 10 40.0 0 3 0.0 0 2 0.0 2 3 5 1 1 0 0 1 -3
+p33
+aVMike Bibby NYK 04/20/2012 NYK @ CLE L 23 12 4 7 57.1 4 5 80.0 0 0 - 0 2 2 4 2 1 1 2 -7
+p34
+aVAmar'e Stoudemire NYK 04/20/2012 NYK @ CLE L 27 15 5 11 45.5 0 0 - 5 8 62.5 1 2 3 0 1 4 3 5 -4
+p35
+aVSteve Novak NYK 04/20/2012 NYK @ CLE L 24 15 5 12 41.7 5 12 41.7 0 0 - 0 0 0 1 0 0 0 1 4
+p36
+aVIman Shumpert NYK 04/20/2012 NYK @ CLE L 26 6 3 9 33.3 0 2 0.0 0 0 - 0 0 0 3 0 0 1 2 -6
+p37
+aVJosh Harrellson NYK 04/20/2012 NYK @ CLE L 6 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 1
+p38
+aVToney Douglas NYK 04/20/2012 NYK @ CLE L 21 6 3 6 50.0 0 3 0.0 0 0 - 6 3 9 6 0 0 1 1 0
+p39
+aVTyson Chandler NYK 04/20/2012 NYK @ CLE L 25 4 2 3 66.7 0 0 - 0 0 - 1 7 8 0 0 1 2 0 -11
+p40
+aVToney Douglas NYK 04/18/2012 NYK @ NJN W 8 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 0 1 0 1 0 -5
+p41
+aVHenry Walker NYK 04/18/2012 NYK @ NJN W 9 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 1 -7
+p42
+aVLandry Fields NYK 04/18/2012 NYK @ NJN W 19 3 1 5 20.0 0 1 0.0 1 2 50.0 1 2 3 1 1 0 2 0 14
+p43
+aVJR Smith NYK 04/18/2012 NYK @ NJN W 30 15 6 16 37.5 3 9 33.3 0 0 - 0 8 8 2 1 0 1 3 -7
+p44
+aVIman Shumpert NYK 04/18/2012 NYK @ NJN W 28 8 4 6 66.7 0 2 0.0 0 0 - 1 2 3 5 4 0 1 4 -1
+p45
+aVCarmelo Anthony NYK 04/18/2012 NYK @ NJN W 35 33 11 21 52.4 5 7 71.4 6 6 100.0 0 7 7 4 0 1 1 3 15
+p46
+aVJosh Harrellson NYK 04/18/2012 NYK @ NJN W 8 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 0 0 1 0 0 -9
+p47
+aVMike Bibby NYK 04/18/2012 NYK @ NJN W 36 8 3 10 30.0 2 6 33.3 0 0 - 0 3 3 8 1 0 1 3 18
+p48
+aVTyson Chandler NYK 04/18/2012 NYK @ NJN W 37 18 5 7 71.4 0 0 - 8 11 72.7 6 4 10 2 3 2 2 2 21
+p49
+aVJerome Jordan NYK 04/18/2012 NYK @ NJN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p50
+aVSteve Novak NYK 04/18/2012 NYK @ NJN W 27 9 3 8 37.5 3 8 37.5 0 0 - 0 3 3 0 0 1 0 1 13
+p51
+aVBaron Davis NYK 04/17/2012 NYK vs. BOS W 18 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 1 -9
+p52
+aVJR Smith NYK 04/17/2012 NYK vs. BOS W 36 25 8 16 50.0 7 10 70.0 2 2 100.0 0 4 4 6 1 0 1 3 17
+p53
+aVCarmelo Anthony NYK 04/17/2012 NYK vs. BOS W 40 35 13 24 54.2 2 4 50.0 7 8 87.5 4 8 12 10 2 0 5 5 3
+p54
+aVLandry Fields NYK 04/17/2012 NYK vs. BOS W 19 2 1 3 33.3 0 0 - 0 0 - 0 5 5 2 0 0 0 4 -4
+p55
+aVSteve Novak NYK 04/17/2012 NYK vs. BOS W 28 25 8 10 80.0 8 10 80.0 1 1 100.0 0 0 0 2 0 0 0 2 9
+p56
+aVMike Bibby NYK 04/17/2012 NYK vs. BOS W 26 3 1 3 33.3 1 3 33.3 0 0 - 0 5 5 6 0 0 0 1 16
+p57
+aVJared Jeffries NYK 04/17/2012 NYK vs. BOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 2 0 1 2 9
+p58
+aVIman Shumpert NYK 04/17/2012 NYK vs. BOS W 25 6 1 4 25.0 1 3 33.3 3 4 75.0 1 0 1 0 0 0 4 4 0
+p59
+aVTyson Chandler NYK 04/17/2012 NYK vs. BOS W 42 20 9 10 90.0 0 0 - 2 2 100.0 5 2 7 1 1 0 3 4 -1
+p60
+aVBaron Davis NYK 04/15/2012 NYK vs. MIA L 26 3 1 6 16.7 0 3 0.0 1 4 25.0 0 1 1 4 1 0 5 3 -13
+p61
+aVJared Jeffries NYK 04/15/2012 NYK vs. MIA L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 7
+p62
+aVMike Bibby NYK 04/15/2012 NYK vs. MIA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p63
+aVJR Smith NYK 04/15/2012 NYK vs. MIA L 36 16 6 15 40.0 4 9 44.4 0 0 - 2 5 7 2 3 1 3 1 3
+p64
+aVIman Shumpert NYK 04/15/2012 NYK vs. MIA L 38 3 1 4 25.0 1 3 33.3 0 0 - 1 4 5 5 2 0 1 4 -2
+p65
+aVCarmelo Anthony NYK 04/15/2012 NYK vs. MIA L 43 42 14 27 51.9 2 7 28.6 12 15 80.0 2 7 9 5 1 0 1 4 -13
+p66
+aVTyson Chandler NYK 04/15/2012 NYK vs. MIA L 31 9 4 5 80.0 0 0 - 1 4 25.0 2 3 5 0 0 0 1 3 -13
+p67
+aVLandry Fields NYK 04/15/2012 NYK vs. MIA L 23 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 3 0 0 2 1 -15
+p68
+aVSteve Novak NYK 04/15/2012 NYK vs. MIA L 22 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 0 0 0 1 2 4
+p69
+aVTyson Chandler NYK 04/13/2012 NYK vs. WAS W 30 8 2 7 28.6 0 0 - 4 6 66.7 6 9 15 1 1 0 2 1 28
+p70
+aVJosh Harrellson NYK 04/13/2012 NYK vs. WAS W 13 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 0 1 1 2 8
+p71
+aVIman Shumpert NYK 04/13/2012 NYK vs. WAS W 23 3 1 5 20.0 0 1 0.0 1 1 100.0 0 3 3 2 0 0 2 1 14
+p72
+aVSteve Novak NYK 04/13/2012 NYK vs. WAS W 22 18 6 11 54.5 3 8 37.5 3 3 100.0 0 1 1 0 0 1 0 2 14
+p73
+aVToney Douglas NYK 04/13/2012 NYK vs. WAS W 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 3 2 0 0 1 1
+p74
+aVBaron Davis NYK 04/13/2012 NYK vs. WAS W 23 18 7 9 77.8 4 5 80.0 0 0 - 0 1 1 2 2 0 3 0 16
+p75
+aVLandry Fields NYK 04/13/2012 NYK vs. WAS W 32 4 2 7 28.6 0 0 - 0 0 - 0 7 7 4 2 2 1 3 36
+p76
+aVMike Bibby NYK 04/13/2012 NYK vs. WAS W 23 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 2 1 0 1 1 19
+p77
+aVJared Jeffries NYK 04/13/2012 NYK vs. WAS W 5 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 2
+p78
+aVJR Smith NYK 04/13/2012 NYK vs. WAS W 30 23 9 15 60.0 4 8 50.0 1 1 100.0 0 3 3 6 2 0 2 3 23
+p79
+aVCarmelo Anthony NYK 04/13/2012 NYK vs. WAS W 29 18 8 17 47.1 0 1 0.0 2 2 100.0 1 4 5 0 1 1 3 2 29
+p80
+aVSteve Novak NYK 04/11/2012 NYK @ MIL W 22 10 3 6 50.0 2 5 40.0 2 2 100.0 1 3 4 1 0 0 2 0 0
+p81
+aVCarmelo Anthony NYK 04/11/2012 NYK @ MIL W 41 32 13 26 50.0 2 4 50.0 4 5 80.0 3 7 10 2 0 1 3 4 10
+p82
+aVJared Jeffries NYK 04/11/2012 NYK @ MIL W 9 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 1 0 1 -8
+p83
+aVIman Shumpert NYK 04/11/2012 NYK @ MIL W 42 16 6 15 40.0 0 1 0.0 4 5 80.0 2 4 6 5 3 0 1 3 4
+p84
+aVLandry Fields NYK 04/11/2012 NYK @ MIL W 31 11 5 7 71.4 0 1 0.0 1 2 50.0 2 3 5 6 2 0 1 2 14
+p85
+aVMike Bibby NYK 04/11/2012 NYK @ MIL W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 0 0 -15
+p86
+aVTyson Chandler NYK 04/11/2012 NYK @ MIL W 39 19 6 6 100.0 0 0 - 7 7 100.0 0 11 11 1 1 0 5 5 12
+p87
+aVBaron Davis NYK 04/11/2012 NYK @ MIL W 19 5 2 4 50.0 0 1 0.0 1 2 50.0 0 1 1 3 2 0 5 2 15
+p88
+aVJR Smith NYK 04/11/2012 NYK @ MIL W 27 14 5 13 38.5 2 4 50.0 2 2 100.0 1 2 3 1 0 0 0 4 -12
+p89
+aVHenry Walker NYK 04/10/2012 NYK @ CHI L 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p90
+aVCarmelo Anthony NYK 04/10/2012 NYK @ CHI L 39 29 11 19 57.9 1 3 33.3 6 9 66.7 0 2 2 5 3 0 2 2 -8
+p91
+aVToney Douglas NYK 04/10/2012 NYK @ CHI L 7 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 1 -11
+p92
+aVJared Jeffries NYK 04/10/2012 NYK @ CHI L 14 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 1 2 1 -7
+p93
+aVJR Smith NYK 04/10/2012 NYK @ CHI L 34 14 6 13 46.2 2 4 50.0 0 0 - 0 2 2 1 2 0 2 3 -20
+p94
+aVLandry Fields NYK 04/10/2012 NYK @ CHI L 28 9 4 13 30.8 0 2 0.0 1 1 100.0 0 4 4 0 1 1 1 0 1
+p95
+aVJosh Harrellson NYK 04/10/2012 NYK @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p96
+aVBaron Davis NYK 04/10/2012 NYK @ CHI L 26 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 6 1 0 4 2 -1
+p97
+aVTyson Chandler NYK 04/10/2012 NYK @ CHI L 37 10 2 4 50.0 0 0 - 6 7 85.7 2 13 15 1 1 3 1 2 -2
+p98
+aVIman Shumpert NYK 04/10/2012 NYK @ CHI L 34 12 4 7 57.1 2 3 66.7 2 2 100.0 0 1 1 3 0 0 3 5 5
+p99
+aVSteve Novak NYK 04/10/2012 NYK @ CHI L 17 2 0 4 0.0 0 3 0.0 2 2 100.0 1 1 2 0 0 0 0 2 -13
+p100
+aVJared Jeffries NYK 04/08/2012 NYK vs. CHI W 11 6 2 5 40.0 0 0 - 2 4 50.0 2 1 3 0 0 1 0 2 -13
+p101
+aVIman Shumpert NYK 04/08/2012 NYK vs. CHI W 45 15 5 14 35.7 2 8 25.0 3 3 100.0 1 8 9 6 4 0 1 4 9
+p102
+aVBaron Davis NYK 04/08/2012 NYK vs. CHI W 21 2 1 7 14.3 0 4 0.0 0 2 0.0 0 0 0 4 2 0 1 3 -6
+p103
+aVJR Smith NYK 04/08/2012 NYK vs. CHI W 37 14 6 22 27.3 2 11 18.2 0 0 - 1 4 5 2 1 1 0 5 -6
+p104
+aVSteve Novak NYK 04/08/2012 NYK vs. CHI W 22 0 0 4 0.0 0 4 0.0 0 0 - 0 2 2 0 1 0 1 0 -8
+p105
+aVLandry Fields NYK 04/08/2012 NYK vs. CHI W 29 10 5 11 45.5 0 1 0.0 0 0 - 0 4 4 2 1 0 2 0 11
+p106
+aVToney Douglas NYK 04/08/2012 NYK vs. CHI W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p107
+aVCarmelo Anthony NYK 04/08/2012 NYK vs. CHI W 47 43 16 31 51.6 4 5 80.0 7 9 77.8 2 5 7 3 1 1 2 5 5
+p108
+aVTyson Chandler NYK 04/08/2012 NYK vs. CHI W 44 8 3 4 75.0 0 0 - 2 2 100.0 10 6 16 0 1 3 2 5 15
+p109
+aVToney Douglas NYK 04/05/2012 NYK @ ORL W 25 15 7 12 58.3 1 2 50.0 0 0 - 1 4 5 6 1 0 2 1 22
+p110
+aVJR Smith NYK 04/05/2012 NYK @ ORL W 34 15 6 12 50.0 3 4 75.0 0 0 - 1 3 4 9 1 0 1 3 19
+p111
+aVTyson Chandler NYK 04/05/2012 NYK @ ORL W 35 12 6 9 66.7 0 0 - 0 0 - 3 9 12 0 0 0 1 4 4
+p112
+aVJosh Harrellson NYK 04/05/2012 NYK @ ORL W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 12
+p113
+aVLandry Fields NYK 04/05/2012 NYK @ ORL W 26 10 4 9 44.4 2 4 50.0 0 6 0.0 0 0 0 0 1 0 2 1 3
+p114
+aVIman Shumpert NYK 04/05/2012 NYK @ ORL W 37 9 3 6 50.0 1 1 100.0 2 2 100.0 1 3 4 0 1 0 1 2 7
+p115
+aVSteve Novak NYK 04/05/2012 NYK @ ORL W 24 9 3 6 50.0 3 6 50.0 0 0 - 1 3 4 1 0 0 0 3 14
+p116
+aVBaron Davis NYK 04/05/2012 NYK @ ORL W 19 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 5 2 0 1 0 -5
+p117
+aVCarmelo Anthony NYK 04/05/2012 NYK @ ORL W 28 19 6 16 37.5 2 5 40.0 5 7 71.4 3 5 8 3 0 0 3 2 4
+p118
+aVLandry Fields NYK 04/03/2012 NYK @ IND L 23 15 5 8 62.5 2 3 66.7 3 4 75.0 0 4 4 2 2 1 1 1 6
+p119
+aVBaron Davis NYK 04/03/2012 NYK @ IND L 29 6 2 8 25.0 1 3 33.3 1 1 100.0 0 3 3 3 0 0 0 4 -8
+p120
+aVJosh Harrellson NYK 04/03/2012 NYK @ IND L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -4
+p121
+aVSteve Novak NYK 04/03/2012 NYK @ IND L 13 9 3 4 75.0 3 4 75.0 0 0 - 0 1 1 0 0 2 0 1 -8
+p122
+aVToney Douglas NYK 04/03/2012 NYK @ IND L 15 3 1 6 16.7 1 2 50.0 0 0 - 0 1 1 2 1 0 2 0 4
+p123
+aVTyson Chandler NYK 04/03/2012 NYK @ IND L 40 12 3 5 60.0 0 0 - 6 11 54.5 7 7 14 1 0 1 1 5 -2
+p124
+aVCarmelo Anthony NYK 04/03/2012 NYK @ IND L 40 39 17 31 54.8 1 5 20.0 4 5 80.0 3 7 10 2 2 1 3 3 -7
+p125
+aVIman Shumpert NYK 04/03/2012 NYK @ IND L 37 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 3 3 -14
+p126
+aVJR Smith NYK 04/03/2012 NYK @ IND L 29 11 3 11 27.3 1 3 33.3 4 4 100.0 6 3 9 4 0 0 1 4 -6
+p127
+aVMike Bibby NYK 04/03/2012 NYK @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -1
+p128
+aVToney Douglas NYK 03/31/2012 NYK vs. CLE W 10 5 2 5 40.0 0 2 0.0 1 1 100.0 0 2 2 1 0 0 1 2 5
+p129
+aVIman Shumpert NYK 03/31/2012 NYK vs. CLE W 39 10 3 12 25.0 2 5 40.0 2 2 100.0 0 2 2 2 5 0 2 1 18
+p130
+aVJosh Harrellson NYK 03/31/2012 NYK vs. CLE W 19 8 1 4 25.0 0 1 0.0 6 8 75.0 3 3 6 0 1 1 0 2 9
+p131
+aVJR Smith NYK 03/31/2012 NYK vs. CLE W 35 20 8 15 53.3 3 7 42.9 1 2 50.0 2 7 9 2 5 0 2 1 19
+p132
+aVSteve Novak NYK 03/31/2012 NYK vs. CLE W 23 5 2 8 25.0 1 6 16.7 0 0 - 0 3 3 0 0 1 1 1 -1
+p133
+aVCarmelo Anthony NYK 03/31/2012 NYK vs. CLE W 33 19 7 14 50.0 1 2 50.0 4 8 50.0 3 1 4 2 1 0 2 4 10
+p134
+aVTyson Chandler NYK 03/31/2012 NYK vs. CLE W 29 14 3 4 75.0 0 0 - 8 11 72.7 6 6 12 1 0 3 2 4 7
+p135
+aVJerome Jordan NYK 03/31/2012 NYK vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p136
+aVLandry Fields NYK 03/31/2012 NYK vs. CLE W 22 4 2 8 25.0 0 1 0.0 0 0 - 2 3 5 1 1 0 6 2 6
+p137
+aVBaron Davis NYK 03/31/2012 NYK vs. CLE W 29 6 2 6 33.3 2 4 50.0 0 0 - 1 3 4 5 0 0 1 1 6
+p138
+aVSteve Novak NYK 03/30/2012 NYK @ ATL L 20 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 2 -2
+p139
+aVCarmelo Anthony NYK 03/30/2012 NYK @ ATL L 40 36 11 24 45.8 1 4 25.0 13 14 92.9 3 6 9 2 5 2 5 3 -7
+p140
+aVMike Bibby NYK 03/30/2012 NYK @ ATL L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -3
+p141
+aVJosh Harrellson NYK 03/30/2012 NYK @ ATL L 9 6 1 3 33.3 0 0 - 4 4 100.0 2 1 3 1 1 1 0 1 0
+p142
+aVTyson Chandler NYK 03/30/2012 NYK @ ATL L 39 4 2 4 50.0 0 0 - 0 3 0.0 1 8 9 1 0 1 3 5 -10
+p143
+aVIman Shumpert NYK 03/30/2012 NYK @ ATL L 41 25 9 14 64.3 3 5 60.0 4 8 50.0 1 0 1 2 3 0 2 5 -8
+p144
+aVLandry Fields NYK 03/30/2012 NYK @ ATL L 27 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 2 0 0 2 2 2
+p145
+aVBaron Davis NYK 03/30/2012 NYK @ ATL L 24 4 2 8 25.0 0 2 0.0 0 0 - 1 1 2 4 1 0 4 2 -11
+p146
+aVJR Smith NYK 03/30/2012 NYK @ ATL L 33 5 2 10 20.0 1 4 25.0 0 2 0.0 1 2 3 0 1 0 2 4 -11
+p147
+aVJR Smith NYK 03/28/2012 NYK vs. ORL W 30 12 5 10 50.0 1 3 33.3 1 1 100.0 0 3 3 3 2 0 1 4 2
+p148
+aVJerome Jordan NYK 03/28/2012 NYK vs. ORL W 5 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 2 0 1 -3
+p149
+aVTyson Chandler NYK 03/28/2012 NYK vs. ORL W 28 9 4 4 100.0 0 0 - 1 2 50.0 4 5 9 1 1 1 0 3 22
+p150
+aVLandry Fields NYK 03/28/2012 NYK vs. ORL W 28 6 3 6 50.0 0 2 0.0 0 0 - 1 2 3 2 1 0 3 1 0
+p151
+aVJosh Harrellson NYK 03/28/2012 NYK vs. ORL W 20 2 1 5 20.0 0 1 0.0 0 0 - 2 6 8 0 0 0 0 3 0
+p152
+aVSteve Novak NYK 03/28/2012 NYK vs. ORL W 23 16 6 11 54.5 4 8 50.0 0 0 - 0 2 2 0 0 0 0 1 -2
+p153
+aVBaron Davis NYK 03/28/2012 NYK vs. ORL W 25 11 4 7 57.1 1 3 33.3 2 2 100.0 3 4 7 6 1 0 2 3 32
+p154
+aVIman Shumpert NYK 03/28/2012 NYK vs. ORL W 32 25 10 21 47.6 4 10 40.0 1 1 100.0 2 5 7 4 1 0 1 2 36
+p155
+aVCarmelo Anthony NYK 03/28/2012 NYK vs. ORL W 26 25 9 15 60.0 2 5 40.0 5 6 83.3 1 4 5 6 1 1 3 2 33
+p156
+aVMike Bibby NYK 03/28/2012 NYK vs. ORL W 18 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -7
+p157
+aVToney Douglas NYK 03/28/2012 NYK vs. ORL W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -3
+p158
+aVCarmelo Anthony NYK 03/26/2012 NYK vs. MIL W 35 28 8 20 40.0 0 2 0.0 12 12 100.0 1 11 12 1 1 1 3 3 10
+p159
+aVIman Shumpert NYK 03/26/2012 NYK vs. MIL W 35 11 4 8 50.0 3 6 50.0 0 0 - 2 4 6 3 1 0 4 4 13
+p160
+aVBaron Davis NYK 03/26/2012 NYK vs. MIL W 34 13 3 12 25.0 1 5 20.0 6 6 100.0 2 3 5 7 1 0 9 1 16
+p161
+aVJR Smith NYK 03/26/2012 NYK vs. MIL W 30 9 3 13 23.1 1 10 10.0 2 2 100.0 1 9 10 2 1 0 4 2 5
+p162
+aVSteve Novak NYK 03/26/2012 NYK vs. MIL W 24 7 2 4 50.0 1 2 50.0 2 4 50.0 0 2 2 0 1 0 1 0 0
+p163
+aVTyson Chandler NYK 03/26/2012 NYK vs. MIL W 34 13 3 7 42.9 0 1 0.0 7 9 77.8 5 4 9 1 1 1 1 5 17
+p164
+aVJosh Harrellson NYK 03/26/2012 NYK vs. MIL W 13 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 3 -8
+p165
+aVLandry Fields NYK 03/26/2012 NYK vs. MIL W 24 2 1 5 20.0 0 2 0.0 0 0 - 2 6 8 2 3 0 1 0 1
+p166
+aVMike Bibby NYK 03/26/2012 NYK vs. MIL W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -9
+p167
+aVBaron Davis NYK 03/24/2012 NYK vs. DET W 19 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 2 1 4 3 7
+p168
+aVSteve Novak NYK 03/24/2012 NYK vs. DET W 20 8 3 6 50.0 2 5 40.0 0 1 0.0 0 2 2 0 0 0 0 1 1
+p169
+aVJeremy Lin NYK 03/24/2012 NYK vs. DET W 24 13 3 6 50.0 2 4 50.0 5 6 83.3 0 3 3 3 2 0 7 2 12
+p170
+aVJR Smith NYK 03/24/2012 NYK vs. DET W 27 14 6 14 42.9 1 6 16.7 1 1 100.0 3 4 7 2 1 0 1 4 16
+p171
+aVCarmelo Anthony NYK 03/24/2012 NYK vs. DET W 29 15 5 12 41.7 0 1 0.0 5 6 83.3 1 2 3 1 1 0 1 3 19
+p172
+aVJerome Jordan NYK 03/24/2012 NYK vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p173
+aVToney Douglas NYK 03/24/2012 NYK vs. DET W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p174
+aVTyson Chandler NYK 03/24/2012 NYK vs. DET W 30 15 5 8 62.5 0 0 - 5 10 50.0 5 12 17 2 2 1 2 1 17
+p175
+aVJosh Harrellson NYK 03/24/2012 NYK vs. DET W 12 4 2 4 50.0 0 0 - 0 2 0.0 4 3 7 0 1 0 3 3 3
+p176
+aVIman Shumpert NYK 03/24/2012 NYK vs. DET W 20 6 3 7 42.9 0 0 - 0 0 - 1 0 1 3 2 0 2 1 3
+p177
+aVLandry Fields NYK 03/24/2012 NYK vs. DET W 21 2 1 3 33.3 0 0 - 0 0 - 0 2 2 4 0 1 1 1 6
+p178
+aVMike Bibby NYK 03/24/2012 NYK vs. DET W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 1 3
+p179
+aVAmar'e Stoudemire NYK 03/24/2012 NYK vs. DET W 25 17 7 10 70.0 0 0 - 3 4 75.0 4 4 8 2 0 2 1 1 17
+p180
+aVLandry Fields NYK 03/23/2012 NYK @ TOR L 22 3 1 6 16.7 0 1 0.0 1 2 50.0 0 2 2 2 1 0 1 1 -4
+p181
+aVCarmelo Anthony NYK 03/23/2012 NYK @ TOR L 30 12 6 15 40.0 0 4 0.0 0 0 - 3 6 9 3 2 1 4 4 -19
+p182
+aVTyson Chandler NYK 03/23/2012 NYK @ TOR L 32 2 1 5 20.0 0 0 - 0 0 - 4 7 11 1 0 2 3 2 -19
+p183
+aVBaron Davis NYK 03/23/2012 NYK @ TOR L 22 5 2 5 40.0 0 1 0.0 1 1 100.0 0 1 1 8 2 0 4 5 -1
+p184
+aVAmar'e Stoudemire NYK 03/23/2012 NYK @ TOR L 34 17 6 12 50.0 0 1 0.0 5 11 45.5 1 5 6 0 1 2 4 0 -11
+p185
+aVIman Shumpert NYK 03/23/2012 NYK @ TOR L 17 7 3 7 42.9 0 3 0.0 1 1 100.0 0 2 2 2 1 0 1 4 2
+p186
+aVJeremy Lin NYK 03/23/2012 NYK @ TOR L 26 6 3 9 33.3 0 3 0.0 0 0 - 0 1 1 4 0 0 3 2 -19
+p187
+aVSteve Novak NYK 03/23/2012 NYK @ TOR L 25 15 5 10 50.0 5 9 55.6 0 0 - 0 2 2 1 0 0 0 0 -4
+p188
+aVJerome Jordan NYK 03/23/2012 NYK @ TOR L 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 0 4
+p189
+aVJR Smith NYK 03/23/2012 NYK @ TOR L 23 7 3 11 27.3 0 5 0.0 1 1 100.0 1 1 2 1 0 0 2 2 -14
+p190
+aVJosh Harrellson NYK 03/23/2012 NYK @ TOR L 7 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 0 1 0 0 0 0
+p191
+aVJeremy Lin NYK 03/21/2012 NYK @ PHI W 36 18 4 17 23.5 0 3 0.0 10 10 100.0 0 5 5 4 1 1 2 3 8
+p192
+aVTyson Chandler NYK 03/21/2012 NYK @ PHI W 25 4 1 4 25.0 0 0 - 2 2 100.0 2 5 7 0 1 2 0 2 -1
+p193
+aVAmar'e Stoudemire NYK 03/21/2012 NYK @ PHI W 37 21 8 14 57.1 0 0 - 5 8 62.5 4 5 9 2 0 1 2 3 -3
+p194
+aVBaron Davis NYK 03/21/2012 NYK @ PHI W 12 5 2 7 28.6 1 3 33.3 0 0 - 1 0 1 1 2 0 3 3 -5
+p195
+aVJared Jeffries NYK 03/21/2012 NYK @ PHI W 14 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 1 1 4
+p196
+aVJR Smith NYK 03/21/2012 NYK @ PHI W 29 8 3 11 27.3 1 4 25.0 1 2 50.0 2 3 5 1 2 0 2 3 -1
+p197
+aVLandry Fields NYK 03/21/2012 NYK @ PHI W 18 8 3 3 100.0 0 0 - 2 3 66.7 0 2 2 1 0 0 0 2 0
+p198
+aVSteve Novak NYK 03/21/2012 NYK @ PHI W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 8
+p199
+aVIman Shumpert NYK 03/21/2012 NYK @ PHI W 25 4 1 3 33.3 0 1 0.0 2 2 100.0 2 6 8 0 0 0 0 2 4
+p200
+aVCarmelo Anthony NYK 03/21/2012 NYK @ PHI W 34 10 5 15 33.3 0 2 0.0 0 1 0.0 1 4 5 2 0 0 2 4 1
+p201
+aVLandry Fields NYK 03/20/2012 NYK vs. TOR W 23 6 2 4 50.0 0 1 0.0 2 4 50.0 0 2 2 1 2 0 0 0 20
+p202
+aVJeremy Lin NYK 03/20/2012 NYK vs. TOR W 29 18 6 10 60.0 2 3 66.7 4 4 100.0 1 2 3 10 1 1 3 2 28
+p203
+aVIman Shumpert NYK 03/20/2012 NYK vs. TOR W 22 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 2 1 0 0 2 -7
+p204
+aVSteve Novak NYK 03/20/2012 NYK vs. TOR W 16 6 2 6 33.3 2 5 40.0 0 0 - 0 2 2 0 1 0 0 0 -6
+p205
+aVJared Jeffries NYK 03/20/2012 NYK vs. TOR W 19 4 1 3 33.3 0 0 - 2 2 100.0 4 1 5 1 0 0 1 2 1
+p206
+aVJR Smith NYK 03/20/2012 NYK vs. TOR W 19 11 5 9 55.6 0 1 0.0 1 2 50.0 3 3 6 1 1 1 1 1 -10
+p207
+aVAmar'e Stoudemire NYK 03/20/2012 NYK vs. TOR W 34 22 8 13 61.5 0 0 - 6 7 85.7 3 9 12 2 1 1 2 4 23
+p208
+aVCarmelo Anthony NYK 03/20/2012 NYK vs. TOR W 31 17 5 15 33.3 1 3 33.3 6 8 75.0 2 6 8 5 3 0 2 3 28
+p209
+aVTyson Chandler NYK 03/20/2012 NYK vs. TOR W 29 17 8 10 80.0 0 0 - 1 4 25.0 2 2 4 1 0 2 1 2 24
+p210
+aVToney Douglas NYK 03/20/2012 NYK vs. TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p211
+aVMike Bibby NYK 03/20/2012 NYK vs. TOR W 12 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 0 2 0 1 3 2
+p212
+aVJosh Harrellson NYK 03/20/2012 NYK vs. TOR W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p213
+aVJR Smith NYK 03/17/2012 NYK @ IND W 30 11 4 12 33.3 3 8 37.5 0 0 - 0 3 3 0 1 1 1 1 20
+p214
+aVIman Shumpert NYK 03/17/2012 NYK @ IND W 22 6 1 6 16.7 0 1 0.0 4 7 57.1 1 2 3 3 1 0 0 3 19
+p215
+aVTyson Chandler NYK 03/17/2012 NYK @ IND W 32 8 3 5 60.0 0 0 - 2 2 100.0 5 4 9 3 2 3 1 4 1
+p216
+aVJeremy Lin NYK 03/17/2012 NYK @ IND W 33 19 6 10 60.0 0 1 0.0 7 8 87.5 0 7 7 6 1 1 2 4 3
+p217
+aVLandry Fields NYK 03/17/2012 NYK @ IND W 20 9 3 7 42.9 0 2 0.0 3 4 75.0 1 2 3 0 1 0 1 1 -4
+p218
+aVMike Bibby NYK 03/17/2012 NYK @ IND W 10 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 1 6
+p219
+aVJared Jeffries NYK 03/17/2012 NYK @ IND W 15 6 1 5 20.0 0 0 - 4 4 100.0 4 1 5 0 0 2 1 2 9
+p220
+aVCarmelo Anthony NYK 03/17/2012 NYK @ IND W 30 16 6 13 46.2 1 4 25.0 3 7 42.9 0 4 4 3 0 0 3 3 9
+p221
+aVAmar'e Stoudemire NYK 03/17/2012 NYK @ IND W 32 16 4 8 50.0 0 0 - 8 8 100.0 3 5 8 0 1 0 0 3 -3
+p222
+aVSteve Novak NYK 03/17/2012 NYK @ IND W 16 6 2 6 33.3 2 6 33.3 0 0 - 0 3 3 0 0 0 2 0 10
+p223
+aVJosh Harrellson NYK 03/16/2012 NYK vs. IND W 8 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 0 1 0 2 -13
+p224
+aVBaron Davis NYK 03/16/2012 NYK vs. IND W 7 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 6
+p225
+aVCarmelo Anthony NYK 03/16/2012 NYK vs. IND W 23 12 4 12 33.3 0 3 0.0 4 5 80.0 2 5 7 5 2 0 0 4 16
+p226
+aVJeremy Lin NYK 03/16/2012 NYK vs. IND W 26 13 3 7 42.9 1 1 100.0 6 6 100.0 1 4 5 5 0 0 3 3 17
+p227
+aVJerome Jordan NYK 03/16/2012 NYK vs. IND W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -5
+p228
+aVSteve Novak NYK 03/16/2012 NYK vs. IND W 20 12 4 8 50.0 4 8 50.0 0 0 - 0 2 2 0 1 0 0 3 4
+p229
+aVJR Smith NYK 03/16/2012 NYK vs. IND W 27 16 6 11 54.5 2 6 33.3 2 2 100.0 0 3 3 3 0 0 1 1 10
+p230
+aVLandry Fields NYK 03/16/2012 NYK vs. IND W 33 7 1 5 20.0 0 2 0.0 5 8 62.5 1 6 7 4 2 0 1 1 3
+p231
+aVAmar'e Stoudemire NYK 03/16/2012 NYK vs. IND W 28 8 3 9 33.3 0 0 - 2 2 100.0 1 5 6 0 1 1 0 2 14
+p232
+aVIman Shumpert NYK 03/16/2012 NYK vs. IND W 26 9 3 7 42.9 1 2 50.0 2 2 100.0 0 3 3 2 3 0 2 3 -2
+p233
+aVMike Bibby NYK 03/16/2012 NYK vs. IND W 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p234
+aVJared Jeffries NYK 03/16/2012 NYK vs. IND W 10 5 2 3 66.7 0 0 - 1 3 33.3 1 0 1 0 1 1 0 2 7
+p235
+aVTyson Chandler NYK 03/16/2012 NYK vs. IND W 27 16 8 11 72.7 0 0 - 0 0 - 3 4 7 0 0 4 4 2 23
+p236
+aVJared Jeffries NYK 03/14/2012 NYK vs. POR W 14 4 2 2 100.0 0 0 - 0 0 - 2 2 4 1 1 0 2 2 4
+p237
+aVLandry Fields NYK 03/14/2012 NYK vs. POR W 22 1 0 6 0.0 0 0 - 1 4 25.0 2 1 3 0 3 0 1 1 14
+p238
+aVTyson Chandler NYK 03/14/2012 NYK vs. POR W 26 9 4 4 100.0 0 0 - 1 1 100.0 1 6 7 1 1 0 4 2 27
+p239
+aVIman Shumpert NYK 03/14/2012 NYK vs. POR W 26 16 4 7 57.1 2 3 66.7 6 10 60.0 0 1 1 3 1 0 0 3 28
+p240
+aVJR Smith NYK 03/14/2012 NYK vs. POR W 23 23 8 18 44.4 7 14 50.0 0 0 - 0 2 2 2 0 0 1 3 27
+p241
+aVSteve Novak NYK 03/14/2012 NYK vs. POR W 20 20 7 11 63.6 6 10 60.0 0 0 - 1 0 1 1 1 0 0 0 24
+p242
+aVMike Bibby NYK 03/14/2012 NYK vs. POR W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 4 0 0 0 0 13
+p243
+aVJosh Harrellson NYK 03/14/2012 NYK vs. POR W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 4 4 0 1 0 0 0 13
+p244
+aVBaron Davis NYK 03/14/2012 NYK vs. POR W 18 4 1 4 25.0 0 2 0.0 2 2 100.0 2 0 2 10 1 0 1 2 13
+p245
+aVJeremy Lin NYK 03/14/2012 NYK vs. POR W 23 6 2 4 50.0 0 2 0.0 2 2 100.0 0 4 4 6 2 0 6 2 16
+p246
+aVAmar'e Stoudemire NYK 03/14/2012 NYK vs. POR W 25 17 8 10 80.0 0 0 - 1 3 33.3 2 6 8 0 0 0 2 2 13
+p247
+aVCarmelo Anthony NYK 03/14/2012 NYK vs. POR W 25 16 6 12 50.0 3 6 50.0 1 2 50.0 0 2 2 7 1 0 2 1 15
+p248
+aVJerome Jordan NYK 03/14/2012 NYK vs. POR W 4 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 3
+p249
+aVLandry Fields NYK 03/12/2012 NYK @ CHI L 28 12 5 11 45.5 0 1 0.0 2 4 50.0 1 3 4 3 1 1 1 0 -5
+p250
+aVAmar'e Stoudemire NYK 03/12/2012 NYK @ CHI L 34 20 7 12 58.3 0 0 - 6 7 85.7 1 2 3 1 0 2 1 1 -10
+p251
+aVIman Shumpert NYK 03/12/2012 NYK @ CHI L 17 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 0
+p252
+aVSteve Novak NYK 03/12/2012 NYK @ CHI L 14 5 2 5 40.0 1 4 25.0 0 0 - 1 3 4 0 0 0 0 2 5
+p253
+aVJosh Harrellson NYK 03/12/2012 NYK @ CHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -6
+p254
+aVBaron Davis NYK 03/12/2012 NYK @ CHI L 18 7 3 6 50.0 0 2 0.0 1 2 50.0 0 3 3 4 1 1 2 2 -1
+p255
+aVTyson Chandler NYK 03/12/2012 NYK @ CHI L 39 13 5 7 71.4 0 0 - 3 8 37.5 2 8 10 2 0 3 2 3 1
+p256
+aVCarmelo Anthony NYK 03/12/2012 NYK @ CHI L 39 21 8 21 38.1 1 3 33.3 4 4 100.0 2 6 8 3 2 1 2 4 -3
+p257
+aVJeremy Lin NYK 03/12/2012 NYK @ CHI L 33 15 4 11 36.4 1 1 100.0 6 6 100.0 1 0 1 8 3 3 3 5 -4
+p258
+aVJR Smith NYK 03/12/2012 NYK @ CHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -2
+p259
+aVJeremy Lin NYK 03/11/2012 NYK vs. PHI L 37 14 5 18 27.8 0 3 0.0 4 5 80.0 0 3 3 7 2 0 6 2 -2
+p260
+aVLandry Fields NYK 03/11/2012 NYK vs. PHI L 33 13 6 9 66.7 1 1 100.0 0 0 - 0 3 3 1 2 1 3 1 2
+p261
+aVAmar'e Stoudemire NYK 03/11/2012 NYK vs. PHI L 29 9 4 9 44.4 0 0 - 1 2 50.0 1 4 5 0 1 1 1 2 -12
+p262
+aVIman Shumpert NYK 03/11/2012 NYK vs. PHI L 13 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 2 -3
+p263
+aVSteve Novak NYK 03/11/2012 NYK vs. PHI L 24 8 3 5 60.0 2 3 66.7 0 0 - 0 3 3 0 1 1 0 0 -5
+p264
+aVBaron Davis NYK 03/11/2012 NYK vs. PHI L 13 8 3 5 60.0 2 2 100.0 0 0 - 2 1 3 3 0 0 3 4 -16
+p265
+aVCarmelo Anthony NYK 03/11/2012 NYK vs. PHI L 29 22 5 13 38.5 1 4 25.0 11 12 91.7 6 3 9 3 0 0 1 2 -16
+p266
+aVJR Smith NYK 03/11/2012 NYK vs. PHI L 23 12 4 13 30.8 1 4 25.0 3 3 100.0 0 4 4 1 0 0 0 2 -4
+p267
+aVTyson Chandler NYK 03/11/2012 NYK vs. PHI L 39 8 3 4 75.0 0 0 - 2 4 50.0 2 10 12 0 1 1 0 4 -4
+p268
+aVJR Smith NYK 03/09/2012 NYK @ MIL L 18 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 2 1 0 2 2 -6
+p269
+aVJeremy Lin NYK 03/09/2012 NYK @ MIL L 41 20 8 14 57.1 1 2 50.0 3 5 60.0 1 0 1 13 4 0 5 5 13
+p270
+aVBaron Davis NYK 03/09/2012 NYK @ MIL L 31 9 4 10 40.0 1 3 33.3 0 0 - 0 5 5 9 2 0 1 3 -2
+p271
+aVJosh Harrellson NYK 03/09/2012 NYK @ MIL L 14 4 2 3 66.7 0 1 0.0 0 0 - 3 1 4 0 1 1 0 2 -14
+p272
+aVAmar'e Stoudemire NYK 03/09/2012 NYK @ MIL L 37 27 11 15 73.3 0 0 - 5 6 83.3 1 10 11 0 1 1 3 6 11
+p273
+aVSteve Novak NYK 03/09/2012 NYK @ MIL L 21 11 4 8 50.0 3 6 50.0 0 0 - 0 1 1 0 0 0 1 1 -18
+p274
+aVIman Shumpert NYK 03/09/2012 NYK @ MIL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -14
+p275
+aVCarmelo Anthony NYK 03/09/2012 NYK @ MIL L 37 22 7 17 41.2 1 2 50.0 7 10 70.0 1 4 5 2 1 2 2 1 -5
+p276
+aVLandry Fields NYK 03/09/2012 NYK @ MIL L 37 18 9 12 75.0 0 1 0.0 0 0 - 2 5 7 3 1 1 3 2 10
+p277
+aVAmar'e Stoudemire NYK 03/07/2012 NYK @ SAS L 38 18 6 12 50.0 0 0 - 6 7 85.7 3 8 11 1 1 1 2 2 -21
+p278
+aVJR Smith NYK 03/07/2012 NYK @ SAS L 22 18 6 12 50.0 4 7 57.1 2 2 100.0 1 3 4 0 2 0 1 3 -9
+p279
+aVIman Shumpert NYK 03/07/2012 NYK @ SAS L 29 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 4 0 0 0 5 -7
+p280
+aVBaron Davis NYK 03/07/2012 NYK @ SAS L 22 0 0 7 0.0 0 4 0.0 0 0 - 1 0 1 8 3 0 2 3 3
+p281
+aVLandry Fields NYK 03/07/2012 NYK @ SAS L 21 8 4 8 50.0 0 0 - 0 0 - 2 1 3 2 0 0 0 1 -6
+p282
+aVJeremy Lin NYK 03/07/2012 NYK @ SAS L 30 20 7 15 46.7 2 4 50.0 4 5 80.0 0 3 3 4 3 0 1 2 -12
+p283
+aVJosh Harrellson NYK 03/07/2012 NYK @ SAS L 22 8 4 10 40.0 0 2 0.0 0 0 - 5 3 8 0 1 1 2 1 8
+p284
+aVCarmelo Anthony NYK 03/07/2012 NYK @ SAS L 38 27 12 24 50.0 3 7 42.9 0 1 0.0 0 2 2 3 2 0 2 5 -11
+p285
+aVSteve Novak NYK 03/07/2012 NYK @ SAS L 17 4 1 3 33.3 1 2 50.0 1 2 50.0 0 4 4 0 0 0 0 0 -10
+p286
+aVLandry Fields NYK 03/06/2012 NYK @ DAL L 20 4 2 5 40.0 0 1 0.0 0 0 - 2 8 10 4 0 0 2 1 0
+p287
+aVJeremy Lin NYK 03/06/2012 NYK @ DAL L 33 14 4 13 30.8 1 5 20.0 5 8 62.5 0 3 3 7 2 0 2 1 -11
+p288
+aVSteve Novak NYK 03/06/2012 NYK @ DAL L 27 13 4 9 44.4 4 7 57.1 1 1 100.0 0 3 3 0 0 1 0 2 -4
+p289
+aVTyson Chandler NYK 03/06/2012 NYK @ DAL L 26 6 3 5 60.0 0 0 - 0 0 - 2 6 8 0 1 1 1 2 -9
+p290
+aVJosh Harrellson NYK 03/06/2012 NYK @ DAL L 13 2 1 3 33.3 0 1 0.0 0 0 - 2 5 7 1 2 0 0 3 13
+p291
+aVAmar'e Stoudemire NYK 03/06/2012 NYK @ DAL L 32 26 10 18 55.6 0 0 - 6 8 75.0 5 2 7 1 1 0 3 3 -1
+p292
+aVCarmelo Anthony NYK 03/06/2012 NYK @ DAL L 31 6 2 12 16.7 0 3 0.0 2 4 50.0 2 6 8 1 0 0 2 1 -18
+p293
+aVJR Smith NYK 03/06/2012 NYK @ DAL L 13 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 1 -12
+p294
+aVJared Jeffries NYK 03/06/2012 NYK @ DAL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p295
+aVIman Shumpert NYK 03/06/2012 NYK @ DAL L 23 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 3 3 0 3 4 -3
+p296
+aVBaron Davis NYK 03/06/2012 NYK @ DAL L 15 6 3 10 30.0 0 5 0.0 0 0 - 0 2 2 3 0 0 1 3 1
+p297
+aVAmar'e Stoudemire NYK 03/04/2012 NYK @ BOS L 38 16 7 16 43.8 0 0 - 2 4 50.0 1 12 13 1 0 2 0 1 -8
+p298
+aVJR Smith NYK 03/04/2012 NYK @ BOS L 20 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 1 1 1 0 3 -2
+p299
+aVJeremy Lin NYK 03/04/2012 NYK @ BOS L 32 14 6 16 37.5 1 2 50.0 1 2 50.0 1 3 4 5 1 0 6 4 -9
+p300
+aVJared Jeffries NYK 03/04/2012 NYK @ BOS L 17 7 2 2 100.0 0 0 - 3 4 75.0 1 1 2 1 2 0 1 2 8
+p301
+aVBaron Davis NYK 03/04/2012 NYK @ BOS L 21 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 7 1 0 6 2 10
+p302
+aVLandry Fields NYK 03/04/2012 NYK @ BOS L 15 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 1 -16
+p303
+aVCarmelo Anthony NYK 03/04/2012 NYK @ BOS L 35 25 8 21 38.1 0 1 0.0 9 10 90.0 4 3 7 2 0 0 3 4 -8
+p304
+aVSteve Novak NYK 03/04/2012 NYK @ BOS L 27 14 4 8 50.0 4 7 57.1 2 2 100.0 0 2 2 0 0 0 0 1 14
+p305
+aVIman Shumpert NYK 03/04/2012 NYK @ BOS L 31 14 6 9 66.7 0 0 - 2 2 100.0 2 3 5 3 2 0 2 3 9
+p306
+aVTyson Chandler NYK 03/04/2012 NYK @ BOS L 31 8 3 7 42.9 0 1 0.0 2 2 100.0 6 8 14 2 1 2 2 2 -18
+p307
+aVSteve Novak NYK 02/29/2012 NYK vs. CLE W 17 17 6 9 66.7 5 8 62.5 0 0 - 0 1 1 0 1 0 0 4 13
+p308
+aVJR Smith NYK 02/29/2012 NYK vs. CLE W 20 9 3 7 42.9 0 4 0.0 3 6 50.0 0 1 1 0 0 1 1 2 15
+p309
+aVJeremy Lin NYK 02/29/2012 NYK vs. CLE W 33 19 6 12 50.0 0 2 0.0 7 9 77.8 2 3 5 13 1 0 1 3 13
+p310
+aVIman Shumpert NYK 02/29/2012 NYK vs. CLE W 22 12 5 10 50.0 0 1 0.0 2 3 66.7 1 1 2 1 3 0 0 1 14
+p311
+aVTyson Chandler NYK 02/29/2012 NYK vs. CLE W 31 13 4 7 57.1 0 0 - 5 10 50.0 5 10 15 0 3 4 1 2 6
+p312
+aVJared Jeffries NYK 02/29/2012 NYK vs. CLE W 20 8 3 3 100.0 0 0 - 2 2 100.0 2 3 5 1 0 0 2 4 13
+p313
+aVAmar'e Stoudemire NYK 02/29/2012 NYK vs. CLE W 28 14 4 11 36.4 0 0 - 6 7 85.7 3 2 5 0 0 1 3 3 -1
+p314
+aVBaron Davis NYK 02/29/2012 NYK vs. CLE W 15 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 8 1 0 0 0 4
+p315
+aVCarmelo Anthony NYK 02/29/2012 NYK vs. CLE W 34 22 9 16 56.3 1 3 33.3 3 5 60.0 1 4 5 4 0 0 0 3 12
+p316
+aVLandry Fields NYK 02/29/2012 NYK vs. CLE W 20 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 3 1 0 0 0 -4
+p317
+aVTyson Chandler NYK 02/23/2012 NYK @ MIA L 36 10 4 7 57.1 0 0 - 2 2 100.0 3 6 9 0 1 0 0 1 -21
+p318
+aVBaron Davis NYK 02/23/2012 NYK @ MIA L 14 0 0 7 0.0 0 4 0.0 0 0 - 0 0 0 3 0 1 1 0 5
+p319
+aVAmar'e Stoudemire NYK 02/23/2012 NYK @ MIA L 30 13 4 7 57.1 0 0 - 5 6 83.3 1 4 5 1 1 1 6 2 -14
+p320
+aVJeremy Lin NYK 02/23/2012 NYK @ MIA L 34 8 1 11 9.1 0 2 0.0 6 6 100.0 1 5 6 3 3 0 8 1 -19
+p321
+aVLandry Fields NYK 02/23/2012 NYK @ MIA L 27 8 4 9 44.4 0 0 - 0 0 - 3 3 6 1 1 0 1 1 -6
+p322
+aVSteve Novak NYK 02/23/2012 NYK @ MIA L 19 12 4 5 80.0 4 5 80.0 0 0 - 0 0 0 0 0 0 2 0 2
+p323
+aVJR Smith NYK 02/23/2012 NYK @ MIA L 29 14 5 11 45.5 2 5 40.0 2 4 50.0 1 2 3 3 3 0 0 2 -7
+p324
+aVCarmelo Anthony NYK 02/23/2012 NYK @ MIA L 35 19 7 20 35.0 1 1 100.0 4 4 100.0 3 4 7 1 0 1 1 4 -15
+p325
+aVJared Jeffries NYK 02/23/2012 NYK @ MIA L 17 4 2 2 100.0 0 0 - 0 0 - 2 3 5 2 0 0 0 4 5
+p326
+aVBaron Davis NYK 02/22/2012 NYK vs. ATL W 14 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 6 2 0 5 2 6
+p327
+aVTyson Chandler NYK 02/22/2012 NYK vs. ATL W 34 7 3 4 75.0 0 0 - 1 4 25.0 2 6 8 1 0 0 4 2 15
+p328
+aVJR Smith NYK 02/22/2012 NYK vs. ATL W 25 12 4 8 50.0 1 4 25.0 3 6 50.0 1 4 5 1 5 0 2 1 13
+p329
+aVSteve Novak NYK 02/22/2012 NYK vs. ATL W 22 17 6 12 50.0 5 10 50.0 0 0 - 1 1 2 0 2 0 1 1 14
+p330
+aVJared Jeffries NYK 02/22/2012 NYK vs. ATL W 26 7 2 6 33.3 0 1 0.0 3 4 75.0 3 5 8 2 1 0 0 1 11
+p331
+aVLandry Fields NYK 02/22/2012 NYK vs. ATL W 33 16 7 12 58.3 0 1 0.0 2 3 66.7 2 5 7 1 1 1 2 3 -1
+p332
+aVCarmelo Anthony NYK 02/22/2012 NYK vs. ATL W 27 15 7 16 43.8 1 2 50.0 0 0 - 3 1 4 3 2 1 2 1 7
+p333
+aVAmar'e Stoudemire NYK 02/22/2012 NYK vs. ATL W 24 7 3 8 37.5 0 0 - 1 1 100.0 1 9 10 0 0 1 1 2 9
+p334
+aVJeremy Lin NYK 02/22/2012 NYK vs. ATL W 32 17 6 11 54.5 1 2 50.0 4 4 100.0 1 1 2 9 2 0 4 3 9
+p335
+aVJerome Jordan NYK 02/22/2012 NYK vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p336
+aVBaron Davis NYK 02/20/2012 NYK vs. NJN L 10 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 -12
+p337
+aVJR Smith NYK 02/20/2012 NYK vs. NJN L 24 4 2 8 25.0 0 5 0.0 0 0 - 0 4 4 3 1 0 1 2 -16
+p338
+aVLandry Fields NYK 02/20/2012 NYK vs. NJN L 32 10 5 10 50.0 0 2 0.0 0 1 0.0 3 8 11 1 1 0 1 2 9
+p339
+aVSteve Novak NYK 02/20/2012 NYK vs. NJN L 17 8 3 10 30.0 2 8 25.0 0 0 - 0 0 0 0 0 0 0 1 4
+p340
+aVTyson Chandler NYK 02/20/2012 NYK vs. NJN L 24 14 4 5 80.0 0 0 - 6 6 100.0 5 3 8 1 2 2 3 4 14
+p341
+aVJeremy Lin NYK 02/20/2012 NYK vs. NJN L 36 21 7 18 38.9 2 4 50.0 5 6 83.3 0 7 7 9 4 0 3 6 -1
+p342
+aVJared Jeffries NYK 02/20/2012 NYK vs. NJN L 24 4 1 4 25.0 0 0 - 2 4 50.0 2 3 5 0 0 3 0 2 -22
+p343
+aVAmar'e Stoudemire NYK 02/20/2012 NYK vs. NJN L 36 17 7 17 41.2 0 1 0.0 3 3 100.0 1 3 4 2 0 1 1 3 -6
+p344
+aVCarmelo Anthony NYK 02/20/2012 NYK vs. NJN L 37 11 4 11 36.4 0 0 - 3 6 50.0 0 3 3 6 1 0 6 3 -10
+p345
+aVLandry Fields NYK 02/19/2012 NYK vs. DAL W 27 13 6 12 50.0 1 3 33.3 0 0 - 1 3 4 2 4 0 3 2 -11
+p346
+aVAmar'e Stoudemire NYK 02/19/2012 NYK vs. DAL W 33 11 4 10 40.0 0 0 - 3 4 75.0 4 3 7 1 0 0 2 4 -18
+p347
+aVJR Smith NYK 02/19/2012 NYK vs. DAL W 30 15 6 16 37.5 3 9 33.3 0 0 - 0 3 3 2 1 0 0 4 21
+p348
+aVTyson Chandler NYK 02/19/2012 NYK vs. DAL W 35 14 5 7 71.4 0 0 - 4 4 100.0 3 7 10 0 0 3 1 1 9
+p349
+aVJeremy Lin NYK 02/19/2012 NYK vs. DAL W 46 28 11 20 55.0 3 6 50.0 3 6 50.0 1 3 4 14 5 1 7 0 14
+p350
+aVIman Shumpert NYK 02/19/2012 NYK vs. DAL W 19 5 2 9 22.2 1 5 20.0 0 0 - 2 0 2 0 1 0 1 2 -14
+p351
+aVSteve Novak NYK 02/19/2012 NYK vs. DAL W 23 14 5 7 71.4 4 5 80.0 0 0 - 0 3 3 0 1 0 0 0 17
+p352
+aVJared Jeffries NYK 02/19/2012 NYK vs. DAL W 28 4 1 5 20.0 0 1 0.0 2 4 50.0 3 4 7 2 1 1 2 3 17
+p353
+aVJeremy Lin NYK 02/17/2012 NYK vs. NOH L 40 26 8 18 44.4 2 5 40.0 8 10 80.0 0 2 2 5 4 0 9 4 -8
+p354
+aVAmar'e Stoudemire NYK 02/17/2012 NYK vs. NOH L 39 26 12 21 57.1 0 1 0.0 2 3 66.7 5 7 12 0 1 0 2 0 5
+p355
+aVHenry Walker NYK 02/17/2012 NYK vs. NOH L 26 2 1 5 20.0 0 4 0.0 0 0 - 0 6 6 1 0 1 3 2 -4
+p356
+aVLandry Fields NYK 02/17/2012 NYK vs. NOH L 34 4 1 8 12.5 0 3 0.0 2 4 50.0 0 4 4 3 0 1 2 1 -18
+p357
+aVSteve Novak NYK 02/17/2012 NYK vs. NOH L 20 5 2 9 22.2 1 7 14.3 0 0 - 2 2 4 1 1 0 0 0 13
+p358
+aVIman Shumpert NYK 02/17/2012 NYK vs. NOH L 26 9 3 9 33.3 1 4 25.0 2 2 100.0 0 3 3 3 0 0 3 1 3
+p359
+aVTyson Chandler NYK 02/17/2012 NYK vs. NOH L 35 10 3 4 75.0 0 0 - 4 8 50.0 4 7 11 0 0 2 1 6 -12
+p360
+aVJared Jeffries NYK 02/17/2012 NYK vs. NOH L 22 3 1 1 100.0 0 0 - 1 2 50.0 4 1 5 0 3 1 1 3 1
+p361
+aVHenry Walker NYK 02/15/2012 NYK vs. SAC W 20 14 6 9 66.7 2 3 66.7 0 0 - 0 3 3 2 0 1 0 1 22
+p362
+aVRenaldo Balkman NYK 02/15/2012 NYK vs. SAC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 -10
+p363
+aVSteve Novak NYK 02/15/2012 NYK vs. SAC W 27 14 5 11 45.5 3 8 37.5 1 1 100.0 0 2 2 1 1 0 1 0 2
+p364
+aVJeremy Lin NYK 02/15/2012 NYK vs. SAC W 26 10 4 6 66.7 0 0 - 2 3 66.7 0 5 5 13 0 0 6 1 19
+p365
+aVTyson Chandler NYK 02/15/2012 NYK vs. SAC W 30 9 4 6 66.7 0 0 - 1 1 100.0 0 3 3 0 0 2 1 2 20
+p366
+aVToney Douglas NYK 02/15/2012 NYK vs. SAC W 7 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 0 0 0 1 1 -10
+p367
+aVJared Jeffries NYK 02/15/2012 NYK vs. SAC W 23 10 4 7 57.1 0 1 0.0 2 2 100.0 2 7 9 1 1 0 0 2 6
+p368
+aVAmar'e Stoudemire NYK 02/15/2012 NYK vs. SAC W 27 11 5 10 50.0 0 2 0.0 1 2 50.0 0 5 5 0 2 1 4 5 20
+p369
+aVJerome Jordan NYK 02/15/2012 NYK vs. SAC W 7 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -10
+p370
+aVLandry Fields NYK 02/15/2012 NYK vs. SAC W 30 15 6 8 75.0 1 1 100.0 2 2 100.0 2 8 10 5 0 0 1 0 18
+p371
+aVMike Bibby NYK 02/15/2012 NYK vs. SAC W 18 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 2 0 1 0 -3
+p372
+aVIman Shumpert NYK 02/15/2012 NYK vs. SAC W 21 11 3 9 33.3 1 5 20.0 4 4 100.0 0 3 3 1 0 0 1 3 1
+p373
+aVSteve Novak NYK 02/14/2012 NYK @ TOR W 19 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 0 0 0 0 3 10
+p374
+aVTyson Chandler NYK 02/14/2012 NYK @ TOR W 28 13 5 5 100.0 0 0 - 3 6 50.0 3 6 9 0 0 2 2 5 2
+p375
+aVLandry Fields NYK 02/14/2012 NYK @ TOR W 37 8 3 9 33.3 1 2 50.0 1 2 50.0 3 4 7 7 0 0 1 0 3
+p376
+aVIman Shumpert NYK 02/14/2012 NYK @ TOR W 27 8 3 9 33.3 0 2 0.0 2 3 66.7 1 1 2 3 4 0 3 3 1
+p377
+aVJared Jeffries NYK 02/14/2012 NYK @ TOR W 19 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -3
+p378
+aVJeremy Lin NYK 02/14/2012 NYK @ TOR W 43 27 9 20 45.0 2 2 100.0 7 11 63.6 0 2 2 11 1 0 8 0 5
+p379
+aVHenry Walker NYK 02/14/2012 NYK @ TOR W 30 8 3 8 37.5 2 7 28.6 0 0 - 1 2 3 1 1 0 2 4 -1
+p380
+aVMike Bibby NYK 02/14/2012 NYK @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p381
+aVAmar'e Stoudemire NYK 02/14/2012 NYK @ TOR W 34 21 8 22 36.4 0 0 - 5 5 100.0 3 6 9 1 0 0 0 2 0
+p382
+aVSteve Novak NYK 02/11/2012 NYK @ MIN W 29 15 5 10 50.0 4 6 66.7 1 1 100.0 0 6 6 0 0 0 1 1 5
+p383
+aVJeremy Lin NYK 02/11/2012 NYK @ MIN W 39 20 8 24 33.3 0 3 0.0 4 7 57.1 2 4 6 8 3 0 6 3 5
+p384
+aVJared Jeffries NYK 02/11/2012 NYK @ MIN W 30 8 3 5 60.0 0 0 - 2 4 50.0 1 7 8 1 3 0 1 4 -2
+p385
+aVTyson Chandler NYK 02/11/2012 NYK @ MIN W 37 12 6 10 60.0 0 0 - 0 2 0.0 2 5 7 3 2 1 1 5 -2
+p386
+aVIman Shumpert NYK 02/11/2012 NYK @ MIN W 29 20 9 16 56.3 2 4 50.0 0 0 - 1 0 1 2 4 0 3 6 4
+p387
+aVLandry Fields NYK 02/11/2012 NYK @ MIN W 35 19 8 10 80.0 0 1 0.0 3 4 75.0 1 3 4 4 0 0 5 2 8
+p388
+aVMike Bibby NYK 02/11/2012 NYK @ MIN W 16 3 1 4 25.0 1 3 33.3 0 0 - 0 4 4 0 0 0 1 0 -4
+p389
+aVHenry Walker NYK 02/11/2012 NYK @ MIN W 24 3 0 5 0.0 0 2 0.0 3 4 75.0 0 2 2 2 1 0 1 1 -4
+p390
+aVMike Bibby NYK 02/10/2012 NYK vs. LAL W 11 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 0 -4
+p391
+aVSteve Novak NYK 02/10/2012 NYK vs. LAL W 28 9 3 9 33.3 2 8 25.0 1 1 100.0 0 5 5 0 1 0 1 0 2
+p392
+aVIman Shumpert NYK 02/10/2012 NYK vs. LAL W 26 12 5 13 38.5 0 0 - 2 3 66.7 1 1 2 3 2 0 1 5 -1
+p393
+aVTyson Chandler NYK 02/10/2012 NYK vs. LAL W 40 9 4 5 80.0 0 0 - 1 4 25.0 3 8 11 0 0 1 3 3 7
+p394
+aVHenry Walker NYK 02/10/2012 NYK vs. LAL W 31 7 3 11 27.3 1 4 25.0 0 0 - 0 3 3 2 1 0 2 3 16
+p395
+aVLandry Fields NYK 02/10/2012 NYK vs. LAL W 33 6 1 7 14.3 0 2 0.0 4 8 50.0 0 4 4 1 1 0 0 3 3
+p396
+aVJared Jeffries NYK 02/10/2012 NYK vs. LAL W 33 11 4 7 57.1 0 1 0.0 3 5 60.0 3 6 9 3 2 0 1 2 4
+p397
+aVJeremy Lin NYK 02/10/2012 NYK vs. LAL W 39 38 13 23 56.5 2 4 50.0 10 13 76.9 1 3 4 7 2 0 6 1 8
+p398
+aVHenry Walker NYK 02/08/2012 NYK @ WAS W 27 5 2 10 20.0 1 8 12.5 0 0 - 1 5 6 1 0 0 0 1 7
+p399
+aVIman Shumpert NYK 02/08/2012 NYK @ WAS W 37 17 6 11 54.5 1 2 50.0 4 4 100.0 0 4 4 1 3 0 2 0 14
+p400
+aVJeremy Lin NYK 02/08/2012 NYK @ WAS W 36 23 9 14 64.3 0 3 0.0 5 6 83.3 1 3 4 10 1 1 2 3 18
+p401
+aVLandry Fields NYK 02/08/2012 NYK @ WAS W 37 16 6 11 54.5 0 1 0.0 4 7 57.1 2 6 8 2 1 0 2 1 10
+p402
+aVTyson Chandler NYK 02/08/2012 NYK @ WAS W 34 25 7 12 58.3 0 0 - 11 14 78.6 4 7 11 2 1 1 1 3 10
+p403
+aVJerome Jordan NYK 02/08/2012 NYK @ WAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p404
+aVMike Bibby NYK 02/08/2012 NYK @ WAS W 15 0 0 6 0.0 0 4 0.0 0 0 - 2 0 2 1 1 0 0 2 1
+p405
+aVJared Jeffries NYK 02/08/2012 NYK @ WAS W 26 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 -10
+p406
+aVSteve Novak NYK 02/08/2012 NYK @ WAS W 27 19 6 10 60.0 5 9 55.6 2 2 100.0 0 5 5 0 1 1 0 4 22
+p407
+aVJared Jeffries NYK 02/06/2012 NYK vs. UTA W 34 13 3 9 33.3 0 1 0.0 7 10 70.0 4 4 8 1 2 1 1 5 5
+p408
+aVTyson Chandler NYK 02/06/2012 NYK vs. UTA W 22 10 3 5 60.0 0 0 - 4 8 50.0 1 6 7 0 2 3 2 5 18
+p409
+aVJeremy Lin NYK 02/06/2012 NYK vs. UTA W 45 28 10 17 58.8 1 3 33.3 7 9 77.8 1 1 2 8 2 0 8 1 12
+p410
+aVIman Shumpert NYK 02/06/2012 NYK vs. UTA W 32 8 3 10 30.0 0 4 0.0 2 2 100.0 0 6 6 6 3 1 1 2 12
+p411
+aVSteve Novak NYK 02/06/2012 NYK vs. UTA W 17 19 7 10 70.0 5 8 62.5 0 0 - 0 2 2 0 0 0 0 1 -4
+p412
+aVCarmelo Anthony NYK 02/06/2012 NYK vs. UTA W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p413
+aVHenry Walker NYK 02/06/2012 NYK vs. UTA W 30 11 4 10 40.0 3 9 33.3 0 0 - 0 5 5 0 0 0 0 5 -1
+p414
+aVToney Douglas NYK 02/06/2012 NYK vs. UTA W 3 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p415
+aVLandry Fields NYK 02/06/2012 NYK vs. UTA W 43 6 3 7 42.9 0 1 0.0 0 2 0.0 1 4 5 3 1 0 3 4 14
+p416
+aVJerome Jordan NYK 02/06/2012 NYK vs. UTA W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -7
+p417
+aVToney Douglas NYK 02/04/2012 NYK vs. NJN W 13 5 2 5 40.0 0 3 0.0 1 1 100.0 0 4 4 2 0 0 0 0 9
+p418
+aVJeremy Lin NYK 02/04/2012 NYK vs. NJN W 36 25 10 19 52.6 0 4 0.0 5 7 71.4 1 4 5 7 2 0 1 3 13
+p419
+aVIman Shumpert NYK 02/04/2012 NYK vs. NJN W 25 2 1 5 20.0 0 0 - 0 0 - 2 3 5 2 0 0 3 4 5
+p420
+aVRenaldo Balkman NYK 02/04/2012 NYK vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p421
+aVLandry Fields NYK 02/04/2012 NYK vs. NJN W 22 6 3 8 37.5 0 2 0.0 0 0 - 1 4 5 1 1 0 2 1 -13
+p422
+aVAmar'e Stoudemire NYK 02/04/2012 NYK vs. NJN W 25 17 6 11 54.5 0 0 - 5 5 100.0 2 3 5 0 0 1 3 4 11
+p423
+aVTyson Chandler NYK 02/04/2012 NYK vs. NJN W 36 17 7 9 77.8 0 0 - 3 4 75.0 2 7 9 2 0 1 2 3 -1
+p424
+aVCarmelo Anthony NYK 02/04/2012 NYK vs. NJN W 35 11 3 15 20.0 1 3 33.3 4 4 100.0 2 1 3 3 1 1 2 1 -2
+p425
+aVHenry Walker NYK 02/04/2012 NYK vs. NJN W 15 7 1 1 100.0 1 1 100.0 4 4 100.0 0 1 1 1 1 1 1 2 8
+p426
+aVJared Jeffries NYK 02/04/2012 NYK vs. NJN W 31 9 4 10 40.0 0 1 0.0 1 1 100.0 5 5 10 2 0 1 0 3 6
+p427
+aVIman Shumpert NYK 02/03/2012 NYK @ BOS L 42 7 3 10 30.0 1 3 33.3 0 0 - 2 1 3 5 1 0 3 5 7
+p428
+aVTyson Chandler NYK 02/03/2012 NYK @ BOS L 37 20 9 13 69.2 0 0 - 2 4 50.0 5 6 11 1 4 1 3 6 -2
+p429
+aVJared Jeffries NYK 02/03/2012 NYK @ BOS L 23 5 2 6 33.3 0 0 - 1 1 100.0 2 1 3 0 1 2 2 3 -3
+p430
+aVToney Douglas NYK 02/03/2012 NYK @ BOS L 8 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 0 -9
+p431
+aVHenry Walker NYK 02/03/2012 NYK @ BOS L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 4
+p432
+aVSteve Novak NYK 02/03/2012 NYK @ BOS L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p433
+aVCarmelo Anthony NYK 02/03/2012 NYK @ BOS L 38 26 8 17 47.1 1 5 20.0 9 10 90.0 0 3 3 6 0 1 2 2 -6
+p434
+aVAmar'e Stoudemire NYK 02/03/2012 NYK @ BOS L 36 16 7 15 46.7 0 0 - 2 2 100.0 2 9 11 2 1 2 2 4 1
+p435
+aVJeremy Lin NYK 02/03/2012 NYK @ BOS L 7 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 -1
+p436
+aVLandry Fields NYK 02/03/2012 NYK @ BOS L 40 11 4 9 44.4 1 4 25.0 2 2 100.0 2 0 2 4 3 1 0 0 -1
+p437
+aVIman Shumpert NYK 02/02/2012 NYK vs. CHI L 39 10 5 9 55.6 0 1 0.0 0 0 - 1 4 5 8 1 0 4 5 -6
+p438
+aVRenaldo Balkman NYK 02/02/2012 NYK vs. CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -4
+p439
+aVHenry Walker NYK 02/02/2012 NYK vs. CHI L 9 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 1 -4
+p440
+aVCarmelo Anthony NYK 02/02/2012 NYK vs. CHI L 39 26 10 26 38.5 0 4 0.0 6 6 100.0 1 5 6 3 2 0 4 4 1
+p441
+aVAmar'e Stoudemire NYK 02/02/2012 NYK vs. CHI L 41 34 16 27 59.3 0 2 0.0 2 4 50.0 3 8 11 2 1 1 1 3 -11
+p442
+aVLandry Fields NYK 02/02/2012 NYK vs. CHI L 42 17 7 10 70.0 3 5 60.0 0 1 0.0 0 0 0 4 1 0 0 3 4
+p443
+aVTyson Chandler NYK 02/02/2012 NYK vs. CHI L 36 9 4 5 80.0 0 0 - 1 2 50.0 4 4 8 0 0 1 0 4 5
+p444
+aVJared Jeffries NYK 02/02/2012 NYK vs. CHI L 14 0 0 4 0.0 0 0 - 0 0 - 2 1 3 1 1 0 0 1 4
+p445
+aVToney Douglas NYK 02/02/2012 NYK vs. CHI L 15 6 2 7 28.6 1 3 33.3 1 1 100.0 1 2 3 1 0 0 3 2 -4
+p446
+aVSteve Novak NYK 01/31/2012 NYK vs. DET W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p447
+aVHenry Walker NYK 01/31/2012 NYK vs. DET W 15 11 4 7 57.1 2 5 40.0 1 1 100.0 0 1 1 0 1 0 2 5 0
+p448
+aVCarmelo Anthony NYK 01/31/2012 NYK vs. DET W 33 25 9 14 64.3 2 3 66.7 5 5 100.0 0 1 1 6 0 0 4 1 27
+p449
+aVAmar'e Stoudemire NYK 01/31/2012 NYK vs. DET W 30 15 5 11 45.5 0 0 - 5 6 83.3 0 4 4 3 0 2 2 3 12
+p450
+aVJared Jeffries NYK 01/31/2012 NYK vs. DET W 21 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 2 0 1 7
+p451
+aVJerome Jordan NYK 01/31/2012 NYK vs. DET W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p452
+aVLandry Fields NYK 01/31/2012 NYK vs. DET W 31 18 7 10 70.0 4 6 66.7 0 0 - 2 3 5 3 5 1 0 0 25
+p453
+aVJeremy Lin NYK 01/31/2012 NYK vs. DET W 6 4 1 1 100.0 0 0 - 2 3 66.7 0 1 1 4 1 0 0 1 3
+p454
+aVIman Shumpert NYK 01/31/2012 NYK vs. DET W 35 6 3 8 37.5 0 1 0.0 0 0 - 0 4 4 6 2 0 3 3 11
+p455
+aVToney Douglas NYK 01/31/2012 NYK vs. DET W 20 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 2 1 0 0 3 12
+p456
+aVRenaldo Balkman NYK 01/31/2012 NYK vs. DET W 6 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 3
+p457
+aVTyson Chandler NYK 01/31/2012 NYK vs. DET W 32 17 5 6 83.3 0 0 - 7 10 70.0 0 8 8 1 0 1 1 1 27
+p458
+aVToney Douglas NYK 01/28/2012 NYK @ HOU L 27 7 3 13 23.1 1 5 20.0 0 0 - 0 3 3 4 0 0 3 1 -1
+p459
+aVSteve Novak NYK 01/28/2012 NYK @ HOU L 19 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p460
+aVRenaldo Balkman NYK 01/28/2012 NYK @ HOU L 12 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 1 0 1 1 2
+p461
+aVIman Shumpert NYK 01/28/2012 NYK @ HOU L 28 11 5 13 38.5 0 2 0.0 1 2 50.0 2 0 2 2 1 0 2 3 -11
+p462
+aVHenry Walker NYK 01/28/2012 NYK @ HOU L 22 5 2 9 22.2 1 7 14.3 0 0 - 1 4 5 2 0 0 1 2 -2
+p463
+aVLandry Fields NYK 01/28/2012 NYK @ HOU L 18 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 0 -4
+p464
+aVJeremy Lin NYK 01/28/2012 NYK @ HOU L 20 9 3 9 33.3 0 1 0.0 3 4 75.0 1 2 3 6 1 0 3 1 -4
+p465
+aVAmar'e Stoudemire NYK 01/28/2012 NYK @ HOU L 36 23 10 20 50.0 0 0 - 3 4 75.0 3 5 8 0 3 2 1 2 -7
+p466
+aVMike Bibby NYK 01/28/2012 NYK @ HOU L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 2 0 -14
+p467
+aVJared Jeffries NYK 01/28/2012 NYK @ HOU L 12 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 0 0 0 1 3 -16
+p468
+aVJerome Jordan NYK 01/28/2012 NYK @ HOU L 4 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 7
+p469
+aVTyson Chandler NYK 01/28/2012 NYK @ HOU L 32 14 5 7 71.4 0 0 - 4 5 80.0 5 6 11 2 2 1 2 1 -12
+p470
+aVIman Shumpert NYK 01/27/2012 NYK @ MIA L 20 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 2 1 0 2 4 -14
+p471
+aVAmar'e Stoudemire NYK 01/27/2012 NYK @ MIA L 38 12 5 14 35.7 0 1 0.0 2 2 100.0 2 4 6 3 0 2 4 3 -5
+p472
+aVJared Jeffries NYK 01/27/2012 NYK @ MIA L 19 0 0 3 0.0 0 2 0.0 0 0 - 4 2 6 1 0 0 1 3 -11
+p473
+aVToney Douglas NYK 01/27/2012 NYK @ MIA L 36 16 6 18 33.3 4 8 50.0 0 0 - 0 0 0 5 1 1 3 2 -5
+p474
+aVSteve Novak NYK 01/27/2012 NYK @ MIA L 9 6 2 7 28.6 2 6 33.3 0 0 - 0 0 0 0 0 0 1 0 -4
+p475
+aVMike Bibby NYK 01/27/2012 NYK @ MIA L 13 6 2 9 22.2 2 8 25.0 0 0 - 0 0 0 2 0 0 1 0 -9
+p476
+aVLandry Fields NYK 01/27/2012 NYK @ MIA L 34 14 4 12 33.3 2 5 40.0 4 4 100.0 0 7 7 5 1 0 1 2 -1
+p477
+aVTyson Chandler NYK 01/27/2012 NYK @ MIA L 39 9 2 3 66.7 0 0 - 5 8 62.5 2 10 12 1 2 1 0 4 -4
+p478
+aVHenry Walker NYK 01/27/2012 NYK @ MIA L 31 21 7 12 58.3 7 10 70.0 0 0 - 1 6 7 1 1 1 6 6 3
+p479
+aVCarmelo Anthony NYK 01/25/2012 NYK @ CLE L 38 15 5 14 35.7 0 3 0.0 5 7 71.4 0 4 4 6 0 1 2 3 -13
+p480
+aVJared Jeffries NYK 01/25/2012 NYK @ CLE L 20 4 1 3 33.3 1 2 50.0 1 2 50.0 0 1 1 0 1 0 2 2 3
+p481
+aVToney Douglas NYK 01/25/2012 NYK @ CLE L 25 8 3 12 25.0 2 8 25.0 0 0 - 0 1 1 3 2 0 3 5 -2
+p482
+aVTyson Chandler NYK 01/25/2012 NYK @ CLE L 38 11 4 6 66.7 0 0 - 3 4 75.0 1 8 9 1 2 1 3 2 -13
+p483
+aVIman Shumpert NYK 01/25/2012 NYK @ CLE L 22 7 3 9 33.3 0 1 0.0 1 2 50.0 2 2 4 1 0 1 3 3 -10
+p484
+aVMike Bibby NYK 01/25/2012 NYK @ CLE L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 3
+p485
+aVAmar'e Stoudemire NYK 01/25/2012 NYK @ CLE L 36 19 9 19 47.4 0 1 0.0 1 1 100.0 6 8 14 2 2 0 6 4 -9
+p486
+aVLandry Fields NYK 01/25/2012 NYK @ CLE L 33 13 5 7 71.4 0 1 0.0 3 4 75.0 2 3 5 1 1 0 2 3 -4
+p487
+aVHenry Walker NYK 01/25/2012 NYK @ CLE L 18 2 1 3 33.3 0 2 0.0 0 0 - 0 5 5 3 0 0 1 1 -5
+p488
+aVJared Jeffries NYK 01/24/2012 NYK @ CHA W 26 11 3 5 60.0 1 2 50.0 4 4 100.0 0 0 0 0 1 1 2 4 15
+p489
+aVHenry Walker NYK 01/24/2012 NYK @ CHA W 18 5 1 6 16.7 1 5 20.0 2 2 100.0 0 1 1 0 1 0 2 1 4
+p490
+aVJerome Jordan NYK 01/24/2012 NYK @ CHA W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 8
+p491
+aVSteve Novak NYK 01/24/2012 NYK @ CHA W 6 9 3 3 100.0 3 3 100.0 0 0 - 1 0 1 0 0 0 0 0 9
+p492
+aVJeremy Lin NYK 01/24/2012 NYK @ CHA W 6 8 2 2 100.0 0 0 - 4 4 100.0 0 2 2 4 0 1 1 3 9
+p493
+aVIman Shumpert NYK 01/24/2012 NYK @ CHA W 25 3 1 9 11.1 0 0 - 1 2 50.0 0 5 5 2 2 1 3 2 14
+p494
+aVLandry Fields NYK 01/24/2012 NYK @ CHA W 30 18 6 12 50.0 1 3 33.3 5 6 83.3 2 2 4 5 2 2 0 3 29
+p495
+aVToney Douglas NYK 01/24/2012 NYK @ CHA W 15 9 4 7 57.1 0 1 0.0 1 2 50.0 0 0 0 4 0 0 2 1 9
+p496
+aVAmar'e Stoudemire NYK 01/24/2012 NYK @ CHA W 29 18 7 12 58.3 0 0 - 4 4 100.0 2 6 8 2 0 1 0 4 21
+p497
+aVCarmelo Anthony NYK 01/24/2012 NYK @ CHA W 30 1 0 7 0.0 0 2 0.0 1 1 100.0 0 11 11 4 0 0 1 0 13
+p498
+aVRenaldo Balkman NYK 01/24/2012 NYK @ CHA W 4 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 5
+p499
+aVTyson Chandler NYK 01/24/2012 NYK @ CHA W 30 20 9 10 90.0 0 0 - 2 4 50.0 8 9 17 2 0 1 0 0 13
+p500
+aVMike Bibby NYK 01/24/2012 NYK @ CHA W 16 4 1 3 33.3 1 3 33.3 1 2 50.0 0 3 3 3 0 1 1 2 16
+p501
+aVJared Jeffries NYK 01/21/2012 NYK vs. DEN L 19 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 1 0 3 0 5 -17
+p502
+aVJosh Harrellson NYK 01/21/2012 NYK vs. DEN L 17 2 1 4 25.0 0 2 0.0 0 0 - 0 6 6 0 0 0 1 1 4
+p503
+aVToney Douglas NYK 01/21/2012 NYK vs. DEN L 30 11 4 10 40.0 3 9 33.3 0 0 - 0 4 4 2 1 0 3 4 -10
+p504
+aVHenry Walker NYK 01/21/2012 NYK vs. DEN L 11 15 5 6 83.3 3 4 75.0 2 2 100.0 0 0 0 0 0 0 2 2 5
+p505
+aVIman Shumpert NYK 01/21/2012 NYK vs. DEN L 41 18 7 16 43.8 2 5 40.0 2 2 100.0 0 4 4 7 2 0 2 3 8
+p506
+aVTyson Chandler NYK 01/21/2012 NYK vs. DEN L 36 8 3 5 60.0 0 0 - 2 2 100.0 3 7 10 0 0 3 1 6 1
+p507
+aVAmar'e Stoudemire NYK 01/21/2012 NYK vs. DEN L 45 12 4 9 44.4 1 2 50.0 3 4 75.0 5 6 11 2 2 1 4 5 0
+p508
+aVCarmelo Anthony NYK 01/21/2012 NYK vs. DEN L 45 25 10 30 33.3 1 7 14.3 4 6 66.7 1 9 10 5 1 0 6 5 -9
+p509
+aVLandry Fields NYK 01/21/2012 NYK vs. DEN L 46 18 8 14 57.1 1 4 25.0 1 3 33.3 2 1 3 7 2 0 4 3 -7
+p510
+aVCarmelo Anthony NYK 01/20/2012 NYK vs. MIL L 36 35 11 26 42.3 2 6 33.3 11 13 84.6 3 2 5 2 1 0 4 3 -19
+p511
+aVToney Douglas NYK 01/20/2012 NYK vs. MIL L 15 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 2 2 0 4 2 -2
+p512
+aVLandry Fields NYK 01/20/2012 NYK vs. MIL L 32 10 4 7 57.1 1 3 33.3 1 3 33.3 0 2 2 3 1 0 3 0 -9
+p513
+aVJared Jeffries NYK 01/20/2012 NYK vs. MIL L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 1
+p514
+aVIman Shumpert NYK 01/20/2012 NYK vs. MIL L 30 4 0 5 0.0 0 2 0.0 4 4 100.0 0 3 3 5 4 0 3 5 -12
+p515
+aVHenry Walker NYK 01/20/2012 NYK vs. MIL L 22 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 1 0 1 3 -1
+p516
+aVAmar'e Stoudemire NYK 01/20/2012 NYK vs. MIL L 37 15 6 13 46.2 0 0 - 3 4 75.0 4 7 11 0 1 1 5 3 -13
+p517
+aVJosh Harrellson NYK 01/20/2012 NYK vs. MIL L 18 6 2 4 50.0 2 4 50.0 0 1 0.0 0 4 4 0 2 1 2 2 3
+p518
+aVTyson Chandler NYK 01/20/2012 NYK vs. MIL L 34 11 2 5 40.0 0 0 - 7 8 87.5 4 8 12 0 0 1 2 4 -19
+p519
+aVMike Bibby NYK 01/20/2012 NYK vs. MIL L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 1
+p520
+aVIman Shumpert NYK 01/18/2012 NYK vs. PHX L 40 20 8 14 57.1 3 6 50.0 1 2 50.0 2 2 4 2 4 0 3 4 -2
+p521
+aVAmar'e Stoudemire NYK 01/18/2012 NYK vs. PHX L 38 23 7 22 31.8 0 0 - 9 10 90.0 3 4 7 4 0 1 6 3 2
+p522
+aVLandry Fields NYK 01/18/2012 NYK vs. PHX L 36 17 6 12 50.0 0 4 0.0 5 9 55.6 0 6 6 4 2 0 3 2 -4
+p523
+aVCarmelo Anthony NYK 01/18/2012 NYK vs. PHX L 38 12 5 22 22.7 1 2 50.0 1 4 25.0 6 5 11 4 2 1 1 1 -2
+p524
+aVJosh Harrellson NYK 01/18/2012 NYK vs. PHX L 8 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 1 0 0 1
+p525
+aVTyson Chandler NYK 01/18/2012 NYK vs. PHX L 38 9 3 4 75.0 0 0 - 3 4 75.0 5 12 17 2 2 0 1 2 -2
+p526
+aVMike Bibby NYK 01/18/2012 NYK vs. PHX L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -5
+p527
+aVJared Jeffries NYK 01/18/2012 NYK vs. PHX L 18 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 1 0 0 0 2 -4
+p528
+aVToney Douglas NYK 01/18/2012 NYK vs. PHX L 17 3 1 6 16.7 0 1 0.0 1 1 100.0 0 1 1 1 0 0 2 1 1
+p529
+aVHenry Walker NYK 01/16/2012 NYK vs. ORL L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -11
+p530
+aVTyson Chandler NYK 01/16/2012 NYK vs. ORL L 34 4 2 4 50.0 0 0 - 0 0 - 2 6 8 0 1 0 1 5 -6
+p531
+aVMike Bibby NYK 01/16/2012 NYK vs. ORL L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -8
+p532
+aVJared Jeffries NYK 01/16/2012 NYK vs. ORL L 25 6 2 3 66.7 0 0 - 2 4 50.0 1 2 3 0 1 0 0 4 -2
+p533
+aVCarmelo Anthony NYK 01/16/2012 NYK vs. ORL L 39 33 9 27 33.3 1 8 12.5 14 16 87.5 2 6 8 5 3 0 5 1 4
+p534
+aVLandry Fields NYK 01/16/2012 NYK vs. ORL L 31 6 2 3 66.7 0 0 - 2 2 100.0 0 6 6 4 0 0 1 2 8
+p535
+aVIman Shumpert NYK 01/16/2012 NYK vs. ORL L 33 12 3 9 33.3 2 4 50.0 4 4 100.0 0 2 2 2 3 0 1 3 0
+p536
+aVJosh Harrellson NYK 01/16/2012 NYK vs. ORL L 13 8 3 5 60.0 2 3 66.7 0 1 0.0 0 2 2 0 0 0 0 1 -3
+p537
+aVAmar'e Stoudemire NYK 01/16/2012 NYK vs. ORL L 22 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 1 3 0 2 4 -12
+p538
+aVToney Douglas NYK 01/16/2012 NYK vs. ORL L 22 12 4 12 33.3 0 3 0.0 4 4 100.0 0 1 1 0 1 0 0 2 -15
+p539
+aVToney Douglas NYK 01/14/2012 NYK @ OKC L 14 14 5 10 50.0 0 3 0.0 4 4 100.0 1 1 2 0 2 0 2 1 4
+p540
+aVAmar'e Stoudemire NYK 01/14/2012 NYK @ OKC L 32 14 7 19 36.8 0 0 - 0 0 - 1 5 6 3 0 0 5 4 -19
+p541
+aVJared Jeffries NYK 01/14/2012 NYK @ OKC L 22 1 0 4 0.0 0 0 - 1 2 50.0 3 2 5 2 2 2 3 4 -6
+p542
+aVJosh Harrellson NYK 01/14/2012 NYK @ OKC L 20 12 5 10 50.0 2 5 40.0 0 0 - 2 2 4 0 3 0 1 1 0
+p543
+aVJeremy Lin NYK 01/14/2012 NYK @ OKC L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 10
+p544
+aVHenry Walker NYK 01/14/2012 NYK @ OKC L 21 3 1 6 16.7 0 4 0.0 1 2 50.0 1 6 7 3 1 0 1 3 -15
+p545
+aVIman Shumpert NYK 01/14/2012 NYK @ OKC L 28 6 3 10 30.0 0 1 0.0 0 0 - 0 3 3 3 1 0 2 2 -24
+p546
+aVSteve Novak NYK 01/14/2012 NYK @ OKC L 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 10
+p547
+aVRenaldo Balkman NYK 01/14/2012 NYK @ OKC L 12 12 4 6 66.7 1 1 100.0 3 3 100.0 1 3 4 0 2 0 1 3 15
+p548
+aVTyson Chandler NYK 01/14/2012 NYK @ OKC L 27 14 3 3 100.0 0 0 - 8 8 100.0 5 2 7 1 0 1 3 1 -30
+p549
+aVLandry Fields NYK 01/14/2012 NYK @ OKC L 31 3 1 7 14.3 0 1 0.0 1 2 50.0 1 0 1 2 1 0 1 1 6
+p550
+aVJerome Jordan NYK 01/14/2012 NYK @ OKC L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p551
+aVMike Bibby NYK 01/14/2012 NYK @ OKC L 20 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 3 0 0 1 2 -20
+p552
+aVCarmelo Anthony NYK 01/12/2012 NYK @ MEM L 20 14 6 11 54.5 1 1 100.0 1 1 100.0 0 3 3 2 0 0 1 2 -12
+p553
+aVToney Douglas NYK 01/12/2012 NYK @ MEM L 24 8 3 13 23.1 1 5 20.0 1 1 100.0 1 1 2 4 1 0 3 1 -6
+p554
+aVLandry Fields NYK 01/12/2012 NYK @ MEM L 27 9 3 5 60.0 1 1 100.0 2 2 100.0 1 5 6 2 2 0 3 2 9
+p555
+aVIman Shumpert NYK 01/12/2012 NYK @ MEM L 29 12 5 20 25.0 1 4 25.0 1 1 100.0 0 2 2 3 4 1 6 2 -11
+p556
+aVAmar'e Stoudemire NYK 01/12/2012 NYK @ MEM L 20 6 1 7 14.3 0 0 - 4 4 100.0 1 2 3 1 0 0 2 4 -12
+p557
+aVTyson Chandler NYK 01/12/2012 NYK @ MEM L 30 2 1 3 33.3 0 0 - 0 0 - 4 7 11 2 0 0 1 1 -22
+p558
+aVMike Bibby NYK 01/12/2012 NYK @ MEM L 19 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 3 0 0 1 2 -14
+p559
+aVRenaldo Balkman NYK 01/12/2012 NYK @ MEM L 11 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -2
+p560
+aVSteve Novak NYK 01/12/2012 NYK @ MEM L 11 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 12
+p561
+aVHenry Walker NYK 01/12/2012 NYK @ MEM L 21 14 5 8 62.5 4 7 57.1 0 0 - 0 3 3 1 1 1 0 4 2
+p562
+aVJosh Harrellson NYK 01/12/2012 NYK @ MEM L 28 8 3 5 60.0 2 4 50.0 0 0 - 0 7 7 1 0 1 1 3 1
+p563
+aVToney Douglas NYK 01/11/2012 NYK vs. PHI W 17 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 1 0 2 2 16
+p564
+aVCarmelo Anthony NYK 01/11/2012 NYK vs. PHI W 37 27 9 24 37.5 1 4 25.0 8 8 100.0 4 5 9 5 3 0 5 3 5
+p565
+aVTyson Chandler NYK 01/11/2012 NYK vs. PHI W 35 3 0 1 0.0 0 0 - 3 4 75.0 3 10 13 0 0 1 4 2 8
+p566
+aVHenry Walker NYK 01/11/2012 NYK vs. PHI W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 1 0 0 0 2 8
+p567
+aVIman Shumpert NYK 01/11/2012 NYK vs. PHI W 38 10 5 15 33.3 0 6 0.0 0 0 - 0 4 4 3 2 1 4 4 -6
+p568
+aVJosh Harrellson NYK 01/11/2012 NYK vs. PHI W 23 13 5 10 50.0 3 5 60.0 0 0 - 0 1 1 2 0 1 1 2 12
+p569
+aVAmar'e Stoudemire NYK 01/11/2012 NYK vs. PHI W 37 20 8 14 57.1 0 0 - 4 7 57.1 2 8 10 0 0 0 2 4 -8
+p570
+aVLandry Fields NYK 01/11/2012 NYK vs. PHI W 35 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 2 3 0 3 1 -5
+p571
+aVMike Bibby NYK 01/09/2012 NYK vs. CHA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p572
+aVToney Douglas NYK 01/09/2012 NYK vs. CHA W 13 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -2
+p573
+aVCarmelo Anthony NYK 01/09/2012 NYK vs. CHA W 39 22 6 18 33.3 1 2 50.0 9 13 69.2 0 4 4 6 2 0 6 5 4
+p574
+aVIman Shumpert NYK 01/09/2012 NYK vs. CHA W 35 16 7 13 53.8 0 2 0.0 2 2 100.0 0 6 6 4 3 0 3 3 6
+p575
+aVLandry Fields NYK 01/09/2012 NYK vs. CHA W 37 5 2 6 33.3 0 0 - 1 2 50.0 0 6 6 5 1 0 1 2 5
+p576
+aVAmar'e Stoudemire NYK 01/09/2012 NYK vs. CHA W 39 25 7 25 28.0 0 2 0.0 11 13 84.6 8 4 12 0 0 0 1 2 3
+p577
+aVJosh Harrellson NYK 01/09/2012 NYK vs. CHA W 18 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 0 2 0 0 2 3
+p578
+aVHenry Walker NYK 01/09/2012 NYK vs. CHA W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 1 0 3 0
+p579
+aVTyson Chandler NYK 01/09/2012 NYK vs. CHA W 39 20 7 8 87.5 0 0 - 6 8 75.0 4 9 13 1 3 3 0 3 2
+p580
+aVHenry Walker NYK 01/07/2012 NYK @ DET W 19 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 3 1 0 0 3 -1
+p581
+aVJeremy Lin NYK 01/07/2012 NYK @ DET W 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -1
+p582
+aVTyson Chandler NYK 01/07/2012 NYK @ DET W 29 10 4 5 80.0 0 0 - 2 2 100.0 3 6 9 1 3 0 0 1 15
+p583
+aVJerome Jordan NYK 01/07/2012 NYK @ DET W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -1
+p584
+aVMike Bibby NYK 01/07/2012 NYK @ DET W 15 16 4 5 80.0 4 4 100.0 4 4 100.0 0 3 3 3 0 0 1 2 26
+p585
+aVLandry Fields NYK 01/07/2012 NYK @ DET W 28 8 3 8 37.5 1 4 25.0 1 2 50.0 1 4 5 2 2 0 3 0 29
+p586
+aVIman Shumpert NYK 01/07/2012 NYK @ DET W 28 11 5 10 50.0 1 3 33.3 0 0 - 0 2 2 3 1 0 2 4 1
+p587
+aVAmar'e Stoudemire NYK 01/07/2012 NYK @ DET W 28 22 8 15 53.3 0 2 0.0 6 8 75.0 2 6 8 4 2 0 2 4 24
+p588
+aVCarmelo Anthony NYK 01/07/2012 NYK @ DET W 31 13 5 14 35.7 1 4 25.0 2 2 100.0 0 4 4 7 1 3 1 1 26
+p589
+aVSteve Novak NYK 01/07/2012 NYK @ DET W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 -4
+p590
+aVToney Douglas NYK 01/07/2012 NYK @ DET W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p591
+aVJosh Harrellson NYK 01/07/2012 NYK @ DET W 27 11 5 11 45.5 1 5 20.0 0 0 - 4 3 7 1 2 1 1 1 12
+p592
+aVRenaldo Balkman NYK 01/07/2012 NYK @ DET W 13 6 3 5 60.0 0 1 0.0 0 0 - 1 6 7 0 0 1 0 1 -6
+p593
+aVJosh Harrellson NYK 01/06/2012 NYK @ WAS W 19 2 1 2 50.0 0 1 0.0 0 0 - 1 5 6 1 1 1 1 0 3
+p594
+aVMike Bibby NYK 01/06/2012 NYK @ WAS W 21 11 4 6 66.7 3 3 100.0 0 0 - 0 1 1 3 2 0 1 2 -11
+p595
+aVTyson Chandler NYK 01/06/2012 NYK @ WAS W 36 12 3 6 50.0 0 0 - 6 8 75.0 9 6 15 2 1 0 1 3 -3
+p596
+aVToney Douglas NYK 01/06/2012 NYK @ WAS W 12 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 3 0 -12
+p597
+aVHenry Walker NYK 01/06/2012 NYK @ WAS W 20 2 1 3 33.3 0 2 0.0 0 0 - 0 4 4 2 1 1 1 2 -3
+p598
+aVAmar'e Stoudemire NYK 01/06/2012 NYK @ WAS W 41 23 9 21 42.9 0 0 - 5 6 83.3 2 10 12 2 2 0 5 3 5
+p599
+aVLandry Fields NYK 01/06/2012 NYK @ WAS W 18 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 12
+p600
+aVIman Shumpert NYK 01/06/2012 NYK @ WAS W 37 10 4 11 36.4 1 5 20.0 1 2 50.0 0 3 3 7 5 1 2 3 20
+p601
+aVCarmelo Anthony NYK 01/06/2012 NYK @ WAS W 36 37 16 33 48.5 2 4 50.0 3 5 60.0 3 4 7 4 1 0 4 4 4
+p602
+aVAmar'e Stoudemire NYK 01/04/2012 NYK vs. CHA L 41 25 10 19 52.6 1 3 33.3 4 5 80.0 3 9 12 0 1 0 0 1 -2
+p603
+aVIman Shumpert NYK 01/04/2012 NYK vs. CHA L 30 18 6 10 60.0 4 6 66.7 2 2 100.0 0 5 5 3 2 1 2 2 1
+p604
+aVHenry Walker NYK 01/04/2012 NYK vs. CHA L 16 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 2 1 0 1 3 5
+p605
+aVRenaldo Balkman NYK 01/04/2012 NYK vs. CHA L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 2 1 0 -4
+p606
+aVLandry Fields NYK 01/04/2012 NYK vs. CHA L 25 5 2 5 40.0 1 3 33.3 0 2 0.0 0 5 5 2 0 0 3 1 -21
+p607
+aVCarmelo Anthony NYK 01/04/2012 NYK vs. CHA L 34 32 12 24 50.0 2 6 33.3 6 6 100.0 3 3 6 5 3 0 4 4 -3
+p608
+aVJosh Harrellson NYK 01/04/2012 NYK vs. CHA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p609
+aVTyson Chandler NYK 01/04/2012 NYK vs. CHA L 40 11 4 4 100.0 0 0 - 3 5 60.0 3 3 6 1 0 2 2 5 -9
+p610
+aVToney Douglas NYK 01/04/2012 NYK vs. CHA L 39 13 6 17 35.3 1 6 16.7 0 0 - 1 3 4 5 1 0 4 4 -6
+p611
+aVMike Bibby NYK 01/02/2012 NYK vs. TOR L 15 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 0 1 0 1 3 -18
+p612
+aVJerome Jordan NYK 01/02/2012 NYK vs. TOR L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p613
+aVLandry Fields NYK 01/02/2012 NYK vs. TOR L 32 5 1 7 14.3 0 2 0.0 3 4 75.0 0 3 3 5 2 2 2 5 13
+p614
+aVHenry Walker NYK 01/02/2012 NYK vs. TOR L 24 7 2 6 33.3 1 3 33.3 2 2 100.0 0 1 1 1 0 0 1 4 -13
+p615
+aVCarmelo Anthony NYK 01/02/2012 NYK vs. TOR L 42 35 13 31 41.9 4 9 44.4 5 8 62.5 1 10 11 4 1 0 3 1 -2
+p616
+aVToney Douglas NYK 01/02/2012 NYK vs. TOR L 37 22 8 19 42.1 4 11 36.4 2 3 66.7 1 3 4 4 1 0 1 3 3
+p617
+aVJosh Harrellson NYK 01/02/2012 NYK vs. TOR L 33 2 0 4 0.0 0 4 0.0 2 2 100.0 1 4 5 0 1 1 0 2 5
+p618
+aVTyson Chandler NYK 01/02/2012 NYK vs. TOR L 43 11 3 4 75.0 0 0 - 5 6 83.3 2 8 10 0 2 0 2 5 0
+p619
+aVSteve Novak NYK 01/02/2012 NYK vs. TOR L 10 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 1 1 -10
+p620
+aVRenaldo Balkman NYK 12/31/2011 NYK @ SAC W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p621
+aVHenry Walker NYK 12/31/2011 NYK @ SAC W 31 11 5 8 62.5 1 2 50.0 0 0 - 2 2 4 6 0 0 2 5 13
+p622
+aVTyson Chandler NYK 12/31/2011 NYK @ SAC W 24 22 6 8 75.0 0 0 - 10 10 100.0 3 4 7 1 0 3 3 4 12
+p623
+aVJosh Harrellson NYK 12/31/2011 NYK @ SAC W 38 14 5 11 45.5 4 8 50.0 0 0 - 5 7 12 0 1 0 2 2 18
+p624
+aVCarmelo Anthony NYK 12/31/2011 NYK @ SAC W 33 23 6 15 40.0 0 3 0.0 11 13 84.6 1 6 7 5 1 0 0 4 21
+p625
+aVMike Bibby NYK 12/31/2011 NYK @ SAC W 16 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 1 0 1 5 10
+p626
+aVJerome Jordan NYK 12/31/2011 NYK @ SAC W 10 0 0 3 0.0 0 0 - 0 0 - 2 2 4 2 0 1 0 4 9
+p627
+aVJeremy Lin NYK 12/31/2011 NYK @ SAC W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 2 4 -4
+p628
+aVSteve Novak NYK 12/31/2011 NYK @ SAC W 10 3 1 3 33.3 0 2 0.0 1 1 100.0 0 1 1 0 0 1 0 3 -7
+p629
+aVLandry Fields NYK 12/31/2011 NYK @ SAC W 40 21 10 16 62.5 0 4 0.0 1 2 50.0 2 3 5 1 1 1 1 3 26
+p630
+aVToney Douglas NYK 12/31/2011 NYK @ SAC W 31 17 6 18 33.3 4 6 66.7 1 1 100.0 1 1 2 8 2 0 1 1 21
+p631
+aVAmar'e Stoudemire NYK 12/29/2011 NYK @ LAL L 32 15 4 17 23.5 1 1 100.0 6 6 100.0 1 1 2 0 3 2 4 3 -15
+p632
+aVToney Douglas NYK 12/29/2011 NYK @ LAL L 33 5 2 8 25.0 0 4 0.0 1 1 100.0 0 3 3 5 1 0 1 1 -6
+p633
+aVJosh Harrellson NYK 12/29/2011 NYK @ LAL L 16 3 1 6 16.7 0 2 0.0 1 2 50.0 2 1 3 0 0 1 0 1 -2
+p634
+aVJerome Jordan NYK 12/29/2011 NYK @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p635
+aVTyson Chandler NYK 12/29/2011 NYK @ LAL L 35 13 1 3 33.3 0 0 - 11 14 78.6 4 7 11 1 3 2 1 1 -16
+p636
+aVRenaldo Balkman NYK 12/29/2011 NYK @ LAL L 10 3 0 1 0.0 0 0 - 3 4 75.0 1 2 3 0 0 0 0 1 3
+p637
+aVSteve Novak NYK 12/29/2011 NYK @ LAL L 11 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 1 0 -3
+p638
+aVJeremy Lin NYK 12/29/2011 NYK @ LAL L 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p639
+aVLandry Fields NYK 12/29/2011 NYK @ LAL L 24 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 3 1 0 0 4 0
+p640
+aVHenry Walker NYK 12/29/2011 NYK @ LAL L 17 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 1 3 0 0 5 -15
+p641
+aVCarmelo Anthony NYK 12/29/2011 NYK @ LAL L 37 27 8 14 57.1 2 4 50.0 9 10 90.0 1 6 7 5 0 1 5 3 -16
+p642
+aVMike Bibby NYK 12/29/2011 NYK @ LAL L 21 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -19
+p643
+aVJerome Jordan NYK 12/28/2011 NYK @ GSW L 6 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 4
+p644
+aVToney Douglas NYK 12/28/2011 NYK @ GSW L 28 6 3 11 27.3 0 5 0.0 0 0 - 0 6 6 2 1 0 2 2 -10
+p645
+aVCarmelo Anthony NYK 12/28/2011 NYK @ GSW L 35 13 3 13 23.1 0 4 0.0 7 9 77.8 0 2 2 1 0 0 1 4 -16
+p646
+aVRenaldo Balkman NYK 12/28/2011 NYK @ GSW L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 2
+p647
+aVHenry Walker NYK 12/28/2011 NYK @ GSW L 27 14 6 8 75.0 2 3 66.7 0 0 - 1 1 2 0 1 0 1 2 -11
+p648
+aVTyson Chandler NYK 12/28/2011 NYK @ GSW L 22 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 0 0 1 5 -9
+p649
+aVSteve Novak NYK 12/28/2011 NYK @ GSW L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 4
+p650
+aVAmar'e Stoudemire NYK 12/28/2011 NYK @ GSW L 38 16 5 14 35.7 0 0 - 6 10 60.0 2 8 10 0 1 0 4 3 -16
+p651
+aVJeremy Lin NYK 12/28/2011 NYK @ GSW L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p652
+aVLandry Fields NYK 12/28/2011 NYK @ GSW L 29 14 5 10 50.0 1 4 25.0 3 4 75.0 0 2 2 3 3 0 4 0 -5
+p653
+aVMike Bibby NYK 12/28/2011 NYK @ GSW L 22 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 4 1 0 1 1 -13
+p654
+aVJosh Harrellson NYK 12/28/2011 NYK @ GSW L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 0
+p655
+aVRenaldo Balkman NYK 12/25/2011 NYK vs. BOS W 8 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 5
+p656
+aVLandry Fields NYK 12/25/2011 NYK vs. BOS W 34 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 3 2 0 2 3 -11
+p657
+aVJared Jeffries NYK 12/25/2011 NYK vs. BOS W 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 2 3
+p658
+aVToney Douglas NYK 12/25/2011 NYK vs. BOS W 35 19 8 19 42.1 2 6 33.3 1 2 50.0 0 2 2 4 3 0 2 4 12
+p659
+aVTyson Chandler NYK 12/25/2011 NYK vs. BOS W 37 7 1 2 50.0 0 0 - 5 8 62.5 2 1 3 2 0 6 0 2 -5
+p660
+aVJosh Harrellson NYK 12/25/2011 NYK vs. BOS W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 1 0 9
+p661
+aVAmar'e Stoudemire NYK 12/25/2011 NYK vs. BOS W 35 21 8 11 72.7 2 2 100.0 3 4 75.0 0 6 6 2 2 2 1 2 -3
+p662
+aVCarmelo Anthony NYK 12/25/2011 NYK vs. BOS W 34 37 10 17 58.8 4 7 57.1 13 15 86.7 1 7 8 3 2 1 5 4 15
+p663
+aVIman Shumpert NYK 12/25/2011 NYK vs. BOS W 22 11 3 13 23.1 0 1 0.0 5 5 100.0 1 3 4 1 0 0 2 2 -10
+p664
+aVHenry Walker NYK 12/25/2011 NYK vs. BOS W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 4 -5
+p665
+a.

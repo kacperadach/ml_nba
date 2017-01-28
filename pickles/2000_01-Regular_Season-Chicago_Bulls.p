@@ -1,0 +1,1648 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSteve Goodrich CHI 04/18/2001 CHI @ PHI W 13 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -4
+p2
+aVBrad Miller CHI 04/18/2001 CHI @ PHI W 25 10 4 6 66.7 0 0 - 2 3 66.7 1 2 3 2 1 0 1 1 1
+p3
+aVCorey Benjamin CHI 04/18/2001 CHI @ PHI W 18 6 3 6 50.0 0 0 - 0 0 - 0 1 1 4 1 0 2 1 -1
+p4
+aVMarcus Fizer CHI 04/18/2001 CHI @ PHI W 22 10 5 10 50.0 0 1 0.0 0 0 - 0 3 3 1 1 1 0 2 5
+p5
+aVMetta World Peace CHI 04/18/2001 CHI @ PHI W 35 8 2 8 25.0 0 1 0.0 4 4 100.0 0 3 3 3 2 1 5 5 10
+p6
+aVElton Brand CHI 04/18/2001 CHI @ PHI W 38 31 11 21 52.4 0 0 - 9 10 90.0 1 4 5 4 2 0 1 2 12
+p7
+aVDalibor Bagaric CHI 04/18/2001 CHI @ PHI W 10 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 1 2 0 2 -6
+p8
+aVA.J. Guyton CHI 04/18/2001 CHI @ PHI W 41 6 3 9 33.3 0 3 0.0 0 0 - 0 3 3 5 2 0 1 1 -1
+p9
+aVFred Hoiberg CHI 04/18/2001 CHI @ PHI W 38 18 5 6 83.3 3 4 75.0 5 6 83.3 1 5 6 6 2 0 1 2 14
+p10
+aVElton Brand CHI 04/17/2001 CHI @ NJN W 44 12 5 10 50.0 0 0 - 2 3 66.7 3 9 12 7 1 3 1 4 13
+p11
+aVBrad Miller CHI 04/17/2001 CHI @ NJN W 22 10 3 5 60.0 0 0 - 4 4 100.0 2 5 7 2 1 1 4 3 5
+p12
+aVDalibor Bagaric CHI 04/17/2001 CHI @ NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p13
+aVSteve Goodrich CHI 04/17/2001 CHI @ NJN W 15 3 1 2 50.0 0 0 - 1 1 100.0 3 4 7 0 1 0 1 0 1
+p14
+aVMetta World Peace CHI 04/17/2001 CHI @ NJN W 37 19 6 14 42.9 1 5 20.0 6 7 85.7 0 4 4 7 0 2 2 2 1
+p15
+aVA.J. Guyton CHI 04/17/2001 CHI @ NJN W 48 24 8 18 44.4 4 6 66.7 4 4 100.0 1 3 4 1 0 1 1 1 6
+p16
+aVCorey Benjamin CHI 04/17/2001 CHI @ NJN W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 -3
+p17
+aVMarcus Fizer CHI 04/17/2001 CHI @ NJN W 26 17 6 14 42.9 0 0 - 5 7 71.4 2 2 4 1 1 0 3 4 1
+p18
+aVFred Hoiberg CHI 04/17/2001 CHI @ NJN W 39 15 4 4 100.0 4 4 100.0 3 4 75.0 0 5 5 4 0 1 1 2 13
+p19
+aVElton Brand CHI 04/15/2001 CHI vs. IND L 35 17 8 14 57.1 0 0 - 1 2 50.0 4 4 8 2 1 2 3 2 -7
+p20
+aVMarcus Fizer CHI 04/15/2001 CHI vs. IND L 29 14 5 13 38.5 1 3 33.3 3 5 60.0 1 7 8 2 1 0 4 3 -3
+p21
+aVCorey Benjamin CHI 04/15/2001 CHI vs. IND L 14 11 4 6 66.7 0 0 - 3 3 100.0 0 2 2 2 0 0 0 2 -6
+p22
+aVA.J. Guyton CHI 04/15/2001 CHI vs. IND L 40 5 2 9 22.2 1 4 25.0 0 0 - 1 1 2 5 2 0 1 1 -2
+p23
+aVSteve Goodrich CHI 04/15/2001 CHI vs. IND L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 1 7
+p24
+aVBrad Miller CHI 04/15/2001 CHI vs. IND L 27 7 1 5 20.0 0 0 - 5 6 83.3 3 4 7 4 0 0 2 3 -14
+p25
+aVJake Voskuhl CHI 04/15/2001 CHI vs. IND L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 2 5
+p26
+aVMetta World Peace CHI 04/15/2001 CHI vs. IND L 39 16 6 16 37.5 2 5 40.0 2 2 100.0 0 0 0 6 6 2 0 2 -13
+p27
+aVFred Hoiberg CHI 04/15/2001 CHI vs. IND L 36 12 2 9 22.2 0 4 0.0 8 9 88.9 0 3 3 1 1 0 1 1 -2
+p28
+aVMarcus Fizer CHI 04/13/2001 CHI vs. UTA L 25 12 4 9 44.4 2 3 66.7 2 2 100.0 0 3 3 0 0 0 2 4 -7
+p29
+aVSteve Goodrich CHI 04/13/2001 CHI vs. UTA L 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -5
+p30
+aVA.J. Guyton CHI 04/13/2001 CHI vs. UTA L 39 12 5 12 41.7 2 5 40.0 0 0 - 0 3 3 2 1 0 2 3 -11
+p31
+aVDalibor Bagaric CHI 04/13/2001 CHI vs. UTA L 7 0 0 1 0.0 0 0 - 0 0 - 2 0 2 2 0 1 2 1 -4
+p32
+aVMetta World Peace CHI 04/13/2001 CHI vs. UTA L 34 27 5 8 62.5 2 4 50.0 15 16 93.8 1 2 3 2 5 1 1 3 -6
+p33
+aVElton Brand CHI 04/13/2001 CHI vs. UTA L 41 10 5 17 29.4 0 0 - 0 0 - 3 2 5 2 1 2 6 6 -9
+p34
+aVJake Voskuhl CHI 04/13/2001 CHI vs. UTA L 23 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 2 0 1 2 5 -2
+p35
+aVCorey Benjamin CHI 04/13/2001 CHI vs. UTA L 14 5 2 4 50.0 0 1 0.0 1 2 50.0 1 0 1 0 1 1 0 2 2
+p36
+aVFred Hoiberg CHI 04/13/2001 CHI vs. UTA L 43 10 3 9 33.3 0 3 0.0 4 6 66.7 1 4 5 1 4 0 1 1 -13
+p37
+aVSteve Goodrich CHI 04/11/2001 CHI @ WAS W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 5
+p38
+aVFred Hoiberg CHI 04/11/2001 CHI @ WAS W 43 16 6 11 54.5 3 5 60.0 1 1 100.0 0 5 5 4 5 0 3 2 -4
+p39
+aVMarcus Fizer CHI 04/11/2001 CHI @ WAS W 24 21 10 14 71.4 0 0 - 1 1 100.0 3 1 4 1 0 0 2 5 -2
+p40
+aVElton Brand CHI 04/11/2001 CHI @ WAS W 47 26 13 25 52.0 0 0 - 0 0 - 4 7 11 7 1 1 4 4 2
+p41
+aVJamal Crawford CHI 04/11/2001 CHI @ WAS W 32 17 7 10 70.0 2 3 66.7 1 2 50.0 1 3 4 4 0 0 0 1 5
+p42
+aVMetta World Peace CHI 04/11/2001 CHI @ WAS W 41 17 5 13 38.5 1 3 33.3 6 6 100.0 0 2 2 9 7 0 2 3 17
+p43
+aVDalibor Bagaric CHI 04/11/2001 CHI @ WAS W 10 3 1 3 33.3 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 1
+p44
+aVA.J. Guyton CHI 04/11/2001 CHI @ WAS W 28 8 3 6 50.0 0 1 0.0 2 2 100.0 0 0 0 4 2 0 3 2 -6
+p45
+aVJake Voskuhl CHI 04/11/2001 CHI @ WAS W 12 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 1 0 4 2
+p46
+aVSteve Goodrich CHI 04/10/2001 CHI @ MIL L 19 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -1
+p47
+aVElton Brand CHI 04/10/2001 CHI @ MIL L 32 16 7 13 53.8 0 0 - 2 4 50.0 2 7 9 5 1 0 4 2 -10
+p48
+aVDalibor Bagaric CHI 04/10/2001 CHI @ MIL L 7 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 1 4
+p49
+aVJamal Crawford CHI 04/10/2001 CHI @ MIL L 32 6 2 8 25.0 2 5 40.0 0 0 - 1 3 4 3 2 1 4 1 -11
+p50
+aVCorey Benjamin CHI 04/10/2001 CHI @ MIL L 10 9 4 5 80.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p51
+aVBrad Miller CHI 04/10/2001 CHI @ MIL L 15 6 2 4 50.0 0 0 - 2 3 66.7 2 2 4 0 0 0 1 2 -19
+p52
+aVMetta World Peace CHI 04/10/2001 CHI @ MIL L 33 14 6 12 50.0 0 1 0.0 2 2 100.0 0 1 1 1 3 1 1 1 -30
+p53
+aVFred Hoiberg CHI 04/10/2001 CHI @ MIL L 31 7 3 11 27.3 1 2 50.0 0 0 - 0 6 6 4 1 0 1 1 -15
+p54
+aVJake Voskuhl CHI 04/10/2001 CHI @ MIL L 5 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -7
+p55
+aVMarcus Fizer CHI 04/10/2001 CHI @ MIL L 29 11 3 8 37.5 1 2 50.0 4 4 100.0 1 3 4 4 1 0 1 3 -7
+p56
+aVA.J. Guyton CHI 04/10/2001 CHI @ MIL L 27 11 4 8 50.0 1 3 33.3 2 2 100.0 1 1 2 4 0 1 1 1 -6
+p57
+aVJamal Crawford CHI 04/08/2001 CHI @ TOR L 38 12 5 11 45.5 0 4 0.0 2 2 100.0 2 5 7 3 5 0 4 0 2
+p58
+aVDalibor Bagaric CHI 04/08/2001 CHI @ TOR L 6 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 1
+p59
+aVA.J. Guyton CHI 04/08/2001 CHI @ TOR L 24 13 5 9 55.6 2 4 50.0 1 1 100.0 0 0 0 1 0 0 1 0 -10
+p60
+aVMetta World Peace CHI 04/08/2001 CHI @ TOR L 23 4 2 11 18.2 0 2 0.0 0 0 - 2 1 3 2 2 0 1 3 5
+p61
+aVFred Hoiberg CHI 04/08/2001 CHI @ TOR L 38 12 4 8 50.0 1 3 33.3 3 4 75.0 0 3 3 2 2 0 0 1 -17
+p62
+aVCorey Benjamin CHI 04/08/2001 CHI @ TOR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 3 3 -10
+p63
+aVElton Brand CHI 04/08/2001 CHI @ TOR L 40 28 10 21 47.6 0 0 - 8 8 100.0 2 5 7 1 0 2 4 2 -10
+p64
+aVJake Voskuhl CHI 04/08/2001 CHI @ TOR L 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -18
+p65
+aVBrad Miller CHI 04/08/2001 CHI @ TOR L 32 16 6 13 46.2 0 0 - 4 4 100.0 3 6 9 3 1 0 1 6 1
+p66
+aVSteve Goodrich CHI 04/08/2001 CHI @ TOR L 22 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 0 0 1 5 -4
+p67
+aVBrad Miller CHI 04/06/2001 CHI @ IND L 30 12 3 8 37.5 0 0 - 6 8 75.0 2 8 10 2 0 0 3 5 -17
+p68
+aVElton Brand CHI 04/06/2001 CHI @ IND L 42 30 12 25 48.0 0 0 - 6 6 100.0 5 4 9 3 0 0 1 4 -1
+p69
+aVCorey Benjamin CHI 04/06/2001 CHI @ IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p70
+aVSteve Goodrich CHI 04/06/2001 CHI @ IND L 16 4 1 1 100.0 1 1 100.0 1 2 50.0 1 1 2 0 0 0 2 1 -4
+p71
+aVMarcus Fizer CHI 04/06/2001 CHI @ IND L 33 10 5 7 71.4 0 1 0.0 0 0 - 1 6 7 2 0 0 3 1 9
+p72
+aVJamal Crawford CHI 04/06/2001 CHI @ IND L 20 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 6 0 0 4 3 0
+p73
+aVFred Hoiberg CHI 04/06/2001 CHI @ IND L 41 17 6 11 54.5 4 6 66.7 1 1 100.0 2 4 6 5 0 0 0 3 -10
+p74
+aVJake Voskuhl CHI 04/06/2001 CHI @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p75
+aVA.J. Guyton CHI 04/06/2001 CHI @ IND L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p76
+aVMetta World Peace CHI 04/06/2001 CHI @ IND L 39 16 6 10 60.0 0 0 - 4 5 80.0 0 2 2 3 1 2 3 4 4
+p77
+aVMetta World Peace CHI 04/05/2001 CHI vs. LAL L 34 7 3 10 30.0 1 2 50.0 0 2 0.0 1 0 1 3 3 1 3 6 -21
+p78
+aVFred Hoiberg CHI 04/05/2001 CHI vs. LAL L 41 14 5 8 62.5 0 1 0.0 4 4 100.0 0 7 7 5 0 0 0 0 -8
+p79
+aVBrad Miller CHI 04/05/2001 CHI vs. LAL L 32 21 6 13 46.2 0 0 - 9 12 75.0 3 3 6 3 2 0 1 5 -12
+p80
+aVA.J. Guyton CHI 04/05/2001 CHI vs. LAL L 26 12 5 6 83.3 2 2 100.0 0 0 - 1 2 3 3 1 0 1 1 2
+p81
+aVMarcus Fizer CHI 04/05/2001 CHI vs. LAL L 18 4 2 4 50.0 0 0 - 0 2 0.0 2 3 5 0 0 0 2 2 3
+p82
+aVSteve Goodrich CHI 04/05/2001 CHI vs. LAL L 4 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -2
+p83
+aVJake Voskuhl CHI 04/05/2001 CHI vs. LAL L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 2 4
+p84
+aVJamal Crawford CHI 04/05/2001 CHI vs. LAL L 30 5 2 10 20.0 1 5 20.0 0 0 - 0 2 2 1 1 0 1 0 -8
+p85
+aVElton Brand CHI 04/05/2001 CHI vs. LAL L 36 17 4 15 26.7 0 0 - 9 11 81.8 3 4 7 5 0 0 1 4 -17
+p86
+aVCorey Benjamin CHI 04/05/2001 CHI vs. LAL L 12 6 2 3 66.7 1 2 50.0 1 2 50.0 0 2 2 1 0 1 0 1 -1
+p87
+aVDalibor Bagaric CHI 04/05/2001 CHI vs. LAL L 4 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 0
+p88
+aVFred Hoiberg CHI 04/03/2001 CHI vs. DET L 43 12 3 13 23.1 3 7 42.9 3 4 75.0 1 6 7 6 3 0 3 4 -20
+p89
+aVA.J. Guyton CHI 04/03/2001 CHI vs. DET L 30 10 4 11 36.4 1 4 25.0 1 2 50.0 1 1 2 3 0 1 1 0 -18
+p90
+aVDalibor Bagaric CHI 04/03/2001 CHI vs. DET L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p91
+aVSteve Goodrich CHI 04/03/2001 CHI vs. DET L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p92
+aVMetta World Peace CHI 04/03/2001 CHI vs. DET L 16 9 4 13 30.8 1 7 14.3 0 0 - 1 1 2 1 2 0 2 3 -18
+p93
+aVJake Voskuhl CHI 04/03/2001 CHI vs. DET L 12 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 2 3 4 -2
+p94
+aVBrad Miller CHI 04/03/2001 CHI vs. DET L 24 8 1 5 20.0 0 0 - 6 6 100.0 2 6 8 1 0 1 2 3 -21
+p95
+aVMarcus Fizer CHI 04/03/2001 CHI vs. DET L 22 11 4 11 36.4 0 0 - 3 3 100.0 1 5 6 1 1 0 2 2 -3
+p96
+aVCorey Benjamin CHI 04/03/2001 CHI vs. DET L 12 0 0 2 0.0 0 0 - 0 0 - 2 1 3 2 0 0 0 5 -3
+p97
+aVElton Brand CHI 04/03/2001 CHI vs. DET L 34 11 5 11 45.5 0 0 - 1 3 33.3 3 3 6 4 0 0 4 3 -23
+p98
+aVJamal Crawford CHI 04/03/2001 CHI vs. DET L 36 17 6 14 42.9 4 6 66.7 1 1 100.0 0 1 1 2 3 0 2 3 -16
+p99
+aVA.J. Guyton CHI 03/31/2001 CHI vs. MIA L 22 19 7 8 87.5 5 6 83.3 0 0 - 1 1 2 5 0 0 0 0 7
+p100
+aVJamal Crawford CHI 03/31/2001 CHI vs. MIA L 26 4 1 10 10.0 1 6 16.7 1 1 100.0 1 1 2 2 0 0 1 4 -14
+p101
+aVRon Mercer CHI 03/31/2001 CHI vs. MIA L 38 12 6 16 37.5 0 0 - 0 0 - 1 0 1 5 1 0 1 2 -11
+p102
+aVMarcus Fizer CHI 03/31/2001 CHI vs. MIA L 25 11 4 8 50.0 1 1 100.0 2 2 100.0 2 3 5 0 1 0 1 3 -16
+p103
+aVFred Hoiberg CHI 03/31/2001 CHI vs. MIA L 29 5 2 5 40.0 1 4 25.0 0 0 - 0 7 7 6 3 0 1 1 11
+p104
+aVSteve Goodrich CHI 03/31/2001 CHI vs. MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 6
+p105
+aVElton Brand CHI 03/31/2001 CHI vs. MIA L 38 20 8 17 47.1 0 0 - 4 6 66.7 4 4 8 2 1 1 1 5 -1
+p106
+aVMetta World Peace CHI 03/31/2001 CHI vs. MIA L 34 13 5 12 41.7 1 2 50.0 2 5 40.0 2 3 5 4 1 2 2 4 -16
+p107
+aVJake Voskuhl CHI 03/31/2001 CHI vs. MIA L 17 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 1 1 5 -6
+p108
+aVCorey Benjamin CHI 03/31/2001 CHI vs. MIA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 5
+p109
+aVJamal Crawford CHI 03/29/2001 CHI vs. BOS L 28 12 4 6 66.7 2 3 66.7 2 2 100.0 0 4 4 7 0 0 2 2 -12
+p110
+aVElton Brand CHI 03/29/2001 CHI vs. BOS L 37 22 9 16 56.3 0 0 - 4 7 57.1 4 7 11 3 2 5 3 4 6
+p111
+aVRon Mercer CHI 03/29/2001 CHI vs. BOS L 46 17 8 19 42.1 0 1 0.0 1 1 100.0 2 5 7 4 0 1 1 3 -5
+p112
+aVMarcus Fizer CHI 03/29/2001 CHI vs. BOS L 32 12 5 10 50.0 0 0 - 2 3 66.7 0 6 6 0 0 0 1 4 -1
+p113
+aVMetta World Peace CHI 03/29/2001 CHI vs. BOS L 24 8 4 8 50.0 0 0 - 0 0 - 0 4 4 4 0 0 4 3 -5
+p114
+aVJake Voskuhl CHI 03/29/2001 CHI vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p115
+aVCorey Benjamin CHI 03/29/2001 CHI vs. BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p116
+aVFred Hoiberg CHI 03/29/2001 CHI vs. BOS L 23 9 2 5 40.0 0 2 0.0 5 6 83.3 1 7 8 5 2 0 0 1 12
+p117
+aVSteve Goodrich CHI 03/29/2001 CHI vs. BOS L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p118
+aVBrad Miller CHI 03/29/2001 CHI vs. BOS L 24 15 5 7 71.4 0 0 - 5 5 100.0 1 2 3 3 0 0 0 3 -6
+p119
+aVA.J. Guyton CHI 03/29/2001 CHI vs. BOS L 20 7 2 5 40.0 1 2 50.0 2 3 66.7 0 1 1 3 0 0 0 4 10
+p120
+aVDragan Tarlac CHI 03/26/2001 CHI vs. DEN L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -12
+p121
+aVJamal Crawford CHI 03/26/2001 CHI vs. DEN L 36 17 6 16 37.5 3 9 33.3 2 2 100.0 0 1 1 5 2 0 0 3 4
+p122
+aVRon Mercer CHI 03/26/2001 CHI vs. DEN L 49 30 13 27 48.1 0 1 0.0 4 4 100.0 3 2 5 2 0 0 3 1 2
+p123
+aVBryce Drew CHI 03/26/2001 CHI vs. DEN L 11 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 0 -2
+p124
+aVFred Hoiberg CHI 03/26/2001 CHI vs. DEN L 27 8 2 5 40.0 1 2 50.0 3 3 100.0 0 4 4 2 2 0 0 3 -16
+p125
+aVBrad Miller CHI 03/26/2001 CHI vs. DEN L 33 12 3 6 50.0 0 0 - 6 10 60.0 3 4 7 2 0 0 0 6 2
+p126
+aVCorey Benjamin CHI 03/26/2001 CHI vs. DEN L 18 6 2 3 66.7 0 0 - 2 4 50.0 1 2 3 4 0 0 2 3 -3
+p127
+aVElton Brand CHI 03/26/2001 CHI vs. DEN L 46 25 11 18 61.1 0 0 - 3 11 27.3 3 8 11 4 3 0 3 5 -13
+p128
+aVMetta World Peace CHI 03/26/2001 CHI vs. DEN L 38 6 2 11 18.2 0 2 0.0 2 2 100.0 1 2 3 5 6 0 1 6 13
+p129
+aVElton Brand CHI 03/25/2001 CHI @ BOS L 40 20 9 16 56.3 0 0 - 2 4 50.0 3 6 9 4 2 2 3 2 -1
+p130
+aVDragan Tarlac CHI 03/25/2001 CHI @ BOS L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -1
+p131
+aVRon Mercer CHI 03/25/2001 CHI @ BOS L 44 29 14 19 73.7 1 1 100.0 0 0 - 3 3 6 6 1 0 7 6 -10
+p132
+aVBrad Miller CHI 03/25/2001 CHI @ BOS L 30 5 0 4 0.0 0 0 - 5 6 83.3 2 10 12 5 0 0 2 2 -7
+p133
+aVBryce Drew CHI 03/25/2001 CHI @ BOS L 31 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 4 0 0 3 4 -2
+p134
+aVMarcus Fizer CHI 03/25/2001 CHI @ BOS L 8 0 0 3 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 1 2 -2
+p135
+aVFred Hoiberg CHI 03/25/2001 CHI @ BOS L 25 9 3 6 50.0 1 3 33.3 2 2 100.0 0 5 5 2 1 0 0 5 2
+p136
+aVJamal Crawford CHI 03/25/2001 CHI @ BOS L 17 10 3 5 60.0 2 3 66.7 2 2 100.0 0 1 1 2 0 0 2 1 0
+p137
+aVMetta World Peace CHI 03/25/2001 CHI @ BOS L 35 15 6 12 50.0 0 1 0.0 3 4 75.0 2 4 6 4 3 1 1 2 1
+p138
+aVElton Brand CHI 03/23/2001 CHI vs. CHH W 47 26 12 22 54.5 0 0 - 2 2 100.0 2 6 8 5 0 1 4 3 4
+p139
+aVJamal Crawford CHI 03/23/2001 CHI vs. CHH W 28 11 4 7 57.1 2 2 100.0 1 2 50.0 0 3 3 6 0 0 1 2 5
+p140
+aVDalibor Bagaric CHI 03/23/2001 CHI vs. CHH W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p141
+aVMetta World Peace CHI 03/23/2001 CHI vs. CHH W 32 2 1 8 12.5 0 0 - 0 0 - 0 4 4 4 2 0 0 6 6
+p142
+aVRon Mercer CHI 03/23/2001 CHI vs. CHH W 51 30 13 22 59.1 0 1 0.0 4 4 100.0 2 4 6 1 1 0 1 3 5
+p143
+aVBryce Drew CHI 03/23/2001 CHI vs. CHH W 25 6 2 10 20.0 2 3 66.7 0 0 - 2 0 2 5 0 0 3 2 -2
+p144
+aVBrad Miller CHI 03/23/2001 CHI vs. CHH W 43 9 3 5 60.0 0 0 - 3 6 50.0 2 10 12 5 1 2 1 3 13
+p145
+aVFred Hoiberg CHI 03/23/2001 CHI vs. CHH W 23 5 2 5 40.0 1 2 50.0 0 0 - 0 6 6 3 1 0 2 5 -5
+p146
+aVDragan Tarlac CHI 03/23/2001 CHI vs. CHH W 12 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -7
+p147
+aVRon Mercer CHI 03/21/2001 CHI @ MIA L 32 13 5 10 50.0 0 0 - 3 4 75.0 0 2 2 2 1 0 1 2 -23
+p148
+aVFred Hoiberg CHI 03/21/2001 CHI @ MIA L 33 3 1 6 16.7 0 2 0.0 1 2 50.0 0 0 0 1 0 0 1 1 -26
+p149
+aVBrad Miller CHI 03/21/2001 CHI @ MIA L 28 13 5 9 55.6 0 0 - 3 4 75.0 3 3 6 0 2 1 3 3 -21
+p150
+aVJamal Crawford CHI 03/21/2001 CHI @ MIA L 27 17 5 10 50.0 1 1 100.0 6 7 85.7 0 3 3 3 0 0 2 2 -16
+p151
+aVCorey Benjamin CHI 03/21/2001 CHI @ MIA L 15 2 1 5 20.0 0 0 - 0 2 0.0 4 0 4 2 0 0 2 2 -7
+p152
+aVDalibor Bagaric CHI 03/21/2001 CHI @ MIA L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p153
+aVDragan Tarlac CHI 03/21/2001 CHI @ MIA L 22 4 0 2 0.0 0 0 - 4 4 100.0 1 4 5 1 0 0 2 3 -9
+p154
+aVA.J. Guyton CHI 03/21/2001 CHI @ MIA L 12 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 2 0 0 0 1 -1
+p155
+aVMarcus Fizer CHI 03/21/2001 CHI @ MIA L 34 9 3 8 37.5 0 0 - 3 4 75.0 0 7 7 0 1 1 2 1 -17
+p156
+aVMetta World Peace CHI 03/21/2001 CHI @ MIA L 27 13 5 9 55.6 1 3 33.3 2 2 100.0 0 3 3 5 3 0 3 3 -18
+p157
+aVFred Hoiberg CHI 03/20/2001 CHI vs. ORL L 39 19 7 10 70.0 3 4 75.0 2 2 100.0 0 3 3 5 0 0 2 0 -9
+p158
+aVRon Mercer CHI 03/20/2001 CHI vs. ORL L 41 18 7 17 41.2 0 0 - 4 4 100.0 3 2 5 10 1 1 3 3 -5
+p159
+aVMetta World Peace CHI 03/20/2001 CHI vs. ORL L 37 14 5 14 35.7 1 5 20.0 3 4 75.0 2 3 5 3 4 1 2 5 -7
+p160
+aVDragan Tarlac CHI 03/20/2001 CHI vs. ORL L 18 6 2 3 66.7 0 0 - 2 2 100.0 3 4 7 1 0 0 0 1 -2
+p161
+aVCorey Benjamin CHI 03/20/2001 CHI vs. ORL L 10 6 1 4 25.0 0 1 0.0 4 4 100.0 0 1 1 0 0 1 1 1 -1
+p162
+aVBrad Miller CHI 03/20/2001 CHI vs. ORL L 31 11 4 8 50.0 0 0 - 3 6 50.0 4 8 12 2 0 3 0 5 -11
+p163
+aVJamal Crawford CHI 03/20/2001 CHI vs. ORL L 18 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 5 1 0 1 3 -1
+p164
+aVDalibor Bagaric CHI 03/20/2001 CHI vs. ORL L 8 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 1 1 2 5
+p165
+aVMarcus Fizer CHI 03/20/2001 CHI vs. ORL L 39 18 9 16 56.3 0 0 - 0 0 - 2 6 8 3 1 0 8 4 -9
+p166
+aVA.J. Guyton CHI 03/17/2001 CHI @ NYK L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -6
+p167
+aVDragan Tarlac CHI 03/17/2001 CHI @ NYK L 20 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 4 -26
+p168
+aVDalibor Bagaric CHI 03/17/2001 CHI @ NYK L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p169
+aVRon Mercer CHI 03/17/2001 CHI @ NYK L 42 18 8 23 34.8 0 2 0.0 2 2 100.0 2 1 3 2 1 0 0 2 -27
+p170
+aVBrad Miller CHI 03/17/2001 CHI @ NYK L 37 15 5 9 55.6 0 0 - 5 8 62.5 7 9 16 2 1 0 1 2 -12
+p171
+aVCorey Benjamin CHI 03/17/2001 CHI @ NYK L 9 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -12
+p172
+aVJamal Crawford CHI 03/17/2001 CHI @ NYK L 20 5 2 10 20.0 1 4 25.0 0 0 - 0 0 0 2 0 0 2 1 -1
+p173
+aVFred Hoiberg CHI 03/17/2001 CHI @ NYK L 35 9 4 8 50.0 1 5 20.0 0 0 - 2 4 6 4 2 0 0 0 -13
+p174
+aVMarcus Fizer CHI 03/17/2001 CHI @ NYK L 32 14 6 12 50.0 0 0 - 2 2 100.0 1 2 3 2 3 2 1 2 3
+p175
+aVMetta World Peace CHI 03/17/2001 CHI @ NYK L 38 16 5 18 27.8 2 4 50.0 4 7 57.1 2 1 3 3 6 0 4 5 -10
+p176
+aVMarcus Fizer CHI 03/16/2001 CHI vs. SEA L 38 25 12 24 50.0 0 1 0.0 1 1 100.0 5 5 10 0 0 0 1 1 -7
+p177
+aVJamal Crawford CHI 03/16/2001 CHI vs. SEA L 20 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 1 1 0 2 0 -9
+p178
+aVDalibor Bagaric CHI 03/16/2001 CHI vs. SEA L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 3 4 -7
+p179
+aVBryce Drew CHI 03/16/2001 CHI vs. SEA L 23 7 3 6 50.0 1 4 25.0 0 0 - 0 0 0 3 1 0 0 2 -5
+p180
+aVFred Hoiberg CHI 03/16/2001 CHI vs. SEA L 36 7 3 9 33.3 1 6 16.7 0 0 - 1 4 5 9 3 0 2 1 -2
+p181
+aVRon Mercer CHI 03/16/2001 CHI vs. SEA L 43 12 6 14 42.9 0 0 - 0 0 - 2 2 4 1 1 2 1 4 -10
+p182
+aVBrad Miller CHI 03/16/2001 CHI vs. SEA L 35 9 4 12 33.3 0 0 - 1 2 50.0 5 9 14 4 2 0 2 5 -3
+p183
+aVCorey Benjamin CHI 03/16/2001 CHI vs. SEA L 22 13 6 11 54.5 1 3 33.3 0 2 0.0 2 1 3 3 1 0 0 1 -4
+p184
+aVDragan Tarlac CHI 03/16/2001 CHI vs. SEA L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 0 2 -3
+p185
+aVFred Hoiberg CHI 03/14/2001 CHI vs. PHI L 37 7 2 8 25.0 1 3 33.3 2 2 100.0 0 7 7 3 2 0 0 3 -24
+p186
+aVJamal Crawford CHI 03/14/2001 CHI vs. PHI L 34 11 5 13 38.5 1 6 16.7 0 1 0.0 0 2 2 6 1 0 3 1 -13
+p187
+aVRon Mercer CHI 03/14/2001 CHI vs. PHI L 34 16 8 20 40.0 0 0 - 0 0 - 3 1 4 2 0 0 0 2 -14
+p188
+aVElton Brand CHI 03/14/2001 CHI vs. PHI L 9 0 0 5 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 2 -12
+p189
+aVDalibor Bagaric CHI 03/14/2001 CHI vs. PHI L 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -1
+p190
+aVCorey Benjamin CHI 03/14/2001 CHI vs. PHI L 20 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 2 1 0 2 0 -2
+p191
+aVMichael Ruffin CHI 03/14/2001 CHI vs. PHI L 20 0 0 1 0.0 0 0 - 0 0 - 3 2 5 1 1 4 2 3 0
+p192
+aVBrad Miller CHI 03/14/2001 CHI vs. PHI L 33 11 5 11 45.5 0 0 - 1 2 50.0 9 5 14 1 0 0 3 2 -12
+p193
+aVMarcus Fizer CHI 03/14/2001 CHI vs. PHI L 29 18 8 13 61.5 0 0 - 2 3 66.7 0 3 3 0 0 0 3 4 -9
+p194
+aVA.J. Guyton CHI 03/14/2001 CHI vs. PHI L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 1 -3
+p195
+aVFred Hoiberg CHI 03/12/2001 CHI @ CHH L 24 3 1 3 33.3 1 1 100.0 0 0 - 0 5 5 2 2 0 0 0 17
+p196
+aVBrad Miller CHI 03/12/2001 CHI @ CHH L 41 22 9 16 56.3 0 0 - 4 4 100.0 5 10 15 1 0 1 0 4 -4
+p197
+aVMichael Ruffin CHI 03/12/2001 CHI @ CHH L 16 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 2 0 0 1 4 5
+p198
+aVBryce Drew CHI 03/12/2001 CHI @ CHH L 27 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 5 1 0 0 2 -7
+p199
+aVElton Brand CHI 03/12/2001 CHI @ CHH L 40 18 6 19 31.6 0 0 - 6 7 85.7 2 3 5 6 0 0 6 5 -17
+p200
+aVMetta World Peace CHI 03/12/2001 CHI @ CHH L 30 12 5 10 50.0 1 3 33.3 1 2 50.0 0 3 3 1 0 0 0 1 -28
+p201
+aVCorey Benjamin CHI 03/12/2001 CHI @ CHH L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p202
+aVRon Mercer CHI 03/12/2001 CHI @ CHH L 37 20 9 14 64.3 0 0 - 2 3 66.7 1 3 4 5 0 0 1 3 -11
+p203
+aVJamal Crawford CHI 03/12/2001 CHI @ CHH L 21 8 2 6 33.3 2 3 66.7 2 2 100.0 0 1 1 4 0 0 0 0 -1
+p204
+aVBryce Drew CHI 03/10/2001 CHI @ ATL L 34 7 3 5 60.0 1 3 33.3 0 0 - 0 3 3 3 2 0 3 0 1
+p205
+aVBrad Miller CHI 03/10/2001 CHI @ ATL L 11 8 3 7 42.9 0 0 - 2 3 66.7 4 3 7 0 0 0 2 2 0
+p206
+aVFred Hoiberg CHI 03/10/2001 CHI @ ATL L 43 15 6 15 40.0 2 5 40.0 1 1 100.0 0 7 7 4 3 1 1 4 1
+p207
+aVMarcus Fizer CHI 03/10/2001 CHI @ ATL L 9 5 1 5 20.0 0 0 - 3 4 75.0 1 1 2 1 0 0 1 2 4
+p208
+aVMichael Ruffin CHI 03/10/2001 CHI @ ATL L 38 7 3 5 60.0 0 0 - 1 2 50.0 3 9 12 0 2 3 1 1 -9
+p209
+aVMetta World Peace CHI 03/10/2001 CHI @ ATL L 44 20 7 18 38.9 2 4 50.0 4 4 100.0 3 6 9 6 0 2 3 4 5
+p210
+aVCorey Benjamin CHI 03/10/2001 CHI @ ATL L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 1 -12
+p211
+aVElton Brand CHI 03/10/2001 CHI @ ATL L 38 20 9 21 42.9 0 0 - 2 6 33.3 3 4 7 4 1 0 3 3 -1
+p212
+aVJamal Crawford CHI 03/10/2001 CHI @ ATL L 14 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 2 1 0 2 0 -4
+p213
+aVJamal Crawford CHI 03/09/2001 CHI @ DET L 23 8 4 7 57.1 0 0 - 0 0 - 0 1 1 3 4 1 1 0 -15
+p214
+aVDalibor Bagaric CHI 03/09/2001 CHI @ DET L 16 4 1 4 25.0 0 0 - 2 6 33.3 3 3 6 0 0 0 2 2 -10
+p215
+aVMarcus Fizer CHI 03/09/2001 CHI @ DET L 29 11 4 14 28.6 0 1 0.0 3 3 100.0 0 4 4 1 0 0 0 2 -19
+p216
+aVElton Brand CHI 03/09/2001 CHI @ DET L 29 15 7 15 46.7 0 0 - 1 4 25.0 1 4 5 3 0 0 2 3 -23
+p217
+aVMetta World Peace CHI 03/09/2001 CHI @ DET L 30 16 6 11 54.5 2 2 100.0 2 4 50.0 2 2 4 0 3 0 1 3 -28
+p218
+aVMichael Ruffin CHI 03/09/2001 CHI @ DET L 8 1 0 2 0.0 0 0 - 1 2 50.0 2 3 5 0 2 1 3 2 -1
+p219
+aVBrad Miller CHI 03/09/2001 CHI @ DET L 22 2 0 7 0.0 0 0 - 2 4 50.0 2 8 10 4 1 0 2 2 -14
+p220
+aVA.J. Guyton CHI 03/09/2001 CHI @ DET L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -8
+p221
+aVFred Hoiberg CHI 03/09/2001 CHI @ DET L 29 11 5 8 62.5 1 3 33.3 0 0 - 0 3 3 4 2 0 0 1 -23
+p222
+aVBryce Drew CHI 03/09/2001 CHI @ DET L 26 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 2 0 0 2 1 -23
+p223
+aVCorey Benjamin CHI 03/09/2001 CHI @ DET L 14 2 0 6 0.0 0 2 0.0 2 2 100.0 3 1 4 0 1 1 2 2 -1
+p224
+aVDalibor Bagaric CHI 03/06/2001 CHI vs. CLE W 10 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 1 1 0 0 8
+p225
+aVA.J. Guyton CHI 03/06/2001 CHI vs. CLE W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p226
+aVMichael Ruffin CHI 03/06/2001 CHI vs. CLE W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 3 0 -2
+p227
+aVCorey Benjamin CHI 03/06/2001 CHI vs. CLE W 17 8 3 10 30.0 0 1 0.0 2 3 66.7 3 0 3 3 1 0 0 1 7
+p228
+aVMetta World Peace CHI 03/06/2001 CHI vs. CLE W 38 14 7 15 46.7 0 2 0.0 0 0 - 0 9 9 4 7 0 1 4 7
+p229
+aVFred Hoiberg CHI 03/06/2001 CHI vs. CLE W 37 12 4 8 50.0 2 4 50.0 2 2 100.0 0 2 2 4 1 0 3 3 11
+p230
+aVElton Brand CHI 03/06/2001 CHI vs. CLE W 33 14 6 15 40.0 0 0 - 2 5 40.0 4 8 12 1 0 3 3 2 5
+p231
+aVBryce Drew CHI 03/06/2001 CHI vs. CLE W 28 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 2 1 2 1 1 11
+p232
+aVJamal Crawford CHI 03/06/2001 CHI vs. CLE W 20 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 0 0 2 2 2
+p233
+aVBrad Miller CHI 03/06/2001 CHI vs. CLE W 25 13 5 9 55.6 0 0 - 3 3 100.0 2 5 7 5 0 0 0 2 4
+p234
+aVMarcus Fizer CHI 03/06/2001 CHI vs. CLE W 25 17 6 12 50.0 1 1 100.0 4 4 100.0 0 4 4 1 0 1 0 1 14
+p235
+aVFred Hoiberg CHI 03/03/2001 CHI @ MIL L 52 28 9 14 64.3 4 9 44.4 6 6 100.0 0 4 4 13 2 0 0 4 -5
+p236
+aVMetta World Peace CHI 03/03/2001 CHI @ MIL L 51 16 6 17 35.3 0 2 0.0 4 6 66.7 2 3 5 5 2 0 3 2 -5
+p237
+aVElton Brand CHI 03/03/2001 CHI @ MIL L 50 31 11 18 61.1 0 0 - 9 11 81.8 1 8 9 5 0 0 4 5 -2
+p238
+aVMarcus Fizer CHI 03/03/2001 CHI @ MIL L 21 16 7 12 58.3 0 0 - 2 2 100.0 1 3 4 1 0 0 1 3 -3
+p239
+aVA.J. Guyton CHI 03/03/2001 CHI @ MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p240
+aVBrad Miller CHI 03/03/2001 CHI @ MIL L 39 14 6 11 54.5 0 0 - 2 4 50.0 4 4 8 5 1 1 3 6 10
+p241
+aVBryce Drew CHI 03/03/2001 CHI @ MIL L 43 11 5 7 71.4 1 1 100.0 0 0 - 0 2 2 3 1 0 2 3 -6
+p242
+aVJamal Crawford CHI 03/03/2001 CHI @ MIL L 15 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 0 2
+p243
+aVMichael Ruffin CHI 03/03/2001 CHI @ MIL L 6 0 0 0 - 0 0 - 0 2 0.0 2 1 3 1 0 0 0 1 -11
+p244
+aVCorey Benjamin CHI 03/03/2001 CHI @ MIL L 14 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 3 1
+p245
+aVBryce Drew CHI 03/02/2001 CHI vs. NYK W 31 15 5 9 55.6 2 4 50.0 3 3 100.0 0 2 2 0 0 0 0 1 13
+p246
+aVBrad Miller CHI 03/02/2001 CHI vs. NYK W 37 10 4 6 66.7 0 0 - 2 3 66.7 1 8 9 3 2 0 1 1 9
+p247
+aVElton Brand CHI 03/02/2001 CHI vs. NYK W 40 21 9 19 47.4 0 0 - 3 4 75.0 3 8 11 6 0 1 3 1 3
+p248
+aVMetta World Peace CHI 03/02/2001 CHI vs. NYK W 35 8 3 11 27.3 0 1 0.0 2 2 100.0 2 1 3 2 3 0 2 4 4
+p249
+aVFred Hoiberg CHI 03/02/2001 CHI vs. NYK W 40 8 3 11 27.3 1 6 16.7 1 2 50.0 0 6 6 12 1 1 0 3 13
+p250
+aVCorey Benjamin CHI 03/02/2001 CHI vs. NYK W 21 13 4 6 66.7 1 1 100.0 4 4 100.0 0 6 6 0 0 1 3 3 1
+p251
+aVMarcus Fizer CHI 03/02/2001 CHI vs. NYK W 11 0 0 4 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 1 1 0
+p252
+aVMichael Ruffin CHI 03/02/2001 CHI vs. NYK W 8 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 2 1 0 0 2 6
+p253
+aVJamal Crawford CHI 03/02/2001 CHI vs. NYK W 17 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -4
+p254
+aVFred Hoiberg CHI 02/28/2001 CHI vs. HOU L 37 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 5 1 0 1 4 -12
+p255
+aVBryce Drew CHI 02/28/2001 CHI vs. HOU L 33 9 3 10 30.0 3 3 100.0 0 0 - 0 1 1 8 0 0 1 3 -9
+p256
+aVMarcus Fizer CHI 02/28/2001 CHI vs. HOU L 13 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 3 -7
+p257
+aVCorey Benjamin CHI 02/28/2001 CHI vs. HOU L 21 6 3 11 27.3 0 1 0.0 0 0 - 1 3 4 0 0 0 3 3 -11
+p258
+aVMetta World Peace CHI 02/28/2001 CHI vs. HOU L 35 13 6 14 42.9 0 4 0.0 1 2 50.0 0 7 7 4 3 0 3 1 -14
+p259
+aVBrad Miller CHI 02/28/2001 CHI vs. HOU L 30 12 4 10 40.0 0 0 - 4 4 100.0 4 6 10 2 1 1 0 3 -7
+p260
+aVJamal Crawford CHI 02/28/2001 CHI vs. HOU L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 3 1 0 1 2 -5
+p261
+aVDragan Tarlac CHI 02/28/2001 CHI vs. HOU L 4 2 1 4 25.0 0 0 - 0 0 - 3 0 3 1 0 1 0 0 1
+p262
+aVElton Brand CHI 02/28/2001 CHI vs. HOU L 33 21 10 22 45.5 0 0 - 1 2 50.0 1 4 5 3 1 2 2 2 -14
+p263
+aVA.J. Guyton CHI 02/28/2001 CHI vs. HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 0
+p264
+aVDalibor Bagaric CHI 02/28/2001 CHI vs. HOU L 16 2 1 5 20.0 0 0 - 0 0 - 3 5 8 0 0 2 1 2 -7
+p265
+aVFred Hoiberg CHI 02/26/2001 CHI vs. GSW L 42 18 5 8 62.5 3 5 60.0 5 6 83.3 0 10 10 4 4 0 2 1 -5
+p266
+aVElton Brand CHI 02/26/2001 CHI vs. GSW L 41 24 10 19 52.6 0 0 - 4 8 50.0 6 6 12 1 0 1 1 3 -7
+p267
+aVCorey Benjamin CHI 02/26/2001 CHI vs. GSW L 8 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 4 3 -5
+p268
+aVDalibor Bagaric CHI 02/26/2001 CHI vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p269
+aVJamal Crawford CHI 02/26/2001 CHI vs. GSW L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 -12
+p270
+aVDragan Tarlac CHI 02/26/2001 CHI vs. GSW L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p271
+aVMarcus Fizer CHI 02/26/2001 CHI vs. GSW L 21 11 5 11 45.5 0 0 - 1 2 50.0 0 2 2 2 0 1 1 2 1
+p272
+aVBryce Drew CHI 02/26/2001 CHI vs. GSW L 28 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 2 2 -4
+p273
+aVBrad Miller CHI 02/26/2001 CHI vs. GSW L 23 11 4 8 50.0 0 0 - 3 5 60.0 4 7 11 2 0 3 0 0 3
+p274
+aVKhalid El-Amin CHI 02/26/2001 CHI vs. GSW L 13 0 0 7 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 4 5
+p275
+aVMetta World Peace CHI 02/26/2001 CHI vs. GSW L 42 8 3 14 21.4 0 1 0.0 2 4 50.0 1 4 5 5 7 1 7 3 3
+p276
+aVBryce Drew CHI 02/24/2001 CHI vs. VAN W 36 4 2 7 28.6 0 2 0.0 0 0 - 1 1 2 9 1 1 2 1 22
+p277
+aVCorey Benjamin CHI 02/24/2001 CHI vs. VAN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p278
+aVMetta World Peace CHI 02/24/2001 CHI vs. VAN W 40 19 7 14 50.0 1 1 100.0 4 6 66.7 2 4 6 7 8 0 1 1 13
+p279
+aVFred Hoiberg CHI 02/24/2001 CHI vs. VAN W 35 14 5 10 50.0 2 6 33.3 2 2 100.0 0 5 5 0 4 0 1 3 20
+p280
+aVBrad Miller CHI 02/24/2001 CHI vs. VAN W 32 12 3 12 25.0 0 0 - 6 6 100.0 5 7 12 1 0 1 1 4 13
+p281
+aVRon Mercer CHI 02/24/2001 CHI vs. VAN W 14 2 1 5 20.0 0 0 - 0 0 - 0 0 0 4 1 0 1 0 5
+p282
+aVMarcus Fizer CHI 02/24/2001 CHI vs. VAN W 27 13 5 11 45.5 0 0 - 3 6 50.0 2 1 3 2 0 2 5 3 -2
+p283
+aVElton Brand CHI 02/24/2001 CHI vs. VAN W 37 22 8 15 53.3 0 0 - 6 9 66.7 4 8 12 1 2 1 6 4 19
+p284
+aVJamal Crawford CHI 02/24/2001 CHI vs. VAN W 12 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -7
+p285
+aVBrad Miller CHI 02/22/2001 CHI vs. LAC L 26 7 0 5 0.0 0 0 - 7 10 70.0 3 6 9 2 1 3 2 3 -9
+p286
+aVDragan Tarlac CHI 02/22/2001 CHI vs. LAC L 2 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 2
+p287
+aVJamal Crawford CHI 02/22/2001 CHI vs. LAC L 17 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 3 0 0 0 1 -7
+p288
+aVCorey Benjamin CHI 02/22/2001 CHI vs. LAC L 32 17 8 15 53.3 1 3 33.3 0 0 - 1 3 4 0 1 0 3 3 1
+p289
+aVMarcus Fizer CHI 02/22/2001 CHI vs. LAC L 23 8 2 9 22.2 0 1 0.0 4 4 100.0 2 4 6 3 0 0 1 1 -7
+p290
+aVElton Brand CHI 02/22/2001 CHI vs. LAC L 38 17 7 21 33.3 0 0 - 3 4 75.0 10 6 16 2 1 1 3 3 -18
+p291
+aVBryce Drew CHI 02/22/2001 CHI vs. LAC L 39 0 0 10 0.0 0 3 0.0 0 0 - 0 0 0 5 3 0 1 1 -11
+p292
+aVFred Hoiberg CHI 02/22/2001 CHI vs. LAC L 40 22 5 11 45.5 4 6 66.7 8 8 100.0 1 3 4 5 0 0 0 3 -13
+p293
+aVKhalid El-Amin CHI 02/22/2001 CHI vs. LAC L 17 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 1 -9
+p294
+aVDalibor Bagaric CHI 02/22/2001 CHI vs. LAC L 7 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 0 0 0 0 2 6
+p295
+aVJamal Crawford CHI 02/20/2001 CHI vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -8
+p296
+aVKhalid El-Amin CHI 02/20/2001 CHI vs. MIL L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p297
+aVDalibor Bagaric CHI 02/20/2001 CHI vs. MIL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p298
+aVCorey Benjamin CHI 02/20/2001 CHI vs. MIL L 26 10 4 10 40.0 0 3 0.0 2 3 66.7 1 4 5 6 3 0 2 4 -7
+p299
+aVMetta World Peace CHI 02/20/2001 CHI vs. MIL L 23 4 1 9 11.1 0 3 0.0 2 2 100.0 0 1 1 4 0 0 2 4 2
+p300
+aVBrad Miller CHI 02/20/2001 CHI vs. MIL L 28 20 8 13 61.5 0 0 - 4 5 80.0 2 6 8 3 0 0 1 2 7
+p301
+aVMarcus Fizer CHI 02/20/2001 CHI vs. MIL L 19 15 7 10 70.0 0 0 - 1 2 50.0 1 4 5 0 0 1 1 2 -14
+p302
+aVElton Brand CHI 02/20/2001 CHI vs. MIL L 43 22 10 23 43.5 0 0 - 2 4 50.0 7 14 21 3 0 2 3 3 -9
+p303
+aVFred Hoiberg CHI 02/20/2001 CHI vs. MIL L 39 8 3 9 33.3 0 4 0.0 2 2 100.0 0 2 2 7 0 0 0 2 -6
+p304
+aVBryce Drew CHI 02/20/2001 CHI vs. MIL L 43 13 5 9 55.6 1 3 33.3 2 2 100.0 0 1 1 6 2 0 2 4 -7
+p305
+aVElton Brand CHI 02/19/2001 CHI @ CLE L 42 15 6 17 35.3 0 0 - 3 4 75.0 6 9 15 5 1 1 1 2 2
+p306
+aVFred Hoiberg CHI 02/19/2001 CHI @ CLE L 38 20 5 15 33.3 4 8 50.0 6 6 100.0 0 5 5 3 2 0 2 3 -5
+p307
+aVMetta World Peace CHI 02/19/2001 CHI @ CLE L 39 11 5 11 45.5 1 1 100.0 0 0 - 0 2 2 6 1 3 1 4 11
+p308
+aVCorey Benjamin CHI 02/19/2001 CHI @ CLE L 14 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 1 0 2 0
+p309
+aVBrad Miller CHI 02/19/2001 CHI @ CLE L 31 12 4 7 57.1 0 0 - 4 7 57.1 2 6 8 0 1 2 2 4 8
+p310
+aVMarcus Fizer CHI 02/19/2001 CHI @ CLE L 23 14 6 11 54.5 1 3 33.3 1 1 100.0 0 6 6 0 0 0 2 2 -12
+p311
+aVKhalid El-Amin CHI 02/19/2001 CHI @ CLE L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 3 -13
+p312
+aVBryce Drew CHI 02/19/2001 CHI @ CLE L 38 10 4 10 40.0 2 7 28.6 0 0 - 0 2 2 8 0 0 2 2 4
+p313
+aVMarcus Fizer CHI 02/17/2001 CHI vs. MIA W 22 8 4 8 50.0 0 1 0.0 0 0 - 3 8 11 2 1 0 5 4 14
+p314
+aVDalibor Bagaric CHI 02/17/2001 CHI vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p315
+aVMetta World Peace CHI 02/17/2001 CHI vs. MIA W 29 16 6 11 54.5 0 2 0.0 4 6 66.7 1 5 6 3 0 1 3 2 -6
+p316
+aVRon Mercer CHI 02/17/2001 CHI vs. MIA W 44 27 11 17 64.7 0 0 - 5 5 100.0 0 4 4 6 1 0 2 1 -1
+p317
+aVFred Hoiberg CHI 02/17/2001 CHI vs. MIA W 19 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 3 0 1 0 0 13
+p318
+aVKhalid El-Amin CHI 02/17/2001 CHI vs. MIA W 22 11 2 5 40.0 1 3 33.3 6 8 75.0 0 3 3 3 2 0 1 0 15
+p319
+aVBrad Miller CHI 02/17/2001 CHI vs. MIA W 26 6 3 7 42.9 0 0 - 0 1 0.0 3 1 4 1 1 3 3 6 -4
+p320
+aVElton Brand CHI 02/17/2001 CHI vs. MIA W 46 17 6 17 35.3 0 0 - 5 8 62.5 4 10 14 8 2 3 2 2 3
+p321
+aVBryce Drew CHI 02/17/2001 CHI vs. MIA W 30 4 2 4 50.0 0 0 - 0 0 - 0 2 2 5 1 0 2 2 0
+p322
+aVBryce Drew CHI 02/13/2001 CHI vs. ATL W 32 10 4 9 44.4 2 5 40.0 0 0 - 1 4 5 9 1 0 1 2 8
+p323
+aVMetta World Peace CHI 02/13/2001 CHI vs. ATL W 38 17 6 16 37.5 1 3 33.3 4 6 66.7 0 5 5 6 3 2 1 3 10
+p324
+aVKhalid El-Amin CHI 02/13/2001 CHI vs. ATL W 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 0 0 2 1 -4
+p325
+aVDalibor Bagaric CHI 02/13/2001 CHI vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 3 1
+p326
+aVRon Mercer CHI 02/13/2001 CHI vs. ATL W 42 19 9 17 52.9 0 1 0.0 1 2 50.0 1 3 4 4 0 0 2 4 4
+p327
+aVFred Hoiberg CHI 02/13/2001 CHI vs. ATL W 16 10 3 3 100.0 2 2 100.0 2 2 100.0 0 3 3 1 1 0 0 2 -6
+p328
+aVMarcus Fizer CHI 02/13/2001 CHI vs. ATL W 27 19 7 12 58.3 0 1 0.0 5 8 62.5 0 8 8 0 0 1 4 3 -5
+p329
+aVElton Brand CHI 02/13/2001 CHI vs. ATL W 39 17 6 19 31.6 0 0 - 5 5 100.0 7 8 15 7 0 4 4 2 6
+p330
+aVBrad Miller CHI 02/13/2001 CHI vs. ATL W 26 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 0 0 1 4 6
+p331
+aVCorey Benjamin CHI 02/06/2001 CHI @ PHX L 14 3 1 4 25.0 0 1 0.0 1 1 100.0 0 1 1 0 1 0 1 2 -1
+p332
+aVRon Mercer CHI 02/06/2001 CHI @ PHX L 38 15 6 14 42.9 0 0 - 3 4 75.0 0 3 3 2 1 1 3 1 -17
+p333
+aVJamal Crawford CHI 02/06/2001 CHI @ PHX L 23 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 3 2 0 2 0 -2
+p334
+aVDalibor Bagaric CHI 02/06/2001 CHI @ PHX L 15 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 2 2 2 4 -8
+p335
+aVFred Hoiberg CHI 02/06/2001 CHI @ PHX L 22 9 2 4 50.0 2 4 50.0 3 3 100.0 0 6 6 1 1 0 2 0 -10
+p336
+aVKhalid El-Amin CHI 02/06/2001 CHI @ PHX L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 0 2
+p337
+aVMarcus Fizer CHI 02/06/2001 CHI @ PHX L 38 16 6 13 46.2 0 0 - 4 5 80.0 3 10 13 1 0 0 4 3 -12
+p338
+aVBryce Drew CHI 02/06/2001 CHI @ PHX L 25 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 6 0 0 1 2 -15
+p339
+aVBrad Miller CHI 02/06/2001 CHI @ PHX L 19 2 1 6 16.7 0 0 - 0 2 0.0 2 2 4 2 0 0 1 1 -6
+p340
+aVDragan Tarlac CHI 02/06/2001 CHI @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p341
+aVMetta World Peace CHI 02/06/2001 CHI @ PHX L 32 18 6 12 50.0 1 1 100.0 5 6 83.3 0 2 2 2 1 0 3 6 -13
+p342
+aVRon Mercer CHI 02/05/2001 CHI @ LAC L 41 15 7 21 33.3 0 0 - 1 1 100.0 1 3 4 3 0 0 1 1 -5
+p343
+aVMetta World Peace CHI 02/05/2001 CHI @ LAC L 33 9 3 10 30.0 1 3 33.3 2 2 100.0 1 3 4 2 3 0 2 3 -16
+p344
+aVDalibor Bagaric CHI 02/05/2001 CHI @ LAC L 8 3 1 4 25.0 0 0 - 1 1 100.0 2 1 3 0 0 0 0 0 3
+p345
+aVBrad Miller CHI 02/05/2001 CHI @ LAC L 25 8 1 4 25.0 0 0 - 6 6 100.0 2 4 6 2 2 0 0 1 -2
+p346
+aVMarcus Fizer CHI 02/05/2001 CHI @ LAC L 16 9 3 9 33.3 0 0 - 3 4 75.0 1 0 1 0 1 0 1 3 -14
+p347
+aVFred Hoiberg CHI 02/05/2001 CHI @ LAC L 22 7 2 5 40.0 1 3 33.3 2 2 100.0 1 1 2 1 1 0 1 1 -23
+p348
+aVCorey Benjamin CHI 02/05/2001 CHI @ LAC L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 1
+p349
+aVBryce Drew CHI 02/05/2001 CHI @ LAC L 28 5 2 8 25.0 0 3 0.0 1 2 50.0 0 2 2 2 1 0 3 1 -9
+p350
+aVElton Brand CHI 02/05/2001 CHI @ LAC L 42 18 8 18 44.4 0 0 - 2 4 50.0 8 7 15 1 3 4 3 3 -23
+p351
+aVKhalid El-Amin CHI 02/05/2001 CHI @ LAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p352
+aVJamal Crawford CHI 02/05/2001 CHI @ LAC L 20 6 2 6 33.3 1 1 100.0 1 1 100.0 1 1 2 2 2 0 1 2 -11
+p353
+aVBryce Drew CHI 02/03/2001 CHI @ VAN L 24 11 5 10 50.0 1 2 50.0 0 0 - 0 1 1 1 2 0 2 1 -6
+p354
+aVBrad Miller CHI 02/03/2001 CHI @ VAN L 28 8 4 8 50.0 0 0 - 0 0 - 3 7 10 1 3 0 1 1 0
+p355
+aVDalibor Bagaric CHI 02/03/2001 CHI @ VAN L 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -2
+p356
+aVJamal Crawford CHI 02/03/2001 CHI @ VAN L 21 0 0 4 0.0 0 4 0.0 0 0 - 0 0 0 2 0 0 2 2 3
+p357
+aVMarcus Fizer CHI 02/03/2001 CHI @ VAN L 25 26 10 14 71.4 0 1 0.0 6 6 100.0 2 3 5 0 0 0 4 5 2
+p358
+aVElton Brand CHI 02/03/2001 CHI @ VAN L 42 14 6 12 50.0 0 0 - 2 6 33.3 7 8 15 3 1 3 1 0 -14
+p359
+aVRon Mercer CHI 02/03/2001 CHI @ VAN L 48 17 7 22 31.8 0 4 0.0 3 3 100.0 3 3 6 8 1 0 0 3 -7
+p360
+aVKhalid El-Amin CHI 02/03/2001 CHI @ VAN L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p361
+aVMetta World Peace CHI 02/03/2001 CHI @ VAN L 22 6 2 10 20.0 0 4 0.0 2 2 100.0 0 3 3 4 0 0 2 3 -6
+p362
+aVFred Hoiberg CHI 02/03/2001 CHI @ VAN L 26 2 1 4 25.0 0 2 0.0 0 0 - 3 2 5 3 0 0 1 3 -1
+p363
+aVFred Hoiberg CHI 02/01/2001 CHI @ SEA L 27 7 3 8 37.5 1 4 25.0 0 0 - 0 1 1 2 1 1 0 1 -11
+p364
+aVJamal Crawford CHI 02/01/2001 CHI @ SEA L 22 6 2 5 40.0 2 3 66.7 0 0 - 0 4 4 4 1 0 3 1 5
+p365
+aVBryce Drew CHI 02/01/2001 CHI @ SEA L 26 2 1 6 16.7 0 0 - 0 0 - 0 1 1 5 3 0 3 2 -11
+p366
+aVElton Brand CHI 02/01/2001 CHI @ SEA L 38 19 6 11 54.5 0 0 - 7 9 77.8 2 7 9 5 1 4 5 4 -8
+p367
+aVMarcus Fizer CHI 02/01/2001 CHI @ SEA L 10 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 2
+p368
+aVBrad Miller CHI 02/01/2001 CHI @ SEA L 37 6 1 3 33.3 0 0 - 4 4 100.0 2 8 10 3 3 0 4 5 -5
+p369
+aVMetta World Peace CHI 02/01/2001 CHI @ SEA L 27 13 4 6 66.7 3 3 100.0 2 3 66.7 0 1 1 2 0 1 1 3 11
+p370
+aVDalibor Bagaric CHI 02/01/2001 CHI @ SEA L 11 4 2 2 100.0 0 0 - 0 0 - 1 1 2 3 1 1 2 4 -1
+p371
+aVRon Mercer CHI 02/01/2001 CHI @ SEA L 42 30 14 24 58.3 1 1 100.0 1 2 50.0 0 4 4 1 0 0 3 1 -12
+p372
+aVRon Mercer CHI 01/30/2001 CHI @ POR L 45 22 8 20 40.0 2 3 66.7 4 4 100.0 1 3 4 3 4 0 1 0 -14
+p373
+aVJamal Crawford CHI 01/30/2001 CHI @ POR L 23 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 4 1 0 3 1 -8
+p374
+aVBryce Drew CHI 01/30/2001 CHI @ POR L 25 4 2 7 28.6 0 0 - 0 0 - 0 3 3 3 1 0 1 4 -3
+p375
+aVMetta World Peace CHI 01/30/2001 CHI @ POR L 16 9 4 5 80.0 0 0 - 1 2 50.0 0 2 2 0 0 2 1 4 -6
+p376
+aVElton Brand CHI 01/30/2001 CHI @ POR L 44 18 9 24 37.5 0 0 - 0 0 - 8 4 12 6 0 1 7 3 -12
+p377
+aVCorey Benjamin CHI 01/30/2001 CHI @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p378
+aVFred Hoiberg CHI 01/30/2001 CHI @ POR L 39 11 4 7 57.1 3 5 60.0 0 0 - 0 1 1 5 2 0 1 1 -1
+p379
+aVDalibor Bagaric CHI 01/30/2001 CHI @ POR L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p380
+aVBrad Miller CHI 01/30/2001 CHI @ POR L 40 12 6 13 46.2 0 0 - 0 0 - 2 10 12 5 0 0 2 4 -4
+p381
+aVMetta World Peace CHI 01/27/2001 CHI vs. TOR L 32 13 4 9 44.4 0 1 0.0 5 6 83.3 0 3 3 1 2 0 3 3 -2
+p382
+aVMarcus Fizer CHI 01/27/2001 CHI vs. TOR L 22 6 3 6 50.0 0 0 - 0 0 - 0 6 6 1 0 0 1 2 -3
+p383
+aVBrad Miller CHI 01/27/2001 CHI vs. TOR L 23 2 1 6 16.7 0 1 0.0 0 0 - 3 3 6 3 0 0 1 3 0
+p384
+aVFred Hoiberg CHI 01/27/2001 CHI vs. TOR L 36 8 3 8 37.5 2 3 66.7 0 0 - 0 5 5 8 1 0 4 3 -16
+p385
+aVElton Brand CHI 01/27/2001 CHI vs. TOR L 44 19 6 13 46.2 0 0 - 7 8 87.5 2 7 9 1 3 4 5 5 -12
+p386
+aVJamal Crawford CHI 01/27/2001 CHI vs. TOR L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -3
+p387
+aVRon Mercer CHI 01/27/2001 CHI vs. TOR L 48 23 9 16 56.3 0 0 - 5 6 83.3 0 3 3 3 0 0 1 1 -10
+p388
+aVKhalid El-Amin CHI 01/27/2001 CHI vs. TOR L 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 3 0 0 0 0 3
+p389
+aVBryce Drew CHI 01/27/2001 CHI vs. TOR L 18 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 3 1 0 1 1 -7
+p390
+aVRon Mercer CHI 01/24/2001 CHI @ CLE L 45 11 5 20 25.0 0 2 0.0 1 2 50.0 2 1 3 3 4 0 4 2 -5
+p391
+aVCorey Benjamin CHI 01/24/2001 CHI @ CLE L 12 4 1 2 50.0 0 1 0.0 2 4 50.0 0 2 2 1 0 1 0 6 13
+p392
+aVKhalid El-Amin CHI 01/24/2001 CHI @ CLE L 26 17 7 12 58.3 3 5 60.0 0 0 - 0 0 0 2 2 0 2 5 -3
+p393
+aVMarcus Fizer CHI 01/24/2001 CHI @ CLE L 27 12 5 9 55.6 0 1 0.0 2 2 100.0 1 7 8 2 1 1 0 2 1
+p394
+aVBrad Miller CHI 01/24/2001 CHI @ CLE L 23 7 2 9 22.2 0 0 - 3 4 75.0 4 2 6 0 1 0 0 3 -14
+p395
+aVFred Hoiberg CHI 01/24/2001 CHI @ CLE L 30 6 2 5 40.0 1 4 25.0 1 1 100.0 0 6 6 0 1 1 3 4 -15
+p396
+aVBryce Drew CHI 01/24/2001 CHI @ CLE L 22 3 1 9 11.1 0 1 0.0 1 2 50.0 1 1 2 5 1 0 2 0 -5
+p397
+aVJamal Crawford CHI 01/24/2001 CHI @ CLE L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 1 1 0 -4
+p398
+aVElton Brand CHI 01/24/2001 CHI @ CLE L 39 22 8 20 40.0 0 0 - 6 9 66.7 7 7 14 0 2 2 0 3 -19
+p399
+aVDragan Tarlac CHI 01/24/2001 CHI @ CLE L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 11
+p400
+aVBrad Miller CHI 01/23/2001 CHI vs. POR L 21 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 2 0 0 1 4 -8
+p401
+aVFred Hoiberg CHI 01/23/2001 CHI vs. POR L 28 3 1 4 25.0 0 3 0.0 1 1 100.0 0 2 2 7 1 0 1 5 -4
+p402
+aVMarcus Fizer CHI 01/23/2001 CHI vs. POR L 21 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 1 0 0 0 4 0
+p403
+aVRon Mercer CHI 01/23/2001 CHI vs. POR L 48 39 16 25 64.0 2 2 100.0 5 5 100.0 2 5 7 7 5 0 4 1 -4
+p404
+aVCorey Benjamin CHI 01/23/2001 CHI vs. POR L 22 5 2 7 28.6 0 2 0.0 1 2 50.0 2 3 5 4 1 0 2 3 2
+p405
+aVKhalid El-Amin CHI 01/23/2001 CHI vs. POR L 17 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 5 1 0 0 3 0
+p406
+aVJamal Crawford CHI 01/23/2001 CHI vs. POR L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 1 2 1 1 0
+p407
+aVElton Brand CHI 01/23/2001 CHI vs. POR L 45 29 11 23 47.8 0 0 - 7 8 87.5 4 4 8 6 1 2 3 2 -2
+p408
+aVBryce Drew CHI 01/23/2001 CHI vs. POR L 24 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 3 2 -6
+p409
+aVDragan Tarlac CHI 01/23/2001 CHI vs. POR L 10 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 0 2
+p410
+aVDalibor Bagaric CHI 01/20/2001 CHI @ NJN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p411
+aVBrad Miller CHI 01/20/2001 CHI @ NJN L 15 6 2 2 100.0 0 0 - 2 4 50.0 1 3 4 1 1 1 0 4 0
+p412
+aVKhalid El-Amin CHI 01/20/2001 CHI @ NJN L 17 11 4 7 57.1 3 3 100.0 0 0 - 1 0 1 6 0 1 3 1 -5
+p413
+aVJamal Crawford CHI 01/20/2001 CHI @ NJN L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -7
+p414
+aVDragan Tarlac CHI 01/20/2001 CHI @ NJN L 11 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 1 0 1 -15
+p415
+aVFred Hoiberg CHI 01/20/2001 CHI @ NJN L 25 1 0 2 0.0 0 2 0.0 1 2 50.0 0 3 3 7 1 0 1 2 6
+p416
+aVElton Brand CHI 01/20/2001 CHI @ NJN L 40 28 11 13 84.6 0 0 - 6 8 75.0 3 7 10 4 1 3 4 3 -13
+p417
+aVMetta World Peace CHI 01/20/2001 CHI @ NJN L 27 17 6 13 46.2 1 2 50.0 4 6 66.7 1 0 1 3 2 1 2 2 -13
+p418
+aVBryce Drew CHI 01/20/2001 CHI @ NJN L 19 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 4 1 0 1 2 -17
+p419
+aVCorey Benjamin CHI 01/20/2001 CHI @ NJN L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -8
+p420
+aVRon Mercer CHI 01/20/2001 CHI @ NJN L 41 22 10 17 58.8 1 1 100.0 1 1 100.0 0 3 3 1 1 0 3 1 -17
+p421
+aVMarcus Fizer CHI 01/20/2001 CHI @ NJN L 23 10 5 11 45.5 0 2 0.0 0 0 - 1 3 4 0 0 1 1 3 -5
+p422
+aVMetta World Peace CHI 01/18/2001 CHI vs. DET L 25 5 1 10 10.0 0 1 0.0 3 4 75.0 1 2 3 4 1 0 2 4 -7
+p423
+aVKhalid El-Amin CHI 01/18/2001 CHI vs. DET L 7 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 2
+p424
+aVCorey Benjamin CHI 01/18/2001 CHI vs. DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p425
+aVElton Brand CHI 01/18/2001 CHI vs. DET L 47 25 9 14 64.3 0 0 - 7 9 77.8 2 12 14 5 0 0 2 5 -5
+p426
+aVRon Mercer CHI 01/18/2001 CHI vs. DET L 41 33 15 23 65.2 0 1 0.0 3 3 100.0 0 2 2 4 3 0 1 4 -2
+p427
+aVBryce Drew CHI 01/18/2001 CHI vs. DET L 40 9 4 9 44.4 1 3 33.3 0 2 0.0 1 1 2 8 0 0 1 4 -7
+p428
+aVDragan Tarlac CHI 01/18/2001 CHI vs. DET L 10 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 3 -2
+p429
+aVBrad Miller CHI 01/18/2001 CHI vs. DET L 39 16 5 9 55.6 0 2 0.0 6 9 66.7 4 5 9 4 1 0 2 5 -5
+p430
+aVFred Hoiberg CHI 01/18/2001 CHI vs. DET L 31 12 4 8 50.0 3 5 60.0 1 1 100.0 0 2 2 5 0 0 2 1 -4
+p431
+aVMarcus Fizer CHI 01/17/2001 CHI @ PHI L 14 3 1 7 14.3 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 -23
+p432
+aVCorey Benjamin CHI 01/17/2001 CHI @ PHI L 5 6 1 2 50.0 0 0 - 4 6 66.7 2 0 2 1 0 0 0 1 -7
+p433
+aVElton Brand CHI 01/17/2001 CHI @ PHI L 41 24 8 19 42.1 0 0 - 8 11 72.7 12 7 19 2 4 3 7 5 0
+p434
+aVBrad Miller CHI 01/17/2001 CHI @ PHI L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -7
+p435
+aVMichael Ruffin CHI 01/17/2001 CHI @ PHI L 38 4 2 4 50.0 0 0 - 0 0 - 5 9 14 1 2 1 2 3 8
+p436
+aVJamal Crawford CHI 01/17/2001 CHI @ PHI L 2 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p437
+aVFred Hoiberg CHI 01/17/2001 CHI @ PHI L 40 10 3 9 33.3 2 5 40.0 2 2 100.0 0 6 6 5 1 0 1 1 -1
+p438
+aVBryce Drew CHI 01/17/2001 CHI @ PHI L 38 24 10 17 58.8 4 5 80.0 0 0 - 0 2 2 1 0 0 1 3 -7
+p439
+aVKhalid El-Amin CHI 01/17/2001 CHI @ PHI L 20 2 0 3 0.0 0 1 0.0 2 2 100.0 1 0 1 2 0 0 1 2 -14
+p440
+aVRon Mercer CHI 01/17/2001 CHI @ PHI L 39 12 6 21 28.6 0 2 0.0 0 0 - 0 1 1 3 2 0 4 4 -6
+p441
+aVFred Hoiberg CHI 01/15/2001 CHI @ ORL L 28 15 6 10 60.0 2 5 40.0 1 1 100.0 0 2 2 2 1 1 0 1 -2
+p442
+aVCorey Benjamin CHI 01/15/2001 CHI @ ORL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p443
+aVMetta World Peace CHI 01/15/2001 CHI @ ORL L 26 7 2 6 33.3 1 2 50.0 2 2 100.0 0 2 2 0 0 1 0 5 -5
+p444
+aVRon Mercer CHI 01/15/2001 CHI @ ORL L 45 27 8 20 40.0 0 0 - 11 11 100.0 2 2 4 9 1 1 3 3 -11
+p445
+aVBrad Miller CHI 01/15/2001 CHI @ ORL L 7 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p446
+aVMichael Ruffin CHI 01/15/2001 CHI @ ORL L 37 10 2 3 66.7 0 0 - 6 7 85.7 2 9 11 2 2 0 3 4 -9
+p447
+aVMarcus Fizer CHI 01/15/2001 CHI @ ORL L 14 8 2 5 40.0 0 0 - 4 4 100.0 1 1 2 2 0 0 1 2 -14
+p448
+aVKhalid El-Amin CHI 01/15/2001 CHI @ ORL L 14 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 3 1 0 0 2 -6
+p449
+aVBryce Drew CHI 01/15/2001 CHI @ ORL L 26 4 2 10 20.0 0 3 0.0 0 0 - 0 3 3 4 0 0 2 4 2
+p450
+aVElton Brand CHI 01/15/2001 CHI @ ORL L 37 22 9 15 60.0 0 1 0.0 4 4 100.0 1 6 7 2 4 1 1 3 -2
+p451
+aVBryce Drew CHI 01/14/2001 CHI @ MIA L 42 9 4 10 40.0 1 4 25.0 0 0 - 1 2 3 4 1 0 2 3 -5
+p452
+aVBrad Miller CHI 01/14/2001 CHI @ MIA L 22 12 4 7 57.1 0 1 0.0 4 7 57.1 2 4 6 1 0 2 0 2 1
+p453
+aVElton Brand CHI 01/14/2001 CHI @ MIA L 41 25 10 14 71.4 0 0 - 5 7 71.4 0 5 5 0 0 3 3 4 -5
+p454
+aVRon Mercer CHI 01/14/2001 CHI @ MIA L 44 19 7 17 41.2 0 1 0.0 5 6 83.3 0 1 1 1 0 0 1 2 -12
+p455
+aVMichael Ruffin CHI 01/14/2001 CHI @ MIA L 21 0 0 0 - 0 0 - 0 0 - 1 3 4 2 0 0 0 5 3
+p456
+aVFred Hoiberg CHI 01/14/2001 CHI @ MIA L 32 5 2 5 40.0 1 3 33.3 0 0 - 0 8 8 6 1 0 3 2 1
+p457
+aVMetta World Peace CHI 01/14/2001 CHI @ MIA L 20 5 2 7 28.6 0 0 - 1 2 50.0 1 3 4 1 0 0 2 2 -7
+p458
+aVMarcus Fizer CHI 01/14/2001 CHI @ MIA L 12 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -17
+p459
+aVKhalid El-Amin CHI 01/14/2001 CHI @ MIA L 7 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -4
+p460
+aVKhalid El-Amin CHI 01/12/2001 CHI vs. CHH L 24 8 2 9 22.2 1 3 33.3 3 4 75.0 0 3 3 5 2 0 0 3 -3
+p461
+aVBrad Miller CHI 01/12/2001 CHI vs. CHH L 24 16 5 9 55.6 1 1 100.0 5 5 100.0 1 3 4 2 0 0 1 3 0
+p462
+aVMetta World Peace CHI 01/12/2001 CHI vs. CHH L 34 14 7 12 58.3 0 1 0.0 0 0 - 0 1 1 4 3 1 3 3 12
+p463
+aVElton Brand CHI 01/12/2001 CHI vs. CHH L 44 16 7 16 43.8 0 0 - 2 4 50.0 2 9 11 3 0 2 3 1 -7
+p464
+aVFred Hoiberg CHI 01/12/2001 CHI vs. CHH L 20 4 1 4 25.0 0 0 - 2 3 66.7 0 3 3 3 2 0 0 2 -9
+p465
+aVMarcus Fizer CHI 01/12/2001 CHI vs. CHH L 6 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -2
+p466
+aVRon Mercer CHI 01/12/2001 CHI vs. CHH L 43 21 8 14 57.1 0 0 - 5 7 71.4 0 2 2 2 0 0 0 1 -5
+p467
+aVMichael Ruffin CHI 01/12/2001 CHI vs. CHH L 22 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 2 1 1 4 7
+p468
+aVBryce Drew CHI 01/12/2001 CHI vs. CHH L 22 2 1 4 25.0 0 0 - 0 0 - 1 1 2 3 0 0 0 4 2
+p469
+aVJamal Crawford CHI 01/09/2001 CHI @ CHH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p470
+aVMichael Ruffin CHI 01/09/2001 CHI @ CHH L 25 4 1 3 33.3 0 0 - 2 2 100.0 2 10 12 2 0 1 1 6 10
+p471
+aVDragan Tarlac CHI 01/09/2001 CHI @ CHH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p472
+aVRon Mercer CHI 01/09/2001 CHI @ CHH L 58 27 12 32 37.5 0 3 0.0 3 4 75.0 1 5 6 3 2 1 3 3 -12
+p473
+aVMetta World Peace CHI 01/09/2001 CHI @ CHH L 40 11 2 9 22.2 0 0 - 7 8 87.5 0 3 3 3 4 0 0 2 0
+p474
+aVBrad Miller CHI 01/09/2001 CHI @ CHH L 29 4 1 5 20.0 0 0 - 2 2 100.0 5 7 12 0 0 1 4 2 -10
+p475
+aVBryce Drew CHI 01/09/2001 CHI @ CHH L 46 13 6 11 54.5 1 2 50.0 0 0 - 0 1 1 3 0 0 0 6 10
+p476
+aVFred Hoiberg CHI 01/09/2001 CHI @ CHH L 35 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 2 1 0 0 3 -11
+p477
+aVElton Brand CHI 01/09/2001 CHI @ CHH L 55 30 11 21 52.4 0 0 - 8 15 53.3 4 8 12 5 1 3 3 6 -3
+p478
+aVKhalid El-Amin CHI 01/09/2001 CHI @ CHH L 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 3 2 -17
+p479
+aVCorey Benjamin CHI 01/09/2001 CHI @ CHH L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p480
+aVMarcus Fizer CHI 01/08/2001 CHI vs. DAL L 11 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -9
+p481
+aVFred Hoiberg CHI 01/08/2001 CHI vs. DAL L 36 13 5 8 62.5 3 6 50.0 0 1 0.0 0 5 5 6 3 0 1 4 -12
+p482
+aVDragan Tarlac CHI 01/08/2001 CHI vs. DAL L 1 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 3
+p483
+aVBryce Drew CHI 01/08/2001 CHI vs. DAL L 28 10 5 9 55.6 0 0 - 0 0 - 0 3 3 3 1 0 3 1 -13
+p484
+aVElton Brand CHI 01/08/2001 CHI vs. DAL L 44 23 7 18 38.9 0 0 - 9 10 90.0 3 7 10 5 1 1 4 4 -12
+p485
+aVCorey Benjamin CHI 01/08/2001 CHI vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p486
+aVMetta World Peace CHI 01/08/2001 CHI vs. DAL L 23 12 6 10 60.0 0 0 - 0 0 - 2 3 5 3 1 0 6 4 -7
+p487
+aVMichael Ruffin CHI 01/08/2001 CHI vs. DAL L 25 4 2 2 100.0 0 0 - 0 0 - 2 3 5 3 2 0 1 3 -5
+p488
+aVRon Mercer CHI 01/08/2001 CHI vs. DAL L 47 4 2 12 16.7 0 0 - 0 2 0.0 0 2 2 2 1 1 1 2 -17
+p489
+aVKhalid El-Amin CHI 01/08/2001 CHI vs. DAL L 24 18 8 10 80.0 2 2 100.0 0 0 - 0 2 2 7 1 0 0 3 -5
+p490
+aVKhalid El-Amin CHI 01/04/2001 CHI vs. WAS W 19 7 2 4 50.0 0 1 0.0 3 4 75.0 1 1 2 5 1 0 2 3 -3
+p491
+aVMetta World Peace CHI 01/04/2001 CHI vs. WAS W 15 7 2 5 40.0 1 2 50.0 2 2 100.0 0 2 2 0 0 1 1 3 -2
+p492
+aVMichael Ruffin CHI 01/04/2001 CHI vs. WAS W 33 2 1 1 100.0 0 0 - 0 0 - 3 6 9 2 2 5 1 4 4
+p493
+aVBryce Drew CHI 01/04/2001 CHI vs. WAS W 29 12 5 9 55.6 2 4 50.0 0 0 - 0 0 0 5 0 0 1 1 5
+p494
+aVDragan Tarlac CHI 01/04/2001 CHI vs. WAS W 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -4
+p495
+aVRon Mercer CHI 01/04/2001 CHI vs. WAS W 43 18 7 16 43.8 1 1 100.0 3 4 75.0 2 4 6 3 0 0 5 3 4
+p496
+aVElton Brand CHI 01/04/2001 CHI vs. WAS W 42 30 12 17 70.6 0 0 - 6 8 75.0 2 7 9 8 1 4 3 2 5
+p497
+aVMarcus Fizer CHI 01/04/2001 CHI vs. WAS W 12 7 3 5 60.0 0 0 - 1 4 25.0 0 1 1 1 1 0 2 3 -1
+p498
+aVFred Hoiberg CHI 01/04/2001 CHI vs. WAS W 38 11 4 7 57.1 2 4 50.0 1 1 100.0 0 5 5 6 0 0 0 2 2
+p499
+aVCorey Benjamin CHI 01/02/2001 CHI vs. MIL L 22 5 1 10 10.0 0 2 0.0 3 4 75.0 0 1 1 2 0 0 0 5 -11
+p500
+aVJamal Crawford CHI 01/02/2001 CHI vs. MIL L 20 3 1 5 20.0 1 1 100.0 0 0 - 0 4 4 2 1 0 2 0 -5
+p501
+aVBryce Drew CHI 01/02/2001 CHI vs. MIL L 21 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 2 0 0 2 0 -29
+p502
+aVBrad Miller CHI 01/02/2001 CHI vs. MIL L 15 3 1 5 20.0 0 0 - 1 2 50.0 3 2 5 1 0 0 1 4 -23
+p503
+aVMarcus Fizer CHI 01/02/2001 CHI vs. MIL L 25 8 4 10 40.0 0 0 - 0 0 - 1 9 10 1 2 0 2 0 -12
+p504
+aVKhalid El-Amin CHI 01/02/2001 CHI vs. MIL L 19 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 5 0 0 1 2 -2
+p505
+aVElton Brand CHI 01/02/2001 CHI vs. MIL L 34 17 7 13 53.8 0 0 - 3 4 75.0 5 6 11 1 0 1 4 2 -28
+p506
+aVDragan Tarlac CHI 01/02/2001 CHI vs. MIL L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 0
+p507
+aVMetta World Peace CHI 01/02/2001 CHI vs. MIL L 10 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 2 -13
+p508
+aVFred Hoiberg CHI 01/02/2001 CHI vs. MIL L 15 2 0 1 0.0 0 1 0.0 2 2 100.0 1 4 5 3 1 0 0 3 -4
+p509
+aVRon Mercer CHI 01/02/2001 CHI vs. MIL L 31 16 6 13 46.2 0 0 - 4 4 100.0 1 4 5 0 0 0 5 1 -31
+p510
+aVMichael Ruffin CHI 01/02/2001 CHI vs. MIL L 11 0 0 0 - 0 0 - 0 0 - 2 0 2 1 0 1 0 2 -12
+p511
+aVBrad Miller CHI 12/31/2000 CHI vs. NJN W 12 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 3 0 6 -1
+p512
+aVBryce Drew CHI 12/31/2000 CHI vs. NJN W 32 7 2 7 28.6 1 3 33.3 2 2 100.0 0 0 0 5 0 0 2 3 16
+p513
+aVRon Mercer CHI 12/31/2000 CHI vs. NJN W 44 18 7 19 36.8 0 0 - 4 8 50.0 1 4 5 4 2 1 1 4 10
+p514
+aVMarcus Fizer CHI 12/31/2000 CHI vs. NJN W 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 4 1 -13
+p515
+aVMichael Ruffin CHI 12/31/2000 CHI vs. NJN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p516
+aVFred Hoiberg CHI 12/31/2000 CHI vs. NJN W 43 12 3 7 42.9 3 5 60.0 3 4 75.0 0 10 10 6 0 1 0 0 4
+p517
+aVMetta World Peace CHI 12/31/2000 CHI vs. NJN W 36 14 6 14 42.9 0 1 0.0 2 3 66.7 1 6 7 3 1 3 2 3 10
+p518
+aVCorey Benjamin CHI 12/31/2000 CHI vs. NJN W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 5
+p519
+aVJamal Crawford CHI 12/31/2000 CHI vs. NJN W 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -3
+p520
+aVElton Brand CHI 12/31/2000 CHI vs. NJN W 40 31 9 16 56.3 0 0 - 13 17 76.5 4 12 16 4 0 2 1 4 18
+p521
+aVMetta World Peace CHI 12/29/2000 CHI @ NYK L 24 9 4 8 50.0 1 1 100.0 0 0 - 0 3 3 1 0 0 3 3 -17
+p522
+aVFred Hoiberg CHI 12/29/2000 CHI @ NYK L 22 7 2 7 28.6 2 5 40.0 1 1 100.0 1 2 3 3 0 0 0 0 -22
+p523
+aVBryce Drew CHI 12/29/2000 CHI @ NYK L 23 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 3 1 0 1 2 -23
+p524
+aVDragan Tarlac CHI 12/29/2000 CHI @ NYK L 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p525
+aVElton Brand CHI 12/29/2000 CHI @ NYK L 34 12 4 9 44.4 0 0 - 4 7 57.1 3 6 9 2 1 0 4 3 -18
+p526
+aVJamal Crawford CHI 12/29/2000 CHI @ NYK L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -1
+p527
+aVMarcus Fizer CHI 12/29/2000 CHI @ NYK L 20 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -14
+p528
+aVBrad Miller CHI 12/29/2000 CHI @ NYK L 15 3 1 5 20.0 0 0 - 1 2 50.0 1 5 6 0 0 0 0 2 -10
+p529
+aVMichael Ruffin CHI 12/29/2000 CHI @ NYK L 17 0 0 0 - 0 0 - 0 0 - 1 3 4 0 3 0 1 3 -11
+p530
+aVKhalid El-Amin CHI 12/29/2000 CHI @ NYK L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 2 1 0 2 4 -3
+p531
+aVCorey Benjamin CHI 12/29/2000 CHI @ NYK L 14 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 1 2 1 0 2 5
+p532
+aVRon Mercer CHI 12/29/2000 CHI @ NYK L 37 19 6 15 40.0 1 1 100.0 6 6 100.0 0 4 4 2 0 0 1 0 -20
+p533
+aVMichael Ruffin CHI 12/28/2000 CHI vs. SAS W 15 2 1 3 33.3 0 0 - 0 0 - 1 5 6 2 0 1 1 6 -4
+p534
+aVElton Brand CHI 12/28/2000 CHI vs. SAS W 33 22 10 15 66.7 0 0 - 2 2 100.0 1 5 6 2 1 0 3 6 -7
+p535
+aVCorey Benjamin CHI 12/28/2000 CHI vs. SAS W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p536
+aVRon Mercer CHI 12/28/2000 CHI vs. SAS W 44 33 13 22 59.1 0 0 - 7 8 87.5 0 2 2 3 2 0 2 2 2
+p537
+aVFred Hoiberg CHI 12/28/2000 CHI vs. SAS W 25 9 2 5 40.0 1 2 50.0 4 5 80.0 0 2 2 2 2 0 0 1 -4
+p538
+aVBryce Drew CHI 12/28/2000 CHI vs. SAS W 40 12 5 7 71.4 2 3 66.7 0 0 - 0 0 0 11 0 0 2 2 7
+p539
+aVBrad Miller CHI 12/28/2000 CHI vs. SAS W 29 11 4 6 66.7 0 0 - 3 3 100.0 1 5 6 4 2 1 1 5 6
+p540
+aVMarcus Fizer CHI 12/28/2000 CHI vs. SAS W 19 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 3 0 0 1 3 9
+p541
+aVMetta World Peace CHI 12/28/2000 CHI vs. SAS W 26 8 3 9 33.3 1 1 100.0 1 4 25.0 1 2 3 4 1 0 2 4 -2
+p542
+aVKhalid El-Amin CHI 12/28/2000 CHI vs. SAS W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p543
+aVFred Hoiberg CHI 12/23/2000 CHI @ DET L 42 15 5 10 50.0 4 8 50.0 1 2 50.0 2 5 7 2 0 0 2 5 -2
+p544
+aVElton Brand CHI 12/23/2000 CHI @ DET L 39 21 8 13 61.5 0 0 - 5 7 71.4 4 5 9 4 1 5 5 4 -5
+p545
+aVMarcus Fizer CHI 12/23/2000 CHI @ DET L 14 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 1 0 0 2 5 -5
+p546
+aVJamal Crawford CHI 12/23/2000 CHI @ DET L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 3
+p547
+aVCorey Benjamin CHI 12/23/2000 CHI @ DET L 10 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 1 4 -7
+p548
+aVRon Mercer CHI 12/23/2000 CHI @ DET L 46 29 13 26 50.0 0 0 - 3 4 75.0 1 2 3 1 3 1 2 2 -11
+p549
+aVKhalid El-Amin CHI 12/23/2000 CHI @ DET L 10 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 1 1 -9
+p550
+aVMichael Ruffin CHI 12/23/2000 CHI @ DET L 28 3 1 3 33.3 0 0 - 1 2 50.0 4 8 12 2 0 0 1 3 -5
+p551
+aVBrad Miller CHI 12/23/2000 CHI @ DET L 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -11
+p552
+aVBryce Drew CHI 12/23/2000 CHI @ DET L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p553
+aVMetta World Peace CHI 12/23/2000 CHI @ DET L 31 15 5 8 62.5 0 0 - 5 6 83.3 0 2 2 4 0 0 6 6 -8
+p554
+aVDragan Tarlac CHI 12/23/2000 CHI @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p555
+aVBryce Drew CHI 12/21/2000 CHI @ ORL L 20 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 3 1 0 1 3 -16
+p556
+aVKhalid El-Amin CHI 12/21/2000 CHI @ ORL L 8 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 -3
+p557
+aVRon Mercer CHI 12/21/2000 CHI @ ORL L 45 25 11 23 47.8 0 0 - 3 4 75.0 0 5 5 2 3 2 2 3 -10
+p558
+aVMarcus Fizer CHI 12/21/2000 CHI @ ORL L 14 7 2 5 40.0 0 1 0.0 3 4 75.0 0 2 2 1 0 0 0 1 -3
+p559
+aVDragan Tarlac CHI 12/21/2000 CHI @ ORL L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 2 2
+p560
+aVMichael Ruffin CHI 12/21/2000 CHI @ ORL L 18 4 1 1 100.0 0 0 - 2 4 50.0 1 4 5 0 0 0 1 2 -6
+p561
+aVCorey Benjamin CHI 12/21/2000 CHI @ ORL L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 0
+p562
+aVElton Brand CHI 12/21/2000 CHI @ ORL L 42 19 8 19 42.1 0 0 - 3 6 50.0 4 6 10 2 1 2 1 2 -10
+p563
+aVMetta World Peace CHI 12/21/2000 CHI @ ORL L 23 5 2 8 25.0 0 4 0.0 1 1 100.0 0 0 0 2 0 0 1 6 9
+p564
+aVBrad Miller CHI 12/21/2000 CHI @ ORL L 20 6 2 6 33.3 0 0 - 2 3 66.7 2 4 6 0 1 1 2 4 -6
+p565
+aVFred Hoiberg CHI 12/21/2000 CHI @ ORL L 37 10 2 5 40.0 2 3 66.7 4 4 100.0 0 6 6 4 1 2 3 2 -12
+p566
+aVKhalid El-Amin CHI 12/19/2000 CHI vs. IND L 9 8 3 3 100.0 0 0 - 2 3 66.7 0 1 1 0 0 0 0 2 -13
+p567
+aVMetta World Peace CHI 12/19/2000 CHI vs. IND L 45 14 3 8 37.5 1 2 50.0 7 9 77.8 0 3 3 6 2 0 5 4 -5
+p568
+aVBryce Drew CHI 12/19/2000 CHI vs. IND L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 1 -4
+p569
+aVMichael Ruffin CHI 12/19/2000 CHI vs. IND L 22 4 2 3 66.7 0 0 - 0 2 0.0 2 2 4 0 2 2 1 4 -1
+p570
+aVRon Mercer CHI 12/19/2000 CHI vs. IND L 45 15 6 21 28.6 0 0 - 3 4 75.0 1 4 5 3 2 1 1 4 -13
+p571
+aVMarcus Fizer CHI 12/19/2000 CHI vs. IND L 20 10 3 8 37.5 0 0 - 4 4 100.0 3 3 6 1 0 0 1 2 -5
+p572
+aVCorey Benjamin CHI 12/19/2000 CHI vs. IND L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 12
+p573
+aVFred Hoiberg CHI 12/19/2000 CHI vs. IND L 26 10 2 4 50.0 2 3 66.7 4 4 100.0 0 2 2 4 0 1 2 3 14
+p574
+aVDragan Tarlac CHI 12/19/2000 CHI vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 3 -14
+p575
+aVBrad Miller CHI 12/19/2000 CHI vs. IND L 12 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 1 0 1 -3
+p576
+aVElton Brand CHI 12/19/2000 CHI vs. IND L 33 17 7 14 50.0 0 0 - 3 6 50.0 2 5 7 6 1 0 1 5 7
+p577
+aVFred Hoiberg CHI 12/16/2000 CHI vs. PHI L 10 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 1 0 0 0 0 -9
+p578
+aVMichael Ruffin CHI 12/16/2000 CHI vs. PHI L 34 7 3 4 75.0 0 0 - 1 2 50.0 5 6 11 1 2 3 0 4 -7
+p579
+aVJamal Crawford CHI 12/16/2000 CHI vs. PHI L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p580
+aVMetta World Peace CHI 12/16/2000 CHI vs. PHI L 36 29 12 19 63.2 1 3 33.3 4 7 57.1 2 2 4 2 1 0 3 5 4
+p581
+aVBryce Drew CHI 12/16/2000 CHI vs. PHI L 28 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 8 2 0 1 4 16
+p582
+aVDragan Tarlac CHI 12/16/2000 CHI vs. PHI L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -4
+p583
+aVCorey Benjamin CHI 12/16/2000 CHI vs. PHI L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 -16
+p584
+aVKhalid El-Amin CHI 12/16/2000 CHI vs. PHI L 16 0 0 3 0.0 0 0 - 0 2 0.0 0 0 0 2 1 0 1 3 -14
+p585
+aVElton Brand CHI 12/16/2000 CHI vs. PHI L 45 20 6 15 40.0 0 0 - 8 12 66.7 7 7 14 7 0 0 5 4 -8
+p586
+aVRon Mercer CHI 12/16/2000 CHI vs. PHI L 45 20 9 22 40.9 1 2 50.0 1 1 100.0 2 0 2 7 4 0 0 4 -5
+p587
+aVKhalid El-Amin CHI 12/15/2000 CHI vs. ATL L 32 12 5 16 31.3 0 4 0.0 2 2 100.0 1 0 1 6 2 0 1 1 -3
+p588
+aVBryce Drew CHI 12/15/2000 CHI vs. ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p589
+aVRon Mercer CHI 12/15/2000 CHI vs. ATL L 45 22 9 22 40.9 0 1 0.0 4 4 100.0 3 3 6 1 1 2 0 6 -9
+p590
+aVFred Hoiberg CHI 12/15/2000 CHI vs. ATL L 22 4 1 5 20.0 0 3 0.0 2 2 100.0 2 4 6 0 1 0 1 2 -12
+p591
+aVCorey Benjamin CHI 12/15/2000 CHI vs. ATL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 1
+p592
+aVMetta World Peace CHI 12/15/2000 CHI vs. ATL L 32 9 3 10 30.0 1 3 33.3 2 2 100.0 0 5 5 3 4 2 1 6 -16
+p593
+aVJamal Crawford CHI 12/15/2000 CHI vs. ATL L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 3 0 1 2 1 -7
+p594
+aVMichael Ruffin CHI 12/15/2000 CHI vs. ATL L 13 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 4 4
+p595
+aVElton Brand CHI 12/15/2000 CHI vs. ATL L 44 19 7 14 50.0 0 0 - 5 6 83.3 3 9 12 2 1 0 5 2 -12
+p596
+aVMarcus Fizer CHI 12/15/2000 CHI vs. ATL L 15 3 1 4 25.0 0 0 - 1 2 50.0 0 4 4 1 0 0 0 2 -5
+p597
+aVDragan Tarlac CHI 12/15/2000 CHI vs. ATL L 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 0 4 5
+p598
+aVDragan Tarlac CHI 12/13/2000 CHI @ BOS W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p599
+aVMichael Ruffin CHI 12/13/2000 CHI @ BOS W 7 0 0 1 0.0 0 0 - 0 2 0.0 2 0 2 0 0 0 0 1 5
+p600
+aVRon Mercer CHI 12/13/2000 CHI @ BOS W 43 27 12 23 52.2 0 1 0.0 3 3 100.0 2 1 3 6 7 1 2 3 20
+p601
+aVMetta World Peace CHI 12/13/2000 CHI @ BOS W 32 19 7 14 50.0 1 1 100.0 4 9 44.4 5 5 10 5 3 0 1 3 7
+p602
+aVFred Hoiberg CHI 12/13/2000 CHI @ BOS W 22 10 3 5 60.0 2 4 50.0 2 3 66.7 0 4 4 1 2 0 4 4 11
+p603
+aVDalibor Bagaric CHI 12/13/2000 CHI @ BOS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p604
+aVCorey Benjamin CHI 12/13/2000 CHI @ BOS W 24 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 3 0 1 1 4 8
+p605
+aVKhalid El-Amin CHI 12/13/2000 CHI @ BOS W 27 10 2 5 40.0 0 1 0.0 6 6 100.0 0 2 2 4 1 0 2 2 12
+p606
+aVJamal Crawford CHI 12/13/2000 CHI @ BOS W 21 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 2 1 4 2 6
+p607
+aVElton Brand CHI 12/13/2000 CHI @ BOS W 37 18 5 8 62.5 0 0 - 8 9 88.9 3 2 5 2 1 0 3 1 14
+p608
+aVMarcus Fizer CHI 12/13/2000 CHI @ BOS W 21 9 3 9 33.3 0 0 - 3 3 100.0 0 4 4 1 0 0 1 2 8
+p609
+aVCorey Benjamin CHI 12/11/2000 CHI vs. PHX L 18 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 3 0 1 1 2 5
+p610
+aVRon Mercer CHI 12/11/2000 CHI vs. PHX L 48 26 11 26 42.3 0 1 0.0 4 4 100.0 1 2 3 1 4 0 6 6 -5
+p611
+aVFred Hoiberg CHI 12/11/2000 CHI vs. PHX L 33 2 0 4 0.0 0 2 0.0 2 2 100.0 0 4 4 5 2 0 0 1 -11
+p612
+aVElton Brand CHI 12/11/2000 CHI vs. PHX L 43 23 10 18 55.6 0 0 - 3 6 50.0 4 7 11 0 0 3 0 5 -1
+p613
+aVKhalid El-Amin CHI 12/11/2000 CHI vs. PHX L 32 6 3 9 33.3 0 1 0.0 0 0 - 0 3 3 5 3 0 1 3 3
+p614
+aVJamal Crawford CHI 12/11/2000 CHI vs. PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p615
+aVDragan Tarlac CHI 12/11/2000 CHI vs. PHX L 12 2 1 2 50.0 0 0 - 0 0 - 2 1 3 2 0 0 1 2 1
+p616
+aVMetta World Peace CHI 12/11/2000 CHI vs. PHX L 31 16 7 14 50.0 1 4 25.0 1 3 33.3 1 8 9 0 1 0 4 4 -2
+p617
+aVMichael Ruffin CHI 12/11/2000 CHI vs. PHX L 23 0 0 1 0.0 0 0 - 0 2 0.0 2 3 5 0 0 0 1 0 -19
+p618
+aVCorey Benjamin CHI 12/09/2000 CHI @ SAS L 28 12 5 12 41.7 1 3 33.3 1 1 100.0 0 1 1 1 0 0 1 2 -15
+p619
+aVDalibor Bagaric CHI 12/09/2000 CHI @ SAS L 13 0 0 0 - 0 0 - 0 0 - 1 3 4 0 2 0 1 1 0
+p620
+aVMichael Ruffin CHI 12/09/2000 CHI @ SAS L 12 2 0 1 0.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 1 -4
+p621
+aVKhalid El-Amin CHI 12/09/2000 CHI @ SAS L 28 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 4 1 0 1 3 -21
+p622
+aVMetta World Peace CHI 12/09/2000 CHI @ SAS L 17 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 1 1 0 1 5 -5
+p623
+aVJamal Crawford CHI 12/09/2000 CHI @ SAS L 20 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 6 1 0 1 2 -3
+p624
+aVElton Brand CHI 12/09/2000 CHI @ SAS L 33 23 9 16 56.3 0 0 - 5 7 71.4 2 3 5 0 1 1 3 2 -27
+p625
+aVFred Hoiberg CHI 12/09/2000 CHI @ SAS L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 2 -4
+p626
+aVRon Mercer CHI 12/09/2000 CHI @ SAS L 33 18 8 17 47.1 2 2 100.0 0 0 - 0 2 2 4 2 0 1 2 -24
+p627
+aVDragan Tarlac CHI 12/09/2000 CHI @ SAS L 16 2 1 7 14.3 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -11
+p628
+aVMarcus Fizer CHI 12/09/2000 CHI @ SAS L 22 8 4 9 44.4 0 0 - 0 1 0.0 1 5 6 0 0 0 3 3 -6
+p629
+aVRon Mercer CHI 12/08/2000 CHI @ DAL L 41 16 6 18 33.3 1 2 50.0 3 4 75.0 0 4 4 1 0 1 3 1 -22
+p630
+aVMetta World Peace CHI 12/08/2000 CHI @ DAL L 29 15 7 12 58.3 0 1 0.0 1 2 50.0 1 1 2 1 3 2 1 2 -14
+p631
+aVKhalid El-Amin CHI 12/08/2000 CHI @ DAL L 28 18 8 14 57.1 2 3 66.7 0 0 - 1 3 4 4 0 1 1 2 -5
+p632
+aVCorey Benjamin CHI 12/08/2000 CHI @ DAL L 19 16 6 10 60.0 2 4 50.0 2 3 66.7 1 2 3 1 1 0 1 4 -5
+p633
+aVMichael Ruffin CHI 12/08/2000 CHI @ DAL L 25 2 1 3 33.3 0 0 - 0 2 0.0 2 3 5 1 1 0 2 4 -20
+p634
+aVDalibor Bagaric CHI 12/08/2000 CHI @ DAL L 11 2 0 3 0.0 0 1 0.0 2 4 50.0 0 2 2 1 2 3 1 2 9
+p635
+aVJamal Crawford CHI 12/08/2000 CHI @ DAL L 27 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 6 1 1 1 4 -11
+p636
+aVDragan Tarlac CHI 12/08/2000 CHI @ DAL L 23 4 1 1 100.0 0 0 - 2 2 100.0 3 4 7 0 1 0 6 5 -20
+p637
+aVMarcus Fizer CHI 12/08/2000 CHI @ DAL L 37 8 3 10 30.0 0 0 - 2 2 100.0 4 5 9 2 0 0 4 2 -7
+p638
+aVJake Voskuhl CHI 12/06/2000 CHI vs. CLE L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 3 4 -10
+p639
+aVKhalid El-Amin CHI 12/06/2000 CHI vs. CLE L 33 3 1 8 12.5 0 2 0.0 1 2 50.0 0 3 3 9 2 0 3 3 10
+p640
+aVCorey Benjamin CHI 12/06/2000 CHI vs. CLE L 19 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 1 1 0 1 0 -7
+p641
+aVMetta World Peace CHI 12/06/2000 CHI vs. CLE L 33 20 7 12 58.3 0 1 0.0 6 6 100.0 0 1 1 2 5 0 2 3 0
+p642
+aVMarcus Fizer CHI 12/06/2000 CHI vs. CLE L 38 14 4 17 23.5 0 1 0.0 6 6 100.0 3 5 8 3 2 3 1 3 -2
+p643
+aVRon Mercer CHI 12/06/2000 CHI vs. CLE L 44 34 14 24 58.3 0 0 - 6 9 66.7 3 4 7 3 1 2 1 0 -1
+p644
+aVMichael Ruffin CHI 12/06/2000 CHI vs. CLE L 32 5 2 4 50.0 0 0 - 1 2 50.0 6 2 8 0 0 1 4 4 4
+p645
+aVJamal Crawford CHI 12/06/2000 CHI vs. CLE L 15 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -14
+p646
+aVDragan Tarlac CHI 12/06/2000 CHI vs. CLE L 21 0 0 1 0.0 0 0 - 0 0 - 1 4 5 3 1 3 1 3 0
+p647
+aVJamal Crawford CHI 12/05/2000 CHI @ MIN L 29 13 6 13 46.2 1 4 25.0 0 0 - 1 2 3 2 2 0 3 3 3
+p648
+aVCorey Benjamin CHI 12/05/2000 CHI @ MIN L 42 7 3 15 20.0 0 2 0.0 1 3 33.3 5 1 6 2 2 1 4 5 -15
+p649
+aVMetta World Peace CHI 12/05/2000 CHI @ MIN L 32 20 6 14 42.9 0 0 - 8 11 72.7 0 4 4 2 2 1 2 5 -9
+p650
+aVKhalid El-Amin CHI 12/05/2000 CHI @ MIN L 33 15 7 15 46.7 1 3 33.3 0 0 - 2 2 4 6 3 0 1 2 -7
+p651
+aVMichael Ruffin CHI 12/05/2000 CHI @ MIN L 20 8 4 4 100.0 0 0 - 0 0 - 3 3 6 0 0 1 2 4 -14
+p652
+aVJake Voskuhl CHI 12/05/2000 CHI @ MIN L 12 6 3 6 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 1
+p653
+aVDalibor Bagaric CHI 12/05/2000 CHI @ MIN L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p654
+aVMarcus Fizer CHI 12/05/2000 CHI @ MIN L 33 11 5 13 38.5 0 1 0.0 1 2 50.0 1 4 5 3 1 0 2 4 -11
+p655
+aVDragan Tarlac CHI 12/05/2000 CHI @ MIN L 31 10 3 4 75.0 0 0 - 4 6 66.7 1 6 7 4 1 1 0 2 1
+p656
+aVMichael Ruffin CHI 12/01/2000 CHI vs. NYK L 17 3 1 4 25.0 0 0 - 1 2 50.0 2 5 7 0 0 1 1 1 -6
+p657
+aVMarcus Fizer CHI 12/01/2000 CHI vs. NYK L 20 5 1 6 16.7 1 2 50.0 2 4 50.0 1 2 3 2 0 2 1 4 12
+p658
+aVElton Brand CHI 12/01/2000 CHI vs. NYK L 41 26 7 14 50.0 0 0 - 12 13 92.3 3 4 7 1 0 1 2 6 -9
+p659
+aVDragan Tarlac CHI 12/01/2000 CHI vs. NYK L 31 4 2 4 50.0 0 0 - 0 0 - 2 6 8 2 0 0 2 2 1
+p660
+aVRon Mercer CHI 12/01/2000 CHI vs. NYK L 43 16 5 11 45.5 0 0 - 6 7 85.7 2 1 3 2 2 2 1 2 -5
+p661
+aVCorey Benjamin CHI 12/01/2000 CHI vs. NYK L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 -9
+p662
+aVMetta World Peace CHI 12/01/2000 CHI vs. NYK L 34 18 5 12 41.7 1 2 50.0 7 8 87.5 1 1 2 4 1 0 1 4 -11
+p663
+aVKhalid El-Amin CHI 12/01/2000 CHI vs. NYK L 38 12 4 11 36.4 2 7 28.6 2 5 40.0 2 5 7 7 1 0 2 4 16
+p664
+aVJamal Crawford CHI 12/01/2000 CHI vs. NYK L 7 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -14
+p665
+aVElton Brand CHI 11/30/2000 CHI @ ATL W 37 22 10 17 58.8 0 0 - 2 4 50.0 7 6 13 3 0 2 6 3 11
+p666
+aVA.J. Guyton CHI 11/30/2000 CHI @ ATL W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p667
+aVJamal Crawford CHI 11/30/2000 CHI @ ATL W 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 2 0 2
+p668
+aVCorey Benjamin CHI 11/30/2000 CHI @ ATL W 17 7 3 6 50.0 0 1 0.0 1 2 50.0 0 3 3 0 1 0 1 3 1
+p669
+aVMetta World Peace CHI 11/30/2000 CHI @ ATL W 33 5 2 10 20.0 0 1 0.0 1 1 100.0 1 7 8 6 1 1 3 3 5
+p670
+aVMichael Ruffin CHI 11/30/2000 CHI @ ATL W 8 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 4 4
+p671
+aVDalibor Bagaric CHI 11/30/2000 CHI @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p672
+aVDragan Tarlac CHI 11/30/2000 CHI @ ATL W 32 2 1 4 25.0 0 0 - 0 0 - 3 6 9 1 1 1 0 4 3
+p673
+aVRon Mercer CHI 11/30/2000 CHI @ ATL W 46 30 13 18 72.2 0 0 - 4 5 80.0 1 3 4 1 2 0 3 3 13
+p674
+aVKhalid El-Amin CHI 11/30/2000 CHI @ ATL W 24 16 3 8 37.5 0 1 0.0 10 10 100.0 0 0 0 2 4 0 1 2 5
+p675
+aVMarcus Fizer CHI 11/30/2000 CHI @ ATL W 19 5 1 5 20.0 0 0 - 3 4 75.0 0 2 2 0 0 0 1 2 -1
+p676
+aVMichael Ruffin CHI 11/28/2000 CHI vs. MIN L 9 6 2 4 50.0 0 0 - 2 2 100.0 4 0 4 1 0 0 0 1 6
+p677
+aVCorey Benjamin CHI 11/28/2000 CHI vs. MIN L 21 7 2 5 40.0 1 2 50.0 2 2 100.0 1 3 4 3 0 0 1 1 -4
+p678
+aVA.J. Guyton CHI 11/28/2000 CHI vs. MIN L 20 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 4 -23
+p679
+aVMarcus Fizer CHI 11/28/2000 CHI vs. MIN L 17 6 3 7 42.9 0 0 - 0 0 - 0 6 6 1 0 0 1 3 -4
+p680
+aVElton Brand CHI 11/28/2000 CHI vs. MIN L 41 16 8 18 44.4 0 0 - 0 0 - 5 8 13 3 3 2 3 4 -26
+p681
+aVDalibor Bagaric CHI 11/28/2000 CHI vs. MIN L 6 2 1 4 25.0 0 0 - 0 1 0.0 0 2 2 1 0 0 1 1 1
+p682
+aVRon Mercer CHI 11/28/2000 CHI vs. MIN L 40 20 8 15 53.3 0 0 - 4 5 80.0 0 2 2 2 0 0 3 1 -12
+p683
+aVMetta World Peace CHI 11/28/2000 CHI vs. MIN L 35 2 0 8 0.0 0 1 0.0 2 2 100.0 2 6 8 2 0 0 3 2 -24
+p684
+aVDragan Tarlac CHI 11/28/2000 CHI vs. MIN L 23 8 4 5 80.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -17
+p685
+aVJamal Crawford CHI 11/28/2000 CHI vs. MIN L 28 3 1 8 12.5 0 2 0.0 1 2 50.0 0 1 1 4 1 0 2 0 3
+p686
+aVElton Brand CHI 11/26/2000 CHI @ TOR L 43 31 14 26 53.8 0 0 - 3 4 75.0 3 6 9 2 0 0 2 5 -8
+p687
+aVMetta World Peace CHI 11/26/2000 CHI @ TOR L 38 20 6 13 46.2 0 0 - 8 9 88.9 3 5 8 2 1 0 2 5 -2
+p688
+aVJamal Crawford CHI 11/26/2000 CHI @ TOR L 18 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 2 1 1 0 1 1
+p689
+aVMichael Ruffin CHI 11/26/2000 CHI @ TOR L 30 2 1 3 33.3 0 0 - 0 2 0.0 2 6 8 2 0 2 1 3 -11
+p690
+aVKhalid El-Amin CHI 11/26/2000 CHI @ TOR L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 1 -5
+p691
+aVDragan Tarlac CHI 11/26/2000 CHI @ TOR L 20 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 2 1 6 -2
+p692
+aVA.J. Guyton CHI 11/26/2000 CHI @ TOR L 7 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -5
+p693
+aVCorey Benjamin CHI 11/26/2000 CHI @ TOR L 29 14 6 12 50.0 2 6 33.3 0 0 - 1 0 1 1 1 1 2 6 -14
+p694
+aVRon Mercer CHI 11/26/2000 CHI @ TOR L 34 10 4 13 30.8 0 0 - 2 2 100.0 1 4 5 4 0 0 2 4 -11
+p695
+aVFred Hoiberg CHI 11/26/2000 CHI @ TOR L 12 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 0 -3
+p696
+aVMetta World Peace CHI 11/22/2000 CHI @ SAC L 30 14 7 13 53.8 0 2 0.0 0 2 0.0 0 5 5 1 1 1 2 4 -13
+p697
+aVCorey Benjamin CHI 11/22/2000 CHI @ SAC L 22 10 4 13 30.8 0 1 0.0 2 4 50.0 0 1 1 2 3 3 3 4 -18
+p698
+aVElton Brand CHI 11/22/2000 CHI @ SAC L 35 16 7 14 50.0 0 0 - 2 3 66.7 7 3 10 2 1 1 2 3 -22
+p699
+aVA.J. Guyton CHI 11/22/2000 CHI @ SAC L 20 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 -12
+p700
+aVRon Mercer CHI 11/22/2000 CHI @ SAC L 35 10 3 12 25.0 0 0 - 4 4 100.0 2 0 2 1 0 1 2 2 -12
+p701
+aVJamal Crawford CHI 11/22/2000 CHI @ SAC L 12 4 1 4 25.0 0 1 0.0 2 2 100.0 0 4 4 2 1 0 3 0 -8
+p702
+aVDalibor Bagaric CHI 11/22/2000 CHI @ SAC L 13 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 3 1 -18
+p703
+aVDragan Tarlac CHI 11/22/2000 CHI @ SAC L 27 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 1 0 1 0 -14
+p704
+aVMichael Ruffin CHI 11/22/2000 CHI @ SAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p705
+aVMarcus Fizer CHI 11/22/2000 CHI @ SAC L 25 5 2 5 40.0 0 0 - 1 3 33.3 1 8 9 0 1 0 2 3 -16
+p706
+aVKhalid El-Amin CHI 11/22/2000 CHI @ SAC L 16 3 1 9 11.1 1 5 20.0 0 0 - 1 3 4 1 1 0 1 1 -9
+p707
+aVKhalid El-Amin CHI 11/21/2000 CHI @ GSW L 27 4 2 10 20.0 0 0 - 0 0 - 0 0 0 4 3 0 1 3 -2
+p708
+aVMetta World Peace CHI 11/21/2000 CHI @ GSW L 29 2 0 5 0.0 0 2 0.0 2 4 50.0 2 4 6 5 2 0 2 2 0
+p709
+aVRon Mercer CHI 11/21/2000 CHI @ GSW L 44 19 6 20 30.0 0 1 0.0 7 7 100.0 1 4 5 8 0 0 3 4 -10
+p710
+aVA.J. Guyton CHI 11/21/2000 CHI @ GSW L 21 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 3 0 0 1 0 -10
+p711
+aVMarcus Fizer CHI 11/21/2000 CHI @ GSW L 13 7 3 8 37.5 0 0 - 1 2 50.0 2 2 4 0 1 1 3 0 -17
+p712
+aVDragan Tarlac CHI 11/21/2000 CHI @ GSW L 23 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 0 2 2 3 3
+p713
+aVMichael Ruffin CHI 11/21/2000 CHI @ GSW L 14 0 0 3 0.0 0 0 - 0 0 - 3 5 8 1 0 0 0 2 -10
+p714
+aVFred Hoiberg CHI 11/21/2000 CHI @ GSW L 30 9 4 7 57.1 1 2 50.0 0 0 - 0 3 3 4 2 0 1 2 -15
+p715
+aVElton Brand CHI 11/21/2000 CHI @ GSW L 39 26 10 17 58.8 0 1 0.0 6 7 85.7 3 8 11 0 3 2 3 5 1
+p716
+aVA.J. Guyton CHI 11/19/2000 CHI @ LAL L 24 9 4 8 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 0 1
+p717
+aVMetta World Peace CHI 11/19/2000 CHI @ LAL L 32 14 4 13 30.8 0 3 0.0 6 6 100.0 1 3 4 2 4 0 1 2 3
+p718
+aVDragan Tarlac CHI 11/19/2000 CHI @ LAL L 21 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 1 0 6 -11
+p719
+aVCorey Benjamin CHI 11/19/2000 CHI @ LAL L 16 7 3 7 42.9 1 4 25.0 0 1 0.0 0 0 0 1 0 0 1 4 -11
+p720
+aVMichael Ruffin CHI 11/19/2000 CHI @ LAL L 18 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 1 1 2 2
+p721
+aVElton Brand CHI 11/19/2000 CHI @ LAL L 44 17 8 17 47.1 0 0 - 1 2 50.0 8 7 15 5 0 2 3 4 -1
+p722
+aVKhalid El-Amin CHI 11/19/2000 CHI @ LAL L 30 15 7 12 58.3 1 1 100.0 0 0 - 2 1 3 2 0 0 1 1 -15
+p723
+aVJake Voskuhl CHI 11/19/2000 CHI @ LAL L 7 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 1 1 1 1 2 -3
+p724
+aVMarcus Fizer CHI 11/19/2000 CHI @ LAL L 5 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -3
+p725
+aVRon Mercer CHI 11/19/2000 CHI @ LAL L 43 27 13 25 52.0 0 0 - 1 1 100.0 1 5 6 5 0 0 1 2 -2
+p726
+aVMichael Ruffin CHI 11/18/2000 CHI @ UTA L 16 0 0 3 0.0 0 0 - 0 0 - 3 2 5 1 1 0 0 4 -12
+p727
+aVFred Hoiberg CHI 11/18/2000 CHI @ UTA L 9 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 2 -11
+p728
+aVMarcus Fizer CHI 11/18/2000 CHI @ UTA L 25 7 3 13 23.1 0 1 0.0 1 4 25.0 1 1 2 0 2 0 1 2 -29
+p729
+aVDragan Tarlac CHI 11/18/2000 CHI @ UTA L 15 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 1 2 3 -21
+p730
+aVMetta World Peace CHI 11/18/2000 CHI @ UTA L 31 6 3 9 33.3 0 2 0.0 0 0 - 1 4 5 2 3 2 0 1 -27
+p731
+aVKhalid El-Amin CHI 11/18/2000 CHI @ UTA L 14 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 3 1 0 1 2 -16
+p732
+aVJake Voskuhl CHI 11/18/2000 CHI @ UTA L 12 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 1 0 0 2 -8
+p733
+aVCorey Benjamin CHI 11/18/2000 CHI @ UTA L 11 2 0 5 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -12
+p734
+aVElton Brand CHI 11/18/2000 CHI @ UTA L 36 23 5 16 31.3 0 0 - 13 13 100.0 3 5 8 3 1 3 3 3 -28
+p735
+aVJamal Crawford CHI 11/18/2000 CHI @ UTA L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 1 0 0 -15
+p736
+aVA.J. Guyton CHI 11/18/2000 CHI @ UTA L 20 2 1 6 16.7 0 0 - 0 0 - 1 0 1 3 0 0 0 2 -14
+p737
+aVRon Mercer CHI 11/18/2000 CHI @ UTA L 37 16 8 19 42.1 0 0 - 0 1 0.0 1 1 2 1 2 0 3 1 -32
+p738
+aVA.J. Guyton CHI 11/16/2000 CHI @ DEN L 26 7 3 10 30.0 0 2 0.0 1 2 50.0 1 1 2 4 0 0 0 2 3
+p739
+aVFred Hoiberg CHI 11/16/2000 CHI @ DEN L 26 13 5 7 71.4 3 3 100.0 0 0 - 0 2 2 2 3 0 0 3 7
+p740
+aVKhalid El-Amin CHI 11/16/2000 CHI @ DEN L 22 4 2 7 28.6 0 1 0.0 0 0 - 3 0 3 4 1 0 1 2 -7
+p741
+aVDragan Tarlac CHI 11/16/2000 CHI @ DEN L 26 6 2 3 66.7 0 0 - 2 3 66.7 1 4 5 1 0 3 1 4 7
+p742
+aVCorey Benjamin CHI 11/16/2000 CHI @ DEN L 12 8 2 6 33.3 1 3 33.3 3 6 50.0 1 2 3 1 1 0 0 0 1
+p743
+aVRon Mercer CHI 11/16/2000 CHI @ DEN L 42 17 6 19 31.6 0 2 0.0 5 6 83.3 0 5 5 5 2 2 2 3 0
+p744
+aVMetta World Peace CHI 11/16/2000 CHI @ DEN L 16 3 1 7 14.3 0 2 0.0 1 2 50.0 0 2 2 1 0 0 0 1 -16
+p745
+aVElton Brand CHI 11/16/2000 CHI @ DEN L 32 22 8 17 47.1 0 0 - 6 11 54.5 3 3 6 2 0 2 0 4 -7
+p746
+aVMarcus Fizer CHI 11/16/2000 CHI @ DEN L 20 5 1 7 14.3 0 0 - 3 4 75.0 0 2 2 2 1 0 0 2 -3
+p747
+aVMichael Ruffin CHI 11/16/2000 CHI @ DEN L 19 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 1 5 -5
+p748
+aVMichael Ruffin CHI 11/14/2000 CHI @ HOU L 25 5 2 2 100.0 0 0 - 1 2 50.0 2 2 4 0 1 1 0 4 -15
+p749
+aVFred Hoiberg CHI 11/14/2000 CHI @ HOU L 15 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 0 -4
+p750
+aVJake Voskuhl CHI 11/14/2000 CHI @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -9
+p751
+aVDragan Tarlac CHI 11/14/2000 CHI @ HOU L 13 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 1 0 0 4 -1
+p752
+aVCorey Benjamin CHI 11/14/2000 CHI @ HOU L 15 13 6 13 46.2 1 1 100.0 0 0 - 2 0 2 0 1 0 0 3 -2
+p753
+aVMetta World Peace CHI 11/14/2000 CHI @ HOU L 33 12 5 11 45.5 0 3 0.0 2 2 100.0 0 4 4 3 1 0 2 3 -25
+p754
+aVRon Mercer CHI 11/14/2000 CHI @ HOU L 36 9 4 15 26.7 0 0 - 1 2 50.0 5 2 7 0 2 0 3 1 -21
+p755
+aVKhalid El-Amin CHI 11/14/2000 CHI @ HOU L 25 7 2 7 28.6 1 2 50.0 2 3 66.7 0 2 2 7 3 0 0 1 -10
+p756
+aVMarcus Fizer CHI 11/14/2000 CHI @ HOU L 24 6 3 10 30.0 0 1 0.0 0 1 0.0 2 3 5 1 0 0 2 4 -17
+p757
+aVElton Brand CHI 11/14/2000 CHI @ HOU L 28 16 7 14 50.0 0 0 - 2 2 100.0 6 3 9 1 0 0 6 4 -14
+p758
+aVA.J. Guyton CHI 11/14/2000 CHI @ HOU L 11 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p759
+aVJamal Crawford CHI 11/14/2000 CHI @ HOU L 12 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 1 0 1 3 3 -17
+p760
+aVRon Mercer CHI 11/11/2000 CHI vs. TOR L 33 17 7 16 43.8 0 0 - 3 4 75.0 0 2 2 3 0 0 1 4 -14
+p761
+aVA.J. Guyton CHI 11/11/2000 CHI vs. TOR L 16 0 0 4 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -19
+p762
+aVJamal Crawford CHI 11/11/2000 CHI vs. TOR L 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 0 -3
+p763
+aVJake Voskuhl CHI 11/11/2000 CHI vs. TOR L 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -3
+p764
+aVElton Brand CHI 11/11/2000 CHI vs. TOR L 34 8 3 8 37.5 0 0 - 2 2 100.0 2 8 10 3 2 2 2 1 -10
+p765
+aVFred Hoiberg CHI 11/11/2000 CHI vs. TOR L 12 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 -6
+p766
+aVMetta World Peace CHI 11/11/2000 CHI vs. TOR L 40 23 8 15 53.3 2 4 50.0 5 6 83.3 0 5 5 4 2 0 0 1 -13
+p767
+aVMichael Ruffin CHI 11/11/2000 CHI vs. TOR L 30 2 1 1 100.0 0 0 - 0 0 - 3 5 8 1 1 1 1 2 -2
+p768
+aVKhalid El-Amin CHI 11/11/2000 CHI vs. TOR L 28 7 3 9 33.3 1 3 33.3 0 0 - 1 3 4 3 2 0 4 3 -1
+p769
+aVCorey Benjamin CHI 11/11/2000 CHI vs. TOR L 4 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -3
+p770
+aVMarcus Fizer CHI 11/11/2000 CHI vs. TOR L 22 6 3 9 33.3 0 0 - 0 0 - 1 1 2 1 2 0 3 4 -25
+p771
+aVDragan Tarlac CHI 11/11/2000 CHI vs. TOR L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 5 -16
+p772
+aVRon Mercer CHI 11/09/2000 CHI vs. ORL W 40 23 9 18 50.0 0 0 - 5 8 62.5 4 6 10 2 1 2 5 3 7
+p773
+aVMichael Ruffin CHI 11/09/2000 CHI vs. ORL W 43 10 1 5 20.0 0 0 - 8 16 50.0 9 9 18 3 0 2 2 3 5
+p774
+aVA.J. Guyton CHI 11/09/2000 CHI vs. ORL W 19 18 7 11 63.6 4 5 80.0 0 0 - 0 1 1 1 0 1 1 2 -4
+p775
+aVMetta World Peace CHI 11/09/2000 CHI vs. ORL W 32 11 3 9 33.3 0 1 0.0 5 6 83.3 0 7 7 2 1 0 4 4 7
+p776
+aVMarcus Fizer CHI 11/09/2000 CHI vs. ORL W 18 14 6 11 54.5 0 0 - 2 2 100.0 2 2 4 4 1 0 3 4 -5
+p777
+aVElton Brand CHI 11/09/2000 CHI vs. ORL W 39 8 1 10 10.0 0 0 - 6 6 100.0 6 7 13 5 1 3 0 2 10
+p778
+aVFred Hoiberg CHI 11/09/2000 CHI vs. ORL W 19 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 2 5 -4
+p779
+aVKhalid El-Amin CHI 11/09/2000 CHI vs. ORL W 29 9 2 9 22.2 1 3 33.3 4 4 100.0 1 2 3 3 2 0 1 0 9
+p780
+aVKhalid El-Amin CHI 11/07/2000 CHI vs. WAS L 25 21 7 16 43.8 1 4 25.0 6 7 85.7 0 2 2 3 1 0 0 3 5
+p781
+aVBryce Drew CHI 11/07/2000 CHI vs. WAS L 20 3 1 6 16.7 1 2 50.0 0 0 - 0 1 1 2 0 0 1 3 -12
+p782
+aVBrad Miller CHI 11/07/2000 CHI vs. WAS L 18 5 0 3 0.0 0 0 - 5 6 83.3 3 5 8 0 0 1 1 4 -12
+p783
+aVMichael Ruffin CHI 11/07/2000 CHI vs. WAS L 17 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 1 0 3 1 2 3
+p784
+aVRon Mercer CHI 11/07/2000 CHI vs. WAS L 38 8 3 15 20.0 0 4 0.0 2 4 50.0 2 3 5 4 0 0 1 3 -6
+p785
+aVElton Brand CHI 11/07/2000 CHI vs. WAS L 40 15 6 17 35.3 0 0 - 3 8 37.5 5 9 14 2 2 3 2 4 3
+p786
+aVMarcus Fizer CHI 11/07/2000 CHI vs. WAS L 25 10 4 10 40.0 0 1 0.0 2 3 66.7 2 3 5 1 0 0 1 2 -3
+p787
+aVFred Hoiberg CHI 11/07/2000 CHI vs. WAS L 21 5 1 3 33.3 1 3 33.3 2 4 50.0 0 6 6 2 1 0 3 4 -1
+p788
+aVMetta World Peace CHI 11/07/2000 CHI vs. WAS L 32 10 3 6 50.0 2 2 100.0 2 2 100.0 0 5 5 1 0 1 3 3 -2
+p789
+aVJamal Crawford CHI 11/07/2000 CHI vs. WAS L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 3 0
+p790
+aVKhalid El-Amin CHI 11/04/2000 CHI @ IND L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -9
+p791
+aVFred Hoiberg CHI 11/04/2000 CHI @ IND L 23 6 2 4 50.0 0 1 0.0 2 2 100.0 0 4 4 2 3 0 2 3 -15
+p792
+aVMichael Ruffin CHI 11/04/2000 CHI @ IND L 16 0 0 0 - 0 0 - 0 0 - 0 5 5 2 0 2 2 4 -4
+p793
+aVRon Mercer CHI 11/04/2000 CHI @ IND L 41 15 5 14 35.7 1 1 100.0 4 5 80.0 0 4 4 5 0 0 6 3 -3
+p794
+aVMetta World Peace CHI 11/04/2000 CHI @ IND L 18 11 5 8 62.5 1 1 100.0 0 0 - 2 1 3 1 1 0 2 5 -7
+p795
+aVA.J. Guyton CHI 11/04/2000 CHI @ IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p796
+aVBryce Drew CHI 11/04/2000 CHI @ IND L 33 11 5 9 55.6 1 2 50.0 0 0 - 1 0 1 2 0 0 1 3 -3
+p797
+aVElton Brand CHI 11/04/2000 CHI @ IND L 41 19 4 13 30.8 0 0 - 11 12 91.7 4 7 11 0 0 0 3 3 -13
+p798
+aVMarcus Fizer CHI 11/04/2000 CHI @ IND L 24 6 3 10 30.0 0 1 0.0 0 0 - 2 2 4 1 0 1 2 3 -4
+p799
+aVBrad Miller CHI 11/04/2000 CHI @ IND L 29 13 4 10 40.0 0 0 - 5 5 100.0 3 5 8 1 0 2 2 2 -6
+p800
+aVBryce Drew CHI 11/03/2000 CHI vs. NJN L 11 10 3 6 50.0 2 3 66.7 2 2 100.0 0 0 0 2 2 0 3 1 5
+p801
+aVRon Mercer CHI 11/03/2000 CHI vs. NJN L 40 10 4 11 36.4 0 0 - 2 2 100.0 0 2 2 6 2 0 1 2 -5
+p802
+aVKhalid El-Amin CHI 11/03/2000 CHI vs. NJN L 8 4 2 2 100.0 0 0 - 0 0 - 1 1 2 3 0 0 1 4 -4
+p803
+aVJamal Crawford CHI 11/03/2000 CHI vs. NJN L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 1 1 1 -4
+p804
+aVBrad Miller CHI 11/03/2000 CHI vs. NJN L 20 6 2 3 66.7 0 0 - 2 4 50.0 0 4 4 1 0 1 2 2 13
+p805
+aVMarcus Fizer CHI 11/03/2000 CHI vs. NJN L 22 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 2 0 0 2 2 -20
+p806
+aVFred Hoiberg CHI 11/03/2000 CHI vs. NJN L 30 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 2 0 1 0 5 -2
+p807
+aVDragan Tarlac CHI 11/03/2000 CHI vs. NJN L 12 3 0 3 0.0 0 0 - 3 4 75.0 1 4 5 0 0 0 1 2 -11
+p808
+aVMichael Ruffin CHI 11/03/2000 CHI vs. NJN L 9 3 0 0 - 0 0 - 3 6 50.0 3 3 6 0 1 0 1 2 -1
+p809
+aVElton Brand CHI 11/03/2000 CHI vs. NJN L 37 20 8 19 42.1 0 0 - 4 9 44.4 2 9 11 2 1 2 4 4 -5
+p810
+aVA.J. Guyton CHI 11/03/2000 CHI vs. NJN L 21 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 1 0 1 1 3 -7
+p811
+aVMetta World Peace CHI 11/03/2000 CHI vs. NJN L 23 8 2 7 28.6 1 3 33.3 3 4 75.0 1 4 5 1 0 1 1 1 -9
+p812
+aVFred Hoiberg CHI 10/31/2000 CHI vs. SAC L 29 10 2 4 50.0 2 3 66.7 4 4 100.0 0 5 5 1 3 0 2 1 -17
+p813
+aVA.J. Guyton CHI 10/31/2000 CHI vs. SAC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p814
+aVMichael Ruffin CHI 10/31/2000 CHI vs. SAC L 20 0 0 0 - 0 0 - 0 0 - 2 4 6 1 0 0 1 4 -6
+p815
+aVBryce Drew CHI 10/31/2000 CHI vs. SAC L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 2 0
+p816
+aVMarcus Fizer CHI 10/31/2000 CHI vs. SAC L 24 16 7 13 53.8 2 2 100.0 0 0 - 2 2 4 0 1 0 2 2 -9
+p817
+aVBrad Miller CHI 10/31/2000 CHI vs. SAC L 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 1 2 2 -4
+p818
+aVMetta World Peace CHI 10/31/2000 CHI vs. SAC L 29 6 2 8 25.0 0 0 - 2 4 50.0 0 4 4 3 0 1 4 3 0
+p819
+aVElton Brand CHI 10/31/2000 CHI vs. SAC L 41 16 4 14 28.6 0 0 - 8 9 88.9 3 3 6 4 2 1 2 1 -19
+p820
+aVJamal Crawford CHI 10/31/2000 CHI vs. SAC L 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 1 -6
+p821
+aVKhalid El-Amin CHI 10/31/2000 CHI vs. SAC L 27 11 4 7 57.1 1 1 100.0 2 4 50.0 0 1 1 3 1 0 3 1 -12
+p822
+aVRon Mercer CHI 10/31/2000 CHI vs. SAC L 39 19 6 15 40.0 0 0 - 7 8 87.5 0 0 0 2 0 1 3 3 -21
+p823
+a.

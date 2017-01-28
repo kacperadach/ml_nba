@@ -1,0 +1,1802 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDeJuan Blair DAL 04/16/2014 DAL @ MEM L 17 8 2 5 40.0 0 0 - 4 4 100.0 5 2 7 0 2 0 0 2 -9
+p2
+aVBrandan Wright DAL 04/16/2014 DAL @ MEM L 25 10 5 5 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 4 13
+p3
+aVSamuel Dalembert DAL 04/16/2014 DAL @ MEM L 11 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 5 -5
+p4
+aVJae Crowder DAL 04/16/2014 DAL @ MEM L 13 0 0 2 0.0 0 2 0.0 0 0 - 2 1 3 0 2 0 0 1 16
+p5
+aVShawn Marion DAL 04/16/2014 DAL @ MEM L 32 9 4 8 50.0 1 3 33.3 0 0 - 3 2 5 1 1 0 0 1 -21
+p6
+aVMonta Ellis DAL 04/16/2014 DAL @ MEM L 42 18 8 21 38.1 2 4 50.0 0 0 - 1 5 6 4 2 0 2 0 -13
+p7
+aVVince Carter DAL 04/16/2014 DAL @ MEM L 26 9 4 11 36.4 1 4 25.0 0 2 0.0 0 2 2 0 2 0 2 4 7
+p8
+aVDirk Nowitzki DAL 04/16/2014 DAL @ MEM L 46 30 12 22 54.5 3 9 33.3 3 3 100.0 0 5 5 2 0 4 2 1 8
+p9
+aVDevin Harris DAL 04/16/2014 DAL @ MEM L 26 10 4 8 50.0 0 3 0.0 2 2 100.0 0 3 3 10 2 0 4 2 8
+p10
+aVJose Calderon DAL 04/16/2014 DAL @ MEM L 27 9 4 8 50.0 1 5 20.0 0 0 - 1 1 2 5 0 0 1 3 -9
+p11
+aVSamuel Dalembert DAL 04/12/2014 DAL vs. PHX W 14 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 0 0 1 0 0 -4
+p12
+aVBrandan Wright DAL 04/12/2014 DAL vs. PHX W 32 12 5 8 62.5 0 0 - 2 2 100.0 5 6 11 1 1 3 1 3 6
+p13
+aVVince Carter DAL 04/12/2014 DAL vs. PHX W 21 10 4 13 30.8 2 6 33.3 0 0 - 0 5 5 2 2 0 3 5 10
+p14
+aVShane Larkin DAL 04/12/2014 DAL vs. PHX W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 3
+p15
+aVDevin Harris DAL 04/12/2014 DAL vs. PHX W 31 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 6 1 0 2 3 13
+p16
+aVMonta Ellis DAL 04/12/2014 DAL vs. PHX W 43 37 15 23 65.2 3 4 75.0 4 7 57.1 0 4 4 5 2 0 5 3 -2
+p17
+aVShawn Marion DAL 04/12/2014 DAL vs. PHX W 34 7 3 6 50.0 1 2 50.0 0 0 - 1 5 6 1 3 0 3 1 -10
+p18
+aVDirk Nowitzki DAL 04/12/2014 DAL vs. PHX W 39 23 8 15 53.3 3 6 50.0 4 4 100.0 0 8 8 3 2 1 4 2 3
+p19
+aVJose Calderon DAL 04/12/2014 DAL vs. PHX W 17 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -9
+p20
+aVJae Crowder DAL 04/12/2014 DAL vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p21
+aVVince Carter DAL 04/10/2014 DAL vs. SAS L 27 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 2 0 1 0 3 2
+p22
+aVShawn Marion DAL 04/10/2014 DAL vs. SAS L 29 12 5 7 71.4 2 3 66.7 0 0 - 0 3 3 1 0 2 2 2 -17
+p23
+aVBernard James DAL 04/10/2014 DAL vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p24
+aVDirk Nowitzki DAL 04/10/2014 DAL vs. SAS L 34 19 8 14 57.1 0 0 - 3 5 60.0 0 6 6 1 1 0 0 1 -10
+p25
+aVMonta Ellis DAL 04/10/2014 DAL vs. SAS L 38 24 10 22 45.5 0 1 0.0 4 4 100.0 0 4 4 4 1 0 2 3 -8
+p26
+aVDeJuan Blair DAL 04/10/2014 DAL vs. SAS L 8 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 1 0 0 1 4 8
+p27
+aVShane Larkin DAL 04/10/2014 DAL vs. SAS L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p28
+aVWayne Ellington DAL 04/10/2014 DAL vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p29
+aVDevin Harris DAL 04/10/2014 DAL vs. SAS L 27 8 1 8 12.5 1 5 20.0 5 6 83.3 0 2 2 4 3 1 2 0 22
+p30
+aVBrandan Wright DAL 04/10/2014 DAL vs. SAS L 17 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 1 1
+p31
+aVJose Calderon DAL 04/10/2014 DAL vs. SAS L 28 14 5 11 45.5 2 3 66.7 2 2 100.0 0 3 3 1 0 0 2 0 -22
+p32
+aVJae Crowder DAL 04/10/2014 DAL vs. SAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 2
+p33
+aVSamuel Dalembert DAL 04/10/2014 DAL vs. SAS L 20 2 1 5 20.0 0 0 - 0 0 - 4 7 11 1 0 1 0 2 -23
+p34
+aVVince Carter DAL 04/08/2014 DAL @ UTA W 22 13 5 11 45.5 3 7 42.9 0 0 - 0 2 2 3 0 0 1 4 16
+p35
+aVMonta Ellis DAL 04/08/2014 DAL @ UTA W 38 16 7 17 41.2 1 4 25.0 1 2 50.0 1 3 4 5 0 0 2 0 8
+p36
+aVJae Crowder DAL 04/08/2014 DAL @ UTA W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p37
+aVJose Calderon DAL 04/08/2014 DAL @ UTA W 31 10 4 6 66.7 0 2 0.0 2 4 50.0 0 3 3 4 0 1 2 2 9
+p38
+aVShawn Marion DAL 04/08/2014 DAL @ UTA W 33 10 4 8 50.0 2 4 50.0 0 0 - 1 5 6 1 1 1 1 0 8
+p39
+aVDirk Nowitzki DAL 04/08/2014 DAL @ UTA W 33 21 9 11 81.8 2 3 66.7 1 1 100.0 0 6 6 3 0 0 0 0 3
+p40
+aVBrandan Wright DAL 04/08/2014 DAL @ UTA W 11 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 0 -7
+p41
+aVSamuel Dalembert DAL 04/08/2014 DAL @ UTA W 27 10 5 6 83.3 0 0 - 0 0 - 1 5 6 2 0 2 0 2 10
+p42
+aVDeJuan Blair DAL 04/08/2014 DAL @ UTA W 10 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 0 2 9
+p43
+aVWayne Ellington DAL 04/08/2014 DAL @ UTA W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p44
+aVDevin Harris DAL 04/08/2014 DAL @ UTA W 17 9 3 5 60.0 1 3 33.3 2 4 50.0 0 1 1 6 2 0 2 0 4
+p45
+aVShane Larkin DAL 04/08/2014 DAL @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p46
+aVDirk Nowitzki DAL 04/06/2014 DAL @ SAC W 34 15 5 17 29.4 2 6 33.3 3 4 75.0 0 1 1 3 0 1 0 1 -8
+p47
+aVSamuel Dalembert DAL 04/06/2014 DAL @ SAC W 24 6 3 6 50.0 0 0 - 0 0 - 3 8 11 1 1 1 2 5 10
+p48
+aVBrandan Wright DAL 04/06/2014 DAL @ SAC W 6 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p49
+aVShawn Marion DAL 04/06/2014 DAL @ SAC W 34 7 3 8 37.5 1 2 50.0 0 2 0.0 4 5 9 1 2 1 1 3 10
+p50
+aVWayne Ellington DAL 04/06/2014 DAL @ SAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p51
+aVJose Calderon DAL 04/06/2014 DAL @ SAC W 31 14 5 10 50.0 4 7 57.1 0 0 - 1 3 4 2 2 0 0 1 5
+p52
+aVDevin Harris DAL 04/06/2014 DAL @ SAC W 17 3 1 6 16.7 0 3 0.0 1 2 50.0 0 2 2 7 1 0 0 1 -3
+p53
+aVMonta Ellis DAL 04/06/2014 DAL @ SAC W 39 23 9 19 47.4 2 4 50.0 3 3 100.0 0 4 4 4 1 1 4 2 10
+p54
+aVDeJuan Blair DAL 04/06/2014 DAL @ SAC W 17 6 3 6 50.0 0 0 - 0 2 0.0 6 3 9 2 0 0 1 0 0
+p55
+aVJae Crowder DAL 04/06/2014 DAL @ SAC W 12 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -17
+p56
+aVVince Carter DAL 04/06/2014 DAL @ SAC W 25 17 6 13 46.2 4 9 44.4 1 1 100.0 0 2 2 3 0 1 2 2 13
+p57
+aVJae Crowder DAL 04/04/2014 DAL @ LAL W 20 2 0 3 0.0 0 3 0.0 2 2 100.0 2 5 7 0 1 0 0 1 10
+p58
+aVDevin Harris DAL 04/04/2014 DAL @ LAL W 24 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 7 2 0 3 2 7
+p59
+aVMonta Ellis DAL 04/04/2014 DAL @ LAL W 34 8 3 13 23.1 0 0 - 2 2 100.0 0 3 3 9 1 0 3 1 12
+p60
+aVVince Carter DAL 04/04/2014 DAL @ LAL W 16 0 0 8 0.0 0 2 0.0 0 0 - 1 0 1 3 0 1 3 4 -8
+p61
+aVShawn Marion DAL 04/04/2014 DAL @ LAL W 31 15 7 14 50.0 1 3 33.3 0 0 - 3 5 8 1 1 0 3 1 -1
+p62
+aVJose Calderon DAL 04/04/2014 DAL @ LAL W 29 11 4 11 36.4 2 8 25.0 1 1 100.0 0 3 3 2 0 0 1 3 3
+p63
+aVWayne Ellington DAL 04/04/2014 DAL @ LAL W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 2
+p64
+aVSamuel Dalembert DAL 04/04/2014 DAL @ LAL W 21 14 6 9 66.7 0 0 - 2 2 100.0 4 10 14 0 1 1 0 1 7
+p65
+aVDirk Nowitzki DAL 04/04/2014 DAL @ LAL W 34 27 11 14 78.6 1 2 50.0 4 5 80.0 3 6 9 5 0 0 2 1 23
+p66
+aVBrandan Wright DAL 04/04/2014 DAL @ LAL W 27 23 10 10 100.0 0 0 - 3 3 100.0 2 3 5 1 1 2 1 2 5
+p67
+aVSamuel Dalembert DAL 04/03/2014 DAL @ LAC W 29 12 3 4 75.0 0 0 - 6 6 100.0 3 3 6 1 0 2 2 4 -7
+p68
+aVDevin Harris DAL 04/03/2014 DAL @ LAC W 23 6 2 6 33.3 2 4 50.0 0 0 - 0 3 3 7 0 0 0 1 17
+p69
+aVDeJuan Blair DAL 04/03/2014 DAL @ LAC W 3 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -3
+p70
+aVJae Crowder DAL 04/03/2014 DAL @ LAC W 14 5 2 3 66.7 0 1 0.0 1 2 50.0 1 4 5 1 0 1 1 2 13
+p71
+aVBrandan Wright DAL 04/03/2014 DAL @ LAC W 16 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 1 1 0 3 16
+p72
+aVShawn Marion DAL 04/03/2014 DAL @ LAC W 31 7 2 5 40.0 0 0 - 3 4 75.0 3 6 9 2 0 3 3 0 3
+p73
+aVMonta Ellis DAL 04/03/2014 DAL @ LAC W 37 12 4 12 33.3 1 5 20.0 3 4 75.0 0 4 4 9 0 1 2 0 -4
+p74
+aVJose Calderon DAL 04/03/2014 DAL @ LAC W 27 19 8 13 61.5 3 5 60.0 0 0 - 0 2 2 1 0 0 1 4 -15
+p75
+aVDirk Nowitzki DAL 04/03/2014 DAL @ LAC W 35 26 10 18 55.6 4 7 57.1 2 2 100.0 0 11 11 1 2 1 2 4 2
+p76
+aVVince Carter DAL 04/03/2014 DAL @ LAC W 25 16 6 12 50.0 4 7 57.1 0 0 - 0 2 2 1 1 0 0 3 8
+p77
+aVDevin Harris DAL 04/01/2014 DAL vs. GSW L 16 10 3 7 42.9 2 4 50.0 2 2 100.0 0 1 1 4 0 0 0 3 6
+p78
+aVMonta Ellis DAL 04/01/2014 DAL vs. GSW L 43 27 11 23 47.8 2 5 40.0 3 4 75.0 1 1 2 6 2 1 2 0 -9
+p79
+aVBrandan Wright DAL 04/01/2014 DAL vs. GSW L 25 14 5 6 83.3 0 0 - 4 4 100.0 4 1 5 0 0 1 1 0 -3
+p80
+aVSamuel Dalembert DAL 04/01/2014 DAL vs. GSW L 7 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -15
+p81
+aVVince Carter DAL 04/01/2014 DAL vs. GSW L 31 12 4 13 30.8 3 7 42.9 1 2 50.0 2 2 4 4 2 1 0 2 9
+p82
+aVShawn Marion DAL 04/01/2014 DAL vs. GSW L 36 8 4 8 50.0 0 0 - 0 0 - 4 6 10 2 0 1 1 1 -8
+p83
+aVDirk Nowitzki DAL 04/01/2014 DAL vs. GSW L 40 33 13 21 61.9 6 8 75.0 1 3 33.3 1 10 11 3 2 1 0 0 -1
+p84
+aVDeJuan Blair DAL 04/01/2014 DAL vs. GSW L 11 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 0 1 3 4
+p85
+aVJae Crowder DAL 04/01/2014 DAL vs. GSW L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 0 15
+p86
+aVJose Calderon DAL 04/01/2014 DAL vs. GSW L 37 8 3 9 33.3 1 4 25.0 1 1 100.0 0 2 2 6 0 0 3 2 -8
+p87
+aVSamuel Dalembert DAL 03/29/2014 DAL vs. SAC W 24 15 7 8 87.5 0 0 - 1 2 50.0 2 4 6 0 2 3 3 3 11
+p88
+aVShawn Marion DAL 03/29/2014 DAL vs. SAC W 32 14 5 7 71.4 1 1 100.0 3 3 100.0 1 4 5 2 1 0 0 3 3
+p89
+aVMonta Ellis DAL 03/29/2014 DAL vs. SAC W 38 17 5 12 41.7 1 3 33.3 6 8 75.0 0 3 3 6 2 0 3 2 2
+p90
+aVJose Calderon DAL 03/29/2014 DAL vs. SAC W 38 11 4 11 36.4 3 8 37.5 0 0 - 0 0 0 7 0 0 1 1 10
+p91
+aVJae Crowder DAL 03/29/2014 DAL vs. SAC W 12 6 2 4 50.0 0 2 0.0 2 2 100.0 1 3 4 0 0 0 2 0 -2
+p92
+aVVince Carter DAL 03/29/2014 DAL vs. SAC W 25 10 4 10 40.0 2 6 33.3 0 0 - 0 2 2 3 1 0 0 3 -5
+p93
+aVDevin Harris DAL 03/29/2014 DAL vs. SAC W 16 3 0 4 0.0 0 1 0.0 3 6 50.0 0 1 1 2 0 0 1 1 -6
+p94
+aVBrandan Wright DAL 03/29/2014 DAL vs. SAC W 19 6 2 2 100.0 0 0 - 2 2 100.0 2 4 6 1 0 3 0 0 -5
+p95
+aVDirk Nowitzki DAL 03/29/2014 DAL vs. SAC W 30 19 5 10 50.0 0 2 0.0 9 10 90.0 0 7 7 7 0 1 2 4 12
+p96
+aVDeJuan Blair DAL 03/29/2014 DAL vs. SAC W 5 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -5
+p97
+aVJae Crowder DAL 03/27/2014 DAL vs. LAC L 19 13 5 5 100.0 1 1 100.0 2 2 100.0 0 4 4 0 2 0 0 3 17
+p98
+aVMonta Ellis DAL 03/27/2014 DAL vs. LAC L 36 12 4 19 21.1 0 2 0.0 4 4 100.0 1 4 5 7 2 0 3 3 -10
+p99
+aVShawn Marion DAL 03/27/2014 DAL vs. LAC L 25 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 2 3 0 0 1 -21
+p100
+aVJose Calderon DAL 03/27/2014 DAL vs. LAC L 29 9 3 6 50.0 3 4 75.0 0 0 - 1 4 5 3 1 0 2 0 -17
+p101
+aVDevin Harris DAL 03/27/2014 DAL vs. LAC L 19 7 1 5 20.0 1 3 33.3 4 5 80.0 0 1 1 3 3 0 4 1 4
+p102
+aVVince Carter DAL 03/27/2014 DAL vs. LAC L 28 23 9 13 69.2 4 5 80.0 1 2 50.0 1 0 1 1 0 1 3 4 5
+p103
+aVDirk Nowitzki DAL 03/27/2014 DAL vs. LAC L 35 21 7 15 46.7 1 4 25.0 6 10 60.0 1 8 9 3 0 0 3 2 -2
+p104
+aVDeJuan Blair DAL 03/27/2014 DAL vs. LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p105
+aVBrandan Wright DAL 03/27/2014 DAL vs. LAC L 24 8 3 3 100.0 0 0 - 2 4 50.0 1 3 4 0 1 2 1 3 14
+p106
+aVSamuel Dalembert DAL 03/27/2014 DAL vs. LAC L 22 6 3 5 60.0 0 0 - 0 0 - 5 6 11 1 0 1 1 3 -13
+p107
+aVSamuel Dalembert DAL 03/25/2014 DAL vs. OKC W 21 10 5 6 83.3 0 0 - 0 0 - 4 3 7 1 1 1 2 3 9
+p108
+aVVince Carter DAL 03/25/2014 DAL vs. OKC W 26 16 4 11 36.4 4 9 44.4 4 6 66.7 0 5 5 1 2 1 4 2 -2
+p109
+aVDeJuan Blair DAL 03/25/2014 DAL vs. OKC W 8 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 2 4 -12
+p110
+aVJose Calderon DAL 03/25/2014 DAL vs. OKC W 37 22 7 10 70.0 6 9 66.7 2 2 100.0 0 4 4 8 0 0 0 1 21
+p111
+aVMonta Ellis DAL 03/25/2014 DAL vs. OKC W 43 17 6 15 40.0 0 3 0.0 5 7 71.4 1 2 3 5 4 0 4 3 14
+p112
+aVShawn Marion DAL 03/25/2014 DAL vs. OKC W 41 11 5 11 45.5 1 4 25.0 0 0 - 1 5 6 2 1 0 1 1 12
+p113
+aVDevin Harris DAL 03/25/2014 DAL vs. OKC W 18 5 2 4 50.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 0 0 -12
+p114
+aVDirk Nowitzki DAL 03/25/2014 DAL vs. OKC W 39 32 11 23 47.8 2 8 25.0 8 8 100.0 1 9 10 6 4 1 6 4 15
+p115
+aVJae Crowder DAL 03/25/2014 DAL vs. OKC W 12 10 4 6 66.7 2 4 50.0 0 0 - 1 2 3 0 0 0 0 2 -3
+p116
+aVBrandan Wright DAL 03/25/2014 DAL vs. OKC W 21 3 1 3 33.3 0 0 - 1 2 50.0 3 3 6 2 2 1 1 2 3
+p117
+aVShane Larkin DAL 03/23/2014 DAL vs. BKN L 13 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 -12
+p118
+aVDirk Nowitzki DAL 03/23/2014 DAL vs. BKN L 38 10 2 12 16.7 0 3 0.0 6 6 100.0 0 8 8 2 0 0 2 4 -10
+p119
+aVSamuel Dalembert DAL 03/23/2014 DAL vs. BKN L 35 12 4 5 80.0 0 0 - 4 6 66.7 5 10 15 1 0 7 0 2 13
+p120
+aVJae Crowder DAL 03/23/2014 DAL vs. BKN L 16 5 1 6 16.7 1 4 25.0 2 2 100.0 1 2 3 2 1 0 0 1 -7
+p121
+aVVince Carter DAL 03/23/2014 DAL vs. BKN L 28 12 4 13 30.8 2 5 40.0 2 2 100.0 6 4 10 4 0 0 2 3 6
+p122
+aVShawn Marion DAL 03/23/2014 DAL vs. BKN L 34 12 5 10 50.0 2 3 66.7 0 0 - 2 4 6 1 0 0 1 3 7
+p123
+aVJose Calderon DAL 03/23/2014 DAL vs. BKN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p124
+aVBrandan Wright DAL 03/23/2014 DAL vs. BKN L 18 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 0 -16
+p125
+aVDevin Harris DAL 03/23/2014 DAL vs. BKN L 40 11 4 15 26.7 3 8 37.5 0 0 - 3 4 7 6 0 0 4 5 7
+p126
+aVMonta Ellis DAL 03/23/2014 DAL vs. BKN L 41 32 11 24 45.8 2 8 25.0 8 11 72.7 0 1 1 4 1 1 4 5 -3
+p127
+aVDirk Nowitzki DAL 03/21/2014 DAL vs. DEN W 29 21 9 15 60.0 1 2 50.0 2 3 66.7 0 6 6 1 2 1 1 4 7
+p128
+aVVince Carter DAL 03/21/2014 DAL vs. DEN W 25 13 5 12 41.7 3 5 60.0 0 0 - 0 3 3 4 2 1 0 2 9
+p129
+aVDevin Harris DAL 03/21/2014 DAL vs. DEN W 24 7 1 5 20.0 0 1 0.0 5 5 100.0 0 2 2 3 1 0 3 0 13
+p130
+aVShane Larkin DAL 03/21/2014 DAL vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p131
+aVShawn Marion DAL 03/21/2014 DAL vs. DEN W 32 14 7 11 63.6 0 1 0.0 0 0 - 2 5 7 3 2 0 0 0 11
+p132
+aVDeJuan Blair DAL 03/21/2014 DAL vs. DEN W 11 2 0 3 0.0 0 0 - 2 4 50.0 3 1 4 0 0 0 0 2 0
+p133
+aVJose Calderon DAL 03/21/2014 DAL vs. DEN W 27 10 4 9 44.4 2 4 50.0 0 0 - 0 4 4 6 0 1 1 1 7
+p134
+aVBrandan Wright DAL 03/21/2014 DAL vs. DEN W 21 13 6 9 66.7 0 0 - 1 1 100.0 1 2 3 3 0 1 0 3 20
+p135
+aVJae Crowder DAL 03/21/2014 DAL vs. DEN W 18 12 4 4 100.0 4 4 100.0 0 0 - 1 3 4 1 1 0 2 2 11
+p136
+aVWayne Ellington DAL 03/21/2014 DAL vs. DEN W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p137
+aVSamuel Dalembert DAL 03/21/2014 DAL vs. DEN W 16 4 1 6 16.7 0 0 - 2 2 100.0 7 3 10 0 1 1 3 0 -4
+p138
+aVBernard James DAL 03/21/2014 DAL vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p139
+aVMonta Ellis DAL 03/21/2014 DAL vs. DEN W 34 26 11 14 78.6 2 4 50.0 2 2 100.0 0 4 4 7 1 0 5 4 12
+p140
+aVDeJuan Blair DAL 03/19/2014 DAL vs. MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p141
+aVVince Carter DAL 03/19/2014 DAL vs. MIN L 30 14 4 7 57.1 3 4 75.0 3 3 100.0 0 5 5 3 1 1 4 6 -6
+p142
+aVDevin Harris DAL 03/19/2014 DAL vs. MIN L 32 13 4 11 36.4 0 3 0.0 5 5 100.0 0 4 4 4 2 0 4 3 -8
+p143
+aVWayne Ellington DAL 03/19/2014 DAL vs. MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p144
+aVShawn Marion DAL 03/19/2014 DAL vs. MIN L 38 16 8 12 66.7 0 3 0.0 0 0 - 2 9 11 5 2 0 2 1 8
+p145
+aVDirk Nowitzki DAL 03/19/2014 DAL vs. MIN L 39 27 11 27 40.7 0 7 0.0 5 6 83.3 0 3 3 0 0 0 2 3 1
+p146
+aVBrandan Wright DAL 03/19/2014 DAL vs. MIN L 21 7 3 3 100.0 0 0 - 1 4 25.0 1 2 3 1 0 0 0 1 -18
+p147
+aVJose Calderon DAL 03/19/2014 DAL vs. MIN L 28 12 5 9 55.6 2 4 50.0 0 0 - 0 3 3 4 1 0 0 2 8
+p148
+aVSamuel Dalembert DAL 03/19/2014 DAL vs. MIN L 22 7 3 7 42.9 0 0 - 1 2 50.0 7 7 14 2 1 3 0 0 2
+p149
+aVMonta Ellis DAL 03/19/2014 DAL vs. MIN L 37 22 7 15 46.7 4 6 66.7 4 5 80.0 0 6 6 4 2 0 3 5 10
+p150
+aVJae Crowder DAL 03/19/2014 DAL vs. MIN L 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 3 14
+p151
+aVJose Calderon DAL 03/17/2014 DAL vs. BOS W 31 6 2 6 33.3 2 4 50.0 0 0 - 0 0 0 6 1 1 1 1 9
+p152
+aVMonta Ellis DAL 03/17/2014 DAL vs. BOS W 37 17 4 11 36.4 1 2 50.0 8 9 88.9 0 7 7 4 1 0 5 3 5
+p153
+aVSamuel Dalembert DAL 03/17/2014 DAL vs. BOS W 23 6 3 4 75.0 0 0 - 0 0 - 1 6 7 0 0 2 3 4 5
+p154
+aVDevin Harris DAL 03/17/2014 DAL vs. BOS W 20 12 3 8 37.5 1 4 25.0 5 6 83.3 0 3 3 6 2 0 1 1 -6
+p155
+aVWayne Ellington DAL 03/17/2014 DAL vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p156
+aVDeJuan Blair DAL 03/17/2014 DAL vs. BOS W 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 7
+p157
+aVBrandan Wright DAL 03/17/2014 DAL vs. BOS W 17 10 5 5 100.0 0 0 - 0 0 - 2 1 3 0 1 0 0 0 -9
+p158
+aVJae Crowder DAL 03/17/2014 DAL vs. BOS W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -11
+p159
+aVDirk Nowitzki DAL 03/17/2014 DAL vs. BOS W 32 19 6 17 35.3 4 8 50.0 3 3 100.0 0 6 6 1 0 0 1 1 9
+p160
+aVShawn Marion DAL 03/17/2014 DAL vs. BOS W 34 11 4 10 40.0 1 4 25.0 2 2 100.0 1 5 6 0 2 0 1 1 7
+p161
+aVVince Carter DAL 03/17/2014 DAL vs. BOS W 26 9 4 13 30.8 0 5 0.0 1 1 100.0 2 1 3 2 0 1 0 2 2
+p162
+aVDeJuan Blair DAL 03/16/2014 DAL @ OKC W 9 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 1 1 0 2 4 -1
+p163
+aVBernard James DAL 03/16/2014 DAL @ OKC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p164
+aVShane Larkin DAL 03/16/2014 DAL @ OKC W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -3
+p165
+aVJae Crowder DAL 03/16/2014 DAL @ OKC W 16 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 4
+p166
+aVJose Calderon DAL 03/16/2014 DAL @ OKC W 29 16 6 11 54.5 4 8 50.0 0 0 - 0 5 5 7 2 1 1 1 18
+p167
+aVWayne Ellington DAL 03/16/2014 DAL @ OKC W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 3 1 -1
+p168
+aVSamuel Dalembert DAL 03/16/2014 DAL @ OKC W 21 10 4 4 100.0 0 0 - 2 2 100.0 0 3 3 0 2 1 2 3 9
+p169
+aVMonta Ellis DAL 03/16/2014 DAL @ OKC W 31 9 2 7 28.6 0 0 - 5 6 83.3 0 1 1 7 0 0 2 2 6
+p170
+aVShawn Marion DAL 03/16/2014 DAL @ OKC W 30 19 8 12 66.7 2 2 100.0 1 2 50.0 2 4 6 0 2 0 2 0 18
+p171
+aVVince Carter DAL 03/16/2014 DAL @ OKC W 21 18 5 12 41.7 4 8 50.0 4 4 100.0 0 2 2 2 0 0 0 1 23
+p172
+aVDevin Harris DAL 03/16/2014 DAL @ OKC W 21 8 3 6 50.0 1 2 50.0 1 1 100.0 1 3 4 6 0 0 1 1 17
+p173
+aVBrandan Wright DAL 03/16/2014 DAL @ OKC W 19 8 4 6 66.7 0 0 - 0 0 - 3 5 8 0 1 2 1 2 17
+p174
+aVDirk Nowitzki DAL 03/16/2014 DAL @ OKC W 30 17 6 12 50.0 2 3 66.7 3 3 100.0 1 3 4 2 1 0 2 1 11
+p175
+aVShawn Marion DAL 03/12/2014 DAL @ UTA W 34 4 2 6 33.3 0 1 0.0 0 0 - 1 5 6 2 0 0 1 3 -2
+p176
+aVJose Calderon DAL 03/12/2014 DAL @ UTA W 32 10 3 8 37.5 2 4 50.0 2 2 100.0 0 1 1 5 0 0 0 1 1
+p177
+aVMonta Ellis DAL 03/12/2014 DAL @ UTA W 36 16 6 15 40.0 1 1 100.0 3 4 75.0 1 6 7 11 1 0 4 1 1
+p178
+aVBrandan Wright DAL 03/12/2014 DAL @ UTA W 15 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 1 1 0 2 6
+p179
+aVVince Carter DAL 03/12/2014 DAL @ UTA W 24 8 3 9 33.3 2 5 40.0 0 0 - 1 2 3 3 0 0 0 3 -11
+p180
+aVDevin Harris DAL 03/12/2014 DAL @ UTA W 20 12 5 9 55.6 1 3 33.3 1 1 100.0 0 3 3 3 0 0 3 2 10
+p181
+aVWayne Ellington DAL 03/12/2014 DAL @ UTA W 13 11 4 5 80.0 3 3 100.0 0 0 - 1 1 2 1 0 0 0 2 9
+p182
+aVBernard James DAL 03/12/2014 DAL @ UTA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p183
+aVDirk Nowitzki DAL 03/12/2014 DAL @ UTA W 33 31 12 14 85.7 4 4 100.0 3 3 100.0 0 8 8 0 0 0 2 1 22
+p184
+aVSamuel Dalembert DAL 03/12/2014 DAL @ UTA W 15 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 0 1 3 5 -1
+p185
+aVDeJuan Blair DAL 03/12/2014 DAL @ UTA W 10 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 1 -1
+p186
+aVMonta Ellis DAL 03/11/2014 DAL @ GSW L 35 15 6 13 46.2 1 3 33.3 2 4 50.0 0 3 3 2 2 1 2 1 -11
+p187
+aVShawn Marion DAL 03/11/2014 DAL @ GSW L 26 0 0 6 0.0 0 1 0.0 0 0 - 2 1 3 2 0 0 1 2 -9
+p188
+aVVince Carter DAL 03/11/2014 DAL @ GSW L 22 10 3 10 30.0 2 5 40.0 2 2 100.0 0 2 2 0 1 0 1 2 -17
+p189
+aVDeJuan Blair DAL 03/11/2014 DAL @ GSW L 15 8 3 10 30.0 0 0 - 2 4 50.0 4 4 8 1 1 0 2 2 -12
+p190
+aVGal Mekel DAL 03/11/2014 DAL @ GSW L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -2
+p191
+aVDevin Harris DAL 03/11/2014 DAL @ GSW L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -15
+p192
+aVDirk Nowitzki DAL 03/11/2014 DAL @ GSW L 30 12 4 11 36.4 0 1 0.0 4 4 100.0 0 6 6 1 1 0 0 1 -8
+p193
+aVShane Larkin DAL 03/11/2014 DAL @ GSW L 16 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 3 3 0 0 0 -6
+p194
+aVWayne Ellington DAL 03/11/2014 DAL @ GSW L 15 5 2 5 40.0 0 2 0.0 1 1 100.0 1 0 1 0 2 0 0 2 -15
+p195
+aVBernard James DAL 03/11/2014 DAL @ GSW L 4 2 1 1 100.0 0 0 - 0 3 0.0 2 0 2 0 0 1 3 2 -4
+p196
+aVBrandan Wright DAL 03/11/2014 DAL @ GSW L 16 9 3 5 60.0 0 0 - 3 4 75.0 2 4 6 1 0 1 1 1 -12
+p197
+aVSamuel Dalembert DAL 03/11/2014 DAL @ GSW L 20 8 2 3 66.7 0 0 - 4 6 66.7 0 5 5 2 0 0 1 1 -4
+p198
+aVJose Calderon DAL 03/11/2014 DAL @ GSW L 30 13 5 11 45.5 2 5 40.0 1 1 100.0 0 2 2 5 0 0 6 0 0
+p199
+aVDevin Harris DAL 03/09/2014 DAL vs. IND W 24 20 6 9 66.7 4 6 66.7 4 5 80.0 0 1 1 5 4 0 1 3 21
+p200
+aVVince Carter DAL 03/09/2014 DAL vs. IND W 25 10 3 8 37.5 1 3 33.3 3 4 75.0 5 2 7 3 1 0 0 3 10
+p201
+aVJae Crowder DAL 03/09/2014 DAL vs. IND W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p202
+aVDeJuan Blair DAL 03/09/2014 DAL vs. IND W 18 5 1 4 25.0 0 0 - 3 6 50.0 1 0 1 3 1 0 1 5 13
+p203
+aVSamuel Dalembert DAL 03/09/2014 DAL vs. IND W 18 8 4 9 44.4 0 0 - 0 0 - 4 4 8 0 0 0 2 5 -3
+p204
+aVBrandan Wright DAL 03/09/2014 DAL vs. IND W 12 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 1
+p205
+aVJose Calderon DAL 03/09/2014 DAL vs. IND W 30 10 4 8 50.0 2 5 40.0 0 0 - 1 2 3 7 0 0 1 2 -7
+p206
+aVShawn Marion DAL 03/09/2014 DAL vs. IND W 34 12 6 9 66.7 0 0 - 0 0 - 1 2 3 2 0 2 0 3 -4
+p207
+aVMonta Ellis DAL 03/09/2014 DAL vs. IND W 38 20 6 16 37.5 0 2 0.0 8 9 88.9 2 6 8 2 1 0 1 2 2
+p208
+aVDirk Nowitzki DAL 03/09/2014 DAL vs. IND W 35 14 3 14 21.4 1 4 25.0 7 7 100.0 1 7 8 1 2 0 3 0 19
+p209
+aVBrandan Wright DAL 03/07/2014 DAL vs. POR W 16 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -5
+p210
+aVDeJuan Blair DAL 03/07/2014 DAL vs. POR W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p211
+aVMonta Ellis DAL 03/07/2014 DAL vs. POR W 42 17 6 13 46.2 0 2 0.0 5 9 55.6 2 6 8 7 3 0 4 3 5
+p212
+aVJose Calderon DAL 03/07/2014 DAL vs. POR W 30 19 8 16 50.0 3 6 50.0 0 0 - 0 0 0 2 1 0 0 2 -11
+p213
+aVJae Crowder DAL 03/07/2014 DAL vs. POR W 12 8 1 3 33.3 0 1 0.0 6 7 85.7 0 2 2 0 1 0 0 0 13
+p214
+aVShawn Marion DAL 03/07/2014 DAL vs. POR W 29 4 2 6 33.3 0 1 0.0 0 0 - 2 2 4 0 0 0 0 1 -10
+p215
+aVVince Carter DAL 03/07/2014 DAL vs. POR W 23 9 3 6 50.0 0 0 - 3 4 75.0 2 2 4 0 1 0 2 3 -11
+p216
+aVSamuel Dalembert DAL 03/07/2014 DAL vs. POR W 28 4 1 5 20.0 0 0 - 2 2 100.0 3 5 8 0 1 3 1 5 12
+p217
+aVDirk Nowitzki DAL 03/07/2014 DAL vs. POR W 34 22 8 19 42.1 0 2 0.0 6 7 85.7 0 5 5 6 2 0 1 2 15
+p218
+aVDevin Harris DAL 03/07/2014 DAL vs. POR W 23 12 4 6 66.7 1 1 100.0 3 5 60.0 0 3 3 1 1 0 1 4 19
+p219
+aVShawn Marion DAL 03/05/2014 DAL @ DEN L 29 15 7 12 58.3 1 2 50.0 0 0 - 3 3 6 0 0 0 1 1 -15
+p220
+aVSamuel Dalembert DAL 03/05/2014 DAL @ DEN L 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -18
+p221
+aVBrandan Wright DAL 03/05/2014 DAL @ DEN L 25 18 9 13 69.2 0 0 - 0 0 - 2 1 3 0 1 2 1 2 12
+p222
+aVDirk Nowitzki DAL 03/05/2014 DAL @ DEN L 34 27 13 20 65.0 1 2 50.0 0 0 - 0 7 7 0 0 0 1 4 -7
+p223
+aVJae Crowder DAL 03/05/2014 DAL @ DEN L 16 8 2 2 100.0 2 2 100.0 2 2 100.0 1 3 4 1 0 1 2 1 1
+p224
+aVDevin Harris DAL 03/05/2014 DAL @ DEN L 18 2 0 5 0.0 0 2 0.0 2 2 100.0 1 3 4 11 1 0 1 2 5
+p225
+aVJose Calderon DAL 03/05/2014 DAL @ DEN L 31 5 2 5 40.0 1 4 25.0 0 0 - 1 1 2 6 1 0 4 1 -11
+p226
+aVMonta Ellis DAL 03/05/2014 DAL @ DEN L 39 16 7 13 53.8 1 1 100.0 1 1 100.0 0 1 1 4 1 1 3 5 -6
+p227
+aVVince Carter DAL 03/05/2014 DAL @ DEN L 21 17 5 12 41.7 3 7 42.9 4 4 100.0 0 1 1 0 1 0 1 4 5
+p228
+aVShane Larkin DAL 03/05/2014 DAL @ DEN L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 8
+p229
+aVDeJuan Blair DAL 03/05/2014 DAL @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p230
+aVBernard James DAL 03/05/2014 DAL @ DEN L 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 1 0 1 5 7
+p231
+aVJose Calderon DAL 03/02/2014 DAL @ SAS L 31 8 4 11 36.4 0 1 0.0 0 0 - 1 1 2 6 3 1 2 1 -8
+p232
+aVShawn Marion DAL 03/02/2014 DAL @ SAS L 29 5 2 7 28.6 1 3 33.3 0 0 - 1 3 4 1 3 0 0 1 -3
+p233
+aVSamuel Dalembert DAL 03/02/2014 DAL @ SAS L 19 8 3 7 42.9 0 0 - 2 2 100.0 5 5 10 0 0 0 0 4 -2
+p234
+aVDevin Harris DAL 03/02/2014 DAL @ SAS L 21 8 3 9 33.3 1 3 33.3 1 2 50.0 0 1 1 0 0 0 0 3 0
+p235
+aVDeJuan Blair DAL 03/02/2014 DAL @ SAS L 13 6 3 5 60.0 0 0 - 0 0 - 2 2 4 2 1 1 1 1 -2
+p236
+aVWayne Ellington DAL 03/02/2014 DAL @ SAS L 12 3 1 4 25.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 3 -6
+p237
+aVBrandan Wright DAL 03/02/2014 DAL @ SAS L 18 8 4 6 66.7 0 0 - 0 2 0.0 3 3 6 2 2 2 0 3 -1
+p238
+aVDirk Nowitzki DAL 03/02/2014 DAL @ SAS L 31 22 9 17 52.9 0 2 0.0 4 5 80.0 1 6 7 0 0 1 1 3 -13
+p239
+aVMonta Ellis DAL 03/02/2014 DAL @ SAS L 38 17 7 15 46.7 1 2 50.0 2 3 66.7 0 3 3 8 1 0 3 2 -2
+p240
+aVVince Carter DAL 03/02/2014 DAL @ SAS L 29 21 9 16 56.3 3 6 50.0 0 0 - 0 4 4 5 0 0 0 2 7
+p241
+aVSamuel Dalembert DAL 02/28/2014 DAL vs. CHI L 23 6 2 4 50.0 0 0 - 2 2 100.0 4 6 10 0 0 2 2 3 9
+p242
+aVWayne Ellington DAL 02/28/2014 DAL vs. CHI L 13 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p243
+aVBrandan Wright DAL 02/28/2014 DAL vs. CHI L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p244
+aVDevin Harris DAL 02/28/2014 DAL vs. CHI L 15 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 4 0 0 2 2 -12
+p245
+aVMonta Ellis DAL 02/28/2014 DAL vs. CHI L 39 20 7 19 36.8 2 6 33.3 4 8 50.0 0 4 4 5 3 1 1 3 -9
+p246
+aVJose Calderon DAL 02/28/2014 DAL vs. CHI L 33 13 5 12 41.7 3 7 42.9 0 0 - 1 2 3 2 2 0 0 1 3
+p247
+aVShawn Marion DAL 02/28/2014 DAL vs. CHI L 30 11 5 5 100.0 1 1 100.0 0 0 - 2 2 4 2 0 0 4 2 5
+p248
+aVJae Crowder DAL 02/28/2014 DAL vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p249
+aVDirk Nowitzki DAL 02/28/2014 DAL vs. CHI L 34 15 7 18 38.9 1 5 20.0 0 0 - 2 3 5 2 0 1 3 2 -19
+p250
+aVVince Carter DAL 02/28/2014 DAL vs. CHI L 26 15 5 14 35.7 4 8 50.0 1 2 50.0 3 4 7 1 3 1 1 3 4
+p251
+aVDeJuan Blair DAL 02/28/2014 DAL vs. CHI L 16 7 2 4 50.0 0 0 - 3 3 100.0 1 1 2 0 4 0 0 2 -12
+p252
+aVJae Crowder DAL 02/26/2014 DAL vs. NOP W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p253
+aVBrandan Wright DAL 02/26/2014 DAL vs. NOP W 24 8 3 4 75.0 0 0 - 2 2 100.0 3 5 8 1 3 3 0 0 23
+p254
+aVShane Larkin DAL 02/26/2014 DAL vs. NOP W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p255
+aVDeJuan Blair DAL 02/26/2014 DAL vs. NOP W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -6
+p256
+aVVince Carter DAL 02/26/2014 DAL vs. NOP W 22 17 6 9 66.7 1 3 33.3 4 4 100.0 0 2 2 2 1 0 2 1 10
+p257
+aVDevin Harris DAL 02/26/2014 DAL vs. NOP W 22 3 1 7 14.3 0 3 0.0 1 2 50.0 0 2 2 4 0 0 1 1 5
+p258
+aVDirk Nowitzki DAL 02/26/2014 DAL vs. NOP W 27 18 7 13 53.8 1 3 33.3 3 3 100.0 0 5 5 3 2 0 1 2 16
+p259
+aVSamuel Dalembert DAL 02/26/2014 DAL vs. NOP W 21 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 1 1 1 2 2
+p260
+aVMonta Ellis DAL 02/26/2014 DAL vs. NOP W 34 23 8 18 44.4 1 3 33.3 6 6 100.0 0 4 4 7 4 0 2 2 17
+p261
+aVWayne Ellington DAL 02/26/2014 DAL vs. NOP W 22 12 4 6 66.7 4 5 80.0 0 0 - 0 2 2 1 0 0 1 2 11
+p262
+aVJose Calderon DAL 02/26/2014 DAL vs. NOP W 26 9 3 7 42.9 3 5 60.0 0 0 - 0 2 2 5 1 0 0 2 12
+p263
+aVShawn Marion DAL 02/26/2014 DAL vs. NOP W 31 10 5 9 55.6 0 0 - 0 0 - 1 7 8 3 3 0 0 0 5
+p264
+aVBernard James DAL 02/26/2014 DAL vs. NOP W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p265
+aVWayne Ellington DAL 02/24/2014 DAL @ NYK W 10 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p266
+aVDevin Harris DAL 02/24/2014 DAL @ NYK W 14 2 0 3 0.0 0 1 0.0 2 2 100.0 0 4 4 8 0 0 2 2 0
+p267
+aVVince Carter DAL 02/24/2014 DAL @ NYK W 26 23 8 17 47.1 7 12 58.3 0 0 - 1 2 3 3 0 1 0 4 6
+p268
+aVSamuel Dalembert DAL 02/24/2014 DAL @ NYK W 23 6 2 5 40.0 0 0 - 2 4 50.0 5 5 10 1 1 0 2 3 7
+p269
+aVJae Crowder DAL 02/24/2014 DAL @ NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p270
+aVJose Calderon DAL 02/24/2014 DAL @ NYK W 34 20 6 9 66.7 5 8 62.5 3 3 100.0 1 2 3 6 0 0 0 0 2
+p271
+aVMonta Ellis DAL 02/24/2014 DAL @ NYK W 41 22 9 22 40.9 2 6 33.3 2 2 100.0 0 3 3 6 0 0 4 2 6
+p272
+aVBrandan Wright DAL 02/24/2014 DAL @ NYK W 21 12 6 8 75.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 -9
+p273
+aVDeJuan Blair DAL 02/24/2014 DAL @ NYK W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 3
+p274
+aVShawn Marion DAL 02/24/2014 DAL @ NYK W 37 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 0 2 1 1 2 -2
+p275
+aVDirk Nowitzki DAL 02/24/2014 DAL @ NYK W 32 15 6 13 46.2 0 5 0.0 3 3 100.0 1 0 1 3 2 0 1 2 2
+p276
+aVJose Calderon DAL 02/22/2014 DAL @ DET W 29 11 4 8 50.0 2 4 50.0 1 2 50.0 0 4 4 4 1 0 4 2 9
+p277
+aVWayne Ellington DAL 02/22/2014 DAL @ DET W 16 7 2 3 66.7 1 2 50.0 2 2 100.0 0 2 2 2 1 0 0 1 2
+p278
+aVBrandan Wright DAL 02/22/2014 DAL @ DET W 14 9 4 7 57.1 0 0 - 1 1 100.0 1 3 4 0 0 1 0 3 2
+p279
+aVShane Larkin DAL 02/22/2014 DAL @ DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p280
+aVMonta Ellis DAL 02/22/2014 DAL @ DET W 37 12 5 9 55.6 0 0 - 2 2 100.0 0 1 1 13 3 0 2 2 9
+p281
+aVShawn Marion DAL 02/22/2014 DAL @ DET W 31 10 5 12 41.7 0 3 0.0 0 0 - 4 7 11 2 1 0 0 2 9
+p282
+aVSamuel Dalembert DAL 02/22/2014 DAL @ DET W 25 12 6 9 66.7 0 0 - 0 3 0.0 6 5 11 1 0 3 2 1 14
+p283
+aVDeJuan Blair DAL 02/22/2014 DAL @ DET W 10 4 2 5 40.0 0 0 - 0 0 - 3 0 3 0 1 0 2 1 -5
+p284
+aVVince Carter DAL 02/22/2014 DAL @ DET W 30 18 5 13 38.5 3 6 50.0 5 6 83.3 2 4 6 5 1 1 2 0 13
+p285
+aVDevin Harris DAL 02/22/2014 DAL @ DET W 19 6 2 5 40.0 0 1 0.0 2 2 100.0 0 4 4 3 0 1 1 3 2
+p286
+aVDirk Nowitzki DAL 02/22/2014 DAL @ DET W 31 24 9 19 47.4 2 7 28.6 4 4 100.0 0 4 4 1 0 0 1 4 0
+p287
+aVShawn Marion DAL 02/21/2014 DAL @ PHI W 31 22 11 14 78.6 0 2 0.0 0 0 - 3 4 7 3 2 0 0 3 21
+p288
+aVJae Crowder DAL 02/21/2014 DAL @ PHI W 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -5
+p289
+aVDeJuan Blair DAL 02/21/2014 DAL @ PHI W 16 18 7 9 77.8 0 0 - 4 4 100.0 1 3 4 0 0 1 3 2 11
+p290
+aVBernard James DAL 02/21/2014 DAL @ PHI W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p291
+aVJose Calderon DAL 02/21/2014 DAL @ PHI W 30 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 10 1 1 2 2 8
+p292
+aVDirk Nowitzki DAL 02/21/2014 DAL @ PHI W 27 25 9 12 75.0 5 7 71.4 2 2 100.0 1 6 7 4 0 1 2 0 7
+p293
+aVVince Carter DAL 02/21/2014 DAL @ PHI W 21 7 1 4 25.0 1 3 33.3 4 5 80.0 0 9 9 2 2 1 0 4 15
+p294
+aVBrandan Wright DAL 02/21/2014 DAL @ PHI W 15 6 3 4 75.0 0 0 - 0 0 - 3 3 6 1 0 1 3 3 4
+p295
+aVShane Larkin DAL 02/21/2014 DAL @ PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p296
+aVDevin Harris DAL 02/21/2014 DAL @ PHI W 20 9 3 4 75.0 0 1 0.0 3 5 60.0 0 2 2 7 1 0 3 2 6
+p297
+aVWayne Ellington DAL 02/21/2014 DAL @ PHI W 13 6 2 4 50.0 0 2 0.0 2 2 100.0 0 0 0 4 1 0 2 1 -12
+p298
+aVSamuel Dalembert DAL 02/21/2014 DAL @ PHI W 16 6 2 4 50.0 0 0 - 2 2 100.0 0 6 6 1 0 2 1 0 2
+p299
+aVMonta Ellis DAL 02/21/2014 DAL @ PHI W 34 11 4 12 33.3 1 4 25.0 2 5 40.0 0 3 3 4 1 0 7 3 16
+p300
+aVDeJuan Blair DAL 02/18/2014 DAL vs. MIA L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p301
+aVShawn Marion DAL 02/18/2014 DAL vs. MIA L 28 7 3 9 33.3 1 4 25.0 0 0 - 3 4 7 0 1 0 4 4 -21
+p302
+aVDirk Nowitzki DAL 02/18/2014 DAL vs. MIA L 36 22 7 14 50.0 1 5 20.0 7 7 100.0 2 7 9 7 1 0 1 1 7
+p303
+aVJae Crowder DAL 02/18/2014 DAL vs. MIA L 14 5 2 3 66.7 1 1 100.0 0 0 - 2 1 3 1 0 0 0 1 9
+p304
+aVSamuel Dalembert DAL 02/18/2014 DAL vs. MIA L 19 7 3 8 37.5 0 0 - 1 2 50.0 4 5 9 0 0 0 0 2 1
+p305
+aVWayne Ellington DAL 02/18/2014 DAL vs. MIA L 1 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 3
+p306
+aVVince Carter DAL 02/18/2014 DAL vs. MIA L 26 15 2 9 22.2 1 5 20.0 10 11 90.9 6 1 7 1 1 0 2 3 -13
+p307
+aVBernard James DAL 02/18/2014 DAL vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p308
+aVMonta Ellis DAL 02/18/2014 DAL vs. MIA L 37 12 4 13 30.8 1 3 33.3 3 4 75.0 0 2 2 2 3 0 3 2 -20
+p309
+aVJose Calderon DAL 02/18/2014 DAL vs. MIA L 29 12 4 9 44.4 2 6 33.3 2 2 100.0 0 3 3 3 0 0 2 2 -20
+p310
+aVDevin Harris DAL 02/18/2014 DAL vs. MIA L 19 9 2 3 66.7 1 1 100.0 4 4 100.0 0 4 4 5 0 0 3 1 5
+p311
+aVBrandan Wright DAL 02/18/2014 DAL vs. MIA L 23 12 5 13 38.5 0 0 - 2 2 100.0 3 2 5 0 0 1 1 0 -9
+p312
+aVShane Larkin DAL 02/18/2014 DAL vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p313
+aVDeJuan Blair DAL 02/12/2014 DAL @ IND W 16 9 4 8 50.0 0 0 - 1 1 100.0 2 1 3 1 0 3 0 0 4
+p314
+aVSamuel Dalembert DAL 02/12/2014 DAL @ IND W 20 4 2 8 25.0 0 0 - 0 0 - 1 6 7 0 1 0 2 2 -8
+p315
+aVBrandan Wright DAL 02/12/2014 DAL @ IND W 12 7 3 3 100.0 0 0 - 1 2 50.0 1 4 5 0 1 1 1 1 12
+p316
+aVJose Calderon DAL 02/12/2014 DAL @ IND W 22 4 1 7 14.3 1 5 20.0 1 2 50.0 1 3 4 2 0 1 3 4 9
+p317
+aVShawn Marion DAL 02/12/2014 DAL @ IND W 37 4 2 9 22.2 0 1 0.0 0 0 - 1 4 5 2 1 0 1 2 -4
+p318
+aVJae Crowder DAL 02/12/2014 DAL @ IND W 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 2 0 1 8
+p319
+aVVince Carter DAL 02/12/2014 DAL @ IND W 22 11 4 11 36.4 3 6 50.0 0 0 - 0 3 3 4 1 0 0 1 7
+p320
+aVShane Larkin DAL 02/12/2014 DAL @ IND W 23 1 0 5 0.0 0 1 0.0 1 2 50.0 0 2 2 5 0 0 1 3 0
+p321
+aVMonta Ellis DAL 02/12/2014 DAL @ IND W 41 23 7 18 38.9 0 3 0.0 9 10 90.0 2 7 9 6 1 2 4 2 2
+p322
+aVDirk Nowitzki DAL 02/12/2014 DAL @ IND W 34 18 7 14 50.0 1 3 33.3 3 4 75.0 2 4 6 1 2 1 1 3 10
+p323
+aVShane Larkin DAL 02/11/2014 DAL @ CHA L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 5
+p324
+aVBrandan Wright DAL 02/11/2014 DAL @ CHA L 12 8 4 7 57.1 0 0 - 0 0 - 2 1 3 0 0 1 0 0 -10
+p325
+aVMonta Ellis DAL 02/11/2014 DAL @ CHA L 32 16 7 12 58.3 0 1 0.0 2 2 100.0 1 3 4 7 2 0 3 1 -18
+p326
+aVVince Carter DAL 02/11/2014 DAL @ CHA L 21 8 4 15 26.7 0 4 0.0 0 0 - 0 1 1 0 1 0 0 3 -16
+p327
+aVDirk Nowitzki DAL 02/11/2014 DAL @ CHA L 24 16 5 9 55.6 2 2 100.0 4 4 100.0 0 4 4 1 0 0 0 3 -15
+p328
+aVBernard James DAL 02/11/2014 DAL @ CHA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 0 0 0
+p329
+aVShawn Marion DAL 02/11/2014 DAL @ CHA L 28 6 3 5 60.0 0 1 0.0 0 0 - 2 2 4 2 0 0 0 0 -12
+p330
+aVWayne Ellington DAL 02/11/2014 DAL @ CHA L 14 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p331
+aVSamuel Dalembert DAL 02/11/2014 DAL @ CHA L 18 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -8
+p332
+aVDeJuan Blair DAL 02/11/2014 DAL @ CHA L 20 3 1 4 25.0 0 0 - 1 2 50.0 0 4 4 2 0 0 0 2 -9
+p333
+aVDevin Harris DAL 02/11/2014 DAL @ CHA L 20 9 3 7 42.9 1 1 100.0 2 2 100.0 0 0 0 5 1 0 1 1 -8
+p334
+aVJose Calderon DAL 02/11/2014 DAL @ CHA L 23 8 3 8 37.5 2 2 100.0 0 0 - 0 0 0 2 0 1 2 0 -17
+p335
+aVJae Crowder DAL 02/11/2014 DAL @ CHA L 14 5 2 7 28.6 0 3 0.0 1 2 50.0 1 3 4 0 1 0 1 1 -16
+p336
+aVDevin Harris DAL 02/09/2014 DAL @ BOS W 23 12 4 9 44.4 0 1 0.0 4 4 100.0 0 2 2 7 0 0 2 2 -1
+p337
+aVVince Carter DAL 02/09/2014 DAL @ BOS W 21 14 4 11 36.4 3 6 50.0 3 4 75.0 1 1 2 1 2 1 2 2 11
+p338
+aVShawn Marion DAL 02/09/2014 DAL @ BOS W 35 11 5 11 45.5 1 1 100.0 0 0 - 1 9 10 1 0 0 0 2 -2
+p339
+aVBrandan Wright DAL 02/09/2014 DAL @ BOS W 21 8 3 4 75.0 0 0 - 2 2 100.0 1 5 6 0 1 2 1 1 5
+p340
+aVJae Crowder DAL 02/09/2014 DAL @ BOS W 21 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 1
+p341
+aVDeJuan Blair DAL 02/09/2014 DAL @ BOS W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p342
+aVSamuel Dalembert DAL 02/09/2014 DAL @ BOS W 23 6 3 6 50.0 0 0 - 0 0 - 4 7 11 0 0 1 0 3 6
+p343
+aVJose Calderon DAL 02/09/2014 DAL @ BOS W 32 18 7 13 53.8 3 6 50.0 1 2 50.0 2 3 5 5 0 0 1 0 -1
+p344
+aVDirk Nowitzki DAL 02/09/2014 DAL @ BOS W 32 20 7 16 43.8 2 6 33.3 4 4 100.0 1 4 5 4 0 0 1 0 24
+p345
+aVMonta Ellis DAL 02/09/2014 DAL @ BOS W 28 11 3 9 33.3 1 2 50.0 4 4 100.0 0 5 5 2 2 0 2 1 12
+p346
+aVVince Carter DAL 02/07/2014 DAL vs. UTA W 25 9 3 6 50.0 1 2 50.0 2 4 50.0 1 7 8 4 2 0 0 2 23
+p347
+aVDevin Harris DAL 02/07/2014 DAL vs. UTA W 17 7 3 11 27.3 1 1 100.0 0 0 - 1 4 5 2 0 0 2 0 10
+p348
+aVWayne Ellington DAL 02/07/2014 DAL vs. UTA W 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p349
+aVJose Calderon DAL 02/07/2014 DAL vs. UTA W 33 12 4 11 36.4 4 7 57.1 0 0 - 2 2 4 7 2 0 1 0 16
+p350
+aVBrandan Wright DAL 02/07/2014 DAL vs. UTA W 13 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 0 1 0 2 11
+p351
+aVShawn Marion DAL 02/07/2014 DAL vs. UTA W 28 6 3 5 60.0 0 0 - 0 0 - 1 4 5 3 2 1 3 2 10
+p352
+aVDirk Nowitzki DAL 02/07/2014 DAL vs. UTA W 26 20 5 9 55.6 2 3 66.7 8 9 88.9 0 3 3 1 0 0 0 2 4
+p353
+aVDeJuan Blair DAL 02/07/2014 DAL vs. UTA W 13 4 2 4 50.0 0 0 - 0 1 0.0 1 3 4 0 0 0 1 1 3
+p354
+aVSamuel Dalembert DAL 02/07/2014 DAL vs. UTA W 24 12 6 8 75.0 0 0 - 0 0 - 4 2 6 0 0 0 0 4 6
+p355
+aVBernard James DAL 02/07/2014 DAL vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p356
+aVShane Larkin DAL 02/07/2014 DAL vs. UTA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p357
+aVMonta Ellis DAL 02/07/2014 DAL vs. UTA W 34 22 8 17 47.1 1 3 33.3 5 6 83.3 0 4 4 4 1 0 1 2 11
+p358
+aVJae Crowder DAL 02/07/2014 DAL vs. UTA W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 3 0 1 4 10
+p359
+aVBrandan Wright DAL 02/05/2014 DAL @ MEM W 18 17 6 8 75.0 0 0 - 5 7 71.4 2 2 4 1 0 0 0 2 15
+p360
+aVDevin Harris DAL 02/05/2014 DAL @ MEM W 17 3 1 3 33.3 0 2 0.0 1 3 33.3 0 1 1 3 0 0 2 1 11
+p361
+aVJae Crowder DAL 02/05/2014 DAL @ MEM W 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 6
+p362
+aVShawn Marion DAL 02/05/2014 DAL @ MEM W 33 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 1 3 0 1 2 -5
+p363
+aVDirk Nowitzki DAL 02/05/2014 DAL @ MEM W 34 26 10 14 71.4 3 4 75.0 3 4 75.0 0 6 6 3 2 0 2 1 14
+p364
+aVMonta Ellis DAL 02/05/2014 DAL @ MEM W 40 14 5 16 31.3 1 3 33.3 3 4 75.0 2 4 6 4 2 1 2 2 4
+p365
+aVJose Calderon DAL 02/05/2014 DAL @ MEM W 31 5 2 9 22.2 1 4 25.0 0 0 - 0 1 1 4 0 0 2 1 3
+p366
+aVDeJuan Blair DAL 02/05/2014 DAL @ MEM W 9 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 1 0 2 2 4 4
+p367
+aVVince Carter DAL 02/05/2014 DAL @ MEM W 24 13 5 8 62.5 1 2 50.0 2 2 100.0 1 1 2 7 0 0 1 2 22
+p368
+aVSamuel Dalembert DAL 02/05/2014 DAL @ MEM W 23 14 6 10 60.0 0 0 - 2 3 66.7 6 4 10 0 0 0 1 4 -4
+p369
+aVMonta Ellis DAL 02/03/2014 DAL vs. CLE W 34 22 8 12 66.7 2 3 66.7 4 5 80.0 0 2 2 7 2 1 6 5 10
+p370
+aVJose Calderon DAL 02/03/2014 DAL vs. CLE W 33 11 4 7 57.1 3 5 60.0 0 0 - 0 2 2 10 0 0 1 0 19
+p371
+aVDevin Harris DAL 02/03/2014 DAL vs. CLE W 19 16 4 8 50.0 2 3 66.7 6 6 100.0 0 1 1 4 0 0 1 1 6
+p372
+aVWayne Ellington DAL 02/03/2014 DAL vs. CLE W 19 3 1 5 20.0 1 2 50.0 0 0 - 0 3 3 2 1 0 1 1 -4
+p373
+aVJae Crowder DAL 02/03/2014 DAL vs. CLE W 22 8 3 9 33.3 0 4 0.0 2 2 100.0 1 2 3 1 0 0 0 3 9
+p374
+aVBrandan Wright DAL 02/03/2014 DAL vs. CLE W 22 14 4 7 57.1 0 0 - 6 7 85.7 4 3 7 0 1 0 1 1 13
+p375
+aVShane Larkin DAL 02/03/2014 DAL vs. CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p376
+aVSamuel Dalembert DAL 02/03/2014 DAL vs. CLE W 25 18 7 8 87.5 0 0 - 4 4 100.0 4 4 8 0 0 2 0 2 10
+p377
+aVBernard James DAL 02/03/2014 DAL vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p378
+aVDirk Nowitzki DAL 02/03/2014 DAL vs. CLE W 30 23 9 16 56.3 3 5 60.0 2 2 100.0 0 8 8 2 0 0 2 2 -3
+p379
+aVVince Carter DAL 02/03/2014 DAL vs. CLE W 22 7 3 6 50.0 1 4 25.0 0 0 - 0 7 7 2 0 2 0 4 26
+p380
+aVDeJuan Blair DAL 02/03/2014 DAL vs. CLE W 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 3 5
+p381
+aVDeJuan Blair DAL 01/31/2014 DAL vs. SAC W 13 6 1 5 20.0 0 0 - 4 6 66.7 2 1 3 0 1 0 1 0 -2
+p382
+aVDevin Harris DAL 01/31/2014 DAL vs. SAC W 18 7 2 7 28.6 0 3 0.0 3 3 100.0 2 0 2 5 0 0 0 1 6
+p383
+aVDirk Nowitzki DAL 01/31/2014 DAL vs. SAC W 34 34 11 19 57.9 1 3 33.3 11 11 100.0 0 5 5 2 2 0 1 4 8
+p384
+aVBrandan Wright DAL 01/31/2014 DAL vs. SAC W 26 10 4 6 66.7 0 0 - 2 5 40.0 4 6 10 0 1 0 0 0 7
+p385
+aVShane Larkin DAL 01/31/2014 DAL vs. SAC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p386
+aVJae Crowder DAL 01/31/2014 DAL vs. SAC W 30 6 3 8 37.5 0 3 0.0 0 0 - 1 5 6 3 2 0 0 4 -3
+p387
+aVSamuel Dalembert DAL 01/31/2014 DAL vs. SAC W 16 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 1 0 3 -6
+p388
+aVJose Calderon DAL 01/31/2014 DAL vs. SAC W 34 14 6 14 42.9 1 6 16.7 1 2 50.0 0 1 1 7 1 0 1 2 -1
+p389
+aVVince Carter DAL 01/31/2014 DAL vs. SAC W 26 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 1 0 0 1 3 8
+p390
+aVMonta Ellis DAL 01/31/2014 DAL vs. SAC W 40 20 6 10 60.0 0 1 0.0 8 9 88.9 1 2 3 3 3 1 0 1 4
+p391
+aVShawn Marion DAL 01/29/2014 DAL vs. HOU L 29 6 3 10 30.0 0 1 0.0 0 0 - 5 2 7 1 1 0 2 3 -2
+p392
+aVJose Calderon DAL 01/29/2014 DAL vs. HOU L 37 8 2 12 16.7 2 7 28.6 2 3 66.7 1 2 3 5 1 1 0 3 5
+p393
+aVVince Carter DAL 01/29/2014 DAL vs. HOU L 26 22 5 9 55.6 2 4 50.0 10 11 90.9 0 3 3 3 0 1 3 3 -2
+p394
+aVDeJuan Blair DAL 01/29/2014 DAL vs. HOU L 24 13 5 9 55.6 0 0 - 3 3 100.0 0 5 5 0 1 1 1 3 0
+p395
+aVMonta Ellis DAL 01/29/2014 DAL vs. HOU L 31 6 3 10 30.0 0 1 0.0 0 0 - 1 0 1 5 2 0 4 5 3
+p396
+aVSamuel Dalembert DAL 01/29/2014 DAL vs. HOU L 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 3 1
+p397
+aVDirk Nowitzki DAL 01/29/2014 DAL vs. HOU L 35 38 13 21 61.9 1 3 33.3 11 11 100.0 4 13 17 3 0 0 2 1 6
+p398
+aVJae Crowder DAL 01/29/2014 DAL vs. HOU L 10 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 0 2 -12
+p399
+aVDevin Harris DAL 01/29/2014 DAL vs. HOU L 25 14 5 8 62.5 0 2 0.0 4 6 66.7 0 1 1 3 0 0 1 5 -6
+p400
+aVBrandan Wright DAL 01/29/2014 DAL vs. HOU L 12 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -3
+p401
+aVSamuel Dalembert DAL 01/26/2014 DAL vs. DET W 20 6 3 5 60.0 0 0 - 0 2 0.0 2 3 5 1 1 3 0 3 -5
+p402
+aVShawn Marion DAL 01/26/2014 DAL vs. DET W 31 8 4 9 44.4 0 3 0.0 0 0 - 1 5 6 1 1 0 3 0 -6
+p403
+aVJae Crowder DAL 01/26/2014 DAL vs. DET W 16 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 10
+p404
+aVJose Calderon DAL 01/26/2014 DAL vs. DET W 34 17 7 8 87.5 1 2 50.0 2 2 100.0 1 1 2 4 1 0 2 2 2
+p405
+aVBrandan Wright DAL 01/26/2014 DAL vs. DET W 16 8 2 2 100.0 0 0 - 4 4 100.0 0 3 3 0 0 3 1 1 9
+p406
+aVMonta Ellis DAL 01/26/2014 DAL vs. DET W 30 11 4 8 50.0 0 1 0.0 3 3 100.0 0 1 1 3 1 0 8 2 -4
+p407
+aVVince Carter DAL 01/26/2014 DAL vs. DET W 23 13 4 8 50.0 1 5 20.0 4 6 66.7 0 5 5 3 0 1 1 0 12
+p408
+aVDevin Harris DAL 01/26/2014 DAL vs. DET W 24 14 4 7 57.1 2 4 50.0 4 4 100.0 0 1 1 7 0 0 1 3 12
+p409
+aVDeJuan Blair DAL 01/26/2014 DAL vs. DET W 14 9 4 9 44.4 0 0 - 1 2 50.0 2 2 4 0 1 0 0 4 4
+p410
+aVDirk Nowitzki DAL 01/26/2014 DAL vs. DET W 32 28 10 16 62.5 3 5 60.0 5 5 100.0 0 9 9 4 1 0 1 3 16
+p411
+aVVince Carter DAL 01/24/2014 DAL @ BKN L 30 19 8 15 53.3 2 4 50.0 1 2 50.0 1 2 3 3 1 0 2 1 -3
+p412
+aVJae Crowder DAL 01/24/2014 DAL @ BKN L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 1
+p413
+aVBrandan Wright DAL 01/24/2014 DAL @ BKN L 12 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -11
+p414
+aVDirk Nowitzki DAL 01/24/2014 DAL @ BKN L 36 18 5 15 33.3 0 2 0.0 8 9 88.9 3 4 7 3 0 0 3 1 5
+p415
+aVShawn Marion DAL 01/24/2014 DAL @ BKN L 33 9 2 5 40.0 1 1 100.0 4 4 100.0 2 9 11 3 1 0 2 1 7
+p416
+aVSamuel Dalembert DAL 01/24/2014 DAL @ BKN L 14 2 0 1 0.0 0 0 - 2 2 100.0 3 2 5 0 1 0 4 3 2
+p417
+aVDeJuan Blair DAL 01/24/2014 DAL @ BKN L 17 4 2 7 28.6 0 0 - 0 0 - 3 2 5 0 1 0 1 0 -6
+p418
+aVShane Larkin DAL 01/24/2014 DAL @ BKN L 6 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 0 0 1
+p419
+aVMonta Ellis DAL 01/24/2014 DAL @ BKN L 38 16 5 11 45.5 2 3 66.7 4 6 66.7 1 6 7 7 1 0 2 4 -2
+p420
+aVJose Calderon DAL 01/24/2014 DAL @ BKN L 36 15 5 15 33.3 3 7 42.9 2 2 100.0 0 1 1 2 1 0 1 2 0
+p421
+aVDevin Harris DAL 01/24/2014 DAL @ BKN L 16 14 4 6 66.7 2 3 66.7 4 4 100.0 0 0 0 4 0 0 0 6 1
+p422
+aVVince Carter DAL 01/22/2014 DAL @ TOR L 22 8 3 7 42.9 1 2 50.0 1 1 100.0 0 1 1 4 1 0 1 5 -8
+p423
+aVDevin Harris DAL 01/22/2014 DAL @ TOR L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 3 1 0 0 1 -4
+p424
+aVMonta Ellis DAL 01/22/2014 DAL @ TOR L 38 21 9 18 50.0 2 5 40.0 1 2 50.0 0 1 1 6 0 0 8 3 -4
+p425
+aVShane Larkin DAL 01/22/2014 DAL @ TOR L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -2
+p426
+aVJose Calderon DAL 01/22/2014 DAL @ TOR L 34 13 5 11 45.5 2 4 50.0 1 2 50.0 1 3 4 5 0 0 1 2 -4
+p427
+aVSamuel Dalembert DAL 01/22/2014 DAL @ TOR L 17 4 1 3 33.3 0 0 - 2 2 100.0 3 4 7 0 1 0 3 4 5
+p428
+aVBrandan Wright DAL 01/22/2014 DAL @ TOR L 25 13 5 7 71.4 0 0 - 3 5 60.0 0 3 3 0 1 0 1 2 -12
+p429
+aVShawn Marion DAL 01/22/2014 DAL @ TOR L 31 6 3 11 27.3 0 2 0.0 0 0 - 1 3 4 2 1 0 1 0 -10
+p430
+aVWayne Ellington DAL 01/22/2014 DAL @ TOR L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -5
+p431
+aVDeJuan Blair DAL 01/22/2014 DAL @ TOR L 18 8 4 5 80.0 0 0 - 0 0 - 1 6 7 1 0 0 2 2 1
+p432
+aVJae Crowder DAL 01/22/2014 DAL @ TOR L 21 7 2 3 66.7 1 2 50.0 2 2 100.0 1 3 4 0 0 1 2 3 3
+p433
+aVRicky Ledo DAL 01/22/2014 DAL @ TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p434
+aVShawn Marion DAL 01/20/2014 DAL @ CLE W 35 18 7 8 87.5 2 3 66.7 2 2 100.0 0 3 3 1 1 0 1 2 -14
+p435
+aVBrandan Wright DAL 01/20/2014 DAL @ CLE W 13 10 3 5 60.0 0 0 - 4 4 100.0 2 2 4 1 0 0 1 1 8
+p436
+aVJose Calderon DAL 01/20/2014 DAL @ CLE W 28 11 4 8 50.0 1 4 25.0 2 2 100.0 1 0 1 6 0 0 1 2 -5
+p437
+aVJae Crowder DAL 01/20/2014 DAL @ CLE W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 1 2
+p438
+aVMonta Ellis DAL 01/20/2014 DAL @ CLE W 36 22 8 16 50.0 0 1 0.0 6 10 60.0 0 3 3 8 2 0 3 4 -3
+p439
+aVDevin Harris DAL 01/20/2014 DAL @ CLE W 14 2 1 7 14.3 0 3 0.0 0 0 - 0 3 3 0 0 0 0 1 6
+p440
+aVVince Carter DAL 01/20/2014 DAL @ CLE W 21 5 1 9 11.1 0 2 0.0 3 3 100.0 0 4 4 2 1 0 0 3 5
+p441
+aVShane Larkin DAL 01/20/2014 DAL @ CLE W 18 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 2 1 0 2 14
+p442
+aVDirk Nowitzki DAL 01/20/2014 DAL @ CLE W 35 17 8 20 40.0 0 5 0.0 1 2 50.0 1 9 10 1 0 0 0 2 19
+p443
+aVSamuel Dalembert DAL 01/20/2014 DAL @ CLE W 14 1 0 0 - 0 0 - 1 2 50.0 1 2 3 1 0 2 2 1 1
+p444
+aVDeJuan Blair DAL 01/20/2014 DAL @ CLE W 21 13 5 7 71.4 0 0 - 3 3 100.0 3 2 5 0 0 0 0 6 -8
+p445
+aVBrandan Wright DAL 01/18/2014 DAL vs. POR L 20 8 4 8 50.0 0 0 - 0 0 - 1 2 3 2 1 1 0 0 18
+p446
+aVDeJuan Blair DAL 01/18/2014 DAL vs. POR L 27 13 5 8 62.5 0 0 - 3 3 100.0 2 0 2 1 1 1 1 5 -8
+p447
+aVDirk Nowitzki DAL 01/18/2014 DAL vs. POR L 22 18 6 17 35.3 1 5 20.0 5 5 100.0 0 3 3 0 0 1 0 3 -23
+p448
+aVSamuel Dalembert DAL 01/18/2014 DAL vs. POR L 13 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -17
+p449
+aVShane Larkin DAL 01/18/2014 DAL vs. POR L 23 9 3 6 50.0 0 1 0.0 3 4 75.0 0 2 2 4 1 0 1 3 4
+p450
+aVJae Crowder DAL 01/18/2014 DAL vs. POR L 18 13 5 8 62.5 3 6 50.0 0 0 - 0 1 1 0 1 0 1 1 20
+p451
+aVShawn Marion DAL 01/18/2014 DAL vs. POR L 24 3 1 6 16.7 1 2 50.0 0 0 - 0 3 3 1 0 0 1 2 -24
+p452
+aVJose Calderon DAL 01/18/2014 DAL vs. POR L 20 5 2 6 33.3 0 2 0.0 1 1 100.0 0 2 2 3 0 0 1 1 -16
+p453
+aVDevin Harris DAL 01/18/2014 DAL vs. POR L 17 6 2 4 50.0 0 0 - 2 4 50.0 0 0 0 2 0 0 0 1 -6
+p454
+aVWayne Ellington DAL 01/18/2014 DAL vs. POR L 15 8 3 5 60.0 1 1 100.0 1 1 100.0 0 4 4 0 0 0 0 2 18
+p455
+aVVince Carter DAL 01/18/2014 DAL vs. POR L 18 11 4 8 50.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 1 1 -23
+p456
+aVMonta Ellis DAL 01/18/2014 DAL vs. POR L 23 15 6 12 50.0 0 0 - 3 5 60.0 0 2 2 2 1 0 1 1 -23
+p457
+aVBrandan Wright DAL 01/17/2014 DAL @ PHX W 17 8 4 6 66.7 0 0 - 0 1 0.0 2 3 5 0 0 1 3 2 -9
+p458
+aVDeJuan Blair DAL 01/17/2014 DAL @ PHX W 11 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 9
+p459
+aVShawn Marion DAL 01/17/2014 DAL @ PHX W 36 16 6 9 66.7 3 5 60.0 1 2 50.0 3 4 7 2 0 0 0 1 11
+p460
+aVJose Calderon DAL 01/17/2014 DAL @ PHX W 19 4 2 8 25.0 0 4 0.0 0 0 - 0 0 0 4 1 0 1 3 -9
+p461
+aVJae Crowder DAL 01/17/2014 DAL @ PHX W 15 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 2 0 0 2 3
+p462
+aVVince Carter DAL 01/17/2014 DAL @ PHX W 22 8 3 9 33.3 2 5 40.0 0 0 - 0 7 7 1 0 0 5 2 -8
+p463
+aVShane Larkin DAL 01/17/2014 DAL @ PHX W 27 18 6 8 75.0 2 3 66.7 4 5 80.0 0 1 1 5 2 0 2 1 9
+p464
+aVMonta Ellis DAL 01/17/2014 DAL @ PHX W 39 24 10 20 50.0 0 1 0.0 4 6 66.7 0 6 6 7 2 2 3 4 1
+p465
+aVDirk Nowitzki DAL 01/17/2014 DAL @ PHX W 35 21 9 16 56.3 2 6 33.3 1 2 50.0 0 5 5 2 1 1 1 0 5
+p466
+aVSamuel Dalembert DAL 01/17/2014 DAL @ PHX W 20 9 3 3 100.0 0 0 - 3 3 100.0 0 7 7 1 0 0 1 5 3
+p467
+aVSamuel Dalembert DAL 01/15/2014 DAL @ LAC L 21 20 9 13 69.2 0 0 - 2 5 40.0 7 0 7 2 1 0 1 4 -22
+p468
+aVJae Crowder DAL 01/15/2014 DAL @ LAC L 15 2 1 6 16.7 0 2 0.0 0 0 - 2 2 4 1 1 0 1 2 1
+p469
+aVMonta Ellis DAL 01/15/2014 DAL @ LAC L 39 13 6 13 46.2 1 2 50.0 0 4 0.0 1 5 6 13 4 0 3 1 3
+p470
+aVVince Carter DAL 01/15/2014 DAL @ LAC L 23 6 2 8 25.0 0 4 0.0 2 2 100.0 1 2 3 7 0 0 0 3 19
+p471
+aVWayne Ellington DAL 01/15/2014 DAL @ LAC L 6 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 0 -8
+p472
+aVBrandan Wright DAL 01/15/2014 DAL @ LAC L 13 13 6 7 85.7 0 0 - 1 1 100.0 3 4 7 1 0 0 0 1 6
+p473
+aVShane Larkin DAL 01/15/2014 DAL @ LAC L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p474
+aVJose Calderon DAL 01/15/2014 DAL @ LAC L 36 16 6 9 66.7 4 6 66.7 0 0 - 0 1 1 3 1 0 1 3 -8
+p475
+aVDirk Nowitzki DAL 01/15/2014 DAL @ LAC L 33 27 8 22 36.4 3 6 50.0 8 8 100.0 0 8 8 3 0 0 0 4 -7
+p476
+aVShawn Marion DAL 01/15/2014 DAL @ LAC L 33 14 6 9 66.7 2 2 100.0 0 0 - 1 5 6 3 0 0 2 4 -8
+p477
+aVDeJuan Blair DAL 01/15/2014 DAL @ LAC L 15 8 4 5 80.0 0 0 - 0 1 0.0 2 2 4 3 0 2 1 2 17
+p478
+aVDirk Nowitzki DAL 01/13/2014 DAL vs. ORL W 28 15 4 10 40.0 1 2 50.0 6 6 100.0 0 5 5 2 0 1 3 2 -8
+p479
+aVWayne Ellington DAL 01/13/2014 DAL vs. ORL W 21 12 5 8 62.5 2 5 40.0 0 0 - 1 5 6 1 0 0 1 1 -3
+p480
+aVJose Calderon DAL 01/13/2014 DAL vs. ORL W 32 13 5 9 55.6 3 6 50.0 0 0 - 0 1 1 4 2 0 1 1 11
+p481
+aVBrandan Wright DAL 01/13/2014 DAL vs. ORL W 23 2 1 5 20.0 0 0 - 0 0 - 3 3 6 0 0 2 1 2 15
+p482
+aVMonta Ellis DAL 01/13/2014 DAL vs. ORL W 36 21 8 18 44.4 1 3 33.3 4 5 80.0 0 3 3 3 1 0 1 1 18
+p483
+aVGal Mekel DAL 01/13/2014 DAL vs. ORL W 15 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 7 0 0 1 1 7
+p484
+aVJae Crowder DAL 01/13/2014 DAL vs. ORL W 25 14 6 8 75.0 2 3 66.7 0 0 - 0 4 4 1 3 1 0 2 15
+p485
+aVRicky Ledo DAL 01/13/2014 DAL vs. ORL W 1 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 0 3
+p486
+aVSamuel Dalembert DAL 01/13/2014 DAL vs. ORL W 19 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 1 3 4 -1
+p487
+aVBernard James DAL 01/13/2014 DAL vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 3
+p488
+aVVince Carter DAL 01/13/2014 DAL vs. ORL W 23 17 6 10 60.0 3 4 75.0 2 2 100.0 0 1 1 2 0 0 0 1 20
+p489
+aVDeJuan Blair DAL 01/13/2014 DAL vs. ORL W 16 6 3 4 75.0 0 0 - 0 0 - 3 4 7 1 0 0 1 1 15
+p490
+aVDirk Nowitzki DAL 01/11/2014 DAL vs. NOP W 33 40 10 20 50.0 5 9 55.6 15 16 93.8 0 4 4 4 2 0 1 2 11
+p491
+aVBrandan Wright DAL 01/11/2014 DAL vs. NOP W 25 8 2 3 66.7 0 0 - 4 4 100.0 0 4 4 0 3 2 1 2 -1
+p492
+aVJae Crowder DAL 01/11/2014 DAL vs. NOP W 35 5 1 5 20.0 1 4 25.0 2 2 100.0 1 1 2 3 4 1 1 4 2
+p493
+aVSamuel Dalembert DAL 01/11/2014 DAL vs. NOP W 23 4 2 4 50.0 0 0 - 0 0 - 2 7 9 1 0 0 0 3 4
+p494
+aVDeJuan Blair DAL 01/11/2014 DAL vs. NOP W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -8
+p495
+aVShane Larkin DAL 01/11/2014 DAL vs. NOP W 11 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 3 3
+p496
+aVRicky Ledo DAL 01/11/2014 DAL vs. NOP W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p497
+aVGal Mekel DAL 01/11/2014 DAL vs. NOP W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p498
+aVVince Carter DAL 01/11/2014 DAL vs. NOP W 27 10 3 9 33.3 1 5 20.0 3 4 75.0 0 2 2 3 0 0 3 1 -5
+p499
+aVJose Calderon DAL 01/11/2014 DAL vs. NOP W 35 17 5 10 50.0 4 7 57.1 3 4 75.0 1 1 2 5 1 0 2 3 4
+p500
+aVMonta Ellis DAL 01/11/2014 DAL vs. NOP W 41 26 7 13 53.8 0 1 0.0 12 15 80.0 0 5 5 4 1 0 5 3 9
+p501
+aVBrandan Wright DAL 01/10/2014 DAL @ NOP W 15 5 2 6 33.3 0 0 - 1 2 50.0 5 1 6 0 0 0 0 3 -11
+p502
+aVJae Crowder DAL 01/10/2014 DAL @ NOP W 40 12 5 8 62.5 2 4 50.0 0 0 - 2 1 3 2 0 1 1 2 17
+p503
+aVRicky Ledo DAL 01/10/2014 DAL @ NOP W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 2
+p504
+aVBernard James DAL 01/10/2014 DAL @ NOP W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p505
+aVDirk Nowitzki DAL 01/10/2014 DAL @ NOP W 28 24 10 19 52.6 4 8 50.0 0 0 - 0 4 4 5 3 2 0 2 31
+p506
+aVDeJuan Blair DAL 01/10/2014 DAL @ NOP W 25 2 1 5 20.0 0 0 - 0 0 - 1 4 5 2 0 0 1 5 -11
+p507
+aVGal Mekel DAL 01/10/2014 DAL @ NOP W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p508
+aVMonta Ellis DAL 01/10/2014 DAL @ NOP W 33 23 8 16 50.0 1 4 25.0 6 8 75.0 0 2 2 8 2 1 3 1 16
+p509
+aVJose Calderon DAL 01/10/2014 DAL @ NOP W 32 11 4 6 66.7 3 5 60.0 0 0 - 0 5 5 6 2 0 2 0 14
+p510
+aVShane Larkin DAL 01/10/2014 DAL @ NOP W 14 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 6 0 0 2 1 5
+p511
+aVVince Carter DAL 01/10/2014 DAL @ NOP W 20 14 4 6 66.7 3 5 60.0 3 4 75.0 0 1 1 0 0 0 2 2 -10
+p512
+aVSamuel Dalembert DAL 01/10/2014 DAL @ NOP W 18 9 4 6 66.7 0 0 - 1 2 50.0 2 6 8 1 0 3 1 1 27
+p513
+aVGal Mekel DAL 01/08/2014 DAL @ SAS L 10 2 1 4 25.0 0 0 - 0 0 - 0 3 3 5 0 0 1 1 2
+p514
+aVWayne Ellington DAL 01/08/2014 DAL @ SAS L 12 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -15
+p515
+aVVince Carter DAL 01/08/2014 DAL @ SAS L 23 14 6 14 42.9 2 4 50.0 0 0 - 1 0 1 3 1 0 0 2 -10
+p516
+aVDirk Nowitzki DAL 01/08/2014 DAL @ SAS L 27 8 3 14 21.4 0 2 0.0 2 2 100.0 0 5 5 2 1 1 1 2 -23
+p517
+aVBernard James DAL 01/08/2014 DAL @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p518
+aVDeJuan Blair DAL 01/08/2014 DAL @ SAS L 23 6 3 7 42.9 0 0 - 0 0 - 3 3 6 1 2 1 0 3 -11
+p519
+aVJose Calderon DAL 01/08/2014 DAL @ SAS L 26 5 2 11 18.2 1 4 25.0 0 0 - 0 2 2 2 2 0 0 2 -15
+p520
+aVMonta Ellis DAL 01/08/2014 DAL @ SAS L 35 21 10 18 55.6 0 1 0.0 1 2 50.0 2 1 3 4 1 1 1 1 -21
+p521
+aVBrandan Wright DAL 01/08/2014 DAL @ SAS L 20 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 0 1 0 1 3 -15
+p522
+aVSamuel Dalembert DAL 01/08/2014 DAL @ SAS L 11 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 2 -5
+p523
+aVJae Crowder DAL 01/08/2014 DAL @ SAS L 28 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 1 2 0 0 2 -5
+p524
+aVRicky Ledo DAL 01/08/2014 DAL @ SAS L 4 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 6
+p525
+aVShane Larkin DAL 01/08/2014 DAL @ SAS L 17 7 3 7 42.9 1 2 50.0 0 0 - 0 4 4 2 0 0 3 0 -4
+p526
+aVShane Larkin DAL 01/07/2014 DAL vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p527
+aVGal Mekel DAL 01/07/2014 DAL vs. LAL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 4 0 0 3 3 -8
+p528
+aVBrandan Wright DAL 01/07/2014 DAL vs. LAL W 18 8 4 7 57.1 0 0 - 0 0 - 2 1 3 3 0 0 0 4 4
+p529
+aVMonta Ellis DAL 01/07/2014 DAL vs. LAL W 37 16 7 18 38.9 0 1 0.0 2 2 100.0 0 0 0 9 5 0 3 3 8
+p530
+aVShawn Marion DAL 01/07/2014 DAL vs. LAL W 15 8 4 7 57.1 0 1 0.0 0 0 - 0 7 7 1 0 0 0 1 11
+p531
+aVJae Crowder DAL 01/07/2014 DAL vs. LAL W 22 5 2 5 40.0 0 2 0.0 1 2 50.0 0 1 1 1 4 1 0 0 3
+p532
+aVJose Calderon DAL 01/07/2014 DAL vs. LAL W 36 12 5 8 62.5 2 4 50.0 0 0 - 1 1 2 8 5 0 1 1 24
+p533
+aVSamuel Dalembert DAL 01/07/2014 DAL vs. LAL W 13 0 0 0 - 0 0 - 0 2 0.0 1 4 5 1 1 2 1 2 2
+p534
+aVWayne Ellington DAL 01/07/2014 DAL vs. LAL W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p535
+aVVince Carter DAL 01/07/2014 DAL vs. LAL W 26 19 7 12 58.3 3 5 60.0 2 2 100.0 2 3 5 1 1 0 1 1 15
+p536
+aVDeJuan Blair DAL 01/07/2014 DAL vs. LAL W 27 15 7 10 70.0 0 0 - 1 3 33.3 0 9 9 0 1 0 1 2 14
+p537
+aVDirk Nowitzki DAL 01/07/2014 DAL vs. LAL W 31 27 12 20 60.0 0 3 0.0 3 4 75.0 0 7 7 4 0 0 2 0 -6
+p538
+aVShane Larkin DAL 01/05/2014 DAL vs. NYK L 7 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p539
+aVJose Calderon DAL 01/05/2014 DAL vs. NYK L 36 12 5 13 38.5 2 8 25.0 0 0 - 1 1 2 6 0 0 2 1 -5
+p540
+aVWayne Ellington DAL 01/05/2014 DAL vs. NYK L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p541
+aVBrandan Wright DAL 01/05/2014 DAL vs. NYK L 22 7 3 5 60.0 0 0 - 1 2 50.0 4 1 5 1 0 0 0 5 -3
+p542
+aVBernard James DAL 01/05/2014 DAL vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p543
+aVJae Crowder DAL 01/05/2014 DAL vs. NYK L 12 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 2 -7
+p544
+aVGal Mekel DAL 01/05/2014 DAL vs. NYK L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p545
+aVDeJuan Blair DAL 01/05/2014 DAL vs. NYK L 26 11 5 6 83.3 0 0 - 1 1 100.0 1 4 5 0 1 0 3 4 -9
+p546
+aVMonta Ellis DAL 01/05/2014 DAL vs. NYK L 39 13 6 13 46.2 1 4 25.0 0 0 - 0 3 3 3 2 0 3 0 -11
+p547
+aVVince Carter DAL 01/05/2014 DAL vs. NYK L 24 13 4 13 30.8 2 7 28.6 3 6 50.0 0 4 4 1 0 1 0 3 -8
+p548
+aVDirk Nowitzki DAL 01/05/2014 DAL vs. NYK L 34 18 6 11 54.5 1 2 50.0 5 9 55.6 0 9 9 1 1 0 1 0 -8
+p549
+aVShawn Marion DAL 01/05/2014 DAL vs. NYK L 31 2 1 6 16.7 0 1 0.0 0 0 - 1 3 4 0 2 0 1 2 2
+p550
+aVShane Larkin DAL 01/03/2014 DAL vs. LAC L 14 8 3 4 75.0 1 1 100.0 1 2 50.0 3 1 4 3 1 0 1 2 12
+p551
+aVDirk Nowitzki DAL 01/03/2014 DAL vs. LAC L 33 24 10 17 58.8 4 5 80.0 0 0 - 0 4 4 4 2 0 1 0 2
+p552
+aVBrandan Wright DAL 01/03/2014 DAL vs. LAC L 23 12 6 8 75.0 0 0 - 0 0 - 3 2 5 1 0 0 1 4 -4
+p553
+aVVince Carter DAL 01/03/2014 DAL vs. LAC L 25 8 3 10 30.0 2 7 28.6 0 0 - 0 3 3 5 0 0 2 5 -4
+p554
+aVJae Crowder DAL 01/03/2014 DAL vs. LAC L 16 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 0 2 4
+p555
+aVSamuel Dalembert DAL 01/03/2014 DAL vs. LAC L 21 9 2 5 40.0 0 0 - 5 6 83.3 2 3 5 0 0 1 1 3 -14
+p556
+aVJose Calderon DAL 01/03/2014 DAL vs. LAC L 33 11 4 10 40.0 3 8 37.5 0 0 - 0 6 6 5 0 0 0 3 -14
+p557
+aVShawn Marion DAL 01/03/2014 DAL vs. LAC L 31 20 8 16 50.0 2 4 50.0 2 2 100.0 2 4 6 2 2 0 2 1 -9
+p558
+aVMonta Ellis DAL 01/03/2014 DAL vs. LAC L 38 13 6 12 50.0 0 2 0.0 1 2 50.0 0 2 2 9 2 0 2 4 -13
+p559
+aVDeJuan Blair DAL 01/03/2014 DAL vs. LAC L 7 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 5
+p560
+aVVince Carter DAL 01/01/2014 DAL @ WAS W 28 13 4 10 40.0 3 7 42.9 2 2 100.0 0 0 0 3 1 0 0 0 9
+p561
+aVJae Crowder DAL 01/01/2014 DAL @ WAS W 18 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 0 7
+p562
+aVJose Calderon DAL 01/01/2014 DAL @ WAS W 33 11 3 14 21.4 3 10 30.0 2 2 100.0 0 6 6 3 2 0 0 1 2
+p563
+aVDirk Nowitzki DAL 01/01/2014 DAL @ WAS W 32 9 3 14 21.4 0 4 0.0 3 3 100.0 1 4 5 4 1 0 2 2 8
+p564
+aVDeJuan Blair DAL 01/01/2014 DAL @ WAS W 14 4 1 1 100.0 0 0 - 2 2 100.0 1 4 5 1 2 0 1 3 9
+p565
+aVBrandan Wright DAL 01/01/2014 DAL @ WAS W 18 10 5 7 71.4 0 0 - 0 0 - 1 2 3 1 2 0 3 2 6
+p566
+aVShane Larkin DAL 01/01/2014 DAL @ WAS W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 0 0
+p567
+aVSamuel Dalembert DAL 01/01/2014 DAL @ WAS W 18 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 1 0 1 2 -8
+p568
+aVMonta Ellis DAL 01/01/2014 DAL @ WAS W 37 23 7 18 38.9 0 2 0.0 9 10 90.0 2 3 5 1 1 2 1 2 6
+p569
+aVShawn Marion DAL 01/01/2014 DAL @ WAS W 30 9 4 7 57.1 0 1 0.0 1 2 50.0 4 5 9 4 1 1 4 0 6
+p570
+aVVince Carter DAL 12/30/2013 DAL @ MIN W 24 6 2 9 22.2 0 4 0.0 2 2 100.0 1 4 5 5 3 1 1 2 2
+p571
+aVBrandan Wright DAL 12/30/2013 DAL @ MIN W 18 14 6 8 75.0 0 0 - 2 2 100.0 0 3 3 0 1 0 1 1 1
+p572
+aVJose Calderon DAL 12/30/2013 DAL @ MIN W 37 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 8 3 0 3 2 7
+p573
+aVJae Crowder DAL 12/30/2013 DAL @ MIN W 17 0 0 4 0.0 0 2 0.0 0 0 - 3 3 6 1 0 1 1 1 -3
+p574
+aVShawn Marion DAL 12/30/2013 DAL @ MIN W 32 32 14 19 73.7 4 6 66.7 0 0 - 1 5 6 3 1 1 0 2 7
+p575
+aVDirk Nowitzki DAL 12/30/2013 DAL @ MIN W 33 16 7 17 41.2 0 4 0.0 2 3 66.7 0 5 5 3 0 0 0 3 -6
+p576
+aVSamuel Dalembert DAL 12/30/2013 DAL @ MIN W 20 9 3 3 100.0 0 0 - 3 4 75.0 2 5 7 1 0 1 1 4 6
+p577
+aVShane Larkin DAL 12/30/2013 DAL @ MIN W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -5
+p578
+aVMonta Ellis DAL 12/30/2013 DAL @ MIN W 40 9 3 14 21.4 0 3 0.0 3 3 100.0 0 3 3 10 2 1 3 2 5
+p579
+aVDeJuan Blair DAL 12/30/2013 DAL @ MIN W 13 6 3 3 100.0 0 0 - 0 0 - 1 0 1 1 2 0 0 2 -4
+p580
+aVVince Carter DAL 12/28/2013 DAL @ CHI W 22 18 6 9 66.7 3 5 60.0 3 3 100.0 0 4 4 3 1 1 2 1 14
+p581
+aVDirk Nowitzki DAL 12/28/2013 DAL @ CHI W 31 18 6 15 40.0 4 4 100.0 2 2 100.0 0 3 3 5 1 3 3 4 9
+p582
+aVGal Mekel DAL 12/28/2013 DAL @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p583
+aVDeJuan Blair DAL 12/28/2013 DAL @ CHI W 12 4 2 3 66.7 0 0 - 0 1 0.0 0 3 3 1 0 0 0 1 7
+p584
+aVBrandan Wright DAL 12/28/2013 DAL @ CHI W 16 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 2 1 0 2 7
+p585
+aVMonta Ellis DAL 12/28/2013 DAL @ CHI W 37 22 9 19 47.4 2 6 33.3 2 2 100.0 0 2 2 5 0 0 4 4 19
+p586
+aVJae Crowder DAL 12/28/2013 DAL @ CHI W 16 9 2 2 100.0 2 2 100.0 3 3 100.0 0 2 2 1 0 1 1 0 5
+p587
+aVSamuel Dalembert DAL 12/28/2013 DAL @ CHI W 24 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 1 1 3 4 7
+p588
+aVJose Calderon DAL 12/28/2013 DAL @ CHI W 36 9 4 11 36.4 1 6 16.7 0 0 - 2 2 4 7 2 0 1 0 14
+p589
+aVShane Larkin DAL 12/28/2013 DAL @ CHI W 12 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 2 2 5
+p590
+aVShawn Marion DAL 12/28/2013 DAL @ CHI W 33 14 7 11 63.6 0 0 - 0 0 - 5 8 13 2 1 0 0 2 21
+p591
+aVBernard James DAL 12/28/2013 DAL @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p592
+aVSamuel Dalembert DAL 12/26/2013 DAL vs. SAS L 24 8 4 7 57.1 0 0 - 0 0 - 1 5 6 0 0 3 1 2 2
+p593
+aVJose Calderon DAL 12/26/2013 DAL vs. SAS L 33 13 5 11 45.5 3 4 75.0 0 0 - 0 7 7 3 2 0 0 5 5
+p594
+aVWayne Ellington DAL 12/26/2013 DAL vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p595
+aVDirk Nowitzki DAL 12/26/2013 DAL vs. SAS L 36 25 10 17 58.8 1 2 50.0 4 4 100.0 0 5 5 2 2 0 1 4 -3
+p596
+aVDeJuan Blair DAL 12/26/2013 DAL vs. SAS L 23 14 6 8 75.0 0 0 - 2 3 66.7 7 4 11 3 1 1 1 2 -9
+p597
+aVVince Carter DAL 12/26/2013 DAL vs. SAS L 26 20 4 12 33.3 1 4 25.0 11 11 100.0 0 2 2 3 0 0 2 5 1
+p598
+aVGal Mekel DAL 12/26/2013 DAL vs. SAS L 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -7
+p599
+aVMonta Ellis DAL 12/26/2013 DAL vs. SAS L 41 23 9 19 47.4 0 3 0.0 5 7 71.4 0 3 3 6 3 0 4 4 -9
+p600
+aVJae Crowder DAL 12/26/2013 DAL vs. SAS L 15 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 0 2 0 1 2 -18
+p601
+aVShane Larkin DAL 12/26/2013 DAL vs. SAS L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -3
+p602
+aVShawn Marion DAL 12/26/2013 DAL vs. SAS L 28 4 1 9 11.1 0 2 0.0 2 2 100.0 1 5 6 0 1 2 2 1 -4
+p603
+aVJose Calderon DAL 12/23/2013 DAL @ HOU W 33 15 6 12 50.0 3 7 42.9 0 0 - 0 1 1 5 0 0 1 5 1
+p604
+aVDirk Nowitzki DAL 12/23/2013 DAL @ HOU W 35 31 11 18 61.1 1 3 33.3 8 9 88.9 0 6 6 3 1 2 1 0 17
+p605
+aVShawn Marion DAL 12/23/2013 DAL @ HOU W 25 4 2 4 50.0 0 1 0.0 0 0 - 1 4 5 3 2 1 0 1 7
+p606
+aVMonta Ellis DAL 12/23/2013 DAL @ HOU W 36 18 4 16 25.0 2 3 66.7 8 10 80.0 0 5 5 5 2 0 4 1 3
+p607
+aVVince Carter DAL 12/23/2013 DAL @ HOU W 28 16 6 8 75.0 2 3 66.7 2 2 100.0 1 3 4 4 1 0 3 5 -4
+p608
+aVGal Mekel DAL 12/23/2013 DAL @ HOU W 12 2 1 5 20.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 1
+p609
+aVSamuel Dalembert DAL 12/23/2013 DAL @ HOU W 29 8 3 6 50.0 0 0 - 2 2 100.0 4 3 7 0 3 0 0 3 -2
+p610
+aVBrandan Wright DAL 12/23/2013 DAL @ HOU W 19 6 3 3 100.0 0 0 - 0 0 - 1 2 3 1 2 0 0 4 9
+p611
+aVJae Crowder DAL 12/23/2013 DAL @ HOU W 23 11 4 7 57.1 3 5 60.0 0 0 - 0 0 0 1 2 1 1 0 3
+p612
+aVShawn Marion DAL 12/21/2013 DAL @ PHX L 32 10 5 11 45.5 0 1 0.0 0 0 - 2 3 5 0 1 0 1 2 -21
+p613
+aVDeJuan Blair DAL 12/21/2013 DAL @ PHX L 11 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -8
+p614
+aVJose Calderon DAL 12/21/2013 DAL @ PHX L 31 9 4 5 80.0 1 2 50.0 0 0 - 0 3 3 6 1 1 0 2 -19
+p615
+aVShane Larkin DAL 12/21/2013 DAL @ PHX L 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 4
+p616
+aVDirk Nowitzki DAL 12/21/2013 DAL @ PHX L 30 21 7 17 41.2 1 6 16.7 6 6 100.0 1 5 6 1 0 1 1 2 -9
+p617
+aVWayne Ellington DAL 12/21/2013 DAL @ PHX L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 3 0 0 0 4
+p618
+aVGal Mekel DAL 12/21/2013 DAL @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p619
+aVBernard James DAL 12/21/2013 DAL @ PHX L 2 2 1 1 100.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 1 0
+p620
+aVSamuel Dalembert DAL 12/21/2013 DAL @ PHX L 7 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 5
+p621
+aVVince Carter DAL 12/21/2013 DAL @ PHX L 25 14 5 11 45.5 1 5 20.0 3 4 75.0 0 1 1 4 0 2 1 3 -7
+p622
+aVMonta Ellis DAL 12/21/2013 DAL @ PHX L 37 19 8 17 47.1 0 2 0.0 3 5 60.0 1 3 4 9 3 0 5 2 -16
+p623
+aVBrandan Wright DAL 12/21/2013 DAL @ PHX L 29 19 8 10 80.0 0 0 - 3 4 75.0 2 4 6 1 0 4 0 1 -12
+p624
+aVJae Crowder DAL 12/21/2013 DAL @ PHX L 16 8 3 8 37.5 0 1 0.0 2 3 66.7 4 2 6 1 1 0 2 1 4
+p625
+aVShawn Marion DAL 12/20/2013 DAL vs. TOR L 41 14 7 14 50.0 0 2 0.0 0 0 - 1 8 9 2 4 0 2 1 -16
+p626
+aVDirk Nowitzki DAL 12/20/2013 DAL vs. TOR L 43 22 10 22 45.5 2 6 33.3 0 1 0.0 2 7 9 5 0 0 0 4 13
+p627
+aVSamuel Dalembert DAL 12/20/2013 DAL vs. TOR L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p628
+aVBrandan Wright DAL 12/20/2013 DAL vs. TOR L 26 13 5 8 62.5 0 0 - 3 6 50.0 5 1 6 0 0 2 1 2 9
+p629
+aVJose Calderon DAL 12/20/2013 DAL vs. TOR L 37 23 8 13 61.5 7 10 70.0 0 0 - 1 3 4 9 2 0 1 1 1
+p630
+aVJae Crowder DAL 12/20/2013 DAL vs. TOR L 14 5 2 4 50.0 1 2 50.0 0 0 - 0 6 6 0 0 1 1 0 4
+p631
+aVVince Carter DAL 12/20/2013 DAL vs. TOR L 18 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 2 0 6 4 -11
+p632
+aVShane Larkin DAL 12/20/2013 DAL vs. TOR L 13 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 2
+p633
+aVDeJuan Blair DAL 12/20/2013 DAL vs. TOR L 21 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 1 0 0 0 -2
+p634
+aVMonta Ellis DAL 12/20/2013 DAL vs. TOR L 46 21 9 19 47.4 0 0 - 3 3 100.0 1 1 2 11 4 0 3 2 3
+p635
+aVShane Larkin DAL 12/18/2013 DAL vs. MEM W 14 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 2 0 9
+p636
+aVSamuel Dalembert DAL 12/18/2013 DAL vs. MEM W 13 8 3 3 100.0 0 0 - 2 3 66.7 4 3 7 1 2 2 2 2 5
+p637
+aVDeJuan Blair DAL 12/18/2013 DAL vs. MEM W 20 6 3 6 50.0 0 0 - 0 1 0.0 2 3 5 2 1 0 1 1 7
+p638
+aVMonta Ellis DAL 12/18/2013 DAL vs. MEM W 32 18 6 12 50.0 1 4 25.0 5 5 100.0 1 3 4 4 3 0 3 3 6
+p639
+aVVince Carter DAL 12/18/2013 DAL vs. MEM W 30 14 4 6 66.7 1 2 50.0 5 6 83.3 1 3 4 6 0 1 2 2 11
+p640
+aVGal Mekel DAL 12/18/2013 DAL vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p641
+aVWayne Ellington DAL 12/18/2013 DAL vs. MEM W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p642
+aVDirk Nowitzki DAL 12/18/2013 DAL vs. MEM W 27 20 9 15 60.0 0 1 0.0 2 2 100.0 1 5 6 5 2 1 2 3 23
+p643
+aVBernard James DAL 12/18/2013 DAL vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p644
+aVJae Crowder DAL 12/18/2013 DAL vs. MEM W 21 8 3 6 50.0 0 2 0.0 2 2 100.0 0 5 5 0 2 2 1 1 5
+p645
+aVJose Calderon DAL 12/18/2013 DAL vs. MEM W 32 12 5 7 71.4 2 4 50.0 0 0 - 0 1 1 3 0 0 0 1 8
+p646
+aVBrandan Wright DAL 12/18/2013 DAL vs. MEM W 13 4 0 3 0.0 0 0 - 4 4 100.0 1 1 2 0 0 3 1 0 7
+p647
+aVShawn Marion DAL 12/18/2013 DAL vs. MEM W 31 10 5 10 50.0 0 0 - 0 0 - 1 6 7 1 1 1 1 3 0
+p648
+aVVince Carter DAL 12/14/2013 DAL vs. MIL W 26 15 5 10 50.0 3 5 60.0 2 3 66.7 3 3 6 9 3 1 2 2 18
+p649
+aVShawn Marion DAL 12/14/2013 DAL vs. MIL W 23 13 5 13 38.5 1 3 33.3 2 2 100.0 3 9 12 1 1 1 1 3 11
+p650
+aVBrandan Wright DAL 12/14/2013 DAL vs. MIL W 19 19 9 10 90.0 0 0 - 1 3 33.3 1 5 6 1 0 0 0 1 17
+p651
+aVDeJuan Blair DAL 12/14/2013 DAL vs. MIL W 29 11 5 8 62.5 0 0 - 1 2 50.0 2 7 9 1 0 0 4 4 11
+p652
+aVJose Calderon DAL 12/14/2013 DAL vs. MIL W 23 18 7 10 70.0 4 6 66.7 0 0 - 0 1 1 1 1 0 1 1 19
+p653
+aVWayne Ellington DAL 12/14/2013 DAL vs. MIL W 23 7 3 11 27.3 1 5 20.0 0 0 - 0 1 1 2 2 0 0 1 0
+p654
+aVShane Larkin DAL 12/14/2013 DAL vs. MIL W 25 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 3 0 0 2 1 -6
+p655
+aVGal Mekel DAL 12/14/2013 DAL vs. MIL W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -13
+p656
+aVMonta Ellis DAL 12/14/2013 DAL vs. MIL W 23 7 3 7 42.9 0 0 - 1 2 50.0 0 3 3 5 0 0 3 2 14
+p657
+aVJae Crowder DAL 12/14/2013 DAL vs. MIL W 34 8 2 9 22.2 0 4 0.0 4 4 100.0 1 2 3 2 2 0 2 2 7
+p658
+aVBernard James DAL 12/14/2013 DAL vs. MIL W 10 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -13
+p659
+aVVince Carter DAL 12/11/2013 DAL @ GSW L 23 9 4 9 44.4 1 3 33.3 0 0 - 2 2 4 3 0 0 2 4 5
+p660
+aVShane Larkin DAL 12/11/2013 DAL @ GSW L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 4 1 0 2 1 3
+p661
+aVDeJuan Blair DAL 12/11/2013 DAL @ GSW L 23 4 2 8 25.0 0 0 - 0 0 - 2 7 9 2 0 0 2 2 -11
+p662
+aVJose Calderon DAL 12/11/2013 DAL @ GSW L 34 18 7 15 46.7 3 9 33.3 1 1 100.0 0 4 4 5 0 0 1 2 -4
+p663
+aVMonta Ellis DAL 12/11/2013 DAL @ GSW L 36 21 8 20 40.0 0 1 0.0 5 6 83.3 2 2 4 5 3 0 1 3 -7
+p664
+aVDirk Nowitzki DAL 12/11/2013 DAL @ GSW L 35 21 7 14 50.0 3 6 50.0 4 5 80.0 0 7 7 2 1 2 2 2 -7
+p665
+aVSamuel Dalembert DAL 12/11/2013 DAL @ GSW L 24 0 0 4 0.0 0 0 - 0 0 - 1 3 4 1 0 1 0 0 10
+p666
+aVJae Crowder DAL 12/11/2013 DAL @ GSW L 19 6 3 6 50.0 0 2 0.0 0 0 - 1 1 2 1 2 0 0 0 3
+p667
+aVShawn Marion DAL 12/11/2013 DAL @ GSW L 35 12 5 10 50.0 1 2 50.0 1 2 50.0 0 9 9 1 2 1 1 1 -2
+p668
+aVMonta Ellis DAL 12/09/2013 DAL @ SAC L 33 21 9 18 50.0 0 1 0.0 3 4 75.0 1 2 3 5 2 0 3 2 -15
+p669
+aVVince Carter DAL 12/09/2013 DAL @ SAC L 24 7 3 11 27.3 0 4 0.0 1 1 100.0 0 1 1 1 3 1 2 3 -14
+p670
+aVShawn Marion DAL 12/09/2013 DAL @ SAC L 25 8 3 9 33.3 0 3 0.0 2 2 100.0 1 2 3 0 0 0 1 2 -30
+p671
+aVBernard James DAL 12/09/2013 DAL @ SAC L 22 7 2 6 33.3 0 1 0.0 3 3 100.0 2 4 6 0 1 1 0 3 4
+p672
+aVSamuel Dalembert DAL 12/09/2013 DAL @ SAC L 12 3 0 2 0.0 0 1 0.0 3 4 75.0 2 4 6 0 2 0 0 4 -1
+p673
+aVJae Crowder DAL 12/09/2013 DAL @ SAC L 23 0 0 3 0.0 0 2 0.0 0 0 - 1 6 7 2 0 0 0 1 19
+p674
+aVJose Calderon DAL 12/09/2013 DAL @ SAC L 22 11 4 10 40.0 3 7 42.9 0 0 - 0 2 2 2 0 0 2 2 -30
+p675
+aVDirk Nowitzki DAL 12/09/2013 DAL @ SAC L 31 18 7 15 46.7 1 3 33.3 3 3 100.0 0 6 6 7 2 2 3 0 -9
+p676
+aVWayne Ellington DAL 12/09/2013 DAL @ SAC L 12 8 3 6 50.0 0 1 0.0 2 2 100.0 1 0 1 0 1 0 0 0 7
+p677
+aVShane Larkin DAL 12/09/2013 DAL @ SAC L 11 10 4 8 50.0 1 3 33.3 1 1 100.0 0 0 0 2 3 0 1 1 14
+p678
+aVDeJuan Blair DAL 12/09/2013 DAL @ SAC L 14 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 2 4 -18
+p679
+aVGal Mekel DAL 12/09/2013 DAL @ SAC L 11 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 3 -2
+p680
+aVDeJuan Blair DAL 12/07/2013 DAL @ POR W 24 15 6 9 66.7 0 0 - 3 4 75.0 1 7 8 0 1 0 1 4 12
+p681
+aVDirk Nowitzki DAL 12/07/2013 DAL @ POR W 36 30 13 23 56.5 3 4 75.0 1 1 100.0 1 5 6 7 0 1 0 3 16
+p682
+aVGal Mekel DAL 12/07/2013 DAL @ POR W 12 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 2 5
+p683
+aVWayne Ellington DAL 12/07/2013 DAL @ POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p684
+aVJae Crowder DAL 12/07/2013 DAL @ POR W 16 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 3 0 0 0 0
+p685
+aVVince Carter DAL 12/07/2013 DAL @ POR W 25 8 4 13 30.8 0 3 0.0 0 0 - 1 3 4 4 0 0 4 3 -11
+p686
+aVShawn Marion DAL 12/07/2013 DAL @ POR W 32 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 1 0 0 1 1 -7
+p687
+aVSamuel Dalembert DAL 12/07/2013 DAL @ POR W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 1 0 -7
+p688
+aVMonta Ellis DAL 12/07/2013 DAL @ POR W 39 20 8 17 47.1 2 3 66.7 2 2 100.0 0 1 1 4 1 0 3 4 0
+p689
+aVJose Calderon DAL 12/07/2013 DAL @ POR W 32 15 7 10 70.0 0 1 0.0 1 2 50.0 0 2 2 7 2 0 1 4 -1
+p690
+aVBernard James DAL 12/07/2013 DAL @ POR W 11 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 0 0 1 0 0 3
+p691
+aVWayne Ellington DAL 12/04/2013 DAL @ NOP W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 1 -5
+p692
+aVGal Mekel DAL 12/04/2013 DAL @ NOP W 11 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 5
+p693
+aVDirk Nowitzki DAL 12/04/2013 DAL @ NOP W 32 21 7 17 41.2 1 3 33.3 6 8 75.0 0 7 7 3 2 4 1 1 10
+p694
+aVShawn Marion DAL 12/04/2013 DAL @ NOP W 35 10 4 8 50.0 2 3 66.7 0 0 - 1 4 5 1 1 1 1 1 -7
+p695
+aVDeJuan Blair DAL 12/04/2013 DAL @ NOP W 29 12 6 10 60.0 0 0 - 0 3 0.0 0 4 4 0 0 1 0 4 1
+p696
+aVSamuel Dalembert DAL 12/04/2013 DAL @ NOP W 19 6 3 6 50.0 0 0 - 0 0 - 4 3 7 1 0 1 0 1 2
+p697
+aVMonta Ellis DAL 12/04/2013 DAL @ NOP W 39 14 5 13 38.5 0 0 - 4 6 66.7 0 6 6 10 3 0 1 0 -3
+p698
+aVJae Crowder DAL 12/04/2013 DAL @ NOP W 15 7 2 6 33.3 1 2 50.0 2 2 100.0 1 2 3 0 0 0 2 3 6
+p699
+aVJose Calderon DAL 12/04/2013 DAL @ NOP W 31 12 4 11 36.4 3 10 30.0 1 1 100.0 0 0 0 4 2 0 1 0 -1
+p700
+aVVince Carter DAL 12/04/2013 DAL @ NOP W 24 15 5 9 55.6 3 4 75.0 2 2 100.0 2 3 5 4 0 0 1 3 7
+p701
+aVShawn Marion DAL 12/03/2013 DAL vs. CHA W 33 8 4 10 40.0 0 2 0.0 0 0 - 2 8 10 1 1 0 0 2 1
+p702
+aVVince Carter DAL 12/03/2013 DAL vs. CHA W 26 10 3 8 37.5 2 5 40.0 2 4 50.0 0 7 7 3 1 0 1 1 3
+p703
+aVJae Crowder DAL 12/03/2013 DAL vs. CHA W 12 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 0 8
+p704
+aVShane Larkin DAL 12/03/2013 DAL vs. CHA W 9 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 6
+p705
+aVMonta Ellis DAL 12/03/2013 DAL vs. CHA W 38 22 8 18 44.4 0 2 0.0 6 6 100.0 0 5 5 5 0 1 3 2 -5
+p706
+aVDeJuan Blair DAL 12/03/2013 DAL vs. CHA W 21 2 1 4 25.0 0 0 - 0 0 - 1 6 7 3 0 0 1 5 11
+p707
+aVGal Mekel DAL 12/03/2013 DAL vs. CHA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 2 1 4
+p708
+aVBernard James DAL 12/03/2013 DAL vs. CHA W 10 5 2 3 66.7 0 0 - 1 1 100.0 2 2 4 0 0 0 0 1 -3
+p709
+aVSamuel Dalembert DAL 12/03/2013 DAL vs. CHA W 17 2 0 3 0.0 0 0 - 2 2 100.0 2 4 6 0 0 0 0 4 -1
+p710
+aVJose Calderon DAL 12/03/2013 DAL vs. CHA W 33 12 4 10 40.0 4 5 80.0 0 0 - 0 1 1 1 0 1 0 2 -3
+p711
+aVDirk Nowitzki DAL 12/03/2013 DAL vs. CHA W 35 25 10 21 47.6 2 6 33.3 3 3 100.0 0 3 3 1 0 1 2 0 14
+p712
+aVMonta Ellis DAL 11/30/2013 DAL vs. MIN L 37 26 9 15 60.0 3 5 60.0 5 5 100.0 2 4 6 6 2 0 2 2 -8
+p713
+aVDeJuan Blair DAL 11/30/2013 DAL vs. MIN L 22 11 5 8 62.5 0 0 - 1 1 100.0 2 6 8 1 2 0 0 5 -5
+p714
+aVJae Crowder DAL 11/30/2013 DAL vs. MIN L 13 5 2 6 33.3 1 5 20.0 0 0 - 1 0 1 1 0 0 2 4 -5
+p715
+aVDirk Nowitzki DAL 11/30/2013 DAL vs. MIN L 33 23 10 13 76.9 1 1 100.0 2 2 100.0 0 5 5 6 1 0 2 3 -6
+p716
+aVShane Larkin DAL 11/30/2013 DAL vs. MIN L 17 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 1 2 0 0 1 -2
+p717
+aVGal Mekel DAL 11/30/2013 DAL vs. MIN L 26 6 3 12 25.0 0 3 0.0 0 0 - 1 1 2 7 0 0 1 1 7
+p718
+aVWayne Ellington DAL 11/30/2013 DAL vs. MIN L 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 3
+p719
+aVSamuel Dalembert DAL 11/30/2013 DAL vs. MIN L 25 12 6 7 85.7 0 0 - 0 2 0.0 3 4 7 0 0 1 1 3 -5
+p720
+aVShawn Marion DAL 11/30/2013 DAL vs. MIN L 33 6 3 11 27.3 0 4 0.0 0 0 - 1 1 2 3 1 2 3 4 -7
+p721
+aVVince Carter DAL 11/30/2013 DAL vs. MIN L 30 10 4 12 33.3 1 3 33.3 1 1 100.0 2 3 5 4 1 1 0 1 -6
+p722
+aVBernard James DAL 11/30/2013 DAL vs. MIN L 0 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p723
+aVWayne Ellington DAL 11/29/2013 DAL @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p724
+aVSamuel Dalembert DAL 11/29/2013 DAL @ ATL L 22 8 1 2 50.0 0 0 - 6 6 100.0 1 3 4 0 1 2 0 3 -3
+p725
+aVVince Carter DAL 11/29/2013 DAL @ ATL L 31 9 3 10 30.0 1 4 25.0 2 2 100.0 1 2 3 4 2 0 1 2 4
+p726
+aVShane Larkin DAL 11/29/2013 DAL @ ATL L 9 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 4 1 3
+p727
+aVJose Calderon DAL 11/29/2013 DAL @ ATL L 26 16 5 11 45.5 4 7 57.1 2 2 100.0 0 0 0 3 0 0 1 2 8
+p728
+aVDirk Nowitzki DAL 11/29/2013 DAL @ ATL L 31 16 6 13 46.2 1 1 100.0 3 3 100.0 1 2 3 1 0 0 1 4 -6
+p729
+aVShawn Marion DAL 11/29/2013 DAL @ ATL L 35 15 6 14 42.9 3 8 37.5 0 0 - 2 10 12 2 2 0 1 2 -6
+p730
+aVJae Crowder DAL 11/29/2013 DAL @ ATL L 18 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 1 1 0 0 1
+p731
+aVMonta Ellis DAL 11/29/2013 DAL @ ATL L 37 12 6 15 40.0 0 0 - 0 0 - 0 3 3 4 2 1 7 2 -5
+p732
+aVDeJuan Blair DAL 11/29/2013 DAL @ ATL L 26 9 1 3 33.3 0 1 0.0 7 8 87.5 5 13 18 1 0 0 3 4 2
+p733
+aVGal Mekel DAL 11/29/2013 DAL @ ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p734
+aVDeJuan Blair DAL 11/27/2013 DAL vs. GSW W 21 11 5 10 50.0 0 0 - 1 2 50.0 7 2 9 1 2 0 1 5 8
+p735
+aVShane Larkin DAL 11/27/2013 DAL vs. GSW W 17 7 3 8 37.5 0 1 0.0 1 2 50.0 0 2 2 6 1 0 0 2 16
+p736
+aVShawn Marion DAL 11/27/2013 DAL vs. GSW W 31 11 4 10 40.0 1 3 33.3 2 2 100.0 1 4 5 0 1 0 0 4 -6
+p737
+aVJose Calderon DAL 11/27/2013 DAL vs. GSW W 28 12 5 10 50.0 2 4 50.0 0 0 - 0 2 2 3 0 0 1 2 -13
+p738
+aVMonta Ellis DAL 11/27/2013 DAL vs. GSW W 32 4 2 16 12.5 0 1 0.0 0 0 - 1 1 2 10 2 0 3 2 -14
+p739
+aVVince Carter DAL 11/27/2013 DAL vs. GSW W 27 7 3 10 30.0 1 3 33.3 0 0 - 1 4 5 2 0 0 1 2 -3
+p740
+aVSamuel Dalembert DAL 11/27/2013 DAL vs. GSW W 27 11 4 6 66.7 0 0 - 3 3 100.0 1 5 6 0 1 3 0 2 -2
+p741
+aVJae Crowder DAL 11/27/2013 DAL vs. GSW W 18 12 4 7 57.1 3 4 75.0 1 1 100.0 1 5 6 2 0 0 0 0 19
+p742
+aVDirk Nowitzki DAL 11/27/2013 DAL vs. GSW W 33 22 11 19 57.9 0 2 0.0 0 0 - 0 6 6 3 2 1 0 1 4
+p743
+aVWayne Ellington DAL 11/27/2013 DAL vs. GSW W 6 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 11
+p744
+aVVince Carter DAL 11/25/2013 DAL vs. DEN L 23 8 3 13 23.1 0 4 0.0 2 2 100.0 2 0 2 3 0 1 1 3 -16
+p745
+aVRicky Ledo DAL 11/25/2013 DAL vs. DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p746
+aVGal Mekel DAL 11/25/2013 DAL vs. DEN L 10 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 0 1 1 2
+p747
+aVDeJuan Blair DAL 11/25/2013 DAL vs. DEN L 19 10 5 9 55.6 0 0 - 0 0 - 2 6 8 0 1 0 2 3 -6
+p748
+aVWayne Ellington DAL 11/25/2013 DAL vs. DEN L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 -5
+p749
+aVShawn Marion DAL 11/25/2013 DAL vs. DEN L 35 13 6 10 60.0 0 2 0.0 1 2 50.0 4 8 12 4 1 0 0 1 -10
+p750
+aVSamuel Dalembert DAL 11/25/2013 DAL vs. DEN L 18 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 2 0 3 5
+p751
+aVJose Calderon DAL 11/25/2013 DAL vs. DEN L 30 12 4 6 66.7 3 4 75.0 1 2 50.0 0 0 0 4 0 0 2 3 -10
+p752
+aVShane Larkin DAL 11/25/2013 DAL vs. DEN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p753
+aVDirk Nowitzki DAL 11/25/2013 DAL vs. DEN L 31 18 7 15 46.7 0 1 0.0 4 5 80.0 1 5 6 2 1 0 2 1 2
+p754
+aVMonta Ellis DAL 11/25/2013 DAL vs. DEN L 36 22 8 15 53.3 0 2 0.0 6 6 100.0 0 0 0 4 1 0 1 2 -11
+p755
+aVJae Crowder DAL 11/25/2013 DAL vs. DEN L 12 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 0 0 1 2 0
+p756
+aVBernard James DAL 11/25/2013 DAL vs. DEN L 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -14
+p757
+aVShane Larkin DAL 11/23/2013 DAL @ DEN L 14 2 0 3 0.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 1 1 -3
+p758
+aVShawn Marion DAL 11/23/2013 DAL @ DEN L 32 6 2 8 25.0 0 3 0.0 2 2 100.0 0 5 5 2 1 0 2 2 -2
+p759
+aVVince Carter DAL 11/23/2013 DAL @ DEN L 24 16 6 13 46.2 4 5 80.0 0 0 - 1 2 3 0 0 1 0 1 -18
+p760
+aVDeJuan Blair DAL 11/23/2013 DAL @ DEN L 26 8 4 12 33.3 0 0 - 0 0 - 4 6 10 2 2 0 2 5 -4
+p761
+aVJae Crowder DAL 11/23/2013 DAL @ DEN L 13 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 2 0 0 2 2 3
+p762
+aVWayne Ellington DAL 11/23/2013 DAL @ DEN L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p763
+aVSamuel Dalembert DAL 11/23/2013 DAL @ DEN L 22 3 0 0 - 0 0 - 3 4 75.0 1 2 3 2 1 0 0 2 2
+p764
+aVJose Calderon DAL 11/23/2013 DAL @ DEN L 34 11 5 10 50.0 1 4 25.0 0 0 - 0 2 2 5 1 0 0 3 1
+p765
+aVDirk Nowitzki DAL 11/23/2013 DAL @ DEN L 34 27 9 22 40.9 0 2 0.0 9 9 100.0 0 9 9 1 0 1 0 2 10
+p766
+aVMonta Ellis DAL 11/23/2013 DAL @ DEN L 34 25 8 14 57.1 2 3 66.7 7 8 87.5 0 6 6 2 2 0 4 1 1
+p767
+aVWayne Ellington DAL 11/22/2013 DAL vs. UTA W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p768
+aVDirk Nowitzki DAL 11/22/2013 DAL vs. UTA W 32 18 5 14 35.7 1 2 50.0 7 7 100.0 1 6 7 1 1 0 1 1 12
+p769
+aVShane Larkin DAL 11/22/2013 DAL vs. UTA W 15 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 1 2 0 1 1 1
+p770
+aVDeJuan Blair DAL 11/22/2013 DAL vs. UTA W 19 11 5 9 55.6 0 0 - 1 2 50.0 5 4 9 1 1 0 3 3 -3
+p771
+aVMonta Ellis DAL 11/22/2013 DAL vs. UTA W 38 26 8 19 42.1 1 2 50.0 9 10 90.0 1 2 3 6 1 0 3 2 11
+p772
+aVJae Crowder DAL 11/22/2013 DAL vs. UTA W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 1 1 0
+p773
+aVJose Calderon DAL 11/22/2013 DAL vs. UTA W 30 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 4 2 0 2 2 10
+p774
+aVVince Carter DAL 11/22/2013 DAL vs. UTA W 22 8 3 9 33.3 2 5 40.0 0 1 0.0 1 3 4 0 0 1 2 3 -11
+p775
+aVSamuel Dalembert DAL 11/22/2013 DAL vs. UTA W 29 18 8 8 100.0 0 0 - 2 4 50.0 5 7 12 1 0 2 3 4 13
+p776
+aVShawn Marion DAL 11/22/2013 DAL vs. UTA W 32 10 4 7 57.1 1 3 33.3 1 2 50.0 0 3 3 4 2 1 0 0 12
+p777
+aVVince Carter DAL 11/20/2013 DAL vs. HOU W 25 9 2 7 28.6 0 3 0.0 5 7 71.4 1 4 5 5 2 0 1 2 5
+p778
+aVSamuel Dalembert DAL 11/20/2013 DAL vs. HOU W 32 6 1 3 33.3 0 0 - 4 4 100.0 2 8 10 0 0 4 2 5 -5
+p779
+aVDirk Nowitzki DAL 11/20/2013 DAL vs. HOU W 34 35 13 20 65.0 2 5 40.0 7 7 100.0 1 6 7 4 1 1 1 3 6
+p780
+aVJae Crowder DAL 11/20/2013 DAL vs. HOU W 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p781
+aVJose Calderon DAL 11/20/2013 DAL vs. HOU W 29 13 4 8 50.0 3 5 60.0 2 2 100.0 0 1 1 2 1 0 2 3 -1
+p782
+aVShane Larkin DAL 11/20/2013 DAL vs. HOU W 17 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 2 2 0 4 2 7
+p783
+aVMonta Ellis DAL 11/20/2013 DAL vs. HOU W 40 37 13 18 72.2 2 4 50.0 9 12 75.0 0 2 2 9 2 0 3 4 2
+p784
+aVDeJuan Blair DAL 11/20/2013 DAL vs. HOU W 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 4 6
+p785
+aVShawn Marion DAL 11/20/2013 DAL vs. HOU W 35 13 5 8 62.5 2 2 100.0 1 1 100.0 1 3 4 2 1 0 1 2 -8
+p786
+aVShawn Marion DAL 11/18/2013 DAL vs. PHI W 35 20 7 13 53.8 2 3 66.7 4 4 100.0 2 5 7 1 2 2 2 3 -1
+p787
+aVDirk Nowitzki DAL 11/18/2013 DAL vs. PHI W 33 20 8 15 53.3 1 5 20.0 3 3 100.0 0 10 10 3 1 1 3 2 3
+p788
+aVVince Carter DAL 11/18/2013 DAL vs. PHI W 25 6 2 5 40.0 1 3 33.3 1 2 50.0 0 4 4 2 1 2 2 2 12
+p789
+aVShane Larkin DAL 11/18/2013 DAL vs. PHI W 9 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 3 3 0 0 2 -3
+p790
+aVGal Mekel DAL 11/18/2013 DAL vs. PHI W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -1
+p791
+aVBernard James DAL 11/18/2013 DAL vs. PHI W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 9
+p792
+aVSamuel Dalembert DAL 11/18/2013 DAL vs. PHI W 28 8 3 6 50.0 0 0 - 2 2 100.0 5 9 14 0 0 3 1 1 1
+p793
+aVDeJuan Blair DAL 11/18/2013 DAL vs. PHI W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 4 -3
+p794
+aVJose Calderon DAL 11/18/2013 DAL vs. PHI W 32 14 5 13 38.5 4 10 40.0 0 0 - 1 2 3 4 1 0 2 3 -2
+p795
+aVJae Crowder DAL 11/18/2013 DAL vs. PHI W 20 2 1 8 12.5 0 5 0.0 0 0 - 0 6 6 2 0 1 3 1 -2
+p796
+aVMonta Ellis DAL 11/18/2013 DAL vs. PHI W 39 24 7 14 50.0 1 2 50.0 9 13 69.2 1 3 4 10 0 2 4 1 2
+p797
+aVVince Carter DAL 11/16/2013 DAL @ ORL W 24 12 4 10 40.0 2 7 28.6 2 2 100.0 0 3 3 1 1 0 0 0 11
+p798
+aVMonta Ellis DAL 11/16/2013 DAL @ ORL W 40 19 9 19 47.4 0 2 0.0 1 2 50.0 0 2 2 8 3 0 3 4 7
+p799
+aVJae Crowder DAL 11/16/2013 DAL @ ORL W 17 7 3 5 60.0 1 3 33.3 0 0 - 1 2 3 1 2 0 0 1 8
+p800
+aVJose Calderon DAL 11/16/2013 DAL @ ORL W 31 11 5 10 50.0 1 4 25.0 0 0 - 0 1 1 9 0 0 0 1 -1
+p801
+aVDeJuan Blair DAL 11/16/2013 DAL @ ORL W 25 18 7 9 77.8 0 0 - 4 6 66.7 1 4 5 2 2 1 0 5 18
+p802
+aVDirk Nowitzki DAL 11/16/2013 DAL @ ORL W 33 18 6 12 50.0 4 6 66.7 2 2 100.0 0 4 4 3 0 0 0 3 -1
+p803
+aVGal Mekel DAL 11/16/2013 DAL @ ORL W 13 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 6
+p804
+aVSamuel Dalembert DAL 11/16/2013 DAL @ ORL W 23 6 3 5 60.0 0 0 - 0 2 0.0 1 3 4 1 1 2 4 5 -10
+p805
+aVShawn Marion DAL 11/16/2013 DAL @ ORL W 34 11 3 9 33.3 2 4 50.0 3 4 75.0 2 6 8 0 2 0 0 1 2
+p806
+aVSamuel Dalembert DAL 11/15/2013 DAL @ MIA L 20 4 2 5 40.0 0 0 - 0 0 - 2 7 9 0 3 1 1 1 8
+p807
+aVVince Carter DAL 11/15/2013 DAL @ MIA L 27 21 7 12 58.3 3 6 50.0 4 4 100.0 1 2 3 1 1 1 3 3 -15
+p808
+aVJose Calderon DAL 11/15/2013 DAL @ MIA L 35 12 4 10 40.0 4 9 44.4 0 0 - 0 1 1 5 0 0 3 1 8
+p809
+aVDirk Nowitzki DAL 11/15/2013 DAL @ MIA L 36 28 8 12 66.7 3 5 60.0 9 10 90.0 0 6 6 3 2 1 5 3 -1
+p810
+aVRicky Ledo DAL 11/15/2013 DAL @ MIA L 0 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p811
+aVJae Crowder DAL 11/15/2013 DAL @ MIA L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 2 -15
+p812
+aVShawn Marion DAL 11/15/2013 DAL @ MIA L 31 8 4 6 66.7 0 1 0.0 0 0 - 1 3 4 2 1 0 2 3 8
+p813
+aVDeJuan Blair DAL 11/15/2013 DAL @ MIA L 27 9 4 10 40.0 0 0 - 1 1 100.0 2 5 7 5 3 2 1 3 -15
+p814
+aVGal Mekel DAL 11/15/2013 DAL @ MIA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 3 0 -6
+p815
+aVMonta Ellis DAL 11/15/2013 DAL @ MIA L 42 20 7 16 43.8 2 6 33.3 4 6 66.7 0 3 3 4 1 0 5 4 -4
+p816
+aVMonta Ellis DAL 11/12/2013 DAL vs. WAS W 37 19 7 16 43.8 1 1 100.0 4 5 80.0 0 4 4 7 0 0 4 3 4
+p817
+aVRicky Ledo DAL 11/12/2013 DAL vs. WAS W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p818
+aVSamuel Dalembert DAL 11/12/2013 DAL vs. WAS W 23 15 5 7 71.4 0 0 - 5 6 83.3 3 2 5 1 2 0 1 2 -7
+p819
+aVGal Mekel DAL 11/12/2013 DAL vs. WAS W 12 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 2 1 0 1 0 6
+p820
+aVJose Calderon DAL 11/12/2013 DAL vs. WAS W 33 11 4 8 50.0 3 6 50.0 0 0 - 0 1 1 4 2 0 2 2 -2
+p821
+aVBernard James DAL 11/12/2013 DAL vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p822
+aVDirk Nowitzki DAL 11/12/2013 DAL vs. WAS W 32 19 8 19 42.1 2 5 40.0 1 2 50.0 1 7 8 2 2 1 1 3 16
+p823
+aVShawn Marion DAL 11/12/2013 DAL vs. WAS W 33 8 4 7 57.1 0 1 0.0 0 0 - 2 7 9 2 1 1 4 3 -5
+p824
+aVVince Carter DAL 11/12/2013 DAL vs. WAS W 26 16 6 13 46.2 4 9 44.4 0 0 - 1 2 3 3 0 0 0 4 16
+p825
+aVJae Crowder DAL 11/12/2013 DAL vs. WAS W 18 4 2 5 40.0 0 2 0.0 0 1 0.0 0 1 1 3 1 0 0 1 8
+p826
+aVDeJuan Blair DAL 11/12/2013 DAL vs. WAS W 24 9 4 6 66.7 0 0 - 1 3 33.3 4 7 11 1 0 0 1 2 20
+p827
+aVJose Calderon DAL 11/09/2013 DAL @ MIL W 36 9 3 8 37.5 3 6 50.0 0 0 - 2 5 7 3 1 0 1 1 -3
+p828
+aVShawn Marion DAL 11/09/2013 DAL @ MIL W 34 14 6 12 50.0 2 2 100.0 0 0 - 1 9 10 3 0 1 1 0 2
+p829
+aVSamuel Dalembert DAL 11/09/2013 DAL @ MIL W 26 6 3 6 50.0 0 0 - 0 0 - 4 2 6 0 0 2 1 4 7
+p830
+aVDeJuan Blair DAL 11/09/2013 DAL @ MIL W 22 7 3 5 60.0 0 0 - 1 2 50.0 3 8 11 1 3 0 3 3 1
+p831
+aVMonta Ellis DAL 11/09/2013 DAL @ MIL W 40 18 6 14 42.9 0 1 0.0 6 7 85.7 1 1 2 5 3 0 4 2 9
+p832
+aVVince Carter DAL 11/09/2013 DAL @ MIL W 21 13 4 11 36.4 1 4 25.0 4 4 100.0 1 2 3 3 1 1 5 5 6
+p833
+aVGal Mekel DAL 11/09/2013 DAL @ MIL W 13 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 0 5
+p834
+aVDirk Nowitzki DAL 11/09/2013 DAL @ MIL W 32 16 5 15 33.3 0 5 0.0 6 6 100.0 0 6 6 0 1 0 1 1 7
+p835
+aVJae Crowder DAL 11/09/2013 DAL @ MIL W 16 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 2 1 1 2 6
+p836
+aVSamuel Dalembert DAL 11/08/2013 DAL @ MIN L 13 4 2 3 66.7 0 0 - 0 0 - 3 1 4 0 1 3 2 3 -16
+p837
+aVGal Mekel DAL 11/08/2013 DAL @ MIN L 15 7 3 8 37.5 0 1 0.0 1 2 50.0 0 1 1 4 0 0 0 1 10
+p838
+aVJose Calderon DAL 11/08/2013 DAL @ MIN L 33 21 7 11 63.6 6 8 75.0 1 1 100.0 0 4 4 7 1 0 1 2 -14
+p839
+aVBernard James DAL 11/08/2013 DAL @ MIN L 7 5 2 2 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 3 6
+p840
+aVWayne Ellington DAL 11/08/2013 DAL @ MIN L 14 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 1 0 0 1 2 3
+p841
+aVJae Crowder DAL 11/08/2013 DAL @ MIN L 32 10 5 10 50.0 0 2 0.0 0 2 0.0 2 4 6 1 0 0 0 0 12
+p842
+aVDeJuan Blair DAL 11/08/2013 DAL @ MIN L 21 8 4 6 66.7 0 0 - 0 2 0.0 5 4 9 2 2 0 2 4 6
+p843
+aVMonta Ellis DAL 11/08/2013 DAL @ MIN L 37 23 9 24 37.5 1 4 25.0 4 4 100.0 2 1 3 3 1 0 3 2 -16
+p844
+aVShawn Marion DAL 11/08/2013 DAL @ MIN L 37 10 5 13 38.5 0 1 0.0 0 0 - 2 5 7 2 3 3 4 2 -12
+p845
+aVDirk Nowitzki DAL 11/08/2013 DAL @ MIN L 31 14 5 11 45.5 1 4 25.0 3 3 100.0 0 3 3 1 1 1 4 2 -19
+p846
+aVSamuel Dalembert DAL 11/06/2013 DAL @ OKC L 24 6 3 10 30.0 0 0 - 0 0 - 5 4 9 0 0 0 3 2 -1
+p847
+aVMonta Ellis DAL 11/06/2013 DAL @ OKC L 39 20 8 17 47.1 1 3 33.3 3 4 75.0 0 5 5 3 0 0 7 5 -9
+p848
+aVJae Crowder DAL 11/06/2013 DAL @ OKC L 25 17 6 8 75.0 3 5 60.0 2 3 66.7 2 1 3 0 2 0 1 1 -4
+p849
+aVDeJuan Blair DAL 11/06/2013 DAL @ OKC L 19 8 4 8 50.0 0 0 - 0 0 - 2 1 3 1 1 0 1 3 -18
+p850
+aVJose Calderon DAL 11/06/2013 DAL @ OKC L 32 9 3 6 50.0 1 2 50.0 2 2 100.0 1 1 2 3 3 0 3 1 -11
+p851
+aVWayne Ellington DAL 11/06/2013 DAL @ OKC L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p852
+aVVince Carter DAL 11/06/2013 DAL @ OKC L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 -13
+p853
+aVRicky Ledo DAL 11/06/2013 DAL @ OKC L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p854
+aVGal Mekel DAL 11/06/2013 DAL @ OKC L 11 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 2 1 0 0 0 -6
+p855
+aVShawn Marion DAL 11/06/2013 DAL @ OKC L 33 17 7 13 53.8 2 4 50.0 1 1 100.0 0 4 4 3 2 2 2 1 -9
+p856
+aVDirk Nowitzki DAL 11/06/2013 DAL @ OKC L 34 16 5 12 41.7 2 4 50.0 4 4 100.0 0 6 6 3 3 0 4 2 3
+p857
+aVDeJuan Blair DAL 11/05/2013 DAL vs. LAL W 19 10 5 10 50.0 0 0 - 0 2 0.0 4 4 8 4 5 1 1 0 10
+p858
+aVRicky Ledo DAL 11/05/2013 DAL vs. LAL W 7 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -6
+p859
+aVBernard James DAL 11/05/2013 DAL vs. LAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 1 1 -8
+p860
+aVSamuel Dalembert DAL 11/05/2013 DAL vs. LAL W 23 10 5 7 71.4 0 0 - 0 0 - 2 4 6 1 1 1 1 0 17
+p861
+aVJae Crowder DAL 11/05/2013 DAL vs. LAL W 24 18 7 9 77.8 4 6 66.7 0 0 - 0 4 4 1 0 0 0 3 7
+p862
+aVDirk Nowitzki DAL 11/05/2013 DAL vs. LAL W 28 11 4 9 44.4 1 3 33.3 2 2 100.0 1 7 8 4 2 0 1 1 18
+p863
+aVShawn Marion DAL 11/05/2013 DAL vs. LAL W 27 11 5 15 33.3 1 2 50.0 0 0 - 3 4 7 1 1 0 1 1 16
+p864
+aVMonta Ellis DAL 11/05/2013 DAL vs. LAL W 31 30 11 14 78.6 0 1 0.0 8 8 100.0 0 3 3 9 1 0 1 3 20
+p865
+aVJose Calderon DAL 11/05/2013 DAL vs. LAL W 22 12 4 6 66.7 4 6 66.7 0 0 - 0 4 4 5 0 0 1 1 22
+p866
+aVGal Mekel DAL 11/05/2013 DAL vs. LAL W 26 9 4 8 50.0 1 3 33.3 0 0 - 0 4 4 6 0 0 3 1 -3
+p867
+aVWayne Ellington DAL 11/05/2013 DAL vs. LAL W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p868
+aVVince Carter DAL 11/05/2013 DAL vs. LAL W 18 8 3 10 30.0 2 5 40.0 0 0 - 0 1 1 3 0 0 0 3 4
+p869
+aVSamuel Dalembert DAL 11/02/2013 DAL vs. MEM W 26 14 4 4 100.0 0 0 - 6 6 100.0 2 7 9 2 2 0 2 5 4
+p870
+aVDirk Nowitzki DAL 11/02/2013 DAL vs. MEM W 32 24 7 16 43.8 3 4 75.0 7 8 87.5 0 6 6 1 2 0 2 3 11
+p871
+aVMonta Ellis DAL 11/02/2013 DAL vs. MEM W 38 18 5 14 35.7 0 1 0.0 8 10 80.0 1 2 3 2 3 0 2 3 11
+p872
+aVGal Mekel DAL 11/02/2013 DAL vs. MEM W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 2 0 5
+p873
+aVJae Crowder DAL 11/02/2013 DAL vs. MEM W 16 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 1 1 0 4
+p874
+aVDeJuan Blair DAL 11/02/2013 DAL vs. MEM W 22 8 3 6 50.0 0 0 - 2 3 66.7 2 4 6 0 4 0 1 4 8
+p875
+aVVince Carter DAL 11/02/2013 DAL vs. MEM W 26 11 3 8 37.5 1 4 25.0 4 5 80.0 0 1 1 2 0 0 0 1 8
+p876
+aVJose Calderon DAL 11/02/2013 DAL vs. MEM W 39 15 4 11 36.4 3 7 42.9 4 4 100.0 2 0 2 5 1 0 0 2 6
+p877
+aVShawn Marion DAL 11/02/2013 DAL vs. MEM W 34 21 6 17 35.3 0 2 0.0 9 10 90.0 6 8 14 4 0 2 1 2 3
+p878
+aVMonta Ellis DAL 11/01/2013 DAL @ HOU L 32 20 7 19 36.8 1 4 25.0 5 6 83.3 0 4 4 1 3 0 5 4 -6
+p879
+aVSamuel Dalembert DAL 11/01/2013 DAL @ HOU L 22 6 3 5 60.0 0 0 - 0 1 0.0 1 4 5 0 1 1 1 5 -3
+p880
+aVDirk Nowitzki DAL 11/01/2013 DAL @ HOU L 30 22 6 15 40.0 0 2 0.0 10 11 90.9 2 2 4 2 0 0 1 6 3
+p881
+aVWayne Ellington DAL 11/01/2013 DAL @ HOU L 16 4 1 7 14.3 1 4 25.0 1 1 100.0 1 1 2 2 0 1 0 1 -2
+p882
+aVDeJuan Blair DAL 11/01/2013 DAL @ HOU L 18 11 5 11 45.5 0 1 0.0 1 2 50.0 5 5 10 0 2 2 2 5 -15
+p883
+aVJae Crowder DAL 11/01/2013 DAL @ HOU L 13 15 5 8 62.5 5 7 71.4 0 0 - 0 1 1 0 0 1 0 3 -2
+p884
+aVGal Mekel DAL 11/01/2013 DAL @ HOU L 23 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 6 0 0 1 4 -3
+p885
+aVJose Calderon DAL 11/01/2013 DAL @ HOU L 25 0 0 8 0.0 0 3 0.0 0 0 - 0 1 1 6 1 0 1 2 -5
+p886
+aVShawn Marion DAL 11/01/2013 DAL @ HOU L 25 7 3 9 33.3 0 0 - 1 2 50.0 5 5 10 0 2 1 1 2 -16
+p887
+aVBernard James DAL 11/01/2013 DAL @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 6
+p888
+aVRicky Ledo DAL 11/01/2013 DAL @ HOU L 4 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 7
+p889
+aVVince Carter DAL 11/01/2013 DAL @ HOU L 27 6 2 8 25.0 0 3 0.0 2 2 100.0 2 3 5 1 0 1 1 3 -4
+p890
+aVJae Crowder DAL 10/30/2013 DAL vs. ATL W 9 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 -6
+p891
+aVWayne Ellington DAL 10/30/2013 DAL vs. ATL W 14 6 2 4 50.0 1 3 33.3 1 2 50.0 1 2 3 0 1 0 0 1 3
+p892
+aVGal Mekel DAL 10/30/2013 DAL vs. ATL W 9 2 0 0 - 0 0 - 2 2 100.0 0 2 2 3 0 0 2 1 -2
+p893
+aVMonta Ellis DAL 10/30/2013 DAL vs. ATL W 37 32 11 17 64.7 2 3 66.7 8 8 100.0 0 4 4 8 2 0 7 3 14
+p894
+aVSamuel Dalembert DAL 10/30/2013 DAL vs. ATL W 27 4 2 4 50.0 0 0 - 0 0 - 1 8 9 0 0 1 1 1 3
+p895
+aVShawn Marion DAL 10/30/2013 DAL vs. ATL W 31 12 6 9 66.7 0 1 0.0 0 2 0.0 0 8 8 1 2 1 2 2 11
+p896
+aVVince Carter DAL 10/30/2013 DAL vs. ATL W 25 21 9 16 56.3 2 5 40.0 1 2 50.0 0 4 4 2 1 0 2 3 -6
+p897
+aVDirk Nowitzki DAL 10/30/2013 DAL vs. ATL W 33 24 8 14 57.1 4 6 66.7 4 4 100.0 0 4 4 5 0 0 1 4 18
+p898
+aVDeJuan Blair DAL 10/30/2013 DAL vs. ATL W 21 9 4 5 80.0 0 0 - 1 2 50.0 5 0 5 0 0 0 1 3 6
+p899
+aVJose Calderon DAL 10/30/2013 DAL vs. ATL W 35 5 1 7 14.3 1 5 20.0 2 2 100.0 0 2 2 11 1 0 4 3 4
+p900
+a.

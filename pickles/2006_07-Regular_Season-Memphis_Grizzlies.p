@@ -1,0 +1,1700 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPau Gasol MEM 04/18/2007 MEM @ MIN W 36 25 9 15 60.0 0 0 - 7 9 77.8 1 15 16 6 0 1 2 1 19
+p2
+aVAlexander Johnson MEM 04/18/2007 MEM @ MIN W 17 11 4 7 57.1 0 0 - 3 6 50.0 0 2 2 1 0 1 2 4 7
+p3
+aVHakim Warrick MEM 04/18/2007 MEM @ MIN W 27 18 7 14 50.0 0 1 0.0 4 4 100.0 2 5 7 0 1 0 0 1 16
+p4
+aVJunior Harrington MEM 04/18/2007 MEM @ MIN W 22 2 1 3 33.3 0 0 - 0 0 - 0 1 1 5 0 3 3 4 4
+p5
+aVDahntay Jones MEM 04/18/2007 MEM @ MIN W 40 16 7 15 46.7 0 1 0.0 2 3 66.7 4 3 7 1 1 0 1 5 15
+p6
+aVTarence Kinsey MEM 04/18/2007 MEM @ MIN W 46 22 9 13 69.2 0 1 0.0 4 4 100.0 4 5 9 7 3 0 1 1 22
+p7
+aVChucky Atkins MEM 04/18/2007 MEM @ MIN W 37 8 3 10 30.0 2 8 25.0 0 0 - 0 2 2 16 1 0 1 1 25
+p8
+aVStromile Swift MEM 04/18/2007 MEM @ MIN W 15 14 6 10 60.0 0 0 - 2 2 100.0 3 2 5 1 0 2 0 3 2
+p9
+aVRudy Gay MEM 04/16/2007 MEM vs. SAS W 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p10
+aVPau Gasol MEM 04/16/2007 MEM vs. SAS W 39 25 9 15 60.0 1 1 100.0 6 8 75.0 4 11 15 6 3 4 4 1 11
+p11
+aVChucky Atkins MEM 04/16/2007 MEM vs. SAS W 37 19 7 12 58.3 3 7 42.9 2 2 100.0 0 2 2 3 0 0 4 2 -1
+p12
+aVDahntay Jones MEM 04/16/2007 MEM vs. SAS W 42 16 6 11 54.5 1 1 100.0 3 4 75.0 1 1 2 2 1 1 2 4 8
+p13
+aVHakim Warrick MEM 04/16/2007 MEM vs. SAS W 25 6 3 8 37.5 0 0 - 0 2 0.0 0 3 3 3 0 0 1 4 13
+p14
+aVStromile Swift MEM 04/16/2007 MEM vs. SAS W 19 10 2 5 40.0 0 0 - 6 8 75.0 0 2 2 0 0 1 1 3 -3
+p15
+aVAlexander Johnson MEM 04/16/2007 MEM vs. SAS W 13 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 -1
+p16
+aVJunior Harrington MEM 04/16/2007 MEM vs. SAS W 13 9 4 4 100.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 2 2
+p17
+aVTarence Kinsey MEM 04/16/2007 MEM vs. SAS W 42 12 5 11 45.5 0 1 0.0 2 2 100.0 2 5 7 1 1 0 0 0 18
+p18
+aVChucky Atkins MEM 04/14/2007 MEM vs. DEN W 42 28 9 14 64.3 4 6 66.7 6 6 100.0 0 1 1 12 2 0 3 1 15
+p19
+aVJunior Harrington MEM 04/14/2007 MEM vs. DEN W 20 9 3 3 100.0 0 0 - 3 4 75.0 0 1 1 4 1 0 3 3 -3
+p20
+aVPau Gasol MEM 04/14/2007 MEM vs. DEN W 29 15 6 13 46.2 0 0 - 3 3 100.0 3 7 10 8 0 2 3 3 9
+p21
+aVTarence Kinsey MEM 04/14/2007 MEM vs. DEN W 48 28 10 18 55.6 0 0 - 8 10 80.0 4 0 4 3 4 0 3 1 15
+p22
+aVAlexander Johnson MEM 04/14/2007 MEM vs. DEN W 19 6 2 4 50.0 0 0 - 2 4 50.0 2 2 4 0 3 0 0 3 6
+p23
+aVDahntay Jones MEM 04/14/2007 MEM vs. DEN W 33 15 6 11 54.5 0 0 - 3 4 75.0 0 1 1 0 2 1 1 5 18
+p24
+aVHakim Warrick MEM 04/14/2007 MEM vs. DEN W 31 20 8 12 66.7 0 0 - 4 8 50.0 2 9 11 1 1 0 3 1 10
+p25
+aVStromile Swift MEM 04/14/2007 MEM vs. DEN W 18 12 4 8 50.0 0 0 - 4 4 100.0 3 3 6 1 1 3 0 4 5
+p26
+aVJunior Harrington MEM 04/10/2007 MEM vs. SAC L 23 9 3 5 60.0 1 2 50.0 2 2 100.0 0 3 3 3 1 0 3 2 5
+p27
+aVChucky Atkins MEM 04/10/2007 MEM vs. SAC L 45 11 1 9 11.1 1 3 33.3 8 11 72.7 0 3 3 10 0 0 0 2 -9
+p28
+aVPau Gasol MEM 04/10/2007 MEM vs. SAC L 33 17 4 9 44.4 0 0 - 9 14 64.3 2 7 9 1 2 1 1 3 -3
+p29
+aVStromile Swift MEM 04/10/2007 MEM vs. SAC L 25 14 7 12 58.3 0 0 - 0 0 - 2 2 4 0 2 2 0 3 4
+p30
+aVDahntay Jones MEM 04/10/2007 MEM vs. SAC L 40 20 7 15 46.7 1 1 100.0 5 5 100.0 0 4 4 3 0 0 3 4 -7
+p31
+aVAlexander Johnson MEM 04/10/2007 MEM vs. SAC L 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 1 1 -6
+p32
+aVLawrence Roberts MEM 04/10/2007 MEM vs. SAC L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 3
+p33
+aVHakim Warrick MEM 04/10/2007 MEM vs. SAC L 27 12 5 10 50.0 0 0 - 2 2 100.0 2 2 4 1 1 0 3 2 -22
+p34
+aVTarence Kinsey MEM 04/10/2007 MEM vs. SAC L 36 14 6 14 42.9 0 2 0.0 2 2 100.0 2 2 4 3 0 0 0 3 -25
+p35
+aVDahntay Jones MEM 04/07/2007 MEM @ ORL L 33 13 4 12 33.3 0 1 0.0 5 5 100.0 2 4 6 4 0 1 1 3 -27
+p36
+aVChucky Atkins MEM 04/07/2007 MEM @ ORL L 35 18 5 11 45.5 3 7 42.9 5 9 55.6 0 0 0 5 0 0 1 2 -6
+p37
+aVPau Gasol MEM 04/07/2007 MEM @ ORL L 31 14 4 9 44.4 0 0 - 6 6 100.0 0 8 8 1 1 1 2 5 -25
+p38
+aVJunior Harrington MEM 04/07/2007 MEM @ ORL L 31 4 2 7 28.6 0 1 0.0 0 0 - 2 1 3 3 0 0 2 4 -9
+p39
+aVStromile Swift MEM 04/07/2007 MEM @ ORL L 18 3 0 5 0.0 0 0 - 3 4 75.0 2 4 6 0 0 0 1 5 -7
+p40
+aVAlexander Johnson MEM 04/07/2007 MEM @ ORL L 12 3 1 2 50.0 0 0 - 1 3 33.3 0 0 0 0 1 0 0 6 -14
+p41
+aVLawrence Roberts MEM 04/07/2007 MEM @ ORL L 8 5 2 7 28.6 0 0 - 1 2 50.0 2 2 4 0 1 0 1 1 1
+p42
+aVTarence Kinsey MEM 04/07/2007 MEM @ ORL L 44 15 6 12 50.0 0 0 - 3 6 50.0 2 0 2 0 2 0 2 2 -31
+p43
+aVHakim Warrick MEM 04/07/2007 MEM @ ORL L 28 14 4 9 44.4 0 0 - 6 10 60.0 2 6 8 1 0 0 3 2 -17
+p44
+aVTarence Kinsey MEM 04/06/2007 MEM vs. GSW L 44 28 7 18 38.9 0 3 0.0 14 15 93.3 1 1 2 5 4 0 3 2 -7
+p45
+aVDahntay Jones MEM 04/06/2007 MEM vs. GSW L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 2 0 1 2 -14
+p46
+aVPau Gasol MEM 04/06/2007 MEM vs. GSW L 39 21 8 10 80.0 0 0 - 5 8 62.5 2 9 11 4 2 3 3 5 -10
+p47
+aVRudy Gay MEM 04/06/2007 MEM vs. GSW L 41 15 6 15 40.0 3 6 50.0 0 0 - 0 10 10 0 1 1 5 3 -1
+p48
+aVAlexander Johnson MEM 04/06/2007 MEM vs. GSW L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 4
+p49
+aVChucky Atkins MEM 04/06/2007 MEM vs. GSW L 21 15 4 9 44.4 1 3 33.3 6 6 100.0 1 2 3 0 0 0 3 1 -13
+p50
+aVJunior Harrington MEM 04/06/2007 MEM vs. GSW L 31 10 4 8 50.0 0 0 - 2 2 100.0 1 1 2 3 1 0 7 5 -4
+p51
+aVHakim Warrick MEM 04/06/2007 MEM vs. GSW L 35 11 3 5 60.0 0 0 - 5 6 83.3 1 3 4 1 1 0 1 4 -6
+p52
+aVStromile Swift MEM 04/06/2007 MEM vs. GSW L 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 3 2 -9
+p53
+aVRudy Gay MEM 04/03/2007 MEM vs. PHX L 39 14 4 9 44.4 0 1 0.0 6 7 85.7 1 3 4 4 2 1 3 2 4
+p54
+aVHakim Warrick MEM 04/03/2007 MEM vs. PHX L 39 22 9 15 60.0 0 1 0.0 4 5 80.0 6 10 16 1 0 0 3 5 -13
+p55
+aVPau Gasol MEM 04/03/2007 MEM vs. PHX L 35 23 8 20 40.0 0 0 - 7 7 100.0 3 8 11 4 2 2 1 5 -9
+p56
+aVJunior Harrington MEM 04/03/2007 MEM vs. PHX L 18 4 2 7 28.6 0 0 - 0 0 - 0 4 4 1 1 0 1 1 -11
+p57
+aVChucky Atkins MEM 04/03/2007 MEM vs. PHX L 33 19 7 13 53.8 3 7 42.9 2 3 66.7 0 1 1 7 1 0 4 2 7
+p58
+aVStromile Swift MEM 04/03/2007 MEM vs. PHX L 16 7 2 3 66.7 0 0 - 3 4 75.0 1 3 4 0 0 0 0 2 5
+p59
+aVAlexander Johnson MEM 04/03/2007 MEM vs. PHX L 6 4 1 2 50.0 0 0 - 2 4 50.0 1 0 1 0 0 0 1 1 7
+p60
+aVTarence Kinsey MEM 04/03/2007 MEM vs. PHX L 39 10 3 9 33.3 2 5 40.0 2 2 100.0 1 3 4 0 5 0 4 3 -14
+p61
+aVDahntay Jones MEM 04/03/2007 MEM vs. PHX L 15 8 3 3 100.0 0 0 - 2 4 50.0 0 1 1 1 0 0 0 2 -1
+p62
+aVDahntay Jones MEM 04/01/2007 MEM @ GSW L 19 7 2 8 25.0 0 1 0.0 3 3 100.0 0 2 2 1 2 0 2 3 6
+p63
+aVRudy Gay MEM 04/01/2007 MEM @ GSW L 33 15 5 10 50.0 2 3 66.7 3 4 75.0 2 5 7 4 2 1 5 6 -8
+p64
+aVChucky Atkins MEM 04/01/2007 MEM @ GSW L 34 19 5 12 41.7 4 8 50.0 5 6 83.3 0 1 1 4 1 0 2 5 -9
+p65
+aVStromile Swift MEM 04/01/2007 MEM @ GSW L 12 8 2 3 66.7 0 0 - 4 4 100.0 1 4 5 0 0 0 1 1 1
+p66
+aVPau Gasol MEM 04/01/2007 MEM @ GSW L 45 23 7 11 63.6 0 0 - 9 11 81.8 5 4 9 5 0 2 4 2 -7
+p67
+aVAlexander Johnson MEM 04/01/2007 MEM @ GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p68
+aVHakim Warrick MEM 04/01/2007 MEM @ GSW L 35 19 8 16 50.0 0 0 - 3 4 75.0 2 7 9 0 1 0 2 2 -4
+p69
+aVTarence Kinsey MEM 04/01/2007 MEM @ GSW L 44 21 6 14 42.9 1 4 25.0 8 11 72.7 0 8 8 5 2 0 1 0 -9
+p70
+aVJunior Harrington MEM 04/01/2007 MEM @ GSW L 16 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 3 1 0 2 1 4
+p71
+aVJunior Harrington MEM 03/30/2007 MEM @ SEA L 37 9 4 10 40.0 0 3 0.0 1 2 50.0 0 3 3 7 1 0 2 2 -16
+p72
+aVScott Padgett MEM 03/30/2007 MEM @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p73
+aVPau Gasol MEM 03/30/2007 MEM @ SEA L 31 16 6 11 54.5 0 0 - 4 4 100.0 3 2 5 3 0 2 1 2 -31
+p74
+aVDahntay Jones MEM 03/30/2007 MEM @ SEA L 23 8 2 7 28.6 0 0 - 4 4 100.0 3 2 5 1 1 2 1 2 -6
+p75
+aVChucky Atkins MEM 03/30/2007 MEM @ SEA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -6
+p76
+aVTarence Kinsey MEM 03/30/2007 MEM @ SEA L 38 20 8 14 57.1 0 2 0.0 4 5 80.0 0 1 1 0 2 0 3 1 -18
+p77
+aVRudy Gay MEM 03/30/2007 MEM @ SEA L 42 10 4 13 30.8 0 2 0.0 2 3 66.7 2 4 6 2 1 0 5 1 -35
+p78
+aVAlexander Johnson MEM 03/30/2007 MEM @ SEA L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p79
+aVHakim Warrick MEM 03/30/2007 MEM @ SEA L 28 26 10 13 76.9 0 0 - 6 9 66.7 4 7 11 2 0 2 3 3 -3
+p80
+aVStromile Swift MEM 03/30/2007 MEM @ SEA L 24 4 2 9 22.2 0 0 - 0 0 - 3 4 7 0 1 0 4 3 -17
+p81
+aVChucky Atkins MEM 03/29/2007 MEM @ POR W 22 5 1 5 20.0 0 1 0.0 3 3 100.0 1 3 4 1 0 0 0 1 -7
+p82
+aVAlexander Johnson MEM 03/29/2007 MEM @ POR W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p83
+aVLawrence Roberts MEM 03/29/2007 MEM @ POR W 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p84
+aVJunior Harrington MEM 03/29/2007 MEM @ POR W 33 6 2 7 28.6 0 0 - 2 2 100.0 1 3 4 7 2 1 4 4 12
+p85
+aVRudy Gay MEM 03/29/2007 MEM @ POR W 41 18 5 14 35.7 1 2 50.0 7 7 100.0 0 3 3 4 2 4 2 3 3
+p86
+aVPau Gasol MEM 03/29/2007 MEM @ POR W 39 17 5 14 35.7 0 0 - 7 8 87.5 2 6 8 3 0 1 2 3 15
+p87
+aVStromile Swift MEM 03/29/2007 MEM @ POR W 15 8 2 3 66.7 0 0 - 4 4 100.0 3 6 9 0 0 0 2 3 -15
+p88
+aVHakim Warrick MEM 03/29/2007 MEM @ POR W 36 18 6 13 46.2 0 0 - 6 6 100.0 3 7 10 0 1 0 0 4 14
+p89
+aVTarence Kinsey MEM 03/29/2007 MEM @ POR W 39 20 8 13 61.5 2 4 50.0 2 2 100.0 0 3 3 0 4 0 3 3 7
+p90
+aVDahntay Jones MEM 03/29/2007 MEM @ POR W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 -3
+p91
+aVTarence Kinsey MEM 03/27/2007 MEM @ LAL W 44 24 10 19 52.6 2 4 50.0 2 2 100.0 1 6 7 1 1 0 1 2 1
+p92
+aVDahntay Jones MEM 03/27/2007 MEM @ LAL W 15 8 4 9 44.4 0 0 - 0 0 - 0 0 0 2 1 1 2 2 3
+p93
+aVPau Gasol MEM 03/27/2007 MEM @ LAL W 45 10 3 10 30.0 0 0 - 4 6 66.7 2 14 16 7 0 3 4 3 3
+p94
+aVHakim Warrick MEM 03/27/2007 MEM @ LAL W 22 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 0 0 0 2 1 1
+p95
+aVRudy Gay MEM 03/27/2007 MEM @ LAL W 40 20 8 19 42.1 0 6 0.0 4 4 100.0 2 11 13 5 1 4 3 1 1
+p96
+aVJunior Harrington MEM 03/27/2007 MEM @ LAL W 48 13 6 16 37.5 1 4 25.0 0 0 - 3 5 8 8 1 0 3 5 2
+p97
+aVStromile Swift MEM 03/27/2007 MEM @ LAL W 22 2 1 5 20.0 0 1 0.0 0 0 - 1 6 7 1 0 4 0 0 -1
+p98
+aVAlexander Johnson MEM 03/27/2007 MEM @ LAL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p99
+aVStromile Swift MEM 03/26/2007 MEM @ PHX L 10 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -4
+p100
+aVTarence Kinsey MEM 03/26/2007 MEM @ PHX L 39 12 5 14 35.7 0 1 0.0 2 2 100.0 0 2 2 0 1 0 1 0 -17
+p101
+aVDahntay Jones MEM 03/26/2007 MEM @ PHX L 20 12 5 11 45.5 0 0 - 2 2 100.0 1 0 1 0 2 0 3 1 -6
+p102
+aVAlexander Johnson MEM 03/26/2007 MEM @ PHX L 20 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -9
+p103
+aVPau Gasol MEM 03/26/2007 MEM @ PHX L 39 21 10 19 52.6 0 0 - 1 2 50.0 2 8 10 4 0 0 1 0 -4
+p104
+aVChucky Atkins MEM 03/26/2007 MEM @ PHX L 19 1 0 5 0.0 0 2 0.0 1 1 100.0 1 0 1 4 0 0 0 2 -8
+p105
+aVJunior Harrington MEM 03/26/2007 MEM @ PHX L 32 8 3 9 33.3 0 0 - 2 4 50.0 1 5 6 3 0 0 2 2 -12
+p106
+aVScott Padgett MEM 03/26/2007 MEM @ PHX L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p107
+aVHakim Warrick MEM 03/26/2007 MEM @ PHX L 27 12 5 9 55.6 0 0 - 2 3 66.7 3 5 8 1 3 0 1 1 -19
+p108
+aVRudy Gay MEM 03/26/2007 MEM @ PHX L 32 13 6 12 50.0 1 2 50.0 0 0 - 1 1 2 2 1 0 4 4 -9
+p109
+aVDahntay Jones MEM 03/24/2007 MEM @ UTA L 29 26 11 17 64.7 1 1 100.0 3 4 75.0 1 3 4 2 2 0 1 4 5
+p110
+aVDamon Stoudamire MEM 03/24/2007 MEM @ UTA L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p111
+aVHakim Warrick MEM 03/24/2007 MEM @ UTA L 27 6 0 1 0.0 0 0 - 6 8 75.0 1 7 8 0 0 0 1 1 3
+p112
+aVPau Gasol MEM 03/24/2007 MEM @ UTA L 35 25 9 10 90.0 0 0 - 7 12 58.3 4 6 10 3 0 3 3 1 -17
+p113
+aVMike Miller MEM 03/24/2007 MEM @ UTA L 18 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 3 0 0 0 1 -19
+p114
+aVJunior Harrington MEM 03/24/2007 MEM @ UTA L 26 9 4 7 57.1 0 0 - 1 2 50.0 0 2 2 8 1 0 0 4 -4
+p115
+aVTarence Kinsey MEM 03/24/2007 MEM @ UTA L 30 20 9 15 60.0 1 2 50.0 1 2 50.0 0 0 0 1 0 0 1 4 6
+p116
+aVRudy Gay MEM 03/24/2007 MEM @ UTA L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 0 0 0 2 2 -11
+p117
+aVAlexander Johnson MEM 03/24/2007 MEM @ UTA L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 3 4 -6
+p118
+aVLawrence Roberts MEM 03/24/2007 MEM @ UTA L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p119
+aVChucky Atkins MEM 03/24/2007 MEM @ UTA L 20 9 1 5 20.0 1 3 33.3 6 8 75.0 0 1 1 2 0 0 1 1 -11
+p120
+aVStromile Swift MEM 03/24/2007 MEM @ UTA L 15 4 1 4 25.0 0 0 - 2 4 50.0 1 5 6 0 1 5 1 3 3
+p121
+aVTarence Kinsey MEM 03/22/2007 MEM vs. LAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p122
+aVJunior Harrington MEM 03/22/2007 MEM vs. LAL L 13 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 2 0 0 1 3 1
+p123
+aVDahntay Jones MEM 03/22/2007 MEM vs. LAL L 19 6 3 9 33.3 0 0 - 0 0 - 2 2 4 0 0 0 3 4 8
+p124
+aVStromile Swift MEM 03/22/2007 MEM vs. LAL L 6 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 6 1
+p125
+aVChucky Atkins MEM 03/22/2007 MEM vs. LAL L 37 16 4 14 28.6 2 10 20.0 6 7 85.7 1 1 2 6 1 0 4 2 -1
+p126
+aVPau Gasol MEM 03/22/2007 MEM vs. LAL L 44 35 17 23 73.9 0 0 - 1 2 50.0 4 11 15 2 0 1 1 4 1
+p127
+aVAlexander Johnson MEM 03/22/2007 MEM vs. LAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p128
+aVRudy Gay MEM 03/22/2007 MEM vs. LAL L 29 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 0 1 1 4 4 -10
+p129
+aVMike Miller MEM 03/22/2007 MEM vs. LAL L 41 33 11 16 68.8 6 11 54.5 5 5 100.0 0 4 4 7 0 0 2 2 6
+p130
+aVHakim Warrick MEM 03/22/2007 MEM vs. LAL L 42 12 2 6 33.3 0 0 - 8 10 80.0 1 8 9 3 0 0 2 4 -3
+p131
+aVJunior Harrington MEM 03/20/2007 MEM vs. NOK L 17 3 1 7 14.3 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 4 3
+p132
+aVStromile Swift MEM 03/20/2007 MEM vs. NOK L 13 4 2 3 66.7 0 1 0.0 0 0 - 2 0 2 0 0 1 1 3 10
+p133
+aVMike Miller MEM 03/20/2007 MEM vs. NOK L 27 13 5 13 38.5 3 7 42.9 0 0 - 0 3 3 4 0 0 3 4 -16
+p134
+aVLawrence Roberts MEM 03/20/2007 MEM vs. NOK L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 1
+p135
+aVChucky Atkins MEM 03/20/2007 MEM vs. NOK L 33 12 5 11 45.5 2 8 25.0 0 0 - 2 0 2 5 3 0 4 1 -14
+p136
+aVHakim Warrick MEM 03/20/2007 MEM vs. NOK L 35 9 3 5 60.0 0 0 - 3 3 100.0 0 1 1 1 1 0 2 3 -22
+p137
+aVDahntay Jones MEM 03/20/2007 MEM vs. NOK L 12 12 5 9 55.6 0 0 - 2 2 100.0 0 4 4 0 0 0 0 1 3
+p138
+aVTarence Kinsey MEM 03/20/2007 MEM vs. NOK L 34 10 3 7 42.9 0 0 - 4 4 100.0 3 2 5 1 2 0 1 3 -2
+p139
+aVAlexander Johnson MEM 03/20/2007 MEM vs. NOK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p140
+aVPau Gasol MEM 03/20/2007 MEM vs. NOK L 38 28 11 14 78.6 0 0 - 6 6 100.0 3 7 10 6 2 1 2 2 -14
+p141
+aVRudy Gay MEM 03/20/2007 MEM vs. NOK L 21 12 5 6 83.3 1 2 50.0 1 2 50.0 0 2 2 0 1 1 3 4 -7
+p142
+aVHakim Warrick MEM 03/17/2007 MEM vs. CHI W 38 15 3 10 30.0 0 0 - 9 11 81.8 1 9 10 1 3 0 3 4 -6
+p143
+aVPau Gasol MEM 03/17/2007 MEM vs. CHI W 43 21 5 12 41.7 0 0 - 11 13 84.6 6 5 11 5 1 5 4 4 12
+p144
+aVTarence Kinsey MEM 03/17/2007 MEM vs. CHI W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 0 -3
+p145
+aVRudy Gay MEM 03/17/2007 MEM vs. CHI W 32 13 5 12 41.7 3 4 75.0 0 0 - 3 5 8 2 0 0 3 3 -19
+p146
+aVMike Miller MEM 03/17/2007 MEM vs. CHI W 40 25 9 17 52.9 5 7 71.4 2 2 100.0 2 10 12 5 0 0 2 3 12
+p147
+aVDahntay Jones MEM 03/17/2007 MEM vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p148
+aVLawrence Roberts MEM 03/17/2007 MEM vs. CHI W 8 5 2 3 66.7 0 0 - 1 3 33.3 0 0 0 0 0 1 1 0 7
+p149
+aVDamon Stoudamire MEM 03/17/2007 MEM vs. CHI W 23 6 3 6 50.0 0 2 0.0 0 0 - 1 5 6 5 1 0 1 3 3
+p150
+aVStromile Swift MEM 03/17/2007 MEM vs. CHI W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 5 -9
+p151
+aVChucky Atkins MEM 03/17/2007 MEM vs. CHI W 33 19 5 11 45.5 2 6 33.3 7 8 87.5 0 3 3 4 3 0 4 3 9
+p152
+aVDahntay Jones MEM 03/14/2007 MEM vs. CLE L 7 4 2 3 66.7 0 0 - 0 3 0.0 1 0 1 1 0 0 0 0 4
+p153
+aVHakim Warrick MEM 03/14/2007 MEM vs. CLE L 27 9 3 8 37.5 0 0 - 3 4 75.0 1 4 5 0 1 1 1 1 -27
+p154
+aVPau Gasol MEM 03/14/2007 MEM vs. CLE L 36 23 10 19 52.6 0 0 - 3 7 42.9 4 6 10 2 1 1 5 3 -10
+p155
+aVDamon Stoudamire MEM 03/14/2007 MEM vs. CLE L 19 5 2 4 50.0 0 2 0.0 1 1 100.0 1 0 1 4 1 0 1 3 -15
+p156
+aVStromile Swift MEM 03/14/2007 MEM vs. CLE L 25 11 5 7 71.4 0 0 - 1 2 50.0 1 1 2 1 0 2 1 2 -20
+p157
+aVTarence Kinsey MEM 03/14/2007 MEM vs. CLE L 16 3 1 5 20.0 0 0 - 1 2 50.0 2 5 7 0 2 0 2 1 -21
+p158
+aVChucky Atkins MEM 03/14/2007 MEM vs. CLE L 25 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 2 0 0 2 1 -14
+p159
+aVRudy Gay MEM 03/14/2007 MEM vs. CLE L 41 24 8 19 42.1 2 3 66.7 6 8 75.0 3 1 4 2 2 3 1 3 -18
+p160
+aVJunior Harrington MEM 03/14/2007 MEM vs. CLE L 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 3 1 0 0 1 12
+p161
+aVLawrence Roberts MEM 03/14/2007 MEM vs. CLE L 9 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 13
+p162
+aVMike Miller MEM 03/14/2007 MEM vs. CLE L 29 7 3 10 30.0 0 4 0.0 1 2 50.0 0 5 5 1 0 0 1 3 -14
+p163
+aVMike Miller MEM 03/12/2007 MEM vs. NJN L 31 7 3 11 27.3 1 3 33.3 0 0 - 0 2 2 2 0 0 3 5 -6
+p164
+aVDamon Stoudamire MEM 03/12/2007 MEM vs. NJN L 18 7 3 5 60.0 0 1 0.0 1 1 100.0 0 0 0 4 2 0 0 0 -9
+p165
+aVLawrence Roberts MEM 03/12/2007 MEM vs. NJN L 10 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 3
+p166
+aVRudy Gay MEM 03/12/2007 MEM vs. NJN L 38 17 5 12 41.7 0 2 0.0 7 8 87.5 1 2 3 2 0 3 1 4 -12
+p167
+aVDahntay Jones MEM 03/12/2007 MEM vs. NJN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p168
+aVStromile Swift MEM 03/12/2007 MEM vs. NJN L 18 10 4 10 40.0 0 0 - 2 2 100.0 5 5 10 0 1 1 1 3 -2
+p169
+aVHakim Warrick MEM 03/12/2007 MEM vs. NJN L 28 10 4 6 66.7 0 0 - 2 2 100.0 2 6 8 1 0 0 2 3 -8
+p170
+aVChucky Atkins MEM 03/12/2007 MEM vs. NJN L 30 17 6 12 50.0 0 4 0.0 5 7 71.4 0 6 6 5 0 0 3 2 -2
+p171
+aVPau Gasol MEM 03/12/2007 MEM vs. NJN L 37 19 7 13 53.8 0 0 - 5 7 71.4 1 6 7 1 0 4 3 0 -16
+p172
+aVTarence Kinsey MEM 03/12/2007 MEM vs. NJN L 26 13 6 10 60.0 1 1 100.0 0 0 - 0 1 1 1 3 0 0 1 -1
+p173
+aVMike Miller MEM 03/10/2007 MEM @ CHA W 39 17 6 15 40.0 3 9 33.3 2 2 100.0 1 4 5 1 1 0 2 2 5
+p174
+aVStromile Swift MEM 03/10/2007 MEM @ CHA W 17 9 3 4 75.0 0 0 - 3 3 100.0 0 2 2 0 0 3 0 5 2
+p175
+aVLawrence Roberts MEM 03/10/2007 MEM @ CHA W 3 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 1
+p176
+aVJunior Harrington MEM 03/10/2007 MEM @ CHA W 22 9 4 6 66.7 0 0 - 1 2 50.0 0 5 5 5 1 0 1 2 18
+p177
+aVPau Gasol MEM 03/10/2007 MEM @ CHA W 44 31 13 20 65.0 0 1 0.0 5 8 62.5 3 12 15 4 1 2 3 3 4
+p178
+aVDahntay Jones MEM 03/10/2007 MEM @ CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p179
+aVRudy Gay MEM 03/10/2007 MEM @ CHA W 34 16 4 9 44.4 1 2 50.0 7 8 87.5 1 9 10 2 0 0 4 3 23
+p180
+aVTarence Kinsey MEM 03/10/2007 MEM @ CHA W 20 6 3 5 60.0 0 0 - 0 2 0.0 0 0 0 0 1 0 1 1 8
+p181
+aVDamon Stoudamire MEM 03/10/2007 MEM @ CHA W 26 6 0 2 0.0 0 1 0.0 6 6 100.0 0 1 1 5 0 0 1 4 -10
+p182
+aVHakim Warrick MEM 03/10/2007 MEM @ CHA W 33 18 6 9 66.7 0 0 - 6 7 85.7 3 3 6 3 0 2 7 5 0
+p183
+aVJunior Harrington MEM 03/09/2007 MEM @ ATL L 11 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 4 0
+p184
+aVDamon Stoudamire MEM 03/09/2007 MEM @ ATL L 37 13 5 12 41.7 1 4 25.0 2 2 100.0 0 3 3 9 2 0 2 2 -1
+p185
+aVMike Miller MEM 03/09/2007 MEM @ ATL L 42 29 12 21 57.1 3 8 37.5 2 3 66.7 1 7 8 5 0 1 3 1 4
+p186
+aVTarence Kinsey MEM 03/09/2007 MEM @ ATL L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -5
+p187
+aVLawrence Roberts MEM 03/09/2007 MEM @ ATL L 22 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -9
+p188
+aVStromile Swift MEM 03/09/2007 MEM @ ATL L 32 15 6 10 60.0 0 0 - 3 4 75.0 4 9 13 0 3 4 0 4 5
+p189
+aVHakim Warrick MEM 03/09/2007 MEM @ ATL L 18 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 2 0 0 2 5 10
+p190
+aVDahntay Jones MEM 03/09/2007 MEM @ ATL L 13 7 3 4 75.0 0 0 - 1 1 100.0 0 1 1 2 0 0 1 1 -8
+p191
+aVRudy Gay MEM 03/09/2007 MEM @ ATL L 35 15 6 14 42.9 1 2 50.0 2 2 100.0 5 1 6 1 0 1 6 2 7
+p192
+aVPau Gasol MEM 03/09/2007 MEM @ ATL L 24 10 4 10 40.0 0 0 - 2 2 100.0 2 2 4 1 0 2 1 4 -8
+p193
+aVLawrence Roberts MEM 03/07/2007 MEM @ TOR L 17 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 1 0 1 4 2
+p194
+aVMike Miller MEM 03/07/2007 MEM @ TOR L 30 19 6 16 37.5 4 8 50.0 3 5 60.0 0 3 3 3 0 0 3 2 -8
+p195
+aVStromile Swift MEM 03/07/2007 MEM @ TOR L 5 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 2 0 -11
+p196
+aVScott Padgett MEM 03/07/2007 MEM @ TOR L 8 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 -6
+p197
+aVRudy Gay MEM 03/07/2007 MEM @ TOR L 40 17 8 15 53.3 0 3 0.0 1 2 50.0 3 8 11 1 0 1 3 2 1
+p198
+aVTarence Kinsey MEM 03/07/2007 MEM @ TOR L 31 11 4 9 44.4 0 0 - 3 3 100.0 2 5 7 0 1 0 1 1 -8
+p199
+aVDahntay Jones MEM 03/07/2007 MEM @ TOR L 7 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 2 16
+p200
+aVPau Gasol MEM 03/07/2007 MEM @ TOR L 31 16 8 11 72.7 0 1 0.0 0 0 - 1 3 4 4 0 1 4 2 -13
+p201
+aVHakim Warrick MEM 03/07/2007 MEM @ TOR L 23 8 2 7 28.6 0 0 - 4 4 100.0 2 1 3 0 0 0 2 2 -1
+p202
+aVDamon Stoudamire MEM 03/07/2007 MEM @ TOR L 28 3 1 8 12.5 1 5 20.0 0 1 0.0 0 0 0 2 3 0 3 1 -14
+p203
+aVJunior Harrington MEM 03/07/2007 MEM @ TOR L 20 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 6 0 0 2 3 7
+p204
+aVMike Miller MEM 03/03/2007 MEM vs. DET L 41 24 9 19 47.4 1 5 20.0 5 8 62.5 1 2 3 2 0 0 1 1 1
+p205
+aVHakim Warrick MEM 03/03/2007 MEM vs. DET L 31 13 5 11 45.5 0 0 - 3 6 50.0 1 4 5 0 0 0 2 4 -8
+p206
+aVDamon Stoudamire MEM 03/03/2007 MEM vs. DET L 34 5 2 7 28.6 1 3 33.3 0 0 - 1 3 4 8 1 0 2 0 1
+p207
+aVLawrence Roberts MEM 03/03/2007 MEM vs. DET L 23 2 0 3 0.0 0 0 - 2 2 100.0 6 3 9 0 1 0 1 3 3
+p208
+aVPau Gasol MEM 03/03/2007 MEM vs. DET L 40 22 6 17 35.3 0 0 - 10 13 76.9 3 12 15 2 0 1 1 0 2
+p209
+aVRudy Gay MEM 03/03/2007 MEM vs. DET L 41 12 5 13 38.5 1 3 33.3 1 2 50.0 5 3 8 2 2 0 1 0 2
+p210
+aVScott Padgett MEM 03/03/2007 MEM vs. DET L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -3
+p211
+aVTarence Kinsey MEM 03/03/2007 MEM vs. DET L 15 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 3 -9
+p212
+aVJunior Harrington MEM 03/03/2007 MEM vs. DET L 14 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 3 2 0 3 4 -4
+p213
+aVScott Padgett MEM 03/02/2007 MEM @ PHI L 8 0 0 0 - 0 0 - 0 2 0.0 2 2 4 0 0 0 1 0 -1
+p214
+aVHakim Warrick MEM 03/02/2007 MEM @ PHI L 27 17 6 11 54.5 0 1 0.0 5 5 100.0 3 3 6 0 1 0 4 3 10
+p215
+aVLawrence Roberts MEM 03/02/2007 MEM @ PHI L 26 1 0 3 0.0 0 0 - 1 2 50.0 2 0 2 2 1 0 0 2 -13
+p216
+aVPau Gasol MEM 03/02/2007 MEM @ PHI L 45 31 13 20 65.0 0 0 - 5 5 100.0 4 9 13 6 1 3 3 2 -4
+p217
+aVDamon Stoudamire MEM 03/02/2007 MEM @ PHI L 40 14 5 11 45.5 3 8 37.5 1 2 50.0 0 2 2 5 0 0 6 2 -7
+p218
+aVJunior Harrington MEM 03/02/2007 MEM @ PHI L 13 3 1 5 20.0 0 3 0.0 1 2 50.0 0 0 0 3 3 0 2 3 2
+p219
+aVMike Miller MEM 03/02/2007 MEM @ PHI L 43 27 9 19 47.4 2 7 28.6 7 7 100.0 1 1 2 5 2 0 1 4 -6
+p220
+aVRudy Gay MEM 03/02/2007 MEM @ PHI L 43 15 7 18 38.9 1 4 25.0 0 0 - 4 2 6 3 0 2 0 5 -3
+p221
+aVTarence Kinsey MEM 03/02/2007 MEM @ PHI L 21 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 2 -3
+p222
+aVJunior Harrington MEM 02/28/2007 MEM vs. UTA L 13 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 2 1 0 1 2 -9
+p223
+aVTarence Kinsey MEM 02/28/2007 MEM vs. UTA L 12 5 1 5 20.0 1 2 50.0 2 2 100.0 0 0 0 0 1 0 2 0 -2
+p224
+aVScott Padgett MEM 02/28/2007 MEM vs. UTA L 7 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -10
+p225
+aVPau Gasol MEM 02/28/2007 MEM vs. UTA L 35 28 8 17 47.1 0 0 - 12 14 85.7 6 7 13 2 0 1 2 2 -10
+p226
+aVHakim Warrick MEM 02/28/2007 MEM vs. UTA L 23 13 6 11 54.5 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 -28
+p227
+aVMike Miller MEM 02/28/2007 MEM vs. UTA L 42 17 6 19 31.6 2 12 16.7 3 3 100.0 1 3 4 4 1 0 3 1 -21
+p228
+aVLawrence Roberts MEM 02/28/2007 MEM vs. UTA L 24 4 2 2 100.0 0 0 - 0 0 - 3 6 9 2 3 0 1 2 11
+p229
+aVChucky Atkins MEM 02/28/2007 MEM vs. UTA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -6
+p230
+aVDamon Stoudamire MEM 02/28/2007 MEM vs. UTA L 29 4 2 8 25.0 0 2 0.0 0 0 - 2 0 2 5 0 0 1 1 0
+p231
+aVAlexander Johnson MEM 02/28/2007 MEM vs. UTA L 8 3 1 1 100.0 0 0 - 1 3 33.3 0 0 0 0 0 0 0 1 5
+p232
+aVDahntay Jones MEM 02/28/2007 MEM vs. UTA L 8 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 8
+p233
+aVRudy Gay MEM 02/28/2007 MEM vs. UTA L 35 6 2 10 20.0 0 3 0.0 2 4 50.0 3 2 5 0 2 0 1 3 -18
+p234
+aVTarence Kinsey MEM 02/26/2007 MEM vs. DEN L 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 9
+p235
+aVChucky Atkins MEM 02/26/2007 MEM vs. DEN L 21 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 4 1 1 5 6 3
+p236
+aVMike Miller MEM 02/26/2007 MEM vs. DEN L 44 21 9 18 50.0 3 9 33.3 0 0 - 0 7 7 6 0 0 2 2 0
+p237
+aVAlexander Johnson MEM 02/26/2007 MEM vs. DEN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p238
+aVJunior Harrington MEM 02/26/2007 MEM vs. DEN L 6 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 1 2 3 -1
+p239
+aVScott Padgett MEM 02/26/2007 MEM vs. DEN L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p240
+aVDamon Stoudamire MEM 02/26/2007 MEM vs. DEN L 23 7 3 6 50.0 1 1 100.0 0 0 - 0 3 3 4 1 0 0 2 -11
+p241
+aVRudy Gay MEM 02/26/2007 MEM vs. DEN L 33 18 7 15 46.7 2 5 40.0 2 2 100.0 1 1 2 0 0 1 2 2 -6
+p242
+aVHakim Warrick MEM 02/26/2007 MEM vs. DEN L 22 15 7 9 77.8 0 0 - 1 2 50.0 2 2 4 0 0 0 0 4 -13
+p243
+aVLawrence Roberts MEM 02/26/2007 MEM vs. DEN L 24 8 3 6 50.0 0 0 - 2 3 66.7 0 6 6 0 0 0 0 2 0
+p244
+aVDahntay Jones MEM 02/26/2007 MEM vs. DEN L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -6
+p245
+aVPau Gasol MEM 02/26/2007 MEM vs. DEN L 43 21 9 18 50.0 0 0 - 3 6 50.0 4 7 11 4 0 2 2 4 -1
+p246
+aVHakim Warrick MEM 02/23/2007 MEM @ POR W 25 20 5 10 50.0 0 0 - 10 10 100.0 3 4 7 1 0 1 0 4 12
+p247
+aVMike Miller MEM 02/23/2007 MEM @ POR W 45 19 8 20 40.0 2 9 22.2 1 1 100.0 0 2 2 7 2 0 2 1 -1
+p248
+aVDamon Stoudamire MEM 02/23/2007 MEM @ POR W 29 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 8 0 0 1 1 2
+p249
+aVLawrence Roberts MEM 02/23/2007 MEM @ POR W 24 8 3 6 50.0 0 0 - 2 2 100.0 2 5 7 0 1 0 1 4 -12
+p250
+aVTarence Kinsey MEM 02/23/2007 MEM @ POR W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p251
+aVDahntay Jones MEM 02/23/2007 MEM @ POR W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -14
+p252
+aVChucky Atkins MEM 02/23/2007 MEM @ POR W 19 11 3 8 37.5 3 6 50.0 2 2 100.0 0 1 1 3 0 0 1 2 -1
+p253
+aVPau Gasol MEM 02/23/2007 MEM @ POR W 43 23 6 12 50.0 0 0 - 11 12 91.7 2 2 4 1 1 3 1 4 -6
+p254
+aVRudy Gay MEM 02/23/2007 MEM @ POR W 33 10 4 9 44.4 0 1 0.0 2 2 100.0 1 5 6 1 0 1 2 3 14
+p255
+aVAlexander Johnson MEM 02/23/2007 MEM @ POR W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 8
+p256
+aVJunior Harrington MEM 02/23/2007 MEM @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p257
+aVMike Miller MEM 02/21/2007 MEM @ GSW L 49 45 16 27 59.3 9 17 52.9 4 6 66.7 0 5 5 6 1 0 6 1 0
+p258
+aVHakim Warrick MEM 02/21/2007 MEM @ GSW L 35 13 4 7 57.1 0 0 - 5 6 83.3 1 8 9 1 1 0 3 4 -11
+p259
+aVLawrence Roberts MEM 02/21/2007 MEM @ GSW L 15 0 0 1 0.0 0 0 - 0 0 - 2 4 6 1 1 0 0 4 -5
+p260
+aVDamon Stoudamire MEM 02/21/2007 MEM @ GSW L 42 14 5 13 38.5 2 7 28.6 2 3 66.7 1 4 5 11 0 0 3 4 10
+p261
+aVStromile Swift MEM 02/21/2007 MEM @ GSW L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p262
+aVTarence Kinsey MEM 02/21/2007 MEM @ GSW L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -3
+p263
+aVAlexander Johnson MEM 02/21/2007 MEM @ GSW L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p264
+aVJunior Harrington MEM 02/21/2007 MEM @ GSW L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 3 -16
+p265
+aVRudy Gay MEM 02/21/2007 MEM @ GSW L 47 17 5 18 27.8 3 7 42.9 4 4 100.0 5 5 10 4 1 0 6 5 0
+p266
+aVPau Gasol MEM 02/21/2007 MEM @ GSW L 45 22 9 19 47.4 0 0 - 4 7 57.1 3 11 14 5 0 1 6 2 3
+p267
+aVPau Gasol MEM 02/20/2007 MEM @ SEA L 40 17 6 11 54.5 0 0 - 5 6 83.3 2 10 12 4 1 2 3 1 -15
+p268
+aVRudy Gay MEM 02/20/2007 MEM @ SEA L 35 19 7 14 50.0 3 5 60.0 2 3 66.7 0 6 6 3 1 0 2 5 3
+p269
+aVLawrence Roberts MEM 02/20/2007 MEM @ SEA L 18 6 3 6 50.0 0 0 - 0 1 0.0 4 2 6 1 1 0 1 3 -7
+p270
+aVStromile Swift MEM 02/20/2007 MEM @ SEA L 12 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 0 2 2 6
+p271
+aVTarence Kinsey MEM 02/20/2007 MEM @ SEA L 16 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p272
+aVHakim Warrick MEM 02/20/2007 MEM @ SEA L 16 6 2 7 28.6 0 0 - 2 5 40.0 2 3 5 0 0 0 1 1 -20
+p273
+aVChucky Atkins MEM 02/20/2007 MEM @ SEA L 21 10 4 11 36.4 1 3 33.3 1 2 50.0 0 3 3 6 0 0 4 1 -4
+p274
+aVMike Miller MEM 02/20/2007 MEM @ SEA L 36 20 9 16 56.3 1 5 20.0 1 2 50.0 0 2 2 2 0 0 1 1 -24
+p275
+aVJunior Harrington MEM 02/20/2007 MEM @ SEA L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 0 2 -2
+p276
+aVDahntay Jones MEM 02/20/2007 MEM @ SEA L 8 10 2 5 40.0 0 0 - 6 7 85.7 0 0 0 1 0 0 0 1 3
+p277
+aVDamon Stoudamire MEM 02/20/2007 MEM @ SEA L 20 9 3 8 37.5 2 5 40.0 1 1 100.0 0 2 2 9 1 0 2 2 -13
+p278
+aVAlexander Johnson MEM 02/20/2007 MEM @ SEA L 10 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 1 4
+p279
+aVPau Gasol MEM 02/14/2007 MEM @ IND L 40 19 8 16 50.0 0 0 - 3 8 37.5 6 7 13 2 1 2 2 2 -10
+p280
+aVTarence Kinsey MEM 02/14/2007 MEM @ IND L 14 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 0 2 0 1 3 -2
+p281
+aVMike Miller MEM 02/14/2007 MEM @ IND L 32 12 6 14 42.9 0 2 0.0 0 0 - 2 7 9 2 1 2 4 2 -7
+p282
+aVBrian Cardinal MEM 02/14/2007 MEM @ IND L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 2 -1
+p283
+aVHakim Warrick MEM 02/14/2007 MEM @ IND L 19 15 6 10 60.0 0 1 0.0 3 3 100.0 2 0 2 0 1 0 2 5 -15
+p284
+aVChucky Atkins MEM 02/14/2007 MEM @ IND L 27 9 3 9 33.3 1 4 25.0 2 2 100.0 0 2 2 6 1 0 0 0 4
+p285
+aVRudy Gay MEM 02/14/2007 MEM @ IND L 44 31 13 19 68.4 3 3 100.0 2 2 100.0 2 4 6 0 0 2 0 1 -9
+p286
+aVDamon Stoudamire MEM 02/14/2007 MEM @ IND L 14 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 4 2 0 1 1 -4
+p287
+aVAlexander Johnson MEM 02/14/2007 MEM @ IND L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p288
+aVDahntay Jones MEM 02/14/2007 MEM @ IND L 12 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 1 1 0 1
+p289
+aVJunior Harrington MEM 02/14/2007 MEM @ IND L 7 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 2 0 -10
+p290
+aVLawrence Roberts MEM 02/14/2007 MEM @ IND L 21 2 1 4 25.0 0 0 - 0 0 - 3 2 5 2 1 0 1 2 4
+p291
+aVJunior Harrington MEM 02/13/2007 MEM vs. NOK W 17 11 3 6 50.0 2 4 50.0 3 4 75.0 2 2 4 3 2 0 3 3 -1
+p292
+aVRudy Gay MEM 02/13/2007 MEM vs. NOK W 24 18 7 10 70.0 2 4 50.0 2 2 100.0 2 3 5 2 2 3 0 4 6
+p293
+aVTarence Kinsey MEM 02/13/2007 MEM vs. NOK W 18 8 3 7 42.9 2 3 66.7 0 2 0.0 0 0 0 0 2 0 0 1 4
+p294
+aVChucky Atkins MEM 02/13/2007 MEM vs. NOK W 35 19 6 13 46.2 3 6 50.0 4 6 66.7 0 1 1 6 1 0 3 1 10
+p295
+aVAlexander Johnson MEM 02/13/2007 MEM vs. NOK W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -3
+p296
+aVLawrence Roberts MEM 02/13/2007 MEM vs. NOK W 24 4 2 5 40.0 0 0 - 0 0 - 3 4 7 1 0 0 0 2 12
+p297
+aVHakim Warrick MEM 02/13/2007 MEM vs. NOK W 28 15 5 9 55.6 0 0 - 5 6 83.3 1 11 12 1 1 1 3 5 0
+p298
+aVMike Miller MEM 02/13/2007 MEM vs. NOK W 45 22 7 19 36.8 3 10 30.0 5 6 83.3 1 3 4 4 2 1 3 0 -1
+p299
+aVPau Gasol MEM 02/13/2007 MEM vs. NOK W 34 11 3 10 30.0 0 0 - 5 7 71.4 3 12 15 3 0 3 5 2 8
+p300
+aVDahntay Jones MEM 02/13/2007 MEM vs. NOK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -6
+p301
+aVBrian Cardinal MEM 02/13/2007 MEM vs. NOK W 5 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 1 0 1 1 -9
+p302
+aVDahntay Jones MEM 02/10/2007 MEM @ NOK L 7 6 3 5 60.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -4
+p303
+aVPau Gasol MEM 02/10/2007 MEM @ NOK L 39 21 8 18 44.4 0 0 - 5 7 71.4 2 9 11 6 0 1 0 0 -17
+p304
+aVChucky Atkins MEM 02/10/2007 MEM @ NOK L 23 13 3 9 33.3 3 3 100.0 4 4 100.0 0 0 0 0 0 0 1 5 2
+p305
+aVLawrence Roberts MEM 02/10/2007 MEM @ NOK L 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -11
+p306
+aVHakim Warrick MEM 02/10/2007 MEM @ NOK L 21 14 6 10 60.0 0 0 - 2 2 100.0 1 2 3 0 0 2 4 2 0
+p307
+aVTarence Kinsey MEM 02/10/2007 MEM @ NOK L 17 9 3 4 75.0 0 1 0.0 3 4 75.0 1 2 3 1 1 0 1 1 10
+p308
+aVStromile Swift MEM 02/10/2007 MEM @ NOK L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p309
+aVJunior Harrington MEM 02/10/2007 MEM @ NOK L 12 2 0 0 - 0 0 - 2 2 100.0 0 1 1 3 0 0 1 3 3
+p310
+aVMike Miller MEM 02/10/2007 MEM @ NOK L 34 11 4 10 40.0 3 6 50.0 0 0 - 0 1 1 6 0 0 0 2 -21
+p311
+aVRudy Gay MEM 02/10/2007 MEM @ NOK L 33 14 6 15 40.0 2 6 33.3 0 0 - 1 4 5 0 1 1 2 2 -19
+p312
+aVDamon Stoudamire MEM 02/10/2007 MEM @ NOK L 23 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 4 0 0 1 1 -16
+p313
+aVAlexander Johnson MEM 02/10/2007 MEM @ NOK L 15 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 1 0 1 0 0 -1
+p314
+aVHakim Warrick MEM 02/09/2007 MEM vs. MIN W 27 12 4 9 44.4 0 0 - 4 7 57.1 2 4 6 0 2 1 3 0 12
+p315
+aVMike Miller MEM 02/09/2007 MEM vs. MIN W 50 17 8 19 42.1 1 7 14.3 0 0 - 0 6 6 7 0 0 3 0 5
+p316
+aVTarence Kinsey MEM 02/09/2007 MEM vs. MIN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 5
+p317
+aVChucky Atkins MEM 02/09/2007 MEM vs. MIN W 33 15 6 13 46.2 1 5 20.0 2 3 66.7 0 2 2 6 1 0 2 2 12
+p318
+aVLawrence Roberts MEM 02/09/2007 MEM vs. MIN W 21 9 4 6 66.7 0 0 - 1 1 100.0 3 1 4 1 2 0 2 5 -2
+p319
+aVDahntay Jones MEM 02/09/2007 MEM vs. MIN W 17 7 3 6 50.0 0 0 - 1 3 33.3 0 1 1 1 0 0 0 0 -4
+p320
+aVPau Gasol MEM 02/09/2007 MEM vs. MIN W 48 10 2 13 15.4 0 0 - 6 6 100.0 5 12 17 5 1 2 1 1 1
+p321
+aVAlexander Johnson MEM 02/09/2007 MEM vs. MIN W 10 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 1 1 5
+p322
+aVRudy Gay MEM 02/09/2007 MEM vs. MIN W 35 19 7 15 46.7 3 3 100.0 2 2 100.0 2 4 6 2 1 2 1 2 10
+p323
+aVDamon Stoudamire MEM 02/09/2007 MEM vs. MIN W 20 13 4 8 50.0 3 5 60.0 2 2 100.0 0 0 0 2 0 0 1 0 -4
+p324
+aVWill Conroy MEM 02/07/2007 MEM @ DAL L 11 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -5
+p325
+aVRudy Gay MEM 02/07/2007 MEM @ DAL L 28 12 6 12 50.0 0 1 0.0 0 0 - 3 4 7 1 0 1 1 5 5
+p326
+aVChucky Atkins MEM 02/07/2007 MEM @ DAL L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -8
+p327
+aVBrian Cardinal MEM 02/07/2007 MEM @ DAL L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -15
+p328
+aVAlexander Johnson MEM 02/07/2007 MEM @ DAL L 25 10 3 7 42.9 0 0 - 4 8 50.0 2 8 10 0 0 1 3 4 -18
+p329
+aVStromile Swift MEM 02/07/2007 MEM @ DAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p330
+aVMike Miller MEM 02/07/2007 MEM @ DAL L 40 21 8 14 57.1 5 6 83.3 0 0 - 2 5 7 4 0 1 4 1 4
+p331
+aVHakim Warrick MEM 02/07/2007 MEM @ DAL L 10 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -15
+p332
+aVDahntay Jones MEM 02/07/2007 MEM @ DAL L 23 6 2 3 66.7 0 1 0.0 2 3 66.7 0 1 1 0 1 0 0 0 -22
+p333
+aVPau Gasol MEM 02/07/2007 MEM @ DAL L 38 29 13 19 68.4 0 1 0.0 3 6 50.0 2 7 9 3 0 4 9 4 0
+p334
+aVDamon Stoudamire MEM 02/07/2007 MEM @ DAL L 32 9 3 14 21.4 1 6 16.7 2 3 66.7 1 3 4 11 1 0 1 3 -3
+p335
+aVLawrence Roberts MEM 02/07/2007 MEM @ DAL L 19 5 1 3 33.3 0 0 - 3 4 75.0 4 1 5 1 0 0 3 2 4
+p336
+aVPau Gasol MEM 02/06/2007 MEM vs. HOU L 42 30 13 28 46.4 0 1 0.0 4 6 66.7 4 9 13 5 0 5 2 1 -5
+p337
+aVAlexander Johnson MEM 02/06/2007 MEM vs. HOU L 11 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 1 0 1 1
+p338
+aVChucky Atkins MEM 02/06/2007 MEM vs. HOU L 25 8 4 9 44.4 0 3 0.0 0 0 - 0 0 0 2 0 1 0 1 -9
+p339
+aVDamon Stoudamire MEM 02/06/2007 MEM vs. HOU L 24 6 1 7 14.3 1 5 20.0 3 4 75.0 1 5 6 3 1 0 0 0 3
+p340
+aVStromile Swift MEM 02/06/2007 MEM vs. HOU L 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p341
+aVDahntay Jones MEM 02/06/2007 MEM vs. HOU L 35 8 4 7 57.1 0 0 - 0 0 - 0 1 1 2 0 0 1 6 -9
+p342
+aVMike Miller MEM 02/06/2007 MEM vs. HOU L 39 12 5 17 29.4 0 8 0.0 2 3 66.7 0 5 5 4 2 0 3 1 -2
+p343
+aVRudy Gay MEM 02/06/2007 MEM vs. HOU L 18 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 1 1 1 2 -2
+p344
+aVHakim Warrick MEM 02/06/2007 MEM vs. HOU L 10 5 2 5 40.0 0 0 - 1 4 25.0 1 2 3 1 0 0 1 0 -4
+p345
+aVLawrence Roberts MEM 02/06/2007 MEM vs. HOU L 27 10 4 6 66.7 0 0 - 2 2 100.0 3 5 8 1 1 0 0 2 -8
+p346
+aVWill Conroy MEM 02/06/2007 MEM vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p347
+aVPau Gasol MEM 02/03/2007 MEM vs. IND L 36 30 12 22 54.5 0 0 - 6 9 66.7 1 8 9 3 0 3 3 4 -5
+p348
+aVBrian Cardinal MEM 02/03/2007 MEM vs. IND L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 2 -6
+p349
+aVChucky Atkins MEM 02/03/2007 MEM vs. IND L 27 19 5 7 71.4 4 5 80.0 5 5 100.0 0 0 0 5 1 0 0 3 -4
+p350
+aVMike Miller MEM 02/03/2007 MEM vs. IND L 44 26 8 16 50.0 6 11 54.5 4 6 66.7 0 5 5 3 2 1 2 0 -19
+p351
+aVDamon Stoudamire MEM 02/03/2007 MEM vs. IND L 21 9 4 8 50.0 1 4 25.0 0 0 - 0 4 4 7 2 0 2 2 -2
+p352
+aVLawrence Roberts MEM 02/03/2007 MEM vs. IND L 19 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 0 0 1 1 6 2
+p353
+aVRudy Gay MEM 02/03/2007 MEM vs. IND L 23 11 5 8 62.5 0 1 0.0 1 2 50.0 1 2 3 2 1 0 1 2 -2
+p354
+aVStromile Swift MEM 02/03/2007 MEM vs. IND L 18 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 1 1 2 1 -3
+p355
+aVHakim Warrick MEM 02/03/2007 MEM vs. IND L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -4
+p356
+aVDahntay Jones MEM 02/03/2007 MEM vs. IND L 29 7 2 7 28.6 0 0 - 3 4 75.0 1 0 1 2 0 0 1 2 9
+p357
+aVAlexander Johnson MEM 02/03/2007 MEM vs. IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p358
+aVDahntay Jones MEM 01/31/2007 MEM vs. DAL L 25 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -17
+p359
+aVLawrence Roberts MEM 01/31/2007 MEM vs. DAL L 20 5 2 5 40.0 0 0 - 1 2 50.0 0 5 5 0 0 0 0 3 0
+p360
+aVPau Gasol MEM 01/31/2007 MEM vs. DAL L 33 13 4 17 23.5 0 0 - 5 7 71.4 0 13 13 2 0 2 2 4 -17
+p361
+aVHakim Warrick MEM 01/31/2007 MEM vs. DAL L 30 15 4 10 40.0 0 0 - 7 7 100.0 3 0 3 3 0 1 0 4 18
+p362
+aVDamon Stoudamire MEM 01/31/2007 MEM vs. DAL L 21 7 3 3 100.0 1 1 100.0 0 1 0.0 1 2 3 1 0 0 4 2 -13
+p363
+aVChucky Atkins MEM 01/31/2007 MEM vs. DAL L 27 9 4 11 36.4 1 5 20.0 0 0 - 0 2 2 10 2 0 1 2 13
+p364
+aVWill Conroy MEM 01/31/2007 MEM vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p365
+aVMike Miller MEM 01/31/2007 MEM vs. DAL L 42 32 11 16 68.8 7 10 70.0 3 3 100.0 0 2 2 3 0 0 5 0 2
+p366
+aVAlexander Johnson MEM 01/31/2007 MEM vs. DAL L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p367
+aVRudy Gay MEM 01/31/2007 MEM vs. DAL L 24 9 3 9 33.3 2 3 66.7 1 2 50.0 0 3 3 0 0 0 0 5 11
+p368
+aVDamon Stoudamire MEM 01/29/2007 MEM vs. SAC W 21 10 3 5 60.0 1 3 33.3 3 3 100.0 0 2 2 7 0 0 2 1 3
+p369
+aVChucky Atkins MEM 01/29/2007 MEM vs. SAC W 27 22 5 7 71.4 3 5 60.0 9 11 81.8 0 3 3 7 1 0 2 1 7
+p370
+aVRudy Gay MEM 01/29/2007 MEM vs. SAC W 20 6 3 4 75.0 0 1 0.0 0 0 - 0 3 3 1 1 2 1 4 -2
+p371
+aVJake Tsakalidis MEM 01/29/2007 MEM vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p372
+aVAlexander Johnson MEM 01/29/2007 MEM vs. SAC W 4 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 0 3 -1
+p373
+aVMike Miller MEM 01/29/2007 MEM vs. SAC W 42 27 10 19 52.6 4 12 33.3 3 4 75.0 1 3 4 6 0 0 7 2 13
+p374
+aVHakim Warrick MEM 01/29/2007 MEM vs. SAC W 25 7 2 6 33.3 0 0 - 3 7 42.9 2 4 6 1 0 0 2 4 10
+p375
+aVPau Gasol MEM 01/29/2007 MEM vs. SAC W 37 34 14 17 82.4 0 0 - 6 6 100.0 1 7 8 1 0 8 4 1 12
+p376
+aVDahntay Jones MEM 01/29/2007 MEM vs. SAC W 32 13 4 10 40.0 0 0 - 5 6 83.3 0 4 4 1 0 0 0 1 0
+p377
+aVLawrence Roberts MEM 01/29/2007 MEM vs. SAC W 25 3 0 2 0.0 0 0 - 3 4 75.0 4 10 14 1 0 0 2 3 -5
+p378
+aVPau Gasol MEM 01/27/2007 MEM vs. POR L 49 24 11 20 55.0 0 0 - 2 5 40.0 4 10 14 2 0 6 9 5 -1
+p379
+aVAlexander Johnson MEM 01/27/2007 MEM vs. POR L 10 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 6
+p380
+aVMike Miller MEM 01/27/2007 MEM vs. POR L 51 28 9 22 40.9 6 12 50.0 4 6 66.7 2 6 8 3 0 0 0 0 3
+p381
+aVRudy Gay MEM 01/27/2007 MEM vs. POR L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p382
+aVEddie Jones MEM 01/27/2007 MEM vs. POR L 29 13 5 7 71.4 2 4 50.0 1 1 100.0 0 8 8 1 2 0 0 6 1
+p383
+aVTarence Kinsey MEM 01/27/2007 MEM vs. POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p384
+aVDahntay Jones MEM 01/27/2007 MEM vs. POR L 25 9 3 5 60.0 0 0 - 3 4 75.0 1 1 2 1 0 0 0 2 -8
+p385
+aVLawrence Roberts MEM 01/27/2007 MEM vs. POR L 24 6 2 6 33.3 0 0 - 2 3 66.7 1 4 5 0 1 0 3 3 0
+p386
+aVChucky Atkins MEM 01/27/2007 MEM vs. POR L 38 23 6 11 54.5 2 5 40.0 9 10 90.0 0 1 1 5 0 0 1 6 -13
+p387
+aVHakim Warrick MEM 01/27/2007 MEM vs. POR L 27 20 7 11 63.6 0 1 0.0 6 9 66.7 2 4 6 0 0 2 3 6 -11
+p388
+aVJake Tsakalidis MEM 01/27/2007 MEM vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p389
+aVDamon Stoudamire MEM 01/27/2007 MEM vs. POR L 19 3 1 4 25.0 1 2 50.0 0 1 0.0 1 1 2 10 2 0 3 3 7
+p390
+aVEddie Jones MEM 01/26/2007 MEM @ SAS L 26 17 6 12 50.0 4 7 57.1 1 1 100.0 1 5 6 0 1 0 0 2 -13
+p391
+aVDamon Stoudamire MEM 01/26/2007 MEM @ SAS L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 4 3 0 0 0 3
+p392
+aVHakim Warrick MEM 01/26/2007 MEM @ SAS L 38 27 11 15 73.3 0 0 - 5 6 83.3 0 7 7 1 0 2 6 2 -21
+p393
+aVMike Miller MEM 01/26/2007 MEM @ SAS L 39 13 4 14 28.6 3 5 60.0 2 2 100.0 4 2 6 5 1 0 2 1 -11
+p394
+aVAlexander Johnson MEM 01/26/2007 MEM @ SAS L 9 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 0
+p395
+aVLawrence Roberts MEM 01/26/2007 MEM @ SAS L 31 5 1 7 14.3 0 0 - 3 8 37.5 3 3 6 3 3 0 1 3 -7
+p396
+aVDahntay Jones MEM 01/26/2007 MEM @ SAS L 18 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 2 3 -3
+p397
+aVChucky Atkins MEM 01/26/2007 MEM @ SAS L 29 11 4 7 57.1 2 4 50.0 1 2 50.0 0 1 1 4 0 0 3 1 -19
+p398
+aVRudy Gay MEM 01/26/2007 MEM @ SAS L 14 7 3 7 42.9 0 0 - 1 1 100.0 0 1 1 0 0 1 1 2 -6
+p399
+aVBrian Cardinal MEM 01/26/2007 MEM @ SAS L 13 8 3 5 60.0 2 2 100.0 0 0 - 0 1 1 2 1 0 1 1 -3
+p400
+aVLawrence Roberts MEM 01/24/2007 MEM @ UTA W 13 6 1 4 25.0 0 0 - 4 4 100.0 3 2 5 1 0 1 0 6 -9
+p401
+aVDahntay Jones MEM 01/24/2007 MEM @ UTA W 20 9 4 4 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 2 3 11
+p402
+aVMike Miller MEM 01/24/2007 MEM @ UTA W 45 21 7 16 43.8 5 8 62.5 2 2 100.0 0 1 1 3 0 0 1 3 -3
+p403
+aVHakim Warrick MEM 01/24/2007 MEM @ UTA W 19 14 6 8 75.0 0 0 - 2 4 50.0 1 4 5 1 0 0 1 4 9
+p404
+aVChucky Atkins MEM 01/24/2007 MEM @ UTA W 46 29 9 17 52.9 6 10 60.0 5 6 83.3 0 4 4 15 1 0 1 1 3
+p405
+aVAlexander Johnson MEM 01/24/2007 MEM @ UTA W 23 12 4 6 66.7 0 0 - 4 6 66.7 0 2 2 0 3 3 2 6 7
+p406
+aVEddie Jones MEM 01/24/2007 MEM @ UTA W 32 19 7 11 63.6 3 6 50.0 2 2 100.0 2 1 3 2 2 0 1 2 0
+p407
+aVPau Gasol MEM 01/24/2007 MEM @ UTA W 46 17 5 16 31.3 0 0 - 7 11 63.6 2 11 13 12 1 2 2 0 7
+p408
+aVDamon Stoudamire MEM 01/24/2007 MEM @ UTA W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p409
+aVRudy Gay MEM 01/24/2007 MEM @ UTA W 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p410
+aVBrian Cardinal MEM 01/24/2007 MEM @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p411
+aVDamon Stoudamire MEM 01/22/2007 MEM @ DEN L 12 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 1 0 1 1 -15
+p412
+aVRudy Gay MEM 01/22/2007 MEM @ DEN L 22 12 3 7 42.9 0 1 0.0 6 9 66.7 2 1 3 3 2 1 0 2 9
+p413
+aVLawrence Roberts MEM 01/22/2007 MEM @ DEN L 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 5
+p414
+aVAlexander Johnson MEM 01/22/2007 MEM @ DEN L 11 4 2 3 66.7 0 0 - 0 0 - 2 3 5 1 0 0 0 4 3
+p415
+aVMike Miller MEM 01/22/2007 MEM @ DEN L 32 5 2 11 18.2 1 6 16.7 0 0 - 0 0 0 2 0 0 5 3 -27
+p416
+aVPau Gasol MEM 01/22/2007 MEM @ DEN L 37 23 9 17 52.9 0 0 - 5 7 71.4 2 15 17 6 0 2 3 4 -17
+p417
+aVTarence Kinsey MEM 01/22/2007 MEM @ DEN L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p418
+aVChucky Atkins MEM 01/22/2007 MEM @ DEN L 32 15 7 15 46.7 1 2 50.0 0 1 0.0 0 2 2 7 2 0 3 1 -2
+p419
+aVBrian Cardinal MEM 01/22/2007 MEM @ DEN L 20 7 3 3 100.0 0 0 - 1 2 50.0 2 5 7 2 1 0 2 3 -1
+p420
+aVEddie Jones MEM 01/22/2007 MEM @ DEN L 11 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -12
+p421
+aVHakim Warrick MEM 01/22/2007 MEM @ DEN L 21 11 3 6 50.0 0 0 - 5 7 71.4 0 3 3 1 0 0 4 3 -27
+p422
+aVDahntay Jones MEM 01/22/2007 MEM @ DEN L 26 9 2 7 28.6 0 0 - 5 5 100.0 1 4 5 0 1 1 1 4 -6
+p423
+aVPau Gasol MEM 01/20/2007 MEM @ LAC L 37 27 9 14 64.3 0 0 - 9 9 100.0 3 4 7 3 1 2 3 1 -19
+p424
+aVRudy Gay MEM 01/20/2007 MEM @ LAC L 35 17 7 12 58.3 2 4 50.0 1 1 100.0 1 4 5 3 1 1 2 2 -9
+p425
+aVLawrence Roberts MEM 01/20/2007 MEM @ LAC L 22 8 3 8 37.5 0 0 - 2 4 50.0 2 4 6 0 0 0 1 2 -15
+p426
+aVDamon Stoudamire MEM 01/20/2007 MEM @ LAC L 25 0 0 6 0.0 0 6 0.0 0 1 0.0 0 1 1 5 2 0 6 1 -6
+p427
+aVJake Tsakalidis MEM 01/20/2007 MEM @ LAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p428
+aVTarence Kinsey MEM 01/20/2007 MEM @ LAC L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p429
+aVHakim Warrick MEM 01/20/2007 MEM @ LAC L 10 10 4 4 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 3 4
+p430
+aVDahntay Jones MEM 01/20/2007 MEM @ LAC L 11 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 3 1 0 0 0 -2
+p431
+aVMike Miller MEM 01/20/2007 MEM @ LAC L 40 13 5 11 45.5 1 6 16.7 2 4 50.0 0 4 4 7 1 0 6 0 -24
+p432
+aVAlexander Johnson MEM 01/20/2007 MEM @ LAC L 19 4 2 2 100.0 0 0 - 0 2 0.0 0 6 6 1 0 2 0 4 -6
+p433
+aVChucky Atkins MEM 01/20/2007 MEM @ LAC L 22 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 2 0 0 1 2 -15
+p434
+aVAlexander Johnson MEM 01/17/2007 MEM vs. PHI W 10 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 0 0 1 2 1 1
+p435
+aVPau Gasol MEM 01/17/2007 MEM vs. PHI W 45 12 4 14 28.6 0 0 - 4 4 100.0 4 8 12 4 1 0 3 3 21
+p436
+aVChucky Atkins MEM 01/17/2007 MEM vs. PHI W 19 13 5 8 62.5 3 5 60.0 0 0 - 0 2 2 3 1 0 0 1 -6
+p437
+aVTarence Kinsey MEM 01/17/2007 MEM vs. PHI W 10 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 3
+p438
+aVHakim Warrick MEM 01/17/2007 MEM vs. PHI W 12 10 3 4 75.0 0 0 - 4 4 100.0 0 1 1 0 1 0 2 3 -9
+p439
+aVMike Miller MEM 01/17/2007 MEM vs. PHI W 42 30 11 19 57.9 3 9 33.3 5 7 71.4 0 5 5 7 3 0 3 2 16
+p440
+aVDamon Stoudamire MEM 01/17/2007 MEM vs. PHI W 29 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 10 0 0 1 0 22
+p441
+aVEddie Jones MEM 01/17/2007 MEM vs. PHI W 23 11 4 5 80.0 3 3 100.0 0 0 - 0 3 3 0 0 0 1 2 13
+p442
+aVRudy Gay MEM 01/17/2007 MEM vs. PHI W 28 23 7 11 63.6 1 2 50.0 8 12 66.7 1 4 5 4 4 2 4 3 16
+p443
+aVLawrence Roberts MEM 01/17/2007 MEM vs. PHI W 22 13 6 7 85.7 0 0 - 1 2 50.0 5 3 8 0 1 0 1 4 3
+p444
+aVChucky Atkins MEM 01/15/2007 MEM vs. PHX L 23 15 6 9 66.7 3 5 60.0 0 0 - 0 0 0 6 2 0 2 1 -2
+p445
+aVPau Gasol MEM 01/15/2007 MEM vs. PHX L 39 23 10 11 90.9 0 1 0.0 3 3 100.0 2 7 9 7 0 1 4 3 -12
+p446
+aVEddie Jones MEM 01/15/2007 MEM vs. PHX L 19 8 2 7 28.6 0 3 0.0 4 4 100.0 0 0 0 2 0 0 2 2 0
+p447
+aVDahntay Jones MEM 01/15/2007 MEM vs. PHX L 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 5 3 -2
+p448
+aVRudy Gay MEM 01/15/2007 MEM vs. PHX L 15 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -13
+p449
+aVLawrence Roberts MEM 01/15/2007 MEM vs. PHX L 14 4 1 3 33.3 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 3 -6
+p450
+aVMike Miller MEM 01/15/2007 MEM vs. PHX L 42 25 10 18 55.6 3 7 42.9 2 2 100.0 0 4 4 2 0 0 3 4 -19
+p451
+aVAlexander Johnson MEM 01/15/2007 MEM vs. PHX L 22 9 3 4 75.0 0 0 - 3 4 75.0 1 6 7 0 0 1 0 2 -5
+p452
+aVDamon Stoudamire MEM 01/15/2007 MEM vs. PHX L 30 17 7 15 46.7 3 7 42.9 0 0 - 0 1 1 9 4 0 1 1 -11
+p453
+aVTarence Kinsey MEM 01/15/2007 MEM vs. PHX L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p454
+aVHakim Warrick MEM 01/15/2007 MEM vs. PHX L 22 9 4 6 66.7 0 0 - 1 2 50.0 1 3 4 2 1 0 3 1 -7
+p455
+aVLawrence Roberts MEM 01/13/2007 MEM @ CHI L 13 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 0 3 -20
+p456
+aVHakim Warrick MEM 01/13/2007 MEM @ CHI L 21 4 1 3 33.3 0 0 - 2 4 50.0 0 0 0 1 0 0 1 4 -21
+p457
+aVDahntay Jones MEM 01/13/2007 MEM @ CHI L 27 9 3 7 42.9 0 0 - 3 4 75.0 0 1 1 0 1 0 1 4 -20
+p458
+aVBrian Cardinal MEM 01/13/2007 MEM @ CHI L 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 2 1 0 1 2 -9
+p459
+aVDamon Stoudamire MEM 01/13/2007 MEM @ CHI L 19 0 0 3 0.0 0 1 0.0 0 2 0.0 0 0 0 1 1 0 4 1 -16
+p460
+aVRudy Gay MEM 01/13/2007 MEM @ CHI L 26 2 0 7 0.0 0 0 - 2 2 100.0 1 1 2 4 1 1 4 3 -14
+p461
+aVMike Miller MEM 01/13/2007 MEM @ CHI L 36 13 6 13 46.2 1 5 20.0 0 0 - 0 4 4 2 1 0 4 1 -42
+p462
+aVChucky Atkins MEM 01/13/2007 MEM @ CHI L 17 14 3 5 60.0 0 0 - 8 10 80.0 0 1 1 1 0 1 4 1 -24
+p463
+aVPau Gasol MEM 01/13/2007 MEM @ CHI L 41 16 4 14 28.6 0 0 - 8 15 53.3 3 10 13 2 0 2 2 1 -30
+p464
+aVTarence Kinsey MEM 01/13/2007 MEM @ CHI L 19 2 1 9 11.1 0 1 0.0 0 0 - 0 2 2 0 0 1 2 0 -19
+p465
+aVAlexander Johnson MEM 01/13/2007 MEM @ CHI L 14 2 1 4 25.0 0 0 - 0 0 - 2 5 7 1 0 0 2 3 -10
+p466
+aVAlexander Johnson MEM 01/12/2007 MEM vs. MIN L 19 12 5 6 83.3 0 0 - 2 3 66.7 0 3 3 1 1 0 0 6 -1
+p467
+aVBrian Cardinal MEM 01/12/2007 MEM vs. MIN L 19 13 3 4 75.0 1 2 50.0 6 6 100.0 0 3 3 2 2 0 0 2 7
+p468
+aVRudy Gay MEM 01/12/2007 MEM vs. MIN L 17 5 2 8 25.0 1 2 50.0 0 0 - 1 2 3 2 1 1 0 0 -8
+p469
+aVHakim Warrick MEM 01/12/2007 MEM vs. MIN L 8 2 1 1 100.0 0 0 - 0 1 0.0 0 3 3 0 0 0 1 3 -3
+p470
+aVLawrence Roberts MEM 01/12/2007 MEM vs. MIN L 21 6 3 3 100.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 2 -2
+p471
+aVChucky Atkins MEM 01/12/2007 MEM vs. MIN L 30 7 2 7 28.6 0 2 0.0 3 3 100.0 0 2 2 12 1 0 1 2 0
+p472
+aVDahntay Jones MEM 01/12/2007 MEM vs. MIN L 29 16 5 11 45.5 0 0 - 6 7 85.7 1 2 3 0 2 2 0 3 2
+p473
+aVDamon Stoudamire MEM 01/12/2007 MEM vs. MIN L 17 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 3 0 0 1 2 -7
+p474
+aVMike Miller MEM 01/12/2007 MEM vs. MIN L 41 23 7 15 46.7 2 4 50.0 7 7 100.0 1 3 4 7 0 0 2 1 -4
+p475
+aVPau Gasol MEM 01/12/2007 MEM vs. MIN L 30 20 9 16 56.3 0 0 - 2 2 100.0 1 4 5 1 0 0 3 1 -12
+p476
+aVTarence Kinsey MEM 01/12/2007 MEM vs. MIN L 9 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -2
+p477
+aVDahntay Jones MEM 01/09/2007 MEM vs. LAL W 17 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 3 2 6
+p478
+aVChucky Atkins MEM 01/09/2007 MEM vs. LAL W 21 12 4 6 66.7 0 1 0.0 4 6 66.7 0 1 1 5 0 0 3 3 1
+p479
+aVStromile Swift MEM 01/09/2007 MEM vs. LAL W 19 7 3 9 33.3 0 2 0.0 1 3 33.3 2 3 5 0 0 2 1 2 -1
+p480
+aVAlexander Johnson MEM 01/09/2007 MEM vs. LAL W 24 10 3 8 37.5 0 0 - 4 5 80.0 3 7 10 0 2 2 2 2 5
+p481
+aVTarence Kinsey MEM 01/09/2007 MEM vs. LAL W 13 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 1 5 -11
+p482
+aVMike Miller MEM 01/09/2007 MEM vs. LAL W 40 25 9 19 47.4 3 10 30.0 4 5 80.0 1 5 6 3 4 0 3 2 14
+p483
+aVPau Gasol MEM 01/09/2007 MEM vs. LAL W 37 25 9 15 60.0 0 1 0.0 7 11 63.6 4 9 13 2 1 3 3 2 13
+p484
+aVDamon Stoudamire MEM 01/09/2007 MEM vs. LAL W 27 16 5 9 55.6 3 4 75.0 3 3 100.0 0 4 4 6 1 0 1 2 9
+p485
+aVHakim Warrick MEM 01/09/2007 MEM vs. LAL W 16 10 3 5 60.0 0 0 - 4 6 66.7 1 1 2 2 1 0 0 2 5
+p486
+aVRudy Gay MEM 01/09/2007 MEM vs. LAL W 22 11 3 6 50.0 0 1 0.0 5 6 83.3 2 3 5 2 3 1 1 0 15
+p487
+aVEddie Jones MEM 01/09/2007 MEM vs. LAL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -6
+p488
+aVChucky Atkins MEM 01/07/2007 MEM vs. SAS L 27 9 4 10 40.0 1 5 20.0 0 2 0.0 1 2 3 3 0 0 3 0 -15
+p489
+aVDahntay Jones MEM 01/07/2007 MEM vs. SAS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -2
+p490
+aVTarence Kinsey MEM 01/07/2007 MEM vs. SAS L 14 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 -5
+p491
+aVAlexander Johnson MEM 01/07/2007 MEM vs. SAS L 24 10 3 6 50.0 0 0 - 4 6 66.7 4 3 7 0 3 2 1 3 -3
+p492
+aVRudy Gay MEM 01/07/2007 MEM vs. SAS L 30 6 3 8 37.5 0 1 0.0 0 0 - 0 6 6 1 0 1 1 3 -6
+p493
+aVEddie Jones MEM 01/07/2007 MEM vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p494
+aVStromile Swift MEM 01/07/2007 MEM vs. SAS L 27 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 0 1 2 1 3 -11
+p495
+aVDamon Stoudamire MEM 01/07/2007 MEM vs. SAS L 21 13 4 8 50.0 2 4 50.0 3 4 75.0 0 0 0 4 2 0 2 0 1
+p496
+aVMike Miller MEM 01/07/2007 MEM vs. SAS L 42 14 5 13 38.5 1 6 16.7 3 4 75.0 1 7 8 4 1 0 3 2 -11
+p497
+aVHakim Warrick MEM 01/07/2007 MEM vs. SAS L 15 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 2 -11
+p498
+aVPau Gasol MEM 01/07/2007 MEM vs. SAS L 30 24 9 16 56.3 0 0 - 6 6 100.0 2 4 6 3 1 1 1 3 -3
+p499
+aVDamon Stoudamire MEM 01/05/2007 MEM vs. BOS L 27 17 7 9 77.8 3 3 100.0 0 0 - 0 1 1 9 1 0 3 0 -4
+p500
+aVMike Miller MEM 01/05/2007 MEM vs. BOS L 43 24 8 17 47.1 2 10 20.0 6 7 85.7 1 5 6 14 0 0 2 2 1
+p501
+aVHakim Warrick MEM 01/05/2007 MEM vs. BOS L 11 11 3 4 75.0 0 0 - 5 5 100.0 0 0 0 0 0 0 1 1 -4
+p502
+aVRudy Gay MEM 01/05/2007 MEM vs. BOS L 20 5 2 7 28.6 1 3 33.3 0 0 - 0 4 4 2 1 1 0 4 -1
+p503
+aVDahntay Jones MEM 01/05/2007 MEM vs. BOS L 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -4
+p504
+aVChucky Atkins MEM 01/05/2007 MEM vs. BOS L 21 5 2 6 33.3 0 3 0.0 1 3 33.3 1 1 2 6 0 0 0 1 -5
+p505
+aVPau Gasol MEM 01/05/2007 MEM vs. BOS L 37 24 10 14 71.4 0 0 - 4 5 80.0 2 5 7 1 0 5 4 3 -5
+p506
+aVEddie Jones MEM 01/05/2007 MEM vs. BOS L 3 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 1
+p507
+aVStromile Swift MEM 01/05/2007 MEM vs. BOS L 25 15 6 9 66.7 0 0 - 3 5 60.0 0 6 6 0 0 1 3 6 -4
+p508
+aVTarence Kinsey MEM 01/05/2007 MEM vs. BOS L 17 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -15
+p509
+aVAlexander Johnson MEM 01/05/2007 MEM vs. BOS L 23 12 4 6 66.7 0 0 - 4 4 100.0 2 1 3 0 1 2 2 3 -5
+p510
+aVHakim Warrick MEM 01/03/2007 MEM vs. GSW W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -1
+p511
+aVEddie Jones MEM 01/03/2007 MEM vs. GSW W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -14
+p512
+aVChucky Atkins MEM 01/03/2007 MEM vs. GSW W 20 10 3 6 50.0 1 3 33.3 3 4 75.0 0 1 1 5 1 0 1 1 -22
+p513
+aVStromile Swift MEM 01/03/2007 MEM vs. GSW W 34 26 11 17 64.7 0 0 - 4 7 57.1 4 5 9 2 3 4 3 3 3
+p514
+aVDahntay Jones MEM 01/03/2007 MEM vs. GSW W 17 6 3 7 42.9 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -10
+p515
+aVDamon Stoudamire MEM 01/03/2007 MEM vs. GSW W 28 18 6 9 66.7 2 3 66.7 4 4 100.0 2 4 6 16 2 0 1 4 31
+p516
+aVPau Gasol MEM 01/03/2007 MEM vs. GSW W 35 24 9 14 64.3 0 0 - 6 7 85.7 3 10 13 2 0 4 0 1 17
+p517
+aVMike Miller MEM 01/03/2007 MEM vs. GSW W 31 33 11 15 73.3 9 12 75.0 2 2 100.0 0 1 1 7 0 1 1 3 19
+p518
+aVRudy Gay MEM 01/03/2007 MEM vs. GSW W 35 22 8 15 53.3 0 3 0.0 6 9 66.7 3 5 8 3 0 1 1 1 23
+p519
+aVAlexander Johnson MEM 01/03/2007 MEM vs. GSW W 17 3 1 7 14.3 0 0 - 1 2 50.0 4 4 8 0 0 1 2 1 -1
+p520
+aVChucky Atkins MEM 12/31/2006 MEM @ HOU L 30 14 5 8 62.5 1 2 50.0 3 4 75.0 0 6 6 8 1 0 2 2 4
+p521
+aVJake Tsakalidis MEM 12/31/2006 MEM @ HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 2
+p522
+aVRudy Gay MEM 12/31/2006 MEM @ HOU L 14 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 0 1 2 2 5
+p523
+aVHakim Warrick MEM 12/31/2006 MEM @ HOU L 15 8 2 5 40.0 0 0 - 4 4 100.0 0 2 2 1 0 0 2 1 -4
+p524
+aVMike Miller MEM 12/31/2006 MEM @ HOU L 36 32 12 17 70.6 7 10 70.0 1 2 50.0 1 3 4 2 1 0 3 1 4
+p525
+aVStromile Swift MEM 12/31/2006 MEM @ HOU L 30 13 5 9 55.6 0 0 - 3 4 75.0 5 4 9 1 0 0 1 4 2
+p526
+aVEddie Jones MEM 12/31/2006 MEM @ HOU L 24 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 1 2 2 -12
+p527
+aVPau Gasol MEM 12/31/2006 MEM @ HOU L 32 21 7 12 58.3 0 0 - 7 9 77.8 1 5 6 1 1 0 1 4 -4
+p528
+aVAlexander Johnson MEM 12/31/2006 MEM @ HOU L 15 4 2 4 50.0 0 0 - 0 0 - 0 8 8 0 0 2 0 4 0
+p529
+aVDamon Stoudamire MEM 12/31/2006 MEM @ HOU L 18 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 7 0 0 2 0 -6
+p530
+aVDahntay Jones MEM 12/31/2006 MEM @ HOU L 22 6 3 8 37.5 0 0 - 0 0 - 3 2 5 0 1 0 2 1 -1
+p531
+aVDahntay Jones MEM 12/30/2006 MEM vs. TOR W 2 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 3 4
+p532
+aVMike Miller MEM 12/30/2006 MEM vs. TOR W 0 27 9 15 60.0 7 12 58.3 2 2 100.0 2 2 4 1 1 0 3 3 4
+p533
+aVTarence Kinsey MEM 12/30/2006 MEM vs. TOR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p534
+aVStromile Swift MEM 12/30/2006 MEM vs. TOR W 0 15 5 10 50.0 0 0 - 5 5 100.0 4 10 14 0 1 2 4 2 11
+p535
+aVChucky Atkins MEM 12/30/2006 MEM vs. TOR W 0 16 4 10 40.0 2 5 40.0 6 7 85.7 0 2 2 9 2 0 2 2 17
+p536
+aVDamon Stoudamire MEM 12/30/2006 MEM vs. TOR W 0 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -11
+p537
+aVPau Gasol MEM 12/30/2006 MEM vs. TOR W 0 22 8 16 50.0 0 0 - 6 7 85.7 1 10 11 4 1 2 3 1 11
+p538
+aVEddie Jones MEM 12/30/2006 MEM vs. TOR W 5 8 2 4 50.0 1 3 33.3 3 3 100.0 0 2 2 3 1 0 1 4 -12
+p539
+aVAlexander Johnson MEM 12/30/2006 MEM vs. TOR W 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -6
+p540
+aVHakim Warrick MEM 12/30/2006 MEM vs. TOR W 5 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -4
+p541
+aVRudy Gay MEM 12/30/2006 MEM vs. TOR W 3 10 5 10 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 2 2 15
+p542
+aVTarence Kinsey MEM 12/27/2006 MEM vs. MIL L 9 8 4 5 80.0 0 1 0.0 0 2 0.0 0 0 0 0 1 0 0 1 4
+p543
+aVPau Gasol MEM 12/27/2006 MEM vs. MIL L 29 29 12 16 75.0 0 0 - 5 9 55.6 3 4 7 3 0 2 3 1 -7
+p544
+aVDahntay Jones MEM 12/27/2006 MEM vs. MIL L 32 13 5 10 50.0 0 0 - 3 3 100.0 2 1 3 1 0 1 2 3 -7
+p545
+aVBrian Cardinal MEM 12/27/2006 MEM vs. MIL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 7
+p546
+aVMike Miller MEM 12/27/2006 MEM vs. MIL L 33 18 7 17 41.2 4 10 40.0 0 0 - 2 2 4 3 1 0 2 2 -16
+p547
+aVHakim Warrick MEM 12/27/2006 MEM vs. MIL L 21 11 5 8 62.5 0 0 - 1 1 100.0 2 4 6 1 0 0 1 3 -16
+p548
+aVEddie Jones MEM 12/27/2006 MEM vs. MIL L 17 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 3 0 0 1 2 -8
+p549
+aVDamon Stoudamire MEM 12/27/2006 MEM vs. MIL L 23 0 0 3 0.0 0 3 0.0 0 0 - 1 3 4 8 0 0 2 2 -8
+p550
+aVAlexander Johnson MEM 12/27/2006 MEM vs. MIL L 28 8 3 6 50.0 0 0 - 2 4 50.0 1 5 6 0 0 2 0 5 -17
+p551
+aVChucky Atkins MEM 12/27/2006 MEM vs. MIL L 25 1 0 7 0.0 0 4 0.0 1 2 50.0 0 5 5 7 0 0 1 3 -8
+p552
+aVRudy Gay MEM 12/27/2006 MEM vs. MIL L 18 4 1 3 33.3 0 0 - 2 4 50.0 0 2 2 0 2 0 1 1 -4
+p553
+aVJake Tsakalidis MEM 12/26/2006 MEM @ WAS L 18 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 2 3 0 2 -2
+p554
+aVAlexander Johnson MEM 12/26/2006 MEM @ WAS L 25 23 7 10 70.0 0 0 - 9 10 90.0 4 6 10 1 0 1 3 5 -3
+p555
+aVRudy Gay MEM 12/26/2006 MEM @ WAS L 26 4 2 8 25.0 0 1 0.0 0 0 - 1 6 7 2 0 0 5 3 0
+p556
+aVDamon Stoudamire MEM 12/26/2006 MEM @ WAS L 23 8 3 6 50.0 1 3 33.3 1 1 100.0 0 0 0 4 1 0 0 2 -20
+p557
+aVChucky Atkins MEM 12/26/2006 MEM @ WAS L 19 15 4 10 40.0 0 2 0.0 7 7 100.0 1 2 3 0 1 0 3 4 2
+p558
+aVEddie Jones MEM 12/26/2006 MEM @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p559
+aVTarence Kinsey MEM 12/26/2006 MEM @ WAS L 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 0 1 0 11
+p560
+aVPau Gasol MEM 12/26/2006 MEM @ WAS L 23 13 5 9 55.6 0 0 - 3 5 60.0 2 3 5 5 0 1 3 2 -9
+p561
+aVDahntay Jones MEM 12/26/2006 MEM @ WAS L 30 10 3 8 37.5 0 1 0.0 4 4 100.0 1 0 1 2 2 0 2 3 -10
+p562
+aVHakim Warrick MEM 12/26/2006 MEM @ WAS L 28 11 3 7 42.9 0 0 - 5 6 83.3 1 4 5 1 0 1 3 2 -11
+p563
+aVMike Miller MEM 12/26/2006 MEM @ WAS L 32 9 3 8 37.5 2 5 40.0 1 2 50.0 0 5 5 5 0 1 5 0 -27
+p564
+aVHakim Warrick MEM 12/23/2006 MEM vs. UTA L 28 10 1 3 33.3 0 0 - 8 8 100.0 1 2 3 0 0 1 2 3 0
+p565
+aVBrian Cardinal MEM 12/23/2006 MEM vs. UTA L 6 4 1 4 25.0 0 3 0.0 2 2 100.0 0 2 2 0 1 0 0 1 -6
+p566
+aVPau Gasol MEM 12/23/2006 MEM vs. UTA L 26 12 4 6 66.7 2 2 100.0 2 2 100.0 0 2 2 2 0 2 4 3 -2
+p567
+aVDahntay Jones MEM 12/23/2006 MEM vs. UTA L 41 14 6 10 60.0 0 0 - 2 2 100.0 0 2 2 1 1 3 3 3 -7
+p568
+aVMike Miller MEM 12/23/2006 MEM vs. UTA L 42 28 10 20 50.0 6 13 46.2 2 2 100.0 2 3 5 2 1 0 3 2 -1
+p569
+aVDamon Stoudamire MEM 12/23/2006 MEM vs. UTA L 28 8 3 5 60.0 1 3 33.3 1 1 100.0 1 2 3 6 0 0 0 3 -4
+p570
+aVJake Tsakalidis MEM 12/23/2006 MEM vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p571
+aVAlexander Johnson MEM 12/23/2006 MEM vs. UTA L 18 3 1 1 100.0 0 0 - 1 3 33.3 1 3 4 0 2 2 0 4 0
+p572
+aVRudy Gay MEM 12/23/2006 MEM vs. UTA L 17 8 2 6 33.3 0 0 - 4 4 100.0 1 1 2 1 0 2 3 3 4
+p573
+aVChucky Atkins MEM 12/23/2006 MEM vs. UTA L 20 8 1 3 33.3 1 2 50.0 5 6 83.3 0 2 2 4 0 0 0 1 1
+p574
+aVEddie Jones MEM 12/23/2006 MEM vs. UTA L 13 2 1 5 20.0 0 3 0.0 0 0 - 1 2 3 1 1 0 2 3 2
+p575
+aVEddie Jones MEM 12/22/2006 MEM @ NOK L 21 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 3 -9
+p576
+aVDahntay Jones MEM 12/22/2006 MEM @ NOK L 24 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 0 0 2 3 9
+p577
+aVChucky Atkins MEM 12/22/2006 MEM @ NOK L 28 5 2 9 22.2 1 4 25.0 0 0 - 0 2 2 2 1 0 1 0 1
+p578
+aVRudy Gay MEM 12/22/2006 MEM @ NOK L 8 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 1 -2
+p579
+aVDamon Stoudamire MEM 12/22/2006 MEM @ NOK L 36 9 3 7 42.9 3 6 50.0 0 0 - 1 0 1 3 1 0 2 4 -11
+p580
+aVPau Gasol MEM 12/22/2006 MEM @ NOK L 28 28 12 22 54.5 0 2 0.0 4 6 66.7 1 8 9 1 0 3 3 3 3
+p581
+aVStromile Swift MEM 12/22/2006 MEM @ NOK L 15 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 -17
+p582
+aVMike Miller MEM 12/22/2006 MEM @ NOK L 45 18 7 15 46.7 4 9 44.4 0 0 - 0 8 8 6 2 0 0 0 1
+p583
+aVAlexander Johnson MEM 12/22/2006 MEM @ NOK L 30 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 4 3
+p584
+aVBrian Cardinal MEM 12/22/2006 MEM @ NOK L 20 9 2 4 50.0 2 3 66.7 3 3 100.0 1 3 4 2 1 1 0 3 6
+p585
+aVHakim Warrick MEM 12/22/2006 MEM @ NOK L 11 8 0 3 0.0 0 0 - 8 8 100.0 2 2 4 2 0 0 0 1 1
+p586
+aVChucky Atkins MEM 12/20/2006 MEM @ SAS L 9 11 5 7 71.4 1 1 100.0 0 0 - 0 2 2 1 0 0 1 2 -4
+p587
+aVEddie Jones MEM 12/20/2006 MEM @ SAS L 24 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 1 0 0 1 1 -22
+p588
+aVMike Miller MEM 12/20/2006 MEM @ SAS L 42 22 8 17 47.1 4 8 50.0 2 2 100.0 3 5 8 4 0 1 3 1 1
+p589
+aVJake Tsakalidis MEM 12/20/2006 MEM @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p590
+aVPau Gasol MEM 12/20/2006 MEM @ SAS L 22 16 7 13 53.8 0 0 - 2 2 100.0 1 1 2 3 0 0 1 0 0
+p591
+aVDamon Stoudamire MEM 12/20/2006 MEM @ SAS L 34 8 3 8 37.5 1 2 50.0 1 1 100.0 0 3 3 3 1 0 1 5 1
+p592
+aVHakim Warrick MEM 12/20/2006 MEM @ SAS L 28 11 4 7 57.1 0 0 - 3 3 100.0 0 0 0 0 3 0 2 3 -7
+p593
+aVStromile Swift MEM 12/20/2006 MEM @ SAS L 23 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 3 1 1 1 -5
+p594
+aVDahntay Jones MEM 12/20/2006 MEM @ SAS L 25 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 3 10
+p595
+aVRudy Gay MEM 12/20/2006 MEM @ SAS L 13 9 3 4 75.0 1 1 100.0 2 4 50.0 0 1 1 0 2 0 1 6 -13
+p596
+aVAlexander Johnson MEM 12/20/2006 MEM @ SAS L 14 9 3 4 75.0 0 0 - 3 3 100.0 2 2 4 0 0 0 1 6 10
+p597
+aVEddie Jones MEM 12/18/2006 MEM vs. SEA W 18 8 2 6 33.3 2 4 50.0 2 2 100.0 0 0 0 0 0 0 0 5 6
+p598
+aVChucky Atkins MEM 12/18/2006 MEM vs. SEA W 40 28 7 16 43.8 4 8 50.0 10 11 90.9 2 1 3 8 1 0 0 5 14
+p599
+aVDamon Stoudamire MEM 12/18/2006 MEM vs. SEA W 18 0 0 5 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 2 2 -6
+p600
+aVStromile Swift MEM 12/18/2006 MEM vs. SEA W 15 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 4
+p601
+aVRudy Gay MEM 12/18/2006 MEM vs. SEA W 32 17 7 14 50.0 0 1 0.0 3 4 75.0 0 6 6 1 2 0 1 3 17
+p602
+aVPau Gasol MEM 12/18/2006 MEM vs. SEA W 21 15 6 8 75.0 0 0 - 3 4 75.0 1 0 1 1 1 1 2 0 -7
+p603
+aVHakim Warrick MEM 12/18/2006 MEM vs. SEA W 18 10 3 4 75.0 0 0 - 4 4 100.0 0 4 4 2 0 0 3 4 -3
+p604
+aVMike Miller MEM 12/18/2006 MEM vs. SEA W 53 29 10 15 66.7 5 7 71.4 4 7 57.1 1 10 11 7 2 0 4 1 8
+p605
+aVDahntay Jones MEM 12/18/2006 MEM vs. SEA W 41 7 2 7 28.6 0 0 - 3 4 75.0 2 1 3 4 3 0 3 6 2
+p606
+aVAlexander Johnson MEM 12/18/2006 MEM vs. SEA W 34 13 5 8 62.5 0 0 - 3 4 75.0 2 6 8 0 3 3 1 4 5
+p607
+aVPau Gasol MEM 12/16/2006 MEM @ MIA L 17 11 5 8 62.5 0 0 - 1 1 100.0 1 1 2 2 1 2 2 2 -6
+p608
+aVMike Miller MEM 12/16/2006 MEM @ MIA L 44 20 7 13 53.8 3 5 60.0 3 4 75.0 0 6 6 8 0 0 3 2 -8
+p609
+aVHakim Warrick MEM 12/16/2006 MEM @ MIA L 31 20 8 14 57.1 0 1 0.0 4 5 80.0 0 1 1 1 2 0 1 4 -2
+p610
+aVChucky Atkins MEM 12/16/2006 MEM @ MIA L 32 2 0 4 0.0 0 2 0.0 2 2 100.0 0 2 2 3 0 0 1 1 -10
+p611
+aVAlexander Johnson MEM 12/16/2006 MEM @ MIA L 30 9 4 8 50.0 0 0 - 1 4 25.0 2 7 9 3 2 0 1 4 2
+p612
+aVRudy Gay MEM 12/16/2006 MEM @ MIA L 15 4 0 3 0.0 0 0 - 4 6 66.7 1 0 1 1 1 0 1 1 -12
+p613
+aVEddie Jones MEM 12/16/2006 MEM @ MIA L 26 7 3 7 42.9 1 5 20.0 0 0 - 0 4 4 3 2 1 1 2 1
+p614
+aVTarence Kinsey MEM 12/16/2006 MEM @ MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p615
+aVJake Tsakalidis MEM 12/16/2006 MEM @ MIA L 6 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 0
+p616
+aVDahntay Jones MEM 12/16/2006 MEM @ MIA L 37 15 6 14 42.9 0 0 - 3 4 75.0 2 1 3 2 1 0 3 5 -2
+p617
+aVAlexander Johnson MEM 12/15/2006 MEM vs. ATL L 28 15 4 7 57.1 0 0 - 7 8 87.5 0 4 4 1 2 1 3 3 12
+p618
+aVPau Gasol MEM 12/15/2006 MEM vs. ATL L 18 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 0 0 0 3 4 -20
+p619
+aVMike Miller MEM 12/15/2006 MEM vs. ATL L 39 11 2 9 22.2 2 7 28.6 5 5 100.0 0 9 9 3 4 1 4 4 -9
+p620
+aVChucky Atkins MEM 12/15/2006 MEM vs. ATL L 33 18 5 11 45.5 2 6 33.3 6 6 100.0 0 1 1 1 2 0 2 2 -4
+p621
+aVDahntay Jones MEM 12/15/2006 MEM vs. ATL L 32 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 0 1 1 2 3 -9
+p622
+aVEddie Jones MEM 12/15/2006 MEM vs. ATL L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 1
+p623
+aVDamon Stoudamire MEM 12/15/2006 MEM vs. ATL L 26 4 2 8 25.0 0 4 0.0 0 0 - 1 2 3 7 0 0 0 2 -7
+p624
+aVRudy Gay MEM 12/15/2006 MEM vs. ATL L 25 13 4 8 50.0 0 0 - 5 5 100.0 1 0 1 1 0 1 0 1 -1
+p625
+aVHakim Warrick MEM 12/15/2006 MEM vs. ATL L 31 16 5 12 41.7 0 0 - 6 6 100.0 4 2 6 0 2 2 4 1 -8
+p626
+aVRudy Gay MEM 12/13/2006 MEM vs. POR L 25 12 6 13 46.2 0 0 - 0 1 0.0 1 2 3 2 1 1 4 2 2
+p627
+aVChucky Atkins MEM 12/13/2006 MEM vs. POR L 28 14 6 10 60.0 2 4 50.0 0 0 - 0 2 2 5 1 0 1 4 2
+p628
+aVJake Tsakalidis MEM 12/13/2006 MEM vs. POR L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 3 3 -2
+p629
+aVStromile Swift MEM 12/13/2006 MEM vs. POR L 31 7 3 9 33.3 0 0 - 1 2 50.0 2 2 4 2 1 1 1 2 -11
+p630
+aVDamon Stoudamire MEM 12/13/2006 MEM vs. POR L 36 15 6 13 46.2 2 7 28.6 1 2 50.0 0 5 5 2 0 0 1 0 3
+p631
+aVDahntay Jones MEM 12/13/2006 MEM vs. POR L 20 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -14
+p632
+aVBrian Cardinal MEM 12/13/2006 MEM vs. POR L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p633
+aVAlexander Johnson MEM 12/13/2006 MEM vs. POR L 18 6 1 2 50.0 0 0 - 4 4 100.0 4 3 7 1 0 1 1 6 13
+p634
+aVMike Miller MEM 12/13/2006 MEM vs. POR L 39 20 8 16 50.0 3 8 37.5 1 1 100.0 2 3 5 4 0 0 4 2 5
+p635
+aVEddie Jones MEM 12/13/2006 MEM vs. POR L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p636
+aVHakim Warrick MEM 12/13/2006 MEM vs. POR L 19 3 1 6 16.7 0 0 - 1 2 50.0 0 3 3 0 1 0 1 1 -13
+p637
+aVDahntay Jones MEM 12/11/2006 MEM @ NJN L 30 9 4 7 57.1 0 0 - 1 1 100.0 1 2 3 5 2 0 1 3 -12
+p638
+aVChucky Atkins MEM 12/11/2006 MEM @ NJN L 31 26 8 15 53.3 4 6 66.7 6 7 85.7 1 1 2 7 1 0 1 0 11
+p639
+aVTarence Kinsey MEM 12/11/2006 MEM @ NJN L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 0
+p640
+aVEddie Jones MEM 12/11/2006 MEM @ NJN L 28 5 2 9 22.2 0 3 0.0 1 2 50.0 3 1 4 3 0 0 2 1 4
+p641
+aVDamon Stoudamire MEM 12/11/2006 MEM @ NJN L 31 14 5 11 45.5 3 4 75.0 1 2 50.0 0 4 4 4 0 0 2 1 -13
+p642
+aVStromile Swift MEM 12/11/2006 MEM @ NJN L 23 10 4 7 57.1 0 0 - 2 2 100.0 0 5 5 0 1 1 1 3 -24
+p643
+aVBrian Cardinal MEM 12/11/2006 MEM @ NJN L 17 8 3 5 60.0 2 4 50.0 0 0 - 1 2 3 4 3 0 2 2 0
+p644
+aVJake Tsakalidis MEM 12/11/2006 MEM @ NJN L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -12
+p645
+aVHakim Warrick MEM 12/11/2006 MEM @ NJN L 23 10 5 9 55.6 0 0 - 0 0 - 1 3 4 3 0 0 3 4 -7
+p646
+aVAlexander Johnson MEM 12/11/2006 MEM @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p647
+aVRudy Gay MEM 12/11/2006 MEM @ NJN L 22 8 2 7 28.6 0 0 - 4 5 80.0 0 3 3 0 1 2 2 0 4
+p648
+aVMike Miller MEM 12/11/2006 MEM @ NJN L 26 0 0 3 0.0 0 3 0.0 0 0 - 2 6 8 1 0 0 4 3 -16
+p649
+aVMike Miller MEM 12/09/2006 MEM vs. LAC L 42 19 5 12 41.7 2 6 33.3 7 7 100.0 1 12 13 4 0 1 4 2 -1
+p650
+aVHakim Warrick MEM 12/09/2006 MEM vs. LAC L 37 8 4 10 40.0 0 0 - 0 0 - 1 3 4 0 2 0 2 1 -12
+p651
+aVRudy Gay MEM 12/09/2006 MEM vs. LAC L 18 4 2 5 40.0 0 0 - 0 3 0.0 1 2 3 0 2 0 0 3 -6
+p652
+aVJake Tsakalidis MEM 12/09/2006 MEM vs. LAC L 27 4 2 3 66.7 0 0 - 0 2 0.0 3 5 8 1 1 1 4 2 6
+p653
+aVDahntay Jones MEM 12/09/2006 MEM vs. LAC L 34 13 5 12 41.7 0 0 - 3 4 75.0 1 2 3 2 0 0 1 3 5
+p654
+aVChucky Atkins MEM 12/09/2006 MEM vs. LAC L 20 10 3 9 33.3 1 5 20.0 3 3 100.0 0 0 0 2 1 0 3 3 -10
+p655
+aVDamon Stoudamire MEM 12/09/2006 MEM vs. LAC L 28 13 4 9 44.4 1 3 33.3 4 4 100.0 0 4 4 3 0 0 1 2 3
+p656
+aVEddie Jones MEM 12/09/2006 MEM vs. LAC L 18 5 2 5 40.0 1 2 50.0 0 5 0.0 0 2 2 2 3 0 1 1 -10
+p657
+aVStromile Swift MEM 12/09/2006 MEM vs. LAC L 16 6 1 1 100.0 0 0 - 4 6 66.7 0 2 2 1 1 0 2 3 -10
+p658
+aVDamon Stoudamire MEM 12/08/2006 MEM @ MIL L 28 9 3 8 37.5 3 3 100.0 0 0 - 1 1 2 5 0 0 4 2 2
+p659
+aVJake Tsakalidis MEM 12/08/2006 MEM @ MIL L 23 5 2 4 50.0 0 0 - 1 4 25.0 2 4 6 0 0 1 2 3 -14
+p660
+aVAlexander Johnson MEM 12/08/2006 MEM @ MIL L 11 5 2 3 66.7 0 0 - 1 1 100.0 2 1 3 1 0 0 0 1 5
+p661
+aVMike Miller MEM 12/08/2006 MEM @ MIL L 34 9 3 7 42.9 0 3 0.0 3 4 75.0 0 5 5 6 1 0 2 3 -24
+p662
+aVChucky Atkins MEM 12/08/2006 MEM @ MIL L 20 6 2 6 33.3 0 2 0.0 2 3 66.7 0 1 1 1 0 0 3 0 -7
+p663
+aVTarence Kinsey MEM 12/08/2006 MEM @ MIL L 15 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 0 0 0 1 1 15
+p664
+aVDahntay Jones MEM 12/08/2006 MEM @ MIL L 29 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 0 0 0 3 -20
+p665
+aVRudy Gay MEM 12/08/2006 MEM @ MIL L 23 9 3 9 33.3 0 2 0.0 3 4 75.0 1 3 4 1 1 1 2 1 10
+p666
+aVBrian Cardinal MEM 12/08/2006 MEM @ MIL L 21 11 5 7 71.4 1 3 33.3 0 0 - 0 6 6 3 0 0 2 3 10
+p667
+aVHakim Warrick MEM 12/08/2006 MEM @ MIL L 36 31 11 19 57.9 0 0 - 9 9 100.0 8 5 13 0 0 1 3 1 -7
+p668
+aVStromile Swift MEM 12/06/2006 MEM @ BOS W 13 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 2 0 3 9
+p669
+aVDahntay Jones MEM 12/06/2006 MEM @ BOS W 42 18 7 12 58.3 0 0 - 4 4 100.0 1 1 2 1 1 1 3 2 11
+p670
+aVBrian Cardinal MEM 12/06/2006 MEM @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p671
+aVRudy Gay MEM 12/06/2006 MEM @ BOS W 21 8 3 8 37.5 0 0 - 2 2 100.0 1 4 5 1 1 0 1 2 -11
+p672
+aVHakim Warrick MEM 12/06/2006 MEM @ BOS W 34 12 5 13 38.5 0 1 0.0 2 2 100.0 1 2 3 0 2 0 1 1 19
+p673
+aVLawrence Roberts MEM 12/06/2006 MEM @ BOS W 28 18 2 3 66.7 0 0 - 14 15 93.3 4 3 7 0 2 0 0 2 10
+p674
+aVChucky Atkins MEM 12/06/2006 MEM @ BOS W 39 19 4 12 33.3 1 3 33.3 10 11 90.9 0 2 2 6 3 0 2 2 9
+p675
+aVDamon Stoudamire MEM 12/06/2006 MEM @ BOS W 14 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 1 0 0 4 4 -17
+p676
+aVMike Miller MEM 12/06/2006 MEM @ BOS W 42 12 4 13 30.8 2 5 40.0 2 2 100.0 1 6 7 8 1 1 0 3 -6
+p677
+aVJake Tsakalidis MEM 12/06/2006 MEM @ BOS W 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -5
+p678
+aVBrian Cardinal MEM 12/04/2006 MEM @ NYK L 11 8 3 4 75.0 2 3 66.7 0 0 - 1 3 4 1 0 0 0 2 8
+p679
+aVLawrence Roberts MEM 12/04/2006 MEM @ NYK L 6 3 1 2 50.0 0 0 - 1 1 100.0 0 3 3 0 1 0 1 1 6
+p680
+aVDahntay Jones MEM 12/04/2006 MEM @ NYK L 34 11 5 8 62.5 0 0 - 1 5 20.0 0 0 0 0 0 1 3 3 -11
+p681
+aVMike Miller MEM 12/04/2006 MEM @ NYK L 44 13 5 13 38.5 3 8 37.5 0 0 - 1 5 6 7 0 0 2 3 -7
+p682
+aVChucky Atkins MEM 12/04/2006 MEM @ NYK L 37 9 2 12 16.7 2 6 33.3 3 3 100.0 1 0 1 11 0 0 1 1 -8
+p683
+aVRudy Gay MEM 12/04/2006 MEM @ NYK L 29 9 4 9 44.4 0 0 - 1 3 33.3 0 4 4 1 1 0 1 1 2
+p684
+aVJake Tsakalidis MEM 12/04/2006 MEM @ NYK L 15 4 2 4 50.0 0 0 - 0 1 0.0 2 3 5 0 1 1 1 4 -7
+p685
+aVStromile Swift MEM 12/04/2006 MEM @ NYK L 27 14 5 9 55.6 0 0 - 4 4 100.0 0 2 2 0 2 0 2 4 -7
+p686
+aVHakim Warrick MEM 12/04/2006 MEM @ NYK L 37 19 6 15 40.0 0 0 - 7 8 87.5 3 4 7 2 1 0 2 4 -16
+p687
+aVJake Tsakalidis MEM 12/02/2006 MEM vs. MIA L 15 2 1 5 20.0 0 0 - 0 0 - 3 0 3 0 0 0 1 0 1
+p688
+aVDahntay Jones MEM 12/02/2006 MEM vs. MIA L 35 12 4 9 44.4 0 0 - 4 4 100.0 1 2 3 0 0 0 1 5 -22
+p689
+aVMike Miller MEM 12/02/2006 MEM vs. MIA L 42 22 6 13 46.2 3 7 42.9 7 9 77.8 2 6 8 3 0 0 3 3 9
+p690
+aVHakim Warrick MEM 12/02/2006 MEM vs. MIA L 26 17 7 13 53.8 0 0 - 3 3 100.0 1 2 3 1 2 0 3 5 -4
+p691
+aVRudy Gay MEM 12/02/2006 MEM vs. MIA L 31 20 8 16 50.0 1 3 33.3 3 5 60.0 2 5 7 3 2 0 2 3 16
+p692
+aVBrian Cardinal MEM 12/02/2006 MEM vs. MIA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -7
+p693
+aVChucky Atkins MEM 12/02/2006 MEM vs. MIA L 42 18 5 11 45.5 4 8 50.0 4 5 80.0 0 1 1 5 2 0 1 1 -4
+p694
+aVStromile Swift MEM 12/02/2006 MEM vs. MIA L 23 6 3 6 50.0 0 0 - 0 1 0.0 1 3 4 0 0 4 1 5 -1
+p695
+aVLawrence Roberts MEM 12/02/2006 MEM vs. MIA L 23 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 1 0 0 3 7
+p696
+aVHakim Warrick MEM 11/29/2006 MEM @ LAC L 44 22 10 18 55.6 0 0 - 2 2 100.0 1 4 5 4 0 1 0 3 -5
+p697
+aVLawrence Roberts MEM 11/29/2006 MEM @ LAC L 22 4 1 3 33.3 0 0 - 2 4 50.0 2 6 8 1 2 0 1 4 -12
+p698
+aVDahntay Jones MEM 11/29/2006 MEM @ LAC L 32 14 5 12 41.7 0 0 - 4 4 100.0 3 0 3 0 1 0 3 3 -8
+p699
+aVMike Miller MEM 11/29/2006 MEM @ LAC L 36 8 3 10 30.0 2 4 50.0 0 0 - 1 4 5 4 1 0 2 4 -12
+p700
+aVAlexander Johnson MEM 11/29/2006 MEM @ LAC L 1 2 1 1 100.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 0 2
+p701
+aVStromile Swift MEM 11/29/2006 MEM @ LAC L 24 8 3 5 60.0 0 0 - 2 4 50.0 3 5 8 0 2 1 3 4 -5
+p702
+aVRudy Gay MEM 11/29/2006 MEM @ LAC L 32 15 6 13 46.2 1 2 50.0 2 5 40.0 0 2 2 1 1 2 2 3 -17
+p703
+aVChucky Atkins MEM 11/29/2006 MEM @ LAC L 40 14 4 11 36.4 2 3 66.7 4 4 100.0 0 2 2 3 2 0 4 5 -7
+p704
+aVBrian Cardinal MEM 11/29/2006 MEM @ LAC L 9 3 0 0 - 0 0 - 3 3 100.0 1 0 1 0 0 0 1 1 -11
+p705
+aVHakim Warrick MEM 11/28/2006 MEM @ DEN W 36 25 12 21 57.1 0 1 0.0 1 1 100.0 2 2 4 0 0 1 3 4 14
+p706
+aVStromile Swift MEM 11/28/2006 MEM @ DEN W 22 7 3 7 42.9 0 0 - 1 1 100.0 5 6 11 0 0 0 1 2 -4
+p707
+aVMike Miller MEM 11/28/2006 MEM @ DEN W 43 13 6 15 40.0 1 4 25.0 0 1 0.0 1 6 7 14 0 0 3 1 0
+p708
+aVBrian Cardinal MEM 11/28/2006 MEM @ DEN W 20 9 3 5 60.0 1 1 100.0 2 2 100.0 1 4 5 4 0 0 1 1 5
+p709
+aVDahntay Jones MEM 11/28/2006 MEM @ DEN W 25 10 3 5 60.0 0 0 - 4 4 100.0 1 3 4 3 0 0 0 5 13
+p710
+aVChucky Atkins MEM 11/28/2006 MEM @ DEN W 42 22 7 22 31.8 4 10 40.0 4 4 100.0 0 2 2 5 1 1 2 0 8
+p711
+aVLawrence Roberts MEM 11/28/2006 MEM @ DEN W 26 16 8 11 72.7 0 0 - 0 1 0.0 3 3 6 1 1 0 1 3 16
+p712
+aVRudy Gay MEM 11/28/2006 MEM @ DEN W 26 6 3 6 50.0 0 0 - 0 0 - 1 4 5 3 2 0 1 1 8
+p713
+aVDahntay Jones MEM 11/25/2006 MEM @ HOU L 3 5 2 4 50.0 0 0 - 1 1 100.0 2 3 5 0 0 0 2 5 8
+p714
+aVDamon Stoudamire MEM 11/25/2006 MEM @ HOU L 2 6 1 5 20.0 0 1 0.0 4 5 80.0 0 1 1 1 0 0 1 0 -1
+p715
+aVHakim Warrick MEM 11/25/2006 MEM @ HOU L 6 12 5 9 55.6 0 0 - 2 2 100.0 1 5 6 1 1 0 2 3 -16
+p716
+aVJake Tsakalidis MEM 11/25/2006 MEM @ HOU L 28 2 1 3 33.3 0 0 - 0 3 0.0 1 1 2 0 0 1 0 2 2
+p717
+aVRudy Gay MEM 11/25/2006 MEM @ HOU L 32 11 4 10 40.0 0 1 0.0 3 6 50.0 3 5 8 1 3 2 4 6 -9
+p718
+aVBrian Cardinal MEM 11/25/2006 MEM @ HOU L 34 10 2 3 66.7 2 3 66.7 4 4 100.0 0 2 2 0 2 0 0 0 5
+p719
+aVAlexander Johnson MEM 11/25/2006 MEM @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p720
+aVChucky Atkins MEM 11/25/2006 MEM @ HOU L 30 11 4 13 30.8 1 6 16.7 2 4 50.0 0 1 1 6 1 0 1 0 -11
+p721
+aVLawrence Roberts MEM 11/25/2006 MEM @ HOU L 5 3 1 3 33.3 0 0 - 1 2 50.0 2 5 7 0 1 0 1 1 -9
+p722
+aVMike Miller MEM 11/25/2006 MEM @ HOU L 10 10 4 9 44.4 0 1 0.0 2 2 100.0 0 7 7 5 1 0 1 1 -11
+p723
+aVStromile Swift MEM 11/25/2006 MEM @ HOU L 8 6 2 10 20.0 0 0 - 2 4 50.0 3 1 4 0 0 1 3 4 -7
+p724
+aVRudy Gay MEM 11/24/2006 MEM vs. WAS W 27 6 3 10 30.0 0 1 0.0 0 0 - 0 5 5 0 0 1 1 2 5
+p725
+aVMike Miller MEM 11/24/2006 MEM vs. WAS W 44 14 4 12 33.3 1 5 20.0 5 7 71.4 0 6 6 2 1 1 1 2 13
+p726
+aVDahntay Jones MEM 11/24/2006 MEM vs. WAS W 29 14 3 4 75.0 0 0 - 8 8 100.0 0 2 2 0 1 1 1 4 11
+p727
+aVBrian Cardinal MEM 11/24/2006 MEM vs. WAS W 12 7 3 7 42.9 1 3 33.3 0 0 - 1 0 1 1 0 0 0 4 5
+p728
+aVChucky Atkins MEM 11/24/2006 MEM vs. WAS W 29 15 5 10 50.0 3 5 60.0 2 2 100.0 0 4 4 5 1 0 3 0 9
+p729
+aVLawrence Roberts MEM 11/24/2006 MEM vs. WAS W 19 6 1 2 50.0 0 0 - 4 4 100.0 0 3 3 1 0 0 1 3 12
+p730
+aVDamon Stoudamire MEM 11/24/2006 MEM vs. WAS W 19 4 2 4 50.0 0 1 0.0 0 0 - 0 5 5 4 0 0 2 0 6
+p731
+aVStromile Swift MEM 11/24/2006 MEM vs. WAS W 29 11 4 13 30.8 0 0 - 3 6 50.0 4 6 10 0 3 1 1 2 3
+p732
+aVHakim Warrick MEM 11/24/2006 MEM vs. WAS W 32 18 5 8 62.5 0 0 - 8 9 88.9 2 5 7 2 0 1 2 4 11
+p733
+aVHakim Warrick MEM 11/21/2006 MEM @ CLE L 26 9 3 6 50.0 0 0 - 3 3 100.0 4 1 5 1 1 3 3 3 -22
+p734
+aVLawrence Roberts MEM 11/21/2006 MEM @ CLE L 20 6 1 1 100.0 0 0 - 4 4 100.0 1 4 5 0 0 0 0 1 14
+p735
+aVStromile Swift MEM 11/21/2006 MEM @ CLE L 24 10 4 10 40.0 0 0 - 2 4 50.0 4 2 6 1 0 1 0 5 -9
+p736
+aVRudy Gay MEM 11/21/2006 MEM @ CLE L 17 0 0 5 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 2 1 -16
+p737
+aVJake Tsakalidis MEM 11/21/2006 MEM @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p738
+aVMike Miller MEM 11/21/2006 MEM @ CLE L 41 15 6 16 37.5 1 5 20.0 2 2 100.0 1 5 6 7 1 0 3 5 -5
+p739
+aVDahntay Jones MEM 11/21/2006 MEM @ CLE L 26 11 5 6 83.3 0 0 - 1 1 100.0 0 3 3 0 0 0 1 2 14
+p740
+aVBrian Cardinal MEM 11/21/2006 MEM @ CLE L 19 12 4 7 57.1 4 6 66.7 0 0 - 1 2 3 0 4 0 3 0 16
+p741
+aVDamon Stoudamire MEM 11/21/2006 MEM @ CLE L 27 10 4 11 36.4 0 3 0.0 2 2 100.0 1 0 1 5 1 0 1 2 9
+p742
+aVChucky Atkins MEM 11/21/2006 MEM @ CLE L 24 17 6 9 66.7 2 3 66.7 3 4 75.0 0 2 2 3 0 0 0 0 -12
+p743
+aVKyle Lowry MEM 11/21/2006 MEM @ CLE L 12 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 2 1 0 1 0 4
+p744
+aVJake Tsakalidis MEM 11/20/2006 MEM vs. ORL W 24 11 4 5 80.0 0 0 - 3 3 100.0 2 7 9 0 1 1 0 2 30
+p745
+aVHakim Warrick MEM 11/20/2006 MEM vs. ORL W 33 26 11 19 57.9 0 0 - 4 5 80.0 4 6 10 1 0 0 3 1 4
+p746
+aVKyle Lowry MEM 11/20/2006 MEM vs. ORL W 30 16 6 10 60.0 1 2 50.0 3 5 60.0 0 5 5 6 5 0 0 3 21
+p747
+aVStromile Swift MEM 11/20/2006 MEM vs. ORL W 15 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 2 1 -17
+p748
+aVDahntay Jones MEM 11/20/2006 MEM vs. ORL W 23 9 4 6 66.7 0 0 - 1 1 100.0 0 1 1 1 0 1 1 1 11
+p749
+aVRudy Gay MEM 11/20/2006 MEM vs. ORL W 23 4 2 12 16.7 0 1 0.0 0 0 - 1 2 3 1 2 0 2 2 -6
+p750
+aVMike Miller MEM 11/20/2006 MEM vs. ORL W 28 11 4 6 66.7 3 4 75.0 0 0 - 0 1 1 4 2 1 1 0 0
+p751
+aVChucky Atkins MEM 11/20/2006 MEM vs. ORL W 30 6 2 8 25.0 1 2 50.0 1 2 50.0 1 1 2 1 0 0 0 0 8
+p752
+aVDamon Stoudamire MEM 11/20/2006 MEM vs. ORL W 24 4 1 7 14.3 0 1 0.0 2 2 100.0 0 2 2 5 0 0 0 1 -2
+p753
+aVLawrence Roberts MEM 11/20/2006 MEM vs. ORL W 10 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 0 0 0 3 -4
+p754
+aVLawrence Roberts MEM 11/18/2006 MEM @ DAL L 28 11 2 5 40.0 0 0 - 7 9 77.8 3 2 5 1 2 0 0 3 -6
+p755
+aVKyle Lowry MEM 11/18/2006 MEM @ DAL L 20 8 2 5 40.0 1 2 50.0 3 3 100.0 0 1 1 4 0 0 0 1 -1
+p756
+aVStromile Swift MEM 11/18/2006 MEM @ DAL L 17 3 1 3 33.3 0 0 - 1 3 33.3 0 2 2 1 0 1 2 3 4
+p757
+aVJake Tsakalidis MEM 11/18/2006 MEM @ DAL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -3
+p758
+aVDamon Stoudamire MEM 11/18/2006 MEM @ DAL L 22 6 2 4 50.0 1 3 33.3 1 1 100.0 0 3 3 1 1 0 2 1 -13
+p759
+aVChucky Atkins MEM 11/18/2006 MEM @ DAL L 35 17 6 15 40.0 1 2 50.0 4 4 100.0 0 1 1 1 0 0 0 1 1
+p760
+aVBrian Cardinal MEM 11/18/2006 MEM @ DAL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 2
+p761
+aVHakim Warrick MEM 11/18/2006 MEM @ DAL L 30 6 1 13 7.7 0 0 - 4 4 100.0 3 3 6 1 0 0 1 4 -16
+p762
+aVRudy Gay MEM 11/18/2006 MEM @ DAL L 36 23 9 15 60.0 1 1 100.0 4 7 57.1 4 3 7 0 3 1 2 5 6
+p763
+aVDahntay Jones MEM 11/18/2006 MEM @ DAL L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p764
+aVMike Miller MEM 11/18/2006 MEM @ DAL L 32 8 3 10 30.0 0 5 0.0 2 2 100.0 0 4 4 4 0 1 4 4 4
+p765
+aVDahntay Jones MEM 11/17/2006 MEM vs. DAL L 23 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 1 0 1 1 7
+p766
+aVMike Miller MEM 11/17/2006 MEM vs. DAL L 35 16 7 13 53.8 1 4 25.0 1 1 100.0 0 5 5 4 2 0 1 3 -13
+p767
+aVRudy Gay MEM 11/17/2006 MEM vs. DAL L 12 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 3 -10
+p768
+aVHakim Warrick MEM 11/17/2006 MEM vs. DAL L 42 26 10 16 62.5 0 0 - 6 8 75.0 2 6 8 1 1 1 1 6 -3
+p769
+aVDamon Stoudamire MEM 11/17/2006 MEM vs. DAL L 32 11 5 11 45.5 0 0 - 1 1 100.0 1 0 1 5 0 1 1 4 -15
+p770
+aVStromile Swift MEM 11/17/2006 MEM vs. DAL L 32 21 8 13 61.5 0 0 - 5 6 83.3 2 5 7 0 0 2 3 3 -10
+p771
+aVLawrence Roberts MEM 11/17/2006 MEM vs. DAL L 20 8 2 6 33.3 0 0 - 4 7 57.1 3 3 6 1 0 1 0 3 -7
+p772
+aVKyle Lowry MEM 11/17/2006 MEM vs. DAL L 18 7 2 5 40.0 0 0 - 3 4 75.0 1 2 3 2 1 0 2 2 -1
+p773
+aVChucky Atkins MEM 11/17/2006 MEM vs. DAL L 26 11 3 5 60.0 0 0 - 5 5 100.0 0 2 2 5 0 0 3 4 -8
+p774
+aVStromile Swift MEM 11/15/2006 MEM @ SAC L 32 15 6 9 66.7 0 0 - 3 3 100.0 2 2 4 1 0 0 3 2 -8
+p775
+aVRudy Gay MEM 11/15/2006 MEM @ SAC L 24 6 2 7 28.6 0 1 0.0 2 4 50.0 1 4 5 1 0 1 1 1 -9
+p776
+aVHakim Warrick MEM 11/15/2006 MEM @ SAC L 17 4 0 2 0.0 0 0 - 4 6 66.7 0 2 2 0 0 1 1 0 -10
+p777
+aVDamon Stoudamire MEM 11/15/2006 MEM @ SAC L 34 19 8 15 53.3 3 6 50.0 0 0 - 0 1 1 4 2 0 3 3 1
+p778
+aVChucky Atkins MEM 11/15/2006 MEM @ SAC L 24 27 10 11 90.9 1 2 50.0 6 7 85.7 1 1 2 1 0 0 2 5 -2
+p779
+aVKyle Lowry MEM 11/15/2006 MEM @ SAC L 19 7 1 4 25.0 1 3 33.3 4 4 100.0 1 2 3 8 2 0 2 3 7
+p780
+aVDahntay Jones MEM 11/15/2006 MEM @ SAC L 30 8 3 8 37.5 1 3 33.3 1 2 50.0 1 5 6 0 0 0 0 5 5
+p781
+aVMike Miller MEM 11/15/2006 MEM @ SAC L 40 17 6 11 54.5 3 5 60.0 2 2 100.0 1 7 8 4 1 1 4 4 -7
+p782
+aVLawrence Roberts MEM 11/15/2006 MEM @ SAC L 20 8 3 7 42.9 0 0 - 2 3 66.7 3 5 8 1 1 1 0 1 3
+p783
+aVKyle Lowry MEM 11/12/2006 MEM @ LAL L 10 6 1 3 33.3 0 1 0.0 4 4 100.0 0 0 0 2 3 0 1 1 7
+p784
+aVChucky Atkins MEM 11/12/2006 MEM @ LAL L 18 8 4 11 36.4 0 2 0.0 0 0 - 0 0 0 2 0 0 2 1 -10
+p785
+aVLawrence Roberts MEM 11/12/2006 MEM @ LAL L 16 5 0 0 - 0 0 - 5 6 83.3 1 5 6 1 1 2 2 1 1
+p786
+aVRudy Gay MEM 11/12/2006 MEM @ LAL L 21 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 0 2 1 2 3 2
+p787
+aVMike Miller MEM 11/12/2006 MEM @ LAL L 42 21 7 14 50.0 6 10 60.0 1 1 100.0 2 11 13 1 1 0 3 2 -2
+p788
+aVDahntay Jones MEM 11/12/2006 MEM @ LAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p789
+aVDamon Stoudamire MEM 11/12/2006 MEM @ LAL L 23 16 6 11 54.5 1 3 33.3 3 3 100.0 0 5 5 2 0 1 3 0 -10
+p790
+aVHakim Warrick MEM 11/12/2006 MEM @ LAL L 33 10 3 6 50.0 0 0 - 4 10 40.0 3 4 7 1 0 0 1 2 -19
+p791
+aVEddie Jones MEM 11/12/2006 MEM @ LAL L 35 6 3 9 33.3 0 3 0.0 0 0 - 1 0 1 2 2 0 2 4 -7
+p792
+aVStromile Swift MEM 11/12/2006 MEM @ LAL L 32 9 4 14 28.6 0 1 0.0 1 2 50.0 3 4 7 2 0 3 3 2 -11
+p793
+aVDahntay Jones MEM 11/11/2006 MEM @ PHX L 18 2 1 5 20.0 0 0 - 0 2 0.0 0 1 1 0 0 0 2 3 -13
+p794
+aVLawrence Roberts MEM 11/11/2006 MEM @ PHX L 25 10 3 5 60.0 0 0 - 4 4 100.0 2 6 8 1 2 1 1 3 -10
+p795
+aVAlexander Johnson MEM 11/11/2006 MEM @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 0 -6
+p796
+aVDamon Stoudamire MEM 11/11/2006 MEM @ PHX L 19 5 2 11 18.2 0 2 0.0 1 1 100.0 3 1 4 1 1 0 1 1 -16
+p797
+aVMike Miller MEM 11/11/2006 MEM @ PHX L 34 11 3 5 60.0 1 2 50.0 4 6 66.7 0 8 8 1 1 0 1 2 4
+p798
+aVKyle Lowry MEM 11/11/2006 MEM @ PHX L 12 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 2 1 2
+p799
+aVHakim Warrick MEM 11/11/2006 MEM @ PHX L 34 12 5 8 62.5 0 0 - 2 3 66.7 0 4 4 1 1 0 3 5 -5
+p800
+aVChucky Atkins MEM 11/11/2006 MEM @ PHX L 24 20 7 15 46.7 1 3 33.3 5 6 83.3 1 3 4 5 0 0 2 2 21
+p801
+aVRudy Gay MEM 11/11/2006 MEM @ PHX L 30 14 5 11 45.5 0 3 0.0 4 5 80.0 0 9 9 0 0 2 2 1 9
+p802
+aVEddie Jones MEM 11/11/2006 MEM @ PHX L 24 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -18
+p803
+aVStromile Swift MEM 11/11/2006 MEM @ PHX L 19 9 4 11 36.4 0 0 - 1 2 50.0 0 2 2 0 0 1 0 4 -13
+p804
+aVDamon Stoudamire MEM 11/07/2006 MEM vs. HOU L 23 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 5 1 0 1 1 -3
+p805
+aVHakim Warrick MEM 11/07/2006 MEM vs. HOU L 19 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 3 1 -7
+p806
+aVStromile Swift MEM 11/07/2006 MEM vs. HOU L 22 15 6 13 46.2 0 0 - 3 3 100.0 0 2 2 0 1 0 2 4 -1
+p807
+aVLawrence Roberts MEM 11/07/2006 MEM vs. HOU L 17 2 1 3 33.3 0 0 - 0 0 - 5 3 8 1 0 0 3 5 9
+p808
+aVEddie Jones MEM 11/07/2006 MEM vs. HOU L 35 14 4 8 50.0 1 4 25.0 5 6 83.3 1 1 2 1 2 0 1 2 -7
+p809
+aVMike Miller MEM 11/07/2006 MEM vs. HOU L 34 10 3 9 33.3 2 6 33.3 2 2 100.0 0 5 5 3 1 1 3 2 -3
+p810
+aVRudy Gay MEM 11/07/2006 MEM vs. HOU L 17 12 5 10 50.0 2 3 66.7 0 0 - 0 2 2 0 0 1 0 2 -4
+p811
+aVDahntay Jones MEM 11/07/2006 MEM vs. HOU L 13 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 1 0 0 2 2 1
+p812
+aVChucky Atkins MEM 11/07/2006 MEM vs. HOU L 25 9 3 13 23.1 1 5 20.0 2 2 100.0 2 2 4 4 0 0 1 2 -3
+p813
+aVBrian Cardinal MEM 11/07/2006 MEM vs. HOU L 24 6 3 6 50.0 0 1 0.0 0 0 - 2 2 4 2 0 0 2 1 0
+p814
+aVJake Tsakalidis MEM 11/07/2006 MEM vs. HOU L 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -12
+p815
+aVKyle Lowry MEM 11/04/2006 MEM @ DET L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p816
+aVMike Miller MEM 11/04/2006 MEM @ DET L 37 11 4 10 40.0 1 5 20.0 2 2 100.0 0 4 4 2 1 0 0 0 -13
+p817
+aVBrian Cardinal MEM 11/04/2006 MEM @ DET L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 3 3 0 3 2 -7
+p818
+aVEddie Jones MEM 11/04/2006 MEM @ DET L 22 4 1 4 25.0 0 1 0.0 2 4 50.0 0 2 2 1 0 0 0 2 -5
+p819
+aVDamon Stoudamire MEM 11/04/2006 MEM @ DET L 16 5 1 5 20.0 1 1 100.0 2 2 100.0 1 1 2 1 0 0 1 2 -6
+p820
+aVLawrence Roberts MEM 11/04/2006 MEM @ DET L 21 4 1 4 25.0 0 0 - 2 4 50.0 2 5 7 0 0 0 1 2 -2
+p821
+aVRudy Gay MEM 11/04/2006 MEM @ DET L 24 10 4 11 36.4 2 4 50.0 0 0 - 2 7 9 0 0 1 1 4 2
+p822
+aVDahntay Jones MEM 11/04/2006 MEM @ DET L 21 6 3 3 100.0 0 0 - 0 1 0.0 0 0 0 0 1 2 1 3 -6
+p823
+aVJake Tsakalidis MEM 11/04/2006 MEM @ DET L 15 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 1 1 1 0
+p824
+aVChucky Atkins MEM 11/04/2006 MEM @ DET L 25 19 5 13 38.5 1 2 50.0 8 11 72.7 0 1 1 5 1 0 1 3 1
+p825
+aVHakim Warrick MEM 11/04/2006 MEM @ DET L 38 21 7 16 43.8 0 0 - 7 8 87.5 4 2 6 5 0 0 2 2 -7
+p826
+aVLawrence Roberts MEM 11/03/2006 MEM vs. CHA W 24 9 4 8 50.0 0 0 - 1 2 50.0 3 8 11 2 3 2 0 2 7
+p827
+aVDamon Stoudamire MEM 11/03/2006 MEM vs. CHA W 26 8 3 9 33.3 2 3 66.7 0 0 - 2 1 3 7 1 0 1 0 1
+p828
+aVKyle Lowry MEM 11/03/2006 MEM vs. CHA W 17 0 0 1 0.0 0 0 - 0 0 - 3 1 4 4 0 0 2 4 16
+p829
+aVMike Miller MEM 11/03/2006 MEM vs. CHA W 36 27 8 13 61.5 5 7 71.4 6 8 75.0 1 8 9 1 0 1 0 3 24
+p830
+aVRudy Gay MEM 11/03/2006 MEM vs. CHA W 14 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -15
+p831
+aVJake Tsakalidis MEM 11/03/2006 MEM vs. CHA W 24 9 3 10 30.0 0 0 - 3 3 100.0 4 4 8 0 2 1 3 2 6
+p832
+aVDahntay Jones MEM 11/03/2006 MEM vs. CHA W 18 2 1 5 20.0 0 0 - 0 0 - 2 1 3 1 0 0 2 4 16
+p833
+aVHakim Warrick MEM 11/03/2006 MEM vs. CHA W 27 15 4 9 44.4 0 0 - 7 8 87.5 2 4 6 2 1 0 2 3 0
+p834
+aVBrian Cardinal MEM 11/03/2006 MEM vs. CHA W 10 5 2 7 28.6 0 1 0.0 1 1 100.0 1 0 1 0 1 0 0 2 -10
+p835
+aVChucky Atkins MEM 11/03/2006 MEM vs. CHA W 16 9 3 6 50.0 1 3 33.3 2 2 100.0 0 1 1 0 0 0 1 0 19
+p836
+aVEddie Jones MEM 11/03/2006 MEM vs. CHA W 28 10 3 15 20.0 2 7 28.6 2 2 100.0 1 1 2 3 2 0 1 1 1
+p837
+aVBrian Cardinal MEM 11/01/2006 MEM vs. NYK L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -2
+p838
+aVDahntay Jones MEM 11/01/2006 MEM vs. NYK L 15 2 1 5 20.0 0 0 - 0 1 0.0 0 1 1 1 0 1 0 3 -8
+p839
+aVDamon Stoudamire MEM 11/01/2006 MEM vs. NYK L 27 9 2 7 28.6 0 2 0.0 5 6 83.3 3 2 5 6 0 0 1 1 -1
+p840
+aVChucky Atkins MEM 11/01/2006 MEM vs. NYK L 40 25 8 18 44.4 0 7 0.0 9 14 64.3 0 3 3 1 0 0 1 5 4
+p841
+aVRudy Gay MEM 11/01/2006 MEM vs. NYK L 38 21 8 21 38.1 1 1 100.0 4 4 100.0 4 4 8 0 1 4 1 2 3
+p842
+aVJake Tsakalidis MEM 11/01/2006 MEM vs. NYK L 17 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 0 0 0 1 1 0
+p843
+aVEddie Jones MEM 11/01/2006 MEM vs. NYK L 27 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 2 1 0 1 1 -3
+p844
+aVKyle Lowry MEM 11/01/2006 MEM vs. NYK L 28 6 1 4 25.0 0 0 - 4 4 100.0 5 5 10 3 2 1 1 5 7
+p845
+aVMike Miller MEM 11/01/2006 MEM vs. NYK L 52 18 7 23 30.4 4 9 44.4 0 2 0.0 2 4 6 0 2 0 2 4 3
+p846
+aVLawrence Roberts MEM 11/01/2006 MEM vs. NYK L 20 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -10
+p847
+aVAlexander Johnson MEM 11/01/2006 MEM vs. NYK L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p848
+aVHakim Warrick MEM 11/01/2006 MEM vs. NYK L 43 22 9 14 64.3 0 0 - 4 12 33.3 7 5 12 1 0 1 3 6 9
+p849
+a.

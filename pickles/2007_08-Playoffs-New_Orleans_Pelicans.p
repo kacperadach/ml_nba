@@ -1,0 +1,250 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBonzi Wells NOH 05/19/2008 NOH vs. SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -8
+p2
+aVMorris Peterson NOH 05/19/2008 NOH vs. SAS L 24 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 0 1 0 1 3 -2
+p3
+aVDavid West NOH 05/19/2008 NOH vs. SAS L 46 20 8 19 42.1 0 1 0.0 4 4 100.0 2 7 9 1 1 1 1 2 -5
+p4
+aVJannero Pargo NOH 05/19/2008 NOH vs. SAS L 26 18 6 16 37.5 2 6 33.3 4 4 100.0 2 2 4 1 2 0 1 2 -10
+p5
+aVChris Paul NOH 05/19/2008 NOH vs. SAS L 48 18 8 18 44.4 0 1 0.0 2 5 40.0 3 5 8 14 5 0 4 6 -9
+p6
+aVTyson Chandler NOH 05/19/2008 NOH vs. SAS L 42 13 6 8 75.0 0 0 - 1 2 50.0 4 11 15 1 0 1 0 3 -2
+p7
+aVPeja Stojakovic NOH 05/19/2008 NOH vs. SAS L 44 7 3 11 27.3 1 5 20.0 0 0 - 0 4 4 1 0 0 1 2 -5
+p8
+aVMelvin Ely NOH 05/19/2008 NOH vs. SAS L 4 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -4
+p9
+aVMike James NOH 05/15/2008 NOH @ SAS L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 0 -4
+p10
+aVJannero Pargo NOH 05/15/2008 NOH @ SAS L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 0 0 0 0 3 -18
+p11
+aVMorris Peterson NOH 05/15/2008 NOH @ SAS L 22 3 1 5 20.0 1 2 50.0 0 0 - 0 6 6 2 0 0 1 2 5
+p12
+aVPeja Stojakovic NOH 05/15/2008 NOH @ SAS L 36 13 5 10 50.0 1 1 100.0 2 2 100.0 1 5 6 0 0 0 1 1 -22
+p13
+aVBonzi Wells NOH 05/15/2008 NOH @ SAS L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p14
+aVChris Paul NOH 05/15/2008 NOH @ SAS L 38 21 9 18 50.0 0 1 0.0 3 3 100.0 0 6 6 8 3 0 3 5 -16
+p15
+aVDavid West NOH 05/15/2008 NOH @ SAS L 38 10 4 14 28.6 0 0 - 2 2 100.0 1 5 6 1 1 2 2 4 -21
+p16
+aVJulian Wright NOH 05/15/2008 NOH @ SAS L 12 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 0 3
+p17
+aVTyson Chandler NOH 05/15/2008 NOH @ SAS L 40 14 7 8 87.5 0 0 - 0 0 - 2 4 6 1 1 2 0 2 -24
+p18
+aVMelvin Ely NOH 05/15/2008 NOH @ SAS L 10 5 1 3 33.3 0 0 - 3 4 75.0 0 2 2 0 0 0 2 0 2
+p19
+aVRyan Bowen NOH 05/15/2008 NOH @ SAS L 8 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 5
+p20
+aVDavid West NOH 05/13/2008 NOH vs. SAS W 44 38 16 25 64.0 0 0 - 6 7 85.7 4 10 14 5 2 5 2 3 20
+p21
+aVHilton Armstrong NOH 05/13/2008 NOH vs. SAS W 3 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 5
+p22
+aVMorris Peterson NOH 05/13/2008 NOH vs. SAS W 37 12 4 9 44.4 4 6 66.7 0 0 - 0 4 4 0 2 0 0 4 19
+p23
+aVJulian Wright NOH 05/13/2008 NOH vs. SAS W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p24
+aVJannero Pargo NOH 05/13/2008 NOH vs. SAS W 16 10 2 6 33.3 1 4 25.0 5 5 100.0 1 3 4 3 1 0 0 3 4
+p25
+aVBonzi Wells NOH 05/13/2008 NOH vs. SAS W 7 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 1 0 0 0 3 -3
+p26
+aVTyson Chandler NOH 05/13/2008 NOH vs. SAS W 31 4 2 5 40.0 0 0 - 0 2 0.0 3 5 8 0 1 3 2 3 18
+p27
+aVChris Paul NOH 05/13/2008 NOH vs. SAS W 43 22 6 18 33.3 1 2 50.0 9 11 81.8 3 0 3 14 1 0 1 3 21
+p28
+aVMike James NOH 05/13/2008 NOH vs. SAS W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 6
+p29
+aVRyan Bowen NOH 05/13/2008 NOH vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p30
+aVPeja Stojakovic NOH 05/13/2008 NOH vs. SAS W 45 9 3 8 37.5 1 2 50.0 2 2 100.0 0 11 11 1 1 0 1 1 16
+p31
+aVMelvin Ely NOH 05/13/2008 NOH vs. SAS W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -3
+p32
+aVJannero Pargo NOH 05/11/2008 NOH @ SAS L 17 11 4 14 28.6 3 8 37.5 0 0 - 1 1 2 1 1 0 0 1 -11
+p33
+aVMike James NOH 05/11/2008 NOH @ SAS L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 4
+p34
+aVChris Paul NOH 05/11/2008 NOH @ SAS L 31 23 10 16 62.5 0 1 0.0 3 4 75.0 1 5 6 5 3 0 4 3 -13
+p35
+aVTyson Chandler NOH 05/11/2008 NOH @ SAS L 25 2 0 0 - 0 0 - 2 2 100.0 2 2 4 1 1 1 0 5 -12
+p36
+aVHilton Armstrong NOH 05/11/2008 NOH @ SAS L 12 9 4 5 80.0 0 0 - 1 2 50.0 2 4 6 0 0 1 0 0 4
+p37
+aVDavid West NOH 05/11/2008 NOH @ SAS L 34 10 4 15 26.7 0 0 - 2 2 100.0 1 4 5 1 2 3 3 2 -20
+p38
+aVRyan Bowen NOH 05/11/2008 NOH @ SAS L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 4
+p39
+aVJulian Wright NOH 05/11/2008 NOH @ SAS L 19 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 1 0 2 0 -11
+p40
+aVPeja Stojakovic NOH 05/11/2008 NOH @ SAS L 32 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -23
+p41
+aVMelvin Ely NOH 05/11/2008 NOH @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p42
+aVMorris Peterson NOH 05/11/2008 NOH @ SAS L 28 7 2 8 25.0 2 4 50.0 1 2 50.0 0 1 1 1 1 0 0 2 -15
+p43
+aVBonzi Wells NOH 05/11/2008 NOH @ SAS L 18 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 0 2 1 -4
+p44
+aVJannero Pargo NOH 05/08/2008 NOH @ SAS L 16 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 3 0 2 1 2 -5
+p45
+aVChris Paul NOH 05/08/2008 NOH @ SAS L 42 35 15 25 60.0 0 2 0.0 5 5 100.0 2 0 2 9 1 0 1 3 -8
+p46
+aVDavid West NOH 05/08/2008 NOH @ SAS L 42 23 10 19 52.6 0 0 - 3 6 50.0 1 11 12 2 2 3 2 2 -11
+p47
+aVBonzi Wells NOH 05/08/2008 NOH @ SAS L 17 6 3 8 37.5 0 1 0.0 0 0 - 0 4 4 1 0 0 1 2 -8
+p48
+aVTyson Chandler NOH 05/08/2008 NOH @ SAS L 36 12 5 5 100.0 0 0 - 2 4 50.0 3 5 8 0 0 1 1 4 -4
+p49
+aVJulian Wright NOH 05/08/2008 NOH @ SAS L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 1 0 1 0 1 0 0 0 -6
+p50
+aVMorris Peterson NOH 05/08/2008 NOH @ SAS L 23 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 1 3 4 2
+p51
+aVPeja Stojakovic NOH 05/08/2008 NOH @ SAS L 36 8 2 7 28.6 1 3 33.3 3 4 75.0 1 4 5 0 0 0 0 1 -9
+p52
+aVMelvin Ely NOH 05/08/2008 NOH @ SAS L 12 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -7
+p53
+aVRyan Bowen NOH 05/08/2008 NOH @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p54
+aVDavid West NOH 05/05/2008 NOH vs. SAS W 40 10 2 11 18.2 0 0 - 6 6 100.0 1 9 10 5 0 0 4 3 14
+p55
+aVMike James NOH 05/05/2008 NOH vs. SAS W 2 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p56
+aVMelvin Ely NOH 05/05/2008 NOH vs. SAS W 15 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 2 -10
+p57
+aVMorris Peterson NOH 05/05/2008 NOH vs. SAS W 24 12 5 5 100.0 1 1 100.0 1 2 50.0 0 3 3 1 1 0 0 0 26
+p58
+aVPeja Stojakovic NOH 05/05/2008 NOH vs. SAS W 40 25 8 13 61.5 5 7 71.4 4 4 100.0 1 5 6 0 1 0 1 0 32
+p59
+aVChris Paul NOH 05/05/2008 NOH vs. SAS W 41 30 11 20 55.0 1 2 50.0 7 8 87.5 1 1 2 12 1 0 1 3 23
+p60
+aVTyson Chandler NOH 05/05/2008 NOH vs. SAS W 27 5 2 2 100.0 0 0 - 1 2 50.0 2 9 11 1 1 2 0 5 35
+p61
+aVRyan Bowen NOH 05/05/2008 NOH vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p62
+aVHilton Armstrong NOH 05/05/2008 NOH vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p63
+aVJannero Pargo NOH 05/05/2008 NOH vs. SAS W 20 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 2 1 0 0 2 -7
+p64
+aVJulian Wright NOH 05/05/2008 NOH vs. SAS W 12 6 2 7 28.6 2 4 50.0 0 0 - 0 3 3 1 1 0 1 2 -6
+p65
+aVBonzi Wells NOH 05/05/2008 NOH vs. SAS W 14 2 1 6 16.7 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -8
+p66
+aVJulian Wright NOH 05/03/2008 NOH vs. SAS W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 3
+p67
+aVBonzi Wells NOH 05/03/2008 NOH vs. SAS W 19 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 0 1 0 2 1
+p68
+aVJannero Pargo NOH 05/03/2008 NOH vs. SAS W 21 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 5 2 0 0 1 13
+p69
+aVMelvin Ely NOH 05/03/2008 NOH vs. SAS W 13 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 4 6
+p70
+aVTyson Chandler NOH 05/03/2008 NOH vs. SAS W 35 10 4 7 57.1 0 0 - 2 2 100.0 6 9 15 0 0 3 1 2 13
+p71
+aVPeja Stojakovic NOH 05/03/2008 NOH vs. SAS W 38 22 9 15 60.0 2 4 50.0 2 2 100.0 2 2 4 0 1 0 0 2 17
+p72
+aVMorris Peterson NOH 05/03/2008 NOH vs. SAS W 25 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 2 1 0 0 3 15
+p73
+aVRyan Bowen NOH 05/03/2008 NOH vs. SAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 4
+p74
+aVChris Paul NOH 05/03/2008 NOH vs. SAS W 41 17 7 16 43.8 0 1 0.0 3 6 50.0 2 2 4 13 4 0 2 3 13
+p75
+aVDavid West NOH 05/03/2008 NOH vs. SAS W 38 30 13 23 56.5 0 0 - 4 5 80.0 1 8 9 2 2 1 4 0 10
+p76
+aVHilton Armstrong NOH 04/29/2008 NOH vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p77
+aVBonzi Wells NOH 04/29/2008 NOH vs. DAL W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p78
+aVJannero Pargo NOH 04/29/2008 NOH vs. DAL W 28 17 7 9 77.8 2 3 66.7 1 4 25.0 0 3 3 1 0 0 1 1 8
+p79
+aVChris Paul NOH 04/29/2008 NOH vs. DAL W 44 24 10 19 52.6 2 3 66.7 2 4 50.0 2 9 11 15 2 0 0 2 11
+p80
+aVTyson Chandler NOH 04/29/2008 NOH vs. DAL W 41 10 5 9 55.6 0 0 - 0 0 - 7 7 14 1 0 3 2 4 18
+p81
+aVPeja Stojakovic NOH 04/29/2008 NOH vs. DAL W 40 11 2 12 16.7 2 4 50.0 5 5 100.0 0 6 6 0 1 0 1 1 -7
+p82
+aVMorris Peterson NOH 04/29/2008 NOH vs. DAL W 17 6 2 6 33.3 2 3 66.7 0 0 - 0 0 0 0 0 0 0 3 -1
+p83
+aVDavid West NOH 04/29/2008 NOH vs. DAL W 45 25 10 17 58.8 0 0 - 5 5 100.0 3 4 7 4 0 3 0 3 11
+p84
+aVJulian Wright NOH 04/29/2008 NOH vs. DAL W 13 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 1 3 0 1 3 -4
+p85
+aVHilton Armstrong NOH 04/27/2008 NOH @ DAL W 13 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 2 4 -11
+p86
+aVRyan Bowen NOH 04/27/2008 NOH @ DAL W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p87
+aVPeja Stojakovic NOH 04/27/2008 NOH @ DAL W 35 19 6 13 46.2 3 4 75.0 4 4 100.0 0 5 5 0 0 0 0 1 7
+p88
+aVDavid West NOH 04/27/2008 NOH @ DAL W 37 24 10 21 47.6 0 0 - 4 4 100.0 2 7 9 2 1 1 1 3 11
+p89
+aVJulian Wright NOH 04/27/2008 NOH @ DAL W 19 11 5 6 83.3 0 1 0.0 1 2 50.0 0 2 2 0 2 0 1 1 12
+p90
+aVTyson Chandler NOH 04/27/2008 NOH @ DAL W 32 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 3 22
+p91
+aVChris Paul NOH 04/27/2008 NOH @ DAL W 37 16 6 14 42.9 0 2 0.0 4 5 80.0 0 7 7 8 1 0 1 3 12
+p92
+aVMorris Peterson NOH 04/27/2008 NOH @ DAL W 27 10 4 5 80.0 0 1 0.0 2 2 100.0 0 3 3 0 0 2 0 1 -7
+p93
+aVBonzi Wells NOH 04/27/2008 NOH @ DAL W 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 11
+p94
+aVJannero Pargo NOH 04/27/2008 NOH @ DAL W 25 11 4 9 44.4 1 2 50.0 2 4 50.0 0 6 6 2 1 0 2 1 14
+p95
+aVTyson Chandler NOH 04/25/2008 NOH @ DAL L 32 4 2 5 40.0 0 0 - 0 0 - 4 7 11 0 0 0 1 5 -10
+p96
+aVMorris Peterson NOH 04/25/2008 NOH @ DAL L 10 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 3 -17
+p97
+aVPeja Stojakovic NOH 04/25/2008 NOH @ DAL L 40 13 4 12 33.3 3 5 60.0 2 2 100.0 1 9 10 0 0 0 1 2 -6
+p98
+aVDavid West NOH 04/25/2008 NOH @ DAL L 40 14 6 20 30.0 0 0 - 2 2 100.0 3 6 9 3 1 0 1 4 -15
+p99
+aVHilton Armstrong NOH 04/25/2008 NOH @ DAL L 12 0 0 2 0.0 0 0 - 0 0 - 3 3 6 0 0 1 2 3 -6
+p100
+aVJannero Pargo NOH 04/25/2008 NOH @ DAL L 32 30 12 20 60.0 4 7 57.1 2 2 100.0 0 1 1 2 1 0 3 2 14
+p101
+aVJulian Wright NOH 04/25/2008 NOH @ DAL L 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 1 0 1 5
+p102
+aVChris Paul NOH 04/25/2008 NOH @ DAL L 42 16 4 18 22.2 1 3 33.3 7 7 100.0 1 1 2 10 0 1 1 5 -17
+p103
+aVBonzi Wells NOH 04/25/2008 NOH @ DAL L 23 6 3 7 42.9 0 0 - 0 0 - 0 1 1 2 0 2 0 2 2
+p104
+aVJannero Pargo NOH 04/22/2008 NOH vs. DAL W 22 10 4 8 50.0 2 4 50.0 0 0 - 0 0 0 4 2 0 1 2 4
+p105
+aVDavid West NOH 04/22/2008 NOH vs. DAL W 40 27 11 17 64.7 1 1 100.0 4 4 100.0 0 4 4 5 1 0 1 4 29
+p106
+aVRyan Bowen NOH 04/22/2008 NOH vs. DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -1
+p107
+aVPeja Stojakovic NOH 04/22/2008 NOH vs. DAL W 37 22 8 13 61.5 5 7 71.4 1 2 50.0 0 2 2 2 0 0 0 2 26
+p108
+aVJulian Wright NOH 04/22/2008 NOH vs. DAL W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p109
+aVBonzi Wells NOH 04/22/2008 NOH vs. DAL W 19 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 1 2 0 1 3 3
+p110
+aVChris Paul NOH 04/22/2008 NOH vs. DAL W 39 32 10 16 62.5 0 2 0.0 12 14 85.7 0 5 5 17 3 0 3 5 24
+p111
+aVMorris Peterson NOH 04/22/2008 NOH vs. DAL W 22 12 5 7 71.4 2 4 50.0 0 0 - 0 2 2 0 0 0 0 1 11
+p112
+aVTyson Chandler NOH 04/22/2008 NOH vs. DAL W 28 10 4 7 57.1 0 0 - 2 2 100.0 3 8 11 0 0 3 0 5 24
+p113
+aVHilton Armstrong NOH 04/22/2008 NOH vs. DAL W 20 8 3 4 75.0 0 0 - 2 4 50.0 0 2 2 0 0 2 0 3 0
+p114
+aVMorris Peterson NOH 04/19/2008 NOH vs. DAL W 20 6 3 6 50.0 0 2 0.0 0 0 - 1 2 3 1 0 0 0 3 2
+p115
+aVHilton Armstrong NOH 04/19/2008 NOH vs. DAL W 7 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 1 0 2 -3
+p116
+aVRyan Bowen NOH 04/19/2008 NOH vs. DAL W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -7
+p117
+aVChris Paul NOH 04/19/2008 NOH vs. DAL W 41 35 15 23 65.2 0 1 0.0 5 7 71.4 1 2 3 10 4 1 1 2 16
+p118
+aVJulian Wright NOH 04/19/2008 NOH vs. DAL W 7 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -4
+p119
+aVJannero Pargo NOH 04/19/2008 NOH vs. DAL W 26 5 1 9 11.1 0 4 0.0 3 5 60.0 0 2 2 3 1 0 2 2 9
+p120
+aVPeja Stojakovic NOH 04/19/2008 NOH vs. DAL W 32 14 5 10 50.0 4 8 50.0 0 0 - 0 5 5 2 1 1 2 4 4
+p121
+aVBonzi Wells NOH 04/19/2008 NOH vs. DAL W 21 8 4 8 50.0 0 0 - 0 2 0.0 1 4 5 2 1 0 1 5 16
+p122
+aVDavid West NOH 04/19/2008 NOH vs. DAL W 41 23 8 18 44.4 0 0 - 7 8 87.5 2 6 8 3 0 4 0 2 12
+p123
+aVTyson Chandler NOH 04/19/2008 NOH vs. DAL W 41 10 5 9 55.6 0 0 - 0 0 - 7 8 15 0 1 1 2 2 15
+p124
+a.

@@ -1,0 +1,916 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDanilo Gallinari DEN 01/22/2017 DEN @ MIN L 35 14 4 10 40.0 2 4 50.0 4 4 100.0 1 5 6 4 0 0 1 0 -13
+p2
+aVJameer Nelson DEN 01/22/2017 DEN @ MIN L 28 9 4 9 44.4 0 3 0.0 1 2 50.0 0 2 2 2 0 0 4 3 -16
+p3
+aVGary Harris DEN 01/22/2017 DEN @ MIN L 35 22 9 13 69.2 2 4 50.0 2 2 100.0 2 4 6 3 1 0 2 1 7
+p4
+aVWilson Chandler DEN 01/22/2017 DEN @ MIN L 34 17 6 11 54.5 1 2 50.0 4 5 80.0 2 4 6 0 1 1 2 2 -5
+p5
+aVJamal Murray DEN 01/22/2017 DEN @ MIN L 20 17 7 13 53.8 0 2 0.0 3 4 75.0 1 4 5 3 1 0 1 2 13
+p6
+aVNikola Jokic DEN 01/22/2017 DEN @ MIN L 27 18 8 15 53.3 0 3 0.0 2 2 100.0 5 3 8 4 3 1 4 5 -7
+p7
+aVKenneth Faried DEN 01/22/2017 DEN @ MIN L 14 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p8
+aVWill Barton DEN 01/22/2017 DEN @ MIN L 26 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 6 0 1 2 1 0
+p9
+aVDarrell Arthur DEN 01/22/2017 DEN @ MIN L 21 10 4 9 44.4 2 6 33.3 0 0 - 1 2 3 4 1 3 1 4 4
+p10
+aVWilson Chandler DEN 01/21/2017 DEN vs. LAC W 23 18 8 12 66.7 2 2 100.0 0 0 - 2 5 7 1 0 0 2 1 21
+p11
+aVMalik Beasley DEN 01/21/2017 DEN vs. LAC W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 0
+p12
+aVWill Barton DEN 01/21/2017 DEN vs. LAC W 29 18 8 13 61.5 2 4 50.0 0 0 - 1 2 3 3 1 0 0 1 16
+p13
+aVJusuf Nurkic DEN 01/21/2017 DEN vs. LAC W 20 12 4 7 57.1 0 0 - 4 7 57.1 0 5 5 3 0 0 0 2 -4
+p14
+aVJuan Hernangomez DEN 01/21/2017 DEN vs. LAC W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -6
+p15
+aVJamal Murray DEN 01/21/2017 DEN vs. LAC W 19 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 3 1 0 3 1 9
+p16
+aVMike Miller DEN 01/21/2017 DEN vs. LAC W 5 2 0 0 - 0 0 - 2 2 100.0 1 2 3 1 0 0 0 0 -6
+p17
+aVNikola Jokic DEN 01/21/2017 DEN vs. LAC W 21 19 8 11 72.7 2 3 66.7 1 1 100.0 3 7 10 3 0 0 3 3 20
+p18
+aVDarrell Arthur DEN 01/21/2017 DEN vs. LAC W 13 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 0 1 0 0 0 17
+p19
+aVKenneth Faried DEN 01/21/2017 DEN vs. LAC W 24 13 5 7 71.4 0 0 - 3 4 75.0 3 4 7 2 0 0 0 2 10
+p20
+aVJameer Nelson DEN 01/21/2017 DEN vs. LAC W 29 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 8 0 0 1 2 20
+p21
+aVDanilo Gallinari DEN 01/21/2017 DEN vs. LAC W 32 18 5 8 62.5 2 3 66.7 6 6 100.0 0 4 4 2 0 0 0 1 25
+p22
+aVEmmanuel Mudiay DEN 01/21/2017 DEN vs. LAC W 17 3 0 8 0.0 0 3 0.0 3 4 75.0 1 1 2 3 0 0 1 1 3
+p23
+aVWill Barton DEN 01/19/2017 DEN @ SAS L 36 18 5 12 41.7 1 5 20.0 7 7 100.0 0 3 3 7 0 2 3 3 -16
+p24
+aVMike Miller DEN 01/19/2017 DEN @ SAS L 11 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 1 0 0 1 1 4
+p25
+aVKenneth Faried DEN 01/19/2017 DEN @ SAS L 25 5 2 7 28.6 0 0 - 1 2 50.0 3 6 9 1 0 0 2 1 -18
+p26
+aVJuan Hernangomez DEN 01/19/2017 DEN @ SAS L 38 8 3 9 33.3 1 4 25.0 1 2 50.0 2 4 6 1 1 1 1 3 -16
+p27
+aVNikola Jokic DEN 01/19/2017 DEN @ SAS L 38 35 14 22 63.6 2 4 50.0 5 5 100.0 4 8 12 4 0 2 3 2 -17
+p28
+aVJameer Nelson DEN 01/19/2017 DEN @ SAS L 27 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 9 2 1 1 4 5
+p29
+aVJamal Murray DEN 01/19/2017 DEN @ SAS L 26 13 4 15 26.7 2 8 25.0 3 3 100.0 1 5 6 2 0 0 0 2 2
+p30
+aVJusuf Nurkic DEN 01/19/2017 DEN @ SAS L 14 5 2 5 40.0 0 0 - 1 5 20.0 0 1 1 0 0 1 1 1 4
+p31
+aVEmmanuel Mudiay DEN 01/19/2017 DEN @ SAS L 26 12 4 10 40.0 2 4 50.0 2 2 100.0 0 1 1 2 2 0 3 2 -18
+p32
+aVKenneth Faried DEN 01/17/2017 DEN @ LAL W 30 20 9 10 90.0 0 0 - 2 4 50.0 1 6 7 2 1 0 1 1 11
+p33
+aVWill Barton DEN 01/17/2017 DEN @ LAL W 35 26 9 16 56.3 5 5 100.0 3 5 60.0 1 3 4 8 0 0 1 3 21
+p34
+aVNikola Jokic DEN 01/17/2017 DEN @ LAL W 34 29 12 22 54.5 1 5 20.0 4 6 66.7 7 8 15 1 0 3 2 3 21
+p35
+aVJamal Murray DEN 01/17/2017 DEN @ LAL W 13 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 0 2 3 2 -15
+p36
+aVDanilo Gallinari DEN 01/17/2017 DEN @ LAL W 39 14 6 13 46.2 2 6 33.3 0 1 0.0 0 5 5 6 1 0 1 1 16
+p37
+aVJusuf Nurkic DEN 01/17/2017 DEN @ LAL W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 1 -7
+p38
+aVWilson Chandler DEN 01/17/2017 DEN @ LAL W 26 14 5 11 45.5 0 2 0.0 4 5 80.0 2 4 6 1 0 4 2 3 -12
+p39
+aVEmmanuel Mudiay DEN 01/17/2017 DEN @ LAL W 28 14 5 7 71.4 2 3 66.7 2 3 66.7 0 2 2 6 2 0 3 0 11
+p40
+aVJameer Nelson DEN 01/17/2017 DEN @ LAL W 20 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 4 1 0 3 2 -7
+p41
+aVJuan Hernangomez DEN 01/17/2017 DEN @ LAL W 7 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 1 0 1 -9
+p42
+aVEmmanuel Mudiay DEN 01/16/2017 DEN vs. ORL W 37 18 6 12 50.0 2 4 50.0 4 4 100.0 0 2 2 13 2 1 4 4 24
+p43
+aVWilson Chandler DEN 01/16/2017 DEN vs. ORL W 21 9 4 12 33.3 1 6 16.7 0 0 - 3 5 8 3 1 0 2 4 -10
+p44
+aVJusuf Nurkic DEN 01/16/2017 DEN vs. ORL W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -4
+p45
+aVWill Barton DEN 01/16/2017 DEN vs. ORL W 24 11 5 9 55.6 1 3 33.3 0 0 - 0 0 0 3 1 0 1 2 -13
+p46
+aVKenneth Faried DEN 01/16/2017 DEN vs. ORL W 33 20 10 12 83.3 0 1 0.0 0 0 - 1 4 5 2 1 1 0 2 22
+p47
+aVGary Harris DEN 01/16/2017 DEN vs. ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p48
+aVDanilo Gallinari DEN 01/16/2017 DEN vs. ORL W 40 15 5 11 45.5 2 6 33.3 3 4 75.0 0 6 6 2 1 0 3 0 15
+p49
+aVJuan Hernangomez DEN 01/16/2017 DEN vs. ORL W 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 1
+p50
+aVJamal Murray DEN 01/16/2017 DEN vs. ORL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p51
+aVJameer Nelson DEN 01/16/2017 DEN vs. ORL W 32 18 7 10 70.0 2 5 40.0 2 2 100.0 1 3 4 4 1 0 1 2 15
+p52
+aVNikola Jokic DEN 01/16/2017 DEN vs. ORL W 36 30 13 19 68.4 1 2 50.0 3 5 60.0 3 8 11 5 3 0 2 2 18
+p53
+aVJuan Hernangomez DEN 01/12/2017 DEN vs. IND W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p54
+aVEmmanuel Mudiay DEN 01/12/2017 DEN vs. IND W 22 9 3 7 42.9 2 5 40.0 1 2 50.0 0 2 2 7 2 1 2 3 28
+p55
+aVDanilo Gallinari DEN 01/12/2017 DEN vs. IND W 30 18 7 11 63.6 4 6 66.7 0 0 - 0 2 2 3 0 0 1 1 27
+p56
+aVGary Harris DEN 01/12/2017 DEN vs. IND W 34 16 6 11 54.5 1 1 100.0 3 3 100.0 0 5 5 6 1 0 1 2 26
+p57
+aVJameer Nelson DEN 01/12/2017 DEN vs. IND W 24 11 4 7 57.1 3 6 50.0 0 0 - 0 0 0 5 1 0 1 4 2
+p58
+aVJusuf Nurkic DEN 01/12/2017 DEN vs. IND W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 0 3
+p59
+aVNikola Jokic DEN 01/12/2017 DEN vs. IND W 30 22 7 11 63.6 2 3 66.7 6 6 100.0 3 7 10 8 1 1 3 1 29
+p60
+aVMalik Beasley DEN 01/12/2017 DEN vs. IND W 3 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p61
+aVKenneth Faried DEN 01/12/2017 DEN vs. IND W 16 15 6 8 75.0 0 0 - 3 3 100.0 4 5 9 0 1 1 2 2 0
+p62
+aVWilson Chandler DEN 01/12/2017 DEN vs. IND W 32 21 8 13 61.5 2 5 40.0 3 3 100.0 0 7 7 3 2 0 1 2 22
+p63
+aVWill Barton DEN 01/12/2017 DEN vs. IND W 24 9 3 10 30.0 1 2 50.0 2 2 100.0 3 4 7 3 1 0 0 1 2
+p64
+aVMike Miller DEN 01/12/2017 DEN vs. IND W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -2
+p65
+aVJamal Murray DEN 01/12/2017 DEN vs. IND W 11 8 3 6 50.0 0 3 0.0 2 2 100.0 1 0 1 2 1 0 2 0 3
+p66
+aVWilson Chandler DEN 01/07/2017 DEN @ OKC L 32 24 10 18 55.6 2 4 50.0 2 4 50.0 0 8 8 2 0 2 2 2 0
+p67
+aVJuan Hernangomez DEN 01/07/2017 DEN @ OKC L 14 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 1 12
+p68
+aVDarrell Arthur DEN 01/07/2017 DEN @ OKC L 24 10 4 9 44.4 2 4 50.0 0 0 - 1 3 4 1 1 0 1 4 -6
+p69
+aVEmmanuel Mudiay DEN 01/07/2017 DEN @ OKC L 26 0 0 9 0.0 0 4 0.0 0 0 - 1 0 1 4 1 0 2 2 -24
+p70
+aVKenneth Faried DEN 01/07/2017 DEN @ OKC L 19 4 2 5 40.0 0 0 - 0 0 - 4 6 10 1 0 0 1 3 -3
+p71
+aVJameer Nelson DEN 01/07/2017 DEN @ OKC L 22 13 5 10 50.0 2 3 66.7 1 3 33.3 1 0 1 8 0 0 2 2 9
+p72
+aVDanilo Gallinari DEN 01/07/2017 DEN @ OKC L 35 15 5 18 27.8 0 4 0.0 5 5 100.0 0 7 7 0 1 0 0 4 -25
+p73
+aVWill Barton DEN 01/07/2017 DEN @ OKC L 28 21 6 11 54.5 3 5 60.0 6 6 100.0 2 5 7 1 1 0 2 3 -23
+p74
+aVJusuf Nurkic DEN 01/07/2017 DEN @ OKC L 26 11 5 14 35.7 0 0 - 1 4 25.0 5 4 9 0 3 1 2 2 -11
+p75
+aVJamal Murray DEN 01/07/2017 DEN @ OKC L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 1 0 0 -4
+p76
+aVJusuf Nurkic DEN 01/05/2017 DEN vs. SAS L 21 7 3 4 75.0 0 0 - 1 2 50.0 1 5 6 0 0 0 1 4 -19
+p77
+aVEmmanuel Mudiay DEN 01/05/2017 DEN vs. SAS L 28 8 4 10 40.0 0 3 0.0 0 0 - 0 1 1 5 0 1 2 0 -18
+p78
+aVWilson Chandler DEN 01/05/2017 DEN vs. SAS L 24 11 5 10 50.0 1 4 25.0 0 0 - 1 6 7 2 0 1 1 2 -10
+p79
+aVAlonzo Gee DEN 01/05/2017 DEN vs. SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -6
+p80
+aVWill Barton DEN 01/05/2017 DEN vs. SAS L 15 7 2 6 33.3 0 1 0.0 3 3 100.0 0 1 1 2 3 0 1 1 -5
+p81
+aVDanilo Gallinari DEN 01/05/2017 DEN vs. SAS L 28 15 5 13 38.5 1 3 33.3 4 4 100.0 0 3 3 1 0 0 0 1 -5
+p82
+aVJameer Nelson DEN 01/05/2017 DEN vs. SAS L 20 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 4 2 0 1 2 -10
+p83
+aVMike Miller DEN 01/05/2017 DEN vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -6
+p84
+aVNikola Jokic DEN 01/05/2017 DEN vs. SAS L 27 19 8 10 80.0 0 0 - 3 4 75.0 5 6 11 5 1 0 3 2 -9
+p85
+aVDarrell Arthur DEN 01/05/2017 DEN vs. SAS L 19 13 5 8 62.5 2 4 50.0 1 1 100.0 1 3 4 0 0 1 0 1 -12
+p86
+aVJamal Murray DEN 01/05/2017 DEN vs. SAS L 23 8 3 8 37.5 1 4 25.0 1 1 100.0 2 0 2 0 0 0 0 1 -25
+p87
+aVGary Harris DEN 01/05/2017 DEN vs. SAS L 26 8 3 11 27.3 1 4 25.0 1 2 50.0 1 0 1 5 1 0 1 1 -15
+p88
+aVWilson Chandler DEN 01/03/2017 DEN vs. SAC L 30 10 3 10 30.0 2 7 28.6 2 2 100.0 0 3 3 2 1 0 0 4 -21
+p89
+aVJamal Murray DEN 01/03/2017 DEN vs. SAC L 14 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 1 1 0 2 2 -5
+p90
+aVJuan Hernangomez DEN 01/03/2017 DEN vs. SAC L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 5
+p91
+aVDanilo Gallinari DEN 01/03/2017 DEN vs. SAC L 33 24 8 12 66.7 4 6 66.7 4 4 100.0 0 4 4 3 0 1 1 1 2
+p92
+aVDarrell Arthur DEN 01/03/2017 DEN vs. SAC L 18 12 4 6 66.7 4 5 80.0 0 0 - 0 3 3 0 0 1 2 3 10
+p93
+aVEmmanuel Mudiay DEN 01/03/2017 DEN vs. SAC L 28 5 2 8 25.0 1 5 20.0 0 0 - 1 1 2 6 0 0 1 1 2
+p94
+aVGary Harris DEN 01/03/2017 DEN vs. SAC L 32 15 6 11 54.5 3 4 75.0 0 0 - 1 0 1 3 1 0 0 0 0
+p95
+aVJusuf Nurkic DEN 01/03/2017 DEN vs. SAC L 18 16 6 8 75.0 0 0 - 4 4 100.0 1 5 6 4 1 1 2 1 8
+p96
+aVJameer Nelson DEN 01/03/2017 DEN vs. SAC L 19 6 2 7 28.6 2 5 40.0 0 0 - 0 1 1 4 0 0 3 2 -14
+p97
+aVWill Barton DEN 01/03/2017 DEN vs. SAC L 16 3 1 3 33.3 1 1 100.0 0 0 - 0 4 4 0 1 0 2 1 -7
+p98
+aVNikola Jokic DEN 01/03/2017 DEN vs. SAC L 28 18 7 11 63.6 1 2 50.0 3 3 100.0 1 5 6 5 1 1 1 3 -20
+p99
+aVMalik Beasley DEN 01/03/2017 DEN vs. SAC L 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p100
+aVEmmanuel Mudiay DEN 01/02/2017 DEN @ GSW L 31 8 4 11 36.4 0 3 0.0 0 0 - 0 2 2 4 1 0 1 2 -8
+p101
+aVJameer Nelson DEN 01/02/2017 DEN @ GSW L 17 5 2 4 50.0 0 2 0.0 1 1 100.0 0 0 0 4 0 0 4 4 0
+p102
+aVNikola Jokic DEN 01/02/2017 DEN @ GSW L 25 21 8 17 47.1 1 2 50.0 4 4 100.0 8 5 13 5 1 0 2 2 -5
+p103
+aVJusuf Nurkic DEN 01/02/2017 DEN @ GSW L 21 15 6 8 75.0 0 0 - 3 4 75.0 0 6 6 4 1 1 1 3 -4
+p104
+aVWilson Chandler DEN 01/02/2017 DEN @ GSW L 37 21 8 16 50.0 3 8 37.5 2 3 66.7 1 3 4 2 2 1 3 2 -4
+p105
+aVDanilo Gallinari DEN 01/02/2017 DEN @ GSW L 32 19 7 15 46.7 2 7 28.6 3 4 75.0 1 7 8 4 2 0 1 3 -9
+p106
+aVJamal Murray DEN 01/02/2017 DEN @ GSW L 19 5 2 7 28.6 1 5 20.0 0 0 - 1 3 4 3 1 0 0 0 -4
+p107
+aVWill Barton DEN 01/02/2017 DEN @ GSW L 27 14 6 11 54.5 2 5 40.0 0 0 - 2 5 7 4 0 0 2 2 4
+p108
+aVGary Harris DEN 01/02/2017 DEN @ GSW L 31 11 5 12 41.7 0 3 0.0 1 2 50.0 3 1 4 3 2 0 0 3 -10
+p109
+aVWill Barton DEN 12/30/2016 DEN vs. PHI L 28 11 4 13 30.8 1 3 33.3 2 3 66.7 0 5 5 4 1 1 1 1 0
+p110
+aVWilson Chandler DEN 12/30/2016 DEN vs. PHI L 36 10 4 8 50.0 1 3 33.3 1 2 50.0 2 7 9 3 0 0 2 1 -10
+p111
+aVGary Harris DEN 12/30/2016 DEN vs. PHI L 34 17 5 12 41.7 2 6 33.3 5 6 83.3 1 3 4 4 1 0 3 2 3
+p112
+aVDanilo Gallinari DEN 12/30/2016 DEN vs. PHI L 29 18 4 11 36.4 1 5 20.0 9 9 100.0 1 4 5 2 0 0 1 5 7
+p113
+aVJameer Nelson DEN 12/30/2016 DEN vs. PHI L 19 11 4 5 80.0 3 3 100.0 0 0 - 0 0 0 5 0 0 0 2 -9
+p114
+aVJusuf Nurkic DEN 12/30/2016 DEN vs. PHI L 19 2 1 6 16.7 0 0 - 0 0 - 2 2 4 1 1 0 1 4 3
+p115
+aVEmmanuel Mudiay DEN 12/30/2016 DEN vs. PHI L 29 22 7 11 63.6 3 5 60.0 5 8 62.5 1 3 4 5 1 0 0 4 7
+p116
+aVNikola Jokic DEN 12/30/2016 DEN vs. PHI L 22 25 9 13 69.2 0 0 - 7 9 77.8 2 5 7 4 0 0 2 5 -1
+p117
+aVKenneth Faried DEN 12/30/2016 DEN vs. PHI L 12 6 1 3 33.3 0 0 - 4 4 100.0 2 4 6 0 1 0 0 2 -6
+p118
+aVJamal Murray DEN 12/30/2016 DEN vs. PHI L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p119
+aVJameer Nelson DEN 12/28/2016 DEN vs. MIN W 21 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 3 0 0 2 1 -2
+p120
+aVWilson Chandler DEN 12/28/2016 DEN vs. MIN W 37 17 6 17 35.3 3 9 33.3 2 2 100.0 2 5 7 2 1 1 1 2 2
+p121
+aVEmmanuel Mudiay DEN 12/28/2016 DEN vs. MIN W 27 11 5 10 50.0 1 2 50.0 0 0 - 1 1 2 5 1 0 2 2 4
+p122
+aVWill Barton DEN 12/28/2016 DEN vs. MIN W 19 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 1 1
+p123
+aVJusuf Nurkic DEN 12/28/2016 DEN vs. MIN W 9 4 2 2 100.0 0 0 - 0 0 - 0 4 4 1 0 1 2 1 4
+p124
+aVKenneth Faried DEN 12/28/2016 DEN vs. MIN W 16 6 3 4 75.0 0 0 - 0 2 0.0 2 3 5 2 0 0 0 1 1
+p125
+aVJamal Murray DEN 12/28/2016 DEN vs. MIN W 13 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 0 3 1 0 3 9
+p126
+aVDanilo Gallinari DEN 12/28/2016 DEN vs. MIN W 35 18 6 9 66.7 2 4 50.0 4 4 100.0 0 5 5 2 0 0 3 3 -7
+p127
+aVGary Harris DEN 12/28/2016 DEN vs. MIN W 29 17 7 12 58.3 2 5 40.0 1 1 100.0 1 3 4 1 0 0 2 0 1
+p128
+aVNikola Jokic DEN 12/28/2016 DEN vs. MIN W 34 16 6 12 50.0 0 2 0.0 4 5 80.0 2 6 8 11 0 1 2 3 -3
+p129
+aVKenneth Faried DEN 12/26/2016 DEN @ LAC W 19 8 3 7 42.9 0 0 - 2 2 100.0 5 5 10 1 1 1 0 2 -17
+p130
+aVJamal Murray DEN 12/26/2016 DEN @ LAC W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -1
+p131
+aVJameer Nelson DEN 12/26/2016 DEN @ LAC W 30 5 2 10 20.0 1 6 16.7 0 0 - 0 1 1 6 1 0 0 0 0
+p132
+aVWilson Chandler DEN 12/26/2016 DEN @ LAC W 29 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 3 0 0 5 2 -7
+p133
+aVWill Barton DEN 12/26/2016 DEN @ LAC W 32 23 8 14 57.1 3 6 50.0 4 5 80.0 0 8 8 6 0 0 0 4 7
+p134
+aVDanilo Gallinari DEN 12/26/2016 DEN @ LAC W 37 23 5 12 41.7 2 5 40.0 11 12 91.7 2 9 11 1 3 0 2 0 10
+p135
+aVEmmanuel Mudiay DEN 12/26/2016 DEN @ LAC W 18 9 3 7 42.9 2 5 40.0 1 2 50.0 0 2 2 0 2 0 4 3 4
+p136
+aVGary Harris DEN 12/26/2016 DEN @ LAC W 31 10 2 9 22.2 1 4 25.0 5 6 83.3 1 3 4 1 0 0 0 2 7
+p137
+aVNikola Jokic DEN 12/26/2016 DEN @ LAC W 32 24 11 16 68.8 2 3 66.7 0 1 0.0 2 8 10 4 3 0 2 4 17
+p138
+aVGary Harris DEN 12/23/2016 DEN vs. ATL L 30 12 5 12 41.7 0 3 0.0 2 3 66.7 2 0 2 4 1 1 0 1 -9
+p139
+aVNikola Jokic DEN 12/23/2016 DEN vs. ATL L 19 8 3 4 75.0 1 1 100.0 1 2 50.0 1 6 7 6 0 3 5 6 5
+p140
+aVDarrell Arthur DEN 12/23/2016 DEN vs. ATL L 11 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 4 -1
+p141
+aVJuan Hernangomez DEN 12/23/2016 DEN vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p142
+aVJamal Murray DEN 12/23/2016 DEN vs. ATL L 17 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 9
+p143
+aVWill Barton DEN 12/23/2016 DEN vs. ATL L 34 12 4 9 44.4 1 3 33.3 3 5 60.0 0 4 4 5 0 1 0 3 -5
+p144
+aVEmmanuel Mudiay DEN 12/23/2016 DEN vs. ATL L 28 17 3 8 37.5 1 3 33.3 10 10 100.0 0 3 3 5 0 0 2 1 -7
+p145
+aVKenneth Faried DEN 12/23/2016 DEN vs. ATL L 21 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 1 1 2 -3
+p146
+aVWilson Chandler DEN 12/23/2016 DEN vs. ATL L 27 19 9 17 52.9 1 4 25.0 0 3 0.0 1 10 11 2 1 0 0 5 -4
+p147
+aVJameer Nelson DEN 12/23/2016 DEN vs. ATL L 21 8 3 6 50.0 1 3 33.3 1 2 50.0 1 0 1 2 1 0 1 2 6
+p148
+aVDanilo Gallinari DEN 12/23/2016 DEN vs. ATL L 33 21 5 10 50.0 2 4 50.0 9 10 90.0 2 9 11 2 0 1 3 3 7
+p149
+aVWill Barton DEN 12/20/2016 DEN @ LAC L 32 22 9 15 60.0 2 5 40.0 2 3 66.7 1 4 5 2 2 0 1 2 10
+p150
+aVJameer Nelson DEN 12/20/2016 DEN @ LAC L 22 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 6 0 0 3 4 7
+p151
+aVKenneth Faried DEN 12/20/2016 DEN @ LAC L 27 15 5 9 55.6 0 1 0.0 5 6 83.3 4 7 11 1 1 0 0 1 4
+p152
+aVJamal Murray DEN 12/20/2016 DEN @ LAC L 27 8 3 9 33.3 2 8 25.0 0 1 0.0 2 3 5 5 0 1 0 0 12
+p153
+aVJuan Hernangomez DEN 12/20/2016 DEN @ LAC L 6 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 0 5
+p154
+aVEmmanuel Mudiay DEN 12/20/2016 DEN @ LAC L 26 0 0 9 0.0 0 5 0.0 0 0 - 2 3 5 1 1 0 2 2 -24
+p155
+aVNikola Jokic DEN 12/20/2016 DEN @ LAC L 21 9 4 7 57.1 0 2 0.0 1 2 50.0 2 4 6 1 0 0 2 3 -21
+p156
+aVWilson Chandler DEN 12/20/2016 DEN @ LAC L 28 13 5 13 38.5 1 4 25.0 2 4 50.0 1 3 4 3 0 0 2 2 -26
+p157
+aVDanilo Gallinari DEN 12/20/2016 DEN @ LAC L 32 17 6 11 54.5 4 8 50.0 1 2 50.0 1 4 5 2 0 0 1 1 -24
+p158
+aVGary Harris DEN 12/20/2016 DEN @ LAC L 19 3 1 6 16.7 1 2 50.0 0 0 - 1 1 2 1 1 0 1 0 -28
+p159
+aVGary Harris DEN 12/19/2016 DEN vs. DAL W 34 24 9 13 69.2 4 6 66.7 2 4 50.0 0 2 2 4 2 0 3 4 28
+p160
+aVDanilo Gallinari DEN 12/19/2016 DEN vs. DAL W 34 14 3 9 33.3 1 3 33.3 7 7 100.0 0 2 2 4 3 0 0 0 23
+p161
+aVNikola Jokic DEN 12/19/2016 DEN vs. DAL W 38 27 13 17 76.5 1 1 100.0 0 0 - 3 14 17 9 1 0 3 1 20
+p162
+aVJameer Nelson DEN 12/19/2016 DEN vs. DAL W 15 3 1 3 33.3 1 3 33.3 0 0 - 1 0 1 1 1 0 0 0 -20
+p163
+aVKenneth Faried DEN 12/19/2016 DEN vs. DAL W 10 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 0 0 0 2 4 -10
+p164
+aVJamal Murray DEN 12/19/2016 DEN vs. DAL W 14 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 -16
+p165
+aVWill Barton DEN 12/19/2016 DEN vs. DAL W 24 11 4 7 57.1 1 3 33.3 2 2 100.0 1 1 2 3 0 0 1 0 -14
+p166
+aVEmmanuel Mudiay DEN 12/19/2016 DEN vs. DAL W 33 18 7 13 53.8 4 6 66.7 0 0 - 0 4 4 7 0 0 1 2 28
+p167
+aVWilson Chandler DEN 12/19/2016 DEN vs. DAL W 38 17 7 13 53.8 0 1 0.0 3 3 100.0 2 6 8 4 0 0 1 1 11
+p168
+aVDarrell Arthur DEN 12/17/2016 DEN vs. NYK W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -5
+p169
+aVDanilo Gallinari DEN 12/17/2016 DEN vs. NYK W 28 13 4 9 44.4 2 7 28.6 3 4 75.0 0 3 3 3 0 0 0 5 15
+p170
+aVJamal Murray DEN 12/17/2016 DEN vs. NYK W 13 6 2 5 40.0 2 4 50.0 0 0 - 2 1 3 0 0 1 0 1 -7
+p171
+aVWill Barton DEN 12/17/2016 DEN vs. NYK W 32 17 6 10 60.0 2 3 66.7 3 5 60.0 0 8 8 2 2 1 2 1 -5
+p172
+aVJusuf Nurkic DEN 12/17/2016 DEN vs. NYK W 8 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 0 1 1 0 0 3
+p173
+aVWilson Chandler DEN 12/17/2016 DEN vs. NYK W 27 12 5 14 35.7 2 7 28.6 0 0 - 1 0 1 3 1 0 1 5 10
+p174
+aVKenneth Faried DEN 12/17/2016 DEN vs. NYK W 29 25 10 11 90.9 0 0 - 5 10 50.0 5 2 7 2 0 3 2 4 16
+p175
+aVJuan Hernangomez DEN 12/17/2016 DEN vs. NYK W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p176
+aVJameer Nelson DEN 12/17/2016 DEN vs. NYK W 16 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 3 1 -2
+p177
+aVNikola Jokic DEN 12/17/2016 DEN vs. NYK W 20 10 5 8 62.5 0 0 - 0 0 - 2 7 9 5 0 0 1 5 6
+p178
+aVEmmanuel Mudiay DEN 12/17/2016 DEN vs. NYK W 32 22 10 15 66.7 2 3 66.7 0 0 - 0 7 7 5 1 0 1 2 16
+p179
+aVGary Harris DEN 12/17/2016 DEN vs. NYK W 30 16 6 9 66.7 0 1 0.0 4 6 66.7 0 2 2 2 1 0 0 2 20
+p180
+aVGary Harris DEN 12/15/2016 DEN vs. POR W 32 18 7 11 63.6 3 4 75.0 1 1 100.0 0 4 4 6 2 1 0 4 13
+p181
+aVEmmanuel Mudiay DEN 12/15/2016 DEN vs. POR W 22 10 3 6 50.0 2 3 66.7 2 2 100.0 0 0 0 4 1 0 4 2 10
+p182
+aVJameer Nelson DEN 12/15/2016 DEN vs. POR W 26 15 6 11 54.5 1 2 50.0 2 2 100.0 0 0 0 3 2 0 1 3 2
+p183
+aVWilson Chandler DEN 12/15/2016 DEN vs. POR W 35 17 6 16 37.5 2 7 28.6 3 5 60.0 1 7 8 3 1 0 2 3 0
+p184
+aVDanilo Gallinari DEN 12/15/2016 DEN vs. POR W 36 27 8 13 61.5 3 6 50.0 8 8 100.0 0 4 4 3 1 0 2 2 8
+p185
+aVKenneth Faried DEN 12/15/2016 DEN vs. POR W 26 11 3 5 60.0 0 0 - 5 6 83.3 2 7 9 0 1 2 2 4 -1
+p186
+aVJusuf Nurkic DEN 12/15/2016 DEN vs. POR W 5 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 5
+p187
+aVNikola Jokic DEN 12/15/2016 DEN vs. POR W 19 13 5 6 83.3 1 1 100.0 2 3 66.7 0 4 4 5 0 0 1 5 15
+p188
+aVJamal Murray DEN 12/15/2016 DEN vs. POR W 16 4 1 6 16.7 0 2 0.0 2 2 100.0 1 1 2 1 1 0 1 2 7
+p189
+aVWill Barton DEN 12/15/2016 DEN vs. POR W 23 15 3 8 37.5 3 6 50.0 6 6 100.0 0 1 1 2 1 1 2 1 1
+p190
+aVEmmanuel Mudiay DEN 12/12/2016 DEN @ DAL L 31 17 6 12 50.0 3 5 60.0 2 4 50.0 0 2 2 4 0 1 4 1 -20
+p191
+aVDanilo Gallinari DEN 12/12/2016 DEN @ DAL L 28 12 3 10 30.0 2 5 40.0 4 4 100.0 1 7 8 0 0 0 1 0 -17
+p192
+aVDarrell Arthur DEN 12/12/2016 DEN @ DAL L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 2 1 -8
+p193
+aVJamal Murray DEN 12/12/2016 DEN @ DAL L 28 15 7 14 50.0 1 5 20.0 0 1 0.0 2 4 6 4 1 0 1 0 -1
+p194
+aVWill Barton DEN 12/12/2016 DEN @ DAL L 33 5 2 12 16.7 1 3 33.3 0 0 - 2 1 3 1 1 0 2 0 -25
+p195
+aVKenneth Faried DEN 12/12/2016 DEN @ DAL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p196
+aVWilson Chandler DEN 12/12/2016 DEN @ DAL L 23 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 3 -19
+p197
+aVAlonzo Gee DEN 12/12/2016 DEN @ DAL L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 8
+p198
+aVJameer Nelson DEN 12/12/2016 DEN @ DAL L 17 2 1 8 12.5 0 4 0.0 0 0 - 1 0 1 2 0 0 1 4 0
+p199
+aVJuan Hernangomez DEN 12/12/2016 DEN @ DAL L 19 4 1 3 33.3 0 2 0.0 2 2 100.0 2 1 3 1 1 1 0 3 -1
+p200
+aVJusuf Nurkic DEN 12/12/2016 DEN @ DAL L 18 4 2 6 33.3 0 0 - 0 0 - 3 3 6 2 1 0 3 1 -17
+p201
+aVNikola Jokic DEN 12/12/2016 DEN @ DAL L 26 27 10 12 83.3 0 0 - 7 7 100.0 7 4 11 4 1 1 1 1 2
+p202
+aVWill Barton DEN 12/10/2016 DEN @ ORL W 24 16 5 8 62.5 0 0 - 6 8 75.0 1 3 4 2 0 0 1 4 2
+p203
+aVJusuf Nurkic DEN 12/10/2016 DEN @ ORL W 21 17 8 11 72.7 0 0 - 1 2 50.0 1 7 8 0 0 1 4 1 -11
+p204
+aVJamal Murray DEN 12/10/2016 DEN @ ORL W 22 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 2 1 1 1 2 16
+p205
+aVJameer Nelson DEN 12/10/2016 DEN @ ORL W 26 9 4 9 44.4 1 2 50.0 0 0 - 0 2 2 3 0 0 1 1 17
+p206
+aVJuan Hernangomez DEN 12/10/2016 DEN @ ORL W 18 14 5 9 55.6 4 5 80.0 0 0 - 3 1 4 2 0 0 0 1 6
+p207
+aVKenneth Faried DEN 12/10/2016 DEN @ ORL W 24 19 9 10 90.0 0 0 - 1 3 33.3 3 7 10 1 0 0 2 2 2
+p208
+aVNikola Jokic DEN 12/10/2016 DEN @ ORL W 26 14 6 11 54.5 0 3 0.0 2 2 100.0 1 5 6 6 1 2 1 3 22
+p209
+aVDarrell Arthur DEN 12/10/2016 DEN @ ORL W 23 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 4 0 0 0 1 -5
+p210
+aVDanilo Gallinari DEN 12/10/2016 DEN @ ORL W 33 21 5 8 62.5 2 3 66.7 9 10 90.0 0 6 6 3 0 0 1 3 4
+p211
+aVEmmanuel Mudiay DEN 12/10/2016 DEN @ ORL W 23 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 2 0 0 1 2 -13
+p212
+aVWilson Chandler DEN 12/08/2016 DEN @ WAS L 32 5 2 16 12.5 1 8 12.5 0 0 - 2 6 8 2 1 0 1 2 -24
+p213
+aVDarrell Arthur DEN 12/08/2016 DEN @ WAS L 20 6 2 3 66.7 2 3 66.7 0 0 - 0 3 3 4 0 1 2 2 10
+p214
+aVNikola Jokic DEN 12/08/2016 DEN @ WAS L 28 17 6 10 60.0 0 0 - 5 7 71.4 7 4 11 1 0 1 4 1 -20
+p215
+aVDanilo Gallinari DEN 12/08/2016 DEN @ WAS L 32 14 3 11 27.3 1 8 12.5 7 9 77.8 0 4 4 1 1 0 5 4 10
+p216
+aVJuan Hernangomez DEN 12/08/2016 DEN @ WAS L 12 3 0 2 0.0 0 2 0.0 3 4 75.0 1 3 4 2 0 0 1 0 -10
+p217
+aVJamal Murray DEN 12/08/2016 DEN @ WAS L 17 6 2 5 40.0 2 4 50.0 0 0 - 1 1 2 2 1 0 5 2 -6
+p218
+aVAlonzo Gee DEN 12/08/2016 DEN @ WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p219
+aVJameer Nelson DEN 12/08/2016 DEN @ WAS L 36 10 5 10 50.0 0 1 0.0 0 2 0.0 0 4 4 8 2 0 4 4 -6
+p220
+aVWill Barton DEN 12/08/2016 DEN @ WAS L 43 11 5 13 38.5 1 6 16.7 0 0 - 2 0 2 3 3 0 1 5 -2
+p221
+aVJusuf Nurkic DEN 12/08/2016 DEN @ WAS L 20 13 6 6 100.0 0 0 - 1 2 50.0 1 6 7 1 0 0 4 4 13
+p222
+aVWilson Chandler DEN 12/07/2016 DEN @ BKN L 35 27 10 24 41.7 6 11 54.5 1 3 33.3 5 10 15 0 1 0 2 3 8
+p223
+aVNikola Jokic DEN 12/07/2016 DEN @ BKN L 21 14 5 7 71.4 0 0 - 4 4 100.0 7 4 11 3 0 1 1 3 18
+p224
+aVJamal Murray DEN 12/07/2016 DEN @ BKN L 34 12 4 14 28.6 2 8 25.0 2 2 100.0 1 4 5 3 1 0 0 3 21
+p225
+aVJusuf Nurkic DEN 12/07/2016 DEN @ BKN L 17 11 4 6 66.7 0 0 - 3 4 75.0 3 0 3 1 0 0 2 1 -22
+p226
+aVJameer Nelson DEN 12/07/2016 DEN @ BKN L 29 14 7 19 36.8 0 4 0.0 0 0 - 3 2 5 5 2 0 3 4 23
+p227
+aVKenneth Faried DEN 12/07/2016 DEN @ BKN L 12 4 1 2 50.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 2 -5
+p228
+aVWill Barton DEN 12/07/2016 DEN @ BKN L 39 15 6 15 40.0 1 9 11.1 2 2 100.0 3 6 9 2 2 1 6 4 -3
+p229
+aVDanilo Gallinari DEN 12/07/2016 DEN @ BKN L 23 5 2 7 28.6 1 1 100.0 0 0 - 0 3 3 3 1 0 1 0 -24
+p230
+aVEmmanuel Mudiay DEN 12/07/2016 DEN @ BKN L 18 6 2 10 20.0 0 3 0.0 2 4 50.0 1 1 2 1 0 0 0 1 -26
+p231
+aVDarrell Arthur DEN 12/07/2016 DEN @ BKN L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 3 -15
+p232
+aVEmmanuel Mudiay DEN 12/05/2016 DEN @ PHI W 21 4 1 6 16.7 0 1 0.0 2 2 100.0 0 1 1 0 0 0 3 1 0
+p233
+aVJusuf Nurkic DEN 12/05/2016 DEN @ PHI W 24 8 4 8 50.0 0 0 - 0 2 0.0 6 4 10 1 2 3 2 4 -5
+p234
+aVJamal Murray DEN 12/05/2016 DEN @ PHI W 24 22 8 12 66.7 3 7 42.9 3 3 100.0 0 3 3 2 0 0 1 0 12
+p235
+aVJuan Hernangomez DEN 12/05/2016 DEN @ PHI W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p236
+aVKenneth Faried DEN 12/05/2016 DEN @ PHI W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 1 1 3 -7
+p237
+aVAlonzo Gee DEN 12/05/2016 DEN @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p238
+aVJameer Nelson DEN 12/05/2016 DEN @ PHI W 30 7 3 8 37.5 0 3 0.0 1 2 50.0 1 4 5 4 5 0 1 3 16
+p239
+aVDanilo Gallinari DEN 12/05/2016 DEN @ PHI W 38 24 5 12 41.7 3 7 42.9 11 12 91.7 1 3 4 3 2 1 2 1 0
+p240
+aVWilson Chandler DEN 12/05/2016 DEN @ PHI W 26 10 3 7 42.9 2 3 66.7 2 2 100.0 0 4 4 2 1 0 3 3 7
+p241
+aVWill Barton DEN 12/05/2016 DEN @ PHI W 36 22 9 17 52.9 1 3 33.3 3 7 42.9 1 7 8 3 2 2 4 3 5
+p242
+aVDarrell Arthur DEN 12/05/2016 DEN @ PHI W 23 7 2 5 40.0 1 3 33.3 2 2 100.0 1 6 7 2 1 1 2 2 14
+p243
+aVEmmanuel Mudiay DEN 12/03/2016 DEN @ UTA L 22 12 5 11 45.5 2 4 50.0 0 0 - 0 3 3 0 1 2 0 1 -10
+p244
+aVWill Barton DEN 12/03/2016 DEN @ UTA L 34 20 8 15 53.3 3 4 75.0 1 2 50.0 0 5 5 4 2 1 4 2 6
+p245
+aVJuan Hernangomez DEN 12/03/2016 DEN @ UTA L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p246
+aVDarrell Arthur DEN 12/03/2016 DEN @ UTA L 12 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 4 -11
+p247
+aVKenneth Faried DEN 12/03/2016 DEN @ UTA L 29 10 4 8 50.0 0 0 - 2 3 66.7 2 4 6 0 0 1 1 1 6
+p248
+aVJameer Nelson DEN 12/03/2016 DEN @ UTA L 26 13 5 8 62.5 3 5 60.0 0 1 0.0 1 3 4 7 0 1 4 2 5
+p249
+aVWilson Chandler DEN 12/03/2016 DEN @ UTA L 41 20 7 14 50.0 3 6 50.0 3 3 100.0 0 5 5 3 2 0 0 4 4
+p250
+aVAlonzo Gee DEN 12/03/2016 DEN @ UTA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p251
+aVJamal Murray DEN 12/03/2016 DEN @ UTA L 18 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 2 0 0 3 0 -12
+p252
+aVJusuf Nurkic DEN 12/03/2016 DEN @ UTA L 13 8 4 6 66.7 0 0 - 0 0 - 3 1 4 1 0 0 0 2 -11
+p253
+aVDanilo Gallinari DEN 12/03/2016 DEN @ UTA L 35 12 3 11 27.3 1 2 50.0 5 5 100.0 1 4 5 1 2 0 0 2 -1
+p254
+aVJuan Hernangomez DEN 12/02/2016 DEN vs. HOU L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 0 -2
+p255
+aVDanilo Gallinari DEN 12/02/2016 DEN vs. HOU L 35 16 6 11 54.5 2 3 66.7 2 2 100.0 2 3 5 1 0 0 1 1 -16
+p256
+aVEmmanuel Mudiay DEN 12/02/2016 DEN vs. HOU L 29 9 3 12 25.0 1 6 16.7 2 2 100.0 1 2 3 5 0 0 1 4 -20
+p257
+aVMike Miller DEN 12/02/2016 DEN vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 0 0 2
+p258
+aVMalik Beasley DEN 12/02/2016 DEN vs. HOU L 4 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 1 0 0 0 4
+p259
+aVAlonzo Gee DEN 12/02/2016 DEN vs. HOU L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 5
+p260
+aVJusuf Nurkic DEN 12/02/2016 DEN vs. HOU L 20 10 5 9 55.6 0 0 - 0 2 0.0 4 3 7 1 2 3 4 2 -21
+p261
+aVJameer Nelson DEN 12/02/2016 DEN vs. HOU L 19 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 0 0 2 3 -2
+p262
+aVJamal Murray DEN 12/02/2016 DEN vs. HOU L 17 2 1 7 14.3 0 5 0.0 0 0 - 1 2 3 1 0 0 2 2 2
+p263
+aVWilson Chandler DEN 12/02/2016 DEN vs. HOU L 29 24 10 19 52.6 3 7 42.9 1 3 33.3 2 3 5 2 1 0 2 1 -8
+p264
+aVKenneth Faried DEN 12/02/2016 DEN vs. HOU L 23 14 6 15 40.0 0 0 - 2 2 100.0 9 2 11 1 0 0 1 2 -13
+p265
+aVDarrell Arthur DEN 12/02/2016 DEN vs. HOU L 9 8 4 4 100.0 0 0 - 0 0 - 2 2 4 1 0 1 1 2 2
+p266
+aVWill Barton DEN 12/02/2016 DEN vs. HOU L 33 17 7 16 43.8 1 4 25.0 2 5 40.0 2 5 7 5 1 0 2 2 -23
+p267
+aVJamal Murray DEN 11/30/2016 DEN vs. MIA L 23 9 3 10 30.0 2 6 33.3 1 1 100.0 0 3 3 2 0 2 2 4 3
+p268
+aVJusuf Nurkic DEN 11/30/2016 DEN vs. MIA L 17 4 2 3 66.7 0 0 - 0 0 - 3 3 6 1 0 0 5 3 -8
+p269
+aVJuan Hernangomez DEN 11/30/2016 DEN vs. MIA L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p270
+aVWilson Chandler DEN 11/30/2016 DEN vs. MIA L 29 17 8 17 47.1 1 4 25.0 0 0 - 2 5 7 0 1 0 3 2 -2
+p271
+aVEmmanuel Mudiay DEN 11/30/2016 DEN vs. MIA L 36 7 3 11 27.3 0 2 0.0 1 3 33.3 2 6 8 7 0 1 4 0 -19
+p272
+aVKenneth Faried DEN 11/30/2016 DEN vs. MIA L 27 10 4 8 50.0 0 0 - 2 4 50.0 3 5 8 3 1 3 2 2 -15
+p273
+aVNikola Jokic DEN 11/30/2016 DEN vs. MIA L 24 17 7 11 63.6 0 0 - 3 4 75.0 3 11 14 3 1 0 1 3 1
+p274
+aVDanilo Gallinari DEN 11/30/2016 DEN vs. MIA L 36 17 6 16 37.5 1 5 20.0 4 6 66.7 0 4 4 4 0 1 2 3 4
+p275
+aVAlonzo Gee DEN 11/30/2016 DEN vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p276
+aVJameer Nelson DEN 11/30/2016 DEN vs. MIA L 38 17 5 14 35.7 3 5 60.0 4 6 66.7 1 4 5 8 0 0 0 4 2
+p277
+aVNikola Jokic DEN 11/27/2016 DEN @ PHX W 31 13 3 8 37.5 1 2 50.0 6 6 100.0 3 8 11 3 0 1 1 2 11
+p278
+aVAlonzo Gee DEN 11/27/2016 DEN @ PHX W 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 2 2 2
+p279
+aVJusuf Nurkic DEN 11/27/2016 DEN @ PHX W 16 8 4 7 57.1 0 0 - 0 0 - 1 5 6 2 0 0 2 3 -3
+p280
+aVJamal Murray DEN 11/27/2016 DEN @ PHX W 22 9 3 8 37.5 1 4 25.0 2 2 100.0 1 3 4 2 0 0 1 4 6
+p281
+aVWilson Chandler DEN 11/27/2016 DEN @ PHX W 39 25 8 17 47.1 3 6 50.0 6 6 100.0 2 6 8 2 3 0 1 0 3
+p282
+aVDarrell Arthur DEN 11/27/2016 DEN @ PHX W 21 8 3 9 33.3 2 4 50.0 0 0 - 0 1 1 2 0 0 0 2 -9
+p283
+aVMalik Beasley DEN 11/27/2016 DEN @ PHX W 6 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 13
+p284
+aVJameer Nelson DEN 11/27/2016 DEN @ PHX W 28 21 8 13 61.5 4 7 57.1 1 1 100.0 0 2 2 3 0 0 2 5 -3
+p285
+aVKenneth Faried DEN 11/27/2016 DEN @ PHX W 28 14 4 8 50.0 0 0 - 6 7 85.7 2 7 9 1 1 0 1 3 11
+p286
+aVEmmanuel Mudiay DEN 11/27/2016 DEN @ PHX W 37 19 5 13 38.5 1 3 33.3 8 10 80.0 1 3 4 6 0 0 2 4 -1
+p287
+aVMalik Beasley DEN 11/25/2016 DEN vs. OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p288
+aVJameer Nelson DEN 11/25/2016 DEN vs. OKC L 41 21 8 16 50.0 3 7 42.9 2 2 100.0 0 4 4 13 0 0 2 3 -10
+p289
+aVDarrell Arthur DEN 11/25/2016 DEN vs. OKC L 20 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 0 1 0 3 3 13
+p290
+aVAlonzo Gee DEN 11/25/2016 DEN vs. OKC L 27 7 2 8 25.0 0 3 0.0 3 5 60.0 1 2 3 3 4 0 0 1 -2
+p291
+aVEmmanuel Mudiay DEN 11/25/2016 DEN vs. OKC L 30 17 5 10 50.0 3 6 50.0 4 6 66.7 1 2 3 5 1 0 1 0 5
+p292
+aVJusuf Nurkic DEN 11/25/2016 DEN vs. OKC L 22 8 3 6 50.0 0 0 - 2 2 100.0 1 6 7 3 1 1 1 1 8
+p293
+aVWilson Chandler DEN 11/25/2016 DEN vs. OKC L 37 32 14 25 56.0 2 5 40.0 2 2 100.0 3 8 11 4 0 1 2 3 -16
+p294
+aVKenneth Faried DEN 11/25/2016 DEN vs. OKC L 24 12 6 8 75.0 0 0 - 0 0 - 3 5 8 1 1 2 2 2 -8
+p295
+aVNikola Jokic DEN 11/25/2016 DEN vs. OKC L 29 7 3 7 42.9 1 2 50.0 0 0 - 3 3 6 5 0 2 3 5 -6
+p296
+aVJamal Murray DEN 11/25/2016 DEN vs. OKC L 34 20 5 16 31.3 2 7 28.6 8 10 80.0 1 6 7 0 2 1 2 3 1
+p297
+aVDarrell Arthur DEN 11/23/2016 DEN @ UTA L 16 8 3 8 37.5 2 5 40.0 0 0 - 1 0 1 0 0 0 0 1 -5
+p298
+aVKenneth Faried DEN 11/23/2016 DEN @ UTA L 22 8 3 7 42.9 0 0 - 2 2 100.0 5 5 10 0 1 0 0 4 -21
+p299
+aVAlonzo Gee DEN 11/23/2016 DEN @ UTA L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 0
+p300
+aVJameer Nelson DEN 11/23/2016 DEN @ UTA L 18 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 1 1 -6
+p301
+aVJuan Hernangomez DEN 11/23/2016 DEN @ UTA L 28 9 2 5 40.0 1 3 33.3 4 8 50.0 1 5 6 0 3 2 1 1 -23
+p302
+aVEmmanuel Mudiay DEN 11/23/2016 DEN @ UTA L 18 3 1 8 12.5 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 0 -19
+p303
+aVMalik Beasley DEN 11/23/2016 DEN @ UTA L 12 5 1 5 20.0 0 2 0.0 3 4 75.0 0 1 1 1 1 0 0 2 -2
+p304
+aVNikola Jokic DEN 11/23/2016 DEN @ UTA L 23 9 4 6 66.7 0 0 - 1 2 50.0 1 4 5 6 0 0 0 4 -3
+p305
+aVWill Barton DEN 11/23/2016 DEN @ UTA L 17 1 0 6 0.0 0 2 0.0 1 4 25.0 1 4 5 0 0 0 1 0 -16
+p306
+aVJamal Murray DEN 11/23/2016 DEN @ UTA L 35 23 8 19 42.1 5 8 62.5 2 2 100.0 2 2 4 3 0 1 4 2 -6
+p307
+aVJusuf Nurkic DEN 11/23/2016 DEN @ UTA L 15 2 1 8 12.5 0 0 - 0 3 0.0 2 4 6 0 0 1 1 4 -7
+p308
+aVWilson Chandler DEN 11/23/2016 DEN @ UTA L 25 13 4 11 36.4 1 3 33.3 4 4 100.0 1 8 9 0 0 0 1 1 -17
+p309
+aVDanilo Gallinari DEN 11/22/2016 DEN vs. CHI W 37 15 6 9 66.7 1 2 50.0 2 4 50.0 0 5 5 0 1 0 0 3 -2
+p310
+aVJameer Nelson DEN 11/22/2016 DEN vs. CHI W 21 10 4 9 44.4 2 4 50.0 0 0 - 0 4 4 7 0 1 3 1 9
+p311
+aVWilson Chandler DEN 11/22/2016 DEN vs. CHI W 33 16 7 23 30.4 1 4 25.0 1 1 100.0 4 5 9 3 1 1 1 0 13
+p312
+aVJamal Murray DEN 11/22/2016 DEN vs. CHI W 22 24 9 13 69.2 3 4 75.0 3 3 100.0 2 4 6 2 0 0 0 2 9
+p313
+aVJuan Hernangomez DEN 11/22/2016 DEN vs. CHI W 11 3 1 4 25.0 0 1 0.0 1 1 100.0 0 1 1 1 0 1 0 2 5
+p314
+aVEmmanuel Mudiay DEN 11/22/2016 DEN vs. CHI W 27 5 1 7 14.3 1 3 33.3 2 2 100.0 0 1 1 3 0 0 2 1 -8
+p315
+aVNikola Jokic DEN 11/22/2016 DEN vs. CHI W 18 8 3 5 60.0 0 0 - 2 2 100.0 3 5 8 3 1 1 0 1 13
+p316
+aVJusuf Nurkic DEN 11/22/2016 DEN vs. CHI W 29 14 7 13 53.8 0 0 - 0 0 - 5 9 14 4 0 2 2 1 -10
+p317
+aVWill Barton DEN 11/22/2016 DEN vs. CHI W 26 10 3 13 23.1 2 4 50.0 2 2 100.0 2 1 3 2 0 0 2 0 -4
+p318
+aVKenneth Faried DEN 11/22/2016 DEN vs. CHI W 15 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 1 2 0 0 3 -10
+p319
+aVDanilo Gallinari DEN 11/20/2016 DEN vs. UTA W 36 13 4 14 28.6 1 6 16.7 4 6 66.7 0 5 5 8 0 0 2 2 17
+p320
+aVWill Barton DEN 11/20/2016 DEN vs. UTA W 19 7 3 9 33.3 1 3 33.3 0 1 0.0 1 2 3 1 0 0 0 2 2
+p321
+aVJameer Nelson DEN 11/20/2016 DEN vs. UTA W 21 2 1 2 50.0 0 0 - 0 0 - 0 3 3 3 0 0 1 4 6
+p322
+aVMalik Beasley DEN 11/20/2016 DEN vs. UTA W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -4
+p323
+aVNikola Jokic DEN 11/20/2016 DEN vs. UTA W 21 12 5 8 62.5 1 1 100.0 1 2 50.0 2 3 5 4 0 1 0 3 11
+p324
+aVEmmanuel Mudiay DEN 11/20/2016 DEN vs. UTA W 32 10 5 13 38.5 0 3 0.0 0 0 - 1 7 8 8 0 0 0 0 9
+p325
+aVWilson Chandler DEN 11/20/2016 DEN vs. UTA W 24 17 7 11 63.6 2 4 50.0 1 2 50.0 0 4 4 1 1 0 3 1 6
+p326
+aVKenneth Faried DEN 11/20/2016 DEN vs. UTA W 25 5 2 6 33.3 0 0 - 1 3 33.3 2 4 6 0 1 0 0 0 7
+p327
+aVAlonzo Gee DEN 11/20/2016 DEN vs. UTA W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -2
+p328
+aVJuan Hernangomez DEN 11/20/2016 DEN vs. UTA W 5 2 1 2 50.0 0 1 0.0 0 2 0.0 0 0 0 0 1 0 0 1 -4
+p329
+aVJamal Murray DEN 11/20/2016 DEN vs. UTA W 23 18 6 8 75.0 3 4 75.0 3 4 75.0 1 1 2 4 0 1 0 2 15
+p330
+aVJusuf Nurkic DEN 11/20/2016 DEN vs. UTA W 26 16 8 12 66.7 0 0 - 0 6 0.0 5 6 11 2 1 0 2 2 7
+p331
+aVKenneth Faried DEN 11/18/2016 DEN vs. TOR L 24 7 3 4 75.0 0 0 - 1 1 100.0 1 10 11 2 2 2 2 3 -3
+p332
+aVNikola Jokic DEN 11/18/2016 DEN vs. TOR L 27 8 4 8 50.0 0 2 0.0 0 0 - 2 10 12 4 0 1 3 3 3
+p333
+aVJuan Hernangomez DEN 11/18/2016 DEN vs. TOR L 8 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 1 0 1 2 1
+p334
+aVJameer Nelson DEN 11/18/2016 DEN vs. TOR L 37 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 5 0 0 2 5 -2
+p335
+aVEmmanuel Mudiay DEN 11/18/2016 DEN vs. TOR L 46 25 10 18 55.6 0 7 0.0 5 7 71.4 0 6 6 9 1 0 5 4 -8
+p336
+aVWilson Chandler DEN 11/18/2016 DEN vs. TOR L 36 25 9 17 52.9 3 5 60.0 4 6 66.7 4 6 10 3 0 0 0 2 3
+p337
+aVAlonzo Gee DEN 11/18/2016 DEN vs. TOR L 1 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -8
+p338
+aVJamal Murray DEN 11/18/2016 DEN vs. TOR L 19 5 2 8 25.0 0 3 0.0 1 2 50.0 1 1 2 4 2 0 1 2 -2
+p339
+aVDanilo Gallinari DEN 11/18/2016 DEN vs. TOR L 43 21 4 13 30.8 0 5 0.0 13 13 100.0 0 9 9 1 1 0 4 1 3
+p340
+aVJusuf Nurkic DEN 11/18/2016 DEN vs. TOR L 25 14 5 9 55.6 0 0 - 4 6 66.7 0 1 1 1 1 0 1 3 3
+p341
+aVWilson Chandler DEN 11/16/2016 DEN vs. PHX W 35 28 11 22 50.0 2 3 66.7 4 4 100.0 3 8 11 5 1 1 2 3 8
+p342
+aVJameer Nelson DEN 11/16/2016 DEN vs. PHX W 34 17 8 12 66.7 1 3 33.3 0 0 - 0 1 1 2 0 0 2 5 10
+p343
+aVKenneth Faried DEN 11/16/2016 DEN vs. PHX W 26 20 8 12 66.7 0 0 - 4 5 80.0 6 9 15 0 4 1 4 5 18
+p344
+aVMalik Beasley DEN 11/16/2016 DEN vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p345
+aVEmmanuel Mudiay DEN 11/16/2016 DEN vs. PHX W 38 15 7 17 41.2 0 2 0.0 1 1 100.0 2 3 5 6 2 0 0 1 24
+p346
+aVDanilo Gallinari DEN 11/16/2016 DEN vs. PHX W 38 18 4 13 30.8 1 4 25.0 9 9 100.0 1 4 5 2 1 1 1 2 21
+p347
+aVJusuf Nurkic DEN 11/16/2016 DEN vs. PHX W 15 0 0 4 0.0 0 0 - 0 0 - 2 4 6 4 0 1 3 1 6
+p348
+aVJamal Murray DEN 11/16/2016 DEN vs. PHX W 20 9 3 8 37.5 3 4 75.0 0 0 - 0 1 1 1 0 0 0 1 4
+p349
+aVJuan Hernangomez DEN 11/16/2016 DEN vs. PHX W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 2 -5
+p350
+aVAlonzo Gee DEN 11/16/2016 DEN vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p351
+aVNikola Jokic DEN 11/16/2016 DEN vs. PHX W 19 10 3 4 75.0 0 0 - 4 5 80.0 0 2 2 2 0 0 1 3 -1
+p352
+aVJameer Nelson DEN 11/13/2016 DEN @ POR L 33 7 3 8 37.5 1 4 25.0 0 0 - 1 3 4 2 1 0 2 4 -23
+p353
+aVJamal Murray DEN 11/13/2016 DEN @ POR L 28 19 6 12 50.0 5 9 55.6 2 3 66.7 0 5 5 1 0 0 6 2 17
+p354
+aVKenneth Faried DEN 11/13/2016 DEN @ POR L 28 18 5 10 50.0 0 0 - 8 9 88.9 8 6 14 1 1 3 1 2 -5
+p355
+aVDanilo Gallinari DEN 11/13/2016 DEN @ POR L 29 19 7 13 53.8 3 5 60.0 2 2 100.0 2 5 7 1 0 1 3 1 -28
+p356
+aVNikola Jokic DEN 11/13/2016 DEN @ POR L 26 0 0 3 0.0 0 0 - 0 0 - 0 5 5 3 1 1 2 5 11
+p357
+aVJuan Hernangomez DEN 11/13/2016 DEN @ POR L 16 8 2 3 66.7 1 2 50.0 3 4 75.0 1 5 6 1 0 0 0 2 16
+p358
+aVWilson Chandler DEN 11/13/2016 DEN @ POR L 27 18 7 12 58.3 0 2 0.0 4 5 80.0 0 7 7 1 1 0 0 4 -2
+p359
+aVMalik Beasley DEN 11/13/2016 DEN @ POR L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 8
+p360
+aVJusuf Nurkic DEN 11/13/2016 DEN @ POR L 19 8 3 11 27.3 0 0 - 2 4 50.0 4 5 9 1 0 1 2 2 -13
+p361
+aVEmmanuel Mudiay DEN 11/13/2016 DEN @ POR L 30 8 3 16 18.8 1 6 16.7 1 2 50.0 0 2 2 0 0 0 2 2 -16
+p362
+aVWilson Chandler DEN 11/12/2016 DEN vs. DET L 30 6 3 12 25.0 0 3 0.0 0 0 - 2 8 10 2 1 0 2 1 -9
+p363
+aVDanilo Gallinari DEN 11/12/2016 DEN vs. DET L 36 18 5 10 50.0 2 4 50.0 6 8 75.0 0 4 4 1 0 0 1 1 -15
+p364
+aVJamal Murray DEN 11/12/2016 DEN vs. DET L 20 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 0 1 0 0 1 -12
+p365
+aVKenneth Faried DEN 11/12/2016 DEN vs. DET L 21 8 4 9 44.4 0 1 0.0 0 2 0.0 5 3 8 1 0 2 1 1 -14
+p366
+aVJusuf Nurkic DEN 11/12/2016 DEN vs. DET L 17 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 1 0 2 0 3
+p367
+aVGary Harris DEN 11/12/2016 DEN vs. DET L 28 13 5 11 45.5 0 2 0.0 3 3 100.0 0 4 4 4 0 0 1 2 1
+p368
+aVEmmanuel Mudiay DEN 11/12/2016 DEN vs. DET L 26 19 6 14 42.9 4 8 50.0 3 4 75.0 2 3 5 2 2 2 5 2 -11
+p369
+aVNikola Jokic DEN 11/12/2016 DEN vs. DET L 20 6 2 7 28.6 0 0 - 2 2 100.0 2 1 3 1 1 0 1 1 -6
+p370
+aVJameer Nelson DEN 11/12/2016 DEN vs. DET L 22 11 5 8 62.5 1 2 50.0 0 0 - 0 1 1 2 0 0 2 4 0
+p371
+aVJuan Hernangomez DEN 11/12/2016 DEN vs. DET L 20 7 3 5 60.0 1 2 50.0 0 0 - 1 3 4 2 0 0 0 1 8
+p372
+aVDanilo Gallinari DEN 11/10/2016 DEN vs. GSW L 26 11 2 9 22.2 1 5 20.0 6 7 85.7 0 1 1 2 0 0 2 1 -20
+p373
+aVJusuf Nurkic DEN 11/10/2016 DEN vs. GSW L 17 9 4 5 80.0 0 0 - 1 2 50.0 1 2 3 0 1 1 4 2 -23
+p374
+aVJamal Murray DEN 11/10/2016 DEN vs. GSW L 29 14 5 15 33.3 2 7 28.6 2 2 100.0 2 1 3 6 0 1 3 3 -3
+p375
+aVJameer Nelson DEN 11/10/2016 DEN vs. GSW L 16 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 4 0 0 2 2 -1
+p376
+aVEmmanuel Mudiay DEN 11/10/2016 DEN vs. GSW L 24 10 4 15 26.7 2 5 40.0 0 0 - 1 3 4 4 1 0 3 1 -21
+p377
+aVJuan Hernangomez DEN 11/10/2016 DEN vs. GSW L 30 11 4 10 40.0 2 3 66.7 1 2 50.0 3 6 9 0 1 1 1 2 -2
+p378
+aVMalik Beasley DEN 11/10/2016 DEN vs. GSW L 15 12 5 10 50.0 2 5 40.0 0 0 - 0 2 2 1 0 0 0 0 5
+p379
+aVMike Miller DEN 11/10/2016 DEN vs. GSW L 9 9 3 4 75.0 3 4 75.0 0 0 - 0 1 1 1 0 0 0 1 -2
+p380
+aVGary Harris DEN 11/10/2016 DEN vs. GSW L 18 11 5 7 71.4 1 2 50.0 0 2 0.0 1 1 2 3 0 0 2 0 -24
+p381
+aVJarnell Stokes DEN 11/10/2016 DEN vs. GSW L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 1 0 0 2 2
+p382
+aVKenneth Faried DEN 11/10/2016 DEN vs. GSW L 30 8 4 9 44.4 0 0 - 0 0 - 6 5 11 1 2 0 1 1 -10
+p383
+aVNikola Jokic DEN 11/10/2016 DEN vs. GSW L 18 4 1 5 20.0 0 3 0.0 2 2 100.0 1 2 3 2 1 0 0 3 -21
+p384
+aVGary Harris DEN 11/08/2016 DEN @ MEM L 30 15 5 13 38.5 2 6 33.3 3 4 75.0 1 2 3 3 1 0 3 3 -3
+p385
+aVDanilo Gallinari DEN 11/08/2016 DEN @ MEM L 38 21 5 11 45.5 3 5 60.0 8 9 88.9 1 6 7 2 2 1 2 0 5
+p386
+aVJusuf Nurkic DEN 11/08/2016 DEN @ MEM L 29 11 5 7 71.4 0 0 - 1 1 100.0 1 6 7 3 0 1 6 5 -4
+p387
+aVKenneth Faried DEN 11/08/2016 DEN @ MEM L 28 5 2 4 50.0 0 1 0.0 1 2 50.0 2 9 11 1 0 1 0 2 1
+p388
+aVEmmanuel Mudiay DEN 11/08/2016 DEN @ MEM L 36 23 7 13 53.8 1 3 33.3 8 10 80.0 0 4 4 7 0 0 7 4 5
+p389
+aVMike Miller DEN 11/08/2016 DEN @ MEM L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p390
+aVNikola Jokic DEN 11/08/2016 DEN @ MEM L 28 12 4 10 40.0 1 3 33.3 3 4 75.0 1 4 5 2 2 0 0 4 5
+p391
+aVJarnell Stokes DEN 11/08/2016 DEN @ MEM L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -2
+p392
+aVJameer Nelson DEN 11/08/2016 DEN @ MEM L 23 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 4 0 0 3 1 -6
+p393
+aVJuan Hernangomez DEN 11/08/2016 DEN @ MEM L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 1 0 1 -3
+p394
+aVJamal Murray DEN 11/08/2016 DEN @ MEM L 17 10 4 7 57.1 2 4 50.0 0 0 - 0 0 0 1 0 0 0 2 -3
+p395
+aVMalik Beasley DEN 11/06/2016 DEN @ BOS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p396
+aVWilson Chandler DEN 11/06/2016 DEN @ BOS W 25 22 8 14 57.1 2 4 50.0 4 5 80.0 0 5 5 2 1 0 1 3 26
+p397
+aVDanilo Gallinari DEN 11/06/2016 DEN @ BOS W 41 16 7 13 53.8 2 4 50.0 0 0 - 1 2 3 3 0 1 1 1 19
+p398
+aVEmmanuel Mudiay DEN 11/06/2016 DEN @ BOS W 39 30 11 18 61.1 3 5 60.0 5 5 100.0 2 6 8 2 1 1 7 3 18
+p399
+aVGary Harris DEN 11/06/2016 DEN @ BOS W 22 12 5 10 50.0 1 2 50.0 1 1 100.0 0 4 4 1 1 1 0 5 -1
+p400
+aVJameer Nelson DEN 11/06/2016 DEN @ BOS W 36 9 3 7 42.9 1 3 33.3 2 2 100.0 0 3 3 7 1 0 2 5 12
+p401
+aVNikola Jokic DEN 11/06/2016 DEN @ BOS W 22 9 4 5 80.0 0 1 0.0 1 1 100.0 0 5 5 2 1 1 1 2 6
+p402
+aVJuan Hernangomez DEN 11/06/2016 DEN @ BOS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p403
+aVJusuf Nurkic DEN 11/06/2016 DEN @ BOS W 13 4 1 5 20.0 0 0 - 2 4 50.0 1 5 6 2 1 1 2 0 5
+p404
+aVJamal Murray DEN 11/06/2016 DEN @ BOS W 13 9 3 7 42.9 2 4 50.0 1 1 100.0 0 1 1 0 0 0 0 0 -2
+p405
+aVKenneth Faried DEN 11/06/2016 DEN @ BOS W 24 12 2 4 50.0 0 0 - 8 12 66.7 5 6 11 1 1 1 2 3 7
+p406
+aVEmmanuel Mudiay DEN 11/05/2016 DEN @ DET L 24 6 0 7 0.0 0 2 0.0 6 7 85.7 0 2 2 3 1 0 4 2 -19
+p407
+aVMike Miller DEN 11/05/2016 DEN @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 5
+p408
+aVMalik Beasley DEN 11/05/2016 DEN @ DET L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p409
+aVNikola Jokic DEN 11/05/2016 DEN @ DET L 23 6 3 9 33.3 0 0 - 0 0 - 2 4 6 0 1 1 1 3 -14
+p410
+aVKenneth Faried DEN 11/05/2016 DEN @ DET L 16 4 1 8 12.5 0 0 - 2 2 100.0 5 1 6 1 0 0 0 2 -9
+p411
+aVGary Harris DEN 11/05/2016 DEN @ DET L 16 3 1 5 20.0 0 1 0.0 1 2 50.0 1 2 3 1 0 0 0 0 0
+p412
+aVJusuf Nurkic DEN 11/05/2016 DEN @ DET L 24 10 5 8 62.5 0 0 - 0 0 - 4 8 12 1 2 1 4 3 -24
+p413
+aVJameer Nelson DEN 11/05/2016 DEN @ DET L 24 3 1 8 12.5 1 4 25.0 0 0 - 0 2 2 4 3 0 1 3 -11
+p414
+aVJuan Hernangomez DEN 11/05/2016 DEN @ DET L 11 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 0 6
+p415
+aVJamal Murray DEN 11/05/2016 DEN @ DET L 27 9 4 10 40.0 1 4 25.0 0 0 - 0 1 1 2 1 0 4 0 -11
+p416
+aVDanilo Gallinari DEN 11/05/2016 DEN @ DET L 29 16 5 14 35.7 2 7 28.6 4 5 80.0 1 2 3 2 0 0 0 1 -11
+p417
+aVDarrell Arthur DEN 11/05/2016 DEN @ DET L 7 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 5
+p418
+aVWilson Chandler DEN 11/05/2016 DEN @ DET L 31 21 9 18 50.0 1 4 25.0 2 2 100.0 3 6 9 0 0 0 2 1 -9
+p419
+aVJuan Hernangomez DEN 11/03/2016 DEN @ MIN W 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 5
+p420
+aVWilson Chandler DEN 11/03/2016 DEN @ MIN W 27 19 8 12 66.7 0 2 0.0 3 5 60.0 2 4 6 0 1 0 2 3 1
+p421
+aVJamal Murray DEN 11/03/2016 DEN @ MIN W 29 0 0 8 0.0 0 4 0.0 0 0 - 0 3 3 4 0 0 1 2 5
+p422
+aVDanilo Gallinari DEN 11/03/2016 DEN @ MIN W 37 19 6 9 66.7 4 7 57.1 3 3 100.0 0 5 5 2 0 0 1 1 -3
+p423
+aVJusuf Nurkic DEN 11/03/2016 DEN @ MIN W 27 18 7 13 53.8 0 0 - 4 7 57.1 2 3 5 1 2 1 1 4 13
+p424
+aVDarrell Arthur DEN 11/03/2016 DEN @ MIN W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -5
+p425
+aVNikola Jokic DEN 11/03/2016 DEN @ MIN W 14 8 3 3 100.0 0 0 - 2 4 50.0 1 2 3 5 0 0 1 3 7
+p426
+aVKenneth Faried DEN 11/03/2016 DEN @ MIN W 19 8 4 4 100.0 0 0 - 0 0 - 1 4 5 1 1 1 2 2 -9
+p427
+aVEmmanuel Mudiay DEN 11/03/2016 DEN @ MIN W 33 12 4 18 22.2 0 4 0.0 4 4 100.0 0 6 6 3 5 0 6 3 -5
+p428
+aVJameer Nelson DEN 11/03/2016 DEN @ MIN W 34 14 5 10 50.0 2 4 50.0 2 2 100.0 1 6 7 7 1 0 5 2 6
+p429
+aVJamal Murray DEN 10/31/2016 DEN @ TOR L 12 1 0 4 0.0 0 1 0.0 1 1 100.0 0 2 2 2 0 0 1 3 3
+p430
+aVDanilo Gallinari DEN 10/31/2016 DEN @ TOR L 37 16 3 11 27.3 2 5 40.0 8 8 100.0 1 1 2 1 0 0 0 0 -5
+p431
+aVJameer Nelson DEN 10/31/2016 DEN @ TOR L 22 13 5 9 55.6 3 4 75.0 0 0 - 1 1 2 1 1 0 0 4 -3
+p432
+aVWilson Chandler DEN 10/31/2016 DEN @ TOR L 31 9 2 7 28.6 1 5 20.0 4 6 66.7 0 3 3 1 0 1 0 4 -2
+p433
+aVJusuf Nurkic DEN 10/31/2016 DEN @ TOR L 38 13 5 14 35.7 0 0 - 3 7 42.9 5 13 18 1 1 5 1 2 5
+p434
+aVNikola Jokic DEN 10/31/2016 DEN @ TOR L 22 12 6 9 66.7 0 1 0.0 0 0 - 2 2 4 1 0 0 4 4 -9
+p435
+aVKenneth Faried DEN 10/31/2016 DEN @ TOR L 15 6 1 3 33.3 0 0 - 4 4 100.0 1 4 5 0 0 1 0 0 2
+p436
+aVEmmanuel Mudiay DEN 10/31/2016 DEN @ TOR L 33 16 6 17 35.3 1 4 25.0 3 4 75.0 1 5 6 4 0 1 2 1 -8
+p437
+aVWill Barton DEN 10/31/2016 DEN @ TOR L 30 16 5 7 71.4 2 2 100.0 4 5 80.0 0 4 4 3 0 1 0 0 2
+p438
+aVWilson Chandler DEN 10/29/2016 DEN vs. POR L 30 11 5 11 45.5 1 3 33.3 0 2 0.0 1 6 7 1 0 0 3 1 -1
+p439
+aVKenneth Faried DEN 10/29/2016 DEN vs. POR L 30 7 2 4 50.0 0 0 - 3 4 75.0 3 6 9 2 2 2 2 3 -5
+p440
+aVDanilo Gallinari DEN 10/29/2016 DEN vs. POR L 42 17 4 16 25.0 0 5 0.0 9 10 90.0 1 4 5 2 0 0 2 0 0
+p441
+aVJamal Murray DEN 10/29/2016 DEN vs. POR L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -5
+p442
+aVNikola Jokic DEN 10/29/2016 DEN vs. POR L 34 23 10 20 50.0 1 5 20.0 2 3 66.7 6 11 17 2 4 1 1 5 -1
+p443
+aVJusuf Nurkic DEN 10/29/2016 DEN vs. POR L 23 12 4 9 44.4 0 0 - 4 6 66.7 4 5 9 1 0 1 2 2 3
+p444
+aVEmmanuel Mudiay DEN 10/29/2016 DEN vs. POR L 38 21 7 20 35.0 2 4 50.0 5 6 83.3 0 7 7 4 3 0 5 3 3
+p445
+aVJameer Nelson DEN 10/29/2016 DEN vs. POR L 15 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 2 0 0 1 3 -5
+p446
+aVWill Barton DEN 10/29/2016 DEN vs. POR L 41 16 4 13 30.8 0 2 0.0 8 8 100.0 1 5 6 3 0 1 1 3 1
+p447
+aVJusuf Nurkic DEN 10/26/2016 DEN @ NOP W 26 23 9 13 69.2 0 0 - 5 6 83.3 2 7 9 3 0 1 1 3 2
+p448
+aVJuan Hernangomez DEN 10/26/2016 DEN @ NOP W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p449
+aVWill Barton DEN 10/26/2016 DEN @ NOP W 35 22 7 12 58.3 2 3 66.7 6 6 100.0 2 3 5 2 0 0 2 2 -3
+p450
+aVNikola Jokic DEN 10/26/2016 DEN @ NOP W 21 5 2 5 40.0 1 2 50.0 0 0 - 1 6 7 2 0 0 4 4 5
+p451
+aVDanilo Gallinari DEN 10/26/2016 DEN @ NOP W 38 15 5 11 45.5 3 6 50.0 2 4 50.0 0 3 3 2 3 1 1 2 3
+p452
+aVKenneth Faried DEN 10/26/2016 DEN @ NOP W 28 9 3 9 33.3 0 1 0.0 3 6 50.0 6 8 14 1 2 2 3 1 2
+p453
+aVWilson Chandler DEN 10/26/2016 DEN @ NOP W 30 12 5 15 33.3 1 6 16.7 1 1 100.0 0 7 7 1 0 0 2 3 5
+p454
+aVEmmanuel Mudiay DEN 10/26/2016 DEN @ NOP W 28 11 2 8 25.0 0 1 0.0 7 8 87.5 0 7 7 3 1 0 6 5 -1
+p455
+aVJameer Nelson DEN 10/26/2016 DEN @ NOP W 20 9 4 8 50.0 1 4 25.0 0 0 - 0 2 2 3 1 0 4 2 6
+p456
+aVJamal Murray DEN 10/26/2016 DEN @ NOP W 13 1 0 2 0.0 0 1 0.0 1 2 50.0 0 4 4 1 0 0 1 0 8
+p457
+a.

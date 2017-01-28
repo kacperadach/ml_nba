@@ -1,0 +1,348 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVThabo Sefolosha OKC 05/25/2011 OKC @ DAL L 14 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -7
+p2
+aVRussell Westbrook OKC 05/25/2011 OKC @ DAL L 44 31 11 28 39.3 0 3 0.0 9 9 100.0 4 4 8 5 2 1 3 2 -9
+p3
+aVJames Harden OKC 05/25/2011 OKC @ DAL L 34 23 7 11 63.6 1 5 20.0 8 10 80.0 1 4 5 6 1 0 2 1 3
+p4
+aVSerge Ibaka OKC 05/25/2011 OKC @ DAL L 14 2 1 6 16.7 0 0 - 0 0 - 1 2 3 0 0 1 0 4 -2
+p5
+aVKendrick Perkins OKC 05/25/2011 OKC @ DAL L 28 0 0 2 0.0 0 0 - 0 0 - 2 6 8 1 0 1 2 2 1
+p6
+aVNick Collison OKC 05/25/2011 OKC @ DAL L 38 12 6 9 66.7 0 0 - 0 0 - 6 6 12 1 2 2 1 5 3
+p7
+aVKevin Durant OKC 05/25/2011 OKC @ DAL L 43 23 8 20 40.0 3 5 60.0 4 6 66.7 1 8 9 2 2 1 3 4 -7
+p8
+aVDaequan Cook OKC 05/25/2011 OKC @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p9
+aVEric Maynor OKC 05/25/2011 OKC @ DAL L 21 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 2 4 -7
+p10
+aVSerge Ibaka OKC 05/23/2011 OKC vs. DAL L 47 18 8 15 53.3 0 0 - 2 2 100.0 5 5 10 0 0 5 4 5 -10
+p11
+aVKendrick Perkins OKC 05/23/2011 OKC vs. DAL L 25 6 3 5 60.0 0 0 - 0 1 0.0 2 1 3 2 0 1 1 2 9
+p12
+aVJames Harden OKC 05/23/2011 OKC vs. DAL L 23 7 3 5 60.0 0 0 - 1 2 50.0 0 7 7 2 1 0 4 6 4
+p13
+aVDaequan Cook OKC 05/23/2011 OKC vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p14
+aVKevin Durant OKC 05/23/2011 OKC vs. DAL L 49 29 9 22 40.9 2 7 28.6 9 10 90.0 3 12 15 4 0 1 9 2 -6
+p15
+aVRussell Westbrook OKC 05/23/2011 OKC vs. DAL L 42 19 7 22 31.8 0 3 0.0 5 8 62.5 3 5 8 8 3 0 6 5 -7
+p16
+aVThabo Sefolosha OKC 05/23/2011 OKC vs. DAL L 30 12 6 10 60.0 0 2 0.0 0 0 - 1 3 4 1 3 1 0 3 -9
+p17
+aVEric Maynor OKC 05/23/2011 OKC vs. DAL L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 0 0
+p18
+aVNick Collison OKC 05/23/2011 OKC vs. DAL L 31 12 5 7 71.4 0 0 - 2 2 100.0 6 1 7 3 1 1 1 6 -14
+p19
+aVEric Maynor OKC 05/21/2011 OKC vs. DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p20
+aVRussell Westbrook OKC 05/21/2011 OKC vs. DAL L 42 30 8 20 40.0 1 2 50.0 13 14 92.9 0 2 2 4 2 0 7 5 6
+p21
+aVNick Collison OKC 05/21/2011 OKC vs. DAL L 24 9 4 4 100.0 0 0 - 1 1 100.0 2 4 6 1 2 2 0 3 3
+p22
+aVThabo Sefolosha OKC 05/21/2011 OKC vs. DAL L 19 4 2 3 66.7 0 1 0.0 0 0 - 1 3 4 0 1 0 1 0 -5
+p23
+aVDaequan Cook OKC 05/21/2011 OKC vs. DAL L 14 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 3 1
+p24
+aVKendrick Perkins OKC 05/21/2011 OKC vs. DAL L 30 4 0 2 0.0 0 0 - 4 4 100.0 1 4 5 0 0 2 2 1 -10
+p25
+aVJames Harden OKC 05/21/2011 OKC vs. DAL L 36 7 2 9 22.2 0 4 0.0 3 4 75.0 2 7 9 1 1 0 2 2 5
+p26
+aVKevin Durant OKC 05/21/2011 OKC vs. DAL L 46 24 7 22 31.8 0 8 0.0 10 11 90.9 3 9 12 5 2 2 1 3 1
+p27
+aVSerge Ibaka OKC 05/21/2011 OKC vs. DAL L 24 9 4 11 36.4 0 0 - 1 2 50.0 3 4 7 0 0 3 0 0 -19
+p28
+aVRussell Westbrook OKC 05/19/2011 OKC @ DAL W 28 18 7 15 46.7 1 2 50.0 3 4 75.0 3 0 3 4 0 0 4 1 -12
+p29
+aVDaequan Cook OKC 05/19/2011 OKC @ DAL W 16 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 0 0 0 0 1 11
+p30
+aVNick Collison OKC 05/19/2011 OKC @ DAL W 26 6 2 2 100.0 0 0 - 2 4 50.0 2 5 7 2 1 2 2 6 10
+p31
+aVKevin Durant OKC 05/19/2011 OKC @ DAL W 44 24 11 23 47.8 0 5 0.0 2 3 66.7 0 3 3 4 1 1 3 4 -2
+p32
+aVThabo Sefolosha OKC 05/19/2011 OKC @ DAL W 19 4 1 3 33.3 0 1 0.0 2 2 100.0 1 4 5 0 1 1 0 1 -9
+p33
+aVKendrick Perkins OKC 05/19/2011 OKC @ DAL W 24 4 2 2 100.0 0 0 - 0 0 - 0 4 4 2 0 1 3 4 -8
+p34
+aVEric Maynor OKC 05/19/2011 OKC @ DAL W 20 13 5 9 55.6 0 1 0.0 3 3 100.0 1 1 2 1 0 0 0 1 18
+p35
+aVSerge Ibaka OKC 05/19/2011 OKC @ DAL W 28 6 2 4 50.0 0 0 - 2 2 100.0 2 4 6 0 0 0 2 4 3
+p36
+aVJames Harden OKC 05/19/2011 OKC @ DAL W 32 23 6 9 66.7 4 7 57.1 7 8 87.5 0 7 7 4 2 0 0 2 14
+p37
+aVNazr Mohammed OKC 05/19/2011 OKC @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p38
+aVDaequan Cook OKC 05/17/2011 OKC @ DAL L 8 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 0 0 0 0 1 -9
+p39
+aVRussell Westbrook OKC 05/17/2011 OKC @ DAL L 38 20 3 15 20.0 0 0 - 14 18 77.8 1 2 3 3 1 0 4 2 -7
+p40
+aVThabo Sefolosha OKC 05/17/2011 OKC @ DAL L 19 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 2 2 0 1 4 -2
+p41
+aVNate Robinson OKC 05/17/2011 OKC @ DAL L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p42
+aVKevin Durant OKC 05/17/2011 OKC @ DAL L 42 40 10 18 55.6 2 5 40.0 18 19 94.7 0 8 8 5 1 2 3 3 -1
+p43
+aVEric Maynor OKC 05/17/2011 OKC @ DAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -2
+p44
+aVSerge Ibaka OKC 05/17/2011 OKC @ DAL L 32 17 7 11 63.6 0 0 - 3 3 100.0 2 4 6 0 1 0 0 5 -2
+p45
+aVNazr Mohammed OKC 05/17/2011 OKC @ DAL L 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -2
+p46
+aVJames Harden OKC 05/17/2011 OKC @ DAL L 36 12 5 9 55.6 1 4 25.0 1 1 100.0 0 2 2 4 1 1 0 4 -13
+p47
+aVNick Collison OKC 05/17/2011 OKC @ DAL L 17 4 2 4 50.0 0 0 - 0 0 - 5 0 5 1 0 0 3 4 7
+p48
+aVKendrick Perkins OKC 05/17/2011 OKC @ DAL L 28 7 3 4 75.0 0 0 - 1 2 50.0 2 3 5 2 1 0 0 2 -14
+p49
+aVEric Maynor OKC 05/15/2011 OKC vs. MEM W 13 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 -4
+p50
+aVNazr Mohammed OKC 05/15/2011 OKC vs. MEM W 15 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 10
+p51
+aVRussell Westbrook OKC 05/15/2011 OKC vs. MEM W 35 14 4 12 33.3 0 0 - 6 6 100.0 6 4 10 14 0 1 5 2 19
+p52
+aVNate Robinson OKC 05/15/2011 OKC vs. MEM W 2 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 0 -4
+p53
+aVDaequan Cook OKC 05/15/2011 OKC vs. MEM W 11 0 0 4 0.0 0 4 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p54
+aVKevin Durant OKC 05/15/2011 OKC vs. MEM W 39 39 13 25 52.0 4 9 44.4 9 9 100.0 1 8 9 2 0 3 2 2 18
+p55
+aVJames Harden OKC 05/15/2011 OKC vs. MEM W 31 17 6 10 60.0 4 8 50.0 1 4 25.0 0 4 4 3 4 1 1 0 24
+p56
+aVRoyal Ivey OKC 05/15/2011 OKC vs. MEM W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p57
+aVThabo Sefolosha OKC 05/15/2011 OKC vs. MEM W 15 4 2 5 40.0 0 3 0.0 0 0 - 0 3 3 2 1 0 3 2 -5
+p58
+aVKendrick Perkins OKC 05/15/2011 OKC vs. MEM W 31 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 2 1 4 6
+p59
+aVNick Collison OKC 05/15/2011 OKC vs. MEM W 33 8 3 4 75.0 0 0 - 2 2 100.0 4 8 12 1 1 3 0 3 26
+p60
+aVSerge Ibaka OKC 05/15/2011 OKC vs. MEM W 13 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -7
+p61
+aVNick Collison OKC 05/13/2011 OKC @ MEM L 20 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 1 1 1 2 6
+p62
+aVKendrick Perkins OKC 05/13/2011 OKC @ MEM L 33 6 1 3 33.3 0 0 - 4 6 66.7 2 5 7 1 1 2 0 2 -14
+p63
+aVThabo Sefolosha OKC 05/13/2011 OKC @ MEM L 16 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 1 0 1 2 0 -16
+p64
+aVSerge Ibaka OKC 05/13/2011 OKC @ MEM L 25 8 4 6 66.7 0 0 - 0 0 - 2 3 5 0 0 1 3 5 -14
+p65
+aVEric Maynor OKC 05/13/2011 OKC @ MEM L 11 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 0 7
+p66
+aVNazr Mohammed OKC 05/13/2011 OKC @ MEM L 8 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 2 2
+p67
+aVDaequan Cook OKC 05/13/2011 OKC @ MEM L 13 0 0 3 0.0 0 3 0.0 0 0 - 0 4 4 1 0 0 1 1 -6
+p68
+aVKevin Durant OKC 05/13/2011 OKC @ MEM L 37 11 3 14 21.4 1 9 11.1 4 6 66.7 0 7 7 2 0 0 1 5 -1
+p69
+aVRussell Westbrook OKC 05/13/2011 OKC @ MEM L 37 27 11 22 50.0 1 5 20.0 4 5 80.0 0 3 3 4 2 0 5 2 -19
+p70
+aVJames Harden OKC 05/13/2011 OKC @ MEM L 39 14 5 10 50.0 2 5 40.0 2 3 66.7 0 6 6 5 0 0 2 2 -5
+p71
+aVThabo Sefolosha OKC 05/11/2011 OKC vs. MEM W 16 2 1 2 50.0 0 1 0.0 0 0 - 2 4 6 0 0 0 2 2 -2
+p72
+aVNazr Mohammed OKC 05/11/2011 OKC vs. MEM W 22 10 4 7 57.1 0 0 - 2 2 100.0 2 4 6 0 2 0 1 2 15
+p73
+aVNick Collison OKC 05/11/2011 OKC vs. MEM W 25 9 4 8 50.0 0 0 - 1 1 100.0 5 5 10 1 1 0 2 4 13
+p74
+aVRussell Westbrook OKC 05/11/2011 OKC vs. MEM W 25 11 4 10 40.0 1 1 100.0 2 2 100.0 0 3 3 6 1 0 3 3 13
+p75
+aVNate Robinson OKC 05/11/2011 OKC vs. MEM W 4 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 0
+p76
+aVKevin Durant OKC 05/11/2011 OKC vs. MEM W 31 19 7 14 50.0 1 4 25.0 4 6 66.7 0 7 7 0 0 2 1 1 19
+p77
+aVKendrick Perkins OKC 05/11/2011 OKC vs. MEM W 23 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 0 0 0 3 3 10
+p78
+aVDaequan Cook OKC 05/11/2011 OKC vs. MEM W 18 18 6 7 85.7 4 5 80.0 2 2 100.0 0 2 2 0 1 0 0 3 9
+p79
+aVEric Maynor OKC 05/11/2011 OKC vs. MEM W 23 1 0 5 0.0 0 1 0.0 1 2 50.0 1 1 2 9 1 0 2 2 14
+p80
+aVRoyal Ivey OKC 05/11/2011 OKC vs. MEM W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 0
+p81
+aVSerge Ibaka OKC 05/11/2011 OKC vs. MEM W 21 9 3 8 37.5 0 0 - 3 4 75.0 2 2 4 0 1 3 0 3 15
+p82
+aVJames Harden OKC 05/11/2011 OKC vs. MEM W 26 9 4 8 50.0 1 4 25.0 0 0 - 1 5 6 5 0 0 3 2 29
+p83
+aVThabo Sefolosha OKC 05/09/2011 OKC @ MEM W 15 4 1 3 33.3 0 2 0.0 2 2 100.0 1 2 3 1 0 0 1 0 -11
+p84
+aVSerge Ibaka OKC 05/09/2011 OKC @ MEM W 17 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 5 -3
+p85
+aVNick Collison OKC 05/09/2011 OKC @ MEM W 35 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 2 0 0 5 22
+p86
+aVJames Harden OKC 05/09/2011 OKC @ MEM W 49 19 4 11 36.4 1 6 16.7 10 10 100.0 2 5 7 7 0 3 1 2 17
+p87
+aVNazr Mohammed OKC 05/09/2011 OKC @ MEM W 20 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 0 0 2 0 4 0
+p88
+aVKendrick Perkins OKC 05/09/2011 OKC @ MEM W 35 4 2 2 100.0 0 0 - 0 3 0.0 4 4 8 0 0 0 3 6 -10
+p89
+aVEric Maynor OKC 05/09/2011 OKC @ MEM W 12 3 1 4 25.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 2 -2
+p90
+aVRussell Westbrook OKC 05/09/2011 OKC @ MEM W 51 40 15 33 45.5 0 2 0.0 10 11 90.9 1 4 5 5 3 2 3 5 12
+p91
+aVDaequan Cook OKC 05/09/2011 OKC @ MEM W 24 10 3 9 33.3 2 7 28.6 2 2 100.0 1 4 5 0 0 0 2 0 10
+p92
+aVKevin Durant OKC 05/09/2011 OKC @ MEM W 57 35 9 20 45.0 1 6 16.7 16 18 88.9 3 10 13 1 4 0 5 2 15
+p93
+aVKendrick Perkins OKC 05/07/2011 OKC @ MEM L 31 6 2 6 33.3 0 0 - 2 2 100.0 6 7 13 1 1 0 1 6 1
+p94
+aVNick Collison OKC 05/07/2011 OKC @ MEM L 23 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 1 0 4 -11
+p95
+aVSerge Ibaka OKC 05/07/2011 OKC @ MEM L 43 14 6 12 50.0 0 0 - 2 3 66.7 3 5 8 0 0 6 0 5 7
+p96
+aVRussell Westbrook OKC 05/07/2011 OKC @ MEM L 43 23 7 22 31.8 1 3 33.3 8 8 100.0 3 3 6 12 2 0 7 6 0
+p97
+aVKevin Durant OKC 05/07/2011 OKC @ MEM L 48 22 10 24 41.7 2 7 28.6 0 1 0.0 0 12 12 1 0 0 2 2 -9
+p98
+aVEric Maynor OKC 05/07/2011 OKC @ MEM L 10 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 0 0 -8
+p99
+aVJames Harden OKC 05/07/2011 OKC @ MEM L 25 12 4 9 44.4 1 5 20.0 3 3 100.0 2 3 5 2 1 2 2 2 -20
+p100
+aVNazr Mohammed OKC 05/07/2011 OKC @ MEM L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -7
+p101
+aVDaequan Cook OKC 05/07/2011 OKC @ MEM L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p102
+aVThabo Sefolosha OKC 05/07/2011 OKC @ MEM L 28 6 2 7 28.6 0 3 0.0 2 2 100.0 1 1 2 1 2 1 0 1 12
+p103
+aVThabo Sefolosha OKC 05/03/2011 OKC vs. MEM W 22 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 9
+p104
+aVEric Maynor OKC 05/03/2011 OKC vs. MEM W 15 15 6 7 85.7 3 4 75.0 0 0 - 0 1 1 2 3 0 2 1 9
+p105
+aVKevin Durant OKC 05/03/2011 OKC vs. MEM W 34 26 8 18 44.4 2 2 100.0 8 10 80.0 0 5 5 1 0 0 2 5 1
+p106
+aVJames Harden OKC 05/03/2011 OKC vs. MEM W 30 21 5 9 55.6 0 3 0.0 11 11 100.0 0 3 3 5 3 1 2 4 4
+p107
+aVNick Collison OKC 05/03/2011 OKC vs. MEM W 25 7 2 3 66.7 0 0 - 3 4 75.0 2 5 7 1 2 1 1 5 12
+p108
+aVSerge Ibaka OKC 05/03/2011 OKC vs. MEM W 30 8 4 7 57.1 0 0 - 0 0 - 4 2 6 0 0 2 1 5 11
+p109
+aVNazr Mohammed OKC 05/03/2011 OKC vs. MEM W 8 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 0 0 1 1 0
+p110
+aVDaequan Cook OKC 05/03/2011 OKC vs. MEM W 10 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 6
+p111
+aVRussell Westbrook OKC 05/03/2011 OKC vs. MEM W 33 24 9 20 45.0 1 2 50.0 5 6 83.3 0 2 2 6 3 0 4 1 0
+p112
+aVKendrick Perkins OKC 05/03/2011 OKC vs. MEM W 32 2 1 2 50.0 0 0 - 0 0 - 0 5 5 2 0 1 2 4 -7
+p113
+aVNazr Mohammed OKC 05/01/2011 OKC vs. MEM L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p114
+aVSerge Ibaka OKC 05/01/2011 OKC vs. MEM L 37 16 7 14 50.0 0 0 - 2 2 100.0 4 7 11 1 0 5 1 5 -12
+p115
+aVThabo Sefolosha OKC 05/01/2011 OKC vs. MEM L 25 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 1 -3
+p116
+aVKevin Durant OKC 05/01/2011 OKC vs. MEM L 44 33 11 21 52.4 3 5 60.0 8 11 72.7 3 8 11 3 1 2 3 2 -10
+p117
+aVKendrick Perkins OKC 05/01/2011 OKC vs. MEM L 29 2 1 3 33.3 0 0 - 0 0 - 3 3 6 1 0 0 2 2 -8
+p118
+aVDaequan Cook OKC 05/01/2011 OKC vs. MEM L 10 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 4
+p119
+aVEric Maynor OKC 05/01/2011 OKC vs. MEM L 10 3 0 3 0.0 0 2 0.0 3 4 75.0 1 0 1 3 2 0 2 1 -7
+p120
+aVJames Harden OKC 05/01/2011 OKC vs. MEM L 24 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 2 1 0 2 5 -9
+p121
+aVRussell Westbrook OKC 05/01/2011 OKC vs. MEM L 38 29 9 23 39.1 1 2 50.0 10 12 83.3 3 5 8 6 1 0 7 5 -6
+p122
+aVNick Collison OKC 05/01/2011 OKC vs. MEM L 15 5 2 3 66.7 0 0 - 1 2 50.0 2 0 2 0 1 0 0 3 -11
+p123
+aVNick Collison OKC 04/27/2011 OKC vs. DEN W 20 2 1 4 25.0 0 0 - 0 0 - 3 1 4 2 1 1 1 4 -7
+p124
+aVRussell Westbrook OKC 04/27/2011 OKC vs. DEN W 36 14 3 15 20.0 1 3 33.3 7 10 70.0 2 3 5 4 1 0 3 3 4
+p125
+aVSerge Ibaka OKC 04/27/2011 OKC vs. DEN W 35 1 0 4 0.0 0 1 0.0 1 2 50.0 4 4 8 2 2 9 5 3 5
+p126
+aVKendrick Perkins OKC 04/27/2011 OKC vs. DEN W 30 11 4 9 44.4 0 0 - 3 4 75.0 2 7 9 1 0 0 0 3 9
+p127
+aVJames Harden OKC 04/27/2011 OKC vs. DEN W 32 12 2 7 28.6 2 6 33.3 6 8 75.0 0 7 7 3 2 1 2 2 4
+p128
+aVNazr Mohammed OKC 04/27/2011 OKC vs. DEN W 5 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 1 0 0 2
+p129
+aVDaequan Cook OKC 04/27/2011 OKC vs. DEN W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p130
+aVEric Maynor OKC 04/27/2011 OKC vs. DEN W 12 9 3 7 42.9 1 3 33.3 2 2 100.0 0 1 1 2 0 0 3 1 -1
+p131
+aVThabo Sefolosha OKC 04/27/2011 OKC vs. DEN W 20 8 2 6 33.3 0 1 0.0 4 4 100.0 3 5 8 0 2 0 0 1 -3
+p132
+aVKevin Durant OKC 04/27/2011 OKC vs. DEN W 42 41 14 27 51.9 2 10 20.0 11 12 91.7 1 4 5 2 1 2 0 2 7
+p133
+aVDaequan Cook OKC 04/25/2011 OKC @ DEN L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 2 2 2
+p134
+aVNazr Mohammed OKC 04/25/2011 OKC @ DEN L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 2
+p135
+aVJames Harden OKC 04/25/2011 OKC @ DEN L 31 7 2 5 40.0 1 3 33.3 2 2 100.0 1 7 8 5 1 2 3 4 1
+p136
+aVKevin Durant OKC 04/25/2011 OKC @ DEN L 42 31 8 18 44.4 5 6 83.3 10 11 90.9 1 4 5 3 1 0 3 5 -1
+p137
+aVKendrick Perkins OKC 04/25/2011 OKC @ DEN L 27 3 1 3 33.3 0 0 - 1 4 25.0 1 5 6 0 1 0 2 3 -3
+p138
+aVEric Maynor OKC 04/25/2011 OKC @ DEN L 9 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -7
+p139
+aVSerge Ibaka OKC 04/25/2011 OKC @ DEN L 37 13 5 9 55.6 0 0 - 3 4 75.0 2 12 14 0 0 5 0 2 -7
+p140
+aVNick Collison OKC 04/25/2011 OKC @ DEN L 15 7 3 5 60.0 0 0 - 1 1 100.0 2 1 3 0 0 1 0 2 0
+p141
+aVThabo Sefolosha OKC 04/25/2011 OKC @ DEN L 21 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 3 0 0 1 1 -6
+p142
+aVRussell Westbrook OKC 04/25/2011 OKC @ DEN L 39 30 12 30 40.0 0 7 0.0 6 7 85.7 5 1 6 5 1 1 3 5 4
+p143
+aVRussell Westbrook OKC 04/23/2011 OKC @ DEN W 36 23 6 15 40.0 0 3 0.0 11 13 84.6 2 7 9 8 0 0 2 4 14
+p144
+aVDaequan Cook OKC 04/23/2011 OKC @ DEN W 10 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 0 1 0 0 0 -3
+p145
+aVJames Harden OKC 04/23/2011 OKC @ DEN W 32 10 3 8 37.5 2 4 50.0 2 4 50.0 0 5 5 2 2 0 1 4 11
+p146
+aVNick Collison OKC 04/23/2011 OKC @ DEN W 15 5 2 3 66.7 0 0 - 1 2 50.0 2 0 2 0 0 0 1 3 -8
+p147
+aVKevin Durant OKC 04/23/2011 OKC @ DEN W 43 26 7 22 31.8 3 8 37.5 9 12 75.0 0 4 4 6 1 3 2 5 5
+p148
+aVEric Maynor OKC 04/23/2011 OKC @ DEN W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -11
+p149
+aVSerge Ibaka OKC 04/23/2011 OKC @ DEN W 39 22 6 13 46.2 0 0 - 10 10 100.0 6 10 16 0 0 4 1 5 5
+p150
+aVNazr Mohammed OKC 04/23/2011 OKC @ DEN W 14 2 1 3 33.3 0 0 - 0 2 0.0 1 4 5 0 0 0 0 4 -1
+p151
+aVKendrick Perkins OKC 04/23/2011 OKC @ DEN W 19 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 2 2 4 3
+p152
+aVThabo Sefolosha OKC 04/23/2011 OKC @ DEN W 21 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 0 1 0 0 2 0
+p153
+aVKevin Durant OKC 04/20/2011 OKC vs. DEN W 40 23 7 15 46.7 3 7 42.9 6 7 85.7 2 3 5 5 1 0 1 2 20
+p154
+aVNick Collison OKC 04/20/2011 OKC vs. DEN W 25 10 4 5 80.0 0 0 - 2 2 100.0 3 5 8 1 0 0 0 1 16
+p155
+aVKendrick Perkins OKC 04/20/2011 OKC vs. DEN W 26 7 2 6 33.3 0 0 - 3 5 60.0 6 5 11 0 0 0 1 6 3
+p156
+aVSerge Ibaka OKC 04/20/2011 OKC vs. DEN W 23 12 5 8 62.5 0 0 - 2 2 100.0 3 9 12 0 0 2 2 4 9
+p157
+aVRussell Westbrook OKC 04/20/2011 OKC vs. DEN W 33 21 7 18 38.9 3 6 50.0 4 4 100.0 1 3 4 7 1 1 7 3 21
+p158
+aVThabo Sefolosha OKC 04/20/2011 OKC vs. DEN W 22 6 3 7 42.9 0 3 0.0 0 0 - 1 2 3 0 3 0 2 2 11
+p159
+aVNazr Mohammed OKC 04/20/2011 OKC vs. DEN W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 0
+p160
+aVEric Maynor OKC 04/20/2011 OKC vs. DEN W 15 3 1 6 16.7 0 2 0.0 1 2 50.0 0 1 1 5 1 0 0 0 -4
+p161
+aVJames Harden OKC 04/20/2011 OKC vs. DEN W 28 18 5 9 55.6 2 5 40.0 6 6 100.0 1 4 5 1 0 0 1 4 4
+p162
+aVDaequan Cook OKC 04/20/2011 OKC vs. DEN W 17 6 2 7 28.6 2 7 28.6 0 0 - 0 5 5 0 0 0 1 1 5
+p163
+aVNick Collison OKC 04/17/2011 OKC vs. DEN W 26 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 12
+p164
+aVSerge Ibaka OKC 04/17/2011 OKC vs. DEN W 25 3 1 8 12.5 0 0 - 1 2 50.0 2 3 5 0 0 4 1 2 -4
+p165
+aVEric Maynor OKC 04/17/2011 OKC vs. DEN W 12 12 5 7 71.4 2 3 66.7 0 0 - 0 2 2 1 1 0 1 0 8
+p166
+aVJames Harden OKC 04/17/2011 OKC vs. DEN W 26 5 1 5 20.0 0 4 0.0 3 4 75.0 0 3 3 4 1 2 0 2 7
+p167
+aVThabo Sefolosha OKC 04/17/2011 OKC vs. DEN W 22 2 0 1 0.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 0 1 -4
+p168
+aVDaequan Cook OKC 04/17/2011 OKC vs. DEN W 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 2
+p169
+aVKendrick Perkins OKC 04/17/2011 OKC vs. DEN W 28 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 1 2 3 -2
+p170
+aVRussell Westbrook OKC 04/17/2011 OKC vs. DEN W 37 31 12 23 52.2 3 4 75.0 4 5 80.0 2 4 6 7 1 0 5 2 -4
+p171
+aVKevin Durant OKC 04/17/2011 OKC vs. DEN W 43 41 13 22 59.1 3 6 50.0 12 15 80.0 0 9 9 2 1 0 1 3 2
+p172
+aVNazr Mohammed OKC 04/17/2011 OKC vs. DEN W 18 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 1 1 4 3
+p173
+a.

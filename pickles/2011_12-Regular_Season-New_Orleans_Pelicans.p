@@ -1,0 +1,1342 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCarl Landry NOH 04/26/2012 NOH @ HOU L 7 8 4 5 80.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 13
+p2
+aVJason Smith NOH 04/26/2012 NOH @ HOU L 5 2 1 2 50.0 0 0 - 0 0 - 0 4 4 2 0 0 0 0 9
+p3
+aVAl-Farouq Aminu NOH 04/26/2012 NOH @ HOU L 44 11 4 13 30.8 2 3 66.7 1 3 33.3 0 10 10 3 0 0 0 3 -14
+p4
+aVMarco Belinelli NOH 04/26/2012 NOH @ HOU L 16 9 4 8 50.0 1 2 50.0 0 0 - 0 4 4 2 1 1 0 0 16
+p5
+aVDarryl Watkins NOH 04/26/2012 NOH @ HOU L 42 13 3 6 50.0 0 0 - 7 13 53.8 1 9 10 1 3 1 4 4 -15
+p6
+aVJerome Dyson NOH 04/26/2012 NOH @ HOU L 41 15 6 14 42.9 0 3 0.0 3 6 50.0 1 1 2 1 3 1 4 3 -19
+p7
+aVGreivis Vasquez NOH 04/26/2012 NOH @ HOU L 39 8 3 14 21.4 2 7 28.6 0 0 - 1 2 3 6 2 0 4 1 -14
+p8
+aVLance Thomas NOH 04/26/2012 NOH @ HOU L 46 11 2 6 33.3 0 0 - 7 8 87.5 2 6 8 0 1 2 2 3 -11
+p9
+aVCarl Landry NOH 04/24/2012 NOH @ GSW W 26 14 5 10 50.0 0 0 - 4 6 66.7 4 2 6 0 0 0 1 1 5
+p10
+aVAl-Farouq Aminu NOH 04/24/2012 NOH @ GSW W 36 8 3 8 37.5 0 1 0.0 2 3 66.7 3 8 11 2 0 1 4 2 -3
+p11
+aVDarryl Watkins NOH 04/24/2012 NOH @ GSW W 19 4 2 4 50.0 0 0 - 0 3 0.0 1 3 4 0 2 1 2 5 -12
+p12
+aVJerome Dyson NOH 04/24/2012 NOH @ GSW W 25 5 1 5 20.0 0 0 - 3 4 75.0 0 1 1 3 2 0 1 2 -8
+p13
+aVXavier Henry NOH 04/24/2012 NOH @ GSW W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 2 -3
+p14
+aVLance Thomas NOH 04/24/2012 NOH @ GSW W 34 4 1 6 16.7 0 0 - 2 2 100.0 1 3 4 2 0 0 0 0 -4
+p15
+aVGreivis Vasquez NOH 04/24/2012 NOH @ GSW W 28 11 4 12 33.3 0 2 0.0 3 4 75.0 2 4 6 7 0 0 2 0 16
+p16
+aVGustavo Ayon NOH 04/24/2012 NOH @ GSW W 29 13 6 11 54.5 0 0 - 1 4 25.0 2 5 7 4 1 4 0 3 14
+p17
+aVMarco Belinelli NOH 04/24/2012 NOH @ GSW W 35 23 9 14 64.3 2 2 100.0 3 3 100.0 1 3 4 4 3 0 1 2 5
+p18
+aVDarryl Watkins NOH 04/22/2012 NOH @ LAC L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p19
+aVAl-Farouq Aminu NOH 04/22/2012 NOH @ LAC L 30 14 5 8 62.5 1 1 100.0 3 6 50.0 3 5 8 1 1 1 1 0 -8
+p20
+aVEric Gordon NOH 04/22/2012 NOH @ LAC L 38 17 4 13 30.8 1 5 20.0 8 12 66.7 0 2 2 5 0 0 6 5 -6
+p21
+aVMarco Belinelli NOH 04/22/2012 NOH @ LAC L 15 3 1 8 12.5 0 3 0.0 1 1 100.0 0 0 0 0 1 0 1 3 -6
+p22
+aVXavier Henry NOH 04/22/2012 NOH @ LAC L 17 8 2 4 50.0 0 0 - 4 4 100.0 1 3 4 1 1 0 2 3 1
+p23
+aVJerome Dyson NOH 04/22/2012 NOH @ LAC L 18 7 2 2 100.0 1 1 100.0 2 2 100.0 0 2 2 3 0 0 3 1 8
+p24
+aVCarl Landry NOH 04/22/2012 NOH @ LAC L 18 8 3 8 37.5 0 0 - 2 2 100.0 1 0 1 0 0 0 2 1 -4
+p25
+aVGreivis Vasquez NOH 04/22/2012 NOH @ LAC L 27 12 6 9 66.7 0 2 0.0 0 1 0.0 0 1 1 7 0 0 4 6 -16
+p26
+aVGustavo Ayon NOH 04/22/2012 NOH @ LAC L 20 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 0 2 1 0 5 -20
+p27
+aVJason Smith NOH 04/22/2012 NOH @ LAC L 31 13 6 9 66.7 0 0 - 1 2 50.0 1 7 8 2 1 3 0 3 -3
+p28
+aVLance Thomas NOH 04/22/2012 NOH @ LAC L 25 10 4 5 80.0 0 0 - 2 2 100.0 2 4 6 2 0 0 0 3 6
+p29
+aVXavier Henry NOH 04/19/2012 NOH vs. HOU W 17 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 1 0 2 2 -3
+p30
+aVCarl Landry NOH 04/19/2012 NOH vs. HOU W 38 20 9 13 69.2 0 0 - 2 2 100.0 6 4 10 0 1 0 4 3 6
+p31
+aVGustavo Ayon NOH 04/19/2012 NOH vs. HOU W 22 9 4 5 80.0 0 0 - 1 2 50.0 2 8 10 4 1 1 0 6 -6
+p32
+aVDarryl Watkins NOH 04/19/2012 NOH vs. HOU W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p33
+aVJerome Dyson NOH 04/19/2012 NOH vs. HOU W 13 0 0 5 0.0 0 1 0.0 0 0 - 1 3 4 1 0 0 2 3 -7
+p34
+aVJason Smith NOH 04/19/2012 NOH vs. HOU W 20 6 3 8 37.5 0 1 0.0 0 0 - 1 3 4 1 0 2 1 3 3
+p35
+aVGreivis Vasquez NOH 04/19/2012 NOH vs. HOU W 40 7 3 9 33.3 0 3 0.0 1 2 50.0 0 6 6 9 0 0 4 2 11
+p36
+aVMarco Belinelli NOH 04/19/2012 NOH vs. HOU W 25 13 4 10 40.0 3 7 42.9 2 2 100.0 0 2 2 1 0 0 0 1 -5
+p37
+aVEric Gordon NOH 04/19/2012 NOH vs. HOU W 38 27 9 18 50.0 1 5 20.0 8 10 80.0 0 4 4 5 3 1 2 1 11
+p38
+aVAl-Farouq Aminu NOH 04/19/2012 NOH vs. HOU W 32 17 6 14 42.9 0 3 0.0 5 6 83.3 2 6 8 2 2 0 0 1 11
+p39
+aVLance Thomas NOH 04/19/2012 NOH vs. HOU W 15 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 0 0 0 7
+p40
+aVGreivis Vasquez NOH 04/18/2012 NOH @ MEM L 26 9 4 9 44.4 0 2 0.0 1 1 100.0 1 0 1 9 2 0 7 0 -25
+p41
+aVJason Smith NOH 04/18/2012 NOH @ MEM L 18 12 6 8 75.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -16
+p42
+aVGustavo Ayon NOH 04/18/2012 NOH @ MEM L 13 4 1 4 25.0 0 0 - 2 2 100.0 3 1 4 0 0 0 0 0 -4
+p43
+aVXavier Henry NOH 04/18/2012 NOH @ MEM L 25 3 1 3 33.3 0 0 - 1 4 25.0 0 2 2 1 0 0 5 2 -4
+p44
+aVLance Thomas NOH 04/18/2012 NOH @ MEM L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -1
+p45
+aVDarryl Watkins NOH 04/18/2012 NOH @ MEM L 29 2 0 2 0.0 0 0 - 2 2 100.0 6 7 13 1 0 2 2 4 -7
+p46
+aVAl-Farouq Aminu NOH 04/18/2012 NOH @ MEM L 31 5 1 6 16.7 0 0 - 3 4 75.0 0 2 2 0 2 1 3 2 -3
+p47
+aVJerome Dyson NOH 04/18/2012 NOH @ MEM L 27 24 5 7 71.4 0 0 - 14 16 87.5 0 3 3 2 3 0 3 3 13
+p48
+aVMarco Belinelli NOH 04/18/2012 NOH @ MEM L 36 16 7 16 43.8 2 5 40.0 0 0 - 0 4 4 1 1 0 0 1 -17
+p49
+aVCarl Landry NOH 04/18/2012 NOH @ MEM L 21 16 4 4 100.0 0 0 - 8 9 88.9 0 1 1 1 0 1 1 1 4
+p50
+aVAl-Farouq Aminu NOH 04/16/2012 NOH @ CHA W 40 6 3 9 33.3 0 0 - 0 0 - 1 5 6 1 2 0 3 4 -4
+p51
+aVJerome Dyson NOH 04/16/2012 NOH @ CHA W 15 9 2 5 40.0 0 1 0.0 5 5 100.0 0 3 3 0 1 1 2 4 12
+p52
+aVJason Smith NOH 04/16/2012 NOH @ CHA W 33 9 4 10 40.0 0 0 - 1 2 50.0 2 4 6 1 0 2 2 4 6
+p53
+aVLance Thomas NOH 04/16/2012 NOH @ CHA W 13 0 0 3 0.0 0 0 - 0 0 - 0 2 2 3 0 0 0 3 -6
+p54
+aVXavier Henry NOH 04/16/2012 NOH @ CHA W 18 2 0 5 0.0 0 0 - 2 2 100.0 1 5 6 2 1 1 0 2 7
+p55
+aVGreivis Vasquez NOH 04/16/2012 NOH @ CHA W 39 20 8 18 44.4 0 5 0.0 4 4 100.0 1 3 4 6 1 0 4 0 5
+p56
+aVGustavo Ayon NOH 04/16/2012 NOH @ CHA W 24 2 1 2 50.0 0 0 - 0 0 - 2 6 8 1 0 2 0 0 1
+p57
+aVMarco Belinelli NOH 04/16/2012 NOH @ CHA W 37 13 4 15 26.7 1 5 20.0 4 6 66.7 0 3 3 1 1 0 1 4 3
+p58
+aVCarl Landry NOH 04/16/2012 NOH @ CHA W 23 14 4 10 40.0 0 0 - 6 6 100.0 4 8 12 0 0 0 0 2 16
+p59
+aVXavier Henry NOH 04/15/2012 NOH vs. MEM W 22 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -6
+p60
+aVLance Thomas NOH 04/15/2012 NOH vs. MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p61
+aVCarl Landry NOH 04/15/2012 NOH vs. MEM W 26 16 6 10 60.0 0 0 - 4 4 100.0 1 10 11 0 1 0 1 3 0
+p62
+aVChris Kaman NOH 04/15/2012 NOH vs. MEM W 20 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 1 0 3 2 6
+p63
+aVAl-Farouq Aminu NOH 04/15/2012 NOH vs. MEM W 29 12 4 9 44.4 0 1 0.0 4 4 100.0 3 4 7 2 3 0 1 2 18
+p64
+aVMarco Belinelli NOH 04/15/2012 NOH vs. MEM W 22 6 2 9 22.2 1 7 14.3 1 1 100.0 0 0 0 3 1 0 0 1 3
+p65
+aVEric Gordon NOH 04/15/2012 NOH vs. MEM W 28 18 5 9 55.6 0 0 - 8 8 100.0 0 0 0 2 0 0 1 2 17
+p66
+aVJason Smith NOH 04/15/2012 NOH vs. MEM W 27 14 7 13 53.8 0 0 - 0 0 - 3 7 10 4 0 0 1 3 22
+p67
+aVGreivis Vasquez NOH 04/15/2012 NOH vs. MEM W 37 8 2 10 20.0 2 5 40.0 2 2 100.0 0 1 1 9 3 0 3 3 19
+p68
+aVGustavo Ayon NOH 04/15/2012 NOH vs. MEM W 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 3 -4
+p69
+aVJerome Dyson NOH 04/15/2012 NOH vs. MEM W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 3 2 -8
+p70
+aVAl-Farouq Aminu NOH 04/13/2012 NOH vs. UTA W 35 11 4 5 80.0 1 2 50.0 2 4 50.0 0 7 7 2 2 2 3 1 13
+p71
+aVCarl Landry NOH 04/13/2012 NOH vs. UTA W 20 5 2 4 50.0 0 0 - 1 1 100.0 0 3 3 1 0 0 0 2 -8
+p72
+aVGreivis Vasquez NOH 04/13/2012 NOH vs. UTA W 32 11 3 5 60.0 1 1 100.0 4 4 100.0 0 1 1 6 1 0 1 3 -1
+p73
+aVJason Smith NOH 04/13/2012 NOH vs. UTA W 31 8 3 6 50.0 0 0 - 2 2 100.0 4 4 8 4 0 1 1 3 15
+p74
+aVChris Kaman NOH 04/13/2012 NOH vs. UTA W 33 19 8 16 50.0 0 0 - 3 4 75.0 2 2 4 2 1 0 2 3 11
+p75
+aVMarco Belinelli NOH 04/13/2012 NOH vs. UTA W 21 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 1 1 0 1 1 6
+p76
+aVJerome Dyson NOH 04/13/2012 NOH vs. UTA W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p77
+aVXavier Henry NOH 04/13/2012 NOH vs. UTA W 12 6 2 3 66.7 1 1 100.0 1 2 50.0 1 2 3 1 1 0 1 4 0
+p78
+aVGustavo Ayon NOH 04/13/2012 NOH vs. UTA W 12 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 1 0 2 0 4
+p79
+aVEric Gordon NOH 04/13/2012 NOH vs. UTA W 37 25 11 18 61.1 2 5 40.0 1 4 25.0 0 0 0 6 1 0 2 1 12
+p80
+aVCarl Landry NOH 04/11/2012 NOH vs. SAC W 21 8 2 6 33.3 0 0 - 4 8 50.0 0 3 3 2 0 0 2 1 -2
+p81
+aVChris Kaman NOH 04/11/2012 NOH vs. SAC W 35 8 3 9 33.3 0 0 - 2 2 100.0 0 10 10 1 0 3 1 1 7
+p82
+aVGreivis Vasquez NOH 04/11/2012 NOH vs. SAC W 35 15 6 12 50.0 1 2 50.0 2 3 66.7 1 2 3 5 1 1 4 2 6
+p83
+aVAl-Farouq Aminu NOH 04/11/2012 NOH vs. SAC W 28 7 2 4 50.0 0 0 - 3 4 75.0 2 4 6 4 2 2 3 3 -17
+p84
+aVJerome Dyson NOH 04/11/2012 NOH vs. SAC W 23 3 1 5 20.0 0 1 0.0 1 3 33.3 0 3 3 5 1 0 2 1 7
+p85
+aVJason Smith NOH 04/11/2012 NOH vs. SAC W 27 22 10 12 83.3 0 0 - 2 4 50.0 3 3 6 1 1 0 5 1 11
+p86
+aVLance Thomas NOH 04/11/2012 NOH vs. SAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 7
+p87
+aVGustavo Ayon NOH 04/11/2012 NOH vs. SAC W 12 5 2 3 66.7 0 0 - 1 1 100.0 2 4 6 1 0 0 0 0 3
+p88
+aVMarco Belinelli NOH 04/11/2012 NOH vs. SAC W 30 21 5 9 55.6 3 6 50.0 8 9 88.9 0 3 3 3 1 0 0 2 4
+p89
+aVXavier Henry NOH 04/11/2012 NOH vs. SAC W 24 14 6 7 85.7 0 0 - 2 2 100.0 0 3 3 1 1 0 1 2 19
+p90
+aVGustavo Ayon NOH 04/09/2012 NOH vs. LAL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 3
+p91
+aVJason Smith NOH 04/09/2012 NOH vs. LAL L 30 8 4 11 36.4 0 0 - 0 0 - 3 0 3 1 0 1 1 3 -14
+p92
+aVChris Kaman NOH 04/09/2012 NOH vs. LAL L 29 16 7 13 53.8 0 0 - 2 2 100.0 1 3 4 3 1 5 2 5 4
+p93
+aVAl-Farouq Aminu NOH 04/09/2012 NOH vs. LAL L 36 7 3 6 50.0 0 1 0.0 1 1 100.0 0 7 7 0 3 1 2 1 -3
+p94
+aVGreivis Vasquez NOH 04/09/2012 NOH vs. LAL L 36 18 6 13 46.2 5 6 83.3 1 1 100.0 0 0 0 11 2 0 1 2 -4
+p95
+aVCarl Landry NOH 04/09/2012 NOH vs. LAL L 30 20 8 12 66.7 0 0 - 4 4 100.0 1 10 11 5 0 0 1 3 3
+p96
+aVLance Thomas NOH 04/09/2012 NOH vs. LAL L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p97
+aVXavier Henry NOH 04/09/2012 NOH vs. LAL L 23 2 1 8 12.5 0 1 0.0 0 0 - 2 4 6 2 2 0 0 1 -1
+p98
+aVMarco Belinelli NOH 04/09/2012 NOH vs. LAL L 38 20 7 15 46.7 4 7 57.1 2 2 100.0 0 2 2 2 0 0 0 2 1
+p99
+aVChris Kaman NOH 04/07/2012 NOH vs. MIN W 31 21 9 10 90.0 0 0 - 3 3 100.0 2 8 10 4 1 4 2 2 15
+p100
+aVEric Gordon NOH 04/07/2012 NOH vs. MIN W 25 10 3 12 25.0 1 3 33.3 3 5 60.0 1 2 3 1 1 0 2 3 0
+p101
+aVLance Thomas NOH 04/07/2012 NOH vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p102
+aVCarl Landry NOH 04/07/2012 NOH vs. MIN W 24 8 2 7 28.6 0 0 - 4 4 100.0 2 4 6 0 0 1 1 1 4
+p103
+aVAl-Farouq Aminu NOH 04/07/2012 NOH vs. MIN W 29 9 3 8 37.5 1 1 100.0 2 2 100.0 2 4 6 3 0 2 2 3 8
+p104
+aVTrevor Ariza NOH 04/07/2012 NOH vs. MIN W 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 2 1 0 0 12
+p105
+aVXavier Henry NOH 04/07/2012 NOH vs. MIN W 17 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 1 0 2 1 -9
+p106
+aVGreivis Vasquez NOH 04/07/2012 NOH vs. MIN W 33 11 5 11 45.5 1 5 20.0 0 0 - 0 5 5 10 1 0 3 2 25
+p107
+aVMarco Belinelli NOH 04/07/2012 NOH vs. MIN W 25 6 2 7 28.6 1 4 25.0 1 3 33.3 0 3 3 4 0 0 1 1 -7
+p108
+aVJason Smith NOH 04/07/2012 NOH vs. MIN W 36 26 12 16 75.0 0 0 - 2 2 100.0 5 5 10 0 3 0 0 4 4
+p109
+aVGustavo Ayon NOH 04/07/2012 NOH vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p110
+aVAl-Farouq Aminu NOH 04/06/2012 NOH @ SAS L 19 4 1 2 50.0 1 1 100.0 1 2 50.0 0 1 1 2 0 0 2 3 -8
+p111
+aVCarl Landry NOH 04/06/2012 NOH @ SAS L 21 13 3 8 37.5 0 0 - 7 10 70.0 2 4 6 0 0 0 2 2 -17
+p112
+aVGreivis Vasquez NOH 04/06/2012 NOH @ SAS L 29 12 5 8 62.5 0 0 - 2 2 100.0 1 5 6 1 1 0 2 2 5
+p113
+aVJason Smith NOH 04/06/2012 NOH @ SAS L 15 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 0 -4
+p114
+aVXavier Henry NOH 04/06/2012 NOH @ SAS L 23 8 3 6 50.0 0 0 - 2 3 66.7 1 2 3 0 1 1 0 3 -12
+p115
+aVGustavo Ayon NOH 04/06/2012 NOH @ SAS L 18 4 1 5 20.0 0 0 - 2 3 66.7 2 4 6 2 0 0 0 3 -10
+p116
+aVTrevor Ariza NOH 04/06/2012 NOH @ SAS L 25 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 3 0 2 2 -14
+p117
+aVEric Gordon NOH 04/06/2012 NOH @ SAS L 32 31 11 19 57.9 2 7 28.6 7 8 87.5 0 2 2 4 3 0 3 0 -15
+p118
+aVMarco Belinelli NOH 04/06/2012 NOH @ SAS L 22 15 6 14 42.9 2 4 50.0 1 3 33.3 0 2 2 0 2 0 1 1 -29
+p119
+aVLance Thomas NOH 04/06/2012 NOH @ SAS L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p120
+aVChris Kaman NOH 04/06/2012 NOH @ SAS L 25 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 1 0 2 2 1 -13
+p121
+aVChris Kaman NOH 04/04/2012 NOH vs. DEN W 33 14 6 11 54.5 0 0 - 2 3 66.7 3 7 10 2 1 5 2 3 3
+p122
+aVGustavo Ayon NOH 04/04/2012 NOH vs. DEN W 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 3
+p123
+aVJason Smith NOH 04/04/2012 NOH vs. DEN W 25 10 5 6 83.3 0 0 - 0 0 - 3 1 4 1 1 1 3 3 12
+p124
+aVEric Gordon NOH 04/04/2012 NOH vs. DEN W 34 15 3 11 27.3 2 3 66.7 7 9 77.8 0 4 4 4 1 0 4 3 6
+p125
+aVCarl Landry NOH 04/04/2012 NOH vs. DEN W 27 12 4 8 50.0 0 1 0.0 4 8 50.0 2 3 5 2 0 1 2 3 -14
+p126
+aVGreivis Vasquez NOH 04/04/2012 NOH vs. DEN W 37 11 4 5 80.0 1 1 100.0 2 2 100.0 0 5 5 10 0 0 2 4 7
+p127
+aVTrevor Ariza NOH 04/04/2012 NOH vs. DEN W 31 15 5 10 50.0 1 2 50.0 4 5 80.0 1 5 6 1 1 0 3 2 13
+p128
+aVMarco Belinelli NOH 04/04/2012 NOH vs. DEN W 18 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 2 1 0 0 2 -9
+p129
+aVAl-Farouq Aminu NOH 04/04/2012 NOH vs. DEN W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 2 0 -9
+p130
+aVXavier Henry NOH 04/04/2012 NOH vs. DEN W 16 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 0 1 0 1 -2
+p131
+aVJason Smith NOH 04/01/2012 NOH @ PHX L 28 14 7 14 50.0 0 0 - 0 0 - 1 1 2 2 1 0 3 4 -13
+p132
+aVMarco Belinelli NOH 04/01/2012 NOH @ PHX L 34 14 6 14 42.9 1 4 25.0 1 1 100.0 0 7 7 1 0 0 0 2 -21
+p133
+aVGreivis Vasquez NOH 04/01/2012 NOH @ PHX L 23 7 2 8 25.0 1 2 50.0 2 2 100.0 0 1 1 6 1 0 1 1 10
+p134
+aVGustavo Ayon NOH 04/01/2012 NOH @ PHX L 28 4 2 6 33.3 0 0 - 0 0 - 2 4 6 3 2 0 1 3 0
+p135
+aVChris Johnson NOH 04/01/2012 NOH @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p136
+aVJarrett Jack NOH 04/01/2012 NOH @ PHX L 28 13 5 10 50.0 1 2 50.0 2 2 100.0 1 3 4 5 1 0 3 0 -27
+p137
+aVLance Thomas NOH 04/01/2012 NOH @ PHX L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -11
+p138
+aVXavier Henry NOH 04/01/2012 NOH @ PHX L 22 4 1 4 25.0 0 0 - 2 4 50.0 0 1 1 0 1 0 2 2 -6
+p139
+aVChris Kaman NOH 04/01/2012 NOH @ PHX L 26 8 4 11 36.4 0 0 - 0 0 - 1 4 5 1 1 1 3 3 -10
+p140
+aVAl-Farouq Aminu NOH 04/01/2012 NOH @ PHX L 37 9 4 9 44.4 1 1 100.0 0 0 - 4 4 8 0 3 0 4 3 -7
+p141
+aVJarrett Jack NOH 03/31/2012 NOH @ LAL L 33 18 7 20 35.0 1 3 33.3 3 3 100.0 0 3 3 10 0 0 0 1 -12
+p142
+aVXavier Henry NOH 03/31/2012 NOH @ LAL L 20 8 4 6 66.7 0 0 - 0 2 0.0 1 4 5 2 0 0 1 1 7
+p143
+aVGreivis Vasquez NOH 03/31/2012 NOH @ LAL L 24 12 6 11 54.5 0 1 0.0 0 1 0.0 0 4 4 3 1 0 1 1 -2
+p144
+aVMarco Belinelli NOH 03/31/2012 NOH @ LAL L 35 8 3 12 25.0 1 4 25.0 1 2 50.0 0 3 3 3 1 0 1 0 -18
+p145
+aVLance Thomas NOH 03/31/2012 NOH @ LAL L 33 6 3 8 37.5 0 0 - 0 0 - 5 2 7 1 0 0 2 4 -8
+p146
+aVJason Smith NOH 03/31/2012 NOH @ LAL L 37 17 8 17 47.1 0 1 0.0 1 2 50.0 2 8 10 0 0 2 0 5 4
+p147
+aVAl-Farouq Aminu NOH 03/31/2012 NOH @ LAL L 32 10 5 11 45.5 0 1 0.0 0 0 - 2 5 7 1 4 0 2 1 14
+p148
+aVChris Johnson NOH 03/31/2012 NOH @ LAL L 26 6 3 7 42.9 0 0 - 0 0 - 4 4 8 1 4 0 1 4 0
+p149
+aVGreivis Vasquez NOH 03/29/2012 NOH @ POR L 43 14 7 15 46.7 0 2 0.0 0 0 - 1 2 3 6 0 0 4 3 -14
+p150
+aVMarco Belinelli NOH 03/29/2012 NOH @ POR L 45 27 9 18 50.0 7 11 63.6 2 2 100.0 0 3 3 3 0 1 3 2 -2
+p151
+aVJason Smith NOH 03/29/2012 NOH @ POR L 32 13 4 9 44.4 0 0 - 5 5 100.0 5 4 9 0 3 2 1 5 6
+p152
+aVChris Johnson NOH 03/29/2012 NOH @ POR L 9 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -6
+p153
+aVXavier Henry NOH 03/29/2012 NOH @ POR L 27 2 1 7 14.3 0 0 - 0 0 - 0 3 3 1 2 0 0 1 -16
+p154
+aVLance Thomas NOH 03/29/2012 NOH @ POR L 18 4 0 0 - 0 0 - 4 4 100.0 1 2 3 0 0 0 1 4 -14
+p155
+aVAl-Farouq Aminu NOH 03/29/2012 NOH @ POR L 30 7 2 6 33.3 0 0 - 3 3 100.0 0 3 3 2 0 2 2 5 9
+p156
+aVCarl Landry NOH 03/29/2012 NOH @ POR L 36 24 9 13 69.2 0 0 - 6 7 85.7 2 5 7 0 1 0 2 2 7
+p157
+aVJarrett Jack NOH 03/28/2012 NOH @ GSW W 30 20 8 15 53.3 3 5 60.0 1 1 100.0 1 2 3 9 1 0 1 0 6
+p158
+aVAl-Farouq Aminu NOH 03/28/2012 NOH @ GSW W 35 6 2 5 40.0 0 0 - 2 4 50.0 1 7 8 3 3 0 1 2 6
+p159
+aVXavier Henry NOH 03/28/2012 NOH @ GSW W 22 8 3 8 37.5 0 1 0.0 2 4 50.0 0 1 1 0 1 0 0 2 9
+p160
+aVMarco Belinelli NOH 03/28/2012 NOH @ GSW W 33 22 9 13 69.2 4 5 80.0 0 0 - 1 0 1 6 3 0 2 2 12
+p161
+aVChris Johnson NOH 03/28/2012 NOH @ GSW W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 2 3 6
+p162
+aVGreivis Vasquez NOH 03/28/2012 NOH @ GSW W 21 6 3 6 50.0 0 0 - 0 1 0.0 0 4 4 6 0 0 0 3 12
+p163
+aVLance Thomas NOH 03/28/2012 NOH @ GSW W 26 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 0 0 0 2 2 15
+p164
+aVJason Smith NOH 03/28/2012 NOH @ GSW W 26 12 6 7 85.7 0 0 - 0 0 - 2 4 6 2 0 1 0 1 6
+p165
+aVCarl Landry NOH 03/28/2012 NOH @ GSW W 33 20 9 18 50.0 0 0 - 2 2 100.0 4 4 8 0 0 1 1 2 3
+p166
+aVXavier Henry NOH 03/26/2012 NOH @ LAC L 22 8 2 5 40.0 0 1 0.0 4 6 66.7 0 2 2 0 1 0 0 1 -1
+p167
+aVCarl Landry NOH 03/26/2012 NOH @ LAC L 28 14 4 6 66.7 0 0 - 6 8 75.0 3 7 10 2 0 1 3 3 -10
+p168
+aVAl-Farouq Aminu NOH 03/26/2012 NOH @ LAC L 25 15 7 8 87.5 1 2 50.0 0 0 - 0 1 1 2 1 1 1 2 8
+p169
+aVGustavo Ayon NOH 03/26/2012 NOH @ LAC L 28 8 3 7 42.9 0 0 - 2 2 100.0 2 6 8 3 2 1 4 4 4
+p170
+aVMarco Belinelli NOH 03/26/2012 NOH @ LAC L 24 7 3 8 37.5 1 5 20.0 0 0 - 0 0 0 0 0 0 1 0 -15
+p171
+aVChris Johnson NOH 03/26/2012 NOH @ LAC L 21 11 4 6 66.7 0 0 - 3 5 60.0 2 4 6 0 1 0 2 4 2
+p172
+aVJarrett Jack NOH 03/26/2012 NOH @ LAC L 29 9 4 12 33.3 0 1 0.0 1 1 100.0 1 4 5 7 0 0 5 3 -11
+p173
+aVLance Thomas NOH 03/26/2012 NOH @ LAC L 18 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -18
+p174
+aVGreivis Vasquez NOH 03/26/2012 NOH @ LAC L 22 6 2 3 66.7 0 1 0.0 2 3 66.7 0 1 1 7 1 0 6 2 3
+p175
+aVTrevor Ariza NOH 03/26/2012 NOH @ LAC L 25 3 0 3 0.0 0 1 0.0 3 6 50.0 0 2 2 1 0 2 4 2 -22
+p176
+aVGreivis Vasquez NOH 03/24/2012 NOH vs. SAS L 33 10 5 11 45.5 0 1 0.0 0 0 - 1 3 4 6 0 0 4 2 -12
+p177
+aVChris Johnson NOH 03/24/2012 NOH vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p178
+aVGustavo Ayon NOH 03/24/2012 NOH vs. SAS L 39 8 4 12 33.3 0 0 - 0 0 - 4 9 13 5 1 1 0 3 -9
+p179
+aVLance Thomas NOH 03/24/2012 NOH vs. SAS L 19 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 1 2 0 1 -6
+p180
+aVJarrett Jack NOH 03/24/2012 NOH vs. SAS L 37 27 11 19 57.9 1 3 33.3 4 5 80.0 0 7 7 5 0 0 4 3 5
+p181
+aVCarl Landry NOH 03/24/2012 NOH vs. SAS L 29 15 5 8 62.5 0 0 - 5 5 100.0 2 3 5 1 1 0 5 4 6
+p182
+aVAl-Farouq Aminu NOH 03/24/2012 NOH vs. SAS L 24 8 3 7 42.9 0 0 - 2 2 100.0 2 4 6 1 0 2 0 3 -6
+p183
+aVMarco Belinelli NOH 03/24/2012 NOH vs. SAS L 37 10 5 12 41.7 0 1 0.0 0 0 - 0 2 2 2 0 0 3 2 4
+p184
+aVXavier Henry NOH 03/24/2012 NOH vs. SAS L 17 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 0
+p185
+aVJarrett Jack NOH 03/22/2012 NOH vs. LAC W 45 17 5 12 41.7 0 3 0.0 7 7 100.0 0 4 4 9 2 0 4 3 14
+p186
+aVGreivis Vasquez NOH 03/22/2012 NOH vs. LAC W 18 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 2 0 0 1 1 5
+p187
+aVXavier Henry NOH 03/22/2012 NOH vs. LAC W 26 12 3 4 75.0 1 1 100.0 5 6 83.3 0 3 3 1 0 0 0 1 7
+p188
+aVChris Kaman NOH 03/22/2012 NOH vs. LAC W 40 20 9 13 69.2 0 0 - 2 3 66.7 1 9 10 1 1 4 7 2 5
+p189
+aVLance Thomas NOH 03/22/2012 NOH vs. LAC W 12 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 1 1 4 15
+p190
+aVMarco Belinelli NOH 03/22/2012 NOH vs. LAC W 29 15 5 7 71.4 1 1 100.0 4 5 80.0 0 5 5 4 0 0 1 3 4
+p191
+aVGustavo Ayon NOH 03/22/2012 NOH vs. LAC W 11 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 1 2 2
+p192
+aVChris Johnson NOH 03/22/2012 NOH vs. LAC W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -7
+p193
+aVTrevor Ariza NOH 03/22/2012 NOH vs. LAC W 19 2 1 5 20.0 0 0 - 0 0 - 0 2 2 2 0 0 2 1 -5
+p194
+aVAl-Farouq Aminu NOH 03/22/2012 NOH vs. LAC W 8 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 -4
+p195
+aVJason Smith NOH 03/22/2012 NOH vs. LAC W 28 17 7 10 70.0 0 0 - 3 5 60.0 3 5 8 1 1 2 2 5 -1
+p196
+aVGreivis Vasquez NOH 03/21/2012 NOH vs. GSW L 22 9 3 8 37.5 1 2 50.0 2 2 100.0 0 1 1 5 1 0 2 0 -13
+p197
+aVAl-Farouq Aminu NOH 03/21/2012 NOH vs. GSW L 16 3 1 2 50.0 0 1 0.0 1 2 50.0 1 4 5 1 0 4 4 0 -11
+p198
+aVGustavo Ayon NOH 03/21/2012 NOH vs. GSW L 17 8 4 4 100.0 0 0 - 0 0 - 0 4 4 1 1 1 1 1 -1
+p199
+aVJarrett Jack NOH 03/21/2012 NOH vs. GSW L 31 17 6 9 66.7 1 1 100.0 4 4 100.0 0 10 10 11 0 0 0 3 1
+p200
+aVXavier Henry NOH 03/21/2012 NOH vs. GSW L 26 13 6 14 42.9 0 0 - 1 2 50.0 0 3 3 2 1 0 1 0 -12
+p201
+aVLance Thomas NOH 03/21/2012 NOH vs. GSW L 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p202
+aVTrevor Ariza NOH 03/21/2012 NOH vs. GSW L 27 8 4 5 80.0 0 0 - 0 0 - 0 6 6 3 2 0 4 0 3
+p203
+aVJason Smith NOH 03/21/2012 NOH vs. GSW L 26 12 6 12 50.0 0 0 - 0 0 - 5 2 7 1 0 0 0 2 -10
+p204
+aVChris Kaman NOH 03/21/2012 NOH vs. GSW L 33 13 5 13 38.5 0 0 - 3 4 75.0 3 6 9 5 0 4 4 3 -3
+p205
+aVMarco Belinelli NOH 03/21/2012 NOH vs. GSW L 30 5 2 8 25.0 1 5 20.0 0 0 - 0 0 0 2 0 0 0 0 1
+p206
+aVGustavo Ayon NOH 03/17/2012 NOH @ NJN W 28 8 4 8 50.0 0 0 - 0 0 - 5 4 9 3 1 1 2 1 2
+p207
+aVChris Kaman NOH 03/17/2012 NOH @ NJN W 29 20 9 13 69.2 0 0 - 2 2 100.0 1 1 2 2 1 2 4 3 9
+p208
+aVJarrett Jack NOH 03/17/2012 NOH @ NJN W 31 16 6 14 42.9 2 6 33.3 2 2 100.0 1 4 5 6 2 0 1 0 7
+p209
+aVTrevor Ariza NOH 03/17/2012 NOH @ NJN W 31 10 3 7 42.9 2 3 66.7 2 3 66.7 1 6 7 5 1 0 0 2 5
+p210
+aVJason Smith NOH 03/17/2012 NOH @ NJN W 21 6 3 9 33.3 0 0 - 0 0 - 1 4 5 2 0 0 3 2 -8
+p211
+aVGreivis Vasquez NOH 03/17/2012 NOH @ NJN W 20 6 2 6 33.3 0 1 0.0 2 2 100.0 0 5 5 9 1 0 1 0 9
+p212
+aVLance Thomas NOH 03/17/2012 NOH @ NJN W 18 10 4 5 80.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 2 11
+p213
+aVMarco Belinelli NOH 03/17/2012 NOH @ NJN W 31 20 8 13 61.5 4 6 66.7 0 0 - 0 2 2 1 0 0 0 0 3
+p214
+aVAl-Farouq Aminu NOH 03/17/2012 NOH @ NJN W 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 3 3
+p215
+aVXavier Henry NOH 03/17/2012 NOH @ NJN W 15 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 1 0 1 -1
+p216
+aVTrevor Ariza NOH 03/15/2012 NOH vs. WAS L 32 13 3 11 27.3 1 4 25.0 6 6 100.0 1 3 4 4 2 0 1 3 -4
+p217
+aVXavier Henry NOH 03/15/2012 NOH vs. WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p218
+aVAl-Farouq Aminu NOH 03/15/2012 NOH vs. WAS L 18 6 2 5 40.0 0 1 0.0 2 2 100.0 2 1 3 0 0 1 1 0 -3
+p219
+aVLance Thomas NOH 03/15/2012 NOH vs. WAS L 19 5 1 4 25.0 0 0 - 3 3 100.0 1 1 2 0 1 0 1 4 -9
+p220
+aVChris Kaman NOH 03/15/2012 NOH vs. WAS L 37 20 9 15 60.0 0 0 - 2 4 50.0 3 4 7 4 2 0 1 1 -12
+p221
+aVJarrett Jack NOH 03/15/2012 NOH vs. WAS L 40 11 5 11 45.5 1 4 25.0 0 0 - 0 2 2 5 0 0 1 2 -5
+p222
+aVGustavo Ayon NOH 03/15/2012 NOH vs. WAS L 37 16 6 11 54.5 0 0 - 4 4 100.0 1 8 9 1 1 1 1 2 -2
+p223
+aVMarco Belinelli NOH 03/15/2012 NOH vs. WAS L 13 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 2 1 1 2 0 -5
+p224
+aVGreivis Vasquez NOH 03/15/2012 NOH vs. WAS L 38 10 4 9 44.4 2 3 66.7 0 0 - 0 2 2 6 1 0 4 1 -4
+p225
+aVTrevor Ariza NOH 03/14/2012 NOH vs. LAL L 44 9 4 13 30.8 0 3 0.0 1 1 100.0 2 4 6 4 4 1 3 3 -8
+p226
+aVGustavo Ayon NOH 03/14/2012 NOH vs. LAL L 32 4 2 3 66.7 0 0 - 0 0 - 1 1 2 4 0 1 1 5 -7
+p227
+aVAl-Farouq Aminu NOH 03/14/2012 NOH vs. LAL L 24 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 1 0 0 2 8
+p228
+aVLance Thomas NOH 03/14/2012 NOH vs. LAL L 18 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 0
+p229
+aVChris Kaman NOH 03/14/2012 NOH vs. LAL L 45 21 9 20 45.0 0 0 - 3 4 75.0 2 10 12 3 1 0 6 5 -11
+p230
+aVMarco Belinelli NOH 03/14/2012 NOH vs. LAL L 33 10 4 10 40.0 2 5 40.0 0 0 - 0 1 1 2 0 1 0 2 -11
+p231
+aVJeff Foote NOH 03/14/2012 NOH vs. LAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 5
+p232
+aVXavier Henry NOH 03/14/2012 NOH vs. LAL L 6 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 0 1 1 1 -1
+p233
+aVJarrett Jack NOH 03/14/2012 NOH vs. LAL L 39 30 13 21 61.9 0 1 0.0 4 4 100.0 0 3 3 6 1 2 0 5 -5
+p234
+aVGreivis Vasquez NOH 03/14/2012 NOH vs. LAL L 17 15 6 7 85.7 1 1 100.0 2 2 100.0 0 3 3 6 1 0 2 4 0
+p235
+aVAl-Farouq Aminu NOH 03/12/2012 NOH vs. CHA L 26 10 4 7 57.1 0 0 - 2 2 100.0 1 0 1 0 2 0 0 1 -1
+p236
+aVChris Kaman NOH 03/12/2012 NOH vs. CHA L 41 12 6 19 31.6 0 0 - 0 0 - 2 14 16 3 0 3 2 1 3
+p237
+aVJarrett Jack NOH 03/12/2012 NOH vs. CHA L 33 15 7 12 58.3 1 2 50.0 0 0 - 1 3 4 9 0 1 6 2 5
+p238
+aVGustavo Ayon NOH 03/12/2012 NOH vs. CHA L 26 2 1 6 16.7 0 0 - 0 0 - 2 2 4 1 4 1 2 1 -3
+p239
+aVXavier Henry NOH 03/12/2012 NOH vs. CHA L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -12
+p240
+aVLance Thomas NOH 03/12/2012 NOH vs. CHA L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 2 -13
+p241
+aVMarco Belinelli NOH 03/12/2012 NOH vs. CHA L 26 12 4 15 26.7 3 8 37.5 1 1 100.0 0 0 0 0 0 0 2 0 1
+p242
+aVGreivis Vasquez NOH 03/12/2012 NOH vs. CHA L 20 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 5 0 0 1 3 2
+p243
+aVTrevor Ariza NOH 03/12/2012 NOH vs. CHA L 36 12 4 10 40.0 1 1 100.0 3 4 75.0 2 7 9 2 2 1 1 1 8
+p244
+aVJeff Foote NOH 03/12/2012 NOH vs. CHA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 0
+p245
+aVMarco Belinelli NOH 03/10/2012 NOH @ MIN W 34 11 4 11 36.4 1 2 50.0 2 2 100.0 0 4 4 1 2 0 1 0 12
+p246
+aVJarrett Jack NOH 03/10/2012 NOH @ MIN W 30 17 5 7 71.4 0 1 0.0 7 8 87.5 0 2 2 7 1 0 3 2 -2
+p247
+aVTrevor Ariza NOH 03/10/2012 NOH @ MIN W 32 8 2 7 28.6 0 1 0.0 4 4 100.0 0 4 4 5 0 0 2 1 -2
+p248
+aVJeff Foote NOH 03/10/2012 NOH @ MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p249
+aVAl-Farouq Aminu NOH 03/10/2012 NOH @ MIN W 16 8 4 5 80.0 0 0 - 0 0 - 2 4 6 2 0 0 2 3 8
+p250
+aVLance Thomas NOH 03/10/2012 NOH @ MIN W 19 7 3 8 37.5 0 0 - 1 2 50.0 2 3 5 0 1 0 1 4 0
+p251
+aVGreivis Vasquez NOH 03/10/2012 NOH @ MIN W 20 12 5 9 55.6 2 3 66.7 0 0 - 1 0 1 4 0 0 2 2 5
+p252
+aVXavier Henry NOH 03/10/2012 NOH @ MIN W 20 4 2 8 25.0 0 0 - 0 0 - 0 4 4 2 0 0 0 0 10
+p253
+aVChris Kaman NOH 03/10/2012 NOH @ MIN W 36 20 10 21 47.6 0 0 - 0 0 - 2 4 6 4 2 3 1 3 -4
+p254
+aVGustavo Ayon NOH 03/10/2012 NOH @ MIN W 27 8 4 8 50.0 0 0 - 0 0 - 1 2 3 3 1 0 0 6 6
+p255
+aVXavier Henry NOH 03/09/2012 NOH @ DEN L 25 12 4 14 28.6 0 1 0.0 4 4 100.0 2 3 5 1 2 0 1 4 -6
+p256
+aVAl-Farouq Aminu NOH 03/09/2012 NOH @ DEN L 22 8 3 3 100.0 1 1 100.0 1 4 25.0 1 4 5 0 1 1 1 5 -3
+p257
+aVTrevor Ariza NOH 03/09/2012 NOH @ DEN L 20 8 2 6 33.3 0 0 - 4 4 100.0 0 2 2 4 1 0 1 0 -5
+p258
+aVGreivis Vasquez NOH 03/09/2012 NOH @ DEN L 23 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 8 0 0 1 3 -3
+p259
+aVGustavo Ayon NOH 03/09/2012 NOH @ DEN L 18 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 3 -2
+p260
+aVJeff Foote NOH 03/09/2012 NOH @ DEN L 23 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 0 2 -2
+p261
+aVChris Kaman NOH 03/09/2012 NOH @ DEN L 21 10 5 9 55.6 0 0 - 0 0 - 1 4 5 2 0 1 2 2 -7
+p262
+aVLance Thomas NOH 03/09/2012 NOH @ DEN L 30 18 3 6 50.0 0 0 - 12 14 85.7 4 1 5 0 1 0 2 2 -11
+p263
+aVJarrett Jack NOH 03/09/2012 NOH @ DEN L 32 17 7 14 50.0 1 2 50.0 2 2 100.0 0 1 1 4 1 0 2 1 -16
+p264
+aVMarco Belinelli NOH 03/09/2012 NOH @ DEN L 26 12 4 12 33.3 2 6 33.3 2 2 100.0 1 1 2 3 0 0 1 0 -10
+p265
+aVMarco Belinelli NOH 03/07/2012 NOH @ SAC L 33 11 5 16 31.3 0 3 0.0 1 1 100.0 1 3 4 0 0 0 0 1 -6
+p266
+aVAl-Farouq Aminu NOH 03/07/2012 NOH @ SAC L 15 4 2 2 100.0 0 0 - 0 0 - 3 3 6 0 1 0 2 4 1
+p267
+aVLance Thomas NOH 03/07/2012 NOH @ SAC L 27 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 0 1 0 1 2 3
+p268
+aVChris Kaman NOH 03/07/2012 NOH @ SAC L 46 18 7 14 50.0 0 0 - 4 5 80.0 3 8 11 8 0 2 4 2 0
+p269
+aVSolomon Jones NOH 03/07/2012 NOH @ SAC L 11 0 0 0 - 0 0 - 0 0 - 2 0 2 0 1 0 1 4 0
+p270
+aVXavier Henry NOH 03/07/2012 NOH @ SAC L 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 4
+p271
+aVGreivis Vasquez NOH 03/07/2012 NOH @ SAC L 23 10 4 8 50.0 1 1 100.0 1 1 100.0 0 6 6 4 0 0 3 1 -4
+p272
+aVJarrett Jack NOH 03/07/2012 NOH @ SAC L 33 25 11 17 64.7 1 2 50.0 2 2 100.0 0 3 3 4 1 0 5 2 -5
+p273
+aVTrevor Ariza NOH 03/07/2012 NOH @ SAC L 36 20 9 16 56.3 1 3 33.3 1 1 100.0 1 3 4 6 4 0 3 2 2
+p274
+aVAl-Farouq Aminu NOH 03/05/2012 NOH @ POR L 16 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 1 0 1 0 3 9
+p275
+aVGreivis Vasquez NOH 03/05/2012 NOH @ POR L 21 9 3 7 42.9 0 1 0.0 3 5 60.0 1 2 3 3 0 0 1 3 -1
+p276
+aVTrevor Ariza NOH 03/05/2012 NOH @ POR L 32 4 1 4 25.0 0 1 0.0 2 4 50.0 1 4 5 1 3 1 2 2 -21
+p277
+aVGustavo Ayon NOH 03/05/2012 NOH @ POR L 34 10 3 6 50.0 0 0 - 4 6 66.7 1 2 3 3 2 0 2 2 7
+p278
+aVMarco Belinelli NOH 03/05/2012 NOH @ POR L 34 18 8 14 57.1 1 4 25.0 1 2 50.0 0 5 5 1 0 0 1 3 -14
+p279
+aVXavier Henry NOH 03/05/2012 NOH @ POR L 18 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 0 0 0 1 0 10
+p280
+aVSolomon Jones NOH 03/05/2012 NOH @ POR L 19 2 1 6 16.7 0 0 - 0 0 - 1 1 2 1 0 0 2 3 -21
+p281
+aVLance Thomas NOH 03/05/2012 NOH @ POR L 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -8
+p282
+aVJarrett Jack NOH 03/05/2012 NOH @ POR L 27 3 1 6 16.7 1 2 50.0 0 0 - 0 0 0 3 0 0 1 1 -11
+p283
+aVChris Kaman NOH 03/05/2012 NOH @ POR L 27 10 4 13 30.8 0 0 - 2 3 66.7 2 9 11 0 1 1 4 0 -10
+p284
+aVSolomon Jones NOH 03/03/2012 NOH vs. IND L 24 12 5 6 83.3 0 0 - 2 2 100.0 4 5 9 2 0 0 1 2 -6
+p285
+aVXavier Henry NOH 03/03/2012 NOH vs. IND L 26 9 4 11 36.4 1 2 50.0 0 1 0.0 3 3 6 2 1 0 0 3 2
+p286
+aVMarco Belinelli NOH 03/03/2012 NOH vs. IND L 38 15 6 16 37.5 2 6 33.3 1 4 25.0 0 1 1 2 0 0 0 2 -9
+p287
+aVJarrett Jack NOH 03/03/2012 NOH vs. IND L 35 18 6 11 54.5 1 2 50.0 5 6 83.3 0 4 4 3 0 1 3 3 -31
+p288
+aVLance Thomas NOH 03/03/2012 NOH vs. IND L 14 8 1 2 50.0 0 0 - 6 8 75.0 0 3 3 0 0 0 0 3 6
+p289
+aVGreivis Vasquez NOH 03/03/2012 NOH vs. IND L 23 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 3 0 0 1 0 4
+p290
+aVAl-Farouq Aminu NOH 03/03/2012 NOH vs. IND L 22 0 0 5 0.0 0 0 - 0 0 - 2 4 6 3 1 0 1 1 -20
+p291
+aVGustavo Ayon NOH 03/03/2012 NOH vs. IND L 33 10 5 10 50.0 0 0 - 0 0 - 3 3 6 4 1 2 3 4 -16
+p292
+aVChris Kaman NOH 03/03/2012 NOH vs. IND L 26 10 5 15 33.3 0 0 - 0 0 - 2 4 6 3 0 2 4 3 -20
+p293
+aVLance Thomas NOH 03/02/2012 NOH vs. DAL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 1 13
+p294
+aVAl-Farouq Aminu NOH 03/02/2012 NOH vs. DAL W 25 6 3 12 25.0 0 1 0.0 0 0 - 6 2 8 3 1 0 0 3 -1
+p295
+aVChris Kaman NOH 03/02/2012 NOH vs. DAL W 39 20 9 18 50.0 0 0 - 2 3 66.7 3 10 13 3 0 0 1 3 -2
+p296
+aVGreivis Vasquez NOH 03/02/2012 NOH vs. DAL W 19 2 1 6 16.7 0 2 0.0 0 0 - 0 6 6 7 1 1 1 2 10
+p297
+aVSolomon Jones NOH 03/02/2012 NOH vs. DAL W 24 11 5 9 55.6 0 0 - 1 2 50.0 3 2 5 0 1 1 1 4 6
+p298
+aVXavier Henry NOH 03/02/2012 NOH vs. DAL W 24 19 8 12 66.7 1 1 100.0 2 2 100.0 3 1 4 2 2 0 1 0 6
+p299
+aVGustavo Ayon NOH 03/02/2012 NOH vs. DAL W 25 10 5 7 71.4 0 0 - 0 0 - 1 0 1 0 2 0 2 2 -7
+p300
+aVJarrett Jack NOH 03/02/2012 NOH vs. DAL W 40 15 5 12 41.7 1 5 20.0 4 4 100.0 0 5 5 6 0 0 5 0 0
+p301
+aVMarco Belinelli NOH 03/02/2012 NOH vs. DAL W 37 14 4 11 36.4 1 3 33.3 5 6 83.3 0 4 4 1 0 0 0 1 0
+p302
+aVJarrett Jack NOH 02/29/2012 NOH vs. TOR L 31 10 3 12 25.0 0 2 0.0 4 5 80.0 2 3 5 6 0 0 2 2 -4
+p303
+aVGreivis Vasquez NOH 02/29/2012 NOH vs. TOR L 24 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 6 0 0 1 2 -11
+p304
+aVAl-Farouq Aminu NOH 02/29/2012 NOH vs. TOR L 15 0 0 6 0.0 0 2 0.0 0 2 0.0 3 4 7 0 0 1 0 2 -11
+p305
+aVTrevor Ariza NOH 02/29/2012 NOH vs. TOR L 36 11 5 10 50.0 1 4 25.0 0 0 - 2 5 7 5 1 0 1 1 -2
+p306
+aVXavier Henry NOH 02/29/2012 NOH vs. TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p307
+aVChris Kaman NOH 02/29/2012 NOH vs. TOR L 26 17 6 14 42.9 0 0 - 5 6 83.3 3 7 10 1 0 2 1 2 8
+p308
+aVGustavo Ayon NOH 02/29/2012 NOH vs. TOR L 27 11 5 8 62.5 0 0 - 1 2 50.0 2 2 4 1 1 1 1 3 -3
+p309
+aVSolomon Jones NOH 02/29/2012 NOH vs. TOR L 24 9 2 5 40.0 0 0 - 5 6 83.3 1 5 6 0 1 0 2 3 -13
+p310
+aVMarco Belinelli NOH 02/29/2012 NOH vs. TOR L 40 20 6 15 40.0 2 7 28.6 6 6 100.0 1 6 7 3 0 0 1 4 5
+p311
+aVLance Thomas NOH 02/29/2012 NOH vs. TOR L 11 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -10
+p312
+aVGustavo Ayon NOH 02/28/2012 NOH @ CHI L 27 5 2 6 33.3 0 0 - 1 2 50.0 2 2 4 1 2 3 0 2 -5
+p313
+aVSolomon Jones NOH 02/28/2012 NOH @ CHI L 20 10 4 10 40.0 0 0 - 2 2 100.0 3 1 4 1 1 1 0 1 -1
+p314
+aVGreivis Vasquez NOH 02/28/2012 NOH @ CHI L 21 12 4 10 40.0 0 1 0.0 4 4 100.0 1 1 2 3 0 0 1 3 -16
+p315
+aVTrevor Ariza NOH 02/28/2012 NOH @ CHI L 34 16 7 12 58.3 2 2 100.0 0 0 - 0 8 8 4 3 1 3 0 -10
+p316
+aVJarrett Jack NOH 02/28/2012 NOH @ CHI L 28 10 4 9 44.4 2 2 100.0 0 0 - 1 3 4 4 1 0 2 4 10
+p317
+aVMarco Belinelli NOH 02/28/2012 NOH @ CHI L 24 6 3 7 42.9 0 3 0.0 0 0 - 0 3 3 1 0 0 2 0 -15
+p318
+aVAl-Farouq Aminu NOH 02/28/2012 NOH @ CHI L 18 2 0 4 0.0 0 0 - 2 2 100.0 3 1 4 3 0 1 1 0 8
+p319
+aVLance Thomas NOH 02/28/2012 NOH @ CHI L 9 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 0 0 0 3 5
+p320
+aVChris Kaman NOH 02/28/2012 NOH @ CHI L 39 17 7 18 38.9 0 0 - 3 4 75.0 2 9 11 5 0 1 4 3 -5
+p321
+aVXavier Henry NOH 02/28/2012 NOH @ CHI L 18 12 3 10 30.0 0 1 0.0 6 7 85.7 1 5 6 0 1 0 1 2 9
+p322
+aVAl-Farouq Aminu NOH 02/22/2012 NOH @ CLE W 16 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 1 2 0 3 -9
+p323
+aVGustavo Ayon NOH 02/22/2012 NOH @ CLE W 33 9 4 7 57.1 0 0 - 1 4 25.0 6 11 17 4 2 1 0 3 19
+p324
+aVMarco Belinelli NOH 02/22/2012 NOH @ CLE W 33 19 8 13 61.5 1 4 25.0 2 2 100.0 1 2 3 1 0 0 0 1 20
+p325
+aVXavier Henry NOH 02/22/2012 NOH @ CLE W 11 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 -7
+p326
+aVChris Kaman NOH 02/22/2012 NOH @ CLE W 35 21 10 25 40.0 0 0 - 1 1 100.0 6 7 13 3 1 2 4 4 16
+p327
+aVLance Thomas NOH 02/22/2012 NOH @ CLE W 10 2 0 3 0.0 0 0 - 2 2 100.0 3 1 4 0 0 0 1 3 -9
+p328
+aVTrevor Ariza NOH 02/22/2012 NOH @ CLE W 20 1 0 6 0.0 0 1 0.0 1 2 50.0 3 3 6 3 0 2 0 2 3
+p329
+aVSolomon Jones NOH 02/22/2012 NOH @ CLE W 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 2 1 2 -11
+p330
+aVGreivis Vasquez NOH 02/22/2012 NOH @ CLE W 38 13 5 11 45.5 1 3 33.3 2 2 100.0 0 2 2 5 1 0 6 3 5
+p331
+aVJarrett Jack NOH 02/22/2012 NOH @ CLE W 30 16 5 11 45.5 0 2 0.0 6 7 85.7 0 7 7 3 0 0 1 3 -2
+p332
+aVAl-Farouq Aminu NOH 02/21/2012 NOH @ IND L 17 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 0 1 0 1 2 -1
+p333
+aVSolomon Jones NOH 02/21/2012 NOH @ IND L 25 9 3 3 100.0 0 0 - 3 4 75.0 0 3 3 0 0 1 0 6 -4
+p334
+aVTrevor Ariza NOH 02/21/2012 NOH @ IND L 43 21 8 15 53.3 3 6 50.0 2 2 100.0 1 5 6 5 1 1 2 1 -9
+p335
+aVLance Thomas NOH 02/21/2012 NOH @ IND L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 6
+p336
+aVMarco Belinelli NOH 02/21/2012 NOH @ IND L 34 15 5 11 45.5 3 7 42.9 2 2 100.0 0 6 6 1 0 1 0 1 -11
+p337
+aVChris Kaman NOH 02/21/2012 NOH @ IND L 39 17 8 14 57.1 0 0 - 1 4 25.0 1 1 2 1 0 2 5 3 -14
+p338
+aVGustavo Ayon NOH 02/21/2012 NOH @ IND L 27 9 4 7 57.1 0 0 - 1 2 50.0 2 2 4 2 0 0 2 5 -4
+p339
+aVGreivis Vasquez NOH 02/21/2012 NOH @ IND L 21 9 3 5 60.0 1 2 50.0 2 2 100.0 0 3 3 7 0 0 3 0 3
+p340
+aVXavier Henry NOH 02/21/2012 NOH @ IND L 13 5 2 3 66.7 0 1 0.0 1 3 33.3 1 2 3 0 0 0 0 0 1
+p341
+aVJarrett Jack NOH 02/21/2012 NOH @ IND L 32 19 8 17 47.1 2 5 40.0 1 2 50.0 0 5 5 10 0 0 2 5 -12
+p342
+aVGreivis Vasquez NOH 02/20/2012 NOH @ OKC L 29 15 5 9 55.6 2 3 66.7 3 3 100.0 1 1 2 0 0 0 3 3 -6
+p343
+aVTrevor Ariza NOH 02/20/2012 NOH @ OKC L 29 7 2 7 28.6 0 1 0.0 3 4 75.0 1 3 4 5 3 1 0 1 -14
+p344
+aVAl-Farouq Aminu NOH 02/20/2012 NOH @ OKC L 23 14 6 10 60.0 1 3 33.3 1 1 100.0 2 4 6 0 0 0 2 2 7
+p345
+aVLance Thomas NOH 02/20/2012 NOH @ OKC L 20 5 2 7 28.6 0 0 - 1 1 100.0 3 5 8 0 0 0 2 3 1
+p346
+aVXavier Henry NOH 02/20/2012 NOH @ OKC L 16 6 1 6 16.7 0 0 - 4 4 100.0 2 1 3 1 0 0 0 0 -2
+p347
+aVJarrett Jack NOH 02/20/2012 NOH @ OKC L 30 18 6 15 40.0 2 4 50.0 4 6 66.7 1 4 5 5 1 0 1 4 -1
+p348
+aVSolomon Jones NOH 02/20/2012 NOH @ OKC L 22 2 1 7 14.3 0 0 - 0 0 - 3 1 4 2 1 1 0 2 1
+p349
+aVMarco Belinelli NOH 02/20/2012 NOH @ OKC L 23 10 4 8 50.0 2 2 100.0 0 0 - 0 2 2 0 2 0 3 0 -1
+p350
+aVChris Kaman NOH 02/20/2012 NOH @ OKC L 28 12 4 17 23.5 0 0 - 4 4 100.0 1 7 8 3 0 0 3 1 -14
+p351
+aVGustavo Ayon NOH 02/20/2012 NOH @ OKC L 21 4 2 5 40.0 0 1 0.0 0 0 - 2 3 5 1 1 2 2 1 -11
+p352
+aVJarrett Jack NOH 02/17/2012 NOH @ NYK W 21 4 1 6 16.7 0 0 - 2 2 100.0 0 4 4 1 1 0 3 2 -12
+p353
+aVTrevor Ariza NOH 02/17/2012 NOH @ NYK W 45 25 10 20 50.0 4 7 57.1 1 1 100.0 2 6 8 1 3 2 2 0 8
+p354
+aVLance Thomas NOH 02/17/2012 NOH @ NYK W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 4 -4
+p355
+aVMarco Belinelli NOH 02/17/2012 NOH @ NYK W 35 17 7 14 50.0 1 3 33.3 2 2 100.0 1 0 1 1 3 0 1 3 0
+p356
+aVGreivis Vasquez NOH 02/17/2012 NOH @ NYK W 32 15 4 9 44.4 2 2 100.0 5 6 83.3 0 1 1 11 2 0 3 4 10
+p357
+aVXavier Henry NOH 02/17/2012 NOH @ NYK W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 4
+p358
+aVGustavo Ayon NOH 02/17/2012 NOH @ NYK W 29 13 6 9 66.7 0 0 - 1 4 25.0 3 8 11 2 2 0 0 4 7
+p359
+aVAl-Farouq Aminu NOH 02/17/2012 NOH @ NYK W 17 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 2 0 2 3 -1
+p360
+aVSolomon Jones NOH 02/17/2012 NOH @ NYK W 4 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 4 2 -6
+p361
+aVChris Kaman NOH 02/17/2012 NOH @ NYK W 37 12 3 12 25.0 0 0 - 6 6 100.0 1 7 8 6 0 0 2 3 14
+p362
+aVMarco Belinelli NOH 02/15/2012 NOH @ MIL W 35 22 7 10 70.0 6 7 85.7 2 2 100.0 2 2 4 2 0 0 0 3 9
+p363
+aVXavier Henry NOH 02/15/2012 NOH @ MIL W 13 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -6
+p364
+aVChris Kaman NOH 02/15/2012 NOH @ MIL W 37 18 8 23 34.8 0 0 - 2 4 50.0 4 6 10 2 0 1 4 1 7
+p365
+aVLance Thomas NOH 02/15/2012 NOH @ MIL W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p366
+aVAl-Farouq Aminu NOH 02/15/2012 NOH @ MIL W 17 3 1 5 20.0 0 1 0.0 1 2 50.0 1 3 4 0 1 0 0 4 -7
+p367
+aVTrevor Ariza NOH 02/15/2012 NOH @ MIL W 46 14 6 13 46.2 1 3 33.3 1 1 100.0 0 7 7 4 2 2 2 3 2
+p368
+aVSolomon Jones NOH 02/15/2012 NOH @ MIL W 11 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 -3
+p369
+aVGreivis Vasquez NOH 02/15/2012 NOH @ MIL W 26 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 7 1 0 4 5 -2
+p370
+aVDonald Sloan NOH 02/15/2012 NOH @ MIL W 22 3 1 5 20.0 0 2 0.0 1 2 50.0 1 0 1 4 1 0 3 0 5
+p371
+aVGustavo Ayon NOH 02/15/2012 NOH @ MIL W 32 12 4 7 57.1 0 0 - 4 4 100.0 4 8 12 1 3 0 1 1 9
+p372
+aVGustavo Ayon NOH 02/13/2012 NOH vs. UTA W 36 13 6 7 85.7 0 0 - 1 2 50.0 3 6 9 1 1 3 0 5 -3
+p373
+aVXavier Henry NOH 02/13/2012 NOH vs. UTA W 14 4 1 3 33.3 0 1 0.0 2 7 28.6 0 0 0 0 2 0 2 1 4
+p374
+aVAl-Farouq Aminu NOH 02/13/2012 NOH vs. UTA W 25 4 1 4 25.0 0 1 0.0 2 3 66.7 0 1 1 1 1 2 1 1 1
+p375
+aVLance Thomas NOH 02/13/2012 NOH vs. UTA W 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -2
+p376
+aVChris Kaman NOH 02/13/2012 NOH vs. UTA W 42 27 12 22 54.5 0 0 - 3 4 75.0 6 7 13 2 2 1 3 3 11
+p377
+aVMarco Belinelli NOH 02/13/2012 NOH vs. UTA W 34 13 3 13 23.1 1 5 20.0 6 6 100.0 0 0 0 2 2 0 1 3 2
+p378
+aVGreivis Vasquez NOH 02/13/2012 NOH vs. UTA W 38 12 4 12 33.3 1 2 50.0 3 4 75.0 0 4 4 10 3 0 2 3 11
+p379
+aVTrevor Ariza NOH 02/13/2012 NOH vs. UTA W 33 9 3 8 37.5 1 2 50.0 2 2 100.0 1 4 5 5 2 0 0 1 9
+p380
+aVDonald Sloan NOH 02/13/2012 NOH vs. UTA W 8 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 1 0 2 0 -3
+p381
+aVMarco Belinelli NOH 02/10/2012 NOH vs. POR L 33 12 5 11 45.5 2 6 33.3 0 0 - 0 1 1 3 2 0 2 4 -3
+p382
+aVDonald Sloan NOH 02/10/2012 NOH vs. POR L 11 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 2 0
+p383
+aVLance Thomas NOH 02/10/2012 NOH vs. POR L 8 7 2 2 100.0 0 0 - 3 5 60.0 2 2 4 1 0 0 1 2 -16
+p384
+aVAl-Farouq Aminu NOH 02/10/2012 NOH vs. POR L 25 12 5 8 62.5 1 1 100.0 1 1 100.0 4 1 5 0 1 0 2 6 1
+p385
+aVXavier Henry NOH 02/10/2012 NOH vs. POR L 14 4 1 3 33.3 0 1 0.0 2 4 50.0 0 0 0 0 0 1 0 1 -7
+p386
+aVGustavo Ayon NOH 02/10/2012 NOH vs. POR L 27 2 1 5 20.0 0 0 - 0 0 - 3 4 7 1 0 0 4 5 1
+p387
+aVTrevor Ariza NOH 02/10/2012 NOH vs. POR L 46 23 9 18 50.0 0 3 0.0 5 6 83.3 1 8 9 5 2 0 3 2 -6
+p388
+aVEmeka Okafor NOH 02/10/2012 NOH vs. POR L 39 13 5 13 38.5 0 0 - 3 5 60.0 4 4 8 1 0 0 3 3 -2
+p389
+aVGreivis Vasquez NOH 02/10/2012 NOH vs. POR L 37 6 2 10 20.0 0 5 0.0 2 2 100.0 0 3 3 7 5 0 2 2 -8
+p390
+aVGustavo Ayon NOH 02/08/2012 NOH vs. CHI L 19 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 2 1 1 0 -12
+p391
+aVEmeka Okafor NOH 02/08/2012 NOH vs. CHI L 34 10 5 7 71.4 0 0 - 0 0 - 2 7 9 0 0 0 2 2 -22
+p392
+aVTrevor Ariza NOH 02/08/2012 NOH vs. CHI L 38 6 3 10 30.0 0 1 0.0 0 0 - 0 6 6 4 0 0 1 4 -14
+p393
+aVMarco Belinelli NOH 02/08/2012 NOH vs. CHI L 31 13 4 9 44.4 1 1 100.0 4 8 50.0 0 2 2 2 0 0 3 2 -22
+p394
+aVJarrett Jack NOH 02/08/2012 NOH vs. CHI L 28 4 2 11 18.2 0 0 - 0 1 0.0 1 1 2 3 1 0 2 1 -14
+p395
+aVChris Kaman NOH 02/08/2012 NOH vs. CHI L 31 17 6 17 35.3 0 0 - 5 5 100.0 2 7 9 2 0 3 4 0 -9
+p396
+aVLance Thomas NOH 02/08/2012 NOH vs. CHI L 12 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 0 0 1 -3
+p397
+aVAl-Farouq Aminu NOH 02/08/2012 NOH vs. CHI L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -13
+p398
+aVGreivis Vasquez NOH 02/08/2012 NOH vs. CHI L 20 5 2 7 28.6 0 1 0.0 1 2 50.0 1 2 3 4 0 0 1 1 -9
+p399
+aVXavier Henry NOH 02/08/2012 NOH vs. CHI L 19 4 2 4 50.0 0 0 - 0 1 0.0 0 0 0 3 0 0 2 0 3
+p400
+aVTrevor Ariza NOH 02/06/2012 NOH vs. SAC L 34 11 5 11 45.5 0 1 0.0 1 2 50.0 2 4 6 4 2 1 3 1 -5
+p401
+aVChris Kaman NOH 02/06/2012 NOH vs. SAC L 22 10 4 12 33.3 0 0 - 2 4 50.0 2 10 12 1 0 2 2 2 -6
+p402
+aVEmeka Okafor NOH 02/06/2012 NOH vs. SAC L 32 19 6 14 42.9 0 0 - 7 7 100.0 1 6 7 0 1 0 0 4 0
+p403
+aVLance Thomas NOH 02/06/2012 NOH vs. SAC L 10 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 0 1 1 -3
+p404
+aVGreivis Vasquez NOH 02/06/2012 NOH vs. SAC L 40 20 6 9 66.7 1 2 50.0 7 8 87.5 0 2 2 9 0 0 2 2 -7
+p405
+aVXavier Henry NOH 02/06/2012 NOH vs. SAC L 10 8 4 7 57.1 0 0 - 0 1 0.0 1 1 2 0 1 1 0 1 3
+p406
+aVGustavo Ayon NOH 02/06/2012 NOH vs. SAC L 32 4 2 6 33.3 0 0 - 0 0 - 4 5 9 0 1 2 0 3 -7
+p407
+aVAl-Farouq Aminu NOH 02/06/2012 NOH vs. SAC L 14 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 0 0 1 2 -3
+p408
+aVMarco Belinelli NOH 02/06/2012 NOH vs. SAC L 36 18 6 14 42.9 2 5 40.0 4 4 100.0 0 0 0 4 0 0 2 3 -9
+p409
+aVCarldell Johnson NOH 02/06/2012 NOH vs. SAC L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -3
+p410
+aVCarl Landry NOH 02/04/2012 NOH @ DET L 16 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 0 1 0 1 -12
+p411
+aVCarldell Johnson NOH 02/04/2012 NOH @ DET L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 1 0
+p412
+aVEmeka Okafor NOH 02/04/2012 NOH @ DET L 30 8 4 10 40.0 0 0 - 0 0 - 2 5 7 1 0 1 2 4 3
+p413
+aVGreivis Vasquez NOH 02/04/2012 NOH @ DET L 37 14 5 12 41.7 2 3 66.7 2 2 100.0 2 4 6 9 2 0 4 0 1
+p414
+aVMarco Belinelli NOH 02/04/2012 NOH @ DET L 17 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 0
+p415
+aVAl-Farouq Aminu NOH 02/04/2012 NOH @ DET L 29 14 4 9 44.4 0 2 0.0 6 8 75.0 2 2 4 1 0 0 3 2 11
+p416
+aVGustavo Ayon NOH 02/04/2012 NOH @ DET L 14 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 0 0 2 1 0 0
+p417
+aVTrevor Ariza NOH 02/04/2012 NOH @ DET L 42 26 9 12 75.0 2 3 66.7 6 6 100.0 1 6 7 4 3 0 4 3 -8
+p418
+aVDaJuan Summers NOH 02/04/2012 NOH @ DET L 8 2 1 5 20.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 3 -9
+p419
+aVJason Smith NOH 02/04/2012 NOH @ DET L 32 8 4 8 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 4
+p420
+aVGustavo Ayon NOH 02/02/2012 NOH @ SAS L 16 3 1 2 50.0 0 0 - 1 2 50.0 0 8 8 0 1 1 0 4 -3
+p421
+aVCarldell Johnson NOH 02/02/2012 NOH @ SAS L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 5 2 0 1 1 5
+p422
+aVEmeka Okafor NOH 02/02/2012 NOH @ SAS L 21 8 4 7 57.1 0 0 - 0 0 - 2 3 5 0 0 0 0 5 2
+p423
+aVJason Smith NOH 02/02/2012 NOH @ SAS L 31 6 2 11 18.2 0 0 - 2 2 100.0 2 5 7 0 0 2 1 1 -6
+p424
+aVAl-Farouq Aminu NOH 02/02/2012 NOH @ SAS L 21 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 2 -8
+p425
+aVDaJuan Summers NOH 02/02/2012 NOH @ SAS L 13 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 2 -5
+p426
+aVMarco Belinelli NOH 02/02/2012 NOH @ SAS L 29 11 3 6 50.0 1 3 33.3 4 4 100.0 0 1 1 1 0 0 1 0 -10
+p427
+aVTrevor Ariza NOH 02/02/2012 NOH @ SAS L 33 5 2 10 20.0 1 2 50.0 0 0 - 0 3 3 2 0 2 4 2 -1
+p428
+aVGreivis Vasquez NOH 02/02/2012 NOH @ SAS L 34 16 7 14 50.0 0 1 0.0 2 4 50.0 2 1 3 5 2 0 2 3 -17
+p429
+aVCarl Landry NOH 02/02/2012 NOH @ SAS L 28 17 8 12 66.7 0 0 - 1 2 50.0 0 4 4 1 0 0 2 2 -17
+p430
+aVEmeka Okafor NOH 02/01/2012 NOH vs. PHX L 30 11 5 10 50.0 0 0 - 1 2 50.0 1 5 6 5 0 1 1 4 -23
+p431
+aVDaJuan Summers NOH 02/01/2012 NOH vs. PHX L 15 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 2 -13
+p432
+aVGustavo Ayon NOH 02/01/2012 NOH vs. PHX L 18 10 4 9 44.4 0 0 - 2 2 100.0 0 3 3 0 2 0 2 3 0
+p433
+aVTrevor Ariza NOH 02/01/2012 NOH vs. PHX L 33 15 5 13 38.5 0 4 0.0 5 5 100.0 3 2 5 4 1 0 3 1 -15
+p434
+aVJarrett Jack NOH 02/01/2012 NOH vs. PHX L 31 10 4 8 50.0 2 3 66.7 0 0 - 0 2 2 6 0 0 1 2 -27
+p435
+aVGreivis Vasquez NOH 02/01/2012 NOH vs. PHX L 28 20 7 10 70.0 3 3 100.0 3 3 100.0 2 4 6 12 1 0 4 4 3
+p436
+aVCarl Landry NOH 02/01/2012 NOH vs. PHX L 14 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 4 -3
+p437
+aVJason Smith NOH 02/01/2012 NOH vs. PHX L 34 16 8 9 88.9 0 0 - 0 1 0.0 1 3 4 3 0 3 3 4 -8
+p438
+aVMarco Belinelli NOH 02/01/2012 NOH vs. PHX L 24 10 3 7 42.9 3 5 60.0 1 2 50.0 1 2 3 1 0 0 0 4 -2
+p439
+aVAl-Farouq Aminu NOH 02/01/2012 NOH vs. PHX L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p440
+aVGreivis Vasquez NOH 01/30/2012 NOH @ MIA L 25 11 5 9 55.6 0 2 0.0 1 3 33.3 0 2 2 4 0 0 1 2 -1
+p441
+aVJason Smith NOH 01/30/2012 NOH @ MIA L 18 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 -10
+p442
+aVCarldell Johnson NOH 01/30/2012 NOH @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 1 11
+p443
+aVEmeka Okafor NOH 01/30/2012 NOH @ MIA L 27 13 6 7 85.7 0 0 - 1 2 50.0 1 1 2 1 1 0 0 2 -18
+p444
+aVXavier Henry NOH 01/30/2012 NOH @ MIA L 15 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 0 0 2 2 0
+p445
+aVDaJuan Summers NOH 01/30/2012 NOH @ MIA L 9 7 2 2 100.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 5
+p446
+aVCarl Landry NOH 01/30/2012 NOH @ MIA L 24 14 6 8 75.0 0 0 - 2 3 66.7 0 3 3 0 0 0 2 1 -14
+p447
+aVTrevor Ariza NOH 01/30/2012 NOH @ MIA L 30 9 4 12 33.3 1 4 25.0 0 0 - 1 2 3 7 1 0 2 3 -29
+p448
+aVJarrett Jack NOH 01/30/2012 NOH @ MIA L 27 14 5 11 45.5 0 2 0.0 4 5 80.0 0 0 0 2 2 0 2 0 -22
+p449
+aVGustavo Ayon NOH 01/30/2012 NOH @ MIA L 18 8 4 6 66.7 0 0 - 0 0 - 1 1 2 1 2 1 0 1 9
+p450
+aVMarco Belinelli NOH 01/30/2012 NOH @ MIA L 19 5 2 6 33.3 1 2 50.0 0 2 0.0 0 5 5 1 1 0 2 2 -6
+p451
+aVAl-Farouq Aminu NOH 01/30/2012 NOH @ MIA L 24 6 3 7 42.9 0 0 - 0 0 - 1 3 4 1 1 0 2 1 5
+p452
+aVCarldell Johnson NOH 01/29/2012 NOH vs. ATL L 5 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 3 0 0 0 0 7
+p453
+aVCarl Landry NOH 01/29/2012 NOH vs. ATL L 14 0 0 4 0.0 0 0 - 0 0 - 0 4 4 0 0 0 2 3 -20
+p454
+aVEmeka Okafor NOH 01/29/2012 NOH vs. ATL L 31 13 6 10 60.0 0 0 - 1 3 33.3 3 5 8 2 2 0 1 2 -19
+p455
+aVAl-Farouq Aminu NOH 01/29/2012 NOH vs. ATL L 27 6 2 8 25.0 0 1 0.0 2 2 100.0 2 2 4 0 1 1 2 3 -7
+p456
+aVJason Smith NOH 01/29/2012 NOH vs. ATL L 20 4 2 7 28.6 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -17
+p457
+aVTrevor Ariza NOH 01/29/2012 NOH vs. ATL L 29 9 2 6 33.3 0 0 - 5 6 83.3 0 3 3 0 1 1 2 1 -23
+p458
+aVGustavo Ayon NOH 01/29/2012 NOH vs. ATL L 25 6 3 6 50.0 0 0 - 0 0 - 3 4 7 2 0 3 0 2 7
+p459
+aVMarco Belinelli NOH 01/29/2012 NOH vs. ATL L 12 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -12
+p460
+aVGreivis Vasquez NOH 01/29/2012 NOH vs. ATL L 26 10 3 6 50.0 0 1 0.0 4 4 100.0 0 1 1 8 0 0 4 1 0
+p461
+aVXavier Henry NOH 01/29/2012 NOH vs. ATL L 7 4 1 3 33.3 1 1 100.0 1 2 50.0 0 1 1 0 0 0 0 0 -5
+p462
+aVDaJuan Summers NOH 01/29/2012 NOH vs. ATL L 13 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 0 1 4 4
+p463
+aVJarrett Jack NOH 01/29/2012 NOH vs. ATL L 30 10 3 9 33.3 2 4 50.0 2 2 100.0 0 1 1 4 0 0 1 0 -25
+p464
+aVGreivis Vasquez NOH 01/27/2012 NOH vs. ORL W 27 8 4 9 44.4 0 4 0.0 0 1 0.0 0 2 2 4 2 0 0 2 10
+p465
+aVJarrett Jack NOH 01/27/2012 NOH vs. ORL W 24 11 5 10 50.0 0 0 - 1 2 50.0 0 5 5 9 2 0 1 0 19
+p466
+aVDaJuan Summers NOH 01/27/2012 NOH vs. ORL W 2 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 2 1 0 0 0 3
+p467
+aVEmeka Okafor NOH 01/27/2012 NOH vs. ORL W 31 9 4 7 57.1 0 0 - 1 6 16.7 4 2 6 1 3 1 2 4 12
+p468
+aVMarco Belinelli NOH 01/27/2012 NOH vs. ORL W 29 15 5 12 41.7 4 7 57.1 1 3 33.3 1 1 2 0 0 0 1 2 12
+p469
+aVXavier Henry NOH 01/27/2012 NOH vs. ORL W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 4
+p470
+aVCarl Landry NOH 01/27/2012 NOH vs. ORL W 25 17 8 13 61.5 0 0 - 1 1 100.0 4 2 6 1 1 1 2 1 7
+p471
+aVJason Smith NOH 01/27/2012 NOH vs. ORL W 29 14 7 9 77.8 0 0 - 0 0 - 1 3 4 0 1 0 2 3 26
+p472
+aVGustavo Ayon NOH 01/27/2012 NOH vs. ORL W 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 1 0 1 4
+p473
+aVAl-Farouq Aminu NOH 01/27/2012 NOH vs. ORL W 28 9 4 8 50.0 0 1 0.0 1 1 100.0 0 5 5 0 1 0 2 3 21
+p474
+aVTrevor Ariza NOH 01/27/2012 NOH vs. ORL W 27 5 2 9 22.2 0 1 0.0 1 2 50.0 1 8 9 2 2 0 1 0 12
+p475
+aVJason Smith NOH 01/25/2012 NOH @ OKC L 24 8 4 8 50.0 0 1 0.0 0 0 - 2 2 4 0 0 2 1 3 -12
+p476
+aVDaJuan Summers NOH 01/25/2012 NOH @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p477
+aVEmeka Okafor NOH 01/25/2012 NOH @ OKC L 21 8 4 6 66.7 0 0 - 0 0 - 2 6 8 1 0 1 2 5 -7
+p478
+aVGustavo Ayon NOH 01/25/2012 NOH @ OKC L 17 16 8 10 80.0 0 0 - 0 0 - 1 1 2 0 3 1 1 2 4
+p479
+aVAl-Farouq Aminu NOH 01/25/2012 NOH @ OKC L 25 11 5 6 83.3 0 0 - 1 1 100.0 1 3 4 2 3 0 3 2 -6
+p480
+aVJarrett Jack NOH 01/25/2012 NOH @ OKC L 33 20 6 14 42.9 1 1 100.0 7 7 100.0 0 2 2 5 1 0 2 3 -13
+p481
+aVMarco Belinelli NOH 01/25/2012 NOH @ OKC L 33 4 2 8 25.0 0 3 0.0 0 0 - 0 1 1 1 2 0 1 1 -11
+p482
+aVCarl Landry NOH 01/25/2012 NOH @ OKC L 28 15 2 5 40.0 0 0 - 11 11 100.0 1 3 4 1 0 1 2 1 -1
+p483
+aVXavier Henry NOH 01/25/2012 NOH @ OKC L 13 3 1 5 20.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 1 1
+p484
+aVTrevor Ariza NOH 01/25/2012 NOH @ OKC L 29 2 1 8 12.5 0 2 0.0 0 0 - 0 6 6 2 1 2 3 4 -13
+p485
+aVGreivis Vasquez NOH 01/25/2012 NOH @ OKC L 17 4 2 5 40.0 0 0 - 0 0 - 1 0 1 3 1 1 1 2 3
+p486
+aVEmeka Okafor NOH 01/23/2012 NOH vs. SAS L 33 10 5 11 45.5 0 0 - 0 0 - 3 5 8 2 1 3 2 2 -3
+p487
+aVTrevor Ariza NOH 01/23/2012 NOH vs. SAS L 36 18 7 13 53.8 2 3 66.7 2 2 100.0 3 3 6 5 3 0 1 3 4
+p488
+aVAl-Farouq Aminu NOH 01/23/2012 NOH vs. SAS L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -6
+p489
+aVJason Smith NOH 01/23/2012 NOH vs. SAS L 17 5 2 3 66.7 0 0 - 1 1 100.0 0 4 4 0 1 2 0 2 9
+p490
+aVGreivis Vasquez NOH 01/23/2012 NOH vs. SAS L 17 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 1 0 2 1 0
+p491
+aVCarl Landry NOH 01/23/2012 NOH vs. SAS L 32 18 5 11 45.5 0 2 0.0 8 9 88.9 3 5 8 2 0 0 2 2 -11
+p492
+aVChris Kaman NOH 01/23/2012 NOH vs. SAS L 14 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 1 2 1 0 1
+p493
+aVJarrett Jack NOH 01/23/2012 NOH vs. SAS L 41 26 12 22 54.5 1 3 33.3 1 1 100.0 0 6 6 9 0 0 1 2 6
+p494
+aVDaJuan Summers NOH 01/23/2012 NOH vs. SAS L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -9
+p495
+aVMarco Belinelli NOH 01/23/2012 NOH vs. SAS L 29 12 5 6 83.3 2 2 100.0 0 0 - 0 1 1 0 1 0 3 0 -1
+p496
+aVTrevor Ariza NOH 01/21/2012 NOH vs. DAL L 37 12 5 15 33.3 1 3 33.3 1 3 33.3 2 4 6 2 2 1 1 1 -11
+p497
+aVCarl Landry NOH 01/21/2012 NOH vs. DAL L 27 19 5 9 55.6 0 0 - 9 13 69.2 0 1 1 0 0 0 1 3 6
+p498
+aVCarldell Johnson NOH 01/21/2012 NOH vs. DAL L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 0 5
+p499
+aVGustavo Ayon NOH 01/21/2012 NOH vs. DAL L 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -1
+p500
+aVMarco Belinelli NOH 01/21/2012 NOH vs. DAL L 25 4 1 7 14.3 0 6 0.0 2 2 100.0 0 3 3 2 1 0 0 2 -7
+p501
+aVGreivis Vasquez NOH 01/21/2012 NOH vs. DAL L 16 5 2 5 40.0 0 2 0.0 1 1 100.0 0 2 2 1 0 0 2 4 5
+p502
+aVAl-Farouq Aminu NOH 01/21/2012 NOH vs. DAL L 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 2 0 0 1 1 9
+p503
+aVJarrett Jack NOH 01/21/2012 NOH vs. DAL L 40 12 3 12 25.0 1 4 25.0 5 7 71.4 1 3 4 6 1 0 2 1 -5
+p504
+aVDaJuan Summers NOH 01/21/2012 NOH vs. DAL L 10 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 0 3 0 0 2 -2
+p505
+aVJason Smith NOH 01/21/2012 NOH vs. DAL L 21 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -8
+p506
+aVEmeka Okafor NOH 01/21/2012 NOH vs. DAL L 37 16 7 13 53.8 0 0 - 2 3 66.7 6 11 17 1 0 1 2 1 2
+p507
+aVChris Kaman NOH 01/21/2012 NOH vs. DAL L 7 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 1 2 0 -3
+p508
+aVEmeka Okafor NOH 01/19/2012 NOH @ HOU L 26 8 4 9 44.4 0 0 - 0 0 - 4 8 12 1 0 1 0 2 -3
+p509
+aVJarrett Jack NOH 01/19/2012 NOH @ HOU L 37 15 6 15 40.0 1 3 33.3 2 4 50.0 2 3 5 7 0 0 3 1 0
+p510
+aVJason Smith NOH 01/19/2012 NOH @ HOU L 29 17 8 16 50.0 0 0 - 1 1 100.0 2 3 5 1 1 3 1 3 -2
+p511
+aVGreivis Vasquez NOH 01/19/2012 NOH @ HOU L 16 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 4 1 0 2 2 -2
+p512
+aVTrevor Ariza NOH 01/19/2012 NOH @ HOU L 46 10 3 9 33.3 1 2 50.0 3 4 75.0 0 5 5 3 1 0 2 1 3
+p513
+aVGustavo Ayon NOH 01/19/2012 NOH @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p514
+aVAl-Farouq Aminu NOH 01/19/2012 NOH @ HOU L 18 6 2 9 22.2 0 1 0.0 2 2 100.0 4 0 4 0 1 0 0 0 -4
+p515
+aVChris Kaman NOH 01/19/2012 NOH @ HOU L 27 5 2 9 22.2 0 0 - 1 2 50.0 1 7 8 1 2 1 4 1 1
+p516
+aVMarco Belinelli NOH 01/19/2012 NOH @ HOU L 42 15 6 12 50.0 1 3 33.3 2 3 66.7 1 3 4 1 1 0 1 3 -3
+p517
+aVCarl Landry NOH 01/19/2012 NOH @ HOU L 21 6 3 9 33.3 0 0 - 0 0 - 2 0 2 2 2 0 0 1 2
+p518
+aVJason Smith NOH 01/18/2012 NOH vs. MEM L 29 14 5 11 45.5 0 0 - 4 4 100.0 3 3 6 0 0 2 1 0 -1
+p519
+aVGreivis Vasquez NOH 01/18/2012 NOH vs. MEM L 17 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 1 2 0 0 0 -3
+p520
+aVChris Kaman NOH 01/18/2012 NOH vs. MEM L 21 4 2 6 33.3 0 0 - 0 0 - 1 3 4 4 0 3 3 1 3
+p521
+aVMarco Belinelli NOH 01/18/2012 NOH vs. MEM L 40 10 2 7 28.6 1 5 20.0 5 5 100.0 0 3 3 1 0 0 2 6 -4
+p522
+aVEmeka Okafor NOH 01/18/2012 NOH vs. MEM L 23 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 1 0 1 2 -15
+p523
+aVAl-Farouq Aminu NOH 01/18/2012 NOH vs. MEM L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p524
+aVTrevor Ariza NOH 01/18/2012 NOH vs. MEM L 40 18 7 13 53.8 0 2 0.0 4 6 66.7 1 4 5 7 4 1 5 2 -6
+p525
+aVDaJuan Summers NOH 01/18/2012 NOH vs. MEM L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p526
+aVJarrett Jack NOH 01/18/2012 NOH vs. MEM L 35 27 11 15 73.3 4 4 100.0 1 1 100.0 0 3 3 8 0 0 2 5 -2
+p527
+aVTrey Johnson NOH 01/18/2012 NOH vs. MEM L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p528
+aVGustavo Ayon NOH 01/18/2012 NOH vs. MEM L 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 3
+p529
+aVCarl Landry NOH 01/18/2012 NOH vs. MEM L 9 2 1 5 20.0 0 0 - 0 0 - 2 0 2 1 1 0 0 1 -2
+p530
+aVMarco Belinelli NOH 01/16/2012 NOH vs. POR L 21 2 1 8 12.5 0 3 0.0 0 0 - 0 3 3 0 0 0 0 1 -16
+p531
+aVChris Kaman NOH 01/16/2012 NOH vs. POR L 24 12 6 15 40.0 0 0 - 0 0 - 1 5 6 3 1 1 2 1 -2
+p532
+aVGreivis Vasquez NOH 01/16/2012 NOH vs. POR L 22 3 0 2 0.0 0 0 - 3 4 75.0 0 2 2 6 1 0 2 2 4
+p533
+aVJarrett Jack NOH 01/16/2012 NOH vs. POR L 43 21 6 13 46.2 0 2 0.0 9 10 90.0 1 3 4 4 2 0 3 1 -2
+p534
+aVCarl Landry NOH 01/16/2012 NOH vs. POR L 10 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 0 -4
+p535
+aVDaJuan Summers NOH 01/16/2012 NOH vs. POR L 30 8 3 8 37.5 0 3 0.0 2 2 100.0 0 2 2 0 2 0 2 2 -11
+p536
+aVAl-Farouq Aminu NOH 01/16/2012 NOH vs. POR L 27 8 3 6 50.0 0 1 0.0 2 2 100.0 1 2 3 0 1 1 1 4 8
+p537
+aVGustavo Ayon NOH 01/16/2012 NOH vs. POR L 20 8 4 5 80.0 0 0 - 0 0 - 1 4 5 2 2 2 1 1 5
+p538
+aVTrey Johnson NOH 01/16/2012 NOH vs. POR L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p539
+aVJason Smith NOH 01/16/2012 NOH vs. POR L 12 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 1 2 1 -14
+p540
+aVEmeka Okafor NOH 01/16/2012 NOH vs. POR L 30 12 4 5 80.0 0 0 - 4 8 50.0 3 7 10 0 0 0 3 2 1
+p541
+aVGustavo Ayon NOH 01/14/2012 NOH @ MEM L 20 9 3 5 60.0 0 0 - 3 3 100.0 2 5 7 5 1 2 1 2 10
+p542
+aVDaJuan Summers NOH 01/14/2012 NOH @ MEM L 23 1 0 5 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 2 5 -2
+p543
+aVEmeka Okafor NOH 01/14/2012 NOH @ MEM L 21 6 3 5 60.0 0 0 - 0 0 - 2 5 7 0 0 0 1 4 -7
+p544
+aVTrey Johnson NOH 01/14/2012 NOH @ MEM L 8 5 1 1 100.0 0 0 - 3 3 100.0 0 1 1 0 0 0 1 1 12
+p545
+aVJason Smith NOH 01/14/2012 NOH @ MEM L 27 15 7 16 43.8 0 2 0.0 1 2 50.0 4 6 10 0 1 3 0 3 2
+p546
+aVChris Kaman NOH 01/14/2012 NOH @ MEM L 16 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 2 1 1 1 4 -11
+p547
+aVGreivis Vasquez NOH 01/14/2012 NOH @ MEM L 28 14 5 10 50.0 1 2 50.0 3 4 75.0 0 3 3 6 1 1 4 5 3
+p548
+aVMarco Belinelli NOH 01/14/2012 NOH @ MEM L 20 10 2 4 50.0 2 3 66.7 4 4 100.0 0 1 1 0 0 0 3 1 -12
+p549
+aVAl-Farouq Aminu NOH 01/14/2012 NOH @ MEM L 25 5 1 5 20.0 0 0 - 3 3 100.0 2 4 6 0 0 1 0 2 -7
+p550
+aVCarl Landry NOH 01/14/2012 NOH @ MEM L 12 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 1 0 0 0 1 -12
+p551
+aVCarldell Johnson NOH 01/14/2012 NOH @ MEM L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p552
+aVJarrett Jack NOH 01/14/2012 NOH @ MEM L 38 23 8 14 57.1 1 2 50.0 6 6 100.0 0 3 3 4 1 0 2 2 -23
+p553
+aVAl-Farouq Aminu NOH 01/13/2012 NOH vs. MIN L 8 2 1 4 25.0 0 1 0.0 0 0 - 3 0 3 2 0 0 0 1 -5
+p554
+aVJarrett Jack NOH 01/13/2012 NOH vs. MIN L 42 8 3 8 37.5 0 2 0.0 2 4 50.0 0 5 5 9 2 0 3 3 -3
+p555
+aVCarl Landry NOH 01/13/2012 NOH vs. MIN L 21 3 1 8 12.5 0 0 - 1 1 100.0 2 4 6 2 1 0 1 4 1
+p556
+aVChris Kaman NOH 01/13/2012 NOH vs. MIN L 18 2 0 10 0.0 0 0 - 2 2 100.0 3 6 9 0 1 1 1 1 -3
+p557
+aVJason Smith NOH 01/13/2012 NOH vs. MIN L 13 6 3 10 30.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 4 -7
+p558
+aVGreivis Vasquez NOH 01/13/2012 NOH vs. MIN L 18 3 1 6 16.7 1 2 50.0 0 0 - 0 3 3 0 0 0 0 3 -8
+p559
+aVCarldell Johnson NOH 01/13/2012 NOH vs. MIN L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 1 0 -8
+p560
+aVGustavo Ayon NOH 01/13/2012 NOH vs. MIN L 13 7 3 5 60.0 0 0 - 1 3 33.3 2 2 4 0 1 1 2 3 5
+p561
+aVEmeka Okafor NOH 01/13/2012 NOH vs. MIN L 31 16 8 14 57.1 0 0 - 0 3 0.0 7 7 14 0 1 0 2 2 -10
+p562
+aVMarco Belinelli NOH 01/13/2012 NOH vs. MIN L 36 20 8 14 57.1 3 7 42.9 1 2 50.0 0 1 1 1 2 0 2 5 0
+p563
+aVDaJuan Summers NOH 01/13/2012 NOH vs. MIN L 27 11 5 8 62.5 0 2 0.0 1 1 100.0 1 0 1 1 1 0 0 6 3
+p564
+aVMarco Belinelli NOH 01/11/2012 NOH vs. OKC L 39 10 3 10 30.0 0 5 0.0 4 4 100.0 0 3 3 2 1 0 1 2 -1
+p565
+aVGustavo Ayon NOH 01/11/2012 NOH vs. OKC L 5 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 -7
+p566
+aVDaJuan Summers NOH 01/11/2012 NOH vs. OKC L 19 10 4 8 50.0 1 3 33.3 1 2 50.0 2 0 2 0 0 0 0 1 -7
+p567
+aVAl-Farouq Aminu NOH 01/11/2012 NOH vs. OKC L 25 6 3 7 42.9 0 1 0.0 0 0 - 4 5 9 0 2 0 0 1 -1
+p568
+aVGreivis Vasquez NOH 01/11/2012 NOH vs. OKC L 15 2 0 3 0.0 0 2 0.0 2 2 100.0 1 3 4 2 0 2 0 1 -5
+p569
+aVJarrett Jack NOH 01/11/2012 NOH vs. OKC L 35 8 4 11 36.4 0 4 0.0 0 0 - 2 4 6 8 1 0 2 3 -6
+p570
+aVCarl Landry NOH 01/11/2012 NOH vs. OKC L 35 17 7 13 53.8 0 0 - 3 4 75.0 2 1 3 3 0 0 3 1 -6
+p571
+aVEmeka Okafor NOH 01/11/2012 NOH vs. OKC L 26 10 5 7 71.4 0 0 - 0 0 - 0 4 4 0 0 1 3 3 -8
+p572
+aVChris Kaman NOH 01/11/2012 NOH vs. OKC L 31 17 8 16 50.0 0 0 - 1 2 50.0 2 7 9 2 0 2 3 2 1
+p573
+aVCarldell Johnson NOH 01/11/2012 NOH vs. OKC L 11 2 1 4 25.0 0 1 0.0 0 2 0.0 1 1 2 2 0 0 1 3 -10
+p574
+aVChris Kaman NOH 01/09/2012 NOH @ DEN W 28 20 10 16 62.5 0 0 - 0 0 - 1 6 7 1 0 1 2 4 8
+p575
+aVAl-Farouq Aminu NOH 01/09/2012 NOH @ DEN W 26 4 2 7 28.6 0 1 0.0 0 0 - 3 5 8 5 1 1 2 1 12
+p576
+aVEmeka Okafor NOH 01/09/2012 NOH @ DEN W 24 4 2 3 66.7 0 0 - 0 0 - 2 5 7 2 1 1 1 2 7
+p577
+aVGreivis Vasquez NOH 01/09/2012 NOH @ DEN W 14 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 4 1 1 2 0 6
+p578
+aVTrey Johnson NOH 01/09/2012 NOH @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p579
+aVMarco Belinelli NOH 01/09/2012 NOH @ DEN W 30 19 8 13 61.5 3 4 75.0 0 0 - 0 2 2 2 1 0 1 3 13
+p580
+aVDaJuan Summers NOH 01/09/2012 NOH @ DEN W 24 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 2 5
+p581
+aVJarrett Jack NOH 01/09/2012 NOH @ DEN W 35 13 4 11 36.4 1 1 100.0 4 4 100.0 1 3 4 9 2 0 2 2 7
+p582
+aVGustavo Ayon NOH 01/09/2012 NOH @ DEN W 5 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -5
+p583
+aVCarldell Johnson NOH 01/09/2012 NOH @ DEN W 14 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 3 -4
+p584
+aVCarl Landry NOH 01/09/2012 NOH @ DEN W 37 21 8 15 53.3 0 0 - 5 8 62.5 1 4 5 1 1 1 4 4 20
+p585
+aVCarl Landry NOH 01/07/2012 NOH @ DAL L 28 12 3 7 42.9 0 0 - 6 7 85.7 1 2 3 1 1 0 2 4 -6
+p586
+aVGreivis Vasquez NOH 01/07/2012 NOH @ DAL L 18 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 2 2 0 3 0 -12
+p587
+aVAl-Farouq Aminu NOH 01/07/2012 NOH @ DAL L 44 15 4 8 50.0 2 4 50.0 5 6 83.3 0 12 12 2 4 0 4 4 -16
+p588
+aVTrey Johnson NOH 01/07/2012 NOH @ DAL L 8 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 0
+p589
+aVCarldell Johnson NOH 01/07/2012 NOH @ DAL L 17 9 3 7 42.9 3 4 75.0 0 0 - 0 0 0 2 0 0 2 2 2
+p590
+aVEmeka Okafor NOH 01/07/2012 NOH @ DAL L 37 9 3 7 42.9 0 0 - 3 5 60.0 1 3 4 2 2 0 1 1 -17
+p591
+aVJarrett Jack NOH 01/07/2012 NOH @ DAL L 38 13 4 14 28.6 1 2 50.0 4 4 100.0 1 6 7 5 0 0 3 2 -10
+p592
+aVGustavo Ayon NOH 01/07/2012 NOH @ DAL L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -3
+p593
+aVChris Kaman NOH 01/07/2012 NOH @ DAL L 25 10 4 8 50.0 0 0 - 2 2 100.0 2 4 6 2 0 0 2 4 -4
+p594
+aVMarco Belinelli NOH 01/07/2012 NOH @ DAL L 17 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 1 2 0 2 1 -9
+p595
+aVJarrett Jack NOH 01/06/2012 NOH vs. DEN L 40 15 6 13 46.2 1 4 25.0 2 3 66.7 2 1 3 6 1 0 3 3 -1
+p596
+aVChris Kaman NOH 01/06/2012 NOH vs. DEN L 28 6 3 9 33.3 0 0 - 0 0 - 0 12 12 2 0 1 4 1 -19
+p597
+aVCarl Landry NOH 01/06/2012 NOH vs. DEN L 26 15 5 11 45.5 0 0 - 5 5 100.0 3 3 6 0 0 1 3 4 -7
+p598
+aVCarldell Johnson NOH 01/06/2012 NOH vs. DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p599
+aVJason Smith NOH 01/06/2012 NOH vs. DEN L 21 8 4 6 66.7 0 0 - 0 0 - 0 1 1 1 0 2 2 2 2
+p600
+aVGreivis Vasquez NOH 01/06/2012 NOH vs. DEN L 26 16 6 11 54.5 4 7 57.1 0 0 - 0 4 4 4 2 1 1 2 1
+p601
+aVEmeka Okafor NOH 01/06/2012 NOH vs. DEN L 31 7 3 8 37.5 0 0 - 1 2 50.0 2 3 5 0 2 4 1 3 3
+p602
+aVAl-Farouq Aminu NOH 01/06/2012 NOH vs. DEN L 22 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -12
+p603
+aVMarco Belinelli NOH 01/06/2012 NOH vs. DEN L 40 13 5 13 38.5 3 6 50.0 0 0 - 1 2 3 4 2 0 1 2 -15
+p604
+aVTrey Johnson NOH 01/06/2012 NOH vs. DEN L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 5
+p605
+aVEmeka Okafor NOH 01/04/2012 NOH vs. PHI L 27 5 2 4 50.0 0 0 - 1 4 25.0 2 5 7 0 1 2 1 2 -2
+p606
+aVCarl Landry NOH 01/04/2012 NOH vs. PHI L 32 21 7 14 50.0 0 0 - 7 8 87.5 4 4 8 1 0 0 1 2 -6
+p607
+aVJarrett Jack NOH 01/04/2012 NOH vs. PHI L 38 19 7 15 46.7 0 0 - 5 5 100.0 2 3 5 11 0 0 3 2 -8
+p608
+aVChris Kaman NOH 01/04/2012 NOH vs. PHI L 24 10 5 7 71.4 0 0 - 0 0 - 0 8 8 2 0 0 2 2 -4
+p609
+aVJason Smith NOH 01/04/2012 NOH vs. PHI L 13 9 3 4 75.0 1 1 100.0 2 2 100.0 1 1 2 1 0 1 0 1 -4
+p610
+aVMarco Belinelli NOH 01/04/2012 NOH vs. PHI L 21 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 2 -8
+p611
+aVAl-Farouq Aminu NOH 01/04/2012 NOH vs. PHI L 20 0 0 4 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 3 4
+p612
+aVTrey Johnson NOH 01/04/2012 NOH vs. PHI L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -7
+p613
+aVGreivis Vasquez NOH 01/04/2012 NOH vs. PHI L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 4 1 0 0 1 -7
+p614
+aVEric Gordon NOH 01/04/2012 NOH vs. PHI L 39 22 8 22 36.4 1 6 16.7 5 6 83.3 1 5 6 1 3 2 3 1 2
+p615
+aVEmeka Okafor NOH 01/02/2012 NOH @ UTA L 25 7 3 8 37.5 0 0 - 1 2 50.0 1 4 5 2 0 0 1 3 0
+p616
+aVMarco Belinelli NOH 01/02/2012 NOH @ UTA L 37 6 2 9 22.2 2 4 50.0 0 0 - 0 4 4 1 1 0 3 1 -3
+p617
+aVTrevor Ariza NOH 01/02/2012 NOH @ UTA L 17 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 1 0 0 3 3
+p618
+aVGreivis Vasquez NOH 01/02/2012 NOH @ UTA L 10 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -5
+p619
+aVAl-Farouq Aminu NOH 01/02/2012 NOH @ UTA L 29 11 3 6 50.0 0 2 0.0 5 6 83.3 0 1 1 0 1 1 1 3 -6
+p620
+aVJason Smith NOH 01/02/2012 NOH @ UTA L 25 16 8 13 61.5 0 1 0.0 0 0 - 3 5 8 0 1 1 2 2 0
+p621
+aVChris Kaman NOH 01/02/2012 NOH @ UTA L 29 14 6 7 85.7 0 0 - 2 2 100.0 2 4 6 1 0 0 3 3 -7
+p622
+aVTrey Johnson NOH 01/02/2012 NOH @ UTA L 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 2 0
+p623
+aVCarl Landry NOH 01/02/2012 NOH @ UTA L 18 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 2 0 0 1 1 -1
+p624
+aVJarrett Jack NOH 01/02/2012 NOH @ UTA L 40 27 11 17 64.7 1 3 33.3 4 4 100.0 1 4 5 11 1 2 2 4 -1
+p625
+aVEmeka Okafor NOH 01/01/2012 NOH @ SAC L 33 13 5 7 71.4 0 0 - 3 6 50.0 5 7 12 1 0 1 0 2 -8
+p626
+aVGreivis Vasquez NOH 01/01/2012 NOH @ SAC L 27 6 3 9 33.3 0 0 - 0 0 - 0 2 2 8 2 0 2 0 -1
+p627
+aVTrevor Ariza NOH 01/01/2012 NOH @ SAC L 38 17 8 14 57.1 0 3 0.0 1 2 50.0 2 3 5 3 1 0 1 3 -18
+p628
+aVJarrett Jack NOH 01/01/2012 NOH @ SAC L 32 6 3 11 27.3 0 3 0.0 0 0 - 0 4 4 8 0 0 8 1 -20
+p629
+aVTrey Johnson NOH 01/01/2012 NOH @ SAC L 1 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 2
+p630
+aVAl-Farouq Aminu NOH 01/01/2012 NOH @ SAC L 11 0 0 5 0.0 0 1 0.0 0 0 - 3 3 6 0 0 0 2 1 0
+p631
+aVGustavo Ayon NOH 01/01/2012 NOH @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p632
+aVCarl Landry NOH 01/01/2012 NOH @ SAC L 21 12 6 11 54.5 0 0 - 0 0 - 5 0 5 0 0 0 2 3 -6
+p633
+aVJason Smith NOH 01/01/2012 NOH @ SAC L 13 2 1 5 20.0 0 1 0.0 0 4 0.0 2 1 3 0 1 0 0 2 -8
+p634
+aVChris Kaman NOH 01/01/2012 NOH @ SAC L 27 14 5 13 38.5 0 0 - 4 4 100.0 3 12 15 1 0 1 3 4 -6
+p635
+aVMarco Belinelli NOH 01/01/2012 NOH @ SAC L 35 6 3 12 25.0 0 7 0.0 0 0 - 0 6 6 3 0 0 1 2 -13
+p636
+aVEmeka Okafor NOH 12/30/2011 NOH vs. PHX L 28 10 2 6 33.3 0 0 - 6 10 60.0 8 8 16 1 0 1 1 3 -5
+p637
+aVGreivis Vasquez NOH 12/30/2011 NOH vs. PHX L 17 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 5 0 0 0 2 0
+p638
+aVAl-Farouq Aminu NOH 12/30/2011 NOH vs. PHX L 16 6 1 3 33.3 0 1 0.0 4 4 100.0 2 5 7 0 0 0 2 3 -5
+p639
+aVCarl Landry NOH 12/30/2011 NOH vs. PHX L 32 17 6 16 37.5 0 0 - 5 5 100.0 5 3 8 2 0 0 2 2 -10
+p640
+aVJason Smith NOH 12/30/2011 NOH vs. PHX L 17 8 4 9 44.4 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -5
+p641
+aVJarrett Jack NOH 12/30/2011 NOH vs. PHX L 39 12 6 20 30.0 0 3 0.0 0 0 - 0 1 1 4 0 1 2 3 -15
+p642
+aVTrey Johnson NOH 12/30/2011 NOH vs. PHX L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -3
+p643
+aVLance Thomas NOH 12/30/2011 NOH vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p644
+aVCarldell Johnson NOH 12/30/2011 NOH vs. PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p645
+aVChris Kaman NOH 12/30/2011 NOH vs. PHX L 20 4 1 5 20.0 0 0 - 2 2 100.0 2 0 2 1 0 3 3 1 -9
+p646
+aVTrevor Ariza NOH 12/30/2011 NOH vs. PHX L 28 7 2 11 18.2 1 2 50.0 2 2 100.0 3 4 7 1 2 0 1 5 -9
+p647
+aVMarco Belinelli NOH 12/30/2011 NOH vs. PHX L 35 8 3 13 23.1 2 6 33.3 0 1 0.0 3 7 10 0 2 0 1 2 -12
+p648
+aVChris Kaman NOH 12/28/2011 NOH vs. BOS W 27 12 6 15 40.0 0 0 - 0 0 - 3 6 9 1 1 3 1 3 14
+p649
+aVJason Smith NOH 12/28/2011 NOH vs. BOS W 10 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p650
+aVMarco Belinelli NOH 12/28/2011 NOH vs. BOS W 35 13 4 6 66.7 3 4 75.0 2 3 66.7 2 4 6 0 1 0 2 3 15
+p651
+aVAl-Farouq Aminu NOH 12/28/2011 NOH vs. BOS W 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 14
+p652
+aVTrevor Ariza NOH 12/28/2011 NOH vs. BOS W 40 8 2 8 25.0 1 4 25.0 3 4 75.0 1 5 6 4 2 1 0 1 11
+p653
+aVGreivis Vasquez NOH 12/28/2011 NOH vs. BOS W 15 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 2 1 0 0 0 9
+p654
+aVCarldell Johnson NOH 12/28/2011 NOH vs. BOS W 2 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -2
+p655
+aVCarl Landry NOH 12/28/2011 NOH vs. BOS W 29 20 6 9 66.7 0 0 - 8 8 100.0 5 6 11 0 0 1 2 5 20
+p656
+aVJarrett Jack NOH 12/28/2011 NOH vs. BOS W 38 21 8 17 47.1 0 2 0.0 5 5 100.0 0 4 4 9 1 2 1 1 10
+p657
+aVTrey Johnson NOH 12/28/2011 NOH vs. BOS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p658
+aVLance Thomas NOH 12/28/2011 NOH vs. BOS W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -2
+p659
+aVEmeka Okafor NOH 12/28/2011 NOH vs. BOS W 27 13 6 9 66.7 0 0 - 1 2 50.0 1 5 6 0 0 5 3 2 8
+p660
+aVGreivis Vasquez NOH 12/26/2011 NOH @ PHX W 27 10 3 7 42.9 1 3 33.3 3 3 100.0 0 3 3 2 3 0 5 0 1
+p661
+aVJason Smith NOH 12/26/2011 NOH @ PHX W 16 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 1 2 1 0 2 0
+p662
+aVChris Kaman NOH 12/26/2011 NOH @ PHX W 21 10 5 8 62.5 0 0 - 0 0 - 3 2 5 0 1 0 3 4 4
+p663
+aVTrevor Ariza NOH 12/26/2011 NOH @ PHX W 34 13 6 11 54.5 1 2 50.0 0 2 0.0 1 6 7 1 0 1 1 3 4
+p664
+aVCarl Landry NOH 12/26/2011 NOH @ PHX W 33 14 6 15 40.0 0 0 - 2 5 40.0 3 4 7 1 2 0 0 4 -1
+p665
+aVEric Gordon NOH 12/26/2011 NOH @ PHX W 39 20 9 18 50.0 0 6 0.0 2 3 66.7 0 4 4 3 1 1 1 4 7
+p666
+aVMarco Belinelli NOH 12/26/2011 NOH @ PHX W 30 10 4 11 36.4 0 5 0.0 2 2 100.0 1 4 5 1 0 0 1 2 -9
+p667
+aVEmeka Okafor NOH 12/26/2011 NOH @ PHX W 26 4 1 5 20.0 0 0 - 2 4 50.0 1 8 9 0 0 2 1 2 -1
+p668
+aVCarldell Johnson NOH 12/26/2011 NOH @ PHX W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p669
+aVAl-Farouq Aminu NOH 12/26/2011 NOH @ PHX W 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -3
+p670
+a.

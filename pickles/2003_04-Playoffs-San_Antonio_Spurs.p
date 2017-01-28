@@ -1,0 +1,214 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVManu Ginobili SAS 05/15/2004 SAS @ LAL L 35 16 5 13 38.5 0 5 0.0 6 6 100.0 2 5 7 4 1 0 1 4 -10
+p2
+aVKevin Willis SAS 05/15/2004 SAS @ LAL L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p3
+aVTony Parker SAS 05/15/2004 SAS @ LAL L 39 9 4 18 22.2 0 5 0.0 1 2 50.0 1 0 1 3 0 1 6 4 -20
+p4
+aVCharlie Ward SAS 05/15/2004 SAS @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p5
+aVRasho Nesterovic SAS 05/15/2004 SAS @ LAL L 20 4 2 7 28.6 0 1 0.0 0 0 - 3 1 4 0 0 0 1 5 -19
+p6
+aVTim Duncan SAS 05/15/2004 SAS @ LAL L 44 20 7 18 38.9 0 1 0.0 6 8 75.0 4 7 11 2 2 1 2 4 -15
+p7
+aVDevin Brown SAS 05/15/2004 SAS @ LAL L 28 15 5 10 50.0 2 2 100.0 3 4 75.0 1 5 6 3 0 1 2 6 4
+p8
+aVHedo Turkoglu SAS 05/15/2004 SAS @ LAL L 17 0 0 5 0.0 0 3 0.0 0 0 - 1 6 7 0 0 0 1 2 -1
+p9
+aVMalik Rose SAS 05/15/2004 SAS @ LAL L 1 0 0 1 0.0 0 0 - 0 0 - 4 0 4 0 0 0 0 0 0
+p10
+aVRobert Horry SAS 05/15/2004 SAS @ LAL L 25 12 3 7 42.9 1 5 20.0 5 6 83.3 4 3 7 2 3 0 1 3 16
+p11
+aVBruce Bowen SAS 05/15/2004 SAS @ LAL L 25 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 0 -16
+p12
+aVRobert Horry SAS 05/13/2004 SAS vs. LAL L 27 0 0 4 0.0 0 3 0.0 0 0 - 0 6 6 0 1 0 1 2 7
+p13
+aVTony Parker SAS 05/13/2004 SAS vs. LAL L 40 15 7 23 30.4 1 5 20.0 0 0 - 1 3 4 6 2 0 3 1 3
+p14
+aVDevin Brown SAS 05/13/2004 SAS vs. LAL L 24 11 4 7 57.1 1 3 33.3 2 4 50.0 1 1 2 1 2 0 1 3 6
+p15
+aVTim Duncan SAS 05/13/2004 SAS vs. LAL L 46 21 7 15 46.7 0 0 - 7 10 70.0 6 15 21 2 0 4 7 3 3
+p16
+aVManu Ginobili SAS 05/13/2004 SAS vs. LAL L 26 8 4 8 50.0 0 1 0.0 0 0 - 2 5 7 3 3 0 3 4 8
+p17
+aVHedo Turkoglu SAS 05/13/2004 SAS vs. LAL L 25 8 3 10 30.0 2 6 33.3 0 2 0.0 1 0 1 2 0 0 1 0 -6
+p18
+aVRasho Nesterovic SAS 05/13/2004 SAS vs. LAL L 24 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 0 2 -16
+p19
+aVBruce Bowen SAS 05/13/2004 SAS vs. LAL L 28 8 3 6 50.0 2 5 40.0 0 1 0.0 0 2 2 1 0 0 0 1 -10
+p20
+aVMalik Rose SAS 05/11/2004 SAS @ LAL L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 6
+p21
+aVTim Duncan SAS 05/11/2004 SAS @ LAL L 45 19 5 13 38.5 0 0 - 9 12 75.0 4 6 10 8 1 1 2 3 -5
+p22
+aVTony Parker SAS 05/11/2004 SAS @ LAL L 41 18 7 18 38.9 2 5 40.0 2 2 100.0 0 0 0 8 1 0 4 3 -7
+p23
+aVBruce Bowen SAS 05/11/2004 SAS @ LAL L 23 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -11
+p24
+aVRasho Nesterovic SAS 05/11/2004 SAS @ LAL L 33 12 6 14 42.9 0 0 - 0 0 - 2 5 7 1 0 1 2 3 -15
+p25
+aVHedo Turkoglu SAS 05/11/2004 SAS @ LAL L 34 16 5 14 35.7 4 8 50.0 2 2 100.0 0 7 7 0 1 0 2 3 -3
+p26
+aVManu Ginobili SAS 05/11/2004 SAS @ LAL L 30 21 7 12 58.3 2 3 66.7 5 6 83.3 2 6 8 5 1 0 2 4 5
+p27
+aVRobert Horry SAS 05/11/2004 SAS @ LAL L 7 0 0 1 0.0 0 1 0.0 0 0 - 3 3 6 1 0 0 1 2 -2
+p28
+aVDevin Brown SAS 05/11/2004 SAS @ LAL L 16 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 3 -8
+p29
+aVDevin Brown SAS 05/09/2004 SAS @ LAL L 24 16 6 10 60.0 2 3 66.7 2 4 50.0 2 5 7 1 1 0 1 3 -1
+p30
+aVKevin Willis SAS 05/09/2004 SAS @ LAL L 10 4 2 4 50.0 0 1 0.0 0 1 0.0 0 1 1 0 0 0 0 2 -7
+p31
+aVJason Hart SAS 05/09/2004 SAS @ LAL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p32
+aVMalik Rose SAS 05/09/2004 SAS @ LAL L 15 4 1 6 16.7 0 2 0.0 2 4 50.0 4 3 7 2 1 0 1 1 -1
+p33
+aVRasho Nesterovic SAS 05/09/2004 SAS @ LAL L 23 0 0 4 0.0 0 0 - 0 0 - 1 3 4 0 0 1 3 5 -14
+p34
+aVHedo Turkoglu SAS 05/09/2004 SAS @ LAL L 23 4 1 7 14.3 1 4 25.0 1 2 50.0 1 3 4 3 1 0 1 3 -9
+p35
+aVCharlie Ward SAS 05/09/2004 SAS @ LAL L 5 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 2 0
+p36
+aVBruce Bowen SAS 05/09/2004 SAS @ LAL L 28 9 3 9 33.3 3 5 60.0 0 0 - 1 0 1 2 1 0 0 3 -27
+p37
+aVTim Duncan SAS 05/09/2004 SAS @ LAL L 35 10 4 14 28.6 0 0 - 2 2 100.0 5 8 13 2 0 1 6 3 -16
+p38
+aVManu Ginobili SAS 05/09/2004 SAS @ LAL L 22 17 5 13 38.5 4 8 50.0 3 5 60.0 2 2 4 2 2 0 3 2 -10
+p39
+aVRobert Horry SAS 05/09/2004 SAS @ LAL L 12 2 0 0 - 0 0 - 2 2 100.0 2 0 2 1 1 0 0 3 -9
+p40
+aVTony Parker SAS 05/09/2004 SAS @ LAL L 35 8 4 12 33.3 0 3 0.0 0 2 0.0 1 1 2 5 1 0 3 0 -28
+p41
+aVManu Ginobili SAS 05/05/2004 SAS vs. LAL W 29 15 6 8 75.0 0 1 0.0 3 5 60.0 1 4 5 6 2 0 1 4 9
+p42
+aVKevin Willis SAS 05/05/2004 SAS vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p43
+aVTony Parker SAS 05/05/2004 SAS vs. LAL W 41 30 13 23 56.5 2 4 50.0 2 2 100.0 1 1 2 5 3 0 1 1 12
+p44
+aVJason Hart SAS 05/05/2004 SAS vs. LAL W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p45
+aVBruce Bowen SAS 05/05/2004 SAS vs. LAL W 33 4 1 5 20.0 1 3 33.3 1 4 25.0 0 7 7 0 2 0 0 4 8
+p46
+aVDevin Brown SAS 05/05/2004 SAS vs. LAL W 13 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -3
+p47
+aVRobert Horry SAS 05/05/2004 SAS vs. LAL W 17 3 1 3 33.3 1 3 33.3 0 0 - 1 3 4 0 0 0 1 5 5
+p48
+aVHedo Turkoglu SAS 05/05/2004 SAS vs. LAL W 20 9 4 8 50.0 1 5 20.0 0 0 - 0 1 1 1 0 0 1 2 4
+p49
+aVRasho Nesterovic SAS 05/05/2004 SAS vs. LAL W 37 9 4 7 57.1 0 0 - 1 4 25.0 2 4 6 2 1 1 0 5 9
+p50
+aVTim Duncan SAS 05/05/2004 SAS vs. LAL W 42 24 7 13 53.8 0 0 - 10 14 71.4 1 6 7 3 0 1 4 4 6
+p51
+aVBruce Bowen SAS 05/02/2004 SAS vs. LAL W 32 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 0 0 0 0 3 -4
+p52
+aVTony Parker SAS 05/02/2004 SAS vs. LAL W 42 20 8 19 42.1 1 5 20.0 3 5 60.0 1 3 4 9 3 0 1 2 13
+p53
+aVHedo Turkoglu SAS 05/02/2004 SAS vs. LAL W 19 0 0 6 0.0 0 2 0.0 0 0 - 0 2 2 1 2 0 1 1 -1
+p54
+aVJason Hart SAS 05/02/2004 SAS vs. LAL W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p55
+aVRasho Nesterovic SAS 05/02/2004 SAS vs. LAL W 31 10 5 11 45.5 0 0 - 0 2 0.0 2 4 6 0 1 1 0 5 -1
+p56
+aVTim Duncan SAS 05/02/2004 SAS vs. LAL W 39 30 13 18 72.2 0 0 - 4 11 36.4 3 8 11 3 3 2 7 4 7
+p57
+aVManu Ginobili SAS 05/02/2004 SAS vs. LAL W 31 11 4 10 40.0 2 5 40.0 1 1 100.0 2 4 6 2 2 0 1 3 13
+p58
+aVRobert Horry SAS 05/02/2004 SAS vs. LAL W 23 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 0 2 2 10
+p59
+aVDevin Brown SAS 05/02/2004 SAS vs. LAL W 14 8 3 4 75.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 3 3 12
+p60
+aVKevin Willis SAS 05/02/2004 SAS vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 2 4
+p61
+aVRobert Horry SAS 04/25/2004 SAS @ MEM W 29 14 4 7 57.1 4 5 80.0 2 2 100.0 0 6 6 1 0 0 0 3 17
+p62
+aVBruce Bowen SAS 04/25/2004 SAS @ MEM W 34 10 4 6 66.7 2 2 100.0 0 2 0.0 1 3 4 2 1 1 0 3 23
+p63
+aVHedo Turkoglu SAS 04/25/2004 SAS @ MEM W 34 6 1 3 33.3 1 3 33.3 3 6 50.0 0 5 5 1 1 1 2 2 4
+p64
+aVDevin Brown SAS 04/25/2004 SAS @ MEM W 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p65
+aVTony Parker SAS 04/25/2004 SAS @ MEM W 40 29 9 15 60.0 4 5 80.0 7 10 70.0 0 2 2 13 2 0 4 0 24
+p66
+aVRasho Nesterovic SAS 04/25/2004 SAS @ MEM W 21 8 4 6 66.7 0 0 - 0 0 - 2 2 4 3 1 0 2 3 4
+p67
+aVJason Hart SAS 04/25/2004 SAS @ MEM W 8 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -11
+p68
+aVMalik Rose SAS 04/25/2004 SAS @ MEM W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 2 0 2 1 -4
+p69
+aVCharlie Ward SAS 04/25/2004 SAS @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p70
+aVManu Ginobili SAS 04/25/2004 SAS @ MEM W 23 10 2 3 66.7 0 1 0.0 6 6 100.0 2 2 4 2 1 0 3 3 5
+p71
+aVKevin Willis SAS 04/25/2004 SAS @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p72
+aVTim Duncan SAS 04/25/2004 SAS @ MEM W 38 26 10 18 55.6 0 0 - 6 6 100.0 1 5 6 3 0 2 2 4 10
+p73
+aVRobert Horry SAS 04/22/2004 SAS @ MEM W 27 6 1 4 25.0 0 1 0.0 4 4 100.0 8 4 12 2 0 0 1 4 11
+p74
+aVMalik Rose SAS 04/22/2004 SAS @ MEM W 8 0 0 2 0.0 0 0 - 0 0 - 4 1 5 0 0 2 3 1 -10
+p75
+aVDevin Brown SAS 04/22/2004 SAS @ MEM W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p76
+aVJason Hart SAS 04/22/2004 SAS @ MEM W 10 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p77
+aVTony Parker SAS 04/22/2004 SAS @ MEM W 37 18 5 10 50.0 1 3 33.3 7 10 70.0 0 1 1 6 1 0 3 2 2
+p78
+aVRasho Nesterovic SAS 04/22/2004 SAS @ MEM W 20 6 3 6 50.0 0 0 - 0 0 - 3 4 7 1 0 2 0 4 4
+p79
+aVBruce Bowen SAS 04/22/2004 SAS @ MEM W 33 7 2 7 28.6 1 3 33.3 2 4 50.0 0 3 3 1 0 0 0 2 2
+p80
+aVTim Duncan SAS 04/22/2004 SAS @ MEM W 41 22 10 18 55.6 0 0 - 2 6 33.3 5 8 13 3 1 1 5 3 -1
+p81
+aVManu Ginobili SAS 04/22/2004 SAS @ MEM W 29 12 3 9 33.3 2 5 40.0 4 6 66.7 1 1 2 4 2 0 2 0 17
+p82
+aVHedo Turkoglu SAS 04/22/2004 SAS @ MEM W 33 18 7 10 70.0 4 6 66.7 0 0 - 0 5 5 1 0 0 1 1 -7
+p83
+aVManu Ginobili SAS 04/19/2004 SAS vs. MEM W 28 5 1 8 12.5 0 3 0.0 3 4 75.0 1 6 7 0 2 0 3 3 14
+p84
+aVTony Parker SAS 04/19/2004 SAS vs. MEM W 40 27 11 20 55.0 4 6 66.7 1 2 50.0 0 3 3 7 0 0 2 2 18
+p85
+aVCharlie Ward SAS 04/19/2004 SAS vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -2
+p86
+aVBruce Bowen SAS 04/19/2004 SAS vs. MEM W 30 6 3 7 42.9 0 2 0.0 0 2 0.0 1 4 5 1 0 0 1 4 7
+p87
+aVJason Hart SAS 04/19/2004 SAS vs. MEM W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 1
+p88
+aVRasho Nesterovic SAS 04/19/2004 SAS vs. MEM W 25 4 2 5 40.0 0 0 - 0 0 - 3 4 7 1 0 2 0 4 1
+p89
+aVTim Duncan SAS 04/19/2004 SAS vs. MEM W 39 23 8 14 57.1 0 0 - 7 14 50.0 2 10 12 3 0 5 6 3 11
+p90
+aVDevin Brown SAS 04/19/2004 SAS vs. MEM W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p91
+aVHedo Turkoglu SAS 04/19/2004 SAS vs. MEM W 34 4 1 8 12.5 0 3 0.0 2 2 100.0 1 6 7 3 1 0 1 2 10
+p92
+aVKevin Willis SAS 04/19/2004 SAS vs. MEM W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p93
+aVMalik Rose SAS 04/19/2004 SAS vs. MEM W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p94
+aVRobert Horry SAS 04/19/2004 SAS vs. MEM W 28 14 6 9 66.7 2 3 66.7 0 0 - 4 6 10 1 3 1 2 3 26
+p95
+aVCharlie Ward SAS 04/17/2004 SAS vs. MEM W 4 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 0 4
+p96
+aVTony Parker SAS 04/17/2004 SAS vs. MEM W 31 10 4 10 40.0 2 2 100.0 0 0 - 0 2 2 8 0 0 4 0 17
+p97
+aVJason Hart SAS 04/17/2004 SAS vs. MEM W 17 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 2 0 0 1 7
+p98
+aVMalik Rose SAS 04/17/2004 SAS vs. MEM W 15 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 1 0 2 2 4
+p99
+aVTim Duncan SAS 04/17/2004 SAS vs. MEM W 36 26 12 18 66.7 0 0 - 2 4 50.0 2 7 9 3 1 2 1 3 23
+p100
+aVKevin Willis SAS 04/17/2004 SAS vs. MEM W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p101
+aVRasho Nesterovic SAS 04/17/2004 SAS vs. MEM W 27 4 2 4 50.0 0 0 - 0 0 - 1 5 6 1 0 3 0 2 3
+p102
+aVHedo Turkoglu SAS 04/17/2004 SAS vs. MEM W 32 12 4 10 40.0 1 2 50.0 3 4 75.0 1 5 6 3 3 0 5 4 18
+p103
+aVManu Ginobili SAS 04/17/2004 SAS vs. MEM W 27 15 5 10 50.0 0 3 0.0 5 5 100.0 0 3 3 3 1 1 2 3 9
+p104
+aVBruce Bowen SAS 04/17/2004 SAS vs. MEM W 32 9 4 8 50.0 1 3 33.3 0 0 - 1 2 3 3 0 1 3 2 16
+p105
+aVRobert Horry SAS 04/17/2004 SAS vs. MEM W 16 10 5 6 83.3 0 1 0.0 0 0 - 2 3 5 1 0 1 1 4 16
+p106
+a.

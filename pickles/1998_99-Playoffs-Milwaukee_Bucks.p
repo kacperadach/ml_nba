@@ -1,0 +1,68 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDell Curry MIL 05/13/1999 MIL vs. IND L 24 7 1 4 25.0 1 4 25.0 4 4 100.0 0 2 2 0 1 0 0 3 4
+p2
+aVSam Cassell MIL 05/13/1999 MIL vs. IND L 34 10 3 7 42.9 0 0 - 4 5 80.0 0 2 2 12 0 0 3 4 -3
+p3
+aVRobert Traylor MIL 05/13/1999 MIL vs. IND L 13 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 0 0 3 1 4 -6
+p4
+aVMichael Curry MIL 05/13/1999 MIL vs. IND L 18 8 2 5 40.0 0 0 - 4 4 100.0 0 1 1 2 1 0 0 1 -5
+p5
+aVErvin Johnson MIL 05/13/1999 MIL vs. IND L 21 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 1 1 0 3 -6
+p6
+aVTim Thomas MIL 05/13/1999 MIL vs. IND L 19 12 4 9 44.4 0 0 - 4 6 66.7 2 2 4 1 0 0 1 4 -17
+p7
+aVHaywoode Workman MIL 05/13/1999 MIL vs. IND L 13 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 0 0 2 1 -5
+p8
+aVGlenn Robinson MIL 05/13/1999 MIL vs. IND L 40 23 8 16 50.0 2 4 50.0 5 6 83.3 0 6 6 0 1 2 3 1 -5
+p9
+aVRay Allen MIL 05/13/1999 MIL vs. IND L 39 20 7 14 50.0 2 4 50.0 4 6 66.7 5 6 11 4 1 0 3 4 0
+p10
+aVArmen Gilliam MIL 05/13/1999 MIL vs. IND L 12 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 0 0 1 2 3
+p11
+aVChris Gatling MIL 05/11/1999 MIL @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -9
+p12
+aVMichael Curry MIL 05/11/1999 MIL @ IND L 26 10 4 6 66.7 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 5 -10
+p13
+aVHaywoode Workman MIL 05/11/1999 MIL @ IND L 21 9 3 5 60.0 0 0 - 3 4 75.0 0 2 2 3 3 0 3 3 2
+p14
+aVSam Cassell MIL 05/11/1999 MIL @ IND L 38 17 5 9 55.6 0 0 - 7 8 87.5 0 2 2 11 1 0 2 6 -10
+p15
+aVTim Thomas MIL 05/11/1999 MIL @ IND L 17 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 3 5 20
+p16
+aVRobert Traylor MIL 05/11/1999 MIL @ IND L 14 10 5 6 83.3 0 0 - 0 0 - 2 1 3 1 1 0 0 5 4
+p17
+aVRay Allen MIL 05/11/1999 MIL @ IND L 41 25 9 17 52.9 5 9 55.6 2 4 50.0 2 6 8 6 0 1 7 2 3
+p18
+aVGlenn Robinson MIL 05/11/1999 MIL @ IND L 42 23 7 19 36.8 2 3 66.7 7 8 87.5 2 10 12 2 1 0 5 1 10
+p19
+aVDell Curry MIL 05/11/1999 MIL @ IND L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p20
+aVErvin Johnson MIL 05/11/1999 MIL @ IND L 43 9 4 9 44.4 0 0 - 1 2 50.0 3 6 9 1 1 3 0 4 -15
+p21
+aVArmen Gilliam MIL 05/11/1999 MIL @ IND L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -1
+p22
+aVTim Thomas MIL 05/09/1999 MIL @ IND L 21 9 3 7 42.9 0 1 0.0 3 6 50.0 2 4 6 0 0 1 1 2 0
+p23
+aVErvin Johnson MIL 05/09/1999 MIL @ IND L 26 4 2 3 66.7 0 0 - 0 0 - 4 0 4 0 0 1 0 2 -13
+p24
+aVHaywoode Workman MIL 05/09/1999 MIL @ IND L 18 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 2 0 0 2 3 -16
+p25
+aVMichael Curry MIL 05/09/1999 MIL @ IND L 13 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 1 1 2 -26
+p26
+aVDell Curry MIL 05/09/1999 MIL @ IND L 16 2 1 8 12.5 0 3 0.0 0 0 - 0 2 2 1 2 0 0 1 -12
+p27
+aVRay Allen MIL 05/09/1999 MIL @ IND L 38 22 9 16 56.3 2 6 33.3 2 3 66.7 1 2 3 3 2 0 1 3 -5
+p28
+aVRobert Traylor MIL 05/09/1999 MIL @ IND L 16 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 1 1 1 3 6 -2
+p29
+aVChris Gatling MIL 05/09/1999 MIL @ IND L 7 0 0 2 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 2 -6
+p30
+aVArmen Gilliam MIL 05/09/1999 MIL @ IND L 16 9 2 6 33.3 0 0 - 5 5 100.0 0 2 2 0 2 0 0 1 -10
+p31
+aVGlenn Robinson MIL 05/09/1999 MIL @ IND L 33 16 6 16 37.5 0 1 0.0 4 4 100.0 2 5 7 3 1 0 2 3 -14
+p32
+aVSam Cassell MIL 05/09/1999 MIL @ IND L 29 19 8 16 50.0 0 1 0.0 3 3 100.0 0 2 2 3 2 0 2 4 -6
+p33
+a.

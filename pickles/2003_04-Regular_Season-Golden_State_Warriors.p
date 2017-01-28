@@ -1,0 +1,1552 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVClifford Robinson GSW 04/14/2004 GSW vs. SAC W 45 10 4 14 28.6 2 4 50.0 0 1 0.0 5 3 8 4 0 2 1 3 7
+p2
+aVMickael Pietrus GSW 04/14/2004 GSW vs. SAC W 25 15 4 10 40.0 3 5 60.0 4 5 80.0 1 3 4 2 2 0 4 2 1
+p3
+aVJason Richardson GSW 04/14/2004 GSW vs. SAC W 38 28 12 25 48.0 1 5 20.0 3 5 60.0 3 5 8 3 3 1 5 2 10
+p4
+aVCalbert Cheaney GSW 04/14/2004 GSW vs. SAC W 34 16 8 15 53.3 0 0 - 0 0 - 2 6 8 1 0 0 0 3 3
+p5
+aVAdonal Foyle GSW 04/14/2004 GSW vs. SAC W 36 10 5 10 50.0 0 0 - 0 2 0.0 6 11 17 1 0 5 1 1 -5
+p6
+aVBrian Cardinal GSW 04/14/2004 GSW vs. SAC W 19 5 2 9 22.2 0 4 0.0 1 1 100.0 1 4 5 3 0 0 0 2 10
+p7
+aVMike Dunleavy GSW 04/14/2004 GSW vs. SAC W 43 13 4 7 57.1 2 2 100.0 3 3 100.0 2 5 7 9 2 0 4 0 4
+p8
+aVCalbert Cheaney GSW 04/13/2004 GSW @ LAL L 24 6 3 9 33.3 0 0 - 0 0 - 0 1 1 2 1 0 2 2 -5
+p9
+aVAdonal Foyle GSW 04/13/2004 GSW @ LAL L 33 8 4 5 80.0 0 0 - 0 0 - 1 7 8 0 0 1 0 4 2
+p10
+aVJason Richardson GSW 04/13/2004 GSW @ LAL L 35 13 5 15 33.3 1 5 20.0 2 2 100.0 1 4 5 3 2 1 5 2 -10
+p11
+aVSpeedy Claxton GSW 04/13/2004 GSW @ LAL L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -4
+p12
+aVMike Dunleavy GSW 04/13/2004 GSW @ LAL L 37 13 6 12 50.0 1 2 50.0 0 3 0.0 4 8 12 5 1 0 2 3 -2
+p13
+aVClifford Robinson GSW 04/13/2004 GSW @ LAL L 40 22 8 17 47.1 3 9 33.3 3 4 75.0 0 2 2 4 1 0 4 1 -9
+p14
+aVBrian Cardinal GSW 04/13/2004 GSW @ LAL L 23 20 4 7 57.1 2 5 40.0 10 11 90.9 1 1 2 0 0 0 1 4 0
+p15
+aVMickael Pietrus GSW 04/13/2004 GSW @ LAL L 40 20 8 13 61.5 1 4 25.0 3 3 100.0 4 3 7 2 4 0 1 6 3
+p16
+aVClifford Robinson GSW 04/11/2004 GSW vs. DAL W 32 8 3 9 33.3 2 4 50.0 0 0 - 0 1 1 3 0 0 2 4 -5
+p17
+aVJason Richardson GSW 04/11/2004 GSW vs. DAL W 44 24 10 21 47.6 0 2 0.0 4 4 100.0 4 7 11 3 0 1 5 1 5
+p18
+aVAdonal Foyle GSW 04/11/2004 GSW vs. DAL W 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 2 1 0 -4
+p19
+aVBrian Cardinal GSW 04/11/2004 GSW vs. DAL W 29 17 6 7 85.7 2 3 66.7 3 3 100.0 2 6 8 2 1 0 1 4 10
+p20
+aVMike Dunleavy GSW 04/11/2004 GSW vs. DAL W 20 9 2 8 25.0 1 2 50.0 4 5 80.0 1 3 4 2 3 0 1 2 -7
+p21
+aVTroy Murphy GSW 04/11/2004 GSW vs. DAL W 29 16 7 17 41.2 0 1 0.0 2 2 100.0 3 2 5 1 0 1 0 4 1
+p22
+aVSpeedy Claxton GSW 04/11/2004 GSW vs. DAL W 31 19 7 15 46.7 0 0 - 5 6 83.3 1 2 3 9 3 0 0 4 14
+p23
+aVCalbert Cheaney GSW 04/11/2004 GSW vs. DAL W 26 8 4 9 44.4 0 0 - 0 0 - 0 1 1 2 0 0 0 2 6
+p24
+aVMickael Pietrus GSW 04/11/2004 GSW vs. DAL W 16 5 2 4 50.0 0 1 0.0 1 2 50.0 6 2 8 0 1 0 3 3 -15
+p25
+aVMickael Pietrus GSW 04/09/2004 GSW vs. MIN L 11 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 2 3 -14
+p26
+aVMike Dunleavy GSW 04/09/2004 GSW vs. MIN L 24 4 1 7 14.3 0 1 0.0 2 3 66.7 1 3 4 1 0 0 3 1 -16
+p27
+aVClifford Robinson GSW 04/09/2004 GSW vs. MIN L 27 2 1 8 12.5 0 5 0.0 0 0 - 0 2 2 3 1 0 2 3 -25
+p28
+aVAdonal Foyle GSW 04/09/2004 GSW vs. MIN L 43 20 9 14 64.3 0 0 - 2 4 50.0 6 10 16 2 0 2 2 3 -11
+p29
+aVTroy Murphy GSW 04/09/2004 GSW vs. MIN L 25 20 6 10 60.0 0 1 0.0 8 8 100.0 0 5 5 2 0 0 2 5 1
+p30
+aVSpeedy Claxton GSW 04/09/2004 GSW vs. MIN L 34 8 3 11 27.3 0 0 - 2 4 50.0 1 2 3 3 3 0 2 5 1
+p31
+aVBrian Cardinal GSW 04/09/2004 GSW vs. MIN L 18 6 2 6 33.3 0 2 0.0 2 3 66.7 3 0 3 3 0 0 2 2 4
+p32
+aVJason Richardson GSW 04/09/2004 GSW vs. MIN L 38 11 4 14 28.6 0 4 0.0 3 4 75.0 1 7 8 3 0 0 3 1 -22
+p33
+aVCalbert Cheaney GSW 04/09/2004 GSW vs. MIN L 20 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -8
+p34
+aVClifford Robinson GSW 04/07/2004 GSW @ POR L 41 23 9 17 52.9 4 9 44.4 1 1 100.0 1 2 3 1 0 0 3 5 -1
+p35
+aVBrian Cardinal GSW 04/07/2004 GSW @ POR L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p36
+aVJason Richardson GSW 04/07/2004 GSW @ POR L 40 15 7 21 33.3 1 5 20.0 0 0 - 5 7 12 6 1 0 3 1 -5
+p37
+aVMickael Pietrus GSW 04/07/2004 GSW @ POR L 18 9 4 9 44.4 1 2 50.0 0 0 - 3 2 5 0 0 0 2 1 -5
+p38
+aVTroy Murphy GSW 04/07/2004 GSW @ POR L 25 10 5 10 50.0 0 0 - 0 0 - 2 8 10 1 0 0 3 3 -11
+p39
+aVMike Dunleavy GSW 04/07/2004 GSW @ POR L 21 0 0 4 0.0 0 1 0.0 0 0 - 2 2 4 1 0 0 2 2 -7
+p40
+aVCalbert Cheaney GSW 04/07/2004 GSW @ POR L 31 6 3 8 37.5 0 0 - 0 0 - 0 2 2 2 1 0 0 1 -2
+p41
+aVAdonal Foyle GSW 04/07/2004 GSW @ POR L 30 5 2 5 40.0 0 0 - 1 2 50.0 2 8 10 1 0 1 0 3 0
+p42
+aVSpeedy Claxton GSW 04/07/2004 GSW @ POR L 29 13 5 13 38.5 0 0 - 3 3 100.0 1 2 3 7 1 0 1 2 1
+p43
+aVJason Richardson GSW 04/06/2004 GSW vs. HOU W 39 19 6 15 40.0 1 4 25.0 6 8 75.0 1 8 9 5 0 0 0 3 2
+p44
+aVMike Dunleavy GSW 04/06/2004 GSW vs. HOU W 33 12 4 5 80.0 0 0 - 4 6 66.7 1 3 4 2 3 0 3 2 5
+p45
+aVTroy Murphy GSW 04/06/2004 GSW vs. HOU W 28 20 9 12 75.0 0 1 0.0 2 2 100.0 1 1 2 1 0 1 1 5 8
+p46
+aVSpeedy Claxton GSW 04/06/2004 GSW vs. HOU W 27 16 4 7 57.1 0 0 - 8 10 80.0 0 4 4 5 5 1 3 0 7
+p47
+aVMickael Pietrus GSW 04/06/2004 GSW vs. HOU W 14 7 3 6 50.0 1 2 50.0 0 2 0.0 0 0 0 0 0 0 1 2 2
+p48
+aVClifford Robinson GSW 04/06/2004 GSW vs. HOU W 38 10 4 11 36.4 2 6 33.3 0 0 - 1 1 2 10 1 1 2 2 3
+p49
+aVAdonal Foyle GSW 04/06/2004 GSW vs. HOU W 29 8 4 5 80.0 0 0 - 0 0 - 0 9 9 1 1 2 1 6 3
+p50
+aVCalbert Cheaney GSW 04/06/2004 GSW vs. HOU W 27 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 0
+p51
+aVBrian Cardinal GSW 04/06/2004 GSW vs. HOU W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 5
+p52
+aVAdonal Foyle GSW 04/03/2004 GSW @ CLE W 10 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 1 2 2 -12
+p53
+aVBrian Cardinal GSW 04/03/2004 GSW @ CLE W 24 8 1 2 50.0 1 1 100.0 5 6 83.3 0 5 5 1 0 2 2 2 6
+p54
+aVJason Richardson GSW 04/03/2004 GSW @ CLE W 42 35 12 18 66.7 0 2 0.0 11 13 84.6 0 4 4 5 1 2 3 2 0
+p55
+aVClifford Robinson GSW 04/03/2004 GSW @ CLE W 41 10 4 12 33.3 1 3 33.3 1 2 50.0 1 9 10 6 2 1 1 4 -2
+p56
+aVMickael Pietrus GSW 04/03/2004 GSW @ CLE W 15 5 2 4 50.0 0 1 0.0 1 2 50.0 1 2 3 0 0 0 0 3 -6
+p57
+aVTroy Murphy GSW 04/03/2004 GSW @ CLE W 38 18 7 12 58.3 0 0 - 4 8 50.0 3 3 6 1 1 1 3 6 13
+p58
+aVCalbert Cheaney GSW 04/03/2004 GSW @ CLE W 26 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 4 2 0 1 4 18
+p59
+aVMike Dunleavy GSW 04/03/2004 GSW @ CLE W 44 23 9 13 69.2 2 4 50.0 3 4 75.0 1 4 5 5 0 0 1 1 -2
+p60
+aVAdonal Foyle GSW 04/02/2004 GSW @ BOS L 18 7 3 6 50.0 0 0 - 1 2 50.0 1 5 6 1 0 5 2 4 -1
+p61
+aVClifford Robinson GSW 04/02/2004 GSW @ BOS L 32 3 1 7 14.3 0 3 0.0 1 2 50.0 0 4 4 3 0 0 1 5 4
+p62
+aVCalbert Cheaney GSW 04/02/2004 GSW @ BOS L 22 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 4 0 3 2 -7
+p63
+aVBrian Cardinal GSW 04/02/2004 GSW @ BOS L 31 23 6 11 54.5 4 6 66.7 7 7 100.0 0 3 3 3 0 0 1 5 -2
+p64
+aVMike Dunleavy GSW 04/02/2004 GSW @ BOS L 30 11 4 6 66.7 1 2 50.0 2 2 100.0 1 1 2 1 1 0 6 0 -9
+p65
+aVAvery Johnson GSW 04/02/2004 GSW @ BOS L 28 16 5 10 50.0 0 0 - 6 9 66.7 0 0 0 7 3 0 4 0 -1
+p66
+aVJason Richardson GSW 04/02/2004 GSW @ BOS L 40 25 9 18 50.0 6 7 85.7 1 6 16.7 3 8 11 5 0 2 2 4 1
+p67
+aVTroy Murphy GSW 04/02/2004 GSW @ BOS L 15 5 2 6 33.3 1 2 50.0 0 0 - 2 5 7 1 0 1 0 2 -11
+p68
+aVMickael Pietrus GSW 04/02/2004 GSW @ BOS L 24 14 5 12 41.7 2 5 40.0 2 3 66.7 2 3 5 0 1 0 2 2 1
+p69
+aVMickael Pietrus GSW 03/31/2004 GSW @ TOR W 22 8 4 7 57.1 0 2 0.0 0 0 - 1 0 1 1 0 0 1 2 -4
+p70
+aVCalbert Cheaney GSW 03/31/2004 GSW @ TOR W 29 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 0 0 0 1 8
+p71
+aVTroy Murphy GSW 03/31/2004 GSW @ TOR W 14 2 1 7 14.3 0 0 - 0 0 - 1 3 4 0 0 0 0 0 2
+p72
+aVAdonal Foyle GSW 03/31/2004 GSW @ TOR W 18 8 3 4 75.0 0 0 - 2 2 100.0 2 5 7 0 0 3 0 2 5
+p73
+aVAvery Johnson GSW 03/31/2004 GSW @ TOR W 24 13 5 8 62.5 0 0 - 3 4 75.0 0 0 0 4 4 0 1 0 2
+p74
+aVJason Richardson GSW 03/31/2004 GSW @ TOR W 44 25 10 19 52.6 0 2 0.0 5 8 62.5 2 7 9 2 2 0 3 2 10
+p75
+aVErick Dampier GSW 03/31/2004 GSW @ TOR W 28 7 2 6 33.3 0 0 - 3 5 60.0 3 11 14 2 1 3 1 3 3
+p76
+aVClifford Robinson GSW 03/31/2004 GSW @ TOR W 34 12 4 13 30.8 2 3 66.7 2 2 100.0 0 2 2 5 1 0 3 1 5
+p77
+aVMike Dunleavy GSW 03/31/2004 GSW @ TOR W 25 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 3 0 0 0 2 4
+p78
+aVBrian Cardinal GSW 03/31/2004 GSW @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p79
+aVBrian Cardinal GSW 03/30/2004 GSW @ PHI L 16 11 4 4 100.0 3 3 100.0 0 0 - 0 0 0 1 1 0 1 1 5
+p80
+aVMickael Pietrus GSW 03/30/2004 GSW @ PHI L 34 19 6 12 50.0 1 5 20.0 6 6 100.0 2 2 4 1 2 1 1 1 -8
+p81
+aVJason Richardson GSW 03/30/2004 GSW @ PHI L 28 8 2 11 18.2 0 2 0.0 4 6 66.7 2 3 5 2 0 0 4 2 -11
+p82
+aVMike Dunleavy GSW 03/30/2004 GSW @ PHI L 28 5 2 6 33.3 0 4 0.0 1 1 100.0 0 5 5 4 1 0 4 3 -16
+p83
+aVClifford Robinson GSW 03/30/2004 GSW @ PHI L 25 3 1 7 14.3 1 3 33.3 0 0 - 0 3 3 1 0 0 1 1 -14
+p84
+aVCalbert Cheaney GSW 03/30/2004 GSW @ PHI L 21 6 3 7 42.9 0 0 - 0 0 - 0 1 1 2 0 0 2 1 -20
+p85
+aVErick Dampier GSW 03/30/2004 GSW @ PHI L 30 12 6 7 85.7 0 0 - 0 0 - 3 10 13 0 0 3 1 1 -24
+p86
+aVAdonal Foyle GSW 03/30/2004 GSW @ PHI L 18 0 0 4 0.0 0 0 - 0 2 0.0 1 2 3 1 0 2 0 2 0
+p87
+aVAvery Johnson GSW 03/30/2004 GSW @ PHI L 17 2 1 7 14.3 0 0 - 0 2 0.0 0 3 3 4 0 0 3 1 -22
+p88
+aVTroy Murphy GSW 03/30/2004 GSW @ PHI L 23 5 2 7 28.6 0 0 - 1 3 33.3 2 6 8 1 1 0 0 1 -10
+p89
+aVMickael Pietrus GSW 03/28/2004 GSW vs. LAC W 32 17 5 10 50.0 2 5 40.0 5 7 71.4 0 2 2 1 2 0 1 5 20
+p90
+aVAdonal Foyle GSW 03/28/2004 GSW vs. LAC W 10 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 1 1 2 1
+p91
+aVMike Dunleavy GSW 03/28/2004 GSW vs. LAC W 32 16 6 9 66.7 4 7 57.1 0 0 - 0 2 2 7 2 0 1 3 26
+p92
+aVTroy Murphy GSW 03/28/2004 GSW vs. LAC W 26 8 4 11 36.4 0 1 0.0 0 0 - 0 7 7 0 1 0 2 2 13
+p93
+aVErick Dampier GSW 03/28/2004 GSW vs. LAC W 36 16 6 11 54.5 0 0 - 4 8 50.0 13 12 25 3 1 2 1 1 25
+p94
+aVJ.R. Bremer GSW 03/28/2004 GSW vs. LAC W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p95
+aVJason Richardson GSW 03/28/2004 GSW vs. LAC W 30 20 8 19 42.1 1 4 25.0 3 8 37.5 3 3 6 6 5 1 3 4 22
+p96
+aVClifford Robinson GSW 03/28/2004 GSW vs. LAC W 24 6 3 9 33.3 0 4 0.0 0 0 - 1 2 3 3 1 0 1 3 17
+p97
+aVBrian Cardinal GSW 03/28/2004 GSW vs. LAC W 4 6 2 2 100.0 1 1 100.0 1 1 100.0 0 1 1 0 0 0 0 0 5
+p98
+aVCalbert Cheaney GSW 03/28/2004 GSW vs. LAC W 23 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 4 0 0 0 1 4
+p99
+aVAvery Johnson GSW 03/28/2004 GSW vs. LAC W 20 8 4 7 57.1 0 0 - 0 0 - 0 1 1 2 1 1 1 1 2
+p100
+aVTroy Murphy GSW 03/26/2004 GSW vs. WAS W 23 9 3 10 30.0 1 1 100.0 2 2 100.0 3 2 5 0 1 0 0 3 1
+p101
+aVClifford Robinson GSW 03/26/2004 GSW vs. WAS W 25 9 3 7 42.9 1 3 33.3 2 2 100.0 0 5 5 4 0 0 3 1 20
+p102
+aVCalbert Cheaney GSW 03/26/2004 GSW vs. WAS W 19 10 5 8 62.5 0 0 - 0 0 - 0 1 1 0 1 0 0 1 11
+p103
+aVJ.R. Bremer GSW 03/26/2004 GSW vs. WAS W 3 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 1 1
+p104
+aVMike Dunleavy GSW 03/26/2004 GSW vs. WAS W 35 13 6 12 50.0 0 5 0.0 1 2 50.0 2 3 5 1 0 1 1 1 14
+p105
+aVMickael Pietrus GSW 03/26/2004 GSW vs. WAS W 29 7 3 11 27.3 0 4 0.0 1 2 50.0 1 3 4 0 0 3 2 5 10
+p106
+aVJason Richardson GSW 03/26/2004 GSW vs. WAS W 39 16 5 13 38.5 0 2 0.0 6 6 100.0 2 7 9 5 2 1 1 1 19
+p107
+aVErick Dampier GSW 03/26/2004 GSW vs. WAS W 32 19 7 12 58.3 0 0 - 5 9 55.6 8 13 21 2 1 2 0 3 21
+p108
+aVAvery Johnson GSW 03/26/2004 GSW vs. WAS W 19 10 4 9 44.4 0 0 - 2 2 100.0 0 1 1 10 0 0 2 2 10
+p109
+aVAdonal Foyle GSW 03/26/2004 GSW vs. WAS W 16 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -2
+p110
+aVTroy Murphy GSW 03/24/2004 GSW vs. MIL W 15 7 3 6 50.0 0 0 - 1 2 50.0 2 5 7 0 0 1 0 3 -1
+p111
+aVCalbert Cheaney GSW 03/24/2004 GSW vs. MIL W 23 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 0 0 0 2 2 -4
+p112
+aVJason Richardson GSW 03/24/2004 GSW vs. MIL W 40 12 6 15 40.0 0 1 0.0 0 0 - 2 6 8 2 1 0 3 4 10
+p113
+aVMickael Pietrus GSW 03/24/2004 GSW vs. MIL W 30 18 7 9 77.8 2 2 100.0 2 2 100.0 1 2 3 1 2 0 1 3 8
+p114
+aVClifford Robinson GSW 03/24/2004 GSW vs. MIL W 42 18 5 16 31.3 3 6 50.0 5 8 62.5 2 5 7 9 1 1 2 2 9
+p115
+aVErick Dampier GSW 03/24/2004 GSW vs. MIL W 33 18 8 13 61.5 0 0 - 2 4 50.0 5 8 13 1 0 4 2 5 13
+p116
+aVAvery Johnson GSW 03/24/2004 GSW vs. MIL W 15 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 6 1 0 3 1 1
+p117
+aVAdonal Foyle GSW 03/24/2004 GSW vs. MIL W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p118
+aVMike Dunleavy GSW 03/24/2004 GSW vs. MIL W 36 18 7 13 53.8 1 3 33.3 3 3 100.0 1 2 3 4 1 0 0 1 12
+p119
+aVAvery Johnson GSW 03/21/2004 GSW @ LAC W 21 6 3 6 50.0 0 0 - 0 2 0.0 0 0 0 2 1 0 3 2 2
+p120
+aVErick Dampier GSW 03/21/2004 GSW @ LAC W 34 16 7 11 63.6 0 0 - 2 2 100.0 8 9 17 2 0 1 0 5 9
+p121
+aVMike Dunleavy GSW 03/21/2004 GSW @ LAC W 27 4 1 10 10.0 0 6 0.0 2 2 100.0 0 5 5 4 1 1 2 1 11
+p122
+aVAdonal Foyle GSW 03/21/2004 GSW @ LAC W 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 1 0 2 -2
+p123
+aVMickael Pietrus GSW 03/21/2004 GSW @ LAC W 22 4 1 7 14.3 0 4 0.0 2 4 50.0 1 3 4 1 0 0 1 3 10
+p124
+aVCalbert Cheaney GSW 03/21/2004 GSW @ LAC W 28 6 3 8 37.5 0 0 - 0 0 - 1 3 4 4 1 0 1 1 -1
+p125
+aVClifford Robinson GSW 03/21/2004 GSW @ LAC W 39 18 6 10 60.0 2 5 40.0 4 4 100.0 0 0 0 5 0 1 6 4 6
+p126
+aVJason Richardson GSW 03/21/2004 GSW @ LAC W 39 28 10 17 58.8 0 4 0.0 8 11 72.7 3 6 9 3 1 0 4 2 27
+p127
+aVBrian Cardinal GSW 03/21/2004 GSW @ LAC W 14 12 3 4 75.0 2 3 66.7 4 4 100.0 0 3 3 1 3 0 1 3 -7
+p128
+aVCalbert Cheaney GSW 03/19/2004 GSW vs. HOU W 30 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 2 0 0 1 3 5
+p129
+aVTroy Murphy GSW 03/19/2004 GSW vs. HOU W 23 16 5 13 38.5 0 0 - 6 6 100.0 1 3 4 2 2 0 1 1 5
+p130
+aVMickael Pietrus GSW 03/19/2004 GSW vs. HOU W 35 20 7 8 87.5 3 4 75.0 3 6 50.0 2 4 6 1 2 1 2 5 12
+p131
+aVAdonal Foyle GSW 03/19/2004 GSW vs. HOU W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 0 6
+p132
+aVClifford Robinson GSW 03/19/2004 GSW vs. HOU W 28 7 1 8 12.5 1 5 20.0 4 4 100.0 1 2 3 4 1 0 3 0 -3
+p133
+aVJason Richardson GSW 03/19/2004 GSW vs. HOU W 29 7 3 14 21.4 1 4 25.0 0 0 - 3 8 11 2 2 0 1 3 -2
+p134
+aVMike Dunleavy GSW 03/19/2004 GSW vs. HOU W 26 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 1 0 0 4 5 -8
+p135
+aVErick Dampier GSW 03/19/2004 GSW vs. HOU W 30 12 3 7 42.9 0 0 - 6 7 85.7 4 4 8 1 0 0 3 4 8
+p136
+aVAvery Johnson GSW 03/19/2004 GSW vs. HOU W 26 11 4 7 57.1 0 0 - 3 4 75.0 0 1 1 5 1 1 3 1 7
+p137
+aVAdonal Foyle GSW 03/17/2004 GSW vs. ORL W 12 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 2 2 2 7
+p138
+aVBrian Cardinal GSW 03/17/2004 GSW vs. ORL W 4 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 2 0 0 2 3
+p139
+aVJason Richardson GSW 03/17/2004 GSW vs. ORL W 32 14 5 13 38.5 0 2 0.0 4 6 66.7 0 5 5 5 1 1 2 1 10
+p140
+aVTroy Murphy GSW 03/17/2004 GSW vs. ORL W 20 22 8 10 80.0 1 1 100.0 5 6 83.3 4 6 10 1 1 1 3 1 18
+p141
+aVMike Dunleavy GSW 03/17/2004 GSW vs. ORL W 36 13 5 10 50.0 3 6 50.0 0 0 - 1 2 3 8 0 0 3 3 19
+p142
+aVClifford Robinson GSW 03/17/2004 GSW vs. ORL W 34 20 8 15 53.3 4 5 80.0 0 0 - 0 5 5 1 1 0 0 2 16
+p143
+aVAvery Johnson GSW 03/17/2004 GSW vs. ORL W 21 5 2 6 33.3 0 0 - 1 1 100.0 0 1 1 9 0 0 1 1 18
+p144
+aVJ.R. Bremer GSW 03/17/2004 GSW vs. ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 2 1 3
+p145
+aVMickael Pietrus GSW 03/17/2004 GSW vs. ORL W 25 8 3 5 60.0 2 3 66.7 0 0 - 3 2 5 0 0 0 0 4 6
+p146
+aVCalbert Cheaney GSW 03/17/2004 GSW vs. ORL W 22 4 2 5 40.0 0 0 - 0 0 - 1 1 2 3 3 0 1 3 16
+p147
+aVErick Dampier GSW 03/17/2004 GSW vs. ORL W 30 13 4 9 44.4 0 0 - 5 6 83.3 6 9 15 0 0 1 2 0 9
+p148
+aVErick Dampier GSW 03/15/2004 GSW vs. SAS W 33 16 6 8 75.0 0 0 - 4 4 100.0 2 9 11 1 1 2 2 5 23
+p149
+aVMickael Pietrus GSW 03/15/2004 GSW vs. SAS W 34 9 4 7 57.1 1 3 33.3 0 0 - 4 3 7 2 2 2 0 4 15
+p150
+aVCalbert Cheaney GSW 03/15/2004 GSW vs. SAS W 17 11 4 4 100.0 0 0 - 3 4 75.0 1 2 3 1 0 0 1 3 -3
+p151
+aVMike Dunleavy GSW 03/15/2004 GSW vs. SAS W 40 19 7 13 53.8 3 3 100.0 2 2 100.0 0 5 5 4 0 0 3 3 22
+p152
+aVAvery Johnson GSW 03/15/2004 GSW vs. SAS W 16 7 3 7 42.9 0 0 - 1 4 25.0 0 0 0 3 0 0 0 1 -5
+p153
+aVTroy Murphy GSW 03/15/2004 GSW vs. SAS W 16 4 1 5 20.0 0 0 - 2 4 50.0 0 6 6 0 0 0 2 1 -4
+p154
+aVClifford Robinson GSW 03/15/2004 GSW vs. SAS W 41 9 2 9 22.2 1 3 33.3 4 4 100.0 1 3 4 6 0 1 0 1 19
+p155
+aVAdonal Foyle GSW 03/15/2004 GSW vs. SAS W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -4
+p156
+aVJason Richardson GSW 03/15/2004 GSW vs. SAS W 37 22 7 18 38.9 3 5 60.0 5 8 62.5 2 2 4 4 0 0 2 2 22
+p157
+aVTroy Murphy GSW 03/13/2004 GSW @ NOH L 28 15 7 8 87.5 0 0 - 1 4 25.0 1 8 9 0 0 1 2 2 0
+p158
+aVJ.R. Bremer GSW 03/13/2004 GSW @ NOH L 19 4 2 12 16.7 0 7 0.0 0 0 - 1 0 1 5 0 0 2 3 7
+p159
+aVJason Richardson GSW 03/13/2004 GSW @ NOH L 34 18 8 16 50.0 1 1 100.0 1 1 100.0 3 1 4 2 0 0 2 3 -12
+p160
+aVAvery Johnson GSW 03/13/2004 GSW @ NOH L 24 10 5 13 38.5 0 0 - 0 0 - 1 1 2 6 0 0 3 2 -16
+p161
+aVAdonal Foyle GSW 03/13/2004 GSW @ NOH L 7 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 0 0 0 1 -3
+p162
+aVErick Dampier GSW 03/13/2004 GSW @ NOH L 39 13 4 7 57.1 0 0 - 5 6 83.3 3 6 9 1 0 2 0 3 -10
+p163
+aVMike Dunleavy GSW 03/13/2004 GSW @ NOH L 27 5 2 5 40.0 1 1 100.0 0 1 0.0 0 3 3 1 3 0 4 4 -19
+p164
+aVBrian Cardinal GSW 03/13/2004 GSW @ NOH L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p165
+aVMickael Pietrus GSW 03/13/2004 GSW @ NOH L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p166
+aVCalbert Cheaney GSW 03/13/2004 GSW @ NOH L 28 12 6 9 66.7 0 0 - 0 0 - 1 1 2 1 2 0 3 1 -8
+p167
+aVClifford Robinson GSW 03/13/2004 GSW @ NOH L 22 7 2 6 33.3 1 3 33.3 2 2 100.0 0 0 0 2 0 0 3 1 -23
+p168
+aVClifford Robinson GSW 03/12/2004 GSW @ SAS L 32 19 8 17 47.1 3 8 37.5 0 3 0.0 0 1 1 0 2 1 4 0 -20
+p169
+aVBrian Cardinal GSW 03/12/2004 GSW @ SAS L 15 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 3 -8
+p170
+aVMike Dunleavy GSW 03/12/2004 GSW @ SAS L 39 15 7 15 46.7 0 3 0.0 1 3 33.3 0 8 8 2 0 1 2 3 -20
+p171
+aVAvery Johnson GSW 03/12/2004 GSW @ SAS L 17 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 3 1 0 1 1 -7
+p172
+aVTroy Murphy GSW 03/12/2004 GSW @ SAS L 21 13 5 10 50.0 1 1 100.0 2 3 66.7 4 5 9 1 0 0 1 2 -12
+p173
+aVAdonal Foyle GSW 03/12/2004 GSW @ SAS L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -15
+p174
+aVCalbert Cheaney GSW 03/12/2004 GSW @ SAS L 20 0 0 3 0.0 0 0 - 0 0 - 3 0 3 0 0 0 1 1 -20
+p175
+aVJason Richardson GSW 03/12/2004 GSW @ SAS L 34 8 2 11 18.2 0 2 0.0 4 5 80.0 3 6 9 4 0 0 6 1 -18
+p176
+aVJ.R. Bremer GSW 03/12/2004 GSW @ SAS L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 0 1
+p177
+aVErick Dampier GSW 03/12/2004 GSW @ SAS L 25 6 2 4 50.0 0 1 0.0 2 2 100.0 2 5 7 0 1 2 0 2 1
+p178
+aVMickael Pietrus GSW 03/12/2004 GSW @ SAS L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 5 -7
+p179
+aVClifford Robinson GSW 03/10/2004 GSW @ UTA L 36 9 4 9 44.4 1 2 50.0 0 0 - 0 2 2 0 1 2 3 4 -17
+p180
+aVErick Dampier GSW 03/10/2004 GSW @ UTA L 25 6 2 3 66.7 0 0 - 2 3 66.7 3 1 4 1 0 1 6 2 -14
+p181
+aVAdonal Foyle GSW 03/10/2004 GSW @ UTA L 14 2 0 3 0.0 0 0 - 2 4 50.0 0 1 1 1 1 1 0 1 -4
+p182
+aVMike Dunleavy GSW 03/10/2004 GSW @ UTA L 38 15 3 8 37.5 1 4 25.0 8 9 88.9 2 6 8 4 3 0 2 2 -8
+p183
+aVMickael Pietrus GSW 03/10/2004 GSW @ UTA L 21 7 2 8 25.0 0 3 0.0 3 4 75.0 3 1 4 1 1 0 2 3 6
+p184
+aVRusty LaRue GSW 03/10/2004 GSW @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p185
+aVTroy Murphy GSW 03/10/2004 GSW @ UTA L 14 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p186
+aVAvery Johnson GSW 03/10/2004 GSW @ UTA L 20 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 1 2 0 2 1 -7
+p187
+aVJason Richardson GSW 03/10/2004 GSW @ UTA L 38 19 7 17 41.2 0 1 0.0 5 7 71.4 0 5 5 4 0 2 2 1 -7
+p188
+aVCalbert Cheaney GSW 03/10/2004 GSW @ UTA L 19 7 3 5 60.0 0 0 - 1 2 50.0 0 4 4 1 0 1 2 4 -2
+p189
+aVBrian Cardinal GSW 03/10/2004 GSW @ UTA L 11 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 -12
+p190
+aVCalbert Cheaney GSW 03/09/2004 GSW @ SAC L 29 11 5 11 45.5 0 0 - 1 3 33.3 0 2 2 2 1 1 2 1 -2
+p191
+aVRusty LaRue GSW 03/09/2004 GSW @ SAC L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p192
+aVErick Dampier GSW 03/09/2004 GSW @ SAC L 43 26 10 14 71.4 0 0 - 6 11 54.5 8 10 18 0 1 2 3 5 -8
+p193
+aVMickael Pietrus GSW 03/09/2004 GSW @ SAC L 17 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 1 1 1 2 0 -3
+p194
+aVAdonal Foyle GSW 03/09/2004 GSW @ SAC L 13 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 2 0 1 -4
+p195
+aVClifford Robinson GSW 03/09/2004 GSW @ SAC L 38 15 5 13 38.5 3 7 42.9 2 2 100.0 0 4 4 6 0 4 2 4 0
+p196
+aVMike Dunleavy GSW 03/09/2004 GSW @ SAC L 44 17 7 13 53.8 0 4 0.0 3 4 75.0 0 2 2 6 1 1 4 3 -2
+p197
+aVAvery Johnson GSW 03/09/2004 GSW @ SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p198
+aVBrian Cardinal GSW 03/09/2004 GSW @ SAC L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p199
+aVJason Richardson GSW 03/09/2004 GSW @ SAC L 42 18 8 17 47.1 1 3 33.3 1 4 25.0 3 4 7 6 1 1 3 5 -1
+p200
+aVErick Dampier GSW 03/07/2004 GSW vs. MEM L 35 13 6 10 60.0 0 0 - 1 2 50.0 5 6 11 1 0 0 1 3 2
+p201
+aVAdonal Foyle GSW 03/07/2004 GSW vs. MEM L 9 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 3 -14
+p202
+aVCalbert Cheaney GSW 03/07/2004 GSW vs. MEM L 25 8 4 7 57.1 0 0 - 0 0 - 3 0 3 3 0 1 2 2 -3
+p203
+aVRusty LaRue GSW 03/07/2004 GSW vs. MEM L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 2 1 0 2 0 -11
+p204
+aVMickael Pietrus GSW 03/07/2004 GSW vs. MEM L 23 7 2 9 22.2 1 3 33.3 2 2 100.0 1 4 5 0 1 0 0 2 -7
+p205
+aVClifford Robinson GSW 03/07/2004 GSW vs. MEM L 41 15 6 14 42.9 1 4 25.0 2 4 50.0 1 3 4 3 1 1 3 4 -7
+p206
+aVMike Dunleavy GSW 03/07/2004 GSW vs. MEM L 40 13 5 13 38.5 1 3 33.3 2 3 66.7 2 5 7 5 5 0 4 3 3
+p207
+aVJason Richardson GSW 03/07/2004 GSW vs. MEM L 38 17 5 17 29.4 0 2 0.0 7 10 70.0 1 5 6 6 0 0 4 1 6
+p208
+aVBrian Cardinal GSW 03/07/2004 GSW vs. MEM L 20 7 2 5 40.0 0 0 - 3 4 75.0 3 1 4 1 0 0 1 1 -19
+p209
+aVJason Richardson GSW 03/05/2004 GSW vs. NJN L 42 22 10 18 55.6 0 4 0.0 2 3 66.7 0 5 5 4 1 1 5 5 -2
+p210
+aVAvery Johnson GSW 03/05/2004 GSW vs. NJN L 11 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 0
+p211
+aVMike Dunleavy GSW 03/05/2004 GSW vs. NJN L 39 20 8 15 53.3 2 5 40.0 2 4 50.0 0 5 5 3 0 0 4 3 -6
+p212
+aVMickael Pietrus GSW 03/05/2004 GSW vs. NJN L 15 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 0 1 0
+p213
+aVErick Dampier GSW 03/05/2004 GSW vs. NJN L 34 5 2 5 40.0 0 0 - 1 3 33.3 2 3 5 2 0 4 1 1 -3
+p214
+aVBrian Cardinal GSW 03/05/2004 GSW vs. NJN L 15 2 1 4 25.0 0 0 - 0 0 - 0 4 4 2 0 0 0 4 6
+p215
+aVAdonal Foyle GSW 03/05/2004 GSW vs. NJN L 13 2 1 3 33.3 0 0 - 0 0 - 3 0 3 2 1 1 1 0 0
+p216
+aVClifford Robinson GSW 03/05/2004 GSW vs. NJN L 37 9 3 12 25.0 0 4 0.0 3 3 100.0 0 4 4 6 1 1 3 3 -10
+p217
+aVCalbert Cheaney GSW 03/05/2004 GSW vs. NJN L 34 10 5 8 62.5 0 1 0.0 0 0 - 1 2 3 1 1 0 0 2 -5
+p218
+aVAvery Johnson GSW 03/02/2004 GSW vs. IND L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -14
+p219
+aVCalbert Cheaney GSW 03/02/2004 GSW vs. IND L 19 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 4 -9
+p220
+aVClifford Robinson GSW 03/02/2004 GSW vs. IND L 37 12 4 12 33.3 0 4 0.0 4 4 100.0 0 2 2 3 1 1 3 3 -7
+p221
+aVErick Dampier GSW 03/02/2004 GSW vs. IND L 21 11 5 9 55.6 0 0 - 1 2 50.0 5 2 7 0 0 2 2 3 -21
+p222
+aVMickael Pietrus GSW 03/02/2004 GSW vs. IND L 19 4 2 8 25.0 0 4 0.0 0 0 - 0 2 2 2 0 0 0 4 21
+p223
+aVMike Dunleavy GSW 03/02/2004 GSW vs. IND L 42 24 7 14 50.0 2 4 50.0 8 10 80.0 3 17 20 5 0 0 1 4 -8
+p224
+aVBrian Cardinal GSW 03/02/2004 GSW vs. IND L 30 6 0 4 0.0 0 3 0.0 6 6 100.0 0 4 4 2 1 0 1 2 -8
+p225
+aVJason Richardson GSW 03/02/2004 GSW vs. IND L 44 19 7 19 36.8 0 3 0.0 5 8 62.5 2 7 9 4 1 0 4 3 -10
+p226
+aVAdonal Foyle GSW 03/02/2004 GSW vs. IND L 13 6 2 2 100.0 0 0 - 2 4 50.0 2 1 3 0 0 1 0 1 19
+p227
+aVRusty LaRue GSW 03/02/2004 GSW vs. IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -3
+p228
+aVJason Richardson GSW 02/28/2004 GSW @ CHI L 48 25 8 25 32.0 1 4 25.0 8 14 57.1 2 7 9 5 1 2 4 4 1
+p229
+aVCalbert Cheaney GSW 02/28/2004 GSW @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p230
+aVErick Dampier GSW 02/28/2004 GSW @ CHI L 45 16 6 12 50.0 0 0 - 4 4 100.0 3 9 12 1 0 3 1 6 0
+p231
+aVMike Dunleavy GSW 02/28/2004 GSW @ CHI L 17 2 1 9 11.1 0 4 0.0 0 0 - 3 3 6 0 0 0 0 2 -8
+p232
+aVAdonal Foyle GSW 02/28/2004 GSW @ CHI L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p233
+aVBrian Cardinal GSW 02/28/2004 GSW @ CHI L 41 14 3 13 23.1 3 5 60.0 5 6 83.3 5 9 14 3 2 0 2 4 -13
+p234
+aVClifford Robinson GSW 02/28/2004 GSW @ CHI L 39 7 3 11 27.3 1 4 25.0 0 0 - 1 2 3 3 1 1 1 3 -12
+p235
+aVAvery Johnson GSW 02/28/2004 GSW @ CHI L 16 2 1 4 25.0 0 0 - 0 4 0.0 1 1 2 2 1 0 2 1 10
+p236
+aVMickael Pietrus GSW 02/28/2004 GSW @ CHI L 18 8 2 7 28.6 2 4 50.0 2 2 100.0 2 2 4 1 2 1 0 4 5
+p237
+aVNick Van Exel GSW 02/28/2004 GSW @ CHI L 35 7 3 15 20.0 1 5 20.0 0 0 - 1 4 5 3 0 0 0 2 -16
+p238
+aVJason Richardson GSW 02/27/2004 GSW @ MIN L 44 18 8 18 44.4 1 1 100.0 1 2 50.0 2 2 4 3 0 0 1 2 -7
+p239
+aVMike Dunleavy GSW 02/27/2004 GSW @ MIN L 23 0 0 3 0.0 0 2 0.0 0 0 - 0 7 7 3 0 1 2 2 -2
+p240
+aVErick Dampier GSW 02/27/2004 GSW @ MIN L 38 24 10 14 71.4 0 0 - 4 4 100.0 7 12 19 2 0 3 2 2 -9
+p241
+aVAdonal Foyle GSW 02/27/2004 GSW @ MIN L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 3
+p242
+aVMickael Pietrus GSW 02/27/2004 GSW @ MIN L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p243
+aVAvery Johnson GSW 02/27/2004 GSW @ MIN L 16 4 2 7 28.6 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p244
+aVNick Van Exel GSW 02/27/2004 GSW @ MIN L 32 10 4 10 40.0 0 3 0.0 2 2 100.0 1 5 6 7 1 0 1 3 -1
+p245
+aVClifford Robinson GSW 02/27/2004 GSW @ MIN L 42 13 5 16 31.3 3 8 37.5 0 0 - 1 1 2 2 1 0 4 2 -12
+p246
+aVBrian Cardinal GSW 02/27/2004 GSW @ MIN L 38 9 2 8 25.0 1 1 100.0 4 4 100.0 0 1 1 2 3 0 1 3 -11
+p247
+aVBrian Cardinal GSW 02/25/2004 GSW @ MEM W 39 13 4 10 40.0 1 3 33.3 4 6 66.7 2 4 6 2 2 1 0 4 10
+p248
+aVAdonal Foyle GSW 02/25/2004 GSW @ MEM W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 1 0 2 0
+p249
+aVCalbert Cheaney GSW 02/25/2004 GSW @ MEM W 19 1 0 3 0.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 5 -7
+p250
+aVClifford Robinson GSW 02/25/2004 GSW @ MEM W 29 9 3 9 33.3 1 5 20.0 2 2 100.0 0 6 6 1 0 1 4 6 3
+p251
+aVSpeedy Claxton GSW 02/25/2004 GSW @ MEM W 37 28 6 18 33.3 0 0 - 16 18 88.9 0 2 2 7 3 0 3 6 7
+p252
+aVMike Dunleavy GSW 02/25/2004 GSW @ MEM W 19 6 1 2 50.0 1 2 50.0 3 3 100.0 1 0 1 0 0 0 2 3 8
+p253
+aVNick Van Exel GSW 02/25/2004 GSW @ MEM W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 3 0 0 1 0 0
+p254
+aVJason Richardson GSW 02/25/2004 GSW @ MEM W 38 24 8 15 53.3 1 2 50.0 7 7 100.0 1 6 7 1 3 2 4 0 9
+p255
+aVErick Dampier GSW 02/25/2004 GSW @ MEM W 38 14 7 11 63.6 0 0 - 0 0 - 8 10 18 0 0 2 0 5 5
+p256
+aVMike Dunleavy GSW 02/24/2004 GSW @ IND L 15 5 1 4 25.0 1 1 100.0 2 2 100.0 0 3 3 1 1 0 0 1 -11
+p257
+aVNick Van Exel GSW 02/24/2004 GSW @ IND L 30 12 4 11 36.4 2 5 40.0 2 2 100.0 0 2 2 3 1 0 3 0 -19
+p258
+aVErick Dampier GSW 02/24/2004 GSW @ IND L 34 22 8 15 53.3 0 0 - 6 7 85.7 4 8 12 0 0 3 1 2 0
+p259
+aVClifford Robinson GSW 02/24/2004 GSW @ IND L 42 8 3 10 30.0 1 3 33.3 1 1 100.0 0 4 4 6 0 0 3 3 -6
+p260
+aVAdonal Foyle GSW 02/24/2004 GSW @ IND L 10 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 1 0 2 -9
+p261
+aVSpeedy Claxton GSW 02/24/2004 GSW @ IND L 32 6 2 8 25.0 0 0 - 2 2 100.0 2 1 3 5 2 1 1 5 8
+p262
+aVBrian Cardinal GSW 02/24/2004 GSW @ IND L 25 17 3 6 50.0 3 3 100.0 8 8 100.0 1 2 3 1 0 0 0 2 -4
+p263
+aVJason Richardson GSW 02/24/2004 GSW @ IND L 32 18 7 15 46.7 0 1 0.0 4 6 66.7 1 6 7 2 1 0 4 3 -2
+p264
+aVCalbert Cheaney GSW 02/24/2004 GSW @ IND L 20 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -12
+p265
+aVNick Van Exel GSW 02/21/2004 GSW vs. SEA W 33 8 2 10 20.0 0 5 0.0 4 6 66.7 0 6 6 5 0 1 3 3 9
+p266
+aVSpeedy Claxton GSW 02/21/2004 GSW vs. SEA W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p267
+aVClifford Robinson GSW 02/21/2004 GSW vs. SEA W 37 14 5 12 41.7 1 4 25.0 3 6 50.0 1 2 3 2 1 0 2 5 -1
+p268
+aVCalbert Cheaney GSW 02/21/2004 GSW vs. SEA W 34 11 5 11 45.5 0 2 0.0 1 2 50.0 2 3 5 3 2 0 0 5 11
+p269
+aVBrian Cardinal GSW 02/21/2004 GSW vs. SEA W 40 21 4 6 66.7 1 1 100.0 12 14 85.7 5 4 9 1 1 0 1 4 10
+p270
+aVAdonal Foyle GSW 02/21/2004 GSW vs. SEA W 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 3
+p271
+aVJason Richardson GSW 02/21/2004 GSW vs. SEA W 41 24 9 20 45.0 0 3 0.0 6 8 75.0 1 4 5 2 2 0 2 3 -6
+p272
+aVErick Dampier GSW 02/21/2004 GSW vs. SEA W 29 14 4 12 33.3 0 0 - 6 9 66.7 8 8 16 0 0 1 2 1 -9
+p273
+aVAvery Johnson GSW 02/21/2004 GSW vs. SEA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -4
+p274
+aVMickael Pietrus GSW 02/21/2004 GSW vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p275
+aVSpeedy Claxton GSW 02/20/2004 GSW vs. POR L 41 18 5 11 45.5 0 0 - 8 9 88.9 2 4 6 4 0 0 2 2 4
+p276
+aVBrian Cardinal GSW 02/20/2004 GSW vs. POR L 25 11 3 13 23.1 1 5 20.0 4 4 100.0 4 6 10 1 0 0 1 3 -1
+p277
+aVClifford Robinson GSW 02/20/2004 GSW vs. POR L 33 11 4 11 36.4 2 3 66.7 1 2 50.0 0 1 1 6 1 0 1 4 2
+p278
+aVNick Van Exel GSW 02/20/2004 GSW vs. POR L 29 20 8 13 61.5 4 6 66.7 0 0 - 0 0 0 0 1 0 1 3 0
+p279
+aVAdonal Foyle GSW 02/20/2004 GSW vs. POR L 15 0 0 3 0.0 0 0 - 0 0 - 3 5 8 1 0 0 0 1 4
+p280
+aVJason Richardson GSW 02/20/2004 GSW vs. POR L 38 22 9 23 39.1 1 5 20.0 3 3 100.0 2 4 6 2 1 0 1 4 -3
+p281
+aVErick Dampier GSW 02/20/2004 GSW vs. POR L 33 7 3 4 75.0 0 0 - 1 3 33.3 1 8 9 1 0 4 0 2 -5
+p282
+aVCalbert Cheaney GSW 02/20/2004 GSW vs. POR L 26 4 2 4 50.0 0 0 - 0 0 - 3 3 6 3 0 1 2 2 -6
+p283
+aVCalbert Cheaney GSW 02/18/2004 GSW vs. LAL L 31 8 3 5 60.0 0 0 - 2 4 50.0 1 2 3 1 0 1 0 3 -1
+p284
+aVClifford Robinson GSW 02/18/2004 GSW vs. LAL L 39 22 8 14 57.1 3 4 75.0 3 5 60.0 0 3 3 1 1 0 3 4 -2
+p285
+aVNick Van Exel GSW 02/18/2004 GSW vs. LAL L 27 13 5 10 50.0 0 2 0.0 3 4 75.0 0 2 2 4 0 0 2 3 -3
+p286
+aVErick Dampier GSW 02/18/2004 GSW vs. LAL L 34 2 1 3 33.3 0 0 - 0 0 - 2 7 9 1 0 2 0 2 -2
+p287
+aVBrian Cardinal GSW 02/18/2004 GSW vs. LAL L 33 7 3 9 33.3 0 3 0.0 1 3 33.3 3 2 5 3 1 0 0 3 -1
+p288
+aVSpeedy Claxton GSW 02/18/2004 GSW vs. LAL L 25 18 7 15 46.7 0 0 - 4 4 100.0 1 2 3 4 0 0 1 3 0
+p289
+aVJason Richardson GSW 02/18/2004 GSW vs. LAL L 42 25 10 20 50.0 2 5 40.0 3 4 75.0 3 3 6 3 2 0 3 3 7
+p290
+aVAdonal Foyle GSW 02/18/2004 GSW vs. LAL L 9 4 2 4 50.0 0 0 - 0 0 - 2 5 7 0 0 0 1 3 -3
+p291
+aVJason Richardson GSW 02/11/2004 GSW vs. PHX W 39 19 9 19 47.4 1 4 25.0 0 2 0.0 3 6 9 3 3 1 1 2 15
+p292
+aVBrian Cardinal GSW 02/11/2004 GSW vs. PHX W 45 32 10 14 71.4 2 2 100.0 10 11 90.9 2 6 8 3 2 1 2 4 13
+p293
+aVCalbert Cheaney GSW 02/11/2004 GSW vs. PHX W 23 10 5 7 71.4 0 0 - 0 0 - 0 2 2 2 1 0 0 3 1
+p294
+aVMike Dunleavy GSW 02/11/2004 GSW vs. PHX W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -10
+p295
+aVSpeedy Claxton GSW 02/11/2004 GSW vs. PHX W 38 19 7 14 50.0 0 0 - 5 5 100.0 1 0 1 13 7 1 3 1 18
+p296
+aVErick Dampier GSW 02/11/2004 GSW vs. PHX W 27 12 5 11 45.5 0 0 - 2 2 100.0 4 8 12 0 0 2 2 5 25
+p297
+aVAvery Johnson GSW 02/11/2004 GSW vs. PHX W 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 1 0 1 1 -7
+p298
+aVAdonal Foyle GSW 02/11/2004 GSW vs. PHX W 10 7 2 3 66.7 0 0 - 3 4 75.0 0 1 1 0 1 1 0 1 -12
+p299
+aVClifford Robinson GSW 02/11/2004 GSW vs. PHX W 36 7 3 12 25.0 1 4 25.0 0 0 - 0 2 2 2 0 0 2 2 12
+p300
+aVClifford Robinson GSW 02/10/2004 GSW @ SEA W 38 18 6 13 46.2 3 6 50.0 3 4 75.0 0 2 2 5 2 0 1 3 4
+p301
+aVMike Dunleavy GSW 02/10/2004 GSW @ SEA W 17 10 4 7 57.1 2 3 66.7 0 0 - 0 5 5 0 0 0 1 2 -3
+p302
+aVAdonal Foyle GSW 02/10/2004 GSW @ SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -9
+p303
+aVErick Dampier GSW 02/10/2004 GSW @ SEA W 36 8 3 7 42.9 0 0 - 2 2 100.0 5 7 12 3 0 1 1 3 17
+p304
+aVJason Richardson GSW 02/10/2004 GSW @ SEA W 37 22 8 17 47.1 0 0 - 6 7 85.7 1 6 7 1 1 2 0 2 5
+p305
+aVAvery Johnson GSW 02/10/2004 GSW @ SEA W 13 3 1 4 25.0 0 0 - 1 1 100.0 0 0 0 3 0 0 0 0 -3
+p306
+aVBrian Cardinal GSW 02/10/2004 GSW @ SEA W 35 20 6 10 60.0 1 1 100.0 7 9 77.8 1 4 5 5 1 1 1 2 18
+p307
+aVCalbert Cheaney GSW 02/10/2004 GSW @ SEA W 26 8 4 10 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 4
+p308
+aVSpeedy Claxton GSW 02/10/2004 GSW @ SEA W 35 17 7 12 58.3 0 0 - 3 4 75.0 0 1 1 6 6 1 3 2 12
+p309
+aVErick Dampier GSW 02/08/2004 GSW vs. TOR L 30 6 2 7 28.6 0 0 - 2 7 28.6 4 7 11 0 0 3 1 4 -10
+p310
+aVSpeedy Claxton GSW 02/08/2004 GSW vs. TOR L 42 12 4 12 33.3 0 0 - 4 5 80.0 1 4 5 5 1 0 5 1 -4
+p311
+aVJason Richardson GSW 02/08/2004 GSW vs. TOR L 47 22 9 16 56.3 1 1 100.0 3 4 75.0 1 12 13 1 0 0 1 1 -11
+p312
+aVBrian Cardinal GSW 02/08/2004 GSW vs. TOR L 30 14 5 7 71.4 0 1 0.0 4 4 100.0 1 4 5 3 0 0 3 4 -1
+p313
+aVClifford Robinson GSW 02/08/2004 GSW vs. TOR L 52 10 4 14 28.6 0 4 0.0 2 4 50.0 0 4 4 3 2 1 6 2 -5
+p314
+aVAvery Johnson GSW 02/08/2004 GSW vs. TOR L 13 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 2 1 0 1 0 2
+p315
+aVAdonal Foyle GSW 02/08/2004 GSW vs. TOR L 10 3 1 1 100.0 0 0 - 1 3 33.3 0 4 4 0 0 1 0 1 10
+p316
+aVMickael Pietrus GSW 02/08/2004 GSW vs. TOR L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 12
+p317
+aVCalbert Cheaney GSW 02/08/2004 GSW vs. TOR L 36 10 5 12 41.7 0 0 - 0 0 - 1 2 3 1 1 0 0 4 -8
+p318
+aVJason Richardson GSW 02/06/2004 GSW vs. DEN W 45 15 6 19 31.6 0 2 0.0 3 5 60.0 1 5 6 3 2 2 3 2 11
+p319
+aVBrian Cardinal GSW 02/06/2004 GSW vs. DEN W 30 14 5 10 50.0 1 2 50.0 3 4 75.0 6 5 11 1 0 0 1 4 16
+p320
+aVAvery Johnson GSW 02/06/2004 GSW vs. DEN W 9 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 0 1 1 1 -6
+p321
+aVAdonal Foyle GSW 02/06/2004 GSW vs. DEN W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p322
+aVSpeedy Claxton GSW 02/06/2004 GSW vs. DEN W 41 25 6 14 42.9 0 1 0.0 13 13 100.0 0 5 5 6 0 1 6 5 12
+p323
+aVMickael Pietrus GSW 02/06/2004 GSW vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p324
+aVCalbert Cheaney GSW 02/06/2004 GSW vs. DEN W 34 9 3 7 42.9 0 0 - 3 4 75.0 1 4 5 1 2 0 0 2 -2
+p325
+aVClifford Robinson GSW 02/06/2004 GSW vs. DEN W 38 15 4 15 26.7 2 3 66.7 5 6 83.3 4 1 5 6 3 2 3 5 9
+p326
+aVErick Dampier GSW 02/06/2004 GSW vs. DEN W 34 14 6 6 100.0 0 0 - 2 4 50.0 3 11 14 1 0 3 2 2 14
+p327
+aVSpeedy Claxton GSW 02/03/2004 GSW @ DAL L 36 20 7 15 46.7 0 0 - 6 9 66.7 0 4 4 4 0 1 0 2 -17
+p328
+aVBrian Cardinal GSW 02/03/2004 GSW @ DAL L 12 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 0 1 0 2 1 -10
+p329
+aVJason Richardson GSW 02/03/2004 GSW @ DAL L 39 20 9 16 56.3 1 4 25.0 1 5 20.0 2 2 4 2 1 0 2 3 -5
+p330
+aVErick Dampier GSW 02/03/2004 GSW @ DAL L 37 13 5 5 100.0 0 0 - 3 3 100.0 2 10 12 0 0 1 1 4 -6
+p331
+aVCalbert Cheaney GSW 02/03/2004 GSW @ DAL L 42 8 4 7 57.1 0 0 - 0 0 - 0 4 4 6 0 0 3 4 -9
+p332
+aVClifford Robinson GSW 02/03/2004 GSW @ DAL L 38 8 3 9 33.3 0 3 0.0 2 2 100.0 0 2 2 2 1 0 2 2 -8
+p333
+aVAvery Johnson GSW 02/03/2004 GSW @ DAL L 12 6 1 4 25.0 0 0 - 4 7 57.1 0 0 0 0 1 0 0 0 3
+p334
+aVAdonal Foyle GSW 02/03/2004 GSW @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p335
+aVNick Van Exel GSW 02/03/2004 GSW @ DAL L 20 11 5 11 45.5 1 4 25.0 0 0 - 1 2 3 2 1 0 1 2 -12
+p336
+aVMickael Pietrus GSW 02/02/2004 GSW @ MEM L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -14
+p337
+aVJason Richardson GSW 02/02/2004 GSW @ MEM L 41 19 6 15 40.0 0 2 0.0 7 10 70.0 1 8 9 4 2 1 0 5 -4
+p338
+aVAdonal Foyle GSW 02/02/2004 GSW @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p339
+aVAvery Johnson GSW 02/02/2004 GSW @ MEM L 12 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 0 2 0 2 1 2
+p340
+aVClifford Robinson GSW 02/02/2004 GSW @ MEM L 35 17 6 16 37.5 2 5 40.0 3 4 75.0 0 3 3 5 1 2 2 3 14
+p341
+aVErick Dampier GSW 02/02/2004 GSW @ MEM L 38 15 6 12 50.0 0 0 - 3 6 50.0 8 7 15 2 0 5 3 4 8
+p342
+aVCalbert Cheaney GSW 02/02/2004 GSW @ MEM L 35 13 6 8 75.0 0 0 - 1 1 100.0 1 3 4 2 0 0 0 4 18
+p343
+aVNick Van Exel GSW 02/02/2004 GSW @ MEM L 14 4 1 4 25.0 0 1 0.0 2 4 50.0 0 0 0 1 0 0 1 2 -14
+p344
+aVSpeedy Claxton GSW 02/02/2004 GSW @ MEM L 36 11 4 12 33.3 1 1 100.0 2 4 50.0 0 0 0 7 2 0 0 3 -8
+p345
+aVBrian Cardinal GSW 02/02/2004 GSW @ MEM L 22 14 5 9 55.6 0 0 - 4 4 100.0 2 0 2 1 1 0 1 3 -25
+p346
+aVClifford Robinson GSW 01/30/2004 GSW vs. CHI W 28 10 4 8 50.0 1 3 33.3 1 2 50.0 0 2 2 3 0 1 1 3 14
+p347
+aVSpeedy Claxton GSW 01/30/2004 GSW vs. CHI W 32 15 5 7 71.4 0 1 0.0 5 7 71.4 0 2 2 8 2 0 3 3 17
+p348
+aVJason Richardson GSW 01/30/2004 GSW vs. CHI W 29 15 5 12 41.7 0 2 0.0 5 6 83.3 2 6 8 2 1 1 2 3 14
+p349
+aVErick Dampier GSW 01/30/2004 GSW vs. CHI W 26 13 5 8 62.5 0 0 - 3 4 75.0 4 6 10 1 0 1 0 1 22
+p350
+aVAvery Johnson GSW 01/30/2004 GSW vs. CHI W 16 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 2 0 2
+p351
+aVBrian Cardinal GSW 01/30/2004 GSW vs. CHI W 16 11 2 5 40.0 0 1 0.0 7 8 87.5 0 6 6 2 0 2 6 3 12
+p352
+aVCalbert Cheaney GSW 01/30/2004 GSW vs. CHI W 30 13 6 10 60.0 0 0 - 1 2 50.0 0 5 5 1 1 0 1 1 20
+p353
+aVMickael Pietrus GSW 01/30/2004 GSW vs. CHI W 12 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 1 0 1 3 -6
+p354
+aVMike Dunleavy GSW 01/30/2004 GSW vs. CHI W 25 15 5 8 62.5 5 7 71.4 0 0 - 0 2 2 0 0 0 1 3 10
+p355
+aVAdonal Foyle GSW 01/30/2004 GSW vs. CHI W 22 6 3 6 50.0 0 0 - 0 0 - 3 9 12 1 0 2 3 3 -3
+p356
+aVPopeye Jones GSW 01/30/2004 GSW vs. CHI W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p357
+aVAvery Johnson GSW 01/28/2004 GSW vs. MIN W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 2 3 7
+p358
+aVClifford Robinson GSW 01/28/2004 GSW vs. MIN W 25 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 2 0 0 3 5 7
+p359
+aVMike Dunleavy GSW 01/28/2004 GSW vs. MIN W 39 13 4 8 50.0 2 4 50.0 3 3 100.0 2 5 7 3 2 1 2 0 6
+p360
+aVBrian Cardinal GSW 01/28/2004 GSW vs. MIN W 29 21 5 10 50.0 1 3 33.3 10 12 83.3 3 6 9 1 4 1 1 5 9
+p361
+aVCalbert Cheaney GSW 01/28/2004 GSW vs. MIN W 19 0 0 6 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p362
+aVJason Richardson GSW 01/28/2004 GSW vs. MIN W 41 17 6 17 35.3 1 3 33.3 4 6 66.7 2 8 10 3 2 1 3 0 6
+p363
+aVSpeedy Claxton GSW 01/28/2004 GSW vs. MIN W 38 19 6 18 33.3 0 0 - 7 10 70.0 0 2 2 4 3 0 0 4 4
+p364
+aVErick Dampier GSW 01/28/2004 GSW vs. MIN W 41 21 8 15 53.3 0 0 - 5 7 71.4 8 11 19 0 1 5 2 5 -3
+p365
+aVJason Richardson GSW 01/24/2004 GSW @ POR W 40 31 12 17 70.6 7 8 87.5 0 0 - 0 5 5 4 2 1 4 1 13
+p366
+aVSpeedy Claxton GSW 01/24/2004 GSW @ POR W 39 15 5 11 45.5 0 0 - 5 7 71.4 1 2 3 7 5 0 1 1 20
+p367
+aVErick Dampier GSW 01/24/2004 GSW @ POR W 44 18 7 9 77.8 0 0 - 4 4 100.0 11 9 20 0 0 1 3 1 14
+p368
+aVMickael Pietrus GSW 01/24/2004 GSW @ POR W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p369
+aVCalbert Cheaney GSW 01/24/2004 GSW @ POR W 26 10 5 10 50.0 0 0 - 0 0 - 1 1 2 0 1 0 3 1 12
+p370
+aVAdonal Foyle GSW 01/24/2004 GSW @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p371
+aVAvery Johnson GSW 01/24/2004 GSW @ POR W 9 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 -2
+p372
+aVMike Dunleavy GSW 01/24/2004 GSW @ POR W 33 11 4 10 40.0 2 4 50.0 1 2 50.0 1 5 6 7 0 1 2 1 7
+p373
+aVClifford Robinson GSW 01/24/2004 GSW @ POR W 29 11 4 12 33.3 1 3 33.3 2 2 100.0 0 3 3 4 2 1 2 4 24
+p374
+aVBrian Cardinal GSW 01/24/2004 GSW @ POR W 15 2 0 5 0.0 0 1 0.0 2 2 100.0 0 2 2 2 1 1 1 3 1
+p375
+aVPopeye Jones GSW 01/22/2004 GSW @ SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p376
+aVBrian Cardinal GSW 01/22/2004 GSW @ SEA L 26 10 2 6 33.3 0 1 0.0 6 7 85.7 2 6 8 1 5 0 2 3 -7
+p377
+aVJason Richardson GSW 01/22/2004 GSW @ SEA L 20 3 1 11 9.1 0 3 0.0 1 2 50.0 1 2 3 2 0 0 3 1 -17
+p378
+aVMickael Pietrus GSW 01/22/2004 GSW @ SEA L 16 8 2 7 28.6 2 6 33.3 2 2 100.0 0 0 0 0 0 0 0 3 -1
+p379
+aVAdonal Foyle GSW 01/22/2004 GSW @ SEA L 21 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 2 0 2 -1
+p380
+aVClifford Robinson GSW 01/22/2004 GSW @ SEA L 27 4 1 6 16.7 0 3 0.0 2 2 100.0 0 8 8 1 1 0 1 1 -12
+p381
+aVMike Dunleavy GSW 01/22/2004 GSW @ SEA L 39 18 8 13 61.5 2 4 50.0 0 0 - 2 9 11 1 2 0 1 5 -19
+p382
+aVAvery Johnson GSW 01/22/2004 GSW @ SEA L 18 14 5 12 41.7 0 0 - 4 4 100.0 0 0 0 3 0 0 1 1 0
+p383
+aVCalbert Cheaney GSW 01/22/2004 GSW @ SEA L 24 6 2 5 40.0 0 0 - 2 4 50.0 0 2 2 2 2 0 0 2 -2
+p384
+aVSpeedy Claxton GSW 01/22/2004 GSW @ SEA L 30 18 5 10 50.0 0 0 - 8 8 100.0 1 2 3 4 1 0 4 1 -16
+p385
+aVErick Dampier GSW 01/22/2004 GSW @ SEA L 16 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -7
+p386
+aVBrian Cardinal GSW 01/21/2004 GSW @ LAC L 14 3 1 5 20.0 0 2 0.0 1 2 50.0 0 0 0 0 1 0 2 1 -16
+p387
+aVCalbert Cheaney GSW 01/21/2004 GSW @ LAC L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -6
+p388
+aVErick Dampier GSW 01/21/2004 GSW @ LAC L 36 17 4 9 44.4 0 0 - 9 11 81.8 8 8 16 0 0 3 1 3 8
+p389
+aVAdonal Foyle GSW 01/21/2004 GSW @ LAC L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -11
+p390
+aVAvery Johnson GSW 01/21/2004 GSW @ LAC L 13 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 2 0 -8
+p391
+aVMike Dunleavy GSW 01/21/2004 GSW @ LAC L 42 16 7 11 63.6 2 3 66.7 0 0 - 3 7 10 1 2 0 1 3 -1
+p392
+aVClifford Robinson GSW 01/21/2004 GSW @ LAC L 38 14 5 14 35.7 4 10 40.0 0 0 - 2 3 5 6 1 1 2 5 10
+p393
+aVJason Richardson GSW 01/21/2004 GSW @ LAC L 46 28 11 23 47.8 4 9 44.4 2 2 100.0 2 8 10 3 1 1 3 2 0
+p394
+aVSpeedy Claxton GSW 01/21/2004 GSW @ LAC L 35 17 5 15 33.3 0 1 0.0 7 8 87.5 1 4 5 5 1 0 3 3 4
+p395
+aVMickael Pietrus GSW 01/19/2004 GSW vs. UTA W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 2 1 -2
+p396
+aVMike Dunleavy GSW 01/19/2004 GSW vs. UTA W 22 9 3 7 42.9 1 2 50.0 2 3 66.7 2 3 5 1 1 0 3 4 2
+p397
+aVAvery Johnson GSW 01/19/2004 GSW vs. UTA W 15 4 2 4 50.0 0 0 - 0 0 - 0 0 0 3 0 0 2 0 -1
+p398
+aVJason Richardson GSW 01/19/2004 GSW vs. UTA W 34 18 7 11 63.6 1 4 25.0 3 4 75.0 0 3 3 4 0 0 3 5 13
+p399
+aVErick Dampier GSW 01/19/2004 GSW vs. UTA W 40 18 8 19 42.1 0 0 - 2 3 66.7 10 14 24 2 0 2 1 1 20
+p400
+aVSpeedy Claxton GSW 01/19/2004 GSW vs. UTA W 37 10 4 10 40.0 0 0 - 2 2 100.0 0 3 3 6 2 0 2 5 21
+p401
+aVClifford Robinson GSW 01/19/2004 GSW vs. UTA W 38 16 5 11 45.5 2 3 66.7 4 5 80.0 2 4 6 6 0 4 1 2 15
+p402
+aVCalbert Cheaney GSW 01/19/2004 GSW vs. UTA W 37 20 9 12 75.0 0 0 - 2 2 100.0 1 2 3 4 0 0 1 3 14
+p403
+aVBrian Cardinal GSW 01/19/2004 GSW vs. UTA W 12 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 2 0 2 0 -2
+p404
+aVCalbert Cheaney GSW 01/16/2004 GSW @ PHX L 35 11 5 11 45.5 0 0 - 1 2 50.0 0 4 4 0 1 1 0 3 5
+p405
+aVClifford Robinson GSW 01/16/2004 GSW @ PHX L 30 7 3 13 23.1 1 4 25.0 0 0 - 0 3 3 2 0 2 1 3 -17
+p406
+aVAvery Johnson GSW 01/16/2004 GSW @ PHX L 15 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -7
+p407
+aVMike Dunleavy GSW 01/16/2004 GSW @ PHX L 33 19 5 11 45.5 1 3 33.3 8 8 100.0 1 1 2 1 1 0 3 2 -8
+p408
+aVJason Richardson GSW 01/16/2004 GSW @ PHX L 34 6 3 11 27.3 0 2 0.0 0 2 0.0 0 2 2 3 0 0 1 2 -25
+p409
+aVMickael Pietrus GSW 01/16/2004 GSW @ PHX L 13 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 0 0 0 2 0 11
+p410
+aVAdonal Foyle GSW 01/16/2004 GSW @ PHX L 9 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 9
+p411
+aVErick Dampier GSW 01/16/2004 GSW @ PHX L 36 19 7 11 63.6 0 0 - 5 6 83.3 4 2 6 0 2 0 1 4 -18
+p412
+aVSpeedy Claxton GSW 01/16/2004 GSW @ PHX L 35 18 4 11 36.4 0 0 - 10 10 100.0 4 1 5 7 6 0 1 3 -5
+p413
+aVJason Richardson GSW 01/15/2004 GSW vs. CLE W 39 25 10 18 55.6 2 3 66.7 3 5 60.0 1 1 2 2 2 0 2 2 12
+p414
+aVAdonal Foyle GSW 01/15/2004 GSW vs. CLE W 4 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 1 1 0 -3
+p415
+aVClifford Robinson GSW 01/15/2004 GSW vs. CLE W 43 35 11 19 57.9 7 8 87.5 6 7 85.7 2 6 8 4 1 3 0 2 26
+p416
+aVErick Dampier GSW 01/15/2004 GSW vs. CLE W 36 18 4 10 40.0 0 0 - 10 12 83.3 5 6 11 2 0 1 1 3 18
+p417
+aVMike Dunleavy GSW 01/15/2004 GSW vs. CLE W 29 9 4 7 57.1 1 1 100.0 0 2 0.0 1 8 9 5 1 0 2 2 5
+p418
+aVSpeedy Claxton GSW 01/15/2004 GSW vs. CLE W 33 11 5 9 55.6 0 0 - 1 2 50.0 2 5 7 11 3 0 2 3 10
+p419
+aVAvery Johnson GSW 01/15/2004 GSW vs. CLE W 15 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 2 1 0 2 0 7
+p420
+aVMickael Pietrus GSW 01/15/2004 GSW vs. CLE W 12 4 1 3 33.3 0 1 0.0 2 2 100.0 2 1 3 0 1 1 1 2 -2
+p421
+aVPopeye Jones GSW 01/15/2004 GSW vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p422
+aVCalbert Cheaney GSW 01/15/2004 GSW vs. CLE W 28 12 6 9 66.7 0 0 - 0 0 - 0 3 3 3 0 0 0 4 14
+p423
+aVErick Dampier GSW 01/13/2004 GSW @ UTA L 22 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 0 0 2 2 -23
+p424
+aVNick Van Exel GSW 01/13/2004 GSW @ UTA L 32 9 4 8 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 2 1 -14
+p425
+aVClifford Robinson GSW 01/13/2004 GSW @ UTA L 42 23 7 16 43.8 1 5 20.0 8 9 88.9 1 3 4 4 2 3 3 1 -9
+p426
+aVBrian Cardinal GSW 01/13/2004 GSW @ UTA L 33 14 5 14 35.7 0 0 - 4 5 80.0 7 4 11 2 4 1 1 4 2
+p427
+aVJason Richardson GSW 01/13/2004 GSW @ UTA L 29 7 3 10 30.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 3 -13
+p428
+aVCalbert Cheaney GSW 01/13/2004 GSW @ UTA L 20 2 1 6 16.7 0 0 - 0 0 - 1 3 4 1 0 0 1 4 -11
+p429
+aVSpeedy Claxton GSW 01/13/2004 GSW @ UTA L 34 12 5 11 45.5 0 0 - 2 2 100.0 2 4 6 5 1 0 2 5 0
+p430
+aVMike Dunleavy GSW 01/13/2004 GSW @ UTA L 28 7 3 10 30.0 1 2 50.0 0 1 0.0 0 1 1 0 2 1 1 1 -17
+p431
+aVMickael Pietrus GSW 01/12/2004 GSW vs. MEM L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p432
+aVNick Van Exel GSW 01/12/2004 GSW vs. MEM L 40 23 9 25 36.0 2 8 25.0 3 4 75.0 1 1 2 3 0 0 3 1 -11
+p433
+aVCalbert Cheaney GSW 01/12/2004 GSW vs. MEM L 35 9 4 8 50.0 0 0 - 1 2 50.0 4 3 7 0 0 0 4 6 -11
+p434
+aVClifford Robinson GSW 01/12/2004 GSW vs. MEM L 36 15 6 13 46.2 2 4 50.0 1 4 25.0 1 2 3 2 2 1 2 6 11
+p435
+aVMike Dunleavy GSW 01/12/2004 GSW vs. MEM L 37 7 2 5 40.0 0 0 - 3 4 75.0 1 6 7 6 1 0 2 3 23
+p436
+aVJason Richardson GSW 01/12/2004 GSW vs. MEM L 44 21 10 23 43.5 0 2 0.0 1 1 100.0 1 6 7 2 1 0 1 3 -14
+p437
+aVErick Dampier GSW 01/12/2004 GSW vs. MEM L 46 23 8 14 57.1 0 0 - 7 12 58.3 10 12 22 1 0 7 3 4 -10
+p438
+aVBrian Cardinal GSW 01/12/2004 GSW vs. MEM L 33 5 1 7 14.3 0 1 0.0 3 3 100.0 7 6 13 0 1 0 1 4 -6
+p439
+aVSpeedy Claxton GSW 01/12/2004 GSW vs. MEM L 18 10 4 8 50.0 0 0 - 2 3 66.7 1 3 4 3 2 0 0 0 9
+p440
+aVCalbert Cheaney GSW 01/10/2004 GSW vs. SEA W 35 13 5 9 55.6 0 0 - 3 3 100.0 5 1 6 3 0 1 0 3 0
+p441
+aVClifford Robinson GSW 01/10/2004 GSW vs. SEA W 37 28 10 16 62.5 6 7 85.7 2 3 66.7 1 3 4 0 0 1 0 3 5
+p442
+aVErick Dampier GSW 01/10/2004 GSW vs. SEA W 24 5 2 9 22.2 0 0 - 1 2 50.0 3 7 10 0 1 3 3 3 -5
+p443
+aVSpeedy Claxton GSW 01/10/2004 GSW vs. SEA W 20 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 2 0 -8
+p444
+aVJason Richardson GSW 01/10/2004 GSW vs. SEA W 47 25 9 18 50.0 3 8 37.5 4 6 66.7 1 10 11 4 1 0 2 3 7
+p445
+aVNick Van Exel GSW 01/10/2004 GSW vs. SEA W 43 13 4 14 28.6 1 3 33.3 4 7 57.1 1 6 7 11 1 0 2 0 4
+p446
+aVMike Dunleavy GSW 01/10/2004 GSW vs. SEA W 24 9 4 10 40.0 1 5 20.0 0 0 - 3 6 9 2 0 0 3 3 7
+p447
+aVBrian Cardinal GSW 01/10/2004 GSW vs. SEA W 35 16 5 9 55.6 1 4 25.0 5 6 83.3 2 7 9 3 1 0 2 5 5
+p448
+aVJason Richardson GSW 01/07/2004 GSW @ DAL L 43 27 11 26 42.3 4 9 44.4 1 3 33.3 5 2 7 2 2 0 1 1 -9
+p449
+aVClifford Robinson GSW 01/07/2004 GSW @ DAL L 41 5 1 9 11.1 0 1 0.0 3 4 75.0 3 5 8 6 2 2 4 4 -8
+p450
+aVBrian Cardinal GSW 01/07/2004 GSW @ DAL L 32 18 7 12 58.3 3 4 75.0 1 1 100.0 3 3 6 2 1 1 3 2 6
+p451
+aVCalbert Cheaney GSW 01/07/2004 GSW @ DAL L 20 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 2 0 1 1 4
+p452
+aVMike Dunleavy GSW 01/07/2004 GSW @ DAL L 30 13 6 12 50.0 1 4 25.0 0 0 - 0 7 7 4 0 0 2 4 -8
+p453
+aVSpeedy Claxton GSW 01/07/2004 GSW @ DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -8
+p454
+aVNick Van Exel GSW 01/07/2004 GSW @ DAL L 43 15 6 15 40.0 3 5 60.0 0 0 - 0 6 6 9 1 0 2 2 0
+p455
+aVErick Dampier GSW 01/07/2004 GSW @ DAL L 25 15 6 9 66.7 0 0 - 3 4 75.0 3 5 8 1 0 2 1 4 -7
+p456
+aVMike Dunleavy GSW 01/05/2004 GSW @ HOU L 38 13 4 10 40.0 3 5 60.0 2 2 100.0 1 3 4 4 1 0 2 1 -19
+p457
+aVJason Richardson GSW 01/05/2004 GSW @ HOU L 33 10 5 13 38.5 0 4 0.0 0 0 - 0 5 5 0 1 0 0 3 -12
+p458
+aVClifford Robinson GSW 01/05/2004 GSW @ HOU L 31 5 2 9 22.2 1 4 25.0 0 0 - 0 4 4 2 0 1 1 2 -15
+p459
+aVBrian Cardinal GSW 01/05/2004 GSW @ HOU L 21 6 2 6 33.3 0 1 0.0 2 2 100.0 0 6 6 1 1 0 2 2 -1
+p460
+aVNick Van Exel GSW 01/05/2004 GSW @ HOU L 33 10 4 10 40.0 2 5 40.0 0 0 - 0 0 0 7 1 0 1 2 -19
+p461
+aVCalbert Cheaney GSW 01/05/2004 GSW @ HOU L 20 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p462
+aVErick Dampier GSW 01/05/2004 GSW @ HOU L 23 0 0 5 0.0 0 0 - 0 2 0.0 2 3 5 1 1 1 2 3 -9
+p463
+aVSpeedy Claxton GSW 01/05/2004 GSW @ HOU L 20 9 3 8 37.5 0 0 - 3 3 100.0 2 1 3 4 1 1 2 1 -6
+p464
+aVTroy Murphy GSW 01/05/2004 GSW @ HOU L 21 10 4 11 36.4 0 0 - 2 2 100.0 0 2 2 0 1 1 1 2 -9
+p465
+aVTroy Murphy GSW 01/03/2004 GSW @ DET L 17 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 0 0 1 0 1 -7
+p466
+aVClifford Robinson GSW 01/03/2004 GSW @ DET L 33 10 4 8 50.0 1 3 33.3 1 2 50.0 1 3 4 1 0 0 1 1 -13
+p467
+aVMike Dunleavy GSW 01/03/2004 GSW @ DET L 30 7 3 6 50.0 1 2 50.0 0 0 - 1 5 6 4 0 0 1 3 -4
+p468
+aVNick Van Exel GSW 01/03/2004 GSW @ DET L 41 18 7 18 38.9 0 6 0.0 4 4 100.0 1 0 1 10 1 0 6 1 -5
+p469
+aVErick Dampier GSW 01/03/2004 GSW @ DET L 40 14 5 9 55.6 0 0 - 4 9 44.4 2 10 12 0 2 3 1 3 0
+p470
+aVBrian Cardinal GSW 01/03/2004 GSW @ DET L 20 15 4 7 57.1 2 3 66.7 5 5 100.0 2 4 6 1 2 0 1 2 10
+p471
+aVJason Richardson GSW 01/03/2004 GSW @ DET L 40 24 9 21 42.9 3 7 42.9 3 4 75.0 1 3 4 6 4 0 0 2 -5
+p472
+aVSpeedy Claxton GSW 01/03/2004 GSW @ DET L 19 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 2 2 -6
+p473
+aVJason Richardson GSW 01/02/2004 GSW @ WAS L 36 25 10 17 58.8 2 4 50.0 3 4 75.0 3 3 6 1 2 0 3 0 -12
+p474
+aVTroy Murphy GSW 01/02/2004 GSW @ WAS L 20 4 2 7 28.6 0 0 - 0 0 - 1 2 3 1 1 2 2 1 -16
+p475
+aVSpeedy Claxton GSW 01/02/2004 GSW @ WAS L 24 6 3 6 50.0 0 0 - 0 0 - 1 0 1 4 2 0 1 4 -18
+p476
+aVBrian Cardinal GSW 01/02/2004 GSW @ WAS L 7 4 1 2 50.0 0 0 - 2 3 66.7 1 0 1 0 0 0 1 0 -7
+p477
+aVMickael Pietrus GSW 01/02/2004 GSW @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p478
+aVCalbert Cheaney GSW 01/02/2004 GSW @ WAS L 18 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 1 0 2 2 -9
+p479
+aVClifford Robinson GSW 01/02/2004 GSW @ WAS L 25 5 2 8 25.0 1 3 33.3 0 0 - 0 3 3 2 1 0 0 1 -6
+p480
+aVMike Dunleavy GSW 01/02/2004 GSW @ WAS L 36 14 6 12 50.0 2 5 40.0 0 0 - 1 6 7 3 0 1 3 1 -8
+p481
+aVNick Van Exel GSW 01/02/2004 GSW @ WAS L 34 9 3 16 18.8 3 9 33.3 0 0 - 0 4 4 8 1 0 5 3 -8
+p482
+aVErick Dampier GSW 01/02/2004 GSW @ WAS L 39 8 2 3 66.7 0 0 - 4 4 100.0 1 7 8 1 1 4 3 5 -9
+p483
+aVClifford Robinson GSW 12/31/2003 GSW @ NJN L 35 14 6 13 46.2 1 4 25.0 1 2 50.0 2 3 5 1 3 1 2 4 -13
+p484
+aVJason Richardson GSW 12/31/2003 GSW @ NJN L 37 16 7 15 46.7 0 2 0.0 2 4 50.0 1 5 6 1 1 0 3 2 -5
+p485
+aVMike Dunleavy GSW 12/31/2003 GSW @ NJN L 38 10 3 10 30.0 2 7 28.6 2 2 100.0 0 5 5 3 0 0 0 1 -13
+p486
+aVErick Dampier GSW 12/31/2003 GSW @ NJN L 37 15 6 9 66.7 0 0 - 3 4 75.0 4 4 8 0 1 1 0 2 -5
+p487
+aVMickael Pietrus GSW 12/31/2003 GSW @ NJN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p488
+aVNick Van Exel GSW 12/31/2003 GSW @ NJN L 18 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 4 0 0 0 1 -6
+p489
+aVBrian Cardinal GSW 12/31/2003 GSW @ NJN L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 0
+p490
+aVTroy Murphy GSW 12/31/2003 GSW @ NJN L 20 3 1 4 25.0 0 0 - 1 3 33.3 0 3 3 0 0 2 2 1 -18
+p491
+aVSpeedy Claxton GSW 12/31/2003 GSW @ NJN L 30 4 2 9 22.2 0 1 0.0 0 0 - 2 6 8 3 2 0 4 2 -12
+p492
+aVCalbert Cheaney GSW 12/31/2003 GSW @ NJN L 19 6 3 5 60.0 0 0 - 0 0 - 0 3 3 2 0 0 4 3 -18
+p493
+aVAvery Johnson GSW 12/29/2003 GSW vs. BOS L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -2
+p494
+aVErick Dampier GSW 12/29/2003 GSW vs. BOS L 25 12 4 8 50.0 0 0 - 4 8 50.0 4 4 8 1 1 1 2 3 -18
+p495
+aVMike Dunleavy GSW 12/29/2003 GSW vs. BOS L 27 11 3 8 37.5 1 5 20.0 4 6 66.7 1 6 7 1 2 0 1 1 -12
+p496
+aVClifford Robinson GSW 12/29/2003 GSW vs. BOS L 29 11 4 11 36.4 0 2 0.0 3 4 75.0 0 2 2 2 1 0 2 4 -13
+p497
+aVCalbert Cheaney GSW 12/29/2003 GSW vs. BOS L 35 11 5 12 41.7 0 0 - 1 2 50.0 4 6 10 2 2 1 2 5 -10
+p498
+aVJason Richardson GSW 12/29/2003 GSW vs. BOS L 31 17 8 14 57.1 0 3 0.0 1 2 50.0 1 8 9 2 0 1 3 5 8
+p499
+aVSpeedy Claxton GSW 12/29/2003 GSW vs. BOS L 16 4 2 4 50.0 0 0 - 0 4 0.0 0 4 4 6 0 0 1 1 -7
+p500
+aVNick Van Exel GSW 12/29/2003 GSW vs. BOS L 35 8 3 11 27.3 2 4 50.0 0 0 - 0 2 2 6 0 0 3 3 -4
+p501
+aVTroy Murphy GSW 12/29/2003 GSW vs. BOS L 25 8 4 10 40.0 0 2 0.0 0 1 0.0 4 5 9 1 1 1 1 1 8
+p502
+aVBrian Cardinal GSW 12/29/2003 GSW vs. BOS L 14 7 3 4 75.0 0 0 - 1 1 100.0 0 2 2 0 1 0 2 1 5
+p503
+aVTroy Murphy GSW 12/28/2003 GSW @ DEN L 29 11 4 14 28.6 1 2 50.0 2 2 100.0 2 10 12 1 1 1 2 3 -28
+p504
+aVNick Van Exel GSW 12/28/2003 GSW @ DEN L 25 12 5 14 35.7 1 1 100.0 1 2 50.0 0 4 4 4 0 0 1 0 -6
+p505
+aVErick Dampier GSW 12/28/2003 GSW @ DEN L 16 9 4 4 100.0 0 0 - 1 2 50.0 1 5 6 0 0 0 4 5 4
+p506
+aVAvery Johnson GSW 12/28/2003 GSW @ DEN L 6 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 1 -2
+p507
+aVCalbert Cheaney GSW 12/28/2003 GSW @ DEN L 23 7 3 8 37.5 0 0 - 1 2 50.0 1 4 5 3 0 0 1 0 -19
+p508
+aVClifford Robinson GSW 12/28/2003 GSW @ DEN L 35 10 4 11 36.4 2 3 66.7 0 0 - 1 2 3 1 0 0 2 1 -18
+p509
+aVJason Richardson GSW 12/28/2003 GSW @ DEN L 34 14 6 13 46.2 0 2 0.0 2 2 100.0 1 5 6 0 0 3 1 3 -16
+p510
+aVSpeedy Claxton GSW 12/28/2003 GSW @ DEN L 18 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 4 0 1 2 4 -18
+p511
+aVMike Dunleavy GSW 12/28/2003 GSW @ DEN L 31 6 2 7 28.6 0 1 0.0 2 2 100.0 1 3 4 7 1 0 2 2 -7
+p512
+aVBrian Cardinal GSW 12/28/2003 GSW @ DEN L 14 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 1 0 0 1 0 -8
+p513
+aVMickael Pietrus GSW 12/28/2003 GSW @ DEN L 9 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p514
+aVCalbert Cheaney GSW 12/26/2003 GSW vs. SAC W 22 4 1 5 20.0 0 0 - 2 2 100.0 4 1 5 3 1 0 1 3 1
+p515
+aVTroy Murphy GSW 12/26/2003 GSW vs. SAC W 27 15 4 12 33.3 0 1 0.0 7 8 87.5 6 8 14 2 1 0 3 0 9
+p516
+aVJason Richardson GSW 12/26/2003 GSW vs. SAC W 43 25 9 19 47.4 1 4 25.0 6 7 85.7 1 5 6 2 4 1 6 3 8
+p517
+aVBrian Cardinal GSW 12/26/2003 GSW vs. SAC W 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -2
+p518
+aVSpeedy Claxton GSW 12/26/2003 GSW vs. SAC W 16 7 2 5 40.0 0 1 0.0 3 6 50.0 1 2 3 1 2 0 1 1 3
+p519
+aVNick Van Exel GSW 12/26/2003 GSW vs. SAC W 32 15 4 9 44.4 2 4 50.0 5 6 83.3 0 1 1 5 1 0 0 3 7
+p520
+aVErick Dampier GSW 12/26/2003 GSW vs. SAC W 28 8 3 7 42.9 0 0 - 2 2 100.0 4 5 9 1 0 1 4 5 1
+p521
+aVClifford Robinson GSW 12/26/2003 GSW vs. SAC W 36 6 3 12 25.0 0 3 0.0 0 0 - 1 1 2 2 1 0 2 5 3
+p522
+aVMike Dunleavy GSW 12/26/2003 GSW vs. SAC W 31 18 6 9 66.7 3 4 75.0 3 4 75.0 2 4 6 4 0 0 0 1 5
+p523
+aVTroy Murphy GSW 12/23/2003 GSW vs. LAL W 25 8 2 9 22.2 0 1 0.0 4 5 80.0 3 10 13 1 0 0 2 1 13
+p524
+aVSpeedy Claxton GSW 12/23/2003 GSW vs. LAL W 31 19 5 9 55.6 0 2 0.0 9 10 90.0 0 0 0 5 3 0 1 2 17
+p525
+aVCalbert Cheaney GSW 12/23/2003 GSW vs. LAL W 18 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 2 0 0 0 0
+p526
+aVBrian Cardinal GSW 12/23/2003 GSW vs. LAL W 10 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 6
+p527
+aVClifford Robinson GSW 12/23/2003 GSW vs. LAL W 40 24 10 17 58.8 3 4 75.0 1 1 100.0 0 3 3 4 1 0 0 4 6
+p528
+aVNick Van Exel GSW 12/23/2003 GSW vs. LAL W 36 13 5 13 38.5 1 3 33.3 2 4 50.0 0 3 3 5 0 0 3 1 1
+p529
+aVMike Dunleavy GSW 12/23/2003 GSW vs. LAL W 20 6 2 5 40.0 0 1 0.0 2 2 100.0 1 1 2 2 1 0 2 2 -1
+p530
+aVErick Dampier GSW 12/23/2003 GSW vs. LAL W 31 17 7 8 87.5 0 0 - 3 4 75.0 5 6 11 1 0 0 1 4 -1
+p531
+aVJason Richardson GSW 12/23/2003 GSW vs. LAL W 29 12 4 11 36.4 0 3 0.0 4 5 80.0 0 7 7 1 0 1 1 5 4
+p532
+aVErick Dampier GSW 12/21/2003 GSW @ MIA L 37 15 5 6 83.3 0 0 - 5 6 83.3 5 4 9 0 2 5 2 2 -12
+p533
+aVCalbert Cheaney GSW 12/21/2003 GSW @ MIA L 24 4 2 8 25.0 0 0 - 0 0 - 0 1 1 2 1 0 1 3 -1
+p534
+aVTroy Murphy GSW 12/21/2003 GSW @ MIA L 13 7 2 5 40.0 0 1 0.0 3 3 100.0 1 2 3 1 0 2 0 3 3
+p535
+aVClifford Robinson GSW 12/21/2003 GSW @ MIA L 23 5 2 5 40.0 1 2 50.0 0 0 - 0 5 5 3 1 0 0 0 -13
+p536
+aVSpeedy Claxton GSW 12/21/2003 GSW @ MIA L 23 7 2 4 50.0 0 0 - 3 4 75.0 1 1 2 4 0 0 4 5 -1
+p537
+aVMike Dunleavy GSW 12/21/2003 GSW @ MIA L 28 13 5 14 35.7 1 4 25.0 2 3 66.7 0 5 5 1 0 0 1 2 -12
+p538
+aVJason Richardson GSW 12/21/2003 GSW @ MIA L 33 17 7 13 53.8 0 2 0.0 3 3 100.0 0 2 2 0 1 1 2 1 -7
+p539
+aVMickael Pietrus GSW 12/21/2003 GSW @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p540
+aVBrian Cardinal GSW 12/21/2003 GSW @ MIA L 20 8 4 6 66.7 0 0 - 0 0 - 0 5 5 0 2 0 2 1 -4
+p541
+aVNick Van Exel GSW 12/21/2003 GSW @ MIA L 36 17 6 12 50.0 1 2 50.0 4 5 80.0 1 2 3 3 1 0 5 1 -12
+p542
+aVMickael Pietrus GSW 12/19/2003 GSW @ ORL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p543
+aVSpeedy Claxton GSW 12/19/2003 GSW @ ORL L 25 10 5 12 41.7 0 0 - 0 0 - 2 1 3 5 2 0 1 0 -22
+p544
+aVMike Dunleavy GSW 12/19/2003 GSW @ ORL L 29 4 2 8 25.0 0 4 0.0 0 0 - 0 3 3 4 0 0 1 1 -22
+p545
+aVErick Dampier GSW 12/19/2003 GSW @ ORL L 31 11 3 4 75.0 0 0 - 5 5 100.0 1 10 11 2 0 0 4 1 -15
+p546
+aVBrian Cardinal GSW 12/19/2003 GSW @ ORL L 15 10 3 5 60.0 0 0 - 4 5 80.0 1 3 4 1 1 0 2 3 -9
+p547
+aVCalbert Cheaney GSW 12/19/2003 GSW @ ORL L 25 8 4 6 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -8
+p548
+aVTroy Murphy GSW 12/19/2003 GSW @ ORL L 17 10 3 4 75.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 3 0
+p549
+aVJason Richardson GSW 12/19/2003 GSW @ ORL L 33 13 5 13 38.5 1 4 25.0 2 8 25.0 0 2 2 3 2 0 2 3 -17
+p550
+aVClifford Robinson GSW 12/19/2003 GSW @ ORL L 32 19 9 13 69.2 1 2 50.0 0 0 - 0 4 4 1 0 1 4 3 -26
+p551
+aVNick Van Exel GSW 12/19/2003 GSW @ ORL L 29 8 3 11 27.3 0 2 0.0 2 2 100.0 0 1 1 6 0 0 0 1 -15
+p552
+aVErick Dampier GSW 12/17/2003 GSW @ ATL W 24 2 1 5 20.0 0 0 - 0 4 0.0 3 3 6 0 2 4 1 1 3
+p553
+aVNick Van Exel GSW 12/17/2003 GSW @ ATL W 29 12 5 12 41.7 2 5 40.0 0 0 - 0 2 2 7 0 0 3 1 6
+p554
+aVCalbert Cheaney GSW 12/17/2003 GSW @ ATL W 21 6 3 7 42.9 0 0 - 0 0 - 2 3 5 2 1 0 0 2 10
+p555
+aVMickael Pietrus GSW 12/17/2003 GSW @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p556
+aVMike Dunleavy GSW 12/17/2003 GSW @ ATL W 35 25 10 15 66.7 5 6 83.3 0 2 0.0 2 12 14 6 0 0 3 1 7
+p557
+aVSpeedy Claxton GSW 12/17/2003 GSW @ ATL W 26 12 5 10 50.0 0 1 0.0 2 3 66.7 0 1 1 5 1 0 2 1 10
+p558
+aVTroy Murphy GSW 12/17/2003 GSW @ ATL W 13 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 -4
+p559
+aVCherokee Parks GSW 12/17/2003 GSW @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p560
+aVClifford Robinson GSW 12/17/2003 GSW @ ATL W 32 5 2 8 25.0 1 2 50.0 0 0 - 1 5 6 7 3 4 0 3 21
+p561
+aVBrian Cardinal GSW 12/17/2003 GSW @ ATL W 24 10 3 6 50.0 2 4 50.0 2 3 66.7 4 2 6 2 1 0 0 2 15
+p562
+aVJason Richardson GSW 12/17/2003 GSW @ ATL W 30 22 7 13 53.8 0 2 0.0 8 9 88.9 0 2 2 1 1 1 4 2 13
+p563
+aVCherokee Parks GSW 12/16/2003 GSW @ NYK W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p564
+aVErick Dampier GSW 12/16/2003 GSW @ NYK W 20 8 4 11 36.4 0 0 - 0 0 - 1 4 5 0 0 2 0 2 7
+p565
+aVMike Dunleavy GSW 12/16/2003 GSW @ NYK W 25 10 4 8 50.0 1 4 25.0 1 1 100.0 1 8 9 4 2 0 1 4 10
+p566
+aVClifford Robinson GSW 12/16/2003 GSW @ NYK W 31 6 3 8 37.5 0 0 - 0 0 - 0 5 5 3 0 0 2 3 3
+p567
+aVSpeedy Claxton GSW 12/16/2003 GSW @ NYK W 28 14 7 14 50.0 0 2 0.0 0 0 - 0 2 2 6 2 0 0 2 13
+p568
+aVNick Van Exel GSW 12/16/2003 GSW @ NYK W 23 13 5 7 71.4 0 1 0.0 3 5 60.0 0 2 2 5 0 0 0 2 4
+p569
+aVCalbert Cheaney GSW 12/16/2003 GSW @ NYK W 29 13 5 8 62.5 0 0 - 3 4 75.0 0 3 3 2 2 0 0 0 16
+p570
+aVMickael Pietrus GSW 12/16/2003 GSW @ NYK W 18 8 3 5 60.0 2 3 66.7 0 0 - 1 2 3 0 1 0 1 5 8
+p571
+aVJason Richardson GSW 12/16/2003 GSW @ NYK W 37 26 9 16 56.3 2 4 50.0 6 8 75.0 0 2 2 3 2 0 1 2 16
+p572
+aVBrian Cardinal GSW 12/16/2003 GSW @ NYK W 26 6 2 6 33.3 0 0 - 2 2 100.0 0 5 5 1 0 1 1 3 14
+p573
+aVNick Van Exel GSW 12/12/2003 GSW vs. NOH L 46 12 6 13 46.2 0 2 0.0 0 0 - 1 4 5 8 1 0 4 3 -7
+p574
+aVAvery Johnson GSW 12/12/2003 GSW vs. NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p575
+aVJason Richardson GSW 12/12/2003 GSW vs. NOH L 28 5 2 12 16.7 1 4 25.0 0 0 - 2 2 4 1 0 0 1 1 -13
+p576
+aVMike Dunleavy GSW 12/12/2003 GSW vs. NOH L 37 25 10 21 47.6 3 5 60.0 2 2 100.0 2 5 7 2 1 1 2 1 -18
+p577
+aVSean Lampley GSW 12/12/2003 GSW vs. NOH L 15 9 2 5 40.0 0 0 - 5 5 100.0 0 2 2 0 0 0 1 0 6
+p578
+aVClifford Robinson GSW 12/12/2003 GSW vs. NOH L 41 13 6 14 42.9 1 1 100.0 0 0 - 3 6 9 4 1 1 1 3 -12
+p579
+aVMickael Pietrus GSW 12/12/2003 GSW vs. NOH L 23 11 3 9 33.3 1 5 20.0 4 8 50.0 1 3 4 2 0 0 0 4 4
+p580
+aVCherokee Parks GSW 12/12/2003 GSW vs. NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p581
+aVBrian Cardinal GSW 12/12/2003 GSW vs. NOH L 33 10 3 4 75.0 1 2 50.0 3 4 75.0 1 3 4 2 1 1 1 4 4
+p582
+aVErick Dampier GSW 12/12/2003 GSW vs. NOH L 14 0 0 4 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -15
+p583
+aVMike Dunleavy GSW 12/10/2003 GSW @ MIL L 28 6 2 6 33.3 0 1 0.0 2 2 100.0 3 5 8 3 1 0 2 2 -7
+p584
+aVClifford Robinson GSW 12/10/2003 GSW @ MIL L 50 8 4 15 26.7 0 4 0.0 0 0 - 2 8 10 4 1 1 1 3 0
+p585
+aVMickael Pietrus GSW 12/10/2003 GSW @ MIL L 13 7 2 4 50.0 2 3 66.7 1 3 33.3 0 1 1 1 0 0 0 1 3
+p586
+aVErick Dampier GSW 12/10/2003 GSW @ MIL L 26 11 4 7 57.1 0 0 - 3 4 75.0 2 6 8 0 2 0 1 5 -11
+p587
+aVCherokee Parks GSW 12/10/2003 GSW @ MIL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p588
+aVNick Van Exel GSW 12/10/2003 GSW @ MIL L 47 21 9 19 47.4 3 6 50.0 0 0 - 3 4 7 4 0 0 3 1 -4
+p589
+aVSean Lampley GSW 12/10/2003 GSW @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p590
+aVSpeedy Claxton GSW 12/10/2003 GSW @ MIL L 30 15 5 11 45.5 0 0 - 5 5 100.0 1 2 3 1 3 0 1 2 4
+p591
+aVCalbert Cheaney GSW 12/10/2003 GSW @ MIL L 8 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 2 0 0 1 3 -10
+p592
+aVBrian Cardinal GSW 12/10/2003 GSW @ MIL L 21 9 3 7 42.9 1 3 33.3 2 2 100.0 0 1 1 3 1 0 1 5 7
+p593
+aVJason Richardson GSW 12/10/2003 GSW @ MIL L 36 9 4 16 25.0 1 6 16.7 0 0 - 2 2 4 1 2 0 6 4 -2
+p594
+aVClifford Robinson GSW 12/09/2003 GSW @ MIN W 28 8 4 9 44.4 0 2 0.0 0 0 - 0 2 2 3 0 0 1 4 -3
+p595
+aVJason Richardson GSW 12/09/2003 GSW @ MIN W 40 30 11 24 45.8 3 7 42.9 5 6 83.3 4 5 9 5 1 0 2 1 1
+p596
+aVMickael Pietrus GSW 12/09/2003 GSW @ MIN W 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 1 0 0 1 3
+p597
+aVCalbert Cheaney GSW 12/09/2003 GSW @ MIN W 22 8 3 5 60.0 0 0 - 2 2 100.0 1 6 7 0 1 0 0 2 13
+p598
+aVCherokee Parks GSW 12/09/2003 GSW @ MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p599
+aVNick Van Exel GSW 12/09/2003 GSW @ MIN W 35 12 3 12 25.0 1 2 50.0 5 7 71.4 0 2 2 4 1 0 0 0 -6
+p600
+aVSpeedy Claxton GSW 12/09/2003 GSW @ MIN W 18 2 1 4 25.0 0 0 - 0 0 - 0 1 1 4 0 0 1 4 8
+p601
+aVMike Dunleavy GSW 12/09/2003 GSW @ MIN W 29 8 3 9 33.3 0 0 - 2 2 100.0 0 5 5 4 0 0 2 3 -11
+p602
+aVErick Dampier GSW 12/09/2003 GSW @ MIN W 35 12 4 7 57.1 0 0 - 4 4 100.0 3 5 8 3 0 0 0 4 -4
+p603
+aVBrian Cardinal GSW 12/09/2003 GSW @ MIN W 25 17 5 7 71.4 1 1 100.0 6 6 100.0 1 5 6 2 1 0 1 2 11
+p604
+aVMike Dunleavy GSW 12/06/2003 GSW vs. NYK W 38 11 5 7 71.4 0 2 0.0 1 2 50.0 2 6 8 4 6 0 1 2 5
+p605
+aVBrian Cardinal GSW 12/06/2003 GSW vs. NYK W 37 19 6 17 35.3 1 3 33.3 6 6 100.0 3 5 8 5 1 0 1 5 11
+p606
+aVMickael Pietrus GSW 12/06/2003 GSW vs. NYK W 9 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 0 1 7
+p607
+aVErick Dampier GSW 12/06/2003 GSW vs. NYK W 25 10 5 10 50.0 0 0 - 0 0 - 3 3 6 2 0 0 1 1 2
+p608
+aVClifford Robinson GSW 12/06/2003 GSW vs. NYK W 33 10 5 12 41.7 0 3 0.0 0 0 - 1 3 4 6 1 2 1 2 9
+p609
+aVNick Van Exel GSW 12/06/2003 GSW vs. NYK W 27 15 6 10 60.0 1 2 50.0 2 2 100.0 0 1 1 3 0 0 3 1 9
+p610
+aVSpeedy Claxton GSW 12/06/2003 GSW vs. NYK W 22 11 5 6 83.3 0 0 - 1 1 100.0 0 3 3 7 1 0 2 0 5
+p611
+aVJason Richardson GSW 12/06/2003 GSW vs. NYK W 28 9 4 11 36.4 0 3 0.0 1 1 100.0 0 1 1 0 0 0 2 0 1
+p612
+aVCalbert Cheaney GSW 12/06/2003 GSW vs. NYK W 21 14 7 9 77.8 0 0 - 0 0 - 1 1 2 1 0 0 0 1 11
+p613
+aVCalbert Cheaney GSW 12/05/2003 GSW @ DEN L 33 10 5 12 41.7 0 0 - 0 2 0.0 1 3 4 4 0 1 0 2 1
+p614
+aVErick Dampier GSW 12/05/2003 GSW @ DEN L 39 7 3 7 42.9 0 0 - 1 3 33.3 1 10 11 1 0 1 0 2 3
+p615
+aVBrian Cardinal GSW 12/05/2003 GSW @ DEN L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 4 -7
+p616
+aVSean Lampley GSW 12/05/2003 GSW @ DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p617
+aVJason Richardson GSW 12/05/2003 GSW @ DEN L 36 16 5 14 35.7 3 5 60.0 3 4 75.0 1 6 7 4 1 0 2 6 -7
+p618
+aVSpeedy Claxton GSW 12/05/2003 GSW @ DEN L 12 7 2 4 50.0 0 0 - 3 4 75.0 0 3 3 2 0 0 1 4 6
+p619
+aVMickael Pietrus GSW 12/05/2003 GSW @ DEN L 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 0 -2
+p620
+aVMike Dunleavy GSW 12/05/2003 GSW @ DEN L 19 19 7 10 70.0 3 4 75.0 2 4 50.0 4 2 6 1 0 0 1 3 -2
+p621
+aVNick Van Exel GSW 12/05/2003 GSW @ DEN L 39 15 7 16 43.8 1 4 25.0 0 0 - 0 2 2 9 1 0 2 1 -15
+p622
+aVClifford Robinson GSW 12/05/2003 GSW @ DEN L 41 15 6 13 46.2 2 6 33.3 1 4 25.0 2 5 7 3 0 2 5 4 -8
+p623
+aVJason Richardson GSW 12/03/2003 GSW vs. DEN L 37 17 7 14 50.0 0 2 0.0 3 6 50.0 4 1 5 1 0 0 2 4 -11
+p624
+aVSean Lampley GSW 12/03/2003 GSW vs. DEN L 18 14 7 9 77.8 0 0 - 0 2 0.0 1 0 1 0 0 0 1 0 6
+p625
+aVErick Dampier GSW 12/03/2003 GSW vs. DEN L 38 16 7 11 63.6 0 0 - 2 3 66.7 5 13 18 0 0 1 6 2 -12
+p626
+aVClifford Robinson GSW 12/03/2003 GSW vs. DEN L 16 4 2 6 33.3 0 0 - 0 0 - 0 1 1 3 0 0 0 2 -23
+p627
+aVCalbert Cheaney GSW 12/03/2003 GSW vs. DEN L 17 5 2 6 33.3 0 0 - 1 2 50.0 3 1 4 3 0 0 2 5 9
+p628
+aVNick Van Exel GSW 12/03/2003 GSW vs. DEN L 34 19 8 15 53.3 2 7 28.6 1 2 50.0 1 1 2 8 2 1 3 2 15
+p629
+aVMike Dunleavy GSW 12/03/2003 GSW vs. DEN L 21 2 1 6 16.7 0 1 0.0 0 0 - 3 2 5 2 1 0 0 4 -20
+p630
+aVSpeedy Claxton GSW 12/03/2003 GSW vs. DEN L 37 21 7 13 53.8 1 1 100.0 6 6 100.0 1 1 2 3 3 0 0 1 -17
+p631
+aVBrian Cardinal GSW 12/03/2003 GSW vs. DEN L 23 11 3 8 37.5 1 4 25.0 4 4 100.0 1 1 2 1 2 1 0 5 13
+p632
+aVMickael Pietrus GSW 12/03/2003 GSW vs. DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p633
+aVMike Dunleavy GSW 11/29/2003 GSW vs. SAS W 32 11 4 11 36.4 2 3 66.7 1 2 50.0 2 4 6 1 0 0 2 1 0
+p634
+aVErick Dampier GSW 11/29/2003 GSW vs. SAS W 33 9 4 9 44.4 0 0 - 1 3 33.3 7 9 16 0 0 1 2 5 -2
+p635
+aVSpeedy Claxton GSW 11/29/2003 GSW vs. SAS W 16 6 2 6 33.3 1 1 100.0 1 2 50.0 0 0 0 2 1 0 1 3 -6
+p636
+aVCalbert Cheaney GSW 11/29/2003 GSW vs. SAS W 25 8 3 7 42.9 0 0 - 2 2 100.0 1 3 4 0 0 0 3 4 3
+p637
+aVNick Van Exel GSW 11/29/2003 GSW vs. SAS W 32 29 11 19 57.9 3 4 75.0 4 5 80.0 2 2 4 2 1 0 0 0 9
+p638
+aVCherokee Parks GSW 11/29/2003 GSW vs. SAS W 7 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 0
+p639
+aVClifford Robinson GSW 11/29/2003 GSW vs. SAS W 32 8 3 11 27.3 1 4 25.0 1 2 50.0 1 5 6 1 3 1 4 4 -2
+p640
+aVBrian Cardinal GSW 11/29/2003 GSW vs. SAS W 24 11 2 5 40.0 0 2 0.0 7 8 87.5 0 3 3 2 1 0 0 5 10
+p641
+aVJason Richardson GSW 11/29/2003 GSW vs. SAS W 39 8 3 12 25.0 2 4 50.0 0 0 - 2 6 8 2 0 0 3 1 -2
+p642
+aVMickael Pietrus GSW 11/28/2003 GSW @ PHX W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p643
+aVSpeedy Claxton GSW 11/28/2003 GSW @ PHX W 26 12 4 9 44.4 0 1 0.0 4 4 100.0 1 2 3 3 0 0 2 4 15
+p644
+aVCalbert Cheaney GSW 11/28/2003 GSW @ PHX W 16 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 0 0 2 1 3
+p645
+aVErick Dampier GSW 11/28/2003 GSW @ PHX W 27 11 3 5 60.0 0 0 - 5 6 83.3 4 7 11 2 0 1 2 3 -3
+p646
+aVClifford Robinson GSW 11/28/2003 GSW @ PHX W 39 7 2 8 25.0 0 2 0.0 3 6 50.0 0 7 7 5 2 2 4 5 8
+p647
+aVMike Dunleavy GSW 11/28/2003 GSW @ PHX W 38 16 7 15 46.7 1 6 16.7 1 1 100.0 0 5 5 1 3 0 1 3 14
+p648
+aVBrian Cardinal GSW 11/28/2003 GSW @ PHX W 26 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 1 1 0 2 3 7
+p649
+aVSean Lampley GSW 11/28/2003 GSW @ PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p650
+aVJason Richardson GSW 11/28/2003 GSW @ PHX W 45 25 12 21 57.1 1 3 33.3 0 4 0.0 3 10 13 3 0 2 4 1 7
+p651
+aVNick Van Exel GSW 11/28/2003 GSW @ PHX W 22 12 5 8 62.5 2 4 50.0 0 0 - 0 0 0 2 1 0 2 1 -6
+p652
+aVCherokee Parks GSW 11/28/2003 GSW @ PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p653
+aVMickael Pietrus GSW 11/23/2003 GSW vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p654
+aVCalbert Cheaney GSW 11/23/2003 GSW vs. POR W 18 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 -3
+p655
+aVBrian Cardinal GSW 11/23/2003 GSW vs. POR W 25 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 4 1 1 3 2 4
+p656
+aVErick Dampier GSW 11/23/2003 GSW vs. POR W 42 11 3 11 27.3 0 0 - 5 8 62.5 10 7 17 2 0 2 0 1 4
+p657
+aVSean Lampley GSW 11/23/2003 GSW vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p658
+aVMike Dunleavy GSW 11/23/2003 GSW vs. POR W 37 17 5 14 35.7 0 3 0.0 7 9 77.8 0 10 10 2 1 0 0 2 6
+p659
+aVClifford Robinson GSW 11/23/2003 GSW vs. POR W 30 10 5 13 38.5 0 1 0.0 0 0 - 2 3 5 2 1 0 2 4 4
+p660
+aVJason Richardson GSW 11/23/2003 GSW vs. POR W 44 21 8 17 47.1 1 4 25.0 4 6 66.7 2 8 10 3 0 0 6 3 11
+p661
+aVSpeedy Claxton GSW 11/23/2003 GSW vs. POR W 41 9 4 10 40.0 0 1 0.0 1 2 50.0 2 5 7 4 2 1 2 2 12
+p662
+aVAvery Johnson GSW 11/23/2003 GSW vs. POR W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p663
+aVBrian Cardinal GSW 11/21/2003 GSW vs. MIA W 19 5 1 4 25.0 1 1 100.0 2 2 100.0 0 3 3 2 0 1 2 4 -8
+p664
+aVJason Richardson GSW 11/21/2003 GSW vs. MIA W 41 29 12 21 57.1 1 3 33.3 4 5 80.0 2 6 8 6 2 1 5 0 16
+p665
+aVCalbert Cheaney GSW 11/21/2003 GSW vs. MIA W 18 2 1 5 20.0 0 0 - 0 0 - 2 1 3 2 0 0 2 5 -6
+p666
+aVAvery Johnson GSW 11/21/2003 GSW vs. MIA W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -10
+p667
+aVSean Lampley GSW 11/21/2003 GSW vs. MIA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p668
+aVCherokee Parks GSW 11/21/2003 GSW vs. MIA W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 2 1 1 -2
+p669
+aVErick Dampier GSW 11/21/2003 GSW vs. MIA W 32 16 5 13 38.5 0 0 - 6 9 66.7 7 4 11 1 0 1 2 3 14
+p670
+aVMike Dunleavy GSW 11/21/2003 GSW vs. MIA W 38 12 4 10 40.0 2 3 66.7 2 2 100.0 2 12 14 5 0 0 2 6 5
+p671
+aVClifford Robinson GSW 11/21/2003 GSW vs. MIA W 29 21 7 13 53.8 3 5 60.0 4 6 66.7 0 2 2 2 0 3 1 2 18
+p672
+aVSpeedy Claxton GSW 11/21/2003 GSW vs. MIA W 35 12 5 9 55.6 0 0 - 2 3 66.7 1 2 3 4 1 0 2 1 22
+p673
+aVJason Richardson GSW 11/19/2003 GSW @ HOU L 43 10 4 11 36.4 0 3 0.0 2 2 100.0 0 8 8 5 1 0 0 2 -5
+p674
+aVClifford Robinson GSW 11/19/2003 GSW @ HOU L 36 23 10 20 50.0 2 5 40.0 1 2 50.0 0 3 3 5 0 1 2 2 -6
+p675
+aVErick Dampier GSW 11/19/2003 GSW @ HOU L 46 15 6 8 75.0 0 1 0.0 3 8 37.5 4 8 12 1 2 0 1 6 0
+p676
+aVSpeedy Claxton GSW 11/19/2003 GSW @ HOU L 35 10 4 10 40.0 0 1 0.0 2 4 50.0 1 2 3 8 2 0 3 4 1
+p677
+aVBrian Cardinal GSW 11/19/2003 GSW @ HOU L 14 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 2 1 1 1 2 6
+p678
+aVCalbert Cheaney GSW 11/19/2003 GSW @ HOU L 28 6 3 8 37.5 0 0 - 0 0 - 3 4 7 1 0 0 1 4 -1
+p679
+aVMike Dunleavy GSW 11/19/2003 GSW @ HOU L 26 8 3 10 30.0 0 4 0.0 2 2 100.0 0 4 4 1 0 0 2 0 -2
+p680
+aVAvery Johnson GSW 11/19/2003 GSW @ HOU L 13 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 3 0 0 0 0 -3
+p681
+aVCherokee Parks GSW 11/19/2003 GSW @ HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p682
+aVClifford Robinson GSW 11/18/2003 GSW @ SAS L 33 14 7 10 70.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 5 -11
+p683
+aVAvery Johnson GSW 11/18/2003 GSW @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 6
+p684
+aVErick Dampier GSW 11/18/2003 GSW @ SAS L 35 17 8 14 57.1 0 0 - 1 4 25.0 7 4 11 0 2 1 4 4 -7
+p685
+aVSpeedy Claxton GSW 11/18/2003 GSW @ SAS L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 4 2 0 0 2 -1
+p686
+aVJason Richardson GSW 11/18/2003 GSW @ SAS L 37 13 4 11 36.4 0 2 0.0 5 5 100.0 0 6 6 2 0 1 0 2 -10
+p687
+aVSean Lampley GSW 11/18/2003 GSW @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 6
+p688
+aVCalbert Cheaney GSW 11/18/2003 GSW @ SAS L 26 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 1 1 1 0 -15
+p689
+aVBrian Cardinal GSW 11/18/2003 GSW @ SAS L 14 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 1 -1
+p690
+aVNick Van Exel GSW 11/18/2003 GSW @ SAS L 28 12 6 13 46.2 0 1 0.0 0 1 0.0 1 3 4 4 0 0 4 1 -18
+p691
+aVMike Dunleavy GSW 11/18/2003 GSW @ SAS L 35 11 3 10 30.0 2 4 50.0 3 4 75.0 1 6 7 2 0 0 3 0 -16
+p692
+aVCherokee Parks GSW 11/18/2003 GSW @ SAS L 8 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 0 0 1 2
+p693
+aVSpeedy Claxton GSW 11/16/2003 GSW @ SAC L 31 6 3 10 30.0 0 1 0.0 0 0 - 0 3 3 7 1 0 1 4 -1
+p694
+aVErick Dampier GSW 11/16/2003 GSW @ SAC L 34 11 5 11 45.5 0 0 - 1 4 25.0 8 7 15 0 1 1 2 3 -16
+p695
+aVSean Lampley GSW 11/16/2003 GSW @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p696
+aVJason Richardson GSW 11/16/2003 GSW @ SAC L 40 31 11 21 52.4 1 3 33.3 8 12 66.7 1 7 8 3 3 1 1 2 -16
+p697
+aVCalbert Cheaney GSW 11/16/2003 GSW @ SAC L 28 8 4 8 50.0 0 0 - 0 0 - 0 3 3 3 2 0 2 3 16
+p698
+aVAvery Johnson GSW 11/16/2003 GSW @ SAC L 16 7 3 5 60.0 0 1 0.0 1 1 100.0 0 2 2 4 0 0 1 1 -2
+p699
+aVClifford Robinson GSW 11/16/2003 GSW @ SAC L 35 16 7 13 53.8 2 4 50.0 0 0 - 0 0 0 1 2 1 3 2 -3
+p700
+aVBrian Cardinal GSW 11/16/2003 GSW @ SAC L 24 11 4 6 66.7 2 2 100.0 1 2 50.0 0 2 2 1 0 0 0 3 13
+p701
+aVMike Dunleavy GSW 11/16/2003 GSW @ SAC L 30 14 6 8 75.0 2 3 66.7 0 0 - 1 1 2 2 1 1 2 5 -1
+p702
+aVJason Richardson GSW 11/14/2003 GSW vs. LAC L 37 19 8 20 40.0 1 5 20.0 2 2 100.0 2 8 10 3 1 0 2 4 -2
+p703
+aVBrian Cardinal GSW 11/14/2003 GSW vs. LAC L 31 24 10 12 83.3 1 1 100.0 3 3 100.0 2 1 3 3 0 0 1 5 2
+p704
+aVCalbert Cheaney GSW 11/14/2003 GSW vs. LAC L 30 13 4 11 36.4 0 1 0.0 5 8 62.5 6 1 7 3 1 0 3 5 1
+p705
+aVSpeedy Claxton GSW 11/14/2003 GSW vs. LAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p706
+aVNick Van Exel GSW 11/14/2003 GSW vs. LAC L 43 12 5 18 27.8 1 6 16.7 1 1 100.0 0 4 4 10 0 0 2 1 -1
+p707
+aVClifford Robinson GSW 11/14/2003 GSW vs. LAC L 17 0 0 4 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -8
+p708
+aVErick Dampier GSW 11/14/2003 GSW vs. LAC L 32 12 5 10 50.0 0 0 - 2 2 100.0 7 9 16 0 1 1 2 4 -4
+p709
+aVMike Dunleavy GSW 11/14/2003 GSW vs. LAC L 25 7 2 10 20.0 0 3 0.0 3 4 75.0 2 2 4 2 0 0 1 2 -17
+p710
+aVCherokee Parks GSW 11/14/2003 GSW vs. LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p711
+aVSean Lampley GSW 11/14/2003 GSW vs. LAC L 15 11 4 5 80.0 0 0 - 3 5 60.0 1 5 6 0 0 1 0 0 10
+p712
+aVSpeedy Claxton GSW 11/12/2003 GSW vs. DET W 15 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 4 2 0 2 3 0
+p713
+aVClifford Robinson GSW 11/12/2003 GSW vs. DET W 37 8 4 11 36.4 0 4 0.0 0 0 - 0 6 6 5 0 2 4 5 -2
+p714
+aVCherokee Parks GSW 11/12/2003 GSW vs. DET W 18 8 3 6 50.0 0 0 - 2 2 100.0 2 1 3 0 0 1 0 2 -1
+p715
+aVAvery Johnson GSW 11/12/2003 GSW vs. DET W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p716
+aVBrian Cardinal GSW 11/12/2003 GSW vs. DET W 36 13 3 6 50.0 0 1 0.0 7 7 100.0 2 3 5 0 1 0 4 4 12
+p717
+aVNick Van Exel GSW 11/12/2003 GSW vs. DET W 46 8 3 15 20.0 0 4 0.0 2 4 50.0 0 5 5 9 1 0 2 1 1
+p718
+aVMike Dunleavy GSW 11/12/2003 GSW vs. DET W 24 10 4 13 30.8 0 2 0.0 2 4 50.0 0 5 5 2 0 1 1 2 -4
+p719
+aVCalbert Cheaney GSW 11/12/2003 GSW vs. DET W 50 24 12 16 75.0 0 0 - 0 0 - 0 4 4 4 2 1 2 4 7
+p720
+aVErick Dampier GSW 11/12/2003 GSW vs. DET W 37 12 4 4 100.0 0 0 - 4 5 80.0 2 12 14 0 2 2 5 6 1
+p721
+aVBrian Cardinal GSW 11/10/2003 GSW vs. PHX L 22 17 4 7 57.1 2 3 66.7 7 7 100.0 0 4 4 1 0 2 0 5 18
+p722
+aVClifford Robinson GSW 11/10/2003 GSW vs. PHX L 31 4 2 7 28.6 0 2 0.0 0 0 - 0 4 4 1 1 4 1 2 -14
+p723
+aVJason Richardson GSW 11/10/2003 GSW vs. PHX L 39 22 7 13 53.8 1 3 33.3 7 9 77.8 1 8 9 3 1 0 2 1 -18
+p724
+aVErick Dampier GSW 11/10/2003 GSW vs. PHX L 32 9 4 8 50.0 0 0 - 1 2 50.0 3 5 8 0 0 4 2 2 -9
+p725
+aVCalbert Cheaney GSW 11/10/2003 GSW vs. PHX L 35 12 6 11 54.5 0 0 - 0 0 - 0 4 4 3 2 0 2 0 11
+p726
+aVMike Dunleavy GSW 11/10/2003 GSW vs. PHX L 34 11 5 12 41.7 1 6 16.7 0 2 0.0 3 7 10 6 1 0 3 2 -1
+p727
+aVNick Van Exel GSW 11/10/2003 GSW vs. PHX L 36 13 5 16 31.3 3 10 30.0 0 3 0.0 0 1 1 6 0 0 2 2 -10
+p728
+aVSpeedy Claxton GSW 11/10/2003 GSW vs. PHX L 11 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 8
+p729
+aVBrian Cardinal GSW 11/07/2003 GSW vs. UTA W 24 13 4 9 44.4 0 1 0.0 5 7 71.4 4 4 8 3 1 0 2 3 -1
+p730
+aVMike Dunleavy GSW 11/07/2003 GSW vs. UTA W 38 20 6 8 75.0 3 4 75.0 5 8 62.5 0 7 7 3 1 1 2 3 8
+p731
+aVJason Richardson GSW 11/07/2003 GSW vs. UTA W 33 21 6 14 42.9 2 4 50.0 7 9 77.8 2 5 7 3 1 0 2 2 7
+p732
+aVErick Dampier GSW 11/07/2003 GSW vs. UTA W 31 10 3 7 42.9 0 0 - 4 8 50.0 2 9 11 0 1 3 4 3 2
+p733
+aVClifford Robinson GSW 11/07/2003 GSW vs. UTA W 38 9 2 7 28.6 1 2 50.0 4 4 100.0 0 4 4 0 2 1 6 4 15
+p734
+aVDan Langhi GSW 11/07/2003 GSW vs. UTA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p735
+aVCalbert Cheaney GSW 11/07/2003 GSW vs. UTA W 26 6 3 8 37.5 0 0 - 0 0 - 1 0 1 2 1 0 0 2 -5
+p736
+aVNick Van Exel GSW 11/07/2003 GSW vs. UTA W 33 16 5 11 45.5 0 2 0.0 6 6 100.0 0 1 1 9 0 0 2 1 1
+p737
+aVSpeedy Claxton GSW 11/07/2003 GSW vs. UTA W 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 2 1 5
+p738
+aVNick Van Exel GSW 11/05/2003 GSW vs. ATL W 27 12 3 9 33.3 0 4 0.0 6 9 66.7 0 1 1 6 1 0 0 1 10
+p739
+aVSpeedy Claxton GSW 11/05/2003 GSW vs. ATL W 21 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 1 2 0 1 1 17
+p740
+aVClifford Robinson GSW 11/05/2003 GSW vs. ATL W 28 13 4 9 44.4 1 2 50.0 4 6 66.7 0 3 3 4 1 2 2 2 13
+p741
+aVBrian Cardinal GSW 11/05/2003 GSW vs. ATL W 18 12 4 5 80.0 2 2 100.0 2 2 100.0 1 4 5 1 2 0 0 5 17
+p742
+aVCalbert Cheaney GSW 11/05/2003 GSW vs. ATL W 32 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 4 0 0 2 2 20
+p743
+aVMike Dunleavy GSW 11/05/2003 GSW vs. ATL W 34 13 5 11 45.5 1 3 33.3 2 2 100.0 3 7 10 2 4 0 0 2 14
+p744
+aVErick Dampier GSW 11/05/2003 GSW vs. ATL W 32 11 3 11 27.3 0 0 - 5 9 55.6 9 9 18 2 0 0 3 2 10
+p745
+aVJason Richardson GSW 11/05/2003 GSW vs. ATL W 36 16 7 18 38.9 1 5 20.0 1 3 33.3 3 7 10 3 0 0 4 1 26
+p746
+aVAvery Johnson GSW 11/05/2003 GSW vs. ATL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p747
+aVDan Langhi GSW 11/05/2003 GSW vs. ATL W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 2 4 5
+p748
+aVAvery Johnson GSW 11/02/2003 GSW @ LAL L 13 2 0 2 0.0 0 0 - 2 3 66.7 0 0 0 0 1 0 1 0 -5
+p749
+aVErick Dampier GSW 11/02/2003 GSW @ LAL L 44 14 6 11 54.5 0 0 - 2 2 100.0 8 15 23 1 1 2 1 5 -18
+p750
+aVPopeye Jones GSW 11/02/2003 GSW @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p751
+aVMike Dunleavy GSW 11/02/2003 GSW @ LAL L 34 10 4 18 22.2 2 9 22.2 0 1 0.0 1 6 7 4 0 0 4 1 -8
+p752
+aVBrian Cardinal GSW 11/02/2003 GSW @ LAL L 23 7 3 5 60.0 0 1 0.0 1 2 50.0 2 4 6 0 0 1 1 3 -7
+p753
+aVDan Langhi GSW 11/02/2003 GSW @ LAL L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p754
+aVClifford Robinson GSW 11/02/2003 GSW @ LAL L 47 19 7 18 38.9 1 5 20.0 4 5 80.0 0 4 4 7 1 0 4 2 -9
+p755
+aVSpeedy Claxton GSW 11/02/2003 GSW @ LAL L 26 3 1 8 12.5 0 0 - 1 2 50.0 0 1 1 5 2 0 2 3 -12
+p756
+aVCalbert Cheaney GSW 11/02/2003 GSW @ LAL L 47 17 8 14 57.1 0 0 - 1 4 25.0 3 1 4 5 5 0 5 4 -13
+p757
+aVAdonal Foyle GSW 11/01/2003 GSW vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p758
+aVDan Langhi GSW 11/01/2003 GSW vs. PHI W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 3
+p759
+aVErick Dampier GSW 11/01/2003 GSW vs. PHI W 33 13 5 8 62.5 0 0 - 3 4 75.0 3 7 10 1 1 2 5 3 10
+p760
+aVClifford Robinson GSW 11/01/2003 GSW vs. PHI W 34 12 5 12 41.7 1 3 33.3 1 2 50.0 0 4 4 4 0 0 2 1 12
+p761
+aVPopeye Jones GSW 11/01/2003 GSW vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p762
+aVCalbert Cheaney GSW 11/01/2003 GSW vs. PHI W 48 20 10 12 83.3 0 0 - 0 0 - 0 5 5 2 2 0 4 2 14
+p763
+aVBrian Cardinal GSW 11/01/2003 GSW vs. PHI W 25 8 3 10 30.0 0 2 0.0 2 2 100.0 2 2 4 3 0 0 0 2 6
+p764
+aVAvery Johnson GSW 11/01/2003 GSW vs. PHI W 21 0 0 1 0.0 0 0 - 0 0 - 0 0 0 5 0 0 0 1 8
+p765
+aVSpeedy Claxton GSW 11/01/2003 GSW vs. PHI W 27 17 7 11 63.6 1 2 50.0 2 2 100.0 0 2 2 3 0 0 3 6 6
+p766
+aVMike Dunleavy GSW 11/01/2003 GSW vs. PHI W 45 32 11 15 73.3 3 6 50.0 7 7 100.0 2 9 11 0 1 0 4 1 18
+p767
+aVAvery Johnson GSW 10/29/2003 GSW vs. DAL L 28 12 4 11 36.4 0 0 - 4 4 100.0 0 2 2 6 2 0 1 3 -1
+p768
+aVMike Dunleavy GSW 10/29/2003 GSW vs. DAL L 38 14 6 18 33.3 2 10 20.0 0 1 0.0 0 2 2 4 0 0 2 6 -16
+p769
+aVSpeedy Claxton GSW 10/29/2003 GSW vs. DAL L 20 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 3 3 -7
+p770
+aVClifford Robinson GSW 10/29/2003 GSW vs. DAL L 46 18 8 20 40.0 2 6 33.3 0 1 0.0 4 8 12 3 0 0 1 2 -4
+p771
+aVCalbert Cheaney GSW 10/29/2003 GSW vs. DAL L 46 14 7 16 43.8 0 2 0.0 0 1 0.0 2 8 10 1 2 0 2 3 -10
+p772
+aVMickael Pietrus GSW 10/29/2003 GSW vs. DAL L 15 5 1 4 25.0 1 2 50.0 2 2 100.0 1 5 6 2 1 0 1 3 8
+p773
+aVErick Dampier GSW 10/29/2003 GSW vs. DAL L 34 14 7 15 46.7 0 0 - 0 4 0.0 8 9 17 1 0 3 3 3 -12
+p774
+aVBrian Cardinal GSW 10/29/2003 GSW vs. DAL L 13 8 2 5 40.0 0 1 0.0 4 4 100.0 0 1 1 0 0 0 1 4 2
+p775
+a.

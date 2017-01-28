@@ -1,0 +1,100 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRodney Rogers PHI 05/03/2005 PHI @ DET L 16 3 1 2 50.0 0 1 0.0 1 3 33.3 0 0 0 0 0 0 0 2 -7
+p2
+aVSamuel Dalembert PHI 05/03/2005 PHI @ DET L 33 11 5 7 71.4 0 0 - 1 3 33.3 1 9 10 0 0 0 2 5 -5
+p3
+aVWillie Green PHI 05/03/2005 PHI @ DET L 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p4
+aVChris Webber PHI 05/03/2005 PHI @ DET L 41 11 4 16 25.0 0 4 0.0 3 6 50.0 3 5 8 3 0 0 3 4 -8
+p5
+aVKyle Korver PHI 05/03/2005 PHI @ DET L 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 1 1 1 3 2
+p6
+aVAndre Iguodala PHI 05/03/2005 PHI @ DET L 39 9 4 8 50.0 0 2 0.0 1 2 50.0 3 6 9 2 2 2 1 5 -9
+p7
+aVMarc Jackson PHI 05/03/2005 PHI @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 2 0 0
+p8
+aVAaron McKie PHI 05/03/2005 PHI @ DET L 30 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 1 -9
+p9
+aVAllen Iverson PHI 05/03/2005 PHI @ DET L 48 34 14 30 46.7 1 5 20.0 5 6 83.3 0 1 1 7 0 0 4 3 -8
+p10
+aVChris Webber PHI 05/01/2005 PHI vs. DET L 45 23 10 22 45.5 1 3 33.3 2 2 100.0 3 5 8 4 3 1 4 5 2
+p11
+aVSamuel Dalembert PHI 05/01/2005 PHI vs. DET L 42 9 3 7 42.9 0 0 - 3 4 75.0 6 9 15 0 0 1 4 5 3
+p12
+aVAaron McKie PHI 05/01/2005 PHI vs. DET L 15 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 5 11
+p13
+aVRodney Rogers PHI 05/01/2005 PHI vs. DET L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 1 1 -8
+p14
+aVKyle Korver PHI 05/01/2005 PHI vs. DET L 23 3 1 8 12.5 1 7 14.3 0 0 - 0 1 1 2 0 0 0 3 0
+p15
+aVWillie Green PHI 05/01/2005 PHI vs. DET L 23 8 3 7 42.9 1 4 25.0 1 2 50.0 2 2 4 1 1 0 1 2 -10
+p16
+aVAndre Iguodala PHI 05/01/2005 PHI vs. DET L 46 11 5 14 35.7 1 2 50.0 0 0 - 0 3 3 4 4 0 2 0 -11
+p17
+aVAllen Iverson PHI 05/01/2005 PHI vs. DET L 53 36 14 24 58.3 4 7 57.1 4 4 100.0 0 5 5 8 1 1 3 2 -5
+p18
+aVMarc Jackson PHI 05/01/2005 PHI vs. DET L 9 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 0 -7
+p19
+aVAllen Iverson PHI 04/29/2005 PHI vs. DET W 48 37 15 26 57.7 2 4 50.0 5 6 83.3 0 3 3 15 2 0 3 2 11
+p20
+aVMarc Jackson PHI 04/29/2005 PHI vs. DET W 12 6 2 2 100.0 0 0 - 2 3 66.7 1 1 2 0 0 0 1 4 10
+p21
+aVAaron McKie PHI 04/29/2005 PHI vs. DET W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -1
+p22
+aVKyle Korver PHI 04/29/2005 PHI vs. DET W 33 9 3 4 75.0 3 4 75.0 0 0 - 0 0 0 2 0 0 1 5 4
+p23
+aVSamuel Dalembert PHI 04/29/2005 PHI vs. DET W 35 14 6 9 66.7 0 0 - 2 6 33.3 4 6 10 1 1 3 1 4 -2
+p24
+aVAndre Iguodala PHI 04/29/2005 PHI vs. DET W 33 13 4 6 66.7 2 3 66.7 3 4 75.0 2 1 3 2 5 0 1 2 12
+p25
+aVChris Webber PHI 04/29/2005 PHI vs. DET W 31 19 7 19 36.8 1 2 50.0 4 4 100.0 3 3 6 2 1 0 0 5 -1
+p26
+aVRodney Rogers PHI 04/29/2005 PHI vs. DET W 18 15 5 8 62.5 3 5 60.0 2 2 100.0 0 2 2 1 0 1 0 0 15
+p27
+aVWillie Green PHI 04/29/2005 PHI vs. DET W 21 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 1 7
+p28
+aVChris Webber PHI 04/26/2005 PHI @ DET L 32 15 7 18 38.9 0 0 - 1 2 50.0 2 2 4 2 1 0 2 4 -15
+p29
+aVKyle Korver PHI 04/26/2005 PHI @ DET L 38 8 2 9 22.2 2 8 25.0 2 2 100.0 2 5 7 2 3 0 4 4 -7
+p30
+aVWillie Green PHI 04/26/2005 PHI @ DET L 8 11 2 4 50.0 1 3 33.3 6 6 100.0 0 1 1 1 0 0 1 1 3
+p31
+aVAaron McKie PHI 04/26/2005 PHI @ DET L 18 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 2 2 0 0 2 -16
+p32
+aVAllen Iverson PHI 04/26/2005 PHI @ DET L 42 19 7 24 29.2 1 5 20.0 4 5 80.0 0 1 1 10 3 0 4 3 -22
+p33
+aVJohn Salmons PHI 04/26/2005 PHI @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p34
+aVAndre Iguodala PHI 04/26/2005 PHI @ DET L 35 6 3 6 50.0 0 0 - 0 0 - 2 2 4 3 1 2 0 1 -7
+p35
+aVSamuel Dalembert PHI 04/26/2005 PHI @ DET L 40 14 7 14 50.0 0 0 - 0 2 0.0 2 9 11 0 1 0 1 2 -14
+p36
+aVMarc Jackson PHI 04/26/2005 PHI @ DET L 21 9 3 9 33.3 0 0 - 3 4 75.0 1 2 3 0 1 1 0 3 -5
+p37
+aVJosh Davis PHI 04/26/2005 PHI @ DET L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 4
+p38
+aVRodney Rogers PHI 04/23/2005 PHI @ DET L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 0
+p39
+aVAllen Iverson PHI 04/23/2005 PHI @ DET L 47 30 9 22 40.9 4 8 50.0 8 8 100.0 0 1 1 10 4 1 7 2 -23
+p40
+aVKyle Korver PHI 04/23/2005 PHI @ DET L 35 2 1 4 25.0 0 3 0.0 0 0 - 1 3 4 1 0 0 2 3 -18
+p41
+aVAndre Iguodala PHI 04/23/2005 PHI @ DET L 40 10 4 9 44.4 0 2 0.0 2 6 33.3 1 3 4 4 2 1 1 4 -10
+p42
+aVAaron McKie PHI 04/23/2005 PHI @ DET L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -16
+p43
+aVJosh Davis PHI 04/23/2005 PHI @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p44
+aVJohn Salmons PHI 04/23/2005 PHI @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p45
+aVMarc Jackson PHI 04/23/2005 PHI @ DET L 16 2 0 6 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 2 2 -13
+p46
+aVSamuel Dalembert PHI 04/23/2005 PHI @ DET L 42 10 5 10 50.0 0 0 - 0 0 - 5 13 18 1 0 3 1 3 -14
+p47
+aVWillie Green PHI 04/23/2005 PHI @ DET L 2 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p48
+aVChris Webber PHI 04/23/2005 PHI @ DET L 36 27 11 20 55.0 3 5 60.0 2 2 100.0 1 2 3 3 1 0 2 2 -15
+p49
+a.

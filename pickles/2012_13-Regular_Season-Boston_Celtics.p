@@ -1,0 +1,1660 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCourtney Lee BOS 04/17/2013 BOS @ TOR L 30 8 3 10 30.0 2 5 40.0 0 0 - 1 4 5 1 1 1 1 4 -16
+p2
+aVChris Wilcox BOS 04/17/2013 BOS @ TOR L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -13
+p3
+aVDJ White BOS 04/17/2013 BOS @ TOR L 28 8 2 7 28.6 0 0 - 4 4 100.0 2 1 3 1 1 0 0 2 -11
+p4
+aVPaul Pierce BOS 04/17/2013 BOS @ TOR L 14 11 5 7 71.4 1 2 50.0 0 1 0.0 0 1 1 1 1 0 0 1 -7
+p5
+aVJordan Crawford BOS 04/17/2013 BOS @ TOR L 36 16 6 14 42.9 2 6 33.3 2 2 100.0 2 4 6 5 1 0 2 2 -11
+p6
+aVTerrence Williams BOS 04/17/2013 BOS @ TOR L 28 12 6 14 42.9 0 2 0.0 0 2 0.0 0 4 4 5 1 1 1 1 -10
+p7
+aVJeff Green BOS 04/17/2013 BOS @ TOR L 17 9 4 7 57.1 1 1 100.0 0 0 - 1 5 6 2 0 0 3 2 -14
+p8
+aVShavlik Randolph BOS 04/17/2013 BOS @ TOR L 13 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 1 -5
+p9
+aVBrandon Bass BOS 04/17/2013 BOS @ TOR L 18 6 3 8 37.5 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -12
+p10
+aVFab Melo BOS 04/17/2013 BOS @ TOR L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 4 -5
+p11
+aVAvery Bradley BOS 04/17/2013 BOS @ TOR L 24 11 4 10 40.0 1 1 100.0 2 2 100.0 0 3 3 3 1 0 3 1 -16
+p12
+aVKevin Garnett BOS 04/13/2013 BOS @ ORL W 19 14 7 8 87.5 0 0 - 0 0 - 0 9 9 3 1 0 1 1 27
+p13
+aVChris Wilcox BOS 04/13/2013 BOS @ ORL W 19 4 2 2 100.0 0 0 - 0 0 - 0 6 6 0 0 1 1 2 11
+p14
+aVCourtney Lee BOS 04/13/2013 BOS @ ORL W 29 20 7 10 70.0 3 3 100.0 3 4 75.0 0 2 2 4 2 0 1 1 19
+p15
+aVAvery Bradley BOS 04/13/2013 BOS @ ORL W 27 14 5 9 55.6 2 3 66.7 2 2 100.0 0 1 1 1 1 0 4 2 14
+p16
+aVDJ White BOS 04/13/2013 BOS @ ORL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p17
+aVJeff Green BOS 04/13/2013 BOS @ ORL W 37 17 6 17 35.3 2 3 66.7 3 5 60.0 2 4 6 3 2 0 2 0 19
+p18
+aVPaul Pierce BOS 04/13/2013 BOS @ ORL W 27 12 4 12 33.3 1 5 20.0 3 5 60.0 1 5 6 8 1 0 2 1 25
+p19
+aVBrandon Bass BOS 04/13/2013 BOS @ ORL W 32 14 6 7 85.7 0 0 - 2 2 100.0 3 2 5 1 0 3 1 4 15
+p20
+aVTerrence Williams BOS 04/13/2013 BOS @ ORL W 15 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 4 2 0 0 1 13
+p21
+aVShavlik Randolph BOS 04/13/2013 BOS @ ORL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -7
+p22
+aVJordan Crawford BOS 04/13/2013 BOS @ ORL W 28 16 7 10 70.0 2 2 100.0 0 0 - 1 2 3 3 0 0 0 1 22
+p23
+aVChris Wilcox BOS 04/12/2013 BOS @ MIA L 11 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 1 0 1 10
+p24
+aVJeff Green BOS 04/12/2013 BOS @ MIA L 36 25 10 17 58.8 1 6 16.7 4 4 100.0 0 8 8 2 0 0 0 1 -10
+p25
+aVJason Terry BOS 04/12/2013 BOS @ MIA L 28 6 3 9 33.3 0 3 0.0 0 0 - 1 0 1 3 2 0 4 2 -6
+p26
+aVDJ White BOS 04/12/2013 BOS @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p27
+aVTerrence Williams BOS 04/12/2013 BOS @ MIA L 17 6 3 8 37.5 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -2
+p28
+aVAvery Bradley BOS 04/12/2013 BOS @ MIA L 34 7 3 9 33.3 1 3 33.3 0 0 - 1 0 1 2 4 0 1 2 -8
+p29
+aVShavlik Randolph BOS 04/12/2013 BOS @ MIA L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 3 -4
+p30
+aVJordan Crawford BOS 04/12/2013 BOS @ MIA L 36 20 7 15 46.7 2 5 40.0 4 4 100.0 1 3 4 2 2 0 4 1 -9
+p31
+aVCourtney Lee BOS 04/12/2013 BOS @ MIA L 32 18 8 16 50.0 2 6 33.3 0 0 - 1 2 3 2 1 0 0 4 -10
+p32
+aVBrandon Bass BOS 04/12/2013 BOS @ MIA L 34 17 6 9 66.7 0 0 - 5 5 100.0 3 6 9 1 0 0 2 3 -5
+p33
+aVKevin Garnett BOS 04/10/2013 BOS vs. BKN L 28 11 5 11 45.5 0 0 - 1 1 100.0 2 6 8 4 1 0 3 1 -2
+p34
+aVShavlik Randolph BOS 04/10/2013 BOS vs. BKN L 16 2 1 2 50.0 0 0 - 0 0 - 3 6 9 1 0 0 2 1 6
+p35
+aVDJ White BOS 04/10/2013 BOS vs. BKN L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 11
+p36
+aVChris Wilcox BOS 04/10/2013 BOS vs. BKN L 6 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -2
+p37
+aVJordan Crawford BOS 04/10/2013 BOS vs. BKN L 20 7 3 5 60.0 0 1 0.0 1 2 50.0 1 2 3 4 0 0 1 2 7
+p38
+aVBrandon Bass BOS 04/10/2013 BOS vs. BKN L 26 10 5 11 45.5 0 0 - 0 0 - 1 2 3 1 0 1 0 1 -24
+p39
+aVCourtney Lee BOS 04/10/2013 BOS vs. BKN L 26 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 3 1 0 0 1 -2
+p40
+aVJason Terry BOS 04/10/2013 BOS vs. BKN L 25 4 1 7 14.3 0 3 0.0 2 2 100.0 0 3 3 1 1 1 0 3 -5
+p41
+aVAvery Bradley BOS 04/10/2013 BOS vs. BKN L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 0 5 -2
+p42
+aVTerrence Williams BOS 04/10/2013 BOS vs. BKN L 10 8 3 4 75.0 0 1 0.0 2 4 50.0 0 1 1 0 0 0 1 1 2
+p43
+aVPaul Pierce BOS 04/10/2013 BOS vs. BKN L 33 23 7 11 63.6 3 5 60.0 6 7 85.7 0 3 3 3 0 0 3 3 -8
+p44
+aVJeff Green BOS 04/10/2013 BOS vs. BKN L 35 11 4 17 23.5 2 4 50.0 1 1 100.0 1 3 4 2 0 0 2 2 -21
+p45
+aVCourtney Lee BOS 04/07/2013 BOS vs. WAS W 18 6 1 4 25.0 0 0 - 4 4 100.0 0 2 2 5 0 0 2 2 5
+p46
+aVShavlik Randolph BOS 04/07/2013 BOS vs. WAS W 15 8 2 2 100.0 0 0 - 4 7 57.1 2 5 7 0 1 0 0 1 10
+p47
+aVChris Wilcox BOS 04/07/2013 BOS vs. WAS W 20 13 6 7 85.7 0 0 - 1 2 50.0 1 4 5 2 2 0 2 2 -3
+p48
+aVKevin Garnett BOS 04/07/2013 BOS vs. WAS W 24 12 6 9 66.7 0 0 - 0 0 - 0 6 6 3 2 1 0 0 8
+p49
+aVTerrence Williams BOS 04/07/2013 BOS vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p50
+aVJason Terry BOS 04/07/2013 BOS vs. WAS W 23 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 5 0 0 2 2 7
+p51
+aVPaul Pierce BOS 04/07/2013 BOS vs. WAS W 30 15 5 13 38.5 3 6 50.0 2 2 100.0 1 3 4 5 0 0 1 2 15
+p52
+aVBrandon Bass BOS 04/07/2013 BOS vs. WAS W 36 20 9 12 75.0 0 0 - 2 2 100.0 2 4 6 1 1 1 0 1 7
+p53
+aVJeff Green BOS 04/07/2013 BOS vs. WAS W 27 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 0 2 0 4 4 2
+p54
+aVAvery Bradley BOS 04/07/2013 BOS vs. WAS W 30 10 5 13 38.5 0 2 0.0 0 0 - 0 2 2 3 1 0 0 2 4
+p55
+aVJordan Crawford BOS 04/07/2013 BOS vs. WAS W 16 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 2 2 0 3 3 0
+p56
+aVJordan Crawford BOS 04/05/2013 BOS vs. CLE L 29 7 3 14 21.4 1 4 25.0 0 2 0.0 2 2 4 5 1 0 0 2 6
+p57
+aVShavlik Randolph BOS 04/05/2013 BOS vs. CLE L 13 16 6 9 66.7 0 0 - 4 5 80.0 4 3 7 0 1 0 1 6 10
+p58
+aVTerrence Williams BOS 04/05/2013 BOS vs. CLE L 31 9 4 9 44.4 0 2 0.0 1 2 50.0 1 5 6 1 1 1 3 1 -13
+p59
+aVJeff Green BOS 04/05/2013 BOS vs. CLE L 33 23 8 13 61.5 1 1 100.0 6 8 75.0 1 8 9 4 0 0 2 4 -7
+p60
+aVBrandon Bass BOS 04/05/2013 BOS vs. CLE L 39 14 7 14 50.0 0 0 - 0 1 0.0 1 6 7 1 0 2 1 2 -3
+p61
+aVJason Terry BOS 04/05/2013 BOS vs. CLE L 27 8 3 10 30.0 2 7 28.6 0 0 - 0 3 3 4 1 0 0 2 7
+p62
+aVAvery Bradley BOS 04/05/2013 BOS vs. CLE L 27 10 3 12 25.0 2 8 25.0 2 4 50.0 0 0 0 3 1 1 2 3 -8
+p63
+aVCourtney Lee BOS 04/05/2013 BOS vs. CLE L 19 2 1 5 20.0 0 0 - 0 0 - 0 2 2 3 1 1 1 1 -11
+p64
+aVChris Wilcox BOS 04/05/2013 BOS vs. CLE L 22 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 1 2 1 3 -11
+p65
+aVChris Wilcox BOS 04/03/2013 BOS vs. DET W 20 2 1 2 50.0 0 0 - 0 0 - 1 4 5 2 1 1 0 4 -6
+p66
+aVPaul Pierce BOS 04/03/2013 BOS vs. DET W 33 17 5 14 35.7 1 6 16.7 6 6 100.0 0 3 3 5 1 0 2 5 8
+p67
+aVShavlik Randolph BOS 04/03/2013 BOS vs. DET W 13 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 3
+p68
+aVBrandon Bass BOS 04/03/2013 BOS vs. DET W 37 17 6 8 75.0 0 0 - 5 6 83.3 0 7 7 1 0 3 4 3 7
+p69
+aVCourtney Lee BOS 04/03/2013 BOS vs. DET W 13 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 -2
+p70
+aVJason Terry BOS 04/03/2013 BOS vs. DET W 22 10 3 8 37.5 2 6 33.3 2 2 100.0 0 5 5 2 1 0 1 1 1
+p71
+aVTerrence Williams BOS 04/03/2013 BOS vs. DET W 13 2 1 2 50.0 0 0 - 0 0 - 0 4 4 3 2 0 1 1 3
+p72
+aVJeff Green BOS 04/03/2013 BOS vs. DET W 43 34 13 19 68.4 3 4 75.0 5 7 71.4 2 4 6 1 1 4 3 5 5
+p73
+aVAvery Bradley BOS 04/03/2013 BOS vs. DET W 33 11 5 8 62.5 1 1 100.0 0 0 - 0 0 0 3 1 0 1 3 0
+p74
+aVJordan Crawford BOS 04/03/2013 BOS vs. DET W 12 3 1 5 20.0 0 1 0.0 1 1 100.0 0 1 1 3 0 0 1 2 6
+p75
+aVShavlik Randolph BOS 04/01/2013 BOS @ MIN L 21 8 4 5 80.0 0 0 - 0 2 0.0 1 1 2 1 0 2 2 5 -1
+p76
+aVAvery Bradley BOS 04/01/2013 BOS @ MIN L 30 19 8 14 57.1 1 5 20.0 2 2 100.0 0 0 0 2 0 0 2 4 -17
+p77
+aVBrandon Bass BOS 04/01/2013 BOS @ MIN L 33 13 5 13 38.5 0 0 - 3 4 75.0 2 4 6 2 0 1 1 1 -15
+p78
+aVCourtney Lee BOS 04/01/2013 BOS @ MIN L 25 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 1 0 0 3 3 -15
+p79
+aVJeff Green BOS 04/01/2013 BOS @ MIN L 38 10 5 10 50.0 0 0 - 0 0 - 1 6 7 5 0 0 5 2 -9
+p80
+aVJason Terry BOS 04/01/2013 BOS @ MIN L 26 14 4 8 50.0 2 3 66.7 4 4 100.0 0 2 2 3 2 0 2 0 0
+p81
+aVDJ White BOS 04/01/2013 BOS @ MIN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p82
+aVJordan Crawford BOS 04/01/2013 BOS @ MIN L 28 11 5 11 45.5 1 3 33.3 0 0 - 1 5 6 5 0 0 2 2 1
+p83
+aVTerrence Williams BOS 04/01/2013 BOS @ MIN L 22 14 6 10 60.0 2 3 66.7 0 2 0.0 1 5 6 5 1 0 0 0 7
+p84
+aVChris Wilcox BOS 04/01/2013 BOS @ MIN L 12 4 2 2 100.0 0 0 - 0 0 - 1 5 6 1 1 0 0 4 -4
+p85
+aVDJ White BOS 03/31/2013 BOS @ NYK L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p86
+aVJeff Green BOS 03/31/2013 BOS @ NYK L 35 27 10 14 71.4 2 5 40.0 5 8 62.5 1 3 4 1 0 0 1 4 -14
+p87
+aVPaul Pierce BOS 03/31/2013 BOS @ NYK L 32 24 6 16 37.5 4 7 57.1 8 10 80.0 3 12 15 5 0 0 2 2 -11
+p88
+aVAvery Bradley BOS 03/31/2013 BOS @ NYK L 24 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 6 5
+p89
+aVShavlik Randolph BOS 03/31/2013 BOS @ NYK L 14 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -14
+p90
+aVTerrence Williams BOS 03/31/2013 BOS @ NYK L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 0 -7
+p91
+aVJason Terry BOS 03/31/2013 BOS @ NYK L 21 8 3 7 42.9 1 5 20.0 1 1 100.0 0 1 1 0 0 0 1 0 -11
+p92
+aVCourtney Lee BOS 03/31/2013 BOS @ NYK L 28 10 5 11 45.5 0 2 0.0 0 0 - 2 2 4 0 0 1 1 2 -17
+p93
+aVJordan Crawford BOS 03/31/2013 BOS @ NYK L 25 10 3 10 30.0 0 3 0.0 4 4 100.0 1 1 2 2 0 0 2 1 -23
+p94
+aVChris Wilcox BOS 03/31/2013 BOS @ NYK L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -11
+p95
+aVBrandon Bass BOS 03/31/2013 BOS @ NYK L 22 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 0 1 1 3 5
+p96
+aVAvery Bradley BOS 03/29/2013 BOS vs. ATL W 26 8 3 7 42.9 0 1 0.0 2 2 100.0 0 0 0 4 4 1 2 2 7
+p97
+aVJason Terry BOS 03/29/2013 BOS vs. ATL W 31 24 7 10 70.0 5 7 71.4 5 6 83.3 0 1 1 1 0 0 1 1 5
+p98
+aVCourtney Lee BOS 03/29/2013 BOS vs. ATL W 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 1 0 -12
+p99
+aVChris Wilcox BOS 03/29/2013 BOS vs. ATL W 13 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 1 0 2 4 0
+p100
+aVTerrence Williams BOS 03/29/2013 BOS vs. ATL W 15 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 10
+p101
+aVBrandon Bass BOS 03/29/2013 BOS vs. ATL W 30 13 5 7 71.4 0 0 - 3 3 100.0 1 1 2 1 0 3 2 2 5
+p102
+aVJeff Green BOS 03/29/2013 BOS vs. ATL W 38 27 11 20 55.0 3 5 60.0 2 3 66.7 1 3 4 4 2 1 1 2 -2
+p103
+aVJordan Crawford BOS 03/29/2013 BOS vs. ATL W 21 5 2 8 25.0 1 2 50.0 0 0 - 0 2 2 4 0 0 2 0 2
+p104
+aVPaul Pierce BOS 03/29/2013 BOS vs. ATL W 38 20 8 18 44.4 2 8 25.0 2 3 66.7 0 10 10 10 1 1 1 3 28
+p105
+aVShavlik Randolph BOS 03/29/2013 BOS vs. ATL W 22 9 4 6 66.7 0 0 - 1 2 50.0 7 6 13 1 0 2 0 5 12
+p106
+aVAvery Bradley BOS 03/27/2013 BOS @ CLE W 36 3 1 7 14.3 1 3 33.3 0 0 - 0 2 2 3 2 0 1 3 1
+p107
+aVTerrence Williams BOS 03/27/2013 BOS @ CLE W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 2 0 -8
+p108
+aVBrandon Bass BOS 03/27/2013 BOS @ CLE W 37 22 8 14 57.1 0 0 - 6 7 85.7 0 5 5 2 0 0 0 2 0
+p109
+aVChris Wilcox BOS 03/27/2013 BOS @ CLE W 21 6 2 3 66.7 0 0 - 2 4 50.0 2 4 6 1 1 1 0 2 -5
+p110
+aVJeff Green BOS 03/27/2013 BOS @ CLE W 41 21 7 18 38.9 2 2 100.0 5 8 62.5 0 7 7 5 2 1 2 3 1
+p111
+aVShavlik Randolph BOS 03/27/2013 BOS @ CLE W 9 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 2 0 1 1 -4
+p112
+aVJason Terry BOS 03/27/2013 BOS @ CLE W 21 5 2 7 28.6 1 4 25.0 0 0 - 0 3 3 2 0 0 1 0 5
+p113
+aVPaul Pierce BOS 03/27/2013 BOS @ CLE W 36 19 7 16 43.8 1 5 20.0 4 4 100.0 0 10 10 8 1 2 7 3 4
+p114
+aVJordan Crawford BOS 03/27/2013 BOS @ CLE W 26 12 5 8 62.5 0 0 - 2 3 66.7 0 1 1 4 2 0 1 1 11
+p115
+aVAvery Bradley BOS 03/26/2013 BOS vs. NYK L 34 6 3 11 27.3 0 2 0.0 0 0 - 2 1 3 0 0 0 1 2 -14
+p116
+aVDJ White BOS 03/26/2013 BOS vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p117
+aVJordan Crawford BOS 03/26/2013 BOS vs. NYK L 41 14 5 11 45.5 2 6 33.3 2 2 100.0 0 4 4 6 1 0 6 3 -11
+p118
+aVPaul Pierce BOS 03/26/2013 BOS vs. NYK L 36 16 5 10 50.0 1 4 25.0 5 7 71.4 0 6 6 6 1 1 6 3 -14
+p119
+aVJason Terry BOS 03/26/2013 BOS vs. NYK L 22 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 0 1 0 1 1 -18
+p120
+aVJeff Green BOS 03/26/2013 BOS vs. NYK L 39 19 6 14 42.9 1 4 25.0 6 6 100.0 1 9 10 6 1 1 2 4 -3
+p121
+aVShavlik Randolph BOS 03/26/2013 BOS vs. NYK L 5 2 1 1 100.0 0 0 - 0 2 0.0 1 3 4 0 1 0 0 1 0
+p122
+aVBrandon Bass BOS 03/26/2013 BOS vs. NYK L 28 11 5 6 83.3 0 0 - 1 1 100.0 2 5 7 1 0 3 3 0 -8
+p123
+aVChris Wilcox BOS 03/26/2013 BOS vs. NYK L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 1
+p124
+aVTerrence Williams BOS 03/26/2013 BOS vs. NYK L 23 7 2 7 28.6 0 0 - 3 4 75.0 1 4 5 1 1 0 0 1 -8
+p125
+aVJeff Green BOS 03/23/2013 BOS @ MEM L 45 12 4 10 40.0 1 4 25.0 3 4 75.0 0 5 5 4 1 2 2 2 -7
+p126
+aVJason Terry BOS 03/23/2013 BOS @ MEM L 28 10 2 8 25.0 1 5 20.0 5 6 83.3 0 2 2 1 0 0 0 0 -13
+p127
+aVAvery Bradley BOS 03/23/2013 BOS @ MEM L 25 8 3 8 37.5 0 0 - 2 2 100.0 0 2 2 0 0 1 3 1 -14
+p128
+aVDJ White BOS 03/23/2013 BOS @ MEM L 7 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 4 0 0 14
+p129
+aVShavlik Randolph BOS 03/23/2013 BOS @ MEM L 9 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 0 0 1 0 2 11
+p130
+aVChris Wilcox BOS 03/23/2013 BOS @ MEM L 14 8 4 4 100.0 0 0 - 0 0 - 0 3 3 1 1 0 0 4 -11
+p131
+aVPaul Pierce BOS 03/23/2013 BOS @ MEM L 32 26 10 17 58.8 4 6 66.7 2 4 50.0 1 5 6 4 1 0 5 5 -7
+p132
+aVJordan Crawford BOS 03/23/2013 BOS @ MEM L 27 21 5 13 38.5 2 4 50.0 9 10 90.0 3 2 5 3 0 0 1 3 1
+p133
+aVBrandon Bass BOS 03/23/2013 BOS @ MEM L 30 6 3 6 50.0 0 0 - 0 0 - 1 5 6 3 1 1 2 3 8
+p134
+aVTerrence Williams BOS 03/23/2013 BOS @ MEM L 22 9 4 4 100.0 1 1 100.0 0 0 - 0 2 2 2 1 0 1 1 -2
+p135
+aVTerrence Williams BOS 03/22/2013 BOS @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p136
+aVPaul Pierce BOS 03/22/2013 BOS @ DAL L 35 16 5 9 55.6 2 3 66.7 4 5 80.0 0 5 5 3 1 0 2 3 -11
+p137
+aVKevin Garnett BOS 03/22/2013 BOS @ DAL L 29 16 5 10 50.0 0 0 - 6 6 100.0 2 10 12 5 1 1 2 4 6
+p138
+aVJason Terry BOS 03/22/2013 BOS @ DAL L 22 8 3 9 33.3 0 2 0.0 2 2 100.0 0 1 1 0 1 1 3 3 -6
+p139
+aVAvery Bradley BOS 03/22/2013 BOS @ DAL L 31 9 4 12 33.3 1 3 33.3 0 0 - 0 2 2 3 0 1 1 4 -7
+p140
+aVCourtney Lee BOS 03/22/2013 BOS @ DAL L 27 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 1 -1
+p141
+aVJeff Green BOS 03/22/2013 BOS @ DAL L 30 10 5 11 45.5 0 2 0.0 0 0 - 0 3 3 4 0 1 5 5 -8
+p142
+aVChris Wilcox BOS 03/22/2013 BOS @ DAL L 16 5 1 1 100.0 0 0 - 3 4 75.0 1 0 1 0 2 0 0 3 -14
+p143
+aVJordan Crawford BOS 03/22/2013 BOS @ DAL L 16 9 3 11 27.3 1 5 20.0 2 2 100.0 0 1 1 1 1 0 0 3 -2
+p144
+aVBrandon Bass BOS 03/22/2013 BOS @ DAL L 34 16 4 9 44.4 0 0 - 8 8 100.0 7 4 11 3 1 1 1 0 -9
+p145
+aVAvery Bradley BOS 03/20/2013 BOS @ NOH L 35 5 2 10 20.0 0 5 0.0 1 2 50.0 1 4 5 4 5 1 2 3 7
+p146
+aVPaul Pierce BOS 03/20/2013 BOS @ NOH L 33 28 9 17 52.9 2 3 66.7 8 8 100.0 0 2 2 5 1 2 3 2 12
+p147
+aVJason Terry BOS 03/20/2013 BOS @ NOH L 20 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 4 0 0 2 3 -6
+p148
+aVKevin Garnett BOS 03/20/2013 BOS @ NOH L 29 20 9 16 56.3 0 0 - 2 2 100.0 1 5 6 3 3 0 0 2 -3
+p149
+aVCourtney Lee BOS 03/20/2013 BOS @ NOH L 37 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 2 0 0 1 -11
+p150
+aVBrandon Bass BOS 03/20/2013 BOS @ NOH L 31 11 5 8 62.5 0 0 - 1 1 100.0 2 4 6 2 1 1 2 3 20
+p151
+aVChris Wilcox BOS 03/20/2013 BOS @ NOH L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p152
+aVJordan Crawford BOS 03/20/2013 BOS @ NOH L 22 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 1 0 0 3 0 -5
+p153
+aVJeff Green BOS 03/20/2013 BOS @ NOH L 26 13 4 8 50.0 1 1 100.0 4 4 100.0 0 2 2 0 1 2 1 3 -12
+p154
+aVJeff Green BOS 03/18/2013 BOS vs. MIA L 40 43 14 21 66.7 5 7 71.4 10 13 76.9 1 6 7 2 2 4 2 2 3
+p155
+aVJordan Crawford BOS 03/18/2013 BOS vs. MIA L 17 8 3 7 42.9 1 4 25.0 1 4 25.0 0 1 1 3 0 1 2 2 4
+p156
+aVJason Terry BOS 03/18/2013 BOS vs. MIA L 24 9 4 6 66.7 0 1 0.0 1 1 100.0 0 2 2 4 2 0 4 5 4
+p157
+aVBrandon Bass BOS 03/18/2013 BOS vs. MIA L 30 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 1 0 1 4 -8
+p158
+aVChris Wilcox BOS 03/18/2013 BOS vs. MIA L 18 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 4 6
+p159
+aVAvery Bradley BOS 03/18/2013 BOS vs. MIA L 31 7 3 11 27.3 1 2 50.0 0 0 - 1 2 3 2 0 1 4 3 -6
+p160
+aVPaul Pierce BOS 03/18/2013 BOS vs. MIA L 40 17 6 11 54.5 2 5 40.0 3 6 50.0 1 7 8 8 1 1 7 2 -9
+p161
+aVCourtney Lee BOS 03/18/2013 BOS vs. MIA L 40 13 6 10 60.0 1 2 50.0 0 0 - 0 3 3 4 3 0 0 4 -4
+p162
+aVBrandon Bass BOS 03/16/2013 BOS vs. CHA W 31 10 5 9 55.6 0 0 - 0 0 - 0 6 6 0 0 0 1 2 17
+p163
+aVJeff Green BOS 03/16/2013 BOS vs. CHA W 31 10 5 9 55.6 0 1 0.0 0 0 - 1 4 5 4 0 0 2 0 18
+p164
+aVDJ White BOS 03/16/2013 BOS vs. CHA W 5 6 3 4 75.0 0 0 - 0 3 0.0 0 0 0 1 0 0 0 2 5
+p165
+aVShavlik Randolph BOS 03/16/2013 BOS vs. CHA W 15 6 3 9 33.3 0 0 - 0 1 0.0 4 4 8 0 2 0 1 3 -6
+p166
+aVTerrence Williams BOS 03/16/2013 BOS vs. CHA W 11 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -3
+p167
+aVAvery Bradley BOS 03/16/2013 BOS vs. CHA W 25 13 4 12 33.3 1 2 50.0 4 4 100.0 0 2 2 2 1 0 2 4 17
+p168
+aVCourtney Lee BOS 03/16/2013 BOS vs. CHA W 33 12 5 7 71.4 2 2 100.0 0 0 - 2 3 5 4 1 3 0 1 20
+p169
+aVJordan Crawford BOS 03/16/2013 BOS vs. CHA W 20 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 3 0 0 3 2 1
+p170
+aVPaul Pierce BOS 03/16/2013 BOS vs. CHA W 23 14 4 7 57.1 2 3 66.7 4 5 80.0 1 5 6 8 0 3 3 2 16
+p171
+aVChris Wilcox BOS 03/16/2013 BOS vs. CHA W 23 6 2 3 66.7 0 0 - 2 2 100.0 2 3 5 4 0 1 0 4 -4
+p172
+aVJason Terry BOS 03/16/2013 BOS vs. CHA W 24 15 5 6 83.3 3 3 100.0 2 3 66.7 0 3 3 2 1 1 1 1 4
+p173
+aVJordan Crawford BOS 03/13/2013 BOS vs. TOR W 24 12 4 9 44.4 1 3 33.3 3 4 75.0 0 2 2 3 1 1 3 4 18
+p174
+aVBrandon Bass BOS 03/13/2013 BOS vs. TOR W 27 11 3 9 33.3 0 0 - 5 5 100.0 1 5 6 0 1 2 1 1 4
+p175
+aVShavlik Randolph BOS 03/13/2013 BOS vs. TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p176
+aVJason Terry BOS 03/13/2013 BOS vs. TOR W 23 12 4 6 66.7 3 4 75.0 1 2 50.0 0 2 2 7 0 1 2 2 17
+p177
+aVChris Wilcox BOS 03/13/2013 BOS vs. TOR W 12 7 3 3 100.0 0 0 - 1 3 33.3 3 2 5 0 0 1 2 2 6
+p178
+aVTerrence Williams BOS 03/13/2013 BOS vs. TOR W 5 5 2 2 100.0 0 0 - 1 1 100.0 1 0 1 2 0 0 2 0 0
+p179
+aVJeff Green BOS 03/13/2013 BOS vs. TOR W 31 20 7 14 50.0 1 2 50.0 5 5 100.0 1 5 6 3 2 1 1 4 23
+p180
+aVPaul Pierce BOS 03/13/2013 BOS vs. TOR W 24 15 3 6 50.0 0 2 0.0 9 11 81.8 0 4 4 4 0 1 3 2 6
+p181
+aVAvery Bradley BOS 03/13/2013 BOS vs. TOR W 28 5 2 7 28.6 0 1 0.0 1 2 50.0 0 2 2 3 1 0 0 0 13
+p182
+aVDJ White BOS 03/13/2013 BOS vs. TOR W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p183
+aVCourtney Lee BOS 03/13/2013 BOS vs. TOR W 39 11 5 10 50.0 1 3 33.3 0 0 - 0 4 4 4 3 0 0 3 18
+p184
+aVKevin Garnett BOS 03/13/2013 BOS vs. TOR W 20 12 5 8 62.5 0 0 - 2 2 100.0 0 7 7 2 3 0 0 1 11
+p185
+aVJason Terry BOS 03/12/2013 BOS @ CHA L 24 5 2 5 40.0 0 3 0.0 1 2 50.0 0 1 1 4 1 1 2 0 -10
+p186
+aVShavlik Randolph BOS 03/12/2013 BOS @ CHA L 18 4 2 4 50.0 0 0 - 0 2 0.0 1 3 4 0 0 0 1 5 -7
+p187
+aVJordan Crawford BOS 03/12/2013 BOS @ CHA L 28 14 4 6 66.7 1 3 33.3 5 5 100.0 0 1 1 2 0 0 2 2 -21
+p188
+aVChris Wilcox BOS 03/12/2013 BOS @ CHA L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p189
+aVTerrence Williams BOS 03/12/2013 BOS @ CHA L 14 3 1 3 33.3 1 1 100.0 0 2 0.0 0 1 1 1 0 0 3 0 -11
+p190
+aVJeff Green BOS 03/12/2013 BOS @ CHA L 30 14 4 11 36.4 0 0 - 6 8 75.0 2 1 3 1 1 0 1 3 -17
+p191
+aVBrandon Bass BOS 03/12/2013 BOS @ CHA L 24 10 4 6 66.7 0 0 - 2 2 100.0 1 6 7 2 2 1 0 2 -8
+p192
+aVDJ White BOS 03/12/2013 BOS @ CHA L 16 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 0 -8
+p193
+aVCourtney Lee BOS 03/12/2013 BOS @ CHA L 29 6 3 6 50.0 0 3 0.0 0 0 - 0 1 1 4 0 1 1 5 -21
+p194
+aVKevin Garnett BOS 03/12/2013 BOS @ CHA L 21 5 2 10 20.0 0 1 0.0 1 2 50.0 1 1 2 1 0 0 1 1 -16
+p195
+aVAvery Bradley BOS 03/12/2013 BOS @ CHA L 28 10 4 11 36.4 2 2 100.0 0 0 - 0 4 4 0 0 1 1 1 -10
+p196
+aVCourtney Lee BOS 03/10/2013 BOS @ OKC L 28 8 3 7 42.9 2 4 50.0 0 0 - 0 4 4 2 1 2 2 3 -12
+p197
+aVPaul Pierce BOS 03/10/2013 BOS @ OKC L 35 20 6 12 50.0 2 5 40.0 6 7 85.7 1 3 4 6 0 0 3 4 -1
+p198
+aVAvery Bradley BOS 03/10/2013 BOS @ OKC L 35 12 5 10 50.0 1 1 100.0 1 2 50.0 0 3 3 5 1 0 1 2 -3
+p199
+aVTerrence Williams BOS 03/10/2013 BOS @ OKC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p200
+aVJason Terry BOS 03/10/2013 BOS @ OKC L 23 9 3 8 37.5 2 6 33.3 1 2 50.0 0 3 3 1 1 0 4 1 -5
+p201
+aVJeff Green BOS 03/10/2013 BOS @ OKC L 28 8 2 11 18.2 0 2 0.0 4 5 80.0 0 2 2 0 0 0 3 3 -11
+p202
+aVBrandon Bass BOS 03/10/2013 BOS @ OKC L 32 6 3 4 75.0 0 0 - 0 0 - 5 8 13 1 1 2 0 4 -6
+p203
+aVChris Wilcox BOS 03/10/2013 BOS @ OKC L 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 3 1 1
+p204
+aVJordan Crawford BOS 03/10/2013 BOS @ OKC L 15 4 1 5 20.0 0 1 0.0 2 4 50.0 0 2 2 0 0 0 0 2 -12
+p205
+aVKevin Garnett BOS 03/10/2013 BOS @ OKC L 31 10 5 19 26.3 0 1 0.0 0 0 - 3 8 11 1 0 1 2 3 -8
+p206
+aVJordan Crawford BOS 03/08/2013 BOS vs. ATL W 15 9 4 7 57.1 1 3 33.3 0 0 - 0 2 2 0 0 0 1 1 5
+p207
+aVJeff Green BOS 03/08/2013 BOS vs. ATL W 36 12 5 11 45.5 2 4 50.0 0 0 - 0 2 2 3 1 1 1 2 10
+p208
+aVChris Wilcox BOS 03/08/2013 BOS vs. ATL W 13 6 1 1 100.0 0 0 - 4 4 100.0 0 2 2 0 0 1 1 1 -7
+p209
+aVKevin Garnett BOS 03/08/2013 BOS vs. ATL W 35 17 7 16 43.8 1 2 50.0 2 2 100.0 0 8 8 2 2 0 0 2 9
+p210
+aVJason Terry BOS 03/08/2013 BOS vs. ATL W 36 19 5 11 45.5 3 4 75.0 6 6 100.0 0 4 4 5 2 0 3 1 6
+p211
+aVPaul Pierce BOS 03/08/2013 BOS vs. ATL W 39 27 10 16 62.5 3 7 42.9 4 6 66.7 0 7 7 7 2 0 2 3 2
+p212
+aVTerrence Williams BOS 03/08/2013 BOS vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p213
+aVBrandon Bass BOS 03/08/2013 BOS vs. ATL W 23 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -2
+p214
+aVAvery Bradley BOS 03/08/2013 BOS vs. ATL W 38 5 2 7 28.6 0 0 - 1 2 50.0 2 2 4 4 1 0 2 2 0
+p215
+aVCourtney Lee BOS 03/08/2013 BOS vs. ATL W 28 4 2 3 66.7 0 0 - 0 0 - 0 4 4 2 1 0 3 4 6
+p216
+aVChris Wilcox BOS 03/06/2013 BOS @ IND W 17 6 3 3 100.0 0 0 - 0 0 - 2 1 3 0 3 0 1 1 -6
+p217
+aVKevin Garnett BOS 03/06/2013 BOS @ IND W 30 18 7 10 70.0 1 1 100.0 3 4 75.0 1 9 10 2 0 2 2 4 11
+p218
+aVAvery Bradley BOS 03/06/2013 BOS @ IND W 34 13 6 15 40.0 1 3 33.3 0 0 - 0 1 1 4 0 0 2 2 -3
+p219
+aVBrandon Bass BOS 03/06/2013 BOS @ IND W 20 4 2 6 33.3 0 0 - 0 0 - 1 5 6 0 0 1 2 2 -18
+p220
+aVCourtney Lee BOS 03/06/2013 BOS @ IND W 32 6 2 7 28.6 0 0 - 2 2 100.0 1 3 4 0 3 0 0 3 -6
+p221
+aVJeff Green BOS 03/06/2013 BOS @ IND W 34 11 5 14 35.7 1 4 25.0 0 0 - 0 7 7 4 0 2 1 2 10
+p222
+aVPaul Pierce BOS 03/06/2013 BOS @ IND W 34 13 4 15 26.7 2 4 50.0 3 3 100.0 2 6 8 4 1 1 3 3 5
+p223
+aVDJ White BOS 03/06/2013 BOS @ IND W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 0 2
+p224
+aVJason Terry BOS 03/06/2013 BOS @ IND W 22 10 4 8 50.0 2 3 66.7 0 0 - 2 2 4 4 2 0 0 1 7
+p225
+aVJordan Crawford BOS 03/06/2013 BOS @ IND W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 1 8
+p226
+aVCourtney Lee BOS 03/05/2013 BOS @ PHI W 30 5 2 7 28.6 1 3 33.3 0 0 - 2 2 4 4 3 0 1 1 -2
+p227
+aVJason Terry BOS 03/05/2013 BOS @ PHI W 26 9 3 7 42.9 1 2 50.0 2 2 100.0 0 3 3 6 1 0 2 1 9
+p228
+aVChris Wilcox BOS 03/05/2013 BOS @ PHI W 17 4 2 6 33.3 0 1 0.0 0 0 - 1 5 6 0 0 2 1 2 -1
+p229
+aVBrandon Bass BOS 03/05/2013 BOS @ PHI W 25 5 2 5 40.0 0 0 - 1 1 100.0 1 3 4 1 0 1 0 2 -4
+p230
+aVAvery Bradley BOS 03/05/2013 BOS @ PHI W 34 22 10 15 66.7 2 4 50.0 0 0 - 2 5 7 5 1 0 4 0 5
+p231
+aVKevin Garnett BOS 03/05/2013 BOS @ PHI W 28 18 9 17 52.9 0 0 - 0 0 - 1 5 6 1 0 2 6 4 11
+p232
+aVTerrence Williams BOS 03/05/2013 BOS @ PHI W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 5
+p233
+aVPaul Pierce BOS 03/05/2013 BOS @ PHI W 30 18 6 10 60.0 4 4 100.0 2 2 100.0 3 8 11 7 0 0 5 3 9
+p234
+aVJordan Crawford BOS 03/05/2013 BOS @ PHI W 16 12 4 7 57.1 2 3 66.7 2 2 100.0 0 4 4 3 1 0 1 1 -1
+p235
+aVJeff Green BOS 03/05/2013 BOS @ PHI W 28 16 4 8 50.0 1 1 100.0 7 9 77.8 2 2 4 5 1 0 1 2 9
+p236
+aVJeff Green BOS 03/01/2013 BOS vs. GSW W 27 18 8 13 61.5 0 3 0.0 2 2 100.0 0 5 5 2 0 3 2 3 7
+p237
+aVPaul Pierce BOS 03/01/2013 BOS vs. GSW W 36 26 9 15 60.0 1 3 33.3 7 11 63.6 0 8 8 4 1 0 7 0 14
+p238
+aVJordan Crawford BOS 03/01/2013 BOS vs. GSW W 17 4 2 6 33.3 0 1 0.0 0 0 - 0 5 5 2 0 0 1 2 -3
+p239
+aVChris Wilcox BOS 03/01/2013 BOS vs. GSW W 22 8 4 4 100.0 0 0 - 0 2 0.0 2 5 7 0 0 0 1 2 20
+p240
+aVTerrence Williams BOS 03/01/2013 BOS vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p241
+aVBrandon Bass BOS 03/01/2013 BOS vs. GSW W 27 8 3 5 60.0 0 0 - 2 3 66.7 0 4 4 3 0 1 0 1 6
+p242
+aVAvery Bradley BOS 03/01/2013 BOS vs. GSW W 21 8 3 6 50.0 1 2 50.0 1 1 100.0 0 0 0 2 2 0 0 5 4
+p243
+aVJason Terry BOS 03/01/2013 BOS vs. GSW W 30 7 2 11 18.2 1 5 20.0 2 2 100.0 0 1 1 4 0 0 0 1 -1
+p244
+aVKevin Garnett BOS 03/01/2013 BOS vs. GSW W 32 7 2 10 20.0 0 0 - 3 5 60.0 0 13 13 3 1 1 3 2 -11
+p245
+aVCourtney Lee BOS 03/01/2013 BOS vs. GSW W 26 8 3 5 60.0 0 1 0.0 2 2 100.0 0 0 0 4 2 0 3 4 4
+p246
+aVJason Terry BOS 02/25/2013 BOS @ UTA W 23 14 5 13 38.5 4 9 44.4 0 0 - 1 1 2 2 0 0 1 2 -11
+p247
+aVChris Wilcox BOS 02/25/2013 BOS @ UTA W 21 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 3 2 0 3 5
+p248
+aVBrandon Bass BOS 02/25/2013 BOS @ UTA W 42 15 4 10 40.0 0 0 - 7 7 100.0 1 2 3 0 0 2 1 1 3
+p249
+aVJeff Green BOS 02/25/2013 BOS @ UTA W 28 6 3 10 30.0 0 3 0.0 0 0 - 0 1 1 1 1 0 1 1 -5
+p250
+aVJordan Crawford BOS 02/25/2013 BOS @ UTA W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p251
+aVPaul Pierce BOS 02/25/2013 BOS @ UTA W 39 26 10 20 50.0 3 10 30.0 3 4 75.0 0 7 7 8 0 0 4 5 10
+p252
+aVKevin Garnett BOS 02/25/2013 BOS @ UTA W 36 13 5 9 55.6 0 0 - 3 3 100.0 1 9 10 1 1 1 2 5 -6
+p253
+aVCourtney Lee BOS 02/25/2013 BOS @ UTA W 33 14 4 8 50.0 1 2 50.0 5 6 83.3 2 3 5 3 1 0 2 4 8
+p254
+aVAvery Bradley BOS 02/25/2013 BOS @ UTA W 39 18 8 12 66.7 2 3 66.7 0 0 - 2 3 5 4 2 0 1 3 9
+p255
+aVKevin Garnett BOS 02/24/2013 BOS @ POR L 33 20 9 19 47.4 0 1 0.0 2 2 100.0 2 7 9 3 2 1 2 2 1
+p256
+aVBrandon Bass BOS 02/24/2013 BOS @ POR L 30 11 5 10 50.0 0 0 - 1 2 50.0 2 3 5 0 1 0 0 3 -2
+p257
+aVJordan Crawford BOS 02/24/2013 BOS @ POR L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -1
+p258
+aVPaul Pierce BOS 02/24/2013 BOS @ POR L 32 23 9 16 56.3 1 3 33.3 4 5 80.0 0 7 7 8 0 1 1 3 4
+p259
+aVJeff Green BOS 02/24/2013 BOS @ POR L 31 11 4 12 33.3 0 2 0.0 3 4 75.0 1 3 4 0 1 0 3 2 -17
+p260
+aVJason Terry BOS 02/24/2013 BOS @ POR L 19 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 0 1 0 1 0 -13
+p261
+aVTerrence Williams BOS 02/24/2013 BOS @ POR L 7 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 1
+p262
+aVChris Wilcox BOS 02/24/2013 BOS @ POR L 15 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 2 0 0 3 -7
+p263
+aVCourtney Lee BOS 02/24/2013 BOS @ POR L 26 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 2 1 0 1 2 0
+p264
+aVAvery Bradley BOS 02/24/2013 BOS @ POR L 35 8 4 9 44.4 0 2 0.0 0 0 - 0 2 2 3 1 0 0 1 4
+p265
+aVTerrence Williams BOS 02/22/2013 BOS @ PHX W 25 9 4 8 50.0 1 2 50.0 0 1 0.0 0 4 4 4 0 0 2 2 10
+p266
+aVAvery Bradley BOS 02/22/2013 BOS @ PHX W 27 13 6 12 50.0 0 2 0.0 1 2 50.0 1 3 4 2 4 0 2 3 6
+p267
+aVPaul Pierce BOS 02/22/2013 BOS @ PHX W 26 8 3 5 60.0 1 2 50.0 1 2 50.0 0 5 5 3 1 0 2 4 16
+p268
+aVFab Melo BOS 02/22/2013 BOS @ PHX W 4 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -1
+p269
+aVBrandon Bass BOS 02/22/2013 BOS @ PHX W 32 6 3 8 37.5 0 0 - 0 0 - 3 3 6 0 0 0 1 3 16
+p270
+aVCourtney Lee BOS 02/22/2013 BOS @ PHX W 30 8 3 8 37.5 1 3 33.3 1 4 25.0 0 5 5 2 1 0 0 1 15
+p271
+aVJordan Crawford BOS 02/22/2013 BOS @ PHX W 17 10 4 9 44.4 2 5 40.0 0 0 - 0 3 3 2 0 0 1 2 12
+p272
+aVChris Wilcox BOS 02/22/2013 BOS @ PHX W 22 14 7 9 77.8 0 0 - 0 0 - 4 4 8 0 0 1 1 2 9
+p273
+aVJason Terry BOS 02/22/2013 BOS @ PHX W 20 13 3 5 60.0 2 3 66.7 5 5 100.0 1 1 2 2 0 0 2 2 16
+p274
+aVJeff Green BOS 02/22/2013 BOS @ PHX W 39 31 11 14 78.6 3 5 60.0 6 7 85.7 0 7 7 4 2 5 1 1 26
+p275
+aVKevin Garnett BOS 02/20/2013 BOS @ LAL L 24 12 6 14 42.9 0 0 - 0 2 0.0 2 2 4 2 1 1 1 3 -9
+p276
+aVTerrence Williams BOS 02/20/2013 BOS @ LAL L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 0 2 0 5
+p277
+aVJeff Green BOS 02/20/2013 BOS @ LAL L 33 15 5 12 41.7 1 2 50.0 4 4 100.0 0 7 7 4 0 1 1 4 -11
+p278
+aVChris Wilcox BOS 02/20/2013 BOS @ LAL L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 0
+p279
+aVFab Melo BOS 02/20/2013 BOS @ LAL L 7 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 1 0 1 6
+p280
+aVBrandon Bass BOS 02/20/2013 BOS @ LAL L 29 6 3 6 50.0 0 0 - 0 0 - 1 1 2 2 0 0 2 4 -16
+p281
+aVPaul Pierce BOS 02/20/2013 BOS @ LAL L 33 26 9 17 52.9 4 7 57.1 4 6 66.7 0 4 4 5 1 0 3 3 -17
+p282
+aVJason Terry BOS 02/20/2013 BOS @ LAL L 22 10 3 8 37.5 1 5 20.0 3 4 75.0 2 2 4 1 1 0 1 4 -8
+p283
+aVJason Collins BOS 02/20/2013 BOS @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -9
+p284
+aVCourtney Lee BOS 02/20/2013 BOS @ LAL L 31 20 9 16 56.3 2 3 66.7 0 0 - 1 3 4 2 1 0 1 3 1
+p285
+aVAvery Bradley BOS 02/20/2013 BOS @ LAL L 34 6 2 7 28.6 1 3 33.3 1 2 50.0 1 3 4 4 1 1 1 1 -12
+p286
+aVJason Collins BOS 02/19/2013 BOS @ DEN L 12 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 1 -12
+p287
+aVJeff Green BOS 02/19/2013 BOS @ DEN L 33 20 8 12 66.7 2 4 50.0 2 2 100.0 1 1 2 2 1 2 2 5 -13
+p288
+aVFab Melo BOS 02/19/2013 BOS @ DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p289
+aVPaul Pierce BOS 02/19/2013 BOS @ DEN L 35 10 2 14 14.3 1 5 20.0 5 5 100.0 1 5 6 6 0 0 2 6 4
+p290
+aVKevin Garnett BOS 02/19/2013 BOS @ DEN L 31 12 6 14 42.9 0 0 - 0 2 0.0 2 7 9 4 2 0 1 3 5
+p291
+aVBrandon Bass BOS 02/19/2013 BOS @ DEN L 29 6 3 7 42.9 0 0 - 0 0 - 0 9 9 2 1 0 1 0 -7
+p292
+aVCourtney Lee BOS 02/19/2013 BOS @ DEN L 30 15 6 9 66.7 2 4 50.0 1 1 100.0 1 2 3 4 2 0 2 4 -8
+p293
+aVChris Wilcox BOS 02/19/2013 BOS @ DEN L 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -2
+p294
+aVJason Terry BOS 02/19/2013 BOS @ DEN L 27 7 2 5 40.0 1 3 33.3 2 2 100.0 0 1 1 3 0 0 0 1 -9
+p295
+aVAvery Bradley BOS 02/19/2013 BOS @ DEN L 33 17 7 16 43.8 1 4 25.0 2 2 100.0 0 3 3 0 0 0 3 4 7
+p296
+aVBrandon Bass BOS 02/13/2013 BOS vs. CHI W 40 14 6 13 46.2 0 0 - 2 2 100.0 2 7 9 2 1 1 2 4 7
+p297
+aVPaul Pierce BOS 02/13/2013 BOS vs. CHI W 34 8 2 12 16.7 2 5 40.0 2 4 50.0 1 5 6 6 1 0 3 2 1
+p298
+aVJason Collins BOS 02/13/2013 BOS vs. CHI W 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 1 0 0 2 -1
+p299
+aVCourtney Lee BOS 02/13/2013 BOS vs. CHI W 28 7 3 7 42.9 1 1 100.0 0 0 - 0 0 0 0 2 0 0 2 -13
+p300
+aVChris Wilcox BOS 02/13/2013 BOS vs. CHI W 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -10
+p301
+aVJeff Green BOS 02/13/2013 BOS vs. CHI W 36 8 2 8 25.0 0 4 0.0 4 4 100.0 0 5 5 2 0 2 2 1 6
+p302
+aVAvery Bradley BOS 02/13/2013 BOS vs. CHI W 26 10 4 12 33.3 0 1 0.0 2 2 100.0 1 1 2 1 2 0 1 6 8
+p303
+aVKevin Garnett BOS 02/13/2013 BOS vs. CHI W 26 12 6 12 50.0 0 0 - 0 0 - 4 7 11 3 1 0 0 2 6
+p304
+aVJason Terry BOS 02/13/2013 BOS vs. CHI W 26 12 5 11 45.5 2 4 50.0 0 0 - 0 1 1 3 1 1 1 1 6
+p305
+aVJason Collins BOS 02/11/2013 BOS @ CHA L 13 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 7
+p306
+aVKevin Garnett BOS 02/11/2013 BOS @ CHA L 29 16 5 13 38.5 0 0 - 6 8 75.0 3 10 13 3 0 2 1 4 -7
+p307
+aVChris Wilcox BOS 02/11/2013 BOS @ CHA L 17 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 2 -1
+p308
+aVBrandon Bass BOS 02/11/2013 BOS @ CHA L 32 8 4 7 57.1 0 0 - 0 2 0.0 1 6 7 1 1 1 0 3 -10
+p309
+aVLeandro Barbosa BOS 02/11/2013 BOS @ CHA L 12 3 1 6 16.7 1 1 100.0 0 0 - 1 1 2 3 0 0 0 1 2
+p310
+aVPaul Pierce BOS 02/11/2013 BOS @ CHA L 29 13 4 12 33.3 1 3 33.3 4 4 100.0 1 7 8 8 1 1 3 1 -10
+p311
+aVJeff Green BOS 02/11/2013 BOS @ CHA L 24 18 5 8 62.5 1 1 100.0 7 7 100.0 0 4 4 0 1 1 2 4 10
+p312
+aVAvery Bradley BOS 02/11/2013 BOS @ CHA L 35 8 4 11 36.4 0 3 0.0 0 0 - 0 0 0 3 3 2 2 4 -3
+p313
+aVCourtney Lee BOS 02/11/2013 BOS @ CHA L 19 4 2 6 33.3 0 0 - 0 0 - 0 4 4 2 0 0 0 1 -7
+p314
+aVJason Terry BOS 02/11/2013 BOS @ CHA L 29 12 4 8 50.0 3 6 50.0 1 1 100.0 0 0 0 6 0 0 1 3 4
+p315
+aVJason Terry BOS 02/10/2013 BOS vs. DEN W 43 26 10 22 45.5 5 14 35.7 1 1 100.0 0 2 2 1 3 0 1 1 0
+p316
+aVKevin Garnett BOS 02/10/2013 BOS vs. DEN W 47 20 9 24 37.5 0 0 - 2 2 100.0 3 15 18 6 2 3 1 2 8
+p317
+aVCourtney Lee BOS 02/10/2013 BOS vs. DEN W 23 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 3 2 0 4 0 5
+p318
+aVAvery Bradley BOS 02/10/2013 BOS vs. DEN W 46 13 6 12 50.0 1 2 50.0 0 0 - 1 4 5 4 3 1 1 5 12
+p319
+aVJeff Green BOS 02/10/2013 BOS vs. DEN W 42 17 6 10 60.0 1 1 100.0 4 4 100.0 0 4 4 1 2 3 4 3 -5
+p320
+aVJason Collins BOS 02/10/2013 BOS vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p321
+aVLeandro Barbosa BOS 02/10/2013 BOS vs. DEN W 17 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 1 0 0 2 -10
+p322
+aVBrandon Bass BOS 02/10/2013 BOS vs. DEN W 33 5 2 7 28.6 0 0 - 1 2 50.0 3 1 4 3 0 0 1 1 1
+p323
+aVPaul Pierce BOS 02/10/2013 BOS vs. DEN W 54 27 7 20 35.0 5 9 55.6 8 9 88.9 0 14 14 14 0 0 4 5 5
+p324
+aVChris Wilcox BOS 02/10/2013 BOS vs. DEN W 11 3 0 3 0.0 0 0 - 3 6 50.0 1 0 1 1 1 1 0 0 4
+p325
+aVKevin Garnett BOS 02/07/2013 BOS vs. LAL W 23 15 6 10 60.0 0 0 - 3 4 75.0 2 3 5 4 3 0 2 2 17
+p326
+aVLeandro Barbosa BOS 02/07/2013 BOS vs. LAL W 21 0 0 6 0.0 0 1 0.0 0 0 - 1 4 5 3 1 0 0 2 3
+p327
+aVJason Collins BOS 02/07/2013 BOS vs. LAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 3 -2
+p328
+aVFab Melo BOS 02/07/2013 BOS vs. LAL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -6
+p329
+aVBrandon Bass BOS 02/07/2013 BOS vs. LAL W 25 8 4 5 80.0 0 0 - 0 0 - 1 3 4 1 1 0 0 3 18
+p330
+aVAvery Bradley BOS 02/07/2013 BOS vs. LAL W 33 10 4 11 36.4 0 1 0.0 2 2 100.0 2 3 5 3 2 1 1 3 5
+p331
+aVJeff Green BOS 02/07/2013 BOS vs. LAL W 29 19 6 13 46.2 1 1 100.0 6 6 100.0 0 3 3 1 0 1 1 2 21
+p332
+aVCourtney Lee BOS 02/07/2013 BOS vs. LAL W 22 13 6 12 50.0 1 2 50.0 0 0 - 0 5 5 3 0 1 1 2 -2
+p333
+aVPaul Pierce BOS 02/07/2013 BOS vs. LAL W 30 24 10 17 58.8 1 4 25.0 3 4 75.0 1 6 7 6 0 1 2 3 20
+p334
+aVJason Terry BOS 02/07/2013 BOS vs. LAL W 28 15 5 6 83.3 2 2 100.0 3 5 60.0 1 3 4 3 1 0 1 1 25
+p335
+aVChris Wilcox BOS 02/07/2013 BOS vs. LAL W 18 8 3 4 75.0 0 0 - 2 4 50.0 4 5 9 0 1 0 1 5 6
+p336
+aVJeff Green BOS 02/06/2013 BOS @ TOR W 27 8 2 6 33.3 0 2 0.0 4 6 66.7 4 2 6 3 1 0 1 1 5
+p337
+aVJason Terry BOS 02/06/2013 BOS @ TOR W 26 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 1 2 1 6
+p338
+aVCourtney Lee BOS 02/06/2013 BOS @ TOR W 29 15 6 11 54.5 0 3 0.0 3 3 100.0 0 2 2 3 0 0 0 2 -4
+p339
+aVAvery Bradley BOS 02/06/2013 BOS @ TOR W 26 11 4 9 44.4 1 2 50.0 2 2 100.0 1 2 3 2 0 1 3 1 -11
+p340
+aVKevin Garnett BOS 02/06/2013 BOS @ TOR W 32 27 11 18 61.1 0 0 - 5 5 100.0 0 10 10 0 0 0 2 4 14
+p341
+aVLeandro Barbosa BOS 02/06/2013 BOS @ TOR W 27 14 5 8 62.5 1 4 25.0 3 4 75.0 1 2 3 4 2 0 3 5 13
+p342
+aVJason Collins BOS 02/06/2013 BOS @ TOR W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p343
+aVBrandon Bass BOS 02/06/2013 BOS @ TOR W 24 10 4 6 66.7 0 0 - 2 3 66.7 0 3 3 1 0 1 0 3 -10
+p344
+aVPaul Pierce BOS 02/06/2013 BOS @ TOR W 37 12 2 11 18.2 2 7 28.6 6 7 85.7 0 11 11 6 1 1 2 1 13
+p345
+aVChris Wilcox BOS 02/06/2013 BOS @ TOR W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 3
+p346
+aVCourtney Lee BOS 02/03/2013 BOS vs. LAC W 30 7 2 6 33.3 1 3 33.3 2 2 100.0 0 2 2 2 2 0 3 2 -7
+p347
+aVPaul Pierce BOS 02/03/2013 BOS vs. LAC W 36 22 7 16 43.8 4 6 66.7 4 5 80.0 2 3 5 4 2 0 6 1 -1
+p348
+aVJason Collins BOS 02/03/2013 BOS vs. LAC W 12 7 1 1 100.0 0 0 - 5 5 100.0 1 0 1 0 0 0 0 3 3
+p349
+aVJeff Green BOS 02/03/2013 BOS vs. LAC W 23 14 4 6 66.7 3 3 100.0 3 4 75.0 0 2 2 2 0 2 1 1 4
+p350
+aVKevin Garnett BOS 02/03/2013 BOS vs. LAC W 28 12 5 9 55.6 0 0 - 2 2 100.0 0 5 5 2 1 0 3 5 3
+p351
+aVBrandon Bass BOS 02/03/2013 BOS vs. LAC W 30 9 3 7 42.9 0 0 - 3 4 75.0 2 6 8 4 0 0 0 3 -10
+p352
+aVChris Wilcox BOS 02/03/2013 BOS vs. LAC W 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 4
+p353
+aVLeandro Barbosa BOS 02/03/2013 BOS vs. LAC W 21 14 5 10 50.0 1 2 50.0 3 4 75.0 0 2 2 1 1 0 1 2 8
+p354
+aVJason Terry BOS 02/03/2013 BOS vs. LAC W 31 13 5 7 71.4 2 4 50.0 1 1 100.0 1 1 2 6 1 0 2 1 17
+p355
+aVAvery Bradley BOS 02/03/2013 BOS vs. LAC W 26 4 2 8 25.0 0 0 - 0 0 - 0 1 1 2 0 0 1 4 -11
+p356
+aVKevin Garnett BOS 02/01/2013 BOS vs. ORL W 23 14 7 12 58.3 0 0 - 0 0 - 4 6 10 1 3 1 0 0 9
+p357
+aVAvery Bradley BOS 02/01/2013 BOS vs. ORL W 20 6 3 9 33.3 0 2 0.0 0 0 - 0 2 2 2 0 0 2 3 -10
+p358
+aVBrandon Bass BOS 02/01/2013 BOS vs. ORL W 26 6 2 6 33.3 0 0 - 2 2 100.0 2 5 7 1 0 0 1 1 -15
+p359
+aVJason Terry BOS 02/01/2013 BOS vs. ORL W 28 12 4 8 50.0 1 4 25.0 3 3 100.0 0 1 1 5 0 0 1 3 23
+p360
+aVLeandro Barbosa BOS 02/01/2013 BOS vs. ORL W 27 12 6 11 54.5 0 3 0.0 0 0 - 0 2 2 4 0 0 0 0 21
+p361
+aVCourtney Lee BOS 02/01/2013 BOS vs. ORL W 39 14 6 13 46.2 2 4 50.0 0 0 - 1 4 5 5 2 0 2 0 -5
+p362
+aVFab Melo BOS 02/01/2013 BOS vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p363
+aVJason Collins BOS 02/01/2013 BOS vs. ORL W 11 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 2 1 11
+p364
+aVJeff Green BOS 02/01/2013 BOS vs. ORL W 29 17 8 14 57.1 0 1 0.0 1 3 33.3 1 3 4 4 1 3 3 2 20
+p365
+aVPaul Pierce BOS 02/01/2013 BOS vs. ORL W 29 14 5 10 50.0 1 4 25.0 3 6 50.0 0 11 11 7 1 0 3 2 10
+p366
+aVChris Wilcox BOS 02/01/2013 BOS vs. ORL W 5 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 1 1 0 1 2
+p367
+aVJason Terry BOS 01/30/2013 BOS vs. SAC W 22 12 5 7 71.4 2 3 66.7 0 0 - 0 2 2 4 0 0 1 1 5
+p368
+aVCourtney Lee BOS 01/30/2013 BOS vs. SAC W 26 9 3 8 37.5 1 2 50.0 2 2 100.0 0 0 0 3 0 0 2 0 13
+p369
+aVJared Sullinger BOS 01/30/2013 BOS vs. SAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p370
+aVKevin Garnett BOS 01/30/2013 BOS vs. SAC W 28 13 6 10 60.0 0 0 - 1 1 100.0 0 9 9 5 1 2 1 0 23
+p371
+aVLeandro Barbosa BOS 01/30/2013 BOS vs. SAC W 15 7 3 6 50.0 1 2 50.0 0 1 0.0 0 0 0 2 0 0 3 1 5
+p372
+aVChris Wilcox BOS 01/30/2013 BOS vs. SAC W 17 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 2 1 0 3 -3
+p373
+aVJeff Green BOS 01/30/2013 BOS vs. SAC W 21 12 6 11 54.5 0 2 0.0 0 0 - 0 1 1 0 0 0 3 5 -10
+p374
+aVAvery Bradley BOS 01/30/2013 BOS vs. SAC W 29 11 4 11 36.4 1 5 20.0 2 2 100.0 3 2 5 2 2 1 2 2 13
+p375
+aVPaul Pierce BOS 01/30/2013 BOS vs. SAC W 31 16 5 9 55.6 0 2 0.0 6 7 85.7 0 10 10 4 1 0 3 3 28
+p376
+aVJason Collins BOS 01/30/2013 BOS vs. SAC W 9 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 4 -8
+p377
+aVBrandon Bass BOS 01/30/2013 BOS vs. SAC W 38 12 4 7 57.1 0 0 - 4 5 80.0 1 3 4 2 3 0 1 3 18
+p378
+aVBrandon Bass BOS 01/27/2013 BOS vs. MIA W 14 6 1 5 20.0 0 0 - 4 4 100.0 2 2 4 1 0 1 0 1 -6
+p379
+aVJason Terry BOS 01/27/2013 BOS vs. MIA W 32 13 4 12 33.3 1 7 14.3 4 4 100.0 0 2 2 1 1 1 1 3 1
+p380
+aVAvery Bradley BOS 01/27/2013 BOS vs. MIA W 28 9 3 8 37.5 1 2 50.0 2 2 100.0 2 2 4 0 2 0 1 2 -5
+p381
+aVKevin Garnett BOS 01/27/2013 BOS vs. MIA W 45 24 10 19 52.6 0 1 0.0 4 5 80.0 3 8 11 4 2 3 1 2 1
+p382
+aVJared Sullinger BOS 01/27/2013 BOS vs. MIA W 22 7 3 5 60.0 0 1 0.0 1 2 50.0 0 4 4 2 3 0 1 1 -4
+p383
+aVJeff Green BOS 01/27/2013 BOS vs. MIA W 42 11 4 8 50.0 1 3 33.3 2 2 100.0 0 4 4 0 0 1 3 4 6
+p384
+aVLeandro Barbosa BOS 01/27/2013 BOS vs. MIA W 30 9 4 8 50.0 1 1 100.0 0 0 - 1 2 3 4 1 0 1 3 5
+p385
+aVPaul Pierce BOS 01/27/2013 BOS vs. MIA W 49 17 6 16 37.5 1 3 33.3 4 6 66.7 0 13 13 10 1 1 6 3 8
+p386
+aVChris Wilcox BOS 01/27/2013 BOS vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p387
+aVCourtney Lee BOS 01/27/2013 BOS vs. MIA W 26 4 1 7 14.3 0 2 0.0 2 2 100.0 0 0 0 2 1 1 0 1 3
+p388
+aVBrandon Bass BOS 01/25/2013 BOS @ ATL L 19 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 -7
+p389
+aVJason Terry BOS 01/25/2013 BOS @ ATL L 22 12 4 6 66.7 3 4 75.0 1 1 100.0 0 1 1 1 0 1 1 0 7
+p390
+aVLeandro Barbosa BOS 01/25/2013 BOS @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p391
+aVJason Collins BOS 01/25/2013 BOS @ ATL L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 20
+p392
+aVPaul Pierce BOS 01/25/2013 BOS @ ATL L 40 12 4 13 30.8 0 5 0.0 4 4 100.0 2 4 6 4 0 0 5 4 -30
+p393
+aVAvery Bradley BOS 01/25/2013 BOS @ ATL L 29 14 6 11 54.5 2 3 66.7 0 0 - 0 1 1 1 1 0 2 0 -22
+p394
+aVJeff Green BOS 01/25/2013 BOS @ ATL L 30 17 4 8 50.0 1 2 50.0 8 8 100.0 1 5 6 0 0 0 1 1 9
+p395
+aVCourtney Lee BOS 01/25/2013 BOS @ ATL L 26 16 5 10 50.0 1 4 25.0 5 5 100.0 2 5 7 4 2 0 0 4 10
+p396
+aVKevin Garnett BOS 01/25/2013 BOS @ ATL L 38 24 11 18 61.1 0 0 - 2 2 100.0 1 9 10 4 1 0 2 6 -19
+p397
+aVJared Sullinger BOS 01/25/2013 BOS @ ATL L 24 0 0 3 0.0 0 0 - 0 0 - 0 5 5 2 2 0 2 6 -4
+p398
+aVRajon Rondo BOS 01/25/2013 BOS @ ATL L 45 16 8 18 44.4 0 1 0.0 0 0 - 4 6 10 11 1 0 6 4 -20
+p399
+aVJared Sullinger BOS 01/24/2013 BOS vs. NYK L 15 7 2 4 50.0 0 0 - 3 4 75.0 1 2 3 0 0 1 0 4 -9
+p400
+aVBrandon Bass BOS 01/24/2013 BOS vs. NYK L 20 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 0
+p401
+aVJason Terry BOS 01/24/2013 BOS vs. NYK L 14 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 3 0 0 1 0 -8
+p402
+aVLeandro Barbosa BOS 01/24/2013 BOS vs. NYK L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -9
+p403
+aVAvery Bradley BOS 01/24/2013 BOS vs. NYK L 31 5 2 7 28.6 1 4 25.0 0 0 - 2 2 4 0 1 0 1 3 12
+p404
+aVCourtney Lee BOS 01/24/2013 BOS vs. NYK L 15 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -17
+p405
+aVKevin Garnett BOS 01/24/2013 BOS vs. NYK L 32 8 3 9 33.3 0 1 0.0 2 4 50.0 1 11 12 2 1 2 1 2 9
+p406
+aVPaul Pierce BOS 01/24/2013 BOS vs. NYK L 37 22 6 15 40.0 1 5 20.0 9 12 75.0 0 6 6 2 0 0 2 3 8
+p407
+aVRajon Rondo BOS 01/24/2013 BOS vs. NYK L 40 23 10 19 52.6 0 0 - 3 4 75.0 0 10 10 11 3 0 4 1 2
+p408
+aVJason Collins BOS 01/24/2013 BOS vs. NYK L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p409
+aVJeff Green BOS 01/24/2013 BOS vs. NYK L 25 9 4 7 57.1 1 3 33.3 0 0 - 2 4 6 0 0 0 2 4 0
+p410
+aVAvery Bradley BOS 01/22/2013 BOS @ CLE L 26 7 2 4 50.0 2 2 100.0 1 2 50.0 1 0 1 1 0 1 1 3 -5
+p411
+aVCourtney Lee BOS 01/22/2013 BOS @ CLE L 14 9 3 9 33.3 3 5 60.0 0 0 - 1 2 3 2 1 0 0 2 1
+p412
+aVBrandon Bass BOS 01/22/2013 BOS @ CLE L 28 8 4 7 57.1 0 0 - 0 0 - 2 4 6 1 0 0 2 2 -7
+p413
+aVJason Terry BOS 01/22/2013 BOS @ CLE L 20 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 1 1 0 1 0 4
+p414
+aVJared Sullinger BOS 01/22/2013 BOS @ CLE L 26 12 5 11 45.5 0 0 - 2 2 100.0 5 5 10 0 0 1 0 6 -4
+p415
+aVKevin Garnett BOS 01/22/2013 BOS @ CLE L 31 16 5 13 38.5 0 0 - 6 6 100.0 0 5 5 3 1 5 2 3 -3
+p416
+aVRajon Rondo BOS 01/22/2013 BOS @ CLE L 38 17 7 17 41.2 0 2 0.0 3 4 75.0 3 10 13 8 0 0 5 2 -10
+p417
+aVPaul Pierce BOS 01/22/2013 BOS @ CLE L 37 12 3 15 20.0 1 4 25.0 5 6 83.3 4 3 7 7 2 0 4 0 -8
+p418
+aVJeff Green BOS 01/22/2013 BOS @ CLE L 21 5 1 3 33.3 1 2 50.0 2 2 100.0 0 3 3 1 0 1 1 0 7
+p419
+aVPaul Pierce BOS 01/20/2013 BOS @ DET L 36 10 5 10 50.0 0 1 0.0 0 0 - 0 8 8 2 2 1 2 3 -13
+p420
+aVJeff Green BOS 01/20/2013 BOS @ DET L 30 15 4 9 44.4 1 4 25.0 6 9 66.7 1 1 2 2 1 1 1 1 3
+p421
+aVCourtney Lee BOS 01/20/2013 BOS @ DET L 27 16 6 12 50.0 2 5 40.0 2 2 100.0 1 2 3 2 3 0 1 3 1
+p422
+aVLeandro Barbosa BOS 01/20/2013 BOS @ DET L 7 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 2 2
+p423
+aVKevin Garnett BOS 01/20/2013 BOS @ DET L 30 16 5 11 45.5 0 0 - 6 8 75.0 1 6 7 0 2 2 1 3 -7
+p424
+aVRajon Rondo BOS 01/20/2013 BOS @ DET L 36 8 4 16 25.0 0 0 - 0 0 - 3 6 9 15 3 0 9 5 -3
+p425
+aVJason Terry BOS 01/20/2013 BOS @ DET L 14 4 1 3 33.3 1 3 33.3 1 2 50.0 0 1 1 1 0 0 1 4 -7
+p426
+aVAvery Bradley BOS 01/20/2013 BOS @ DET L 19 6 3 8 37.5 0 2 0.0 0 0 - 0 0 0 0 1 0 0 3 -20
+p427
+aVJason Collins BOS 01/20/2013 BOS @ DET L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 2 0
+p428
+aVJared Sullinger BOS 01/20/2013 BOS @ DET L 22 7 3 7 42.9 0 0 - 1 2 50.0 4 3 7 0 0 0 0 5 -17
+p429
+aVBrandon Bass BOS 01/20/2013 BOS @ DET L 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -14
+p430
+aVJared Sullinger BOS 01/18/2013 BOS vs. CHI L 38 7 3 8 37.5 0 1 0.0 1 1 100.0 5 10 15 0 1 0 1 6 -1
+p431
+aVPaul Pierce BOS 01/18/2013 BOS vs. CHI L 34 13 5 17 29.4 0 3 0.0 3 4 75.0 0 6 6 3 1 0 3 3 0
+p432
+aVRajon Rondo BOS 01/18/2013 BOS vs. CHI L 42 30 12 21 57.1 0 0 - 6 9 66.7 0 2 2 7 2 0 3 6 -3
+p433
+aVCourtney Lee BOS 01/18/2013 BOS vs. CHI L 22 7 3 8 37.5 1 2 50.0 0 0 - 1 5 6 1 3 0 1 1 2
+p434
+aVKevin Garnett BOS 01/18/2013 BOS vs. CHI L 39 16 5 16 31.3 0 3 0.0 6 10 60.0 1 6 7 1 0 1 1 2 -5
+p435
+aVJason Terry BOS 01/18/2013 BOS vs. CHI L 27 9 3 5 60.0 1 2 50.0 2 2 100.0 1 0 1 2 0 0 0 2 -3
+p436
+aVLeandro Barbosa BOS 01/18/2013 BOS vs. CHI L 15 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 1 1 1 0 4 2
+p437
+aVJason Collins BOS 01/18/2013 BOS vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p438
+aVBrandon Bass BOS 01/18/2013 BOS vs. CHI L 27 10 4 6 66.7 0 0 - 2 2 100.0 2 0 2 0 2 1 2 2 0
+p439
+aVJeff Green BOS 01/18/2013 BOS vs. CHI L 19 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 5
+p440
+aVJason Collins BOS 01/16/2013 BOS vs. NOH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 5
+p441
+aVBrandon Bass BOS 01/16/2013 BOS vs. NOH L 33 9 4 6 66.7 0 0 - 1 2 50.0 3 4 7 1 1 0 1 1 1
+p442
+aVAvery Bradley BOS 01/16/2013 BOS vs. NOH L 22 4 2 4 50.0 0 2 0.0 0 2 0.0 0 0 0 1 3 0 0 2 -8
+p443
+aVPaul Pierce BOS 01/16/2013 BOS vs. NOH L 31 12 5 16 31.3 1 7 14.3 1 3 33.3 0 10 10 4 1 0 2 6 -10
+p444
+aVKevin Garnett BOS 01/16/2013 BOS vs. NOH L 30 15 7 12 58.3 0 0 - 1 2 50.0 0 4 4 0 1 0 3 3 -26
+p445
+aVCourtney Lee BOS 01/16/2013 BOS vs. NOH L 16 4 1 5 20.0 0 3 0.0 2 2 100.0 0 2 2 3 0 0 1 0 -5
+p446
+aVJason Terry BOS 01/16/2013 BOS vs. NOH L 24 12 5 10 50.0 2 4 50.0 0 0 - 0 0 0 1 1 0 1 0 -8
+p447
+aVLeandro Barbosa BOS 01/16/2013 BOS vs. NOH L 3 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 1
+p448
+aVJared Sullinger BOS 01/16/2013 BOS vs. NOH L 21 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 1 1 1 4 -2
+p449
+aVRajon Rondo BOS 01/16/2013 BOS vs. NOH L 33 7 3 8 37.5 0 0 - 1 3 33.3 2 1 3 11 3 0 5 0 -5
+p450
+aVJeff Green BOS 01/16/2013 BOS vs. NOH L 25 4 2 4 50.0 0 1 0.0 0 2 0.0 1 4 5 0 0 2 1 3 -3
+p451
+aVJared Sullinger BOS 01/14/2013 BOS vs. CHA W 22 8 4 4 100.0 0 0 - 0 2 0.0 1 4 5 0 0 1 1 5 4
+p452
+aVJason Terry BOS 01/14/2013 BOS vs. CHA W 15 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 1 -8
+p453
+aVBrandon Bass BOS 01/14/2013 BOS vs. CHA W 17 6 3 6 50.0 0 0 - 0 0 - 2 1 3 0 1 2 2 3 4
+p454
+aVPaul Pierce BOS 01/14/2013 BOS vs. CHA W 32 19 6 16 37.5 2 8 25.0 5 8 62.5 2 2 4 6 1 1 2 2 13
+p455
+aVLeandro Barbosa BOS 01/14/2013 BOS vs. CHA W 5 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 2
+p456
+aVRajon Rondo BOS 01/14/2013 BOS vs. CHA W 37 17 8 11 72.7 0 0 - 1 1 100.0 1 9 10 12 0 0 2 1 11
+p457
+aVJason Collins BOS 01/14/2013 BOS vs. CHA W 8 3 1 2 50.0 0 0 - 1 1 100.0 2 2 4 2 0 0 0 3 8
+p458
+aVAvery Bradley BOS 01/14/2013 BOS vs. CHA W 28 16 6 10 60.0 4 7 57.1 0 0 - 0 1 1 1 0 2 2 0 15
+p459
+aVJeff Green BOS 01/14/2013 BOS vs. CHA W 27 11 4 8 50.0 1 1 100.0 2 2 100.0 1 3 4 2 1 0 1 3 8
+p460
+aVKevin Garnett BOS 01/14/2013 BOS vs. CHA W 32 7 2 11 18.2 0 0 - 3 4 75.0 4 6 10 2 1 1 2 2 -5
+p461
+aVCourtney Lee BOS 01/14/2013 BOS vs. CHA W 17 9 4 7 57.1 1 4 25.0 0 0 - 0 0 0 0 1 1 1 1 3
+p462
+aVJason Terry BOS 01/11/2013 BOS vs. HOU W 16 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 4 2 0 1 2 2
+p463
+aVPaul Pierce BOS 01/11/2013 BOS vs. HOU W 29 23 8 14 57.1 3 7 42.9 4 5 80.0 0 6 6 3 1 0 2 3 4
+p464
+aVJeff Green BOS 01/11/2013 BOS vs. HOU W 19 9 4 9 44.4 1 3 33.3 0 0 - 0 3 3 2 0 0 0 1 8
+p465
+aVRajon Rondo BOS 01/11/2013 BOS vs. HOU W 33 12 5 13 38.5 0 1 0.0 2 2 100.0 1 4 5 8 2 0 4 3 5
+p466
+aVJason Collins BOS 01/11/2013 BOS vs. HOU W 10 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 1 0 0 2 8
+p467
+aVCourtney Lee BOS 01/11/2013 BOS vs. HOU W 21 14 5 7 71.4 2 3 66.7 2 2 100.0 0 0 0 3 1 1 3 1 17
+p468
+aVBrandon Bass BOS 01/11/2013 BOS vs. HOU W 27 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 0 1 2 3 -8
+p469
+aVJared Sullinger BOS 01/11/2013 BOS vs. HOU W 27 14 7 8 87.5 0 0 - 0 0 - 5 6 11 1 0 0 1 6 7
+p470
+aVAvery Bradley BOS 01/11/2013 BOS vs. HOU W 26 7 2 9 22.2 2 6 33.3 1 2 50.0 0 2 2 0 1 0 1 4 0
+p471
+aVKevin Garnett BOS 01/11/2013 BOS vs. HOU W 32 17 8 12 66.7 0 0 - 1 1 100.0 0 8 8 0 0 4 2 4 17
+p472
+aVLeandro Barbosa BOS 01/09/2013 BOS vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p473
+aVPaul Pierce BOS 01/09/2013 BOS vs. PHX W 24 7 3 10 30.0 1 3 33.3 0 0 - 3 4 7 1 1 1 2 2 -9
+p474
+aVJason Collins BOS 01/09/2013 BOS vs. PHX W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 2
+p475
+aVBrandon Bass BOS 01/09/2013 BOS vs. PHX W 27 6 2 8 25.0 0 0 - 2 2 100.0 2 3 5 1 0 0 1 3 -17
+p476
+aVAvery Bradley BOS 01/09/2013 BOS vs. PHX W 18 9 4 9 44.4 1 4 25.0 0 0 - 1 0 1 1 2 0 1 1 -6
+p477
+aVCourtney Lee BOS 01/09/2013 BOS vs. PHX W 19 6 2 5 40.0 0 1 0.0 2 4 50.0 0 0 0 2 3 0 1 1 12
+p478
+aVJared Sullinger BOS 01/09/2013 BOS vs. PHX W 34 12 6 10 60.0 0 0 - 0 0 - 5 11 16 3 1 1 0 4 24
+p479
+aVJason Terry BOS 01/09/2013 BOS vs. PHX W 27 13 6 8 75.0 1 3 33.3 0 0 - 1 4 5 5 1 0 2 1 19
+p480
+aVJeff Green BOS 01/09/2013 BOS vs. PHX W 25 14 5 9 55.6 0 3 0.0 4 4 100.0 0 3 3 0 1 1 0 2 16
+p481
+aVRajon Rondo BOS 01/09/2013 BOS vs. PHX W 31 8 4 11 36.4 0 0 - 0 0 - 0 0 0 8 0 0 4 0 -8
+p482
+aVKevin Garnett BOS 01/09/2013 BOS vs. PHX W 29 10 5 11 45.5 0 0 - 0 0 - 0 5 5 2 3 2 1 0 7
+p483
+aVJason Terry BOS 01/07/2013 BOS @ NYK W 31 2 1 7 14.3 0 3 0.0 0 0 - 2 2 4 5 0 0 2 3 -1
+p484
+aVBrandon Bass BOS 01/07/2013 BOS @ NYK W 32 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 2
+p485
+aVKevin Garnett BOS 01/07/2013 BOS @ NYK W 38 19 6 11 54.5 0 0 - 7 7 100.0 2 8 10 2 3 0 1 2 1
+p486
+aVPaul Pierce BOS 01/07/2013 BOS @ NYK W 28 23 10 18 55.6 3 9 33.3 0 0 - 0 3 3 6 1 0 1 5 -1
+p487
+aVAvery Bradley BOS 01/07/2013 BOS @ NYK W 33 13 6 11 54.5 1 3 33.3 0 0 - 1 2 3 5 1 0 1 5 4
+p488
+aVCourtney Lee BOS 01/07/2013 BOS @ NYK W 20 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 2 3 0 2 1 3
+p489
+aVLeandro Barbosa BOS 01/07/2013 BOS @ NYK W 13 8 3 3 100.0 0 0 - 2 3 66.7 0 0 0 3 0 0 0 0 5
+p490
+aVJeff Green BOS 01/07/2013 BOS @ NYK W 27 16 5 10 50.0 1 1 100.0 5 6 83.3 1 5 6 3 0 0 1 2 8
+p491
+aVJared Sullinger BOS 01/07/2013 BOS @ NYK W 19 10 3 5 60.0 0 0 - 4 4 100.0 2 3 5 0 0 1 1 2 9
+p492
+aVPaul Pierce BOS 01/05/2013 BOS @ ATL W 36 26 8 20 40.0 3 8 37.5 7 9 77.8 4 5 9 5 1 0 1 4 11
+p493
+aVJason Collins BOS 01/05/2013 BOS @ ATL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p494
+aVJeff Green BOS 01/05/2013 BOS @ ATL W 15 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -1
+p495
+aVJason Terry BOS 01/05/2013 BOS @ ATL W 26 4 2 8 25.0 0 4 0.0 0 0 - 0 0 0 3 0 0 0 1 0
+p496
+aVJared Sullinger BOS 01/05/2013 BOS @ ATL W 24 8 4 8 50.0 0 0 - 0 1 0.0 4 5 9 2 0 1 0 3 7
+p497
+aVBrandon Bass BOS 01/05/2013 BOS @ ATL W 36 10 5 6 83.3 0 0 - 0 0 - 3 1 4 2 3 1 1 1 14
+p498
+aVCourtney Lee BOS 01/05/2013 BOS @ ATL W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p499
+aVAvery Bradley BOS 01/05/2013 BOS @ ATL W 20 6 3 9 33.3 0 2 0.0 0 0 - 2 2 4 1 1 1 1 0 8
+p500
+aVKevin Garnett BOS 01/05/2013 BOS @ ATL W 33 14 7 12 58.3 0 0 - 0 0 - 0 5 5 3 3 1 3 2 -2
+p501
+aVRajon Rondo BOS 01/05/2013 BOS @ ATL W 39 14 7 16 43.8 0 2 0.0 0 0 - 3 8 11 10 3 0 5 3 2
+p502
+aVKevin Garnett BOS 01/04/2013 BOS vs. IND W 24 18 8 16 50.0 0 0 - 2 2 100.0 1 6 7 2 1 0 2 5 6
+p503
+aVJason Collins BOS 01/04/2013 BOS vs. IND W 15 1 0 0 - 0 0 - 1 2 50.0 2 0 2 0 0 1 0 3 15
+p504
+aVJared Sullinger BOS 01/04/2013 BOS vs. IND W 30 7 2 7 28.6 0 0 - 3 6 50.0 4 6 10 1 0 1 2 6 17
+p505
+aVRajon Rondo BOS 01/04/2013 BOS vs. IND W 30 18 9 14 64.3 0 0 - 0 2 0.0 0 5 5 7 2 1 3 0 15
+p506
+aVJarvis Varnado BOS 01/04/2013 BOS vs. IND W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p507
+aVJeff Green BOS 01/04/2013 BOS vs. IND W 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 1 1 3 -1
+p508
+aVPaul Pierce BOS 01/04/2013 BOS vs. IND W 29 13 5 10 50.0 2 3 66.7 1 3 33.3 1 5 6 5 1 1 1 2 20
+p509
+aVCourtney Lee BOS 01/04/2013 BOS vs. IND W 23 13 6 9 66.7 1 1 100.0 0 0 - 2 3 5 2 1 0 1 2 13
+p510
+aVLeandro Barbosa BOS 01/04/2013 BOS vs. IND W 6 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -2
+p511
+aVAvery Bradley BOS 01/04/2013 BOS vs. IND W 23 6 3 11 27.3 0 2 0.0 0 0 - 0 1 1 1 1 1 0 1 9
+p512
+aVJason Terry BOS 01/04/2013 BOS vs. IND W 15 6 2 8 25.0 1 3 33.3 1 1 100.0 0 2 2 1 1 0 0 0 3
+p513
+aVBrandon Bass BOS 01/04/2013 BOS vs. IND W 22 4 1 5 20.0 0 0 - 2 2 100.0 2 6 8 1 1 2 3 4 1
+p514
+aVPaul Pierce BOS 01/02/2013 BOS vs. MEM L 34 17 6 14 42.9 4 8 50.0 1 2 50.0 0 7 7 2 2 0 0 4 -5
+p515
+aVJared Sullinger BOS 01/02/2013 BOS vs. MEM L 19 2 1 6 16.7 0 0 - 0 0 - 1 4 5 0 0 0 0 6 10
+p516
+aVCourtney Lee BOS 01/02/2013 BOS vs. MEM L 12 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 3
+p517
+aVRajon Rondo BOS 01/02/2013 BOS vs. MEM L 40 11 4 11 36.4 0 4 0.0 3 4 75.0 1 1 2 10 0 0 3 1 -5
+p518
+aVBrandon Bass BOS 01/02/2013 BOS vs. MEM L 23 9 3 5 60.0 0 0 - 3 3 100.0 0 1 1 1 2 0 1 1 -12
+p519
+aVJeff Green BOS 01/02/2013 BOS vs. MEM L 14 10 4 5 80.0 2 3 66.7 0 0 - 1 1 2 1 1 1 1 2 -6
+p520
+aVJason Collins BOS 01/02/2013 BOS vs. MEM L 18 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -4
+p521
+aVAvery Bradley BOS 01/02/2013 BOS vs. MEM L 20 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 0 1 0 0 3 -12
+p522
+aVJason Terry BOS 01/02/2013 BOS vs. MEM L 27 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 2 1 0 1 0 -4
+p523
+aVKevin Garnett BOS 01/02/2013 BOS vs. MEM L 32 12 5 14 35.7 0 1 0.0 2 5 40.0 0 7 7 5 0 0 3 1 -15
+p524
+aVKevin Garnett BOS 12/30/2012 BOS @ SAC L 28 16 7 13 53.8 0 0 - 2 2 100.0 1 11 12 6 0 0 1 2 0
+p525
+aVJarvis Varnado BOS 12/30/2012 BOS @ SAC L 1 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p526
+aVBrandon Bass BOS 12/30/2012 BOS @ SAC L 20 6 3 5 60.0 0 0 - 0 0 - 3 0 3 0 0 0 1 5 -22
+p527
+aVPaul Pierce BOS 12/30/2012 BOS @ SAC L 25 20 8 15 53.3 4 8 50.0 0 0 - 0 1 1 3 0 0 3 4 -23
+p528
+aVJason Terry BOS 12/30/2012 BOS @ SAC L 33 20 7 12 58.3 2 4 50.0 4 4 100.0 1 2 3 0 1 0 1 1 -16
+p529
+aVJeff Green BOS 12/30/2012 BOS @ SAC L 31 16 5 17 29.4 1 4 25.0 5 7 71.4 2 1 3 1 0 1 2 1 -16
+p530
+aVCourtney Lee BOS 12/30/2012 BOS @ SAC L 21 0 0 6 0.0 0 2 0.0 0 0 - 0 0 0 3 3 1 1 1 7
+p531
+aVJason Collins BOS 12/30/2012 BOS @ SAC L 18 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 5 -16
+p532
+aVJared Sullinger BOS 12/30/2012 BOS @ SAC L 23 10 2 5 40.0 0 0 - 6 6 100.0 2 4 6 1 1 0 0 3 -2
+p533
+aVLeandro Barbosa BOS 12/30/2012 BOS @ SAC L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p534
+aVRajon Rondo BOS 12/30/2012 BOS @ SAC L 36 2 1 6 16.7 0 3 0.0 0 0 - 0 5 5 10 1 0 3 1 -25
+p535
+aVJared Sullinger BOS 12/29/2012 BOS @ GSW L 25 12 6 8 75.0 0 0 - 0 1 0.0 5 3 8 1 1 0 1 2 0
+p536
+aVJeff Green BOS 12/29/2012 BOS @ GSW L 34 6 2 11 18.2 0 2 0.0 2 4 50.0 4 5 9 3 2 2 2 1 5
+p537
+aVKevin Garnett BOS 12/29/2012 BOS @ GSW L 23 6 3 6 50.0 0 0 - 0 0 - 0 3 3 4 2 0 2 1 -25
+p538
+aVJason Collins BOS 12/29/2012 BOS @ GSW L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 -7
+p539
+aVPaul Pierce BOS 12/29/2012 BOS @ GSW L 33 13 4 20 20.0 2 9 22.2 3 3 100.0 1 3 4 3 1 0 2 4 -27
+p540
+aVJason Terry BOS 12/29/2012 BOS @ GSW L 40 13 6 19 31.6 1 7 14.3 0 0 - 0 2 2 3 2 0 3 2 -18
+p541
+aVBrandon Bass BOS 12/29/2012 BOS @ GSW L 26 10 3 6 50.0 0 0 - 4 5 80.0 3 2 5 3 1 1 2 2 -5
+p542
+aVKris Joseph BOS 12/29/2012 BOS @ GSW L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p543
+aVJarvis Varnado BOS 12/29/2012 BOS @ GSW L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p544
+aVCourtney Lee BOS 12/29/2012 BOS @ GSW L 40 18 6 13 46.2 2 3 66.7 4 4 100.0 0 5 5 0 1 0 0 2 -11
+p545
+aVJason Collins BOS 12/27/2012 BOS @ LAC L 17 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -11
+p546
+aVBrandon Bass BOS 12/27/2012 BOS @ LAC L 17 3 1 3 33.3 0 0 - 1 1 100.0 2 7 9 2 1 0 1 2 -8
+p547
+aVPaul Pierce BOS 12/27/2012 BOS @ LAC L 27 12 5 13 38.5 0 2 0.0 2 2 100.0 0 2 2 3 1 0 3 3 -27
+p548
+aVJared Sullinger BOS 12/27/2012 BOS @ LAC L 18 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 2 1 0 1 6 -5
+p549
+aVJarvis Varnado BOS 12/27/2012 BOS @ LAC L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -4
+p550
+aVKevin Garnett BOS 12/27/2012 BOS @ LAC L 26 16 6 11 54.5 0 0 - 4 4 100.0 0 4 4 3 0 1 2 1 -13
+p551
+aVJeff Green BOS 12/27/2012 BOS @ LAC L 29 8 3 9 33.3 0 3 0.0 2 2 100.0 0 2 2 1 1 0 3 3 -15
+p552
+aVCourtney Lee BOS 12/27/2012 BOS @ LAC L 26 12 5 9 55.6 2 4 50.0 0 0 - 0 3 3 1 1 1 0 0 -7
+p553
+aVJason Terry BOS 12/27/2012 BOS @ LAC L 31 10 4 10 40.0 2 4 50.0 0 0 - 1 4 5 2 0 0 1 1 -25
+p554
+aVKris Joseph BOS 12/27/2012 BOS @ LAC L 8 1 0 2 0.0 0 1 0.0 1 2 50.0 1 2 3 0 0 0 1 0 -6
+p555
+aVRajon Rondo BOS 12/27/2012 BOS @ LAC L 34 10 4 12 33.3 2 2 100.0 0 0 - 1 4 5 6 0 1 4 3 -24
+p556
+aVKris Joseph BOS 12/25/2012 BOS @ BKN W 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p557
+aVBrandon Bass BOS 12/25/2012 BOS @ BKN W 19 8 4 11 36.4 0 0 - 0 0 - 1 2 3 0 0 1 0 3 2
+p558
+aVPaul Pierce BOS 12/25/2012 BOS @ BKN W 31 8 3 10 30.0 0 1 0.0 2 2 100.0 0 5 5 10 1 0 2 2 6
+p559
+aVJason Collins BOS 12/25/2012 BOS @ BKN W 13 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 2 5 -6
+p560
+aVJason Terry BOS 12/25/2012 BOS @ BKN W 30 11 4 7 57.1 3 4 75.0 0 0 - 1 1 2 4 1 0 1 2 10
+p561
+aVCourtney Lee BOS 12/25/2012 BOS @ BKN W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 11
+p562
+aVKevin Garnett BOS 12/25/2012 BOS @ BKN W 29 8 4 8 50.0 0 0 - 0 0 - 1 9 10 1 2 2 2 3 15
+p563
+aVJeff Green BOS 12/25/2012 BOS @ BKN W 28 15 5 8 62.5 1 2 50.0 4 4 100.0 0 3 3 2 1 0 1 3 13
+p564
+aVJarvis Varnado BOS 12/25/2012 BOS @ BKN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p565
+aVJared Sullinger BOS 12/25/2012 BOS @ BKN W 33 16 6 7 85.7 0 0 - 4 6 66.7 0 7 7 2 1 1 1 5 21
+p566
+aVRajon Rondo BOS 12/25/2012 BOS @ BKN W 36 19 8 16 50.0 2 2 100.0 1 1 100.0 4 2 6 5 3 0 1 2 9
+p567
+aVJared Sullinger BOS 12/21/2012 BOS vs. MIL L 14 4 2 2 100.0 0 0 - 0 0 - 2 5 7 2 0 0 1 6 -1
+p568
+aVJason Terry BOS 12/21/2012 BOS vs. MIL L 32 4 1 15 6.7 1 9 11.1 1 1 100.0 0 0 0 1 0 0 0 0 -10
+p569
+aVPaul Pierce BOS 12/21/2012 BOS vs. MIL L 43 35 13 23 56.5 3 7 42.9 6 8 75.0 2 10 12 5 3 0 6 4 3
+p570
+aVCourtney Lee BOS 12/21/2012 BOS vs. MIL L 27 11 5 9 55.6 1 3 33.3 0 0 - 0 2 2 0 2 0 1 3 -1
+p571
+aVJason Collins BOS 12/21/2012 BOS vs. MIL L 15 2 0 0 - 0 0 - 2 3 66.7 0 2 2 0 0 1 1 4 -4
+p572
+aVJeff Green BOS 12/21/2012 BOS vs. MIL L 28 14 4 9 44.4 0 3 0.0 6 6 100.0 1 2 3 2 4 2 1 3 7
+p573
+aVBrandon Bass BOS 12/21/2012 BOS vs. MIL L 23 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 1 1 1 0 2 -9
+p574
+aVKevin Garnett BOS 12/21/2012 BOS vs. MIL L 38 12 6 22 27.3 0 1 0.0 0 0 - 3 4 7 1 2 0 2 0 -9
+p575
+aVRajon Rondo BOS 12/21/2012 BOS vs. MIL L 45 6 3 8 37.5 0 1 0.0 0 0 - 2 3 5 11 4 1 2 0 -1
+p576
+aVJeff Green BOS 12/19/2012 BOS vs. CLE W 14 3 1 4 25.0 0 2 0.0 1 2 50.0 0 1 1 0 0 1 1 1 -17
+p577
+aVRajon Rondo BOS 12/19/2012 BOS vs. CLE W 37 20 7 11 63.6 0 1 0.0 6 10 60.0 0 4 4 8 2 1 4 5 22
+p578
+aVJared Sullinger BOS 12/19/2012 BOS vs. CLE W 15 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 1 0 1 4 -3
+p579
+aVCourtney Lee BOS 12/19/2012 BOS vs. CLE W 20 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 1 0 0 3 0 -9
+p580
+aVJason Terry BOS 12/19/2012 BOS vs. CLE W 35 15 6 9 66.7 3 5 60.0 0 0 - 0 3 3 4 1 0 2 1 18
+p581
+aVPaul Pierce BOS 12/19/2012 BOS vs. CLE W 34 40 13 16 81.3 6 7 85.7 8 8 100.0 0 8 8 5 3 1 1 2 29
+p582
+aVKevin Garnett BOS 12/19/2012 BOS vs. CLE W 31 12 5 9 55.6 0 1 0.0 2 3 66.7 0 6 6 3 1 3 2 3 1
+p583
+aVBrandon Bass BOS 12/19/2012 BOS vs. CLE W 27 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 3
+p584
+aVLeandro Barbosa BOS 12/19/2012 BOS vs. CLE W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p585
+aVJason Collins BOS 12/19/2012 BOS vs. CLE W 23 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 1 1 0 6 23
+p586
+aVLeandro Barbosa BOS 12/18/2012 BOS @ CHI L 12 6 1 6 16.7 0 1 0.0 4 4 100.0 0 1 1 3 1 0 1 1 3
+p587
+aVCourtney Lee BOS 12/18/2012 BOS @ CHI L 23 14 7 11 63.6 0 1 0.0 0 0 - 1 0 1 0 1 0 0 1 3
+p588
+aVJason Terry BOS 12/18/2012 BOS @ CHI L 26 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 1 1 2 1 -18
+p589
+aVPaul Pierce BOS 12/18/2012 BOS @ CHI L 31 16 6 10 60.0 2 3 66.7 2 4 50.0 0 3 3 4 0 0 0 2 -13
+p590
+aVJeff Green BOS 12/18/2012 BOS @ CHI L 20 3 1 6 16.7 1 2 50.0 0 0 - 0 1 1 0 2 0 0 1 -3
+p591
+aVJason Collins BOS 12/18/2012 BOS @ CHI L 12 0 0 0 - 0 0 - 0 0 - 3 2 5 0 1 0 0 2 1
+p592
+aVKevin Garnett BOS 12/18/2012 BOS @ CHI L 25 10 5 10 50.0 0 0 - 0 0 - 1 7 8 0 0 0 1 1 -13
+p593
+aVJared Sullinger BOS 12/18/2012 BOS @ CHI L 16 1 0 6 0.0 0 0 - 1 2 50.0 1 2 3 1 0 1 1 4 -3
+p594
+aVRajon Rondo BOS 12/18/2012 BOS @ CHI L 34 26 9 18 50.0 2 3 66.7 6 8 75.0 2 0 2 8 0 0 3 2 -9
+p595
+aVBrandon Bass BOS 12/18/2012 BOS @ CHI L 27 7 3 9 33.3 0 0 - 1 1 100.0 2 6 8 0 0 0 1 0 -1
+p596
+aVChris Wilcox BOS 12/18/2012 BOS @ CHI L 13 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 1 0 0 3 -2
+p597
+aVCourtney Lee BOS 12/15/2012 BOS @ SAS L 30 11 5 10 50.0 0 1 0.0 1 1 100.0 1 4 5 1 0 0 0 1 -12
+p598
+aVLeandro Barbosa BOS 12/15/2012 BOS @ SAS L 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p599
+aVJared Sullinger BOS 12/15/2012 BOS @ SAS L 11 2 1 2 50.0 0 0 - 0 0 - 4 3 7 0 1 0 0 1 1
+p600
+aVKevin Garnett BOS 12/15/2012 BOS @ SAS L 30 13 6 13 46.2 0 0 - 1 2 50.0 1 5 6 3 2 1 0 2 0
+p601
+aVPaul Pierce BOS 12/15/2012 BOS @ SAS L 30 18 7 13 53.8 2 5 40.0 2 2 100.0 0 5 5 4 3 1 4 1 -12
+p602
+aVJeff Green BOS 12/15/2012 BOS @ SAS L 32 10 5 10 50.0 0 0 - 0 0 - 1 2 3 1 0 1 1 4 -1
+p603
+aVBrandon Bass BOS 12/15/2012 BOS @ SAS L 18 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -21
+p604
+aVRajon Rondo BOS 12/15/2012 BOS @ SAS L 34 6 3 7 42.9 0 1 0.0 0 0 - 1 4 5 9 0 0 7 4 -17
+p605
+aVJason Terry BOS 12/15/2012 BOS @ SAS L 31 18 6 13 46.2 4 9 44.4 2 3 66.7 0 2 2 4 0 0 2 0 1
+p606
+aVChris Wilcox BOS 12/15/2012 BOS @ SAS L 13 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 2 3 -9
+p607
+aVPaul Pierce BOS 12/14/2012 BOS @ HOU L 41 18 5 18 27.8 2 6 33.3 6 8 75.0 0 7 7 3 3 0 1 2 -16
+p608
+aVChris Wilcox BOS 12/14/2012 BOS @ HOU L 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 2 6
+p609
+aVCourtney Lee BOS 12/14/2012 BOS @ HOU L 27 8 3 7 42.9 1 2 50.0 1 2 50.0 0 3 3 0 2 1 0 2 -19
+p610
+aVKevin Garnett BOS 12/14/2012 BOS @ HOU L 27 14 6 12 50.0 0 0 - 2 2 100.0 1 4 5 2 1 1 1 3 -9
+p611
+aVJason Terry BOS 12/14/2012 BOS @ HOU L 26 12 4 10 40.0 4 8 50.0 0 0 - 0 1 1 0 3 0 2 3 4
+p612
+aVJeff Green BOS 12/14/2012 BOS @ HOU L 25 9 4 11 36.4 1 2 50.0 0 0 - 3 4 7 0 2 0 1 1 2
+p613
+aVJared Sullinger BOS 12/14/2012 BOS @ HOU L 14 7 3 7 42.9 0 0 - 1 2 50.0 4 2 6 1 0 1 0 1 4
+p614
+aVBrandon Bass BOS 12/14/2012 BOS @ HOU L 23 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 1 0 1 -23
+p615
+aVRajon Rondo BOS 12/14/2012 BOS @ HOU L 36 15 6 13 46.2 0 2 0.0 3 3 100.0 1 3 4 13 4 1 7 1 -12
+p616
+aVLeandro Barbosa BOS 12/14/2012 BOS @ HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 3
+p617
+aVKevin Garnett BOS 12/12/2012 BOS vs. DAL W 40 16 7 15 46.7 0 0 - 2 2 100.0 0 5 5 2 2 1 1 2 6
+p618
+aVCourtney Lee BOS 12/12/2012 BOS vs. DAL W 19 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 0 1 1 0 2 -1
+p619
+aVBrandon Bass BOS 12/12/2012 BOS vs. DAL W 33 9 3 7 42.9 0 0 - 3 6 50.0 2 5 7 0 2 0 0 2 2
+p620
+aVJared Sullinger BOS 12/12/2012 BOS vs. DAL W 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 3
+p621
+aVJeff Green BOS 12/12/2012 BOS vs. DAL W 27 15 5 16 31.3 1 4 25.0 4 4 100.0 0 5 5 0 0 0 1 2 6
+p622
+aVJason Terry BOS 12/12/2012 BOS vs. DAL W 48 10 3 10 30.0 1 6 16.7 3 3 100.0 0 1 1 3 3 0 0 3 2
+p623
+aVPaul Pierce BOS 12/12/2012 BOS vs. DAL W 44 34 11 25 44.0 3 8 37.5 9 11 81.8 1 5 6 3 4 1 3 4 2
+p624
+aVRajon Rondo BOS 12/12/2012 BOS vs. DAL W 53 16 8 14 57.1 0 1 0.0 0 0 - 1 8 9 15 3 1 5 5 -4
+p625
+aVChris Wilcox BOS 12/12/2012 BOS vs. DAL W 16 10 4 5 80.0 0 0 - 2 2 100.0 4 2 6 0 0 1 2 1 -6
+p626
+aVCourtney Lee BOS 12/08/2012 BOS vs. PHI W 21 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 1 0 1
+p627
+aVChris Wilcox BOS 12/08/2012 BOS vs. PHI W 18 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 1 2 0 4 -5
+p628
+aVLeandro Barbosa BOS 12/08/2012 BOS vs. PHI W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -4
+p629
+aVJason Terry BOS 12/08/2012 BOS vs. PHI W 28 9 3 9 33.3 2 5 40.0 1 2 50.0 0 1 1 0 0 0 1 0 3
+p630
+aVBrandon Bass BOS 12/08/2012 BOS vs. PHI W 32 10 5 8 62.5 0 0 - 0 0 - 1 3 4 0 0 0 1 3 12
+p631
+aVKevin Garnett BOS 12/08/2012 BOS vs. PHI W 23 19 9 11 81.8 0 0 - 1 1 100.0 0 0 0 2 1 0 1 2 15
+p632
+aVRajon Rondo BOS 12/08/2012 BOS vs. PHI W 36 7 3 6 50.0 0 2 0.0 1 3 33.3 2 7 9 11 3 0 4 2 22
+p633
+aVJeff Green BOS 12/08/2012 BOS vs. PHI W 23 16 7 12 58.3 1 1 100.0 1 1 100.0 0 0 0 1 0 0 2 2 3
+p634
+aVPaul Pierce BOS 12/08/2012 BOS vs. PHI W 33 13 5 11 45.5 0 2 0.0 3 4 75.0 0 3 3 9 1 0 1 1 14
+p635
+aVJared Sullinger BOS 12/08/2012 BOS vs. PHI W 22 7 3 8 37.5 0 1 0.0 1 1 100.0 3 6 9 0 0 0 0 3 4
+p636
+aVBrandon Bass BOS 12/07/2012 BOS @ PHI L 23 2 0 1 0.0 0 0 - 2 2 100.0 1 6 7 0 0 1 2 3 -12
+p637
+aVJared Sullinger BOS 12/07/2012 BOS @ PHI L 14 0 0 0 - 0 0 - 0 0 - 0 5 5 0 0 0 2 2 5
+p638
+aVCourtney Lee BOS 12/07/2012 BOS @ PHI L 20 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 1 1 0 3 5
+p639
+aVKevin Garnett BOS 12/07/2012 BOS @ PHI L 34 17 7 11 63.6 0 0 - 3 4 75.0 2 8 10 2 1 0 3 3 -10
+p640
+aVJason Terry BOS 12/07/2012 BOS @ PHI L 44 4 1 12 8.3 1 7 14.3 1 1 100.0 0 3 3 1 0 0 0 2 -6
+p641
+aVChris Wilcox BOS 12/07/2012 BOS @ PHI L 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 1 4
+p642
+aVJeff Green BOS 12/07/2012 BOS @ PHI L 29 19 6 12 50.0 3 5 60.0 4 4 100.0 1 7 8 0 1 1 2 2 3
+p643
+aVRajon Rondo BOS 12/07/2012 BOS @ PHI L 42 16 8 14 57.1 0 0 - 0 2 0.0 3 10 13 14 3 3 5 4 -1
+p644
+aVPaul Pierce BOS 12/07/2012 BOS @ PHI L 45 27 9 24 37.5 1 8 12.5 8 12 66.7 0 4 4 5 0 1 4 3 7
+p645
+aVKevin Garnett BOS 12/05/2012 BOS vs. MIN W 27 18 8 13 61.5 0 1 0.0 2 4 50.0 1 9 10 4 1 0 2 2 14
+p646
+aVJason Terry BOS 12/05/2012 BOS vs. MIN W 38 17 7 10 70.0 3 5 60.0 0 0 - 0 5 5 2 0 0 2 1 24
+p647
+aVRajon Rondo BOS 12/05/2012 BOS vs. MIN W 38 17 6 11 54.5 0 3 0.0 5 6 83.3 0 1 1 11 1 0 5 4 -4
+p648
+aVBrandon Bass BOS 12/05/2012 BOS vs. MIN W 30 12 6 9 66.7 0 0 - 0 0 - 2 6 8 1 2 3 0 4 4
+p649
+aVLeandro Barbosa BOS 12/05/2012 BOS vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p650
+aVJeff Green BOS 12/05/2012 BOS vs. MIN W 23 8 4 9 44.4 0 1 0.0 0 0 - 1 3 4 2 0 0 1 1 2
+p651
+aVPaul Pierce BOS 12/05/2012 BOS vs. MIN W 25 18 6 15 40.0 1 6 16.7 5 6 83.3 0 4 4 2 1 0 4 1 8
+p652
+aVKris Joseph BOS 12/05/2012 BOS vs. MIN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p653
+aVCourtney Lee BOS 12/05/2012 BOS vs. MIN W 20 2 1 4 25.0 0 0 - 0 2 0.0 0 1 1 1 1 0 0 2 0
+p654
+aVJared Sullinger BOS 12/05/2012 BOS vs. MIN W 18 7 1 3 33.3 0 1 0.0 5 6 83.3 1 6 7 1 0 2 0 5 6
+p655
+aVChris Wilcox BOS 12/05/2012 BOS vs. MIN W 20 5 2 3 66.7 0 0 - 1 2 50.0 1 4 5 0 0 1 2 4 0
+p656
+aVJason Collins BOS 12/01/2012 BOS @ MIL L 14 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 1 1 3 -1
+p657
+aVPaul Pierce BOS 12/01/2012 BOS @ MIL L 37 19 6 16 37.5 1 4 25.0 6 8 75.0 1 4 5 6 3 1 3 2 12
+p658
+aVBrandon Bass BOS 12/01/2012 BOS @ MIL L 27 4 2 6 33.3 0 0 - 0 0 - 3 5 8 1 1 0 1 1 6
+p659
+aVChris Wilcox BOS 12/01/2012 BOS @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -6
+p660
+aVCourtney Lee BOS 12/01/2012 BOS @ MIL L 39 13 6 11 54.5 1 2 50.0 0 0 - 1 2 3 2 0 0 3 5 -4
+p661
+aVJeff Green BOS 12/01/2012 BOS @ MIL L 23 18 8 11 72.7 2 3 66.7 0 0 - 3 3 6 0 0 1 2 3 -19
+p662
+aVJason Terry BOS 12/01/2012 BOS @ MIL L 40 15 5 17 29.4 2 9 22.2 3 3 100.0 0 3 3 11 3 0 1 0 7
+p663
+aVLeandro Barbosa BOS 12/01/2012 BOS @ MIL L 13 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 2 0 1 1 0 -11
+p664
+aVKevin Garnett BOS 12/01/2012 BOS @ MIL L 31 17 6 11 54.5 0 0 - 5 6 83.3 0 7 7 4 1 1 3 1 4
+p665
+aVJared Sullinger BOS 12/01/2012 BOS @ MIL L 14 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 3 1 3 -3
+p666
+aVJason Collins BOS 11/30/2012 BOS vs. POR W 12 0 0 0 - 0 0 - 0 1 0.0 0 1 1 0 2 0 1 3 -7
+p667
+aVChris Wilcox BOS 11/30/2012 BOS vs. POR W 14 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 4
+p668
+aVKevin Garnett BOS 11/30/2012 BOS vs. POR W 23 10 5 8 62.5 0 0 - 0 0 - 0 5 5 4 1 1 2 3 21
+p669
+aVKris Joseph BOS 11/30/2012 BOS vs. POR W 5 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -3
+p670
+aVCourtney Lee BOS 11/30/2012 BOS vs. POR W 37 10 4 10 40.0 0 2 0.0 2 2 100.0 1 6 7 5 3 0 3 1 18
+p671
+aVJason Terry BOS 11/30/2012 BOS vs. POR W 31 17 7 11 63.6 2 5 40.0 1 1 100.0 0 2 2 1 0 0 0 1 8
+p672
+aVBrandon Bass BOS 11/30/2012 BOS vs. POR W 17 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 7
+p673
+aVJared Sullinger BOS 11/30/2012 BOS vs. POR W 31 9 4 6 66.7 0 0 - 1 2 50.0 2 6 8 2 2 0 3 4 11
+p674
+aVJeff Green BOS 11/30/2012 BOS vs. POR W 23 19 6 13 46.2 2 4 50.0 5 5 100.0 1 2 3 2 4 1 4 5 13
+p675
+aVPaul Pierce BOS 11/30/2012 BOS vs. POR W 27 12 3 7 42.9 1 4 25.0 5 5 100.0 0 8 8 5 0 0 5 1 19
+p676
+aVLeandro Barbosa BOS 11/30/2012 BOS vs. POR W 21 9 3 5 60.0 1 1 100.0 2 2 100.0 0 0 0 1 3 2 1 1 -1
+p677
+aVBrandon Bass BOS 11/28/2012 BOS vs. BKN L 29 16 7 12 58.3 0 0 - 2 2 100.0 1 2 3 1 0 2 2 3 4
+p678
+aVJared Sullinger BOS 11/28/2012 BOS vs. BKN L 14 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 0 1 0 0 3 -8
+p679
+aVLeandro Barbosa BOS 11/28/2012 BOS vs. BKN L 13 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -6
+p680
+aVRajon Rondo BOS 11/28/2012 BOS vs. BKN L 18 6 3 9 33.3 0 0 - 0 0 - 0 1 1 3 2 0 2 1 -2
+p681
+aVKevin Garnett BOS 11/28/2012 BOS vs. BKN L 29 16 7 13 53.8 0 0 - 2 2 100.0 2 8 10 1 0 0 3 3 3
+p682
+aVJason Terry BOS 11/28/2012 BOS vs. BKN L 35 13 3 8 37.5 1 3 33.3 6 7 85.7 0 4 4 2 1 0 0 3 1
+p683
+aVCourtney Lee BOS 11/28/2012 BOS vs. BKN L 27 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 1 2 1 -15
+p684
+aVPaul Pierce BOS 11/28/2012 BOS vs. BKN L 39 14 4 13 30.8 0 3 0.0 6 11 54.5 0 9 9 7 2 0 5 2 -6
+p685
+aVJeff Green BOS 11/28/2012 BOS vs. BKN L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -9
+p686
+aVChris Wilcox BOS 11/28/2012 BOS vs. BKN L 7 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -13
+p687
+aVJason Collins BOS 11/28/2012 BOS vs. BKN L 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 3 -9
+p688
+aVBrandon Bass BOS 11/25/2012 BOS @ ORL W 35 13 5 14 35.7 0 0 - 3 4 75.0 5 7 12 2 1 0 2 3 11
+p689
+aVCourtney Lee BOS 11/25/2012 BOS @ ORL W 24 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 1 1 1 0 3 -6
+p690
+aVChris Wilcox BOS 11/25/2012 BOS @ ORL W 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p691
+aVJared Sullinger BOS 11/25/2012 BOS @ ORL W 19 11 5 12 41.7 0 0 - 1 1 100.0 6 0 6 1 0 0 0 4 -6
+p692
+aVJason Terry BOS 11/25/2012 BOS @ ORL W 27 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 3 3 0 3 1 16
+p693
+aVRajon Rondo BOS 11/25/2012 BOS @ ORL W 42 15 7 15 46.7 0 1 0.0 1 2 50.0 1 8 9 16 2 0 1 4 9
+p694
+aVJeff Green BOS 11/25/2012 BOS @ ORL W 20 1 0 9 0.0 0 3 0.0 1 2 50.0 0 2 2 1 0 1 1 0 -3
+p695
+aVKevin Garnett BOS 11/25/2012 BOS @ ORL W 36 24 10 17 58.8 0 1 0.0 4 5 80.0 3 7 10 1 2 0 3 1 10
+p696
+aVLeandro Barbosa BOS 11/25/2012 BOS @ ORL W 11 15 6 8 75.0 2 3 66.7 1 1 100.0 0 1 1 0 0 0 2 4 -3
+p697
+aVPaul Pierce BOS 11/25/2012 BOS @ ORL W 37 23 8 17 47.1 3 5 60.0 4 4 100.0 0 5 5 1 0 0 3 2 4
+p698
+aVChris Wilcox BOS 11/23/2012 BOS vs. OKC W 15 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -5
+p699
+aVJeff Green BOS 11/23/2012 BOS vs. OKC W 25 17 6 11 54.5 0 1 0.0 5 5 100.0 0 2 2 0 1 1 2 4 3
+p700
+aVKevin Garnett BOS 11/23/2012 BOS vs. OKC W 32 18 5 11 45.5 0 0 - 8 10 80.0 2 7 9 4 1 0 2 4 19
+p701
+aVJared Sullinger BOS 11/23/2012 BOS vs. OKC W 14 8 4 6 66.7 0 0 - 0 0 - 2 1 3 1 1 0 1 4 15
+p702
+aVCourtney Lee BOS 11/23/2012 BOS vs. OKC W 19 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 3 1 0 1 1 8
+p703
+aVRajon Rondo BOS 11/23/2012 BOS vs. OKC W 37 6 2 5 40.0 1 2 50.0 1 2 50.0 0 8 8 16 2 0 2 2 -9
+p704
+aVPaul Pierce BOS 11/23/2012 BOS vs. OKC W 31 27 8 16 50.0 4 6 66.7 7 7 100.0 0 4 4 1 3 0 5 5 1
+p705
+aVJason Terry BOS 11/23/2012 BOS vs. OKC W 30 16 6 8 75.0 4 6 66.7 0 0 - 0 2 2 0 1 0 0 1 0
+p706
+aVLeandro Barbosa BOS 11/23/2012 BOS vs. OKC W 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 17
+p707
+aVBrandon Bass BOS 11/23/2012 BOS vs. OKC W 27 6 3 12 25.0 0 0 - 0 0 - 4 2 6 0 0 0 1 2 -9
+p708
+aVRajon Rondo BOS 11/21/2012 BOS vs. SAS L 40 22 8 16 50.0 0 1 0.0 6 7 85.7 0 2 2 15 2 0 4 3 -5
+p709
+aVBrandon Bass BOS 11/21/2012 BOS vs. SAS L 29 16 7 10 70.0 0 0 - 2 2 100.0 1 5 6 0 2 1 0 3 -5
+p710
+aVCourtney Lee BOS 11/21/2012 BOS vs. SAS L 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 4 1 -14
+p711
+aVChris Wilcox BOS 11/21/2012 BOS vs. SAS L 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 6
+p712
+aVKevin Garnett BOS 11/21/2012 BOS vs. SAS L 31 14 7 14 50.0 0 0 - 0 0 - 0 3 3 1 1 2 0 4 -7
+p713
+aVLeandro Barbosa BOS 11/21/2012 BOS vs. SAS L 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 1 0 1 1 -15
+p714
+aVPaul Pierce BOS 11/21/2012 BOS vs. SAS L 36 19 6 11 54.5 1 3 33.3 6 6 100.0 0 0 0 2 1 1 0 0 -1
+p715
+aVJason Terry BOS 11/21/2012 BOS vs. SAS L 31 12 5 9 55.6 1 2 50.0 1 1 100.0 0 1 1 0 2 0 3 0 4
+p716
+aVJared Sullinger BOS 11/21/2012 BOS vs. SAS L 20 2 1 3 33.3 0 0 - 0 0 - 0 7 7 0 0 1 0 2 -14
+p717
+aVJeff Green BOS 11/21/2012 BOS vs. SAS L 16 5 2 7 28.6 1 2 50.0 0 1 0.0 0 0 0 1 0 0 0 0 -9
+p718
+aVCourtney Lee BOS 11/18/2012 BOS @ DET L 20 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 2 2 -7
+p719
+aVKevin Garnett BOS 11/18/2012 BOS @ DET L 20 15 6 9 66.7 0 0 - 3 5 60.0 1 3 4 0 0 0 3 0 -4
+p720
+aVJason Terry BOS 11/18/2012 BOS @ DET L 30 5 1 6 16.7 0 4 0.0 3 4 75.0 0 3 3 0 1 0 0 1 -12
+p721
+aVJeff Green BOS 11/18/2012 BOS @ DET L 22 6 2 5 40.0 0 2 0.0 2 2 100.0 1 1 2 1 0 0 1 2 -11
+p722
+aVPaul Pierce BOS 11/18/2012 BOS @ DET L 30 13 5 13 38.5 1 5 20.0 2 2 100.0 0 4 4 0 1 0 3 3 -8
+p723
+aVBrandon Bass BOS 11/18/2012 BOS @ DET L 17 6 3 9 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -1
+p724
+aVJared Sullinger BOS 11/18/2012 BOS @ DET L 27 16 7 12 58.3 0 0 - 2 2 100.0 2 3 5 0 0 0 2 3 -20
+p725
+aVChris Wilcox BOS 11/18/2012 BOS @ DET L 20 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 1 0 0 3 -12
+p726
+aVLeandro Barbosa BOS 11/18/2012 BOS @ DET L 15 5 1 6 16.7 0 1 0.0 3 4 75.0 0 1 1 1 2 0 0 0 -8
+p727
+aVRajon Rondo BOS 11/18/2012 BOS @ DET L 38 12 5 7 71.4 2 3 66.7 0 0 - 1 2 3 10 1 0 6 3 -17
+p728
+aVJared Sullinger BOS 11/17/2012 BOS vs. TOR W 26 12 5 8 62.5 0 0 - 2 2 100.0 4 7 11 0 1 0 0 3 9
+p729
+aVRajon Rondo BOS 11/17/2012 BOS vs. TOR W 32 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 20 1 0 5 2 19
+p730
+aVPaul Pierce BOS 11/17/2012 BOS vs. TOR W 25 19 6 15 40.0 1 5 20.0 6 6 100.0 0 6 6 2 0 0 1 1 4
+p731
+aVCourtney Lee BOS 11/17/2012 BOS vs. TOR W 19 4 2 5 40.0 0 0 - 0 0 - 0 3 3 4 3 0 3 2 8
+p732
+aVChris Wilcox BOS 11/17/2012 BOS vs. TOR W 25 8 4 8 50.0 0 0 - 0 1 0.0 2 0 2 1 1 0 2 4 17
+p733
+aVKevin Garnett BOS 11/17/2012 BOS vs. TOR W 17 15 6 7 85.7 0 0 - 3 4 75.0 1 4 5 1 0 0 0 1 5
+p734
+aVJeff Green BOS 11/17/2012 BOS vs. TOR W 26 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 2 0 0 1 2 15
+p735
+aVBrandon Bass BOS 11/17/2012 BOS vs. TOR W 24 6 3 7 42.9 0 0 - 0 0 - 0 3 3 2 0 2 1 5 4
+p736
+aVJason Terry BOS 11/17/2012 BOS vs. TOR W 29 20 7 10 70.0 4 7 57.1 2 2 100.0 0 2 2 2 1 0 0 2 10
+p737
+aVLeandro Barbosa BOS 11/17/2012 BOS vs. TOR W 16 8 3 6 50.0 1 2 50.0 1 2 50.0 0 1 1 3 0 0 0 1 -1
+p738
+aVJason Terry BOS 11/15/2012 BOS @ BKN L 28 10 3 7 42.9 2 4 50.0 2 4 50.0 2 2 4 6 1 0 1 0 3
+p739
+aVCourtney Lee BOS 11/15/2012 BOS @ BKN L 33 13 4 8 50.0 1 2 50.0 4 4 100.0 3 6 9 3 3 0 1 3 -3
+p740
+aVPaul Pierce BOS 11/15/2012 BOS @ BKN L 34 22 8 12 66.7 2 2 100.0 4 6 66.7 0 7 7 4 2 0 2 5 2
+p741
+aVJared Sullinger BOS 11/15/2012 BOS @ BKN L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p742
+aVJeff Green BOS 11/15/2012 BOS @ BKN L 25 5 2 6 33.3 1 1 100.0 0 0 - 1 5 6 1 0 0 4 3 1
+p743
+aVChris Wilcox BOS 11/15/2012 BOS @ BKN L 13 6 2 2 100.0 0 0 - 2 2 100.0 2 1 3 1 0 2 2 3 16
+p744
+aVBrandon Bass BOS 11/15/2012 BOS @ BKN L 30 8 4 14 28.6 0 0 - 0 1 0.0 2 3 5 0 0 0 1 1 -23
+p745
+aVKevin Garnett BOS 11/15/2012 BOS @ BKN L 30 14 6 12 50.0 0 0 - 2 2 100.0 1 6 7 0 0 1 2 1 -12
+p746
+aVLeandro Barbosa BOS 11/15/2012 BOS @ BKN L 30 17 5 11 45.5 1 4 25.0 6 6 100.0 0 2 2 2 2 0 0 4 -8
+p747
+aVJason Collins BOS 11/15/2012 BOS @ BKN L 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p748
+aVPaul Pierce BOS 11/14/2012 BOS vs. UTA W 29 23 7 17 41.2 3 7 42.9 6 7 85.7 0 2 2 2 2 1 2 1 -3
+p749
+aVJeff Green BOS 11/14/2012 BOS vs. UTA W 27 16 5 9 55.6 0 0 - 6 7 85.7 1 3 4 2 0 0 2 2 12
+p750
+aVLeandro Barbosa BOS 11/14/2012 BOS vs. UTA W 23 16 6 8 75.0 1 1 100.0 3 6 50.0 0 2 2 3 0 0 0 1 13
+p751
+aVBrandon Bass BOS 11/14/2012 BOS vs. UTA W 32 8 4 8 50.0 0 0 - 0 0 - 0 3 3 0 0 2 0 3 -2
+p752
+aVCourtney Lee BOS 11/14/2012 BOS vs. UTA W 18 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 1 11
+p753
+aVChris Wilcox BOS 11/14/2012 BOS vs. UTA W 18 7 3 3 100.0 0 0 - 1 2 50.0 1 4 5 0 1 0 1 1 -4
+p754
+aVKevin Garnett BOS 11/14/2012 BOS vs. UTA W 30 11 4 10 40.0 0 0 - 3 4 75.0 0 8 8 4 2 1 0 2 9
+p755
+aVRajon Rondo BOS 11/14/2012 BOS vs. UTA W 25 6 3 9 33.3 0 1 0.0 0 0 - 1 2 3 10 1 0 0 1 -8
+p756
+aVJason Terry BOS 11/14/2012 BOS vs. UTA W 22 3 0 1 0.0 0 0 - 3 3 100.0 0 2 2 2 1 0 3 2 -10
+p757
+aVJared Sullinger BOS 11/14/2012 BOS vs. UTA W 16 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 7
+p758
+aVLeandro Barbosa BOS 11/12/2012 BOS @ CHI W 15 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 3 0 0 1 2 -7
+p759
+aVJeff Green BOS 11/12/2012 BOS @ CHI W 15 7 3 7 42.9 1 2 50.0 0 0 - 1 4 5 0 0 0 1 0 -7
+p760
+aVJared Sullinger BOS 11/12/2012 BOS @ CHI W 13 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 4 0 1 0 2 -10
+p761
+aVRajon Rondo BOS 11/12/2012 BOS @ CHI W 37 20 10 16 62.5 0 2 0.0 0 0 - 1 8 9 10 5 0 5 4 15
+p762
+aVJason Terry BOS 11/12/2012 BOS @ CHI W 26 13 5 10 50.0 1 5 20.0 2 2 100.0 0 1 1 1 0 1 0 2 19
+p763
+aVKevin Garnett BOS 11/12/2012 BOS @ CHI W 29 15 6 15 40.0 0 0 - 3 3 100.0 0 5 5 1 1 0 0 4 10
+p764
+aVChris Wilcox BOS 11/12/2012 BOS @ CHI W 19 7 2 2 100.0 0 0 - 3 3 100.0 1 1 2 0 0 0 0 4 -4
+p765
+aVBrandon Bass BOS 11/12/2012 BOS @ CHI W 34 16 5 6 83.3 0 0 - 6 6 100.0 2 3 5 3 1 2 0 2 18
+p766
+aVPaul Pierce BOS 11/12/2012 BOS @ CHI W 33 10 4 13 30.8 0 3 0.0 2 2 100.0 1 5 6 5 2 1 1 3 13
+p767
+aVCourtney Lee BOS 11/12/2012 BOS @ CHI W 18 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -17
+p768
+aVBrandon Bass BOS 11/10/2012 BOS @ MIL W 31 8 3 6 50.0 0 0 - 2 2 100.0 2 5 7 0 0 1 1 6 4
+p769
+aVKevin Garnett BOS 11/10/2012 BOS @ MIL W 31 18 6 10 60.0 0 0 - 6 6 100.0 1 5 6 3 0 0 0 0 7
+p770
+aVJeff Green BOS 11/10/2012 BOS @ MIL W 25 12 3 8 37.5 0 1 0.0 6 8 75.0 0 3 3 0 1 2 3 3 -1
+p771
+aVCourtney Lee BOS 11/10/2012 BOS @ MIL W 28 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 3
+p772
+aVJason Terry BOS 11/10/2012 BOS @ MIL W 22 15 5 7 71.4 2 3 66.7 3 4 75.0 0 1 1 1 0 0 1 2 5
+p773
+aVJared Sullinger BOS 11/10/2012 BOS @ MIL W 7 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 0 0 0 2 -1
+p774
+aVChris Wilcox BOS 11/10/2012 BOS @ MIL W 15 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 1 0 2 3 -5
+p775
+aVPaul Pierce BOS 11/10/2012 BOS @ MIL W 35 25 8 18 44.4 3 7 42.9 6 8 75.0 1 8 9 3 1 1 2 2 8
+p776
+aVRajon Rondo BOS 11/10/2012 BOS @ MIL W 37 10 4 9 44.4 0 0 - 2 4 50.0 1 4 5 11 1 0 4 4 4
+p777
+aVLeandro Barbosa BOS 11/10/2012 BOS @ MIL W 8 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -4
+p778
+aVJared Sullinger BOS 11/09/2012 BOS vs. PHI L 19 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 1 0 3 -7
+p779
+aVPaul Pierce BOS 11/09/2012 BOS vs. PHI L 36 24 8 16 50.0 2 3 66.7 6 9 66.7 0 4 4 5 2 0 3 4 -5
+p780
+aVJason Terry BOS 11/09/2012 BOS vs. PHI L 29 13 5 7 71.4 2 4 50.0 1 1 100.0 0 1 1 1 1 0 1 2 5
+p781
+aVJeff Green BOS 11/09/2012 BOS vs. PHI L 18 4 1 5 20.0 0 1 0.0 2 3 66.7 1 3 4 0 0 1 0 0 -6
+p782
+aVKevin Garnett BOS 11/09/2012 BOS vs. PHI L 31 19 8 13 61.5 0 0 - 3 4 75.0 2 8 10 2 2 0 1 1 -2
+p783
+aVLeandro Barbosa BOS 11/09/2012 BOS vs. PHI L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -7
+p784
+aVRajon Rondo BOS 11/09/2012 BOS vs. PHI L 42 14 6 17 35.3 0 1 0.0 2 4 50.0 1 1 2 20 2 0 4 1 2
+p785
+aVChris Wilcox BOS 11/09/2012 BOS vs. PHI L 12 6 1 1 100.0 0 0 - 4 6 66.7 0 0 0 0 0 0 0 3 1
+p786
+aVBrandon Bass BOS 11/09/2012 BOS vs. PHI L 23 8 2 7 28.6 0 0 - 4 4 100.0 1 1 2 0 0 1 2 3 -5
+p787
+aVCourtney Lee BOS 11/09/2012 BOS vs. PHI L 19 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 0 0 0 2 0 -6
+p788
+aVKevin Garnett BOS 11/07/2012 BOS vs. WAS W 35 20 7 16 43.8 0 0 - 6 7 85.7 1 12 13 2 1 2 3 5 9
+p789
+aVRajon Rondo BOS 11/07/2012 BOS vs. WAS W 44 18 7 11 63.6 1 2 50.0 3 4 75.0 0 4 4 14 3 0 4 4 11
+p790
+aVJason Terry BOS 11/07/2012 BOS vs. WAS W 32 16 7 15 46.7 2 5 40.0 0 0 - 0 1 1 3 0 0 1 0 7
+p791
+aVPaul Pierce BOS 11/07/2012 BOS vs. WAS W 41 15 2 12 16.7 1 4 25.0 10 12 83.3 1 9 10 2 4 0 1 3 -5
+p792
+aVJeff Green BOS 11/07/2012 BOS vs. WAS W 22 6 3 6 50.0 0 0 - 0 0 - 0 2 2 2 0 0 2 0 2
+p793
+aVJared Sullinger BOS 11/07/2012 BOS vs. WAS W 24 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 1 2 0 -2
+p794
+aVCourtney Lee BOS 11/07/2012 BOS vs. WAS W 19 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -2
+p795
+aVBrandon Bass BOS 11/07/2012 BOS vs. WAS W 33 11 4 9 44.4 0 0 - 3 4 75.0 2 5 7 0 1 0 2 4 6
+p796
+aVChris Wilcox BOS 11/07/2012 BOS vs. WAS W 4 6 1 1 100.0 0 0 - 4 5 80.0 0 2 2 0 0 1 0 0 8
+p797
+aVLeandro Barbosa BOS 11/07/2012 BOS vs. WAS W 12 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 1 1 0 -4
+p798
+aVJeff Green BOS 11/03/2012 BOS @ WAS W 16 11 5 10 50.0 1 2 50.0 0 2 0.0 0 2 2 0 1 0 1 1 -5
+p799
+aVRajon Rondo BOS 11/03/2012 BOS @ WAS W 40 12 5 10 50.0 2 2 100.0 0 0 - 2 3 5 12 2 0 2 1 15
+p800
+aVKevin Garnett BOS 11/03/2012 BOS @ WAS W 29 15 7 15 46.7 0 0 - 1 2 50.0 0 7 7 2 0 1 1 0 10
+p801
+aVBrandon Bass BOS 11/03/2012 BOS @ WAS W 28 5 2 6 33.3 0 0 - 1 1 100.0 2 3 5 2 1 2 0 2 -8
+p802
+aVJared Sullinger BOS 11/03/2012 BOS @ WAS W 30 4 2 3 66.7 0 0 - 0 0 - 1 6 7 0 1 1 1 4 7
+p803
+aVLeandro Barbosa BOS 11/03/2012 BOS @ WAS W 8 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 0 -12
+p804
+aVPaul Pierce BOS 11/03/2012 BOS @ WAS W 35 27 10 22 45.5 4 8 50.0 3 4 75.0 1 6 7 3 0 0 2 2 15
+p805
+aVJason Terry BOS 11/03/2012 BOS @ WAS W 17 8 2 8 25.0 0 2 0.0 4 4 100.0 0 0 0 3 2 0 1 0 -12
+p806
+aVCourtney Lee BOS 11/03/2012 BOS @ WAS W 29 4 2 7 28.6 0 4 0.0 0 0 - 0 2 2 1 1 0 0 0 10
+p807
+aVChris Wilcox BOS 11/03/2012 BOS @ WAS W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p808
+aVLeandro Barbosa BOS 11/02/2012 BOS vs. MIL L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p809
+aVKris Joseph BOS 11/02/2012 BOS vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 9
+p810
+aVChris Wilcox BOS 11/02/2012 BOS vs. MIL L 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 9
+p811
+aVJeff Green BOS 11/02/2012 BOS vs. MIL L 27 11 5 9 55.6 1 4 25.0 0 0 - 0 1 1 0 2 1 1 0 -16
+p812
+aVJason Terry BOS 11/02/2012 BOS vs. MIL L 25 10 4 6 66.7 2 2 100.0 0 0 - 0 2 2 2 0 0 3 4 1
+p813
+aVBrandon Bass BOS 11/02/2012 BOS vs. MIL L 27 10 3 6 50.0 0 1 0.0 4 4 100.0 1 5 6 3 1 0 1 0 -13
+p814
+aVDarko Milicic BOS 11/02/2012 BOS vs. MIL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -3
+p815
+aVKevin Garnett BOS 11/02/2012 BOS vs. MIL L 26 15 6 14 42.9 0 0 - 3 5 60.0 1 3 4 0 1 2 1 1 -4
+p816
+aVJared Sullinger BOS 11/02/2012 BOS vs. MIL L 18 6 2 5 40.0 0 0 - 2 2 100.0 3 4 7 0 1 1 0 4 -4
+p817
+aVRajon Rondo BOS 11/02/2012 BOS vs. MIL L 40 14 6 12 50.0 0 1 0.0 2 4 50.0 0 4 4 11 3 0 2 3 -14
+p818
+aVPaul Pierce BOS 11/02/2012 BOS vs. MIL L 28 11 3 11 27.3 1 3 33.3 4 4 100.0 0 6 6 2 0 0 4 3 -9
+p819
+aVCourtney Lee BOS 11/02/2012 BOS vs. MIL L 33 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 1 1 0 3 2 -14
+p820
+aVKevin Garnett BOS 10/30/2012 BOS @ MIA L 32 9 4 8 50.0 0 0 - 1 1 100.0 1 11 12 2 0 2 5 4 -4
+p821
+aVCourtney Lee BOS 10/30/2012 BOS @ MIA L 24 11 5 6 83.3 1 1 100.0 0 0 - 0 1 1 1 0 0 1 5 -7
+p822
+aVLeandro Barbosa BOS 10/30/2012 BOS @ MIA L 16 16 6 8 75.0 3 3 100.0 1 2 50.0 0 1 1 1 0 0 0 1 4
+p823
+aVJason Terry BOS 10/30/2012 BOS @ MIA L 25 8 2 7 28.6 0 3 0.0 4 4 100.0 0 0 0 1 1 0 3 3 -10
+p824
+aVRajon Rondo BOS 10/30/2012 BOS @ MIA L 44 20 9 14 64.3 0 2 0.0 2 4 50.0 0 7 7 13 0 0 4 4 -13
+p825
+aVPaul Pierce BOS 10/30/2012 BOS @ MIA L 41 23 6 15 40.0 2 4 50.0 9 9 100.0 0 5 5 5 2 0 0 3 -17
+p826
+aVJeff Green BOS 10/30/2012 BOS @ MIA L 23 3 0 4 0.0 0 0 - 3 4 75.0 0 3 3 0 1 0 1 0 -7
+p827
+aVBrandon Bass BOS 10/30/2012 BOS @ MIA L 28 15 6 11 54.5 0 0 - 3 4 75.0 6 5 11 1 0 0 1 2 -8
+p828
+aVJared Sullinger BOS 10/30/2012 BOS @ MIA L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p829
+a.

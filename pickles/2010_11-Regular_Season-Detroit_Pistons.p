@@ -1,0 +1,1676 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTayshaun Prince DET 04/13/2011 DET @ PHI W 23 14 6 9 66.7 2 4 50.0 0 0 - 0 1 1 0 0 0 0 0 11
+p2
+aVRichard Hamilton DET 04/13/2011 DET @ PHI W 28 9 2 5 40.0 0 0 - 5 6 83.3 0 4 4 7 0 2 1 4 13
+p3
+aVDaJuan Summers DET 04/13/2011 DET @ PHI W 25 10 4 9 44.4 1 3 33.3 1 2 50.0 0 2 2 0 0 1 1 0 -7
+p4
+aVRodney Stuckey DET 04/13/2011 DET @ PHI W 43 29 9 15 60.0 1 3 33.3 10 11 90.9 0 4 4 8 2 0 4 2 2
+p5
+aVJason Maxiell DET 04/13/2011 DET @ PHI W 23 10 4 7 57.1 0 0 - 2 4 50.0 3 2 5 0 0 0 0 0 -2
+p6
+aVAustin Daye DET 04/13/2011 DET @ PHI W 31 6 2 10 20.0 0 3 0.0 2 2 100.0 0 7 7 5 1 2 1 4 -2
+p7
+aVGreg Monroe DET 04/13/2011 DET @ PHI W 32 10 3 10 30.0 0 0 - 4 6 66.7 0 13 13 3 1 0 1 5 11
+p8
+aVChris Wilcox DET 04/13/2011 DET @ PHI W 11 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 1
+p9
+aVBen Gordon DET 04/13/2011 DET @ PHI W 25 10 4 8 50.0 2 4 50.0 0 0 - 1 3 4 2 0 0 2 1 -7
+p10
+aVJason Maxiell DET 04/11/2011 DET vs. CLE L 33 4 1 7 14.3 0 0 - 2 4 50.0 4 10 14 1 0 1 2 3 -11
+p11
+aVGreg Monroe DET 04/11/2011 DET vs. CLE L 27 10 5 6 83.3 0 0 - 0 0 - 3 7 10 0 0 2 0 5 -9
+p12
+aVRodney Stuckey DET 04/11/2011 DET vs. CLE L 45 29 8 14 57.1 0 1 0.0 13 13 100.0 0 2 2 14 0 0 2 2 3
+p13
+aVCharlie Villanueva DET 04/11/2011 DET vs. CLE L 15 8 3 9 33.3 2 2 100.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p14
+aVAustin Daye DET 04/11/2011 DET vs. CLE L 31 6 2 7 28.6 0 1 0.0 2 4 50.0 3 5 8 1 1 2 1 4 -8
+p15
+aVRichard Hamilton DET 04/11/2011 DET vs. CLE L 22 13 6 10 60.0 1 2 50.0 0 0 - 0 2 2 2 1 1 1 3 -1
+p16
+aVTayshaun Prince DET 04/11/2011 DET vs. CLE L 20 6 3 6 50.0 0 0 - 0 0 - 0 1 1 4 0 1 1 0 -13
+p17
+aVChris Wilcox DET 04/11/2011 DET vs. CLE L 21 16 6 7 85.7 0 0 - 4 7 57.1 2 5 7 0 0 0 4 4 6
+p18
+aVBen Gordon DET 04/11/2011 DET vs. CLE L 26 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 0 1 0 4 5 -8
+p19
+aVRichard Hamilton DET 04/10/2011 DET @ CHA W 22 11 5 7 71.4 1 1 100.0 0 0 - 1 3 4 6 1 0 2 1 0
+p20
+aVGreg Monroe DET 04/10/2011 DET @ CHA W 30 10 5 9 55.6 0 1 0.0 0 0 - 5 4 9 4 0 1 0 2 -1
+p21
+aVTayshaun Prince DET 04/10/2011 DET @ CHA W 23 9 4 9 44.4 1 2 50.0 0 0 - 0 0 0 3 1 0 0 0 1
+p22
+aVBen Gordon DET 04/10/2011 DET @ CHA W 26 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 6 0 1 1 2 11
+p23
+aVCharlie Villanueva DET 04/10/2011 DET @ CHA W 24 20 8 15 53.3 1 6 16.7 3 3 100.0 0 6 6 0 2 1 0 2 11
+p24
+aVRodney Stuckey DET 04/10/2011 DET @ CHA W 40 24 8 18 44.4 2 5 40.0 6 8 75.0 0 3 3 11 1 1 2 0 21
+p25
+aVAustin Daye DET 04/10/2011 DET @ CHA W 22 8 2 3 66.7 1 1 100.0 3 6 50.0 1 1 2 1 2 0 4 4 13
+p26
+aVChris Wilcox DET 04/10/2011 DET @ CHA W 19 14 7 10 70.0 0 0 - 0 0 - 3 4 7 0 1 0 0 4 7
+p27
+aVJason Maxiell DET 04/10/2011 DET @ CHA W 26 10 4 6 66.7 0 0 - 2 2 100.0 1 6 7 1 1 0 2 4 2
+p28
+aVTracy McGrady DET 04/10/2011 DET @ CHA W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -10
+p29
+aVRodney Stuckey DET 04/08/2011 DET vs. MIL W 34 22 7 14 50.0 0 1 0.0 8 8 100.0 0 4 4 4 0 0 5 2 0
+p30
+aVRichard Hamilton DET 04/08/2011 DET vs. MIL W 32 9 2 10 20.0 0 0 - 5 6 83.3 2 2 4 6 1 0 3 1 11
+p31
+aVTracy McGrady DET 04/08/2011 DET vs. MIL W 14 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 2 1 0 10
+p32
+aVChris Wilcox DET 04/08/2011 DET vs. MIL W 24 27 12 18 66.7 0 0 - 3 3 100.0 5 8 13 0 1 1 1 2 9
+p33
+aVBen Gordon DET 04/08/2011 DET vs. MIL W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 0 2 -1
+p34
+aVGreg Monroe DET 04/08/2011 DET vs. MIL W 33 11 2 3 66.7 0 0 - 7 8 87.5 2 6 8 3 0 0 0 2 3
+p35
+aVTayshaun Prince DET 04/08/2011 DET vs. MIL W 35 16 6 14 42.9 0 3 0.0 4 4 100.0 2 5 7 1 0 0 1 2 9
+p36
+aVAustin Daye DET 04/08/2011 DET vs. MIL W 20 5 2 4 50.0 1 1 100.0 0 0 - 2 2 4 3 0 0 0 1 3
+p37
+aVJason Maxiell DET 04/08/2011 DET vs. MIL W 15 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 0 7
+p38
+aVCharlie Villanueva DET 04/08/2011 DET vs. MIL W 15 15 7 13 53.8 1 5 20.0 0 0 - 1 1 2 0 1 1 1 2 -1
+p39
+aVTayshaun Prince DET 04/06/2011 DET vs. NJN W 32 8 2 5 40.0 0 1 0.0 4 4 100.0 0 3 3 1 1 0 1 1 9
+p40
+aVCharlie Villanueva DET 04/06/2011 DET vs. NJN W 19 8 4 11 36.4 0 3 0.0 0 0 - 1 4 5 0 0 2 0 2 3
+p41
+aVRichard Hamilton DET 04/06/2011 DET vs. NJN W 35 25 8 11 72.7 0 0 - 9 10 90.0 1 4 5 9 2 0 2 3 7
+p42
+aVChris Wilcox DET 04/06/2011 DET vs. NJN W 24 12 6 7 85.7 0 0 - 0 1 0.0 2 3 5 1 0 0 0 6 3
+p43
+aVRodney Stuckey DET 04/06/2011 DET vs. NJN W 34 22 8 16 50.0 0 0 - 6 6 100.0 1 4 5 10 0 0 5 1 13
+p44
+aVAustin Daye DET 04/06/2011 DET vs. NJN W 19 9 3 5 60.0 1 2 50.0 2 2 100.0 1 3 4 3 0 1 0 2 0
+p45
+aVBen Gordon DET 04/06/2011 DET vs. NJN W 16 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -2
+p46
+aVGreg Monroe DET 04/06/2011 DET vs. NJN W 34 20 7 10 70.0 0 0 - 6 7 85.7 4 6 10 1 2 2 3 5 7
+p47
+aVWill Bynum DET 04/06/2011 DET vs. NJN W 14 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 -6
+p48
+aVJason Maxiell DET 04/06/2011 DET vs. NJN W 13 2 0 3 0.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 1 1
+p49
+aVTayshaun Prince DET 04/05/2011 DET @ WAS L 31 14 7 16 43.8 0 2 0.0 0 0 - 0 4 4 1 0 0 3 1 -9
+p50
+aVDaJuan Summers DET 04/05/2011 DET @ WAS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p51
+aVWill Bynum DET 04/05/2011 DET @ WAS L 32 14 4 12 33.3 1 5 20.0 5 6 83.3 0 1 1 2 2 0 1 4 -11
+p52
+aVBen Gordon DET 04/05/2011 DET @ WAS L 14 9 3 6 50.0 2 3 66.7 1 1 100.0 1 1 2 1 0 0 1 1 13
+p53
+aVGreg Monroe DET 04/05/2011 DET @ WAS L 43 22 7 13 53.8 0 0 - 8 10 80.0 9 5 14 4 4 1 2 5 -8
+p54
+aVJason Maxiell DET 04/05/2011 DET @ WAS L 21 6 3 6 50.0 0 0 - 0 1 0.0 1 2 3 0 1 0 3 1 11
+p55
+aVRichard Hamilton DET 04/05/2011 DET @ WAS L 20 2 1 11 9.1 0 1 0.0 0 0 - 0 1 1 1 0 0 3 0 -14
+p56
+aVAustin Daye DET 04/05/2011 DET @ WAS L 25 14 6 10 60.0 2 4 50.0 0 1 0.0 1 5 6 1 1 0 2 1 8
+p57
+aVBen Wallace DET 04/05/2011 DET @ WAS L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 1 0 3 2
+p58
+aVChris Wilcox DET 04/05/2011 DET @ WAS L 16 10 5 11 45.5 0 0 - 0 0 - 5 4 9 2 0 0 0 3 -10
+p59
+aVTracy McGrady DET 04/05/2011 DET @ WAS L 29 14 7 11 63.6 0 1 0.0 0 1 0.0 3 2 5 6 1 1 1 2 10
+p60
+aVGreg Monroe DET 04/03/2011 DET @ BOS L 34 11 4 6 66.7 0 0 - 3 4 75.0 2 3 5 5 3 0 0 1 -9
+p61
+aVWill Bynum DET 04/03/2011 DET @ BOS L 31 20 8 14 57.1 2 2 100.0 2 3 66.7 0 0 0 1 3 0 4 1 -11
+p62
+aVTayshaun Prince DET 04/03/2011 DET @ BOS L 33 16 4 11 36.4 3 5 60.0 5 6 83.3 1 1 2 3 2 0 0 1 -9
+p63
+aVChris Wilcox DET 04/03/2011 DET @ BOS L 19 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 1 0 0 4 2
+p64
+aVTracy McGrady DET 04/03/2011 DET @ BOS L 17 2 1 1 100.0 0 0 - 0 0 - 1 0 1 2 2 0 1 1 0
+p65
+aVAustin Daye DET 04/03/2011 DET @ BOS L 15 4 1 5 20.0 0 1 0.0 2 2 100.0 1 3 4 1 1 0 0 2 0
+p66
+aVRichard Hamilton DET 04/03/2011 DET @ BOS L 34 14 6 15 40.0 0 1 0.0 2 2 100.0 0 2 2 5 0 0 0 1 -9
+p67
+aVCharlie Villanueva DET 04/03/2011 DET @ BOS L 28 15 6 13 46.2 3 7 42.9 0 0 - 1 4 5 0 2 0 3 1 -15
+p68
+aVBen Gordon DET 04/03/2011 DET @ BOS L 14 2 1 6 16.7 0 5 0.0 0 0 - 0 0 0 0 2 0 0 0 -2
+p69
+aVJason Maxiell DET 04/03/2011 DET @ BOS L 14 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -2
+p70
+aVRichard Hamilton DET 04/01/2011 DET vs. CHI L 33 30 9 14 64.3 1 1 100.0 11 12 91.7 1 3 4 2 1 0 3 3 0
+p71
+aVGreg Monroe DET 04/01/2011 DET vs. CHI L 36 6 3 6 50.0 0 0 - 0 0 - 3 6 9 2 3 0 1 2 -1
+p72
+aVBen Gordon DET 04/01/2011 DET vs. CHI L 15 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 1 0 0 3 0 -5
+p73
+aVChris Wilcox DET 04/01/2011 DET vs. CHI L 23 9 4 8 50.0 0 0 - 1 2 50.0 0 3 3 1 0 0 2 2 -6
+p74
+aVWill Bynum DET 04/01/2011 DET vs. CHI L 28 12 6 9 66.7 0 0 - 0 1 0.0 1 4 5 3 3 0 4 2 -3
+p75
+aVTayshaun Prince DET 04/01/2011 DET vs. CHI L 37 17 8 16 50.0 0 2 0.0 1 2 50.0 3 0 3 6 0 0 4 1 -1
+p76
+aVAustin Daye DET 04/01/2011 DET vs. CHI L 24 6 2 6 33.3 1 4 25.0 1 2 50.0 0 5 5 2 0 3 1 3 1
+p77
+aVRodney Stuckey DET 04/01/2011 DET vs. CHI L 26 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 1 0 2 4 -4
+p78
+aVCharlie Villanueva DET 04/01/2011 DET vs. CHI L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p79
+aVJason Maxiell DET 04/01/2011 DET vs. CHI L 12 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 1 0 0 2 -4
+p80
+aVGreg Monroe DET 03/30/2011 DET @ IND L 33 14 5 7 71.4 0 0 - 4 5 80.0 3 6 9 2 0 1 1 4 3
+p81
+aVRichard Hamilton DET 03/30/2011 DET @ IND L 42 19 8 17 47.1 0 2 0.0 3 4 75.0 2 3 5 5 4 0 6 3 -6
+p82
+aVAustin Daye DET 03/30/2011 DET @ IND L 15 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 2 0 0 1 -13
+p83
+aVCharlie Villanueva DET 03/30/2011 DET @ IND L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -7
+p84
+aVTracy McGrady DET 03/30/2011 DET @ IND L 12 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -5
+p85
+aVBen Gordon DET 03/30/2011 DET @ IND L 18 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 2 7
+p86
+aVRodney Stuckey DET 03/30/2011 DET @ IND L 36 24 10 20 50.0 0 0 - 4 4 100.0 4 3 7 9 2 0 3 4 -5
+p87
+aVJason Maxiell DET 03/30/2011 DET @ IND L 17 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 0 2 0 0 1 -12
+p88
+aVChris Wilcox DET 03/30/2011 DET @ IND L 19 10 5 8 62.5 0 0 - 0 1 0.0 3 4 7 2 0 1 3 4 -10
+p89
+aVTayshaun Prince DET 03/30/2011 DET @ IND L 27 14 6 9 66.7 0 1 0.0 2 2 100.0 0 2 2 2 1 1 0 0 -11
+p90
+aVDaJuan Summers DET 03/30/2011 DET @ IND L 9 5 2 4 50.0 1 2 50.0 0 0 - 1 2 3 0 0 0 2 1 9
+p91
+aVGreg Monroe DET 03/26/2011 DET vs. IND W 37 9 3 9 33.3 0 0 - 3 3 100.0 5 8 13 2 3 1 5 3 20
+p92
+aVJason Maxiell DET 03/26/2011 DET vs. IND W 23 8 3 4 75.0 0 0 - 2 4 50.0 2 2 4 0 0 0 2 1 -3
+p93
+aVRichard Hamilton DET 03/26/2011 DET vs. IND W 37 23 7 13 53.8 2 2 100.0 7 9 77.8 0 3 3 6 0 0 5 3 20
+p94
+aVWill Bynum DET 03/26/2011 DET vs. IND W 18 6 3 6 50.0 0 0 - 0 0 - 0 1 1 4 2 0 0 2 -12
+p95
+aVAustin Daye DET 03/26/2011 DET vs. IND W 24 7 3 8 37.5 1 2 50.0 0 0 - 0 6 6 2 1 0 1 3 8
+p96
+aVTayshaun Prince DET 03/26/2011 DET vs. IND W 34 13 6 11 54.5 1 1 100.0 0 0 - 1 3 4 3 1 1 1 2 26
+p97
+aVChris Wilcox DET 03/26/2011 DET vs. IND W 11 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 1 1 -9
+p98
+aVRodney Stuckey DET 03/26/2011 DET vs. IND W 33 16 7 14 50.0 0 2 0.0 2 4 50.0 1 3 4 6 3 1 2 2 18
+p99
+aVBen Gordon DET 03/26/2011 DET vs. IND W 11 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p100
+aVCharlie Villanueva DET 03/26/2011 DET vs. IND W 12 13 5 5 100.0 3 3 100.0 0 0 - 0 2 2 0 0 0 0 2 0
+p101
+aVWill Bynum DET 03/25/2011 DET @ CLE L 12 5 2 6 33.3 0 1 0.0 1 2 50.0 1 0 1 2 0 0 2 1 1
+p102
+aVRichard Hamilton DET 03/25/2011 DET @ CLE L 31 15 7 17 41.2 0 2 0.0 1 1 100.0 0 2 2 2 1 0 1 3 -12
+p103
+aVRodney Stuckey DET 03/25/2011 DET @ CLE L 27 11 3 11 27.3 1 3 33.3 4 5 80.0 2 2 4 4 1 1 2 1 2
+p104
+aVAustin Daye DET 03/25/2011 DET @ CLE L 28 12 4 9 44.4 1 4 25.0 3 3 100.0 3 4 7 3 2 3 0 2 5
+p105
+aVGreg Monroe DET 03/25/2011 DET @ CLE L 26 11 5 9 55.6 0 0 - 1 4 25.0 7 1 8 0 1 1 0 1 -3
+p106
+aVTayshaun Prince DET 03/25/2011 DET @ CLE L 36 15 7 16 43.8 0 1 0.0 1 1 100.0 0 4 4 2 0 2 0 1 -9
+p107
+aVJason Maxiell DET 03/25/2011 DET @ CLE L 16 0 0 1 0.0 0 0 - 0 0 - 0 4 4 2 1 0 4 4 -7
+p108
+aVChris Wilcox DET 03/25/2011 DET @ CLE L 27 12 5 8 62.5 0 0 - 2 3 66.7 1 7 8 0 0 1 1 5 -7
+p109
+aVTracy McGrady DET 03/25/2011 DET @ CLE L 21 2 1 5 20.0 0 0 - 0 1 0.0 0 1 1 3 2 0 2 0 -8
+p110
+aVBen Gordon DET 03/25/2011 DET @ CLE L 17 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 1 8
+p111
+aVJason Maxiell DET 03/23/2011 DET vs. MIA L 13 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 1 0 0 2 -15
+p112
+aVRodney Stuckey DET 03/23/2011 DET vs. MIA L 29 9 3 8 37.5 0 1 0.0 3 4 75.0 1 2 3 6 0 0 2 3 -9
+p113
+aVGreg Monroe DET 03/23/2011 DET vs. MIA L 35 14 5 10 50.0 0 0 - 4 6 66.7 5 7 12 2 2 0 2 4 9
+p114
+aVAustin Daye DET 03/23/2011 DET vs. MIA L 14 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 2 0 1 1 3 -9
+p115
+aVChris Wilcox DET 03/23/2011 DET vs. MIA L 18 10 5 6 83.3 0 0 - 0 0 - 1 3 4 2 0 0 1 3 4
+p116
+aVBen Gordon DET 03/23/2011 DET vs. MIA L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -15
+p117
+aVTracy McGrady DET 03/23/2011 DET vs. MIA L 36 7 3 6 50.0 0 1 0.0 1 2 50.0 0 6 6 5 2 0 3 2 2
+p118
+aVTayshaun Prince DET 03/23/2011 DET vs. MIA L 39 13 5 12 41.7 1 3 33.3 2 3 66.7 0 4 4 5 1 0 1 3 3
+p119
+aVRichard Hamilton DET 03/23/2011 DET vs. MIA L 37 27 9 16 56.3 2 6 33.3 7 8 87.5 0 2 2 4 0 0 1 4 9
+p120
+aVCharlie Villanueva DET 03/23/2011 DET vs. MIA L 9 7 2 5 40.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 0 0 -9
+p121
+aVBen Gordon DET 03/20/2011 DET @ ATL L 20 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 1 0 0 1 0 -5
+p122
+aVChris Wilcox DET 03/20/2011 DET @ ATL L 18 18 9 10 90.0 0 0 - 0 0 - 2 2 4 0 0 2 2 5 5
+p123
+aVGreg Monroe DET 03/20/2011 DET @ ATL L 37 17 6 7 85.7 0 0 - 5 8 62.5 1 9 10 2 3 0 2 0 -8
+p124
+aVRodney Stuckey DET 03/20/2011 DET @ ATL L 31 22 9 18 50.0 1 3 33.3 3 3 100.0 1 1 2 8 1 0 2 2 1
+p125
+aVTracy McGrady DET 03/20/2011 DET @ ATL L 26 4 2 8 25.0 0 1 0.0 0 0 - 1 5 6 4 1 0 2 2 -1
+p126
+aVAustin Daye DET 03/20/2011 DET @ ATL L 18 5 1 3 33.3 1 2 50.0 2 2 100.0 2 0 2 1 0 0 0 4 -8
+p127
+aVTayshaun Prince DET 03/20/2011 DET @ ATL L 37 10 5 13 38.5 0 1 0.0 0 0 - 0 3 3 5 0 0 0 3 3
+p128
+aVBen Wallace DET 03/20/2011 DET @ ATL L 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -9
+p129
+aVRichard Hamilton DET 03/20/2011 DET @ ATL L 24 6 2 9 22.2 0 2 0.0 2 2 100.0 1 0 1 2 0 0 1 2 -7
+p130
+aVCharlie Villanueva DET 03/20/2011 DET @ ATL L 11 6 2 4 50.0 1 2 50.0 1 2 50.0 0 1 1 0 0 1 0 2 -11
+p131
+aVCharlie Villanueva DET 03/18/2011 DET vs. NYK W 24 14 4 10 40.0 4 6 66.7 2 2 100.0 1 3 4 3 0 0 1 2 6
+p132
+aVTracy McGrady DET 03/18/2011 DET vs. NYK W 22 6 3 7 42.9 0 0 - 0 0 - 0 3 3 3 4 1 2 1 6
+p133
+aVRodney Stuckey DET 03/18/2011 DET vs. NYK W 33 12 6 10 60.0 0 0 - 0 0 - 1 2 3 2 2 0 4 3 4
+p134
+aVChris Wilcox DET 03/18/2011 DET vs. NYK W 21 13 5 6 83.3 0 0 - 3 8 37.5 3 9 12 3 1 0 0 2 15
+p135
+aVGreg Monroe DET 03/18/2011 DET vs. NYK W 27 8 4 7 57.1 0 0 - 0 0 - 3 2 5 2 1 1 1 3 -11
+p136
+aVBen Gordon DET 03/18/2011 DET vs. NYK W 24 10 4 7 57.1 1 1 100.0 1 1 100.0 0 1 1 2 0 0 0 1 -8
+p137
+aVWill Bynum DET 03/18/2011 DET vs. NYK W 12 5 1 6 16.7 0 0 - 3 4 75.0 0 0 0 5 0 0 0 1 12
+p138
+aVAustin Daye DET 03/18/2011 DET vs. NYK W 22 11 3 9 33.3 0 2 0.0 5 5 100.0 1 2 3 0 2 1 0 2 6
+p139
+aVTayshaun Prince DET 03/18/2011 DET vs. NYK W 32 16 8 17 47.1 0 3 0.0 0 1 0.0 2 1 3 4 2 0 2 1 -6
+p140
+aVBen Wallace DET 03/18/2011 DET vs. NYK W 23 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 2 2 2 0 1 -4
+p141
+aVGreg Monroe DET 03/16/2011 DET vs. TOR W 35 21 9 14 64.3 0 0 - 3 5 60.0 3 7 10 5 1 1 0 1 13
+p142
+aVCharlie Villanueva DET 03/16/2011 DET vs. TOR W 13 9 4 6 66.7 1 3 33.3 0 0 - 1 2 3 0 0 0 0 2 -1
+p143
+aVRodney Stuckey DET 03/16/2011 DET vs. TOR W 27 3 0 1 0.0 0 0 - 3 4 75.0 1 2 3 14 2 0 2 3 5
+p144
+aVBen Gordon DET 03/16/2011 DET vs. TOR W 13 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 2 0 0 1 0 -1
+p145
+aVTayshaun Prince DET 03/16/2011 DET vs. TOR W 33 22 10 17 58.8 0 1 0.0 2 2 100.0 2 4 6 3 0 0 1 1 14
+p146
+aVAustin Daye DET 03/16/2011 DET vs. TOR W 14 3 1 5 20.0 0 2 0.0 1 2 50.0 1 4 5 0 0 1 0 0 4
+p147
+aVChris Wilcox DET 03/16/2011 DET vs. TOR W 16 6 2 5 40.0 0 0 - 2 6 33.3 2 2 4 1 0 0 0 3 2
+p148
+aVBen Wallace DET 03/16/2011 DET vs. TOR W 24 6 2 6 33.3 0 0 - 2 2 100.0 1 7 8 1 1 2 2 0 11
+p149
+aVTracy McGrady DET 03/16/2011 DET vs. TOR W 30 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 4 1 1 2 3 8
+p150
+aVRichard Hamilton DET 03/16/2011 DET vs. TOR W 35 24 9 16 56.3 4 9 44.4 2 2 100.0 0 2 2 3 1 1 1 1 15
+p151
+aVCharlie Villanueva DET 03/12/2011 DET @ DEN L 21 8 3 9 33.3 2 5 40.0 0 0 - 0 2 2 0 1 1 3 3 -16
+p152
+aVRodney Stuckey DET 03/12/2011 DET @ DEN L 24 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 4 0 0 0 1 -15
+p153
+aVWill Bynum DET 03/12/2011 DET @ DEN L 23 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 10 1 0 0 3 -19
+p154
+aVBen Gordon DET 03/12/2011 DET @ DEN L 29 13 5 9 55.6 3 5 60.0 0 0 - 0 6 6 1 0 0 4 3 -19
+p155
+aVRichard Hamilton DET 03/12/2011 DET @ DEN L 24 15 6 15 40.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 0 0 -3
+p156
+aVGreg Monroe DET 03/12/2011 DET @ DEN L 27 8 4 7 57.1 0 0 - 0 0 - 3 3 6 1 3 0 2 1 -14
+p157
+aVTracy McGrady DET 03/12/2011 DET @ DEN L 22 8 4 10 40.0 0 2 0.0 0 0 - 2 3 5 5 1 0 0 2 -19
+p158
+aVChris Wilcox DET 03/12/2011 DET @ DEN L 21 21 10 12 83.3 0 0 - 1 1 100.0 1 2 3 0 0 0 1 5 -16
+p159
+aVTayshaun Prince DET 03/12/2011 DET @ DEN L 30 12 6 12 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 1 -17
+p160
+aVAustin Daye DET 03/12/2011 DET @ DEN L 21 8 3 3 100.0 0 0 - 2 2 100.0 1 5 6 0 0 0 1 1 -12
+p161
+aVBen Gordon DET 03/11/2011 DET @ OKC L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 3 1 -5
+p162
+aVAustin Daye DET 03/11/2011 DET @ OKC L 19 4 2 8 25.0 0 1 0.0 0 0 - 3 2 5 1 0 1 1 3 -10
+p163
+aVRichard Hamilton DET 03/11/2011 DET @ OKC L 34 20 9 18 50.0 1 3 33.3 1 2 50.0 1 0 1 2 1 0 3 1 -5
+p164
+aVTayshaun Prince DET 03/11/2011 DET @ OKC L 38 15 6 14 42.9 1 1 100.0 2 2 100.0 1 0 1 3 0 0 1 3 -6
+p165
+aVRodney Stuckey DET 03/11/2011 DET @ OKC L 32 16 6 8 75.0 2 2 100.0 2 2 100.0 0 3 3 6 0 0 3 4 -7
+p166
+aVGreg Monroe DET 03/11/2011 DET @ OKC L 38 14 5 9 55.6 0 0 - 4 4 100.0 5 5 10 5 1 0 1 1 -6
+p167
+aVChris Wilcox DET 03/11/2011 DET @ OKC L 16 8 4 5 80.0 0 0 - 0 0 - 0 4 4 1 1 0 1 1 -3
+p168
+aVTracy McGrady DET 03/11/2011 DET @ OKC L 29 9 3 9 33.3 1 2 50.0 2 6 33.3 3 6 9 5 1 0 2 3 0
+p169
+aVCharlie Villanueva DET 03/11/2011 DET @ OKC L 10 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 1 0 0 -4
+p170
+aVJason Maxiell DET 03/11/2011 DET @ OKC L 10 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 2 -4
+p171
+aVChris Wilcox DET 03/09/2011 DET @ SAS L 14 5 2 4 50.0 0 0 - 1 1 100.0 1 0 1 0 2 0 0 1 -9
+p172
+aVRichard Hamilton DET 03/09/2011 DET @ SAS L 31 20 9 15 60.0 0 1 0.0 2 2 100.0 1 0 1 3 0 0 4 2 -3
+p173
+aVTracy McGrady DET 03/09/2011 DET @ SAS L 35 15 6 11 54.5 2 2 100.0 1 2 50.0 1 6 7 9 2 1 2 3 4
+p174
+aVBen Gordon DET 03/09/2011 DET @ SAS L 21 12 4 10 40.0 3 4 75.0 1 1 100.0 0 0 0 1 0 0 1 1 -1
+p175
+aVCharlie Villanueva DET 03/09/2011 DET @ SAS L 14 6 2 6 33.3 0 3 0.0 2 2 100.0 3 2 5 1 1 0 0 3 1
+p176
+aVRodney Stuckey DET 03/09/2011 DET @ SAS L 16 3 1 5 20.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 1 -11
+p177
+aVJason Maxiell DET 03/09/2011 DET @ SAS L 16 6 2 3 66.7 0 0 - 2 4 50.0 3 3 6 0 0 0 0 1 -6
+p178
+aVTayshaun Prince DET 03/09/2011 DET @ SAS L 37 16 7 20 35.0 0 1 0.0 2 3 66.7 2 2 4 3 0 0 0 2 -5
+p179
+aVAustin Daye DET 03/09/2011 DET @ SAS L 24 5 2 6 33.3 1 2 50.0 0 0 - 0 5 5 2 0 0 3 6 -4
+p180
+aVGreg Monroe DET 03/09/2011 DET @ SAS L 32 16 7 13 53.8 0 0 - 2 3 66.7 9 1 10 2 2 0 1 3 -1
+p181
+aVTayshaun Prince DET 03/06/2011 DET vs. WAS W 37 20 10 19 52.6 0 1 0.0 0 0 - 1 5 6 2 0 0 1 0 16
+p182
+aVGreg Monroe DET 03/06/2011 DET vs. WAS W 21 12 5 8 62.5 0 0 - 2 3 66.7 2 5 7 0 0 3 0 4 9
+p183
+aVWill Bynum DET 03/06/2011 DET vs. WAS W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 0 0 3 3 -5
+p184
+aVRichard Hamilton DET 03/06/2011 DET vs. WAS W 27 10 3 9 33.3 1 1 100.0 3 4 75.0 0 2 2 6 0 0 1 1 8
+p185
+aVBen Gordon DET 03/06/2011 DET vs. WAS W 21 10 4 8 50.0 1 3 33.3 1 1 100.0 2 0 2 4 0 0 0 3 3
+p186
+aVAustin Daye DET 03/06/2011 DET vs. WAS W 18 12 5 6 83.3 2 3 66.7 0 0 - 0 5 5 2 0 2 1 4 1
+p187
+aVRodney Stuckey DET 03/06/2011 DET vs. WAS W 41 19 8 18 44.4 0 1 0.0 3 3 100.0 4 3 7 9 1 1 2 1 22
+p188
+aVJason Maxiell DET 03/06/2011 DET vs. WAS W 17 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 1 0 5 -7
+p189
+aVCharlie Villanueva DET 03/06/2011 DET vs. WAS W 23 16 6 11 54.5 3 8 37.5 1 1 100.0 1 4 5 1 0 0 0 1 -2
+p190
+aVChris Wilcox DET 03/06/2011 DET vs. WAS W 25 8 4 9 44.4 0 1 0.0 0 0 - 0 5 5 2 1 0 1 3 10
+p191
+aVRodney Stuckey DET 03/02/2011 DET vs. MIN L 36 11 4 9 44.4 0 1 0.0 3 6 50.0 3 2 5 10 3 0 2 3 2
+p192
+aVJason Maxiell DET 03/02/2011 DET vs. MIN L 11 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 3 1 -12
+p193
+aVCharlie Villanueva DET 03/02/2011 DET vs. MIN L 22 13 4 12 33.3 2 8 25.0 3 4 75.0 1 1 2 0 0 0 0 1 -10
+p194
+aVChris Wilcox DET 03/02/2011 DET vs. MIN L 17 7 3 6 50.0 0 0 - 1 2 50.0 1 6 7 1 0 2 0 0 0
+p195
+aVWill Bynum DET 03/02/2011 DET vs. MIN L 15 4 0 2 0.0 0 1 0.0 4 4 100.0 0 1 1 4 0 0 0 2 -18
+p196
+aVDaJuan Summers DET 03/02/2011 DET vs. MIN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p197
+aVGreg Monroe DET 03/02/2011 DET vs. MIN L 37 18 8 14 57.1 0 0 - 2 4 50.0 7 4 11 2 4 1 1 5 1
+p198
+aVRichard Hamilton DET 03/02/2011 DET vs. MIN L 26 11 5 12 41.7 1 5 20.0 0 0 - 0 2 2 6 1 0 1 2 -6
+p199
+aVBen Gordon DET 03/02/2011 DET vs. MIN L 32 13 5 12 41.7 0 3 0.0 3 4 75.0 0 4 4 3 2 1 1 4 -10
+p200
+aVAustin Daye DET 03/02/2011 DET vs. MIN L 39 22 7 18 38.9 2 6 33.3 6 7 85.7 1 3 4 3 0 1 2 6 2
+p201
+aVRichard Hamilton DET 03/01/2011 DET @ MIL L 26 10 4 17 23.5 0 3 0.0 2 3 66.7 0 2 2 3 2 0 0 0 4
+p202
+aVAustin Daye DET 03/01/2011 DET @ MIL L 27 6 3 8 37.5 0 3 0.0 0 0 - 0 5 5 1 0 0 1 4 -1
+p203
+aVDaJuan Summers DET 03/01/2011 DET @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p204
+aVBen Gordon DET 03/01/2011 DET @ MIL L 35 10 4 12 33.3 2 3 66.7 0 0 - 2 3 5 4 1 0 1 1 6
+p205
+aVJason Maxiell DET 03/01/2011 DET @ MIL L 11 8 3 4 75.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 0 -9
+p206
+aVCharlie Villanueva DET 03/01/2011 DET @ MIL L 25 12 5 12 41.7 2 4 50.0 0 2 0.0 2 7 9 1 1 1 2 1 1
+p207
+aVWill Bynum DET 03/01/2011 DET @ MIL L 16 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 3 1 0 2 4 -4
+p208
+aVRodney Stuckey DET 03/01/2011 DET @ MIL L 43 25 8 15 53.3 0 2 0.0 9 10 90.0 3 4 7 5 2 1 5 4 -3
+p209
+aVGreg Monroe DET 03/01/2011 DET @ MIL L 37 13 6 10 60.0 0 0 - 1 3 33.3 6 3 9 1 0 1 3 2 9
+p210
+aVChris Wilcox DET 03/01/2011 DET @ MIL L 16 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -10
+p211
+aVJason Maxiell DET 02/26/2011 DET vs. UTA W 13 4 1 2 50.0 0 0 - 2 4 50.0 1 3 4 1 3 0 0 0 10
+p212
+aVDaJuan Summers DET 02/26/2011 DET vs. UTA W 18 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 4 8
+p213
+aVBen Gordon DET 02/26/2011 DET vs. UTA W 34 17 5 13 38.5 2 2 100.0 5 7 71.4 1 3 4 2 0 0 3 2 7
+p214
+aVAustin Daye DET 02/26/2011 DET vs. UTA W 38 18 6 13 46.2 4 5 80.0 2 2 100.0 1 1 2 0 0 0 0 5 -6
+p215
+aVGreg Monroe DET 02/26/2011 DET vs. UTA W 37 12 6 12 50.0 0 0 - 0 1 0.0 5 11 16 2 2 1 1 3 -6
+p216
+aVChris Wilcox DET 02/26/2011 DET vs. UTA W 16 7 3 4 75.0 0 0 - 1 3 33.3 1 2 3 1 0 0 2 2 -5
+p217
+aVWill Bynum DET 02/26/2011 DET vs. UTA W 23 11 4 9 44.4 0 1 0.0 3 3 100.0 1 1 2 8 4 0 2 6 20
+p218
+aVCharlie Villanueva DET 02/26/2011 DET vs. UTA W 20 16 6 10 60.0 4 5 80.0 0 0 - 1 4 5 0 0 0 0 4 5
+p219
+aVRodney Stuckey DET 02/26/2011 DET vs. UTA W 41 28 9 18 50.0 0 1 0.0 10 11 90.9 4 1 5 8 2 0 1 4 -13
+p220
+aVCharlie Villanueva DET 02/25/2011 DET @ PHI L 36 17 6 14 42.9 3 6 50.0 2 3 66.7 1 4 5 1 2 0 3 2 -11
+p221
+aVDaJuan Summers DET 02/25/2011 DET @ PHI L 39 10 3 8 37.5 0 1 0.0 4 6 66.7 0 2 2 1 1 0 2 1 -9
+p222
+aVBen Gordon DET 02/25/2011 DET @ PHI L 45 16 6 17 35.3 0 2 0.0 4 6 66.7 1 3 4 5 1 0 3 5 -18
+p223
+aVWill Bynum DET 02/25/2011 DET @ PHI L 48 29 12 24 50.0 1 2 50.0 4 5 80.0 1 4 5 6 1 0 3 5 -16
+p224
+aVJason Maxiell DET 02/25/2011 DET @ PHI L 29 6 3 6 50.0 0 0 - 0 0 - 0 5 5 2 0 1 3 2 -14
+p225
+aVGreg Monroe DET 02/25/2011 DET @ PHI L 43 16 7 9 77.8 0 0 - 2 2 100.0 3 8 11 4 3 1 0 1 -12
+p226
+aVGreg Monroe DET 02/23/2011 DET @ IND L 32 27 11 17 64.7 0 0 - 5 7 71.4 6 6 12 1 1 0 1 4 8
+p227
+aVJason Maxiell DET 02/23/2011 DET @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p228
+aVBen Wallace DET 02/23/2011 DET @ IND L 34 6 3 4 75.0 0 0 - 0 0 - 5 5 10 1 2 1 1 1 8
+p229
+aVChris Wilcox DET 02/23/2011 DET @ IND L 17 6 3 6 50.0 0 0 - 0 0 - 0 6 6 0 0 0 1 2 -10
+p230
+aVTayshaun Prince DET 02/23/2011 DET @ IND L 9 0 0 3 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p231
+aVDaJuan Summers DET 02/23/2011 DET @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p232
+aVAustin Daye DET 02/23/2011 DET @ IND L 14 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 2 1 0 -6
+p233
+aVRodney Stuckey DET 02/23/2011 DET @ IND L 40 21 8 14 57.1 3 4 75.0 2 2 100.0 1 2 3 2 1 0 6 4 6
+p234
+aVTracy McGrady DET 02/23/2011 DET @ IND L 38 16 6 15 40.0 0 2 0.0 4 6 66.7 0 5 5 12 0 1 3 1 8
+p235
+aVCharlie Villanueva DET 02/23/2011 DET @ IND L 4 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -11
+p236
+aVWill Bynum DET 02/23/2011 DET @ IND L 15 9 2 6 33.3 2 4 50.0 3 4 75.0 0 1 1 2 1 0 0 1 -11
+p237
+aVBen Gordon DET 02/23/2011 DET @ IND L 29 12 5 10 50.0 2 3 66.7 0 0 - 0 1 1 2 1 1 2 4 0
+p238
+aVBen Gordon DET 02/22/2011 DET vs. HOU L 28 15 7 12 58.3 1 2 50.0 0 0 - 0 0 0 1 0 1 1 1 2
+p239
+aVAustin Daye DET 02/22/2011 DET vs. HOU L 26 9 3 9 33.3 1 5 20.0 2 2 100.0 0 5 5 0 3 1 1 2 -9
+p240
+aVRodney Stuckey DET 02/22/2011 DET vs. HOU L 28 19 7 15 46.7 0 1 0.0 5 5 100.0 3 0 3 2 0 0 1 1 -14
+p241
+aVGreg Monroe DET 02/22/2011 DET vs. HOU L 27 12 6 13 46.2 0 0 - 0 0 - 7 5 12 1 1 1 0 2 -1
+p242
+aVBen Wallace DET 02/22/2011 DET vs. HOU L 22 2 1 2 50.0 0 0 - 0 0 - 3 4 7 1 0 0 0 0 1
+p243
+aVChris Wilcox DET 02/22/2011 DET vs. HOU L 21 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 0 0 1 0 -7
+p244
+aVTracy McGrady DET 02/22/2011 DET vs. HOU L 22 10 4 11 36.4 0 1 0.0 2 2 100.0 2 6 8 3 1 1 2 3 -8
+p245
+aVWill Bynum DET 02/22/2011 DET vs. HOU L 23 21 9 14 64.3 1 2 50.0 2 2 100.0 1 1 2 6 0 0 0 3 -5
+p246
+aVTayshaun Prince DET 02/22/2011 DET vs. HOU L 30 1 0 9 0.0 0 0 - 1 2 50.0 0 1 1 3 0 0 1 0 1
+p247
+aVCharlie Villanueva DET 02/22/2011 DET vs. HOU L 14 5 1 4 25.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 1 4 0
+p248
+aVTayshaun Prince DET 02/16/2011 DET vs. IND W 39 25 11 16 68.8 0 0 - 3 4 75.0 3 8 11 2 0 0 1 1 2
+p249
+aVChris Wilcox DET 02/16/2011 DET vs. IND W 16 12 6 8 75.0 0 0 - 0 0 - 3 3 6 1 0 0 0 4 3
+p250
+aVGreg Monroe DET 02/16/2011 DET vs. IND W 33 13 6 10 60.0 0 0 - 1 2 50.0 2 2 4 0 1 2 1 2 -1
+p251
+aVBen Gordon DET 02/16/2011 DET vs. IND W 31 16 8 14 57.1 0 1 0.0 0 1 0.0 0 1 1 2 1 0 4 2 -4
+p252
+aVAustin Daye DET 02/16/2011 DET vs. IND W 28 6 3 7 42.9 0 2 0.0 0 2 0.0 0 4 4 1 1 1 1 2 8
+p253
+aVTracy McGrady DET 02/16/2011 DET vs. IND W 29 15 6 13 46.2 1 2 50.0 2 2 100.0 3 2 5 4 0 0 0 0 7
+p254
+aVBen Wallace DET 02/16/2011 DET vs. IND W 28 0 0 2 0.0 0 0 - 0 0 - 4 3 7 2 1 2 0 1 2
+p255
+aVCharlie Villanueva DET 02/16/2011 DET vs. IND W 14 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 1 0 1 0 0 3
+p256
+aVRodney Stuckey DET 02/16/2011 DET vs. IND W 29 18 6 15 40.0 0 0 - 6 6 100.0 2 2 4 6 2 0 1 2 11
+p257
+aVWill Bynum DET 02/16/2011 DET vs. IND W 17 5 2 7 28.6 0 1 0.0 1 2 50.0 0 1 1 7 2 0 0 1 -1
+p258
+aVCharlie Villanueva DET 02/14/2011 DET vs. ATL L 19 13 5 9 55.6 3 7 42.9 0 0 - 0 1 1 0 1 0 0 1 -16
+p259
+aVBen Wallace DET 02/14/2011 DET vs. ATL L 21 0 0 3 0.0 0 0 - 0 0 - 4 3 7 0 0 0 0 0 1
+p260
+aVBen Gordon DET 02/14/2011 DET vs. ATL L 16 5 2 7 28.6 1 3 33.3 0 0 - 1 0 1 1 0 0 0 1 -11
+p261
+aVTracy McGrady DET 02/14/2011 DET vs. ATL L 27 14 3 9 33.3 2 2 100.0 6 6 100.0 0 1 1 4 2 0 1 1 -10
+p262
+aVGreg Monroe DET 02/14/2011 DET vs. ATL L 33 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 -11
+p263
+aVTayshaun Prince DET 02/14/2011 DET vs. ATL L 29 10 5 13 38.5 0 1 0.0 0 0 - 0 2 2 4 0 0 1 3 -6
+p264
+aVDaJuan Summers DET 02/14/2011 DET vs. ATL L 3 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 2
+p265
+aVChris Wilcox DET 02/14/2011 DET vs. ATL L 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 1 2 1 -7
+p266
+aVRodney Stuckey DET 02/14/2011 DET vs. ATL L 34 12 4 9 44.4 0 0 - 4 5 80.0 1 1 2 3 1 0 2 2 -8
+p267
+aVAustin Daye DET 02/14/2011 DET vs. ATL L 24 11 3 6 50.0 3 5 60.0 2 2 100.0 0 5 5 1 1 0 1 3 -4
+p268
+aVWill Bynum DET 02/14/2011 DET vs. ATL L 21 8 2 7 28.6 1 1 100.0 3 4 75.0 1 0 1 7 3 0 3 1 -5
+p269
+aVTayshaun Prince DET 02/13/2011 DET vs. POR L 27 14 6 12 50.0 0 1 0.0 2 2 100.0 0 2 2 0 1 0 0 0 -1
+p270
+aVAustin Daye DET 02/13/2011 DET vs. POR L 19 6 1 3 33.3 1 2 50.0 3 3 100.0 0 1 1 1 0 0 2 4 0
+p271
+aVWill Bynum DET 02/13/2011 DET vs. POR L 23 15 6 11 54.5 0 0 - 3 3 100.0 0 5 5 4 4 0 4 2 -6
+p272
+aVTracy McGrady DET 02/13/2011 DET vs. POR L 28 16 6 12 50.0 1 1 100.0 3 4 75.0 1 1 2 5 3 0 0 1 -1
+p273
+aVCharlie Villanueva DET 02/13/2011 DET vs. POR L 29 10 4 7 57.1 2 4 50.0 0 0 - 1 1 2 2 0 0 3 2 -2
+p274
+aVBen Gordon DET 02/13/2011 DET vs. POR L 25 18 5 10 50.0 2 2 100.0 6 6 100.0 1 2 3 2 1 2 1 1 3
+p275
+aVBen Wallace DET 02/13/2011 DET vs. POR L 19 2 0 1 0.0 0 0 - 2 4 50.0 3 5 8 1 0 0 1 2 -3
+p276
+aVChris Wilcox DET 02/13/2011 DET vs. POR L 14 8 3 3 100.0 0 0 - 2 4 50.0 2 2 4 0 1 0 2 5 -4
+p277
+aVRodney Stuckey DET 02/13/2011 DET vs. POR L 24 2 0 3 0.0 0 0 - 2 3 66.7 1 0 1 7 1 0 4 1 -10
+p278
+aVGreg Monroe DET 02/13/2011 DET vs. POR L 34 9 4 6 66.7 0 0 - 1 1 100.0 0 4 4 1 0 0 1 3 -1
+p279
+aVGreg Monroe DET 02/11/2011 DET vs. MIA L 27 8 3 5 60.0 0 0 - 2 2 100.0 1 3 4 2 1 0 1 1 -17
+p280
+aVChris Wilcox DET 02/11/2011 DET vs. MIA L 14 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 3 -8
+p281
+aVAustin Daye DET 02/11/2011 DET vs. MIA L 23 18 6 13 46.2 3 6 50.0 3 4 75.0 0 2 2 3 3 0 1 1 11
+p282
+aVWill Bynum DET 02/11/2011 DET vs. MIA L 20 6 1 4 25.0 0 0 - 4 4 100.0 0 1 1 5 0 2 1 1 6
+p283
+aVJason Maxiell DET 02/11/2011 DET vs. MIA L 5 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 1 0 0 1 8
+p284
+aVBen Wallace DET 02/11/2011 DET vs. MIA L 19 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 1 1 2 -9
+p285
+aVRodney Stuckey DET 02/11/2011 DET vs. MIA L 24 9 4 12 33.3 0 2 0.0 1 2 50.0 0 1 1 4 3 0 1 4 -15
+p286
+aVCharlie Villanueva DET 02/11/2011 DET vs. MIA L 20 5 2 9 22.2 0 4 0.0 1 2 50.0 0 4 4 0 0 0 1 3 -6
+p287
+aVTracy McGrady DET 02/11/2011 DET vs. MIA L 28 9 2 6 33.3 1 3 33.3 4 4 100.0 1 4 5 2 1 1 5 1 -20
+p288
+aVBen Gordon DET 02/11/2011 DET vs. MIA L 27 16 6 13 46.2 3 8 37.5 1 1 100.0 4 3 7 2 1 1 0 4 -3
+p289
+aVTayshaun Prince DET 02/11/2011 DET vs. MIA L 31 11 5 11 45.5 1 1 100.0 0 0 - 0 2 2 2 0 0 1 0 -17
+p290
+aVCharlie Villanueva DET 02/09/2011 DET @ CLE W 18 13 5 8 62.5 3 5 60.0 0 0 - 1 3 4 1 1 0 0 2 7
+p291
+aVGreg Monroe DET 02/09/2011 DET @ CLE W 29 9 4 10 40.0 0 0 - 1 2 50.0 5 3 8 1 1 0 2 3 1
+p292
+aVBen Gordon DET 02/09/2011 DET @ CLE W 22 8 4 11 36.4 0 2 0.0 0 0 - 1 0 1 2 1 0 2 4 -2
+p293
+aVAustin Daye DET 02/09/2011 DET @ CLE W 23 3 1 5 20.0 1 3 33.3 0 0 - 0 5 5 3 0 0 0 2 10
+p294
+aVWill Bynum DET 02/09/2011 DET @ CLE W 26 17 6 10 60.0 1 3 33.3 4 4 100.0 0 0 0 7 1 0 1 4 11
+p295
+aVChris Wilcox DET 02/09/2011 DET @ CLE W 19 6 3 7 42.9 0 0 - 0 2 0.0 3 5 8 1 1 0 1 4 8
+p296
+aVBen Wallace DET 02/09/2011 DET @ CLE W 22 8 4 5 80.0 0 0 - 0 0 - 4 5 9 2 2 1 1 1 1
+p297
+aVTracy McGrady DET 02/09/2011 DET @ CLE W 18 7 2 5 40.0 0 0 - 3 4 75.0 1 1 2 3 1 0 1 0 -9
+p298
+aVRodney Stuckey DET 02/09/2011 DET @ CLE W 30 22 6 16 37.5 2 4 50.0 8 10 80.0 0 2 2 4 0 0 0 1 18
+p299
+aVTayshaun Prince DET 02/09/2011 DET @ CLE W 33 10 4 13 30.8 2 2 100.0 0 0 - 2 3 5 3 2 2 2 0 0
+p300
+aVGreg Monroe DET 02/08/2011 DET vs. SAS L 36 14 5 9 55.6 0 0 - 4 4 100.0 3 10 13 2 0 0 0 2 -13
+p301
+aVJason Maxiell DET 02/08/2011 DET vs. SAS L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p302
+aVTayshaun Prince DET 02/08/2011 DET vs. SAS L 30 12 5 15 33.3 1 1 100.0 1 5 20.0 3 2 5 2 0 0 0 0 -15
+p303
+aVTracy McGrady DET 02/08/2011 DET vs. SAS L 25 7 3 10 30.0 0 1 0.0 1 1 100.0 1 1 2 3 3 0 1 0 -10
+p304
+aVCharlie Villanueva DET 02/08/2011 DET vs. SAS L 13 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 1 0 0 2 0
+p305
+aVRodney Stuckey DET 02/08/2011 DET vs. SAS L 28 10 4 12 33.3 0 0 - 2 2 100.0 0 0 0 3 0 0 2 0 -1
+p306
+aVBen Gordon DET 02/08/2011 DET vs. SAS L 23 8 4 13 30.8 0 2 0.0 0 0 - 0 1 1 0 1 0 1 2 -8
+p307
+aVAustin Daye DET 02/08/2011 DET vs. SAS L 28 10 3 6 50.0 1 4 25.0 3 4 75.0 1 5 6 1 1 2 0 4 0
+p308
+aVWill Bynum DET 02/08/2011 DET vs. SAS L 23 21 9 13 69.2 0 1 0.0 3 3 100.0 0 0 0 2 1 0 2 2 -1
+p309
+aVBen Wallace DET 02/08/2011 DET vs. SAS L 22 0 0 1 0.0 0 0 - 0 0 - 1 4 5 1 1 0 0 2 -9
+p310
+aVWill Bynum DET 02/05/2011 DET @ MIL W 18 9 4 5 80.0 0 0 - 1 2 50.0 0 3 3 4 0 0 3 2 8
+p311
+aVRichard Hamilton DET 02/05/2011 DET @ MIL W 20 15 7 14 50.0 1 1 100.0 0 0 - 1 0 1 3 0 0 1 2 9
+p312
+aVTayshaun Prince DET 02/05/2011 DET @ MIL W 34 12 6 10 60.0 0 0 - 0 1 0.0 0 11 11 1 0 0 0 0 2
+p313
+aVBen Wallace DET 02/05/2011 DET @ MIL W 27 1 0 0 - 0 0 - 1 4 25.0 1 4 5 2 1 0 1 3 3
+p314
+aVTracy McGrady DET 02/05/2011 DET @ MIL W 30 20 7 14 50.0 0 3 0.0 6 6 100.0 1 1 2 2 0 0 4 2 3
+p315
+aVBen Gordon DET 02/05/2011 DET @ MIL W 28 12 3 7 42.9 0 0 - 6 7 85.7 1 1 2 1 0 0 3 2 2
+p316
+aVChris Wilcox DET 02/05/2011 DET @ MIL W 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 3 1 0 1 2 7
+p317
+aVAustin Daye DET 02/05/2011 DET @ MIL W 28 7 3 5 60.0 1 1 100.0 0 0 - 1 3 4 1 0 1 0 2 5
+p318
+aVGreg Monroe DET 02/05/2011 DET @ MIL W 33 7 3 6 50.0 0 0 - 1 2 50.0 0 7 7 1 1 0 2 3 7
+p319
+aVCharlie Villanueva DET 02/05/2011 DET @ MIL W 14 6 2 6 33.3 0 3 0.0 2 2 100.0 0 0 0 0 0 0 0 0 9
+p320
+aVWill Bynum DET 02/04/2011 DET vs. NJN W 16 6 3 5 60.0 0 0 - 0 1 0.0 0 2 2 2 1 0 1 3 -5
+p321
+aVTayshaun Prince DET 02/04/2011 DET vs. NJN W 37 22 9 18 50.0 0 1 0.0 4 5 80.0 1 6 7 4 1 2 0 1 18
+p322
+aVGreg Monroe DET 02/04/2011 DET vs. NJN W 42 20 10 14 71.4 0 0 - 0 5 0.0 5 6 11 2 0 2 1 2 15
+p323
+aVTracy McGrady DET 02/04/2011 DET vs. NJN W 34 16 8 20 40.0 0 1 0.0 0 0 - 4 4 8 4 1 0 2 1 14
+p324
+aVCharlie Villanueva DET 02/04/2011 DET vs. NJN W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -4
+p325
+aVBen Wallace DET 02/04/2011 DET vs. NJN W 18 4 2 2 100.0 0 0 - 0 1 0.0 1 4 5 0 1 1 0 1 4
+p326
+aVAustin Daye DET 02/04/2011 DET vs. NJN W 26 12 5 10 50.0 2 5 40.0 0 0 - 2 2 4 1 0 1 0 1 3
+p327
+aVBen Gordon DET 02/04/2011 DET vs. NJN W 36 11 3 9 33.3 1 2 50.0 4 4 100.0 1 1 2 4 2 0 1 1 15
+p328
+aVChris Wilcox DET 02/04/2011 DET vs. NJN W 11 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 1 0 2 -2
+p329
+aVDaJuan Summers DET 02/04/2011 DET vs. NJN W 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -8
+p330
+aVCharlie Villanueva DET 02/02/2011 DET vs. CHA L 15 3 1 5 20.0 0 2 0.0 1 1 100.0 0 3 3 0 1 0 0 1 -13
+p331
+aVTracy McGrady DET 02/02/2011 DET vs. CHA L 29 12 4 9 44.4 2 2 100.0 2 2 100.0 1 0 1 8 3 1 1 4 4
+p332
+aVBen Gordon DET 02/02/2011 DET vs. CHA L 40 20 8 18 44.4 3 7 42.9 1 1 100.0 0 1 1 4 0 1 0 4 -10
+p333
+aVBen Wallace DET 02/02/2011 DET vs. CHA L 17 0 0 1 0.0 0 0 - 0 2 0.0 1 3 4 0 0 2 0 2 -16
+p334
+aVAustin Daye DET 02/02/2011 DET vs. CHA L 26 11 4 9 44.4 2 4 50.0 1 2 50.0 2 3 5 0 1 1 1 2 -8
+p335
+aVChris Wilcox DET 02/02/2011 DET vs. CHA L 18 7 3 4 75.0 0 0 - 1 1 100.0 0 5 5 1 0 0 3 2 -1
+p336
+aVGreg Monroe DET 02/02/2011 DET vs. CHA L 35 10 4 6 66.7 0 0 - 2 3 66.7 1 7 8 2 1 2 2 3 3
+p337
+aVTayshaun Prince DET 02/02/2011 DET vs. CHA L 40 16 8 17 47.1 0 3 0.0 0 1 0.0 1 2 3 5 0 1 2 0 5
+p338
+aVWill Bynum DET 02/02/2011 DET vs. CHA L 19 8 2 9 22.2 0 1 0.0 4 4 100.0 0 0 0 3 1 0 1 3 -14
+p339
+aVGreg Monroe DET 01/30/2011 DET @ NYK L 39 15 6 8 75.0 0 0 - 3 4 75.0 8 9 17 2 2 0 1 4 -4
+p340
+aVCharlie Villanueva DET 01/30/2011 DET @ NYK L 20 11 4 6 66.7 3 4 75.0 0 0 - 0 2 2 0 1 0 1 3 -10
+p341
+aVTayshaun Prince DET 01/30/2011 DET @ NYK L 37 16 6 17 35.3 1 2 50.0 3 3 100.0 1 1 2 3 0 0 3 3 -11
+p342
+aVBen Gordon DET 01/30/2011 DET @ NYK L 42 35 12 21 57.1 7 11 63.6 4 4 100.0 0 1 1 3 1 0 4 2 -18
+p343
+aVAustin Daye DET 01/30/2011 DET @ NYK L 10 0 0 3 0.0 0 2 0.0 0 2 0.0 0 1 1 0 0 0 2 2 -13
+p344
+aVJason Maxiell DET 01/30/2011 DET @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p345
+aVDaJuan Summers DET 01/30/2011 DET @ NYK L 12 4 1 4 25.0 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 3 -3
+p346
+aVChris Wilcox DET 01/30/2011 DET @ NYK L 31 5 2 4 50.0 0 0 - 1 2 50.0 2 4 6 4 0 0 0 3 -11
+p347
+aVTracy McGrady DET 01/30/2011 DET @ NYK L 31 12 5 10 50.0 0 1 0.0 2 3 66.7 0 3 3 3 0 1 2 4 -6
+p348
+aVWill Bynum DET 01/30/2011 DET @ NYK L 17 8 4 6 66.7 0 0 - 0 1 0.0 0 0 0 3 1 0 1 0 -14
+p349
+aVGreg Monroe DET 01/28/2011 DET @ MIA L 20 9 4 6 66.7 0 0 - 1 2 50.0 4 4 8 0 0 1 0 2 -4
+p350
+aVWill Bynum DET 01/28/2011 DET @ MIA L 13 0 0 5 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 4
+p351
+aVChris Wilcox DET 01/28/2011 DET @ MIA L 28 10 5 8 62.5 0 0 - 0 0 - 8 2 10 2 0 0 0 1 3
+p352
+aVTracy McGrady DET 01/28/2011 DET @ MIA L 38 14 6 17 35.3 1 4 25.0 1 2 50.0 1 7 8 10 0 4 1 2 -4
+p353
+aVTayshaun Prince DET 01/28/2011 DET @ MIA L 38 8 3 13 23.1 0 3 0.0 2 2 100.0 0 2 2 2 0 0 0 3 -8
+p354
+aVAustin Daye DET 01/28/2011 DET @ MIA L 42 19 7 17 41.2 3 7 42.9 2 2 100.0 2 7 9 2 1 1 3 5 2
+p355
+aVBen Gordon DET 01/28/2011 DET @ MIA L 38 21 8 16 50.0 3 7 42.9 2 2 100.0 1 1 2 3 0 0 2 4 7
+p356
+aVCharlie Villanueva DET 01/28/2011 DET @ MIA L 22 6 2 10 20.0 1 3 33.3 1 1 100.0 1 2 3 1 3 0 0 1 -5
+p357
+aVCharlie Villanueva DET 01/26/2011 DET vs. DEN L 15 11 4 9 44.4 3 5 60.0 0 0 - 1 0 1 0 0 2 0 3 -5
+p358
+aVRodney Stuckey DET 01/26/2011 DET vs. DEN L 10 7 3 5 60.0 0 0 - 1 1 100.0 0 0 0 1 2 0 0 1 -1
+p359
+aVTayshaun Prince DET 01/26/2011 DET vs. DEN L 38 10 5 14 35.7 0 2 0.0 0 0 - 1 4 5 2 0 0 2 1 -6
+p360
+aVBen Wallace DET 01/26/2011 DET vs. DEN L 22 0 0 2 0.0 0 0 - 0 2 0.0 4 6 10 1 0 2 0 2 1
+p361
+aVChris Wilcox DET 01/26/2011 DET vs. DEN L 17 4 2 6 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -6
+p362
+aVAustin Daye DET 01/26/2011 DET vs. DEN L 24 6 1 6 16.7 0 2 0.0 4 4 100.0 1 3 4 2 0 0 0 4 -10
+p363
+aVGreg Monroe DET 01/26/2011 DET vs. DEN L 27 14 4 6 66.7 0 0 - 6 8 75.0 2 5 7 0 1 2 0 3 -1
+p364
+aVWill Bynum DET 01/26/2011 DET vs. DEN L 21 19 8 12 66.7 0 0 - 3 4 75.0 2 2 4 4 0 0 2 3 -5
+p365
+aVBen Gordon DET 01/26/2011 DET vs. DEN L 28 15 4 10 40.0 1 4 25.0 6 7 85.7 0 3 3 1 0 0 3 4 -7
+p366
+aVDaJuan Summers DET 01/26/2011 DET vs. DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p367
+aVTracy McGrady DET 01/26/2011 DET vs. DEN L 36 14 4 9 44.4 1 2 50.0 5 6 83.3 0 6 6 8 1 0 1 3 -5
+p368
+aVBen Gordon DET 01/24/2011 DET @ ORL W 22 16 6 13 46.2 1 2 50.0 3 5 60.0 0 2 2 2 0 0 1 1 2
+p369
+aVTracy McGrady DET 01/24/2011 DET @ ORL W 36 20 8 19 42.1 0 3 0.0 4 6 66.7 2 5 7 5 2 0 2 0 15
+p370
+aVJason Maxiell DET 01/24/2011 DET @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p371
+aVGreg Monroe DET 01/24/2011 DET @ ORL W 31 7 3 6 50.0 0 0 - 1 4 25.0 2 2 4 1 1 0 0 5 3
+p372
+aVWill Bynum DET 01/24/2011 DET @ ORL W 15 0 0 7 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -10
+p373
+aVRodney Stuckey DET 01/24/2011 DET @ ORL W 34 16 4 9 44.4 1 2 50.0 7 7 100.0 1 1 2 0 2 0 0 4 0
+p374
+aVChris Wilcox DET 01/24/2011 DET @ ORL W 15 4 2 2 100.0 0 0 - 0 1 0.0 0 2 2 1 0 0 0 4 5
+p375
+aVTayshaun Prince DET 01/24/2011 DET @ ORL W 33 20 9 14 64.3 1 2 50.0 1 2 50.0 0 3 3 6 1 1 2 1 17
+p376
+aVBen Wallace DET 01/24/2011 DET @ ORL W 19 0 0 2 0.0 0 0 - 0 0 - 5 6 11 1 0 1 0 3 -5
+p377
+aVAustin Daye DET 01/24/2011 DET @ ORL W 34 20 5 9 55.6 4 4 100.0 6 8 75.0 0 7 7 0 2 0 0 4 7
+p378
+aVWill Bynum DET 01/22/2011 DET vs. PHX W 21 12 4 8 50.0 0 0 - 4 5 80.0 0 4 4 3 2 0 0 1 5
+p379
+aVChris Wilcox DET 01/22/2011 DET vs. PHX W 19 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -3
+p380
+aVBen Gordon DET 01/22/2011 DET vs. PHX W 25 9 3 8 37.5 1 3 33.3 2 2 100.0 2 4 6 0 0 0 1 2 0
+p381
+aVAustin Daye DET 01/22/2011 DET vs. PHX W 29 11 4 11 36.4 1 3 33.3 2 2 100.0 0 1 1 1 1 0 1 1 6
+p382
+aVGreg Monroe DET 01/22/2011 DET vs. PHX W 23 6 3 4 75.0 0 0 - 0 0 - 3 3 6 1 1 0 1 1 1
+p383
+aVTracy McGrady DET 01/22/2011 DET vs. PHX W 24 3 1 5 20.0 1 1 100.0 0 0 - 1 2 3 2 1 1 1 2 3
+p384
+aVBen Wallace DET 01/22/2011 DET vs. PHX W 25 0 0 3 0.0 0 0 - 0 0 - 2 5 7 0 1 1 1 3 -1
+p385
+aVRodney Stuckey DET 01/22/2011 DET vs. PHX W 30 11 3 15 20.0 0 2 0.0 5 6 83.3 2 2 4 3 1 0 1 2 -7
+p386
+aVJason Maxiell DET 01/22/2011 DET vs. PHX W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -4
+p387
+aVTayshaun Prince DET 01/22/2011 DET vs. PHX W 39 17 8 19 42.1 0 1 0.0 1 2 50.0 3 10 13 5 1 0 1 0 5
+p388
+aVChris Wilcox DET 01/21/2011 DET @ NJN L 22 5 2 7 28.6 0 0 - 1 4 25.0 3 5 8 0 2 1 0 4 -3
+p389
+aVBen Gordon DET 01/21/2011 DET @ NJN L 24 7 2 7 28.6 0 1 0.0 3 4 75.0 1 3 4 0 1 0 2 0 -9
+p390
+aVTayshaun Prince DET 01/21/2011 DET @ NJN L 33 16 6 17 35.3 2 2 100.0 2 2 100.0 0 0 0 3 1 1 0 1 -11
+p391
+aVRodney Stuckey DET 01/21/2011 DET @ NJN L 28 14 3 12 25.0 1 3 33.3 7 7 100.0 1 1 2 1 0 0 2 1 -7
+p392
+aVTracy McGrady DET 01/21/2011 DET @ NJN L 31 10 4 10 40.0 0 1 0.0 2 2 100.0 1 5 6 6 0 0 2 2 -9
+p393
+aVCharlie Villanueva DET 01/21/2011 DET @ NJN L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 1
+p394
+aVJason Maxiell DET 01/21/2011 DET @ NJN L 9 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 1 -7
+p395
+aVDaJuan Summers DET 01/21/2011 DET @ NJN L 4 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p396
+aVGreg Monroe DET 01/21/2011 DET @ NJN L 38 5 2 6 33.3 0 0 - 1 4 25.0 6 4 10 1 0 0 1 3 -13
+p397
+aVAustin Daye DET 01/21/2011 DET @ NJN L 20 5 1 4 25.0 1 2 50.0 2 2 100.0 0 3 3 0 0 0 0 2 -4
+p398
+aVWill Bynum DET 01/21/2011 DET @ NJN L 20 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 1 1 0 4 3 -14
+p399
+aVWill Bynum DET 01/19/2011 DET @ BOS L 10 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 2 1 0 2 1 -3
+p400
+aVTayshaun Prince DET 01/19/2011 DET @ BOS L 39 13 6 14 42.9 0 0 - 1 2 50.0 1 4 5 3 1 1 0 1 1
+p401
+aVBen Gordon DET 01/19/2011 DET @ BOS L 21 10 4 10 40.0 1 5 20.0 1 1 100.0 0 1 1 3 0 0 1 3 -8
+p402
+aVChris Wilcox DET 01/19/2011 DET @ BOS L 31 9 3 6 50.0 0 0 - 3 4 75.0 1 6 7 1 1 1 0 1 3
+p403
+aVAustin Daye DET 01/19/2011 DET @ BOS L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 2 -5
+p404
+aVCharlie Villanueva DET 01/19/2011 DET @ BOS L 30 11 4 10 40.0 2 5 40.0 1 2 50.0 1 7 8 0 1 1 1 4 -3
+p405
+aVRodney Stuckey DET 01/19/2011 DET @ BOS L 28 15 5 14 35.7 1 2 50.0 4 4 100.0 0 0 0 2 2 0 5 4 1
+p406
+aVGreg Monroe DET 01/19/2011 DET @ BOS L 35 13 5 5 100.0 0 0 - 3 5 60.0 2 7 9 1 1 0 1 4 -7
+p407
+aVTracy McGrady DET 01/19/2011 DET @ BOS L 37 5 2 9 22.2 0 2 0.0 1 2 50.0 0 4 4 7 2 2 3 4 1
+p408
+aVChris Wilcox DET 01/17/2011 DET vs. DAL W 24 8 4 6 66.7 0 0 - 0 0 - 1 5 6 1 1 0 2 3 8
+p409
+aVRodney Stuckey DET 01/17/2011 DET vs. DAL W 30 20 6 8 75.0 0 0 - 8 9 88.9 0 0 0 6 0 1 1 2 14
+p410
+aVCharlie Villanueva DET 01/17/2011 DET vs. DAL W 23 15 6 9 66.7 3 5 60.0 0 0 - 0 3 3 1 0 0 2 0 5
+p411
+aVWill Bynum DET 01/17/2011 DET vs. DAL W 18 4 2 6 33.3 0 0 - 0 0 - 1 0 1 2 0 0 0 2 -2
+p412
+aVTayshaun Prince DET 01/17/2011 DET vs. DAL W 34 19 9 12 75.0 0 1 0.0 1 2 50.0 0 5 5 5 0 1 1 2 17
+p413
+aVDaJuan Summers DET 01/17/2011 DET vs. DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p414
+aVGreg Monroe DET 01/17/2011 DET vs. DAL W 41 16 7 12 58.3 0 0 - 2 2 100.0 4 5 9 1 4 0 0 3 16
+p415
+aVBen Gordon DET 01/17/2011 DET vs. DAL W 28 11 3 8 37.5 1 4 25.0 4 5 80.0 0 0 0 3 0 0 1 3 9
+p416
+aVTracy McGrady DET 01/17/2011 DET vs. DAL W 26 8 4 6 66.7 0 0 - 0 1 0.0 0 1 1 3 0 0 1 0 9
+p417
+aVAustin Daye DET 01/17/2011 DET vs. DAL W 14 2 1 5 20.0 0 2 0.0 0 0 - 3 5 8 2 1 0 2 1 -3
+p418
+aVGreg Monroe DET 01/15/2011 DET vs. SAC W 38 11 5 7 71.4 0 0 - 1 2 50.0 3 4 7 2 2 0 3 3 8
+p419
+aVWill Bynum DET 01/15/2011 DET vs. SAC W 26 18 5 9 55.6 0 1 0.0 8 9 88.9 0 2 2 7 2 1 2 1 -4
+p420
+aVCharlie Villanueva DET 01/15/2011 DET vs. SAC W 34 16 7 13 53.8 2 5 40.0 0 1 0.0 0 2 2 2 1 0 2 1 -1
+p421
+aVTayshaun Prince DET 01/15/2011 DET vs. SAC W 38 21 9 13 69.2 0 0 - 3 3 100.0 2 4 6 3 1 0 1 2 10
+p422
+aVBen Gordon DET 01/15/2011 DET vs. SAC W 31 16 7 14 50.0 0 1 0.0 2 2 100.0 0 5 5 3 2 0 0 0 7
+p423
+aVRodney Stuckey DET 01/15/2011 DET vs. SAC W 29 19 6 11 54.5 0 1 0.0 7 8 87.5 1 2 3 2 1 0 1 3 10
+p424
+aVTracy McGrady DET 01/15/2011 DET vs. SAC W 10 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -5
+p425
+aVAustin Daye DET 01/15/2011 DET vs. SAC W 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -7
+p426
+aVChris Wilcox DET 01/15/2011 DET vs. SAC W 22 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 1 1 1 0 6 2
+p427
+aVTracy McGrady DET 01/14/2011 DET @ TOR W 36 22 8 17 47.1 2 3 66.7 4 5 80.0 2 2 4 5 0 0 3 2 -3
+p428
+aVBen Gordon DET 01/14/2011 DET @ TOR W 24 11 4 8 50.0 1 4 25.0 2 2 100.0 0 1 1 4 0 0 2 1 5
+p429
+aVChris Wilcox DET 01/14/2011 DET @ TOR W 30 4 2 9 22.2 0 0 - 0 2 0.0 5 7 12 0 2 0 0 4 7
+p430
+aVAustin Daye DET 01/14/2011 DET @ TOR W 14 2 1 4 25.0 0 0 - 0 0 - 2 2 4 3 1 1 1 1 5
+p431
+aVCharlie Villanueva DET 01/14/2011 DET @ TOR W 28 16 5 11 45.5 2 4 50.0 4 4 100.0 1 7 8 1 2 0 0 3 7
+p432
+aVRodney Stuckey DET 01/14/2011 DET @ TOR W 25 19 5 9 55.6 0 1 0.0 9 12 75.0 1 0 1 1 0 0 2 1 0
+p433
+aVGreg Monroe DET 01/14/2011 DET @ TOR W 38 12 6 9 66.7 0 0 - 0 0 - 3 4 7 0 3 1 0 2 -1
+p434
+aVWill Bynum DET 01/14/2011 DET @ TOR W 13 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 9
+p435
+aVTayshaun Prince DET 01/14/2011 DET @ TOR W 34 9 4 12 33.3 1 1 100.0 0 1 0.0 1 5 6 1 0 2 0 2 1
+p436
+aVGreg Monroe DET 01/12/2011 DET vs. MEM L 30 14 5 7 71.4 0 0 - 4 6 66.7 2 9 11 0 2 1 0 6 0
+p437
+aVCharlie Villanueva DET 01/12/2011 DET vs. MEM L 26 8 3 8 37.5 2 5 40.0 0 0 - 2 1 3 1 0 1 2 2 -15
+p438
+aVAustin Daye DET 01/12/2011 DET vs. MEM L 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -8
+p439
+aVJason Maxiell DET 01/12/2011 DET vs. MEM L 10 3 1 2 50.0 0 0 - 1 1 100.0 2 2 4 0 0 0 2 1 -15
+p440
+aVRodney Stuckey DET 01/12/2011 DET vs. MEM L 39 15 5 15 33.3 0 1 0.0 5 6 83.3 1 6 7 6 2 0 4 3 -3
+p441
+aVChris Wilcox DET 01/12/2011 DET vs. MEM L 26 8 4 8 50.0 0 0 - 0 1 0.0 1 1 2 2 0 0 0 4 13
+p442
+aVBen Gordon DET 01/12/2011 DET vs. MEM L 23 25 8 17 47.1 4 9 44.4 5 5 100.0 1 0 1 4 0 1 4 3 -9
+p443
+aVTayshaun Prince DET 01/12/2011 DET vs. MEM L 38 8 3 13 23.1 0 2 0.0 2 2 100.0 2 0 2 5 1 0 0 2 0
+p444
+aVTracy McGrady DET 01/12/2011 DET vs. MEM L 36 16 6 11 54.5 0 4 0.0 4 5 80.0 2 4 6 4 1 1 2 3 -3
+p445
+aVChris Wilcox DET 01/10/2011 DET @ CHI L 22 13 5 10 50.0 0 0 - 3 4 75.0 6 3 9 0 1 0 1 1 3
+p446
+aVGreg Monroe DET 01/10/2011 DET @ CHI L 43 10 2 7 28.6 0 0 - 6 9 66.7 4 7 11 2 2 0 3 3 -7
+p447
+aVCharlie Villanueva DET 01/10/2011 DET @ CHI L 17 3 1 4 25.0 1 3 33.3 0 0 - 0 7 7 1 0 0 0 3 -12
+p448
+aVTayshaun Prince DET 01/10/2011 DET @ CHI L 33 15 6 17 35.3 1 4 25.0 2 2 100.0 1 2 3 3 1 1 1 2 -1
+p449
+aVBen Gordon DET 01/10/2011 DET @ CHI L 27 5 2 10 20.0 0 3 0.0 1 1 100.0 1 3 4 2 2 1 2 1 -15
+p450
+aVRodney Stuckey DET 01/10/2011 DET @ CHI L 19 11 5 9 55.6 1 2 50.0 0 0 - 1 0 1 4 0 0 2 2 -18
+p451
+aVAustin Daye DET 01/10/2011 DET @ CHI L 24 14 6 10 60.0 2 4 50.0 0 2 0.0 2 2 4 2 0 1 0 3 -10
+p452
+aVTracy McGrady DET 01/10/2011 DET @ CHI L 32 9 4 8 50.0 0 1 0.0 1 2 50.0 0 2 2 2 1 1 3 2 -6
+p453
+aVBen Wallace DET 01/10/2011 DET @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p454
+aVRichard Hamilton DET 01/10/2011 DET @ CHI L 22 2 0 5 0.0 0 1 0.0 2 2 100.0 0 2 2 3 1 0 2 2 2
+p455
+aVAustin Daye DET 01/08/2011 DET vs. PHI W 25 15 5 8 62.5 3 4 75.0 2 2 100.0 0 6 6 3 0 1 2 3 7
+p456
+aVTayshaun Prince DET 01/08/2011 DET vs. PHI W 37 23 10 14 71.4 1 1 100.0 2 6 33.3 2 6 8 2 1 2 2 1 -1
+p457
+aVGreg Monroe DET 01/08/2011 DET vs. PHI W 31 16 6 12 50.0 0 0 - 4 6 66.7 5 8 13 0 3 0 2 4 -2
+p458
+aVBen Gordon DET 01/08/2011 DET vs. PHI W 23 7 2 9 22.2 0 1 0.0 3 4 75.0 0 2 2 1 0 0 0 1 -2
+p459
+aVCharlie Villanueva DET 01/08/2011 DET vs. PHI W 19 7 3 7 42.9 0 2 0.0 1 2 50.0 1 2 3 1 0 0 1 4 1
+p460
+aVRodney Stuckey DET 01/08/2011 DET vs. PHI W 36 20 6 15 40.0 3 4 75.0 5 6 83.3 1 6 7 4 2 0 2 5 4
+p461
+aVJason Maxiell DET 01/08/2011 DET vs. PHI W 7 1 0 2 0.0 0 0 - 1 4 25.0 2 2 4 0 0 0 1 0 -3
+p462
+aVBen Wallace DET 01/08/2011 DET vs. PHI W 32 6 3 7 42.9 0 0 - 0 0 - 4 1 5 5 2 1 1 2 2
+p463
+aVTracy McGrady DET 01/08/2011 DET vs. PHI W 37 9 4 10 40.0 1 2 50.0 0 0 - 0 4 4 7 0 2 0 2 5
+p464
+aVRichard Hamilton DET 01/08/2011 DET vs. PHI W 18 8 2 8 25.0 0 1 0.0 4 4 100.0 0 1 1 1 0 0 0 1 4
+p465
+aVAustin Daye DET 01/04/2011 DET @ LAL L 20 7 3 8 37.5 0 1 0.0 1 2 50.0 3 0 3 2 0 1 0 0 -11
+p466
+aVDaJuan Summers DET 01/04/2011 DET @ LAL L 7 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p467
+aVWill Bynum DET 01/04/2011 DET @ LAL L 10 10 3 4 75.0 0 0 - 4 4 100.0 0 0 0 2 0 0 2 0 -4
+p468
+aVCharlie Villanueva DET 01/04/2011 DET @ LAL L 24 4 2 7 28.6 0 3 0.0 0 0 - 0 4 4 3 0 0 0 3 -16
+p469
+aVBen Gordon DET 01/04/2011 DET @ LAL L 22 5 2 6 33.3 0 3 0.0 1 2 50.0 0 2 2 1 1 0 3 3 -19
+p470
+aVGreg Monroe DET 01/04/2011 DET @ LAL L 30 14 6 9 66.7 0 0 - 2 3 66.7 4 7 11 1 2 0 0 2 -8
+p471
+aVJason Maxiell DET 01/04/2011 DET @ LAL L 24 0 0 5 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 -9
+p472
+aVBen Wallace DET 01/04/2011 DET @ LAL L 18 2 1 2 50.0 0 0 - 0 2 0.0 2 4 6 0 0 0 2 3 -17
+p473
+aVRichard Hamilton DET 01/04/2011 DET @ LAL L 19 11 4 9 44.4 2 3 66.7 1 1 100.0 0 0 0 3 0 0 0 1 -10
+p474
+aVTracy McGrady DET 01/04/2011 DET @ LAL L 25 14 5 8 62.5 1 1 100.0 3 4 75.0 0 2 2 6 0 1 6 1 -7
+p475
+aVTayshaun Prince DET 01/04/2011 DET @ LAL L 28 12 4 8 50.0 0 1 0.0 4 6 66.7 0 3 3 2 0 0 1 2 -14
+p476
+aVRodney Stuckey DET 01/04/2011 DET @ LAL L 13 0 0 3 0.0 0 0 - 0 0 - 1 1 2 2 1 0 2 2 -14
+p477
+aVTayshaun Prince DET 01/03/2011 DET @ UTA L 40 26 11 19 57.9 1 4 25.0 3 4 75.0 0 4 4 5 0 1 1 1 4
+p478
+aVBen Wallace DET 01/03/2011 DET @ UTA L 22 6 2 5 40.0 0 0 - 2 2 100.0 2 6 8 0 0 0 2 2 5
+p479
+aVRichard Hamilton DET 01/03/2011 DET @ UTA L 24 15 6 13 46.2 0 2 0.0 3 6 50.0 0 0 0 1 0 0 0 1 -11
+p480
+aVJason Maxiell DET 01/03/2011 DET @ UTA L 13 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -4
+p481
+aVGreg Monroe DET 01/03/2011 DET @ UTA L 26 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 1 1 2 0 -11
+p482
+aVCharlie Villanueva DET 01/03/2011 DET @ UTA L 24 11 4 7 57.1 1 2 50.0 2 2 100.0 0 3 3 0 0 0 0 6 2
+p483
+aVTracy McGrady DET 01/03/2011 DET @ UTA L 34 11 5 11 45.5 1 3 33.3 0 0 - 1 8 9 11 0 0 1 2 5
+p484
+aVAustin Daye DET 01/03/2011 DET @ UTA L 17 7 2 8 25.0 1 4 25.0 2 2 100.0 2 2 4 1 2 0 0 4 -11
+p485
+aVBen Gordon DET 01/03/2011 DET @ UTA L 24 14 5 10 50.0 3 6 50.0 1 1 100.0 1 2 3 2 0 1 0 2 6
+p486
+aVRodney Stuckey DET 01/03/2011 DET @ UTA L 14 3 0 3 0.0 0 0 - 3 4 75.0 0 2 2 3 0 0 0 1 -10
+p487
+aVWill Bynum DET 12/31/2010 DET @ PHX L 14 3 0 0 - 0 0 - 3 4 75.0 0 0 0 1 2 0 0 1 -1
+p488
+aVTracy McGrady DET 12/31/2010 DET @ PHX L 35 7 3 10 30.0 1 3 33.3 0 0 - 2 2 4 2 1 2 5 3 -22
+p489
+aVDaJuan Summers DET 12/31/2010 DET @ PHX L 6 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 3 6
+p490
+aVBen Gordon DET 12/31/2010 DET @ PHX L 41 19 8 19 42.1 1 5 20.0 2 3 66.7 1 5 6 3 1 0 2 2 -2
+p491
+aVGreg Monroe DET 12/31/2010 DET @ PHX L 13 2 0 1 0.0 0 0 - 2 6 33.3 3 1 4 2 0 1 1 2 -4
+p492
+aVTayshaun Prince DET 12/31/2010 DET @ PHX L 29 12 6 10 60.0 0 1 0.0 0 1 0.0 2 2 4 3 0 0 2 0 -9
+p493
+aVRichard Hamilton DET 12/31/2010 DET @ PHX L 21 5 2 9 22.2 1 3 33.3 0 0 - 0 1 1 1 1 0 0 0 -30
+p494
+aVCharlie Villanueva DET 12/31/2010 DET @ PHX L 26 10 5 11 45.5 0 3 0.0 0 0 - 0 3 3 2 0 0 1 1 -4
+p495
+aVChris Wilcox DET 12/31/2010 DET @ PHX L 13 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 2 2 0 1 2 -12
+p496
+aVAustin Daye DET 12/31/2010 DET @ PHX L 20 9 4 8 50.0 1 3 33.3 0 0 - 2 6 8 1 0 0 1 4 -6
+p497
+aVBen Wallace DET 12/31/2010 DET @ PHX L 22 2 1 1 100.0 0 0 - 0 2 0.0 2 4 6 1 3 1 0 1 -1
+p498
+aVGreg Monroe DET 12/29/2010 DET vs. BOS W 9 4 2 3 66.7 0 0 - 0 1 0.0 0 0 0 0 1 0 0 0 2
+p499
+aVTracy McGrady DET 12/29/2010 DET vs. BOS W 30 21 7 11 63.6 1 1 100.0 6 6 100.0 0 4 4 8 3 0 2 3 11
+p500
+aVAustin Daye DET 12/29/2010 DET vs. BOS W 12 12 5 7 71.4 2 3 66.7 0 2 0.0 0 0 0 0 1 0 1 0 2
+p501
+aVBen Wallace DET 12/29/2010 DET vs. BOS W 26 2 1 3 33.3 0 0 - 0 0 - 3 1 4 3 2 2 1 2 14
+p502
+aVRichard Hamilton DET 12/29/2010 DET vs. BOS W 26 9 3 8 37.5 0 1 0.0 3 4 75.0 0 2 2 6 1 0 2 1 3
+p503
+aVChris Wilcox DET 12/29/2010 DET vs. BOS W 27 10 4 4 100.0 0 0 - 2 2 100.0 1 7 8 1 3 1 1 4 0
+p504
+aVWill Bynum DET 12/29/2010 DET vs. BOS W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 2 0 3
+p505
+aVBen Gordon DET 12/29/2010 DET vs. BOS W 34 12 5 8 62.5 2 3 66.7 0 0 - 1 0 1 2 0 0 2 3 7
+p506
+aVCharlie Villanueva DET 12/29/2010 DET vs. BOS W 28 14 5 10 50.0 4 6 66.7 0 0 - 0 5 5 2 0 1 2 5 8
+p507
+aVTayshaun Prince DET 12/29/2010 DET vs. BOS W 36 18 6 14 42.9 1 1 100.0 5 6 83.3 0 4 4 2 0 0 1 0 10
+p508
+aVGreg Monroe DET 12/27/2010 DET @ CHA L 14 3 1 4 25.0 0 0 - 1 2 50.0 3 3 6 0 0 0 1 0 -6
+p509
+aVBen Gordon DET 12/27/2010 DET @ CHA L 36 17 6 16 37.5 4 8 50.0 1 1 100.0 0 4 4 4 3 0 3 1 11
+p510
+aVTayshaun Prince DET 12/27/2010 DET @ CHA L 29 17 7 12 58.3 1 1 100.0 2 2 100.0 1 1 2 0 0 1 0 1 3
+p511
+aVCharlie Villanueva DET 12/27/2010 DET @ CHA L 31 25 10 14 71.4 5 5 100.0 0 0 - 1 2 3 2 1 1 1 1 7
+p512
+aVWill Bynum DET 12/27/2010 DET @ CHA L 19 6 3 11 27.3 0 1 0.0 0 0 - 1 1 2 7 0 0 1 1 15
+p513
+aVTracy McGrady DET 12/27/2010 DET @ CHA L 11 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -20
+p514
+aVBen Wallace DET 12/27/2010 DET @ CHA L 16 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 3 0 0 1 0
+p515
+aVRodney Stuckey DET 12/27/2010 DET @ CHA L 25 6 1 6 16.7 0 0 - 4 5 80.0 0 1 1 3 1 0 3 4 -19
+p516
+aVChris Wilcox DET 12/27/2010 DET @ CHA L 23 15 5 7 71.4 0 0 - 5 6 83.3 2 6 8 0 1 3 3 4 7
+p517
+aVAustin Daye DET 12/27/2010 DET @ CHA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 0 0 1
+p518
+aVJason Maxiell DET 12/27/2010 DET @ CHA L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -19
+p519
+aVRichard Hamilton DET 12/27/2010 DET @ CHA L 24 9 4 10 40.0 1 4 25.0 0 0 - 0 0 0 5 1 0 1 1 -5
+p520
+aVCharlie Villanueva DET 12/26/2010 DET vs. CHI L 29 12 5 15 33.3 0 5 0.0 2 2 100.0 3 7 10 1 2 1 0 3 -4
+p521
+aVBen Gordon DET 12/26/2010 DET vs. CHI L 18 7 3 6 50.0 1 2 50.0 0 0 - 1 2 3 1 0 0 0 4 2
+p522
+aVRichard Hamilton DET 12/26/2010 DET vs. CHI L 36 15 6 14 42.9 1 3 33.3 2 2 100.0 0 4 4 3 0 0 2 1 -6
+p523
+aVGreg Monroe DET 12/26/2010 DET vs. CHI L 22 4 1 6 16.7 0 0 - 2 2 100.0 2 5 7 0 0 0 0 1 -2
+p524
+aVTracy McGrady DET 12/26/2010 DET vs. CHI L 29 15 7 13 53.8 1 2 50.0 0 0 - 0 2 2 1 0 0 1 2 5
+p525
+aVRodney Stuckey DET 12/26/2010 DET vs. CHI L 38 16 6 12 50.0 0 0 - 4 5 80.0 2 3 5 4 1 0 0 5 8
+p526
+aVWill Bynum DET 12/26/2010 DET vs. CHI L 15 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 -11
+p527
+aVBen Wallace DET 12/26/2010 DET vs. CHI L 22 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 3 1 2 -7
+p528
+aVTayshaun Prince DET 12/26/2010 DET vs. CHI L 34 17 8 15 53.3 0 0 - 1 1 100.0 2 2 4 6 1 2 3 1 -3
+p529
+aVJason Maxiell DET 12/26/2010 DET vs. CHI L 22 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 0 2 1 2 3
+p530
+aVWill Bynum DET 12/22/2010 DET @ TOR W 19 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 1 0 0 2 6
+p531
+aVRichard Hamilton DET 12/22/2010 DET @ TOR W 28 35 13 20 65.0 6 10 60.0 3 5 60.0 0 1 1 2 2 0 1 2 22
+p532
+aVTayshaun Prince DET 12/22/2010 DET @ TOR W 28 6 3 9 33.3 0 1 0.0 0 0 - 1 2 3 3 0 0 1 0 14
+p533
+aVBen Gordon DET 12/22/2010 DET @ TOR W 20 4 1 7 14.3 0 2 0.0 2 2 100.0 1 4 5 0 0 0 2 2 0
+p534
+aVChris Wilcox DET 12/22/2010 DET @ TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p535
+aVRodney Stuckey DET 12/22/2010 DET @ TOR W 29 21 9 15 60.0 0 3 0.0 3 3 100.0 1 1 2 2 3 1 0 2 16
+p536
+aVAustin Daye DET 12/22/2010 DET @ TOR W 4 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 1 -10
+p537
+aVJason Maxiell DET 12/22/2010 DET @ TOR W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 11
+p538
+aVCharlie Villanueva DET 12/22/2010 DET @ TOR W 26 18 8 15 53.3 0 2 0.0 2 2 100.0 0 4 4 2 1 0 2 4 11
+p539
+aVGreg Monroe DET 12/22/2010 DET @ TOR W 25 7 2 3 66.7 0 0 - 3 3 100.0 1 2 3 3 1 0 0 3 13
+p540
+aVTracy McGrady DET 12/22/2010 DET @ TOR W 24 17 8 12 66.7 1 2 50.0 0 0 - 0 7 7 7 3 0 1 1 32
+p541
+aVBen Wallace DET 12/22/2010 DET @ TOR W 24 4 1 2 50.0 0 0 - 2 4 50.0 4 2 6 3 2 3 1 1 5
+p542
+aVJason Maxiell DET 12/19/2010 DET vs. NOH W 21 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 2 1 1 2 7
+p543
+aVCharlie Villanueva DET 12/19/2010 DET vs. NOH W 40 17 6 17 35.3 1 5 20.0 4 6 66.7 2 4 6 1 0 1 3 5 11
+p544
+aVChris Wilcox DET 12/19/2010 DET vs. NOH W 13 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -8
+p545
+aVBen Wallace DET 12/19/2010 DET vs. NOH W 19 0 0 0 - 0 0 - 0 2 0.0 0 2 2 2 1 2 0 1 4
+p546
+aVBen Gordon DET 12/19/2010 DET vs. NOH W 44 25 9 21 42.9 4 9 44.4 3 4 75.0 1 6 7 3 0 0 4 3 6
+p547
+aVTracy McGrady DET 12/19/2010 DET vs. NOH W 19 4 2 6 33.3 0 2 0.0 0 0 - 0 5 5 2 1 0 2 1 -9
+p548
+aVGreg Monroe DET 12/19/2010 DET vs. NOH W 16 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -11
+p549
+aVTayshaun Prince DET 12/19/2010 DET vs. NOH W 47 28 12 16 75.0 1 2 50.0 3 5 60.0 2 10 12 8 1 3 2 4 8
+p550
+aVWill Bynum DET 12/19/2010 DET vs. NOH W 37 21 8 10 80.0 2 3 66.7 3 4 75.0 0 0 0 9 1 0 5 3 5
+p551
+aVDaJuan Summers DET 12/19/2010 DET vs. NOH W 9 8 3 4 75.0 2 2 100.0 0 2 0.0 0 1 1 0 1 0 0 0 2
+p552
+aVRichard Hamilton DET 12/17/2010 DET vs. LAC L 18 5 2 9 22.2 0 0 - 1 2 50.0 0 0 0 2 0 0 2 2 -22
+p553
+aVBen Gordon DET 12/17/2010 DET vs. LAC L 31 15 6 15 40.0 1 4 25.0 2 2 100.0 2 0 2 2 2 0 0 1 0
+p554
+aVBen Wallace DET 12/17/2010 DET vs. LAC L 17 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 1 0 1 2 -21
+p555
+aVDaJuan Summers DET 12/17/2010 DET vs. LAC L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p556
+aVTracy McGrady DET 12/17/2010 DET vs. LAC L 24 6 2 5 40.0 1 1 100.0 1 3 33.3 1 3 4 5 0 1 1 1 -5
+p557
+aVChris Wilcox DET 12/17/2010 DET vs. LAC L 10 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 1
+p558
+aVCharlie Villanueva DET 12/17/2010 DET vs. LAC L 31 18 5 11 45.5 1 7 14.3 7 8 87.5 1 8 9 0 1 1 2 3 0
+p559
+aVGreg Monroe DET 12/17/2010 DET vs. LAC L 19 6 2 3 66.7 0 0 - 2 4 50.0 3 3 6 0 1 0 2 2 -23
+p560
+aVJason Maxiell DET 12/17/2010 DET vs. LAC L 19 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 3 1
+p561
+aVTayshaun Prince DET 12/17/2010 DET vs. LAC L 29 13 5 10 50.0 0 0 - 3 4 75.0 0 2 2 2 0 1 0 0 -21
+p562
+aVWill Bynum DET 12/17/2010 DET vs. LAC L 12 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 4 0 0 1 1 -3
+p563
+aVRodney Stuckey DET 12/17/2010 DET vs. LAC L 23 5 2 11 18.2 0 1 0.0 1 2 50.0 2 1 3 2 1 1 3 0 -17
+p564
+aVCharlie Villanueva DET 12/14/2010 DET vs. ATL W 28 23 10 17 58.8 3 7 42.9 0 0 - 1 10 11 0 3 1 0 3 29
+p565
+aVTayshaun Prince DET 12/14/2010 DET vs. ATL W 27 10 4 7 57.1 1 1 100.0 1 2 50.0 0 5 5 4 0 1 1 1 -1
+p566
+aVGreg Monroe DET 12/14/2010 DET vs. ATL W 21 5 2 3 66.7 0 0 - 1 2 50.0 1 6 7 0 0 1 1 3 -6
+p567
+aVBen Gordon DET 12/14/2010 DET vs. ATL W 22 2 1 6 16.7 0 3 0.0 0 0 - 1 0 1 3 0 0 1 0 25
+p568
+aVTracy McGrady DET 12/14/2010 DET vs. ATL W 26 16 5 9 55.6 4 6 66.7 2 2 100.0 0 6 6 3 1 1 1 2 23
+p569
+aVRichard Hamilton DET 12/14/2010 DET vs. ATL W 32 24 9 20 45.0 2 4 50.0 4 4 100.0 0 2 2 3 1 0 2 2 2
+p570
+aVRodney Stuckey DET 12/14/2010 DET vs. ATL W 37 16 4 9 44.4 0 1 0.0 8 8 100.0 3 0 3 10 2 0 4 2 20
+p571
+aVBen Wallace DET 12/14/2010 DET vs. ATL W 27 2 1 4 25.0 0 0 - 0 0 - 3 2 5 2 2 2 1 1 3
+p572
+aVChris Wilcox DET 12/14/2010 DET vs. ATL W 20 5 1 3 33.3 0 0 - 3 3 100.0 1 2 3 1 0 0 1 1 20
+p573
+aVRodney Stuckey DET 12/11/2010 DET vs. TOR L 36 23 8 17 47.1 0 2 0.0 7 8 87.5 0 1 1 12 1 1 3 3 -6
+p574
+aVTayshaun Prince DET 12/11/2010 DET vs. TOR L 37 12 5 11 45.5 0 0 - 2 3 66.7 3 5 8 3 0 0 1 0 -5
+p575
+aVBen Wallace DET 12/11/2010 DET vs. TOR L 39 23 10 13 76.9 1 1 100.0 2 4 50.0 9 5 14 4 5 0 4 3 -6
+p576
+aVGreg Monroe DET 12/11/2010 DET vs. TOR L 24 10 4 6 66.7 0 0 - 2 4 50.0 2 2 4 0 0 0 0 4 5
+p577
+aVJason Maxiell DET 12/11/2010 DET vs. TOR L 9 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 -5
+p578
+aVRichard Hamilton DET 12/11/2010 DET vs. TOR L 32 11 5 13 38.5 1 1 100.0 0 0 - 0 0 0 4 0 0 1 3 -12
+p579
+aVCharlie Villanueva DET 12/11/2010 DET vs. TOR L 22 17 7 14 50.0 3 9 33.3 0 0 - 0 4 4 0 2 1 0 6 -4
+p580
+aVTracy McGrady DET 12/11/2010 DET vs. TOR L 9 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 2 0 0 0 0 10
+p581
+aVWill Bynum DET 12/11/2010 DET vs. TOR L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 1
+p582
+aVAustin Daye DET 12/11/2010 DET vs. TOR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p583
+aVBen Gordon DET 12/11/2010 DET vs. TOR L 18 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 3 1 0 1 2 7
+p584
+aVTracy McGrady DET 12/10/2010 DET @ MIN L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 1 0 0 0 -6
+p585
+aVBen Gordon DET 12/10/2010 DET @ MIN L 19 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 1 1 0 1 0 -3
+p586
+aVJason Maxiell DET 12/10/2010 DET @ MIN L 21 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 1 0 2 1 3 3
+p587
+aVGreg Monroe DET 12/10/2010 DET @ MIN L 35 8 3 9 33.3 0 0 - 2 2 100.0 8 7 15 0 1 1 3 4 -4
+p588
+aVChris Wilcox DET 12/10/2010 DET @ MIN L 11 9 3 6 50.0 0 0 - 3 4 75.0 2 1 3 0 0 0 0 4 0
+p589
+aVWill Bynum DET 12/10/2010 DET @ MIN L 15 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 2 0 1 1 3 -4
+p590
+aVRodney Stuckey DET 12/10/2010 DET @ MIN L 33 19 5 16 31.3 0 1 0.0 9 10 90.0 1 3 4 6 2 0 2 0 -6
+p591
+aVRichard Hamilton DET 12/10/2010 DET @ MIN L 33 26 9 18 50.0 2 3 66.7 6 6 100.0 2 2 4 2 1 0 2 2 -8
+p592
+aVTayshaun Prince DET 12/10/2010 DET @ MIN L 29 10 3 12 25.0 0 0 - 4 4 100.0 1 5 6 4 0 0 0 0 -4
+p593
+aVCharlie Villanueva DET 12/10/2010 DET @ MIN L 26 9 2 7 28.6 1 5 20.0 4 4 100.0 0 5 5 1 0 1 2 4 -18
+p594
+aVJason Maxiell DET 12/08/2010 DET @ NOH L 26 10 4 5 80.0 0 0 - 2 6 33.3 3 3 6 0 2 1 1 2 -16
+p595
+aVRichard Hamilton DET 12/08/2010 DET @ NOH L 25 13 6 14 42.9 1 3 33.3 0 0 - 2 0 2 2 0 0 0 2 -14
+p596
+aVGreg Monroe DET 12/08/2010 DET @ NOH L 22 3 1 5 20.0 0 0 - 1 2 50.0 4 2 6 0 2 1 0 2 -3
+p597
+aVRodney Stuckey DET 12/08/2010 DET @ NOH L 35 16 6 13 46.2 0 2 0.0 4 5 80.0 0 5 5 2 0 0 3 5 -17
+p598
+aVWill Bynum DET 12/08/2010 DET @ NOH L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 4
+p599
+aVTracy McGrady DET 12/08/2010 DET @ NOH L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 5 5 3 1 0 1 1 -15
+p600
+aVBen Gordon DET 12/08/2010 DET @ NOH L 29 19 8 13 61.5 3 6 50.0 0 1 0.0 1 1 2 2 1 0 2 2 -9
+p601
+aVTayshaun Prince DET 12/08/2010 DET @ NOH L 24 4 2 8 25.0 0 2 0.0 0 0 - 0 4 4 2 0 2 3 2 -9
+p602
+aVChris Wilcox DET 12/08/2010 DET @ NOH L 3 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 1 4
+p603
+aVCharlie Villanueva DET 12/08/2010 DET @ NOH L 10 2 0 5 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p604
+aVAustin Daye DET 12/08/2010 DET @ NOH L 20 2 1 9 11.1 0 4 0.0 0 0 - 0 5 5 0 1 1 1 2 -5
+p605
+aVBen Wallace DET 12/08/2010 DET @ NOH L 24 1 0 0 - 0 0 - 1 2 50.0 2 5 7 2 1 1 1 2 -13
+p606
+aVWill Bynum DET 12/07/2010 DET @ HOU L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -6
+p607
+aVJason Maxiell DET 12/07/2010 DET @ HOU L 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 1 0 3 1
+p608
+aVGreg Monroe DET 12/07/2010 DET @ HOU L 25 7 1 1 100.0 0 0 - 5 6 83.3 0 3 3 0 2 2 1 1 -7
+p609
+aVTayshaun Prince DET 12/07/2010 DET @ HOU L 33 10 5 12 41.7 0 1 0.0 0 0 - 2 6 8 3 0 1 2 0 -25
+p610
+aVBen Gordon DET 12/07/2010 DET @ HOU L 37 9 3 11 27.3 2 6 33.3 1 2 50.0 2 3 5 1 0 0 4 4 -7
+p611
+aVChris Wilcox DET 12/07/2010 DET @ HOU L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 5
+p612
+aVTracy McGrady DET 12/07/2010 DET @ HOU L 23 11 3 6 50.0 1 1 100.0 4 4 100.0 0 3 3 3 1 0 3 5 4
+p613
+aVAustin Daye DET 12/07/2010 DET @ HOU L 18 12 4 6 66.7 2 2 100.0 2 2 100.0 0 1 1 0 0 0 0 1 9
+p614
+aVRodney Stuckey DET 12/07/2010 DET @ HOU L 33 18 6 14 42.9 1 4 25.0 5 5 100.0 1 3 4 5 1 0 6 4 -18
+p615
+aVBen Wallace DET 12/07/2010 DET @ HOU L 28 4 2 4 50.0 0 0 - 0 2 0.0 3 5 8 1 0 0 1 0 -14
+p616
+aVRichard Hamilton DET 12/07/2010 DET @ HOU L 15 6 3 9 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 1 1 -12
+p617
+aVAustin Daye DET 12/05/2010 DET vs. CLE W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -6
+p618
+aVTracy McGrady DET 12/05/2010 DET vs. CLE W 18 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 1 1 1 -4
+p619
+aVBen Gordon DET 12/05/2010 DET vs. CLE W 31 12 5 14 35.7 2 6 33.3 0 0 - 0 6 6 1 3 0 2 3 8
+p620
+aVBen Wallace DET 12/05/2010 DET vs. CLE W 24 2 1 3 33.3 0 0 - 0 0 - 5 4 9 5 1 3 0 2 18
+p621
+aVJason Maxiell DET 12/05/2010 DET vs. CLE W 12 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 1 0 0 -5
+p622
+aVTayshaun Prince DET 12/05/2010 DET vs. CLE W 30 20 7 14 50.0 1 3 33.3 5 5 100.0 2 2 4 1 0 1 2 0 23
+p623
+aVRichard Hamilton DET 12/05/2010 DET vs. CLE W 35 27 10 17 58.8 4 6 66.7 3 3 100.0 1 2 3 2 0 0 3 1 6
+p624
+aVRodney Stuckey DET 12/05/2010 DET vs. CLE W 41 24 8 14 57.1 0 0 - 8 9 88.9 1 5 6 11 1 0 3 4 18
+p625
+aVGreg Monroe DET 12/05/2010 DET vs. CLE W 24 8 4 7 57.1 0 0 - 0 2 0.0 2 5 7 1 1 1 2 4 -8
+p626
+aVCharlie Villanueva DET 12/05/2010 DET vs. CLE W 23 9 3 9 33.3 2 5 40.0 1 2 50.0 0 1 1 0 0 0 1 3 0
+p627
+aVTracy McGrady DET 12/03/2010 DET vs. ORL L 15 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -13
+p628
+aVBen Wallace DET 12/03/2010 DET vs. ORL L 18 4 1 2 50.0 0 0 - 2 4 50.0 0 1 1 1 0 0 1 0 -3
+p629
+aVGreg Monroe DET 12/03/2010 DET vs. ORL L 27 6 3 6 50.0 0 0 - 0 0 - 0 2 2 4 1 0 0 2 -13
+p630
+aVCharlie Villanueva DET 12/03/2010 DET vs. ORL L 30 15 6 11 54.5 3 7 42.9 0 1 0.0 1 2 3 0 1 2 3 5 -9
+p631
+aVJason Maxiell DET 12/03/2010 DET vs. ORL L 21 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p632
+aVRodney Stuckey DET 12/03/2010 DET vs. ORL L 35 11 3 9 33.3 0 0 - 5 5 100.0 0 3 3 7 3 0 2 3 -2
+p633
+aVAustin Daye DET 12/03/2010 DET vs. ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p634
+aVRichard Hamilton DET 12/03/2010 DET vs. ORL L 18 10 3 9 33.3 3 5 60.0 1 2 50.0 0 1 1 3 1 0 0 2 -2
+p635
+aVBen Gordon DET 12/03/2010 DET vs. ORL L 30 5 2 11 18.2 1 3 33.3 0 0 - 2 7 9 4 1 0 2 1 -11
+p636
+aVTayshaun Prince DET 12/03/2010 DET vs. ORL L 40 30 11 15 73.3 2 3 66.7 6 7 85.7 0 3 3 5 0 0 2 3 -7
+p637
+aVAustin Daye DET 12/01/2010 DET @ MIA L 13 2 1 7 14.3 0 3 0.0 0 0 - 1 1 2 0 1 0 1 0 -5
+p638
+aVRodney Stuckey DET 12/01/2010 DET @ MIA L 23 8 1 7 14.3 1 1 100.0 5 6 83.3 0 1 1 1 0 0 4 2 -13
+p639
+aVJason Maxiell DET 12/01/2010 DET @ MIA L 19 2 1 4 25.0 0 0 - 0 2 0.0 2 1 3 0 0 1 0 1 -12
+p640
+aVGreg Monroe DET 12/01/2010 DET @ MIA L 31 15 7 8 87.5 0 0 - 1 4 25.0 4 4 8 0 1 0 4 2 -10
+p641
+aVBen Gordon DET 12/01/2010 DET @ MIA L 24 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 2 0 0 2 2 -4
+p642
+aVTayshaun Prince DET 12/01/2010 DET @ MIA L 28 8 4 11 36.4 0 1 0.0 0 0 - 1 1 2 2 2 0 0 0 -15
+p643
+aVCharlie Villanueva DET 12/01/2010 DET @ MIA L 21 10 4 10 40.0 2 5 40.0 0 2 0.0 1 5 6 1 0 1 1 2 -11
+p644
+aVTracy McGrady DET 12/01/2010 DET @ MIA L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -5
+p645
+aVRichard Hamilton DET 12/01/2010 DET @ MIA L 24 9 3 11 27.3 1 5 20.0 2 2 100.0 0 2 2 2 0 0 1 2 -21
+p646
+aVBen Wallace DET 12/01/2010 DET @ MIA L 18 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 1 1 0 2 -17
+p647
+aVWill Bynum DET 12/01/2010 DET @ MIA L 25 5 2 7 28.6 0 1 0.0 1 1 100.0 1 1 2 2 0 0 2 2 -12
+p648
+aVChris Wilcox DET 12/01/2010 DET @ MIA L 7 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 0 0 0 1 1 0
+p649
+aVCharlie Villanueva DET 11/30/2010 DET @ ORL L 24 12 5 11 45.5 1 4 25.0 1 2 50.0 0 5 5 1 1 2 2 3 -9
+p650
+aVJason Maxiell DET 11/30/2010 DET @ ORL L 22 6 3 8 37.5 0 0 - 0 0 - 0 1 1 1 0 1 2 2 3
+p651
+aVTracy McGrady DET 11/30/2010 DET @ ORL L 18 3 1 4 25.0 0 1 0.0 1 1 100.0 0 3 3 2 0 0 0 1 -16
+p652
+aVRichard Hamilton DET 11/30/2010 DET @ ORL L 27 12 5 12 41.7 0 5 0.0 2 2 100.0 1 2 3 4 0 0 1 1 -7
+p653
+aVTayshaun Prince DET 11/30/2010 DET @ ORL L 31 16 7 12 58.3 2 3 66.7 0 0 - 1 3 4 2 0 0 2 1 2
+p654
+aVBen Gordon DET 11/30/2010 DET @ ORL L 22 10 4 10 40.0 1 3 33.3 1 1 100.0 0 1 1 4 1 0 2 3 -6
+p655
+aVRodney Stuckey DET 11/30/2010 DET @ ORL L 30 14 4 11 36.4 0 0 - 6 6 100.0 0 3 3 5 3 0 2 2 1
+p656
+aVBen Wallace DET 11/30/2010 DET @ ORL L 24 0 0 1 0.0 0 0 - 0 0 - 2 7 9 1 1 0 0 2 0
+p657
+aVGreg Monroe DET 11/30/2010 DET @ ORL L 24 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 2 2 2 2 -11
+p658
+aVWill Bynum DET 11/30/2010 DET @ ORL L 18 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 1 0 0 3 -12
+p659
+aVBen Wallace DET 11/28/2010 DET vs. NYK L 40 4 2 4 50.0 0 0 - 0 0 - 3 4 7 3 1 2 2 4 -7
+p660
+aVCharlie Villanueva DET 11/28/2010 DET vs. NYK L 16 5 1 6 16.7 1 4 25.0 2 2 100.0 0 1 1 0 0 0 1 1 -2
+p661
+aVTracy McGrady DET 11/28/2010 DET vs. NYK L 29 13 6 10 60.0 0 0 - 1 1 100.0 0 6 6 3 1 1 0 0 6
+p662
+aVRichard Hamilton DET 11/28/2010 DET vs. NYK L 39 17 5 16 31.3 3 5 60.0 4 4 100.0 0 2 2 6 0 0 1 3 -8
+p663
+aVTayshaun Prince DET 11/28/2010 DET vs. NYK L 43 31 13 22 59.1 0 0 - 5 5 100.0 2 6 8 7 0 0 0 1 -9
+p664
+aVRodney Stuckey DET 11/28/2010 DET vs. NYK L 43 29 9 16 56.3 0 0 - 11 12 91.7 1 3 4 2 2 0 2 5 -9
+p665
+aVJason Maxiell DET 11/28/2010 DET vs. NYK L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p666
+aVGreg Monroe DET 11/28/2010 DET vs. NYK L 18 6 1 2 50.0 0 0 - 4 4 100.0 2 4 6 1 2 1 1 4 -2
+p667
+aVAustin Daye DET 11/28/2010 DET vs. NYK L 8 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 0 -5
+p668
+aVWill Bynum DET 11/28/2010 DET vs. NYK L 16 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 1 0 2 3 0
+p669
+aVBen Gordon DET 11/28/2010 DET vs. NYK L 29 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 1 0 3 4 -6
+p670
+aVTayshaun Prince DET 11/26/2010 DET vs. MIL W 30 14 7 11 63.6 0 1 0.0 0 0 - 2 5 7 4 2 2 1 2 18
+p671
+aVRodney Stuckey DET 11/26/2010 DET vs. MIL W 28 18 8 12 66.7 0 0 - 2 3 66.7 1 2 3 7 0 0 2 5 25
+p672
+aVAustin Daye DET 11/26/2010 DET vs. MIL W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 2 -9
+p673
+aVBen Gordon DET 11/26/2010 DET vs. MIL W 24 11 3 5 60.0 1 2 50.0 4 4 100.0 0 2 2 2 1 0 2 3 -3
+p674
+aVCharlie Villanueva DET 11/26/2010 DET vs. MIL W 26 15 6 13 46.2 3 7 42.9 0 0 - 2 6 8 1 1 1 2 4 1
+p675
+aVBen Wallace DET 11/26/2010 DET vs. MIL W 30 2 1 2 50.0 0 0 - 0 0 - 0 8 8 1 0 1 2 0 25
+p676
+aVWill Bynum DET 11/26/2010 DET vs. MIL W 25 13 4 8 50.0 1 1 100.0 4 4 100.0 0 0 0 4 0 0 1 1 -4
+p677
+aVJason Maxiell DET 11/26/2010 DET vs. MIL W 25 10 5 7 71.4 0 0 - 0 2 0.0 1 1 2 0 1 0 1 2 13
+p678
+aVTracy McGrady DET 11/26/2010 DET vs. MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p679
+aVGreg Monroe DET 11/26/2010 DET vs. MIL W 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -11
+p680
+aVRichard Hamilton DET 11/26/2010 DET vs. MIL W 27 15 5 9 55.6 1 1 100.0 4 4 100.0 0 4 4 9 0 0 3 1 13
+p681
+aVRichard Hamilton DET 11/24/2010 DET @ MEM L 21 12 4 11 36.4 2 2 100.0 2 2 100.0 3 2 5 1 0 0 2 2 -20
+p682
+aVBen Gordon DET 11/24/2010 DET @ MEM L 27 10 4 7 57.1 0 3 0.0 2 2 100.0 0 2 2 0 0 0 2 2 -1
+p683
+aVWill Bynum DET 11/24/2010 DET @ MEM L 22 10 3 6 50.0 0 0 - 4 4 100.0 0 0 0 2 0 0 3 1 -4
+p684
+aVTracy McGrady DET 11/24/2010 DET @ MEM L 23 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 4 0 0 0 1 -13
+p685
+aVAustin Daye DET 11/24/2010 DET @ MEM L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p686
+aVChris Wilcox DET 11/24/2010 DET @ MEM L 4 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 2
+p687
+aVRodney Stuckey DET 11/24/2010 DET @ MEM L 26 17 6 15 40.0 0 1 0.0 5 6 83.3 0 2 2 1 1 0 2 5 -17
+p688
+aVTayshaun Prince DET 11/24/2010 DET @ MEM L 21 6 2 7 28.6 0 0 - 2 2 100.0 1 3 4 1 0 0 0 0 -10
+p689
+aVJason Maxiell DET 11/24/2010 DET @ MEM L 23 2 1 6 16.7 0 0 - 0 2 0.0 2 2 4 0 1 0 1 2 -16
+p690
+aVBen Wallace DET 11/24/2010 DET @ MEM L 24 2 1 3 33.3 0 0 - 0 0 - 0 6 6 0 0 2 1 2 -18
+p691
+aVGreg Monroe DET 11/24/2010 DET @ MEM L 21 6 2 6 33.3 0 0 - 2 2 100.0 2 6 8 2 1 1 1 1 -3
+p692
+aVCharlie Villanueva DET 11/24/2010 DET @ MEM L 22 11 5 10 50.0 1 3 33.3 0 0 - 0 3 3 0 0 2 1 0 -2
+p693
+aVWill Bynum DET 11/23/2010 DET @ DAL L 16 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p694
+aVCharlie Villanueva DET 11/23/2010 DET @ DAL L 18 2 1 6 16.7 0 2 0.0 0 0 - 2 5 7 0 0 0 1 5 -3
+p695
+aVRodney Stuckey DET 11/23/2010 DET @ DAL L 32 19 4 8 50.0 1 1 100.0 10 10 100.0 0 5 5 3 0 0 1 2 -6
+p696
+aVJason Maxiell DET 11/23/2010 DET @ DAL L 30 10 5 7 71.4 0 0 - 0 1 0.0 3 4 7 1 0 0 1 3 -1
+p697
+aVTayshaun Prince DET 11/23/2010 DET @ DAL L 28 19 9 13 69.2 0 0 - 1 3 33.3 0 5 5 0 0 1 0 2 -10
+p698
+aVBen Wallace DET 11/23/2010 DET @ DAL L 24 3 1 4 25.0 0 0 - 1 2 50.0 1 4 5 1 0 0 1 1 -6
+p699
+aVTracy McGrady DET 11/23/2010 DET @ DAL L 20 6 3 6 50.0 0 2 0.0 0 2 0.0 1 3 4 4 1 1 3 3 6
+p700
+aVGreg Monroe DET 11/23/2010 DET @ DAL L 19 4 2 6 33.3 0 0 - 0 0 - 4 4 8 0 0 0 2 2 3
+p701
+aVRichard Hamilton DET 11/23/2010 DET @ DAL L 26 5 1 7 14.3 0 1 0.0 3 4 75.0 0 3 3 1 0 0 2 1 -7
+p702
+aVBen Gordon DET 11/23/2010 DET @ DAL L 27 10 3 10 30.0 2 2 100.0 2 2 100.0 0 2 2 1 0 1 4 0 2
+p703
+aVTayshaun Prince DET 11/21/2010 DET vs. WAS W 35 7 3 13 23.1 0 1 0.0 1 2 50.0 2 5 7 6 0 0 1 0 14
+p704
+aVCharlie Villanueva DET 11/21/2010 DET vs. WAS W 37 25 10 18 55.6 4 6 66.7 1 2 50.0 2 9 11 0 0 1 0 2 3
+p705
+aVWill Bynum DET 11/21/2010 DET vs. WAS W 17 9 3 5 60.0 1 2 50.0 2 2 100.0 0 0 0 3 0 0 0 3 -9
+p706
+aVTracy McGrady DET 11/21/2010 DET vs. WAS W 18 4 2 6 33.3 0 1 0.0 0 2 0.0 1 1 2 2 0 2 0 2 -9
+p707
+aVGreg Monroe DET 11/21/2010 DET vs. WAS W 12 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -11
+p708
+aVBen Wallace DET 11/21/2010 DET vs. WAS W 21 4 2 2 100.0 0 0 - 0 2 0.0 5 5 10 0 1 1 1 1 6
+p709
+aVRichard Hamilton DET 11/21/2010 DET vs. WAS W 33 27 11 21 52.4 0 3 0.0 5 6 83.3 0 4 4 1 2 0 1 0 16
+p710
+aVJason Maxiell DET 11/21/2010 DET vs. WAS W 37 14 4 7 57.1 0 0 - 6 8 75.0 3 2 5 0 1 0 0 4 10
+p711
+aVBen Gordon DET 11/21/2010 DET vs. WAS W 20 10 4 6 66.7 1 1 100.0 1 1 100.0 0 1 1 3 0 0 3 3 -9
+p712
+aVRodney Stuckey DET 11/21/2010 DET vs. WAS W 36 15 6 11 54.5 1 1 100.0 2 3 66.7 0 1 1 7 1 0 3 2 14
+p713
+aVBen Gordon DET 11/17/2010 DET vs. LAL L 29 8 3 11 27.3 1 3 33.3 1 2 50.0 0 2 2 7 0 1 2 4 1
+p714
+aVCharlie Villanueva DET 11/17/2010 DET vs. LAL L 27 8 2 11 18.2 1 5 20.0 3 4 75.0 1 3 4 0 0 0 0 4 2
+p715
+aVRichard Hamilton DET 11/17/2010 DET vs. LAL L 5 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p716
+aVRodney Stuckey DET 11/17/2010 DET vs. LAL L 32 18 7 17 41.2 0 2 0.0 4 4 100.0 0 2 2 4 2 0 0 3 -11
+p717
+aVTayshaun Prince DET 11/17/2010 DET vs. LAL L 32 13 6 13 46.2 1 2 50.0 0 0 - 1 5 6 2 0 1 0 1 -24
+p718
+aVAustin Daye DET 11/17/2010 DET vs. LAL L 23 12 4 9 44.4 1 3 33.3 3 3 100.0 3 4 7 0 0 2 1 3 -8
+p719
+aVTracy McGrady DET 11/17/2010 DET vs. LAL L 15 3 1 3 33.3 0 0 - 1 4 25.0 0 2 2 0 1 1 0 0 -1
+p720
+aVWill Bynum DET 11/17/2010 DET vs. LAL L 18 6 3 8 37.5 0 1 0.0 0 0 - 0 0 0 3 1 0 0 1 -4
+p721
+aVGreg Monroe DET 11/17/2010 DET vs. LAL L 12 4 2 3 66.7 0 0 - 0 0 - 0 4 4 2 1 0 0 0 8
+p722
+aVJason Maxiell DET 11/17/2010 DET vs. LAL L 22 6 2 3 66.7 0 0 - 2 2 100.0 3 2 5 0 0 0 1 1 -5
+p723
+aVBen Wallace DET 11/17/2010 DET vs. LAL L 20 4 2 3 66.7 0 0 - 0 0 - 2 6 8 0 0 0 1 1 -19
+p724
+aVChris Wilcox DET 11/17/2010 DET vs. LAL L 3 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 4
+p725
+aVCharlie Villanueva DET 11/15/2010 DET @ GSW L 25 18 5 10 50.0 2 4 50.0 6 7 85.7 0 8 8 2 1 1 1 2 1
+p726
+aVRichard Hamilton DET 11/15/2010 DET @ GSW L 24 13 4 11 36.4 1 4 25.0 4 5 80.0 0 4 4 4 1 0 0 2 3
+p727
+aVWill Bynum DET 11/15/2010 DET @ GSW L 12 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 2 1 0 4 4 -5
+p728
+aVBen Wallace DET 11/15/2010 DET @ GSW L 24 2 1 2 50.0 0 0 - 0 0 - 2 4 6 2 1 1 1 1 -8
+p729
+aVTayshaun Prince DET 11/15/2010 DET @ GSW L 28 15 7 13 53.8 0 0 - 1 2 50.0 1 4 5 1 0 0 3 1 -6
+p730
+aVRodney Stuckey DET 11/15/2010 DET @ GSW L 34 11 2 8 25.0 0 1 0.0 7 8 87.5 3 5 8 6 0 0 2 4 8
+p731
+aVJason Maxiell DET 11/15/2010 DET @ GSW L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -9
+p732
+aVAustin Daye DET 11/15/2010 DET @ GSW L 25 14 5 7 71.4 2 3 66.7 2 4 50.0 1 2 3 3 0 0 1 0 2
+p733
+aVGreg Monroe DET 11/15/2010 DET @ GSW L 18 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 2 1 0 1 13
+p734
+aVTracy McGrady DET 11/15/2010 DET @ GSW L 26 6 3 8 37.5 0 2 0.0 0 2 0.0 2 3 5 1 0 0 1 1 -16
+p735
+aVBen Gordon DET 11/15/2010 DET @ GSW L 18 14 5 11 45.5 2 4 50.0 2 2 100.0 0 2 2 1 2 0 3 3 -3
+p736
+aVRichard Hamilton DET 11/14/2010 DET @ SAC W 21 13 6 14 42.9 0 1 0.0 1 1 100.0 0 1 1 2 0 0 2 1 4
+p737
+aVTracy McGrady DET 11/14/2010 DET @ SAC W 21 8 4 5 80.0 0 0 - 0 0 - 0 0 0 1 1 1 2 2 5
+p738
+aVGreg Monroe DET 11/14/2010 DET @ SAC W 16 6 3 5 60.0 0 0 - 0 0 - 2 6 8 0 2 0 1 1 4
+p739
+aVRodney Stuckey DET 11/14/2010 DET @ SAC W 34 17 6 13 46.2 0 0 - 5 6 83.3 2 1 3 7 1 0 4 2 8
+p740
+aVBen Wallace DET 11/14/2010 DET @ SAC W 28 4 2 2 100.0 0 0 - 0 0 - 1 9 10 2 2 2 0 1 1
+p741
+aVWill Bynum DET 11/14/2010 DET @ SAC W 14 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 1 0 0 1 3 -2
+p742
+aVJason Maxiell DET 11/14/2010 DET @ SAC W 27 5 2 5 40.0 0 0 - 1 2 50.0 3 4 7 1 0 0 0 2 4
+p743
+aVBen Gordon DET 11/14/2010 DET @ SAC W 27 16 4 6 66.7 2 3 66.7 6 6 100.0 0 3 3 2 1 0 1 2 3
+p744
+aVTayshaun Prince DET 11/14/2010 DET @ SAC W 27 14 7 10 70.0 0 1 0.0 0 2 0.0 1 0 1 2 0 1 1 0 1
+p745
+aVCharlie Villanueva DET 11/14/2010 DET @ SAC W 25 11 4 9 44.4 1 3 33.3 2 2 100.0 0 3 3 0 0 1 0 3 2
+p746
+aVBen Wallace DET 11/12/2010 DET @ LAC W 23 4 2 3 66.7 0 0 - 0 0 - 1 4 5 2 1 1 0 2 -8
+p747
+aVRichard Hamilton DET 11/12/2010 DET @ LAC W 33 12 4 13 30.8 1 4 25.0 3 4 75.0 1 4 5 3 5 0 3 3 -1
+p748
+aVWill Bynum DET 11/12/2010 DET @ LAC W 22 4 2 8 25.0 0 0 - 0 1 0.0 0 3 3 2 1 0 0 1 0
+p749
+aVTracy McGrady DET 11/12/2010 DET @ LAC W 8 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 1 1 -1
+p750
+aVJason Maxiell DET 11/12/2010 DET @ LAC W 24 11 3 4 75.0 0 0 - 5 6 83.3 1 2 3 1 0 2 0 4 12
+p751
+aVGreg Monroe DET 11/12/2010 DET @ LAC W 6 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -1
+p752
+aVAustin Daye DET 11/12/2010 DET @ LAC W 25 12 5 7 71.4 2 2 100.0 0 0 - 0 4 4 0 1 0 2 3 5
+p753
+aVCharlie Villanueva DET 11/12/2010 DET @ LAC W 35 30 9 15 60.0 5 7 71.4 7 8 87.5 0 1 1 1 1 0 1 4 8
+p754
+aVTayshaun Prince DET 11/12/2010 DET @ LAC W 37 10 3 11 27.3 0 0 - 4 8 50.0 2 6 8 1 0 0 1 2 3
+p755
+aVRodney Stuckey DET 11/12/2010 DET @ LAC W 31 17 6 14 42.9 0 1 0.0 5 7 71.4 2 1 3 6 1 0 1 3 6
+p756
+aVBen Gordon DET 11/12/2010 DET @ LAC W 20 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 3 0 0 2 2 7
+p757
+aVTracy McGrady DET 11/09/2010 DET @ POR L 18 4 2 5 40.0 0 0 - 0 1 0.0 1 3 4 3 0 0 0 0 -7
+p758
+aVBen Wallace DET 11/09/2010 DET @ POR L 27 2 1 2 50.0 0 0 - 0 1 0.0 1 5 6 1 1 1 1 0 -15
+p759
+aVBen Gordon DET 11/09/2010 DET @ POR L 23 8 3 7 42.9 1 3 33.3 1 1 100.0 0 2 2 1 2 1 1 2 -4
+p760
+aVGreg Monroe DET 11/09/2010 DET @ POR L 24 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 3 3 -8
+p761
+aVJason Maxiell DET 11/09/2010 DET @ POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p762
+aVTayshaun Prince DET 11/09/2010 DET @ POR L 24 10 5 10 50.0 0 0 - 0 0 - 0 1 1 1 1 0 4 3 -16
+p763
+aVWill Bynum DET 11/09/2010 DET @ POR L 14 4 2 4 50.0 0 1 0.0 0 1 0.0 1 0 1 1 0 0 3 1 -8
+p764
+aVRichard Hamilton DET 11/09/2010 DET @ POR L 24 4 2 7 28.6 0 1 0.0 0 2 0.0 0 2 2 4 1 0 1 3 -25
+p765
+aVAustin Daye DET 11/09/2010 DET @ POR L 23 15 4 5 80.0 3 3 100.0 4 4 100.0 2 6 8 1 1 1 1 2 -15
+p766
+aVRodney Stuckey DET 11/09/2010 DET @ POR L 34 17 7 17 41.2 0 3 0.0 3 4 75.0 0 2 2 2 0 0 2 3 -14
+p767
+aVCharlie Villanueva DET 11/09/2010 DET @ POR L 21 8 3 8 37.5 1 4 25.0 1 2 50.0 0 5 5 0 1 2 1 1 -1
+p768
+aVDaJuan Summers DET 11/09/2010 DET @ POR L 5 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 0 0 0 0 0 1
+p769
+aVTayshaun Prince DET 11/07/2010 DET vs. GSW W 33 14 5 14 35.7 2 2 100.0 2 2 100.0 1 4 5 1 0 1 0 1 2
+p770
+aVBen Gordon DET 11/07/2010 DET vs. GSW W 25 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 6 0 1 0 1 5
+p771
+aVAustin Daye DET 11/07/2010 DET vs. GSW W 17 9 4 5 80.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 5 -4
+p772
+aVWill Bynum DET 11/07/2010 DET vs. GSW W 18 0 0 1 0.0 0 0 - 0 0 - 0 4 4 4 0 0 1 1 3
+p773
+aVTracy McGrady DET 11/07/2010 DET vs. GSW W 9 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 1 -5
+p774
+aVRodney Stuckey DET 11/07/2010 DET vs. GSW W 33 21 7 15 46.7 1 2 50.0 6 6 100.0 3 2 5 9 1 0 4 2 2
+p775
+aVGreg Monroe DET 11/07/2010 DET vs. GSW W 18 7 3 8 37.5 0 0 - 1 7 14.3 2 1 3 1 1 0 1 2 4
+p776
+aVBen Wallace DET 11/07/2010 DET vs. GSW W 23 0 0 2 0.0 0 0 - 0 0 - 2 7 9 2 2 1 0 1 0
+p777
+aVCharlie Villanueva DET 11/07/2010 DET vs. GSW W 26 16 5 13 38.5 2 6 33.3 4 6 66.7 2 8 10 1 2 1 0 1 6
+p778
+aVRichard Hamilton DET 11/07/2010 DET vs. GSW W 38 27 10 17 58.8 2 4 50.0 5 5 100.0 1 4 5 2 1 0 5 2 12
+p779
+aVAustin Daye DET 11/05/2010 DET vs. CHA W 18 8 3 6 50.0 2 2 100.0 0 0 - 0 2 2 0 1 0 2 1 17
+p780
+aVBen Wallace DET 11/05/2010 DET vs. CHA W 28 4 2 3 66.7 0 0 - 0 0 - 2 4 6 4 4 1 3 1 7
+p781
+aVRichard Hamilton DET 11/05/2010 DET vs. CHA W 27 16 2 7 28.6 1 2 50.0 11 11 100.0 1 2 3 1 0 0 2 2 6
+p782
+aVGreg Monroe DET 11/05/2010 DET vs. CHA W 20 9 3 5 60.0 0 0 - 3 3 100.0 4 2 6 1 0 1 1 2 -2
+p783
+aVTracy McGrady DET 11/05/2010 DET vs. CHA W 23 10 3 6 50.0 0 0 - 4 4 100.0 0 3 3 2 2 0 0 1 -1
+p784
+aVCharlie Villanueva DET 11/05/2010 DET vs. CHA W 24 10 3 6 50.0 3 5 60.0 1 2 50.0 0 1 1 1 0 1 1 0 -5
+p785
+aVBen Gordon DET 11/05/2010 DET vs. CHA W 41 20 7 16 43.8 1 2 50.0 5 5 100.0 1 2 3 1 3 0 1 2 3
+p786
+aVTayshaun Prince DET 11/05/2010 DET vs. CHA W 37 14 7 17 41.2 0 0 - 0 0 - 0 4 4 2 0 0 1 2 2
+p787
+aVWill Bynum DET 11/05/2010 DET vs. CHA W 23 6 2 9 22.2 0 2 0.0 2 2 100.0 1 2 3 2 1 0 1 2 8
+p788
+aVBen Gordon DET 11/03/2010 DET @ ATL L 42 22 9 19 47.4 0 3 0.0 4 5 80.0 1 3 4 4 1 1 3 5 -8
+p789
+aVRodney Stuckey DET 11/03/2010 DET @ ATL L 14 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 3 2 0 0 2 -2
+p790
+aVTayshaun Prince DET 11/03/2010 DET @ ATL L 37 17 8 14 57.1 1 1 100.0 0 0 - 3 2 5 0 0 0 1 1 -8
+p791
+aVAustin Daye DET 11/03/2010 DET @ ATL L 24 6 2 12 16.7 0 3 0.0 2 2 100.0 2 2 4 3 0 0 0 3 4
+p792
+aVGreg Monroe DET 11/03/2010 DET @ ATL L 27 7 3 9 33.3 0 0 - 1 4 25.0 6 2 8 3 0 0 0 3 1
+p793
+aVBen Wallace DET 11/03/2010 DET @ ATL L 21 0 0 1 0.0 0 0 - 0 0 - 3 3 6 2 0 0 0 1 -10
+p794
+aVDaJuan Summers DET 11/03/2010 DET @ ATL L 16 5 2 6 33.3 1 1 100.0 0 0 - 1 1 2 0 0 0 2 1 -8
+p795
+aVTracy McGrady DET 11/03/2010 DET @ ATL L 24 9 4 7 57.1 0 1 0.0 1 2 50.0 1 3 4 3 3 0 2 1 -7
+p796
+aVCharlie Villanueva DET 11/03/2010 DET @ ATL L 36 14 6 16 37.5 0 5 0.0 2 2 100.0 0 4 4 3 1 1 0 4 -7
+p797
+aVCharlie Villanueva DET 11/02/2010 DET vs. BOS L 33 17 7 13 53.8 1 3 33.3 2 2 100.0 2 5 7 0 0 2 2 1 -13
+p798
+aVTracy McGrady DET 11/02/2010 DET vs. BOS L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -9
+p799
+aVDaJuan Summers DET 11/02/2010 DET vs. BOS L 14 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 1 -11
+p800
+aVBen Wallace DET 11/02/2010 DET vs. BOS L 21 6 2 3 66.7 0 0 - 2 2 100.0 4 4 8 1 0 0 1 2 -13
+p801
+aVGreg Monroe DET 11/02/2010 DET vs. BOS L 18 0 0 6 0.0 0 0 - 0 0 - 3 7 10 2 0 0 1 2 -7
+p802
+aVBen Gordon DET 11/02/2010 DET vs. BOS L 33 14 6 10 60.0 0 2 0.0 2 3 66.7 0 2 2 4 0 0 2 6 -4
+p803
+aVJason Maxiell DET 11/02/2010 DET vs. BOS L 14 1 0 2 0.0 0 0 - 1 4 25.0 1 1 2 1 1 0 2 1 -9
+p804
+aVAustin Daye DET 11/02/2010 DET vs. BOS L 27 16 7 14 50.0 1 4 25.0 1 2 50.0 1 4 5 0 0 0 2 5 -13
+p805
+aVRodney Stuckey DET 11/02/2010 DET vs. BOS L 39 15 6 15 40.0 0 0 - 3 3 100.0 0 1 1 3 1 0 3 1 -9
+p806
+aVTayshaun Prince DET 11/02/2010 DET vs. BOS L 32 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 0 -27
+p807
+aVRichard Hamilton DET 10/30/2010 DET @ CHI L 23 5 2 10 20.0 0 4 0.0 1 2 50.0 0 1 1 0 1 0 0 2 -21
+p808
+aVJason Maxiell DET 10/30/2010 DET @ CHI L 15 4 1 3 33.3 0 0 - 2 4 50.0 0 4 4 0 1 3 1 3 -10
+p809
+aVBen Gordon DET 10/30/2010 DET @ CHI L 28 21 5 10 50.0 1 2 50.0 10 10 100.0 0 1 1 1 0 0 5 3 5
+p810
+aVTracy McGrady DET 10/30/2010 DET @ CHI L 17 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 2 0 3 2 12
+p811
+aVRodney Stuckey DET 10/30/2010 DET @ CHI L 38 18 5 13 38.5 0 2 0.0 8 11 72.7 1 4 5 7 1 1 1 4 -18
+p812
+aVCharlie Villanueva DET 10/30/2010 DET @ CHI L 29 15 5 15 33.3 3 8 37.5 2 4 50.0 0 2 2 0 0 1 1 2 -1
+p813
+aVTayshaun Prince DET 10/30/2010 DET @ CHI L 42 15 7 17 41.2 0 0 - 1 2 50.0 2 3 5 3 1 0 1 3 -11
+p814
+aVAustin Daye DET 10/30/2010 DET @ CHI L 17 5 2 6 33.3 1 2 50.0 0 0 - 0 6 6 0 0 0 1 1 -3
+p815
+aVBen Wallace DET 10/30/2010 DET @ CHI L 26 4 2 4 50.0 0 0 - 0 2 0.0 7 6 13 2 2 2 2 2 -14
+p816
+aVGreg Monroe DET 10/30/2010 DET @ CHI L 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 11
+p817
+aVDaJuan Summers DET 10/29/2010 DET vs. OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p818
+aVBen Gordon DET 10/29/2010 DET vs. OKC L 31 32 11 16 68.8 2 3 66.7 8 9 88.9 0 4 4 1 0 0 1 4 7
+p819
+aVCharlie Villanueva DET 10/29/2010 DET vs. OKC L 27 12 4 11 36.4 2 3 66.7 2 2 100.0 4 3 7 1 0 0 3 5 8
+p820
+aVRodney Stuckey DET 10/29/2010 DET vs. OKC L 39 24 10 18 55.6 0 0 - 4 6 66.7 0 5 5 9 0 0 3 3 -2
+p821
+aVRichard Hamilton DET 10/29/2010 DET vs. OKC L 29 14 5 10 50.0 2 2 100.0 2 2 100.0 0 4 4 0 1 0 4 2 -7
+p822
+aVJason Maxiell DET 10/29/2010 DET vs. OKC L 24 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 0 2 1 3 2
+p823
+aVBen Wallace DET 10/29/2010 DET vs. OKC L 21 2 1 5 20.0 0 0 - 0 1 0.0 4 4 8 1 0 3 1 2 -9
+p824
+aVTracy McGrady DET 10/29/2010 DET vs. OKC L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 0 6
+p825
+aVTayshaun Prince DET 10/29/2010 DET vs. OKC L 38 12 6 11 54.5 0 0 - 0 0 - 3 2 5 3 0 1 3 4 -8
+p826
+aVAustin Daye DET 10/29/2010 DET vs. OKC L 25 6 2 11 18.2 2 4 50.0 0 0 - 1 3 4 0 0 1 1 3 -1
+p827
+aVBen Wallace DET 10/27/2010 DET @ NJN L 27 6 2 3 66.7 0 0 - 2 8 25.0 3 7 10 1 1 0 1 1 -12
+p828
+aVCharlie Villanueva DET 10/27/2010 DET @ NJN L 23 14 5 10 50.0 4 9 44.4 0 0 - 1 2 3 0 1 1 1 4 11
+p829
+aVJason Maxiell DET 10/27/2010 DET @ NJN L 21 11 5 9 55.6 0 0 - 1 4 25.0 2 4 6 0 1 0 1 0 8
+p830
+aVBen Gordon DET 10/27/2010 DET @ NJN L 23 12 5 6 83.3 1 1 100.0 1 2 50.0 0 1 1 3 0 0 2 4 -7
+p831
+aVWill Bynum DET 10/27/2010 DET @ NJN L 19 10 3 10 30.0 1 2 50.0 3 3 100.0 1 2 3 2 1 0 0 2 2
+p832
+aVTayshaun Prince DET 10/27/2010 DET @ NJN L 31 14 5 10 50.0 0 0 - 4 7 57.1 0 2 2 1 0 2 0 2 -5
+p833
+aVAustin Daye DET 10/27/2010 DET @ NJN L 21 4 2 8 25.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 2 -4
+p834
+aVTracy McGrady DET 10/27/2010 DET @ NJN L 14 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 2 0 0 1 9
+p835
+aVRichard Hamilton DET 10/27/2010 DET @ NJN L 32 13 6 14 42.9 1 3 33.3 0 0 - 1 3 4 3 1 0 1 1 -12
+p836
+aVRodney Stuckey DET 10/27/2010 DET @ NJN L 29 14 4 10 40.0 1 2 50.0 5 6 83.3 1 2 3 7 0 0 0 2 -5
+p837
+a.

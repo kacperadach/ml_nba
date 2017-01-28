@@ -1,0 +1,288 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRodney Rogers BOS 05/31/2002 BOS vs. NJN L 26 13 5 8 62.5 1 3 33.3 2 2 100.0 3 4 7 3 0 1 1 3 3
+p2
+aVAntoine Walker BOS 05/31/2002 BOS vs. NJN L 47 16 7 20 35.0 1 9 11.1 1 4 25.0 1 8 9 4 3 2 3 6 -8
+p3
+aVEric Williams BOS 05/31/2002 BOS vs. NJN L 30 11 4 4 100.0 1 1 100.0 2 3 66.7 0 3 3 1 2 0 1 2 -1
+p4
+aVTony Battie BOS 05/31/2002 BOS vs. NJN L 22 0 0 1 0.0 0 0 - 0 2 0.0 4 2 6 1 1 0 2 2 -11
+p5
+aVKenny Anderson BOS 05/31/2002 BOS vs. NJN L 41 18 8 14 57.1 0 0 - 2 3 66.7 1 5 6 7 0 0 2 4 -2
+p6
+aVTony Delk BOS 05/31/2002 BOS vs. NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p7
+aVErick Strickland BOS 05/31/2002 BOS vs. NJN L 26 14 4 13 30.8 2 8 25.0 4 4 100.0 1 0 1 4 1 0 0 2 -6
+p8
+aVPaul Pierce BOS 05/31/2002 BOS vs. NJN L 42 14 5 16 31.3 2 7 28.6 2 4 50.0 1 6 7 4 0 1 4 5 -13
+p9
+aVWalter McCarty BOS 05/31/2002 BOS vs. NJN L 4 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -2
+p10
+aVErick Strickland BOS 05/29/2002 BOS @ NJN L 25 13 4 10 40.0 0 5 0.0 5 5 100.0 1 0 1 1 1 0 3 2 -5
+p11
+aVKenny Anderson BOS 05/29/2002 BOS @ NJN L 34 8 4 13 30.8 0 0 - 0 0 - 1 1 2 6 1 0 1 5 -6
+p12
+aVTony Delk BOS 05/29/2002 BOS @ NJN L 16 6 2 7 28.6 2 4 50.0 0 0 - 2 4 6 3 1 0 0 2 1
+p13
+aVRodney Rogers BOS 05/29/2002 BOS @ NJN L 22 20 6 9 66.7 4 5 80.0 4 4 100.0 2 2 4 0 1 0 2 3 -3
+p14
+aVEric Williams BOS 05/29/2002 BOS @ NJN L 17 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 1 2 -3
+p15
+aVWalter McCarty BOS 05/29/2002 BOS @ NJN L 10 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p16
+aVAntoine Walker BOS 05/29/2002 BOS @ NJN L 43 13 5 20 25.0 2 6 33.3 1 2 50.0 2 11 13 3 1 0 4 4 -16
+p17
+aVPaul Pierce BOS 05/29/2002 BOS @ NJN L 43 24 5 13 38.5 2 9 22.2 12 12 100.0 2 10 12 5 1 3 3 5 -17
+p18
+aVTony Battie BOS 05/29/2002 BOS @ NJN L 31 8 3 5 60.0 0 0 - 2 4 50.0 6 5 11 1 0 3 3 5 -3
+p19
+aVRodney Rogers BOS 05/27/2002 BOS vs. NJN L 24 12 3 8 37.5 1 4 25.0 5 8 62.5 3 2 5 4 2 0 2 4 12
+p20
+aVEric Williams BOS 05/27/2002 BOS vs. NJN L 21 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 1 -13
+p21
+aVAntoine Walker BOS 05/27/2002 BOS vs. NJN L 41 30 10 17 58.8 3 7 42.9 7 9 77.8 0 9 9 4 1 0 2 3 -2
+p22
+aVTony Battie BOS 05/27/2002 BOS vs. NJN L 31 6 3 4 75.0 0 0 - 0 0 - 2 7 9 2 0 2 0 5 -14
+p23
+aVPaul Pierce BOS 05/27/2002 BOS vs. NJN L 48 31 10 21 47.6 1 4 25.0 10 15 66.7 3 6 9 4 5 2 6 5 -2
+p24
+aVErick Strickland BOS 05/27/2002 BOS vs. NJN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 1 0 7
+p25
+aVWalter McCarty BOS 05/27/2002 BOS vs. NJN L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p26
+aVKenny Anderson BOS 05/27/2002 BOS vs. NJN L 38 11 5 16 31.3 0 0 - 1 2 50.0 3 3 6 3 0 0 0 5 -2
+p27
+aVTony Delk BOS 05/27/2002 BOS vs. NJN L 24 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 4 1 0 2 2 0
+p28
+aVTony Delk BOS 05/25/2002 BOS vs. NJN W 27 7 2 7 28.6 1 3 33.3 2 2 100.0 1 4 5 1 1 1 3 1 18
+p29
+aVEric Williams BOS 05/25/2002 BOS vs. NJN W 25 5 1 5 20.0 0 3 0.0 3 4 75.0 1 4 5 1 3 0 0 3 -9
+p30
+aVKenny Anderson BOS 05/25/2002 BOS vs. NJN W 38 15 6 13 46.2 0 0 - 3 4 75.0 1 1 2 3 2 0 2 2 19
+p31
+aVPaul Pierce BOS 05/25/2002 BOS vs. NJN W 46 28 8 21 38.1 0 5 0.0 12 15 80.0 0 5 5 4 1 1 3 2 0
+p32
+aVTony Battie BOS 05/25/2002 BOS vs. NJN W 29 6 2 8 25.0 0 0 - 2 2 100.0 3 6 9 0 1 1 0 3 0
+p33
+aVWalter McCarty BOS 05/25/2002 BOS vs. NJN W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 0 0 0 1 1 -19
+p34
+aVRodney Rogers BOS 05/25/2002 BOS vs. NJN W 20 10 2 4 50.0 0 0 - 6 6 100.0 2 3 5 2 2 1 2 4 6
+p35
+aVAntoine Walker BOS 05/25/2002 BOS vs. NJN W 47 23 8 18 44.4 2 3 66.7 5 6 83.3 4 8 12 4 2 1 6 5 5
+p36
+aVTony Delk BOS 05/21/2002 BOS @ NJN W 16 10 3 7 42.9 2 4 50.0 2 2 100.0 0 3 3 0 2 0 1 0 4
+p37
+aVMark Blount BOS 05/21/2002 BOS @ NJN W 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 1
+p38
+aVAntoine Walker BOS 05/21/2002 BOS @ NJN W 43 26 11 32 34.4 2 8 25.0 2 3 66.7 2 9 11 2 3 0 3 4 6
+p39
+aVPaul Pierce BOS 05/21/2002 BOS @ NJN W 46 18 3 20 15.0 1 5 20.0 11 20 55.0 3 11 14 4 2 1 3 2 8
+p40
+aVEric Williams BOS 05/21/2002 BOS @ NJN W 31 11 5 8 62.5 1 3 33.3 0 0 - 3 5 8 1 0 1 1 5 -2
+p41
+aVKenny Anderson BOS 05/21/2002 BOS @ NJN W 34 12 4 11 36.4 0 0 - 4 5 80.0 1 3 4 7 1 0 1 4 3
+p42
+aVWalter McCarty BOS 05/21/2002 BOS @ NJN W 15 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 4 6
+p43
+aVErick Strickland BOS 05/21/2002 BOS @ NJN W 2 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p44
+aVTony Battie BOS 05/21/2002 BOS @ NJN W 26 8 4 9 44.4 0 0 - 0 2 0.0 7 5 12 0 0 5 1 4 13
+p45
+aVRodney Rogers BOS 05/21/2002 BOS @ NJN W 19 2 0 1 0.0 0 1 0.0 2 2 100.0 1 2 3 0 0 2 0 2 -7
+p46
+aVTony Delk BOS 05/19/2002 BOS @ NJN L 14 8 3 8 37.5 1 5 20.0 1 4 25.0 3 1 4 1 0 0 0 1 -1
+p47
+aVKenny Anderson BOS 05/19/2002 BOS @ NJN L 38 12 5 13 38.5 0 0 - 2 2 100.0 0 4 4 6 3 0 2 3 -6
+p48
+aVTony Battie BOS 05/19/2002 BOS @ NJN L 32 6 2 6 33.3 0 0 - 2 2 100.0 4 7 11 1 2 4 1 4 1
+p49
+aVPaul Pierce BOS 05/19/2002 BOS @ NJN L 38 27 9 19 47.4 2 8 25.0 7 13 53.8 0 4 4 2 2 0 2 5 2
+p50
+aVErick Strickland BOS 05/19/2002 BOS @ NJN L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -8
+p51
+aVRodney Rogers BOS 05/19/2002 BOS @ NJN L 23 7 2 5 40.0 1 4 25.0 2 2 100.0 1 2 3 1 0 1 1 6 -10
+p52
+aVEric Williams BOS 05/19/2002 BOS @ NJN L 35 10 4 9 44.4 2 3 66.7 0 0 - 1 5 6 0 1 0 0 2 -5
+p53
+aVMark Blount BOS 05/19/2002 BOS @ NJN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -1
+p54
+aVAntoine Walker BOS 05/19/2002 BOS @ NJN L 48 27 9 23 39.1 4 9 44.4 5 6 83.3 1 4 5 5 4 0 3 3 -7
+p55
+aVTony Battie BOS 05/14/2002 BOS @ DET W 38 10 5 8 62.5 0 0 - 0 0 - 2 7 9 0 0 3 0 3 6
+p56
+aVTony Delk BOS 05/14/2002 BOS @ DET W 27 9 3 7 42.9 2 4 50.0 1 2 50.0 0 3 3 0 0 0 2 3 -1
+p57
+aVEric Williams BOS 05/14/2002 BOS @ DET W 38 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 3 0 1 4 5
+p58
+aVPaul Pierce BOS 05/14/2002 BOS @ DET W 32 18 5 13 38.5 0 4 0.0 8 9 88.9 0 5 5 3 0 0 4 5 18
+p59
+aVErick Strickland BOS 05/14/2002 BOS @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p60
+aVRodney Rogers BOS 05/14/2002 BOS @ DET W 27 14 5 7 71.4 2 3 66.7 2 2 100.0 1 5 6 4 1 0 2 1 5
+p61
+aVAntoine Walker BOS 05/14/2002 BOS @ DET W 39 16 5 15 33.3 3 6 50.0 3 4 75.0 1 12 13 3 1 0 1 6 3
+p62
+aVKenny Anderson BOS 05/14/2002 BOS @ DET W 39 17 8 18 44.4 0 0 - 1 1 100.0 0 2 2 6 2 0 3 3 11
+p63
+aVTony Battie BOS 05/12/2002 BOS vs. DET W 37 5 2 5 40.0 0 0 - 1 2 50.0 1 6 7 2 0 2 0 2 11
+p64
+aVWalter McCarty BOS 05/12/2002 BOS vs. DET W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p65
+aVKedrick Brown BOS 05/12/2002 BOS vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p66
+aVRodney Rogers BOS 05/12/2002 BOS vs. DET W 30 7 3 6 50.0 1 3 33.3 0 0 - 2 5 7 1 1 0 3 1 -6
+p67
+aVEric Williams BOS 05/12/2002 BOS vs. DET W 27 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 2 3 0 0 6 9
+p68
+aVTony Delk BOS 05/12/2002 BOS vs. DET W 29 16 6 11 54.5 3 5 60.0 1 2 50.0 0 5 5 1 1 1 1 1 -2
+p69
+aVKenny Anderson BOS 05/12/2002 BOS vs. DET W 29 7 3 10 30.0 0 0 - 1 1 100.0 1 1 2 5 2 0 0 4 10
+p70
+aVPaul Pierce BOS 05/12/2002 BOS vs. DET W 40 25 7 16 43.8 1 5 20.0 10 12 83.3 2 15 17 6 1 3 5 2 19
+p71
+aVAntoine Walker BOS 05/12/2002 BOS vs. DET W 45 30 10 19 52.6 1 4 25.0 9 10 90.0 1 1 2 4 1 0 6 4 20
+p72
+aVEric Williams BOS 05/10/2002 BOS vs. DET W 40 0 0 5 0.0 0 3 0.0 0 0 - 1 8 9 0 4 0 2 5 11
+p73
+aVTony Battie BOS 05/10/2002 BOS vs. DET W 33 11 5 8 62.5 0 0 - 1 2 50.0 5 5 10 0 1 2 1 6 3
+p74
+aVAntoine Walker BOS 05/10/2002 BOS vs. DET W 47 16 7 14 50.0 0 3 0.0 2 2 100.0 1 7 8 2 1 0 4 2 2
+p75
+aVPaul Pierce BOS 05/10/2002 BOS vs. DET W 47 19 7 23 30.4 1 7 14.3 4 5 80.0 1 4 5 5 2 1 3 1 5
+p76
+aVKenny Anderson BOS 05/10/2002 BOS vs. DET W 36 17 7 15 46.7 0 0 - 3 3 100.0 1 4 5 3 2 0 4 5 1
+p77
+aVTony Delk BOS 05/10/2002 BOS vs. DET W 12 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 1 0 1 1 0 -3
+p78
+aVRodney Rogers BOS 05/10/2002 BOS vs. DET W 24 3 1 8 12.5 1 5 20.0 0 0 - 0 2 2 2 1 0 1 3 -6
+p79
+aVWalter McCarty BOS 05/10/2002 BOS vs. DET W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p80
+aVPaul Pierce BOS 05/08/2002 BOS @ DET W 41 22 9 19 47.4 0 4 0.0 4 4 100.0 1 5 6 3 1 4 3 3 11
+p81
+aVAntoine Walker BOS 05/08/2002 BOS @ DET W 42 15 5 12 41.7 3 7 42.9 2 2 100.0 0 7 7 2 0 0 3 3 4
+p82
+aVRodney Rogers BOS 05/08/2002 BOS @ DET W 25 13 6 12 50.0 0 1 0.0 1 2 50.0 3 7 10 1 0 0 0 1 12
+p83
+aVTony Delk BOS 05/08/2002 BOS @ DET W 11 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p84
+aVKenny Anderson BOS 05/08/2002 BOS @ DET W 40 11 4 13 30.8 0 0 - 3 4 75.0 2 5 7 5 0 0 2 3 3
+p85
+aVEric Williams BOS 05/08/2002 BOS @ DET W 42 18 6 9 66.7 3 4 75.0 3 4 75.0 2 6 8 3 1 0 3 3 11
+p86
+aVTony Battie BOS 05/08/2002 BOS @ DET W 31 6 3 6 50.0 0 0 - 0 0 - 2 9 11 0 0 0 2 2 1
+p87
+aVErick Strickland BOS 05/08/2002 BOS @ DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -2
+p88
+aVWalter McCarty BOS 05/08/2002 BOS @ DET W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -4
+p89
+aVRodney Rogers BOS 05/05/2002 BOS @ DET L 30 8 2 11 18.2 2 5 40.0 2 2 100.0 5 3 8 0 0 1 2 2 -9
+p90
+aVPaul Pierce BOS 05/05/2002 BOS @ DET L 39 17 7 17 41.2 0 3 0.0 3 4 75.0 4 6 10 5 3 0 3 2 -9
+p91
+aVAntoine Walker BOS 05/05/2002 BOS @ DET L 46 20 7 22 31.8 1 7 14.3 5 6 83.3 2 7 9 1 2 0 3 3 -5
+p92
+aVWalter McCarty BOS 05/05/2002 BOS @ DET L 16 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p93
+aVKenny Anderson BOS 05/05/2002 BOS @ DET L 37 17 7 16 43.8 0 0 - 3 3 100.0 0 2 2 3 2 0 3 4 -10
+p94
+aVEric Williams BOS 05/05/2002 BOS @ DET L 39 14 4 9 44.4 1 2 50.0 5 6 83.3 1 5 6 0 3 0 0 2 -13
+p95
+aVTony Battie BOS 05/05/2002 BOS @ DET L 22 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 2 0 0 2 -12
+p96
+aVTony Delk BOS 05/05/2002 BOS @ DET L 11 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 1 0 0 1 0 -2
+p97
+aVTony Delk BOS 05/03/2002 BOS vs. PHI W 20 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 1 1 1 16
+p98
+aVTony Battie BOS 05/03/2002 BOS vs. PHI W 16 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 0 1 0 4 4
+p99
+aVMark Blount BOS 05/03/2002 BOS vs. PHI W 17 4 2 3 66.7 0 0 - 0 0 - 3 3 6 0 1 1 1 3 9
+p100
+aVEric Williams BOS 05/03/2002 BOS vs. PHI W 35 17 7 10 70.0 3 3 100.0 0 0 - 2 3 5 2 0 0 0 3 33
+p101
+aVPaul Pierce BOS 05/03/2002 BOS vs. PHI W 44 46 16 25 64.0 8 10 80.0 6 7 85.7 1 3 4 6 1 1 0 1 27
+p102
+aVErick Strickland BOS 05/03/2002 BOS vs. PHI W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 4 0 0 0 3 -5
+p103
+aVKenny Anderson BOS 05/03/2002 BOS vs. PHI W 24 8 4 11 36.4 0 0 - 0 1 0.0 1 1 2 2 1 0 1 2 28
+p104
+aVKedrick Brown BOS 05/03/2002 BOS vs. PHI W 2 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 0 0
+p105
+aVAntoine Walker BOS 05/03/2002 BOS vs. PHI W 41 26 11 22 50.0 4 9 44.4 0 0 - 3 6 9 6 1 1 1 3 31
+p106
+aVWalter McCarty BOS 05/03/2002 BOS vs. PHI W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 3
+p107
+aVRodney Rogers BOS 05/03/2002 BOS vs. PHI W 19 8 2 3 66.7 1 2 50.0 3 3 100.0 2 1 3 2 2 0 0 2 19
+p108
+aVMark Blount BOS 05/01/2002 BOS @ PHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -5
+p109
+aVErick Strickland BOS 05/01/2002 BOS @ PHI L 10 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 1 0 2 1 -5
+p110
+aVTony Battie BOS 05/01/2002 BOS @ PHI L 22 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 1 0 0 3 -1
+p111
+aVAntoine Walker BOS 05/01/2002 BOS @ PHI L 38 25 9 21 42.9 5 11 45.5 2 2 100.0 1 6 7 1 0 0 3 3 6
+p112
+aVRodney Rogers BOS 05/01/2002 BOS @ PHI L 28 5 2 8 25.0 1 7 14.3 0 0 - 1 5 6 1 1 1 0 2 -2
+p113
+aVEric Williams BOS 05/01/2002 BOS @ PHI L 35 9 3 8 37.5 0 1 0.0 3 4 75.0 3 3 6 2 1 1 1 4 0
+p114
+aVWalter McCarty BOS 05/01/2002 BOS @ PHI L 24 3 1 4 25.0 0 1 0.0 1 2 50.0 1 3 4 0 2 0 1 2 -6
+p115
+aVKenny Anderson BOS 05/01/2002 BOS @ PHI L 38 12 6 13 46.2 0 0 - 0 0 - 0 1 1 8 1 0 1 2 -1
+p116
+aVPaul Pierce BOS 05/01/2002 BOS @ PHI L 37 20 7 16 43.8 2 6 33.3 4 6 66.7 3 5 8 2 1 0 7 4 4
+p117
+aVRodney Rogers BOS 04/28/2002 BOS @ PHI L 30 13 5 9 55.6 3 5 60.0 0 0 - 1 10 11 5 1 0 3 5 7
+p118
+aVWalter McCarty BOS 04/28/2002 BOS @ PHI L 25 8 3 5 60.0 0 1 0.0 2 2 100.0 2 2 4 1 0 0 1 4 -7
+p119
+aVErick Strickland BOS 04/28/2002 BOS @ PHI L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 2 1
+p120
+aVAntoine Walker BOS 04/28/2002 BOS @ PHI L 47 27 9 20 45.0 7 13 53.8 2 2 100.0 1 6 7 4 2 2 4 2 -4
+p121
+aVEric Williams BOS 04/28/2002 BOS @ PHI L 23 6 3 4 75.0 0 1 0.0 0 0 - 2 1 3 3 0 0 0 4 2
+p122
+aVKenny Anderson BOS 04/28/2002 BOS @ PHI L 36 11 4 6 66.7 0 0 - 3 4 75.0 0 0 0 4 1 0 3 6 2
+p123
+aVPaul Pierce BOS 04/28/2002 BOS @ PHI L 47 29 8 20 40.0 5 10 50.0 8 9 88.9 1 9 10 7 2 0 5 3 -4
+p124
+aVTony Battie BOS 04/28/2002 BOS @ PHI L 18 9 4 7 57.1 0 0 - 1 1 100.0 1 2 3 1 1 3 0 3 -13
+p125
+aVTony Delk BOS 04/28/2002 BOS @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p126
+aVRodney Rogers BOS 04/25/2002 BOS vs. PHI W 18 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 4 2 0 0 1 5
+p127
+aVEric Williams BOS 04/25/2002 BOS vs. PHI W 29 10 4 6 66.7 2 2 100.0 0 0 - 0 2 2 2 1 1 1 4 -7
+p128
+aVWalter McCarty BOS 04/25/2002 BOS vs. PHI W 29 10 3 4 75.0 1 2 50.0 3 4 75.0 1 4 5 1 1 0 0 0 20
+p129
+aVTony Battie BOS 04/25/2002 BOS vs. PHI W 32 12 5 5 100.0 0 0 - 2 2 100.0 0 6 6 1 0 3 1 2 -2
+p130
+aVErick Strickland BOS 04/25/2002 BOS vs. PHI W 16 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 4 0 0 1 2 12
+p131
+aVKenny Anderson BOS 04/25/2002 BOS vs. PHI W 33 12 5 13 38.5 0 0 - 2 2 100.0 1 1 2 3 2 0 1 3 2
+p132
+aVPaul Pierce BOS 04/25/2002 BOS vs. PHI W 38 25 6 19 31.6 2 9 22.2 11 13 84.6 2 8 10 3 1 0 6 3 1
+p133
+aVAntoine Walker BOS 04/25/2002 BOS vs. PHI W 45 24 10 21 47.6 2 3 66.7 2 2 100.0 2 8 10 4 0 0 5 2 9
+p134
+aVTony Battie BOS 04/21/2002 BOS vs. PHI W 22 6 2 6 33.3 0 0 - 2 2 100.0 0 7 7 1 1 1 0 1 21
+p135
+aVKenny Anderson BOS 04/21/2002 BOS vs. PHI W 24 4 2 2 100.0 0 0 - 0 0 - 0 3 3 5 1 0 2 3 3
+p136
+aVErick Strickland BOS 04/21/2002 BOS vs. PHI W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p137
+aVTony Delk BOS 04/21/2002 BOS vs. PHI W 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 1 1 2 2 11
+p138
+aVAntoine Walker BOS 04/21/2002 BOS vs. PHI W 45 20 8 23 34.8 2 4 50.0 2 4 50.0 1 6 7 3 2 0 4 3 6
+p139
+aVWalter McCarty BOS 04/21/2002 BOS vs. PHI W 30 14 6 8 75.0 1 3 33.3 1 1 100.0 2 2 4 1 0 0 0 5 -2
+p140
+aVEric Williams BOS 04/21/2002 BOS vs. PHI W 20 8 3 3 100.0 1 1 100.0 1 2 50.0 0 1 1 1 2 0 0 3 9
+p141
+aVRodney Rogers BOS 04/21/2002 BOS vs. PHI W 29 7 2 7 28.6 1 2 50.0 2 2 100.0 1 3 4 4 2 0 3 2 -7
+p142
+aVPaul Pierce BOS 04/21/2002 BOS vs. PHI W 46 31 10 25 40.0 3 8 37.5 8 9 88.9 3 8 11 3 4 3 4 4 13
+p143
+a.

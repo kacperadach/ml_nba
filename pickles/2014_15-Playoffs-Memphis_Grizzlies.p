@@ -1,0 +1,242 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKosta Koufos MEM 05/15/2015 MEM vs. GSW L 14 8 4 5 80.0 0 0 - 0 0 - 4 4 8 1 1 0 0 0 -3
+p2
+aVVince Carter MEM 05/15/2015 MEM vs. GSW L 26 16 5 7 71.4 2 3 66.7 4 5 80.0 1 2 3 2 1 0 1 4 -2
+p3
+aVMike Conley MEM 05/15/2015 MEM vs. GSW L 39 11 3 13 23.1 0 6 0.0 5 7 71.4 0 1 1 9 2 0 1 1 -10
+p4
+aVMarc Gasol MEM 05/15/2015 MEM vs. GSW L 44 21 7 23 30.4 0 0 - 7 10 70.0 3 12 15 4 0 5 0 2 -14
+p5
+aVJaMychal Green MEM 05/15/2015 MEM vs. GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p6
+aVBeno Udrih MEM 05/15/2015 MEM vs. GSW L 8 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p7
+aVNick Calathes MEM 05/15/2015 MEM vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p8
+aVJeff Green MEM 05/15/2015 MEM vs. GSW L 31 6 2 8 25.0 0 2 0.0 2 2 100.0 2 5 7 1 1 0 0 2 -10
+p9
+aVCourtney Lee MEM 05/15/2015 MEM vs. GSW L 38 12 5 12 41.7 2 4 50.0 0 0 - 0 2 2 3 1 0 0 2 -8
+p10
+aVZach Randolph MEM 05/15/2015 MEM vs. GSW L 33 15 5 14 35.7 0 0 - 5 6 83.3 2 4 6 1 1 0 1 4 -6
+p11
+aVTony Allen MEM 05/15/2015 MEM vs. GSW L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p12
+aVJon Leuer MEM 05/13/2015 MEM @ GSW L 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p13
+aVJaMychal Green MEM 05/13/2015 MEM @ GSW L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 0
+p14
+aVKosta Koufos MEM 05/13/2015 MEM @ GSW L 14 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -17
+p15
+aVVince Carter MEM 05/13/2015 MEM @ GSW L 20 8 3 10 30.0 1 6 16.7 1 1 100.0 4 2 6 1 1 0 2 1 -23
+p16
+aVZach Randolph MEM 05/13/2015 MEM @ GSW L 34 13 6 12 50.0 1 1 100.0 0 0 - 5 5 10 1 1 0 4 2 -9
+p17
+aVBeno Udrih MEM 05/13/2015 MEM @ GSW L 12 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -19
+p18
+aVMike Conley MEM 05/13/2015 MEM @ GSW L 33 13 5 10 50.0 0 2 0.0 3 3 100.0 0 0 0 5 3 0 2 3 -1
+p19
+aVCourtney Lee MEM 05/13/2015 MEM @ GSW L 31 7 3 3 100.0 1 1 100.0 0 0 - 0 3 3 4 0 0 3 3 -8
+p20
+aVMarc Gasol MEM 05/13/2015 MEM @ GSW L 36 18 8 22 36.4 0 0 - 2 2 100.0 2 10 12 6 1 1 2 3 -9
+p21
+aVJordan Adams MEM 05/13/2015 MEM @ GSW L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 4
+p22
+aVRuss Smith MEM 05/13/2015 MEM @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p23
+aVJeff Green MEM 05/13/2015 MEM @ GSW L 28 10 5 13 38.5 0 2 0.0 0 0 - 0 4 4 1 0 0 1 1 -1
+p24
+aVNick Calathes MEM 05/13/2015 MEM @ GSW L 19 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 2 0 1 2 -17
+p25
+aVJordan Adams MEM 05/11/2015 MEM vs. GSW L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p26
+aVMarc Gasol MEM 05/11/2015 MEM vs. GSW L 38 19 7 19 36.8 0 0 - 5 6 83.3 4 6 10 6 1 1 1 2 -18
+p27
+aVJeff Green MEM 05/11/2015 MEM vs. GSW L 34 12 4 8 50.0 1 2 50.0 3 4 75.0 0 3 3 3 1 1 3 3 -10
+p28
+aVCourtney Lee MEM 05/11/2015 MEM vs. GSW L 30 6 3 7 42.9 0 3 0.0 0 0 - 1 2 3 3 1 0 2 0 -9
+p29
+aVTony Allen MEM 05/11/2015 MEM vs. GSW L 16 4 2 9 22.2 0 3 0.0 0 0 - 4 1 5 0 1 1 1 2 -11
+p30
+aVJon Leuer MEM 05/11/2015 MEM vs. GSW L 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p31
+aVZach Randolph MEM 05/11/2015 MEM vs. GSW L 31 12 5 10 50.0 0 0 - 2 3 66.7 5 6 11 0 0 0 4 2 -21
+p32
+aVMike Conley MEM 05/11/2015 MEM vs. GSW L 33 10 4 15 26.7 2 5 40.0 0 0 - 0 3 3 7 3 0 3 2 -16
+p33
+aVKosta Koufos MEM 05/11/2015 MEM vs. GSW L 5 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -8
+p34
+aVBeno Udrih MEM 05/11/2015 MEM vs. GSW L 17 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 3 0 0 1 2 0
+p35
+aVJaMychal Green MEM 05/11/2015 MEM vs. GSW L 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 1 0 0 3
+p36
+aVVince Carter MEM 05/11/2015 MEM vs. GSW L 24 10 4 9 44.4 1 3 33.3 1 1 100.0 0 7 7 0 0 0 1 4 -5
+p37
+aVNick Calathes MEM 05/11/2015 MEM vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 4
+p38
+aVVince Carter MEM 05/09/2015 MEM vs. GSW W 13 4 2 5 40.0 0 2 0.0 0 0 - 1 3 4 0 0 0 1 2 9
+p39
+aVCourtney Lee MEM 05/09/2015 MEM vs. GSW W 32 11 4 9 44.4 2 4 50.0 1 1 100.0 0 3 3 4 2 0 1 3 6
+p40
+aVMarc Gasol MEM 05/09/2015 MEM vs. GSW W 36 21 6 17 35.3 0 0 - 9 10 90.0 3 12 15 2 1 0 1 6 -1
+p41
+aVBeno Udrih MEM 05/09/2015 MEM vs. GSW W 16 7 2 6 33.3 0 1 0.0 3 4 75.0 0 1 1 3 2 0 0 3 12
+p42
+aVTony Allen MEM 05/09/2015 MEM vs. GSW W 33 8 4 8 50.0 0 0 - 0 0 - 0 5 5 2 4 1 5 3 -8
+p43
+aVMike Conley MEM 05/09/2015 MEM vs. GSW W 32 11 3 10 30.0 2 6 33.3 3 4 75.0 0 0 0 5 0 0 1 2 0
+p44
+aVZach Randolph MEM 05/09/2015 MEM vs. GSW W 37 22 9 15 60.0 0 1 0.0 4 4 100.0 2 6 8 3 1 0 3 3 1
+p45
+aVKosta Koufos MEM 05/09/2015 MEM vs. GSW W 15 8 4 4 100.0 0 0 - 0 0 - 4 2 6 1 0 1 0 2 8
+p46
+aVJeff Green MEM 05/09/2015 MEM vs. GSW W 26 7 3 8 37.5 1 2 50.0 0 0 - 1 1 2 1 0 0 2 2 23
+p47
+aVBeno Udrih MEM 05/05/2015 MEM @ GSW W 21 4 2 8 25.0 0 1 0.0 0 0 - 0 5 5 2 2 0 1 3 0
+p48
+aVVince Carter MEM 05/05/2015 MEM @ GSW W 18 2 1 4 25.0 0 1 0.0 0 0 - 1 6 7 3 1 0 1 1 -10
+p49
+aVCourtney Lee MEM 05/05/2015 MEM @ GSW W 33 15 5 13 38.5 2 4 50.0 3 3 100.0 1 1 2 1 2 0 0 3 10
+p50
+aVZach Randolph MEM 05/05/2015 MEM @ GSW W 36 20 7 16 43.8 0 0 - 6 6 100.0 2 5 7 4 1 0 2 4 14
+p51
+aVMike Conley MEM 05/05/2015 MEM @ GSW W 27 22 8 12 66.7 3 6 50.0 3 4 75.0 0 0 0 3 0 0 1 1 9
+p52
+aVJeff Green MEM 05/05/2015 MEM @ GSW W 26 8 4 10 40.0 0 2 0.0 0 0 - 3 3 6 1 0 0 2 0 -6
+p53
+aVTony Allen MEM 05/05/2015 MEM @ GSW W 37 9 4 7 57.1 0 1 0.0 1 1 100.0 1 3 4 2 4 1 3 3 14
+p54
+aVNick Calathes MEM 05/05/2015 MEM @ GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p55
+aVKosta Koufos MEM 05/05/2015 MEM @ GSW W 11 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 1 0 1 3
+p56
+aVMarc Gasol MEM 05/05/2015 MEM @ GSW W 31 15 5 10 50.0 0 0 - 5 6 83.3 0 6 6 3 2 0 3 5 1
+p57
+aVCourtney Lee MEM 05/03/2015 MEM @ GSW L 36 9 4 9 44.4 1 3 33.3 0 0 - 0 2 2 2 0 0 3 2 -15
+p58
+aVJordan Adams MEM 05/03/2015 MEM @ GSW L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p59
+aVJeff Green MEM 05/03/2015 MEM @ GSW L 27 9 4 9 44.4 0 1 0.0 1 2 50.0 0 2 2 4 1 0 3 0 -6
+p60
+aVZach Randolph MEM 05/03/2015 MEM @ GSW L 36 20 9 15 60.0 0 0 - 2 2 100.0 3 6 9 5 0 0 1 4 -17
+p61
+aVVince Carter MEM 05/03/2015 MEM @ GSW L 18 2 1 7 14.3 0 2 0.0 0 0 - 1 3 4 2 2 0 1 0 3
+p62
+aVTony Allen MEM 05/03/2015 MEM @ GSW L 38 15 6 11 54.5 0 0 - 3 4 75.0 2 2 4 3 3 0 0 3 -14
+p63
+aVMarc Gasol MEM 05/03/2015 MEM @ GSW L 38 21 5 10 50.0 0 1 0.0 11 12 91.7 1 8 9 3 3 0 3 3 -12
+p64
+aVJaMychal Green MEM 05/03/2015 MEM @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p65
+aVRuss Smith MEM 05/03/2015 MEM @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p66
+aVKosta Koufos MEM 05/03/2015 MEM @ GSW L 6 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 0 1 -9
+p67
+aVBeno Udrih MEM 05/03/2015 MEM @ GSW L 19 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 1 1 0 1 1 -11
+p68
+aVNick Calathes MEM 05/03/2015 MEM @ GSW L 21 0 0 4 0.0 0 1 0.0 0 2 0.0 0 1 1 2 3 0 3 2 -3
+p69
+aVCourtney Lee MEM 04/29/2015 MEM vs. POR W 35 20 8 12 66.7 0 1 0.0 4 4 100.0 0 1 1 1 2 0 2 2 2
+p70
+aVKosta Koufos MEM 04/29/2015 MEM vs. POR W 9 0 0 2 0.0 0 0 - 0 0 - 4 3 7 0 1 0 0 0 0
+p71
+aVMarc Gasol MEM 04/29/2015 MEM vs. POR W 38 26 9 15 60.0 0 0 - 8 10 80.0 2 12 14 3 0 2 3 3 4
+p72
+aVVince Carter MEM 04/29/2015 MEM vs. POR W 22 9 4 10 40.0 0 3 0.0 1 1 100.0 2 3 5 1 1 1 0 0 7
+p73
+aVTony Allen MEM 04/29/2015 MEM vs. POR W 31 8 3 6 50.0 1 2 50.0 1 2 50.0 3 4 7 4 5 2 1 2 0
+p74
+aVBeno Udrih MEM 04/29/2015 MEM vs. POR W 15 4 1 6 16.7 0 3 0.0 2 2 100.0 1 2 3 1 0 0 0 3 -15
+p75
+aVZach Randolph MEM 04/29/2015 MEM vs. POR W 39 16 7 19 36.8 0 0 - 2 4 50.0 2 6 8 2 1 0 2 5 12
+p76
+aVNick Calathes MEM 04/29/2015 MEM vs. POR W 29 6 3 10 30.0 0 2 0.0 0 0 - 1 3 4 4 0 0 1 4 19
+p77
+aVJeff Green MEM 04/29/2015 MEM vs. POR W 23 10 2 9 22.2 0 3 0.0 6 7 85.7 0 7 7 1 0 1 1 2 1
+p78
+aVMarc Gasol MEM 04/27/2015 MEM @ POR L 41 21 7 16 43.8 0 1 0.0 7 8 87.5 0 7 7 6 0 1 2 2 -1
+p79
+aVVince Carter MEM 04/27/2015 MEM @ POR L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -6
+p80
+aVNick Calathes MEM 04/27/2015 MEM @ POR L 24 12 4 10 40.0 4 5 80.0 0 0 - 0 3 3 3 3 0 2 3 9
+p81
+aVZach Randolph MEM 04/27/2015 MEM @ POR L 36 12 6 20 30.0 0 1 0.0 0 0 - 3 6 9 1 0 0 3 4 0
+p82
+aVJon Leuer MEM 04/27/2015 MEM @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p83
+aVBeno Udrih MEM 04/27/2015 MEM @ POR L 24 13 5 10 50.0 1 2 50.0 2 2 100.0 1 0 1 3 0 0 1 0 -13
+p84
+aVCourtney Lee MEM 04/27/2015 MEM @ POR L 37 19 8 11 72.7 1 3 33.3 2 2 100.0 0 2 2 2 0 0 0 1 -2
+p85
+aVTony Allen MEM 04/27/2015 MEM @ POR L 33 4 1 2 50.0 0 1 0.0 2 2 100.0 1 9 10 1 2 2 0 3 10
+p86
+aVKosta Koufos MEM 04/27/2015 MEM @ POR L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p87
+aVJeff Green MEM 04/27/2015 MEM @ POR L 22 7 3 10 30.0 1 1 100.0 0 0 - 1 3 4 2 1 0 1 5 -19
+p88
+aVZach Randolph MEM 04/25/2015 MEM @ POR W 32 16 6 12 50.0 0 0 - 4 4 100.0 1 3 4 4 0 0 2 2 4
+p89
+aVNick Calathes MEM 04/25/2015 MEM @ POR W 27 13 4 9 44.4 2 4 50.0 3 6 50.0 0 4 4 3 0 1 0 3 -1
+p90
+aVJeff Green MEM 04/25/2015 MEM @ POR W 26 9 2 9 22.2 0 0 - 5 5 100.0 1 5 6 1 0 0 2 2 -5
+p91
+aVMike Conley MEM 04/25/2015 MEM @ POR W 26 14 6 14 42.9 1 3 33.3 1 1 100.0 0 3 3 4 1 0 0 1 14
+p92
+aVMarc Gasol MEM 04/25/2015 MEM @ POR W 39 25 6 17 35.3 0 0 - 13 14 92.9 1 6 7 4 0 3 0 2 5
+p93
+aVVince Carter MEM 04/25/2015 MEM @ POR W 17 5 2 2 100.0 0 0 - 1 1 100.0 1 2 3 0 0 1 0 1 4
+p94
+aVKosta Koufos MEM 04/25/2015 MEM @ POR W 16 5 2 2 100.0 0 0 - 1 1 100.0 1 0 1 1 0 1 0 2 -1
+p95
+aVTony Allen MEM 04/25/2015 MEM @ POR W 24 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 0 1 0 1 4 8
+p96
+aVCourtney Lee MEM 04/25/2015 MEM @ POR W 33 20 5 8 62.5 1 2 50.0 9 9 100.0 0 5 5 1 1 0 1 5 2
+p97
+aVMarc Gasol MEM 04/22/2015 MEM vs. POR W 35 15 4 15 26.7 0 0 - 7 7 100.0 1 6 7 5 1 3 0 2 3
+p98
+aVJeff Green MEM 04/22/2015 MEM vs. POR W 27 9 4 13 30.8 1 3 33.3 0 0 - 1 4 5 3 1 1 1 1 20
+p99
+aVBeno Udrih MEM 04/22/2015 MEM vs. POR W 19 10 4 9 44.4 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 3 9
+p100
+aVCourtney Lee MEM 04/22/2015 MEM vs. POR W 33 18 8 11 72.7 2 3 66.7 0 1 0.0 1 1 2 1 3 0 0 1 3
+p101
+aVMike Conley MEM 04/22/2015 MEM vs. POR W 29 18 6 11 54.5 2 3 66.7 4 4 100.0 0 1 1 6 1 0 2 0 6
+p102
+aVZach Randolph MEM 04/22/2015 MEM vs. POR W 33 10 5 16 31.3 0 1 0.0 0 0 - 3 7 10 2 1 0 1 4 5
+p103
+aVKosta Koufos MEM 04/22/2015 MEM vs. POR W 13 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 3 9
+p104
+aVTony Allen MEM 04/22/2015 MEM vs. POR W 36 4 2 4 50.0 0 0 - 0 0 - 2 7 9 1 1 3 1 4 7
+p105
+aVVince Carter MEM 04/22/2015 MEM vs. POR W 14 9 3 6 50.0 3 5 60.0 0 0 - 1 3 4 0 1 0 0 0 12
+p106
+aVNick Calathes MEM 04/22/2015 MEM vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p107
+aVBeno Udrih MEM 04/19/2015 MEM vs. POR W 24 20 9 14 64.3 1 1 100.0 1 2 50.0 1 6 7 7 0 0 0 1 2
+p108
+aVJon Leuer MEM 04/19/2015 MEM vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p109
+aVJordan Adams MEM 04/19/2015 MEM vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p110
+aVVince Carter MEM 04/19/2015 MEM vs. POR W 14 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 1 0 0 0 3 1
+p111
+aVCourtney Lee MEM 04/19/2015 MEM vs. POR W 29 9 2 5 40.0 2 2 100.0 3 3 100.0 0 3 3 2 0 0 1 2 20
+p112
+aVKosta Koufos MEM 04/19/2015 MEM vs. POR W 13 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 1 3 0 4 -2
+p113
+aVTony Allen MEM 04/19/2015 MEM vs. POR W 25 4 2 3 66.7 0 0 - 0 1 0.0 0 3 3 2 3 1 1 2 8
+p114
+aVMike Conley MEM 04/19/2015 MEM vs. POR W 24 16 6 11 54.5 0 2 0.0 4 5 80.0 0 1 1 1 1 0 2 0 12
+p115
+aVNick Calathes MEM 04/19/2015 MEM vs. POR W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 3 0 -4
+p116
+aVJaMychal Green MEM 04/19/2015 MEM vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p117
+aVJeff Green MEM 04/19/2015 MEM vs. POR W 28 11 3 11 27.3 0 0 - 5 6 83.3 0 6 6 1 0 2 0 0 8
+p118
+aVZach Randolph MEM 04/19/2015 MEM vs. POR W 36 16 6 19 31.6 0 1 0.0 4 4 100.0 4 7 11 0 0 0 0 3 10
+p119
+aVMarc Gasol MEM 04/19/2015 MEM vs. POR W 39 15 7 16 43.8 0 0 - 1 3 33.3 2 9 11 7 1 3 1 3 15
+p120
+a.

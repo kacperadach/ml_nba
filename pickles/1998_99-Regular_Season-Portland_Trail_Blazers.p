@@ -1,0 +1,1070 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVWalt Williams POR 05/05/1999 POR @ LAL L 21 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 2 0 1 2 3 -3
+p2
+aVKelvin Cato POR 05/05/1999 POR @ LAL L 30 2 1 5 20.0 0 0 - 0 0 - 3 5 8 1 2 4 0 3 -20
+p3
+aVBrian Grant POR 05/05/1999 POR @ LAL L 17 8 4 8 50.0 0 0 - 0 0 - 0 1 1 0 0 0 3 2 -16
+p4
+aVJermaine O'Neal POR 05/05/1999 POR @ LAL L 15 9 4 6 66.7 0 0 - 1 4 25.0 5 3 8 4 1 0 0 4 2
+p5
+aVJim Jackson POR 05/05/1999 POR @ LAL L 24 3 1 4 25.0 1 3 33.3 0 0 - 0 5 5 4 2 0 3 3 5
+p6
+aVArvydas Sabonis POR 05/05/1999 POR @ LAL L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -9
+p7
+aVDamon Stoudamire POR 05/05/1999 POR @ LAL L 29 13 5 14 35.7 1 6 16.7 2 2 100.0 0 2 2 4 1 0 2 2 -33
+p8
+aVIsaiah Rider POR 05/05/1999 POR @ LAL L 26 5 2 7 28.6 1 1 100.0 0 0 - 0 3 3 1 0 0 0 1 -34
+p9
+aVBonzi Wells POR 05/05/1999 POR @ LAL L 12 12 3 5 60.0 1 2 50.0 5 10 50.0 1 3 4 1 0 1 2 4 0
+p10
+aVStacey Augmon POR 05/05/1999 POR @ LAL L 14 0 0 5 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -24
+p11
+aVGreg Anthony POR 05/05/1999 POR @ LAL L 19 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 3 0 0 2 3 5
+p12
+aVRasheed Wallace POR 05/05/1999 POR @ LAL L 25 23 10 16 62.5 0 0 - 3 5 60.0 0 2 2 2 0 0 0 4 -13
+p13
+aVWalt Williams POR 05/04/1999 POR vs. SAS L 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -2
+p14
+aVIsaiah Rider POR 05/04/1999 POR vs. SAS L 16 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 2 0 0 1 1 3
+p15
+aVBrian Grant POR 05/04/1999 POR vs. SAS L 38 7 3 10 30.0 0 0 - 1 2 50.0 3 7 10 1 0 4 4 4 8
+p16
+aVJim Jackson POR 05/04/1999 POR vs. SAS L 36 15 6 14 42.9 1 3 33.3 2 2 100.0 1 2 3 3 2 0 1 2 -11
+p17
+aVDamon Stoudamire POR 05/04/1999 POR vs. SAS L 30 8 4 14 28.6 0 1 0.0 0 0 - 1 1 2 7 2 0 3 2 1
+p18
+aVGreg Anthony POR 05/04/1999 POR vs. SAS L 18 9 3 5 60.0 3 5 60.0 0 0 - 0 1 1 3 1 0 1 2 -9
+p19
+aVStacey Augmon POR 05/04/1999 POR vs. SAS L 20 11 4 4 100.0 0 0 - 3 4 75.0 1 3 4 2 1 0 0 2 -7
+p20
+aVRasheed Wallace POR 05/04/1999 POR vs. SAS L 23 6 3 8 37.5 0 0 - 0 0 - 1 4 5 0 1 0 2 3 8
+p21
+aVJermaine O'Neal POR 05/04/1999 POR vs. SAS L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p22
+aVKelvin Cato POR 05/04/1999 POR vs. SAS L 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 2 -10
+p23
+aVArvydas Sabonis POR 05/04/1999 POR vs. SAS L 36 18 7 13 53.8 1 1 100.0 3 4 75.0 1 7 8 8 1 1 2 1 -6
+p24
+aVKelvin Cato POR 05/02/1999 POR @ DEN W 12 10 4 4 100.0 0 0 - 2 3 66.7 2 3 5 1 0 2 0 0 0
+p25
+aVArvydas Sabonis POR 05/02/1999 POR @ DEN W 18 16 6 10 60.0 0 0 - 4 6 66.7 3 1 4 1 1 1 2 4 0
+p26
+aVRasheed Wallace POR 05/02/1999 POR @ DEN W 26 10 4 9 44.4 0 1 0.0 2 4 50.0 0 3 3 2 0 1 0 3 26
+p27
+aVIsaiah Rider POR 05/02/1999 POR @ DEN W 24 16 6 14 42.9 2 6 33.3 2 2 100.0 0 3 3 3 0 1 2 1 -3
+p28
+aVJermaine O'Neal POR 05/02/1999 POR @ DEN W 7 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 2 1 0 0 0 0
+p29
+aVBrian Grant POR 05/02/1999 POR @ DEN W 33 12 5 7 71.4 0 0 - 2 2 100.0 1 8 9 0 0 0 2 3 -10
+p30
+aVStacey Augmon POR 05/02/1999 POR @ DEN W 26 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 2 0 2 1 20
+p31
+aVGreg Anthony POR 05/02/1999 POR @ DEN W 23 9 3 5 60.0 3 5 60.0 0 0 - 0 1 1 2 2 0 1 2 2
+p32
+aVJim Jackson POR 05/02/1999 POR @ DEN W 36 14 5 10 50.0 2 5 40.0 2 2 100.0 3 2 5 9 3 0 2 3 11
+p33
+aVDamon Stoudamire POR 05/02/1999 POR @ DEN W 36 17 7 16 43.8 2 5 40.0 1 1 100.0 0 2 2 9 1 0 2 0 -6
+p34
+aVKelvin Cato POR 05/01/1999 POR @ SAS L 12 2 1 4 25.0 0 0 - 0 0 - 1 5 6 0 1 1 1 2 8
+p35
+aVIsaiah Rider POR 05/01/1999 POR @ SAS L 24 6 2 9 22.2 0 1 0.0 2 3 66.7 0 2 2 2 0 0 2 1 -13
+p36
+aVJim Jackson POR 05/01/1999 POR @ SAS L 28 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 2 0 0 2 1 4
+p37
+aVRasheed Wallace POR 05/01/1999 POR @ SAS L 36 13 6 17 35.3 0 0 - 1 2 50.0 0 3 3 2 4 2 1 4 3
+p38
+aVArvydas Sabonis POR 05/01/1999 POR @ SAS L 27 14 5 9 55.6 0 0 - 4 5 80.0 1 5 6 2 0 0 0 6 -4
+p39
+aVWalt Williams POR 05/01/1999 POR @ SAS L 30 13 5 9 55.6 3 5 60.0 0 0 - 1 3 4 1 1 2 1 5 -3
+p40
+aVStacey Augmon POR 05/01/1999 POR @ SAS L 15 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -12
+p41
+aVJermaine O'Neal POR 05/01/1999 POR @ SAS L 8 6 2 3 66.7 0 0 - 2 4 50.0 0 1 1 0 0 0 0 0 0
+p42
+aVDamon Stoudamire POR 05/01/1999 POR @ SAS L 32 12 6 17 35.3 0 5 0.0 0 0 - 3 0 3 6 1 0 1 3 -4
+p43
+aVBrian Grant POR 05/01/1999 POR @ SAS L 31 10 3 10 30.0 0 0 - 4 4 100.0 8 3 11 1 0 1 0 6 -13
+p44
+aVGreg Anthony POR 05/01/1999 POR @ SAS L 22 10 3 7 42.9 1 3 33.3 3 6 50.0 2 3 5 2 1 0 2 1 -6
+p45
+aVRasheed Wallace POR 04/29/1999 POR @ LAL L 32 11 4 10 40.0 1 1 100.0 2 3 66.7 0 4 4 1 0 1 2 4 -24
+p46
+aVGary Grant POR 04/29/1999 POR @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p47
+aVDamon Stoudamire POR 04/29/1999 POR @ LAL L 29 17 6 15 40.0 3 7 42.9 2 4 50.0 1 1 2 3 1 0 2 1 -17
+p48
+aVBrian Grant POR 04/29/1999 POR @ LAL L 29 8 3 4 75.0 0 0 - 2 4 50.0 4 6 10 2 0 0 2 5 -5
+p49
+aVStacey Augmon POR 04/29/1999 POR @ LAL L 19 2 0 2 0.0 0 0 - 2 4 50.0 1 2 3 3 2 0 1 0 -7
+p50
+aVJim Jackson POR 04/29/1999 POR @ LAL L 23 14 5 11 45.5 3 6 50.0 1 3 33.3 0 0 0 1 1 0 2 0 -16
+p51
+aVJermaine O'Neal POR 04/29/1999 POR @ LAL L 7 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 4 -4
+p52
+aVWalt Williams POR 04/29/1999 POR @ LAL L 21 5 1 3 33.3 0 0 - 3 3 100.0 1 4 5 3 2 0 1 2 -11
+p53
+aVKelvin Cato POR 04/29/1999 POR @ LAL L 7 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 1 1 1 1 -2
+p54
+aVGreg Anthony POR 04/29/1999 POR @ LAL L 21 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 -5
+p55
+aVArvydas Sabonis POR 04/29/1999 POR @ LAL L 21 8 4 8 50.0 0 1 0.0 0 0 - 1 3 4 0 1 0 2 2 -3
+p56
+aVIsaiah Rider POR 04/29/1999 POR @ LAL L 28 15 4 16 25.0 1 3 33.3 6 7 85.7 1 3 4 2 1 0 3 1 -6
+p57
+aVIsaiah Rider POR 04/28/1999 POR vs. SEA W 24 14 5 10 50.0 4 7 57.1 0 0 - 0 1 1 3 0 0 0 1 8
+p58
+aVJermaine O'Neal POR 04/28/1999 POR vs. SEA W 16 4 2 4 50.0 0 0 - 0 4 0.0 1 5 6 0 0 0 1 1 9
+p59
+aVStacey Augmon POR 04/28/1999 POR vs. SEA W 17 11 4 6 66.7 0 0 - 3 3 100.0 3 4 7 2 3 0 0 3 22
+p60
+aVRasheed Wallace POR 04/28/1999 POR vs. SEA W 21 8 4 8 50.0 0 0 - 0 0 - 1 0 1 0 0 2 1 1 12
+p61
+aVWalt Williams POR 04/28/1999 POR vs. SEA W 31 20 6 11 54.5 2 5 40.0 6 6 100.0 0 4 4 3 1 0 0 2 13
+p62
+aVGreg Anthony POR 04/28/1999 POR vs. SEA W 14 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 1 1 1
+p63
+aVBrian Grant POR 04/28/1999 POR vs. SEA W 21 8 3 4 75.0 0 0 - 2 2 100.0 4 2 6 1 0 0 2 2 27
+p64
+aVDamon Stoudamire POR 04/28/1999 POR vs. SEA W 29 31 14 21 66.7 1 3 33.3 2 2 100.0 1 4 5 6 1 0 2 3 31
+p65
+aVKelvin Cato POR 04/28/1999 POR vs. SEA W 13 2 0 6 0.0 0 0 - 2 4 50.0 4 2 6 1 1 0 1 2 3
+p66
+aVArvydas Sabonis POR 04/28/1999 POR vs. SEA W 24 16 6 13 46.2 0 0 - 4 4 100.0 3 8 11 3 0 2 1 1 19
+p67
+aVJim Jackson POR 04/28/1999 POR vs. SEA W 24 5 2 6 33.3 0 1 0.0 1 1 100.0 2 1 3 2 1 0 1 1 27
+p68
+aVGary Grant POR 04/28/1999 POR vs. SEA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 1 0 0 0 3
+p69
+aVGreg Anthony POR 04/26/1999 POR vs. DEN W 21 5 1 5 20.0 1 4 25.0 2 4 50.0 0 1 1 4 0 0 1 2 5
+p70
+aVWalt Williams POR 04/26/1999 POR vs. DEN W 33 28 11 19 57.9 4 6 66.7 2 2 100.0 3 3 6 4 2 3 0 3 20
+p71
+aVKelvin Cato POR 04/26/1999 POR vs. DEN W 20 4 2 6 33.3 0 0 - 0 0 - 3 6 9 1 0 1 1 2 7
+p72
+aVJermaine O'Neal POR 04/26/1999 POR vs. DEN W 21 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 1 3 0 5 12
+p73
+aVBrian Grant POR 04/26/1999 POR vs. DEN W 27 6 2 8 25.0 0 0 - 2 2 100.0 3 4 7 2 1 0 1 1 5
+p74
+aVStacey Augmon POR 04/26/1999 POR vs. DEN W 32 8 4 7 57.1 0 0 - 0 0 - 4 2 6 2 1 1 1 1 7
+p75
+aVIsaiah Rider POR 04/26/1999 POR vs. DEN W 29 10 4 15 26.7 0 2 0.0 2 2 100.0 2 5 7 2 1 0 1 3 7
+p76
+aVDamon Stoudamire POR 04/26/1999 POR vs. DEN W 32 10 4 9 44.4 1 4 25.0 1 2 50.0 0 2 2 9 0 0 1 3 5
+p77
+aVArvydas Sabonis POR 04/26/1999 POR vs. DEN W 25 14 5 8 62.5 0 0 - 4 4 100.0 1 8 9 3 0 0 3 4 12
+p78
+aVGreg Anthony POR 04/25/1999 POR vs. MIN W 17 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 2 0 0 3 3 1
+p79
+aVKelvin Cato POR 04/25/1999 POR vs. MIN W 9 2 1 1 100.0 0 0 - 0 2 0.0 1 3 4 1 0 1 0 1 -3
+p80
+aVJim Jackson POR 04/25/1999 POR vs. MIN W 23 9 2 5 40.0 1 1 100.0 4 4 100.0 0 6 6 1 1 0 1 1 11
+p81
+aVIsaiah Rider POR 04/25/1999 POR vs. MIN W 29 22 6 14 42.9 2 2 100.0 8 8 100.0 1 2 3 0 1 0 3 3 5
+p82
+aVRasheed Wallace POR 04/25/1999 POR vs. MIN W 36 13 5 9 55.6 1 1 100.0 2 4 50.0 5 6 11 2 2 0 1 4 20
+p83
+aVBrian Grant POR 04/25/1999 POR vs. MIN W 41 24 7 13 53.8 0 0 - 10 11 90.9 4 7 11 1 0 0 3 2 19
+p84
+aVJermaine O'Neal POR 04/25/1999 POR vs. MIN W 13 4 1 3 33.3 0 0 - 2 2 100.0 3 0 3 1 0 0 1 1 9
+p85
+aVDamon Stoudamire POR 04/25/1999 POR vs. MIN W 36 9 4 12 33.3 0 1 0.0 1 2 50.0 1 2 3 5 0 0 3 0 15
+p86
+aVArvydas Sabonis POR 04/25/1999 POR vs. MIN W 17 8 4 5 80.0 0 0 - 0 1 0.0 1 4 5 2 2 0 5 4 -4
+p87
+aVStacey Augmon POR 04/25/1999 POR vs. MIN W 20 4 0 2 0.0 0 0 - 4 4 100.0 0 4 4 0 1 0 0 3 7
+p88
+aVDamon Stoudamire POR 04/23/1999 POR @ UTA L 27 8 3 7 42.9 1 3 33.3 1 1 100.0 0 1 1 6 0 0 3 2 -14
+p89
+aVGreg Anthony POR 04/23/1999 POR @ UTA L 21 9 2 7 28.6 1 4 25.0 4 4 100.0 2 2 4 2 1 1 1 3 3
+p90
+aVArvydas Sabonis POR 04/23/1999 POR @ UTA L 26 6 3 11 27.3 0 0 - 0 0 - 2 3 5 2 0 1 1 2 -14
+p91
+aVStacey Augmon POR 04/23/1999 POR @ UTA L 24 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -5
+p92
+aVJim Jackson POR 04/23/1999 POR @ UTA L 22 13 4 8 50.0 1 2 50.0 4 4 100.0 1 1 2 2 2 0 3 3 -6
+p93
+aVWalt Williams POR 04/23/1999 POR @ UTA L 19 10 1 5 20.0 0 2 0.0 8 8 100.0 0 1 1 0 1 0 0 2 2
+p94
+aVBrian Grant POR 04/23/1999 POR @ UTA L 30 10 2 4 50.0 0 0 - 6 8 75.0 1 5 6 1 3 1 3 5 -1
+p95
+aVKelvin Cato POR 04/23/1999 POR @ UTA L 13 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 0 0 2 6 3
+p96
+aVRasheed Wallace POR 04/23/1999 POR @ UTA L 27 8 4 9 44.4 0 2 0.0 0 0 - 3 2 5 0 0 2 2 4 -10
+p97
+aVIsaiah Rider POR 04/23/1999 POR @ UTA L 31 11 5 14 35.7 0 0 - 1 2 50.0 1 2 3 4 0 0 2 3 -13
+p98
+aVBrian Grant POR 04/21/1999 POR vs. LAL W 28 8 3 5 60.0 0 0 - 2 2 100.0 2 3 5 1 1 0 0 2 -3
+p99
+aVStacey Augmon POR 04/21/1999 POR vs. LAL W 21 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 3 2 1 1 4 10
+p100
+aVDamon Stoudamire POR 04/21/1999 POR vs. LAL W 34 15 5 12 41.7 2 3 66.7 3 4 75.0 2 1 3 6 1 0 1 2 8
+p101
+aVGreg Anthony POR 04/21/1999 POR vs. LAL W 14 6 3 7 42.9 0 3 0.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p102
+aVWalt Williams POR 04/21/1999 POR vs. LAL W 13 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 1 0
+p103
+aVJim Jackson POR 04/21/1999 POR vs. LAL W 31 10 4 12 33.3 2 4 50.0 0 0 - 4 2 6 5 1 0 2 3 -5
+p104
+aVJermaine O'Neal POR 04/21/1999 POR vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p105
+aVRasheed Wallace POR 04/21/1999 POR vs. LAL W 28 21 7 12 58.3 0 0 - 7 10 70.0 4 5 9 0 2 3 2 1 7
+p106
+aVKelvin Cato POR 04/21/1999 POR vs. LAL W 14 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 0 1 1 4 -1
+p107
+aVIsaiah Rider POR 04/21/1999 POR vs. LAL W 29 4 1 8 12.5 0 0 - 2 4 50.0 3 3 6 2 0 0 4 4 4
+p108
+aVArvydas Sabonis POR 04/21/1999 POR vs. LAL W 28 12 6 11 54.5 0 0 - 0 0 - 3 8 11 1 1 0 1 3 12
+p109
+aVDamon Stoudamire POR 04/17/1999 POR @ DAL W 28 6 3 10 30.0 0 1 0.0 0 0 - 0 1 1 5 2 0 2 0 0
+p110
+aVKelvin Cato POR 04/17/1999 POR @ DAL W 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 1 2 0 3 8
+p111
+aVRasheed Wallace POR 04/17/1999 POR @ DAL W 27 6 2 6 33.3 0 0 - 2 2 100.0 4 2 6 1 1 1 0 5 0
+p112
+aVJim Jackson POR 04/17/1999 POR @ DAL W 24 7 3 4 75.0 0 1 0.0 1 2 50.0 1 3 4 2 0 0 0 1 9
+p113
+aVWalt Williams POR 04/17/1999 POR @ DAL W 23 6 1 6 16.7 0 0 - 4 4 100.0 1 4 5 0 1 1 2 1 1
+p114
+aVGreg Anthony POR 04/17/1999 POR @ DAL W 20 23 6 9 66.7 4 6 66.7 7 8 87.5 1 1 2 1 1 0 3 1 8
+p115
+aVArvydas Sabonis POR 04/17/1999 POR @ DAL W 32 22 11 16 68.8 0 0 - 0 0 - 1 5 6 2 0 2 5 4 0
+p116
+aVIsaiah Rider POR 04/17/1999 POR @ DAL W 28 12 6 12 50.0 0 1 0.0 0 1 0.0 2 5 7 1 1 1 1 2 -2
+p117
+aVBrian Grant POR 04/17/1999 POR @ DAL W 41 14 6 11 54.5 0 0 - 2 2 100.0 4 5 9 4 1 3 0 3 16
+p118
+aVKelvin Cato POR 04/16/1999 POR @ SAS L 17 4 0 0 - 0 0 - 4 6 66.7 1 1 2 0 1 2 0 4 5
+p119
+aVBrian Grant POR 04/16/1999 POR @ SAS L 26 4 1 5 20.0 0 0 - 2 2 100.0 2 4 6 3 1 0 1 4 -9
+p120
+aVGreg Anthony POR 04/16/1999 POR @ SAS L 20 5 2 6 33.3 0 1 0.0 1 2 50.0 1 2 3 1 2 0 0 3 8
+p121
+aVIsaiah Rider POR 04/16/1999 POR @ SAS L 37 14 5 14 35.7 1 1 100.0 3 4 75.0 2 4 6 1 2 0 1 3 -4
+p122
+aVStacey Augmon POR 04/16/1999 POR @ SAS L 19 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -18
+p123
+aVRasheed Wallace POR 04/16/1999 POR @ SAS L 32 23 6 15 40.0 2 3 66.7 9 10 90.0 5 7 12 0 2 0 2 4 15
+p124
+aVJim Jackson POR 04/16/1999 POR @ SAS L 24 3 1 7 14.3 0 2 0.0 1 1 100.0 1 4 5 4 1 0 1 2 9
+p125
+aVWalt Williams POR 04/16/1999 POR @ SAS L 16 7 2 6 33.3 1 2 50.0 2 2 100.0 1 2 3 0 0 1 5 4 11
+p126
+aVDamon Stoudamire POR 04/16/1999 POR @ SAS L 28 8 3 7 42.9 1 1 100.0 1 2 50.0 1 3 4 2 0 0 2 2 -9
+p127
+aVArvydas Sabonis POR 04/16/1999 POR @ SAS L 21 10 3 9 33.3 0 0 - 4 6 66.7 1 4 5 2 0 0 1 2 -13
+p128
+aVIsaiah Rider POR 04/15/1999 POR @ HOU L 32 8 3 10 30.0 1 3 33.3 1 1 100.0 0 3 3 0 1 0 1 2 1
+p129
+aVGreg Anthony POR 04/15/1999 POR @ HOU L 13 0 0 5 0.0 0 3 0.0 0 0 - 1 1 2 1 2 0 0 0 -8
+p130
+aVJim Jackson POR 04/15/1999 POR @ HOU L 21 0 0 6 0.0 0 3 0.0 0 0 - 0 3 3 2 0 1 2 1 -11
+p131
+aVDamon Stoudamire POR 04/15/1999 POR @ HOU L 35 19 8 14 57.1 1 3 33.3 2 2 100.0 1 4 5 6 1 0 1 1 -2
+p132
+aVWalt Williams POR 04/15/1999 POR @ HOU L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 1 -10
+p133
+aVArvydas Sabonis POR 04/15/1999 POR @ HOU L 31 14 5 8 62.5 0 2 0.0 4 6 66.7 2 3 5 4 1 0 1 0 -3
+p134
+aVRasheed Wallace POR 04/15/1999 POR @ HOU L 23 11 4 7 57.1 0 0 - 3 4 75.0 0 3 3 0 0 0 1 5 -9
+p135
+aVStacey Augmon POR 04/15/1999 POR @ HOU L 31 12 6 11 54.5 0 0 - 0 0 - 2 0 2 1 3 1 2 3 0
+p136
+aVKelvin Cato POR 04/15/1999 POR @ HOU L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p137
+aVBrian Grant POR 04/15/1999 POR @ HOU L 37 12 3 7 42.9 0 0 - 6 6 100.0 2 14 16 0 0 0 5 3 -3
+p138
+aVJim Jackson POR 04/13/1999 POR vs. LAL W 29 12 4 8 50.0 0 1 0.0 4 4 100.0 0 3 3 2 2 0 2 1 9
+p139
+aVBonzi Wells POR 04/13/1999 POR vs. LAL W 4 8 3 5 60.0 0 1 0.0 2 4 50.0 0 0 0 1 0 0 0 0 2
+p140
+aVRasheed Wallace POR 04/13/1999 POR vs. LAL W 22 12 6 8 75.0 0 0 - 0 0 - 2 4 6 0 0 1 2 6 11
+p141
+aVBrian Grant POR 04/13/1999 POR vs. LAL W 34 13 6 10 60.0 0 0 - 1 2 50.0 2 6 8 1 0 0 2 5 17
+p142
+aVStacey Augmon POR 04/13/1999 POR vs. LAL W 27 5 0 3 0.0 0 0 - 5 8 62.5 2 1 3 0 0 1 0 2 12
+p143
+aVDamon Stoudamire POR 04/13/1999 POR vs. LAL W 29 16 7 12 58.3 2 2 100.0 0 0 - 0 6 6 6 0 0 3 0 14
+p144
+aVKelvin Cato POR 04/13/1999 POR vs. LAL W 16 10 3 3 100.0 0 0 - 4 4 100.0 1 2 3 1 2 6 2 6 13
+p145
+aVArvydas Sabonis POR 04/13/1999 POR vs. LAL W 14 4 1 5 20.0 0 0 - 2 2 100.0 1 5 6 0 1 1 1 5 10
+p146
+aVIsaiah Rider POR 04/13/1999 POR vs. LAL W 21 16 6 9 66.7 1 1 100.0 3 6 50.0 1 6 7 3 0 0 1 3 17
+p147
+aVCarlos Rogers POR 04/13/1999 POR vs. LAL W 5 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 2
+p148
+aVWalt Williams POR 04/13/1999 POR vs. LAL W 19 11 3 5 60.0 2 3 66.7 3 4 75.0 0 2 2 5 0 0 1 2 15
+p149
+aVGreg Anthony POR 04/13/1999 POR vs. LAL W 19 4 0 2 0.0 0 2 0.0 4 6 66.7 0 1 1 4 5 0 0 1 13
+p150
+aVDamon Stoudamire POR 04/11/1999 POR vs. LAC L 32 10 5 15 33.3 0 3 0.0 0 0 - 1 3 4 4 0 0 1 4 -9
+p151
+aVJim Jackson POR 04/11/1999 POR vs. LAC L 19 6 3 6 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 0 1
+p152
+aVKelvin Cato POR 04/11/1999 POR vs. LAC L 33 4 2 6 33.3 0 0 - 0 0 - 5 6 11 0 0 3 1 4 -3
+p153
+aVWalt Williams POR 04/11/1999 POR vs. LAC L 24 6 2 5 40.0 2 3 66.7 0 0 - 1 2 3 0 1 0 2 5 -6
+p154
+aVGreg Anthony POR 04/11/1999 POR vs. LAC L 19 9 3 9 33.3 0 3 0.0 3 4 75.0 0 2 2 2 2 0 1 2 -5
+p155
+aVStacey Augmon POR 04/11/1999 POR vs. LAC L 19 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 1 0 1 0 0 3
+p156
+aVArvydas Sabonis POR 04/11/1999 POR vs. LAC L 20 10 4 7 57.1 0 0 - 2 2 100.0 2 3 5 2 0 3 5 6 -3
+p157
+aVRasheed Wallace POR 04/11/1999 POR vs. LAC L 41 16 4 13 30.8 0 1 0.0 8 8 100.0 1 3 4 4 0 2 2 5 -2
+p158
+aVIsaiah Rider POR 04/11/1999 POR vs. LAC L 33 17 6 12 50.0 0 1 0.0 5 5 100.0 1 4 5 2 0 0 2 2 -6
+p159
+aVBrian Shaw POR 04/10/1999 POR @ LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -3
+p160
+aVStacey Augmon POR 04/10/1999 POR @ LAC W 25 5 1 2 50.0 0 0 - 3 6 50.0 0 1 1 1 5 0 2 0 -5
+p161
+aVIsaiah Rider POR 04/10/1999 POR @ LAC W 23 9 2 7 28.6 1 4 25.0 4 4 100.0 0 3 3 0 1 0 3 2 6
+p162
+aVJim Jackson POR 04/10/1999 POR @ LAC W 21 9 4 8 50.0 0 2 0.0 1 2 50.0 1 4 5 2 1 0 0 0 22
+p163
+aVWalt Williams POR 04/10/1999 POR @ LAC W 25 17 6 10 60.0 3 6 50.0 2 2 100.0 1 4 5 4 4 0 0 1 34
+p164
+aVRasheed Wallace POR 04/10/1999 POR @ LAC W 31 19 8 14 57.1 0 0 - 3 4 75.0 0 3 3 4 2 3 3 4 36
+p165
+aVArvydas Sabonis POR 04/10/1999 POR @ LAC W 16 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 1 1 2 2 3 4
+p166
+aVGreg Anthony POR 04/10/1999 POR @ LAC W 17 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 1 3 0 1 0 19
+p167
+aVBrian Grant POR 04/10/1999 POR @ LAC W 22 3 1 3 33.3 0 0 - 1 1 100.0 0 5 5 0 0 0 0 1 2
+p168
+aVDamon Stoudamire POR 04/10/1999 POR @ LAC W 30 11 4 11 36.4 1 3 33.3 2 2 100.0 2 2 4 5 1 0 0 2 10
+p169
+aVBonzi Wells POR 04/10/1999 POR @ LAC W 7 4 2 5 40.0 0 0 - 0 0 - 3 1 4 0 1 0 3 0 -1
+p170
+aVKelvin Cato POR 04/10/1999 POR @ LAC W 19 10 4 8 50.0 0 0 - 2 4 50.0 1 2 3 0 1 4 1 6 11
+p171
+aVDamon Stoudamire POR 04/08/1999 POR @ SEA L 30 10 3 10 30.0 0 1 0.0 4 6 66.7 3 4 7 5 0 1 3 3 -3
+p172
+aVStacey Augmon POR 04/08/1999 POR @ SEA L 13 5 2 5 40.0 0 1 0.0 1 2 50.0 1 1 2 2 1 0 0 1 -2
+p173
+aVRasheed Wallace POR 04/08/1999 POR @ SEA L 40 14 6 12 50.0 0 1 0.0 2 2 100.0 1 4 5 1 1 3 1 4 -7
+p174
+aVArvydas Sabonis POR 04/08/1999 POR @ SEA L 18 11 5 7 71.4 1 1 100.0 0 0 - 1 2 3 1 0 0 2 5 -10
+p175
+aVBrian Grant POR 04/08/1999 POR @ SEA L 42 12 2 7 28.6 0 0 - 8 10 80.0 5 9 14 3 0 1 0 2 -1
+p176
+aVWalt Williams POR 04/08/1999 POR @ SEA L 18 5 1 5 20.0 1 3 33.3 2 2 100.0 1 1 2 2 0 0 0 1 9
+p177
+aVJim Jackson POR 04/08/1999 POR @ SEA L 25 12 4 8 50.0 0 1 0.0 4 4 100.0 0 3 3 0 1 0 1 2 4
+p178
+aVGreg Anthony POR 04/08/1999 POR @ SEA L 19 11 4 8 50.0 3 5 60.0 0 0 - 0 0 0 0 1 1 3 0 5
+p179
+aVIsaiah Rider POR 04/08/1999 POR @ SEA L 23 4 2 12 16.7 0 4 0.0 0 0 - 2 1 3 0 0 0 3 0 -5
+p180
+aVKelvin Cato POR 04/08/1999 POR @ SEA L 11 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 0 0 0 1 5
+p181
+aVGreg Anthony POR 04/06/1999 POR vs. VAN W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 1 1 0 1 3 11
+p182
+aVRasheed Wallace POR 04/06/1999 POR vs. VAN W 38 15 6 9 66.7 0 1 0.0 3 7 42.9 3 3 6 0 1 4 2 3 5
+p183
+aVDamon Stoudamire POR 04/06/1999 POR vs. VAN W 35 13 2 8 25.0 0 1 0.0 9 10 90.0 0 3 3 8 2 0 3 0 -4
+p184
+aVStacey Augmon POR 04/06/1999 POR vs. VAN W 23 4 2 7 28.6 0 0 - 0 0 - 3 1 4 1 2 0 2 2 -5
+p185
+aVArvydas Sabonis POR 04/06/1999 POR vs. VAN W 34 12 5 10 50.0 0 0 - 2 4 50.0 1 7 8 4 0 3 3 3 4
+p186
+aVKelvin Cato POR 04/06/1999 POR vs. VAN W 22 14 7 9 77.8 0 0 - 0 4 0.0 3 2 5 1 3 2 1 4 12
+p187
+aVJim Jackson POR 04/06/1999 POR vs. VAN W 16 7 2 4 50.0 0 1 0.0 3 4 75.0 0 3 3 5 0 0 1 3 9
+p188
+aVWalt Williams POR 04/06/1999 POR vs. VAN W 23 15 5 7 71.4 2 2 100.0 3 5 60.0 1 3 4 1 0 1 0 2 14
+p189
+aVIsaiah Rider POR 04/06/1999 POR vs. VAN W 30 15 5 11 45.5 2 3 66.7 3 4 75.0 0 0 0 2 0 0 0 1 -1
+p190
+aVRasheed Wallace POR 04/03/1999 POR vs. PHX W 35 20 7 13 53.8 0 0 - 6 6 100.0 3 2 5 0 3 0 4 6 -4
+p191
+aVBrian Grant POR 04/03/1999 POR vs. PHX W 24 5 1 3 33.3 0 0 - 3 4 75.0 1 3 4 0 0 0 1 0 3
+p192
+aVIsaiah Rider POR 04/03/1999 POR vs. PHX W 24 10 4 11 36.4 0 0 - 2 2 100.0 1 3 4 3 2 0 3 3 -9
+p193
+aVJim Jackson POR 04/03/1999 POR vs. PHX W 13 3 0 2 0.0 0 1 0.0 3 4 75.0 1 0 1 1 0 0 1 0 0
+p194
+aVKelvin Cato POR 04/03/1999 POR vs. PHX W 21 6 2 2 100.0 0 0 - 2 2 100.0 1 8 9 0 1 2 3 2 2
+p195
+aVJermaine O'Neal POR 04/03/1999 POR vs. PHX W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -7
+p196
+aVWalt Williams POR 04/03/1999 POR vs. PHX W 23 13 3 10 30.0 1 3 33.3 6 6 100.0 2 4 6 2 0 0 1 1 15
+p197
+aVArvydas Sabonis POR 04/03/1999 POR vs. PHX W 23 10 4 11 36.4 0 0 - 2 2 100.0 1 7 8 2 1 1 2 5 5
+p198
+aVGreg Anthony POR 04/03/1999 POR vs. PHX W 23 17 7 10 70.0 3 5 60.0 0 1 0.0 0 2 2 2 2 0 0 1 12
+p199
+aVStacey Augmon POR 04/03/1999 POR vs. PHX W 23 6 2 7 28.6 0 0 - 2 4 50.0 1 1 2 3 1 0 1 4 15
+p200
+aVDamon Stoudamire POR 04/03/1999 POR vs. PHX W 25 8 4 9 44.4 0 2 0.0 0 0 - 1 1 2 3 0 0 1 0 -7
+p201
+aVIsaiah Rider POR 04/02/1999 POR vs. SEA W 32 23 8 17 47.1 1 2 50.0 6 6 100.0 2 0 2 5 0 0 4 2 -1
+p202
+aVGreg Anthony POR 04/02/1999 POR vs. SEA W 18 6 2 8 25.0 0 4 0.0 2 4 50.0 0 1 1 3 2 0 1 4 16
+p203
+aVJermaine O'Neal POR 04/02/1999 POR vs. SEA W 12 0 0 2 0.0 0 0 - 0 0 - 3 3 6 2 0 2 0 0 -4
+p204
+aVRasheed Wallace POR 04/02/1999 POR vs. SEA W 30 16 6 9 66.7 0 1 0.0 4 5 80.0 0 5 5 1 1 0 0 4 10
+p205
+aVArvydas Sabonis POR 04/02/1999 POR vs. SEA W 34 14 5 10 50.0 0 0 - 4 4 100.0 3 9 12 7 1 1 0 3 2
+p206
+aVWalt Williams POR 04/02/1999 POR vs. SEA W 16 10 2 5 40.0 2 4 50.0 4 6 66.7 1 0 1 3 2 0 4 1 16
+p207
+aVJim Jackson POR 04/02/1999 POR vs. SEA W 16 6 2 4 50.0 0 0 - 2 3 66.7 2 3 5 2 2 0 2 1 13
+p208
+aVStacey Augmon POR 04/02/1999 POR vs. SEA W 16 10 5 5 100.0 0 0 - 0 1 0.0 0 1 1 1 1 0 0 2 7
+p209
+aVDamon Stoudamire POR 04/02/1999 POR vs. SEA W 30 12 5 15 33.3 2 5 40.0 0 1 0.0 0 2 2 5 1 0 2 3 -4
+p210
+aVBrian Grant POR 04/02/1999 POR vs. SEA W 35 10 5 6 83.3 0 0 - 0 0 - 3 7 10 1 0 0 0 4 5
+p211
+aVJermaine O'Neal POR 03/31/1999 POR vs. SAC W 17 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 1 0 1 0 1 -1
+p212
+aVWalt Williams POR 03/31/1999 POR vs. SAC W 24 12 5 8 62.5 1 2 50.0 1 1 100.0 0 5 5 3 1 0 0 1 4
+p213
+aVStacey Augmon POR 03/31/1999 POR vs. SAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 7
+p214
+aVBrian Grant POR 03/31/1999 POR vs. SAC W 26 16 6 8 75.0 0 0 - 4 4 100.0 3 6 9 2 0 1 0 2 -1
+p215
+aVArvydas Sabonis POR 03/31/1999 POR vs. SAC W 28 7 2 10 20.0 0 0 - 3 3 100.0 1 5 6 2 2 2 0 5 4
+p216
+aVGreg Anthony POR 03/31/1999 POR vs. SAC W 19 16 7 10 70.0 2 3 66.7 0 0 - 0 0 0 5 2 0 1 1 10
+p217
+aVRasheed Wallace POR 03/31/1999 POR vs. SAC W 28 13 4 13 30.8 1 1 100.0 4 4 100.0 0 3 3 4 1 0 0 2 27
+p218
+aVDamon Stoudamire POR 03/31/1999 POR vs. SAC W 38 21 10 20 50.0 1 4 25.0 0 0 - 2 2 4 5 3 0 1 1 2
+p219
+aVJim Jackson POR 03/31/1999 POR vs. SAC W 33 7 3 11 27.3 1 4 25.0 0 0 - 0 3 3 3 1 0 3 2 8
+p220
+aVKelvin Cato POR 03/31/1999 POR vs. SAC W 15 5 2 4 50.0 0 0 - 1 4 25.0 2 2 4 1 1 2 1 0 14
+p221
+aVBonzi Wells POR 03/31/1999 POR vs. SAC W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p222
+aVWalt Williams POR 03/30/1999 POR @ GSW L 20 12 5 10 50.0 1 4 25.0 1 1 100.0 1 1 2 1 0 1 0 0 10
+p223
+aVArvydas Sabonis POR 03/30/1999 POR @ GSW L 35 21 5 15 33.3 0 2 0.0 11 14 78.6 5 7 12 4 1 3 1 1 -9
+p224
+aVRasheed Wallace POR 03/30/1999 POR @ GSW L 29 13 4 9 44.4 2 4 50.0 3 4 75.0 1 4 5 5 1 0 2 1 -4
+p225
+aVBrian Grant POR 03/30/1999 POR @ GSW L 33 14 6 11 54.5 0 0 - 2 2 100.0 0 5 5 2 0 1 0 3 2
+p226
+aVJim Jackson POR 03/30/1999 POR @ GSW L 24 7 3 11 27.3 0 2 0.0 1 1 100.0 0 1 1 3 0 1 0 0 -4
+p227
+aVDamon Stoudamire POR 03/30/1999 POR @ GSW L 32 3 1 6 16.7 0 0 - 1 2 50.0 1 1 2 5 1 0 2 3 -8
+p228
+aVGreg Anthony POR 03/30/1999 POR @ GSW L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 4 2 0 2 3 3
+p229
+aVStacey Augmon POR 03/30/1999 POR @ GSW L 18 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 1 2 3 1 1 -3
+p230
+aVJermaine O'Neal POR 03/30/1999 POR @ GSW L 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p231
+aVIsaiah Rider POR 03/30/1999 POR @ GSW L 29 8 3 7 42.9 0 0 - 2 3 66.7 0 4 4 3 0 0 1 1 -7
+p232
+aVGreg Anthony POR 03/28/1999 POR @ PHX W 11 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 2 0 -1
+p233
+aVIsaiah Rider POR 03/28/1999 POR @ PHX W 23 18 6 14 42.9 4 7 57.1 2 2 100.0 1 1 2 1 0 0 0 2 -17
+p234
+aVJim Jackson POR 03/28/1999 POR @ PHX W 28 10 4 9 44.4 1 2 50.0 1 2 50.0 0 3 3 2 0 0 3 2 11
+p235
+aVDamon Stoudamire POR 03/28/1999 POR @ PHX W 37 18 7 12 58.3 2 4 50.0 2 2 100.0 0 6 6 9 1 0 5 0 6
+p236
+aVRasheed Wallace POR 03/28/1999 POR @ PHX W 32 4 1 3 33.3 0 1 0.0 2 4 50.0 1 2 3 3 1 0 2 4 7
+p237
+aVBrian Grant POR 03/28/1999 POR @ PHX W 42 8 3 8 37.5 0 0 - 2 4 50.0 6 8 14 3 0 0 1 3 -8
+p238
+aVArvydas Sabonis POR 03/28/1999 POR @ PHX W 31 18 7 12 58.3 0 1 0.0 4 4 100.0 2 11 13 4 1 0 2 3 17
+p239
+aVStacey Augmon POR 03/28/1999 POR @ PHX W 21 5 2 4 50.0 0 0 - 1 1 100.0 1 0 1 1 0 0 2 1 -5
+p240
+aVJermaine O'Neal POR 03/28/1999 POR @ PHX W 7 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 7
+p241
+aVWalt Williams POR 03/28/1999 POR @ PHX W 8 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p242
+aVRasheed Wallace POR 03/25/1999 POR vs. PHX W 41 15 5 9 55.6 3 3 100.0 2 4 50.0 1 12 13 1 1 1 2 1 9
+p243
+aVStacey Augmon POR 03/25/1999 POR vs. PHX W 16 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 2 0 0 0 3
+p244
+aVWalt Williams POR 03/25/1999 POR vs. PHX W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p245
+aVGreg Anthony POR 03/25/1999 POR vs. PHX W 15 8 3 6 50.0 2 3 66.7 0 0 - 1 1 2 1 0 0 4 1 5
+p246
+aVBrian Grant POR 03/25/1999 POR vs. PHX W 43 22 7 12 58.3 0 0 - 8 11 72.7 7 7 14 1 1 0 4 5 17
+p247
+aVJim Jackson POR 03/25/1999 POR vs. PHX W 21 7 1 7 14.3 0 3 0.0 5 5 100.0 2 2 4 3 2 0 1 4 9
+p248
+aVArvydas Sabonis POR 03/25/1999 POR vs. PHX W 24 8 3 10 30.0 0 1 0.0 2 2 100.0 1 3 4 2 3 1 2 3 9
+p249
+aVDamon Stoudamire POR 03/25/1999 POR vs. PHX W 33 19 8 15 53.3 1 2 50.0 2 2 100.0 1 5 6 8 0 0 2 1 8
+p250
+aVJermaine O'Neal POR 03/25/1999 POR vs. PHX W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 -5
+p251
+aVIsaiah Rider POR 03/25/1999 POR vs. PHX W 31 8 3 15 20.0 1 3 33.3 1 2 50.0 1 5 6 4 0 0 2 2 7
+p252
+aVBrian Grant POR 03/23/1999 POR vs. GSW W 38 13 5 9 55.6 0 0 - 3 4 75.0 7 5 12 1 0 2 2 3 8
+p253
+aVJim Jackson POR 03/23/1999 POR vs. GSW W 18 7 3 7 42.9 0 0 - 1 2 50.0 1 2 3 1 0 0 1 0 -1
+p254
+aVDamon Stoudamire POR 03/23/1999 POR vs. GSW W 36 12 4 14 28.6 1 3 33.3 3 3 100.0 2 2 4 7 0 0 3 3 2
+p255
+aVJermaine O'Neal POR 03/23/1999 POR vs. GSW W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 4
+p256
+aVWalt Williams POR 03/23/1999 POR vs. GSW W 15 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 3 0 1 3 2 4
+p257
+aVGreg Anthony POR 03/23/1999 POR vs. GSW W 12 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 1 5
+p258
+aVIsaiah Rider POR 03/23/1999 POR vs. GSW W 33 15 5 11 45.5 1 1 100.0 4 4 100.0 1 4 5 1 0 0 4 0 5
+p259
+aVStacey Augmon POR 03/23/1999 POR vs. GSW W 28 6 1 3 33.3 0 0 - 4 6 66.7 1 5 6 3 2 1 0 5 4
+p260
+aVRasheed Wallace POR 03/23/1999 POR vs. GSW W 21 5 1 6 16.7 0 1 0.0 3 4 75.0 2 4 6 0 1 1 1 0 5
+p261
+aVArvydas Sabonis POR 03/23/1999 POR vs. GSW W 33 14 5 14 35.7 0 1 0.0 4 5 80.0 2 9 11 2 3 1 2 2 -1
+p262
+aVDamon Stoudamire POR 03/21/1999 POR vs. PHI W 24 4 2 10 20.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 3 -4
+p263
+aVJermaine O'Neal POR 03/21/1999 POR vs. PHI W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p264
+aVWalt Williams POR 03/21/1999 POR vs. PHI W 20 11 4 10 40.0 1 5 20.0 2 3 66.7 0 4 4 0 2 0 1 2 11
+p265
+aVKelvin Cato POR 03/21/1999 POR vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p266
+aVBrian Grant POR 03/21/1999 POR vs. PHI W 27 6 3 4 75.0 0 0 - 0 0 - 4 4 8 1 1 0 2 0 23
+p267
+aVRasheed Wallace POR 03/21/1999 POR vs. PHI W 37 26 9 15 60.0 0 0 - 8 9 88.9 0 7 7 1 1 0 1 3 17
+p268
+aVStacey Augmon POR 03/21/1999 POR vs. PHI W 28 10 4 5 80.0 0 0 - 2 4 50.0 2 5 7 1 3 3 0 0 4
+p269
+aVGreg Anthony POR 03/21/1999 POR vs. PHI W 24 13 5 9 55.6 0 1 0.0 3 5 60.0 1 1 2 2 4 0 1 4 20
+p270
+aVIsaiah Rider POR 03/21/1999 POR vs. PHI W 24 6 3 11 27.3 0 2 0.0 0 0 - 0 2 2 2 1 0 4 0 -5
+p271
+aVArvydas Sabonis POR 03/21/1999 POR vs. PHI W 24 6 2 4 50.0 0 0 - 2 2 100.0 1 9 10 2 0 1 4 2 -5
+p272
+aVBonzi Wells POR 03/21/1999 POR vs. PHI W 2 1 0 0 - 0 0 - 1 4 25.0 0 0 0 0 0 0 0 0 -2
+p273
+aVJim Jackson POR 03/21/1999 POR vs. PHI W 24 8 3 6 50.0 0 1 0.0 2 2 100.0 1 2 3 7 0 0 1 3 22
+p274
+aVArvydas Sabonis POR 03/19/1999 POR vs. SAS W 40 28 11 17 64.7 1 2 50.0 5 6 83.3 1 10 11 2 2 2 2 3 15
+p275
+aVBrian Grant POR 03/19/1999 POR vs. SAS W 30 8 4 9 44.4 0 0 - 0 2 0.0 6 6 12 2 1 0 4 5 -6
+p276
+aVStacey Augmon POR 03/19/1999 POR vs. SAS W 26 8 3 8 37.5 0 0 - 2 3 66.7 1 0 1 3 1 0 0 4 2
+p277
+aVRasheed Wallace POR 03/19/1999 POR vs. SAS W 17 4 1 3 33.3 0 0 - 2 2 100.0 0 5 5 0 0 0 1 5 8
+p278
+aVJermaine O'Neal POR 03/19/1999 POR vs. SAS W 9 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -7
+p279
+aVJim Jackson POR 03/19/1999 POR vs. SAS W 42 12 5 12 41.7 0 1 0.0 2 3 66.7 1 5 6 1 1 0 1 3 0
+p280
+aVWalt Williams POR 03/19/1999 POR vs. SAS W 25 12 4 12 33.3 1 5 20.0 3 3 100.0 1 2 3 2 0 0 0 2 9
+p281
+aVGreg Anthony POR 03/19/1999 POR vs. SAS W 15 3 1 5 20.0 0 1 0.0 1 2 50.0 0 0 0 5 1 0 0 1 11
+p282
+aVDamon Stoudamire POR 03/19/1999 POR vs. SAS W 37 13 3 8 37.5 1 2 50.0 6 6 100.0 0 0 0 4 1 0 3 2 -7
+p283
+aVJim Jackson POR 03/18/1999 POR @ SAC W 22 8 4 12 33.3 0 1 0.0 0 0 - 0 3 3 3 1 0 2 1 4
+p284
+aVJermaine O'Neal POR 03/18/1999 POR @ SAC W 15 6 3 5 60.0 0 0 - 0 0 - 4 1 5 0 0 0 1 3 -8
+p285
+aVRasheed Wallace POR 03/18/1999 POR @ SAC W 40 25 10 17 58.8 0 1 0.0 5 7 71.4 1 12 13 2 3 6 2 3 14
+p286
+aVBrian Grant POR 03/18/1999 POR @ SAC W 39 13 5 13 38.5 0 0 - 3 4 75.0 4 8 12 1 0 1 3 1 12
+p287
+aVIsaiah Rider POR 03/18/1999 POR @ SAC W 26 14 6 15 40.0 0 1 0.0 2 3 66.7 1 4 5 3 0 1 1 4 6
+p288
+aVGreg Anthony POR 03/18/1999 POR @ SAC W 13 4 1 4 25.0 0 1 0.0 2 3 66.7 0 2 2 0 3 0 1 1 -5
+p289
+aVKelvin Cato POR 03/18/1999 POR @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p290
+aVDamon Stoudamire POR 03/18/1999 POR @ SAC W 35 6 3 11 27.3 0 3 0.0 0 0 - 1 4 5 11 4 0 0 0 15
+p291
+aVStacey Augmon POR 03/18/1999 POR @ SAC W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 7
+p292
+aVArvydas Sabonis POR 03/18/1999 POR @ SAC W 32 10 5 10 50.0 0 0 - 0 0 - 1 5 6 1 0 2 2 1 16
+p293
+aVWalt Williams POR 03/18/1999 POR @ SAC W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -8
+p294
+aVIsaiah Rider POR 03/16/1999 POR @ HOU L 30 7 3 11 27.3 1 6 16.7 0 2 0.0 1 2 3 3 2 1 2 2 -11
+p295
+aVDamon Stoudamire POR 03/16/1999 POR @ HOU L 37 17 6 18 33.3 1 6 16.7 4 5 80.0 2 1 3 5 1 0 5 3 -10
+p296
+aVBrian Grant POR 03/16/1999 POR @ HOU L 23 13 1 4 25.0 0 0 - 11 12 91.7 5 4 9 1 0 0 2 5 11
+p297
+aVWalt Williams POR 03/16/1999 POR @ HOU L 21 15 4 5 80.0 1 1 100.0 6 7 85.7 1 2 3 1 1 0 0 3 4
+p298
+aVRasheed Wallace POR 03/16/1999 POR @ HOU L 20 13 5 6 83.3 0 0 - 3 7 42.9 0 4 4 0 0 1 3 5 5
+p299
+aVJermaine O'Neal POR 03/16/1999 POR @ HOU L 13 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 1 1 5 -18
+p300
+aVKelvin Cato POR 03/16/1999 POR @ HOU L 11 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 0 2 0 2 -4
+p301
+aVArvydas Sabonis POR 03/16/1999 POR @ HOU L 22 2 1 6 16.7 0 0 - 0 0 - 1 8 9 2 0 4 1 2 -10
+p302
+aVJim Jackson POR 03/16/1999 POR @ HOU L 21 5 1 8 12.5 1 3 33.3 2 2 100.0 1 3 4 2 0 0 0 2 -5
+p303
+aVStacey Augmon POR 03/16/1999 POR @ HOU L 22 7 2 5 40.0 0 0 - 3 4 75.0 2 1 3 4 0 0 2 1 -10
+p304
+aVGreg Anthony POR 03/16/1999 POR @ HOU L 19 5 0 3 0.0 0 3 0.0 5 6 83.3 2 1 3 2 2 0 2 2 8
+p305
+aVBonzi Wells POR 03/15/1999 POR @ DAL W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p306
+aVDamon Stoudamire POR 03/15/1999 POR @ DAL W 37 18 6 12 50.0 2 4 50.0 4 5 80.0 1 3 4 6 2 1 0 1 13
+p307
+aVStacey Augmon POR 03/15/1999 POR @ DAL W 15 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 2 1 0 3 4
+p308
+aVRasheed Wallace POR 03/15/1999 POR @ DAL W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -3
+p309
+aVKelvin Cato POR 03/15/1999 POR @ DAL W 11 1 0 4 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 2 -8
+p310
+aVBrian Grant POR 03/15/1999 POR @ DAL W 34 10 4 8 50.0 0 0 - 2 2 100.0 2 7 9 0 1 1 1 2 11
+p311
+aVWalt Williams POR 03/15/1999 POR @ DAL W 17 9 4 10 40.0 1 2 50.0 0 1 0.0 2 0 2 2 0 2 0 1 7
+p312
+aVJermaine O'Neal POR 03/15/1999 POR @ DAL W 12 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 0 0 1 1 1 3
+p313
+aVIsaiah Rider POR 03/15/1999 POR @ DAL W 35 30 12 22 54.5 3 5 60.0 3 4 75.0 1 3 4 4 0 0 3 1 22
+p314
+aVArvydas Sabonis POR 03/15/1999 POR @ DAL W 37 15 5 13 38.5 1 1 100.0 4 4 100.0 6 10 16 1 2 1 1 2 25
+p315
+aVGreg Anthony POR 03/15/1999 POR @ DAL W 11 4 1 3 33.3 1 3 33.3 1 2 50.0 0 0 0 2 0 0 3 1 2
+p316
+aVJim Jackson POR 03/15/1999 POR @ DAL W 23 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 2 0 0 1 2 3
+p317
+aVJermaine O'Neal POR 03/13/1999 POR @ LAC W 5 0 0 3 0.0 0 0 - 0 0 - 3 4 7 0 0 1 1 0 -8
+p318
+aVIsaiah Rider POR 03/13/1999 POR @ LAC W 17 3 1 8 12.5 0 2 0.0 1 2 50.0 1 2 3 2 0 0 2 2 -20
+p319
+aVGreg Anthony POR 03/13/1999 POR @ LAC W 22 14 4 5 80.0 2 3 66.7 4 6 66.7 0 0 0 2 2 0 1 3 10
+p320
+aVDamon Stoudamire POR 03/13/1999 POR @ LAC W 31 9 3 6 50.0 0 1 0.0 3 6 50.0 1 2 3 2 0 0 5 2 -1
+p321
+aVWalt Williams POR 03/13/1999 POR @ LAC W 16 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 0 -16
+p322
+aVStacey Augmon POR 03/13/1999 POR @ LAC W 34 10 1 2 50.0 0 0 - 8 10 80.0 1 5 6 3 2 0 1 5 22
+p323
+aVJim Jackson POR 03/13/1999 POR @ LAC W 36 21 7 12 58.3 1 1 100.0 6 6 100.0 1 2 3 2 1 0 0 0 28
+p324
+aVBrian Grant POR 03/13/1999 POR @ LAC W 38 25 6 12 50.0 0 0 - 13 13 100.0 6 8 14 1 1 2 2 2 18
+p325
+aVKelvin Cato POR 03/13/1999 POR @ LAC W 9 4 1 2 50.0 0 0 - 2 4 50.0 0 1 1 0 0 2 0 1 -8
+p326
+aVRasheed Wallace POR 03/13/1999 POR @ LAC W 26 14 6 12 50.0 0 0 - 2 3 66.7 0 1 1 0 0 0 3 0 19
+p327
+aVArvydas Sabonis POR 03/13/1999 POR @ LAC W 29 6 3 10 30.0 0 1 0.0 0 0 - 0 10 10 1 0 2 0 1 6
+p328
+aVIsaiah Rider POR 03/12/1999 POR vs. UTA L 37 18 8 16 50.0 1 2 50.0 1 3 33.3 0 5 5 5 1 1 3 1 -5
+p329
+aVStacey Augmon POR 03/12/1999 POR vs. UTA L 17 4 2 4 50.0 0 0 - 0 0 - 2 1 3 2 3 0 0 1 -1
+p330
+aVWalt Williams POR 03/12/1999 POR vs. UTA L 19 3 1 5 20.0 0 1 0.0 1 2 50.0 0 1 1 2 0 0 2 0 -7
+p331
+aVBrian Grant POR 03/12/1999 POR vs. UTA L 32 8 3 4 75.0 0 0 - 2 3 66.7 2 3 5 0 0 0 5 3 -10
+p332
+aVKelvin Cato POR 03/12/1999 POR vs. UTA L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 2 -2
+p333
+aVJermaine O'Neal POR 03/12/1999 POR vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 5
+p334
+aVGreg Anthony POR 03/12/1999 POR vs. UTA L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -14
+p335
+aVRasheed Wallace POR 03/12/1999 POR vs. UTA L 23 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 1 2 2 2 -14
+p336
+aVDamon Stoudamire POR 03/12/1999 POR vs. UTA L 40 20 9 17 52.9 2 4 50.0 0 0 - 2 3 5 8 1 0 3 1 0
+p337
+aVArvydas Sabonis POR 03/12/1999 POR vs. UTA L 29 16 6 9 66.7 0 0 - 4 4 100.0 2 6 8 1 1 2 5 2 -9
+p338
+aVJim Jackson POR 03/12/1999 POR vs. UTA L 18 2 1 3 33.3 0 0 - 0 1 0.0 0 2 2 0 3 0 1 1 -13
+p339
+aVKelvin Cato POR 03/09/1999 POR vs. SAC W 13 4 1 4 25.0 0 0 - 2 2 100.0 3 2 5 0 0 1 0 3 -5
+p340
+aVStacey Augmon POR 03/09/1999 POR vs. SAC W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 6
+p341
+aVJermaine O'Neal POR 03/09/1999 POR vs. SAC W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p342
+aVWalt Williams POR 03/09/1999 POR vs. SAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 1 0 -5
+p343
+aVRasheed Wallace POR 03/09/1999 POR vs. SAC W 38 13 6 12 50.0 0 2 0.0 1 2 50.0 1 7 8 1 3 2 3 3 10
+p344
+aVArvydas Sabonis POR 03/09/1999 POR vs. SAC W 29 19 8 11 72.7 1 1 100.0 2 4 50.0 0 5 5 5 1 3 0 4 20
+p345
+aVGreg Anthony POR 03/09/1999 POR vs. SAC W 14 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 1 0 1 0 -5
+p346
+aVIsaiah Rider POR 03/09/1999 POR vs. SAC W 37 21 9 20 45.0 0 4 0.0 3 4 75.0 0 6 6 6 0 0 0 3 2
+p347
+aVJim Jackson POR 03/09/1999 POR vs. SAC W 22 6 3 5 60.0 0 2 0.0 0 0 - 0 4 4 2 0 0 2 1 -9
+p348
+aVBrian Grant POR 03/09/1999 POR vs. SAC W 31 19 6 14 42.9 0 0 - 7 8 87.5 5 6 11 2 0 0 1 4 4
+p349
+aVDamon Stoudamire POR 03/09/1999 POR vs. SAC W 34 14 5 13 38.5 3 5 60.0 1 2 50.0 0 1 1 7 1 0 1 1 10
+p350
+aVGreg Anthony POR 03/08/1999 POR @ VAN W 9 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 0 1 0 0 0 5
+p351
+aVJim Jackson POR 03/08/1999 POR @ VAN W 30 21 7 15 46.7 0 1 0.0 7 7 100.0 3 4 7 5 1 0 3 2 5
+p352
+aVWalt Williams POR 03/08/1999 POR @ VAN W 29 11 3 13 23.1 2 8 25.0 3 4 75.0 0 2 2 2 4 1 2 2 7
+p353
+aVIsaiah Rider POR 03/08/1999 POR @ VAN W 18 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 2 1 0 0 4 14
+p354
+aVBrian Grant POR 03/08/1999 POR @ VAN W 23 14 5 5 100.0 0 0 - 4 4 100.0 5 4 9 2 1 0 3 4 14
+p355
+aVDamon Stoudamire POR 03/08/1999 POR @ VAN W 32 10 4 10 40.0 2 3 66.7 0 0 - 1 5 6 8 2 0 4 1 14
+p356
+aVJohn Crotty POR 03/08/1999 POR @ VAN W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p357
+aVArvydas Sabonis POR 03/08/1999 POR @ VAN W 25 10 2 7 28.6 0 0 - 6 6 100.0 0 3 3 5 0 0 2 3 9
+p358
+aVKelvin Cato POR 03/08/1999 POR @ VAN W 15 0 0 2 0.0 0 0 - 0 2 0.0 1 3 4 1 0 1 1 3 5
+p359
+aVRasheed Wallace POR 03/08/1999 POR @ VAN W 24 10 5 7 71.4 0 0 - 0 0 - 0 6 6 1 0 1 0 1 15
+p360
+aVStacey Augmon POR 03/08/1999 POR @ VAN W 19 0 0 2 0.0 0 0 - 0 0 - 2 3 5 1 2 0 2 2 12
+p361
+aVJermaine O'Neal POR 03/08/1999 POR @ VAN W 8 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 0 1 2 -5
+p362
+aVArvydas Sabonis POR 03/07/1999 POR vs. HOU W 23 10 4 9 44.4 0 0 - 2 2 100.0 1 4 5 1 0 1 2 2 14
+p363
+aVStacey Augmon POR 03/07/1999 POR vs. HOU W 26 8 3 4 75.0 0 0 - 2 2 100.0 0 4 4 3 0 0 0 2 15
+p364
+aVKelvin Cato POR 03/07/1999 POR vs. HOU W 18 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 1 2 2 0 1 20
+p365
+aVJermaine O'Neal POR 03/07/1999 POR vs. HOU W 12 9 4 5 80.0 0 0 - 1 1 100.0 3 3 6 1 0 0 0 1 15
+p366
+aVRasheed Wallace POR 03/07/1999 POR vs. HOU W 18 6 3 7 42.9 0 0 - 0 0 - 0 3 3 0 0 0 1 1 19
+p367
+aVJohn Crotty POR 03/07/1999 POR vs. HOU W 9 8 2 3 66.7 1 1 100.0 3 3 100.0 0 0 0 3 1 0 0 0 13
+p368
+aVGreg Anthony POR 03/07/1999 POR vs. HOU W 11 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 4 2 0 0 1 6
+p369
+aVWalt Williams POR 03/07/1999 POR vs. HOU W 18 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 1 4 4 21
+p370
+aVBrian Grant POR 03/07/1999 POR vs. HOU W 25 10 4 4 100.0 0 0 - 2 2 100.0 1 5 6 0 0 0 2 2 12
+p371
+aVJim Jackson POR 03/07/1999 POR vs. HOU W 21 14 5 9 55.6 3 5 60.0 1 3 33.3 0 4 4 3 3 0 1 5 21
+p372
+aVIsaiah Rider POR 03/07/1999 POR vs. HOU W 31 21 8 11 72.7 1 2 50.0 4 5 80.0 2 3 5 2 3 3 3 2 23
+p373
+aVDamon Stoudamire POR 03/07/1999 POR vs. HOU W 29 9 3 11 27.3 0 2 0.0 3 3 100.0 0 2 2 7 1 0 3 3 21
+p374
+aVJermaine O'Neal POR 03/05/1999 POR vs. MIN W 13 3 1 2 50.0 0 1 0.0 1 4 25.0 1 2 3 0 0 2 2 2 -5
+p375
+aVArvydas Sabonis POR 03/05/1999 POR vs. MIN W 28 16 6 11 54.5 0 0 - 4 4 100.0 2 13 15 7 0 1 2 3 7
+p376
+aVIsaiah Rider POR 03/05/1999 POR vs. MIN W 34 12 5 14 35.7 0 3 0.0 2 4 50.0 1 2 3 2 1 1 1 1 3
+p377
+aVJim Jackson POR 03/05/1999 POR vs. MIN W 22 10 3 5 60.0 0 0 - 4 5 80.0 1 2 3 3 0 0 1 1 13
+p378
+aVDamon Stoudamire POR 03/05/1999 POR vs. MIN W 26 6 2 4 50.0 0 1 0.0 2 4 50.0 0 4 4 8 3 1 2 1 -1
+p379
+aVBrian Grant POR 03/05/1999 POR vs. MIN W 37 14 5 13 38.5 0 0 - 4 5 80.0 3 5 8 0 1 2 2 1 15
+p380
+aVGreg Anthony POR 03/05/1999 POR vs. MIN W 22 8 2 6 33.3 2 3 66.7 2 2 100.0 0 0 0 3 2 0 0 4 13
+p381
+aVKelvin Cato POR 03/05/1999 POR vs. MIN W 12 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 5
+p382
+aVRasheed Wallace POR 03/05/1999 POR vs. MIN W 27 17 7 11 63.6 0 0 - 3 7 42.9 0 4 4 0 1 1 2 6 3
+p383
+aVWalt Williams POR 03/05/1999 POR vs. MIN W 19 5 2 5 40.0 1 1 100.0 0 1 0.0 0 2 2 2 0 0 1 0 7
+p384
+aVBrian Grant POR 03/03/1999 POR @ SAC W 44 20 6 13 46.2 0 0 - 8 9 88.9 4 14 18 2 0 0 5 2 12
+p385
+aVJim Jackson POR 03/03/1999 POR @ SAC W 16 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 3 2 0 3 0 -1
+p386
+aVKelvin Cato POR 03/03/1999 POR @ SAC W 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -4
+p387
+aVRasheed Wallace POR 03/03/1999 POR @ SAC W 34 7 3 7 42.9 1 1 100.0 0 0 - 0 4 4 2 3 3 1 6 -3
+p388
+aVIsaiah Rider POR 03/03/1999 POR @ SAC W 36 16 6 17 35.3 1 3 33.3 3 4 75.0 3 1 4 4 2 0 2 3 5
+p389
+aVArvydas Sabonis POR 03/03/1999 POR @ SAC W 43 17 8 12 66.7 0 0 - 1 2 50.0 3 10 13 2 0 1 0 3 8
+p390
+aVWalt Williams POR 03/03/1999 POR @ SAC W 20 10 4 7 57.1 2 2 100.0 0 0 - 1 2 3 1 0 0 3 1 5
+p391
+aVGreg Anthony POR 03/03/1999 POR @ SAC W 16 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 2 2
+p392
+aVStacey Augmon POR 03/03/1999 POR @ SAC W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p393
+aVDamon Stoudamire POR 03/03/1999 POR @ SAC W 37 15 6 17 35.3 1 3 33.3 2 4 50.0 0 3 3 5 0 0 0 2 2
+p394
+aVKelvin Cato POR 03/02/1999 POR vs. UTA W 12 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 1 2 2 5
+p395
+aVJermaine O'Neal POR 03/02/1999 POR vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p396
+aVBrian Grant POR 03/02/1999 POR vs. UTA W 41 13 4 12 33.3 0 0 - 5 6 83.3 9 3 12 6 0 0 3 5 -1
+p397
+aVArvydas Sabonis POR 03/02/1999 POR vs. UTA W 34 12 4 10 40.0 0 0 - 4 4 100.0 0 5 5 1 0 0 6 5 -5
+p398
+aVJim Jackson POR 03/02/1999 POR vs. UTA W 20 10 4 9 44.4 0 0 - 2 2 100.0 2 3 5 1 0 0 2 0 -4
+p399
+aVWalt Williams POR 03/02/1999 POR vs. UTA W 42 11 3 9 33.3 3 6 50.0 2 3 66.7 0 8 8 4 0 2 1 2 4
+p400
+aVDamon Stoudamire POR 03/02/1999 POR vs. UTA W 55 13 5 16 31.3 2 6 33.3 1 2 50.0 0 3 3 8 3 0 1 2 2
+p401
+aVStacey Augmon POR 03/02/1999 POR vs. UTA W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p402
+aVRasheed Wallace POR 03/02/1999 POR vs. UTA W 34 22 6 11 54.5 0 2 0.0 10 12 83.3 2 4 6 1 2 1 2 4 3
+p403
+aVIsaiah Rider POR 03/02/1999 POR vs. UTA W 38 18 8 19 42.1 2 3 66.7 0 0 - 2 2 4 1 0 0 5 3 6
+p404
+aVGreg Anthony POR 03/02/1999 POR vs. UTA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 0
+p405
+aVJim Jackson POR 02/28/1999 POR @ MIN W 21 14 5 11 45.5 2 4 50.0 2 3 66.7 0 4 4 2 1 0 1 3 3
+p406
+aVStacey Augmon POR 02/28/1999 POR @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p407
+aVDamon Stoudamire POR 02/28/1999 POR @ MIN W 33 13 6 16 37.5 1 2 50.0 0 1 0.0 0 4 4 9 2 0 2 3 0
+p408
+aVRasheed Wallace POR 02/28/1999 POR @ MIN W 32 22 10 14 71.4 1 1 100.0 1 2 50.0 0 4 4 6 0 0 1 6 12
+p409
+aVKelvin Cato POR 02/28/1999 POR @ MIN W 17 10 5 6 83.3 0 0 - 0 2 0.0 2 4 6 1 2 2 2 1 8
+p410
+aVJermaine O'Neal POR 02/28/1999 POR @ MIN W 10 0 0 3 0.0 0 0 - 0 2 0.0 1 4 5 1 0 1 1 2 4
+p411
+aVArvydas Sabonis POR 02/28/1999 POR @ MIN W 28 13 4 9 44.4 1 2 50.0 4 6 66.7 1 7 8 3 0 0 0 3 0
+p412
+aVIsaiah Rider POR 02/28/1999 POR @ MIN W 30 17 8 14 57.1 1 3 33.3 0 0 - 2 2 4 2 0 0 4 3 0
+p413
+aVWalt Williams POR 02/28/1999 POR @ MIN W 16 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 2 1 0 2 2 1
+p414
+aVGreg Anthony POR 02/28/1999 POR @ MIN W 19 2 1 2 50.0 0 0 - 0 0 - 1 0 1 6 1 0 2 2 5
+p415
+aVBrian Grant POR 02/28/1999 POR @ MIN W 33 7 1 6 16.7 0 0 - 5 6 83.3 3 5 8 0 1 0 1 3 2
+p416
+aVKelvin Cato POR 02/27/1999 POR @ WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p417
+aVArvydas Sabonis POR 02/27/1999 POR @ WAS W 38 15 7 12 58.3 0 0 - 1 1 100.0 3 7 10 3 1 3 0 4 1
+p418
+aVGreg Anthony POR 02/27/1999 POR @ WAS W 9 3 1 2 50.0 0 0 - 1 3 33.3 0 1 1 2 1 0 0 2 2
+p419
+aVBrian Grant POR 02/27/1999 POR @ WAS W 39 19 7 12 58.3 0 0 - 5 7 71.4 8 10 18 3 1 1 4 2 10
+p420
+aVDamon Stoudamire POR 02/27/1999 POR @ WAS W 39 6 3 12 25.0 0 4 0.0 0 0 - 1 4 5 6 2 0 4 2 -1
+p421
+aVJim Jackson POR 02/27/1999 POR @ WAS W 40 13 6 14 42.9 1 2 50.0 0 0 - 1 0 1 3 1 0 3 3 -2
+p422
+aVStacey Augmon POR 02/27/1999 POR @ WAS W 14 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -5
+p423
+aVWalt Williams POR 02/27/1999 POR @ WAS W 23 11 5 11 45.5 1 4 25.0 0 0 - 0 2 2 0 2 0 1 5 -2
+p424
+aVRasheed Wallace POR 02/27/1999 POR @ WAS W 34 9 1 7 14.3 0 0 - 7 9 77.8 2 2 4 1 3 0 4 3 4
+p425
+aVJim Jackson POR 02/26/1999 POR @ CHH L 24 2 1 3 33.3 0 0 - 0 0 - 2 1 3 3 0 0 0 3 17
+p426
+aVIsaiah Rider POR 02/26/1999 POR @ CHH L 38 27 10 21 47.6 2 5 40.0 5 8 62.5 2 1 3 1 0 0 0 4 -3
+p427
+aVRasheed Wallace POR 02/26/1999 POR @ CHH L 29 12 5 9 55.6 1 1 100.0 1 2 50.0 1 3 4 0 0 0 2 5 -1
+p428
+aVDamon Stoudamire POR 02/26/1999 POR @ CHH L 36 12 5 17 29.4 1 2 50.0 1 2 50.0 1 3 4 9 1 0 2 1 -5
+p429
+aVArvydas Sabonis POR 02/26/1999 POR @ CHH L 19 6 2 7 28.6 0 0 - 2 3 66.7 4 6 10 0 1 0 0 2 4
+p430
+aVKelvin Cato POR 02/26/1999 POR @ CHH L 11 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 1 0 2 4
+p431
+aVBrian Grant POR 02/26/1999 POR @ CHH L 22 7 1 4 25.0 0 0 - 5 8 62.5 2 6 8 0 0 1 3 3 -4
+p432
+aVJermaine O'Neal POR 02/26/1999 POR @ CHH L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -12
+p433
+aVWalt Williams POR 02/26/1999 POR @ CHH L 26 16 4 12 33.3 4 8 50.0 4 6 66.7 1 4 5 2 1 0 1 6 -10
+p434
+aVGreg Anthony POR 02/26/1999 POR @ CHH L 13 8 1 5 20.0 1 4 25.0 5 6 83.3 1 1 2 2 3 0 2 4 -1
+p435
+aVStacey Augmon POR 02/26/1999 POR @ CHH L 17 2 0 0 - 0 0 - 2 2 100.0 1 1 2 1 2 0 1 2 1
+p436
+aVRasheed Wallace POR 02/24/1999 POR @ NJN W 32 9 4 9 44.4 0 1 0.0 1 1 100.0 4 7 11 4 3 0 3 4 16
+p437
+aVWalt Williams POR 02/24/1999 POR @ NJN W 32 22 8 15 53.3 3 8 37.5 3 3 100.0 1 3 4 3 0 0 1 3 11
+p438
+aVIsaiah Rider POR 02/24/1999 POR @ NJN W 30 17 7 15 46.7 1 3 33.3 2 2 100.0 1 2 3 1 1 0 2 2 -3
+p439
+aVBrian Grant POR 02/24/1999 POR @ NJN W 35 9 3 6 50.0 0 0 - 3 5 60.0 2 4 6 4 0 1 4 1 9
+p440
+aVJim Jackson POR 02/24/1999 POR @ NJN W 25 10 4 9 44.4 0 3 0.0 2 2 100.0 0 2 2 2 2 2 4 0 9
+p441
+aVDamon Stoudamire POR 02/24/1999 POR @ NJN W 29 9 4 12 33.3 0 1 0.0 1 2 50.0 1 3 4 6 1 1 1 1 -4
+p442
+aVArvydas Sabonis POR 02/24/1999 POR @ NJN W 29 11 4 10 40.0 0 2 0.0 3 6 50.0 3 9 12 0 0 2 1 2 -7
+p443
+aVStacey Augmon POR 02/24/1999 POR @ NJN W 8 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 2 0 0 1 1 1
+p444
+aVGreg Anthony POR 02/24/1999 POR @ NJN W 19 6 2 7 28.6 1 3 33.3 1 2 50.0 0 0 0 0 0 0 0 0 13
+p445
+aVDamon Stoudamire POR 02/20/1999 POR vs. GSW W 29 3 1 7 14.3 0 2 0.0 1 5 20.0 1 2 3 10 1 0 3 0 4
+p446
+aVRasheed Wallace POR 02/20/1999 POR vs. GSW W 22 12 5 7 71.4 0 0 - 2 2 100.0 2 0 2 1 0 0 1 5 20
+p447
+aVKelvin Cato POR 02/20/1999 POR vs. GSW W 4 1 0 0 - 0 0 - 1 4 25.0 1 1 2 0 0 1 1 2 -4
+p448
+aVJim Jackson POR 02/20/1999 POR vs. GSW W 19 5 1 6 16.7 0 2 0.0 3 3 100.0 0 1 1 1 0 0 1 2 5
+p449
+aVGreg Anthony POR 02/20/1999 POR vs. GSW W 19 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 1 4 0 1 3 4
+p450
+aVWalt Williams POR 02/20/1999 POR vs. GSW W 33 9 2 9 22.2 2 5 40.0 3 4 75.0 3 4 7 3 1 4 1 2 -1
+p451
+aVJermaine O'Neal POR 02/20/1999 POR vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p452
+aVIsaiah Rider POR 02/20/1999 POR vs. GSW W 39 27 10 23 43.5 1 1 100.0 6 7 85.7 2 4 6 2 0 0 3 3 3
+p453
+aVStacey Augmon POR 02/20/1999 POR vs. GSW W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 5
+p454
+aVArvydas Sabonis POR 02/20/1999 POR vs. GSW W 28 5 2 9 22.2 0 1 0.0 1 2 50.0 2 5 7 1 0 0 2 4 -6
+p455
+aVBrian Grant POR 02/20/1999 POR vs. GSW W 38 18 4 10 40.0 0 0 - 10 12 83.3 9 15 24 0 0 1 3 1 6
+p456
+aVWalt Williams POR 02/19/1999 POR vs. BOS W 29 10 3 6 50.0 1 2 50.0 3 4 75.0 1 3 4 2 0 1 1 0 16
+p457
+aVStacey Augmon POR 02/19/1999 POR vs. BOS W 19 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 1 0 1 4
+p458
+aVRasheed Wallace POR 02/19/1999 POR vs. BOS W 22 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 0 0 1 1 5 3
+p459
+aVJermaine O'Neal POR 02/19/1999 POR vs. BOS W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 1 0 2 0 2
+p460
+aVJim Jackson POR 02/19/1999 POR vs. BOS W 19 5 1 4 25.0 0 0 - 3 4 75.0 0 2 2 2 0 1 5 2 7
+p461
+aVGreg Anthony POR 02/19/1999 POR vs. BOS W 16 11 3 4 75.0 3 4 75.0 2 2 100.0 0 0 0 1 0 0 0 0 10
+p462
+aVKelvin Cato POR 02/19/1999 POR vs. BOS W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -2
+p463
+aVBrian Grant POR 02/19/1999 POR vs. BOS W 34 21 4 12 33.3 0 0 - 13 14 92.9 8 10 18 4 0 1 1 2 26
+p464
+aVArvydas Sabonis POR 02/19/1999 POR vs. BOS W 25 12 3 4 75.0 0 0 - 6 8 75.0 2 6 8 3 0 4 0 3 12
+p465
+aVIsaiah Rider POR 02/19/1999 POR vs. BOS W 29 16 8 13 61.5 0 1 0.0 0 0 - 5 1 6 0 1 0 3 3 13
+p466
+aVCarlos Rogers POR 02/19/1999 POR vs. BOS W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 1
+p467
+aVDamon Stoudamire POR 02/19/1999 POR vs. BOS W 30 14 7 15 46.7 0 1 0.0 0 0 - 1 4 5 7 0 0 2 3 8
+p468
+aVKelvin Cato POR 02/17/1999 POR vs. DEN W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 1 5 -6
+p469
+aVBrian Grant POR 02/17/1999 POR vs. DEN W 29 12 6 10 60.0 0 0 - 0 2 0.0 2 15 17 2 2 2 2 3 28
+p470
+aVGreg Anthony POR 02/17/1999 POR vs. DEN W 9 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 2 2 1 1 2 -7
+p471
+aVArvydas Sabonis POR 02/17/1999 POR vs. DEN W 10 6 3 3 100.0 0 0 - 0 0 - 0 2 2 2 0 1 1 2 10
+p472
+aVStacey Augmon POR 02/17/1999 POR vs. DEN W 12 8 4 4 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -7
+p473
+aVDamon Stoudamire POR 02/17/1999 POR vs. DEN W 39 11 4 11 36.4 1 2 50.0 2 2 100.0 1 1 2 5 0 0 2 2 22
+p474
+aVIsaiah Rider POR 02/17/1999 POR vs. DEN W 36 19 6 12 50.0 1 2 50.0 6 6 100.0 3 5 8 6 0 0 3 3 22
+p475
+aVJim Jackson POR 02/17/1999 POR vs. DEN W 18 0 0 6 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 2 -11
+p476
+aVRasheed Wallace POR 02/17/1999 POR vs. DEN W 33 18 8 17 47.1 0 0 - 2 3 66.7 3 2 5 3 0 0 4 5 17
+p477
+aVJermaine O'Neal POR 02/17/1999 POR vs. DEN W 16 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -19
+p478
+aVWalt Williams POR 02/17/1999 POR vs. DEN W 30 17 6 14 42.9 5 6 83.3 0 0 - 0 3 3 4 2 2 2 3 26
+p479
+aVGreg Anthony POR 02/15/1999 POR vs. DAL W 13 7 3 7 42.9 1 4 25.0 0 0 - 0 3 3 4 0 0 2 1 3
+p480
+aVBrian Grant POR 02/15/1999 POR vs. DAL W 23 9 3 9 33.3 0 0 - 3 5 60.0 4 7 11 0 2 0 1 1 2
+p481
+aVArvydas Sabonis POR 02/15/1999 POR vs. DAL W 38 16 8 13 61.5 0 0 - 0 0 - 3 7 10 9 1 0 2 2 16
+p482
+aVJermaine O'Neal POR 02/15/1999 POR vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p483
+aVWalt Williams POR 02/15/1999 POR vs. DAL W 26 14 5 7 71.4 1 2 50.0 3 4 75.0 2 3 5 1 1 2 2 4 7
+p484
+aVIsaiah Rider POR 02/15/1999 POR vs. DAL W 22 10 4 11 36.4 0 2 0.0 2 3 66.7 1 2 3 0 0 0 1 1 5
+p485
+aVKelvin Cato POR 02/15/1999 POR vs. DAL W 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p486
+aVJim Jackson POR 02/15/1999 POR vs. DAL W 19 10 5 11 45.5 0 1 0.0 0 0 - 2 1 3 1 0 0 3 1 4
+p487
+aVDamon Stoudamire POR 02/15/1999 POR vs. DAL W 35 14 6 16 37.5 1 2 50.0 1 2 50.0 1 1 2 9 1 0 1 1 12
+p488
+aVRasheed Wallace POR 02/15/1999 POR vs. DAL W 25 15 5 5 100.0 0 0 - 5 7 71.4 0 0 0 0 0 2 1 4 13
+p489
+aVStacey Augmon POR 02/15/1999 POR vs. DAL W 30 4 2 5 40.0 0 1 0.0 0 0 - 3 2 5 3 3 0 0 2 14
+p490
+aVGreg Anthony POR 02/14/1999 POR @ GSW L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 5 5 2 0 0 2 0 1
+p491
+aVDamon Stoudamire POR 02/14/1999 POR @ GSW L 44 18 6 14 42.9 1 3 33.3 5 6 83.3 1 2 3 2 0 0 5 2 -8
+p492
+aVArvydas Sabonis POR 02/14/1999 POR @ GSW L 40 23 8 15 53.3 0 1 0.0 7 10 70.0 3 14 17 3 2 2 0 3 -2
+p493
+aVJim Jackson POR 02/14/1999 POR @ GSW L 28 9 2 4 50.0 1 2 50.0 4 4 100.0 1 4 5 5 0 0 3 2 0
+p494
+aVStacey Augmon POR 02/14/1999 POR @ GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p495
+aVKelvin Cato POR 02/14/1999 POR @ GSW L 12 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 0 1 1 1 3
+p496
+aVRasheed Wallace POR 02/14/1999 POR @ GSW L 40 16 8 18 44.4 0 0 - 0 0 - 2 6 8 1 0 4 0 6 -2
+p497
+aVWalt Williams POR 02/14/1999 POR @ GSW L 39 11 4 13 30.8 3 8 37.5 0 0 - 3 2 5 3 0 1 3 3 1
+p498
+aVIsaiah Rider POR 02/14/1999 POR @ GSW L 48 17 6 15 40.0 0 1 0.0 5 5 100.0 2 4 6 5 0 0 2 3 -7
+p499
+aVBrian Grant POR 02/14/1999 POR @ GSW L 24 2 1 6 16.7 0 0 - 0 0 - 1 3 4 0 0 0 2 4 -9
+p500
+aVDamon Stoudamire POR 02/10/1999 POR vs. IND W 38 23 9 16 56.3 1 4 25.0 4 5 80.0 0 4 4 9 1 0 4 1 9
+p501
+aVStacey Augmon POR 02/10/1999 POR vs. IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 2
+p502
+aVJim Jackson POR 02/10/1999 POR vs. IND W 25 8 4 6 66.7 0 2 0.0 0 0 - 0 0 0 1 4 1 3 3 12
+p503
+aVGreg Anthony POR 02/10/1999 POR vs. IND W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 1 0 1 1 -1
+p504
+aVBrian Grant POR 02/10/1999 POR vs. IND W 33 6 0 4 0.0 0 0 - 6 8 75.0 1 5 6 2 0 2 1 4 6
+p505
+aVWalt Williams POR 02/10/1999 POR vs. IND W 28 14 4 6 66.7 1 2 50.0 5 6 83.3 0 2 2 1 0 0 2 5 -1
+p506
+aVIsaiah Rider POR 02/10/1999 POR vs. IND W 37 26 11 19 57.9 1 1 100.0 3 7 42.9 5 6 11 1 0 0 4 4 3
+p507
+aVRasheed Wallace POR 02/10/1999 POR vs. IND W 25 10 5 12 41.7 0 0 - 0 0 - 1 1 2 0 0 1 1 4 -1
+p508
+aVKelvin Cato POR 02/10/1999 POR vs. IND W 16 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 1 0 1 0 3 5
+p509
+aVArvydas Sabonis POR 02/10/1999 POR vs. IND W 22 7 3 9 33.3 0 1 0.0 1 3 33.3 3 3 6 2 1 1 1 3 6
+p510
+aVJim Jackson POR 02/08/1999 POR @ VAN W 26 17 6 8 75.0 2 3 66.7 3 3 100.0 0 6 6 5 0 0 1 1 18
+p511
+aVRasheed Wallace POR 02/08/1999 POR @ VAN W 25 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 1 1 0 2 4 3
+p512
+aVStacey Augmon POR 02/08/1999 POR @ VAN W 24 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 3 2 3 8
+p513
+aVBonzi Wells POR 02/08/1999 POR @ VAN W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p514
+aVJermaine O'Neal POR 02/08/1999 POR @ VAN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -1
+p515
+aVGreg Anthony POR 02/08/1999 POR @ VAN W 10 5 1 6 16.7 0 1 0.0 3 3 100.0 1 0 1 1 2 0 0 0 9
+p516
+aVIsaiah Rider POR 02/08/1999 POR @ VAN W 22 6 2 8 25.0 0 0 - 2 4 50.0 0 3 3 0 1 0 0 1 1
+p517
+aVKelvin Cato POR 02/08/1999 POR @ VAN W 15 8 4 5 80.0 0 0 - 0 0 - 2 3 5 2 1 2 2 3 10
+p518
+aVJohn Crotty POR 02/08/1999 POR @ VAN W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -2
+p519
+aVArvydas Sabonis POR 02/08/1999 POR @ VAN W 28 24 7 12 58.3 0 0 - 10 16 62.5 4 7 11 0 1 4 2 4 15
+p520
+aVBrian Grant POR 02/08/1999 POR @ VAN W 23 8 4 5 80.0 0 0 - 0 0 - 0 4 4 1 1 2 2 4 11
+p521
+aVDamon Stoudamire POR 02/08/1999 POR @ VAN W 34 9 4 11 36.4 0 2 0.0 1 1 100.0 0 2 2 8 0 0 3 2 12
+p522
+aVWalt Williams POR 02/08/1999 POR @ VAN W 21 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 0 3 1 4 6 11
+p523
+aVGreg Anthony POR 02/07/1999 POR @ SEA L 19 6 1 3 33.3 1 3 33.3 3 4 75.0 0 1 1 2 1 0 0 1 -9
+p524
+aVBrian Grant POR 02/07/1999 POR @ SEA L 31 12 6 10 60.0 0 0 - 0 0 - 5 6 11 2 0 3 1 2 -1
+p525
+aVRasheed Wallace POR 02/07/1999 POR @ SEA L 26 11 5 9 55.6 0 0 - 1 2 50.0 0 2 2 1 2 2 3 3 -2
+p526
+aVArvydas Sabonis POR 02/07/1999 POR @ SEA L 25 7 2 7 28.6 1 2 50.0 2 2 100.0 0 3 3 0 0 0 3 4 0
+p527
+aVStacey Augmon POR 02/07/1999 POR @ SEA L 10 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 2 0 1 2 -4
+p528
+aVJim Jackson POR 02/07/1999 POR @ SEA L 17 5 2 5 40.0 0 2 0.0 1 1 100.0 0 0 0 3 0 0 2 1 -4
+p529
+aVWalt Williams POR 02/07/1999 POR @ SEA L 28 6 2 6 33.3 0 1 0.0 2 2 100.0 2 2 4 2 1 0 0 3 4
+p530
+aVKelvin Cato POR 02/07/1999 POR @ SEA L 9 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 1 1 1 4 4
+p531
+aVDamon Stoudamire POR 02/07/1999 POR @ SEA L 41 19 5 14 35.7 1 3 33.3 8 9 88.9 0 2 2 9 1 0 2 0 1
+p532
+aVIsaiah Rider POR 02/07/1999 POR @ SEA L 29 15 6 13 46.2 1 1 100.0 2 2 100.0 0 6 6 3 1 0 3 3 3
+p533
+aVJermaine O'Neal POR 02/07/1999 POR @ SEA L 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p534
+a.

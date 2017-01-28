@@ -1,0 +1,142 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAnthony Tolliver ATL 05/03/2013 ATL vs. IND L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 0 -7
+p2
+aVIvan Johnson ATL 05/03/2013 ATL vs. IND L 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -7
+p3
+aVDevin Harris ATL 05/03/2013 ATL vs. IND L 38 14 5 14 35.7 2 7 28.6 2 2 100.0 0 4 4 3 2 0 2 6 2
+p4
+aVKyle Korver ATL 05/03/2013 ATL vs. IND L 34 12 3 11 27.3 0 7 0.0 6 6 100.0 0 4 4 1 0 1 0 2 1
+p5
+aVJohan Petro ATL 05/03/2013 ATL vs. IND L 21 4 2 6 33.3 0 0 - 0 0 - 0 6 6 0 0 1 0 2 -8
+p6
+aVDahntay Jones ATL 05/03/2013 ATL vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p7
+aVAl Horford ATL 05/03/2013 ATL vs. IND L 42 15 6 12 50.0 0 0 - 3 4 75.0 1 6 7 3 0 0 0 1 -3
+p8
+aVJosh Smith ATL 05/03/2013 ATL vs. IND L 44 14 5 16 31.3 0 3 0.0 4 4 100.0 0 9 9 3 1 1 4 3 -8
+p9
+aVJeff Teague ATL 05/03/2013 ATL vs. IND L 36 10 3 12 25.0 1 1 100.0 3 4 75.0 1 1 2 2 2 1 2 2 -8
+p10
+aVShelvin Mack ATL 05/01/2013 ATL @ IND L 5 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p11
+aVJeff Teague ATL 05/01/2013 ATL @ IND L 34 7 3 16 18.8 0 1 0.0 1 1 100.0 0 2 2 5 0 0 1 1 -21
+p12
+aVMike Scott ATL 05/01/2013 ATL @ IND L 5 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p13
+aVJohan Petro ATL 05/01/2013 ATL @ IND L 19 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -11
+p14
+aVIvan Johnson ATL 05/01/2013 ATL @ IND L 16 9 1 2 50.0 0 0 - 7 8 87.5 1 1 2 2 1 0 0 3 -6
+p15
+aVJohn Jenkins ATL 05/01/2013 ATL @ IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p16
+aVKyle Korver ATL 05/01/2013 ATL @ IND L 32 10 2 5 40.0 1 3 33.3 5 5 100.0 0 5 5 0 0 0 0 5 -13
+p17
+aVAnthony Tolliver ATL 05/01/2013 ATL @ IND L 17 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 -3
+p18
+aVDevin Harris ATL 05/01/2013 ATL @ IND L 37 13 3 9 33.3 0 3 0.0 7 8 87.5 0 0 0 3 1 0 1 1 -28
+p19
+aVDeShawn Stevenson ATL 05/01/2013 ATL @ IND L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p20
+aVAl Horford ATL 05/01/2013 ATL @ IND L 39 14 5 14 35.7 0 0 - 4 4 100.0 1 8 9 2 0 1 2 4 -16
+p21
+aVDahntay Jones ATL 05/01/2013 ATL @ IND L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p22
+aVJosh Smith ATL 05/01/2013 ATL @ IND L 26 14 5 16 31.3 1 3 33.3 3 7 42.9 2 3 5 0 4 1 1 5 -13
+p23
+aVAnthony Tolliver ATL 04/29/2013 ATL vs. IND W 21 9 3 3 100.0 3 3 100.0 0 0 - 1 2 3 0 1 0 0 3 8
+p24
+aVDeShawn Stevenson ATL 04/29/2013 ATL vs. IND W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p25
+aVJohan Petro ATL 04/29/2013 ATL vs. IND W 22 4 2 7 28.6 0 0 - 0 0 - 1 7 8 3 0 0 0 2 4
+p26
+aVDevin Harris ATL 04/29/2013 ATL vs. IND W 36 8 3 10 30.0 1 6 16.7 1 2 50.0 0 5 5 6 2 0 2 5 22
+p27
+aVAl Horford ATL 04/29/2013 ATL vs. IND W 30 18 6 14 42.9 0 0 - 6 8 75.0 1 4 5 4 1 1 2 4 -3
+p28
+aVJosh Smith ATL 04/29/2013 ATL vs. IND W 43 29 9 20 45.0 2 5 40.0 9 16 56.3 5 6 11 4 3 1 2 3 15
+p29
+aVIvan Johnson ATL 04/29/2013 ATL vs. IND W 18 2 0 1 0.0 0 0 - 2 4 50.0 1 4 5 0 0 1 2 4 -3
+p30
+aVKyle Korver ATL 04/29/2013 ATL vs. IND W 31 19 7 11 63.6 5 8 62.5 0 0 - 0 5 5 1 1 1 3 1 10
+p31
+aVJeff Teague ATL 04/29/2013 ATL vs. IND W 37 13 3 8 37.5 0 2 0.0 7 8 87.5 1 2 3 6 2 0 2 3 2
+p32
+aVMike Scott ATL 04/27/2013 ATL vs. IND W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 2
+p33
+aVAnthony Tolliver ATL 04/27/2013 ATL vs. IND W 15 7 2 4 50.0 2 3 66.7 1 2 50.0 1 0 1 0 0 1 0 1 10
+p34
+aVKyle Korver ATL 04/27/2013 ATL vs. IND W 29 6 2 5 40.0 2 3 66.7 0 1 0.0 0 2 2 0 0 1 0 1 14
+p35
+aVJosh Smith ATL 04/27/2013 ATL vs. IND W 31 14 6 13 46.2 0 3 0.0 2 5 40.0 1 5 6 6 3 0 2 5 19
+p36
+aVJohan Petro ATL 04/27/2013 ATL vs. IND W 14 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 1 1 5 -3
+p37
+aVAl Horford ATL 04/27/2013 ATL vs. IND W 40 26 12 20 60.0 0 0 - 2 4 50.0 6 10 16 1 2 2 2 3 11
+p38
+aVShelvin Mack ATL 04/27/2013 ATL vs. IND W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 2
+p39
+aVJohn Jenkins ATL 04/27/2013 ATL vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p40
+aVDahntay Jones ATL 04/27/2013 ATL vs. IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p41
+aVJeff Teague ATL 04/27/2013 ATL vs. IND W 33 13 4 15 26.7 0 2 0.0 5 7 71.4 1 5 6 5 2 0 2 4 13
+p42
+aVIvan Johnson ATL 04/27/2013 ATL vs. IND W 26 7 3 7 42.9 0 0 - 1 2 50.0 3 4 7 0 2 1 1 5 21
+p43
+aVDevin Harris ATL 04/27/2013 ATL vs. IND W 39 8 2 11 18.2 0 3 0.0 4 5 80.0 0 2 2 4 2 0 5 2 12
+p44
+aVJohan Petro ATL 04/24/2013 ATL @ IND L 14 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 1 1 1 5 -6
+p45
+aVJeff Teague ATL 04/24/2013 ATL @ IND L 35 16 7 16 43.8 0 2 0.0 2 2 100.0 0 3 3 5 2 1 4 3 -15
+p46
+aVDevin Harris ATL 04/24/2013 ATL @ IND L 36 17 6 10 60.0 2 4 50.0 3 5 60.0 1 3 4 4 1 1 2 0 -16
+p47
+aVKyle Korver ATL 04/24/2013 ATL @ IND L 28 9 3 10 30.0 3 9 33.3 0 0 - 0 2 2 2 1 1 2 1 -11
+p48
+aVAl Horford ATL 04/24/2013 ATL @ IND L 38 13 5 11 45.5 0 0 - 3 6 50.0 3 7 10 5 2 0 1 2 -14
+p49
+aVMike Scott ATL 04/24/2013 ATL @ IND L 11 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 1
+p50
+aVDahntay Jones ATL 04/24/2013 ATL @ IND L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p51
+aVJosh Smith ATL 04/24/2013 ATL @ IND L 20 16 7 10 70.0 1 2 50.0 1 2 50.0 2 4 6 3 0 0 3 5 -8
+p52
+aVJohn Jenkins ATL 04/24/2013 ATL @ IND L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p53
+aVIvan Johnson ATL 04/24/2013 ATL @ IND L 10 4 1 3 33.3 0 0 - 2 4 50.0 1 0 1 0 0 0 0 4 -10
+p54
+aVShelvin Mack ATL 04/24/2013 ATL @ IND L 7 5 2 2 100.0 1 1 100.0 0 0 - 1 1 2 4 0 0 0 0 3
+p55
+aVAnthony Tolliver ATL 04/24/2013 ATL @ IND L 4 5 2 3 66.7 1 2 50.0 0 1 0.0 0 1 1 0 0 0 0 1 7
+p56
+aVDeShawn Stevenson ATL 04/24/2013 ATL @ IND L 19 3 1 2 50.0 1 2 50.0 0 0 - 1 4 5 0 0 0 1 2 -14
+p57
+aVDevin Harris ATL 04/21/2013 ATL @ IND L 40 8 4 9 44.4 0 2 0.0 0 3 0.0 1 1 2 2 2 0 0 4 -12
+p58
+aVAnthony Tolliver ATL 04/21/2013 ATL @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p59
+aVDahntay Jones ATL 04/21/2013 ATL @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p60
+aVKyle Korver ATL 04/21/2013 ATL @ IND L 22 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 0 0 0 1 4 -12
+p61
+aVMike Scott ATL 04/21/2013 ATL @ IND L 1 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -1
+p62
+aVShelvin Mack ATL 04/21/2013 ATL @ IND L 7 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 3 0 0 0 0 5
+p63
+aVJeff Teague ATL 04/21/2013 ATL @ IND L 37 21 7 14 50.0 2 2 100.0 5 6 83.3 0 1 1 7 1 0 3 4 -20
+p64
+aVDeShawn Stevenson ATL 04/21/2013 ATL @ IND L 25 6 2 2 100.0 2 2 100.0 0 0 - 1 3 4 1 0 0 1 3 -6
+p65
+aVJosh Smith ATL 04/21/2013 ATL @ IND L 35 15 7 15 46.7 1 4 25.0 0 2 0.0 0 8 8 5 0 0 4 0 -21
+p66
+aVIvan Johnson ATL 04/21/2013 ATL @ IND L 23 10 5 8 62.5 0 0 - 0 0 - 3 2 5 1 1 1 3 4 -2
+p67
+aVAl Horford ATL 04/21/2013 ATL @ IND L 28 14 7 12 58.3 0 0 - 0 1 0.0 0 6 6 3 1 1 2 3 -15
+p68
+aVJohan Petro ATL 04/21/2013 ATL @ IND L 12 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 1
+p69
+aVJohn Jenkins ATL 04/21/2013 ATL @ IND L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -3
+p70
+a.

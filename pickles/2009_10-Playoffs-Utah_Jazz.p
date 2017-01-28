@@ -1,0 +1,210 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDeron Williams UTA 05/10/2010 UTA vs. LAL L 43 21 7 18 38.9 0 7 0.0 7 10 70.0 2 2 4 9 2 2 4 3 -19
+p2
+aVRonnie Price UTA 05/10/2010 UTA vs. LAL L 3 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 1 1 -3
+p3
+aVKyle Korver UTA 05/10/2010 UTA vs. LAL L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p4
+aVPaul Millsap UTA 05/10/2010 UTA vs. LAL L 25 21 8 14 57.1 0 0 - 5 6 83.3 4 2 6 1 1 1 1 3 -29
+p5
+aVCJ Miles UTA 05/10/2010 UTA vs. LAL L 36 15 6 12 50.0 2 4 50.0 1 2 50.0 0 2 2 4 0 3 1 5 -4
+p6
+aVCarlos Boozer UTA 05/10/2010 UTA vs. LAL L 37 10 4 11 36.4 0 0 - 2 2 100.0 1 13 14 0 0 0 4 6 -14
+p7
+aVAndrei Kirilenko UTA 05/10/2010 UTA vs. LAL L 12 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 1 -6
+p8
+aVWesley Matthews UTA 05/10/2010 UTA vs. LAL L 38 12 5 10 50.0 1 3 33.3 1 2 50.0 1 3 4 0 1 1 1 4 -19
+p9
+aVKosta Koufos UTA 05/10/2010 UTA vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p10
+aVOthyus Jeffers UTA 05/10/2010 UTA vs. LAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p11
+aVSundiata Gaines UTA 05/10/2010 UTA vs. LAL L 2 7 3 3 100.0 1 1 100.0 0 2 0.0 1 1 2 0 0 0 0 0 7
+p12
+aVKyrylo Fesenko UTA 05/10/2010 UTA vs. LAL L 30 4 2 4 50.0 0 0 - 0 0 - 3 9 12 1 0 1 1 4 9
+p13
+aVCJ Miles UTA 05/08/2010 UTA vs. LAL L 23 11 4 7 57.1 2 3 66.7 1 1 100.0 0 1 1 0 0 0 2 5 3
+p14
+aVCarlos Boozer UTA 05/08/2010 UTA vs. LAL L 41 14 7 16 43.8 0 0 - 0 2 0.0 6 8 14 2 0 0 1 3 1
+p15
+aVKyrylo Fesenko UTA 05/08/2010 UTA vs. LAL L 12 2 1 3 33.3 0 0 - 0 0 - 0 4 4 2 0 1 0 0 0
+p16
+aVAndrei Kirilenko UTA 05/08/2010 UTA vs. LAL L 17 8 4 7 57.1 0 0 - 0 0 - 3 3 6 0 1 1 0 1 -7
+p17
+aVDeron Williams UTA 05/08/2010 UTA vs. LAL L 37 28 6 13 46.2 3 6 50.0 13 14 92.9 0 4 4 9 0 0 4 3 -6
+p18
+aVPaul Millsap UTA 05/08/2010 UTA vs. LAL L 37 13 3 6 50.0 0 0 - 7 8 87.5 2 1 3 3 0 1 1 3 -4
+p19
+aVKyle Korver UTA 05/08/2010 UTA vs. LAL L 24 23 9 10 90.0 5 5 100.0 0 0 - 0 1 1 1 1 0 1 1 1
+p20
+aVWesley Matthews UTA 05/08/2010 UTA vs. LAL L 38 9 2 11 18.2 0 6 0.0 5 6 83.3 1 5 6 2 2 1 2 4 2
+p21
+aVRonnie Price UTA 05/08/2010 UTA vs. LAL L 11 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 4 0 0 0 1 5
+p22
+aVDeron Williams UTA 05/04/2010 UTA @ LAL L 39 15 4 16 25.0 2 6 33.3 5 6 83.3 1 2 3 9 0 0 3 5 -11
+p23
+aVWesley Matthews UTA 05/04/2010 UTA @ LAL L 34 14 5 11 45.5 4 6 66.7 0 1 0.0 2 3 5 1 3 0 1 3 -4
+p24
+aVKyrylo Fesenko UTA 05/04/2010 UTA @ LAL L 17 2 1 7 14.3 0 0 - 0 4 0.0 1 2 3 1 0 1 0 4 4
+p25
+aVPaul Millsap UTA 05/04/2010 UTA @ LAL L 35 26 10 17 58.8 0 0 - 6 8 75.0 8 3 11 4 3 1 2 4 -12
+p26
+aVCJ Miles UTA 05/04/2010 UTA @ LAL L 41 20 6 15 40.0 2 6 33.3 6 6 100.0 2 2 4 6 3 1 1 5 -5
+p27
+aVRonnie Price UTA 05/04/2010 UTA @ LAL L 13 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 1 0 1 2 1
+p28
+aVKyle Korver UTA 05/04/2010 UTA @ LAL L 17 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p29
+aVCarlos Boozer UTA 05/04/2010 UTA @ LAL L 37 20 9 21 42.9 0 0 - 2 3 66.7 4 8 12 4 0 1 1 4 -13
+p30
+aVKosta Koufos UTA 05/04/2010 UTA @ LAL L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 5
+p31
+aVKosta Koufos UTA 05/02/2010 UTA @ LAL L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 2
+p32
+aVCarlos Boozer UTA 05/02/2010 UTA @ LAL L 39 18 9 17 52.9 0 0 - 0 0 - 6 6 12 4 1 0 4 4 -7
+p33
+aVDeron Williams UTA 05/02/2010 UTA @ LAL L 39 24 7 15 46.7 2 5 40.0 8 10 80.0 0 0 0 8 1 1 1 1 -12
+p34
+aVWesley Matthews UTA 05/02/2010 UTA @ LAL L 34 14 5 12 41.7 2 4 50.0 2 2 100.0 1 6 7 2 3 0 3 4 -7
+p35
+aVKyrylo Fesenko UTA 05/02/2010 UTA @ LAL L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 0
+p36
+aVKyle Korver UTA 05/02/2010 UTA @ LAL L 21 7 3 5 60.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 5 3
+p37
+aVRonnie Price UTA 05/02/2010 UTA @ LAL L 9 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 3 2 0 0 2 7
+p38
+aVPaul Millsap UTA 05/02/2010 UTA @ LAL L 35 16 8 18 44.4 0 1 0.0 0 0 - 2 7 9 3 1 0 1 3 -7
+p39
+aVCJ Miles UTA 05/02/2010 UTA @ LAL L 41 16 4 12 33.3 1 5 20.0 7 8 87.5 0 3 3 2 0 0 2 5 -4
+p40
+aVKyrylo Fesenko UTA 04/30/2010 UTA vs. DEN W 10 0 0 1 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 4 3 -13
+p41
+aVPaul Millsap UTA 04/30/2010 UTA vs. DEN W 36 21 7 11 63.6 0 0 - 7 10 70.0 2 9 11 3 0 3 3 4 24
+p42
+aVKyle Korver UTA 04/30/2010 UTA vs. DEN W 21 10 3 7 42.9 1 3 33.3 3 3 100.0 0 2 2 1 0 0 1 4 -5
+p43
+aVRonnie Price UTA 04/30/2010 UTA vs. DEN W 19 12 4 6 66.7 1 1 100.0 3 6 50.0 1 1 2 0 0 0 0 4 2
+p44
+aVCJ Miles UTA 04/30/2010 UTA vs. DEN W 28 8 3 6 50.0 2 4 50.0 0 1 0.0 0 1 1 3 0 0 0 5 8
+p45
+aVWesley Matthews UTA 04/30/2010 UTA vs. DEN W 40 23 4 12 33.3 2 4 50.0 13 15 86.7 1 4 5 4 0 1 3 2 11
+p46
+aVDeron Williams UTA 04/30/2010 UTA vs. DEN W 36 14 4 10 40.0 0 3 0.0 6 10 60.0 0 2 2 10 1 0 2 5 7
+p47
+aVKosta Koufos UTA 04/30/2010 UTA vs. DEN W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -3
+p48
+aVCarlos Boozer UTA 04/30/2010 UTA vs. DEN W 45 22 10 14 71.4 0 0 - 2 4 50.0 2 18 20 5 1 0 4 3 8
+p49
+aVOthyus Jeffers UTA 04/30/2010 UTA vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p50
+aVSundiata Gaines UTA 04/30/2010 UTA vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p51
+aVCarlos Boozer UTA 04/28/2010 UTA @ DEN L 42 25 12 20 60.0 0 0 - 1 1 100.0 3 13 16 2 0 1 3 4 -14
+p52
+aVPaul Millsap UTA 04/28/2010 UTA @ DEN L 32 16 7 13 53.8 0 0 - 2 4 50.0 4 5 9 3 2 3 0 3 -9
+p53
+aVRonnie Price UTA 04/28/2010 UTA @ DEN L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -5
+p54
+aVWesley Matthews UTA 04/28/2010 UTA @ DEN L 39 15 4 10 40.0 1 5 20.0 6 8 75.0 0 0 0 1 0 1 2 3 -7
+p55
+aVKosta Koufos UTA 04/28/2010 UTA @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p56
+aVDeron Williams UTA 04/28/2010 UTA @ DEN L 41 34 10 20 50.0 5 8 62.5 9 10 90.0 1 3 4 9 0 0 4 6 -11
+p57
+aVCJ Miles UTA 04/28/2010 UTA @ DEN L 36 9 4 10 40.0 1 3 33.3 0 0 - 2 2 4 1 1 0 3 5 -25
+p58
+aVKyle Korver UTA 04/28/2010 UTA @ DEN L 20 0 0 6 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p59
+aVOthyus Jeffers UTA 04/28/2010 UTA @ DEN L 1 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p60
+aVKyrylo Fesenko UTA 04/28/2010 UTA @ DEN L 20 3 1 1 100.0 0 0 - 1 2 50.0 2 4 6 1 0 0 3 3 -7
+p61
+aVSundiata Gaines UTA 04/28/2010 UTA @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p62
+aVWesley Matthews UTA 04/25/2010 UTA vs. DEN W 42 18 7 11 63.6 1 3 33.3 3 4 75.0 2 3 5 3 3 1 0 3 13
+p63
+aVCarlos Boozer UTA 04/25/2010 UTA vs. DEN W 40 31 13 19 68.4 0 0 - 5 9 55.6 6 7 13 5 1 2 3 5 11
+p64
+aVPaul Millsap UTA 04/25/2010 UTA vs. DEN W 22 12 4 7 57.1 0 0 - 4 6 66.7 2 3 5 0 0 0 3 6 15
+p65
+aVKosta Koufos UTA 04/25/2010 UTA vs. DEN W 1 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p66
+aVKyle Korver UTA 04/25/2010 UTA vs. DEN W 20 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 1 1 0 0 1 1
+p67
+aVCJ Miles UTA 04/25/2010 UTA vs. DEN W 38 21 8 15 53.3 1 7 14.3 4 4 100.0 1 2 3 1 0 1 5 3 0
+p68
+aVKyrylo Fesenko UTA 04/25/2010 UTA vs. DEN W 29 6 1 4 25.0 0 0 - 4 7 57.1 0 5 5 1 0 2 2 5 6
+p69
+aVDeron Williams UTA 04/25/2010 UTA vs. DEN W 42 24 6 14 42.9 2 5 40.0 10 12 83.3 0 4 4 13 1 0 2 4 15
+p70
+aVRonnie Price UTA 04/25/2010 UTA vs. DEN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -4
+p71
+aVKosta Koufos UTA 04/23/2010 UTA vs. DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p72
+aVPaul Millsap UTA 04/23/2010 UTA vs. DEN W 33 22 11 14 78.6 0 0 - 0 2 0.0 6 13 19 3 2 0 0 3 14
+p73
+aVKyle Korver UTA 04/23/2010 UTA vs. DEN W 25 8 3 5 60.0 1 3 33.3 1 1 100.0 0 0 0 6 2 0 0 3 22
+p74
+aVCarlos Boozer UTA 04/23/2010 UTA vs. DEN W 38 18 6 18 33.3 0 0 - 6 10 60.0 1 7 8 1 0 0 1 3 10
+p75
+aVCJ Miles UTA 04/23/2010 UTA vs. DEN W 32 10 3 9 33.3 1 4 25.0 3 4 75.0 0 4 4 3 0 0 1 5 3
+p76
+aVSundiata Gaines UTA 04/23/2010 UTA vs. DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p77
+aVDeron Williams UTA 04/23/2010 UTA vs. DEN W 37 24 8 14 57.1 2 3 66.7 6 8 75.0 0 2 2 10 3 0 1 3 20
+p78
+aVOthyus Jeffers UTA 04/23/2010 UTA vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p79
+aVWesley Matthews UTA 04/23/2010 UTA vs. DEN W 37 14 4 12 33.3 3 7 42.9 3 4 75.0 2 3 5 1 3 0 1 4 5
+p80
+aVRonnie Price UTA 04/23/2010 UTA vs. DEN W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p81
+aVKyrylo Fesenko UTA 04/23/2010 UTA vs. DEN W 23 9 4 6 66.7 0 0 - 1 2 50.0 1 4 5 3 0 0 2 3 6
+p82
+aVKosta Koufos UTA 04/19/2010 UTA @ DEN W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p83
+aVPaul Millsap UTA 04/19/2010 UTA @ DEN W 34 18 5 9 55.6 0 1 0.0 8 12 66.7 2 3 5 0 2 2 0 4 -8
+p84
+aVRonnie Price UTA 04/19/2010 UTA @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -1
+p85
+aVKyle Korver UTA 04/19/2010 UTA @ DEN W 24 13 5 7 71.4 1 2 50.0 2 3 66.7 0 1 1 1 1 0 2 3 -4
+p86
+aVCarlos Boozer UTA 04/19/2010 UTA @ DEN W 41 20 10 16 62.5 0 0 - 0 2 0.0 3 12 15 2 0 0 3 3 0
+p87
+aVWesley Matthews UTA 04/19/2010 UTA @ DEN W 31 7 1 7 14.3 1 3 33.3 4 4 100.0 0 3 3 1 2 0 1 4 8
+p88
+aVDeron Williams UTA 04/19/2010 UTA @ DEN W 45 33 7 14 50.0 3 4 75.0 16 18 88.9 0 2 2 14 1 1 7 4 4
+p89
+aVOthyus Jeffers UTA 04/19/2010 UTA @ DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p90
+aVCJ Miles UTA 04/19/2010 UTA @ DEN W 38 17 5 10 50.0 1 3 33.3 6 6 100.0 0 3 3 6 1 1 3 5 0
+p91
+aVKyrylo Fesenko UTA 04/19/2010 UTA @ DEN W 20 4 2 2 100.0 0 0 - 0 2 0.0 0 2 2 1 0 0 2 5 12
+p92
+aVPaul Millsap UTA 04/17/2010 UTA @ DEN L 36 15 7 13 53.8 0 0 - 1 2 50.0 2 8 10 2 0 3 2 3 -12
+p93
+aVCJ Miles UTA 04/17/2010 UTA @ DEN L 24 17 4 10 40.0 2 7 28.6 7 7 100.0 0 0 0 2 1 0 1 5 -12
+p94
+aVKosta Koufos UTA 04/17/2010 UTA @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p95
+aVWesley Matthews UTA 04/17/2010 UTA @ DEN L 38 6 2 5 40.0 0 1 0.0 2 2 100.0 0 4 4 2 1 0 1 3 -9
+p96
+aVKyle Korver UTA 04/17/2010 UTA @ DEN L 28 13 5 8 62.5 2 3 66.7 1 1 100.0 0 4 4 1 0 0 3 3 -9
+p97
+aVRonnie Price UTA 04/17/2010 UTA @ DEN L 10 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 4 4
+p98
+aVMehmet Okur UTA 04/17/2010 UTA @ DEN L 11 7 2 2 100.0 1 1 100.0 2 2 100.0 1 1 2 0 0 0 1 0 1
+p99
+aVOthyus Jeffers UTA 04/17/2010 UTA @ DEN L 2 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 3
+p100
+aVDeron Williams UTA 04/17/2010 UTA @ DEN L 40 26 8 15 53.3 1 4 25.0 9 13 69.2 0 2 2 11 1 0 2 3 -19
+p101
+aVKyrylo Fesenko UTA 04/17/2010 UTA @ DEN L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -1
+p102
+aVSundiata Gaines UTA 04/17/2010 UTA @ DEN L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p103
+aVCarlos Boozer UTA 04/17/2010 UTA @ DEN L 41 19 9 16 56.3 0 0 - 1 2 50.0 1 7 8 5 1 3 0 3 -15
+p104
+a.

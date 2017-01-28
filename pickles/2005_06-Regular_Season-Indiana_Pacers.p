@@ -1,0 +1,1606 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVStephen Jackson IND 04/19/2006 IND vs. ORL W 43 22 7 15 46.7 2 5 40.0 6 6 100.0 1 3 4 1 2 0 4 1 7
+p2
+aVJeff Foster IND 04/19/2006 IND vs. ORL W 27 9 3 6 50.0 0 0 - 3 6 50.0 7 4 11 0 1 0 0 4 -4
+p3
+aVPeja Stojakovic IND 04/19/2006 IND vs. ORL W 35 17 5 12 41.7 3 7 42.9 4 4 100.0 0 6 6 1 0 1 0 2 11
+p4
+aVAnthony Johnson IND 04/19/2006 IND vs. ORL W 39 10 4 10 40.0 0 1 0.0 2 4 50.0 2 3 5 3 0 2 1 2 14
+p5
+aVSarunas Jasikevicius IND 04/19/2006 IND vs. ORL W 15 3 1 4 25.0 0 1 0.0 1 1 100.0 0 3 3 2 0 0 2 1 -8
+p6
+aVScot Pollard IND 04/19/2006 IND vs. ORL W 8 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 0 0 1 5 7
+p7
+aVDanny Granger IND 04/19/2006 IND vs. ORL W 23 2 1 6 16.7 0 2 0.0 0 0 - 5 3 8 3 0 2 0 2 -9
+p8
+aVJermaine O'Neal IND 04/19/2006 IND vs. ORL W 37 24 9 17 52.9 0 0 - 6 9 66.7 4 9 13 2 0 6 9 4 8
+p9
+aVDavid Harrison IND 04/19/2006 IND vs. ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p10
+aVAustin Croshere IND 04/19/2006 IND vs. ORL W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 3
+p11
+aVSarunas Jasikevicius IND 04/17/2006 IND @ TOR W 19 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 3 1 0 2 1 -13
+p12
+aVDanny Granger IND 04/17/2006 IND @ TOR W 26 6 2 6 33.3 0 1 0.0 2 2 100.0 1 4 5 1 0 1 0 4 -7
+p13
+aVAustin Croshere IND 04/17/2006 IND @ TOR W 11 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 2 0 0 0 2 -5
+p14
+aVPeja Stojakovic IND 04/17/2006 IND @ TOR W 40 27 11 18 61.1 5 10 50.0 0 0 - 1 4 5 3 1 0 2 3 32
+p15
+aVStephen Jackson IND 04/17/2006 IND @ TOR W 32 21 5 14 35.7 1 4 25.0 10 10 100.0 0 4 4 6 1 0 3 1 33
+p16
+aVEddie Gill IND 04/17/2006 IND @ TOR W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p17
+aVScot Pollard IND 04/17/2006 IND @ TOR W 17 3 1 1 100.0 0 0 - 1 2 50.0 2 6 8 0 0 0 0 4 24
+p18
+aVAnthony Johnson IND 04/17/2006 IND @ TOR W 33 22 9 11 81.8 2 3 66.7 2 2 100.0 0 4 4 9 1 1 0 2 39
+p19
+aVDavid Harrison IND 04/17/2006 IND @ TOR W 21 11 4 4 100.0 0 0 - 3 5 60.0 1 1 2 0 1 1 3 4 -11
+p20
+aVJermaine O'Neal IND 04/17/2006 IND @ TOR W 32 20 7 13 53.8 0 0 - 6 8 75.0 1 7 8 7 0 5 3 1 43
+p21
+aVJermaine O'Neal IND 04/15/2006 IND @ CHA L 44 30 13 21 61.9 0 0 - 4 5 80.0 3 5 8 2 2 0 6 3 4
+p22
+aVDanny Granger IND 04/15/2006 IND @ CHA L 30 9 4 7 57.1 1 3 33.3 0 0 - 4 4 8 1 1 4 1 3 -7
+p23
+aVScot Pollard IND 04/15/2006 IND @ CHA L 20 2 1 3 33.3 0 0 - 0 0 - 1 6 7 0 1 1 0 2 14
+p24
+aVSarunas Jasikevicius IND 04/15/2006 IND @ CHA L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 4 0 0 4 1 0
+p25
+aVDavid Harrison IND 04/15/2006 IND @ CHA L 8 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -9
+p26
+aVStephen Jackson IND 04/15/2006 IND @ CHA L 42 18 7 16 43.8 1 3 33.3 3 7 42.9 0 6 6 5 3 1 2 2 2
+p27
+aVAustin Croshere IND 04/15/2006 IND @ CHA L 17 2 0 5 0.0 0 4 0.0 2 2 100.0 0 5 5 1 0 0 2 3 -4
+p28
+aVAnthony Johnson IND 04/15/2006 IND @ CHA L 43 8 3 13 23.1 1 5 20.0 1 4 25.0 0 6 6 7 1 0 1 2 -5
+p29
+aVPeja Stojakovic IND 04/15/2006 IND @ CHA L 42 18 6 15 40.0 1 5 20.0 5 5 100.0 0 7 7 1 0 0 2 1 0
+p30
+aVAnthony Johnson IND 04/14/2006 IND vs. MIN W 29 12 5 8 62.5 1 3 33.3 1 1 100.0 0 0 0 4 0 0 3 2 20
+p31
+aVDavid Harrison IND 04/14/2006 IND vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p32
+aVScot Pollard IND 04/14/2006 IND vs. MIN W 16 0 0 1 0.0 0 0 - 0 0 - 3 4 7 0 1 0 0 2 4
+p33
+aVJamaal Tinsley IND 04/14/2006 IND vs. MIN W 22 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 1 1 1 1 -1
+p34
+aVJermaine O'Neal IND 04/14/2006 IND vs. MIN W 38 29 10 16 62.5 0 0 - 9 12 75.0 2 10 12 4 0 2 3 3 16
+p35
+aVPeja Stojakovic IND 04/14/2006 IND vs. MIN W 31 11 4 12 33.3 0 5 0.0 3 3 100.0 1 5 6 1 1 0 2 2 2
+p36
+aVDanny Granger IND 04/14/2006 IND vs. MIN W 33 9 4 10 40.0 0 1 0.0 1 2 50.0 3 7 10 2 0 1 0 3 7
+p37
+aVSarunas Jasikevicius IND 04/14/2006 IND vs. MIN W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 2
+p38
+aVStephen Jackson IND 04/14/2006 IND vs. MIN W 39 17 5 13 38.5 1 3 33.3 6 11 54.5 3 2 5 4 3 2 2 3 16
+p39
+aVEddie Gill IND 04/14/2006 IND vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p40
+aVAustin Croshere IND 04/14/2006 IND vs. MIN W 22 11 5 8 62.5 1 2 50.0 0 0 - 1 3 4 1 1 0 0 0 5
+p41
+aVStephen Jackson IND 04/12/2006 IND vs. BOS W 40 17 6 14 42.9 3 6 50.0 2 2 100.0 2 1 3 5 0 0 3 4 -8
+p42
+aVDanny Granger IND 04/12/2006 IND vs. BOS W 25 15 6 7 85.7 1 2 50.0 2 3 66.7 1 5 6 2 2 0 0 3 8
+p43
+aVAustin Croshere IND 04/12/2006 IND vs. BOS W 32 20 7 13 53.8 4 8 50.0 2 4 50.0 1 2 3 4 0 0 3 1 1
+p44
+aVJamaal Tinsley IND 04/12/2006 IND vs. BOS W 23 2 1 1 100.0 0 0 - 0 0 - 0 1 1 9 2 0 3 0 5
+p45
+aVScot Pollard IND 04/12/2006 IND vs. BOS W 6 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 1 0
+p46
+aVJermaine O'Neal IND 04/12/2006 IND vs. BOS W 42 21 7 20 35.0 0 0 - 7 9 77.8 5 10 15 7 0 2 0 2 0
+p47
+aVSarunas Jasikevicius IND 04/12/2006 IND vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p48
+aVAnthony Johnson IND 04/12/2006 IND vs. BOS W 25 12 5 8 62.5 2 3 66.7 0 0 - 0 3 3 3 3 0 0 1 0
+p49
+aVPeja Stojakovic IND 04/12/2006 IND vs. BOS W 35 25 9 13 69.2 3 4 75.0 4 5 80.0 2 5 7 1 2 0 4 3 13
+p50
+aVJeff Foster IND 04/12/2006 IND vs. BOS W 11 3 0 1 0.0 0 0 - 3 8 37.5 2 1 3 0 0 0 0 0 5
+p51
+aVPeja Stojakovic IND 04/10/2006 IND vs. NYK W 33 23 9 17 52.9 4 6 66.7 1 2 50.0 0 2 2 1 1 0 0 1 21
+p52
+aVScot Pollard IND 04/10/2006 IND vs. NYK W 13 4 1 1 100.0 0 0 - 2 2 100.0 1 4 5 0 1 2 1 4 -3
+p53
+aVAnthony Johnson IND 04/10/2006 IND vs. NYK W 34 6 3 8 37.5 0 2 0.0 0 0 - 1 2 3 6 3 0 2 3 11
+p54
+aVJermaine O'Neal IND 04/10/2006 IND vs. NYK W 30 10 1 7 14.3 0 0 - 8 8 100.0 1 4 5 3 1 4 3 4 8
+p55
+aVFred Jones IND 04/10/2006 IND vs. NYK W 11 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 3 1 0 0 0 -4
+p56
+aVDanny Granger IND 04/10/2006 IND vs. NYK W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p57
+aVSarunas Jasikevicius IND 04/10/2006 IND vs. NYK W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p58
+aVJamaal Tinsley IND 04/10/2006 IND vs. NYK W 25 6 2 5 40.0 0 1 0.0 2 2 100.0 1 2 3 7 3 0 1 2 20
+p59
+aVAustin Croshere IND 04/10/2006 IND vs. NYK W 23 17 7 10 70.0 3 6 50.0 0 0 - 3 8 11 3 0 0 2 2 9
+p60
+aVJeff Foster IND 04/10/2006 IND vs. NYK W 29 6 2 2 100.0 0 0 - 2 4 50.0 6 3 9 3 1 0 1 4 28
+p61
+aVStephen Jackson IND 04/10/2006 IND vs. NYK W 36 28 12 23 52.2 0 3 0.0 4 4 100.0 0 2 2 2 1 1 1 2 10
+p62
+aVAustin Croshere IND 04/09/2006 IND @ DET L 25 9 4 6 66.7 1 3 33.3 0 0 - 0 4 4 1 0 0 2 2 -12
+p63
+aVStephen Jackson IND 04/09/2006 IND @ DET L 31 15 4 12 33.3 0 2 0.0 7 8 87.5 1 0 1 1 2 0 2 1 -12
+p64
+aVAnthony Johnson IND 04/09/2006 IND @ DET L 23 4 2 7 28.6 0 1 0.0 0 0 - 1 4 5 2 1 0 3 2 -23
+p65
+aVEddie Gill IND 04/09/2006 IND @ DET L 4 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 1 0 5
+p66
+aVJermaine O'Neal IND 04/09/2006 IND @ DET L 34 12 6 12 50.0 0 0 - 0 0 - 0 5 5 2 1 2 6 3 -21
+p67
+aVDanny Granger IND 04/09/2006 IND @ DET L 15 3 0 3 0.0 0 1 0.0 3 6 50.0 0 0 0 0 3 1 1 3 -4
+p68
+aVJeff Foster IND 04/09/2006 IND @ DET L 26 1 0 3 0.0 0 0 - 1 2 50.0 4 4 8 2 2 0 0 3 -14
+p69
+aVPeja Stojakovic IND 04/09/2006 IND @ DET L 31 11 5 12 41.7 0 1 0.0 1 1 100.0 0 5 5 2 0 0 1 1 -26
+p70
+aVFred Jones IND 04/09/2006 IND @ DET L 26 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 1 0 2 2 -16
+p71
+aVSarunas Jasikevicius IND 04/09/2006 IND @ DET L 25 9 1 6 16.7 0 3 0.0 7 7 100.0 0 2 2 6 0 0 0 3 -2
+p72
+aVDanny Granger IND 04/07/2006 IND @ NYK L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 2 -8
+p73
+aVPeja Stojakovic IND 04/07/2006 IND @ NYK L 37 32 11 21 52.4 6 10 60.0 4 4 100.0 4 3 7 3 0 0 0 2 10
+p74
+aVFred Jones IND 04/07/2006 IND @ NYK L 16 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 1 1 2 4 -11
+p75
+aVStephen Jackson IND 04/07/2006 IND @ NYK L 40 17 6 15 40.0 2 6 33.3 3 4 75.0 1 2 3 2 2 0 3 4 3
+p76
+aVScot Pollard IND 04/07/2006 IND @ NYK L 16 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 2 2 1 2 -4
+p77
+aVJermaine O'Neal IND 04/07/2006 IND @ NYK L 40 25 11 20 55.0 0 0 - 3 4 75.0 0 5 5 2 0 4 2 3 4
+p78
+aVJeff Foster IND 04/07/2006 IND @ NYK L 32 2 1 1 100.0 0 0 - 0 0 - 1 7 8 1 2 0 0 2 -2
+p79
+aVAnthony Johnson IND 04/07/2006 IND @ NYK L 33 12 5 10 50.0 2 4 50.0 0 0 - 1 0 1 7 0 0 1 1 5
+p80
+aVSarunas Jasikevicius IND 04/07/2006 IND @ NYK L 15 3 1 5 20.0 1 3 33.3 0 0 - 1 2 3 4 0 0 3 3 -7
+p81
+aVJeff Foster IND 04/05/2006 IND vs. TOR W 30 9 3 5 60.0 0 0 - 3 5 60.0 3 9 12 0 2 1 1 2 14
+p82
+aVDavid Harrison IND 04/05/2006 IND vs. TOR W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -1
+p83
+aVJermaine O'Neal IND 04/05/2006 IND vs. TOR W 36 18 7 15 46.7 0 0 - 4 8 50.0 3 6 9 4 0 5 2 2 14
+p84
+aVPeja Stojakovic IND 04/05/2006 IND vs. TOR W 42 25 5 14 35.7 3 8 37.5 12 12 100.0 1 6 7 2 1 0 0 3 12
+p85
+aVSarunas Jasikevicius IND 04/05/2006 IND vs. TOR W 23 11 3 5 60.0 1 2 50.0 4 4 100.0 0 2 2 7 0 0 2 0 -14
+p86
+aVStephen Jackson IND 04/05/2006 IND vs. TOR W 40 25 8 20 40.0 2 5 40.0 7 8 87.5 1 5 6 2 1 0 2 5 10
+p87
+aVDanny Granger IND 04/05/2006 IND vs. TOR W 18 3 1 5 20.0 0 1 0.0 1 2 50.0 1 3 4 0 0 2 0 4 -2
+p88
+aVAustin Croshere IND 04/05/2006 IND vs. TOR W 8 4 1 4 25.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 0 2 -7
+p89
+aVAnthony Johnson IND 04/05/2006 IND vs. TOR W 36 16 5 14 35.7 3 6 50.0 3 4 75.0 0 3 3 5 1 1 0 0 14
+p90
+aVAnthony Johnson IND 04/04/2006 IND @ CHI L 27 10 3 4 75.0 0 1 0.0 4 4 100.0 1 1 2 6 3 1 2 0 1
+p91
+aVJamaal Tinsley IND 04/04/2006 IND @ CHI L 24 3 1 7 14.3 1 4 25.0 0 0 - 2 1 3 6 0 0 1 3 -4
+p92
+aVDavid Harrison IND 04/04/2006 IND @ CHI L 14 2 0 0 - 0 0 - 2 2 100.0 0 3 3 1 0 2 1 2 7
+p93
+aVStephen Jackson IND 04/04/2006 IND @ CHI L 37 22 9 17 52.9 2 4 50.0 2 2 100.0 1 0 1 2 0 1 2 2 -7
+p94
+aVJeff Foster IND 04/04/2006 IND @ CHI L 26 10 4 5 80.0 0 0 - 2 2 100.0 4 5 9 0 2 0 2 2 -4
+p95
+aVSarunas Jasikevicius IND 04/04/2006 IND @ CHI L 19 9 3 8 37.5 3 4 75.0 0 0 - 0 4 4 2 0 0 2 0 -2
+p96
+aVDanny Granger IND 04/04/2006 IND @ CHI L 24 14 5 9 55.6 2 5 40.0 2 2 100.0 0 1 1 1 1 0 2 2 -5
+p97
+aVPeja Stojakovic IND 04/04/2006 IND @ CHI L 29 13 5 14 35.7 1 5 20.0 2 3 66.7 1 5 6 0 0 0 1 4 -8
+p98
+aVJermaine O'Neal IND 04/04/2006 IND @ CHI L 34 13 4 12 33.3 0 0 - 5 8 62.5 4 4 8 3 0 0 2 3 -14
+p99
+aVAustin Croshere IND 04/04/2006 IND @ CHI L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 6
+p100
+aVAnthony Johnson IND 04/01/2006 IND @ MIL L 19 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 0 -5
+p101
+aVFred Jones IND 04/01/2006 IND @ MIL L 34 14 5 6 83.3 3 4 75.0 1 1 100.0 0 2 2 2 0 1 1 0 -12
+p102
+aVPeja Stojakovic IND 04/01/2006 IND @ MIL L 36 8 4 13 30.8 0 4 0.0 0 0 - 1 3 4 2 0 0 1 1 -10
+p103
+aVJamaal Tinsley IND 04/01/2006 IND @ MIL L 31 15 6 10 60.0 1 3 33.3 2 3 66.7 2 4 6 7 0 0 7 4 5
+p104
+aVDavid Harrison IND 04/01/2006 IND @ MIL L 16 4 1 3 33.3 0 0 - 2 4 50.0 0 3 3 0 1 2 1 3 4
+p105
+aVScot Pollard IND 04/01/2006 IND @ MIL L 6 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -2
+p106
+aVSarunas Jasikevicius IND 04/01/2006 IND @ MIL L 12 4 1 6 16.7 0 3 0.0 2 2 100.0 0 0 0 5 0 0 0 1 -2
+p107
+aVJeff Foster IND 04/01/2006 IND @ MIL L 23 4 2 3 66.7 0 0 - 0 0 - 3 8 11 0 0 0 1 4 -8
+p108
+aVJermaine O'Neal IND 04/01/2006 IND @ MIL L 38 27 11 16 68.8 0 0 - 5 6 83.3 0 9 9 5 1 4 4 4 -5
+p109
+aVDanny Granger IND 04/01/2006 IND @ MIL L 25 7 3 7 42.9 1 4 25.0 0 0 - 0 5 5 0 0 0 0 2 0
+p110
+aVAustin Croshere IND 03/30/2006 IND vs. PHX L 2 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 5
+p111
+aVAnthony Johnson IND 03/30/2006 IND vs. PHX L 16 8 3 7 42.9 0 0 - 2 4 50.0 1 0 1 4 3 0 3 0 -10
+p112
+aVFred Jones IND 03/30/2006 IND vs. PHX L 39 8 3 11 27.3 2 4 50.0 0 0 - 0 5 5 2 1 0 3 4 -11
+p113
+aVPeja Stojakovic IND 03/30/2006 IND vs. PHX L 36 25 8 18 44.4 3 6 50.0 6 6 100.0 0 7 7 1 1 0 1 1 -9
+p114
+aVSarunas Jasikevicius IND 03/30/2006 IND vs. PHX L 13 10 2 3 66.7 2 3 66.7 4 4 100.0 0 0 0 1 0 0 1 0 5
+p115
+aVJamaal Tinsley IND 03/30/2006 IND vs. PHX L 30 12 4 10 40.0 0 0 - 4 8 50.0 2 1 3 5 2 0 4 4 -5
+p116
+aVDanny Granger IND 03/30/2006 IND vs. PHX L 35 16 7 9 77.8 2 2 100.0 0 0 - 1 5 6 4 0 0 2 1 0
+p117
+aVScot Pollard IND 03/30/2006 IND vs. PHX L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -8
+p118
+aVStephen Jackson IND 03/30/2006 IND vs. PHX L 15 1 0 5 0.0 0 1 0.0 1 2 50.0 0 0 0 1 2 0 1 1 -7
+p119
+aVJeff Foster IND 03/30/2006 IND vs. PHX L 24 4 2 3 66.7 0 0 - 0 1 0.0 2 8 10 1 0 1 1 3 -15
+p120
+aVDavid Harrison IND 03/30/2006 IND vs. PHX L 23 11 4 7 57.1 0 0 - 3 3 100.0 2 5 7 0 0 0 1 1 0
+p121
+aVEddie Gill IND 03/30/2006 IND vs. PHX L 2 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 5
+p122
+aVFred Jones IND 03/29/2006 IND @ ATL L 29 12 5 12 41.7 2 5 40.0 0 0 - 1 2 3 6 0 1 0 1 8
+p123
+aVJamaal Tinsley IND 03/29/2006 IND @ ATL L 28 8 4 9 44.4 0 1 0.0 0 0 - 2 2 4 6 1 0 5 0 5
+p124
+aVScot Pollard IND 03/29/2006 IND @ ATL L 3 4 1 1 100.0 0 0 - 2 3 66.7 2 0 2 0 0 0 1 0 4
+p125
+aVAnthony Johnson IND 03/29/2006 IND @ ATL L 20 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 3 1 0 1 3 -6
+p126
+aVDanny Granger IND 03/29/2006 IND @ ATL L 17 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 0 0 1 0 5 -1
+p127
+aVJermaine O'Neal IND 03/29/2006 IND @ ATL L 31 13 4 12 33.3 0 0 - 5 8 62.5 1 6 7 2 0 3 3 4 2
+p128
+aVDavid Harrison IND 03/29/2006 IND @ ATL L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 2 1
+p129
+aVJeff Foster IND 03/29/2006 IND @ ATL L 32 6 3 4 75.0 0 0 - 0 0 - 3 8 11 2 1 2 3 3 -5
+p130
+aVStephen Jackson IND 03/29/2006 IND @ ATL L 32 11 4 13 30.8 0 5 0.0 3 3 100.0 0 1 1 3 0 0 0 3 -18
+p131
+aVPeja Stojakovic IND 03/29/2006 IND @ ATL L 36 31 12 19 63.2 7 10 70.0 0 0 - 2 4 6 1 1 0 0 0 5
+p132
+aVAnthony Johnson IND 03/27/2006 IND @ MIA L 29 8 3 7 42.9 0 1 0.0 2 2 100.0 1 1 2 2 0 0 0 2 -5
+p133
+aVDanny Granger IND 03/27/2006 IND @ MIA L 23 6 2 7 28.6 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 3 -3
+p134
+aVPeja Stojakovic IND 03/27/2006 IND @ MIA L 35 19 7 16 43.8 2 6 33.3 3 4 75.0 0 4 4 2 0 0 1 3 -3
+p135
+aVJermaine O'Neal IND 03/27/2006 IND @ MIA L 36 17 6 13 46.2 0 0 - 5 6 83.3 1 6 7 6 1 2 4 6 -7
+p136
+aVStephen Jackson IND 03/27/2006 IND @ MIA L 42 22 9 16 56.3 3 6 50.0 1 2 50.0 0 1 1 2 3 1 3 2 -1
+p137
+aVJamaal Tinsley IND 03/27/2006 IND @ MIA L 33 10 4 17 23.5 0 4 0.0 2 4 50.0 1 4 5 5 0 0 2 1 -3
+p138
+aVScot Pollard IND 03/27/2006 IND @ MIA L 27 6 3 3 100.0 0 0 - 0 0 - 3 4 7 0 2 1 1 4 -13
+p139
+aVSarunas Jasikevicius IND 03/27/2006 IND @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p140
+aVJeff Foster IND 03/27/2006 IND @ MIA L 14 3 0 0 - 0 0 - 3 4 75.0 2 4 6 1 0 0 0 2 8
+p141
+aVEddie Gill IND 03/26/2006 IND vs. PHI W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p142
+aVDavid Harrison IND 03/26/2006 IND vs. PHI W 14 4 1 3 33.3 0 0 - 2 3 66.7 1 0 1 0 2 1 0 3 1
+p143
+aVAnthony Johnson IND 03/26/2006 IND vs. PHI W 28 9 2 6 33.3 2 4 50.0 3 4 75.0 2 2 4 3 1 1 7 3 5
+p144
+aVJamaal Tinsley IND 03/26/2006 IND vs. PHI W 35 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 14 3 1 4 2 17
+p145
+aVJeff Foster IND 03/26/2006 IND vs. PHI W 26 3 1 3 33.3 0 0 - 1 2 50.0 5 9 14 1 3 0 1 3 6
+p146
+aVStephen Jackson IND 03/26/2006 IND vs. PHI W 39 23 8 13 61.5 2 3 66.7 5 6 83.3 0 0 0 3 2 0 5 2 12
+p147
+aVPeja Stojakovic IND 03/26/2006 IND vs. PHI W 36 18 7 16 43.8 1 8 12.5 3 3 100.0 0 6 6 4 0 0 3 2 14
+p148
+aVDanny Granger IND 03/26/2006 IND vs. PHI W 32 17 7 10 70.0 3 4 75.0 0 0 - 3 9 12 1 0 0 1 3 5
+p149
+aVJermaine O'Neal IND 03/26/2006 IND vs. PHI W 27 11 5 11 45.5 0 0 - 1 2 50.0 1 8 9 2 2 1 4 4 9
+p150
+aVDanny Granger IND 03/24/2006 IND vs. DET L 25 7 3 6 50.0 1 3 33.3 0 0 - 1 5 6 1 1 1 1 3 9
+p151
+aVJamaal Tinsley IND 03/24/2006 IND vs. DET L 26 9 3 8 37.5 0 1 0.0 3 4 75.0 0 1 1 5 1 0 3 3 -3
+p152
+aVDavid Harrison IND 03/24/2006 IND vs. DET L 24 14 7 12 58.3 0 0 - 0 0 - 1 4 5 0 0 2 2 2 8
+p153
+aVPeja Stojakovic IND 03/24/2006 IND vs. DET L 41 12 6 14 42.9 0 4 0.0 0 0 - 1 7 8 2 0 2 1 0 -5
+p154
+aVJeff Foster IND 03/24/2006 IND vs. DET L 23 3 1 3 33.3 0 0 - 1 2 50.0 3 6 9 1 0 0 1 1 -9
+p155
+aVJermaine O'Neal IND 03/24/2006 IND vs. DET L 28 8 3 9 33.3 0 0 - 2 4 50.0 1 6 7 2 0 1 4 4 -10
+p156
+aVStephen Jackson IND 03/24/2006 IND vs. DET L 43 13 4 11 36.4 2 5 40.0 3 4 75.0 1 5 6 3 1 0 4 1 -4
+p157
+aVAnthony Johnson IND 03/24/2006 IND vs. DET L 30 6 3 9 33.3 0 0 - 0 0 - 0 1 1 2 1 0 0 2 -1
+p158
+aVFred Jones IND 03/22/2006 IND vs. CHI W 19 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 3 0 1 2 2
+p159
+aVEddie Gill IND 03/22/2006 IND vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p160
+aVDavid Harrison IND 03/22/2006 IND vs. CHI W 17 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 1 0 3 11
+p161
+aVJamaal Tinsley IND 03/22/2006 IND vs. CHI W 24 8 3 7 42.9 0 2 0.0 2 2 100.0 1 3 4 4 1 0 4 2 12
+p162
+aVDanny Granger IND 03/22/2006 IND vs. CHI W 24 12 3 5 60.0 1 1 100.0 5 7 71.4 2 3 5 1 0 3 0 1 5
+p163
+aVPeja Stojakovic IND 03/22/2006 IND vs. CHI W 31 11 5 14 35.7 0 3 0.0 1 1 100.0 1 3 4 2 1 0 2 4 7
+p164
+aVJermaine O'Neal IND 03/22/2006 IND vs. CHI W 25 16 5 13 38.5 0 1 0.0 6 12 50.0 0 6 6 0 0 0 1 2 -8
+p165
+aVStephen Jackson IND 03/22/2006 IND vs. CHI W 39 24 7 18 38.9 1 4 25.0 9 11 81.8 0 6 6 4 1 3 1 4 8
+p166
+aVAnthony Johnson IND 03/22/2006 IND vs. CHI W 30 15 6 10 60.0 1 3 33.3 2 2 100.0 0 2 2 7 1 0 2 1 6
+p167
+aVJeff Foster IND 03/22/2006 IND vs. CHI W 30 5 2 4 50.0 0 0 - 1 2 50.0 3 11 14 1 1 0 1 4 12
+p168
+aVStephen Jackson IND 03/21/2006 IND @ MEM L 31 9 3 11 27.3 2 4 50.0 1 2 50.0 0 2 2 2 0 1 2 0 -32
+p169
+aVJeff Foster IND 03/21/2006 IND @ MEM L 23 15 7 10 70.0 0 0 - 1 1 100.0 6 3 9 0 1 1 3 4 -16
+p170
+aVAnthony Johnson IND 03/21/2006 IND @ MEM L 27 15 7 13 53.8 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -15
+p171
+aVScot Pollard IND 03/21/2006 IND @ MEM L 20 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 -11
+p172
+aVDanny Granger IND 03/21/2006 IND @ MEM L 17 0 0 5 0.0 0 1 0.0 0 0 - 1 1 2 2 0 2 1 3 -13
+p173
+aVSarunas Jasikevicius IND 03/21/2006 IND @ MEM L 21 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 3 0 0 2 0 -15
+p174
+aVPeja Stojakovic IND 03/21/2006 IND @ MEM L 38 13 5 13 38.5 1 3 33.3 2 2 100.0 0 11 11 3 0 0 1 2 -11
+p175
+aVDavid Harrison IND 03/21/2006 IND @ MEM L 25 13 4 11 36.4 0 0 - 5 6 83.3 6 5 11 0 1 2 1 4 -14
+p176
+aVEddie Gill IND 03/21/2006 IND @ MEM L 9 4 1 5 20.0 1 3 33.3 1 2 50.0 0 1 1 0 2 0 0 0 -1
+p177
+aVFred Jones IND 03/21/2006 IND @ MEM L 29 0 0 7 0.0 0 4 0.0 0 0 - 0 2 2 1 0 1 2 4 -22
+p178
+aVFred Jones IND 03/19/2006 IND vs. BOS L 27 9 2 3 66.7 1 1 100.0 4 6 66.7 1 0 1 2 3 0 2 2 -11
+p179
+aVDanny Granger IND 03/19/2006 IND vs. BOS L 32 14 7 13 53.8 0 3 0.0 0 1 0.0 0 6 6 3 1 1 1 5 -10
+p180
+aVDavid Harrison IND 03/19/2006 IND vs. BOS L 27 4 0 5 0.0 0 0 - 4 6 66.7 1 7 8 0 1 1 2 4 -12
+p181
+aVJamaal Tinsley IND 03/19/2006 IND vs. BOS L 20 7 2 12 16.7 1 4 25.0 2 2 100.0 2 0 2 2 0 0 1 1 -5
+p182
+aVAnthony Johnson IND 03/19/2006 IND vs. BOS L 28 12 5 10 50.0 0 2 0.0 2 2 100.0 0 2 2 8 1 0 1 3 -10
+p183
+aVJeff Foster IND 03/19/2006 IND vs. BOS L 30 13 4 9 44.4 0 0 - 5 6 83.3 6 6 12 1 0 0 2 3 -1
+p184
+aVPeja Stojakovic IND 03/19/2006 IND vs. BOS L 36 16 6 12 50.0 3 7 42.9 1 3 33.3 2 4 6 3 0 0 0 0 -13
+p185
+aVStephen Jackson IND 03/19/2006 IND vs. BOS L 40 13 6 17 35.3 0 2 0.0 1 2 50.0 3 2 5 2 0 1 3 1 -13
+p186
+aVJeff Foster IND 03/17/2006 IND vs. SAC W 39 7 3 7 42.9 0 0 - 1 1 100.0 6 10 16 2 0 0 0 2 12
+p187
+aVPeja Stojakovic IND 03/17/2006 IND vs. SAC W 40 20 8 13 61.5 1 2 50.0 3 4 75.0 4 8 12 2 1 1 0 1 -1
+p188
+aVAnthony Johnson IND 03/17/2006 IND vs. SAC W 22 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 9 2 0 0 1 -1
+p189
+aVDanny Granger IND 03/17/2006 IND vs. SAC W 39 23 10 17 58.8 1 2 50.0 2 2 100.0 2 5 7 2 2 2 1 2 2
+p190
+aVStephen Jackson IND 03/17/2006 IND vs. SAC W 39 15 7 16 43.8 1 2 50.0 0 0 - 0 8 8 4 1 1 4 1 13
+p191
+aVDavid Harrison IND 03/17/2006 IND vs. SAC W 17 4 1 9 11.1 0 0 - 2 4 50.0 2 1 3 1 0 0 2 3 -2
+p192
+aVJamaal Tinsley IND 03/17/2006 IND vs. SAC W 27 20 9 17 52.9 0 1 0.0 2 2 100.0 0 2 2 6 2 0 1 1 4
+p193
+aVFred Jones IND 03/17/2006 IND vs. SAC W 17 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 1 0 1 1 2 -2
+p194
+aVPeja Stojakovic IND 03/15/2006 IND vs. DEN L 34 22 8 17 47.1 2 4 50.0 4 5 80.0 0 2 2 2 3 0 1 4 -2
+p195
+aVJeff Foster IND 03/15/2006 IND vs. DEN L 31 13 6 8 75.0 0 0 - 1 2 50.0 7 7 14 2 1 2 0 5 -6
+p196
+aVJamaal Tinsley IND 03/15/2006 IND vs. DEN L 25 7 3 12 25.0 0 2 0.0 1 2 50.0 1 1 2 4 1 0 0 2 -4
+p197
+aVDavid Harrison IND 03/15/2006 IND vs. DEN L 26 8 3 4 75.0 0 0 - 2 5 40.0 2 5 7 1 1 1 0 4 8
+p198
+aVFred Jones IND 03/15/2006 IND vs. DEN L 24 3 1 5 20.0 0 1 0.0 1 2 50.0 0 3 3 4 2 1 2 1 -2
+p199
+aVAustin Croshere IND 03/15/2006 IND vs. DEN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -9
+p200
+aVSarunas Jasikevicius IND 03/15/2006 IND vs. DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p201
+aVDanny Granger IND 03/15/2006 IND vs. DEN L 34 13 5 8 62.5 0 0 - 3 4 75.0 4 5 9 1 1 0 2 4 3
+p202
+aVAnthony Johnson IND 03/15/2006 IND vs. DEN L 23 12 5 10 50.0 2 4 50.0 0 0 - 0 0 0 1 0 1 3 0 2
+p203
+aVStephen Jackson IND 03/15/2006 IND vs. DEN L 37 21 6 21 28.6 0 6 0.0 9 13 69.2 1 6 7 3 1 0 1 0 0
+p204
+aVJamaal Tinsley IND 03/13/2006 IND vs. ORL W 24 12 3 11 27.3 0 1 0.0 6 6 100.0 0 2 2 7 1 0 2 4 23
+p205
+aVDavid Harrison IND 03/13/2006 IND vs. ORL W 25 14 6 10 60.0 0 0 - 2 6 33.3 3 4 7 1 2 1 2 3 12
+p206
+aVAnthony Johnson IND 03/13/2006 IND vs. ORL W 31 21 7 11 63.6 2 4 50.0 5 6 83.3 0 4 4 2 0 0 2 2 2
+p207
+aVPeja Stojakovic IND 03/13/2006 IND vs. ORL W 35 14 4 11 36.4 2 5 40.0 4 4 100.0 1 2 3 2 1 0 2 1 11
+p208
+aVJeff Foster IND 03/13/2006 IND vs. ORL W 26 2 1 2 50.0 0 0 - 0 0 - 3 7 10 0 2 3 0 3 1
+p209
+aVStephen Jackson IND 03/13/2006 IND vs. ORL W 28 3 1 8 12.5 0 2 0.0 1 2 50.0 0 0 0 3 1 1 2 1 -5
+p210
+aVEddie Gill IND 03/13/2006 IND vs. ORL W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p211
+aVScot Pollard IND 03/13/2006 IND vs. ORL W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 2 3 -10
+p212
+aVDanny Granger IND 03/13/2006 IND vs. ORL W 30 21 9 12 75.0 0 0 - 3 4 75.0 2 10 12 1 1 0 0 1 25
+p213
+aVFred Jones IND 03/13/2006 IND vs. ORL W 25 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 1 1 0 0 1 9
+p214
+aVStephen Jackson IND 03/12/2006 IND @ TOR L 37 26 10 23 43.5 2 9 22.2 4 4 100.0 1 3 4 5 0 1 4 1 -9
+p215
+aVPeja Stojakovic IND 03/12/2006 IND @ TOR L 42 18 7 16 43.8 2 8 25.0 2 2 100.0 1 7 8 2 0 0 3 2 1
+p216
+aVJeff Foster IND 03/12/2006 IND @ TOR L 37 19 8 10 80.0 0 0 - 3 5 60.0 9 7 16 1 0 0 1 3 -3
+p217
+aVAnthony Johnson IND 03/12/2006 IND @ TOR L 28 10 4 9 44.4 1 2 50.0 1 2 50.0 1 3 4 6 0 0 1 2 5
+p218
+aVJamaal Tinsley IND 03/12/2006 IND @ TOR L 24 8 4 8 50.0 0 2 0.0 0 0 - 1 0 1 3 1 0 1 1 -5
+p219
+aVDavid Harrison IND 03/12/2006 IND @ TOR L 18 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 2 2 3 5 1
+p220
+aVDanny Granger IND 03/12/2006 IND @ TOR L 36 2 1 4 25.0 0 1 0.0 0 0 - 0 6 6 2 1 1 4 4 -4
+p221
+aVSarunas Jasikevicius IND 03/12/2006 IND @ TOR L 18 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 1 0 0 2 0 -6
+p222
+aVJeff Foster IND 03/10/2006 IND @ NOK W 33 4 1 5 20.0 0 0 - 2 3 66.7 7 5 12 1 0 2 3 5 7
+p223
+aVScot Pollard IND 03/10/2006 IND @ NOK W 25 9 4 4 100.0 0 0 - 1 1 100.0 3 6 9 0 0 2 0 5 -5
+p224
+aVAnthony Johnson IND 03/10/2006 IND @ NOK W 32 12 5 11 45.5 0 1 0.0 2 2 100.0 0 2 2 3 1 0 1 2 -2
+p225
+aVDanny Granger IND 03/10/2006 IND @ NOK W 20 9 2 6 33.3 0 1 0.0 5 5 100.0 3 2 5 2 1 0 2 1 1
+p226
+aVJamaal Tinsley IND 03/10/2006 IND @ NOK W 21 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 2
+p227
+aVPeja Stojakovic IND 03/10/2006 IND @ NOK W 40 26 9 19 47.4 2 6 33.3 6 6 100.0 0 5 5 1 1 0 3 3 5
+p228
+aVDavid Harrison IND 03/10/2006 IND @ NOK W 11 2 0 4 0.0 0 0 - 2 4 50.0 2 2 4 0 0 1 0 5 1
+p229
+aVStephen Jackson IND 03/10/2006 IND @ NOK W 40 21 9 24 37.5 1 4 25.0 2 2 100.0 2 4 6 4 1 1 1 3 -1
+p230
+aVSarunas Jasikevicius IND 03/10/2006 IND @ NOK W 18 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 0 0 1 2 2
+p231
+aVSarunas Jasikevicius IND 03/08/2006 IND @ HOU L 21 6 2 6 33.3 2 5 40.0 0 0 - 0 2 2 2 0 0 0 1 -10
+p232
+aVPeja Stojakovic IND 03/08/2006 IND @ HOU L 40 29 8 17 47.1 0 3 0.0 13 13 100.0 0 9 9 5 0 0 0 2 1
+p233
+aVStephen Jackson IND 03/08/2006 IND @ HOU L 41 23 8 20 40.0 4 7 57.1 3 4 75.0 0 1 1 3 4 0 2 2 -7
+p234
+aVJeff Foster IND 03/08/2006 IND @ HOU L 37 1 0 7 0.0 0 0 - 1 4 25.0 10 6 16 1 2 0 2 5 -3
+p235
+aVDavid Harrison IND 03/08/2006 IND @ HOU L 23 15 6 8 75.0 0 0 - 3 3 100.0 3 1 4 1 0 1 1 5 2
+p236
+aVJamaal Tinsley IND 03/08/2006 IND @ HOU L 18 7 2 6 33.3 1 3 33.3 2 2 100.0 0 3 3 3 0 0 1 1 -3
+p237
+aVScot Pollard IND 03/08/2006 IND @ HOU L 30 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 4 1 0 4 1
+p238
+aVAnthony Johnson IND 03/08/2006 IND @ HOU L 30 14 6 16 37.5 0 3 0.0 2 2 100.0 2 2 4 3 0 1 3 2 -1
+p239
+aVScot Pollard IND 03/07/2006 IND vs. NYK L 19 5 2 7 28.6 0 0 - 1 2 50.0 4 5 9 0 2 0 1 3 3
+p240
+aVDavid Harrison IND 03/07/2006 IND vs. NYK L 21 11 2 4 50.0 0 0 - 7 10 70.0 3 4 7 1 0 1 1 4 -4
+p241
+aVPeja Stojakovic IND 03/07/2006 IND vs. NYK L 34 20 6 15 40.0 2 5 40.0 6 7 85.7 0 3 3 0 1 1 0 4 -4
+p242
+aVDanny Granger IND 03/07/2006 IND vs. NYK L 23 6 3 8 37.5 0 1 0.0 0 0 - 2 2 4 2 1 2 2 4 -21
+p243
+aVFred Jones IND 03/07/2006 IND vs. NYK L 22 0 0 8 0.0 0 3 0.0 0 2 0.0 0 3 3 2 2 0 1 3 -15
+p244
+aVStephen Jackson IND 03/07/2006 IND vs. NYK L 36 20 7 16 43.8 1 5 20.0 5 5 100.0 0 2 2 1 2 2 3 1 -10
+p245
+aVJamaal Tinsley IND 03/07/2006 IND vs. NYK L 9 6 2 3 66.7 1 1 100.0 1 2 50.0 0 0 0 1 0 0 1 2 -1
+p246
+aVSarunas Jasikevicius IND 03/07/2006 IND vs. NYK L 17 5 2 6 33.3 1 5 20.0 0 0 - 1 1 2 1 0 0 0 3 -4
+p247
+aVJeff Foster IND 03/07/2006 IND vs. NYK L 25 4 1 2 50.0 0 1 0.0 2 2 100.0 2 2 4 2 2 0 1 1 -1
+p248
+aVAnthony Johnson IND 03/07/2006 IND vs. NYK L 30 10 3 12 25.0 2 4 50.0 2 2 100.0 0 1 1 6 1 0 0 2 -6
+p249
+aVEddie Gill IND 03/07/2006 IND vs. NYK L 4 5 1 1 100.0 1 1 100.0 2 4 50.0 0 0 0 1 0 0 0 0 3
+p250
+aVScot Pollard IND 03/05/2006 IND @ PHI W 24 6 3 5 60.0 0 0 - 0 0 - 1 4 5 2 1 0 1 3 4
+p251
+aVJeff Foster IND 03/05/2006 IND @ PHI W 15 4 2 2 100.0 0 0 - 0 0 - 0 8 8 1 0 0 2 4 8
+p252
+aVPeja Stojakovic IND 03/05/2006 IND @ PHI W 32 13 4 10 40.0 1 3 33.3 4 5 80.0 3 4 7 2 0 0 1 1 8
+p253
+aVDanny Granger IND 03/05/2006 IND @ PHI W 19 4 2 6 33.3 0 2 0.0 0 0 - 0 5 5 1 0 1 0 6 -1
+p254
+aVAnthony Johnson IND 03/05/2006 IND @ PHI W 31 18 9 14 64.3 0 0 - 0 0 - 0 3 3 4 3 0 3 1 6
+p255
+aVSarunas Jasikevicius IND 03/05/2006 IND @ PHI W 17 12 4 5 80.0 3 4 75.0 1 1 100.0 0 1 1 2 1 0 3 2 -3
+p256
+aVStephen Jackson IND 03/05/2006 IND @ PHI W 40 15 5 20 25.0 1 6 16.7 4 4 100.0 1 4 5 7 3 1 2 1 -2
+p257
+aVFred Jones IND 03/05/2006 IND @ PHI W 31 9 4 13 30.8 1 5 20.0 0 0 - 1 1 2 5 1 0 3 0 -6
+p258
+aVDavid Harrison IND 03/05/2006 IND @ PHI W 31 13 5 5 100.0 0 0 - 3 6 50.0 1 2 3 0 0 2 2 4 -9
+p259
+aVPeja Stojakovic IND 03/03/2006 IND @ BOS L 37 24 8 12 66.7 3 6 50.0 5 5 100.0 0 4 4 0 0 0 4 2 0
+p260
+aVJeff Foster IND 03/03/2006 IND @ BOS L 29 6 3 3 100.0 0 0 - 0 0 - 0 7 7 2 0 0 1 4 7
+p261
+aVDavid Harrison IND 03/03/2006 IND @ BOS L 15 10 4 5 80.0 0 0 - 2 5 40.0 1 1 2 0 0 0 1 4 -11
+p262
+aVDanny Granger IND 03/03/2006 IND @ BOS L 24 4 2 6 33.3 0 0 - 0 0 - 0 6 6 2 0 0 0 2 -3
+p263
+aVScot Pollard IND 03/03/2006 IND @ BOS L 18 5 2 5 40.0 0 0 - 1 1 100.0 0 3 3 2 0 1 0 0 1
+p264
+aVFred Jones IND 03/03/2006 IND @ BOS L 31 16 7 12 58.3 2 5 40.0 0 1 0.0 0 2 2 2 0 2 3 2 3
+p265
+aVSarunas Jasikevicius IND 03/03/2006 IND @ BOS L 15 4 1 4 25.0 0 3 0.0 2 2 100.0 0 0 0 2 1 0 1 2 -6
+p266
+aVStephen Jackson IND 03/03/2006 IND @ BOS L 38 20 6 12 50.0 3 4 75.0 5 6 83.3 0 5 5 7 1 1 4 4 -1
+p267
+aVAnthony Johnson IND 03/03/2006 IND @ BOS L 33 9 2 9 22.2 0 4 0.0 5 5 100.0 0 1 1 7 0 1 1 2 5
+p268
+aVFred Jones IND 03/01/2006 IND @ WAS W 32 14 4 14 28.6 0 3 0.0 6 6 100.0 0 6 6 3 2 0 1 3 5
+p269
+aVJeff Foster IND 03/01/2006 IND @ WAS W 24 6 2 4 50.0 0 0 - 2 2 100.0 6 7 13 2 1 0 3 3 0
+p270
+aVScot Pollard IND 03/01/2006 IND @ WAS W 20 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 1 1 0 1 6
+p271
+aVDanny Granger IND 03/01/2006 IND @ WAS W 19 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 0 1 0 0 2 -3
+p272
+aVPeja Stojakovic IND 03/01/2006 IND @ WAS W 38 19 5 16 31.3 0 4 0.0 9 9 100.0 3 6 9 1 0 0 2 5 11
+p273
+aVDavid Harrison IND 03/01/2006 IND @ WAS W 22 12 4 4 100.0 0 0 - 4 4 100.0 4 5 9 0 0 3 3 4 1
+p274
+aVEddie Gill IND 03/01/2006 IND @ WAS W 9 0 0 6 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p275
+aVStephen Jackson IND 03/01/2006 IND @ WAS W 37 26 10 19 52.6 3 6 50.0 3 3 100.0 0 6 6 2 2 0 3 4 6
+p276
+aVSarunas Jasikevicius IND 03/01/2006 IND @ WAS W 39 14 5 8 62.5 2 2 100.0 2 2 100.0 0 0 0 11 0 0 2 2 6
+p277
+aVScot Pollard IND 02/26/2006 IND @ NJN W 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 6
+p278
+aVEddie Gill IND 02/26/2006 IND @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p279
+aVPeja Stojakovic IND 02/26/2006 IND @ NJN W 38 22 7 15 46.7 4 5 80.0 4 4 100.0 2 3 5 2 1 1 1 2 12
+p280
+aVJeff Foster IND 02/26/2006 IND @ NJN W 28 6 1 4 25.0 0 0 - 4 6 66.7 4 12 16 0 0 0 3 3 4
+p281
+aVAnthony Johnson IND 02/26/2006 IND @ NJN W 31 13 6 9 66.7 0 2 0.0 1 2 50.0 0 2 2 10 0 0 2 1 15
+p282
+aVFred Jones IND 02/26/2006 IND @ NJN W 30 22 9 16 56.3 2 4 50.0 2 2 100.0 1 6 7 0 0 0 1 1 11
+p283
+aVDanny Granger IND 02/26/2006 IND @ NJN W 29 13 4 6 66.7 0 0 - 5 5 100.0 1 1 2 1 2 1 1 4 10
+p284
+aVDavid Harrison IND 02/26/2006 IND @ NJN W 22 12 5 9 55.6 0 0 - 2 7 28.6 3 5 8 1 2 2 1 4 3
+p285
+aVStephen Jackson IND 02/26/2006 IND @ NJN W 30 12 3 11 27.3 0 4 0.0 6 6 100.0 0 2 2 4 1 0 0 1 -4
+p286
+aVSarunas Jasikevicius IND 02/26/2006 IND @ NJN W 17 1 0 2 0.0 0 2 0.0 1 1 100.0 0 2 2 3 0 0 4 1 -5
+p287
+aVEddie Gill IND 02/24/2006 IND vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p288
+aVDanny Granger IND 02/24/2006 IND vs. ATL L 31 6 1 9 11.1 0 1 0.0 4 6 66.7 7 2 9 2 0 0 3 4 -5
+p289
+aVFred Jones IND 02/24/2006 IND vs. ATL L 42 31 10 14 71.4 1 2 50.0 10 15 66.7 1 1 2 2 1 0 3 6 -1
+p290
+aVAnthony Johnson IND 02/24/2006 IND vs. ATL L 43 18 8 15 53.3 2 5 40.0 0 0 - 0 3 3 7 4 0 5 4 -4
+p291
+aVScot Pollard IND 02/24/2006 IND vs. ATL L 23 4 2 4 50.0 0 0 - 0 0 - 3 2 5 1 0 0 1 3 -14
+p292
+aVStephen Jackson IND 02/24/2006 IND vs. ATL L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 4 0 1 4 0 0
+p293
+aVSarunas Jasikevicius IND 02/24/2006 IND vs. ATL L 23 6 1 7 14.3 0 4 0.0 4 4 100.0 0 0 0 1 0 0 0 2 -2
+p294
+aVJeff Foster IND 02/24/2006 IND vs. ATL L 40 11 3 4 75.0 0 0 - 5 7 71.4 3 11 14 2 0 2 4 5 2
+p295
+aVPeja Stojakovic IND 02/24/2006 IND vs. ATL L 45 34 11 22 50.0 5 8 62.5 7 9 77.8 3 5 8 0 1 0 0 3 -1
+p296
+aVDanny Granger IND 02/23/2006 IND @ DET L 19 11 5 7 71.4 1 1 100.0 0 0 - 3 0 3 0 1 0 1 0 11
+p297
+aVScot Pollard IND 02/23/2006 IND @ DET L 27 5 2 7 28.6 0 0 - 1 2 50.0 6 5 11 2 0 0 2 3 -16
+p298
+aVAnthony Johnson IND 02/23/2006 IND @ DET L 27 12 5 12 41.7 1 3 33.3 1 2 50.0 1 1 2 6 2 0 1 3 -8
+p299
+aVEddie Gill IND 02/23/2006 IND @ DET L 4 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 2 0 1 1 10
+p300
+aVSarunas Jasikevicius IND 02/23/2006 IND @ DET L 21 9 4 8 50.0 1 2 50.0 0 0 - 1 3 4 4 1 0 2 2 3
+p301
+aVDavid Harrison IND 02/23/2006 IND @ DET L 21 3 1 3 33.3 0 0 - 1 1 100.0 1 3 4 0 0 0 4 3 11
+p302
+aVPeja Stojakovic IND 02/23/2006 IND @ DET L 34 14 4 10 40.0 3 3 100.0 3 3 100.0 0 3 3 0 1 0 3 4 -12
+p303
+aVJeff Foster IND 02/23/2006 IND @ DET L 29 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 1 1 1 -16
+p304
+aVStephen Jackson IND 02/23/2006 IND @ DET L 35 15 6 18 33.3 1 5 20.0 2 4 50.0 1 4 5 2 2 0 3 1 -15
+p305
+aVFred Jones IND 02/23/2006 IND @ DET L 23 9 3 10 30.0 1 2 50.0 2 2 100.0 1 5 6 1 1 0 3 2 7
+p306
+aVScot Pollard IND 02/21/2006 IND vs. NOK W 25 2 1 5 20.0 0 0 - 0 0 - 3 6 9 1 1 0 0 2 15
+p307
+aVSarunas Jasikevicius IND 02/21/2006 IND vs. NOK W 22 10 4 10 40.0 2 6 33.3 0 0 - 0 1 1 3 0 0 2 2 11
+p308
+aVEddie Gill IND 02/21/2006 IND vs. NOK W 4 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p309
+aVFred Jones IND 02/21/2006 IND vs. NOK W 27 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 4 0 0 3 2 12
+p310
+aVStephen Jackson IND 02/21/2006 IND vs. NOK W 32 11 5 16 31.3 1 6 16.7 0 0 - 2 4 6 6 3 2 3 1 11
+p311
+aVPeja Stojakovic IND 02/21/2006 IND vs. NOK W 35 16 6 14 42.9 1 3 33.3 3 3 100.0 0 9 9 1 0 0 0 3 21
+p312
+aVJeff Foster IND 02/21/2006 IND vs. NOK W 22 3 1 1 100.0 0 0 - 1 4 25.0 1 4 5 0 0 1 0 2 11
+p313
+aVAnthony Johnson IND 02/21/2006 IND vs. NOK W 25 19 9 16 56.3 1 2 50.0 0 0 - 0 1 1 4 3 0 2 3 13
+p314
+aVDanny Granger IND 02/21/2006 IND vs. NOK W 31 22 8 9 88.9 0 0 - 6 8 75.0 6 5 11 3 3 1 0 2 11
+p315
+aVDavid Harrison IND 02/21/2006 IND vs. NOK W 19 8 3 5 60.0 0 0 - 2 4 50.0 4 2 6 0 1 1 2 4 7
+p316
+aVDavid Harrison IND 02/15/2006 IND vs. MIL W 21 16 5 6 83.3 0 0 - 6 9 66.7 0 6 6 1 1 2 0 3 8
+p317
+aVStephen Jackson IND 02/15/2006 IND vs. MIL W 32 3 1 6 16.7 0 0 - 1 1 100.0 0 3 3 2 0 1 5 4 4
+p318
+aVScot Pollard IND 02/15/2006 IND vs. MIL W 23 2 1 5 20.0 0 0 - 0 0 - 1 4 5 1 0 1 0 1 2
+p319
+aVFred Jones IND 02/15/2006 IND vs. MIL W 24 5 1 8 12.5 0 2 0.0 3 4 75.0 0 0 0 2 1 0 2 2 14
+p320
+aVAnthony Johnson IND 02/15/2006 IND vs. MIL W 31 24 9 18 50.0 2 4 50.0 4 6 66.7 0 3 3 5 1 1 4 2 2
+p321
+aVPeja Stojakovic IND 02/15/2006 IND vs. MIL W 32 20 8 17 47.1 3 7 42.9 1 1 100.0 3 4 7 1 3 0 3 1 3
+p322
+aVDanny Granger IND 02/15/2006 IND vs. MIL W 18 7 3 7 42.9 0 1 0.0 1 2 50.0 1 4 5 3 1 2 0 4 5
+p323
+aVEddie Gill IND 02/15/2006 IND vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p324
+aVJeff Foster IND 02/15/2006 IND vs. MIL W 32 7 3 7 42.9 0 0 - 1 4 25.0 10 8 18 3 1 1 1 3 9
+p325
+aVSarunas Jasikevicius IND 02/15/2006 IND vs. MIL W 26 4 1 4 25.0 0 1 0.0 2 2 100.0 0 4 4 6 2 0 5 3 8
+p326
+aVDanny Granger IND 02/12/2006 IND vs. SAS L 15 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 1 1 0 3 1 6
+p327
+aVStephen Jackson IND 02/12/2006 IND vs. SAS L 35 17 4 13 30.8 1 4 25.0 8 8 100.0 0 5 5 5 1 0 2 2 -16
+p328
+aVJeff Foster IND 02/12/2006 IND vs. SAS L 33 8 4 6 66.7 0 0 - 0 2 0.0 4 4 8 2 0 0 2 3 -9
+p329
+aVSarunas Jasikevicius IND 02/12/2006 IND vs. SAS L 18 10 4 8 50.0 2 2 100.0 0 0 - 0 2 2 2 0 0 1 1 2
+p330
+aVAnthony Johnson IND 02/12/2006 IND vs. SAS L 30 9 4 9 44.4 1 3 33.3 0 0 - 1 4 5 5 1 0 2 1 -6
+p331
+aVPeja Stojakovic IND 02/12/2006 IND vs. SAS L 35 16 7 13 53.8 2 5 40.0 0 0 - 1 7 8 1 0 0 0 1 -4
+p332
+aVScot Pollard IND 02/12/2006 IND vs. SAS L 32 9 3 7 42.9 0 0 - 3 4 75.0 3 4 7 1 3 2 2 6 -7
+p333
+aVFred Jones IND 02/12/2006 IND vs. SAS L 26 12 5 11 45.5 1 3 33.3 1 2 50.0 0 2 2 4 2 1 4 5 11
+p334
+aVDavid Harrison IND 02/12/2006 IND vs. SAS L 16 5 2 4 50.0 0 0 - 1 3 33.3 0 3 3 0 0 2 0 1 3
+p335
+aVAnthony Johnson IND 02/10/2006 IND vs. GSW W 35 23 10 14 71.4 3 4 75.0 0 0 - 0 3 3 6 2 1 2 3 21
+p336
+aVJeff Foster IND 02/10/2006 IND vs. GSW W 30 9 2 4 50.0 0 0 - 5 8 62.5 2 6 8 0 2 0 3 3 25
+p337
+aVDanny Granger IND 02/10/2006 IND vs. GSW W 20 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 1 0 1 1 -23
+p338
+aVEddie Gill IND 02/10/2006 IND vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p339
+aVSarunas Jasikevicius IND 02/10/2006 IND vs. GSW W 13 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 2 1 0 1 2 -9
+p340
+aVStephen Jackson IND 02/10/2006 IND vs. GSW W 39 30 8 10 80.0 3 3 100.0 11 13 84.6 0 6 6 5 2 0 3 5 17
+p341
+aVDavid Harrison IND 02/10/2006 IND vs. GSW W 14 3 1 3 33.3 0 0 - 1 4 25.0 2 2 4 0 0 0 2 5 -9
+p342
+aVScot Pollard IND 02/10/2006 IND vs. GSW W 20 9 2 2 100.0 0 0 - 5 6 83.3 1 2 3 2 1 0 0 5 24
+p343
+aVPeja Stojakovic IND 02/10/2006 IND vs. GSW W 38 23 9 16 56.3 3 7 42.9 2 2 100.0 0 8 8 2 0 0 1 3 27
+p344
+aVFred Jones IND 02/10/2006 IND vs. GSW W 29 4 0 6 0.0 0 1 0.0 4 6 66.7 0 4 4 1 0 0 2 2 -13
+p345
+aVJeff Foster IND 02/08/2006 IND vs. POR W 18 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 1 0 0 4 30
+p346
+aVStephen Jackson IND 02/08/2006 IND vs. POR W 36 25 10 17 58.8 4 8 50.0 1 1 100.0 0 3 3 4 1 0 3 1 26
+p347
+aVEddie Gill IND 02/08/2006 IND vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p348
+aVScot Pollard IND 02/08/2006 IND vs. POR W 21 6 3 7 42.9 0 0 - 0 0 - 6 10 16 2 1 1 1 3 20
+p349
+aVPeja Stojakovic IND 02/08/2006 IND vs. POR W 36 23 9 15 60.0 4 7 57.1 1 2 50.0 1 3 4 4 1 2 1 3 25
+p350
+aVDanny Granger IND 02/08/2006 IND vs. POR W 22 11 4 13 30.8 1 2 50.0 2 2 100.0 4 3 7 2 0 1 2 4 10
+p351
+aVAnthony Johnson IND 02/08/2006 IND vs. POR W 23 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 6 0 0 3 1 15
+p352
+aVFred Jones IND 02/08/2006 IND vs. POR W 33 14 5 11 45.5 2 4 50.0 2 2 100.0 1 4 5 3 1 0 3 1 9
+p353
+aVSarunas Jasikevicius IND 02/08/2006 IND vs. POR W 25 6 2 8 25.0 2 7 28.6 0 0 - 3 2 5 7 2 0 0 3 17
+p354
+aVDavid Harrison IND 02/08/2006 IND vs. POR W 23 12 4 11 36.4 0 0 - 4 8 50.0 5 5 10 0 0 3 3 5 5
+p355
+aVSarunas Jasikevicius IND 02/04/2006 IND vs. DET W 15 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 4 0 0 1 2 0
+p356
+aVScot Pollard IND 02/04/2006 IND vs. DET W 31 6 3 9 33.3 0 0 - 0 0 - 3 11 14 0 1 1 0 1 5
+p357
+aVJeff Foster IND 02/04/2006 IND vs. DET W 29 8 4 8 50.0 0 0 - 0 0 - 7 5 12 0 0 1 0 4 -4
+p358
+aVPeja Stojakovic IND 02/04/2006 IND vs. DET W 33 8 3 14 21.4 2 5 40.0 0 0 - 4 2 6 2 0 0 1 1 0
+p359
+aVDanny Granger IND 02/04/2006 IND vs. DET W 20 11 5 9 55.6 0 2 0.0 1 1 100.0 5 4 9 2 1 1 1 4 11
+p360
+aVAnthony Johnson IND 02/04/2006 IND vs. DET W 33 8 3 12 25.0 0 0 - 2 2 100.0 3 1 4 8 0 0 1 3 8
+p361
+aVDavid Harrison IND 02/04/2006 IND vs. DET W 16 15 7 12 58.3 0 0 - 1 1 100.0 1 3 4 0 0 0 0 2 4
+p362
+aVFred Jones IND 02/04/2006 IND vs. DET W 24 13 3 9 33.3 0 0 - 7 10 70.0 0 3 3 7 0 0 1 1 2
+p363
+aVStephen Jackson IND 02/04/2006 IND vs. DET W 39 20 8 22 36.4 4 6 66.7 0 0 - 2 5 7 2 0 1 2 2 14
+p364
+aVFred Jones IND 02/01/2006 IND vs. LAL W 27 16 6 12 50.0 2 3 66.7 2 2 100.0 0 2 2 3 0 0 4 2 11
+p365
+aVPeja Stojakovic IND 02/01/2006 IND vs. LAL W 41 26 9 19 47.4 5 11 45.5 3 3 100.0 2 11 13 2 2 0 2 3 23
+p366
+aVStephen Jackson IND 02/01/2006 IND vs. LAL W 19 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 4 1 0 5 1 12
+p367
+aVJeff Foster IND 02/01/2006 IND vs. LAL W 30 15 5 7 71.4 0 0 - 5 6 83.3 6 7 13 1 1 0 1 2 24
+p368
+aVDanny Granger IND 02/01/2006 IND vs. LAL W 29 14 5 13 38.5 1 2 50.0 3 4 75.0 3 9 12 2 0 1 0 4 11
+p369
+aVDavid Harrison IND 02/01/2006 IND vs. LAL W 25 10 4 7 57.1 0 0 - 2 6 33.3 2 7 9 1 0 3 1 5 5
+p370
+aVSarunas Jasikevicius IND 02/01/2006 IND vs. LAL W 21 4 1 8 12.5 1 5 20.0 1 2 50.0 1 0 1 2 0 0 0 1 -6
+p371
+aVEddie Gill IND 02/01/2006 IND vs. LAL W 3 4 0 1 0.0 0 1 0.0 4 4 100.0 0 0 0 2 1 0 0 0 4
+p372
+aVAnthony Johnson IND 02/01/2006 IND vs. LAL W 30 6 3 5 60.0 0 0 - 0 0 - 1 1 2 7 1 0 2 1 31
+p373
+aVScot Pollard IND 02/01/2006 IND vs. LAL W 15 2 1 1 100.0 0 0 - 0 0 - 1 0 1 2 2 0 0 5 15
+p374
+aVDavid Harrison IND 01/31/2006 IND @ WAS L 17 4 2 4 50.0 0 0 - 0 1 0.0 1 6 7 0 0 1 1 4 -11
+p375
+aVDanny Granger IND 01/31/2006 IND @ WAS L 34 13 4 9 44.4 2 4 50.0 3 4 75.0 4 2 6 2 1 0 4 3 3
+p376
+aVAustin Croshere IND 01/31/2006 IND @ WAS L 15 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -7
+p377
+aVFred Jones IND 01/31/2006 IND @ WAS L 33 16 7 17 41.2 2 8 25.0 0 0 - 0 6 6 1 1 0 2 3 11
+p378
+aVSarunas Jasikevicius IND 01/31/2006 IND @ WAS L 22 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 3 0 0 1 1 -3
+p379
+aVScot Pollard IND 01/31/2006 IND @ WAS L 27 7 3 5 60.0 0 0 - 1 1 100.0 5 7 12 0 0 0 3 3 -4
+p380
+aVAnthony Johnson IND 01/31/2006 IND @ WAS L 26 9 3 11 27.3 1 5 20.0 2 2 100.0 1 3 4 4 0 0 0 2 -2
+p381
+aVStephen Jackson IND 01/31/2006 IND @ WAS L 40 5 1 11 9.1 1 4 25.0 2 6 33.3 0 6 6 5 0 1 2 2 -8
+p382
+aVPeja Stojakovic IND 01/31/2006 IND @ WAS L 26 17 4 10 40.0 1 6 16.7 8 10 80.0 0 3 3 1 1 0 2 5 -4
+p383
+aVDanny Granger IND 01/27/2006 IND vs. CLE L 41 21 8 11 72.7 3 4 75.0 2 2 100.0 3 11 14 2 1 2 4 4 -2
+p384
+aVFred Jones IND 01/27/2006 IND vs. CLE L 26 20 8 14 57.1 2 3 66.7 2 2 100.0 1 1 2 3 2 0 1 2 -3
+p385
+aVAnthony Johnson IND 01/27/2006 IND vs. CLE L 26 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 4 0 0 1 1 3
+p386
+aVStephen Jackson IND 01/27/2006 IND vs. CLE L 41 14 6 20 30.0 1 4 25.0 1 2 50.0 0 5 5 2 4 0 3 4 -11
+p387
+aVEddie Gill IND 01/27/2006 IND vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p388
+aVScot Pollard IND 01/27/2006 IND vs. CLE L 17 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 0
+p389
+aVDavid Harrison IND 01/27/2006 IND vs. CLE L 26 10 4 8 50.0 0 0 - 2 4 50.0 3 1 4 0 0 2 3 6 1
+p390
+aVSarunas Jasikevicius IND 01/27/2006 IND vs. CLE L 28 14 4 6 66.7 2 4 50.0 4 4 100.0 0 3 3 3 0 0 2 1 -1
+p391
+aVAustin Croshere IND 01/27/2006 IND vs. CLE L 33 2 1 5 20.0 0 4 0.0 0 1 0.0 0 4 4 2 0 1 1 2 -4
+p392
+aVStephen Jackson IND 01/24/2006 IND @ CLE L 37 17 8 17 47.1 1 4 25.0 0 0 - 1 2 3 1 1 0 1 4 -23
+p393
+aVDanny Granger IND 01/24/2006 IND @ CLE L 30 12 4 8 50.0 1 2 50.0 3 4 75.0 4 7 11 0 0 0 0 1 -30
+p394
+aVJermaine O'Neal IND 01/24/2006 IND @ CLE L 30 7 3 12 25.0 0 1 0.0 1 6 16.7 2 13 15 3 1 2 2 4 -18
+p395
+aVFred Jones IND 01/24/2006 IND @ CLE L 32 2 0 6 0.0 0 2 0.0 2 2 100.0 0 1 1 3 2 0 1 1 -16
+p396
+aVAustin Croshere IND 01/24/2006 IND @ CLE L 19 3 1 4 25.0 1 3 33.3 0 0 - 1 3 4 1 0 0 0 0 -4
+p397
+aVJeff Foster IND 01/24/2006 IND @ CLE L 16 4 1 2 50.0 0 0 - 2 2 100.0 3 2 5 1 0 2 2 3 -2
+p398
+aVSarunas Jasikevicius IND 01/24/2006 IND @ CLE L 24 8 3 11 27.3 1 4 25.0 1 1 100.0 0 2 2 4 1 0 0 1 -10
+p399
+aVJamaal Tinsley IND 01/24/2006 IND @ CLE L 27 6 3 9 33.3 0 0 - 0 0 - 0 4 4 2 0 1 6 3 -18
+p400
+aVEddie Gill IND 01/24/2006 IND @ CLE L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 1 1 0 -5
+p401
+aVDavid Harrison IND 01/24/2006 IND @ CLE L 19 5 2 8 25.0 0 0 - 1 9 11.1 2 3 5 0 0 0 4 6 -24
+p402
+aVSarunas Jasikevicius IND 01/23/2006 IND @ ATL L 22 8 4 8 50.0 0 3 0.0 0 0 - 0 1 1 3 0 0 1 0 5
+p403
+aVAustin Croshere IND 01/23/2006 IND @ ATL L 20 7 3 8 37.5 0 5 0.0 1 1 100.0 2 6 8 1 0 0 0 1 1
+p404
+aVJamaal Tinsley IND 01/23/2006 IND @ ATL L 28 4 2 11 18.2 0 0 - 0 0 - 0 3 3 4 2 0 3 2 -12
+p405
+aVDavid Harrison IND 01/23/2006 IND @ ATL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p406
+aVJermaine O'Neal IND 01/23/2006 IND @ ATL L 39 24 9 13 69.2 0 0 - 6 11 54.5 2 6 8 3 0 1 2 4 -3
+p407
+aVEddie Gill IND 01/23/2006 IND @ ATL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p408
+aVJeff Foster IND 01/23/2006 IND @ ATL L 28 12 6 7 85.7 0 0 - 0 0 - 3 1 4 1 1 1 2 3 -14
+p409
+aVDanny Granger IND 01/23/2006 IND @ ATL L 9 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 0 1 0 1 1 3
+p410
+aVAnthony Johnson IND 01/23/2006 IND @ ATL L 15 2 1 5 20.0 0 0 - 0 0 - 1 0 1 2 0 0 2 3 -3
+p411
+aVFred Jones IND 01/23/2006 IND @ ATL L 32 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 1 0 1 3 1 -10
+p412
+aVStephen Jackson IND 01/23/2006 IND @ ATL L 39 21 8 16 50.0 1 4 25.0 4 4 100.0 1 7 8 7 0 0 2 3 -12
+p413
+aVJamaal Tinsley IND 01/21/2006 IND vs. CHI L 27 7 2 6 33.3 0 1 0.0 3 4 75.0 1 2 3 3 0 0 1 5 -9
+p414
+aVDavid Harrison IND 01/21/2006 IND vs. CHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 4 -6
+p415
+aVJermaine O'Neal IND 01/21/2006 IND vs. CHI L 30 13 4 11 36.4 0 0 - 5 10 50.0 1 8 9 0 1 0 4 1 -4
+p416
+aVAnthony Johnson IND 01/21/2006 IND vs. CHI L 29 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 5 0 0 1 2 0
+p417
+aVFred Jones IND 01/21/2006 IND vs. CHI L 21 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 1 0 2 0 0 -5
+p418
+aVAustin Croshere IND 01/21/2006 IND vs. CHI L 26 16 4 8 50.0 2 5 40.0 6 7 85.7 1 5 6 2 1 0 1 1 -7
+p419
+aVSarunas Jasikevicius IND 01/21/2006 IND vs. CHI L 25 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 2 3 -5
+p420
+aVStephen Jackson IND 01/21/2006 IND vs. CHI L 37 21 5 15 33.3 2 6 33.3 9 10 90.0 0 3 3 3 4 0 3 3 -9
+p421
+aVJeff Foster IND 01/21/2006 IND vs. CHI L 22 6 1 1 100.0 0 0 - 4 5 80.0 1 6 7 0 0 1 0 3 -15
+p422
+aVDanny Granger IND 01/21/2006 IND vs. CHI L 12 8 3 7 42.9 1 2 50.0 1 1 100.0 1 0 1 0 1 2 1 1 -3
+p423
+aVEddie Gill IND 01/21/2006 IND vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 3
+p424
+aVFred Jones IND 01/20/2006 IND @ MIN L 32 19 7 16 43.8 0 6 0.0 5 6 83.3 0 1 1 0 1 2 0 3 3
+p425
+aVAustin Croshere IND 01/20/2006 IND @ MIN L 34 18 6 13 46.2 3 5 60.0 3 4 75.0 1 5 6 1 0 0 0 1 -2
+p426
+aVStephen Jackson IND 01/20/2006 IND @ MIN L 40 12 5 14 35.7 0 2 0.0 2 2 100.0 0 6 6 3 1 0 2 1 -9
+p427
+aVSarunas Jasikevicius IND 01/20/2006 IND @ MIN L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 3 0 0 0 3 -3
+p428
+aVAnthony Johnson IND 01/20/2006 IND @ MIN L 33 10 3 11 27.3 1 2 50.0 3 4 75.0 0 4 4 7 1 0 1 3 -8
+p429
+aVDavid Harrison IND 01/20/2006 IND @ MIN L 21 10 5 9 55.6 0 0 - 0 4 0.0 2 2 4 0 1 0 0 3 -12
+p430
+aVDanny Granger IND 01/20/2006 IND @ MIN L 11 0 0 0 - 0 0 - 0 0 - 1 2 3 1 1 0 0 0 0
+p431
+aVEddie Gill IND 01/20/2006 IND @ MIN L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 3
+p432
+aVJeff Foster IND 01/20/2006 IND @ MIN L 27 8 2 4 50.0 0 0 - 4 5 80.0 3 4 7 3 1 0 1 4 2
+p433
+aVJamaal Tinsley IND 01/20/2006 IND @ MIN L 18 5 2 7 28.6 0 1 0.0 1 4 25.0 0 1 1 2 0 0 3 2 1
+p434
+aVFred Jones IND 01/18/2006 IND vs. CHA W 38 14 5 13 38.5 2 4 50.0 2 2 100.0 0 4 4 4 0 0 1 1 9
+p435
+aVAnthony Johnson IND 01/18/2006 IND vs. CHA W 41 27 9 14 64.3 2 3 66.7 7 8 87.5 3 7 10 4 2 2 1 1 8
+p436
+aVEddie Gill IND 01/18/2006 IND vs. CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 0
+p437
+aVStephen Jackson IND 01/18/2006 IND vs. CHA W 42 17 7 14 50.0 1 3 33.3 2 2 100.0 2 6 8 4 3 0 6 3 11
+p438
+aVDavid Harrison IND 01/18/2006 IND vs. CHA W 19 10 4 4 100.0 0 0 - 2 2 100.0 1 2 3 1 0 2 2 2 9
+p439
+aVDanny Granger IND 01/18/2006 IND vs. CHA W 22 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 2 1 3 1 1 -5
+p440
+aVJeff Foster IND 01/18/2006 IND vs. CHA W 18 2 0 3 0.0 0 0 - 2 2 100.0 4 5 9 1 1 0 2 5 -6
+p441
+aVSarunas Jasikevicius IND 01/18/2006 IND vs. CHA W 28 14 6 8 75.0 2 4 50.0 0 1 0.0 0 1 1 0 0 0 1 4 -3
+p442
+aVAustin Croshere IND 01/18/2006 IND vs. CHA W 29 12 1 7 14.3 1 4 25.0 9 12 75.0 2 3 5 1 0 0 5 3 7
+p443
+aVFred Jones IND 01/16/2006 IND @ NJN L 34 16 6 11 54.5 2 6 33.3 2 4 50.0 0 3 3 0 1 0 1 4 -5
+p444
+aVDanny Granger IND 01/16/2006 IND @ NJN L 22 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 2 4 2
+p445
+aVStephen Jackson IND 01/16/2006 IND @ NJN L 39 14 5 16 31.3 1 3 33.3 3 6 50.0 0 2 2 1 0 1 3 5 -16
+p446
+aVJeff Foster IND 01/16/2006 IND @ NJN L 32 8 4 7 57.1 0 0 - 0 0 - 2 6 8 3 1 0 1 4 -13
+p447
+aVAnthony Johnson IND 01/16/2006 IND @ NJN L 29 16 4 8 50.0 1 2 50.0 7 8 87.5 0 1 1 3 0 1 0 2 -5
+p448
+aVDavid Harrison IND 01/16/2006 IND @ NJN L 17 7 3 6 50.0 0 0 - 1 5 20.0 2 3 5 0 1 1 3 6 4
+p449
+aVSarunas Jasikevicius IND 01/16/2006 IND @ NJN L 22 12 4 7 57.1 2 2 100.0 2 2 100.0 0 3 3 6 1 0 2 2 8
+p450
+aVEddie Gill IND 01/16/2006 IND @ NJN L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p451
+aVAustin Croshere IND 01/16/2006 IND @ NJN L 40 17 6 9 66.7 2 5 40.0 3 3 100.0 1 9 10 3 1 0 1 4 -4
+p452
+aVJeff Foster IND 01/14/2006 IND @ CHI W 20 12 5 6 83.3 0 0 - 2 4 50.0 4 2 6 0 0 0 0 6 -3
+p453
+aVAustin Croshere IND 01/14/2006 IND @ CHI W 24 12 4 9 44.4 4 6 66.7 0 0 - 0 2 2 1 0 0 1 2 3
+p454
+aVAnthony Johnson IND 01/14/2006 IND @ CHI W 31 10 2 5 40.0 0 1 0.0 6 7 85.7 0 2 2 5 0 0 3 1 -1
+p455
+aVFred Jones IND 01/14/2006 IND @ CHI W 29 4 1 7 14.3 1 4 25.0 1 2 50.0 0 3 3 3 1 0 3 1 0
+p456
+aVDanny Granger IND 01/14/2006 IND @ CHI W 37 8 3 9 33.3 0 1 0.0 2 3 66.7 4 5 9 2 1 0 0 3 2
+p457
+aVDavid Harrison IND 01/14/2006 IND @ CHI W 22 0 0 3 0.0 0 0 - 0 2 0.0 0 9 9 0 1 2 3 3 7
+p458
+aVStephen Jackson IND 01/14/2006 IND @ CHI W 39 29 8 20 40.0 2 3 66.7 11 13 84.6 0 1 1 2 3 1 4 3 -1
+p459
+aVSarunas Jasikevicius IND 01/14/2006 IND @ CHI W 23 4 1 4 25.0 0 2 0.0 2 2 100.0 1 2 3 5 1 0 2 1 7
+p460
+aVEddie Gill IND 01/14/2006 IND @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p461
+aVJermaine O'Neal IND 01/14/2006 IND @ CHI W 14 12 3 7 42.9 0 0 - 6 6 100.0 0 5 5 2 0 1 0 1 -4
+p462
+aVStephen Jackson IND 01/13/2006 IND vs. WAS L 38 11 5 15 33.3 0 3 0.0 1 2 50.0 0 4 4 5 0 0 3 3 6
+p463
+aVFred Jones IND 01/13/2006 IND vs. WAS L 32 14 6 12 50.0 1 2 50.0 1 1 100.0 0 1 1 1 2 0 0 4 -13
+p464
+aVAnthony Johnson IND 01/13/2006 IND vs. WAS L 24 8 3 6 50.0 1 1 100.0 1 2 50.0 0 1 1 2 1 0 0 3 -6
+p465
+aVDanny Granger IND 01/13/2006 IND vs. WAS L 26 5 2 5 40.0 1 1 100.0 0 0 - 2 2 4 1 1 1 2 1 -11
+p466
+aVSarunas Jasikevicius IND 01/13/2006 IND vs. WAS L 24 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 7 0 0 3 0 -3
+p467
+aVJeff Foster IND 01/13/2006 IND vs. WAS L 22 10 4 6 66.7 0 0 - 2 2 100.0 4 7 11 0 0 0 0 1 7
+p468
+aVAustin Croshere IND 01/13/2006 IND vs. WAS L 22 9 4 6 66.7 1 3 33.3 0 0 - 1 5 6 0 0 0 4 4 -4
+p469
+aVJermaine O'Neal IND 01/13/2006 IND vs. WAS L 39 20 7 16 43.8 0 0 - 6 7 85.7 1 6 7 4 0 3 4 4 -21
+p470
+aVDavid Harrison IND 01/13/2006 IND vs. WAS L 13 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 3 0
+p471
+aVEddie Gill IND 01/11/2006 IND vs. MIL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 5
+p472
+aVDavid Harrison IND 01/11/2006 IND vs. MIL W 16 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 1 0 2 5
+p473
+aVAustin Croshere IND 01/11/2006 IND vs. MIL W 22 12 3 4 75.0 2 2 100.0 4 4 100.0 2 3 5 2 0 0 0 0 15
+p474
+aVFred Jones IND 01/11/2006 IND vs. MIL W 24 17 7 10 70.0 2 4 50.0 1 2 50.0 0 2 2 4 0 0 0 4 19
+p475
+aVSarunas Jasikevicius IND 01/11/2006 IND vs. MIL W 25 17 6 12 50.0 2 5 40.0 3 4 75.0 0 3 3 2 1 0 2 2 21
+p476
+aVJeff Foster IND 01/11/2006 IND vs. MIL W 28 8 2 2 100.0 0 0 - 4 4 100.0 2 6 8 0 0 0 1 1 32
+p477
+aVAnthony Johnson IND 01/11/2006 IND vs. MIL W 30 5 2 7 28.6 0 2 0.0 1 3 33.3 2 5 7 7 1 1 0 1 9
+p478
+aVStephen Jackson IND 01/11/2006 IND vs. MIL W 38 24 8 11 72.7 2 2 100.0 6 8 75.0 0 1 1 6 3 0 2 2 23
+p479
+aVJermaine O'Neal IND 01/11/2006 IND vs. MIL W 30 16 8 17 47.1 0 0 - 0 2 0.0 1 3 4 1 0 3 2 5 -4
+p480
+aVDanny Granger IND 01/11/2006 IND vs. MIL W 24 8 2 4 50.0 1 2 50.0 3 4 75.0 1 3 4 1 1 1 2 3 -5
+p481
+aVDanny Granger IND 01/09/2006 IND @ LAL L 34 12 3 7 42.9 1 3 33.3 5 7 71.4 3 6 9 1 0 1 2 3 -15
+p482
+aVAnthony Johnson IND 01/09/2006 IND @ LAL L 36 14 6 12 50.0 0 3 0.0 2 3 66.7 0 0 0 4 1 0 2 4 -9
+p483
+aVEddie Gill IND 01/09/2006 IND @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p484
+aVFred Jones IND 01/09/2006 IND @ LAL L 27 9 3 9 33.3 0 1 0.0 3 3 100.0 0 2 2 4 2 0 1 6 0
+p485
+aVSarunas Jasikevicius IND 01/09/2006 IND @ LAL L 29 10 1 8 12.5 1 3 33.3 7 9 77.8 1 3 4 5 0 0 0 1 -14
+p486
+aVJermaine O'Neal IND 01/09/2006 IND @ LAL L 44 24 8 21 38.1 0 1 0.0 8 12 66.7 2 14 16 4 1 2 4 5 -8
+p487
+aVJeff Foster IND 01/09/2006 IND @ LAL L 31 6 2 4 50.0 0 0 - 2 2 100.0 2 9 11 0 0 0 0 3 0
+p488
+aVStephen Jackson IND 01/09/2006 IND @ LAL L 24 8 2 9 22.2 1 5 20.0 3 4 75.0 0 0 0 1 1 0 3 5 13
+p489
+aVDavid Harrison IND 01/09/2006 IND @ LAL L 14 7 3 5 60.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 2 5
+p490
+aVSarunas Jasikevicius IND 01/08/2006 IND @ SAC W 28 9 3 5 60.0 3 5 60.0 0 1 0.0 0 1 1 3 0 0 4 2 8
+p491
+aVStephen Jackson IND 01/08/2006 IND @ SAC W 32 31 10 18 55.6 5 6 83.3 6 6 100.0 1 4 5 3 2 0 1 1 25
+p492
+aVEddie Gill IND 01/08/2006 IND @ SAC W 8 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 2 0 1 2 -9
+p493
+aVJermaine O'Neal IND 01/08/2006 IND @ SAC W 22 12 3 7 42.9 0 1 0.0 6 7 85.7 0 8 8 2 0 1 1 2 23
+p494
+aVFred Jones IND 01/08/2006 IND @ SAC W 26 18 7 14 50.0 2 5 40.0 2 2 100.0 1 2 3 2 2 0 2 0 25
+p495
+aVScot Pollard IND 01/08/2006 IND @ SAC W 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 2 0 1 2 -4
+p496
+aVJeff Foster IND 01/08/2006 IND @ SAC W 23 5 2 4 50.0 0 0 - 1 2 50.0 6 4 10 0 1 1 2 2 17
+p497
+aVAustin Croshere IND 01/08/2006 IND @ SAC W 21 10 2 3 66.7 2 3 66.7 4 4 100.0 2 3 5 3 2 0 0 0 21
+p498
+aVDavid Harrison IND 01/08/2006 IND @ SAC W 15 2 1 5 20.0 0 0 - 0 1 0.0 0 4 4 0 0 1 2 4 -5
+p499
+aVDanny Granger IND 01/08/2006 IND @ SAC W 31 14 5 11 45.5 1 2 50.0 3 8 37.5 2 6 8 1 2 2 1 5 7
+p500
+aVAnthony Johnson IND 01/08/2006 IND @ SAC W 20 2 1 4 25.0 0 0 - 0 0 - 0 2 2 4 1 1 1 2 17
+p501
+aVDanny Granger IND 01/05/2006 IND @ GSW W 35 13 4 8 50.0 1 1 100.0 4 4 100.0 1 3 4 3 3 0 2 3 11
+p502
+aVEddie Gill IND 01/05/2006 IND @ GSW W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p503
+aVDavid Harrison IND 01/05/2006 IND @ GSW W 14 6 3 4 75.0 0 0 - 0 0 - 3 3 6 0 0 0 2 3 4
+p504
+aVSarunas Jasikevicius IND 01/05/2006 IND @ GSW W 26 12 2 5 40.0 2 4 50.0 6 6 100.0 0 2 2 2 0 0 2 4 1
+p505
+aVAustin Croshere IND 01/05/2006 IND @ GSW W 36 17 6 14 42.9 3 6 50.0 2 2 100.0 3 6 9 2 2 1 1 3 3
+p506
+aVAnthony Johnson IND 01/05/2006 IND @ GSW W 34 9 3 10 30.0 0 2 0.0 3 6 50.0 0 1 1 4 1 2 1 0 4
+p507
+aVStephen Jackson IND 01/05/2006 IND @ GSW W 41 27 12 23 52.2 1 3 33.3 2 5 40.0 0 6 6 3 0 1 4 4 17
+p508
+aVFred Jones IND 01/05/2006 IND @ GSW W 23 11 3 8 37.5 1 2 50.0 4 5 80.0 0 2 2 2 1 0 1 6 8
+p509
+aVJeff Foster IND 01/05/2006 IND @ GSW W 30 4 1 1 100.0 0 0 - 2 2 100.0 1 10 11 0 1 1 1 3 6
+p510
+aVEddie Gill IND 01/04/2006 IND @ DEN L 6 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 1 0 0 0 0 1
+p511
+aVFred Jones IND 01/04/2006 IND @ DEN L 29 12 4 12 33.3 1 7 14.3 3 4 75.0 0 0 0 4 3 0 3 3 -22
+p512
+aVDavid Harrison IND 01/04/2006 IND @ DEN L 20 6 3 8 37.5 0 0 - 0 0 - 1 3 4 1 0 1 1 3 -7
+p513
+aVDanny Granger IND 01/04/2006 IND @ DEN L 32 12 6 8 75.0 0 1 0.0 0 0 - 2 4 6 2 5 1 2 4 -15
+p514
+aVStephen Jackson IND 01/04/2006 IND @ DEN L 33 21 6 17 35.3 2 5 40.0 7 8 87.5 4 2 6 1 0 0 6 3 -16
+p515
+aVAnthony Johnson IND 01/04/2006 IND @ DEN L 27 11 5 10 50.0 0 3 0.0 1 1 100.0 0 3 3 7 0 0 2 2 -21
+p516
+aVAustin Croshere IND 01/04/2006 IND @ DEN L 24 3 1 5 20.0 0 0 - 1 1 100.0 2 1 3 2 2 0 3 3 -27
+p517
+aVScot Pollard IND 01/04/2006 IND @ DEN L 25 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 1 1 0 2 3
+p518
+aVJeff Foster IND 01/04/2006 IND @ DEN L 18 7 3 9 33.3 0 0 - 1 2 50.0 7 5 12 0 1 1 1 2 0
+p519
+aVSarunas Jasikevicius IND 01/04/2006 IND @ DEN L 26 5 2 7 28.6 1 5 20.0 0 0 - 0 4 4 3 0 0 2 2 4
+p520
+aVJeff Foster IND 01/02/2006 IND vs. SEA W 24 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 0 0 0 2 -3
+p521
+aVAnthony Johnson IND 01/02/2006 IND vs. SEA W 26 14 4 7 57.1 3 4 75.0 3 4 75.0 0 3 3 6 0 1 3 0 20
+p522
+aVAustin Croshere IND 01/02/2006 IND vs. SEA W 24 5 2 5 40.0 0 3 0.0 1 1 100.0 2 6 8 0 1 0 0 1 15
+p523
+aVDanny Granger IND 01/02/2006 IND vs. SEA W 28 10 2 7 28.6 0 1 0.0 6 6 100.0 2 5 7 2 1 0 0 5 15
+p524
+aVDavid Harrison IND 01/02/2006 IND vs. SEA W 24 11 5 7 71.4 0 0 - 1 2 50.0 1 3 4 2 2 1 1 2 22
+p525
+aVSarunas Jasikevicius IND 01/02/2006 IND vs. SEA W 27 20 5 10 50.0 3 7 42.9 7 7 100.0 1 1 2 2 1 1 2 1 4
+p526
+aVFred Jones IND 01/02/2006 IND vs. SEA W 31 26 10 16 62.5 2 3 66.7 4 4 100.0 0 1 1 5 0 0 1 0 7
+p527
+aVStephen Jackson IND 01/02/2006 IND vs. SEA W 40 22 6 12 50.0 3 7 42.9 7 9 77.8 1 5 6 2 1 0 3 1 20
+p528
+aVScot Pollard IND 01/02/2006 IND vs. SEA W 11 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 2 3 -1
+p529
+aVEddie Gill IND 01/02/2006 IND vs. SEA W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p530
+aVAustin Croshere IND 12/30/2005 IND vs. TOR L 15 6 1 5 20.0 1 3 33.3 3 4 75.0 2 1 3 0 0 0 1 2 -1
+p531
+aVJeff Foster IND 12/30/2005 IND vs. TOR L 32 10 5 6 83.3 0 0 - 0 0 - 7 6 13 0 0 0 0 5 15
+p532
+aVFred Jones IND 12/30/2005 IND vs. TOR L 35 20 7 15 46.7 3 9 33.3 3 4 75.0 1 5 6 6 1 0 2 3 -11
+p533
+aVSarunas Jasikevicius IND 12/30/2005 IND vs. TOR L 27 3 1 6 16.7 1 3 33.3 0 0 - 0 2 2 4 0 0 3 1 12
+p534
+aVDanny Granger IND 12/30/2005 IND vs. TOR L 24 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 1 1 1 2 5 -11
+p535
+aVStephen Jackson IND 12/30/2005 IND vs. TOR L 42 23 5 15 33.3 1 3 33.3 12 14 85.7 0 6 6 0 3 0 1 1 -1
+p536
+aVAnthony Johnson IND 12/30/2005 IND vs. TOR L 34 9 4 9 44.4 0 2 0.0 1 2 50.0 0 2 2 4 0 0 2 1 -5
+p537
+aVJermaine O'Neal IND 12/30/2005 IND vs. TOR L 31 20 8 17 47.1 0 0 - 4 6 66.7 3 5 8 2 0 1 4 4 -8
+p538
+aVStephen Jackson IND 12/27/2005 IND @ SAS L 43 13 6 12 50.0 1 3 33.3 0 0 - 0 8 8 1 1 2 3 4 -4
+p539
+aVDanny Granger IND 12/27/2005 IND @ SAS L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p540
+aVAnthony Johnson IND 12/27/2005 IND @ SAS L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 3 -9
+p541
+aVFred Jones IND 12/27/2005 IND @ SAS L 35 14 5 8 62.5 1 3 33.3 3 4 75.0 0 1 1 3 0 0 2 2 -15
+p542
+aVJermaine O'Neal IND 12/27/2005 IND @ SAS L 39 26 10 20 50.0 0 0 - 6 8 75.0 0 7 7 2 0 0 4 4 -10
+p543
+aVScot Pollard IND 12/27/2005 IND @ SAS L 18 3 1 3 33.3 0 0 - 1 1 100.0 0 5 5 0 1 0 0 3 -13
+p544
+aVJamaal Tinsley IND 12/27/2005 IND @ SAS L 37 20 9 18 50.0 0 1 0.0 2 5 40.0 2 3 5 4 4 0 2 4 -5
+p545
+aVSarunas Jasikevicius IND 12/27/2005 IND @ SAS L 13 3 1 3 33.3 0 0 - 1 1 100.0 1 1 2 0 0 0 1 1 2
+p546
+aVAustin Croshere IND 12/27/2005 IND @ SAS L 11 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 3 -10
+p547
+aVJeff Foster IND 12/27/2005 IND @ SAS L 20 3 0 3 0.0 0 0 - 3 4 75.0 3 4 7 0 0 0 1 5 4
+p548
+aVAustin Croshere IND 12/26/2005 IND @ DAL L 13 11 2 4 50.0 2 3 66.7 5 5 100.0 1 3 4 0 0 0 0 2 -11
+p549
+aVJeff Foster IND 12/26/2005 IND @ DAL L 5 1 0 1 0.0 0 0 - 1 4 25.0 1 3 4 1 0 0 1 4 -6
+p550
+aVStephen Jackson IND 12/26/2005 IND @ DAL L 12 12 5 8 62.5 2 3 66.7 0 0 - 0 2 2 1 0 0 5 0 -20
+p551
+aVFred Jones IND 12/26/2005 IND @ DAL L 13 6 2 5 40.0 0 1 0.0 2 3 66.7 2 1 3 2 0 0 0 4 -19
+p552
+aVJermaine O'Neal IND 12/26/2005 IND @ DAL L 15 15 7 17 41.2 0 0 - 1 3 33.3 0 2 2 1 0 2 0 2 -27
+p553
+aVAnthony Johnson IND 12/26/2005 IND @ DAL L 8 4 2 8 25.0 0 3 0.0 0 0 - 1 2 3 3 0 0 2 3 -16
+p554
+aVJamaal Tinsley IND 12/26/2005 IND @ DAL L 15 12 5 11 45.5 0 0 - 2 2 100.0 1 1 2 3 1 0 3 2 -12
+p555
+aVScot Pollard IND 12/26/2005 IND @ DAL L 7 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 6
+p556
+aVEddie Gill IND 12/26/2005 IND @ DAL L 7 7 1 2 50.0 0 0 - 5 5 100.0 0 0 0 1 2 0 0 0 6
+p557
+aVDanny Granger IND 12/26/2005 IND @ DAL L 13 4 1 6 16.7 0 1 0.0 2 2 100.0 2 1 3 0 0 0 2 2 -6
+p558
+aVDavid Harrison IND 12/26/2005 IND @ DAL L 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -2
+p559
+aVSarunas Jasikevicius IND 12/26/2005 IND @ DAL L 14 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 1 1 0 3 2 -3
+p560
+aVSarunas Jasikevicius IND 12/23/2005 IND @ CLE L 25 1 0 7 0.0 0 4 0.0 1 2 50.0 0 0 0 5 0 0 1 3 -3
+p561
+aVAnthony Johnson IND 12/23/2005 IND @ CLE L 19 6 3 6 50.0 0 3 0.0 0 0 - 0 3 3 3 2 0 3 0 0
+p562
+aVDavid Harrison IND 12/23/2005 IND @ CLE L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p563
+aVJamaal Tinsley IND 12/23/2005 IND @ CLE L 30 15 6 13 46.2 1 2 50.0 2 3 66.7 3 3 6 4 4 0 4 6 -5
+p564
+aVStephen Jackson IND 12/23/2005 IND @ CLE L 31 6 2 11 18.2 0 4 0.0 2 4 50.0 0 2 2 1 1 1 1 4 -11
+p565
+aVDanny Granger IND 12/23/2005 IND @ CLE L 32 8 2 4 50.0 0 1 0.0 4 4 100.0 5 5 10 2 0 0 2 4 16
+p566
+aVFred Jones IND 12/23/2005 IND @ CLE L 29 15 6 10 60.0 1 2 50.0 2 2 100.0 0 6 6 1 0 1 2 3 3
+p567
+aVJermaine O'Neal IND 12/23/2005 IND @ CLE L 43 34 14 22 63.6 1 1 100.0 5 8 62.5 1 10 11 2 1 5 2 3 -5
+p568
+aVAustin Croshere IND 12/23/2005 IND @ CLE L 19 4 1 5 20.0 1 2 50.0 1 1 100.0 2 1 3 1 2 0 0 2 -11
+p569
+aVJeff Foster IND 12/23/2005 IND @ CLE L 10 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 0 -7
+p570
+aVAustin Croshere IND 12/21/2005 IND vs. LAC W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 2 4
+p571
+aVJermaine O'Neal IND 12/21/2005 IND vs. LAC W 37 15 5 14 35.7 0 0 - 5 6 83.3 3 8 11 2 0 6 5 4 26
+p572
+aVFred Jones IND 12/21/2005 IND vs. LAC W 23 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 3 0 0 2 1 13
+p573
+aVDavid Harrison IND 12/21/2005 IND vs. LAC W 2 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p574
+aVSarunas Jasikevicius IND 12/21/2005 IND vs. LAC W 24 6 2 7 28.6 2 6 33.3 0 0 - 0 3 3 4 0 0 1 0 10
+p575
+aVEddie Gill IND 12/21/2005 IND vs. LAC W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p576
+aVAnthony Johnson IND 12/21/2005 IND vs. LAC W 17 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 1 0 0 2 2 3
+p577
+aVJeff Foster IND 12/21/2005 IND vs. LAC W 19 2 1 4 25.0 0 1 0.0 0 0 - 3 5 8 1 1 0 0 3 -5
+p578
+aVJamaal Tinsley IND 12/21/2005 IND vs. LAC W 33 17 8 13 61.5 1 3 33.3 0 1 0.0 1 5 6 8 0 0 8 2 18
+p579
+aVDanny Granger IND 12/21/2005 IND vs. LAC W 30 16 8 11 72.7 0 0 - 0 0 - 3 4 7 1 3 2 0 1 15
+p580
+aVStephen Jackson IND 12/21/2005 IND vs. LAC W 39 24 8 12 66.7 3 4 75.0 5 6 83.3 1 7 8 1 2 1 3 3 20
+p581
+aVEddie Gill IND 12/17/2005 IND @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p582
+aVAnthony Johnson IND 12/17/2005 IND @ NYK W 24 1 0 3 0.0 0 0 - 1 2 50.0 0 3 3 4 0 0 1 4 -5
+p583
+aVJermaine O'Neal IND 12/17/2005 IND @ NYK W 43 31 9 21 42.9 1 2 50.0 12 13 92.3 1 5 6 6 0 2 1 5 17
+p584
+aVSarunas Jasikevicius IND 12/17/2005 IND @ NYK W 39 18 5 11 45.5 4 9 44.4 4 6 66.7 0 4 4 1 3 0 1 3 8
+p585
+aVJamaal Tinsley IND 12/17/2005 IND @ NYK W 42 23 8 16 50.0 1 3 33.3 6 7 85.7 0 6 6 7 1 0 3 3 10
+p586
+aVAustin Croshere IND 12/17/2005 IND @ NYK W 27 11 4 9 44.4 0 1 0.0 3 3 100.0 1 6 7 2 1 0 0 5 10
+p587
+aVDanny Granger IND 12/17/2005 IND @ NYK W 29 12 4 5 80.0 2 2 100.0 2 3 66.7 3 3 6 0 0 3 0 4 7
+p588
+aVJeff Foster IND 12/17/2005 IND @ NYK W 15 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -12
+p589
+aVStephen Jackson IND 12/17/2005 IND @ NYK W 20 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 0 0 0 3 1 -5
+p590
+aVStephen Jackson IND 12/16/2005 IND vs. UTA W 43 16 4 13 30.8 2 8 25.0 6 6 100.0 0 5 5 1 0 1 4 2 9
+p591
+aVJermaine O'Neal IND 12/16/2005 IND vs. UTA W 41 27 10 19 52.6 0 0 - 7 9 77.8 3 8 11 2 0 5 4 3 9
+p592
+aVAnthony Johnson IND 12/16/2005 IND vs. UTA W 20 7 2 7 28.6 2 3 66.7 1 1 100.0 0 1 1 6 0 1 2 2 16
+p593
+aVAustin Croshere IND 12/16/2005 IND vs. UTA W 29 16 4 6 66.7 4 5 80.0 4 4 100.0 1 6 7 2 2 1 5 6 5
+p594
+aVJamaal Tinsley IND 12/16/2005 IND vs. UTA W 28 2 1 9 11.1 0 2 0.0 0 0 - 0 3 3 4 3 0 1 1 -6
+p595
+aVSarunas Jasikevicius IND 12/16/2005 IND vs. UTA W 31 11 4 8 50.0 1 3 33.3 2 2 100.0 0 2 2 4 0 1 1 1 -6
+p596
+aVDanny Granger IND 12/16/2005 IND vs. UTA W 14 3 1 1 100.0 0 0 - 1 1 100.0 2 0 2 0 0 1 0 3 7
+p597
+aVJeff Foster IND 12/16/2005 IND vs. UTA W 14 3 1 1 100.0 0 0 - 1 4 25.0 4 1 5 0 0 0 0 6 0
+p598
+aVFred Jones IND 12/16/2005 IND vs. UTA W 19 8 1 4 25.0 0 1 0.0 6 6 100.0 0 1 1 1 0 0 1 1 16
+p599
+aVEddie Gill IND 12/16/2005 IND vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p600
+aVFred Jones IND 12/14/2005 IND @ BOS L 35 8 3 11 27.3 2 6 33.3 0 0 - 0 3 3 3 1 0 1 2 -15
+p601
+aVDanny Granger IND 12/14/2005 IND @ BOS L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 1 1 2 -9
+p602
+aVAnthony Johnson IND 12/14/2005 IND @ BOS L 29 14 6 8 75.0 0 1 0.0 2 2 100.0 0 3 3 3 1 0 1 5 -2
+p603
+aVJeff Foster IND 12/14/2005 IND @ BOS L 29 2 1 3 33.3 0 1 0.0 0 3 0.0 3 4 7 1 0 0 1 4 -12
+p604
+aVSamaki Walker IND 12/14/2005 IND @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p605
+aVJermaine O'Neal IND 12/14/2005 IND @ BOS L 38 14 5 19 26.3 0 0 - 4 6 66.7 3 7 10 2 1 0 4 6 -7
+p606
+aVSarunas Jasikevicius IND 12/14/2005 IND @ BOS L 38 11 4 14 28.6 2 10 20.0 1 1 100.0 1 1 2 5 1 0 2 1 -17
+p607
+aVScot Pollard IND 12/14/2005 IND @ BOS L 5 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 1 1 1 1
+p608
+aVDavid Harrison IND 12/14/2005 IND @ BOS L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p609
+aVStephen Jackson IND 12/14/2005 IND @ BOS L 44 18 5 20 25.0 2 7 28.6 6 8 75.0 3 3 6 3 0 2 3 2 -6
+p610
+aVSarunas Jasikevicius IND 12/10/2005 IND vs. MEM W 30 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 8 1 0 5 3 11
+p611
+aVFred Jones IND 12/10/2005 IND vs. MEM W 32 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 0 1 2 1 8
+p612
+aVAustin Croshere IND 12/10/2005 IND vs. MEM W 26 7 2 10 20.0 0 5 0.0 3 3 100.0 3 8 11 0 0 0 0 3 12
+p613
+aVAnthony Johnson IND 12/10/2005 IND vs. MEM W 39 13 3 7 42.9 2 2 100.0 5 6 83.3 0 5 5 6 2 0 0 1 17
+p614
+aVEddie Gill IND 12/10/2005 IND vs. MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p615
+aVDanny Granger IND 12/10/2005 IND vs. MEM W 23 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 1 3 2 2 2
+p616
+aVJermaine O'Neal IND 12/10/2005 IND vs. MEM W 35 20 9 19 47.4 0 0 - 2 3 66.7 1 13 14 1 0 5 3 4 13
+p617
+aVStephen Jackson IND 12/10/2005 IND vs. MEM W 33 16 7 16 43.8 1 5 20.0 1 1 100.0 0 3 3 2 4 0 3 3 1
+p618
+aVJeff Foster IND 12/10/2005 IND vs. MEM W 21 9 3 4 75.0 0 1 0.0 3 4 75.0 2 8 10 1 2 0 0 1 6
+p619
+aVAnthony Johnson IND 12/08/2005 IND vs. WAS W 33 10 4 10 40.0 0 2 0.0 2 2 100.0 0 2 2 9 0 0 2 3 19
+p620
+aVStephen Jackson IND 12/08/2005 IND vs. WAS W 39 30 13 18 72.2 3 4 75.0 1 3 33.3 0 2 2 3 0 1 0 3 17
+p621
+aVAustin Croshere IND 12/08/2005 IND vs. WAS W 16 5 1 3 33.3 1 1 100.0 2 2 100.0 1 1 2 0 0 0 0 0 24
+p622
+aVDavid Harrison IND 12/08/2005 IND vs. WAS W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p623
+aVDanny Granger IND 12/08/2005 IND vs. WAS W 28 8 3 8 37.5 0 1 0.0 2 2 100.0 2 6 8 0 0 1 2 4 10
+p624
+aVJeff Foster IND 12/08/2005 IND vs. WAS W 14 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 2 1 3
+p625
+aVFred Jones IND 12/08/2005 IND vs. WAS W 32 17 7 7 100.0 2 2 100.0 1 3 33.3 0 5 5 5 1 0 2 2 21
+p626
+aVJermaine O'Neal IND 12/08/2005 IND vs. WAS W 34 25 12 18 66.7 0 0 - 1 2 50.0 0 10 10 3 0 3 0 4 23
+p627
+aVSamaki Walker IND 12/08/2005 IND vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p628
+aVScot Pollard IND 12/08/2005 IND vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p629
+aVSarunas Jasikevicius IND 12/08/2005 IND vs. WAS W 31 12 4 9 44.4 2 6 33.3 2 3 66.7 0 8 8 7 2 2 0 2 19
+p630
+aVEddie Gill IND 12/08/2005 IND vs. WAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p631
+aVDavid Harrison IND 12/06/2005 IND vs. DAL L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p632
+aVMetta World Peace IND 12/06/2005 IND vs. DAL L 38 15 6 15 40.0 0 5 0.0 3 8 37.5 1 1 2 2 5 1 3 3 -2
+p633
+aVSarunas Jasikevicius IND 12/06/2005 IND vs. DAL L 29 9 1 6 16.7 1 3 33.3 6 6 100.0 0 2 2 1 0 0 2 0 -5
+p634
+aVDanny Granger IND 12/06/2005 IND vs. DAL L 28 9 2 8 25.0 0 1 0.0 5 6 83.3 4 3 7 1 0 1 1 1 -7
+p635
+aVJeff Foster IND 12/06/2005 IND vs. DAL L 24 1 0 0 - 0 0 - 1 2 50.0 2 4 6 0 1 2 0 3 2
+p636
+aVAnthony Johnson IND 12/06/2005 IND vs. DAL L 19 0 0 4 0.0 0 1 0.0 0 2 0.0 0 0 0 2 3 0 2 4 -4
+p637
+aVFred Jones IND 12/06/2005 IND vs. DAL L 25 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 2 2 -4
+p638
+aVStephen Jackson IND 12/06/2005 IND vs. DAL L 33 7 3 9 33.3 0 2 0.0 1 1 100.0 0 5 5 1 1 0 6 2 -12
+p639
+aVJermaine O'Neal IND 12/06/2005 IND vs. DAL L 41 25 7 17 41.2 0 0 - 11 14 78.6 4 9 13 2 1 3 1 3 -11
+p640
+aVFred Jones IND 12/04/2005 IND @ SEA L 16 3 0 4 0.0 0 4 0.0 3 4 75.0 0 2 2 1 0 0 1 3 -11
+p641
+aVJermaine O'Neal IND 12/04/2005 IND @ SEA L 41 22 10 17 58.8 1 1 100.0 1 1 100.0 0 4 4 2 0 2 4 4 4
+p642
+aVDanny Granger IND 12/04/2005 IND @ SEA L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -9
+p643
+aVJeff Foster IND 12/04/2005 IND @ SEA L 18 4 1 1 100.0 0 0 - 2 5 40.0 1 2 3 0 0 0 0 2 -12
+p644
+aVSarunas Jasikevicius IND 12/04/2005 IND @ SEA L 30 16 5 8 62.5 4 5 80.0 2 2 100.0 0 7 7 9 2 0 3 3 10
+p645
+aVAnthony Johnson IND 12/04/2005 IND @ SEA L 23 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 6 1 0 1 2 -6
+p646
+aVStephen Jackson IND 12/04/2005 IND @ SEA L 42 15 7 14 50.0 1 4 25.0 0 0 - 0 0 0 2 1 1 2 5 0
+p647
+aVMetta World Peace IND 12/04/2005 IND @ SEA L 40 30 11 21 52.4 3 8 37.5 5 7 71.4 3 1 4 2 2 1 4 3 1
+p648
+aVScot Pollard IND 12/04/2005 IND @ SEA L 21 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 2 1 0 2 -2
+p649
+aVMetta World Peace IND 12/02/2005 IND @ POR W 33 12 5 14 35.7 0 3 0.0 2 4 50.0 0 5 5 2 1 0 2 3 20
+p650
+aVDanny Granger IND 12/02/2005 IND @ POR W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 1 2 6
+p651
+aVFred Jones IND 12/02/2005 IND @ POR W 22 11 3 5 60.0 2 2 100.0 3 4 75.0 0 3 3 2 0 0 0 1 7
+p652
+aVAustin Croshere IND 12/02/2005 IND @ POR W 31 9 4 6 66.7 1 3 33.3 0 0 - 1 7 8 1 0 0 1 3 25
+p653
+aVEddie Gill IND 12/02/2005 IND @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p654
+aVJermaine O'Neal IND 12/02/2005 IND @ POR W 38 27 9 19 47.4 0 0 - 9 11 81.8 6 9 15 3 0 2 3 5 18
+p655
+aVAnthony Johnson IND 12/02/2005 IND @ POR W 19 10 4 8 50.0 2 4 50.0 0 0 - 1 1 2 3 1 0 1 2 7
+p656
+aVJeff Foster IND 12/02/2005 IND @ POR W 21 4 2 5 40.0 0 0 - 0 0 - 3 3 6 1 1 0 1 3 0
+p657
+aVSarunas Jasikevicius IND 12/02/2005 IND @ POR W 29 14 5 6 83.3 1 1 100.0 3 3 100.0 1 2 3 2 0 0 2 2 13
+p658
+aVStephen Jackson IND 12/02/2005 IND @ POR W 33 9 3 9 33.3 0 3 0.0 3 4 75.0 2 1 3 2 1 0 1 3 2
+p659
+aVMetta World Peace IND 11/30/2005 IND @ PHX L 34 12 6 12 50.0 0 1 0.0 0 2 0.0 1 3 4 0 3 3 5 4 -10
+p660
+aVFred Jones IND 11/30/2005 IND @ PHX L 30 13 6 8 75.0 0 1 0.0 1 1 100.0 0 2 2 2 2 0 0 0 11
+p661
+aVDavid Harrison IND 11/30/2005 IND @ PHX L 11 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 1 1 0 1 2 8
+p662
+aVAustin Croshere IND 11/30/2005 IND @ PHX L 22 0 0 4 0.0 0 2 0.0 0 0 - 0 7 7 0 0 0 0 2 -27
+p663
+aVAnthony Johnson IND 11/30/2005 IND @ PHX L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p664
+aVDanny Granger IND 11/30/2005 IND @ PHX L 22 2 1 4 25.0 0 1 0.0 0 2 0.0 0 2 2 1 1 1 1 1 -13
+p665
+aVJermaine O'Neal IND 11/30/2005 IND @ PHX L 32 25 9 20 45.0 0 0 - 7 12 58.3 6 3 9 0 0 1 3 3 -19
+p666
+aVStephen Jackson IND 11/30/2005 IND @ PHX L 36 9 4 13 30.8 1 4 25.0 0 0 - 0 4 4 2 3 0 3 2 -24
+p667
+aVSarunas Jasikevicius IND 11/30/2005 IND @ PHX L 23 16 5 11 45.5 3 5 60.0 3 3 100.0 1 4 5 2 3 0 3 2 6
+p668
+aVJamaal Tinsley IND 11/30/2005 IND @ PHX L 21 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 3 0 0 2 2 -28
+p669
+aVEddie Gill IND 11/30/2005 IND @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p670
+aVJamaal Tinsley IND 11/29/2005 IND @ UTA W 26 14 5 9 55.6 3 3 100.0 1 2 50.0 0 6 6 1 0 1 2 2 14
+p671
+aVSamaki Walker IND 11/29/2005 IND @ UTA W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -1
+p672
+aVAustin Croshere IND 11/29/2005 IND @ UTA W 27 7 3 6 50.0 1 3 33.3 0 0 - 2 1 3 1 0 0 3 1 24
+p673
+aVStephen Jackson IND 11/29/2005 IND @ UTA W 33 9 4 12 33.3 1 4 25.0 0 0 - 1 3 4 3 3 2 1 2 18
+p674
+aVDavid Harrison IND 11/29/2005 IND @ UTA W 13 4 1 4 25.0 0 0 - 2 4 50.0 2 4 6 0 1 1 2 1 -2
+p675
+aVFred Jones IND 11/29/2005 IND @ UTA W 24 9 3 7 42.9 1 2 50.0 2 2 100.0 1 2 3 1 0 1 0 0 9
+p676
+aVJermaine O'Neal IND 11/29/2005 IND @ UTA W 33 21 7 13 53.8 0 0 - 7 8 87.5 3 12 15 4 1 3 4 2 22
+p677
+aVSarunas Jasikevicius IND 11/29/2005 IND @ UTA W 24 8 3 6 50.0 2 3 66.7 0 0 - 1 2 3 3 1 0 0 1 10
+p678
+aVMetta World Peace IND 11/29/2005 IND @ UTA W 29 8 3 10 30.0 1 2 50.0 1 4 25.0 0 2 2 1 3 1 0 4 23
+p679
+aVAnthony Johnson IND 11/29/2005 IND @ UTA W 5 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 0 -2
+p680
+aVDanny Granger IND 11/29/2005 IND @ UTA W 21 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 1 0 3 4 5
+p681
+aVMetta World Peace IND 11/27/2005 IND @ LAC W 44 22 8 19 42.1 2 6 33.3 4 7 57.1 2 2 4 2 4 1 1 2 8
+p682
+aVFred Jones IND 11/27/2005 IND @ LAC W 15 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 11
+p683
+aVAustin Croshere IND 11/27/2005 IND @ LAC W 33 17 5 7 71.4 3 4 75.0 4 5 80.0 3 5 8 1 2 0 1 4 -2
+p684
+aVDavid Harrison IND 11/27/2005 IND @ LAC W 11 2 1 3 33.3 0 0 - 0 0 - 0 6 6 0 0 0 1 2 9
+p685
+aVStephen Jackson IND 11/27/2005 IND @ LAC W 36 15 6 15 40.0 1 6 16.7 2 2 100.0 0 3 3 1 1 1 0 3 -6
+p686
+aVJamaal Tinsley IND 11/27/2005 IND @ LAC W 35 15 6 16 37.5 1 2 50.0 2 2 100.0 1 3 4 8 0 0 3 2 -4
+p687
+aVDanny Granger IND 11/27/2005 IND @ LAC W 11 2 0 2 0.0 0 1 0.0 2 2 100.0 2 1 3 0 0 0 0 5 4
+p688
+aVJermaine O'Neal IND 11/27/2005 IND @ LAC W 36 16 6 16 37.5 0 0 - 4 7 57.1 5 8 13 2 1 1 2 4 -4
+p689
+aVSarunas Jasikevicius IND 11/27/2005 IND @ LAC W 17 6 1 2 50.0 1 1 100.0 3 3 100.0 0 0 0 1 1 0 1 0 9
+p690
+aVJermaine O'Neal IND 11/25/2005 IND vs. ATL L 41 30 12 21 57.1 0 0 - 6 6 100.0 3 7 10 2 0 4 4 4 2
+p691
+aVJamaal Tinsley IND 11/25/2005 IND vs. ATL L 35 12 5 14 35.7 0 1 0.0 2 5 40.0 3 2 5 4 0 0 4 3 -5
+p692
+aVAnthony Johnson IND 11/25/2005 IND vs. ATL L 15 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 0 6
+p693
+aVSarunas Jasikevicius IND 11/25/2005 IND vs. ATL L 29 14 5 12 41.7 2 7 28.6 2 2 100.0 0 5 5 5 1 0 1 2 -3
+p694
+aVStephen Jackson IND 11/25/2005 IND vs. ATL L 34 9 4 15 26.7 1 5 20.0 0 0 - 0 4 4 1 0 0 2 4 -1
+p695
+aVFred Jones IND 11/25/2005 IND vs. ATL L 30 6 3 9 33.3 0 2 0.0 0 0 - 1 3 4 2 0 0 0 2 -1
+p696
+aVDanny Granger IND 11/25/2005 IND vs. ATL L 8 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 2 -5
+p697
+aVAustin Croshere IND 11/25/2005 IND vs. ATL L 41 10 3 5 60.0 0 2 0.0 4 4 100.0 4 11 15 1 0 1 2 3 1
+p698
+aVDavid Harrison IND 11/25/2005 IND vs. ATL L 7 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 1 -4
+p699
+aVMetta World Peace IND 11/24/2005 IND vs. CLE W 37 21 6 12 50.0 1 2 50.0 8 10 80.0 3 2 5 0 1 1 4 2 15
+p700
+aVJermaine O'Neal IND 11/24/2005 IND vs. CLE W 24 15 7 14 50.0 0 0 - 1 3 33.3 4 5 9 1 1 2 2 3 7
+p701
+aVJamaal Tinsley IND 11/24/2005 IND vs. CLE W 27 11 5 11 45.5 1 3 33.3 0 0 - 0 3 3 7 1 0 4 0 8
+p702
+aVSarunas Jasikevicius IND 11/24/2005 IND vs. CLE W 21 17 6 9 66.7 5 6 83.3 0 0 - 1 1 2 3 1 0 3 1 14
+p703
+aVFred Jones IND 11/24/2005 IND vs. CLE W 24 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 14
+p704
+aVScot Pollard IND 11/24/2005 IND vs. CLE W 11 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -3
+p705
+aVAustin Croshere IND 11/24/2005 IND vs. CLE W 30 10 4 9 44.4 2 4 50.0 0 0 - 0 6 6 2 1 0 2 2 20
+p706
+aVDanny Granger IND 11/24/2005 IND vs. CLE W 15 6 3 6 50.0 0 0 - 0 0 - 1 2 3 3 1 0 0 3 9
+p707
+aVStephen Jackson IND 11/24/2005 IND vs. CLE W 35 14 6 11 54.5 2 3 66.7 0 0 - 0 4 4 0 2 0 2 3 13
+p708
+aVSamaki Walker IND 11/24/2005 IND vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p709
+aVDavid Harrison IND 11/24/2005 IND vs. CLE W 13 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 10
+p710
+aVDavid Harrison IND 11/20/2005 IND vs. HOU W 12 2 1 3 33.3 0 0 - 0 2 0.0 3 1 4 0 0 1 0 4 5
+p711
+aVFred Jones IND 11/20/2005 IND vs. HOU W 21 6 1 3 33.3 1 2 50.0 3 4 75.0 0 1 1 0 1 1 2 2 11
+p712
+aVScot Pollard IND 11/20/2005 IND vs. HOU W 23 2 1 4 25.0 0 0 - 0 0 - 1 6 7 0 1 0 1 4 -2
+p713
+aVSarunas Jasikevicius IND 11/20/2005 IND vs. HOU W 16 7 2 7 28.6 1 5 20.0 2 4 50.0 0 2 2 2 0 0 0 0 9
+p714
+aVStephen Jackson IND 11/20/2005 IND vs. HOU W 39 17 6 10 60.0 3 7 42.9 2 2 100.0 0 2 2 3 1 0 4 2 0
+p715
+aVJamaal Tinsley IND 11/20/2005 IND vs. HOU W 30 4 2 10 20.0 0 3 0.0 0 0 - 0 4 4 8 3 0 3 3 2
+p716
+aVMetta World Peace IND 11/20/2005 IND vs. HOU W 37 24 9 20 45.0 0 3 0.0 6 7 85.7 4 1 5 2 3 0 0 2 11
+p717
+aVAustin Croshere IND 11/20/2005 IND vs. HOU W 22 8 3 5 60.0 0 1 0.0 2 2 100.0 2 5 7 2 0 0 1 1 10
+p718
+aVJermaine O'Neal IND 11/20/2005 IND vs. HOU W 40 15 5 10 50.0 0 1 0.0 5 11 45.5 2 9 11 1 0 1 1 1 9
+p719
+aVJermaine O'Neal IND 11/18/2005 IND vs. CHA W 41 29 9 17 52.9 0 0 - 11 12 91.7 6 12 18 3 3 1 4 4 11
+p720
+aVStephen Jackson IND 11/18/2005 IND vs. CHA W 29 12 5 13 38.5 2 4 50.0 0 2 0.0 1 3 4 0 0 0 3 3 14
+p721
+aVDavid Harrison IND 11/18/2005 IND vs. CHA W 16 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 3 -8
+p722
+aVScot Pollard IND 11/18/2005 IND vs. CHA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 6
+p723
+aVFred Jones IND 11/18/2005 IND vs. CHA W 21 2 0 4 0.0 0 3 0.0 2 2 100.0 1 0 1 0 0 0 2 3 -1
+p724
+aVAnthony Johnson IND 11/18/2005 IND vs. CHA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -12
+p725
+aVJamaal Tinsley IND 11/18/2005 IND vs. CHA W 34 12 5 8 62.5 0 1 0.0 2 6 33.3 1 4 5 11 3 1 4 1 4
+p726
+aVMetta World Peace IND 11/18/2005 IND vs. CHA W 41 8 4 11 36.4 0 2 0.0 0 2 0.0 1 6 7 2 3 1 4 4 6
+p727
+aVSarunas Jasikevicius IND 11/18/2005 IND vs. CHA W 15 14 2 5 40.0 0 2 0.0 10 10 100.0 0 0 0 1 1 0 1 1 11
+p728
+aVAustin Croshere IND 11/18/2005 IND vs. CHA W 31 15 3 8 37.5 1 2 50.0 8 8 100.0 2 9 11 0 0 0 1 1 9
+p729
+aVScot Pollard IND 11/16/2005 IND @ CHA L 15 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 4 1
+p730
+aVDanny Granger IND 11/16/2005 IND @ CHA L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -16
+p731
+aVMetta World Peace IND 11/16/2005 IND @ CHA L 35 27 11 18 61.1 2 5 40.0 3 8 37.5 0 7 7 6 2 0 2 2 -4
+p732
+aVStephen Jackson IND 11/16/2005 IND @ CHA L 32 18 7 11 63.6 2 4 50.0 2 6 33.3 0 2 2 0 0 0 2 1 -22
+p733
+aVJamaal Tinsley IND 11/16/2005 IND @ CHA L 18 8 2 4 50.0 2 3 66.7 2 4 50.0 1 2 3 7 0 0 4 2 -6
+p734
+aVDavid Harrison IND 11/16/2005 IND @ CHA L 15 5 1 2 50.0 0 0 - 3 4 75.0 2 1 3 0 0 2 2 2 -20
+p735
+aVSarunas Jasikevicius IND 11/16/2005 IND @ CHA L 15 5 1 2 50.0 0 1 0.0 3 3 100.0 0 0 0 2 0 0 3 1 -19
+p736
+aVAustin Croshere IND 11/16/2005 IND @ CHA L 21 3 1 2 50.0 0 0 - 1 1 100.0 2 2 4 0 0 1 1 2 -11
+p737
+aVJermaine O'Neal IND 11/16/2005 IND @ CHA L 36 17 6 14 42.9 0 0 - 5 8 62.5 1 7 8 3 1 2 5 3 -13
+p738
+aVAnthony Johnson IND 11/16/2005 IND @ CHA L 22 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 3 1 -17
+p739
+aVFred Jones IND 11/16/2005 IND @ CHA L 23 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 3 -33
+p740
+aVJermaine O'Neal IND 11/12/2005 IND @ MIL L 40 27 10 24 41.7 0 0 - 7 9 77.8 4 6 10 4 1 4 2 5 -2
+p741
+aVStephen Jackson IND 11/12/2005 IND @ MIL L 35 20 6 11 54.5 2 3 66.7 6 10 60.0 1 5 6 4 2 2 1 2 -7
+p742
+aVEddie Gill IND 11/12/2005 IND @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p743
+aVMetta World Peace IND 11/12/2005 IND @ MIL L 38 24 7 14 50.0 1 2 50.0 9 14 64.3 2 4 6 1 4 1 4 5 -5
+p744
+aVAustin Croshere IND 11/12/2005 IND @ MIL L 14 0 0 3 0.0 0 1 0.0 0 2 0.0 1 3 4 1 1 0 0 2 0
+p745
+aVAnthony Johnson IND 11/12/2005 IND @ MIL L 34 0 0 4 0.0 0 1 0.0 0 2 0.0 0 0 0 3 1 1 5 4 -16
+p746
+aVSarunas Jasikevicius IND 11/12/2005 IND @ MIL L 21 9 2 2 100.0 1 1 100.0 4 4 100.0 0 4 4 1 2 0 2 4 19
+p747
+aVFred Jones IND 11/12/2005 IND @ MIL L 32 17 6 11 54.5 1 4 25.0 4 5 80.0 0 5 5 5 4 1 3 3 6
+p748
+aVScot Pollard IND 11/12/2005 IND @ MIL L 24 5 2 4 50.0 0 0 - 1 1 100.0 2 4 6 0 3 0 0 4 4
+p749
+aVJermaine O'Neal IND 11/11/2005 IND vs. NJN W 35 20 8 17 47.1 0 1 0.0 4 5 80.0 1 6 7 2 1 2 2 3 30
+p750
+aVMetta World Peace IND 11/11/2005 IND vs. NJN W 35 30 10 15 66.7 3 5 60.0 7 10 70.0 3 3 6 2 3 0 2 2 22
+p751
+aVSarunas Jasikevicius IND 11/11/2005 IND vs. NJN W 19 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 3 1 0 2 1 -17
+p752
+aVAustin Croshere IND 11/11/2005 IND vs. NJN W 20 5 2 4 50.0 1 2 50.0 0 0 - 1 6 7 2 0 1 1 2 12
+p753
+aVSamaki Walker IND 11/11/2005 IND vs. NJN W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -10
+p754
+aVJamaal Tinsley IND 11/11/2005 IND vs. NJN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p755
+aVAnthony Johnson IND 11/11/2005 IND vs. NJN W 28 19 7 8 87.5 3 3 100.0 2 2 100.0 1 4 5 3 1 0 2 1 27
+p756
+aVStephen Jackson IND 11/11/2005 IND vs. NJN W 39 15 5 11 45.5 2 7 28.6 3 3 100.0 0 3 3 7 0 1 1 2 15
+p757
+aVDanny Granger IND 11/11/2005 IND vs. NJN W 19 4 1 5 20.0 0 1 0.0 2 2 100.0 2 1 3 1 0 0 1 4 -15
+p758
+aVFred Jones IND 11/11/2005 IND vs. NJN W 34 7 3 7 42.9 1 4 25.0 0 2 0.0 0 5 5 3 0 0 2 2 -2
+p759
+aVSarunas Jasikevicius IND 11/09/2005 IND vs. MIA W 26 8 2 4 50.0 1 2 50.0 3 3 100.0 1 2 3 1 1 0 0 0 10
+p760
+aVAustin Croshere IND 11/09/2005 IND vs. MIA W 27 6 2 3 66.7 1 2 50.0 1 1 100.0 0 5 5 1 1 0 1 6 -5
+p761
+aVDavid Harrison IND 11/09/2005 IND vs. MIA W 13 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 1 1 4 4
+p762
+aVMetta World Peace IND 11/09/2005 IND vs. MIA W 39 24 8 19 42.1 1 1 100.0 7 12 58.3 2 6 8 4 3 0 3 1 2
+p763
+aVJamaal Tinsley IND 11/09/2005 IND vs. MIA W 22 8 4 5 80.0 0 1 0.0 0 2 0.0 1 4 5 6 0 0 2 2 -5
+p764
+aVJermaine O'Neal IND 11/09/2005 IND vs. MIA W 37 17 5 17 29.4 0 0 - 7 8 87.5 1 7 8 2 1 1 5 4 -1
+p765
+aVDanny Granger IND 11/09/2005 IND vs. MIA W 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 0 0 0 0 2
+p766
+aVStephen Jackson IND 11/09/2005 IND vs. MIA W 37 14 4 9 44.4 1 2 50.0 5 6 83.3 0 4 4 2 1 0 0 4 -1
+p767
+aVFred Jones IND 11/09/2005 IND vs. MIA W 24 9 4 11 36.4 0 2 0.0 1 2 50.0 0 1 1 1 1 0 1 1 16
+p768
+aVScot Pollard IND 11/09/2005 IND vs. MIA W 6 4 1 2 50.0 0 0 - 2 2 100.0 3 0 3 0 1 0 0 2 3
+p769
+aVJamaal Tinsley IND 11/05/2005 IND vs. PHI L 35 21 9 15 60.0 0 2 0.0 3 3 100.0 2 0 2 6 3 1 2 6 2
+p770
+aVAustin Croshere IND 11/05/2005 IND vs. PHI L 41 12 5 10 50.0 1 5 20.0 1 1 100.0 2 6 8 3 0 0 2 4 7
+p771
+aVJermaine O'Neal IND 11/05/2005 IND vs. PHI L 33 23 9 18 50.0 0 0 - 5 5 100.0 3 12 15 3 1 2 3 4 10
+p772
+aVAnthony Johnson IND 11/05/2005 IND vs. PHI L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 4 0 0 1 0 -4
+p773
+aVStephen Jackson IND 11/05/2005 IND vs. PHI L 31 20 7 14 50.0 4 6 66.7 2 2 100.0 3 0 3 3 1 0 1 4 12
+p774
+aVSarunas Jasikevicius IND 11/05/2005 IND vs. PHI L 10 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 1 0 0 2 1 -4
+p775
+aVDanny Granger IND 11/05/2005 IND vs. PHI L 11 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 1 0 4 -12
+p776
+aVFred Jones IND 11/05/2005 IND vs. PHI L 12 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 -15
+p777
+aVJonathan Bender IND 11/05/2005 IND vs. PHI L 12 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 -10
+p778
+aVDavid Harrison IND 11/05/2005 IND vs. PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p779
+aVMetta World Peace IND 11/05/2005 IND vs. PHI L 40 15 4 10 40.0 1 4 25.0 6 7 85.7 2 4 6 3 1 0 8 3 8
+p780
+aVStephen Jackson IND 11/03/2005 IND @ MIA W 27 11 3 13 23.1 1 3 33.3 4 4 100.0 2 2 4 4 1 0 0 4 -11
+p781
+aVSarunas Jasikevicius IND 11/03/2005 IND @ MIA W 12 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 2 2 0 2 1 0
+p782
+aVAnthony Johnson IND 11/03/2005 IND @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p783
+aVDanny Granger IND 11/03/2005 IND @ MIA W 12 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 1 0 1 0 2 10
+p784
+aVAustin Croshere IND 11/03/2005 IND @ MIA W 29 11 3 5 60.0 0 2 0.0 5 5 100.0 1 7 8 1 1 0 0 3 16
+p785
+aVSamaki Walker IND 11/03/2005 IND @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 1
+p786
+aVFred Jones IND 11/03/2005 IND @ MIA W 29 3 1 3 33.3 1 1 100.0 0 0 - 0 4 4 0 1 0 2 2 -4
+p787
+aVJamaal Tinsley IND 11/03/2005 IND @ MIA W 35 13 6 11 54.5 1 2 50.0 0 0 - 0 4 4 6 0 0 1 4 7
+p788
+aVMetta World Peace IND 11/03/2005 IND @ MIA W 39 22 7 13 53.8 1 1 100.0 7 10 70.0 1 3 4 1 2 0 0 2 16
+p789
+aVDavid Harrison IND 11/03/2005 IND @ MIA W 12 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 4 5 -17
+p790
+aVJermaine O'Neal IND 11/03/2005 IND @ MIA W 38 27 10 20 50.0 0 0 - 7 10 70.0 2 7 9 2 1 1 1 5 -2
+p791
+aVJamaal Tinsley IND 11/02/2005 IND @ ORL W 31 9 4 9 44.4 0 1 0.0 1 2 50.0 2 1 3 5 5 0 1 3 14
+p792
+aVDanny Granger IND 11/02/2005 IND @ ORL W 10 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 0 1 2 -2
+p793
+aVFred Jones IND 11/02/2005 IND @ ORL W 22 7 1 4 25.0 1 1 100.0 4 4 100.0 0 0 0 2 0 1 4 2 4
+p794
+aVMetta World Peace IND 11/02/2005 IND @ ORL W 39 16 4 14 28.6 2 4 50.0 6 9 66.7 1 2 3 5 2 1 1 3 17
+p795
+aVAustin Croshere IND 11/02/2005 IND @ ORL W 29 16 5 7 71.4 3 5 60.0 3 3 100.0 1 3 4 1 0 0 0 1 11
+p796
+aVDavid Harrison IND 11/02/2005 IND @ ORL W 10 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 3
+p797
+aVSarunas Jasikevicius IND 11/02/2005 IND @ ORL W 18 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 2 2 0 2 1 -2
+p798
+aVJermaine O'Neal IND 11/02/2005 IND @ ORL W 37 19 8 14 57.1 0 0 - 3 4 75.0 0 7 7 2 1 2 3 3 7
+p799
+aVStephen Jackson IND 11/02/2005 IND @ ORL W 35 6 3 9 33.3 0 4 0.0 0 0 - 0 4 4 1 1 0 1 4 6
+p800
+aVJonathan Bender IND 11/02/2005 IND @ ORL W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 2
+p801
+aVSamaki Walker IND 11/02/2005 IND @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p802
+a.

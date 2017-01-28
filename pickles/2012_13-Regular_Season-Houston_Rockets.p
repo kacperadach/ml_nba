@@ -1,0 +1,1678 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChandler Parsons HOU 04/17/2013 HOU @ LAL L 45 23 10 18 55.6 2 7 28.6 1 2 50.0 0 4 4 3 1 0 3 3 -13
+p2
+aVPatrick Beverley HOU 04/17/2013 HOU @ LAL L 18 6 2 5 40.0 0 2 0.0 2 2 100.0 1 4 5 2 1 0 0 3 -1
+p3
+aVTerrence Jones HOU 04/17/2013 HOU @ LAL L 13 4 2 2 100.0 0 0 - 0 0 - 1 2 3 2 1 0 0 1 -4
+p4
+aVOmer Asik HOU 04/17/2013 HOU @ LAL L 43 8 4 7 57.1 0 0 - 0 1 0.0 3 9 12 0 1 1 1 5 -6
+p5
+aVJames Harden HOU 04/17/2013 HOU @ LAL L 45 30 8 25 32.0 4 13 30.8 10 12 83.3 2 6 8 3 1 0 6 3 -4
+p6
+aVCarlos Delfino HOU 04/17/2013 HOU @ LAL L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 2 1 0 0 3 1
+p7
+aVGreg Smith HOU 04/17/2013 HOU @ LAL L 42 8 4 6 66.7 0 0 - 0 0 - 2 8 10 1 0 4 1 5 12
+p8
+aVJeremy Lin HOU 04/17/2013 HOU @ LAL L 35 12 4 14 28.6 2 7 28.6 2 4 50.0 0 2 2 8 0 0 2 4 -5
+p9
+aVFrancisco Garcia HOU 04/17/2013 HOU @ LAL L 9 4 1 3 33.3 0 2 0.0 2 3 66.7 0 0 0 0 0 0 0 1 0
+p10
+aVCarlos Delfino HOU 04/15/2013 HOU @ PHX L 31 23 8 15 53.3 6 9 66.7 1 1 100.0 0 8 8 2 2 1 1 3 7
+p11
+aVDonatas Motiejunas HOU 04/15/2013 HOU @ PHX L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -7
+p12
+aVPatrick Beverley HOU 04/15/2013 HOU @ PHX L 17 5 2 4 50.0 1 2 50.0 0 0 - 2 1 3 0 0 1 0 2 2
+p13
+aVChandler Parsons HOU 04/15/2013 HOU @ PHX L 40 24 8 13 61.5 2 4 50.0 6 7 85.7 0 4 4 7 0 1 3 2 -21
+p14
+aVTerrence Jones HOU 04/15/2013 HOU @ PHX L 29 12 6 11 54.5 0 1 0.0 0 0 - 1 3 4 1 0 6 1 3 8
+p15
+aVJames Anderson HOU 04/15/2013 HOU @ PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 9
+p16
+aVJames Harden HOU 04/15/2013 HOU @ PHX L 34 16 5 18 27.8 0 7 0.0 6 11 54.5 0 4 4 2 1 0 4 1 -20
+p17
+aVJeremy Lin HOU 04/15/2013 HOU @ PHX L 36 20 8 19 42.1 2 6 33.3 2 4 50.0 0 3 3 4 0 1 2 4 -8
+p18
+aVGreg Smith HOU 04/15/2013 HOU @ PHX L 14 4 2 6 33.3 0 0 - 0 0 - 3 0 3 0 1 0 2 4 -14
+p19
+aVOmer Asik HOU 04/15/2013 HOU @ PHX L 14 6 3 4 75.0 0 0 - 0 0 - 1 6 7 1 1 0 1 2 -7
+p20
+aVFrancisco Garcia HOU 04/15/2013 HOU @ PHX L 16 0 0 0 - 0 0 - 0 0 - 0 4 4 3 0 1 1 0 16
+p21
+aVDonatas Motiejunas HOU 04/14/2013 HOU vs. SAC W 14 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 0 1 2 4 -1
+p22
+aVPatrick Beverley HOU 04/14/2013 HOU vs. SAC W 17 7 2 5 40.0 1 3 33.3 2 2 100.0 0 2 2 0 2 1 3 3 2
+p23
+aVThomas Robinson HOU 04/14/2013 HOU vs. SAC W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 1 1 2 0 -3
+p24
+aVFrancisco Garcia HOU 04/14/2013 HOU vs. SAC W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p25
+aVChandler Parsons HOU 04/14/2013 HOU vs. SAC W 27 13 5 7 71.4 2 3 66.7 1 1 100.0 0 5 5 5 1 1 0 0 23
+p26
+aVJames Harden HOU 04/14/2013 HOU vs. SAC W 32 29 11 16 68.8 4 6 66.7 3 7 42.9 1 3 4 9 2 1 2 0 17
+p27
+aVAaron Brooks HOU 04/14/2013 HOU vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p28
+aVJames Anderson HOU 04/14/2013 HOU vs. SAC W 6 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 1 1 0 -3
+p29
+aVTerrence Jones HOU 04/14/2013 HOU vs. SAC W 20 9 3 8 37.5 0 2 0.0 3 4 75.0 0 3 3 1 3 5 1 1 17
+p30
+aVOmer Asik HOU 04/14/2013 HOU vs. SAC W 26 10 4 9 44.4 0 0 - 2 2 100.0 3 9 12 1 0 0 2 2 20
+p31
+aVJeremy Lin HOU 04/14/2013 HOU vs. SAC W 26 15 4 8 50.0 1 2 50.0 6 6 100.0 0 4 4 2 0 0 3 1 22
+p32
+aVGreg Smith HOU 04/14/2013 HOU vs. SAC W 22 11 5 8 62.5 0 0 - 1 2 50.0 0 5 5 2 2 1 1 4 7
+p33
+aVCarlos Delfino HOU 04/14/2013 HOU vs. SAC W 25 14 5 11 45.5 4 9 44.4 0 0 - 0 3 3 4 0 0 0 2 -1
+p34
+aVTerrence Jones HOU 04/12/2013 HOU vs. MEM L 28 7 3 7 42.9 1 2 50.0 0 0 - 5 7 12 2 1 2 2 4 4
+p35
+aVGreg Smith HOU 04/12/2013 HOU vs. MEM L 21 5 2 3 66.7 0 0 - 1 4 25.0 4 3 7 2 1 1 0 4 -4
+p36
+aVCarlos Delfino HOU 04/12/2013 HOU vs. MEM L 15 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 1 1 -3
+p37
+aVDonatas Motiejunas HOU 04/12/2013 HOU vs. MEM L 7 2 0 5 0.0 0 2 0.0 2 2 100.0 1 1 2 0 0 0 0 0 4
+p38
+aVPatrick Beverley HOU 04/12/2013 HOU vs. MEM L 23 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 1 0 0 1 5 3
+p39
+aVFrancisco Garcia HOU 04/12/2013 HOU vs. MEM L 22 6 2 8 25.0 2 7 28.6 0 0 - 0 2 2 0 0 0 1 1 -8
+p40
+aVJames Harden HOU 04/12/2013 HOU vs. MEM L 44 30 7 24 29.2 5 10 50.0 11 14 78.6 1 6 7 6 2 2 8 4 -3
+p41
+aVOmer Asik HOU 04/12/2013 HOU vs. MEM L 34 8 3 8 37.5 0 0 - 2 2 100.0 3 8 11 1 0 1 3 2 -11
+p42
+aVJeremy Lin HOU 04/12/2013 HOU vs. MEM L 45 17 5 13 38.5 2 5 40.0 5 6 83.3 1 4 5 5 0 1 4 5 -2
+p43
+aVGreg Smith HOU 04/09/2013 HOU vs. PHX W 28 12 5 7 71.4 0 0 - 2 3 66.7 3 2 5 0 1 1 1 2 5
+p44
+aVJeremy Lin HOU 04/09/2013 HOU vs. PHX W 37 13 5 14 35.7 0 4 0.0 3 3 100.0 0 1 1 6 2 0 2 1 2
+p45
+aVDonatas Motiejunas HOU 04/09/2013 HOU vs. PHX W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p46
+aVOmer Asik HOU 04/09/2013 HOU vs. PHX W 38 8 3 9 33.3 0 0 - 2 2 100.0 7 15 22 0 2 2 0 3 12
+p47
+aVFrancisco Garcia HOU 04/09/2013 HOU vs. PHX W 36 15 6 13 46.2 3 10 30.0 0 0 - 1 0 1 2 1 0 1 3 9
+p48
+aVTerrence Jones HOU 04/09/2013 HOU vs. PHX W 23 11 5 8 62.5 0 1 0.0 1 2 50.0 2 4 6 2 1 0 1 2 -10
+p49
+aVJames Anderson HOU 04/09/2013 HOU vs. PHX W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 2
+p50
+aVJames Harden HOU 04/09/2013 HOU vs. PHX W 44 33 9 21 42.9 2 8 25.0 13 14 92.9 0 6 6 6 3 1 9 3 2
+p51
+aVPatrick Beverley HOU 04/09/2013 HOU vs. PHX W 20 9 4 10 40.0 1 5 20.0 0 0 - 1 0 1 2 1 1 1 2 -3
+p52
+aVFrancisco Garcia HOU 04/06/2013 HOU @ DEN L 28 12 4 9 44.4 4 8 50.0 0 0 - 0 2 2 1 0 0 0 2 -15
+p53
+aVThomas Robinson HOU 04/06/2013 HOU @ DEN L 12 5 2 4 50.0 0 0 - 1 6 16.7 3 1 4 1 1 0 1 0 1
+p54
+aVGreg Smith HOU 04/06/2013 HOU @ DEN L 13 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 0 0 1 1 3 -12
+p55
+aVJeremy Lin HOU 04/06/2013 HOU @ DEN L 35 23 8 15 53.3 2 6 33.3 5 6 83.3 0 2 2 8 0 0 1 3 -23
+p56
+aVDonatas Motiejunas HOU 04/06/2013 HOU @ DEN L 16 12 4 6 66.7 1 3 33.3 3 4 75.0 0 3 3 0 0 2 4 2 -14
+p57
+aVAaron Brooks HOU 04/06/2013 HOU @ DEN L 10 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 2 0 2 0 2 2
+p58
+aVJames Harden HOU 04/06/2013 HOU @ DEN L 29 14 2 10 20.0 0 3 0.0 10 10 100.0 1 3 4 5 1 1 3 2 -6
+p59
+aVTerrence Jones HOU 04/06/2013 HOU @ DEN L 28 13 5 11 45.5 2 4 50.0 1 3 33.3 4 2 6 0 1 2 2 2 -6
+p60
+aVJames Anderson HOU 04/06/2013 HOU @ DEN L 21 11 4 11 36.4 3 7 42.9 0 1 0.0 0 4 4 2 1 0 1 3 -4
+p61
+aVPatrick Beverley HOU 04/06/2013 HOU @ DEN L 22 7 3 3 100.0 1 1 100.0 0 0 - 0 3 3 9 0 1 2 1 -8
+p62
+aVOmer Asik HOU 04/06/2013 HOU @ DEN L 27 4 2 3 66.7 0 0 - 0 0 - 2 7 9 2 1 1 3 2 -5
+p63
+aVThomas Robinson HOU 04/05/2013 HOU @ POR W 4 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 -2
+p64
+aVTerrence Jones HOU 04/05/2013 HOU @ POR W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 10
+p65
+aVOmer Asik HOU 04/05/2013 HOU @ POR W 29 9 3 7 42.9 0 1 0.0 3 4 75.0 5 6 11 1 0 1 0 4 16
+p66
+aVDonatas Motiejunas HOU 04/05/2013 HOU @ POR W 26 10 3 10 30.0 1 4 25.0 3 4 75.0 3 4 7 2 0 0 0 2 13
+p67
+aVAaron Brooks HOU 04/05/2013 HOU @ POR W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p68
+aVTim Ohlbrecht HOU 04/05/2013 HOU @ POR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p69
+aVPatrick Beverley HOU 04/05/2013 HOU @ POR W 22 7 3 3 100.0 1 1 100.0 0 0 - 1 1 2 6 1 1 0 0 15
+p70
+aVGreg Smith HOU 04/05/2013 HOU @ POR W 24 19 5 6 83.3 0 0 - 9 12 75.0 0 5 5 1 0 1 0 6 -1
+p71
+aVJames Anderson HOU 04/05/2013 HOU @ POR W 20 3 1 2 50.0 1 1 100.0 0 0 - 0 4 4 0 0 0 0 1 6
+p72
+aVJeremy Lin HOU 04/05/2013 HOU @ POR W 34 22 8 13 61.5 2 4 50.0 4 5 80.0 1 3 4 8 2 0 4 2 19
+p73
+aVJames Harden HOU 04/05/2013 HOU @ POR W 35 33 11 21 52.4 4 9 44.4 7 8 87.5 0 7 7 6 1 1 4 0 11
+p74
+aVFrancisco Garcia HOU 04/05/2013 HOU @ POR W 26 11 4 9 44.4 3 7 42.9 0 0 - 0 2 2 0 3 0 1 2 7
+p75
+aVOmer Asik HOU 04/03/2013 HOU @ SAC W 36 19 6 8 75.0 0 0 - 7 9 77.8 0 10 10 1 2 0 2 6 17
+p76
+aVDonatas Motiejunas HOU 04/03/2013 HOU @ SAC W 11 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 0 0 0 1 2 -10
+p77
+aVJames Harden HOU 04/03/2013 HOU @ SAC W 40 21 7 19 36.8 2 8 25.0 5 6 83.3 1 6 7 9 0 2 5 2 11
+p78
+aVPatrick Beverley HOU 04/03/2013 HOU @ SAC W 14 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 5 0 1 2 2 -7
+p79
+aVJames Anderson HOU 04/03/2013 HOU @ SAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p80
+aVJeremy Lin HOU 04/03/2013 HOU @ SAC W 34 15 5 13 38.5 3 6 50.0 2 2 100.0 0 1 1 10 1 0 2 4 17
+p81
+aVGreg Smith HOU 04/03/2013 HOU @ SAC W 20 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 1 5 13
+p82
+aVChandler Parsons HOU 04/03/2013 HOU @ SAC W 40 29 12 18 66.7 3 6 50.0 2 2 100.0 0 5 5 4 0 1 3 1 15
+p83
+aVTerrence Jones HOU 04/03/2013 HOU @ SAC W 29 14 6 11 54.5 0 1 0.0 2 2 100.0 8 4 12 1 2 0 1 4 0
+p84
+aVFrancisco Garcia HOU 04/03/2013 HOU @ SAC W 13 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 2 0 2 2 -5
+p85
+aVJames Anderson HOU 04/01/2013 HOU vs. ORL W 39 9 3 12 25.0 1 4 25.0 2 2 100.0 4 4 8 1 1 0 1 1 1
+p86
+aVPatrick Beverley HOU 04/01/2013 HOU vs. ORL W 22 5 2 8 25.0 1 2 50.0 0 0 - 2 1 3 2 0 1 0 2 -12
+p87
+aVOmer Asik HOU 04/01/2013 HOU vs. ORL W 28 22 11 13 84.6 0 0 - 0 0 - 5 13 18 2 0 0 3 3 22
+p88
+aVJeremy Lin HOU 04/01/2013 HOU vs. ORL W 30 19 8 16 50.0 2 4 50.0 1 2 50.0 0 3 3 11 0 0 3 1 21
+p89
+aVFrancisco Garcia HOU 04/01/2013 HOU vs. ORL W 25 14 5 6 83.3 4 5 80.0 0 0 - 0 2 2 5 0 3 0 1 21
+p90
+aVGreg Smith HOU 04/01/2013 HOU vs. ORL W 21 12 5 8 62.5 0 0 - 2 2 100.0 1 3 4 1 0 1 0 5 3
+p91
+aVDonatas Motiejunas HOU 04/01/2013 HOU vs. ORL W 34 11 4 11 36.4 0 4 0.0 3 4 75.0 1 1 2 3 2 1 1 2 -4
+p92
+aVThomas Robinson HOU 04/01/2013 HOU vs. ORL W 14 7 2 9 22.2 0 0 - 3 8 37.5 4 4 8 0 1 0 1 2 -5
+p93
+aVCarlos Delfino HOU 04/01/2013 HOU vs. ORL W 27 12 4 15 26.7 1 10 10.0 3 4 75.0 3 3 6 2 0 0 0 2 -7
+p94
+aVTim Ohlbrecht HOU 03/30/2013 HOU vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -1
+p95
+aVChandler Parsons HOU 03/30/2013 HOU vs. LAC W 34 15 6 15 40.0 2 5 40.0 1 2 50.0 2 7 9 4 1 1 2 3 20
+p96
+aVThomas Robinson HOU 03/30/2013 HOU vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p97
+aVJeremy Lin HOU 03/30/2013 HOU vs. LAC W 31 15 4 10 40.0 1 2 50.0 6 8 75.0 0 0 0 3 0 1 6 4 12
+p98
+aVFrancisco Garcia HOU 03/30/2013 HOU vs. LAC W 27 15 5 10 50.0 3 7 42.9 2 2 100.0 0 1 1 1 1 1 1 1 11
+p99
+aVCarlos Delfino HOU 03/30/2013 HOU vs. LAC W 23 11 4 8 50.0 2 5 40.0 1 1 100.0 0 2 2 2 2 0 2 1 9
+p100
+aVOmer Asik HOU 03/30/2013 HOU vs. LAC W 34 13 6 9 66.7 0 0 - 1 4 25.0 2 10 12 2 1 2 2 1 13
+p101
+aVAaron Brooks HOU 03/30/2013 HOU vs. LAC W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p102
+aVJames Anderson HOU 03/30/2013 HOU vs. LAC W 26 7 2 8 25.0 0 1 0.0 3 4 75.0 1 4 5 2 2 0 4 1 8
+p103
+aVGreg Smith HOU 03/30/2013 HOU vs. LAC W 30 9 3 7 42.9 0 0 - 3 4 75.0 2 6 8 0 0 0 0 1 13
+p104
+aVPatrick Beverley HOU 03/30/2013 HOU vs. LAC W 17 9 3 7 42.9 1 3 33.3 2 2 100.0 2 2 4 3 0 0 1 4 5
+p105
+aVDonatas Motiejunas HOU 03/30/2013 HOU vs. LAC W 9 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 0 0 1 -1
+p106
+aVChandler Parsons HOU 03/29/2013 HOU @ MEM L 26 16 5 9 55.6 3 5 60.0 3 4 75.0 0 2 2 1 0 1 0 0 -17
+p107
+aVOmer Asik HOU 03/29/2013 HOU @ MEM L 22 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -16
+p108
+aVDonatas Motiejunas HOU 03/29/2013 HOU @ MEM L 22 16 7 11 63.6 2 3 66.7 0 0 - 1 1 2 0 0 0 3 4 -11
+p109
+aVThomas Robinson HOU 03/29/2013 HOU @ MEM L 20 5 2 10 20.0 0 0 - 1 2 50.0 4 2 6 1 0 0 1 5 6
+p110
+aVPatrick Beverley HOU 03/29/2013 HOU @ MEM L 25 9 2 7 28.6 1 4 25.0 4 4 100.0 3 2 5 3 1 2 3 2 5
+p111
+aVCarlos Delfino HOU 03/29/2013 HOU @ MEM L 28 15 4 11 36.4 2 7 28.6 5 5 100.0 0 3 3 2 2 0 2 3 4
+p112
+aVGreg Smith HOU 03/29/2013 HOU @ MEM L 25 2 1 1 100.0 0 0 - 0 2 0.0 5 4 9 0 2 0 0 5 7
+p113
+aVJames Harden HOU 03/29/2013 HOU @ MEM L 27 7 3 9 33.3 1 4 25.0 0 0 - 0 1 1 4 2 0 1 1 -16
+p114
+aVJames Anderson HOU 03/29/2013 HOU @ MEM L 21 10 4 9 44.4 0 3 0.0 2 2 100.0 1 1 2 4 1 1 1 2 7
+p115
+aVJeremy Lin HOU 03/29/2013 HOU @ MEM L 23 8 3 9 33.3 0 1 0.0 2 2 100.0 0 1 1 3 2 1 2 2 -14
+p116
+aVJeremy Lin HOU 03/27/2013 HOU vs. IND L 20 8 3 6 50.0 1 2 50.0 1 1 100.0 0 1 1 4 2 0 4 1 -13
+p117
+aVPatrick Beverley HOU 03/27/2013 HOU vs. IND L 28 9 3 6 50.0 1 3 33.3 2 2 100.0 1 2 3 1 0 1 1 1 4
+p118
+aVOmer Asik HOU 03/27/2013 HOU vs. IND L 26 8 3 5 60.0 0 0 - 2 3 66.7 2 3 5 1 1 1 1 3 -15
+p119
+aVGreg Smith HOU 03/27/2013 HOU vs. IND L 32 18 6 12 50.0 0 0 - 6 8 75.0 7 12 19 0 0 0 2 4 7
+p120
+aVJames Harden HOU 03/27/2013 HOU vs. IND L 43 22 6 24 25.0 3 10 30.0 7 9 77.8 0 4 4 8 1 0 3 4 -5
+p121
+aVThomas Robinson HOU 03/27/2013 HOU vs. IND L 22 10 4 8 50.0 0 0 - 2 2 100.0 4 0 4 1 1 0 0 3 5
+p122
+aVDonatas Motiejunas HOU 03/27/2013 HOU vs. IND L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 4 -9
+p123
+aVChandler Parsons HOU 03/27/2013 HOU vs. IND L 40 11 5 14 35.7 0 3 0.0 1 1 100.0 0 2 2 3 1 1 2 2 -14
+p124
+aVCarlos Delfino HOU 03/27/2013 HOU vs. IND L 16 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 0 1 0 1 3 -5
+p125
+aVJames Harden HOU 03/24/2013 HOU vs. SAS W 40 29 6 16 37.5 2 5 40.0 15 17 88.2 1 8 9 6 2 2 1 1 5
+p126
+aVGreg Smith HOU 03/24/2013 HOU vs. SAS W 13 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 0
+p127
+aVChandler Parsons HOU 03/24/2013 HOU vs. SAS W 45 20 8 17 47.1 2 7 28.6 2 2 100.0 2 6 8 2 0 0 2 0 -4
+p128
+aVJeremy Lin HOU 03/24/2013 HOU vs. SAS W 27 6 2 8 25.0 0 1 0.0 2 2 100.0 0 2 2 5 2 1 4 3 -13
+p129
+aVCarlos Delfino HOU 03/24/2013 HOU vs. SAS W 29 9 4 10 40.0 1 6 16.7 0 0 - 0 2 2 1 2 0 2 1 8
+p130
+aVOmer Asik HOU 03/24/2013 HOU vs. SAS W 35 5 2 10 20.0 0 0 - 1 2 50.0 6 8 14 2 0 3 3 4 1
+p131
+aVThomas Robinson HOU 03/24/2013 HOU vs. SAS W 11 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 2 3
+p132
+aVDonatas Motiejunas HOU 03/24/2013 HOU vs. SAS W 16 10 4 8 50.0 2 4 50.0 0 0 - 1 0 1 0 0 0 0 5 -9
+p133
+aVPatrick Beverley HOU 03/24/2013 HOU vs. SAS W 24 11 4 6 66.7 2 3 66.7 1 2 50.0 1 2 3 2 1 1 0 5 14
+p134
+aVGreg Smith HOU 03/22/2013 HOU vs. CLE W 25 4 2 3 66.7 0 0 - 0 0 - 3 10 13 0 0 0 2 3 31
+p135
+aVDonatas Motiejunas HOU 03/22/2013 HOU vs. CLE W 21 10 3 5 60.0 1 3 33.3 3 6 50.0 1 3 4 2 0 0 0 3 2
+p136
+aVCarlos Delfino HOU 03/22/2013 HOU vs. CLE W 20 8 3 7 42.9 2 6 33.3 0 0 - 0 4 4 2 1 0 1 1 22
+p137
+aVAaron Brooks HOU 03/22/2013 HOU vs. CLE W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 4 1 1 1 1 11
+p138
+aVThomas Robinson HOU 03/22/2013 HOU vs. CLE W 22 15 6 7 85.7 0 0 - 3 3 100.0 2 4 6 1 3 2 5 2 28
+p139
+aVJames Anderson HOU 03/22/2013 HOU vs. CLE W 12 11 5 6 83.3 1 2 50.0 0 0 - 2 2 4 1 0 0 0 1 12
+p140
+aVPatrick Beverley HOU 03/22/2013 HOU vs. CLE W 21 11 4 7 57.1 1 2 50.0 2 2 100.0 0 4 4 5 1 1 2 2 26
+p141
+aVOmer Asik HOU 03/22/2013 HOU vs. CLE W 23 13 6 8 75.0 0 0 - 1 3 33.3 3 8 11 1 0 1 2 2 7
+p142
+aVChandler Parsons HOU 03/22/2013 HOU vs. CLE W 28 13 5 11 45.5 1 4 25.0 2 3 66.7 1 3 4 1 0 1 1 0 17
+p143
+aVFrancisco Garcia HOU 03/22/2013 HOU vs. CLE W 10 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 1 0 0 1 0 12
+p144
+aVJeremy Lin HOU 03/22/2013 HOU vs. CLE W 20 4 2 7 28.6 0 2 0.0 0 1 0.0 1 0 1 6 0 0 3 2 1
+p145
+aVJames Harden HOU 03/22/2013 HOU vs. CLE W 31 20 5 9 55.6 3 5 60.0 7 9 77.8 0 1 1 2 2 0 4 1 21
+p146
+aVJames Harden HOU 03/20/2013 HOU vs. UTA W 38 29 5 14 35.7 2 6 33.3 17 18 94.4 0 2 2 3 2 1 3 3 7
+p147
+aVThomas Robinson HOU 03/20/2013 HOU vs. UTA W 17 4 2 7 28.6 0 1 0.0 0 0 - 1 5 6 0 0 0 2 2 0
+p148
+aVCarlos Delfino HOU 03/20/2013 HOU vs. UTA W 24 9 4 8 50.0 1 5 20.0 0 0 - 1 3 4 1 2 0 0 1 6
+p149
+aVChandler Parsons HOU 03/20/2013 HOU vs. UTA W 38 10 5 10 50.0 0 4 0.0 0 0 - 0 8 8 3 1 0 1 4 0
+p150
+aVJeremy Lin HOU 03/20/2013 HOU vs. UTA W 30 24 9 13 69.2 1 1 100.0 5 6 83.3 0 2 2 6 0 0 2 3 -3
+p151
+aVDonatas Motiejunas HOU 03/20/2013 HOU vs. UTA W 26 5 2 8 25.0 1 4 25.0 0 2 0.0 1 4 5 0 1 1 2 4 8
+p152
+aVPatrick Beverley HOU 03/20/2013 HOU vs. UTA W 18 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 2 3 1 2 2 10
+p153
+aVGreg Smith HOU 03/20/2013 HOU vs. UTA W 13 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 2 4
+p154
+aVOmer Asik HOU 03/20/2013 HOU vs. UTA W 35 9 3 8 37.5 0 0 - 3 4 75.0 4 8 12 0 0 1 3 2 3
+p155
+aVThomas Robinson HOU 03/17/2013 HOU vs. GSW L 5 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 0 1 0 -9
+p156
+aVJames Harden HOU 03/17/2013 HOU vs. GSW L 40 21 6 16 37.5 3 7 42.9 6 6 100.0 1 9 10 8 3 0 3 3 -19
+p157
+aVJeremy Lin HOU 03/17/2013 HOU vs. GSW L 35 21 9 16 56.3 3 5 60.0 0 3 0.0 0 1 1 4 0 0 2 0 -15
+p158
+aVChandler Parsons HOU 03/17/2013 HOU vs. GSW L 36 9 2 13 15.4 1 6 16.7 4 4 100.0 1 6 7 2 0 1 1 2 -17
+p159
+aVOmer Asik HOU 03/17/2013 HOU vs. GSW L 31 6 3 5 60.0 0 0 - 0 0 - 4 7 11 1 1 3 1 3 -14
+p160
+aVDonatas Motiejunas HOU 03/17/2013 HOU vs. GSW L 20 4 2 11 18.2 0 4 0.0 0 0 - 0 3 3 0 0 0 1 1 7
+p161
+aVCarlos Delfino HOU 03/17/2013 HOU vs. GSW L 23 12 4 11 36.4 2 7 28.6 2 2 100.0 0 1 1 1 2 1 0 1 -21
+p162
+aVPatrick Beverley HOU 03/17/2013 HOU vs. GSW L 13 0 0 4 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 2 1 -15
+p163
+aVFrancisco Garcia HOU 03/17/2013 HOU vs. GSW L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p164
+aVGreg Smith HOU 03/17/2013 HOU vs. GSW L 17 5 2 4 50.0 0 0 - 1 1 100.0 1 5 6 0 0 0 2 3 -16
+p165
+aVJames Anderson HOU 03/17/2013 HOU vs. GSW L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 -8
+p166
+aVAaron Brooks HOU 03/17/2013 HOU vs. GSW L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -10
+p167
+aVDonatas Motiejunas HOU 03/15/2013 HOU vs. MIN W 25 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 3 0 0 1 1 2
+p168
+aVThomas Robinson HOU 03/15/2013 HOU vs. MIN W 6 2 1 2 50.0 0 0 - 0 1 0.0 1 3 4 0 1 0 1 1 0
+p169
+aVCarlos Delfino HOU 03/15/2013 HOU vs. MIN W 29 9 3 9 33.3 1 5 20.0 2 2 100.0 4 6 10 2 1 1 0 1 4
+p170
+aVOmer Asik HOU 03/15/2013 HOU vs. MIN W 23 6 3 7 42.9 0 0 - 0 0 - 5 6 11 0 0 1 4 2 2
+p171
+aVFrancisco Garcia HOU 03/15/2013 HOU vs. MIN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 1
+p172
+aVJeremy Lin HOU 03/15/2013 HOU vs. MIN W 39 24 8 15 53.3 3 8 37.5 5 6 83.3 0 1 1 8 4 0 3 2 6
+p173
+aVJames Harden HOU 03/15/2013 HOU vs. MIN W 43 37 8 16 50.0 5 10 50.0 16 18 88.9 0 7 7 8 0 0 5 5 7
+p174
+aVChandler Parsons HOU 03/15/2013 HOU vs. MIN W 39 14 6 12 50.0 2 5 40.0 0 0 - 0 4 4 2 1 0 2 4 4
+p175
+aVGreg Smith HOU 03/15/2013 HOU vs. MIN W 22 12 5 7 71.4 0 0 - 2 4 50.0 1 3 4 0 0 0 1 1 12
+p176
+aVPatrick Beverley HOU 03/15/2013 HOU vs. MIN W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 2 2
+p177
+aVJames Anderson HOU 03/13/2013 HOU vs. PHX W 8 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 2 2 0 0 0 -6
+p178
+aVThomas Robinson HOU 03/13/2013 HOU vs. PHX W 20 12 5 9 55.6 0 0 - 2 4 50.0 4 3 7 0 1 0 4 0 -5
+p179
+aVPatrick Beverley HOU 03/13/2013 HOU vs. PHX W 22 6 2 7 28.6 2 4 50.0 0 0 - 1 2 3 4 3 0 1 0 5
+p180
+aVJames Harden HOU 03/13/2013 HOU vs. PHX W 32 18 4 7 57.1 3 5 60.0 7 8 87.5 0 2 2 4 0 0 4 2 34
+p181
+aVJeremy Lin HOU 03/13/2013 HOU vs. PHX W 26 13 5 9 55.6 1 2 50.0 2 2 100.0 0 3 3 6 2 0 2 1 25
+p182
+aVAaron Brooks HOU 03/13/2013 HOU vs. PHX W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 3 0 -4
+p183
+aVChandler Parsons HOU 03/13/2013 HOU vs. PHX W 24 11 5 11 45.5 0 3 0.0 1 1 100.0 0 3 3 4 1 1 1 0 26
+p184
+aVCarlos Delfino HOU 03/13/2013 HOU vs. PHX W 15 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 1 1 0 0 0 10
+p185
+aVFrancisco Garcia HOU 03/13/2013 HOU vs. PHX W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 0
+p186
+aVOmer Asik HOU 03/13/2013 HOU vs. PHX W 26 14 4 7 57.1 0 0 - 6 7 85.7 2 5 7 1 0 1 2 1 24
+p187
+aVGreg Smith HOU 03/13/2013 HOU vs. PHX W 22 6 3 5 60.0 0 0 - 0 2 0.0 2 10 12 1 0 2 3 4 6
+p188
+aVDonatas Motiejunas HOU 03/13/2013 HOU vs. PHX W 28 19 7 12 58.3 2 4 50.0 3 4 75.0 2 3 5 2 0 1 1 3 35
+p189
+aVJames Harden HOU 03/09/2013 HOU @ PHX L 42 38 11 17 64.7 7 10 70.0 9 12 75.0 1 4 5 8 1 0 8 3 4
+p190
+aVDonatas Motiejunas HOU 03/09/2013 HOU @ PHX L 18 8 3 7 42.9 2 5 40.0 0 0 - 1 2 3 0 0 1 1 5 2
+p191
+aVThomas Robinson HOU 03/09/2013 HOU @ PHX L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p192
+aVPatrick Beverley HOU 03/09/2013 HOU @ PHX L 17 0 0 4 0.0 0 2 0.0 0 0 - 3 0 3 5 1 0 1 1 -1
+p193
+aVJeremy Lin HOU 03/09/2013 HOU @ PHX L 31 11 4 9 44.4 1 5 20.0 2 2 100.0 1 0 1 4 1 0 5 6 -1
+p194
+aVOmer Asik HOU 03/09/2013 HOU @ PHX L 38 4 2 6 33.3 0 0 - 0 0 - 6 10 16 0 0 2 3 3 -7
+p195
+aVGreg Smith HOU 03/09/2013 HOU @ PHX L 9 4 2 4 50.0 0 0 - 0 1 0.0 2 0 2 0 0 0 0 2 2
+p196
+aVCarlos Delfino HOU 03/09/2013 HOU @ PHX L 29 21 8 15 53.3 5 9 55.6 0 0 - 0 5 5 1 2 0 0 1 -7
+p197
+aVChandler Parsons HOU 03/09/2013 HOU @ PHX L 35 14 5 16 31.3 3 6 50.0 1 3 33.3 1 0 1 2 2 1 0 1 4
+p198
+aVFrancisco Garcia HOU 03/09/2013 HOU @ PHX L 13 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 2 3 1 1 1 -6
+p199
+aVOmer Asik HOU 03/08/2013 HOU @ GSW W 39 6 3 7 42.9 0 0 - 0 2 0.0 2 15 17 1 0 0 2 1 20
+p200
+aVJames Harden HOU 03/08/2013 HOU @ GSW W 42 20 3 17 17.6 3 8 37.5 11 14 78.6 1 5 6 11 3 0 3 1 5
+p201
+aVJeremy Lin HOU 03/08/2013 HOU @ GSW W 37 15 3 9 33.3 1 3 33.3 8 9 88.9 0 7 7 4 1 0 1 2 11
+p202
+aVDonatas Motiejunas HOU 03/08/2013 HOU @ GSW W 12 9 4 7 57.1 1 3 33.3 0 0 - 1 0 1 1 0 0 2 4 -4
+p203
+aVChandler Parsons HOU 03/08/2013 HOU @ GSW W 42 26 9 13 69.2 6 8 75.0 2 2 100.0 1 2 3 3 0 0 2 1 5
+p204
+aVThomas Robinson HOU 03/08/2013 HOU @ GSW W 9 0 0 3 0.0 0 0 - 0 2 0.0 1 2 3 0 2 0 1 1 -9
+p205
+aVGreg Smith HOU 03/08/2013 HOU @ GSW W 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 1 -14
+p206
+aVPatrick Beverley HOU 03/08/2013 HOU @ GSW W 11 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 3 -5
+p207
+aVFrancisco Garcia HOU 03/08/2013 HOU @ GSW W 13 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 3 0 0 1 3
+p208
+aVCarlos Delfino HOU 03/08/2013 HOU @ GSW W 25 12 3 9 33.3 2 8 25.0 4 5 80.0 0 4 4 0 2 0 1 2 18
+p209
+aVCarlos Delfino HOU 03/06/2013 HOU @ DAL L 21 11 4 9 44.4 3 7 42.9 0 0 - 0 6 6 0 0 0 1 4 4
+p210
+aVThomas Robinson HOU 03/06/2013 HOU @ DAL L 28 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 1 2 0 2 4
+p211
+aVJames Harden HOU 03/06/2013 HOU @ DAL L 39 28 5 17 29.4 2 7 28.6 16 16 100.0 1 3 4 9 2 0 2 3 -13
+p212
+aVFrancisco Garcia HOU 03/06/2013 HOU @ DAL L 22 7 2 6 33.3 1 4 25.0 2 2 100.0 0 2 2 2 1 1 1 1 3
+p213
+aVChandler Parsons HOU 03/06/2013 HOU @ DAL L 43 23 8 15 53.3 5 8 62.5 2 2 100.0 0 4 4 1 0 1 1 2 0
+p214
+aVOmer Asik HOU 03/06/2013 HOU @ DAL L 23 12 4 5 80.0 0 0 - 4 11 36.4 4 11 15 0 0 0 1 3 -2
+p215
+aVJeremy Lin HOU 03/06/2013 HOU @ DAL L 25 12 5 10 50.0 1 2 50.0 1 1 100.0 0 1 1 3 0 0 3 0 -7
+p216
+aVDonatas Motiejunas HOU 03/06/2013 HOU @ DAL L 16 7 3 8 37.5 0 4 0.0 1 1 100.0 0 1 1 0 0 0 1 1 -12
+p217
+aVPatrick Beverley HOU 03/06/2013 HOU @ DAL L 23 0 0 2 0.0 0 0 - 0 0 - 2 1 3 7 1 1 2 2 3
+p218
+aVJames Anderson HOU 03/03/2013 HOU vs. DAL W 9 3 1 3 33.3 0 2 0.0 1 1 100.0 0 1 1 1 1 0 0 0 2
+p219
+aVFrancisco Garcia HOU 03/03/2013 HOU vs. DAL W 18 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 0 0 0 0 4 -2
+p220
+aVTim Ohlbrecht HOU 03/03/2013 HOU vs. DAL W 6 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 1 0 1 1 -4
+p221
+aVChandler Parsons HOU 03/03/2013 HOU vs. DAL W 30 32 12 13 92.3 6 7 85.7 2 2 100.0 1 2 3 2 0 0 2 3 28
+p222
+aVThomas Robinson HOU 03/03/2013 HOU vs. DAL W 18 10 3 4 75.0 0 0 - 4 6 66.7 1 7 8 1 3 0 1 4 9
+p223
+aVPatrick Beverley HOU 03/03/2013 HOU vs. DAL W 23 9 2 5 40.0 0 1 0.0 5 6 83.3 4 3 7 3 1 0 2 3 7
+p224
+aVGreg Smith HOU 03/03/2013 HOU vs. DAL W 8 8 3 3 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 1 1
+p225
+aVJames Harden HOU 03/03/2013 HOU vs. DAL W 30 21 5 10 50.0 4 8 50.0 7 9 77.8 0 4 4 7 1 0 0 1 37
+p226
+aVDonatas Motiejunas HOU 03/03/2013 HOU vs. DAL W 30 8 3 6 50.0 1 3 33.3 1 3 33.3 3 5 8 4 1 0 3 2 31
+p227
+aVCarlos Delfino HOU 03/03/2013 HOU vs. DAL W 17 3 1 7 14.3 0 5 0.0 1 1 100.0 0 1 1 2 0 0 1 0 4
+p228
+aVOmer Asik HOU 03/03/2013 HOU vs. DAL W 26 10 4 6 66.7 0 0 - 2 4 50.0 0 10 10 0 3 0 0 0 26
+p229
+aVJeremy Lin HOU 03/03/2013 HOU vs. DAL W 25 21 8 14 57.1 1 4 25.0 4 5 80.0 0 0 0 9 2 0 2 2 26
+p230
+aVGreg Smith HOU 03/01/2013 HOU @ ORL W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 1 0
+p231
+aVPatrick Beverley HOU 03/01/2013 HOU @ ORL W 22 13 5 7 71.4 3 4 75.0 0 0 - 0 2 2 6 3 0 1 1 8
+p232
+aVChandler Parsons HOU 03/01/2013 HOU @ ORL W 41 21 9 15 60.0 3 7 42.9 0 2 0.0 0 2 2 4 2 0 1 1 13
+p233
+aVJames Harden HOU 03/01/2013 HOU @ ORL W 42 24 7 18 38.9 0 5 0.0 10 11 90.9 0 7 7 8 3 1 2 3 3
+p234
+aVOmer Asik HOU 03/01/2013 HOU @ ORL W 34 9 4 6 66.7 0 0 - 1 5 20.0 6 6 12 1 0 0 0 4 12
+p235
+aVCarlos Delfino HOU 03/01/2013 HOU @ ORL W 29 21 6 12 50.0 5 9 55.6 4 4 100.0 1 2 3 1 0 0 0 2 7
+p236
+aVJeremy Lin HOU 03/01/2013 HOU @ ORL W 26 11 3 6 50.0 2 2 100.0 3 4 75.0 0 1 1 5 0 0 2 1 0
+p237
+aVThomas Robinson HOU 03/01/2013 HOU @ ORL W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 -8
+p238
+aVDonatas Motiejunas HOU 03/01/2013 HOU @ ORL W 24 17 7 12 58.3 2 5 40.0 1 2 50.0 2 1 3 1 0 0 3 2 5
+p239
+aVChandler Parsons HOU 02/27/2013 HOU vs. MIL L 43 20 9 17 52.9 2 5 40.0 0 2 0.0 2 3 5 2 1 0 5 1 6
+p240
+aVJames Harden HOU 02/27/2013 HOU vs. MIL L 38 25 8 18 44.4 2 6 33.3 7 10 70.0 0 2 2 7 4 0 7 4 -9
+p241
+aVJeremy Lin HOU 02/27/2013 HOU vs. MIL L 33 10 4 11 36.4 0 2 0.0 2 2 100.0 0 3 3 7 3 1 2 1 3
+p242
+aVOmer Asik HOU 02/27/2013 HOU vs. MIL L 31 16 7 12 58.3 0 0 - 2 3 66.7 6 16 22 1 0 0 1 2 1
+p243
+aVGreg Smith HOU 02/27/2013 HOU vs. MIL L 11 6 3 4 75.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 1 -5
+p244
+aVThomas Robinson HOU 02/27/2013 HOU vs. MIL L 8 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 3 -18
+p245
+aVCarlos Delfino HOU 02/27/2013 HOU vs. MIL L 31 12 5 14 35.7 1 6 16.7 1 1 100.0 0 1 1 1 1 0 0 2 -1
+p246
+aVPatrick Beverley HOU 02/27/2013 HOU vs. MIL L 19 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 2 1 0 0 2 -4
+p247
+aVDonatas Motiejunas HOU 02/27/2013 HOU vs. MIL L 26 13 4 9 44.4 1 2 50.0 4 4 100.0 3 4 7 5 1 0 2 4 12
+p248
+aVJames Harden HOU 02/23/2013 HOU @ WAS L 42 27 10 23 43.5 3 11 27.3 4 4 100.0 1 3 4 6 3 0 3 2 -6
+p249
+aVGreg Smith HOU 02/23/2013 HOU @ WAS L 10 1 0 1 0.0 0 0 - 1 4 25.0 1 0 1 0 0 0 0 3 7
+p250
+aVCarlos Delfino HOU 02/23/2013 HOU @ WAS L 35 12 4 14 28.6 4 12 33.3 0 0 - 1 4 5 3 0 0 3 2 -4
+p251
+aVOmer Asik HOU 02/23/2013 HOU @ WAS L 35 5 2 4 50.0 0 0 - 1 2 50.0 3 7 10 1 1 2 5 5 -4
+p252
+aVJeremy Lin HOU 02/23/2013 HOU @ WAS L 26 5 2 9 22.2 1 3 33.3 0 0 - 0 1 1 6 3 0 2 2 -11
+p253
+aVJames Anderson HOU 02/23/2013 HOU @ WAS L 4 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 0
+p254
+aVDonatas Motiejunas HOU 02/23/2013 HOU @ WAS L 23 11 4 6 66.7 2 4 50.0 1 2 50.0 3 3 6 2 0 0 0 2 6
+p255
+aVChandler Parsons HOU 02/23/2013 HOU @ WAS L 42 24 9 15 60.0 5 9 55.6 1 2 50.0 2 5 7 3 0 1 1 1 -7
+p256
+aVPatrick Beverley HOU 02/23/2013 HOU @ WAS L 22 15 6 9 66.7 3 5 60.0 0 0 - 2 2 4 3 0 0 2 2 9
+p257
+aVPatrick Beverley HOU 02/22/2013 HOU @ BKN W 14 9 3 5 60.0 3 4 75.0 0 0 - 0 1 1 2 0 1 0 3 9
+p258
+aVJames Harden HOU 02/22/2013 HOU @ BKN W 42 22 7 14 50.0 4 7 57.1 4 5 80.0 0 5 5 4 1 0 3 1 9
+p259
+aVJames Anderson HOU 02/22/2013 HOU @ BKN W 15 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 3 1 1 0 0 2
+p260
+aVJeremy Lin HOU 02/22/2013 HOU @ BKN W 36 9 4 11 36.4 0 2 0.0 1 2 50.0 0 2 2 6 0 0 5 3 0
+p261
+aVChandler Parsons HOU 02/22/2013 HOU @ BKN W 39 10 3 7 42.9 2 4 50.0 2 2 100.0 1 4 5 4 1 1 3 4 11
+p262
+aVGreg Smith HOU 02/22/2013 HOU @ BKN W 16 10 5 5 100.0 0 0 - 0 1 0.0 3 1 4 0 0 1 1 4 7
+p263
+aVCarlos Delfino HOU 02/22/2013 HOU @ BKN W 36 22 8 14 57.1 6 9 66.7 0 0 - 0 5 5 5 1 0 1 1 5
+p264
+aVOmer Asik HOU 02/22/2013 HOU @ BKN W 30 10 5 11 45.5 0 0 - 0 0 - 1 10 11 1 1 0 0 3 5
+p265
+aVDonatas Motiejunas HOU 02/22/2013 HOU @ BKN W 11 9 4 5 80.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 3 3 2
+p266
+aVJeremy Lin HOU 02/20/2013 HOU vs. OKC W 42 29 12 22 54.5 3 5 60.0 2 3 66.7 0 6 6 7 2 0 3 4 2
+p267
+aVDonatas Motiejunas HOU 02/20/2013 HOU vs. OKC W 5 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -6
+p268
+aVJames Anderson HOU 02/20/2013 HOU vs. OKC W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -5
+p269
+aVCarlos Delfino HOU 02/20/2013 HOU vs. OKC W 42 9 3 12 25.0 3 10 30.0 0 0 - 0 6 6 5 4 0 2 5 8
+p270
+aVJames Harden HOU 02/20/2013 HOU vs. OKC W 44 46 14 19 73.7 7 8 87.5 11 12 91.7 1 6 7 6 2 1 2 2 6
+p271
+aVChandler Parsons HOU 02/20/2013 HOU vs. OKC W 35 17 6 15 40.0 2 7 28.6 3 4 75.0 2 4 6 5 2 0 5 3 8
+p272
+aVGreg Smith HOU 02/20/2013 HOU vs. OKC W 21 8 4 5 80.0 0 0 - 0 0 - 2 2 4 1 0 1 3 5 8
+p273
+aVOmer Asik HOU 02/20/2013 HOU vs. OKC W 27 9 3 10 30.0 0 0 - 3 4 75.0 6 4 10 0 1 1 1 3 -5
+p274
+aVPatrick Beverley HOU 02/20/2013 HOU vs. OKC W 18 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 2 1 1 1 -11
+p275
+aVCole Aldrich HOU 02/13/2013 HOU @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p276
+aVJeremy Lin HOU 02/13/2013 HOU @ LAC L 34 14 4 12 33.3 1 3 33.3 5 6 83.3 0 2 2 7 2 1 4 4 -14
+p277
+aVMarcus Morris HOU 02/13/2013 HOU @ LAC L 29 10 4 11 36.4 1 5 20.0 1 1 100.0 1 5 6 1 1 0 1 5 -3
+p278
+aVDonatas Motiejunas HOU 02/13/2013 HOU @ LAC L 16 13 5 8 62.5 0 1 0.0 3 4 75.0 1 2 3 2 0 0 2 0 9
+p279
+aVPatrick Patterson HOU 02/13/2013 HOU @ LAC L 24 12 6 11 54.5 0 0 - 0 0 - 2 4 6 0 1 0 0 3 -7
+p280
+aVOmer Asik HOU 02/13/2013 HOU @ LAC L 26 8 3 5 60.0 0 0 - 2 2 100.0 3 4 7 0 1 1 2 1 -16
+p281
+aVCarlos Delfino HOU 02/13/2013 HOU @ LAC L 23 3 1 6 16.7 1 5 20.0 0 0 - 0 1 1 2 2 0 2 2 -3
+p282
+aVPatrick Beverley HOU 02/13/2013 HOU @ LAC L 25 5 2 6 33.3 1 2 50.0 0 0 - 2 3 5 2 2 0 3 4 2
+p283
+aVJames Anderson HOU 02/13/2013 HOU @ LAC L 25 14 4 7 57.1 1 4 25.0 5 5 100.0 2 3 5 0 1 0 2 2 -5
+p284
+aVChandler Parsons HOU 02/13/2013 HOU @ LAC L 37 17 7 16 43.8 0 4 0.0 3 4 75.0 2 4 6 4 0 0 5 2 -10
+p285
+aVOmer Asik HOU 02/12/2013 HOU @ GSW W 33 13 6 8 75.0 0 0 - 1 3 33.3 3 12 15 2 0 0 0 5 4
+p286
+aVPatrick Beverley HOU 02/12/2013 HOU @ GSW W 19 7 3 6 50.0 1 4 25.0 0 0 - 1 2 3 5 2 0 0 4 5
+p287
+aVChandler Parsons HOU 02/12/2013 HOU @ GSW W 37 21 9 15 60.0 3 6 50.0 0 3 0.0 2 6 8 9 1 1 2 3 4
+p288
+aVCarlos Delfino HOU 02/12/2013 HOU @ GSW W 23 10 4 8 50.0 2 5 40.0 0 0 - 0 3 3 1 1 1 1 0 5
+p289
+aVPatrick Patterson HOU 02/12/2013 HOU @ GSW W 30 12 6 9 66.7 0 2 0.0 0 0 - 0 2 2 0 0 1 0 2 7
+p290
+aVJames Harden HOU 02/12/2013 HOU @ GSW W 39 27 7 22 31.8 2 8 25.0 11 11 100.0 1 6 7 5 3 0 5 0 10
+p291
+aVCole Aldrich HOU 02/12/2013 HOU @ GSW W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p292
+aVJeremy Lin HOU 02/12/2013 HOU @ GSW W 29 14 3 11 27.3 0 2 0.0 8 8 100.0 1 1 2 10 0 0 0 3 4
+p293
+aVMarcus Morris HOU 02/12/2013 HOU @ GSW W 22 12 5 11 45.5 2 7 28.6 0 0 - 2 5 7 0 1 0 3 4 3
+p294
+aVCarlos Delfino HOU 02/10/2013 HOU @ SAC L 29 15 5 13 38.5 3 9 33.3 2 2 100.0 0 1 1 3 0 1 1 2 -7
+p295
+aVJeremy Lin HOU 02/10/2013 HOU @ SAC L 29 12 5 8 62.5 1 1 100.0 1 1 100.0 0 2 2 6 1 2 1 6 -1
+p296
+aVChandler Parsons HOU 02/10/2013 HOU @ SAC L 27 5 2 12 16.7 0 6 0.0 1 2 50.0 1 1 2 6 3 0 1 0 3
+p297
+aVPatrick Beverley HOU 02/10/2013 HOU @ SAC L 19 6 3 6 50.0 0 2 0.0 0 0 - 3 2 5 8 0 1 2 3 -5
+p298
+aVMarcus Morris HOU 02/10/2013 HOU @ SAC L 13 8 3 5 60.0 2 4 50.0 0 0 - 0 4 4 0 1 0 2 2 -2
+p299
+aVOmer Asik HOU 02/10/2013 HOU @ SAC L 34 17 8 9 88.9 0 0 - 1 1 100.0 6 6 12 0 0 3 3 4 -2
+p300
+aVJames Harden HOU 02/10/2013 HOU @ SAC L 40 30 10 20 50.0 2 7 28.6 8 11 72.7 3 3 6 4 1 0 4 1 -10
+p301
+aVPatrick Patterson HOU 02/10/2013 HOU @ SAC L 35 18 8 16 50.0 2 4 50.0 0 0 - 1 5 6 2 0 0 1 1 -4
+p302
+aVCole Aldrich HOU 02/10/2013 HOU @ SAC L 13 0 0 0 - 0 0 - 0 0 - 0 5 5 0 0 0 0 2 -2
+p303
+aVToney Douglas HOU 02/08/2013 HOU vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p304
+aVChandler Parsons HOU 02/08/2013 HOU vs. POR W 38 20 8 14 57.1 4 8 50.0 0 0 - 0 3 3 3 2 1 2 2 19
+p305
+aVMarcus Morris HOU 02/08/2013 HOU vs. POR W 10 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p306
+aVCole Aldrich HOU 02/08/2013 HOU vs. POR W 14 6 3 3 100.0 0 0 - 0 0 - 0 4 4 1 0 2 0 3 -3
+p307
+aVCarlos Delfino HOU 02/08/2013 HOU vs. POR W 22 5 2 7 28.6 1 5 20.0 0 0 - 0 0 0 1 0 0 0 2 7
+p308
+aVJames Anderson HOU 02/08/2013 HOU vs. POR W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -6
+p309
+aVPatrick Patterson HOU 02/08/2013 HOU vs. POR W 27 16 8 11 72.7 0 1 0.0 0 0 - 1 5 6 1 0 2 0 1 17
+p310
+aVPatrick Beverley HOU 02/08/2013 HOU vs. POR W 20 2 0 2 0.0 0 2 0.0 2 2 100.0 0 4 4 6 2 0 1 2 4
+p311
+aVOmer Asik HOU 02/08/2013 HOU vs. POR W 31 9 3 9 33.3 0 0 - 3 4 75.0 5 8 13 0 0 4 0 4 14
+p312
+aVJeremy Lin HOU 02/08/2013 HOU vs. POR W 26 16 6 10 60.0 2 3 66.7 2 4 50.0 0 0 0 4 0 0 2 1 10
+p313
+aVGreg Smith HOU 02/08/2013 HOU vs. POR W 3 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p314
+aVDonatas Motiejunas HOU 02/08/2013 HOU vs. POR W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p315
+aVJames Harden HOU 02/08/2013 HOU vs. POR W 38 35 13 16 81.3 4 5 80.0 5 6 83.3 1 6 7 11 1 0 3 2 21
+p316
+aVPatrick Patterson HOU 02/06/2013 HOU @ MIA L 35 15 7 12 58.3 1 1 100.0 0 0 - 1 2 3 0 0 0 2 4 -16
+p317
+aVCole Aldrich HOU 02/06/2013 HOU @ MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 6
+p318
+aVMarcus Morris HOU 02/06/2013 HOU @ MIA L 13 3 1 7 14.3 1 4 25.0 0 0 - 2 0 2 0 0 0 1 0 4
+p319
+aVJeremy Lin HOU 02/06/2013 HOU @ MIA L 32 13 3 10 30.0 1 2 50.0 6 6 100.0 0 1 1 3 1 1 2 4 -14
+p320
+aVJames Harden HOU 02/06/2013 HOU @ MIA L 41 36 10 16 62.5 4 7 57.1 12 13 92.3 2 10 12 7 3 0 4 3 -7
+p321
+aVJames Anderson HOU 02/06/2013 HOU @ MIA L 28 6 2 7 28.6 0 3 0.0 2 2 100.0 0 2 2 4 0 0 2 4 16
+p322
+aVOmer Asik HOU 02/06/2013 HOU @ MIA L 35 15 7 11 63.6 0 0 - 1 3 33.3 3 11 14 0 1 0 1 4 -7
+p323
+aVToney Douglas HOU 02/06/2013 HOU @ MIA L 16 7 3 7 42.9 1 4 25.0 0 0 - 0 3 3 3 1 0 2 2 8
+p324
+aVChandler Parsons HOU 02/06/2013 HOU @ MIA L 35 13 6 9 66.7 1 4 25.0 0 1 0.0 0 1 1 2 0 0 2 5 -20
+p325
+aVJames Harden HOU 02/05/2013 HOU vs. GSW W 30 18 5 11 45.5 4 5 80.0 4 8 50.0 0 2 2 7 3 0 1 2 22
+p326
+aVPatrick Beverley HOU 02/05/2013 HOU vs. GSW W 6 11 2 3 66.7 1 2 50.0 6 8 75.0 0 0 0 1 0 0 0 0 8
+p327
+aVDonatas Motiejunas HOU 02/05/2013 HOU vs. GSW W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 4 8
+p328
+aVChandler Parsons HOU 02/05/2013 HOU vs. GSW W 33 16 6 12 50.0 4 8 50.0 0 0 - 1 3 4 8 0 0 1 0 24
+p329
+aVPatrick Patterson HOU 02/05/2013 HOU vs. GSW W 26 12 5 13 38.5 1 2 50.0 1 2 50.0 5 5 10 3 0 0 0 0 15
+p330
+aVOmer Asik HOU 02/05/2013 HOU vs. GSW W 32 11 3 8 37.5 0 0 - 5 7 71.4 5 10 15 0 0 0 2 3 38
+p331
+aVMarcus Morris HOU 02/05/2013 HOU vs. GSW W 23 13 5 10 50.0 3 6 50.0 0 0 - 1 3 4 0 1 1 0 2 13
+p332
+aVJames Anderson HOU 02/05/2013 HOU vs. GSW W 22 8 3 7 42.9 2 4 50.0 0 0 - 2 6 8 4 0 0 1 3 5
+p333
+aVToney Douglas HOU 02/05/2013 HOU vs. GSW W 15 14 3 6 50.0 2 4 50.0 6 6 100.0 0 1 1 3 1 0 0 4 -11
+p334
+aVJeremy Lin HOU 02/05/2013 HOU vs. GSW W 33 28 10 16 62.5 5 8 62.5 3 4 75.0 0 1 1 9 1 0 2 2 37
+p335
+aVGreg Smith HOU 02/05/2013 HOU vs. GSW W 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 1 4 -4
+p336
+aVChandler Parsons HOU 02/02/2013 HOU vs. CHA W 44 24 9 17 52.9 3 6 50.0 3 3 100.0 3 7 10 4 0 1 2 2 19
+p337
+aVCole Aldrich HOU 02/02/2013 HOU vs. CHA W 10 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -12
+p338
+aVPatrick Patterson HOU 02/02/2013 HOU vs. CHA W 29 24 10 12 83.3 2 3 66.7 2 2 100.0 1 3 4 1 0 0 1 4 27
+p339
+aVMarcus Morris HOU 02/02/2013 HOU vs. CHA W 19 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 1 -13
+p340
+aVJames Harden HOU 02/02/2013 HOU vs. CHA W 40 21 6 11 54.5 1 3 33.3 8 9 88.9 0 11 11 11 1 1 3 4 16
+p341
+aVCarlos Delfino HOU 02/02/2013 HOU vs. CHA W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 5
+p342
+aVJeremy Lin HOU 02/02/2013 HOU vs. CHA W 34 9 4 10 40.0 0 2 0.0 1 1 100.0 1 1 2 8 3 1 4 2 13
+p343
+aVToney Douglas HOU 02/02/2013 HOU vs. CHA W 20 7 3 11 27.3 1 4 25.0 0 0 - 1 2 3 1 0 0 1 2 -11
+p344
+aVOmer Asik HOU 02/02/2013 HOU vs. CHA W 38 19 8 13 61.5 0 0 - 3 6 50.0 6 9 15 1 1 2 1 2 26
+p345
+aVJeremy Lin HOU 01/30/2013 HOU @ DEN L 31 22 8 15 53.3 1 3 33.3 5 8 62.5 0 1 1 5 1 1 1 3 -5
+p346
+aVMarcus Morris HOU 01/30/2013 HOU @ DEN L 17 5 2 6 33.3 1 3 33.3 0 0 - 0 4 4 1 0 0 1 4 -6
+p347
+aVOmer Asik HOU 01/30/2013 HOU @ DEN L 35 10 4 7 57.1 0 0 - 2 4 50.0 4 14 18 4 1 1 7 3 8
+p348
+aVCarlos Delfino HOU 01/30/2013 HOU @ DEN L 25 8 2 7 28.6 2 7 28.6 2 2 100.0 0 2 2 3 1 1 1 3 -10
+p349
+aVJames Harden HOU 01/30/2013 HOU @ DEN L 42 21 6 13 46.2 1 2 50.0 8 12 66.7 2 3 5 4 2 0 6 4 -3
+p350
+aVChandler Parsons HOU 01/30/2013 HOU @ DEN L 38 21 8 13 61.5 3 7 42.9 2 3 66.7 0 3 3 3 1 1 4 5 -7
+p351
+aVToney Douglas HOU 01/30/2013 HOU @ DEN L 19 11 4 11 36.4 0 4 0.0 3 4 75.0 1 3 4 2 2 1 0 5 -8
+p352
+aVPatrick Patterson HOU 01/30/2013 HOU @ DEN L 27 10 4 6 66.7 0 1 0.0 2 2 100.0 3 2 5 0 2 1 1 1 -6
+p353
+aVGreg Smith HOU 01/30/2013 HOU @ DEN L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -3
+p354
+aVToney Douglas HOU 01/28/2013 HOU @ UTA W 23 7 3 10 30.0 1 5 20.0 0 0 - 0 0 0 1 1 0 0 0 20
+p355
+aVGreg Smith HOU 01/28/2013 HOU @ UTA W 14 3 1 5 20.0 0 0 - 1 1 100.0 2 2 4 0 0 0 0 4 13
+p356
+aVCarlos Delfino HOU 01/28/2013 HOU @ UTA W 22 14 5 9 55.6 4 6 66.7 0 0 - 0 1 1 2 0 0 0 2 21
+p357
+aVPatrick Beverley HOU 01/28/2013 HOU @ UTA W 12 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 3 2 1 0 1 11
+p358
+aVDonatas Motiejunas HOU 01/28/2013 HOU @ UTA W 8 6 2 6 33.3 2 3 66.7 0 0 - 1 1 2 1 0 0 0 2 4
+p359
+aVOmer Asik HOU 01/28/2013 HOU @ UTA W 26 4 1 5 20.0 0 0 - 2 2 100.0 2 17 19 0 0 2 2 1 28
+p360
+aVCole Aldrich HOU 01/28/2013 HOU @ UTA W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 4
+p361
+aVPatrick Patterson HOU 01/28/2013 HOU @ UTA W 26 12 6 9 66.7 0 1 0.0 0 0 - 0 2 2 2 0 0 0 3 25
+p362
+aVJames Anderson HOU 01/28/2013 HOU @ UTA W 10 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 3 1 0 0 0 11
+p363
+aVChandler Parsons HOU 01/28/2013 HOU @ UTA W 25 12 6 8 75.0 0 2 0.0 0 0 - 1 2 3 2 3 0 0 0 29
+p364
+aVJames Harden HOU 01/28/2013 HOU @ UTA W 28 25 8 15 53.3 1 5 20.0 8 8 100.0 1 2 3 3 1 1 0 1 18
+p365
+aVJeremy Lin HOU 01/28/2013 HOU @ UTA W 25 12 5 5 100.0 1 1 100.0 1 1 100.0 0 2 2 7 3 0 3 1 25
+p366
+aVMarcus Morris HOU 01/28/2013 HOU @ UTA W 15 16 5 9 55.6 4 6 66.7 2 4 50.0 2 0 2 2 1 0 0 1 16
+p367
+aVPatrick Beverley HOU 01/26/2013 HOU vs. BKN W 1 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p368
+aVCole Aldrich HOU 01/26/2013 HOU vs. BKN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p369
+aVGreg Smith HOU 01/26/2013 HOU vs. BKN W 16 9 3 3 100.0 0 0 - 3 4 75.0 0 1 1 1 0 0 0 0 7
+p370
+aVJeremy Lin HOU 01/26/2013 HOU vs. BKN W 35 14 5 14 35.7 2 4 50.0 2 2 100.0 0 5 5 9 1 1 6 2 14
+p371
+aVOmer Asik HOU 01/26/2013 HOU vs. BKN W 31 20 9 12 75.0 0 0 - 2 6 33.3 6 10 16 1 0 0 2 5 6
+p372
+aVPatrick Patterson HOU 01/26/2013 HOU vs. BKN W 23 7 3 7 42.9 0 1 0.0 1 1 100.0 0 2 2 1 0 0 1 2 13
+p373
+aVJames Anderson HOU 01/26/2013 HOU vs. BKN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p374
+aVToney Douglas HOU 01/26/2013 HOU vs. BKN W 12 6 2 5 40.0 2 3 66.7 0 0 - 1 1 2 0 0 0 0 2 -1
+p375
+aVCarlos Delfino HOU 01/26/2013 HOU vs. BKN W 28 13 5 9 55.6 3 5 60.0 0 0 - 0 5 5 0 2 0 1 2 5
+p376
+aVJames Harden HOU 01/26/2013 HOU vs. BKN W 34 29 7 15 46.7 2 5 40.0 13 14 92.9 1 2 3 7 2 1 0 1 -1
+p377
+aVChandler Parsons HOU 01/26/2013 HOU vs. BKN W 40 16 7 11 63.6 2 5 40.0 0 0 - 1 5 6 11 1 1 1 3 28
+p378
+aVMarcus Morris HOU 01/26/2013 HOU vs. BKN W 18 5 2 9 22.2 1 4 25.0 0 0 - 5 5 10 1 0 0 0 1 -3
+p379
+aVCole Aldrich HOU 01/25/2013 HOU @ NOH W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p380
+aVOmer Asik HOU 01/25/2013 HOU @ NOH W 26 0 0 4 0.0 0 0 - 0 0 - 1 5 6 0 1 1 3 4 6
+p381
+aVToney Douglas HOU 01/25/2013 HOU @ NOH W 14 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 2 4
+p382
+aVJames Harden HOU 01/25/2013 HOU @ NOH W 36 30 8 15 53.3 2 3 66.7 12 12 100.0 1 3 4 8 1 0 8 2 4
+p383
+aVPatrick Patterson HOU 01/25/2013 HOU @ NOH W 34 18 8 11 72.7 1 1 100.0 1 2 50.0 5 8 13 0 0 1 0 2 16
+p384
+aVMarcus Morris HOU 01/25/2013 HOU @ NOH W 17 8 3 6 50.0 2 4 50.0 0 0 - 1 2 3 0 0 0 3 4 1
+p385
+aVJeremy Lin HOU 01/25/2013 HOU @ NOH W 37 13 3 6 50.0 1 3 33.3 6 8 75.0 0 5 5 8 6 1 4 1 17
+p386
+aVChandler Parsons HOU 01/25/2013 HOU @ NOH W 35 10 5 13 38.5 0 1 0.0 0 1 0.0 1 2 3 2 0 3 1 3 16
+p387
+aVJames Anderson HOU 01/25/2013 HOU @ NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p388
+aVGreg Smith HOU 01/25/2013 HOU @ NOH W 13 2 1 2 50.0 0 0 - 0 1 0.0 3 2 5 1 0 0 1 5 7
+p389
+aVPatrick Beverley HOU 01/25/2013 HOU @ NOH W 1 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p390
+aVCarlos Delfino HOU 01/25/2013 HOU @ NOH W 25 14 5 9 55.6 4 6 66.7 0 0 - 1 2 3 2 0 1 0 1 13
+p391
+aVPatrick Patterson HOU 01/23/2013 HOU vs. DEN L 15 10 4 7 57.1 1 2 50.0 1 2 50.0 0 1 1 1 2 1 2 1 -9
+p392
+aVJames Harden HOU 01/23/2013 HOU vs. DEN L 39 23 8 17 47.1 2 6 33.3 5 5 100.0 0 3 3 7 1 0 7 3 -14
+p393
+aVCole Aldrich HOU 01/23/2013 HOU vs. DEN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p394
+aVJeremy Lin HOU 01/23/2013 HOU vs. DEN L 24 9 3 7 42.9 0 1 0.0 3 3 100.0 0 1 1 3 1 0 2 2 -12
+p395
+aVGreg Smith HOU 01/23/2013 HOU vs. DEN L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -9
+p396
+aVOmer Asik HOU 01/23/2013 HOU vs. DEN L 34 6 3 5 60.0 0 0 - 0 1 0.0 4 9 13 3 0 3 4 1 -4
+p397
+aVPatrick Beverley HOU 01/23/2013 HOU vs. DEN L 13 0 0 3 0.0 0 3 0.0 0 0 - 1 2 3 5 2 1 1 0 3
+p398
+aVToney Douglas HOU 01/23/2013 HOU vs. DEN L 14 8 4 11 36.4 0 5 0.0 0 0 - 1 2 3 2 0 0 1 3 6
+p399
+aVMarcus Morris HOU 01/23/2013 HOU vs. DEN L 24 10 4 9 44.4 2 3 66.7 0 0 - 1 4 5 0 0 1 1 3 -2
+p400
+aVChandler Parsons HOU 01/23/2013 HOU vs. DEN L 29 6 2 8 25.0 1 4 25.0 1 2 50.0 0 4 4 1 1 1 2 5 3
+p401
+aVCarlos Delfino HOU 01/23/2013 HOU vs. DEN L 31 15 6 12 50.0 3 8 37.5 0 0 - 0 3 3 1 1 0 1 3 -12
+p402
+aVJames Anderson HOU 01/23/2013 HOU vs. DEN L 2 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p403
+aVJames Harden HOU 01/21/2013 HOU @ CHA W 41 29 5 20 25.0 0 5 0.0 19 21 90.5 2 5 7 7 2 0 4 2 -1
+p404
+aVPatrick Beverley HOU 01/21/2013 HOU @ CHA W 24 10 3 6 50.0 2 5 40.0 2 3 66.7 2 1 3 2 0 0 2 3 17
+p405
+aVOmer Asik HOU 01/21/2013 HOU @ CHA W 30 6 2 4 50.0 0 0 - 2 5 40.0 1 7 8 0 1 0 3 5 -3
+p406
+aVCole Aldrich HOU 01/21/2013 HOU @ CHA W 18 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 1 0 0 4 9
+p407
+aVChandler Parsons HOU 01/21/2013 HOU @ CHA W 36 14 5 8 62.5 2 3 66.7 2 2 100.0 1 6 7 5 1 1 0 2 -2
+p408
+aVPatrick Patterson HOU 01/21/2013 HOU @ CHA W 8 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 1 1 3
+p409
+aVMarcus Morris HOU 01/21/2013 HOU @ CHA W 33 21 7 12 58.3 3 7 42.9 4 6 66.7 1 7 8 2 1 2 0 2 9
+p410
+aVJeremy Lin HOU 01/21/2013 HOU @ CHA W 24 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 3 1 0 2 2 -11
+p411
+aVCarlos Delfino HOU 01/21/2013 HOU @ CHA W 25 16 6 14 42.9 3 8 37.5 1 2 50.0 1 2 3 1 0 0 1 2 9
+p412
+aVJames Harden HOU 01/19/2013 HOU @ MIN L 39 18 5 18 27.8 0 7 0.0 8 10 80.0 4 3 7 5 2 0 4 5 -20
+p413
+aVPatrick Patterson HOU 01/19/2013 HOU @ MIN L 19 3 1 3 33.3 1 1 100.0 0 0 - 3 1 4 0 0 1 0 1 -6
+p414
+aVChandler Parsons HOU 01/19/2013 HOU @ MIN L 33 7 2 10 20.0 1 3 33.3 2 2 100.0 3 1 4 1 1 1 3 3 -11
+p415
+aVJeremy Lin HOU 01/19/2013 HOU @ MIN L 34 12 3 12 25.0 0 3 0.0 6 8 75.0 3 1 4 2 2 0 3 4 -20
+p416
+aVPatrick Beverley HOU 01/19/2013 HOU @ MIN L 17 2 0 4 0.0 0 3 0.0 2 4 50.0 3 0 3 2 0 0 3 5 3
+p417
+aVGreg Smith HOU 01/19/2013 HOU @ MIN L 25 12 6 9 66.7 0 0 - 0 0 - 2 6 8 1 1 0 1 1 1
+p418
+aVMarcus Morris HOU 01/19/2013 HOU @ MIN L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 1 0 2 2 -1
+p419
+aVOmer Asik HOU 01/19/2013 HOU @ MIN L 16 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 0 3 5 -10
+p420
+aVCarlos Delfino HOU 01/19/2013 HOU @ MIN L 34 15 5 12 41.7 4 9 44.4 1 2 50.0 0 3 3 0 1 0 1 3 -3
+p421
+aVToney Douglas HOU 01/19/2013 HOU @ MIN L 11 5 1 3 33.3 1 3 33.3 2 2 100.0 1 2 3 2 0 0 0 0 2
+p422
+aVGreg Smith HOU 01/18/2013 HOU @ IND L 18 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 1 1 5 -6
+p423
+aVJames Harden HOU 01/18/2013 HOU @ IND L 41 17 5 19 26.3 3 7 42.9 4 5 80.0 1 4 5 7 1 4 5 0 -17
+p424
+aVMarcus Morris HOU 01/18/2013 HOU @ IND L 11 0 0 5 0.0 0 5 0.0 0 0 - 0 0 0 0 0 0 1 1 -9
+p425
+aVChandler Parsons HOU 01/18/2013 HOU @ IND L 41 16 6 9 66.7 2 4 50.0 2 2 100.0 1 1 2 4 0 1 2 1 3
+p426
+aVDonatas Motiejunas HOU 01/18/2013 HOU @ IND L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p427
+aVCarlos Delfino HOU 01/18/2013 HOU @ IND L 24 17 6 11 54.5 3 6 50.0 2 2 100.0 0 3 3 5 2 0 0 1 -4
+p428
+aVOmer Asik HOU 01/18/2013 HOU @ IND L 30 22 8 13 61.5 0 0 - 6 7 85.7 7 5 12 0 1 3 5 2 -4
+p429
+aVJeremy Lin HOU 01/18/2013 HOU @ IND L 31 10 4 7 57.1 2 2 100.0 0 0 - 0 5 5 3 0 0 3 3 -13
+p430
+aVPatrick Beverley HOU 01/18/2013 HOU @ IND L 17 8 3 8 37.5 2 2 100.0 0 0 - 0 3 3 2 3 1 1 1 3
+p431
+aVJames Anderson HOU 01/18/2013 HOU @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p432
+aVPatrick Patterson HOU 01/18/2013 HOU @ IND L 25 3 1 8 12.5 1 4 25.0 0 0 - 0 2 2 0 0 0 0 2 -5
+p433
+aVOmer Asik HOU 01/16/2013 HOU @ DAL L 36 12 4 8 50.0 0 0 - 4 4 100.0 6 9 15 0 1 2 1 3 4
+p434
+aVToney Douglas HOU 01/16/2013 HOU @ DAL L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p435
+aVJames Harden HOU 01/16/2013 HOU @ DAL L 37 20 5 23 21.7 1 8 12.5 9 12 75.0 0 8 8 7 3 0 4 5 -6
+p436
+aVGreg Smith HOU 01/16/2013 HOU @ DAL L 12 0 0 2 0.0 0 0 - 0 0 - 1 9 10 0 0 3 0 5 -9
+p437
+aVChandler Parsons HOU 01/16/2013 HOU @ DAL L 40 18 6 14 42.9 4 6 66.7 2 2 100.0 0 6 6 2 0 0 0 5 -4
+p438
+aVPatrick Beverley HOU 01/16/2013 HOU @ DAL L 13 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 2 0 1 1 3 3
+p439
+aVJeremy Lin HOU 01/16/2013 HOU @ DAL L 31 19 6 13 46.2 1 3 33.3 6 10 60.0 1 2 3 4 1 0 4 1 -4
+p440
+aVCarlos Delfino HOU 01/16/2013 HOU @ DAL L 25 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 1 1 0 5 2 -8
+p441
+aVPatrick Patterson HOU 01/16/2013 HOU @ DAL L 23 9 4 7 57.1 1 1 100.0 0 0 - 1 4 5 0 0 0 0 1 15
+p442
+aVMarcus Morris HOU 01/16/2013 HOU @ DAL L 16 7 2 6 33.3 1 3 33.3 2 2 100.0 0 3 3 1 0 0 0 4 -14
+p443
+aVCole Aldrich HOU 01/15/2013 HOU vs. LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p444
+aVJames Harden HOU 01/15/2013 HOU vs. LAC L 35 23 8 20 40.0 2 9 22.2 5 6 83.3 0 4 4 3 1 0 5 4 -8
+p445
+aVPatrick Patterson HOU 01/15/2013 HOU vs. LAC L 16 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 1 1 0 1 4 -18
+p446
+aVOmer Asik HOU 01/15/2013 HOU vs. LAC L 25 7 3 6 50.0 0 0 - 1 3 33.3 6 3 9 1 1 0 4 1 -18
+p447
+aVPatrick Beverley HOU 01/15/2013 HOU vs. LAC L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 0 6
+p448
+aVMarcus Morris HOU 01/15/2013 HOU vs. LAC L 25 12 4 9 44.4 3 6 50.0 1 4 25.0 1 7 8 0 0 0 1 3 1
+p449
+aVToney Douglas HOU 01/15/2013 HOU vs. LAC L 14 7 3 6 50.0 1 2 50.0 0 2 0.0 0 1 1 2 0 0 0 2 9
+p450
+aVJames Anderson HOU 01/15/2013 HOU vs. LAC L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p451
+aVDonatas Motiejunas HOU 01/15/2013 HOU vs. LAC L 3 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 4
+p452
+aVJeremy Lin HOU 01/15/2013 HOU vs. LAC L 35 12 5 11 45.5 1 4 25.0 1 2 50.0 0 1 1 10 2 0 1 4 -12
+p453
+aVCarlos Delfino HOU 01/15/2013 HOU vs. LAC L 29 16 5 10 50.0 2 7 28.6 4 4 100.0 0 2 2 3 3 0 2 2 -6
+p454
+aVGreg Smith HOU 01/15/2013 HOU vs. LAC L 21 6 3 3 100.0 0 0 - 0 0 - 2 2 4 0 0 1 0 2 6
+p455
+aVChandler Parsons HOU 01/15/2013 HOU vs. LAC L 33 17 7 10 70.0 2 4 50.0 1 2 50.0 1 1 2 4 1 0 1 1 -16
+p456
+aVMarcus Morris HOU 01/12/2013 HOU @ PHI L 21 4 2 6 33.3 0 2 0.0 0 2 0.0 1 1 2 0 0 0 1 1 3
+p457
+aVJeremy Lin HOU 01/12/2013 HOU @ PHI L 38 7 2 13 15.4 0 3 0.0 3 4 75.0 2 2 4 5 3 0 1 3 8
+p458
+aVCarlos Delfino HOU 01/12/2013 HOU @ PHI L 27 16 6 11 54.5 4 7 57.1 0 0 - 0 3 3 3 1 0 2 1 -10
+p459
+aVToney Douglas HOU 01/12/2013 HOU @ PHI L 14 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 1 0 0 0 2 -12
+p460
+aVOmer Asik HOU 01/12/2013 HOU @ PHI L 39 16 6 7 85.7 0 0 - 4 4 100.0 2 8 10 2 0 0 2 3 -11
+p461
+aVJames Harden HOU 01/12/2013 HOU @ PHI L 45 29 10 19 52.6 2 9 22.2 7 8 87.5 1 8 9 6 2 0 4 3 -9
+p462
+aVChandler Parsons HOU 01/12/2013 HOU @ PHI L 40 23 9 18 50.0 1 7 14.3 4 4 100.0 2 7 9 4 0 0 6 3 0
+p463
+aVGreg Smith HOU 01/12/2013 HOU @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 3
+p464
+aVPatrick Patterson HOU 01/12/2013 HOU @ PHI L 12 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p465
+aVCarlos Delfino HOU 01/11/2013 HOU @ BOS L 24 5 1 7 14.3 1 7 14.3 2 2 100.0 0 2 2 4 0 0 1 2 -8
+p466
+aVDonatas Motiejunas HOU 01/11/2013 HOU @ BOS L 1 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 2
+p467
+aVMarcus Morris HOU 01/11/2013 HOU @ BOS L 18 5 2 6 33.3 1 3 33.3 0 0 - 2 2 4 1 1 0 1 2 -4
+p468
+aVJames Harden HOU 01/11/2013 HOU @ BOS L 40 24 9 19 47.4 2 8 25.0 4 7 57.1 0 1 1 5 2 1 6 1 -7
+p469
+aVJames Anderson HOU 01/11/2013 HOU @ BOS L 1 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p470
+aVPatrick Patterson HOU 01/11/2013 HOU @ BOS L 20 5 2 8 25.0 1 5 20.0 0 0 - 1 3 4 1 1 0 0 2 -7
+p471
+aVChandler Parsons HOU 01/11/2013 HOU @ BOS L 32 18 7 12 58.3 2 4 50.0 2 2 100.0 1 1 2 2 0 0 1 4 -7
+p472
+aVGreg Smith HOU 01/11/2013 HOU @ BOS L 20 6 3 4 75.0 0 0 - 0 4 0.0 3 5 8 0 1 0 1 2 -3
+p473
+aVToney Douglas HOU 01/11/2013 HOU @ BOS L 19 7 3 7 42.9 1 1 100.0 0 0 - 0 1 1 2 1 0 2 2 -12
+p474
+aVJeremy Lin HOU 01/11/2013 HOU @ BOS L 36 12 4 9 44.4 1 3 33.3 3 5 60.0 1 4 5 6 3 0 0 3 -7
+p475
+aVOmer Asik HOU 01/11/2013 HOU @ BOS L 28 7 3 5 60.0 0 0 - 1 8 12.5 4 7 11 2 0 0 2 3 -9
+p476
+aVJames Harden HOU 01/09/2013 HOU @ NOH L 41 25 9 18 50.0 2 4 50.0 5 6 83.3 0 4 4 3 1 0 7 4 2
+p477
+aVJeremy Lin HOU 01/09/2013 HOU @ NOH L 42 9 4 12 33.3 1 4 25.0 0 0 - 1 4 5 5 5 0 5 2 -18
+p478
+aVCarlos Delfino HOU 01/09/2013 HOU @ NOH L 26 9 3 10 30.0 2 6 33.3 1 2 50.0 0 1 1 1 1 0 1 3 -14
+p479
+aVGreg Smith HOU 01/09/2013 HOU @ NOH L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 2 5
+p480
+aVMarcus Morris HOU 01/09/2013 HOU @ NOH L 20 7 2 6 33.3 2 3 66.7 1 2 50.0 0 1 1 2 0 0 2 2 4
+p481
+aVPatrick Patterson HOU 01/09/2013 HOU @ NOH L 28 6 3 8 37.5 0 2 0.0 0 0 - 3 7 10 1 0 1 0 4 -13
+p482
+aVToney Douglas HOU 01/09/2013 HOU @ NOH L 16 7 2 4 50.0 0 1 0.0 3 3 100.0 0 1 1 1 1 0 1 1 -5
+p483
+aVChandler Parsons HOU 01/09/2013 HOU @ NOH L 36 8 3 10 30.0 2 7 28.6 0 0 - 3 5 8 1 1 0 4 0 -14
+p484
+aVOmer Asik HOU 01/09/2013 HOU @ NOH L 26 8 4 6 66.7 0 0 - 0 0 - 2 6 8 1 0 1 1 2 8
+p485
+aVJeremy Lin HOU 01/08/2013 HOU vs. LAL W 35 19 7 13 53.8 2 6 33.3 3 6 50.0 0 6 6 5 4 0 7 3 11
+p486
+aVPatrick Patterson HOU 01/08/2013 HOU vs. LAL W 19 9 4 5 80.0 0 1 0.0 1 1 100.0 2 2 4 0 0 1 0 0 12
+p487
+aVJames Anderson HOU 01/08/2013 HOU vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p488
+aVChandler Parsons HOU 01/08/2013 HOU vs. LAL W 43 20 8 13 61.5 2 2 100.0 2 2 100.0 1 4 5 3 1 1 2 1 9
+p489
+aVToney Douglas HOU 01/08/2013 HOU vs. LAL W 28 11 4 9 44.4 1 4 25.0 2 2 100.0 1 4 5 3 0 0 2 3 8
+p490
+aVGreg Smith HOU 01/08/2013 HOU vs. LAL W 8 3 1 3 33.3 0 0 - 1 1 100.0 1 2 3 0 0 0 0 1 3
+p491
+aVDonatas Motiejunas HOU 01/08/2013 HOU vs. LAL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p492
+aVMarcus Morris HOU 01/08/2013 HOU vs. LAL W 20 9 4 8 50.0 0 1 0.0 1 1 100.0 1 1 2 1 1 0 1 2 -9
+p493
+aVCarlos Delfino HOU 01/08/2013 HOU vs. LAL W 23 19 7 14 50.0 5 7 71.4 0 0 - 2 4 6 3 2 0 1 1 24
+p494
+aVJames Harden HOU 01/08/2013 HOU vs. LAL W 40 31 11 19 57.9 1 4 25.0 8 8 100.0 0 6 6 9 0 0 4 2 11
+p495
+aVOmer Asik HOU 01/08/2013 HOU vs. LAL W 22 2 1 2 50.0 0 0 - 0 2 0.0 1 4 5 1 0 2 1 2 -2
+p496
+aVGreg Smith HOU 01/05/2013 HOU @ CLE W 26 11 5 5 100.0 0 0 - 1 5 20.0 4 7 11 2 1 0 0 5 8
+p497
+aVMarcus Morris HOU 01/05/2013 HOU @ CLE W 22 11 4 8 50.0 1 4 25.0 2 2 100.0 2 3 5 3 1 0 1 0 -5
+p498
+aVChandler Parsons HOU 01/05/2013 HOU @ CLE W 26 5 1 8 12.5 1 5 20.0 2 2 100.0 1 4 5 3 0 0 3 0 -7
+p499
+aVCarlos Delfino HOU 01/05/2013 HOU @ CLE W 28 9 3 6 50.0 2 5 40.0 1 1 100.0 0 3 3 2 1 0 2 2 17
+p500
+aVJames Harden HOU 01/05/2013 HOU @ CLE W 38 29 6 17 35.3 3 9 33.3 14 15 93.3 0 2 2 3 7 1 5 3 2
+p501
+aVJeremy Lin HOU 01/05/2013 HOU @ CLE W 38 20 7 13 53.8 3 5 60.0 3 5 60.0 0 4 4 5 1 0 4 5 6
+p502
+aVOmer Asik HOU 01/05/2013 HOU @ CLE W 21 6 2 4 50.0 0 0 - 2 4 50.0 3 3 6 1 0 2 0 4 -1
+p503
+aVToney Douglas HOU 01/05/2013 HOU @ CLE W 15 6 2 5 40.0 1 2 50.0 1 2 50.0 1 0 1 2 0 0 1 1 7
+p504
+aVPatrick Patterson HOU 01/05/2013 HOU @ CLE W 26 15 7 13 53.8 1 4 25.0 0 0 - 1 5 6 2 0 1 1 3 13
+p505
+aVDonatas Motiejunas HOU 01/04/2013 HOU @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p506
+aVToney Douglas HOU 01/04/2013 HOU @ MIL W 26 18 8 14 57.1 2 6 33.3 0 0 - 0 1 1 3 1 0 1 3 10
+p507
+aVJeremy Lin HOU 01/04/2013 HOU @ MIL W 29 8 3 8 37.5 0 3 0.0 2 2 100.0 0 1 1 7 4 0 6 3 -4
+p508
+aVJames Anderson HOU 01/04/2013 HOU @ MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p509
+aVScott Machado HOU 01/04/2013 HOU @ MIL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -4
+p510
+aVJames Harden HOU 01/04/2013 HOU @ MIL W 38 29 11 18 61.1 2 4 50.0 5 7 71.4 1 1 2 7 4 1 2 3 28
+p511
+aVCarlos Delfino HOU 01/04/2013 HOU @ MIL W 28 22 8 11 72.7 6 7 85.7 0 0 - 0 3 3 1 2 0 1 0 5
+p512
+aVMarcus Morris HOU 01/04/2013 HOU @ MIL W 25 0 0 7 0.0 0 4 0.0 0 0 - 1 6 7 2 0 1 2 1 9
+p513
+aVOmer Asik HOU 01/04/2013 HOU @ MIL W 26 13 6 7 85.7 0 0 - 1 4 25.0 3 5 8 2 0 1 2 2 17
+p514
+aVCole Aldrich HOU 01/04/2013 HOU @ MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p515
+aVChandler Parsons HOU 01/04/2013 HOU @ MIL W 35 5 2 8 25.0 0 5 0.0 1 2 50.0 1 6 7 7 1 0 2 4 20
+p516
+aVPatrick Patterson HOU 01/04/2013 HOU @ MIL W 21 18 6 7 85.7 3 4 75.0 3 4 75.0 2 2 4 1 0 0 1 3 5
+p517
+aVGreg Smith HOU 01/04/2013 HOU @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p518
+aVCarlos Delfino HOU 01/02/2013 HOU vs. NOH W 24 2 1 6 16.7 0 4 0.0 0 0 - 0 3 3 2 1 0 1 1 11
+p519
+aVMarcus Morris HOU 01/02/2013 HOU vs. NOH W 21 5 2 7 28.6 1 3 33.3 0 0 - 0 4 4 0 1 0 1 1 2
+p520
+aVJeremy Lin HOU 01/02/2013 HOU vs. NOH W 42 9 3 10 30.0 1 4 25.0 2 2 100.0 2 4 6 7 1 0 2 1 17
+p521
+aVJames Harden HOU 01/02/2013 HOU vs. NOH W 40 31 11 23 47.8 2 8 25.0 7 9 77.8 0 2 2 7 0 0 3 3 13
+p522
+aVPatrick Patterson HOU 01/02/2013 HOU vs. NOH W 23 15 7 8 87.5 1 2 50.0 0 0 - 2 8 10 2 0 0 1 1 10
+p523
+aVChandler Parsons HOU 01/02/2013 HOU vs. NOH W 34 10 5 9 55.6 0 2 0.0 0 0 - 2 8 10 2 1 1 1 2 10
+p524
+aVOmer Asik HOU 01/02/2013 HOU vs. NOH W 25 21 8 14 57.1 0 0 - 5 8 62.5 3 5 8 0 0 1 0 3 9
+p525
+aVToney Douglas HOU 01/02/2013 HOU vs. NOH W 14 8 3 4 75.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 1 3 -6
+p526
+aVGreg Smith HOU 01/02/2013 HOU vs. NOH W 17 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 1 -6
+p527
+aVPatrick Patterson HOU 12/31/2012 HOU vs. ATL W 19 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 2 0 1 0 1 23
+p528
+aVOmer Asik HOU 12/31/2012 HOU vs. ATL W 32 11 5 7 71.4 0 0 - 1 4 25.0 0 17 17 0 0 1 1 1 21
+p529
+aVMarcus Morris HOU 12/31/2012 HOU vs. ATL W 26 15 6 9 66.7 3 4 75.0 0 0 - 0 3 3 3 1 0 1 3 -6
+p530
+aVDonatas Motiejunas HOU 12/31/2012 HOU vs. ATL W 2 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p531
+aVJames Harden HOU 12/31/2012 HOU vs. ATL W 34 28 7 17 41.2 2 6 33.3 12 13 92.3 1 1 2 5 2 1 1 1 4
+p532
+aVToney Douglas HOU 12/31/2012 HOU vs. ATL W 20 10 4 8 50.0 1 3 33.3 1 2 50.0 1 1 2 3 1 0 1 2 17
+p533
+aVCole Aldrich HOU 12/31/2012 HOU vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p534
+aVJeremy Lin HOU 12/31/2012 HOU vs. ATL W 40 16 6 11 54.5 1 3 33.3 3 3 100.0 0 4 4 8 4 2 4 1 16
+p535
+aVScott Machado HOU 12/31/2012 HOU vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p536
+aVChandler Parsons HOU 12/31/2012 HOU vs. ATL W 19 4 2 9 22.2 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -11
+p537
+aVCarlos Delfino HOU 12/31/2012 HOU vs. ATL W 30 22 8 10 80.0 6 8 75.0 0 0 - 0 4 4 8 1 0 0 0 34
+p538
+aVGreg Smith HOU 12/31/2012 HOU vs. ATL W 15 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -6
+p539
+aVMarcus Morris HOU 12/29/2012 HOU vs. OKC L 32 24 9 14 64.3 4 6 66.7 2 2 100.0 2 4 6 0 1 0 1 3 -22
+p540
+aVDonatas Motiejunas HOU 12/29/2012 HOU vs. OKC L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 1 1 1 -5
+p541
+aVDaequan Cook HOU 12/29/2012 HOU vs. OKC L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 -11
+p542
+aVToney Douglas HOU 12/29/2012 HOU vs. OKC L 33 17 6 13 46.2 2 4 50.0 3 4 75.0 0 2 2 3 5 0 1 3 -31
+p543
+aVChandler Parsons HOU 12/29/2012 HOU vs. OKC L 34 10 5 13 38.5 0 5 0.0 0 0 - 1 3 4 4 3 1 3 0 -26
+p544
+aVPatrick Patterson HOU 12/29/2012 HOU vs. OKC L 10 2 0 5 0.0 0 2 0.0 2 2 100.0 1 1 2 0 0 0 1 0 1
+p545
+aVJames Harden HOU 12/29/2012 HOU vs. OKC L 31 25 6 17 35.3 2 7 28.6 11 14 78.6 0 3 3 1 2 0 4 3 -13
+p546
+aVScott Machado HOU 12/29/2012 HOU vs. OKC L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 2 0 -5
+p547
+aVOmer Asik HOU 12/29/2012 HOU vs. OKC L 21 4 2 4 50.0 0 0 - 0 2 0.0 1 7 8 0 0 0 1 3 -7
+p548
+aVCole Aldrich HOU 12/29/2012 HOU vs. OKC L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 4 3 -11
+p549
+aVGreg Smith HOU 12/29/2012 HOU vs. OKC L 19 3 1 1 100.0 0 0 - 1 2 50.0 1 7 8 1 0 0 0 1 -12
+p550
+aVJeremy Lin HOU 12/29/2012 HOU vs. OKC L 24 7 3 8 37.5 0 3 0.0 1 1 100.0 0 2 2 7 1 0 4 2 -8
+p551
+aVCole Aldrich HOU 12/28/2012 HOU @ SAS L 17 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 0 2 2 -12
+p552
+aVJames Harden HOU 12/28/2012 HOU @ SAS L 41 33 10 22 45.5 3 4 75.0 10 13 76.9 3 2 5 7 2 0 5 5 -11
+p553
+aVOmer Asik HOU 12/28/2012 HOU @ SAS L 24 4 2 4 50.0 0 0 - 0 4 0.0 1 9 10 2 2 0 3 3 6
+p554
+aVMarcus Morris HOU 12/28/2012 HOU @ SAS L 30 7 2 9 22.2 1 7 14.3 2 4 50.0 1 1 2 3 0 0 1 1 -10
+p555
+aVJeremy Lin HOU 12/28/2012 HOU @ SAS L 36 21 9 16 56.3 1 5 20.0 2 4 50.0 1 3 4 8 4 0 5 4 -1
+p556
+aVGreg Smith HOU 12/28/2012 HOU @ SAS L 7 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 3 0
+p557
+aVToney Douglas HOU 12/28/2012 HOU @ SAS L 28 14 5 12 41.7 4 10 40.0 0 0 - 1 3 4 2 1 0 1 2 5
+p558
+aVDaequan Cook HOU 12/28/2012 HOU @ SAS L 13 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 0 1 0 0 0 -3
+p559
+aVChandler Parsons HOU 12/28/2012 HOU @ SAS L 44 24 11 15 73.3 2 5 40.0 0 0 - 2 6 8 5 1 1 5 2 -4
+p560
+aVCarlos Delfino HOU 12/26/2012 HOU @ MIN W 35 11 4 13 30.8 3 11 27.3 0 0 - 0 5 5 4 0 0 1 4 14
+p561
+aVGreg Smith HOU 12/26/2012 HOU @ MIN W 17 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 17
+p562
+aVJeremy Lin HOU 12/26/2012 HOU @ MIN W 27 8 3 9 33.3 0 2 0.0 2 2 100.0 0 3 3 1 1 0 7 3 -1
+p563
+aVChandler Parsons HOU 12/26/2012 HOU @ MIN W 35 12 5 12 41.7 2 5 40.0 0 0 - 1 5 6 5 2 0 1 1 3
+p564
+aVToney Douglas HOU 12/26/2012 HOU @ MIN W 23 6 2 9 22.2 2 5 40.0 0 0 - 1 3 4 4 1 0 2 2 7
+p565
+aVJames Harden HOU 12/26/2012 HOU @ MIN W 38 30 11 22 50.0 2 5 40.0 6 6 100.0 2 4 6 3 2 1 3 2 -9
+p566
+aVMarcus Morris HOU 12/26/2012 HOU @ MIN W 30 8 3 9 33.3 0 3 0.0 2 3 66.7 2 2 4 2 0 0 1 2 -11
+p567
+aVOmer Asik HOU 12/26/2012 HOU @ MIN W 35 9 4 6 66.7 0 0 - 1 2 50.0 1 16 17 0 1 1 1 4 -5
+p568
+aVDonatas Motiejunas HOU 12/25/2012 HOU @ CHI W 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p569
+aVMarcus Morris HOU 12/25/2012 HOU @ CHI W 28 10 3 9 33.3 2 7 28.6 2 2 100.0 0 5 5 1 1 0 0 2 27
+p570
+aVOmer Asik HOU 12/25/2012 HOU @ CHI W 35 20 9 13 69.2 0 0 - 2 3 66.7 5 13 18 1 0 3 0 3 41
+p571
+aVJeremy Lin HOU 12/25/2012 HOU @ CHI W 34 20 8 12 66.7 0 1 0.0 4 4 100.0 0 1 1 11 1 1 2 4 33
+p572
+aVJames Harden HOU 12/25/2012 HOU @ CHI W 36 26 7 13 53.8 1 2 50.0 11 13 84.6 1 4 5 6 2 1 1 1 26
+p573
+aVCole Aldrich HOU 12/25/2012 HOU @ CHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p574
+aVScott Machado HOU 12/25/2012 HOU @ CHI W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 0 1
+p575
+aVCarlos Delfino HOU 12/25/2012 HOU @ CHI W 26 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 1 2 0 1 4 3
+p576
+aVDaequan Cook HOU 12/25/2012 HOU @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p577
+aVChandler Parsons HOU 12/25/2012 HOU @ CHI W 37 23 9 15 60.0 4 5 80.0 1 2 50.0 1 4 5 2 2 0 0 2 14
+p578
+aVGreg Smith HOU 12/25/2012 HOU @ CHI W 10 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -19
+p579
+aVToney Douglas HOU 12/25/2012 HOU @ CHI W 22 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 1 0 0 4 4 -13
+p580
+aVJeremy Lin HOU 12/22/2012 HOU vs. MEM W 35 15 5 12 41.7 1 5 20.0 4 4 100.0 0 6 6 11 2 1 2 3 18
+p581
+aVOmer Asik HOU 12/22/2012 HOU vs. MEM W 24 14 5 9 55.6 0 0 - 4 6 66.7 4 8 12 1 0 1 3 2 18
+p582
+aVMarcus Morris HOU 12/22/2012 HOU vs. MEM W 31 16 6 8 75.0 3 4 75.0 1 1 100.0 1 0 1 1 0 2 0 4 12
+p583
+aVChandler Parsons HOU 12/22/2012 HOU vs. MEM W 30 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 4 1 0 2 0 14
+p584
+aVJames Harden HOU 12/22/2012 HOU vs. MEM W 30 31 9 13 69.2 3 3 100.0 10 12 83.3 0 2 2 8 3 0 3 1 14
+p585
+aVDonatas Motiejunas HOU 12/22/2012 HOU vs. MEM W 4 3 1 2 50.0 0 1 0.0 1 2 50.0 1 0 1 0 1 1 0 0 1
+p586
+aVCarlos Delfino HOU 12/22/2012 HOU vs. MEM W 27 11 4 9 44.4 3 8 37.5 0 0 - 0 3 3 4 1 0 0 1 22
+p587
+aVScott Machado HOU 12/22/2012 HOU vs. MEM W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 2 0 1
+p588
+aVCole Aldrich HOU 12/22/2012 HOU vs. MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 1
+p589
+aVToney Douglas HOU 12/22/2012 HOU vs. MEM W 27 10 4 13 30.8 1 4 25.0 1 1 100.0 1 1 2 1 1 0 0 1 17
+p590
+aVDaequan Cook HOU 12/22/2012 HOU vs. MEM W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p591
+aVGreg Smith HOU 12/22/2012 HOU vs. MEM W 20 10 5 6 83.3 0 0 - 0 0 - 2 3 5 0 1 0 1 0 6
+p592
+aVDaequan Cook HOU 12/19/2012 HOU vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p593
+aVChandler Parsons HOU 12/19/2012 HOU vs. PHI W 35 9 4 13 30.8 1 7 14.3 0 0 - 1 4 5 4 3 0 1 2 22
+p594
+aVGreg Smith HOU 12/19/2012 HOU vs. PHI W 13 13 5 5 100.0 0 0 - 3 4 75.0 2 2 4 0 0 0 0 3 1
+p595
+aVJames Harden HOU 12/19/2012 HOU vs. PHI W 37 33 7 12 58.3 2 3 66.7 17 18 94.4 0 2 2 7 0 1 2 3 32
+p596
+aVDonatas Motiejunas HOU 12/19/2012 HOU vs. PHI W 8 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -5
+p597
+aVCole Aldrich HOU 12/19/2012 HOU vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 2
+p598
+aVJeremy Lin HOU 12/19/2012 HOU vs. PHI W 32 18 8 12 66.7 1 3 33.3 1 2 50.0 0 2 2 6 1 0 1 3 23
+p599
+aVOmer Asik HOU 12/19/2012 HOU vs. PHI W 32 17 5 7 71.4 0 0 - 7 9 77.8 3 12 15 0 0 0 0 2 19
+p600
+aVCarlos Delfino HOU 12/19/2012 HOU vs. PHI W 17 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 1 -12
+p601
+aVMarcus Morris HOU 12/19/2012 HOU vs. PHI W 31 14 5 8 62.5 2 3 66.7 2 3 66.7 1 4 5 5 0 1 3 1 17
+p602
+aVToney Douglas HOU 12/19/2012 HOU vs. PHI W 25 17 6 11 54.5 5 8 62.5 0 0 - 0 3 3 4 0 0 1 3 9
+p603
+aVTerrence Jones HOU 12/19/2012 HOU vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p604
+aVGreg Smith HOU 12/17/2012 HOU @ NYK W 18 8 3 5 60.0 0 0 - 2 4 50.0 3 5 8 0 1 1 1 2 8
+p605
+aVDaequan Cook HOU 12/17/2012 HOU @ NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p606
+aVCarlos Delfino HOU 12/17/2012 HOU @ NYK W 29 16 6 9 66.7 4 7 57.1 0 0 - 0 5 5 0 0 0 2 2 -2
+p607
+aVOmer Asik HOU 12/17/2012 HOU @ NYK W 25 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 2 3 2 3 12
+p608
+aVMarcus Morris HOU 12/17/2012 HOU @ NYK W 29 13 4 7 57.1 2 3 66.7 3 4 75.0 0 3 3 0 0 0 2 1 9
+p609
+aVJeremy Lin HOU 12/17/2012 HOU @ NYK W 39 22 9 15 60.0 1 6 16.7 3 4 75.0 1 3 4 9 2 0 4 3 18
+p610
+aVTerrence Jones HOU 12/17/2012 HOU @ NYK W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p611
+aVJames Harden HOU 12/17/2012 HOU @ NYK W 38 28 9 18 50.0 2 6 33.3 8 9 88.9 1 9 10 3 2 0 1 3 13
+p612
+aVChandler Parsons HOU 12/17/2012 HOU @ NYK W 38 9 4 9 44.4 1 4 25.0 0 0 - 0 5 5 3 5 0 3 1 9
+p613
+aVToney Douglas HOU 12/17/2012 HOU @ NYK W 18 7 3 9 33.3 0 2 0.0 1 1 100.0 1 4 5 2 1 0 2 1 7
+p614
+aVJeremy Lin HOU 12/16/2012 HOU @ TOR L 33 7 3 9 33.3 1 2 50.0 0 0 - 1 0 1 2 3 0 3 4 -7
+p615
+aVJames Harden HOU 12/16/2012 HOU @ TOR L 41 28 7 18 38.9 0 3 0.0 14 15 93.3 1 3 4 4 1 1 2 2 -2
+p616
+aVTerrence Jones HOU 12/16/2012 HOU @ TOR L 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -6
+p617
+aVOmer Asik HOU 12/16/2012 HOU @ TOR L 28 7 3 7 42.9 0 0 - 1 4 25.0 2 11 13 0 1 0 2 1 -9
+p618
+aVToney Douglas HOU 12/16/2012 HOU @ TOR L 16 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 2 0 0 0 3 -5
+p619
+aVMarcus Morris HOU 12/16/2012 HOU @ TOR L 37 19 6 11 54.5 2 4 50.0 5 6 83.3 1 5 6 1 0 0 3 5 -2
+p620
+aVChandler Parsons HOU 12/16/2012 HOU @ TOR L 40 12 4 11 36.4 1 4 25.0 3 5 60.0 0 6 6 4 0 0 1 2 -17
+p621
+aVGreg Smith HOU 12/16/2012 HOU @ TOR L 20 8 4 7 57.1 0 0 - 0 0 - 1 6 7 0 0 0 0 1 7
+p622
+aVCarlos Delfino HOU 12/16/2012 HOU @ TOR L 22 10 4 11 36.4 2 7 28.6 0 0 - 1 3 4 1 1 0 0 1 6
+p623
+aVToney Douglas HOU 12/14/2012 HOU vs. BOS W 25 11 4 9 44.4 2 3 66.7 1 1 100.0 0 2 2 0 1 1 0 2 3
+p624
+aVMarcus Morris HOU 12/14/2012 HOU vs. BOS W 17 2 1 7 14.3 0 4 0.0 0 0 - 1 6 7 0 0 0 1 0 -12
+p625
+aVJeremy Lin HOU 12/14/2012 HOU vs. BOS W 27 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 7 1 2 3 2 6
+p626
+aVChandler Parsons HOU 12/14/2012 HOU vs. BOS W 37 15 5 7 71.4 1 3 33.3 4 6 66.7 2 7 9 8 2 0 2 2 23
+p627
+aVOmer Asik HOU 12/14/2012 HOU vs. BOS W 26 9 4 7 57.1 0 0 - 1 2 50.0 2 8 10 0 0 2 1 2 13
+p628
+aVPatrick Patterson HOU 12/14/2012 HOU vs. BOS W 25 9 4 8 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 2 3 16
+p629
+aVGreg Smith HOU 12/14/2012 HOU vs. BOS W 22 20 8 9 88.9 0 0 - 4 6 66.7 2 4 6 0 0 3 2 3 -1
+p630
+aVJames Harden HOU 12/14/2012 HOU vs. BOS W 38 21 6 17 35.3 2 7 28.6 7 8 87.5 0 5 5 5 3 0 1 1 16
+p631
+aVCarlos Delfino HOU 12/14/2012 HOU vs. BOS W 23 9 3 6 50.0 3 5 60.0 0 0 - 0 0 0 2 0 0 5 1 -4
+p632
+aVChandler Parsons HOU 12/12/2012 HOU vs. WAS W 34 18 7 14 50.0 3 8 37.5 1 2 50.0 2 6 8 3 1 0 1 1 -6
+p633
+aVJeremy Lin HOU 12/12/2012 HOU vs. WAS W 30 10 4 8 50.0 0 1 0.0 2 4 50.0 0 5 5 6 0 1 3 2 -1
+p634
+aVCarlos Delfino HOU 12/12/2012 HOU vs. WAS W 14 2 1 5 20.0 0 3 0.0 0 0 - 0 4 4 1 1 0 3 3 8
+p635
+aVMarcus Morris HOU 12/12/2012 HOU vs. WAS W 13 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p636
+aVToney Douglas HOU 12/12/2012 HOU vs. WAS W 20 12 4 9 44.4 2 4 50.0 2 2 100.0 0 1 1 1 1 0 2 3 6
+p637
+aVJames Harden HOU 12/12/2012 HOU vs. WAS W 39 31 10 20 50.0 2 6 33.3 9 9 100.0 1 3 4 2 3 0 5 0 8
+p638
+aVPatrick Patterson HOU 12/12/2012 HOU vs. WAS W 32 13 4 11 36.4 1 1 100.0 4 7 57.1 0 4 4 3 0 3 2 3 7
+p639
+aVGreg Smith HOU 12/12/2012 HOU vs. WAS W 20 1 0 2 0.0 0 0 - 1 2 50.0 0 4 4 1 0 3 0 4 14
+p640
+aVOmer Asik HOU 12/12/2012 HOU vs. WAS W 37 9 3 6 50.0 0 0 - 3 4 75.0 3 13 16 2 0 1 2 2 0
+p641
+aVDaequan Cook HOU 12/10/2012 HOU vs. SAS L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p642
+aVMarcus Morris HOU 12/10/2012 HOU vs. SAS L 25 13 4 6 66.7 2 3 66.7 3 4 75.0 1 5 6 0 3 0 2 4 6
+p643
+aVOmer Asik HOU 12/10/2012 HOU vs. SAS L 35 21 5 11 45.5 0 0 - 11 14 78.6 4 6 10 2 1 2 2 4 3
+p644
+aVToney Douglas HOU 12/10/2012 HOU vs. SAS L 41 17 6 11 54.5 5 7 71.4 0 0 - 0 2 2 4 1 0 2 3 -1
+p645
+aVCarlos Delfino HOU 12/10/2012 HOU vs. SAS L 38 5 2 12 16.7 1 5 20.0 0 1 0.0 0 4 4 5 3 1 3 0 2
+p646
+aVJeremy Lin HOU 12/10/2012 HOU vs. SAS L 42 38 11 21 52.4 4 5 80.0 12 12 100.0 1 2 3 7 2 2 2 2 -4
+p647
+aVPatrick Patterson HOU 12/10/2012 HOU vs. SAS L 21 8 4 10 40.0 0 2 0.0 0 0 - 1 1 2 1 1 0 1 0 -9
+p648
+aVCole Aldrich HOU 12/10/2012 HOU vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p649
+aVGreg Smith HOU 12/10/2012 HOU vs. SAS L 16 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 0 3 0 4 -6
+p650
+aVChandler Parsons HOU 12/10/2012 HOU vs. SAS L 41 20 7 18 38.9 4 8 50.0 2 5 40.0 2 5 7 4 1 0 2 2 -27
+p651
+aVOmer Asik HOU 12/08/2012 HOU vs. DAL L 20 6 2 4 50.0 0 0 - 2 7 28.6 1 6 7 2 0 0 4 0 0
+p652
+aVGreg Smith HOU 12/08/2012 HOU vs. DAL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p653
+aVJames Harden HOU 12/08/2012 HOU vs. DAL L 46 39 10 17 58.8 4 9 44.4 15 16 93.8 0 6 6 9 2 1 6 3 -7
+p654
+aVJeremy Lin HOU 12/08/2012 HOU vs. DAL L 18 7 2 4 50.0 2 3 66.7 1 2 50.0 0 2 2 3 2 0 1 2 -9
+p655
+aVCarlos Delfino HOU 12/08/2012 HOU vs. DAL L 35 10 3 11 27.3 2 10 20.0 2 2 100.0 0 2 2 3 0 0 1 2 8
+p656
+aVCole Aldrich HOU 12/08/2012 HOU vs. DAL L 12 2 1 1 100.0 0 0 - 0 2 0.0 0 3 3 1 1 2 3 5 8
+p657
+aVToney Douglas HOU 12/08/2012 HOU vs. DAL L 35 13 4 9 44.4 3 6 50.0 2 3 66.7 0 3 3 3 1 0 1 5 2
+p658
+aVPatrick Patterson HOU 12/08/2012 HOU vs. DAL L 29 12 6 8 75.0 0 1 0.0 0 0 - 1 3 4 2 0 1 2 2 -24
+p659
+aVChandler Parsons HOU 12/08/2012 HOU vs. DAL L 42 18 6 17 35.3 1 6 16.7 5 6 83.3 2 8 10 5 2 0 1 5 -7
+p660
+aVChandler Parsons HOU 12/07/2012 HOU @ SAS L 24 7 3 10 30.0 0 4 0.0 1 1 100.0 0 1 1 0 0 0 2 2 -18
+p661
+aVDonatas Motiejunas HOU 12/07/2012 HOU @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p662
+aVTerrence Jones HOU 12/07/2012 HOU @ SAS L 8 9 4 5 80.0 1 1 100.0 0 0 - 0 3 3 2 0 0 0 0 6
+p663
+aVCarlos Delfino HOU 12/07/2012 HOU @ SAS L 18 9 3 7 42.9 3 5 60.0 0 0 - 0 3 3 1 0 0 1 2 -16
+p664
+aVJames Harden HOU 12/07/2012 HOU @ SAS L 34 29 10 16 62.5 3 6 50.0 6 7 85.7 0 3 3 5 4 0 3 1 -15
+p665
+aVMarcus Morris HOU 12/07/2012 HOU @ SAS L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 1 -2
+p666
+aVDaequan Cook HOU 12/07/2012 HOU @ SAS L 11 8 3 9 33.3 2 5 40.0 0 0 - 1 1 2 0 1 0 0 0 -3
+p667
+aVCole Aldrich HOU 12/07/2012 HOU @ SAS L 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 6
+p668
+aVOmer Asik HOU 12/07/2012 HOU @ SAS L 24 0 0 6 0.0 0 0 - 0 0 - 3 2 5 1 0 0 5 3 -23
+p669
+aVJeremy Lin HOU 12/07/2012 HOU @ SAS L 26 4 2 9 22.2 0 3 0.0 0 0 - 1 5 6 4 1 0 2 1 -7
+p670
+aVPatrick Patterson HOU 12/07/2012 HOU @ SAS L 33 10 5 14 35.7 0 3 0.0 0 0 - 3 2 5 5 1 1 2 0 -13
+p671
+aVToney Douglas HOU 12/07/2012 HOU @ SAS L 22 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 3 2 0 2 1 -15
+p672
+aVGreg Smith HOU 12/07/2012 HOU @ SAS L 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -12
+p673
+aVToney Douglas HOU 12/04/2012 HOU vs. LAL W 28 22 8 17 47.1 3 7 42.9 3 4 75.0 3 1 4 3 2 0 0 4 20
+p674
+aVMarcus Morris HOU 12/04/2012 HOU vs. LAL W 13 1 0 5 0.0 0 3 0.0 1 2 50.0 3 2 5 0 1 0 0 1 2
+p675
+aVCarlos Delfino HOU 12/04/2012 HOU vs. LAL W 31 15 6 15 40.0 3 10 30.0 0 0 - 0 4 4 3 1 0 0 3 20
+p676
+aVGreg Smith HOU 12/04/2012 HOU vs. LAL W 24 21 7 8 87.5 0 1 0.0 7 8 87.5 4 5 9 0 0 2 1 3 21
+p677
+aVJames Harden HOU 12/04/2012 HOU vs. LAL W 38 15 3 19 15.8 0 4 0.0 9 11 81.8 5 5 10 6 1 0 4 4 3
+p678
+aVChandler Parsons HOU 12/04/2012 HOU vs. LAL W 35 13 5 16 31.3 1 7 14.3 2 2 100.0 2 3 5 4 0 0 2 2 -18
+p679
+aVOmer Asik HOU 12/04/2012 HOU vs. LAL W 24 10 5 8 62.5 0 0 - 0 2 0.0 4 5 9 0 2 0 0 4 -19
+p680
+aVPatrick Patterson HOU 12/04/2012 HOU vs. LAL W 28 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 3 0 2 1 3 -1
+p681
+aVJeremy Lin HOU 12/04/2012 HOU vs. LAL W 20 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 3 0 0 2 4 -18
+p682
+aVJeremy Lin HOU 12/01/2012 HOU vs. UTA W 34 19 8 14 57.1 1 2 50.0 2 2 100.0 0 3 3 8 1 0 2 3 0
+p683
+aVGreg Smith HOU 12/01/2012 HOU vs. UTA W 16 13 3 5 60.0 0 0 - 7 9 77.8 3 0 3 0 0 0 0 2 1
+p684
+aVPatrick Patterson HOU 12/01/2012 HOU vs. UTA W 36 20 8 17 47.1 2 5 40.0 2 2 100.0 1 6 7 1 1 3 3 1 3
+p685
+aVCarlos Delfino HOU 12/01/2012 HOU vs. UTA W 17 13 5 7 71.4 3 5 60.0 0 0 - 0 5 5 3 1 0 0 0 17
+p686
+aVJames Harden HOU 12/01/2012 HOU vs. UTA W 39 18 7 16 43.8 1 3 33.3 3 3 100.0 1 1 2 7 1 0 5 2 -3
+p687
+aVOmer Asik HOU 12/01/2012 HOU vs. UTA W 34 14 5 5 100.0 0 0 - 4 5 80.0 3 9 12 2 1 3 2 1 9
+p688
+aVMarcus Morris HOU 12/01/2012 HOU vs. UTA W 10 0 0 2 0.0 0 0 - 0 2 0.0 1 1 2 1 0 0 1 3 3
+p689
+aVToney Douglas HOU 12/01/2012 HOU vs. UTA W 14 8 3 5 60.0 1 2 50.0 1 1 100.0 1 0 1 1 2 0 1 3 8
+p690
+aVChandler Parsons HOU 12/01/2012 HOU vs. UTA W 40 19 7 12 58.3 3 5 60.0 2 2 100.0 0 3 3 3 2 1 2 2 2
+p691
+aVOmer Asik HOU 11/28/2012 HOU @ OKC L 30 17 8 13 61.5 0 0 - 1 7 14.3 3 9 12 0 1 0 1 1 -7
+p692
+aVGreg Smith HOU 11/28/2012 HOU @ OKC L 4 4 2 3 66.7 0 0 - 0 0 - 3 0 3 0 0 0 1 1 -9
+p693
+aVScott Machado HOU 11/28/2012 HOU @ OKC L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -3
+p694
+aVJames Harden HOU 11/28/2012 HOU @ OKC L 39 17 3 16 18.8 2 5 40.0 9 11 81.8 1 1 2 3 1 0 3 2 -17
+p695
+aVDonatas Motiejunas HOU 11/28/2012 HOU @ OKC L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p696
+aVJeremy Lin HOU 11/28/2012 HOU @ OKC L 41 6 3 7 42.9 0 1 0.0 0 2 0.0 0 3 3 8 4 0 3 2 -12
+p697
+aVToney Douglas HOU 11/28/2012 HOU @ OKC L 11 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -15
+p698
+aVTerrence Jones HOU 11/28/2012 HOU @ OKC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 1 0 -9
+p699
+aVPatrick Patterson HOU 11/28/2012 HOU @ OKC L 38 27 11 18 61.1 2 3 66.7 3 4 75.0 4 2 6 2 1 0 1 1 -7
+p700
+aVMarcus Morris HOU 11/28/2012 HOU @ OKC L 31 7 2 8 25.0 1 4 25.0 2 2 100.0 1 3 4 1 1 0 2 4 -22
+p701
+aVDaequan Cook HOU 11/28/2012 HOU @ OKC L 38 18 7 17 41.2 3 8 37.5 1 2 50.0 4 3 7 4 1 1 3 4 -6
+p702
+aVJeremy Lin HOU 11/27/2012 HOU vs. TOR W 38 16 7 9 77.8 1 2 50.0 1 2 50.0 0 4 4 10 3 0 3 1 25
+p703
+aVDonatas Motiejunas HOU 11/27/2012 HOU vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p704
+aVGreg Smith HOU 11/27/2012 HOU vs. TOR W 12 5 1 5 20.0 0 0 - 3 4 75.0 2 0 2 0 0 0 0 2 -3
+p705
+aVMarcus Morris HOU 11/27/2012 HOU vs. TOR W 16 11 4 6 66.7 2 3 66.7 1 1 100.0 1 0 1 0 1 0 0 2 -8
+p706
+aVPatrick Patterson HOU 11/27/2012 HOU vs. TOR W 31 22 7 14 50.0 2 4 50.0 6 7 85.7 2 3 5 1 1 0 0 3 25
+p707
+aVOmer Asik HOU 11/27/2012 HOU vs. TOR W 36 13 6 9 66.7 0 0 - 1 2 50.0 3 15 18 2 2 0 2 4 19
+p708
+aVChandler Parsons HOU 11/27/2012 HOU vs. TOR W 42 18 7 13 53.8 2 4 50.0 2 2 100.0 2 5 7 5 1 0 4 1 26
+p709
+aVToney Douglas HOU 11/27/2012 HOU vs. TOR W 10 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 0 0 0 1 0 -9
+p710
+aVJames Harden HOU 11/27/2012 HOU vs. TOR W 44 24 9 19 47.4 4 8 50.0 2 3 66.7 1 5 6 12 3 1 4 1 13
+p711
+aVTerrence Jones HOU 11/27/2012 HOU vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p712
+aVDaequan Cook HOU 11/27/2012 HOU vs. TOR W 10 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p713
+aVMarcus Morris HOU 11/23/2012 HOU vs. NYK W 17 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 2 0 2 0 2 18
+p714
+aVJames Harden HOU 11/23/2012 HOU vs. NYK W 39 33 7 15 46.7 3 5 60.0 16 16 100.0 0 4 4 9 1 1 3 3 25
+p715
+aVToney Douglas HOU 11/23/2012 HOU vs. NYK W 17 11 3 6 50.0 3 4 75.0 2 2 100.0 1 1 2 1 0 0 4 1 8
+p716
+aVGreg Smith HOU 11/23/2012 HOU vs. NYK W 14 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -3
+p717
+aVJeremy Lin HOU 11/23/2012 HOU vs. NYK W 35 13 6 12 50.0 1 2 50.0 0 0 - 0 7 7 3 2 0 4 2 22
+p718
+aVOmer Asik HOU 11/23/2012 HOU vs. NYK W 30 18 6 11 54.5 0 0 - 6 8 75.0 4 10 14 3 0 1 2 1 16
+p719
+aVDaequan Cook HOU 11/23/2012 HOU vs. NYK W 26 9 3 9 33.3 3 6 50.0 0 0 - 0 2 2 0 1 1 0 1 18
+p720
+aVChandler Parsons HOU 11/23/2012 HOU vs. NYK W 34 31 13 17 76.5 4 7 57.1 1 2 50.0 1 4 5 4 4 1 0 1 19
+p721
+aVPatrick Patterson HOU 11/23/2012 HOU vs. NYK W 20 10 5 7 71.4 0 0 - 0 0 - 2 3 5 0 0 0 0 3 10
+p722
+aVTerrence Jones HOU 11/23/2012 HOU vs. NYK W 7 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -3
+p723
+aVOmer Asik HOU 11/21/2012 HOU vs. CHI W 40 4 2 8 25.0 0 0 - 0 2 0.0 1 5 6 2 1 3 4 2 4
+p724
+aVJames Harden HOU 11/21/2012 HOU vs. CHI W 42 28 8 14 57.1 3 7 42.9 9 13 69.2 1 3 4 3 5 0 6 3 6
+p725
+aVMarcus Morris HOU 11/21/2012 HOU vs. CHI W 14 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 0 1 0 3 -6
+p726
+aVToney Douglas HOU 11/21/2012 HOU vs. CHI W 22 11 1 4 25.0 1 3 33.3 8 8 100.0 2 1 3 2 0 0 2 2 7
+p727
+aVChandler Parsons HOU 11/21/2012 HOU vs. CHI W 40 18 7 13 53.8 2 3 66.7 2 3 66.7 1 12 13 2 0 1 3 3 9
+p728
+aVJeremy Lin HOU 11/21/2012 HOU vs. CHI W 26 4 2 9 22.2 0 2 0.0 0 0 - 1 3 4 3 1 0 5 2 -3
+p729
+aVPatrick Patterson HOU 11/21/2012 HOU vs. CHI W 38 20 8 16 50.0 1 3 33.3 3 5 60.0 1 7 8 1 1 1 2 1 7
+p730
+aVGreg Smith HOU 11/21/2012 HOU vs. CHI W 18 8 4 7 57.1 0 0 - 0 0 - 3 1 4 1 0 0 1 2 -4
+p731
+aVCole Aldrich HOU 11/19/2012 HOU @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p732
+aVPatrick Patterson HOU 11/19/2012 HOU @ UTA L 21 19 8 14 57.1 1 1 100.0 2 2 100.0 1 0 1 0 0 2 2 3 -9
+p733
+aVChandler Parsons HOU 11/19/2012 HOU @ UTA L 34 11 3 11 27.3 2 6 33.3 3 4 75.0 1 9 10 5 0 0 2 0 -19
+p734
+aVTerrence Jones HOU 11/19/2012 HOU @ UTA L 30 12 4 12 33.3 0 1 0.0 4 4 100.0 4 4 8 0 0 0 0 0 -2
+p735
+aVJames Harden HOU 11/19/2012 HOU @ UTA L 17 6 1 6 16.7 1 2 50.0 3 3 100.0 0 2 2 3 0 1 2 2 -13
+p736
+aVOmer Asik HOU 11/19/2012 HOU @ UTA L 29 2 0 5 0.0 0 0 - 2 6 33.3 3 4 7 0 0 2 3 3 -11
+p737
+aVGreg Smith HOU 11/19/2012 HOU @ UTA L 15 6 2 3 66.7 0 0 - 2 4 50.0 3 5 8 0 0 3 0 3 6
+p738
+aVJeremy Lin HOU 11/19/2012 HOU @ UTA L 33 13 5 15 33.3 0 2 0.0 3 3 100.0 3 3 6 3 0 0 3 2 -5
+p739
+aVMarcus Morris HOU 11/19/2012 HOU @ UTA L 30 12 3 8 37.5 1 3 33.3 5 5 100.0 0 4 4 2 2 1 0 5 11
+p740
+aVDaequan Cook HOU 11/19/2012 HOU @ UTA L 14 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 3 -1
+p741
+aVToney Douglas HOU 11/19/2012 HOU @ UTA L 15 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 4 1 0 2 1 -6
+p742
+aVChandler Parsons HOU 11/18/2012 HOU @ LAL L 29 24 8 10 80.0 4 5 80.0 4 5 80.0 0 1 1 3 1 0 1 4 -18
+p743
+aVOmer Asik HOU 11/18/2012 HOU @ LAL L 27 8 4 6 66.7 0 0 - 0 4 0.0 2 7 9 2 1 0 2 3 -4
+p744
+aVDaequan Cook HOU 11/18/2012 HOU @ LAL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 6
+p745
+aVPatrick Patterson HOU 11/18/2012 HOU @ LAL L 27 14 7 13 53.8 0 1 0.0 0 0 - 2 6 8 1 1 0 0 2 -16
+p746
+aVToney Douglas HOU 11/18/2012 HOU @ LAL L 17 5 2 5 40.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 2 3 7
+p747
+aVJeremy Lin HOU 11/18/2012 HOU @ LAL L 31 5 2 9 22.2 0 1 0.0 1 1 100.0 0 1 1 10 1 0 3 2 -18
+p748
+aVMarcus Morris HOU 11/18/2012 HOU @ LAL L 25 12 5 12 41.7 2 6 33.3 0 0 - 3 5 8 1 0 0 1 1 0
+p749
+aVCole Aldrich HOU 11/18/2012 HOU @ LAL L 13 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 3 -6
+p750
+aVTerrence Jones HOU 11/18/2012 HOU @ LAL L 20 8 4 7 57.1 0 1 0.0 0 0 - 0 4 4 3 2 1 0 2 5
+p751
+aVGreg Smith HOU 11/18/2012 HOU @ LAL L 8 6 2 2 100.0 0 0 - 2 2 100.0 3 2 5 1 0 0 0 0 -1
+p752
+aVJames Harden HOU 11/18/2012 HOU @ LAL L 38 20 7 18 38.9 3 7 42.9 3 5 60.0 0 2 2 7 1 0 5 2 -10
+p753
+aVPatrick Patterson HOU 11/16/2012 HOU @ POR L 32 15 7 14 50.0 1 3 33.3 0 0 - 1 1 2 1 1 0 2 4 5
+p754
+aVChandler Parsons HOU 11/16/2012 HOU @ POR L 48 19 8 15 53.3 2 6 33.3 1 2 50.0 2 9 11 2 1 0 2 2 2
+p755
+aVMarcus Morris HOU 11/16/2012 HOU @ POR L 30 16 6 9 66.7 4 6 66.7 0 0 - 3 0 3 2 1 0 2 4 -7
+p756
+aVToney Douglas HOU 11/16/2012 HOU @ POR L 24 9 2 11 18.2 0 5 0.0 5 5 100.0 1 1 2 1 2 0 0 2 -6
+p757
+aVGreg Smith HOU 11/16/2012 HOU @ POR L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -2
+p758
+aVOmer Asik HOU 11/16/2012 HOU @ POR L 44 16 6 11 54.5 0 0 - 4 5 80.0 7 9 16 1 0 1 4 6 1
+p759
+aVJeremy Lin HOU 11/16/2012 HOU @ POR L 36 11 3 8 37.5 0 1 0.0 5 7 71.4 0 6 6 11 1 2 3 4 5
+p760
+aVCole Aldrich HOU 11/16/2012 HOU @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p761
+aVJames Harden HOU 11/16/2012 HOU @ POR L 43 29 8 18 44.4 2 4 50.0 11 12 91.7 2 4 6 6 3 0 4 4 0
+p762
+aVCarlos Delfino HOU 11/14/2012 HOU vs. NOH W 15 1 0 5 0.0 0 3 0.0 1 1 100.0 0 2 2 4 0 0 1 1 7
+p763
+aVChandler Parsons HOU 11/14/2012 HOU vs. NOH W 39 13 4 14 28.6 2 6 33.3 3 4 75.0 2 8 10 3 0 0 2 1 6
+p764
+aVToney Douglas HOU 11/14/2012 HOU vs. NOH W 17 12 4 6 66.7 4 5 80.0 0 0 - 0 1 1 2 0 0 1 2 6
+p765
+aVJames Harden HOU 11/14/2012 HOU vs. NOH W 39 30 10 20 50.0 1 7 14.3 9 11 81.8 0 3 3 4 0 1 1 2 -2
+p766
+aVPatrick Patterson HOU 11/14/2012 HOU vs. NOH W 30 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 0 0 1 2 -10
+p767
+aVGreg Smith HOU 11/14/2012 HOU vs. NOH W 11 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 2 9
+p768
+aVMarcus Morris HOU 11/14/2012 HOU vs. NOH W 25 13 5 9 55.6 3 5 60.0 0 0 - 1 1 2 0 0 3 0 2 13
+p769
+aVOmer Asik HOU 11/14/2012 HOU vs. NOH W 30 15 6 10 60.0 0 0 - 3 4 75.0 2 10 12 1 0 2 3 4 -4
+p770
+aVJeremy Lin HOU 11/14/2012 HOU vs. NOH W 34 4 2 10 20.0 0 3 0.0 0 0 - 0 4 4 4 3 1 2 1 -5
+p771
+aVOmer Asik HOU 11/12/2012 HOU vs. MIA L 32 19 4 8 50.0 0 0 - 11 14 78.6 5 9 14 3 0 1 3 1 -2
+p772
+aVPatrick Patterson HOU 11/12/2012 HOU vs. MIA L 36 17 8 14 57.1 0 1 0.0 1 2 50.0 4 5 9 1 0 1 0 1 -9
+p773
+aVJeremy Lin HOU 11/12/2012 HOU vs. MIA L 34 9 3 8 37.5 2 6 33.3 1 2 50.0 0 1 1 6 1 3 2 4 -16
+p774
+aVTerrence Jones HOU 11/12/2012 HOU vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p775
+aVToney Douglas HOU 11/12/2012 HOU vs. MIA L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 4 1 0 2 1 13
+p776
+aVChandler Parsons HOU 11/12/2012 HOU vs. MIA L 40 25 8 17 47.1 5 10 50.0 4 4 100.0 1 3 4 3 2 0 1 1 -18
+p777
+aVMarcus Morris HOU 11/12/2012 HOU vs. MIA L 19 8 3 4 75.0 2 3 66.7 0 0 - 1 4 5 0 0 0 0 6 7
+p778
+aVCarlos Delfino HOU 11/12/2012 HOU vs. MIA L 24 8 3 10 30.0 2 7 28.6 0 0 - 0 4 4 3 0 0 1 2 19
+p779
+aVJames Harden HOU 11/12/2012 HOU vs. MIA L 40 22 6 17 35.3 1 6 16.7 9 11 81.8 0 3 3 5 1 1 2 4 -9
+p780
+aVDaequan Cook HOU 11/10/2012 HOU vs. DET W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 3 0 0 0 1 -9
+p781
+aVTerrence Jones HOU 11/10/2012 HOU vs. DET W 12 5 1 6 16.7 1 3 33.3 2 2 100.0 0 0 0 0 0 2 0 1 -12
+p782
+aVChandler Parsons HOU 11/10/2012 HOU vs. DET W 34 8 3 10 30.0 2 6 33.3 0 0 - 0 5 5 2 0 0 0 1 12
+p783
+aVJeremy Lin HOU 11/10/2012 HOU vs. DET W 26 7 2 7 28.6 1 3 33.3 2 2 100.0 1 3 4 8 1 0 0 1 3
+p784
+aVCole Aldrich HOU 11/10/2012 HOU vs. DET W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p785
+aVToney Douglas HOU 11/10/2012 HOU vs. DET W 21 11 3 7 42.9 1 3 33.3 4 4 100.0 0 2 2 2 1 0 4 2 13
+p786
+aVOmer Asik HOU 11/10/2012 HOU vs. DET W 27 14 5 12 41.7 0 0 - 4 4 100.0 3 5 8 0 4 0 4 3 10
+p787
+aVPatrick Patterson HOU 11/10/2012 HOU vs. DET W 16 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 5
+p788
+aVJames Harden HOU 11/10/2012 HOU vs. DET W 35 20 6 14 42.9 2 6 33.3 6 7 85.7 0 5 5 2 0 0 5 0 11
+p789
+aVDonatas Motiejunas HOU 11/10/2012 HOU vs. DET W 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -8
+p790
+aVGreg Smith HOU 11/10/2012 HOU vs. DET W 12 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 4 1 1 0 3 20
+p791
+aVCarlos Delfino HOU 11/10/2012 HOU vs. DET W 23 5 2 7 28.6 1 4 25.0 0 1 0.0 0 3 3 1 1 0 0 1 12
+p792
+aVMarcus Morris HOU 11/10/2012 HOU vs. DET W 19 12 6 7 85.7 0 0 - 0 2 0.0 2 6 8 0 2 0 0 1 21
+p793
+aVJeremy Lin HOU 11/09/2012 HOU @ MEM L 37 15 5 10 50.0 2 4 50.0 3 3 100.0 0 5 5 3 2 0 4 1 -14
+p794
+aVJames Harden HOU 11/09/2012 HOU @ MEM L 41 18 4 18 22.2 1 6 16.7 9 10 90.0 2 2 4 4 0 2 5 1 -2
+p795
+aVOmer Asik HOU 11/09/2012 HOU @ MEM L 40 10 4 6 66.7 0 0 - 2 2 100.0 3 10 13 2 0 2 5 2 1
+p796
+aVDaequan Cook HOU 11/09/2012 HOU @ MEM L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -2
+p797
+aVChandler Parsons HOU 11/09/2012 HOU @ MEM L 37 19 8 13 61.5 3 6 50.0 0 0 - 1 4 5 2 1 0 3 4 -1
+p798
+aVPatrick Patterson HOU 11/09/2012 HOU @ MEM L 31 8 4 10 40.0 0 1 0.0 0 0 - 1 3 4 4 0 0 1 5 -3
+p799
+aVCarlos Delfino HOU 11/09/2012 HOU @ MEM L 27 8 3 9 33.3 2 7 28.6 0 0 - 0 4 4 2 1 1 2 0 -1
+p800
+aVCole Aldrich HOU 11/09/2012 HOU @ MEM L 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -6
+p801
+aVMarcus Morris HOU 11/09/2012 HOU @ MEM L 15 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 0 1 0 0 2 -12
+p802
+aVCole Aldrich HOU 11/07/2012 HOU vs. DEN L 16 4 1 2 50.0 0 0 - 2 3 66.7 1 2 3 1 0 1 0 3 9
+p803
+aVChandler Parsons HOU 11/07/2012 HOU vs. DEN L 36 8 3 9 33.3 2 6 33.3 0 0 - 2 1 3 4 1 0 3 5 -4
+p804
+aVMarcus Morris HOU 11/07/2012 HOU vs. DEN L 19 3 1 7 14.3 0 3 0.0 1 2 50.0 2 3 5 1 0 0 1 2 -15
+p805
+aVPatrick Patterson HOU 11/07/2012 HOU vs. DEN L 30 18 8 13 61.5 2 4 50.0 0 0 - 2 3 5 0 0 1 1 3 8
+p806
+aVJeremy Lin HOU 11/07/2012 HOU vs. DEN L 33 6 2 9 22.2 0 4 0.0 2 2 100.0 0 5 5 6 6 0 2 2 -1
+p807
+aVToney Douglas HOU 11/07/2012 HOU vs. DEN L 15 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 1 4 -5
+p808
+aVOmer Asik HOU 11/07/2012 HOU vs. DEN L 22 10 4 11 36.4 0 0 - 2 3 66.7 7 6 13 0 0 0 3 2 -16
+p809
+aVCarlos Delfino HOU 11/07/2012 HOU vs. DEN L 31 19 6 14 42.9 4 10 40.0 3 4 75.0 1 4 5 2 2 0 1 0 0
+p810
+aVJames Harden HOU 11/07/2012 HOU vs. DEN L 38 15 5 15 33.3 0 5 0.0 5 7 71.4 1 2 3 2 5 0 6 1 -6
+p811
+aVJames Harden HOU 11/03/2012 HOU vs. POR L 41 24 8 24 33.3 1 6 16.7 7 10 70.0 2 4 6 5 1 1 5 3 -16
+p812
+aVChandler Parsons HOU 11/03/2012 HOU vs. POR L 47 9 4 10 40.0 1 4 25.0 0 0 - 1 11 12 3 1 0 3 0 -6
+p813
+aVPatrick Patterson HOU 11/03/2012 HOU vs. POR L 38 12 6 16 37.5 0 2 0.0 0 0 - 3 3 6 0 1 0 1 1 -29
+p814
+aVMarcus Morris HOU 11/03/2012 HOU vs. POR L 15 13 4 8 50.0 2 4 50.0 3 6 50.0 3 0 3 0 0 1 1 0 19
+p815
+aVJeremy Lin HOU 11/03/2012 HOU vs. POR L 37 13 5 13 38.5 1 4 25.0 2 2 100.0 1 2 3 7 3 0 3 3 -17
+p816
+aVCole Aldrich HOU 11/03/2012 HOU vs. POR L 16 6 3 5 60.0 0 0 - 0 0 - 2 4 6 0 1 0 1 2 -2
+p817
+aVOmer Asik HOU 11/03/2012 HOU vs. POR L 35 4 2 7 28.6 0 0 - 0 0 - 4 11 15 1 0 2 4 4 -6
+p818
+aVToney Douglas HOU 11/03/2012 HOU vs. POR L 16 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 2 4 0 0 0 7
+p819
+aVCarlos Delfino HOU 11/03/2012 HOU vs. POR L 20 2 1 7 14.3 0 5 0.0 0 0 - 0 4 4 1 1 0 0 3 0
+p820
+aVOmer Asik HOU 11/02/2012 HOU @ ATL W 35 0 0 7 0.0 0 0 - 0 0 - 9 10 19 1 1 1 3 2 15
+p821
+aVToney Douglas HOU 11/02/2012 HOU @ ATL W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 3 -2
+p822
+aVMarcus Morris HOU 11/02/2012 HOU @ ATL W 19 17 8 14 57.1 1 6 16.7 0 0 - 2 3 5 0 0 0 1 2 -6
+p823
+aVCole Aldrich HOU 11/02/2012 HOU @ ATL W 13 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -6
+p824
+aVJeremy Lin HOU 11/02/2012 HOU @ ATL W 40 21 6 16 37.5 2 3 66.7 7 8 87.5 5 5 10 7 0 0 3 2 9
+p825
+aVCarlos Delfino HOU 11/02/2012 HOU @ ATL W 26 7 2 8 25.0 1 5 20.0 2 2 100.0 0 2 2 2 2 0 2 1 -6
+p826
+aVChandler Parsons HOU 11/02/2012 HOU @ ATL W 31 6 2 9 22.2 1 6 16.7 1 2 50.0 2 3 5 6 3 0 3 2 1
+p827
+aVJames Harden HOU 11/02/2012 HOU @ ATL W 40 45 14 19 73.7 2 4 50.0 15 17 88.2 1 6 7 2 0 0 5 3 17
+p828
+aVPatrick Patterson HOU 11/02/2012 HOU @ ATL W 29 9 4 11 36.4 1 4 25.0 0 0 - 3 4 7 2 2 1 3 0 13
+p829
+aVJeremy Lin HOU 10/31/2012 HOU @ DET W 35 12 5 12 41.7 0 2 0.0 2 2 100.0 0 4 4 8 4 0 4 4 23
+p830
+aVMarcus Morris HOU 10/31/2012 HOU @ DET W 26 6 3 10 30.0 0 2 0.0 0 0 - 4 3 7 1 0 0 2 3 -3
+p831
+aVCarlos Delfino HOU 10/31/2012 HOU @ DET W 24 15 5 6 83.3 5 6 83.3 0 0 - 1 6 7 0 1 0 3 3 8
+p832
+aVDaequan Cook HOU 10/31/2012 HOU @ DET W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p833
+aVChandler Parsons HOU 10/31/2012 HOU @ DET W 42 11 3 9 33.3 1 4 25.0 4 5 80.0 2 5 7 6 0 0 3 3 9
+p834
+aVGreg Smith HOU 10/31/2012 HOU @ DET W 17 10 4 4 100.0 0 0 - 2 2 100.0 2 3 5 0 2 0 0 5 4
+p835
+aVToney Douglas HOU 10/31/2012 HOU @ DET W 13 2 0 5 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 1 1 -14
+p836
+aVJames Harden HOU 10/31/2012 HOU @ DET W 44 37 14 25 56.0 4 10 40.0 5 6 83.3 1 5 6 12 4 1 4 2 18
+p837
+aVOmer Asik HOU 10/31/2012 HOU @ DET W 33 12 5 6 83.3 0 0 - 2 6 33.3 2 7 9 0 1 2 3 2 3
+p838
+a.

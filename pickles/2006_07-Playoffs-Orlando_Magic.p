@@ -1,0 +1,76 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDarko Milicic ORL 04/28/2007 ORL vs. DET L 35 14 5 12 41.7 0 0 - 4 5 80.0 5 1 6 2 0 0 1 2 3
+p2
+aVKeyon Dooling ORL 04/28/2007 ORL vs. DET L 19 11 5 10 50.0 0 1 0.0 1 1 100.0 1 2 3 2 1 0 1 1 1
+p3
+aVTony Battie ORL 04/28/2007 ORL vs. DET L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -3
+p4
+aVGrant Hill ORL 04/28/2007 ORL vs. DET L 37 17 7 8 87.5 0 0 - 3 6 50.0 0 4 4 3 1 0 4 2 -2
+p5
+aVHedo Turkoglu ORL 04/28/2007 ORL vs. DET L 40 6 3 13 23.1 0 3 0.0 0 0 - 0 3 3 5 1 0 1 4 -7
+p6
+aVJameer Nelson ORL 04/28/2007 ORL vs. DET L 29 11 4 10 40.0 1 3 33.3 2 2 100.0 2 0 2 3 1 0 1 6 -4
+p7
+aVDwight Howard ORL 04/28/2007 ORL vs. DET L 44 29 10 15 66.7 0 0 - 9 17 52.9 5 12 17 2 2 0 5 3 -1
+p8
+aVJJ Redick ORL 04/28/2007 ORL vs. DET L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 0 0 1 2 -1
+p9
+aVTrevor Ariza ORL 04/28/2007 ORL vs. DET L 11 2 1 6 16.7 0 0 - 0 0 - 2 2 4 0 1 0 0 3 -6
+p10
+aVKeyon Dooling ORL 04/26/2007 ORL vs. DET L 15 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 4 -8
+p11
+aVTony Battie ORL 04/26/2007 ORL vs. DET L 22 2 1 4 25.0 0 0 - 0 0 - 1 5 6 1 0 0 0 3 7
+p12
+aVHedo Turkoglu ORL 04/26/2007 ORL vs. DET L 38 10 4 10 40.0 0 2 0.0 2 3 66.7 1 6 7 4 2 1 3 1 -18
+p13
+aVGrant Hill ORL 04/26/2007 ORL vs. DET L 35 8 2 12 16.7 0 0 - 4 6 66.7 0 6 6 3 0 0 2 1 -12
+p14
+aVJameer Nelson ORL 04/26/2007 ORL vs. DET L 39 27 10 19 52.6 3 5 60.0 4 4 100.0 1 2 3 4 0 0 3 5 -9
+p15
+aVDarko Milicic ORL 04/26/2007 ORL vs. DET L 24 11 5 7 71.4 0 0 - 1 5 20.0 2 0 2 1 1 1 0 2 -18
+p16
+aVDwight Howard ORL 04/26/2007 ORL vs. DET L 44 11 5 10 50.0 0 0 - 1 2 50.0 2 10 12 1 0 1 3 3 -18
+p17
+aVCarlos Arroyo ORL 04/26/2007 ORL vs. DET L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p18
+aVTrevor Ariza ORL 04/26/2007 ORL vs. DET L 15 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 2 3 -1
+p19
+aVHedo Turkoglu ORL 04/23/2007 ORL @ DET L 36 22 10 14 71.4 2 3 66.7 0 0 - 1 1 2 2 0 2 2 6 -6
+p20
+aVJameer Nelson ORL 04/23/2007 ORL @ DET L 29 9 3 12 25.0 1 4 25.0 2 3 66.7 1 5 6 3 0 0 2 2 -10
+p21
+aVCarlos Arroyo ORL 04/23/2007 ORL @ DET L 19 8 3 8 37.5 0 1 0.0 2 2 100.0 1 2 3 4 1 0 0 3 3
+p22
+aVKeyon Dooling ORL 04/23/2007 ORL @ DET L 13 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 3 0 1 0 1 -3
+p23
+aVTony Battie ORL 04/23/2007 ORL @ DET L 27 5 2 7 28.6 0 0 - 1 2 50.0 1 3 4 0 0 0 0 3 -9
+p24
+aVTrevor Ariza ORL 04/23/2007 ORL @ DET L 14 2 1 4 25.0 0 0 - 0 2 0.0 1 0 1 2 0 0 1 2 -13
+p25
+aVDarko Milicic ORL 04/23/2007 ORL @ DET L 28 10 5 9 55.6 0 0 - 0 0 - 1 5 6 0 0 3 0 2 10
+p26
+aVDwight Howard ORL 04/23/2007 ORL @ DET L 35 8 3 9 33.3 0 0 - 2 3 66.7 4 7 11 1 0 0 3 3 -9
+p27
+aVGrant Hill ORL 04/23/2007 ORL @ DET L 38 21 6 10 60.0 0 0 - 9 13 69.2 2 6 8 4 0 1 1 2 -3
+p28
+aVTrevor Ariza ORL 04/21/2007 ORL @ DET L 7 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 2 0 0 1 1 4
+p29
+aVTony Battie ORL 04/21/2007 ORL @ DET L 24 8 4 6 66.7 0 0 - 0 2 0.0 1 3 4 0 0 0 0 2 -14
+p30
+aVKeyon Dooling ORL 04/21/2007 ORL @ DET L 17 9 3 7 42.9 1 2 50.0 2 3 66.7 0 2 2 0 1 0 1 1 -2
+p31
+aVJameer Nelson ORL 04/21/2007 ORL @ DET L 31 10 4 9 44.4 0 2 0.0 2 2 100.0 0 1 1 3 2 0 3 6 -5
+p32
+aVDwight Howard ORL 04/21/2007 ORL @ DET L 44 13 5 8 62.5 0 0 - 3 11 27.3 5 14 19 3 0 3 6 4 -13
+p33
+aVCarlos Arroyo ORL 04/21/2007 ORL @ DET L 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 1 0
+p34
+aVGrant Hill ORL 04/21/2007 ORL @ DET L 33 14 4 8 50.0 0 0 - 6 8 75.0 0 4 4 5 1 0 3 3 -9
+p35
+aVHedo Turkoglu ORL 04/21/2007 ORL @ DET L 41 17 8 13 61.5 1 1 100.0 0 1 0.0 0 1 1 3 2 1 4 3 -8
+p36
+aVDarko Milicic ORL 04/21/2007 ORL @ DET L 27 14 5 6 83.3 0 0 - 4 7 57.1 2 2 4 1 0 0 1 3 7
+p37
+a.

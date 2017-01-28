@@ -1,0 +1,226 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAntonio Davis TOR 05/20/2001 TOR @ PHI L 41 23 11 15 73.3 0 0 - 1 2 50.0 2 7 9 2 1 2 1 5 11
+p2
+aVCharles Oakley TOR 05/20/2001 TOR @ PHI L 39 11 4 8 50.0 1 1 100.0 2 2 100.0 0 10 10 4 2 0 2 2 -9
+p3
+aVVince Carter TOR 05/20/2001 TOR @ PHI L 48 20 6 18 33.3 0 3 0.0 8 9 88.9 4 3 7 9 3 2 0 1 -1
+p4
+aVJerome Williams TOR 05/20/2001 TOR @ PHI L 16 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 -4
+p5
+aVAlvin Williams TOR 05/20/2001 TOR @ PHI L 36 8 4 11 36.4 0 2 0.0 0 0 - 1 1 2 3 0 3 1 2 -5
+p6
+aVDell Curry TOR 05/20/2001 TOR @ PHI L 17 7 3 5 60.0 1 3 33.3 0 0 - 1 1 2 0 2 0 2 1 7
+p7
+aVMorris Peterson TOR 05/20/2001 TOR @ PHI L 19 6 3 7 42.9 0 0 - 0 0 - 0 3 3 2 1 0 2 3 -3
+p8
+aVChris Childs TOR 05/20/2001 TOR @ PHI L 24 11 4 9 44.4 2 5 40.0 1 2 50.0 0 0 0 3 0 0 2 4 -1
+p9
+aVMichael Stewart TOR 05/18/2001 TOR vs. PHI W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p10
+aVCharles Oakley TOR 05/18/2001 TOR vs. PHI W 38 9 4 7 57.1 0 0 - 1 2 50.0 1 9 10 4 2 2 2 2 12
+p11
+aVJerome Williams TOR 05/18/2001 TOR vs. PHI W 18 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 21
+p12
+aVAlvin Williams TOR 05/18/2001 TOR vs. PHI W 36 15 7 12 58.3 1 2 50.0 0 0 - 0 2 2 3 1 1 0 2 10
+p13
+aVDell Curry TOR 05/18/2001 TOR vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p14
+aVChris Childs TOR 05/18/2001 TOR vs. PHI W 21 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 5 1 0 1 5 3
+p15
+aVTracy Murray TOR 05/18/2001 TOR vs. PHI W 2 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p16
+aVAntonio Davis TOR 05/18/2001 TOR vs. PHI W 37 17 5 16 31.3 0 0 - 7 7 100.0 4 9 13 4 1 2 1 1 4
+p17
+aVVince Carter TOR 05/18/2001 TOR vs. PHI W 43 39 17 31 54.8 4 8 50.0 1 2 50.0 3 2 5 5 4 1 0 3 21
+p18
+aVKeon Clark TOR 05/18/2001 TOR vs. PHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p19
+aVMorris Peterson TOR 05/18/2001 TOR vs. PHI W 38 17 7 11 63.6 3 5 60.0 0 0 - 2 2 4 7 2 0 3 2 27
+p20
+aVEric Montross TOR 05/18/2001 TOR vs. PHI W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p21
+aVJerome Williams TOR 05/16/2001 TOR @ PHI L 18 10 5 7 71.4 0 0 - 0 0 - 2 3 5 1 1 0 0 1 -6
+p22
+aVVince Carter TOR 05/16/2001 TOR @ PHI L 35 16 6 11 54.5 0 1 0.0 4 5 80.0 2 3 5 2 2 0 6 2 -30
+p23
+aVAntonio Davis TOR 05/16/2001 TOR @ PHI L 29 14 5 9 55.6 0 0 - 4 4 100.0 2 2 4 2 0 1 0 3 -14
+p24
+aVKeon Clark TOR 05/16/2001 TOR @ PHI L 21 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 1 0 0 2 1 -12
+p25
+aVAlvin Williams TOR 05/16/2001 TOR @ PHI L 30 7 2 5 40.0 0 1 0.0 3 7 42.9 0 2 2 4 0 0 0 3 -19
+p26
+aVMorris Peterson TOR 05/16/2001 TOR @ PHI L 15 9 4 6 66.7 0 1 0.0 1 2 50.0 0 1 1 2 1 0 0 1 -6
+p27
+aVEric Montross TOR 05/16/2001 TOR @ PHI L 18 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 2 1 1 -17
+p28
+aVDell Curry TOR 05/16/2001 TOR @ PHI L 19 12 4 8 50.0 4 6 66.7 0 0 - 1 1 2 1 2 0 1 1 -14
+p29
+aVChris Childs TOR 05/16/2001 TOR @ PHI L 35 10 4 11 36.4 0 4 0.0 2 2 100.0 0 1 1 8 2 0 2 6 -25
+p30
+aVCharles Oakley TOR 05/16/2001 TOR @ PHI L 20 2 1 6 16.7 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -22
+p31
+aVVince Carter TOR 05/13/2001 TOR vs. PHI L 47 25 8 27 29.6 1 7 14.3 8 10 80.0 5 5 10 5 1 3 2 5 -5
+p32
+aVAlvin Williams TOR 05/13/2001 TOR vs. PHI L 44 14 7 18 38.9 0 4 0.0 0 0 - 1 2 3 2 0 1 1 2 -1
+p33
+aVJerome Williams TOR 05/13/2001 TOR vs. PHI L 8 0 0 1 0.0 0 0 - 0 0 - 4 3 7 1 0 1 0 2 -4
+p34
+aVKeon Clark TOR 05/13/2001 TOR vs. PHI L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 2
+p35
+aVDell Curry TOR 05/13/2001 TOR vs. PHI L 8 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -5
+p36
+aVCharles Oakley TOR 05/13/2001 TOR vs. PHI L 40 11 4 12 33.3 1 2 50.0 2 2 100.0 5 6 11 1 2 3 3 4 -3
+p37
+aVChris Childs TOR 05/13/2001 TOR vs. PHI L 45 10 3 8 37.5 2 4 50.0 2 2 100.0 1 4 5 7 0 0 5 2 -2
+p38
+aVAntonio Davis TOR 05/13/2001 TOR vs. PHI L 44 15 4 10 40.0 0 0 - 7 8 87.5 4 7 11 0 3 2 1 4 -7
+p39
+aVAlvin Williams TOR 05/11/2001 TOR vs. PHI W 39 4 2 11 18.2 0 0 - 0 0 - 1 1 2 6 1 0 1 3 20
+p40
+aVAntonio Davis TOR 05/11/2001 TOR vs. PHI W 45 20 9 16 56.3 0 0 - 2 2 100.0 3 11 14 2 1 3 2 3 24
+p41
+aVKeon Clark TOR 05/11/2001 TOR vs. PHI W 9 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 3 7
+p42
+aVDell Curry TOR 05/11/2001 TOR vs. PHI W 18 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 0 0 0 3 1 11
+p43
+aVVince Carter TOR 05/11/2001 TOR vs. PHI W 45 50 19 29 65.5 9 13 69.2 3 3 100.0 3 3 6 7 1 4 1 3 24
+p44
+aVJerome Williams TOR 05/11/2001 TOR vs. PHI W 16 3 1 1 100.0 0 0 - 1 3 33.3 1 3 4 3 2 1 0 1 16
+p45
+aVChris Childs TOR 05/11/2001 TOR vs. PHI W 40 16 5 9 55.6 2 3 66.7 4 4 100.0 0 5 5 10 1 0 3 4 16
+p46
+aVMorris Peterson TOR 05/11/2001 TOR vs. PHI W 2 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 1
+p47
+aVEric Montross TOR 05/11/2001 TOR vs. PHI W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 0
+p48
+aVCharles Oakley TOR 05/11/2001 TOR vs. PHI W 23 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 1 1 3 1 1
+p49
+aVCharles Oakley TOR 05/09/2001 TOR @ PHI L 26 12 6 10 60.0 0 0 - 0 0 - 1 6 7 2 0 0 1 4 6
+p50
+aVEric Montross TOR 05/09/2001 TOR @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p51
+aVAlvin Williams TOR 05/09/2001 TOR @ PHI L 43 15 6 17 35.3 2 5 40.0 1 2 50.0 1 4 5 8 1 1 2 2 -1
+p52
+aVKeon Clark TOR 05/09/2001 TOR @ PHI L 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -9
+p53
+aVAntonio Davis TOR 05/09/2001 TOR @ PHI L 45 19 8 13 61.5 0 0 - 3 4 75.0 1 9 10 3 0 0 1 1 -3
+p54
+aVChris Childs TOR 05/09/2001 TOR @ PHI L 29 3 1 3 33.3 0 1 0.0 1 2 50.0 0 4 4 9 1 0 1 3 -2
+p55
+aVDell Curry TOR 05/09/2001 TOR @ PHI L 25 11 3 10 30.0 3 6 50.0 2 3 66.7 0 1 1 2 1 1 0 1 -6
+p56
+aVJerome Williams TOR 05/09/2001 TOR @ PHI L 13 0 0 0 - 0 0 - 0 2 0.0 5 2 7 1 0 1 2 2 -2
+p57
+aVVince Carter TOR 05/09/2001 TOR @ PHI L 47 28 12 26 46.2 4 9 44.4 0 0 - 2 5 7 4 2 2 2 5 -3
+p58
+aVDell Curry TOR 05/06/2001 TOR @ PHI W 34 20 7 12 58.3 4 9 44.4 2 2 100.0 0 4 4 1 0 0 1 4 0
+p59
+aVAntonio Davis TOR 05/06/2001 TOR @ PHI W 42 10 4 12 33.3 0 0 - 2 4 50.0 4 8 12 3 1 2 0 3 3
+p60
+aVAlvin Williams TOR 05/06/2001 TOR @ PHI W 41 15 6 9 66.7 1 2 50.0 2 2 100.0 1 3 4 4 3 0 5 4 1
+p61
+aVEric Montross TOR 05/06/2001 TOR @ PHI W 5 0 0 0 - 0 0 - 0 0 - 3 3 6 1 0 0 1 0 0
+p62
+aVKeon Clark TOR 05/06/2001 TOR @ PHI W 12 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 1 5
+p63
+aVCharles Oakley TOR 05/06/2001 TOR @ PHI W 33 13 4 12 33.3 1 1 100.0 4 4 100.0 0 2 2 2 0 0 2 4 3
+p64
+aVJerome Williams TOR 05/06/2001 TOR @ PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p65
+aVVince Carter TOR 05/06/2001 TOR @ PHI W 47 35 13 29 44.8 1 4 25.0 8 9 88.9 2 0 2 7 0 2 4 5 6
+p66
+aVChris Childs TOR 05/06/2001 TOR @ PHI W 22 0 0 4 0.0 0 2 0.0 0 0 - 0 4 4 4 2 1 3 6 2
+p67
+aVMorris Peterson TOR 05/06/2001 TOR @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p68
+aVJerome Williams TOR 05/04/2001 TOR @ NYK W 17 7 3 3 100.0 0 0 - 1 2 50.0 2 3 5 1 3 0 0 4 3
+p69
+aVVince Carter TOR 05/04/2001 TOR @ NYK W 48 27 11 22 50.0 3 3 100.0 2 2 100.0 2 4 6 3 2 0 3 3 4
+p70
+aVDell Curry TOR 05/04/2001 TOR @ NYK W 13 1 0 2 0.0 0 2 0.0 1 1 100.0 0 0 0 2 1 0 2 0 1
+p71
+aVCharles Oakley TOR 05/04/2001 TOR @ NYK W 30 12 5 12 41.7 0 1 0.0 2 4 50.0 2 4 6 2 1 0 1 3 -3
+p72
+aVAlvin Williams TOR 05/04/2001 TOR @ NYK W 45 18 5 13 38.5 1 1 100.0 7 7 100.0 0 2 2 4 3 0 0 3 10
+p73
+aVChris Childs TOR 05/04/2001 TOR @ NYK W 37 10 4 8 50.0 2 2 100.0 0 0 - 0 3 3 9 0 1 3 2 0
+p74
+aVAntonio Davis TOR 05/04/2001 TOR @ NYK W 40 14 5 11 45.5 0 0 - 4 6 66.7 4 8 12 2 1 2 2 2 7
+p75
+aVKeon Clark TOR 05/04/2001 TOR @ NYK W 10 4 2 4 50.0 0 0 - 0 2 0.0 1 0 1 1 0 0 0 2 -2
+p76
+aVCharles Oakley TOR 05/02/2001 TOR vs. NYK W 30 4 2 6 33.3 0 1 0.0 0 0 - 2 5 7 2 2 0 0 2 -1
+p77
+aVMorris Peterson TOR 05/02/2001 TOR vs. NYK W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p78
+aVDell Curry TOR 05/02/2001 TOR vs. NYK W 7 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 11
+p79
+aVKeon Clark TOR 05/02/2001 TOR vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p80
+aVChris Childs TOR 05/02/2001 TOR vs. NYK W 40 25 8 11 72.7 4 5 80.0 5 6 83.3 1 5 6 4 3 0 5 5 -2
+p81
+aVAntonio Davis TOR 05/02/2001 TOR vs. NYK W 39 10 4 11 36.4 0 0 - 2 2 100.0 4 5 9 1 1 4 4 5 7
+p82
+aVAlvin Williams TOR 05/02/2001 TOR vs. NYK W 42 18 7 16 43.8 1 3 33.3 3 4 75.0 0 3 3 3 1 0 3 5 6
+p83
+aVVince Carter TOR 05/02/2001 TOR vs. NYK W 47 32 10 22 45.5 2 4 50.0 10 14 71.4 4 3 7 4 2 2 2 5 4
+p84
+aVJerome Williams TOR 05/02/2001 TOR vs. NYK W 28 8 2 5 40.0 0 0 - 4 7 57.1 1 4 5 0 1 2 2 3 11
+p85
+aVCharles Oakley TOR 04/29/2001 TOR vs. NYK L 37 9 4 6 66.7 0 0 - 1 1 100.0 3 1 4 1 0 0 5 1 -4
+p86
+aVVince Carter TOR 04/29/2001 TOR vs. NYK L 47 20 5 21 23.8 1 4 25.0 9 11 81.8 4 5 9 4 0 2 0 6 -8
+p87
+aVKeon Clark TOR 04/29/2001 TOR vs. NYK L 10 9 1 4 25.0 0 0 - 7 8 87.5 1 2 3 1 0 0 0 2 2
+p88
+aVDell Curry TOR 04/29/2001 TOR vs. NYK L 13 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p89
+aVAntonio Davis TOR 04/29/2001 TOR vs. NYK L 39 21 10 16 62.5 0 0 - 1 2 50.0 4 8 12 1 0 2 4 5 -10
+p90
+aVJerome Williams TOR 04/29/2001 TOR vs. NYK L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -4
+p91
+aVChris Childs TOR 04/29/2001 TOR vs. NYK L 39 12 4 11 36.4 1 2 50.0 3 3 100.0 0 5 5 9 0 0 3 4 -8
+p92
+aVAlvin Williams TOR 04/29/2001 TOR vs. NYK L 45 9 4 11 36.4 1 1 100.0 0 0 - 0 3 3 3 1 1 1 3 -10
+p93
+aVKeon Clark TOR 04/26/2001 TOR @ NYK W 13 7 2 7 28.6 0 0 - 3 3 100.0 2 4 6 0 1 1 0 4 1
+p94
+aVMichael Stewart TOR 04/26/2001 TOR @ NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p95
+aVMorris Peterson TOR 04/26/2001 TOR @ NYK W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p96
+aVAntonio Davis TOR 04/26/2001 TOR @ NYK W 38 15 6 12 50.0 0 0 - 3 4 75.0 3 9 12 2 1 2 2 2 19
+p97
+aVCharles Oakley TOR 04/26/2001 TOR @ NYK W 38 12 5 11 45.5 0 1 0.0 2 2 100.0 3 7 10 0 0 1 1 2 21
+p98
+aVDell Curry TOR 04/26/2001 TOR @ NYK W 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 2 1 6
+p99
+aVVince Carter TOR 04/26/2001 TOR @ NYK W 39 22 10 22 45.5 0 4 0.0 2 4 50.0 4 3 7 1 2 1 2 4 20
+p100
+aVTracy Murray TOR 04/26/2001 TOR @ NYK W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -4
+p101
+aVChris Childs TOR 04/26/2001 TOR @ NYK W 29 5 1 7 14.3 1 3 33.3 2 2 100.0 0 2 2 7 2 1 6 3 13
+p102
+aVJerome Williams TOR 04/26/2001 TOR @ NYK W 17 2 0 2 0.0 0 0 - 2 4 50.0 4 2 6 1 2 1 2 4 1
+p103
+aVAlvin Williams TOR 04/26/2001 TOR @ NYK W 44 23 10 18 55.6 3 5 60.0 0 1 0.0 0 4 4 2 1 1 2 1 26
+p104
+aVAntonio Davis TOR 04/22/2001 TOR @ NYK L 46 19 6 13 46.2 0 0 - 7 8 87.5 6 9 15 1 0 0 3 1 -6
+p105
+aVKeon Clark TOR 04/22/2001 TOR @ NYK L 12 2 1 1 100.0 0 0 - 0 3 0.0 0 2 2 1 0 1 0 1 7
+p106
+aVDell Curry TOR 04/22/2001 TOR @ NYK L 17 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -3
+p107
+aVVince Carter TOR 04/22/2001 TOR @ NYK L 46 13 5 22 22.7 0 1 0.0 3 5 60.0 2 5 7 5 1 1 5 3 -3
+p108
+aVCharles Oakley TOR 04/22/2001 TOR @ NYK L 37 12 6 13 46.2 0 1 0.0 0 0 - 0 4 4 2 2 0 1 4 -12
+p109
+aVMorris Peterson TOR 04/22/2001 TOR @ NYK L 22 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 4 2 0 1 3 -4
+p110
+aVAlvin Williams TOR 04/22/2001 TOR @ NYK L 41 19 9 19 47.4 0 2 0.0 1 2 50.0 1 2 3 8 3 0 0 4 -6
+p111
+aVChris Childs TOR 04/22/2001 TOR @ NYK L 19 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 3 0 0 1 4 -8
+p112
+a.

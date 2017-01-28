@@ -1,0 +1,1406 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAlan Anderson TOR 04/26/2012 TOR vs. NJN W 45 20 6 16 37.5 5 9 55.6 3 3 100.0 1 3 4 4 0 0 3 2 32
+p2
+aVEd Davis TOR 04/26/2012 TOR vs. NJN W 43 24 10 15 66.7 0 0 - 4 5 80.0 4 8 12 2 1 1 3 3 25
+p3
+aVJames Johnson TOR 04/26/2012 TOR vs. NJN W 19 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 2 0 0 4 1 18
+p4
+aVGary Forbes TOR 04/26/2012 TOR vs. NJN W 41 23 8 21 38.1 5 9 55.6 2 4 50.0 0 6 6 3 2 0 1 2 18
+p5
+aVJamaal Magloire TOR 04/26/2012 TOR vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 0 15
+p6
+aVSolomon Alabi TOR 04/26/2012 TOR vs. NJN W 40 11 3 10 30.0 0 0 - 5 6 83.3 5 14 19 0 0 3 0 1 14
+p7
+aVBen Uzoh TOR 04/26/2012 TOR vs. NJN W 46 12 6 19 31.6 0 0 - 0 0 - 4 7 11 12 4 1 2 3 33
+p8
+aVGary Forbes TOR 04/23/2012 TOR @ MIL L 25 15 6 9 66.7 2 3 66.7 1 2 50.0 1 2 3 5 0 0 2 0 -7
+p9
+aVEd Davis TOR 04/23/2012 TOR @ MIL L 25 2 1 4 25.0 0 0 - 0 0 - 1 10 11 1 1 0 2 5 -20
+p10
+aVJames Johnson TOR 04/23/2012 TOR @ MIL L 41 22 10 21 47.6 0 2 0.0 2 2 100.0 3 10 13 4 1 2 3 3 1
+p11
+aVLinas Kleiza TOR 04/23/2012 TOR @ MIL L 29 15 6 13 46.2 2 6 33.3 1 2 50.0 2 7 9 2 0 0 5 5 -16
+p12
+aVAaron Gray TOR 04/23/2012 TOR @ MIL L 3 2 1 1 100.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 0 1
+p13
+aVSolomon Alabi TOR 04/23/2012 TOR @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p14
+aVBen Uzoh TOR 04/23/2012 TOR @ MIL L 39 8 2 6 33.3 0 0 - 4 4 100.0 0 4 4 5 1 1 1 4 0
+p15
+aVAlan Anderson TOR 04/23/2012 TOR @ MIL L 42 11 3 13 23.1 0 3 0.0 5 5 100.0 0 0 0 3 2 0 4 4 -4
+p16
+aVAmir Johnson TOR 04/23/2012 TOR @ MIL L 16 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 2 0 0 2 3 10
+p17
+aVDeMar DeRozan TOR 04/23/2012 TOR @ MIL L 15 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 0 0 2 1 2
+p18
+aVEd Davis TOR 04/22/2012 TOR @ DET L 29 7 3 5 60.0 0 0 - 1 2 50.0 4 4 8 2 1 0 1 4 0
+p19
+aVAmir Johnson TOR 04/22/2012 TOR @ DET L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 1 1 -8
+p20
+aVAaron Gray TOR 04/22/2012 TOR @ DET L 17 6 3 4 75.0 0 0 - 0 0 - 2 5 7 1 1 1 1 3 -7
+p21
+aVLinas Kleiza TOR 04/22/2012 TOR @ DET L 23 12 4 10 40.0 2 4 50.0 2 2 100.0 0 3 3 2 1 0 1 5 3
+p22
+aVGary Forbes TOR 04/22/2012 TOR @ DET L 17 10 3 3 100.0 1 1 100.0 3 4 75.0 0 3 3 4 1 0 5 2 5
+p23
+aVJames Johnson TOR 04/22/2012 TOR @ DET L 22 5 2 9 22.2 0 2 0.0 1 2 50.0 1 4 5 4 0 2 1 5 5
+p24
+aVBen Uzoh TOR 04/22/2012 TOR @ DET L 31 5 2 9 22.2 0 0 - 1 2 50.0 0 4 4 1 2 0 4 0 -8
+p25
+aVDeMar DeRozan TOR 04/22/2012 TOR @ DET L 28 16 7 15 46.7 1 2 50.0 1 2 50.0 0 1 1 3 1 1 1 2 -3
+p26
+aVSolomon Alabi TOR 04/22/2012 TOR @ DET L 24 6 2 7 28.6 0 0 - 2 2 100.0 4 6 10 0 1 1 0 3 4
+p27
+aVAlan Anderson TOR 04/22/2012 TOR @ DET L 35 4 2 12 16.7 0 4 0.0 0 0 - 0 2 2 3 0 0 2 3 -6
+p28
+aVDeMar DeRozan TOR 04/18/2012 TOR @ MIA L 30 12 5 14 35.7 0 2 0.0 2 3 66.7 0 1 1 2 1 0 1 2 -17
+p29
+aVSolomon Alabi TOR 04/18/2012 TOR @ MIA L 10 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 0 2 2 3 -2
+p30
+aVBen Uzoh TOR 04/18/2012 TOR @ MIA L 34 3 1 4 25.0 0 0 - 1 2 50.0 1 4 5 2 1 0 2 2 -4
+p31
+aVEd Davis TOR 04/18/2012 TOR @ MIA L 31 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 1 1 3 0 0 -19
+p32
+aVAmir Johnson TOR 04/18/2012 TOR @ MIA L 21 3 1 4 25.0 0 0 - 1 1 100.0 2 2 4 1 0 0 3 1 -8
+p33
+aVAlan Anderson TOR 04/18/2012 TOR @ MIA L 45 15 7 18 38.9 0 8 0.0 1 2 50.0 0 2 2 3 1 0 2 1 -26
+p34
+aVGary Forbes TOR 04/18/2012 TOR @ MIA L 29 9 4 10 40.0 0 4 0.0 1 2 50.0 1 1 2 1 0 0 2 1 -19
+p35
+aVAaron Gray TOR 04/18/2012 TOR @ MIA L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -7
+p36
+aVJames Johnson TOR 04/18/2012 TOR @ MIA L 25 18 7 12 58.3 1 2 50.0 3 3 100.0 2 4 6 2 3 0 1 4 -18
+p37
+aVAlan Anderson TOR 04/16/2012 TOR vs. ATL L 25 12 4 8 50.0 2 4 50.0 2 2 100.0 0 4 4 0 0 1 1 4 -10
+p38
+aVGary Forbes TOR 04/16/2012 TOR vs. ATL L 23 9 3 12 25.0 0 3 0.0 3 4 75.0 0 0 0 0 2 0 4 3 -13
+p39
+aVJames Johnson TOR 04/16/2012 TOR vs. ATL L 32 18 7 11 63.6 1 1 100.0 3 5 60.0 1 3 4 5 1 0 3 3 -16
+p40
+aVSolomon Alabi TOR 04/16/2012 TOR vs. ATL L 24 8 4 9 44.4 0 0 - 0 0 - 4 5 9 1 1 1 2 3 -18
+p41
+aVAaron Gray TOR 04/16/2012 TOR vs. ATL L 11 0 0 0 - 0 0 - 0 0 - 1 4 5 1 0 0 0 2 -6
+p42
+aVEd Davis TOR 04/16/2012 TOR vs. ATL L 30 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 3 2 4 -12
+p43
+aVAmir Johnson TOR 04/16/2012 TOR vs. ATL L 24 8 4 8 50.0 0 0 - 0 0 - 2 6 8 1 0 0 2 3 -13
+p44
+aVBen Uzoh TOR 04/16/2012 TOR vs. ATL L 33 4 2 11 18.2 0 0 - 0 0 - 4 6 10 8 0 0 2 4 -12
+p45
+aVDeMar DeRozan TOR 04/16/2012 TOR vs. ATL L 37 22 8 14 57.1 1 1 100.0 5 5 100.0 1 1 2 3 1 0 2 1 -10
+p46
+aVBen Uzoh TOR 04/15/2012 TOR @ ATL W 26 10 5 7 71.4 0 0 - 0 0 - 1 2 3 3 1 1 2 2 11
+p47
+aVAmir Johnson TOR 04/15/2012 TOR @ ATL W 22 8 4 6 66.7 0 0 - 0 0 - 1 3 4 2 0 1 1 4 6
+p48
+aVAaron Gray TOR 04/15/2012 TOR @ ATL W 20 5 2 4 50.0 0 0 - 1 2 50.0 1 6 7 0 0 0 2 2 8
+p49
+aVAlan Anderson TOR 04/15/2012 TOR @ ATL W 34 16 6 9 66.7 3 4 75.0 1 1 100.0 0 2 2 2 0 0 2 1 15
+p50
+aVSolomon Alabi TOR 04/15/2012 TOR @ ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p51
+aVLinas Kleiza TOR 04/15/2012 TOR @ ATL W 26 5 2 7 28.6 0 2 0.0 1 1 100.0 1 6 7 0 2 0 0 2 13
+p52
+aVEd Davis TOR 04/15/2012 TOR @ ATL W 27 10 5 7 71.4 0 0 - 0 0 - 1 4 5 1 0 2 2 4 6
+p53
+aVGary Forbes TOR 04/15/2012 TOR @ ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p54
+aVJustin Dentmon TOR 04/15/2012 TOR @ ATL W 22 10 3 10 30.0 1 6 16.7 3 4 75.0 0 3 3 4 1 0 3 3 5
+p55
+aVDeMar DeRozan TOR 04/15/2012 TOR @ ATL W 35 23 8 15 53.3 0 0 - 7 11 63.6 0 4 4 3 1 0 1 3 20
+p56
+aVJames Johnson TOR 04/15/2012 TOR @ ATL W 23 15 6 8 75.0 0 0 - 3 4 75.0 1 3 4 1 1 0 1 2 2
+p57
+aVEd Davis TOR 04/13/2012 TOR vs. BOS W 29 4 2 6 33.3 0 0 - 0 0 - 2 10 12 0 0 0 2 1 -2
+p58
+aVBen Uzoh TOR 04/13/2012 TOR vs. BOS W 33 8 4 9 44.4 0 0 - 0 0 - 2 6 8 5 2 0 1 3 10
+p59
+aVGary Forbes TOR 04/13/2012 TOR vs. BOS W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -4
+p60
+aVAaron Gray TOR 04/13/2012 TOR vs. BOS W 18 4 2 5 40.0 0 0 - 0 0 - 3 7 10 0 0 0 1 2 9
+p61
+aVAmir Johnson TOR 04/13/2012 TOR vs. BOS W 40 10 4 8 50.0 0 0 - 2 2 100.0 3 6 9 1 1 2 1 4 7
+p62
+aVDeMar DeRozan TOR 04/13/2012 TOR vs. BOS W 35 22 4 14 28.6 1 3 33.3 13 13 100.0 1 1 2 2 0 1 2 0 9
+p63
+aVAlan Anderson TOR 04/13/2012 TOR vs. BOS W 30 12 3 11 27.3 3 7 42.9 3 4 75.0 0 0 0 4 1 1 1 2 4
+p64
+aVLinas Kleiza TOR 04/13/2012 TOR vs. BOS W 28 17 4 10 40.0 3 6 50.0 6 6 100.0 1 7 8 0 0 0 2 4 -2
+p65
+aVJustin Dentmon TOR 04/13/2012 TOR vs. BOS W 15 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 2 -5
+p66
+aVJames Johnson TOR 04/13/2012 TOR vs. BOS W 6 2 0 3 0.0 0 0 - 2 4 50.0 0 1 1 0 0 0 1 1 -1
+p67
+aVJames Johnson TOR 04/11/2012 TOR vs. PHI L 21 5 2 11 18.2 1 2 50.0 0 0 - 0 5 5 2 0 2 1 1 -14
+p68
+aVBen Uzoh TOR 04/11/2012 TOR vs. PHI L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 3
+p69
+aVDeMar DeRozan TOR 04/11/2012 TOR vs. PHI L 31 11 5 9 55.6 0 2 0.0 1 1 100.0 1 2 3 0 0 0 0 1 -11
+p70
+aVGary Forbes TOR 04/11/2012 TOR vs. PHI L 19 10 4 10 40.0 2 4 50.0 0 0 - 0 0 0 0 0 0 2 0 -10
+p71
+aVLinas Kleiza TOR 04/11/2012 TOR vs. PHI L 14 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 0 0 0 1 2 -7
+p72
+aVAmir Johnson TOR 04/11/2012 TOR vs. PHI L 26 2 1 8 12.5 0 0 - 0 0 - 1 5 6 0 0 3 1 4 -9
+p73
+aVSolomon Alabi TOR 04/11/2012 TOR vs. PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p74
+aVJustin Dentmon TOR 04/11/2012 TOR vs. PHI L 21 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 2 0 0 1 0 -10
+p75
+aVAlan Anderson TOR 04/11/2012 TOR vs. PHI L 34 13 4 12 33.3 1 4 25.0 4 5 80.0 0 3 3 1 0 0 0 3 -11
+p76
+aVJose Calderon TOR 04/11/2012 TOR vs. PHI L 22 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 4 0 0 1 1 -8
+p77
+aVEd Davis TOR 04/11/2012 TOR vs. PHI L 33 13 5 12 41.7 0 0 - 3 4 75.0 5 8 13 5 0 0 1 3 -4
+p78
+aVAaron Gray TOR 04/11/2012 TOR vs. PHI L 13 0 0 4 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 0 -12
+p79
+aVAaron Gray TOR 04/09/2012 TOR @ IND L 24 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 2 0 2 1 3 0
+p80
+aVLinas Kleiza TOR 04/09/2012 TOR @ IND L 16 18 3 10 30.0 2 7 28.6 10 10 100.0 1 2 3 0 0 1 0 2 5
+p81
+aVJames Johnson TOR 04/09/2012 TOR @ IND L 18 4 2 6 33.3 0 0 - 0 0 - 0 7 7 0 0 2 2 4 -6
+p82
+aVEd Davis TOR 04/09/2012 TOR @ IND L 17 11 5 7 71.4 0 0 - 1 4 25.0 3 7 10 1 1 1 2 1 1
+p83
+aVAmir Johnson TOR 04/09/2012 TOR @ IND L 33 16 7 9 77.8 1 1 100.0 1 2 50.0 3 4 7 3 1 0 0 2 -1
+p84
+aVAlan Anderson TOR 04/09/2012 TOR @ IND L 26 17 6 9 66.7 4 4 100.0 1 2 50.0 1 0 1 0 0 0 3 3 -9
+p85
+aVDeMar DeRozan TOR 04/09/2012 TOR @ IND L 34 10 4 12 33.3 0 0 - 2 2 100.0 0 4 4 0 1 0 1 2 -5
+p86
+aVGary Forbes TOR 04/09/2012 TOR @ IND L 21 9 4 10 40.0 1 4 25.0 0 0 - 0 0 0 1 0 1 1 4 -3
+p87
+aVJamaal Magloire TOR 04/09/2012 TOR @ IND L 7 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -7
+p88
+aVBen Uzoh TOR 04/09/2012 TOR @ IND L 6 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 2 1 0 0 0 1
+p89
+aVJose Calderon TOR 04/09/2012 TOR @ IND L 38 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 14 0 0 2 2 -1
+p90
+aVAaron Gray TOR 04/08/2012 TOR @ OKC L 25 4 2 3 66.7 0 0 - 0 0 - 3 7 10 0 1 0 1 4 9
+p91
+aVAndrea Bargnani TOR 04/08/2012 TOR @ OKC L 13 7 1 3 33.3 0 0 - 5 6 83.3 1 4 5 0 0 1 0 0 -1
+p92
+aVEd Davis TOR 04/08/2012 TOR @ OKC L 20 6 3 4 75.0 0 0 - 0 0 - 3 1 4 0 0 0 3 0 -23
+p93
+aVLinas Kleiza TOR 04/08/2012 TOR @ OKC L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 -15
+p94
+aVBen Uzoh TOR 04/08/2012 TOR @ OKC L 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -29
+p95
+aVDeMar DeRozan TOR 04/08/2012 TOR @ OKC L 38 16 6 22 27.3 0 1 0.0 4 4 100.0 1 2 3 4 0 0 1 0 -2
+p96
+aVJose Calderon TOR 04/08/2012 TOR @ OKC L 36 19 8 12 66.7 3 4 75.0 0 0 - 0 2 2 6 2 0 2 2 13
+p97
+aVAmir Johnson TOR 04/08/2012 TOR @ OKC L 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 2 3 3 -5
+p98
+aVGary Forbes TOR 04/08/2012 TOR @ OKC L 15 8 3 5 60.0 2 3 66.7 0 2 0.0 0 1 1 0 1 0 1 0 -6
+p99
+aVAlan Anderson TOR 04/08/2012 TOR @ OKC L 19 8 3 7 42.9 1 3 33.3 1 2 50.0 0 0 0 1 0 1 1 3 -6
+p100
+aVJames Johnson TOR 04/08/2012 TOR @ OKC L 28 5 2 11 18.2 0 3 0.0 1 2 50.0 0 7 7 1 1 2 2 4 -16
+p101
+aVJamaal Magloire TOR 04/08/2012 TOR @ OKC L 9 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 1
+p102
+aVLinas Kleiza TOR 04/06/2012 TOR vs. CLE L 28 8 2 9 22.2 1 6 16.7 3 3 100.0 2 6 8 1 0 1 3 2 4
+p103
+aVBen Uzoh TOR 04/06/2012 TOR vs. CLE L 34 9 4 8 50.0 0 0 - 1 1 100.0 1 5 6 3 0 0 1 2 3
+p104
+aVEd Davis TOR 04/06/2012 TOR vs. CLE L 18 6 3 6 50.0 0 0 - 0 0 - 2 5 7 0 0 1 1 1 -6
+p105
+aVDeMar DeRozan TOR 04/06/2012 TOR vs. CLE L 38 28 10 16 62.5 1 2 50.0 7 8 87.5 0 4 4 4 0 1 4 5 1
+p106
+aVAndrea Bargnani TOR 04/06/2012 TOR vs. CLE L 36 19 8 22 36.4 1 5 20.0 2 4 50.0 1 6 7 2 2 0 0 3 -3
+p107
+aVAaron Gray TOR 04/06/2012 TOR vs. CLE L 22 4 2 3 66.7 0 0 - 0 2 0.0 2 5 7 2 1 0 1 6 -5
+p108
+aVAmir Johnson TOR 04/06/2012 TOR vs. CLE L 21 3 1 1 100.0 0 0 - 1 4 25.0 1 4 5 1 2 1 0 4 6
+p109
+aVAlan Anderson TOR 04/06/2012 TOR vs. CLE L 30 0 0 4 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 2 3 -13
+p110
+aVJustin Dentmon TOR 04/06/2012 TOR vs. CLE L 14 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 2 3 -7
+p111
+aVSolomon Alabi TOR 04/04/2012 TOR @ PHI W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p112
+aVAmir Johnson TOR 04/04/2012 TOR @ PHI W 15 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -1
+p113
+aVJose Calderon TOR 04/04/2012 TOR @ PHI W 33 12 5 9 55.6 1 4 25.0 1 1 100.0 0 0 0 13 2 0 1 1 27
+p114
+aVAaron Gray TOR 04/04/2012 TOR @ PHI W 20 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 0 0 2 3 1
+p115
+aVAndrea Bargnani TOR 04/04/2012 TOR @ PHI W 34 24 8 15 53.3 3 7 42.9 5 5 100.0 0 5 5 2 0 0 2 0 21
+p116
+aVAlan Anderson TOR 04/04/2012 TOR @ PHI W 31 13 5 7 71.4 3 4 75.0 0 0 - 0 4 4 0 0 0 1 2 18
+p117
+aVEd Davis TOR 04/04/2012 TOR @ PHI W 25 4 2 4 50.0 0 0 - 0 0 - 3 11 14 0 0 0 1 1 19
+p118
+aVLinas Kleiza TOR 04/04/2012 TOR @ PHI W 27 10 4 9 44.4 2 5 40.0 0 0 - 2 5 7 2 0 0 1 2 16
+p119
+aVBen Uzoh TOR 04/04/2012 TOR @ PHI W 15 6 2 6 33.3 0 0 - 2 2 100.0 3 1 4 4 0 0 1 3 -6
+p120
+aVDeMar DeRozan TOR 04/04/2012 TOR @ PHI W 38 18 7 18 38.9 0 1 0.0 4 4 100.0 2 1 3 5 1 0 1 0 8
+p121
+aVJose Calderon TOR 04/03/2012 TOR vs. CHA W 33 1 0 2 0.0 0 2 0.0 1 1 100.0 0 2 2 11 3 0 0 4 6
+p122
+aVDeMar DeRozan TOR 04/03/2012 TOR vs. CHA W 38 20 8 16 50.0 0 0 - 4 4 100.0 0 4 4 2 0 0 2 4 7
+p123
+aVBen Uzoh TOR 04/03/2012 TOR vs. CHA W 15 3 1 1 100.0 0 0 - 1 4 25.0 0 3 3 4 1 0 1 0 -1
+p124
+aVAlan Anderson TOR 04/03/2012 TOR vs. CHA W 18 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -4
+p125
+aVLinas Kleiza TOR 04/03/2012 TOR vs. CHA W 28 18 7 14 50.0 4 8 50.0 0 0 - 3 2 5 0 0 0 1 3 3
+p126
+aVJamaal Magloire TOR 04/03/2012 TOR vs. CHA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p127
+aVEd Davis TOR 04/03/2012 TOR vs. CHA W 22 6 2 5 40.0 0 0 - 2 5 40.0 2 5 7 2 0 1 1 1 0
+p128
+aVJames Johnson TOR 04/03/2012 TOR vs. CHA W 19 9 4 10 40.0 1 1 100.0 0 0 - 0 1 1 3 1 1 1 1 7
+p129
+aVAaron Gray TOR 04/03/2012 TOR vs. CHA W 21 3 1 3 33.3 0 0 - 1 2 50.0 4 5 9 1 1 1 1 2 -6
+p130
+aVAmir Johnson TOR 04/03/2012 TOR vs. CHA W 12 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 4 2
+p131
+aVAndrea Bargnani TOR 04/03/2012 TOR vs. CHA W 34 30 11 22 50.0 2 6 33.3 6 6 100.0 0 3 3 1 1 0 2 4 9
+p132
+aVBen Uzoh TOR 04/01/2012 TOR vs. WAS W 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 1 0 0 3 7
+p133
+aVAlan Anderson TOR 04/01/2012 TOR vs. WAS W 12 9 2 5 40.0 1 2 50.0 4 4 100.0 1 1 2 0 0 0 0 2 2
+p134
+aVJames Johnson TOR 04/01/2012 TOR vs. WAS W 21 9 4 9 44.4 1 4 25.0 0 0 - 0 0 0 1 0 2 0 2 -3
+p135
+aVAndrea Bargnani TOR 04/01/2012 TOR vs. WAS W 31 18 6 15 40.0 0 3 0.0 6 6 100.0 0 8 8 4 3 0 1 1 0
+p136
+aVDeMar DeRozan TOR 04/01/2012 TOR vs. WAS W 32 15 4 11 36.4 0 0 - 7 9 77.8 2 3 5 3 0 0 4 3 2
+p137
+aVGary Forbes TOR 04/01/2012 TOR vs. WAS W 24 9 3 6 50.0 0 0 - 3 3 100.0 1 2 3 0 0 0 1 3 12
+p138
+aVJose Calderon TOR 04/01/2012 TOR vs. WAS W 36 15 6 10 60.0 2 6 33.3 1 1 100.0 1 1 2 8 2 0 1 4 0
+p139
+aVAmir Johnson TOR 04/01/2012 TOR vs. WAS W 28 10 5 7 71.4 0 0 - 0 0 - 3 3 6 0 1 0 1 3 1
+p140
+aVEd Davis TOR 04/01/2012 TOR vs. WAS W 21 8 4 6 66.7 0 0 - 0 0 - 2 5 7 1 0 1 1 0 5
+p141
+aVLinas Kleiza TOR 04/01/2012 TOR vs. WAS W 7 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p142
+aVAaron Gray TOR 04/01/2012 TOR vs. WAS W 16 2 1 2 50.0 0 0 - 0 0 - 1 7 8 2 1 0 1 1 6
+p143
+aVBen Uzoh TOR 03/30/2012 TOR vs. MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 1
+p144
+aVJames Johnson TOR 03/30/2012 TOR vs. MIA L 15 9 4 6 66.7 1 1 100.0 0 0 - 1 1 2 0 0 2 4 3 1
+p145
+aVAaron Gray TOR 03/30/2012 TOR vs. MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p146
+aVAmir Johnson TOR 03/30/2012 TOR vs. MIA L 30 12 6 8 75.0 0 0 - 0 0 - 6 6 12 2 1 0 2 3 12
+p147
+aVDeMar DeRozan TOR 03/30/2012 TOR vs. MIA L 40 28 9 17 52.9 0 2 0.0 10 10 100.0 0 1 1 2 1 0 2 2 -12
+p148
+aVLinas Kleiza TOR 03/30/2012 TOR vs. MIA L 16 4 1 5 20.0 0 3 0.0 2 2 100.0 0 3 3 1 0 0 0 1 -4
+p149
+aVGary Forbes TOR 03/30/2012 TOR vs. MIA L 19 8 3 5 60.0 1 2 50.0 1 1 100.0 0 1 1 0 0 0 0 1 -2
+p150
+aVEd Davis TOR 03/30/2012 TOR vs. MIA L 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 0
+p151
+aVAlan Anderson TOR 03/30/2012 TOR vs. MIA L 13 2 1 2 50.0 0 1 0.0 0 0 - 2 1 3 3 1 0 1 1 -9
+p152
+aVJose Calderon TOR 03/30/2012 TOR vs. MIA L 42 9 4 8 50.0 0 1 0.0 1 2 50.0 0 6 6 16 1 0 3 2 -13
+p153
+aVAndrea Bargnani TOR 03/30/2012 TOR vs. MIA L 39 27 10 17 58.8 3 4 75.0 4 4 100.0 0 1 1 1 0 1 2 1 -22
+p154
+aVLinas Kleiza TOR 03/28/2012 TOR vs. DEN W 29 15 4 12 33.3 3 7 42.9 4 4 100.0 1 2 3 2 0 1 0 1 3
+p155
+aVBen Uzoh TOR 03/28/2012 TOR vs. DEN W 13 5 2 4 50.0 0 1 0.0 1 2 50.0 0 1 1 1 1 0 0 3 0
+p156
+aVAlan Anderson TOR 03/28/2012 TOR vs. DEN W 13 7 2 5 40.0 1 2 50.0 2 2 100.0 1 0 1 1 0 0 1 1 7
+p157
+aVEd Davis TOR 03/28/2012 TOR vs. DEN W 20 4 2 8 25.0 0 0 - 0 0 - 4 4 8 2 1 0 1 3 7
+p158
+aVDeMar DeRozan TOR 03/28/2012 TOR vs. DEN W 37 17 6 20 30.0 0 0 - 5 11 45.5 2 3 5 5 1 0 2 2 5
+p159
+aVAaron Gray TOR 03/28/2012 TOR vs. DEN W 15 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 1 0 4 -3
+p160
+aVJose Calderon TOR 03/28/2012 TOR vs. DEN W 33 10 3 6 50.0 3 4 75.0 1 2 50.0 0 3 3 10 1 0 2 2 11
+p161
+aVAndrea Bargnani TOR 03/28/2012 TOR vs. DEN W 36 26 7 14 50.0 2 4 50.0 10 12 83.3 2 3 5 2 1 1 2 1 8
+p162
+aVGary Forbes TOR 03/28/2012 TOR vs. DEN W 19 11 4 8 50.0 3 4 75.0 0 0 - 3 7 10 2 0 0 1 1 1
+p163
+aVAmir Johnson TOR 03/28/2012 TOR vs. DEN W 25 4 2 5 40.0 0 0 - 0 0 - 3 5 8 0 0 2 1 4 6
+p164
+aVEd Davis TOR 03/26/2012 TOR vs. ORL L 24 9 3 6 50.0 0 0 - 3 3 100.0 2 2 4 1 0 1 1 1 -2
+p165
+aVJames Johnson TOR 03/26/2012 TOR vs. ORL L 21 13 4 6 66.7 1 2 50.0 4 4 100.0 0 1 1 2 0 0 2 1 -14
+p166
+aVJerryd Bayless TOR 03/26/2012 TOR vs. ORL L 12 6 2 6 33.3 2 4 50.0 0 0 - 1 1 2 4 0 0 0 0 5
+p167
+aVJamaal Magloire TOR 03/26/2012 TOR vs. ORL L 11 3 1 1 100.0 0 0 - 1 3 33.3 0 7 7 0 0 0 1 1 18
+p168
+aVAlan Anderson TOR 03/26/2012 TOR vs. ORL L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -5
+p169
+aVAndrea Bargnani TOR 03/26/2012 TOR vs. ORL L 24 8 3 11 27.3 0 1 0.0 2 2 100.0 1 2 3 0 0 0 1 3 -14
+p170
+aVAaron Gray TOR 03/26/2012 TOR vs. ORL L 17 6 1 4 25.0 0 0 - 4 4 100.0 2 3 5 0 0 0 0 2 -27
+p171
+aVSolomon Alabi TOR 03/26/2012 TOR vs. ORL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p172
+aVLinas Kleiza TOR 03/26/2012 TOR vs. ORL L 33 18 7 10 70.0 3 5 60.0 1 2 50.0 0 3 3 2 1 0 3 1 1
+p173
+aVGary Forbes TOR 03/26/2012 TOR vs. ORL L 33 21 7 14 50.0 4 7 57.1 3 4 75.0 0 2 2 0 0 0 2 3 -24
+p174
+aVAmir Johnson TOR 03/26/2012 TOR vs. ORL L 18 4 2 5 40.0 0 0 - 0 0 - 2 3 5 3 1 0 0 4 -8
+p175
+aVJose Calderon TOR 03/26/2012 TOR vs. ORL L 38 9 4 9 44.4 1 3 33.3 0 0 - 0 2 2 11 2 0 2 1 -11
+p176
+aVJames Johnson TOR 03/24/2012 TOR @ CHI L 47 20 7 14 50.0 1 1 100.0 5 6 83.3 3 5 8 2 1 4 6 1 -1
+p177
+aVGary Forbes TOR 03/24/2012 TOR @ CHI L 47 12 6 16 37.5 0 1 0.0 0 2 0.0 5 8 13 2 1 1 1 4 7
+p178
+aVEd Davis TOR 03/24/2012 TOR @ CHI L 18 9 4 6 66.7 0 0 - 1 1 100.0 2 2 4 0 0 1 0 2 -8
+p179
+aVAmir Johnson TOR 03/24/2012 TOR @ CHI L 29 10 4 6 66.7 0 0 - 2 2 100.0 4 4 8 0 0 2 0 3 -6
+p180
+aVAaron Gray TOR 03/24/2012 TOR @ CHI L 24 6 3 7 42.9 0 0 - 0 0 - 3 5 8 0 1 2 2 4 5
+p181
+aVLinas Kleiza TOR 03/24/2012 TOR @ CHI L 18 7 3 7 42.9 1 4 25.0 0 0 - 2 2 4 2 1 0 1 4 -12
+p182
+aVAndrea Bargnani TOR 03/24/2012 TOR @ CHI L 36 17 4 18 22.2 1 6 16.7 8 10 80.0 1 6 7 3 0 1 2 1 8
+p183
+aVJose Calderon TOR 03/24/2012 TOR @ CHI L 45 20 8 13 61.5 0 2 0.0 4 4 100.0 2 4 6 10 0 0 6 1 2
+p184
+aVAndrea Bargnani TOR 03/23/2012 TOR vs. NYK W 34 21 9 20 45.0 1 5 20.0 2 2 100.0 0 7 7 1 0 0 4 2 23
+p185
+aVSolomon Alabi TOR 03/23/2012 TOR vs. NYK W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p186
+aVJose Calderon TOR 03/23/2012 TOR vs. NYK W 44 2 0 10 0.0 0 4 0.0 2 2 100.0 0 3 3 10 2 0 2 2 16
+p187
+aVAaron Gray TOR 03/23/2012 TOR vs. NYK W 15 2 1 2 50.0 0 0 - 0 0 - 3 4 7 1 1 0 2 4 8
+p188
+aVGary Forbes TOR 03/23/2012 TOR vs. NYK W 20 19 8 12 66.7 0 2 0.0 3 4 75.0 4 2 6 2 1 0 0 2 -3
+p189
+aVEd Davis TOR 03/23/2012 TOR vs. NYK W 19 3 1 2 50.0 0 0 - 1 2 50.0 1 6 7 2 0 2 3 3 -5
+p190
+aVAmir Johnson TOR 03/23/2012 TOR vs. NYK W 26 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 4 3 3 10
+p191
+aVDeMar DeRozan TOR 03/23/2012 TOR vs. NYK W 37 30 11 17 64.7 0 0 - 8 9 88.9 1 2 3 1 0 0 2 2 25
+p192
+aVJames Johnson TOR 03/23/2012 TOR vs. NYK W 28 8 3 8 37.5 0 1 0.0 2 4 50.0 1 5 6 5 2 0 1 2 12
+p193
+aVLinas Kleiza TOR 03/23/2012 TOR vs. NYK W 15 5 2 5 40.0 0 1 0.0 1 3 33.3 0 0 0 0 1 0 0 1 -2
+p194
+aVJose Calderon TOR 03/21/2012 TOR vs. CHI L 40 9 3 10 30.0 1 2 50.0 2 2 100.0 0 0 0 8 1 0 3 2 -13
+p195
+aVEd Davis TOR 03/21/2012 TOR vs. CHI L 15 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 0 1 2 0 1 -10
+p196
+aVLinas Kleiza TOR 03/21/2012 TOR vs. CHI L 20 5 2 9 22.2 0 1 0.0 1 1 100.0 2 6 8 0 0 0 2 3 -18
+p197
+aVAmir Johnson TOR 03/21/2012 TOR vs. CHI L 25 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 2 1 0 2 -4
+p198
+aVAaron Gray TOR 03/21/2012 TOR vs. CHI L 17 6 3 3 100.0 0 0 - 0 0 - 1 7 8 1 0 0 1 2 -3
+p199
+aVJerryd Bayless TOR 03/21/2012 TOR vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p200
+aVAndrea Bargnani TOR 03/21/2012 TOR vs. CHI L 33 8 2 10 20.0 0 3 0.0 4 4 100.0 0 5 5 6 1 0 1 2 -2
+p201
+aVGary Forbes TOR 03/21/2012 TOR vs. CHI L 19 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 5 3 0 0 0 3
+p202
+aVDeMar DeRozan TOR 03/21/2012 TOR vs. CHI L 37 23 11 25 44.0 0 2 0.0 1 1 100.0 1 5 6 0 0 0 1 2 -7
+p203
+aVJames Johnson TOR 03/21/2012 TOR vs. CHI L 32 16 8 14 57.1 0 0 - 0 0 - 3 4 7 2 1 0 1 4 -3
+p204
+aVJames Johnson TOR 03/20/2012 TOR @ NYK L 28 8 3 8 37.5 0 1 0.0 2 2 100.0 1 0 1 1 1 1 0 4 -15
+p205
+aVJose Calderon TOR 03/20/2012 TOR @ NYK L 35 11 5 9 55.6 1 2 50.0 0 0 - 0 1 1 8 0 1 3 1 -27
+p206
+aVJerryd Bayless TOR 03/20/2012 TOR @ NYK L 13 7 2 4 50.0 0 1 0.0 3 4 75.0 0 3 3 4 2 0 2 3 0
+p207
+aVAaron Gray TOR 03/20/2012 TOR @ NYK L 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -6
+p208
+aVAndrea Bargnani TOR 03/20/2012 TOR @ NYK L 33 15 5 15 33.3 0 4 0.0 5 5 100.0 0 2 2 1 0 0 2 2 -22
+p209
+aVDeMar DeRozan TOR 03/20/2012 TOR @ NYK L 37 17 7 13 53.8 0 0 - 3 3 100.0 0 5 5 0 0 0 1 2 -19
+p210
+aVLinas Kleiza TOR 03/20/2012 TOR @ NYK L 20 6 2 6 33.3 1 3 33.3 1 2 50.0 0 3 3 0 0 0 2 4 -3
+p211
+aVGary Forbes TOR 03/20/2012 TOR @ NYK L 15 6 2 5 40.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 2 1 5
+p212
+aVAmir Johnson TOR 03/20/2012 TOR @ NYK L 23 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 1 0 3 0 -2
+p213
+aVSolomon Alabi TOR 03/20/2012 TOR @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p214
+aVEd Davis TOR 03/20/2012 TOR @ NYK L 26 9 3 4 75.0 0 0 - 3 4 75.0 2 7 9 0 0 0 2 5 -8
+p215
+aVGary Forbes TOR 03/17/2012 TOR @ CHA L 27 9 4 10 40.0 1 5 20.0 0 0 - 1 2 3 1 1 0 2 4 4
+p216
+aVAndrea Bargnani TOR 03/17/2012 TOR @ CHA L 28 11 4 10 40.0 1 2 50.0 2 2 100.0 0 3 3 1 2 0 7 3 -17
+p217
+aVEd Davis TOR 03/17/2012 TOR @ CHA L 32 7 3 6 50.0 0 0 - 1 1 100.0 5 7 12 4 0 1 1 4 12
+p218
+aVDeMar DeRozan TOR 03/17/2012 TOR @ CHA L 36 20 6 12 50.0 0 2 0.0 8 12 66.7 0 2 2 2 1 0 5 4 5
+p219
+aVAaron Gray TOR 03/17/2012 TOR @ CHA L 14 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 2 0 1 5 -5
+p220
+aVLinas Kleiza TOR 03/17/2012 TOR @ CHA L 27 13 6 9 66.7 1 3 33.3 0 0 - 0 1 1 1 1 0 1 3 -3
+p221
+aVAmir Johnson TOR 03/17/2012 TOR @ CHA L 18 6 1 1 100.0 0 0 - 4 4 100.0 2 1 3 4 1 3 2 3 14
+p222
+aVJerryd Bayless TOR 03/17/2012 TOR @ CHA L 39 29 10 16 62.5 5 6 83.3 4 5 80.0 0 2 2 6 4 0 4 6 -11
+p223
+aVJamaal Magloire TOR 03/17/2012 TOR @ CHA L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p224
+aVJames Johnson TOR 03/17/2012 TOR @ CHA L 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 2 1 3 -11
+p225
+aVAndrea Bargnani TOR 03/16/2012 TOR @ MEM W 39 18 4 17 23.5 2 5 40.0 8 9 88.9 2 5 7 1 0 0 5 3 6
+p226
+aVDeMar DeRozan TOR 03/16/2012 TOR @ MEM W 46 18 7 16 43.8 0 1 0.0 4 4 100.0 0 1 1 4 1 0 2 3 6
+p227
+aVEd Davis TOR 03/16/2012 TOR @ MEM W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 4 -5
+p228
+aVGary Forbes TOR 03/16/2012 TOR @ MEM W 22 20 6 9 66.7 1 1 100.0 7 11 63.6 1 3 4 2 0 0 1 1 8
+p229
+aVJerryd Bayless TOR 03/16/2012 TOR @ MEM W 44 28 9 17 52.9 3 5 60.0 7 9 77.8 1 5 6 9 3 1 3 6 -3
+p230
+aVJames Johnson TOR 03/16/2012 TOR @ MEM W 28 14 6 8 75.0 1 1 100.0 1 1 100.0 1 6 7 1 4 2 5 6 -3
+p231
+aVLinas Kleiza TOR 03/16/2012 TOR @ MEM W 19 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 1 4
+p232
+aVAaron Gray TOR 03/16/2012 TOR @ MEM W 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 2 9
+p233
+aVAmir Johnson TOR 03/16/2012 TOR @ MEM W 26 9 4 4 100.0 0 0 - 1 2 50.0 2 3 5 0 1 1 1 5 1
+p234
+aVJamaal Magloire TOR 03/16/2012 TOR @ MEM W 15 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 1 3 4 -3
+p235
+aVAndrea Bargnani TOR 03/14/2012 TOR @ NJN L 33 10 4 13 30.8 0 2 0.0 2 2 100.0 1 1 2 3 1 1 2 2 -11
+p236
+aVJerryd Bayless TOR 03/14/2012 TOR @ NJN L 39 16 6 11 54.5 0 1 0.0 4 4 100.0 0 4 4 10 1 0 2 1 -6
+p237
+aVJames Johnson TOR 03/14/2012 TOR @ NJN L 28 16 6 10 60.0 0 0 - 4 4 100.0 1 3 4 2 0 4 2 3 -1
+p238
+aVLeandro Barbosa TOR 03/14/2012 TOR @ NJN L 27 11 5 11 45.5 1 3 33.3 0 1 0.0 2 2 4 2 1 0 1 2 -11
+p239
+aVGary Forbes TOR 03/14/2012 TOR @ NJN L 9 3 0 3 0.0 0 2 0.0 3 4 75.0 0 0 0 1 0 0 2 0 -8
+p240
+aVLinas Kleiza TOR 03/14/2012 TOR @ NJN L 12 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 0 1 0 0 2 -9
+p241
+aVAmir Johnson TOR 03/14/2012 TOR @ NJN L 25 6 2 7 28.6 0 0 - 2 2 100.0 4 5 9 0 1 0 2 1 -1
+p242
+aVEd Davis TOR 03/14/2012 TOR @ NJN L 22 8 2 3 66.7 0 0 - 4 4 100.0 1 2 3 2 0 0 0 1 -10
+p243
+aVAaron Gray TOR 03/14/2012 TOR @ NJN L 9 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -4
+p244
+aVDeMar DeRozan TOR 03/14/2012 TOR @ NJN L 35 12 5 15 33.3 0 1 0.0 2 4 50.0 1 4 5 1 2 0 1 2 -9
+p245
+aVJames Johnson TOR 03/13/2012 TOR @ CLE W 19 6 3 5 60.0 0 0 - 0 0 - 3 1 4 2 0 2 0 2 11
+p246
+aVEd Davis TOR 03/13/2012 TOR @ CLE W 25 8 3 6 50.0 0 0 - 2 6 33.3 2 2 4 1 0 2 1 4 -1
+p247
+aVGary Forbes TOR 03/13/2012 TOR @ CLE W 11 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 2 0 0 1 2
+p248
+aVDeMar DeRozan TOR 03/13/2012 TOR @ CLE W 33 4 1 6 16.7 0 0 - 2 2 100.0 1 1 2 4 0 1 0 2 0
+p249
+aVAmir Johnson TOR 03/13/2012 TOR @ CLE W 23 10 4 4 100.0 0 0 - 2 4 50.0 2 7 9 3 0 1 4 4 9
+p250
+aVAaron Gray TOR 03/13/2012 TOR @ CLE W 19 1 0 0 - 0 0 - 1 2 50.0 3 4 7 3 0 1 0 3 3
+p251
+aVLinas Kleiza TOR 03/13/2012 TOR @ CLE W 19 7 3 8 37.5 1 3 33.3 0 0 - 1 2 3 2 0 0 3 3 4
+p252
+aVAndrea Bargnani TOR 03/13/2012 TOR @ CLE W 29 19 8 15 53.3 0 1 0.0 3 3 100.0 1 7 8 1 0 1 3 2 5
+p253
+aVJerryd Bayless TOR 03/13/2012 TOR @ CLE W 37 20 6 13 46.2 4 7 57.1 4 4 100.0 0 4 4 7 0 0 3 3 6
+p254
+aVLeandro Barbosa TOR 03/13/2012 TOR @ CLE W 25 17 7 14 50.0 3 8 37.5 0 0 - 1 0 1 1 1 1 0 5 1
+p255
+aVJames Johnson TOR 03/11/2012 TOR vs. MIL L 26 6 2 7 28.6 0 1 0.0 2 2 100.0 2 4 6 4 3 1 5 5 -6
+p256
+aVLinas Kleiza TOR 03/11/2012 TOR vs. MIL L 20 10 4 9 44.4 2 4 50.0 0 0 - 1 2 3 1 0 0 0 1 -2
+p257
+aVLeandro Barbosa TOR 03/11/2012 TOR vs. MIL L 24 12 5 10 50.0 2 2 100.0 0 0 - 1 1 2 2 1 0 0 5 -6
+p258
+aVJerryd Bayless TOR 03/11/2012 TOR vs. MIL L 29 16 7 13 53.8 0 2 0.0 2 3 66.7 0 2 2 6 1 0 1 5 -2
+p259
+aVAmir Johnson TOR 03/11/2012 TOR vs. MIL L 26 12 6 7 85.7 0 0 - 0 0 - 4 2 6 2 0 0 1 5 0
+p260
+aVEd Davis TOR 03/11/2012 TOR vs. MIL L 21 4 1 1 100.0 0 0 - 2 2 100.0 2 8 10 1 1 0 0 3 -9
+p261
+aVDeMar DeRozan TOR 03/11/2012 TOR vs. MIL L 41 21 9 22 40.9 0 1 0.0 3 4 75.0 1 4 5 3 0 0 1 4 -6
+p262
+aVGary Forbes TOR 03/11/2012 TOR vs. MIL L 19 7 2 7 28.6 0 0 - 3 4 75.0 0 1 1 2 0 0 1 0 -4
+p263
+aVAaron Gray TOR 03/11/2012 TOR vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p264
+aVAndrea Bargnani TOR 03/11/2012 TOR vs. MIL L 30 11 4 10 40.0 0 3 0.0 3 4 75.0 2 6 8 2 1 0 3 1 5
+p265
+aVJames Johnson TOR 03/10/2012 TOR @ DET L 20 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 0 2 0 -20
+p266
+aVLeandro Barbosa TOR 03/10/2012 TOR @ DET L 21 9 4 11 36.4 1 4 25.0 0 0 - 0 2 2 2 1 0 2 0 -5
+p267
+aVAaron Gray TOR 03/10/2012 TOR @ DET L 18 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 0 0 0 1 1 -17
+p268
+aVLinas Kleiza TOR 03/10/2012 TOR @ DET L 23 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 0 4 -6
+p269
+aVJose Calderon TOR 03/10/2012 TOR @ DET L 13 2 1 7 14.3 0 3 0.0 0 0 - 0 0 0 0 1 0 1 1 -14
+p270
+aVGary Forbes TOR 03/10/2012 TOR @ DET L 16 12 4 6 66.7 2 3 66.7 2 3 66.7 0 2 2 2 1 0 1 2 9
+p271
+aVDeMar DeRozan TOR 03/10/2012 TOR @ DET L 37 15 3 10 30.0 0 1 0.0 9 10 90.0 0 5 5 1 0 0 3 2 -8
+p272
+aVAndrea Bargnani TOR 03/10/2012 TOR @ DET L 19 8 2 8 25.0 0 1 0.0 4 4 100.0 1 2 3 3 1 0 1 0 -10
+p273
+aVAmir Johnson TOR 03/10/2012 TOR @ DET L 17 6 1 2 50.0 0 0 - 4 4 100.0 0 5 5 0 0 0 1 1 -10
+p274
+aVEd Davis TOR 03/10/2012 TOR @ DET L 24 8 4 6 66.7 0 0 - 0 0 - 3 2 5 1 0 2 1 2 2
+p275
+aVJerryd Bayless TOR 03/10/2012 TOR @ DET L 24 12 4 9 44.4 2 7 28.6 2 2 100.0 0 2 2 4 1 0 1 4 -10
+p276
+aVJamaal Magloire TOR 03/10/2012 TOR @ DET L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -6
+p277
+aVDeMar DeRozan TOR 03/07/2012 TOR vs. HOU W 39 23 8 16 50.0 0 1 0.0 7 8 87.5 1 2 3 4 1 0 0 3 26
+p278
+aVEd Davis TOR 03/07/2012 TOR vs. HOU W 24 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 2 1 0 1 4 -9
+p279
+aVJerryd Bayless TOR 03/07/2012 TOR vs. HOU W 13 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 2 0 0 3 3 -6
+p280
+aVLeandro Barbosa TOR 03/07/2012 TOR vs. HOU W 26 15 6 13 46.2 1 3 33.3 2 2 100.0 0 4 4 3 1 0 2 5 8
+p281
+aVJames Johnson TOR 03/07/2012 TOR vs. HOU W 17 10 3 3 100.0 0 0 - 4 6 66.7 1 1 2 2 1 1 1 2 9
+p282
+aVJamaal Magloire TOR 03/07/2012 TOR vs. HOU W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 2 -2
+p283
+aVAaron Gray TOR 03/07/2012 TOR vs. HOU W 23 7 3 3 100.0 0 0 - 1 2 50.0 1 6 7 2 0 0 1 4 13
+p284
+aVRasual Butler TOR 03/07/2012 TOR vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p285
+aVAmir Johnson TOR 03/07/2012 TOR vs. HOU W 29 14 7 10 70.0 0 0 - 0 0 - 1 7 8 2 0 3 1 4 22
+p286
+aVJose Calderon TOR 03/07/2012 TOR vs. HOU W 35 17 7 11 63.6 1 3 33.3 2 2 100.0 0 3 3 12 2 0 3 1 24
+p287
+aVLinas Kleiza TOR 03/07/2012 TOR vs. HOU W 24 19 8 13 61.5 3 4 75.0 0 0 - 1 3 4 0 1 1 2 4 8
+p288
+aVLinas Kleiza TOR 03/05/2012 TOR vs. ORL L 12 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 0 1 0 1 4 0
+p289
+aVJamaal Magloire TOR 03/05/2012 TOR vs. ORL L 16 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 0 4 -3
+p290
+aVAaron Gray TOR 03/05/2012 TOR vs. ORL L 23 11 4 7 57.1 0 0 - 3 4 75.0 2 9 11 0 1 0 2 4 0
+p291
+aVJerryd Bayless TOR 03/05/2012 TOR vs. ORL L 23 15 4 7 57.1 2 4 50.0 5 6 83.3 1 5 6 5 0 0 1 2 -13
+p292
+aVEd Davis TOR 03/05/2012 TOR vs. ORL L 34 6 3 7 42.9 0 0 - 0 2 0.0 3 4 7 1 0 2 1 3 -8
+p293
+aVLeandro Barbosa TOR 03/05/2012 TOR vs. ORL L 18 8 2 6 33.3 2 2 100.0 2 2 100.0 0 1 1 1 0 0 3 3 3
+p294
+aVDeMar DeRozan TOR 03/05/2012 TOR vs. ORL L 38 23 9 22 40.9 1 4 25.0 4 4 100.0 0 2 2 1 2 0 1 3 -3
+p295
+aVJames Johnson TOR 03/05/2012 TOR vs. ORL L 40 13 5 13 38.5 1 4 25.0 2 2 100.0 2 5 7 7 2 1 3 2 3
+p296
+aVJose Calderon TOR 03/05/2012 TOR vs. ORL L 35 8 3 9 33.3 2 3 66.7 0 0 - 0 2 2 7 2 0 1 3 1
+p297
+aVLinas Kleiza TOR 03/04/2012 TOR vs. GSW W 14 4 2 9 22.2 0 1 0.0 0 0 - 3 0 3 0 0 0 2 4 -9
+p298
+aVDeMar DeRozan TOR 03/04/2012 TOR vs. GSW W 46 25 9 17 52.9 1 1 100.0 6 6 100.0 1 2 3 4 0 0 1 1 11
+p299
+aVJames Johnson TOR 03/04/2012 TOR vs. GSW W 32 12 4 10 40.0 0 0 - 4 4 100.0 4 8 12 4 2 1 3 3 9
+p300
+aVLeandro Barbosa TOR 03/04/2012 TOR vs. GSW W 32 18 7 16 43.8 3 5 60.0 1 2 50.0 0 0 0 1 1 0 1 1 7
+p301
+aVAaron Gray TOR 03/04/2012 TOR vs. GSW W 13 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 1 0 1 2 -5
+p302
+aVJose Calderon TOR 03/04/2012 TOR vs. GSW W 26 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 3 0 0 2 2 8
+p303
+aVAmir Johnson TOR 03/04/2012 TOR vs. GSW W 30 11 4 8 50.0 0 0 - 3 4 75.0 0 13 13 1 0 3 2 1 3
+p304
+aVEd Davis TOR 03/04/2012 TOR vs. GSW W 22 2 1 4 25.0 0 0 - 0 0 - 5 7 12 2 2 1 0 2 12
+p305
+aVJerryd Bayless TOR 03/04/2012 TOR vs. GSW W 25 5 0 6 0.0 0 1 0.0 5 6 83.3 1 3 4 4 2 0 2 2 4
+p306
+aVAmir Johnson TOR 03/02/2012 TOR vs. MEM L 25 10 5 7 71.4 0 1 0.0 0 0 - 0 5 5 3 0 0 2 5 -2
+p307
+aVRasual Butler TOR 03/02/2012 TOR vs. MEM L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p308
+aVJerryd Bayless TOR 03/02/2012 TOR vs. MEM L 18 18 5 9 55.6 1 3 33.3 7 7 100.0 0 0 0 4 0 0 0 1 10
+p309
+aVJamaal Magloire TOR 03/02/2012 TOR vs. MEM L 10 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 1 1 1 2 8
+p310
+aVLeandro Barbosa TOR 03/02/2012 TOR vs. MEM L 20 13 6 9 66.7 1 3 33.3 0 0 - 0 2 2 2 0 0 2 3 9
+p311
+aVEd Davis TOR 03/02/2012 TOR vs. MEM L 15 7 3 4 75.0 0 0 - 1 1 100.0 1 2 3 2 0 1 1 0 7
+p312
+aVAaron Gray TOR 03/02/2012 TOR vs. MEM L 31 7 3 4 75.0 0 0 - 1 2 50.0 2 5 7 3 1 1 3 5 -10
+p313
+aVDeMar DeRozan TOR 03/02/2012 TOR vs. MEM L 35 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 0 0 2 0 3 -10
+p314
+aVJose Calderon TOR 03/02/2012 TOR vs. MEM L 34 10 3 9 33.3 2 5 40.0 2 3 66.7 0 2 2 9 1 0 4 0 -16
+p315
+aVJames Johnson TOR 03/02/2012 TOR vs. MEM L 26 14 5 12 41.7 0 0 - 4 5 80.0 1 4 5 1 1 1 0 3 -13
+p316
+aVLinas Kleiza TOR 03/02/2012 TOR vs. MEM L 27 12 4 8 50.0 2 3 66.7 2 2 100.0 0 7 7 1 0 0 3 4 2
+p317
+aVLinas Kleiza TOR 02/29/2012 TOR @ NOH W 32 21 7 13 53.8 5 7 71.4 2 3 66.7 0 4 4 0 1 0 0 1 12
+p318
+aVDeMar DeRozan TOR 02/29/2012 TOR @ NOH W 40 21 8 18 44.4 0 0 - 5 8 62.5 1 5 6 4 0 0 1 3 5
+p319
+aVLeandro Barbosa TOR 02/29/2012 TOR @ NOH W 23 15 5 8 62.5 1 1 100.0 4 4 100.0 0 2 2 3 0 0 1 3 22
+p320
+aVJose Calderon TOR 02/29/2012 TOR @ NOH W 32 12 5 12 41.7 2 5 40.0 0 0 - 0 3 3 6 0 0 2 2 -10
+p321
+aVAnthony Carter TOR 02/29/2012 TOR @ NOH W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p322
+aVEd Davis TOR 02/29/2012 TOR @ NOH W 21 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 3 1 2 13
+p323
+aVAaron Gray TOR 02/29/2012 TOR @ NOH W 18 8 4 9 44.4 0 0 - 0 0 - 1 2 3 0 0 1 2 2 -9
+p324
+aVJerryd Bayless TOR 02/29/2012 TOR @ NOH W 16 5 1 4 25.0 1 1 100.0 2 2 100.0 0 2 2 5 1 0 0 1 21
+p325
+aVAmir Johnson TOR 02/29/2012 TOR @ NOH W 35 7 2 6 33.3 0 0 - 3 4 75.0 4 3 7 4 2 5 2 4 4
+p326
+aVJames Johnson TOR 02/29/2012 TOR @ NOH W 21 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 0 0 0 1 4 -1
+p327
+aVEd Davis TOR 02/28/2012 TOR @ HOU L 22 5 2 2 100.0 0 0 - 1 2 50.0 3 12 15 0 0 1 0 2 -2
+p328
+aVDeMar DeRozan TOR 02/28/2012 TOR @ HOU L 28 17 6 14 42.9 0 2 0.0 5 6 83.3 1 1 2 1 1 2 2 1 -4
+p329
+aVLeandro Barbosa TOR 02/28/2012 TOR @ HOU L 26 11 5 9 55.6 1 3 33.3 0 0 - 0 3 3 1 1 0 1 4 9
+p330
+aVJose Calderon TOR 02/28/2012 TOR @ HOU L 24 7 3 9 33.3 1 2 50.0 0 0 - 0 1 1 7 0 0 0 2 -6
+p331
+aVAmir Johnson TOR 02/28/2012 TOR @ HOU L 29 10 5 7 71.4 0 0 - 0 0 - 1 5 6 0 0 1 2 2 -4
+p332
+aVAnthony Carter TOR 02/28/2012 TOR @ HOU L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 2 0 1 1 5
+p333
+aVAaron Gray TOR 02/28/2012 TOR @ HOU L 18 4 1 2 50.0 0 0 - 2 2 100.0 0 6 6 1 0 0 0 4 -6
+p334
+aVJamaal Magloire TOR 02/28/2012 TOR @ HOU L 15 2 1 1 100.0 0 0 - 0 2 0.0 2 2 4 1 0 0 1 2 4
+p335
+aVJames Johnson TOR 02/28/2012 TOR @ HOU L 34 16 6 12 50.0 0 2 0.0 4 4 100.0 2 6 8 3 3 1 2 2 -12
+p336
+aVJerryd Bayless TOR 02/28/2012 TOR @ HOU L 12 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 2 0 0 5 3 -2
+p337
+aVLinas Kleiza TOR 02/28/2012 TOR @ HOU L 20 7 3 10 30.0 0 5 0.0 1 2 50.0 0 0 0 0 0 0 1 0 3
+p338
+aVLeandro Barbosa TOR 02/22/2012 TOR vs. DET W 21 17 7 14 50.0 1 2 50.0 2 2 100.0 1 1 2 4 2 0 2 0 2
+p339
+aVJerryd Bayless TOR 02/22/2012 TOR vs. DET W 20 7 2 6 33.3 1 2 50.0 2 2 100.0 0 2 2 4 0 1 2 3 2
+p340
+aVEd Davis TOR 02/22/2012 TOR vs. DET W 22 10 4 7 57.1 0 0 - 2 2 100.0 2 4 6 0 1 1 0 1 6
+p341
+aVAmir Johnson TOR 02/22/2012 TOR vs. DET W 25 11 5 7 71.4 0 0 - 1 1 100.0 0 4 4 1 0 2 1 3 10
+p342
+aVAaron Gray TOR 02/22/2012 TOR vs. DET W 30 12 5 9 55.6 0 0 - 2 6 33.3 4 8 12 2 0 2 1 3 5
+p343
+aVJamaal Magloire TOR 02/22/2012 TOR vs. DET W 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 1
+p344
+aVJames Johnson TOR 02/22/2012 TOR vs. DET W 40 15 6 12 50.0 0 0 - 3 6 50.0 1 2 3 1 1 3 2 4 14
+p345
+aVDeMar DeRozan TOR 02/22/2012 TOR vs. DET W 39 23 9 15 60.0 0 1 0.0 5 6 83.3 1 6 7 2 0 0 3 4 2
+p346
+aVJose Calderon TOR 02/22/2012 TOR vs. DET W 33 6 1 4 25.0 1 2 50.0 3 3 100.0 0 8 8 15 1 0 1 1 8
+p347
+aVGary Forbes TOR 02/17/2012 TOR vs. CHA L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p348
+aVJerryd Bayless TOR 02/17/2012 TOR vs. CHA L 5 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -5
+p349
+aVLeandro Barbosa TOR 02/17/2012 TOR vs. CHA L 24 16 6 14 42.9 0 4 0.0 4 5 80.0 0 1 1 1 1 1 3 3 -8
+p350
+aVAnthony Carter TOR 02/17/2012 TOR vs. CHA L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -2
+p351
+aVAaron Gray TOR 02/17/2012 TOR vs. CHA L 13 6 2 3 66.7 0 0 - 2 2 100.0 2 5 7 0 0 0 2 1 -1
+p352
+aVEd Davis TOR 02/17/2012 TOR vs. CHA L 31 9 4 8 50.0 0 0 - 1 4 25.0 4 6 10 1 2 0 0 2 3
+p353
+aVJose Calderon TOR 02/17/2012 TOR vs. CHA L 42 14 5 12 41.7 2 5 40.0 2 2 100.0 0 3 3 8 2 0 1 2 -2
+p354
+aVRasual Butler TOR 02/17/2012 TOR vs. CHA L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p355
+aVAmir Johnson TOR 02/17/2012 TOR vs. CHA L 38 6 3 9 33.3 0 0 - 0 0 - 7 8 15 3 0 2 1 3 -4
+p356
+aVJames Johnson TOR 02/17/2012 TOR vs. CHA L 37 14 7 14 50.0 0 1 0.0 0 1 0.0 2 6 8 1 2 1 1 2 -7
+p357
+aVDeMar DeRozan TOR 02/17/2012 TOR vs. CHA L 32 24 8 15 53.3 0 1 0.0 8 12 66.7 0 0 0 0 2 0 3 5 5
+p358
+aVRasual Butler TOR 02/15/2012 TOR vs. SAS L 27 10 5 10 50.0 0 3 0.0 0 0 - 0 3 3 3 0 0 2 3 -4
+p359
+aVJose Calderon TOR 02/15/2012 TOR vs. SAS L 34 16 8 14 57.1 0 0 - 0 1 0.0 0 3 3 11 2 0 1 3 -10
+p360
+aVAmir Johnson TOR 02/15/2012 TOR vs. SAS L 23 10 5 5 100.0 0 0 - 0 0 - 1 6 7 3 1 0 2 4 -9
+p361
+aVGary Forbes TOR 02/15/2012 TOR vs. SAS L 14 6 2 8 25.0 0 2 0.0 2 2 100.0 0 1 1 1 0 1 2 1 -7
+p362
+aVLeandro Barbosa TOR 02/15/2012 TOR vs. SAS L 16 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 2 0 0 2 1 1
+p363
+aVAnthony Carter TOR 02/15/2012 TOR vs. SAS L 22 10 3 5 60.0 1 2 50.0 3 4 75.0 1 4 5 6 1 0 0 5 1
+p364
+aVJames Johnson TOR 02/15/2012 TOR vs. SAS L 23 6 3 8 37.5 0 0 - 0 0 - 0 3 3 1 1 0 3 3 -6
+p365
+aVJamaal Magloire TOR 02/15/2012 TOR vs. SAS L 11 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 10
+p366
+aVEd Davis TOR 02/15/2012 TOR vs. SAS L 23 11 5 6 83.3 0 0 - 1 1 100.0 2 3 5 0 1 1 0 1 -3
+p367
+aVAaron Gray TOR 02/15/2012 TOR vs. SAS L 9 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 0 0 1 1 -6
+p368
+aVDeMar DeRozan TOR 02/15/2012 TOR vs. SAS L 37 29 13 21 61.9 1 1 100.0 2 2 100.0 1 2 3 2 1 0 2 3 -2
+p369
+aVJames Johnson TOR 02/14/2012 TOR vs. NYK L 17 6 3 4 75.0 0 0 - 0 0 - 0 0 0 4 2 0 1 5 8
+p370
+aVJose Calderon TOR 02/14/2012 TOR vs. NYK L 39 25 11 17 64.7 3 5 60.0 0 0 - 1 6 7 9 3 1 4 2 -8
+p371
+aVLinas Kleiza TOR 02/14/2012 TOR vs. NYK L 38 15 6 13 46.2 1 6 16.7 2 6 33.3 4 7 11 3 2 0 2 2 -12
+p372
+aVAaron Gray TOR 02/14/2012 TOR vs. NYK L 13 0 0 0 - 0 0 - 0 0 - 1 4 5 0 1 2 1 2 3
+p373
+aVLeandro Barbosa TOR 02/14/2012 TOR vs. NYK L 31 13 5 13 38.5 0 2 0.0 3 3 100.0 2 3 5 1 1 0 3 4 -7
+p374
+aVAnthony Carter TOR 02/14/2012 TOR vs. NYK L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 2 0 0 2 5
+p375
+aVEd Davis TOR 02/14/2012 TOR vs. NYK L 20 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 2 0 3 4
+p376
+aVDeMar DeRozan TOR 02/14/2012 TOR vs. NYK L 42 14 5 12 41.7 0 1 0.0 4 4 100.0 1 3 4 2 0 1 6 4 -4
+p377
+aVRasual Butler TOR 02/14/2012 TOR vs. NYK L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p378
+aVAmir Johnson TOR 02/14/2012 TOR vs. NYK L 32 10 5 7 71.4 0 0 - 0 2 0.0 0 4 4 2 0 5 1 4 -4
+p379
+aVAaron Gray TOR 02/12/2012 TOR vs. LAL L 26 4 2 5 40.0 0 0 - 0 0 - 2 5 7 0 3 1 2 4 -11
+p380
+aVJames Johnson TOR 02/12/2012 TOR vs. LAL L 25 7 3 8 37.5 0 0 - 1 2 50.0 2 4 6 2 1 1 0 3 -14
+p381
+aVEd Davis TOR 02/12/2012 TOR vs. LAL L 29 9 4 6 66.7 0 0 - 1 2 50.0 2 6 8 1 1 0 0 0 3
+p382
+aVLeandro Barbosa TOR 02/12/2012 TOR vs. LAL L 16 12 4 11 36.4 0 0 - 4 4 100.0 0 0 0 0 2 0 1 1 3
+p383
+aVAnthony Carter TOR 02/12/2012 TOR vs. LAL L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 1
+p384
+aVRasual Butler TOR 02/12/2012 TOR vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p385
+aVJose Calderon TOR 02/12/2012 TOR vs. LAL L 37 30 13 18 72.2 4 4 100.0 0 0 - 0 2 2 6 0 0 2 0 -3
+p386
+aVDeMar DeRozan TOR 02/12/2012 TOR vs. LAL L 37 8 2 13 15.4 0 1 0.0 4 5 80.0 0 2 2 7 2 0 4 3 -4
+p387
+aVLinas Kleiza TOR 02/12/2012 TOR vs. LAL L 27 15 6 11 54.5 1 5 20.0 2 2 100.0 0 4 4 3 1 0 2 2 15
+p388
+aVJamaal Magloire TOR 02/12/2012 TOR vs. LAL L 15 4 2 4 50.0 0 0 - 0 2 0.0 1 6 7 0 0 1 1 3 12
+p389
+aVAmir Johnson TOR 02/12/2012 TOR vs. LAL L 16 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -11
+p390
+aVJose Calderon TOR 02/10/2012 TOR vs. BOS W 38 17 7 12 58.3 1 3 33.3 2 3 66.7 2 2 4 14 1 0 0 0 24
+p391
+aVAmir Johnson TOR 02/10/2012 TOR vs. BOS W 37 12 4 4 100.0 0 0 - 4 6 66.7 4 8 12 1 1 2 1 3 14
+p392
+aVAnthony Carter TOR 02/10/2012 TOR vs. BOS W 11 0 0 5 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 0 -15
+p393
+aVJames Johnson TOR 02/10/2012 TOR vs. BOS W 29 14 7 18 38.9 0 3 0.0 0 0 - 2 5 7 3 3 2 0 2 13
+p394
+aVEd Davis TOR 02/10/2012 TOR vs. BOS W 19 4 2 4 50.0 0 0 - 0 0 - 0 6 6 0 0 0 1 1 -7
+p395
+aVLinas Kleiza TOR 02/10/2012 TOR vs. BOS W 17 9 3 8 37.5 3 6 50.0 0 0 - 0 0 0 2 0 0 1 3 1
+p396
+aVRasual Butler TOR 02/10/2012 TOR vs. BOS W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -7
+p397
+aVAaron Gray TOR 02/10/2012 TOR vs. BOS W 18 2 1 3 33.3 0 0 - 0 1 0.0 4 7 11 0 0 0 1 1 21
+p398
+aVLeandro Barbosa TOR 02/10/2012 TOR vs. BOS W 27 7 2 6 33.3 1 3 33.3 2 3 66.7 0 1 1 1 2 0 2 3 -9
+p399
+aVDeMar DeRozan TOR 02/10/2012 TOR vs. BOS W 38 21 7 13 53.8 0 2 0.0 7 7 100.0 0 0 0 4 1 0 2 4 25
+p400
+aVAmir Johnson TOR 02/08/2012 TOR vs. MIL L 25 7 3 5 60.0 0 0 - 1 1 100.0 1 5 6 1 0 1 2 4 2
+p401
+aVLeandro Barbosa TOR 02/08/2012 TOR vs. MIL L 14 11 4 8 50.0 1 1 100.0 2 2 100.0 0 0 0 2 0 0 2 0 -4
+p402
+aVRasual Butler TOR 02/08/2012 TOR vs. MIL L 14 8 3 9 33.3 2 4 50.0 0 0 - 1 3 4 0 0 0 0 2 -6
+p403
+aVAnthony Carter TOR 02/08/2012 TOR vs. MIL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 1
+p404
+aVEd Davis TOR 02/08/2012 TOR vs. MIL L 24 6 1 6 16.7 0 1 0.0 4 4 100.0 3 4 7 0 3 0 0 1 -6
+p405
+aVLinas Kleiza TOR 02/08/2012 TOR vs. MIL L 26 12 3 11 27.3 0 2 0.0 6 7 85.7 2 6 8 0 0 0 1 5 -10
+p406
+aVJose Calderon TOR 02/08/2012 TOR vs. MIL L 33 9 4 12 33.3 1 3 33.3 0 0 - 0 2 2 15 2 0 1 2 3
+p407
+aVDeMar DeRozan TOR 02/08/2012 TOR vs. MIL L 37 25 9 18 50.0 4 6 66.7 3 3 100.0 2 2 4 1 1 0 2 4 -2
+p408
+aVJames Johnson TOR 02/08/2012 TOR vs. MIL L 30 15 7 11 63.6 1 2 50.0 0 0 - 2 5 7 0 2 3 2 4 -2
+p409
+aVJamaal Magloire TOR 02/08/2012 TOR vs. MIL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p410
+aVJerryd Bayless TOR 02/08/2012 TOR vs. MIL L 26 6 3 10 30.0 0 5 0.0 0 0 - 1 1 2 7 0 1 3 1 -2
+p411
+aVJamaal Magloire TOR 02/06/2012 TOR @ WAS L 18 3 1 1 100.0 0 0 - 1 2 50.0 1 5 6 0 0 0 1 1 9
+p412
+aVRasual Butler TOR 02/06/2012 TOR @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p413
+aVJose Calderon TOR 02/06/2012 TOR @ WAS L 35 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 4 0 0 3 3 -4
+p414
+aVEd Davis TOR 02/06/2012 TOR @ WAS L 16 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 2 0 1 3 2
+p415
+aVJerryd Bayless TOR 02/06/2012 TOR @ WAS L 39 30 9 23 39.1 6 10 60.0 6 6 100.0 1 2 3 3 2 0 2 6 -6
+p416
+aVDeMar DeRozan TOR 02/06/2012 TOR @ WAS L 44 15 4 10 40.0 0 0 - 7 8 87.5 1 3 4 2 0 1 1 4 0
+p417
+aVGary Forbes TOR 02/06/2012 TOR @ WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 6
+p418
+aVAmir Johnson TOR 02/06/2012 TOR @ WAS L 21 6 1 7 14.3 0 0 - 4 4 100.0 9 1 10 0 0 0 1 5 -12
+p419
+aVAnthony Carter TOR 02/06/2012 TOR @ WAS L 6 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 6
+p420
+aVLinas Kleiza TOR 02/06/2012 TOR @ WAS L 35 30 11 16 68.8 4 8 50.0 4 8 50.0 1 4 5 1 2 0 3 4 7
+p421
+aVJames Johnson TOR 02/06/2012 TOR @ WAS L 27 10 4 10 40.0 1 2 50.0 1 2 50.0 1 3 4 6 0 1 2 3 -5
+p422
+aVLeandro Barbosa TOR 02/06/2012 TOR @ WAS L 10 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 1 2 0 1 2 -8
+p423
+aVAaron Gray TOR 02/06/2012 TOR @ WAS L 8 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 1 0 0 1 1 -5
+p424
+aVAaron Gray TOR 02/05/2012 TOR @ MIA L 17 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 1 0 2 2 -11
+p425
+aVRasual Butler TOR 02/05/2012 TOR @ MIA L 3 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 0
+p426
+aVJamaal Magloire TOR 02/05/2012 TOR @ MIA L 9 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -2
+p427
+aVEd Davis TOR 02/05/2012 TOR @ MIA L 30 8 4 5 80.0 0 0 - 0 0 - 3 5 8 0 1 2 0 2 -9
+p428
+aVLinas Kleiza TOR 02/05/2012 TOR @ MIA L 24 17 5 13 38.5 2 5 40.0 5 6 83.3 2 3 5 1 0 0 4 3 6
+p429
+aVAmir Johnson TOR 02/05/2012 TOR @ MIA L 19 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 0 0 5 7
+p430
+aVJerryd Bayless TOR 02/05/2012 TOR @ MIA L 39 17 6 16 37.5 4 8 50.0 1 2 50.0 1 2 3 3 2 1 0 4 -4
+p431
+aVJames Johnson TOR 02/05/2012 TOR @ MIA L 18 4 2 4 50.0 0 1 0.0 0 0 - 2 3 5 4 0 0 0 4 3
+p432
+aVJose Calderon TOR 02/05/2012 TOR @ MIA L 26 8 4 8 50.0 0 3 0.0 0 0 - 0 0 0 3 0 0 5 0 -13
+p433
+aVDeMar DeRozan TOR 02/05/2012 TOR @ MIA L 37 25 8 16 50.0 0 1 0.0 9 11 81.8 0 3 3 3 2 0 2 2 -7
+p434
+aVLeandro Barbosa TOR 02/05/2012 TOR @ MIA L 12 2 1 8 12.5 0 4 0.0 0 0 - 0 0 0 3 0 0 2 2 5
+p435
+aVGary Forbes TOR 02/05/2012 TOR @ MIA L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p436
+aVJames Johnson TOR 02/03/2012 TOR vs. WAS W 22 13 4 8 50.0 0 0 - 5 8 62.5 2 2 4 0 2 1 1 2 1
+p437
+aVJose Calderon TOR 02/03/2012 TOR vs. WAS W 36 8 2 6 33.3 0 0 - 4 5 80.0 1 7 8 17 0 0 3 3 16
+p438
+aVLeandro Barbosa TOR 02/03/2012 TOR vs. WAS W 28 19 8 17 47.1 0 3 0.0 3 3 100.0 1 1 2 0 3 2 1 2 24
+p439
+aVGary Forbes TOR 02/03/2012 TOR vs. WAS W 10 0 0 2 0.0 0 1 0.0 0 0 - 2 4 6 2 0 0 1 0 -3
+p440
+aVJamaal Magloire TOR 02/03/2012 TOR vs. WAS W 6 1 0 4 0.0 0 0 - 1 2 50.0 3 3 6 0 0 2 0 1 5
+p441
+aVDeMar DeRozan TOR 02/03/2012 TOR vs. WAS W 28 11 4 12 33.3 0 1 0.0 3 5 60.0 2 5 7 2 0 1 1 3 8
+p442
+aVEd Davis TOR 02/03/2012 TOR vs. WAS W 23 8 4 8 50.0 0 0 - 0 0 - 1 3 4 2 0 1 1 2 12
+p443
+aVLinas Kleiza TOR 02/03/2012 TOR vs. WAS W 18 15 6 8 75.0 3 3 100.0 0 0 - 1 2 3 1 0 0 0 0 15
+p444
+aVRasual Butler TOR 02/03/2012 TOR vs. WAS W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p445
+aVJerryd Bayless TOR 02/03/2012 TOR vs. WAS W 28 3 1 6 16.7 0 3 0.0 1 2 50.0 0 1 1 2 0 0 3 0 -5
+p446
+aVAaron Gray TOR 02/03/2012 TOR vs. WAS W 11 8 4 7 57.1 0 0 - 0 1 0.0 3 3 6 0 0 0 0 2 -8
+p447
+aVAmir Johnson TOR 02/03/2012 TOR vs. WAS W 27 18 8 13 61.5 0 1 0.0 2 2 100.0 7 6 13 2 0 3 0 3 23
+p448
+aVAmir Johnson TOR 02/01/2012 TOR @ BOS L 19 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -10
+p449
+aVGary Forbes TOR 02/01/2012 TOR @ BOS L 15 6 2 8 25.0 1 2 50.0 1 2 50.0 1 2 3 1 0 0 1 0 -6
+p450
+aVDeMar DeRozan TOR 02/01/2012 TOR @ BOS L 26 8 3 12 25.0 0 0 - 2 5 40.0 0 0 0 0 0 0 3 2 -29
+p451
+aVJames Johnson TOR 02/01/2012 TOR @ BOS L 23 7 3 11 27.3 1 2 50.0 0 1 0.0 1 3 4 0 0 1 1 6 -14
+p452
+aVAnthony Carter TOR 02/01/2012 TOR @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -6
+p453
+aVAaron Gray TOR 02/01/2012 TOR @ BOS L 26 8 4 6 66.7 0 0 - 0 3 0.0 2 7 9 0 1 1 1 1 -22
+p454
+aVEd Davis TOR 02/01/2012 TOR @ BOS L 38 10 4 6 66.7 0 0 - 2 4 50.0 4 8 12 0 0 2 3 4 -32
+p455
+aVJose Calderon TOR 02/01/2012 TOR @ BOS L 22 1 0 5 0.0 0 2 0.0 1 1 100.0 1 1 2 7 0 0 2 0 -19
+p456
+aVSolomon Alabi TOR 02/01/2012 TOR @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p457
+aVLeandro Barbosa TOR 02/01/2012 TOR @ BOS L 21 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 6 2 0 1 2 -11
+p458
+aVRasual Butler TOR 02/01/2012 TOR @ BOS L 13 6 2 2 100.0 2 2 100.0 0 0 - 0 3 3 0 0 0 0 0 -9
+p459
+aVJerryd Bayless TOR 02/01/2012 TOR @ BOS L 27 14 5 12 41.7 2 5 40.0 2 2 100.0 0 1 1 1 0 0 1 3 -16
+p460
+aVJames Johnson TOR 01/31/2012 TOR vs. ATL L 27 9 4 13 30.8 0 2 0.0 1 2 50.0 1 7 8 3 1 0 2 0 -12
+p461
+aVLeandro Barbosa TOR 01/31/2012 TOR vs. ATL L 17 4 2 8 25.0 0 4 0.0 0 0 - 0 3 3 0 0 0 3 3 -11
+p462
+aVJose Calderon TOR 01/31/2012 TOR vs. ATL L 32 6 3 4 75.0 0 0 - 0 0 - 1 1 2 9 0 0 3 1 -21
+p463
+aVJerryd Bayless TOR 01/31/2012 TOR vs. ATL L 26 14 4 11 36.4 2 5 40.0 4 4 100.0 0 0 0 2 1 0 1 0 -23
+p464
+aVGary Forbes TOR 01/31/2012 TOR vs. ATL L 16 10 2 6 33.3 0 1 0.0 6 6 100.0 0 2 2 1 1 0 1 3 -7
+p465
+aVLinas Kleiza TOR 01/31/2012 TOR vs. ATL L 21 7 2 9 22.2 1 4 25.0 2 2 100.0 0 1 1 2 1 0 0 1 -11
+p466
+aVAaron Gray TOR 01/31/2012 TOR vs. ATL L 9 0 0 0 - 0 0 - 0 0 - 1 4 5 1 0 0 1 1 5
+p467
+aVAmir Johnson TOR 01/31/2012 TOR vs. ATL L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -14
+p468
+aVEd Davis TOR 01/31/2012 TOR vs. ATL L 26 11 4 6 66.7 0 0 - 3 3 100.0 6 5 11 0 1 1 2 3 -12
+p469
+aVDeMar DeRozan TOR 01/31/2012 TOR vs. ATL L 34 9 3 9 33.3 0 1 0.0 3 4 75.0 0 4 4 2 1 0 4 2 -14
+p470
+aVRasual Butler TOR 01/31/2012 TOR vs. ATL L 13 5 2 5 40.0 1 3 33.3 0 2 0.0 0 0 0 0 0 0 1 1 3
+p471
+aVAnthony Carter TOR 01/31/2012 TOR vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p472
+aVRasual Butler TOR 01/29/2012 TOR @ NJN W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 1 1 0 2
+p473
+aVDeMar DeRozan TOR 01/29/2012 TOR @ NJN W 41 27 8 12 66.7 0 2 0.0 11 16 68.8 0 3 3 2 1 1 0 1 19
+p474
+aVLinas Kleiza TOR 01/29/2012 TOR @ NJN W 27 15 5 11 45.5 1 2 50.0 4 4 100.0 0 3 3 0 1 0 1 2 12
+p475
+aVAmir Johnson TOR 01/29/2012 TOR @ NJN W 19 6 3 3 100.0 0 0 - 0 0 - 2 2 4 2 0 0 2 0 6
+p476
+aVGary Forbes TOR 01/29/2012 TOR @ NJN W 22 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 1 1 0 2 3 8
+p477
+aVJose Calderon TOR 01/29/2012 TOR @ NJN W 34 10 4 6 66.7 1 2 50.0 1 1 100.0 0 5 5 9 0 0 1 2 11
+p478
+aVEd Davis TOR 01/29/2012 TOR @ NJN W 26 6 2 5 40.0 0 0 - 2 2 100.0 4 5 9 0 1 0 2 6 13
+p479
+aVJerryd Bayless TOR 01/29/2012 TOR @ NJN W 34 17 7 15 46.7 0 4 0.0 3 4 75.0 0 6 6 3 1 0 1 4 23
+p480
+aVJames Johnson TOR 01/29/2012 TOR @ NJN W 21 6 3 6 50.0 0 0 - 0 2 0.0 1 2 3 0 2 1 0 1 9
+p481
+aVSolomon Alabi TOR 01/29/2012 TOR @ NJN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p482
+aVJames Johnson TOR 01/27/2012 TOR @ DEN L 27 16 7 10 70.0 1 1 100.0 1 2 50.0 2 1 3 2 2 1 0 6 -10
+p483
+aVDeMar DeRozan TOR 01/27/2012 TOR @ DEN L 33 8 3 15 20.0 0 1 0.0 2 2 100.0 2 2 4 3 0 0 3 2 -19
+p484
+aVJose Calderon TOR 01/27/2012 TOR @ DEN L 32 9 3 10 30.0 1 3 33.3 2 2 100.0 0 1 1 2 0 0 3 1 -22
+p485
+aVJamaal Magloire TOR 01/27/2012 TOR @ DEN L 14 0 0 0 - 0 0 - 0 0 - 0 6 6 0 0 0 2 2 11
+p486
+aVLeandro Barbosa TOR 01/27/2012 TOR @ DEN L 23 19 7 13 53.8 1 2 50.0 4 5 80.0 0 0 0 3 2 0 1 1 -8
+p487
+aVEd Davis TOR 01/27/2012 TOR @ DEN L 18 5 2 6 33.3 0 0 - 1 3 33.3 1 5 6 1 1 2 1 4 -11
+p488
+aVAmir Johnson TOR 01/27/2012 TOR @ DEN L 15 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 1 0 4 -7
+p489
+aVGary Forbes TOR 01/27/2012 TOR @ DEN L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p490
+aVJerryd Bayless TOR 01/27/2012 TOR @ DEN L 16 18 7 10 70.0 4 5 80.0 0 0 - 0 2 2 3 0 0 2 3 7
+p491
+aVLinas Kleiza TOR 01/27/2012 TOR @ DEN L 25 2 1 7 14.3 0 3 0.0 0 0 - 1 7 8 4 1 0 0 3 -5
+p492
+aVAaron Gray TOR 01/27/2012 TOR @ DEN L 15 0 0 2 0.0 0 0 - 0 0 - 4 7 11 0 0 1 2 4 -13
+p493
+aVRasual Butler TOR 01/27/2012 TOR @ DEN L 18 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 1 0 0 0 3
+p494
+aVLeandro Barbosa TOR 01/25/2012 TOR @ UTA W 26 13 6 9 66.7 0 0 - 1 2 50.0 1 2 3 2 0 0 0 4 10
+p495
+aVJames Johnson TOR 01/25/2012 TOR @ UTA W 39 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 1 6 1 4 -2
+p496
+aVEd Davis TOR 01/25/2012 TOR @ UTA W 11 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 1 0 0 3 9
+p497
+aVAaron Gray TOR 01/25/2012 TOR @ UTA W 15 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 1 5 -14
+p498
+aVJose Calderon TOR 01/25/2012 TOR @ UTA W 35 12 5 13 38.5 2 7 28.6 0 0 - 1 3 4 7 0 0 1 5 -1
+p499
+aVAndrea Bargnani TOR 01/25/2012 TOR @ UTA W 40 25 10 26 38.5 3 8 37.5 2 4 50.0 2 3 5 4 0 1 5 1 -2
+p500
+aVGary Forbes TOR 01/25/2012 TOR @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p501
+aVRasual Butler TOR 01/25/2012 TOR @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p502
+aVJerryd Bayless TOR 01/25/2012 TOR @ UTA W 22 5 1 6 16.7 0 2 0.0 3 4 75.0 0 1 1 7 0 0 2 0 6
+p503
+aVLinas Kleiza TOR 01/25/2012 TOR @ UTA W 33 25 8 16 50.0 4 9 44.4 5 5 100.0 0 5 5 0 1 0 1 0 16
+p504
+aVDeMar DeRozan TOR 01/25/2012 TOR @ UTA W 44 17 6 11 54.5 1 2 50.0 4 4 100.0 1 7 8 2 2 0 1 4 -6
+p505
+aVAmir Johnson TOR 01/25/2012 TOR @ UTA W 24 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 1 3 3 4 7
+p506
+aVLeandro Barbosa TOR 01/24/2012 TOR @ PHX W 31 19 7 14 50.0 3 3 100.0 2 2 100.0 0 2 2 0 1 1 1 1 -1
+p507
+aVGary Forbes TOR 01/24/2012 TOR @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p508
+aVJerryd Bayless TOR 01/24/2012 TOR @ PHX W 15 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 1 0 0 2 1 -2
+p509
+aVJames Johnson TOR 01/24/2012 TOR @ PHX W 35 18 7 12 58.3 0 1 0.0 4 4 100.0 3 7 10 0 1 0 2 3 9
+p510
+aVJose Calderon TOR 01/24/2012 TOR @ PHX W 33 6 2 5 40.0 0 0 - 2 3 66.7 0 4 4 11 1 0 3 1 5
+p511
+aVAmir Johnson TOR 01/24/2012 TOR @ PHX W 13 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 3 -1
+p512
+aVDeMar DeRozan TOR 01/24/2012 TOR @ PHX W 23 4 2 8 25.0 0 0 - 0 0 - 0 1 1 2 2 0 1 2 7
+p513
+aVAaron Gray TOR 01/24/2012 TOR @ PHX W 15 2 1 4 25.0 0 0 - 0 0 - 3 2 5 1 2 0 0 3 2
+p514
+aVLinas Kleiza TOR 01/24/2012 TOR @ PHX W 20 5 1 5 20.0 1 3 33.3 2 2 100.0 2 8 10 0 1 0 2 3 -5
+p515
+aVAndrea Bargnani TOR 01/24/2012 TOR @ PHX W 42 36 10 21 47.6 4 6 66.7 12 12 100.0 1 5 6 2 2 1 2 2 1
+p516
+aVEd Davis TOR 01/24/2012 TOR @ PHX W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 1
+p517
+aVRasual Butler TOR 01/24/2012 TOR @ PHX W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p518
+aVAaron Gray TOR 01/22/2012 TOR @ LAC L 15 6 3 3 100.0 0 0 - 0 1 0.0 4 4 8 1 2 0 0 4 -8
+p519
+aVAmir Johnson TOR 01/22/2012 TOR @ LAC L 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 -11
+p520
+aVLeandro Barbosa TOR 01/22/2012 TOR @ LAC L 24 19 7 12 58.3 3 4 75.0 2 2 100.0 0 1 1 1 3 0 0 5 4
+p521
+aVJames Johnson TOR 01/22/2012 TOR @ LAC L 19 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 2 2 3 2 4 -12
+p522
+aVDeMar DeRozan TOR 01/22/2012 TOR @ LAC L 33 15 4 19 21.1 0 2 0.0 7 8 87.5 6 2 8 1 3 0 2 4 -5
+p523
+aVJerryd Bayless TOR 01/22/2012 TOR @ LAC L 18 7 2 9 22.2 0 1 0.0 3 4 75.0 1 0 1 5 2 0 3 0 1
+p524
+aVJose Calderon TOR 01/22/2012 TOR @ LAC L 24 3 1 8 12.5 1 2 50.0 0 0 - 0 2 2 4 0 0 2 0 -20
+p525
+aVLinas Kleiza TOR 01/22/2012 TOR @ LAC L 29 16 5 10 50.0 2 5 40.0 4 4 100.0 2 2 4 3 1 0 4 3 15
+p526
+aVGary Forbes TOR 01/22/2012 TOR @ LAC L 8 7 2 4 50.0 0 2 0.0 3 4 75.0 0 0 0 1 1 0 2 1 3
+p527
+aVEd Davis TOR 01/22/2012 TOR @ LAC L 31 7 1 5 20.0 0 0 - 5 6 83.3 0 5 5 1 0 1 0 4 -21
+p528
+aVRasual Butler TOR 01/22/2012 TOR @ LAC L 17 3 1 2 50.0 1 1 100.0 0 0 - 0 4 4 2 1 0 1 2 -7
+p529
+aVJamaal Magloire TOR 01/22/2012 TOR @ LAC L 13 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 2 1
+p530
+aVAaron Gray TOR 01/20/2012 TOR vs. POR L 24 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 0 0 2 6 -9
+p531
+aVAnthony Carter TOR 01/20/2012 TOR vs. POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 6
+p532
+aVLeandro Barbosa TOR 01/20/2012 TOR vs. POR L 27 17 5 16 31.3 1 5 20.0 6 8 75.0 1 0 1 2 2 0 1 2 -6
+p533
+aVEd Davis TOR 01/20/2012 TOR vs. POR L 32 4 2 5 40.0 0 0 - 0 0 - 4 6 10 2 2 2 2 1 -14
+p534
+aVDeMar DeRozan TOR 01/20/2012 TOR vs. POR L 33 22 7 21 33.3 0 2 0.0 8 10 80.0 0 2 2 2 0 0 1 5 -3
+p535
+aVLinas Kleiza TOR 01/20/2012 TOR vs. POR L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p536
+aVJose Calderon TOR 01/20/2012 TOR vs. POR L 36 7 2 8 25.0 1 1 100.0 2 2 100.0 0 2 2 13 3 0 1 1 -12
+p537
+aVAmir Johnson TOR 01/20/2012 TOR vs. POR L 24 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 2 2 3 -1
+p538
+aVGary Forbes TOR 01/20/2012 TOR vs. POR L 11 3 1 5 20.0 0 1 0.0 1 2 50.0 0 3 3 0 1 0 3 1 -4
+p539
+aVRasual Butler TOR 01/20/2012 TOR vs. POR L 13 6 2 7 28.6 2 4 50.0 0 0 - 1 3 4 0 0 0 0 1 -9
+p540
+aVJames Johnson TOR 01/20/2012 TOR vs. POR L 31 23 10 17 58.8 1 2 50.0 2 3 66.7 3 3 6 2 2 4 0 3 2
+p541
+aVGary Forbes TOR 01/18/2012 TOR @ BOS L 19 18 5 6 83.3 1 1 100.0 7 8 87.5 1 0 1 1 1 1 0 2 7
+p542
+aVRasual Butler TOR 01/18/2012 TOR @ BOS L 15 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 1 0 0 0 2 -2
+p543
+aVDeMar DeRozan TOR 01/18/2012 TOR @ BOS L 31 11 4 16 25.0 1 2 50.0 2 3 66.7 0 2 2 0 0 0 5 1 -24
+p544
+aVAmir Johnson TOR 01/18/2012 TOR @ BOS L 20 4 2 3 66.7 0 0 - 0 0 - 2 4 6 3 0 0 1 5 -9
+p545
+aVLinas Kleiza TOR 01/18/2012 TOR @ BOS L 16 2 1 8 12.5 0 1 0.0 0 0 - 1 6 7 2 0 0 1 4 -4
+p546
+aVLeandro Barbosa TOR 01/18/2012 TOR @ BOS L 21 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 0 0 1 1 0 -4
+p547
+aVAaron Gray TOR 01/18/2012 TOR @ BOS L 19 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 -3
+p548
+aVJose Calderon TOR 01/18/2012 TOR @ BOS L 29 9 3 7 42.9 0 3 0.0 3 3 100.0 1 2 3 4 0 0 0 3 -30
+p549
+aVEd Davis TOR 01/18/2012 TOR @ BOS L 35 9 3 7 42.9 0 0 - 3 4 75.0 1 8 9 1 2 0 2 3 -21
+p550
+aVJamaal Magloire TOR 01/18/2012 TOR @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p551
+aVJames Johnson TOR 01/18/2012 TOR @ BOS L 25 4 1 7 14.3 0 2 0.0 2 2 100.0 0 2 2 0 1 0 3 1 -18
+p552
+aVAnthony Carter TOR 01/18/2012 TOR @ BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p553
+aVGary Forbes TOR 01/16/2012 TOR @ ATL L 14 5 1 8 12.5 0 1 0.0 3 4 75.0 1 0 1 3 0 0 0 2 -8
+p554
+aVLeandro Barbosa TOR 01/16/2012 TOR @ ATL L 30 22 8 15 53.3 2 3 66.7 4 5 80.0 1 3 4 1 0 0 1 2 -1
+p555
+aVRasual Butler TOR 01/16/2012 TOR @ ATL L 30 10 4 9 44.4 0 3 0.0 2 2 100.0 0 4 4 0 0 0 1 1 -9
+p556
+aVEd Davis TOR 01/16/2012 TOR @ ATL L 40 7 3 8 37.5 0 0 - 1 3 33.3 2 9 11 1 3 4 2 4 -6
+p557
+aVLinas Kleiza TOR 01/16/2012 TOR @ ATL L 10 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 2 5 -7
+p558
+aVDeMar DeRozan TOR 01/16/2012 TOR @ ATL L 35 10 5 17 29.4 0 4 0.0 0 0 - 0 2 2 1 0 0 2 4 -5
+p559
+aVJamaal Magloire TOR 01/16/2012 TOR @ ATL L 20 2 1 2 50.0 0 0 - 0 1 0.0 0 3 3 0 0 1 0 2 -6
+p560
+aVJose Calderon TOR 01/16/2012 TOR @ ATL L 36 13 6 9 66.7 1 1 100.0 0 0 - 1 2 3 11 0 0 4 2 -4
+p561
+aVAmir Johnson TOR 01/16/2012 TOR @ ATL L 25 13 5 9 55.6 0 0 - 3 5 60.0 5 5 10 2 1 1 3 5 1
+p562
+aVGary Forbes TOR 01/14/2012 TOR @ CHI L 16 5 2 6 33.3 1 2 50.0 0 0 - 2 6 8 5 1 0 1 1 -1
+p563
+aVLinas Kleiza TOR 01/14/2012 TOR @ CHI L 18 5 2 6 33.3 0 1 0.0 1 2 50.0 0 3 3 0 0 0 0 2 -9
+p564
+aVJamaal Magloire TOR 01/14/2012 TOR @ CHI L 20 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 -8
+p565
+aVJames Johnson TOR 01/14/2012 TOR @ CHI L 19 12 6 11 54.5 0 1 0.0 0 0 - 1 2 3 0 1 1 1 2 11
+p566
+aVRasual Butler TOR 01/14/2012 TOR @ CHI L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -8
+p567
+aVDeMar DeRozan TOR 01/14/2012 TOR @ CHI L 38 15 7 15 46.7 1 1 100.0 0 0 - 1 3 4 0 0 2 3 2 -11
+p568
+aVJose Calderon TOR 01/14/2012 TOR @ CHI L 36 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 8 1 0 2 0 -14
+p569
+aVAmir Johnson TOR 01/14/2012 TOR @ CHI L 28 6 3 11 27.3 0 0 - 0 2 0.0 6 7 13 2 0 0 0 3 -5
+p570
+aVLeandro Barbosa TOR 01/14/2012 TOR @ CHI L 34 15 7 20 35.0 1 2 50.0 0 1 0.0 2 4 6 1 0 0 0 0 -5
+p571
+aVEd Davis TOR 01/14/2012 TOR @ CHI L 17 2 1 3 33.3 0 0 - 0 2 0.0 0 5 5 0 0 1 1 1 -15
+p572
+aVLeandro Barbosa TOR 01/13/2012 TOR vs. IND L 25 20 9 17 52.9 1 2 50.0 1 3 33.3 3 2 5 0 1 1 3 3 -2
+p573
+aVAnthony Carter TOR 01/13/2012 TOR vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p574
+aVJames Johnson TOR 01/13/2012 TOR vs. IND L 15 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 1 1 0 2 4 -9
+p575
+aVGary Forbes TOR 01/13/2012 TOR vs. IND L 7 7 2 2 100.0 0 0 - 3 3 100.0 0 2 2 1 0 0 1 1 -1
+p576
+aVLinas Kleiza TOR 01/13/2012 TOR vs. IND L 12 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 2 1 -2
+p577
+aVAmir Johnson TOR 01/13/2012 TOR vs. IND L 27 9 4 7 57.1 0 1 0.0 1 3 33.3 2 3 5 3 1 0 2 6 -1
+p578
+aVJose Calderon TOR 01/13/2012 TOR vs. IND L 41 15 5 12 41.7 1 5 20.0 4 4 100.0 0 1 1 9 0 0 2 4 -4
+p579
+aVJamaal Magloire TOR 01/13/2012 TOR vs. IND L 21 1 0 2 0.0 0 0 - 1 4 25.0 2 3 5 0 0 1 3 3 -2
+p580
+aVRasual Butler TOR 01/13/2012 TOR vs. IND L 23 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 0 0 2 1 3
+p581
+aVEd Davis TOR 01/13/2012 TOR vs. IND L 30 6 2 8 25.0 0 0 - 2 2 100.0 1 9 10 3 0 1 0 5 2
+p582
+aVDeMar DeRozan TOR 01/13/2012 TOR vs. IND L 41 23 8 15 53.3 0 4 0.0 7 11 63.6 1 1 2 0 1 0 0 4 -7
+p583
+aVAnthony Carter TOR 01/11/2012 TOR vs. SAC L 15 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 1 1 1 2 1 -2
+p584
+aVDeMar DeRozan TOR 01/11/2012 TOR vs. SAC L 29 13 5 9 55.6 0 1 0.0 3 3 100.0 0 3 3 1 0 0 3 5 -6
+p585
+aVLeandro Barbosa TOR 01/11/2012 TOR vs. SAC L 29 24 11 18 61.1 2 5 40.0 0 0 - 0 1 1 2 1 0 2 3 -5
+p586
+aVLinas Kleiza TOR 01/11/2012 TOR vs. SAC L 14 10 3 6 50.0 0 2 0.0 4 5 80.0 0 3 3 1 0 0 1 2 -1
+p587
+aVEd Davis TOR 01/11/2012 TOR vs. SAC L 14 6 3 4 75.0 0 0 - 0 0 - 4 2 6 0 1 0 1 3 -2
+p588
+aVAmir Johnson TOR 01/11/2012 TOR vs. SAC L 28 9 4 7 57.1 1 1 100.0 0 0 - 2 4 6 1 1 0 1 6 0
+p589
+aVAndrea Bargnani TOR 01/11/2012 TOR vs. SAC L 28 10 2 13 15.4 0 3 0.0 6 6 100.0 1 9 10 0 0 0 2 0 -2
+p590
+aVJamaal Magloire TOR 01/11/2012 TOR vs. SAC L 5 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -6
+p591
+aVRasual Butler TOR 01/11/2012 TOR vs. SAC L 13 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 0 0 1 0 3 -6
+p592
+aVJose Calderon TOR 01/11/2012 TOR vs. SAC L 34 13 5 12 41.7 2 4 50.0 1 1 100.0 0 6 6 10 2 0 1 3 -5
+p593
+aVJames Johnson TOR 01/11/2012 TOR vs. SAC L 30 0 0 4 0.0 0 1 0.0 0 0 - 1 4 5 4 1 2 1 1 0
+p594
+aVAmir Johnson TOR 01/10/2012 TOR @ WAS L 28 4 1 3 33.3 0 0 - 2 2 100.0 5 5 10 1 1 0 2 4 -7
+p595
+aVGary Forbes TOR 01/10/2012 TOR @ WAS L 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 4
+p596
+aVDeMar DeRozan TOR 01/10/2012 TOR @ WAS L 30 11 4 16 25.0 0 1 0.0 3 4 75.0 0 4 4 0 3 0 3 1 -15
+p597
+aVLeandro Barbosa TOR 01/10/2012 TOR @ WAS L 21 12 5 11 45.5 2 5 40.0 0 0 - 1 0 1 1 0 0 4 1 -6
+p598
+aVJose Calderon TOR 01/10/2012 TOR @ WAS L 29 8 4 9 44.4 0 3 0.0 0 0 - 1 4 5 8 0 0 4 1 -14
+p599
+aVAnthony Carter TOR 01/10/2012 TOR @ WAS L 19 8 3 6 50.0 2 3 66.7 0 0 - 1 1 2 6 0 2 2 0 -1
+p600
+aVAndrea Bargnani TOR 01/10/2012 TOR @ WAS L 29 22 9 16 56.3 0 3 0.0 4 4 100.0 1 1 2 2 0 0 2 2 -15
+p601
+aVJames Johnson TOR 01/10/2012 TOR @ WAS L 28 4 1 5 20.0 0 2 0.0 2 2 100.0 2 2 4 1 1 0 1 1 -14
+p602
+aVEd Davis TOR 01/10/2012 TOR @ WAS L 21 5 1 2 50.0 0 0 - 3 4 75.0 2 7 9 1 0 3 1 2 -3
+p603
+aVRasual Butler TOR 01/10/2012 TOR @ WAS L 24 2 1 6 16.7 0 3 0.0 0 1 0.0 0 6 6 1 1 0 2 3 -4
+p604
+aVRasual Butler TOR 01/09/2012 TOR vs. MIN W 21 2 1 8 12.5 0 5 0.0 0 0 - 1 2 3 1 1 2 0 0 -4
+p605
+aVJames Johnson TOR 01/09/2012 TOR vs. MIN W 20 5 2 3 66.7 1 1 100.0 0 0 - 0 5 5 1 0 4 0 5 0
+p606
+aVEd Davis TOR 01/09/2012 TOR vs. MIN W 17 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 1 3 3 -22
+p607
+aVDeMar DeRozan TOR 01/09/2012 TOR vs. MIN W 38 9 3 11 27.3 0 3 0.0 3 3 100.0 0 6 6 3 2 0 3 5 22
+p608
+aVLeandro Barbosa TOR 01/09/2012 TOR vs. MIN W 21 13 2 7 28.6 0 2 0.0 9 9 100.0 2 1 3 1 2 0 3 3 4
+p609
+aVJose Calderon TOR 01/09/2012 TOR vs. MIN W 41 14 6 11 54.5 1 2 50.0 1 1 100.0 0 3 3 6 1 0 1 2 27
+p610
+aVAnthony Carter TOR 01/09/2012 TOR vs. MIN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -17
+p611
+aVAmir Johnson TOR 01/09/2012 TOR vs. MIN W 30 19 7 9 77.8 0 0 - 5 6 83.3 8 3 11 3 1 1 1 5 31
+p612
+aVAndrea Bargnani TOR 01/09/2012 TOR vs. MIN W 45 31 11 25 44.0 1 6 16.7 8 9 88.9 1 8 9 0 0 1 2 3 9
+p613
+aVLeandro Barbosa TOR 01/07/2012 TOR @ PHI L 13 3 1 7 14.3 0 1 0.0 1 1 100.0 0 2 2 1 0 0 1 2 -12
+p614
+aVJose Calderon TOR 01/07/2012 TOR @ PHI L 33 7 3 9 33.3 0 3 0.0 1 2 50.0 1 2 3 7 0 0 2 3 -25
+p615
+aVJames Johnson TOR 01/07/2012 TOR @ PHI L 30 7 3 11 27.3 0 0 - 1 3 33.3 3 4 7 2 0 3 1 1 -17
+p616
+aVAmir Johnson TOR 01/07/2012 TOR @ PHI L 32 12 6 11 54.5 0 0 - 0 0 - 6 8 14 0 0 0 3 4 -16
+p617
+aVRasual Butler TOR 01/07/2012 TOR @ PHI L 19 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 -19
+p618
+aVJamaal Magloire TOR 01/07/2012 TOR @ PHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p619
+aVGary Forbes TOR 01/07/2012 TOR @ PHI L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p620
+aVAndrea Bargnani TOR 01/07/2012 TOR @ PHI L 32 21 8 19 42.1 1 4 25.0 4 6 66.7 3 8 11 1 1 0 1 2 -25
+p621
+aVDeMar DeRozan TOR 01/07/2012 TOR @ PHI L 31 8 4 13 30.8 0 1 0.0 0 0 - 0 1 1 2 1 2 3 2 -22
+p622
+aVEd Davis TOR 01/07/2012 TOR @ PHI L 21 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 2 0 3 3 -17
+p623
+aVAnthony Carter TOR 01/07/2012 TOR @ PHI L 15 2 1 5 20.0 0 1 0.0 0 0 - 1 4 5 2 0 0 1 2 -10
+p624
+aVJamaal Magloire TOR 01/06/2012 TOR vs. NJN L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 3 0
+p625
+aVAmir Johnson TOR 01/06/2012 TOR vs. NJN L 25 8 4 8 50.0 0 0 - 0 1 0.0 4 6 10 0 0 2 3 2 -1
+p626
+aVAndrea Bargnani TOR 01/06/2012 TOR vs. NJN L 36 17 6 12 50.0 1 1 100.0 4 5 80.0 1 3 4 3 0 2 1 1 -11
+p627
+aVDeMar DeRozan TOR 01/06/2012 TOR vs. NJN L 27 3 1 6 16.7 0 1 0.0 1 2 50.0 0 2 2 2 2 1 3 3 -11
+p628
+aVJose Calderon TOR 01/06/2012 TOR vs. NJN L 36 19 7 13 53.8 2 6 33.3 3 3 100.0 0 2 2 8 1 0 0 2 -10
+p629
+aVGary Forbes TOR 01/06/2012 TOR vs. NJN L 8 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 1
+p630
+aVRasual Butler TOR 01/06/2012 TOR vs. NJN L 23 11 3 7 42.9 3 6 50.0 2 2 100.0 0 3 3 0 1 1 1 3 -5
+p631
+aVJames Johnson TOR 01/06/2012 TOR vs. NJN L 22 8 4 6 66.7 0 0 - 0 1 0.0 0 1 1 2 1 2 1 4 0
+p632
+aVAnthony Carter TOR 01/06/2012 TOR vs. NJN L 12 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 3 0 1 1 2 -2
+p633
+aVEd Davis TOR 01/06/2012 TOR vs. NJN L 26 11 4 7 57.1 0 0 - 3 5 60.0 2 6 8 1 1 1 0 1 -12
+p634
+aVLeandro Barbosa TOR 01/06/2012 TOR vs. NJN L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 2 3 -9
+p635
+aVJames Johnson TOR 01/04/2012 TOR vs. CLE W 26 4 1 8 12.5 0 0 - 2 4 50.0 2 6 8 2 2 2 3 3 12
+p636
+aVGary Forbes TOR 01/04/2012 TOR vs. CLE W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p637
+aVAndrea Bargnani TOR 01/04/2012 TOR vs. CLE W 34 31 11 16 68.8 3 7 42.9 6 7 85.7 0 7 7 3 0 1 2 1 22
+p638
+aVJamaal Magloire TOR 01/04/2012 TOR vs. CLE W 11 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 3
+p639
+aVEd Davis TOR 01/04/2012 TOR vs. CLE W 23 8 4 7 57.1 0 0 - 0 0 - 2 5 7 1 0 1 1 2 4
+p640
+aVLeandro Barbosa TOR 01/04/2012 TOR vs. CLE W 15 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 2 -1
+p641
+aVRasual Butler TOR 01/04/2012 TOR vs. CLE W 17 0 0 6 0.0 0 6 0.0 0 0 - 1 0 1 1 0 0 0 1 6
+p642
+aVDeMar DeRozan TOR 01/04/2012 TOR vs. CLE W 37 25 9 18 50.0 5 8 62.5 2 2 100.0 0 5 5 0 0 0 1 1 13
+p643
+aVAmir Johnson TOR 01/04/2012 TOR vs. CLE W 27 6 3 6 50.0 0 0 - 0 0 - 2 2 4 1 2 0 2 3 3
+p644
+aVAnthony Carter TOR 01/04/2012 TOR vs. CLE W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 7
+p645
+aVJose Calderon TOR 01/04/2012 TOR vs. CLE W 37 13 6 8 75.0 1 3 33.3 0 0 - 0 6 6 11 0 0 1 2 8
+p646
+aVAnthony Carter TOR 01/02/2012 TOR @ NYK W 5 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 3 0 0 1 0 7
+p647
+aVLeandro Barbosa TOR 01/02/2012 TOR @ NYK W 13 10 2 5 40.0 0 1 0.0 6 7 85.7 0 4 4 0 0 0 1 1 11
+p648
+aVDeMar DeRozan TOR 01/02/2012 TOR @ NYK W 35 21 7 13 53.8 2 2 100.0 5 6 83.3 0 3 3 2 0 0 4 4 0
+p649
+aVRasual Butler TOR 01/02/2012 TOR @ NYK W 37 13 5 12 41.7 3 7 42.9 0 0 - 1 9 10 0 1 0 0 3 0
+p650
+aVAmir Johnson TOR 01/02/2012 TOR @ NYK W 25 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 1 2 4 4 5 13
+p651
+aVJose Calderon TOR 01/02/2012 TOR @ NYK W 43 9 3 8 37.5 1 4 25.0 2 2 100.0 1 3 4 12 1 0 2 4 -2
+p652
+aVJames Johnson TOR 01/02/2012 TOR @ NYK W 11 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 1 1 1 5 1
+p653
+aVJamaal Magloire TOR 01/02/2012 TOR @ NYK W 18 0 0 2 0.0 0 0 - 0 2 0.0 1 9 10 1 0 0 1 3 -7
+p654
+aVAndrea Bargnani TOR 01/02/2012 TOR @ NYK W 38 21 7 13 53.8 0 2 0.0 7 8 87.5 0 5 5 1 0 0 3 3 -6
+p655
+aVEd Davis TOR 01/02/2012 TOR @ NYK W 15 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 8
+p656
+aVSolomon Alabi TOR 01/01/2012 TOR @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p657
+aVRasual Butler TOR 01/01/2012 TOR @ ORL L 19 3 0 2 0.0 0 1 0.0 3 3 100.0 0 1 1 1 0 0 0 3 19
+p658
+aVAmir Johnson TOR 01/01/2012 TOR @ ORL L 25 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 4 -21
+p659
+aVGary Forbes TOR 01/01/2012 TOR @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p660
+aVLeandro Barbosa TOR 01/01/2012 TOR @ ORL L 27 9 3 8 37.5 0 1 0.0 3 4 75.0 0 2 2 1 0 0 4 6 -17
+p661
+aVEd Davis TOR 01/01/2012 TOR @ ORL L 12 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -5
+p662
+aVAnthony Carter TOR 01/01/2012 TOR @ ORL L 14 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 0 -18
+p663
+aVJamaal Magloire TOR 01/01/2012 TOR @ ORL L 17 7 3 3 100.0 0 0 - 1 1 100.0 2 4 6 1 1 0 0 5 16
+p664
+aVAndrea Bargnani TOR 01/01/2012 TOR @ ORL L 41 28 10 21 47.6 1 3 33.3 7 7 100.0 0 7 7 3 1 0 2 1 -2
+p665
+aVDeMar DeRozan TOR 01/01/2012 TOR @ ORL L 36 17 4 12 33.3 1 2 50.0 8 9 88.9 1 5 6 0 2 0 2 3 -11
+p666
+aVJames Johnson TOR 01/01/2012 TOR @ ORL L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 0 0 1 2 5
+p667
+aVJose Calderon TOR 01/01/2012 TOR @ ORL L 36 18 6 9 66.7 3 4 75.0 3 3 100.0 0 4 4 13 0 1 1 1 4
+p668
+aVJose Calderon TOR 12/30/2011 TOR @ DAL L 33 11 4 8 50.0 2 4 50.0 1 1 100.0 0 2 2 7 2 0 2 1 2
+p669
+aVAmir Johnson TOR 12/30/2011 TOR @ DAL L 28 6 3 3 100.0 0 0 - 0 0 - 1 3 4 1 0 0 2 5 5
+p670
+aVDeMar DeRozan TOR 12/30/2011 TOR @ DAL L 35 11 4 12 33.3 0 1 0.0 3 4 75.0 0 4 4 4 1 0 1 2 -3
+p671
+aVLeandro Barbosa TOR 12/30/2011 TOR @ DAL L 31 20 8 15 53.3 2 3 66.7 2 3 66.7 0 2 2 3 1 0 4 3 -8
+p672
+aVJames Johnson TOR 12/30/2011 TOR @ DAL L 15 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 0 0 2 2 -14
+p673
+aVJamaal Magloire TOR 12/30/2011 TOR @ DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 5 -8
+p674
+aVJerryd Bayless TOR 12/30/2011 TOR @ DAL L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 2 2 -1
+p675
+aVEd Davis TOR 12/30/2011 TOR @ DAL L 19 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 0 3 0 0 0 -16
+p676
+aVRasual Butler TOR 12/30/2011 TOR @ DAL L 12 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 1 0 0 0 1 -8
+p677
+aVAndrea Bargnani TOR 12/30/2011 TOR @ DAL L 42 30 11 18 61.1 2 3 66.7 6 8 75.0 0 7 7 1 0 1 3 0 -4
+p678
+aVAnthony Carter TOR 12/30/2011 TOR @ DAL L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -14
+p679
+aVGary Forbes TOR 12/30/2011 TOR @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 4
+p680
+aVLeandro Barbosa TOR 12/28/2011 TOR vs. IND L 20 9 4 9 44.4 0 1 0.0 1 1 100.0 2 0 2 0 0 0 1 1 -3
+p681
+aVAndrea Bargnani TOR 12/28/2011 TOR vs. IND L 32 21 9 17 52.9 1 3 33.3 2 5 40.0 1 3 4 5 1 2 4 3 -1
+p682
+aVJames Johnson TOR 12/28/2011 TOR vs. IND L 29 6 3 7 42.9 0 0 - 0 0 - 1 7 8 2 6 2 1 5 8
+p683
+aVAnthony Carter TOR 12/28/2011 TOR vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p684
+aVRasual Butler TOR 12/28/2011 TOR vs. IND L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 -5
+p685
+aVAmir Johnson TOR 12/28/2011 TOR vs. IND L 29 2 1 2 50.0 0 0 - 0 0 - 5 5 10 3 2 0 3 4 -3
+p686
+aVJamaal Magloire TOR 12/28/2011 TOR vs. IND L 14 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 0 0 1 1 4 5
+p687
+aVDeMar DeRozan TOR 12/28/2011 TOR vs. IND L 30 22 9 16 56.3 2 2 100.0 2 2 100.0 1 3 4 2 1 0 2 2 -6
+p688
+aVGary Forbes TOR 12/28/2011 TOR vs. IND L 3 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 0 -6
+p689
+aVJerryd Bayless TOR 12/28/2011 TOR vs. IND L 18 13 5 9 55.6 2 2 100.0 1 2 50.0 0 1 1 1 0 0 1 1 -2
+p690
+aVJose Calderon TOR 12/28/2011 TOR vs. IND L 30 7 3 9 33.3 0 2 0.0 1 1 100.0 0 3 3 6 2 0 3 1 -3
+p691
+aVEd Davis TOR 12/28/2011 TOR vs. IND L 20 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -7
+p692
+aVJamaal Magloire TOR 12/26/2011 TOR @ CLE W 15 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 0
+p693
+aVDeMar DeRozan TOR 12/26/2011 TOR @ CLE W 26 15 7 13 53.8 0 1 0.0 1 2 50.0 0 2 2 2 1 0 0 0 14
+p694
+aVEd Davis TOR 12/26/2011 TOR @ CLE W 18 14 7 7 100.0 0 0 - 0 0 - 4 3 7 2 0 2 0 3 -1
+p695
+aVAndrea Bargnani TOR 12/26/2011 TOR @ CLE W 30 13 5 12 41.7 1 4 25.0 2 2 100.0 0 6 6 2 0 0 0 2 9
+p696
+aVJose Calderon TOR 12/26/2011 TOR @ CLE W 30 15 5 9 55.6 3 5 60.0 2 2 100.0 2 4 6 11 0 0 1 2 12
+p697
+aVJerryd Bayless TOR 12/26/2011 TOR @ CLE W 18 10 4 8 50.0 2 3 66.7 0 0 - 0 1 1 3 0 0 1 1 -4
+p698
+aVRasual Butler TOR 12/26/2011 TOR @ CLE W 12 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 2 0 0 0 3 2
+p699
+aVAmir Johnson TOR 12/26/2011 TOR @ CLE W 33 13 5 7 71.4 0 0 - 3 4 75.0 4 9 13 3 1 3 3 4 8
+p700
+aVLeandro Barbosa TOR 12/26/2011 TOR @ CLE W 22 14 5 14 35.7 1 3 33.3 3 3 100.0 0 0 0 4 0 0 2 4 -6
+p701
+aVJames Johnson TOR 12/26/2011 TOR @ CLE W 36 5 2 4 50.0 1 1 100.0 0 0 - 0 6 6 5 2 3 4 1 6
+p702
+a.

@@ -1,0 +1,1728 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGrant Jerrett UTA 04/15/2015 UTA @ HOU L 13 7 3 6 50.0 0 1 0.0 1 1 100.0 0 3 3 1 1 0 0 3 -1
+p2
+aVRudy Gobert UTA 04/15/2015 UTA @ HOU L 24 8 3 6 50.0 0 0 - 2 2 100.0 3 5 8 0 1 3 2 0 -26
+p3
+aVDante Exum UTA 04/15/2015 UTA @ HOU L 17 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 0 0 1 2 1 -20
+p4
+aVJoe Ingles UTA 04/15/2015 UTA @ HOU L 17 0 0 6 0.0 0 3 0.0 0 0 - 0 2 2 2 1 0 2 2 -18
+p5
+aVRodney Hood UTA 04/15/2015 UTA @ HOU L 22 10 4 12 33.3 2 3 66.7 0 0 - 0 2 2 2 1 1 2 3 -16
+p6
+aVJeremy Evans UTA 04/15/2015 UTA @ HOU L 22 10 4 9 44.4 0 1 0.0 2 3 66.7 4 2 6 3 2 0 0 1 -16
+p7
+aVChris Johnson UTA 04/15/2015 UTA @ HOU L 30 13 6 10 60.0 1 4 25.0 0 0 - 0 2 2 0 1 0 1 1 -14
+p8
+aVTrey Burke UTA 04/15/2015 UTA @ HOU L 19 4 1 11 9.1 1 5 20.0 1 2 50.0 1 1 2 4 2 0 1 1 -18
+p9
+aVDerrick Favors UTA 04/15/2015 UTA @ HOU L 9 4 2 6 33.3 0 1 0.0 0 1 0.0 3 1 4 1 0 0 2 2 -11
+p10
+aVJack Cooley UTA 04/15/2015 UTA @ HOU L 17 8 3 7 42.9 0 0 - 2 5 40.0 3 3 6 0 1 1 0 4 9
+p11
+aVBryce Cotton UTA 04/15/2015 UTA @ HOU L 25 14 7 14 50.0 0 2 0.0 0 0 - 0 3 3 3 0 0 2 1 -3
+p12
+aVElijah Millsap UTA 04/15/2015 UTA @ HOU L 25 9 3 8 37.5 1 4 25.0 2 4 50.0 0 4 4 7 2 0 0 2 4
+p13
+aVJoe Ingles UTA 04/13/2015 UTA vs. DAL W 27 15 6 9 66.7 2 5 40.0 1 1 100.0 0 1 1 3 1 0 2 0 3
+p14
+aVChris Johnson UTA 04/13/2015 UTA vs. DAL W 23 13 5 6 83.3 3 3 100.0 0 0 - 0 1 1 1 1 0 2 4 20
+p15
+aVBryce Cotton UTA 04/13/2015 UTA vs. DAL W 26 21 8 15 53.3 1 5 20.0 4 4 100.0 0 2 2 4 1 0 1 0 6
+p16
+aVGrant Jerrett UTA 04/13/2015 UTA vs. DAL W 11 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 1 0 1 1 2
+p17
+aVRodney Hood UTA 04/13/2015 UTA vs. DAL W 27 6 2 11 18.2 2 5 40.0 0 0 - 1 0 1 4 1 0 1 2 9
+p18
+aVDante Exum UTA 04/13/2015 UTA vs. DAL W 28 10 4 9 44.4 2 6 33.3 0 0 - 0 1 1 3 2 0 2 1 3
+p19
+aVJack Cooley UTA 04/13/2015 UTA vs. DAL W 6 4 0 0 - 0 0 - 4 10 40.0 1 1 2 0 0 0 1 2 1
+p20
+aVTrevor Booker UTA 04/13/2015 UTA vs. DAL W 30 13 5 10 50.0 1 3 33.3 2 4 50.0 3 9 12 2 0 3 2 3 10
+p21
+aVElijah Millsap UTA 04/13/2015 UTA vs. DAL W 13 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 3 0 0 1 4 10
+p22
+aVJeremy Evans UTA 04/13/2015 UTA vs. DAL W 16 1 0 1 0.0 0 0 - 1 2 50.0 0 5 5 0 2 0 0 0 6
+p23
+aVRudy Gobert UTA 04/13/2015 UTA vs. DAL W 33 20 9 16 56.3 0 0 - 2 3 66.7 5 12 17 3 1 3 1 2 15
+p24
+aVJeremy Evans UTA 04/11/2015 UTA @ POR W 15 12 3 5 60.0 0 0 - 6 6 100.0 3 2 5 1 1 0 0 2 17
+p25
+aVRodney Hood UTA 04/11/2015 UTA @ POR W 31 21 7 13 53.8 0 1 0.0 7 8 87.5 0 2 2 8 1 0 1 2 -5
+p26
+aVTrevor Booker UTA 04/11/2015 UTA @ POR W 36 36 12 15 80.0 4 4 100.0 8 14 57.1 4 5 9 1 2 1 0 1 -1
+p27
+aVJack Cooley UTA 04/11/2015 UTA @ POR W 8 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 1 0 1 10
+p28
+aVRudy Gobert UTA 04/11/2015 UTA @ POR W 35 6 2 7 28.6 0 0 - 2 4 50.0 3 8 11 1 2 2 3 2 -12
+p29
+aVBryce Cotton UTA 04/11/2015 UTA @ POR W 25 11 3 12 25.0 0 3 0.0 5 5 100.0 1 2 3 3 1 0 2 1 15
+p30
+aVJoe Ingles UTA 04/11/2015 UTA @ POR W 18 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 4 3 -8
+p31
+aVDante Exum UTA 04/11/2015 UTA @ POR W 23 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 3 1 0 6 3 -13
+p32
+aVElijah Millsap UTA 04/11/2015 UTA @ POR W 23 11 3 8 37.5 0 2 0.0 5 5 100.0 0 7 7 0 1 0 0 2 12
+p33
+aVChris Johnson UTA 04/11/2015 UTA @ POR W 25 11 5 9 55.6 1 3 33.3 0 0 - 2 4 6 1 0 0 0 0 15
+p34
+aVElijah Millsap UTA 04/10/2015 UTA vs. MEM L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 2 2 -3
+p35
+aVJeremy Evans UTA 04/10/2015 UTA vs. MEM L 10 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 11
+p36
+aVRudy Gobert UTA 04/10/2015 UTA vs. MEM L 36 14 7 11 63.6 0 0 - 0 0 - 7 7 14 2 0 3 3 3 -11
+p37
+aVJack Cooley UTA 04/10/2015 UTA vs. MEM L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p38
+aVBryce Cotton UTA 04/10/2015 UTA vs. MEM L 15 11 4 5 80.0 2 2 100.0 1 3 33.3 0 1 1 0 1 0 0 1 6
+p39
+aVJoe Ingles UTA 04/10/2015 UTA vs. MEM L 17 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 1 0 0 1 2 0
+p40
+aVGordon Hayward UTA 04/10/2015 UTA vs. MEM L 38 27 8 16 50.0 2 4 50.0 9 12 75.0 1 6 7 3 2 0 2 1 6
+p41
+aVDerrick Favors UTA 04/10/2015 UTA vs. MEM L 31 5 2 10 20.0 0 0 - 1 2 50.0 1 9 10 1 1 0 2 4 0
+p42
+aVRodney Hood UTA 04/10/2015 UTA vs. MEM L 37 18 6 14 42.9 3 7 42.9 3 3 100.0 0 3 3 2 0 0 1 2 -3
+p43
+aVTrevor Booker UTA 04/10/2015 UTA vs. MEM L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 2 4 -2
+p44
+aVDante Exum UTA 04/10/2015 UTA vs. MEM L 33 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 5 0 0 2 1 -7
+p45
+aVChris Johnson UTA 04/08/2015 UTA vs. SAC W 17 6 1 4 25.0 1 4 25.0 3 3 100.0 0 0 0 1 1 0 0 2 2
+p46
+aVGordon Hayward UTA 04/08/2015 UTA vs. SAC W 20 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -4
+p47
+aVRodney Hood UTA 04/08/2015 UTA vs. SAC W 33 20 7 14 50.0 3 7 42.9 3 3 100.0 0 8 8 4 0 1 3 3 8
+p48
+aVJack Cooley UTA 04/08/2015 UTA vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p49
+aVJeremy Evans UTA 04/08/2015 UTA vs. SAC W 9 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 1 3 -2
+p50
+aVJoe Ingles UTA 04/08/2015 UTA vs. SAC W 22 10 4 7 57.1 2 4 50.0 0 0 - 0 3 3 6 2 0 1 0 11
+p51
+aVDerrick Favors UTA 04/08/2015 UTA vs. SAC W 22 18 9 13 69.2 0 0 - 0 0 - 5 6 11 1 1 3 1 3 9
+p52
+aVRudy Gobert UTA 04/08/2015 UTA vs. SAC W 30 12 4 7 57.1 0 0 - 4 8 50.0 4 6 10 3 1 2 1 2 4
+p53
+aVDante Exum UTA 04/08/2015 UTA vs. SAC W 33 12 4 10 40.0 4 9 44.4 0 0 - 0 1 1 3 0 1 4 2 13
+p54
+aVTrevor Booker UTA 04/08/2015 UTA vs. SAC W 28 6 2 6 33.3 0 2 0.0 2 4 50.0 3 6 9 4 0 1 0 4 15
+p55
+aVTrey Burke UTA 04/08/2015 UTA vs. SAC W 21 11 4 9 44.4 3 5 60.0 0 1 0.0 0 2 2 0 0 0 5 1 3
+p56
+aVJeremy Evans UTA 04/05/2015 UTA @ SAC W 8 10 4 6 66.7 0 0 - 2 2 100.0 2 0 2 0 1 1 1 0 10
+p57
+aVChris Johnson UTA 04/05/2015 UTA @ SAC W 11 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 2 0 1 2 1
+p58
+aVRudy Gobert UTA 04/05/2015 UTA @ SAC W 38 10 5 7 71.4 0 0 - 0 0 - 3 6 9 3 1 2 3 4 10
+p59
+aVDerrick Favors UTA 04/05/2015 UTA @ SAC W 16 11 5 11 45.5 0 0 - 1 1 100.0 3 2 5 0 2 1 0 1 -1
+p60
+aVDante Exum UTA 04/05/2015 UTA @ SAC W 36 8 3 7 42.9 2 5 40.0 0 1 0.0 0 1 1 6 1 0 4 3 4
+p61
+aVJoe Ingles UTA 04/05/2015 UTA @ SAC W 21 8 3 5 60.0 2 4 50.0 0 0 - 0 3 3 0 0 0 1 1 5
+p62
+aVJack Cooley UTA 04/05/2015 UTA @ SAC W 6 0 0 1 0.0 0 0 - 0 2 0.0 2 3 5 0 0 0 0 2 3
+p63
+aVElijah Millsap UTA 04/05/2015 UTA @ SAC W 10 5 2 5 40.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 2 4 -1
+p64
+aVGordon Hayward UTA 04/05/2015 UTA @ SAC W 20 5 2 11 18.2 1 3 33.3 0 0 - 0 5 5 3 0 0 3 0 -3
+p65
+aVTrevor Booker UTA 04/05/2015 UTA @ SAC W 27 8 4 9 44.4 0 1 0.0 0 0 - 3 6 9 2 0 2 0 2 -8
+p66
+aVRodney Hood UTA 04/05/2015 UTA @ SAC W 34 25 9 17 52.9 1 6 16.7 6 7 85.7 0 3 3 2 4 0 0 4 10
+p67
+aVBryce Cotton UTA 04/05/2015 UTA @ SAC W 13 8 2 4 50.0 1 2 50.0 3 4 75.0 1 3 4 2 0 0 3 1 0
+p68
+aVGordon Hayward UTA 04/04/2015 UTA @ PHX L 39 21 7 18 38.9 2 6 33.3 5 6 83.3 2 4 6 4 2 0 4 2 -4
+p69
+aVRodney Hood UTA 04/04/2015 UTA @ PHX L 29 17 7 12 58.3 1 5 20.0 2 2 100.0 1 4 5 2 1 0 0 3 0
+p70
+aVChris Johnson UTA 04/04/2015 UTA @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 3 2
+p71
+aVDante Exum UTA 04/04/2015 UTA @ PHX L 35 9 4 8 50.0 1 2 50.0 0 0 - 1 1 2 3 0 0 2 4 -5
+p72
+aVTrevor Booker UTA 04/04/2015 UTA @ PHX L 21 1 0 3 0.0 0 2 0.0 1 2 50.0 2 4 6 1 2 0 1 4 -16
+p73
+aVDerrick Favors UTA 04/04/2015 UTA @ PHX L 36 14 4 15 26.7 0 0 - 6 6 100.0 2 5 7 3 1 1 4 2 10
+p74
+aVRudy Gobert UTA 04/04/2015 UTA @ PHX L 38 8 2 5 40.0 0 0 - 4 6 66.7 3 12 15 2 1 1 5 1 6
+p75
+aVJoe Ingles UTA 04/04/2015 UTA @ PHX L 17 8 2 5 40.0 2 3 66.7 2 2 100.0 0 0 0 1 1 0 1 1 -1
+p76
+aVBryce Cotton UTA 04/04/2015 UTA @ PHX L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 4
+p77
+aVElijah Millsap UTA 04/04/2015 UTA @ PHX L 9 4 2 5 40.0 0 2 0.0 0 0 - 2 3 5 1 1 0 0 3 -6
+p78
+aVJoe Ingles UTA 04/01/2015 UTA vs. DEN W 27 12 4 7 57.1 4 5 80.0 0 0 - 0 3 3 0 0 0 2 2 13
+p79
+aVBryce Cotton UTA 04/01/2015 UTA vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p80
+aVDerrick Favors UTA 04/01/2015 UTA vs. DEN W 25 19 9 16 56.3 0 0 - 1 2 50.0 3 4 7 1 0 3 3 4 -3
+p81
+aVGordon Hayward UTA 04/01/2015 UTA vs. DEN W 34 13 3 8 37.5 2 4 50.0 5 5 100.0 0 3 3 2 1 1 0 0 -6
+p82
+aVTrey Burke UTA 04/01/2015 UTA vs. DEN W 25 12 5 12 41.7 2 5 40.0 0 0 - 0 5 5 4 0 0 1 0 15
+p83
+aVRudy Gobert UTA 04/01/2015 UTA vs. DEN W 30 20 7 7 100.0 0 0 - 6 11 54.5 3 9 12 2 1 2 2 3 20
+p84
+aVJeremy Evans UTA 04/01/2015 UTA vs. DEN W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p85
+aVJack Cooley UTA 04/01/2015 UTA vs. DEN W 1 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 1 0 1 -1
+p86
+aVElijah Millsap UTA 04/01/2015 UTA vs. DEN W 21 2 1 5 20.0 0 1 0.0 0 0 - 3 6 9 1 2 0 2 1 20
+p87
+aVChris Johnson UTA 04/01/2015 UTA vs. DEN W 12 4 2 5 40.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 -3
+p88
+aVDante Exum UTA 04/01/2015 UTA vs. DEN W 29 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 12 0 0 3 2 9
+p89
+aVTrevor Booker UTA 04/01/2015 UTA vs. DEN W 29 9 3 9 33.3 1 3 33.3 2 4 50.0 1 3 4 2 1 1 1 1 9
+p90
+aVGordon Hayward UTA 03/30/2015 UTA @ MIN W 34 22 7 15 46.7 2 5 40.0 6 6 100.0 1 5 6 5 4 0 4 1 22
+p91
+aVBryce Cotton UTA 03/30/2015 UTA @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p92
+aVJeremy Evans UTA 03/30/2015 UTA @ MIN W 18 4 2 4 50.0 0 1 0.0 0 0 - 2 3 5 0 0 0 0 4 -1
+p93
+aVChris Johnson UTA 03/30/2015 UTA @ MIN W 18 6 3 9 33.3 0 6 0.0 0 0 - 0 1 1 1 1 0 1 1 18
+p94
+aVTrey Burke UTA 03/30/2015 UTA @ MIN W 24 19 8 17 47.1 2 5 40.0 1 1 100.0 1 5 6 3 1 0 0 2 9
+p95
+aVRodney Hood UTA 03/30/2015 UTA @ MIN W 11 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 4 11
+p96
+aVRudy Gobert UTA 03/30/2015 UTA @ MIN W 37 15 4 7 57.1 0 0 - 7 9 77.8 5 7 12 2 1 3 1 2 26
+p97
+aVDante Exum UTA 03/30/2015 UTA @ MIN W 25 3 1 6 16.7 1 6 16.7 0 0 - 0 1 1 0 0 0 3 1 16
+p98
+aVJoe Ingles UTA 03/30/2015 UTA @ MIN W 25 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 4 0 1 0 2 -4
+p99
+aVJack Cooley UTA 03/30/2015 UTA @ MIN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -3
+p100
+aVTrevor Booker UTA 03/30/2015 UTA @ MIN W 33 17 7 11 63.6 1 2 50.0 2 2 100.0 5 8 13 1 0 2 3 2 15
+p101
+aVElijah Millsap UTA 03/30/2015 UTA @ MIN W 10 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 2 0 0 0 3 -6
+p102
+aVDante Exum UTA 03/28/2015 UTA vs. OKC W 19 6 2 8 25.0 2 5 40.0 0 0 - 0 1 1 0 0 0 2 4 4
+p103
+aVJoe Ingles UTA 03/28/2015 UTA vs. OKC W 15 6 3 4 75.0 0 1 0.0 0 0 - 1 0 1 2 1 0 1 2 8
+p104
+aVRudy Gobert UTA 03/28/2015 UTA vs. OKC W 41 13 3 6 50.0 0 0 - 7 10 70.0 7 8 15 1 3 4 0 5 6
+p105
+aVElijah Millsap UTA 03/28/2015 UTA vs. OKC W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 1 0 1 -5
+p106
+aVGordon Hayward UTA 03/28/2015 UTA vs. OKC W 38 17 4 16 25.0 0 6 0.0 9 12 75.0 1 4 5 5 2 2 4 3 -1
+p107
+aVJeremy Evans UTA 03/28/2015 UTA vs. OKC W 7 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 7
+p108
+aVRodney Hood UTA 03/28/2015 UTA vs. OKC W 29 7 3 8 37.5 1 4 25.0 0 1 0.0 0 3 3 0 1 1 1 2 1
+p109
+aVJack Cooley UTA 03/28/2015 UTA vs. OKC W 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -6
+p110
+aVTrey Burke UTA 03/28/2015 UTA vs. OKC W 33 22 8 23 34.8 1 8 12.5 5 7 71.4 1 5 6 4 4 0 2 3 5
+p111
+aVChris Johnson UTA 03/28/2015 UTA vs. OKC W 15 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 0 1 0 0 2 8
+p112
+aVTrevor Booker UTA 03/28/2015 UTA vs. OKC W 33 12 4 9 44.4 1 1 100.0 3 5 60.0 2 1 3 0 1 0 0 5 -2
+p113
+aVDante Exum UTA 03/27/2015 UTA @ DEN L 12 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 1 -5
+p114
+aVRudy Gobert UTA 03/27/2015 UTA @ DEN L 35 14 5 7 71.4 0 0 - 4 4 100.0 4 10 14 3 0 1 1 0 1
+p115
+aVJack Cooley UTA 03/27/2015 UTA @ DEN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 0
+p116
+aVJeremy Evans UTA 03/27/2015 UTA @ DEN L 12 2 0 0 - 0 0 - 2 2 100.0 1 1 2 2 0 0 0 3 -3
+p117
+aVGordon Hayward UTA 03/27/2015 UTA @ DEN L 32 24 9 19 47.4 1 7 14.3 5 6 83.3 0 7 7 3 1 1 2 1 -18
+p118
+aVDerrick Favors UTA 03/27/2015 UTA @ DEN L 19 7 2 9 22.2 0 0 - 3 6 50.0 1 4 5 1 0 2 4 4 -15
+p119
+aVTrey Burke UTA 03/27/2015 UTA @ DEN L 28 6 3 12 25.0 0 5 0.0 0 0 - 0 4 4 4 1 0 0 0 -1
+p120
+aVChris Johnson UTA 03/27/2015 UTA @ DEN L 17 6 1 3 33.3 1 3 33.3 3 3 100.0 0 0 0 0 1 0 1 1 -14
+p121
+aVTrevor Booker UTA 03/27/2015 UTA @ DEN L 20 6 2 5 40.0 0 1 0.0 2 2 100.0 5 0 5 5 2 1 0 1 -7
+p122
+aVElijah Millsap UTA 03/27/2015 UTA @ DEN L 17 16 6 8 75.0 2 2 100.0 2 6 33.3 1 2 3 0 3 1 3 3 -3
+p123
+aVBryce Cotton UTA 03/27/2015 UTA @ DEN L 13 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -8
+p124
+aVJoe Ingles UTA 03/27/2015 UTA @ DEN L 30 6 2 10 20.0 1 7 14.3 1 2 50.0 0 0 0 2 2 1 0 2 -7
+p125
+aVTrey Burke UTA 03/25/2015 UTA vs. POR L 39 22 9 19 47.4 0 1 0.0 4 4 100.0 1 3 4 3 2 0 1 1 7
+p126
+aVElijah Millsap UTA 03/25/2015 UTA vs. POR L 33 9 4 10 40.0 1 3 33.3 0 4 0.0 1 7 8 2 3 0 4 2 -8
+p127
+aVTrevor Booker UTA 03/25/2015 UTA vs. POR L 23 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 1 1 0 2 0
+p128
+aVJack Cooley UTA 03/25/2015 UTA vs. POR L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p129
+aVDante Exum UTA 03/25/2015 UTA vs. POR L 30 3 1 5 20.0 1 3 33.3 0 0 - 1 2 3 2 0 0 1 1 -15
+p130
+aVJoe Ingles UTA 03/25/2015 UTA vs. POR L 30 10 4 10 40.0 1 4 25.0 1 2 50.0 1 3 4 2 3 0 1 4 2
+p131
+aVDerrick Favors UTA 03/25/2015 UTA vs. POR L 32 26 9 19 47.4 0 1 0.0 8 9 88.9 5 8 13 0 1 1 1 5 9
+p132
+aVRudy Gobert UTA 03/25/2015 UTA vs. POR L 34 12 5 8 62.5 0 0 - 2 4 50.0 2 8 10 0 0 0 1 4 -8
+p133
+aVIan Clark UTA 03/25/2015 UTA vs. POR L 14 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 0 5
+p134
+aVJeremy Evans UTA 03/23/2015 UTA vs. MIN L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p135
+aVJoe Ingles UTA 03/23/2015 UTA vs. MIN L 34 18 7 10 70.0 4 6 66.7 0 0 - 1 1 2 0 1 0 6 3 -9
+p136
+aVBryce Cotton UTA 03/23/2015 UTA vs. MIN L 11 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 -7
+p137
+aVElijah Millsap UTA 03/23/2015 UTA vs. MIN L 30 13 4 9 44.4 0 2 0.0 5 6 83.3 2 2 4 1 2 1 2 3 3
+p138
+aVRudy Gobert UTA 03/23/2015 UTA vs. MIN L 41 18 7 11 63.6 0 0 - 4 8 50.0 11 6 17 1 1 6 1 3 0
+p139
+aVRodney Hood UTA 03/23/2015 UTA vs. MIN L 20 8 3 8 37.5 2 2 100.0 0 0 - 0 0 0 4 2 0 1 1 9
+p140
+aVDerrick Favors UTA 03/23/2015 UTA vs. MIN L 42 19 8 13 61.5 0 0 - 3 7 42.9 4 8 12 4 0 2 0 4 0
+p141
+aVTrey Burke UTA 03/23/2015 UTA vs. MIN L 38 16 4 22 18.2 2 13 15.4 6 6 100.0 0 1 1 6 4 0 5 2 9
+p142
+aVTrevor Booker UTA 03/23/2015 UTA vs. MIN L 20 5 2 5 40.0 0 0 - 1 4 25.0 0 5 5 1 0 2 1 1 -6
+p143
+aVDante Exum UTA 03/23/2015 UTA vs. MIN L 25 4 2 5 40.0 0 3 0.0 0 0 - 2 1 3 3 1 0 0 3 -6
+p144
+aVElijah Millsap UTA 03/21/2015 UTA @ GSW L 20 4 1 3 33.3 1 1 100.0 1 2 50.0 0 1 1 0 0 0 2 1 -5
+p145
+aVRudy Gobert UTA 03/21/2015 UTA @ GSW L 34 5 0 5 0.0 0 0 - 5 6 83.3 3 6 9 3 1 0 1 4 -10
+p146
+aVDante Exum UTA 03/21/2015 UTA @ GSW L 18 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 3 3 -9
+p147
+aVRodney Hood UTA 03/21/2015 UTA @ GSW L 32 19 9 14 64.3 1 3 33.3 0 0 - 0 1 1 0 0 0 1 3 -9
+p148
+aVTrey Burke UTA 03/21/2015 UTA @ GSW L 29 20 7 16 43.8 5 11 45.5 1 2 50.0 0 0 0 5 0 0 1 0 -4
+p149
+aVBryce Cotton UTA 03/21/2015 UTA @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p150
+aVJoe Ingles UTA 03/21/2015 UTA @ GSW L 14 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 0 1 0 2 3 -10
+p151
+aVJack Cooley UTA 03/21/2015 UTA @ GSW L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -9
+p152
+aVGordon Hayward UTA 03/21/2015 UTA @ GSW L 34 11 3 13 23.1 1 4 25.0 4 4 100.0 1 2 3 7 1 0 2 0 -4
+p153
+aVTrevor Booker UTA 03/21/2015 UTA @ GSW L 22 6 3 5 60.0 0 0 - 0 0 - 0 8 8 1 0 0 1 3 -9
+p154
+aVDerrick Favors UTA 03/21/2015 UTA @ GSW L 35 21 8 15 53.3 1 1 100.0 4 5 80.0 3 8 11 2 1 2 2 1 -4
+p155
+aVGordon Hayward UTA 03/19/2015 UTA @ LAL W 35 22 5 10 50.0 1 4 25.0 11 13 84.6 0 5 5 5 4 1 1 0 4
+p156
+aVTrey Burke UTA 03/19/2015 UTA @ LAL W 26 17 7 11 63.6 3 6 50.0 0 2 0.0 0 2 2 2 0 0 2 1 13
+p157
+aVJack Cooley UTA 03/19/2015 UTA @ LAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 1 2 1
+p158
+aVDante Exum UTA 03/19/2015 UTA @ LAL W 22 0 0 5 0.0 0 3 0.0 0 0 - 0 3 3 2 2 0 4 2 -6
+p159
+aVElijah Millsap UTA 03/19/2015 UTA @ LAL W 23 3 1 2 50.0 1 2 50.0 0 2 0.0 0 5 5 2 1 2 1 3 17
+p160
+aVTrevor Booker UTA 03/19/2015 UTA @ LAL W 22 10 3 5 60.0 1 1 100.0 3 4 75.0 2 3 5 4 0 1 1 2 11
+p161
+aVDerrick Favors UTA 03/19/2015 UTA @ LAL W 33 14 5 15 33.3 0 1 0.0 4 6 66.7 0 7 7 0 1 1 2 4 1
+p162
+aVRudy Gobert UTA 03/19/2015 UTA @ LAL W 36 3 1 1 100.0 0 0 - 1 2 50.0 0 7 7 0 1 3 1 2 1
+p163
+aVRodney Hood UTA 03/19/2015 UTA @ LAL W 22 2 0 6 0.0 0 3 0.0 2 2 100.0 0 1 1 3 0 0 0 1 -3
+p164
+aVJoe Ingles UTA 03/19/2015 UTA @ LAL W 17 9 3 7 42.9 3 5 60.0 0 0 - 0 1 1 1 0 0 1 0 -4
+p165
+aVTrey Burke UTA 03/18/2015 UTA vs. WAS L 28 14 5 8 62.5 3 5 60.0 1 2 50.0 0 0 0 6 2 0 1 2 -6
+p166
+aVTrevor Booker UTA 03/18/2015 UTA vs. WAS L 19 7 3 7 42.9 0 1 0.0 1 2 50.0 1 3 4 0 0 0 0 1 0
+p167
+aVElijah Millsap UTA 03/18/2015 UTA vs. WAS L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 3 0 0 3 -7
+p168
+aVDerrick Favors UTA 03/18/2015 UTA vs. WAS L 38 16 8 18 44.4 0 0 - 0 2 0.0 5 4 9 1 0 3 2 4 6
+p169
+aVGordon Hayward UTA 03/18/2015 UTA vs. WAS L 35 26 9 19 47.4 1 6 16.7 7 9 77.8 1 3 4 4 1 0 2 1 -3
+p170
+aVRudy Gobert UTA 03/18/2015 UTA vs. WAS L 37 9 3 5 60.0 0 0 - 3 8 37.5 5 9 14 4 1 2 1 1 -13
+p171
+aVDante Exum UTA 03/18/2015 UTA vs. WAS L 20 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 2 2
+p172
+aVRodney Hood UTA 03/18/2015 UTA vs. WAS L 29 8 4 9 44.4 0 3 0.0 0 1 0.0 1 2 3 4 0 0 3 4 -2
+p173
+aVJack Cooley UTA 03/18/2015 UTA vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p174
+aVJoe Ingles UTA 03/18/2015 UTA vs. WAS L 21 4 2 7 28.6 0 2 0.0 0 0 - 1 0 1 2 2 0 0 1 4
+p175
+aVJoe Ingles UTA 03/16/2015 UTA vs. CHA W 24 5 2 3 66.7 1 1 100.0 0 0 - 2 1 3 1 0 0 2 3 -5
+p176
+aVTrevor Booker UTA 03/16/2015 UTA vs. CHA W 19 0 0 5 0.0 0 0 - 0 2 0.0 2 4 6 0 0 0 1 1 14
+p177
+aVTrey Burke UTA 03/16/2015 UTA vs. CHA W 22 8 3 14 21.4 2 5 40.0 0 0 - 2 4 6 4 0 1 0 2 7
+p178
+aVDante Exum UTA 03/16/2015 UTA vs. CHA W 27 11 4 8 50.0 3 5 60.0 0 0 - 0 1 1 3 0 0 0 1 25
+p179
+aVJeremy Evans UTA 03/16/2015 UTA vs. CHA W 6 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 1 0 1 0 -5
+p180
+aVRodney Hood UTA 03/16/2015 UTA vs. CHA W 22 24 9 11 81.8 5 5 100.0 1 1 100.0 0 3 3 3 1 0 0 3 34
+p181
+aVGordon Hayward UTA 03/16/2015 UTA vs. CHA W 27 18 5 12 41.7 3 5 60.0 5 6 83.3 3 4 7 3 0 1 1 1 23
+p182
+aVElijah Millsap UTA 03/16/2015 UTA vs. CHA W 24 5 2 7 28.6 1 3 33.3 0 0 - 0 3 3 2 0 1 2 2 9
+p183
+aVRudy Gobert UTA 03/16/2015 UTA vs. CHA W 30 9 2 4 50.0 0 0 - 5 8 62.5 4 16 20 2 0 1 3 2 21
+p184
+aVBryce Cotton UTA 03/16/2015 UTA vs. CHA W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p185
+aVJack Cooley UTA 03/16/2015 UTA vs. CHA W 10 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 0 0 1 0
+p186
+aVDerrick Favors UTA 03/16/2015 UTA vs. CHA W 25 10 5 9 55.6 0 0 - 0 0 - 1 6 7 1 0 1 3 3 23
+p187
+aVRudy Gobert UTA 03/14/2015 UTA vs. DET W 39 10 5 8 62.5 0 0 - 0 2 0.0 5 14 19 1 1 2 2 1 11
+p188
+aVRodney Hood UTA 03/14/2015 UTA vs. DET W 33 12 5 10 50.0 2 4 50.0 0 0 - 0 6 6 1 3 0 0 3 7
+p189
+aVGordon Hayward UTA 03/14/2015 UTA vs. DET W 36 12 4 8 50.0 0 0 - 4 6 66.7 0 5 5 3 1 0 6 1 15
+p190
+aVTrevor Booker UTA 03/14/2015 UTA vs. DET W 18 6 3 6 50.0 0 0 - 0 0 - 3 4 7 0 0 2 1 1 -9
+p191
+aVElijah Millsap UTA 03/14/2015 UTA vs. DET W 14 5 2 6 33.3 1 2 50.0 0 0 - 1 0 1 1 0 0 1 3 -8
+p192
+aVTrey Burke UTA 03/14/2015 UTA vs. DET W 17 9 3 6 50.0 1 2 50.0 2 3 66.7 0 0 0 1 0 0 1 3 -6
+p193
+aVJoe Ingles UTA 03/14/2015 UTA vs. DET W 17 0 0 6 0.0 0 3 0.0 0 0 - 0 4 4 4 1 0 1 0 -4
+p194
+aVDante Exum UTA 03/14/2015 UTA vs. DET W 32 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 5 0 0 2 2 11
+p195
+aVDerrick Favors UTA 03/14/2015 UTA vs. DET W 35 26 8 14 57.1 0 0 - 10 13 76.9 1 0 1 1 2 4 1 3 -2
+p196
+aVDante Exum UTA 03/12/2015 UTA vs. HOU W 34 10 4 12 33.3 2 9 22.2 0 0 - 2 3 5 1 0 1 2 1 23
+p197
+aVGordon Hayward UTA 03/12/2015 UTA vs. HOU W 31 29 10 17 58.8 3 4 75.0 6 10 60.0 0 4 4 7 1 1 3 2 24
+p198
+aVTrevor Booker UTA 03/12/2015 UTA vs. HOU W 17 9 4 5 80.0 1 2 50.0 0 1 0.0 3 4 7 2 1 0 0 1 -8
+p199
+aVTrey Burke UTA 03/12/2015 UTA vs. HOU W 22 0 0 8 0.0 0 3 0.0 0 0 - 1 1 2 3 0 0 2 1 -7
+p200
+aVBryce Cotton UTA 03/12/2015 UTA vs. HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p201
+aVRodney Hood UTA 03/12/2015 UTA vs. HOU W 33 20 8 16 50.0 3 8 37.5 1 2 50.0 0 1 1 2 1 0 1 1 16
+p202
+aVJerrelle Benimon UTA 03/12/2015 UTA vs. HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p203
+aVDerrick Favors UTA 03/12/2015 UTA vs. HOU W 29 10 5 10 50.0 0 1 0.0 0 1 0.0 2 6 8 4 0 4 1 4 20
+p204
+aVJoe Ingles UTA 03/12/2015 UTA vs. HOU W 25 10 4 8 50.0 2 4 50.0 0 0 - 1 5 6 0 1 0 1 1 14
+p205
+aVRudy Gobert UTA 03/12/2015 UTA vs. HOU W 36 19 8 11 72.7 0 0 - 3 3 100.0 12 10 22 2 0 4 1 2 11
+p206
+aVJeremy Evans UTA 03/12/2015 UTA vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p207
+aVElijah Millsap UTA 03/12/2015 UTA vs. HOU W 12 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 2 1 0 1 5 -3
+p208
+aVJoe Ingles UTA 03/10/2015 UTA vs. NYK W 36 12 4 8 50.0 1 3 33.3 3 3 100.0 0 3 3 5 1 0 2 2 14
+p209
+aVDerrick Favors UTA 03/10/2015 UTA vs. NYK W 35 29 11 17 64.7 0 0 - 7 9 77.8 2 10 12 0 2 0 1 4 4
+p210
+aVRudy Gobert UTA 03/10/2015 UTA vs. NYK W 38 10 4 8 50.0 0 0 - 2 5 40.0 2 12 14 1 3 4 1 1 2
+p211
+aVBryce Cotton UTA 03/10/2015 UTA vs. NYK W 4 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 0 4
+p212
+aVTrey Burke UTA 03/10/2015 UTA vs. NYK W 28 5 1 11 9.1 0 3 0.0 3 6 50.0 0 5 5 2 0 0 2 1 -4
+p213
+aVJeremy Evans UTA 03/10/2015 UTA vs. NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p214
+aVJerrelle Benimon UTA 03/10/2015 UTA vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 0 6
+p215
+aVTrevor Booker UTA 03/10/2015 UTA vs. NYK W 17 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 1
+p216
+aVDante Exum UTA 03/10/2015 UTA vs. NYK W 37 8 3 5 60.0 2 4 50.0 0 0 - 0 1 1 4 1 1 1 2 6
+p217
+aVRodney Hood UTA 03/10/2015 UTA vs. NYK W 25 17 6 16 37.5 3 7 42.9 2 2 100.0 0 1 1 1 1 0 0 3 2
+p218
+aVElijah Millsap UTA 03/10/2015 UTA vs. NYK W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 3 5 -7
+p219
+aVElijah Millsap UTA 03/08/2015 UTA @ BKN W 20 6 2 4 50.0 1 1 100.0 1 2 50.0 0 0 0 2 1 0 1 0 14
+p220
+aVDante Exum UTA 03/08/2015 UTA @ BKN W 28 14 5 6 83.3 4 4 100.0 0 0 - 3 1 4 1 0 1 1 0 -5
+p221
+aVDerrick Favors UTA 03/08/2015 UTA @ BKN W 38 22 8 16 50.0 0 0 - 6 8 75.0 0 8 8 4 0 1 1 2 17
+p222
+aVTrevor Booker UTA 03/08/2015 UTA @ BKN W 22 8 4 7 57.1 0 1 0.0 0 0 - 4 4 8 0 1 0 4 2 -5
+p223
+aVRodney Hood UTA 03/08/2015 UTA @ BKN W 20 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 4 1 0 2 4 -6
+p224
+aVTrey Burke UTA 03/08/2015 UTA @ BKN W 20 12 5 11 45.5 2 5 40.0 0 0 - 0 2 2 4 0 0 0 0 12
+p225
+aVRudy Gobert UTA 03/08/2015 UTA @ BKN W 36 4 1 4 25.0 0 0 - 2 2 100.0 4 7 11 5 0 2 3 3 1
+p226
+aVGordon Hayward UTA 03/08/2015 UTA @ BKN W 33 24 7 15 46.7 2 6 33.3 8 9 88.9 1 4 5 1 3 0 1 1 1
+p227
+aVJoe Ingles UTA 03/08/2015 UTA @ BKN W 23 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 3 0 0 3 0 6
+p228
+aVJoe Ingles UTA 03/06/2015 UTA @ PHI W 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 2 3 0
+p229
+aVElijah Millsap UTA 03/06/2015 UTA @ PHI W 16 6 2 3 66.7 0 0 - 2 3 66.7 0 2 2 1 2 0 4 2 13
+p230
+aVRodney Hood UTA 03/06/2015 UTA @ PHI W 22 9 3 8 37.5 1 3 33.3 2 4 50.0 0 1 1 2 0 0 3 1 -7
+p231
+aVRudy Gobert UTA 03/06/2015 UTA @ PHI W 35 9 3 6 50.0 0 0 - 3 4 75.0 2 13 15 0 2 1 2 1 0
+p232
+aVTrey Burke UTA 03/06/2015 UTA @ PHI W 30 10 3 12 25.0 1 2 50.0 3 4 75.0 0 3 3 1 1 2 1 1 0
+p233
+aVGordon Hayward UTA 03/06/2015 UTA @ PHI W 37 25 7 16 43.8 2 3 66.7 9 10 90.0 1 8 9 4 1 0 1 0 2
+p234
+aVDerrick Favors UTA 03/06/2015 UTA @ PHI W 32 15 5 14 35.7 0 0 - 5 8 62.5 5 5 10 3 1 0 3 5 8
+p235
+aVDante Exum UTA 03/06/2015 UTA @ PHI W 22 5 1 4 25.0 1 2 50.0 2 2 100.0 1 2 3 2 1 0 1 3 7
+p236
+aVJeremy Evans UTA 03/06/2015 UTA @ PHI W 5 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 1 0 1 0 1 -2
+p237
+aVTrevor Booker UTA 03/06/2015 UTA @ PHI W 23 5 1 4 25.0 0 0 - 3 4 75.0 3 2 5 1 1 1 1 3 9
+p238
+aVDerrick Favors UTA 03/04/2015 UTA @ BOS L 30 16 7 10 70.0 0 0 - 2 3 66.7 2 3 5 2 0 1 2 5 0
+p239
+aVRudy Gobert UTA 03/04/2015 UTA @ BOS L 36 10 3 9 33.3 0 0 - 4 6 66.7 3 13 16 3 1 3 2 2 -4
+p240
+aVElijah Millsap UTA 03/04/2015 UTA @ BOS L 11 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 1
+p241
+aVDante Exum UTA 03/04/2015 UTA @ BOS L 19 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 1 0 0 0 0 -3
+p242
+aVJoe Ingles UTA 03/04/2015 UTA @ BOS L 24 3 1 5 20.0 0 3 0.0 1 1 100.0 0 2 2 2 0 0 0 2 -7
+p243
+aVRodney Hood UTA 03/04/2015 UTA @ BOS L 22 8 4 7 57.1 0 2 0.0 0 0 - 0 1 1 0 0 0 2 2 -2
+p244
+aVTrey Burke UTA 03/04/2015 UTA @ BOS L 32 16 7 17 41.2 0 4 0.0 2 4 50.0 1 5 6 8 0 0 2 1 5
+p245
+aVJeremy Evans UTA 03/04/2015 UTA @ BOS L 7 4 2 3 66.7 0 0 - 0 1 0.0 0 3 3 0 0 0 0 1 -7
+p246
+aVTrevor Booker UTA 03/04/2015 UTA @ BOS L 23 11 4 7 57.1 0 1 0.0 3 4 75.0 3 7 10 2 0 0 1 3 9
+p247
+aVGordon Hayward UTA 03/04/2015 UTA @ BOS L 37 13 5 11 45.5 2 5 40.0 1 2 50.0 0 3 3 3 0 0 3 1 3
+p248
+aVRudy Gobert UTA 03/03/2015 UTA @ MEM W 36 15 6 10 60.0 0 0 - 3 4 75.0 6 18 24 2 0 0 2 2 5
+p249
+aVDerrick Favors UTA 03/03/2015 UTA @ MEM W 36 21 8 14 57.1 0 0 - 5 6 83.3 2 4 6 3 2 3 1 3 15
+p250
+aVGordon Hayward UTA 03/03/2015 UTA @ MEM W 35 21 9 19 47.4 0 6 0.0 3 4 75.0 3 5 8 5 3 0 2 0 8
+p251
+aVDante Exum UTA 03/03/2015 UTA @ MEM W 27 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 7 1 2 2 3 27
+p252
+aVJoe Ingles UTA 03/03/2015 UTA @ MEM W 35 8 3 5 60.0 2 4 50.0 0 0 - 0 3 3 1 1 0 2 1 18
+p253
+aVJeremy Evans UTA 03/03/2015 UTA @ MEM W 12 4 2 3 66.7 0 0 - 0 0 - 1 6 7 0 0 1 0 1 12
+p254
+aVTrevor Booker UTA 03/03/2015 UTA @ MEM W 12 4 2 5 40.0 0 1 0.0 0 0 - 2 1 3 0 0 0 3 3 -10
+p255
+aVRodney Hood UTA 03/03/2015 UTA @ MEM W 14 13 3 5 60.0 2 4 50.0 5 5 100.0 0 1 1 1 0 1 2 2 -2
+p256
+aVElijah Millsap UTA 03/03/2015 UTA @ MEM W 11 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p257
+aVTrey Burke UTA 03/03/2015 UTA @ MEM W 22 4 2 11 18.2 0 5 0.0 0 0 - 0 0 0 3 0 0 1 2 -14
+p258
+aVElijah Millsap UTA 02/28/2015 UTA vs. MIL W 26 3 0 6 0.0 0 3 0.0 3 4 75.0 0 7 7 1 5 0 1 4 9
+p259
+aVJoe Ingles UTA 02/28/2015 UTA vs. MIL W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 4 0 0
+p260
+aVDerrick Favors UTA 02/28/2015 UTA vs. MIL W 37 16 7 11 63.6 0 0 - 2 2 100.0 5 7 12 0 3 3 3 5 2
+p261
+aVRodney Hood UTA 02/28/2015 UTA vs. MIL W 19 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 4 1 0 2 1 7
+p262
+aVTrevor Booker UTA 02/28/2015 UTA vs. MIL W 27 12 6 9 66.7 0 0 - 0 0 - 6 0 6 0 2 1 2 2 14
+p263
+aVRudy Gobert UTA 02/28/2015 UTA vs. MIL W 32 12 3 3 100.0 0 0 - 6 9 66.7 1 9 10 0 2 3 4 2 -2
+p264
+aVGordon Hayward UTA 02/28/2015 UTA vs. MIL W 37 14 4 18 22.2 1 5 20.0 5 6 83.3 1 1 2 4 1 0 3 0 -2
+p265
+aVDante Exum UTA 02/28/2015 UTA vs. MIL W 12 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 2 2 3
+p266
+aVTrey Burke UTA 02/28/2015 UTA vs. MIL W 36 23 8 19 42.1 5 10 50.0 2 2 100.0 0 3 3 6 1 0 1 2 4
+p267
+aVDerrick Favors UTA 02/27/2015 UTA @ DEN W 28 21 7 10 70.0 0 0 - 7 8 87.5 3 7 10 1 1 3 3 4 22
+p268
+aVJeremy Evans UTA 02/27/2015 UTA @ DEN W 13 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 1 0 3 -8
+p269
+aVDante Exum UTA 02/27/2015 UTA @ DEN W 19 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 1 1 0 2 1 12
+p270
+aVRodney Hood UTA 02/27/2015 UTA @ DEN W 20 14 5 8 62.5 3 3 100.0 1 2 50.0 1 1 2 1 1 2 0 2 3
+p271
+aVBryce Cotton UTA 02/27/2015 UTA @ DEN W 7 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 1 1 0 1 1 -5
+p272
+aVTrevor Booker UTA 02/27/2015 UTA @ DEN W 20 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 1 1 1 20
+p273
+aVJack Cooley UTA 02/27/2015 UTA @ DEN W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p274
+aVElijah Millsap UTA 02/27/2015 UTA @ DEN W 25 7 2 5 40.0 0 2 0.0 3 4 75.0 0 3 3 3 2 1 2 3 6
+p275
+aVGrant Jerrett UTA 02/27/2015 UTA @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p276
+aVJoe Ingles UTA 02/27/2015 UTA @ DEN W 21 7 3 5 60.0 1 3 33.3 0 0 - 0 4 4 5 1 0 0 1 12
+p277
+aVGordon Hayward UTA 02/27/2015 UTA @ DEN W 26 15 5 12 41.7 1 5 20.0 4 5 80.0 0 5 5 5 2 0 7 2 20
+p278
+aVTrey Burke UTA 02/27/2015 UTA @ DEN W 23 19 8 12 66.7 3 4 75.0 0 0 - 0 2 2 4 4 1 1 3 19
+p279
+aVRudy Gobert UTA 02/27/2015 UTA @ DEN W 32 10 4 4 100.0 0 0 - 2 2 100.0 3 5 8 1 0 6 3 1 12
+p280
+aVRudy Gobert UTA 02/25/2015 UTA vs. LAL L 36 16 6 11 54.5 0 0 - 4 7 57.1 8 6 14 2 1 3 1 1 -6
+p281
+aVGordon Hayward UTA 02/25/2015 UTA vs. LAL L 31 20 7 18 38.9 0 2 0.0 6 6 100.0 1 0 1 3 0 0 6 3 -11
+p282
+aVDante Exum UTA 02/25/2015 UTA vs. LAL L 19 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 2 3 -1
+p283
+aVJeremy Evans UTA 02/25/2015 UTA vs. LAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p284
+aVTrey Burke UTA 02/25/2015 UTA vs. LAL L 29 7 2 8 25.0 2 3 66.7 1 2 50.0 1 4 5 4 0 0 3 2 0
+p285
+aVJoe Ingles UTA 02/25/2015 UTA vs. LAL L 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 1 1 3 3 0
+p286
+aVTrevor Booker UTA 02/25/2015 UTA vs. LAL L 20 3 1 6 16.7 0 0 - 1 4 25.0 0 6 6 1 0 0 0 2 3
+p287
+aVElijah Millsap UTA 02/25/2015 UTA vs. LAL L 30 17 5 8 62.5 1 1 100.0 6 7 85.7 0 7 7 1 0 0 2 0 3
+p288
+aVRodney Hood UTA 02/25/2015 UTA vs. LAL L 20 11 4 8 50.0 3 4 75.0 0 0 - 0 2 2 0 0 0 0 2 5
+p289
+aVDerrick Favors UTA 02/25/2015 UTA vs. LAL L 36 18 7 10 70.0 0 0 - 4 8 50.0 3 6 9 1 1 1 3 3 -9
+p290
+aVDante Exum UTA 02/23/2015 UTA vs. SAS W 21 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 2 0 2 4 -1
+p291
+aVGordon Hayward UTA 02/23/2015 UTA vs. SAS W 33 18 4 15 26.7 0 2 0.0 10 11 90.9 0 3 3 3 1 0 3 3 16
+p292
+aVJoe Ingles UTA 02/23/2015 UTA vs. SAS W 27 10 4 7 57.1 2 3 66.7 0 0 - 0 3 3 3 3 0 1 4 1
+p293
+aVJeremy Evans UTA 02/23/2015 UTA vs. SAS W 6 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 0 3
+p294
+aVTrey Burke UTA 02/23/2015 UTA vs. SAS W 28 23 9 17 52.9 1 3 33.3 4 4 100.0 0 1 1 2 0 0 2 2 6
+p295
+aVRudy Gobert UTA 02/23/2015 UTA vs. SAS W 31 7 3 6 50.0 0 0 - 1 2 50.0 3 11 14 1 2 3 1 1 9
+p296
+aVTrevor Booker UTA 02/23/2015 UTA vs. SAS W 24 7 3 8 37.5 0 1 0.0 1 2 50.0 1 5 6 0 0 1 2 1 11
+p297
+aVRodney Hood UTA 02/23/2015 UTA vs. SAS W 12 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p298
+aVElijah Millsap UTA 02/23/2015 UTA vs. SAS W 27 4 2 8 25.0 0 3 0.0 0 0 - 2 5 7 2 3 0 2 5 -2
+p299
+aVDerrick Favors UTA 02/23/2015 UTA vs. SAS W 31 14 6 15 40.0 0 0 - 2 4 50.0 4 6 10 1 3 1 0 3 1
+p300
+aVDerrick Favors UTA 02/20/2015 UTA vs. POR W 36 16 7 15 46.7 0 0 - 2 6 33.3 4 5 9 2 2 1 1 2 7
+p301
+aVTrevor Booker UTA 02/20/2015 UTA vs. POR W 22 5 2 9 22.2 0 1 0.0 1 2 50.0 5 4 9 1 2 1 1 4 3
+p302
+aVTrey Burke UTA 02/20/2015 UTA vs. POR W 28 19 9 20 45.0 0 3 0.0 1 3 33.3 0 0 0 3 1 0 2 1 12
+p303
+aVDante Exum UTA 02/20/2015 UTA vs. POR W 20 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 3 1 0 0 1 4
+p304
+aVGordon Hayward UTA 02/20/2015 UTA vs. POR W 30 20 7 13 53.8 2 6 33.3 4 6 66.7 0 4 4 3 3 0 2 2 -5
+p305
+aVElijah Millsap UTA 02/20/2015 UTA vs. POR W 26 9 3 7 42.9 3 6 50.0 0 0 - 1 6 7 1 0 0 1 2 17
+p306
+aVJeremy Evans UTA 02/20/2015 UTA vs. POR W 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 23
+p307
+aVRudy Gobert UTA 02/20/2015 UTA vs. POR W 24 4 2 3 66.7 0 0 - 0 0 - 0 7 7 2 0 5 1 4 -1
+p308
+aVJoe Ingles UTA 02/20/2015 UTA vs. POR W 31 8 3 6 50.0 2 3 66.7 0 0 - 1 2 3 2 2 0 0 2 6
+p309
+aVRodney Hood UTA 02/20/2015 UTA vs. POR W 10 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 3 14
+p310
+aVIan Clark UTA 02/20/2015 UTA vs. POR W 1 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 0
+p311
+aVIan Clark UTA 02/11/2015 UTA @ DAL L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -1
+p312
+aVDante Exum UTA 02/11/2015 UTA @ DAL L 26 2 1 8 12.5 0 4 0.0 0 0 - 0 1 1 3 0 0 0 0 0
+p313
+aVSteve Novak UTA 02/11/2015 UTA @ DAL L 12 12 4 6 66.7 4 6 66.7 0 0 - 0 1 1 0 0 0 1 2 -5
+p314
+aVTrey Burke UTA 02/11/2015 UTA @ DAL L 27 16 6 15 40.0 4 6 66.7 0 0 - 1 5 6 4 1 0 2 3 -4
+p315
+aVEnes Kanter UTA 02/11/2015 UTA @ DAL L 18 6 3 7 42.9 0 0 - 0 1 0.0 3 7 10 0 0 0 2 1 2
+p316
+aVElijah Millsap UTA 02/11/2015 UTA @ DAL L 37 10 3 8 37.5 1 5 20.0 3 4 75.0 0 8 8 2 2 0 3 4 2
+p317
+aVGordon Hayward UTA 02/11/2015 UTA @ DAL L 38 12 5 14 35.7 1 5 20.0 1 2 50.0 2 7 9 8 2 0 6 2 -7
+p318
+aVDerrick Favors UTA 02/11/2015 UTA @ DAL L 33 14 5 10 50.0 0 0 - 4 6 66.7 1 4 5 1 0 3 3 3 -2
+p319
+aVRudy Gobert UTA 02/11/2015 UTA @ DAL L 26 2 0 4 0.0 0 0 - 2 6 33.3 3 2 5 1 1 4 0 4 -6
+p320
+aVTrevor Booker UTA 02/11/2015 UTA @ DAL L 18 6 2 7 28.6 1 3 33.3 1 2 50.0 3 2 5 0 2 0 1 1 -4
+p321
+aVTrey Burke UTA 02/09/2015 UTA @ NOP W 22 0 0 10 0.0 0 3 0.0 0 0 - 0 4 4 2 0 0 0 2 6
+p322
+aVGordon Hayward UTA 02/09/2015 UTA @ NOP W 39 32 10 22 45.5 3 5 60.0 9 11 81.8 1 6 7 8 2 1 4 1 5
+p323
+aVTrevor Booker UTA 02/09/2015 UTA @ NOP W 11 6 3 3 100.0 0 0 - 0 0 - 3 2 5 1 1 0 1 0 18
+p324
+aVSteve Novak UTA 02/09/2015 UTA @ NOP W 12 12 4 5 80.0 4 5 80.0 0 0 - 0 1 1 2 0 0 0 0 10
+p325
+aVDerrick Favors UTA 02/09/2015 UTA @ NOP W 34 18 8 16 50.0 0 0 - 2 4 50.0 5 2 7 2 1 2 2 2 -11
+p326
+aVDante Exum UTA 02/09/2015 UTA @ NOP W 33 8 3 11 27.3 2 7 28.6 0 0 - 1 0 1 5 0 1 1 2 5
+p327
+aVEnes Kanter UTA 02/09/2015 UTA @ NOP W 28 14 6 12 50.0 0 0 - 2 2 100.0 5 6 11 0 1 0 1 3 -16
+p328
+aVElijah Millsap UTA 02/09/2015 UTA @ NOP W 37 2 1 8 12.5 0 1 0.0 0 2 0.0 4 3 7 2 4 2 0 4 -14
+p329
+aVRudy Gobert UTA 02/09/2015 UTA @ NOP W 22 8 4 6 66.7 0 0 - 0 0 - 2 2 4 1 2 2 1 3 17
+p330
+aVIan Clark UTA 02/09/2015 UTA @ NOP W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p331
+aVIan Clark UTA 02/07/2015 UTA vs. SAC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p332
+aVDerrick Favors UTA 02/07/2015 UTA vs. SAC W 33 20 9 17 52.9 0 0 - 2 3 66.7 3 6 9 5 0 3 2 5 26
+p333
+aVRudy Gobert UTA 02/07/2015 UTA vs. SAC W 17 4 2 2 100.0 0 0 - 0 2 0.0 2 3 5 0 0 2 0 6 -4
+p334
+aVElijah Millsap UTA 02/07/2015 UTA vs. SAC W 36 7 1 3 33.3 0 0 - 5 6 83.3 2 5 7 3 1 0 0 3 11
+p335
+aVDante Exum UTA 02/07/2015 UTA vs. SAC W 34 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 4 2 0 2 4 21
+p336
+aVTrey Burke UTA 02/07/2015 UTA vs. SAC W 26 10 5 12 41.7 0 2 0.0 0 1 0.0 0 4 4 4 0 0 0 2 -6
+p337
+aVEnes Kanter UTA 02/07/2015 UTA vs. SAC W 33 17 7 16 43.8 0 1 0.0 3 4 75.0 5 8 13 1 1 0 3 2 8
+p338
+aVGordon Hayward UTA 02/07/2015 UTA vs. SAC W 37 30 13 23 56.5 3 8 37.5 1 1 100.0 1 1 2 3 2 0 2 1 23
+p339
+aVTrevor Booker UTA 02/07/2015 UTA vs. SAC W 12 9 4 5 80.0 1 2 50.0 0 0 - 0 0 0 1 0 1 0 3 -2
+p340
+aVSteve Novak UTA 02/07/2015 UTA vs. SAC W 10 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 2 -10
+p341
+aVChris Johnson UTA 02/06/2015 UTA @ PHX L 21 9 3 6 50.0 3 5 60.0 0 0 - 0 2 2 3 2 0 0 1 4
+p342
+aVElijah Millsap UTA 02/06/2015 UTA @ PHX L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -12
+p343
+aVTrevor Booker UTA 02/06/2015 UTA @ PHX L 11 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -14
+p344
+aVEnes Kanter UTA 02/06/2015 UTA @ PHX L 24 6 3 8 37.5 0 0 - 0 2 0.0 1 5 6 0 1 0 3 2 0
+p345
+aVGordon Hayward UTA 02/06/2015 UTA @ PHX L 34 24 9 17 52.9 1 2 50.0 5 6 83.3 0 5 5 5 0 0 4 2 -2
+p346
+aVRudy Gobert UTA 02/06/2015 UTA @ PHX L 27 14 6 7 85.7 0 0 - 2 4 50.0 3 9 12 4 1 1 1 3 -15
+p347
+aVJoe Ingles UTA 02/06/2015 UTA @ PHX L 29 6 2 6 33.3 0 3 0.0 2 2 100.0 1 5 6 3 0 0 1 0 -6
+p348
+aVDerrick Favors UTA 02/06/2015 UTA @ PHX L 34 20 9 14 64.3 0 0 - 2 2 100.0 0 5 5 1 3 1 2 3 15
+p349
+aVTrey Burke UTA 02/06/2015 UTA @ PHX L 26 5 2 13 15.4 1 7 14.3 0 0 - 0 3 3 3 0 2 0 1 -2
+p350
+aVDante Exum UTA 02/06/2015 UTA @ PHX L 28 6 2 4 50.0 2 3 66.7 0 0 - 1 2 3 4 0 0 2 4 -3
+p351
+aVChris Johnson UTA 02/04/2015 UTA vs. MEM L 17 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 1 0 0 0 -6
+p352
+aVDerrick Favors UTA 02/04/2015 UTA vs. MEM L 30 11 4 7 57.1 0 0 - 3 3 100.0 1 4 5 1 0 0 2 2 -12
+p353
+aVGordon Hayward UTA 02/04/2015 UTA vs. MEM L 34 15 5 10 50.0 3 5 60.0 2 2 100.0 0 4 4 2 0 0 0 3 -6
+p354
+aVElijah Millsap UTA 02/04/2015 UTA vs. MEM L 17 7 2 5 40.0 0 2 0.0 3 5 60.0 0 4 4 0 1 0 1 3 10
+p355
+aVEnes Kanter UTA 02/04/2015 UTA vs. MEM L 31 16 8 18 44.4 0 1 0.0 0 0 - 3 7 10 1 0 0 1 3 5
+p356
+aVRudy Gobert UTA 02/04/2015 UTA vs. MEM L 25 8 2 5 40.0 0 0 - 4 8 50.0 3 3 6 0 2 3 0 3 -10
+p357
+aVTrevor Booker UTA 02/04/2015 UTA vs. MEM L 10 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 0 0 2 1 -3
+p358
+aVDante Exum UTA 02/04/2015 UTA vs. MEM L 25 0 0 5 0.0 0 4 0.0 0 0 - 2 1 3 5 1 0 1 0 -15
+p359
+aVTrey Burke UTA 02/04/2015 UTA vs. MEM L 31 21 7 13 53.8 3 8 37.5 4 4 100.0 0 3 3 4 1 0 3 1 5
+p360
+aVJoe Ingles UTA 02/04/2015 UTA vs. MEM L 20 4 2 3 66.7 0 1 0.0 0 2 0.0 0 1 1 2 0 0 2 3 -18
+p361
+aVJoe Ingles UTA 02/03/2015 UTA @ POR L 36 5 1 5 20.0 1 2 50.0 2 2 100.0 0 3 3 2 1 0 2 3 -7
+p362
+aVTrey Burke UTA 02/03/2015 UTA @ POR L 34 18 7 17 41.2 1 5 20.0 3 3 100.0 0 2 2 6 1 0 3 1 19
+p363
+aVTrevor Booker UTA 02/03/2015 UTA @ POR L 7 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p364
+aVDerrick Favors UTA 02/03/2015 UTA @ POR L 34 20 8 18 44.4 0 0 - 4 7 57.1 1 3 4 3 1 1 0 2 0
+p365
+aVDante Exum UTA 02/03/2015 UTA @ POR L 20 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 2 0 1 5 -9
+p366
+aVEnes Kanter UTA 02/03/2015 UTA @ POR L 23 16 6 12 50.0 0 0 - 4 5 80.0 4 3 7 0 0 0 1 0 -3
+p367
+aVRudy Gobert UTA 02/03/2015 UTA @ POR L 33 7 3 5 60.0 0 0 - 1 2 50.0 5 10 15 1 1 2 1 4 -2
+p368
+aVElijah Millsap UTA 02/03/2015 UTA @ POR L 18 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 0 1 0 0 3 0
+p369
+aVGordon Hayward UTA 02/03/2015 UTA @ POR L 36 27 10 16 62.5 3 4 75.0 4 7 57.1 3 2 5 5 1 1 1 4 -3
+p370
+aVDerrick Favors UTA 01/30/2015 UTA vs. GSW W 31 15 7 15 46.7 0 0 - 1 2 50.0 1 3 4 2 2 3 2 1 -1
+p371
+aVTrevor Booker UTA 01/30/2015 UTA vs. GSW W 22 17 7 11 63.6 2 3 66.7 1 2 50.0 1 6 7 3 1 1 0 4 -1
+p372
+aVJoe Ingles UTA 01/30/2015 UTA vs. GSW W 25 10 3 6 50.0 1 2 50.0 3 4 75.0 1 3 4 2 2 0 0 4 0
+p373
+aVRudy Gobert UTA 01/30/2015 UTA vs. GSW W 25 10 4 7 57.1 0 0 - 2 6 33.3 6 4 10 0 0 2 1 2 5
+p374
+aVTrey Burke UTA 01/30/2015 UTA vs. GSW W 34 15 6 16 37.5 3 8 37.5 0 2 0.0 0 2 2 7 0 0 1 1 -1
+p375
+aVDante Exum UTA 01/30/2015 UTA vs. GSW W 24 3 1 5 20.0 1 5 20.0 0 0 - 1 1 2 1 1 0 1 1 19
+p376
+aVGordon Hayward UTA 01/30/2015 UTA vs. GSW W 38 26 9 20 45.0 1 3 33.3 7 8 87.5 5 10 15 6 3 0 3 3 4
+p377
+aVElijah Millsap UTA 01/30/2015 UTA vs. GSW W 22 9 3 7 42.9 1 4 25.0 2 2 100.0 0 1 1 0 1 0 0 3 10
+p378
+aVEnes Kanter UTA 01/30/2015 UTA vs. GSW W 19 5 2 7 28.6 0 0 - 1 2 50.0 2 8 10 0 0 0 3 1 15
+p379
+aVElijah Millsap UTA 01/28/2015 UTA vs. LAC L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -10
+p380
+aVTrevor Booker UTA 01/28/2015 UTA vs. LAC L 19 8 4 6 66.7 0 1 0.0 0 0 - 4 5 9 0 0 0 3 1 -5
+p381
+aVJoe Ingles UTA 01/28/2015 UTA vs. LAC L 35 10 3 7 42.9 2 5 40.0 2 2 100.0 2 3 5 7 1 0 2 2 2
+p382
+aVGordon Hayward UTA 01/28/2015 UTA vs. LAC L 38 11 4 13 30.8 0 5 0.0 3 4 75.0 0 4 4 5 0 2 1 2 3
+p383
+aVEnes Kanter UTA 01/28/2015 UTA vs. LAC L 36 21 8 16 50.0 0 1 0.0 5 7 71.4 3 8 11 1 0 1 0 3 0
+p384
+aVTrey Burke UTA 01/28/2015 UTA vs. LAC L 31 11 4 15 26.7 2 7 28.6 1 1 100.0 1 3 4 1 1 0 1 1 -2
+p385
+aVDante Exum UTA 01/28/2015 UTA vs. LAC L 26 3 1 6 16.7 1 5 20.0 0 0 - 0 1 1 1 0 0 0 0 -8
+p386
+aVRudy Gobert UTA 01/28/2015 UTA vs. LAC L 10 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 3 -2
+p387
+aVDerrick Favors UTA 01/28/2015 UTA vs. LAC L 31 18 8 13 61.5 0 0 - 2 4 50.0 5 4 9 0 0 2 2 4 -3
+p388
+aVElijah Millsap UTA 01/26/2015 UTA vs. BOS L 20 3 1 4 25.0 1 1 100.0 0 0 - 0 4 4 2 1 1 2 2 -22
+p389
+aVJoe Ingles UTA 01/26/2015 UTA vs. BOS L 31 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 5 4 0 2 6 10
+p390
+aVDerrick Favors UTA 01/26/2015 UTA vs. BOS L 34 13 5 13 38.5 0 1 0.0 3 7 42.9 1 7 8 4 1 4 3 3 3
+p391
+aVRudy Gobert UTA 01/26/2015 UTA vs. BOS L 26 8 4 4 100.0 0 0 - 0 0 - 4 6 10 2 0 3 0 0 -12
+p392
+aVGordon Hayward UTA 01/26/2015 UTA vs. BOS L 36 26 7 17 41.2 4 5 80.0 8 12 66.7 2 4 6 3 3 2 1 2 13
+p393
+aVDante Exum UTA 01/26/2015 UTA vs. BOS L 25 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 2 3 -24
+p394
+aVTrevor Booker UTA 01/26/2015 UTA vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p395
+aVEnes Kanter UTA 01/26/2015 UTA vs. BOS L 31 20 10 16 62.5 0 1 0.0 0 0 - 3 3 6 0 0 0 4 6 3
+p396
+aVTrey Burke UTA 01/26/2015 UTA vs. BOS L 32 18 7 20 35.0 4 12 33.3 0 0 - 0 0 0 0 0 0 0 1 -7
+p397
+aVIan Clark UTA 01/24/2015 UTA vs. BKN W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 2
+p398
+aVJeremy Evans UTA 01/24/2015 UTA vs. BKN W 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 3
+p399
+aVRudy Gobert UTA 01/24/2015 UTA vs. BKN W 20 6 3 4 75.0 0 1 0.0 0 0 - 3 9 12 2 0 0 2 2 9
+p400
+aVElliot Williams UTA 01/24/2015 UTA vs. BKN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p401
+aVGordon Hayward UTA 01/24/2015 UTA vs. BKN W 31 24 10 14 71.4 1 3 33.3 3 4 75.0 0 4 4 3 3 0 5 1 19
+p402
+aVDante Exum UTA 01/24/2015 UTA vs. BKN W 29 13 5 7 71.4 3 5 60.0 0 0 - 0 4 4 4 0 0 2 2 20
+p403
+aVTrevor Booker UTA 01/24/2015 UTA vs. BKN W 15 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 1 1 2 1 2 10
+p404
+aVTrey Burke UTA 01/24/2015 UTA vs. BKN W 26 19 7 13 53.8 4 8 50.0 1 2 50.0 0 2 2 3 1 0 0 2 20
+p405
+aVJoe Ingles UTA 01/24/2015 UTA vs. BKN W 30 16 4 8 50.0 4 7 57.1 4 4 100.0 0 1 1 5 1 0 0 1 29
+p406
+aVDerrick Favors UTA 01/24/2015 UTA vs. BKN W 31 9 3 7 42.9 0 0 - 3 4 75.0 1 7 8 1 0 2 1 1 23
+p407
+aVEnes Kanter UTA 01/24/2015 UTA vs. BKN W 28 10 5 12 41.7 0 0 - 0 0 - 2 2 4 0 1 0 2 0 25
+p408
+aVElijah Millsap UTA 01/24/2015 UTA vs. BKN W 19 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 2 2 0 2 2 14
+p409
+aVRudy Gobert UTA 01/22/2015 UTA @ MIL W 35 14 5 7 71.4 0 0 - 4 6 66.7 4 6 10 1 1 1 3 1 -5
+p410
+aVDante Exum UTA 01/22/2015 UTA @ MIL W 35 15 5 12 41.7 5 10 50.0 0 0 - 0 0 0 5 0 0 3 1 -7
+p411
+aVElijah Millsap UTA 01/22/2015 UTA @ MIL W 18 5 1 4 25.0 1 3 33.3 2 2 100.0 1 1 2 1 1 1 2 2 -1
+p412
+aVTrevor Booker UTA 01/22/2015 UTA @ MIL W 25 4 1 4 25.0 1 2 50.0 1 2 50.0 2 1 3 3 1 0 0 2 3
+p413
+aVGordon Hayward UTA 01/22/2015 UTA @ MIL W 35 24 6 13 46.2 2 4 50.0 10 12 83.3 2 4 6 6 2 0 6 4 5
+p414
+aVJoe Ingles UTA 01/22/2015 UTA @ MIL W 32 6 2 5 40.0 2 3 66.7 0 0 - 0 4 4 7 2 0 3 3 8
+p415
+aVEnes Kanter UTA 01/22/2015 UTA @ MIL W 36 23 8 15 53.3 1 2 50.0 6 6 100.0 3 13 16 0 2 1 2 1 6
+p416
+aVTrey Burke UTA 01/22/2015 UTA @ MIL W 24 10 4 11 36.4 2 7 28.6 0 0 - 0 2 2 2 0 0 3 1 1
+p417
+aVDante Exum UTA 01/21/2015 UTA @ CLE L 29 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 5 0 0 4 1 -5
+p418
+aVTrey Burke UTA 01/21/2015 UTA @ CLE L 19 2 1 10 10.0 0 2 0.0 0 0 - 0 2 2 2 2 0 1 2 -17
+p419
+aVElijah Millsap UTA 01/21/2015 UTA @ CLE L 21 12 4 9 44.4 2 5 40.0 2 2 100.0 2 1 3 1 1 0 3 5 5
+p420
+aVJoe Ingles UTA 01/21/2015 UTA @ CLE L 27 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 2 0 0 0 3 -17
+p421
+aVTrevor Booker UTA 01/21/2015 UTA @ CLE L 17 5 2 6 33.3 0 1 0.0 1 2 50.0 0 4 4 1 1 0 2 1 3
+p422
+aVGordon Hayward UTA 01/21/2015 UTA @ CLE L 29 14 4 11 36.4 2 4 50.0 4 4 100.0 3 2 5 4 2 0 5 0 -22
+p423
+aVEnes Kanter UTA 01/21/2015 UTA @ CLE L 33 24 9 20 45.0 0 0 - 6 8 75.0 7 10 17 1 1 0 1 2 -3
+p424
+aVElliot Williams UTA 01/21/2015 UTA @ CLE L 13 10 3 4 75.0 3 3 100.0 1 2 50.0 0 1 1 3 0 0 0 1 12
+p425
+aVJeremy Evans UTA 01/21/2015 UTA @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p426
+aVDerrick Favors UTA 01/21/2015 UTA @ CLE L 25 12 6 11 54.5 0 0 - 0 0 - 1 0 1 1 2 0 0 2 -23
+p427
+aVRudy Gobert UTA 01/21/2015 UTA @ CLE L 20 6 3 3 100.0 0 0 - 0 0 - 3 4 7 3 0 1 1 4 -7
+p428
+aVIan Clark UTA 01/21/2015 UTA @ CLE L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p429
+aVElijah Millsap UTA 01/18/2015 UTA @ SAS L 17 7 2 7 28.6 0 0 - 3 3 100.0 0 1 1 0 0 1 1 2 -4
+p430
+aVJoe Ingles UTA 01/18/2015 UTA @ SAS L 24 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 4 1 1 3 4 -16
+p431
+aVEnes Kanter UTA 01/18/2015 UTA @ SAS L 21 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -10
+p432
+aVTrey Burke UTA 01/18/2015 UTA @ SAS L 33 8 4 15 26.7 0 2 0.0 0 0 - 0 1 1 8 1 0 1 0 -15
+p433
+aVTrevor Booker UTA 01/18/2015 UTA @ SAS L 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -12
+p434
+aVJeremy Evans UTA 01/18/2015 UTA @ SAS L 5 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 2 0 0 8
+p435
+aVDerrick Favors UTA 01/18/2015 UTA @ SAS L 27 9 4 11 36.4 0 0 - 1 2 50.0 1 12 13 0 0 4 2 1 -11
+p436
+aVDante Exum UTA 01/18/2015 UTA @ SAS L 20 2 1 5 20.0 0 1 0.0 0 0 - 2 0 2 4 1 0 0 1 -2
+p437
+aVSteve Novak UTA 01/18/2015 UTA @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 3
+p438
+aVGordon Hayward UTA 01/18/2015 UTA @ SAS L 29 10 4 15 26.7 1 2 50.0 1 2 50.0 1 0 1 5 3 0 2 3 -14
+p439
+aVRudy Gobert UTA 01/18/2015 UTA @ SAS L 29 13 5 10 50.0 0 0 - 3 5 60.0 7 11 18 2 0 4 1 1 -15
+p440
+aVRodney Hood UTA 01/18/2015 UTA @ SAS L 17 5 1 5 20.0 1 2 50.0 2 4 50.0 0 4 4 0 0 0 1 2 -12
+p441
+aVDante Exum UTA 01/16/2015 UTA vs. LAL W 16 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 2 0 0 0 3 -5
+p442
+aVJoe Ingles UTA 01/16/2015 UTA vs. LAL W 22 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 4 3 0 0 2 4
+p443
+aVRodney Hood UTA 01/16/2015 UTA vs. LAL W 21 5 2 4 50.0 1 3 33.3 0 0 - 0 5 5 1 1 0 2 3 9
+p444
+aVTrey Burke UTA 01/16/2015 UTA vs. LAL W 39 20 7 19 36.8 4 9 44.4 2 2 100.0 1 2 3 4 1 0 1 2 10
+p445
+aVDerrick Favors UTA 01/16/2015 UTA vs. LAL W 32 18 8 16 50.0 0 0 - 2 2 100.0 4 6 10 3 0 2 0 3 7
+p446
+aVElijah Millsap UTA 01/16/2015 UTA vs. LAL W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 3 -9
+p447
+aVRudy Gobert UTA 01/16/2015 UTA vs. LAL W 25 7 3 6 50.0 0 0 - 1 1 100.0 2 4 6 3 2 3 2 2 10
+p448
+aVEnes Kanter UTA 01/16/2015 UTA vs. LAL W 26 7 2 10 20.0 1 3 33.3 2 2 100.0 3 2 5 0 3 0 1 1 -3
+p449
+aVGordon Hayward UTA 01/16/2015 UTA vs. LAL W 36 31 12 18 66.7 4 7 57.1 3 3 100.0 0 3 3 7 1 1 3 0 18
+p450
+aVTrevor Booker UTA 01/16/2015 UTA vs. LAL W 14 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 0 0 0 2 2 4
+p451
+aVTrey Burke UTA 01/13/2015 UTA vs. GSW L 29 15 7 14 50.0 1 5 20.0 0 0 - 0 1 1 5 1 0 2 2 -3
+p452
+aVIan Clark UTA 01/13/2015 UTA vs. GSW L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 -5
+p453
+aVJoe Ingles UTA 01/13/2015 UTA vs. GSW L 24 12 4 7 57.1 2 5 40.0 2 2 100.0 0 5 5 1 2 1 4 3 -7
+p454
+aVGordon Hayward UTA 01/13/2015 UTA vs. GSW L 32 17 5 11 45.5 1 4 25.0 6 6 100.0 0 1 1 2 1 2 2 1 -17
+p455
+aVRudy Gobert UTA 01/13/2015 UTA vs. GSW L 32 16 4 9 44.4 0 0 - 8 11 72.7 4 7 11 4 2 3 1 1 6
+p456
+aVEnes Kanter UTA 01/13/2015 UTA vs. GSW L 32 13 6 13 46.2 1 1 100.0 0 0 - 5 5 10 0 1 0 3 4 -27
+p457
+aVElijah Millsap UTA 01/13/2015 UTA vs. GSW L 22 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 3 -5
+p458
+aVDante Exum UTA 01/13/2015 UTA vs. GSW L 22 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 1 1 0
+p459
+aVDerrick Favors UTA 01/13/2015 UTA vs. GSW L 30 22 10 16 62.5 0 0 - 2 3 66.7 2 9 11 0 0 1 0 1 -5
+p460
+aVJeremy Evans UTA 01/13/2015 UTA vs. GSW L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p461
+aVElliot Williams UTA 01/13/2015 UTA vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 4
+p462
+aVElliot Williams UTA 01/10/2015 UTA @ HOU L 21 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 0 2 0 3 0 -7
+p463
+aVElijah Millsap UTA 01/10/2015 UTA @ HOU L 28 8 3 11 27.3 2 5 40.0 0 0 - 1 1 2 2 3 1 4 1 -7
+p464
+aVTrevor Booker UTA 01/10/2015 UTA @ HOU L 14 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 3 -11
+p465
+aVJoe Ingles UTA 01/10/2015 UTA @ HOU L 18 2 1 3 33.3 0 0 - 0 0 - 0 3 3 4 2 0 1 0 0
+p466
+aVIan Clark UTA 01/10/2015 UTA @ HOU L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p467
+aVJeremy Evans UTA 01/10/2015 UTA @ HOU L 9 2 0 1 0.0 0 0 - 2 2 100.0 2 4 6 1 2 1 0 1 2
+p468
+aVDerrick Favors UTA 01/10/2015 UTA @ HOU L 18 15 5 6 83.3 0 0 - 5 5 100.0 0 7 7 0 2 0 3 2 -2
+p469
+aVGordon Hayward UTA 01/10/2015 UTA @ HOU L 30 9 2 10 20.0 1 2 50.0 4 4 100.0 1 3 4 5 2 0 5 1 -16
+p470
+aVRudy Gobert UTA 01/10/2015 UTA @ HOU L 35 4 2 2 100.0 0 0 - 0 0 - 0 5 5 3 1 3 3 1 -10
+p471
+aVDante Exum UTA 01/10/2015 UTA @ HOU L 8 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 1 -1
+p472
+aVTrey Burke UTA 01/10/2015 UTA @ HOU L 35 16 6 14 42.9 1 4 25.0 3 3 100.0 1 4 5 3 0 0 4 4 -13
+p473
+aVEnes Kanter UTA 01/10/2015 UTA @ HOU L 21 16 6 10 60.0 0 0 - 4 5 80.0 4 2 6 1 1 0 2 3 -9
+p474
+aVGordon Hayward UTA 01/09/2015 UTA @ OKC L 37 27 11 18 61.1 1 5 20.0 4 6 66.7 0 4 4 4 3 0 5 1 -13
+p475
+aVTrey Burke UTA 01/09/2015 UTA @ OKC L 38 20 8 15 53.3 2 4 50.0 2 2 100.0 1 4 5 5 2 0 2 0 -2
+p476
+aVDante Exum UTA 01/09/2015 UTA @ OKC L 16 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 4 1 0 2 1 12
+p477
+aVDerrick Favors UTA 01/09/2015 UTA @ OKC L 37 22 9 17 52.9 0 0 - 4 6 66.7 4 7 11 1 0 3 4 2 -1
+p478
+aVTrevor Booker UTA 01/09/2015 UTA @ OKC L 21 8 3 8 37.5 0 1 0.0 2 4 50.0 2 7 9 0 1 0 1 2 11
+p479
+aVRudy Gobert UTA 01/09/2015 UTA @ OKC L 38 4 1 2 50.0 0 0 - 2 2 100.0 2 5 7 3 3 7 3 2 -20
+p480
+aVJoe Ingles UTA 01/09/2015 UTA @ OKC L 24 1 0 5 0.0 0 4 0.0 1 2 50.0 0 3 3 5 0 0 0 2 -14
+p481
+aVElijah Millsap UTA 01/09/2015 UTA @ OKC L 30 9 3 6 50.0 3 4 75.0 0 0 - 0 4 4 0 2 1 3 4 2
+p482
+aVRudy Gobert UTA 01/07/2015 UTA @ CHI W 36 11 5 8 62.5 0 0 - 1 2 50.0 6 8 14 0 2 5 2 2 19
+p483
+aVElliot Williams UTA 01/07/2015 UTA @ CHI W 2 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p484
+aVGordon Hayward UTA 01/07/2015 UTA @ CHI W 34 18 6 14 42.9 0 4 0.0 6 7 85.7 0 4 4 5 2 1 2 2 19
+p485
+aVIan Clark UTA 01/07/2015 UTA @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p486
+aVTrevor Booker UTA 01/07/2015 UTA @ CHI W 23 15 5 10 50.0 1 1 100.0 4 5 80.0 4 4 8 1 0 1 0 0 21
+p487
+aVTrey Burke UTA 01/07/2015 UTA @ CHI W 33 17 6 13 46.2 2 4 50.0 3 4 75.0 1 2 3 4 0 0 3 3 9
+p488
+aVElijah Millsap UTA 01/07/2015 UTA @ CHI W 21 2 1 3 33.3 0 1 0.0 0 2 0.0 0 2 2 1 1 1 4 4 15
+p489
+aVJeremy Evans UTA 01/07/2015 UTA @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -4
+p490
+aVDante Exum UTA 01/07/2015 UTA @ CHI W 24 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 3 0 0 0 1 25
+p491
+aVDerrick Favors UTA 01/07/2015 UTA @ CHI W 32 20 8 15 53.3 0 0 - 4 4 100.0 2 9 11 2 2 0 1 4 6
+p492
+aVSteve Novak UTA 01/07/2015 UTA @ CHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p493
+aVJoe Ingles UTA 01/07/2015 UTA @ CHI W 27 7 3 8 37.5 1 3 33.3 0 0 - 1 3 4 3 1 0 2 3 1
+p494
+aVSteve Novak UTA 01/05/2015 UTA vs. IND L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p495
+aVJoe Ingles UTA 01/05/2015 UTA vs. IND L 37 8 4 10 40.0 0 4 0.0 0 0 - 1 8 9 7 2 0 2 2 -4
+p496
+aVIan Clark UTA 01/05/2015 UTA vs. IND L 17 4 0 3 0.0 0 1 0.0 4 4 100.0 1 0 1 0 1 0 2 1 -5
+p497
+aVDerrick Favors UTA 01/05/2015 UTA vs. IND L 43 27 10 16 62.5 0 0 - 7 10 70.0 7 4 11 1 1 2 1 3 8
+p498
+aVDante Exum UTA 01/05/2015 UTA vs. IND L 30 13 5 14 35.7 3 9 33.3 0 0 - 0 0 0 0 0 0 0 3 -1
+p499
+aVTrevor Booker UTA 01/05/2015 UTA vs. IND L 17 12 5 8 62.5 1 2 50.0 1 1 100.0 2 2 4 1 1 0 0 5 -7
+p500
+aVElijah Millsap UTA 01/05/2015 UTA vs. IND L 18 2 1 6 16.7 0 1 0.0 0 0 - 1 4 5 4 1 0 0 4 1
+p501
+aVGordon Hayward UTA 01/05/2015 UTA vs. IND L 42 24 6 17 35.3 0 5 0.0 12 13 92.3 0 7 7 3 0 1 2 3 -3
+p502
+aVJeremy Evans UTA 01/05/2015 UTA vs. IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p503
+aVRudy Gobert UTA 01/05/2015 UTA vs. IND L 29 11 4 5 80.0 0 0 - 3 6 50.0 2 2 4 0 0 3 3 3 -1
+p504
+aVTrevor Booker UTA 01/03/2015 UTA @ MIN W 24 8 4 7 57.1 0 0 - 0 0 - 5 10 15 6 0 1 2 1 4
+p505
+aVToure' Murry UTA 01/03/2015 UTA @ MIN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p506
+aVRudy Gobert UTA 01/03/2015 UTA @ MIN W 31 13 5 7 71.4 0 0 - 3 6 50.0 2 9 11 1 1 6 1 3 11
+p507
+aVDante Exum UTA 01/03/2015 UTA @ MIN W 23 3 1 7 14.3 1 5 20.0 0 0 - 0 0 0 2 0 0 1 0 -12
+p508
+aVTrey Burke UTA 01/03/2015 UTA @ MIN W 39 28 10 16 62.5 4 6 66.7 4 6 66.7 0 6 6 6 1 0 1 3 16
+p509
+aVJoe Ingles UTA 01/03/2015 UTA @ MIN W 30 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 4 2 0 2 2 17
+p510
+aVDerrick Favors UTA 01/03/2015 UTA @ MIN W 26 15 5 9 55.6 0 0 - 5 7 71.4 2 6 8 0 1 0 2 3 11
+p511
+aVIan Clark UTA 01/03/2015 UTA @ MIN W 16 9 3 4 75.0 3 3 100.0 0 0 - 0 1 1 0 0 0 0 1 0
+p512
+aVJeremy Evans UTA 01/03/2015 UTA @ MIN W 15 9 3 4 75.0 1 1 100.0 2 2 100.0 1 1 2 0 1 2 1 0 -2
+p513
+aVGordon Hayward UTA 01/03/2015 UTA @ MIN W 35 9 4 13 30.8 1 3 33.3 0 0 - 0 1 1 4 0 1 2 3 17
+p514
+aVSteve Novak UTA 01/02/2015 UTA vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p515
+aVJoe Ingles UTA 01/02/2015 UTA vs. ATL L 21 8 3 4 75.0 2 2 100.0 0 0 - 0 3 3 1 1 2 4 1 15
+p516
+aVDante Exum UTA 01/02/2015 UTA vs. ATL L 22 13 5 9 55.6 3 7 42.9 0 0 - 2 0 2 2 3 0 1 3 17
+p517
+aVDerrick Favors UTA 01/02/2015 UTA vs. ATL L 30 8 2 7 28.6 0 0 - 4 8 50.0 2 9 11 1 0 2 2 1 -13
+p518
+aVGordon Hayward UTA 01/02/2015 UTA vs. ATL L 35 18 6 14 42.9 2 3 66.7 4 5 80.0 1 2 3 3 0 0 0 4 -15
+p519
+aVEnes Kanter UTA 01/02/2015 UTA vs. ATL L 22 11 5 12 41.7 0 0 - 1 1 100.0 3 3 6 0 0 0 2 1 -15
+p520
+aVPatrick Christopher UTA 01/02/2015 UTA vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -11
+p521
+aVTrey Burke UTA 01/02/2015 UTA vs. ATL L 39 8 2 19 10.5 0 11 0.0 4 4 100.0 1 2 3 5 2 1 1 4 -19
+p522
+aVIan Clark UTA 01/02/2015 UTA vs. ATL L 21 5 2 8 25.0 1 5 20.0 0 0 - 1 1 2 4 0 0 1 1 -5
+p523
+aVTrevor Booker UTA 01/02/2015 UTA vs. ATL L 19 10 4 9 44.4 2 3 66.7 0 0 - 4 5 9 1 0 0 2 1 3
+p524
+aVRudy Gobert UTA 01/02/2015 UTA vs. ATL L 24 11 3 3 100.0 0 0 - 5 6 83.3 2 5 7 1 0 4 0 2 14
+p525
+aVDante Exum UTA 12/30/2014 UTA vs. MIN W 15 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 1 0 -1
+p526
+aVRodney Hood UTA 12/30/2014 UTA vs. MIN W 19 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 1 0 1 2 5 12
+p527
+aVJoe Ingles UTA 12/30/2014 UTA vs. MIN W 25 4 2 3 66.7 0 1 0.0 0 1 0.0 0 1 1 3 0 0 2 1 2
+p528
+aVRudy Gobert UTA 12/30/2014 UTA vs. MIN W 16 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 1 1 1 -9
+p529
+aVGordon Hayward UTA 12/30/2014 UTA vs. MIN W 36 26 9 16 56.3 3 4 75.0 5 5 100.0 0 2 2 3 2 0 3 1 6
+p530
+aVPatrick Christopher UTA 12/30/2014 UTA vs. MIN W 13 4 2 8 25.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 5 -9
+p531
+aVDerrick Favors UTA 12/30/2014 UTA vs. MIN W 33 15 6 10 60.0 0 0 - 3 6 50.0 2 6 8 2 2 1 1 2 14
+p532
+aVEnes Kanter UTA 12/30/2014 UTA vs. MIN W 25 14 4 8 50.0 0 0 - 6 6 100.0 4 8 12 0 1 0 2 1 8
+p533
+aVTrey Burke UTA 12/30/2014 UTA vs. MIN W 37 26 10 21 47.6 3 6 50.0 3 4 75.0 0 4 4 6 0 0 0 1 8
+p534
+aVTrevor Booker UTA 12/30/2014 UTA vs. MIN W 23 7 3 4 75.0 1 1 100.0 0 0 - 2 5 7 0 0 0 1 2 -1
+p535
+aVSteve Novak UTA 12/29/2014 UTA @ LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p536
+aVDerrick Favors UTA 12/29/2014 UTA @ LAC L 35 15 6 16 37.5 0 0 - 3 9 33.3 6 3 9 1 0 2 1 3 0
+p537
+aVRudy Gobert UTA 12/29/2014 UTA @ LAC L 25 11 5 7 71.4 0 0 - 1 1 100.0 5 8 13 2 1 0 2 4 -6
+p538
+aVEnes Kanter UTA 12/29/2014 UTA @ LAC L 28 16 8 17 47.1 0 1 0.0 0 0 - 4 1 5 0 0 0 2 3 9
+p539
+aVJoe Ingles UTA 12/29/2014 UTA @ LAC L 15 2 1 4 25.0 0 3 0.0 0 0 - 1 2 3 2 1 0 0 2 -9
+p540
+aVDante Exum UTA 12/29/2014 UTA @ LAC L 27 7 3 6 50.0 1 1 100.0 0 0 - 1 4 5 3 1 0 1 1 -2
+p541
+aVTrevor Booker UTA 12/29/2014 UTA @ LAC L 8 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -12
+p542
+aVPatrick Christopher UTA 12/29/2014 UTA @ LAC L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 6
+p543
+aVRodney Hood UTA 12/29/2014 UTA @ LAC L 30 9 2 6 33.3 1 3 33.3 4 5 80.0 0 7 7 5 2 1 3 5 -1
+p544
+aVGordon Hayward UTA 12/29/2014 UTA @ LAC L 36 22 8 20 40.0 4 7 57.1 2 3 66.7 0 4 4 7 0 0 3 1 -2
+p545
+aVTrey Burke UTA 12/29/2014 UTA @ LAC L 32 11 4 10 40.0 2 3 66.7 1 2 50.0 0 2 2 6 2 0 1 2 -4
+p546
+aVEnes Kanter UTA 12/27/2014 UTA vs. PHI W 25 10 4 13 30.8 0 1 0.0 2 2 100.0 6 4 10 0 0 0 0 2 1
+p547
+aVTrevor Booker UTA 12/27/2014 UTA vs. PHI W 20 14 6 8 75.0 0 0 - 2 2 100.0 2 3 5 1 1 2 0 4 20
+p548
+aVRudy Gobert UTA 12/27/2014 UTA vs. PHI W 17 4 2 3 66.7 0 0 - 0 0 - 3 3 6 2 2 3 2 2 -3
+p549
+aVDerrick Favors UTA 12/27/2014 UTA vs. PHI W 34 17 7 11 63.6 0 0 - 3 3 100.0 2 13 15 3 3 5 4 3 16
+p550
+aVRodney Hood UTA 12/27/2014 UTA vs. PHI W 29 4 1 8 12.5 1 5 20.0 1 2 50.0 0 5 5 2 0 0 0 0 18
+p551
+aVDante Exum UTA 12/27/2014 UTA vs. PHI W 18 5 1 7 14.3 0 4 0.0 3 4 75.0 0 3 3 0 1 0 1 4 0
+p552
+aVJoe Ingles UTA 12/27/2014 UTA vs. PHI W 19 2 0 1 0.0 0 1 0.0 2 2 100.0 1 3 4 2 1 0 1 2 3
+p553
+aVPatrick Christopher UTA 12/27/2014 UTA vs. PHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -4
+p554
+aVGordon Hayward UTA 12/27/2014 UTA vs. PHI W 36 15 4 14 28.6 2 5 40.0 5 6 83.3 0 6 6 3 1 0 2 4 22
+p555
+aVTrey Burke UTA 12/27/2014 UTA vs. PHI W 37 17 5 18 27.8 1 6 16.7 6 7 85.7 0 1 1 4 1 0 2 2 12
+p556
+aVRodney Hood UTA 12/22/2014 UTA @ MEM W 21 7 2 8 25.0 1 5 20.0 2 4 50.0 1 3 4 4 0 0 1 3 0
+p557
+aVDerrick Favors UTA 12/22/2014 UTA @ MEM W 36 15 5 12 41.7 0 0 - 5 6 83.3 1 6 7 1 0 1 2 2 2
+p558
+aVJoe Ingles UTA 12/22/2014 UTA @ MEM W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p559
+aVTrey Burke UTA 12/22/2014 UTA @ MEM W 26 8 3 8 37.5 1 4 25.0 1 1 100.0 1 3 4 4 0 0 1 0 8
+p560
+aVGordon Hayward UTA 12/22/2014 UTA @ MEM W 36 21 7 12 58.3 2 2 100.0 5 8 62.5 1 3 4 4 0 1 2 2 5
+p561
+aVDante Exum UTA 12/22/2014 UTA @ MEM W 22 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 3 0 0 0 1 -2
+p562
+aVRudy Gobert UTA 12/22/2014 UTA @ MEM W 29 2 1 6 16.7 0 0 - 0 0 - 5 11 16 0 0 2 2 3 5
+p563
+aVAlec Burks UTA 12/22/2014 UTA @ MEM W 34 23 7 14 50.0 2 4 50.0 7 8 87.5 0 3 3 4 0 0 1 1 9
+p564
+aVEnes Kanter UTA 12/22/2014 UTA @ MEM W 30 13 6 11 54.5 1 1 100.0 0 0 - 1 8 9 0 0 1 2 2 6
+p565
+aVTrey Burke UTA 12/20/2014 UTA @ CHA L 23 10 4 13 30.8 1 4 25.0 1 1 100.0 0 2 2 2 0 0 1 1 -9
+p566
+aVEnes Kanter UTA 12/20/2014 UTA @ CHA L 20 4 2 8 25.0 0 0 - 0 0 - 2 2 4 2 0 0 1 2 3
+p567
+aVDante Exum UTA 12/20/2014 UTA @ CHA L 23 6 2 7 28.6 2 6 33.3 0 0 - 1 0 1 2 0 0 3 2 -3
+p568
+aVJoe Ingles UTA 12/20/2014 UTA @ CHA L 16 13 5 8 62.5 3 6 50.0 0 1 0.0 0 4 4 1 0 1 0 0 -2
+p569
+aVRudy Gobert UTA 12/20/2014 UTA @ CHA L 30 11 5 6 83.3 0 0 - 1 2 50.0 5 7 12 0 1 2 1 3 -20
+p570
+aVIan Clark UTA 12/20/2014 UTA @ CHA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p571
+aVDerrick Favors UTA 12/20/2014 UTA @ CHA L 18 13 5 8 62.5 0 0 - 3 4 75.0 3 2 5 2 0 1 0 0 -13
+p572
+aVAlec Burks UTA 12/20/2014 UTA @ CHA L 30 11 3 13 23.1 0 3 0.0 5 5 100.0 1 3 4 1 0 0 1 2 -2
+p573
+aVSteve Novak UTA 12/20/2014 UTA @ CHA L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -2
+p574
+aVRodney Hood UTA 12/20/2014 UTA @ CHA L 17 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 1 3 -16
+p575
+aVGordon Hayward UTA 12/20/2014 UTA @ CHA L 32 14 6 14 42.9 2 6 33.3 0 0 - 0 2 2 6 1 0 1 1 -21
+p576
+aVTrevor Booker UTA 12/20/2014 UTA @ CHA L 18 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 1 1 1 0 0 -6
+p577
+aVDerrick Favors UTA 12/19/2014 UTA @ ORL W 34 23 9 14 64.3 0 0 - 5 7 71.4 2 8 10 3 0 2 1 2 9
+p578
+aVRodney Hood UTA 12/19/2014 UTA @ ORL W 23 9 4 7 57.1 1 2 50.0 0 0 - 1 1 2 2 1 0 1 2 -5
+p579
+aVEnes Kanter UTA 12/19/2014 UTA @ ORL W 31 11 5 10 50.0 0 1 0.0 1 2 50.0 3 4 7 1 0 0 3 2 -9
+p580
+aVGordon Hayward UTA 12/19/2014 UTA @ ORL W 36 20 5 10 50.0 1 1 100.0 9 10 90.0 0 3 3 6 0 1 4 0 22
+p581
+aVJoe Ingles UTA 12/19/2014 UTA @ ORL W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p582
+aVTrevor Booker UTA 12/19/2014 UTA @ ORL W 17 9 3 4 75.0 1 1 100.0 2 2 100.0 1 3 4 2 0 0 1 1 16
+p583
+aVAlec Burks UTA 12/19/2014 UTA @ ORL W 34 8 3 7 42.9 1 2 50.0 1 2 50.0 0 7 7 3 0 0 1 2 -1
+p584
+aVTrey Burke UTA 12/19/2014 UTA @ ORL W 33 11 5 15 33.3 0 4 0.0 1 1 100.0 0 3 3 5 1 0 1 1 8
+p585
+aVRudy Gobert UTA 12/19/2014 UTA @ ORL W 14 6 3 3 100.0 0 0 - 0 0 - 0 3 3 1 0 2 0 1 -2
+p586
+aVDante Exum UTA 12/19/2014 UTA @ ORL W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 2 0 3 3 -1
+p587
+aVEnes Kanter UTA 12/17/2014 UTA @ MIA W 31 18 7 12 58.3 1 2 50.0 3 4 75.0 2 4 6 1 1 0 3 4 10
+p588
+aVTrevor Booker UTA 12/17/2014 UTA @ MIA W 12 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 7
+p589
+aVDante Exum UTA 12/17/2014 UTA @ MIA W 24 10 4 5 80.0 2 3 66.7 0 0 - 0 2 2 3 0 0 3 3 15
+p590
+aVDerrick Favors UTA 12/17/2014 UTA @ MIA W 33 11 3 8 37.5 0 0 - 5 7 71.4 2 4 6 1 1 1 2 2 14
+p591
+aVTrey Burke UTA 12/17/2014 UTA @ MIA W 29 9 3 10 30.0 3 8 37.5 0 0 - 0 1 1 2 1 0 1 1 7
+p592
+aVRodney Hood UTA 12/17/2014 UTA @ MIA W 8 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 1 0 0 1 5 15
+p593
+aVGordon Hayward UTA 12/17/2014 UTA @ MIA W 38 29 9 13 69.2 4 5 80.0 7 7 100.0 0 6 6 7 0 1 3 3 25
+p594
+aVAlec Burks UTA 12/17/2014 UTA @ MIA W 30 12 3 7 42.9 2 3 66.7 4 4 100.0 0 2 2 4 0 0 2 4 -7
+p595
+aVJoe Ingles UTA 12/17/2014 UTA @ MIA W 14 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 3 0 1 1 0 -1
+p596
+aVRudy Gobert UTA 12/17/2014 UTA @ MIA W 19 6 2 2 100.0 0 0 - 2 2 100.0 2 7 9 1 1 2 1 2 5
+p597
+aVTrevor Booker UTA 12/16/2014 UTA @ NOP L 21 10 5 6 83.3 0 0 - 0 0 - 2 2 4 0 0 0 1 1 1
+p598
+aVGordon Hayward UTA 12/16/2014 UTA @ NOP L 35 17 7 16 43.8 0 3 0.0 3 4 75.0 0 3 3 5 0 1 2 3 3
+p599
+aVAlec Burks UTA 12/16/2014 UTA @ NOP L 37 16 6 18 33.3 1 3 33.3 3 4 75.0 2 2 4 4 2 0 2 1 -15
+p600
+aVDante Exum UTA 12/16/2014 UTA @ NOP L 21 12 5 7 71.4 1 2 50.0 1 1 100.0 1 1 2 2 1 1 2 2 -11
+p601
+aVRodney Hood UTA 12/16/2014 UTA @ NOP L 12 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 1 0 1 4 -4
+p602
+aVJoe Ingles UTA 12/16/2014 UTA @ NOP L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 0 0
+p603
+aVEnes Kanter UTA 12/16/2014 UTA @ NOP L 37 29 12 22 54.5 0 0 - 5 6 83.3 6 1 7 1 2 1 2 3 -16
+p604
+aVJeremy Evans UTA 12/16/2014 UTA @ NOP L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p605
+aVTrey Burke UTA 12/16/2014 UTA @ NOP L 27 16 5 9 55.6 2 4 50.0 4 4 100.0 1 5 6 1 0 1 5 0 3
+p606
+aVRudy Gobert UTA 12/16/2014 UTA @ NOP L 33 6 3 6 50.0 0 0 - 0 0 - 5 4 9 2 0 3 0 3 8
+p607
+aVTrey Burke UTA 12/14/2014 UTA @ WAS L 34 15 7 16 43.8 1 3 33.3 0 0 - 1 4 5 2 2 0 2 1 -8
+p608
+aVTrevor Booker UTA 12/14/2014 UTA @ WAS L 25 8 3 7 42.9 0 2 0.0 2 6 33.3 1 8 9 0 1 0 1 2 -2
+p609
+aVEnes Kanter UTA 12/14/2014 UTA @ WAS L 34 10 5 14 35.7 0 0 - 0 0 - 5 6 11 2 0 1 4 4 -1
+p610
+aVJeremy Evans UTA 12/14/2014 UTA @ WAS L 5 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 0 0 1 0 2 -3
+p611
+aVDante Exum UTA 12/14/2014 UTA @ WAS L 12 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 1 0 1 0 -2
+p612
+aVRodney Hood UTA 12/14/2014 UTA @ WAS L 18 3 1 5 20.0 0 2 0.0 1 2 50.0 0 1 1 1 1 1 1 1 -7
+p613
+aVIan Clark UTA 12/14/2014 UTA @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p614
+aVRudy Gobert UTA 12/14/2014 UTA @ WAS L 31 7 3 5 60.0 0 0 - 1 2 50.0 3 6 9 1 2 3 3 2 -13
+p615
+aVGordon Hayward UTA 12/14/2014 UTA @ WAS L 34 16 4 14 28.6 0 3 0.0 8 9 88.9 1 6 7 3 1 1 2 3 0
+p616
+aVAlec Burks UTA 12/14/2014 UTA @ WAS L 35 19 5 11 45.5 3 4 75.0 6 8 75.0 1 1 2 2 0 0 3 3 -7
+p617
+aVJoe Ingles UTA 12/14/2014 UTA @ WAS L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p618
+aVAlec Burks UTA 12/12/2014 UTA vs. MIA L 32 16 4 10 40.0 2 6 33.3 6 8 75.0 1 3 4 3 1 0 0 4 -16
+p619
+aVDante Exum UTA 12/12/2014 UTA vs. MIA L 15 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 0 4
+p620
+aVSteve Novak UTA 12/12/2014 UTA vs. MIA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p621
+aVTrey Burke UTA 12/12/2014 UTA vs. MIA L 33 7 3 12 25.0 1 5 20.0 0 0 - 1 1 2 4 1 0 4 1 -9
+p622
+aVRudy Gobert UTA 12/12/2014 UTA vs. MIA L 26 9 2 2 100.0 0 0 - 5 6 83.3 4 7 11 4 1 5 0 2 10
+p623
+aVJoe Ingles UTA 12/12/2014 UTA vs. MIA L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -7
+p624
+aVGordon Hayward UTA 12/12/2014 UTA vs. MIA L 35 18 6 13 46.2 2 7 28.6 4 4 100.0 0 8 8 1 0 0 3 1 3
+p625
+aVJeremy Evans UTA 12/12/2014 UTA vs. MIA L 6 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 5
+p626
+aVTrevor Booker UTA 12/12/2014 UTA vs. MIA L 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 5
+p627
+aVRodney Hood UTA 12/12/2014 UTA vs. MIA L 19 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 1 5 10
+p628
+aVEnes Kanter UTA 12/12/2014 UTA vs. MIA L 37 25 10 17 58.8 1 3 33.3 4 4 100.0 0 8 8 0 0 0 1 2 -14
+p629
+aVDerrick Favors UTA 12/12/2014 UTA vs. MIA L 10 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 1 0 1 -11
+p630
+aVAlec Burks UTA 12/09/2014 UTA vs. SAS W 30 14 5 11 45.5 1 2 50.0 3 4 75.0 0 3 3 4 0 0 1 3 2
+p631
+aVRodney Hood UTA 12/09/2014 UTA vs. SAS W 16 7 2 5 40.0 0 2 0.0 3 4 75.0 0 0 0 1 0 0 0 2 0
+p632
+aVDerrick Favors UTA 12/09/2014 UTA vs. SAS W 33 21 10 20 50.0 0 0 - 1 1 100.0 3 5 8 2 1 2 2 4 -2
+p633
+aVTrey Burke UTA 12/09/2014 UTA vs. SAS W 32 8 3 9 33.3 1 3 33.3 1 2 50.0 0 1 1 2 1 0 3 1 -2
+p634
+aVEnes Kanter UTA 12/09/2014 UTA vs. SAS W 31 12 6 9 66.7 0 0 - 0 0 - 4 11 15 0 0 1 2 2 13
+p635
+aVDante Exum UTA 12/09/2014 UTA vs. SAS W 16 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 2 0 0 1 1 6
+p636
+aVRudy Gobert UTA 12/09/2014 UTA vs. SAS W 15 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 1 0 2 2 2 6
+p637
+aVJoe Ingles UTA 12/09/2014 UTA vs. SAS W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 2 0 0 2 5
+p638
+aVGordon Hayward UTA 12/09/2014 UTA vs. SAS W 36 20 7 13 53.8 0 2 0.0 6 9 66.7 0 7 7 4 1 0 5 3 -3
+p639
+aVTrevor Booker UTA 12/09/2014 UTA vs. SAS W 16 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 1 0 2 2 3 -5
+p640
+aVRudy Gobert UTA 12/08/2014 UTA @ SAC L 21 12 5 8 62.5 0 0 - 2 4 50.0 6 3 9 1 0 1 1 3 3
+p641
+aVTrey Burke UTA 12/08/2014 UTA @ SAC L 32 13 4 13 30.8 1 4 25.0 4 4 100.0 0 2 2 5 0 0 1 1 -16
+p642
+aVJoe Ingles UTA 12/08/2014 UTA @ SAC L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 1 0 -9
+p643
+aVRodney Hood UTA 12/08/2014 UTA @ SAC L 22 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 -5
+p644
+aVDante Exum UTA 12/08/2014 UTA @ SAC L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 7
+p645
+aVTrevor Booker UTA 12/08/2014 UTA @ SAC L 15 6 2 6 33.3 0 0 - 2 4 50.0 1 2 3 1 1 1 2 1 2
+p646
+aVJeremy Evans UTA 12/08/2014 UTA @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p647
+aVEnes Kanter UTA 12/08/2014 UTA @ SAC L 32 13 5 11 45.5 1 2 50.0 2 2 100.0 1 5 6 1 0 2 3 6 -14
+p648
+aVAlec Burks UTA 12/08/2014 UTA @ SAC L 30 16 5 11 45.5 0 1 0.0 6 9 66.7 2 2 4 3 2 0 1 3 -13
+p649
+aVGordon Hayward UTA 12/08/2014 UTA @ SAC L 37 19 6 16 37.5 1 7 14.3 6 10 60.0 0 4 4 7 4 0 2 3 9
+p650
+aVDerrick Favors UTA 12/08/2014 UTA @ SAC L 26 9 3 6 50.0 0 0 - 3 4 75.0 1 5 6 0 0 2 1 5 -10
+p651
+aVSteve Novak UTA 12/05/2014 UTA vs. ORL L 1 3 1 1 100.0 1 1 100.0 0 2 0.0 0 1 1 0 0 0 0 1 0
+p652
+aVGordon Hayward UTA 12/05/2014 UTA vs. ORL L 36 9 4 11 36.4 1 3 33.3 0 0 - 0 4 4 4 3 0 3 4 -1
+p653
+aVRudy Gobert UTA 12/05/2014 UTA vs. ORL L 12 4 2 5 40.0 0 0 - 0 2 0.0 2 5 7 0 0 0 0 1 4
+p654
+aVDante Exum UTA 12/05/2014 UTA vs. ORL L 20 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 1
+p655
+aVRodney Hood UTA 12/05/2014 UTA vs. ORL L 26 15 4 6 66.7 3 3 100.0 4 5 80.0 0 1 1 0 0 0 0 5 6
+p656
+aVIan Clark UTA 12/05/2014 UTA vs. ORL L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p657
+aVJoe Ingles UTA 12/05/2014 UTA vs. ORL L 21 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 4 1 0 2 2 -4
+p658
+aVTrevor Booker UTA 12/05/2014 UTA vs. ORL L 20 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 2 0 1 1 2 11
+p659
+aVEnes Kanter UTA 12/05/2014 UTA vs. ORL L 28 16 7 12 58.3 0 0 - 2 2 100.0 4 1 5 0 0 0 2 1 -16
+p660
+aVDerrick Favors UTA 12/05/2014 UTA vs. ORL L 36 21 10 17 58.8 0 0 - 1 2 50.0 4 9 13 1 0 5 1 3 -11
+p661
+aVTrey Burke UTA 12/05/2014 UTA vs. ORL L 34 13 4 15 26.7 1 4 25.0 4 6 66.7 1 2 3 11 0 0 1 2 -8
+p662
+aVDerrick Favors UTA 12/03/2014 UTA vs. TOR L 32 19 9 13 69.2 0 0 - 1 1 100.0 2 4 6 5 1 0 1 2 -3
+p663
+aVDante Exum UTA 12/03/2014 UTA vs. TOR L 14 2 1 3 33.3 0 2 0.0 0 1 0.0 0 2 2 1 0 1 1 0 -8
+p664
+aVJoe Ingles UTA 12/03/2014 UTA vs. TOR L 25 12 5 10 50.0 1 5 20.0 1 1 100.0 0 0 0 1 2 0 1 2 -13
+p665
+aVRodney Hood UTA 12/03/2014 UTA vs. TOR L 27 10 3 8 37.5 2 7 28.6 2 2 100.0 0 2 2 1 1 0 0 2 -9
+p666
+aVEnes Kanter UTA 12/03/2014 UTA vs. TOR L 34 19 9 15 60.0 0 0 - 1 2 50.0 4 5 9 1 1 1 1 2 -8
+p667
+aVIan Clark UTA 12/03/2014 UTA vs. TOR L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -3
+p668
+aVTrevor Booker UTA 12/03/2014 UTA vs. TOR L 15 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 -18
+p669
+aVTrey Burke UTA 12/03/2014 UTA vs. TOR L 34 15 6 15 40.0 3 8 37.5 0 0 - 1 2 3 8 1 0 1 2 -11
+p670
+aVGordon Hayward UTA 12/03/2014 UTA vs. TOR L 41 16 5 15 33.3 2 5 40.0 4 4 100.0 1 3 4 3 1 0 1 0 -13
+p671
+aVRudy Gobert UTA 12/03/2014 UTA vs. TOR L 13 6 2 2 100.0 0 0 - 2 2 100.0 4 3 7 0 0 3 0 4 -9
+p672
+aVTrey Burke UTA 12/01/2014 UTA vs. DEN L 36 18 7 13 53.8 4 7 57.1 0 0 - 1 0 1 8 0 0 0 1 2
+p673
+aVEnes Kanter UTA 12/01/2014 UTA vs. DEN L 31 17 8 19 42.1 0 0 - 1 2 50.0 5 10 15 2 0 2 1 2 3
+p674
+aVAlec Burks UTA 12/01/2014 UTA vs. DEN L 37 22 7 15 46.7 0 2 0.0 8 10 80.0 2 6 8 3 0 0 3 2 11
+p675
+aVDante Exum UTA 12/01/2014 UTA vs. DEN L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -4
+p676
+aVJoe Ingles UTA 12/01/2014 UTA vs. DEN L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 8
+p677
+aVRodney Hood UTA 12/01/2014 UTA vs. DEN L 11 2 1 3 33.3 0 2 0.0 0 2 0.0 0 2 2 1 0 1 2 1 -13
+p678
+aVGordon Hayward UTA 12/01/2014 UTA vs. DEN L 39 25 7 18 38.9 3 6 50.0 8 8 100.0 0 5 5 1 1 0 4 2 -10
+p679
+aVSteve Novak UTA 12/01/2014 UTA vs. DEN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -9
+p680
+aVRudy Gobert UTA 12/01/2014 UTA vs. DEN L 24 9 3 7 42.9 0 0 - 3 6 50.0 3 4 7 1 0 1 0 1 5
+p681
+aVTrevor Booker UTA 12/01/2014 UTA vs. DEN L 33 6 3 7 42.9 0 1 0.0 0 0 - 3 6 9 1 2 1 1 4 -3
+p682
+aVEnes Kanter UTA 11/29/2014 UTA vs. LAC L 18 6 2 9 22.2 0 0 - 2 2 100.0 2 0 2 0 0 0 0 2 -20
+p683
+aVAlec Burks UTA 11/29/2014 UTA vs. LAC L 28 12 4 6 66.7 1 2 50.0 3 5 60.0 0 2 2 4 1 0 1 2 -2
+p684
+aVDante Exum UTA 11/29/2014 UTA vs. LAC L 19 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 1 0 0 2 2 4
+p685
+aVTrevor Booker UTA 11/29/2014 UTA vs. LAC L 24 15 4 7 57.1 0 2 0.0 7 9 77.8 5 4 9 2 3 0 3 1 -1
+p686
+aVRudy Gobert UTA 11/29/2014 UTA vs. LAC L 20 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 0 2 0 1 10
+p687
+aVDerrick Favors UTA 11/29/2014 UTA vs. LAC L 34 19 8 11 72.7 0 0 - 3 6 50.0 3 4 7 1 0 0 2 1 -21
+p688
+aVJoe Ingles UTA 11/29/2014 UTA vs. LAC L 18 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 3 1 0 2 3 -13
+p689
+aVGordon Hayward UTA 11/29/2014 UTA vs. LAC L 36 30 11 18 61.1 4 5 80.0 4 8 50.0 1 4 5 3 1 0 1 0 -10
+p690
+aVRodney Hood UTA 11/29/2014 UTA vs. LAC L 14 2 0 6 0.0 0 3 0.0 2 2 100.0 0 2 2 1 0 0 0 0 -7
+p691
+aVTrey Burke UTA 11/29/2014 UTA vs. LAC L 29 3 1 6 16.7 1 4 25.0 0 1 0.0 0 1 1 3 0 0 2 3 -20
+p692
+aVAlec Burks UTA 11/26/2014 UTA @ OKC L 35 16 6 14 42.9 0 2 0.0 4 4 100.0 0 3 3 4 2 0 1 1 -18
+p693
+aVRudy Gobert UTA 11/26/2014 UTA @ OKC L 12 0 0 0 - 0 0 - 0 0 - 2 4 6 0 0 1 2 1 -11
+p694
+aVTrey Burke UTA 11/26/2014 UTA @ OKC L 31 12 5 10 50.0 2 5 40.0 0 0 - 1 1 2 4 0 0 0 2 -7
+p695
+aVDerrick Favors UTA 11/26/2014 UTA @ OKC L 36 11 5 9 55.6 0 0 - 1 1 100.0 1 5 6 0 1 1 0 2 -4
+p696
+aVJoe Ingles UTA 11/26/2014 UTA @ OKC L 25 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 1 1 -14
+p697
+aVEnes Kanter UTA 11/26/2014 UTA @ OKC L 33 16 6 13 46.2 0 1 0.0 4 5 80.0 3 4 7 0 2 0 3 5 1
+p698
+aVDante Exum UTA 11/26/2014 UTA @ OKC L 17 3 1 4 25.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 1 2 -8
+p699
+aVGordon Hayward UTA 11/26/2014 UTA @ OKC L 36 24 8 15 53.3 1 4 25.0 7 14 50.0 1 7 8 3 4 0 8 2 2
+p700
+aVTrevor Booker UTA 11/26/2014 UTA @ OKC L 15 0 0 3 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 3 0 -16
+p701
+aVJoe Ingles UTA 11/24/2014 UTA vs. CHI L 27 11 5 9 55.6 1 3 33.3 0 0 - 1 0 1 2 0 0 0 3 3
+p702
+aVDante Exum UTA 11/24/2014 UTA vs. CHI L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -6
+p703
+aVTrevor Booker UTA 11/24/2014 UTA vs. CHI L 15 8 4 7 57.1 0 0 - 0 1 0.0 2 2 4 1 1 1 3 1 -1
+p704
+aVSteve Novak UTA 11/24/2014 UTA vs. CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p705
+aVTrey Burke UTA 11/24/2014 UTA vs. CHI L 37 18 8 14 57.1 1 2 50.0 1 1 100.0 1 2 3 10 2 0 2 1 4
+p706
+aVEnes Kanter UTA 11/24/2014 UTA vs. CHI L 33 19 9 13 69.2 0 0 - 1 1 100.0 2 6 8 3 1 1 2 3 -1
+p707
+aVDerrick Favors UTA 11/24/2014 UTA vs. CHI L 34 21 10 17 58.8 0 0 - 1 2 50.0 4 11 15 0 1 0 1 3 2
+p708
+aVRudy Gobert UTA 11/24/2014 UTA vs. CHI L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 2 1 2 -4
+p709
+aVAlec Burks UTA 11/24/2014 UTA vs. CHI L 34 10 3 11 27.3 0 1 0.0 4 4 100.0 1 2 3 4 0 1 1 4 -12
+p710
+aVGordon Hayward UTA 11/24/2014 UTA vs. CHI L 36 6 2 11 18.2 1 3 33.3 1 1 100.0 0 4 4 1 3 1 3 3 5
+p711
+aVJoe Ingles UTA 11/22/2014 UTA vs. NOP L 21 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 2 -10
+p712
+aVDerrick Favors UTA 11/22/2014 UTA vs. NOP L 34 13 5 12 41.7 0 0 - 3 4 75.0 4 7 11 1 0 2 2 5 -5
+p713
+aVSteve Novak UTA 11/22/2014 UTA vs. NOP L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 -1
+p714
+aVDante Exum UTA 11/22/2014 UTA vs. NOP L 19 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 4 -3
+p715
+aVTrey Burke UTA 11/22/2014 UTA vs. NOP L 34 20 8 12 66.7 2 5 40.0 2 3 66.7 0 0 0 4 0 1 4 1 -13
+p716
+aVTrevor Booker UTA 11/22/2014 UTA vs. NOP L 24 10 3 3 100.0 0 0 - 4 4 100.0 1 4 5 2 0 1 1 3 -1
+p717
+aVRudy Gobert UTA 11/22/2014 UTA vs. NOP L 14 5 2 2 100.0 0 0 - 1 2 50.0 2 5 7 0 1 2 1 3 -7
+p718
+aVGordon Hayward UTA 11/22/2014 UTA vs. NOP L 39 31 9 16 56.3 2 3 66.7 11 14 78.6 2 6 8 3 2 1 3 2 -3
+p719
+aVAlec Burks UTA 11/22/2014 UTA vs. NOP L 31 2 1 11 9.1 0 1 0.0 0 0 - 0 4 4 3 2 1 4 2 -7
+p720
+aVEnes Kanter UTA 11/22/2014 UTA vs. NOP L 18 8 3 6 50.0 0 1 0.0 2 2 100.0 2 2 4 0 0 0 1 2 -10
+p721
+aVIan Clark UTA 11/21/2014 UTA @ GSW L 16 6 2 5 40.0 1 1 100.0 1 1 100.0 0 1 1 1 3 0 0 2 11
+p722
+aVDante Exum UTA 11/21/2014 UTA @ GSW L 22 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 5 1 0 2 2 15
+p723
+aVGordon Hayward UTA 11/21/2014 UTA @ GSW L 26 12 5 11 45.5 1 2 50.0 1 2 50.0 0 5 5 2 1 0 3 1 -18
+p724
+aVJeremy Evans UTA 11/21/2014 UTA @ GSW L 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 8
+p725
+aVDerrick Favors UTA 11/21/2014 UTA @ GSW L 21 10 3 11 27.3 0 0 - 4 6 66.7 6 3 9 1 1 2 1 1 -27
+p726
+aVSteve Novak UTA 11/21/2014 UTA @ GSW L 17 9 3 5 60.0 3 5 60.0 0 0 - 0 3 3 2 0 0 0 3 9
+p727
+aVEnes Kanter UTA 11/21/2014 UTA @ GSW L 20 18 8 10 80.0 0 0 - 2 3 66.7 3 2 5 3 0 0 5 1 -6
+p728
+aVAlec Burks UTA 11/21/2014 UTA @ GSW L 25 9 3 10 30.0 1 2 50.0 2 2 100.0 1 3 4 0 0 0 2 2 -22
+p729
+aVJoe Ingles UTA 11/21/2014 UTA @ GSW L 24 3 1 5 20.0 0 4 0.0 1 2 50.0 0 2 2 5 1 0 0 0 -5
+p730
+aVTrevor Booker UTA 11/21/2014 UTA @ GSW L 21 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 2 0 1 0 -13
+p731
+aVTrey Burke UTA 11/21/2014 UTA @ GSW L 26 2 1 8 12.5 0 1 0.0 0 0 - 0 3 3 5 1 0 3 1 -28
+p732
+aVRudy Gobert UTA 11/21/2014 UTA @ GSW L 18 12 6 7 85.7 0 0 - 0 1 0.0 3 2 5 1 2 2 2 3 11
+p733
+aVDante Exum UTA 11/18/2014 UTA vs. OKC W 15 9 3 5 60.0 3 5 60.0 0 0 - 0 1 1 5 0 0 0 2 8
+p734
+aVTrey Burke UTA 11/18/2014 UTA vs. OKC W 37 17 7 17 41.2 3 5 60.0 0 0 - 0 1 1 9 1 1 1 1 11
+p735
+aVJoe Ingles UTA 11/18/2014 UTA vs. OKC W 25 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 1 3 0 2 1 14
+p736
+aVDerrick Favors UTA 11/18/2014 UTA vs. OKC W 26 10 5 10 50.0 0 0 - 0 2 0.0 4 3 7 2 0 1 1 4 0
+p737
+aVJeremy Evans UTA 11/18/2014 UTA vs. OKC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p738
+aVTrevor Booker UTA 11/18/2014 UTA vs. OKC W 23 2 1 8 12.5 0 1 0.0 0 0 - 0 4 4 0 0 0 1 1 6
+p739
+aVGordon Hayward UTA 11/18/2014 UTA vs. OKC W 30 13 4 12 33.3 1 7 14.3 4 5 80.0 0 4 4 2 2 0 4 3 1
+p740
+aVAlec Burks UTA 11/18/2014 UTA vs. OKC W 38 20 5 8 62.5 2 3 66.7 8 9 88.9 1 13 14 3 1 2 3 2 20
+p741
+aVEnes Kanter UTA 11/18/2014 UTA vs. OKC W 27 16 6 16 37.5 0 1 0.0 4 8 50.0 6 9 15 0 0 0 1 2 6
+p742
+aVRudy Gobert UTA 11/18/2014 UTA vs. OKC W 16 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 0 1 0 0 1 23
+p743
+aVDante Exum UTA 11/15/2014 UTA @ TOR L 18 6 2 4 50.0 1 1 100.0 1 2 50.0 0 2 2 2 1 0 3 1 -6
+p744
+aVJoe Ingles UTA 11/15/2014 UTA @ TOR L 24 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 4 2 0 0 1 -4
+p745
+aVTrevor Booker UTA 11/15/2014 UTA @ TOR L 18 6 1 2 50.0 1 2 50.0 3 4 75.0 0 0 0 1 0 0 1 1 -9
+p746
+aVEnes Kanter UTA 11/15/2014 UTA @ TOR L 30 18 6 12 50.0 1 2 50.0 5 6 83.3 3 2 5 0 1 0 0 3 -11
+p747
+aVJeremy Evans UTA 11/15/2014 UTA @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p748
+aVTrey Burke UTA 11/15/2014 UTA @ TOR L 34 12 4 15 26.7 0 3 0.0 4 4 100.0 0 3 3 5 0 0 1 2 -7
+p749
+aVRudy Gobert UTA 11/15/2014 UTA @ TOR L 18 8 3 5 60.0 0 0 - 2 3 66.7 4 4 8 0 0 1 1 3 -12
+p750
+aVDerrick Favors UTA 11/15/2014 UTA @ TOR L 29 18 9 11 81.8 0 0 - 0 0 - 1 5 6 2 0 0 1 3 -4
+p751
+aVIan Clark UTA 11/15/2014 UTA @ TOR L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -5
+p752
+aVAlec Burks UTA 11/15/2014 UTA @ TOR L 36 10 4 11 36.4 1 2 50.0 1 4 25.0 2 8 10 3 0 0 4 3 -19
+p753
+aVGordon Hayward UTA 11/15/2014 UTA @ TOR L 30 12 3 10 30.0 0 2 0.0 6 7 85.7 0 1 1 5 1 1 0 4 -8
+p754
+aVRudy Gobert UTA 11/14/2014 UTA @ NYK W 17 4 0 2 0.0 0 0 - 4 6 66.7 1 3 4 1 0 2 0 3 -13
+p755
+aVGordon Hayward UTA 11/14/2014 UTA @ NYK W 38 33 11 18 61.1 2 6 33.3 9 10 90.0 1 2 3 6 4 0 3 4 8
+p756
+aVAlec Burks UTA 11/14/2014 UTA @ NYK W 39 9 3 9 33.3 1 1 100.0 2 2 100.0 1 3 4 4 0 0 1 3 12
+p757
+aVTrevor Booker UTA 11/14/2014 UTA @ NYK W 21 4 2 3 66.7 0 0 - 0 0 - 2 5 7 1 0 1 3 6 -7
+p758
+aVDante Exum UTA 11/14/2014 UTA @ NYK W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 1 3 0 -18
+p759
+aVDerrick Favors UTA 11/14/2014 UTA @ NYK W 31 21 8 15 53.3 0 0 - 5 7 71.4 5 7 12 2 0 3 0 2 15
+p760
+aVEnes Kanter UTA 11/14/2014 UTA @ NYK W 12 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 0 3 1 10
+p761
+aVTrey Burke UTA 11/14/2014 UTA @ NYK W 35 13 5 9 55.6 3 5 60.0 0 0 - 0 1 1 8 0 1 2 1 16
+p762
+aVJoe Ingles UTA 11/14/2014 UTA @ NYK W 21 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 1 2 0 3 0 -4
+p763
+aVSteve Novak UTA 11/14/2014 UTA @ NYK W 9 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 -9
+p764
+aVDante Exum UTA 11/12/2014 UTA @ ATL L 19 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 0 1 0 4 2
+p765
+aVIan Clark UTA 11/12/2014 UTA @ ATL L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p766
+aVTrey Burke UTA 11/12/2014 UTA @ ATL L 35 11 5 15 33.3 1 5 20.0 0 0 - 0 3 3 11 3 0 2 3 -5
+p767
+aVSteve Novak UTA 11/12/2014 UTA @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p768
+aVGordon Hayward UTA 11/12/2014 UTA @ ATL L 32 11 5 16 31.3 1 2 50.0 0 3 0.0 0 7 7 1 2 0 1 3 9
+p769
+aVDerrick Favors UTA 11/12/2014 UTA @ ATL L 36 20 9 11 81.8 0 0 - 2 4 50.0 3 3 6 3 2 2 3 3 -10
+p770
+aVTrevor Booker UTA 11/12/2014 UTA @ ATL L 19 10 5 7 71.4 0 1 0.0 0 1 0.0 2 1 3 2 1 1 1 1 -8
+p771
+aVJoe Ingles UTA 11/12/2014 UTA @ ATL L 17 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 4 1 0 0 0 3
+p772
+aVAlec Burks UTA 11/12/2014 UTA @ ATL L 37 22 9 15 60.0 1 5 20.0 3 3 100.0 0 2 2 3 1 0 3 2 -10
+p773
+aVEnes Kanter UTA 11/12/2014 UTA @ ATL L 29 16 7 11 63.6 2 4 50.0 0 0 - 2 3 5 2 1 1 0 1 5
+p774
+aVRudy Gobert UTA 11/12/2014 UTA @ ATL L 12 3 1 2 50.0 0 1 0.0 1 1 100.0 1 2 3 0 1 3 1 0 7
+p775
+aVGordon Hayward UTA 11/10/2014 UTA @ IND L 36 30 11 15 73.3 2 3 66.7 6 6 100.0 0 8 8 5 0 1 2 1 -3
+p776
+aVJeremy Evans UTA 11/10/2014 UTA @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p777
+aVTrey Burke UTA 11/10/2014 UTA @ IND L 36 5 2 12 16.7 1 8 12.5 0 0 - 0 2 2 8 2 0 0 1 -8
+p778
+aVRudy Gobert UTA 11/10/2014 UTA @ IND L 13 3 0 1 0.0 0 0 - 3 4 75.0 1 4 5 0 0 1 1 3 -9
+p779
+aVDerrick Favors UTA 11/10/2014 UTA @ IND L 35 13 5 13 38.5 0 0 - 3 6 50.0 1 7 8 1 0 2 0 4 -2
+p780
+aVJoe Ingles UTA 11/10/2014 UTA @ IND L 15 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -15
+p781
+aVEnes Kanter UTA 11/10/2014 UTA @ IND L 25 18 7 8 87.5 1 2 50.0 3 3 100.0 0 3 3 0 0 2 5 2 17
+p782
+aVTrevor Booker UTA 11/10/2014 UTA @ IND L 22 2 1 4 25.0 0 0 - 0 1 0.0 1 1 2 2 1 0 2 2 -24
+p783
+aVDante Exum UTA 11/10/2014 UTA @ IND L 19 3 1 5 20.0 1 4 25.0 0 0 - 1 3 4 0 1 0 0 3 -2
+p784
+aVAlec Burks UTA 11/10/2014 UTA @ IND L 38 9 4 13 30.8 0 1 0.0 1 1 100.0 1 3 4 1 1 0 1 2 -5
+p785
+aVSteve Novak UTA 11/10/2014 UTA @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p786
+aVTrey Burke UTA 11/09/2014 UTA @ DET W 24 7 2 8 25.0 1 3 33.3 2 2 100.0 1 1 2 3 1 1 1 5 -8
+p787
+aVDante Exum UTA 11/09/2014 UTA @ DET W 21 9 2 4 50.0 0 1 0.0 5 5 100.0 1 2 3 5 1 0 0 2 11
+p788
+aVAlec Burks UTA 11/09/2014 UTA @ DET W 36 14 6 13 46.2 0 1 0.0 2 4 50.0 0 3 3 4 0 0 1 1 -1
+p789
+aVRudy Gobert UTA 11/09/2014 UTA @ DET W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 7
+p790
+aVDerrick Favors UTA 11/09/2014 UTA @ DET W 35 16 6 14 42.9 0 0 - 4 6 66.7 3 9 12 2 0 1 3 2 -6
+p791
+aVJoe Ingles UTA 11/09/2014 UTA @ DET W 24 10 3 3 100.0 3 3 100.0 1 2 50.0 1 2 3 0 1 0 1 1 5
+p792
+aVTrevor Booker UTA 11/09/2014 UTA @ DET W 17 8 2 4 50.0 0 1 0.0 4 8 50.0 0 4 4 1 1 0 0 2 6
+p793
+aVEnes Kanter UTA 11/09/2014 UTA @ DET W 31 14 6 11 54.5 0 0 - 2 2 100.0 3 8 11 0 0 0 1 4 -5
+p794
+aVGordon Hayward UTA 11/09/2014 UTA @ DET W 39 17 5 13 38.5 2 6 33.3 5 6 83.3 0 4 4 4 3 0 4 1 -4
+p795
+aVIan Clark UTA 11/07/2014 UTA vs. DAL L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 0 -2
+p796
+aVJeremy Evans UTA 11/07/2014 UTA vs. DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p797
+aVSteve Novak UTA 11/07/2014 UTA vs. DAL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p798
+aVEnes Kanter UTA 11/07/2014 UTA vs. DAL L 27 8 4 10 40.0 0 1 0.0 0 0 - 3 7 10 0 0 0 4 3 -18
+p799
+aVJoe Ingles UTA 11/07/2014 UTA vs. DAL L 16 2 1 3 33.3 0 2 0.0 0 0 - 2 1 3 0 0 0 1 1 -13
+p800
+aVTrey Burke UTA 11/07/2014 UTA vs. DAL L 27 11 4 12 33.3 3 8 37.5 0 0 - 0 2 2 3 1 0 3 0 -18
+p801
+aVAlec Burks UTA 11/07/2014 UTA vs. DAL L 32 14 5 11 45.5 1 2 50.0 3 4 75.0 0 2 2 3 0 0 4 4 -20
+p802
+aVTrevor Booker UTA 11/07/2014 UTA vs. DAL L 12 7 2 4 50.0 0 1 0.0 3 3 100.0 1 0 1 0 0 0 2 0 -5
+p803
+aVGordon Hayward UTA 11/07/2014 UTA vs. DAL L 29 12 3 9 33.3 2 7 28.6 4 4 100.0 0 5 5 4 0 1 0 0 -7
+p804
+aVRodney Hood UTA 11/07/2014 UTA vs. DAL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 0 0 -3
+p805
+aVDerrick Favors UTA 11/07/2014 UTA vs. DAL L 26 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 1 0 1 3 3 -13
+p806
+aVDante Exum UTA 11/07/2014 UTA vs. DAL L 27 11 4 7 57.1 2 4 50.0 1 2 50.0 0 2 2 5 0 0 1 4 -6
+p807
+aVRudy Gobert UTA 11/07/2014 UTA vs. DAL L 24 8 3 4 75.0 0 0 - 2 4 50.0 1 2 3 3 2 4 2 2 -8
+p808
+aVDante Exum UTA 11/05/2014 UTA vs. CLE W 25 3 1 5 20.0 0 3 0.0 1 2 50.0 0 2 2 5 0 0 0 2 1
+p809
+aVRodney Hood UTA 11/05/2014 UTA vs. CLE W 14 6 2 6 33.3 2 5 40.0 0 0 - 2 3 5 1 1 0 0 1 -3
+p810
+aVDerrick Favors UTA 11/05/2014 UTA vs. CLE W 35 21 9 13 69.2 0 0 - 3 4 75.0 4 6 10 2 0 2 3 4 7
+p811
+aVTrey Burke UTA 11/05/2014 UTA vs. CLE W 23 6 2 6 33.3 2 5 40.0 0 0 - 1 2 3 2 1 2 1 5 3
+p812
+aVRudy Gobert UTA 11/05/2014 UTA vs. CLE W 13 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 0 0 3 1 0 -5
+p813
+aVGordon Hayward UTA 11/05/2014 UTA vs. CLE W 37 21 7 12 58.3 0 1 0.0 7 7 100.0 1 3 4 7 0 1 4 2 6
+p814
+aVTrevor Booker UTA 11/05/2014 UTA vs. CLE W 21 9 4 8 50.0 1 2 50.0 0 1 0.0 1 3 4 2 0 0 0 4 -2
+p815
+aVJoe Ingles UTA 11/05/2014 UTA vs. CLE W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 5
+p816
+aVAlec Burks UTA 11/05/2014 UTA vs. CLE W 33 11 3 8 37.5 1 2 50.0 4 4 100.0 1 3 4 5 1 0 1 3 -4
+p817
+aVEnes Kanter UTA 11/05/2014 UTA vs. CLE W 27 18 8 13 61.5 1 2 50.0 1 2 50.0 1 4 5 1 0 0 2 3 2
+p818
+aVJoe Ingles UTA 11/03/2014 UTA @ LAC L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 1
+p819
+aVDerrick Favors UTA 11/03/2014 UTA @ LAC L 26 6 2 4 50.0 0 0 - 2 4 50.0 0 3 3 1 0 0 1 3 -8
+p820
+aVEnes Kanter UTA 11/03/2014 UTA @ LAC L 27 17 7 13 53.8 0 1 0.0 3 3 100.0 4 5 9 1 1 0 2 2 1
+p821
+aVAlec Burks UTA 11/03/2014 UTA @ LAC L 32 16 4 13 30.8 1 3 33.3 7 7 100.0 1 3 4 3 0 0 2 1 -9
+p822
+aVTrevor Booker UTA 11/03/2014 UTA @ LAC L 27 12 5 9 55.6 2 3 66.7 0 2 0.0 2 3 5 2 1 0 2 4 6
+p823
+aVDante Exum UTA 11/03/2014 UTA @ LAC L 17 7 3 6 50.0 0 3 0.0 1 2 50.0 0 1 1 2 0 1 1 2 -1
+p824
+aVRudy Gobert UTA 11/03/2014 UTA @ LAC L 15 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 1 1 0 -9
+p825
+aVRodney Hood UTA 11/03/2014 UTA @ LAC L 18 6 2 5 40.0 2 3 66.7 0 0 - 0 6 6 3 0 0 1 2 -1
+p826
+aVGordon Hayward UTA 11/03/2014 UTA @ LAC L 36 27 10 19 52.6 5 12 41.7 2 2 100.0 1 6 7 5 1 0 3 1 -3
+p827
+aVSteve Novak UTA 11/03/2014 UTA @ LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p828
+aVTrey Burke UTA 11/03/2014 UTA @ LAC L 31 6 1 5 20.0 0 2 0.0 4 4 100.0 0 4 4 4 1 0 4 4 -5
+p829
+aVTrey Burke UTA 11/01/2014 UTA vs. PHX W 32 7 3 12 25.0 0 5 0.0 1 3 33.3 0 2 2 4 2 1 2 1 15
+p830
+aVRodney Hood UTA 11/01/2014 UTA vs. PHX W 16 7 2 6 33.3 0 3 0.0 3 3 100.0 0 2 2 0 0 0 0 0 9
+p831
+aVJoe Ingles UTA 11/01/2014 UTA vs. PHX W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 3 1 0 0 0 5
+p832
+aVTrevor Booker UTA 11/01/2014 UTA vs. PHX W 24 14 7 9 77.8 0 2 0.0 0 0 - 4 5 9 2 2 0 2 0 19
+p833
+aVEnes Kanter UTA 11/01/2014 UTA vs. PHX W 16 3 1 3 33.3 0 1 0.0 1 1 100.0 1 1 2 0 0 0 2 4 6
+p834
+aVIan Clark UTA 11/01/2014 UTA vs. PHX W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p835
+aVAlec Burks UTA 11/01/2014 UTA vs. PHX W 33 10 2 8 25.0 0 3 0.0 6 6 100.0 0 6 6 3 0 1 4 1 20
+p836
+aVGordon Hayward UTA 11/01/2014 UTA vs. PHX W 34 24 9 15 60.0 3 5 60.0 3 3 100.0 1 9 10 3 1 0 1 1 18
+p837
+aVRudy Gobert UTA 11/01/2014 UTA vs. PHX W 18 6 1 3 33.3 0 0 - 4 4 100.0 3 5 8 0 0 1 0 1 15
+p838
+aVDerrick Favors UTA 11/01/2014 UTA vs. PHX W 30 32 12 22 54.5 0 0 - 8 9 88.9 4 5 9 1 2 2 0 2 12
+p839
+aVSteve Novak UTA 11/01/2014 UTA vs. PHX W 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 2
+p840
+aVDante Exum UTA 11/01/2014 UTA vs. PHX W 18 10 3 4 75.0 3 4 75.0 1 4 25.0 0 2 2 3 2 1 1 3 15
+p841
+aVRudy Gobert UTA 10/30/2014 UTA @ DAL L 12 5 2 3 66.7 0 0 - 1 1 100.0 5 3 8 1 0 0 3 2 -13
+p842
+aVSteve Novak UTA 10/30/2014 UTA @ DAL L 8 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 -6
+p843
+aVTrevor Booker UTA 10/30/2014 UTA @ DAL L 19 9 3 6 50.0 3 4 75.0 0 0 - 1 4 5 0 0 0 1 2 -11
+p844
+aVDerrick Favors UTA 10/30/2014 UTA @ DAL L 35 17 7 12 58.3 0 0 - 3 4 75.0 3 8 11 2 1 0 1 3 -3
+p845
+aVRodney Hood UTA 10/30/2014 UTA @ DAL L 17 0 0 7 0.0 0 3 0.0 0 0 - 0 2 2 2 0 0 0 4 -8
+p846
+aVGordon Hayward UTA 10/30/2014 UTA @ DAL L 36 16 4 9 44.4 2 7 28.6 6 6 100.0 1 3 4 6 1 0 2 3 -15
+p847
+aVAlec Burks UTA 10/30/2014 UTA @ DAL L 26 15 5 11 45.5 3 5 60.0 2 2 100.0 0 1 1 2 2 0 2 4 1
+p848
+aVJoe Ingles UTA 10/30/2014 UTA @ DAL L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -10
+p849
+aVTrey Burke UTA 10/30/2014 UTA @ DAL L 34 16 6 15 40.0 2 6 33.3 2 2 100.0 3 0 3 7 2 0 4 0 -5
+p850
+aVIan Clark UTA 10/30/2014 UTA @ DAL L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p851
+aVDante Exum UTA 10/30/2014 UTA @ DAL L 19 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 0 0 0 2 1 -15
+p852
+aVEnes Kanter UTA 10/30/2014 UTA @ DAL L 20 11 4 10 40.0 1 2 50.0 2 3 66.7 2 2 4 0 0 0 0 0 -1
+p853
+aVRodney Hood UTA 10/29/2014 UTA vs. HOU L 21 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 0 1 2 1 0 -8
+p854
+aVTrevor Booker UTA 10/29/2014 UTA vs. HOU L 23 14 6 10 60.0 0 1 0.0 2 2 100.0 2 3 5 0 0 0 1 2 8
+p855
+aVDerrick Favors UTA 10/29/2014 UTA vs. HOU L 27 16 7 10 70.0 0 0 - 2 3 66.7 5 2 7 2 3 4 3 4 0
+p856
+aVJoe Ingles UTA 10/29/2014 UTA vs. HOU L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p857
+aVDante Exum UTA 10/29/2014 UTA vs. HOU L 10 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 1 0 1 0 3
+p858
+aVGordon Hayward UTA 10/29/2014 UTA vs. HOU L 38 8 3 11 27.3 0 3 0.0 2 2 100.0 2 6 8 7 1 0 1 1 -8
+p859
+aVEnes Kanter UTA 10/29/2014 UTA vs. HOU L 22 10 5 12 41.7 0 2 0.0 0 0 - 1 4 5 0 0 0 1 3 -12
+p860
+aVTrey Burke UTA 10/29/2014 UTA vs. HOU L 38 15 6 16 37.5 0 4 0.0 3 4 75.0 1 0 1 4 0 0 2 1 -14
+p861
+aVRudy Gobert UTA 10/29/2014 UTA vs. HOU L 20 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 1 3 -10
+p862
+aVAlec Burks UTA 10/29/2014 UTA vs. HOU L 36 18 6 11 54.5 1 2 50.0 5 6 83.3 1 2 3 2 1 0 2 2 -14
+p863
+a.

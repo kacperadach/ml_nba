@@ -1,0 +1,1638 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJason Kapono PHI 04/13/2011 PHI vs. DET L 10 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 3 0 0 0 2 6
+p2
+aVAntonio Daniels PHI 04/13/2011 PHI vs. DET L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p3
+aVSpencer Hawes PHI 04/13/2011 PHI vs. DET L 28 6 3 9 33.3 0 0 - 0 0 - 1 4 5 1 1 2 2 3 -10
+p4
+aVAndres Nocioni PHI 04/13/2011 PHI vs. DET L 31 18 6 12 50.0 2 5 40.0 4 4 100.0 2 2 4 3 0 0 0 5 -11
+p5
+aVJodie Meeks PHI 04/13/2011 PHI vs. DET L 28 6 2 9 22.2 0 5 0.0 2 2 100.0 0 5 5 1 2 0 1 4 -10
+p6
+aVMarreese Speights PHI 04/13/2011 PHI vs. DET L 18 8 3 8 37.5 0 0 - 2 4 50.0 2 2 4 1 0 1 0 2 3
+p7
+aVJrue Holiday PHI 04/13/2011 PHI vs. DET L 33 21 7 11 63.6 3 7 42.9 4 4 100.0 1 2 3 7 1 0 2 2 -10
+p8
+aVThaddeus Young PHI 04/13/2011 PHI vs. DET L 17 13 6 11 54.5 1 1 100.0 0 0 - 1 2 3 1 0 1 1 1 2
+p9
+aVEvan Turner PHI 04/13/2011 PHI vs. DET L 35 18 7 13 53.8 2 2 100.0 2 2 100.0 0 6 6 7 2 0 2 1 12
+p10
+aVElton Brand PHI 04/13/2011 PHI vs. DET L 32 8 4 13 30.8 0 0 - 0 0 - 2 6 8 2 0 2 0 2 -5
+p11
+aVElton Brand PHI 04/11/2011 PHI vs. ORL L 38 22 9 15 60.0 0 0 - 4 4 100.0 4 1 5 3 2 1 0 3 -10
+p12
+aVJrue Holiday PHI 04/11/2011 PHI vs. ORL L 38 15 7 16 43.8 1 2 50.0 0 0 - 0 4 4 11 0 1 4 1 -12
+p13
+aVEvan Turner PHI 04/11/2011 PHI vs. ORL L 25 7 2 7 28.6 0 0 - 3 3 100.0 1 1 2 2 1 0 0 1 -3
+p14
+aVAntonio Daniels PHI 04/11/2011 PHI vs. ORL L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 11
+p15
+aVMarreese Speights PHI 04/11/2011 PHI vs. ORL L 7 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 1 0 1 1 9
+p16
+aVJodie Meeks PHI 04/11/2011 PHI vs. ORL L 28 7 3 8 37.5 1 5 20.0 0 0 - 0 3 3 1 3 0 2 1 -23
+p17
+aVAndres Nocioni PHI 04/11/2011 PHI vs. ORL L 34 13 5 11 45.5 3 7 42.9 0 0 - 0 6 6 1 0 0 1 2 -6
+p18
+aVThaddeus Young PHI 04/11/2011 PHI vs. ORL L 28 9 4 12 33.3 0 1 0.0 1 2 50.0 1 3 4 2 2 0 1 2 7
+p19
+aVSpencer Hawes PHI 04/11/2011 PHI vs. ORL L 28 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 2 2 1 1 3 -23
+p20
+aVSpencer Hawes PHI 04/08/2011 PHI vs. TOR W 24 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 3 0 2 1 4 -1
+p21
+aVJrue Holiday PHI 04/08/2011 PHI vs. TOR W 40 13 3 11 27.3 0 1 0.0 7 7 100.0 1 3 4 11 4 1 5 1 4
+p22
+aVThaddeus Young PHI 04/08/2011 PHI vs. TOR W 33 20 8 13 61.5 0 0 - 4 7 57.1 0 1 1 0 3 0 0 2 7
+p23
+aVJodie Meeks PHI 04/08/2011 PHI vs. TOR W 40 10 2 11 18.2 2 9 22.2 4 6 66.7 0 7 7 1 0 0 1 1 9
+p24
+aVAndre Iguodala PHI 04/08/2011 PHI vs. TOR W 30 16 7 12 58.3 1 1 100.0 1 3 33.3 0 3 3 3 0 1 2 4 -6
+p25
+aVEvan Turner PHI 04/08/2011 PHI vs. TOR W 30 10 3 7 42.9 0 0 - 4 4 100.0 1 2 3 2 2 0 1 3 8
+p26
+aVElton Brand PHI 04/08/2011 PHI vs. TOR W 39 22 10 16 62.5 0 0 - 2 2 100.0 2 6 8 0 0 1 1 3 2
+p27
+aVAntonio Daniels PHI 04/08/2011 PHI vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p28
+aVElton Brand PHI 04/06/2011 PHI vs. NYK L 39 24 11 16 68.8 0 0 - 2 2 100.0 2 7 9 2 0 4 1 3 0
+p29
+aVAndre Iguodala PHI 04/06/2011 PHI vs. NYK L 38 15 5 14 35.7 1 5 20.0 4 5 80.0 2 3 5 6 0 1 0 3 -4
+p30
+aVJodie Meeks PHI 04/06/2011 PHI vs. NYK L 35 9 2 11 18.2 0 8 0.0 5 5 100.0 1 3 4 3 2 0 1 1 -1
+p31
+aVThaddeus Young PHI 04/06/2011 PHI vs. NYK L 31 25 11 16 68.8 0 0 - 3 8 37.5 3 4 7 0 0 0 2 1 -1
+p32
+aVJrue Holiday PHI 04/06/2011 PHI vs. NYK L 44 11 5 17 29.4 1 3 33.3 0 0 - 2 5 7 8 0 0 3 2 -7
+p33
+aVAndres Nocioni PHI 04/06/2011 PHI vs. NYK L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 0 -7
+p34
+aVEvan Turner PHI 04/06/2011 PHI vs. NYK L 21 4 2 8 25.0 0 1 0.0 0 2 0.0 5 2 7 0 0 0 0 2 7
+p35
+aVSpencer Hawes PHI 04/06/2011 PHI vs. NYK L 15 0 0 5 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -13
+p36
+aVMarreese Speights PHI 04/06/2011 PHI vs. NYK L 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p37
+aVMarreese Speights PHI 04/05/2011 PHI @ BOS L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p38
+aVAndres Nocioni PHI 04/05/2011 PHI @ BOS L 7 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p39
+aVElton Brand PHI 04/05/2011 PHI @ BOS L 36 12 5 11 45.5 0 0 - 2 2 100.0 3 2 5 3 2 3 0 3 -14
+p40
+aVThaddeus Young PHI 04/05/2011 PHI @ BOS L 28 8 4 10 40.0 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -6
+p41
+aVAntonio Daniels PHI 04/05/2011 PHI @ BOS L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 0 -4
+p42
+aVSpencer Hawes PHI 04/05/2011 PHI @ BOS L 29 6 3 14 21.4 0 1 0.0 0 0 - 5 3 8 1 2 0 0 3 -10
+p43
+aVEvan Turner PHI 04/05/2011 PHI @ BOS L 33 21 9 14 64.3 1 1 100.0 2 4 50.0 3 0 3 5 1 0 2 1 -9
+p44
+aVJrue Holiday PHI 04/05/2011 PHI @ BOS L 31 11 4 12 33.3 1 3 33.3 2 2 100.0 0 3 3 4 3 0 3 2 -10
+p45
+aVAndre Iguodala PHI 04/05/2011 PHI @ BOS L 33 10 3 8 37.5 0 1 0.0 4 7 57.1 0 5 5 3 0 0 3 1 -14
+p46
+aVJodie Meeks PHI 04/05/2011 PHI @ BOS L 31 10 4 8 50.0 2 4 50.0 0 0 - 1 2 3 0 1 0 1 1 -18
+p47
+aVElton Brand PHI 04/02/2011 PHI @ MIL L 39 20 10 18 55.6 0 0 - 0 2 0.0 4 8 12 3 1 2 0 1 3
+p48
+aVMarreese Speights PHI 04/02/2011 PHI @ MIL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p49
+aVJrue Holiday PHI 04/02/2011 PHI @ MIL L 47 15 6 20 30.0 1 4 25.0 2 2 100.0 2 1 3 10 1 0 3 3 -6
+p50
+aVAndre Iguodala PHI 04/02/2011 PHI @ MIL L 41 7 2 8 25.0 0 2 0.0 3 4 75.0 0 4 4 4 2 0 4 2 -1
+p51
+aVJodie Meeks PHI 04/02/2011 PHI @ MIL L 42 13 5 8 62.5 2 3 66.7 1 1 100.0 0 5 5 2 1 0 0 2 4
+p52
+aVLou Williams PHI 04/02/2011 PHI @ MIL L 16 3 1 5 20.0 0 2 0.0 1 3 33.3 0 3 3 1 1 0 1 1 -6
+p53
+aVSpencer Hawes PHI 04/02/2011 PHI @ MIL L 28 12 4 12 33.3 0 0 - 4 4 100.0 2 5 7 4 2 1 3 3 0
+p54
+aVAndres Nocioni PHI 04/02/2011 PHI @ MIL L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -11
+p55
+aVJason Kapono PHI 04/02/2011 PHI @ MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p56
+aVThaddeus Young PHI 04/02/2011 PHI @ MIL L 32 14 6 14 42.9 0 1 0.0 2 2 100.0 2 4 6 0 2 0 2 2 -8
+p57
+aVEvan Turner PHI 04/01/2011 PHI vs. NJN W 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 1 1 2 2 -6
+p58
+aVJodie Meeks PHI 04/01/2011 PHI vs. NJN W 25 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 18
+p59
+aVAndres Nocioni PHI 04/01/2011 PHI vs. NJN W 21 8 2 4 50.0 2 3 66.7 2 2 100.0 0 4 4 2 0 1 2 3 -4
+p60
+aVLou Williams PHI 04/01/2011 PHI vs. NJN W 23 13 5 7 71.4 1 1 100.0 2 2 100.0 0 0 0 5 0 0 0 2 19
+p61
+aVAndre Iguodala PHI 04/01/2011 PHI vs. NJN W 32 14 5 11 45.5 2 5 40.0 2 2 100.0 0 3 3 7 0 2 0 0 31
+p62
+aVMarreese Speights PHI 04/01/2011 PHI vs. NJN W 9 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -6
+p63
+aVSpencer Hawes PHI 04/01/2011 PHI vs. NJN W 22 8 3 7 42.9 0 0 - 2 4 50.0 3 6 9 0 0 0 1 1 9
+p64
+aVThaddeus Young PHI 04/01/2011 PHI vs. NJN W 24 22 9 12 75.0 0 0 - 4 4 100.0 2 3 5 0 3 0 1 0 17
+p65
+aVTony Battie PHI 04/01/2011 PHI vs. NJN W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -8
+p66
+aVJrue Holiday PHI 04/01/2011 PHI vs. NJN W 31 17 8 12 66.7 1 3 33.3 0 0 - 2 4 6 7 0 0 1 2 31
+p67
+aVJason Kapono PHI 04/01/2011 PHI vs. NJN W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p68
+aVElton Brand PHI 04/01/2011 PHI vs. NJN W 30 21 7 12 58.3 0 0 - 7 8 87.5 0 7 7 2 0 0 0 3 28
+p69
+aVSpencer Hawes PHI 03/30/2011 PHI vs. HOU W 34 12 6 12 50.0 0 0 - 0 0 - 1 6 7 1 0 1 1 3 11
+p70
+aVElton Brand PHI 03/30/2011 PHI vs. HOU W 28 8 4 7 57.1 0 0 - 0 0 - 1 3 4 1 1 3 0 2 4
+p71
+aVLou Williams PHI 03/30/2011 PHI vs. HOU W 22 15 6 12 50.0 1 3 33.3 2 2 100.0 0 4 4 5 2 0 1 2 4
+p72
+aVAndres Nocioni PHI 03/30/2011 PHI vs. HOU W 14 6 3 6 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 3 1
+p73
+aVJrue Holiday PHI 03/30/2011 PHI vs. HOU W 37 24 8 12 66.7 1 3 33.3 7 7 100.0 0 2 2 12 0 0 5 2 10
+p74
+aVThaddeus Young PHI 03/30/2011 PHI vs. HOU W 33 22 11 19 57.9 0 0 - 0 0 - 2 7 9 0 1 0 0 1 9
+p75
+aVAndre Iguodala PHI 03/30/2011 PHI vs. HOU W 37 9 3 8 37.5 1 2 50.0 2 2 100.0 3 5 8 10 1 0 4 2 6
+p76
+aVJodie Meeks PHI 03/30/2011 PHI vs. HOU W 35 12 5 9 55.6 2 4 50.0 0 1 0.0 0 4 4 1 2 0 1 2 10
+p77
+aVEvan Turner PHI 03/28/2011 PHI @ CHI W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p78
+aVThaddeus Young PHI 03/28/2011 PHI @ CHI W 25 21 10 16 62.5 0 0 - 1 2 50.0 3 4 7 2 2 4 1 2 10
+p79
+aVJodie Meeks PHI 03/28/2011 PHI @ CHI W 31 8 3 10 30.0 2 7 28.6 0 0 - 0 4 4 0 1 0 1 1 9
+p80
+aVJrue Holiday PHI 03/28/2011 PHI @ CHI W 39 12 4 8 50.0 1 2 50.0 3 4 75.0 0 4 4 6 0 0 3 1 8
+p81
+aVElton Brand PHI 03/28/2011 PHI @ CHI W 41 13 6 12 50.0 0 0 - 1 2 50.0 3 6 9 0 3 2 2 4 14
+p82
+aVAndre Iguodala PHI 03/28/2011 PHI @ CHI W 40 19 7 14 50.0 1 3 33.3 4 5 80.0 2 5 7 7 2 1 4 0 3
+p83
+aVMarreese Speights PHI 03/28/2011 PHI @ CHI W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -5
+p84
+aVLou Williams PHI 03/28/2011 PHI @ CHI W 28 10 2 11 18.2 0 1 0.0 6 8 75.0 2 5 7 7 2 0 2 0 8
+p85
+aVSpencer Hawes PHI 03/28/2011 PHI @ CHI W 24 14 7 13 53.8 0 1 0.0 0 0 - 2 2 4 1 1 2 1 6 6
+p86
+aVJodie Meeks PHI 03/27/2011 PHI vs. SAC L 39 22 8 11 72.7 3 6 50.0 3 3 100.0 0 0 0 1 0 0 0 4 8
+p87
+aVElton Brand PHI 03/27/2011 PHI vs. SAC L 39 15 5 10 50.0 0 0 - 5 6 83.3 0 3 3 2 2 5 0 4 1
+p88
+aVAndres Nocioni PHI 03/27/2011 PHI vs. SAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p89
+aVAndre Iguodala PHI 03/27/2011 PHI vs. SAC L 44 16 6 14 42.9 0 2 0.0 4 10 40.0 1 2 3 5 4 1 2 2 1
+p90
+aVLou Williams PHI 03/27/2011 PHI vs. SAC L 14 5 1 12 8.3 1 4 25.0 2 3 66.7 0 2 2 1 0 0 3 4 -3
+p91
+aVSpencer Hawes PHI 03/27/2011 PHI vs. SAC L 43 16 6 11 54.5 0 1 0.0 4 5 80.0 4 11 15 4 1 1 2 4 2
+p92
+aVJrue Holiday PHI 03/27/2011 PHI vs. SAC L 40 28 11 19 57.9 1 1 100.0 5 5 100.0 4 5 9 7 0 1 2 1 3
+p93
+aVTony Battie PHI 03/27/2011 PHI vs. SAC L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 2 0 2 -5
+p94
+aVEvan Turner PHI 03/27/2011 PHI vs. SAC L 20 5 1 2 50.0 0 0 - 3 3 100.0 0 1 1 1 1 0 2 0 -13
+p95
+aVThaddeus Young PHI 03/27/2011 PHI vs. SAC L 18 4 2 11 18.2 0 0 - 0 1 0.0 0 1 1 1 1 0 1 1 -3
+p96
+aVEvan Turner PHI 03/25/2011 PHI @ MIA L 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -3
+p97
+aVAndres Nocioni PHI 03/25/2011 PHI @ MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p98
+aVElton Brand PHI 03/25/2011 PHI @ MIA L 39 8 4 10 40.0 0 0 - 0 1 0.0 2 6 8 3 1 1 0 4 -15
+p99
+aVJrue Holiday PHI 03/25/2011 PHI @ MIA L 40 13 6 14 42.9 0 3 0.0 1 1 100.0 1 2 3 6 2 0 2 4 -16
+p100
+aVLou Williams PHI 03/25/2011 PHI @ MIA L 25 24 9 12 75.0 4 7 57.1 2 2 100.0 0 0 0 5 2 0 4 1 1
+p101
+aVJodie Meeks PHI 03/25/2011 PHI @ MIA L 32 14 5 13 38.5 3 7 42.9 1 1 100.0 0 1 1 0 3 0 1 2 -9
+p102
+aVSpencer Hawes PHI 03/25/2011 PHI @ MIA L 27 13 6 13 46.2 0 0 - 1 1 100.0 1 4 5 1 1 1 0 4 6
+p103
+aVAndre Iguodala PHI 03/25/2011 PHI @ MIA L 36 10 3 10 30.0 0 2 0.0 4 5 80.0 1 2 3 4 1 0 4 2 -17
+p104
+aVThaddeus Young PHI 03/25/2011 PHI @ MIA L 29 15 6 12 50.0 0 0 - 3 3 100.0 2 6 8 2 0 0 2 5 -10
+p105
+aVJodie Meeks PHI 03/23/2011 PHI vs. ATL W 37 15 5 6 83.3 5 6 83.3 0 0 - 1 2 3 1 0 0 0 0 7
+p106
+aVAndre Iguodala PHI 03/23/2011 PHI vs. ATL W 36 16 5 11 45.5 1 2 50.0 5 8 62.5 0 5 5 4 1 0 1 1 -3
+p107
+aVJrue Holiday PHI 03/23/2011 PHI vs. ATL W 31 12 5 11 45.5 2 3 66.7 0 0 - 0 2 2 5 0 0 2 1 -1
+p108
+aVLou Williams PHI 03/23/2011 PHI vs. ATL W 20 17 5 8 62.5 2 4 50.0 5 7 71.4 0 2 2 3 0 0 1 0 8
+p109
+aVThaddeus Young PHI 03/23/2011 PHI vs. ATL W 27 16 7 12 58.3 0 0 - 2 2 100.0 1 5 6 1 1 1 0 2 8
+p110
+aVSpencer Hawes PHI 03/23/2011 PHI vs. ATL W 26 10 5 12 41.7 0 2 0.0 0 0 - 3 1 4 2 0 2 1 2 8
+p111
+aVAndres Nocioni PHI 03/23/2011 PHI vs. ATL W 15 2 1 5 20.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 2 8
+p112
+aVEvan Turner PHI 03/23/2011 PHI vs. ATL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p113
+aVTony Battie PHI 03/23/2011 PHI vs. ATL W 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -4
+p114
+aVElton Brand PHI 03/23/2011 PHI vs. ATL W 35 13 6 15 40.0 0 0 - 1 1 100.0 5 6 11 3 0 1 1 2 -2
+p115
+aVTony Battie PHI 03/19/2011 PHI @ POR L 13 6 2 3 66.7 0 0 - 2 2 100.0 0 6 6 0 0 0 0 3 1
+p116
+aVEvan Turner PHI 03/19/2011 PHI @ POR L 17 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 0 0 3 4 -4
+p117
+aVSpencer Hawes PHI 03/19/2011 PHI @ POR L 20 2 1 6 16.7 0 1 0.0 0 0 - 1 6 7 1 0 0 0 0 -12
+p118
+aVJodie Meeks PHI 03/19/2011 PHI @ POR L 38 17 7 9 77.8 3 5 60.0 0 0 - 0 1 1 3 1 0 0 4 -3
+p119
+aVElton Brand PHI 03/19/2011 PHI @ POR L 35 10 4 11 36.4 0 0 - 2 2 100.0 6 3 9 3 2 1 2 4 -18
+p120
+aVJason Kapono PHI 03/19/2011 PHI @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p121
+aVJrue Holiday PHI 03/19/2011 PHI @ POR L 37 7 3 11 27.3 1 2 50.0 0 0 - 1 1 2 10 3 0 1 2 -13
+p122
+aVLou Williams PHI 03/19/2011 PHI @ POR L 31 24 7 17 41.2 2 7 28.6 8 9 88.9 1 0 1 4 1 0 0 1 3
+p123
+aVThaddeus Young PHI 03/19/2011 PHI @ POR L 27 19 9 11 81.8 1 1 100.0 0 0 - 1 5 6 2 2 0 2 3 6
+p124
+aVAndres Nocioni PHI 03/19/2011 PHI @ POR L 22 10 4 6 66.7 1 1 100.0 1 2 50.0 0 2 2 1 0 0 2 1 -7
+p125
+aVEvan Turner PHI 03/18/2011 PHI @ SAC W 24 8 4 8 50.0 0 0 - 0 0 - 1 2 3 3 1 0 1 4 7
+p126
+aVLou Williams PHI 03/18/2011 PHI @ SAC W 20 14 4 10 40.0 3 4 75.0 3 4 75.0 0 2 2 4 2 0 2 1 10
+p127
+aVTony Battie PHI 03/18/2011 PHI @ SAC W 9 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 3
+p128
+aVElton Brand PHI 03/18/2011 PHI @ SAC W 26 10 5 11 45.5 0 0 - 0 0 - 2 4 6 1 1 1 1 1 19
+p129
+aVAndre Iguodala PHI 03/18/2011 PHI @ SAC W 29 13 6 11 54.5 0 0 - 1 5 20.0 1 6 7 9 3 0 5 1 21
+p130
+aVJason Kapono PHI 03/18/2011 PHI @ SAC W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p131
+aVJrue Holiday PHI 03/18/2011 PHI @ SAC W 31 15 6 13 46.2 2 3 66.7 1 1 100.0 1 8 9 5 4 1 0 1 18
+p132
+aVMarreese Speights PHI 03/18/2011 PHI @ SAC W 8 9 4 7 57.1 0 0 - 1 1 100.0 2 0 2 1 0 0 0 2 -3
+p133
+aVSpencer Hawes PHI 03/18/2011 PHI @ SAC W 26 6 3 7 42.9 0 1 0.0 0 0 - 2 4 6 4 0 2 1 3 9
+p134
+aVAndres Nocioni PHI 03/18/2011 PHI @ SAC W 5 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 1 1 1 1 0
+p135
+aVJodie Meeks PHI 03/18/2011 PHI @ SAC W 35 7 3 11 27.3 1 6 16.7 0 0 - 1 5 6 2 2 0 0 1 13
+p136
+aVThaddeus Young PHI 03/18/2011 PHI @ SAC W 23 9 4 12 33.3 0 0 - 1 1 100.0 5 5 10 1 2 0 2 1 16
+p137
+aVSpencer Hawes PHI 03/16/2011 PHI @ LAC W 31 12 4 7 57.1 0 0 - 4 5 80.0 1 5 6 3 0 1 0 5 17
+p138
+aVTony Battie PHI 03/16/2011 PHI @ LAC W 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 4 -13
+p139
+aVAndre Iguodala PHI 03/16/2011 PHI @ LAC W 34 9 4 13 30.8 0 2 0.0 1 2 50.0 0 5 5 8 1 0 2 0 20
+p140
+aVAndres Nocioni PHI 03/16/2011 PHI @ LAC W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -11
+p141
+aVLou Williams PHI 03/16/2011 PHI @ LAC W 23 14 4 13 30.8 1 4 25.0 5 6 83.3 0 4 4 2 2 0 1 2 -16
+p142
+aVJodie Meeks PHI 03/16/2011 PHI @ LAC W 38 22 7 12 58.3 5 8 62.5 3 3 100.0 2 4 6 3 1 0 0 2 24
+p143
+aVEvan Turner PHI 03/16/2011 PHI @ LAC W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -8
+p144
+aVThaddeus Young PHI 03/16/2011 PHI @ LAC W 13 6 3 8 37.5 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -10
+p145
+aVJrue Holiday PHI 03/16/2011 PHI @ LAC W 32 20 8 12 66.7 2 3 66.7 2 2 100.0 1 3 4 9 0 0 3 3 21
+p146
+aVElton Brand PHI 03/16/2011 PHI @ LAC W 39 19 7 15 46.7 0 0 - 5 6 83.3 3 9 12 2 1 5 2 4 26
+p147
+aVAndre Iguodala PHI 03/14/2011 PHI @ UTA L 39 23 8 16 50.0 3 6 50.0 4 4 100.0 1 5 6 6 0 1 0 1 -12
+p148
+aVElton Brand PHI 03/14/2011 PHI @ UTA L 40 19 8 17 47.1 0 0 - 3 4 75.0 1 2 3 0 2 1 2 3 -4
+p149
+aVMarreese Speights PHI 03/14/2011 PHI @ UTA L 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 3 -4
+p150
+aVJrue Holiday PHI 03/14/2011 PHI @ UTA L 34 4 2 11 18.2 0 2 0.0 0 0 - 0 5 5 3 0 0 4 1 -6
+p151
+aVLou Williams PHI 03/14/2011 PHI @ UTA L 31 22 8 15 53.3 1 4 25.0 5 6 83.3 0 2 2 4 1 0 0 0 16
+p152
+aVTony Battie PHI 03/14/2011 PHI @ UTA L 12 0 0 0 - 0 0 - 0 0 - 0 6 6 1 0 0 0 4 5
+p153
+aVSpencer Hawes PHI 03/14/2011 PHI @ UTA L 28 8 4 10 40.0 0 1 0.0 0 0 - 3 7 10 2 3 2 2 3 -5
+p154
+aVJodie Meeks PHI 03/14/2011 PHI @ UTA L 40 17 5 9 55.6 4 8 50.0 3 4 75.0 0 2 2 1 1 0 0 2 -18
+p155
+aVEvan Turner PHI 03/14/2011 PHI @ UTA L 16 4 1 6 16.7 0 0 - 2 2 100.0 1 2 3 2 0 0 0 0 7
+p156
+aVThaddeus Young PHI 03/14/2011 PHI @ UTA L 23 10 5 11 45.5 0 0 - 0 0 - 4 2 6 0 1 0 0 4 -4
+p157
+aVJason Kapono PHI 03/14/2011 PHI @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p158
+aVCraig Brackins PHI 03/12/2011 PHI @ MIL L 12 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p159
+aVEvan Turner PHI 03/12/2011 PHI @ MIL L 26 10 5 12 41.7 0 0 - 0 0 - 0 2 2 4 1 0 0 1 -34
+p160
+aVAndre Iguodala PHI 03/12/2011 PHI @ MIL L 26 10 4 6 66.7 2 3 66.7 0 0 - 0 1 1 5 1 0 3 2 -18
+p161
+aVThaddeus Young PHI 03/12/2011 PHI @ MIL L 20 0 0 4 0.0 0 0 - 0 0 - 3 1 4 1 0 0 1 1 -19
+p162
+aVSpencer Hawes PHI 03/12/2011 PHI @ MIL L 24 6 3 8 37.5 0 0 - 0 0 - 3 4 7 3 0 0 1 2 -10
+p163
+aVJodie Meeks PHI 03/12/2011 PHI @ MIL L 34 13 5 10 50.0 3 7 42.9 0 0 - 2 4 6 2 1 0 2 1 -5
+p164
+aVAndres Nocioni PHI 03/12/2011 PHI @ MIL L 6 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 1 2
+p165
+aVMarreese Speights PHI 03/12/2011 PHI @ MIL L 15 7 3 9 33.3 0 0 - 1 1 100.0 3 3 6 1 1 1 0 2 -6
+p166
+aVTony Battie PHI 03/12/2011 PHI @ MIL L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -10
+p167
+aVJrue Holiday PHI 03/12/2011 PHI @ MIL L 20 6 3 4 75.0 0 0 - 0 0 - 1 0 1 2 1 0 6 3 -4
+p168
+aVElton Brand PHI 03/12/2011 PHI @ MIL L 22 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 1 1 1 4 0 -11
+p169
+aVLou Williams PHI 03/12/2011 PHI @ MIL L 27 16 6 12 50.0 1 3 33.3 3 3 100.0 0 1 1 3 0 0 3 1 -20
+p170
+aVEvan Turner PHI 03/11/2011 PHI vs. BOS W 14 4 0 3 0.0 0 0 - 4 4 100.0 1 3 4 1 0 0 1 2 -1
+p171
+aVJodie Meeks PHI 03/11/2011 PHI vs. BOS W 37 12 3 7 42.9 2 4 50.0 4 4 100.0 0 3 3 0 1 1 0 1 5
+p172
+aVSpencer Hawes PHI 03/11/2011 PHI vs. BOS W 31 14 6 10 60.0 1 2 50.0 1 2 50.0 1 9 10 3 0 1 0 0 4
+p173
+aVThaddeus Young PHI 03/11/2011 PHI vs. BOS W 20 11 4 10 40.0 0 0 - 3 4 75.0 2 2 4 0 0 0 0 1 -7
+p174
+aVLou Williams PHI 03/11/2011 PHI vs. BOS W 20 8 3 8 37.5 0 1 0.0 2 3 66.7 0 2 2 3 0 0 1 1 -2
+p175
+aVAndre Iguodala PHI 03/11/2011 PHI vs. BOS W 36 13 5 11 45.5 2 3 66.7 1 2 50.0 1 8 9 8 1 1 2 2 6
+p176
+aVJrue Holiday PHI 03/11/2011 PHI vs. BOS W 38 9 4 13 30.8 0 3 0.0 1 2 50.0 0 4 4 7 1 0 2 2 5
+p177
+aVMarreese Speights PHI 03/11/2011 PHI vs. BOS W 11 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 1
+p178
+aVElton Brand PHI 03/11/2011 PHI vs. BOS W 33 14 6 14 42.9 0 0 - 2 4 50.0 0 5 5 0 3 2 0 1 4
+p179
+aVThaddeus Young PHI 03/09/2011 PHI vs. OKC L 29 4 2 10 20.0 0 0 - 0 0 - 3 2 5 0 1 0 2 5 -16
+p180
+aVEvan Turner PHI 03/09/2011 PHI vs. OKC L 14 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p181
+aVJrue Holiday PHI 03/09/2011 PHI vs. OKC L 42 22 8 16 50.0 2 5 40.0 4 4 100.0 0 4 4 8 3 0 0 1 -4
+p182
+aVJodie Meeks PHI 03/09/2011 PHI vs. OKC L 42 17 7 13 53.8 3 8 37.5 0 0 - 0 7 7 0 2 0 1 1 -3
+p183
+aVMarreese Speights PHI 03/09/2011 PHI vs. OKC L 17 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 2 0 1 -4
+p184
+aVAndre Iguodala PHI 03/09/2011 PHI vs. OKC L 44 14 5 12 41.7 2 5 40.0 2 2 100.0 1 5 6 8 3 0 6 1 -4
+p185
+aVElton Brand PHI 03/09/2011 PHI vs. OKC L 41 13 5 15 33.3 0 0 - 3 5 60.0 7 8 15 2 1 2 2 4 4
+p186
+aVSpencer Hawes PHI 03/09/2011 PHI vs. OKC L 13 5 2 6 33.3 1 1 100.0 0 0 - 3 1 4 0 0 0 0 1 4
+p187
+aVLou Williams PHI 03/09/2011 PHI vs. OKC L 23 22 6 13 46.2 2 5 40.0 8 10 80.0 1 2 3 3 1 0 2 1 -1
+p188
+aVJrue Holiday PHI 03/08/2011 PHI @ IND W 38 16 8 13 61.5 0 2 0.0 0 0 - 1 4 5 4 4 1 6 5 15
+p189
+aVElton Brand PHI 03/08/2011 PHI @ IND W 32 12 5 11 45.5 0 0 - 2 2 100.0 0 8 8 1 0 0 0 5 13
+p190
+aVAndre Iguodala PHI 03/08/2011 PHI @ IND W 40 16 7 13 53.8 2 3 66.7 0 1 0.0 1 3 4 10 2 2 2 0 16
+p191
+aVLou Williams PHI 03/08/2011 PHI @ IND W 15 7 3 9 33.3 1 4 25.0 0 1 0.0 0 2 2 2 0 0 1 3 -2
+p192
+aVJodie Meeks PHI 03/08/2011 PHI @ IND W 31 15 4 8 50.0 2 6 33.3 5 6 83.3 0 2 2 0 2 0 0 2 10
+p193
+aVSpencer Hawes PHI 03/08/2011 PHI @ IND W 20 12 6 9 66.7 0 0 - 0 1 0.0 1 1 2 2 0 0 0 3 12
+p194
+aVMarreese Speights PHI 03/08/2011 PHI @ IND W 12 4 2 8 25.0 0 0 - 0 0 - 3 0 3 0 0 0 2 1 2
+p195
+aVEvan Turner PHI 03/08/2011 PHI @ IND W 23 10 3 8 37.5 1 1 100.0 3 4 75.0 0 2 2 4 1 1 0 2 -13
+p196
+aVThaddeus Young PHI 03/08/2011 PHI @ IND W 31 18 9 13 69.2 0 0 - 0 0 - 4 5 9 1 2 0 2 5 -3
+p197
+aVAndre Iguodala PHI 03/06/2011 PHI vs. GSW W 41 15 5 13 38.5 0 2 0.0 5 6 83.3 5 6 11 10 3 1 4 0 -3
+p198
+aVMarreese Speights PHI 03/06/2011 PHI vs. GSW W 12 8 4 6 66.7 0 0 - 0 0 - 0 2 2 2 0 0 0 2 12
+p199
+aVLou Williams PHI 03/06/2011 PHI vs. GSW W 27 19 6 14 42.9 1 4 25.0 6 6 100.0 1 0 1 2 1 0 1 1 8
+p200
+aVJodie Meeks PHI 03/06/2011 PHI vs. GSW W 33 11 2 9 22.2 2 6 33.3 5 5 100.0 0 5 5 1 1 0 2 2 4
+p201
+aVJrue Holiday PHI 03/06/2011 PHI vs. GSW W 45 16 7 13 53.8 0 0 - 2 3 66.7 2 6 8 7 3 0 3 3 0
+p202
+aVEvan Turner PHI 03/06/2011 PHI vs. GSW W 28 20 9 15 60.0 0 0 - 2 2 100.0 3 4 7 3 2 1 2 2 25
+p203
+aVThaddeus Young PHI 03/06/2011 PHI vs. GSW W 35 20 7 12 58.3 0 0 - 6 7 85.7 3 4 7 1 2 1 1 2 8
+p204
+aVElton Brand PHI 03/06/2011 PHI vs. GSW W 29 12 6 13 46.2 0 0 - 0 1 0.0 2 3 5 3 1 0 2 3 -9
+p205
+aVSpencer Hawes PHI 03/06/2011 PHI vs. GSW W 17 4 2 2 100.0 0 0 - 0 1 0.0 1 6 7 3 1 0 4 2 -5
+p206
+aVMarreese Speights PHI 03/04/2011 PHI vs. MIN W 15 7 2 3 66.7 0 0 - 3 4 75.0 0 6 6 0 0 1 1 2 6
+p207
+aVLou Williams PHI 03/04/2011 PHI vs. MIN W 21 12 4 9 44.4 0 0 - 4 4 100.0 1 1 2 1 0 0 1 0 -2
+p208
+aVAndre Iguodala PHI 03/04/2011 PHI vs. MIN W 38 22 7 13 53.8 2 4 50.0 6 6 100.0 1 9 10 13 1 1 2 1 18
+p209
+aVJodie Meeks PHI 03/04/2011 PHI vs. MIN W 30 12 3 7 42.9 2 5 40.0 4 4 100.0 0 1 1 1 1 0 0 0 4
+p210
+aVEvan Turner PHI 03/04/2011 PHI vs. MIN W 17 10 5 8 62.5 0 1 0.0 0 0 - 0 1 1 1 0 1 1 1 2
+p211
+aVElton Brand PHI 03/04/2011 PHI vs. MIN W 36 21 10 16 62.5 0 0 - 1 3 33.3 2 3 5 2 0 1 0 3 9
+p212
+aVThaddeus Young PHI 03/04/2011 PHI vs. MIN W 33 16 8 13 61.5 0 0 - 0 0 - 4 4 8 2 2 2 2 1 14
+p213
+aVJrue Holiday PHI 03/04/2011 PHI vs. MIN W 38 9 4 12 33.3 0 2 0.0 1 2 50.0 0 3 3 6 2 1 1 1 11
+p214
+aVSpencer Hawes PHI 03/04/2011 PHI vs. MIN W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 1 1 1 -7
+p215
+aVMarreese Speights PHI 03/01/2011 PHI vs. DAL L 14 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -5
+p216
+aVElton Brand PHI 03/01/2011 PHI vs. DAL L 36 12 5 13 38.5 0 0 - 2 2 100.0 1 5 6 0 1 0 0 4 -1
+p217
+aVEvan Turner PHI 03/01/2011 PHI vs. DAL L 19 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 3 0 0 4 2 -4
+p218
+aVJodie Meeks PHI 03/01/2011 PHI vs. DAL L 34 16 5 8 62.5 4 7 57.1 2 2 100.0 1 3 4 3 1 0 2 1 -2
+p219
+aVJrue Holiday PHI 03/01/2011 PHI vs. DAL L 37 14 6 15 40.0 1 4 25.0 1 5 20.0 1 6 7 6 0 0 0 3 -6
+p220
+aVAndre Iguodala PHI 03/01/2011 PHI vs. DAL L 36 15 6 14 42.9 1 5 20.0 2 4 50.0 0 7 7 4 3 0 1 1 -9
+p221
+aVLou Williams PHI 03/01/2011 PHI vs. DAL L 19 5 1 8 12.5 1 3 33.3 2 2 100.0 0 0 0 3 0 0 0 4 -8
+p222
+aVSpencer Hawes PHI 03/01/2011 PHI vs. DAL L 14 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 2 1
+p223
+aVThaddeus Young PHI 03/01/2011 PHI vs. DAL L 30 13 5 11 45.5 0 0 - 3 6 50.0 3 4 7 1 2 0 2 3 -6
+p224
+aVLou Williams PHI 02/27/2011 PHI @ CLE W 19 16 4 8 50.0 2 3 66.7 6 8 75.0 0 4 4 1 0 0 0 4 7
+p225
+aVThaddeus Young PHI 02/27/2011 PHI @ CLE W 26 12 6 8 75.0 0 0 - 0 3 0.0 1 4 5 1 2 0 2 4 3
+p226
+aVSpencer Hawes PHI 02/27/2011 PHI @ CLE W 21 8 4 7 57.1 0 0 - 0 0 - 3 3 6 0 1 4 1 4 0
+p227
+aVMarreese Speights PHI 02/27/2011 PHI @ CLE W 10 0 0 3 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 0
+p228
+aVJrue Holiday PHI 02/27/2011 PHI @ CLE W 39 13 5 12 41.7 1 2 50.0 2 2 100.0 0 6 6 9 1 1 1 4 -5
+p229
+aVEvan Turner PHI 02/27/2011 PHI @ CLE W 26 10 5 8 62.5 0 1 0.0 0 0 - 0 3 3 2 1 0 1 1 2
+p230
+aVElton Brand PHI 02/27/2011 PHI @ CLE W 38 16 7 13 53.8 0 0 - 2 3 66.7 2 6 8 2 1 2 4 4 2
+p231
+aVAndre Iguodala PHI 02/27/2011 PHI @ CLE W 40 6 2 10 20.0 0 2 0.0 2 2 100.0 1 4 5 4 1 1 3 4 5
+p232
+aVJodie Meeks PHI 02/27/2011 PHI @ CLE W 21 14 5 8 62.5 2 3 66.7 2 2 100.0 1 1 2 0 3 0 2 0 6
+p233
+aVSpencer Hawes PHI 02/25/2011 PHI vs. DET W 16 6 3 5 60.0 0 0 - 0 0 - 1 5 6 1 0 1 3 1 6
+p234
+aVAndre Iguodala PHI 02/25/2011 PHI vs. DET W 38 21 9 13 69.2 2 4 50.0 1 1 100.0 0 7 7 11 1 0 2 1 12
+p235
+aVLou Williams PHI 02/25/2011 PHI vs. DET W 21 8 2 8 25.0 1 4 25.0 3 4 75.0 1 3 4 4 0 2 3 3 10
+p236
+aVElton Brand PHI 02/25/2011 PHI vs. DET W 29 20 8 16 50.0 0 0 - 4 4 100.0 7 10 17 0 1 1 0 3 8
+p237
+aVJodie Meeks PHI 02/25/2011 PHI vs. DET W 35 5 1 7 14.3 1 4 25.0 2 2 100.0 1 1 2 2 2 0 1 1 16
+p238
+aVThaddeus Young PHI 02/25/2011 PHI vs. DET W 32 24 12 15 80.0 0 0 - 0 1 0.0 2 1 3 3 1 0 3 2 10
+p239
+aVEvan Turner PHI 02/25/2011 PHI vs. DET W 13 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 1 0 2 3 2
+p240
+aVMarreese Speights PHI 02/25/2011 PHI vs. DET W 19 12 5 9 55.6 0 0 - 2 2 100.0 1 6 7 2 0 2 0 2 8
+p241
+aVJrue Holiday PHI 02/25/2011 PHI vs. DET W 37 12 5 11 45.5 1 3 33.3 1 1 100.0 0 1 1 10 1 2 2 2 8
+p242
+aVAndre Iguodala PHI 02/23/2011 PHI vs. WAS W 30 10 3 7 42.9 3 5 60.0 1 2 50.0 0 7 7 5 0 0 2 4 16
+p243
+aVElton Brand PHI 02/23/2011 PHI vs. WAS W 28 15 5 9 55.6 0 0 - 5 6 83.3 4 2 6 1 1 2 0 2 16
+p244
+aVJrue Holiday PHI 02/23/2011 PHI vs. WAS W 28 20 8 12 66.7 2 4 50.0 2 2 100.0 0 2 2 3 2 0 2 2 25
+p245
+aVAndres Nocioni PHI 02/23/2011 PHI vs. WAS W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -9
+p246
+aVMarreese Speights PHI 02/23/2011 PHI vs. WAS W 20 14 5 9 55.6 1 1 100.0 3 4 75.0 1 6 7 2 0 1 2 1 7
+p247
+aVSpencer Hawes PHI 02/23/2011 PHI vs. WAS W 15 7 3 5 60.0 0 0 - 1 1 100.0 1 4 5 5 0 2 1 2 6
+p248
+aVJodie Meeks PHI 02/23/2011 PHI vs. WAS W 33 12 3 8 37.5 2 6 33.3 4 4 100.0 0 0 0 0 0 0 2 1 4
+p249
+aVDarius Songaila PHI 02/23/2011 PHI vs. WAS W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 4 -10
+p250
+aVEvan Turner PHI 02/23/2011 PHI vs. WAS W 26 15 6 11 54.5 0 0 - 3 4 75.0 1 7 8 1 0 0 0 1 12
+p251
+aVLou Williams PHI 02/23/2011 PHI vs. WAS W 20 6 2 7 28.6 0 1 0.0 2 2 100.0 1 1 2 7 1 2 1 2 22
+p252
+aVThaddeus Young PHI 02/23/2011 PHI vs. WAS W 26 18 5 7 71.4 0 0 - 8 8 100.0 2 8 10 0 2 0 1 2 26
+p253
+aVAndre Iguodala PHI 02/16/2011 PHI @ HOU W 37 13 3 15 20.0 1 6 16.7 6 6 100.0 2 10 12 10 4 0 1 0 10
+p254
+aVSpencer Hawes PHI 02/16/2011 PHI @ HOU W 27 17 8 11 72.7 1 1 100.0 0 2 0.0 6 4 10 1 0 0 2 4 4
+p255
+aVEvan Turner PHI 02/16/2011 PHI @ HOU W 31 10 5 9 55.6 0 0 - 0 0 - 0 6 6 0 0 1 1 0 14
+p256
+aVJrue Holiday PHI 02/16/2011 PHI @ HOU W 37 20 8 11 72.7 2 2 100.0 2 2 100.0 0 4 4 8 1 0 4 3 -2
+p257
+aVJodie Meeks PHI 02/16/2011 PHI @ HOU W 16 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -9
+p258
+aVElton Brand PHI 02/16/2011 PHI @ HOU W 33 10 5 9 55.6 0 0 - 0 0 - 2 9 11 2 0 0 0 1 12
+p259
+aVMarreese Speights PHI 02/16/2011 PHI @ HOU W 11 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 0
+p260
+aVThaddeus Young PHI 02/16/2011 PHI @ HOU W 24 19 9 14 64.3 0 0 - 1 2 50.0 0 4 4 0 1 1 0 2 4
+p261
+aVLou Williams PHI 02/16/2011 PHI @ HOU W 25 19 8 14 57.1 1 3 33.3 2 4 50.0 1 0 1 2 0 1 1 1 12
+p262
+aVElton Brand PHI 02/15/2011 PHI @ MEM L 33 13 6 9 66.7 0 0 - 1 2 50.0 2 6 8 0 0 2 2 4 -3
+p263
+aVLou Williams PHI 02/15/2011 PHI @ MEM L 24 18 5 13 38.5 1 5 20.0 7 7 100.0 2 3 5 4 0 0 2 0 0
+p264
+aVJodie Meeks PHI 02/15/2011 PHI @ MEM L 24 8 2 5 40.0 2 4 50.0 2 2 100.0 0 3 3 1 0 0 2 3 2
+p265
+aVSpencer Hawes PHI 02/15/2011 PHI @ MEM L 26 6 3 7 42.9 0 1 0.0 0 0 - 4 4 8 0 0 2 1 2 -12
+p266
+aVEvan Turner PHI 02/15/2011 PHI @ MEM L 27 2 1 7 14.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -20
+p267
+aVThaddeus Young PHI 02/15/2011 PHI @ MEM L 27 23 9 16 56.3 0 0 - 5 7 71.4 4 1 5 0 0 1 1 2 -13
+p268
+aVJrue Holiday PHI 02/15/2011 PHI @ MEM L 39 10 4 10 40.0 0 2 0.0 2 2 100.0 0 4 4 5 3 1 3 1 8
+p269
+aVAndre Iguodala PHI 02/15/2011 PHI @ MEM L 33 9 2 7 28.6 0 1 0.0 5 6 83.3 0 7 7 4 0 1 4 1 -16
+p270
+aVDarius Songaila PHI 02/15/2011 PHI @ MEM L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -1
+p271
+aVThaddeus Young PHI 02/12/2011 PHI @ MIN W 28 18 9 13 69.2 0 0 - 0 0 - 0 3 3 2 1 0 2 4 28
+p272
+aVMarreese Speights PHI 02/12/2011 PHI @ MIN W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p273
+aVDarius Songaila PHI 02/12/2011 PHI @ MIN W 5 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 1
+p274
+aVJrue Holiday PHI 02/12/2011 PHI @ MIN W 32 10 5 10 50.0 0 1 0.0 0 0 - 0 4 4 2 3 0 0 4 14
+p275
+aVAndre Iguodala PHI 02/12/2011 PHI @ MIN W 34 15 3 9 33.3 1 3 33.3 8 9 88.9 0 5 5 7 1 0 3 2 13
+p276
+aVSpencer Hawes PHI 02/12/2011 PHI @ MIN W 19 12 6 7 85.7 0 0 - 0 0 - 1 3 4 1 0 0 0 3 0
+p277
+aVElton Brand PHI 02/12/2011 PHI @ MIN W 34 12 4 10 40.0 0 0 - 4 4 100.0 1 8 9 1 2 1 2 2 11
+p278
+aVJodie Meeks PHI 02/12/2011 PHI @ MIN W 24 16 5 8 62.5 2 3 66.7 4 5 80.0 0 3 3 2 0 0 0 2 6
+p279
+aVLou Williams PHI 02/12/2011 PHI @ MIN W 23 13 3 9 33.3 1 3 33.3 6 6 100.0 0 1 1 5 1 1 1 1 10
+p280
+aVAndres Nocioni PHI 02/12/2011 PHI @ MIN W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 0 -3
+p281
+aVEvan Turner PHI 02/12/2011 PHI @ MIN W 33 9 4 9 44.4 1 1 100.0 0 0 - 1 7 8 4 1 1 0 1 20
+p282
+aVEvan Turner PHI 02/11/2011 PHI vs. SAS W 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -4
+p283
+aVAndres Nocioni PHI 02/11/2011 PHI vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p284
+aVJason Kapono PHI 02/11/2011 PHI vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p285
+aVSpencer Hawes PHI 02/11/2011 PHI vs. SAS W 31 13 4 8 50.0 0 1 0.0 5 7 71.4 1 7 8 3 0 0 1 1 4
+p286
+aVJodie Meeks PHI 02/11/2011 PHI vs. SAS W 22 6 2 4 50.0 2 4 50.0 0 0 - 0 3 3 1 1 0 0 0 1
+p287
+aVMarreese Speights PHI 02/11/2011 PHI vs. SAS W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p288
+aVDarius Songaila PHI 02/11/2011 PHI vs. SAS W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -4
+p289
+aVThaddeus Young PHI 02/11/2011 PHI vs. SAS W 20 4 2 9 22.2 0 0 - 0 0 - 1 4 5 2 1 0 2 3 -4
+p290
+aVLou Williams PHI 02/11/2011 PHI vs. SAS W 27 6 3 13 23.1 0 1 0.0 0 0 - 1 1 2 2 1 0 1 2 1
+p291
+aVJrue Holiday PHI 02/11/2011 PHI vs. SAS W 38 27 9 14 64.3 3 4 75.0 6 6 100.0 0 5 5 2 3 0 2 3 12
+p292
+aVAndre Iguodala PHI 02/11/2011 PHI vs. SAS W 41 7 2 15 13.3 0 3 0.0 3 4 75.0 3 1 4 6 2 1 2 0 10
+p293
+aVElton Brand PHI 02/11/2011 PHI vs. SAS W 36 8 4 11 36.4 0 0 - 0 0 - 1 16 17 1 1 2 0 2 13
+p294
+aVJodie Meeks PHI 02/09/2011 PHI vs. ORL L 37 17 5 13 38.5 2 9 22.2 5 5 100.0 2 6 8 1 1 0 1 3 -2
+p295
+aVEvan Turner PHI 02/09/2011 PHI vs. ORL L 13 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 1
+p296
+aVAndre Iguodala PHI 02/09/2011 PHI vs. ORL L 39 21 9 17 52.9 1 3 33.3 2 4 50.0 1 3 4 8 3 1 5 0 -4
+p297
+aVThaddeus Young PHI 02/09/2011 PHI vs. ORL L 25 7 3 9 33.3 0 1 0.0 1 2 50.0 2 5 7 1 0 0 1 1 -11
+p298
+aVTony Battie PHI 02/09/2011 PHI vs. ORL L 19 4 2 6 33.3 0 0 - 0 0 - 1 3 4 2 1 0 1 4 5
+p299
+aVSpencer Hawes PHI 02/09/2011 PHI vs. ORL L 18 6 2 6 33.3 0 0 - 2 2 100.0 3 7 10 0 0 1 1 3 -4
+p300
+aVLou Williams PHI 02/09/2011 PHI vs. ORL L 27 23 9 15 60.0 3 5 60.0 2 4 50.0 0 1 1 4 0 0 2 4 -7
+p301
+aVJrue Holiday PHI 02/09/2011 PHI vs. ORL L 29 3 1 5 20.0 0 1 0.0 1 2 50.0 2 2 4 4 0 0 1 1 1
+p302
+aVElton Brand PHI 02/09/2011 PHI vs. ORL L 33 12 5 13 38.5 0 0 - 2 3 66.7 4 1 5 0 1 1 1 4 1
+p303
+aVThaddeus Young PHI 02/08/2011 PHI @ ATL W 23 16 6 14 42.9 0 1 0.0 4 5 80.0 3 5 8 1 2 0 1 0 18
+p304
+aVDarius Songaila PHI 02/08/2011 PHI @ ATL W 9 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 0 2
+p305
+aVAndres Nocioni PHI 02/08/2011 PHI @ ATL W 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p306
+aVMarreese Speights PHI 02/08/2011 PHI @ ATL W 6 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p307
+aVAndre Iguodala PHI 02/08/2011 PHI @ ATL W 29 11 4 8 50.0 0 1 0.0 3 4 75.0 0 7 7 8 1 1 1 3 20
+p308
+aVLou Williams PHI 02/08/2011 PHI @ ATL W 25 20 8 13 61.5 1 4 25.0 3 4 75.0 0 3 3 3 1 2 1 2 18
+p309
+aVElton Brand PHI 02/08/2011 PHI @ ATL W 29 17 5 6 83.3 0 0 - 7 8 87.5 3 2 5 3 0 0 2 4 25
+p310
+aVJrue Holiday PHI 02/08/2011 PHI @ ATL W 28 15 6 8 75.0 0 0 - 3 4 75.0 0 2 2 0 2 2 1 0 26
+p311
+aVSpencer Hawes PHI 02/08/2011 PHI @ ATL W 12 4 2 4 50.0 0 0 - 0 0 - 1 6 7 0 0 0 0 2 8
+p312
+aVEvan Turner PHI 02/08/2011 PHI @ ATL W 32 8 3 5 60.0 0 1 0.0 2 2 100.0 0 8 8 7 0 0 1 0 20
+p313
+aVJodie Meeks PHI 02/08/2011 PHI @ ATL W 37 16 5 11 45.5 2 5 40.0 4 5 80.0 1 7 8 3 3 0 0 2 27
+p314
+aVAndre Iguodala PHI 02/06/2011 PHI @ NYK L 35 14 3 8 37.5 0 1 0.0 8 12 66.7 0 5 5 8 1 0 1 3 -4
+p315
+aVTony Battie PHI 02/06/2011 PHI @ NYK L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p316
+aVElton Brand PHI 02/06/2011 PHI @ NYK L 37 28 10 14 71.4 0 0 - 8 10 80.0 3 2 5 1 2 2 2 4 -7
+p317
+aVLou Williams PHI 02/06/2011 PHI @ NYK L 27 19 6 12 50.0 2 3 66.7 5 5 100.0 0 0 0 4 1 0 0 0 -6
+p318
+aVJodie Meeks PHI 02/06/2011 PHI @ NYK L 25 6 2 4 50.0 1 3 33.3 1 1 100.0 0 1 1 0 0 0 0 0 -12
+p319
+aVSpencer Hawes PHI 02/06/2011 PHI @ NYK L 16 8 4 6 66.7 0 0 - 0 0 - 2 3 5 0 0 2 1 2 -8
+p320
+aVEvan Turner PHI 02/06/2011 PHI @ NYK L 28 8 4 7 57.1 0 1 0.0 0 0 - 0 4 4 4 2 0 0 3 -8
+p321
+aVThaddeus Young PHI 02/06/2011 PHI @ NYK L 31 16 8 12 66.7 0 1 0.0 0 1 0.0 2 2 4 0 1 0 3 1 -2
+p322
+aVJrue Holiday PHI 02/06/2011 PHI @ NYK L 36 2 1 8 12.5 0 1 0.0 0 0 - 0 3 3 4 3 0 4 0 -19
+p323
+aVLou Williams PHI 02/04/2011 PHI vs. NYK W 26 9 3 14 21.4 0 2 0.0 3 3 100.0 1 2 3 2 1 0 1 0 1
+p324
+aVJrue Holiday PHI 02/04/2011 PHI vs. NYK W 31 6 2 8 25.0 0 1 0.0 2 2 100.0 0 3 3 3 0 0 2 1 -12
+p325
+aVTony Battie PHI 02/04/2011 PHI vs. NYK W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 3 2 -7
+p326
+aVElton Brand PHI 02/04/2011 PHI vs. NYK W 42 33 14 23 60.9 0 0 - 5 5 100.0 5 11 16 1 2 2 0 4 15
+p327
+aVAndre Iguodala PHI 02/04/2011 PHI vs. NYK W 39 18 5 11 45.5 1 2 50.0 7 8 87.5 0 4 4 16 1 2 0 2 8
+p328
+aVEvan Turner PHI 02/04/2011 PHI vs. NYK W 22 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 3 1 0 1 0 5
+p329
+aVSpencer Hawes PHI 02/04/2011 PHI vs. NYK W 19 6 3 6 50.0 0 0 - 0 0 - 0 4 4 0 0 3 2 5 -5
+p330
+aVJodie Meeks PHI 02/04/2011 PHI vs. NYK W 27 14 5 8 62.5 4 7 57.1 0 0 - 0 4 4 0 1 0 3 1 4
+p331
+aVMarreese Speights PHI 02/04/2011 PHI vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -7
+p332
+aVThaddeus Young PHI 02/04/2011 PHI vs. NYK W 23 10 5 8 62.5 0 0 - 0 0 - 1 2 3 0 0 1 1 2 8
+p333
+aVJason Kapono PHI 02/02/2011 PHI @ NJN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p334
+aVElton Brand PHI 02/02/2011 PHI @ NJN W 35 15 6 13 46.2 0 0 - 3 3 100.0 4 6 10 1 1 2 0 1 13
+p335
+aVJrue Holiday PHI 02/02/2011 PHI @ NJN W 36 11 5 11 45.5 1 3 33.3 0 0 - 2 8 10 11 0 0 1 2 19
+p336
+aVJodie Meeks PHI 02/02/2011 PHI @ NJN W 25 15 5 9 55.6 2 5 40.0 3 3 100.0 1 0 1 1 2 0 1 2 5
+p337
+aVMarreese Speights PHI 02/02/2011 PHI @ NJN W 5 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 1 1 0
+p338
+aVSpencer Hawes PHI 02/02/2011 PHI @ NJN W 28 8 4 14 28.6 0 1 0.0 0 0 - 4 8 12 0 1 0 1 2 11
+p339
+aVThaddeus Young PHI 02/02/2011 PHI @ NJN W 24 2 1 7 14.3 0 0 - 0 0 - 0 6 6 3 1 0 1 0 -1
+p340
+aVEvan Turner PHI 02/02/2011 PHI @ NJN W 14 7 3 7 42.9 0 1 0.0 1 1 100.0 0 2 2 1 0 0 0 3 -1
+p341
+aVTony Battie PHI 02/02/2011 PHI @ NJN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p342
+aVLou Williams PHI 02/02/2011 PHI @ NJN W 32 26 7 12 58.3 3 6 50.0 9 9 100.0 1 1 2 3 1 2 2 3 7
+p343
+aVAndre Iguodala PHI 02/02/2011 PHI @ NJN W 37 16 8 15 53.3 0 2 0.0 0 0 - 0 3 3 3 0 0 1 2 13
+p344
+aVElton Brand PHI 01/30/2011 PHI vs. DEN W 27 15 6 7 85.7 0 0 - 3 4 75.0 1 4 5 1 1 0 1 3 14
+p345
+aVEvan Turner PHI 01/30/2011 PHI vs. DEN W 29 11 5 13 38.5 0 1 0.0 1 2 50.0 1 7 8 6 0 0 0 1 11
+p346
+aVJrue Holiday PHI 01/30/2011 PHI vs. DEN W 34 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 7 1 1 1 1 -7
+p347
+aVThaddeus Young PHI 01/30/2011 PHI vs. DEN W 32 21 10 12 83.3 0 0 - 1 2 50.0 3 4 7 1 1 2 3 4 8
+p348
+aVJodie Meeks PHI 01/30/2011 PHI vs. DEN W 29 12 3 9 33.3 2 5 40.0 4 4 100.0 0 1 1 3 0 0 1 2 2
+p349
+aVAndre Iguodala PHI 01/30/2011 PHI vs. DEN W 35 24 8 12 66.7 2 3 66.7 6 7 85.7 2 1 3 7 4 0 1 4 16
+p350
+aVMarreese Speights PHI 01/30/2011 PHI vs. DEN W 9 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 7
+p351
+aVSpencer Hawes PHI 01/30/2011 PHI vs. DEN W 21 8 4 6 66.7 0 1 0.0 0 0 - 1 4 5 3 1 2 1 2 -2
+p352
+aVLou Williams PHI 01/30/2011 PHI vs. DEN W 24 12 4 10 40.0 1 3 33.3 3 3 100.0 0 1 1 3 1 0 1 1 6
+p353
+aVMarreese Speights PHI 01/28/2011 PHI vs. MEM L 10 5 2 5 40.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 3 -3
+p354
+aVJrue Holiday PHI 01/28/2011 PHI vs. MEM L 38 16 6 11 54.5 4 5 80.0 0 0 - 0 2 2 3 0 0 4 3 -8
+p355
+aVJodie Meeks PHI 01/28/2011 PHI vs. MEM L 23 16 5 10 50.0 5 7 71.4 1 1 100.0 0 0 0 2 0 1 1 1 2
+p356
+aVLou Williams PHI 01/28/2011 PHI vs. MEM L 24 9 2 9 22.2 2 3 66.7 3 4 75.0 0 1 1 3 1 0 0 4 -9
+p357
+aVSpencer Hawes PHI 01/28/2011 PHI vs. MEM L 18 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 4 4 4
+p358
+aVTony Battie PHI 01/28/2011 PHI vs. MEM L 3 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 0 0 1 2 5
+p359
+aVThaddeus Young PHI 01/28/2011 PHI vs. MEM L 24 9 4 6 66.7 0 0 - 1 2 50.0 0 3 3 0 1 1 2 1 -14
+p360
+aVAndre Iguodala PHI 01/28/2011 PHI vs. MEM L 39 12 5 9 55.6 1 4 25.0 1 1 100.0 3 5 8 9 2 1 2 2 3
+p361
+aVElton Brand PHI 01/28/2011 PHI vs. MEM L 40 15 6 14 42.9 0 0 - 3 4 75.0 3 6 9 2 2 3 3 2 2
+p362
+aVEvan Turner PHI 01/28/2011 PHI vs. MEM L 20 7 3 6 50.0 0 0 - 1 1 100.0 1 2 3 3 1 0 2 2 -7
+p363
+aVEvan Turner PHI 01/26/2011 PHI @ TOR W 25 10 3 8 37.5 0 1 0.0 4 4 100.0 0 5 5 3 0 0 0 1 8
+p364
+aVJodie Meeks PHI 01/26/2011 PHI @ TOR W 20 2 0 5 0.0 0 3 0.0 2 2 100.0 0 1 1 1 1 0 0 1 7
+p365
+aVAndre Iguodala PHI 01/26/2011 PHI @ TOR W 38 15 7 11 63.6 1 2 50.0 0 0 - 2 3 5 6 3 0 2 2 5
+p366
+aVLou Williams PHI 01/26/2011 PHI @ TOR W 25 15 6 10 60.0 3 5 60.0 0 0 - 1 1 2 2 0 0 2 3 1
+p367
+aVThaddeus Young PHI 01/26/2011 PHI @ TOR W 26 10 5 10 50.0 0 0 - 0 0 - 1 2 3 0 4 0 0 1 14
+p368
+aVElton Brand PHI 01/26/2011 PHI @ TOR W 32 14 6 10 60.0 0 0 - 2 2 100.0 2 5 7 0 1 1 0 2 0
+p369
+aVJrue Holiday PHI 01/26/2011 PHI @ TOR W 36 15 6 16 37.5 0 3 0.0 3 4 75.0 3 2 5 11 1 2 5 2 18
+p370
+aVMarreese Speights PHI 01/26/2011 PHI @ TOR W 17 23 10 12 83.3 0 1 0.0 3 3 100.0 6 3 9 1 0 0 3 3 15
+p371
+aVSpencer Hawes PHI 01/26/2011 PHI @ TOR W 21 3 1 7 14.3 0 0 - 1 2 50.0 2 4 6 4 0 0 1 2 -3
+p372
+aVSpencer Hawes PHI 01/24/2011 PHI vs. PHX W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p373
+aVLou Williams PHI 01/24/2011 PHI vs. PHX W 26 14 5 9 55.6 2 4 50.0 2 2 100.0 0 2 2 6 0 1 0 0 2
+p374
+aVAndre Iguodala PHI 01/24/2011 PHI vs. PHX W 32 8 3 9 33.3 0 2 0.0 2 2 100.0 0 2 2 3 2 1 2 0 12
+p375
+aVMarreese Speights PHI 01/24/2011 PHI vs. PHX W 11 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 2 1 1
+p376
+aVEvan Turner PHI 01/24/2011 PHI vs. PHX W 33 14 6 10 60.0 0 1 0.0 2 2 100.0 0 8 8 5 0 1 1 3 8
+p377
+aVAndres Nocioni PHI 01/24/2011 PHI vs. PHX W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 1 2 -2
+p378
+aVJodie Meeks PHI 01/24/2011 PHI vs. PHX W 26 9 2 5 40.0 1 4 25.0 4 4 100.0 2 2 4 1 2 0 2 1 -13
+p379
+aVThaddeus Young PHI 01/24/2011 PHI vs. PHX W 33 24 11 17 64.7 0 0 - 2 2 100.0 3 4 7 5 2 0 0 3 27
+p380
+aVElton Brand PHI 01/24/2011 PHI vs. PHX W 28 22 10 15 66.7 0 0 - 2 2 100.0 3 6 9 0 0 0 2 3 5
+p381
+aVJrue Holiday PHI 01/24/2011 PHI vs. PHX W 32 8 4 9 44.4 0 1 0.0 0 0 - 0 3 3 8 6 0 4 1 17
+p382
+aVJodie Meeks PHI 01/22/2011 PHI vs. UTA W 26 8 2 5 40.0 2 4 50.0 2 2 100.0 0 1 1 1 0 0 0 2 7
+p383
+aVLou Williams PHI 01/22/2011 PHI vs. UTA W 26 20 5 15 33.3 2 4 50.0 8 10 80.0 2 2 4 2 1 0 1 1 3
+p384
+aVSpencer Hawes PHI 01/22/2011 PHI vs. UTA W 23 8 4 9 44.4 0 0 - 0 1 0.0 4 7 11 3 2 1 3 1 2
+p385
+aVThaddeus Young PHI 01/22/2011 PHI vs. UTA W 24 2 1 5 20.0 0 0 - 0 0 - 3 4 7 2 2 0 2 1 7
+p386
+aVElton Brand PHI 01/22/2011 PHI vs. UTA W 34 19 6 15 40.0 0 0 - 7 8 87.5 5 3 8 1 1 0 2 3 6
+p387
+aVJason Kapono PHI 01/22/2011 PHI vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p388
+aVEvan Turner PHI 01/22/2011 PHI vs. UTA W 19 4 2 5 40.0 0 0 - 0 0 - 0 3 3 3 0 0 0 1 10
+p389
+aVMarreese Speights PHI 01/22/2011 PHI vs. UTA W 7 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 4
+p390
+aVJrue Holiday PHI 01/22/2011 PHI vs. UTA W 34 9 3 12 25.0 1 4 25.0 2 2 100.0 1 4 5 2 4 0 2 5 6
+p391
+aVAndre Iguodala PHI 01/22/2011 PHI vs. UTA W 38 22 8 10 80.0 1 3 33.3 5 8 62.5 0 2 2 5 2 1 4 1 8
+p392
+aVTony Battie PHI 01/22/2011 PHI vs. UTA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p393
+aVEvan Turner PHI 01/20/2011 PHI @ CHA L 26 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 1 1 0 0 1 -8
+p394
+aVJrue Holiday PHI 01/20/2011 PHI @ CHA L 31 13 6 17 35.3 1 3 33.3 0 0 - 2 2 4 7 1 1 3 2 0
+p395
+aVLou Williams PHI 01/20/2011 PHI @ CHA L 23 11 4 9 44.4 0 4 0.0 3 4 75.0 1 3 4 6 0 0 1 2 -3
+p396
+aVThaddeus Young PHI 01/20/2011 PHI @ CHA L 29 21 9 14 64.3 0 0 - 3 3 100.0 2 4 6 0 0 2 2 0 0
+p397
+aVAndre Iguodala PHI 01/20/2011 PHI @ CHA L 37 19 7 11 63.6 0 2 0.0 5 9 55.6 1 4 5 5 4 0 0 2 7
+p398
+aVJodie Meeks PHI 01/20/2011 PHI @ CHA L 23 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 0 0 0 2 0
+p399
+aVSpencer Hawes PHI 01/20/2011 PHI @ CHA L 19 6 3 7 42.9 0 0 - 0 0 - 1 5 6 0 0 0 2 3 -4
+p400
+aVElton Brand PHI 01/20/2011 PHI @ CHA L 36 12 6 13 46.2 0 0 - 0 0 - 3 7 10 0 0 1 1 5 -8
+p401
+aVJason Kapono PHI 01/20/2011 PHI @ CHA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p402
+aVMarreese Speights PHI 01/20/2011 PHI @ CHA L 16 3 0 4 0.0 0 0 - 3 4 75.0 2 6 8 0 0 0 0 4 4
+p403
+aVMarreese Speights PHI 01/19/2011 PHI @ ORL L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -1
+p404
+aVEvan Turner PHI 01/19/2011 PHI @ ORL L 34 10 4 10 40.0 1 2 50.0 1 2 50.0 1 7 8 2 1 0 0 4 -3
+p405
+aVAndre Iguodala PHI 01/19/2011 PHI @ ORL L 36 15 4 11 36.4 0 2 0.0 7 10 70.0 2 5 7 6 3 1 3 3 -5
+p406
+aVJason Kapono PHI 01/19/2011 PHI @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p407
+aVElton Brand PHI 01/19/2011 PHI @ ORL L 32 8 4 11 36.4 0 0 - 0 2 0.0 1 3 4 1 1 0 2 6 -1
+p408
+aVJodie Meeks PHI 01/19/2011 PHI @ ORL L 14 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 0 -10
+p409
+aVLou Williams PHI 01/19/2011 PHI @ ORL L 38 19 6 17 35.3 0 4 0.0 7 8 87.5 2 5 7 4 1 1 4 1 13
+p410
+aVTony Battie PHI 01/19/2011 PHI @ ORL L 9 4 1 1 100.0 0 0 - 2 3 66.7 0 1 1 0 0 0 0 2 12
+p411
+aVSpencer Hawes PHI 01/19/2011 PHI @ ORL L 15 4 2 4 50.0 0 0 - 0 0 - 1 6 7 0 1 0 1 4 -1
+p412
+aVJrue Holiday PHI 01/19/2011 PHI @ ORL L 40 16 6 14 42.9 1 3 33.3 3 3 100.0 1 7 8 6 3 0 2 2 -6
+p413
+aVThaddeus Young PHI 01/19/2011 PHI @ ORL L 34 17 8 10 80.0 0 0 - 1 2 50.0 0 5 5 0 0 0 0 1 -6
+p414
+aVJrue Holiday PHI 01/17/2011 PHI vs. CHA W 36 10 3 14 21.4 2 4 50.0 2 2 100.0 0 2 2 6 3 0 2 2 5
+p415
+aVJodie Meeks PHI 01/17/2011 PHI vs. CHA W 16 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 1
+p416
+aVThaddeus Young PHI 01/17/2011 PHI vs. CHA W 34 9 4 16 25.0 0 0 - 1 6 16.7 5 4 9 2 3 0 0 2 0
+p417
+aVElton Brand PHI 01/17/2011 PHI vs. CHA W 46 13 6 12 50.0 0 0 - 1 2 50.0 2 11 13 1 0 5 2 3 0
+p418
+aVLou Williams PHI 01/17/2011 PHI vs. CHA W 28 23 8 15 53.3 1 3 33.3 6 7 85.7 0 2 2 2 0 0 1 1 4
+p419
+aVSpencer Hawes PHI 01/17/2011 PHI vs. CHA W 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 2 3 2
+p420
+aVEvan Turner PHI 01/17/2011 PHI vs. CHA W 33 6 1 7 14.3 0 0 - 4 4 100.0 1 10 11 3 2 1 0 1 0
+p421
+aVJason Kapono PHI 01/17/2011 PHI vs. CHA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p422
+aVAndre Iguodala PHI 01/17/2011 PHI vs. CHA W 42 16 6 10 60.0 2 5 40.0 2 2 100.0 0 10 10 6 2 0 1 3 5
+p423
+aVMarreese Speights PHI 01/17/2011 PHI vs. CHA W 19 10 4 9 44.4 0 0 - 2 2 100.0 3 3 6 2 0 0 1 2 0
+p424
+aVAndres Nocioni PHI 01/14/2011 PHI vs. MIL W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 3 5
+p425
+aVLou Williams PHI 01/14/2011 PHI vs. MIL W 29 25 7 14 50.0 2 5 40.0 9 11 81.8 1 0 1 4 1 0 3 2 -2
+p426
+aVAndre Iguodala PHI 01/14/2011 PHI vs. MIL W 38 15 6 10 60.0 2 2 100.0 1 2 50.0 0 6 6 7 1 1 1 0 11
+p427
+aVJodie Meeks PHI 01/14/2011 PHI vs. MIL W 17 3 1 8 12.5 1 4 25.0 0 0 - 0 0 0 1 0 0 0 1 6
+p428
+aVThaddeus Young PHI 01/14/2011 PHI vs. MIL W 23 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 0 0 2 3 -5
+p429
+aVJrue Holiday PHI 01/14/2011 PHI vs. MIL W 35 10 4 6 66.7 2 2 100.0 0 0 - 0 5 5 3 0 0 4 5 -2
+p430
+aVSpencer Hawes PHI 01/14/2011 PHI vs. MIL W 25 8 4 4 100.0 0 0 - 0 0 - 0 5 5 1 0 0 2 1 3
+p431
+aVElton Brand PHI 01/14/2011 PHI vs. MIL W 39 15 7 10 70.0 0 0 - 1 4 25.0 1 4 5 4 1 1 1 2 -2
+p432
+aVEvan Turner PHI 01/14/2011 PHI vs. MIL W 10 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 2 -12
+p433
+aVMarreese Speights PHI 01/14/2011 PHI vs. MIL W 9 7 2 4 50.0 0 0 - 3 4 75.0 1 1 2 2 0 1 0 1 3
+p434
+aVElton Brand PHI 01/11/2011 PHI vs. IND L 38 18 8 12 66.7 0 0 - 2 2 100.0 2 3 5 4 0 0 0 1 -4
+p435
+aVAndre Iguodala PHI 01/11/2011 PHI vs. IND L 33 1 0 7 0.0 0 2 0.0 1 2 50.0 0 4 4 7 1 0 0 1 -4
+p436
+aVEvan Turner PHI 01/11/2011 PHI vs. IND L 27 14 5 10 50.0 1 3 33.3 3 4 75.0 0 2 2 1 1 0 2 1 -7
+p437
+aVJrue Holiday PHI 01/11/2011 PHI vs. IND L 38 19 7 14 50.0 3 5 60.0 2 3 66.7 2 5 7 9 0 0 2 3 -11
+p438
+aVLou Williams PHI 01/11/2011 PHI vs. IND L 19 12 6 13 46.2 0 3 0.0 0 0 - 0 0 0 2 0 0 2 2 -9
+p439
+aVMarreese Speights PHI 01/11/2011 PHI vs. IND L 25 14 6 8 75.0 0 0 - 2 2 100.0 3 6 9 0 0 0 0 3 11
+p440
+aVSpencer Hawes PHI 01/11/2011 PHI vs. IND L 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -11
+p441
+aVThaddeus Young PHI 01/11/2011 PHI vs. IND L 21 12 5 10 50.0 0 0 - 2 2 100.0 1 4 5 0 1 0 2 5 -5
+p442
+aVJodie Meeks PHI 01/11/2011 PHI vs. IND L 31 13 4 10 40.0 3 5 60.0 2 2 100.0 0 2 2 3 0 0 1 2 -4
+p443
+aVAndres Nocioni PHI 01/11/2011 PHI vs. IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p444
+aVThaddeus Young PHI 01/08/2011 PHI @ DET L 35 12 6 11 54.5 0 0 - 0 0 - 4 1 5 1 2 0 3 2 0
+p445
+aVEvan Turner PHI 01/08/2011 PHI @ DET L 28 19 7 11 63.6 1 1 100.0 4 4 100.0 0 5 5 5 0 0 2 1 -4
+p446
+aVLou Williams PHI 01/08/2011 PHI @ DET L 32 14 5 17 29.4 0 4 0.0 4 7 57.1 0 3 3 5 1 0 0 6 -5
+p447
+aVAndres Nocioni PHI 01/08/2011 PHI @ DET L 39 5 2 8 25.0 0 2 0.0 1 1 100.0 0 6 6 2 0 0 2 3 -8
+p448
+aVJodie Meeks PHI 01/08/2011 PHI @ DET L 19 11 4 7 57.1 2 4 50.0 1 1 100.0 0 1 1 1 0 0 0 1 8
+p449
+aVMarreese Speights PHI 01/08/2011 PHI @ DET L 14 10 5 6 83.3 0 0 - 0 2 0.0 1 6 7 0 0 0 0 3 5
+p450
+aVJrue Holiday PHI 01/08/2011 PHI @ DET L 41 15 5 11 45.5 2 3 66.7 3 3 100.0 0 3 3 12 3 0 4 3 -4
+p451
+aVSpencer Hawes PHI 01/08/2011 PHI @ DET L 18 6 2 4 50.0 0 0 - 2 3 66.7 1 0 1 2 0 0 1 2 -2
+p452
+aVElton Brand PHI 01/08/2011 PHI @ DET L 39 17 8 16 50.0 0 0 - 1 2 50.0 2 12 14 1 0 0 1 5 -5
+p453
+aVSpencer Hawes PHI 01/07/2011 PHI vs. CHI W 27 8 4 8 50.0 0 1 0.0 0 2 0.0 1 7 8 4 0 0 1 2 14
+p454
+aVJrue Holiday PHI 01/07/2011 PHI vs. CHI W 39 19 8 14 57.1 0 2 0.0 3 3 100.0 0 4 4 6 1 1 6 5 14
+p455
+aVJodie Meeks PHI 01/07/2011 PHI vs. CHI W 42 24 8 11 72.7 4 7 57.1 4 5 80.0 0 3 3 3 0 0 1 2 10
+p456
+aVThaddeus Young PHI 01/07/2011 PHI vs. CHI W 20 8 4 10 40.0 0 0 - 0 0 - 3 2 5 0 3 1 2 3 -5
+p457
+aVElton Brand PHI 01/07/2011 PHI vs. CHI W 42 11 5 6 83.3 0 0 - 1 4 25.0 1 7 8 3 3 0 2 3 6
+p458
+aVMarreese Speights PHI 01/07/2011 PHI vs. CHI W 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -5
+p459
+aVAndres Nocioni PHI 01/07/2011 PHI vs. CHI W 24 11 3 5 60.0 0 1 0.0 5 6 83.3 1 3 4 2 0 1 2 0 10
+p460
+aVLou Williams PHI 01/07/2011 PHI vs. CHI W 26 20 7 14 50.0 2 4 50.0 4 6 66.7 0 1 1 3 0 0 0 1 -6
+p461
+aVEvan Turner PHI 01/07/2011 PHI vs. CHI W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -8
+p462
+aVElton Brand PHI 01/05/2011 PHI vs. WAS W 33 17 6 9 66.7 0 0 - 5 6 83.3 2 4 6 3 0 0 0 2 16
+p463
+aVAndres Nocioni PHI 01/05/2011 PHI vs. WAS W 29 10 3 5 60.0 1 3 33.3 3 4 75.0 0 10 10 1 0 0 0 4 6
+p464
+aVJason Kapono PHI 01/05/2011 PHI vs. WAS W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 4
+p465
+aVSpencer Hawes PHI 01/05/2011 PHI vs. WAS W 18 4 2 7 28.6 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p466
+aVLou Williams PHI 01/05/2011 PHI vs. WAS W 26 26 7 10 70.0 2 2 100.0 10 11 90.9 0 2 2 3 2 0 1 2 16
+p467
+aVThaddeus Young PHI 01/05/2011 PHI vs. WAS W 29 11 4 6 66.7 0 0 - 3 4 75.0 0 4 4 1 0 0 3 2 14
+p468
+aVJrue Holiday PHI 01/05/2011 PHI vs. WAS W 39 26 10 14 71.4 0 1 0.0 6 9 66.7 0 4 4 9 2 1 3 1 7
+p469
+aVJodie Meeks PHI 01/05/2011 PHI vs. WAS W 16 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 0 1 0 0 0 6
+p470
+aVMarreese Speights PHI 01/05/2011 PHI vs. WAS W 16 8 4 7 57.1 0 0 - 0 2 0.0 3 4 7 2 0 0 2 2 -5
+p471
+aVEvan Turner PHI 01/05/2011 PHI vs. WAS W 27 2 1 5 20.0 0 0 - 0 0 - 0 4 4 1 0 0 3 3 -4
+p472
+aVJodie Meeks PHI 01/03/2011 PHI @ NOH L 20 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 2 -11
+p473
+aVElton Brand PHI 01/03/2011 PHI @ NOH L 38 14 6 12 50.0 0 1 0.0 2 2 100.0 3 7 10 2 0 0 3 1 -5
+p474
+aVThaddeus Young PHI 01/03/2011 PHI @ NOH L 29 10 3 9 33.3 0 0 - 4 4 100.0 0 4 4 0 1 0 1 3 -7
+p475
+aVJrue Holiday PHI 01/03/2011 PHI @ NOH L 36 12 6 17 35.3 0 6 0.0 0 0 - 3 3 6 6 1 0 2 4 0
+p476
+aVMarreese Speights PHI 01/03/2011 PHI @ NOH L 24 12 5 8 62.5 0 0 - 2 2 100.0 2 4 6 0 0 0 1 1 0
+p477
+aVEvan Turner PHI 01/03/2011 PHI @ NOH L 32 7 2 14 14.3 1 3 33.3 2 2 100.0 2 2 4 0 0 0 0 0 -5
+p478
+aVAndres Nocioni PHI 01/03/2011 PHI @ NOH L 28 13 5 9 55.6 2 6 33.3 1 1 100.0 3 4 7 3 0 0 0 3 1
+p479
+aVLou Williams PHI 01/03/2011 PHI @ NOH L 21 3 1 11 9.1 1 4 25.0 0 0 - 3 1 4 2 0 0 0 3 -12
+p480
+aVTony Battie PHI 01/03/2011 PHI @ NOH L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p481
+aVJason Kapono PHI 01/03/2011 PHI @ NOH L 7 3 1 4 25.0 1 2 50.0 0 1 0.0 1 0 1 0 0 1 1 0 6
+p482
+aVTony Battie PHI 12/31/2010 PHI @ LAL L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p483
+aVEvan Turner PHI 12/31/2010 PHI @ LAL L 35 12 5 13 38.5 1 2 50.0 1 2 50.0 1 5 6 4 3 0 2 5 3
+p484
+aVThaddeus Young PHI 12/31/2010 PHI @ LAL L 27 14 5 10 50.0 0 0 - 4 4 100.0 3 2 5 0 0 0 1 4 10
+p485
+aVJodie Meeks PHI 12/31/2010 PHI @ LAL L 17 6 2 7 28.6 2 5 40.0 0 0 - 1 2 3 1 1 0 2 0 -11
+p486
+aVElton Brand PHI 12/31/2010 PHI @ LAL L 40 8 4 8 50.0 0 0 - 0 0 - 0 4 4 1 3 0 1 1 -3
+p487
+aVJrue Holiday PHI 12/31/2010 PHI @ LAL L 42 19 7 16 43.8 2 3 66.7 3 4 75.0 0 3 3 11 2 1 2 1 0
+p488
+aVAndres Nocioni PHI 12/31/2010 PHI @ LAL L 23 13 4 6 66.7 2 3 66.7 3 5 60.0 1 7 8 2 0 0 2 2 -18
+p489
+aVLou Williams PHI 12/31/2010 PHI @ LAL L 26 18 8 15 53.3 2 7 28.6 0 1 0.0 1 1 2 4 0 0 1 1 6
+p490
+aVSpencer Hawes PHI 12/31/2010 PHI @ LAL L 22 8 4 5 80.0 0 0 - 0 0 - 0 3 3 2 0 1 0 1 -11
+p491
+aVAndres Nocioni PHI 12/29/2010 PHI @ PHX W 41 22 7 10 70.0 1 2 50.0 7 7 100.0 2 10 12 2 0 0 2 2 12
+p492
+aVElton Brand PHI 12/29/2010 PHI @ PHX W 32 16 5 11 45.5 0 0 - 6 6 100.0 3 4 7 0 1 1 2 2 5
+p493
+aVThaddeus Young PHI 12/29/2010 PHI @ PHX W 30 15 5 14 35.7 0 1 0.0 5 6 83.3 3 5 8 1 1 0 1 3 13
+p494
+aVLou Williams PHI 12/29/2010 PHI @ PHX W 23 10 3 8 37.5 1 3 33.3 3 6 50.0 0 0 0 4 1 1 0 1 10
+p495
+aVSpencer Hawes PHI 12/29/2010 PHI @ PHX W 26 10 4 6 66.7 0 0 - 2 2 100.0 3 8 11 3 1 0 2 3 10
+p496
+aVEvan Turner PHI 12/29/2010 PHI @ PHX W 30 23 9 12 75.0 1 1 100.0 4 4 100.0 1 4 5 1 2 0 1 1 14
+p497
+aVJrue Holiday PHI 12/29/2010 PHI @ PHX W 41 25 12 18 66.7 0 2 0.0 1 2 50.0 0 3 3 7 0 0 2 0 5
+p498
+aVJodie Meeks PHI 12/29/2010 PHI @ PHX W 17 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 4 -4
+p499
+aVSpencer Hawes PHI 12/27/2010 PHI @ GSW L 24 9 4 10 40.0 0 0 - 1 2 50.0 2 10 12 2 1 1 3 4 -3
+p500
+aVCraig Brackins PHI 12/27/2010 PHI @ GSW L 11 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -5
+p501
+aVElton Brand PHI 12/27/2010 PHI @ GSW L 30 16 7 15 46.7 0 0 - 2 2 100.0 7 9 16 3 0 0 0 3 -16
+p502
+aVJrue Holiday PHI 12/27/2010 PHI @ GSW L 44 23 8 14 57.1 2 3 66.7 5 6 83.3 0 2 2 11 1 1 7 2 -13
+p503
+aVThaddeus Young PHI 12/27/2010 PHI @ GSW L 32 15 7 14 50.0 0 1 0.0 1 2 50.0 4 4 8 4 0 0 2 1 -7
+p504
+aVEvan Turner PHI 12/27/2010 PHI @ GSW L 29 5 2 8 25.0 0 0 - 1 1 100.0 2 6 8 1 0 0 2 2 -2
+p505
+aVMarreese Speights PHI 12/27/2010 PHI @ GSW L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p506
+aVJodie Meeks PHI 12/27/2010 PHI @ GSW L 43 19 6 15 40.0 2 9 22.2 5 6 83.3 1 2 3 4 1 1 1 0 -10
+p507
+aVAndres Nocioni PHI 12/27/2010 PHI @ GSW L 25 6 3 8 37.5 0 3 0.0 0 1 0.0 0 2 2 0 1 0 2 3 -17
+p508
+aVAndre Iguodala PHI 12/26/2010 PHI @ DEN W 40 9 3 12 25.0 0 1 0.0 3 10 30.0 2 6 8 5 2 1 1 1 6
+p509
+aVAndres Nocioni PHI 12/26/2010 PHI @ DEN W 15 0 0 4 0.0 0 3 0.0 0 0 - 1 3 4 1 0 0 1 1 -15
+p510
+aVJodie Meeks PHI 12/26/2010 PHI @ DEN W 33 17 3 12 25.0 2 5 40.0 9 10 90.0 0 1 1 1 1 0 0 0 20
+p511
+aVElton Brand PHI 12/26/2010 PHI @ DEN W 40 16 7 16 43.8 0 0 - 2 2 100.0 7 10 17 0 1 3 2 2 23
+p512
+aVTony Battie PHI 12/26/2010 PHI @ DEN W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -5
+p513
+aVEvan Turner PHI 12/26/2010 PHI @ DEN W 28 8 4 11 36.4 0 1 0.0 0 1 0.0 1 2 3 3 3 0 0 5 -9
+p514
+aVThaddeus Young PHI 12/26/2010 PHI @ DEN W 30 20 10 18 55.6 0 0 - 0 0 - 5 2 7 2 2 1 2 2 15
+p515
+aVSpencer Hawes PHI 12/26/2010 PHI @ DEN W 20 3 1 5 20.0 0 1 0.0 1 2 50.0 1 5 6 3 1 0 0 3 -14
+p516
+aVJrue Holiday PHI 12/26/2010 PHI @ DEN W 26 22 8 12 66.7 1 3 33.3 5 7 71.4 0 2 2 3 1 0 1 4 9
+p517
+aVElton Brand PHI 12/22/2010 PHI @ BOS L 33 16 5 8 62.5 0 0 - 6 8 75.0 2 10 12 1 1 1 0 6 -9
+p518
+aVJodie Meeks PHI 12/22/2010 PHI @ BOS L 31 3 0 2 0.0 0 1 0.0 3 4 75.0 0 0 0 0 0 0 3 0 -7
+p519
+aVTony Battie PHI 12/22/2010 PHI @ BOS L 26 10 5 8 62.5 0 0 - 0 1 0.0 1 5 6 0 0 4 0 4 0
+p520
+aVSpencer Hawes PHI 12/22/2010 PHI @ BOS L 20 6 3 8 37.5 0 0 - 0 0 - 3 4 7 1 0 0 4 2 -7
+p521
+aVLou Williams PHI 12/22/2010 PHI @ BOS L 22 12 5 8 62.5 0 2 0.0 2 3 66.7 0 2 2 2 0 0 4 3 9
+p522
+aVThaddeus Young PHI 12/22/2010 PHI @ BOS L 21 6 1 3 33.3 0 0 - 4 6 66.7 0 4 4 0 0 0 0 0 8
+p523
+aVAndres Nocioni PHI 12/22/2010 PHI @ BOS L 9 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 0 1
+p524
+aVJrue Holiday PHI 12/22/2010 PHI @ BOS L 40 15 6 13 46.2 1 1 100.0 2 3 66.7 0 5 5 5 1 0 0 1 -16
+p525
+aVAndre Iguodala PHI 12/22/2010 PHI @ BOS L 38 9 2 11 18.2 0 3 0.0 5 6 83.3 0 2 2 4 2 0 2 2 1
+p526
+aVEvan Turner PHI 12/21/2010 PHI @ CHI L 30 6 2 11 18.2 0 1 0.0 2 2 100.0 1 0 1 3 0 0 2 0 -23
+p527
+aVJodie Meeks PHI 12/21/2010 PHI @ CHI L 27 9 2 7 28.6 1 5 20.0 4 4 100.0 0 3 3 0 1 0 2 1 -23
+p528
+aVElton Brand PHI 12/21/2010 PHI @ CHI L 28 6 2 9 22.2 0 0 - 2 2 100.0 3 6 9 0 2 1 0 2 -25
+p529
+aVDarius Songaila PHI 12/21/2010 PHI @ CHI L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p530
+aVAndre Iguodala PHI 12/21/2010 PHI @ CHI L 29 17 8 12 66.7 1 2 50.0 0 2 0.0 1 3 4 2 1 0 4 1 -41
+p531
+aVThaddeus Young PHI 12/21/2010 PHI @ CHI L 26 12 5 12 41.7 0 1 0.0 2 3 66.7 5 2 7 0 2 0 0 0 -25
+p532
+aVJrue Holiday PHI 12/21/2010 PHI @ CHI L 23 9 3 12 25.0 0 1 0.0 3 4 75.0 1 2 3 0 0 0 3 3 -22
+p533
+aVSpencer Hawes PHI 12/21/2010 PHI @ CHI L 18 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 1 1 0 -22
+p534
+aVTony Battie PHI 12/21/2010 PHI @ CHI L 11 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -12
+p535
+aVMarreese Speights PHI 12/21/2010 PHI @ CHI L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 1 0 1 2 -12
+p536
+aVAndres Nocioni PHI 12/21/2010 PHI @ CHI L 12 4 1 3 33.3 0 2 0.0 2 2 100.0 1 0 1 1 0 0 1 1 -5
+p537
+aVLou Williams PHI 12/21/2010 PHI @ CHI L 14 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 4 0 0 3 1 -9
+p538
+aVLou Williams PHI 12/18/2010 PHI @ ORL W 30 24 5 9 55.6 1 2 50.0 13 14 92.9 0 6 6 3 2 1 1 1 1
+p539
+aVEvan Turner PHI 12/18/2010 PHI @ ORL W 9 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 4
+p540
+aVMarreese Speights PHI 12/18/2010 PHI @ ORL W 17 7 3 7 42.9 0 0 - 1 1 100.0 0 1 1 0 0 0 1 2 8
+p541
+aVSpencer Hawes PHI 12/18/2010 PHI @ ORL W 26 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 0 0 2 2 6 -1
+p542
+aVJodie Meeks PHI 12/18/2010 PHI @ ORL W 26 9 3 6 50.0 0 3 0.0 3 3 100.0 0 2 2 1 1 0 2 2 3
+p543
+aVAndres Nocioni PHI 12/18/2010 PHI @ ORL W 11 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 6
+p544
+aVElton Brand PHI 12/18/2010 PHI @ ORL W 32 20 8 14 57.1 0 0 - 4 5 80.0 3 10 13 1 1 3 1 2 9
+p545
+aVJrue Holiday PHI 12/18/2010 PHI @ ORL W 22 5 2 7 28.6 0 0 - 1 2 50.0 0 3 3 5 0 0 1 0 7
+p546
+aVAndre Iguodala PHI 12/18/2010 PHI @ ORL W 40 21 8 15 53.3 2 4 50.0 3 4 75.0 0 3 3 7 3 0 2 2 4
+p547
+aVThaddeus Young PHI 12/18/2010 PHI @ ORL W 27 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 1 4 0 2 3 -1
+p548
+aVThaddeus Young PHI 12/17/2010 PHI vs. LAL L 25 6 3 6 50.0 0 0 - 0 0 - 2 2 4 1 1 0 4 3 -15
+p549
+aVAndre Iguodala PHI 12/17/2010 PHI vs. LAL L 38 18 7 17 41.2 2 4 50.0 2 2 100.0 2 4 6 6 2 0 2 0 0
+p550
+aVJodie Meeks PHI 12/17/2010 PHI vs. LAL L 25 6 1 7 14.3 0 3 0.0 4 4 100.0 1 2 3 0 0 0 0 1 -14
+p551
+aVJrue Holiday PHI 12/17/2010 PHI vs. LAL L 31 6 3 15 20.0 0 4 0.0 0 0 - 1 2 3 6 2 1 4 4 -6
+p552
+aVAndres Nocioni PHI 12/17/2010 PHI vs. LAL L 21 4 2 8 25.0 0 5 0.0 0 0 - 0 3 3 0 0 2 0 3 -8
+p553
+aVElton Brand PHI 12/17/2010 PHI vs. LAL L 34 8 4 10 40.0 0 0 - 0 0 - 5 3 8 0 1 0 1 3 -9
+p554
+aVMarreese Speights PHI 12/17/2010 PHI vs. LAL L 6 7 2 3 66.7 0 0 - 3 3 100.0 1 1 2 0 0 0 0 2 -2
+p555
+aVSpencer Hawes PHI 12/17/2010 PHI vs. LAL L 36 18 8 12 66.7 1 3 33.3 1 3 33.3 2 11 13 5 1 2 0 3 1
+p556
+aVLou Williams PHI 12/17/2010 PHI vs. LAL L 18 8 3 10 30.0 0 2 0.0 2 2 100.0 1 2 3 4 1 0 1 1 -3
+p557
+aVTony Battie PHI 12/17/2010 PHI vs. LAL L 6 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 1 1 2 -4
+p558
+aVAndre Iguodala PHI 12/15/2010 PHI vs. LAC W 41 20 8 10 80.0 1 1 100.0 3 3 100.0 0 4 4 5 0 1 0 3 24
+p559
+aVEvan Turner PHI 12/15/2010 PHI vs. LAC W 10 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 1 -6
+p560
+aVJrue Holiday PHI 12/15/2010 PHI vs. LAC W 39 24 10 20 50.0 3 6 50.0 1 1 100.0 2 4 6 5 1 0 1 0 8
+p561
+aVElton Brand PHI 12/15/2010 PHI vs. LAC W 36 15 5 13 38.5 0 0 - 5 5 100.0 4 2 6 3 3 2 0 4 16
+p562
+aVLou Williams PHI 12/15/2010 PHI vs. LAC W 21 6 1 9 11.1 0 4 0.0 4 5 80.0 0 1 1 4 1 0 0 2 -1
+p563
+aVJodie Meeks PHI 12/15/2010 PHI vs. LAC W 33 9 2 9 22.2 2 5 40.0 3 3 100.0 0 4 4 1 2 1 1 1 17
+p564
+aVSpencer Hawes PHI 12/15/2010 PHI vs. LAC W 34 16 7 18 38.9 0 1 0.0 2 4 50.0 5 7 12 1 0 5 1 3 5
+p565
+aVThaddeus Young PHI 12/15/2010 PHI vs. LAC W 24 12 6 10 60.0 0 0 - 0 0 - 4 1 5 2 0 0 0 3 4
+p566
+aVTony Battie PHI 12/15/2010 PHI vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p567
+aVMarreese Speights PHI 12/14/2010 PHI @ NJN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 2
+p568
+aVThaddeus Young PHI 12/14/2010 PHI @ NJN W 18 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 0 0 0 0 -13
+p569
+aVEvan Turner PHI 12/14/2010 PHI @ NJN W 15 0 0 3 0.0 0 0 - 0 0 - 0 6 6 0 0 0 1 1 -6
+p570
+aVLou Williams PHI 12/14/2010 PHI @ NJN W 13 2 0 5 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -6
+p571
+aVTony Battie PHI 12/14/2010 PHI @ NJN W 13 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -9
+p572
+aVSpencer Hawes PHI 12/14/2010 PHI @ NJN W 24 18 8 11 72.7 2 3 66.7 0 0 - 1 4 5 4 0 2 2 5 19
+p573
+aVJrue Holiday PHI 12/14/2010 PHI @ NJN W 37 19 5 11 45.5 2 3 66.7 7 7 100.0 1 3 4 5 1 0 5 4 14
+p574
+aVJodie Meeks PHI 12/14/2010 PHI @ NJN W 36 12 4 13 30.8 1 6 16.7 3 4 75.0 0 3 3 4 0 0 0 1 11
+p575
+aVElton Brand PHI 12/14/2010 PHI @ NJN W 38 15 7 14 50.0 0 0 - 1 2 50.0 1 3 4 1 1 0 1 3 4
+p576
+aVAndre Iguodala PHI 12/14/2010 PHI @ NJN W 40 8 2 9 22.2 1 3 33.3 3 4 75.0 0 5 5 4 1 2 2 1 9
+p577
+aVMarreese Speights PHI 12/12/2010 PHI vs. NOH W 13 1 0 5 0.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 2 10
+p578
+aVLou Williams PHI 12/12/2010 PHI vs. NOH W 28 17 7 15 46.7 2 6 33.3 1 2 50.0 1 3 4 5 0 0 3 3 16
+p579
+aVJrue Holiday PHI 12/12/2010 PHI vs. NOH W 32 12 4 9 44.4 1 1 100.0 3 3 100.0 1 4 5 4 1 0 3 3 8
+p580
+aVSpencer Hawes PHI 12/12/2010 PHI vs. NOH W 25 6 3 8 37.5 0 2 0.0 0 0 - 0 4 4 2 0 1 1 4 7
+p581
+aVEvan Turner PHI 12/12/2010 PHI vs. NOH W 21 7 3 4 75.0 1 1 100.0 0 0 - 0 4 4 3 1 0 1 1 9
+p582
+aVElton Brand PHI 12/12/2010 PHI vs. NOH W 31 15 6 11 54.5 0 0 - 3 4 75.0 3 10 13 1 1 1 1 4 6
+p583
+aVThaddeus Young PHI 12/12/2010 PHI vs. NOH W 27 6 3 9 33.3 0 0 - 0 0 - 0 3 3 4 0 2 1 1 13
+p584
+aVAndre Iguodala PHI 12/12/2010 PHI vs. NOH W 32 16 5 7 71.4 3 4 75.0 3 6 50.0 1 9 10 5 1 0 3 1 20
+p585
+aVJodie Meeks PHI 12/12/2010 PHI vs. NOH W 31 8 2 9 22.2 0 3 0.0 4 5 80.0 0 2 2 0 1 0 1 1 1
+p586
+aVJrue Holiday PHI 12/09/2010 PHI vs. BOS L 34 12 4 13 30.8 1 5 20.0 3 5 60.0 1 2 3 6 1 0 3 4 1
+p587
+aVJodie Meeks PHI 12/09/2010 PHI vs. BOS L 40 19 6 9 66.7 4 4 100.0 3 3 100.0 0 2 2 0 0 0 1 2 5
+p588
+aVAndre Iguodala PHI 12/09/2010 PHI vs. BOS L 40 14 5 14 35.7 0 3 0.0 4 4 100.0 2 3 5 11 2 0 1 2 1
+p589
+aVElton Brand PHI 12/09/2010 PHI vs. BOS L 39 13 5 10 50.0 0 0 - 3 4 75.0 8 6 14 1 0 3 1 3 6
+p590
+aVLou Williams PHI 12/09/2010 PHI vs. BOS L 22 16 5 10 50.0 4 5 80.0 2 3 66.7 0 0 0 2 1 0 3 0 -9
+p591
+aVThaddeus Young PHI 12/09/2010 PHI vs. BOS L 28 16 7 11 63.6 0 0 - 2 2 100.0 2 5 7 1 0 0 2 2 -4
+p592
+aVAndres Nocioni PHI 12/09/2010 PHI vs. BOS L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p593
+aVEvan Turner PHI 12/09/2010 PHI vs. BOS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -1
+p594
+aVSpencer Hawes PHI 12/09/2010 PHI vs. BOS L 24 11 5 11 45.5 0 0 - 1 2 50.0 2 5 7 0 0 0 0 3 3
+p595
+aVJrue Holiday PHI 12/07/2010 PHI vs. CLE W 40 16 5 14 35.7 0 4 0.0 6 6 100.0 2 3 5 7 1 0 2 3 17
+p596
+aVLou Williams PHI 12/07/2010 PHI vs. CLE W 21 19 5 10 50.0 1 3 33.3 8 9 88.9 0 1 1 4 1 0 0 2 5
+p597
+aVSpencer Hawes PHI 12/07/2010 PHI vs. CLE W 32 10 4 6 66.7 1 1 100.0 1 2 50.0 1 11 12 1 1 3 0 2 10
+p598
+aVEvan Turner PHI 12/07/2010 PHI vs. CLE W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 1 5
+p599
+aVElton Brand PHI 12/07/2010 PHI vs. CLE W 30 12 6 10 60.0 0 0 - 0 2 0.0 3 2 5 0 1 1 0 2 13
+p600
+aVThaddeus Young PHI 12/07/2010 PHI vs. CLE W 28 26 11 12 91.7 1 1 100.0 3 3 100.0 2 9 11 0 2 0 0 1 18
+p601
+aVAndre Iguodala PHI 12/07/2010 PHI vs. CLE W 36 13 3 12 25.0 0 4 0.0 7 8 87.5 1 5 6 7 2 1 1 1 15
+p602
+aVJodie Meeks PHI 12/07/2010 PHI vs. CLE W 30 16 6 13 46.2 4 9 44.4 0 0 - 0 1 1 1 0 0 3 0 16
+p603
+aVAndres Nocioni PHI 12/07/2010 PHI vs. CLE W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 1 0 0 2 1
+p604
+aVAndre Iguodala PHI 12/04/2010 PHI vs. CHA W 39 15 5 10 50.0 1 3 33.3 4 5 80.0 0 5 5 7 0 0 0 5 24
+p605
+aVMarreese Speights PHI 12/04/2010 PHI vs. CHA W 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p606
+aVJodie Meeks PHI 12/04/2010 PHI vs. CHA W 36 26 9 16 56.3 7 10 70.0 1 2 50.0 0 1 1 1 0 0 1 4 28
+p607
+aVJrue Holiday PHI 12/04/2010 PHI vs. CHA W 39 15 6 11 54.5 3 4 75.0 0 0 - 1 3 4 7 2 2 3 2 15
+p608
+aVEvan Turner PHI 12/04/2010 PHI vs. CHA W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -3
+p609
+aVThaddeus Young PHI 12/04/2010 PHI vs. CHA W 26 20 8 11 72.7 0 0 - 4 4 100.0 2 1 3 1 0 0 0 5 -1
+p610
+aVAndres Nocioni PHI 12/04/2010 PHI vs. CHA W 11 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 0 0 1 2 0 -11
+p611
+aVElton Brand PHI 12/04/2010 PHI vs. CHA W 37 15 7 11 63.6 0 0 - 1 1 100.0 5 5 10 2 1 2 1 4 16
+p612
+aVLou Williams PHI 12/04/2010 PHI vs. CHA W 12 8 1 5 20.0 0 2 0.0 6 7 85.7 0 0 0 3 2 0 1 1 1
+p613
+aVSpencer Hawes PHI 12/04/2010 PHI vs. CHA W 22 6 3 5 60.0 0 0 - 0 0 - 1 8 9 1 0 1 2 4 26
+p614
+aVAndre Iguodala PHI 12/03/2010 PHI @ ATL L 39 10 4 12 33.3 0 2 0.0 2 2 100.0 0 8 8 8 2 1 0 1 -12
+p615
+aVJrue Holiday PHI 12/03/2010 PHI @ ATL L 30 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 5 0 0 3 1 -7
+p616
+aVEvan Turner PHI 12/03/2010 PHI @ ATL L 19 11 5 7 71.4 0 1 0.0 1 1 100.0 0 4 4 1 0 0 0 3 4
+p617
+aVMarreese Speights PHI 12/03/2010 PHI @ ATL L 14 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 0 1 1 3 -2
+p618
+aVJodie Meeks PHI 12/03/2010 PHI @ ATL L 19 9 2 3 66.7 2 3 66.7 3 4 75.0 0 1 1 0 1 0 2 1 0
+p619
+aVSpencer Hawes PHI 12/03/2010 PHI @ ATL L 21 9 4 7 57.1 0 0 - 1 2 50.0 1 7 8 4 0 0 1 2 9
+p620
+aVElton Brand PHI 12/03/2010 PHI @ ATL L 38 16 7 16 43.8 0 0 - 2 3 66.7 3 11 14 1 2 0 3 3 -11
+p621
+aVLou Williams PHI 12/03/2010 PHI @ ATL L 26 12 5 12 41.7 1 3 33.3 1 3 33.3 0 2 2 6 1 0 0 5 -4
+p622
+aVThaddeus Young PHI 12/03/2010 PHI @ ATL L 18 6 2 8 25.0 0 1 0.0 2 2 100.0 2 1 3 0 0 0 0 2 5
+p623
+aVJason Kapono PHI 12/03/2010 PHI @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p624
+aVTony Battie PHI 12/03/2010 PHI @ ATL L 15 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 0 0 0 1 1 -5
+p625
+aVJodie Meeks PHI 11/30/2010 PHI vs. POR W 14 6 1 4 25.0 0 2 0.0 4 4 100.0 0 1 1 0 0 0 0 0 1
+p626
+aVTony Battie PHI 11/30/2010 PHI vs. POR W 10 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 2
+p627
+aVElton Brand PHI 11/30/2010 PHI vs. POR W 36 18 7 10 70.0 0 0 - 4 4 100.0 1 1 2 3 2 1 1 2 6
+p628
+aVThaddeus Young PHI 11/30/2010 PHI vs. POR W 22 5 2 8 25.0 0 1 0.0 1 2 50.0 1 6 7 2 1 0 1 0 8
+p629
+aVMarreese Speights PHI 11/30/2010 PHI vs. POR W 14 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 2 1 0 1 3 9
+p630
+aVSpencer Hawes PHI 11/30/2010 PHI vs. POR W 18 10 5 7 71.4 0 0 - 0 0 - 1 3 4 2 0 1 3 1 -9
+p631
+aVLou Williams PHI 11/30/2010 PHI vs. POR W 25 7 1 4 25.0 1 2 50.0 4 6 66.7 0 1 1 5 1 0 1 1 15
+p632
+aVEvan Turner PHI 11/30/2010 PHI vs. POR W 19 1 0 4 0.0 0 0 - 1 2 50.0 0 2 2 3 2 0 0 1 2
+p633
+aVAndres Nocioni PHI 11/30/2010 PHI vs. POR W 16 11 4 7 57.1 3 3 100.0 0 0 - 0 5 5 1 0 0 1 2 15
+p634
+aVJrue Holiday PHI 11/30/2010 PHI vs. POR W 23 11 4 8 50.0 2 5 40.0 1 2 50.0 1 2 3 1 0 0 2 6 -6
+p635
+aVAndre Iguodala PHI 11/30/2010 PHI vs. POR W 42 7 2 4 50.0 0 1 0.0 3 4 75.0 0 7 7 3 2 0 3 1 2
+p636
+aVTony Battie PHI 11/27/2010 PHI vs. NJN W 16 9 4 4 100.0 1 1 100.0 0 0 - 0 6 6 2 0 1 0 0 14
+p637
+aVSpencer Hawes PHI 11/27/2010 PHI vs. NJN W 15 2 1 5 20.0 0 0 - 0 2 0.0 2 3 5 3 0 1 0 3 10
+p638
+aVThaddeus Young PHI 11/27/2010 PHI vs. NJN W 24 13 5 7 71.4 0 0 - 3 4 75.0 0 4 4 0 1 0 2 2 7
+p639
+aVLou Williams PHI 11/27/2010 PHI vs. NJN W 21 15 5 9 55.6 2 4 50.0 3 3 100.0 0 0 0 5 0 0 0 1 9
+p640
+aVJodie Meeks PHI 11/27/2010 PHI vs. NJN W 12 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p641
+aVAndre Iguodala PHI 11/27/2010 PHI vs. NJN W 42 16 7 14 50.0 2 3 66.7 0 1 0.0 2 5 7 4 0 0 1 0 18
+p642
+aVElton Brand PHI 11/27/2010 PHI vs. NJN W 30 14 6 11 54.5 0 0 - 2 2 100.0 3 7 10 0 0 3 1 2 -1
+p643
+aVJrue Holiday PHI 11/27/2010 PHI vs. NJN W 37 20 9 16 56.3 0 2 0.0 2 4 50.0 2 2 4 13 3 0 1 3 21
+p644
+aVMarreese Speights PHI 11/27/2010 PHI vs. NJN W 13 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 2 4
+p645
+aVAndres Nocioni PHI 11/27/2010 PHI vs. NJN W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -2
+p646
+aVEvan Turner PHI 11/27/2010 PHI vs. NJN W 23 4 2 8 25.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 1
+p647
+aVJodie Meeks PHI 11/26/2010 PHI @ MIA L 25 21 8 13 61.5 5 8 62.5 0 0 - 0 0 0 2 1 0 1 2 4
+p648
+aVAndre Iguodala PHI 11/26/2010 PHI @ MIA L 39 20 8 12 66.7 2 4 50.0 2 5 40.0 1 8 9 5 3 1 2 4 -8
+p649
+aVEvan Turner PHI 11/26/2010 PHI @ MIA L 23 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -13
+p650
+aVLou Williams PHI 11/26/2010 PHI @ MIA L 14 4 2 5 40.0 0 2 0.0 0 2 0.0 0 0 0 3 0 0 2 0 -10
+p651
+aVSpencer Hawes PHI 11/26/2010 PHI @ MIA L 23 5 2 6 33.3 0 1 0.0 1 2 50.0 3 5 8 1 0 0 1 4 0
+p652
+aVJrue Holiday PHI 11/26/2010 PHI @ MIA L 34 9 3 9 33.3 1 3 33.3 2 2 100.0 1 4 5 6 2 0 1 3 1
+p653
+aVThaddeus Young PHI 11/26/2010 PHI @ MIA L 25 11 4 5 80.0 0 0 - 3 6 50.0 2 4 6 3 1 0 0 4 6
+p654
+aVAndres Nocioni PHI 11/26/2010 PHI @ MIA L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p655
+aVElton Brand PHI 11/26/2010 PHI @ MIA L 36 12 4 13 30.8 0 0 - 4 4 100.0 2 6 8 1 0 0 5 1 -5
+p656
+aVMarreese Speights PHI 11/26/2010 PHI @ MIA L 15 8 4 6 66.7 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -15
+p657
+aVEvan Turner PHI 11/24/2010 PHI @ TOR L 16 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -2
+p658
+aVLou Williams PHI 11/24/2010 PHI @ TOR L 27 8 1 11 9.1 1 4 25.0 5 6 83.3 1 1 2 1 0 2 1 2 -11
+p659
+aVTony Battie PHI 11/24/2010 PHI @ TOR L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p660
+aVThaddeus Young PHI 11/24/2010 PHI @ TOR L 29 14 7 12 58.3 0 1 0.0 0 0 - 2 3 5 1 2 1 0 4 -3
+p661
+aVCraig Brackins PHI 11/24/2010 PHI @ TOR L 10 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 0 1 0 0 2 -1
+p662
+aVJodie Meeks PHI 11/24/2010 PHI @ TOR L 24 6 2 4 50.0 1 2 50.0 1 1 100.0 0 2 2 1 0 0 0 0 -17
+p663
+aVJrue Holiday PHI 11/24/2010 PHI @ TOR L 33 16 6 12 50.0 1 2 50.0 3 3 100.0 1 6 7 6 1 1 2 3 -2
+p664
+aVAndres Nocioni PHI 11/24/2010 PHI @ TOR L 12 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 0 2 1 -8
+p665
+aVAndre Iguodala PHI 11/24/2010 PHI @ TOR L 45 17 6 13 46.2 1 1 100.0 4 5 80.0 2 6 8 6 1 0 2 2 -16
+p666
+aVMarreese Speights PHI 11/24/2010 PHI @ TOR L 21 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 1 0 1 3 2 -6
+p667
+aVSpencer Hawes PHI 11/24/2010 PHI @ TOR L 18 6 3 8 37.5 0 0 - 0 0 - 2 3 5 1 0 0 3 3 -14
+p668
+aVAndre Iguodala PHI 11/23/2010 PHI @ WAS L 50 23 6 18 33.3 2 3 66.7 9 12 75.0 2 9 11 8 1 1 1 1 2
+p669
+aVLou Williams PHI 11/23/2010 PHI @ WAS L 24 4 2 8 25.0 0 1 0.0 0 0 - 0 3 3 5 0 0 3 0 8
+p670
+aVSpencer Hawes PHI 11/23/2010 PHI @ WAS L 22 5 2 5 40.0 0 1 0.0 1 2 50.0 1 5 6 4 0 1 0 2 0
+p671
+aVMarreese Speights PHI 11/23/2010 PHI @ WAS L 29 16 8 13 61.5 0 1 0.0 0 0 - 3 6 9 0 0 2 1 4 6
+p672
+aVJrue Holiday PHI 11/23/2010 PHI @ WAS L 42 10 3 12 25.0 0 2 0.0 4 4 100.0 0 5 5 7 2 2 4 3 -6
+p673
+aVEvan Turner PHI 11/23/2010 PHI @ WAS L 20 11 3 7 42.9 0 1 0.0 5 8 62.5 0 2 2 1 1 0 0 3 -21
+p674
+aVElton Brand PHI 11/23/2010 PHI @ WAS L 26 19 8 14 57.1 0 0 - 3 5 60.0 7 0 7 2 2 0 3 2 2
+p675
+aVAndres Nocioni PHI 11/23/2010 PHI @ WAS L 28 11 4 8 50.0 3 3 100.0 0 0 - 0 1 1 1 2 0 1 4 2
+p676
+aVThaddeus Young PHI 11/23/2010 PHI @ WAS L 24 15 7 8 87.5 1 1 100.0 0 0 - 1 3 4 1 0 0 2 2 -3
+p677
+aVEvan Turner PHI 11/19/2010 PHI vs. MIL W 29 8 4 6 66.7 0 0 - 0 0 - 1 1 2 6 1 1 1 3 -4
+p678
+aVTony Battie PHI 11/19/2010 PHI vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p679
+aVSpencer Hawes PHI 11/19/2010 PHI vs. MIL W 25 9 4 9 44.4 1 1 100.0 0 0 - 2 5 7 0 1 1 1 3 6
+p680
+aVThaddeus Young PHI 11/19/2010 PHI vs. MIL W 39 23 8 13 61.5 0 2 0.0 7 8 87.5 1 5 6 3 0 0 1 4 17
+p681
+aVLou Williams PHI 11/19/2010 PHI vs. MIL W 31 19 5 13 38.5 3 8 37.5 6 6 100.0 0 2 2 2 1 0 2 3 6
+p682
+aVJrue Holiday PHI 11/19/2010 PHI vs. MIL W 31 10 4 12 33.3 1 3 33.3 1 2 50.0 2 4 6 5 0 0 4 4 5
+p683
+aVJodie Meeks PHI 11/19/2010 PHI vs. MIL W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 8
+p684
+aVAndres Nocioni PHI 11/19/2010 PHI vs. MIL W 22 12 2 5 40.0 1 2 50.0 7 8 87.5 0 5 5 1 3 1 3 4 10
+p685
+aVElton Brand PHI 11/19/2010 PHI vs. MIL W 31 4 1 7 14.3 0 0 - 2 2 100.0 1 2 3 2 1 1 1 4 -1
+p686
+aVMarreese Speights PHI 11/19/2010 PHI vs. MIL W 17 3 1 7 14.3 0 0 - 1 2 50.0 2 8 10 0 1 0 2 3 8
+p687
+aVLou Williams PHI 11/17/2010 PHI vs. TOR L 12 0 0 7 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -10
+p688
+aVMarreese Speights PHI 11/17/2010 PHI vs. TOR L 7 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 2 0
+p689
+aVDarius Songaila PHI 11/17/2010 PHI vs. TOR L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p690
+aVAndres Nocioni PHI 11/17/2010 PHI vs. TOR L 30 9 3 8 37.5 1 4 25.0 2 3 66.7 0 6 6 0 1 1 2 6 -7
+p691
+aVSpencer Hawes PHI 11/17/2010 PHI vs. TOR L 12 8 4 7 57.1 0 0 - 0 2 0.0 2 2 4 0 0 0 2 3 7
+p692
+aVEvan Turner PHI 11/17/2010 PHI vs. TOR L 43 11 3 8 37.5 0 0 - 5 6 83.3 1 11 12 4 2 0 1 3 -4
+p693
+aVJrue Holiday PHI 11/17/2010 PHI vs. TOR L 38 17 7 16 43.8 0 3 0.0 3 3 100.0 2 4 6 7 2 1 3 4 1
+p694
+aVTony Battie PHI 11/17/2010 PHI vs. TOR L 17 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 0 -12
+p695
+aVThaddeus Young PHI 11/17/2010 PHI vs. TOR L 28 10 4 13 30.8 0 0 - 2 3 66.7 3 2 5 0 1 0 1 0 -7
+p696
+aVElton Brand PHI 11/17/2010 PHI vs. TOR L 41 27 9 19 47.4 0 0 - 9 11 81.8 6 2 8 2 2 0 2 4 -6
+p697
+aVJason Kapono PHI 11/17/2010 PHI vs. TOR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p698
+aVAndres Nocioni PHI 11/16/2010 PHI @ CLE L 32 12 5 10 50.0 2 3 66.7 0 0 - 0 4 4 1 1 1 1 1 -6
+p699
+aVThaddeus Young PHI 11/16/2010 PHI @ CLE L 32 17 8 12 66.7 0 0 - 1 1 100.0 1 7 8 2 1 0 1 1 4
+p700
+aVEvan Turner PHI 11/16/2010 PHI @ CLE L 39 16 4 13 30.8 1 3 33.3 7 8 87.5 1 8 9 0 0 1 4 4 0
+p701
+aVTony Battie PHI 11/16/2010 PHI @ CLE L 10 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 4 -3
+p702
+aVLou Williams PHI 11/16/2010 PHI @ CLE L 20 10 3 10 30.0 2 2 100.0 2 2 100.0 1 0 1 7 0 0 2 0 -2
+p703
+aVElton Brand PHI 11/16/2010 PHI @ CLE L 34 13 5 13 38.5 0 0 - 3 4 75.0 3 8 11 1 0 2 2 4 -11
+p704
+aVJrue Holiday PHI 11/16/2010 PHI @ CLE L 38 11 3 9 33.3 0 2 0.0 5 5 100.0 0 4 4 10 0 0 4 5 -7
+p705
+aVJodie Meeks PHI 11/16/2010 PHI @ CLE L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -8
+p706
+aVDarius Songaila PHI 11/16/2010 PHI @ CLE L 10 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -1
+p707
+aVSpencer Hawes PHI 11/16/2010 PHI @ CLE L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -6
+p708
+aVSpencer Hawes PHI 11/13/2010 PHI @ SAS L 14 5 2 4 50.0 0 0 - 1 1 100.0 1 2 3 2 0 2 2 2 -18
+p709
+aVTony Battie PHI 11/13/2010 PHI @ SAS L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p710
+aVJodie Meeks PHI 11/13/2010 PHI @ SAS L 17 7 1 4 25.0 0 2 0.0 5 6 83.3 0 0 0 1 2 0 1 0 -2
+p711
+aVThaddeus Young PHI 11/13/2010 PHI @ SAS L 21 10 5 9 55.6 0 0 - 0 0 - 1 2 3 2 1 0 0 2 -5
+p712
+aVLou Williams PHI 11/13/2010 PHI @ SAS L 22 13 3 9 33.3 1 3 33.3 6 6 100.0 0 2 2 2 0 0 1 2 -7
+p713
+aVAndre Iguodala PHI 11/13/2010 PHI @ SAS L 19 10 3 7 42.9 0 0 - 4 5 80.0 0 8 8 1 0 0 1 1 -20
+p714
+aVElton Brand PHI 11/13/2010 PHI @ SAS L 21 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 0 1 1 3 -26
+p715
+aVAndres Nocioni PHI 11/13/2010 PHI @ SAS L 20 9 3 6 50.0 1 1 100.0 2 2 100.0 0 4 4 0 0 2 1 3 -15
+p716
+aVMarreese Speights PHI 11/13/2010 PHI @ SAS L 25 11 4 9 44.4 0 0 - 3 4 75.0 3 4 7 0 0 1 1 2 -1
+p717
+aVJason Kapono PHI 11/13/2010 PHI @ SAS L 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 9
+p718
+aVEvan Turner PHI 11/13/2010 PHI @ SAS L 27 0 0 3 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -8
+p719
+aVJrue Holiday PHI 11/13/2010 PHI @ SAS L 35 16 7 17 41.2 2 3 66.7 0 0 - 1 1 2 5 2 0 6 2 -12
+p720
+aVMarreese Speights PHI 11/12/2010 PHI @ DAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 1
+p721
+aVAndres Nocioni PHI 11/12/2010 PHI @ DAL L 20 14 5 10 50.0 2 5 40.0 2 2 100.0 0 5 5 1 0 1 1 1 -8
+p722
+aVElton Brand PHI 11/12/2010 PHI @ DAL L 29 8 3 8 37.5 0 0 - 2 2 100.0 5 4 9 0 2 0 3 4 -11
+p723
+aVJrue Holiday PHI 11/12/2010 PHI @ DAL L 39 11 5 12 41.7 0 4 0.0 1 3 33.3 1 2 3 13 1 0 1 3 -7
+p724
+aVJodie Meeks PHI 11/12/2010 PHI @ DAL L 18 2 0 4 0.0 0 2 0.0 2 2 100.0 1 0 1 0 0 0 0 2 -6
+p725
+aVThaddeus Young PHI 11/12/2010 PHI @ DAL L 24 17 7 12 58.3 0 0 - 3 3 100.0 2 0 2 0 1 0 1 2 -1
+p726
+aVEvan Turner PHI 11/12/2010 PHI @ DAL L 28 5 2 6 33.3 0 1 0.0 1 3 33.3 0 6 6 2 1 1 2 2 -1
+p727
+aVAndre Iguodala PHI 11/12/2010 PHI @ DAL L 38 13 5 13 38.5 0 3 0.0 3 5 60.0 2 5 7 4 1 1 2 1 -4
+p728
+aVSpencer Hawes PHI 11/12/2010 PHI @ DAL L 24 14 7 12 58.3 0 0 - 0 3 0.0 3 2 5 2 0 0 1 2 4
+p729
+aVJason Kapono PHI 11/12/2010 PHI @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p730
+aVLou Williams PHI 11/12/2010 PHI @ DAL L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 2 2 -6
+p731
+aVTony Battie PHI 11/12/2010 PHI @ DAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -8
+p732
+aVAndres Nocioni PHI 11/10/2010 PHI @ OKC L 31 12 6 12 50.0 0 3 0.0 0 0 - 0 2 2 3 0 0 1 5 7
+p733
+aVSpencer Hawes PHI 11/10/2010 PHI @ OKC L 20 8 3 5 60.0 0 1 0.0 2 2 100.0 2 2 4 0 1 1 1 1 0
+p734
+aVMarreese Speights PHI 11/10/2010 PHI @ OKC L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 1 0 -8
+p735
+aVThaddeus Young PHI 11/10/2010 PHI @ OKC L 22 8 4 5 80.0 0 0 - 0 0 - 1 3 4 1 1 0 1 2 -2
+p736
+aVTony Battie PHI 11/10/2010 PHI @ OKC L 10 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -2
+p737
+aVJrue Holiday PHI 11/10/2010 PHI @ OKC L 33 17 5 8 62.5 0 0 - 7 9 77.8 1 1 2 11 2 0 6 6 0
+p738
+aVElton Brand PHI 11/10/2010 PHI @ OKC L 38 17 6 11 54.5 0 0 - 5 7 71.4 5 4 9 5 1 0 5 3 0
+p739
+aVEvan Turner PHI 11/10/2010 PHI @ OKC L 39 15 6 13 46.2 0 1 0.0 3 3 100.0 2 6 8 1 1 0 0 5 -4
+p740
+aVLou Williams PHI 11/10/2010 PHI @ OKC L 17 6 2 11 18.2 1 5 20.0 1 2 50.0 0 2 2 2 0 0 0 2 -12
+p741
+aVJodie Meeks PHI 11/10/2010 PHI @ OKC L 22 17 6 9 66.7 4 5 80.0 1 2 50.0 0 1 1 0 2 0 1 1 -9
+p742
+aVAndres Nocioni PHI 11/07/2010 PHI @ NYK W 19 11 4 6 66.7 1 2 50.0 2 2 100.0 0 2 2 0 0 0 0 4 0
+p743
+aVSpencer Hawes PHI 11/07/2010 PHI @ NYK W 16 6 3 7 42.9 0 1 0.0 0 2 0.0 1 3 4 1 0 0 1 1 -13
+p744
+aVTony Battie PHI 11/07/2010 PHI @ NYK W 16 6 3 3 100.0 0 0 - 0 0 - 0 5 5 0 1 0 0 2 15
+p745
+aVJrue Holiday PHI 11/07/2010 PHI @ NYK W 42 19 6 14 42.9 4 5 80.0 3 4 75.0 1 4 5 8 1 0 2 3 22
+p746
+aVElton Brand PHI 11/07/2010 PHI @ NYK W 37 20 7 11 63.6 0 0 - 6 10 60.0 2 5 7 2 1 2 3 5 8
+p747
+aVJodie Meeks PHI 11/07/2010 PHI @ NYK W 16 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 1 3 0 0 1 -1
+p748
+aVLou Williams PHI 11/07/2010 PHI @ NYK W 26 19 3 12 25.0 1 4 25.0 12 14 85.7 1 1 2 2 1 1 3 0 12
+p749
+aVMarreese Speights PHI 11/07/2010 PHI @ NYK W 10 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 1 0 1 2 12
+p750
+aVJason Kapono PHI 11/07/2010 PHI @ NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p751
+aVEvan Turner PHI 11/07/2010 PHI @ NYK W 35 14 6 11 54.5 0 0 - 2 3 66.7 1 9 10 3 1 0 5 4 0
+p752
+aVThaddeus Young PHI 11/07/2010 PHI @ NYK W 17 2 1 4 25.0 0 2 0.0 0 0 - 1 4 5 2 0 0 1 1 -4
+p753
+aVTony Battie PHI 11/05/2010 PHI vs. CLE L 26 8 4 6 66.7 0 0 - 0 0 - 2 5 7 2 1 2 1 4 14
+p754
+aVEvan Turner PHI 11/05/2010 PHI vs. CLE L 25 5 2 7 28.6 0 2 0.0 1 1 100.0 0 4 4 1 1 0 2 4 9
+p755
+aVElton Brand PHI 11/05/2010 PHI vs. CLE L 30 20 8 12 66.7 0 0 - 4 5 80.0 1 1 2 1 2 2 2 4 -20
+p756
+aVAndres Nocioni PHI 11/05/2010 PHI vs. CLE L 32 15 6 10 60.0 3 5 60.0 0 0 - 0 4 4 2 2 1 3 1 -8
+p757
+aVMarreese Speights PHI 11/05/2010 PHI vs. CLE L 12 8 3 4 75.0 0 0 - 2 2 100.0 2 1 3 0 1 1 2 3 9
+p758
+aVLou Williams PHI 11/05/2010 PHI vs. CLE L 26 16 7 14 50.0 0 3 0.0 2 3 66.7 2 0 2 5 1 0 2 3 -16
+p759
+aVDarius Songaila PHI 11/05/2010 PHI vs. CLE L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 5
+p760
+aVSpencer Hawes PHI 11/05/2010 PHI vs. CLE L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -18
+p761
+aVJrue Holiday PHI 11/05/2010 PHI vs. CLE L 39 29 10 17 58.8 3 5 60.0 6 8 75.0 1 1 2 8 2 1 0 6 2
+p762
+aVJason Kapono PHI 11/05/2010 PHI vs. CLE L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p763
+aVThaddeus Young PHI 11/05/2010 PHI vs. CLE L 14 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -4
+p764
+aVAndre Iguodala PHI 11/05/2010 PHI vs. CLE L 18 7 3 7 42.9 0 2 0.0 1 2 50.0 1 1 2 4 0 0 2 2 -9
+p765
+aVThaddeus Young PHI 11/03/2010 PHI vs. IND W 28 16 7 14 50.0 1 1 100.0 1 1 100.0 2 3 5 0 1 0 1 1 21
+p766
+aVJrue Holiday PHI 11/03/2010 PHI vs. IND W 35 11 4 8 50.0 0 1 0.0 3 3 100.0 0 4 4 5 4 0 1 1 17
+p767
+aVJason Kapono PHI 11/03/2010 PHI vs. IND W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 11
+p768
+aVMarreese Speights PHI 11/03/2010 PHI vs. IND W 14 2 1 6 16.7 0 0 - 0 0 - 1 10 11 1 0 0 2 3 8
+p769
+aVElton Brand PHI 11/03/2010 PHI vs. IND W 36 25 9 15 60.0 0 0 - 7 7 100.0 5 7 12 4 1 2 0 4 23
+p770
+aVLou Williams PHI 11/03/2010 PHI vs. IND W 24 11 4 8 50.0 1 3 33.3 2 2 100.0 0 1 1 4 0 0 2 2 16
+p771
+aVAndre Iguodala PHI 11/03/2010 PHI vs. IND W 40 11 4 9 44.4 0 1 0.0 3 4 75.0 1 8 9 4 1 4 0 2 25
+p772
+aVEvan Turner PHI 11/03/2010 PHI vs. IND W 23 12 5 8 62.5 0 1 0.0 2 2 100.0 0 6 6 3 1 0 3 2 23
+p773
+aVAndres Nocioni PHI 11/03/2010 PHI vs. IND W 14 4 1 5 20.0 1 3 33.3 1 2 50.0 0 2 2 0 0 0 0 0 -9
+p774
+aVSpencer Hawes PHI 11/03/2010 PHI vs. IND W 14 9 3 5 60.0 1 1 100.0 2 4 50.0 0 4 4 0 0 2 1 3 -5
+p775
+aVEvan Turner PHI 11/02/2010 PHI @ WAS L 28 9 4 7 57.1 0 0 - 1 2 50.0 0 6 6 1 1 0 3 3 -15
+p776
+aVJrue Holiday PHI 11/02/2010 PHI @ WAS L 41 14 6 11 54.5 0 3 0.0 2 2 100.0 1 2 3 13 1 0 6 4 9
+p777
+aVJason Kapono PHI 11/02/2010 PHI @ WAS L 7 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 8
+p778
+aVThaddeus Young PHI 11/02/2010 PHI @ WAS L 18 8 4 4 100.0 0 0 - 0 0 - 0 1 1 1 1 1 1 4 1
+p779
+aVTony Battie PHI 11/02/2010 PHI @ WAS L 9 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 0 -10
+p780
+aVAndre Iguodala PHI 11/02/2010 PHI @ WAS L 38 12 5 13 38.5 1 3 33.3 1 3 33.3 0 3 3 9 2 0 4 2 -6
+p781
+aVElton Brand PHI 11/02/2010 PHI @ WAS L 42 21 9 11 81.8 0 0 - 3 4 75.0 4 5 9 3 4 1 3 6 11
+p782
+aVAndres Nocioni PHI 11/02/2010 PHI @ WAS L 16 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 2 0 0 1 1 5
+p783
+aVLou Williams PHI 11/02/2010 PHI @ WAS L 32 30 6 16 37.5 3 7 42.9 15 17 88.2 0 1 1 3 0 0 1 2 -9
+p784
+aVSpencer Hawes PHI 11/02/2010 PHI @ WAS L 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 1 2 3 7
+p785
+aVMarreese Speights PHI 11/02/2010 PHI @ WAS L 17 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 0 0 1 5 -6
+p786
+aVElton Brand PHI 10/30/2010 PHI @ IND L 34 12 5 16 31.3 0 0 - 2 3 66.7 6 4 10 2 4 4 0 3 -20
+p787
+aVTony Battie PHI 10/30/2010 PHI @ IND L 9 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 8
+p788
+aVAndre Iguodala PHI 10/30/2010 PHI @ IND L 34 12 4 10 40.0 1 2 50.0 3 8 37.5 1 2 3 3 0 0 5 3 -28
+p789
+aVSpencer Hawes PHI 10/30/2010 PHI @ IND L 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 2 1 3 -17
+p790
+aVEvan Turner PHI 10/30/2010 PHI @ IND L 33 9 4 11 36.4 0 0 - 1 2 50.0 1 6 7 2 0 0 2 3 5
+p791
+aVJrue Holiday PHI 10/30/2010 PHI @ IND L 30 12 6 14 42.9 0 1 0.0 0 0 - 2 1 3 2 2 0 2 1 -18
+p792
+aVLou Williams PHI 10/30/2010 PHI @ IND L 21 18 7 8 87.5 2 2 100.0 2 3 66.7 0 2 2 3 1 0 5 2 1
+p793
+aVAndres Nocioni PHI 10/30/2010 PHI @ IND L 32 6 2 6 33.3 2 5 40.0 0 0 - 0 7 7 1 0 1 2 5 -9
+p794
+aVThaddeus Young PHI 10/30/2010 PHI @ IND L 26 11 5 9 55.6 1 1 100.0 0 0 - 2 5 7 0 2 2 2 3 13
+p795
+aVMarreese Speights PHI 10/30/2010 PHI @ IND L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 0
+p796
+aVJason Kapono PHI 10/29/2010 PHI vs. ATL L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p797
+aVElton Brand PHI 10/29/2010 PHI vs. ATL L 38 20 8 13 61.5 0 0 - 4 4 100.0 4 4 8 2 1 0 1 3 4
+p798
+aVAndre Iguodala PHI 10/29/2010 PHI vs. ATL L 42 27 10 19 52.6 2 5 40.0 5 6 83.3 1 5 6 10 2 1 3 1 3
+p799
+aVThaddeus Young PHI 10/29/2010 PHI vs. ATL L 17 6 3 7 42.9 0 0 - 0 1 0.0 1 3 4 0 1 1 1 1 -3
+p800
+aVJrue Holiday PHI 10/29/2010 PHI vs. ATL L 32 8 3 11 27.3 1 2 50.0 1 2 50.0 2 2 4 4 2 1 0 4 5
+p801
+aVTony Battie PHI 10/29/2010 PHI vs. ATL L 10 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 3
+p802
+aVMarreese Speights PHI 10/29/2010 PHI vs. ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p803
+aVEvan Turner PHI 10/29/2010 PHI vs. ATL L 19 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 4 0 1 0 3 -6
+p804
+aVAndres Nocioni PHI 10/29/2010 PHI vs. ATL L 30 15 5 10 50.0 2 3 66.7 3 5 60.0 2 3 5 0 0 0 0 2 -2
+p805
+aVSpencer Hawes PHI 10/29/2010 PHI vs. ATL L 22 6 3 11 27.3 0 0 - 0 0 - 2 2 4 0 2 1 1 2 -7
+p806
+aVLou Williams PHI 10/29/2010 PHI vs. ATL L 20 16 2 6 33.3 0 0 - 12 13 92.3 0 1 1 4 1 0 0 3 -4
+p807
+aVDarius Songaila PHI 10/27/2010 PHI vs. MIA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p808
+aVMarreese Speights PHI 10/27/2010 PHI vs. MIA L 4 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -1
+p809
+aVElton Brand PHI 10/27/2010 PHI vs. MIA L 34 12 6 11 54.5 0 0 - 0 0 - 2 7 9 0 3 2 1 4 -9
+p810
+aVJrue Holiday PHI 10/27/2010 PHI vs. MIA L 21 6 2 9 22.2 2 4 50.0 0 0 - 2 0 2 3 2 0 5 1 -8
+p811
+aVJason Kapono PHI 10/27/2010 PHI vs. MIA L 13 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -6
+p812
+aVThaddeus Young PHI 10/27/2010 PHI vs. MIA L 26 15 6 8 75.0 0 1 0.0 3 4 75.0 1 2 3 1 2 0 1 1 -8
+p813
+aVSpencer Hawes PHI 10/27/2010 PHI vs. MIA L 14 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -11
+p814
+aVEvan Turner PHI 10/27/2010 PHI vs. MIA L 31 16 7 10 70.0 0 0 - 2 3 66.7 1 6 7 4 0 1 2 2 5
+p815
+aVLou Williams PHI 10/27/2010 PHI vs. MIA L 34 15 5 14 35.7 3 7 42.9 2 2 100.0 0 1 1 7 0 0 3 4 7
+p816
+aVAndre Iguodala PHI 10/27/2010 PHI vs. MIA L 39 10 5 12 41.7 0 1 0.0 0 0 - 2 5 7 5 2 0 2 3 -19
+p817
+aVAndres Nocioni PHI 10/27/2010 PHI vs. MIA L 20 10 4 9 44.4 2 5 40.0 0 0 - 1 4 5 3 0 1 1 2 5
+p818
+a.

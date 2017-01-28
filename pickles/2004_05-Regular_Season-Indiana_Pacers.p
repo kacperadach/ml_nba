@@ -1,0 +1,1644 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVStephen Jackson IND 04/20/2005 IND vs. CHI W 37 17 5 9 55.6 0 1 0.0 7 8 87.5 0 5 5 1 2 0 3 1 -7
+p2
+aVAustin Croshere IND 04/20/2005 IND vs. CHI W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p3
+aVFred Jones IND 04/20/2005 IND vs. CHI W 15 2 0 5 0.0 0 3 0.0 2 2 100.0 0 1 1 1 0 0 1 0 -9
+p4
+aVJames Jones IND 04/20/2005 IND vs. CHI W 17 4 2 5 40.0 0 1 0.0 0 0 - 2 1 3 1 1 1 0 1 5
+p5
+aVReggie Miller IND 04/20/2005 IND vs. CHI W 33 12 3 13 23.1 0 2 0.0 6 6 100.0 0 7 7 4 1 0 4 4 9
+p6
+aVJeff Foster IND 04/20/2005 IND vs. CHI W 19 0 0 1 0.0 0 1 0.0 0 0 - 3 3 6 0 0 1 1 0 -23
+p7
+aVEddie Gill IND 04/20/2005 IND vs. CHI W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -9
+p8
+aVScot Pollard IND 04/20/2005 IND vs. CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 4
+p9
+aVDale Davis IND 04/20/2005 IND vs. CHI W 32 9 4 9 44.4 0 0 - 1 2 50.0 9 2 11 1 0 0 0 5 16
+p10
+aVJermaine O'Neal IND 04/20/2005 IND vs. CHI W 31 21 8 17 47.1 0 0 - 5 6 83.3 3 6 9 1 1 1 1 5 18
+p11
+aVAnthony Johnson IND 04/20/2005 IND vs. CHI W 40 20 9 13 69.2 2 3 66.7 0 2 0.0 0 4 4 2 2 1 2 3 11
+p12
+aVJermaine O'Neal IND 04/18/2005 IND @ ORL L 28 16 6 12 50.0 0 0 - 4 6 66.7 2 6 8 0 0 1 1 3 0
+p13
+aVEddie Gill IND 04/18/2005 IND @ ORL L 17 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 1 1 0 1 1 -13
+p14
+aVJeff Foster IND 04/18/2005 IND @ ORL L 19 0 0 3 0.0 0 0 - 0 0 - 2 6 8 0 0 0 0 3 -1
+p15
+aVFred Jones IND 04/18/2005 IND @ ORL L 40 19 7 15 46.7 1 3 33.3 4 4 100.0 2 1 3 3 1 1 2 3 9
+p16
+aVJames Jones IND 04/18/2005 IND @ ORL L 23 11 4 4 100.0 3 3 100.0 0 0 - 3 2 5 2 0 0 3 4 -5
+p17
+aVStephen Jackson IND 04/18/2005 IND @ ORL L 29 10 3 12 25.0 0 3 0.0 4 5 80.0 0 5 5 3 1 0 3 3 -6
+p18
+aVReggie Miller IND 04/18/2005 IND @ ORL L 36 13 5 13 38.5 1 6 16.7 2 3 66.7 0 2 2 4 1 0 1 2 1
+p19
+aVDale Davis IND 04/18/2005 IND @ ORL L 29 7 3 4 75.0 0 0 - 1 2 50.0 3 4 7 1 1 1 1 4 -4
+p20
+aVAustin Croshere IND 04/18/2005 IND @ ORL L 19 7 1 7 14.3 1 4 25.0 4 5 80.0 1 1 2 1 1 0 1 0 -1
+p21
+aVStephen Jackson IND 04/17/2005 IND @ MIA L 33 21 7 18 38.9 3 5 60.0 4 5 80.0 1 0 1 1 1 0 1 2 -7
+p22
+aVJames Jones IND 04/17/2005 IND @ MIA L 18 3 1 6 16.7 1 5 20.0 0 0 - 1 2 3 1 1 2 0 1 6
+p23
+aVReggie Miller IND 04/17/2005 IND @ MIA L 30 18 5 11 45.5 2 5 40.0 6 6 100.0 0 1 1 2 0 0 2 1 -4
+p24
+aVFred Jones IND 04/17/2005 IND @ MIA L 18 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 1 0 3 2 0
+p25
+aVJermaine O'Neal IND 04/17/2005 IND @ MIA L 23 16 4 15 26.7 0 0 - 8 11 72.7 2 2 4 1 0 0 2 3 -2
+p26
+aVAnthony Johnson IND 04/17/2005 IND @ MIA L 32 9 4 9 44.4 0 0 - 1 2 50.0 0 2 2 5 2 0 1 2 -10
+p27
+aVJeff Foster IND 04/17/2005 IND @ MIA L 18 0 0 0 - 0 0 - 0 0 - 2 4 6 0 0 0 0 3 3
+p28
+aVEddie Gill IND 04/17/2005 IND @ MIA L 16 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 2 0 0 2 4
+p29
+aVDale Davis IND 04/17/2005 IND @ MIA L 28 3 1 2 50.0 0 0 - 1 2 50.0 4 8 12 1 0 0 0 4 -6
+p30
+aVScot Pollard IND 04/17/2005 IND @ MIA L 24 4 2 5 40.0 0 0 - 0 4 0.0 1 4 5 0 0 0 0 3 -4
+p31
+aVDale Davis IND 04/15/2005 IND vs. PHI L 21 6 3 5 60.0 0 0 - 0 2 0.0 1 0 1 2 1 0 1 3 -10
+p32
+aVFred Jones IND 04/15/2005 IND vs. PHI L 22 10 4 8 50.0 2 4 50.0 0 0 - 1 3 4 2 0 1 0 2 -2
+p33
+aVStephen Jackson IND 04/15/2005 IND vs. PHI L 35 21 7 15 46.7 3 3 100.0 4 5 80.0 1 0 1 4 2 0 2 5 8
+p34
+aVAustin Croshere IND 04/15/2005 IND vs. PHI L 25 5 0 12 0.0 0 4 0.0 5 5 100.0 6 9 15 1 1 0 0 2 -14
+p35
+aVJeff Foster IND 04/15/2005 IND vs. PHI L 23 2 1 2 50.0 0 0 - 0 0 - 1 8 9 0 1 1 0 1 -1
+p36
+aVEddie Gill IND 04/15/2005 IND vs. PHI L 16 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 1 2 0 1 1 1
+p37
+aVJames Jones IND 04/15/2005 IND vs. PHI L 21 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 3 1 3 1 3 5
+p38
+aVScot Pollard IND 04/15/2005 IND vs. PHI L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 10
+p39
+aVReggie Miller IND 04/15/2005 IND vs. PHI L 38 13 4 16 25.0 1 9 11.1 4 6 66.7 0 3 3 2 1 0 2 0 -12
+p40
+aVAnthony Johnson IND 04/15/2005 IND vs. PHI L 32 20 6 14 42.9 2 4 50.0 6 6 100.0 1 4 5 3 0 0 5 4 -5
+p41
+aVEddie Gill IND 04/13/2005 IND vs. NJN W 11 11 3 3 100.0 3 3 100.0 2 2 100.0 0 1 1 1 1 0 1 4 -3
+p42
+aVStephen Jackson IND 04/13/2005 IND vs. NJN W 36 17 5 19 26.3 2 8 25.0 5 6 83.3 1 3 4 1 3 1 1 2 14
+p43
+aVScot Pollard IND 04/13/2005 IND vs. NJN W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p44
+aVJeff Foster IND 04/13/2005 IND vs. NJN W 18 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 2 0
+p45
+aVAustin Croshere IND 04/13/2005 IND vs. NJN W 28 13 6 15 40.0 1 5 20.0 0 0 - 2 5 7 0 1 0 0 6 -2
+p46
+aVDale Davis IND 04/13/2005 IND vs. NJN W 30 1 0 5 0.0 0 0 - 1 2 50.0 7 4 11 0 0 1 1 2 4
+p47
+aVAnthony Johnson IND 04/13/2005 IND vs. NJN W 36 7 2 10 20.0 1 3 33.3 2 4 50.0 0 6 6 9 1 0 3 2 7
+p48
+aVJames Jones IND 04/13/2005 IND vs. NJN W 25 14 5 7 71.4 2 2 100.0 2 2 100.0 0 3 3 0 0 1 1 2 2
+p49
+aVReggie Miller IND 04/13/2005 IND vs. NJN W 33 22 7 16 43.8 3 7 42.9 5 5 100.0 2 5 7 2 3 0 0 1 4
+p50
+aVFred Jones IND 04/13/2005 IND vs. NJN W 18 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 5 0 0 4 2 -4
+p51
+aVJeff Foster IND 04/11/2005 IND @ TOR W 33 9 3 6 50.0 0 0 - 3 5 60.0 1 5 6 1 0 0 2 3 -9
+p52
+aVJames Jones IND 04/11/2005 IND @ TOR W 17 11 4 4 100.0 1 1 100.0 2 2 100.0 1 4 5 0 0 0 0 1 7
+p53
+aVStephen Jackson IND 04/11/2005 IND @ TOR W 37 9 4 11 36.4 0 1 0.0 1 2 50.0 1 3 4 0 0 0 5 2 0
+p54
+aVDale Davis IND 04/11/2005 IND @ TOR W 29 9 2 5 40.0 0 0 - 5 8 62.5 4 8 12 0 1 0 2 2 7
+p55
+aVReggie Miller IND 04/11/2005 IND @ TOR W 29 19 5 11 45.5 1 5 20.0 8 8 100.0 1 2 3 2 0 0 1 0 10
+p56
+aVScot Pollard IND 04/11/2005 IND @ TOR W 10 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 3
+p57
+aVFred Jones IND 04/11/2005 IND @ TOR W 19 4 0 5 0.0 0 0 - 4 4 100.0 0 0 0 5 1 0 1 1 -3
+p58
+aVAnthony Johnson IND 04/11/2005 IND @ TOR W 34 9 4 13 30.8 0 0 - 1 1 100.0 1 6 7 2 1 0 2 3 6
+p59
+aVEddie Gill IND 04/11/2005 IND @ TOR W 14 9 2 5 40.0 0 0 - 5 6 83.3 0 0 0 2 2 0 0 2 -2
+p60
+aVAustin Croshere IND 04/11/2005 IND @ TOR W 18 9 3 6 50.0 1 1 100.0 2 2 100.0 1 3 4 0 0 0 1 1 1
+p61
+aVDale Davis IND 04/10/2005 IND vs. NYK L 29 13 5 5 100.0 0 0 - 3 4 75.0 3 8 11 0 1 2 3 5 -4
+p62
+aVAustin Croshere IND 04/10/2005 IND vs. NYK L 13 1 0 2 0.0 0 1 0.0 1 1 100.0 0 2 2 0 0 0 1 2 -1
+p63
+aVEddie Gill IND 04/10/2005 IND vs. NYK L 13 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 2 0 0 2 1 -7
+p64
+aVAnthony Johnson IND 04/10/2005 IND vs. NYK L 40 18 7 13 53.8 3 6 50.0 1 1 100.0 1 3 4 16 1 1 3 2 6
+p65
+aVReggie Miller IND 04/10/2005 IND vs. NYK L 38 34 11 21 52.4 3 9 33.3 9 9 100.0 0 4 4 3 0 0 0 3 6
+p66
+aVScot Pollard IND 04/10/2005 IND vs. NYK L 20 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -4
+p67
+aVJames Jones IND 04/10/2005 IND vs. NYK L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -3
+p68
+aVStephen Jackson IND 04/10/2005 IND vs. NYK L 44 27 9 20 45.0 4 11 36.4 5 5 100.0 0 5 5 2 1 0 4 2 7
+p69
+aVJeff Foster IND 04/10/2005 IND vs. NYK L 30 7 3 5 60.0 0 0 - 1 2 50.0 5 7 12 0 0 0 0 2 -4
+p70
+aVFred Jones IND 04/10/2005 IND vs. NYK L 29 9 4 11 36.4 0 4 0.0 1 2 50.0 1 1 2 1 1 0 1 1 -1
+p71
+aVStephen Jackson IND 04/08/2005 IND vs. WAS W 28 17 7 15 46.7 1 4 25.0 2 2 100.0 3 4 7 0 0 0 2 3 10
+p72
+aVScot Pollard IND 04/08/2005 IND vs. WAS W 29 2 1 2 50.0 0 0 - 0 0 - 1 6 7 0 1 0 0 4 8
+p73
+aVFred Jones IND 04/08/2005 IND vs. WAS W 29 12 1 14 7.1 1 4 25.0 9 10 90.0 1 4 5 2 0 0 2 4 1
+p74
+aVReggie Miller IND 04/08/2005 IND vs. WAS W 31 18 6 13 46.2 2 5 40.0 4 5 80.0 0 2 2 4 0 0 0 1 9
+p75
+aVAnthony Johnson IND 04/08/2005 IND vs. WAS W 32 14 6 10 60.0 0 1 0.0 2 2 100.0 0 4 4 5 3 0 1 3 6
+p76
+aVJohn Edwards IND 04/08/2005 IND vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p77
+aVAustin Croshere IND 04/08/2005 IND vs. WAS W 22 10 1 3 33.3 0 0 - 8 10 80.0 1 2 3 0 1 0 0 3 -1
+p78
+aVEddie Gill IND 04/08/2005 IND vs. WAS W 17 5 1 4 25.0 1 3 33.3 2 2 100.0 0 1 1 1 2 0 3 2 4
+p79
+aVJeff Foster IND 04/08/2005 IND vs. WAS W 21 7 3 5 60.0 0 0 - 1 1 100.0 2 3 5 0 0 0 1 3 8
+p80
+aVJames Jones IND 04/08/2005 IND vs. WAS W 11 8 3 3 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p81
+aVDale Davis IND 04/08/2005 IND vs. WAS W 19 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 3 1 3 5
+p82
+aVDale Davis IND 04/06/2005 IND vs. CLE W 29 6 2 4 50.0 0 0 - 2 5 40.0 2 7 9 1 0 0 1 2 18
+p83
+aVJames Jones IND 04/06/2005 IND vs. CLE W 19 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 2 0 0 0 0 5
+p84
+aVScot Pollard IND 04/06/2005 IND vs. CLE W 15 9 4 8 50.0 0 0 - 1 1 100.0 3 3 6 0 0 1 2 3 4
+p85
+aVFred Jones IND 04/06/2005 IND vs. CLE W 21 11 3 8 37.5 2 2 100.0 3 3 100.0 0 4 4 0 0 0 3 3 3
+p86
+aVEddie Gill IND 04/06/2005 IND vs. CLE W 17 6 1 4 25.0 0 1 0.0 4 4 100.0 1 2 3 3 2 0 0 0 0
+p87
+aVAnthony Johnson IND 04/06/2005 IND vs. CLE W 31 8 1 5 20.0 0 0 - 6 6 100.0 0 3 3 10 2 0 2 1 21
+p88
+aVJeff Foster IND 04/06/2005 IND vs. CLE W 27 2 1 4 25.0 0 0 - 0 0 - 3 5 8 0 1 0 2 5 21
+p89
+aVReggie Miller IND 04/06/2005 IND vs. CLE W 24 17 6 8 75.0 3 3 100.0 2 2 100.0 0 3 3 2 0 0 0 0 16
+p90
+aVStephen Jackson IND 04/06/2005 IND vs. CLE W 32 23 8 16 50.0 1 4 25.0 6 6 100.0 1 4 5 0 1 0 5 2 18
+p91
+aVJohn Edwards IND 04/06/2005 IND vs. CLE W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p92
+aVAustin Croshere IND 04/06/2005 IND vs. CLE W 23 11 4 5 80.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 0 0 3
+p93
+aVEddie Gill IND 04/05/2005 IND @ NYK W 26 9 2 6 33.3 1 5 20.0 4 4 100.0 0 4 4 3 1 0 1 0 3
+p94
+aVJames Jones IND 04/05/2005 IND @ NYK W 16 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 5 -2
+p95
+aVDale Davis IND 04/05/2005 IND @ NYK W 29 10 2 2 100.0 0 0 - 6 6 100.0 4 3 7 0 1 0 0 2 17
+p96
+aVJohn Edwards IND 04/05/2005 IND @ NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p97
+aVScot Pollard IND 04/05/2005 IND @ NYK W 22 8 3 8 37.5 0 0 - 2 2 100.0 5 5 10 0 1 0 0 4 9
+p98
+aVReggie Miller IND 04/05/2005 IND @ NYK W 29 13 3 15 20.0 2 5 40.0 5 5 100.0 0 1 1 2 0 1 2 1 18
+p99
+aVAustin Croshere IND 04/05/2005 IND @ NYK W 18 4 0 1 0.0 0 0 - 4 4 100.0 1 4 5 1 0 0 0 0 -2
+p100
+aVStephen Jackson IND 04/05/2005 IND @ NYK W 38 33 12 22 54.5 6 10 60.0 3 5 60.0 0 5 5 2 1 0 4 2 19
+p101
+aVAnthony Johnson IND 04/05/2005 IND @ NYK W 33 13 5 10 50.0 3 4 75.0 0 2 0.0 0 2 2 4 1 0 3 2 15
+p102
+aVJeff Foster IND 04/05/2005 IND @ NYK W 27 4 2 2 100.0 0 0 - 0 0 - 1 7 8 0 1 0 0 2 12
+p103
+aVJames Jones IND 04/03/2005 IND @ WAS W 27 10 4 10 40.0 2 5 40.0 0 0 - 2 6 8 1 0 0 1 2 15
+p104
+aVStephen Jackson IND 04/03/2005 IND @ WAS W 39 15 7 23 30.4 0 9 0.0 1 1 100.0 0 5 5 7 0 1 2 4 4
+p105
+aVScot Pollard IND 04/03/2005 IND @ WAS W 17 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 1 -4
+p106
+aVReggie Miller IND 04/03/2005 IND @ WAS W 35 12 3 9 33.3 2 5 40.0 4 4 100.0 0 4 4 3 0 0 1 1 -3
+p107
+aVAustin Croshere IND 04/03/2005 IND @ WAS W 22 4 2 7 28.6 0 0 - 0 0 - 1 5 6 1 0 1 3 3 4
+p108
+aVDale Davis IND 04/03/2005 IND @ WAS W 29 9 3 7 42.9 0 0 - 3 4 75.0 2 6 8 0 0 2 1 5 -4
+p109
+aVEddie Gill IND 04/03/2005 IND @ WAS W 14 8 2 5 40.0 2 4 50.0 2 2 100.0 0 2 2 2 0 0 1 1 8
+p110
+aVJeff Foster IND 04/03/2005 IND @ WAS W 23 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 3 0 1 2 0
+p111
+aVAnthony Johnson IND 04/03/2005 IND @ WAS W 34 15 4 9 44.4 1 4 25.0 6 6 100.0 1 1 2 6 1 0 1 4 -5
+p112
+aVScot Pollard IND 03/31/2005 IND vs. MIA W 32 3 1 4 25.0 0 0 - 1 1 100.0 3 4 7 1 3 0 1 4 11
+p113
+aVAustin Croshere IND 03/31/2005 IND vs. MIA W 21 7 2 6 33.3 1 4 25.0 2 2 100.0 0 1 1 2 1 0 2 0 -2
+p114
+aVEddie Gill IND 03/31/2005 IND vs. MIA W 12 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 0 2 0 1 1 -3
+p115
+aVDale Davis IND 03/31/2005 IND vs. MIA W 36 13 4 5 80.0 0 0 - 5 5 100.0 4 7 11 1 0 2 1 4 12
+p116
+aVReggie Miller IND 03/31/2005 IND vs. MIA W 36 31 11 18 61.1 1 3 33.3 8 8 100.0 0 3 3 4 0 0 3 2 10
+p117
+aVJeff Foster IND 03/31/2005 IND vs. MIA W 17 4 1 2 50.0 0 0 - 2 2 100.0 4 3 7 1 0 0 1 1 -9
+p118
+aVAnthony Johnson IND 03/31/2005 IND vs. MIA W 39 16 6 12 50.0 2 4 50.0 2 2 100.0 0 3 3 13 2 1 2 3 11
+p119
+aVStephen Jackson IND 03/31/2005 IND vs. MIA W 43 29 9 28 32.1 6 11 54.5 5 9 55.6 0 7 7 2 1 0 4 2 8
+p120
+aVJames Jones IND 03/31/2005 IND vs. MIA W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p121
+aVFred Jones IND 03/31/2005 IND vs. MIA W 21 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 3 1 1 2 4 -7
+p122
+aVAustin Croshere IND 03/28/2005 IND @ MIL W 34 6 1 9 11.1 0 4 0.0 4 4 100.0 6 3 9 1 0 1 3 3 9
+p123
+aVFred Jones IND 03/28/2005 IND @ MIL W 22 10 4 7 57.1 1 3 33.3 1 2 50.0 0 3 3 3 0 0 3 4 -5
+p124
+aVDale Davis IND 03/28/2005 IND @ MIL W 27 10 5 5 100.0 0 0 - 0 0 - 3 3 6 2 0 1 1 2 17
+p125
+aVJohn Edwards IND 03/28/2005 IND @ MIL W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p126
+aVJeff Foster IND 03/28/2005 IND @ MIL W 10 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 1 0 0 5 9
+p127
+aVStephen Jackson IND 03/28/2005 IND @ MIL W 29 13 5 14 35.7 1 3 33.3 2 2 100.0 1 4 5 6 1 0 5 2 28
+p128
+aVAnthony Johnson IND 03/28/2005 IND @ MIL W 27 12 5 9 55.6 2 3 66.7 0 0 - 0 3 3 7 3 0 1 2 20
+p129
+aVReggie Miller IND 03/28/2005 IND @ MIL W 28 22 8 15 53.3 5 7 71.4 1 1 100.0 0 2 2 1 1 1 0 2 22
+p130
+aVEddie Gill IND 03/28/2005 IND @ MIL W 21 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 0 -6
+p131
+aVJames Jones IND 03/28/2005 IND @ MIL W 17 3 1 6 16.7 0 3 0.0 1 2 50.0 0 2 2 1 0 1 0 2 -14
+p132
+aVScot Pollard IND 03/28/2005 IND @ MIL W 23 8 4 8 50.0 0 0 - 0 0 - 3 2 5 0 0 1 0 4 -8
+p133
+aVEddie Gill IND 03/26/2005 IND @ CHI L 11 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p134
+aVFred Jones IND 03/26/2005 IND @ CHI L 32 20 9 17 52.9 1 5 20.0 1 2 50.0 0 4 4 0 2 0 0 5 5
+p135
+aVJames Jones IND 03/26/2005 IND @ CHI L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -7
+p136
+aVDale Davis IND 03/26/2005 IND @ CHI L 29 2 1 3 33.3 0 0 - 0 2 0.0 3 5 8 0 0 0 0 3 -7
+p137
+aVScot Pollard IND 03/26/2005 IND @ CHI L 20 7 3 3 100.0 0 0 - 1 1 100.0 1 4 5 1 1 1 0 3 7
+p138
+aVReggie Miller IND 03/26/2005 IND @ CHI L 13 8 1 5 20.0 0 1 0.0 6 6 100.0 1 0 1 0 0 0 1 2 -8
+p139
+aVJeff Foster IND 03/26/2005 IND @ CHI L 12 0 0 1 0.0 0 0 - 0 0 - 1 5 6 1 1 0 0 4 3
+p140
+aVAnthony Johnson IND 03/26/2005 IND @ CHI L 37 9 4 11 36.4 1 3 33.3 0 0 - 0 5 5 7 0 1 5 0 -1
+p141
+aVStephen Jackson IND 03/26/2005 IND @ CHI L 42 34 11 28 39.3 5 12 41.7 7 10 70.0 1 4 5 2 3 1 3 4 2
+p142
+aVAustin Croshere IND 03/26/2005 IND @ CHI L 35 16 4 8 50.0 2 4 50.0 6 7 85.7 0 5 5 3 2 0 3 3 -10
+p143
+aVJohn Edwards IND 03/25/2005 IND @ DET W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p144
+aVJames Jones IND 03/25/2005 IND @ DET W 15 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 1 1 0 0 3 7
+p145
+aVScot Pollard IND 03/25/2005 IND @ DET W 14 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 13
+p146
+aVReggie Miller IND 03/25/2005 IND @ DET W 28 14 3 8 37.5 1 1 100.0 7 7 100.0 0 1 1 4 0 0 0 0 5
+p147
+aVDale Davis IND 03/25/2005 IND @ DET W 29 9 3 6 50.0 0 0 - 3 4 75.0 5 8 13 0 2 4 0 2 1
+p148
+aVStephen Jackson IND 03/25/2005 IND @ DET W 36 12 5 18 27.8 2 5 40.0 0 0 - 1 4 5 0 0 0 2 3 3
+p149
+aVAnthony Johnson IND 03/25/2005 IND @ DET W 24 12 5 7 71.4 1 1 100.0 1 2 50.0 0 3 3 6 0 0 1 5 9
+p150
+aVEddie Gill IND 03/25/2005 IND @ DET W 18 8 1 3 33.3 1 1 100.0 5 5 100.0 0 3 3 0 2 0 1 4 3
+p151
+aVJeff Foster IND 03/25/2005 IND @ DET W 24 10 3 3 100.0 0 0 - 4 4 100.0 3 3 6 1 0 0 1 4 15
+p152
+aVFred Jones IND 03/25/2005 IND @ DET W 23 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 12
+p153
+aVAustin Croshere IND 03/25/2005 IND @ DET W 28 15 7 13 53.8 0 1 0.0 1 2 50.0 2 3 5 1 0 0 1 0 -1
+p154
+aVDale Davis IND 03/23/2005 IND vs. SAS W 27 8 4 4 100.0 0 0 - 0 0 - 2 4 6 0 0 4 0 3 -8
+p155
+aVAnthony Johnson IND 03/23/2005 IND vs. SAS W 38 18 6 9 66.7 2 2 100.0 4 4 100.0 0 2 2 8 2 1 2 4 -1
+p156
+aVReggie Miller IND 03/23/2005 IND vs. SAS W 36 21 6 13 46.2 1 5 20.0 8 8 100.0 0 3 3 1 0 0 2 1 12
+p157
+aVAustin Croshere IND 03/23/2005 IND vs. SAS W 34 18 6 10 60.0 2 3 66.7 4 5 80.0 1 3 4 1 0 1 2 3 6
+p158
+aVJeff Foster IND 03/23/2005 IND vs. SAS W 23 8 4 9 44.4 0 0 - 0 1 0.0 5 10 15 1 0 0 0 4 10
+p159
+aVEddie Gill IND 03/23/2005 IND vs. SAS W 11 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 2 6
+p160
+aVStephen Jackson IND 03/23/2005 IND vs. SAS W 33 18 6 17 35.3 0 1 0.0 6 8 75.0 1 5 6 5 2 0 1 6 4
+p161
+aVScot Pollard IND 03/23/2005 IND vs. SAS W 10 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 0 1 4 8
+p162
+aVJames Jones IND 03/23/2005 IND vs. SAS W 28 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 0 0 1 2 2 -2
+p163
+aVReggie Miller IND 03/22/2005 IND @ NJN L 32 18 5 13 38.5 0 5 0.0 8 8 100.0 0 1 1 0 1 0 3 3 -18
+p164
+aVAnthony Johnson IND 03/22/2005 IND @ NJN L 38 14 5 9 55.6 2 4 50.0 2 2 100.0 1 6 7 3 0 0 4 4 -8
+p165
+aVStephen Jackson IND 03/22/2005 IND @ NJN L 33 23 5 15 33.3 1 4 25.0 12 13 92.3 2 3 5 4 0 0 2 6 -2
+p166
+aVJames Jones IND 03/22/2005 IND @ NJN L 11 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 9
+p167
+aVScot Pollard IND 03/22/2005 IND @ NJN L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 1
+p168
+aVJeff Foster IND 03/22/2005 IND @ NJN L 19 0 0 4 0.0 0 0 - 0 0 - 4 1 5 1 0 0 0 4 4
+p169
+aVDale Davis IND 03/22/2005 IND @ NJN L 33 4 2 4 50.0 0 0 - 0 0 - 3 6 9 0 0 1 0 4 -19
+p170
+aVFred Jones IND 03/22/2005 IND @ NJN L 24 13 5 9 55.6 1 4 25.0 2 2 100.0 0 3 3 1 2 0 1 3 3
+p171
+aVAustin Croshere IND 03/22/2005 IND @ NJN L 30 15 3 7 42.9 1 1 100.0 8 9 88.9 4 5 9 2 1 1 2 5 -5
+p172
+aVEddie Gill IND 03/22/2005 IND @ NJN L 11 4 1 4 25.0 1 2 50.0 1 2 50.0 0 0 0 1 0 0 1 1 0
+p173
+aVJeff Foster IND 03/20/2005 IND vs. NJN L 31 6 2 3 66.7 0 0 - 2 3 66.7 1 3 4 2 0 0 1 1 -6
+p174
+aVEddie Gill IND 03/20/2005 IND vs. NJN L 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -6
+p175
+aVJames Jones IND 03/20/2005 IND vs. NJN L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -4
+p176
+aVAustin Croshere IND 03/20/2005 IND vs. NJN L 23 2 1 5 20.0 0 2 0.0 0 1 0.0 0 2 2 2 2 0 2 3 -12
+p177
+aVFred Jones IND 03/20/2005 IND vs. NJN L 25 14 4 6 66.7 2 4 50.0 4 4 100.0 1 2 3 1 1 0 2 1 2
+p178
+aVStephen Jackson IND 03/20/2005 IND vs. NJN L 39 21 8 19 42.1 1 5 20.0 4 4 100.0 1 4 5 3 0 0 5 5 -3
+p179
+aVReggie Miller IND 03/20/2005 IND vs. NJN L 33 13 5 14 35.7 2 6 33.3 1 1 100.0 0 0 0 3 1 0 1 3 -5
+p180
+aVAnthony Johnson IND 03/20/2005 IND vs. NJN L 38 18 7 11 63.6 2 5 40.0 2 2 100.0 0 7 7 8 1 0 2 3 -3
+p181
+aVDale Davis IND 03/20/2005 IND vs. NJN L 35 11 4 8 50.0 0 0 - 3 4 75.0 4 6 10 0 0 0 1 4 -8
+p182
+aVJames Jones IND 03/18/2005 IND vs. LAL W 9 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 -6
+p183
+aVAnthony Johnson IND 03/18/2005 IND vs. LAL W 37 13 6 11 54.5 1 3 33.3 0 0 - 0 3 3 11 0 0 3 3 14
+p184
+aVReggie Miller IND 03/18/2005 IND vs. LAL W 36 39 13 18 72.2 3 5 60.0 10 10 100.0 0 3 3 2 0 0 2 1 16
+p185
+aVStephen Jackson IND 03/18/2005 IND vs. LAL W 39 19 7 20 35.0 1 9 11.1 4 4 100.0 0 2 2 5 0 1 5 5 12
+p186
+aVAustin Croshere IND 03/18/2005 IND vs. LAL W 15 6 2 4 50.0 1 2 50.0 1 1 100.0 0 2 2 0 0 0 0 2 -15
+p187
+aVFred Jones IND 03/18/2005 IND vs. LAL W 13 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 3 0 0 3 1 -10
+p188
+aVScot Pollard IND 03/18/2005 IND vs. LAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p189
+aVEddie Gill IND 03/18/2005 IND vs. LAL W 11 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 1 -8
+p190
+aVJeff Foster IND 03/18/2005 IND vs. LAL W 39 6 3 5 60.0 0 0 - 0 0 - 4 13 17 4 0 0 2 2 10
+p191
+aVDale Davis IND 03/18/2005 IND vs. LAL W 36 6 3 6 50.0 0 0 - 0 0 - 7 9 16 2 2 3 1 4 15
+p192
+aVAustin Croshere IND 03/16/2005 IND vs. UTA W 25 8 1 3 33.3 0 1 0.0 6 6 100.0 2 4 6 0 1 0 0 2 -8
+p193
+aVJames Jones IND 03/16/2005 IND vs. UTA W 17 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 0 0 0 1 1 -2
+p194
+aVReggie Miller IND 03/16/2005 IND vs. UTA W 23 15 4 11 36.4 1 5 20.0 6 7 85.7 0 0 0 3 0 0 1 1 23
+p195
+aVEddie Gill IND 03/16/2005 IND vs. UTA W 18 2 0 3 0.0 0 3 0.0 2 2 100.0 0 3 3 3 0 0 1 4 1
+p196
+aVScot Pollard IND 03/16/2005 IND vs. UTA W 14 3 0 0 - 0 0 - 3 4 75.0 0 2 2 0 0 0 0 1 1
+p197
+aVDale Davis IND 03/16/2005 IND vs. UTA W 26 9 4 5 80.0 0 0 - 1 2 50.0 4 8 12 2 3 1 2 5 21
+p198
+aVJohn Edwards IND 03/16/2005 IND vs. UTA W 3 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 1 1
+p199
+aVStephen Jackson IND 03/16/2005 IND vs. UTA W 32 28 6 16 37.5 4 8 50.0 12 12 100.0 1 0 1 2 2 0 2 2 23
+p200
+aVFred Jones IND 03/16/2005 IND vs. UTA W 24 9 3 9 33.3 0 2 0.0 3 4 75.0 2 2 4 1 2 0 1 4 -6
+p201
+aVJeff Foster IND 03/16/2005 IND vs. UTA W 28 6 3 5 60.0 0 0 - 0 0 - 3 8 11 2 1 0 1 3 23
+p202
+aVAnthony Johnson IND 03/16/2005 IND vs. UTA W 30 12 5 8 62.5 1 2 50.0 1 2 50.0 1 4 5 4 1 0 1 0 18
+p203
+aVReggie Miller IND 03/13/2005 IND @ CLE L 37 29 7 13 53.8 1 4 25.0 14 15 93.3 0 0 0 0 1 0 1 2 -1
+p204
+aVAustin Croshere IND 03/13/2005 IND @ CLE L 16 7 2 6 33.3 0 1 0.0 3 4 75.0 3 0 3 0 0 0 0 1 -16
+p205
+aVFred Jones IND 03/13/2005 IND @ CLE L 18 1 0 5 0.0 0 1 0.0 1 2 50.0 0 0 0 3 1 0 1 1 -9
+p206
+aVJames Jones IND 03/13/2005 IND @ CLE L 16 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 1 1 3 -2
+p207
+aVDale Davis IND 03/13/2005 IND @ CLE L 31 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 1 0 3 1 2 6
+p208
+aVScot Pollard IND 03/13/2005 IND @ CLE L 30 6 3 5 60.0 0 0 - 0 1 0.0 2 7 9 0 0 1 1 5 2
+p209
+aVJeff Foster IND 03/13/2005 IND @ CLE L 16 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 2 0 0 2 3 -12
+p210
+aVAnthony Johnson IND 03/13/2005 IND @ CLE L 36 17 6 10 60.0 1 1 100.0 4 5 80.0 2 3 5 8 0 0 2 1 -3
+p211
+aVStephen Jackson IND 03/13/2005 IND @ CLE L 28 13 3 16 18.8 1 6 16.7 6 6 100.0 1 3 4 1 0 0 3 5 -16
+p212
+aVEddie Gill IND 03/13/2005 IND @ CLE L 12 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 2 -9
+p213
+aVScot Pollard IND 03/11/2005 IND vs. GSW W 17 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 2 0 1 0 8
+p214
+aVEddie Gill IND 03/11/2005 IND vs. GSW W 18 4 0 2 0.0 0 1 0.0 4 4 100.0 0 2 2 2 3 0 0 2 13
+p215
+aVJeff Foster IND 03/11/2005 IND vs. GSW W 27 14 7 12 58.3 0 0 - 0 2 0.0 7 10 17 2 0 0 0 3 0
+p216
+aVStephen Jackson IND 03/11/2005 IND vs. GSW W 33 22 7 16 43.8 2 5 40.0 6 8 75.0 0 5 5 3 1 0 1 1 8
+p217
+aVReggie Miller IND 03/11/2005 IND vs. GSW W 29 19 6 17 35.3 1 4 25.0 6 6 100.0 0 4 4 2 0 0 0 1 -2
+p218
+aVDale Davis IND 03/11/2005 IND vs. GSW W 28 8 4 10 40.0 0 0 - 0 1 0.0 5 2 7 1 2 2 2 2 6
+p219
+aVFred Jones IND 03/11/2005 IND vs. GSW W 17 7 3 7 42.9 1 1 100.0 0 0 - 2 1 3 1 1 1 1 2 16
+p220
+aVJames Jones IND 03/11/2005 IND vs. GSW W 17 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 14
+p221
+aVAustin Croshere IND 03/11/2005 IND vs. GSW W 23 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 2 0 0 0 3 22
+p222
+aVAnthony Johnson IND 03/11/2005 IND vs. GSW W 31 10 5 10 50.0 0 0 - 0 0 - 0 2 2 7 3 0 0 3 5
+p223
+aVDale Davis IND 03/08/2005 IND @ UTA W 32 8 4 5 80.0 0 0 - 0 0 - 4 6 10 2 1 1 2 4 22
+p224
+aVJeff Foster IND 03/08/2005 IND @ UTA W 34 6 1 4 25.0 0 0 - 4 6 66.7 2 8 10 0 2 0 0 5 23
+p225
+aVAustin Croshere IND 03/08/2005 IND @ UTA W 19 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 0 1 0 1 1 -17
+p226
+aVStephen Jackson IND 03/08/2005 IND @ UTA W 33 30 11 18 61.1 3 6 50.0 5 5 100.0 0 3 3 1 1 1 2 3 10
+p227
+aVScot Pollard IND 03/08/2005 IND @ UTA W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 4 -16
+p228
+aVReggie Miller IND 03/08/2005 IND @ UTA W 36 24 7 16 43.8 3 7 42.9 7 7 100.0 0 4 4 1 1 0 4 4 24
+p229
+aVJames Jones IND 03/08/2005 IND @ UTA W 17 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 1
+p230
+aVDavid Harrison IND 03/08/2005 IND @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -1
+p231
+aVEddie Gill IND 03/08/2005 IND @ UTA W 10 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 0 3 -13
+p232
+aVFred Jones IND 03/08/2005 IND @ UTA W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -22
+p233
+aVAnthony Johnson IND 03/08/2005 IND @ UTA W 38 13 4 9 44.4 1 1 100.0 4 4 100.0 1 6 7 9 0 0 3 3 19
+p234
+aVDale Davis IND 03/06/2005 IND @ LAL L 29 5 2 4 50.0 0 0 - 1 2 50.0 3 7 10 5 3 0 0 5 1
+p235
+aVJeff Foster IND 03/06/2005 IND @ LAL L 24 4 2 5 40.0 0 0 - 0 0 - 4 3 7 1 0 0 0 2 -4
+p236
+aVScot Pollard IND 03/06/2005 IND @ LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -2
+p237
+aVFred Jones IND 03/06/2005 IND @ LAL L 39 18 6 13 46.2 2 6 33.3 4 4 100.0 0 0 0 5 0 0 1 3 -4
+p238
+aVAustin Croshere IND 03/06/2005 IND @ LAL L 21 9 2 6 33.3 1 2 50.0 4 4 100.0 1 3 4 2 1 0 2 1 -16
+p239
+aVJames Jones IND 03/06/2005 IND @ LAL L 22 12 4 7 57.1 2 5 40.0 2 2 100.0 1 1 2 1 0 0 0 5 -3
+p240
+aVReggie Miller IND 03/06/2005 IND @ LAL L 38 11 5 16 31.3 1 8 12.5 0 0 - 0 1 1 2 1 0 0 1 1
+p241
+aVEddie Gill IND 03/06/2005 IND @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -6
+p242
+aVStephen Jackson IND 03/06/2005 IND @ LAL L 36 29 11 25 44.0 3 8 37.5 4 6 66.7 2 4 6 3 3 0 2 4 0
+p243
+aVAnthony Johnson IND 03/06/2005 IND @ LAL L 15 6 3 7 42.9 0 0 - 0 0 - 0 1 1 3 0 0 3 2 -9
+p244
+aVDavid Harrison IND 03/06/2005 IND @ LAL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -3
+p245
+aVEddie Gill IND 03/04/2005 IND @ POR W 12 5 2 6 33.3 1 3 33.3 0 0 - 1 1 2 2 1 0 0 1 3
+p246
+aVJeff Foster IND 03/04/2005 IND @ POR W 30 4 2 9 22.2 0 1 0.0 0 2 0.0 5 6 11 2 1 0 1 4 18
+p247
+aVScot Pollard IND 03/04/2005 IND @ POR W 19 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 2 0 1 2 1
+p248
+aVStephen Jackson IND 03/04/2005 IND @ POR W 32 24 9 20 45.0 3 6 50.0 3 4 75.0 0 3 3 0 1 0 0 1 10
+p249
+aVAustin Croshere IND 03/04/2005 IND @ POR W 19 12 5 8 62.5 2 3 66.7 0 0 - 0 3 3 3 0 0 4 1 -4
+p250
+aVReggie Miller IND 03/04/2005 IND @ POR W 31 24 8 13 61.5 2 5 40.0 6 6 100.0 0 4 4 1 1 0 0 1 6
+p251
+aVDale Davis IND 03/04/2005 IND @ POR W 28 1 0 5 0.0 0 0 - 1 2 50.0 4 3 7 1 1 2 1 2 3
+p252
+aVJames Jones IND 03/04/2005 IND @ POR W 16 2 0 3 0.0 0 1 0.0 2 2 100.0 1 3 4 1 0 0 2 2 -1
+p253
+aVFred Jones IND 03/04/2005 IND @ POR W 36 23 8 12 66.7 2 4 50.0 5 5 100.0 3 3 6 8 2 0 2 4 6
+p254
+aVAnthony Johnson IND 03/04/2005 IND @ POR W 17 9 3 5 60.0 0 0 - 3 4 75.0 0 1 1 3 2 0 1 0 3
+p255
+aVReggie Miller IND 03/03/2005 IND @ DEN L 32 8 2 13 15.4 0 6 0.0 4 4 100.0 0 3 3 1 0 0 0 2 -16
+p256
+aVFred Jones IND 03/03/2005 IND @ DEN L 31 15 5 13 38.5 1 5 20.0 4 4 100.0 0 2 2 4 2 1 2 1 3
+p257
+aVAustin Croshere IND 03/03/2005 IND @ DEN L 28 4 1 3 33.3 0 0 - 2 3 66.7 1 7 8 2 0 1 2 3 -9
+p258
+aVScot Pollard IND 03/03/2005 IND @ DEN L 17 5 1 4 25.0 0 0 - 3 4 75.0 3 5 8 0 1 2 0 2 15
+p259
+aVEddie Gill IND 03/03/2005 IND @ DEN L 20 10 5 8 62.5 0 2 0.0 0 0 - 0 4 4 1 1 0 2 0 3
+p260
+aVJeff Foster IND 03/03/2005 IND @ DEN L 19 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 1 0 0 4 -8
+p261
+aVJames Jones IND 03/03/2005 IND @ DEN L 26 13 3 6 50.0 2 4 50.0 5 8 62.5 1 3 4 0 0 0 1 4 1
+p262
+aVStephen Jackson IND 03/03/2005 IND @ DEN L 27 16 6 18 33.3 1 8 12.5 3 4 75.0 1 3 4 2 1 1 3 5 -1
+p263
+aVDavid Harrison IND 03/03/2005 IND @ DEN L 3 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -5
+p264
+aVAnthony Johnson IND 03/03/2005 IND @ DEN L 22 2 0 6 0.0 0 2 0.0 2 4 50.0 0 0 0 5 1 0 1 0 -14
+p265
+aVJermaine O'Neal IND 03/03/2005 IND @ DEN L 15 11 4 7 57.1 0 0 - 3 3 100.0 1 4 5 2 0 0 3 2 -14
+p266
+aVReggie Miller IND 03/01/2005 IND vs. SEA L 31 10 1 5 20.0 1 2 50.0 7 7 100.0 0 0 0 2 0 0 0 2 -3
+p267
+aVJames Jones IND 03/01/2005 IND vs. SEA L 18 7 2 5 40.0 1 3 33.3 2 2 100.0 2 2 4 0 0 0 0 2 7
+p268
+aVJermaine O'Neal IND 03/01/2005 IND vs. SEA L 25 18 5 13 38.5 0 0 - 8 14 57.1 4 4 8 2 0 1 4 3 -1
+p269
+aVScot Pollard IND 03/01/2005 IND vs. SEA L 24 0 0 3 0.0 0 0 - 0 2 0.0 2 1 3 0 1 2 1 2 -1
+p270
+aVAnthony Johnson IND 03/01/2005 IND vs. SEA L 31 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 5 3 0 0 2 -10
+p271
+aVDavid Harrison IND 03/01/2005 IND vs. SEA L 9 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 -7
+p272
+aVStephen Jackson IND 03/01/2005 IND vs. SEA L 36 28 11 19 57.9 4 10 40.0 2 2 100.0 1 5 6 1 2 0 1 3 -16
+p273
+aVEddie Gill IND 03/01/2005 IND vs. SEA L 17 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 2 1 0 0 2 4
+p274
+aVAustin Croshere IND 03/01/2005 IND vs. SEA L 25 15 5 6 83.3 0 1 0.0 5 7 71.4 1 3 4 0 1 0 0 5 -14
+p275
+aVFred Jones IND 03/01/2005 IND vs. SEA L 24 8 3 7 42.9 1 2 50.0 1 2 50.0 0 1 1 4 0 1 2 1 1
+p276
+aVReggie Miller IND 02/26/2005 IND @ NYK L 32 14 6 12 50.0 1 6 16.7 1 1 100.0 0 2 2 1 0 0 0 2 -1
+p277
+aVScot Pollard IND 02/26/2005 IND @ NYK L 22 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 0 0 1 1 3
+p278
+aVJames Jones IND 02/26/2005 IND @ NYK L 11 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 2 4
+p279
+aVAustin Croshere IND 02/26/2005 IND @ NYK L 19 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 0 0 0 2 1 -14
+p280
+aVJermaine O'Neal IND 02/26/2005 IND @ NYK L 38 24 8 17 47.1 0 0 - 8 12 66.7 2 7 9 2 1 0 4 2 -7
+p281
+aVDavid Harrison IND 02/26/2005 IND @ NYK L 11 6 1 1 100.0 0 0 - 4 4 100.0 0 2 2 0 0 0 0 3 -7
+p282
+aVEddie Gill IND 02/26/2005 IND @ NYK L 17 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 3 0 0 1 -10
+p283
+aVAnthony Johnson IND 02/26/2005 IND @ NYK L 30 10 4 8 50.0 0 1 0.0 2 2 100.0 1 6 7 4 0 0 2 5 0
+p284
+aVFred Jones IND 02/26/2005 IND @ NYK L 32 4 1 3 33.3 0 1 0.0 2 2 100.0 0 3 3 1 2 0 2 1 -15
+p285
+aVStephen Jackson IND 02/26/2005 IND @ NYK L 28 5 2 9 22.2 1 4 25.0 0 0 - 1 2 3 0 0 0 4 6 -8
+p286
+aVJermaine O'Neal IND 02/25/2005 IND vs. CLE W 35 20 8 16 50.0 0 0 - 4 9 44.4 0 8 8 5 0 2 3 3 18
+p287
+aVScot Pollard IND 02/25/2005 IND vs. CLE W 21 6 3 4 75.0 0 0 - 0 0 - 3 5 8 0 0 0 1 5 17
+p288
+aVReggie Miller IND 02/25/2005 IND vs. CLE W 23 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 2 1 0 0 0 8
+p289
+aVEddie Gill IND 02/25/2005 IND vs. CLE W 17 7 3 7 42.9 1 3 33.3 0 0 - 2 2 4 2 2 0 2 2 8
+p290
+aVFred Jones IND 02/25/2005 IND vs. CLE W 23 7 2 6 33.3 2 3 66.7 1 2 50.0 1 4 5 3 0 0 2 0 16
+p291
+aVJames Jones IND 02/25/2005 IND vs. CLE W 15 5 1 6 16.7 1 3 33.3 2 2 100.0 0 0 0 0 0 0 0 3 12
+p292
+aVDavid Harrison IND 02/25/2005 IND vs. CLE W 21 8 3 5 60.0 0 0 - 2 4 50.0 1 0 1 0 1 2 0 2 0
+p293
+aVAnthony Johnson IND 02/25/2005 IND vs. CLE W 31 10 4 5 80.0 0 1 0.0 2 2 100.0 0 1 1 7 1 2 2 1 16
+p294
+aVAustin Croshere IND 02/25/2005 IND vs. CLE W 18 10 3 5 60.0 0 2 0.0 4 4 100.0 3 3 6 3 1 0 0 1 13
+p295
+aVStephen Jackson IND 02/25/2005 IND vs. CLE W 36 28 11 19 57.9 3 7 42.9 3 4 75.0 1 4 5 4 2 0 0 0 12
+p296
+aVReggie Miller IND 02/23/2005 IND vs. MIA W 40 23 7 15 46.7 3 6 50.0 6 6 100.0 0 2 2 2 0 0 0 1 0
+p297
+aVAustin Croshere IND 02/23/2005 IND vs. MIA W 33 7 2 7 28.6 1 4 25.0 2 2 100.0 1 5 6 2 1 0 2 4 2
+p298
+aVStephen Jackson IND 02/23/2005 IND vs. MIA W 40 13 5 15 33.3 1 7 14.3 2 2 100.0 3 7 10 2 2 0 1 3 5
+p299
+aVJames Jones IND 02/23/2005 IND vs. MIA W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 4
+p300
+aVJeff Foster IND 02/23/2005 IND vs. MIA W 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -1
+p301
+aVFred Jones IND 02/23/2005 IND vs. MIA W 29 6 3 8 37.5 0 3 0.0 0 0 - 0 0 0 5 1 0 0 3 5
+p302
+aVJamaal Tinsley IND 02/23/2005 IND vs. MIA W 19 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 6 1 0 4 3 -7
+p303
+aVAnthony Johnson IND 02/23/2005 IND vs. MIA W 27 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 4 2 0 3 0 5
+p304
+aVJermaine O'Neal IND 02/23/2005 IND vs. MIA W 42 29 10 23 43.5 0 0 - 9 10 90.0 4 10 14 1 0 5 2 4 -6
+p305
+aVDavid Harrison IND 02/23/2005 IND vs. MIA W 19 8 3 3 100.0 0 0 - 2 4 50.0 1 8 9 0 1 1 0 6 3
+p306
+aVEddie Gill IND 02/22/2005 IND @ ORL W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p307
+aVJeff Foster IND 02/22/2005 IND @ ORL W 23 12 4 8 50.0 0 0 - 4 4 100.0 3 8 11 0 1 1 1 0 37
+p308
+aVFred Jones IND 02/22/2005 IND @ ORL W 28 18 5 10 50.0 3 3 100.0 5 5 100.0 1 5 6 1 0 0 3 1 -3
+p309
+aVDavid Harrison IND 02/22/2005 IND @ ORL W 18 6 2 5 40.0 0 0 - 2 4 50.0 1 1 2 0 2 0 1 6 -3
+p310
+aVReggie Miller IND 02/22/2005 IND @ ORL W 22 4 2 2 100.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 23
+p311
+aVJermaine O'Neal IND 02/22/2005 IND @ ORL W 22 20 8 15 53.3 0 0 - 4 7 57.1 0 5 5 0 0 0 3 3 8
+p312
+aVAnthony Johnson IND 02/22/2005 IND @ ORL W 26 10 4 8 50.0 0 2 0.0 2 2 100.0 1 0 1 4 0 0 1 1 2
+p313
+aVStephen Jackson IND 02/22/2005 IND @ ORL W 27 13 4 11 36.4 2 2 100.0 3 6 50.0 1 3 4 0 3 1 3 3 26
+p314
+aVJames Jones IND 02/22/2005 IND @ ORL W 20 7 3 5 60.0 1 3 33.3 0 0 - 0 3 3 0 1 0 0 3 4
+p315
+aVJamaal Tinsley IND 02/22/2005 IND @ ORL W 21 11 4 8 50.0 2 4 50.0 1 1 100.0 0 2 2 6 2 0 3 2 25
+p316
+aVAustin Croshere IND 02/22/2005 IND @ ORL W 27 7 2 3 66.7 0 0 - 3 3 100.0 1 4 5 1 1 0 1 4 3
+p317
+aVJames Jones IND 02/16/2005 IND vs. POR W 10 2 0 3 0.0 0 3 0.0 2 2 100.0 0 2 2 1 0 0 1 0 0
+p318
+aVAnthony Johnson IND 02/16/2005 IND vs. POR W 35 5 2 10 20.0 1 4 25.0 0 0 - 0 2 2 12 2 0 0 2 10
+p319
+aVAustin Croshere IND 02/16/2005 IND vs. POR W 17 2 1 4 25.0 0 2 0.0 0 0 - 2 3 5 0 1 1 0 3 -3
+p320
+aVFred Jones IND 02/16/2005 IND vs. POR W 28 14 4 8 50.0 1 4 25.0 5 6 83.3 1 5 6 3 0 1 1 1 6
+p321
+aVJermaine O'Neal IND 02/16/2005 IND vs. POR W 33 10 4 19 21.1 0 0 - 2 2 100.0 2 6 8 2 1 4 2 3 8
+p322
+aVReggie Miller IND 02/16/2005 IND vs. POR W 32 36 10 17 58.8 4 10 40.0 12 12 100.0 0 0 0 1 0 0 2 1 13
+p323
+aVScot Pollard IND 02/16/2005 IND vs. POR W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -3
+p324
+aVJeff Foster IND 02/16/2005 IND vs. POR W 36 14 6 12 50.0 0 0 - 2 4 50.0 9 8 17 1 1 1 1 6 13
+p325
+aVStephen Jackson IND 02/16/2005 IND vs. POR W 27 9 4 12 33.3 1 4 25.0 0 0 - 1 2 3 2 2 0 0 4 -2
+p326
+aVEddie Gill IND 02/16/2005 IND vs. POR W 13 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 0 0 0 0 1 -2
+p327
+aVReggie Miller IND 02/13/2005 IND vs. MEM W 26 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 3 1 0 2 1 -3
+p328
+aVAnthony Johnson IND 02/13/2005 IND vs. MEM W 34 8 3 11 27.3 2 5 40.0 0 0 - 0 4 4 1 1 1 1 3 1
+p329
+aVEddie Gill IND 02/13/2005 IND vs. MEM W 14 8 3 6 50.0 2 2 100.0 0 0 - 0 1 1 0 0 1 4 4 2
+p330
+aVFred Jones IND 02/13/2005 IND vs. MEM W 31 15 4 9 44.4 1 3 33.3 6 7 85.7 0 2 2 2 2 0 0 0 3
+p331
+aVJeff Foster IND 02/13/2005 IND vs. MEM W 30 7 3 8 37.5 0 0 - 1 4 25.0 11 6 17 1 1 2 1 3 6
+p332
+aVJermaine O'Neal IND 02/13/2005 IND vs. MEM W 37 11 4 15 26.7 0 0 - 3 4 75.0 1 7 8 3 1 4 5 4 1
+p333
+aVScot Pollard IND 02/13/2005 IND vs. MEM W 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 2
+p334
+aVAustin Croshere IND 02/13/2005 IND vs. MEM W 19 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -3
+p335
+aVStephen Jackson IND 02/13/2005 IND vs. MEM W 39 19 6 16 37.5 2 5 40.0 5 6 83.3 1 7 8 2 1 0 1 1 6
+p336
+aVAustin Croshere IND 02/11/2005 IND vs. HOU L 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -5
+p337
+aVFred Jones IND 02/11/2005 IND vs. HOU L 28 14 5 9 55.6 1 2 50.0 3 4 75.0 0 3 3 2 0 0 0 2 1
+p338
+aVJermaine O'Neal IND 02/11/2005 IND vs. HOU L 37 18 7 23 30.4 0 0 - 4 8 50.0 1 2 3 4 0 0 0 1 -9
+p339
+aVJames Jones IND 02/11/2005 IND vs. HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p340
+aVScot Pollard IND 02/11/2005 IND vs. HOU L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 3
+p341
+aVJamaal Tinsley IND 02/11/2005 IND vs. HOU L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p342
+aVReggie Miller IND 02/11/2005 IND vs. HOU L 35 11 4 10 40.0 3 6 50.0 0 0 - 1 4 5 2 4 0 1 1 -3
+p343
+aVStephen Jackson IND 02/11/2005 IND vs. HOU L 32 18 7 12 58.3 1 2 50.0 3 3 100.0 2 3 5 2 1 0 0 5 -19
+p344
+aVEddie Gill IND 02/11/2005 IND vs. HOU L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 1 1 -13
+p345
+aVAnthony Johnson IND 02/11/2005 IND vs. HOU L 33 11 4 9 44.4 2 4 50.0 1 3 33.3 1 3 4 4 1 1 2 4 12
+p346
+aVDavid Harrison IND 02/11/2005 IND vs. HOU L 12 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 -4
+p347
+aVJeff Foster IND 02/11/2005 IND vs. HOU L 21 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 4 -1
+p348
+aVJeff Foster IND 02/09/2005 IND vs. CHA W 23 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 4 5
+p349
+aVReggie Miller IND 02/09/2005 IND vs. CHA W 21 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 4 2 0 1 1 6
+p350
+aVJames Jones IND 02/09/2005 IND vs. CHA W 12 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 1 1 0 2 -3
+p351
+aVStephen Jackson IND 02/09/2005 IND vs. CHA W 34 22 7 14 50.0 2 7 28.6 6 6 100.0 0 7 7 3 3 0 1 1 9
+p352
+aVFred Jones IND 02/09/2005 IND vs. CHA W 29 12 5 10 50.0 2 5 40.0 0 1 0.0 0 1 1 0 1 1 4 1 2
+p353
+aVAnthony Johnson IND 02/09/2005 IND vs. CHA W 33 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 7 0 0 2 1 -5
+p354
+aVJermaine O'Neal IND 02/09/2005 IND vs. CHA W 37 29 12 22 54.5 0 0 - 5 6 83.3 2 8 10 0 0 1 5 4 -7
+p355
+aVAustin Croshere IND 02/09/2005 IND vs. CHA W 22 8 1 3 33.3 0 0 - 6 6 100.0 3 4 7 1 0 0 0 1 8
+p356
+aVEddie Gill IND 02/09/2005 IND vs. CHA W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 4 1 0 1 2 12
+p357
+aVDavid Harrison IND 02/09/2005 IND vs. CHA W 14 9 4 5 80.0 0 0 - 1 1 100.0 2 2 4 0 0 1 1 1 8
+p358
+aVJames Jones IND 02/07/2005 IND @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p359
+aVJermaine O'Neal IND 02/07/2005 IND @ WAS L 39 30 10 17 58.8 0 0 - 10 12 83.3 1 12 13 4 1 5 4 3 4
+p360
+aVReggie Miller IND 02/07/2005 IND @ WAS L 32 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 1 1 0 0 2 2
+p361
+aVScot Pollard IND 02/07/2005 IND @ WAS L 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -8
+p362
+aVFred Jones IND 02/07/2005 IND @ WAS L 30 6 2 9 22.2 0 2 0.0 2 2 100.0 0 4 4 2 0 1 1 4 -16
+p363
+aVAnthony Johnson IND 02/07/2005 IND @ WAS L 30 8 3 8 37.5 0 1 0.0 2 2 100.0 2 0 2 7 1 0 1 3 4
+p364
+aVJeff Foster IND 02/07/2005 IND @ WAS L 34 14 6 10 60.0 0 0 - 2 4 50.0 5 6 11 1 2 0 1 6 9
+p365
+aVEddie Gill IND 02/07/2005 IND @ WAS L 12 5 1 4 25.0 0 2 0.0 3 4 75.0 0 0 0 0 0 0 0 2 -6
+p366
+aVAustin Croshere IND 02/07/2005 IND @ WAS L 14 2 0 6 0.0 0 4 0.0 2 2 100.0 0 0 0 0 1 0 2 1 -13
+p367
+aVStephen Jackson IND 02/07/2005 IND @ WAS L 38 29 11 20 55.0 5 7 71.4 2 2 100.0 2 7 9 5 0 1 3 2 5
+p368
+aVScot Pollard IND 02/05/2005 IND @ ATL W 11 1 0 0 - 0 0 - 1 1 100.0 0 4 4 0 0 0 0 0 9
+p369
+aVAnthony Johnson IND 02/05/2005 IND @ ATL W 33 9 4 7 57.1 0 1 0.0 1 2 50.0 1 0 1 3 0 1 3 2 -6
+p370
+aVAustin Croshere IND 02/05/2005 IND @ ATL W 19 6 1 5 20.0 0 2 0.0 4 4 100.0 2 1 3 1 0 1 1 0 10
+p371
+aVJames Jones IND 02/05/2005 IND @ ATL W 19 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 16
+p372
+aVFred Jones IND 02/05/2005 IND @ ATL W 29 7 2 8 25.0 2 3 66.7 1 2 50.0 0 7 7 2 0 0 0 2 10
+p373
+aVReggie Miller IND 02/05/2005 IND @ ATL W 22 2 0 2 0.0 0 0 - 2 4 50.0 0 1 1 2 0 0 1 0 -1
+p374
+aVStephen Jackson IND 02/05/2005 IND @ ATL W 27 6 1 7 14.3 0 2 0.0 4 4 100.0 0 3 3 1 0 0 0 3 -15
+p375
+aVJeff Foster IND 02/05/2005 IND @ ATL W 28 5 2 2 100.0 0 0 - 1 2 50.0 1 7 8 0 1 0 1 4 -5
+p376
+aVEddie Gill IND 02/05/2005 IND @ ATL W 15 10 2 4 50.0 2 4 50.0 4 4 100.0 1 1 2 1 0 0 2 1 11
+p377
+aVJermaine O'Neal IND 02/05/2005 IND @ ATL W 37 38 15 23 65.2 0 0 - 8 9 88.9 0 8 8 2 0 0 3 4 -4
+p378
+aVFred Jones IND 02/04/2005 IND vs. DAL W 34 14 3 12 25.0 2 4 50.0 6 6 100.0 0 6 6 5 1 0 1 1 -5
+p379
+aVAnthony Johnson IND 02/04/2005 IND vs. DAL W 31 21 7 7 100.0 3 3 100.0 4 5 80.0 2 2 4 3 1 0 2 4 3
+p380
+aVScot Pollard IND 02/04/2005 IND vs. DAL W 17 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 4 -7
+p381
+aVJames Jones IND 02/04/2005 IND vs. DAL W 31 5 1 7 14.3 1 5 20.0 2 2 100.0 2 4 6 2 3 2 4 3 0
+p382
+aVJermaine O'Neal IND 02/04/2005 IND vs. DAL W 38 23 9 24 37.5 0 0 - 5 5 100.0 1 8 9 2 0 0 2 5 5
+p383
+aVAustin Croshere IND 02/04/2005 IND vs. DAL W 36 14 3 7 42.9 1 4 25.0 7 8 87.5 2 4 6 2 0 0 2 2 9
+p384
+aVEddie Gill IND 02/04/2005 IND vs. DAL W 16 7 3 4 75.0 1 2 50.0 0 0 - 1 3 4 0 1 0 1 1 -2
+p385
+aVReggie Miller IND 02/04/2005 IND vs. DAL W 32 9 4 11 36.4 1 6 16.7 0 2 0.0 1 4 5 3 2 1 0 1 5
+p386
+aVDavid Harrison IND 02/04/2005 IND vs. DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p387
+aVJonathan Bender IND 02/02/2005 IND vs. TOR L 7 4 1 5 20.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 0 1
+p388
+aVStephen Jackson IND 02/02/2005 IND vs. TOR L 39 18 5 17 29.4 2 4 50.0 6 8 75.0 3 3 6 0 0 0 2 2 2
+p389
+aVScot Pollard IND 02/02/2005 IND vs. TOR L 16 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 0 0 3 2 4 0
+p390
+aVJermaine O'Neal IND 02/02/2005 IND vs. TOR L 26 15 6 10 60.0 0 0 - 3 4 75.0 0 3 3 1 1 2 0 6 -20
+p391
+aVAnthony Johnson IND 02/02/2005 IND vs. TOR L 27 4 2 5 40.0 0 0 - 0 0 - 0 3 3 7 1 0 1 2 -10
+p392
+aVAustin Croshere IND 02/02/2005 IND vs. TOR L 27 11 4 10 40.0 0 1 0.0 3 4 75.0 5 3 8 0 1 0 0 2 6
+p393
+aVJeff Foster IND 02/02/2005 IND vs. TOR L 26 16 5 11 45.5 0 0 - 6 7 85.7 8 4 12 2 2 1 1 5 10
+p394
+aVReggie Miller IND 02/02/2005 IND vs. TOR L 30 9 3 10 30.0 0 5 0.0 3 4 75.0 1 1 2 3 2 0 0 1 -3
+p395
+aVEddie Gill IND 02/02/2005 IND vs. TOR L 14 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 2 1 0 1 1 13
+p396
+aVFred Jones IND 02/02/2005 IND vs. TOR L 28 14 3 7 42.9 2 3 66.7 6 6 100.0 1 2 3 2 2 0 1 1 -4
+p397
+aVFred Jones IND 01/31/2005 IND @ PHI L 31 12 3 4 75.0 3 4 75.0 3 3 100.0 0 0 0 5 2 2 1 0 2
+p398
+aVStephen Jackson IND 01/31/2005 IND @ PHI L 41 24 8 15 53.3 3 8 37.5 5 7 71.4 0 3 3 2 1 1 1 1 0
+p399
+aVAustin Croshere IND 01/31/2005 IND @ PHI L 8 3 1 2 50.0 0 1 0.0 1 1 100.0 0 2 2 0 0 0 1 1 -5
+p400
+aVJermaine O'Neal IND 01/31/2005 IND @ PHI L 39 21 8 19 42.1 0 0 - 5 7 71.4 0 10 10 3 0 3 2 5 4
+p401
+aVReggie Miller IND 01/31/2005 IND @ PHI L 31 9 3 8 37.5 1 4 25.0 2 3 66.7 0 2 2 3 2 0 4 0 -1
+p402
+aVJeff Foster IND 01/31/2005 IND @ PHI L 25 7 2 5 40.0 0 0 - 3 6 50.0 2 3 5 0 1 1 1 3 2
+p403
+aVAnthony Johnson IND 01/31/2005 IND @ PHI L 24 4 2 5 40.0 0 2 0.0 0 2 0.0 0 2 2 3 0 0 1 5 1
+p404
+aVScot Pollard IND 01/31/2005 IND @ PHI L 23 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 1 0 2 1 4 -3
+p405
+aVEddie Gill IND 01/31/2005 IND @ PHI L 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -1
+p406
+aVJamaal Tinsley IND 01/31/2005 IND @ PHI L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 3 1 -4
+p407
+aVJeff Foster IND 01/29/2005 IND vs. DEN L 29 5 2 2 100.0 0 0 - 1 2 50.0 5 2 7 2 2 1 0 2 8
+p408
+aVFred Jones IND 01/29/2005 IND vs. DEN L 20 5 1 6 16.7 1 2 50.0 2 2 100.0 0 0 0 2 0 1 0 2 -18
+p409
+aVJonathan Bender IND 01/29/2005 IND vs. DEN L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 2 0 -11
+p410
+aVReggie Miller IND 01/29/2005 IND vs. DEN L 31 15 6 12 50.0 1 4 25.0 2 2 100.0 1 1 2 3 1 0 1 4 9
+p411
+aVStephen Jackson IND 01/29/2005 IND vs. DEN L 38 14 5 14 35.7 4 6 66.7 0 0 - 0 10 10 3 4 0 5 3 -1
+p412
+aVJamaal Tinsley IND 01/29/2005 IND vs. DEN L 35 14 4 18 22.2 1 7 14.3 5 6 83.3 1 2 3 10 1 1 4 4 10
+p413
+aVScot Pollard IND 01/29/2005 IND vs. DEN L 18 6 3 5 60.0 0 0 - 0 0 - 4 2 6 0 1 2 0 1 -14
+p414
+aVJermaine O'Neal IND 01/29/2005 IND vs. DEN L 35 22 7 18 38.9 0 1 0.0 8 9 88.9 4 6 10 2 2 0 3 5 4
+p415
+aVJames Jones IND 01/29/2005 IND vs. DEN L 8 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 1 0 1 0 1 -5
+p416
+aVEddie Gill IND 01/29/2005 IND vs. DEN L 13 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 0 1 0 1 2 -17
+p417
+aVJames Jones IND 01/27/2005 IND vs. DET L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 9
+p418
+aVEddie Gill IND 01/27/2005 IND vs. DET L 21 7 3 8 37.5 1 5 20.0 0 0 - 0 1 1 1 1 0 0 2 0
+p419
+aVFred Jones IND 01/27/2005 IND vs. DET L 31 14 5 8 62.5 3 3 100.0 1 1 100.0 0 1 1 4 0 0 1 3 -11
+p420
+aVJamaal Tinsley IND 01/27/2005 IND vs. DET L 27 2 0 6 0.0 0 1 0.0 2 2 100.0 0 5 5 4 0 1 3 5 -12
+p421
+aVJermaine O'Neal IND 01/27/2005 IND vs. DET L 43 27 10 22 45.5 0 0 - 7 8 87.5 1 8 9 2 0 4 6 3 -9
+p422
+aVScot Pollard IND 01/27/2005 IND vs. DET L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p423
+aVAustin Croshere IND 01/27/2005 IND vs. DET L 19 1 0 1 0.0 0 0 - 1 2 50.0 1 4 5 1 1 1 1 1 -6
+p424
+aVReggie Miller IND 01/27/2005 IND vs. DET L 27 4 1 3 33.3 1 2 50.0 1 3 33.3 0 0 0 0 1 0 0 3 -4
+p425
+aVStephen Jackson IND 01/27/2005 IND vs. DET L 36 11 4 13 30.8 0 3 0.0 3 4 75.0 0 5 5 3 3 0 2 4 -18
+p426
+aVJeff Foster IND 01/27/2005 IND vs. DET L 26 7 3 5 60.0 0 0 - 1 2 50.0 4 6 10 0 0 0 0 0 0
+p427
+aVReggie Miller IND 01/26/2005 IND @ BOS L 27 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 4 1 0 0 2 -1
+p428
+aVStephen Jackson IND 01/26/2005 IND @ BOS L 38 17 6 18 33.3 2 9 22.2 3 5 60.0 0 5 5 2 1 1 3 1 -9
+p429
+aVAnthony Johnson IND 01/26/2005 IND @ BOS L 28 6 2 4 50.0 0 1 0.0 2 4 50.0 1 2 3 3 0 0 1 3 -11
+p430
+aVJeff Foster IND 01/26/2005 IND @ BOS L 22 6 2 4 50.0 0 0 - 2 3 66.7 1 3 4 0 0 0 1 2 -3
+p431
+aVAustin Croshere IND 01/26/2005 IND @ BOS L 19 8 3 5 60.0 2 3 66.7 0 0 - 1 1 2 1 0 0 1 1 -9
+p432
+aVJames Jones IND 01/26/2005 IND @ BOS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p433
+aVFred Jones IND 01/26/2005 IND @ BOS L 26 11 4 6 66.7 1 2 50.0 2 2 100.0 1 2 3 1 0 1 1 2 -11
+p434
+aVJermaine O'Neal IND 01/26/2005 IND @ BOS L 39 24 7 19 36.8 0 1 0.0 10 14 71.4 1 5 6 2 2 4 4 3 -3
+p435
+aVScot Pollard IND 01/26/2005 IND @ BOS L 16 6 2 2 100.0 0 0 - 2 3 66.7 1 5 6 0 1 0 0 2 -12
+p436
+aVEddie Gill IND 01/26/2005 IND @ BOS L 19 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 1 0 3 3 -3
+p437
+aVAnthony Johnson IND 01/22/2005 IND vs. WAS L 21 4 2 4 50.0 0 1 0.0 0 0 - 2 1 3 2 0 0 1 2 9
+p438
+aVMichael Curry IND 01/22/2005 IND vs. WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p439
+aVScot Pollard IND 01/22/2005 IND vs. WAS L 22 6 2 4 50.0 0 0 - 2 2 100.0 4 3 7 1 0 1 1 4 4
+p440
+aVReggie Miller IND 01/22/2005 IND vs. WAS L 31 8 3 7 42.9 1 5 20.0 1 1 100.0 0 2 2 3 1 0 0 3 1
+p441
+aVJermaine O'Neal IND 01/22/2005 IND vs. WAS L 39 38 14 28 50.0 0 0 - 10 11 90.9 0 3 3 4 0 5 4 4 -1
+p442
+aVJeff Foster IND 01/22/2005 IND vs. WAS L 33 10 4 7 57.1 0 0 - 2 2 100.0 3 5 8 1 1 0 1 5 -1
+p443
+aVJamaal Tinsley IND 01/22/2005 IND vs. WAS L 27 16 6 17 35.3 2 6 33.3 2 2 100.0 1 6 7 4 1 2 4 5 -11
+p444
+aVJames Jones IND 01/22/2005 IND vs. WAS L 33 0 0 5 0.0 0 3 0.0 0 0 - 3 7 10 1 0 0 1 2 -5
+p445
+aVFred Jones IND 01/22/2005 IND vs. WAS L 32 11 3 8 37.5 2 5 40.0 3 4 75.0 0 1 1 3 0 0 0 1 0
+p446
+aVScot Pollard IND 01/21/2005 IND @ MIA W 34 8 4 9 44.4 0 0 - 0 0 - 4 5 9 1 2 0 0 5 8
+p447
+aVJamaal Tinsley IND 01/21/2005 IND @ MIA W 45 30 13 23 56.5 3 7 42.9 1 1 100.0 1 7 8 4 3 0 3 2 11
+p448
+aVJonathan Bender IND 01/21/2005 IND @ MIA W 12 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -7
+p449
+aVJeff Foster IND 01/21/2005 IND @ MIA W 18 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 4 -2
+p450
+aVJames Jones IND 01/21/2005 IND @ MIA W 19 6 1 3 33.3 1 2 50.0 3 3 100.0 0 0 0 1 1 0 1 3 12
+p451
+aVFred Jones IND 01/21/2005 IND @ MIA W 37 10 3 10 30.0 3 7 42.9 1 2 50.0 0 3 3 1 2 0 1 1 -8
+p452
+aVAnthony Johnson IND 01/21/2005 IND @ MIA W 14 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 0 1 0 0 1 -6
+p453
+aVReggie Miller IND 01/21/2005 IND @ MIA W 39 18 5 8 62.5 2 3 66.7 6 6 100.0 1 0 1 0 2 0 2 2 15
+p454
+aVMichael Curry IND 01/21/2005 IND @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p455
+aVJermaine O'Neal IND 01/21/2005 IND @ MIA W 44 26 8 23 34.8 0 0 - 10 12 83.3 3 11 14 2 0 3 2 5 13
+p456
+aVJeff Foster IND 01/19/2005 IND @ NOH L 38 8 4 6 66.7 0 0 - 0 0 - 4 11 15 0 2 0 0 2 9
+p457
+aVMichael Curry IND 01/19/2005 IND @ NOH L 13 2 1 3 33.3 0 0 - 0 2 0.0 0 2 2 0 0 0 0 3 -8
+p458
+aVReggie Miller IND 01/19/2005 IND @ NOH L 32 10 2 6 33.3 0 2 0.0 6 6 100.0 0 0 0 1 0 0 2 2 10
+p459
+aVFred Jones IND 01/19/2005 IND @ NOH L 28 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 3 -9
+p460
+aVJamaal Tinsley IND 01/19/2005 IND @ NOH L 36 28 10 18 55.6 3 9 33.3 5 6 83.3 0 8 8 9 1 0 4 4 5
+p461
+aVAustin Croshere IND 01/19/2005 IND @ NOH L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 2 3 -14
+p462
+aVJames Jones IND 01/19/2005 IND @ NOH L 23 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 2 1 3 1
+p463
+aVJermaine O'Neal IND 01/19/2005 IND @ NOH L 38 24 10 23 43.5 0 0 - 4 7 57.1 3 8 11 0 0 1 3 4 -1
+p464
+aVAnthony Johnson IND 01/19/2005 IND @ NOH L 12 5 1 5 20.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 1 1 -8
+p465
+aVFred Jones IND 01/18/2005 IND @ HOU W 34 8 3 8 37.5 1 3 33.3 1 1 100.0 0 5 5 3 0 0 1 1 4
+p466
+aVJamaal Tinsley IND 01/18/2005 IND @ HOU W 37 28 10 15 66.7 5 6 83.3 3 3 100.0 0 4 4 3 3 0 4 4 19
+p467
+aVAnthony Johnson IND 01/18/2005 IND @ HOU W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -6
+p468
+aVReggie Miller IND 01/18/2005 IND @ HOU W 34 9 3 5 60.0 2 3 66.7 1 1 100.0 0 4 4 3 1 0 2 0 22
+p469
+aVJonathan Bender IND 01/18/2005 IND @ HOU W 17 4 2 7 28.6 0 0 - 0 2 0.0 1 0 1 0 0 1 4 1 -5
+p470
+aVJermaine O'Neal IND 01/18/2005 IND @ HOU W 41 27 12 26 46.2 0 0 - 3 5 60.0 0 7 7 3 2 2 4 4 17
+p471
+aVJeff Foster IND 01/18/2005 IND @ HOU W 22 11 5 5 100.0 0 0 - 1 2 50.0 1 4 5 2 3 0 2 4 10
+p472
+aVJames Jones IND 01/18/2005 IND @ HOU W 16 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 0 1 5
+p473
+aVMichael Curry IND 01/18/2005 IND @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p474
+aVScot Pollard IND 01/18/2005 IND @ HOU W 26 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 0 0 0 0 6 3
+p475
+aVJermaine O'Neal IND 01/15/2005 IND vs. ORL L 40 38 12 29 41.4 0 1 0.0 14 20 70.0 5 10 15 1 1 2 3 5 3
+p476
+aVAustin Croshere IND 01/15/2005 IND vs. ORL L 12 0 0 5 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 0 0 -10
+p477
+aVScot Pollard IND 01/15/2005 IND vs. ORL L 15 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 1 1 4 -2
+p478
+aVAnthony Johnson IND 01/15/2005 IND vs. ORL L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 1 1 0 1 -1
+p479
+aVEddie Gill IND 01/15/2005 IND vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p480
+aVJonathan Bender IND 01/15/2005 IND vs. ORL L 17 8 4 8 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -3
+p481
+aVJames Jones IND 01/15/2005 IND vs. ORL L 20 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 2 0 2 1
+p482
+aVJeff Foster IND 01/15/2005 IND vs. ORL L 27 7 2 3 66.7 0 0 - 3 4 75.0 4 5 9 0 0 0 1 5 5
+p483
+aVJamaal Tinsley IND 01/15/2005 IND vs. ORL L 37 12 5 15 33.3 0 4 0.0 2 6 33.3 1 1 2 4 2 0 3 3 0
+p484
+aVReggie Miller IND 01/15/2005 IND vs. ORL L 37 8 2 6 33.3 1 3 33.3 3 4 75.0 0 5 5 3 1 0 2 3 5
+p485
+aVFred Jones IND 01/15/2005 IND vs. ORL L 23 6 2 4 50.0 0 2 0.0 2 4 50.0 0 1 1 1 1 0 1 6 -3
+p486
+aVJames Jones IND 01/14/2005 IND vs. PHX W 25 9 4 6 66.7 1 3 33.3 0 0 - 0 1 1 2 0 0 2 0 19
+p487
+aVScot Pollard IND 01/14/2005 IND vs. PHX W 16 6 3 5 60.0 0 0 - 0 0 - 4 3 7 1 0 0 1 5 -6
+p488
+aVReggie Miller IND 01/14/2005 IND vs. PHX W 25 6 2 6 33.3 1 3 33.3 1 1 100.0 0 3 3 4 1 0 1 4 19
+p489
+aVJeff Foster IND 01/14/2005 IND vs. PHX W 23 11 3 4 75.0 0 0 - 5 6 83.3 6 6 12 1 1 0 1 2 22
+p490
+aVFred Jones IND 01/14/2005 IND vs. PHX W 30 14 5 10 50.0 2 3 66.7 2 3 66.7 0 6 6 4 0 0 1 3 1
+p491
+aVMichael Curry IND 01/14/2005 IND vs. PHX W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 1
+p492
+aVJamaal Tinsley IND 01/14/2005 IND vs. PHX W 32 18 7 12 58.3 2 4 50.0 2 2 100.0 0 2 2 3 3 0 2 1 16
+p493
+aVEddie Gill IND 01/14/2005 IND vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p494
+aVJermaine O'Neal IND 01/14/2005 IND vs. PHX W 36 29 13 29 44.8 0 0 - 3 3 100.0 3 9 12 1 2 6 3 1 19
+p495
+aVAustin Croshere IND 01/14/2005 IND vs. PHX W 17 6 3 8 37.5 0 3 0.0 0 0 - 1 2 3 3 2 0 2 2 1
+p496
+aVJohn Edwards IND 01/14/2005 IND vs. PHX W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p497
+aVAnthony Johnson IND 01/14/2005 IND vs. PHX W 20 0 0 4 0.0 0 1 0.0 0 1 0.0 1 2 3 3 1 0 1 2 -2
+p498
+aVAnthony Johnson IND 01/11/2005 IND @ MEM W 16 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 1 3 -1
+p499
+aVReggie Miller IND 01/11/2005 IND @ MEM W 39 10 4 7 57.1 2 2 100.0 0 0 - 0 2 2 0 1 0 5 3 2
+p500
+aVDavid Harrison IND 01/11/2005 IND @ MEM W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p501
+aVJamaal Tinsley IND 01/11/2005 IND @ MEM W 36 19 7 17 41.2 1 5 20.0 4 4 100.0 3 4 7 6 1 0 3 0 1
+p502
+aVJeff Foster IND 01/11/2005 IND @ MEM W 32 8 3 8 37.5 0 1 0.0 2 3 66.7 5 7 12 0 2 0 0 4 6
+p503
+aVFred Jones IND 01/11/2005 IND @ MEM W 31 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 6
+p504
+aVJames Jones IND 01/11/2005 IND @ MEM W 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -5
+p505
+aVMichael Curry IND 01/11/2005 IND @ MEM W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -2
+p506
+aVAustin Croshere IND 01/11/2005 IND @ MEM W 21 8 2 7 28.6 0 2 0.0 4 5 80.0 1 2 3 2 0 0 1 4 -4
+p507
+aVJermaine O'Neal IND 01/11/2005 IND @ MEM W 39 35 12 23 52.2 0 0 - 11 11 100.0 5 7 12 2 0 1 4 5 2
+p508
+aVAnthony Johnson IND 01/09/2005 IND @ PHX L 24 10 3 4 75.0 0 0 - 4 4 100.0 1 2 3 3 0 0 2 1 -11
+p509
+aVJeff Foster IND 01/09/2005 IND @ PHX L 17 0 0 8 0.0 0 0 - 0 0 - 3 4 7 0 0 1 1 1 -27
+p510
+aVJohn Edwards IND 01/09/2005 IND @ PHX L 6 4 1 2 50.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 0 3
+p511
+aVJermaine O'Neal IND 01/09/2005 IND @ PHX L 30 16 6 15 40.0 0 0 - 4 6 66.7 0 5 5 1 0 1 0 4 -38
+p512
+aVAustin Croshere IND 01/09/2005 IND @ PHX L 23 4 1 9 11.1 0 2 0.0 2 4 50.0 2 0 2 1 0 0 2 3 -16
+p513
+aVEddie Gill IND 01/09/2005 IND @ PHX L 12 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 3 0 0 0 2 3
+p514
+aVReggie Miller IND 01/09/2005 IND @ PHX L 26 8 3 7 42.9 2 3 66.7 0 0 - 0 3 3 1 0 0 0 0 -26
+p515
+aVFred Jones IND 01/09/2005 IND @ PHX L 30 4 2 6 33.3 0 4 0.0 0 0 - 0 0 0 2 2 1 0 0 -24
+p516
+aVMichael Curry IND 01/09/2005 IND @ PHX L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -12
+p517
+aVJames Jones IND 01/09/2005 IND @ PHX L 14 7 3 8 37.5 1 3 33.3 0 0 - 1 2 3 2 1 0 0 1 0
+p518
+aVJamaal Tinsley IND 01/09/2005 IND @ PHX L 28 21 7 12 58.3 2 3 66.7 5 5 100.0 0 2 2 3 2 0 4 3 -30
+p519
+aVDavid Harrison IND 01/09/2005 IND @ PHX L 20 10 5 9 55.6 0 0 - 0 0 - 0 2 2 2 2 1 0 1 3
+p520
+aVJames Jones IND 01/08/2005 IND @ DAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p521
+aVFred Jones IND 01/08/2005 IND @ DAL L 32 7 3 8 37.5 1 3 33.3 0 0 - 0 4 4 2 1 1 1 2 -10
+p522
+aVJohn Edwards IND 01/08/2005 IND @ DAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p523
+aVReggie Miller IND 01/08/2005 IND @ DAL L 29 5 1 6 16.7 0 2 0.0 3 3 100.0 1 0 1 2 0 0 0 3 -18
+p524
+aVMichael Curry IND 01/08/2005 IND @ DAL L 13 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 0 0 0 0 1 -14
+p525
+aVJermaine O'Neal IND 01/08/2005 IND @ DAL L 35 32 11 19 57.9 0 1 0.0 10 13 76.9 1 2 3 2 1 0 5 5 -21
+p526
+aVJeff Foster IND 01/08/2005 IND @ DAL L 24 9 3 5 60.0 0 0 - 3 5 60.0 4 4 8 0 0 0 0 2 -10
+p527
+aVEddie Gill IND 01/08/2005 IND @ DAL L 8 2 0 3 0.0 0 2 0.0 2 2 100.0 0 4 4 0 0 0 1 1 3
+p528
+aVAustin Croshere IND 01/08/2005 IND @ DAL L 18 8 1 2 50.0 1 1 100.0 5 6 83.3 0 2 2 1 0 0 0 1 -7
+p529
+aVDavid Harrison IND 01/08/2005 IND @ DAL L 20 11 5 10 50.0 0 0 - 1 2 50.0 2 2 4 1 0 1 1 5 -7
+p530
+aVJamaal Tinsley IND 01/08/2005 IND @ DAL L 29 20 5 14 35.7 2 7 28.6 8 9 88.9 1 1 2 6 0 0 4 4 -14
+p531
+aVAnthony Johnson IND 01/08/2005 IND @ DAL L 20 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 6 0 0 0 2 -6
+p532
+aVAustin Croshere IND 01/06/2005 IND @ SAS L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 10
+p533
+aVJermaine O'Neal IND 01/06/2005 IND @ SAS L 41 32 12 30 40.0 0 0 - 8 8 100.0 2 7 9 4 1 1 1 5 -25
+p534
+aVFred Jones IND 01/06/2005 IND @ SAS L 32 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 2 0 0 0 5 -7
+p535
+aVJohn Edwards IND 01/06/2005 IND @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p536
+aVReggie Miller IND 01/06/2005 IND @ SAS L 37 11 3 7 42.9 2 4 50.0 3 4 75.0 0 1 1 2 0 0 2 2 -21
+p537
+aVJamaal Tinsley IND 01/06/2005 IND @ SAS L 43 18 7 14 50.0 1 3 33.3 3 6 50.0 0 2 2 8 2 0 2 3 -2
+p538
+aVAnthony Johnson IND 01/06/2005 IND @ SAS L 14 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 3 -4
+p539
+aVJeff Foster IND 01/06/2005 IND @ SAS L 30 12 5 7 71.4 0 0 - 2 4 50.0 3 4 7 1 2 0 2 4 -5
+p540
+aVEddie Gill IND 01/06/2005 IND @ SAS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p541
+aVJames Jones IND 01/06/2005 IND @ SAS L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p542
+aVMichael Curry IND 01/06/2005 IND @ SAS L 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -5
+p543
+aVDavid Harrison IND 01/06/2005 IND @ SAS L 14 9 3 3 100.0 0 0 - 3 5 60.0 0 1 1 0 0 0 1 3 -6
+p544
+aVJames Jones IND 01/04/2005 IND vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p545
+aVAnthony Johnson IND 01/04/2005 IND vs. MIL W 25 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 2 2 0 0 2 -9
+p546
+aVDavid Harrison IND 01/04/2005 IND vs. MIL W 17 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 2 1 2 -11
+p547
+aVJeff Foster IND 01/04/2005 IND vs. MIL W 28 10 1 2 50.0 0 0 - 8 10 80.0 6 4 10 0 1 0 1 2 28
+p548
+aVJermaine O'Neal IND 01/04/2005 IND vs. MIL W 36 55 18 28 64.3 0 0 - 19 25 76.0 3 8 11 3 0 2 3 3 22
+p549
+aVMichael Curry IND 01/04/2005 IND vs. MIL W 22 0 0 0 - 0 0 - 0 0 - 1 1 2 3 0 0 0 3 6
+p550
+aVJohn Edwards IND 01/04/2005 IND vs. MIL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p551
+aVFred Jones IND 01/04/2005 IND vs. MIL W 30 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 6 0 0 0 3 2
+p552
+aVAustin Croshere IND 01/04/2005 IND vs. MIL W 12 6 2 4 50.0 0 1 0.0 2 2 100.0 1 5 6 1 0 0 1 2 -4
+p553
+aVJamaal Tinsley IND 01/04/2005 IND vs. MIL W 29 14 3 12 25.0 2 4 50.0 6 8 75.0 1 6 7 5 3 1 2 5 19
+p554
+aVEddie Gill IND 01/04/2005 IND vs. MIL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p555
+aVReggie Miller IND 01/04/2005 IND vs. MIL W 33 8 3 9 33.3 0 4 0.0 2 3 66.7 0 1 1 0 0 1 1 2 31
+p556
+aVReggie Miller IND 12/30/2004 IND @ NJN W 35 8 2 9 22.2 2 8 25.0 2 2 100.0 0 1 1 7 1 0 0 4 12
+p557
+aVJamaal Tinsley IND 12/30/2004 IND @ NJN W 37 15 5 18 27.8 3 10 30.0 2 3 66.7 0 4 4 7 3 0 2 1 22
+p558
+aVFred Jones IND 12/30/2004 IND @ NJN W 30 5 1 4 25.0 0 0 - 3 8 37.5 0 7 7 2 2 1 2 5 5
+p559
+aVAustin Croshere IND 12/30/2004 IND @ NJN W 18 17 5 8 62.5 2 2 100.0 5 5 100.0 0 2 2 0 1 2 1 0 2
+p560
+aVAnthony Johnson IND 12/30/2004 IND @ NJN W 21 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 4 2 0 0 1 -4
+p561
+aVEddie Gill IND 12/30/2004 IND @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p562
+aVJermaine O'Neal IND 12/30/2004 IND @ NJN W 39 31 13 25 52.0 1 1 100.0 4 6 66.7 2 5 7 2 1 1 5 6 6
+p563
+aVJames Jones IND 12/30/2004 IND @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p564
+aVMichael Curry IND 12/30/2004 IND @ NJN W 20 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 2 0 1 5 7
+p565
+aVJeff Foster IND 12/30/2004 IND @ NJN W 26 16 6 6 100.0 0 0 - 4 5 80.0 5 11 16 0 0 0 1 4 13
+p566
+aVDavid Harrison IND 12/30/2004 IND @ NJN W 11 3 1 1 100.0 0 0 - 1 3 33.3 1 2 3 0 1 2 2 1 5
+p567
+aVJohn Edwards IND 12/30/2004 IND @ NJN W 1 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -1
+p568
+aVJermaine O'Neal IND 12/29/2004 IND @ CHA W 38 24 9 24 37.5 0 0 - 6 7 85.7 2 15 17 4 2 2 3 5 6
+p569
+aVAustin Croshere IND 12/29/2004 IND @ CHA W 10 2 0 4 0.0 0 1 0.0 2 2 100.0 1 1 2 2 1 0 2 2 -1
+p570
+aVJamaal Tinsley IND 12/29/2004 IND @ CHA W 40 14 6 13 46.2 1 3 33.3 1 1 100.0 0 3 3 7 1 0 3 0 13
+p571
+aVFred Jones IND 12/29/2004 IND @ CHA W 29 4 1 7 14.3 0 3 0.0 2 2 100.0 1 5 6 1 0 0 1 1 -8
+p572
+aVEddie Gill IND 12/29/2004 IND @ CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p573
+aVReggie Miller IND 12/29/2004 IND @ CHA W 35 6 2 8 25.0 0 3 0.0 2 2 100.0 1 2 3 3 1 0 0 0 8
+p574
+aVDavid Harrison IND 12/29/2004 IND @ CHA W 21 4 2 7 28.6 0 0 - 0 4 0.0 4 1 5 0 0 2 1 4 2
+p575
+aVMichael Curry IND 12/29/2004 IND @ CHA W 22 6 3 4 75.0 0 0 - 0 0 - 1 2 3 2 0 0 1 3 2
+p576
+aVJeff Foster IND 12/29/2004 IND @ CHA W 25 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 0 1 0 3 4 3
+p577
+aVAnthony Johnson IND 12/29/2004 IND @ CHA W 19 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 3 -10
+p578
+aVReggie Miller IND 12/27/2004 IND vs. NOH W 29 24 8 15 53.3 2 5 40.0 6 6 100.0 0 5 5 2 1 0 1 2 22
+p579
+aVJames Jones IND 12/27/2004 IND vs. NOH W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -9
+p580
+aVDavid Harrison IND 12/27/2004 IND vs. NOH W 19 15 6 8 75.0 0 0 - 3 4 75.0 2 4 6 0 0 2 2 4 12
+p581
+aVAnthony Johnson IND 12/27/2004 IND vs. NOH W 20 2 1 3 33.3 0 0 - 0 0 - 0 3 3 3 0 0 1 0 11
+p582
+aVJeff Foster IND 12/27/2004 IND vs. NOH W 30 8 3 6 50.0 0 0 - 2 4 50.0 4 6 10 0 1 0 1 1 25
+p583
+aVJohn Edwards IND 12/27/2004 IND vs. NOH W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p584
+aVMichael Curry IND 12/27/2004 IND vs. NOH W 18 3 0 0 - 0 0 - 3 4 75.0 1 0 1 2 0 0 0 5 3
+p585
+aVAustin Croshere IND 12/27/2004 IND vs. NOH W 25 8 1 5 20.0 0 1 0.0 6 6 100.0 0 4 4 2 0 0 2 2 -4
+p586
+aVJermaine O'Neal IND 12/27/2004 IND vs. NOH W 31 16 7 15 46.7 0 0 - 2 4 50.0 3 8 11 0 0 1 4 3 13
+p587
+aVJamaal Tinsley IND 12/27/2004 IND vs. NOH W 22 11 4 6 66.7 1 1 100.0 2 2 100.0 0 2 2 4 1 0 2 2 15
+p588
+aVEddie Gill IND 12/27/2004 IND vs. NOH W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -9
+p589
+aVFred Jones IND 12/27/2004 IND vs. NOH W 28 11 3 6 50.0 2 3 66.7 3 3 100.0 0 1 1 6 0 0 1 3 13
+p590
+aVJames Jones IND 12/25/2004 IND vs. DET L 17 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 1 0 0 2 -1
+p591
+aVJamaal Tinsley IND 12/25/2004 IND vs. DET L 31 8 3 10 30.0 0 2 0.0 2 2 100.0 0 0 0 13 1 0 4 6 0
+p592
+aVFred Jones IND 12/25/2004 IND vs. DET L 32 15 5 9 55.6 3 5 60.0 2 2 100.0 1 2 3 1 0 0 0 4 -1
+p593
+aVAnthony Johnson IND 12/25/2004 IND vs. DET L 17 2 1 4 25.0 0 0 - 0 2 0.0 0 1 1 2 2 1 0 0 -5
+p594
+aVMichael Curry IND 12/25/2004 IND vs. DET L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -11
+p595
+aVJeff Foster IND 12/25/2004 IND vs. DET L 27 10 4 6 66.7 0 0 - 2 2 100.0 5 11 16 0 1 0 1 3 -8
+p596
+aVDavid Harrison IND 12/25/2004 IND vs. DET L 6 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -7
+p597
+aVAustin Croshere IND 12/25/2004 IND vs. DET L 24 5 2 5 40.0 0 2 0.0 1 2 50.0 3 5 8 2 1 1 2 3 0
+p598
+aVReggie Miller IND 12/25/2004 IND vs. DET L 39 24 10 16 62.5 2 5 40.0 2 2 100.0 0 0 0 3 2 0 1 2 6
+p599
+aVJermaine O'Neal IND 12/25/2004 IND vs. DET L 38 21 7 19 36.8 0 0 - 7 10 70.0 0 7 7 1 0 5 3 4 2
+p600
+aVEddie Gill IND 12/22/2004 IND vs. PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p601
+aVReggie Miller IND 12/22/2004 IND vs. PHI L 37 30 10 15 66.7 3 6 50.0 7 8 87.5 1 3 4 1 0 0 3 1 -7
+p602
+aVAustin Croshere IND 12/22/2004 IND vs. PHI L 41 10 3 13 23.1 0 4 0.0 4 4 100.0 2 4 6 4 0 0 1 3 -10
+p603
+aVMichael Curry IND 12/22/2004 IND vs. PHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p604
+aVJames Jones IND 12/22/2004 IND vs. PHI L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 2 2 2 6
+p605
+aVAnthony Johnson IND 12/22/2004 IND vs. PHI L 24 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 1 0 1 1 3 -5
+p606
+aVJamaal Tinsley IND 12/22/2004 IND vs. PHI L 27 17 7 17 41.2 1 2 50.0 2 2 100.0 2 4 6 5 1 1 5 6 -13
+p607
+aVMarcus Haislip IND 12/22/2004 IND vs. PHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p608
+aVDavid Harrison IND 12/22/2004 IND vs. PHI L 13 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 4 -2
+p609
+aVFred Jones IND 12/22/2004 IND vs. PHI L 35 10 5 12 41.7 0 3 0.0 0 0 - 1 3 4 6 1 0 1 2 -17
+p610
+aVJeff Foster IND 12/22/2004 IND vs. PHI L 39 18 9 12 75.0 0 0 - 0 5 0.0 2 10 12 0 1 0 5 3 -8
+p611
+aVJamaal Tinsley IND 12/18/2004 IND @ CHI L 42 33 11 31 35.5 1 6 16.7 10 15 66.7 3 4 7 4 2 0 3 3 -7
+p612
+aVMichael Curry IND 12/18/2004 IND @ CHI L 24 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 2 1 5 -3
+p613
+aVDavid Harrison IND 12/18/2004 IND @ CHI L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -10
+p614
+aVJohn Edwards IND 12/18/2004 IND @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -5
+p615
+aVMarcus Haislip IND 12/18/2004 IND @ CHI L 24 10 5 10 50.0 0 0 - 0 5 0.0 3 2 5 1 1 0 1 5 3
+p616
+aVEddie Gill IND 12/18/2004 IND @ CHI L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 2
+p617
+aVFred Jones IND 12/18/2004 IND @ CHI L 38 4 1 6 16.7 0 3 0.0 2 2 100.0 1 7 8 3 2 1 2 3 -2
+p618
+aVJeff Foster IND 12/18/2004 IND @ CHI L 37 12 4 13 30.8 0 0 - 4 5 80.0 5 13 18 0 1 1 2 5 -20
+p619
+aVJames Jones IND 12/18/2004 IND @ CHI L 18 4 1 4 25.0 0 1 0.0 2 2 100.0 1 2 3 1 1 0 0 0 -7
+p620
+aVReggie Miller IND 12/18/2004 IND @ CHI L 34 4 2 13 15.4 0 5 0.0 0 0 - 1 2 3 1 1 0 1 2 -21
+p621
+aVAnthony Johnson IND 12/17/2004 IND vs. TOR W 19 3 1 5 20.0 1 1 100.0 0 0 - 0 3 3 2 1 0 0 3 0
+p622
+aVMichael Curry IND 12/17/2004 IND vs. TOR W 17 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 2 1 3 -13
+p623
+aVMarcus Haislip IND 12/17/2004 IND vs. TOR W 5 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -2
+p624
+aVJohn Edwards IND 12/17/2004 IND vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p625
+aVJames Jones IND 12/17/2004 IND vs. TOR W 27 2 1 6 16.7 0 2 0.0 0 0 - 0 6 6 1 0 0 0 1 -5
+p626
+aVReggie Miller IND 12/17/2004 IND vs. TOR W 36 12 6 13 46.2 0 2 0.0 0 0 - 0 1 1 4 1 1 4 3 11
+p627
+aVDavid Harrison IND 12/17/2004 IND vs. TOR W 34 22 10 12 83.3 0 0 - 2 3 66.7 3 4 7 2 1 2 3 4 15
+p628
+aVFred Jones IND 12/17/2004 IND vs. TOR W 33 12 5 10 50.0 1 1 100.0 1 2 50.0 0 4 4 1 0 0 1 2 4
+p629
+aVJeff Foster IND 12/17/2004 IND vs. TOR W 39 10 5 10 50.0 0 0 - 0 1 0.0 7 11 18 4 0 0 1 1 5
+p630
+aVJamaal Tinsley IND 12/17/2004 IND vs. TOR W 29 22 9 19 47.4 3 4 75.0 1 5 20.0 1 3 4 6 3 1 5 4 3
+p631
+aVMarcus Haislip IND 12/14/2004 IND @ ATL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p632
+aVMichael Curry IND 12/14/2004 IND @ ATL W 27 4 2 2 100.0 0 0 - 0 0 - 0 5 5 0 2 0 0 3 -3
+p633
+aVJamaal Tinsley IND 12/14/2004 IND @ ATL W 38 29 10 22 45.5 3 7 42.9 6 8 75.0 0 4 4 5 3 0 7 4 11
+p634
+aVJames Jones IND 12/14/2004 IND @ ATL W 37 10 3 7 42.9 2 5 40.0 2 2 100.0 0 1 1 2 1 0 1 3 11
+p635
+aVFred Jones IND 12/14/2004 IND @ ATL W 32 21 8 15 53.3 1 2 50.0 4 4 100.0 0 3 3 4 2 0 4 3 8
+p636
+aVAnthony Johnson IND 12/14/2004 IND @ ATL W 17 3 1 3 33.3 0 0 - 1 1 100.0 0 2 2 0 1 0 1 1 0
+p637
+aVDavid Harrison IND 12/14/2004 IND @ ATL W 36 12 5 6 83.3 0 0 - 2 2 100.0 3 7 10 1 0 4 1 5 16
+p638
+aVReggie Miller IND 12/14/2004 IND @ ATL W 36 19 6 12 50.0 2 6 33.3 5 5 100.0 2 2 4 2 0 0 0 1 10
+p639
+aVJeff Foster IND 12/14/2004 IND @ ATL W 35 10 4 9 44.4 0 1 0.0 2 3 66.7 3 8 11 1 1 0 4 6 5
+p640
+aVJeff Foster IND 12/11/2004 IND vs. SAC L 43 11 5 14 35.7 0 0 - 1 2 50.0 12 6 18 1 2 0 1 3 -4
+p641
+aVDavid Harrison IND 12/11/2004 IND vs. SAC L 29 6 3 8 37.5 0 0 - 0 0 - 1 2 3 0 1 3 1 1 -5
+p642
+aVAnthony Johnson IND 12/11/2004 IND vs. SAC L 42 12 6 15 40.0 0 2 0.0 0 0 - 2 0 2 6 2 0 3 3 2
+p643
+aVEddie Gill IND 12/11/2004 IND vs. SAC L 11 2 0 2 0.0 0 2 0.0 2 2 100.0 1 2 3 1 1 0 1 3 -7
+p644
+aVJames Jones IND 12/11/2004 IND vs. SAC L 33 10 3 8 37.5 0 2 0.0 4 4 100.0 2 1 3 1 1 0 1 3 -11
+p645
+aVReggie Miller IND 12/11/2004 IND vs. SAC L 41 13 5 16 31.3 1 9 11.1 2 2 100.0 0 3 3 3 2 0 2 1 -1
+p646
+aVFred Jones IND 12/11/2004 IND vs. SAC L 32 17 5 11 45.5 0 1 0.0 7 8 87.5 2 2 4 1 5 1 5 3 2
+p647
+aVAustin Croshere IND 12/11/2004 IND vs. SAC L 34 21 8 17 47.1 2 8 25.0 3 4 75.0 0 8 8 1 2 0 3 5 -1
+p648
+aVDavid Harrison IND 12/10/2004 IND @ MIL L 25 9 2 6 33.3 0 0 - 5 5 100.0 0 2 2 1 0 2 3 6 -8
+p649
+aVJeff Foster IND 12/10/2004 IND @ MIL L 30 11 4 5 80.0 0 0 - 3 4 75.0 2 6 8 0 0 0 0 5 -6
+p650
+aVAnthony Johnson IND 12/10/2004 IND @ MIL L 33 9 3 12 25.0 0 2 0.0 3 4 75.0 1 4 5 5 0 2 2 3 -12
+p651
+aVMarcus Haislip IND 12/10/2004 IND @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p652
+aVEddie Gill IND 12/10/2004 IND @ MIL L 15 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 1 0 1 3 3
+p653
+aVJohn Edwards IND 12/10/2004 IND @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p654
+aVFred Jones IND 12/10/2004 IND @ MIL L 34 13 4 10 40.0 0 2 0.0 5 5 100.0 1 6 7 3 2 1 1 3 -1
+p655
+aVTremaine Fowlkes IND 12/10/2004 IND @ MIL L 11 5 2 4 50.0 1 1 100.0 0 0 - 1 2 3 0 1 0 1 1 0
+p656
+aVJames Jones IND 12/10/2004 IND @ MIL L 24 8 3 7 42.9 2 3 66.7 0 0 - 1 2 3 1 0 2 2 1 -5
+p657
+aVReggie Miller IND 12/10/2004 IND @ MIL L 33 17 5 16 31.3 1 7 14.3 6 6 100.0 0 4 4 4 1 0 1 4 -16
+p658
+aVAustin Croshere IND 12/10/2004 IND @ MIL L 30 14 5 11 45.5 1 4 25.0 3 4 75.0 1 8 9 1 1 0 1 1 -1
+p659
+aVJeff Foster IND 12/07/2004 IND vs. MIL L 27 9 4 6 66.7 0 0 - 1 3 33.3 1 5 6 2 1 1 1 2 6
+p660
+aVMarcus Haislip IND 12/07/2004 IND vs. MIL L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -5
+p661
+aVEddie Gill IND 12/07/2004 IND vs. MIL L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 -3
+p662
+aVAnthony Johnson IND 12/07/2004 IND vs. MIL L 37 9 4 14 28.6 0 1 0.0 1 2 50.0 1 2 3 13 3 0 2 4 -5
+p663
+aVFred Jones IND 12/07/2004 IND vs. MIL L 41 13 5 10 50.0 1 1 100.0 2 2 100.0 1 2 3 2 1 1 1 4 0
+p664
+aVAustin Croshere IND 12/07/2004 IND vs. MIL L 32 7 2 11 18.2 0 5 0.0 3 4 75.0 2 10 12 0 0 0 2 2 6
+p665
+aVTremaine Fowlkes IND 12/07/2004 IND vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p666
+aVReggie Miller IND 12/07/2004 IND vs. MIL L 39 32 11 18 61.1 4 7 57.1 6 6 100.0 0 4 4 2 2 0 1 2 2
+p667
+aVDavid Harrison IND 12/07/2004 IND vs. MIL L 28 13 6 7 85.7 0 0 - 1 3 33.3 0 5 5 1 0 2 2 5 -3
+p668
+aVJohn Edwards IND 12/07/2004 IND vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p669
+aVJames Jones IND 12/07/2004 IND vs. MIL L 14 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 2 -8
+p670
+aVReggie Miller IND 12/04/2004 IND @ GSW L 32 23 8 12 66.7 4 6 66.7 3 3 100.0 1 2 3 2 0 0 2 1 -3
+p671
+aVMarcus Haislip IND 12/04/2004 IND @ GSW L 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 3 4
+p672
+aVBritton Johnsen IND 12/04/2004 IND @ GSW L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p673
+aVDavid Harrison IND 12/04/2004 IND @ GSW L 32 15 7 11 63.6 0 0 - 1 1 100.0 0 7 7 0 1 5 3 3 4
+p674
+aVFred Jones IND 12/04/2004 IND @ GSW L 32 4 2 7 28.6 0 2 0.0 0 0 - 2 4 6 2 0 1 2 5 6
+p675
+aVJamaal Tinsley IND 12/04/2004 IND @ GSW L 31 18 6 14 42.9 0 1 0.0 6 6 100.0 1 4 5 11 3 0 4 3 -3
+p676
+aVJohn Edwards IND 12/04/2004 IND @ GSW L 9 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 1 0 -10
+p677
+aVAnthony Johnson IND 12/04/2004 IND @ GSW L 27 13 5 10 50.0 0 1 0.0 3 4 75.0 0 1 1 3 1 0 1 5 -18
+p678
+aVEddie Gill IND 12/04/2004 IND @ GSW L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -10
+p679
+aVAustin Croshere IND 12/04/2004 IND @ GSW L 38 19 5 11 45.5 1 5 20.0 8 8 100.0 3 11 14 1 1 0 3 3 0
+p680
+aVJames Jones IND 12/04/2004 IND @ GSW L 13 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 0 1 0 0 3 -8
+p681
+aVTremaine Fowlkes IND 12/04/2004 IND @ GSW L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -4
+p682
+aVAnthony Johnson IND 12/03/2004 IND @ SAC L 19 5 2 4 50.0 0 2 0.0 1 2 50.0 0 1 1 1 0 0 1 1 -8
+p683
+aVJames Jones IND 12/03/2004 IND @ SAC L 28 6 2 6 33.3 2 4 50.0 0 2 0.0 3 1 4 0 2 1 0 2 -19
+p684
+aVAustin Croshere IND 12/03/2004 IND @ SAC L 24 10 4 8 50.0 0 2 0.0 2 3 66.7 1 3 4 2 0 0 1 0 -19
+p685
+aVJamaal Tinsley IND 12/03/2004 IND @ SAC L 29 21 8 16 50.0 1 3 33.3 4 6 66.7 1 2 3 6 2 0 5 2 -20
+p686
+aVFred Jones IND 12/03/2004 IND @ SAC L 32 8 3 8 37.5 2 3 66.7 0 0 - 0 5 5 2 2 3 3 1 -30
+p687
+aVJohn Edwards IND 12/03/2004 IND @ SAC L 31 9 4 8 50.0 0 0 - 1 4 25.0 3 2 5 2 1 1 1 1 -18
+p688
+aVBritton Johnsen IND 12/03/2004 IND @ SAC L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -9
+p689
+aVMarcus Haislip IND 12/03/2004 IND @ SAC L 26 10 4 11 36.4 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 3 -3
+p690
+aVTremaine Fowlkes IND 12/03/2004 IND @ SAC L 12 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 2
+p691
+aVEddie Gill IND 12/03/2004 IND @ SAC L 19 6 2 4 50.0 2 2 100.0 0 0 - 1 4 5 3 1 0 1 1 -6
+p692
+aVJohn Edwards IND 12/01/2004 IND @ LAC L 20 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -5
+p693
+aVEddie Gill IND 12/01/2004 IND @ LAC L 43 21 8 12 66.7 3 4 75.0 2 2 100.0 1 3 4 6 1 0 4 1 -10
+p694
+aVDavid Harrison IND 12/01/2004 IND @ LAC L 28 3 1 2 50.0 0 0 - 1 4 25.0 1 1 2 0 0 2 2 3 -7
+p695
+aVFred Jones IND 12/01/2004 IND @ LAC L 43 19 8 16 50.0 2 6 33.3 1 1 100.0 0 4 4 4 0 0 4 2 -12
+p696
+aVMarcus Haislip IND 12/01/2004 IND @ LAC L 25 8 3 10 30.0 0 0 - 2 2 100.0 1 3 4 0 1 1 2 0 -4
+p697
+aVBritton Johnsen IND 12/01/2004 IND @ LAC L 25 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 2 0 0 1 4 -6
+p698
+aVJames Jones IND 12/01/2004 IND @ LAC L 42 15 5 15 33.3 5 11 45.5 0 0 - 0 7 7 3 3 2 2 1 -18
+p699
+aVTremaine Fowlkes IND 12/01/2004 IND @ LAC L 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 2 2
+p700
+aVBritton Johnsen IND 11/28/2004 IND @ SEA L 13 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -11
+p701
+aVEddie Gill IND 11/28/2004 IND @ SEA L 20 4 1 8 12.5 0 1 0.0 2 2 100.0 1 2 3 2 1 0 0 1 -19
+p702
+aVAustin Croshere IND 11/28/2004 IND @ SEA L 42 12 3 13 23.1 1 5 20.0 5 6 83.3 1 7 8 6 0 0 2 3 -8
+p703
+aVJamaal Tinsley IND 11/28/2004 IND @ SEA L 43 22 9 17 52.9 2 5 40.0 2 4 50.0 0 3 3 5 2 0 2 2 -9
+p704
+aVDavid Harrison IND 11/28/2004 IND @ SEA L 29 16 7 9 77.8 0 0 - 2 6 33.3 2 1 3 0 1 3 0 6 14
+p705
+aVFred Jones IND 11/28/2004 IND @ SEA L 44 14 3 11 27.3 1 4 25.0 7 8 87.5 1 2 3 3 0 2 0 3 -5
+p706
+aVTremaine Fowlkes IND 11/28/2004 IND @ SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p707
+aVJames Jones IND 11/28/2004 IND @ SEA L 44 27 10 14 71.4 6 9 66.7 1 2 50.0 2 4 6 2 1 0 0 1 1
+p708
+aVJohn Edwards IND 11/28/2004 IND @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p709
+aVEddie Gill IND 11/26/2004 IND vs. CHA W 19 6 2 4 50.0 1 2 50.0 1 2 50.0 0 1 1 0 2 0 1 1 9
+p710
+aVBritton Johnsen IND 11/26/2004 IND vs. CHA W 14 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 -5
+p711
+aVScot Pollard IND 11/26/2004 IND vs. CHA W 15 4 2 5 40.0 0 0 - 0 0 - 3 1 4 0 1 0 0 2 3
+p712
+aVFred Jones IND 11/26/2004 IND vs. CHA W 47 23 9 16 56.3 1 3 33.3 4 5 80.0 0 3 3 2 0 2 3 1 7
+p713
+aVJamaal Tinsley IND 11/26/2004 IND vs. CHA W 40 16 4 12 33.3 0 3 0.0 8 13 61.5 2 6 8 5 1 0 3 0 9
+p714
+aVJames Jones IND 11/26/2004 IND vs. CHA W 36 5 2 10 20.0 1 7 14.3 0 0 - 0 0 0 2 0 0 1 6 7
+p715
+aVDavid Harrison IND 11/26/2004 IND vs. CHA W 26 3 1 6 16.7 0 0 - 1 1 100.0 3 3 6 0 2 4 3 3 -8
+p716
+aVAustin Croshere IND 11/26/2004 IND vs. CHA W 38 23 6 12 50.0 2 5 40.0 9 9 100.0 1 11 12 1 3 2 5 3 11
+p717
+aVTremaine Fowlkes IND 11/26/2004 IND vs. CHA W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -8
+p718
+aVEddie Gill IND 11/25/2004 IND vs. MIN W 20 8 2 5 40.0 2 3 66.7 2 2 100.0 0 0 0 1 0 0 0 2 1
+p719
+aVJames Jones IND 11/25/2004 IND vs. MIN W 38 13 5 8 62.5 3 5 60.0 0 0 - 1 5 6 2 0 0 0 2 8
+p720
+aVJamaal Tinsley IND 11/25/2004 IND vs. MIN W 41 20 7 15 46.7 2 3 66.7 4 8 50.0 0 7 7 14 5 0 3 3 3
+p721
+aVFred Jones IND 11/25/2004 IND vs. MIN W 40 17 6 12 50.0 3 8 37.5 2 2 100.0 0 0 0 4 1 0 3 3 -1
+p722
+aVDavid Harrison IND 11/25/2004 IND vs. MIN W 17 8 4 6 66.7 0 0 - 0 1 0.0 0 1 1 1 0 1 2 1 1
+p723
+aVTremaine Fowlkes IND 11/25/2004 IND vs. MIN W 6 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 0
+p724
+aVScot Pollard IND 11/25/2004 IND vs. MIN W 30 13 6 13 46.2 0 0 - 1 1 100.0 3 1 4 2 3 1 3 5 4
+p725
+aVBritton Johnsen IND 11/25/2004 IND vs. MIN W 11 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 1 -2
+p726
+aVAustin Croshere IND 11/25/2004 IND vs. MIN W 37 25 6 11 54.5 3 5 60.0 10 11 90.9 1 10 11 0 0 0 5 2 6
+p727
+aVDavid Harrison IND 11/23/2004 IND vs. BOS W 26 6 3 7 42.9 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -1
+p728
+aVJamaal Tinsley IND 11/23/2004 IND vs. BOS W 40 29 11 19 57.9 1 5 20.0 6 7 85.7 0 4 4 6 4 0 5 3 9
+p729
+aVAustin Croshere IND 11/23/2004 IND vs. BOS W 38 14 2 11 18.2 0 3 0.0 10 11 90.9 4 4 8 3 0 0 2 2 11
+p730
+aVJames Jones IND 11/23/2004 IND vs. BOS W 44 22 8 15 53.3 4 6 66.7 2 2 100.0 5 5 10 1 0 1 1 3 8
+p731
+aVFred Jones IND 11/23/2004 IND vs. BOS W 42 16 4 11 36.4 1 4 25.0 7 7 100.0 0 10 10 4 2 0 4 2 4
+p732
+aVJohn Edwards IND 11/23/2004 IND vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -1
+p733
+aVScot Pollard IND 11/23/2004 IND vs. BOS W 25 12 4 8 50.0 0 0 - 4 4 100.0 3 3 6 1 1 2 2 3 16
+p734
+aVEddie Gill IND 11/23/2004 IND vs. BOS W 23 7 2 2 100.0 1 1 100.0 2 2 100.0 0 3 3 1 1 0 2 3 4
+p735
+aVAustin Croshere IND 11/20/2004 IND vs. ORL L 42 11 3 12 25.0 0 3 0.0 5 5 100.0 0 5 5 3 0 1 2 1 -9
+p736
+aVJames Jones IND 11/20/2004 IND vs. ORL L 43 12 3 5 60.0 1 3 33.3 5 5 100.0 0 12 12 0 3 0 2 5 3
+p737
+aVFred Jones IND 11/20/2004 IND vs. ORL L 48 31 12 25 48.0 3 9 33.3 4 4 100.0 1 4 5 2 2 2 3 5 -3
+p738
+aVDavid Harrison IND 11/20/2004 IND vs. ORL L 44 19 8 15 53.3 0 0 - 3 4 75.0 4 4 8 0 2 3 5 3 -2
+p739
+aVEddie Gill IND 11/20/2004 IND vs. ORL L 48 8 3 10 30.0 1 1 100.0 1 2 50.0 0 1 1 3 3 0 1 3 -3
+p740
+aVJohn Edwards IND 11/20/2004 IND vs. ORL L 15 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -1
+p741
+aVEddie Gill IND 11/19/2004 IND @ DET W 9 5 1 2 50.0 0 1 0.0 3 3 100.0 0 2 2 1 1 0 1 0 12
+p742
+aVJamaal Tinsley IND 11/19/2004 IND @ DET W 40 13 5 10 50.0 3 5 60.0 0 0 - 1 2 3 8 8 0 4 2 5
+p743
+aVMetta World Peace IND 11/19/2004 IND @ DET W 43 24 7 19 36.8 2 5 40.0 8 9 88.9 1 4 5 2 2 0 3 3 9
+p744
+aVAustin Croshere IND 11/19/2004 IND @ DET W 38 15 4 7 57.1 2 3 66.7 5 5 100.0 1 5 6 0 3 0 0 2 7
+p745
+aVFred Jones IND 11/19/2004 IND @ DET W 17 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 1 0 1 2 10
+p746
+aVDavid Harrison IND 11/19/2004 IND @ DET W 14 4 1 1 100.0 0 0 - 2 2 100.0 3 0 3 1 0 1 1 4 4
+p747
+aVStephen Jackson IND 11/19/2004 IND @ DET W 38 13 5 12 41.7 1 3 33.3 2 2 100.0 0 3 3 3 0 0 0 4 11
+p748
+aVJames Jones IND 11/19/2004 IND @ DET W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 10
+p749
+aVJermaine O'Neal IND 11/19/2004 IND @ DET W 36 20 5 14 35.7 0 0 - 10 14 71.4 3 10 13 3 0 0 0 4 7
+p750
+aVDavid Harrison IND 11/17/2004 IND vs. ATL W 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 2 1 2 -1
+p751
+aVAustin Croshere IND 11/17/2004 IND vs. ATL W 34 13 5 10 50.0 2 4 50.0 1 2 50.0 5 8 13 4 2 0 2 2 8
+p752
+aVFred Jones IND 11/17/2004 IND vs. ATL W 31 4 0 4 0.0 0 1 0.0 4 4 100.0 2 3 5 2 0 0 0 2 -4
+p753
+aVEddie Gill IND 11/17/2004 IND vs. ATL W 17 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 0 -1
+p754
+aVJermaine O'Neal IND 11/17/2004 IND vs. ATL W 38 25 8 16 50.0 0 0 - 9 11 81.8 2 11 13 0 0 2 4 4 12
+p755
+aVJonathan Bender IND 11/17/2004 IND vs. ATL W 11 5 2 6 33.3 0 1 0.0 1 2 50.0 1 3 4 0 0 0 2 2 -6
+p756
+aVMetta World Peace IND 11/17/2004 IND vs. ATL W 40 24 8 12 66.7 0 1 0.0 8 8 100.0 0 6 6 2 4 1 1 4 0
+p757
+aVStephen Jackson IND 11/17/2004 IND vs. ATL W 26 9 4 10 40.0 1 3 33.3 0 0 - 1 1 2 5 0 0 4 6 18
+p758
+aVJamaal Tinsley IND 11/17/2004 IND vs. ATL W 32 8 3 8 37.5 2 3 66.7 0 0 - 0 1 1 6 1 1 4 1 9
+p759
+aVStephen Jackson IND 11/13/2004 IND vs. NYK W 39 19 6 10 60.0 3 4 75.0 4 5 80.0 0 7 7 3 0 1 3 4 6
+p760
+aVAustin Croshere IND 11/13/2004 IND vs. NYK W 38 12 3 4 75.0 2 2 100.0 4 4 100.0 3 5 8 1 2 1 4 3 0
+p761
+aVJames Jones IND 11/13/2004 IND vs. NYK W 10 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 1 -3
+p762
+aVMetta World Peace IND 11/13/2004 IND vs. NYK W 44 22 7 16 43.8 0 1 0.0 8 8 100.0 2 5 7 6 1 1 3 4 7
+p763
+aVJamaal Tinsley IND 11/13/2004 IND vs. NYK W 40 9 2 12 16.7 1 5 20.0 4 4 100.0 0 3 3 9 3 2 2 1 7
+p764
+aVDavid Harrison IND 11/13/2004 IND vs. NYK W 16 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 1 1 3 5
+p765
+aVEddie Gill IND 11/13/2004 IND vs. NYK W 14 1 0 5 0.0 0 2 0.0 1 2 50.0 0 2 2 3 2 1 0 1 2
+p766
+aVJermaine O'Neal IND 11/13/2004 IND vs. NYK W 39 33 13 21 61.9 0 0 - 7 10 70.0 1 11 12 2 0 5 2 5 6
+p767
+aVMetta World Peace IND 11/12/2004 IND @ PHI L 50 29 10 15 66.7 3 4 75.0 6 6 100.0 0 6 6 5 1 2 1 4 5
+p768
+aVStephen Jackson IND 11/12/2004 IND @ PHI L 46 17 6 18 33.3 5 12 41.7 0 0 - 0 4 4 3 3 1 6 4 1
+p769
+aVJames Jones IND 11/12/2004 IND @ PHI L 14 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -18
+p770
+aVDavid Harrison IND 11/12/2004 IND @ PHI L 14 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 2 6 -7
+p771
+aVAustin Croshere IND 11/12/2004 IND @ PHI L 47 14 4 8 50.0 2 5 40.0 4 4 100.0 1 6 7 6 1 0 2 4 9
+p772
+aVJermaine O'Neal IND 11/12/2004 IND @ PHI L 42 39 14 23 60.9 0 0 - 11 11 100.0 5 4 9 3 0 4 3 6 5
+p773
+aVEddie Gill IND 11/12/2004 IND @ PHI L 16 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 1 0 1 1 -24
+p774
+aVJamaal Tinsley IND 11/12/2004 IND @ PHI L 36 0 0 5 0.0 0 3 0.0 0 0 - 0 6 6 10 2 0 4 6 19
+p775
+aVAustin Croshere IND 11/10/2004 IND vs. LAC L 25 0 0 5 0.0 0 3 0.0 0 0 - 1 4 5 1 0 0 1 3 -25
+p776
+aVJames Jones IND 11/10/2004 IND vs. LAC L 19 4 1 7 14.3 1 4 25.0 1 2 50.0 1 2 3 2 0 0 1 0 -13
+p777
+aVJamaal Tinsley IND 11/10/2004 IND vs. LAC L 29 15 5 10 50.0 3 3 100.0 2 3 66.7 1 1 2 5 1 1 1 2 -18
+p778
+aVFred Jones IND 11/10/2004 IND vs. LAC L 35 9 3 9 33.3 2 7 28.6 1 2 50.0 0 3 3 4 1 1 1 4 -23
+p779
+aVEddie Gill IND 11/10/2004 IND vs. LAC L 22 7 3 7 42.9 0 2 0.0 1 1 100.0 1 2 3 0 2 0 2 1 -21
+p780
+aVJohn Edwards IND 11/10/2004 IND vs. LAC L 15 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 2 1 1 -11
+p781
+aVDavid Harrison IND 11/10/2004 IND vs. LAC L 29 6 2 4 50.0 0 0 - 2 8 25.0 2 2 4 0 0 1 1 6 -22
+p782
+aVStephen Jackson IND 11/10/2004 IND vs. LAC L 40 17 6 16 37.5 2 6 33.3 3 3 100.0 0 2 2 1 2 1 3 2 -27
+p783
+aVJermaine O'Neal IND 11/10/2004 IND vs. LAC L 26 8 3 10 30.0 0 0 - 2 6 33.3 4 5 9 0 1 3 4 3 -10
+p784
+aVJermaine O'Neal IND 11/09/2004 IND @ MIN W 33 22 9 22 40.9 0 1 0.0 4 5 80.0 4 4 8 0 1 3 4 6 -1
+p785
+aVFred Jones IND 11/09/2004 IND @ MIN W 38 14 6 11 54.5 2 5 40.0 0 0 - 0 7 7 3 0 0 2 2 -10
+p786
+aVStephen Jackson IND 11/09/2004 IND @ MIN W 44 21 8 19 42.1 1 4 25.0 4 4 100.0 4 2 6 4 1 1 2 1 7
+p787
+aVScot Pollard IND 11/09/2004 IND @ MIN W 26 8 3 6 50.0 0 0 - 2 2 100.0 8 3 11 1 0 0 2 4 7
+p788
+aVJamaal Tinsley IND 11/09/2004 IND @ MIN W 34 18 6 17 35.3 2 5 40.0 4 4 100.0 3 3 6 6 3 0 2 2 0
+p789
+aVAustin Croshere IND 11/09/2004 IND @ MIN W 26 8 3 5 60.0 0 2 0.0 2 2 100.0 1 5 6 4 3 0 3 3 -3
+p790
+aVEddie Gill IND 11/09/2004 IND @ MIN W 14 7 2 2 100.0 0 0 - 3 4 75.0 0 1 1 1 0 0 1 2 1
+p791
+aVJames Jones IND 11/09/2004 IND @ MIN W 15 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -2
+p792
+aVDavid Harrison IND 11/09/2004 IND @ MIN W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 3 6
+p793
+aVJames Jones IND 11/06/2004 IND vs. CHI W 14 5 1 2 50.0 1 2 50.0 2 2 100.0 1 1 2 0 0 0 0 0 -5
+p794
+aVAustin Croshere IND 11/06/2004 IND vs. CHI W 35 11 4 10 40.0 2 5 40.0 1 2 50.0 3 2 5 2 2 0 2 3 13
+p795
+aVJermaine O'Neal IND 11/06/2004 IND vs. CHI W 27 15 5 10 50.0 0 0 - 5 6 83.3 2 8 10 2 1 1 6 4 2
+p796
+aVJamaal Tinsley IND 11/06/2004 IND vs. CHI W 36 9 3 6 50.0 1 1 100.0 2 4 50.0 0 5 5 12 2 1 5 1 11
+p797
+aVDavid Harrison IND 11/06/2004 IND vs. CHI W 16 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 2 3 4 15
+p798
+aVMetta World Peace IND 11/06/2004 IND vs. CHI W 31 14 4 9 44.4 0 1 0.0 6 7 85.7 1 4 5 2 1 0 5 5 1
+p799
+aVFred Jones IND 11/06/2004 IND vs. CHI W 28 14 5 9 55.6 4 7 57.1 0 0 - 1 0 1 1 1 0 2 0 14
+p800
+aVEddie Gill IND 11/06/2004 IND vs. CHI W 13 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 2 1 2 4 -3
+p801
+aVStephen Jackson IND 11/06/2004 IND vs. CHI W 39 24 8 13 61.5 3 6 50.0 5 5 100.0 0 3 3 2 4 0 1 3 4
+p802
+aVJohn Edwards IND 11/06/2004 IND vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p803
+aVAustin Croshere IND 11/05/2004 IND @ BOS W 37 16 5 8 62.5 2 4 50.0 4 4 100.0 2 6 8 1 0 1 0 2 3
+p804
+aVEddie Gill IND 11/05/2004 IND @ BOS W 19 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 2 2 3 4
+p805
+aVJamaal Tinsley IND 11/05/2004 IND @ BOS W 27 1 0 6 0.0 0 2 0.0 1 2 50.0 2 2 4 5 1 0 5 5 1
+p806
+aVMetta World Peace IND 11/05/2004 IND @ BOS W 33 28 9 19 47.4 2 2 100.0 8 8 100.0 2 5 7 3 1 1 3 2 7
+p807
+aVStephen Jackson IND 11/05/2004 IND @ BOS W 33 9 4 10 40.0 0 2 0.0 1 1 100.0 2 6 8 3 1 0 2 3 4
+p808
+aVFred Jones IND 11/05/2004 IND @ BOS W 33 13 4 7 57.1 2 2 100.0 3 4 75.0 0 8 8 4 1 0 2 0 1
+p809
+aVJermaine O'Neal IND 11/05/2004 IND @ BOS W 24 19 5 16 31.3 0 0 - 9 14 64.3 0 3 3 1 2 0 2 4 6
+p810
+aVDavid Harrison IND 11/05/2004 IND @ BOS W 16 8 2 2 100.0 0 0 - 4 6 66.7 3 3 6 0 0 0 1 4 11
+p811
+aVScot Pollard IND 11/05/2004 IND @ BOS W 18 4 1 2 50.0 0 0 - 2 2 100.0 2 5 7 0 1 0 3 1 -7
+p812
+aVJonathan Bender IND 11/03/2004 IND @ CLE W 16 11 5 8 62.5 1 2 50.0 0 0 - 1 2 3 1 0 0 1 2 1
+p813
+aVJamaal Tinsley IND 11/03/2004 IND @ CLE W 45 15 5 13 38.5 1 2 50.0 4 4 100.0 0 7 7 14 3 0 1 4 8
+p814
+aVDavid Harrison IND 11/03/2004 IND @ CLE W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -3
+p815
+aVMetta World Peace IND 11/03/2004 IND @ CLE W 50 31 14 29 48.3 0 3 0.0 3 5 60.0 2 7 9 2 2 1 1 5 11
+p816
+aVScot Pollard IND 11/03/2004 IND @ CLE W 44 10 5 9 55.6 0 0 - 0 3 0.0 5 5 10 1 1 3 0 3 11
+p817
+aVStephen Jackson IND 11/03/2004 IND @ CLE W 43 9 3 12 25.0 0 3 0.0 3 5 60.0 1 9 10 3 0 0 3 3 0
+p818
+aVEddie Gill IND 11/03/2004 IND @ CLE W 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -1
+p819
+aVAustin Croshere IND 11/03/2004 IND @ CLE W 43 20 6 12 50.0 2 6 33.3 6 6 100.0 2 3 5 1 1 1 3 5 -3
+p820
+aVFred Jones IND 11/03/2004 IND @ CLE W 27 9 3 5 60.0 0 1 0.0 3 3 100.0 0 2 2 1 0 0 2 1 1
+p821
+a.

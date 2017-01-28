@@ -1,0 +1,402 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSerge Ibaka OKC 06/21/2012 OKC @ MIA L 26 9 3 9 33.3 0 0 - 3 4 75.0 4 0 4 0 0 2 0 3 -26
+p2
+aVKevin Durant OKC 06/21/2012 OKC @ MIA L 43 32 13 24 54.2 3 6 50.0 3 3 100.0 2 9 11 3 2 1 7 5 -23
+p3
+aVDerek Fisher OKC 06/21/2012 OKC @ MIA L 29 11 4 7 57.1 3 6 50.0 0 0 - 1 3 4 3 0 0 0 4 -1
+p4
+aVKendrick Perkins OKC 06/21/2012 OKC @ MIA L 20 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 1 0 1 5 -14
+p5
+aVJames Harden OKC 06/21/2012 OKC @ MIA L 36 19 5 11 45.5 3 8 37.5 6 6 100.0 1 3 4 5 2 0 3 2 -17
+p6
+aVLazar Hayward OKC 06/21/2012 OKC @ MIA L 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 8
+p7
+aVDaequan Cook OKC 06/21/2012 OKC @ MIA L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 8
+p8
+aVThabo Sefolosha OKC 06/21/2012 OKC @ MIA L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p9
+aVRussell Westbrook OKC 06/21/2012 OKC @ MIA L 43 19 4 20 20.0 0 5 0.0 11 13 84.6 0 4 4 6 2 0 2 3 -23
+p10
+aVNick Collison OKC 06/21/2012 OKC @ MIA L 17 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 0 3 3
+p11
+aVRoyal Ivey OKC 06/21/2012 OKC @ MIA L 3 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 7
+p12
+aVCole Aldrich OKC 06/21/2012 OKC @ MIA L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p13
+aVSerge Ibaka OKC 06/19/2012 OKC @ MIA L 27 4 2 4 50.0 0 0 - 0 0 - 1 6 7 2 1 1 1 3 -6
+p14
+aVThabo Sefolosha OKC 06/19/2012 OKC @ MIA L 27 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 0 0 0 0 1 -19
+p15
+aVKendrick Perkins OKC 06/19/2012 OKC @ MIA L 18 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 4
+p16
+aVDerek Fisher OKC 06/19/2012 OKC @ MIA L 22 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -5
+p17
+aVKevin Durant OKC 06/19/2012 OKC @ MIA L 46 28 9 19 47.4 1 5 20.0 9 9 100.0 1 1 2 3 2 0 3 3 0
+p18
+aVJames Harden OKC 06/19/2012 OKC @ MIA L 37 8 2 10 20.0 1 5 20.0 3 4 75.0 2 8 10 2 1 0 4 5 -4
+p19
+aVRussell Westbrook OKC 06/19/2012 OKC @ MIA L 45 43 20 32 62.5 0 3 0.0 3 3 100.0 1 6 7 5 1 0 3 3 0
+p20
+aVNick Collison OKC 06/19/2012 OKC @ MIA L 17 6 3 4 75.0 0 0 - 0 0 - 3 1 4 1 0 1 0 1 0
+p21
+aVJames Harden OKC 06/17/2012 OKC @ MIA L 34 9 2 10 20.0 0 4 0.0 5 7 71.4 1 5 6 6 2 0 2 4 -5
+p22
+aVKevin Durant OKC 06/17/2012 OKC @ MIA L 39 25 11 19 57.9 1 4 25.0 2 4 50.0 2 4 6 0 1 2 5 5 -3
+p23
+aVDaequan Cook OKC 06/17/2012 OKC @ MIA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p24
+aVDerek Fisher OKC 06/17/2012 OKC @ MIA L 28 9 3 8 37.5 2 3 66.7 1 1 100.0 0 0 0 0 2 0 0 2 -9
+p25
+aVThabo Sefolosha OKC 06/17/2012 OKC @ MIA L 27 6 3 8 37.5 0 2 0.0 0 0 - 1 1 2 1 3 1 2 3 -11
+p26
+aVSerge Ibaka OKC 06/17/2012 OKC @ MIA L 22 5 2 5 40.0 0 0 - 1 2 50.0 0 5 5 0 0 2 0 2 8
+p27
+aVNick Collison OKC 06/17/2012 OKC @ MIA L 13 2 1 3 33.3 0 0 - 0 2 0.0 1 1 2 0 1 0 0 4 -11
+p28
+aVKendrick Perkins OKC 06/17/2012 OKC @ MIA L 34 10 3 5 60.0 0 0 - 4 6 66.7 6 6 12 0 0 1 0 3 3
+p29
+aVRussell Westbrook OKC 06/17/2012 OKC @ MIA L 39 19 8 18 44.4 1 4 25.0 2 2 100.0 0 5 5 4 0 2 2 2 3
+p30
+aVKendrick Perkins OKC 06/14/2012 OKC vs. MIA L 20 4 1 5 20.0 0 0 - 2 2 100.0 4 4 8 0 0 1 3 3 -16
+p31
+aVKevin Durant OKC 06/14/2012 OKC vs. MIA L 39 32 12 22 54.5 4 10 40.0 4 6 66.7 0 3 3 1 2 1 2 5 -9
+p32
+aVRussell Westbrook OKC 06/14/2012 OKC vs. MIA L 42 27 10 26 38.5 2 6 33.3 5 7 71.4 2 6 8 7 1 0 2 3 -11
+p33
+aVSerge Ibaka OKC 06/14/2012 OKC vs. MIA L 29 7 2 5 40.0 0 0 - 3 4 75.0 2 2 4 1 0 5 0 2 -15
+p34
+aVThabo Sefolosha OKC 06/14/2012 OKC vs. MIA L 37 3 1 5 20.0 1 3 33.3 0 0 - 2 3 5 2 2 2 1 2 -3
+p35
+aVJames Harden OKC 06/14/2012 OKC vs. MIA L 35 21 7 11 63.6 2 3 66.7 5 7 71.4 0 4 4 2 1 0 2 3 13
+p36
+aVNick Collison OKC 06/14/2012 OKC vs. MIA L 15 0 0 0 - 0 0 - 0 0 - 0 3 3 1 1 0 0 3 8
+p37
+aVDerek Fisher OKC 06/14/2012 OKC vs. MIA L 24 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 0 2 0 0 1 13
+p38
+aVNick Collison OKC 06/12/2012 OKC vs. MIA W 21 8 4 5 80.0 0 0 - 0 0 - 5 5 10 0 1 0 2 3 13
+p39
+aVDaequan Cook OKC 06/12/2012 OKC vs. MIA W 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -4
+p40
+aVDerek Fisher OKC 06/12/2012 OKC vs. MIA W 25 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 6
+p41
+aVJames Harden OKC 06/12/2012 OKC vs. MIA W 22 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 3 0 0 1 4 2
+p42
+aVKevin Durant OKC 06/12/2012 OKC vs. MIA W 46 36 12 20 60.0 4 8 50.0 8 9 88.9 1 7 8 4 0 1 2 2 15
+p43
+aVSerge Ibaka OKC 06/12/2012 OKC vs. MIA W 27 10 5 10 50.0 0 0 - 0 1 0.0 1 5 6 1 1 0 0 2 -3
+p44
+aVRussell Westbrook OKC 06/12/2012 OKC vs. MIA W 42 27 10 24 41.7 0 4 0.0 7 9 77.8 1 7 8 11 1 0 2 1 14
+p45
+aVThabo Sefolosha OKC 06/12/2012 OKC vs. MIA W 29 9 2 5 40.0 0 2 0.0 5 6 83.3 0 1 1 2 2 1 1 3 14
+p46
+aVKendrick Perkins OKC 06/12/2012 OKC vs. MIA W 25 4 2 2 100.0 0 0 - 0 0 - 2 5 7 0 0 1 2 0 -2
+p47
+aVJames Harden OKC 06/06/2012 OKC vs. SAS W 35 16 4 9 44.4 3 4 75.0 5 6 83.3 0 5 5 4 0 0 3 3 9
+p48
+aVSerge Ibaka OKC 06/06/2012 OKC vs. SAS W 32 10 4 8 50.0 0 0 - 2 3 66.7 1 3 4 0 0 2 2 2 4
+p49
+aVKendrick Perkins OKC 06/06/2012 OKC vs. SAS W 28 4 2 8 25.0 0 0 - 0 0 - 0 3 3 2 2 1 1 3 5
+p50
+aVDerek Fisher OKC 06/06/2012 OKC vs. SAS W 23 9 4 7 57.1 1 3 33.3 0 0 - 0 0 0 1 1 0 0 2 3
+p51
+aVKevin Durant OKC 06/06/2012 OKC vs. SAS W 48 34 9 17 52.9 4 8 50.0 12 15 80.0 0 14 14 5 1 2 2 2 8
+p52
+aVThabo Sefolosha OKC 06/06/2012 OKC vs. SAS W 26 9 4 5 80.0 1 2 50.0 0 0 - 1 3 4 1 2 0 1 1 10
+p53
+aVNick Collison OKC 06/06/2012 OKC vs. SAS W 7 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -7
+p54
+aVRussell Westbrook OKC 06/06/2012 OKC vs. SAS W 41 25 9 17 52.9 1 1 100.0 6 7 85.7 2 6 8 5 0 1 5 4 8
+p55
+aVDerek Fisher OKC 06/04/2012 OKC @ SAS W 22 6 2 6 33.3 0 2 0.0 2 2 100.0 0 2 2 1 1 0 0 1 15
+p56
+aVSerge Ibaka OKC 06/04/2012 OKC @ SAS W 20 9 4 6 66.7 0 0 - 1 2 50.0 2 3 5 0 0 2 1 4 -3
+p57
+aVRussell Westbrook OKC 06/04/2012 OKC @ SAS W 45 23 9 24 37.5 0 4 0.0 5 5 100.0 0 4 4 12 4 1 6 4 5
+p58
+aVKevin Durant OKC 06/04/2012 OKC @ SAS W 43 27 10 19 52.6 2 6 33.3 5 6 83.3 1 3 4 5 3 1 4 1 3
+p59
+aVKendrick Perkins OKC 06/04/2012 OKC @ SAS W 30 4 1 4 25.0 0 0 - 2 2 100.0 1 9 10 0 0 0 2 6 -17
+p60
+aVThabo Sefolosha OKC 06/04/2012 OKC @ SAS W 22 5 2 4 50.0 1 3 33.3 0 0 - 2 2 4 1 1 0 3 4 -8
+p61
+aVNick Collison OKC 06/04/2012 OKC @ SAS W 20 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 2 2
+p62
+aVDaequan Cook OKC 06/04/2012 OKC @ SAS W 4 8 3 3 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p63
+aVJames Harden OKC 06/04/2012 OKC @ SAS W 35 20 6 11 54.5 3 4 75.0 5 6 83.3 0 4 4 3 2 0 0 3 24
+p64
+aVThabo Sefolosha OKC 06/02/2012 OKC vs. SAS W 22 6 3 6 50.0 0 2 0.0 0 0 - 1 5 6 1 1 0 0 2 0
+p65
+aVKevin Durant OKC 06/02/2012 OKC vs. SAS W 44 36 13 20 65.0 1 2 50.0 9 9 100.0 0 6 6 8 0 1 1 0 1
+p66
+aVDerek Fisher OKC 06/02/2012 OKC vs. SAS W 16 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 4 0 0 0 2 5
+p67
+aVKendrick Perkins OKC 06/02/2012 OKC vs. SAS W 33 15 7 9 77.8 0 0 - 1 2 50.0 3 6 9 1 0 1 3 3 3
+p68
+aVJames Harden OKC 06/02/2012 OKC vs. SAS W 32 11 4 13 30.8 2 3 66.7 1 2 50.0 1 6 7 7 1 0 3 2 12
+p69
+aVSerge Ibaka OKC 06/02/2012 OKC vs. SAS W 41 26 11 11 100.0 0 0 - 4 4 100.0 1 4 5 0 0 3 1 2 6
+p70
+aVRussell Westbrook OKC 06/02/2012 OKC vs. SAS W 34 7 2 10 20.0 2 3 66.7 1 4 25.0 0 4 4 5 1 0 3 2 -5
+p71
+aVNick Collison OKC 06/02/2012 OKC vs. SAS W 19 8 4 5 80.0 0 0 - 0 0 - 1 1 2 1 2 0 1 2 8
+p72
+aVDerek Fisher OKC 05/31/2012 OKC vs. SAS W 21 5 2 7 28.6 1 3 33.3 0 0 - 0 3 3 4 0 0 0 5 1
+p73
+aVKendrick Perkins OKC 05/31/2012 OKC vs. SAS W 23 4 2 4 50.0 0 0 - 0 0 - 3 5 8 0 0 3 1 1 13
+p74
+aVKevin Durant OKC 05/31/2012 OKC vs. SAS W 38 22 8 17 47.1 0 4 0.0 6 6 100.0 1 5 6 5 1 0 3 3 18
+p75
+aVSerge Ibaka OKC 05/31/2012 OKC vs. SAS W 30 14 5 9 55.6 0 0 - 4 4 100.0 0 3 3 1 2 3 0 2 22
+p76
+aVRoyal Ivey OKC 05/31/2012 OKC vs. SAS W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p77
+aVNick Collison OKC 05/31/2012 OKC vs. SAS W 10 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 1 0 0 1 5
+p78
+aVDaequan Cook OKC 05/31/2012 OKC vs. SAS W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p79
+aVCole Aldrich OKC 05/31/2012 OKC vs. SAS W 5 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -5
+p80
+aVJames Harden OKC 05/31/2012 OKC vs. SAS W 26 15 5 10 50.0 1 2 50.0 4 4 100.0 1 3 4 3 0 0 1 1 19
+p81
+aVLazar Hayward OKC 05/31/2012 OKC vs. SAS W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p82
+aVRussell Westbrook OKC 05/31/2012 OKC vs. SAS W 34 10 5 15 33.3 0 2 0.0 0 0 - 3 4 7 9 4 2 2 1 29
+p83
+aVThabo Sefolosha OKC 05/31/2012 OKC vs. SAS W 37 19 7 16 43.8 4 10 40.0 1 1 100.0 2 4 6 1 6 1 0 1 15
+p84
+aVDaequan Cook OKC 05/29/2012 OKC @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p85
+aVNazr Mohammed OKC 05/29/2012 OKC @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p86
+aVRussell Westbrook OKC 05/29/2012 OKC @ SAS L 41 27 10 24 41.7 3 7 42.9 4 5 80.0 2 5 7 8 0 0 0 3 -3
+p87
+aVDerek Fisher OKC 05/29/2012 OKC @ SAS L 26 10 2 11 18.2 2 5 40.0 4 4 100.0 1 2 3 1 1 0 1 4 9
+p88
+aVKendrick Perkins OKC 05/29/2012 OKC @ SAS L 25 3 1 5 20.0 0 0 - 1 2 50.0 3 2 5 1 1 2 4 3 -14
+p89
+aVKevin Durant OKC 05/29/2012 OKC @ SAS L 42 31 10 17 58.8 3 4 75.0 8 8 100.0 1 4 5 5 3 2 3 4 -6
+p90
+aVJames Harden OKC 05/29/2012 OKC @ SAS L 34 30 10 13 76.9 0 1 0.0 10 13 76.9 2 5 7 4 2 0 0 6 3
+p91
+aVThabo Sefolosha OKC 05/29/2012 OKC @ SAS L 15 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -10
+p92
+aVSerge Ibaka OKC 05/29/2012 OKC @ SAS L 39 8 3 11 27.3 0 0 - 2 4 50.0 5 5 10 0 2 4 2 2 -9
+p93
+aVNick Collison OKC 05/29/2012 OKC @ SAS L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 4 -3
+p94
+aVNick Collison OKC 05/27/2012 OKC @ SAS L 17 5 2 3 66.7 0 0 - 1 2 50.0 3 4 7 2 1 0 1 3 -4
+p95
+aVRussell Westbrook OKC 05/27/2012 OKC @ SAS L 37 17 7 21 33.3 2 3 66.7 1 2 50.0 1 4 5 5 0 2 4 4 0
+p96
+aVThabo Sefolosha OKC 05/27/2012 OKC @ SAS L 31 7 3 7 42.9 1 3 33.3 0 0 - 1 4 5 2 4 1 0 2 11
+p97
+aVDerek Fisher OKC 05/27/2012 OKC @ SAS L 23 13 6 8 75.0 1 3 33.3 0 0 - 0 0 0 2 1 0 1 0 -3
+p98
+aVDaequan Cook OKC 05/27/2012 OKC @ SAS L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -10
+p99
+aVKevin Durant OKC 05/27/2012 OKC @ SAS L 43 27 8 19 42.1 0 4 0.0 11 12 91.7 0 10 10 4 2 3 2 5 -6
+p100
+aVJames Harden OKC 05/27/2012 OKC @ SAS L 31 19 7 17 41.2 5 9 55.6 0 0 - 2 4 6 1 2 0 4 5 -11
+p101
+aVKendrick Perkins OKC 05/27/2012 OKC @ SAS L 28 5 1 4 25.0 0 0 - 3 4 75.0 0 2 2 1 0 1 1 5 -1
+p102
+aVSerge Ibaka OKC 05/27/2012 OKC @ SAS L 22 5 1 3 33.3 0 0 - 3 3 100.0 2 5 7 1 1 2 0 0 9
+p103
+aVKendrick Perkins OKC 05/21/2012 OKC vs. LAL W 33 6 3 6 50.0 0 0 - 0 0 - 4 7 11 2 0 2 3 5 17
+p104
+aVSerge Ibaka OKC 05/21/2012 OKC vs. LAL W 19 8 4 10 40.0 0 0 - 0 1 0.0 5 1 6 1 0 3 0 2 0
+p105
+aVLazar Hayward OKC 05/21/2012 OKC vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p106
+aVRoyal Ivey OKC 05/21/2012 OKC vs. LAL W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -1
+p107
+aVNick Collison OKC 05/21/2012 OKC vs. LAL W 23 6 3 4 75.0 0 0 - 0 0 - 2 4 6 1 0 1 1 3 13
+p108
+aVDerek Fisher OKC 05/21/2012 OKC vs. LAL W 17 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 2 4
+p109
+aVNazr Mohammed OKC 05/21/2012 OKC vs. LAL W 9 7 3 3 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 -9
+p110
+aVKevin Durant OKC 05/21/2012 OKC vs. LAL W 43 25 9 21 42.9 2 6 33.3 5 6 83.3 0 10 10 4 2 0 2 0 25
+p111
+aVRussell Westbrook OKC 05/21/2012 OKC vs. LAL W 39 28 12 25 48.0 0 1 0.0 4 6 66.7 1 2 3 4 2 0 1 2 25
+p112
+aVThabo Sefolosha OKC 05/21/2012 OKC vs. LAL W 16 4 1 5 20.0 0 3 0.0 2 2 100.0 0 2 2 2 2 0 2 2 -2
+p113
+aVDaequan Cook OKC 05/21/2012 OKC vs. LAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p114
+aVCole Aldrich OKC 05/21/2012 OKC vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p115
+aVJames Harden OKC 05/21/2012 OKC vs. LAL W 31 17 6 10 60.0 1 2 50.0 4 4 100.0 1 7 8 4 1 0 1 3 19
+p116
+aVNazr Mohammed OKC 05/19/2012 OKC @ LAL W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 3 -4
+p117
+aVJames Harden OKC 05/19/2012 OKC @ LAL W 33 12 2 11 18.2 1 6 16.7 7 8 87.5 0 6 6 3 0 0 1 3 8
+p118
+aVDaequan Cook OKC 05/19/2012 OKC @ LAL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p119
+aVDerek Fisher OKC 05/19/2012 OKC @ LAL W 15 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 0 -10
+p120
+aVRussell Westbrook OKC 05/19/2012 OKC @ LAL W 43 37 15 26 57.7 1 2 50.0 6 7 85.7 1 1 2 5 1 0 1 2 9
+p121
+aVThabo Sefolosha OKC 05/19/2012 OKC @ LAL W 19 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 2 -3
+p122
+aVSerge Ibaka OKC 05/19/2012 OKC @ LAL W 34 14 7 11 63.6 0 0 - 0 0 - 4 0 4 2 1 5 1 5 9
+p123
+aVNick Collison OKC 05/19/2012 OKC @ LAL W 12 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -6
+p124
+aVKevin Durant OKC 05/19/2012 OKC @ LAL W 46 31 10 18 55.6 3 4 75.0 8 10 80.0 1 12 13 2 2 1 3 3 8
+p125
+aVKendrick Perkins OKC 05/19/2012 OKC @ LAL W 32 2 1 3 33.3 0 0 - 0 0 - 1 8 9 1 0 3 1 3 9
+p126
+aVDerek Fisher OKC 05/18/2012 OKC @ LAL L 18 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 1 1 0 0 3 1
+p127
+aVDaequan Cook OKC 05/18/2012 OKC @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p128
+aVRussell Westbrook OKC 05/18/2012 OKC @ LAL L 35 21 7 18 38.9 0 3 0.0 7 8 87.5 3 6 9 1 2 0 1 3 0
+p129
+aVThabo Sefolosha OKC 05/18/2012 OKC @ LAL L 24 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 4 2 1 0 3 0
+p130
+aVKendrick Perkins OKC 05/18/2012 OKC @ LAL L 31 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 1 1 4 2 4 -1
+p131
+aVNick Collison OKC 05/18/2012 OKC @ LAL L 16 2 1 1 100.0 0 0 - 0 0 - 1 1 2 3 0 0 0 1 6
+p132
+aVSerge Ibaka OKC 05/18/2012 OKC @ LAL L 31 8 4 10 40.0 0 1 0.0 0 0 - 7 4 11 1 0 3 0 4 -13
+p133
+aVJames Harden OKC 05/18/2012 OKC @ LAL L 29 21 4 13 30.8 2 5 40.0 11 12 91.7 0 4 4 1 3 0 1 5 1
+p134
+aVNazr Mohammed OKC 05/18/2012 OKC @ LAL L 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 5 -2
+p135
+aVKevin Durant OKC 05/18/2012 OKC @ LAL L 41 31 12 23 52.2 1 4 25.0 6 6 100.0 1 4 5 1 2 1 5 1 -5
+p136
+aVThabo Sefolosha OKC 05/16/2012 OKC vs. LAL W 20 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 1 0 0 1 4 -4
+p137
+aVKendrick Perkins OKC 05/16/2012 OKC vs. LAL W 32 2 1 5 20.0 0 0 - 0 0 - 2 3 5 2 1 0 1 2 3
+p138
+aVNick Collison OKC 05/16/2012 OKC vs. LAL W 18 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -3
+p139
+aVNazr Mohammed OKC 05/16/2012 OKC vs. LAL W 13 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 2
+p140
+aVSerge Ibaka OKC 05/16/2012 OKC vs. LAL W 32 8 4 11 36.4 0 1 0.0 0 0 - 1 2 3 0 0 7 0 4 0
+p141
+aVDerek Fisher OKC 05/16/2012 OKC vs. LAL W 15 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 3 -5
+p142
+aVJames Harden OKC 05/16/2012 OKC vs. LAL W 27 13 3 8 37.5 1 3 33.3 6 6 100.0 0 3 3 2 2 1 5 3 5
+p143
+aVKevin Durant OKC 05/16/2012 OKC vs. LAL W 42 22 9 15 60.0 1 4 25.0 3 4 75.0 0 7 7 5 2 0 4 0 -3
+p144
+aVRussell Westbrook OKC 05/16/2012 OKC vs. LAL W 34 15 5 17 29.4 1 3 33.3 4 6 66.7 0 6 6 4 1 0 0 1 8
+p145
+aVDaequan Cook OKC 05/16/2012 OKC vs. LAL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p146
+aVNick Collison OKC 05/14/2012 OKC vs. LAL W 23 4 2 4 50.0 0 0 - 0 1 0.0 2 2 4 1 2 0 0 0 13
+p147
+aVSerge Ibaka OKC 05/14/2012 OKC vs. LAL W 20 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 1 2 0 2 25
+p148
+aVLazar Hayward OKC 05/14/2012 OKC vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p149
+aVRussell Westbrook OKC 05/14/2012 OKC vs. LAL W 27 27 10 15 66.7 1 1 100.0 6 6 100.0 1 6 7 9 2 0 1 2 27
+p150
+aVKevin Durant OKC 05/14/2012 OKC vs. LAL W 29 25 8 16 50.0 2 5 40.0 7 8 87.5 1 7 8 4 0 1 0 1 27
+p151
+aVRoyal Ivey OKC 05/14/2012 OKC vs. LAL W 7 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 2 0 1 1 -1
+p152
+aVJames Harden OKC 05/14/2012 OKC vs. LAL W 24 17 4 11 36.4 0 4 0.0 9 10 90.0 0 2 2 1 2 0 2 3 3
+p153
+aVCole Aldrich OKC 05/14/2012 OKC vs. LAL W 9 7 3 4 75.0 0 0 - 1 2 50.0 3 3 6 0 0 0 0 2 -3
+p154
+aVDerek Fisher OKC 05/14/2012 OKC vs. LAL W 26 5 2 8 25.0 1 1 100.0 0 0 - 0 1 1 2 2 1 0 0 2
+p155
+aVDaequan Cook OKC 05/14/2012 OKC vs. LAL W 17 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p156
+aVThabo Sefolosha OKC 05/14/2012 OKC vs. LAL W 17 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 1 2 0 0 4 27
+p157
+aVNazr Mohammed OKC 05/14/2012 OKC vs. LAL W 22 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 1 0 2 0 3 18
+p158
+aVKendrick Perkins OKC 05/14/2012 OKC vs. LAL W 17 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 14
+p159
+aVThabo Sefolosha OKC 05/05/2012 OKC @ DAL W 17 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 -13
+p160
+aVDerek Fisher OKC 05/05/2012 OKC @ DAL W 30 12 5 6 83.3 2 2 100.0 0 0 - 0 3 3 1 0 1 1 1 21
+p161
+aVJames Harden OKC 05/05/2012 OKC @ DAL W 34 29 11 16 68.8 3 4 75.0 4 5 80.0 0 5 5 5 3 1 2 3 16
+p162
+aVKendrick Perkins OKC 05/05/2012 OKC @ DAL W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 0
+p163
+aVNazr Mohammed OKC 05/05/2012 OKC @ DAL W 11 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 2 4 -9
+p164
+aVKevin Durant OKC 05/05/2012 OKC @ DAL W 40 24 9 18 50.0 2 8 25.0 4 5 80.0 1 10 11 4 0 2 5 1 4
+p165
+aVRussell Westbrook OKC 05/05/2012 OKC @ DAL W 37 12 3 12 25.0 0 4 0.0 6 8 75.0 2 3 5 6 3 0 0 2 -5
+p166
+aVSerge Ibaka OKC 05/05/2012 OKC @ DAL W 31 10 5 9 55.6 0 0 - 0 0 - 2 4 6 0 0 3 1 6 6
+p167
+aVDaequan Cook OKC 05/05/2012 OKC @ DAL W 13 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 1 1 0 0 2 4
+p168
+aVNick Collison OKC 05/05/2012 OKC @ DAL W 20 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 1 1 5 6
+p169
+aVRoyal Ivey OKC 05/03/2012 OKC @ DAL W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p170
+aVDaequan Cook OKC 05/03/2012 OKC @ DAL W 11 9 3 7 42.9 3 6 50.0 0 0 - 0 2 2 0 1 0 0 0 11
+p171
+aVSerge Ibaka OKC 05/03/2012 OKC @ DAL W 27 10 5 8 62.5 0 1 0.0 0 0 - 4 7 11 0 1 4 0 4 7
+p172
+aVKendrick Perkins OKC 05/03/2012 OKC @ DAL W 29 2 1 4 25.0 0 0 - 0 0 - 2 7 9 0 0 1 0 1 21
+p173
+aVThabo Sefolosha OKC 05/03/2012 OKC @ DAL W 17 3 1 6 16.7 1 3 33.3 0 0 - 0 3 3 3 0 1 0 1 9
+p174
+aVNick Collison OKC 05/03/2012 OKC @ DAL W 13 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 0 0 1 3 13
+p175
+aVDerek Fisher OKC 05/03/2012 OKC @ DAL W 25 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 0 1 0 1 0 5
+p176
+aVNazr Mohammed OKC 05/03/2012 OKC @ DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p177
+aVJames Harden OKC 05/03/2012 OKC @ DAL W 26 10 3 10 30.0 0 2 0.0 4 6 66.7 0 4 4 4 3 0 1 4 17
+p178
+aVLazar Hayward OKC 05/03/2012 OKC @ DAL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -10
+p179
+aVKevin Durant OKC 05/03/2012 OKC @ DAL W 40 31 11 15 73.3 4 6 66.7 5 7 71.4 0 3 3 6 2 1 1 3 22
+p180
+aVRussell Westbrook OKC 05/03/2012 OKC @ DAL W 32 20 8 19 42.1 2 5 40.0 2 4 50.0 0 4 4 4 3 0 3 3 15
+p181
+aVCole Aldrich OKC 05/03/2012 OKC @ DAL W 5 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -10
+p182
+aVRussell Westbrook OKC 04/30/2012 OKC vs. DAL W 39 29 10 21 47.6 1 2 50.0 8 8 100.0 0 2 2 2 0 0 2 2 -3
+p183
+aVThabo Sefolosha OKC 04/30/2012 OKC vs. DAL W 17 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 4 -14
+p184
+aVSerge Ibaka OKC 04/30/2012 OKC vs. DAL W 22 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 2 4 14
+p185
+aVDaequan Cook OKC 04/30/2012 OKC vs. DAL W 8 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 1 1 0 0 0 7
+p186
+aVJames Harden OKC 04/30/2012 OKC vs. DAL W 34 15 2 7 28.6 1 3 33.3 10 10 100.0 0 7 7 5 3 0 1 2 16
+p187
+aVNick Collison OKC 04/30/2012 OKC vs. DAL W 26 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 1 1 6 1
+p188
+aVDerek Fisher OKC 04/30/2012 OKC vs. DAL W 24 11 5 6 83.3 1 2 50.0 0 0 - 0 3 3 0 1 0 1 3 11
+p189
+aVKevin Durant OKC 04/30/2012 OKC vs. DAL W 43 26 5 17 29.4 2 6 33.3 14 16 87.5 0 10 10 1 2 0 7 3 -7
+p190
+aVKendrick Perkins OKC 04/30/2012 OKC vs. DAL W 27 13 4 5 80.0 0 0 - 5 5 100.0 3 3 6 0 0 1 2 4 -10
+p191
+aVKendrick Perkins OKC 04/28/2012 OKC vs. DAL W 26 0 0 3 0.0 0 0 - 0 0 - 1 7 8 0 1 1 1 3 2
+p192
+aVSerge Ibaka OKC 04/28/2012 OKC vs. DAL W 39 22 9 12 75.0 1 1 100.0 3 4 75.0 3 3 6 1 1 5 0 2 2
+p193
+aVThabo Sefolosha OKC 04/28/2012 OKC vs. DAL W 18 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 1 1 0 2 0
+p194
+aVDerek Fisher OKC 04/28/2012 OKC vs. DAL W 16 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 1
+p195
+aVNick Collison OKC 04/28/2012 OKC vs. DAL W 15 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 1 3 -1
+p196
+aVKevin Durant OKC 04/28/2012 OKC vs. DAL W 44 25 10 27 37.0 1 6 16.7 4 5 80.0 0 6 6 4 0 4 2 4 1
+p197
+aVJames Harden OKC 04/28/2012 OKC vs. DAL W 35 19 4 7 57.1 2 4 50.0 9 10 90.0 2 4 6 3 1 0 5 3 -1
+p198
+aVRussell Westbrook OKC 04/28/2012 OKC vs. DAL W 38 28 13 23 56.5 1 2 50.0 1 1 100.0 2 2 4 5 3 0 5 2 1
+p199
+aVDaequan Cook OKC 04/28/2012 OKC vs. DAL W 10 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 2 0
+p200
+a.

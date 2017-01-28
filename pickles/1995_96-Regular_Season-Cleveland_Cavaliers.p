@@ -1,0 +1,1624 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMichael Cage CLE 04/21/1996 CLE @ IND L 15 2 1 1 100.0 0 0 - 0 0 - 3 2 5 1 2 1 0 0 -
+p2
+aVChris Mills CLE 04/21/1996 CLE @ IND L 26 8 4 8 50.0 0 2 0.0 0 0 - 0 1 1 1 2 0 2 4 -
+p3
+aVBob Sura CLE 04/21/1996 CLE @ IND L 26 9 3 8 37.5 0 0 - 3 5 60.0 1 1 2 5 0 0 2 5 -
+p4
+aVTerrell Brandon CLE 04/21/1996 CLE @ IND L 22 13 6 9 66.7 1 2 50.0 0 0 - 0 1 1 6 4 0 2 1 -
+p5
+aVBobby Phills CLE 04/21/1996 CLE @ IND L 19 7 3 8 37.5 1 4 25.0 0 0 - 0 0 0 3 1 0 1 2 -
+p6
+aVAntonio Lang CLE 04/21/1996 CLE @ IND L 23 2 1 2 50.0 0 0 - 0 1 0.0 0 3 3 0 2 0 0 0 -
+p7
+aVDanny Ferry CLE 04/21/1996 CLE @ IND L 25 11 4 12 33.3 2 5 40.0 1 1 100.0 0 2 2 1 1 4 0 2 -
+p8
+aVTyrone Hill CLE 04/21/1996 CLE @ IND L 21 6 3 5 60.0 0 0 - 0 0 - 4 3 7 0 2 1 3 4 -
+p9
+aVJohn Amaechi CLE 04/21/1996 CLE @ IND L 13 7 3 4 75.0 0 0 - 1 1 100.0 0 1 1 1 0 0 1 2 -
+p10
+aVDonny Marshall CLE 04/21/1996 CLE @ IND L 21 8 2 5 40.0 0 3 0.0 4 4 100.0 2 1 3 2 0 1 0 4 -
+p11
+aVDan Majerle CLE 04/21/1996 CLE @ IND L 29 15 6 13 46.2 3 8 37.5 0 0 - 0 1 1 4 0 0 1 0 -
+p12
+aVMichael Cage CLE 04/20/1996 CLE vs. DET W 34 6 3 5 60.0 0 0 - 0 0 - 4 1 5 1 0 0 1 2 -
+p13
+aVChris Mills CLE 04/20/1996 CLE vs. DET W 43 18 9 15 60.0 0 1 0.0 0 0 - 3 5 8 2 0 2 1 2 -
+p14
+aVDan Majerle CLE 04/20/1996 CLE vs. DET W 22 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 1 2 1 1 -
+p15
+aVDanny Ferry CLE 04/20/1996 CLE vs. DET W 35 11 5 9 55.6 1 1 100.0 0 0 - 1 3 4 4 2 1 1 3 -
+p16
+aVTerrell Brandon CLE 04/20/1996 CLE vs. DET W 36 12 5 16 31.3 1 5 20.0 1 2 50.0 0 4 4 8 2 0 0 3 -
+p17
+aVBobby Phills CLE 04/20/1996 CLE vs. DET W 43 21 9 17 52.9 1 4 25.0 2 4 50.0 2 5 7 5 1 1 2 4 -
+p18
+aVTyrone Hill CLE 04/20/1996 CLE vs. DET W 14 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 1 0 2 2 -
+p19
+aVBob Sura CLE 04/20/1996 CLE vs. DET W 13 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 3 0 0 1 0 -
+p20
+aVTyrone Hill CLE 04/18/1996 CLE vs. NYK W 23 7 3 6 50.0 0 0 - 1 2 50.0 3 5 8 0 0 0 0 3 -
+p21
+aVBobby Phills CLE 04/18/1996 CLE vs. NYK W 42 17 6 11 54.5 2 4 50.0 3 5 60.0 0 2 2 11 5 0 5 4 -
+p22
+aVBob Sura CLE 04/18/1996 CLE vs. NYK W 15 3 1 4 25.0 1 1 100.0 0 0 - 1 1 2 1 1 2 0 1 -
+p23
+aVTerrell Brandon CLE 04/18/1996 CLE vs. NYK W 35 20 6 15 40.0 2 4 50.0 6 7 85.7 0 3 3 3 1 1 2 0 -
+p24
+aVChris Mills CLE 04/18/1996 CLE vs. NYK W 40 12 6 14 42.9 0 1 0.0 0 0 - 1 5 6 4 3 2 1 2 -
+p25
+aVMichael Cage CLE 04/18/1996 CLE vs. NYK W 23 6 3 4 75.0 0 0 - 0 0 - 4 1 5 0 3 0 0 3 -
+p26
+aVDonny Marshall CLE 04/18/1996 CLE vs. NYK W 2 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -
+p27
+aVJohn Crotty CLE 04/18/1996 CLE vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p28
+aVAntonio Lang CLE 04/18/1996 CLE vs. NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p29
+aVDanny Ferry CLE 04/18/1996 CLE vs. NYK W 24 12 4 7 57.1 3 6 50.0 1 2 50.0 1 2 3 2 0 2 2 4 -
+p30
+aVJohn Amaechi CLE 04/18/1996 CLE vs. NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p31
+aVDan Majerle CLE 04/18/1996 CLE vs. NYK W 30 12 4 8 50.0 3 6 50.0 1 2 50.0 0 1 1 3 0 1 1 2 -
+p32
+aVTyrone Hill CLE 04/16/1996 CLE @ ATL W 18 4 1 3 33.3 0 0 - 2 2 100.0 0 5 5 0 0 0 0 2 -
+p33
+aVMichael Cage CLE 04/16/1996 CLE @ ATL W 32 12 6 11 54.5 0 0 - 0 0 - 12 3 15 0 0 0 0 3 -
+p34
+aVChris Mills CLE 04/16/1996 CLE @ ATL W 39 8 3 9 33.3 0 2 0.0 2 2 100.0 2 6 8 2 0 0 0 3 -
+p35
+aVBobby Phills CLE 04/16/1996 CLE @ ATL W 37 9 4 11 36.4 1 5 20.0 0 2 0.0 3 4 7 4 3 0 2 3 -
+p36
+aVTerrell Brandon CLE 04/16/1996 CLE @ ATL W 43 25 10 18 55.6 0 4 0.0 5 6 83.3 1 3 4 6 1 0 5 3 -
+p37
+aVDan Majerle CLE 04/16/1996 CLE @ ATL W 20 5 2 5 40.0 0 1 0.0 1 1 100.0 0 0 0 2 0 0 1 3 -
+p38
+aVBob Sura CLE 04/16/1996 CLE @ ATL W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 0 -
+p39
+aVDanny Ferry CLE 04/16/1996 CLE @ ATL W 36 15 7 17 41.2 1 5 20.0 0 2 0.0 1 2 3 0 0 1 2 2 -
+p40
+aVAntonio Lang CLE 04/16/1996 CLE @ ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p41
+aVJohn Crotty CLE 04/16/1996 CLE @ ATL W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p42
+aVMichael Cage CLE 04/14/1996 CLE vs. CHI L 18 2 1 1 100.0 0 0 - 0 0 - 5 3 8 0 0 0 0 1 -
+p43
+aVChris Mills CLE 04/14/1996 CLE vs. CHI L 37 16 7 13 53.8 2 4 50.0 0 0 - 0 5 5 2 2 1 2 2 -
+p44
+aVBobby Phills CLE 04/14/1996 CLE vs. CHI L 34 9 4 11 36.4 1 4 25.0 0 0 - 0 2 2 3 1 0 2 2 -
+p45
+aVDan Majerle CLE 04/14/1996 CLE vs. CHI L 28 11 4 8 50.0 2 4 50.0 1 2 50.0 0 3 3 4 1 2 4 1 -
+p46
+aVTyrone Hill CLE 04/14/1996 CLE vs. CHI L 25 3 1 5 20.0 0 0 - 1 2 50.0 3 3 6 1 0 0 1 4 -
+p47
+aVDarryl Johnson CLE 04/14/1996 CLE vs. CHI L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p48
+aVJohn Crotty CLE 04/14/1996 CLE vs. CHI L 4 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 1 0 -
+p49
+aVDanny Ferry CLE 04/14/1996 CLE vs. CHI L 26 5 2 9 22.2 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -
+p50
+aVAntonio Lang CLE 04/14/1996 CLE vs. CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p51
+aVBob Sura CLE 04/14/1996 CLE vs. CHI L 21 0 0 3 0.0 0 0 - 0 0 - 0 2 2 5 1 0 3 0 -
+p52
+aVDonny Marshall CLE 04/14/1996 CLE vs. CHI L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -
+p53
+aVTerrell Brandon CLE 04/14/1996 CLE vs. CHI L 36 21 9 19 47.4 0 2 0.0 3 4 75.0 1 2 3 5 2 0 2 3 -
+p54
+aVTyrone Hill CLE 04/11/1996 CLE @ NYK W 27 14 5 7 71.4 0 0 - 4 6 66.7 3 5 8 1 1 0 2 5 -
+p55
+aVMichael Cage CLE 04/11/1996 CLE @ NYK W 22 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 3 -
+p56
+aVTerrell Brandon CLE 04/11/1996 CLE @ NYK W 38 18 7 12 58.3 0 2 0.0 4 5 80.0 0 1 1 7 2 0 4 0 -
+p57
+aVChris Mills CLE 04/11/1996 CLE @ NYK W 36 6 1 6 16.7 0 2 0.0 4 4 100.0 1 1 2 4 1 1 2 3 -
+p58
+aVDanny Ferry CLE 04/11/1996 CLE @ NYK W 36 32 11 13 84.6 5 5 100.0 5 6 83.3 0 2 2 0 1 0 0 5 -
+p59
+aVBobby Phills CLE 04/11/1996 CLE @ NYK W 42 14 5 10 50.0 2 4 50.0 2 4 50.0 1 3 4 4 0 0 2 4 -
+p60
+aVDan Majerle CLE 04/11/1996 CLE @ NYK W 29 11 3 10 30.0 2 7 28.6 3 3 100.0 0 0 0 4 2 0 1 3 -
+p61
+aVBob Sura CLE 04/11/1996 CLE @ NYK W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -
+p62
+aVBob Sura CLE 04/10/1996 CLE @ ORL L 22 6 1 2 50.0 0 0 - 4 4 100.0 1 1 2 3 0 1 0 2 -
+p63
+aVDanny Ferry CLE 04/10/1996 CLE @ ORL L 33 6 2 7 28.6 1 3 33.3 1 1 100.0 0 3 3 2 1 0 2 1 -
+p64
+aVTyrone Hill CLE 04/10/1996 CLE @ ORL L 26 18 6 8 75.0 0 0 - 6 6 100.0 2 3 5 0 2 1 1 6 -
+p65
+aVJohn Crotty CLE 04/10/1996 CLE @ ORL L 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 1 0 1 3 -
+p66
+aVBobby Phills CLE 04/10/1996 CLE @ ORL L 26 11 5 8 62.5 1 2 50.0 0 0 - 0 1 1 3 0 0 2 1 -
+p67
+aVAntonio Lang CLE 04/10/1996 CLE @ ORL L 11 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 1 0 1 0 -
+p68
+aVTerrell Brandon CLE 04/10/1996 CLE @ ORL L 32 19 8 15 53.3 1 1 100.0 2 2 100.0 1 2 3 5 1 0 1 0 -
+p69
+aVDarryl Johnson CLE 04/10/1996 CLE @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p70
+aVDonny Marshall CLE 04/10/1996 CLE @ ORL L 1 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -
+p71
+aVMichael Cage CLE 04/10/1996 CLE @ ORL L 18 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 0 2 1 4 -
+p72
+aVDan Majerle CLE 04/10/1996 CLE @ ORL L 35 25 8 13 61.5 7 12 58.3 2 2 100.0 0 3 3 4 0 1 2 4 -
+p73
+aVChris Mills CLE 04/10/1996 CLE @ ORL L 25 6 2 4 50.0 1 3 33.3 1 2 50.0 0 1 1 3 0 2 0 3 -
+p74
+aVChris Mills CLE 04/06/1996 CLE vs. CHH L 31 10 4 10 40.0 0 2 0.0 2 2 100.0 1 4 5 2 1 1 0 3 -
+p75
+aVDan Majerle CLE 04/06/1996 CLE vs. CHH L 34 21 8 14 57.1 5 10 50.0 0 0 - 2 6 8 3 1 0 0 0 -
+p76
+aVBobby Phills CLE 04/06/1996 CLE vs. CHH L 18 8 4 7 57.1 0 0 - 0 0 - 0 0 0 2 0 0 2 2 -
+p77
+aVTerrell Brandon CLE 04/06/1996 CLE vs. CHH L 35 18 5 11 45.5 1 3 33.3 7 9 77.8 0 1 1 10 3 0 1 3 -
+p78
+aVMichael Cage CLE 04/06/1996 CLE vs. CHH L 21 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 1 1 0 1 -
+p79
+aVBob Sura CLE 04/06/1996 CLE vs. CHH L 29 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 4 0 0 3 4 -
+p80
+aVTyrone Hill CLE 04/06/1996 CLE vs. CHH L 29 7 3 7 42.9 0 0 - 1 3 33.3 4 4 8 1 1 1 0 4 -
+p81
+aVDanny Ferry CLE 04/06/1996 CLE vs. CHH L 43 17 6 14 42.9 3 8 37.5 2 2 100.0 0 5 5 2 1 1 1 2 -
+p82
+aVTerrell Brandon CLE 04/04/1996 CLE @ TOR W 28 19 6 16 37.5 1 3 33.3 6 6 100.0 0 6 6 6 1 2 0 2 -
+p83
+aVDonny Marshall CLE 04/04/1996 CLE @ TOR W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p84
+aVJohn Crotty CLE 04/04/1996 CLE @ TOR W 5 3 0 0 - 0 0 - 3 3 100.0 0 1 1 1 0 0 0 0 -
+p85
+aVMichael Cage CLE 04/04/1996 CLE @ TOR W 19 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 1 0 2 -
+p86
+aVBob Sura CLE 04/04/1996 CLE @ TOR W 20 8 3 6 50.0 0 1 0.0 2 3 66.7 1 1 2 5 0 1 0 1 -
+p87
+aVDan Majerle CLE 04/04/1996 CLE @ TOR W 28 19 6 12 50.0 5 10 50.0 2 2 100.0 0 1 1 3 3 0 1 2 -
+p88
+aVTyrone Hill CLE 04/04/1996 CLE @ TOR W 25 4 2 2 100.0 0 0 - 0 0 - 3 4 7 1 3 0 2 3 -
+p89
+aVDarryl Johnson CLE 04/04/1996 CLE @ TOR W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p90
+aVBobby Phills CLE 04/04/1996 CLE @ TOR W 31 18 8 12 66.7 1 2 50.0 1 3 33.3 1 3 4 3 2 0 4 2 -
+p91
+aVChris Mills CLE 04/04/1996 CLE @ TOR W 33 16 6 10 60.0 0 0 - 4 4 100.0 4 6 10 0 1 1 0 3 -
+p92
+aVDanny Ferry CLE 04/04/1996 CLE @ TOR W 29 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 2 2 0 1 2 -
+p93
+aVAntonio Lang CLE 04/04/1996 CLE @ TOR W 16 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 2 5 -
+p94
+aVAntonio Lang CLE 04/03/1996 CLE vs. LAL W 14 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 3 2 -
+p95
+aVBob Sura CLE 04/03/1996 CLE vs. LAL W 16 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 5 1 1 0 1 -
+p96
+aVMichael Cage CLE 04/03/1996 CLE vs. LAL W 34 7 1 3 33.3 0 0 - 5 6 83.3 5 6 11 0 0 4 0 2 -
+p97
+aVTyrone Hill CLE 04/03/1996 CLE vs. LAL W 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p98
+aVDan Majerle CLE 04/03/1996 CLE vs. LAL W 17 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 2 1 0 0 3 -
+p99
+aVJohn Crotty CLE 04/03/1996 CLE vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p100
+aVDanny Ferry CLE 04/03/1996 CLE vs. LAL W 34 22 9 20 45.0 2 6 33.3 2 2 100.0 0 3 3 6 1 0 2 2 -
+p101
+aVDarryl Johnson CLE 04/03/1996 CLE vs. LAL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p102
+aVDonny Marshall CLE 04/03/1996 CLE vs. LAL W 1 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -
+p103
+aVChris Mills CLE 04/03/1996 CLE vs. LAL W 37 13 5 9 55.6 1 1 100.0 2 2 100.0 0 3 3 2 0 1 2 4 -
+p104
+aVBobby Phills CLE 04/03/1996 CLE vs. LAL W 39 17 6 11 54.5 3 5 60.0 2 2 100.0 4 3 7 6 4 1 1 0 -
+p105
+aVTerrell Brandon CLE 04/03/1996 CLE vs. LAL W 32 23 8 12 66.7 2 3 66.7 5 5 100.0 1 4 5 8 0 0 3 2 -
+p106
+aVAntonio Lang CLE 03/31/1996 CLE @ SAC L 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 1 1 -
+p107
+aVChris Mills CLE 03/31/1996 CLE @ SAC L 39 19 9 18 50.0 1 1 100.0 0 0 - 2 3 5 1 1 0 1 4 -
+p108
+aVDan Majerle CLE 03/31/1996 CLE @ SAC L 21 5 2 7 28.6 1 4 25.0 0 2 0.0 1 1 2 4 0 0 1 2 -
+p109
+aVBobby Phills CLE 03/31/1996 CLE @ SAC L 42 15 4 11 36.4 3 5 60.0 4 6 66.7 0 2 2 5 2 0 2 6 -
+p110
+aVTyrone Hill CLE 03/31/1996 CLE @ SAC L 33 16 7 10 70.0 0 0 - 2 8 25.0 7 2 9 1 2 1 2 6 -
+p111
+aVDanny Ferry CLE 03/31/1996 CLE @ SAC L 40 6 2 10 20.0 2 5 40.0 0 0 - 0 1 1 1 0 1 2 5 -
+p112
+aVBob Sura CLE 03/31/1996 CLE @ SAC L 18 9 4 7 57.1 0 1 0.0 1 2 50.0 1 3 4 6 3 0 1 2 -
+p113
+aVTerrell Brandon CLE 03/31/1996 CLE @ SAC L 32 20 8 16 50.0 1 2 50.0 3 4 75.0 0 1 1 5 3 0 2 3 -
+p114
+aVJohn Crotty CLE 03/31/1996 CLE @ SAC L 9 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -
+p115
+aVMichael Cage CLE 03/31/1996 CLE @ SAC L 25 2 1 6 16.7 0 0 - 0 0 - 5 6 11 0 0 1 0 3 -
+p116
+aVJohn Crotty CLE 03/30/1996 CLE @ GOS W 15 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 2 0 0 3 1 -
+p117
+aVMichael Cage CLE 03/30/1996 CLE @ GOS W 27 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 1 0 0 2 -
+p118
+aVChris Mills CLE 03/30/1996 CLE @ GOS W 33 12 4 8 50.0 0 1 0.0 4 4 100.0 1 3 4 3 0 0 2 3 -
+p119
+aVBob Sura CLE 03/30/1996 CLE @ GOS W 7 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 3 1 -
+p120
+aVAntonio Lang CLE 03/30/1996 CLE @ GOS W 17 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 1 1 0 4 -
+p121
+aVDan Majerle CLE 03/30/1996 CLE @ GOS W 23 6 2 7 28.6 1 4 25.0 1 2 50.0 0 5 5 3 2 0 0 1 -
+p122
+aVDonny Marshall CLE 03/30/1996 CLE @ GOS W 3 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 1 -
+p123
+aVTyrone Hill CLE 03/30/1996 CLE @ GOS W 21 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 1 0 0 2 4 -
+p124
+aVTerrell Brandon CLE 03/30/1996 CLE @ GOS W 30 20 7 13 53.8 0 3 0.0 6 6 100.0 0 5 5 7 4 0 3 1 -
+p125
+aVBobby Phills CLE 03/30/1996 CLE @ GOS W 30 16 7 10 70.0 1 2 50.0 1 3 33.3 1 2 3 5 2 1 1 0 -
+p126
+aVDanny Ferry CLE 03/30/1996 CLE @ GOS W 31 12 5 9 55.6 2 3 66.7 0 0 - 0 6 6 2 3 0 3 3 -
+p127
+aVDarryl Johnson CLE 03/30/1996 CLE @ GOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p128
+aVJohn Crotty CLE 03/28/1996 CLE @ LAC W 11 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -
+p129
+aVAntonio Lang CLE 03/28/1996 CLE @ LAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p130
+aVTerrell Brandon CLE 03/28/1996 CLE @ LAC W 37 17 8 13 61.5 1 2 50.0 0 1 0.0 1 4 5 6 3 0 0 3 -
+p131
+aVChris Mills CLE 03/28/1996 CLE @ LAC W 37 14 5 9 55.6 0 2 0.0 4 4 100.0 0 5 5 1 0 0 4 2 -
+p132
+aVDanny Ferry CLE 03/28/1996 CLE @ LAC W 31 6 3 10 30.0 0 1 0.0 0 0 - 1 0 1 1 1 0 3 2 -
+p133
+aVDan Majerle CLE 03/28/1996 CLE @ LAC W 22 11 4 9 44.4 1 3 33.3 2 2 100.0 1 1 2 2 0 0 1 1 -
+p134
+aVMichael Cage CLE 03/28/1996 CLE @ LAC W 35 8 4 8 50.0 0 0 - 0 0 - 3 8 11 0 1 0 0 1 -
+p135
+aVTyrone Hill CLE 03/28/1996 CLE @ LAC W 18 6 2 7 28.6 0 0 - 2 4 50.0 1 4 5 0 0 0 1 4 -
+p136
+aVBobby Phills CLE 03/28/1996 CLE @ LAC W 35 17 6 12 50.0 1 3 33.3 4 5 80.0 1 5 6 5 4 1 2 5 -
+p137
+aVBob Sura CLE 03/28/1996 CLE @ LAC W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 1 -
+p138
+aVChris Mills CLE 03/26/1996 CLE vs. WAS L 40 20 8 10 80.0 2 3 66.7 2 2 100.0 0 3 3 5 2 0 2 1 -
+p139
+aVTyrone Hill CLE 03/26/1996 CLE vs. WAS L 21 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 2 4 -
+p140
+aVBobby Phills CLE 03/26/1996 CLE vs. WAS L 34 5 2 6 33.3 1 3 33.3 0 0 - 0 4 4 2 0 0 4 3 -
+p141
+aVTerrell Brandon CLE 03/26/1996 CLE vs. WAS L 36 20 8 19 42.1 2 2 100.0 2 2 100.0 1 2 3 10 1 0 1 1 -
+p142
+aVBob Sura CLE 03/26/1996 CLE vs. WAS L 15 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 5 1 1 2 0 -
+p143
+aVDanny Ferry CLE 03/26/1996 CLE vs. WAS L 32 9 4 12 33.3 0 5 0.0 1 2 50.0 1 2 3 0 1 1 1 4 -
+p144
+aVAntonio Lang CLE 03/26/1996 CLE vs. WAS L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p145
+aVDan Majerle CLE 03/26/1996 CLE vs. WAS L 26 15 5 8 62.5 1 2 50.0 4 4 100.0 1 4 5 2 1 0 1 1 -
+p146
+aVMichael Cage CLE 03/26/1996 CLE vs. WAS L 27 6 3 6 50.0 0 0 - 0 0 - 1 6 7 1 2 0 1 3 -
+p147
+aVJohn Crotty CLE 03/24/1996 CLE vs. VAN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p148
+aVAntonio Lang CLE 03/24/1996 CLE vs. VAN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -
+p149
+aVMichael Cage CLE 03/24/1996 CLE vs. VAN W 31 6 2 2 100.0 0 0 - 2 4 50.0 4 10 14 3 1 1 0 2 -
+p150
+aVBobby Phills CLE 03/24/1996 CLE vs. VAN W 34 13 5 15 33.3 3 4 75.0 0 2 0.0 0 3 3 4 0 1 1 3 -
+p151
+aVTerrell Brandon CLE 03/24/1996 CLE vs. VAN W 37 15 6 17 35.3 0 2 0.0 3 3 100.0 1 4 5 10 3 2 3 1 -
+p152
+aVChris Mills CLE 03/24/1996 CLE vs. VAN W 33 14 4 8 50.0 0 2 0.0 6 6 100.0 2 4 6 1 0 1 0 4 -
+p153
+aVDan Majerle CLE 03/24/1996 CLE vs. VAN W 25 13 5 11 45.5 2 5 40.0 1 1 100.0 1 4 5 3 0 2 1 0 -
+p154
+aVTyrone Hill CLE 03/24/1996 CLE vs. VAN W 17 5 2 2 100.0 0 0 - 1 2 50.0 2 3 5 2 2 0 4 2 -
+p155
+aVBob Sura CLE 03/24/1996 CLE vs. VAN W 15 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 0 1 3 1 -
+p156
+aVDanny Ferry CLE 03/24/1996 CLE vs. VAN W 38 22 8 15 53.3 2 5 40.0 4 4 100.0 3 4 7 0 2 0 3 3 -
+p157
+aVBobby Phills CLE 03/22/1996 CLE @ UTH L 25 6 3 10 30.0 0 0 - 0 0 - 0 1 1 4 0 0 0 3 -
+p158
+aVDan Majerle CLE 03/22/1996 CLE @ UTH L 32 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 3 1 0 0 2 -
+p159
+aVDanny Ferry CLE 03/22/1996 CLE @ UTH L 28 11 3 9 33.3 3 7 42.9 2 2 100.0 2 3 5 1 1 1 0 4 -
+p160
+aVTyrone Hill CLE 03/22/1996 CLE @ UTH L 26 11 5 10 50.0 0 0 - 1 2 50.0 8 3 11 0 3 1 4 3 -
+p161
+aVAntonio Lang CLE 03/22/1996 CLE @ UTH L 18 4 1 3 33.3 0 0 - 2 2 100.0 3 2 5 1 2 1 3 4 -
+p162
+aVBob Sura CLE 03/22/1996 CLE @ UTH L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p163
+aVDonny Marshall CLE 03/22/1996 CLE @ UTH L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p164
+aVDarryl Johnson CLE 03/22/1996 CLE @ UTH L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p165
+aVTerrell Brandon CLE 03/22/1996 CLE @ UTH L 36 22 5 14 35.7 0 3 0.0 12 14 85.7 1 3 4 5 2 0 1 2 -
+p166
+aVJohn Crotty CLE 03/22/1996 CLE @ UTH L 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -
+p167
+aVChris Mills CLE 03/22/1996 CLE @ UTH L 36 8 3 10 30.0 0 2 0.0 2 2 100.0 1 2 3 0 1 1 0 1 -
+p168
+aVMichael Cage CLE 03/22/1996 CLE @ UTH L 22 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 0 1 1 -
+p169
+aVChris Mills CLE 03/21/1996 CLE @ HOU W 38 17 7 14 50.0 0 3 0.0 3 3 100.0 0 4 4 5 3 0 1 5 -
+p170
+aVDarryl Johnson CLE 03/21/1996 CLE @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p171
+aVDonny Marshall CLE 03/21/1996 CLE @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p172
+aVBobby Phills CLE 03/21/1996 CLE @ HOU W 27 14 7 10 70.0 0 1 0.0 0 2 0.0 0 1 1 4 2 0 2 1 -
+p173
+aVAntonio Lang CLE 03/21/1996 CLE @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p174
+aVTyrone Hill CLE 03/21/1996 CLE @ HOU W 24 17 7 7 100.0 0 0 - 3 3 100.0 0 3 3 2 0 0 1 5 -
+p175
+aVDan Majerle CLE 03/21/1996 CLE @ HOU W 39 8 2 4 50.0 0 2 0.0 4 4 100.0 0 4 4 6 1 1 2 0 -
+p176
+aVMichael Cage CLE 03/21/1996 CLE @ HOU W 23 2 1 2 50.0 0 0 - 0 0 - 2 6 8 1 0 0 2 2 -
+p177
+aVDanny Ferry CLE 03/21/1996 CLE @ HOU W 35 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 7 1 0 1 2 -
+p178
+aVBob Sura CLE 03/21/1996 CLE @ HOU W 17 8 2 3 66.7 0 0 - 4 5 80.0 0 2 2 2 0 0 1 2 -
+p179
+aVTerrell Brandon CLE 03/21/1996 CLE @ HOU W 34 27 9 15 60.0 1 2 50.0 8 10 80.0 0 3 3 3 2 0 1 3 -
+p180
+aVBobby Phills CLE 03/19/1996 CLE @ DAL W 20 12 3 8 37.5 0 0 - 6 6 100.0 2 1 3 2 2 1 2 4 -
+p181
+aVMichael Cage CLE 03/19/1996 CLE @ DAL W 27 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -
+p182
+aVTerrell Brandon CLE 03/19/1996 CLE @ DAL W 33 14 4 14 28.6 1 1 100.0 5 6 83.3 3 6 9 4 2 0 1 4 -
+p183
+aVBob Sura CLE 03/19/1996 CLE @ DAL W 16 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 2 2 1 4 1 -
+p184
+aVDonny Marshall CLE 03/19/1996 CLE @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p185
+aVAntonio Lang CLE 03/19/1996 CLE @ DAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p186
+aVDanny Ferry CLE 03/19/1996 CLE @ DAL W 37 24 8 11 72.7 6 7 85.7 2 3 66.7 0 6 6 1 0 1 2 2 -
+p187
+aVTyrone Hill CLE 03/19/1996 CLE @ DAL W 20 4 1 3 33.3 0 0 - 2 4 50.0 1 3 4 1 1 2 2 0 -
+p188
+aVDan Majerle CLE 03/19/1996 CLE @ DAL W 40 10 4 16 25.0 1 8 12.5 1 2 50.0 2 8 10 5 2 1 0 2 -
+p189
+aVChris Mills CLE 03/19/1996 CLE @ DAL W 41 9 4 6 66.7 1 1 100.0 0 0 - 1 5 6 0 1 1 2 2 -
+p190
+aVDonny Marshall CLE 03/17/1996 CLE vs. SAC W 7 3 0 4 0.0 0 1 0.0 3 4 75.0 1 1 2 0 0 1 0 4 -
+p191
+aVDanny Ferry CLE 03/17/1996 CLE vs. SAC W 31 16 5 10 50.0 3 4 75.0 3 4 75.0 0 0 0 2 0 0 1 3 -
+p192
+aVMichael Cage CLE 03/17/1996 CLE vs. SAC W 31 9 3 4 75.0 0 0 - 3 4 75.0 1 5 6 3 1 2 0 1 -
+p193
+aVDan Majerle CLE 03/17/1996 CLE vs. SAC W 35 17 6 14 42.9 4 8 50.0 1 1 100.0 1 3 4 5 2 2 1 3 -
+p194
+aVBob Sura CLE 03/17/1996 CLE vs. SAC W 31 13 4 9 44.4 1 3 33.3 4 4 100.0 1 6 7 7 3 3 1 3 -
+p195
+aVDarryl Johnson CLE 03/17/1996 CLE vs. SAC W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p196
+aVJohn Crotty CLE 03/17/1996 CLE vs. SAC W 19 8 1 2 50.0 0 0 - 6 6 100.0 2 2 4 1 1 1 0 2 -
+p197
+aVTerrell Brandon CLE 03/17/1996 CLE vs. SAC W 29 26 10 16 62.5 2 3 66.7 4 4 100.0 1 1 2 5 1 3 1 2 -
+p198
+aVTyrone Hill CLE 03/17/1996 CLE vs. SAC W 17 10 3 5 60.0 0 0 - 4 7 57.1 3 2 5 2 0 0 1 5 -
+p199
+aVAntonio Lang CLE 03/17/1996 CLE vs. SAC W 6 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -
+p200
+aVChris Mills CLE 03/17/1996 CLE vs. SAC W 29 11 4 8 50.0 0 0 - 3 3 100.0 0 4 4 0 1 0 0 2 -
+p201
+aVBob Sura CLE 03/15/1996 CLE @ DET L 28 9 4 8 50.0 1 2 50.0 0 1 0.0 2 1 3 5 2 0 2 0 -
+p202
+aVDanny Ferry CLE 03/15/1996 CLE @ DET L 42 12 4 9 44.4 0 3 0.0 4 5 80.0 2 3 5 0 0 0 1 2 -
+p203
+aVJohn Crotty CLE 03/15/1996 CLE @ DET L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p204
+aVMichael Cage CLE 03/15/1996 CLE @ DET L 30 6 3 6 50.0 0 0 - 0 0 - 1 7 8 1 1 1 2 2 -
+p205
+aVTerrell Brandon CLE 03/15/1996 CLE @ DET L 39 22 9 20 45.0 0 3 0.0 4 6 66.7 1 3 4 5 3 1 3 1 -
+p206
+aVDan Majerle CLE 03/15/1996 CLE @ DET L 29 4 2 11 18.2 0 5 0.0 0 0 - 4 5 9 1 1 1 1 5 -
+p207
+aVTyrone Hill CLE 03/15/1996 CLE @ DET L 18 2 0 3 0.0 0 0 - 2 2 100.0 1 4 5 1 0 0 1 1 -
+p208
+aVDonny Marshall CLE 03/15/1996 CLE @ DET L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -
+p209
+aVChris Mills CLE 03/15/1996 CLE @ DET L 47 11 5 12 41.7 0 3 0.0 1 2 50.0 1 5 6 3 2 0 1 4 -
+p210
+aVBob Sura CLE 03/14/1996 CLE vs. BOS W 29 11 4 13 30.8 1 3 33.3 2 2 100.0 2 0 2 10 0 1 2 2 -
+p211
+aVDonny Marshall CLE 03/14/1996 CLE vs. BOS W 25 5 1 5 20.0 0 2 0.0 3 6 50.0 2 0 2 0 0 0 2 2 -
+p212
+aVChris Mills CLE 03/14/1996 CLE vs. BOS W 39 30 11 14 78.6 2 2 100.0 6 6 100.0 1 4 5 0 0 0 0 1 -
+p213
+aVDanny Ferry CLE 03/14/1996 CLE vs. BOS W 28 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 2 1 2 2 2 -
+p214
+aVDan Majerle CLE 03/14/1996 CLE vs. BOS W 32 21 8 15 53.3 5 8 62.5 0 1 0.0 1 3 4 3 4 2 1 0 -
+p215
+aVJohn Crotty CLE 03/14/1996 CLE vs. BOS W 31 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 11 3 1 1 4 -
+p216
+aVMichael Cage CLE 03/14/1996 CLE vs. BOS W 22 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 2 2 0 1 -
+p217
+aVTyrone Hill CLE 03/14/1996 CLE vs. BOS W 26 12 5 11 45.5 0 0 - 2 3 66.7 3 8 11 0 0 3 1 4 -
+p218
+aVDarryl Johnson CLE 03/14/1996 CLE vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p219
+aVAntonio Lang CLE 03/14/1996 CLE vs. BOS W 4 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 0 -
+p220
+aVDonny Marshall CLE 03/10/1996 CLE @ MIA L 27 8 3 6 50.0 0 3 0.0 2 2 100.0 0 3 3 0 0 0 0 0 -
+p221
+aVDarryl Johnson CLE 03/10/1996 CLE @ MIA L 2 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p222
+aVTyrone Hill CLE 03/10/1996 CLE @ MIA L 22 12 4 7 57.1 0 0 - 4 4 100.0 1 5 6 1 0 0 1 4 -
+p223
+aVMichael Cage CLE 03/10/1996 CLE @ MIA L 25 2 1 2 50.0 0 1 0.0 0 0 - 4 1 5 0 2 0 0 2 -
+p224
+aVChris Mills CLE 03/10/1996 CLE @ MIA L 43 11 4 13 30.8 1 1 100.0 2 2 100.0 1 3 4 1 0 0 1 6 -
+p225
+aVDan Majerle CLE 03/10/1996 CLE @ MIA L 40 11 4 16 25.0 0 4 0.0 3 4 75.0 1 4 5 2 5 0 2 2 -
+p226
+aVJohn Crotty CLE 03/10/1996 CLE @ MIA L 10 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 -
+p227
+aVBob Sura CLE 03/10/1996 CLE @ MIA L 36 18 7 12 58.3 1 3 33.3 3 4 75.0 0 5 5 5 4 0 4 3 -
+p228
+aVDanny Ferry CLE 03/10/1996 CLE @ MIA L 35 15 6 11 54.5 1 3 33.3 2 4 50.0 0 3 3 1 0 0 1 4 -
+p229
+aVChris Mills CLE 03/08/1996 CLE @ BOS W 45 22 7 10 70.0 1 2 50.0 7 8 87.5 0 6 6 3 0 0 2 1 -
+p230
+aVAntonio Lang CLE 03/08/1996 CLE @ BOS W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p231
+aVTyrone Hill CLE 03/08/1996 CLE @ BOS W 19 12 4 8 50.0 0 0 - 4 4 100.0 3 2 5 0 0 0 2 3 -
+p232
+aVBob Sura CLE 03/08/1996 CLE @ BOS W 30 12 4 11 36.4 1 2 50.0 3 4 75.0 1 7 8 5 0 1 3 2 -
+p233
+aVDan Majerle CLE 03/08/1996 CLE @ BOS W 43 17 7 15 46.7 2 6 33.3 1 2 50.0 1 5 6 5 0 0 3 2 -
+p234
+aVMichael Cage CLE 03/08/1996 CLE @ BOS W 28 5 2 5 40.0 0 0 - 1 2 50.0 4 2 6 1 1 2 1 2 -
+p235
+aVDonny Marshall CLE 03/08/1996 CLE @ BOS W 21 8 3 6 50.0 0 1 0.0 2 4 50.0 0 3 3 1 3 0 1 1 -
+p236
+aVJohn Crotty CLE 03/08/1996 CLE @ BOS W 18 4 2 2 100.0 0 0 - 0 0 - 0 1 1 4 1 0 0 3 -
+p237
+aVDanny Ferry CLE 03/08/1996 CLE @ BOS W 31 16 6 10 60.0 2 3 66.7 2 2 100.0 0 2 2 3 1 0 0 3 -
+p238
+aVMichael Cage CLE 03/07/1996 CLE vs. ATL L 30 2 1 3 33.3 0 0 - 0 0 - 4 6 10 0 3 2 0 2 -
+p239
+aVBob Sura CLE 03/07/1996 CLE vs. ATL L 35 19 6 12 50.0 2 4 50.0 5 6 83.3 0 3 3 8 1 0 5 3 -
+p240
+aVDanny Ferry CLE 03/07/1996 CLE vs. ATL L 43 7 2 9 22.2 1 5 20.0 2 3 66.7 2 4 6 4 0 0 1 4 -
+p241
+aVAntonio Lang CLE 03/07/1996 CLE vs. ATL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -
+p242
+aVTyrone Hill CLE 03/07/1996 CLE vs. ATL L 21 12 5 8 62.5 0 0 - 2 5 40.0 1 3 4 0 0 0 2 2 -
+p243
+aVDan Majerle CLE 03/07/1996 CLE vs. ATL L 48 24 8 14 57.1 6 10 60.0 2 2 100.0 3 4 7 4 1 2 6 1 -
+p244
+aVDarryl Johnson CLE 03/07/1996 CLE vs. ATL L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p245
+aVJohn Crotty CLE 03/07/1996 CLE vs. ATL L 9 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p246
+aVChris Mills CLE 03/07/1996 CLE vs. ATL L 46 4 2 15 13.3 0 4 0.0 0 0 - 0 1 1 4 1 0 2 1 -
+p247
+aVDan Majerle CLE 03/05/1996 CLE vs. SEA L 58 24 7 19 36.8 6 13 46.2 4 6 66.7 2 7 9 8 3 1 0 2 -
+p248
+aVTyrone Hill CLE 03/05/1996 CLE vs. SEA L 41 13 4 7 57.1 0 0 - 5 6 83.3 4 4 8 2 1 0 5 5 -
+p249
+aVChris Mills CLE 03/05/1996 CLE vs. SEA L 58 17 6 20 30.0 2 5 40.0 3 6 50.0 2 5 7 4 0 0 3 5 -
+p250
+aVDanny Ferry CLE 03/05/1996 CLE vs. SEA L 37 23 7 11 63.6 6 8 75.0 3 3 100.0 0 2 2 3 0 1 2 6 -
+p251
+aVBob Sura CLE 03/05/1996 CLE vs. SEA L 38 12 5 11 45.5 2 4 50.0 0 1 0.0 2 3 5 8 0 0 3 6 -
+p252
+aVJohn Crotty CLE 03/05/1996 CLE vs. SEA L 20 4 2 7 28.6 0 2 0.0 0 0 - 1 1 2 1 0 0 2 3 -
+p253
+aVAntonio Lang CLE 03/05/1996 CLE vs. SEA L 18 6 2 6 33.3 0 0 - 2 3 66.7 0 1 1 0 1 1 0 2 -
+p254
+aVMichael Cage CLE 03/05/1996 CLE vs. SEA L 20 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -
+p255
+aVBob Sura CLE 03/03/1996 CLE vs. TOR L 18 8 2 5 40.0 0 0 - 4 4 100.0 0 1 1 3 2 1 2 2 -
+p256
+aVDan Majerle CLE 03/03/1996 CLE vs. TOR L 46 22 9 20 45.0 2 7 28.6 2 3 66.7 1 1 2 3 0 2 3 2 -
+p257
+aVTyrone Hill CLE 03/03/1996 CLE vs. TOR L 24 19 6 7 85.7 0 0 - 7 10 70.0 4 4 8 0 2 0 1 2 -
+p258
+aVJohn Crotty CLE 03/03/1996 CLE vs. TOR L 32 8 3 9 33.3 0 2 0.0 2 2 100.0 1 0 1 6 2 0 4 3 -
+p259
+aVDanny Ferry CLE 03/03/1996 CLE vs. TOR L 44 8 3 10 30.0 1 5 20.0 1 1 100.0 0 5 5 3 2 1 3 2 -
+p260
+aVMichael Cage CLE 03/03/1996 CLE vs. TOR L 24 0 0 3 0.0 0 0 - 0 0 - 2 4 6 1 0 0 1 1 -
+p261
+aVAntonio Lang CLE 03/03/1996 CLE vs. TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p262
+aVChris Mills CLE 03/03/1996 CLE vs. TOR L 48 24 9 15 60.0 0 4 0.0 6 8 75.0 1 0 1 2 1 2 1 2 -
+p263
+aVDan Majerle CLE 03/01/1996 CLE @ ATL L 45 9 4 16 25.0 1 9 11.1 0 0 - 3 3 6 4 2 0 2 2 -
+p264
+aVDanny Ferry CLE 03/01/1996 CLE @ ATL L 36 9 4 13 30.8 1 6 16.7 0 2 0.0 2 3 5 2 0 0 1 3 -
+p265
+aVMichael Cage CLE 03/01/1996 CLE @ ATL L 32 0 0 4 0.0 0 0 - 0 0 - 5 8 13 0 2 0 0 3 -
+p266
+aVAntonio Lang CLE 03/01/1996 CLE @ ATL L 13 7 2 2 100.0 0 0 - 3 3 100.0 0 1 1 1 0 0 0 0 -
+p267
+aVChris Mills CLE 03/01/1996 CLE @ ATL L 48 26 9 18 50.0 3 5 60.0 5 6 83.3 2 8 10 3 2 1 2 4 -
+p268
+aVBob Sura CLE 03/01/1996 CLE @ ATL L 24 8 4 11 36.4 0 4 0.0 0 0 - 0 6 6 3 0 0 3 5 -
+p269
+aVTyrone Hill CLE 03/01/1996 CLE @ ATL L 15 3 1 4 25.0 0 0 - 1 2 50.0 0 5 5 1 0 0 1 1 -
+p270
+aVJohn Crotty CLE 03/01/1996 CLE @ ATL L 27 6 2 6 33.3 0 3 0.0 2 2 100.0 1 1 2 2 0 0 2 2 -
+p271
+aVTyrone Hill CLE 02/29/1996 CLE @ MIL W 25 7 3 5 60.0 0 0 - 1 3 33.3 3 3 6 1 1 2 0 5 -
+p272
+aVBob Sura CLE 02/29/1996 CLE @ MIL W 23 12 5 9 55.6 1 1 100.0 1 3 33.3 0 0 0 5 3 0 2 0 -
+p273
+aVDanny Ferry CLE 02/29/1996 CLE @ MIL W 30 6 2 8 25.0 1 3 33.3 1 2 50.0 3 3 6 1 0 0 2 3 -
+p274
+aVMichael Cage CLE 02/29/1996 CLE @ MIL W 26 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p275
+aVBobby Phills CLE 02/29/1996 CLE @ MIL W 10 6 2 5 40.0 0 1 0.0 2 2 100.0 1 2 3 1 0 1 0 0 -
+p276
+aVTerrell Brandon CLE 02/29/1996 CLE @ MIL W 13 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -
+p277
+aVDan Majerle CLE 02/29/1996 CLE @ MIL W 40 16 4 9 44.4 3 6 50.0 5 6 83.3 2 5 7 3 0 0 1 1 -
+p278
+aVChris Mills CLE 02/29/1996 CLE @ MIL W 38 15 5 9 55.6 2 3 66.7 3 4 75.0 0 5 5 2 1 1 2 3 -
+p279
+aVJohn Crotty CLE 02/29/1996 CLE @ MIL W 24 19 4 5 80.0 2 2 100.0 9 10 90.0 0 1 1 5 1 0 3 2 -
+p280
+aVAntonio Lang CLE 02/29/1996 CLE @ MIL W 11 6 2 4 50.0 0 0 - 2 3 66.7 0 2 2 2 0 0 0 1 -
+p281
+aVMichael Cage CLE 02/27/1996 CLE vs. GOS W 32 9 4 9 44.4 0 0 - 1 2 50.0 6 8 14 0 2 0 0 3 -
+p282
+aVBobby Phills CLE 02/27/1996 CLE vs. GOS W 34 8 4 11 36.4 0 2 0.0 0 0 - 0 0 0 6 1 0 0 4 -
+p283
+aVTerrell Brandon CLE 02/27/1996 CLE vs. GOS W 35 15 6 14 42.9 3 5 60.0 0 0 - 0 1 1 4 1 1 3 3 -
+p284
+aVJohn Crotty CLE 02/27/1996 CLE vs. GOS W 13 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 2 1 -
+p285
+aVDan Majerle CLE 02/27/1996 CLE vs. GOS W 32 15 4 9 44.4 1 4 25.0 6 6 100.0 1 9 10 3 1 1 0 1 -
+p286
+aVChris Mills CLE 02/27/1996 CLE vs. GOS W 30 9 3 8 37.5 1 2 50.0 2 3 66.7 0 2 2 4 1 1 1 2 -
+p287
+aVTyrone Hill CLE 02/27/1996 CLE vs. GOS W 15 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 1 3 -
+p288
+aVBob Sura CLE 02/27/1996 CLE vs. GOS W 10 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -
+p289
+aVDanny Ferry CLE 02/27/1996 CLE vs. GOS W 39 24 10 15 66.7 3 6 50.0 1 1 100.0 1 1 2 4 1 0 3 3 -
+p290
+aVBobby Phills CLE 02/24/1996 CLE vs. NJN W 38 11 5 16 31.3 1 6 16.7 0 0 - 3 4 7 7 3 0 3 2 -
+p291
+aVDanny Ferry CLE 02/24/1996 CLE vs. NJN W 36 23 8 13 61.5 5 8 62.5 2 2 100.0 1 3 4 4 0 0 0 2 -
+p292
+aVMichael Cage CLE 02/24/1996 CLE vs. NJN W 23 6 3 3 100.0 0 0 - 0 0 - 3 1 4 0 2 1 0 2 -
+p293
+aVTerrell Brandon CLE 02/24/1996 CLE vs. NJN W 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 4 0 1 0 0 -
+p294
+aVJohn Crotty CLE 02/24/1996 CLE vs. NJN W 19 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 1 0 3 3 -
+p295
+aVDan Majerle CLE 02/24/1996 CLE vs. NJN W 26 12 4 7 57.1 4 7 57.1 0 0 - 1 5 6 5 0 0 0 2 -
+p296
+aVChris Mills CLE 02/24/1996 CLE vs. NJN W 35 21 7 12 58.3 3 4 75.0 4 4 100.0 1 4 5 3 0 0 1 2 -
+p297
+aVBob Sura CLE 02/24/1996 CLE vs. NJN W 17 10 1 4 25.0 0 1 0.0 8 10 80.0 1 2 3 3 1 3 1 1 -
+p298
+aVDonny Marshall CLE 02/24/1996 CLE vs. NJN W 4 6 2 3 66.7 1 2 50.0 1 3 33.3 0 1 1 0 0 0 0 1 -
+p299
+aVTyrone Hill CLE 02/24/1996 CLE vs. NJN W 25 8 3 10 30.0 0 0 - 2 4 50.0 2 4 6 1 0 1 0 3 -
+p300
+aVAntonio Lang CLE 02/24/1996 CLE vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p301
+aVTyrone Hill CLE 02/22/1996 CLE vs. HOU L 14 5 2 4 50.0 0 0 - 1 1 100.0 1 2 3 2 0 0 1 1 -
+p302
+aVDanny Ferry CLE 02/22/1996 CLE vs. HOU L 43 17 6 13 46.2 2 4 50.0 3 3 100.0 1 4 5 3 0 0 4 1 -
+p303
+aVJohn Crotty CLE 02/22/1996 CLE vs. HOU L 14 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 2 0 1 1 2 -
+p304
+aVBob Sura CLE 02/22/1996 CLE vs. HOU L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -
+p305
+aVMichael Cage CLE 02/22/1996 CLE vs. HOU L 36 4 1 4 25.0 0 0 - 2 2 100.0 2 7 9 0 1 1 0 4 -
+p306
+aVChris Mills CLE 02/22/1996 CLE vs. HOU L 28 1 0 6 0.0 0 2 0.0 1 2 50.0 2 3 5 1 3 0 1 2 -
+p307
+aVTerrell Brandon CLE 02/22/1996 CLE vs. HOU L 34 28 9 17 52.9 1 4 25.0 9 9 100.0 0 1 1 4 2 1 1 4 -
+p308
+aVAntonio Lang CLE 02/22/1996 CLE vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p309
+aVDan Majerle CLE 02/22/1996 CLE vs. HOU L 28 5 1 6 16.7 1 3 33.3 2 2 100.0 2 4 6 2 1 0 3 3 -
+p310
+aVBobby Phills CLE 02/22/1996 CLE vs. HOU L 35 14 6 13 46.2 1 4 25.0 1 1 100.0 1 4 5 3 0 0 1 2 -
+p311
+aVBobby Phills CLE 02/20/1996 CLE @ CHI L 29 5 2 7 28.6 1 1 100.0 0 0 - 1 1 2 2 0 0 0 2 -
+p312
+aVChris Mills CLE 02/20/1996 CLE @ CHI L 32 11 4 11 36.4 0 1 0.0 3 3 100.0 2 3 5 0 2 0 3 4 -
+p313
+aVAntonio Lang CLE 02/20/1996 CLE @ CHI L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 1 0 1 1 -
+p314
+aVDan Majerle CLE 02/20/1996 CLE @ CHI L 32 7 2 7 28.6 1 5 20.0 2 2 100.0 1 2 3 6 1 0 0 3 -
+p315
+aVTyrone Hill CLE 02/20/1996 CLE @ CHI L 20 8 4 8 50.0 0 0 - 0 0 - 2 4 6 0 0 0 1 3 -
+p316
+aVTerrell Brandon CLE 02/20/1996 CLE @ CHI L 34 21 7 15 46.7 3 5 60.0 4 5 80.0 0 2 2 4 1 0 4 1 -
+p317
+aVBob Sura CLE 02/20/1996 CLE @ CHI L 15 7 2 5 40.0 1 1 100.0 2 4 50.0 0 3 3 0 0 0 1 5 -
+p318
+aVHarold Miner CLE 02/20/1996 CLE @ CHI L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -
+p319
+aVDonny Marshall CLE 02/20/1996 CLE @ CHI L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p320
+aVMichael Cage CLE 02/20/1996 CLE @ CHI L 23 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 2 0 2 -
+p321
+aVJohn Crotty CLE 02/20/1996 CLE @ CHI L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 3 -
+p322
+aVDanny Ferry CLE 02/20/1996 CLE @ CHI L 30 13 6 10 60.0 1 5 20.0 0 0 - 0 6 6 0 0 1 0 1 -
+p323
+aVDanny Ferry CLE 02/19/1996 CLE vs. MIA W 40 19 8 18 44.4 2 7 28.6 1 2 50.0 2 3 5 2 0 2 2 5 -
+p324
+aVChris Mills CLE 02/19/1996 CLE vs. MIA W 41 6 3 11 27.3 0 1 0.0 0 0 - 2 5 7 2 0 2 1 3 -
+p325
+aVTyrone Hill CLE 02/19/1996 CLE vs. MIA W 16 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 2 -
+p326
+aVBob Sura CLE 02/19/1996 CLE vs. MIA W 19 7 3 4 75.0 1 1 100.0 0 0 - 2 1 3 3 0 0 1 2 -
+p327
+aVMichael Cage CLE 02/19/1996 CLE vs. MIA W 37 2 0 4 0.0 0 0 - 2 4 50.0 6 8 14 1 1 1 2 5 -
+p328
+aVJohn Crotty CLE 02/19/1996 CLE vs. MIA W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -
+p329
+aVDan Majerle CLE 02/19/1996 CLE vs. MIA W 39 12 4 11 36.4 4 9 44.4 0 0 - 0 6 6 4 1 0 2 2 -
+p330
+aVTerrell Brandon CLE 02/19/1996 CLE vs. MIA W 35 27 9 17 52.9 2 4 50.0 7 8 87.5 0 2 2 7 0 0 3 1 -
+p331
+aVJohn Crotty CLE 02/17/1996 CLE vs. PHL W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -
+p332
+aVBobby Phills CLE 02/17/1996 CLE vs. PHL W 35 10 5 10 50.0 0 2 0.0 0 0 - 1 2 3 6 2 0 4 2 -
+p333
+aVMichael Cage CLE 02/17/1996 CLE vs. PHL W 29 2 1 2 50.0 0 0 - 0 0 - 3 4 7 0 1 3 1 2 -
+p334
+aVTerrell Brandon CLE 02/17/1996 CLE vs. PHL W 36 25 8 13 61.5 2 4 50.0 7 8 87.5 0 5 5 9 1 0 0 1 -
+p335
+aVTyrone Hill CLE 02/17/1996 CLE vs. PHL W 21 13 5 9 55.6 0 0 - 3 4 75.0 2 7 9 2 1 2 1 5 -
+p336
+aVDanny Ferry CLE 02/17/1996 CLE vs. PHL W 35 15 7 16 43.8 1 5 20.0 0 0 - 0 3 3 4 1 1 0 1 -
+p337
+aVDan Majerle CLE 02/17/1996 CLE vs. PHL W 31 15 5 10 50.0 4 8 50.0 1 2 50.0 1 0 1 2 0 1 2 2 -
+p338
+aVChris Mills CLE 02/17/1996 CLE vs. PHL W 41 17 5 8 62.5 3 4 75.0 4 4 100.0 0 6 6 3 1 1 2 4 -
+p339
+aVChris Mills CLE 02/15/1996 CLE @ TOR W 42 16 8 16 50.0 0 1 0.0 0 0 - 3 5 8 7 2 1 2 3 -
+p340
+aVDan Majerle CLE 02/15/1996 CLE @ TOR W 21 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 0 -
+p341
+aVBobby Phills CLE 02/15/1996 CLE @ TOR W 39 19 7 12 58.3 2 4 50.0 3 4 75.0 2 6 8 2 2 0 3 2 -
+p342
+aVJohn Crotty CLE 02/15/1996 CLE @ TOR W 15 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -
+p343
+aVDanny Ferry CLE 02/15/1996 CLE @ TOR W 32 15 6 10 60.0 1 2 50.0 2 2 100.0 1 5 6 0 3 1 2 4 -
+p344
+aVDonny Marshall CLE 02/15/1996 CLE @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p345
+aVMichael Cage CLE 02/15/1996 CLE @ TOR W 34 6 3 4 75.0 0 0 - 0 0 - 2 5 7 0 0 1 1 5 -
+p346
+aVBob Sura CLE 02/15/1996 CLE @ TOR W 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 -
+p347
+aVAntonio Lang CLE 02/15/1996 CLE @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p348
+aVTyrone Hill CLE 02/15/1996 CLE @ TOR W 13 5 2 4 50.0 0 0 - 1 3 33.3 1 1 2 0 0 0 2 1 -
+p349
+aVTerrell Brandon CLE 02/15/1996 CLE @ TOR W 33 20 7 13 53.8 2 4 50.0 4 4 100.0 0 2 2 7 3 0 1 2 -
+p350
+aVBobby Phills CLE 02/13/1996 CLE vs. CHH W 41 21 8 15 53.3 3 3 100.0 2 2 100.0 2 5 7 5 1 0 2 3 -
+p351
+aVMichael Cage CLE 02/13/1996 CLE vs. CHH W 26 0 0 0 - 0 0 - 0 1 0.0 2 4 6 1 1 0 1 2 -
+p352
+aVDan Majerle CLE 02/13/1996 CLE vs. CHH W 32 14 5 11 45.5 2 6 33.3 2 2 100.0 2 1 3 5 1 0 0 1 -
+p353
+aVJohn Crotty CLE 02/13/1996 CLE vs. CHH W 14 5 1 2 50.0 0 0 - 3 4 75.0 0 3 3 5 1 0 2 1 -
+p354
+aVBob Sura CLE 02/13/1996 CLE vs. CHH W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -
+p355
+aVChris Mills CLE 02/13/1996 CLE vs. CHH W 26 14 4 9 44.4 1 3 33.3 5 6 83.3 2 5 7 5 0 2 1 4 -
+p356
+aVTyrone Hill CLE 02/13/1996 CLE vs. CHH W 21 6 3 5 60.0 0 0 - 0 0 - 2 4 6 1 1 0 1 4 -
+p357
+aVDanny Ferry CLE 02/13/1996 CLE vs. CHH W 38 31 11 20 55.0 8 10 80.0 1 2 50.0 1 3 4 5 0 1 1 2 -
+p358
+aVAntonio Lang CLE 02/13/1996 CLE vs. CHH W 6 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -
+p359
+aVTerrell Brandon CLE 02/13/1996 CLE vs. CHH W 33 17 8 14 57.1 0 2 0.0 1 1 100.0 1 3 4 7 1 0 4 4 -
+p360
+aVBob Sura CLE 02/06/1996 CLE vs. BOS W 17 8 2 6 33.3 0 1 0.0 4 5 80.0 0 1 1 3 1 1 1 1 -
+p361
+aVHarold Miner CLE 02/06/1996 CLE vs. BOS W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -
+p362
+aVDan Majerle CLE 02/06/1996 CLE vs. BOS W 23 16 6 10 60.0 2 6 33.3 2 3 66.7 1 3 4 3 0 3 2 0 -
+p363
+aVDonny Marshall CLE 02/06/1996 CLE vs. BOS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p364
+aVTerrell Brandon CLE 02/06/1996 CLE vs. BOS W 30 16 6 15 40.0 2 4 50.0 2 2 100.0 1 3 4 4 2 1 1 1 -
+p365
+aVMichael Cage CLE 02/06/1996 CLE vs. BOS W 28 2 1 1 100.0 0 0 - 0 0 - 4 9 13 0 0 1 0 1 -
+p366
+aVJohn Crotty CLE 02/06/1996 CLE vs. BOS W 18 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 1 1 3 -
+p367
+aVTyrone Hill CLE 02/06/1996 CLE vs. BOS W 17 2 0 5 0.0 0 0 - 2 4 50.0 3 1 4 2 2 1 0 3 -
+p368
+aVDanny Ferry CLE 02/06/1996 CLE vs. BOS W 23 10 4 12 33.3 2 6 33.3 0 0 - 1 1 2 3 2 1 0 1 -
+p369
+aVBobby Phills CLE 02/06/1996 CLE vs. BOS W 28 21 6 12 50.0 1 3 33.3 8 10 80.0 0 1 1 2 2 0 1 3 -
+p370
+aVChris Mills CLE 02/06/1996 CLE vs. BOS W 38 11 4 14 28.6 1 4 25.0 2 2 100.0 4 8 12 3 1 0 0 1 -
+p371
+aVAntonio Lang CLE 02/06/1996 CLE vs. BOS W 12 5 1 2 50.0 0 0 - 3 3 100.0 0 1 1 0 1 0 1 4 -
+p372
+aVDanny Ferry CLE 02/03/1996 CLE @ MIL W 24 8 3 4 75.0 2 3 66.7 0 0 - 0 4 4 4 0 0 0 2 -
+p373
+aVChris Mills CLE 02/03/1996 CLE @ MIL W 33 15 4 9 44.4 2 4 50.0 5 6 83.3 2 3 5 1 0 1 2 0 -
+p374
+aVJohn Crotty CLE 02/03/1996 CLE @ MIL W 24 5 0 2 0.0 0 0 - 5 5 100.0 1 1 2 7 2 0 1 1 -
+p375
+aVTerrell Brandon CLE 02/03/1996 CLE @ MIL W 24 23 7 13 53.8 1 2 50.0 8 8 100.0 1 1 2 4 2 2 0 1 -
+p376
+aVDan Majerle CLE 02/03/1996 CLE @ MIL W 24 12 4 7 57.1 4 7 57.1 0 0 - 0 5 5 1 0 0 0 0 -
+p377
+aVBobby Phills CLE 02/03/1996 CLE @ MIL W 28 13 6 11 54.5 1 2 50.0 0 0 - 0 2 2 1 0 0 2 1 -
+p378
+aVBob Sura CLE 02/03/1996 CLE @ MIL W 20 13 5 8 62.5 0 1 0.0 3 5 60.0 1 1 2 2 2 0 4 1 -
+p379
+aVMichael Cage CLE 02/03/1996 CLE @ MIL W 30 9 4 5 80.0 0 0 - 1 4 25.0 3 4 7 2 1 1 1 2 -
+p380
+aVDonny Marshall CLE 02/03/1996 CLE @ MIL W 3 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -
+p381
+aVAntonio Lang CLE 02/03/1996 CLE @ MIL W 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 0 4 -
+p382
+aVTyrone Hill CLE 02/03/1996 CLE @ MIL W 18 4 2 4 50.0 0 0 - 0 2 0.0 0 3 3 0 0 1 0 4 -
+p383
+aVTyrone Hill CLE 02/02/1996 CLE vs. PHX W 18 6 2 6 33.3 0 0 - 2 2 100.0 1 4 5 0 1 1 2 2 -
+p384
+aVBobby Phills CLE 02/02/1996 CLE vs. PHX W 32 10 3 7 42.9 1 1 100.0 3 3 100.0 0 3 3 4 1 1 2 2 -
+p385
+aVDanny Ferry CLE 02/02/1996 CLE vs. PHX W 32 22 9 15 60.0 4 8 50.0 0 0 - 0 2 2 3 2 1 1 1 -
+p386
+aVBob Sura CLE 02/02/1996 CLE vs. PHX W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -
+p387
+aVDan Majerle CLE 02/02/1996 CLE vs. PHX W 26 6 2 7 28.6 2 6 33.3 0 0 - 0 2 2 4 2 0 1 1 -
+p388
+aVHarold Miner CLE 02/02/1996 CLE vs. PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p389
+aVJohn Crotty CLE 02/02/1996 CLE vs. PHX W 20 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 4 1 0 2 3 -
+p390
+aVChris Mills CLE 02/02/1996 CLE vs. PHX W 32 23 8 11 72.7 3 4 75.0 4 4 100.0 2 2 4 5 1 1 1 4 -
+p391
+aVDonny Marshall CLE 02/02/1996 CLE vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p392
+aVMichael Cage CLE 02/02/1996 CLE vs. PHX W 30 12 6 7 85.7 0 0 - 0 0 - 5 9 14 0 1 1 0 0 -
+p393
+aVTerrell Brandon CLE 02/02/1996 CLE vs. PHX W 28 13 5 13 38.5 1 2 50.0 2 2 100.0 0 1 1 11 4 0 2 4 -
+p394
+aVAntonio Lang CLE 02/02/1996 CLE vs. PHX W 14 8 4 5 80.0 0 0 - 0 0 - 1 1 2 1 0 1 2 1 -
+p395
+aVChris Mills CLE 01/31/1996 CLE vs. MIL W 37 9 4 9 44.4 1 2 50.0 0 0 - 0 5 5 1 0 1 2 3 -
+p396
+aVAntonio Lang CLE 01/31/1996 CLE vs. MIL W 10 4 1 3 33.3 0 0 - 2 3 66.7 0 1 1 1 0 0 1 2 -
+p397
+aVDanny Ferry CLE 01/31/1996 CLE vs. MIL W 30 8 4 12 33.3 0 3 0.0 0 0 - 0 2 2 5 0 0 1 2 -
+p398
+aVJohn Crotty CLE 01/31/1996 CLE vs. MIL W 10 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 0 0 0 0 -
+p399
+aVBob Sura CLE 01/31/1996 CLE vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p400
+aVMichael Cage CLE 01/31/1996 CLE vs. MIL W 35 3 1 2 50.0 0 0 - 1 2 50.0 4 5 9 0 2 3 0 4 -
+p401
+aVTyrone Hill CLE 01/31/1996 CLE vs. MIL W 13 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 1 1 3 2 -
+p402
+aVDan Majerle CLE 01/31/1996 CLE vs. MIL W 27 11 3 7 42.9 3 6 50.0 2 2 100.0 1 4 5 1 0 0 2 2 -
+p403
+aVBobby Phills CLE 01/31/1996 CLE vs. MIL W 38 14 5 13 38.5 3 5 60.0 1 2 50.0 0 6 6 2 0 0 1 3 -
+p404
+aVTerrell Brandon CLE 01/31/1996 CLE vs. MIL W 36 23 5 13 38.5 2 3 66.7 11 12 91.7 1 7 8 9 1 5 3 0 -
+p405
+aVMichael Cage CLE 01/29/1996 CLE @ CHH L 39 8 4 5 80.0 0 0 - 0 0 - 5 7 12 1 0 0 0 3 -
+p406
+aVBobby Phills CLE 01/29/1996 CLE @ CHH L 40 7 3 16 18.8 1 3 33.3 0 0 - 2 2 4 3 2 0 2 2 -
+p407
+aVChris Mills CLE 01/29/1996 CLE @ CHH L 34 10 5 9 55.6 0 0 - 0 0 - 0 3 3 1 0 0 2 2 -
+p408
+aVTerrell Brandon CLE 01/29/1996 CLE @ CHH L 37 22 6 17 35.3 0 0 - 10 13 76.9 2 1 3 7 3 0 1 4 -
+p409
+aVBob Sura CLE 01/29/1996 CLE @ CHH L 11 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 2 2 0 1 3 -
+p410
+aVDan Majerle CLE 01/29/1996 CLE @ CHH L 21 8 3 7 42.9 1 4 25.0 1 2 50.0 1 1 2 2 0 1 0 1 -
+p411
+aVDanny Ferry CLE 01/29/1996 CLE @ CHH L 16 5 2 7 28.6 0 2 0.0 1 2 50.0 1 1 2 2 0 0 1 4 -
+p412
+aVAntonio Lang CLE 01/29/1996 CLE @ CHH L 24 14 6 7 85.7 0 0 - 2 4 50.0 1 5 6 1 1 0 2 1 -
+p413
+aVTyrone Hill CLE 01/29/1996 CLE @ CHH L 18 9 4 6 66.7 0 0 - 1 2 50.0 3 3 6 1 0 0 1 4 -
+p414
+aVTerrell Brandon CLE 01/27/1996 CLE vs. MIA L 29 11 3 11 27.3 0 2 0.0 5 6 83.3 0 2 2 8 0 0 0 1 -
+p415
+aVJohn Crotty CLE 01/27/1996 CLE vs. MIA L 10 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 1 0 0 0 1 -
+p416
+aVDonny Marshall CLE 01/27/1996 CLE vs. MIA L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p417
+aVTyrone Hill CLE 01/27/1996 CLE vs. MIA L 14 5 2 4 50.0 0 0 - 1 4 25.0 2 3 5 1 1 0 0 3 -
+p418
+aVBob Sura CLE 01/27/1996 CLE vs. MIA L 19 10 4 9 44.4 1 2 50.0 1 2 50.0 1 4 5 4 0 0 0 0 -
+p419
+aVDan Majerle CLE 01/27/1996 CLE vs. MIA L 31 14 4 8 50.0 3 6 50.0 3 4 75.0 1 0 1 1 1 0 0 1 -
+p420
+aVAntonio Lang CLE 01/27/1996 CLE vs. MIA L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p421
+aVDanny Ferry CLE 01/27/1996 CLE vs. MIA L 29 5 2 8 25.0 0 0 - 1 1 100.0 0 4 4 1 0 0 2 3 -
+p422
+aVMichael Cage CLE 01/27/1996 CLE vs. MIA L 28 4 2 2 100.0 0 0 - 0 0 - 3 2 5 0 0 1 0 4 -
+p423
+aVHarold Miner CLE 01/27/1996 CLE vs. MIA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p424
+aVBobby Phills CLE 01/27/1996 CLE vs. MIA L 32 16 7 13 53.8 2 3 66.7 0 0 - 0 2 2 3 2 0 2 0 -
+p425
+aVChris Mills CLE 01/27/1996 CLE vs. MIA L 36 18 6 12 50.0 2 2 100.0 4 4 100.0 1 5 6 2 1 0 2 1 -
+p426
+aVJohn Crotty CLE 01/24/1996 CLE @ PHL W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 3 0 0 0 0 -
+p427
+aVDanny Ferry CLE 01/24/1996 CLE @ PHL W 38 10 4 12 33.3 1 5 20.0 1 1 100.0 1 1 2 3 0 0 3 3 -
+p428
+aVChris Mills CLE 01/24/1996 CLE @ PHL W 38 22 7 10 70.0 0 2 0.0 8 10 80.0 1 4 5 0 1 0 5 5 -
+p429
+aVBobby Phills CLE 01/24/1996 CLE @ PHL W 35 14 4 7 57.1 1 2 50.0 5 7 71.4 1 3 4 7 1 0 0 3 -
+p430
+aVAntonio Lang CLE 01/24/1996 CLE @ PHL W 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -
+p431
+aVTerrell Brandon CLE 01/24/1996 CLE @ PHL W 37 18 6 16 37.5 0 3 0.0 6 7 85.7 0 2 2 9 2 0 2 3 -
+p432
+aVMichael Cage CLE 01/24/1996 CLE @ PHL W 38 7 3 6 50.0 0 0 - 1 1 100.0 3 11 14 0 0 0 0 4 -
+p433
+aVBob Sura CLE 01/24/1996 CLE @ PHL W 14 7 1 5 20.0 0 0 - 5 6 83.3 2 2 4 1 2 0 2 2 -
+p434
+aVDan Majerle CLE 01/24/1996 CLE @ PHL W 18 9 4 6 66.7 1 3 33.3 0 0 - 3 0 3 0 0 0 2 2 -
+p435
+aVDan Majerle CLE 01/23/1996 CLE vs. ATL L 24 2 1 7 14.3 0 4 0.0 0 0 - 1 3 4 0 1 0 0 0 -
+p436
+aVAntonio Lang CLE 01/23/1996 CLE vs. ATL L 16 9 3 5 60.0 0 0 - 3 5 60.0 3 0 3 0 1 2 1 2 -
+p437
+aVBobby Phills CLE 01/23/1996 CLE vs. ATL L 40 11 4 13 30.8 1 5 20.0 2 2 100.0 2 2 4 1 0 0 2 5 -
+p438
+aVBob Sura CLE 01/23/1996 CLE vs. ATL L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 5 1 1 1 2 -
+p439
+aVTerrell Brandon CLE 01/23/1996 CLE vs. ATL L 38 17 7 23 30.4 0 5 0.0 3 3 100.0 4 1 5 11 2 0 3 2 -
+p440
+aVChris Mills CLE 01/23/1996 CLE vs. ATL L 34 4 1 12 8.3 0 1 0.0 2 2 100.0 2 7 9 1 0 0 2 1 -
+p441
+aVDanny Ferry CLE 01/23/1996 CLE vs. ATL L 43 17 7 14 50.0 1 4 25.0 2 2 100.0 1 5 6 3 0 0 1 4 -
+p442
+aVMichael Cage CLE 01/23/1996 CLE vs. ATL L 35 8 4 6 66.7 0 0 - 0 1 0.0 8 8 16 1 1 1 1 2 -
+p443
+aVMichael Cage CLE 01/21/1996 CLE @ POR L 39 4 2 3 66.7 0 0 - 0 0 - 3 4 7 0 0 1 0 3 -
+p444
+aVBob Sura CLE 01/21/1996 CLE @ POR L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 1 1 -
+p445
+aVTerrell Brandon CLE 01/21/1996 CLE @ POR L 41 26 8 19 42.1 4 7 57.1 6 7 85.7 1 4 5 7 3 1 3 2 -
+p446
+aVChris Mills CLE 01/21/1996 CLE @ POR L 37 7 3 9 33.3 0 0 - 1 2 50.0 1 7 8 1 0 0 1 4 -
+p447
+aVAntonio Lang CLE 01/21/1996 CLE @ POR L 14 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 1 1 1 -
+p448
+aVDanny Ferry CLE 01/21/1996 CLE @ POR L 43 29 12 20 60.0 3 10 30.0 2 2 100.0 0 6 6 1 1 0 1 2 -
+p449
+aVBobby Phills CLE 01/21/1996 CLE @ POR L 33 8 3 11 27.3 1 4 25.0 1 2 50.0 1 1 2 1 1 1 2 2 -
+p450
+aVDan Majerle CLE 01/21/1996 CLE @ POR L 26 0 0 6 0.0 0 2 0.0 0 0 - 1 1 2 4 2 1 0 3 -
+p451
+aVBob Sura CLE 01/20/1996 CLE @ LAL W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p452
+aVAntonio Lang CLE 01/20/1996 CLE @ LAL W 10 7 2 2 100.0 0 0 - 3 4 75.0 1 0 1 1 1 0 0 2 -
+p453
+aVDan Majerle CLE 01/20/1996 CLE @ LAL W 28 8 3 10 30.0 1 4 25.0 1 2 50.0 0 3 3 3 0 0 1 0 -
+p454
+aVTerrell Brandon CLE 01/20/1996 CLE @ LAL W 41 19 5 17 29.4 1 5 20.0 8 9 88.9 0 4 4 10 2 1 2 3 -
+p455
+aVDanny Ferry CLE 01/20/1996 CLE @ LAL W 38 19 8 12 66.7 1 2 50.0 2 2 100.0 4 6 10 0 1 0 3 2 -
+p456
+aVChris Mills CLE 01/20/1996 CLE @ LAL W 38 12 6 12 50.0 0 1 0.0 0 0 - 2 3 5 3 2 0 2 4 -
+p457
+aVBobby Phills CLE 01/20/1996 CLE @ LAL W 36 10 4 8 50.0 0 1 0.0 2 2 100.0 1 4 5 5 2 0 2 2 -
+p458
+aVMichael Cage CLE 01/20/1996 CLE @ LAL W 42 16 8 9 88.9 0 0 - 0 0 - 4 6 10 2 1 0 1 2 -
+p459
+aVDanny Ferry CLE 01/18/1996 CLE @ VAN W 21 3 1 7 14.3 1 3 33.3 0 0 - 0 2 2 1 1 0 1 5 -
+p460
+aVDan Majerle CLE 01/18/1996 CLE @ VAN W 38 18 6 12 50.0 2 4 50.0 4 5 80.0 0 5 5 2 0 0 1 0 -
+p461
+aVBobby Phills CLE 01/18/1996 CLE @ VAN W 47 19 7 13 53.8 2 3 66.7 3 4 75.0 1 2 3 3 3 0 5 3 -
+p462
+aVTerrell Brandon CLE 01/18/1996 CLE @ VAN W 32 29 11 18 61.1 4 5 80.0 3 3 100.0 1 2 3 7 1 2 3 3 -
+p463
+aVMichael Cage CLE 01/18/1996 CLE @ VAN W 41 9 3 3 100.0 0 0 - 3 3 100.0 3 7 10 1 7 1 1 1 -
+p464
+aVAntonio Lang CLE 01/18/1996 CLE @ VAN W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 -
+p465
+aVBob Sura CLE 01/18/1996 CLE @ VAN W 16 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 6 1 0 0 3 -
+p466
+aVChris Mills CLE 01/18/1996 CLE @ VAN W 40 14 5 15 33.3 1 3 33.3 3 4 75.0 2 3 5 0 0 0 3 3 -
+p467
+aVTerrell Brandon CLE 01/16/1996 CLE @ SEA L 44 24 9 22 40.9 1 6 16.7 5 7 71.4 0 0 0 1 1 0 0 3 -
+p468
+aVDanny Ferry CLE 01/16/1996 CLE @ SEA L 23 3 1 6 16.7 0 1 0.0 1 2 50.0 0 1 1 4 0 0 1 3 -
+p469
+aVDan Majerle CLE 01/16/1996 CLE @ SEA L 37 21 8 13 61.5 2 4 50.0 3 9 33.3 3 4 7 1 1 0 2 4 -
+p470
+aVChris Mills CLE 01/16/1996 CLE @ SEA L 48 18 4 12 33.3 2 3 66.7 8 12 66.7 6 5 11 3 0 0 3 5 -
+p471
+aVMichael Cage CLE 01/16/1996 CLE @ SEA L 40 4 2 7 28.6 0 0 - 0 2 0.0 7 7 14 0 1 0 0 1 -
+p472
+aVBobby Phills CLE 01/16/1996 CLE @ SEA L 39 20 6 10 60.0 0 1 0.0 8 10 80.0 0 6 6 2 2 1 1 5 -
+p473
+aVBob Sura CLE 01/16/1996 CLE @ SEA L 9 0 0 0 - 0 0 - 0 2 0.0 0 3 3 1 1 0 2 1 -
+p474
+aVBob Sura CLE 01/14/1996 CLE @ PHX W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 0 0 2 2 -
+p475
+aVDanny Ferry CLE 01/14/1996 CLE @ PHX W 33 13 5 15 33.3 1 4 25.0 2 2 100.0 3 4 7 1 1 0 1 4 -
+p476
+aVBobby Phills CLE 01/14/1996 CLE @ PHX W 40 12 4 9 44.4 1 3 33.3 3 4 75.0 0 4 4 4 3 0 3 3 -
+p477
+aVTerrell Brandon CLE 01/14/1996 CLE @ PHX W 37 18 6 9 66.7 0 0 - 6 7 85.7 1 6 7 8 1 0 3 2 -
+p478
+aVAntonio Lang CLE 01/14/1996 CLE @ PHX W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p479
+aVChris Mills CLE 01/14/1996 CLE @ PHX W 41 18 8 15 53.3 1 3 33.3 1 2 50.0 0 7 7 4 2 1 4 2 -
+p480
+aVMichael Cage CLE 01/14/1996 CLE @ PHX W 37 6 3 3 100.0 0 0 - 0 1 0.0 1 7 8 1 2 0 1 3 -
+p481
+aVDan Majerle CLE 01/14/1996 CLE @ PHX W 35 20 5 10 50.0 0 2 0.0 10 12 83.3 1 3 4 1 2 0 1 2 -
+p482
+aVJohn Crotty CLE 01/14/1996 CLE @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p483
+aVBob Sura CLE 01/12/1996 CLE @ DEN L 14 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p484
+aVBobby Phills CLE 01/12/1996 CLE @ DEN L 40 17 7 17 41.2 3 4 75.0 0 0 - 1 1 2 5 0 1 0 4 -
+p485
+aVTerrell Brandon CLE 01/12/1996 CLE @ DEN L 37 15 6 20 30.0 0 4 0.0 3 5 60.0 0 4 4 8 3 0 1 1 -
+p486
+aVAntonio Lang CLE 01/12/1996 CLE @ DEN L 4 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 1 0 2 -
+p487
+aVChris Mills CLE 01/12/1996 CLE @ DEN L 48 13 5 10 50.0 1 2 50.0 2 2 100.0 2 2 4 6 2 0 0 5 -
+p488
+aVMichael Cage CLE 01/12/1996 CLE @ DEN L 39 10 5 6 83.3 0 0 - 0 0 - 3 8 11 1 0 0 2 2 -
+p489
+aVJoe Courtney CLE 01/12/1996 CLE @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -
+p490
+aVDan Majerle CLE 01/12/1996 CLE @ DEN L 29 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 2 2 0 3 1 -
+p491
+aVDanny Ferry CLE 01/12/1996 CLE @ DEN L 25 15 7 13 53.8 1 6 16.7 0 0 - 0 0 0 1 0 0 2 5 -
+p492
+aVChris Mills CLE 01/10/1996 CLE @ SAN L 33 11 4 17 23.5 0 4 0.0 3 4 75.0 0 4 4 2 0 0 0 2 -
+p493
+aVJoe Courtney CLE 01/10/1996 CLE @ SAN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p494
+aVDan Majerle CLE 01/10/1996 CLE @ SAN L 32 18 6 12 50.0 3 7 42.9 3 5 60.0 3 2 5 1 3 0 1 2 -
+p495
+aVMichael Cage CLE 01/10/1996 CLE @ SAN L 46 20 10 16 62.5 0 0 - 0 2 0.0 9 11 20 1 0 4 3 4 -
+p496
+aVDonny Marshall CLE 01/10/1996 CLE @ SAN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p497
+aVDanny Ferry CLE 01/10/1996 CLE @ SAN L 36 9 4 10 40.0 1 4 25.0 0 0 - 0 2 2 2 1 1 1 3 -
+p498
+aVBobby Phills CLE 01/10/1996 CLE @ SAN L 43 9 2 11 18.2 1 2 50.0 4 4 100.0 1 4 5 5 1 0 0 4 -
+p499
+aVTerrell Brandon CLE 01/10/1996 CLE @ SAN L 42 19 7 15 46.7 1 4 25.0 4 4 100.0 2 8 10 2 0 2 2 0 -
+p500
+aVBob Sura CLE 01/10/1996 CLE @ SAN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -
+p501
+aVJohn Crotty CLE 01/08/1996 CLE vs. WAS W 1 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -
+p502
+aVChris Mills CLE 01/08/1996 CLE vs. WAS W 40 23 9 13 69.2 3 5 60.0 2 3 66.7 0 4 4 2 1 1 1 3 -
+p503
+aVDan Majerle CLE 01/08/1996 CLE vs. WAS W 22 4 2 3 66.7 0 1 0.0 0 0 - 1 3 4 2 1 0 3 2 -
+p504
+aVDanny Ferry CLE 01/08/1996 CLE vs. WAS W 35 15 6 9 66.7 1 1 100.0 2 3 66.7 0 1 1 4 2 0 0 1 -
+p505
+aVJohn Amaechi CLE 01/08/1996 CLE vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p506
+aVTerrell Brandon CLE 01/08/1996 CLE vs. WAS W 32 23 7 16 43.8 2 5 40.0 7 7 100.0 0 3 3 9 1 1 2 1 -
+p507
+aVJoe Courtney CLE 01/08/1996 CLE vs. WAS W 17 4 2 2 100.0 0 0 - 0 0 - 1 2 3 2 0 1 2 2 -
+p508
+aVDonny Marshall CLE 01/08/1996 CLE vs. WAS W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p509
+aVMichael Cage CLE 01/08/1996 CLE vs. WAS W 35 5 2 4 50.0 0 0 - 1 2 50.0 2 8 10 3 0 3 1 5 -
+p510
+aVBobby Phills CLE 01/08/1996 CLE vs. WAS W 40 25 9 13 69.2 3 5 60.0 4 6 66.7 1 6 7 5 2 1 2 2 -
+p511
+aVBob Sura CLE 01/08/1996 CLE vs. WAS W 16 7 3 7 42.9 1 1 100.0 0 0 - 0 3 3 4 0 0 3 4 -
+p512
+aVJoe Courtney CLE 01/06/1996 CLE vs. ORL W 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -
+p513
+aVChris Mills CLE 01/06/1996 CLE vs. ORL W 39 23 8 13 61.5 0 0 - 7 9 77.8 1 7 8 4 0 1 1 5 -
+p514
+aVMichael Cage CLE 01/06/1996 CLE vs. ORL W 39 9 4 7 57.1 0 0 - 1 2 50.0 5 10 15 2 1 1 0 2 -
+p515
+aVDan Majerle CLE 01/06/1996 CLE vs. ORL W 24 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 1 0 0 0 3 -
+p516
+aVBob Sura CLE 01/06/1996 CLE vs. ORL W 15 7 3 4 75.0 0 0 - 1 3 33.3 1 1 2 6 0 1 2 1 -
+p517
+aVDanny Ferry CLE 01/06/1996 CLE vs. ORL W 39 16 6 12 50.0 3 6 50.0 1 2 50.0 2 3 5 3 0 0 2 1 -
+p518
+aVTerrell Brandon CLE 01/06/1996 CLE vs. ORL W 33 18 7 15 46.7 2 6 33.3 2 2 100.0 0 1 1 10 1 0 4 2 -
+p519
+aVBobby Phills CLE 01/06/1996 CLE vs. ORL W 41 20 9 11 81.8 2 3 66.7 0 0 - 1 5 6 5 0 0 1 5 -
+p520
+aVJohn Amaechi CLE 01/05/1996 CLE @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p521
+aVBobby Phills CLE 01/05/1996 CLE @ BOS L 37 15 4 12 33.3 1 4 25.0 6 8 75.0 0 1 1 5 1 0 3 5 -
+p522
+aVJohn Crotty CLE 01/05/1996 CLE @ BOS L 8 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 -
+p523
+aVChris Mills CLE 01/05/1996 CLE @ BOS L 39 7 3 11 27.3 1 3 33.3 0 0 - 1 6 7 0 1 1 1 3 -
+p524
+aVTerrell Brandon CLE 01/05/1996 CLE @ BOS L 38 22 9 23 39.1 1 7 14.3 3 4 75.0 1 4 5 5 0 0 1 2 -
+p525
+aVJoe Courtney CLE 01/05/1996 CLE @ BOS L 7 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -
+p526
+aVMichael Cage CLE 01/05/1996 CLE @ BOS L 36 9 4 6 66.7 0 0 - 1 2 50.0 4 11 15 0 3 2 2 1 -
+p527
+aVDonny Marshall CLE 01/05/1996 CLE @ BOS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p528
+aVHarold Miner CLE 01/05/1996 CLE @ BOS L 10 4 0 2 0.0 0 0 - 4 4 100.0 1 0 1 1 0 0 2 1 -
+p529
+aVDan Majerle CLE 01/05/1996 CLE @ BOS L 17 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 1 0 1 -
+p530
+aVDanny Ferry CLE 01/05/1996 CLE @ BOS L 35 12 3 10 30.0 0 3 0.0 6 7 85.7 5 6 11 3 0 0 1 2 -
+p531
+aVBob Sura CLE 01/05/1996 CLE @ BOS L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 1 0 4 1 -
+p532
+aVTerrell Brandon CLE 01/02/1996 CLE @ WAS W 40 27 9 17 52.9 2 3 66.7 7 7 100.0 1 4 5 10 1 0 2 2 -
+p533
+aVBobby Phills CLE 01/02/1996 CLE @ WAS W 37 19 7 12 58.3 2 3 66.7 3 4 75.0 0 5 5 2 3 2 0 4 -
+p534
+aVChris Mills CLE 01/02/1996 CLE @ WAS W 44 20 9 15 60.0 1 3 33.3 1 2 50.0 0 6 6 1 2 1 1 2 -
+p535
+aVJoe Courtney CLE 01/02/1996 CLE @ WAS W 13 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 2 -
+p536
+aVJohn Crotty CLE 01/02/1996 CLE @ WAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -
+p537
+aVDanny Ferry CLE 01/02/1996 CLE @ WAS W 37 20 7 12 58.3 3 5 60.0 3 4 75.0 0 0 0 4 2 0 2 1 -
+p538
+aVMichael Cage CLE 01/02/1996 CLE @ WAS W 36 6 2 4 50.0 0 0 - 2 2 100.0 5 3 8 1 1 1 0 2 -
+p539
+aVDan Majerle CLE 01/02/1996 CLE @ WAS W 19 7 2 7 28.6 0 2 0.0 3 4 75.0 1 1 2 2 0 2 1 0 -
+p540
+aVBob Sura CLE 01/02/1996 CLE @ WAS W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -
+p541
+aVJohn Amaechi CLE 01/02/1996 CLE @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p542
+aVBobby Phills CLE 12/30/1995 CLE vs. POR W 49 43 13 24 54.2 7 11 63.6 10 11 90.9 2 5 7 3 2 1 2 3 -
+p543
+aVJohn Crotty CLE 12/30/1995 CLE vs. POR W 8 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 4 0 0 0 3 -
+p544
+aVDan Majerle CLE 12/30/1995 CLE vs. POR W 39 5 2 15 13.3 1 10 10.0 0 0 - 1 7 8 4 1 1 0 1 -
+p545
+aVMichael Cage CLE 12/30/1995 CLE vs. POR W 50 16 8 10 80.0 0 0 - 0 0 - 7 3 10 1 0 1 0 5 -
+p546
+aVJohn Amaechi CLE 12/30/1995 CLE vs. POR W 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p547
+aVBob Sura CLE 12/30/1995 CLE vs. POR W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p548
+aVChris Mills CLE 12/30/1995 CLE vs. POR W 52 18 8 21 38.1 1 5 20.0 1 1 100.0 3 5 8 3 2 0 3 3 -
+p549
+aVDanny Ferry CLE 12/30/1995 CLE vs. POR W 27 9 3 11 27.3 3 8 37.5 0 0 - 0 5 5 4 0 0 1 3 -
+p550
+aVJoe Courtney CLE 12/30/1995 CLE vs. POR W 11 4 1 1 100.0 0 0 - 2 4 50.0 4 2 6 0 1 1 2 0 -
+p551
+aVTerrell Brandon CLE 12/30/1995 CLE vs. POR W 41 24 7 12 58.3 3 6 50.0 7 7 100.0 0 5 5 12 1 0 3 6 -
+p552
+aVJohn Crotty CLE 12/28/1995 CLE @ NYK W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p553
+aVTerrell Brandon CLE 12/28/1995 CLE @ NYK W 37 21 5 11 45.5 1 5 20.0 10 10 100.0 0 3 3 4 2 0 4 1 -
+p554
+aVDanny Ferry CLE 12/28/1995 CLE @ NYK W 35 8 3 9 33.3 0 2 0.0 2 2 100.0 1 4 5 2 0 0 2 4 -
+p555
+aVJoe Courtney CLE 12/28/1995 CLE @ NYK W 11 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p556
+aVBobby Phills CLE 12/28/1995 CLE @ NYK W 43 28 10 22 45.5 4 8 50.0 4 5 80.0 1 5 6 4 4 1 3 2 -
+p557
+aVMichael Cage CLE 12/28/1995 CLE @ NYK W 33 2 1 2 50.0 0 0 - 0 0 - 1 8 9 0 0 0 0 2 -
+p558
+aVBob Sura CLE 12/28/1995 CLE @ NYK W 10 5 2 4 50.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 1 1 -
+p559
+aVChris Mills CLE 12/28/1995 CLE @ NYK W 41 16 5 11 45.5 2 6 33.3 4 4 100.0 2 1 3 3 0 1 1 4 -
+p560
+aVDan Majerle CLE 12/28/1995 CLE @ NYK W 25 2 1 7 14.3 0 2 0.0 0 0 - 1 2 3 1 1 0 3 2 -
+p561
+aVChris Mills CLE 12/23/1995 CLE vs. IND W 42 27 10 18 55.6 2 6 33.3 5 6 83.3 2 4 6 2 0 1 1 4 -
+p562
+aVJoe Courtney CLE 12/23/1995 CLE vs. IND W 11 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 3 -
+p563
+aVBob Sura CLE 12/23/1995 CLE vs. IND W 8 3 1 4 25.0 0 0 - 1 1 100.0 0 1 1 2 2 1 0 2 -
+p564
+aVTerrell Brandon CLE 12/23/1995 CLE vs. IND W 39 21 7 14 50.0 2 2 100.0 5 5 100.0 1 2 3 11 0 1 2 0 -
+p565
+aVJohn Crotty CLE 12/23/1995 CLE vs. IND W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 1 0 -
+p566
+aVDanny Ferry CLE 12/23/1995 CLE vs. IND W 33 14 6 11 54.5 2 4 50.0 0 0 - 1 2 3 5 1 0 1 2 -
+p567
+aVMichael Cage CLE 12/23/1995 CLE vs. IND W 40 8 4 6 66.7 0 0 - 0 0 - 6 9 15 2 0 3 0 2 -
+p568
+aVDan Majerle CLE 12/23/1995 CLE vs. IND W 21 11 4 7 57.1 3 4 75.0 0 0 - 0 1 1 1 0 0 0 1 -
+p569
+aVBobby Phills CLE 12/23/1995 CLE vs. IND W 40 12 4 11 36.4 0 3 0.0 4 4 100.0 0 3 3 3 1 2 2 4 -
+p570
+aVChris Mills CLE 12/21/1995 CLE vs. UTH L 45 24 9 14 64.3 2 3 66.7 4 4 100.0 2 6 8 3 1 1 2 3 -
+p571
+aVDanny Ferry CLE 12/21/1995 CLE vs. UTH L 35 12 5 12 41.7 2 5 40.0 0 0 - 1 2 3 1 2 0 1 3 -
+p572
+aVJohn Crotty CLE 12/21/1995 CLE vs. UTH L 13 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 3 0 0 1 1 -
+p573
+aVJoe Courtney CLE 12/21/1995 CLE vs. UTH L 7 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -
+p574
+aVDan Majerle CLE 12/21/1995 CLE vs. UTH L 24 7 2 6 33.3 2 4 50.0 1 2 50.0 0 2 2 2 0 0 0 3 -
+p575
+aVBobby Phills CLE 12/21/1995 CLE vs. UTH L 40 24 8 15 53.3 2 4 50.0 6 6 100.0 0 5 5 3 2 0 1 5 -
+p576
+aVTerrell Brandon CLE 12/21/1995 CLE vs. UTH L 35 14 7 19 36.8 0 2 0.0 0 0 - 0 3 3 4 0 1 3 3 -
+p577
+aVMichael Cage CLE 12/21/1995 CLE vs. UTH L 41 2 1 1 100.0 0 0 - 0 0 - 1 10 11 0 2 1 2 5 -
+p578
+aVDan Majerle CLE 12/19/1995 CLE vs. MIN W 29 11 3 5 60.0 3 5 60.0 2 2 100.0 0 0 0 1 2 0 3 1 -
+p579
+aVJoe Courtney CLE 12/19/1995 CLE vs. MIN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -
+p580
+aVBob Sura CLE 12/19/1995 CLE vs. MIN W 7 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 1 0 0 1 0 -
+p581
+aVDanny Ferry CLE 12/19/1995 CLE vs. MIN W 27 9 3 7 42.9 1 4 25.0 2 2 100.0 1 1 2 3 0 1 1 3 -
+p582
+aVTerrell Brandon CLE 12/19/1995 CLE vs. MIN W 43 32 11 20 55.0 4 5 80.0 6 6 100.0 0 2 2 9 0 0 3 0 -
+p583
+aVBobby Phills CLE 12/19/1995 CLE vs. MIN W 36 13 3 9 33.3 2 4 50.0 5 5 100.0 0 1 1 0 2 1 0 3 -
+p584
+aVMichael Cage CLE 12/19/1995 CLE vs. MIN W 44 8 4 5 80.0 0 0 - 0 2 0.0 6 5 11 1 1 3 3 3 -
+p585
+aVChris Mills CLE 12/19/1995 CLE vs. MIN W 43 24 7 13 53.8 2 3 66.7 8 10 80.0 1 6 7 4 1 3 1 5 -
+p586
+aVJohn Crotty CLE 12/19/1995 CLE vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p587
+aVChris Mills CLE 12/17/1995 CLE vs. DEN W 43 13 6 13 46.2 0 1 0.0 1 1 100.0 1 5 6 4 1 1 0 5 -
+p588
+aVTerrell Brandon CLE 12/17/1995 CLE vs. DEN W 38 20 5 13 38.5 1 3 33.3 9 9 100.0 0 3 3 7 1 0 0 2 -
+p589
+aVDan Majerle CLE 12/17/1995 CLE vs. DEN W 35 20 8 13 61.5 3 6 50.0 1 2 50.0 2 6 8 4 1 0 0 5 -
+p590
+aVBob Sura CLE 12/17/1995 CLE vs. DEN W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 3 -
+p591
+aVJohn Crotty CLE 12/17/1995 CLE vs. DEN W 10 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 2 2 0 1 3 -
+p592
+aVJoe Courtney CLE 12/17/1995 CLE vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p593
+aVJohn Amaechi CLE 12/17/1995 CLE vs. DEN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -
+p594
+aVBobby Phills CLE 12/17/1995 CLE vs. DEN W 42 18 7 14 50.0 1 1 100.0 3 3 100.0 2 1 3 3 1 3 3 1 -
+p595
+aVMichael Cage CLE 12/17/1995 CLE vs. DEN W 41 10 3 7 42.9 0 0 - 4 5 80.0 3 6 9 2 0 1 1 3 -
+p596
+aVDanny Ferry CLE 12/17/1995 CLE vs. DEN W 15 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 1 0 1 2 5 -
+p597
+aVDan Majerle CLE 12/15/1995 CLE @ MIN W 22 14 4 9 44.4 2 5 40.0 4 4 100.0 0 3 3 2 0 0 2 0 -
+p598
+aVMichael Cage CLE 12/15/1995 CLE @ MIN W 36 1 0 3 0.0 0 0 - 1 2 50.0 1 6 7 0 0 0 2 4 -
+p599
+aVTerrell Brandon CLE 12/15/1995 CLE @ MIN W 33 19 7 13 53.8 1 1 100.0 4 4 100.0 1 1 2 6 2 1 1 0 -
+p600
+aVJohn Amaechi CLE 12/15/1995 CLE @ MIN W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p601
+aVJoe Courtney CLE 12/15/1995 CLE @ MIN W 12 4 1 2 50.0 0 0 - 2 3 66.7 2 0 2 0 1 0 2 3 -
+p602
+aVJohn Crotty CLE 12/15/1995 CLE @ MIN W 15 5 0 2 0.0 0 1 0.0 5 6 83.3 1 0 1 3 1 0 1 2 -
+p603
+aVChris Mills CLE 12/15/1995 CLE @ MIN W 43 26 11 17 64.7 3 6 50.0 1 2 50.0 4 4 8 2 1 1 2 2 -
+p604
+aVBobby Phills CLE 12/15/1995 CLE @ MIN W 31 14 6 9 66.7 2 2 100.0 0 0 - 0 4 4 4 1 3 1 2 -
+p605
+aVDanny Ferry CLE 12/15/1995 CLE @ MIN W 36 17 6 11 54.5 2 3 66.7 3 4 75.0 2 6 8 4 0 1 3 3 -
+p606
+aVJohn Amaechi CLE 12/12/1995 CLE vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p607
+aVBob Sura CLE 12/12/1995 CLE vs. LAC W 7 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 2 -
+p608
+aVDan Majerle CLE 12/12/1995 CLE vs. LAC W 27 7 2 7 28.6 0 4 0.0 3 4 75.0 2 11 13 1 2 0 0 2 -
+p609
+aVJohn Crotty CLE 12/12/1995 CLE vs. LAC W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 2 1 -
+p610
+aVDanny Ferry CLE 12/12/1995 CLE vs. LAC W 26 6 3 11 27.3 0 2 0.0 0 0 - 0 1 1 1 0 0 1 1 -
+p611
+aVBobby Phills CLE 12/12/1995 CLE vs. LAC W 41 21 7 14 50.0 1 2 50.0 6 9 66.7 1 2 3 6 2 0 0 1 -
+p612
+aVChris Mills CLE 12/12/1995 CLE vs. LAC W 41 20 8 13 61.5 2 3 66.7 2 3 66.7 2 5 7 3 0 0 4 2 -
+p613
+aVMichael Cage CLE 12/12/1995 CLE vs. LAC W 40 11 5 7 71.4 0 0 - 1 2 50.0 6 7 13 2 2 2 1 3 -
+p614
+aVJoe Courtney CLE 12/12/1995 CLE vs. LAC W 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -
+p615
+aVTerrell Brandon CLE 12/12/1995 CLE vs. LAC W 30 23 4 9 44.4 1 2 50.0 14 14 100.0 0 0 0 6 1 0 1 3 -
+p616
+aVJoe Courtney CLE 12/09/1995 CLE vs. NJN L 4 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -
+p617
+aVTerrell Brandon CLE 12/09/1995 CLE vs. NJN L 39 14 5 12 41.7 2 7 28.6 2 2 100.0 0 3 3 5 3 0 3 2 -
+p618
+aVMichael Cage CLE 12/09/1995 CLE vs. NJN L 38 11 4 6 66.7 0 0 - 3 4 75.0 7 7 14 0 3 2 1 4 -
+p619
+aVBobby Phills CLE 12/09/1995 CLE vs. NJN L 42 11 4 14 28.6 0 3 0.0 3 4 75.0 2 2 4 9 4 1 3 2 -
+p620
+aVBob Sura CLE 12/09/1995 CLE vs. NJN L 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 2 0 -
+p621
+aVChris Mills CLE 12/09/1995 CLE vs. NJN L 44 12 5 14 35.7 2 7 28.6 0 0 - 2 4 6 5 1 0 1 3 -
+p622
+aVDanny Ferry CLE 12/09/1995 CLE vs. NJN L 33 18 8 18 44.4 1 8 12.5 1 2 50.0 0 1 1 2 0 0 3 4 -
+p623
+aVDan Majerle CLE 12/09/1995 CLE vs. NJN L 13 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 0 -
+p624
+aVHarold Miner CLE 12/09/1995 CLE vs. NJN L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p625
+aVJohn Amaechi CLE 12/09/1995 CLE vs. NJN L 14 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 1 1 1 3 -
+p626
+aVBobby Phills CLE 12/08/1995 CLE vs. PHL W 38 32 12 17 70.6 1 1 100.0 7 10 70.0 3 3 6 8 3 0 2 3 -
+p627
+aVHarold Miner CLE 12/08/1995 CLE vs. PHL W 3 6 1 2 50.0 0 1 0.0 4 4 100.0 0 0 0 0 0 0 1 1 -
+p628
+aVTerrell Brandon CLE 12/08/1995 CLE vs. PHL W 37 18 6 14 42.9 3 5 60.0 3 3 100.0 0 1 1 5 3 0 0 2 -
+p629
+aVBob Sura CLE 12/08/1995 CLE vs. PHL W 8 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 0 -
+p630
+aVDonny Marshall CLE 12/08/1995 CLE vs. PHL W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p631
+aVDan Majerle CLE 12/08/1995 CLE vs. PHL W 15 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 4 0 1 2 -
+p632
+aVMichael Cage CLE 12/08/1995 CLE vs. PHL W 26 6 3 3 100.0 0 0 - 0 0 - 3 7 10 1 0 0 0 5 -
+p633
+aVDanny Ferry CLE 12/08/1995 CLE vs. PHL W 35 17 6 14 42.9 3 7 42.9 2 2 100.0 0 4 4 6 1 0 2 1 -
+p634
+aVJoe Courtney CLE 12/08/1995 CLE vs. PHL W 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 1 0 0 -
+p635
+aVJohn Crotty CLE 12/08/1995 CLE vs. PHL W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p636
+aVChris Mills CLE 12/08/1995 CLE vs. PHL W 37 21 8 14 57.1 3 5 60.0 2 3 66.7 0 3 3 4 0 2 1 4 -
+p637
+aVJohn Amaechi CLE 12/08/1995 CLE vs. PHL W 23 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 1 2 0 1 4 -
+p638
+aVBobby Phills CLE 12/06/1995 CLE @ CHH L 43 20 6 10 60.0 1 3 33.3 7 8 87.5 1 1 2 2 0 0 3 6 -
+p639
+aVJohn Crotty CLE 12/06/1995 CLE @ CHH L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p640
+aVChris Mills CLE 12/06/1995 CLE @ CHH L 39 11 4 17 23.5 0 0 - 3 3 100.0 1 6 7 2 3 0 1 5 -
+p641
+aVMichael Cage CLE 12/06/1995 CLE @ CHH L 26 0 0 2 0.0 0 0 - 0 0 - 1 6 7 0 2 0 0 2 -
+p642
+aVHarold Miner CLE 12/06/1995 CLE @ CHH L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p643
+aVJohn Amaechi CLE 12/06/1995 CLE @ CHH L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p644
+aVDonny Marshall CLE 12/06/1995 CLE @ CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p645
+aVDanny Ferry CLE 12/06/1995 CLE @ CHH L 35 13 5 14 35.7 1 6 16.7 2 3 66.7 1 4 5 0 0 0 1 3 -
+p646
+aVBob Sura CLE 12/06/1995 CLE @ CHH L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 2 -
+p647
+aVTerrell Brandon CLE 12/06/1995 CLE @ CHH L 35 22 8 12 66.7 1 3 33.3 5 7 71.4 1 0 1 4 0 0 4 4 -
+p648
+aVDan Majerle CLE 12/06/1995 CLE @ CHH L 37 10 3 12 25.0 1 7 14.3 3 4 75.0 2 3 5 1 1 0 1 2 -
+p649
+aVMichael Cage CLE 12/03/1995 CLE vs. DAL W 42 15 7 9 77.8 0 0 - 1 3 33.3 1 10 11 0 1 1 1 2 -
+p650
+aVJoe Courtney CLE 12/03/1995 CLE vs. DAL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p651
+aVJohn Amaechi CLE 12/03/1995 CLE vs. DAL W 11 2 0 1 0.0 0 0 - 2 4 50.0 0 1 1 0 0 1 0 0 -
+p652
+aVChris Mills CLE 12/03/1995 CLE vs. DAL W 41 22 7 13 53.8 1 2 50.0 7 9 77.8 2 2 4 1 1 1 0 5 -
+p653
+aVDanny Ferry CLE 12/03/1995 CLE vs. DAL W 35 15 5 10 50.0 2 4 50.0 3 3 100.0 2 3 5 1 3 0 5 6 -
+p654
+aVJohn Crotty CLE 12/03/1995 CLE vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p655
+aVHarold Miner CLE 12/03/1995 CLE vs. DAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p656
+aVBobby Phills CLE 12/03/1995 CLE vs. DAL W 36 13 4 8 50.0 0 2 0.0 5 5 100.0 2 1 3 5 2 0 2 6 -
+p657
+aVBob Sura CLE 12/03/1995 CLE vs. DAL W 17 5 2 2 100.0 0 0 - 1 1 100.0 0 3 3 3 2 0 3 2 -
+p658
+aVDan Majerle CLE 12/03/1995 CLE vs. DAL W 30 9 4 9 44.4 1 2 50.0 0 2 0.0 1 4 5 2 0 0 1 2 -
+p659
+aVTerrell Brandon CLE 12/03/1995 CLE vs. DAL W 42 27 11 18 61.1 1 4 25.0 4 4 100.0 0 2 2 7 3 0 6 2 -
+p660
+aVDan Majerle CLE 12/02/1995 CLE @ NJN L 22 13 6 11 54.5 1 5 20.0 0 0 - 1 2 3 1 2 0 0 1 -
+p661
+aVBob Sura CLE 12/02/1995 CLE @ NJN L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -
+p662
+aVTerrell Brandon CLE 12/02/1995 CLE @ NJN L 41 11 4 11 36.4 0 2 0.0 3 3 100.0 2 3 5 6 3 0 2 2 -
+p663
+aVChris Mills CLE 12/02/1995 CLE @ NJN L 34 17 7 13 53.8 0 1 0.0 3 4 75.0 2 6 8 3 2 0 6 5 -
+p664
+aVMichael Cage CLE 12/02/1995 CLE @ NJN L 44 10 5 12 41.7 0 0 - 0 0 - 2 10 12 1 1 4 2 2 -
+p665
+aVDanny Ferry CLE 12/02/1995 CLE @ NJN L 33 9 4 8 50.0 1 1 100.0 0 0 - 0 2 2 2 1 0 1 5 -
+p666
+aVJohn Crotty CLE 12/02/1995 CLE @ NJN L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -
+p667
+aVBobby Phills CLE 12/02/1995 CLE @ NJN L 34 15 4 14 28.6 3 5 60.0 4 4 100.0 1 3 4 4 1 0 1 1 -
+p668
+aVJohn Amaechi CLE 12/02/1995 CLE @ NJN L 17 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -
+p669
+aVDan Majerle CLE 11/30/1995 CLE @ WAS W 20 6 2 6 33.3 2 4 50.0 0 0 - 0 0 0 0 2 0 2 1 -
+p670
+aVDanny Ferry CLE 11/30/1995 CLE @ WAS W 42 24 10 16 62.5 2 5 40.0 2 2 100.0 1 5 6 4 4 0 2 1 -
+p671
+aVMichael Cage CLE 11/30/1995 CLE @ WAS W 33 6 3 6 50.0 0 0 - 0 0 - 6 4 10 1 2 0 0 4 -
+p672
+aVBob Sura CLE 11/30/1995 CLE @ WAS W 9 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 2 2 -
+p673
+aVTerrell Brandon CLE 11/30/1995 CLE @ WAS W 39 29 9 20 45.0 1 2 50.0 10 10 100.0 1 4 5 15 6 0 3 3 -
+p674
+aVJohn Amaechi CLE 11/30/1995 CLE @ WAS W 21 4 1 4 25.0 0 0 - 2 4 50.0 0 2 2 1 0 2 3 4 -
+p675
+aVBobby Phills CLE 11/30/1995 CLE @ WAS W 35 11 5 9 55.6 0 2 0.0 1 2 50.0 1 1 2 2 0 0 1 1 -
+p676
+aVChris Mills CLE 11/30/1995 CLE @ WAS W 41 16 5 11 45.5 0 1 0.0 6 7 85.7 2 6 8 3 2 1 1 3 -
+p677
+aVJohn Amaechi CLE 11/28/1995 CLE vs. TOR W 19 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -
+p678
+aVDanny Ferry CLE 11/28/1995 CLE vs. TOR W 38 11 5 8 62.5 1 3 33.3 0 1 0.0 0 4 4 3 0 2 2 1 -
+p679
+aVBobby Phills CLE 11/28/1995 CLE vs. TOR W 39 21 7 12 58.3 3 5 60.0 4 7 57.1 0 3 3 6 2 1 3 3 -
+p680
+aVMichael Cage CLE 11/28/1995 CLE vs. TOR W 31 3 1 3 33.3 0 0 - 1 1 100.0 2 4 6 1 1 0 2 3 -
+p681
+aVJoe Courtney CLE 11/28/1995 CLE vs. TOR W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -
+p682
+aVDan Majerle CLE 11/28/1995 CLE vs. TOR W 18 8 3 9 33.3 0 5 0.0 2 2 100.0 0 0 0 2 2 0 1 1 -
+p683
+aVTerrell Brandon CLE 11/28/1995 CLE vs. TOR W 34 25 11 16 68.8 1 1 100.0 2 2 100.0 1 3 4 7 2 0 4 1 -
+p684
+aVChris Mills CLE 11/28/1995 CLE vs. TOR W 41 17 8 15 53.3 0 2 0.0 1 2 50.0 3 5 8 4 2 1 0 1 -
+p685
+aVBob Sura CLE 11/28/1995 CLE vs. TOR W 14 6 1 5 20.0 1 1 100.0 3 4 75.0 2 1 3 2 0 0 2 2 -
+p686
+aVJoe Courtney CLE 11/25/1995 CLE vs. MIL W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 2 2 -
+p687
+aVBobby Phills CLE 11/25/1995 CLE vs. MIL W 40 19 7 16 43.8 1 5 20.0 4 7 57.1 2 2 4 1 2 0 0 1 -
+p688
+aVDan Majerle CLE 11/25/1995 CLE vs. MIL W 27 8 2 8 25.0 2 7 28.6 2 2 100.0 0 2 2 7 2 1 1 1 -
+p689
+aVBob Sura CLE 11/25/1995 CLE vs. MIL W 15 4 1 3 33.3 1 2 50.0 1 2 50.0 2 1 3 3 0 0 0 2 -
+p690
+aVHarold Miner CLE 11/25/1995 CLE vs. MIL W 6 5 2 3 66.7 0 1 0.0 1 1 100.0 0 1 1 0 0 0 2 0 -
+p691
+aVDanny Ferry CLE 11/25/1995 CLE vs. MIL W 26 10 3 7 42.9 2 5 40.0 2 2 100.0 1 3 4 0 0 0 1 5 -
+p692
+aVChris Mills CLE 11/25/1995 CLE vs. MIL W 34 15 7 17 41.2 1 6 16.7 0 0 - 3 4 7 3 1 1 1 1 -
+p693
+aVJohn Amaechi CLE 11/25/1995 CLE vs. MIL W 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 1 0 2 1 -
+p694
+aVTerrell Brandon CLE 11/25/1995 CLE vs. MIL W 33 10 3 10 30.0 1 2 50.0 3 4 75.0 2 2 4 9 1 0 3 1 -
+p695
+aVMichael Cage CLE 11/25/1995 CLE vs. MIL W 38 14 6 8 75.0 0 0 - 2 2 100.0 5 5 10 1 0 1 0 4 -
+p696
+aVJohn Crotty CLE 11/24/1995 CLE @ IND W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p697
+aVMichael Cage CLE 11/24/1995 CLE @ IND W 40 8 3 5 60.0 0 0 - 2 3 66.7 0 6 6 1 3 0 1 5 -
+p698
+aVBob Sura CLE 11/24/1995 CLE @ IND W 6 0 0 0 - 0 0 - 0 2 0.0 0 1 1 1 0 0 0 2 -
+p699
+aVDan Majerle CLE 11/24/1995 CLE @ IND W 24 11 4 10 40.0 1 5 20.0 2 2 100.0 1 2 3 1 1 2 0 1 -
+p700
+aVJohn Amaechi CLE 11/24/1995 CLE @ IND W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -
+p701
+aVTerrell Brandon CLE 11/24/1995 CLE @ IND W 40 24 7 16 43.8 2 5 40.0 8 8 100.0 0 4 4 6 3 0 2 3 -
+p702
+aVChris Mills CLE 11/24/1995 CLE @ IND W 43 22 7 11 63.6 0 1 0.0 8 9 88.9 1 4 5 2 0 0 2 4 -
+p703
+aVDanny Ferry CLE 11/24/1995 CLE @ IND W 36 14 6 12 50.0 1 2 50.0 1 1 100.0 2 3 5 7 0 0 3 6 -
+p704
+aVBobby Phills CLE 11/24/1995 CLE @ IND W 35 17 5 8 62.5 1 1 100.0 6 6 100.0 0 5 5 1 0 0 2 4 -
+p705
+aVDan Majerle CLE 11/22/1995 CLE vs. NYK L 43 8 3 7 42.9 1 3 33.3 1 4 25.0 0 6 6 3 1 0 2 2 -
+p706
+aVDanny Ferry CLE 11/22/1995 CLE vs. NYK L 40 21 10 21 47.6 1 7 14.3 0 0 - 1 5 6 2 1 0 1 4 -
+p707
+aVBob Sura CLE 11/22/1995 CLE vs. NYK L 14 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 6 1 0 0 2 -
+p708
+aVBobby Phills CLE 11/22/1995 CLE vs. NYK L 43 14 5 11 45.5 0 1 0.0 4 4 100.0 0 2 2 6 1 0 4 1 -
+p709
+aVMichael Cage CLE 11/22/1995 CLE vs. NYK L 41 9 4 8 50.0 0 0 - 1 2 50.0 8 6 14 3 3 1 1 4 -
+p710
+aVHarold Miner CLE 11/22/1995 CLE vs. NYK L 14 11 5 7 71.4 0 1 0.0 1 1 100.0 0 1 1 0 0 0 1 0 -
+p711
+aVJohn Amaechi CLE 11/22/1995 CLE vs. NYK L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p712
+aVTerrell Brandon CLE 11/22/1995 CLE vs. NYK L 35 19 7 15 46.7 2 5 40.0 3 3 100.0 0 3 3 4 3 1 4 2 -
+p713
+aVBobby Phills CLE 11/18/1995 CLE vs. DET W 40 15 4 9 44.4 0 1 0.0 7 9 77.8 2 3 5 4 3 0 1 2 -
+p714
+aVDan Majerle CLE 11/18/1995 CLE vs. DET W 17 2 1 5 20.0 0 4 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p715
+aVHarold Miner CLE 11/18/1995 CLE vs. DET W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p716
+aVTerrell Brandon CLE 11/18/1995 CLE vs. DET W 37 27 10 16 62.5 1 2 50.0 6 7 85.7 1 3 4 12 1 0 0 3 -
+p717
+aVJohn Amaechi CLE 11/18/1995 CLE vs. DET W 13 4 2 2 100.0 0 0 - 0 2 0.0 1 1 2 1 0 1 2 0 -
+p718
+aVDanny Ferry CLE 11/18/1995 CLE vs. DET W 37 13 6 12 50.0 1 4 25.0 0 0 - 0 3 3 1 0 1 4 1 -
+p719
+aVBob Sura CLE 11/18/1995 CLE vs. DET W 11 4 1 4 25.0 1 1 100.0 1 2 50.0 0 1 1 3 0 0 1 1 -
+p720
+aVJoe Courtney CLE 11/18/1995 CLE vs. DET W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p721
+aVChris Mills CLE 11/18/1995 CLE vs. DET W 36 20 9 15 60.0 2 4 50.0 0 0 - 3 3 6 4 1 1 2 4 -
+p722
+aVMichael Cage CLE 11/18/1995 CLE vs. DET W 41 8 4 8 50.0 0 0 - 0 0 - 4 8 12 2 3 2 0 4 -
+p723
+aVChris Mills CLE 11/17/1995 CLE @ PHL W 28 12 4 10 40.0 1 2 50.0 3 5 60.0 1 5 6 1 1 0 4 4 -
+p724
+aVTerrell Brandon CLE 11/17/1995 CLE @ PHL W 28 19 8 13 61.5 2 2 100.0 1 2 50.0 3 5 8 6 5 0 0 1 -
+p725
+aVHarold Miner CLE 11/17/1995 CLE @ PHL W 13 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 2 -
+p726
+aVDanny Ferry CLE 11/17/1995 CLE @ PHL W 28 12 5 9 55.6 2 4 50.0 0 0 - 1 3 4 5 0 0 1 4 -
+p727
+aVMichael Cage CLE 11/17/1995 CLE @ PHL W 31 4 2 4 50.0 0 0 - 0 0 - 5 2 7 0 0 2 2 3 -
+p728
+aVJohn Crotty CLE 11/17/1995 CLE @ PHL W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 3 1 -
+p729
+aVJoe Courtney CLE 11/17/1995 CLE @ PHL W 13 3 1 3 33.3 0 0 - 1 2 50.0 6 3 9 1 0 0 1 3 -
+p730
+aVDan Majerle CLE 11/17/1995 CLE @ PHL W 27 21 8 12 66.7 5 8 62.5 0 2 0.0 0 2 2 4 0 0 2 0 -
+p731
+aVBobby Phills CLE 11/17/1995 CLE @ PHL W 24 14 6 13 46.2 2 2 100.0 0 0 - 2 1 3 3 2 0 1 2 -
+p732
+aVJohn Amaechi CLE 11/17/1995 CLE @ PHL W 18 5 2 3 66.7 0 0 - 1 3 33.3 2 3 5 0 2 0 1 6 -
+p733
+aVDonny Marshall CLE 11/17/1995 CLE @ PHL W 5 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -
+p734
+aVBob Sura CLE 11/17/1995 CLE @ PHL W 17 17 6 9 66.7 1 2 50.0 4 7 57.1 0 0 0 4 3 0 2 1 -
+p735
+aVJoe Courtney CLE 11/15/1995 CLE @ CHI L 13 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 2 1 0 0 4 -
+p736
+aVDanny Ferry CLE 11/15/1995 CLE @ CHI L 27 16 6 9 66.7 4 5 80.0 0 0 - 2 1 3 1 0 0 2 4 -
+p737
+aVHarold Miner CLE 11/15/1995 CLE @ CHI L 15 13 6 10 60.0 0 0 - 1 1 100.0 0 2 2 1 0 0 3 2 -
+p738
+aVMichael Cage CLE 11/15/1995 CLE @ CHI L 27 4 2 7 28.6 0 0 - 0 0 - 4 2 6 0 3 0 1 3 -
+p739
+aVBobby Phills CLE 11/15/1995 CLE @ CHI L 26 3 1 6 16.7 0 1 0.0 1 1 100.0 0 2 2 2 0 0 2 4 -
+p740
+aVTerrell Brandon CLE 11/15/1995 CLE @ CHI L 26 22 7 10 70.0 4 4 100.0 4 6 66.7 0 3 3 3 2 0 1 1 -
+p741
+aVJohn Crotty CLE 11/15/1995 CLE @ CHI L 17 5 2 3 66.7 1 1 100.0 0 1 0.0 1 4 5 7 2 0 2 1 -
+p742
+aVBob Sura CLE 11/15/1995 CLE @ CHI L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 1 -
+p743
+aVDan Majerle CLE 11/15/1995 CLE @ CHI L 22 6 2 5 40.0 0 2 0.0 2 2 100.0 1 2 3 4 0 0 3 1 -
+p744
+aVChris Mills CLE 11/15/1995 CLE @ CHI L 25 13 6 13 46.2 1 3 33.3 0 0 - 1 2 3 0 0 0 3 2 -
+p745
+aVDonny Marshall CLE 11/15/1995 CLE @ CHI L 15 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 0 1 0 1 1 -
+p746
+aVJohn Amaechi CLE 11/15/1995 CLE @ CHI L 22 4 0 1 0.0 0 0 - 4 6 66.7 1 1 2 0 0 2 1 1 -
+p747
+aVBobby Phills CLE 11/12/1995 CLE vs. SAN L 28 5 2 6 33.3 1 2 50.0 0 0 - 2 6 8 5 0 0 3 1 -
+p748
+aVMichael Cage CLE 11/12/1995 CLE vs. SAN L 42 10 5 10 50.0 0 0 - 0 0 - 4 6 10 0 1 2 0 2 -
+p749
+aVJoe Courtney CLE 11/12/1995 CLE vs. SAN L 7 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 2 -
+p750
+aVTerrell Brandon CLE 11/12/1995 CLE vs. SAN L 36 17 8 17 47.1 1 3 33.3 0 0 - 0 3 3 4 1 1 3 2 -
+p751
+aVChris Mills CLE 11/12/1995 CLE vs. SAN L 40 16 7 17 41.2 2 5 40.0 0 0 - 1 2 3 3 1 1 1 1 -
+p752
+aVBob Sura CLE 11/12/1995 CLE vs. SAN L 13 8 3 4 75.0 0 1 0.0 2 2 100.0 1 0 1 5 1 0 4 1 -
+p753
+aVDanny Ferry CLE 11/12/1995 CLE vs. SAN L 40 18 6 18 33.3 4 10 40.0 2 2 100.0 5 6 11 3 1 3 3 1 -
+p754
+aVDan Majerle CLE 11/12/1995 CLE vs. SAN L 27 5 2 9 22.2 0 5 0.0 1 1 100.0 1 1 2 3 1 0 0 2 -
+p755
+aVJohn Amaechi CLE 11/12/1995 CLE vs. SAN L 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -
+p756
+aVBob Sura CLE 11/10/1995 CLE @ DET L 21 15 3 10 30.0 1 3 33.3 8 8 100.0 1 0 1 7 2 0 2 4 -
+p757
+aVHarold Miner CLE 11/10/1995 CLE @ DET L 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p758
+aVBobby Phills CLE 11/10/1995 CLE @ DET L 27 9 3 10 30.0 0 1 0.0 3 3 100.0 0 1 1 3 0 0 1 0 -
+p759
+aVDonny Marshall CLE 11/10/1995 CLE @ DET L 11 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 1 0 1 4 -
+p760
+aVDan Majerle CLE 11/10/1995 CLE @ DET L 32 10 4 9 44.4 1 4 25.0 1 2 50.0 1 7 8 0 0 0 2 3 -
+p761
+aVMichael Cage CLE 11/10/1995 CLE @ DET L 29 6 3 7 42.9 0 0 - 0 3 0.0 3 3 6 0 3 1 1 4 -
+p762
+aVTerrell Brandon CLE 11/10/1995 CLE @ DET L 30 9 3 16 18.8 0 2 0.0 3 3 100.0 0 3 3 3 3 0 1 1 -
+p763
+aVJohn Amaechi CLE 11/10/1995 CLE @ DET L 25 7 2 7 28.6 0 0 - 3 6 50.0 2 2 4 0 0 0 4 2 -
+p764
+aVDanny Ferry CLE 11/10/1995 CLE @ DET L 26 10 4 8 50.0 1 5 20.0 1 1 100.0 1 4 5 2 1 1 1 3 -
+p765
+aVChris Mills CLE 11/10/1995 CLE @ DET L 28 9 4 11 36.4 1 3 33.3 0 0 - 3 2 5 0 1 0 0 5 -
+p766
+aVJohn Crotty CLE 11/09/1995 CLE vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p767
+aVMichael Cage CLE 11/09/1995 CLE vs. CHI L 36 8 3 8 37.5 0 0 - 2 3 66.7 6 5 11 0 1 0 0 2 -
+p768
+aVHarold Miner CLE 11/09/1995 CLE vs. CHI L 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p769
+aVTerrell Brandon CLE 11/09/1995 CLE vs. CHI L 28 11 4 6 66.7 0 1 0.0 3 4 75.0 0 0 0 9 0 0 1 3 -
+p770
+aVBobby Phills CLE 11/09/1995 CLE vs. CHI L 39 26 11 20 55.0 0 2 0.0 4 4 100.0 0 3 3 5 1 0 1 2 -
+p771
+aVJohn Amaechi CLE 11/09/1995 CLE vs. CHI L 13 11 5 6 83.3 0 0 - 1 1 100.0 1 1 2 0 0 0 3 3 -
+p772
+aVDan Majerle CLE 11/09/1995 CLE vs. CHI L 29 1 0 4 0.0 0 2 0.0 1 2 50.0 0 8 8 5 3 0 1 2 -
+p773
+aVDanny Ferry CLE 11/09/1995 CLE vs. CHI L 28 6 3 11 27.3 0 2 0.0 0 0 - 0 3 3 2 0 0 0 2 -
+p774
+aVChris Mills CLE 11/09/1995 CLE vs. CHI L 37 19 5 15 33.3 1 2 50.0 8 9 88.9 1 4 5 3 1 1 1 2 -
+p775
+aVDonny Marshall CLE 11/09/1995 CLE vs. CHI L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p776
+aVBob Sura CLE 11/09/1995 CLE vs. CHI L 20 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 3 3 0 1 1 -
+p777
+aVDonny Marshall CLE 11/07/1995 CLE vs. IND L 14 9 3 4 75.0 1 1 100.0 2 4 50.0 1 0 1 0 0 0 0 1 -
+p778
+aVJohn Crotty CLE 11/07/1995 CLE vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p779
+aVDanny Ferry CLE 11/07/1995 CLE vs. IND L 29 17 5 16 31.3 3 8 37.5 4 4 100.0 2 3 5 2 1 0 0 3 -
+p780
+aVHarold Miner CLE 11/07/1995 CLE vs. IND L 13 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 0 0 0 6 -
+p781
+aVDan Majerle CLE 11/07/1995 CLE vs. IND L 42 13 5 18 27.8 2 8 25.0 1 4 25.0 1 3 4 5 0 0 2 1 -
+p782
+aVTerrell Brandon CLE 11/07/1995 CLE vs. IND L 36 20 7 19 36.8 2 5 40.0 4 5 80.0 1 1 2 6 1 0 0 3 -
+p783
+aVBob Sura CLE 11/07/1995 CLE vs. IND L 12 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 3 1 0 2 1 -
+p784
+aVBobby Phills CLE 11/07/1995 CLE vs. IND L 43 15 7 13 53.8 1 3 33.3 0 0 - 0 5 5 4 1 0 0 3 -
+p785
+aVMichael Cage CLE 11/07/1995 CLE vs. IND L 38 10 5 7 71.4 0 0 - 0 2 0.0 6 3 9 0 1 1 0 5 -
+p786
+aVJohn Amaechi CLE 11/07/1995 CLE vs. IND L 12 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 0 1 1 4 -
+p787
+aVTyrone Hill CLE 11/04/1995 CLE @ MIA L 26 13 5 13 38.5 0 0 - 3 4 75.0 3 4 7 1 0 0 3 6 -
+p788
+aVTerrell Brandon CLE 11/04/1995 CLE @ MIA L 27 6 3 8 37.5 0 0 - 0 1 0.0 0 1 1 0 2 0 0 1 -
+p789
+aVJohn Amaechi CLE 11/04/1995 CLE @ MIA L 25 2 1 9 11.1 0 0 - 0 0 - 1 1 2 1 0 0 2 3 -
+p790
+aVDonny Marshall CLE 11/04/1995 CLE @ MIA L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p791
+aVBobby Phills CLE 11/04/1995 CLE @ MIA L 24 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 2 -
+p792
+aVMichael Cage CLE 11/04/1995 CLE @ MIA L 25 6 3 6 50.0 0 0 - 0 1 0.0 4 4 8 1 1 0 2 5 -
+p793
+aVChris Mills CLE 11/04/1995 CLE @ MIA L 32 10 2 9 22.2 1 3 33.3 5 7 71.4 2 3 5 1 0 1 2 2 -
+p794
+aVDanny Ferry CLE 11/04/1995 CLE @ MIA L 20 11 4 6 66.7 2 3 66.7 1 2 50.0 0 1 1 3 1 1 0 5 -
+p795
+aVHarold Miner CLE 11/04/1995 CLE @ MIA L 10 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 2 3 -
+p796
+aVBob Sura CLE 11/04/1995 CLE @ MIA L 16 7 2 2 100.0 0 0 - 3 6 50.0 0 1 1 4 1 0 0 3 -
+p797
+aVDan Majerle CLE 11/04/1995 CLE @ MIA L 17 4 1 4 25.0 0 3 0.0 2 2 100.0 0 0 0 1 0 0 1 3 -
+p798
+aVJohn Crotty CLE 11/04/1995 CLE @ MIA L 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -
+p799
+aVJohn Crotty CLE 11/03/1995 CLE @ ORL L 2 2 0 0 - 0 0 - 2 2 100.0 0 2 2 2 0 0 0 0 -
+p800
+aVDonny Marshall CLE 11/03/1995 CLE @ ORL L 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -
+p801
+aVDan Majerle CLE 11/03/1995 CLE @ ORL L 25 11 2 4 50.0 2 4 50.0 5 8 62.5 0 2 2 1 0 0 0 4 -
+p802
+aVTerrell Brandon CLE 11/03/1995 CLE @ ORL L 30 10 5 11 45.5 0 1 0.0 0 0 - 2 2 4 6 3 1 0 3 -
+p803
+aVChris Mills CLE 11/03/1995 CLE @ ORL L 41 15 5 12 41.7 3 4 75.0 2 2 100.0 1 3 4 0 1 1 0 3 -
+p804
+aVMichael Cage CLE 11/03/1995 CLE @ ORL L 24 5 2 2 100.0 0 0 - 1 2 50.0 0 4 4 0 1 1 0 1 -
+p805
+aVTyrone Hill CLE 11/03/1995 CLE @ ORL L 31 13 4 7 57.1 0 0 - 5 9 55.6 2 6 8 2 1 0 3 2 -
+p806
+aVBob Sura CLE 11/03/1995 CLE @ ORL L 16 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 6 2 0 1 0 -
+p807
+aVBobby Phills CLE 11/03/1995 CLE @ ORL L 27 10 3 11 27.3 2 3 66.7 2 2 100.0 0 2 2 2 1 0 1 3 -
+p808
+aVJohn Amaechi CLE 11/03/1995 CLE @ ORL L 26 8 4 6 66.7 0 0 - 0 0 - 0 3 3 0 0 1 3 3 -
+p809
+aVDanny Ferry CLE 11/03/1995 CLE @ ORL L 15 5 2 4 50.0 0 1 0.0 1 4 25.0 1 0 1 1 0 0 2 1 -
+p810
+aVHarold Miner CLE 11/03/1995 CLE @ ORL L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p811
+a.

@@ -1,0 +1,988 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVNicolas Brussino DAL 01/22/2017 DAL vs. LAL W 12 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 0 14
+p2
+aVDevin Harris DAL 01/22/2017 DAL vs. LAL W 12 10 3 5 60.0 2 4 50.0 2 2 100.0 0 2 2 1 0 0 0 1 21
+p3
+aVDwight Powell DAL 01/22/2017 DAL vs. LAL W 19 7 2 4 50.0 1 2 50.0 2 2 100.0 3 4 7 3 3 1 0 4 28
+p4
+aVSalah Mejri DAL 01/22/2017 DAL vs. LAL W 15 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 0 0 2 2 3 5
+p5
+aVHarrison Barnes DAL 01/22/2017 DAL vs. LAL W 27 6 3 12 25.0 0 2 0.0 0 0 - 2 3 5 2 0 0 1 0 15
+p6
+aVWesley Matthews DAL 01/22/2017 DAL vs. LAL W 14 13 5 9 55.6 3 5 60.0 0 0 - 1 1 2 2 1 0 1 0 11
+p7
+aVPierre Jackson DAL 01/22/2017 DAL vs. LAL W 18 10 4 9 44.4 1 3 33.3 1 1 100.0 0 2 2 5 1 0 0 1 28
+p8
+aVJustin Anderson DAL 01/22/2017 DAL vs. LAL W 16 19 5 11 45.5 3 6 50.0 6 6 100.0 1 4 5 2 1 0 3 1 19
+p9
+aVDirk Nowitzki DAL 01/22/2017 DAL vs. LAL W 20 13 5 11 45.5 1 3 33.3 2 2 100.0 1 4 5 1 1 1 1 2 31
+p10
+aVDorian Finney-Smith DAL 01/22/2017 DAL vs. LAL W 34 7 1 4 25.0 1 4 25.0 4 4 100.0 3 4 7 0 1 0 1 1 38
+p11
+aVSeth Curry DAL 01/22/2017 DAL vs. LAL W 27 14 6 8 75.0 2 4 50.0 0 0 - 1 1 2 3 1 0 1 1 15
+p12
+aVDeron Williams DAL 01/22/2017 DAL vs. LAL W 26 13 6 9 66.7 1 3 33.3 0 0 - 0 5 5 8 0 0 0 1 20
+p13
+aVDeron Williams DAL 01/20/2017 DAL vs. UTA L 35 16 6 14 42.9 1 3 33.3 3 5 60.0 1 3 4 8 0 0 3 2 -11
+p14
+aVSeth Curry DAL 01/20/2017 DAL vs. UTA L 30 15 5 8 62.5 2 3 66.7 3 4 75.0 0 3 3 0 1 0 1 5 -9
+p15
+aVJustin Anderson DAL 01/20/2017 DAL vs. UTA L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p16
+aVJ.J. Barea DAL 01/20/2017 DAL vs. UTA L 23 10 5 10 50.0 0 2 0.0 0 0 - 0 5 5 6 0 0 2 1 4
+p17
+aVSalah Mejri DAL 01/20/2017 DAL vs. UTA L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 1 0 2 0
+p18
+aVDwight Powell DAL 01/20/2017 DAL vs. UTA L 27 14 5 6 83.3 0 0 - 4 6 66.7 2 1 3 0 0 0 0 5 3
+p19
+aVDirk Nowitzki DAL 01/20/2017 DAL vs. UTA L 25 3 1 13 7.7 0 4 0.0 1 1 100.0 2 8 10 0 0 0 0 3 1
+p20
+aVDorian Finney-Smith DAL 01/20/2017 DAL vs. UTA L 14 7 3 4 75.0 1 1 100.0 0 0 - 1 1 2 0 1 0 0 1 8
+p21
+aVWesley Matthews DAL 01/20/2017 DAL vs. UTA L 39 11 4 10 40.0 1 4 25.0 2 2 100.0 1 7 8 3 2 0 2 4 -13
+p22
+aVHarrison Barnes DAL 01/20/2017 DAL vs. UTA L 40 19 7 16 43.8 1 2 50.0 4 6 66.7 1 4 5 1 0 1 2 0 -8
+p23
+aVDevin Harris DAL 01/20/2017 DAL vs. UTA L 18 10 2 4 50.0 2 4 50.0 4 4 100.0 0 0 0 3 0 0 2 3 6
+p24
+aVJ.J. Barea DAL 01/19/2017 DAL @ MIA L 16 13 5 10 50.0 3 6 50.0 0 0 - 0 1 1 1 0 0 2 0 -2
+p25
+aVDevin Harris DAL 01/19/2017 DAL @ MIA L 17 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -4
+p26
+aVSeth Curry DAL 01/19/2017 DAL @ MIA L 31 15 6 11 54.5 3 5 60.0 0 1 0.0 2 2 4 0 0 0 1 5 0
+p27
+aVDwight Powell DAL 01/19/2017 DAL @ MIA L 10 2 0 3 0.0 0 1 0.0 2 2 100.0 1 3 4 0 0 1 0 2 -6
+p28
+aVDeron Williams DAL 01/19/2017 DAL @ MIA L 32 6 2 8 25.0 1 5 20.0 1 2 50.0 0 3 3 9 0 0 2 3 -2
+p29
+aVWesley Matthews DAL 01/19/2017 DAL @ MIA L 37 18 7 14 50.0 4 9 44.4 0 0 - 0 5 5 1 0 1 0 1 -9
+p30
+aVDorian Finney-Smith DAL 01/19/2017 DAL @ MIA L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 3 5
+p31
+aVSalah Mejri DAL 01/19/2017 DAL @ MIA L 19 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 1 1 2 2 -3
+p32
+aVJustin Anderson DAL 01/19/2017 DAL @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p33
+aVPierre Jackson DAL 01/19/2017 DAL @ MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p34
+aVHarrison Barnes DAL 01/19/2017 DAL @ MIA L 34 15 7 14 50.0 0 3 0.0 1 1 100.0 2 5 7 2 1 0 1 0 1
+p35
+aVDirk Nowitzki DAL 01/19/2017 DAL @ MIA L 29 19 7 16 43.8 2 6 33.3 3 5 60.0 0 4 4 1 2 0 1 2 -1
+p36
+aVDeron Williams DAL 01/17/2017 DAL @ CHI W 30 11 5 11 45.5 1 5 20.0 0 0 - 0 6 6 9 1 0 4 3 6
+p37
+aVSalah Mejri DAL 01/17/2017 DAL @ CHI W 19 3 1 2 50.0 0 0 - 1 2 50.0 3 2 5 1 0 0 1 5 1
+p38
+aVWesley Matthews DAL 01/17/2017 DAL @ CHI W 40 11 4 10 40.0 3 5 60.0 0 0 - 0 4 4 2 0 0 1 3 -10
+p39
+aVSeth Curry DAL 01/17/2017 DAL @ CHI W 30 18 7 10 70.0 3 5 60.0 1 2 50.0 0 2 2 2 2 0 1 1 6
+p40
+aVJ.J. Barea DAL 01/17/2017 DAL @ CHI W 18 12 5 8 62.5 2 4 50.0 0 0 - 0 1 1 6 0 0 1 1 -5
+p41
+aVDevin Harris DAL 01/17/2017 DAL @ CHI W 18 8 1 7 14.3 0 2 0.0 6 6 100.0 2 0 2 3 1 2 2 2 -5
+p42
+aVHarrison Barnes DAL 01/17/2017 DAL @ CHI W 38 20 8 17 47.1 2 3 66.7 2 2 100.0 1 3 4 1 0 0 2 2 0
+p43
+aVDirk Nowitzki DAL 01/17/2017 DAL @ CHI W 27 10 3 9 33.3 0 3 0.0 4 6 66.7 0 10 10 2 1 0 0 2 -4
+p44
+aVDorian Finney-Smith DAL 01/17/2017 DAL @ CHI W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 11
+p45
+aVDwight Powell DAL 01/17/2017 DAL @ CHI W 12 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 5
+p46
+aVSalah Mejri DAL 01/15/2017 DAL vs. MIN W 18 4 2 3 66.7 0 0 - 0 0 - 3 5 8 0 0 1 1 5 2
+p47
+aVJ.J. Barea DAL 01/15/2017 DAL vs. MIN W 17 15 5 5 100.0 1 1 100.0 4 5 80.0 1 2 3 3 0 0 2 0 18
+p48
+aVNicolas Brussino DAL 01/15/2017 DAL vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p49
+aVWesley Matthews DAL 01/15/2017 DAL vs. MIN W 35 19 7 15 46.7 4 8 50.0 1 2 50.0 0 7 7 1 0 1 1 2 -1
+p50
+aVJustin Anderson DAL 01/15/2017 DAL vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p51
+aVHarrison Barnes DAL 01/15/2017 DAL vs. MIN W 32 13 6 16 37.5 0 4 0.0 1 2 50.0 0 3 3 0 1 1 1 2 -12
+p52
+aVDevin Harris DAL 01/15/2017 DAL vs. MIN W 16 10 2 4 50.0 0 2 0.0 6 6 100.0 1 2 3 3 0 0 0 0 18
+p53
+aVDorian Finney-Smith DAL 01/15/2017 DAL vs. MIN W 13 0 0 0 - 0 0 - 0 0 - 0 1 1 1 2 1 0 1 12
+p54
+aVDirk Nowitzki DAL 01/15/2017 DAL vs. MIN W 28 17 7 14 50.0 3 4 75.0 0 0 - 0 6 6 2 0 3 1 1 17
+p55
+aVDwight Powell DAL 01/15/2017 DAL vs. MIN W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 1 0 4 17
+p56
+aVSeth Curry DAL 01/15/2017 DAL vs. MIN W 32 7 2 9 22.2 1 4 25.0 2 2 100.0 1 2 3 0 3 0 1 0 -5
+p57
+aVDeron Williams DAL 01/15/2017 DAL vs. MIN W 31 13 5 9 55.6 3 5 60.0 0 2 0.0 0 4 4 10 2 0 4 3 -5
+p58
+aVPierre Jackson DAL 01/15/2017 DAL vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p59
+aVJustin Anderson DAL 01/12/2017 DAL @ PHX W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p60
+aVDirk Nowitzki DAL 01/12/2017 DAL @ PHX W 30 18 7 15 46.7 3 5 60.0 1 1 100.0 0 6 6 1 0 1 0 2 20
+p61
+aVJ.J. Barea DAL 01/12/2017 DAL @ PHX W 19 2 1 8 12.5 0 5 0.0 0 0 - 0 1 1 5 1 0 3 1 -12
+p62
+aVDeron Williams DAL 01/12/2017 DAL @ PHX W 32 23 9 15 60.0 4 5 80.0 1 3 33.3 1 1 2 12 0 0 1 4 17
+p63
+aVWesley Matthews DAL 01/12/2017 DAL @ PHX W 38 18 7 14 50.0 4 8 50.0 0 0 - 0 0 0 5 1 0 1 1 16
+p64
+aVDorian Finney-Smith DAL 01/12/2017 DAL @ PHX W 10 2 0 2 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 3 -12
+p65
+aVSeth Curry DAL 01/12/2017 DAL @ PHX W 24 12 4 5 80.0 3 4 75.0 1 1 100.0 0 4 4 1 3 1 1 1 12
+p66
+aVSalah Mejri DAL 01/12/2017 DAL @ PHX W 16 4 2 2 100.0 0 0 - 0 0 - 2 5 7 0 2 2 1 3 2
+p67
+aVDevin Harris DAL 01/12/2017 DAL @ PHX W 16 2 0 3 0.0 0 1 0.0 2 4 50.0 0 1 1 0 0 0 0 2 -12
+p68
+aVDwight Powell DAL 01/12/2017 DAL @ PHX W 15 10 3 7 42.9 0 0 - 4 4 100.0 3 2 5 0 2 2 2 1 -9
+p69
+aVHarrison Barnes DAL 01/12/2017 DAL @ PHX W 36 22 10 17 58.8 1 4 25.0 1 2 50.0 1 3 4 5 2 1 0 2 9
+p70
+aVAndrew Bogut DAL 01/09/2017 DAL @ MIN L 18 2 1 2 50.0 0 0 - 0 0 - 3 1 4 2 0 1 2 3 -2
+p71
+aVDwight Powell DAL 01/09/2017 DAL @ MIN L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -7
+p72
+aVDirk Nowitzki DAL 01/09/2017 DAL @ MIN L 31 26 8 16 50.0 5 10 50.0 5 7 71.4 0 5 5 4 0 0 0 5 -20
+p73
+aVDeron Williams DAL 01/09/2017 DAL @ MIN L 33 11 5 9 55.6 1 3 33.3 0 0 - 1 1 2 7 1 0 3 2 0
+p74
+aVWesley Matthews DAL 01/09/2017 DAL @ MIN L 37 2 1 7 14.3 0 3 0.0 0 0 - 0 4 4 5 0 0 2 3 0
+p75
+aVHarrison Barnes DAL 01/09/2017 DAL @ MIN L 34 30 13 23 56.5 4 5 80.0 0 0 - 0 2 2 1 0 0 1 3 2
+p76
+aVDevin Harris DAL 01/09/2017 DAL @ MIN L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -11
+p77
+aVJ.J. Barea DAL 01/09/2017 DAL @ MIN L 14 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 1 -11
+p78
+aVDorian Finney-Smith DAL 01/09/2017 DAL @ MIN L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 1 0
+p79
+aVSalah Mejri DAL 01/09/2017 DAL @ MIN L 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 0
+p80
+aVJustin Anderson DAL 01/09/2017 DAL @ MIN L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p81
+aVSeth Curry DAL 01/09/2017 DAL @ MIN L 30 8 3 6 50.0 2 3 66.7 0 0 - 1 1 2 0 1 1 3 0 8
+p82
+aVSeth Curry DAL 01/07/2017 DAL vs. ATL L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 -14
+p83
+aVDevin Harris DAL 01/07/2017 DAL vs. ATL L 15 11 3 8 37.5 1 6 16.7 4 4 100.0 0 1 1 0 0 0 0 1 8
+p84
+aVDwight Powell DAL 01/07/2017 DAL vs. ATL L 16 8 4 5 80.0 0 0 - 0 0 - 2 4 6 0 1 0 0 1 12
+p85
+aVNicolas Brussino DAL 01/07/2017 DAL vs. ATL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p86
+aVDeron Williams DAL 01/07/2017 DAL vs. ATL L 28 7 3 12 25.0 0 5 0.0 1 1 100.0 2 5 7 4 0 0 4 3 -19
+p87
+aVJustin Anderson DAL 01/07/2017 DAL vs. ATL L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p88
+aVJ.J. Barea DAL 01/07/2017 DAL vs. ATL L 17 7 3 8 37.5 1 4 25.0 0 0 - 0 4 4 7 0 0 1 1 6
+p89
+aVDorian Finney-Smith DAL 01/07/2017 DAL vs. ATL L 22 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 3 1 1 1 4 -5
+p90
+aVSalah Mejri DAL 01/07/2017 DAL vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p91
+aVHarrison Barnes DAL 01/07/2017 DAL vs. ATL L 30 21 9 15 60.0 2 4 50.0 1 2 50.0 2 2 4 0 2 0 0 3 -20
+p92
+aVWesley Matthews DAL 01/07/2017 DAL vs. ATL L 33 9 3 12 25.0 3 7 42.9 0 0 - 0 4 4 1 0 0 1 4 -16
+p93
+aVAndrew Bogut DAL 01/07/2017 DAL vs. ATL L 29 2 1 3 33.3 0 0 - 0 0 - 0 11 11 0 0 1 2 3 -24
+p94
+aVDirk Nowitzki DAL 01/07/2017 DAL vs. ATL L 30 11 4 10 40.0 0 3 0.0 3 3 100.0 0 3 3 2 2 1 3 2 3
+p95
+aVDorian Finney-Smith DAL 01/05/2017 DAL vs. PHX L 17 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 0 0 1 0 0 -3
+p96
+aVDwight Powell DAL 01/05/2017 DAL vs. PHX L 9 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 1 1 1 -5
+p97
+aVHarrison Barnes DAL 01/05/2017 DAL vs. PHX L 39 19 8 13 61.5 0 0 - 3 4 75.0 2 4 6 2 1 1 0 0 1
+p98
+aVDevin Harris DAL 01/05/2017 DAL vs. PHX L 20 12 3 5 60.0 2 3 66.7 4 4 100.0 0 3 3 2 1 0 1 0 1
+p99
+aVWesley Matthews DAL 01/05/2017 DAL vs. PHX L 36 9 3 12 25.0 1 8 12.5 2 2 100.0 0 2 2 2 1 2 2 2 -5
+p100
+aVAndrew Bogut DAL 01/05/2017 DAL vs. PHX L 20 0 0 0 - 0 0 - 0 0 - 0 0 0 2 2 1 0 5 3
+p101
+aVSeth Curry DAL 01/05/2017 DAL vs. PHX L 26 16 6 9 66.7 1 3 33.3 3 4 75.0 0 1 1 0 0 0 1 4 5
+p102
+aVDirk Nowitzki DAL 01/05/2017 DAL vs. PHX L 28 13 5 14 35.7 3 7 42.9 0 0 - 1 6 7 3 0 1 1 5 -13
+p103
+aVDeron Williams DAL 01/05/2017 DAL vs. PHX L 33 20 8 14 57.1 2 5 40.0 2 3 66.7 0 4 4 6 0 0 3 2 -9
+p104
+aVNicolas Brussino DAL 01/05/2017 DAL vs. PHX L 10 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 1 1 0 0 0 -5
+p105
+aVPierre Jackson DAL 01/05/2017 DAL vs. PHX L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p106
+aVAndrew Bogut DAL 01/03/2017 DAL vs. WAS W 20 0 0 3 0.0 0 0 - 0 0 - 2 4 6 2 0 1 1 1 7
+p107
+aVPierre Jackson DAL 01/03/2017 DAL vs. WAS W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 5
+p108
+aVDorian Finney-Smith DAL 01/03/2017 DAL vs. WAS W 26 0 0 1 0.0 0 1 0.0 0 0 - 0 6 6 1 1 0 2 1 -12
+p109
+aVHarrison Barnes DAL 01/03/2017 DAL vs. WAS W 35 26 8 18 44.4 2 4 50.0 8 9 88.9 0 7 7 5 0 1 2 5 -13
+p110
+aVDeron Williams DAL 01/03/2017 DAL vs. WAS W 32 21 7 13 53.8 4 7 57.1 3 3 100.0 0 1 1 6 0 0 5 4 -5
+p111
+aVDwight Powell DAL 01/03/2017 DAL vs. WAS W 13 8 2 3 66.7 0 0 - 4 5 80.0 0 3 3 1 1 0 1 2 18
+p112
+aVSalah Mejri DAL 01/03/2017 DAL vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p113
+aVDirk Nowitzki DAL 01/03/2017 DAL vs. WAS W 24 11 4 9 44.4 1 4 25.0 2 2 100.0 0 9 9 0 0 0 0 2 6
+p114
+aVWesley Matthews DAL 01/03/2017 DAL vs. WAS W 38 12 5 11 45.5 2 4 50.0 0 0 - 0 2 2 2 0 1 0 0 -6
+p115
+aVSeth Curry DAL 01/03/2017 DAL vs. WAS W 22 16 5 8 62.5 4 5 80.0 2 2 100.0 0 1 1 2 1 0 1 2 18
+p116
+aVDevin Harris DAL 01/03/2017 DAL vs. WAS W 17 17 6 11 54.5 4 7 57.1 1 1 100.0 0 4 4 1 1 0 0 2 19
+p117
+aVJustin Anderson DAL 01/03/2017 DAL vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p118
+aVDevin Harris DAL 12/30/2016 DAL @ GSW L 18 4 1 4 25.0 1 4 25.0 1 2 50.0 1 1 2 2 0 0 1 2 -6
+p119
+aVDwight Powell DAL 12/30/2016 DAL @ GSW L 26 10 5 7 71.4 0 0 - 0 0 - 3 10 13 1 0 2 0 1 12
+p120
+aVWesley Matthews DAL 12/30/2016 DAL @ GSW L 30 14 5 14 35.7 2 4 50.0 2 2 100.0 1 1 2 1 3 0 0 1 -12
+p121
+aVDorian Finney-Smith DAL 12/30/2016 DAL @ GSW L 21 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 0 -19
+p122
+aVHarrison Barnes DAL 12/30/2016 DAL @ GSW L 28 25 11 18 61.1 3 7 42.9 0 0 - 0 3 3 1 2 1 1 0 -17
+p123
+aVDeron Williams DAL 12/30/2016 DAL @ GSW L 20 11 4 7 57.1 1 3 33.3 2 3 66.7 0 2 2 4 1 0 2 0 -20
+p124
+aVSeth Curry DAL 12/30/2016 DAL @ GSW L 26 11 4 8 50.0 1 3 33.3 2 2 100.0 1 0 1 5 2 0 0 1 -4
+p125
+aVSalah Mejri DAL 12/30/2016 DAL @ GSW L 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -6
+p126
+aVNicolas Brussino DAL 12/30/2016 DAL @ GSW L 12 2 1 2 50.0 0 1 0.0 0 0 - 2 1 3 1 0 1 1 1 13
+p127
+aVJustin Anderson DAL 12/30/2016 DAL @ GSW L 15 6 3 11 27.3 0 4 0.0 0 0 - 2 2 4 1 2 2 0 3 9
+p128
+aVDirk Nowitzki DAL 12/30/2016 DAL @ GSW L 23 11 3 12 25.0 0 3 0.0 5 5 100.0 0 5 5 1 0 1 3 2 -17
+p129
+aVPierre Jackson DAL 12/30/2016 DAL @ GSW L 12 3 1 6 16.7 0 1 0.0 1 1 100.0 0 1 1 5 1 0 0 1 13
+p130
+aVAJ Hammons DAL 12/30/2016 DAL @ GSW L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p131
+aVAndrew Bogut DAL 12/29/2016 DAL @ LAL W 22 2 1 2 50.0 0 0 - 0 0 - 2 5 7 2 0 1 3 3 3
+p132
+aVSeth Curry DAL 12/29/2016 DAL @ LAL W 25 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 1 3 0 1 4 2
+p133
+aVDevin Harris DAL 12/29/2016 DAL @ LAL W 21 14 5 10 50.0 3 5 60.0 1 1 100.0 0 1 1 2 0 0 2 1 4
+p134
+aVJustin Anderson DAL 12/29/2016 DAL @ LAL W 10 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 1 0 0 0 -4
+p135
+aVDorian Finney-Smith DAL 12/29/2016 DAL @ LAL W 32 12 4 8 50.0 3 7 42.9 1 2 50.0 1 2 3 2 1 0 1 0 16
+p136
+aVHarrison Barnes DAL 12/29/2016 DAL @ LAL W 36 17 6 17 35.3 1 4 25.0 4 4 100.0 2 7 9 4 1 0 2 1 9
+p137
+aVWesley Matthews DAL 12/29/2016 DAL @ LAL W 35 20 6 14 42.9 4 9 44.4 4 6 66.7 1 5 6 2 0 0 0 1 14
+p138
+aVDwight Powell DAL 12/29/2016 DAL @ LAL W 14 14 7 9 77.8 0 1 0.0 0 0 - 1 5 6 0 0 0 0 1 8
+p139
+aVSalah Mejri DAL 12/29/2016 DAL @ LAL W 12 4 2 2 100.0 0 0 - 0 0 - 3 3 6 0 0 1 0 0 1
+p140
+aVDeron Williams DAL 12/29/2016 DAL @ LAL W 33 8 3 6 50.0 1 3 33.3 1 1 100.0 0 1 1 11 2 0 6 6 7
+p141
+aVJustin Anderson DAL 12/27/2016 DAL vs. HOU L 21 13 4 8 50.0 2 6 33.3 3 4 75.0 2 6 8 2 1 2 0 1 3
+p142
+aVDorian Finney-Smith DAL 12/27/2016 DAL vs. HOU L 25 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -13
+p143
+aVSalah Mejri DAL 12/27/2016 DAL vs. HOU L 5 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 1 1 3 -5
+p144
+aVWesley Matthews DAL 12/27/2016 DAL vs. HOU L 29 19 7 13 53.8 3 7 42.9 2 2 100.0 0 1 1 1 1 0 0 2 -17
+p145
+aVHarrison Barnes DAL 12/27/2016 DAL vs. HOU L 32 21 7 16 43.8 1 3 33.3 6 6 100.0 0 3 3 1 0 0 0 2 -16
+p146
+aVAndrew Bogut DAL 12/27/2016 DAL vs. HOU L 10 0 0 0 - 0 0 - 0 0 - 2 4 6 2 0 2 2 1 7
+p147
+aVDevin Harris DAL 12/27/2016 DAL vs. HOU L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 0
+p148
+aVDirk Nowitzki DAL 12/27/2016 DAL vs. HOU L 15 7 2 8 25.0 0 0 - 3 4 75.0 1 2 3 0 0 0 1 0 -22
+p149
+aVNicolas Brussino DAL 12/27/2016 DAL vs. HOU L 9 3 1 4 25.0 1 4 25.0 0 0 - 1 1 2 1 2 0 0 0 10
+p150
+aVDeron Williams DAL 12/27/2016 DAL vs. HOU L 23 6 2 11 18.2 2 5 40.0 0 1 0.0 2 1 3 6 0 0 2 2 -25
+p151
+aVDwight Powell DAL 12/27/2016 DAL vs. HOU L 23 13 4 6 66.7 1 1 100.0 4 6 66.7 1 1 2 3 1 0 0 5 -3
+p152
+aVSeth Curry DAL 12/27/2016 DAL vs. HOU L 22 11 4 10 40.0 3 6 50.0 0 0 - 1 2 3 3 1 0 0 0 -7
+p153
+aVPierre Jackson DAL 12/27/2016 DAL vs. HOU L 11 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 2 0 0 2 0 8
+p154
+aVSeth Curry DAL 12/26/2016 DAL @ NOP L 31 16 5 9 55.6 2 6 33.3 4 5 80.0 0 1 1 7 0 0 1 3 -8
+p155
+aVAJ Hammons DAL 12/26/2016 DAL @ NOP L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p156
+aVDwight Powell DAL 12/26/2016 DAL @ NOP L 21 6 2 3 66.7 0 1 0.0 2 4 50.0 0 5 5 0 0 0 0 3 -5
+p157
+aVDorian Finney-Smith DAL 12/26/2016 DAL @ NOP L 17 2 1 1 100.0 0 0 - 0 0 - 2 1 3 2 0 0 0 4 -12
+p158
+aVJustin Anderson DAL 12/26/2016 DAL @ NOP L 13 9 4 6 66.7 1 2 50.0 0 0 - 1 1 2 0 0 1 1 0 8
+p159
+aVWesley Matthews DAL 12/26/2016 DAL @ NOP L 36 17 4 11 36.4 3 7 42.9 6 7 85.7 0 2 2 2 2 0 4 2 -12
+p160
+aVDirk Nowitzki DAL 12/26/2016 DAL @ NOP L 17 10 4 9 44.4 2 4 50.0 0 0 - 0 2 2 4 0 0 0 1 -5
+p161
+aVSalah Mejri DAL 12/26/2016 DAL @ NOP L 16 0 0 0 - 0 0 - 0 0 - 0 5 5 0 1 0 0 4 5
+p162
+aVHarrison Barnes DAL 12/26/2016 DAL @ NOP L 37 15 6 14 42.9 1 2 50.0 2 2 100.0 0 7 7 1 0 0 2 1 -11
+p163
+aVDevin Harris DAL 12/26/2016 DAL @ NOP L 18 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 2 0 0 0 1 1
+p164
+aVDeron Williams DAL 12/26/2016 DAL @ NOP L 32 24 9 18 50.0 3 7 42.9 3 4 75.0 1 1 2 9 1 0 2 3 -2
+p165
+aVJonathan Gibson DAL 12/26/2016 DAL @ NOP L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p166
+aVNicolas Brussino DAL 12/26/2016 DAL @ NOP L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p167
+aVDwight Powell DAL 12/23/2016 DAL @ LAC W 18 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 3 0 1 0 7
+p168
+aVSalah Mejri DAL 12/23/2016 DAL @ LAC W 21 5 1 1 100.0 0 0 - 3 5 60.0 5 3 8 1 0 1 1 0 -12
+p169
+aVDevin Harris DAL 12/23/2016 DAL @ LAC W 12 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 1 2 2 -3
+p170
+aVDorian Finney-Smith DAL 12/23/2016 DAL @ LAC W 30 0 0 8 0.0 0 6 0.0 0 0 - 2 4 6 0 2 0 0 2 -8
+p171
+aVHarrison Barnes DAL 12/23/2016 DAL @ LAC W 38 24 11 19 57.9 0 2 0.0 2 3 66.7 2 4 6 1 1 1 3 1 4
+p172
+aVSeth Curry DAL 12/23/2016 DAL @ LAC W 25 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 7 3 0 0 0 8
+p173
+aVDirk Nowitzki DAL 12/23/2016 DAL @ LAC W 15 17 7 12 58.3 2 3 66.7 1 1 100.0 2 2 4 0 0 0 1 2 7
+p174
+aVJustin Anderson DAL 12/23/2016 DAL @ LAC W 7 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 1
+p175
+aVWesley Matthews DAL 12/23/2016 DAL @ LAC W 40 16 6 16 37.5 1 8 12.5 3 6 50.0 0 6 6 2 3 1 0 3 2
+p176
+aVDeron Williams DAL 12/23/2016 DAL @ LAC W 35 12 5 16 31.3 2 5 40.0 0 0 - 0 5 5 9 1 0 4 2 4
+p177
+aVSalah Mejri DAL 12/21/2016 DAL @ POR W 24 2 1 1 100.0 0 0 - 0 0 - 1 5 6 1 1 3 1 5 7
+p178
+aVDeron Williams DAL 12/21/2016 DAL @ POR W 32 23 10 17 58.8 2 7 28.6 1 1 100.0 2 3 5 5 0 0 4 2 13
+p179
+aVHarrison Barnes DAL 12/21/2016 DAL @ POR W 36 28 10 22 45.5 0 2 0.0 8 8 100.0 1 6 7 0 0 0 0 3 3
+p180
+aVDorian Finney-Smith DAL 12/21/2016 DAL @ POR W 31 2 1 3 33.3 0 2 0.0 0 0 - 1 3 4 0 1 0 0 2 2
+p181
+aVSeth Curry DAL 12/21/2016 DAL @ POR W 24 12 4 10 40.0 4 8 50.0 0 0 - 0 0 0 0 2 0 2 1 -5
+p182
+aVDwight Powell DAL 12/21/2016 DAL @ POR W 24 9 1 2 50.0 0 0 - 7 9 77.8 5 3 8 0 3 2 1 4 -6
+p183
+aVDevin Harris DAL 12/21/2016 DAL @ POR W 19 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 1 1 0 0 0 -13
+p184
+aVWesley Matthews DAL 12/21/2016 DAL @ POR W 41 16 6 16 37.5 1 7 14.3 3 5 60.0 0 4 4 3 3 0 1 3 3
+p185
+aVJ.J. Barea DAL 12/21/2016 DAL @ POR W 9 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 4 1 0 1 0 1
+p186
+aVSeth Curry DAL 12/19/2016 DAL @ DEN L 26 14 5 7 71.4 2 3 66.7 2 2 100.0 1 3 4 2 0 0 1 0 9
+p187
+aVDeron Williams DAL 12/19/2016 DAL @ DEN L 31 23 9 17 52.9 3 3 100.0 2 3 66.7 0 1 1 8 1 0 3 3 -11
+p188
+aVDevin Harris DAL 12/19/2016 DAL @ DEN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p189
+aVDwight Powell DAL 12/19/2016 DAL @ DEN L 29 11 5 8 62.5 1 1 100.0 0 0 - 2 6 8 1 0 3 0 2 -7
+p190
+aVHarrison Barnes DAL 12/19/2016 DAL @ DEN L 34 19 9 15 60.0 1 3 33.3 0 0 - 0 2 2 1 1 0 1 2 -7
+p191
+aVJonathan Gibson DAL 12/19/2016 DAL @ DEN L 6 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 6
+p192
+aVJustin Anderson DAL 12/19/2016 DAL @ DEN L 14 5 1 1 100.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 1 2 8
+p193
+aVWesley Matthews DAL 12/19/2016 DAL @ DEN L 36 9 3 11 27.3 2 6 33.3 1 1 100.0 0 0 0 5 1 0 2 1 -29
+p194
+aVSalah Mejri DAL 12/19/2016 DAL @ DEN L 13 2 1 1 100.0 0 0 - 0 1 0.0 0 2 2 0 0 0 0 4 -12
+p195
+aVNicolas Brussino DAL 12/19/2016 DAL @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p196
+aVAJ Hammons DAL 12/19/2016 DAL @ DEN L 5 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 0 2 0 9
+p197
+aVDorian Finney-Smith DAL 12/19/2016 DAL @ DEN L 26 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 0 0 1 2 2 -7
+p198
+aVJ.J. Barea DAL 12/19/2016 DAL @ DEN L 13 11 5 9 55.6 1 2 50.0 0 0 - 0 3 3 4 1 0 0 0 -6
+p199
+aVWesley Matthews DAL 12/18/2016 DAL vs. SAC W 35 15 6 13 46.2 3 8 37.5 0 0 - 0 2 2 1 1 0 2 3 10
+p200
+aVJonathan Gibson DAL 12/18/2016 DAL vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p201
+aVJustin Anderson DAL 12/18/2016 DAL vs. SAC W 2 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 3
+p202
+aVDorian Finney-Smith DAL 12/18/2016 DAL vs. SAC W 29 17 5 9 55.6 3 6 50.0 4 4 100.0 0 2 2 3 1 0 3 2 20
+p203
+aVNicolas Brussino DAL 12/18/2016 DAL vs. SAC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p204
+aVHarrison Barnes DAL 12/18/2016 DAL vs. SAC W 30 15 5 15 33.3 1 2 50.0 4 6 66.7 3 6 9 2 3 1 0 0 9
+p205
+aVSeth Curry DAL 12/18/2016 DAL vs. SAC W 29 13 5 10 50.0 3 6 50.0 0 0 - 0 5 5 4 2 0 2 0 9
+p206
+aVSalah Mejri DAL 12/18/2016 DAL vs. SAC W 23 0 0 0 - 0 0 - 0 0 - 1 6 7 0 0 3 0 1 5
+p207
+aVAJ Hammons DAL 12/18/2016 DAL vs. SAC W 16 0 0 4 0.0 0 1 0.0 0 2 0.0 0 3 3 0 0 2 0 4 12
+p208
+aVDeron Williams DAL 12/18/2016 DAL vs. SAC W 33 15 5 10 50.0 1 4 25.0 4 4 100.0 0 2 2 7 0 0 2 2 10
+p209
+aVDevin Harris DAL 12/18/2016 DAL vs. SAC W 20 14 5 10 50.0 2 5 40.0 2 2 100.0 0 7 7 1 1 0 2 0 11
+p210
+aVDwight Powell DAL 12/18/2016 DAL vs. SAC W 20 8 3 4 75.0 0 0 - 2 2 100.0 2 4 6 1 1 0 0 0 8
+p211
+aVSalah Mejri DAL 12/16/2016 DAL @ UTA L 21 7 3 3 100.0 0 0 - 1 1 100.0 2 3 5 1 0 0 0 5 3
+p212
+aVHarrison Barnes DAL 12/16/2016 DAL @ UTA L 37 21 10 22 45.5 1 3 33.3 0 0 - 1 2 3 3 2 0 1 2 6
+p213
+aVWesley Matthews DAL 12/16/2016 DAL @ UTA L 33 13 4 11 36.4 3 7 42.9 2 2 100.0 0 2 2 1 3 0 3 3 -13
+p214
+aVDevin Harris DAL 12/16/2016 DAL @ UTA L 18 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 2 0 0 3 -6
+p215
+aVDorian Finney-Smith DAL 12/16/2016 DAL @ UTA L 24 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 2 -10
+p216
+aVSeth Curry DAL 12/16/2016 DAL @ UTA L 28 13 5 11 45.5 3 5 60.0 0 1 0.0 0 5 5 4 0 0 0 1 6
+p217
+aVDeron Williams DAL 12/16/2016 DAL @ UTA L 35 18 6 11 54.5 1 4 25.0 5 5 100.0 0 0 0 7 2 0 1 1 1
+p218
+aVJustin Anderson DAL 12/16/2016 DAL @ UTA L 18 10 2 6 33.3 2 4 50.0 4 5 80.0 2 1 3 0 0 0 0 4 4
+p219
+aVDwight Powell DAL 12/16/2016 DAL @ UTA L 24 10 3 9 33.3 0 2 0.0 4 5 80.0 1 3 4 1 0 0 0 0 -7
+p220
+aVAJ Hammons DAL 12/16/2016 DAL @ UTA L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 3 1
+p221
+aVDeron Williams DAL 12/14/2016 DAL vs. DET L 36 16 3 13 23.1 1 4 25.0 9 9 100.0 1 2 3 5 1 0 2 3 -5
+p222
+aVSalah Mejri DAL 12/14/2016 DAL vs. DET L 27 4 2 4 50.0 0 0 - 0 0 - 1 7 8 0 2 3 2 3 6
+p223
+aVDevin Harris DAL 12/14/2016 DAL vs. DET L 14 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 0 0 0 2 -13
+p224
+aVAJ Hammons DAL 12/14/2016 DAL vs. DET L 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p225
+aVDorian Finney-Smith DAL 12/14/2016 DAL vs. DET L 29 8 3 6 50.0 2 4 50.0 0 0 - 2 3 5 1 1 0 2 2 9
+p226
+aVNicolas Brussino DAL 12/14/2016 DAL vs. DET L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p227
+aVJonathan Gibson DAL 12/14/2016 DAL vs. DET L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p228
+aVJustin Anderson DAL 12/14/2016 DAL vs. DET L 13 9 3 7 42.9 2 3 66.7 1 2 50.0 0 5 5 0 0 0 1 2 -13
+p229
+aVSeth Curry DAL 12/14/2016 DAL vs. DET L 23 7 3 8 37.5 1 1 100.0 0 0 - 0 0 0 2 2 0 0 3 -17
+p230
+aVWesley Matthews DAL 12/14/2016 DAL vs. DET L 38 4 2 10 20.0 0 5 0.0 0 0 - 0 2 2 4 4 0 1 3 2
+p231
+aVHarrison Barnes DAL 12/14/2016 DAL vs. DET L 37 19 9 18 50.0 1 5 20.0 0 0 - 2 3 5 2 2 0 2 0 -3
+p232
+aVDwight Powell DAL 12/14/2016 DAL vs. DET L 20 9 4 6 66.7 0 0 - 1 1 100.0 0 1 1 2 1 0 1 3 -16
+p233
+aVAJ Hammons DAL 12/12/2016 DAL vs. DEN W 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p234
+aVSalah Mejri DAL 12/12/2016 DAL vs. DEN W 22 7 3 3 100.0 0 0 - 1 2 50.0 4 4 8 1 1 4 1 2 15
+p235
+aVDwight Powell DAL 12/12/2016 DAL vs. DEN W 22 8 4 5 80.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 13
+p236
+aVJustin Anderson DAL 12/12/2016 DAL vs. DEN W 24 11 5 10 50.0 0 4 0.0 1 1 100.0 1 5 6 2 0 1 1 1 4
+p237
+aVJonathan Gibson DAL 12/12/2016 DAL vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p238
+aVDorian Finney-Smith DAL 12/12/2016 DAL vs. DEN W 32 13 5 9 55.6 3 5 60.0 0 0 - 1 8 9 3 2 2 1 3 15
+p239
+aVWesley Matthews DAL 12/12/2016 DAL vs. DEN W 32 25 10 14 71.4 5 7 71.4 0 0 - 0 4 4 0 2 0 0 1 22
+p240
+aVHarrison Barnes DAL 12/12/2016 DAL vs. DEN W 32 18 6 11 54.5 0 0 - 6 7 85.7 1 2 3 1 1 0 2 0 20
+p241
+aVSeth Curry DAL 12/12/2016 DAL vs. DEN W 16 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 4 1 0 1 3 9
+p242
+aVDevin Harris DAL 12/12/2016 DAL vs. DEN W 16 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 5
+p243
+aVNicolas Brussino DAL 12/12/2016 DAL vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p244
+aVDeron Williams DAL 12/12/2016 DAL vs. DEN W 32 17 7 16 43.8 1 6 16.7 2 2 100.0 0 2 2 8 2 0 1 2 19
+p245
+aVJonathan Gibson DAL 12/10/2016 DAL @ HOU L 14 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 2 0 0 1 2 -7
+p246
+aVDeron Williams DAL 12/10/2016 DAL @ HOU L 32 9 3 10 30.0 1 4 25.0 2 2 100.0 0 3 3 6 0 0 0 2 -12
+p247
+aVHarrison Barnes DAL 12/10/2016 DAL @ HOU L 32 20 7 13 53.8 1 1 100.0 5 5 100.0 2 2 4 1 1 0 2 2 -11
+p248
+aVWesley Matthews DAL 12/10/2016 DAL @ HOU L 35 26 8 22 36.4 5 13 38.5 5 7 71.4 1 2 3 2 1 0 0 1 -15
+p249
+aVSalah Mejri DAL 12/10/2016 DAL @ HOU L 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 1 1 3 -12
+p250
+aVDorian Finney-Smith DAL 12/10/2016 DAL @ HOU L 30 11 5 9 55.6 1 3 33.3 0 0 - 1 3 4 0 1 2 0 2 -13
+p251
+aVNicolas Brussino DAL 12/10/2016 DAL @ HOU L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -7
+p252
+aVJustin Anderson DAL 12/10/2016 DAL @ HOU L 12 6 2 7 28.6 2 6 33.3 0 0 - 0 3 3 0 0 0 2 3 -9
+p253
+aVDwight Powell DAL 12/10/2016 DAL @ HOU L 26 8 4 4 100.0 0 0 - 0 0 - 1 5 6 2 2 0 1 1 -9
+p254
+aVSeth Curry DAL 12/10/2016 DAL @ HOU L 26 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 3 1 0 0 1 -7
+p255
+aVAJ Hammons DAL 12/10/2016 DAL @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p256
+aVDevin Harris DAL 12/10/2016 DAL @ HOU L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -2
+p257
+aVSalah Mejri DAL 12/09/2016 DAL vs. IND W 27 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 4 1 0 0 17
+p258
+aVDorian Finney-Smith DAL 12/09/2016 DAL vs. IND W 33 12 5 8 62.5 2 4 50.0 0 0 - 1 7 8 2 0 0 1 3 4
+p259
+aVSeth Curry DAL 12/09/2016 DAL vs. IND W 25 4 2 8 25.0 0 3 0.0 0 1 0.0 0 0 0 6 1 0 2 1 5
+p260
+aVDeron Williams DAL 12/09/2016 DAL vs. IND W 33 16 5 13 38.5 3 6 50.0 3 3 100.0 0 1 1 6 1 0 1 4 13
+p261
+aVDwight Powell DAL 12/09/2016 DAL vs. IND W 21 14 3 6 50.0 0 1 0.0 8 8 100.0 1 4 5 1 0 0 1 5 -9
+p262
+aVDevin Harris DAL 12/09/2016 DAL vs. IND W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 2 1 0 1 1 -12
+p263
+aVHarrison Barnes DAL 12/09/2016 DAL vs. IND W 36 25 10 17 58.8 3 3 100.0 2 4 50.0 3 5 8 2 0 0 0 2 14
+p264
+aVNicolas Brussino DAL 12/09/2016 DAL vs. IND W 12 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 1 0 0 1 1 4
+p265
+aVWesley Matthews DAL 12/09/2016 DAL vs. IND W 36 26 8 16 50.0 5 10 50.0 5 8 62.5 0 4 4 3 1 0 1 2 4
+p266
+aVJustin Anderson DAL 12/07/2016 DAL vs. SAC L 16 13 3 8 37.5 0 2 0.0 7 8 87.5 2 1 3 0 1 0 2 0 -22
+p267
+aVAJ Hammons DAL 12/07/2016 DAL vs. SAC L 11 0 0 2 0.0 0 0 - 0 2 0.0 0 5 5 0 0 2 0 1 -10
+p268
+aVJonathan Gibson DAL 12/07/2016 DAL vs. SAC L 28 7 3 12 25.0 1 5 20.0 0 0 - 0 2 2 0 1 0 1 2 -19
+p269
+aVHarrison Barnes DAL 12/07/2016 DAL vs. SAC L 32 11 5 16 31.3 0 4 0.0 1 2 50.0 2 2 4 1 0 0 6 3 -6
+p270
+aVDwight Powell DAL 12/07/2016 DAL vs. SAC L 25 6 3 7 42.9 0 0 - 0 0 - 2 3 5 5 2 1 0 3 -19
+p271
+aVDorian Finney-Smith DAL 12/07/2016 DAL vs. SAC L 23 8 3 5 60.0 2 3 66.7 0 0 - 0 3 3 2 1 1 4 4 -26
+p272
+aVNicolas Brussino DAL 12/07/2016 DAL vs. SAC L 12 3 1 4 25.0 0 3 0.0 1 1 100.0 0 1 1 1 1 0 0 1 -10
+p273
+aVWesley Matthews DAL 12/07/2016 DAL vs. SAC L 33 16 6 10 60.0 4 6 66.7 0 0 - 0 4 4 1 1 1 1 1 -20
+p274
+aVDeron Williams DAL 12/07/2016 DAL vs. SAC L 32 20 6 8 75.0 3 5 60.0 5 5 100.0 0 2 2 6 0 0 4 2 -9
+p275
+aVDevin Harris DAL 12/07/2016 DAL vs. SAC L 17 3 1 3 33.3 0 2 0.0 1 2 50.0 0 4 4 1 0 0 1 1 -8
+p276
+aVSalah Mejri DAL 12/07/2016 DAL vs. SAC L 11 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 0 0 1 4 -6
+p277
+aVDwight Powell DAL 12/05/2016 DAL vs. CHA L 32 15 7 11 63.6 0 0 - 1 3 33.3 4 3 7 0 0 1 0 2 -7
+p278
+aVSalah Mejri DAL 12/05/2016 DAL vs. CHA L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -1
+p279
+aVHarrison Barnes DAL 12/05/2016 DAL vs. CHA L 38 29 10 21 47.6 2 4 50.0 7 7 100.0 4 3 7 2 1 0 0 4 4
+p280
+aVJustin Anderson DAL 12/05/2016 DAL vs. CHA L 17 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 0 1 0 1 1 -13
+p281
+aVDevin Harris DAL 12/05/2016 DAL vs. CHA L 18 7 2 4 50.0 1 3 33.3 2 2 100.0 0 3 3 2 2 0 1 2 -2
+p282
+aVJonathan Gibson DAL 12/05/2016 DAL vs. CHA L 18 13 5 9 55.6 3 4 75.0 0 1 0.0 0 2 2 2 0 0 1 2 -11
+p283
+aVDorian Finney-Smith DAL 12/05/2016 DAL vs. CHA L 26 1 0 5 0.0 0 4 0.0 1 2 50.0 0 2 2 0 0 0 0 1 -13
+p284
+aVAndrew Bogut DAL 12/05/2016 DAL vs. CHA L 11 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 0 1 0 1 3
+p285
+aVWesley Matthews DAL 12/05/2016 DAL vs. CHA L 35 16 5 13 38.5 4 9 44.4 2 2 100.0 0 5 5 3 0 0 0 2 2
+p286
+aVDeron Williams DAL 12/05/2016 DAL vs. CHA L 37 15 6 18 33.3 2 8 25.0 1 1 100.0 0 1 1 13 0 0 2 2 -2
+p287
+aVAndrew Bogut DAL 12/03/2016 DAL vs. CHI W 22 8 4 4 100.0 0 0 - 0 0 - 1 10 11 1 2 0 2 6 3
+p288
+aVNicolas Brussino DAL 12/03/2016 DAL vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 1 0 0 5
+p289
+aVHarrison Barnes DAL 12/03/2016 DAL vs. CHI W 37 22 9 21 42.9 2 5 40.0 2 2 100.0 3 2 5 1 1 0 0 1 32
+p290
+aVJustin Anderson DAL 12/03/2016 DAL vs. CHI W 10 5 1 3 33.3 1 1 100.0 2 4 50.0 1 2 3 0 1 1 0 0 -1
+p291
+aVDorian Finney-Smith DAL 12/03/2016 DAL vs. CHI W 35 11 3 5 60.0 2 4 50.0 3 4 75.0 1 1 2 2 1 0 0 1 24
+p292
+aVDeron Williams DAL 12/03/2016 DAL vs. CHI W 31 9 3 11 27.3 0 3 0.0 3 3 100.0 0 2 2 15 1 0 1 2 27
+p293
+aVAJ Hammons DAL 12/03/2016 DAL vs. CHI W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p294
+aVJonathan Gibson DAL 12/03/2016 DAL vs. CHI W 17 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 3 1 0 1 1 -2
+p295
+aVWesley Matthews DAL 12/03/2016 DAL vs. CHI W 35 26 9 17 52.9 7 11 63.6 1 1 100.0 0 3 3 2 2 0 3 4 20
+p296
+aVSalah Mejri DAL 12/03/2016 DAL vs. CHI W 3 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 0 5
+p297
+aVDwight Powell DAL 12/03/2016 DAL vs. CHI W 28 17 7 11 63.6 0 0 - 3 4 75.0 3 4 7 1 0 0 1 3 10
+p298
+aVDevin Harris DAL 12/03/2016 DAL vs. CHI W 17 3 1 4 25.0 1 3 33.3 0 0 - 2 1 3 5 2 0 2 1 -3
+p299
+aVDeron Williams DAL 12/01/2016 DAL @ CHA L 30 14 6 14 42.9 1 7 14.3 1 1 100.0 0 3 3 9 0 0 2 2 -1
+p300
+aVJustin Anderson DAL 12/01/2016 DAL @ CHA L 18 15 4 7 57.1 3 3 100.0 4 4 100.0 1 2 3 0 0 0 2 3 2
+p301
+aVWesley Matthews DAL 12/01/2016 DAL @ CHA L 39 14 4 15 26.7 1 11 9.1 5 5 100.0 0 3 3 2 0 0 1 2 -10
+p302
+aVDwight Powell DAL 12/01/2016 DAL @ CHA L 24 6 2 4 50.0 0 0 - 2 2 100.0 2 6 8 0 1 1 0 6 0
+p303
+aVJonathan Gibson DAL 12/01/2016 DAL @ CHA L 27 11 5 15 33.3 1 4 25.0 0 2 0.0 0 2 2 4 2 0 2 2 -5
+p304
+aVHarrison Barnes DAL 12/01/2016 DAL @ CHA L 38 17 8 20 40.0 1 2 50.0 0 0 - 1 8 9 1 2 0 1 1 -12
+p305
+aVDevin Harris DAL 12/01/2016 DAL @ CHA L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 0
+p306
+aVDorian Finney-Smith DAL 12/01/2016 DAL @ CHA L 25 4 1 4 25.0 1 2 50.0 1 2 50.0 0 2 2 1 0 0 1 2 -11
+p307
+aVSalah Mejri DAL 12/01/2016 DAL @ CHA L 27 3 1 4 25.0 0 0 - 1 2 50.0 5 6 11 0 1 1 2 5 -13
+p308
+aVDeron Williams DAL 11/30/2016 DAL vs. SAS L 26 9 4 12 33.3 1 3 33.3 0 0 - 1 7 8 5 0 0 2 4 9
+p309
+aVHarrison Barnes DAL 11/30/2016 DAL vs. SAS L 40 17 8 15 53.3 1 2 50.0 0 0 - 1 1 2 1 1 1 2 0 -7
+p310
+aVJustin Anderson DAL 11/30/2016 DAL vs. SAS L 21 4 1 4 25.0 0 3 0.0 2 2 100.0 0 1 1 0 0 0 1 3 -20
+p311
+aVDwight Powell DAL 11/30/2016 DAL vs. SAS L 15 10 4 6 66.7 0 0 - 2 2 100.0 2 2 4 0 1 0 1 2 -6
+p312
+aVDorian Finney-Smith DAL 11/30/2016 DAL vs. SAS L 18 0 0 3 0.0 0 2 0.0 0 0 - 2 1 3 3 0 0 1 2 9
+p313
+aVAndrew Bogut DAL 11/30/2016 DAL vs. SAS L 35 4 2 2 100.0 0 0 - 0 2 0.0 1 11 12 5 0 1 2 4 6
+p314
+aVSalah Mejri DAL 11/30/2016 DAL vs. SAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p315
+aVWesley Matthews DAL 11/30/2016 DAL vs. SAS L 37 26 8 19 42.1 5 11 45.5 5 6 83.3 0 2 2 1 2 1 1 1 4
+p316
+aVNicolas Brussino DAL 11/30/2016 DAL vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p317
+aVJonathan Gibson DAL 11/30/2016 DAL vs. SAS L 4 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 -6
+p318
+aVSeth Curry DAL 11/30/2016 DAL vs. SAS L 28 14 5 11 45.5 2 5 40.0 2 2 100.0 1 1 2 0 1 0 0 0 -13
+p319
+aVDevin Harris DAL 11/30/2016 DAL vs. SAS L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p320
+aVWesley Matthews DAL 11/27/2016 DAL vs. NOP W 39 21 7 14 50.0 6 8 75.0 1 2 50.0 1 2 3 3 0 0 1 2 20
+p321
+aVDeron Williams DAL 11/27/2016 DAL vs. NOP W 20 9 3 10 30.0 0 4 0.0 3 3 100.0 0 2 2 4 0 0 5 4 -8
+p322
+aVSeth Curry DAL 11/27/2016 DAL vs. NOP W 34 10 4 8 50.0 0 2 0.0 2 2 100.0 1 4 5 2 0 0 2 2 14
+p323
+aVJustin Anderson DAL 11/27/2016 DAL vs. NOP W 23 14 4 7 57.1 2 3 66.7 4 5 80.0 1 7 8 2 0 0 2 0 2
+p324
+aVHarrison Barnes DAL 11/27/2016 DAL vs. NOP W 41 23 9 24 37.5 1 4 25.0 4 4 100.0 0 7 7 4 2 0 1 2 6
+p325
+aVDorian Finney-Smith DAL 11/27/2016 DAL vs. NOP W 25 5 2 7 28.6 1 5 20.0 0 0 - 2 2 4 0 0 1 0 2 8
+p326
+aVJonathan Gibson DAL 11/27/2016 DAL vs. NOP W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p327
+aVDwight Powell DAL 11/27/2016 DAL vs. NOP W 26 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 5 1 0 3 8
+p328
+aVAndrew Bogut DAL 11/27/2016 DAL vs. NOP W 29 5 1 3 33.3 0 0 - 3 4 75.0 5 9 14 3 0 1 0 3 6
+p329
+aVNicolas Brussino DAL 11/25/2016 DAL @ CLE L 16 2 1 3 33.3 0 2 0.0 0 0 - 1 3 4 5 1 0 0 2 -7
+p330
+aVSeth Curry DAL 11/25/2016 DAL @ CLE L 26 13 5 13 38.5 0 6 0.0 3 3 100.0 0 4 4 3 0 0 3 3 -26
+p331
+aVDorian Finney-Smith DAL 11/25/2016 DAL @ CLE L 22 8 3 9 33.3 2 5 40.0 0 0 - 0 0 0 1 0 0 0 2 -14
+p332
+aVDirk Nowitzki DAL 11/25/2016 DAL @ CLE L 27 15 7 18 38.9 1 5 20.0 0 0 - 1 5 6 3 0 0 1 3 -27
+p333
+aVJustin Anderson DAL 11/25/2016 DAL @ CLE L 14 10 4 7 57.1 1 2 50.0 1 2 50.0 1 0 1 1 1 1 0 3 -3
+p334
+aVDwight Powell DAL 11/25/2016 DAL @ CLE L 12 10 4 6 66.7 0 1 0.0 2 2 100.0 0 1 1 3 0 1 1 1 3
+p335
+aVJonathan Gibson DAL 11/25/2016 DAL @ CLE L 14 8 2 3 66.7 2 3 66.7 2 2 100.0 0 1 1 2 0 0 1 0 -5
+p336
+aVHarrison Barnes DAL 11/25/2016 DAL @ CLE L 30 12 6 13 46.2 0 3 0.0 0 0 - 3 2 5 0 0 0 0 0 -26
+p337
+aVAndrew Bogut DAL 11/25/2016 DAL @ CLE L 22 2 1 3 33.3 0 0 - 0 1 0.0 5 6 11 2 2 0 2 5 -24
+p338
+aVSalah Mejri DAL 11/25/2016 DAL @ CLE L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 2 0 0 -14
+p339
+aVDeron Williams DAL 11/25/2016 DAL @ CLE L 15 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 5 0 0 1 2 -16
+p340
+aVAJ Hammons DAL 11/25/2016 DAL @ CLE L 6 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 1
+p341
+aVWesley Matthews DAL 11/25/2016 DAL @ CLE L 29 6 2 8 25.0 2 7 28.6 0 0 - 0 2 2 3 1 0 4 0 -32
+p342
+aVHarrison Barnes DAL 11/23/2016 DAL vs. LAC L 30 22 10 19 52.6 2 4 50.0 0 0 - 0 4 4 2 1 0 1 1 -11
+p343
+aVJustin Anderson DAL 11/23/2016 DAL vs. LAC L 16 12 4 7 57.1 1 1 100.0 3 3 100.0 0 5 5 0 0 0 2 3 -9
+p344
+aVDirk Nowitzki DAL 11/23/2016 DAL vs. LAC L 20 10 3 10 30.0 1 3 33.3 3 3 100.0 0 6 6 1 0 0 1 2 -19
+p345
+aVDwight Powell DAL 11/23/2016 DAL vs. LAC L 14 8 3 7 42.9 0 0 - 2 2 100.0 1 3 4 1 0 0 1 1 -10
+p346
+aVWesley Matthews DAL 11/23/2016 DAL vs. LAC L 30 18 6 10 60.0 3 3 100.0 3 3 100.0 0 4 4 2 0 1 5 2 -11
+p347
+aVNicolas Brussino DAL 11/23/2016 DAL vs. LAC L 15 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 3 1 1 0 3 7
+p348
+aVAJ Hammons DAL 11/23/2016 DAL vs. LAC L 3 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 9
+p349
+aVSeth Curry DAL 11/23/2016 DAL vs. LAC L 29 7 3 7 42.9 0 2 0.0 1 1 100.0 0 1 1 1 1 0 1 2 -22
+p350
+aVAndrew Bogut DAL 11/23/2016 DAL vs. LAC L 25 4 2 2 100.0 0 0 - 0 0 - 4 8 12 6 2 0 3 5 -16
+p351
+aVJonathan Gibson DAL 11/23/2016 DAL vs. LAC L 26 11 3 10 30.0 1 5 20.0 4 4 100.0 0 0 0 2 0 0 2 1 -13
+p352
+aVSalah Mejri DAL 11/23/2016 DAL vs. LAC L 5 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 1 1 0 0 2 3
+p353
+aVDorian Finney-Smith DAL 11/23/2016 DAL vs. LAC L 25 8 3 7 42.9 2 4 50.0 0 0 - 1 1 2 3 1 1 0 2 -8
+p354
+aVDwight Powell DAL 11/21/2016 DAL @ SAS L 19 2 1 4 25.0 0 0 - 0 0 - 1 5 6 0 2 0 0 1 -13
+p355
+aVDorian Finney-Smith DAL 11/21/2016 DAL @ SAS L 27 6 2 5 40.0 0 3 0.0 2 2 100.0 0 1 1 2 0 0 0 4 3
+p356
+aVJonathan Gibson DAL 11/21/2016 DAL @ SAS L 16 7 2 6 33.3 0 2 0.0 3 4 75.0 1 0 1 2 1 0 0 1 -13
+p357
+aVJustin Anderson DAL 11/21/2016 DAL @ SAS L 15 5 2 7 28.6 0 3 0.0 1 2 50.0 2 2 4 0 1 1 4 0 -8
+p358
+aVSeth Curry DAL 11/21/2016 DAL @ SAS L 36 23 9 16 56.3 5 10 50.0 0 1 0.0 0 2 2 4 1 0 4 3 4
+p359
+aVSalah Mejri DAL 11/21/2016 DAL @ SAS L 32 8 4 5 80.0 0 0 - 0 0 - 1 10 11 1 4 1 2 5 -2
+p360
+aVWesley Matthews DAL 11/21/2016 DAL @ SAS L 40 20 6 13 46.2 3 7 42.9 5 7 71.4 1 4 5 4 1 0 4 3 2
+p361
+aVHarrison Barnes DAL 11/21/2016 DAL @ SAS L 42 20 9 18 50.0 0 2 0.0 2 4 50.0 4 5 9 1 0 1 3 3 5
+p362
+aVNicolas Brussino DAL 11/21/2016 DAL @ SAS L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -3
+p363
+aVJustin Anderson DAL 11/19/2016 DAL @ ORL L 23 9 3 8 37.5 1 3 33.3 2 3 66.7 0 0 0 0 1 1 1 3 -5
+p364
+aVHarrison Barnes DAL 11/19/2016 DAL @ ORL L 39 11 3 13 23.1 1 3 33.3 4 5 80.0 1 5 6 3 2 0 0 2 0
+p365
+aVAndrew Bogut DAL 11/19/2016 DAL @ ORL L 34 4 2 6 33.3 0 0 - 0 0 - 2 6 8 1 0 4 1 2 0
+p366
+aVDwight Powell DAL 11/19/2016 DAL @ ORL L 21 4 0 6 0.0 0 0 - 4 5 80.0 2 4 6 0 1 0 0 1 -8
+p367
+aVDorian Finney-Smith DAL 11/19/2016 DAL @ ORL L 14 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 0 -7
+p368
+aVNicolas Brussino DAL 11/19/2016 DAL @ ORL L 5 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 -8
+p369
+aVJonathan Gibson DAL 11/19/2016 DAL @ ORL L 32 26 8 16 50.0 5 9 55.6 5 6 83.3 0 6 6 3 2 0 6 5 0
+p370
+aVWesley Matthews DAL 11/19/2016 DAL @ ORL L 36 13 4 11 36.4 3 6 50.0 2 2 100.0 0 4 4 2 0 0 2 0 -5
+p371
+aVSeth Curry DAL 11/19/2016 DAL @ ORL L 35 13 4 12 33.3 2 5 40.0 3 4 75.0 0 1 1 4 2 0 2 1 -1
+p372
+aVSalah Mejri DAL 11/19/2016 DAL @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p373
+aVDwight Powell DAL 11/18/2016 DAL vs. MEM L 17 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 3 -11
+p374
+aVWesley Matthews DAL 11/18/2016 DAL vs. MEM L 31 9 3 10 30.0 2 7 28.6 1 1 100.0 0 2 2 1 1 0 1 0 -15
+p375
+aVSalah Mejri DAL 11/18/2016 DAL vs. MEM L 11 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 0 1 0 1 0
+p376
+aVJustin Anderson DAL 11/18/2016 DAL vs. MEM L 32 6 2 9 22.2 0 4 0.0 2 2 100.0 0 6 6 2 1 1 4 1 -7
+p377
+aVHarrison Barnes DAL 11/18/2016 DAL vs. MEM L 34 15 5 17 29.4 0 1 0.0 5 5 100.0 1 6 7 0 0 0 4 0 -17
+p378
+aVJonathan Gibson DAL 11/18/2016 DAL vs. MEM L 20 11 3 6 50.0 0 3 0.0 5 8 62.5 0 4 4 3 1 0 4 3 1
+p379
+aVDorian Finney-Smith DAL 11/18/2016 DAL vs. MEM L 22 5 2 6 33.3 0 3 0.0 1 1 100.0 0 3 3 0 0 1 0 0 -6
+p380
+aVAndrew Bogut DAL 11/18/2016 DAL vs. MEM L 21 2 1 4 25.0 0 0 - 0 0 - 5 5 10 1 0 1 2 3 -10
+p381
+aVNicolas Brussino DAL 11/18/2016 DAL vs. MEM L 14 5 1 3 33.3 1 3 33.3 2 2 100.0 1 3 4 0 0 0 1 0 11
+p382
+aVAJ Hammons DAL 11/18/2016 DAL vs. MEM L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 0
+p383
+aVSeth Curry DAL 11/18/2016 DAL vs. MEM L 34 11 4 14 28.6 2 4 50.0 1 1 100.0 2 2 4 2 0 0 1 3 -26
+p384
+aVWesley Matthews DAL 11/16/2016 DAL @ BOS L 38 22 7 15 46.7 6 13 46.2 2 3 66.7 0 3 3 0 2 0 1 1 -10
+p385
+aVDwight Powell DAL 11/16/2016 DAL @ BOS L 29 3 1 8 12.5 0 1 0.0 1 2 50.0 1 7 8 0 2 1 1 3 -1
+p386
+aVHarrison Barnes DAL 11/16/2016 DAL @ BOS L 41 28 12 24 50.0 0 1 0.0 4 5 80.0 0 2 2 1 2 0 2 5 -10
+p387
+aVAndrew Bogut DAL 11/16/2016 DAL @ BOS L 25 6 3 7 42.9 0 0 - 0 0 - 1 6 7 4 1 1 1 6 -5
+p388
+aVDeron Williams DAL 11/16/2016 DAL @ BOS L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -10
+p389
+aVSeth Curry DAL 11/16/2016 DAL @ BOS L 32 6 3 7 42.9 0 1 0.0 0 0 - 0 4 4 4 0 0 2 1 5
+p390
+aVNicolas Brussino DAL 11/16/2016 DAL @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p391
+aVDorian Finney-Smith DAL 11/16/2016 DAL @ BOS L 16 5 2 5 40.0 1 2 50.0 0 0 - 2 1 3 0 0 0 0 1 -3
+p392
+aVJustin Anderson DAL 11/16/2016 DAL @ BOS L 21 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 1 1 1 1 -4
+p393
+aVJ.J. Barea DAL 11/16/2016 DAL @ BOS L 28 9 4 11 36.4 1 3 33.3 0 0 - 0 2 2 6 1 0 1 0 1
+p394
+aVAJ Hammons DAL 11/14/2016 DAL @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 3
+p395
+aVDorian Finney-Smith DAL 11/14/2016 DAL @ NYK L 21 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 2 2 0 2 4 0
+p396
+aVHarrison Barnes DAL 11/14/2016 DAL @ NYK L 35 20 8 17 47.1 0 2 0.0 4 6 66.7 0 3 3 1 1 1 3 1 -18
+p397
+aVJ.J. Barea DAL 11/14/2016 DAL @ NYK L 33 17 8 16 50.0 1 5 20.0 0 0 - 0 1 1 4 0 0 0 0 -16
+p398
+aVAndrew Bogut DAL 11/14/2016 DAL @ NYK L 21 4 2 2 100.0 0 0 - 0 0 - 4 5 9 1 0 1 1 4 0
+p399
+aVNicolas Brussino DAL 11/14/2016 DAL @ NYK L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 1 0 1 1 0 8
+p400
+aVDwight Powell DAL 11/14/2016 DAL @ NYK L 18 6 2 8 25.0 0 0 - 2 2 100.0 1 3 4 0 1 1 2 1 -14
+p401
+aVSeth Curry DAL 11/14/2016 DAL @ NYK L 30 9 4 12 33.3 1 7 14.3 0 0 - 2 3 5 3 1 0 1 0 -20
+p402
+aVJustin Anderson DAL 11/14/2016 DAL @ NYK L 23 0 0 11 0.0 0 5 0.0 0 0 - 3 4 7 2 1 0 0 3 -3
+p403
+aVSalah Mejri DAL 11/14/2016 DAL @ NYK L 11 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 2 0 1 -3
+p404
+aVQuincy Acy DAL 11/14/2016 DAL @ NYK L 2 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -1
+p405
+aVWesley Matthews DAL 11/14/2016 DAL @ NYK L 34 8 3 9 33.3 2 5 40.0 0 0 - 0 5 5 1 2 0 1 2 -16
+p406
+aVDorian Finney-Smith DAL 11/09/2016 DAL @ GSW L 35 7 2 5 40.0 1 4 25.0 2 4 50.0 1 2 3 0 1 0 1 3 -4
+p407
+aVSeth Curry DAL 11/09/2016 DAL @ GSW L 35 10 4 17 23.5 2 9 22.2 0 1 0.0 0 1 1 9 5 2 3 3 -19
+p408
+aVAJ Hammons DAL 11/09/2016 DAL @ GSW L 6 9 3 5 60.0 1 1 100.0 2 2 100.0 2 1 3 0 0 0 0 1 -1
+p409
+aVNicolas Brussino DAL 11/09/2016 DAL @ GSW L 24 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 2 2 0 2 0 -20
+p410
+aVHarrison Barnes DAL 11/09/2016 DAL @ GSW L 34 25 8 20 40.0 1 3 33.3 8 8 100.0 2 6 8 1 0 0 0 1 -10
+p411
+aVSalah Mejri DAL 11/09/2016 DAL @ GSW L 14 5 2 2 100.0 0 0 - 1 1 100.0 0 5 5 0 0 0 0 2 -14
+p412
+aVQuincy Acy DAL 11/09/2016 DAL @ GSW L 24 6 2 6 33.3 0 2 0.0 2 2 100.0 1 2 3 0 0 0 1 5 -17
+p413
+aVJustin Anderson DAL 11/09/2016 DAL @ GSW L 41 16 6 19 31.6 0 5 0.0 4 7 57.1 3 5 8 7 0 0 0 4 -15
+p414
+aVDwight Powell DAL 11/09/2016 DAL @ GSW L 26 14 6 8 75.0 0 1 0.0 2 3 66.7 3 6 9 1 2 0 0 1 -5
+p415
+aVAndrew Bogut DAL 11/08/2016 DAL @ LAL W 29 2 1 5 20.0 0 1 0.0 0 0 - 2 7 9 2 0 2 3 1 20
+p416
+aVHarrison Barnes DAL 11/08/2016 DAL @ LAL W 40 31 11 18 61.1 1 3 33.3 8 9 88.9 0 2 2 2 0 0 1 3 8
+p417
+aVJ.J. Barea DAL 11/08/2016 DAL @ LAL W 34 18 7 15 46.7 2 6 33.3 2 2 100.0 1 6 7 8 0 0 4 1 11
+p418
+aVJustin Anderson DAL 11/08/2016 DAL @ LAL W 21 11 4 8 50.0 1 1 100.0 2 2 100.0 2 3 5 0 1 1 0 2 7
+p419
+aVDorian Finney-Smith DAL 11/08/2016 DAL @ LAL W 20 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 1 -13
+p420
+aVDwight Powell DAL 11/08/2016 DAL @ LAL W 27 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 5 1 1 0 -4
+p421
+aVWesley Matthews DAL 11/08/2016 DAL @ LAL W 38 9 4 10 40.0 1 4 25.0 0 0 - 1 2 3 7 2 0 1 2 9
+p422
+aVSeth Curry DAL 11/08/2016 DAL @ LAL W 31 23 9 15 60.0 4 7 57.1 1 2 50.0 1 3 4 4 3 0 1 2 22
+p423
+aVAndrew Bogut DAL 11/06/2016 DAL vs. MIL W 34 2 1 4 25.0 0 0 - 0 0 - 3 13 16 3 1 0 3 5 14
+p424
+aVSeth Curry DAL 11/06/2016 DAL vs. MIL W 25 7 3 7 42.9 1 4 25.0 0 0 - 0 0 0 2 0 0 1 0 -4
+p425
+aVNicolas Brussino DAL 11/06/2016 DAL vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p426
+aVJustin Anderson DAL 11/06/2016 DAL vs. MIL W 10 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 0 -9
+p427
+aVSalah Mejri DAL 11/06/2016 DAL vs. MIL W 13 4 2 4 50.0 0 0 - 0 0 - 1 5 6 1 1 1 2 4 4
+p428
+aVHarrison Barnes DAL 11/06/2016 DAL vs. MIL W 48 34 13 26 50.0 2 5 40.0 6 7 85.7 3 5 8 2 2 0 1 0 14
+p429
+aVJ.J. Barea DAL 11/06/2016 DAL vs. MIL W 46 21 8 18 44.4 2 7 28.6 3 3 100.0 0 6 6 5 1 0 4 2 13
+p430
+aVWesley Matthews DAL 11/06/2016 DAL vs. MIL W 44 9 3 17 17.6 3 14 21.4 0 0 - 0 1 1 1 3 0 2 3 16
+p431
+aVDorian Finney-Smith DAL 11/06/2016 DAL vs. MIL W 32 5 1 6 16.7 1 5 20.0 2 2 100.0 2 1 3 0 3 1 1 3 19
+p432
+aVDwight Powell DAL 11/06/2016 DAL vs. MIL W 10 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 3 -10
+p433
+aVJ.J. Barea DAL 11/04/2016 DAL vs. POR L 30 23 7 17 41.2 5 8 62.5 4 4 100.0 0 0 0 6 0 0 3 1 -15
+p434
+aVHarrison Barnes DAL 11/04/2016 DAL vs. POR L 35 17 8 17 47.1 1 4 25.0 0 0 - 2 8 10 0 0 0 2 3 -2
+p435
+aVDirk Nowitzki DAL 11/04/2016 DAL vs. POR L 16 5 2 6 33.3 0 0 - 1 1 100.0 0 7 7 1 0 1 0 0 -7
+p436
+aVNicolas Brussino DAL 11/04/2016 DAL vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p437
+aVJustin Anderson DAL 11/04/2016 DAL vs. POR L 18 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 2 -5
+p438
+aVSalah Mejri DAL 11/04/2016 DAL vs. POR L 13 8 4 4 100.0 0 0 - 0 0 - 0 6 6 0 0 0 0 3 1
+p439
+aVDwight Powell DAL 11/04/2016 DAL vs. POR L 23 7 2 3 66.7 0 0 - 3 4 75.0 2 6 8 3 3 1 0 2 -5
+p440
+aVQuincy Acy DAL 11/04/2016 DAL vs. POR L 11 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 1 2 1
+p441
+aVSeth Curry DAL 11/04/2016 DAL vs. POR L 26 8 3 8 37.5 2 5 40.0 0 0 - 1 2 3 1 1 0 1 2 19
+p442
+aVAJ Hammons DAL 11/04/2016 DAL vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p443
+aVDorian Finney-Smith DAL 11/04/2016 DAL vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p444
+aVDeron Williams DAL 11/04/2016 DAL vs. POR L 37 12 3 14 21.4 1 7 14.3 5 6 83.3 0 5 5 6 1 0 2 1 -11
+p445
+aVWesley Matthews DAL 11/04/2016 DAL vs. POR L 29 7 1 6 16.7 1 2 50.0 4 5 80.0 0 0 0 1 0 0 3 5 -20
+p446
+aVQuincy Acy DAL 11/02/2016 DAL @ UTA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p447
+aVJ.J. Barea DAL 11/02/2016 DAL @ UTA L 27 9 3 9 33.3 1 4 25.0 2 2 100.0 1 4 5 4 1 0 2 0 8
+p448
+aVHarrison Barnes DAL 11/02/2016 DAL @ UTA L 36 14 6 13 46.2 0 3 0.0 2 2 100.0 0 2 2 1 0 1 1 1 -13
+p449
+aVAndrew Bogut DAL 11/02/2016 DAL @ UTA L 17 2 1 2 50.0 0 0 - 0 0 - 0 9 9 0 1 1 3 3 -14
+p450
+aVSeth Curry DAL 11/02/2016 DAL @ UTA L 15 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -6
+p451
+aVJustin Anderson DAL 11/02/2016 DAL @ UTA L 20 5 2 5 40.0 1 2 50.0 0 0 - 4 4 8 1 1 0 3 2 -10
+p452
+aVDorian Finney-Smith DAL 11/02/2016 DAL @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p453
+aVDwight Powell DAL 11/02/2016 DAL @ UTA L 16 11 5 8 62.5 0 0 - 1 2 50.0 0 1 1 0 0 0 0 3 -1
+p454
+aVDirk Nowitzki DAL 11/02/2016 DAL @ UTA L 29 9 4 14 28.6 0 5 0.0 1 1 100.0 1 4 5 0 1 0 1 3 -20
+p455
+aVDeron Williams DAL 11/02/2016 DAL @ UTA L 34 12 5 11 45.5 2 5 40.0 0 0 - 0 2 2 9 0 0 1 3 -11
+p456
+aVWesley Matthews DAL 11/02/2016 DAL @ UTA L 36 12 4 9 44.4 3 5 60.0 1 1 100.0 0 1 1 2 0 1 1 2 -13
+p457
+aVSalah Mejri DAL 11/02/2016 DAL @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 3 3
+p458
+aVNicolas Brussino DAL 11/02/2016 DAL @ UTA L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p459
+aVDwight Powell DAL 10/30/2016 DAL @ HOU L 12 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 1 1 0 0 0 -3
+p460
+aVDeron Williams DAL 10/30/2016 DAL @ HOU L 31 12 4 11 36.4 3 5 60.0 1 2 50.0 0 1 1 3 1 1 2 1 2
+p461
+aVSalah Mejri DAL 10/30/2016 DAL @ HOU L 17 6 3 3 100.0 0 0 - 0 0 - 4 2 6 0 0 2 1 3 -12
+p462
+aVWesley Matthews DAL 10/30/2016 DAL @ HOU L 41 25 9 25 36.0 3 15 20.0 4 4 100.0 2 3 5 3 2 0 1 6 3
+p463
+aVSeth Curry DAL 10/30/2016 DAL @ HOU L 24 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 2 0 -1
+p464
+aVJustin Anderson DAL 10/30/2016 DAL @ HOU L 17 8 3 7 42.9 1 2 50.0 1 1 100.0 1 2 3 0 2 0 0 2 -5
+p465
+aVAndrew Bogut DAL 10/30/2016 DAL @ HOU L 28 6 3 7 42.9 0 0 - 0 2 0.0 4 10 14 3 0 0 2 3 12
+p466
+aVJ.J. Barea DAL 10/30/2016 DAL @ HOU L 31 18 4 10 40.0 3 4 75.0 7 7 100.0 1 2 3 5 2 0 1 0 -4
+p467
+aVHarrison Barnes DAL 10/30/2016 DAL @ HOU L 38 10 3 11 27.3 0 1 0.0 4 4 100.0 0 5 5 0 0 0 0 2 3
+p468
+aVDeron Williams DAL 10/28/2016 DAL vs. HOU L 34 14 5 11 45.5 1 4 25.0 3 4 75.0 0 0 0 4 1 0 3 3 -9
+p469
+aVJustin Anderson DAL 10/28/2016 DAL vs. HOU L 20 9 2 5 40.0 1 3 33.3 4 6 66.7 1 2 3 0 2 1 2 0 -12
+p470
+aVSalah Mejri DAL 10/28/2016 DAL vs. HOU L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p471
+aVHarrison Barnes DAL 10/28/2016 DAL vs. HOU L 39 31 13 23 56.5 2 4 50.0 3 3 100.0 1 4 5 1 1 0 1 2 -9
+p472
+aVDwight Powell DAL 10/28/2016 DAL vs. HOU L 20 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 3 1 0 2 -16
+p473
+aVJ.J. Barea DAL 10/28/2016 DAL vs. HOU L 29 10 3 10 30.0 1 3 33.3 3 4 75.0 1 4 5 5 1 0 0 3 -8
+p474
+aVQuincy Acy DAL 10/28/2016 DAL vs. HOU L 8 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -5
+p475
+aVAndrew Bogut DAL 10/28/2016 DAL vs. HOU L 27 4 2 4 50.0 0 0 - 0 0 - 1 11 12 0 1 0 2 3 2
+p476
+aVDorian Finney-Smith DAL 10/28/2016 DAL vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p477
+aVSeth Curry DAL 10/28/2016 DAL vs. HOU L 20 8 3 6 50.0 1 4 25.0 1 1 100.0 0 0 0 1 0 0 0 4 -1
+p478
+aVAJ Hammons DAL 10/28/2016 DAL vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p479
+aVNicolas Brussino DAL 10/28/2016 DAL vs. HOU L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 6
+p480
+aVWesley Matthews DAL 10/28/2016 DAL vs. HOU L 37 13 4 14 28.6 1 8 12.5 4 4 100.0 0 4 4 1 1 0 1 3 -6
+p481
+aVJ.J. Barea DAL 10/26/2016 DAL @ IND L 39 22 7 17 41.2 2 7 28.6 6 6 100.0 0 2 2 6 0 1 3 1 2
+p482
+aVDeron Williams DAL 10/26/2016 DAL @ IND L 40 25 10 18 55.6 5 8 62.5 0 0 - 1 2 3 7 0 1 6 4 -9
+p483
+aVHarrison Barnes DAL 10/26/2016 DAL @ IND L 35 19 8 14 57.1 3 6 50.0 0 0 - 3 6 9 0 0 0 2 3 -5
+p484
+aVDorian Finney-Smith DAL 10/26/2016 DAL @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p485
+aVNicolas Brussino DAL 10/26/2016 DAL @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p486
+aVAndrew Bogut DAL 10/26/2016 DAL @ IND L 20 6 3 5 60.0 0 0 - 0 2 0.0 2 4 6 3 0 1 1 3 -19
+p487
+aVSeth Curry DAL 10/26/2016 DAL @ IND L 16 7 3 4 75.0 1 2 50.0 0 0 - 0 3 3 1 3 1 0 6 7
+p488
+aVWesley Matthews DAL 10/26/2016 DAL @ IND L 40 13 3 16 18.8 2 10 20.0 5 6 83.3 0 5 5 3 3 0 1 4 -17
+p489
+aVDwight Powell DAL 10/26/2016 DAL @ IND L 16 0 0 2 0.0 0 0 - 0 2 0.0 3 4 7 1 0 1 0 2 1
+p490
+aVDirk Nowitzki DAL 10/26/2016 DAL @ IND L 38 22 8 19 42.1 4 9 44.4 2 2 100.0 0 8 8 2 2 2 2 1 -1
+p491
+aVQuincy Acy DAL 10/26/2016 DAL @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p492
+aVJustin Anderson DAL 10/26/2016 DAL @ IND L 19 7 3 9 33.3 1 6 16.7 0 0 - 1 4 5 2 0 1 0 2 2
+p493
+a.

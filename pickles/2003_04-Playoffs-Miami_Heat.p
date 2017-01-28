@@ -1,0 +1,242 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrian Grant MIA 05/18/2004 MIA vs. IND L 39 0 0 5 0.0 0 0 - 0 0 - 1 9 10 0 2 2 3 4 0
+p2
+aVEddie Jones MIA 05/18/2004 MIA vs. IND L 36 16 6 21 28.6 1 4 25.0 3 4 75.0 1 4 5 2 0 0 1 3 -7
+p3
+aVRafer Alston MIA 05/18/2004 MIA vs. IND L 19 0 0 6 0.0 0 4 0.0 0 0 - 1 3 4 0 0 0 0 1 -1
+p4
+aVDwyane Wade MIA 05/18/2004 MIA vs. IND L 39 24 10 16 62.5 0 0 - 4 4 100.0 0 2 2 2 3 2 4 5 2
+p5
+aVRasual Butler MIA 05/18/2004 MIA vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p6
+aVMalik Allen MIA 05/18/2004 MIA vs. IND L 12 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 1 0 2 -5
+p7
+aVUdonis Haslem MIA 05/18/2004 MIA vs. IND L 15 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 0
+p8
+aVLamar Odom MIA 05/18/2004 MIA vs. IND L 42 22 5 17 29.4 0 3 0.0 12 14 85.7 2 6 8 0 4 0 2 5 -6
+p9
+aVCaron Butler MIA 05/18/2004 MIA vs. IND L 37 2 1 9 11.1 0 1 0.0 0 0 - 1 8 9 2 1 2 1 5 2
+p10
+aVRafer Alston MIA 05/15/2004 MIA @ IND L 14 1 0 3 0.0 0 2 0.0 1 1 100.0 0 0 0 3 1 0 2 2 -3
+p11
+aVMalik Allen MIA 05/15/2004 MIA @ IND L 20 12 6 9 66.7 0 0 - 0 0 - 1 4 5 0 0 1 1 4 6
+p12
+aVEddie Jones MIA 05/15/2004 MIA @ IND L 40 15 4 10 40.0 3 5 60.0 4 4 100.0 0 0 0 4 3 1 1 3 -5
+p13
+aVUdonis Haslem MIA 05/15/2004 MIA @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p14
+aVLamar Odom MIA 05/15/2004 MIA @ IND L 42 14 6 15 40.0 0 0 - 2 4 50.0 1 9 10 1 0 1 3 2 -18
+p15
+aVRasual Butler MIA 05/15/2004 MIA @ IND L 3 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 8
+p16
+aVCaron Butler MIA 05/15/2004 MIA @ IND L 45 11 2 7 28.6 1 2 50.0 6 6 100.0 0 5 5 2 3 0 1 3 -19
+p17
+aVDwyane Wade MIA 05/15/2004 MIA @ IND L 42 16 6 13 46.2 0 0 - 4 6 66.7 1 2 3 10 2 0 3 2 -14
+p18
+aVBrian Grant MIA 05/15/2004 MIA @ IND L 31 10 4 10 40.0 0 1 0.0 2 2 100.0 4 2 6 0 0 0 2 4 -18
+p19
+aVLamar Odom MIA 05/12/2004 MIA vs. IND W 44 22 9 13 69.2 2 2 100.0 2 2 100.0 1 6 7 2 0 0 1 4 19
+p20
+aVDwyane Wade MIA 05/12/2004 MIA vs. IND W 44 20 4 11 36.4 0 0 - 12 17 70.6 1 2 3 7 0 1 4 2 10
+p21
+aVUdonis Haslem MIA 05/12/2004 MIA vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p22
+aVMalik Allen MIA 05/12/2004 MIA vs. IND W 24 5 2 8 25.0 0 0 - 1 2 50.0 3 2 5 1 2 2 2 4 13
+p23
+aVBrian Grant MIA 05/12/2004 MIA vs. IND W 27 10 5 10 50.0 0 0 - 0 1 0.0 3 2 5 3 0 1 0 4 -5
+p24
+aVCaron Butler MIA 05/12/2004 MIA vs. IND W 47 21 8 13 61.5 1 1 100.0 4 4 100.0 1 9 10 3 0 0 1 4 10
+p25
+aVEddie Jones MIA 05/12/2004 MIA vs. IND W 37 11 4 8 50.0 0 3 0.0 3 3 100.0 0 6 6 4 2 0 1 2 9
+p26
+aVRafer Alston MIA 05/12/2004 MIA vs. IND W 16 11 4 7 57.1 3 5 60.0 0 0 - 0 2 2 0 0 0 0 3 7
+p27
+aVEddie Jones MIA 05/10/2004 MIA vs. IND W 40 12 4 12 33.3 2 5 40.0 2 2 100.0 0 3 3 2 2 0 3 2 -4
+p28
+aVCaron Butler MIA 05/10/2004 MIA vs. IND W 40 12 2 8 25.0 0 1 0.0 8 8 100.0 0 4 4 4 2 1 1 4 9
+p29
+aVRafer Alston MIA 05/10/2004 MIA vs. IND W 15 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 1 2 9
+p30
+aVLamar Odom MIA 05/10/2004 MIA vs. IND W 35 16 5 9 55.6 1 2 50.0 5 12 41.7 2 7 9 3 2 0 4 5 14
+p31
+aVUdonis Haslem MIA 05/10/2004 MIA vs. IND W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p32
+aVDwyane Wade MIA 05/10/2004 MIA vs. IND W 42 25 7 15 46.7 0 1 0.0 11 12 91.7 1 4 5 6 0 0 4 4 9
+p33
+aVRasual Butler MIA 05/10/2004 MIA vs. IND W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 1
+p34
+aVBrian Grant MIA 05/10/2004 MIA vs. IND W 32 6 3 7 42.9 0 0 - 0 0 - 7 9 16 0 0 0 2 5 -1
+p35
+aVMalik Allen MIA 05/10/2004 MIA vs. IND W 29 13 6 9 66.7 0 0 - 1 2 50.0 0 4 4 1 0 2 0 3 1
+p36
+aVLamar Odom MIA 05/08/2004 MIA @ IND L 33 19 9 17 52.9 0 0 - 1 2 50.0 7 5 12 2 1 1 2 6 -16
+p37
+aVBrian Grant MIA 05/08/2004 MIA @ IND L 27 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 1 0 1 1 6 -7
+p38
+aVUdonis Haslem MIA 05/08/2004 MIA @ IND L 16 5 1 2 50.0 0 0 - 3 6 50.0 1 3 4 0 1 0 0 2 -1
+p39
+aVRasual Butler MIA 05/08/2004 MIA @ IND L 5 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 0 1 8
+p40
+aVRafer Alston MIA 05/08/2004 MIA @ IND L 36 5 2 10 20.0 0 3 0.0 1 2 50.0 0 2 2 5 0 0 2 1 -7
+p41
+aVMalik Allen MIA 05/08/2004 MIA @ IND L 23 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 0 0 2 0 4 1
+p42
+aVCaron Butler MIA 05/08/2004 MIA @ IND L 33 4 1 8 12.5 0 0 - 2 2 100.0 1 8 9 2 1 1 1 2 -14
+p43
+aVEddie Jones MIA 05/08/2004 MIA @ IND L 31 9 2 6 33.3 1 3 33.3 4 5 80.0 0 2 2 2 2 1 4 3 -13
+p44
+aVDwyane Wade MIA 05/08/2004 MIA @ IND L 36 19 7 14 50.0 0 0 - 5 6 83.3 2 2 4 5 2 0 6 5 -6
+p45
+aVMalik Allen MIA 05/06/2004 MIA @ IND L 21 5 2 7 28.6 0 0 - 1 1 100.0 5 3 8 1 0 0 0 3 6
+p46
+aVRasual Butler MIA 05/06/2004 MIA @ IND L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 4
+p47
+aVEddie Jones MIA 05/06/2004 MIA @ IND L 24 4 1 3 33.3 1 2 50.0 1 2 50.0 1 1 2 2 0 0 1 4 -19
+p48
+aVRafer Alston MIA 05/06/2004 MIA @ IND L 35 17 6 12 50.0 2 6 33.3 3 3 100.0 0 4 4 4 1 0 0 0 4
+p49
+aVUdonis Haslem MIA 05/06/2004 MIA @ IND L 16 5 2 9 22.2 0 0 - 1 1 100.0 2 1 3 0 0 0 0 1 -11
+p50
+aVLamar Odom MIA 05/06/2004 MIA @ IND L 41 12 5 15 33.3 0 3 0.0 2 4 50.0 3 4 7 3 0 1 2 3 -16
+p51
+aVDwyane Wade MIA 05/06/2004 MIA @ IND L 40 22 10 21 47.6 0 1 0.0 2 3 66.7 3 4 7 4 1 0 6 5 -13
+p52
+aVCaron Butler MIA 05/06/2004 MIA @ IND L 37 14 5 11 45.5 0 1 0.0 4 4 100.0 1 8 9 3 1 1 2 5 -15
+p53
+aVBrian Grant MIA 05/06/2004 MIA @ IND L 18 2 1 4 25.0 0 0 - 0 0 - 1 5 6 0 1 0 1 4 -5
+p54
+aVRafer Alston MIA 05/04/2004 MIA vs. NOH W 29 11 3 10 30.0 1 4 25.0 4 4 100.0 2 5 7 1 1 0 0 0 14
+p55
+aVLamar Odom MIA 05/04/2004 MIA vs. NOH W 39 16 7 11 63.6 1 2 50.0 1 2 50.0 1 8 9 3 4 0 1 5 12
+p56
+aVBrian Grant MIA 05/04/2004 MIA vs. NOH W 39 14 6 10 60.0 0 0 - 2 5 40.0 4 5 9 0 1 3 0 3 11
+p57
+aVCaron Butler MIA 05/04/2004 MIA vs. NOH W 41 23 10 18 55.6 0 0 - 3 6 50.0 2 7 9 2 2 0 0 3 6
+p58
+aVEddie Jones MIA 05/04/2004 MIA vs. NOH W 36 8 3 13 23.1 0 4 0.0 2 2 100.0 0 3 3 4 3 1 0 2 -3
+p59
+aVDwyane Wade MIA 05/04/2004 MIA vs. NOH W 39 12 5 18 27.8 0 1 0.0 2 2 100.0 1 3 4 7 2 0 4 5 6
+p60
+aVMalik Allen MIA 05/04/2004 MIA vs. NOH W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -2
+p61
+aVUdonis Haslem MIA 05/04/2004 MIA vs. NOH W 14 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 4 -4
+p62
+aVCaron Butler MIA 05/02/2004 MIA @ NOH L 35 14 7 14 50.0 0 0 - 0 1 0.0 1 7 8 1 3 0 3 3 -1
+p63
+aVUdonis Haslem MIA 05/02/2004 MIA @ NOH L 15 3 0 2 0.0 0 0 - 3 4 75.0 3 0 3 0 1 0 0 0 -18
+p64
+aVBrian Grant MIA 05/02/2004 MIA @ NOH L 35 6 3 8 37.5 0 0 - 0 0 - 5 5 10 1 1 0 1 4 10
+p65
+aVRasual Butler MIA 05/02/2004 MIA @ NOH L 9 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 1 0 0 0 1 5
+p66
+aVRafer Alston MIA 05/02/2004 MIA @ NOH L 16 1 0 4 0.0 0 3 0.0 1 1 100.0 0 1 1 0 0 0 1 0 -16
+p67
+aVDwyane Wade MIA 05/02/2004 MIA @ NOH L 47 27 10 17 58.8 1 1 100.0 6 8 75.0 2 5 7 6 0 1 4 3 -6
+p68
+aVEddie Jones MIA 05/02/2004 MIA @ NOH L 40 23 6 13 46.2 2 6 33.3 9 10 90.0 0 4 4 1 1 3 4 3 4
+p69
+aVLamar Odom MIA 05/02/2004 MIA @ NOH L 43 9 3 12 25.0 1 3 33.3 2 4 50.0 4 7 11 4 1 0 6 6 -8
+p70
+aVWang Zhi-zhi MIA 04/30/2004 MIA vs. NOH W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 3
+p71
+aVRasual Butler MIA 04/30/2004 MIA vs. NOH W 15 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 2 1
+p72
+aVCaron Butler MIA 04/30/2004 MIA vs. NOH W 33 5 1 6 16.7 0 0 - 3 4 75.0 4 7 11 4 4 2 2 3 3
+p73
+aVDwyane Wade MIA 04/30/2004 MIA vs. NOH W 36 21 9 17 52.9 1 1 100.0 2 4 50.0 1 4 5 5 2 0 4 3 8
+p74
+aVEddie Jones MIA 04/30/2004 MIA vs. NOH W 43 25 9 21 42.9 3 8 37.5 4 9 44.4 0 2 2 1 0 0 1 4 5
+p75
+aVUdonis Haslem MIA 04/30/2004 MIA vs. NOH W 30 8 1 1 100.0 0 0 - 6 8 75.0 1 3 4 1 2 0 0 2 12
+p76
+aVBrian Grant MIA 04/30/2004 MIA vs. NOH W 23 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 0 0 2 3 -8
+p77
+aVLamar Odom MIA 04/30/2004 MIA vs. NOH W 38 16 6 12 50.0 1 1 100.0 3 4 75.0 0 4 4 2 0 2 3 5 4
+p78
+aVRafer Alston MIA 04/30/2004 MIA vs. NOH W 16 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 3 0 0 0 1 -5
+p79
+aVSamaki Walker MIA 04/30/2004 MIA vs. NOH W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p80
+aVDwyane Wade MIA 04/27/2004 MIA @ NOH L 41 11 4 12 33.3 0 0 - 3 3 100.0 1 1 2 10 2 0 2 3 -4
+p81
+aVBrian Grant MIA 04/27/2004 MIA @ NOH L 32 6 3 9 33.3 0 0 - 0 0 - 5 4 9 1 2 0 2 4 0
+p82
+aVSamaki Walker MIA 04/27/2004 MIA @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p83
+aVEddie Jones MIA 04/27/2004 MIA @ NOH L 36 16 6 14 42.9 3 10 30.0 1 2 50.0 0 4 4 0 2 1 1 4 -1
+p84
+aVRafer Alston MIA 04/27/2004 MIA @ NOH L 22 9 3 8 37.5 1 6 16.7 2 2 100.0 0 0 0 2 0 0 2 2 -18
+p85
+aVCaron Butler MIA 04/27/2004 MIA @ NOH L 35 7 3 11 27.3 0 2 0.0 1 2 50.0 0 7 7 2 1 0 2 3 -2
+p86
+aVWang Zhi-zhi MIA 04/27/2004 MIA @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p87
+aVUdonis Haslem MIA 04/27/2004 MIA @ NOH L 21 8 3 6 50.0 0 0 - 2 2 100.0 4 0 4 0 0 1 1 1 -10
+p88
+aVRasual Butler MIA 04/27/2004 MIA @ NOH L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 -8
+p89
+aVLamar Odom MIA 04/27/2004 MIA @ NOH L 42 25 9 17 52.9 0 2 0.0 7 7 100.0 2 6 8 6 0 0 2 4 -8
+p90
+aVBrian Grant MIA 04/24/2004 MIA @ NOH L 39 8 4 7 57.1 0 0 - 0 0 - 4 7 11 2 0 0 1 3 -4
+p91
+aVUdonis Haslem MIA 04/24/2004 MIA @ NOH L 14 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 1 1 4 4
+p92
+aVLamar Odom MIA 04/24/2004 MIA @ NOH L 40 18 5 18 27.8 1 3 33.3 7 10 70.0 2 4 6 2 2 2 7 4 -8
+p93
+aVEddie Jones MIA 04/24/2004 MIA @ NOH L 39 5 2 13 15.4 0 5 0.0 1 1 100.0 0 3 3 2 1 2 0 2 -8
+p94
+aVCaron Butler MIA 04/24/2004 MIA @ NOH L 45 24 8 18 44.4 0 1 0.0 8 10 80.0 4 11 15 4 2 0 1 3 -2
+p95
+aVRafer Alston MIA 04/24/2004 MIA @ NOH L 29 10 3 8 37.5 2 5 40.0 2 2 100.0 0 2 2 2 0 0 0 5 -1
+p96
+aVMalik Allen MIA 04/24/2004 MIA @ NOH L 3 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 1 1 0 -4
+p97
+aVDwyane Wade MIA 04/24/2004 MIA @ NOH L 31 2 1 8 12.5 0 1 0.0 0 0 - 0 3 3 0 1 0 6 2 -7
+p98
+aVRafer Alston MIA 04/21/2004 MIA vs. NOH W 28 7 1 7 14.3 0 4 0.0 5 6 83.3 1 3 4 2 1 1 2 2 2
+p99
+aVLamar Odom MIA 04/21/2004 MIA vs. NOH W 32 13 5 11 45.5 1 3 33.3 2 2 100.0 2 4 6 4 1 2 2 5 25
+p100
+aVLoren Woods MIA 04/21/2004 MIA vs. NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p101
+aVDwyane Wade MIA 04/21/2004 MIA vs. NOH W 32 14 5 8 62.5 0 0 - 4 4 100.0 0 2 2 6 1 0 5 2 22
+p102
+aVRasual Butler MIA 04/21/2004 MIA vs. NOH W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p103
+aVEddie Jones MIA 04/21/2004 MIA vs. NOH W 39 19 6 14 42.9 1 7 14.3 6 6 100.0 0 8 8 3 1 1 1 3 38
+p104
+aVCaron Butler MIA 04/21/2004 MIA vs. NOH W 41 18 7 15 46.7 0 1 0.0 4 4 100.0 2 7 9 0 3 0 3 3 24
+p105
+aVBrian Grant MIA 04/21/2004 MIA vs. NOH W 35 15 6 13 46.2 0 0 - 3 4 75.0 6 5 11 2 0 1 2 4 28
+p106
+aVSamaki Walker MIA 04/21/2004 MIA vs. NOH W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p107
+aVMalik Allen MIA 04/21/2004 MIA vs. NOH W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p108
+aVUdonis Haslem MIA 04/21/2004 MIA vs. NOH W 20 3 0 0 - 0 0 - 3 4 75.0 1 8 9 1 0 0 0 3 8
+p109
+aVWang Zhi-zhi MIA 04/21/2004 MIA vs. NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p110
+aVBrian Grant MIA 04/18/2004 MIA vs. NOH W 23 2 1 4 25.0 0 0 - 0 0 - 2 5 7 0 0 0 1 4 -1
+p111
+aVRasual Butler MIA 04/18/2004 MIA vs. NOH W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -6
+p112
+aVMalik Allen MIA 04/18/2004 MIA vs. NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p113
+aVSamaki Walker MIA 04/18/2004 MIA vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p114
+aVCaron Butler MIA 04/18/2004 MIA vs. NOH W 42 12 4 15 26.7 0 1 0.0 4 6 66.7 1 4 5 2 5 0 5 4 11
+p115
+aVLamar Odom MIA 04/18/2004 MIA vs. NOH W 41 17 7 15 46.7 0 2 0.0 3 5 60.0 5 6 11 5 0 1 7 4 7
+p116
+aVUdonis Haslem MIA 04/18/2004 MIA vs. NOH W 29 7 2 4 50.0 0 0 - 3 6 50.0 2 4 6 1 1 0 0 3 -1
+p117
+aVEddie Jones MIA 04/18/2004 MIA vs. NOH W 37 9 3 5 60.0 3 5 60.0 0 0 - 1 4 5 2 1 1 1 2 6
+p118
+aVRafer Alston MIA 04/18/2004 MIA vs. NOH W 20 13 5 10 50.0 2 6 33.3 1 2 50.0 0 1 1 0 1 0 0 3 -4
+p119
+aVDwyane Wade MIA 04/18/2004 MIA vs. NOH W 41 21 8 19 42.1 1 2 50.0 4 6 66.7 3 2 5 5 1 0 2 4 -1
+p120
+a.

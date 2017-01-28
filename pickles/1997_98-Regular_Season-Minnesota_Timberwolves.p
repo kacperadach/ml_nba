@@ -1,0 +1,1664 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKevin Garnett MIN 04/18/1998 MIN @ MIL W 24 15 5 11 45.5 0 0 - 5 6 83.3 3 5 8 3 3 1 2 2 -8
+p2
+aVBill Curley MIN 04/18/1998 MIN @ MIL W 29 8 4 8 50.0 0 0 - 0 0 - 4 2 6 1 1 0 1 3 -2
+p3
+aVAnthony Peeler MIN 04/18/1998 MIN @ MIL W 36 16 7 16 43.8 2 7 28.6 0 0 - 1 3 4 3 0 0 2 2 -1
+p4
+aVDeJuan Wheat MIN 04/18/1998 MIN @ MIL W 35 19 7 11 63.6 3 5 60.0 2 2 100.0 0 1 1 8 3 1 0 4 16
+p5
+aVTerry Porter MIN 04/18/1998 MIN @ MIL W 22 13 4 9 44.4 1 3 33.3 4 6 66.7 0 3 3 3 1 0 2 2 -8
+p6
+aVTom Hammonds MIN 04/18/1998 MIN @ MIL W 31 17 5 11 45.5 0 0 - 7 7 100.0 3 4 7 1 1 1 5 3 19
+p7
+aVReggie Jordan MIN 04/18/1998 MIN @ MIL W 43 18 7 14 50.0 0 0 - 4 4 100.0 2 3 5 3 2 0 1 3 6
+p8
+aVStephon Marbury MIN 04/18/1998 MIN @ MIL W 19 5 2 4 50.0 0 2 0.0 1 1 100.0 0 1 1 5 2 0 2 2 -12
+p9
+aVBill Curley MIN 04/17/1998 MIN vs. HOU W 19 4 2 7 28.6 0 0 - 0 0 - 3 1 4 1 0 0 0 4 -7
+p10
+aVKevin Garnett MIN 04/17/1998 MIN vs. HOU W 43 20 7 16 43.8 0 0 - 6 6 100.0 2 8 10 3 0 0 1 0 12
+p11
+aVAnthony Peeler MIN 04/17/1998 MIN vs. HOU W 40 18 7 13 53.8 2 4 50.0 2 2 100.0 2 3 5 4 3 1 5 3 12
+p12
+aVCherokee Parks MIN 04/17/1998 MIN vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p13
+aVTom Hammonds MIN 04/17/1998 MIN vs. HOU W 22 12 5 6 83.3 0 0 - 2 2 100.0 3 7 10 0 0 0 2 3 7
+p14
+aVTerry Porter MIN 04/17/1998 MIN vs. HOU W 28 14 4 10 40.0 0 1 0.0 6 8 75.0 0 2 2 4 0 0 0 0 0
+p15
+aVStanley Roberts MIN 04/17/1998 MIN vs. HOU W 15 4 2 3 66.7 0 0 - 0 0 - 1 6 7 0 0 2 1 3 11
+p16
+aVReggie Jordan MIN 04/17/1998 MIN vs. HOU W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -7
+p17
+aVSam Mitchell MIN 04/17/1998 MIN vs. HOU W 28 19 6 13 46.2 1 1 100.0 6 6 100.0 2 6 8 1 0 0 0 1 3
+p18
+aVStephon Marbury MIN 04/17/1998 MIN vs. HOU W 38 11 4 16 25.0 1 3 33.3 2 2 100.0 0 1 1 12 4 0 4 0 4
+p19
+aVStanley Roberts MIN 04/14/1998 MIN @ UTA L 11 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 0 1 0 6 -10
+p20
+aVSam Mitchell MIN 04/14/1998 MIN @ UTA L 32 16 6 12 50.0 2 3 66.7 2 2 100.0 0 0 0 1 2 0 1 3 -14
+p21
+aVAnthony Peeler MIN 04/14/1998 MIN @ UTA L 28 11 4 9 44.4 3 6 50.0 0 0 - 0 1 1 2 0 0 1 3 -19
+p22
+aVReggie Jordan MIN 04/14/1998 MIN @ UTA L 22 10 4 7 57.1 0 0 - 2 4 50.0 4 2 6 1 1 1 1 2 4
+p23
+aVStephon Marbury MIN 04/14/1998 MIN @ UTA L 41 25 6 17 35.3 3 7 42.9 10 13 76.9 0 6 6 13 1 0 7 0 -4
+p24
+aVCherokee Parks MIN 04/14/1998 MIN @ UTA L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 1 0 3 -13
+p25
+aVKevin Garnett MIN 04/14/1998 MIN @ UTA L 40 18 7 17 41.2 0 0 - 4 4 100.0 4 6 10 3 3 3 0 4 -11
+p26
+aVTerry Porter MIN 04/14/1998 MIN @ UTA L 39 15 4 10 40.0 2 4 50.0 5 6 83.3 0 2 2 1 2 1 2 2 -10
+p27
+aVBill Curley MIN 04/14/1998 MIN @ UTA L 12 6 2 2 100.0 0 0 - 2 2 100.0 2 0 2 2 0 0 1 4 0
+p28
+aVMicheal Williams MIN 04/14/1998 MIN @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -5
+p29
+aVDeJuan Wheat MIN 04/14/1998 MIN @ UTA L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p30
+aVStephon Marbury MIN 04/13/1998 MIN @ LAC W 35 14 5 9 55.6 1 3 33.3 3 4 75.0 0 4 4 8 1 1 4 1 10
+p31
+aVCherokee Parks MIN 04/13/1998 MIN @ LAC W 25 10 5 7 71.4 0 0 - 0 0 - 1 5 6 0 1 1 0 4 -1
+p32
+aVSam Mitchell MIN 04/13/1998 MIN @ LAC W 42 14 6 14 42.9 1 2 50.0 1 2 50.0 1 7 8 3 2 2 0 3 13
+p33
+aVReggie Jordan MIN 04/13/1998 MIN @ LAC W 13 4 1 2 50.0 0 0 - 2 3 66.7 0 0 0 2 2 1 1 3 2
+p34
+aVDeJuan Wheat MIN 04/13/1998 MIN @ LAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p35
+aVKevin Garnett MIN 04/13/1998 MIN @ LAC W 40 23 9 19 47.4 0 0 - 5 6 83.3 3 7 10 5 0 3 2 1 24
+p36
+aVTerry Porter MIN 04/13/1998 MIN @ LAC W 23 13 5 9 55.6 1 4 25.0 2 3 66.7 1 0 1 3 1 0 0 1 9
+p37
+aVBill Curley MIN 04/13/1998 MIN @ LAC W 25 8 4 6 66.7 0 0 - 0 1 0.0 0 4 4 0 1 1 0 1 24
+p38
+aVAnthony Peeler MIN 04/13/1998 MIN @ LAC W 35 21 9 17 52.9 3 5 60.0 0 0 - 1 2 3 7 4 0 1 2 12
+p39
+aVStephon Marbury MIN 04/11/1998 MIN vs. UTA W 39 30 11 17 64.7 4 4 100.0 4 6 66.7 1 2 3 10 2 0 4 4 9
+p40
+aVCherokee Parks MIN 04/11/1998 MIN vs. UTA W 25 4 2 7 28.6 0 0 - 0 2 0.0 3 6 9 2 1 2 2 3 3
+p41
+aVBill Curley MIN 04/11/1998 MIN vs. UTA W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 5 -2
+p42
+aVAnthony Peeler MIN 04/11/1998 MIN vs. UTA W 37 17 6 14 42.9 3 6 50.0 2 2 100.0 0 3 3 6 5 1 4 4 6
+p43
+aVSam Mitchell MIN 04/11/1998 MIN vs. UTA W 43 14 5 14 35.7 0 1 0.0 4 4 100.0 2 3 5 0 1 2 0 3 7
+p44
+aVTerry Porter MIN 04/11/1998 MIN vs. UTA W 32 21 6 9 66.7 4 4 100.0 5 5 100.0 1 2 3 4 1 0 0 3 5
+p45
+aVKevin Garnett MIN 04/11/1998 MIN vs. UTA W 42 22 9 15 60.0 0 0 - 4 5 80.0 4 5 9 7 0 1 6 4 14
+p46
+aVReggie Jordan MIN 04/11/1998 MIN vs. UTA W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p47
+aVBill Curley MIN 04/10/1998 MIN vs. PHI W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 6 -3
+p48
+aVMicheal Williams MIN 04/10/1998 MIN vs. PHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p49
+aVKevin Garnett MIN 04/10/1998 MIN vs. PHI W 45 26 10 15 66.7 0 0 - 6 11 54.5 3 13 16 4 4 4 6 1 8
+p50
+aVStephon Marbury MIN 04/10/1998 MIN vs. PHI W 43 28 8 13 61.5 3 4 75.0 9 10 90.0 0 3 3 8 1 2 2 5 9
+p51
+aVTerry Porter MIN 04/10/1998 MIN vs. PHI W 26 13 2 9 22.2 2 7 28.6 7 8 87.5 0 1 1 3 0 0 1 2 3
+p52
+aVAnthony Peeler MIN 04/10/1998 MIN vs. PHI W 39 8 3 8 37.5 2 5 40.0 0 0 - 0 4 4 6 1 0 3 2 6
+p53
+aVReggie Jordan MIN 04/10/1998 MIN vs. PHI W 13 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 2 0 0 1 2 -6
+p54
+aVCherokee Parks MIN 04/10/1998 MIN vs. PHI W 21 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 1 1 1 6 5
+p55
+aVSam Mitchell MIN 04/10/1998 MIN vs. PHI W 41 29 11 19 57.9 0 1 0.0 7 10 70.0 2 9 11 3 1 0 1 3 4
+p56
+aVTerry Porter MIN 04/07/1998 MIN vs. MIA W 23 13 3 10 30.0 2 5 40.0 5 6 83.3 1 1 2 2 0 0 1 1 8
+p57
+aVStephon Marbury MIN 04/07/1998 MIN vs. MIA W 39 18 8 20 40.0 0 5 0.0 2 2 100.0 2 4 6 16 3 0 2 3 3
+p58
+aVReggie Jordan MIN 04/07/1998 MIN vs. MIA W 10 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 1 0 1 -8
+p59
+aVKevin Garnett MIN 04/07/1998 MIN vs. MIA W 42 27 13 28 46.4 0 0 - 1 4 25.0 8 6 14 3 1 4 0 3 5
+p60
+aVAnthony Peeler MIN 04/07/1998 MIN vs. MIA W 35 10 4 8 50.0 2 4 50.0 0 0 - 2 2 4 5 3 0 1 2 9
+p61
+aVStanley Roberts MIN 04/07/1998 MIN vs. MIA W 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 2 4 -4
+p62
+aVBill Curley MIN 04/07/1998 MIN vs. MIA W 23 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 1 0 0 3 9
+p63
+aVSam Mitchell MIN 04/07/1998 MIN vs. MIA W 31 8 4 13 30.8 0 1 0.0 0 0 - 1 7 8 0 0 0 0 3 0
+p64
+aVCherokee Parks MIN 04/07/1998 MIN vs. MIA W 24 8 4 7 57.1 0 0 - 0 0 - 2 2 4 0 1 1 0 5 -7
+p65
+aVMicheal Williams MIN 04/07/1998 MIN vs. MIA W 9 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 1 0
+p66
+aVCherokee Parks MIN 04/05/1998 MIN @ ATL W 20 10 4 6 66.7 0 0 - 2 2 100.0 2 4 6 0 1 1 0 4 -4
+p67
+aVStanley Roberts MIN 04/05/1998 MIN @ ATL W 27 6 3 9 33.3 0 0 - 0 2 0.0 2 5 7 0 1 2 2 3 0
+p68
+aVSam Mitchell MIN 04/05/1998 MIN @ ATL W 40 22 9 14 64.3 0 1 0.0 4 5 80.0 4 3 7 1 2 1 2 3 -6
+p69
+aVMicheal Williams MIN 04/05/1998 MIN @ ATL W 10 2 0 4 0.0 0 0 - 2 2 100.0 0 0 0 5 0 0 2 3 -4
+p70
+aVStephon Marbury MIN 04/05/1998 MIN @ ATL W 38 9 4 7 57.1 1 3 33.3 0 0 - 2 2 4 13 0 0 8 2 5
+p71
+aVKevin Garnett MIN 04/05/1998 MIN @ ATL W 43 18 9 18 50.0 0 0 - 0 0 - 3 10 13 1 3 0 3 3 5
+p72
+aVTerry Porter MIN 04/05/1998 MIN @ ATL W 25 15 5 10 50.0 2 6 33.3 3 3 100.0 0 3 3 5 0 0 1 2 6
+p73
+aVAnthony Peeler MIN 04/05/1998 MIN @ ATL W 30 10 4 10 40.0 1 2 50.0 1 2 50.0 0 1 1 4 1 0 1 5 1
+p74
+aVReggie Jordan MIN 04/05/1998 MIN @ ATL W 8 5 2 2 100.0 0 0 - 1 1 100.0 1 2 3 1 1 0 1 3 2
+p75
+aVAnthony Peeler MIN 04/03/1998 MIN @ CHI L 29 18 7 11 63.6 4 5 80.0 0 0 - 0 5 5 4 1 1 2 4 -14
+p76
+aVSam Mitchell MIN 04/03/1998 MIN @ CHI L 41 24 9 15 60.0 1 3 33.3 5 6 83.3 3 1 4 0 1 0 0 2 -14
+p77
+aVStanley Roberts MIN 04/03/1998 MIN @ CHI L 25 3 1 2 50.0 0 0 - 1 2 50.0 2 4 6 3 0 1 1 2 -4
+p78
+aVTerry Porter MIN 04/03/1998 MIN @ CHI L 27 14 6 11 54.5 2 3 66.7 0 0 - 0 2 2 2 0 0 1 3 1
+p79
+aVReggie Jordan MIN 04/03/1998 MIN @ CHI L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 2
+p80
+aVCherokee Parks MIN 04/03/1998 MIN @ CHI L 20 11 4 7 57.1 0 0 - 3 6 50.0 2 2 4 0 1 0 1 3 -5
+p81
+aVKevin Garnett MIN 04/03/1998 MIN @ CHI L 39 15 7 19 36.8 0 0 - 1 2 50.0 4 4 8 4 1 0 2 3 -22
+p82
+aVStephon Marbury MIN 04/03/1998 MIN @ CHI L 33 4 1 9 11.1 1 3 33.3 1 2 50.0 1 2 3 9 1 0 3 1 -24
+p83
+aVMicheal Williams MIN 04/03/1998 MIN @ CHI L 15 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 0 0 1 3 10
+p84
+aVStephon Marbury MIN 04/02/1998 MIN @ IND L 32 5 2 9 22.2 1 1 100.0 0 0 - 0 2 2 7 0 0 1 2 -11
+p85
+aVReggie Jordan MIN 04/02/1998 MIN @ IND L 10 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 1 -5
+p86
+aVStanley Roberts MIN 04/02/1998 MIN @ IND L 22 16 7 9 77.8 0 0 - 2 7 28.6 3 4 7 0 0 3 2 2 -4
+p87
+aVSam Mitchell MIN 04/02/1998 MIN @ IND L 37 22 7 11 63.6 0 1 0.0 8 8 100.0 1 4 5 2 3 1 2 3 -10
+p88
+aVKevin Garnett MIN 04/02/1998 MIN @ IND L 43 24 11 19 57.9 0 1 0.0 2 2 100.0 4 8 12 5 0 0 2 3 -1
+p89
+aVCherokee Parks MIN 04/02/1998 MIN @ IND L 20 6 3 9 33.3 0 0 - 0 0 - 4 2 6 0 0 3 1 2 -6
+p90
+aVMicheal Williams MIN 04/02/1998 MIN @ IND L 16 6 1 2 50.0 0 0 - 4 4 100.0 0 3 3 2 1 0 2 1 10
+p91
+aVTerry Porter MIN 04/02/1998 MIN @ IND L 26 12 5 10 50.0 2 4 50.0 0 0 - 1 2 3 5 1 0 0 3 18
+p92
+aVAnthony Peeler MIN 04/02/1998 MIN @ IND L 34 14 5 16 31.3 4 8 50.0 0 0 - 0 0 0 1 3 0 1 1 -6
+p93
+aVCherokee Parks MIN 03/29/1998 MIN @ SAC W 30 15 6 12 50.0 0 0 - 3 4 75.0 3 6 9 0 0 2 0 2 -1
+p94
+aVKevin Garnett MIN 03/29/1998 MIN @ SAC W 40 32 15 22 68.2 0 0 - 2 3 66.7 3 11 14 6 4 2 4 3 18
+p95
+aVStephon Marbury MIN 03/29/1998 MIN @ SAC W 32 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 10 0 0 3 2 1
+p96
+aVTom Hammonds MIN 03/29/1998 MIN @ SAC W 4 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -5
+p97
+aVTerry Porter MIN 03/29/1998 MIN @ SAC W 27 11 4 5 80.0 1 1 100.0 2 2 100.0 1 1 2 7 1 0 0 1 -4
+p98
+aVAnthony Peeler MIN 03/29/1998 MIN @ SAC W 40 15 7 14 50.0 1 2 50.0 0 0 - 1 4 5 4 0 1 1 1 17
+p99
+aVSam Mitchell MIN 03/29/1998 MIN @ SAC W 30 13 5 14 35.7 0 0 - 3 4 75.0 3 7 10 2 0 0 0 1 1
+p100
+aVStanley Roberts MIN 03/29/1998 MIN @ SAC W 18 11 4 9 44.4 0 0 - 3 3 100.0 0 2 2 1 0 1 0 4 9
+p101
+aVReggie Jordan MIN 03/29/1998 MIN @ SAC W 19 5 2 2 100.0 0 0 - 1 2 50.0 0 5 5 1 0 0 2 2 4
+p102
+aVStanley Roberts MIN 03/27/1998 MIN @ LAC W 22 8 4 9 44.4 0 0 - 0 0 - 3 3 6 0 0 1 0 4 -2
+p103
+aVSam Mitchell MIN 03/27/1998 MIN @ LAC W 36 22 10 19 52.6 0 0 - 2 2 100.0 2 6 8 1 2 0 0 3 0
+p104
+aVTom Hammonds MIN 03/27/1998 MIN @ LAC W 31 11 4 8 50.0 0 0 - 3 4 75.0 4 2 6 2 0 1 1 2 4
+p105
+aVReggie Jordan MIN 03/27/1998 MIN @ LAC W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -3
+p106
+aVAnthony Peeler MIN 03/27/1998 MIN @ LAC W 32 12 5 11 45.5 2 3 66.7 0 0 - 2 0 2 2 1 0 1 3 1
+p107
+aVStephon Marbury MIN 03/27/1998 MIN @ LAC W 37 10 3 8 37.5 1 2 50.0 3 4 75.0 0 1 1 12 0 0 1 1 -5
+p108
+aVCherokee Parks MIN 03/27/1998 MIN @ LAC W 18 11 5 6 83.3 0 0 - 1 2 50.0 1 2 3 0 1 0 1 4 1
+p109
+aVTerry Porter MIN 03/27/1998 MIN @ LAC W 27 8 3 7 42.9 1 2 50.0 1 1 100.0 0 1 1 3 4 0 0 1 8
+p110
+aVKevin Garnett MIN 03/27/1998 MIN @ LAC W 33 17 8 18 44.4 0 0 - 1 2 50.0 0 2 2 7 2 2 2 4 6
+p111
+aVTom Hammonds MIN 03/25/1998 MIN @ PHX W 20 6 2 5 40.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 2 -5
+p112
+aVAnthony Peeler MIN 03/25/1998 MIN @ PHX W 41 20 8 18 44.4 2 3 66.7 2 4 50.0 4 4 8 2 3 0 3 2 1
+p113
+aVCherokee Parks MIN 03/25/1998 MIN @ PHX W 23 9 4 4 100.0 0 0 - 1 2 50.0 1 4 5 1 0 2 0 2 1
+p114
+aVStanley Roberts MIN 03/25/1998 MIN @ PHX W 15 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 1 0 0 2 4
+p115
+aVKevin Garnett MIN 03/25/1998 MIN @ PHX W 36 15 5 18 27.8 0 0 - 5 7 71.4 1 5 6 4 1 3 4 4 3
+p116
+aVTerry Porter MIN 03/25/1998 MIN @ PHX W 19 6 2 7 28.6 2 4 50.0 0 0 - 0 2 2 2 0 1 0 1 -4
+p117
+aVStephon Marbury MIN 03/25/1998 MIN @ PHX W 37 19 6 8 75.0 3 4 75.0 4 4 100.0 1 3 4 10 0 0 4 4 6
+p118
+aVSam Mitchell MIN 03/25/1998 MIN @ PHX W 35 11 5 14 35.7 1 1 100.0 0 0 - 2 3 5 4 0 0 0 2 3
+p119
+aVReggie Jordan MIN 03/25/1998 MIN @ PHX W 15 7 3 5 60.0 0 0 - 1 2 50.0 3 2 5 3 3 0 0 3 1
+p120
+aVStephon Marbury MIN 03/23/1998 MIN @ DAL L 37 4 2 12 16.7 0 1 0.0 0 0 - 0 3 3 6 2 0 0 2 -11
+p121
+aVSam Mitchell MIN 03/23/1998 MIN @ DAL L 34 19 8 14 57.1 1 1 100.0 2 2 100.0 3 7 10 1 0 1 1 1 6
+p122
+aVStanley Roberts MIN 03/23/1998 MIN @ DAL L 15 8 4 6 66.7 0 0 - 0 1 0.0 0 3 3 0 0 1 1 4 7
+p123
+aVReggie Jordan MIN 03/23/1998 MIN @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p124
+aVCherokee Parks MIN 03/23/1998 MIN @ DAL L 19 7 2 5 40.0 0 0 - 3 4 75.0 1 2 3 0 0 2 0 4 -3
+p125
+aVAnthony Peeler MIN 03/23/1998 MIN @ DAL L 37 23 10 22 45.5 2 7 28.6 1 1 100.0 3 3 6 5 6 0 1 4 5
+p126
+aVBill Curley MIN 03/23/1998 MIN @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 1
+p127
+aVTerry Porter MIN 03/23/1998 MIN @ DAL L 25 10 4 11 36.4 1 3 33.3 1 1 100.0 0 2 2 3 0 0 2 2 -4
+p128
+aVTom Hammonds MIN 03/23/1998 MIN @ DAL L 26 1 0 6 0.0 0 0 - 1 2 50.0 2 5 7 1 0 0 0 1 -16
+p129
+aVKevin Garnett MIN 03/23/1998 MIN @ DAL L 40 15 7 14 50.0 0 0 - 1 1 100.0 2 5 7 2 0 1 3 4 -6
+p130
+aVBill Curley MIN 03/21/1998 MIN vs. VAN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p131
+aVSam Mitchell MIN 03/21/1998 MIN vs. VAN W 38 18 7 16 43.8 1 1 100.0 3 4 75.0 2 1 3 2 0 0 1 3 7
+p132
+aVStephon Marbury MIN 03/21/1998 MIN vs. VAN W 40 15 6 10 60.0 2 4 50.0 1 2 50.0 0 1 1 13 0 0 5 3 12
+p133
+aVAnthony Peeler MIN 03/21/1998 MIN vs. VAN W 39 17 8 15 53.3 1 2 50.0 0 0 - 1 5 6 6 1 0 1 1 15
+p134
+aVDeJuan Wheat MIN 03/21/1998 MIN vs. VAN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p135
+aVKevin Garnett MIN 03/21/1998 MIN vs. VAN W 42 22 11 18 61.1 0 0 - 0 0 - 2 7 9 4 2 4 2 2 16
+p136
+aVMicheal Williams MIN 03/21/1998 MIN vs. VAN W 1 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p137
+aVTerry Porter MIN 03/21/1998 MIN vs. VAN W 16 7 3 7 42.9 0 2 0.0 1 2 50.0 1 2 3 4 1 0 3 0 0
+p138
+aVTom Hammonds MIN 03/21/1998 MIN vs. VAN W 34 9 3 6 50.0 0 0 - 3 6 50.0 2 6 8 1 1 2 1 2 16
+p139
+aVCherokee Parks MIN 03/21/1998 MIN vs. VAN W 28 8 4 7 57.1 0 0 - 0 0 - 3 5 8 3 1 3 2 3 2
+p140
+aVReggie Jordan MIN 03/21/1998 MIN vs. VAN W 1 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p141
+aVBill Curley MIN 03/20/1998 MIN vs. DEN W 7 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -7
+p142
+aVSam Mitchell MIN 03/20/1998 MIN vs. DEN W 27 13 6 12 50.0 0 0 - 1 1 100.0 4 5 9 1 1 0 1 3 9
+p143
+aVMicheal Williams MIN 03/20/1998 MIN vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p144
+aVTerry Porter MIN 03/20/1998 MIN vs. DEN W 26 16 5 9 55.6 2 5 40.0 4 4 100.0 0 2 2 8 1 1 2 1 28
+p145
+aVDeJuan Wheat MIN 03/20/1998 MIN vs. DEN W 3 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p146
+aVAnthony Peeler MIN 03/20/1998 MIN vs. DEN W 27 14 5 11 45.5 2 4 50.0 2 3 66.7 0 1 1 2 0 0 1 3 7
+p147
+aVReggie Jordan MIN 03/20/1998 MIN vs. DEN W 16 3 1 3 33.3 0 0 - 1 2 50.0 4 2 6 2 1 2 2 4 6
+p148
+aVStephon Marbury MIN 03/20/1998 MIN vs. DEN W 38 15 6 15 40.0 0 3 0.0 3 3 100.0 1 3 4 6 0 0 1 4 3
+p149
+aVKevin Garnett MIN 03/20/1998 MIN vs. DEN W 41 16 7 14 50.0 0 0 - 2 2 100.0 2 9 11 5 1 3 4 2 16
+p150
+aVCherokee Parks MIN 03/20/1998 MIN vs. DEN W 22 6 2 5 40.0 0 0 - 2 4 50.0 1 5 6 1 0 1 2 2 -10
+p151
+aVTom Hammonds MIN 03/20/1998 MIN vs. DEN W 31 16 6 9 66.7 0 0 - 4 5 80.0 4 4 8 2 1 2 1 1 34
+p152
+aVBill Curley MIN 03/18/1998 MIN vs. SAS L 2 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p153
+aVTerry Porter MIN 03/18/1998 MIN vs. SAS L 21 5 2 9 22.2 1 5 20.0 0 0 - 0 0 0 4 0 1 0 2 -6
+p154
+aVCherokee Parks MIN 03/18/1998 MIN vs. SAS L 14 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 1 1 6 -10
+p155
+aVAnthony Peeler MIN 03/18/1998 MIN vs. SAS L 37 9 4 10 40.0 0 2 0.0 1 2 50.0 4 1 5 3 1 0 2 2 -21
+p156
+aVTom Hammonds MIN 03/18/1998 MIN vs. SAS L 19 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 3 -1
+p157
+aVStanley Roberts MIN 03/18/1998 MIN vs. SAS L 23 15 7 12 58.3 0 0 - 1 2 50.0 4 3 7 0 0 1 1 3 -3
+p158
+aVKevin Garnett MIN 03/18/1998 MIN vs. SAS L 43 16 7 21 33.3 0 0 - 2 4 50.0 4 6 10 5 5 0 2 3 -15
+p159
+aVReggie Jordan MIN 03/18/1998 MIN vs. SAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p160
+aVSam Mitchell MIN 03/18/1998 MIN vs. SAS L 38 8 2 10 20.0 0 1 0.0 4 6 66.7 1 4 5 2 0 0 1 2 -14
+p161
+aVDeJuan Wheat MIN 03/18/1998 MIN vs. SAS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p162
+aVStephon Marbury MIN 03/18/1998 MIN vs. SAS L 40 13 5 14 35.7 1 4 25.0 2 2 100.0 3 3 6 12 0 0 1 2 -10
+p163
+aVTom Hammonds MIN 03/16/1998 MIN vs. UTA L 29 4 2 4 50.0 0 0 - 0 2 0.0 3 6 9 0 0 0 2 4 -10
+p164
+aVStanley Roberts MIN 03/16/1998 MIN vs. UTA L 19 10 4 8 50.0 0 0 - 2 3 66.7 2 1 3 1 1 0 1 4 -2
+p165
+aVKevin Garnett MIN 03/16/1998 MIN vs. UTA L 40 19 8 14 57.1 0 0 - 3 4 75.0 3 13 16 6 1 1 4 3 -1
+p166
+aVTerry Porter MIN 03/16/1998 MIN vs. UTA L 23 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 2 0 0 1 3 9
+p167
+aVSam Mitchell MIN 03/16/1998 MIN vs. UTA L 41 16 7 14 50.0 0 0 - 2 3 66.7 4 6 10 3 1 0 1 5 0
+p168
+aVCherokee Parks MIN 03/16/1998 MIN vs. UTA L 15 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -5
+p169
+aVAnthony Peeler MIN 03/16/1998 MIN vs. UTA L 34 11 4 10 40.0 3 5 60.0 0 0 - 2 4 6 6 2 1 2 5 -12
+p170
+aVStephon Marbury MIN 03/16/1998 MIN vs. UTA L 39 26 11 28 39.3 1 5 20.0 3 4 75.0 2 0 2 5 0 0 2 5 -9
+p171
+aVReggie Jordan MIN 03/14/1998 MIN @ SEA L 12 1 0 2 0.0 0 0 - 1 4 25.0 1 0 1 1 1 0 1 0 -5
+p172
+aVStanley Roberts MIN 03/14/1998 MIN @ SEA L 25 9 4 6 66.7 0 0 - 1 5 20.0 3 7 10 0 0 1 3 2 -13
+p173
+aVTerry Porter MIN 03/14/1998 MIN @ SEA L 23 16 6 12 50.0 2 5 40.0 2 2 100.0 0 1 1 0 0 0 2 1 -18
+p174
+aVKevin Garnett MIN 03/14/1998 MIN @ SEA L 38 12 6 11 54.5 0 0 - 0 0 - 0 10 10 5 1 2 5 3 -21
+p175
+aVTom Hammonds MIN 03/14/1998 MIN @ SEA L 16 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 1 0 1 0 2 -21
+p176
+aVCherokee Parks MIN 03/14/1998 MIN @ SEA L 18 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 2 0 -21
+p177
+aVDeJuan Wheat MIN 03/14/1998 MIN @ SEA L 7 6 2 6 33.3 1 2 50.0 1 1 100.0 1 0 1 1 2 0 0 1 -5
+p178
+aVSam Mitchell MIN 03/14/1998 MIN @ SEA L 36 12 4 8 50.0 0 0 - 4 4 100.0 1 2 3 1 0 0 2 3 -21
+p179
+aVStephon Marbury MIN 03/14/1998 MIN @ SEA L 31 10 3 9 33.3 1 6 16.7 3 4 75.0 1 2 3 5 2 0 4 3 -25
+p180
+aVAnthony Peeler MIN 03/14/1998 MIN @ SEA L 34 6 3 13 23.1 0 3 0.0 0 0 - 2 2 4 4 0 0 2 2 -20
+p181
+aVTom Hammonds MIN 03/12/1998 MIN @ POR L 19 4 2 3 66.7 0 0 - 0 1 0.0 2 4 6 1 0 1 0 2 -7
+p182
+aVCherokee Parks MIN 03/12/1998 MIN @ POR L 24 4 2 4 50.0 0 0 - 0 0 - 2 8 10 3 1 0 2 4 -1
+p183
+aVTerry Porter MIN 03/12/1998 MIN @ POR L 28 16 5 12 41.7 3 6 50.0 3 3 100.0 0 1 1 4 2 0 1 2 23
+p184
+aVAnthony Peeler MIN 03/12/1998 MIN @ POR L 38 16 5 14 35.7 0 2 0.0 6 6 100.0 1 5 6 3 2 1 0 3 -4
+p185
+aVStephon Marbury MIN 03/12/1998 MIN @ POR L 34 12 4 15 26.7 0 6 0.0 4 6 66.7 1 1 2 6 2 0 2 3 -16
+p186
+aVSam Mitchell MIN 03/12/1998 MIN @ POR L 33 21 8 15 53.3 1 1 100.0 4 4 100.0 2 7 9 0 2 0 0 2 4
+p187
+aVStanley Roberts MIN 03/12/1998 MIN @ POR L 17 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 1 1 5 -7
+p188
+aVKevin Garnett MIN 03/12/1998 MIN @ POR L 41 15 6 17 35.3 0 0 - 3 4 75.0 2 3 5 4 1 1 4 3 -7
+p189
+aVChris Carr MIN 03/12/1998 MIN @ POR L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 0
+p190
+aVTom Hammonds MIN 03/11/1998 MIN @ GSW W 25 3 1 6 16.7 0 0 - 1 2 50.0 2 5 7 0 0 0 1 3 9
+p191
+aVKevin Garnett MIN 03/11/1998 MIN @ GSW W 32 22 11 17 64.7 0 0 - 0 4 0.0 3 6 9 6 5 2 3 2 21
+p192
+aVStanley Roberts MIN 03/11/1998 MIN @ GSW W 19 8 4 7 57.1 0 0 - 0 2 0.0 2 8 10 0 1 0 1 5 14
+p193
+aVDeJuan Wheat MIN 03/11/1998 MIN @ GSW W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p194
+aVMicheal Williams MIN 03/11/1998 MIN @ GSW W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -2
+p195
+aVSam Mitchell MIN 03/11/1998 MIN @ GSW W 34 17 7 16 43.8 0 0 - 3 4 75.0 4 4 8 3 3 0 0 1 30
+p196
+aVChris Carr MIN 03/11/1998 MIN @ GSW W 13 12 5 11 45.5 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 4 13
+p197
+aVStephon Marbury MIN 03/11/1998 MIN @ GSW W 31 14 6 12 50.0 1 3 33.3 1 1 100.0 0 2 2 10 1 0 3 3 32
+p198
+aVReggie Jordan MIN 03/11/1998 MIN @ GSW W 6 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 0 1 0 1 0 -2
+p199
+aVCherokee Parks MIN 03/11/1998 MIN @ GSW W 26 8 4 5 80.0 0 0 - 0 0 - 2 6 8 1 0 2 0 2 13
+p200
+aVTerry Porter MIN 03/11/1998 MIN @ GSW W 15 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 2 1 0 1 1 -1
+p201
+aVAnthony Peeler MIN 03/11/1998 MIN @ GSW W 29 13 5 6 83.3 1 1 100.0 2 2 100.0 0 1 1 7 2 0 1 1 24
+p202
+aVStanley Roberts MIN 03/08/1998 MIN vs. SEA L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 4 -1
+p203
+aVKevin Garnett MIN 03/08/1998 MIN vs. SEA L 50 19 7 21 33.3 0 0 - 5 8 62.5 4 6 10 3 1 4 3 5 3
+p204
+aVTerry Porter MIN 03/08/1998 MIN vs. SEA L 13 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 2 0 0 1 0 -12
+p205
+aVChris Carr MIN 03/08/1998 MIN vs. SEA L 5 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p206
+aVAnthony Peeler MIN 03/08/1998 MIN vs. SEA L 48 20 7 17 41.2 3 6 50.0 3 4 75.0 4 5 9 2 3 0 1 1 1
+p207
+aVSam Mitchell MIN 03/08/1998 MIN vs. SEA L 40 21 10 17 58.8 1 1 100.0 0 0 - 4 1 5 4 1 1 0 4 13
+p208
+aVTom Hammonds MIN 03/08/1998 MIN vs. SEA L 28 9 3 5 60.0 0 0 - 3 4 75.0 3 3 6 0 0 1 0 3 -7
+p209
+aVCherokee Parks MIN 03/08/1998 MIN vs. SEA L 24 7 2 7 28.6 0 0 - 3 4 75.0 5 5 10 0 0 0 1 4 -6
+p210
+aVStephon Marbury MIN 03/08/1998 MIN vs. SEA L 45 15 5 24 20.8 1 6 16.7 4 7 57.1 0 7 7 13 0 0 3 4 11
+p211
+aVTom Hammonds MIN 03/06/1998 MIN vs. TOR W 26 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 0 1 1 3 0 5
+p212
+aVKevin Garnett MIN 03/06/1998 MIN vs. TOR W 37 26 10 17 58.8 0 0 - 6 8 75.0 2 8 10 5 2 2 2 2 22
+p213
+aVTerry Porter MIN 03/06/1998 MIN vs. TOR W 22 6 2 4 50.0 2 3 66.7 0 0 - 2 4 6 4 2 0 1 1 3
+p214
+aVReggie Jordan MIN 03/06/1998 MIN vs. TOR W 4 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 0 0 1 1 0 4
+p215
+aVChris Carr MIN 03/06/1998 MIN vs. TOR W 21 10 5 14 35.7 0 2 0.0 0 0 - 3 0 3 1 1 0 3 0 4
+p216
+aVCherokee Parks MIN 03/06/1998 MIN vs. TOR W 19 7 3 5 60.0 0 0 - 1 5 20.0 2 4 6 2 1 1 1 4 2
+p217
+aVDeJuan Wheat MIN 03/06/1998 MIN vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p218
+aVStephon Marbury MIN 03/06/1998 MIN vs. TOR W 34 17 7 15 46.7 0 0 - 3 4 75.0 1 0 1 12 1 0 0 0 19
+p219
+aVStanley Roberts MIN 03/06/1998 MIN vs. TOR W 17 15 7 9 77.8 0 0 - 1 5 20.0 4 3 7 0 1 2 0 3 12
+p220
+aVMicheal Williams MIN 03/06/1998 MIN vs. TOR W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 3 1 0 1 2 4
+p221
+aVSam Mitchell MIN 03/06/1998 MIN vs. TOR W 22 8 4 9 44.4 0 0 - 0 0 - 2 4 6 1 2 0 0 2 17
+p222
+aVAnthony Peeler MIN 03/06/1998 MIN vs. TOR W 34 11 5 10 50.0 1 4 25.0 0 0 - 0 3 3 3 2 0 2 3 18
+p223
+aVTom Hammonds MIN 03/04/1998 MIN @ CHH L 35 5 2 6 33.3 0 0 - 1 4 25.0 3 4 7 3 1 0 2 4 -10
+p224
+aVTerry Porter MIN 03/04/1998 MIN @ CHH L 22 12 4 7 57.1 1 1 100.0 3 3 100.0 0 0 0 2 0 0 1 2 -10
+p225
+aVKevin Garnett MIN 03/04/1998 MIN @ CHH L 42 19 9 16 56.3 0 1 0.0 1 2 50.0 2 7 9 9 1 0 2 5 -3
+p226
+aVStanley Roberts MIN 03/04/1998 MIN @ CHH L 28 11 4 7 57.1 0 0 - 3 5 60.0 1 2 3 0 1 0 0 5 -11
+p227
+aVCherokee Parks MIN 03/04/1998 MIN @ CHH L 20 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 0 3 0 2 1
+p228
+aVStephon Marbury MIN 03/04/1998 MIN @ CHH L 37 20 6 13 46.2 1 4 25.0 7 7 100.0 0 0 0 7 1 0 4 4 -12
+p229
+aVSam Mitchell MIN 03/04/1998 MIN @ CHH L 18 5 2 3 66.7 0 1 0.0 1 2 50.0 0 2 2 1 1 1 1 1 -3
+p230
+aVMicheal Williams MIN 03/04/1998 MIN @ CHH L 11 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 1 0 0 2 2
+p231
+aVAnthony Peeler MIN 03/04/1998 MIN @ CHH L 28 20 7 11 63.6 2 3 66.7 4 4 100.0 0 2 2 3 2 0 0 4 -4
+p232
+aVKevin Garnett MIN 03/03/1998 MIN vs. DAL L 37 22 9 14 64.3 0 0 - 4 5 80.0 4 7 11 7 0 1 2 1 -11
+p233
+aVTerry Porter MIN 03/03/1998 MIN vs. DAL L 28 9 3 8 37.5 2 5 40.0 1 1 100.0 2 0 2 5 0 0 2 0 -12
+p234
+aVStanley Roberts MIN 03/03/1998 MIN vs. DAL L 18 6 3 4 75.0 0 0 - 0 2 0.0 2 3 5 3 0 1 1 3 -1
+p235
+aVReggie Jordan MIN 03/03/1998 MIN vs. DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p236
+aVStephon Marbury MIN 03/03/1998 MIN vs. DAL L 40 17 6 15 40.0 1 3 33.3 4 5 80.0 2 1 3 7 0 0 2 3 -15
+p237
+aVChris Carr MIN 03/03/1998 MIN vs. DAL L 9 8 4 8 50.0 0 4 0.0 0 0 - 0 2 2 2 1 0 0 2 -1
+p238
+aVTom Hammonds MIN 03/03/1998 MIN vs. DAL L 25 13 5 8 62.5 0 0 - 3 4 75.0 3 1 4 1 1 0 0 2 -7
+p239
+aVSam Mitchell MIN 03/03/1998 MIN vs. DAL L 30 14 7 14 50.0 0 1 0.0 0 0 - 1 2 3 0 0 1 0 3 -5
+p240
+aVAnthony Peeler MIN 03/03/1998 MIN vs. DAL L 26 4 2 6 33.3 0 0 - 0 0 - 0 2 2 3 0 0 2 2 -1
+p241
+aVCherokee Parks MIN 03/03/1998 MIN vs. DAL L 21 4 0 5 0.0 0 0 - 4 6 66.7 1 4 5 1 1 1 1 3 -12
+p242
+aVMicheal Williams MIN 03/03/1998 MIN vs. DAL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p243
+aVTom Hammonds MIN 03/01/1998 MIN vs. DET W 32 14 6 10 60.0 0 0 - 2 2 100.0 5 6 11 0 1 0 1 1 3
+p244
+aVSam Mitchell MIN 03/01/1998 MIN vs. DET W 45 19 7 18 38.9 0 1 0.0 5 6 83.3 3 4 7 4 1 1 0 5 5
+p245
+aVStanley Roberts MIN 03/01/1998 MIN vs. DET W 28 6 3 8 37.5 0 0 - 0 2 0.0 3 6 9 0 0 0 1 4 -6
+p246
+aVCherokee Parks MIN 03/01/1998 MIN vs. DET W 11 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 2
+p247
+aVStephon Marbury MIN 03/01/1998 MIN vs. DET W 52 26 9 23 39.1 3 6 50.0 5 7 71.4 1 2 3 11 2 0 3 3 -4
+p248
+aVAnthony Peeler MIN 03/01/1998 MIN vs. DET W 21 3 1 5 20.0 0 1 0.0 1 2 50.0 0 1 1 3 0 0 2 1 2
+p249
+aVKevin Garnett MIN 03/01/1998 MIN vs. DET W 50 26 12 22 54.5 0 1 0.0 2 2 100.0 5 7 12 7 1 1 2 5 1
+p250
+aVTerry Porter MIN 03/01/1998 MIN vs. DET W 38 15 6 12 50.0 2 6 33.3 1 2 50.0 0 4 4 2 1 0 2 1 3
+p251
+aVChris Carr MIN 03/01/1998 MIN vs. DET W 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 2 1 4
+p252
+aVStanley Roberts MIN 02/27/1998 MIN vs. LAL L 27 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 1 1 1 1 5 -7
+p253
+aVChris Carr MIN 02/27/1998 MIN vs. LAL L 5 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 0
+p254
+aVCherokee Parks MIN 02/27/1998 MIN vs. LAL L 19 7 2 6 33.3 0 0 - 3 4 75.0 1 5 6 0 0 1 1 3 -3
+p255
+aVKevin Garnett MIN 02/27/1998 MIN vs. LAL L 38 17 6 16 37.5 0 1 0.0 5 6 83.3 3 8 11 7 1 3 2 2 -20
+p256
+aVTerry Porter MIN 02/27/1998 MIN vs. LAL L 25 10 2 9 22.2 2 7 28.6 4 4 100.0 0 1 1 2 0 1 2 0 -10
+p257
+aVTom Hammonds MIN 02/27/1998 MIN vs. LAL L 21 6 2 4 50.0 0 0 - 2 2 100.0 0 7 7 0 0 0 1 3 3
+p258
+aVSam Mitchell MIN 02/27/1998 MIN vs. LAL L 31 13 5 13 38.5 0 0 - 3 3 100.0 2 3 5 0 0 0 0 1 -9
+p259
+aVStephon Marbury MIN 02/27/1998 MIN vs. LAL L 37 15 5 17 29.4 0 2 0.0 5 6 83.3 1 3 4 7 1 0 1 4 -18
+p260
+aVAnthony Peeler MIN 02/27/1998 MIN vs. LAL L 34 9 4 11 36.4 0 2 0.0 1 2 50.0 1 1 2 6 2 0 0 4 -1
+p261
+aVTerry Porter MIN 02/26/1998 MIN @ HOU L 28 12 4 10 40.0 1 3 33.3 3 3 100.0 1 2 3 2 0 0 1 0 -18
+p262
+aVAnthony Peeler MIN 02/26/1998 MIN @ HOU L 18 2 1 7 14.3 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -11
+p263
+aVTom Hammonds MIN 02/26/1998 MIN @ HOU L 26 11 3 5 60.0 0 0 - 5 5 100.0 2 3 5 1 1 0 0 3 -13
+p264
+aVReggie Jordan MIN 02/26/1998 MIN @ HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 3
+p265
+aVStanley Roberts MIN 02/26/1998 MIN @ HOU L 28 16 7 10 70.0 0 0 - 2 3 66.7 4 6 10 0 0 1 3 3 -10
+p266
+aVKevin Garnett MIN 02/26/1998 MIN @ HOU L 32 13 6 14 42.9 0 0 - 1 2 50.0 1 6 7 2 1 0 2 1 -4
+p267
+aVSam Mitchell MIN 02/26/1998 MIN @ HOU L 19 10 5 8 62.5 0 0 - 0 0 - 3 0 3 0 0 1 0 2 -13
+p268
+aVDeJuan Wheat MIN 02/26/1998 MIN @ HOU L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p269
+aVChris Carr MIN 02/26/1998 MIN @ HOU L 14 4 1 6 16.7 0 3 0.0 2 2 100.0 0 0 0 1 0 0 1 0 -8
+p270
+aVCherokee Parks MIN 02/26/1998 MIN @ HOU L 31 10 4 7 57.1 0 0 - 2 2 100.0 1 6 7 2 0 1 1 4 -12
+p271
+aVStephon Marbury MIN 02/26/1998 MIN @ HOU L 35 16 7 16 43.8 0 3 0.0 2 2 100.0 3 2 5 5 1 0 5 1 -17
+p272
+aVTerry Porter MIN 02/24/1998 MIN @ SAS L 29 13 3 11 27.3 2 5 40.0 5 6 83.3 0 5 5 5 3 0 3 2 7
+p273
+aVTom Hammonds MIN 02/24/1998 MIN @ SAS L 24 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 1 0 1 3 -6
+p274
+aVKevin Garnett MIN 02/24/1998 MIN @ SAS L 40 25 11 22 50.0 0 0 - 3 4 75.0 5 6 11 1 4 1 2 4 -4
+p275
+aVStanley Roberts MIN 02/24/1998 MIN @ SAS L 20 3 1 7 14.3 0 0 - 1 4 25.0 2 6 8 0 1 1 0 4 9
+p276
+aVStephon Marbury MIN 02/24/1998 MIN @ SAS L 39 24 6 14 42.9 2 4 50.0 10 10 100.0 0 0 0 10 2 0 3 3 -12
+p277
+aVSam Mitchell MIN 02/24/1998 MIN @ SAS L 33 15 6 13 46.2 1 1 100.0 2 3 66.7 2 4 6 0 1 1 1 3 -3
+p278
+aVChris Carr MIN 02/24/1998 MIN @ SAS L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 3 1 -10
+p279
+aVCherokee Parks MIN 02/24/1998 MIN @ SAS L 16 9 4 5 80.0 0 0 - 1 1 100.0 2 2 4 0 0 0 0 4 -4
+p280
+aVAnthony Peeler MIN 02/24/1998 MIN @ SAS L 28 6 2 6 33.3 0 1 0.0 2 3 66.7 0 2 2 5 2 0 0 5 -7
+p281
+aVTerry Porter MIN 02/22/1998 MIN vs. SAC W 33 14 4 9 44.4 0 2 0.0 6 8 75.0 0 2 2 4 1 0 2 1 8
+p282
+aVAnthony Peeler MIN 02/22/1998 MIN vs. SAC W 22 16 6 9 66.7 2 2 100.0 2 2 100.0 0 1 1 2 2 0 0 5 10
+p283
+aVStanley Roberts MIN 02/22/1998 MIN vs. SAC W 27 15 7 12 58.3 0 0 - 1 2 50.0 2 5 7 3 1 3 0 3 18
+p284
+aVKevin Garnett MIN 02/22/1998 MIN vs. SAC W 37 14 6 17 35.3 0 0 - 2 2 100.0 3 8 11 5 2 2 3 2 11
+p285
+aVReggie Jordan MIN 02/22/1998 MIN vs. SAC W 7 8 4 4 100.0 0 0 - 0 0 - 0 0 0 2 0 1 0 1 1
+p286
+aVDeJuan Wheat MIN 02/22/1998 MIN vs. SAC W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p287
+aVMicheal Williams MIN 02/22/1998 MIN vs. SAC W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p288
+aVSam Mitchell MIN 02/22/1998 MIN vs. SAC W 33 17 5 11 45.5 0 0 - 7 10 70.0 2 6 8 1 1 0 0 2 15
+p289
+aVTom Hammonds MIN 02/22/1998 MIN vs. SAC W 24 11 4 6 66.7 0 0 - 3 4 75.0 1 3 4 2 0 0 0 3 11
+p290
+aVCherokee Parks MIN 02/22/1998 MIN vs. SAC W 21 3 1 8 12.5 0 0 - 1 4 25.0 3 7 10 2 0 0 1 3 0
+p291
+aVStephon Marbury MIN 02/22/1998 MIN vs. SAC W 29 13 6 10 60.0 1 2 50.0 0 0 - 1 1 2 9 0 0 2 5 18
+p292
+aVTom Hammonds MIN 02/20/1998 MIN vs. HOU W 43 9 4 7 57.1 0 0 - 1 2 50.0 0 5 5 2 0 0 2 2 11
+p293
+aVReggie Jordan MIN 02/20/1998 MIN vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p294
+aVCherokee Parks MIN 02/20/1998 MIN vs. HOU W 23 4 1 4 25.0 0 0 - 2 2 100.0 1 6 7 0 0 0 0 5 5
+p295
+aVTerry Porter MIN 02/20/1998 MIN vs. HOU W 47 14 4 10 40.0 2 6 33.3 4 6 66.7 1 4 5 3 1 0 0 0 3
+p296
+aVSam Mitchell MIN 02/20/1998 MIN vs. HOU W 19 12 4 11 36.4 0 0 - 4 4 100.0 2 2 4 1 0 0 1 1 -5
+p297
+aVStanley Roberts MIN 02/20/1998 MIN vs. HOU W 38 9 4 9 44.4 0 0 - 1 6 16.7 3 6 9 2 1 1 1 6 -1
+p298
+aVKevin Garnett MIN 02/20/1998 MIN vs. HOU W 47 25 12 24 50.0 0 1 0.0 1 1 100.0 4 13 17 4 2 2 3 2 7
+p299
+aVStephon Marbury MIN 02/20/1998 MIN vs. HOU W 48 27 12 28 42.9 1 3 33.3 2 3 66.7 1 4 5 10 0 0 5 1 4
+p300
+aVCherokee Parks MIN 02/18/1998 MIN @ ORL L 27 11 5 12 41.7 0 0 - 1 2 50.0 2 5 7 1 1 0 1 3 -16
+p301
+aVDeJuan Wheat MIN 02/18/1998 MIN @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p302
+aVTom Hammonds MIN 02/18/1998 MIN @ ORL L 34 17 7 11 63.6 0 0 - 3 5 60.0 3 5 8 1 0 0 2 4 -11
+p303
+aVKevin Garnett MIN 02/18/1998 MIN @ ORL L 41 19 8 16 50.0 0 1 0.0 3 7 42.9 1 7 8 6 1 2 3 4 -3
+p304
+aVStephon Marbury MIN 02/18/1998 MIN @ ORL L 32 4 2 15 13.3 0 5 0.0 0 0 - 1 1 2 5 1 0 2 4 -12
+p305
+aVStanley Roberts MIN 02/18/1998 MIN @ ORL L 21 5 2 3 66.7 0 0 - 1 2 50.0 3 0 3 2 1 0 1 3 -9
+p306
+aVMicheal Williams MIN 02/18/1998 MIN @ ORL L 9 5 1 5 20.0 0 2 0.0 3 3 100.0 0 1 1 2 1 0 2 2 9
+p307
+aVReggie Jordan MIN 02/18/1998 MIN @ ORL L 18 4 2 2 100.0 0 0 - 0 2 0.0 3 1 4 3 3 0 2 3 5
+p308
+aVSam Mitchell MIN 02/18/1998 MIN @ ORL L 31 19 6 10 60.0 1 1 100.0 6 7 85.7 3 2 5 1 1 0 2 3 -7
+p309
+aVTerry Porter MIN 02/18/1998 MIN @ ORL L 26 18 7 14 50.0 4 6 66.7 0 0 - 0 3 3 1 0 0 2 0 -23
+p310
+aVStanley Roberts MIN 02/17/1998 MIN @ MIA L 20 10 4 12 33.3 0 0 - 2 2 100.0 3 5 8 0 1 1 1 4 5
+p311
+aVCherokee Parks MIN 02/17/1998 MIN @ MIA L 42 6 2 7 28.6 0 0 - 2 2 100.0 2 5 7 1 1 1 1 3 -26
+p312
+aVKevin Garnett MIN 02/17/1998 MIN @ MIA L 32 14 7 22 31.8 0 2 0.0 0 0 - 3 1 4 0 2 0 2 0 -17
+p313
+aVStephon Marbury MIN 02/17/1998 MIN @ MIA L 31 13 5 11 45.5 2 4 50.0 1 2 50.0 0 3 3 6 0 0 2 2 -20
+p314
+aVDoug West MIN 02/17/1998 MIN @ MIA L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p315
+aVMicheal Williams MIN 02/17/1998 MIN @ MIA L 11 3 0 3 0.0 0 1 0.0 3 3 100.0 0 0 0 0 1 0 0 0 4
+p316
+aVTom Hammonds MIN 02/17/1998 MIN @ MIA L 20 11 4 4 100.0 0 0 - 3 4 75.0 2 4 6 0 0 1 3 3 -12
+p317
+aVDeJuan Wheat MIN 02/17/1998 MIN @ MIA L 9 2 0 5 0.0 0 2 0.0 2 2 100.0 1 1 2 2 0 0 1 0 -7
+p318
+aVSam Mitchell MIN 02/17/1998 MIN @ MIA L 23 2 0 5 0.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 3 -30
+p319
+aVReggie Jordan MIN 02/17/1998 MIN @ MIA L 15 10 2 4 50.0 0 0 - 6 9 66.7 3 0 3 0 2 0 1 0 -10
+p320
+aVTerry Porter MIN 02/17/1998 MIN @ MIA L 23 11 4 8 50.0 1 2 50.0 2 2 100.0 0 2 2 3 0 0 0 1 -12
+p321
+aVCherokee Parks MIN 02/15/1998 MIN vs. DAL W 32 9 3 8 37.5 0 0 - 3 4 75.0 6 3 9 0 1 0 1 3 5
+p322
+aVKevin Garnett MIN 02/15/1998 MIN vs. DAL W 44 19 6 20 30.0 0 0 - 7 9 77.8 5 8 13 3 1 1 3 2 7
+p323
+aVSam Mitchell MIN 02/15/1998 MIN vs. DAL W 38 25 8 15 53.3 0 1 0.0 9 11 81.8 2 7 9 2 1 0 1 4 3
+p324
+aVStephon Marbury MIN 02/15/1998 MIN vs. DAL W 44 23 10 21 47.6 0 3 0.0 3 3 100.0 2 2 4 9 2 1 3 3 10
+p325
+aVReggie Jordan MIN 02/15/1998 MIN vs. DAL W 6 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 1 0 1 -5
+p326
+aVTerry Porter MIN 02/15/1998 MIN vs. DAL W 42 17 5 13 38.5 3 5 60.0 4 5 80.0 2 6 8 9 1 1 0 1 4
+p327
+aVTom Hammonds MIN 02/15/1998 MIN vs. DAL W 16 6 3 5 60.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 3 0
+p328
+aVDeJuan Wheat MIN 02/15/1998 MIN vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p329
+aVDoug West MIN 02/15/1998 MIN vs. DAL W 17 0 0 5 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 3 1
+p330
+aVStanley Roberts MIN 02/15/1998 MIN vs. DAL W 26 6 1 10 10.0 0 0 - 4 9 44.4 5 4 9 0 1 1 1 4 5
+p331
+aVCherokee Parks MIN 02/13/1998 MIN @ DEN W 30 10 5 7 71.4 0 0 - 0 0 - 3 5 8 0 0 1 2 5 33
+p332
+aVMicheal Williams MIN 02/13/1998 MIN @ DEN W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 5
+p333
+aVTerry Porter MIN 02/13/1998 MIN @ DEN W 28 11 3 7 42.9 1 3 33.3 4 4 100.0 0 1 1 2 1 0 3 2 5
+p334
+aVDoug West MIN 02/13/1998 MIN @ DEN W 10 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 13
+p335
+aVSam Mitchell MIN 02/13/1998 MIN @ DEN W 21 6 2 7 28.6 0 0 - 2 2 100.0 0 3 3 3 0 0 0 1 -1
+p336
+aVTom Hammonds MIN 02/13/1998 MIN @ DEN W 25 8 4 4 100.0 0 0 - 0 0 - 0 4 4 0 1 0 0 5 8
+p337
+aVStephon Marbury MIN 02/13/1998 MIN @ DEN W 38 22 9 16 56.3 1 2 50.0 3 4 75.0 0 2 2 9 2 0 2 1 24
+p338
+aVReggie Jordan MIN 02/13/1998 MIN @ DEN W 16 5 2 4 50.0 0 0 - 1 3 33.3 2 2 4 4 1 0 1 1 9
+p339
+aVDeJuan Wheat MIN 02/13/1998 MIN @ DEN W 4 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 3
+p340
+aVStanley Roberts MIN 02/13/1998 MIN @ DEN W 27 12 5 6 83.3 0 0 - 2 3 66.7 1 5 6 1 2 3 2 5 10
+p341
+aVKevin Garnett MIN 02/13/1998 MIN @ DEN W 37 21 7 18 38.9 0 0 - 7 9 77.8 3 8 11 4 3 2 3 1 26
+p342
+aVTerry Porter MIN 02/11/1998 MIN vs. ORL L 31 18 6 12 50.0 5 9 55.6 1 1 100.0 1 1 2 7 0 0 2 3 2
+p343
+aVTom Hammonds MIN 02/11/1998 MIN vs. ORL L 13 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 2 -7
+p344
+aVDoug West MIN 02/11/1998 MIN vs. ORL L 24 2 1 9 11.1 0 0 - 0 0 - 1 2 3 3 0 0 1 2 -7
+p345
+aVKevin Garnett MIN 02/11/1998 MIN vs. ORL L 42 29 14 22 63.6 1 1 100.0 0 0 - 5 7 12 3 3 1 3 4 -8
+p346
+aVStanley Roberts MIN 02/11/1998 MIN vs. ORL L 20 9 3 6 50.0 0 0 - 3 4 75.0 1 4 5 0 0 3 0 4 -14
+p347
+aVCherokee Parks MIN 02/11/1998 MIN vs. ORL L 29 3 1 3 33.3 0 0 - 1 2 50.0 1 5 6 2 3 4 1 3 3
+p348
+aVReggie Jordan MIN 02/11/1998 MIN vs. ORL L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 3 0 0 4 6
+p349
+aVSam Mitchell MIN 02/11/1998 MIN vs. ORL L 36 12 5 13 38.5 0 1 0.0 2 2 100.0 2 7 9 0 0 0 1 2 0
+p350
+aVStephon Marbury MIN 02/11/1998 MIN vs. ORL L 36 13 5 21 23.8 1 8 12.5 2 2 100.0 0 0 0 6 1 0 2 2 -14
+p351
+aVDeJuan Wheat MIN 02/11/1998 MIN vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p352
+aVDeJuan Wheat MIN 02/04/1998 MIN vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p353
+aVStanley Roberts MIN 02/04/1998 MIN vs. NYK W 22 4 2 3 66.7 0 0 - 0 1 0.0 0 3 3 1 0 1 1 1 8
+p354
+aVCherokee Parks MIN 02/04/1998 MIN vs. NYK W 20 14 5 10 50.0 0 0 - 4 4 100.0 2 4 6 0 0 0 1 2 -5
+p355
+aVSam Mitchell MIN 02/04/1998 MIN vs. NYK W 37 13 6 11 54.5 0 0 - 1 1 100.0 2 6 8 5 2 0 2 3 3
+p356
+aVStephon Marbury MIN 02/04/1998 MIN vs. NYK W 41 29 10 21 47.6 0 2 0.0 9 12 75.0 0 5 5 10 1 0 2 3 11
+p357
+aVDoug West MIN 02/04/1998 MIN vs. NYK W 30 6 3 9 33.3 0 0 - 0 0 - 2 2 4 4 0 0 0 5 5
+p358
+aVKevin Garnett MIN 02/04/1998 MIN vs. NYK W 33 13 6 14 42.9 0 0 - 1 1 100.0 2 6 8 6 1 1 4 5 9
+p359
+aVReggie Jordan MIN 02/04/1998 MIN vs. NYK W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -2
+p360
+aVTerry Porter MIN 02/04/1998 MIN vs. NYK W 34 13 5 9 55.6 1 4 25.0 2 2 100.0 0 0 0 4 2 1 3 2 5
+p361
+aVTom Hammonds MIN 02/04/1998 MIN vs. NYK W 13 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 1 3
+p362
+aVStanley Roberts MIN 02/02/1998 MIN @ CLE L 18 10 4 7 57.1 0 0 - 2 3 66.7 0 1 1 0 0 2 3 2 -6
+p363
+aVSam Mitchell MIN 02/02/1998 MIN @ CLE L 37 7 1 5 20.0 0 0 - 5 6 83.3 2 5 7 5 0 0 4 4 -6
+p364
+aVTom Hammonds MIN 02/02/1998 MIN @ CLE L 16 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -11
+p365
+aVKevin Garnett MIN 02/02/1998 MIN @ CLE L 32 14 5 7 71.4 0 0 - 4 6 66.7 1 5 6 2 3 0 2 5 0
+p366
+aVDoug West MIN 02/02/1998 MIN @ CLE L 33 10 4 8 50.0 0 0 - 2 3 66.7 1 4 5 5 0 0 0 1 -8
+p367
+aVReggie Jordan MIN 02/02/1998 MIN @ CLE L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -2
+p368
+aVStephon Marbury MIN 02/02/1998 MIN @ CLE L 40 27 7 21 33.3 5 11 45.5 8 10 80.0 0 0 0 5 1 0 3 5 -6
+p369
+aVTerry Porter MIN 02/02/1998 MIN @ CLE L 31 20 7 13 53.8 1 5 20.0 5 5 100.0 2 4 6 1 2 0 1 1 -7
+p370
+aVCherokee Parks MIN 02/02/1998 MIN @ CLE L 25 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 0 0 1 0 5 -4
+p371
+aVStanley Roberts MIN 02/01/1998 MIN vs. MIL L 12 2 1 3 33.3 0 0 - 0 0 - 0 6 6 0 0 2 1 1 -6
+p372
+aVKevin Garnett MIN 02/01/1998 MIN vs. MIL L 37 26 11 17 64.7 0 0 - 4 4 100.0 5 7 12 7 3 1 1 3 -14
+p373
+aVDeJuan Wheat MIN 02/01/1998 MIN vs. MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p374
+aVTerry Porter MIN 02/01/1998 MIN vs. MIL L 30 22 8 10 80.0 3 4 75.0 3 3 100.0 1 1 2 7 1 0 3 3 8
+p375
+aVTom Hammonds MIN 02/01/1998 MIN vs. MIL L 24 9 2 3 66.7 0 0 - 5 5 100.0 1 3 4 0 1 0 0 4 3
+p376
+aVDoug West MIN 02/01/1998 MIN vs. MIL L 26 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 2 0 2 0 3 -6
+p377
+aVStephon Marbury MIN 02/01/1998 MIN vs. MIL L 36 14 4 16 25.0 0 6 0.0 6 12 50.0 1 0 1 7 1 0 3 4 -19
+p378
+aVSam Mitchell MIN 02/01/1998 MIN vs. MIL L 37 17 3 12 25.0 0 1 0.0 11 15 73.3 1 3 4 3 1 0 1 5 -12
+p379
+aVReggie Jordan MIN 02/01/1998 MIN vs. MIL L 14 4 1 3 33.3 0 0 - 2 2 100.0 4 1 5 2 0 0 2 1 7
+p380
+aVCherokee Parks MIN 02/01/1998 MIN vs. MIL L 23 8 4 9 44.4 0 0 - 0 0 - 0 2 2 1 0 1 2 3 1
+p381
+aVSam Mitchell MIN 01/30/1998 MIN @ LAL L 36 18 5 10 50.0 0 0 - 8 9 88.9 2 5 7 0 0 0 1 5 -7
+p382
+aVStephon Marbury MIN 01/30/1998 MIN @ LAL L 44 35 11 22 50.0 6 9 66.7 7 10 70.0 1 3 4 12 1 0 6 5 -6
+p383
+aVTerry Porter MIN 01/30/1998 MIN @ LAL L 25 9 3 6 50.0 1 3 33.3 2 2 100.0 1 1 2 0 1 0 0 3 -11
+p384
+aVTom Gugliotta MIN 01/30/1998 MIN @ LAL L 16 16 5 9 55.6 0 0 - 6 8 75.0 1 1 2 0 1 0 1 2 -1
+p385
+aVCherokee Parks MIN 01/30/1998 MIN @ LAL L 28 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 1 0 2 0 5 -17
+p386
+aVReggie Jordan MIN 01/30/1998 MIN @ LAL L 9 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 1 1 0 1 2 -1
+p387
+aVKevin Garnett MIN 01/30/1998 MIN @ LAL L 40 20 7 16 43.8 0 1 0.0 6 8 75.0 2 5 7 4 1 1 3 3 -8
+p388
+aVDoug West MIN 01/30/1998 MIN @ LAL L 23 1 0 4 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 3 6
+p389
+aVTom Hammonds MIN 01/30/1998 MIN @ LAL L 7 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 -5
+p390
+aVStanley Roberts MIN 01/30/1998 MIN @ LAL L 13 8 3 5 60.0 0 0 - 2 3 66.7 2 2 4 0 0 2 0 6 15
+p391
+aVTom Hammonds MIN 01/29/1998 MIN @ VAN W 23 2 1 5 20.0 0 0 - 0 0 - 2 5 7 0 0 1 2 2 -1
+p392
+aVDoug West MIN 01/29/1998 MIN @ VAN W 32 10 5 9 55.6 0 0 - 0 0 - 2 4 6 3 0 0 2 4 -2
+p393
+aVStephon Marbury MIN 01/29/1998 MIN @ VAN W 40 31 12 22 54.5 2 2 100.0 5 9 55.6 1 2 3 9 4 0 5 4 9
+p394
+aVSam Mitchell MIN 01/29/1998 MIN @ VAN W 36 21 8 15 53.3 0 1 0.0 5 7 71.4 1 4 5 1 0 1 1 3 11
+p395
+aVKevin Garnett MIN 01/29/1998 MIN @ VAN W 42 18 7 18 38.9 0 0 - 4 4 100.0 4 11 15 7 1 6 4 3 9
+p396
+aVChris Carr MIN 01/29/1998 MIN @ VAN W 8 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 2 0 0 0 9
+p397
+aVTerry Porter MIN 01/29/1998 MIN @ VAN W 15 11 3 5 60.0 1 1 100.0 4 5 80.0 1 1 2 3 1 0 2 0 0
+p398
+aVReggie Jordan MIN 01/29/1998 MIN @ VAN W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p399
+aVCherokee Parks MIN 01/29/1998 MIN @ VAN W 22 7 3 7 42.9 0 0 - 1 2 50.0 2 4 6 2 0 0 0 4 -1
+p400
+aVStanley Roberts MIN 01/29/1998 MIN @ VAN W 20 6 3 3 100.0 0 0 - 0 2 0.0 3 2 5 1 1 0 1 4 0
+p401
+aVSam Mitchell MIN 01/27/1998 MIN vs. ATL W 19 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 2 -1
+p402
+aVKevin Garnett MIN 01/27/1998 MIN vs. ATL W 31 15 6 10 60.0 0 0 - 3 4 75.0 1 3 4 3 1 1 0 1 20
+p403
+aVTom Gugliotta MIN 01/27/1998 MIN vs. ATL W 39 26 11 17 64.7 0 1 0.0 4 4 100.0 1 4 5 9 5 2 3 1 21
+p404
+aVStanley Roberts MIN 01/27/1998 MIN vs. ATL W 16 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 3 7
+p405
+aVReggie Jordan MIN 01/27/1998 MIN vs. ATL W 11 8 4 6 66.7 0 0 - 0 0 - 2 3 5 2 0 0 1 2 -5
+p406
+aVDoug West MIN 01/27/1998 MIN vs. ATL W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p407
+aVChris Carr MIN 01/27/1998 MIN vs. ATL W 25 12 4 13 30.8 1 3 33.3 3 3 100.0 0 7 7 1 0 0 0 1 13
+p408
+aVTerry Porter MIN 01/27/1998 MIN vs. ATL W 20 11 4 8 50.0 2 4 50.0 1 2 50.0 0 1 1 6 0 0 0 3 7
+p409
+aVCherokee Parks MIN 01/27/1998 MIN vs. ATL W 16 6 2 5 40.0 0 0 - 2 2 100.0 3 6 9 1 0 4 3 4 9
+p410
+aVTom Hammonds MIN 01/27/1998 MIN vs. ATL W 19 2 0 3 0.0 0 0 - 2 2 100.0 3 4 7 2 0 0 0 4 -1
+p411
+aVStephon Marbury MIN 01/27/1998 MIN vs. ATL W 35 21 7 17 41.2 1 2 50.0 6 7 85.7 0 1 1 8 0 0 4 1 15
+p412
+aVChris Carr MIN 01/24/1998 MIN @ TOR L 20 8 2 7 28.6 1 2 50.0 3 4 75.0 0 0 0 3 0 0 1 2 3
+p413
+aVDoug West MIN 01/24/1998 MIN @ TOR L 19 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 2 5 1
+p414
+aVCherokee Parks MIN 01/24/1998 MIN @ TOR L 37 15 6 9 66.7 0 0 - 3 4 75.0 2 10 12 1 2 3 1 2 4
+p415
+aVTerry Porter MIN 01/24/1998 MIN @ TOR L 24 9 4 10 40.0 1 3 33.3 0 0 - 0 2 2 5 1 0 4 1 -16
+p416
+aVTom Hammonds MIN 01/24/1998 MIN @ TOR L 10 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -10
+p417
+aVStephon Marbury MIN 01/24/1998 MIN @ TOR L 42 18 8 18 44.4 0 1 0.0 2 2 100.0 1 1 2 9 2 0 3 4 -1
+p418
+aVSam Mitchell MIN 01/24/1998 MIN @ TOR L 19 11 5 7 71.4 0 0 - 1 2 50.0 0 1 1 0 2 1 0 1 4
+p419
+aVReggie Jordan MIN 01/24/1998 MIN @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p420
+aVTom Gugliotta MIN 01/24/1998 MIN @ TOR L 45 25 12 21 57.1 0 1 0.0 1 2 50.0 7 6 13 7 1 1 4 2 0
+p421
+aVStanley Roberts MIN 01/24/1998 MIN @ TOR L 5 6 3 3 100.0 0 0 - 0 1 0.0 0 1 1 0 1 0 1 1 3
+p422
+aVKevin Garnett MIN 01/24/1998 MIN @ TOR L 42 11 5 11 45.5 0 0 - 1 2 50.0 3 8 11 6 0 2 3 2 -13
+p423
+aVTerry Porter MIN 01/21/1998 MIN vs. BOS W 28 16 3 8 37.5 0 3 0.0 10 10 100.0 0 3 3 11 2 1 2 2 8
+p424
+aVDoug West MIN 01/21/1998 MIN vs. BOS W 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 6
+p425
+aVTom Hammonds MIN 01/21/1998 MIN vs. BOS W 33 19 7 11 63.6 0 0 - 5 8 62.5 5 4 9 0 0 0 1 3 10
+p426
+aVCherokee Parks MIN 01/21/1998 MIN vs. BOS W 8 4 0 1 0.0 0 0 - 4 6 66.7 0 0 0 1 0 0 0 5 -7
+p427
+aVTom Gugliotta MIN 01/21/1998 MIN vs. BOS W 34 16 5 8 62.5 0 0 - 6 6 100.0 1 9 10 4 0 0 2 2 12
+p428
+aVSam Mitchell MIN 01/21/1998 MIN vs. BOS W 18 0 0 3 0.0 0 0 - 0 0 - 0 5 5 1 1 0 0 1 -1
+p429
+aVKevin Garnett MIN 01/21/1998 MIN vs. BOS W 43 20 9 12 75.0 0 0 - 2 2 100.0 0 2 2 4 4 5 2 3 12
+p430
+aVStanley Roberts MIN 01/21/1998 MIN vs. BOS W 8 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 1
+p431
+aVChris Carr MIN 01/21/1998 MIN vs. BOS W 14 2 0 6 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 1 0
+p432
+aVStephon Marbury MIN 01/21/1998 MIN vs. BOS W 40 18 4 11 36.4 1 2 50.0 9 13 69.2 0 3 3 6 2 0 2 1 4
+p433
+aVReggie Jordan MIN 01/19/1998 MIN vs. LAC W 4 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 0 5
+p434
+aVMicheal Williams MIN 01/19/1998 MIN vs. LAC W 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 1 -7
+p435
+aVTom Gugliotta MIN 01/19/1998 MIN vs. LAC W 37 19 7 14 50.0 0 0 - 5 8 62.5 4 4 8 9 2 0 1 2 5
+p436
+aVChris Carr MIN 01/19/1998 MIN vs. LAC W 25 13 4 13 30.8 1 4 25.0 4 4 100.0 1 2 3 2 1 1 0 2 -5
+p437
+aVTom Hammonds MIN 01/19/1998 MIN vs. LAC W 3 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -8
+p438
+aVStephon Marbury MIN 01/19/1998 MIN vs. LAC W 39 20 9 16 56.3 1 1 100.0 1 2 50.0 1 3 4 12 0 0 5 1 6
+p439
+aVTerry Porter MIN 01/19/1998 MIN vs. LAC W 19 10 3 6 50.0 1 3 33.3 3 4 75.0 0 0 0 3 0 0 1 0 9
+p440
+aVDoug West MIN 01/19/1998 MIN vs. LAC W 8 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 1 1
+p441
+aVKevin Garnett MIN 01/19/1998 MIN vs. LAC W 34 20 8 17 47.1 0 0 - 4 6 66.7 2 5 7 1 3 0 0 1 18
+p442
+aVCherokee Parks MIN 01/19/1998 MIN vs. LAC W 29 9 4 7 57.1 0 0 - 1 2 50.0 3 5 8 2 0 0 1 4 21
+p443
+aVSam Mitchell MIN 01/19/1998 MIN vs. LAC W 25 7 2 6 33.3 0 0 - 3 6 50.0 2 5 7 1 2 0 3 2 0
+p444
+aVStanley Roberts MIN 01/19/1998 MIN vs. LAC W 16 4 2 3 66.7 0 0 - 0 1 0.0 2 4 6 0 0 4 3 2 -5
+p445
+aVKevin Garnett MIN 01/17/1998 MIN @ DAL W 43 22 9 17 52.9 0 0 - 4 6 66.7 3 8 11 5 3 1 0 4 6
+p446
+aVReggie Jordan MIN 01/17/1998 MIN @ DAL W 19 4 2 3 66.7 0 0 - 0 0 - 2 0 2 2 2 0 0 3 10
+p447
+aVTom Gugliotta MIN 01/17/1998 MIN @ DAL W 43 22 9 19 47.4 0 0 - 4 4 100.0 0 13 13 3 1 1 5 4 -12
+p448
+aVCherokee Parks MIN 01/17/1998 MIN @ DAL W 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 2 2 3 0
+p449
+aVChris Carr MIN 01/17/1998 MIN @ DAL W 34 20 7 17 41.2 2 4 50.0 4 4 100.0 1 5 6 2 0 1 0 3 -3
+p450
+aVTerry Porter MIN 01/17/1998 MIN @ DAL W 30 13 4 8 50.0 2 4 50.0 3 3 100.0 0 2 2 4 1 0 1 4 22
+p451
+aVStanley Roberts MIN 01/17/1998 MIN @ DAL W 11 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 3 1 -18
+p452
+aVSam Mitchell MIN 01/17/1998 MIN @ DAL W 20 6 1 7 14.3 0 0 - 4 4 100.0 2 4 6 0 1 0 1 1 13
+p453
+aVStephon Marbury MIN 01/17/1998 MIN @ DAL W 46 20 9 16 56.3 2 4 50.0 0 0 - 2 4 6 5 0 0 2 2 3
+p454
+aVDoug West MIN 01/17/1998 MIN @ DAL W 9 0 0 2 0.0 0 0 - 0 2 0.0 2 0 2 0 0 0 0 2 -6
+p455
+aVStanley Roberts MIN 01/16/1998 MIN @ HOU W 14 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 1 0 1 2 -16
+p456
+aVSam Mitchell MIN 01/16/1998 MIN @ HOU W 21 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 1 0 0 4 13
+p457
+aVTerry Porter MIN 01/16/1998 MIN @ HOU W 30 13 6 9 66.7 1 3 33.3 0 0 - 0 4 4 10 3 0 2 0 16
+p458
+aVKevin Garnett MIN 01/16/1998 MIN @ HOU W 42 17 8 15 53.3 0 0 - 1 1 100.0 4 3 7 2 1 2 3 2 -5
+p459
+aVDoug West MIN 01/16/1998 MIN @ HOU W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p460
+aVChris Carr MIN 01/16/1998 MIN @ HOU W 17 2 0 5 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 1 -15
+p461
+aVStephon Marbury MIN 01/16/1998 MIN @ HOU W 42 20 7 18 38.9 2 7 28.6 4 8 50.0 0 3 3 7 2 0 4 1 -5
+p462
+aVTom Gugliotta MIN 01/16/1998 MIN @ HOU W 47 33 16 26 61.5 0 1 0.0 1 2 50.0 5 8 13 5 4 1 0 2 -2
+p463
+aVReggie Jordan MIN 01/16/1998 MIN @ HOU W 12 6 2 2 100.0 0 0 - 2 4 50.0 1 0 1 2 1 1 0 2 6
+p464
+aVCherokee Parks MIN 01/16/1998 MIN @ HOU W 34 17 6 8 75.0 0 0 - 5 6 83.3 2 5 7 1 0 1 1 6 13
+p465
+aVStephon Marbury MIN 01/12/1998 MIN vs. GSW W 40 12 5 8 62.5 1 3 33.3 1 3 33.3 0 2 2 8 4 0 3 3 9
+p466
+aVReggie Jordan MIN 01/12/1998 MIN vs. GSW W 8 1 0 3 0.0 0 0 - 1 2 50.0 4 1 5 0 1 0 2 1 7
+p467
+aVSam Mitchell MIN 01/12/1998 MIN vs. GSW W 25 10 4 10 40.0 0 0 - 2 2 100.0 1 4 5 3 1 0 0 2 18
+p468
+aVStanley Roberts MIN 01/12/1998 MIN vs. GSW W 17 8 2 5 40.0 0 0 - 4 6 66.7 2 5 7 0 0 2 1 4 0
+p469
+aVChris Carr MIN 01/12/1998 MIN vs. GSW W 22 10 4 8 50.0 0 1 0.0 2 2 100.0 1 3 4 0 1 0 2 2 -6
+p470
+aVTom Gugliotta MIN 01/12/1998 MIN vs. GSW W 35 14 5 15 33.3 0 0 - 4 4 100.0 4 4 8 5 2 0 2 4 9
+p471
+aVKevin Garnett MIN 01/12/1998 MIN vs. GSW W 34 21 9 14 64.3 0 0 - 3 5 60.0 2 7 9 2 0 2 1 1 1
+p472
+aVTerry Porter MIN 01/12/1998 MIN vs. GSW W 27 13 4 5 80.0 2 3 66.7 3 4 75.0 1 4 5 7 1 0 2 1 26
+p473
+aVCherokee Parks MIN 01/12/1998 MIN vs. GSW W 32 14 3 12 25.0 0 0 - 8 10 80.0 4 3 7 0 0 0 2 4 16
+p474
+aVReggie Jordan MIN 01/10/1998 MIN @ NJN W 17 0 0 0 - 0 0 - 0 0 - 1 2 3 1 2 0 0 2 8
+p475
+aVTerry Porter MIN 01/10/1998 MIN @ NJN W 25 16 6 8 75.0 2 4 50.0 2 2 100.0 1 1 2 6 1 0 2 1 20
+p476
+aVStephon Marbury MIN 01/10/1998 MIN @ NJN W 38 17 7 14 50.0 1 3 33.3 2 4 50.0 2 4 6 7 0 0 2 4 -2
+p477
+aVStanley Roberts MIN 01/10/1998 MIN @ NJN W 20 11 4 6 66.7 0 0 - 3 4 75.0 1 4 5 0 0 0 0 2 2
+p478
+aVChris Carr MIN 01/10/1998 MIN @ NJN W 17 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 3 1 0 2 1 -12
+p479
+aVTom Gugliotta MIN 01/10/1998 MIN @ NJN W 39 24 8 16 50.0 1 2 50.0 7 8 87.5 3 2 5 0 0 0 4 3 1
+p480
+aVSam Mitchell MIN 01/10/1998 MIN @ NJN W 29 18 6 14 42.9 0 0 - 6 8 75.0 4 0 4 0 0 0 1 3 14
+p481
+aVKevin Garnett MIN 01/10/1998 MIN @ NJN W 40 14 5 12 41.7 0 0 - 4 4 100.0 2 8 10 6 1 2 4 2 9
+p482
+aVCherokee Parks MIN 01/10/1998 MIN @ NJN W 16 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 1 2 2 -5
+p483
+aVTom Hammonds MIN 01/09/1998 MIN vs. POR W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p484
+aVStephon Marbury MIN 01/09/1998 MIN vs. POR W 38 27 9 16 56.3 2 3 66.7 7 11 63.6 2 3 5 7 1 0 2 0 -1
+p485
+aVReggie Jordan MIN 01/09/1998 MIN vs. POR W 11 0 0 2 0.0 0 0 - 0 2 0.0 1 2 3 2 0 0 0 1 4
+p486
+aVCherokee Parks MIN 01/09/1998 MIN vs. POR W 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 3 6
+p487
+aVStanley Roberts MIN 01/09/1998 MIN vs. POR W 34 14 5 13 38.5 0 0 - 4 6 66.7 4 4 8 0 0 0 1 0 -6
+p488
+aVChris Carr MIN 01/09/1998 MIN vs. POR W 29 6 1 8 12.5 1 3 33.3 3 4 75.0 2 1 3 3 0 0 2 2 0
+p489
+aVKevin Garnett MIN 01/09/1998 MIN vs. POR W 39 14 5 12 41.7 0 0 - 4 4 100.0 1 9 10 1 1 3 0 0 1
+p490
+aVTom Gugliotta MIN 01/09/1998 MIN vs. POR W 37 11 4 12 33.3 0 0 - 3 5 60.0 0 8 8 1 0 1 2 4 8
+p491
+aVSam Mitchell MIN 01/09/1998 MIN vs. POR W 26 20 7 9 77.8 0 1 0.0 6 6 100.0 1 1 2 2 2 0 1 3 6
+p492
+aVTerry Porter MIN 01/09/1998 MIN vs. POR W 14 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 3
+p493
+aVKevin Garnett MIN 01/07/1998 MIN vs. PHX L 40 13 5 19 26.3 0 0 - 3 6 50.0 5 8 13 5 1 1 1 1 -7
+p494
+aVSam Mitchell MIN 01/07/1998 MIN vs. PHX L 19 9 4 7 57.1 0 0 - 1 1 100.0 0 4 4 0 0 1 1 3 -6
+p495
+aVStanley Roberts MIN 01/07/1998 MIN vs. PHX L 15 0 0 1 0.0 0 0 - 0 2 0.0 1 3 4 1 0 0 3 1 -3
+p496
+aVMicheal Williams MIN 01/07/1998 MIN vs. PHX L 7 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 1 -5
+p497
+aVStephon Marbury MIN 01/07/1998 MIN vs. PHX L 41 16 5 16 31.3 0 4 0.0 6 8 75.0 1 2 3 3 1 0 4 3 -10
+p498
+aVChris Carr MIN 01/07/1998 MIN vs. PHX L 27 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 1 0 2 4 -15
+p499
+aVTerry Porter MIN 01/07/1998 MIN vs. PHX L 21 5 1 7 14.3 0 0 - 3 4 75.0 4 3 7 3 0 0 1 1 0
+p500
+aVTom Hammonds MIN 01/07/1998 MIN vs. PHX L 30 5 1 3 33.3 0 0 - 3 4 75.0 1 6 7 1 0 0 0 2 -11
+p501
+aVTom Gugliotta MIN 01/07/1998 MIN vs. PHX L 40 21 9 19 47.4 0 2 0.0 3 4 75.0 3 5 8 3 1 0 5 1 -18
+p502
+aVStanley Roberts MIN 01/03/1998 MIN vs. DEN W 7 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 0 1 2 5 -3
+p503
+aVTom Gugliotta MIN 01/03/1998 MIN vs. DEN W 32 10 4 9 44.4 0 0 - 2 2 100.0 0 3 3 2 0 0 2 0 16
+p504
+aVReggie Jordan MIN 01/03/1998 MIN vs. DEN W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 0
+p505
+aVCherokee Parks MIN 01/03/1998 MIN vs. DEN W 20 8 2 2 100.0 0 0 - 4 6 66.7 1 2 3 0 0 2 1 3 8
+p506
+aVStephon Marbury MIN 01/03/1998 MIN vs. DEN W 34 14 5 11 45.5 0 3 0.0 4 5 80.0 0 0 0 7 2 1 3 2 16
+p507
+aVSam Mitchell MIN 01/03/1998 MIN vs. DEN W 28 18 6 9 66.7 0 1 0.0 6 6 100.0 1 3 4 1 2 0 0 2 23
+p508
+aVKevin Garnett MIN 01/03/1998 MIN vs. DEN W 36 18 6 10 60.0 0 0 - 6 6 100.0 5 8 13 10 2 3 1 2 14
+p509
+aVMicheal Williams MIN 01/03/1998 MIN vs. DEN W 7 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 2 1 7
+p510
+aVChris Carr MIN 01/03/1998 MIN vs. DEN W 31 15 7 11 63.6 0 2 0.0 1 4 25.0 0 3 3 2 0 0 3 5 2
+p511
+aVTerry Porter MIN 01/03/1998 MIN vs. DEN W 24 9 2 5 40.0 2 2 100.0 3 4 75.0 0 1 1 2 2 1 3 2 19
+p512
+aVTom Hammonds MIN 01/03/1998 MIN vs. DEN W 18 6 3 3 100.0 0 0 - 0 0 - 2 3 5 2 1 1 0 1 8
+p513
+aVKevin Garnett MIN 01/02/1998 MIN @ BOS L 43 11 4 8 50.0 0 0 - 3 4 75.0 2 8 10 5 0 1 0 2 -3
+p514
+aVSam Mitchell MIN 01/02/1998 MIN @ BOS L 35 21 7 14 50.0 0 0 - 7 7 100.0 1 6 7 0 1 0 3 4 10
+p515
+aVStanley Roberts MIN 01/02/1998 MIN @ BOS L 9 3 1 2 50.0 0 0 - 1 3 33.3 0 3 3 0 0 0 1 2 -7
+p516
+aVChris Carr MIN 01/02/1998 MIN @ BOS L 38 14 6 13 46.2 2 3 66.7 0 1 0.0 4 7 11 3 0 1 4 3 3
+p517
+aVDoug West MIN 01/02/1998 MIN @ BOS L 8 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 4 -12
+p518
+aVTom Hammonds MIN 01/02/1998 MIN @ BOS L 25 7 2 5 40.0 0 0 - 3 4 75.0 1 2 3 0 0 0 2 0 -11
+p519
+aVTerry Porter MIN 01/02/1998 MIN @ BOS L 19 7 3 7 42.9 0 2 0.0 1 2 50.0 2 2 4 1 0 0 4 1 -5
+p520
+aVCherokee Parks MIN 01/02/1998 MIN @ BOS L 18 10 4 6 66.7 0 0 - 2 3 66.7 2 1 3 0 0 0 0 3 9
+p521
+aVStephon Marbury MIN 01/02/1998 MIN @ BOS L 41 12 4 15 26.7 0 4 0.0 4 6 66.7 0 4 4 9 0 0 5 4 4
+p522
+aVMicheal Williams MIN 01/02/1998 MIN @ BOS L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -8
+p523
+aVCherokee Parks MIN 12/30/1997 MIN vs. CHI W 18 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 3 4 0
+p524
+aVTom Hammonds MIN 12/30/1997 MIN vs. CHI W 23 10 3 5 60.0 0 0 - 4 5 80.0 0 4 4 2 0 0 1 2 8
+p525
+aVTerry Porter MIN 12/30/1997 MIN vs. CHI W 14 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 2 1 0 0 2 1
+p526
+aVStanley Roberts MIN 12/30/1997 MIN vs. CHI W 15 2 1 1 100.0 0 0 - 0 0 - 1 7 8 0 1 0 1 1 5
+p527
+aVStephon Marbury MIN 12/30/1997 MIN vs. CHI W 41 23 8 18 44.4 1 4 25.0 6 11 54.5 0 0 0 8 3 0 3 0 10
+p528
+aVChris Carr MIN 12/30/1997 MIN vs. CHI W 17 6 3 7 42.9 0 2 0.0 0 0 - 2 0 2 2 1 0 1 4 -4
+p529
+aVSam Mitchell MIN 12/30/1997 MIN vs. CHI W 8 4 1 3 33.3 0 0 - 2 3 66.7 0 1 1 1 0 0 0 1 -6
+p530
+aVTom Gugliotta MIN 12/30/1997 MIN vs. CHI W 43 23 9 14 64.3 0 0 - 5 5 100.0 2 5 7 5 2 0 1 1 4
+p531
+aVDoug West MIN 12/30/1997 MIN vs. CHI W 19 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 5 2
+p532
+aVMicheal Williams MIN 12/30/1997 MIN vs. CHI W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 0 0 1 0 -1
+p533
+aVKevin Garnett MIN 12/30/1997 MIN vs. CHI W 39 20 9 14 64.3 0 1 0.0 2 3 66.7 4 7 11 2 3 2 3 3 1
+p534
+aVStephon Marbury MIN 12/28/1997 MIN @ DET W 38 19 7 16 43.8 2 5 40.0 3 4 75.0 0 4 4 9 1 0 4 1 8
+p535
+aVMicheal Williams MIN 12/28/1997 MIN @ DET W 4 1 0 1 0.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -5
+p536
+aVCherokee Parks MIN 12/28/1997 MIN @ DET W 21 7 3 5 60.0 0 0 - 1 2 50.0 0 4 4 3 1 2 0 3 -7
+p537
+aVStanley Roberts MIN 12/28/1997 MIN @ DET W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p538
+aVDoug West MIN 12/28/1997 MIN @ DET W 20 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 4
+p539
+aVKevin Garnett MIN 12/28/1997 MIN @ DET W 37 12 6 10 60.0 0 0 - 0 0 - 1 7 8 3 0 2 4 3 -5
+p540
+aVChris Carr MIN 12/28/1997 MIN @ DET W 20 12 4 10 40.0 2 4 50.0 2 2 100.0 1 0 1 0 0 0 0 2 -7
+p541
+aVTom Hammonds MIN 12/28/1997 MIN @ DET W 22 8 3 4 75.0 0 0 - 2 2 100.0 5 5 10 1 0 0 1 2 5
+p542
+aVSam Mitchell MIN 12/28/1997 MIN @ DET W 18 12 6 12 50.0 0 1 0.0 0 0 - 1 3 4 1 0 0 2 2 9
+p543
+aVTerry Porter MIN 12/28/1997 MIN @ DET W 13 7 2 6 33.3 0 3 0.0 3 4 75.0 0 1 1 2 0 0 0 0 8
+p544
+aVTom Gugliotta MIN 12/28/1997 MIN @ DET W 41 15 7 15 46.7 0 0 - 1 2 50.0 2 11 13 2 0 0 2 2 4
+p545
+aVCherokee Parks MIN 12/26/1997 MIN vs. NJN W 29 10 4 11 36.4 0 0 - 2 2 100.0 3 10 13 3 0 3 0 2 10
+p546
+aVReggie Jordan MIN 12/26/1997 MIN vs. NJN W 2 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 1
+p547
+aVChris Carr MIN 12/26/1997 MIN vs. NJN W 27 11 5 13 38.5 0 2 0.0 1 2 50.0 1 5 6 4 1 1 2 3 12
+p548
+aVStephon Marbury MIN 12/26/1997 MIN vs. NJN W 37 22 6 14 42.9 0 2 0.0 10 12 83.3 0 3 3 11 1 0 4 5 27
+p549
+aVKevin Garnett MIN 12/26/1997 MIN vs. NJN W 39 15 7 12 58.3 0 0 - 1 2 50.0 1 11 12 2 4 4 2 1 23
+p550
+aVDoug West MIN 12/26/1997 MIN vs. NJN W 16 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 7
+p551
+aVMicheal Williams MIN 12/26/1997 MIN vs. NJN W 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -6
+p552
+aVSam Mitchell MIN 12/26/1997 MIN vs. NJN W 21 18 6 11 54.5 0 0 - 6 6 100.0 2 4 6 2 0 0 2 2 6
+p553
+aVTerry Porter MIN 12/26/1997 MIN vs. NJN W 8 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 4 1 0 2 0 0
+p554
+aVTom Hammonds MIN 12/26/1997 MIN vs. NJN W 15 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 4 0 1 0 3 -1
+p555
+aVTom Gugliotta MIN 12/26/1997 MIN vs. NJN W 37 22 11 17 64.7 0 1 0.0 0 0 - 3 2 5 6 1 0 2 2 21
+p556
+aVSam Mitchell MIN 12/23/1997 MIN @ SEA W 15 9 4 8 50.0 1 2 50.0 0 1 0.0 2 1 3 1 0 0 0 0 5
+p557
+aVMicheal Williams MIN 12/23/1997 MIN @ SEA W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -6
+p558
+aVTom Hammonds MIN 12/23/1997 MIN @ SEA W 29 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 0 4 10
+p559
+aVCherokee Parks MIN 12/23/1997 MIN @ SEA W 21 7 3 5 60.0 0 0 - 1 1 100.0 1 5 6 1 1 1 2 1 2
+p560
+aVTom Gugliotta MIN 12/23/1997 MIN @ SEA W 39 22 10 16 62.5 0 0 - 2 2 100.0 1 2 3 6 2 0 2 4 15
+p561
+aVDoug West MIN 12/23/1997 MIN @ SEA W 24 6 3 9 33.3 0 1 0.0 0 0 - 2 2 4 5 1 0 0 4 10
+p562
+aVStephon Marbury MIN 12/23/1997 MIN @ SEA W 41 35 13 19 68.4 8 11 72.7 1 2 50.0 0 4 4 7 0 0 3 3 15
+p563
+aVKevin Garnett MIN 12/23/1997 MIN @ SEA W 38 12 4 16 25.0 0 0 - 4 4 100.0 4 6 10 6 1 1 0 3 -5
+p564
+aVTerry Porter MIN 12/23/1997 MIN @ SEA W 6 5 1 2 50.0 0 1 0.0 3 3 100.0 0 0 0 1 1 0 1 0 -5
+p565
+aVChris Carr MIN 12/23/1997 MIN @ SEA W 20 12 3 8 37.5 2 2 100.0 4 4 100.0 3 2 5 2 1 0 1 4 4
+p566
+aVSam Mitchell MIN 12/22/1997 MIN @ SAC L 22 6 3 8 37.5 0 0 - 0 0 - 1 4 5 1 0 0 0 1 1
+p567
+aVTom Hammonds MIN 12/22/1997 MIN @ SAC L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -4
+p568
+aVStanley Roberts MIN 12/22/1997 MIN @ SAC L 30 5 2 6 33.3 0 0 - 1 2 50.0 2 9 11 1 0 2 3 3 -5
+p569
+aVTom Gugliotta MIN 12/22/1997 MIN @ SAC L 39 19 6 22 27.3 0 1 0.0 7 9 77.8 7 10 17 2 0 0 5 2 -7
+p570
+aVKevin Garnett MIN 12/22/1997 MIN @ SAC L 34 11 5 12 41.7 0 0 - 1 2 50.0 2 4 6 1 3 0 2 5 -16
+p571
+aVChris Carr MIN 12/22/1997 MIN @ SAC L 24 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 2 0 0 1 3 -8
+p572
+aVTerry Porter MIN 12/22/1997 MIN @ SAC L 11 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 1 0 0 0 1 4
+p573
+aVDoug West MIN 12/22/1997 MIN @ SAC L 15 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -4
+p574
+aVMicheal Williams MIN 12/22/1997 MIN @ SAC L 10 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 1 1 1 0 1 -1
+p575
+aVStephon Marbury MIN 12/22/1997 MIN @ SAC L 38 15 4 17 23.5 2 11 18.2 5 6 83.3 1 1 2 6 3 0 8 2 -9
+p576
+aVCherokee Parks MIN 12/22/1997 MIN @ SAC L 13 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 0 2 1 1 -1
+p577
+aVChris Carr MIN 12/20/1997 MIN vs. LAC W 23 4 2 8 25.0 0 2 0.0 0 0 - 2 0 2 3 0 0 1 1 1
+p578
+aVStephon Marbury MIN 12/20/1997 MIN vs. LAC W 33 9 4 12 33.3 0 1 0.0 1 6 16.7 1 1 2 16 1 0 4 1 10
+p579
+aVTerry Porter MIN 12/20/1997 MIN vs. LAC W 24 12 5 7 71.4 2 2 100.0 0 0 - 0 0 0 2 1 0 3 0 -6
+p580
+aVCherokee Parks MIN 12/20/1997 MIN vs. LAC W 19 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 0 2 0 3 -3
+p581
+aVDoug West MIN 12/20/1997 MIN vs. LAC W 16 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -1
+p582
+aVKevin Garnett MIN 12/20/1997 MIN vs. LAC W 43 20 7 13 53.8 0 1 0.0 6 7 85.7 4 10 14 6 2 2 1 1 -2
+p583
+aVTom Gugliotta MIN 12/20/1997 MIN vs. LAC W 36 24 11 17 64.7 0 0 - 2 5 40.0 0 5 5 2 1 2 5 3 -9
+p584
+aVSam Mitchell MIN 12/20/1997 MIN vs. LAC W 22 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 1 2 1 0 2 10
+p585
+aVTom Hammonds MIN 12/20/1997 MIN vs. LAC W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 0 -3
+p586
+aVStanley Roberts MIN 12/20/1997 MIN vs. LAC W 16 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 0 0 0 0 3 8
+p587
+aVTom Gugliotta MIN 12/17/1997 MIN @ PHI W 42 30 13 25 52.0 0 1 0.0 4 4 100.0 2 5 7 3 1 0 4 3 14
+p588
+aVDeJuan Wheat MIN 12/17/1997 MIN @ PHI W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -6
+p589
+aVCherokee Parks MIN 12/17/1997 MIN @ PHI W 23 12 5 9 55.6 0 0 - 2 2 100.0 3 3 6 1 0 1 0 1 -6
+p590
+aVChris Carr MIN 12/17/1997 MIN @ PHI W 29 9 3 7 42.9 1 3 33.3 2 2 100.0 1 4 5 1 0 0 2 5 10
+p591
+aVSam Mitchell MIN 12/17/1997 MIN @ PHI W 22 5 1 3 33.3 0 0 - 3 4 75.0 0 6 6 0 0 0 1 1 -8
+p592
+aVStephon Marbury MIN 12/17/1997 MIN @ PHI W 41 14 3 8 37.5 1 2 50.0 7 10 70.0 0 6 6 14 1 0 0 3 10
+p593
+aVKevin Garnett MIN 12/17/1997 MIN @ PHI W 36 15 7 17 41.2 0 0 - 1 2 50.0 2 4 6 4 0 0 1 5 3
+p594
+aVReggie Jordan MIN 12/17/1997 MIN @ PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p595
+aVStanley Roberts MIN 12/17/1997 MIN @ PHI W 22 3 1 4 25.0 0 0 - 1 2 50.0 4 6 10 1 0 1 0 4 9
+p596
+aVTerry Porter MIN 12/17/1997 MIN @ PHI W 19 4 2 10 20.0 0 1 0.0 0 0 - 0 2 2 2 2 0 1 2 -5
+p597
+aVTerry Porter MIN 12/16/1997 MIN vs. LAL L 23 13 5 9 55.6 1 3 33.3 2 2 100.0 1 2 3 4 0 0 1 0 -5
+p598
+aVReggie Jordan MIN 12/16/1997 MIN vs. LAL L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 0 4
+p599
+aVCherokee Parks MIN 12/16/1997 MIN vs. LAL L 10 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 2 0 2 -5
+p600
+aVSam Mitchell MIN 12/16/1997 MIN vs. LAL L 26 9 2 7 28.6 0 0 - 5 6 83.3 3 3 6 2 0 0 0 3 -16
+p601
+aVKevin Garnett MIN 12/16/1997 MIN vs. LAL L 41 21 8 16 50.0 0 0 - 5 8 62.5 3 15 18 5 0 2 4 3 -6
+p602
+aVTom Gugliotta MIN 12/16/1997 MIN vs. LAL L 40 18 7 15 46.7 0 0 - 4 6 66.7 4 7 11 2 3 1 5 2 -10
+p603
+aVStephon Marbury MIN 12/16/1997 MIN vs. LAL L 37 17 8 18 44.4 0 4 0.0 1 1 100.0 0 0 0 4 2 0 4 3 -14
+p604
+aVChris Carr MIN 12/16/1997 MIN vs. LAL L 14 8 2 5 40.0 0 1 0.0 4 4 100.0 1 2 3 0 0 0 1 3 -5
+p605
+aVTom Hammonds MIN 12/16/1997 MIN vs. LAL L 15 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -7
+p606
+aVStanley Roberts MIN 12/16/1997 MIN vs. LAL L 16 3 1 5 20.0 0 0 - 1 2 50.0 0 4 4 0 0 1 0 4 -3
+p607
+aVDeJuan Wheat MIN 12/16/1997 MIN vs. LAL L 9 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 4 0 0 1 0 2
+p608
+aVStanley Roberts MIN 12/13/1997 MIN vs. PHX W 15 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 2 1 0 5
+p609
+aVTerry Porter MIN 12/13/1997 MIN vs. PHX W 24 9 3 7 42.9 1 2 50.0 2 3 66.7 1 1 2 3 2 0 1 0 17
+p610
+aVTom Hammonds MIN 12/13/1997 MIN vs. PHX W 24 5 2 3 66.7 0 0 - 1 2 50.0 3 0 3 1 1 0 3 2 -1
+p611
+aVStephon Marbury MIN 12/13/1997 MIN vs. PHX W 42 12 6 12 50.0 0 1 0.0 0 1 0.0 1 4 5 14 1 0 4 2 11
+p612
+aVDeJuan Wheat MIN 12/13/1997 MIN vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p613
+aVTom Gugliotta MIN 12/13/1997 MIN vs. PHX W 39 14 4 8 50.0 0 0 - 6 7 85.7 1 5 6 2 3 1 3 1 12
+p614
+aVKevin Garnett MIN 12/13/1997 MIN vs. PHX W 37 20 8 12 66.7 0 0 - 4 6 66.7 1 7 8 8 3 2 4 4 6
+p615
+aVSam Mitchell MIN 12/13/1997 MIN vs. PHX W 29 24 9 14 64.3 1 1 100.0 5 6 83.3 0 6 6 1 2 0 1 1 11
+p616
+aVReggie Jordan MIN 12/13/1997 MIN vs. PHX W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p617
+aVChris Carr MIN 12/13/1997 MIN vs. PHX W 26 18 8 14 57.1 1 3 33.3 1 2 50.0 0 0 0 3 0 1 0 2 -6
+p618
+aVChris Carr MIN 12/11/1997 MIN @ NYK L 31 11 3 8 37.5 1 2 50.0 4 4 100.0 1 1 2 1 0 0 2 3 3
+p619
+aVTerry Porter MIN 12/11/1997 MIN @ NYK L 17 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 1 0 1 2 -7
+p620
+aVStanley Roberts MIN 12/11/1997 MIN @ NYK L 23 20 9 14 64.3 0 0 - 2 2 100.0 3 5 8 0 1 0 2 5 8
+p621
+aVStephon Marbury MIN 12/11/1997 MIN @ NYK L 41 22 6 15 40.0 2 5 40.0 8 10 80.0 1 3 4 9 2 0 3 2 2
+p622
+aVCherokee Parks MIN 12/11/1997 MIN @ NYK L 10 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 2 3 -3
+p623
+aVTom Hammonds MIN 12/11/1997 MIN @ NYK L 16 8 2 2 100.0 0 0 - 4 8 50.0 2 2 4 0 0 1 1 6 -10
+p624
+aVDeJuan Wheat MIN 12/11/1997 MIN @ NYK L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -6
+p625
+aVKevin Garnett MIN 12/11/1997 MIN @ NYK L 40 15 6 14 42.9 0 0 - 3 4 75.0 0 5 5 4 0 2 1 4 1
+p626
+aVSam Mitchell MIN 12/11/1997 MIN @ NYK L 15 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 1 1 1 0 4 -7
+p627
+aVTom Gugliotta MIN 12/11/1997 MIN @ NYK L 40 19 7 12 58.3 0 0 - 5 6 83.3 2 9 11 6 0 0 3 2 -1
+p628
+aVTom Gugliotta MIN 12/09/1997 MIN vs. SEA L 37 11 5 12 41.7 0 0 - 1 1 100.0 1 8 9 5 1 0 3 4 -12
+p629
+aVDeJuan Wheat MIN 12/09/1997 MIN vs. SEA L 8 9 3 5 60.0 3 4 75.0 0 0 - 0 0 0 2 0 0 1 1 7
+p630
+aVChris Carr MIN 12/09/1997 MIN vs. SEA L 35 18 7 15 46.7 2 6 33.3 2 2 100.0 2 2 4 3 0 1 1 4 -17
+p631
+aVSam Mitchell MIN 12/09/1997 MIN vs. SEA L 23 13 4 11 36.4 0 0 - 5 5 100.0 0 3 3 2 0 1 2 3 1
+p632
+aVCherokee Parks MIN 12/09/1997 MIN vs. SEA L 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 5
+p633
+aVTom Hammonds MIN 12/09/1997 MIN vs. SEA L 13 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 2 1 3 -4
+p634
+aVReggie Jordan MIN 12/09/1997 MIN vs. SEA L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 10
+p635
+aVStanley Roberts MIN 12/09/1997 MIN vs. SEA L 22 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 0 1 1 3 -7
+p636
+aVKevin Garnett MIN 12/09/1997 MIN vs. SEA L 41 16 7 13 53.8 0 0 - 2 2 100.0 8 7 15 4 4 2 3 3 -10
+p637
+aVTerry Porter MIN 12/09/1997 MIN vs. SEA L 15 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 3 0 0 3 0 -5
+p638
+aVStephon Marbury MIN 12/09/1997 MIN vs. SEA L 33 15 4 19 21.1 0 3 0.0 7 9 77.8 1 1 2 5 1 0 1 3 -13
+p639
+aVChris Carr MIN 12/06/1997 MIN @ WAS L 36 14 5 7 71.4 2 2 100.0 2 4 50.0 0 2 2 3 0 0 3 3 -6
+p640
+aVKevin Garnett MIN 12/06/1997 MIN @ WAS L 36 21 9 14 64.3 0 0 - 3 6 50.0 1 1 2 3 3 1 4 4 -11
+p641
+aVTerry Porter MIN 12/06/1997 MIN @ WAS L 14 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 0 2 1 1 2 -1
+p642
+aVStephon Marbury MIN 12/06/1997 MIN @ WAS L 39 27 11 20 55.0 1 4 25.0 4 5 80.0 1 1 2 7 1 0 2 4 -9
+p643
+aVDeJuan Wheat MIN 12/06/1997 MIN @ WAS L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -1
+p644
+aVStanley Roberts MIN 12/06/1997 MIN @ WAS L 16 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 4
+p645
+aVReggie Jordan MIN 12/06/1997 MIN @ WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p646
+aVCherokee Parks MIN 12/06/1997 MIN @ WAS L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p647
+aVTom Hammonds MIN 12/06/1997 MIN @ WAS L 19 8 4 7 57.1 0 0 - 0 0 - 3 2 5 0 0 0 2 3 -11
+p648
+aVTom Gugliotta MIN 12/06/1997 MIN @ WAS L 38 24 7 11 63.6 0 1 0.0 10 11 90.9 2 9 11 2 2 0 2 3 -10
+p649
+aVSam Mitchell MIN 12/06/1997 MIN @ WAS L 31 5 2 8 25.0 0 0 - 1 2 50.0 0 3 3 2 1 0 1 3 -10
+p650
+aVSam Mitchell MIN 12/05/1997 MIN vs. SAC W 23 11 2 4 50.0 0 0 - 7 7 100.0 0 1 1 0 0 0 1 3 -1
+p651
+aVStanley Roberts MIN 12/05/1997 MIN vs. SAC W 23 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 0 2 3 1 2 7
+p652
+aVDoug West MIN 12/05/1997 MIN vs. SAC W 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p653
+aVCherokee Parks MIN 12/05/1997 MIN vs. SAC W 18 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -3
+p654
+aVTom Gugliotta MIN 12/05/1997 MIN vs. SAC W 42 17 7 13 53.8 0 0 - 3 4 75.0 2 9 11 7 3 5 2 3 8
+p655
+aVChris Carr MIN 12/05/1997 MIN vs. SAC W 24 7 3 9 33.3 1 4 25.0 0 0 - 1 2 3 1 0 0 4 3 5
+p656
+aVDeJuan Wheat MIN 12/05/1997 MIN vs. SAC W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 1
+p657
+aVTom Hammonds MIN 12/05/1997 MIN vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p658
+aVReggie Jordan MIN 12/05/1997 MIN vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p659
+aVKevin Garnett MIN 12/05/1997 MIN vs. SAC W 38 18 8 10 80.0 0 0 - 2 2 100.0 0 12 12 2 1 0 1 3 20
+p660
+aVTerry Porter MIN 12/05/1997 MIN vs. SAC W 16 10 3 5 60.0 2 3 66.7 2 2 100.0 1 1 2 3 0 0 0 1 11
+p661
+aVStephon Marbury MIN 12/05/1997 MIN vs. SAC W 37 22 9 15 60.0 0 1 0.0 4 6 66.7 0 1 1 5 0 0 3 4 7
+p662
+aVKevin Garnett MIN 12/03/1997 MIN vs. IND L 37 25 11 13 84.6 0 0 - 3 3 100.0 1 9 10 4 1 2 4 0 -11
+p663
+aVStephon Marbury MIN 12/03/1997 MIN vs. IND L 37 8 3 13 23.1 0 5 0.0 2 2 100.0 0 0 0 10 0 0 3 3 -7
+p664
+aVTom Gugliotta MIN 12/03/1997 MIN vs. IND L 39 11 4 13 30.8 0 0 - 3 4 75.0 5 7 12 4 1 0 4 3 -7
+p665
+aVStanley Roberts MIN 12/03/1997 MIN vs. IND L 24 10 4 7 57.1 0 0 - 2 3 66.7 2 3 5 0 0 2 1 4 -7
+p666
+aVTom Hammonds MIN 12/03/1997 MIN vs. IND L 4 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -3
+p667
+aVTerry Porter MIN 12/03/1997 MIN vs. IND L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 1 0 1 3
+p668
+aVSam Mitchell MIN 12/03/1997 MIN vs. IND L 24 11 3 6 50.0 1 1 100.0 4 5 80.0 2 0 2 2 0 0 2 1 13
+p669
+aVDoug West MIN 12/03/1997 MIN vs. IND L 15 4 1 6 16.7 0 0 - 2 2 100.0 2 0 2 1 1 0 0 2 -7
+p670
+aVChris Carr MIN 12/03/1997 MIN vs. IND L 33 19 7 13 53.8 1 2 50.0 4 4 100.0 0 4 4 1 0 0 1 6 3
+p671
+aVCherokee Parks MIN 12/03/1997 MIN vs. IND L 15 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 0 2 0 1 3
+p672
+aVDeJuan Wheat MIN 12/03/1997 MIN vs. IND L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p673
+aVTom Hammonds MIN 11/29/1997 MIN vs. VAN W 6 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 3 4
+p674
+aVStanley Roberts MIN 11/29/1997 MIN vs. VAN W 17 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 1 3 2
+p675
+aVStephon Marbury MIN 11/29/1997 MIN vs. VAN W 39 14 5 16 31.3 0 2 0.0 4 4 100.0 3 5 8 11 1 0 4 2 11
+p676
+aVDoug West MIN 11/29/1997 MIN vs. VAN W 20 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 4 5
+p677
+aVKevin Garnett MIN 11/29/1997 MIN vs. VAN W 36 13 6 12 50.0 0 0 - 1 2 50.0 3 7 10 7 2 4 0 1 20
+p678
+aVDeJuan Wheat MIN 11/29/1997 MIN vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p679
+aVTom Gugliotta MIN 11/29/1997 MIN vs. VAN W 38 23 9 16 56.3 0 0 - 5 6 83.3 2 8 10 4 1 1 2 1 5
+p680
+aVReggie Jordan MIN 11/29/1997 MIN vs. VAN W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 0
+p681
+aVChris Carr MIN 11/29/1997 MIN vs. VAN W 27 17 8 12 66.7 1 3 33.3 0 0 - 3 1 4 2 0 0 5 2 14
+p682
+aVTerry Porter MIN 11/29/1997 MIN vs. VAN W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 2 6
+p683
+aVCherokee Parks MIN 11/29/1997 MIN vs. VAN W 25 14 5 10 50.0 0 0 - 4 8 50.0 3 3 6 1 0 2 0 3 15
+p684
+aVSam Mitchell MIN 11/29/1997 MIN vs. VAN W 21 10 4 6 66.7 0 0 - 2 2 100.0 1 0 1 1 0 0 0 4 11
+p685
+aVTom Gugliotta MIN 11/28/1997 MIN @ DEN L 33 18 7 12 58.3 0 2 0.0 4 4 100.0 4 8 12 5 1 1 3 4 -1
+p686
+aVCherokee Parks MIN 11/28/1997 MIN @ DEN L 22 6 2 3 66.7 0 0 - 2 3 66.7 0 6 6 0 0 1 0 1 1
+p687
+aVStephon Marbury MIN 11/28/1997 MIN @ DEN L 41 16 5 16 31.3 0 2 0.0 6 9 66.7 0 1 1 8 1 0 2 4 -7
+p688
+aVTom Hammonds MIN 11/28/1997 MIN @ DEN L 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -6
+p689
+aVSam Mitchell MIN 11/28/1997 MIN @ DEN L 19 0 0 5 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -10
+p690
+aVTerry Porter MIN 11/28/1997 MIN @ DEN L 9 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 3 2 -10
+p691
+aVStanley Roberts MIN 11/28/1997 MIN @ DEN L 18 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 2 1 3 -10
+p692
+aVKevin Garnett MIN 11/28/1997 MIN @ DEN L 40 17 6 15 40.0 0 0 - 5 6 83.3 2 7 9 2 2 1 4 5 -7
+p693
+aVDoug West MIN 11/28/1997 MIN @ DEN L 29 13 5 8 62.5 0 0 - 3 3 100.0 1 1 2 1 0 0 0 6 8
+p694
+aVChris Carr MIN 11/28/1997 MIN @ DEN L 17 10 3 12 25.0 1 4 25.0 3 3 100.0 1 1 2 0 0 1 0 4 -13
+p695
+aVTom Gugliotta MIN 11/26/1997 MIN vs. POR L 46 18 5 8 62.5 0 0 - 8 9 88.9 2 4 6 4 0 2 3 3 -8
+p696
+aVKevin Garnett MIN 11/26/1997 MIN vs. POR L 37 10 3 11 27.3 0 0 - 4 6 66.7 1 5 6 2 1 2 1 4 -1
+p697
+aVStephon Marbury MIN 11/26/1997 MIN vs. POR L 36 15 3 12 25.0 0 2 0.0 9 11 81.8 0 2 2 3 4 0 5 5 -14
+p698
+aVTerry Porter MIN 11/26/1997 MIN vs. POR L 18 3 1 3 33.3 0 1 0.0 1 2 50.0 0 3 3 4 1 0 1 0 14
+p699
+aVDoug West MIN 11/26/1997 MIN vs. POR L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -11
+p700
+aVTom Hammonds MIN 11/26/1997 MIN vs. POR L 7 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -6
+p701
+aVChris Carr MIN 11/26/1997 MIN vs. POR L 30 12 5 13 38.5 1 4 25.0 1 2 50.0 0 1 1 2 0 2 0 2 -1
+p702
+aVCherokee Parks MIN 11/26/1997 MIN vs. POR L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -7
+p703
+aVSam Mitchell MIN 11/26/1997 MIN vs. POR L 27 17 6 10 60.0 0 0 - 5 6 83.3 0 2 2 4 1 0 1 3 5
+p704
+aVStanley Roberts MIN 11/26/1997 MIN vs. POR L 19 10 4 10 40.0 0 0 - 2 3 66.7 3 4 7 0 0 1 0 3 -1
+p705
+aVTerry Porter MIN 11/24/1997 MIN @ UTA L 25 9 3 6 50.0 1 2 50.0 2 3 66.7 1 2 3 5 1 2 0 3 5
+p706
+aVStanley Roberts MIN 11/24/1997 MIN @ UTA L 18 4 2 5 40.0 0 0 - 0 1 0.0 2 3 5 0 0 1 1 6 9
+p707
+aVCherokee Parks MIN 11/24/1997 MIN @ UTA L 31 15 5 10 50.0 0 0 - 5 7 71.4 6 3 9 2 2 1 1 1 -13
+p708
+aVChris Carr MIN 11/24/1997 MIN @ UTA L 24 9 3 8 37.5 1 3 33.3 2 2 100.0 0 2 2 3 0 0 2 2 -7
+p709
+aVKevin Garnett MIN 11/24/1997 MIN @ UTA L 42 15 6 15 40.0 0 0 - 3 6 50.0 5 1 6 3 1 1 2 6 -15
+p710
+aVDoug West MIN 11/24/1997 MIN @ UTA L 12 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 2 0 0 4 -14
+p711
+aVStephon Marbury MIN 11/24/1997 MIN @ UTA L 45 38 10 23 43.5 4 6 66.7 14 20 70.0 1 1 2 10 1 1 1 5 -2
+p712
+aVSam Mitchell MIN 11/24/1997 MIN @ UTA L 22 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 0 2 0 0 5 -5
+p713
+aVReggie Jordan MIN 11/24/1997 MIN @ UTA L 0 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p714
+aVDeJuan Wheat MIN 11/24/1997 MIN @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p715
+aVTom Gugliotta MIN 11/24/1997 MIN @ UTA L 45 16 4 13 30.8 1 2 50.0 7 8 87.5 1 3 4 1 1 0 0 5 -4
+p716
+aVKevin Garnett MIN 11/21/1997 MIN vs. CLE L 42 18 8 15 53.3 0 1 0.0 2 4 50.0 2 5 7 3 1 1 4 3 -27
+p717
+aVTerry Porter MIN 11/21/1997 MIN vs. CLE L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 4 1 0 1 0 4
+p718
+aVDoug West MIN 11/21/1997 MIN vs. CLE L 20 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 2 0 1 1 1
+p719
+aVStephon Marbury MIN 11/21/1997 MIN vs. CLE L 31 4 0 8 0.0 0 4 0.0 4 7 57.1 1 1 2 3 0 0 7 4 -21
+p720
+aVCherokee Parks MIN 11/21/1997 MIN vs. CLE L 26 3 1 8 12.5 0 0 - 1 3 33.3 3 2 5 0 1 0 2 4 -20
+p721
+aVReggie Jordan MIN 11/21/1997 MIN vs. CLE L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p722
+aVChris Carr MIN 11/21/1997 MIN vs. CLE L 26 19 9 14 64.3 1 5 20.0 0 0 - 2 3 5 3 3 0 1 4 -20
+p723
+aVStanley Roberts MIN 11/21/1997 MIN vs. CLE L 5 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 5
+p724
+aVClifford Rozier MIN 11/21/1997 MIN vs. CLE L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p725
+aVSam Mitchell MIN 11/21/1997 MIN vs. CLE L 28 13 5 9 55.6 0 0 - 3 4 75.0 2 1 3 2 0 1 1 2 -7
+p726
+aVTom Gugliotta MIN 11/21/1997 MIN vs. CLE L 34 17 8 15 53.3 0 0 - 1 2 50.0 4 4 8 6 0 0 4 2 -11
+p727
+aVDeJuan Wheat MIN 11/21/1997 MIN vs. CLE L 5 2 0 0 - 0 0 - 2 4 50.0 0 0 0 1 0 0 1 0 -6
+p728
+aVStephon Marbury MIN 11/19/1997 MIN @ LAL L 36 15 4 13 30.8 1 6 16.7 6 9 66.7 0 0 0 7 2 0 8 3 -29
+p729
+aVKevin Garnett MIN 11/19/1997 MIN @ LAL L 39 19 8 17 47.1 1 1 100.0 2 4 50.0 2 9 11 5 1 1 1 2 -21
+p730
+aVChris Carr MIN 11/19/1997 MIN @ LAL L 25 11 5 11 45.5 1 2 50.0 0 0 - 0 3 3 3 0 0 2 1 -1
+p731
+aVClifford Rozier MIN 11/19/1997 MIN @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p732
+aVCherokee Parks MIN 11/19/1997 MIN @ LAL L 26 2 1 2 50.0 0 0 - 0 2 0.0 3 3 6 3 1 0 0 5 4
+p733
+aVDeJuan Wheat MIN 11/19/1997 MIN @ LAL L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p734
+aVDoug West MIN 11/19/1997 MIN @ LAL L 27 10 3 8 37.5 0 0 - 4 4 100.0 1 2 3 1 0 0 3 2 -25
+p735
+aVReggie Jordan MIN 11/19/1997 MIN @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p736
+aVStanley Roberts MIN 11/19/1997 MIN @ LAL L 18 7 3 9 33.3 0 0 - 1 6 16.7 3 3 6 0 0 0 2 3 -25
+p737
+aVTom Gugliotta MIN 11/19/1997 MIN @ LAL L 40 22 10 12 83.3 0 0 - 2 2 100.0 1 4 5 5 2 0 7 3 -17
+p738
+aVTerry Porter MIN 11/19/1997 MIN @ LAL L 10 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 2 1 1 0 0 0
+p739
+aVSam Mitchell MIN 11/19/1997 MIN @ LAL L 14 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 1 0 1 0 0 -19
+p740
+aVSam Mitchell MIN 11/18/1997 MIN @ PHX W 21 6 2 5 40.0 0 0 - 2 3 66.7 0 2 2 0 1 0 0 3 10
+p741
+aVChris Carr MIN 11/18/1997 MIN @ PHX W 36 13 6 11 54.5 0 2 0.0 1 2 50.0 1 7 8 2 0 0 0 2 17
+p742
+aVCherokee Parks MIN 11/18/1997 MIN @ PHX W 24 7 2 4 50.0 0 0 - 3 3 100.0 2 6 8 0 0 1 2 0 8
+p743
+aVStanley Roberts MIN 11/18/1997 MIN @ PHX W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p744
+aVReggie Jordan MIN 11/18/1997 MIN @ PHX W 6 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 2 0 -7
+p745
+aVTerry Porter MIN 11/18/1997 MIN @ PHX W 14 4 2 8 25.0 0 3 0.0 0 0 - 0 0 0 1 2 0 0 0 -4
+p746
+aVKevin Garnett MIN 11/18/1997 MIN @ PHX W 41 26 9 14 64.3 0 0 - 8 8 100.0 1 8 9 6 4 1 2 4 32
+p747
+aVDoug West MIN 11/18/1997 MIN @ PHX W 22 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 4 -1
+p748
+aVTom Gugliotta MIN 11/18/1997 MIN @ PHX W 41 20 9 13 69.2 0 0 - 2 2 100.0 2 8 10 8 3 1 6 2 15
+p749
+aVDeJuan Wheat MIN 11/18/1997 MIN @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p750
+aVStephon Marbury MIN 11/18/1997 MIN @ PHX W 34 23 9 12 75.0 2 3 66.7 3 6 50.0 0 1 1 5 2 0 3 4 22
+p751
+aVKevin Garnett MIN 11/15/1997 MIN @ SAS W 38 26 9 20 45.0 0 0 - 8 11 72.7 2 4 6 3 3 2 0 4 17
+p752
+aVTom Gugliotta MIN 11/15/1997 MIN @ SAS W 38 23 7 15 46.7 0 0 - 9 10 90.0 6 6 12 6 0 0 0 2 7
+p753
+aVDoug West MIN 11/15/1997 MIN @ SAS W 25 4 0 5 0.0 0 0 - 4 4 100.0 0 7 7 0 1 1 0 2 8
+p754
+aVChris Carr MIN 11/15/1997 MIN @ SAS W 28 14 5 11 45.5 0 1 0.0 4 6 66.7 1 5 6 1 1 0 3 4 2
+p755
+aVTerry Porter MIN 11/15/1997 MIN @ SAS W 11 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 2 6
+p756
+aVStanley Roberts MIN 11/15/1997 MIN @ SAS W 19 0 0 5 0.0 0 0 - 0 0 - 2 4 6 1 1 0 0 6 7
+p757
+aVCherokee Parks MIN 11/15/1997 MIN @ SAS W 17 5 1 3 33.3 0 0 - 3 4 75.0 2 8 10 0 1 0 0 6 3
+p758
+aVStephon Marbury MIN 11/15/1997 MIN @ SAS W 37 19 6 14 42.9 1 2 50.0 6 7 85.7 0 6 6 7 2 0 0 1 5
+p759
+aVSam Mitchell MIN 11/15/1997 MIN @ SAS W 28 10 3 10 30.0 0 0 - 4 6 66.7 0 0 0 0 1 0 1 4 0
+p760
+aVStanley Roberts MIN 11/13/1997 MIN vs. WAS L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 3 2 3 -3
+p761
+aVDoug West MIN 11/13/1997 MIN vs. WAS L 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -14
+p762
+aVChris Carr MIN 11/13/1997 MIN vs. WAS L 38 18 7 16 43.8 2 8 25.0 2 3 66.7 1 3 4 2 0 0 1 5 11
+p763
+aVTerry Porter MIN 11/13/1997 MIN vs. WAS L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -11
+p764
+aVTom Gugliotta MIN 11/13/1997 MIN vs. WAS L 43 13 4 23 17.4 0 0 - 5 7 71.4 1 6 7 2 3 0 1 1 5
+p765
+aVCherokee Parks MIN 11/13/1997 MIN vs. WAS L 30 5 2 7 28.6 0 0 - 1 2 50.0 3 3 6 1 1 0 0 1 0
+p766
+aVSam Mitchell MIN 11/13/1997 MIN vs. WAS L 17 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -18
+p767
+aVClifford Rozier MIN 11/13/1997 MIN vs. WAS L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 0
+p768
+aVKevin Garnett MIN 11/13/1997 MIN vs. WAS L 47 20 9 19 47.4 1 1 100.0 1 1 100.0 7 13 20 3 1 1 4 4 7
+p769
+aVStephon Marbury MIN 11/13/1997 MIN vs. WAS L 45 26 10 20 50.0 1 2 50.0 5 8 62.5 0 0 0 10 5 0 5 4 8
+p770
+aVChris Carr MIN 11/11/1997 MIN vs. SAS L 30 11 3 6 50.0 3 5 60.0 2 2 100.0 1 3 4 1 0 0 1 2 16
+p771
+aVStephon Marbury MIN 11/11/1997 MIN vs. SAS L 40 15 5 16 31.3 1 4 25.0 4 4 100.0 0 2 2 11 1 1 2 1 6
+p772
+aVClifford Rozier MIN 11/11/1997 MIN vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p773
+aVTom Gugliotta MIN 11/11/1997 MIN vs. SAS L 42 22 9 21 42.9 0 0 - 4 5 80.0 4 5 9 4 2 0 3 5 -1
+p774
+aVDoug West MIN 11/11/1997 MIN vs. SAS L 18 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 2 0 0 1 2 -17
+p775
+aVTerry Porter MIN 11/11/1997 MIN vs. SAS L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 -7
+p776
+aVStanley Roberts MIN 11/11/1997 MIN vs. SAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p777
+aVKevin Garnett MIN 11/11/1997 MIN vs. SAS L 39 14 6 15 40.0 0 0 - 2 2 100.0 1 3 4 3 5 4 3 2 12
+p778
+aVSam Mitchell MIN 11/11/1997 MIN vs. SAS L 21 12 6 9 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 5 -12
+p779
+aVCherokee Parks MIN 11/11/1997 MIN vs. SAS L 30 14 7 8 87.5 0 0 - 0 1 0.0 1 3 4 0 0 1 0 4 9
+p780
+aVStephon Marbury MIN 11/08/1997 MIN @ GSW W 38 13 6 13 46.2 1 4 25.0 0 0 - 1 1 2 5 1 0 2 1 8
+p781
+aVClifford Rozier MIN 11/08/1997 MIN @ GSW W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p782
+aVStanley Roberts MIN 11/08/1997 MIN @ GSW W 20 0 0 1 0.0 0 0 - 0 2 0.0 0 6 6 1 0 2 0 3 2
+p783
+aVTerry Porter MIN 11/08/1997 MIN @ GSW W 19 3 1 4 25.0 1 1 100.0 0 0 - 0 3 3 2 1 2 1 1 3
+p784
+aVSam Mitchell MIN 11/08/1997 MIN @ GSW W 15 8 4 7 57.1 0 0 - 0 0 - 1 3 4 1 0 0 0 2 0
+p785
+aVKevin Garnett MIN 11/08/1997 MIN @ GSW W 41 15 6 16 37.5 0 0 - 3 3 100.0 0 6 6 6 1 3 1 1 7
+p786
+aVTom Gugliotta MIN 11/08/1997 MIN @ GSW W 39 29 10 24 41.7 0 1 0.0 9 9 100.0 6 6 12 6 2 0 4 3 5
+p787
+aVCherokee Parks MIN 11/08/1997 MIN @ GSW W 27 13 5 8 62.5 0 0 - 3 6 50.0 2 4 6 2 4 0 0 3 5
+p788
+aVChris Carr MIN 11/08/1997 MIN @ GSW W 31 14 4 11 36.4 2 3 66.7 4 4 100.0 1 5 6 3 1 0 2 5 -3
+p789
+aVDoug West MIN 11/08/1997 MIN @ GSW W 8 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 2 0 0 0 1 6
+p790
+aVChris Carr MIN 11/07/1997 MIN @ VAN W 18 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 2 0 0 2 3 -2
+p791
+aVDoug West MIN 11/07/1997 MIN @ VAN W 26 8 4 8 50.0 0 0 - 0 0 - 0 2 2 0 1 0 2 4 9
+p792
+aVTerry Porter MIN 11/07/1997 MIN @ VAN W 12 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 2 0 0 1 1 0
+p793
+aVTom Gugliotta MIN 11/07/1997 MIN @ VAN W 34 21 6 17 35.3 0 0 - 9 10 90.0 2 7 9 5 3 0 0 2 16
+p794
+aVStanley Roberts MIN 11/07/1997 MIN @ VAN W 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 8
+p795
+aVKevin Garnett MIN 11/07/1997 MIN @ VAN W 43 19 8 17 47.1 0 1 0.0 3 3 100.0 3 8 11 7 0 4 0 3 5
+p796
+aVCherokee Parks MIN 11/07/1997 MIN @ VAN W 27 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 2 5 4 -4
+p797
+aVSam Mitchell MIN 11/07/1997 MIN @ VAN W 26 16 6 8 75.0 0 1 0.0 4 4 100.0 1 6 7 2 1 0 3 3 8
+p798
+aVStephon Marbury MIN 11/07/1997 MIN @ VAN W 39 26 12 18 66.7 0 2 0.0 2 4 50.0 0 3 3 10 3 0 2 3 15
+p799
+aVCherokee Parks MIN 11/04/1997 MIN @ POR L 13 3 1 3 33.3 0 0 - 1 3 33.3 1 2 3 0 0 1 1 3 -9
+p800
+aVDoug West MIN 11/04/1997 MIN @ POR L 22 0 0 3 0.0 0 0 - 0 0 - 0 2 2 3 0 0 0 3 -8
+p801
+aVSam Mitchell MIN 11/04/1997 MIN @ POR L 24 6 2 8 25.0 0 1 0.0 2 2 100.0 3 3 6 1 2 0 4 1 -12
+p802
+aVTom Gugliotta MIN 11/04/1997 MIN @ POR L 40 27 9 17 52.9 0 0 - 9 12 75.0 4 4 8 0 4 1 1 3 -13
+p803
+aVTerry Porter MIN 11/04/1997 MIN @ POR L 13 3 0 3 0.0 0 1 0.0 3 3 100.0 1 0 1 6 0 0 0 1 -4
+p804
+aVStephon Marbury MIN 11/04/1997 MIN @ POR L 34 27 7 10 70.0 3 4 75.0 10 11 90.9 0 0 0 9 1 0 5 4 -17
+p805
+aVDeJuan Wheat MIN 11/04/1997 MIN @ POR L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 1
+p806
+aVChris Carr MIN 11/04/1997 MIN @ POR L 25 8 3 10 30.0 1 4 25.0 1 1 100.0 1 0 1 3 0 0 1 3 -6
+p807
+aVKevin Garnett MIN 11/04/1997 MIN @ POR L 40 18 8 13 61.5 0 0 - 2 2 100.0 1 3 4 1 2 2 3 2 -9
+p808
+aVStanley Roberts MIN 11/04/1997 MIN @ POR L 20 9 4 4 100.0 0 0 - 1 2 50.0 0 2 2 0 0 1 0 3 -9
+p809
+aVClifford Rozier MIN 11/04/1997 MIN @ POR L 7 4 2 4 50.0 0 0 - 0 1 0.0 3 1 4 0 0 0 2 1 1
+p810
+aVSam Mitchell MIN 11/01/1997 MIN vs. CHH W 21 6 3 7 42.9 0 1 0.0 0 0 - 1 3 4 1 3 0 1 3 1
+p811
+aVDoug West MIN 11/01/1997 MIN vs. CHH W 18 9 4 7 57.1 0 0 - 1 2 50.0 1 2 3 0 1 1 1 2 8
+p812
+aVTerry Porter MIN 11/01/1997 MIN vs. CHH W 17 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 5 0 0 4 1 -3
+p813
+aVDeJuan Wheat MIN 11/01/1997 MIN vs. CHH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p814
+aVTom Gugliotta MIN 11/01/1997 MIN vs. CHH W 35 20 9 19 47.4 0 1 0.0 2 4 50.0 2 7 9 5 2 0 0 2 21
+p815
+aVReggie Jordan MIN 11/01/1997 MIN vs. CHH W 4 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -3
+p816
+aVStanley Roberts MIN 11/01/1997 MIN vs. CHH W 13 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -2
+p817
+aVKevin Garnett MIN 11/01/1997 MIN vs. CHH W 36 18 8 20 40.0 0 0 - 2 2 100.0 4 4 8 2 1 4 3 3 13
+p818
+aVChris Carr MIN 11/01/1997 MIN vs. CHH W 22 9 3 9 33.3 1 2 50.0 2 2 100.0 1 2 3 1 0 0 1 4 8
+p819
+aVStephon Marbury MIN 11/01/1997 MIN vs. CHH W 36 23 8 19 42.1 1 3 33.3 6 7 85.7 3 3 6 13 2 0 1 3 22
+p820
+aVCherokee Parks MIN 11/01/1997 MIN vs. CHH W 35 14 6 8 75.0 0 0 - 2 3 66.7 6 7 13 0 2 2 0 4 18
+p821
+aVTom Gugliotta MIN 10/31/1997 MIN vs. GSW W 38 28 10 15 66.7 0 0 - 8 10 80.0 2 9 11 4 0 1 1 2 4
+p822
+aVChris Carr MIN 10/31/1997 MIN vs. GSW W 30 20 7 11 63.6 4 6 66.7 2 2 100.0 0 4 4 2 1 2 0 3 10
+p823
+aVStanley Roberts MIN 10/31/1997 MIN vs. GSW W 9 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 0 0 1 0 0 -2
+p824
+aVReggie Jordan MIN 10/31/1997 MIN vs. GSW W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 3 5
+p825
+aVTerry Porter MIN 10/31/1997 MIN vs. GSW W 19 14 5 5 100.0 2 2 100.0 2 2 100.0 0 1 1 6 0 0 2 3 7
+p826
+aVDeJuan Wheat MIN 10/31/1997 MIN vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p827
+aVCherokee Parks MIN 10/31/1997 MIN vs. GSW W 40 20 10 16 62.5 0 0 - 0 0 - 3 6 9 2 1 5 0 3 16
+p828
+aVKevin Garnett MIN 10/31/1997 MIN vs. GSW W 40 25 10 17 58.8 0 0 - 5 6 83.3 2 9 11 7 0 6 3 1 19
+p829
+aVStephon Marbury MIN 10/31/1997 MIN vs. GSW W 39 11 4 16 25.0 0 2 0.0 3 4 75.0 3 2 5 14 3 0 3 3 12
+p830
+aVSam Mitchell MIN 10/31/1997 MIN vs. GSW W 17 7 2 6 33.3 0 0 - 3 3 100.0 0 3 3 2 1 0 0 0 11
+p831
+a.

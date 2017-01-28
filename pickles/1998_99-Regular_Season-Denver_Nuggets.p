@@ -1,0 +1,946 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEric Washington DEN 05/05/1999 DEN vs. HOU L 20 0 0 6 0.0 0 3 0.0 0 2 0.0 1 2 3 1 2 2 0 0 -6
+p2
+aVBryant Stith DEN 05/05/1999 DEN vs. HOU L 34 14 5 14 35.7 3 8 37.5 1 2 50.0 0 0 0 1 2 1 1 2 -7
+p3
+aVAntonio McDyess DEN 05/05/1999 DEN vs. HOU L 42 16 7 23 30.4 0 1 0.0 2 6 33.3 6 14 20 1 0 2 2 3 3
+p4
+aVJohnny Taylor DEN 05/05/1999 DEN vs. HOU L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 8
+p5
+aVDanny Fortson DEN 05/05/1999 DEN vs. HOU L 41 12 4 11 36.4 0 0 - 4 4 100.0 6 12 18 0 1 1 1 4 -10
+p6
+aVCarl Herrera DEN 05/05/1999 DEN vs. HOU L 13 6 2 5 40.0 0 0 - 2 4 50.0 2 3 5 0 0 0 0 2 -9
+p7
+aVNick Van Exel DEN 05/05/1999 DEN vs. HOU L 44 35 16 24 66.7 2 6 33.3 1 2 50.0 0 2 2 7 1 0 2 2 -11
+p8
+aVChauncey Billups DEN 05/05/1999 DEN vs. HOU L 41 5 2 12 16.7 0 3 0.0 1 2 50.0 2 1 3 9 5 0 0 1 -3
+p9
+aVEric Williams DEN 05/03/1999 DEN vs. SAC L 6 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -5
+p10
+aVBryant Stith DEN 05/03/1999 DEN vs. SAC L 25 5 2 7 28.6 1 2 50.0 0 0 - 1 0 1 5 1 2 0 3 4
+p11
+aVAntonio McDyess DEN 05/03/1999 DEN vs. SAC L 42 16 8 20 40.0 0 0 - 0 0 - 2 6 8 3 0 1 2 4 0
+p12
+aVCory Alexander DEN 05/03/1999 DEN vs. SAC L 12 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 1 1 3
+p13
+aVDanny Fortson DEN 05/03/1999 DEN vs. SAC L 36 21 8 15 53.3 0 0 - 5 5 100.0 6 12 18 1 1 0 2 5 -10
+p14
+aVJohnny Taylor DEN 05/03/1999 DEN vs. SAC L 9 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 0 1 2 3 -10
+p15
+aVEric Washington DEN 05/03/1999 DEN vs. SAC L 19 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 5 -12
+p16
+aVChauncey Billups DEN 05/03/1999 DEN vs. SAC L 41 26 11 20 55.0 3 7 42.9 1 1 100.0 0 4 4 3 3 1 4 1 -8
+p17
+aVNick Van Exel DEN 05/03/1999 DEN vs. SAC L 40 20 8 13 61.5 1 3 33.3 3 4 75.0 0 3 3 6 1 0 2 1 -5
+p18
+aVCarl Herrera DEN 05/03/1999 DEN vs. SAC L 9 4 2 4 50.0 0 0 - 0 0 - 3 0 3 0 1 0 0 3 3
+p19
+aVCory Alexander DEN 05/02/1999 DEN vs. POR L 24 13 5 9 55.6 3 5 60.0 0 0 - 0 0 0 5 2 0 2 2 11
+p20
+aVCarl Herrera DEN 05/02/1999 DEN vs. POR L 10 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 1 0 1 1 0
+p21
+aVNick Van Exel DEN 05/02/1999 DEN vs. POR L 32 13 5 13 38.5 1 4 25.0 2 3 66.7 0 0 0 8 1 0 2 2 -7
+p22
+aVDanny Fortson DEN 05/02/1999 DEN vs. POR L 34 17 7 12 58.3 0 0 - 3 4 75.0 3 5 8 2 1 1 1 5 -4
+p23
+aVAntonio McDyess DEN 05/02/1999 DEN vs. POR L 41 18 9 21 42.9 0 0 - 0 0 - 6 8 14 2 2 2 1 1 -6
+p24
+aVBryant Stith DEN 05/02/1999 DEN vs. POR L 30 11 4 9 44.4 0 2 0.0 3 4 75.0 0 1 1 2 0 0 0 3 -8
+p25
+aVJohnny Taylor DEN 05/02/1999 DEN vs. POR L 13 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -10
+p26
+aVChauncey Billups DEN 05/02/1999 DEN vs. POR L 36 20 6 10 60.0 4 7 57.1 4 4 100.0 0 1 1 6 2 1 5 2 -10
+p27
+aVEric Washington DEN 05/02/1999 DEN vs. POR L 20 7 3 6 50.0 1 2 50.0 0 0 - 3 4 7 0 0 0 1 1 -6
+p28
+aVChauncey Billups DEN 04/30/1999 DEN @ SEA L 37 18 3 11 27.3 2 6 33.3 10 10 100.0 0 2 2 2 2 1 3 1 -17
+p29
+aVCarl Herrera DEN 04/30/1999 DEN @ SEA L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 1 2
+p30
+aVAntonio McDyess DEN 04/30/1999 DEN @ SEA L 44 25 10 19 52.6 0 1 0.0 5 8 62.5 1 7 8 2 2 1 1 4 -7
+p31
+aVDanny Fortson DEN 04/30/1999 DEN @ SEA L 38 12 6 14 42.9 0 0 - 0 0 - 7 10 17 4 1 0 0 5 -20
+p32
+aVBryant Stith DEN 04/30/1999 DEN @ SEA L 23 7 3 10 30.0 0 2 0.0 1 1 100.0 0 0 0 0 0 1 2 1 -16
+p33
+aVJohnny Taylor DEN 04/30/1999 DEN @ SEA L 23 7 3 7 42.9 0 1 0.0 1 1 100.0 2 1 3 1 1 0 1 4 8
+p34
+aVNick Van Exel DEN 04/30/1999 DEN @ SEA L 39 18 7 15 46.7 2 4 50.0 2 2 100.0 0 1 1 11 1 0 4 2 -3
+p35
+aVEric Washington DEN 04/30/1999 DEN @ SEA L 30 14 6 7 85.7 2 3 66.7 0 0 - 1 4 5 1 0 0 1 3 3
+p36
+aVAntonio McDyess DEN 04/29/1999 DEN vs. PHX L 34 14 6 15 40.0 0 0 - 2 2 100.0 7 4 11 2 2 1 2 5 -7
+p37
+aVChauncey Billups DEN 04/29/1999 DEN vs. PHX L 34 13 5 13 38.5 3 8 37.5 0 0 - 0 0 0 4 1 0 3 5 -8
+p38
+aVEric Washington DEN 04/29/1999 DEN vs. PHX L 27 11 5 5 100.0 1 1 100.0 0 0 - 0 5 5 0 0 1 0 2 -2
+p39
+aVCarl Herrera DEN 04/29/1999 DEN vs. PHX L 10 4 2 5 40.0 0 0 - 0 1 0.0 3 1 4 0 1 0 1 3 -2
+p40
+aVDanny Fortson DEN 04/29/1999 DEN vs. PHX L 25 14 5 6 83.3 0 0 - 4 7 57.1 1 8 9 0 0 0 3 6 -7
+p41
+aVBryant Stith DEN 04/29/1999 DEN vs. PHX L 41 20 7 11 63.6 4 6 66.7 2 2 100.0 1 2 3 5 2 1 1 1 -9
+p42
+aVJohnny Taylor DEN 04/29/1999 DEN vs. PHX L 28 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 3 0 1 4 2 -8
+p43
+aVNick Van Exel DEN 04/29/1999 DEN vs. PHX L 41 11 4 14 28.6 2 5 40.0 1 2 50.0 0 2 2 11 0 0 5 1 -12
+p44
+aVEric Washington DEN 04/26/1999 DEN @ POR L 22 4 1 7 14.3 0 4 0.0 2 2 100.0 2 0 2 0 0 0 0 0 -14
+p45
+aVCarl Herrera DEN 04/26/1999 DEN @ POR L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -9
+p46
+aVAntonio McDyess DEN 04/26/1999 DEN @ POR L 35 23 5 21 23.8 0 0 - 13 14 92.9 4 4 8 1 1 4 2 0 -13
+p47
+aVBryant Stith DEN 04/26/1999 DEN @ POR L 30 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 2 1 -9
+p48
+aVEric Williams DEN 04/26/1999 DEN @ POR L 12 3 1 5 20.0 0 1 0.0 1 2 50.0 1 1 2 2 0 0 0 0 3
+p49
+aVJohnny Taylor DEN 04/26/1999 DEN @ POR L 23 8 4 10 40.0 0 1 0.0 0 0 - 4 8 12 0 0 1 2 5 -5
+p50
+aVDanny Fortson DEN 04/26/1999 DEN @ POR L 40 18 7 15 46.7 0 0 - 4 7 57.1 8 5 13 0 2 0 3 3 -13
+p51
+aVChauncey Billups DEN 04/26/1999 DEN @ POR L 34 10 3 9 33.3 1 5 20.0 3 3 100.0 1 2 3 5 1 1 0 2 -10
+p52
+aVNick Van Exel DEN 04/26/1999 DEN @ POR L 37 7 3 9 33.3 1 1 100.0 0 0 - 1 3 4 3 1 0 0 2 -10
+p53
+aVChauncey Billups DEN 04/24/1999 DEN @ GSW L 40 4 1 7 14.3 0 3 0.0 2 2 100.0 0 6 6 4 0 0 0 3 -18
+p54
+aVCory Alexander DEN 04/24/1999 DEN @ GSW L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 2
+p55
+aVBryant Stith DEN 04/24/1999 DEN @ GSW L 34 6 2 8 25.0 0 3 0.0 2 3 66.7 2 3 5 4 1 1 1 1 -20
+p56
+aVEric Washington DEN 04/24/1999 DEN @ GSW L 29 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 1 1 2 3 0 -3
+p57
+aVCarl Herrera DEN 04/24/1999 DEN @ GSW L 10 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 1
+p58
+aVJohnny Taylor DEN 04/24/1999 DEN @ GSW L 33 16 6 17 35.3 2 8 25.0 2 3 66.7 2 6 8 0 2 1 3 3 -3
+p59
+aVAntonio McDyess DEN 04/24/1999 DEN @ GSW L 32 15 5 13 38.5 0 0 - 5 13 38.5 2 5 7 1 1 3 2 3 -15
+p60
+aVDanny Fortson DEN 04/24/1999 DEN @ GSW L 24 16 6 9 66.7 0 0 - 4 4 100.0 4 8 12 0 0 0 2 3 -21
+p61
+aVNick Van Exel DEN 04/24/1999 DEN @ GSW L 31 4 1 10 10.0 0 2 0.0 2 2 100.0 0 2 2 6 1 0 3 0 -18
+p62
+aVCarl Herrera DEN 04/23/1999 DEN vs. GSW W 22 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 1 1 0 4 -6
+p63
+aVBryant Stith DEN 04/23/1999 DEN vs. GSW W 28 10 5 9 55.6 0 2 0.0 0 0 - 0 1 1 4 1 0 1 1 22
+p64
+aVDanny Fortson DEN 04/23/1999 DEN vs. GSW W 30 15 5 8 62.5 0 0 - 5 6 83.3 2 6 8 1 0 2 2 3 11
+p65
+aVNick Van Exel DEN 04/23/1999 DEN vs. GSW W 39 9 3 13 23.1 1 6 16.7 2 2 100.0 0 5 5 13 1 0 2 0 19
+p66
+aVChauncey Billups DEN 04/23/1999 DEN vs. GSW W 37 20 7 11 63.6 2 4 50.0 4 4 100.0 1 2 3 6 2 1 1 2 0
+p67
+aVEric Washington DEN 04/23/1999 DEN vs. GSW W 23 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 1 2 1 3 5 4
+p68
+aVJohnny Taylor DEN 04/23/1999 DEN vs. GSW W 15 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 1 1 0 0 4 -8
+p69
+aVAntonio McDyess DEN 04/23/1999 DEN vs. GSW W 44 25 7 17 41.2 0 0 - 11 15 73.3 3 7 10 2 4 6 2 2 19
+p70
+aVEric Williams DEN 04/23/1999 DEN vs. GSW W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p71
+aVChauncey Billups DEN 04/18/1999 DEN @ LAC W 30 15 5 12 41.7 2 6 33.3 3 4 75.0 0 2 2 0 0 0 1 3 7
+p72
+aVBryant Stith DEN 04/18/1999 DEN @ LAC W 24 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 0
+p73
+aVEric Williams DEN 04/18/1999 DEN @ LAC W 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 0 3 2
+p74
+aVCarl Herrera DEN 04/18/1999 DEN @ LAC W 20 2 0 5 0.0 0 1 0.0 2 2 100.0 1 5 6 0 0 0 0 2 -6
+p75
+aVEric Washington DEN 04/18/1999 DEN @ LAC W 24 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 0 0 0 0 4 -12
+p76
+aVNick Van Exel DEN 04/18/1999 DEN @ LAC W 44 34 12 23 52.2 2 8 25.0 8 9 88.9 0 0 0 7 0 0 3 2 7
+p77
+aVAntonio McDyess DEN 04/18/1999 DEN @ LAC W 27 18 7 16 43.8 0 0 - 4 4 100.0 2 8 10 2 0 0 1 6 7
+p78
+aVJohnny Taylor DEN 04/18/1999 DEN @ LAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -3
+p79
+aVDanny Fortson DEN 04/18/1999 DEN @ LAC W 44 20 5 9 55.6 0 0 - 10 10 100.0 6 8 14 0 0 1 2 3 8
+p80
+aVAntonio McDyess DEN 04/17/1999 DEN @ SAC L 43 29 12 24 50.0 0 0 - 5 8 62.5 5 7 12 1 3 2 3 3 -19
+p81
+aVEric Washington DEN 04/17/1999 DEN @ SAC L 32 15 5 11 45.5 1 1 100.0 4 5 80.0 5 2 7 2 1 0 0 2 -28
+p82
+aVDanny Fortson DEN 04/17/1999 DEN @ SAC L 33 14 5 11 45.5 0 1 0.0 4 6 66.7 5 11 16 1 1 0 0 4 -14
+p83
+aVBryant Stith DEN 04/17/1999 DEN @ SAC L 19 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 2 0 0 2 1 -11
+p84
+aVLoren Meyer DEN 04/17/1999 DEN @ SAC L 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -6
+p85
+aVJohnny Taylor DEN 04/17/1999 DEN @ SAC L 13 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 2 -4
+p86
+aVNick Van Exel DEN 04/17/1999 DEN @ SAC L 37 13 6 17 35.3 1 2 50.0 0 0 - 0 2 2 11 1 0 1 0 -17
+p87
+aVKelly McCarty DEN 04/17/1999 DEN @ SAC L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p88
+aVCory Alexander DEN 04/17/1999 DEN @ SAC L 24 6 2 8 25.0 0 2 0.0 2 2 100.0 0 3 3 1 1 0 1 2 1
+p89
+aVEric Williams DEN 04/17/1999 DEN @ SAC L 29 14 7 14 50.0 0 1 0.0 0 2 0.0 5 0 5 2 0 0 2 3 -12
+p90
+aVJohnny Taylor DEN 04/15/1999 DEN @ GSW L 17 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 1 0 0 3 -6
+p91
+aVDanny Fortson DEN 04/15/1999 DEN @ GSW L 39 20 8 17 47.1 0 0 - 4 9 44.4 9 14 23 1 1 0 1 5 2
+p92
+aVEric Washington DEN 04/15/1999 DEN @ GSW L 35 9 4 6 66.7 1 3 33.3 0 1 0.0 1 4 5 2 0 0 1 6 6
+p93
+aVEric Williams DEN 04/15/1999 DEN @ GSW L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p94
+aVBryant Stith DEN 04/15/1999 DEN @ GSW L 21 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 2 2 0 1 1 -10
+p95
+aVChauncey Billups DEN 04/15/1999 DEN @ GSW L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -12
+p96
+aVCory Alexander DEN 04/15/1999 DEN @ GSW L 27 12 4 7 57.1 2 3 66.7 2 2 100.0 0 4 4 4 1 1 4 1 2
+p97
+aVNick Van Exel DEN 04/15/1999 DEN @ GSW L 40 7 2 13 15.4 1 6 16.7 2 2 100.0 0 1 1 11 1 0 2 1 -2
+p98
+aVAntonio McDyess DEN 04/15/1999 DEN @ GSW L 44 29 11 26 42.3 1 2 50.0 6 7 85.7 4 8 12 1 0 2 6 3 -4
+p99
+aVEric Washington DEN 04/14/1999 DEN vs. NJN W 29 8 2 4 50.0 2 4 50.0 2 2 100.0 0 3 3 3 1 1 1 1 18
+p100
+aVBryant Stith DEN 04/14/1999 DEN vs. NJN W 24 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 0 1 0 0 4
+p101
+aVEric Williams DEN 04/14/1999 DEN vs. NJN W 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 3 4
+p102
+aVJohnny Taylor DEN 04/14/1999 DEN vs. NJN W 22 12 4 6 66.7 2 2 100.0 2 3 66.7 1 1 2 0 1 1 1 1 18
+p103
+aVKelly McCarty DEN 04/14/1999 DEN vs. NJN W 2 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 1
+p104
+aVCory Alexander DEN 04/14/1999 DEN vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p105
+aVDanny Fortson DEN 04/14/1999 DEN vs. NJN W 33 18 5 11 45.5 0 0 - 8 10 80.0 5 12 17 1 0 1 4 4 21
+p106
+aVChauncey Billups DEN 04/14/1999 DEN vs. NJN W 30 26 7 9 77.8 4 4 100.0 8 8 100.0 0 2 2 6 0 0 2 4 13
+p107
+aVCarl Herrera DEN 04/14/1999 DEN vs. NJN W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 4
+p108
+aVLoren Meyer DEN 04/14/1999 DEN vs. NJN W 2 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 1
+p109
+aVNick Van Exel DEN 04/14/1999 DEN vs. NJN W 34 11 5 12 41.7 1 2 50.0 0 0 - 1 2 3 11 2 0 2 3 14
+p110
+aVAntonio McDyess DEN 04/14/1999 DEN vs. NJN W 38 36 15 24 62.5 0 0 - 6 8 75.0 2 8 10 2 2 1 2 4 16
+p111
+aVNick Van Exel DEN 04/12/1999 DEN vs. GSW L 28 0 0 7 0.0 0 2 0.0 0 0 - 1 1 2 7 0 0 4 3 -5
+p112
+aVDanny Fortson DEN 04/12/1999 DEN vs. GSW L 26 0 0 3 0.0 0 0 - 0 2 0.0 2 5 7 0 0 1 2 4 -6
+p113
+aVAntonio McDyess DEN 04/12/1999 DEN vs. GSW L 44 36 16 23 69.6 0 0 - 4 8 50.0 3 6 9 1 1 2 4 4 -11
+p114
+aVJohnny Taylor DEN 04/12/1999 DEN vs. GSW L 30 12 4 4 100.0 3 3 100.0 1 1 100.0 1 3 4 1 1 0 0 4 -1
+p115
+aVChauncey Billups DEN 04/12/1999 DEN vs. GSW L 42 22 4 16 25.0 3 9 33.3 11 11 100.0 0 5 5 9 1 0 2 5 -8
+p116
+aVEric Williams DEN 04/12/1999 DEN vs. GSW L 26 17 4 10 40.0 0 1 0.0 9 10 90.0 1 3 4 2 1 1 0 2 1
+p117
+aVBryant Stith DEN 04/12/1999 DEN vs. GSW L 21 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 2 -8
+p118
+aVEric Washington DEN 04/12/1999 DEN vs. GSW L 23 2 0 2 0.0 0 2 0.0 2 2 100.0 1 1 2 1 0 1 1 1 -2
+p119
+aVChauncey Billups DEN 04/10/1999 DEN @ SAC L 35 11 4 15 26.7 1 6 16.7 2 3 66.7 1 2 3 2 5 0 3 3 0
+p120
+aVBryant Stith DEN 04/10/1999 DEN @ SAC L 25 2 0 4 0.0 0 0 - 2 2 100.0 2 1 3 1 1 1 2 1 -11
+p121
+aVJohnny Taylor DEN 04/10/1999 DEN @ SAC L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 2 7
+p122
+aVEric Washington DEN 04/10/1999 DEN @ SAC L 26 19 6 9 66.7 5 8 62.5 2 3 66.7 1 3 4 0 0 0 0 0 -6
+p123
+aVNick Van Exel DEN 04/10/1999 DEN @ SAC L 42 29 12 26 46.2 4 10 40.0 1 1 100.0 1 1 2 9 0 0 2 1 -9
+p124
+aVCarl Herrera DEN 04/10/1999 DEN @ SAC L 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 8
+p125
+aVDanny Fortson DEN 04/10/1999 DEN @ SAC L 39 22 10 17 58.8 0 0 - 2 3 66.7 5 12 17 1 1 0 0 4 -9
+p126
+aVAntonio McDyess DEN 04/10/1999 DEN @ SAC L 46 19 8 25 32.0 0 2 0.0 3 4 75.0 4 8 12 3 4 1 4 4 -10
+p127
+aVBryant Stith DEN 04/07/1999 DEN @ VAN W 20 6 2 8 25.0 0 1 0.0 2 2 100.0 1 1 2 2 0 1 1 2 -2
+p128
+aVCarl Herrera DEN 04/07/1999 DEN @ VAN W 15 8 4 4 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 1
+p129
+aVDanny Fortson DEN 04/07/1999 DEN @ VAN W 28 8 3 8 37.5 0 0 - 2 2 100.0 6 8 14 0 0 2 0 4 11
+p130
+aVNick Van Exel DEN 04/07/1999 DEN @ VAN W 41 21 8 22 36.4 3 9 33.3 2 3 66.7 0 2 2 3 2 0 7 2 0
+p131
+aVEric Washington DEN 04/07/1999 DEN @ VAN W 19 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 2 5 -7
+p132
+aVChauncey Billups DEN 04/07/1999 DEN @ VAN W 36 11 3 9 33.3 1 5 20.0 4 4 100.0 1 3 4 6 1 1 2 3 13
+p133
+aVJohnny Taylor DEN 04/07/1999 DEN @ VAN W 28 7 3 10 30.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 5 5
+p134
+aVEric Williams DEN 04/07/1999 DEN @ VAN W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -9
+p135
+aVAntonio McDyess DEN 04/07/1999 DEN @ VAN W 48 24 10 18 55.6 0 0 - 4 6 66.7 7 8 15 1 4 1 1 2 3
+p136
+aVDanny Fortson DEN 04/05/1999 DEN @ LAL L 34 21 8 11 72.7 0 0 - 5 5 100.0 6 6 12 0 0 0 1 5 -12
+p137
+aVChauncey Billups DEN 04/05/1999 DEN @ LAL L 36 15 4 12 33.3 3 7 42.9 4 4 100.0 1 1 2 1 0 0 1 4 -10
+p138
+aVJohnny Taylor DEN 04/05/1999 DEN @ LAL L 25 7 3 4 75.0 1 1 100.0 0 0 - 0 4 4 0 1 0 1 3 -4
+p139
+aVEric Williams DEN 04/05/1999 DEN @ LAL L 23 7 3 5 60.0 0 1 0.0 1 2 50.0 0 1 1 2 0 0 5 2 -2
+p140
+aVAntonio McDyess DEN 04/05/1999 DEN @ LAL L 39 11 4 14 28.6 0 0 - 3 4 75.0 1 8 9 4 1 1 4 4 -12
+p141
+aVNick Van Exel DEN 04/05/1999 DEN @ LAL L 45 41 14 26 53.8 2 9 22.2 11 13 84.6 0 8 8 9 0 0 2 3 -11
+p142
+aVEric Washington DEN 04/05/1999 DEN @ LAL L 14 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -5
+p143
+aVBryant Stith DEN 04/05/1999 DEN @ LAL L 23 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 2 -9
+p144
+aVJohnny Taylor DEN 04/04/1999 DEN vs. LAC W 15 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 1 3 1 0 1 -2
+p145
+aVChauncey Billups DEN 04/04/1999 DEN vs. LAC W 35 16 4 19 21.1 0 3 0.0 8 8 100.0 2 2 4 6 2 2 3 2 0
+p146
+aVEric Washington DEN 04/04/1999 DEN vs. LAC W 21 4 2 5 40.0 0 3 0.0 0 0 - 1 1 2 3 0 0 0 3 -4
+p147
+aVAntonio McDyess DEN 04/04/1999 DEN vs. LAC W 44 20 10 19 52.6 0 0 - 0 0 - 4 9 13 0 3 4 4 1 -1
+p148
+aVNick Van Exel DEN 04/04/1999 DEN vs. LAC W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 -3
+p149
+aVCory Alexander DEN 04/04/1999 DEN vs. LAC W 13 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 3 2
+p150
+aVBryant Stith DEN 04/04/1999 DEN vs. LAC W 30 10 4 6 66.7 1 2 50.0 1 1 100.0 0 1 1 1 0 1 1 2 4
+p151
+aVEric Williams DEN 04/04/1999 DEN vs. LAC W 33 15 4 9 44.4 0 0 - 7 10 70.0 0 2 2 3 1 1 1 2 6
+p152
+aVDanny Fortson DEN 04/04/1999 DEN vs. LAC W 43 13 3 3 100.0 0 0 - 7 10 70.0 6 10 16 1 1 1 4 3 8
+p153
+aVEric Washington DEN 04/02/1999 DEN @ MIN L 29 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 1 1 1 0 1 -10
+p154
+aVAntonio McDyess DEN 04/02/1999 DEN @ MIN L 36 10 4 10 40.0 0 0 - 2 4 50.0 3 6 9 3 2 0 5 0 -21
+p155
+aVChauncey Billups DEN 04/02/1999 DEN @ MIN L 38 30 9 16 56.3 7 10 70.0 5 7 71.4 0 0 0 3 1 0 2 3 -16
+p156
+aVEric Williams DEN 04/02/1999 DEN @ MIN L 26 6 1 7 14.3 0 1 0.0 4 4 100.0 1 1 2 2 3 0 2 4 -10
+p157
+aVJohnny Taylor DEN 04/02/1999 DEN @ MIN L 19 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 -6
+p158
+aVBryant Stith DEN 04/02/1999 DEN @ MIN L 22 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 2 0 0 0 -7
+p159
+aVNick Van Exel DEN 04/02/1999 DEN @ MIN L 36 13 6 18 33.3 0 3 0.0 1 1 100.0 0 2 2 6 0 0 6 1 -18
+p160
+aVDanny Fortson DEN 04/02/1999 DEN @ MIN L 35 15 6 11 54.5 0 0 - 3 4 75.0 3 10 13 0 1 0 2 3 -7
+p161
+aVEric Williams DEN 04/01/1999 DEN vs. SEA W 25 7 2 4 50.0 0 1 0.0 3 5 60.0 2 0 2 1 0 0 1 3 -2
+p162
+aVChauncey Billups DEN 04/01/1999 DEN vs. SEA W 41 32 10 18 55.6 4 9 44.4 8 8 100.0 1 2 3 5 2 0 3 3 1
+p163
+aVDanny Fortson DEN 04/01/1999 DEN vs. SEA W 27 17 3 5 60.0 0 0 - 11 12 91.7 1 7 8 1 1 0 1 6 13
+p164
+aVAntonio McDyess DEN 04/01/1999 DEN vs. SEA W 32 19 7 13 53.8 0 0 - 5 8 62.5 2 7 9 2 1 3 1 5 -3
+p165
+aVEric Washington DEN 04/01/1999 DEN vs. SEA W 21 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 1 2 0 4 1
+p166
+aVCarl Herrera DEN 04/01/1999 DEN vs. SEA W 14 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 2 4 -4
+p167
+aVJohnny Taylor DEN 04/01/1999 DEN vs. SEA W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 3
+p168
+aVBryant Stith DEN 04/01/1999 DEN vs. SEA W 32 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 2 1 0 0 2 4
+p169
+aVNick Van Exel DEN 04/01/1999 DEN vs. SEA W 38 31 11 23 47.8 6 10 60.0 3 3 100.0 0 2 2 5 0 0 1 2 2
+p170
+aVCarl Herrera DEN 03/30/1999 DEN @ VAN L 19 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 1 1 1 2 -9
+p171
+aVBryant Stith DEN 03/30/1999 DEN @ VAN L 35 8 4 10 40.0 0 3 0.0 0 0 - 0 3 3 2 0 0 1 1 -20
+p172
+aVChauncey Billups DEN 03/30/1999 DEN @ VAN L 41 9 3 12 25.0 1 6 16.7 2 3 66.7 1 1 2 3 2 0 3 3 -17
+p173
+aVAntonio McDyess DEN 03/30/1999 DEN @ VAN L 39 22 10 18 55.6 0 0 - 2 4 50.0 1 5 6 0 1 0 1 4 -17
+p174
+aVNick Van Exel DEN 03/30/1999 DEN @ VAN L 45 29 9 22 40.9 0 6 0.0 11 12 91.7 1 1 2 11 1 0 0 5 -9
+p175
+aVEric Washington DEN 03/30/1999 DEN @ VAN L 13 3 1 3 33.3 1 1 100.0 0 0 - 3 1 4 0 0 1 0 3 6
+p176
+aVDanny Fortson DEN 03/30/1999 DEN @ VAN L 32 10 5 7 71.4 0 0 - 0 0 - 2 12 14 0 1 0 2 5 -1
+p177
+aVJohnny Taylor DEN 03/30/1999 DEN @ VAN L 16 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 2 5 -3
+p178
+aVKeon Clark DEN 03/29/1999 DEN vs. LAC W 6 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 4 -7
+p179
+aVDanny Fortson DEN 03/29/1999 DEN vs. LAC W 34 0 0 5 0.0 0 0 - 0 0 - 6 9 15 1 0 0 7 4 7
+p180
+aVChauncey Billups DEN 03/29/1999 DEN vs. LAC W 39 24 8 16 50.0 2 4 50.0 6 6 100.0 0 2 2 9 0 1 2 1 8
+p181
+aVAntonio McDyess DEN 03/29/1999 DEN vs. LAC W 37 24 9 20 45.0 0 0 - 6 8 75.0 3 12 15 2 0 4 2 5 10
+p182
+aVCarl Herrera DEN 03/29/1999 DEN vs. LAC W 18 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 1 1 2 14
+p183
+aVNick Van Exel DEN 03/29/1999 DEN vs. LAC W 41 22 9 18 50.0 1 4 25.0 3 3 100.0 0 2 2 5 1 0 2 3 9
+p184
+aVEric Washington DEN 03/29/1999 DEN vs. LAC W 13 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 0 1 0 2 4 -2
+p185
+aVBryant Stith DEN 03/29/1999 DEN vs. LAC W 38 15 4 7 57.1 2 2 100.0 5 6 83.3 0 3 3 2 2 0 2 1 14
+p186
+aVJohnny Taylor DEN 03/29/1999 DEN vs. LAC W 13 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 1 0 4 7
+p187
+aVChauncey Billups DEN 03/27/1999 DEN vs. WAS L 31 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 5 0 0 2 3 -4
+p188
+aVDanny Fortson DEN 03/27/1999 DEN vs. WAS L 25 14 4 5 80.0 0 0 - 6 7 85.7 1 7 8 0 0 1 2 5 -6
+p189
+aVCarl Herrera DEN 03/27/1999 DEN vs. WAS L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -8
+p190
+aVEric Williams DEN 03/27/1999 DEN vs. WAS L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p191
+aVEric Washington DEN 03/27/1999 DEN vs. WAS L 11 5 2 5 40.0 1 3 33.3 0 0 - 2 1 3 1 0 0 0 3 -5
+p192
+aVKeon Clark DEN 03/27/1999 DEN vs. WAS L 11 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -5
+p193
+aVCory Alexander DEN 03/27/1999 DEN vs. WAS L 15 5 1 5 20.0 0 2 0.0 3 4 75.0 0 3 3 5 0 1 0 0 3
+p194
+aVNick Van Exel DEN 03/27/1999 DEN vs. WAS L 38 23 9 16 56.3 4 6 66.7 1 2 50.0 0 1 1 10 1 0 3 2 -14
+p195
+aVBryant Stith DEN 03/27/1999 DEN vs. WAS L 23 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 1 2 0 2 2 -7
+p196
+aVAntonio McDyess DEN 03/27/1999 DEN vs. WAS L 42 39 14 21 66.7 0 0 - 11 13 84.6 3 9 12 1 0 5 4 3 -13
+p197
+aVJohnny Taylor DEN 03/27/1999 DEN vs. WAS L 25 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 2 0 0 0 5 -3
+p198
+aVCory Alexander DEN 03/26/1999 DEN @ DAL L 8 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 4 2 -8
+p199
+aVAntonio McDyess DEN 03/26/1999 DEN @ DAL L 39 16 6 15 40.0 0 0 - 4 5 80.0 3 11 14 1 1 1 4 2 -12
+p200
+aVJohnny Taylor DEN 03/26/1999 DEN @ DAL L 24 9 4 8 50.0 1 4 25.0 0 0 - 1 4 5 2 2 1 0 2 -24
+p201
+aVNick Van Exel DEN 03/26/1999 DEN @ DAL L 35 4 2 11 18.2 0 3 0.0 0 2 0.0 0 1 1 9 0 0 2 1 -14
+p202
+aVBryant Stith DEN 03/26/1999 DEN @ DAL L 28 5 1 4 25.0 0 1 0.0 3 3 100.0 0 1 1 2 0 0 2 2 -13
+p203
+aVKeon Clark DEN 03/26/1999 DEN @ DAL L 13 3 1 5 20.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 -3
+p204
+aVEric Williams DEN 03/26/1999 DEN @ DAL L 27 14 4 9 44.4 0 0 - 6 8 75.0 3 4 7 1 0 0 1 2 -7
+p205
+aVDanny Fortson DEN 03/26/1999 DEN @ DAL L 27 11 5 11 45.5 0 0 - 1 2 50.0 7 4 11 1 0 0 2 5 -6
+p206
+aVChauncey Billups DEN 03/26/1999 DEN @ DAL L 38 13 6 15 40.0 1 6 16.7 0 0 - 0 0 0 3 2 0 0 1 -8
+p207
+aVEric Washington DEN 03/25/1999 DEN vs. SAS L 6 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 1 1 0 0 0 1
+p208
+aVBryant Stith DEN 03/25/1999 DEN vs. SAS L 18 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 2 -24
+p209
+aVChauncey Billups DEN 03/25/1999 DEN vs. SAS L 28 11 2 8 25.0 1 3 33.3 6 6 100.0 1 1 2 4 1 0 1 0 0
+p210
+aVLoren Meyer DEN 03/25/1999 DEN vs. SAS L 6 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 1
+p211
+aVCory Alexander DEN 03/25/1999 DEN vs. SAS L 16 0 0 5 0.0 0 0 - 0 0 - 0 1 1 3 1 0 5 1 -12
+p212
+aVDanny Fortson DEN 03/25/1999 DEN vs. SAS L 29 6 2 10 20.0 0 0 - 2 4 50.0 3 13 16 3 0 0 1 3 -9
+p213
+aVKeon Clark DEN 03/25/1999 DEN vs. SAS L 17 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 2 2 3 -18
+p214
+aVEric Williams DEN 03/25/1999 DEN vs. SAS L 21 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 0 -20
+p215
+aVNick Van Exel DEN 03/25/1999 DEN vs. SAS L 32 16 6 13 46.2 2 5 40.0 2 2 100.0 0 4 4 3 1 0 1 0 -9
+p216
+aVJohnny Taylor DEN 03/25/1999 DEN vs. SAS L 30 5 2 10 20.0 0 1 0.0 1 2 50.0 1 2 3 2 1 2 1 3 2
+p217
+aVAntonio McDyess DEN 03/25/1999 DEN vs. SAS L 36 17 7 14 50.0 0 0 - 3 4 75.0 2 6 8 1 2 2 3 4 -17
+p218
+aVNick Van Exel DEN 03/23/1999 DEN @ SAS L 28 18 6 15 40.0 2 3 66.7 4 4 100.0 0 1 1 6 0 0 4 1 -11
+p219
+aVKeon Clark DEN 03/23/1999 DEN @ SAS L 18 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 1 -10
+p220
+aVJohnny Taylor DEN 03/23/1999 DEN @ SAS L 36 14 7 17 41.2 0 4 0.0 0 0 - 2 6 8 2 2 0 1 1 -24
+p221
+aVCory Alexander DEN 03/23/1999 DEN @ SAS L 17 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 -11
+p222
+aVDanny Fortson DEN 03/23/1999 DEN @ SAS L 25 2 1 7 14.3 0 0 - 0 0 - 4 5 9 1 0 2 1 3 -10
+p223
+aVEric Williams DEN 03/23/1999 DEN @ SAS L 21 14 4 10 40.0 0 2 0.0 6 6 100.0 1 1 2 1 1 0 0 2 -21
+p224
+aVBryant Stith DEN 03/23/1999 DEN @ SAS L 23 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 1 0 1 1 -19
+p225
+aVChauncey Billups DEN 03/23/1999 DEN @ SAS L 32 11 4 11 36.4 1 5 20.0 2 2 100.0 1 0 1 3 2 0 1 1 -20
+p226
+aVAntonio McDyess DEN 03/23/1999 DEN @ SAS L 40 10 5 14 35.7 0 0 - 0 1 0.0 5 7 12 1 2 0 3 3 -24
+p227
+aVCory Alexander DEN 03/21/1999 DEN vs. SEA W 22 7 3 5 60.0 1 2 50.0 0 2 0.0 0 2 2 5 1 1 0 3 7
+p228
+aVAntonio McDyess DEN 03/21/1999 DEN vs. SEA W 40 23 4 11 36.4 0 0 - 15 21 71.4 4 11 15 4 0 5 4 3 15
+p229
+aVEric Williams DEN 03/21/1999 DEN vs. SEA W 21 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 2 3 -4
+p230
+aVJohnny Taylor DEN 03/21/1999 DEN vs. SEA W 40 11 3 7 42.9 2 5 40.0 3 4 75.0 1 7 8 0 2 3 5 3 2
+p231
+aVBryant Stith DEN 03/21/1999 DEN vs. SEA W 22 6 2 4 50.0 1 2 50.0 1 1 100.0 2 2 4 1 1 0 2 3 3
+p232
+aVKeon Clark DEN 03/21/1999 DEN vs. SEA W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -11
+p233
+aVDanny Fortson DEN 03/21/1999 DEN vs. SEA W 29 11 3 5 60.0 0 0 - 5 6 83.3 2 6 8 3 1 1 1 4 8
+p234
+aVChauncey Billups DEN 03/21/1999 DEN vs. SEA W 26 16 5 9 55.6 3 5 60.0 3 3 100.0 1 2 3 2 0 0 4 3 0
+p235
+aVNick Van Exel DEN 03/21/1999 DEN vs. SEA W 34 20 7 19 36.8 3 7 42.9 3 3 100.0 0 2 2 3 1 0 2 5 0
+p236
+aVBryant Stith DEN 03/19/1999 DEN vs. MIN L 21 7 2 6 33.3 0 0 - 3 4 75.0 1 0 1 1 0 0 0 2 -1
+p237
+aVCory Alexander DEN 03/19/1999 DEN vs. MIN L 16 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 3 1 0 1 1 -2
+p238
+aVNick Van Exel DEN 03/19/1999 DEN vs. MIN L 34 21 6 17 35.3 1 5 20.0 8 8 100.0 0 1 1 13 0 0 0 3 -8
+p239
+aVChauncey Billups DEN 03/19/1999 DEN vs. MIN L 36 14 3 12 25.0 0 4 0.0 8 9 88.9 0 2 2 6 1 0 3 4 2
+p240
+aVKeon Clark DEN 03/19/1999 DEN vs. MIN L 19 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 1 0 1 4 1
+p241
+aVJohnny Taylor DEN 03/19/1999 DEN vs. MIN L 37 21 8 13 61.5 4 6 66.7 1 1 100.0 3 3 6 0 2 1 2 4 -3
+p242
+aVAntonio McDyess DEN 03/19/1999 DEN vs. MIN L 40 15 7 15 46.7 0 0 - 1 6 16.7 2 7 9 3 1 4 2 5 -13
+p243
+aVDanny Fortson DEN 03/19/1999 DEN vs. MIN L 37 19 8 11 72.7 0 0 - 3 6 50.0 4 13 17 0 0 1 3 6 4
+p244
+aVBryant Stith DEN 03/17/1999 DEN vs. HOU L 26 9 3 6 50.0 0 3 0.0 3 4 75.0 0 3 3 3 1 1 2 3 9
+p245
+aVJohnny Taylor DEN 03/17/1999 DEN vs. HOU L 30 16 6 12 50.0 4 6 66.7 0 0 - 1 0 1 1 0 1 1 4 10
+p246
+aVNick Van Exel DEN 03/17/1999 DEN vs. HOU L 26 15 6 10 60.0 2 3 66.7 1 2 50.0 0 1 1 7 0 1 0 1 -9
+p247
+aVDanny Fortson DEN 03/17/1999 DEN vs. HOU L 30 8 2 4 50.0 0 0 - 4 4 100.0 0 5 5 0 0 0 1 4 -21
+p248
+aVAntonio McDyess DEN 03/17/1999 DEN vs. HOU L 42 17 7 18 38.9 0 0 - 3 7 42.9 4 9 13 0 0 1 2 3 3
+p249
+aVChauncey Billups DEN 03/17/1999 DEN vs. HOU L 38 22 8 16 50.0 6 11 54.5 0 0 - 0 6 6 5 1 2 2 5 -9
+p250
+aVEric Williams DEN 03/17/1999 DEN vs. HOU L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p251
+aVCarl Herrera DEN 03/17/1999 DEN vs. HOU L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p252
+aVCory Alexander DEN 03/17/1999 DEN vs. HOU L 23 18 7 9 77.8 2 3 66.7 2 2 100.0 0 1 1 4 1 0 2 4 0
+p253
+aVKeon Clark DEN 03/17/1999 DEN vs. HOU L 19 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 2 0 3 1 1 2
+p254
+aVBryant Stith DEN 03/15/1999 DEN vs. VAN W 22 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 2 1 1 0 1 14
+p255
+aVJohnny Taylor DEN 03/15/1999 DEN vs. VAN W 23 14 6 7 85.7 2 3 66.7 0 0 - 0 2 2 1 3 0 2 3 12
+p256
+aVAntonio McDyess DEN 03/15/1999 DEN vs. VAN W 33 21 8 13 61.5 0 0 - 5 7 71.4 0 6 6 2 2 3 2 1 14
+p257
+aVCory Alexander DEN 03/15/1999 DEN vs. VAN W 23 14 6 9 66.7 2 4 50.0 0 0 - 0 3 3 11 2 0 2 3 12
+p258
+aVKeon Clark DEN 03/15/1999 DEN vs. VAN W 26 13 5 5 100.0 0 0 - 3 5 60.0 2 2 4 2 0 6 5 4 14
+p259
+aVEric Williams DEN 03/15/1999 DEN vs. VAN W 19 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 5 2 1 1 1 12
+p260
+aVNick Van Exel DEN 03/15/1999 DEN vs. VAN W 25 9 4 8 50.0 1 4 25.0 0 0 - 0 1 1 5 1 1 1 0 14
+p261
+aVDanny Fortson DEN 03/15/1999 DEN vs. VAN W 21 10 4 8 50.0 0 0 - 2 2 100.0 1 11 12 0 1 2 0 4 18
+p262
+aVEric Washington DEN 03/15/1999 DEN vs. VAN W 7 6 3 4 75.0 0 0 - 0 1 0.0 0 0 0 2 0 1 0 0 0
+p263
+aVCarl Herrera DEN 03/15/1999 DEN vs. VAN W 11 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 1 2 2 3 5
+p264
+aVChauncey Billups DEN 03/15/1999 DEN vs. VAN W 25 12 3 6 50.0 2 3 66.7 4 4 100.0 0 1 1 4 3 1 1 2 14
+p265
+aVLoren Meyer DEN 03/15/1999 DEN vs. VAN W 5 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 5 1
+p266
+aVNick Van Exel DEN 03/13/1999 DEN @ SAS L 35 16 7 16 43.8 0 2 0.0 2 3 66.7 0 2 2 4 0 0 4 0 -17
+p267
+aVAntonio McDyess DEN 03/13/1999 DEN @ SAS L 39 23 9 21 42.9 0 0 - 5 6 83.3 3 6 9 1 2 1 2 3 -16
+p268
+aVJohnny Taylor DEN 03/13/1999 DEN @ SAS L 23 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 6 -14
+p269
+aVCory Alexander DEN 03/13/1999 DEN @ SAS L 16 8 3 8 37.5 0 0 - 2 2 100.0 0 2 2 1 0 0 3 0 -14
+p270
+aVEric Williams DEN 03/13/1999 DEN @ SAS L 19 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 0 2 5 -14
+p271
+aVLoren Meyer DEN 03/13/1999 DEN @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p272
+aVKeon Clark DEN 03/13/1999 DEN @ SAS L 28 3 0 8 0.0 0 0 - 3 4 75.0 2 6 8 0 0 0 1 5 -7
+p273
+aVChauncey Billups DEN 03/13/1999 DEN @ SAS L 24 3 0 4 0.0 0 2 0.0 3 4 75.0 0 0 0 1 2 0 1 2 -21
+p274
+aVBryant Stith DEN 03/13/1999 DEN @ SAS L 18 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 3 0 -6
+p275
+aVDanny Fortson DEN 03/13/1999 DEN @ SAS L 21 6 1 5 20.0 0 0 - 4 6 66.7 6 5 11 1 2 0 2 3 -28
+p276
+aVEric Washington DEN 03/13/1999 DEN @ SAS L 10 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -10
+p277
+aVCarl Herrera DEN 03/13/1999 DEN @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p278
+aVDanny Fortson DEN 03/11/1999 DEN @ UTA L 27 4 1 3 33.3 0 0 - 2 2 100.0 4 4 8 0 1 0 0 2 -11
+p279
+aVChauncey Billups DEN 03/11/1999 DEN @ UTA L 15 2 1 8 12.5 0 3 0.0 0 0 - 1 0 1 3 0 0 1 1 -8
+p280
+aVCarl Herrera DEN 03/11/1999 DEN @ UTA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p281
+aVKeon Clark DEN 03/11/1999 DEN @ UTA L 19 2 1 1 100.0 0 0 - 0 0 - 3 2 5 1 0 1 0 2 2
+p282
+aVNick Van Exel DEN 03/11/1999 DEN @ UTA L 30 9 3 7 42.9 1 2 50.0 2 2 100.0 0 0 0 3 1 0 4 1 -10
+p283
+aVEric Williams DEN 03/11/1999 DEN @ UTA L 17 12 4 6 66.7 1 2 50.0 3 5 60.0 0 0 0 0 2 0 3 1 0
+p284
+aVJohnny Taylor DEN 03/11/1999 DEN @ UTA L 30 11 5 10 50.0 0 0 - 1 1 100.0 2 6 8 0 1 0 0 4 -6
+p285
+aVCory Alexander DEN 03/11/1999 DEN @ UTA L 22 6 2 7 28.6 0 2 0.0 2 2 100.0 0 1 1 5 0 0 0 3 5
+p286
+aVAntonio McDyess DEN 03/11/1999 DEN @ UTA L 45 39 17 26 65.4 0 1 0.0 5 7 71.4 1 10 11 3 2 1 5 5 -3
+p287
+aVBryant Stith DEN 03/11/1999 DEN @ UTA L 30 4 2 7 28.6 0 3 0.0 0 0 - 1 2 3 5 1 0 2 3 4
+p288
+aVCory Alexander DEN 03/09/1999 DEN @ HOU L 12 4 1 8 12.5 0 4 0.0 2 2 100.0 0 0 0 3 4 0 2 1 -1
+p289
+aVChauncey Billups DEN 03/09/1999 DEN @ HOU L 32 7 2 6 33.3 1 3 33.3 2 3 66.7 1 0 1 2 0 0 4 2 7
+p290
+aVNick Van Exel DEN 03/09/1999 DEN @ HOU L 39 6 2 8 25.0 0 1 0.0 2 2 100.0 0 4 4 6 0 0 1 3 -9
+p291
+aVDanny Fortson DEN 03/09/1999 DEN @ HOU L 35 15 4 12 33.3 0 0 - 7 13 53.8 11 10 21 0 0 1 0 5 -9
+p292
+aVBryant Stith DEN 03/09/1999 DEN @ HOU L 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -15
+p293
+aVCarl Herrera DEN 03/09/1999 DEN @ HOU L 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 3 0 1 1 0
+p294
+aVJohnny Taylor DEN 03/09/1999 DEN @ HOU L 19 8 3 9 33.3 1 3 33.3 1 1 100.0 4 0 4 0 1 0 1 1 -1
+p295
+aVKeon Clark DEN 03/09/1999 DEN @ HOU L 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 0
+p296
+aVAntonio McDyess DEN 03/09/1999 DEN @ HOU L 41 23 7 20 35.0 0 0 - 9 10 90.0 3 6 9 0 1 1 2 3 -9
+p297
+aVEric Williams DEN 03/09/1999 DEN @ HOU L 29 8 2 11 18.2 2 6 33.3 2 2 100.0 0 2 2 0 1 0 4 1 -8
+p298
+aVNick Van Exel DEN 03/07/1999 DEN vs. SAS L 43 18 9 18 50.0 0 2 0.0 0 1 0.0 0 0 0 12 0 0 1 4 -8
+p299
+aVEric Williams DEN 03/07/1999 DEN vs. SAS L 35 17 4 9 44.4 1 2 50.0 8 10 80.0 0 0 0 3 1 0 2 2 -8
+p300
+aVCarl Herrera DEN 03/07/1999 DEN vs. SAS L 19 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 1 1 0 2 4
+p301
+aVAntonio McDyess DEN 03/07/1999 DEN vs. SAS L 34 29 12 20 60.0 0 0 - 5 8 62.5 4 8 12 1 2 2 2 4 -10
+p302
+aVKeon Clark DEN 03/07/1999 DEN vs. SAS L 29 8 4 9 44.4 0 0 - 0 0 - 1 9 10 1 2 3 0 4 -5
+p303
+aVBryant Stith DEN 03/07/1999 DEN vs. SAS L 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 3 1 0 0 0 -4
+p304
+aVDanny Fortson DEN 03/07/1999 DEN vs. SAS L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -9
+p305
+aVJohnny Taylor DEN 03/07/1999 DEN vs. SAS L 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -4
+p306
+aVCory Alexander DEN 03/07/1999 DEN vs. SAS L 39 11 5 11 45.5 0 2 0.0 1 2 50.0 0 0 0 5 0 0 3 3 -6
+p307
+aVEric Williams DEN 03/05/1999 DEN @ BOS L 38 20 4 12 33.3 0 1 0.0 12 15 80.0 5 2 7 2 0 0 2 3 -8
+p308
+aVCory Alexander DEN 03/05/1999 DEN @ BOS L 46 28 10 18 55.6 5 7 71.4 3 3 100.0 1 2 3 1 3 0 7 4 -10
+p309
+aVNick Van Exel DEN 03/05/1999 DEN @ BOS L 44 15 5 18 27.8 0 2 0.0 5 5 100.0 2 1 3 5 1 0 4 1 -10
+p310
+aVAntonio McDyess DEN 03/05/1999 DEN @ BOS L 44 17 7 17 41.2 0 0 - 3 3 100.0 4 11 15 0 0 6 4 1 0
+p311
+aVDanny Fortson DEN 03/05/1999 DEN @ BOS L 26 6 2 9 22.2 0 0 - 2 4 50.0 4 9 13 0 1 0 5 5 -25
+p312
+aVCarl Herrera DEN 03/05/1999 DEN @ BOS L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p313
+aVEric Washington DEN 03/05/1999 DEN @ BOS L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 1 4
+p314
+aVKeon Clark DEN 03/05/1999 DEN @ BOS L 21 6 3 3 100.0 0 0 - 0 1 0.0 1 8 9 0 1 2 0 2 5
+p315
+aVEric Washington DEN 03/04/1999 DEN @ MIA L 17 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -3
+p316
+aVEric Williams DEN 03/04/1999 DEN @ MIA L 41 21 7 15 46.7 1 2 50.0 6 7 85.7 2 3 5 0 1 0 2 3 -18
+p317
+aVNick Van Exel DEN 03/04/1999 DEN @ MIA L 43 15 5 20 25.0 0 5 0.0 5 6 83.3 1 2 3 8 1 0 1 3 3
+p318
+aVCory Alexander DEN 03/04/1999 DEN @ MIA L 45 11 4 7 57.1 3 6 50.0 0 0 - 0 6 6 2 0 0 5 2 -8
+p319
+aVLoren Meyer DEN 03/04/1999 DEN @ MIA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 3
+p320
+aVKeon Clark DEN 03/04/1999 DEN @ MIA L 14 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -11
+p321
+aVAntonio McDyess DEN 03/04/1999 DEN @ MIA L 34 20 7 19 36.8 0 0 - 6 13 46.2 3 5 8 1 1 2 4 6 3
+p322
+aVDanny Fortson DEN 03/04/1999 DEN @ MIA L 37 18 7 11 63.6 0 0 - 4 4 100.0 6 3 9 0 0 0 0 5 -5
+p323
+aVCarl Herrera DEN 03/04/1999 DEN @ MIA L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p324
+aVCory Alexander DEN 03/02/1999 DEN @ IND L 43 16 6 16 37.5 4 12 33.3 0 0 - 0 3 3 2 2 0 3 2 -2
+p325
+aVEric Washington DEN 03/02/1999 DEN @ IND L 22 3 1 5 20.0 1 3 33.3 0 0 - 2 0 2 0 1 0 2 4 -17
+p326
+aVEric Williams DEN 03/02/1999 DEN @ IND L 29 15 2 7 28.6 1 2 50.0 10 12 83.3 1 4 5 0 0 1 2 4 7
+p327
+aVDanny Fortson DEN 03/02/1999 DEN @ IND L 31 0 0 3 0.0 0 0 - 0 0 - 6 6 12 2 3 1 2 3 -8
+p328
+aVLoren Meyer DEN 03/02/1999 DEN @ IND L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 -1
+p329
+aVKeon Clark DEN 03/02/1999 DEN @ IND L 22 2 1 2 50.0 0 0 - 0 0 - 2 5 7 1 0 3 1 2 8
+p330
+aVNick Van Exel DEN 03/02/1999 DEN @ IND L 47 28 10 23 43.5 1 5 20.0 7 8 87.5 1 3 4 7 0 1 2 3 -8
+p331
+aVJohnny Taylor DEN 03/02/1999 DEN @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p332
+aVAntonio McDyess DEN 03/02/1999 DEN @ IND L 38 16 5 15 33.3 0 0 - 6 6 100.0 2 6 8 0 2 2 5 4 -13
+p333
+aVLoren Meyer DEN 02/28/1999 DEN vs. VAN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 2
+p334
+aVKeon Clark DEN 02/28/1999 DEN vs. VAN W 24 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 1 1 1 0 2 9
+p335
+aVNick Van Exel DEN 02/28/1999 DEN vs. VAN W 30 8 2 6 33.3 0 3 0.0 4 4 100.0 0 0 0 12 2 0 3 4 -3
+p336
+aVChauncey Billups DEN 02/28/1999 DEN vs. VAN W 37 12 5 11 45.5 2 5 40.0 0 0 - 0 2 2 4 2 0 6 4 -3
+p337
+aVAntonio McDyess DEN 02/28/1999 DEN vs. VAN W 41 46 16 25 64.0 0 0 - 14 18 77.8 8 11 19 1 1 4 3 4 2
+p338
+aVCory Alexander DEN 02/28/1999 DEN vs. VAN W 29 7 3 8 37.5 1 4 25.0 0 0 - 1 3 4 6 1 0 0 4 15
+p339
+aVBryant Stith DEN 02/28/1999 DEN vs. VAN W 12 9 3 5 60.0 3 3 100.0 0 0 - 0 0 0 2 0 0 0 1 4
+p340
+aVEric Washington DEN 02/28/1999 DEN vs. VAN W 19 12 3 4 75.0 3 4 75.0 3 4 75.0 0 2 2 0 0 0 2 4 0
+p341
+aVDanny Fortson DEN 02/28/1999 DEN vs. VAN W 27 10 2 7 28.6 0 0 - 6 6 100.0 2 8 10 2 1 2 2 6 -7
+p342
+aVEric Williams DEN 02/28/1999 DEN vs. VAN W 16 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 1 0 0 2 1 1
+p343
+aVNick Van Exel DEN 02/26/1999 DEN vs. MIL W 30 15 5 11 45.5 3 7 42.9 2 2 100.0 0 0 0 6 1 0 3 1 -6
+p344
+aVChauncey Billups DEN 02/26/1999 DEN vs. MIL W 41 18 6 9 66.7 4 6 66.7 2 2 100.0 0 2 2 6 0 0 5 3 4
+p345
+aVJohnny Taylor DEN 02/26/1999 DEN vs. MIL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p346
+aVEric Washington DEN 02/26/1999 DEN vs. MIL W 9 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 0 -8
+p347
+aVAntonio McDyess DEN 02/26/1999 DEN vs. MIL W 43 16 6 15 40.0 0 0 - 4 4 100.0 3 9 12 3 0 4 5 2 -7
+p348
+aVBryant Stith DEN 02/26/1999 DEN vs. MIL W 31 8 3 8 37.5 1 3 33.3 1 1 100.0 2 6 8 2 1 0 2 1 -4
+p349
+aVDanny Fortson DEN 02/26/1999 DEN vs. MIL W 33 16 6 8 75.0 0 0 - 4 4 100.0 5 6 11 1 1 0 2 5 4
+p350
+aVKeon Clark DEN 02/26/1999 DEN vs. MIL W 20 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 0 2 1 1 2 5
+p351
+aVCory Alexander DEN 02/26/1999 DEN vs. MIL W 29 13 5 10 50.0 0 2 0.0 3 3 100.0 1 2 3 6 1 1 2 3 17
+p352
+aVNick Van Exel DEN 02/25/1999 DEN @ DAL L 36 16 7 15 46.7 2 7 28.6 0 0 - 0 1 1 2 1 0 1 3 -5
+p353
+aVEric Washington DEN 02/25/1999 DEN @ DAL L 16 3 1 6 16.7 1 3 33.3 0 0 - 0 3 3 2 2 1 0 1 -1
+p354
+aVAntonio McDyess DEN 02/25/1999 DEN @ DAL L 40 13 5 18 27.8 0 1 0.0 3 4 75.0 8 2 10 2 1 3 1 5 -12
+p355
+aVCory Alexander DEN 02/25/1999 DEN @ DAL L 27 6 2 10 20.0 0 4 0.0 2 2 100.0 0 4 4 6 3 1 3 3 -6
+p356
+aVLoren Meyer DEN 02/25/1999 DEN @ DAL L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 2 2 -9
+p357
+aVBryant Stith DEN 02/25/1999 DEN @ DAL L 31 8 3 8 37.5 2 5 40.0 0 1 0.0 0 1 1 1 0 1 2 2 -3
+p358
+aVRaef LaFrentz DEN 02/25/1999 DEN @ DAL L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -1
+p359
+aVDanny Fortson DEN 02/25/1999 DEN @ DAL L 40 15 5 10 50.0 0 0 - 5 10 50.0 8 16 24 0 2 0 1 6 1
+p360
+aVKeon Clark DEN 02/25/1999 DEN @ DAL L 3 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 3
+p361
+aVChauncey Billups DEN 02/25/1999 DEN @ DAL L 33 14 5 11 45.5 1 3 33.3 3 3 100.0 2 2 4 3 0 0 1 3 -12
+p362
+aVDanny Fortson DEN 02/24/1999 DEN vs. UTA W 9 7 2 3 66.7 0 0 - 3 4 75.0 6 1 7 0 0 0 2 6 1
+p363
+aVRaef LaFrentz DEN 02/24/1999 DEN vs. UTA W 45 16 6 11 54.5 1 3 33.3 3 3 100.0 0 6 6 0 0 3 0 3 9
+p364
+aVEric Washington DEN 02/24/1999 DEN vs. UTA W 22 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 1 1 5 4 -4
+p365
+aVLoren Meyer DEN 02/24/1999 DEN vs. UTA W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 6
+p366
+aVAntonio McDyess DEN 02/24/1999 DEN vs. UTA W 34 24 10 15 66.7 0 0 - 4 6 66.7 2 2 4 0 4 4 0 6 9
+p367
+aVCory Alexander DEN 02/24/1999 DEN vs. UTA W 16 2 1 5 20.0 0 0 - 0 0 - 1 0 1 2 2 0 1 3 9
+p368
+aVKeon Clark DEN 02/24/1999 DEN vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p369
+aVBryant Stith DEN 02/24/1999 DEN vs. UTA W 37 11 4 9 44.4 1 4 25.0 2 2 100.0 2 1 3 3 1 0 2 1 10
+p370
+aVNick Van Exel DEN 02/24/1999 DEN vs. UTA W 32 23 8 16 50.0 3 6 50.0 4 6 66.7 1 4 5 7 1 0 3 1 1
+p371
+aVChauncey Billups DEN 02/24/1999 DEN vs. UTA W 37 12 2 10 20.0 1 4 25.0 7 7 100.0 1 1 2 5 0 1 0 4 14
+p372
+aVDanny Fortson DEN 02/22/1999 DEN vs. LAL W 28 16 4 7 57.1 0 0 - 8 10 80.0 3 8 11 0 0 0 1 6 -14
+p373
+aVKeon Clark DEN 02/22/1999 DEN vs. LAL W 7 2 0 1 0.0 0 0 - 2 4 50.0 1 0 1 0 1 0 1 0 -7
+p374
+aVChauncey Billups DEN 02/22/1999 DEN vs. LAL W 42 20 6 15 40.0 4 9 44.4 4 4 100.0 0 3 3 4 1 0 1 1 15
+p375
+aVAntonio McDyess DEN 02/22/1999 DEN vs. LAL W 35 22 8 15 53.3 0 0 - 6 10 60.0 5 11 16 2 2 3 1 4 23
+p376
+aVNick Van Exel DEN 02/22/1999 DEN vs. LAL W 39 16 3 16 18.8 2 6 33.3 8 11 72.7 0 3 3 13 2 0 4 3 7
+p377
+aVEric Washington DEN 02/22/1999 DEN vs. LAL W 48 16 4 10 40.0 4 9 44.4 4 4 100.0 1 0 1 2 1 0 3 6 10
+p378
+aVEric Williams DEN 02/22/1999 DEN vs. LAL W 19 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 1 1 3 -5
+p379
+aVRaef LaFrentz DEN 02/22/1999 DEN vs. LAL W 40 20 6 9 66.7 1 2 50.0 7 8 87.5 4 3 7 1 2 1 0 2 0
+p380
+aVCory Alexander DEN 02/22/1999 DEN vs. LAL W 8 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 1 3 -9
+p381
+aVEric Williams DEN 02/18/1999 DEN @ UTA L 18 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 1 0 1 2 6
+p382
+aVAntonio McDyess DEN 02/18/1999 DEN @ UTA L 16 10 5 11 45.5 0 0 - 0 0 - 0 7 7 1 0 1 1 4 -12
+p383
+aVRaef LaFrentz DEN 02/18/1999 DEN @ UTA L 36 12 3 9 33.3 2 4 50.0 4 8 50.0 1 4 5 3 1 1 1 2 -11
+p384
+aVEric Washington DEN 02/18/1999 DEN @ UTA L 24 3 1 6 16.7 1 3 33.3 0 0 - 1 0 1 2 3 2 1 2 -2
+p385
+aVBryant Stith DEN 02/18/1999 DEN @ UTA L 27 11 3 8 37.5 2 5 40.0 3 3 100.0 2 1 3 1 0 0 1 1 -16
+p386
+aVKeon Clark DEN 02/18/1999 DEN @ UTA L 15 4 2 2 100.0 0 0 - 0 1 0.0 0 2 2 0 0 3 0 1 -4
+p387
+aVNick Van Exel DEN 02/18/1999 DEN @ UTA L 36 19 7 19 36.8 2 5 40.0 3 4 75.0 2 2 4 8 1 0 3 3 -8
+p388
+aVDanny Fortson DEN 02/18/1999 DEN @ UTA L 29 15 5 8 62.5 0 0 - 5 8 62.5 5 4 9 1 2 1 2 6 5
+p389
+aVCory Alexander DEN 02/18/1999 DEN @ UTA L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 0 -4
+p390
+aVChauncey Billups DEN 02/18/1999 DEN @ UTA L 24 5 1 6 16.7 1 2 50.0 2 2 100.0 0 0 0 0 0 0 1 1 -9
+p391
+aVDanny Fortson DEN 02/17/1999 DEN @ POR L 12 3 1 3 33.3 0 0 - 1 2 50.0 3 5 8 0 1 0 0 4 1
+p392
+aVEric Williams DEN 02/17/1999 DEN @ POR L 14 12 2 3 66.7 0 0 - 8 8 100.0 0 1 1 1 1 0 3 2 -5
+p393
+aVBryant Stith DEN 02/17/1999 DEN @ POR L 24 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -27
+p394
+aVKeon Clark DEN 02/17/1999 DEN @ POR L 24 8 3 6 50.0 0 0 - 2 6 33.3 2 2 4 1 2 0 4 1 8
+p395
+aVChauncey Billups DEN 02/17/1999 DEN @ POR L 18 1 0 5 0.0 0 3 0.0 1 2 50.0 0 0 0 0 1 1 2 3 -25
+p396
+aVAntonio McDyess DEN 02/17/1999 DEN @ POR L 41 17 6 18 33.3 0 0 - 5 9 55.6 4 8 12 3 4 1 4 2 -11
+p397
+aVNick Van Exel DEN 02/17/1999 DEN @ POR L 34 11 4 13 30.8 0 3 0.0 3 4 75.0 0 1 1 7 1 0 1 1 -15
+p398
+aVRaef LaFrentz DEN 02/17/1999 DEN @ POR L 35 17 6 16 37.5 0 3 0.0 5 10 50.0 7 8 15 0 1 2 1 1 -17
+p399
+aVEric Washington DEN 02/17/1999 DEN @ POR L 23 8 3 6 50.0 1 2 50.0 1 2 50.0 1 1 2 0 1 1 0 3 16
+p400
+aVCory Alexander DEN 02/17/1999 DEN @ POR L 14 6 2 4 50.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 1 1 0
+p401
+aVMonty Williams DEN 02/15/1999 DEN vs. PHX L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p402
+aVNick Van Exel DEN 02/15/1999 DEN vs. PHX L 36 21 7 17 41.2 2 5 40.0 5 7 71.4 0 4 4 9 0 0 0 2 -9
+p403
+aVChauncey Billups DEN 02/15/1999 DEN vs. PHX L 36 20 7 18 38.9 5 12 41.7 1 4 25.0 2 1 3 2 1 0 2 4 -9
+p404
+aVCory Alexander DEN 02/15/1999 DEN vs. PHX L 21 8 3 8 37.5 2 5 40.0 0 0 - 0 2 2 8 2 0 1 4 2
+p405
+aVEric Washington DEN 02/15/1999 DEN vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p406
+aVLoren Meyer DEN 02/15/1999 DEN vs. PHX L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p407
+aVAntonio McDyess DEN 02/15/1999 DEN vs. PHX L 44 20 8 15 53.3 0 1 0.0 4 5 80.0 5 7 12 2 0 3 5 4 -6
+p408
+aVEric Williams DEN 02/15/1999 DEN vs. PHX L 17 7 2 5 40.0 0 0 - 3 4 75.0 2 0 2 0 1 0 0 3 -11
+p409
+aVBryant Stith DEN 02/15/1999 DEN vs. PHX L 28 23 6 11 54.5 2 5 40.0 9 9 100.0 0 4 4 2 1 1 1 1 4
+p410
+aVRaef LaFrentz DEN 02/15/1999 DEN vs. PHX L 32 2 1 10 10.0 0 3 0.0 0 0 - 0 3 3 1 2 2 1 4 1
+p411
+aVDanny Fortson DEN 02/15/1999 DEN vs. PHX L 14 4 1 1 100.0 0 0 - 2 2 100.0 2 4 6 0 0 0 1 2 -12
+p412
+aVKeon Clark DEN 02/13/1999 DEN @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p413
+aVRaef LaFrentz DEN 02/13/1999 DEN @ SEA L 40 17 7 9 77.8 3 4 75.0 0 0 - 2 2 4 0 1 3 3 3 -16
+p414
+aVDanny Fortson DEN 02/13/1999 DEN @ SEA L 24 11 4 5 80.0 0 0 - 3 5 60.0 3 7 10 0 0 0 0 4 4
+p415
+aVCory Alexander DEN 02/13/1999 DEN @ SEA L 24 4 1 7 14.3 0 1 0.0 2 3 66.7 0 2 2 5 1 0 3 3 -2
+p416
+aVEric Washington DEN 02/13/1999 DEN @ SEA L 5 5 2 3 66.7 1 2 50.0 0 2 0.0 1 1 2 0 0 0 0 2 2
+p417
+aVNick Van Exel DEN 02/13/1999 DEN @ SEA L 34 16 6 13 46.2 2 4 50.0 2 2 100.0 0 5 5 3 2 0 4 4 -18
+p418
+aVBryant Stith DEN 02/13/1999 DEN @ SEA L 24 9 3 7 42.9 0 3 0.0 3 4 75.0 0 1 1 1 0 0 0 1 -16
+p419
+aVChauncey Billups DEN 02/13/1999 DEN @ SEA L 34 15 5 12 41.7 1 4 25.0 4 4 100.0 0 4 4 3 2 0 4 2 -10
+p420
+aVEric Williams DEN 02/13/1999 DEN @ SEA L 22 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 2 1 0 0 5
+p421
+aVAntonio McDyess DEN 02/13/1999 DEN @ SEA L 31 15 5 10 50.0 0 0 - 5 8 62.5 1 3 4 6 1 3 3 6 -3
+p422
+aVNick Van Exel DEN 02/12/1999 DEN vs. DAL W 38 27 10 18 55.6 4 7 57.1 3 4 75.0 0 5 5 6 3 0 3 2 -1
+p423
+aVCory Alexander DEN 02/12/1999 DEN vs. DAL W 35 6 2 9 22.2 0 5 0.0 2 2 100.0 1 9 10 5 1 0 4 4 3
+p424
+aVRaef LaFrentz DEN 02/12/1999 DEN vs. DAL W 37 18 4 12 33.3 0 2 0.0 10 12 83.3 3 9 12 0 0 3 0 3 11
+p425
+aVChauncey Billups DEN 02/12/1999 DEN vs. DAL W 32 11 2 11 18.2 1 8 12.5 6 8 75.0 2 1 3 5 0 0 4 4 7
+p426
+aVEric Williams DEN 02/12/1999 DEN vs. DAL W 19 4 1 5 20.0 0 0 - 2 2 100.0 0 3 3 2 1 0 1 2 2
+p427
+aVBryant Stith DEN 02/12/1999 DEN vs. DAL W 22 9 3 6 50.0 1 2 50.0 2 2 100.0 2 3 5 0 1 0 0 1 3
+p428
+aVKeon Clark DEN 02/12/1999 DEN vs. DAL W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -2
+p429
+aVDanny Fortson DEN 02/12/1999 DEN vs. DAL W 8 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 1 0 0 2 -1
+p430
+aVAntonio McDyess DEN 02/12/1999 DEN vs. DAL W 40 23 9 13 69.2 0 0 - 5 7 71.4 0 5 5 1 2 4 3 6 8
+p431
+aVEric Williams DEN 02/10/1999 DEN vs. LAL L 18 6 2 7 28.6 0 1 0.0 2 2 100.0 2 1 3 0 1 0 1 1 -4
+p432
+aVChauncey Billups DEN 02/10/1999 DEN vs. LAL L 37 13 5 11 45.5 0 3 0.0 3 3 100.0 1 0 1 4 1 0 4 3 -6
+p433
+aVCory Alexander DEN 02/10/1999 DEN vs. LAL L 20 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 2 3 0 1 3 0
+p434
+aVLoren Meyer DEN 02/10/1999 DEN vs. LAL L 4 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 0 0 0 0 2 0
+p435
+aVAntonio McDyess DEN 02/10/1999 DEN vs. LAL L 44 21 10 17 58.8 0 0 - 1 2 50.0 6 13 19 4 1 1 5 1 -4
+p436
+aVDanny Fortson DEN 02/10/1999 DEN vs. LAL L 19 8 3 7 42.9 0 1 0.0 2 5 40.0 5 1 6 2 0 0 1 4 -2
+p437
+aVRaef LaFrentz DEN 02/10/1999 DEN vs. LAL L 29 24 10 18 55.6 3 4 75.0 1 1 100.0 6 6 12 0 0 0 0 6 -4
+p438
+aVBryant Stith DEN 02/10/1999 DEN vs. LAL L 30 9 2 5 40.0 1 2 50.0 4 4 100.0 3 4 7 2 0 0 1 4 -1
+p439
+aVNick Van Exel DEN 02/10/1999 DEN vs. LAL L 38 9 3 19 15.8 1 8 12.5 2 2 100.0 1 2 3 10 0 0 5 1 -4
+p440
+aVBryant Stith DEN 02/08/1999 DEN @ HOU L 19 5 2 7 28.6 1 3 33.3 0 0 - 2 1 3 0 0 0 0 1 -3
+p441
+aVEric Williams DEN 02/08/1999 DEN @ HOU L 16 5 1 6 16.7 0 0 - 3 3 100.0 1 0 1 0 3 0 0 3 -7
+p442
+aVCory Alexander DEN 02/08/1999 DEN @ HOU L 26 14 6 13 46.2 1 5 20.0 1 1 100.0 0 1 1 5 0 0 0 2 -7
+p443
+aVTyson Wheeler DEN 02/08/1999 DEN @ HOU L 3 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 2 0 0 0 1 4
+p444
+aVEric Washington DEN 02/08/1999 DEN @ HOU L 15 5 2 4 50.0 1 3 33.3 0 0 - 3 0 3 0 1 0 2 3 -9
+p445
+aVNick Van Exel DEN 02/08/1999 DEN @ HOU L 29 7 2 13 15.4 0 3 0.0 3 5 60.0 0 1 1 3 1 0 2 0 -28
+p446
+aVDanny Fortson DEN 02/08/1999 DEN @ HOU L 16 0 0 0 - 0 0 - 0 0 - 0 6 6 0 0 0 1 4 1
+p447
+aVChauncey Billups DEN 02/08/1999 DEN @ HOU L 28 12 5 9 55.6 2 5 40.0 0 0 - 0 1 1 2 4 0 1 1 -5
+p448
+aVAntonio McDyess DEN 02/08/1999 DEN @ HOU L 38 14 6 17 35.3 0 0 - 2 4 50.0 5 9 14 0 3 3 3 4 -20
+p449
+aVKeon Clark DEN 02/08/1999 DEN @ HOU L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 1 0 1 1
+p450
+aVRaef LaFrentz DEN 02/08/1999 DEN @ HOU L 31 10 5 13 38.5 0 1 0.0 0 0 - 4 5 9 2 0 1 0 3 -22
+p451
+aVLoren Meyer DEN 02/08/1999 DEN @ HOU L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p452
+aVJohnny Taylor DEN 02/08/1999 DEN @ HOU L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p453
+aVCory Alexander DEN 02/07/1999 DEN @ PHX L 14 4 2 7 28.6 0 3 0.0 0 2 0.0 0 0 0 1 0 0 0 1 -6
+p454
+aVBryant Stith DEN 02/07/1999 DEN @ PHX L 38 7 2 12 16.7 0 5 0.0 3 5 60.0 1 3 4 3 0 0 1 3 -12
+p455
+aVChauncey Billups DEN 02/07/1999 DEN @ PHX L 31 21 7 13 53.8 4 7 57.1 3 3 100.0 0 1 1 6 3 0 3 3 -4
+p456
+aVNick Van Exel DEN 02/07/1999 DEN @ PHX L 38 20 8 18 44.4 2 6 33.3 2 4 50.0 0 2 2 8 2 0 3 0 -1
+p457
+aVAntonio McDyess DEN 02/07/1999 DEN @ PHX L 36 28 12 20 60.0 0 0 - 4 7 57.1 3 5 8 0 2 1 1 5 -11
+p458
+aVEric Williams DEN 02/07/1999 DEN @ PHX L 23 5 2 3 66.7 0 0 - 1 1 100.0 0 5 5 3 0 1 0 4 2
+p459
+aVLoren Meyer DEN 02/07/1999 DEN @ PHX L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 3
+p460
+aVRaef LaFrentz DEN 02/07/1999 DEN @ PHX L 34 17 6 12 50.0 1 2 50.0 4 4 100.0 4 5 9 1 1 1 1 6 -4
+p461
+aVKeon Clark DEN 02/07/1999 DEN @ PHX L 10 4 1 1 100.0 0 0 - 2 2 100.0 3 1 4 0 0 0 1 2 0
+p462
+aVDanny Fortson DEN 02/07/1999 DEN @ PHX L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -2
+p463
+aVEric Williams DEN 02/05/1999 DEN vs. MIN L 37 14 4 12 33.3 0 0 - 6 9 66.7 2 3 5 0 1 0 2 2 -17
+p464
+aVCory Alexander DEN 02/05/1999 DEN vs. MIN L 24 6 1 8 12.5 0 4 0.0 4 4 100.0 0 1 1 2 2 0 3 3 4
+p465
+aVAntonio McDyess DEN 02/05/1999 DEN vs. MIN L 36 18 7 15 46.7 0 0 - 4 6 66.7 3 4 7 2 0 3 3 5 -24
+p466
+aVBryant Stith DEN 02/05/1999 DEN vs. MIN L 29 5 2 4 50.0 1 2 50.0 0 0 - 0 6 6 2 0 1 0 0 -17
+p467
+aVNick Van Exel DEN 02/05/1999 DEN vs. MIN L 35 17 6 15 40.0 1 6 16.7 4 6 66.7 1 3 4 10 1 0 4 1 -19
+p468
+aVChauncey Billups DEN 02/05/1999 DEN vs. MIN L 19 7 0 4 0.0 0 2 0.0 7 7 100.0 0 0 0 1 0 0 4 4 -5
+p469
+aVKeon Clark DEN 02/05/1999 DEN vs. MIN L 11 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 2 0 2 1
+p470
+aVRaef LaFrentz DEN 02/05/1999 DEN vs. MIN L 25 11 4 7 57.1 1 2 50.0 2 2 100.0 2 5 7 0 1 0 1 5 -12
+p471
+aVDanny Fortson DEN 02/05/1999 DEN vs. MIN L 24 12 5 13 38.5 0 1 0.0 2 5 40.0 6 11 17 0 1 0 2 6 -1
+p472
+a.

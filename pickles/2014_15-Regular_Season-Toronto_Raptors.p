@@ -1,0 +1,1684 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDeMar DeRozan TOR 04/15/2015 TOR vs. CHA W 34 16 8 13 61.5 0 2 0.0 0 0 - 1 3 4 6 2 0 4 1 8
+p2
+aVAmir Johnson TOR 04/15/2015 TOR vs. CHA W 21 2 1 4 25.0 0 0 - 0 0 - 2 4 6 1 0 1 0 2 -9
+p3
+aVJames Johnson TOR 04/15/2015 TOR vs. CHA W 15 4 2 6 33.3 0 2 0.0 0 0 - 1 0 1 0 0 1 2 3 -3
+p4
+aVKyle Lowry TOR 04/15/2015 TOR vs. CHA W 37 26 8 15 53.3 6 9 66.7 4 4 100.0 1 3 4 7 3 0 3 1 5
+p5
+aVGreivis Vasquez TOR 04/15/2015 TOR vs. CHA W 25 6 2 8 25.0 2 4 50.0 0 0 - 0 4 4 6 1 0 1 3 -3
+p6
+aVTerrence Ross TOR 04/15/2015 TOR vs. CHA W 33 13 5 15 33.3 3 13 23.1 0 0 - 0 2 2 3 0 0 0 1 8
+p7
+aVPatrick Patterson TOR 04/15/2015 TOR vs. CHA W 26 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 1 1 1 0 0 -4
+p8
+aVTyler Hansbrough TOR 04/15/2015 TOR vs. CHA W 22 4 2 2 100.0 0 0 - 0 0 - 0 3 3 2 1 0 1 3 9
+p9
+aVJonas Valanciunas TOR 04/15/2015 TOR vs. CHA W 27 18 9 11 81.8 0 0 - 0 0 - 0 5 5 1 0 0 0 2 14
+p10
+aVAmir Johnson TOR 04/14/2015 TOR @ BOS L 16 8 4 5 80.0 0 0 - 0 0 - 2 6 8 2 1 2 1 2 12
+p11
+aVTyler Hansbrough TOR 04/14/2015 TOR @ BOS L 23 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 2 0 0 2 -15
+p12
+aVJames Johnson TOR 04/14/2015 TOR @ BOS L 19 10 5 6 83.3 0 1 0.0 0 0 - 0 1 1 1 0 1 2 3 7
+p13
+aVPatrick Patterson TOR 04/14/2015 TOR @ BOS L 27 10 4 7 57.1 2 3 66.7 0 1 0.0 0 1 1 0 0 1 2 1 2
+p14
+aVTerrence Ross TOR 04/14/2015 TOR @ BOS L 28 12 5 13 38.5 2 6 33.3 0 0 - 0 3 3 0 2 2 2 1 -11
+p15
+aVKyle Lowry TOR 04/14/2015 TOR @ BOS L 35 16 6 20 30.0 2 4 50.0 2 4 50.0 1 5 6 4 1 0 2 3 -12
+p16
+aVGreivis Vasquez TOR 04/14/2015 TOR @ BOS L 32 11 4 7 57.1 3 6 50.0 0 0 - 0 5 5 7 1 0 1 1 11
+p17
+aVLou Williams TOR 04/14/2015 TOR @ BOS L 31 16 3 13 23.1 0 4 0.0 10 11 90.9 1 4 5 3 1 1 4 1 3
+p18
+aVJonas Valanciunas TOR 04/14/2015 TOR @ BOS L 29 10 4 8 50.0 0 0 - 2 4 50.0 2 6 8 0 1 2 4 4 -7
+p19
+aVDeMar DeRozan TOR 04/11/2015 TOR @ MIA W 37 24 7 17 41.2 1 1 100.0 9 11 81.8 0 6 6 2 4 0 4 4 -6
+p20
+aVLou Williams TOR 04/11/2015 TOR @ MIA W 30 29 9 18 50.0 4 7 57.1 7 7 100.0 0 1 1 2 0 0 0 2 20
+p21
+aVCharles Hayes TOR 04/11/2015 TOR @ MIA W 15 4 2 4 50.0 0 0 - 0 0 - 4 3 7 1 0 1 0 2 5
+p22
+aVJonas Valanciunas TOR 04/11/2015 TOR @ MIA W 10 4 2 2 100.0 0 0 - 0 2 0.0 1 2 3 0 0 0 1 6 5
+p23
+aVTyler Hansbrough TOR 04/11/2015 TOR @ MIA W 30 2 0 2 0.0 0 0 - 2 4 50.0 5 5 10 1 0 0 0 3 -3
+p24
+aVJames Johnson TOR 04/11/2015 TOR @ MIA W 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -2
+p25
+aVTerrence Ross TOR 04/11/2015 TOR @ MIA W 17 9 4 10 40.0 1 3 33.3 0 0 - 3 2 5 0 0 1 0 2 -11
+p26
+aVGreivis Vasquez TOR 04/11/2015 TOR @ MIA W 25 12 5 9 55.6 2 4 50.0 0 0 - 0 3 3 1 0 0 0 3 8
+p27
+aVPatrick Patterson TOR 04/11/2015 TOR @ MIA W 37 11 3 7 42.9 1 3 33.3 4 6 66.7 1 2 3 3 0 0 0 4 1
+p28
+aVKyle Lowry TOR 04/11/2015 TOR @ MIA W 36 12 3 14 21.4 0 8 0.0 6 7 85.7 0 7 7 1 3 1 1 4 -2
+p29
+aVPatrick Patterson TOR 04/10/2015 TOR @ ORL W 24 7 3 9 33.3 1 6 16.7 0 0 - 3 2 5 3 3 0 3 3 2
+p30
+aVKyle Lowry TOR 04/10/2015 TOR @ ORL W 33 10 4 12 33.3 1 5 20.0 1 1 100.0 1 7 8 7 0 0 4 4 0
+p31
+aVTerrence Ross TOR 04/10/2015 TOR @ ORL W 21 7 3 8 37.5 1 5 20.0 0 0 - 0 2 2 1 1 0 2 0 11
+p32
+aVTyler Hansbrough TOR 04/10/2015 TOR @ ORL W 36 16 7 12 58.3 0 0 - 2 3 66.7 4 3 7 1 2 0 0 2 3
+p33
+aVJonas Valanciunas TOR 04/10/2015 TOR @ ORL W 28 8 3 7 42.9 0 0 - 2 2 100.0 6 7 13 0 0 1 3 2 -2
+p34
+aVCharles Hayes TOR 04/10/2015 TOR @ ORL W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p35
+aVDeMar DeRozan TOR 04/10/2015 TOR @ ORL W 37 29 10 21 47.6 3 5 60.0 6 6 100.0 2 1 3 5 0 0 1 2 11
+p36
+aVLou Williams TOR 04/10/2015 TOR @ ORL W 27 13 5 15 33.3 3 7 42.9 0 0 - 0 4 4 2 1 0 1 1 -9
+p37
+aVGreivis Vasquez TOR 04/10/2015 TOR @ ORL W 26 9 3 9 33.3 0 2 0.0 3 3 100.0 0 2 2 3 1 0 1 1 -4
+p38
+aVPatrick Patterson TOR 04/08/2015 TOR @ CHA W 31 8 3 7 42.9 2 5 40.0 0 0 - 1 8 9 0 0 2 0 3 2
+p39
+aVTerrence Ross TOR 04/08/2015 TOR @ CHA W 23 9 3 7 42.9 3 5 60.0 0 0 - 0 1 1 2 2 0 1 2 14
+p40
+aVLandry Fields TOR 04/08/2015 TOR @ CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p41
+aVGreg Stiemsma TOR 04/08/2015 TOR @ CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p42
+aVCharles Hayes TOR 04/08/2015 TOR @ CHA W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 2 9
+p43
+aVGreivis Vasquez TOR 04/08/2015 TOR @ CHA W 36 16 6 13 46.2 4 6 66.7 0 0 - 0 5 5 4 0 0 1 3 12
+p44
+aVBruno Caboclo TOR 04/08/2015 TOR @ CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p45
+aVJames Johnson TOR 04/08/2015 TOR @ CHA W 23 11 5 7 71.4 0 0 - 1 4 25.0 1 6 7 1 0 0 3 2 8
+p46
+aVDeMar DeRozan TOR 04/08/2015 TOR @ CHA W 34 18 6 16 37.5 0 3 0.0 6 7 85.7 1 1 2 7 0 3 1 0 29
+p47
+aVTyler Hansbrough TOR 04/08/2015 TOR @ CHA W 37 12 4 9 44.4 0 0 - 4 4 100.0 5 7 12 0 0 2 0 3 18
+p48
+aVLou Williams TOR 04/08/2015 TOR @ CHA W 26 16 5 15 33.3 3 8 37.5 3 4 75.0 0 2 2 2 2 0 1 0 -1
+p49
+aVJonas Valanciunas TOR 04/08/2015 TOR @ CHA W 17 2 1 3 33.3 0 0 - 0 0 - 1 7 8 2 1 2 1 4 11
+p50
+aVLou Williams TOR 04/04/2015 TOR vs. BOS L 34 27 9 17 52.9 3 8 37.5 6 8 75.0 1 1 2 4 1 1 3 3 15
+p51
+aVJames Johnson TOR 04/04/2015 TOR vs. BOS L 15 9 3 4 75.0 0 0 - 3 5 60.0 0 1 1 0 0 0 0 3 -9
+p52
+aVPatrick Patterson TOR 04/04/2015 TOR vs. BOS L 32 0 0 7 0.0 0 5 0.0 0 0 - 1 6 7 2 2 1 1 2 7
+p53
+aVDeMar DeRozan TOR 04/04/2015 TOR vs. BOS L 43 38 14 25 56.0 0 1 0.0 10 12 83.3 0 1 1 3 1 0 6 1 2
+p54
+aVCharles Hayes TOR 04/04/2015 TOR vs. BOS L 5 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -15
+p55
+aVTyler Hansbrough TOR 04/04/2015 TOR vs. BOS L 36 18 5 5 100.0 0 0 - 8 8 100.0 1 7 8 0 2 1 1 6 8
+p56
+aVGreivis Vasquez TOR 04/04/2015 TOR vs. BOS L 37 8 3 9 33.3 2 6 33.3 0 0 - 1 3 4 3 1 0 4 3 -10
+p57
+aVJonas Valanciunas TOR 04/04/2015 TOR vs. BOS L 33 12 5 12 41.7 0 0 - 2 3 66.7 2 12 14 2 0 1 1 4 -3
+p58
+aVTerrence Ross TOR 04/04/2015 TOR vs. BOS L 30 4 1 3 33.3 1 3 33.3 1 2 50.0 1 6 7 1 0 0 0 0 0
+p59
+aVPatrick Patterson TOR 04/03/2015 TOR @ BKN L 30 12 3 6 50.0 2 4 50.0 4 5 80.0 2 7 9 6 1 0 2 2 -3
+p60
+aVAmir Johnson TOR 04/03/2015 TOR @ BKN L 16 11 5 6 83.3 0 1 0.0 1 1 100.0 2 1 3 0 0 0 1 2 -1
+p61
+aVTyler Hansbrough TOR 04/03/2015 TOR @ BKN L 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 1 0 0 3 3
+p62
+aVJonas Valanciunas TOR 04/03/2015 TOR @ BKN L 36 21 9 13 69.2 0 1 0.0 3 5 60.0 4 5 9 0 1 1 1 3 -7
+p63
+aVGreivis Vasquez TOR 04/03/2015 TOR @ BKN L 33 7 3 10 30.0 1 5 20.0 0 0 - 0 4 4 4 0 0 1 2 -2
+p64
+aVLou Williams TOR 04/03/2015 TOR @ BKN L 33 23 8 14 57.1 5 8 62.5 2 4 50.0 0 2 2 3 1 0 1 1 -1
+p65
+aVTerrence Ross TOR 04/03/2015 TOR @ BKN L 21 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 2 0 0 3 4 -9
+p66
+aVDeMar DeRozan TOR 04/03/2015 TOR @ BKN L 41 27 10 20 50.0 0 3 0.0 7 8 87.5 3 5 8 8 1 0 5 2 -6
+p67
+aVJames Johnson TOR 04/03/2015 TOR @ BKN L 19 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 1
+p68
+aVJonas Valanciunas TOR 04/01/2015 TOR @ MIN W 19 15 7 9 77.8 0 0 - 1 2 50.0 1 3 4 1 0 1 0 3 -3
+p69
+aVAmir Johnson TOR 04/01/2015 TOR @ MIN W 20 8 3 7 42.9 2 4 50.0 0 0 - 1 3 4 6 1 0 2 3 8
+p70
+aVLandry Fields TOR 04/01/2015 TOR @ MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -12
+p71
+aVGreivis Vasquez TOR 04/01/2015 TOR @ MIN W 30 14 5 6 83.3 4 5 80.0 0 0 - 0 4 4 2 1 0 1 4 26
+p72
+aVBruno Caboclo TOR 04/01/2015 TOR @ MIN W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p73
+aVTyler Hansbrough TOR 04/01/2015 TOR @ MIN W 29 10 3 3 100.0 0 0 - 4 7 57.1 2 9 11 1 0 0 0 2 17
+p74
+aVTerrence Ross TOR 04/01/2015 TOR @ MIN W 28 16 6 11 54.5 2 5 40.0 2 2 100.0 1 1 2 1 0 0 0 1 9
+p75
+aVDeMar DeRozan TOR 04/01/2015 TOR @ MIN W 30 17 6 12 50.0 1 1 100.0 4 5 80.0 1 1 2 3 1 0 1 0 4
+p76
+aVGreg Stiemsma TOR 04/01/2015 TOR @ MIN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -14
+p77
+aVPatrick Patterson TOR 04/01/2015 TOR @ MIN W 23 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 6 1 0 1 0 20
+p78
+aVJames Johnson TOR 04/01/2015 TOR @ MIN W 23 13 5 7 71.4 1 2 50.0 2 4 50.0 2 2 4 2 1 2 2 2 2
+p79
+aVLou Williams TOR 04/01/2015 TOR @ MIN W 26 18 6 13 46.2 3 9 33.3 3 3 100.0 0 1 1 2 3 0 4 1 25
+p80
+aVJonas Valanciunas TOR 03/30/2015 TOR vs. HOU W 28 15 5 9 55.6 0 0 - 5 5 100.0 3 6 9 1 1 5 1 5 6
+p81
+aVAmir Johnson TOR 03/30/2015 TOR vs. HOU W 33 8 4 7 57.1 0 0 - 0 0 - 6 10 16 3 1 1 3 3 -4
+p82
+aVTyler Hansbrough TOR 03/30/2015 TOR vs. HOU W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p83
+aVPatrick Patterson TOR 03/30/2015 TOR vs. HOU W 28 7 2 4 50.0 1 2 50.0 2 2 100.0 1 3 4 0 1 0 0 2 4
+p84
+aVTerrence Ross TOR 03/30/2015 TOR vs. HOU W 23 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 1 4 -7
+p85
+aVLou Williams TOR 03/30/2015 TOR vs. HOU W 27 13 5 9 55.6 3 6 50.0 0 0 - 0 2 2 5 1 0 0 3 -2
+p86
+aVGreivis Vasquez TOR 03/30/2015 TOR vs. HOU W 34 3 1 10 10.0 1 6 16.7 0 0 - 1 2 3 7 2 0 2 2 0
+p87
+aVJames Johnson TOR 03/30/2015 TOR vs. HOU W 19 6 2 6 33.3 0 2 0.0 2 3 66.7 0 2 2 2 1 0 2 3 6
+p88
+aVDeMar DeRozan TOR 03/30/2015 TOR vs. HOU W 41 42 14 27 51.9 2 4 50.0 12 17 70.6 1 10 11 1 1 1 6 2 12
+p89
+aVDeMar DeRozan TOR 03/27/2015 TOR vs. LAL W 41 6 1 10 10.0 0 0 - 4 6 66.7 1 9 10 7 1 0 1 4 10
+p90
+aVAmir Johnson TOR 03/27/2015 TOR vs. LAL W 31 11 5 9 55.6 0 0 - 1 2 50.0 0 6 6 0 0 1 1 3 7
+p91
+aVJames Johnson TOR 03/27/2015 TOR vs. LAL W 26 17 7 10 70.0 0 0 - 3 4 75.0 2 4 6 3 2 0 0 2 11
+p92
+aVTerrence Ross TOR 03/27/2015 TOR vs. LAL W 22 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 1 2 1 0 0 0
+p93
+aVBruno Caboclo TOR 03/27/2015 TOR vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -4
+p94
+aVPatrick Patterson TOR 03/27/2015 TOR vs. LAL W 23 7 3 7 42.9 1 4 25.0 0 0 - 1 4 5 4 1 1 2 1 10
+p95
+aVGreivis Vasquez TOR 03/27/2015 TOR vs. LAL W 26 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 5 0 0 0 3 10
+p96
+aVLou Williams TOR 03/27/2015 TOR vs. LAL W 28 18 6 13 46.2 3 7 42.9 3 3 100.0 0 1 1 4 2 0 2 0 6
+p97
+aVTyler Hansbrough TOR 03/27/2015 TOR vs. LAL W 15 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 2 3
+p98
+aVJonas Valanciunas TOR 03/27/2015 TOR vs. LAL W 27 19 8 12 66.7 0 0 - 3 4 75.0 2 5 7 0 0 1 2 3 2
+p99
+aVLou Williams TOR 03/25/2015 TOR vs. CHI L 24 18 8 13 61.5 1 5 20.0 1 1 100.0 0 2 2 1 1 0 1 1 -18
+p100
+aVJames Johnson TOR 03/25/2015 TOR vs. CHI L 13 8 2 5 40.0 0 0 - 4 4 100.0 0 2 2 1 0 0 0 1 -5
+p101
+aVJonas Valanciunas TOR 03/25/2015 TOR vs. CHI L 31 8 4 9 44.4 0 0 - 0 0 - 4 8 12 2 2 0 1 3 3
+p102
+aVAmir Johnson TOR 03/25/2015 TOR vs. CHI L 32 8 3 6 50.0 0 0 - 2 5 40.0 2 9 11 1 0 0 1 4 -4
+p103
+aVDeMar DeRozan TOR 03/25/2015 TOR vs. CHI L 39 20 7 19 36.8 0 0 - 6 6 100.0 0 2 2 5 1 0 2 1 -16
+p104
+aVTerrence Ross TOR 03/25/2015 TOR vs. CHI L 36 16 7 11 63.6 2 4 50.0 0 0 - 0 0 0 1 1 0 0 2 -1
+p105
+aVTyler Hansbrough TOR 03/25/2015 TOR vs. CHI L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p106
+aVGreivis Vasquez TOR 03/25/2015 TOR vs. CHI L 31 22 7 15 46.7 6 11 54.5 2 2 100.0 2 0 2 3 1 0 2 2 1
+p107
+aVPatrick Patterson TOR 03/25/2015 TOR vs. CHI L 28 3 1 3 33.3 0 1 0.0 1 1 100.0 2 2 4 2 0 1 0 2 -17
+p108
+aVLou Williams TOR 03/24/2015 TOR @ DET L 33 19 6 11 54.5 3 6 50.0 4 5 80.0 0 2 2 0 0 0 3 1 14
+p109
+aVPatrick Patterson TOR 03/24/2015 TOR @ DET L 27 13 4 8 50.0 2 4 50.0 3 3 100.0 2 3 5 4 1 0 0 2 6
+p110
+aVTerrence Ross TOR 03/24/2015 TOR @ DET L 30 9 4 11 36.4 1 5 20.0 0 0 - 0 2 2 1 0 0 0 3 -7
+p111
+aVJonas Valanciunas TOR 03/24/2015 TOR @ DET L 30 12 5 12 41.7 0 0 - 2 2 100.0 4 4 8 2 0 3 2 4 -9
+p112
+aVTyler Hansbrough TOR 03/24/2015 TOR @ DET L 8 4 1 1 100.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 0 4
+p113
+aVKyle Lowry TOR 03/24/2015 TOR @ DET L 11 5 2 4 50.0 0 2 0.0 1 1 100.0 1 1 2 3 0 0 0 2 -11
+p114
+aVAmir Johnson TOR 03/24/2015 TOR @ DET L 31 13 5 5 100.0 0 0 - 3 4 75.0 2 6 8 2 0 1 1 3 -9
+p115
+aVGreivis Vasquez TOR 03/24/2015 TOR @ DET L 28 7 3 6 50.0 1 4 25.0 0 0 - 0 4 4 3 1 0 3 3 -1
+p116
+aVDeMar DeRozan TOR 03/24/2015 TOR @ DET L 42 22 5 17 29.4 0 2 0.0 12 12 100.0 1 9 10 4 0 0 3 2 -7
+p117
+aVGreivis Vasquez TOR 03/22/2015 TOR vs. NYK W 34 12 5 8 62.5 0 1 0.0 2 2 100.0 0 0 0 1 0 0 4 1 12
+p118
+aVTyler Hansbrough TOR 03/22/2015 TOR vs. NYK W 18 18 7 8 87.5 0 0 - 4 5 80.0 1 4 5 0 0 0 1 2 8
+p119
+aVDeMar DeRozan TOR 03/22/2015 TOR vs. NYK W 36 23 8 15 53.3 1 1 100.0 6 6 100.0 1 6 7 5 0 0 2 0 0
+p120
+aVTerrence Ross TOR 03/22/2015 TOR vs. NYK W 31 11 4 7 57.1 1 1 100.0 2 3 66.7 1 2 3 0 1 0 0 2 14
+p121
+aVJonas Valanciunas TOR 03/22/2015 TOR vs. NYK W 27 17 6 12 50.0 0 0 - 5 5 100.0 1 9 10 2 0 1 2 4 12
+p122
+aVPatrick Patterson TOR 03/22/2015 TOR vs. NYK W 27 0 0 3 0.0 0 2 0.0 0 0 - 1 7 8 4 1 0 1 1 10
+p123
+aVLandry Fields TOR 03/22/2015 TOR vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p124
+aVJames Johnson TOR 03/22/2015 TOR vs. NYK W 13 7 3 4 75.0 0 0 - 1 1 100.0 1 3 4 3 1 0 2 3 15
+p125
+aVAmir Johnson TOR 03/22/2015 TOR vs. NYK W 24 5 2 6 33.3 1 3 33.3 0 2 0.0 2 4 6 3 1 0 3 1 4
+p126
+aVLou Williams TOR 03/22/2015 TOR vs. NYK W 27 13 4 11 36.4 1 3 33.3 4 5 80.0 0 1 1 4 0 0 1 0 12
+p127
+aVBruno Caboclo TOR 03/22/2015 TOR vs. NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p128
+aVPatrick Patterson TOR 03/20/2015 TOR @ CHI L 25 17 7 11 63.6 3 5 60.0 0 0 - 3 2 5 1 2 1 0 2 -14
+p129
+aVLandry Fields TOR 03/20/2015 TOR @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p130
+aVLou Williams TOR 03/20/2015 TOR @ CHI L 25 7 1 9 11.1 1 3 33.3 4 4 100.0 1 2 3 2 1 0 0 2 -12
+p131
+aVDeMar DeRozan TOR 03/20/2015 TOR @ CHI L 37 27 8 14 57.1 3 3 100.0 8 10 80.0 1 6 7 3 0 0 2 2 -23
+p132
+aVTyler Hansbrough TOR 03/20/2015 TOR @ CHI L 19 6 1 3 33.3 0 0 - 4 4 100.0 3 0 3 0 0 1 0 4 -4
+p133
+aVGreivis Vasquez TOR 03/20/2015 TOR @ CHI L 37 11 5 15 33.3 1 5 20.0 0 0 - 0 4 4 6 1 0 2 1 -8
+p134
+aVJonas Valanciunas TOR 03/20/2015 TOR @ CHI L 24 5 0 1 0.0 0 0 - 5 6 83.3 1 5 6 0 1 1 1 3 -12
+p135
+aVTerrence Ross TOR 03/20/2015 TOR @ CHI L 32 9 4 13 30.8 1 6 16.7 0 0 - 0 1 1 2 1 0 0 1 -6
+p136
+aVAmir Johnson TOR 03/20/2015 TOR @ CHI L 26 8 3 7 42.9 1 2 50.0 1 1 100.0 1 3 4 5 0 1 1 3 -6
+p137
+aVJames Johnson TOR 03/20/2015 TOR @ CHI L 14 2 1 6 16.7 0 1 0.0 0 1 0.0 2 0 2 1 0 0 0 1 1
+p138
+aVLou Williams TOR 03/18/2015 TOR vs. MIN W 25 8 2 12 16.7 1 7 14.3 3 5 60.0 0 0 0 4 0 0 0 0 2
+p139
+aVGreivis Vasquez TOR 03/18/2015 TOR vs. MIN W 25 11 4 10 40.0 3 6 50.0 0 0 - 0 2 2 5 1 0 1 3 -4
+p140
+aVAmir Johnson TOR 03/18/2015 TOR vs. MIN W 30 8 4 6 66.7 0 0 - 0 0 - 2 4 6 2 2 0 2 4 6
+p141
+aVDeMar DeRozan TOR 03/18/2015 TOR vs. MIN W 39 21 4 14 28.6 1 1 100.0 12 12 100.0 0 7 7 4 2 0 2 1 10
+p142
+aVJonas Valanciunas TOR 03/18/2015 TOR vs. MIN W 24 15 7 9 77.8 0 0 - 1 2 50.0 4 11 15 1 0 1 2 3 15
+p143
+aVPatrick Patterson TOR 03/18/2015 TOR vs. MIN W 30 14 5 9 55.6 3 6 50.0 1 2 50.0 0 4 4 1 1 1 2 0 -3
+p144
+aVJames Johnson TOR 03/18/2015 TOR vs. MIN W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -4
+p145
+aVTerrence Ross TOR 03/18/2015 TOR vs. MIN W 29 15 6 9 66.7 3 5 60.0 0 0 - 0 0 0 1 0 0 1 1 -1
+p146
+aVKyle Lowry TOR 03/18/2015 TOR vs. MIN W 26 9 2 7 28.6 1 4 25.0 4 4 100.0 1 2 3 6 0 0 2 2 8
+p147
+aVTyler Hansbrough TOR 03/18/2015 TOR vs. MIN W 8 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -4
+p148
+aVGreivis Vasquez TOR 03/16/2015 TOR @ IND W 25 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 3 0 1 2 3 5
+p149
+aVKyle Lowry TOR 03/16/2015 TOR @ IND W 38 20 7 13 53.8 5 8 62.5 1 3 33.3 0 11 11 10 3 0 3 4 28
+p150
+aVLandry Fields TOR 03/16/2015 TOR @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p151
+aVTerrence Ross TOR 03/16/2015 TOR @ IND W 21 9 3 6 50.0 3 4 75.0 0 0 - 0 1 1 0 0 0 1 3 12
+p152
+aVDeMar DeRozan TOR 03/16/2015 TOR @ IND W 37 22 6 19 31.6 0 0 - 10 11 90.9 0 3 3 3 0 0 1 2 12
+p153
+aVJonas Valanciunas TOR 03/16/2015 TOR @ IND W 26 14 7 10 70.0 0 0 - 0 1 0.0 5 7 12 0 0 2 0 2 8
+p154
+aVLou Williams TOR 03/16/2015 TOR @ IND W 23 24 8 17 47.1 1 6 16.7 7 7 100.0 0 3 3 0 0 0 1 0 0
+p155
+aVTyler Hansbrough TOR 03/16/2015 TOR @ IND W 19 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 3 8
+p156
+aVPatrick Patterson TOR 03/16/2015 TOR @ IND W 22 4 1 1 100.0 0 0 - 2 2 100.0 0 7 7 2 0 0 0 4 5
+p157
+aVAmir Johnson TOR 03/16/2015 TOR @ IND W 29 11 3 7 42.9 1 1 100.0 4 5 80.0 2 7 9 1 0 1 3 3 17
+p158
+aVGreivis Vasquez TOR 03/15/2015 TOR vs. POR L 18 10 4 9 44.4 2 5 40.0 0 0 - 0 0 0 3 1 1 1 2 -2
+p159
+aVJonas Valanciunas TOR 03/15/2015 TOR vs. POR L 22 14 7 7 100.0 0 0 - 0 0 - 3 6 9 1 0 1 1 2 -16
+p160
+aVKyle Lowry TOR 03/15/2015 TOR vs. POR L 35 10 3 11 27.3 1 5 20.0 3 3 100.0 0 4 4 6 1 0 4 4 -11
+p161
+aVTyler Hansbrough TOR 03/15/2015 TOR vs. POR L 13 8 2 2 100.0 0 0 - 4 5 80.0 0 3 3 0 1 0 2 1 7
+p162
+aVLandry Fields TOR 03/15/2015 TOR vs. POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p163
+aVGreg Stiemsma TOR 03/15/2015 TOR vs. POR L 2 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 0
+p164
+aVAmir Johnson TOR 03/15/2015 TOR vs. POR L 32 10 5 10 50.0 0 0 - 0 0 - 3 4 7 1 0 0 1 3 -22
+p165
+aVJames Johnson TOR 03/15/2015 TOR vs. POR L 13 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 1 3 3 -6
+p166
+aVDeMar DeRozan TOR 03/15/2015 TOR vs. POR L 35 22 9 18 50.0 0 1 0.0 4 5 80.0 1 7 8 2 1 0 2 1 -15
+p167
+aVTerrence Ross TOR 03/15/2015 TOR vs. POR L 25 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 1 0 0 1 3 -11
+p168
+aVLou Williams TOR 03/15/2015 TOR vs. POR L 20 11 2 8 25.0 0 2 0.0 7 8 87.5 0 0 0 3 1 0 0 0 -7
+p169
+aVPatrick Patterson TOR 03/15/2015 TOR vs. POR L 24 7 3 5 60.0 1 2 50.0 0 0 - 1 4 5 2 0 0 0 3 3
+p170
+aVPatrick Patterson TOR 03/13/2015 TOR vs. MIA W 22 6 3 7 42.9 0 3 0.0 0 0 - 0 5 5 2 0 1 2 4 14
+p171
+aVCharles Hayes TOR 03/13/2015 TOR vs. MIA W 9 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 2 1 0 0 1 1
+p172
+aVDeMar DeRozan TOR 03/13/2015 TOR vs. MIA W 38 18 3 12 25.0 0 1 0.0 12 13 92.3 3 3 6 6 0 0 3 4 6
+p173
+aVJames Johnson TOR 03/13/2015 TOR vs. MIA W 13 7 3 5 60.0 0 0 - 1 3 33.3 0 5 5 1 2 1 1 2 -4
+p174
+aVAmir Johnson TOR 03/13/2015 TOR vs. MIA W 25 13 5 8 62.5 0 0 - 3 5 60.0 0 3 3 2 1 1 1 3 6
+p175
+aVKyle Lowry TOR 03/13/2015 TOR vs. MIA W 37 19 7 12 58.3 5 8 62.5 0 0 - 1 7 8 8 7 1 4 3 19
+p176
+aVLou Williams TOR 03/13/2015 TOR vs. MIA W 23 14 4 12 33.3 2 8 25.0 4 6 66.7 3 1 4 2 0 0 2 0 13
+p177
+aVTerrence Ross TOR 03/13/2015 TOR vs. MIA W 20 9 3 8 37.5 3 7 42.9 0 0 - 0 2 2 0 0 1 0 2 8
+p178
+aVTyler Hansbrough TOR 03/13/2015 TOR vs. MIA W 27 3 1 1 100.0 0 0 - 1 2 50.0 0 5 5 1 1 0 0 2 3
+p179
+aVGreivis Vasquez TOR 03/13/2015 TOR vs. MIA W 26 12 5 11 45.5 2 6 33.3 0 0 - 0 1 1 2 0 0 4 1 -16
+p180
+aVLou Williams TOR 03/10/2015 TOR @ SAS L 23 11 5 10 50.0 1 4 25.0 0 0 - 0 1 1 1 0 0 1 3 -11
+p181
+aVTerrence Ross TOR 03/10/2015 TOR @ SAS L 25 5 2 9 22.2 1 6 16.7 0 0 - 0 2 2 0 1 1 2 0 1
+p182
+aVPatrick Patterson TOR 03/10/2015 TOR @ SAS L 29 4 2 11 18.2 0 4 0.0 0 0 - 5 5 10 3 1 2 0 3 0
+p183
+aVTyler Hansbrough TOR 03/10/2015 TOR @ SAS L 7 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 5
+p184
+aVJames Johnson TOR 03/10/2015 TOR @ SAS L 5 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -7
+p185
+aVJonas Valanciunas TOR 03/10/2015 TOR @ SAS L 21 9 4 6 66.7 0 0 - 1 2 50.0 3 3 6 0 0 1 2 4 -19
+p186
+aVKyle Lowry TOR 03/10/2015 TOR @ SAS L 43 32 10 19 52.6 5 9 55.6 7 7 100.0 1 3 4 5 2 0 1 4 -3
+p187
+aVGreivis Vasquez TOR 03/10/2015 TOR @ SAS L 15 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 3 0 0 1 3 -10
+p188
+aVAmir Johnson TOR 03/10/2015 TOR @ SAS L 33 16 8 14 57.1 0 0 - 0 2 0.0 6 8 14 3 0 1 1 1 1
+p189
+aVDeMar DeRozan TOR 03/10/2015 TOR @ SAS L 39 21 8 18 44.4 0 1 0.0 5 7 71.4 0 3 3 4 1 0 1 5 -7
+p190
+aVTerrence Ross TOR 03/08/2015 TOR @ OKC L 26 20 7 12 58.3 6 9 66.7 0 0 - 1 3 4 2 2 1 0 3 2
+p191
+aVDeMar DeRozan TOR 03/08/2015 TOR @ OKC L 36 24 11 22 50.0 0 2 0.0 2 2 100.0 1 3 4 9 0 0 3 4 -9
+p192
+aVAmir Johnson TOR 03/08/2015 TOR @ OKC L 19 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 -8
+p193
+aVGreivis Vasquez TOR 03/08/2015 TOR @ OKC L 20 10 3 7 42.9 2 4 50.0 2 2 100.0 2 1 3 2 0 0 1 4 2
+p194
+aVKyle Lowry TOR 03/08/2015 TOR @ OKC L 41 14 5 15 33.3 1 4 25.0 3 3 100.0 0 2 2 5 2 0 1 3 1
+p195
+aVJames Johnson TOR 03/08/2015 TOR @ OKC L 15 4 2 10 20.0 0 1 0.0 0 0 - 2 2 4 2 4 0 0 1 -3
+p196
+aVLou Williams TOR 03/08/2015 TOR @ OKC L 22 11 5 10 50.0 1 3 33.3 0 0 - 0 0 0 1 2 0 0 2 -6
+p197
+aVPatrick Patterson TOR 03/08/2015 TOR @ OKC L 32 9 4 7 57.1 1 3 33.3 0 0 - 2 6 8 3 1 1 1 0 3
+p198
+aVJonas Valanciunas TOR 03/08/2015 TOR @ OKC L 30 10 4 11 36.4 0 0 - 2 2 100.0 4 1 5 0 1 1 2 4 -2
+p199
+aVTerrence Ross TOR 03/06/2015 TOR @ CHA L 32 8 3 10 30.0 2 7 28.6 0 0 - 1 2 3 7 2 0 0 1 3
+p200
+aVJames Johnson TOR 03/06/2015 TOR @ CHA L 17 6 2 6 33.3 0 0 - 2 4 50.0 1 0 1 1 1 1 1 1 -17
+p201
+aVGreivis Vasquez TOR 03/06/2015 TOR @ CHA L 14 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 0 -7
+p202
+aVPatrick Patterson TOR 03/06/2015 TOR @ CHA L 27 0 0 3 0.0 0 0 - 0 0 - 0 5 5 2 0 1 0 2 -11
+p203
+aVCharles Hayes TOR 03/06/2015 TOR @ CHA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p204
+aVJonas Valanciunas TOR 03/06/2015 TOR @ CHA L 23 9 2 3 66.7 0 0 - 5 5 100.0 2 4 6 0 0 2 0 1 6
+p205
+aVKyle Lowry TOR 03/06/2015 TOR @ CHA L 38 25 9 22 40.9 5 9 55.6 2 2 100.0 0 5 5 5 0 0 1 4 -11
+p206
+aVTyler Hansbrough TOR 03/06/2015 TOR @ CHA L 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p207
+aVLou Williams TOR 03/06/2015 TOR @ CHA L 16 4 1 9 11.1 0 4 0.0 2 2 100.0 1 0 1 1 0 0 1 2 -6
+p208
+aVAmir Johnson TOR 03/06/2015 TOR @ CHA L 26 6 3 5 60.0 0 0 - 0 0 - 0 5 5 1 1 0 1 5 8
+p209
+aVDeMar DeRozan TOR 03/06/2015 TOR @ CHA L 39 30 14 26 53.8 0 0 - 2 2 100.0 0 2 2 3 1 1 1 2 -4
+p210
+aVAmir Johnson TOR 03/04/2015 TOR vs. CLE L 31 4 1 6 16.7 0 1 0.0 2 2 100.0 2 6 8 3 1 0 0 3 -15
+p211
+aVGreivis Vasquez TOR 03/04/2015 TOR vs. CLE L 40 6 2 7 28.6 1 3 33.3 1 2 50.0 0 3 3 13 2 0 1 4 3
+p212
+aVJames Johnson TOR 03/04/2015 TOR vs. CLE L 19 11 5 9 55.6 1 2 50.0 0 0 - 0 2 2 0 0 1 0 4 -7
+p213
+aVPatrick Patterson TOR 03/04/2015 TOR vs. CLE L 19 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 1 3 6
+p214
+aVTyler Hansbrough TOR 03/04/2015 TOR vs. CLE L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p215
+aVTerrence Ross TOR 03/04/2015 TOR vs. CLE L 26 12 5 9 55.6 2 5 40.0 0 0 - 0 3 3 1 1 0 1 1 -12
+p216
+aVDeMar DeRozan TOR 03/04/2015 TOR vs. CLE L 39 25 10 19 52.6 2 3 66.7 3 3 100.0 0 1 1 0 1 0 2 2 -18
+p217
+aVLou Williams TOR 03/04/2015 TOR vs. CLE L 29 26 7 8 87.5 4 4 100.0 8 8 100.0 0 2 2 6 0 0 2 4 5
+p218
+aVJonas Valanciunas TOR 03/04/2015 TOR vs. CLE L 31 26 12 17 70.6 0 0 - 2 2 100.0 4 7 11 1 0 2 1 3 -2
+p219
+aVGreivis Vasquez TOR 03/02/2015 TOR @ PHI W 28 12 5 8 62.5 2 4 50.0 0 0 - 0 1 1 5 1 0 1 1 0
+p220
+aVTerrence Ross TOR 03/02/2015 TOR @ PHI W 29 12 4 10 40.0 4 7 57.1 0 0 - 0 1 1 2 0 0 1 0 10
+p221
+aVLou Williams TOR 03/02/2015 TOR @ PHI W 30 21 6 15 40.0 2 9 22.2 7 7 100.0 0 3 3 5 1 0 0 1 9
+p222
+aVJonas Valanciunas TOR 03/02/2015 TOR @ PHI W 23 5 1 2 50.0 0 0 - 3 4 75.0 2 3 5 0 0 1 3 4 12
+p223
+aVDeMar DeRozan TOR 03/02/2015 TOR @ PHI W 38 35 12 24 50.0 1 3 33.3 10 10 100.0 0 9 9 5 2 0 2 1 13
+p224
+aVJames Johnson TOR 03/02/2015 TOR @ PHI W 19 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 1 2 2 3 1
+p225
+aVTyler Hansbrough TOR 03/02/2015 TOR @ PHI W 16 6 3 4 75.0 0 0 - 0 2 0.0 3 2 5 1 1 1 0 3 -1
+p226
+aVPatrick Patterson TOR 03/02/2015 TOR @ PHI W 30 15 6 10 60.0 2 4 50.0 1 1 100.0 2 2 4 3 0 1 0 2 7
+p227
+aVAmir Johnson TOR 03/02/2015 TOR @ PHI W 27 4 2 3 66.7 0 0 - 0 0 - 2 5 7 2 0 1 0 1 4
+p228
+aVPatrick Patterson TOR 02/28/2015 TOR @ NYK L 28 10 4 7 57.1 2 5 40.0 0 0 - 1 4 5 2 2 0 3 5 -6
+p229
+aVLou Williams TOR 02/28/2015 TOR @ NYK L 33 22 6 16 37.5 2 10 20.0 8 9 88.9 0 2 2 3 0 1 1 0 -4
+p230
+aVJonas Valanciunas TOR 02/28/2015 TOR @ NYK L 28 16 6 8 75.0 0 0 - 4 6 66.7 1 7 8 0 1 0 0 6 -6
+p231
+aVTerrence Ross TOR 02/28/2015 TOR @ NYK L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -14
+p232
+aVJames Johnson TOR 02/28/2015 TOR @ NYK L 33 14 6 11 54.5 0 2 0.0 2 3 66.7 1 6 7 2 0 3 3 4 4
+p233
+aVGreivis Vasquez TOR 02/28/2015 TOR @ NYK L 34 14 5 13 38.5 4 9 44.4 0 0 - 2 1 3 6 0 0 3 4 4
+p234
+aVTyler Hansbrough TOR 02/28/2015 TOR @ NYK L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 0
+p235
+aVDeMar DeRozan TOR 02/28/2015 TOR @ NYK L 40 13 3 15 20.0 0 0 - 7 8 87.5 0 3 3 2 3 0 0 3 -1
+p236
+aVAmir Johnson TOR 02/28/2015 TOR @ NYK L 20 8 4 8 50.0 0 2 0.0 0 0 - 4 3 7 1 1 0 1 4 -2
+p237
+aVPatrick Patterson TOR 02/27/2015 TOR vs. GSW L 22 4 2 5 40.0 0 2 0.0 0 0 - 2 0 2 0 0 0 1 1 -24
+p238
+aVAmir Johnson TOR 02/27/2015 TOR vs. GSW L 22 8 4 7 57.1 0 0 - 0 0 - 0 4 4 3 0 0 1 2 -18
+p239
+aVLandry Fields TOR 02/27/2015 TOR vs. GSW L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p240
+aVJames Johnson TOR 02/27/2015 TOR vs. GSW L 21 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 1 2 1 2 -15
+p241
+aVKyle Lowry TOR 02/27/2015 TOR vs. GSW L 19 4 1 7 14.3 0 4 0.0 2 2 100.0 0 2 2 0 0 0 2 1 -31
+p242
+aVGreg Stiemsma TOR 02/27/2015 TOR vs. GSW L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 2 0 6
+p243
+aVTyler Hansbrough TOR 02/27/2015 TOR vs. GSW L 9 6 1 2 50.0 0 0 - 4 4 100.0 1 4 5 1 0 0 0 1 -7
+p244
+aVJonas Valanciunas TOR 02/27/2015 TOR vs. GSW L 27 7 2 4 50.0 0 0 - 3 6 50.0 4 8 12 0 1 0 3 0 -10
+p245
+aVDeMar DeRozan TOR 02/27/2015 TOR vs. GSW L 26 14 4 16 25.0 0 1 0.0 6 6 100.0 1 2 3 0 0 0 3 2 -12
+p246
+aVCharles Hayes TOR 02/27/2015 TOR vs. GSW L 7 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 0 6
+p247
+aVLou Williams TOR 02/27/2015 TOR vs. GSW L 26 12 2 7 28.6 1 4 25.0 7 8 87.5 0 4 4 3 1 1 3 4 -6
+p248
+aVTerrence Ross TOR 02/27/2015 TOR vs. GSW L 24 18 7 14 50.0 3 8 37.5 1 2 50.0 0 2 2 1 1 0 1 1 -9
+p249
+aVGreivis Vasquez TOR 02/27/2015 TOR vs. GSW L 25 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 4 1 0 2 3 -2
+p250
+aVCharles Hayes TOR 02/24/2015 TOR @ DAL L 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 1
+p251
+aVPatrick Patterson TOR 02/24/2015 TOR @ DAL L 28 12 5 11 45.5 2 6 33.3 0 0 - 1 6 7 1 0 1 2 2 -4
+p252
+aVJonas Valanciunas TOR 02/24/2015 TOR @ DAL L 26 10 5 7 71.4 0 0 - 0 0 - 1 8 9 1 1 0 2 4 -9
+p253
+aVKyle Lowry TOR 02/24/2015 TOR @ DAL L 34 11 4 15 26.7 2 9 22.2 1 2 50.0 0 4 4 6 0 0 1 2 -14
+p254
+aVGreivis Vasquez TOR 02/24/2015 TOR @ DAL L 19 14 5 6 83.3 3 3 100.0 1 2 50.0 0 1 1 2 1 0 0 2 0
+p255
+aVDeMar DeRozan TOR 02/24/2015 TOR @ DAL L 35 18 7 21 33.3 0 2 0.0 4 5 80.0 1 2 3 4 0 0 3 1 -4
+p256
+aVTerrence Ross TOR 02/24/2015 TOR @ DAL L 16 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 1 2 1 1 1 -1
+p257
+aVLou Williams TOR 02/24/2015 TOR @ DAL L 22 10 4 10 40.0 1 4 25.0 1 2 50.0 0 2 2 0 1 0 3 0 -1
+p258
+aVJames Johnson TOR 02/24/2015 TOR @ DAL L 26 6 3 4 75.0 0 0 - 0 0 - 1 3 4 2 3 1 3 3 6
+p259
+aVAmir Johnson TOR 02/24/2015 TOR @ DAL L 19 6 3 5 60.0 0 0 - 0 0 - 2 4 6 0 1 1 3 4 -9
+p260
+aVJonas Valanciunas TOR 02/23/2015 TOR @ NOP L 36 17 5 10 50.0 0 0 - 7 10 70.0 5 9 14 1 1 1 1 3 10
+p261
+aVJames Johnson TOR 02/23/2015 TOR @ NOP L 35 15 7 10 70.0 1 2 50.0 0 0 - 1 4 5 1 1 1 1 4 0
+p262
+aVGreivis Vasquez TOR 02/23/2015 TOR @ NOP L 14 6 2 6 33.3 0 3 0.0 2 2 100.0 2 1 3 3 1 0 0 0 -2
+p263
+aVTerrence Ross TOR 02/23/2015 TOR @ NOP L 22 6 2 7 28.6 2 5 40.0 0 0 - 0 2 2 0 1 0 0 1 2
+p264
+aVTyler Hansbrough TOR 02/23/2015 TOR @ NOP L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p265
+aVKyle Lowry TOR 02/23/2015 TOR @ NOP L 34 22 8 19 42.1 1 6 16.7 5 6 83.3 1 1 2 5 3 0 1 3 -1
+p266
+aVAmir Johnson TOR 02/23/2015 TOR @ NOP L 35 8 4 9 44.4 0 1 0.0 0 2 0.0 5 1 6 0 2 0 1 2 -12
+p267
+aVDeMar DeRozan TOR 02/23/2015 TOR @ NOP L 31 14 6 15 40.0 0 1 0.0 2 4 50.0 1 3 4 1 1 0 1 1 -1
+p268
+aVLou Williams TOR 02/23/2015 TOR @ NOP L 25 9 1 8 12.5 1 5 20.0 6 7 85.7 0 2 2 2 2 0 3 0 -9
+p269
+aVLandry Fields TOR 02/21/2015 TOR @ HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p270
+aVAmir Johnson TOR 02/21/2015 TOR @ HOU L 19 0 0 2 0.0 0 0 - 0 0 - 0 7 7 1 2 0 3 4 -4
+p271
+aVTerrence Ross TOR 02/21/2015 TOR @ HOU L 21 6 2 9 22.2 0 1 0.0 2 2 100.0 1 3 4 2 1 0 2 2 -13
+p272
+aVPatrick Patterson TOR 02/21/2015 TOR @ HOU L 24 5 2 7 28.6 1 4 25.0 0 0 - 2 2 4 0 1 0 1 1 -17
+p273
+aVJonas Valanciunas TOR 02/21/2015 TOR @ HOU L 25 11 3 5 60.0 0 0 - 5 5 100.0 2 5 7 0 3 0 1 3 0
+p274
+aVTyler Hansbrough TOR 02/21/2015 TOR @ HOU L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -9
+p275
+aVGreivis Vasquez TOR 02/21/2015 TOR @ HOU L 22 6 2 7 28.6 2 4 50.0 0 0 - 1 2 3 2 2 0 2 2 -27
+p276
+aVGreg Stiemsma TOR 02/21/2015 TOR @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p277
+aVLucas Nogueira TOR 02/21/2015 TOR @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p278
+aVJames Johnson TOR 02/21/2015 TOR @ HOU L 35 27 10 16 62.5 1 2 50.0 6 8 75.0 0 5 5 0 4 4 2 1 -9
+p279
+aVKyle Lowry TOR 02/21/2015 TOR @ HOU L 37 11 2 13 15.4 0 7 0.0 7 10 70.0 0 1 1 4 0 0 7 5 -14
+p280
+aVCharles Hayes TOR 02/21/2015 TOR @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p281
+aVDeMar DeRozan TOR 02/21/2015 TOR @ HOU L 38 10 4 14 28.6 0 0 - 2 3 66.7 0 3 3 3 3 1 5 4 -11
+p282
+aVKyle Lowry TOR 02/20/2015 TOR @ ATL W 25 10 4 10 40.0 1 2 50.0 1 1 100.0 0 3 3 9 0 0 2 4 19
+p283
+aVGreg Stiemsma TOR 02/20/2015 TOR @ ATL W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p284
+aVGreivis Vasquez TOR 02/20/2015 TOR @ ATL W 24 7 3 10 30.0 1 5 20.0 0 0 - 0 3 3 8 0 1 2 1 1
+p285
+aVTyler Hansbrough TOR 02/20/2015 TOR @ ATL W 12 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 2 -6
+p286
+aVLandry Fields TOR 02/20/2015 TOR @ ATL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -8
+p287
+aVJames Johnson TOR 02/20/2015 TOR @ ATL W 19 7 3 4 75.0 0 0 - 1 1 100.0 1 3 4 0 2 2 0 2 16
+p288
+aVPatrick Patterson TOR 02/20/2015 TOR @ ATL W 22 7 3 8 37.5 1 3 33.3 0 0 - 2 1 3 2 2 2 0 1 15
+p289
+aVTerrence Ross TOR 02/20/2015 TOR @ ATL W 23 3 1 8 12.5 1 5 20.0 0 0 - 0 2 2 1 1 0 1 2 9
+p290
+aVLou Williams TOR 02/20/2015 TOR @ ATL W 24 26 9 14 64.3 7 10 70.0 1 2 50.0 0 4 4 2 4 1 1 1 23
+p291
+aVJonas Valanciunas TOR 02/20/2015 TOR @ ATL W 25 8 4 13 30.8 0 0 - 0 0 - 8 5 13 1 0 2 1 3 15
+p292
+aVDeMar DeRozan TOR 02/20/2015 TOR @ ATL W 28 21 9 16 56.3 1 4 25.0 2 2 100.0 0 8 8 1 3 0 3 2 16
+p293
+aVCharles Hayes TOR 02/20/2015 TOR @ ATL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 7
+p294
+aVAmir Johnson TOR 02/20/2015 TOR @ ATL W 26 11 5 9 55.6 1 1 100.0 0 0 - 2 5 7 2 1 1 2 0 25
+p295
+aVAmir Johnson TOR 02/11/2015 TOR vs. WAS W 33 6 1 2 50.0 0 0 - 4 7 57.1 1 3 4 2 1 1 0 3 6
+p296
+aVTerrence Ross TOR 02/11/2015 TOR vs. WAS W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p297
+aVJames Johnson TOR 02/11/2015 TOR vs. WAS W 19 6 3 4 75.0 0 0 - 0 0 - 1 2 3 2 0 1 1 4 -5
+p298
+aVLou Williams TOR 02/11/2015 TOR vs. WAS W 34 27 8 16 50.0 4 8 50.0 7 7 100.0 0 4 4 1 2 1 0 0 5
+p299
+aVPatrick Patterson TOR 02/11/2015 TOR vs. WAS W 30 2 1 8 12.5 0 3 0.0 0 0 - 2 6 8 2 2 1 0 0 -1
+p300
+aVJonas Valanciunas TOR 02/11/2015 TOR vs. WAS W 16 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 0 3 0 -2
+p301
+aVTyler Hansbrough TOR 02/11/2015 TOR vs. WAS W 8 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 0
+p302
+aVDeMar DeRozan TOR 02/11/2015 TOR vs. WAS W 35 23 6 18 33.3 1 2 50.0 10 10 100.0 1 2 3 2 3 0 3 1 4
+p303
+aVGreivis Vasquez TOR 02/11/2015 TOR vs. WAS W 19 11 4 7 57.1 3 5 60.0 0 0 - 0 4 4 1 0 0 2 1 7
+p304
+aVKyle Lowry TOR 02/11/2015 TOR vs. WAS W 32 13 5 12 41.7 3 7 42.9 0 0 - 1 3 4 6 1 1 3 3 0
+p305
+aVTerrence Ross TOR 02/08/2015 TOR vs. SAS W 15 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 2 0 1 0 -15
+p306
+aVJames Johnson TOR 02/08/2015 TOR vs. SAS W 30 20 8 10 80.0 1 1 100.0 3 4 75.0 1 3 4 0 0 0 1 0 19
+p307
+aVJonas Valanciunas TOR 02/08/2015 TOR vs. SAS W 34 8 3 7 42.9 0 0 - 2 2 100.0 3 13 16 0 1 4 1 1 14
+p308
+aVDeMar DeRozan TOR 02/08/2015 TOR vs. SAS W 36 18 4 14 28.6 0 1 0.0 10 12 83.3 0 3 3 4 3 1 3 4 20
+p309
+aVGreivis Vasquez TOR 02/08/2015 TOR vs. SAS W 16 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 2 0 0 0 2 -15
+p310
+aVPatrick Patterson TOR 02/08/2015 TOR vs. SAS W 27 7 3 4 75.0 1 2 50.0 0 0 - 0 3 3 2 2 1 0 0 11
+p311
+aVTyler Hansbrough TOR 02/08/2015 TOR vs. SAS W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -7
+p312
+aVLou Williams TOR 02/08/2015 TOR vs. SAS W 15 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 2 -15
+p313
+aVKyle Lowry TOR 02/08/2015 TOR vs. SAS W 37 12 5 15 33.3 1 4 25.0 1 2 50.0 0 5 5 7 2 0 4 2 18
+p314
+aVAmir Johnson TOR 02/08/2015 TOR vs. SAS W 26 15 6 8 75.0 0 0 - 3 4 75.0 1 7 8 1 1 1 1 3 -5
+p315
+aVGreg Stiemsma TOR 02/06/2015 TOR vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p316
+aVGreivis Vasquez TOR 02/06/2015 TOR vs. LAC W 23 17 6 9 66.7 4 7 57.1 1 1 100.0 1 2 3 3 0 0 2 4 -2
+p317
+aVAmir Johnson TOR 02/06/2015 TOR vs. LAC W 26 11 5 7 71.4 0 1 0.0 1 2 50.0 3 2 5 0 2 0 1 2 13
+p318
+aVTerrence Ross TOR 02/06/2015 TOR vs. LAC W 21 1 0 4 0.0 0 3 0.0 1 4 25.0 0 4 4 4 0 0 2 4 9
+p319
+aVLou Williams TOR 02/06/2015 TOR vs. LAC W 28 18 4 9 44.4 3 6 50.0 7 9 77.8 0 3 3 5 0 0 1 1 25
+p320
+aVLandry Fields TOR 02/06/2015 TOR vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p321
+aVJonas Valanciunas TOR 02/06/2015 TOR vs. LAC W 20 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 1 3 2 -1
+p322
+aVDeMar DeRozan TOR 02/06/2015 TOR vs. LAC W 32 24 6 16 37.5 0 1 0.0 12 13 92.3 1 8 9 8 2 0 0 1 11
+p323
+aVPatrick Patterson TOR 02/06/2015 TOR vs. LAC W 28 11 4 9 44.4 3 6 50.0 0 0 - 2 3 5 1 0 0 0 3 13
+p324
+aVKyle Lowry TOR 02/06/2015 TOR vs. LAC W 38 21 6 9 66.7 3 6 50.0 6 6 100.0 0 1 1 1 1 0 1 2 9
+p325
+aVJames Johnson TOR 02/06/2015 TOR vs. LAC W 19 16 7 7 100.0 0 0 - 2 2 100.0 1 4 5 3 2 0 1 0 15
+p326
+aVTyler Hansbrough TOR 02/06/2015 TOR vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p327
+aVAmir Johnson TOR 02/04/2015 TOR vs. BKN L 27 9 4 4 100.0 1 1 100.0 0 0 - 0 5 5 0 0 0 1 0 0
+p328
+aVTyler Hansbrough TOR 02/04/2015 TOR vs. BKN L 7 6 1 2 50.0 0 0 - 4 4 100.0 1 0 1 0 0 0 0 1 -12
+p329
+aVGreg Stiemsma TOR 02/04/2015 TOR vs. BKN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p330
+aVJonas Valanciunas TOR 02/04/2015 TOR vs. BKN L 34 9 3 5 60.0 0 0 - 3 5 60.0 3 7 10 1 0 2 1 1 -9
+p331
+aVKyle Lowry TOR 02/04/2015 TOR vs. BKN L 36 13 5 13 38.5 1 3 33.3 2 4 50.0 1 5 6 10 1 0 4 5 -7
+p332
+aVPatrick Patterson TOR 02/04/2015 TOR vs. BKN L 28 11 5 10 50.0 1 5 20.0 0 0 - 3 5 8 1 2 1 0 1 -12
+p333
+aVBruno Caboclo TOR 02/04/2015 TOR vs. BKN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p334
+aVGreivis Vasquez TOR 02/04/2015 TOR vs. BKN L 21 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 4 -21
+p335
+aVDeMar DeRozan TOR 02/04/2015 TOR vs. BKN L 35 13 5 13 38.5 0 2 0.0 3 3 100.0 1 4 5 6 0 0 3 2 -9
+p336
+aVLou Williams TOR 02/04/2015 TOR vs. BKN L 21 4 1 11 9.1 1 9 11.1 1 2 50.0 0 0 0 2 0 0 0 1 -13
+p337
+aVTerrence Ross TOR 02/04/2015 TOR vs. BKN L 29 23 9 16 56.3 5 11 45.5 0 0 - 0 3 3 0 0 1 0 1 0
+p338
+aVLandry Fields TOR 02/04/2015 TOR vs. BKN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p339
+aVDeMar DeRozan TOR 02/02/2015 TOR vs. MIL L 25 16 5 16 31.3 0 2 0.0 6 8 75.0 0 2 2 2 1 0 2 3 -12
+p340
+aVKyle Lowry TOR 02/02/2015 TOR vs. MIL L 29 2 1 7 14.3 0 2 0.0 0 0 - 1 2 3 5 1 0 4 0 -12
+p341
+aVTyler Hansbrough TOR 02/02/2015 TOR vs. MIL L 19 3 1 1 100.0 0 0 - 1 2 50.0 2 4 6 0 2 0 1 1 5
+p342
+aVLou Williams TOR 02/02/2015 TOR vs. MIL L 29 12 1 12 8.3 1 7 14.3 9 10 90.0 0 1 1 0 0 0 2 1 -2
+p343
+aVAmir Johnson TOR 02/02/2015 TOR vs. MIL L 17 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 1 0 1 2 3 -9
+p344
+aVPatrick Patterson TOR 02/02/2015 TOR vs. MIL L 31 9 3 8 37.5 1 4 25.0 2 2 100.0 4 7 11 2 2 0 1 1 2
+p345
+aVTerrence Ross TOR 02/02/2015 TOR vs. MIL L 32 10 4 12 33.3 2 5 40.0 0 0 - 0 4 4 2 1 0 0 5 8
+p346
+aVJonas Valanciunas TOR 02/02/2015 TOR vs. MIL L 25 12 6 9 66.7 0 0 - 0 0 - 6 7 13 0 0 1 1 2 -9
+p347
+aVGreivis Vasquez TOR 02/02/2015 TOR vs. MIL L 33 8 3 11 27.3 2 6 33.3 0 0 - 0 3 3 2 0 1 2 3 -6
+p348
+aVGreivis Vasquez TOR 01/31/2015 TOR @ WAS W 27 12 4 8 50.0 3 4 75.0 1 1 100.0 0 2 2 4 0 0 2 3 2
+p349
+aVLou Williams TOR 01/31/2015 TOR @ WAS W 29 19 8 16 50.0 2 7 28.6 1 1 100.0 0 1 1 5 3 0 1 2 13
+p350
+aVKyle Lowry TOR 01/31/2015 TOR @ WAS W 42 23 8 15 53.3 1 5 20.0 6 8 75.0 0 3 3 3 2 0 2 4 -1
+p351
+aVAmir Johnson TOR 01/31/2015 TOR @ WAS W 38 17 6 10 60.0 1 3 33.3 4 6 66.7 2 4 6 3 1 3 2 5 4
+p352
+aVTyler Hansbrough TOR 01/31/2015 TOR @ WAS W 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 13
+p353
+aVDeMar DeRozan TOR 01/31/2015 TOR @ WAS W 43 15 5 16 31.3 0 0 - 5 9 55.6 2 8 10 7 0 1 3 4 -3
+p354
+aVPatrick Patterson TOR 01/31/2015 TOR @ WAS W 37 16 5 7 71.4 3 4 75.0 3 4 75.0 1 5 6 2 0 1 0 3 7
+p355
+aVTerrence Ross TOR 01/31/2015 TOR @ WAS W 18 8 3 6 50.0 1 3 33.3 1 1 100.0 0 2 2 1 0 0 2 0 2
+p356
+aVJonas Valanciunas TOR 01/31/2015 TOR @ WAS W 17 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 1 3 0 6 -17
+p357
+aVAmir Johnson TOR 01/30/2015 TOR @ BKN W 35 24 10 11 90.9 0 0 - 4 4 100.0 4 3 7 0 0 0 2 5 16
+p358
+aVDeMar DeRozan TOR 01/30/2015 TOR @ BKN W 41 26 9 17 52.9 0 1 0.0 8 9 88.9 0 4 4 9 1 0 1 3 9
+p359
+aVTyler Hansbrough TOR 01/30/2015 TOR @ BKN W 6 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 1 0 0 1 -6
+p360
+aVLou Williams TOR 01/30/2015 TOR @ BKN W 29 25 6 12 50.0 3 7 42.9 10 11 90.9 0 4 4 3 0 0 1 4 -4
+p361
+aVPatrick Patterson TOR 01/30/2015 TOR @ BKN W 32 12 6 13 46.2 0 5 0.0 0 0 - 2 3 5 1 1 1 1 2 -12
+p362
+aVJonas Valanciunas TOR 01/30/2015 TOR @ BKN W 33 14 7 7 100.0 0 0 - 0 0 - 3 8 11 0 0 2 0 1 12
+p363
+aVKyle Lowry TOR 01/30/2015 TOR @ BKN W 44 10 4 17 23.5 1 6 16.7 1 2 50.0 0 6 6 8 2 0 3 5 15
+p364
+aVGreivis Vasquez TOR 01/30/2015 TOR @ BKN W 24 8 3 8 37.5 2 4 50.0 0 0 - 0 7 7 0 0 0 1 0 2
+p365
+aVTerrence Ross TOR 01/30/2015 TOR @ BKN W 20 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -7
+p366
+aVJames Johnson TOR 01/28/2015 TOR vs. SAC W 7 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 1 0 1 2 0
+p367
+aVAmir Johnson TOR 01/28/2015 TOR vs. SAC W 21 6 2 4 50.0 1 2 50.0 1 1 100.0 1 3 4 5 0 0 5 3 9
+p368
+aVDeMar DeRozan TOR 01/28/2015 TOR vs. SAC W 31 12 5 13 38.5 1 3 33.3 1 4 25.0 1 4 5 6 1 0 2 4 13
+p369
+aVPatrick Patterson TOR 01/28/2015 TOR vs. SAC W 24 11 4 8 50.0 3 5 60.0 0 0 - 1 1 2 0 2 0 0 2 5
+p370
+aVTyler Hansbrough TOR 01/28/2015 TOR vs. SAC W 12 0 0 0 - 0 0 - 0 0 - 4 3 7 0 1 0 0 2 6
+p371
+aVLou Williams TOR 01/28/2015 TOR vs. SAC W 26 27 7 16 43.8 4 12 33.3 9 9 100.0 0 2 2 2 3 0 1 2 16
+p372
+aVKyle Lowry TOR 01/28/2015 TOR vs. SAC W 33 13 5 12 41.7 2 4 50.0 1 1 100.0 0 2 2 7 1 0 2 2 15
+p373
+aVGreivis Vasquez TOR 01/28/2015 TOR vs. SAC W 31 18 7 9 77.8 4 5 80.0 0 0 - 0 4 4 6 1 0 2 1 7
+p374
+aVJonas Valanciunas TOR 01/28/2015 TOR vs. SAC W 26 15 6 10 60.0 0 0 - 3 3 100.0 4 5 9 0 1 2 3 3 11
+p375
+aVTerrence Ross TOR 01/28/2015 TOR vs. SAC W 16 13 5 6 83.3 2 3 66.7 1 1 100.0 0 0 0 2 0 0 0 0 0
+p376
+aVCharles Hayes TOR 01/28/2015 TOR vs. SAC W 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 2 0 3 3
+p377
+aVDeMar DeRozan TOR 01/27/2015 TOR @ IND W 33 24 7 15 46.7 0 1 0.0 10 13 76.9 1 5 6 2 2 0 4 4 2
+p378
+aVJonas Valanciunas TOR 01/27/2015 TOR @ IND W 27 6 1 2 50.0 0 0 - 4 4 100.0 1 7 8 0 0 1 1 5 2
+p379
+aVGreg Stiemsma TOR 01/27/2015 TOR @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p380
+aVPatrick Patterson TOR 01/27/2015 TOR @ IND W 24 13 4 7 57.1 2 3 66.7 3 4 75.0 1 2 3 3 2 1 0 1 15
+p381
+aVTyler Hansbrough TOR 01/27/2015 TOR @ IND W 21 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 0 2 1 0 2 11
+p382
+aVTerrence Ross TOR 01/27/2015 TOR @ IND W 19 11 5 10 50.0 1 4 25.0 0 0 - 2 4 6 1 0 0 2 3 4
+p383
+aVGreivis Vasquez TOR 01/27/2015 TOR @ IND W 28 7 2 6 33.3 1 4 25.0 2 2 100.0 0 4 4 4 0 0 1 4 9
+p384
+aVKyle Lowry TOR 01/27/2015 TOR @ IND W 34 19 8 17 47.1 3 7 42.9 0 0 - 1 6 7 8 0 0 1 4 6
+p385
+aVLou Williams TOR 01/27/2015 TOR @ IND W 29 14 3 10 30.0 2 7 28.6 6 7 85.7 0 0 0 1 1 1 0 2 18
+p386
+aVAmir Johnson TOR 01/27/2015 TOR @ IND W 23 6 3 5 60.0 0 0 - 0 2 0.0 1 3 4 2 2 2 1 2 -1
+p387
+aVPatrick Patterson TOR 01/25/2015 TOR vs. DET W 29 6 2 4 50.0 0 1 0.0 2 2 100.0 0 6 6 2 0 0 2 2 -6
+p388
+aVLou Williams TOR 01/25/2015 TOR vs. DET W 22 12 5 12 41.7 1 2 50.0 1 2 50.0 0 2 2 1 4 0 2 0 2
+p389
+aVTyler Hansbrough TOR 01/25/2015 TOR vs. DET W 6 3 1 1 100.0 0 0 - 1 3 33.3 1 0 1 0 0 0 0 0 6
+p390
+aVJames Johnson TOR 01/25/2015 TOR vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p391
+aVCharles Hayes TOR 01/25/2015 TOR vs. DET W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p392
+aVTerrence Ross TOR 01/25/2015 TOR vs. DET W 23 7 2 6 33.3 1 4 25.0 2 2 100.0 0 3 3 1 0 1 1 1 -9
+p393
+aVGreivis Vasquez TOR 01/25/2015 TOR vs. DET W 24 13 5 10 50.0 1 3 33.3 2 2 100.0 0 3 3 7 1 0 1 4 4
+p394
+aVDeMar DeRozan TOR 01/25/2015 TOR vs. DET W 35 25 8 14 57.1 1 2 50.0 8 10 80.0 0 6 6 4 2 0 0 1 2
+p395
+aVAmir Johnson TOR 01/25/2015 TOR vs. DET W 28 17 7 9 77.8 0 0 - 3 4 75.0 2 0 2 0 0 1 1 2 -1
+p396
+aVKyle Lowry TOR 01/25/2015 TOR vs. DET W 37 11 4 8 50.0 1 3 33.3 2 2 100.0 0 3 3 8 2 0 1 4 7
+p397
+aVJonas Valanciunas TOR 01/25/2015 TOR vs. DET W 28 20 9 15 60.0 0 0 - 2 2 100.0 3 8 11 0 0 3 0 4 11
+p398
+aVJonas Valanciunas TOR 01/23/2015 TOR @ PHI W 26 11 3 5 60.0 0 0 - 5 7 71.4 0 3 3 0 2 3 1 4 1
+p399
+aVGreivis Vasquez TOR 01/23/2015 TOR @ PHI W 33 12 6 11 54.5 0 4 0.0 0 0 - 1 4 5 4 0 0 2 4 4
+p400
+aVKyle Lowry TOR 01/23/2015 TOR @ PHI W 36 21 5 14 35.7 3 7 42.9 8 8 100.0 1 4 5 5 3 0 1 0 0
+p401
+aVDeMar DeRozan TOR 01/23/2015 TOR @ PHI W 29 8 4 14 28.6 0 2 0.0 0 0 - 1 0 1 1 1 0 3 1 -4
+p402
+aVTyler Hansbrough TOR 01/23/2015 TOR @ PHI W 15 1 0 2 0.0 0 0 - 1 2 50.0 1 4 5 0 0 0 2 4 5
+p403
+aVPatrick Patterson TOR 01/23/2015 TOR @ PHI W 30 14 6 10 60.0 2 4 50.0 0 1 0.0 6 7 13 3 2 0 0 1 26
+p404
+aVJames Johnson TOR 01/23/2015 TOR @ PHI W 9 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -1
+p405
+aVTerrence Ross TOR 01/23/2015 TOR @ PHI W 21 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 2 0 2 0 0 3
+p406
+aVLou Williams TOR 01/23/2015 TOR @ PHI W 25 11 3 11 27.3 0 4 0.0 5 6 83.3 0 1 1 3 3 0 1 1 12
+p407
+aVAmir Johnson TOR 01/23/2015 TOR @ PHI W 17 2 1 5 20.0 0 0 - 0 0 - 3 1 4 1 0 0 3 2 -21
+p408
+aVDeMar DeRozan TOR 01/21/2015 TOR @ MEM L 33 6 2 11 18.2 0 0 - 2 2 100.0 0 3 3 1 0 1 2 1 -8
+p409
+aVGreivis Vasquez TOR 01/21/2015 TOR @ MEM L 22 3 1 8 12.5 0 5 0.0 1 2 50.0 1 1 2 3 2 0 0 2 -6
+p410
+aVKyle Lowry TOR 01/21/2015 TOR @ MEM L 40 20 7 23 30.4 2 8 25.0 4 7 57.1 3 5 8 3 2 1 3 5 -1
+p411
+aVLou Williams TOR 01/21/2015 TOR @ MEM L 24 21 6 15 40.0 2 8 25.0 7 7 100.0 1 2 3 2 0 0 2 2 -2
+p412
+aVJames Johnson TOR 01/21/2015 TOR @ MEM L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 0
+p413
+aVJonas Valanciunas TOR 01/21/2015 TOR @ MEM L 29 12 4 8 50.0 0 0 - 4 4 100.0 4 6 10 0 1 1 1 4 -9
+p414
+aVTyler Hansbrough TOR 01/21/2015 TOR @ MEM L 11 2 1 1 100.0 0 0 - 0 0 - 4 1 5 1 0 0 0 2 -9
+p415
+aVTerrence Ross TOR 01/21/2015 TOR @ MEM L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 0 0 1 0 0 -1
+p416
+aVPatrick Patterson TOR 01/21/2015 TOR @ MEM L 24 11 2 7 28.6 1 6 16.7 6 6 100.0 6 3 9 1 1 0 3 4 9
+p417
+aVAmir Johnson TOR 01/21/2015 TOR @ MEM L 32 11 4 9 44.4 0 0 - 3 4 75.0 2 3 5 3 0 1 3 4 -3
+p418
+aVLou Williams TOR 01/19/2015 TOR @ MIL W 28 15 4 12 33.3 2 4 50.0 5 5 100.0 1 1 2 2 4 0 2 2 0
+p419
+aVTyler Hansbrough TOR 01/19/2015 TOR @ MIL W 19 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 1 0 2 0 0 0
+p420
+aVGreivis Vasquez TOR 01/19/2015 TOR @ MIL W 31 10 4 10 40.0 1 2 50.0 1 3 33.3 1 1 2 3 0 0 1 1 -2
+p421
+aVAmir Johnson TOR 01/19/2015 TOR @ MIL W 32 11 4 8 50.0 0 1 0.0 3 4 75.0 5 2 7 0 2 1 1 4 7
+p422
+aVPatrick Patterson TOR 01/19/2015 TOR @ MIL W 26 7 3 4 75.0 0 0 - 1 2 50.0 4 9 13 3 0 0 1 2 -1
+p423
+aVJonas Valanciunas TOR 01/19/2015 TOR @ MIL W 19 11 5 8 62.5 0 0 - 1 1 100.0 6 7 13 0 1 1 5 2 0
+p424
+aVKyle Lowry TOR 01/19/2015 TOR @ MIL W 36 18 8 25 32.0 1 9 11.1 1 4 25.0 0 5 5 3 1 1 3 2 5
+p425
+aVTerrence Ross TOR 01/19/2015 TOR @ MIL W 23 16 7 12 58.3 2 5 40.0 0 2 0.0 1 4 5 1 1 0 1 4 0
+p426
+aVDeMar DeRozan TOR 01/19/2015 TOR @ MIL W 26 0 0 9 0.0 0 3 0.0 0 1 0.0 1 2 3 4 0 0 1 3 6
+p427
+aVJonas Valanciunas TOR 01/18/2015 TOR vs. NOP L 28 6 2 5 40.0 0 0 - 2 2 100.0 1 6 7 0 1 2 3 3 -4
+p428
+aVTyler Hansbrough TOR 01/18/2015 TOR vs. NOP L 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p429
+aVAmir Johnson TOR 01/18/2015 TOR vs. NOP L 32 14 6 7 85.7 0 0 - 2 4 50.0 3 7 10 0 0 2 1 1 -16
+p430
+aVGreivis Vasquez TOR 01/18/2015 TOR vs. NOP L 28 16 5 14 35.7 4 9 44.4 2 2 100.0 0 2 2 9 2 0 3 3 7
+p431
+aVPatrick Patterson TOR 01/18/2015 TOR vs. NOP L 24 10 3 5 60.0 2 4 50.0 2 2 100.0 1 2 3 1 1 1 0 4 13
+p432
+aVTerrence Ross TOR 01/18/2015 TOR vs. NOP L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -11
+p433
+aVKyle Lowry TOR 01/18/2015 TOR vs. NOP L 38 8 4 10 40.0 0 3 0.0 0 0 - 2 3 5 5 2 0 4 2 -2
+p434
+aVJames Johnson TOR 01/18/2015 TOR vs. NOP L 11 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 0 3 1 0
+p435
+aVDeMar DeRozan TOR 01/18/2015 TOR vs. NOP L 36 22 7 18 38.9 1 4 25.0 7 9 77.8 0 3 3 1 1 0 1 3 0
+p436
+aVLou Williams TOR 01/18/2015 TOR vs. NOP L 21 17 4 9 44.4 0 3 0.0 9 10 90.0 0 0 0 1 2 0 0 0 0
+p437
+aVGreivis Vasquez TOR 01/16/2015 TOR vs. ATL L 21 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 6 0 0 1 3 2
+p438
+aVAmir Johnson TOR 01/16/2015 TOR vs. ATL L 23 8 3 6 50.0 1 1 100.0 1 2 50.0 1 4 5 0 0 0 4 4 -24
+p439
+aVJames Johnson TOR 01/16/2015 TOR vs. ATL L 27 17 7 11 63.6 0 0 - 3 3 100.0 1 5 6 3 1 2 3 4 0
+p440
+aVKyle Lowry TOR 01/16/2015 TOR vs. ATL L 32 11 5 13 38.5 0 6 0.0 1 2 50.0 1 2 3 5 2 0 2 3 -21
+p441
+aVDeMar DeRozan TOR 01/16/2015 TOR vs. ATL L 32 25 11 18 61.1 1 2 50.0 2 4 50.0 0 3 3 2 2 0 4 1 -27
+p442
+aVTerrence Ross TOR 01/16/2015 TOR vs. ATL L 26 5 1 8 12.5 1 4 25.0 2 2 100.0 1 1 2 1 0 0 0 0 -17
+p443
+aVPatrick Patterson TOR 01/16/2015 TOR vs. ATL L 20 2 0 3 0.0 0 3 0.0 2 2 100.0 1 2 3 1 0 0 0 1 -1
+p444
+aVJonas Valanciunas TOR 01/16/2015 TOR vs. ATL L 23 4 1 4 25.0 0 0 - 2 2 100.0 4 2 6 0 0 0 1 0 -17
+p445
+aVTyler Hansbrough TOR 01/16/2015 TOR vs. ATL L 16 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 0 2 1 1 0 6
+p446
+aVLou Williams TOR 01/16/2015 TOR vs. ATL L 21 5 2 6 33.3 1 3 33.3 0 0 - 2 2 4 2 0 0 1 0 -6
+p447
+aVDeMar DeRozan TOR 01/14/2015 TOR vs. PHI W 29 20 9 14 64.3 0 0 - 2 4 50.0 0 4 4 3 1 1 3 1 18
+p448
+aVPatrick Patterson TOR 01/14/2015 TOR vs. PHI W 28 6 2 11 18.2 2 6 33.3 0 0 - 1 3 4 3 0 0 0 2 8
+p449
+aVJonas Valanciunas TOR 01/14/2015 TOR vs. PHI W 21 12 4 8 50.0 0 0 - 4 6 66.7 1 6 7 0 1 0 2 5 4
+p450
+aVAmir Johnson TOR 01/14/2015 TOR vs. PHI W 32 10 5 8 62.5 0 0 - 0 0 - 5 11 16 2 0 1 2 4 11
+p451
+aVJames Johnson TOR 01/14/2015 TOR vs. PHI W 15 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 2 0 0 2 2 2
+p452
+aVTyler Hansbrough TOR 01/14/2015 TOR vs. PHI W 16 6 2 3 66.7 0 1 0.0 2 4 50.0 2 4 6 0 1 0 0 2 9
+p453
+aVKyle Lowry TOR 01/14/2015 TOR vs. PHI W 34 18 6 15 40.0 4 10 40.0 2 2 100.0 0 7 7 12 3 0 4 3 20
+p454
+aVTerrence Ross TOR 01/14/2015 TOR vs. PHI W 18 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 8
+p455
+aVGreivis Vasquez TOR 01/14/2015 TOR vs. PHI W 24 2 1 5 20.0 0 3 0.0 0 0 - 1 2 3 2 0 0 2 4 4
+p456
+aVLou Williams TOR 01/14/2015 TOR vs. PHI W 24 19 6 12 50.0 4 8 50.0 3 4 75.0 0 0 0 2 1 0 2 0 -4
+p457
+aVAmir Johnson TOR 01/12/2015 TOR vs. DET L 30 12 6 14 42.9 0 0 - 0 0 - 4 6 10 5 1 2 1 4 -14
+p458
+aVJonas Valanciunas TOR 01/12/2015 TOR vs. DET L 36 31 14 15 93.3 0 0 - 3 4 75.0 4 8 12 0 0 1 2 4 -14
+p459
+aVTerrence Ross TOR 01/12/2015 TOR vs. DET L 23 12 5 11 45.5 2 8 25.0 0 0 - 0 1 1 0 0 1 1 1 1
+p460
+aVLou Williams TOR 01/12/2015 TOR vs. DET L 24 15 7 14 50.0 1 5 20.0 0 2 0.0 0 1 1 3 0 1 4 0 6
+p461
+aVPatrick Patterson TOR 01/12/2015 TOR vs. DET L 24 2 1 7 14.3 0 5 0.0 0 0 - 1 1 2 1 0 0 0 1 15
+p462
+aVTyler Hansbrough TOR 01/12/2015 TOR vs. DET L 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 3
+p463
+aVCharles Hayes TOR 01/12/2015 TOR vs. DET L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p464
+aVGreivis Vasquez TOR 01/12/2015 TOR vs. DET L 25 16 7 9 77.8 2 3 66.7 0 0 - 0 3 3 4 1 1 1 0 -1
+p465
+aVKyle Lowry TOR 01/12/2015 TOR vs. DET L 33 10 3 12 25.0 2 6 33.3 2 2 100.0 0 7 7 12 2 0 7 3 -8
+p466
+aVJames Johnson TOR 01/12/2015 TOR vs. DET L 35 11 3 3 100.0 0 0 - 5 6 83.3 1 3 4 4 0 1 1 5 -6
+p467
+aVKyle Lowry TOR 01/10/2015 TOR vs. BOS W 38 19 7 17 41.2 3 8 37.5 2 2 100.0 1 4 5 7 3 0 3 2 16
+p468
+aVTyler Hansbrough TOR 01/10/2015 TOR vs. BOS W 18 4 0 3 0.0 0 0 - 4 4 100.0 4 2 6 0 1 1 0 4 5
+p469
+aVJames Johnson TOR 01/10/2015 TOR vs. BOS W 36 15 7 12 58.3 0 0 - 1 2 50.0 3 7 10 4 0 2 2 3 10
+p470
+aVLou Williams TOR 01/10/2015 TOR vs. BOS W 30 19 6 16 37.5 3 9 33.3 4 8 50.0 0 2 2 3 2 0 2 1 12
+p471
+aVJonas Valanciunas TOR 01/10/2015 TOR vs. BOS W 26 15 7 11 63.6 0 0 - 1 1 100.0 3 4 7 2 0 3 1 3 9
+p472
+aVGreivis Vasquez TOR 01/10/2015 TOR vs. BOS W 19 6 2 6 33.3 2 4 50.0 0 0 - 0 4 4 2 0 0 2 0 2
+p473
+aVTerrence Ross TOR 01/10/2015 TOR vs. BOS W 21 6 2 9 22.2 2 4 50.0 0 0 - 0 1 1 2 0 0 1 2 -1
+p474
+aVPatrick Patterson TOR 01/10/2015 TOR vs. BOS W 25 10 4 7 57.1 2 4 50.0 0 0 - 2 7 9 3 1 2 0 0 16
+p475
+aVAmir Johnson TOR 01/10/2015 TOR vs. BOS W 27 15 6 10 60.0 1 1 100.0 2 2 100.0 2 2 4 0 1 2 2 5 -4
+p476
+aVPatrick Patterson TOR 01/08/2015 TOR vs. CHA L 29 7 3 8 37.5 1 4 25.0 0 0 - 1 3 4 3 0 1 1 2 5
+p477
+aVAmir Johnson TOR 01/08/2015 TOR vs. CHA L 21 5 2 2 100.0 0 0 - 1 2 50.0 2 3 5 0 0 0 3 4 -15
+p478
+aVJonas Valanciunas TOR 01/08/2015 TOR vs. CHA L 22 10 3 9 33.3 0 0 - 4 4 100.0 1 5 6 0 0 0 1 1 -16
+p479
+aVLou Williams TOR 01/08/2015 TOR vs. CHA L 28 15 4 15 26.7 0 7 0.0 7 8 87.5 0 4 4 5 0 0 1 0 0
+p480
+aVTyler Hansbrough TOR 01/08/2015 TOR vs. CHA L 19 9 4 4 100.0 1 1 100.0 0 1 0.0 0 5 5 0 0 0 1 4 11
+p481
+aVKyle Lowry TOR 01/08/2015 TOR vs. CHA L 36 24 7 22 31.8 4 10 40.0 6 7 85.7 2 5 7 7 0 1 3 1 -15
+p482
+aVLandry Fields TOR 01/08/2015 TOR vs. CHA L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -21
+p483
+aVTerrence Ross TOR 01/08/2015 TOR vs. CHA L 22 7 3 10 30.0 1 4 25.0 0 0 - 0 4 4 1 1 1 0 4 -14
+p484
+aVJames Johnson TOR 01/08/2015 TOR vs. CHA L 23 7 3 5 60.0 0 0 - 1 3 33.3 2 2 4 0 0 4 1 1 12
+p485
+aVGreivis Vasquez TOR 01/08/2015 TOR vs. CHA L 30 11 4 8 50.0 3 5 60.0 0 0 - 0 3 3 4 1 0 3 3 13
+p486
+aVGreivis Vasquez TOR 01/04/2015 TOR @ PHX L 22 2 0 6 0.0 0 4 0.0 2 2 100.0 0 2 2 4 0 0 3 4 -15
+p487
+aVKyle Lowry TOR 01/04/2015 TOR @ PHX L 34 19 6 17 35.3 3 8 37.5 4 4 100.0 0 3 3 7 2 0 3 4 -5
+p488
+aVPatrick Patterson TOR 01/04/2015 TOR @ PHX L 22 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 0 0 2 2 1 -14
+p489
+aVLandry Fields TOR 01/04/2015 TOR @ PHX L 16 2 1 4 25.0 0 0 - 0 0 - 2 2 4 2 3 0 2 1 -6
+p490
+aVTerrence Ross TOR 01/04/2015 TOR @ PHX L 27 12 5 10 50.0 2 3 66.7 0 0 - 1 5 6 0 0 0 2 1 -16
+p491
+aVLucas Nogueira TOR 01/04/2015 TOR @ PHX L 6 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 1 1 0 0 3 4
+p492
+aVLou Williams TOR 01/04/2015 TOR @ PHX L 28 17 4 10 40.0 2 6 33.3 7 7 100.0 0 3 3 3 1 0 1 3 -7
+p493
+aVJames Johnson TOR 01/04/2015 TOR @ PHX L 26 17 7 9 77.8 0 0 - 3 4 75.0 1 6 7 2 2 1 2 3 5
+p494
+aVJonas Valanciunas TOR 01/04/2015 TOR @ PHX L 33 21 9 14 64.3 0 0 - 3 4 75.0 3 7 10 1 0 0 3 1 -12
+p495
+aVAmir Johnson TOR 01/04/2015 TOR @ PHX L 17 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 1 0 1 1 1 -12
+p496
+aVTyler Hansbrough TOR 01/04/2015 TOR @ PHX L 9 4 1 2 50.0 0 0 - 2 4 50.0 2 2 4 1 0 0 1 2 -2
+p497
+aVLandry Fields TOR 01/02/2015 TOR @ GSW L 16 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -18
+p498
+aVJames Johnson TOR 01/02/2015 TOR @ GSW L 12 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -3
+p499
+aVLou Williams TOR 01/02/2015 TOR @ GSW L 33 20 6 14 42.9 1 5 20.0 7 7 100.0 0 3 3 2 0 0 2 1 -6
+p500
+aVGreivis Vasquez TOR 01/02/2015 TOR @ GSW L 34 25 10 19 52.6 5 9 55.6 0 1 0.0 0 5 5 7 1 0 2 1 -4
+p501
+aVAmir Johnson TOR 01/02/2015 TOR @ GSW L 31 12 6 9 66.7 0 0 - 0 0 - 3 7 10 1 2 0 3 4 -4
+p502
+aVKyle Lowry TOR 01/02/2015 TOR @ GSW L 35 22 8 17 47.1 2 5 40.0 4 6 66.7 2 3 5 8 2 0 3 4 -19
+p503
+aVTerrence Ross TOR 01/02/2015 TOR @ GSW L 29 12 4 10 40.0 2 6 33.3 2 2 100.0 0 0 0 1 2 0 3 3 -19
+p504
+aVTyler Hansbrough TOR 01/02/2015 TOR @ GSW L 11 2 1 2 50.0 0 0 - 0 2 0.0 2 2 4 0 0 0 0 2 -5
+p505
+aVLucas Nogueira TOR 01/02/2015 TOR @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p506
+aVJonas Valanciunas TOR 01/02/2015 TOR @ GSW L 11 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 1 -14
+p507
+aVPatrick Patterson TOR 01/02/2015 TOR @ GSW L 26 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 0 0 0 0 -15
+p508
+aVGreivis Vasquez TOR 12/30/2014 TOR @ POR L 23 13 5 13 38.5 2 7 28.6 1 2 50.0 0 3 3 1 0 0 0 3 -3
+p509
+aVTerrence Ross TOR 12/30/2014 TOR @ POR L 38 12 5 15 33.3 2 6 33.3 0 0 - 1 4 5 1 2 0 0 0 -5
+p510
+aVJames Johnson TOR 12/30/2014 TOR @ POR L 32 14 7 11 63.6 0 0 - 0 0 - 3 8 11 2 1 0 1 1 -3
+p511
+aVKyle Lowry TOR 12/30/2014 TOR @ POR L 41 25 10 26 38.5 0 3 0.0 5 6 83.3 3 4 7 5 3 0 4 5 -4
+p512
+aVLou Williams TOR 12/30/2014 TOR @ POR L 25 7 1 10 10.0 0 5 0.0 5 5 100.0 0 3 3 0 0 0 2 0 0
+p513
+aVTyler Hansbrough TOR 12/30/2014 TOR @ POR L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 5 4
+p514
+aVAmir Johnson TOR 12/30/2014 TOR @ POR L 37 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 2 1 1 3 5 1
+p515
+aVJonas Valanciunas TOR 12/30/2014 TOR @ POR L 30 14 7 15 46.7 0 0 - 0 0 - 4 4 8 1 2 0 0 1 -4
+p516
+aVPatrick Patterson TOR 12/30/2014 TOR @ POR L 29 4 2 4 50.0 0 1 0.0 0 0 - 1 6 7 2 1 0 0 1 -11
+p517
+aVPatrick Patterson TOR 12/28/2014 TOR @ DEN W 27 8 2 5 40.0 2 4 50.0 2 4 50.0 0 2 2 1 0 0 0 1 20
+p518
+aVJonas Valanciunas TOR 12/28/2014 TOR @ DEN W 17 7 2 5 40.0 0 0 - 3 4 75.0 3 3 6 0 1 0 0 3 -13
+p519
+aVLou Williams TOR 12/28/2014 TOR @ DEN W 34 31 11 18 61.1 4 7 57.1 5 9 55.6 2 3 5 2 1 0 0 4 20
+p520
+aVCharles Hayes TOR 12/28/2014 TOR @ DEN W 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 2
+p521
+aVKyle Lowry TOR 12/28/2014 TOR @ DEN W 38 30 12 20 60.0 3 5 60.0 3 4 75.0 0 7 7 11 1 1 2 4 5
+p522
+aVTyler Hansbrough TOR 12/28/2014 TOR @ DEN W 20 10 5 8 62.5 0 0 - 0 0 - 4 3 7 0 0 1 0 2 19
+p523
+aVAmir Johnson TOR 12/28/2014 TOR @ DEN W 26 13 5 8 62.5 0 1 0.0 3 3 100.0 2 2 4 1 0 2 0 3 4
+p524
+aVJames Johnson TOR 12/28/2014 TOR @ DEN W 19 5 2 4 50.0 0 2 0.0 1 2 50.0 0 3 3 1 1 1 2 3 -2
+p525
+aVGreivis Vasquez TOR 12/28/2014 TOR @ DEN W 18 2 1 10 10.0 0 1 0.0 0 2 0.0 1 1 2 6 0 0 1 1 17
+p526
+aVTerrence Ross TOR 12/28/2014 TOR @ DEN W 35 8 3 10 30.0 1 3 33.3 1 2 50.0 1 7 8 1 0 0 1 1 8
+p527
+aVJames Johnson TOR 12/27/2014 TOR @ LAC W 21 7 3 7 42.9 1 3 33.3 0 0 - 1 5 6 2 1 0 1 3 10
+p528
+aVLou Williams TOR 12/27/2014 TOR @ LAC W 29 9 2 9 22.2 2 6 33.3 3 3 100.0 0 0 0 3 1 0 0 0 4
+p529
+aVGreivis Vasquez TOR 12/27/2014 TOR @ LAC W 22 16 5 12 41.7 4 8 50.0 2 2 100.0 0 4 4 6 0 0 2 3 -3
+p530
+aVPatrick Patterson TOR 12/27/2014 TOR @ LAC W 24 10 4 5 80.0 2 2 100.0 0 0 - 1 3 4 2 0 0 1 3 5
+p531
+aVAmir Johnson TOR 12/27/2014 TOR @ LAC W 32 8 4 7 57.1 0 0 - 0 1 0.0 3 9 12 1 1 0 2 3 17
+p532
+aVTyler Hansbrough TOR 12/27/2014 TOR @ LAC W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -11
+p533
+aVKyle Lowry TOR 12/27/2014 TOR @ LAC W 36 25 9 17 52.9 3 7 42.9 4 5 80.0 1 2 3 7 3 0 3 0 6
+p534
+aVTerrence Ross TOR 12/27/2014 TOR @ LAC W 37 11 5 15 33.3 1 8 12.5 0 0 - 0 2 2 3 1 1 0 3 21
+p535
+aVJonas Valanciunas TOR 12/27/2014 TOR @ LAC W 34 22 8 13 61.5 0 0 - 6 8 75.0 5 6 11 1 0 0 0 1 11
+p536
+aVGreivis Vasquez TOR 12/22/2014 TOR @ CHI L 15 2 1 7 14.3 0 3 0.0 0 0 - 0 0 0 4 0 0 1 1 2
+p537
+aVCharles Hayes TOR 12/22/2014 TOR @ CHI L 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -7
+p538
+aVAmir Johnson TOR 12/22/2014 TOR @ CHI L 18 2 1 6 16.7 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -2
+p539
+aVJames Johnson TOR 12/22/2014 TOR @ CHI L 33 16 7 10 70.0 0 1 0.0 2 2 100.0 1 1 2 1 4 2 3 3 2
+p540
+aVLou Williams TOR 12/22/2014 TOR @ CHI L 26 12 3 10 30.0 0 4 0.0 6 6 100.0 0 0 0 4 2 0 0 4 -5
+p541
+aVTerrence Ross TOR 12/22/2014 TOR @ CHI L 35 17 6 16 37.5 5 11 45.5 0 0 - 1 3 4 1 2 1 2 6 -13
+p542
+aVPatrick Patterson TOR 12/22/2014 TOR @ CHI L 30 12 5 10 50.0 0 3 0.0 2 4 50.0 7 2 9 0 1 0 0 3 -7
+p543
+aVKyle Lowry TOR 12/22/2014 TOR @ CHI L 37 34 12 22 54.5 4 8 50.0 6 10 60.0 2 4 6 3 1 0 1 5 -11
+p544
+aVJonas Valanciunas TOR 12/22/2014 TOR @ CHI L 33 20 8 18 44.4 0 0 - 4 6 66.7 4 5 9 0 0 0 0 4 -12
+p545
+aVTyler Hansbrough TOR 12/22/2014 TOR @ CHI L 5 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 0 1 8
+p546
+aVKyle Lowry TOR 12/21/2014 TOR vs. NYK W 31 22 7 12 58.3 2 4 50.0 6 6 100.0 0 4 4 9 3 0 4 1 20
+p547
+aVAmir Johnson TOR 12/21/2014 TOR vs. NYK W 32 9 4 7 57.1 0 0 - 1 4 25.0 4 6 10 1 2 1 4 5 11
+p548
+aVPatrick Patterson TOR 12/21/2014 TOR vs. NYK W 21 5 2 6 33.3 1 4 25.0 0 0 - 2 2 4 3 1 1 0 5 -1
+p549
+aVLucas Nogueira TOR 12/21/2014 TOR vs. NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p550
+aVJames Johnson TOR 12/21/2014 TOR vs. NYK W 24 10 5 7 71.4 0 1 0.0 0 0 - 3 3 6 2 0 2 0 2 2
+p551
+aVBruno Caboclo TOR 12/21/2014 TOR vs. NYK W 2 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p552
+aVGreivis Vasquez TOR 12/21/2014 TOR vs. NYK W 25 21 9 13 69.2 3 5 60.0 0 0 - 0 3 3 5 0 0 2 2 2
+p553
+aVTyler Hansbrough TOR 12/21/2014 TOR vs. NYK W 19 1 0 2 0.0 0 0 - 1 4 25.0 4 1 5 1 0 0 0 4 5
+p554
+aVJonas Valanciunas TOR 12/21/2014 TOR vs. NYK W 22 10 2 6 33.3 0 0 - 6 6 100.0 2 4 6 1 0 0 0 3 9
+p555
+aVLou Williams TOR 12/21/2014 TOR vs. NYK W 26 22 6 14 42.9 4 10 40.0 6 6 100.0 0 2 2 1 1 0 0 1 5
+p556
+aVTerrence Ross TOR 12/21/2014 TOR vs. NYK W 36 18 7 15 46.7 4 9 44.4 0 1 0.0 0 2 2 1 0 0 0 1 5
+p557
+aVPatrick Patterson TOR 12/19/2014 TOR @ DET W 30 11 4 8 50.0 3 6 50.0 0 0 - 1 4 5 4 0 0 0 2 2
+p558
+aVJonas Valanciunas TOR 12/19/2014 TOR @ DET W 27 17 6 11 54.5 0 0 - 5 10 50.0 2 5 7 0 0 2 1 2 5
+p559
+aVTerrence Ross TOR 12/19/2014 TOR @ DET W 22 11 5 13 38.5 1 5 20.0 0 0 - 1 5 6 1 1 0 0 0 19
+p560
+aVLandry Fields TOR 12/19/2014 TOR @ DET W 15 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 2 4
+p561
+aVAmir Johnson TOR 12/19/2014 TOR @ DET W 18 6 3 7 42.9 0 0 - 0 0 - 2 6 8 0 0 1 0 1 8
+p562
+aVLou Williams TOR 12/19/2014 TOR @ DET W 28 15 4 8 50.0 2 4 50.0 5 5 100.0 0 1 1 3 1 0 0 1 -5
+p563
+aVTyler Hansbrough TOR 12/19/2014 TOR @ DET W 8 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -4
+p564
+aVCharles Hayes TOR 12/19/2014 TOR @ DET W 13 9 4 4 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 0 9
+p565
+aVGreivis Vasquez TOR 12/19/2014 TOR @ DET W 25 8 3 9 33.3 1 4 25.0 1 2 50.0 0 3 3 5 0 1 3 2 -11
+p566
+aVKyle Lowry TOR 12/19/2014 TOR @ DET W 25 15 5 14 35.7 1 5 20.0 4 4 100.0 0 5 5 7 2 0 3 2 21
+p567
+aVJames Johnson TOR 12/19/2014 TOR @ DET W 29 12 5 9 55.6 0 3 0.0 2 2 100.0 1 7 8 2 0 1 0 2 2
+p568
+aVKyle Lowry TOR 12/17/2014 TOR vs. BKN W 32 20 7 13 53.8 2 3 66.7 4 4 100.0 0 3 3 12 2 0 2 4 9
+p569
+aVGreivis Vasquez TOR 12/17/2014 TOR vs. BKN W 16 13 6 11 54.5 1 3 33.3 0 0 - 0 3 3 3 1 0 1 0 7
+p570
+aVAmir Johnson TOR 12/17/2014 TOR vs. BKN W 31 13 5 8 62.5 0 0 - 3 6 50.0 5 4 9 1 0 1 0 6 15
+p571
+aVTyler Hansbrough TOR 12/17/2014 TOR vs. BKN W 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -4
+p572
+aVBruno Caboclo TOR 12/17/2014 TOR vs. BKN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p573
+aVLandry Fields TOR 12/17/2014 TOR vs. BKN W 21 6 3 4 75.0 0 1 0.0 0 0 - 1 2 3 2 2 0 0 1 -6
+p574
+aVLou Williams TOR 12/17/2014 TOR vs. BKN W 25 10 4 10 40.0 2 4 50.0 0 0 - 0 0 0 1 1 0 0 0 14
+p575
+aVJonas Valanciunas TOR 12/17/2014 TOR vs. BKN W 28 16 6 7 85.7 0 0 - 4 4 100.0 3 7 10 1 0 1 2 0 8
+p576
+aVPatrick Patterson TOR 12/17/2014 TOR vs. BKN W 25 13 5 10 50.0 3 4 75.0 0 0 - 0 2 2 1 0 1 0 3 12
+p577
+aVTerrence Ross TOR 12/17/2014 TOR vs. BKN W 22 9 3 10 30.0 2 5 40.0 1 1 100.0 0 1 1 0 0 0 2 2 4
+p578
+aVGreg Stiemsma TOR 12/17/2014 TOR vs. BKN W 1 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 1
+p579
+aVJames Johnson TOR 12/17/2014 TOR vs. BKN W 27 5 2 4 50.0 0 0 - 1 4 25.0 0 6 6 3 0 1 1 2 20
+p580
+aVPatrick Patterson TOR 12/15/2014 TOR vs. ORL W 28 10 4 6 66.7 2 4 50.0 0 0 - 1 2 3 6 2 0 0 0 2
+p581
+aVLou Williams TOR 12/15/2014 TOR vs. ORL W 28 18 6 14 42.9 1 5 20.0 5 7 71.4 1 2 3 2 1 0 1 0 8
+p582
+aVLandry Fields TOR 12/15/2014 TOR vs. ORL W 22 8 3 6 50.0 1 1 100.0 1 2 50.0 2 2 4 2 1 0 0 1 3
+p583
+aVGreivis Vasquez TOR 12/15/2014 TOR vs. ORL W 20 4 2 9 22.2 0 5 0.0 0 0 - 1 1 2 4 0 0 3 2 -10
+p584
+aVTyler Hansbrough TOR 12/15/2014 TOR vs. ORL W 25 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 1 1 0 0 3 11
+p585
+aVAmir Johnson TOR 12/15/2014 TOR vs. ORL W 20 11 5 8 62.5 0 0 - 1 2 50.0 1 2 3 0 0 0 1 3 11
+p586
+aVJames Johnson TOR 12/15/2014 TOR vs. ORL W 21 8 4 5 80.0 0 1 0.0 0 0 - 2 1 3 1 1 2 1 0 9
+p587
+aVJonas Valanciunas TOR 12/15/2014 TOR vs. ORL W 23 6 2 6 33.3 0 0 - 2 2 100.0 2 6 8 0 0 1 1 1 2
+p588
+aVKyle Lowry TOR 12/15/2014 TOR vs. ORL W 31 17 6 12 50.0 4 6 66.7 1 2 50.0 1 4 5 8 2 1 4 3 15
+p589
+aVTerrence Ross TOR 12/15/2014 TOR vs. ORL W 22 9 3 11 27.3 3 7 42.9 0 0 - 0 6 6 1 0 0 0 1 14
+p590
+aVTerrence Ross TOR 12/14/2014 TOR @ NYK W 33 22 8 14 57.1 3 5 60.0 3 3 100.0 0 5 5 1 2 0 2 3 13
+p591
+aVLandry Fields TOR 12/14/2014 TOR @ NYK W 23 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -7
+p592
+aVTyler Hansbrough TOR 12/14/2014 TOR @ NYK W 14 6 2 3 66.7 0 0 - 2 4 50.0 2 4 6 0 0 1 0 2 2
+p593
+aVJonas Valanciunas TOR 12/14/2014 TOR @ NYK W 33 8 3 6 50.0 0 0 - 2 4 50.0 3 10 13 0 1 0 2 3 -3
+p594
+aVLou Williams TOR 12/14/2014 TOR @ NYK W 32 15 5 15 33.3 2 8 25.0 3 3 100.0 0 1 1 3 1 0 2 1 1
+p595
+aVPatrick Patterson TOR 12/14/2014 TOR @ NYK W 34 13 5 6 83.3 3 4 75.0 0 0 - 1 1 2 4 2 0 2 2 8
+p596
+aVKyle Lowry TOR 12/14/2014 TOR @ NYK W 39 21 8 19 42.1 1 4 25.0 4 4 100.0 0 3 3 11 6 0 9 5 3
+p597
+aVAmir Johnson TOR 12/14/2014 TOR @ NYK W 28 6 3 8 37.5 0 1 0.0 0 0 - 3 6 9 5 0 1 1 3 -2
+p598
+aVGreivis Vasquez TOR 12/14/2014 TOR @ NYK W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 2 2 8
+p599
+aVJames Johnson TOR 12/14/2014 TOR @ NYK W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 3 2
+p600
+aVLandry Fields TOR 12/12/2014 TOR vs. IND W 21 8 2 4 50.0 0 0 - 4 4 100.0 1 1 2 1 0 0 0 0 1
+p601
+aVAmir Johnson TOR 12/12/2014 TOR vs. IND W 24 7 3 3 100.0 0 0 - 1 2 50.0 0 4 4 1 0 0 1 5 9
+p602
+aVLucas Nogueira TOR 12/12/2014 TOR vs. IND W 2 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p603
+aVJames Johnson TOR 12/12/2014 TOR vs. IND W 15 13 6 9 66.7 1 2 50.0 0 0 - 0 3 3 1 0 2 0 1 17
+p604
+aVTerrence Ross TOR 12/12/2014 TOR vs. IND W 27 8 3 11 27.3 0 4 0.0 2 2 100.0 0 7 7 1 1 0 3 4 -9
+p605
+aVGreivis Vasquez TOR 12/12/2014 TOR vs. IND W 25 10 4 13 30.8 2 7 28.6 0 0 - 0 0 0 4 0 1 1 4 2
+p606
+aVKyle Lowry TOR 12/12/2014 TOR vs. IND W 26 9 4 10 40.0 1 3 33.3 0 0 - 2 2 4 7 0 0 1 1 10
+p607
+aVPatrick Patterson TOR 12/12/2014 TOR vs. IND W 23 11 3 7 42.9 1 3 33.3 4 4 100.0 3 5 8 2 0 0 0 3 8
+p608
+aVGreg Stiemsma TOR 12/12/2014 TOR vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p609
+aVJonas Valanciunas TOR 12/12/2014 TOR vs. IND W 27 10 3 12 25.0 0 0 - 4 4 100.0 6 8 14 0 1 0 1 3 5
+p610
+aVTyler Hansbrough TOR 12/12/2014 TOR vs. IND W 19 4 1 1 100.0 0 0 - 2 3 66.7 3 2 5 1 0 0 1 2 12
+p611
+aVLou Williams TOR 12/12/2014 TOR vs. IND W 30 26 9 18 50.0 5 7 71.4 3 3 100.0 1 3 4 3 0 0 2 0 15
+p612
+aVTerrence Ross TOR 12/09/2014 TOR @ CLE L 28 18 8 13 61.5 1 4 25.0 1 1 100.0 1 2 3 1 0 0 5 2 -1
+p613
+aVLandry Fields TOR 12/09/2014 TOR @ CLE L 23 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 2 0 1 2 4
+p614
+aVJames Johnson TOR 12/09/2014 TOR @ CLE L 22 12 6 13 46.2 0 2 0.0 0 0 - 3 1 4 0 1 1 1 5 -7
+p615
+aVAmir Johnson TOR 12/09/2014 TOR @ CLE L 25 10 5 10 50.0 0 0 - 0 0 - 1 1 2 2 0 0 2 4 -2
+p616
+aVPatrick Patterson TOR 12/09/2014 TOR @ CLE L 26 12 5 7 71.4 2 2 100.0 0 0 - 1 3 4 1 0 2 1 0 -4
+p617
+aVKyle Lowry TOR 12/09/2014 TOR @ CLE L 40 16 6 18 33.3 2 8 25.0 2 2 100.0 1 3 4 14 1 0 0 5 1
+p618
+aVJonas Valanciunas TOR 12/09/2014 TOR @ CLE L 37 18 6 7 85.7 0 0 - 6 6 100.0 5 10 15 0 0 0 3 2 -5
+p619
+aVLou Williams TOR 12/09/2014 TOR @ CLE L 20 6 2 8 25.0 1 4 25.0 1 1 100.0 0 1 1 4 0 0 1 3 1
+p620
+aVCharles Hayes TOR 12/09/2014 TOR @ CLE L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p621
+aVGreivis Vasquez TOR 12/09/2014 TOR @ CLE L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 1 0 -8
+p622
+aVGreivis Vasquez TOR 12/08/2014 TOR vs. DEN W 33 9 4 9 44.4 0 3 0.0 1 2 50.0 0 5 5 2 2 2 1 2 0
+p623
+aVJames Johnson TOR 12/08/2014 TOR vs. DEN W 20 4 2 2 100.0 0 0 - 0 2 0.0 1 3 4 2 0 1 2 1 -2
+p624
+aVKyle Lowry TOR 12/08/2014 TOR vs. DEN W 41 13 3 13 23.1 0 5 0.0 7 8 87.5 1 2 3 13 0 1 4 1 5
+p625
+aVPatrick Patterson TOR 12/08/2014 TOR vs. DEN W 39 19 7 11 63.6 5 7 71.4 0 0 - 2 6 8 2 0 1 0 1 1
+p626
+aVTerrence Ross TOR 12/08/2014 TOR vs. DEN W 40 16 7 15 46.7 1 8 12.5 1 2 50.0 0 4 4 0 1 0 0 0 7
+p627
+aVTyler Hansbrough TOR 12/08/2014 TOR vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 10
+p628
+aVAmir Johnson TOR 12/08/2014 TOR vs. DEN W 30 7 3 3 100.0 0 0 - 1 2 50.0 1 3 4 1 1 0 3 3 4
+p629
+aVJonas Valanciunas TOR 12/08/2014 TOR vs. DEN W 31 18 8 11 72.7 0 0 - 2 3 66.7 2 10 12 0 0 4 2 5 -6
+p630
+aVLou Williams TOR 12/08/2014 TOR vs. DEN W 28 26 7 16 43.8 3 10 30.0 9 10 90.0 1 2 3 1 0 1 2 2 6
+p631
+aVJames Johnson TOR 12/05/2014 TOR vs. CLE L 28 11 5 10 50.0 1 2 50.0 0 0 - 1 5 6 4 1 0 0 4 4
+p632
+aVKyle Lowry TOR 12/05/2014 TOR vs. CLE L 40 22 7 18 38.9 2 5 40.0 6 8 75.0 1 3 4 9 1 0 4 2 -8
+p633
+aVLou Williams TOR 12/05/2014 TOR vs. CLE L 20 5 2 7 28.6 1 2 50.0 0 0 - 1 2 3 2 0 0 3 2 -11
+p634
+aVCharles Hayes TOR 12/05/2014 TOR vs. CLE L 10 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 3 2
+p635
+aVPatrick Patterson TOR 12/05/2014 TOR vs. CLE L 27 6 2 8 25.0 1 6 16.7 1 2 50.0 3 5 8 1 0 0 1 1 -11
+p636
+aVJonas Valanciunas TOR 12/05/2014 TOR vs. CLE L 20 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 0 0 2 0 3 -11
+p637
+aVGreivis Vasquez TOR 12/05/2014 TOR vs. CLE L 28 4 2 11 18.2 0 3 0.0 0 0 - 0 1 1 5 0 1 1 0 -9
+p638
+aVAmir Johnson TOR 12/05/2014 TOR vs. CLE L 33 27 11 15 73.3 1 1 100.0 4 6 66.7 5 2 7 4 1 0 1 2 -15
+p639
+aVTerrence Ross TOR 12/05/2014 TOR vs. CLE L 31 6 2 9 22.2 2 5 40.0 0 0 - 1 5 6 0 1 1 1 0 -15
+p640
+aVTyler Hansbrough TOR 12/05/2014 TOR vs. CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p641
+aVKyle Lowry TOR 12/03/2014 TOR @ UTA W 38 39 13 22 59.1 4 5 80.0 9 9 100.0 2 3 5 4 1 0 2 1 8
+p642
+aVJames Johnson TOR 12/03/2014 TOR @ UTA W 19 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 2 1 2 15
+p643
+aVGreivis Vasquez TOR 12/03/2014 TOR @ UTA W 31 17 7 13 53.8 3 5 60.0 0 1 0.0 0 4 4 5 1 0 1 0 19
+p644
+aVJonas Valanciunas TOR 12/03/2014 TOR @ UTA W 33 9 4 9 44.4 0 0 - 1 2 50.0 0 6 6 1 0 1 0 2 -4
+p645
+aVPatrick Patterson TOR 12/03/2014 TOR @ UTA W 31 13 5 6 83.3 3 4 75.0 0 0 - 0 3 3 0 0 0 0 3 29
+p646
+aVGreg Stiemsma TOR 12/03/2014 TOR @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p647
+aVAmir Johnson TOR 12/03/2014 TOR @ UTA W 26 13 6 10 60.0 0 2 0.0 1 2 50.0 2 3 5 1 2 0 2 3 3
+p648
+aVLou Williams TOR 12/03/2014 TOR @ UTA W 26 17 5 9 55.6 1 2 50.0 6 6 100.0 0 5 5 2 2 0 2 2 10
+p649
+aVTerrence Ross TOR 12/03/2014 TOR @ UTA W 31 11 4 8 50.0 1 3 33.3 2 2 100.0 3 1 4 0 1 0 1 1 5
+p650
+aVTyler Hansbrough TOR 12/03/2014 TOR @ UTA W 6 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 10
+p651
+aVTerrence Ross TOR 12/02/2014 TOR @ SAC W 30 20 8 15 53.3 4 8 50.0 0 0 - 2 2 4 0 0 0 1 5 10
+p652
+aVJames Johnson TOR 12/02/2014 TOR @ SAC W 28 19 9 13 69.2 1 1 100.0 0 1 0.0 2 5 7 0 1 1 1 3 -4
+p653
+aVAmir Johnson TOR 12/02/2014 TOR @ SAC W 32 8 3 4 75.0 0 0 - 2 2 100.0 3 4 7 1 1 1 3 4 15
+p654
+aVJonas Valanciunas TOR 12/02/2014 TOR @ SAC W 33 15 3 6 50.0 0 0 - 9 10 90.0 1 7 8 1 1 0 2 2 13
+p655
+aVLou Williams TOR 12/02/2014 TOR @ SAC W 19 4 1 9 11.1 0 4 0.0 2 2 100.0 0 0 0 0 0 0 1 3 -12
+p656
+aVPatrick Patterson TOR 12/02/2014 TOR @ SAC W 22 12 5 10 50.0 2 3 66.7 0 0 - 3 0 3 0 1 0 1 3 -9
+p657
+aVTyler Hansbrough TOR 12/02/2014 TOR @ SAC W 9 0 0 0 - 0 0 - 0 0 - 2 0 2 0 1 0 0 1 -3
+p658
+aVGreivis Vasquez TOR 12/02/2014 TOR @ SAC W 30 12 5 10 50.0 2 4 50.0 0 0 - 0 4 4 7 1 0 2 5 10
+p659
+aVKyle Lowry TOR 12/02/2014 TOR @ SAC W 37 27 10 21 47.6 1 3 33.3 6 6 100.0 0 0 0 13 2 1 2 3 20
+p660
+aVGreivis Vasquez TOR 11/30/2014 TOR @ LAL L 34 19 8 16 50.0 1 5 20.0 2 4 50.0 0 0 0 5 1 0 0 1 -7
+p661
+aVLandry Fields TOR 11/30/2014 TOR @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p662
+aVAmir Johnson TOR 11/30/2014 TOR @ LAL L 22 6 3 5 60.0 0 0 - 0 0 - 1 3 4 4 0 2 1 4 -4
+p663
+aVTerrence Ross TOR 11/30/2014 TOR @ LAL L 38 20 8 12 66.7 4 7 57.1 0 0 - 1 4 5 1 0 0 1 3 -3
+p664
+aVKyle Lowry TOR 11/30/2014 TOR @ LAL L 41 29 10 28 35.7 1 8 12.5 8 12 66.7 2 4 6 9 3 0 2 6 -7
+p665
+aVTyler Hansbrough TOR 11/30/2014 TOR @ LAL L 9 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 0 1 3 2
+p666
+aVLou Williams TOR 11/30/2014 TOR @ LAL L 26 19 5 17 29.4 3 9 33.3 6 7 85.7 0 2 2 1 1 0 1 2 6
+p667
+aVPatrick Patterson TOR 11/30/2014 TOR @ LAL L 34 10 3 8 37.5 0 4 0.0 4 4 100.0 5 8 13 3 0 1 0 1 -2
+p668
+aVJames Johnson TOR 11/30/2014 TOR @ LAL L 22 8 3 5 60.0 0 1 0.0 2 2 100.0 1 3 4 0 0 0 1 6 -7
+p669
+aVJonas Valanciunas TOR 11/30/2014 TOR @ LAL L 33 9 4 10 40.0 0 0 - 1 2 50.0 2 11 13 1 0 3 1 1 -7
+p670
+aVCharles Hayes TOR 11/30/2014 TOR @ LAL L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p671
+aVDeMar DeRozan TOR 11/28/2014 TOR vs. DAL L 20 0 0 8 0.0 0 0 - 0 0 - 1 3 4 2 0 0 2 2 -5
+p672
+aVPatrick Patterson TOR 11/28/2014 TOR vs. DAL L 30 10 4 9 44.4 2 5 40.0 0 2 0.0 4 8 12 2 0 0 2 2 1
+p673
+aVCharles Hayes TOR 11/28/2014 TOR vs. DAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -5
+p674
+aVTerrence Ross TOR 11/28/2014 TOR vs. DAL L 23 7 3 8 37.5 1 4 25.0 0 0 - 1 0 1 0 1 0 1 1 -7
+p675
+aVLou Williams TOR 11/28/2014 TOR vs. DAL L 30 16 5 11 45.5 2 7 28.6 4 5 80.0 0 1 1 1 2 0 3 3 10
+p676
+aVJonas Valanciunas TOR 11/28/2014 TOR vs. DAL L 28 8 2 5 40.0 0 0 - 4 4 100.0 1 12 13 0 1 0 0 1 -16
+p677
+aVAmir Johnson TOR 11/28/2014 TOR vs. DAL L 30 20 9 15 60.0 2 2 100.0 0 0 - 6 3 9 0 1 1 1 4 2
+p678
+aVKyle Lowry TOR 11/28/2014 TOR vs. DAL L 32 25 9 22 40.9 3 10 30.0 4 4 100.0 1 6 7 4 1 0 2 3 4
+p679
+aVGreivis Vasquez TOR 11/28/2014 TOR vs. DAL L 25 14 5 11 45.5 4 5 80.0 0 1 0.0 0 3 3 6 1 0 3 4 -7
+p680
+aVJames Johnson TOR 11/28/2014 TOR vs. DAL L 17 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 2 3 3
+p681
+aVPatrick Patterson TOR 11/26/2014 TOR @ ATL W 21 3 1 1 100.0 1 1 100.0 0 0 - 2 5 7 0 1 2 1 4 2
+p682
+aVLou Williams TOR 11/26/2014 TOR @ ATL W 26 22 6 11 54.5 4 6 66.7 6 6 100.0 0 0 0 2 3 0 0 1 12
+p683
+aVKyle Lowry TOR 11/26/2014 TOR @ ATL W 33 14 3 12 25.0 2 6 33.3 6 8 75.0 1 5 6 13 1 0 1 4 14
+p684
+aVAmir Johnson TOR 11/26/2014 TOR @ ATL W 28 10 5 8 62.5 0 2 0.0 0 0 - 2 2 4 2 1 1 1 4 6
+p685
+aVJonas Valanciunas TOR 11/26/2014 TOR @ ATL W 24 11 4 8 50.0 0 0 - 3 4 75.0 2 5 7 0 0 1 1 2 -1
+p686
+aVGreivis Vasquez TOR 11/26/2014 TOR @ ATL W 17 21 8 12 66.7 3 6 50.0 2 2 100.0 0 2 2 3 0 0 1 2 -3
+p687
+aVDeMar DeRozan TOR 11/26/2014 TOR @ ATL W 33 27 8 16 50.0 2 3 66.7 9 9 100.0 1 2 3 2 0 0 5 2 7
+p688
+aVCharles Hayes TOR 11/26/2014 TOR @ ATL W 17 2 1 3 33.3 0 0 - 0 2 0.0 2 3 5 1 0 0 1 1 10
+p689
+aVTerrence Ross TOR 11/26/2014 TOR @ ATL W 22 12 4 7 57.1 2 4 50.0 2 2 100.0 0 1 1 0 0 0 0 1 -1
+p690
+aVJames Johnson TOR 11/26/2014 TOR @ ATL W 20 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 1 3 0 3 9
+p691
+aVAmir Johnson TOR 11/24/2014 TOR vs. PHX W 25 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 1 0 2 3 -1
+p692
+aVJonas Valanciunas TOR 11/24/2014 TOR vs. PHX W 32 27 10 11 90.9 0 0 - 7 8 87.5 4 7 11 0 0 1 2 1 10
+p693
+aVGreivis Vasquez TOR 11/24/2014 TOR vs. PHX W 16 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 3 1 0 2 1 -5
+p694
+aVKyle Lowry TOR 11/24/2014 TOR vs. PHX W 38 14 6 16 37.5 0 3 0.0 2 2 100.0 1 6 7 8 2 1 3 5 1
+p695
+aVCharles Hayes TOR 11/24/2014 TOR vs. PHX W 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p696
+aVJames Johnson TOR 11/24/2014 TOR vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 0
+p697
+aVTerrence Ross TOR 11/24/2014 TOR vs. PHX W 29 13 4 11 36.4 2 5 40.0 3 3 100.0 0 4 4 1 1 0 0 2 -3
+p698
+aVDeMar DeRozan TOR 11/24/2014 TOR vs. PHX W 37 23 7 20 35.0 0 0 - 9 13 69.2 1 2 3 1 1 0 1 2 9
+p699
+aVPatrick Patterson TOR 11/24/2014 TOR vs. PHX W 24 2 0 0 - 0 0 - 2 2 100.0 1 4 5 4 0 0 0 1 14
+p700
+aVLou Williams TOR 11/24/2014 TOR vs. PHX W 26 17 6 12 50.0 2 6 33.3 3 4 75.0 0 2 2 1 2 1 2 3 5
+p701
+aVAmir Johnson TOR 11/22/2014 TOR @ CLE W 28 6 2 7 28.6 1 3 33.3 1 2 50.0 2 2 4 0 0 1 2 4 1
+p702
+aVPatrick Patterson TOR 11/22/2014 TOR @ CLE W 24 5 1 4 25.0 1 2 50.0 2 2 100.0 1 5 6 3 1 1 2 0 20
+p703
+aVTerrence Ross TOR 11/22/2014 TOR @ CLE W 18 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -17
+p704
+aVGreivis Vasquez TOR 11/22/2014 TOR @ CLE W 18 7 2 7 28.6 1 3 33.3 2 2 100.0 0 2 2 2 0 0 0 4 16
+p705
+aVDeMar DeRozan TOR 11/22/2014 TOR @ CLE W 42 20 7 18 38.9 0 1 0.0 6 7 85.7 0 5 5 3 1 0 3 3 5
+p706
+aVGreg Stiemsma TOR 11/22/2014 TOR @ CLE W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p707
+aVLou Williams TOR 11/22/2014 TOR @ CLE W 29 36 9 19 47.4 3 8 37.5 15 15 100.0 3 1 4 1 3 0 0 1 37
+p708
+aVKyle Lowry TOR 11/22/2014 TOR @ CLE W 37 23 5 14 35.7 2 5 40.0 11 12 91.7 0 3 3 8 0 1 0 3 10
+p709
+aVJonas Valanciunas TOR 11/22/2014 TOR @ CLE W 26 8 4 5 80.0 0 0 - 0 0 - 1 4 5 0 0 2 1 5 0
+p710
+aVCharles Hayes TOR 11/22/2014 TOR @ CLE W 15 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 3 3 1 0 4 13
+p711
+aVLou Williams TOR 11/21/2014 TOR vs. MIL W 19 22 7 14 50.0 5 7 71.4 3 3 100.0 0 1 1 2 1 0 0 1 18
+p712
+aVAmir Johnson TOR 11/21/2014 TOR vs. MIL W 20 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 1 0 3 3 3 30
+p713
+aVGreivis Vasquez TOR 11/21/2014 TOR vs. MIL W 26 11 5 11 45.5 1 2 50.0 0 0 - 2 0 2 6 1 0 0 0 14
+p714
+aVBruno Caboclo TOR 11/21/2014 TOR vs. MIL W 12 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 0 0 1 1 1 -2
+p715
+aVLucas Nogueira TOR 11/21/2014 TOR vs. MIL W 9 2 1 2 50.0 0 0 - 0 2 0.0 1 4 5 0 1 0 2 3 -6
+p716
+aVCharles Hayes TOR 11/21/2014 TOR vs. MIL W 13 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 2 0 1 3 15
+p717
+aVJonas Valanciunas TOR 11/21/2014 TOR vs. MIL W 21 18 6 7 85.7 0 0 - 6 6 100.0 4 8 12 0 1 0 1 4 20
+p718
+aVGreg Stiemsma TOR 11/21/2014 TOR vs. MIL W 11 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 0 1 4 0
+p719
+aVPatrick Patterson TOR 11/21/2014 TOR vs. MIL W 22 2 1 6 16.7 0 2 0.0 0 0 - 2 6 8 3 1 0 0 2 25
+p720
+aVTerrence Ross TOR 11/21/2014 TOR vs. MIL W 24 13 5 8 62.5 3 5 60.0 0 0 - 0 2 2 2 1 0 0 1 34
+p721
+aVLandry Fields TOR 11/21/2014 TOR vs. MIL W 9 8 4 5 80.0 0 0 - 0 0 - 1 1 2 1 0 0 2 0 -6
+p722
+aVKyle Lowry TOR 11/21/2014 TOR vs. MIL W 26 20 6 10 60.0 3 5 60.0 5 7 71.4 2 7 9 5 0 0 2 1 32
+p723
+aVDeMar DeRozan TOR 11/21/2014 TOR vs. MIL W 29 7 1 8 12.5 0 0 - 5 6 83.3 0 5 5 5 0 0 3 1 36
+p724
+aVDeMar DeRozan TOR 11/19/2014 TOR vs. MEM W 38 21 10 22 45.5 0 1 0.0 1 2 50.0 1 4 5 4 2 0 1 1 3
+p725
+aVTerrence Ross TOR 11/19/2014 TOR vs. MEM W 34 16 6 14 42.9 3 6 50.0 1 1 100.0 0 2 2 1 1 1 1 2 -3
+p726
+aVJonas Valanciunas TOR 11/19/2014 TOR vs. MEM W 22 10 4 7 57.1 0 0 - 2 2 100.0 1 4 5 0 0 2 2 3 -12
+p727
+aVKyle Lowry TOR 11/19/2014 TOR vs. MEM W 37 18 7 16 43.8 2 8 25.0 2 2 100.0 0 3 3 7 2 0 1 3 -5
+p728
+aVAmir Johnson TOR 11/19/2014 TOR vs. MEM W 34 8 4 6 66.7 0 1 0.0 0 1 0.0 4 5 9 5 0 2 0 4 -2
+p729
+aVGreivis Vasquez TOR 11/19/2014 TOR vs. MEM W 14 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 3 0 0 1 4 6
+p730
+aVLou Williams TOR 11/19/2014 TOR vs. MEM W 18 13 4 8 50.0 2 4 50.0 3 3 100.0 0 2 2 1 2 0 1 0 11
+p731
+aVPatrick Patterson TOR 11/19/2014 TOR vs. MEM W 21 7 2 4 50.0 1 2 50.0 2 2 100.0 1 3 4 1 0 1 0 1 10
+p732
+aVCharles Hayes TOR 11/19/2014 TOR vs. MEM W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 8
+p733
+aVTyler Hansbrough TOR 11/19/2014 TOR vs. MEM W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 1 3
+p734
+aVLandry Fields TOR 11/19/2014 TOR vs. MEM W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p735
+aVGreivis Vasquez TOR 11/15/2014 TOR vs. UTA W 14 8 3 6 50.0 2 2 100.0 0 0 - 1 3 4 0 0 0 1 0 1
+p736
+aVKyle Lowry TOR 11/15/2014 TOR vs. UTA W 33 19 8 14 57.1 2 4 50.0 1 1 100.0 0 3 3 4 1 0 2 5 19
+p737
+aVLou Williams TOR 11/15/2014 TOR vs. UTA W 24 13 4 13 30.8 2 5 40.0 3 4 75.0 1 1 2 2 2 0 2 3 7
+p738
+aVJonas Valanciunas TOR 11/15/2014 TOR vs. UTA W 34 17 7 12 58.3 0 0 - 3 6 50.0 3 11 14 0 0 2 0 3 20
+p739
+aVJames Johnson TOR 11/15/2014 TOR vs. UTA W 14 5 2 3 66.7 0 1 0.0 1 2 50.0 1 3 4 2 0 1 1 2 1
+p740
+aVTyler Hansbrough TOR 11/15/2014 TOR vs. UTA W 14 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -2
+p741
+aVAmir Johnson TOR 11/15/2014 TOR vs. UTA W 23 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 2 1 2 0 0 9
+p742
+aVTerrence Ross TOR 11/15/2014 TOR vs. UTA W 23 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 2 0 0 0 2 9
+p743
+aVDeMar DeRozan TOR 11/15/2014 TOR vs. UTA W 36 27 10 17 58.8 0 1 0.0 7 8 87.5 1 2 3 2 1 0 0 0 17
+p744
+aVPatrick Patterson TOR 11/15/2014 TOR vs. UTA W 25 16 7 11 63.6 2 5 40.0 0 0 - 3 2 5 1 1 0 2 3 9
+p745
+aVAmir Johnson TOR 11/13/2014 TOR vs. CHI L 30 14 4 9 44.4 1 1 100.0 5 7 71.4 3 2 5 1 1 1 1 3 -7
+p746
+aVGreivis Vasquez TOR 11/13/2014 TOR vs. CHI L 14 7 2 5 40.0 0 2 0.0 3 4 75.0 0 2 2 1 1 0 5 1 2
+p747
+aVJonas Valanciunas TOR 11/13/2014 TOR vs. CHI L 23 8 4 8 50.0 0 0 - 0 0 - 4 4 8 2 0 1 2 3 -11
+p748
+aVDeMar DeRozan TOR 11/13/2014 TOR vs. CHI L 34 10 3 17 17.6 0 1 0.0 4 4 100.0 0 1 1 2 1 0 0 3 -2
+p749
+aVJames Johnson TOR 11/13/2014 TOR vs. CHI L 24 16 7 9 77.8 0 1 0.0 2 3 66.7 2 3 5 1 4 4 1 5 -1
+p750
+aVTyler Hansbrough TOR 11/13/2014 TOR vs. CHI L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p751
+aVTerrence Ross TOR 11/13/2014 TOR vs. CHI L 33 12 5 10 50.0 2 7 28.6 0 0 - 0 3 3 2 1 1 1 4 1
+p752
+aVKyle Lowry TOR 11/13/2014 TOR vs. CHI L 34 20 8 19 42.1 3 7 42.9 1 3 33.3 1 7 8 8 0 0 2 5 -4
+p753
+aVLou Williams TOR 11/13/2014 TOR vs. CHI L 16 3 1 6 16.7 1 3 33.3 0 0 - 1 0 1 0 2 0 0 0 -9
+p754
+aVPatrick Patterson TOR 11/13/2014 TOR vs. CHI L 24 3 1 5 20.0 1 3 33.3 0 0 - 1 2 3 0 1 0 2 3 -7
+p755
+aVDeMar DeRozan TOR 11/11/2014 TOR vs. ORL W 33 16 4 15 26.7 0 2 0.0 8 9 88.9 0 4 4 4 1 0 0 3 -3
+p756
+aVGreivis Vasquez TOR 11/11/2014 TOR vs. ORL W 16 4 1 8 12.5 0 3 0.0 2 2 100.0 0 2 2 0 1 0 2 1 4
+p757
+aVTyler Hansbrough TOR 11/11/2014 TOR vs. ORL W 18 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 3 9
+p758
+aVJames Johnson TOR 11/11/2014 TOR vs. ORL W 22 6 2 4 50.0 0 0 - 2 2 100.0 0 10 10 2 1 1 1 2 13
+p759
+aVJonas Valanciunas TOR 11/11/2014 TOR vs. ORL W 20 4 1 5 20.0 0 0 - 2 4 50.0 4 3 7 1 0 0 3 1 -9
+p760
+aVAmir Johnson TOR 11/11/2014 TOR vs. ORL W 22 12 6 8 75.0 0 0 - 0 0 - 1 1 2 1 1 0 0 3 -5
+p761
+aVTerrence Ross TOR 11/11/2014 TOR vs. ORL W 28 17 4 8 50.0 4 5 80.0 5 5 100.0 0 4 4 0 1 0 1 1 -2
+p762
+aVPatrick Patterson TOR 11/11/2014 TOR vs. ORL W 29 12 4 5 80.0 3 3 100.0 1 2 50.0 0 4 4 0 0 0 0 2 9
+p763
+aVLou Williams TOR 11/11/2014 TOR vs. ORL W 16 14 5 8 62.5 1 3 33.3 3 4 75.0 0 0 0 0 1 0 2 0 3
+p764
+aVKyle Lowry TOR 11/11/2014 TOR vs. ORL W 36 19 8 16 50.0 1 5 20.0 2 2 100.0 0 6 6 7 3 0 3 1 1
+p765
+aVJames Johnson TOR 11/09/2014 TOR vs. PHI W 21 8 4 5 80.0 0 1 0.0 0 0 - 0 4 4 3 0 2 2 1 19
+p766
+aVTerrence Ross TOR 11/09/2014 TOR vs. PHI W 29 17 6 11 54.5 4 7 57.1 1 2 50.0 1 4 5 1 2 2 1 0 28
+p767
+aVDeMar DeRozan TOR 11/09/2014 TOR vs. PHI W 26 24 8 12 66.7 0 0 - 8 8 100.0 1 5 6 2 2 1 3 1 10
+p768
+aVLou Williams TOR 11/09/2014 TOR vs. PHI W 18 16 5 9 55.6 1 2 50.0 5 6 83.3 0 0 0 1 2 0 2 0 24
+p769
+aVGreg Stiemsma TOR 11/09/2014 TOR vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p770
+aVCharles Hayes TOR 11/09/2014 TOR vs. PHI W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -6
+p771
+aVAmir Johnson TOR 11/09/2014 TOR vs. PHI W 18 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 1 0 0 1 4 4
+p772
+aVLandry Fields TOR 11/09/2014 TOR vs. PHI W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -6
+p773
+aVTyler Hansbrough TOR 11/09/2014 TOR vs. PHI W 19 7 2 2 100.0 0 0 - 3 4 75.0 0 6 6 1 1 0 0 2 27
+p774
+aVKyle Lowry TOR 11/09/2014 TOR vs. PHI W 25 14 5 10 50.0 0 3 0.0 4 4 100.0 1 1 2 3 1 0 4 1 15
+p775
+aVJonas Valanciunas TOR 11/09/2014 TOR vs. PHI W 23 12 4 6 66.7 0 0 - 4 4 100.0 1 4 5 0 1 2 5 3 11
+p776
+aVGreivis Vasquez TOR 11/09/2014 TOR vs. PHI W 26 13 5 11 45.5 1 2 50.0 2 2 100.0 0 4 4 6 1 0 1 2 18
+p777
+aVPatrick Patterson TOR 11/09/2014 TOR vs. PHI W 21 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 3 1 1 0 1 25
+p778
+aVJonas Valanciunas TOR 11/07/2014 TOR vs. WAS W 29 9 3 5 60.0 0 0 - 3 5 60.0 1 8 9 0 0 1 0 3 19
+p779
+aVLou Williams TOR 11/07/2014 TOR vs. WAS W 16 13 5 11 45.5 1 3 33.3 2 5 40.0 0 1 1 0 0 0 1 2 -1
+p780
+aVDeMar DeRozan TOR 11/07/2014 TOR vs. WAS W 36 25 7 13 53.8 0 0 - 11 11 100.0 0 3 3 1 1 0 3 2 12
+p781
+aVAmir Johnson TOR 11/07/2014 TOR vs. WAS W 21 6 3 7 42.9 0 0 - 0 0 - 0 7 7 2 0 2 1 4 17
+p782
+aVKyle Lowry TOR 11/07/2014 TOR vs. WAS W 34 13 5 13 38.5 2 6 33.3 1 2 50.0 2 9 11 10 1 0 4 4 17
+p783
+aVPatrick Patterson TOR 11/07/2014 TOR vs. WAS W 27 7 2 6 33.3 1 3 33.3 2 2 100.0 2 3 5 1 1 0 0 2 9
+p784
+aVJames Johnson TOR 11/07/2014 TOR vs. WAS W 17 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 1 0 0 2 1
+p785
+aVGreivis Vasquez TOR 11/07/2014 TOR vs. WAS W 16 2 0 4 0.0 0 2 0.0 2 2 100.0 1 2 3 3 1 0 0 1 2
+p786
+aVLandry Fields TOR 11/07/2014 TOR vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p787
+aVTerrence Ross TOR 11/07/2014 TOR vs. WAS W 29 18 7 15 46.7 4 6 66.7 0 0 - 2 3 5 1 0 0 3 4 19
+p788
+aVTyler Hansbrough TOR 11/07/2014 TOR vs. WAS W 14 5 1 3 33.3 0 0 - 3 4 75.0 2 1 3 1 0 0 1 3 -1
+p789
+aVPatrick Patterson TOR 11/05/2014 TOR @ BOS W 27 14 5 8 62.5 4 6 66.7 0 0 - 0 3 3 2 1 1 1 0 -7
+p790
+aVGreg Stiemsma TOR 11/05/2014 TOR @ BOS W 12 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 3 1
+p791
+aVTyler Hansbrough TOR 11/05/2014 TOR @ BOS W 24 4 1 2 50.0 0 0 - 2 4 50.0 3 2 5 0 0 1 1 2 -2
+p792
+aVDeMar DeRozan TOR 11/05/2014 TOR @ BOS W 40 23 9 25 36.0 0 1 0.0 5 6 83.3 0 0 0 6 2 0 2 3 -1
+p793
+aVTerrence Ross TOR 11/05/2014 TOR @ BOS W 24 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 2 0 1 1 1 -4
+p794
+aVKyle Lowry TOR 11/05/2014 TOR @ BOS W 36 35 12 17 70.6 2 3 66.7 9 10 90.0 1 3 4 3 2 0 0 4 4
+p795
+aVJames Johnson TOR 11/05/2014 TOR @ BOS W 22 6 3 9 33.3 0 2 0.0 0 0 - 1 2 3 4 2 1 0 2 10
+p796
+aVGreivis Vasquez TOR 11/05/2014 TOR @ BOS W 20 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 0 1 0 0 0 10
+p797
+aVCharles Hayes TOR 11/05/2014 TOR @ BOS W 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 4
+p798
+aVLou Williams TOR 11/05/2014 TOR @ BOS W 24 11 5 10 50.0 0 1 0.0 1 1 100.0 0 2 2 1 2 0 0 1 0
+p799
+aVPatrick Patterson TOR 11/04/2014 TOR vs. OKC W 36 14 5 9 55.6 2 2 100.0 2 2 100.0 2 6 8 2 2 1 1 2 9
+p800
+aVJames Johnson TOR 11/04/2014 TOR vs. OKC W 21 8 3 7 42.9 1 2 50.0 1 2 50.0 2 2 4 5 0 1 1 3 2
+p801
+aVTerrence Ross TOR 11/04/2014 TOR vs. OKC W 25 9 4 10 40.0 1 6 16.7 0 0 - 0 3 3 1 0 0 2 2 10
+p802
+aVCharles Hayes TOR 11/04/2014 TOR vs. OKC W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p803
+aVJonas Valanciunas TOR 11/04/2014 TOR vs. OKC W 13 6 2 5 40.0 0 0 - 2 2 100.0 2 0 2 1 0 1 0 2 -6
+p804
+aVLou Williams TOR 11/04/2014 TOR vs. OKC W 19 12 4 9 44.4 2 5 40.0 2 2 100.0 0 2 2 0 2 0 1 0 5
+p805
+aVGreg Stiemsma TOR 11/04/2014 TOR vs. OKC W 13 4 2 2 100.0 0 0 - 0 0 - 3 0 3 1 1 0 1 5 11
+p806
+aVDeMar DeRozan TOR 11/04/2014 TOR vs. OKC W 31 16 4 12 33.3 1 3 33.3 7 9 77.8 0 3 3 3 0 0 2 1 7
+p807
+aVGreivis Vasquez TOR 11/04/2014 TOR vs. OKC W 18 10 4 12 33.3 1 7 14.3 1 1 100.0 0 3 3 4 0 0 2 2 7
+p808
+aVKyle Lowry TOR 11/04/2014 TOR vs. OKC W 31 9 2 7 28.6 0 4 0.0 5 5 100.0 0 3 3 5 0 0 0 3 7
+p809
+aVTyler Hansbrough TOR 11/04/2014 TOR vs. OKC W 27 12 2 6 33.3 0 2 0.0 8 10 80.0 3 4 7 1 1 0 0 3 13
+p810
+aVPatrick Patterson TOR 11/02/2014 TOR @ MIA L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 3 -11
+p811
+aVDeMar DeRozan TOR 11/02/2014 TOR @ MIA L 41 30 11 22 50.0 1 1 100.0 7 12 58.3 1 2 3 1 4 0 2 1 -3
+p812
+aVJonas Valanciunas TOR 11/02/2014 TOR @ MIA L 29 14 6 12 50.0 0 0 - 2 2 100.0 3 5 8 2 0 2 0 4 -11
+p813
+aVLou Williams TOR 11/02/2014 TOR @ MIA L 21 8 1 4 25.0 0 2 0.0 6 10 60.0 0 0 0 1 0 0 1 3 15
+p814
+aVGreivis Vasquez TOR 11/02/2014 TOR @ MIA L 25 12 5 11 45.5 2 6 33.3 0 0 - 0 2 2 2 1 0 2 6 -1
+p815
+aVKyle Lowry TOR 11/02/2014 TOR @ MIA L 37 22 7 11 63.6 1 2 50.0 7 13 53.8 1 1 2 3 0 0 2 4 -13
+p816
+aVCharles Hayes TOR 11/02/2014 TOR @ MIA L 12 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 2 3
+p817
+aVTyler Hansbrough TOR 11/02/2014 TOR @ MIA L 24 2 1 1 100.0 0 0 - 0 0 - 2 4 6 0 1 0 0 2 9
+p818
+aVJames Johnson TOR 11/02/2014 TOR @ MIA L 20 8 4 6 66.7 0 1 0.0 0 0 - 0 3 3 0 0 3 1 2 0
+p819
+aVTerrence Ross TOR 11/02/2014 TOR @ MIA L 17 6 2 7 28.6 0 3 0.0 2 2 100.0 0 1 1 0 1 0 0 1 -13
+p820
+aVAmir Johnson TOR 11/01/2014 TOR @ ORL W 24 14 7 9 77.8 0 2 0.0 0 2 0.0 3 2 5 0 0 0 0 2 21
+p821
+aVLou Williams TOR 11/01/2014 TOR @ ORL W 17 5 0 3 0.0 0 0 - 5 5 100.0 1 1 2 2 0 0 1 1 -4
+p822
+aVGreivis Vasquez TOR 11/01/2014 TOR @ ORL W 18 6 1 9 11.1 0 4 0.0 4 4 100.0 0 1 1 2 1 0 0 1 -7
+p823
+aVJonas Valanciunas TOR 11/01/2014 TOR @ ORL W 25 10 2 8 25.0 0 0 - 6 8 75.0 3 8 11 1 0 2 2 3 18
+p824
+aVKyle Lowry TOR 11/01/2014 TOR @ ORL W 33 21 5 12 41.7 2 5 40.0 9 11 81.8 0 3 3 5 1 0 0 2 19
+p825
+aVTerrence Ross TOR 11/01/2014 TOR @ ORL W 29 10 3 7 42.9 2 5 40.0 2 2 100.0 1 2 3 0 1 1 1 3 17
+p826
+aVTyler Hansbrough TOR 11/01/2014 TOR @ ORL W 19 2 1 3 33.3 0 0 - 0 1 0.0 4 2 6 0 0 0 1 5 -3
+p827
+aVDeMar DeRozan TOR 11/01/2014 TOR @ ORL W 30 26 9 18 50.0 0 1 0.0 8 10 80.0 1 7 8 1 1 0 0 1 20
+p828
+aVPatrick Patterson TOR 11/01/2014 TOR @ ORL W 25 2 1 7 14.3 0 4 0.0 0 0 - 1 7 8 2 0 1 1 1 -5
+p829
+aVLandry Fields TOR 11/01/2014 TOR @ ORL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p830
+aVJames Johnson TOR 11/01/2014 TOR @ ORL W 19 12 4 6 66.7 0 0 - 4 5 80.0 1 2 3 0 0 0 1 2 -9
+p831
+aVGreivis Vasquez TOR 10/29/2014 TOR vs. ATL W 17 12 5 11 45.5 2 6 33.3 0 0 - 0 2 2 3 0 0 0 4 13
+p832
+aVJames Johnson TOR 10/29/2014 TOR vs. ATL W 14 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 2 2 1 2 0 2
+p833
+aVLou Williams TOR 10/29/2014 TOR vs. ATL W 15 8 3 8 37.5 1 4 25.0 1 1 100.0 1 0 1 1 0 0 1 1 6
+p834
+aVAmir Johnson TOR 10/29/2014 TOR vs. ATL W 31 16 7 15 46.7 0 0 - 2 2 100.0 5 5 10 2 0 4 0 2 1
+p835
+aVKyle Lowry TOR 10/29/2014 TOR vs. ATL W 34 11 3 11 27.3 0 3 0.0 5 7 71.4 3 3 6 10 3 1 0 3 -3
+p836
+aVDeMar DeRozan TOR 10/29/2014 TOR vs. ATL W 35 15 4 16 25.0 0 1 0.0 7 10 70.0 3 8 11 3 6 0 5 3 4
+p837
+aVTerrence Ross TOR 10/29/2014 TOR vs. ATL W 28 13 5 11 45.5 3 5 60.0 0 0 - 0 3 3 3 1 1 0 2 -1
+p838
+aVJonas Valanciunas TOR 10/29/2014 TOR vs. ATL W 21 17 4 5 80.0 0 0 - 9 10 90.0 3 5 8 0 0 1 1 3 3
+p839
+aVTyler Hansbrough TOR 10/29/2014 TOR vs. ATL W 20 5 2 2 100.0 0 0 - 1 1 100.0 1 1 2 0 0 1 0 3 -1
+p840
+aVPatrick Patterson TOR 10/29/2014 TOR vs. ATL W 24 10 4 9 44.4 2 7 28.6 0 0 - 0 5 5 2 1 0 0 1 11
+p841
+a.

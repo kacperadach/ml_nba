@@ -1,0 +1,1736 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKendrick Perkins BOS 04/19/2006 BOS vs. MIA W 28 4 1 11 9.1 0 0 - 2 2 100.0 2 4 6 1 0 3 2 4 -10
+p2
+aVMichael Olowokandi BOS 04/19/2006 BOS vs. MIA W 18 4 2 7 28.6 0 0 - 0 0 - 0 5 5 0 1 1 2 2 -8
+p3
+aVTony Allen BOS 04/19/2006 BOS vs. MIA W 25 17 5 11 45.5 0 2 0.0 7 8 87.5 1 1 2 0 1 1 3 3 7
+p4
+aVRaef LaFrentz BOS 04/19/2006 BOS vs. MIA W 19 2 1 5 20.0 0 3 0.0 0 0 - 1 10 11 1 1 0 1 0 4
+p5
+aVDwayne Jones BOS 04/19/2006 BOS vs. MIA W 28 7 2 4 50.0 0 0 - 3 4 75.0 5 5 10 1 1 0 0 4 16
+p6
+aVOrien Greene BOS 04/19/2006 BOS vs. MIA W 30 14 5 9 55.6 1 3 33.3 3 6 50.0 0 1 1 0 5 1 2 5 10
+p7
+aVBrian Scalabrine BOS 04/19/2006 BOS vs. MIA W 24 10 4 9 44.4 2 5 40.0 0 0 - 0 7 7 2 1 0 2 0 0
+p8
+aVGerald Green BOS 04/19/2006 BOS vs. MIA W 32 8 3 10 30.0 0 1 0.0 2 2 100.0 0 4 4 2 0 0 2 6 -3
+p9
+aVRyan Gomes BOS 04/19/2006 BOS vs. MIA W 36 19 4 9 44.4 1 1 100.0 10 10 100.0 1 4 5 3 0 0 2 0 19
+p10
+aVDwayne Jones BOS 04/17/2006 BOS vs. CLE L 30 2 0 2 0.0 0 0 - 2 2 100.0 3 10 13 1 0 1 1 5 16
+p11
+aVKendrick Perkins BOS 04/17/2006 BOS vs. CLE L 22 4 2 6 33.3 0 0 - 0 0 - 2 0 2 4 1 1 3 4 -28
+p12
+aVGerald Green BOS 04/17/2006 BOS vs. CLE L 41 17 8 19 42.1 0 4 0.0 1 1 100.0 1 4 5 2 1 1 4 1 -8
+p13
+aVBrian Scalabrine BOS 04/17/2006 BOS vs. CLE L 29 10 4 9 44.4 2 4 50.0 0 0 - 0 2 2 4 2 0 2 1 23
+p14
+aVOrien Greene BOS 04/17/2006 BOS vs. CLE L 26 14 5 7 71.4 2 2 100.0 2 2 100.0 0 2 2 2 2 1 1 1 16
+p15
+aVRaef LaFrentz BOS 04/17/2006 BOS vs. CLE L 18 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 1 1 1 1 4 -21
+p16
+aVRyan Gomes BOS 04/17/2006 BOS vs. CLE L 40 13 6 12 50.0 0 0 - 1 2 50.0 2 5 7 4 2 0 4 2 -15
+p17
+aVTony Allen BOS 04/17/2006 BOS vs. CLE L 34 23 10 12 83.3 0 1 0.0 3 11 27.3 1 3 4 3 3 0 5 2 -8
+p18
+aVDwayne Jones BOS 04/16/2006 BOS @ NJN L 4 2 1 1 100.0 0 0 - 0 1 0.0 0 3 3 0 0 0 0 0 7
+p19
+aVGerald Green BOS 04/16/2006 BOS @ NJN L 39 19 7 14 50.0 1 3 33.3 4 6 66.7 1 2 3 6 1 0 2 3 3
+p20
+aVMichael Olowokandi BOS 04/16/2006 BOS @ NJN L 15 6 2 3 66.7 0 0 - 2 4 50.0 0 3 3 1 0 0 2 1 -10
+p21
+aVBrian Scalabrine BOS 04/16/2006 BOS @ NJN L 29 14 5 9 55.6 3 4 75.0 1 2 50.0 2 2 4 2 1 0 0 1 2
+p22
+aVRaef LaFrentz BOS 04/16/2006 BOS @ NJN L 21 3 1 8 12.5 1 3 33.3 0 0 - 2 1 3 3 1 0 0 4 -4
+p23
+aVOrien Greene BOS 04/16/2006 BOS @ NJN L 23 8 3 9 33.3 0 0 - 2 2 100.0 1 4 5 4 1 0 5 4 2
+p24
+aVRyan Gomes BOS 04/16/2006 BOS @ NJN L 38 15 6 12 50.0 0 0 - 3 3 100.0 1 4 5 0 1 0 3 1 -7
+p25
+aVTony Allen BOS 04/16/2006 BOS @ NJN L 37 10 4 12 33.3 0 0 - 2 2 100.0 0 4 4 4 2 0 2 3 -4
+p26
+aVKendrick Perkins BOS 04/16/2006 BOS @ NJN L 34 16 7 8 87.5 0 0 - 2 2 100.0 3 6 9 3 0 0 4 5 1
+p27
+aVPaul Pierce BOS 04/14/2006 BOS vs. NJN L 36 22 5 16 31.3 1 5 20.0 11 17 64.7 0 6 6 2 0 0 4 1 -5
+p28
+aVRyan Gomes BOS 04/14/2006 BOS vs. NJN L 44 17 7 10 70.0 0 0 - 3 7 42.9 4 10 14 2 0 0 4 2 -4
+p29
+aVGerald Green BOS 04/14/2006 BOS vs. NJN L 27 8 3 10 30.0 0 1 0.0 2 2 100.0 1 2 3 1 2 0 1 3 -1
+p30
+aVRaef LaFrentz BOS 04/14/2006 BOS vs. NJN L 20 2 1 3 33.3 0 2 0.0 0 2 0.0 0 2 2 1 1 0 0 3 -4
+p31
+aVBrian Scalabrine BOS 04/14/2006 BOS vs. NJN L 18 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 2 0
+p32
+aVOrien Greene BOS 04/14/2006 BOS vs. NJN L 17 3 1 6 16.7 0 2 0.0 1 2 50.0 0 2 2 2 3 0 0 2 -3
+p33
+aVMichael Olowokandi BOS 04/14/2006 BOS vs. NJN L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p34
+aVTony Allen BOS 04/14/2006 BOS vs. NJN L 40 11 4 13 30.8 0 2 0.0 3 4 75.0 1 6 7 5 3 0 3 5 -3
+p35
+aVKendrick Perkins BOS 04/14/2006 BOS vs. NJN L 32 7 3 7 42.9 0 0 - 1 2 50.0 2 8 10 1 2 1 2 4 -6
+p36
+aVTony Allen BOS 04/12/2006 BOS @ IND L 27 9 4 6 66.7 0 0 - 1 2 50.0 0 1 1 5 5 1 0 4 4
+p37
+aVRaef LaFrentz BOS 04/12/2006 BOS @ IND L 30 16 5 9 55.6 5 7 71.4 1 2 50.0 0 3 3 4 0 2 2 4 7
+p38
+aVMichael Olowokandi BOS 04/12/2006 BOS @ IND L 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -1
+p39
+aVOrien Greene BOS 04/12/2006 BOS @ IND L 22 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 5 1 0 3 3 -8
+p40
+aVBrian Scalabrine BOS 04/12/2006 BOS @ IND L 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 5 -17
+p41
+aVGerald Green BOS 04/12/2006 BOS @ IND L 27 22 10 16 62.5 1 2 50.0 1 1 100.0 0 1 1 1 1 2 1 1 -10
+p42
+aVPaul Pierce BOS 04/12/2006 BOS @ IND L 38 30 11 17 64.7 1 3 33.3 7 9 77.8 0 1 1 3 0 0 2 3 2
+p43
+aVKendrick Perkins BOS 04/12/2006 BOS @ IND L 33 15 6 8 75.0 0 0 - 3 5 60.0 3 5 8 1 1 3 4 4 11
+p44
+aVRyan Gomes BOS 04/12/2006 BOS @ IND L 44 12 5 10 50.0 0 0 - 2 2 100.0 0 3 3 3 2 1 0 0 -13
+p45
+aVKendrick Perkins BOS 04/09/2006 BOS vs. NYK L 32 17 6 9 66.7 0 0 - 5 6 83.3 1 4 5 3 0 6 4 5 9
+p46
+aVOrien Greene BOS 04/09/2006 BOS vs. NYK L 19 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 4 0 0 3 -13
+p47
+aVMichael Olowokandi BOS 04/09/2006 BOS vs. NYK L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 2 2 -14
+p48
+aVTony Allen BOS 04/09/2006 BOS vs. NYK L 33 18 7 11 63.6 0 1 0.0 4 4 100.0 0 3 3 4 2 0 1 4 -6
+p49
+aVDwayne Jones BOS 04/09/2006 BOS vs. NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p50
+aVRyan Gomes BOS 04/09/2006 BOS vs. NYK L 26 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 3 0 0 1 2 -2
+p51
+aVPaul Pierce BOS 04/09/2006 BOS vs. NYK L 33 19 6 14 42.9 1 4 25.0 6 8 75.0 2 5 7 6 1 0 4 3 1
+p52
+aVGerald Green BOS 04/09/2006 BOS vs. NYK L 35 14 6 13 46.2 0 1 0.0 2 3 66.7 0 1 1 0 0 0 4 4 -26
+p53
+aVDelonte West BOS 04/09/2006 BOS vs. NYK L 9 2 0 1 0.0 0 1 0.0 2 2 100.0 0 3 3 1 1 0 0 1 6
+p54
+aVBrian Scalabrine BOS 04/09/2006 BOS vs. NYK L 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -7
+p55
+aVRaef LaFrentz BOS 04/09/2006 BOS vs. NYK L 23 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 2 0 0 0 1 -21
+p56
+aVBrian Scalabrine BOS 04/07/2006 BOS @ PHI W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -3
+p57
+aVOrien Greene BOS 04/07/2006 BOS @ PHI W 25 8 3 4 75.0 0 0 - 2 6 33.3 1 4 5 2 0 0 3 5 6
+p58
+aVRaef LaFrentz BOS 04/07/2006 BOS @ PHI W 29 12 4 7 57.1 3 5 60.0 1 2 50.0 1 6 7 0 0 1 0 5 18
+p59
+aVDelonte West BOS 04/07/2006 BOS @ PHI W 42 8 4 12 33.3 0 3 0.0 0 0 - 1 4 5 12 1 1 3 2 12
+p60
+aVRyan Gomes BOS 04/07/2006 BOS @ PHI W 26 11 5 10 50.0 0 0 - 1 2 50.0 3 2 5 0 0 0 3 2 0
+p61
+aVTony Allen BOS 04/07/2006 BOS @ PHI W 21 16 6 9 66.7 0 2 0.0 4 6 66.7 0 1 1 1 0 0 2 5 5
+p62
+aVKendrick Perkins BOS 04/07/2006 BOS @ PHI W 19 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 2 1 2 -10
+p63
+aVPaul Pierce BOS 04/07/2006 BOS @ PHI W 42 33 9 19 47.4 3 7 42.9 12 14 85.7 1 11 12 6 3 1 4 1 7
+p64
+aVGerald Green BOS 04/07/2006 BOS @ PHI W 25 17 6 9 66.7 3 4 75.0 2 2 100.0 1 0 1 0 0 0 1 0 15
+p65
+aVDwayne Jones BOS 04/05/2006 BOS vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p66
+aVBrian Scalabrine BOS 04/05/2006 BOS vs. WAS L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p67
+aVTony Allen BOS 04/05/2006 BOS vs. WAS L 22 14 5 9 55.6 1 2 50.0 3 3 100.0 0 2 2 0 2 0 3 4 -6
+p68
+aVRyan Gomes BOS 04/05/2006 BOS vs. WAS L 19 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 1 0 2 2 -14
+p69
+aVGerald Green BOS 04/05/2006 BOS vs. WAS L 15 8 2 6 33.3 0 1 0.0 4 4 100.0 1 1 2 0 1 0 0 0 -8
+p70
+aVWally Szczerbiak BOS 04/05/2006 BOS vs. WAS L 31 10 3 9 33.3 0 1 0.0 4 4 100.0 1 4 5 3 0 0 2 1 -22
+p71
+aVRaef LaFrentz BOS 04/05/2006 BOS vs. WAS L 25 2 1 8 12.5 0 4 0.0 0 0 - 1 5 6 1 0 1 1 1 -1
+p72
+aVOrien Greene BOS 04/05/2006 BOS vs. WAS L 13 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 -2
+p73
+aVPaul Pierce BOS 04/05/2006 BOS vs. WAS L 37 29 11 17 64.7 3 5 60.0 4 5 80.0 2 5 7 3 2 0 6 3 -15
+p74
+aVKendrick Perkins BOS 04/05/2006 BOS vs. WAS L 26 5 2 3 66.7 0 0 - 1 4 25.0 1 7 8 1 1 1 0 2 0
+p75
+aVDelonte West BOS 04/05/2006 BOS vs. WAS L 38 15 7 12 58.3 1 4 25.0 0 0 - 0 3 3 5 1 1 5 3 -15
+p76
+aVTony Allen BOS 04/04/2006 BOS @ TOR W 31 13 4 6 66.7 0 1 0.0 5 5 100.0 1 2 3 7 3 0 2 5 1
+p77
+aVWally Szczerbiak BOS 04/04/2006 BOS @ TOR W 34 22 6 9 66.7 3 5 60.0 7 7 100.0 0 1 1 3 1 0 1 0 10
+p78
+aVOrien Greene BOS 04/04/2006 BOS @ TOR W 16 6 2 2 100.0 1 1 100.0 1 2 50.0 0 0 0 1 0 1 2 2 -6
+p79
+aVBrian Scalabrine BOS 04/04/2006 BOS @ TOR W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 4 4 1 0 0 0 1 -8
+p80
+aVRyan Gomes BOS 04/04/2006 BOS @ TOR W 33 17 6 11 54.5 0 0 - 5 8 62.5 2 5 7 2 0 0 0 3 13
+p81
+aVGerald Green BOS 04/04/2006 BOS @ TOR W 15 11 4 7 57.1 0 1 0.0 3 4 75.0 0 1 1 2 1 1 2 0 8
+p82
+aVPaul Pierce BOS 04/04/2006 BOS @ TOR W 31 22 2 10 20.0 0 3 0.0 18 24 75.0 2 6 8 2 1 0 5 2 1
+p83
+aVDelonte West BOS 04/04/2006 BOS @ TOR W 28 6 2 8 25.0 2 5 40.0 0 0 - 1 2 3 6 0 0 1 0 2
+p84
+aVKendrick Perkins BOS 04/04/2006 BOS @ TOR W 16 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 1 3 4 1
+p85
+aVRaef LaFrentz BOS 04/04/2006 BOS @ TOR W 26 20 7 10 70.0 5 7 71.4 1 3 33.3 1 7 8 1 0 1 0 3 -2
+p86
+aVWally Szczerbiak BOS 04/01/2006 BOS @ CHI L 38 28 12 18 66.7 1 3 33.3 3 3 100.0 2 3 5 0 0 1 2 3 3
+p87
+aVDwayne Jones BOS 04/01/2006 BOS @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p88
+aVRaef LaFrentz BOS 04/01/2006 BOS @ CHI L 29 8 4 10 40.0 0 4 0.0 0 0 - 1 2 3 3 0 0 1 4 0
+p89
+aVPaul Pierce BOS 04/01/2006 BOS @ CHI L 38 18 4 17 23.5 0 4 0.0 10 11 90.9 1 6 7 9 1 0 2 5 -3
+p90
+aVTony Allen BOS 04/01/2006 BOS @ CHI L 28 10 5 7 71.4 0 0 - 0 1 0.0 1 1 2 0 2 2 1 3 -6
+p91
+aVOrien Greene BOS 04/01/2006 BOS @ CHI L 16 7 3 6 50.0 1 2 50.0 0 0 - 4 4 8 1 1 0 1 4 -2
+p92
+aVGerald Green BOS 04/01/2006 BOS @ CHI L 8 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 1 -3
+p93
+aVDelonte West BOS 04/01/2006 BOS @ CHI L 33 8 3 11 27.3 1 4 25.0 1 2 50.0 0 3 3 6 2 0 4 4 -16
+p94
+aVBrian Scalabrine BOS 04/01/2006 BOS @ CHI L 7 3 1 4 25.0 0 2 0.0 1 1 100.0 1 1 2 0 0 0 0 1 6
+p95
+aVKendrick Perkins BOS 04/01/2006 BOS @ CHI L 14 2 0 0 - 0 0 - 2 4 50.0 0 4 4 0 0 2 5 3 -4
+p96
+aVRyan Gomes BOS 04/01/2006 BOS @ CHI L 28 7 2 9 22.2 0 0 - 3 4 75.0 2 6 8 4 1 1 1 4 -3
+p97
+aVWally Szczerbiak BOS 03/29/2006 BOS @ NYK W 28 22 7 13 53.8 1 2 50.0 7 8 87.5 2 1 3 2 0 0 0 2 13
+p98
+aVBrian Scalabrine BOS 03/29/2006 BOS @ NYK W 20 2 1 2 50.0 0 1 0.0 0 0 - 2 2 4 3 2 1 2 4 1
+p99
+aVPaul Pierce BOS 03/29/2006 BOS @ NYK W 29 22 7 14 50.0 0 2 0.0 8 10 80.0 1 3 4 4 3 0 3 2 27
+p100
+aVTony Allen BOS 03/29/2006 BOS @ NYK W 23 14 4 8 50.0 1 2 50.0 5 7 71.4 0 1 1 1 2 0 4 4 9
+p101
+aVKendrick Perkins BOS 03/29/2006 BOS @ NYK W 26 5 2 5 40.0 0 0 - 1 2 50.0 2 10 12 2 1 3 3 4 12
+p102
+aVRyan Gomes BOS 03/29/2006 BOS @ NYK W 27 15 6 9 66.7 0 0 - 3 4 75.0 2 11 13 2 3 0 0 3 22
+p103
+aVDwayne Jones BOS 03/29/2006 BOS @ NYK W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -11
+p104
+aVDelonte West BOS 03/29/2006 BOS @ NYK W 39 21 8 11 72.7 1 3 33.3 4 4 100.0 0 3 3 6 1 0 4 3 35
+p105
+aVRaef LaFrentz BOS 03/29/2006 BOS @ NYK W 23 14 5 8 62.5 4 7 57.1 0 0 - 0 3 3 1 0 1 0 2 15
+p106
+aVGerald Green BOS 03/29/2006 BOS @ NYK W 19 8 4 5 80.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 2
+p107
+aVGerald Green BOS 03/26/2006 BOS vs. CHI L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p108
+aVRaef LaFrentz BOS 03/26/2006 BOS vs. CHI L 23 9 3 7 42.9 3 5 60.0 0 0 - 1 3 4 0 0 3 0 6 -7
+p109
+aVKendrick Perkins BOS 03/26/2006 BOS vs. CHI L 23 8 4 9 44.4 0 0 - 0 0 - 5 9 14 1 0 5 0 2 1
+p110
+aVDelonte West BOS 03/26/2006 BOS vs. CHI L 39 17 7 13 53.8 3 5 60.0 0 0 - 2 3 5 4 1 1 5 0 2
+p111
+aVRyan Gomes BOS 03/26/2006 BOS vs. CHI L 36 8 2 7 28.6 0 0 - 4 4 100.0 1 6 7 1 2 1 3 3 1
+p112
+aVWally Szczerbiak BOS 03/26/2006 BOS vs. CHI L 36 23 7 19 36.8 0 2 0.0 9 10 90.0 4 2 6 2 1 0 4 2 -12
+p113
+aVOrien Greene BOS 03/26/2006 BOS vs. CHI L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p114
+aVTony Allen BOS 03/26/2006 BOS vs. CHI L 14 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 2 0 0 1 4 0
+p115
+aVPaul Pierce BOS 03/26/2006 BOS vs. CHI L 42 24 8 21 38.1 2 6 33.3 6 6 100.0 1 7 8 8 0 1 4 4 6
+p116
+aVBrian Scalabrine BOS 03/26/2006 BOS vs. CHI L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -1
+p117
+aVDelonte West BOS 03/24/2006 BOS @ CLE L 42 14 6 13 46.2 2 4 50.0 0 0 - 2 5 7 7 0 0 2 2 -3
+p118
+aVGerald Green BOS 03/24/2006 BOS @ CLE L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -8
+p119
+aVBrian Scalabrine BOS 03/24/2006 BOS @ CLE L 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -8
+p120
+aVTony Allen BOS 03/24/2006 BOS @ CLE L 21 3 1 4 25.0 1 1 100.0 0 0 - 1 2 3 3 0 1 1 2 -12
+p121
+aVOrien Greene BOS 03/24/2006 BOS @ CLE L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -4
+p122
+aVKendrick Perkins BOS 03/24/2006 BOS @ CLE L 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -5
+p123
+aVPaul Pierce BOS 03/24/2006 BOS @ CLE L 38 24 6 20 30.0 4 6 66.7 8 9 88.9 0 5 5 5 1 2 4 2 -4
+p124
+aVRyan Gomes BOS 03/24/2006 BOS @ CLE L 30 9 3 12 25.0 0 0 - 3 3 100.0 5 10 15 1 0 0 1 1 -3
+p125
+aVWally Szczerbiak BOS 03/24/2006 BOS @ CLE L 35 13 5 13 38.5 1 4 25.0 2 2 100.0 1 2 3 2 0 0 4 1 -13
+p126
+aVRaef LaFrentz BOS 03/24/2006 BOS @ CLE L 27 11 4 7 57.1 3 5 60.0 0 0 - 0 6 6 1 0 1 1 3 0
+p127
+aVTony Allen BOS 03/22/2006 BOS vs. TOR W 20 11 2 5 40.0 0 0 - 7 8 87.5 1 1 2 1 2 0 0 1 3
+p128
+aVOrien Greene BOS 03/22/2006 BOS vs. TOR W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 2 0 3 3 6
+p129
+aVDelonte West BOS 03/22/2006 BOS vs. TOR W 36 21 8 12 66.7 3 6 50.0 2 2 100.0 0 6 6 5 1 0 1 2 8
+p130
+aVWally Szczerbiak BOS 03/22/2006 BOS vs. TOR W 32 19 7 9 77.8 1 2 50.0 4 5 80.0 0 2 2 5 0 0 2 0 12
+p131
+aVKendrick Perkins BOS 03/22/2006 BOS vs. TOR W 17 3 1 2 50.0 0 0 - 1 2 50.0 3 3 6 3 0 2 2 4 2
+p132
+aVBrian Scalabrine BOS 03/22/2006 BOS vs. TOR W 25 8 3 4 75.0 2 3 66.7 0 0 - 0 3 3 2 0 1 2 5 17
+p133
+aVRaef LaFrentz BOS 03/22/2006 BOS vs. TOR W 16 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 4 -4
+p134
+aVPaul Pierce BOS 03/22/2006 BOS vs. TOR W 36 32 9 18 50.0 2 6 33.3 12 17 70.6 0 8 8 4 0 0 5 1 10
+p135
+aVGerald Green BOS 03/22/2006 BOS vs. TOR W 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p136
+aVDwayne Jones BOS 03/22/2006 BOS vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p137
+aVRyan Gomes BOS 03/22/2006 BOS vs. TOR W 37 9 2 7 28.6 0 1 0.0 5 6 83.3 0 4 4 2 3 0 1 2 12
+p138
+aVAl Jefferson BOS 03/20/2006 BOS vs. LAL L 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 1 1 0 -9
+p139
+aVTony Allen BOS 03/20/2006 BOS vs. LAL L 29 18 5 11 45.5 0 2 0.0 8 9 88.9 2 0 2 3 2 4 3 4 -3
+p140
+aVDelonte West BOS 03/20/2006 BOS vs. LAL L 39 13 5 14 35.7 1 3 33.3 2 2 100.0 0 2 2 7 1 0 3 2 -3
+p141
+aVWally Szczerbiak BOS 03/20/2006 BOS vs. LAL L 39 15 6 14 42.9 2 6 33.3 1 1 100.0 0 3 3 2 1 0 2 0 -3
+p142
+aVRaef LaFrentz BOS 03/20/2006 BOS vs. LAL L 23 7 2 5 40.0 0 2 0.0 3 4 75.0 1 9 10 3 1 0 1 2 -7
+p143
+aVGerald Green BOS 03/20/2006 BOS vs. LAL L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p144
+aVKendrick Perkins BOS 03/20/2006 BOS vs. LAL L 16 5 2 4 50.0 0 0 - 1 1 100.0 3 5 8 3 1 3 0 3 3
+p145
+aVPaul Pierce BOS 03/20/2006 BOS vs. LAL L 37 26 8 19 42.1 2 8 25.0 8 11 72.7 2 7 9 2 1 1 5 6 1
+p146
+aVRyan Gomes BOS 03/20/2006 BOS vs. LAL L 30 8 4 9 44.4 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -8
+p147
+aVOrien Greene BOS 03/20/2006 BOS vs. LAL L 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -8
+p148
+aVOrien Greene BOS 03/19/2006 BOS @ IND W 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 2 0 0 2 0
+p149
+aVRaef LaFrentz BOS 03/19/2006 BOS @ IND W 28 7 2 4 50.0 1 3 33.3 2 2 100.0 1 4 5 1 0 1 1 3 2
+p150
+aVWally Szczerbiak BOS 03/19/2006 BOS @ IND W 35 16 6 10 60.0 0 0 - 4 5 80.0 0 4 4 3 0 0 2 2 14
+p151
+aVTony Allen BOS 03/19/2006 BOS @ IND W 11 14 4 5 80.0 1 2 50.0 5 6 83.3 0 0 0 1 1 0 0 1 11
+p152
+aVDelonte West BOS 03/19/2006 BOS @ IND W 40 16 8 13 61.5 0 0 - 0 0 - 1 1 2 5 3 1 0 2 8
+p153
+aVKendrick Perkins BOS 03/19/2006 BOS @ IND W 17 7 3 5 60.0 0 0 - 1 3 33.3 0 5 5 2 0 3 2 5 10
+p154
+aVAl Jefferson BOS 03/19/2006 BOS @ IND W 18 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 1 0 2 2 11
+p155
+aVRyan Gomes BOS 03/19/2006 BOS @ IND W 29 11 3 7 42.9 0 0 - 5 6 83.3 2 5 7 0 1 1 0 2 3
+p156
+aVGerald Green BOS 03/19/2006 BOS @ IND W 9 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 8
+p157
+aVPaul Pierce BOS 03/19/2006 BOS @ IND W 39 22 9 20 45.0 1 3 33.3 3 6 50.0 0 6 6 6 0 0 4 3 8
+p158
+aVWally Szczerbiak BOS 03/17/2006 BOS @ ORL L 38 16 5 10 50.0 0 1 0.0 6 6 100.0 3 1 4 1 0 0 2 4 -16
+p159
+aVRaef LaFrentz BOS 03/17/2006 BOS @ ORL L 28 9 4 9 44.4 1 4 25.0 0 0 - 2 7 9 3 0 1 2 4 -10
+p160
+aVDelonte West BOS 03/17/2006 BOS @ ORL L 26 7 3 12 25.0 1 5 20.0 0 0 - 1 2 3 5 1 0 2 3 -5
+p161
+aVTony Allen BOS 03/17/2006 BOS @ ORL L 17 8 3 8 37.5 0 1 0.0 2 2 100.0 4 2 6 1 0 0 1 0 6
+p162
+aVOrien Greene BOS 03/17/2006 BOS @ ORL L 23 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 2 0 3 3 -3
+p163
+aVAl Jefferson BOS 03/17/2006 BOS @ ORL L 15 3 1 7 14.3 0 0 - 1 1 100.0 2 2 4 0 0 0 1 2 -2
+p164
+aVRyan Gomes BOS 03/17/2006 BOS @ ORL L 29 7 3 6 50.0 0 0 - 1 1 100.0 0 5 5 0 1 0 1 4 -2
+p165
+aVKendrick Perkins BOS 03/17/2006 BOS @ ORL L 21 6 1 4 25.0 0 0 - 4 6 66.7 4 3 7 1 0 1 2 5 3
+p166
+aVBrian Scalabrine BOS 03/17/2006 BOS @ ORL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p167
+aVPaul Pierce BOS 03/17/2006 BOS @ ORL L 41 19 5 18 27.8 0 3 0.0 9 10 90.0 1 6 7 5 1 0 5 2 -5
+p168
+aVGerald Green BOS 03/17/2006 BOS @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p169
+aVTony Allen BOS 03/16/2006 BOS @ MIA L 13 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 0 2 0 0 1 -11
+p170
+aVRyan Gomes BOS 03/16/2006 BOS @ MIA L 39 11 5 7 71.4 0 0 - 1 2 50.0 4 7 11 1 1 0 3 3 5
+p171
+aVBrian Scalabrine BOS 03/16/2006 BOS @ MIA L 3 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -5
+p172
+aVRaef LaFrentz BOS 03/16/2006 BOS @ MIA L 22 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 4 0 0 2 6 20
+p173
+aVOrien Greene BOS 03/16/2006 BOS @ MIA L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 3
+p174
+aVWally Szczerbiak BOS 03/16/2006 BOS @ MIA L 38 30 13 18 72.2 2 3 66.7 2 2 100.0 0 1 1 1 0 0 1 1 2
+p175
+aVPaul Pierce BOS 03/16/2006 BOS @ MIA L 42 34 12 26 46.2 4 8 50.0 6 9 66.7 1 3 4 8 3 0 3 1 -2
+p176
+aVAl Jefferson BOS 03/16/2006 BOS @ MIA L 14 2 0 4 0.0 0 0 - 2 4 50.0 0 2 2 0 0 0 0 3 -16
+p177
+aVKendrick Perkins BOS 03/16/2006 BOS @ MIA L 18 6 3 5 60.0 0 0 - 0 0 - 1 5 6 1 1 0 1 5 -10
+p178
+aVDelonte West BOS 03/16/2006 BOS @ MIA L 42 15 6 13 46.2 1 4 25.0 2 3 66.7 0 3 3 5 2 0 2 4 -1
+p179
+aVDwayne Jones BOS 03/14/2006 BOS @ MEM L 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p180
+aVDelonte West BOS 03/14/2006 BOS @ MEM L 29 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 1 1 0 2 1 -25
+p181
+aVPaul Pierce BOS 03/14/2006 BOS @ MEM L 34 15 6 14 42.9 2 3 66.7 1 1 100.0 0 2 2 3 1 2 5 2 -21
+p182
+aVBrian Scalabrine BOS 03/14/2006 BOS @ MEM L 10 3 1 1 100.0 1 1 100.0 0 0 - 2 0 2 3 0 0 0 0 3
+p183
+aVRaef LaFrentz BOS 03/14/2006 BOS @ MEM L 25 10 4 8 50.0 2 5 40.0 0 0 - 1 2 3 0 1 2 1 4 -18
+p184
+aVKendrick Perkins BOS 03/14/2006 BOS @ MEM L 26 9 3 9 33.3 0 0 - 3 3 100.0 0 3 3 1 1 1 1 2 -1
+p185
+aVOrien Greene BOS 03/14/2006 BOS @ MEM L 22 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 4 1 1 1 4 4
+p186
+aVWally Szczerbiak BOS 03/14/2006 BOS @ MEM L 33 18 6 13 46.2 4 6 66.7 2 2 100.0 0 3 3 5 0 0 3 2 -10
+p187
+aVRyan Gomes BOS 03/14/2006 BOS @ MEM L 20 4 2 6 33.3 0 0 - 0 0 - 2 4 6 1 0 0 0 2 -16
+p188
+aVGerald Green BOS 03/14/2006 BOS @ MEM L 5 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p189
+aVTony Allen BOS 03/14/2006 BOS @ MEM L 21 6 1 6 16.7 1 2 50.0 3 4 75.0 1 0 1 1 1 0 0 3 3
+p190
+aVAl Jefferson BOS 03/14/2006 BOS @ MEM L 13 3 1 1 100.0 0 0 - 1 1 100.0 1 3 4 0 0 1 1 6 -2
+p191
+aVKendrick Perkins BOS 03/12/2006 BOS vs. DEN W 22 7 2 4 50.0 0 1 0.0 3 4 75.0 0 6 6 1 0 1 2 3 4
+p192
+aVDelonte West BOS 03/12/2006 BOS vs. DEN W 31 12 6 13 46.2 0 4 0.0 0 0 - 0 2 2 5 1 0 2 3 3
+p193
+aVPaul Pierce BOS 03/12/2006 BOS vs. DEN W 37 36 15 23 65.2 1 4 25.0 5 8 62.5 0 1 1 4 3 0 3 3 9
+p194
+aVOrien Greene BOS 03/12/2006 BOS vs. DEN W 21 6 3 4 75.0 0 0 - 0 0 - 0 1 1 3 0 0 2 2 -2
+p195
+aVWally Szczerbiak BOS 03/12/2006 BOS vs. DEN W 40 18 7 15 46.7 2 7 28.6 2 2 100.0 1 4 5 5 4 0 1 1 1
+p196
+aVRaef LaFrentz BOS 03/12/2006 BOS vs. DEN W 20 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 4 0 0 0 5 9
+p197
+aVRyan Gomes BOS 03/12/2006 BOS vs. DEN W 29 11 5 10 50.0 0 0 - 1 2 50.0 2 9 11 0 1 0 2 1 2
+p198
+aVAl Jefferson BOS 03/12/2006 BOS vs. DEN W 23 6 1 4 25.0 0 0 - 4 6 66.7 4 1 5 3 0 1 1 4 -4
+p199
+aVGerald Green BOS 03/12/2006 BOS vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p200
+aVTony Allen BOS 03/12/2006 BOS vs. DEN W 16 10 3 5 60.0 2 2 100.0 2 2 100.0 1 1 2 0 0 0 1 2 1
+p201
+aVOrien Greene BOS 03/10/2006 BOS vs. MIL L 39 4 2 6 33.3 0 2 0.0 0 0 - 0 4 4 5 3 0 2 3 -9
+p202
+aVWally Szczerbiak BOS 03/10/2006 BOS vs. MIL L 37 18 6 15 40.0 2 5 40.0 4 4 100.0 1 4 5 4 0 0 1 5 -6
+p203
+aVPaul Pierce BOS 03/10/2006 BOS vs. MIL L 43 24 6 12 50.0 0 3 0.0 12 17 70.6 0 3 3 8 0 1 1 3 -11
+p204
+aVGerald Green BOS 03/10/2006 BOS vs. MIL L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 2 0 0 3 3
+p205
+aVTony Allen BOS 03/10/2006 BOS vs. MIL L 19 6 1 4 25.0 0 0 - 4 4 100.0 1 3 4 0 0 1 0 2 3
+p206
+aVRyan Gomes BOS 03/10/2006 BOS vs. MIL L 35 12 6 15 40.0 0 0 - 0 0 - 2 3 5 1 2 0 0 2 -15
+p207
+aVAl Jefferson BOS 03/10/2006 BOS vs. MIL L 16 9 4 9 44.4 0 1 0.0 1 1 100.0 2 3 5 1 0 2 1 2 -2
+p208
+aVRaef LaFrentz BOS 03/10/2006 BOS vs. MIL L 31 8 2 9 22.2 2 7 28.6 2 2 100.0 0 8 8 2 0 2 0 3 -2
+p209
+aVBrian Scalabrine BOS 03/10/2006 BOS vs. MIL L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 1 1 1 9
+p210
+aVTony Allen BOS 03/08/2006 BOS vs. PHI W 20 9 2 5 40.0 1 1 100.0 4 4 100.0 0 2 2 0 2 1 0 2 9
+p211
+aVAl Jefferson BOS 03/08/2006 BOS vs. PHI W 19 6 3 7 42.9 0 0 - 0 0 - 0 4 4 0 1 0 2 3 1
+p212
+aVRaef LaFrentz BOS 03/08/2006 BOS vs. PHI W 28 6 2 7 28.6 2 6 33.3 0 0 - 2 6 8 6 0 1 0 5 -1
+p213
+aVWally Szczerbiak BOS 03/08/2006 BOS vs. PHI W 40 12 5 17 29.4 2 5 40.0 0 0 - 2 5 7 6 2 0 2 2 0
+p214
+aVRyan Gomes BOS 03/08/2006 BOS vs. PHI W 42 29 11 18 61.1 0 0 - 7 8 87.5 5 6 11 3 2 0 2 2 9
+p215
+aVPaul Pierce BOS 03/08/2006 BOS vs. PHI W 44 31 9 18 50.0 2 4 50.0 11 13 84.6 1 11 12 10 0 3 4 4 9
+p216
+aVGerald Green BOS 03/08/2006 BOS vs. PHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p217
+aVBrian Scalabrine BOS 03/08/2006 BOS vs. PHI W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -4
+p218
+aVOrien Greene BOS 03/08/2006 BOS vs. PHI W 39 11 4 9 44.4 0 2 0.0 3 3 100.0 0 1 1 2 3 1 5 6 -7
+p219
+aVOrien Greene BOS 03/07/2006 BOS @ WAS W 25 7 3 7 42.9 1 2 50.0 0 0 - 0 4 4 3 2 0 3 5 -3
+p220
+aVRaef LaFrentz BOS 03/07/2006 BOS @ WAS W 37 9 3 6 50.0 1 2 50.0 2 2 100.0 2 10 12 0 0 3 1 2 9
+p221
+aVPaul Pierce BOS 03/07/2006 BOS @ WAS W 42 31 8 20 40.0 3 7 42.9 12 14 85.7 1 4 5 4 1 0 7 4 -7
+p222
+aVAl Jefferson BOS 03/07/2006 BOS @ WAS W 15 12 4 10 40.0 0 1 0.0 4 4 100.0 1 3 4 0 1 0 2 3 -6
+p223
+aVBrian Scalabrine BOS 03/07/2006 BOS @ WAS W 18 0 0 2 0.0 0 1 0.0 0 0 - 0 5 5 4 1 0 2 2 -4
+p224
+aVWally Szczerbiak BOS 03/07/2006 BOS @ WAS W 42 23 10 16 62.5 1 4 25.0 2 4 50.0 3 2 5 4 1 0 1 1 14
+p225
+aVTony Allen BOS 03/07/2006 BOS @ WAS W 29 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 3 0 0 5 4 2
+p226
+aVRyan Gomes BOS 03/07/2006 BOS @ WAS W 38 27 9 14 64.3 1 2 50.0 8 9 88.9 4 5 9 5 0 0 1 3 2
+p227
+aVMichael Olowokandi BOS 03/07/2006 BOS @ WAS W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 8
+p228
+aVGerald Green BOS 03/07/2006 BOS @ WAS W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 2 3 -10
+p229
+aVGerald Green BOS 03/05/2006 BOS @ TOR L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 8
+p230
+aVDwayne Jones BOS 03/05/2006 BOS @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p231
+aVRyan Gomes BOS 03/05/2006 BOS @ TOR L 33 15 7 9 77.8 0 0 - 1 1 100.0 1 4 5 1 0 0 1 1 -1
+p232
+aVOrien Greene BOS 03/05/2006 BOS @ TOR L 36 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 4 3 0 2 5 0
+p233
+aVPaul Pierce BOS 03/05/2006 BOS @ TOR L 39 33 12 21 57.1 1 3 33.3 8 8 100.0 2 5 7 5 0 0 6 4 -8
+p234
+aVWally Szczerbiak BOS 03/05/2006 BOS @ TOR L 37 23 7 13 53.8 1 3 33.3 8 9 88.9 2 4 6 4 1 0 1 1 -16
+p235
+aVDelonte West BOS 03/05/2006 BOS @ TOR L 10 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 3 0 0 0 1 -2
+p236
+aVBrian Scalabrine BOS 03/05/2006 BOS @ TOR L 13 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 5 -7
+p237
+aVRaef LaFrentz BOS 03/05/2006 BOS @ TOR L 29 7 3 7 42.9 1 3 33.3 0 0 - 0 5 5 4 1 1 1 5 -7
+p238
+aVTony Allen BOS 03/05/2006 BOS @ TOR L 22 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 2 4 7
+p239
+aVAl Jefferson BOS 03/05/2006 BOS @ TOR L 16 13 6 11 54.5 0 0 - 1 1 100.0 0 3 3 0 0 0 1 3 -6
+p240
+aVRyan Gomes BOS 03/03/2006 BOS vs. IND W 33 13 5 10 50.0 0 0 - 3 4 75.0 4 2 6 1 1 1 1 3 6
+p241
+aVDelonte West BOS 03/03/2006 BOS vs. IND W 45 17 7 12 58.3 2 2 100.0 1 1 100.0 0 4 4 7 3 0 3 3 1
+p242
+aVPaul Pierce BOS 03/03/2006 BOS vs. IND W 40 31 13 25 52.0 2 3 66.7 3 8 37.5 0 4 4 8 3 0 2 1 0
+p243
+aVRaef LaFrentz BOS 03/03/2006 BOS vs. IND W 34 11 4 10 40.0 2 4 50.0 1 2 50.0 2 9 11 7 0 1 2 5 9
+p244
+aVOrien Greene BOS 03/03/2006 BOS vs. IND W 25 5 2 3 66.7 0 1 0.0 1 4 25.0 1 2 3 3 1 0 1 3 12
+p245
+aVGerald Green BOS 03/03/2006 BOS vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p246
+aVTony Allen BOS 03/03/2006 BOS vs. IND W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p247
+aVBrian Scalabrine BOS 03/03/2006 BOS vs. IND W 12 4 1 2 50.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 1 3 -7
+p248
+aVAl Jefferson BOS 03/03/2006 BOS vs. IND W 13 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 2 -4
+p249
+aVWally Szczerbiak BOS 03/03/2006 BOS vs. IND W 35 13 5 13 38.5 1 4 25.0 2 2 100.0 1 2 3 1 0 0 1 2 -8
+p250
+aVAl Jefferson BOS 03/01/2006 BOS vs. MIA L 12 7 2 4 50.0 0 0 - 3 3 100.0 0 5 5 0 0 0 2 3 -4
+p251
+aVRyan Gomes BOS 03/01/2006 BOS vs. MIA L 39 9 4 7 57.1 0 0 - 1 2 50.0 2 6 8 5 0 0 3 2 -4
+p252
+aVMichael Olowokandi BOS 03/01/2006 BOS vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p253
+aVTony Allen BOS 03/01/2006 BOS vs. MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p254
+aVWally Szczerbiak BOS 03/01/2006 BOS vs. MIA L 39 12 5 10 50.0 2 4 50.0 0 0 - 2 4 6 4 1 0 2 4 -1
+p255
+aVDelonte West BOS 03/01/2006 BOS vs. MIA L 41 20 8 15 53.3 4 9 44.4 0 0 - 1 2 3 3 1 0 1 3 -7
+p256
+aVOrien Greene BOS 03/01/2006 BOS vs. MIA L 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 1 0 1 2 -5
+p257
+aVRaef LaFrentz BOS 03/01/2006 BOS vs. MIA L 35 8 3 7 42.9 2 3 66.7 0 0 - 1 7 8 2 1 0 1 5 -3
+p258
+aVPaul Pierce BOS 03/01/2006 BOS vs. MIA L 46 38 10 22 45.5 2 6 33.3 16 18 88.9 1 5 6 3 2 0 2 3 -3
+p259
+aVBrian Scalabrine BOS 03/01/2006 BOS vs. MIA L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p260
+aVOrien Greene BOS 02/26/2006 BOS @ LAL W 13 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 -9
+p261
+aVBrian Scalabrine BOS 02/26/2006 BOS @ LAL W 15 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 1 0 0 1 3 -8
+p262
+aVRyan Gomes BOS 02/26/2006 BOS @ LAL W 44 19 8 10 80.0 0 0 - 3 5 60.0 5 7 12 1 1 0 0 2 4
+p263
+aVPaul Pierce BOS 02/26/2006 BOS @ LAL W 41 39 12 20 60.0 1 2 50.0 14 21 66.7 1 6 7 4 2 0 6 5 3
+p264
+aVWally Szczerbiak BOS 02/26/2006 BOS @ LAL W 44 16 4 12 33.3 3 5 60.0 5 5 100.0 0 0 0 3 0 0 0 5 5
+p265
+aVRaef LaFrentz BOS 02/26/2006 BOS @ LAL W 34 6 2 6 33.3 0 3 0.0 2 2 100.0 2 5 7 3 0 1 0 4 9
+p266
+aVTony Allen BOS 02/26/2006 BOS @ LAL W 13 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 3 -9
+p267
+aVDelonte West BOS 02/26/2006 BOS @ LAL W 36 19 8 16 50.0 1 4 25.0 2 3 66.7 2 2 4 10 2 0 3 6 10
+p268
+aVPaul Pierce BOS 02/24/2006 BOS @ POR W 40 37 14 25 56.0 2 4 50.0 7 8 87.5 1 6 7 7 0 1 3 2 6
+p269
+aVTony Allen BOS 02/24/2006 BOS @ POR W 11 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 1 0 1 2 -3
+p270
+aVDelonte West BOS 02/24/2006 BOS @ POR W 37 2 1 6 16.7 0 3 0.0 0 0 - 1 3 4 0 0 1 1 1 7
+p271
+aVMichael Olowokandi BOS 02/24/2006 BOS @ POR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p272
+aVRaef LaFrentz BOS 02/24/2006 BOS @ POR W 26 9 4 8 50.0 1 3 33.3 0 0 - 1 4 5 0 0 0 2 5 9
+p273
+aVOrien Greene BOS 02/24/2006 BOS @ POR W 18 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 4 2 0 1 1 5
+p274
+aVGerald Green BOS 02/24/2006 BOS @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p275
+aVWally Szczerbiak BOS 02/24/2006 BOS @ POR W 39 25 8 19 42.1 3 5 60.0 6 8 75.0 1 2 3 3 0 1 3 1 -1
+p276
+aVBrian Scalabrine BOS 02/24/2006 BOS @ POR W 20 6 2 2 100.0 2 2 100.0 0 0 - 1 1 2 2 0 0 0 2 4
+p277
+aVRyan Gomes BOS 02/24/2006 BOS @ POR W 41 13 5 8 62.5 0 0 - 3 6 50.0 7 10 17 4 2 0 1 3 10
+p278
+aVDwayne Jones BOS 02/24/2006 BOS @ POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p279
+aVPaul Pierce BOS 02/22/2006 BOS @ PHX L 38 20 8 28 28.6 0 6 0.0 4 8 50.0 2 5 7 6 1 1 5 0 -22
+p280
+aVRyan Gomes BOS 02/22/2006 BOS @ PHX L 26 11 4 11 36.4 0 0 - 3 4 75.0 5 5 10 0 1 0 0 0 -7
+p281
+aVRaef LaFrentz BOS 02/22/2006 BOS @ PHX L 28 2 1 7 14.3 0 3 0.0 0 0 - 3 9 12 0 0 4 1 4 -9
+p282
+aVDelonte West BOS 02/22/2006 BOS @ PHX L 43 30 12 22 54.5 4 8 50.0 2 2 100.0 2 1 3 5 2 1 1 4 -1
+p283
+aVGerald Green BOS 02/22/2006 BOS @ PHX L 24 13 5 8 62.5 1 2 50.0 2 2 100.0 1 8 9 1 0 0 0 2 10
+p284
+aVBrian Scalabrine BOS 02/22/2006 BOS @ PHX L 21 6 2 6 33.3 2 4 50.0 0 0 - 1 2 3 2 1 0 0 3 -2
+p285
+aVMichael Olowokandi BOS 02/22/2006 BOS @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -7
+p286
+aVOrien Greene BOS 02/22/2006 BOS @ PHX L 25 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 2 1 1
+p287
+aVTony Allen BOS 02/22/2006 BOS @ PHX L 29 8 3 4 75.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 1 5 -8
+p288
+aVTony Allen BOS 02/21/2006 BOS @ UTA W 28 8 3 5 60.0 1 1 100.0 1 4 25.0 0 2 2 1 1 0 1 4 25
+p289
+aVDwayne Jones BOS 02/21/2006 BOS @ UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p290
+aVDelonte West BOS 02/21/2006 BOS @ UTA W 43 22 8 13 61.5 4 5 80.0 2 2 100.0 0 7 7 7 0 0 3 3 23
+p291
+aVMichael Olowokandi BOS 02/21/2006 BOS @ UTA W 24 12 5 7 71.4 0 0 - 2 2 100.0 2 9 11 0 1 2 2 3 25
+p292
+aVRyan Gomes BOS 02/21/2006 BOS @ UTA W 38 13 4 7 57.1 0 0 - 5 8 62.5 0 3 3 0 1 0 0 2 16
+p293
+aVGerald Green BOS 02/21/2006 BOS @ UTA W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p294
+aVWally Szczerbiak BOS 02/21/2006 BOS @ UTA W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 -5
+p295
+aVBrian Scalabrine BOS 02/21/2006 BOS @ UTA W 30 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 1 1 1 3 6
+p296
+aVOrien Greene BOS 02/21/2006 BOS @ UTA W 20 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 0 2 1 5 5 5
+p297
+aVRaef LaFrentz BOS 02/21/2006 BOS @ UTA W 18 5 2 5 40.0 1 3 33.3 0 0 - 0 7 7 3 0 0 1 4 3
+p298
+aVPaul Pierce BOS 02/21/2006 BOS @ UTA W 31 30 10 15 66.7 1 1 100.0 9 11 81.8 0 2 2 4 1 0 2 5 6
+p299
+aVPaul Pierce BOS 02/15/2006 BOS vs. CLE L 54 50 17 36 47.2 0 4 0.0 16 20 80.0 0 7 7 8 0 0 4 6 -1
+p300
+aVMichael Olowokandi BOS 02/15/2006 BOS vs. CLE L 9 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 2 0 0 -5
+p301
+aVGerald Green BOS 02/15/2006 BOS vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p302
+aVRyan Gomes BOS 02/15/2006 BOS vs. CLE L 46 14 6 7 85.7 0 0 - 2 2 100.0 2 3 5 0 0 0 2 6 0
+p303
+aVTony Allen BOS 02/15/2006 BOS vs. CLE L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 3 1 -5
+p304
+aVWally Szczerbiak BOS 02/15/2006 BOS vs. CLE L 43 17 7 19 36.8 0 3 0.0 3 4 75.0 2 3 5 3 2 0 0 1 3
+p305
+aVDelonte West BOS 02/15/2006 BOS vs. CLE L 50 15 5 12 41.7 0 4 0.0 5 5 100.0 0 10 10 8 0 3 2 4 -10
+p306
+aVRaef LaFrentz BOS 02/15/2006 BOS vs. CLE L 28 6 2 4 50.0 1 2 50.0 1 2 50.0 3 4 7 1 0 1 1 5 -2
+p307
+aVOrien Greene BOS 02/15/2006 BOS vs. CLE L 20 5 2 5 40.0 1 1 100.0 0 0 - 1 3 4 0 1 0 0 4 0
+p308
+aVBrian Scalabrine BOS 02/15/2006 BOS vs. CLE L 33 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 4 1
+p309
+aVOrien Greene BOS 02/12/2006 BOS vs. ORL W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p310
+aVWally Szczerbiak BOS 02/12/2006 BOS vs. ORL W 46 24 9 13 69.2 2 3 66.7 4 4 100.0 1 4 5 5 1 0 1 2 10
+p311
+aVRaef LaFrentz BOS 02/12/2006 BOS vs. ORL W 30 16 5 9 55.6 4 5 80.0 2 3 66.7 0 2 2 2 1 0 1 6 12
+p312
+aVPaul Pierce BOS 02/12/2006 BOS vs. ORL W 46 31 10 21 47.6 0 1 0.0 11 14 78.6 1 3 4 4 1 0 3 4 5
+p313
+aVBrian Scalabrine BOS 02/12/2006 BOS vs. ORL W 16 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 2 -1
+p314
+aVDwayne Jones BOS 02/12/2006 BOS vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p315
+aVDelonte West BOS 02/12/2006 BOS vs. ORL W 41 14 4 8 50.0 3 3 100.0 3 4 75.0 0 1 1 9 2 1 3 1 12
+p316
+aVTony Allen BOS 02/12/2006 BOS vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p317
+aVRyan Gomes BOS 02/12/2006 BOS vs. ORL W 44 14 4 8 50.0 0 0 - 6 6 100.0 3 6 9 0 2 0 1 3 7
+p318
+aVMichael Olowokandi BOS 02/12/2006 BOS vs. ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 2
+p319
+aVOrien Greene BOS 02/10/2006 BOS vs. POR W 22 10 3 8 37.5 0 1 0.0 4 4 100.0 2 1 3 4 2 0 2 2 11
+p320
+aVWally Szczerbiak BOS 02/10/2006 BOS vs. POR W 32 21 6 13 46.2 2 4 50.0 7 8 87.5 0 2 2 5 1 0 0 1 27
+p321
+aVTony Allen BOS 02/10/2006 BOS vs. POR W 14 7 3 6 50.0 0 1 0.0 1 1 100.0 1 2 3 0 0 0 2 0 4
+p322
+aVBrian Scalabrine BOS 02/10/2006 BOS vs. POR W 25 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 2 2 2 1 5 20
+p323
+aVRyan Gomes BOS 02/10/2006 BOS vs. POR W 36 4 2 4 50.0 0 0 - 0 0 - 4 5 9 1 0 0 3 2 30
+p324
+aVGerald Green BOS 02/10/2006 BOS vs. POR W 10 4 1 1 100.0 0 0 - 2 4 50.0 1 0 1 1 0 0 0 2 -1
+p325
+aVRaef LaFrentz BOS 02/10/2006 BOS vs. POR W 24 18 6 7 85.7 5 6 83.3 1 2 50.0 2 2 4 1 1 0 0 5 8
+p326
+aVDwayne Jones BOS 02/10/2006 BOS vs. POR W 10 3 1 1 100.0 0 0 - 1 4 25.0 2 2 4 0 0 1 1 3 1
+p327
+aVDelonte West BOS 02/10/2006 BOS vs. POR W 34 9 3 7 42.9 0 3 0.0 3 4 75.0 4 4 8 4 2 1 3 3 28
+p328
+aVPaul Pierce BOS 02/10/2006 BOS vs. POR W 33 35 13 20 65.0 3 6 50.0 6 8 75.0 0 1 1 4 6 0 4 2 32
+p329
+aVMichael Olowokandi BOS 02/06/2006 BOS @ MIA L 21 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 0 2 5 -24
+p330
+aVRyan Gomes BOS 02/06/2006 BOS @ MIA L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p331
+aVRaef LaFrentz BOS 02/06/2006 BOS @ MIA L 26 18 7 9 77.8 2 3 66.7 2 2 100.0 1 2 3 1 1 0 0 4 -5
+p332
+aVDelonte West BOS 02/06/2006 BOS @ MIA L 35 8 3 9 33.3 1 5 20.0 1 2 50.0 2 2 4 4 0 0 2 3 -12
+p333
+aVGerald Green BOS 02/06/2006 BOS @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p334
+aVTony Allen BOS 02/06/2006 BOS @ MIA L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 2 2 -3
+p335
+aVKendrick Perkins BOS 02/06/2006 BOS @ MIA L 24 7 2 6 33.3 0 0 - 3 4 75.0 2 11 13 1 0 0 0 5 8
+p336
+aVPaul Pierce BOS 02/06/2006 BOS @ MIA L 40 31 8 21 38.1 1 4 25.0 14 16 87.5 1 3 4 4 1 0 2 1 -18
+p337
+aVBrian Scalabrine BOS 02/06/2006 BOS @ MIA L 19 10 2 3 66.7 1 2 50.0 5 6 83.3 2 2 4 1 0 1 1 2 -12
+p338
+aVWally Szczerbiak BOS 02/06/2006 BOS @ MIA L 40 16 5 15 33.3 1 4 25.0 5 7 71.4 1 0 1 0 0 0 3 1 -12
+p339
+aVOrien Greene BOS 02/06/2006 BOS @ MIA L 14 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 3 -7
+p340
+aVBrian Scalabrine BOS 02/04/2006 BOS @ ORL L 18 8 2 4 50.0 2 4 50.0 2 2 100.0 0 1 1 1 0 0 1 0 -4
+p341
+aVGerald Green BOS 02/04/2006 BOS @ ORL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p342
+aVTony Allen BOS 02/04/2006 BOS @ ORL L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -11
+p343
+aVKendrick Perkins BOS 02/04/2006 BOS @ ORL L 38 7 3 7 42.9 0 0 - 1 2 50.0 4 6 10 0 1 6 1 3 -7
+p344
+aVRaef LaFrentz BOS 02/04/2006 BOS @ ORL L 21 7 2 5 40.0 1 3 33.3 2 2 100.0 1 2 3 1 0 1 0 2 -6
+p345
+aVDelonte West BOS 02/04/2006 BOS @ ORL L 38 13 5 12 41.7 1 2 50.0 2 2 100.0 0 5 5 6 5 1 2 4 1
+p346
+aVOrien Greene BOS 02/04/2006 BOS @ ORL L 21 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 2 0 1 3 0
+p347
+aVMichael Olowokandi BOS 02/04/2006 BOS @ ORL L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -9
+p348
+aVPaul Pierce BOS 02/04/2006 BOS @ ORL L 40 37 13 30 43.3 0 3 0.0 11 13 84.6 2 3 5 4 1 0 2 5 -6
+p349
+aVWally Szczerbiak BOS 02/04/2006 BOS @ ORL L 45 13 6 13 46.2 1 4 25.0 0 0 - 2 1 3 0 1 0 1 5 -3
+p350
+aVWally Szczerbiak BOS 02/03/2006 BOS vs. LAC L 42 18 8 17 47.1 1 3 33.3 1 1 100.0 4 4 8 10 0 1 1 4 -13
+p351
+aVAl Jefferson BOS 02/03/2006 BOS vs. LAC L 6 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 0 1 0 0 3
+p352
+aVMichael Olowokandi BOS 02/03/2006 BOS vs. LAC L 15 10 5 12 41.7 0 0 - 0 0 - 2 2 4 1 0 0 0 0 -5
+p353
+aVDelonte West BOS 02/03/2006 BOS vs. LAC L 35 11 5 13 38.5 1 5 20.0 0 0 - 0 1 1 2 1 2 1 2 -19
+p354
+aVRyan Gomes BOS 02/03/2006 BOS vs. LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p355
+aVGerald Green BOS 02/03/2006 BOS vs. LAC L 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p356
+aVKendrick Perkins BOS 02/03/2006 BOS vs. LAC L 27 11 5 10 50.0 0 0 - 1 1 100.0 8 3 11 0 1 2 2 3 -4
+p357
+aVRaef LaFrentz BOS 02/03/2006 BOS vs. LAC L 32 5 2 10 20.0 1 5 20.0 0 0 - 1 3 4 2 0 0 1 1 -11
+p358
+aVOrien Greene BOS 02/03/2006 BOS vs. LAC L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -7
+p359
+aVTony Allen BOS 02/03/2006 BOS vs. LAC L 18 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 2 1 1 1 1 -6
+p360
+aVPaul Pierce BOS 02/03/2006 BOS vs. LAC L 35 18 5 15 33.3 1 4 25.0 7 9 77.8 0 5 5 2 2 0 2 1 -11
+p361
+aVBrian Scalabrine BOS 02/03/2006 BOS vs. LAC L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 -4
+p362
+aVPaul Pierce BOS 02/01/2006 BOS vs. PHX L 41 40 14 27 51.9 4 8 50.0 8 12 66.7 0 3 3 1 3 1 4 3 -6
+p363
+aVKendrick Perkins BOS 02/01/2006 BOS vs. PHX L 22 6 2 4 50.0 0 0 - 2 2 100.0 5 5 10 0 0 1 5 2 -1
+p364
+aVTony Allen BOS 02/01/2006 BOS vs. PHX L 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -6
+p365
+aVBrian Scalabrine BOS 02/01/2006 BOS vs. PHX L 22 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 1 0 0 1 1 -5
+p366
+aVRaef LaFrentz BOS 02/01/2006 BOS vs. PHX L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 2 0 0 1 1 2
+p367
+aVAl Jefferson BOS 02/01/2006 BOS vs. PHX L 25 17 7 12 58.3 0 0 - 3 5 60.0 3 4 7 2 1 2 1 2 -7
+p368
+aVDelonte West BOS 02/01/2006 BOS vs. PHX L 37 12 5 9 55.6 1 4 25.0 1 1 100.0 0 4 4 4 1 1 3 1 -7
+p369
+aVWally Szczerbiak BOS 02/01/2006 BOS vs. PHX L 43 5 1 9 11.1 1 4 25.0 2 2 100.0 2 8 10 6 0 1 3 1 -5
+p370
+aVOrien Greene BOS 02/01/2006 BOS vs. PHX L 19 5 2 4 50.0 1 1 100.0 0 0 - 1 2 3 2 2 0 1 4 -5
+p371
+aVRyan Gomes BOS 02/01/2006 BOS vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p372
+aVWally Szczerbiak BOS 01/30/2006 BOS @ MIN L 38 22 6 15 40.0 1 3 33.3 9 9 100.0 1 2 3 3 1 0 1 1 -18
+p373
+aVMichael Olowokandi BOS 01/30/2006 BOS @ MIN L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p374
+aVKendrick Perkins BOS 01/30/2006 BOS @ MIN L 21 3 1 3 33.3 0 0 - 1 1 100.0 3 1 4 1 0 0 2 6 -7
+p375
+aVRaef LaFrentz BOS 01/30/2006 BOS @ MIN L 29 4 2 5 40.0 0 3 0.0 0 0 - 0 6 6 1 0 0 0 5 -7
+p376
+aVDelonte West BOS 01/30/2006 BOS @ MIN L 33 12 5 10 50.0 2 4 50.0 0 0 - 0 1 1 4 1 0 1 1 -12
+p377
+aVTony Allen BOS 01/30/2006 BOS @ MIN L 12 2 1 3 33.3 0 0 - 0 1 0.0 0 1 1 0 0 0 0 4 -8
+p378
+aVBrian Scalabrine BOS 01/30/2006 BOS @ MIN L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 2 -10
+p379
+aVPaul Pierce BOS 01/30/2006 BOS @ MIN L 40 21 7 23 30.4 0 4 0.0 7 11 63.6 1 3 4 1 4 1 1 1 -23
+p380
+aVOrien Greene BOS 01/30/2006 BOS @ MIN L 15 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 1 2 0 6 1 -13
+p381
+aVAl Jefferson BOS 01/30/2006 BOS @ MIN L 29 10 5 12 41.7 0 0 - 0 0 - 7 3 10 0 3 0 3 5 -20
+p382
+aVRyan Gomes BOS 01/30/2006 BOS @ MIN L 6 3 0 0 - 0 0 - 3 4 75.0 1 1 2 1 0 0 0 0 -1
+p383
+aVKendrick Perkins BOS 01/29/2006 BOS @ MIL L 26 8 3 7 42.9 0 0 - 2 2 100.0 4 5 9 1 1 2 2 5 3
+p384
+aVOrien Greene BOS 01/29/2006 BOS @ MIL L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 1 2 1 -7
+p385
+aVPaul Pierce BOS 01/29/2006 BOS @ MIL L 39 18 7 18 38.9 2 5 40.0 2 2 100.0 1 5 6 6 1 0 3 3 -6
+p386
+aVWally Szczerbiak BOS 01/29/2006 BOS @ MIL L 41 20 8 15 53.3 0 3 0.0 4 4 100.0 1 2 3 3 0 0 0 2 -1
+p387
+aVBrian Scalabrine BOS 01/29/2006 BOS @ MIL L 15 6 2 7 28.6 2 6 33.3 0 2 0.0 2 0 2 2 0 1 1 2 0
+p388
+aVAl Jefferson BOS 01/29/2006 BOS @ MIL L 23 12 5 10 50.0 0 0 - 2 4 50.0 2 10 12 0 0 1 2 1 -5
+p389
+aVRaef LaFrentz BOS 01/29/2006 BOS @ MIL L 32 6 2 8 25.0 0 5 0.0 2 2 100.0 2 8 10 2 2 2 4 3 -6
+p390
+aVTony Allen BOS 01/29/2006 BOS @ MIL L 16 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 4 -1
+p391
+aVDelonte West BOS 01/29/2006 BOS @ MIL L 36 9 4 10 40.0 1 1 100.0 0 0 - 0 5 5 2 0 1 1 1 3
+p392
+aVRyan Gomes BOS 01/27/2006 BOS vs. SAC W 11 4 2 7 28.6 0 0 - 0 0 - 2 1 3 0 0 0 1 0 -2
+p393
+aVDelonte West BOS 01/27/2006 BOS vs. SAC W 37 7 2 11 18.2 1 5 20.0 2 2 100.0 2 4 6 1 2 1 3 2 8
+p394
+aVBrian Scalabrine BOS 01/27/2006 BOS vs. SAC W 16 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 3 1 3
+p395
+aVWally Szczerbiak BOS 01/27/2006 BOS vs. SAC W 24 10 4 7 57.1 2 3 66.7 0 0 - 1 2 3 2 1 0 2 1 9
+p396
+aVOrien Greene BOS 01/27/2006 BOS vs. SAC W 14 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 2 1 0 2 0 -2
+p397
+aVTony Allen BOS 01/27/2006 BOS vs. SAC W 20 4 2 6 33.3 0 0 - 0 0 - 1 1 2 3 1 0 2 2 6
+p398
+aVPaul Pierce BOS 01/27/2006 BOS vs. SAC W 38 18 7 16 43.8 0 4 0.0 4 4 100.0 1 6 7 6 1 0 7 5 10
+p399
+aVAl Jefferson BOS 01/27/2006 BOS vs. SAC W 21 13 5 9 55.6 0 1 0.0 3 6 50.0 1 4 5 0 0 0 1 4 6
+p400
+aVKendrick Perkins BOS 01/27/2006 BOS vs. SAC W 27 13 5 7 71.4 0 0 - 3 3 100.0 4 7 11 0 0 5 2 4 4
+p401
+aVRaef LaFrentz BOS 01/27/2006 BOS vs. SAC W 32 12 4 8 50.0 2 5 40.0 2 2 100.0 2 8 10 1 1 1 0 5 8
+p402
+aVBrian Scalabrine BOS 01/25/2006 BOS vs. WAS L 18 7 3 5 60.0 1 3 33.3 0 0 - 1 5 6 0 0 1 0 5 2
+p403
+aVAl Jefferson BOS 01/25/2006 BOS vs. WAS L 17 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 1 0 1 2 4 0
+p404
+aVMark Blount BOS 01/25/2006 BOS vs. WAS L 9 11 4 5 80.0 0 0 - 3 5 60.0 1 0 1 0 0 1 2 0 -4
+p405
+aVTony Allen BOS 01/25/2006 BOS vs. WAS L 13 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -9
+p406
+aVRicky Davis BOS 01/25/2006 BOS vs. WAS L 41 13 6 12 50.0 1 3 33.3 0 0 - 1 1 2 4 0 0 6 3 1
+p407
+aVRaef LaFrentz BOS 01/25/2006 BOS vs. WAS L 25 8 3 8 37.5 2 4 50.0 0 0 - 3 2 5 2 2 0 3 4 -7
+p408
+aVDelonte West BOS 01/25/2006 BOS vs. WAS L 37 10 5 11 45.5 0 1 0.0 0 0 - 2 3 5 9 1 1 1 2 1
+p409
+aVOrien Greene BOS 01/25/2006 BOS vs. WAS L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -3
+p410
+aVKendrick Perkins BOS 01/25/2006 BOS vs. WAS L 24 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 1 1 2 1 3 5
+p411
+aVPaul Pierce BOS 01/25/2006 BOS vs. WAS L 42 25 10 18 55.6 0 2 0.0 5 13 38.5 1 10 11 6 4 1 2 0 4
+p412
+aVRaef LaFrentz BOS 01/23/2006 BOS vs. NOK W 24 18 7 8 87.5 4 5 80.0 0 0 - 0 4 4 0 1 3 1 2 16
+p413
+aVMarcus Banks BOS 01/23/2006 BOS vs. NOK W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 0 -9
+p414
+aVBrian Scalabrine BOS 01/23/2006 BOS vs. NOK W 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 2 0 1 2 -4
+p415
+aVRicky Davis BOS 01/23/2006 BOS vs. NOK W 37 32 12 20 60.0 2 4 50.0 6 7 85.7 1 3 4 8 1 0 2 1 24
+p416
+aVAl Jefferson BOS 01/23/2006 BOS vs. NOK W 24 7 3 10 30.0 0 0 - 1 1 100.0 4 7 11 0 1 0 1 5 -3
+p417
+aVJustin Reed BOS 01/23/2006 BOS vs. NOK W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p418
+aVOrien Greene BOS 01/23/2006 BOS vs. NOK W 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 4 -1
+p419
+aVKendrick Perkins BOS 01/23/2006 BOS vs. NOK W 33 4 2 7 28.6 0 0 - 0 0 - 2 3 5 2 0 5 3 2 17
+p420
+aVDelonte West BOS 01/23/2006 BOS vs. NOK W 30 8 3 8 37.5 0 1 0.0 2 2 100.0 1 6 7 5 2 0 0 2 20
+p421
+aVTony Allen BOS 01/23/2006 BOS vs. NOK W 21 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 1 2 0 3 -3
+p422
+aVPaul Pierce BOS 01/23/2006 BOS vs. NOK W 31 16 4 13 30.8 0 4 0.0 8 11 72.7 1 8 9 2 0 0 3 3 14
+p423
+aVPaul Pierce BOS 01/21/2006 BOS @ NJN L 30 20 5 13 38.5 1 3 33.3 9 10 90.0 0 5 5 2 2 0 1 2 -17
+p424
+aVAl Jefferson BOS 01/21/2006 BOS @ NJN L 24 11 5 8 62.5 0 0 - 1 2 50.0 0 3 3 0 0 2 1 5 -4
+p425
+aVJustin Reed BOS 01/21/2006 BOS @ NJN L 14 2 1 3 33.3 0 0 - 0 2 0.0 1 3 4 1 0 0 2 0 5
+p426
+aVRaef LaFrentz BOS 01/21/2006 BOS @ NJN L 15 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 3 -5
+p427
+aVBrian Scalabrine BOS 01/21/2006 BOS @ NJN L 19 4 2 5 40.0 0 2 0.0 0 0 - 2 3 5 0 1 0 1 2 -22
+p428
+aVMark Blount BOS 01/21/2006 BOS @ NJN L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 1 -10
+p429
+aVOrien Greene BOS 01/21/2006 BOS @ NJN L 17 4 2 8 25.0 0 1 0.0 0 0 - 2 1 3 6 2 0 1 1 2
+p430
+aVDelonte West BOS 01/21/2006 BOS @ NJN L 23 6 2 5 40.0 2 4 50.0 0 0 - 0 4 4 5 2 2 1 0 -13
+p431
+aVTony Allen BOS 01/21/2006 BOS @ NJN L 26 10 3 6 50.0 0 0 - 4 7 57.1 2 1 3 1 2 2 1 4 -7
+p432
+aVRicky Davis BOS 01/21/2006 BOS @ NJN L 26 9 4 9 44.4 0 0 - 1 2 50.0 0 0 0 2 0 0 2 2 -21
+p433
+aVKendrick Perkins BOS 01/21/2006 BOS @ NJN L 26 10 5 8 62.5 0 0 - 0 1 0.0 0 5 5 1 0 0 2 3 1
+p434
+aVMarcus Banks BOS 01/21/2006 BOS @ NJN L 8 1 0 2 0.0 0 0 - 1 1 100.0 0 0 0 1 0 0 1 1 -9
+p435
+aVPaul Pierce BOS 01/20/2006 BOS vs. NJN W 41 25 7 16 43.8 3 6 50.0 8 14 57.1 2 10 12 6 1 1 7 4 2
+p436
+aVAl Jefferson BOS 01/20/2006 BOS vs. NJN W 28 10 4 9 44.4 0 0 - 2 5 40.0 3 7 10 1 0 2 0 1 -6
+p437
+aVRicky Davis BOS 01/20/2006 BOS vs. NJN W 42 22 9 17 52.9 0 3 0.0 4 6 66.7 0 3 3 4 0 1 3 3 3
+p438
+aVRaef LaFrentz BOS 01/20/2006 BOS vs. NJN W 20 10 3 6 50.0 2 4 50.0 2 2 100.0 1 7 8 2 0 0 1 0 7
+p439
+aVKendrick Perkins BOS 01/20/2006 BOS vs. NJN W 29 11 5 7 71.4 0 0 - 1 3 33.3 2 4 6 0 0 2 2 2 2
+p440
+aVTony Allen BOS 01/20/2006 BOS vs. NJN W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 2 0 1 1 1
+p441
+aVDelonte West BOS 01/20/2006 BOS vs. NJN W 35 12 5 8 62.5 2 2 100.0 0 0 - 0 2 2 6 0 0 2 3 2
+p442
+aVBrian Scalabrine BOS 01/20/2006 BOS vs. NJN W 18 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 5
+p443
+aVOrien Greene BOS 01/20/2006 BOS vs. NJN W 14 5 1 2 50.0 0 0 - 3 4 75.0 2 0 2 3 2 0 0 3 -1
+p444
+aVOrien Greene BOS 01/18/2006 BOS vs. MIN W 13 1 0 0 - 0 0 - 1 2 50.0 1 1 2 2 0 0 0 1 -7
+p445
+aVJustin Reed BOS 01/18/2006 BOS vs. MIN W 10 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 11
+p446
+aVRaef LaFrentz BOS 01/18/2006 BOS vs. MIN W 17 5 2 5 40.0 1 2 50.0 0 0 - 1 4 5 3 0 1 1 2 -4
+p447
+aVDelonte West BOS 01/18/2006 BOS vs. MIN W 28 14 5 10 50.0 2 5 40.0 2 2 100.0 1 4 5 3 2 0 0 0 13
+p448
+aVRicky Davis BOS 01/18/2006 BOS vs. MIN W 40 10 4 11 36.4 0 1 0.0 2 2 100.0 0 4 4 3 0 0 0 3 6
+p449
+aVAl Jefferson BOS 01/18/2006 BOS vs. MIN W 26 18 8 13 61.5 0 1 0.0 2 3 66.7 3 5 8 1 0 2 0 4 17
+p450
+aVPaul Pierce BOS 01/18/2006 BOS vs. MIN W 43 25 8 17 47.1 4 6 66.7 5 9 55.6 3 5 8 3 0 0 3 1 6
+p451
+aVMark Blount BOS 01/18/2006 BOS vs. MIN W 6 2 1 3 33.3 0 0 - 0 1 0.0 1 0 1 0 0 0 0 1 -10
+p452
+aVKendrick Perkins BOS 01/18/2006 BOS vs. MIN W 30 17 8 11 72.7 0 0 - 1 4 25.0 5 1 6 0 0 2 0 5 15
+p453
+aVBrian Scalabrine BOS 01/18/2006 BOS vs. MIN W 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p454
+aVMarcus Banks BOS 01/18/2006 BOS vs. MIN W 8 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 0
+p455
+aVTony Allen BOS 01/18/2006 BOS vs. MIN W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -12
+p456
+aVAl Jefferson BOS 01/16/2006 BOS @ DET L 18 8 2 6 33.3 0 0 - 4 7 57.1 3 4 7 0 1 0 3 4 -2
+p457
+aVJustin Reed BOS 01/16/2006 BOS @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p458
+aVKendrick Perkins BOS 01/16/2006 BOS @ DET L 29 10 5 8 62.5 0 1 0.0 0 0 - 0 8 8 1 0 2 1 2 -6
+p459
+aVRicky Davis BOS 01/16/2006 BOS @ DET L 44 0 0 8 0.0 0 3 0.0 0 0 - 0 1 1 5 0 0 3 2 -7
+p460
+aVRaef LaFrentz BOS 01/16/2006 BOS @ DET L 16 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 1 1 0 0 4 -13
+p461
+aVOrien Greene BOS 01/16/2006 BOS @ DET L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 0
+p462
+aVPaul Pierce BOS 01/16/2006 BOS @ DET L 37 21 8 16 50.0 0 3 0.0 5 7 71.4 3 4 7 7 2 1 3 3 -17
+p463
+aVMark Blount BOS 01/16/2006 BOS @ DET L 31 12 6 11 54.5 0 0 - 0 2 0.0 1 2 3 2 2 1 4 4 8
+p464
+aVTony Allen BOS 01/16/2006 BOS @ DET L 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 1 0 0 1 2
+p465
+aVDelonte West BOS 01/16/2006 BOS @ DET L 37 20 7 13 53.8 1 2 50.0 5 5 100.0 1 6 7 3 2 0 2 2 -15
+p466
+aVDelonte West BOS 01/13/2006 BOS @ PHI L 46 17 7 14 50.0 3 5 60.0 0 0 - 0 6 6 2 2 1 3 5 -16
+p467
+aVMark Blount BOS 01/13/2006 BOS @ PHI L 47 27 11 18 61.1 0 0 - 5 6 83.3 2 10 12 0 0 1 7 3 -2
+p468
+aVRaef LaFrentz BOS 01/13/2006 BOS @ PHI L 20 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 0 0 2 0 6 2
+p469
+aVTony Allen BOS 01/13/2006 BOS @ PHI L 17 9 2 3 66.7 0 0 - 5 6 83.3 0 3 3 4 0 1 0 1 -2
+p470
+aVRicky Davis BOS 01/13/2006 BOS @ PHI L 57 33 13 26 50.0 5 11 45.5 2 2 100.0 1 4 5 9 3 0 3 3 8
+p471
+aVPaul Pierce BOS 01/13/2006 BOS @ PHI L 52 18 4 20 20.0 2 4 50.0 8 13 61.5 1 8 9 10 4 0 7 5 -13
+p472
+aVBrian Scalabrine BOS 01/13/2006 BOS @ PHI L 16 2 0 3 0.0 0 2 0.0 2 2 100.0 0 2 2 0 1 1 0 4 1
+p473
+aVOrien Greene BOS 01/13/2006 BOS @ PHI L 17 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 2 4 16
+p474
+aVKendrick Perkins BOS 01/13/2006 BOS @ PHI L 28 10 4 6 66.7 0 0 - 2 2 100.0 5 6 11 1 0 0 2 3 -6
+p475
+aVMarcus Banks BOS 01/13/2006 BOS @ PHI L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -2
+p476
+aVAl Jefferson BOS 01/13/2006 BOS @ PHI L 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 0 4
+p477
+aVKendrick Perkins BOS 01/10/2006 BOS @ ATL W 14 6 3 4 75.0 0 0 - 0 3 0.0 1 2 3 0 0 1 2 4 -18
+p478
+aVPaul Pierce BOS 01/10/2006 BOS @ ATL W 40 27 10 17 58.8 3 7 42.9 4 7 57.1 1 3 4 6 2 0 6 2 17
+p479
+aVBrian Scalabrine BOS 01/10/2006 BOS @ ATL W 29 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 0 1 2 2 20
+p480
+aVMark Blount BOS 01/10/2006 BOS @ ATL W 33 15 6 10 60.0 0 0 - 3 4 75.0 2 4 6 0 0 1 3 3 14
+p481
+aVTony Allen BOS 01/10/2006 BOS @ ATL W 15 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -17
+p482
+aVDelonte West BOS 01/10/2006 BOS @ ATL W 38 15 5 8 62.5 0 2 0.0 5 7 71.4 1 7 8 7 2 0 0 1 24
+p483
+aVRaef LaFrentz BOS 01/10/2006 BOS @ ATL W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p484
+aVMarcus Banks BOS 01/10/2006 BOS @ ATL W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -11
+p485
+aVRicky Davis BOS 01/10/2006 BOS @ ATL W 42 21 8 21 38.1 2 5 40.0 3 3 100.0 0 8 8 4 2 0 1 3 5
+p486
+aVJustin Reed BOS 01/10/2006 BOS @ ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p487
+aVOrien Greene BOS 01/10/2006 BOS @ ATL W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -9
+p488
+aVAl Jefferson BOS 01/10/2006 BOS @ ATL W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -3
+p489
+aVRicky Davis BOS 01/09/2006 BOS vs. DAL L 39 17 7 13 53.8 1 2 50.0 2 3 66.7 1 3 4 8 0 0 1 2 2
+p490
+aVBrian Scalabrine BOS 01/09/2006 BOS vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p491
+aVMark Blount BOS 01/09/2006 BOS vs. DAL L 31 12 5 12 41.7 0 0 - 2 5 40.0 2 4 6 1 0 0 2 3 8
+p492
+aVDelonte West BOS 01/09/2006 BOS vs. DAL L 22 8 4 7 57.1 0 0 - 0 0 - 0 2 2 3 0 0 2 5 0
+p493
+aVRaef LaFrentz BOS 01/09/2006 BOS vs. DAL L 27 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 0 0 1 3 -7
+p494
+aVAl Jefferson BOS 01/09/2006 BOS vs. DAL L 16 3 1 7 14.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 -6
+p495
+aVTony Allen BOS 01/09/2006 BOS vs. DAL L 24 12 4 8 50.0 0 1 0.0 4 6 66.7 4 2 6 3 0 1 0 2 4
+p496
+aVMarcus Banks BOS 01/09/2006 BOS vs. DAL L 15 6 2 8 25.0 0 2 0.0 2 2 100.0 0 0 0 2 0 0 0 2 2
+p497
+aVJustin Reed BOS 01/09/2006 BOS vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p498
+aVKendrick Perkins BOS 01/09/2006 BOS vs. DAL L 17 8 2 4 50.0 0 0 - 4 5 80.0 3 3 6 0 0 1 0 4 -4
+p499
+aVPaul Pierce BOS 01/09/2006 BOS vs. DAL L 36 32 9 16 56.3 2 5 40.0 12 12 100.0 1 7 8 4 2 0 2 2 -5
+p500
+aVOrien Greene BOS 01/09/2006 BOS vs. DAL L 10 0 0 0 - 0 0 - 0 0 - 2 0 2 0 1 0 1 2 -6
+p501
+aVRicky Davis BOS 01/07/2006 BOS @ WAS L 44 24 10 16 62.5 0 2 0.0 4 6 66.7 1 6 7 8 0 0 2 1 10
+p502
+aVMarcus Banks BOS 01/07/2006 BOS @ WAS L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p503
+aVDelonte West BOS 01/07/2006 BOS @ WAS L 25 17 7 9 77.8 3 3 100.0 0 0 - 3 4 7 2 1 0 1 5 4
+p504
+aVTony Allen BOS 01/07/2006 BOS @ WAS L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 6 3 -7
+p505
+aVKendrick Perkins BOS 01/07/2006 BOS @ WAS L 31 5 2 2 100.0 0 0 - 1 2 50.0 2 9 11 2 1 3 4 4 0
+p506
+aVOrien Greene BOS 01/07/2006 BOS @ WAS L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 6 2 0 0 4 1
+p507
+aVAl Jefferson BOS 01/07/2006 BOS @ WAS L 14 6 1 7 14.3 0 0 - 4 6 66.7 3 3 6 1 0 1 1 3 -5
+p508
+aVRaef LaFrentz BOS 01/07/2006 BOS @ WAS L 22 4 2 8 25.0 0 4 0.0 0 0 - 3 4 7 1 0 0 1 1 -3
+p509
+aVBrian Scalabrine BOS 01/07/2006 BOS @ WAS L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p510
+aVMark Blount BOS 01/07/2006 BOS @ WAS L 25 14 7 14 50.0 0 0 - 0 0 - 0 4 4 0 0 2 2 2 -2
+p511
+aVPaul Pierce BOS 01/07/2006 BOS @ WAS L 37 23 5 12 41.7 2 5 40.0 11 14 78.6 0 3 3 4 0 0 2 3 -1
+p512
+aVJustin Reed BOS 01/06/2006 BOS vs. ATL L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -6
+p513
+aVRicky Davis BOS 01/06/2006 BOS vs. ATL L 42 11 5 12 41.7 0 0 - 1 1 100.0 0 5 5 8 1 0 2 2 -2
+p514
+aVMarcus Banks BOS 01/06/2006 BOS vs. ATL L 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 4
+p515
+aVRaef LaFrentz BOS 01/06/2006 BOS vs. ATL L 18 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 0 0 1 0 3 3
+p516
+aVMark Blount BOS 01/06/2006 BOS vs. ATL L 15 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 5 2 2
+p517
+aVPaul Pierce BOS 01/06/2006 BOS vs. ATL L 39 23 9 19 47.4 3 7 42.9 2 2 100.0 2 3 5 3 0 0 1 2 -8
+p518
+aVDelonte West BOS 01/06/2006 BOS vs. ATL L 38 23 8 12 66.7 3 5 60.0 4 4 100.0 1 3 4 6 3 1 2 3 -9
+p519
+aVAl Jefferson BOS 01/06/2006 BOS vs. ATL L 27 17 6 7 85.7 0 0 - 5 6 83.3 1 3 4 1 0 2 2 2 -7
+p520
+aVTony Allen BOS 01/06/2006 BOS vs. ATL L 30 9 3 11 27.3 0 0 - 3 4 75.0 2 5 7 1 2 0 2 3 1
+p521
+aVKendrick Perkins BOS 01/06/2006 BOS vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p522
+aVOrien Greene BOS 01/06/2006 BOS vs. ATL L 14 6 3 5 60.0 0 0 - 0 0 - 2 2 4 3 3 0 0 3 -3
+p523
+aVOrien Greene BOS 01/04/2006 BOS vs. CHA W 10 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 4
+p524
+aVAl Jefferson BOS 01/04/2006 BOS vs. CHA W 19 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -4
+p525
+aVJustin Reed BOS 01/04/2006 BOS vs. CHA W 19 6 3 6 50.0 0 0 - 0 2 0.0 1 5 6 0 0 0 2 4 -8
+p526
+aVRaef LaFrentz BOS 01/04/2006 BOS vs. CHA W 15 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 0 0 2 0 2 -6
+p527
+aVDelonte West BOS 01/04/2006 BOS vs. CHA W 40 11 3 9 33.3 2 4 50.0 3 4 75.0 1 7 8 6 1 1 5 4 5
+p528
+aVBrian Scalabrine BOS 01/04/2006 BOS vs. CHA W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 0
+p529
+aVMark Blount BOS 01/04/2006 BOS vs. CHA W 34 18 6 12 50.0 0 0 - 6 9 66.7 0 8 8 4 0 1 5 3 19
+p530
+aVPaul Pierce BOS 01/04/2006 BOS vs. CHA W 42 31 11 17 64.7 2 3 66.7 7 8 87.5 0 8 8 10 1 2 4 3 3
+p531
+aVMarcus Banks BOS 01/04/2006 BOS vs. CHA W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 3 2 1
+p532
+aVKendrick Perkins BOS 01/04/2006 BOS vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p533
+aVRicky Davis BOS 01/04/2006 BOS vs. CHA W 36 23 9 14 64.3 1 2 50.0 4 4 100.0 1 4 5 1 0 2 2 4 3
+p534
+aVRicky Davis BOS 01/02/2006 BOS @ DEN L 37 9 3 16 18.8 1 4 25.0 2 2 100.0 1 2 3 4 0 0 5 2 -19
+p535
+aVMarcus Banks BOS 01/02/2006 BOS @ DEN L 20 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 2 3 -7
+p536
+aVBrian Scalabrine BOS 01/02/2006 BOS @ DEN L 14 7 2 3 66.7 0 1 0.0 3 4 75.0 1 0 1 1 0 0 0 3 3
+p537
+aVAl Jefferson BOS 01/02/2006 BOS @ DEN L 23 6 3 7 42.9 0 0 - 0 0 - 0 5 5 3 2 0 0 3 0
+p538
+aVOrien Greene BOS 01/02/2006 BOS @ DEN L 7 0 0 0 - 0 0 - 0 0 - 0 3 3 1 1 0 2 1 -6
+p539
+aVKendrick Perkins BOS 01/02/2006 BOS @ DEN L 5 4 2 2 100.0 0 0 - 0 1 0.0 2 3 5 0 0 0 1 0 -6
+p540
+aVPaul Pierce BOS 01/02/2006 BOS @ DEN L 37 29 9 14 64.3 2 4 50.0 9 10 90.0 0 3 3 4 0 0 3 6 -1
+p541
+aVDelonte West BOS 01/02/2006 BOS @ DEN L 37 20 9 11 81.8 2 4 50.0 0 1 0.0 0 4 4 6 1 1 1 3 8
+p542
+aVRaef LaFrentz BOS 01/02/2006 BOS @ DEN L 16 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 0 0 2 0 3 -21
+p543
+aVMark Blount BOS 01/02/2006 BOS @ DEN L 29 15 6 10 60.0 0 0 - 3 3 100.0 1 2 3 1 2 1 4 2 -7
+p544
+aVJustin Reed BOS 01/02/2006 BOS @ DEN L 15 11 3 8 37.5 0 0 - 5 6 83.3 0 1 1 0 0 0 0 2 6
+p545
+aVRaef LaFrentz BOS 12/31/2005 BOS @ LAC W 31 13 6 10 60.0 1 4 25.0 0 0 - 0 4 4 1 1 3 0 2 27
+p546
+aVKendrick Perkins BOS 12/31/2005 BOS @ LAC W 14 2 0 2 0.0 0 0 - 2 4 50.0 2 4 6 2 0 1 3 4 6
+p547
+aVBrian Scalabrine BOS 12/31/2005 BOS @ LAC W 2 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p548
+aVDelonte West BOS 12/31/2005 BOS @ LAC W 27 12 5 8 62.5 2 2 100.0 0 0 - 2 1 3 5 0 0 0 3 4
+p549
+aVPaul Pierce BOS 12/31/2005 BOS @ LAC W 37 19 8 12 66.7 0 0 - 3 4 75.0 1 4 5 5 1 2 6 3 13
+p550
+aVRicky Davis BOS 12/31/2005 BOS @ LAC W 40 20 9 18 50.0 0 1 0.0 2 2 100.0 3 2 5 5 3 0 1 1 18
+p551
+aVMark Blount BOS 12/31/2005 BOS @ LAC W 27 9 4 10 40.0 0 0 - 1 2 50.0 0 6 6 3 0 0 1 0 7
+p552
+aVAl Jefferson BOS 12/31/2005 BOS @ LAC W 20 13 6 7 85.7 0 0 - 1 1 100.0 2 3 5 1 1 0 0 2 2
+p553
+aVOrien Greene BOS 12/31/2005 BOS @ LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p554
+aVRyan Gomes BOS 12/31/2005 BOS @ LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p555
+aVJustin Reed BOS 12/31/2005 BOS @ LAC W 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 6
+p556
+aVMarcus Banks BOS 12/31/2005 BOS @ LAC W 21 14 5 9 55.6 1 2 50.0 3 3 100.0 0 0 0 4 0 0 1 4 15
+p557
+aVRaef LaFrentz BOS 12/30/2005 BOS @ SAC L 30 10 4 9 44.4 1 3 33.3 1 2 50.0 0 5 5 3 0 2 2 4 13
+p558
+aVMarcus Banks BOS 12/30/2005 BOS @ SAC L 19 13 5 6 83.3 1 2 50.0 2 2 100.0 2 0 2 3 1 0 3 3 -6
+p559
+aVKendrick Perkins BOS 12/30/2005 BOS @ SAC L 10 0 0 0 - 0 0 - 0 0 - 1 1 2 3 0 0 3 3 -13
+p560
+aVDelonte West BOS 12/30/2005 BOS @ SAC L 34 14 6 11 54.5 2 4 50.0 0 0 - 0 5 5 2 0 0 2 4 1
+p561
+aVOrien Greene BOS 12/30/2005 BOS @ SAC L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 2 2 0 2 2 -1
+p562
+aVAl Jefferson BOS 12/30/2005 BOS @ SAC L 18 10 5 7 71.4 0 0 - 0 1 0.0 1 7 8 0 2 3 0 0 -7
+p563
+aVPaul Pierce BOS 12/30/2005 BOS @ SAC L 43 22 7 18 38.9 3 9 33.3 5 8 62.5 0 6 6 9 1 1 4 4 1
+p564
+aVMark Blount BOS 12/30/2005 BOS @ SAC L 35 10 4 7 57.1 0 0 - 2 3 66.7 1 2 3 2 0 2 3 5 1
+p565
+aVRicky Davis BOS 12/30/2005 BOS @ SAC L 44 33 14 27 51.9 4 10 40.0 1 1 100.0 0 7 7 3 3 0 3 3 -9
+p566
+aVMark Blount BOS 12/28/2005 BOS @ GSW L 29 21 8 15 53.3 0 0 - 5 6 83.3 1 3 4 8 1 1 4 3 9
+p567
+aVMarcus Banks BOS 12/28/2005 BOS @ GSW L 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 1 -10
+p568
+aVKendrick Perkins BOS 12/28/2005 BOS @ GSW L 14 1 0 0 - 0 0 - 1 4 25.0 1 0 1 2 0 0 1 2 -7
+p569
+aVAl Jefferson BOS 12/28/2005 BOS @ GSW L 18 9 2 3 66.7 0 0 - 5 7 71.4 1 4 5 1 0 0 3 5 2
+p570
+aVPaul Pierce BOS 12/28/2005 BOS @ GSW L 40 28 12 21 57.1 0 2 0.0 4 5 80.0 2 10 12 3 0 0 4 0 0
+p571
+aVDelonte West BOS 12/28/2005 BOS @ GSW L 37 19 8 11 72.7 3 3 100.0 0 0 - 1 1 2 7 1 0 1 2 6
+p572
+aVRaef LaFrentz BOS 12/28/2005 BOS @ GSW L 29 5 1 4 25.0 1 4 25.0 2 2 100.0 2 5 7 4 0 0 1 3 0
+p573
+aVOrien Greene BOS 12/28/2005 BOS @ GSW L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 2 0 1 0 -5
+p574
+aVRicky Davis BOS 12/28/2005 BOS @ GSW L 46 24 9 21 42.9 0 4 0.0 6 6 100.0 3 3 6 1 0 0 4 1 -5
+p575
+aVRyan Gomes BOS 12/28/2005 BOS @ GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p576
+aVJustin Reed BOS 12/28/2005 BOS @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p577
+aVJustin Reed BOS 12/26/2005 BOS @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p578
+aVKendrick Perkins BOS 12/26/2005 BOS @ SEA L 19 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 3 1 4 9
+p579
+aVOrien Greene BOS 12/26/2005 BOS @ SEA L 5 0 0 0 - 0 0 - 0 2 0.0 0 2 2 1 0 0 0 1 3
+p580
+aVPaul Pierce BOS 12/26/2005 BOS @ SEA L 40 43 13 25 52.0 1 4 25.0 16 21 76.2 1 4 5 5 1 1 3 5 -3
+p581
+aVRaef LaFrentz BOS 12/26/2005 BOS @ SEA L 26 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 0 0 0 1 6 -13
+p582
+aVRyan Gomes BOS 12/26/2005 BOS @ SEA L 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -2
+p583
+aVAl Jefferson BOS 12/26/2005 BOS @ SEA L 11 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 2 5 -2
+p584
+aVMarcus Banks BOS 12/26/2005 BOS @ SEA L 21 12 3 10 30.0 0 1 0.0 6 6 100.0 1 2 3 4 2 0 0 3 -3
+p585
+aVMark Blount BOS 12/26/2005 BOS @ SEA L 29 14 7 10 70.0 0 0 - 0 0 - 0 4 4 2 0 0 1 6 -5
+p586
+aVRicky Davis BOS 12/26/2005 BOS @ SEA L 45 20 9 18 50.0 1 3 33.3 1 3 33.3 2 0 2 7 1 0 3 2 -9
+p587
+aVBrian Scalabrine BOS 12/26/2005 BOS @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p588
+aVDelonte West BOS 12/26/2005 BOS @ SEA L 32 12 5 7 71.4 2 3 66.7 0 1 0.0 1 4 5 7 0 0 1 3 -8
+p589
+aVRyan Gomes BOS 12/21/2005 BOS vs. UTA W 5 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -2
+p590
+aVRaef LaFrentz BOS 12/21/2005 BOS vs. UTA W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 5 8
+p591
+aVRicky Davis BOS 12/21/2005 BOS vs. UTA W 40 20 6 12 50.0 0 2 0.0 8 10 80.0 0 3 3 4 2 0 3 1 21
+p592
+aVMarcus Banks BOS 12/21/2005 BOS vs. UTA W 14 4 0 1 0.0 0 1 0.0 4 4 100.0 0 0 0 2 0 0 2 4 15
+p593
+aVBrian Scalabrine BOS 12/21/2005 BOS vs. UTA W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p594
+aVPaul Pierce BOS 12/21/2005 BOS vs. UTA W 39 30 11 21 52.4 0 5 0.0 8 9 88.9 1 2 3 3 2 1 2 2 2
+p595
+aVOrien Greene BOS 12/21/2005 BOS vs. UTA W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 5
+p596
+aVAl Jefferson BOS 12/21/2005 BOS vs. UTA W 26 10 3 6 50.0 0 0 - 4 5 80.0 1 4 5 0 2 4 0 0 21
+p597
+aVDelonte West BOS 12/21/2005 BOS vs. UTA W 34 15 5 8 62.5 0 0 - 5 6 83.3 0 7 7 5 3 2 1 2 0
+p598
+aVKendrick Perkins BOS 12/21/2005 BOS vs. UTA W 20 5 1 2 50.0 0 0 - 3 5 60.0 4 2 6 0 1 3 3 3 -10
+p599
+aVMark Blount BOS 12/21/2005 BOS vs. UTA W 27 14 5 10 50.0 0 0 - 4 4 100.0 0 4 4 3 0 1 4 3 -4
+p600
+aVRyan Gomes BOS 12/19/2005 BOS vs. GSW W 15 5 2 4 50.0 0 0 - 1 1 100.0 3 4 7 0 0 0 0 0 14
+p601
+aVRicky Davis BOS 12/19/2005 BOS vs. GSW W 43 21 7 16 43.8 1 3 33.3 6 8 75.0 1 4 5 7 1 1 4 1 8
+p602
+aVOrien Greene BOS 12/19/2005 BOS vs. GSW W 23 4 2 7 28.6 0 0 - 0 0 - 2 1 3 3 1 0 3 2 11
+p603
+aVMark Blount BOS 12/19/2005 BOS vs. GSW W 28 17 5 10 50.0 0 0 - 7 9 77.8 1 4 5 0 0 2 3 3 0
+p604
+aVRaef LaFrentz BOS 12/19/2005 BOS vs. GSW W 25 10 4 7 57.1 0 1 0.0 2 2 100.0 1 2 3 2 1 3 0 5 8
+p605
+aVPaul Pierce BOS 12/19/2005 BOS vs. GSW W 38 19 6 16 37.5 1 4 25.0 6 8 75.0 1 8 9 5 1 0 5 4 -1
+p606
+aVMarcus Banks BOS 12/19/2005 BOS vs. GSW W 28 16 6 11 54.5 2 3 66.7 2 3 66.7 0 2 2 3 1 0 2 3 2
+p607
+aVAl Jefferson BOS 12/19/2005 BOS vs. GSW W 24 13 6 10 60.0 0 0 - 1 2 50.0 3 5 8 0 1 2 1 2 14
+p608
+aVKendrick Perkins BOS 12/19/2005 BOS vs. GSW W 16 4 2 2 100.0 0 0 - 0 0 - 1 6 7 3 0 2 0 4 -1
+p609
+aVDan Dickau BOS 12/17/2005 BOS @ CHI L 7 3 0 2 0.0 0 1 0.0 3 3 100.0 0 0 0 2 2 0 0 0 3
+p610
+aVRaef LaFrentz BOS 12/17/2005 BOS @ CHI L 22 7 3 6 50.0 1 2 50.0 0 0 - 2 3 5 0 0 0 3 1 -12
+p611
+aVMarcus Banks BOS 12/17/2005 BOS @ CHI L 32 8 3 9 33.3 1 2 50.0 1 1 100.0 0 4 4 2 1 0 2 5 -23
+p612
+aVKendrick Perkins BOS 12/17/2005 BOS @ CHI L 17 0 0 1 0.0 0 0 - 0 2 0.0 2 1 3 1 0 2 1 4 -25
+p613
+aVPaul Pierce BOS 12/17/2005 BOS @ CHI L 28 20 8 15 53.3 0 1 0.0 4 5 80.0 1 0 1 3 2 1 4 4 -20
+p614
+aVRicky Davis BOS 12/17/2005 BOS @ CHI L 39 21 9 22 40.9 2 4 50.0 1 2 50.0 5 3 8 6 1 0 3 2 -24
+p615
+aVAl Jefferson BOS 12/17/2005 BOS @ CHI L 11 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 4 -2
+p616
+aVRyan Gomes BOS 12/17/2005 BOS @ CHI L 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -8
+p617
+aVBrian Scalabrine BOS 12/17/2005 BOS @ CHI L 19 6 1 7 14.3 0 3 0.0 4 4 100.0 0 1 1 1 1 0 1 2 -5
+p618
+aVDelonte West BOS 12/17/2005 BOS @ CHI L 14 4 2 4 50.0 0 2 0.0 0 0 - 1 1 2 1 1 1 0 0 -9
+p619
+aVMark Blount BOS 12/17/2005 BOS @ CHI L 25 7 2 10 20.0 0 0 - 3 3 100.0 2 2 4 1 1 0 3 1 -18
+p620
+aVOrien Greene BOS 12/17/2005 BOS @ CHI L 19 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 2 4 -17
+p621
+aVRicky Davis BOS 12/16/2005 BOS vs. MIL L 40 14 5 13 38.5 1 3 33.3 3 4 75.0 2 1 3 6 0 0 4 6 0
+p622
+aVRyan Gomes BOS 12/16/2005 BOS vs. MIL L 11 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 1 0
+p623
+aVRaef LaFrentz BOS 12/16/2005 BOS vs. MIL L 20 7 3 9 33.3 1 7 14.3 0 0 - 1 2 3 0 0 0 0 4 -14
+p624
+aVDelonte West BOS 12/16/2005 BOS vs. MIL L 29 12 5 8 62.5 0 2 0.0 2 2 100.0 0 2 2 5 1 0 2 2 -5
+p625
+aVMark Blount BOS 12/16/2005 BOS vs. MIL L 35 14 6 12 50.0 0 0 - 2 2 100.0 1 7 8 3 0 1 6 4 -5
+p626
+aVPaul Pierce BOS 12/16/2005 BOS vs. MIL L 41 23 8 18 44.4 2 5 40.0 5 5 100.0 0 9 9 10 0 0 2 5 -6
+p627
+aVAl Jefferson BOS 12/16/2005 BOS vs. MIL L 11 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -6
+p628
+aVOrien Greene BOS 12/16/2005 BOS vs. MIL L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -11
+p629
+aVKendrick Perkins BOS 12/16/2005 BOS vs. MIL L 22 6 0 2 0.0 0 0 - 6 8 75.0 4 5 9 1 0 5 0 0 5
+p630
+aVDan Dickau BOS 12/16/2005 BOS vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 10
+p631
+aVMarcus Banks BOS 12/16/2005 BOS vs. MIL L 22 12 5 8 62.5 1 1 100.0 1 2 50.0 1 0 1 4 2 0 2 1 12
+p632
+aVKendrick Perkins BOS 12/14/2005 BOS vs. IND W 20 2 1 4 25.0 0 0 - 0 0 - 4 4 8 2 1 2 2 1 6
+p633
+aVMark Blount BOS 12/14/2005 BOS vs. IND W 32 22 9 12 75.0 0 0 - 4 6 66.7 0 5 5 3 0 1 3 5 5
+p634
+aVRicky Davis BOS 12/14/2005 BOS vs. IND W 42 8 3 11 27.3 0 1 0.0 2 2 100.0 0 4 4 7 1 0 5 5 18
+p635
+aVOrien Greene BOS 12/14/2005 BOS vs. IND W 18 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 2 1 0 0 2 19
+p636
+aVDan Dickau BOS 12/14/2005 BOS vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p637
+aVBrian Scalabrine BOS 12/14/2005 BOS vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p638
+aVAl Jefferson BOS 12/14/2005 BOS vs. IND W 21 8 3 7 42.9 0 0 - 2 2 100.0 2 4 6 1 2 1 4 1 2
+p639
+aVRyan Gomes BOS 12/14/2005 BOS vs. IND W 14 2 1 4 25.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 1 6
+p640
+aVRaef LaFrentz BOS 12/14/2005 BOS vs. IND W 17 2 1 4 25.0 0 1 0.0 0 2 0.0 0 5 5 0 0 0 0 4 0
+p641
+aVDelonte West BOS 12/14/2005 BOS vs. IND W 34 8 2 3 66.7 2 2 100.0 2 2 100.0 2 3 5 2 0 0 0 2 2
+p642
+aVPaul Pierce BOS 12/14/2005 BOS vs. IND W 40 25 9 21 42.9 1 1 100.0 6 8 75.0 0 7 7 5 0 2 3 2 6
+p643
+aVPaul Pierce BOS 12/10/2005 BOS @ DAL L 44 28 10 19 52.6 1 3 33.3 7 10 70.0 0 6 6 6 0 0 1 2 -4
+p644
+aVAl Jefferson BOS 12/10/2005 BOS @ DAL L 28 21 10 14 71.4 0 0 - 1 2 50.0 5 7 12 1 0 2 2 5 -3
+p645
+aVDan Dickau BOS 12/10/2005 BOS @ DAL L 6 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 1 5 -2
+p646
+aVJustin Reed BOS 12/10/2005 BOS @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p647
+aVMark Blount BOS 12/10/2005 BOS @ DAL L 25 4 2 5 40.0 0 0 - 0 0 - 1 0 1 3 0 0 3 2 -10
+p648
+aVRaef LaFrentz BOS 12/10/2005 BOS @ DAL L 29 10 4 9 44.4 2 4 50.0 0 0 - 0 5 5 0 0 1 1 4 6
+p649
+aVDelonte West BOS 12/10/2005 BOS @ DAL L 31 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 5 1 0 1 5 -8
+p650
+aVRicky Davis BOS 12/10/2005 BOS @ DAL L 37 20 9 17 52.9 2 3 66.7 0 0 - 0 5 5 5 0 0 3 1 -11
+p651
+aVOrien Greene BOS 12/10/2005 BOS @ DAL L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 3 4
+p652
+aVKendrick Perkins BOS 12/10/2005 BOS @ DAL L 12 0 0 0 - 0 0 - 0 2 0.0 2 1 3 0 0 0 0 2 -14
+p653
+aVRyan Gomes BOS 12/10/2005 BOS @ DAL L 14 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p654
+aVKendrick Perkins BOS 12/09/2005 BOS @ SAS L 22 3 0 1 0.0 0 0 - 3 4 75.0 3 7 10 0 0 1 3 2 -15
+p655
+aVMark Blount BOS 12/09/2005 BOS @ SAS L 35 19 8 15 53.3 0 0 - 3 4 75.0 1 4 5 2 1 0 1 2 -7
+p656
+aVAl Jefferson BOS 12/09/2005 BOS @ SAS L 18 5 1 2 50.0 0 0 - 3 4 75.0 1 2 3 1 0 1 1 4 -7
+p657
+aVDelonte West BOS 12/09/2005 BOS @ SAS L 31 10 5 9 55.6 0 2 0.0 0 0 - 0 3 3 4 1 1 3 1 -9
+p658
+aVOrien Greene BOS 12/09/2005 BOS @ SAS L 17 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 4 1
+p659
+aVBrian Scalabrine BOS 12/09/2005 BOS @ SAS L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 1
+p660
+aVPaul Pierce BOS 12/09/2005 BOS @ SAS L 38 24 7 17 41.2 1 2 50.0 9 9 100.0 1 6 7 2 0 0 3 3 -11
+p661
+aVRaef LaFrentz BOS 12/09/2005 BOS @ SAS L 16 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 -4
+p662
+aVDan Dickau BOS 12/09/2005 BOS @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p663
+aVRyan Gomes BOS 12/09/2005 BOS @ SAS L 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p664
+aVRicky Davis BOS 12/09/2005 BOS @ SAS L 43 19 9 18 50.0 0 1 0.0 1 1 100.0 0 3 3 7 2 0 3 2 -10
+p665
+aVJustin Reed BOS 12/09/2005 BOS @ SAS L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p666
+aVKendrick Perkins BOS 12/07/2005 BOS @ NOK W 18 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 3 2
+p667
+aVRicky Davis BOS 12/07/2005 BOS @ NOK W 41 26 9 18 50.0 2 5 40.0 6 6 100.0 1 0 1 3 0 1 2 3 16
+p668
+aVAl Jefferson BOS 12/07/2005 BOS @ NOK W 21 16 7 11 63.6 0 0 - 2 2 100.0 2 7 9 0 1 2 2 3 8
+p669
+aVDelonte West BOS 12/07/2005 BOS @ NOK W 34 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 4 2 0 3 4 11
+p670
+aVJustin Reed BOS 12/07/2005 BOS @ NOK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p671
+aVOrien Greene BOS 12/07/2005 BOS @ NOK W 20 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 2 1 0 1 4 5
+p672
+aVMark Blount BOS 12/07/2005 BOS @ NOK W 35 19 7 10 70.0 0 0 - 5 5 100.0 1 3 4 2 0 1 3 1 15
+p673
+aVPaul Pierce BOS 12/07/2005 BOS @ NOK W 37 28 7 14 50.0 1 2 50.0 13 16 81.3 1 11 12 1 2 0 3 3 13
+p674
+aVRyan Gomes BOS 12/07/2005 BOS @ NOK W 13 3 1 2 50.0 0 0 - 1 2 50.0 3 0 3 0 0 0 0 0 -3
+p675
+aVRaef LaFrentz BOS 12/07/2005 BOS @ NOK W 21 4 2 6 33.3 0 3 0.0 0 0 - 1 3 4 1 1 2 0 5 5
+p676
+aVJustin Reed BOS 12/06/2005 BOS @ HOU L 12 4 1 3 33.3 0 0 - 2 6 33.3 1 0 1 0 1 0 1 3 -11
+p677
+aVRicky Davis BOS 12/06/2005 BOS @ HOU L 42 10 5 12 41.7 0 0 - 0 0 - 1 5 6 3 1 0 4 2 -18
+p678
+aVKendrick Perkins BOS 12/06/2005 BOS @ HOU L 18 4 2 6 33.3 0 0 - 0 0 - 3 3 6 1 0 1 3 1 -6
+p679
+aVBrian Scalabrine BOS 12/06/2005 BOS @ HOU L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p680
+aVRaef LaFrentz BOS 12/06/2005 BOS @ HOU L 23 1 0 6 0.0 0 2 0.0 1 4 25.0 2 0 2 0 0 0 0 3 -12
+p681
+aVMark Blount BOS 12/06/2005 BOS @ HOU L 19 7 2 6 33.3 0 0 - 3 4 75.0 0 2 2 0 0 0 2 6 1
+p682
+aVDelonte West BOS 12/06/2005 BOS @ HOU L 39 12 5 8 62.5 2 3 66.7 0 0 - 1 1 2 1 3 1 3 1 -8
+p683
+aVAl Jefferson BOS 12/06/2005 BOS @ HOU L 20 12 5 9 55.6 0 0 - 2 3 66.7 5 5 10 1 0 0 2 3 -3
+p684
+aVRyan Gomes BOS 12/06/2005 BOS @ HOU L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p685
+aVPaul Pierce BOS 12/06/2005 BOS @ HOU L 31 20 3 10 30.0 1 3 33.3 13 13 100.0 0 3 3 1 2 0 2 4 -8
+p686
+aVDan Dickau BOS 12/06/2005 BOS @ HOU L 13 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 2 -11
+p687
+aVOrien Greene BOS 12/06/2005 BOS @ HOU L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p688
+aVAl Jefferson BOS 12/04/2005 BOS @ NYK W 30 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 2 1 2 4 -1
+p689
+aVJustin Reed BOS 12/04/2005 BOS @ NYK W 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 1 1 1 -17
+p690
+aVOrien Greene BOS 12/04/2005 BOS @ NYK W 13 2 0 5 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 4 -24
+p691
+aVRicky Davis BOS 12/04/2005 BOS @ NYK W 41 27 10 22 45.5 0 2 0.0 7 8 87.5 0 4 4 4 1 0 1 1 6
+p692
+aVKendrick Perkins BOS 12/04/2005 BOS @ NYK W 16 6 3 4 75.0 0 0 - 0 1 0.0 4 3 7 1 0 0 1 6 7
+p693
+aVMark Blount BOS 12/04/2005 BOS @ NYK W 13 3 1 6 16.7 0 0 - 1 1 100.0 3 0 3 0 0 0 2 4 -14
+p694
+aVRaef LaFrentz BOS 12/04/2005 BOS @ NYK W 24 5 1 7 14.3 1 4 25.0 2 2 100.0 2 2 4 0 0 2 1 1 15
+p695
+aVDan Dickau BOS 12/04/2005 BOS @ NYK W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 4
+p696
+aVPaul Pierce BOS 12/04/2005 BOS @ NYK W 44 28 8 15 53.3 1 2 50.0 11 15 73.3 0 9 9 7 5 0 2 1 11
+p697
+aVBrian Scalabrine BOS 12/04/2005 BOS @ NYK W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 7
+p698
+aVDelonte West BOS 12/04/2005 BOS @ NYK W 34 17 7 13 53.8 1 4 25.0 2 2 100.0 1 3 4 2 2 1 1 6 21
+p699
+aVRicky Davis BOS 12/02/2005 BOS vs. CHI L 41 12 3 11 27.3 1 5 20.0 5 7 71.4 1 4 5 5 0 0 3 5 -9
+p700
+aVAl Jefferson BOS 12/02/2005 BOS vs. CHI L 14 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 0 1 0 1 0
+p701
+aVMark Blount BOS 12/02/2005 BOS vs. CHI L 28 14 5 7 71.4 0 0 - 4 4 100.0 3 4 7 0 1 1 4 1 2
+p702
+aVRaef LaFrentz BOS 12/02/2005 BOS vs. CHI L 23 6 2 6 33.3 2 3 66.7 0 0 - 0 2 2 1 0 2 0 3 -1
+p703
+aVKendrick Perkins BOS 12/02/2005 BOS vs. CHI L 18 8 2 3 66.7 0 0 - 4 5 80.0 0 1 1 2 1 2 2 3 2
+p704
+aVJustin Reed BOS 12/02/2005 BOS vs. CHI L 22 4 2 7 28.6 0 0 - 0 0 - 1 0 1 0 1 1 1 4 -4
+p705
+aVBrian Scalabrine BOS 12/02/2005 BOS vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p706
+aVOrien Greene BOS 12/02/2005 BOS vs. CHI L 16 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 2 0 0 2 2 -2
+p707
+aVPaul Pierce BOS 12/02/2005 BOS vs. CHI L 42 43 12 21 57.1 5 8 62.5 14 18 77.8 0 11 11 5 4 1 6 2 3
+p708
+aVDelonte West BOS 12/02/2005 BOS vs. CHI L 33 11 5 10 50.0 1 3 33.3 0 0 - 0 3 3 2 0 1 2 5 -5
+p709
+aVRicky Davis BOS 11/30/2005 BOS vs. PHI W 43 26 10 20 50.0 0 3 0.0 6 7 85.7 1 4 5 1 1 2 2 0 13
+p710
+aVPaul Pierce BOS 11/30/2005 BOS vs. PHI W 41 32 12 21 57.1 0 2 0.0 8 12 66.7 1 10 11 3 1 0 1 4 7
+p711
+aVAl Jefferson BOS 11/30/2005 BOS vs. PHI W 15 8 3 5 60.0 0 0 - 2 3 66.7 2 1 3 0 0 2 0 3 -5
+p712
+aVBrian Scalabrine BOS 11/30/2005 BOS vs. PHI W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 1 -6
+p713
+aVRaef LaFrentz BOS 11/30/2005 BOS vs. PHI W 30 8 3 7 42.9 2 4 50.0 0 2 0.0 1 3 4 3 1 0 3 0 17
+p714
+aVKendrick Perkins BOS 11/30/2005 BOS vs. PHI W 27 12 5 9 55.6 0 0 - 2 2 100.0 8 11 19 4 0 2 1 6 11
+p715
+aVDelonte West BOS 11/30/2005 BOS vs. PHI W 37 9 3 10 30.0 1 2 50.0 2 2 100.0 1 5 6 7 0 2 3 5 5
+p716
+aVJustin Reed BOS 11/30/2005 BOS vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p717
+aVMark Blount BOS 11/30/2005 BOS vs. PHI W 22 8 2 12 16.7 0 0 - 4 4 100.0 0 7 7 1 0 2 2 3 -6
+p718
+aVOrien Greene BOS 11/30/2005 BOS vs. PHI W 12 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 3 0 0 1 2 -2
+p719
+aVDan Dickau BOS 11/30/2005 BOS vs. PHI W 1 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 0 0 4
+p720
+aVDelonte West BOS 11/28/2005 BOS vs. ORL L 32 11 3 7 42.9 1 4 25.0 4 4 100.0 1 4 5 5 1 1 3 4 -5
+p721
+aVKendrick Perkins BOS 11/28/2005 BOS vs. ORL L 16 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 1 1 3 -6
+p722
+aVRicky Davis BOS 11/28/2005 BOS vs. ORL L 42 22 9 18 50.0 0 2 0.0 4 5 80.0 1 4 5 6 0 0 2 3 -3
+p723
+aVMark Blount BOS 11/28/2005 BOS vs. ORL L 31 6 2 7 28.6 0 0 - 2 2 100.0 1 5 6 0 0 0 1 3 1
+p724
+aVJustin Reed BOS 11/28/2005 BOS vs. ORL L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 5
+p725
+aVDan Dickau BOS 11/28/2005 BOS vs. ORL L 20 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 3 3 0 3 1 7
+p726
+aVPaul Pierce BOS 11/28/2005 BOS vs. ORL L 39 16 7 16 43.8 0 0 - 2 3 66.7 1 12 13 4 0 1 5 2 -10
+p727
+aVOrien Greene BOS 11/28/2005 BOS vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p728
+aVRaef LaFrentz BOS 11/28/2005 BOS vs. ORL L 25 2 1 10 10.0 0 4 0.0 0 0 - 2 1 3 1 0 0 2 3 -10
+p729
+aVBrian Scalabrine BOS 11/28/2005 BOS vs. ORL L 8 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 4
+p730
+aVAl Jefferson BOS 11/28/2005 BOS vs. ORL L 12 9 4 5 80.0 0 0 - 1 3 33.3 3 1 4 0 0 1 0 2 -3
+p731
+aVBrian Scalabrine BOS 11/25/2005 BOS vs. CHA W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 3 -4
+p732
+aVRicky Davis BOS 11/25/2005 BOS vs. CHA W 44 25 10 23 43.5 1 5 20.0 4 6 66.7 0 5 5 6 1 0 3 2 1
+p733
+aVKendrick Perkins BOS 11/25/2005 BOS vs. CHA W 25 7 3 5 60.0 0 0 - 1 3 33.3 1 5 6 1 0 0 0 2 7
+p734
+aVPaul Pierce BOS 11/25/2005 BOS vs. CHA W 35 27 11 21 52.4 0 2 0.0 5 6 83.3 1 7 8 4 1 0 2 4 11
+p735
+aVRyan Gomes BOS 11/25/2005 BOS vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -7
+p736
+aVDan Dickau BOS 11/25/2005 BOS vs. CHA W 26 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 4 2 1 2 4 -4
+p737
+aVJustin Reed BOS 11/25/2005 BOS vs. CHA W 21 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -19
+p738
+aVAl Jefferson BOS 11/25/2005 BOS vs. CHA W 13 7 3 7 42.9 0 0 - 1 2 50.0 1 3 4 1 1 1 1 4 2
+p739
+aVRaef LaFrentz BOS 11/25/2005 BOS vs. CHA W 37 22 8 13 61.5 3 5 60.0 3 5 60.0 4 6 10 0 2 3 0 1 10
+p740
+aVOrien Greene BOS 11/25/2005 BOS vs. CHA W 26 0 0 4 0.0 0 0 - 0 0 - 1 1 2 4 0 0 4 4 8
+p741
+aVRaef LaFrentz BOS 11/23/2005 BOS @ ATL L 25 18 6 9 66.7 3 5 60.0 3 3 100.0 1 3 4 2 1 0 2 4 -3
+p742
+aVBrian Scalabrine BOS 11/23/2005 BOS @ ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p743
+aVRyan Gomes BOS 11/23/2005 BOS @ ATL L 14 0 0 0 - 0 0 - 0 2 0.0 1 2 3 0 0 0 1 1 -1
+p744
+aVOrien Greene BOS 11/23/2005 BOS @ ATL L 25 9 3 4 75.0 0 0 - 3 4 75.0 1 3 4 3 0 0 1 3 -7
+p745
+aVMark Blount BOS 11/23/2005 BOS @ ATL L 25 6 3 7 42.9 0 0 - 0 0 - 0 1 1 1 0 1 5 5 -9
+p746
+aVDan Dickau BOS 11/23/2005 BOS @ ATL L 22 14 5 8 62.5 4 5 80.0 0 0 - 0 0 0 3 0 0 0 6 4
+p747
+aVPaul Pierce BOS 11/23/2005 BOS @ ATL L 37 33 11 22 50.0 2 5 40.0 9 9 100.0 1 5 6 6 2 0 3 5 2
+p748
+aVAl Jefferson BOS 11/23/2005 BOS @ ATL L 19 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 1 2 2 3 -4
+p749
+aVRicky Davis BOS 11/23/2005 BOS @ ATL L 46 25 7 15 46.7 2 4 50.0 9 9 100.0 0 3 3 7 3 0 2 0 -7
+p750
+aVJustin Reed BOS 11/23/2005 BOS @ ATL L 15 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p751
+aVKendrick Perkins BOS 11/23/2005 BOS @ ATL L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 3 1 1 5
+p752
+aVDan Dickau BOS 11/22/2005 BOS @ CLE L 22 5 1 3 33.3 0 0 - 3 3 100.0 0 0 0 4 0 0 2 1 -13
+p753
+aVMark Blount BOS 11/22/2005 BOS @ CLE L 35 21 7 12 58.3 0 0 - 7 8 87.5 1 5 6 1 0 2 2 3 -5
+p754
+aVDelonte West BOS 11/22/2005 BOS @ CLE L 23 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 3 0 1 2 3 -1
+p755
+aVRaef LaFrentz BOS 11/22/2005 BOS @ CLE L 18 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 3 0 2 0 4 -15
+p756
+aVBrian Scalabrine BOS 11/22/2005 BOS @ CLE L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p757
+aVPaul Pierce BOS 11/22/2005 BOS @ CLE L 36 24 10 24 41.7 2 4 50.0 2 2 100.0 5 10 15 1 2 0 3 2 -10
+p758
+aVKendrick Perkins BOS 11/22/2005 BOS @ CLE L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -7
+p759
+aVRicky Davis BOS 11/22/2005 BOS @ CLE L 42 27 11 23 47.8 3 6 50.0 2 5 40.0 1 4 5 5 0 1 5 2 -16
+p760
+aVJustin Reed BOS 11/22/2005 BOS @ CLE L 20 6 2 5 40.0 0 0 - 2 4 50.0 2 0 2 1 0 1 0 5 -14
+p761
+aVAl Jefferson BOS 11/22/2005 BOS @ CLE L 13 0 0 4 0.0 0 0 - 0 2 0.0 1 4 5 0 0 1 0 3 -12
+p762
+aVRyan Gomes BOS 11/22/2005 BOS @ CLE L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -9
+p763
+aVOrien Greene BOS 11/22/2005 BOS @ CLE L 12 2 1 3 33.3 0 0 - 0 0 - 1 5 6 2 1 1 5 2 -6
+p764
+aVRyan Gomes BOS 11/18/2005 BOS vs. TOR W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p765
+aVJustin Reed BOS 11/18/2005 BOS vs. TOR W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 5 -4
+p766
+aVAl Jefferson BOS 11/18/2005 BOS vs. TOR W 8 4 1 4 25.0 0 0 - 2 4 50.0 0 4 4 0 0 0 0 3 -9
+p767
+aVDan Dickau BOS 11/18/2005 BOS vs. TOR W 12 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 2 1 0 0 0 -11
+p768
+aVRaef LaFrentz BOS 11/18/2005 BOS vs. TOR W 31 8 2 8 25.0 2 5 40.0 2 2 100.0 0 4 4 1 0 1 0 2 10
+p769
+aVOrien Greene BOS 11/18/2005 BOS vs. TOR W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 0
+p770
+aVKendrick Perkins BOS 11/18/2005 BOS vs. TOR W 18 0 0 2 0.0 0 0 - 0 0 - 2 5 7 1 1 0 1 3 12
+p771
+aVBrian Scalabrine BOS 11/18/2005 BOS vs. TOR W 12 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 1 -2
+p772
+aVRicky Davis BOS 11/18/2005 BOS vs. TOR W 43 26 10 14 71.4 0 1 0.0 6 6 100.0 1 4 5 7 1 0 4 2 10
+p773
+aVPaul Pierce BOS 11/18/2005 BOS vs. TOR W 39 26 7 16 43.8 2 4 50.0 10 12 83.3 3 8 11 5 2 1 4 1 12
+p774
+aVMark Blount BOS 11/18/2005 BOS vs. TOR W 21 14 6 8 75.0 0 0 - 2 2 100.0 1 5 6 1 1 0 3 5 3
+p775
+aVDelonte West BOS 11/18/2005 BOS vs. TOR W 36 13 6 10 60.0 1 2 50.0 0 0 - 0 2 2 4 0 1 1 3 18
+p776
+aVBrian Scalabrine BOS 11/16/2005 BOS vs. SEA L 6 3 1 1 100.0 1 1 100.0 0 2 0.0 1 0 1 0 0 1 0 0 7
+p777
+aVMark Blount BOS 11/16/2005 BOS vs. SEA L 28 11 5 5 100.0 0 0 - 1 2 50.0 0 3 3 2 0 0 1 2 -13
+p778
+aVOrien Greene BOS 11/16/2005 BOS vs. SEA L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 2 11
+p779
+aVJustin Reed BOS 11/16/2005 BOS vs. SEA L 17 8 2 4 50.0 0 0 - 4 4 100.0 3 0 3 2 0 0 0 4 -1
+p780
+aVDelonte West BOS 11/16/2005 BOS vs. SEA L 34 9 4 10 40.0 1 3 33.3 0 0 - 0 2 2 5 0 1 3 4 -14
+p781
+aVAl Jefferson BOS 11/16/2005 BOS vs. SEA L 18 10 4 7 57.1 0 0 - 2 2 100.0 2 6 8 0 0 0 1 2 -5
+p782
+aVRaef LaFrentz BOS 11/16/2005 BOS vs. SEA L 26 14 6 9 66.7 1 3 33.3 1 2 50.0 2 3 5 1 0 1 1 3 -12
+p783
+aVPaul Pierce BOS 11/16/2005 BOS vs. SEA L 39 22 9 16 56.3 1 2 50.0 3 5 60.0 1 5 6 3 1 0 3 3 -16
+p784
+aVDan Dickau BOS 11/16/2005 BOS vs. SEA L 7 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 2 1 -4
+p785
+aVRicky Davis BOS 11/16/2005 BOS vs. SEA L 44 21 9 21 42.9 2 4 50.0 1 3 33.3 0 4 4 9 3 0 2 1 -13
+p786
+aVRyan Gomes BOS 11/16/2005 BOS vs. SEA L 10 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -5
+p787
+aVBrian Scalabrine BOS 11/15/2005 BOS @ DET L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 5
+p788
+aVJustin Reed BOS 11/15/2005 BOS @ DET L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -10
+p789
+aVKendrick Perkins BOS 11/15/2005 BOS @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p790
+aVAl Jefferson BOS 11/15/2005 BOS @ DET L 16 10 5 7 71.4 0 0 - 0 0 - 1 4 5 0 1 0 0 0 -1
+p791
+aVMark Blount BOS 11/15/2005 BOS @ DET L 33 15 7 13 53.8 0 0 - 1 2 50.0 0 1 1 2 0 2 4 3 -15
+p792
+aVRaef LaFrentz BOS 11/15/2005 BOS @ DET L 30 11 4 6 66.7 1 2 50.0 2 2 100.0 0 9 9 0 0 0 1 4 -10
+p793
+aVDelonte West BOS 11/15/2005 BOS @ DET L 31 4 2 8 25.0 0 1 0.0 0 0 - 1 3 4 5 0 0 0 6 -13
+p794
+aVRyan Gomes BOS 11/15/2005 BOS @ DET L 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -5
+p795
+aVDan Dickau BOS 11/15/2005 BOS @ DET L 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 0 0 3 4 1
+p796
+aVRicky Davis BOS 11/15/2005 BOS @ DET L 42 31 14 21 66.7 1 1 100.0 2 3 66.7 3 2 5 9 1 0 2 2 -2
+p797
+aVPaul Pierce BOS 11/15/2005 BOS @ DET L 39 23 9 18 50.0 3 5 60.0 2 2 100.0 0 7 7 3 0 0 2 3 -25
+p798
+aVOrien Greene BOS 11/15/2005 BOS @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p799
+aVDelonte West BOS 11/13/2005 BOS vs. HOU W 34 2 1 5 20.0 0 2 0.0 0 0 - 2 4 6 5 1 0 3 5 19
+p800
+aVRaef LaFrentz BOS 11/13/2005 BOS vs. HOU W 34 32 12 19 63.2 7 9 77.8 1 2 50.0 4 4 8 1 0 2 1 2 25
+p801
+aVBrian Scalabrine BOS 11/13/2005 BOS vs. HOU W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 3 1
+p802
+aVRicky Davis BOS 11/13/2005 BOS vs. HOU W 37 19 8 16 50.0 1 3 33.3 2 2 100.0 1 6 7 4 5 0 2 2 16
+p803
+aVKendrick Perkins BOS 11/13/2005 BOS vs. HOU W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -4
+p804
+aVAl Jefferson BOS 11/13/2005 BOS vs. HOU W 11 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 0 1 2 3 -1
+p805
+aVRyan Gomes BOS 11/13/2005 BOS vs. HOU W 19 8 3 8 37.5 0 1 0.0 2 2 100.0 4 1 5 1 1 0 0 0 2
+p806
+aVMark Blount BOS 11/13/2005 BOS vs. HOU W 32 17 8 15 53.3 0 0 - 1 2 50.0 1 2 3 1 1 3 3 3 23
+p807
+aVPaul Pierce BOS 11/13/2005 BOS vs. HOU W 37 19 5 13 38.5 3 8 37.5 6 6 100.0 2 5 7 10 1 0 2 2 23
+p808
+aVJustin Reed BOS 11/13/2005 BOS vs. HOU W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p809
+aVDan Dickau BOS 11/13/2005 BOS vs. HOU W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 1 3 1
+p810
+aVOrien Greene BOS 11/13/2005 BOS vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p811
+aVJustin Reed BOS 11/11/2005 BOS vs. SAS L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p812
+aVDelonte West BOS 11/11/2005 BOS vs. SAS L 25 8 4 12 33.3 0 2 0.0 0 0 - 1 2 3 1 2 1 1 2 -27
+p813
+aVMark Blount BOS 11/11/2005 BOS vs. SAS L 17 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 3 0 0 1 1 -24
+p814
+aVOrien Greene BOS 11/11/2005 BOS vs. SAS L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 2 1 1 1 0 0
+p815
+aVBrian Scalabrine BOS 11/11/2005 BOS vs. SAS L 17 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 2 1 5
+p816
+aVRyan Gomes BOS 11/11/2005 BOS vs. SAS L 20 9 3 4 75.0 1 2 50.0 2 4 50.0 0 1 1 0 1 0 0 1 1
+p817
+aVKendrick Perkins BOS 11/11/2005 BOS vs. SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p818
+aVDan Dickau BOS 11/11/2005 BOS vs. SAS L 22 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 5 0 0 1 4 7
+p819
+aVAl Jefferson BOS 11/11/2005 BOS vs. SAS L 31 12 6 12 50.0 0 0 - 0 2 0.0 2 4 6 2 0 0 2 4 1
+p820
+aVRicky Davis BOS 11/11/2005 BOS vs. SAS L 35 10 5 17 29.4 0 2 0.0 0 0 - 1 1 2 5 0 0 3 1 -12
+p821
+aVRaef LaFrentz BOS 11/11/2005 BOS vs. SAS L 17 5 2 3 66.7 1 2 50.0 0 0 - 0 5 5 1 0 0 0 2 -26
+p822
+aVPaul Pierce BOS 11/11/2005 BOS vs. SAS L 34 20 8 19 42.1 0 1 0.0 4 5 80.0 4 6 10 3 0 0 4 1 -28
+p823
+aVKendrick Perkins BOS 11/09/2005 BOS vs. MEM W 5 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -6
+p824
+aVPaul Pierce BOS 11/09/2005 BOS vs. MEM W 39 29 9 13 69.2 3 3 100.0 8 10 80.0 1 6 7 8 3 1 1 3 9
+p825
+aVRyan Gomes BOS 11/09/2005 BOS vs. MEM W 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 1 0 2
+p826
+aVRicky Davis BOS 11/09/2005 BOS vs. MEM W 42 18 6 10 60.0 1 1 100.0 5 6 83.3 0 5 5 3 2 0 1 4 -3
+p827
+aVAl Jefferson BOS 11/09/2005 BOS vs. MEM W 15 8 4 4 100.0 0 0 - 0 0 - 0 4 4 0 1 0 1 5 2
+p828
+aVMark Blount BOS 11/09/2005 BOS vs. MEM W 37 17 8 14 57.1 0 0 - 1 2 50.0 0 1 1 5 2 1 6 1 5
+p829
+aVBrian Scalabrine BOS 11/09/2005 BOS vs. MEM W 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -6
+p830
+aVJustin Reed BOS 11/09/2005 BOS vs. MEM W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 1 1 -6
+p831
+aVRaef LaFrentz BOS 11/09/2005 BOS vs. MEM W 28 10 4 9 44.4 2 4 50.0 0 0 - 0 6 6 0 0 0 0 0 7
+p832
+aVDelonte West BOS 11/09/2005 BOS vs. MEM W 36 8 2 5 40.0 1 1 100.0 3 4 75.0 2 4 6 5 2 1 3 2 8
+p833
+aVDan Dickau BOS 11/09/2005 BOS vs. MEM W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 1 0 1 4 -7
+p834
+aVKendrick Perkins BOS 11/05/2005 BOS @ CHA L 25 0 0 1 0.0 0 0 - 0 2 0.0 3 7 10 0 1 2 0 4 12
+p835
+aVRaef LaFrentz BOS 11/05/2005 BOS @ CHA L 24 7 2 5 40.0 1 3 33.3 2 2 100.0 1 1 2 0 0 1 3 6 -9
+p836
+aVRyan Gomes BOS 11/05/2005 BOS @ CHA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p837
+aVBrian Scalabrine BOS 11/05/2005 BOS @ CHA L 10 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 1 0 0 1 -5
+p838
+aVMark Blount BOS 11/05/2005 BOS @ CHA L 29 7 3 9 33.3 0 0 - 1 2 50.0 1 3 4 3 0 2 8 6 -1
+p839
+aVAl Jefferson BOS 11/05/2005 BOS @ CHA L 18 12 5 9 55.6 0 0 - 2 4 50.0 3 1 4 0 2 1 0 5 -1
+p840
+aVOrien Greene BOS 11/05/2005 BOS @ CHA L 8 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 1 1 1 -9
+p841
+aVJustin Reed BOS 11/05/2005 BOS @ CHA L 13 7 2 3 66.7 0 0 - 3 4 75.0 1 0 1 0 0 0 2 3 7
+p842
+aVDan Dickau BOS 11/05/2005 BOS @ CHA L 21 5 1 3 33.3 1 2 50.0 2 2 100.0 2 1 3 7 2 0 2 3 14
+p843
+aVRicky Davis BOS 11/05/2005 BOS @ CHA L 49 21 10 26 38.5 0 2 0.0 1 2 50.0 3 7 10 5 3 0 3 1 -7
+p844
+aVPaul Pierce BOS 11/05/2005 BOS @ CHA L 45 32 11 20 55.0 1 3 33.3 9 10 90.0 0 5 5 3 1 0 3 4 0
+p845
+aVDelonte West BOS 11/05/2005 BOS @ CHA L 21 9 3 6 50.0 1 3 33.3 2 2 100.0 0 1 1 3 0 1 2 4 -9
+p846
+aVAl Jefferson BOS 11/04/2005 BOS vs. DET L 14 3 1 5 20.0 0 0 - 1 2 50.0 3 1 4 0 1 1 0 1 -3
+p847
+aVKendrick Perkins BOS 11/04/2005 BOS vs. DET L 7 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -1
+p848
+aVMark Blount BOS 11/04/2005 BOS vs. DET L 34 16 7 15 46.7 0 0 - 2 2 100.0 3 6 9 3 0 3 2 1 1
+p849
+aVDelonte West BOS 11/04/2005 BOS vs. DET L 35 10 4 9 44.4 0 1 0.0 2 2 100.0 1 5 6 3 2 2 2 4 2
+p850
+aVOrien Greene BOS 11/04/2005 BOS vs. DET L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -1
+p851
+aVRicky Davis BOS 11/04/2005 BOS vs. DET L 41 10 4 12 33.3 0 1 0.0 2 4 50.0 0 5 5 8 1 0 4 3 -1
+p852
+aVPaul Pierce BOS 11/04/2005 BOS vs. DET L 39 28 10 18 55.6 0 1 0.0 8 12 66.7 1 6 7 3 2 0 4 1 4
+p853
+aVRaef LaFrentz BOS 11/04/2005 BOS vs. DET L 34 10 4 10 40.0 2 5 40.0 0 0 - 3 3 6 1 1 1 2 5 2
+p854
+aVJustin Reed BOS 11/04/2005 BOS vs. DET L 16 4 0 3 0.0 0 0 - 4 4 100.0 2 0 2 0 1 0 0 1 -5
+p855
+aVBrian Scalabrine BOS 11/04/2005 BOS vs. DET L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p856
+aVDelonte West BOS 11/02/2005 BOS vs. NYK W 40 14 5 9 55.6 0 3 0.0 4 6 66.7 4 5 9 9 3 4 1 5 25
+p857
+aVAl Jefferson BOS 11/02/2005 BOS vs. NYK W 12 3 1 5 20.0 0 0 - 1 1 100.0 2 6 8 1 0 0 0 4 -4
+p858
+aVOrien Greene BOS 11/02/2005 BOS vs. NYK W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -10
+p859
+aVRyan Gomes BOS 11/02/2005 BOS vs. NYK W 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -9
+p860
+aVRaef LaFrentz BOS 11/02/2005 BOS vs. NYK W 30 14 6 12 50.0 2 5 40.0 0 1 0.0 2 7 9 1 3 2 2 3 22
+p861
+aVBrian Scalabrine BOS 11/02/2005 BOS vs. NYK W 11 3 1 4 25.0 1 3 33.3 0 0 - 2 1 3 0 1 0 3 4 -3
+p862
+aVMark Blount BOS 11/02/2005 BOS vs. NYK W 43 19 6 13 46.2 0 0 - 7 7 100.0 2 3 5 2 2 2 3 1 15
+p863
+aVJustin Reed BOS 11/02/2005 BOS vs. NYK W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p864
+aVKendrick Perkins BOS 11/02/2005 BOS vs. NYK W 10 0 0 1 0.0 0 0 - 0 0 - 2 2 4 2 0 0 0 1 0
+p865
+aVRicky Davis BOS 11/02/2005 BOS vs. NYK W 46 27 10 22 45.5 2 3 66.7 5 8 62.5 2 1 3 5 5 1 2 1 26
+p866
+aVPaul Pierce BOS 11/02/2005 BOS vs. NYK W 44 30 6 18 33.3 0 2 0.0 18 24 75.0 2 10 12 3 1 2 4 2 16
+p867
+a.

@@ -1,0 +1,1800 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRyan Gomes MIN 04/14/2010 MIN vs. DET L 32 2 0 3 0.0 0 0 - 2 3 66.7 1 3 4 0 0 0 0 3 -1
+p2
+aVKevin Love MIN 04/14/2010 MIN vs. DET L 18 9 4 10 40.0 0 1 0.0 1 2 50.0 5 5 10 5 1 1 4 2 13
+p3
+aVAl Jefferson MIN 04/14/2010 MIN vs. DET L 38 16 8 15 53.3 0 0 - 0 0 - 2 9 11 4 1 4 2 2 -10
+p4
+aVRyan Hollins MIN 04/14/2010 MIN vs. DET L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -3
+p5
+aVDamien Wilkins MIN 04/14/2010 MIN vs. DET L 17 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 3 -12
+p6
+aVRamon Sessions MIN 04/14/2010 MIN vs. DET L 41 14 3 12 25.0 0 1 0.0 8 10 80.0 0 1 1 5 1 1 2 5 -9
+p7
+aVCorey Brewer MIN 04/14/2010 MIN vs. DET L 35 27 10 15 66.7 2 5 40.0 5 6 83.3 2 0 2 4 0 0 2 3 -14
+p8
+aVSasha Pavlovic MIN 04/14/2010 MIN vs. DET L 14 8 4 6 66.7 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 12
+p9
+aVDarko Milicic MIN 04/14/2010 MIN vs. DET L 36 15 6 10 60.0 0 1 0.0 3 3 100.0 2 4 6 2 2 0 4 4 -5
+p10
+aVWayne Ellington MIN 04/14/2010 MIN vs. DET L 7 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 0 4
+p11
+aVRamon Sessions MIN 04/12/2010 MIN @ SAS L 27 13 6 11 54.5 0 0 - 1 2 50.0 1 2 3 10 1 0 3 1 3
+p12
+aVRyan Hollins MIN 04/12/2010 MIN @ SAS L 12 9 4 5 80.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 4 2
+p13
+aVAl Jefferson MIN 04/12/2010 MIN @ SAS L 24 13 4 8 50.0 0 0 - 5 5 100.0 0 6 6 0 1 1 2 5 1
+p14
+aVJonny Flynn MIN 04/12/2010 MIN @ SAS L 21 5 1 7 14.3 0 1 0.0 3 4 75.0 0 1 1 2 0 0 2 1 -25
+p15
+aVKevin Love MIN 04/12/2010 MIN @ SAS L 23 11 1 7 14.3 0 2 0.0 9 11 81.8 1 8 9 0 0 0 4 1 -17
+p16
+aVCorey Brewer MIN 04/12/2010 MIN @ SAS L 20 11 4 8 50.0 2 2 100.0 1 2 50.0 0 2 2 1 1 0 0 4 -18
+p17
+aVDarko Milicic MIN 04/12/2010 MIN @ SAS L 21 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 0 2 1 2 -22
+p18
+aVDamien Wilkins MIN 04/12/2010 MIN @ SAS L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -10
+p19
+aVSasha Pavlovic MIN 04/12/2010 MIN @ SAS L 20 16 6 7 85.7 4 4 100.0 0 0 - 0 2 2 2 1 0 1 1 -3
+p20
+aVRyan Gomes MIN 04/12/2010 MIN @ SAS L 19 12 5 8 62.5 1 1 100.0 1 1 100.0 0 1 1 2 1 0 1 1 -13
+p21
+aVBrian Cardinal MIN 04/12/2010 MIN @ SAS L 11 2 0 0 - 0 0 - 2 2 100.0 2 0 2 3 0 0 0 3 7
+p22
+aVWayne Ellington MIN 04/12/2010 MIN @ SAS L 34 13 5 12 41.7 2 5 40.0 1 1 100.0 1 3 4 1 1 1 3 2 -15
+p23
+aVDarko Milicic MIN 04/11/2010 MIN @ NOH L 25 6 3 9 33.3 0 0 - 0 0 - 0 5 5 2 2 1 3 3 -9
+p24
+aVAl Jefferson MIN 04/11/2010 MIN @ NOH L 30 5 1 6 16.7 0 0 - 3 6 50.0 0 3 3 2 0 1 3 1 -29
+p25
+aVDamien Wilkins MIN 04/11/2010 MIN @ NOH L 10 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 1 0 1 0 1 0
+p26
+aVRyan Gomes MIN 04/11/2010 MIN @ NOH L 34 18 4 9 44.4 2 4 50.0 8 8 100.0 0 4 4 0 1 0 3 2 -18
+p27
+aVWayne Ellington MIN 04/11/2010 MIN @ NOH L 14 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 1 -10
+p28
+aVRyan Hollins MIN 04/11/2010 MIN @ NOH L 9 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -10
+p29
+aVSasha Pavlovic MIN 04/11/2010 MIN @ NOH L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -13
+p30
+aVKevin Love MIN 04/11/2010 MIN @ NOH L 19 9 4 8 50.0 0 1 0.0 1 2 50.0 3 3 6 1 0 0 1 3 -6
+p31
+aVJonny Flynn MIN 04/11/2010 MIN @ NOH L 26 11 4 9 44.4 1 3 33.3 2 2 100.0 0 3 3 2 0 0 2 0 -18
+p32
+aVRamon Sessions MIN 04/11/2010 MIN @ NOH L 22 17 5 8 62.5 0 0 - 7 8 87.5 0 2 2 0 1 0 3 1 -10
+p33
+aVBrian Cardinal MIN 04/11/2010 MIN @ NOH L 13 1 0 0 - 0 0 - 1 2 50.0 0 4 4 3 1 0 2 6 0
+p34
+aVCorey Brewer MIN 04/11/2010 MIN @ NOH L 28 7 2 9 22.2 0 2 0.0 3 4 75.0 1 1 2 2 3 0 1 1 -17
+p35
+aVDarko Milicic MIN 04/09/2010 MIN vs. LAL L 39 13 5 11 45.5 0 0 - 3 5 60.0 4 5 9 5 0 3 3 3 7
+p36
+aVRyan Hollins MIN 04/09/2010 MIN vs. LAL L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -8
+p37
+aVWayne Ellington MIN 04/09/2010 MIN vs. LAL L 18 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -5
+p38
+aVDamien Wilkins MIN 04/09/2010 MIN vs. LAL L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -1
+p39
+aVRamon Sessions MIN 04/09/2010 MIN vs. LAL L 20 16 8 16 50.0 0 0 - 0 0 - 3 2 5 1 0 0 0 3 -4
+p40
+aVKevin Love MIN 04/09/2010 MIN vs. LAL L 39 12 5 13 38.5 1 5 20.0 1 2 50.0 5 13 18 3 2 0 4 4 -14
+p41
+aVCorey Brewer MIN 04/09/2010 MIN vs. LAL L 30 4 2 10 20.0 0 3 0.0 0 0 - 0 1 1 2 3 0 2 3 -4
+p42
+aVRyan Gomes MIN 04/09/2010 MIN vs. LAL L 39 15 7 16 43.8 0 5 0.0 1 2 50.0 2 5 7 6 1 0 1 2 -9
+p43
+aVJonny Flynn MIN 04/09/2010 MIN vs. LAL L 28 19 7 13 53.8 5 8 62.5 0 0 - 0 2 2 4 0 0 4 0 -5
+p44
+aVSasha Pavlovic MIN 04/09/2010 MIN vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p45
+aVSasha Pavlovic MIN 04/07/2010 MIN vs. GSW L 11 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p46
+aVRyan Gomes MIN 04/07/2010 MIN vs. GSW L 33 19 6 13 46.2 4 6 66.7 3 3 100.0 0 2 2 1 1 0 1 2 -8
+p47
+aVDamien Wilkins MIN 04/07/2010 MIN vs. GSW L 29 7 2 5 40.0 0 1 0.0 3 4 75.0 0 2 2 2 1 0 0 1 0
+p48
+aVRamon Sessions MIN 04/07/2010 MIN vs. GSW L 14 9 3 6 50.0 0 0 - 3 5 60.0 0 0 0 2 0 0 4 0 -5
+p49
+aVDarko Milicic MIN 04/07/2010 MIN vs. GSW L 37 16 8 17 47.1 0 0 - 0 2 0.0 3 4 7 4 2 1 1 1 -6
+p50
+aVRyan Hollins MIN 04/07/2010 MIN vs. GSW L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 1 1 0 -4
+p51
+aVCorey Brewer MIN 04/07/2010 MIN vs. GSW L 37 17 6 12 50.0 2 4 50.0 3 5 60.0 0 1 1 4 1 0 1 6 -4
+p52
+aVJonny Flynn MIN 04/07/2010 MIN vs. GSW L 34 19 7 14 50.0 3 7 42.9 2 2 100.0 1 2 3 8 1 0 6 2 -4
+p53
+aVKevin Love MIN 04/07/2010 MIN vs. GSW L 36 17 6 9 66.7 0 1 0.0 5 6 83.3 5 13 18 3 0 0 2 3 -9
+p54
+aVKevin Love MIN 04/04/2010 MIN @ OKC L 29 6 3 12 25.0 0 2 0.0 0 0 - 5 4 9 2 0 0 1 2 -15
+p55
+aVJonny Flynn MIN 04/04/2010 MIN @ OKC L 34 22 8 11 72.7 1 2 50.0 5 7 71.4 0 4 4 5 1 0 4 3 3
+p56
+aVWayne Ellington MIN 04/04/2010 MIN @ OKC L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p57
+aVAl Jefferson MIN 04/04/2010 MIN @ OKC L 39 16 5 11 45.5 0 0 - 6 7 85.7 1 6 7 3 0 2 1 2 3
+p58
+aVRamon Sessions MIN 04/04/2010 MIN @ OKC L 14 6 1 5 20.0 0 1 0.0 4 4 100.0 0 2 2 1 1 0 1 0 -11
+p59
+aVRyan Hollins MIN 04/04/2010 MIN @ OKC L 13 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 2 0 0 2 5 -4
+p60
+aVRyan Gomes MIN 04/04/2010 MIN @ OKC L 37 22 7 13 53.8 4 7 57.1 4 5 80.0 0 3 3 0 0 0 0 0 6
+p61
+aVOleksiy Pecherov MIN 04/04/2010 MIN @ OKC L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -8
+p62
+aVSasha Pavlovic MIN 04/04/2010 MIN @ OKC L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -9
+p63
+aVCorey Brewer MIN 04/04/2010 MIN @ OKC L 31 18 8 13 61.5 1 3 33.3 1 1 100.0 0 2 2 3 1 0 3 4 0
+p64
+aVDamien Wilkins MIN 04/04/2010 MIN @ OKC L 24 12 3 4 75.0 0 0 - 6 6 100.0 0 2 2 0 1 0 1 3 -9
+p65
+aVAl Jefferson MIN 04/03/2010 MIN vs. MIA L 30 12 6 12 50.0 0 0 - 0 0 - 1 4 5 1 0 1 2 1 -18
+p66
+aVDamien Wilkins MIN 04/03/2010 MIN vs. MIA L 21 9 3 4 75.0 1 2 50.0 2 3 66.7 1 1 2 0 1 0 3 1 -2
+p67
+aVRamon Sessions MIN 04/03/2010 MIN vs. MIA L 25 12 5 10 50.0 0 0 - 2 5 40.0 0 6 6 5 0 0 0 5 5
+p68
+aVRyan Gomes MIN 04/03/2010 MIN vs. MIA L 33 9 3 7 42.9 3 6 50.0 0 0 - 1 2 3 1 2 0 0 1 -21
+p69
+aVCorey Brewer MIN 04/03/2010 MIN vs. MIA L 20 1 0 9 0.0 0 4 0.0 1 2 50.0 1 0 1 4 0 2 0 3 -11
+p70
+aVJonny Flynn MIN 04/03/2010 MIN vs. MIA L 23 8 3 8 37.5 0 3 0.0 2 2 100.0 0 2 2 3 0 0 2 1 -18
+p71
+aVKevin Love MIN 04/03/2010 MIN vs. MIA L 34 11 4 8 50.0 0 2 0.0 3 4 75.0 2 9 11 4 2 0 1 2 -2
+p72
+aVSasha Pavlovic MIN 04/03/2010 MIN vs. MIA L 18 6 3 6 50.0 0 1 0.0 0 0 - 1 3 4 1 0 0 1 1 1
+p73
+aVRyan Hollins MIN 04/03/2010 MIN vs. MIA L 16 4 1 2 50.0 0 0 - 2 7 28.6 1 1 2 0 3 0 2 3 -1
+p74
+aVWayne Ellington MIN 04/03/2010 MIN vs. MIA L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p75
+aVDarko Milicic MIN 04/03/2010 MIN vs. MIA L 13 10 5 8 62.5 0 0 - 0 0 - 0 1 1 1 1 3 1 0 2
+p76
+aVDarko Milicic MIN 03/31/2010 MIN vs. SAC W 38 15 7 10 70.0 0 0 - 1 3 33.3 2 8 10 3 1 4 1 2 9
+p77
+aVCorey Brewer MIN 03/31/2010 MIN vs. SAC W 26 19 7 9 77.8 2 3 66.7 3 3 100.0 1 1 2 3 2 0 2 3 11
+p78
+aVJonny Flynn MIN 03/31/2010 MIN vs. SAC W 36 18 7 15 46.7 3 4 75.0 1 1 100.0 0 0 0 8 0 0 4 1 5
+p79
+aVRyan Gomes MIN 03/31/2010 MIN vs. SAC W 35 9 4 11 36.4 1 4 25.0 0 0 - 2 7 9 8 0 0 1 2 8
+p80
+aVAl Jefferson MIN 03/31/2010 MIN vs. SAC W 35 19 9 15 60.0 0 0 - 1 2 50.0 3 9 12 3 1 6 4 3 1
+p81
+aVRamon Sessions MIN 03/31/2010 MIN vs. SAC W 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 4 0 0 2 1 4
+p82
+aVWayne Ellington MIN 03/31/2010 MIN vs. SAC W 17 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 -9
+p83
+aVKevin Love MIN 03/31/2010 MIN vs. SAC W 23 12 5 9 55.6 0 0 - 2 2 100.0 1 10 11 1 0 0 2 2 8
+p84
+aVSasha Pavlovic MIN 03/31/2010 MIN vs. SAC W 19 11 5 8 62.5 1 3 33.3 0 0 - 0 0 0 0 0 0 2 1 8
+p85
+aVCorey Brewer MIN 03/28/2010 MIN vs. PHX L 30 10 3 9 33.3 1 4 25.0 3 8 37.5 1 3 4 3 3 1 0 1 -7
+p86
+aVRyan Gomes MIN 03/28/2010 MIN vs. PHX L 29 16 7 11 63.6 2 4 50.0 0 0 - 2 0 2 2 0 0 1 3 3
+p87
+aVSasha Pavlovic MIN 03/28/2010 MIN vs. PHX L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -11
+p88
+aVJonny Flynn MIN 03/28/2010 MIN vs. PHX L 24 10 3 9 33.3 0 1 0.0 4 4 100.0 0 2 2 3 0 0 2 0 5
+p89
+aVRamon Sessions MIN 03/28/2010 MIN vs. PHX L 24 10 3 7 42.9 0 1 0.0 4 4 100.0 1 2 3 3 0 0 3 2 -11
+p90
+aVDamien Wilkins MIN 03/28/2010 MIN vs. PHX L 3 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p91
+aVAl Jefferson MIN 03/28/2010 MIN vs. PHX L 32 19 6 16 37.5 0 0 - 7 10 70.0 4 12 16 1 1 1 2 4 9
+p92
+aVWayne Ellington MIN 03/28/2010 MIN vs. PHX L 26 7 3 7 42.9 0 1 0.0 1 1 100.0 0 2 2 2 1 0 1 1 -3
+p93
+aVRyan Hollins MIN 03/28/2010 MIN vs. PHX L 10 2 1 1 100.0 0 0 - 0 2 0.0 1 2 3 1 0 1 2 1 -9
+p94
+aVKevin Love MIN 03/28/2010 MIN vs. PHX L 32 23 8 17 47.1 1 4 25.0 6 6 100.0 8 14 22 2 1 2 2 3 4
+p95
+aVDarko Milicic MIN 03/28/2010 MIN vs. PHX L 19 6 3 13 23.1 0 0 - 0 0 - 3 1 4 0 2 1 1 3 -6
+p96
+aVRamon Sessions MIN 03/26/2010 MIN @ ORL L 17 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -7
+p97
+aVKevin Love MIN 03/26/2010 MIN @ ORL L 27 14 5 11 45.5 0 2 0.0 4 5 80.0 3 4 7 2 0 0 3 3 -17
+p98
+aVSasha Pavlovic MIN 03/26/2010 MIN @ ORL L 17 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 -12
+p99
+aVCorey Brewer MIN 03/26/2010 MIN @ ORL L 29 14 7 12 58.3 0 3 0.0 0 2 0.0 0 4 4 0 2 0 2 2 -6
+p100
+aVAl Jefferson MIN 03/26/2010 MIN @ ORL L 30 18 9 16 56.3 0 0 - 0 0 - 5 8 13 0 3 0 2 5 -8
+p101
+aVDarko Milicic MIN 03/26/2010 MIN @ ORL L 31 14 7 16 43.8 0 0 - 0 0 - 1 3 4 5 2 0 0 5 3
+p102
+aVRyan Hollins MIN 03/26/2010 MIN @ ORL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p103
+aVRyan Gomes MIN 03/26/2010 MIN @ ORL L 33 8 2 7 28.6 1 3 33.3 3 5 60.0 1 2 3 2 1 1 1 2 -3
+p104
+aVWayne Ellington MIN 03/26/2010 MIN @ ORL L 13 8 2 4 50.0 2 4 50.0 2 2 100.0 0 3 3 2 0 1 1 1 2
+p105
+aVOleksiy Pecherov MIN 03/26/2010 MIN @ ORL L 2 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p106
+aVDamien Wilkins MIN 03/26/2010 MIN @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p107
+aVJonny Flynn MIN 03/26/2010 MIN @ ORL L 31 14 5 12 41.7 1 3 33.3 3 3 100.0 0 1 1 2 2 0 1 0 -2
+p108
+aVRyan Gomes MIN 03/24/2010 MIN @ CHA L 32 12 5 10 50.0 1 3 33.3 1 2 50.0 1 4 5 1 0 0 1 2 -8
+p109
+aVSasha Pavlovic MIN 03/24/2010 MIN @ CHA L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p110
+aVKevin Love MIN 03/24/2010 MIN @ CHA L 22 5 2 6 33.3 0 1 0.0 1 1 100.0 1 8 9 0 1 1 1 2 -1
+p111
+aVRyan Hollins MIN 03/24/2010 MIN @ CHA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -1
+p112
+aVDarko Milicic MIN 03/24/2010 MIN @ CHA L 33 10 4 8 50.0 0 0 - 2 3 66.7 1 3 4 0 1 2 4 4 -14
+p113
+aVRamon Sessions MIN 03/24/2010 MIN @ CHA L 26 14 6 11 54.5 0 0 - 2 2 100.0 1 2 3 5 2 0 2 4 -8
+p114
+aVWayne Ellington MIN 03/24/2010 MIN @ CHA L 16 6 2 8 25.0 2 4 50.0 0 0 - 1 2 3 2 0 0 2 2 6
+p115
+aVCorey Brewer MIN 03/24/2010 MIN @ CHA L 27 8 4 10 40.0 0 3 0.0 0 0 - 0 1 1 4 0 0 4 2 -19
+p116
+aVDamien Wilkins MIN 03/24/2010 MIN @ CHA L 18 8 2 4 50.0 0 1 0.0 4 4 100.0 2 1 3 2 2 0 0 1 -6
+p117
+aVAl Jefferson MIN 03/24/2010 MIN @ CHA L 34 21 9 16 56.3 0 0 - 3 6 50.0 0 5 5 2 1 3 0 1 -10
+p118
+aVJonny Flynn MIN 03/24/2010 MIN @ CHA L 22 8 2 7 28.6 0 0 - 4 5 80.0 0 1 1 4 1 0 1 0 -5
+p119
+aVJonny Flynn MIN 03/22/2010 MIN vs. TOR L 33 14 3 10 30.0 0 1 0.0 8 10 80.0 0 1 1 6 3 0 4 0 -18
+p120
+aVRamon Sessions MIN 03/22/2010 MIN vs. TOR L 15 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 0 0 3 3 12
+p121
+aVRyan Gomes MIN 03/22/2010 MIN vs. TOR L 33 8 3 9 33.3 2 7 28.6 0 0 - 2 5 7 3 2 0 1 1 -9
+p122
+aVAl Jefferson MIN 03/22/2010 MIN vs. TOR L 35 22 9 16 56.3 0 0 - 4 4 100.0 1 6 7 1 2 1 1 4 11
+p123
+aVCorey Brewer MIN 03/22/2010 MIN vs. TOR L 23 12 5 8 62.5 2 2 100.0 0 0 - 1 2 3 3 0 0 1 1 2
+p124
+aVDamien Wilkins MIN 03/22/2010 MIN vs. TOR L 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 4 1 0 1 2 2
+p125
+aVWayne Ellington MIN 03/22/2010 MIN vs. TOR L 25 17 5 10 50.0 1 3 33.3 6 6 100.0 0 2 2 3 0 0 0 2 -9
+p126
+aVKevin Love MIN 03/22/2010 MIN vs. TOR L 31 13 5 11 45.5 1 3 33.3 2 2 100.0 1 4 5 0 1 1 1 2 -12
+p127
+aVDarko Milicic MIN 03/22/2010 MIN vs. TOR L 27 8 4 7 57.1 0 0 - 0 0 - 2 4 6 0 0 2 0 3 -8
+p128
+aVRyan Hollins MIN 03/22/2010 MIN vs. TOR L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p129
+aVRyan Hollins MIN 03/19/2010 MIN @ LAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p130
+aVDamien Wilkins MIN 03/19/2010 MIN @ LAL L 12 3 1 4 25.0 0 1 0.0 1 1 100.0 0 1 1 2 1 0 1 3 -6
+p131
+aVWayne Ellington MIN 03/19/2010 MIN @ LAL L 23 10 4 9 44.4 2 5 40.0 0 0 - 0 1 1 1 0 0 1 2 -8
+p132
+aVJonny Flynn MIN 03/19/2010 MIN @ LAL L 31 20 8 15 53.3 1 3 33.3 3 4 75.0 0 2 2 6 0 0 5 0 1
+p133
+aVAl Jefferson MIN 03/19/2010 MIN @ LAL L 30 14 7 15 46.7 0 1 0.0 0 0 - 2 7 9 0 1 3 1 5 -10
+p134
+aVKevin Love MIN 03/19/2010 MIN @ LAL L 36 19 8 13 61.5 1 3 33.3 2 2 100.0 5 6 11 4 0 0 2 1 1
+p135
+aVRamon Sessions MIN 03/19/2010 MIN @ LAL L 17 4 2 7 28.6 0 0 - 0 0 - 1 3 4 1 0 0 2 2 -9
+p136
+aVDarko Milicic MIN 03/19/2010 MIN @ LAL L 29 16 8 12 66.7 0 0 - 0 0 - 5 7 12 3 1 1 1 2 -3
+p137
+aVRyan Gomes MIN 03/19/2010 MIN @ LAL L 28 4 2 6 33.3 0 2 0.0 0 0 - 0 5 5 0 0 0 1 3 5
+p138
+aVCorey Brewer MIN 03/19/2010 MIN @ LAL L 33 6 2 9 22.2 0 3 0.0 2 4 50.0 1 2 3 5 4 0 5 3 -7
+p139
+aVJonny Flynn MIN 03/17/2010 MIN @ UTA L 29 8 3 9 33.3 0 2 0.0 2 2 100.0 1 3 4 4 0 0 2 1 -7
+p140
+aVWayne Ellington MIN 03/17/2010 MIN @ UTA L 22 13 4 6 66.7 3 4 75.0 2 2 100.0 0 1 1 1 0 0 1 1 -6
+p141
+aVAlando Tucker MIN 03/17/2010 MIN @ UTA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p142
+aVRyan Gomes MIN 03/17/2010 MIN @ UTA L 31 11 3 6 50.0 1 2 50.0 4 4 100.0 0 6 6 6 0 0 1 3 -12
+p143
+aVAl Jefferson MIN 03/17/2010 MIN @ UTA L 26 17 7 13 53.8 0 0 - 3 4 75.0 2 6 8 4 1 1 2 1 -7
+p144
+aVDamien Wilkins MIN 03/17/2010 MIN @ UTA L 12 4 1 3 33.3 0 1 0.0 2 3 66.7 1 0 1 0 1 0 0 0 -9
+p145
+aVDarko Milicic MIN 03/17/2010 MIN @ UTA L 29 9 4 8 50.0 0 0 - 1 2 50.0 1 2 3 2 1 1 2 5 -9
+p146
+aVCorey Brewer MIN 03/17/2010 MIN @ UTA L 32 17 6 16 37.5 2 5 40.0 3 5 60.0 0 0 0 2 2 0 1 2 -14
+p147
+aVOleksiy Pecherov MIN 03/17/2010 MIN @ UTA L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 0
+p148
+aVRyan Hollins MIN 03/17/2010 MIN @ UTA L 15 6 1 4 25.0 0 0 - 4 4 100.0 3 3 6 0 0 1 3 1 -13
+p149
+aVKevin Love MIN 03/17/2010 MIN @ UTA L 17 3 1 4 25.0 1 1 100.0 0 0 - 0 3 3 1 1 0 2 2 -18
+p150
+aVRamon Sessions MIN 03/17/2010 MIN @ UTA L 19 8 2 6 33.3 0 0 - 4 4 100.0 0 0 0 3 1 0 4 2 -15
+p151
+aVDamien Wilkins MIN 03/16/2010 MIN @ PHX L 16 7 2 2 100.0 1 1 100.0 2 2 100.0 0 1 1 0 0 1 2 3 -9
+p152
+aVOleksiy Pecherov MIN 03/16/2010 MIN @ PHX L 9 8 3 6 50.0 0 1 0.0 2 3 66.7 1 1 2 0 0 1 0 0 -8
+p153
+aVDarko Milicic MIN 03/16/2010 MIN @ PHX L 17 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 1 0 0 4 -12
+p154
+aVAlando Tucker MIN 03/16/2010 MIN @ PHX L 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -8
+p155
+aVRyan Hollins MIN 03/16/2010 MIN @ PHX L 20 10 4 6 66.7 0 0 - 2 3 66.7 1 0 1 1 0 0 0 5 -16
+p156
+aVKevin Love MIN 03/16/2010 MIN @ PHX L 26 3 0 7 0.0 0 1 0.0 3 4 75.0 3 4 7 3 0 0 1 1 -27
+p157
+aVWayne Ellington MIN 03/16/2010 MIN @ PHX L 21 7 2 9 22.2 1 3 33.3 2 2 100.0 0 2 2 2 0 0 2 0 -19
+p158
+aVJonny Flynn MIN 03/16/2010 MIN @ PHX L 30 10 3 11 27.3 1 2 50.0 3 5 60.0 0 3 3 8 1 0 1 0 -25
+p159
+aVRamon Sessions MIN 03/16/2010 MIN @ PHX L 18 9 4 10 40.0 0 0 - 1 1 100.0 1 2 3 0 0 0 1 1 -13
+p160
+aVCorey Brewer MIN 03/16/2010 MIN @ PHX L 27 21 7 12 58.3 2 3 66.7 5 7 71.4 1 2 3 0 2 0 3 1 -19
+p161
+aVAl Jefferson MIN 03/16/2010 MIN @ PHX L 23 13 6 9 66.7 0 0 - 1 2 50.0 4 4 8 1 0 1 2 3 -12
+p162
+aVRyan Gomes MIN 03/16/2010 MIN @ PHX L 24 18 7 11 63.6 2 3 66.7 2 2 100.0 1 3 4 0 0 0 0 2 -22
+p163
+aVRyan Hollins MIN 03/14/2010 MIN @ SAC L 21 6 3 6 50.0 0 0 - 0 0 - 3 4 7 1 0 0 4 2 -11
+p164
+aVCorey Brewer MIN 03/14/2010 MIN @ SAC L 20 5 2 7 28.6 1 3 33.3 0 2 0.0 1 2 3 1 0 0 2 3 -7
+p165
+aVOleksiy Pecherov MIN 03/14/2010 MIN @ SAC L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 1 0 1 9
+p166
+aVDamien Wilkins MIN 03/14/2010 MIN @ SAC L 27 3 1 6 16.7 1 1 100.0 0 2 0.0 1 6 7 0 2 0 1 3 -13
+p167
+aVRamon Sessions MIN 03/14/2010 MIN @ SAC L 27 13 5 12 41.7 0 0 - 3 5 60.0 2 2 4 4 1 0 1 2 -4
+p168
+aVNathan Jawai MIN 03/14/2010 MIN @ SAC L 9 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 0 0 1 0 4 -3
+p169
+aVJonny Flynn MIN 03/14/2010 MIN @ SAC L 21 12 3 13 23.1 1 3 33.3 5 5 100.0 0 3 3 1 0 0 3 0 -10
+p170
+aVAl Jefferson MIN 03/14/2010 MIN @ SAC L 34 22 10 17 58.8 0 0 - 2 4 50.0 1 9 10 2 0 2 0 2 -17
+p171
+aVWayne Ellington MIN 03/14/2010 MIN @ SAC L 32 15 4 9 44.4 4 5 80.0 3 4 75.0 0 4 4 2 1 0 2 0 8
+p172
+aVSasha Pavlovic MIN 03/14/2010 MIN @ SAC L 16 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 1 0
+p173
+aVRyan Gomes MIN 03/14/2010 MIN @ SAC L 26 14 7 13 53.8 0 0 - 0 0 - 1 5 6 0 0 0 2 3 -22
+p174
+aVAl Jefferson MIN 03/12/2010 MIN vs. SAS L 31 13 5 15 33.3 0 0 - 3 3 100.0 3 6 9 0 0 3 0 3 -27
+p175
+aVNathan Jawai MIN 03/12/2010 MIN vs. SAS L 12 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 3 1 -1
+p176
+aVRyan Gomes MIN 03/12/2010 MIN vs. SAS L 32 7 2 9 22.2 1 1 100.0 2 2 100.0 0 5 5 2 1 0 3 0 -18
+p177
+aVSasha Pavlovic MIN 03/12/2010 MIN vs. SAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p178
+aVWayne Ellington MIN 03/12/2010 MIN vs. SAS L 31 17 7 10 70.0 2 3 66.7 1 1 100.0 0 3 3 1 0 0 0 1 -5
+p179
+aVOleksiy Pecherov MIN 03/12/2010 MIN vs. SAS L 6 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -4
+p180
+aVDamien Wilkins MIN 03/12/2010 MIN vs. SAS L 23 8 2 6 33.3 0 0 - 4 4 100.0 0 4 4 2 2 0 0 3 2
+p181
+aVRamon Sessions MIN 03/12/2010 MIN vs. SAS L 21 10 4 9 44.4 0 1 0.0 2 3 66.7 0 2 2 2 2 0 2 1 8
+p182
+aVDarko Milicic MIN 03/12/2010 MIN vs. SAS L 27 12 5 6 83.3 0 0 - 2 2 100.0 2 3 5 1 0 0 1 5 -15
+p183
+aVJonny Flynn MIN 03/12/2010 MIN vs. SAS L 27 6 2 8 25.0 0 2 0.0 2 2 100.0 1 1 2 3 1 0 2 0 -26
+p184
+aVCorey Brewer MIN 03/12/2010 MIN vs. SAS L 26 8 2 7 28.6 1 3 33.3 3 6 50.0 0 5 5 2 1 0 2 4 -7
+p185
+aVJonny Flynn MIN 03/10/2010 MIN vs. DEN L 27 11 4 10 40.0 0 2 0.0 3 3 100.0 0 1 1 4 1 0 2 1 -11
+p186
+aVWayne Ellington MIN 03/10/2010 MIN vs. DEN L 18 6 2 8 25.0 0 3 0.0 2 2 100.0 2 3 5 1 0 0 0 1 -7
+p187
+aVDarko Milicic MIN 03/10/2010 MIN vs. DEN L 27 6 2 6 33.3 0 0 - 2 2 100.0 3 9 12 2 0 1 1 3 2
+p188
+aVAl Jefferson MIN 03/10/2010 MIN vs. DEN L 32 17 7 13 53.8 0 0 - 3 7 42.9 3 7 10 3 0 0 3 5 -4
+p189
+aVDamien Wilkins MIN 03/10/2010 MIN vs. DEN L 19 8 3 7 42.9 1 1 100.0 1 2 50.0 1 0 1 1 1 1 1 4 2
+p190
+aVKevin Love MIN 03/10/2010 MIN vs. DEN L 27 15 3 9 33.3 0 0 - 9 10 90.0 3 8 11 4 1 0 0 3 -7
+p191
+aVCorey Brewer MIN 03/10/2010 MIN vs. DEN L 33 21 8 19 42.1 3 8 37.5 2 2 100.0 1 4 5 2 0 0 0 4 -6
+p192
+aVRyan Gomes MIN 03/10/2010 MIN vs. DEN L 36 9 4 11 36.4 1 4 25.0 0 0 - 1 4 5 1 0 0 2 1 -13
+p193
+aVNathan Jawai MIN 03/10/2010 MIN vs. DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p194
+aVRamon Sessions MIN 03/10/2010 MIN vs. DEN L 21 9 2 7 28.6 0 0 - 5 5 100.0 2 1 3 5 1 0 3 2 3
+p195
+aVCorey Brewer MIN 03/08/2010 MIN vs. DAL L 39 11 3 10 30.0 1 7 14.3 4 5 80.0 2 5 7 5 0 0 3 3 -12
+p196
+aVRyan Gomes MIN 03/08/2010 MIN vs. DAL L 37 12 5 12 41.7 0 3 0.0 2 2 100.0 1 7 8 5 0 0 3 3 0
+p197
+aVJonny Flynn MIN 03/08/2010 MIN vs. DAL L 30 13 4 12 33.3 2 6 33.3 3 3 100.0 1 1 2 8 4 0 8 0 -6
+p198
+aVRyan Hollins MIN 03/08/2010 MIN vs. DAL L 26 13 5 8 62.5 0 0 - 3 5 60.0 2 7 9 1 1 0 2 4 -5
+p199
+aVRamon Sessions MIN 03/08/2010 MIN vs. DAL L 18 11 5 5 100.0 0 0 - 1 2 50.0 0 1 1 2 0 0 2 0 -7
+p200
+aVAl Jefferson MIN 03/08/2010 MIN vs. DAL L 38 36 15 22 68.2 0 0 - 6 7 85.7 5 9 14 2 0 2 1 2 -10
+p201
+aVDarko Milicic MIN 03/08/2010 MIN vs. DAL L 19 3 1 3 33.3 0 0 - 1 2 50.0 0 5 5 2 0 0 1 4 4
+p202
+aVDamien Wilkins MIN 03/08/2010 MIN vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p203
+aVKevin Love MIN 03/08/2010 MIN vs. DAL L 12 6 1 7 14.3 0 0 - 4 4 100.0 4 2 6 0 0 0 3 2 -9
+p204
+aVSasha Pavlovic MIN 03/08/2010 MIN vs. DAL L 21 7 3 10 30.0 1 6 16.7 0 3 0.0 1 1 2 1 1 0 2 2 -20
+p205
+aVRyan Hollins MIN 03/06/2010 MIN vs. HOU L 26 15 7 7 100.0 0 0 - 1 2 50.0 2 3 5 2 1 1 2 2 -10
+p206
+aVDarko Milicic MIN 03/06/2010 MIN vs. HOU L 32 2 1 5 20.0 0 0 - 0 0 - 3 6 9 5 1 0 0 2 -10
+p207
+aVAlando Tucker MIN 03/06/2010 MIN vs. HOU L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -13
+p208
+aVCorey Brewer MIN 03/06/2010 MIN vs. HOU L 35 12 4 10 40.0 1 2 50.0 3 7 42.9 0 2 2 1 3 0 5 4 5
+p209
+aVJonny Flynn MIN 03/06/2010 MIN vs. HOU L 29 14 6 11 54.5 2 2 100.0 0 0 - 0 1 1 4 1 0 3 3 -20
+p210
+aVKevin Love MIN 03/06/2010 MIN vs. HOU L 33 20 7 17 41.2 0 3 0.0 6 6 100.0 1 10 11 4 2 3 3 2 -2
+p211
+aVSasha Pavlovic MIN 03/06/2010 MIN vs. HOU L 6 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -9
+p212
+aVRyan Gomes MIN 03/06/2010 MIN vs. HOU L 39 17 5 11 45.5 0 3 0.0 7 8 87.5 1 4 5 3 2 0 3 2 5
+p213
+aVRamon Sessions MIN 03/06/2010 MIN vs. HOU L 19 14 5 9 55.6 0 0 - 4 4 100.0 1 1 2 0 0 0 1 1 6
+p214
+aVDamien Wilkins MIN 03/06/2010 MIN vs. HOU L 18 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 1 1 0 0 2 -22
+p215
+aVOleksiy Pecherov MIN 03/03/2010 MIN @ DAL L 7 4 1 3 33.3 0 2 0.0 2 2 100.0 1 2 3 0 0 0 1 1 12
+p216
+aVRyan Hollins MIN 03/03/2010 MIN @ DAL L 36 14 6 7 85.7 0 0 - 2 4 50.0 5 2 7 1 0 0 2 3 -16
+p217
+aVCorey Brewer MIN 03/03/2010 MIN @ DAL L 38 24 6 16 37.5 2 6 33.3 10 12 83.3 2 5 7 4 2 0 6 5 6
+p218
+aVRamon Sessions MIN 03/03/2010 MIN @ DAL L 13 6 3 6 50.0 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -5
+p219
+aVDarko Milicic MIN 03/03/2010 MIN @ DAL L 14 6 3 3 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 4 8
+p220
+aVRyan Gomes MIN 03/03/2010 MIN @ DAL L 29 11 5 11 45.5 1 3 33.3 0 0 - 1 6 7 2 0 0 1 2 -8
+p221
+aVKevin Love MIN 03/03/2010 MIN @ DAL L 33 14 5 9 55.6 2 3 66.7 2 2 100.0 3 11 14 2 0 0 4 4 -4
+p222
+aVJonny Flynn MIN 03/03/2010 MIN @ DAL L 35 19 9 15 60.0 1 3 33.3 0 0 - 1 1 2 4 1 0 4 3 2
+p223
+aVSasha Pavlovic MIN 03/03/2010 MIN @ DAL L 10 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 1 1 0 0 -10
+p224
+aVDamien Wilkins MIN 03/03/2010 MIN @ DAL L 25 6 2 4 50.0 0 1 0.0 2 3 66.7 1 4 5 3 2 2 1 0 0
+p225
+aVWayne Ellington MIN 02/27/2010 MIN vs. POR L 15 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 1 0 2 -1
+p226
+aVCorey Brewer MIN 02/27/2010 MIN vs. POR L 25 10 4 7 57.1 2 2 100.0 0 0 - 0 1 1 2 1 0 2 2 -19
+p227
+aVJonny Flynn MIN 02/27/2010 MIN vs. POR L 26 7 3 8 37.5 0 2 0.0 1 1 100.0 0 1 1 7 1 0 2 1 -13
+p228
+aVRyan Gomes MIN 02/27/2010 MIN vs. POR L 20 1 0 3 0.0 0 1 0.0 1 1 100.0 1 4 5 0 0 0 2 3 -21
+p229
+aVKevin Love MIN 02/27/2010 MIN vs. POR L 23 10 4 10 40.0 0 1 0.0 2 2 100.0 0 6 6 2 0 1 1 0 -10
+p230
+aVDarko Milicic MIN 02/27/2010 MIN vs. POR L 23 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 3 3 6 -10
+p231
+aVDamien Wilkins MIN 02/27/2010 MIN vs. POR L 15 6 2 3 66.7 1 2 50.0 1 1 100.0 0 3 3 1 0 1 0 0 -6
+p232
+aVRyan Hollins MIN 02/27/2010 MIN vs. POR L 14 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 5 -2
+p233
+aVRamon Sessions MIN 02/27/2010 MIN vs. POR L 22 13 4 8 50.0 0 0 - 5 5 100.0 0 4 4 4 0 0 2 0 -6
+p234
+aVSasha Pavlovic MIN 02/27/2010 MIN vs. POR L 21 5 2 5 40.0 1 4 25.0 0 0 - 0 5 5 0 0 0 1 0 9
+p235
+aVOleksiy Pecherov MIN 02/27/2010 MIN vs. POR L 6 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 7
+p236
+aVAl Jefferson MIN 02/27/2010 MIN vs. POR L 30 19 9 19 47.4 0 0 - 1 5 20.0 6 5 11 2 0 0 5 5 -23
+p237
+aVRyan Gomes MIN 02/26/2010 MIN @ OKC L 27 10 4 11 36.4 1 4 25.0 1 1 100.0 2 5 7 0 2 0 3 1 -23
+p238
+aVCorey Brewer MIN 02/26/2010 MIN @ OKC L 28 9 4 10 40.0 1 2 50.0 0 0 - 0 3 3 1 2 0 2 4 -21
+p239
+aVSasha Pavlovic MIN 02/26/2010 MIN @ OKC L 7 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 1
+p240
+aVOleksiy Pecherov MIN 02/26/2010 MIN @ OKC L 3 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 6
+p241
+aVWayne Ellington MIN 02/26/2010 MIN @ OKC L 20 5 2 5 40.0 0 3 0.0 1 2 50.0 1 0 1 1 0 0 1 1 4
+p242
+aVDamien Wilkins MIN 02/26/2010 MIN @ OKC L 15 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 1 1 1 0 3
+p243
+aVJonny Flynn MIN 02/26/2010 MIN @ OKC L 22 10 5 7 71.4 0 1 0.0 0 0 - 0 0 0 5 0 0 4 0 -24
+p244
+aVKevin Love MIN 02/26/2010 MIN @ OKC L 30 19 7 16 43.8 0 3 0.0 5 6 83.3 5 3 8 2 0 0 0 2 -15
+p245
+aVRamon Sessions MIN 02/26/2010 MIN @ OKC L 26 6 1 7 14.3 0 1 0.0 4 4 100.0 1 4 5 5 1 0 1 0 7
+p246
+aVRyan Hollins MIN 02/26/2010 MIN @ OKC L 19 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 2 1 0 1 4 1
+p247
+aVAl Jefferson MIN 02/26/2010 MIN @ OKC L 18 12 5 11 45.5 0 0 - 2 2 100.0 0 3 3 1 1 1 0 3 -10
+p248
+aVDarko Milicic MIN 02/26/2010 MIN @ OKC L 25 6 3 8 37.5 0 0 - 0 0 - 3 6 9 1 0 0 2 2 -14
+p249
+aVWayne Ellington MIN 02/24/2010 MIN @ ATL L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 2 -4
+p250
+aVRyan Hollins MIN 02/24/2010 MIN @ ATL L 28 18 6 9 66.7 0 0 - 6 10 60.0 1 3 4 2 0 0 2 2 2
+p251
+aVCorey Brewer MIN 02/24/2010 MIN @ ATL L 28 10 4 11 36.4 2 5 40.0 0 1 0.0 0 4 4 6 2 0 4 3 -2
+p252
+aVDamien Wilkins MIN 02/24/2010 MIN @ ATL L 18 15 6 8 75.0 2 2 100.0 1 1 100.0 2 0 2 1 1 1 2 1 2
+p253
+aVDarko Milicic MIN 02/24/2010 MIN @ ATL L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 4 0 3 -9
+p254
+aVRyan Gomes MIN 02/24/2010 MIN @ ATL L 29 11 5 8 62.5 1 4 25.0 0 0 - 0 4 4 0 2 0 1 1 -2
+p255
+aVSasha Pavlovic MIN 02/24/2010 MIN @ ATL L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p256
+aVJonny Flynn MIN 02/24/2010 MIN @ ATL L 28 9 4 13 30.8 1 2 50.0 0 0 - 0 3 3 8 1 0 2 0 -5
+p257
+aVAl Jefferson MIN 02/24/2010 MIN @ ATL L 29 10 5 9 55.6 0 0 - 0 0 - 0 4 4 0 1 1 1 4 4
+p258
+aVKevin Love MIN 02/24/2010 MIN @ ATL L 29 19 6 10 60.0 0 1 0.0 7 9 77.8 4 8 12 0 0 0 0 5 -9
+p259
+aVRamon Sessions MIN 02/24/2010 MIN @ ATL L 20 0 0 4 0.0 0 0 - 0 0 - 0 1 1 4 0 0 1 0 -1
+p260
+aVDarko Milicic MIN 02/23/2010 MIN @ MIA W 25 4 2 3 66.7 0 0 - 0 2 0.0 0 2 2 0 0 3 1 3 1
+p261
+aVRamon Sessions MIN 02/23/2010 MIN @ MIA W 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 2 8
+p262
+aVAl Jefferson MIN 02/23/2010 MIN @ MIA W 26 10 5 12 41.7 0 0 - 0 0 - 1 10 11 1 0 2 2 1 -1
+p263
+aVJonny Flynn MIN 02/23/2010 MIN @ MIA W 39 16 6 17 35.3 1 3 33.3 3 4 75.0 1 4 5 1 3 0 5 3 -7
+p264
+aVDamien Wilkins MIN 02/23/2010 MIN @ MIA W 18 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 1
+p265
+aVRyan Gomes MIN 02/23/2010 MIN @ MIA W 34 13 6 8 75.0 1 1 100.0 0 0 - 3 5 8 2 1 0 2 1 -3
+p266
+aVWayne Ellington MIN 02/23/2010 MIN @ MIA W 15 12 4 7 57.1 2 2 100.0 2 2 100.0 0 4 4 1 1 0 3 0 13
+p267
+aVCorey Brewer MIN 02/23/2010 MIN @ MIA W 33 9 3 11 27.3 1 5 20.0 2 2 100.0 1 2 3 3 0 0 1 1 -8
+p268
+aVKevin Love MIN 02/23/2010 MIN @ MIA W 31 17 4 10 40.0 3 3 100.0 6 7 85.7 4 8 12 2 1 0 4 2 12
+p269
+aVRyan Hollins MIN 02/23/2010 MIN @ MIA W 11 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 2 2 -1
+p270
+aVKevin Love MIN 02/21/2010 MIN vs. OKC L 31 19 7 13 53.8 1 3 33.3 4 6 66.7 4 10 14 3 1 1 2 1 24
+p271
+aVDarko Milicic MIN 02/21/2010 MIN vs. OKC L 19 8 4 7 57.1 0 0 - 0 2 0.0 4 4 8 2 0 1 1 2 35
+p272
+aVWayne Ellington MIN 02/21/2010 MIN vs. OKC L 13 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 0 11
+p273
+aVRyan Gomes MIN 02/21/2010 MIN vs. OKC L 24 0 0 9 0.0 0 2 0.0 0 0 - 1 2 3 2 0 1 1 1 -27
+p274
+aVRamon Sessions MIN 02/21/2010 MIN vs. OKC L 22 2 1 3 33.3 0 0 - 0 0 - 1 1 2 4 1 0 2 4 11
+p275
+aVDamien Wilkins MIN 02/21/2010 MIN vs. OKC L 27 18 7 12 58.3 1 3 33.3 3 3 100.0 2 2 4 1 1 1 0 3 19
+p276
+aVSasha Pavlovic MIN 02/21/2010 MIN vs. OKC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p277
+aVAl Jefferson MIN 02/21/2010 MIN vs. OKC L 29 10 5 11 45.5 0 0 - 0 0 - 1 5 6 0 0 3 0 4 -37
+p278
+aVRyan Hollins MIN 02/21/2010 MIN vs. OKC L 14 8 3 3 100.0 0 0 - 2 2 100.0 2 0 2 1 0 2 1 1 -22
+p279
+aVCorey Brewer MIN 02/21/2010 MIN vs. OKC L 29 18 7 16 43.8 2 6 33.3 2 4 50.0 0 1 1 4 0 0 0 6 -8
+p280
+aVJonny Flynn MIN 02/21/2010 MIN vs. OKC L 26 19 7 14 50.0 1 1 100.0 4 4 100.0 0 3 3 5 2 0 4 0 -13
+p281
+aVRamon Sessions MIN 02/19/2010 MIN vs. CHI L 17 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 2 0 0 0 2 -7
+p282
+aVCorey Brewer MIN 02/19/2010 MIN vs. CHI L 30 19 8 18 44.4 2 5 40.0 1 5 20.0 1 4 5 3 1 1 1 3 2
+p283
+aVWayne Ellington MIN 02/19/2010 MIN vs. CHI L 18 9 3 4 75.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 1 1 -8
+p284
+aVRyan Gomes MIN 02/19/2010 MIN vs. CHI L 30 10 4 11 36.4 0 3 0.0 2 4 50.0 0 4 4 2 1 0 1 2 -2
+p285
+aVSasha Pavlovic MIN 02/19/2010 MIN vs. CHI L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 3 -5
+p286
+aVAl Jefferson MIN 02/19/2010 MIN vs. CHI L 32 10 5 13 38.5 0 0 - 0 0 - 1 4 5 1 1 2 2 3 -5
+p287
+aVDamien Wilkins MIN 02/19/2010 MIN vs. CHI L 23 4 2 5 40.0 0 0 - 0 0 - 2 5 7 3 1 0 1 2 4
+p288
+aVKevin Love MIN 02/19/2010 MIN vs. CHI L 21 9 3 11 27.3 2 4 50.0 1 1 100.0 1 5 6 1 0 0 2 1 2
+p289
+aVRyan Hollins MIN 02/19/2010 MIN vs. CHI L 28 9 3 4 75.0 0 0 - 3 4 75.0 2 4 6 1 1 1 1 2 -12
+p290
+aVJonny Flynn MIN 02/19/2010 MIN vs. CHI L 31 14 6 13 46.2 1 2 50.0 1 2 50.0 1 6 7 6 0 0 3 2 1
+p291
+aVAl Jefferson MIN 02/17/2010 MIN @ WAS L 27 18 8 10 80.0 0 0 - 2 2 100.0 2 5 7 0 2 1 3 3 -12
+p292
+aVSasha Pavlovic MIN 02/17/2010 MIN @ WAS L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 -7
+p293
+aVDamien Wilkins MIN 02/17/2010 MIN @ WAS L 26 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 1 1 1 1 3 -5
+p294
+aVRamon Sessions MIN 02/17/2010 MIN @ WAS L 25 10 5 11 45.5 0 1 0.0 0 0 - 2 1 3 5 1 0 2 3 -4
+p295
+aVCorey Brewer MIN 02/17/2010 MIN @ WAS L 26 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 2 3 0 1 1 0
+p296
+aVWayne Ellington MIN 02/17/2010 MIN @ WAS L 14 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 2 0 -2
+p297
+aVRyan Gomes MIN 02/17/2010 MIN @ WAS L 32 16 8 13 61.5 0 1 0.0 0 0 - 2 5 7 0 0 1 1 2 -8
+p298
+aVNathan Jawai MIN 02/17/2010 MIN @ WAS L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p299
+aVOleksiy Pecherov MIN 02/17/2010 MIN @ WAS L 14 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 2 3
+p300
+aVJonny Flynn MIN 02/17/2010 MIN @ WAS L 23 15 4 12 33.3 2 3 66.7 5 7 71.4 0 1 1 3 0 0 2 0 -5
+p301
+aVKevin Love MIN 02/17/2010 MIN @ WAS L 28 13 5 10 50.0 1 2 50.0 2 4 50.0 5 8 13 1 1 0 4 4 -1
+p302
+aVRyan Hollins MIN 02/17/2010 MIN @ WAS L 14 6 1 2 50.0 0 0 - 4 4 100.0 0 0 0 0 0 1 1 2 1
+p303
+aVKevin Love MIN 02/16/2010 MIN @ DET L 27 22 9 14 64.3 1 2 50.0 3 3 100.0 3 12 15 1 0 0 2 1 -7
+p304
+aVDamien Wilkins MIN 02/16/2010 MIN @ DET L 19 6 2 4 50.0 0 0 - 2 4 50.0 0 1 1 1 1 1 1 3 -2
+p305
+aVSasha Pavlovic MIN 02/16/2010 MIN @ DET L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -2
+p306
+aVRamon Sessions MIN 02/16/2010 MIN @ DET L 24 10 3 6 50.0 0 0 - 4 6 66.7 1 2 3 5 2 0 4 2 -16
+p307
+aVNathan Jawai MIN 02/16/2010 MIN @ DET L 13 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 1 0 0 1 0 -3
+p308
+aVWayne Ellington MIN 02/16/2010 MIN @ DET L 26 5 1 6 16.7 1 3 33.3 2 2 100.0 2 1 3 0 0 0 1 2 -19
+p309
+aVAl Jefferson MIN 02/16/2010 MIN @ DET L 25 14 6 12 50.0 0 0 - 2 4 50.0 2 3 5 1 0 0 1 2 -22
+p310
+aVBrian Cardinal MIN 02/16/2010 MIN @ DET L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p311
+aVRyan Hollins MIN 02/16/2010 MIN @ DET L 19 6 2 3 66.7 0 0 - 2 4 50.0 0 1 1 1 0 0 2 4 -10
+p312
+aVJonny Flynn MIN 02/16/2010 MIN @ DET L 24 7 2 8 25.0 0 1 0.0 3 4 75.0 0 1 1 3 2 0 3 2 -7
+p313
+aVCorey Brewer MIN 02/16/2010 MIN @ DET L 25 11 4 9 44.4 1 3 33.3 2 4 50.0 0 1 1 6 1 0 1 1 -4
+p314
+aVRyan Gomes MIN 02/16/2010 MIN @ DET L 26 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 1 0 0 1 0 -18
+p315
+aVSasha Pavlovic MIN 02/10/2010 MIN vs. CHA L 9 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 1 -1
+p316
+aVJonny Flynn MIN 02/10/2010 MIN vs. CHA L 22 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 4 0 0 1 1 -5
+p317
+aVWayne Ellington MIN 02/10/2010 MIN vs. CHA L 16 13 5 10 50.0 3 6 50.0 0 0 - 0 1 1 0 0 0 0 2 12
+p318
+aVRyan Gomes MIN 02/10/2010 MIN vs. CHA L 40 15 6 13 46.2 3 7 42.9 0 0 - 1 2 3 4 2 0 2 0 7
+p319
+aVAl Jefferson MIN 02/10/2010 MIN vs. CHA L 37 19 9 17 52.9 0 0 - 1 3 33.3 4 6 10 1 0 2 1 1 -1
+p320
+aVDamien Wilkins MIN 02/10/2010 MIN vs. CHA L 20 0 0 1 0.0 0 0 - 0 1 0.0 0 4 4 4 1 0 0 3 7
+p321
+aVKevin Love MIN 02/10/2010 MIN vs. CHA L 24 9 3 7 42.9 0 0 - 3 4 75.0 3 4 7 1 2 1 0 1 -12
+p322
+aVRamon Sessions MIN 02/10/2010 MIN vs. CHA L 26 13 6 11 54.5 0 0 - 1 1 100.0 0 3 3 5 0 0 2 1 4
+p323
+aVRyan Hollins MIN 02/10/2010 MIN vs. CHA L 20 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 0 2 -6
+p324
+aVCorey Brewer MIN 02/10/2010 MIN vs. CHA L 27 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 2 3 0 2 4 -10
+p325
+aVJonny Flynn MIN 02/09/2010 MIN @ PHI L 27 14 4 10 40.0 0 2 0.0 6 8 75.0 0 6 6 3 0 0 5 0 -15
+p326
+aVRyan Gomes MIN 02/09/2010 MIN @ PHI L 28 10 4 8 50.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 0 1 -5
+p327
+aVOleksiy Pecherov MIN 02/09/2010 MIN @ PHI L 16 6 2 3 66.7 1 1 100.0 1 1 100.0 0 2 2 1 0 0 0 3 2
+p328
+aVBrian Cardinal MIN 02/09/2010 MIN @ PHI L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -2
+p329
+aVKevin Love MIN 02/09/2010 MIN @ PHI L 24 10 3 8 37.5 1 3 33.3 3 5 60.0 1 5 6 3 1 0 2 0 -18
+p330
+aVRamon Sessions MIN 02/09/2010 MIN @ PHI L 21 9 4 6 66.7 0 0 - 1 2 50.0 0 1 1 4 1 0 3 3 -7
+p331
+aVSasha Pavlovic MIN 02/09/2010 MIN @ PHI L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 4
+p332
+aVWayne Ellington MIN 02/09/2010 MIN @ PHI L 23 16 7 10 70.0 2 2 100.0 0 0 - 0 1 1 1 0 0 3 1 -12
+p333
+aVAl Jefferson MIN 02/09/2010 MIN @ PHI L 25 12 5 12 41.7 0 0 - 2 3 66.7 4 6 10 3 3 0 0 3 -13
+p334
+aVRyan Hollins MIN 02/09/2010 MIN @ PHI L 16 4 1 4 25.0 0 0 - 2 2 100.0 2 0 2 1 0 0 0 2 -13
+p335
+aVDamien Wilkins MIN 02/09/2010 MIN @ PHI L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 4 2 -16
+p336
+aVCorey Brewer MIN 02/09/2010 MIN @ PHI L 29 14 5 10 50.0 2 4 50.0 2 3 66.7 0 0 0 2 2 0 1 1 -15
+p337
+aVDamien Wilkins MIN 02/06/2010 MIN vs. MEM W 19 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 2
+p338
+aVKevin Love MIN 02/06/2010 MIN vs. MEM W 26 12 3 7 42.9 1 2 50.0 5 6 83.3 3 4 7 2 0 0 1 3 9
+p339
+aVJonny Flynn MIN 02/06/2010 MIN vs. MEM W 20 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 5 1 0 0 0 -12
+p340
+aVRyan Gomes MIN 02/06/2010 MIN vs. MEM W 35 26 10 14 71.4 5 7 71.4 1 2 50.0 1 3 4 3 1 0 0 1 2
+p341
+aVCorey Brewer MIN 02/06/2010 MIN vs. MEM W 35 17 8 17 47.1 1 5 20.0 0 0 - 0 5 5 4 4 0 0 3 9
+p342
+aVAl Jefferson MIN 02/06/2010 MIN vs. MEM W 39 23 11 17 64.7 0 0 - 1 4 25.0 2 5 7 2 2 4 2 0 18
+p343
+aVWayne Ellington MIN 02/06/2010 MIN vs. MEM W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -2
+p344
+aVRyan Hollins MIN 02/06/2010 MIN vs. MEM W 26 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 2 2 -10
+p345
+aVRamon Sessions MIN 02/06/2010 MIN vs. MEM W 28 19 8 12 66.7 0 0 - 3 5 60.0 0 3 3 6 0 0 1 0 19
+p346
+aVDamien Wilkins MIN 02/05/2010 MIN @ DAL W 14 8 3 3 100.0 1 1 100.0 1 1 100.0 0 2 2 1 0 0 0 5 13
+p347
+aVJonny Flynn MIN 02/05/2010 MIN @ DAL W 33 19 6 16 37.5 3 7 42.9 4 5 80.0 0 2 2 7 1 0 1 0 14
+p348
+aVKevin Love MIN 02/05/2010 MIN @ DAL W 30 17 8 12 66.7 1 2 50.0 0 0 - 3 8 11 2 0 0 5 4 1
+p349
+aVRyan Gomes MIN 02/05/2010 MIN @ DAL W 32 12 4 9 44.4 2 5 40.0 2 2 100.0 1 4 5 3 1 1 1 2 0
+p350
+aVAl Jefferson MIN 02/05/2010 MIN @ DAL W 28 15 7 11 63.6 0 1 0.0 1 2 50.0 2 6 8 2 0 2 2 4 -3
+p351
+aVCorey Brewer MIN 02/05/2010 MIN @ DAL W 33 14 4 10 40.0 3 4 75.0 3 3 100.0 0 2 2 4 1 0 1 2 -3
+p352
+aVRyan Hollins MIN 02/05/2010 MIN @ DAL W 34 15 6 12 50.0 0 0 - 3 4 75.0 0 5 5 2 1 0 3 6 9
+p353
+aVWayne Ellington MIN 02/05/2010 MIN @ DAL W 18 8 2 2 100.0 2 2 100.0 2 2 100.0 1 3 4 1 0 0 3 0 15
+p354
+aVRamon Sessions MIN 02/05/2010 MIN @ DAL W 19 9 4 8 50.0 0 0 - 1 1 100.0 0 1 1 4 1 0 0 1 -1
+p355
+aVSasha Pavlovic MIN 01/31/2010 MIN vs. NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p356
+aVKevin Love MIN 01/31/2010 MIN vs. NYK W 32 25 9 18 50.0 2 5 40.0 5 6 83.3 4 7 11 4 1 1 6 3 22
+p357
+aVJonny Flynn MIN 01/31/2010 MIN vs. NYK W 24 6 3 10 30.0 0 2 0.0 0 0 - 2 6 8 8 1 0 2 2 -7
+p358
+aVCorey Brewer MIN 01/31/2010 MIN vs. NYK W 20 7 2 5 40.0 1 3 33.3 2 2 100.0 0 2 2 0 0 0 2 3 -5
+p359
+aVOleksiy Pecherov MIN 01/31/2010 MIN vs. NYK W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 2
+p360
+aVWayne Ellington MIN 01/31/2010 MIN vs. NYK W 22 8 3 6 50.0 2 3 66.7 0 0 - 0 6 6 1 0 0 0 4 22
+p361
+aVAl Jefferson MIN 01/31/2010 MIN vs. NYK W 30 22 10 17 58.8 0 0 - 2 2 100.0 3 8 11 2 0 0 3 1 -4
+p362
+aVRamon Sessions MIN 01/31/2010 MIN vs. NYK W 24 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 9 1 0 1 1 28
+p363
+aVRyan Hollins MIN 01/31/2010 MIN vs. NYK W 30 16 6 8 75.0 0 0 - 4 6 66.7 3 0 3 0 0 3 2 3 20
+p364
+aVDamien Wilkins MIN 01/31/2010 MIN vs. NYK W 28 11 3 6 50.0 0 0 - 5 5 100.0 3 4 7 3 2 1 2 2 34
+p365
+aVRyan Gomes MIN 01/31/2010 MIN vs. NYK W 27 10 3 6 50.0 3 5 60.0 1 2 50.0 0 4 4 2 1 0 0 0 -9
+p366
+aVCorey Brewer MIN 01/29/2010 MIN vs. LAC W 38 20 8 17 47.1 3 8 37.5 1 2 50.0 0 5 5 3 0 0 1 3 21
+p367
+aVDamien Wilkins MIN 01/29/2010 MIN vs. LAC W 19 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 1 1 2 3 -8
+p368
+aVRyan Gomes MIN 01/29/2010 MIN vs. LAC W 27 10 4 8 50.0 1 1 100.0 1 2 50.0 1 1 2 3 1 0 0 4 8
+p369
+aVJonny Flynn MIN 01/29/2010 MIN vs. LAC W 32 19 7 13 53.8 3 5 60.0 2 2 100.0 0 1 1 8 1 0 3 4 11
+p370
+aVAl Jefferson MIN 01/29/2010 MIN vs. LAC W 32 14 5 8 62.5 0 0 - 4 5 80.0 2 14 16 2 2 3 4 3 14
+p371
+aVRamon Sessions MIN 01/29/2010 MIN vs. LAC W 16 8 3 4 75.0 0 0 - 2 2 100.0 1 0 1 4 0 0 2 1 3
+p372
+aVWayne Ellington MIN 01/29/2010 MIN vs. LAC W 13 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -5
+p373
+aVKevin Love MIN 01/29/2010 MIN vs. LAC W 24 13 5 11 45.5 1 2 50.0 2 2 100.0 2 11 13 2 0 0 1 1 -5
+p374
+aVSasha Pavlovic MIN 01/29/2010 MIN vs. LAC W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 1 5
+p375
+aVRyan Hollins MIN 01/29/2010 MIN vs. LAC W 30 19 7 11 63.6 0 0 - 5 7 71.4 1 2 3 0 0 1 0 2 26
+p376
+aVCorey Brewer MIN 01/27/2010 MIN @ CLE L 36 22 8 19 42.1 1 4 25.0 5 5 100.0 1 2 3 1 1 0 1 2 -6
+p377
+aVKevin Love MIN 01/27/2010 MIN @ CLE L 33 20 8 16 50.0 0 0 - 4 6 66.7 7 3 10 2 1 0 2 3 3
+p378
+aVRyan Gomes MIN 01/27/2010 MIN @ CLE L 31 14 5 10 50.0 2 4 50.0 2 2 100.0 0 2 2 0 0 0 1 2 -10
+p379
+aVRyan Hollins MIN 01/27/2010 MIN @ CLE L 13 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -8
+p380
+aVWayne Ellington MIN 01/27/2010 MIN @ CLE L 12 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 1 1 0 0 0 -8
+p381
+aVAl Jefferson MIN 01/27/2010 MIN @ CLE L 37 14 6 18 33.3 0 0 - 2 2 100.0 3 7 10 3 2 1 1 5 -11
+p382
+aVSasha Pavlovic MIN 01/27/2010 MIN @ CLE L 14 0 0 5 0.0 0 1 0.0 0 2 0.0 0 1 1 2 0 1 0 1 -11
+p383
+aVJonny Flynn MIN 01/27/2010 MIN @ CLE L 22 10 4 10 40.0 1 2 50.0 1 2 50.0 1 0 1 3 0 0 1 0 -15
+p384
+aVDamien Wilkins MIN 01/27/2010 MIN @ CLE L 16 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -5
+p385
+aVRamon Sessions MIN 01/27/2010 MIN @ CLE L 26 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 5 2 0 1 5 1
+p386
+aVRyan Gomes MIN 01/26/2010 MIN @ NYK L 23 13 4 9 44.4 2 3 66.7 3 3 100.0 2 5 7 2 2 0 0 2 -8
+p387
+aVCorey Brewer MIN 01/26/2010 MIN @ NYK L 29 22 9 10 90.0 4 5 80.0 0 0 - 1 3 4 2 0 0 2 1 -12
+p388
+aVBrian Cardinal MIN 01/26/2010 MIN @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 11
+p389
+aVRamon Sessions MIN 01/26/2010 MIN @ NYK L 31 20 7 13 53.8 0 1 0.0 6 6 100.0 2 3 5 3 2 1 3 0 -10
+p390
+aVAl Jefferson MIN 01/26/2010 MIN @ NYK L 24 4 2 8 25.0 0 0 - 0 1 0.0 1 9 10 3 0 0 2 3 -5
+p391
+aVJonny Flynn MIN 01/26/2010 MIN @ NYK L 25 6 3 11 27.3 0 0 - 0 0 - 0 3 3 4 1 0 6 1 -12
+p392
+aVWayne Ellington MIN 01/26/2010 MIN @ NYK L 18 8 3 6 50.0 2 2 100.0 0 0 - 0 1 1 0 0 0 1 2 -9
+p393
+aVRyan Hollins MIN 01/26/2010 MIN @ NYK L 20 6 1 3 33.3 0 0 - 4 8 50.0 3 3 6 2 0 3 1 2 -21
+p394
+aVAlando Tucker MIN 01/26/2010 MIN @ NYK L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p395
+aVDamien Wilkins MIN 01/26/2010 MIN @ NYK L 23 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 2 0 1 1 -18
+p396
+aVKevin Love MIN 01/26/2010 MIN @ NYK L 18 6 3 8 37.5 0 1 0.0 0 0 - 3 2 5 0 1 1 4 2 -26
+p397
+aVSasha Pavlovic MIN 01/26/2010 MIN @ NYK L 20 16 6 11 54.5 1 4 25.0 3 5 60.0 0 2 2 1 0 0 1 6 -17
+p398
+aVWayne Ellington MIN 01/23/2010 MIN @ MIL L 22 10 4 8 50.0 0 1 0.0 2 2 100.0 0 0 0 0 2 0 0 1 -15
+p399
+aVDamien Wilkins MIN 01/23/2010 MIN @ MIL L 20 0 0 3 0.0 0 0 - 0 2 0.0 2 1 3 0 1 0 1 0 -14
+p400
+aVRyan Hollins MIN 01/23/2010 MIN @ MIL L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 6 -11
+p401
+aVCorey Brewer MIN 01/23/2010 MIN @ MIL L 27 18 6 13 46.2 2 4 50.0 4 5 80.0 0 2 2 2 1 0 2 0 -17
+p402
+aVRamon Sessions MIN 01/23/2010 MIN @ MIL L 22 12 3 10 30.0 0 0 - 6 7 85.7 0 1 1 1 0 0 2 0 -13
+p403
+aVAl Jefferson MIN 01/23/2010 MIN @ MIL L 30 9 4 11 36.4 0 0 - 1 2 50.0 3 7 10 2 0 0 0 3 -10
+p404
+aVKevin Love MIN 01/23/2010 MIN @ MIL L 30 17 5 12 41.7 0 1 0.0 7 10 70.0 6 6 12 2 0 0 0 2 -15
+p405
+aVOleksiy Pecherov MIN 01/23/2010 MIN @ MIL L 5 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 2 -6
+p406
+aVBrian Cardinal MIN 01/23/2010 MIN @ MIL L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -14
+p407
+aVJonny Flynn MIN 01/23/2010 MIN @ MIL L 36 20 8 15 53.3 0 3 0.0 4 4 100.0 1 3 4 5 1 0 4 4 -32
+p408
+aVRyan Gomes MIN 01/23/2010 MIN @ MIL L 21 6 3 7 42.9 0 2 0.0 0 1 0.0 0 1 1 2 1 0 0 2 -10
+p409
+aVSasha Pavlovic MIN 01/23/2010 MIN @ MIL L 10 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 2 -8
+p410
+aVSasha Pavlovic MIN 01/22/2010 MIN vs. NOH L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 2 1 0 1 1 -4
+p411
+aVJonny Flynn MIN 01/22/2010 MIN vs. NOH L 26 20 9 13 69.2 1 1 100.0 1 1 100.0 0 4 4 1 1 0 3 1 -3
+p412
+aVRyan Hollins MIN 01/22/2010 MIN vs. NOH L 15 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 3 4 -3
+p413
+aVDamien Wilkins MIN 01/22/2010 MIN vs. NOH L 25 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 7 0 0 2 4 -1
+p414
+aVAl Jefferson MIN 01/22/2010 MIN vs. NOH L 33 25 11 21 52.4 0 0 - 3 4 75.0 3 10 13 1 2 2 5 2 7
+p415
+aVRamon Sessions MIN 01/22/2010 MIN vs. NOH L 25 11 5 9 55.6 0 0 - 1 2 50.0 1 1 2 2 2 0 0 2 4
+p416
+aVCorey Brewer MIN 01/22/2010 MIN vs. NOH L 28 13 5 11 45.5 3 6 50.0 0 0 - 2 4 6 2 1 3 2 5 -4
+p417
+aVBrian Cardinal MIN 01/22/2010 MIN vs. NOH L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 3
+p418
+aVKevin Love MIN 01/22/2010 MIN vs. NOH L 24 13 3 7 42.9 0 0 - 7 7 100.0 2 7 9 3 1 1 2 0 4
+p419
+aVWayne Ellington MIN 01/22/2010 MIN vs. NOH L 20 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -6
+p420
+aVRyan Gomes MIN 01/22/2010 MIN vs. NOH L 20 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -7
+p421
+aVJonny Flynn MIN 01/20/2010 MIN vs. OKC L 31 10 4 13 30.8 0 2 0.0 2 2 100.0 0 2 2 8 0 0 2 2 -1
+p422
+aVCorey Brewer MIN 01/20/2010 MIN vs. OKC L 41 25 10 17 58.8 2 4 50.0 3 4 75.0 1 4 5 6 5 1 3 1 1
+p423
+aVRyan Hollins MIN 01/20/2010 MIN vs. OKC L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p424
+aVDamien Wilkins MIN 01/20/2010 MIN vs. OKC L 38 15 6 8 75.0 0 0 - 3 3 100.0 2 4 6 2 0 0 0 3 5
+p425
+aVRyan Gomes MIN 01/20/2010 MIN vs. OKC L 31 5 2 9 22.2 0 1 0.0 1 1 100.0 1 4 5 1 2 1 3 3 4
+p426
+aVWayne Ellington MIN 01/20/2010 MIN vs. OKC L 9 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p427
+aVRamon Sessions MIN 01/20/2010 MIN vs. OKC L 17 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 2 0 2 2 -1
+p428
+aVBrian Cardinal MIN 01/20/2010 MIN vs. OKC L 17 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 1 0 2 -6
+p429
+aVAl Jefferson MIN 01/20/2010 MIN vs. OKC L 36 20 10 17 58.8 0 0 - 0 0 - 2 7 9 2 1 2 2 0 -1
+p430
+aVNathan Jawai MIN 01/20/2010 MIN vs. OKC L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 4
+p431
+aVSasha Pavlovic MIN 01/20/2010 MIN vs. OKC L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -1
+p432
+aVOleksiy Pecherov MIN 01/18/2010 MIN vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 0
+p433
+aVRamon Sessions MIN 01/18/2010 MIN vs. PHI W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -7
+p434
+aVRyan Gomes MIN 01/18/2010 MIN vs. PHI W 35 16 7 12 58.3 2 2 100.0 0 0 - 0 5 5 2 1 0 1 1 6
+p435
+aVNathan Jawai MIN 01/18/2010 MIN vs. PHI W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p436
+aVWayne Ellington MIN 01/18/2010 MIN vs. PHI W 21 7 3 6 50.0 1 1 100.0 0 0 - 1 3 4 2 1 0 1 1 -5
+p437
+aVCorey Brewer MIN 01/18/2010 MIN vs. PHI W 37 7 2 9 22.2 1 3 33.3 2 4 50.0 3 0 3 2 1 0 2 4 11
+p438
+aVRyan Hollins MIN 01/18/2010 MIN vs. PHI W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 2 5 -3
+p439
+aVDamien Wilkins MIN 01/18/2010 MIN vs. PHI W 39 13 6 14 42.9 0 2 0.0 1 1 100.0 3 7 10 2 1 0 1 3 14
+p440
+aVAl Jefferson MIN 01/18/2010 MIN vs. PHI W 46 23 10 19 52.6 0 0 - 3 3 100.0 4 9 13 0 0 1 2 1 4
+p441
+aVSasha Pavlovic MIN 01/18/2010 MIN vs. PHI W 8 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -10
+p442
+aVBrian Cardinal MIN 01/18/2010 MIN vs. PHI W 12 9 2 3 66.7 1 1 100.0 4 4 100.0 1 1 2 3 0 0 0 2 1
+p443
+aVJonny Flynn MIN 01/18/2010 MIN vs. PHI W 43 29 9 16 56.3 2 2 100.0 9 10 90.0 0 4 4 9 2 0 3 2 12
+p444
+aVKevin Love MIN 01/15/2010 MIN @ MEM L 21 14 6 10 60.0 0 1 0.0 2 2 100.0 5 4 9 3 0 0 1 2 -17
+p445
+aVAl Jefferson MIN 01/15/2010 MIN @ MEM L 25 21 10 13 76.9 0 0 - 1 1 100.0 0 2 2 2 1 0 1 1 -18
+p446
+aVWayne Ellington MIN 01/15/2010 MIN @ MEM L 23 17 8 13 61.5 1 2 50.0 0 0 - 1 2 3 1 0 1 0 1 1
+p447
+aVOleksiy Pecherov MIN 01/15/2010 MIN @ MEM L 12 6 1 3 33.3 0 1 0.0 4 4 100.0 1 2 3 0 0 0 2 1 -3
+p448
+aVNathan Jawai MIN 01/15/2010 MIN @ MEM L 22 5 2 2 100.0 0 0 - 1 2 50.0 4 2 6 4 0 2 1 4 -7
+p449
+aVCorey Brewer MIN 01/15/2010 MIN @ MEM L 25 22 7 13 53.8 3 3 100.0 5 7 71.4 1 0 1 2 2 0 2 3 -26
+p450
+aVRamon Sessions MIN 01/15/2010 MIN @ MEM L 24 2 1 6 16.7 0 0 - 0 2 0.0 1 1 2 4 1 0 2 0 7
+p451
+aVDamien Wilkins MIN 01/15/2010 MIN @ MEM L 18 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -24
+p452
+aVSasha Pavlovic MIN 01/15/2010 MIN @ MEM L 11 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -9
+p453
+aVRyan Gomes MIN 01/15/2010 MIN @ MEM L 16 7 2 7 28.6 1 2 50.0 2 2 100.0 0 4 4 0 0 0 0 1 4
+p454
+aVJonny Flynn MIN 01/15/2010 MIN @ MEM L 27 8 4 15 26.7 0 1 0.0 0 0 - 0 2 2 4 0 0 1 0 -28
+p455
+aVBrian Cardinal MIN 01/15/2010 MIN @ MEM L 17 4 0 1 0.0 0 1 0.0 4 4 100.0 0 3 3 0 0 0 0 5 -5
+p456
+aVWayne Ellington MIN 01/13/2010 MIN @ HOU L 35 17 7 12 58.3 3 4 75.0 0 0 - 2 4 6 1 0 0 5 6 6
+p457
+aVDamien Wilkins MIN 01/13/2010 MIN @ HOU L 24 9 3 6 50.0 1 1 100.0 2 2 100.0 0 1 1 0 1 0 2 3 -7
+p458
+aVKevin Love MIN 01/13/2010 MIN @ HOU L 31 8 2 10 20.0 0 1 0.0 4 6 66.7 6 7 13 2 0 0 1 0 -13
+p459
+aVNathan Jawai MIN 01/13/2010 MIN @ HOU L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -14
+p460
+aVRyan Gomes MIN 01/13/2010 MIN @ HOU L 46 18 6 16 37.5 0 2 0.0 6 6 100.0 2 6 8 2 1 2 2 3 1
+p461
+aVJonny Flynn MIN 01/13/2010 MIN @ HOU L 43 9 3 13 23.1 1 4 25.0 2 2 100.0 0 1 1 6 2 0 3 1 -13
+p462
+aVSasha Pavlovic MIN 01/13/2010 MIN @ HOU L 13 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 0 1 0 2 2 2
+p463
+aVRamon Sessions MIN 01/13/2010 MIN @ HOU L 20 7 1 4 25.0 0 0 - 5 7 71.4 2 0 2 1 1 0 1 0 7
+p464
+aVCorey Brewer MIN 01/13/2010 MIN @ HOU L 45 14 6 18 33.3 2 5 40.0 0 0 - 3 2 5 4 0 2 2 6 -12
+p465
+aVAl Jefferson MIN 01/13/2010 MIN @ HOU L 49 26 12 26 46.2 0 0 - 2 3 66.7 3 23 26 1 1 1 3 4 13
+p466
+aVJonny Flynn MIN 01/11/2010 MIN @ DEN L 30 8 2 13 15.4 1 4 25.0 3 5 60.0 0 3 3 1 1 0 2 1 -3
+p467
+aVOleksiy Pecherov MIN 01/11/2010 MIN @ DEN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p468
+aVBrian Cardinal MIN 01/11/2010 MIN @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p469
+aVCorey Brewer MIN 01/11/2010 MIN @ DEN L 40 25 10 18 55.6 2 5 40.0 3 4 75.0 3 4 7 4 2 2 2 5 -1
+p470
+aVAl Jefferson MIN 01/11/2010 MIN @ DEN L 41 22 11 24 45.8 0 0 - 0 0 - 8 7 15 2 1 1 3 4 -11
+p471
+aVSasha Pavlovic MIN 01/11/2010 MIN @ DEN L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -4
+p472
+aVDamien Wilkins MIN 01/11/2010 MIN @ DEN L 18 4 1 2 50.0 0 0 - 2 2 100.0 2 1 3 1 1 1 2 3 -3
+p473
+aVRamon Sessions MIN 01/11/2010 MIN @ DEN L 18 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 4 1 0 0 1 -8
+p474
+aVNathan Jawai MIN 01/11/2010 MIN @ DEN L 12 8 4 7 57.1 0 1 0.0 0 1 0.0 1 0 1 0 1 0 2 0 -1
+p475
+aVRyan Gomes MIN 01/11/2010 MIN @ DEN L 22 2 0 6 0.0 0 3 0.0 2 2 100.0 1 2 3 0 2 1 2 3 -4
+p476
+aVWayne Ellington MIN 01/11/2010 MIN @ DEN L 13 1 0 5 0.0 0 2 0.0 1 1 100.0 0 1 1 2 0 0 1 0 -8
+p477
+aVKevin Love MIN 01/11/2010 MIN @ DEN L 37 20 5 12 41.7 0 2 0.0 10 11 90.9 5 9 14 2 0 0 2 2 -1
+p478
+aVOleksiy Pecherov MIN 01/09/2010 MIN @ CHI L 10 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 0 1 0 0 0 0
+p479
+aVBrian Cardinal MIN 01/09/2010 MIN @ CHI L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 2 -1
+p480
+aVRamon Sessions MIN 01/09/2010 MIN @ CHI L 10 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -10
+p481
+aVCorey Brewer MIN 01/09/2010 MIN @ CHI L 25 12 3 9 33.3 2 5 40.0 4 8 50.0 0 4 4 1 0 0 2 1 -11
+p482
+aVDamien Wilkins MIN 01/09/2010 MIN @ CHI L 19 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 2 0 0 1 -6
+p483
+aVSasha Pavlovic MIN 01/09/2010 MIN @ CHI L 24 9 4 7 57.1 1 1 100.0 0 0 - 0 3 3 1 0 0 1 3 -4
+p484
+aVJonny Flynn MIN 01/09/2010 MIN @ CHI L 38 14 6 14 42.9 0 4 0.0 2 2 100.0 1 3 4 8 2 0 4 0 -4
+p485
+aVWayne Ellington MIN 01/09/2010 MIN @ CHI L 23 3 1 7 14.3 0 1 0.0 1 2 50.0 0 1 1 2 0 0 0 1 -3
+p486
+aVAl Jefferson MIN 01/09/2010 MIN @ CHI L 27 12 5 13 38.5 0 0 - 2 2 100.0 3 5 8 1 2 0 3 3 -18
+p487
+aVKevin Love MIN 01/09/2010 MIN @ CHI L 22 9 3 8 37.5 0 0 - 3 4 75.0 3 7 10 1 0 0 1 1 -10
+p488
+aVNathan Jawai MIN 01/09/2010 MIN @ CHI L 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 1 0 0 1 7
+p489
+aVRyan Gomes MIN 01/09/2010 MIN @ CHI L 24 15 6 13 46.2 0 3 0.0 3 4 75.0 0 4 4 2 3 1 1 1 -10
+p490
+aVBrian Cardinal MIN 01/08/2010 MIN vs. IND W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p491
+aVDamien Wilkins MIN 01/08/2010 MIN vs. IND W 23 13 6 9 66.7 1 2 50.0 0 1 0.0 0 4 4 3 0 1 1 2 1
+p492
+aVWayne Ellington MIN 01/08/2010 MIN vs. IND W 26 8 2 6 33.3 0 1 0.0 4 4 100.0 1 5 6 3 0 0 2 1 -1
+p493
+aVKevin Love MIN 01/08/2010 MIN vs. IND W 32 18 5 11 45.5 1 3 33.3 7 8 87.5 4 9 13 2 1 1 0 3 9
+p494
+aVJonny Flynn MIN 01/08/2010 MIN vs. IND W 27 18 5 9 55.6 1 1 100.0 7 9 77.8 0 4 4 2 2 0 0 0 19
+p495
+aVRamon Sessions MIN 01/08/2010 MIN vs. IND W 21 2 1 2 50.0 0 0 - 0 2 0.0 0 4 4 4 0 0 3 2 -12
+p496
+aVAl Jefferson MIN 01/08/2010 MIN vs. IND W 35 25 9 17 52.9 0 0 - 7 13 53.8 2 10 12 2 1 1 4 2 3
+p497
+aVNathan Jawai MIN 01/08/2010 MIN vs. IND W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 4
+p498
+aVCorey Brewer MIN 01/08/2010 MIN vs. IND W 28 9 3 8 37.5 1 2 50.0 2 2 100.0 1 3 4 1 1 0 3 3 8
+p499
+aVRyan Gomes MIN 01/08/2010 MIN vs. IND W 32 15 5 11 45.5 1 2 50.0 4 4 100.0 4 4 8 6 1 1 4 2 6
+p500
+aVSasha Pavlovic MIN 01/08/2010 MIN vs. IND W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -4
+p501
+aVAl Jefferson MIN 01/06/2010 MIN vs. GSW L 40 26 12 18 66.7 0 1 0.0 2 3 66.7 4 10 14 1 1 2 2 3 -2
+p502
+aVKevin Love MIN 01/06/2010 MIN vs. GSW L 34 23 6 13 46.2 0 1 0.0 11 12 91.7 7 8 15 6 1 1 4 2 3
+p503
+aVCorey Brewer MIN 01/06/2010 MIN vs. GSW L 28 19 9 16 56.3 0 1 0.0 1 2 50.0 1 2 3 0 0 0 2 6 -1
+p504
+aVDamien Wilkins MIN 01/06/2010 MIN vs. GSW L 22 4 2 4 50.0 0 0 - 0 2 0.0 1 1 2 2 1 1 2 1 -10
+p505
+aVSasha Pavlovic MIN 01/06/2010 MIN vs. GSW L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 2 8
+p506
+aVRamon Sessions MIN 01/06/2010 MIN vs. GSW L 23 7 1 4 25.0 0 0 - 5 6 83.3 0 3 3 2 0 0 2 1 4
+p507
+aVNathan Jawai MIN 01/06/2010 MIN vs. GSW L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p508
+aVWayne Ellington MIN 01/06/2010 MIN vs. GSW L 18 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p509
+aVRyan Gomes MIN 01/06/2010 MIN vs. GSW L 22 4 1 6 16.7 0 3 0.0 2 2 100.0 0 2 2 0 1 0 2 5 -10
+p510
+aVJonny Flynn MIN 01/06/2010 MIN vs. GSW L 25 6 1 11 9.1 0 1 0.0 4 4 100.0 1 2 3 4 0 0 4 0 -10
+p511
+aVOleksiy Pecherov MIN 01/06/2010 MIN vs. GSW L 9 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 0 0 1 0 0 -6
+p512
+aVRyan Hollins MIN 01/02/2010 MIN @ IND L 23 8 0 1 0.0 0 0 - 8 10 80.0 4 5 9 1 0 0 1 2 1
+p513
+aVAl Jefferson MIN 01/02/2010 MIN @ IND L 33 23 10 20 50.0 0 0 - 3 3 100.0 1 5 6 2 0 0 0 5 -11
+p514
+aVKevin Love MIN 01/02/2010 MIN @ IND L 30 16 6 14 42.9 1 3 33.3 3 3 100.0 2 6 8 4 3 0 2 4 -10
+p515
+aVDamien Wilkins MIN 01/02/2010 MIN @ IND L 23 9 4 6 66.7 0 0 - 1 2 50.0 1 1 2 1 1 0 0 1 0
+p516
+aVNathan Jawai MIN 01/02/2010 MIN @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 2 0 2 2 0 0 1 0 5
+p517
+aVCorey Brewer MIN 01/02/2010 MIN @ IND L 21 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 1 0 1 1 2 -12
+p518
+aVRamon Sessions MIN 01/02/2010 MIN @ IND L 24 10 3 8 37.5 0 0 - 4 4 100.0 0 4 4 2 0 0 3 2 -8
+p519
+aVJonny Flynn MIN 01/02/2010 MIN @ IND L 29 14 4 11 36.4 1 4 25.0 5 6 83.3 0 3 3 3 0 0 2 2 -5
+p520
+aVSasha Pavlovic MIN 01/02/2010 MIN @ IND L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p521
+aVRyan Gomes MIN 01/02/2010 MIN @ IND L 22 8 4 11 36.4 0 5 0.0 0 0 - 0 1 1 1 0 0 0 2 1
+p522
+aVWayne Ellington MIN 01/02/2010 MIN @ IND L 29 16 6 11 54.5 3 5 60.0 1 1 100.0 2 4 6 5 0 0 1 0 -4
+p523
+aVCorey Brewer MIN 01/01/2010 MIN vs. ORL L 34 10 5 14 35.7 0 2 0.0 0 0 - 1 2 3 1 0 2 4 3 -11
+p524
+aVRamon Sessions MIN 01/01/2010 MIN vs. ORL L 15 2 1 3 33.3 0 0 - 0 0 - 0 4 4 4 0 0 1 0 -1
+p525
+aVRyan Hollins MIN 01/01/2010 MIN vs. ORL L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -5
+p526
+aVNathan Jawai MIN 01/01/2010 MIN vs. ORL L 14 4 2 5 40.0 0 0 - 0 0 - 2 4 6 2 0 0 0 5 0
+p527
+aVKevin Love MIN 01/01/2010 MIN vs. ORL L 33 17 7 14 50.0 0 1 0.0 3 6 50.0 8 2 10 1 0 0 2 0 -4
+p528
+aVRyan Gomes MIN 01/01/2010 MIN vs. ORL L 20 7 3 8 37.5 1 1 100.0 0 0 - 0 2 2 0 0 0 1 0 3
+p529
+aVAl Jefferson MIN 01/01/2010 MIN vs. ORL L 34 14 5 13 38.5 0 0 - 4 5 80.0 4 6 10 3 0 1 4 4 -12
+p530
+aVJonny Flynn MIN 01/01/2010 MIN vs. ORL L 33 23 7 13 53.8 5 7 71.4 4 4 100.0 0 2 2 3 4 0 2 2 -11
+p531
+aVDamien Wilkins MIN 01/01/2010 MIN vs. ORL L 29 2 1 9 11.1 0 4 0.0 0 0 - 2 4 6 3 0 1 2 3 -13
+p532
+aVWayne Ellington MIN 01/01/2010 MIN vs. ORL L 21 13 5 6 83.3 2 3 66.7 1 1 100.0 0 4 4 1 0 0 2 0 -6
+p533
+aVRyan Hollins MIN 12/30/2009 MIN vs. UTA L 14 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 2 1 5 -11
+p534
+aVKevin Love MIN 12/30/2009 MIN vs. UTA L 38 17 5 12 41.7 2 4 50.0 5 9 55.6 4 7 11 9 3 0 1 3 4
+p535
+aVAl Jefferson MIN 12/30/2009 MIN vs. UTA L 36 21 10 15 66.7 0 0 - 1 3 33.3 2 7 9 4 1 5 2 3 -6
+p536
+aVOleksiy Pecherov MIN 12/30/2009 MIN vs. UTA L 9 0 0 2 0.0 0 0 - 0 0 - 0 4 4 3 0 1 3 0 5
+p537
+aVRyan Gomes MIN 12/30/2009 MIN vs. UTA L 21 11 4 8 50.0 1 2 50.0 2 2 100.0 0 2 2 0 0 0 0 2 -1
+p538
+aVDamien Wilkins MIN 12/30/2009 MIN vs. UTA L 27 9 3 6 50.0 0 1 0.0 3 4 75.0 0 2 2 6 1 0 0 1 -3
+p539
+aVJonny Flynn MIN 12/30/2009 MIN vs. UTA L 22 7 3 6 50.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 2 -15
+p540
+aVWayne Ellington MIN 12/30/2009 MIN vs. UTA L 22 13 5 8 62.5 1 3 33.3 2 2 100.0 0 4 4 0 0 1 3 3 -6
+p541
+aVCorey Brewer MIN 12/30/2009 MIN vs. UTA L 26 11 5 11 45.5 1 2 50.0 0 0 - 1 2 3 1 1 0 3 1 2
+p542
+aVRamon Sessions MIN 12/30/2009 MIN vs. UTA L 26 9 4 6 66.7 0 0 - 1 2 50.0 0 1 1 6 2 0 1 4 11
+p543
+aVDamien Wilkins MIN 12/29/2009 MIN @ SAS L 29 7 3 9 33.3 0 1 0.0 1 1 100.0 2 4 6 0 1 0 2 4 4
+p544
+aVNathan Jawai MIN 12/29/2009 MIN @ SAS L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -2
+p545
+aVRyan Hollins MIN 12/29/2009 MIN @ SAS L 13 6 2 5 40.0 0 0 - 2 2 100.0 4 2 6 1 0 1 1 4 -15
+p546
+aVRyan Gomes MIN 12/29/2009 MIN @ SAS L 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -22
+p547
+aVRamon Sessions MIN 12/29/2009 MIN @ SAS L 24 1 0 5 0.0 0 0 - 1 2 50.0 0 3 3 2 1 0 1 2 -17
+p548
+aVAl Jefferson MIN 12/29/2009 MIN @ SAS L 30 20 8 16 50.0 0 0 - 4 4 100.0 1 7 8 3 0 0 1 2 -4
+p549
+aVCorey Brewer MIN 12/29/2009 MIN @ SAS L 27 14 5 13 38.5 0 1 0.0 4 5 80.0 0 3 3 0 2 0 2 3 -13
+p550
+aVKevin Love MIN 12/29/2009 MIN @ SAS L 32 18 5 11 45.5 0 1 0.0 8 8 100.0 5 7 12 1 0 0 2 3 1
+p551
+aVWayne Ellington MIN 12/29/2009 MIN @ SAS L 17 8 3 8 37.5 1 3 33.3 1 1 100.0 0 1 1 2 1 0 1 0 -1
+p552
+aVSasha Pavlovic MIN 12/29/2009 MIN @ SAS L 12 6 2 6 33.3 2 3 66.7 0 0 - 0 2 2 0 0 0 0 1 -6
+p553
+aVBrian Cardinal MIN 12/29/2009 MIN @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -4
+p554
+aVJonny Flynn MIN 12/29/2009 MIN @ SAS L 29 17 7 14 50.0 1 3 33.3 2 2 100.0 0 1 1 2 0 0 2 0 -11
+p555
+aVAl Jefferson MIN 12/26/2009 MIN vs. WAS W 35 11 4 13 30.8 0 0 - 3 4 75.0 1 4 5 5 0 1 2 4 7
+p556
+aVJonny Flynn MIN 12/26/2009 MIN vs. WAS W 25 8 2 12 16.7 1 2 50.0 3 4 75.0 1 2 3 6 0 0 0 1 11
+p557
+aVRyan Hollins MIN 12/26/2009 MIN vs. WAS W 18 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 1 1 2 6
+p558
+aVCorey Brewer MIN 12/26/2009 MIN vs. WAS W 31 27 9 16 56.3 1 2 50.0 8 9 88.9 2 5 7 0 1 1 3 1 8
+p559
+aVSasha Pavlovic MIN 12/26/2009 MIN vs. WAS W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p560
+aVDamien Wilkins MIN 12/26/2009 MIN vs. WAS W 33 9 1 10 10.0 0 1 0.0 7 7 100.0 3 10 13 2 2 0 1 1 17
+p561
+aVRyan Gomes MIN 12/26/2009 MIN vs. WAS W 16 5 2 5 40.0 0 0 - 1 1 100.0 2 3 5 1 1 0 0 1 7
+p562
+aVRamon Sessions MIN 12/26/2009 MIN vs. WAS W 23 10 4 9 44.4 0 0 - 2 8 25.0 4 4 8 5 0 1 1 3 1
+p563
+aVKevin Love MIN 12/26/2009 MIN vs. WAS W 35 17 6 13 46.2 1 2 50.0 4 6 66.7 3 7 10 3 0 2 2 3 1
+p564
+aVWayne Ellington MIN 12/26/2009 MIN vs. WAS W 17 8 3 7 42.9 2 3 66.7 0 0 - 1 1 2 0 1 0 1 1 4
+p565
+aVNathan Jawai MIN 12/23/2009 MIN @ NJN W 7 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 1 1 9
+p566
+aVWayne Ellington MIN 12/23/2009 MIN @ NJN W 17 6 3 6 50.0 0 0 - 0 0 - 3 4 7 0 0 0 0 0 -4
+p567
+aVDamien Wilkins MIN 12/23/2009 MIN @ NJN W 38 14 5 11 45.5 1 4 25.0 3 3 100.0 0 3 3 3 2 1 1 3 5
+p568
+aVBrian Cardinal MIN 12/23/2009 MIN @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -2
+p569
+aVRyan Hollins MIN 12/23/2009 MIN @ NJN W 20 0 0 2 0.0 0 0 - 0 0 - 2 3 5 3 0 1 1 4 -6
+p570
+aVCorey Brewer MIN 12/23/2009 MIN @ NJN W 38 17 7 11 63.6 0 1 0.0 3 4 75.0 1 0 1 1 1 0 3 2 12
+p571
+aVRamon Sessions MIN 12/23/2009 MIN @ NJN W 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 2 3 5
+p572
+aVAl Jefferson MIN 12/23/2009 MIN @ NJN W 35 27 13 23 56.5 0 0 - 1 2 50.0 0 7 7 4 0 3 0 6 5
+p573
+aVKevin Love MIN 12/23/2009 MIN @ NJN W 34 13 5 13 38.5 0 0 - 3 3 100.0 5 11 16 4 1 0 2 4 2
+p574
+aVSasha Pavlovic MIN 12/23/2009 MIN @ NJN W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p575
+aVJonny Flynn MIN 12/23/2009 MIN @ NJN W 37 22 9 19 47.4 1 5 20.0 3 4 75.0 0 1 1 5 4 0 3 0 -1
+p576
+aVKevin Love MIN 12/22/2009 MIN vs. ATL L 34 15 6 12 50.0 0 1 0.0 3 3 100.0 8 11 19 0 0 0 1 3 -14
+p577
+aVDamien Wilkins MIN 12/22/2009 MIN vs. ATL L 32 4 1 4 25.0 0 0 - 2 3 66.7 0 1 1 3 2 0 3 3 -16
+p578
+aVAl Jefferson MIN 12/22/2009 MIN vs. ATL L 33 17 7 12 58.3 0 0 - 3 6 50.0 2 8 10 2 0 1 5 2 -18
+p579
+aVRyan Hollins MIN 12/22/2009 MIN vs. ATL L 21 10 5 8 62.5 0 0 - 0 0 - 1 4 5 0 0 0 3 6 -7
+p580
+aVCorey Brewer MIN 12/22/2009 MIN vs. ATL L 40 15 5 12 41.7 1 3 33.3 4 6 66.7 2 2 4 3 1 0 3 1 -18
+p581
+aVJonny Flynn MIN 12/22/2009 MIN vs. ATL L 27 16 5 13 38.5 1 2 50.0 5 6 83.3 1 0 1 2 1 0 4 3 -7
+p582
+aVNathan Jawai MIN 12/22/2009 MIN vs. ATL L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -9
+p583
+aVRamon Sessions MIN 12/22/2009 MIN vs. ATL L 21 7 0 6 0.0 0 0 - 7 10 70.0 1 2 3 2 1 0 1 1 -18
+p584
+aVSasha Pavlovic MIN 12/22/2009 MIN vs. ATL L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -6
+p585
+aVWayne Ellington MIN 12/22/2009 MIN vs. ATL L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -10
+p586
+aVOleksiy Pecherov MIN 12/22/2009 MIN vs. ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p587
+aVDamien Wilkins MIN 12/20/2009 MIN @ BOS L 38 18 7 15 46.7 2 3 66.7 2 5 40.0 2 4 6 6 1 3 0 1 -14
+p588
+aVAl Jefferson MIN 12/20/2009 MIN @ BOS L 34 20 9 18 50.0 0 0 - 2 2 100.0 5 6 11 0 1 0 1 3 -19
+p589
+aVSasha Pavlovic MIN 12/20/2009 MIN @ BOS L 11 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -4
+p590
+aVJonny Flynn MIN 12/20/2009 MIN @ BOS L 31 21 8 15 53.3 1 3 33.3 4 4 100.0 1 1 2 2 1 0 4 3 -10
+p591
+aVCorey Brewer MIN 12/20/2009 MIN @ BOS L 31 8 3 10 30.0 0 1 0.0 2 2 100.0 2 1 3 2 0 0 0 3 -9
+p592
+aVNathan Jawai MIN 12/20/2009 MIN @ BOS L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 3
+p593
+aVKevin Love MIN 12/20/2009 MIN @ BOS L 28 15 5 8 62.5 1 1 100.0 4 4 100.0 5 6 11 5 1 0 1 4 -10
+p594
+aVOleksiy Pecherov MIN 12/20/2009 MIN @ BOS L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 0
+p595
+aVRamon Sessions MIN 12/20/2009 MIN @ BOS L 17 11 3 8 37.5 0 0 - 5 7 71.4 0 0 0 1 0 0 3 1 -8
+p596
+aVRyan Hollins MIN 12/20/2009 MIN @ BOS L 16 8 2 2 100.0 0 0 - 4 4 100.0 1 3 4 0 0 2 1 5 -8
+p597
+aVWayne Ellington MIN 12/20/2009 MIN @ BOS L 17 3 1 5 20.0 0 3 0.0 1 1 100.0 0 0 0 0 0 0 0 1 -11
+p598
+aVSasha Pavlovic MIN 12/18/2009 MIN vs. SAC W 19 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 2 1 0 4 4 -5
+p599
+aVOleksiy Pecherov MIN 12/18/2009 MIN vs. SAC W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -5
+p600
+aVDamien Wilkins MIN 12/18/2009 MIN vs. SAC W 34 16 6 9 66.7 0 0 - 4 4 100.0 0 5 5 2 3 0 4 5 16
+p601
+aVKevin Love MIN 12/18/2009 MIN vs. SAC W 33 20 9 14 64.3 0 1 0.0 2 3 66.7 5 11 16 5 1 0 2 1 25
+p602
+aVCorey Brewer MIN 12/18/2009 MIN vs. SAC W 33 20 9 16 56.3 0 1 0.0 2 4 50.0 2 3 5 1 1 0 0 2 16
+p603
+aVWayne Ellington MIN 12/18/2009 MIN vs. SAC W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 6
+p604
+aVNathan Jawai MIN 12/18/2009 MIN vs. SAC W 16 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 1 0 4 4 10
+p605
+aVRamon Sessions MIN 12/18/2009 MIN vs. SAC W 24 6 3 9 33.3 0 0 - 0 0 - 0 2 2 5 0 0 2 1 11
+p606
+aVAl Jefferson MIN 12/18/2009 MIN vs. SAC W 33 16 5 12 41.7 0 0 - 6 8 75.0 0 9 9 1 0 0 1 2 6
+p607
+aVRyan Hollins MIN 12/18/2009 MIN vs. SAC W 10 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -1
+p608
+aVJonny Flynn MIN 12/18/2009 MIN vs. SAC W 26 12 5 8 62.5 0 0 - 2 2 100.0 0 1 1 5 1 0 2 2 1
+p609
+aVWayne Ellington MIN 12/16/2009 MIN vs. LAC L 17 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -9
+p610
+aVDamien Wilkins MIN 12/16/2009 MIN vs. LAC L 25 8 4 9 44.4 0 1 0.0 0 0 - 1 5 6 5 1 1 2 3 -9
+p611
+aVKevin Love MIN 12/16/2009 MIN vs. LAC L 33 19 7 12 58.3 1 2 50.0 4 4 100.0 5 7 12 2 1 1 1 2 -8
+p612
+aVCorey Brewer MIN 12/16/2009 MIN vs. LAC L 31 8 4 13 30.8 0 1 0.0 0 0 - 0 1 1 1 1 0 2 3 -16
+p613
+aVRamon Sessions MIN 12/16/2009 MIN vs. LAC L 18 10 1 4 25.0 0 0 - 8 8 100.0 0 1 1 3 1 0 1 0 -13
+p614
+aVJonny Flynn MIN 12/16/2009 MIN vs. LAC L 30 9 3 12 25.0 0 3 0.0 3 4 75.0 0 3 3 3 0 0 2 1 -12
+p615
+aVNathan Jawai MIN 12/16/2009 MIN vs. LAC L 18 9 4 10 40.0 0 0 - 1 3 33.3 5 2 7 0 1 1 1 3 -9
+p616
+aVAl Jefferson MIN 12/16/2009 MIN vs. LAC L 30 18 5 15 33.3 0 0 - 8 11 72.7 2 6 8 0 0 0 1 2 -17
+p617
+aVRyan Hollins MIN 12/16/2009 MIN vs. LAC L 14 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 1 0 2 1 -16
+p618
+aVSasha Pavlovic MIN 12/16/2009 MIN vs. LAC L 23 6 3 8 37.5 0 3 0.0 0 0 - 0 3 3 0 0 0 0 0 -16
+p619
+aVJonny Flynn MIN 12/14/2009 MIN @ UTA W 29 28 11 19 57.9 4 6 66.7 2 3 66.7 0 1 1 5 1 0 4 5 11
+p620
+aVDamien Wilkins MIN 12/14/2009 MIN @ UTA W 33 5 2 4 50.0 0 0 - 1 1 100.0 1 2 3 4 2 0 1 1 4
+p621
+aVRyan Hollins MIN 12/14/2009 MIN @ UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p622
+aVWayne Ellington MIN 12/14/2009 MIN @ UTA W 12 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p623
+aVCorey Brewer MIN 12/14/2009 MIN @ UTA W 36 22 8 15 53.3 1 3 33.3 5 6 83.3 1 4 5 4 2 0 2 3 4
+p624
+aVAl Jefferson MIN 12/14/2009 MIN @ UTA W 38 23 9 16 56.3 0 0 - 5 10 50.0 1 11 12 3 0 1 3 3 -10
+p625
+aVRamon Sessions MIN 12/14/2009 MIN @ UTA W 19 6 3 7 42.9 0 0 - 0 0 - 3 2 5 1 1 0 2 3 -9
+p626
+aVKevin Love MIN 12/14/2009 MIN @ UTA W 35 11 3 9 33.3 0 1 0.0 5 8 62.5 4 10 14 2 1 0 1 4 7
+p627
+aVSasha Pavlovic MIN 12/14/2009 MIN @ UTA W 15 4 1 4 25.0 1 3 33.3 1 2 50.0 1 2 3 2 1 0 0 1 -2
+p628
+aVOleksiy Pecherov MIN 12/14/2009 MIN @ UTA W 19 8 2 5 40.0 0 1 0.0 4 4 100.0 3 2 5 0 1 0 2 4 1
+p629
+aVCorey Brewer MIN 12/12/2009 MIN @ SAC L 29 16 6 9 66.7 1 2 50.0 3 5 60.0 1 1 2 1 1 0 4 2 -24
+p630
+aVRyan Hollins MIN 12/12/2009 MIN @ SAC L 7 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 2 -11
+p631
+aVJonny Flynn MIN 12/12/2009 MIN @ SAC L 28 8 4 14 28.6 0 1 0.0 0 0 - 0 2 2 4 0 0 2 2 -8
+p632
+aVKevin Love MIN 12/12/2009 MIN @ SAC L 35 14 5 14 35.7 1 1 100.0 3 4 75.0 4 8 12 1 1 0 0 2 -11
+p633
+aVWayne Ellington MIN 12/12/2009 MIN @ SAC L 26 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 0 0 0 2 1 -7
+p634
+aVRyan Gomes MIN 12/12/2009 MIN @ SAC L 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -1
+p635
+aVNathan Jawai MIN 12/12/2009 MIN @ SAC L 12 2 1 4 25.0 0 0 - 0 1 0.0 1 4 5 2 0 0 0 1 -2
+p636
+aVAl Jefferson MIN 12/12/2009 MIN @ SAC L 33 26 12 19 63.2 0 0 - 2 4 50.0 5 6 11 2 0 0 0 3 -12
+p637
+aVDamien Wilkins MIN 12/12/2009 MIN @ SAC L 20 3 1 5 20.0 0 0 - 1 1 100.0 1 1 2 3 1 0 1 2 -3
+p638
+aVOleksiy Pecherov MIN 12/12/2009 MIN @ SAC L 7 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -2
+p639
+aVRamon Sessions MIN 12/12/2009 MIN @ SAC L 22 14 5 8 62.5 0 0 - 4 9 44.4 1 1 2 1 3 0 2 0 -17
+p640
+aVSasha Pavlovic MIN 12/12/2009 MIN @ SAC L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 1 1 2 0 -2
+p641
+aVSasha Pavlovic MIN 12/11/2009 MIN @ LAL L 22 6 2 8 25.0 1 2 50.0 1 2 50.0 0 5 5 2 0 0 2 1 -3
+p642
+aVCorey Brewer MIN 12/11/2009 MIN @ LAL L 25 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 2 1 0 1 2 -1
+p643
+aVWayne Ellington MIN 12/11/2009 MIN @ LAL L 17 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 1 8
+p644
+aVKevin Love MIN 12/11/2009 MIN @ LAL L 33 7 3 14 21.4 1 2 50.0 0 0 - 8 11 19 1 0 1 1 2 -8
+p645
+aVRamon Sessions MIN 12/11/2009 MIN @ LAL L 23 15 7 9 77.8 1 2 50.0 0 0 - 0 0 0 5 1 0 4 4 -2
+p646
+aVOleksiy Pecherov MIN 12/11/2009 MIN @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p647
+aVAl Jefferson MIN 12/11/2009 MIN @ LAL L 34 24 10 18 55.6 0 0 - 4 4 100.0 4 9 13 1 0 1 0 2 -6
+p648
+aVRyan Gomes MIN 12/11/2009 MIN @ LAL L 29 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -12
+p649
+aVNathan Jawai MIN 12/11/2009 MIN @ LAL L 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 1 0 0 4
+p650
+aVRyan Hollins MIN 12/11/2009 MIN @ LAL L 14 7 3 8 37.5 0 0 - 1 2 50.0 1 1 2 1 0 0 0 1 -10
+p651
+aVJonny Flynn MIN 12/11/2009 MIN @ LAL L 25 10 3 8 37.5 0 1 0.0 4 6 66.7 0 2 2 4 3 0 4 1 -10
+p652
+aVDamien Wilkins MIN 12/11/2009 MIN @ LAL L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -20
+p653
+aVSasha Pavlovic MIN 12/09/2009 MIN vs. NOH L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 7
+p654
+aVAl Jefferson MIN 12/09/2009 MIN vs. NOH L 35 17 8 12 66.7 0 0 - 1 2 50.0 5 11 16 1 2 1 0 0 12
+p655
+aVRamon Sessions MIN 12/09/2009 MIN vs. NOH L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 6 0 0 2 3 11
+p656
+aVDamien Wilkins MIN 12/09/2009 MIN vs. NOH L 18 2 1 4 25.0 0 0 - 0 0 - 1 2 3 3 0 0 1 0 -3
+p657
+aVRyan Gomes MIN 12/09/2009 MIN vs. NOH L 35 21 10 16 62.5 1 1 100.0 0 0 - 1 5 6 1 2 0 3 1 -3
+p658
+aVRyan Hollins MIN 12/09/2009 MIN vs. NOH L 12 11 4 5 80.0 0 0 - 3 3 100.0 0 1 1 1 0 0 3 2 -8
+p659
+aVCorey Brewer MIN 12/09/2009 MIN vs. NOH L 37 11 5 13 38.5 0 0 - 1 6 16.7 0 3 3 4 2 0 3 3 -10
+p660
+aVJonny Flynn MIN 12/09/2009 MIN vs. NOH L 33 14 4 9 44.4 1 3 33.3 5 7 71.4 0 2 2 8 1 0 2 2 -12
+p661
+aVKevin Love MIN 12/09/2009 MIN vs. NOH L 29 12 5 7 71.4 1 1 100.0 1 2 50.0 4 7 11 1 1 2 2 3 -1
+p662
+aVWayne Ellington MIN 12/09/2009 MIN vs. NOH L 20 6 3 9 33.3 0 4 0.0 0 0 - 2 3 5 1 0 0 2 2 2
+p663
+aVRamon Sessions MIN 12/08/2009 MIN @ TOR L 16 8 4 7 57.1 0 0 - 0 0 - 1 4 5 2 0 0 0 2 10
+p664
+aVCorey Brewer MIN 12/08/2009 MIN @ TOR L 27 2 1 3 33.3 0 0 - 0 0 - 1 4 5 2 0 0 1 4 -9
+p665
+aVSasha Pavlovic MIN 12/08/2009 MIN @ TOR L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -2
+p666
+aVRyan Hollins MIN 12/08/2009 MIN @ TOR L 9 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 2 -8
+p667
+aVRyan Gomes MIN 12/08/2009 MIN @ TOR L 31 16 6 12 50.0 1 4 25.0 3 3 100.0 1 2 3 0 0 1 0 5 10
+p668
+aVKevin Love MIN 12/08/2009 MIN @ TOR L 30 18 6 12 50.0 0 1 0.0 6 7 85.7 3 4 7 3 2 0 5 5 -4
+p669
+aVDamien Wilkins MIN 12/08/2009 MIN @ TOR L 26 10 3 8 37.5 0 1 0.0 4 5 80.0 4 2 6 1 0 0 0 1 -12
+p670
+aVOleksiy Pecherov MIN 12/08/2009 MIN @ TOR L 11 0 0 6 0.0 0 2 0.0 0 0 - 2 8 10 2 0 1 1 1 6
+p671
+aVWayne Ellington MIN 12/08/2009 MIN @ TOR L 21 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 2 0 0 0 1 3
+p672
+aVJonny Flynn MIN 12/08/2009 MIN @ TOR L 32 17 6 14 42.9 2 4 50.0 3 4 75.0 0 4 4 8 3 0 3 2 -16
+p673
+aVAl Jefferson MIN 12/08/2009 MIN @ TOR L 32 12 5 16 31.3 0 0 - 2 2 100.0 2 9 11 0 0 2 1 5 -8
+p674
+aVDamien Wilkins MIN 12/05/2009 MIN vs. UTA W 14 12 4 5 80.0 0 0 - 4 6 66.7 0 2 2 1 1 0 1 3 -3
+p675
+aVWayne Ellington MIN 12/05/2009 MIN vs. UTA W 24 10 4 6 66.7 0 1 0.0 2 2 100.0 0 4 4 2 0 0 0 0 7
+p676
+aVAl Jefferson MIN 12/05/2009 MIN vs. UTA W 38 15 7 19 36.8 0 0 - 1 3 33.3 3 8 11 0 2 1 3 4 7
+p677
+aVCorey Brewer MIN 12/05/2009 MIN vs. UTA W 27 12 6 12 50.0 0 1 0.0 0 0 - 0 3 3 3 1 0 3 3 4
+p678
+aVSasha Pavlovic MIN 12/05/2009 MIN vs. UTA W 13 0 0 1 0.0 0 1 0.0 0 2 0.0 0 1 1 1 1 0 0 1 -3
+p679
+aVRyan Hollins MIN 12/05/2009 MIN vs. UTA W 13 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 1 0 0 2 -6
+p680
+aVRyan Gomes MIN 12/05/2009 MIN vs. UTA W 36 23 9 10 90.0 0 0 - 5 5 100.0 1 4 5 5 1 0 2 1 15
+p681
+aVKevin Love MIN 12/05/2009 MIN vs. UTA W 26 18 6 9 66.7 2 3 66.7 4 4 100.0 2 8 10 1 2 1 2 1 7
+p682
+aVRamon Sessions MIN 12/05/2009 MIN vs. UTA W 14 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 3 0 1 1 2 -2
+p683
+aVJonny Flynn MIN 12/05/2009 MIN vs. UTA W 34 16 7 12 58.3 2 3 66.7 0 0 - 0 1 1 3 1 1 1 2 9
+p684
+aVOleksiy Pecherov MIN 12/04/2009 MIN @ NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -3
+p685
+aVRamon Sessions MIN 12/04/2009 MIN @ NOH L 21 5 2 8 25.0 0 0 - 1 2 50.0 2 2 4 4 2 0 2 2 5
+p686
+aVRyan Gomes MIN 12/04/2009 MIN @ NOH L 38 15 6 17 35.3 1 3 33.3 2 2 100.0 3 4 7 2 2 0 2 3 -14
+p687
+aVCorey Brewer MIN 12/04/2009 MIN @ NOH L 17 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 2 0 3 1 -2
+p688
+aVRyan Hollins MIN 12/04/2009 MIN @ NOH L 18 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 3 -8
+p689
+aVAl Jefferson MIN 12/04/2009 MIN @ NOH L 36 20 10 17 58.8 0 0 - 0 2 0.0 4 10 14 4 0 1 1 1 -10
+p690
+aVWayne Ellington MIN 12/04/2009 MIN @ NOH L 31 12 5 7 71.4 1 2 50.0 1 2 50.0 0 1 1 2 0 0 2 1 -7
+p691
+aVNathan Jawai MIN 12/04/2009 MIN @ NOH L 4 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 9
+p692
+aVDamien Wilkins MIN 12/04/2009 MIN @ NOH L 12 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 1 0 0 0 1 -11
+p693
+aVJonny Flynn MIN 12/04/2009 MIN @ NOH L 27 6 2 8 25.0 1 2 50.0 1 2 50.0 0 2 2 4 1 0 2 2 -14
+p694
+aVSasha Pavlovic MIN 12/04/2009 MIN @ NOH L 10 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 1 5
+p695
+aVKevin Love MIN 12/04/2009 MIN @ NOH L 24 11 3 7 42.9 2 3 66.7 3 4 75.0 3 8 11 3 2 0 2 3 5
+p696
+aVCorey Brewer MIN 12/02/2009 MIN vs. MEM L 21 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 3 1 1 1 3 3
+p697
+aVDamien Wilkins MIN 12/02/2009 MIN vs. MEM L 32 14 5 9 55.6 1 2 50.0 3 4 75.0 0 3 3 1 3 1 1 5 -5
+p698
+aVRyan Hollins MIN 12/02/2009 MIN vs. MEM L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 1 0 1 -5
+p699
+aVBrian Cardinal MIN 12/02/2009 MIN vs. MEM L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p700
+aVRyan Gomes MIN 12/02/2009 MIN vs. MEM L 31 20 8 13 61.5 2 3 66.7 2 3 66.7 1 4 5 2 1 0 1 4 6
+p701
+aVWayne Ellington MIN 12/02/2009 MIN vs. MEM L 23 8 4 8 50.0 0 1 0.0 0 0 - 1 3 4 1 0 0 1 1 -5
+p702
+aVRamon Sessions MIN 12/02/2009 MIN vs. MEM L 26 16 7 9 77.8 0 0 - 2 6 33.3 1 3 4 1 1 0 4 3 -3
+p703
+aVNathan Jawai MIN 12/02/2009 MIN vs. MEM L 17 8 2 4 50.0 0 0 - 4 4 100.0 2 3 5 0 0 0 1 5 -4
+p704
+aVJonny Flynn MIN 12/02/2009 MIN vs. MEM L 30 12 5 12 41.7 1 4 25.0 1 2 50.0 1 1 2 9 0 0 2 0 4
+p705
+aVSasha Pavlovic MIN 12/02/2009 MIN vs. MEM L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 2 1
+p706
+aVAl Jefferson MIN 12/02/2009 MIN vs. MEM L 35 12 4 13 30.8 0 0 - 4 4 100.0 1 8 9 1 0 0 2 3 -2
+p707
+aVOleksiy Pecherov MIN 11/29/2009 MIN @ DEN W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 1 2 1 -2
+p708
+aVRamon Sessions MIN 11/29/2009 MIN @ DEN W 19 6 3 4 75.0 0 0 - 0 0 - 0 3 3 2 1 0 2 1 0
+p709
+aVDamien Wilkins MIN 11/29/2009 MIN @ DEN W 33 15 6 11 54.5 0 3 0.0 3 3 100.0 3 9 12 6 0 0 1 2 -7
+p710
+aVRyan Hollins MIN 11/29/2009 MIN @ DEN W 24 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 1 1 3 3 7
+p711
+aVNathan Jawai MIN 11/29/2009 MIN @ DEN W 13 0 0 2 0.0 0 0 - 0 0 - 1 6 7 1 0 0 0 1 -6
+p712
+aVRyan Gomes MIN 11/29/2009 MIN @ DEN W 36 27 12 18 66.7 2 4 50.0 1 1 100.0 1 2 3 2 2 1 1 5 15
+p713
+aVAl Jefferson MIN 11/29/2009 MIN @ DEN W 34 14 6 13 46.2 0 0 - 2 3 66.7 3 6 9 3 0 1 2 4 11
+p714
+aVCorey Brewer MIN 11/29/2009 MIN @ DEN W 35 16 6 10 60.0 0 2 0.0 4 5 80.0 0 5 5 1 2 0 1 4 5
+p715
+aVWayne Ellington MIN 11/29/2009 MIN @ DEN W 13 6 1 4 25.0 1 3 33.3 3 4 75.0 0 1 1 2 1 0 1 2 1
+p716
+aVJonny Flynn MIN 11/29/2009 MIN @ DEN W 29 16 7 17 41.2 0 4 0.0 2 3 66.7 0 4 4 6 1 0 2 2 6
+p717
+aVOleksiy Pecherov MIN 11/27/2009 MIN vs. PHX L 9 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 1 3
+p718
+aVSasha Pavlovic MIN 11/27/2009 MIN vs. PHX L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 1 -8
+p719
+aVCorey Brewer MIN 11/27/2009 MIN vs. PHX L 29 5 1 11 9.1 0 1 0.0 3 4 75.0 1 2 3 0 1 1 3 4 -21
+p720
+aVJonny Flynn MIN 11/27/2009 MIN vs. PHX L 29 18 5 13 38.5 2 5 40.0 6 6 100.0 0 3 3 6 2 0 4 1 -24
+p721
+aVAl Jefferson MIN 11/27/2009 MIN vs. PHX L 33 20 9 17 52.9 0 0 - 2 4 50.0 4 1 5 2 1 0 1 2 -27
+p722
+aVDamien Wilkins MIN 11/27/2009 MIN vs. PHX L 7 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -6
+p723
+aVWayne Ellington MIN 11/27/2009 MIN vs. PHX L 20 4 1 4 25.0 0 2 0.0 2 2 100.0 2 1 3 0 2 0 0 0 -2
+p724
+aVRyan Hollins MIN 11/27/2009 MIN vs. PHX L 29 13 4 7 57.1 0 0 - 5 9 55.6 2 4 6 0 0 0 1 1 -25
+p725
+aVRyan Gomes MIN 11/27/2009 MIN vs. PHX L 26 3 1 5 20.0 0 1 0.0 1 2 50.0 2 2 4 2 0 0 2 2 -16
+p726
+aVBrian Cardinal MIN 11/27/2009 MIN vs. PHX L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 2
+p727
+aVRamon Sessions MIN 11/27/2009 MIN vs. PHX L 31 23 10 13 76.9 0 0 - 3 3 100.0 0 4 4 0 1 0 1 4 0
+p728
+aVNathan Jawai MIN 11/27/2009 MIN vs. PHX L 9 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 1 2 0 -1
+p729
+aVCorey Brewer MIN 11/25/2009 MIN vs. DEN L 29 22 10 18 55.6 0 1 0.0 2 6 33.3 4 9 13 4 2 1 0 1 -22
+p730
+aVJonny Flynn MIN 11/25/2009 MIN vs. DEN L 38 20 6 15 40.0 2 5 40.0 6 8 75.0 0 0 0 3 0 0 5 1 -9
+p731
+aVRyan Gomes MIN 11/25/2009 MIN vs. DEN L 21 5 2 7 28.6 0 3 0.0 1 2 50.0 0 2 2 0 1 0 1 3 -14
+p732
+aVDamien Wilkins MIN 11/25/2009 MIN vs. DEN L 21 6 2 6 33.3 0 1 0.0 2 2 100.0 3 1 4 2 1 0 0 2 1
+p733
+aVRamon Sessions MIN 11/25/2009 MIN vs. DEN L 28 6 2 8 25.0 0 0 - 2 2 100.0 1 1 2 6 0 0 1 4 0
+p734
+aVWayne Ellington MIN 11/25/2009 MIN vs. DEN L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -6
+p735
+aVRyan Hollins MIN 11/25/2009 MIN vs. DEN L 22 19 8 9 88.9 0 0 - 3 5 60.0 1 2 3 0 0 0 1 4 -9
+p736
+aVOleksiy Pecherov MIN 11/25/2009 MIN vs. DEN L 20 12 5 11 45.5 2 6 33.3 0 0 - 1 4 5 0 1 0 1 2 9
+p737
+aVAl Jefferson MIN 11/25/2009 MIN vs. DEN L 36 14 6 16 37.5 0 0 - 2 2 100.0 3 9 12 1 0 3 0 1 -16
+p738
+aVNathan Jawai MIN 11/25/2009 MIN vs. DEN L 7 5 2 3 66.7 0 0 - 1 1 100.0 2 0 2 0 0 0 0 3 1
+p739
+aVBrian Cardinal MIN 11/25/2009 MIN vs. DEN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -5
+p740
+aVSasha Pavlovic MIN 11/25/2009 MIN vs. DEN L 9 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 3 3 0 2 0 5
+p741
+aVOleksiy Pecherov MIN 11/23/2009 MIN @ LAC L 20 10 4 9 44.4 1 3 33.3 1 1 100.0 0 4 4 0 0 0 1 2 5
+p742
+aVDamien Wilkins MIN 11/23/2009 MIN @ LAC L 13 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -12
+p743
+aVCorey Brewer MIN 11/23/2009 MIN @ LAC L 35 13 5 12 41.7 1 5 20.0 2 2 100.0 1 6 7 1 2 0 2 2 2
+p744
+aVRyan Gomes MIN 11/23/2009 MIN @ LAC L 40 15 6 17 35.3 3 5 60.0 0 0 - 2 4 6 2 2 0 1 3 1
+p745
+aVAl Jefferson MIN 11/23/2009 MIN @ LAC L 40 13 6 13 46.2 0 0 - 1 2 50.0 4 9 13 0 3 2 8 1 4
+p746
+aVRamon Sessions MIN 11/23/2009 MIN @ LAC L 20 9 2 4 50.0 0 1 0.0 5 6 83.3 1 3 4 4 0 0 2 2 0
+p747
+aVBrian Cardinal MIN 11/23/2009 MIN @ LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p748
+aVSasha Pavlovic MIN 11/23/2009 MIN @ LAC L 10 2 1 4 25.0 0 0 - 0 2 0.0 1 1 2 1 0 1 1 1 -7
+p749
+aVJonny Flynn MIN 11/23/2009 MIN @ LAC L 29 17 6 12 50.0 2 2 100.0 3 3 100.0 0 0 0 5 1 0 2 3 -3
+p750
+aVRyan Hollins MIN 11/23/2009 MIN @ LAC L 25 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 3 0 0 3 4 -2
+p751
+aVNathan Jawai MIN 11/23/2009 MIN @ LAC L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -5
+p752
+aVRamon Sessions MIN 11/21/2009 MIN @ POR L 22 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 -13
+p753
+aVDamien Wilkins MIN 11/21/2009 MIN @ POR L 16 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 -10
+p754
+aVRyan Hollins MIN 11/21/2009 MIN @ POR L 15 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 0 0 4 -7
+p755
+aVJonny Flynn MIN 11/21/2009 MIN @ POR L 33 9 3 11 27.3 0 0 - 3 3 100.0 0 0 0 3 0 0 3 0 -18
+p756
+aVAl Jefferson MIN 11/21/2009 MIN @ POR L 37 20 8 21 38.1 0 0 - 4 4 100.0 3 7 10 2 1 0 1 3 -28
+p757
+aVOleksiy Pecherov MIN 11/21/2009 MIN @ POR L 30 12 4 11 36.4 0 2 0.0 4 4 100.0 5 5 10 0 0 0 1 5 -16
+p758
+aVNathan Jawai MIN 11/21/2009 MIN @ POR L 9 5 1 1 100.0 0 0 - 3 3 100.0 0 2 2 0 0 1 1 2 -1
+p759
+aVRyan Gomes MIN 11/21/2009 MIN @ POR L 30 8 3 8 37.5 0 1 0.0 2 2 100.0 1 2 3 1 0 0 2 3 -19
+p760
+aVWayne Ellington MIN 11/21/2009 MIN @ POR L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p761
+aVSasha Pavlovic MIN 11/21/2009 MIN @ POR L 22 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 1 1 0 2 4 -21
+p762
+aVCorey Brewer MIN 11/21/2009 MIN @ POR L 22 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 2 1 1 0 5 -8
+p763
+aVAl Jefferson MIN 11/18/2009 MIN vs. HOU L 33 20 9 11 81.8 0 0 - 2 2 100.0 3 7 10 4 3 2 3 1 -17
+p764
+aVNathan Jawai MIN 11/18/2009 MIN vs. HOU L 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 4
+p765
+aVRyan Hollins MIN 11/18/2009 MIN vs. HOU L 23 4 1 2 50.0 0 0 - 2 4 50.0 2 2 4 0 1 2 2 2 -19
+p766
+aVRamon Sessions MIN 11/18/2009 MIN vs. HOU L 24 16 7 11 63.6 0 0 - 2 2 100.0 1 0 1 5 3 0 2 0 3
+p767
+aVRyan Gomes MIN 11/18/2009 MIN vs. HOU L 18 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 0 1 0 2 2 -11
+p768
+aVCorey Brewer MIN 11/18/2009 MIN vs. HOU L 29 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 1 2 0 5 4 -13
+p769
+aVBrian Cardinal MIN 11/18/2009 MIN vs. HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p770
+aVOleksiy Pecherov MIN 11/18/2009 MIN vs. HOU L 22 12 5 14 35.7 2 4 50.0 0 0 - 1 3 4 1 0 2 2 2 6
+p771
+aVJonny Flynn MIN 11/18/2009 MIN vs. HOU L 24 9 4 12 33.3 0 2 0.0 1 1 100.0 0 1 1 2 0 0 3 0 -16
+p772
+aVDamien Wilkins MIN 11/18/2009 MIN vs. HOU L 28 3 1 2 50.0 0 1 0.0 1 1 100.0 5 4 9 3 1 0 1 0 -3
+p773
+aVSasha Pavlovic MIN 11/18/2009 MIN vs. HOU L 21 5 2 11 18.2 1 4 25.0 0 0 - 0 2 2 1 1 0 1 0 1
+p774
+aVRyan Hollins MIN 11/14/2009 MIN @ MEM L 30 15 7 9 77.8 0 0 - 1 1 100.0 2 6 8 3 0 0 0 4 -3
+p775
+aVNathan Jawai MIN 11/14/2009 MIN @ MEM L 25 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 1 0 0 3 -10
+p776
+aVRamon Sessions MIN 11/14/2009 MIN @ MEM L 26 13 5 8 62.5 0 1 0.0 3 6 50.0 1 2 3 8 1 0 3 2 -5
+p777
+aVSasha Pavlovic MIN 11/14/2009 MIN @ MEM L 20 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 1 0 1 1 0 0
+p778
+aVJonny Flynn MIN 11/14/2009 MIN @ MEM L 30 10 5 14 35.7 0 3 0.0 0 0 - 0 3 3 3 0 1 6 2 -3
+p779
+aVOleksiy Pecherov MIN 11/14/2009 MIN @ MEM L 12 8 4 8 50.0 0 3 0.0 0 0 - 0 4 4 0 0 0 1 2 -6
+p780
+aVCorey Brewer MIN 11/14/2009 MIN @ MEM L 35 16 7 19 36.8 0 1 0.0 2 2 100.0 1 6 7 2 2 0 2 3 -4
+p781
+aVBrian Cardinal MIN 11/14/2009 MIN @ MEM L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 2 0 0 1 -4
+p782
+aVRyan Gomes MIN 11/14/2009 MIN @ MEM L 35 15 7 11 63.6 1 3 33.3 0 0 - 1 5 6 0 2 0 7 4 -9
+p783
+aVWayne Ellington MIN 11/14/2009 MIN @ MEM L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p784
+aVJason Hart MIN 11/13/2009 MIN vs. DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 5
+p785
+aVBrian Cardinal MIN 11/13/2009 MIN vs. DAL L 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 4 -5
+p786
+aVWayne Ellington MIN 11/13/2009 MIN vs. DAL L 16 7 3 9 33.3 1 4 25.0 0 0 - 1 0 1 2 0 0 1 1 6
+p787
+aVRyan Hollins MIN 11/13/2009 MIN vs. DAL L 22 5 2 9 22.2 0 0 - 1 2 50.0 2 4 6 1 0 0 0 3 -4
+p788
+aVNathan Jawai MIN 11/13/2009 MIN vs. DAL L 26 10 4 9 44.4 0 0 - 2 3 66.7 3 1 4 0 0 0 2 1 -9
+p789
+aVRamon Sessions MIN 11/13/2009 MIN vs. DAL L 26 7 1 8 12.5 0 0 - 5 8 62.5 1 3 4 3 0 0 1 1 -21
+p790
+aVSasha Pavlovic MIN 11/13/2009 MIN vs. DAL L 21 4 2 7 28.6 0 3 0.0 0 0 - 1 9 10 3 1 0 0 2 6
+p791
+aVDamien Wilkins MIN 11/13/2009 MIN vs. DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 6
+p792
+aVCorey Brewer MIN 11/13/2009 MIN vs. DAL L 32 10 4 13 30.8 1 4 25.0 1 2 50.0 1 6 7 1 4 1 0 1 -18
+p793
+aVRyan Gomes MIN 11/13/2009 MIN vs. DAL L 28 10 4 12 33.3 1 2 50.0 1 2 50.0 1 8 9 1 0 1 1 1 -7
+p794
+aVOleksiy Pecherov MIN 11/13/2009 MIN vs. DAL L 15 9 3 9 33.3 0 2 0.0 3 4 75.0 1 5 6 0 0 0 2 1 -3
+p795
+aVJonny Flynn MIN 11/13/2009 MIN vs. DAL L 30 11 4 9 44.4 0 2 0.0 3 6 50.0 1 1 2 4 3 0 4 0 -16
+p796
+aVJonny Flynn MIN 11/11/2009 MIN vs. POR L 25 15 5 11 45.5 1 2 50.0 4 4 100.0 0 6 6 1 0 0 2 1 -13
+p797
+aVCorey Brewer MIN 11/11/2009 MIN vs. POR L 32 7 2 8 25.0 0 0 - 3 5 60.0 0 1 1 3 3 0 3 1 -17
+p798
+aVOleksiy Pecherov MIN 11/11/2009 MIN vs. POR L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -8
+p799
+aVRyan Hollins MIN 11/11/2009 MIN vs. POR L 25 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 3 -5
+p800
+aVDamien Wilkins MIN 11/11/2009 MIN vs. POR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -15
+p801
+aVRamon Sessions MIN 11/11/2009 MIN vs. POR L 28 10 5 8 62.5 0 0 - 0 0 - 0 1 1 5 1 0 0 3 -16
+p802
+aVNathan Jawai MIN 11/11/2009 MIN vs. POR L 15 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 2 1 2 -10
+p803
+aVSasha Pavlovic MIN 11/11/2009 MIN vs. POR L 25 13 5 9 55.6 3 5 60.0 0 0 - 0 1 1 2 1 0 1 1 -18
+p804
+aVRyan Gomes MIN 11/11/2009 MIN vs. POR L 32 9 3 9 33.3 2 2 100.0 1 1 100.0 1 6 7 2 2 0 0 5 12
+p805
+aVWayne Ellington MIN 11/11/2009 MIN vs. POR L 16 6 3 6 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 2 -6
+p806
+aVAl Jefferson MIN 11/11/2009 MIN vs. POR L 35 14 7 15 46.7 0 0 - 0 0 - 0 6 6 2 3 2 1 1 -19
+p807
+aVRyan Hollins MIN 11/09/2009 MIN @ GSW L 19 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 3 1 5 -15
+p808
+aVRamon Sessions MIN 11/09/2009 MIN @ GSW L 23 11 4 7 57.1 0 0 - 3 3 100.0 0 3 3 2 1 0 4 4 -20
+p809
+aVWayne Ellington MIN 11/09/2009 MIN @ GSW L 17 7 3 8 37.5 1 4 25.0 0 2 0.0 1 1 2 1 1 0 3 1 -7
+p810
+aVNathan Jawai MIN 11/09/2009 MIN @ GSW L 13 6 2 8 25.0 0 0 - 2 3 66.7 6 1 7 1 1 0 1 3 -12
+p811
+aVBrian Cardinal MIN 11/09/2009 MIN @ GSW L 10 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 1 1 2 -12
+p812
+aVRyan Gomes MIN 11/09/2009 MIN @ GSW L 28 8 4 11 36.4 0 0 - 0 0 - 4 4 8 2 2 0 1 2 -22
+p813
+aVJonny Flynn MIN 11/09/2009 MIN @ GSW L 34 20 8 17 47.1 1 6 16.7 3 3 100.0 1 4 5 6 1 0 6 3 -27
+p814
+aVCorey Brewer MIN 11/09/2009 MIN @ GSW L 23 10 3 8 37.5 0 2 0.0 4 4 100.0 2 2 4 5 0 1 4 1 -28
+p815
+aVSasha Pavlovic MIN 11/09/2009 MIN @ GSW L 30 17 7 14 50.0 3 6 50.0 0 0 - 0 6 6 3 0 0 4 3 -27
+p816
+aVDamien Wilkins MIN 11/09/2009 MIN @ GSW L 19 2 1 5 20.0 0 1 0.0 0 0 - 5 5 10 2 1 1 2 3 -14
+p817
+aVAl Jefferson MIN 11/09/2009 MIN @ GSW L 20 18 8 11 72.7 0 0 - 2 3 66.7 1 2 3 1 0 0 0 4 -10
+p818
+aVOleksiy Pecherov MIN 11/09/2009 MIN @ GSW L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -11
+p819
+aVDamien Wilkins MIN 11/08/2009 MIN @ POR L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 3
+p820
+aVOleksiy Pecherov MIN 11/08/2009 MIN @ POR L 14 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -8
+p821
+aVJonny Flynn MIN 11/08/2009 MIN @ POR L 30 11 4 10 40.0 1 4 25.0 2 3 66.7 0 0 0 3 2 0 2 3 -13
+p822
+aVCorey Brewer MIN 11/08/2009 MIN @ POR L 26 12 4 9 44.4 2 4 50.0 2 4 50.0 0 1 1 1 1 0 3 3 -14
+p823
+aVRyan Gomes MIN 11/08/2009 MIN @ POR L 33 15 7 14 50.0 1 4 25.0 0 1 0.0 2 4 6 4 0 1 1 1 -10
+p824
+aVAl Jefferson MIN 11/08/2009 MIN @ POR L 25 12 4 11 36.4 0 0 - 4 5 80.0 2 8 10 3 2 1 1 2 -2
+p825
+aVRamon Sessions MIN 11/08/2009 MIN @ POR L 22 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 3 1 0 2 1 -11
+p826
+aVWayne Ellington MIN 11/08/2009 MIN @ POR L 20 9 3 8 37.5 2 3 66.7 1 2 50.0 1 2 3 1 0 0 3 0 -15
+p827
+aVNathan Jawai MIN 11/08/2009 MIN @ POR L 23 16 7 11 63.6 0 0 - 2 3 66.7 3 3 6 0 0 0 1 4 -21
+p828
+aVRyan Hollins MIN 11/08/2009 MIN @ POR L 20 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 1 0 1 2 -19
+p829
+aVSasha Pavlovic MIN 11/08/2009 MIN @ POR L 22 7 3 8 37.5 1 4 25.0 0 1 0.0 0 4 4 1 0 1 1 1 -5
+p830
+aVNathan Jawai MIN 11/06/2009 MIN vs. MIL L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p831
+aVBrian Cardinal MIN 11/06/2009 MIN vs. MIL L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p832
+aVJonny Flynn MIN 11/06/2009 MIN vs. MIL L 33 20 9 17 52.9 0 3 0.0 2 3 66.7 0 4 4 1 3 0 3 1 1
+p833
+aVRamon Sessions MIN 11/06/2009 MIN vs. MIL L 15 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 2 1 -16
+p834
+aVAl Jefferson MIN 11/06/2009 MIN vs. MIL L 35 8 3 12 25.0 0 0 - 2 6 33.3 1 7 8 2 1 1 3 3 -14
+p835
+aVCorey Brewer MIN 11/06/2009 MIN vs. MIL L 37 13 4 10 40.0 2 5 40.0 3 4 75.0 1 2 3 3 2 2 5 3 -3
+p836
+aVRyan Gomes MIN 11/06/2009 MIN vs. MIL L 28 8 3 6 50.0 2 3 66.7 0 1 0.0 0 4 4 0 0 0 2 3 -2
+p837
+aVOleksiy Pecherov MIN 11/06/2009 MIN vs. MIL L 25 2 1 6 16.7 0 1 0.0 0 0 - 2 7 9 1 0 2 2 4 -6
+p838
+aVWayne Ellington MIN 11/06/2009 MIN vs. MIL L 13 4 1 4 25.0 0 1 0.0 2 2 100.0 0 3 3 0 1 0 0 0 -8
+p839
+aVRyan Hollins MIN 11/06/2009 MIN vs. MIL L 20 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 1 1 3 3 -7
+p840
+aVSasha Pavlovic MIN 11/06/2009 MIN vs. MIL L 17 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 3 -14
+p841
+aVDamien Wilkins MIN 11/06/2009 MIN vs. MIL L 9 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 -4
+p842
+aVCorey Brewer MIN 11/04/2009 MIN vs. BOS L 39 13 6 16 37.5 0 2 0.0 1 1 100.0 0 3 3 5 1 0 1 3 2
+p843
+aVRamon Sessions MIN 11/04/2009 MIN vs. BOS L 15 4 2 3 66.7 0 0 - 0 0 - 0 4 4 2 0 0 3 1 -5
+p844
+aVRyan Gomes MIN 11/04/2009 MIN vs. BOS L 35 11 5 7 71.4 0 1 0.0 1 2 50.0 1 6 7 3 2 0 1 1 6
+p845
+aVOleksiy Pecherov MIN 11/04/2009 MIN vs. BOS L 34 24 9 14 64.3 1 4 25.0 5 5 100.0 1 7 8 1 1 0 2 3 12
+p846
+aVJonny Flynn MIN 11/04/2009 MIN vs. BOS L 33 10 4 6 66.7 1 1 100.0 1 1 100.0 1 4 5 5 0 0 2 1 3
+p847
+aVDamien Wilkins MIN 11/04/2009 MIN vs. BOS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -8
+p848
+aVAl Jefferson MIN 11/04/2009 MIN vs. BOS L 36 18 8 17 47.1 0 1 0.0 2 3 66.7 0 4 4 3 1 0 2 2 3
+p849
+aVSasha Pavlovic MIN 11/04/2009 MIN vs. BOS L 13 4 2 3 66.7 0 1 0.0 0 0 - 1 3 4 0 0 0 2 0 -8
+p850
+aVWayne Ellington MIN 11/04/2009 MIN vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p851
+aVBrian Cardinal MIN 11/04/2009 MIN vs. BOS L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -5
+p852
+aVRyan Hollins MIN 11/04/2009 MIN vs. BOS L 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 0 2 2 4 -11
+p853
+aVWayne Ellington MIN 11/02/2009 MIN @ LAC L 11 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p854
+aVOleksiy Pecherov MIN 11/02/2009 MIN @ LAC L 19 13 6 8 75.0 1 1 100.0 0 0 - 1 3 4 0 1 1 0 4 1
+p855
+aVSasha Pavlovic MIN 11/02/2009 MIN @ LAC L 10 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -5
+p856
+aVRyan Hollins MIN 11/02/2009 MIN @ LAC L 18 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 0 0 2 2 3 -3
+p857
+aVCorey Brewer MIN 11/02/2009 MIN @ LAC L 37 14 6 21 28.6 0 2 0.0 2 4 50.0 3 1 4 6 5 2 1 3 1
+p858
+aVNathan Jawai MIN 11/02/2009 MIN @ LAC L 5 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -3
+p859
+aVRyan Gomes MIN 11/02/2009 MIN @ LAC L 35 8 4 14 28.6 0 1 0.0 0 0 - 3 4 7 2 0 0 1 2 -5
+p860
+aVJonny Flynn MIN 11/02/2009 MIN @ LAC L 22 13 4 8 50.0 1 1 100.0 4 4 100.0 1 2 3 4 1 0 5 0 -6
+p861
+aVBrian Cardinal MIN 11/02/2009 MIN @ LAC L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 4 -3
+p862
+aVDamien Wilkins MIN 11/02/2009 MIN @ LAC L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 9
+p863
+aVRamon Sessions MIN 11/02/2009 MIN @ LAC L 26 6 3 4 75.0 0 0 - 0 0 - 2 6 8 4 0 0 2 3 3
+p864
+aVAl Jefferson MIN 11/02/2009 MIN @ LAC L 35 24 9 16 56.3 0 0 - 6 6 100.0 1 3 4 2 3 1 1 1 0
+p865
+aVOleksiy Pecherov MIN 11/01/2009 MIN @ PHX L 19 8 4 10 40.0 0 1 0.0 0 0 - 2 5 7 1 0 0 0 4 -10
+p866
+aVRyan Gomes MIN 11/01/2009 MIN @ PHX L 37 23 10 13 76.9 2 2 100.0 1 2 50.0 3 12 15 4 2 0 1 2 9
+p867
+aVBrian Cardinal MIN 11/01/2009 MIN @ PHX L 11 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 0 0 1 2 -8
+p868
+aVRamon Sessions MIN 11/01/2009 MIN @ PHX L 31 9 4 10 40.0 0 1 0.0 1 3 33.3 4 0 4 4 0 0 1 1 -6
+p869
+aVDamien Wilkins MIN 11/01/2009 MIN @ PHX L 10 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 1 1 -12
+p870
+aVWayne Ellington MIN 11/01/2009 MIN @ PHX L 26 7 3 8 37.5 1 2 50.0 0 0 - 0 1 1 2 3 0 0 0 -5
+p871
+aVCorey Brewer MIN 11/01/2009 MIN @ PHX L 37 19 8 18 44.4 0 1 0.0 3 6 50.0 1 6 7 1 2 0 1 2 2
+p872
+aVJonny Flynn MIN 11/01/2009 MIN @ PHX L 19 11 4 9 44.4 1 2 50.0 2 2 100.0 1 1 2 4 2 0 2 2 -4
+p873
+aVSasha Pavlovic MIN 11/01/2009 MIN @ PHX L 5 1 0 1 0.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 2 -1
+p874
+aVRyan Hollins MIN 11/01/2009 MIN @ PHX L 12 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 2 1 0 1 4 6
+p875
+aVAl Jefferson MIN 11/01/2009 MIN @ PHX L 34 21 9 23 39.1 0 0 - 3 3 100.0 4 4 8 4 1 1 2 4 -11
+p876
+aVOleksiy Pecherov MIN 10/30/2009 MIN vs. CLE L 11 9 4 5 80.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 1 3
+p877
+aVBrian Cardinal MIN 10/30/2009 MIN vs. CLE L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 0 6
+p878
+aVAl Jefferson MIN 10/30/2009 MIN vs. CLE L 25 12 5 14 35.7 0 0 - 2 3 66.7 4 4 8 3 0 1 2 2 -17
+p879
+aVCorey Brewer MIN 10/30/2009 MIN vs. CLE L 30 11 5 8 62.5 0 1 0.0 1 2 50.0 2 2 4 1 2 2 3 3 -17
+p880
+aVJonny Flynn MIN 10/30/2009 MIN vs. CLE L 26 17 6 10 60.0 1 2 50.0 4 4 100.0 1 1 2 3 1 0 5 1 -23
+p881
+aVRyan Gomes MIN 10/30/2009 MIN vs. CLE L 21 4 2 7 28.6 0 1 0.0 0 0 - 1 5 6 0 1 0 0 1 -22
+p882
+aVWayne Ellington MIN 10/30/2009 MIN vs. CLE L 23 4 1 8 12.5 0 3 0.0 2 2 100.0 1 2 3 1 1 0 1 1 -7
+p883
+aVDamien Wilkins MIN 10/30/2009 MIN vs. CLE L 24 4 2 7 28.6 0 0 - 0 0 - 0 1 1 2 1 0 2 4 -11
+p884
+aVRyan Hollins MIN 10/30/2009 MIN vs. CLE L 25 9 4 7 57.1 0 0 - 1 4 25.0 1 3 4 2 0 0 2 0 -4
+p885
+aVSasha Pavlovic MIN 10/30/2009 MIN vs. CLE L 20 9 4 7 57.1 1 3 33.3 0 0 - 1 6 7 2 0 0 1 1 1
+p886
+aVNathan Jawai MIN 10/30/2009 MIN vs. CLE L 4 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 0
+p887
+aVRamon Sessions MIN 10/30/2009 MIN vs. CLE L 22 4 2 8 25.0 0 2 0.0 0 0 - 1 6 7 2 0 0 1 1 6
+p888
+aVRamon Sessions MIN 10/28/2009 MIN vs. NJN W 19 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 1 2 0 0 0 6
+p889
+aVDamien Wilkins MIN 10/28/2009 MIN vs. NJN W 26 12 4 10 40.0 0 0 - 4 5 80.0 3 7 10 2 4 0 1 2 -11
+p890
+aVBrian Cardinal MIN 10/28/2009 MIN vs. NJN W 20 7 3 4 75.0 1 2 50.0 0 0 - 1 3 4 1 1 0 0 3 6
+p891
+aVJonny Flynn MIN 10/28/2009 MIN vs. NJN W 29 18 5 13 38.5 0 0 - 8 10 80.0 1 3 4 2 2 0 3 2 -4
+p892
+aVOleksiy Pecherov MIN 10/28/2009 MIN vs. NJN W 5 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p893
+aVRyan Gomes MIN 10/28/2009 MIN vs. NJN W 19 10 3 11 27.3 0 0 - 4 4 100.0 3 1 4 1 0 0 1 4 -15
+p894
+aVCorey Brewer MIN 10/28/2009 MIN vs. NJN W 33 7 3 14 21.4 0 0 - 1 2 50.0 4 4 8 1 3 1 2 3 3
+p895
+aVAl Jefferson MIN 10/28/2009 MIN vs. NJN W 25 9 2 9 22.2 0 0 - 5 8 62.5 1 3 4 2 2 1 0 3 6
+p896
+aVSasha Pavlovic MIN 10/28/2009 MIN vs. NJN W 18 8 3 11 27.3 0 2 0.0 2 2 100.0 2 0 2 1 1 0 0 2 8
+p897
+aVRyan Hollins MIN 10/28/2009 MIN vs. NJN W 22 9 4 5 80.0 0 0 - 1 2 50.0 0 3 3 1 0 0 3 4 -4
+p898
+aVWayne Ellington MIN 10/28/2009 MIN vs. NJN W 23 8 4 8 50.0 0 1 0.0 0 0 - 2 4 6 2 0 0 0 0 13
+p899
+a.

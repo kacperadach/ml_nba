@@ -1,0 +1,1650 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMatt Bullard HOU 04/19/1998 HOU vs. PHX L 30 10 5 9 55.6 0 2 0.0 0 0 - 0 3 3 0 4 0 0 3 -25
+p2
+aVRodrick Rhodes HOU 04/19/1998 HOU vs. PHX L 31 10 3 15 20.0 1 1 100.0 3 8 37.5 1 0 1 2 0 0 4 3 -24
+p3
+aVJoe Stephens HOU 04/19/1998 HOU vs. PHX L 8 5 2 7 28.6 0 1 0.0 1 2 50.0 2 2 4 0 0 0 0 0 -4
+p4
+aVEddie Johnson HOU 04/19/1998 HOU vs. PHX L 16 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 2 1 -13
+p5
+aVClyde Drexler HOU 04/19/1998 HOU vs. PHX L 28 11 4 15 26.7 0 4 0.0 3 4 75.0 3 6 9 4 1 1 2 0 -16
+p6
+aVMatt Maloney HOU 04/19/1998 HOU vs. PHX L 27 9 3 5 60.0 2 3 66.7 1 1 100.0 0 1 1 3 1 0 4 0 -19
+p7
+aVMario Elie HOU 04/19/1998 HOU vs. PHX L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 -6
+p8
+aVKevin Willis HOU 04/19/1998 HOU vs. PHX L 27 21 8 12 66.7 0 0 - 5 6 83.3 5 5 10 1 1 1 3 3 -19
+p9
+aVEmanual Davis HOU 04/19/1998 HOU vs. PHX L 21 7 3 4 75.0 1 1 100.0 0 0 - 1 1 2 3 0 0 2 3 -11
+p10
+aVOthella Harrington HOU 04/19/1998 HOU vs. PHX L 27 10 3 7 42.9 0 0 - 4 7 57.1 1 1 2 1 0 1 2 5 -14
+p11
+aVCharles Jones HOU 04/19/1998 HOU vs. PHX L 8 2 1 1 100.0 0 0 - 0 0 - 4 2 6 1 0 0 0 0 1
+p12
+aVClyde Drexler HOU 04/17/1998 HOU @ MIN L 36 21 7 18 38.9 3 8 37.5 4 5 80.0 3 4 7 6 3 0 1 2 -10
+p13
+aVEddie Johnson HOU 04/17/1998 HOU @ MIN L 23 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 5 0 0 1 1 2
+p14
+aVHakeem Olajuwon HOU 04/17/1998 HOU @ MIN L 39 20 8 16 50.0 0 1 0.0 4 6 66.7 0 10 10 3 4 1 6 4 0
+p15
+aVMario Elie HOU 04/17/1998 HOU @ MIN L 36 8 4 10 40.0 0 2 0.0 0 0 - 0 2 2 4 1 0 1 3 -6
+p16
+aVOthella Harrington HOU 04/17/1998 HOU @ MIN L 19 5 1 3 33.3 0 0 - 3 4 75.0 1 3 4 2 0 0 0 3 -6
+p17
+aVMatt Maloney HOU 04/17/1998 HOU @ MIN L 31 8 3 9 33.3 1 6 16.7 1 1 100.0 0 3 3 3 0 0 0 2 -12
+p18
+aVBrent Price HOU 04/17/1998 HOU @ MIN L 18 5 2 5 40.0 1 4 25.0 0 0 - 1 0 1 3 0 1 0 2 5
+p19
+aVKevin Willis HOU 04/17/1998 HOU @ MIN L 38 22 11 17 64.7 0 0 - 0 0 - 2 4 6 1 1 0 1 3 -8
+p20
+aVKevin Willis HOU 04/14/1998 HOU vs. DEN W 27 8 4 7 57.1 0 0 - 0 0 - 0 4 4 1 0 0 0 2 11
+p21
+aVEmanual Davis HOU 04/14/1998 HOU vs. DEN W 5 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p22
+aVClyde Drexler HOU 04/14/1998 HOU vs. DEN W 29 16 6 13 46.2 3 10 30.0 1 1 100.0 3 7 10 3 2 0 4 2 10
+p23
+aVMatt Maloney HOU 04/14/1998 HOU vs. DEN W 30 11 4 11 36.4 3 9 33.3 0 0 - 0 0 0 5 0 0 1 0 10
+p24
+aVHakeem Olajuwon HOU 04/14/1998 HOU vs. DEN W 39 13 4 9 44.4 0 0 - 5 6 83.3 4 14 18 8 4 6 1 4 20
+p25
+aVMatt Bullard HOU 04/14/1998 HOU vs. DEN W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 3 1 -15
+p26
+aVEddie Johnson HOU 04/14/1998 HOU vs. DEN W 19 8 3 7 42.9 1 2 50.0 1 2 50.0 0 2 2 0 1 0 3 2 -4
+p27
+aVOthella Harrington HOU 04/14/1998 HOU vs. DEN W 24 7 1 3 33.3 0 0 - 5 8 62.5 1 2 3 0 0 0 3 3 -2
+p28
+aVMario Elie HOU 04/14/1998 HOU vs. DEN W 42 23 7 10 70.0 1 3 33.3 8 8 100.0 2 3 5 6 2 0 3 1 14
+p29
+aVBrent Price HOU 04/14/1998 HOU vs. DEN W 20 8 2 6 33.3 2 4 50.0 2 2 100.0 0 0 0 1 0 0 2 4 -4
+p30
+aVHakeem Olajuwon HOU 04/12/1998 HOU @ SEA L 36 13 4 9 44.4 0 0 - 5 7 71.4 4 5 9 6 0 3 4 3 -13
+p31
+aVMatt Maloney HOU 04/12/1998 HOU @ SEA L 35 12 5 11 45.5 2 8 25.0 0 0 - 0 2 2 5 1 0 1 3 -2
+p32
+aVMario Elie HOU 04/12/1998 HOU @ SEA L 39 7 2 8 25.0 2 5 40.0 1 1 100.0 0 2 2 7 0 0 2 2 -1
+p33
+aVOthella Harrington HOU 04/12/1998 HOU @ SEA L 19 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 2 0 1 2 -3
+p34
+aVKevin Willis HOU 04/12/1998 HOU @ SEA L 41 28 11 18 61.1 0 0 - 6 6 100.0 1 8 9 2 2 0 1 1 0
+p35
+aVBrent Price HOU 04/12/1998 HOU @ SEA L 17 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 0 0 3 3 -9
+p36
+aVEddie Johnson HOU 04/12/1998 HOU @ SEA L 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -9
+p37
+aVClyde Drexler HOU 04/12/1998 HOU @ SEA L 42 25 9 16 56.3 5 10 50.0 2 2 100.0 1 3 4 7 3 1 5 2 -3
+p38
+aVClyde Drexler HOU 04/10/1998 HOU @ SAC W 36 18 6 16 37.5 1 5 20.0 5 6 83.3 2 8 10 4 1 0 1 2 24
+p39
+aVHakeem Olajuwon HOU 04/10/1998 HOU @ SAC W 38 24 10 18 55.6 0 0 - 4 6 66.7 2 10 12 6 1 2 1 4 25
+p40
+aVCharles Barkley HOU 04/10/1998 HOU @ SAC W 20 7 3 7 42.9 0 1 0.0 1 2 50.0 3 8 11 0 0 0 1 2 -9
+p41
+aVMario Elie HOU 04/10/1998 HOU @ SAC W 33 12 4 8 50.0 2 4 50.0 2 3 66.7 0 2 2 4 0 1 3 1 9
+p42
+aVEddie Johnson HOU 04/10/1998 HOU @ SAC W 22 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -3
+p43
+aVMatt Maloney HOU 04/10/1998 HOU @ SAC W 28 9 4 8 50.0 1 4 25.0 0 0 - 1 1 2 1 3 0 5 2 15
+p44
+aVKevin Willis HOU 04/10/1998 HOU @ SAC W 29 11 4 7 57.1 0 0 - 3 4 75.0 1 6 7 0 0 0 2 2 12
+p45
+aVBrent Price HOU 04/10/1998 HOU @ SAC W 20 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 4 0 0 0 3 -3
+p46
+aVEmanual Davis HOU 04/10/1998 HOU @ SAC W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -6
+p47
+aVOthella Harrington HOU 04/10/1998 HOU @ SAC W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 2 2 -4
+p48
+aVHakeem Olajuwon HOU 04/09/1998 HOU @ GSW W 36 10 4 9 44.4 0 0 - 2 3 66.7 2 8 10 6 3 3 1 5 3
+p49
+aVMatt Maloney HOU 04/09/1998 HOU @ GSW W 30 8 3 7 42.9 0 3 0.0 2 2 100.0 0 1 1 2 0 0 1 0 5
+p50
+aVClyde Drexler HOU 04/09/1998 HOU @ GSW W 39 19 6 16 37.5 1 6 16.7 6 7 85.7 0 2 2 8 3 0 4 1 1
+p51
+aVEddie Johnson HOU 04/09/1998 HOU @ GSW W 18 6 2 6 33.3 1 1 100.0 1 2 50.0 0 0 0 2 1 0 1 1 -3
+p52
+aVKevin Willis HOU 04/09/1998 HOU @ GSW W 29 6 2 8 25.0 0 0 - 2 2 100.0 2 4 6 1 0 1 2 1 11
+p53
+aVCharles Barkley HOU 04/09/1998 HOU @ GSW W 32 15 6 16 37.5 0 3 0.0 3 4 75.0 4 8 12 2 4 0 1 1 -6
+p54
+aVBrent Price HOU 04/09/1998 HOU @ GSW W 18 7 2 4 50.0 1 3 33.3 2 2 100.0 0 3 3 2 1 0 1 1 -1
+p55
+aVMario Elie HOU 04/09/1998 HOU @ GSW W 39 22 8 15 53.3 4 7 57.1 2 4 50.0 2 1 3 1 3 0 1 3 10
+p56
+aVHakeem Olajuwon HOU 04/07/1998 HOU @ DEN W 35 18 6 13 46.2 0 1 0.0 6 7 85.7 2 12 14 2 1 3 2 4 6
+p57
+aVMario Elie HOU 04/07/1998 HOU @ DEN W 35 11 4 7 57.1 1 3 33.3 2 3 66.7 0 3 3 6 0 0 0 2 6
+p58
+aVKevin Willis HOU 04/07/1998 HOU @ DEN W 28 12 4 6 66.7 0 0 - 4 4 100.0 3 2 5 0 1 4 3 3 -1
+p59
+aVOthella Harrington HOU 04/07/1998 HOU @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p60
+aVClyde Drexler HOU 04/07/1998 HOU @ DEN W 34 20 7 15 46.7 4 9 44.4 2 4 50.0 1 5 6 6 2 2 6 3 8
+p61
+aVMatt Maloney HOU 04/07/1998 HOU @ DEN W 24 11 4 8 50.0 2 5 40.0 1 3 33.3 0 0 0 1 0 1 1 0 -1
+p62
+aVEddie Johnson HOU 04/07/1998 HOU @ DEN W 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 9
+p63
+aVCharles Barkley HOU 04/07/1998 HOU @ DEN W 29 6 1 2 50.0 1 2 50.0 3 4 75.0 1 10 11 5 0 0 3 1 22
+p64
+aVEmanual Davis HOU 04/07/1998 HOU @ DEN W 13 11 3 5 60.0 2 2 100.0 3 3 100.0 0 1 1 1 0 0 2 1 11
+p65
+aVBrent Price HOU 04/07/1998 HOU @ DEN W 24 13 4 5 80.0 2 3 66.7 3 3 100.0 0 0 0 3 0 1 1 1 18
+p66
+aVMario Elie HOU 04/05/1998 HOU vs. CHI L 35 18 6 15 40.0 2 8 25.0 4 4 100.0 1 2 3 4 2 1 4 2 -9
+p67
+aVKevin Willis HOU 04/05/1998 HOU vs. CHI L 27 7 3 7 42.9 0 1 0.0 1 2 50.0 0 2 2 1 0 0 1 3 -13
+p68
+aVJoe Stephens HOU 04/05/1998 HOU vs. CHI L 2 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p69
+aVClyde Drexler HOU 04/05/1998 HOU vs. CHI L 32 20 8 17 47.1 3 7 42.9 1 1 100.0 1 5 6 4 2 1 2 5 0
+p70
+aVBrent Price HOU 04/05/1998 HOU vs. CHI L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 1 0 2 1 -2
+p71
+aVHakeem Olajuwon HOU 04/05/1998 HOU vs. CHI L 33 16 7 14 50.0 0 0 - 2 2 100.0 3 9 12 4 0 2 4 1 -13
+p72
+aVOthella Harrington HOU 04/05/1998 HOU vs. CHI L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 6
+p73
+aVCharles Barkley HOU 04/05/1998 HOU vs. CHI L 28 10 5 9 55.6 0 0 - 0 2 0.0 2 9 11 5 0 1 3 3 -13
+p74
+aVCharles Jones HOU 04/05/1998 HOU vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p75
+aVEddie Johnson HOU 04/05/1998 HOU vs. CHI L 19 11 3 6 50.0 1 3 33.3 4 4 100.0 0 2 2 3 0 0 1 2 -18
+p76
+aVMatt Maloney HOU 04/05/1998 HOU vs. CHI L 30 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 3 0 0 1 1 -13
+p77
+aVEmanual Davis HOU 04/05/1998 HOU vs. CHI L 7 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 1 1 -2
+p78
+aVCharles Barkley HOU 04/03/1998 HOU @ ATL L 22 11 2 4 50.0 0 2 0.0 7 9 77.8 1 5 6 4 1 0 0 4 -9
+p79
+aVKevin Willis HOU 04/03/1998 HOU @ ATL L 24 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 0 0 0 2 4 -15
+p80
+aVClyde Drexler HOU 04/03/1998 HOU @ ATL L 28 7 2 10 20.0 1 3 33.3 2 2 100.0 0 2 2 3 3 0 2 3 -14
+p81
+aVCharles Jones HOU 04/03/1998 HOU @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p82
+aVEmanual Davis HOU 04/03/1998 HOU @ ATL L 20 13 4 7 57.1 3 3 100.0 2 2 100.0 0 1 1 0 1 1 1 3 -9
+p83
+aVEddie Johnson HOU 04/03/1998 HOU @ ATL L 22 7 2 5 40.0 1 1 100.0 2 5 40.0 0 0 0 0 0 0 0 1 -8
+p84
+aVBrent Price HOU 04/03/1998 HOU @ ATL L 17 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 3 0 0 0 3 -8
+p85
+aVOthella Harrington HOU 04/03/1998 HOU @ ATL L 15 8 1 5 20.0 0 0 - 6 6 100.0 3 2 5 1 0 0 0 1 -1
+p86
+aVMario Elie HOU 04/03/1998 HOU @ ATL L 28 7 3 8 37.5 0 2 0.0 1 2 50.0 0 1 1 4 1 0 1 1 -11
+p87
+aVHakeem Olajuwon HOU 04/03/1998 HOU @ ATL L 33 15 5 8 62.5 0 0 - 5 8 62.5 0 7 7 0 1 2 3 5 -19
+p88
+aVMatt Maloney HOU 04/03/1998 HOU @ ATL L 26 6 2 7 28.6 1 4 25.0 1 2 50.0 0 0 0 1 0 0 1 0 -10
+p89
+aVJoe Stephens HOU 04/03/1998 HOU @ ATL L 4 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 1 0 1 0 0
+p90
+aVBrent Price HOU 04/02/1998 HOU vs. GSW L 18 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 2 5 6
+p91
+aVEddie Johnson HOU 04/02/1998 HOU vs. GSW L 29 15 6 17 35.3 1 9 11.1 2 3 66.7 2 1 3 5 1 0 1 3 11
+p92
+aVMario Elie HOU 04/02/1998 HOU vs. GSW L 32 4 1 4 25.0 1 2 50.0 1 2 50.0 2 2 4 9 1 0 1 2 -15
+p93
+aVHakeem Olajuwon HOU 04/02/1998 HOU vs. GSW L 36 21 7 14 50.0 0 0 - 7 8 87.5 3 5 8 3 4 0 2 4 -13
+p94
+aVMatt Bullard HOU 04/02/1998 HOU vs. GSW L 19 6 2 12 16.7 0 7 0.0 2 2 100.0 0 1 1 3 0 0 0 0 -21
+p95
+aVEmanual Davis HOU 04/02/1998 HOU vs. GSW L 16 7 3 5 60.0 1 3 33.3 0 0 - 2 3 5 1 0 0 3 3 5
+p96
+aVKevin Willis HOU 04/02/1998 HOU vs. GSW L 34 24 11 21 52.4 0 0 - 2 4 50.0 5 7 12 0 0 1 1 3 -6
+p97
+aVMatt Maloney HOU 04/02/1998 HOU vs. GSW L 30 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 1 -16
+p98
+aVOthella Harrington HOU 04/02/1998 HOU vs. GSW L 26 11 3 6 50.0 0 0 - 5 8 62.5 6 5 11 1 0 1 2 2 -1
+p99
+aVMario Elie HOU 03/31/1998 HOU vs. PHX L 40 9 3 8 37.5 2 4 50.0 1 2 50.0 1 5 6 3 3 0 2 1 -9
+p100
+aVBrent Price HOU 03/31/1998 HOU vs. PHX L 23 7 2 5 40.0 0 2 0.0 3 3 100.0 0 2 2 3 0 0 3 4 -10
+p101
+aVEddie Johnson HOU 03/31/1998 HOU vs. PHX L 26 17 6 12 50.0 2 5 40.0 3 3 100.0 1 0 1 1 0 0 1 1 -7
+p102
+aVMatt Bullard HOU 03/31/1998 HOU vs. PHX L 26 15 5 8 62.5 4 6 66.7 1 2 50.0 0 3 3 4 0 1 0 1 -8
+p103
+aVMatt Maloney HOU 03/31/1998 HOU vs. PHX L 25 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 4 0 0 4 0 -1
+p104
+aVKevin Willis HOU 03/31/1998 HOU vs. PHX L 24 10 5 9 55.6 0 0 - 0 0 - 2 4 6 0 1 0 6 4 -3
+p105
+aVRodrick Rhodes HOU 03/31/1998 HOU vs. PHX L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 1 1 1 0 1
+p106
+aVHakeem Olajuwon HOU 03/31/1998 HOU vs. PHX L 44 15 6 16 37.5 0 0 - 3 4 75.0 2 10 12 2 3 3 2 1 -13
+p107
+aVOthella Harrington HOU 03/31/1998 HOU vs. PHX L 23 7 1 4 25.0 0 0 - 5 8 62.5 1 5 6 0 0 2 1 3 -5
+p108
+aVMatt Maloney HOU 03/29/1998 HOU @ MIA L 31 5 2 9 22.2 1 4 25.0 0 0 - 0 4 4 2 2 0 3 1 -16
+p109
+aVEmanual Davis HOU 03/29/1998 HOU @ MIA L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -7
+p110
+aVEddie Johnson HOU 03/29/1998 HOU @ MIA L 23 3 1 6 16.7 0 3 0.0 1 1 100.0 4 5 9 3 0 0 3 1 -21
+p111
+aVKevin Willis HOU 03/29/1998 HOU @ MIA L 31 15 7 16 43.8 0 0 - 1 2 50.0 2 6 8 0 0 0 1 4 -13
+p112
+aVMario Elie HOU 03/29/1998 HOU @ MIA L 34 18 6 9 66.7 1 3 33.3 5 6 83.3 0 1 1 2 1 0 1 2 -23
+p113
+aVHakeem Olajuwon HOU 03/29/1998 HOU @ MIA L 33 15 5 13 38.5 0 0 - 5 9 55.6 1 3 4 3 2 0 3 3 -24
+p114
+aVRodrick Rhodes HOU 03/29/1998 HOU @ MIA L 17 3 1 5 20.0 0 0 - 1 4 25.0 0 3 3 2 0 1 2 2 -8
+p115
+aVMatt Bullard HOU 03/29/1998 HOU @ MIA L 26 7 3 12 25.0 1 5 20.0 0 0 - 0 1 1 2 0 0 0 1 -19
+p116
+aVOthella Harrington HOU 03/29/1998 HOU @ MIA L 27 7 2 7 28.6 0 0 - 3 4 75.0 3 4 7 2 0 0 3 6 -17
+p117
+aVBrent Price HOU 03/29/1998 HOU @ MIA L 12 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 2 -12
+p118
+aVMatt Bullard HOU 03/27/1998 HOU @ ORL L 22 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 2 1 1 1 -5
+p119
+aVCharles Barkley HOU 03/27/1998 HOU @ ORL L 18 8 3 7 42.9 0 0 - 2 2 100.0 0 4 4 2 0 0 1 3 -10
+p120
+aVOthella Harrington HOU 03/27/1998 HOU @ ORL L 15 6 3 6 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -15
+p121
+aVEmanual Davis HOU 03/27/1998 HOU @ ORL L 4 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 -2
+p122
+aVEddie Johnson HOU 03/27/1998 HOU @ ORL L 22 5 2 8 25.0 0 3 0.0 1 1 100.0 0 1 1 0 0 0 1 1 -18
+p123
+aVMario Elie HOU 03/27/1998 HOU @ ORL L 27 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 4 0 0 0 0 -10
+p124
+aVHakeem Olajuwon HOU 03/27/1998 HOU @ ORL L 32 12 6 13 46.2 0 0 - 0 0 - 3 10 13 2 0 2 6 2 -15
+p125
+aVRodrick Rhodes HOU 03/27/1998 HOU @ ORL L 21 4 2 2 100.0 0 0 - 0 2 0.0 1 1 2 2 2 1 2 1 -15
+p126
+aVKevin Willis HOU 03/27/1998 HOU @ ORL L 31 20 8 11 72.7 0 0 - 4 4 100.0 4 0 4 0 1 1 5 3 -10
+p127
+aVBrent Price HOU 03/27/1998 HOU @ ORL L 24 7 2 7 28.6 2 4 50.0 1 1 100.0 0 2 2 2 0 0 3 3 -15
+p128
+aVMatt Maloney HOU 03/27/1998 HOU @ ORL L 24 5 1 4 25.0 1 3 33.3 2 2 100.0 0 0 0 4 0 0 4 1 -10
+p129
+aVOthella Harrington HOU 03/25/1998 HOU @ IND W 26 13 3 8 37.5 0 0 - 7 8 87.5 4 6 10 0 0 1 0 4 2
+p130
+aVMatt Bullard HOU 03/25/1998 HOU @ IND W 26 12 5 10 50.0 2 3 66.7 0 0 - 0 2 2 1 0 0 1 3 1
+p131
+aVHakeem Olajuwon HOU 03/25/1998 HOU @ IND W 35 16 7 17 41.2 0 0 - 2 3 66.7 2 9 11 2 6 2 3 3 1
+p132
+aVBrent Price HOU 03/25/1998 HOU @ IND W 17 5 2 4 50.0 0 1 0.0 1 2 50.0 0 0 0 3 0 0 2 2 6
+p133
+aVEddie Johnson HOU 03/25/1998 HOU @ IND W 22 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 1 2
+p134
+aVMario Elie HOU 03/25/1998 HOU @ IND W 31 9 2 3 66.7 0 1 0.0 5 6 83.3 0 4 4 4 1 0 2 1 -1
+p135
+aVKevin Willis HOU 03/25/1998 HOU @ IND W 35 22 10 20 50.0 0 0 - 2 3 66.7 1 7 8 0 2 2 3 2 7
+p136
+aVRodrick Rhodes HOU 03/25/1998 HOU @ IND W 17 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 2 8
+p137
+aVMatt Maloney HOU 03/25/1998 HOU @ IND W 31 2 0 4 0.0 0 4 0.0 2 2 100.0 1 5 6 8 3 0 1 2 -1
+p138
+aVKevin Willis HOU 03/24/1998 HOU @ MIL L 30 14 4 7 57.1 0 0 - 6 8 75.0 4 6 10 1 0 1 4 5 -11
+p139
+aVHakeem Olajuwon HOU 03/24/1998 HOU @ MIL L 34 22 10 19 52.6 0 0 - 2 3 66.7 2 9 11 3 1 0 4 2 -12
+p140
+aVMatt Maloney HOU 03/24/1998 HOU @ MIL L 27 8 3 9 33.3 1 6 16.7 1 1 100.0 0 2 2 2 0 1 1 2 -10
+p141
+aVEmanual Davis HOU 03/24/1998 HOU @ MIL L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 8
+p142
+aVMario Elie HOU 03/24/1998 HOU @ MIL L 29 5 2 6 33.3 0 2 0.0 1 1 100.0 0 1 1 4 0 0 0 1 -19
+p143
+aVMatt Bullard HOU 03/24/1998 HOU @ MIL L 24 10 4 7 57.1 2 5 40.0 0 0 - 0 1 1 0 0 0 0 2 -14
+p144
+aVEddie Johnson HOU 03/24/1998 HOU @ MIL L 22 12 5 10 50.0 0 1 0.0 2 3 66.7 3 1 4 2 0 0 1 2 3
+p145
+aVBrent Price HOU 03/24/1998 HOU @ MIL L 21 5 2 7 28.6 1 6 16.7 0 0 - 0 0 0 2 2 0 2 2 0
+p146
+aVRodrick Rhodes HOU 03/24/1998 HOU @ MIL L 19 11 4 9 44.4 0 0 - 3 6 50.0 1 1 2 0 4 0 1 3 9
+p147
+aVOthella Harrington HOU 03/24/1998 HOU @ MIL L 30 18 6 10 60.0 0 0 - 6 7 85.7 3 2 5 0 1 0 1 3 -4
+p148
+aVEddie Johnson HOU 03/21/1998 HOU @ DAL W 24 10 5 8 62.5 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p149
+aVKevin Willis HOU 03/21/1998 HOU @ DAL W 30 4 2 5 40.0 0 0 - 0 0 - 3 8 11 1 0 0 1 2 22
+p150
+aVHakeem Olajuwon HOU 03/21/1998 HOU @ DAL W 37 20 9 13 69.2 0 0 - 2 4 50.0 6 7 13 2 1 2 5 3 -4
+p151
+aVRodrick Rhodes HOU 03/21/1998 HOU @ DAL W 6 2 0 3 0.0 0 0 - 2 4 50.0 0 0 0 0 1 0 1 2 -8
+p152
+aVMario Elie HOU 03/21/1998 HOU @ DAL W 29 7 2 6 33.3 1 3 33.3 2 2 100.0 1 5 6 4 0 0 3 1 8
+p153
+aVClyde Drexler HOU 03/21/1998 HOU @ DAL W 31 18 6 14 42.9 2 6 33.3 4 4 100.0 2 5 7 5 2 0 5 4 15
+p154
+aVBrent Price HOU 03/21/1998 HOU @ DAL W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -14
+p155
+aVMatt Maloney HOU 03/21/1998 HOU @ DAL W 36 19 7 15 46.7 5 8 62.5 0 0 - 0 1 1 3 0 0 2 1 22
+p156
+aVMatt Bullard HOU 03/21/1998 HOU @ DAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 5
+p157
+aVCharles Barkley HOU 03/21/1998 HOU @ DAL W 29 23 9 12 75.0 1 2 50.0 4 5 80.0 3 10 13 2 2 0 3 2 -2
+p158
+aVHakeem Olajuwon HOU 03/19/1998 HOU vs. BOS W 36 33 15 20 75.0 0 0 - 3 3 100.0 3 4 7 1 1 2 2 2 2
+p159
+aVMatt Maloney HOU 03/19/1998 HOU vs. BOS W 34 10 4 8 50.0 2 5 40.0 0 0 - 1 0 1 4 0 0 1 1 7
+p160
+aVCharles Barkley HOU 03/19/1998 HOU vs. BOS W 32 10 4 7 57.1 0 1 0.0 2 2 100.0 4 8 12 0 0 1 2 2 9
+p161
+aVMatt Bullard HOU 03/19/1998 HOU vs. BOS W 20 7 3 6 50.0 1 4 25.0 0 0 - 2 3 5 4 0 0 1 1 5
+p162
+aVEddie Johnson HOU 03/19/1998 HOU vs. BOS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 0 0
+p163
+aVOthella Harrington HOU 03/19/1998 HOU vs. BOS W 2 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p164
+aVKevin Willis HOU 03/19/1998 HOU vs. BOS W 26 10 3 9 33.3 0 0 - 4 7 57.1 5 7 12 1 0 3 3 3 7
+p165
+aVClyde Drexler HOU 03/19/1998 HOU vs. BOS W 37 20 6 17 35.3 2 8 25.0 6 9 66.7 1 2 3 5 3 1 2 4 9
+p166
+aVMario Elie HOU 03/19/1998 HOU vs. BOS W 33 11 3 4 75.0 1 1 100.0 4 4 100.0 0 4 4 2 0 0 3 2 4
+p167
+aVBrent Price HOU 03/19/1998 HOU vs. BOS W 14 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 3 0 0 3 2 2
+p168
+aVBrent Price HOU 03/17/1998 HOU vs. MIL W 7 4 1 2 50.0 1 2 50.0 1 1 100.0 0 0 0 1 0 0 2 1 -1
+p169
+aVCharles Barkley HOU 03/17/1998 HOU vs. MIL W 31 9 2 7 28.6 0 0 - 5 6 83.3 1 7 8 4 2 0 4 4 -14
+p170
+aVMatt Bullard HOU 03/17/1998 HOU vs. MIL W 17 9 4 6 66.7 1 3 33.3 0 0 - 0 1 1 0 0 1 0 2 2
+p171
+aVMario Elie HOU 03/17/1998 HOU vs. MIL W 27 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 4 3 0 4 1 9
+p172
+aVEddie Johnson HOU 03/17/1998 HOU vs. MIL W 6 2 0 6 0.0 0 1 0.0 2 2 100.0 2 2 4 0 0 0 0 2 -6
+p173
+aVHakeem Olajuwon HOU 03/17/1998 HOU vs. MIL W 35 18 8 13 61.5 0 0 - 2 2 100.0 2 2 4 3 3 4 3 2 10
+p174
+aVMatt Maloney HOU 03/17/1998 HOU vs. MIL W 41 19 6 9 66.7 5 8 62.5 2 2 100.0 0 2 2 3 1 0 1 1 6
+p175
+aVKevin Willis HOU 03/17/1998 HOU vs. MIL W 30 12 5 13 38.5 0 0 - 2 2 100.0 4 7 11 2 1 0 0 4 14
+p176
+aVClyde Drexler HOU 03/17/1998 HOU vs. MIL W 32 15 6 13 46.2 3 8 37.5 0 0 - 0 4 4 9 2 0 4 2 1
+p177
+aVRodrick Rhodes HOU 03/17/1998 HOU vs. MIL W 14 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 4
+p178
+aVRodrick Rhodes HOU 03/14/1998 HOU vs. SAC W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p179
+aVClyde Drexler HOU 03/14/1998 HOU vs. SAC W 34 19 7 16 43.8 4 9 44.4 1 3 33.3 0 4 4 1 1 0 2 4 -3
+p180
+aVCharles Barkley HOU 03/14/1998 HOU vs. SAC W 33 17 5 7 71.4 0 0 - 7 9 77.8 2 9 11 6 0 0 0 4 3
+p181
+aVMario Elie HOU 03/14/1998 HOU vs. SAC W 30 11 3 7 42.9 2 5 40.0 3 3 100.0 1 2 3 3 2 0 0 2 1
+p182
+aVMatt Bullard HOU 03/14/1998 HOU vs. SAC W 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 2 3
+p183
+aVBrent Price HOU 03/14/1998 HOU vs. SAC W 21 4 0 4 0.0 0 3 0.0 4 5 80.0 0 1 1 1 1 0 4 2 -1
+p184
+aVKevin Willis HOU 03/14/1998 HOU vs. SAC W 26 9 3 6 50.0 0 0 - 3 4 75.0 2 7 9 1 0 1 2 0 1
+p185
+aVMatt Maloney HOU 03/14/1998 HOU vs. SAC W 27 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 0 0 0 0 3 4
+p186
+aVEddie Johnson HOU 03/14/1998 HOU vs. SAC W 19 4 2 6 33.3 0 0 - 0 1 0.0 0 4 4 1 1 0 0 2 10
+p187
+aVHakeem Olajuwon HOU 03/14/1998 HOU vs. SAC W 37 23 7 23 30.4 0 0 - 9 10 90.0 5 6 11 3 2 2 1 2 4
+p188
+aVBrent Price HOU 03/12/1998 HOU vs. NJN W 10 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p189
+aVMario Elie HOU 03/12/1998 HOU vs. NJN W 37 17 5 11 45.5 3 5 60.0 4 4 100.0 1 4 5 11 0 0 1 1 12
+p190
+aVCharles Barkley HOU 03/12/1998 HOU vs. NJN W 35 13 3 7 42.9 0 1 0.0 7 9 77.8 8 8 16 5 0 0 3 2 5
+p191
+aVEddie Johnson HOU 03/12/1998 HOU vs. NJN W 19 7 2 8 25.0 1 4 25.0 2 2 100.0 0 2 2 1 0 0 2 1 -2
+p192
+aVMatt Maloney HOU 03/12/1998 HOU vs. NJN W 41 15 6 11 54.5 3 7 42.9 0 0 - 1 4 5 6 0 0 5 1 12
+p193
+aVHakeem Olajuwon HOU 03/12/1998 HOU vs. NJN W 39 16 5 15 33.3 0 0 - 6 8 75.0 5 12 17 3 3 3 3 3 15
+p194
+aVClyde Drexler HOU 03/12/1998 HOU vs. NJN W 37 33 12 19 63.2 5 7 71.4 4 4 100.0 1 2 3 1 1 1 3 4 13
+p195
+aVKevin Willis HOU 03/12/1998 HOU vs. NJN W 22 9 4 9 44.4 0 0 - 1 3 33.3 2 2 4 0 2 1 2 5 2
+p196
+aVMatt Maloney HOU 03/10/1998 HOU vs. DAL W 17 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 4 0 0 0 1 2
+p197
+aVBrent Price HOU 03/10/1998 HOU vs. DAL W 31 13 4 10 40.0 3 5 60.0 2 3 66.7 0 0 0 5 0 0 5 3 4
+p198
+aVKevin Willis HOU 03/10/1998 HOU vs. DAL W 30 20 9 13 69.2 0 0 - 2 3 66.7 5 7 12 1 0 0 1 2 5
+p199
+aVMatt Bullard HOU 03/10/1998 HOU vs. DAL W 18 4 2 6 33.3 0 2 0.0 0 0 - 2 1 3 0 0 0 0 0 4
+p200
+aVCharles Barkley HOU 03/10/1998 HOU vs. DAL W 36 14 5 7 71.4 1 2 50.0 3 3 100.0 4 13 17 1 1 1 3 1 5
+p201
+aVEddie Johnson HOU 03/10/1998 HOU vs. DAL W 30 9 4 11 36.4 1 5 20.0 0 0 - 2 1 3 2 0 0 1 0 2
+p202
+aVHakeem Olajuwon HOU 03/10/1998 HOU vs. DAL W 30 13 3 12 25.0 0 0 - 7 10 70.0 3 5 8 6 2 0 4 3 2
+p203
+aVRodrick Rhodes HOU 03/10/1998 HOU vs. DAL W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p204
+aVClyde Drexler HOU 03/10/1998 HOU vs. DAL W 38 24 9 16 56.3 3 9 33.3 3 3 100.0 1 6 7 6 0 1 2 5 3
+p205
+aVMatt Bullard HOU 03/09/1998 HOU @ UTA L 24 5 2 7 28.6 1 4 25.0 0 0 - 0 3 3 1 1 1 1 1 -12
+p206
+aVClyde Drexler HOU 03/09/1998 HOU @ UTA L 32 15 6 15 40.0 3 5 60.0 0 0 - 0 5 5 5 1 0 2 4 -13
+p207
+aVCharles Barkley HOU 03/09/1998 HOU @ UTA L 42 10 3 11 27.3 0 1 0.0 4 4 100.0 2 9 11 3 0 0 3 5 -12
+p208
+aVBrent Price HOU 03/09/1998 HOU @ UTA L 22 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 7 0 0 0 6 11
+p209
+aVRodrick Rhodes HOU 03/09/1998 HOU @ UTA L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -7
+p210
+aVMatt Maloney HOU 03/09/1998 HOU @ UTA L 34 9 3 8 37.5 1 3 33.3 2 2 100.0 0 0 0 2 0 0 1 1 -9
+p211
+aVEddie Johnson HOU 03/09/1998 HOU @ UTA L 41 37 13 18 72.2 4 7 57.1 7 7 100.0 0 3 3 2 2 0 3 2 -3
+p212
+aVOthella Harrington HOU 03/09/1998 HOU @ UTA L 29 10 5 7 71.4 0 0 - 0 3 0.0 1 6 7 0 0 0 0 3 10
+p213
+aVRodrick Rhodes HOU 03/07/1998 HOU @ PHX W 15 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 4 1 0 1 4 4
+p214
+aVBrent Price HOU 03/07/1998 HOU @ PHX W 27 7 2 6 33.3 1 3 33.3 2 2 100.0 1 1 2 3 1 0 0 4 0
+p215
+aVHakeem Olajuwon HOU 03/07/1998 HOU @ PHX W 36 20 8 19 42.1 0 0 - 4 5 80.0 1 12 13 4 1 0 1 3 17
+p216
+aVClyde Drexler HOU 03/07/1998 HOU @ PHX W 37 21 9 19 47.4 3 6 50.0 0 0 - 1 4 5 4 1 0 3 3 20
+p217
+aVMario Elie HOU 03/07/1998 HOU @ PHX W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 2 5
+p218
+aVMatt Bullard HOU 03/07/1998 HOU @ PHX W 15 20 8 9 88.9 4 5 80.0 0 0 - 1 1 2 0 0 0 0 0 17
+p219
+aVMatt Maloney HOU 03/07/1998 HOU @ PHX W 41 6 2 5 40.0 1 3 33.3 1 1 100.0 0 3 3 6 2 0 1 2 23
+p220
+aVKevin Willis HOU 03/07/1998 HOU @ PHX W 23 8 4 8 50.0 0 0 - 0 0 - 2 5 7 1 1 1 1 2 -3
+p221
+aVCharles Barkley HOU 03/07/1998 HOU @ PHX W 32 15 7 15 46.7 0 2 0.0 1 2 50.0 3 9 12 4 2 0 1 3 16
+p222
+aVEddie Johnson HOU 03/07/1998 HOU @ PHX W 7 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -4
+p223
+aVMario Elie HOU 03/05/1998 HOU vs. MIA L 14 3 0 0 - 0 0 - 3 4 75.0 0 1 1 1 0 0 1 0 -5
+p224
+aVMatt Bullard HOU 03/05/1998 HOU vs. MIA L 18 8 3 7 42.9 2 5 40.0 0 0 - 0 0 0 1 0 0 1 0 -19
+p225
+aVEddie Johnson HOU 03/05/1998 HOU vs. MIA L 33 13 5 10 50.0 1 4 25.0 2 3 66.7 1 1 2 2 1 0 0 4 -6
+p226
+aVEmanual Davis HOU 03/05/1998 HOU vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p227
+aVHakeem Olajuwon HOU 03/05/1998 HOU vs. MIA L 25 13 6 13 46.2 0 0 - 1 2 50.0 2 6 8 1 1 1 1 5 -22
+p228
+aVOthella Harrington HOU 03/05/1998 HOU vs. MIA L 5 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p229
+aVMatt Maloney HOU 03/05/1998 HOU vs. MIA L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 0 -18
+p230
+aVRodrick Rhodes HOU 03/05/1998 HOU vs. MIA L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 -10
+p231
+aVKevin Willis HOU 03/05/1998 HOU vs. MIA L 33 15 6 14 42.9 0 0 - 3 4 75.0 2 6 8 0 1 0 0 3 -16
+p232
+aVBrent Price HOU 03/05/1998 HOU vs. MIA L 25 8 1 4 25.0 1 2 50.0 5 5 100.0 0 0 0 1 0 0 1 2 4
+p233
+aVClyde Drexler HOU 03/05/1998 HOU vs. MIA L 31 9 3 9 33.3 1 2 50.0 2 2 100.0 2 4 6 4 1 0 5 2 -21
+p234
+aVCharles Barkley HOU 03/05/1998 HOU vs. MIA L 30 18 6 9 66.7 0 0 - 6 6 100.0 0 2 2 4 2 1 0 1 0
+p235
+aVOthella Harrington HOU 03/03/1998 HOU vs. LAC W 19 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 0 1 2 4 2
+p236
+aVCharles Barkley HOU 03/03/1998 HOU vs. LAC W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 -2
+p237
+aVHakeem Olajuwon HOU 03/03/1998 HOU vs. LAC W 42 18 8 17 47.1 0 0 - 2 4 50.0 3 12 15 5 0 2 3 5 14
+p238
+aVKevin Willis HOU 03/03/1998 HOU vs. LAC W 32 21 9 15 60.0 0 0 - 3 3 100.0 2 5 7 1 4 0 0 4 6
+p239
+aVEddie Johnson HOU 03/03/1998 HOU vs. LAC W 25 16 7 10 70.0 2 5 40.0 0 0 - 0 5 5 1 1 0 0 1 6
+p240
+aVClyde Drexler HOU 03/03/1998 HOU vs. LAC W 43 24 5 9 55.6 1 2 50.0 13 13 100.0 0 2 2 11 1 2 6 0 5
+p241
+aVMatt Bullard HOU 03/03/1998 HOU vs. LAC W 16 3 1 3 33.3 1 2 50.0 0 0 - 1 3 4 0 0 1 1 1 5
+p242
+aVMatt Maloney HOU 03/03/1998 HOU vs. LAC W 23 5 2 6 33.3 1 5 20.0 0 0 - 0 1 1 2 1 1 2 0 2
+p243
+aVMario Elie HOU 03/03/1998 HOU vs. LAC W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 4
+p244
+aVBrent Price HOU 03/03/1998 HOU vs. LAC W 25 10 3 8 37.5 1 5 20.0 3 3 100.0 0 0 0 6 1 0 0 2 8
+p245
+aVCharles Barkley HOU 03/01/1998 HOU vs. UTA L 31 10 4 10 40.0 0 2 0.0 2 6 33.3 0 6 6 3 0 0 2 4 2
+p246
+aVHakeem Olajuwon HOU 03/01/1998 HOU vs. UTA L 38 18 7 19 36.8 0 0 - 4 6 66.7 1 10 11 4 2 2 3 2 -9
+p247
+aVKevin Willis HOU 03/01/1998 HOU vs. UTA L 27 10 4 8 50.0 0 0 - 2 2 100.0 2 3 5 1 0 0 0 5 -5
+p248
+aVMatt Bullard HOU 03/01/1998 HOU vs. UTA L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 1 0 4 -2
+p249
+aVBrent Price HOU 03/01/1998 HOU vs. UTA L 14 8 3 3 100.0 2 2 100.0 0 0 - 0 0 0 0 1 0 1 2 2
+p250
+aVMario Elie HOU 03/01/1998 HOU vs. UTA L 28 8 3 11 27.3 2 5 40.0 0 0 - 3 0 3 3 0 0 2 3 -1
+p251
+aVMatt Maloney HOU 03/01/1998 HOU vs. UTA L 34 15 5 8 62.5 3 4 75.0 2 2 100.0 0 3 3 4 1 0 0 2 -8
+p252
+aVEddie Johnson HOU 03/01/1998 HOU vs. UTA L 11 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p253
+aVClyde Drexler HOU 03/01/1998 HOU vs. UTA L 43 25 11 20 55.0 2 7 28.6 1 3 33.3 3 1 4 10 2 0 1 3 -5
+p254
+aVEddie Johnson HOU 02/26/1998 HOU vs. MIN W 24 13 5 9 55.6 3 6 50.0 0 0 - 0 1 1 4 1 0 0 3 11
+p255
+aVMario Elie HOU 02/26/1998 HOU vs. MIN W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 12
+p256
+aVCharles Jones HOU 02/26/1998 HOU vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p257
+aVHakeem Olajuwon HOU 02/26/1998 HOU vs. MIN W 33 20 8 13 61.5 0 0 - 4 4 100.0 2 3 5 4 3 0 2 3 15
+p258
+aVKevin Willis HOU 02/26/1998 HOU vs. MIN W 27 15 6 13 46.2 0 0 - 3 3 100.0 3 5 8 1 0 0 1 2 13
+p259
+aVRodrick Rhodes HOU 02/26/1998 HOU vs. MIN W 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p260
+aVOthella Harrington HOU 02/26/1998 HOU vs. MIN W 5 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 1 0 1 2 -5
+p261
+aVMatt Maloney HOU 02/26/1998 HOU vs. MIN W 36 15 5 12 41.7 3 7 42.9 2 2 100.0 0 3 3 3 3 0 0 1 18
+p262
+aVBrent Price HOU 02/26/1998 HOU vs. MIN W 10 11 4 7 57.1 3 5 60.0 0 0 - 0 0 0 0 0 0 1 0 4
+p263
+aVMatt Bullard HOU 02/26/1998 HOU vs. MIN W 20 10 4 6 66.7 2 4 50.0 0 0 - 0 2 2 1 1 0 0 2 10
+p264
+aVCharles Barkley HOU 02/26/1998 HOU vs. MIN W 29 15 7 11 63.6 0 1 0.0 1 4 25.0 6 7 13 2 1 0 3 5 20
+p265
+aVClyde Drexler HOU 02/26/1998 HOU vs. MIN W 27 13 5 14 35.7 1 3 33.3 2 2 100.0 2 2 4 5 1 0 0 3 8
+p266
+aVMatt Maloney HOU 02/24/1998 HOU @ WAS L 23 0 0 8 0.0 0 5 0.0 0 0 - 0 2 2 5 0 0 2 2 -18
+p267
+aVCharles Barkley HOU 02/24/1998 HOU @ WAS L 28 16 6 11 54.5 0 2 0.0 4 6 66.7 1 8 9 2 0 0 3 6 -12
+p268
+aVHakeem Olajuwon HOU 02/24/1998 HOU @ WAS L 38 19 5 8 62.5 0 0 - 9 11 81.8 0 10 10 5 1 3 4 4 -4
+p269
+aVClyde Drexler HOU 02/24/1998 HOU @ WAS L 33 17 7 17 41.2 2 6 33.3 1 2 50.0 4 2 6 3 0 0 3 5 -15
+p270
+aVMatt Bullard HOU 02/24/1998 HOU @ WAS L 15 10 4 4 100.0 2 2 100.0 0 0 - 0 1 1 0 0 0 1 2 -4
+p271
+aVKevin Willis HOU 02/24/1998 HOU @ WAS L 30 20 8 13 61.5 0 0 - 4 4 100.0 3 9 12 0 0 1 4 3 -8
+p272
+aVEddie Johnson HOU 02/24/1998 HOU @ WAS L 25 17 4 8 50.0 2 4 50.0 7 8 87.5 0 1 1 1 1 0 0 2 5
+p273
+aVBrent Price HOU 02/24/1998 HOU @ WAS L 25 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 5 3 0 3 5 6
+p274
+aVMario Elie HOU 02/24/1998 HOU @ WAS L 23 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 3 0 0 0 0 -10
+p275
+aVMario Elie HOU 02/22/1998 HOU @ NYK L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p276
+aVClyde Drexler HOU 02/22/1998 HOU @ NYK L 39 16 5 13 38.5 1 3 33.3 5 6 83.3 0 2 2 1 2 0 4 3 -23
+p277
+aVRodrick Rhodes HOU 02/22/1998 HOU @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p278
+aVHakeem Olajuwon HOU 02/22/1998 HOU @ NYK L 35 13 6 13 46.2 0 0 - 1 1 100.0 1 3 4 1 0 1 1 0 -15
+p279
+aVMatt Maloney HOU 02/22/1998 HOU @ NYK L 27 6 2 8 25.0 1 5 20.0 1 2 50.0 0 4 4 3 1 0 2 2 -7
+p280
+aVEddie Johnson HOU 02/22/1998 HOU @ NYK L 22 10 4 6 66.7 1 2 50.0 1 1 100.0 1 1 2 0 0 0 1 2 -18
+p281
+aVKevin Willis HOU 02/22/1998 HOU @ NYK L 31 8 4 10 40.0 0 0 - 0 1 0.0 3 9 12 2 1 0 1 1 -15
+p282
+aVCharles Jones HOU 02/22/1998 HOU @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p283
+aVMatt Bullard HOU 02/22/1998 HOU @ NYK L 20 5 2 3 66.7 1 1 100.0 0 0 - 0 4 4 1 1 0 1 1 -1
+p284
+aVBrent Price HOU 02/22/1998 HOU @ NYK L 21 4 1 4 25.0 0 3 0.0 2 2 100.0 0 0 0 6 2 0 1 0 -11
+p285
+aVCharles Barkley HOU 02/22/1998 HOU @ NYK L 25 7 3 13 23.1 0 2 0.0 1 2 50.0 0 7 7 0 2 0 3 1 -6
+p286
+aVOthella Harrington HOU 02/22/1998 HOU @ NYK L 3 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 0
+p287
+aVMatt Bullard HOU 02/20/1998 HOU @ MIN L 35 14 4 10 40.0 4 7 57.1 2 3 66.7 0 2 2 1 2 3 1 2 -5
+p288
+aVBrent Price HOU 02/20/1998 HOU @ MIN L 10 7 2 5 40.0 2 4 50.0 1 2 50.0 0 1 1 1 0 0 0 1 3
+p289
+aVMario Elie HOU 02/20/1998 HOU @ MIN L 15 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 2 0 0 1 1 -3
+p290
+aVClyde Drexler HOU 02/20/1998 HOU @ MIN L 38 10 5 19 26.3 0 3 0.0 0 0 - 0 3 3 6 0 1 1 2 -2
+p291
+aVEddie Johnson HOU 02/20/1998 HOU @ MIN L 18 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 3 1 1 0 0 0
+p292
+aVCharles Barkley HOU 02/20/1998 HOU @ MIN L 41 11 4 12 33.3 1 4 25.0 2 2 100.0 0 10 10 3 1 0 2 4 -10
+p293
+aVHakeem Olajuwon HOU 02/20/1998 HOU @ MIN L 33 20 8 19 42.1 0 0 - 4 6 66.7 3 4 7 2 2 1 6 4 0
+p294
+aVMatt Maloney HOU 02/20/1998 HOU @ MIN L 43 11 4 6 66.7 2 4 50.0 1 2 50.0 0 2 2 5 0 0 0 4 -8
+p295
+aVKevin Willis HOU 02/20/1998 HOU @ MIN L 32 15 5 9 55.6 0 0 - 5 7 71.4 2 7 9 0 0 0 2 2 0
+p296
+aVCharles Barkley HOU 02/19/1998 HOU vs. DET W 31 14 7 11 63.6 0 1 0.0 0 3 0.0 4 10 14 4 2 0 4 1 16
+p297
+aVMatt Maloney HOU 02/19/1998 HOU vs. DET W 38 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 7 0 0 1 1 6
+p298
+aVMatt Bullard HOU 02/19/1998 HOU vs. DET W 23 12 5 7 71.4 2 3 66.7 0 0 - 1 0 1 1 1 0 2 2 11
+p299
+aVEddie Johnson HOU 02/19/1998 HOU vs. DET W 14 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 1 -4
+p300
+aVClyde Drexler HOU 02/19/1998 HOU vs. DET W 40 29 10 14 71.4 2 2 100.0 7 7 100.0 2 5 7 4 3 1 2 3 15
+p301
+aVOthella Harrington HOU 02/19/1998 HOU vs. DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p302
+aVHakeem Olajuwon HOU 02/19/1998 HOU vs. DET W 30 13 4 10 40.0 0 0 - 5 6 83.3 1 7 8 1 1 3 2 3 16
+p303
+aVCharles Jones HOU 02/19/1998 HOU vs. DET W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p304
+aVBrent Price HOU 02/19/1998 HOU vs. DET W 29 11 4 7 57.1 3 6 50.0 0 0 - 1 2 3 4 1 0 3 2 2
+p305
+aVKevin Willis HOU 02/19/1998 HOU vs. DET W 31 12 5 16 31.3 0 0 - 2 2 100.0 0 6 6 1 1 0 1 4 2
+p306
+aVBrent Price HOU 02/16/1998 HOU @ LAC W 24 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 6 1 0 0 2 3
+p307
+aVOthella Harrington HOU 02/16/1998 HOU @ LAC W 5 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 0 0 1 0 -5
+p308
+aVCharles Barkley HOU 02/16/1998 HOU @ LAC W 26 22 9 12 75.0 0 1 0.0 4 6 66.7 2 5 7 2 0 0 1 3 5
+p309
+aVEddie Johnson HOU 02/16/1998 HOU @ LAC W 25 14 6 11 54.5 1 3 33.3 1 1 100.0 3 2 5 0 0 0 1 2 4
+p310
+aVRodrick Rhodes HOU 02/16/1998 HOU @ LAC W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -13
+p311
+aVMatt Maloney HOU 02/16/1998 HOU @ LAC W 35 6 2 11 18.2 2 6 33.3 0 0 - 0 1 1 3 2 0 2 1 22
+p312
+aVCharles Jones HOU 02/16/1998 HOU @ LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p313
+aVKevin Willis HOU 02/16/1998 HOU @ LAC W 27 20 8 12 66.7 0 0 - 4 4 100.0 2 3 5 0 0 0 1 4 28
+p314
+aVHakeem Olajuwon HOU 02/16/1998 HOU @ LAC W 36 21 9 11 81.8 0 0 - 3 5 60.0 7 13 20 5 1 0 2 2 24
+p315
+aVClyde Drexler HOU 02/16/1998 HOU @ LAC W 33 25 10 16 62.5 1 4 25.0 4 4 100.0 0 2 2 5 3 1 3 3 28
+p316
+aVMatt Bullard HOU 02/16/1998 HOU @ LAC W 20 6 2 4 50.0 2 3 66.7 0 0 - 0 3 3 3 1 0 0 1 22
+p317
+aVKevin Willis HOU 02/15/1998 HOU @ LAL W 27 9 4 14 28.6 0 1 0.0 1 2 50.0 6 1 7 1 0 1 3 4 -8
+p318
+aVClyde Drexler HOU 02/15/1998 HOU @ LAL W 39 10 2 16 12.5 0 3 0.0 6 7 85.7 2 9 11 6 4 2 3 2 -1
+p319
+aVRodrick Rhodes HOU 02/15/1998 HOU @ LAL W 12 3 0 3 0.0 0 1 0.0 3 4 75.0 1 0 1 1 0 1 0 2 -3
+p320
+aVEddie Johnson HOU 02/15/1998 HOU @ LAL W 21 5 2 7 28.6 0 0 - 1 1 100.0 1 1 2 2 1 0 0 2 -1
+p321
+aVBrent Price HOU 02/15/1998 HOU @ LAL W 9 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 2 0 2 1 5
+p322
+aVMatt Maloney HOU 02/15/1998 HOU @ LAL W 39 11 4 6 66.7 3 4 75.0 0 0 - 0 2 2 2 3 0 1 0 -3
+p323
+aVMatt Bullard HOU 02/15/1998 HOU @ LAL W 23 11 4 5 80.0 3 4 75.0 0 0 - 0 3 3 0 0 0 1 2 9
+p324
+aVCharles Barkley HOU 02/15/1998 HOU @ LAL W 31 26 9 16 56.3 1 2 50.0 7 10 70.0 3 4 7 2 1 1 2 0 0
+p325
+aVHakeem Olajuwon HOU 02/15/1998 HOU @ LAL W 38 13 5 14 35.7 0 0 - 3 3 100.0 2 9 11 4 0 4 1 4 12
+p326
+aVMatt Bullard HOU 02/13/1998 HOU @ POR L 13 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 2 1 0 0 2 -7
+p327
+aVOthella Harrington HOU 02/13/1998 HOU @ POR L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p328
+aVCharles Barkley HOU 02/13/1998 HOU @ POR L 30 18 6 7 85.7 1 1 100.0 5 6 83.3 5 4 9 5 0 0 1 4 3
+p329
+aVMatt Maloney HOU 02/13/1998 HOU @ POR L 25 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 0 2 0 2 2 -27
+p330
+aVBrent Price HOU 02/13/1998 HOU @ POR L 23 8 2 6 33.3 1 4 25.0 3 4 75.0 1 0 1 2 2 0 2 4 3
+p331
+aVEddie Johnson HOU 02/13/1998 HOU @ POR L 27 9 3 11 27.3 0 5 0.0 3 3 100.0 0 4 4 1 0 0 1 1 -4
+p332
+aVKevin Willis HOU 02/13/1998 HOU @ POR L 24 13 4 11 36.4 0 0 - 5 5 100.0 1 5 6 0 0 1 3 4 -22
+p333
+aVClyde Drexler HOU 02/13/1998 HOU @ POR L 34 8 2 11 18.2 1 5 20.0 3 5 60.0 1 4 5 4 1 1 2 2 -6
+p334
+aVRodrick Rhodes HOU 02/13/1998 HOU @ POR L 22 14 6 13 46.2 0 0 - 2 4 50.0 0 0 0 0 2 0 3 1 -31
+p335
+aVHakeem Olajuwon HOU 02/13/1998 HOU @ POR L 30 5 2 8 25.0 0 0 - 1 1 100.0 1 5 6 3 0 1 4 2 -25
+p336
+aVCharles Jones HOU 02/13/1998 HOU @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p337
+aVMatt Bullard HOU 02/12/1998 HOU @ VAN W 7 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 0 0 0 0 1 2
+p338
+aVMatt Maloney HOU 02/12/1998 HOU @ VAN W 42 24 10 17 58.8 3 7 42.9 1 1 100.0 0 3 3 6 2 0 2 2 6
+p339
+aVMario Elie HOU 02/12/1998 HOU @ VAN W 22 9 3 7 42.9 1 4 25.0 2 2 100.0 0 0 0 6 2 0 0 2 3
+p340
+aVKevin Willis HOU 02/12/1998 HOU @ VAN W 28 9 3 9 33.3 0 0 - 3 4 75.0 3 4 7 0 0 0 0 2 -4
+p341
+aVRodrick Rhodes HOU 02/12/1998 HOU @ VAN W 16 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 2 0 1 3 9
+p342
+aVCharles Barkley HOU 02/12/1998 HOU @ VAN W 32 8 3 6 50.0 0 0 - 2 3 66.7 6 5 11 3 1 0 0 4 -3
+p343
+aVClyde Drexler HOU 02/12/1998 HOU @ VAN W 36 25 5 14 35.7 0 3 0.0 15 16 93.8 1 2 3 10 4 0 3 0 12
+p344
+aVHakeem Olajuwon HOU 02/12/1998 HOU @ VAN W 35 22 10 18 55.6 0 0 - 2 3 66.7 3 6 9 5 3 1 4 3 23
+p345
+aVEddie Johnson HOU 02/12/1998 HOU @ VAN W 21 6 2 8 25.0 1 3 33.3 1 1 100.0 0 2 2 1 0 0 0 2 -3
+p346
+aVClyde Drexler HOU 02/10/1998 HOU vs. SEA W 41 19 7 20 35.0 1 7 14.3 4 6 66.7 3 2 5 5 3 0 0 3 12
+p347
+aVHakeem Olajuwon HOU 02/10/1998 HOU vs. SEA W 26 12 6 10 60.0 0 0 - 0 0 - 6 4 10 3 1 2 1 5 18
+p348
+aVMatt Bullard HOU 02/10/1998 HOU vs. SEA W 10 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 0 1
+p349
+aVKevin Willis HOU 02/10/1998 HOU vs. SEA W 37 12 6 10 60.0 0 0 - 0 0 - 2 3 5 0 1 1 3 4 -1
+p350
+aVEddie Johnson HOU 02/10/1998 HOU vs. SEA W 23 14 4 9 44.4 2 6 33.3 4 5 80.0 0 1 1 2 1 0 0 3 13
+p351
+aVRodrick Rhodes HOU 02/10/1998 HOU vs. SEA W 21 7 2 8 25.0 0 0 - 3 3 100.0 0 0 0 3 1 0 0 2 5
+p352
+aVMario Elie HOU 02/10/1998 HOU vs. SEA W 12 7 2 4 50.0 1 2 50.0 2 2 100.0 1 1 2 0 1 0 2 4 2
+p353
+aVMatt Maloney HOU 02/10/1998 HOU vs. SEA W 37 12 3 13 23.1 1 8 12.5 5 6 83.3 1 4 5 4 0 0 2 1 9
+p354
+aVCharles Barkley HOU 02/10/1998 HOU vs. SEA W 33 12 4 9 44.4 0 2 0.0 4 6 66.7 6 15 21 2 1 0 2 2 11
+p355
+aVClyde Drexler HOU 02/05/1998 HOU @ DET L 36 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 4 1 0 2 2 -7
+p356
+aVCharles Barkley HOU 02/05/1998 HOU @ DET L 40 26 8 16 50.0 1 3 33.3 9 12 75.0 1 9 10 0 1 1 1 0 -14
+p357
+aVHakeem Olajuwon HOU 02/05/1998 HOU @ DET L 26 19 8 15 53.3 0 1 0.0 3 4 75.0 1 4 5 2 0 1 2 3 3
+p358
+aVBrent Price HOU 02/05/1998 HOU @ DET L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 1 2
+p359
+aVKevin Willis HOU 02/05/1998 HOU @ DET L 30 12 3 12 25.0 0 0 - 6 6 100.0 2 5 7 0 1 0 0 3 -13
+p360
+aVEddie Johnson HOU 02/05/1998 HOU @ DET L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p361
+aVRodrick Rhodes HOU 02/05/1998 HOU @ DET L 18 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 3 1 0 0 3 -9
+p362
+aVMario Elie HOU 02/05/1998 HOU @ DET L 28 8 1 3 33.3 1 2 50.0 5 6 83.3 0 2 2 3 1 0 0 1 -2
+p363
+aVMatt Maloney HOU 02/05/1998 HOU @ DET L 40 14 5 8 62.5 4 6 66.7 0 0 - 0 2 2 1 1 0 3 1 -14
+p364
+aVOthella Harrington HOU 02/03/1998 HOU vs. VAN W 8 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -2
+p365
+aVMario Elie HOU 02/03/1998 HOU vs. VAN W 23 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 5 0 0 0 4 14
+p366
+aVBrent Price HOU 02/03/1998 HOU vs. VAN W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 4
+p367
+aVKevin Willis HOU 02/03/1998 HOU vs. VAN W 31 20 9 13 69.2 0 0 - 2 4 50.0 3 7 10 1 0 0 2 2 10
+p368
+aVEddie Johnson HOU 02/03/1998 HOU vs. VAN W 21 6 2 7 28.6 1 3 33.3 1 2 50.0 0 4 4 4 0 0 1 0 -4
+p369
+aVCharles Barkley HOU 02/03/1998 HOU vs. VAN W 38 25 8 12 66.7 0 1 0.0 9 10 90.0 4 11 15 0 1 1 3 3 14
+p370
+aVMatt Maloney HOU 02/03/1998 HOU vs. VAN W 35 16 5 12 41.7 4 8 50.0 2 2 100.0 1 1 2 7 0 0 2 4 8
+p371
+aVRodrick Rhodes HOU 02/03/1998 HOU vs. VAN W 19 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 4 0 0 3 3 0
+p372
+aVCharles Jones HOU 02/03/1998 HOU vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p373
+aVClyde Drexler HOU 02/03/1998 HOU vs. VAN W 40 20 8 17 47.1 2 4 50.0 2 4 50.0 1 4 5 7 1 0 1 5 17
+p374
+aVHakeem Olajuwon HOU 02/03/1998 HOU vs. VAN W 19 10 5 7 71.4 0 0 - 0 0 - 2 4 6 2 2 1 1 3 6
+p375
+aVBrent Price HOU 02/01/1998 HOU @ BOS L 21 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 3 1 -18
+p376
+aVEmanual Davis HOU 02/01/1998 HOU @ BOS L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p377
+aVClyde Drexler HOU 02/01/1998 HOU @ BOS L 40 18 7 16 43.8 0 3 0.0 4 6 66.7 4 1 5 5 3 0 8 4 -7
+p378
+aVMario Elie HOU 02/01/1998 HOU @ BOS L 26 6 2 4 50.0 0 1 0.0 2 4 50.0 0 3 3 3 2 0 3 3 4
+p379
+aVRodrick Rhodes HOU 02/01/1998 HOU @ BOS L 35 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 4 2 0 2 3 3
+p380
+aVKevin Willis HOU 02/01/1998 HOU @ BOS L 32 21 7 14 50.0 0 0 - 7 8 87.5 5 2 7 2 0 0 2 2 -9
+p381
+aVEddie Johnson HOU 02/01/1998 HOU @ BOS L 24 13 4 12 33.3 2 6 33.3 3 5 60.0 0 0 0 2 0 0 1 4 -13
+p382
+aVCharles Barkley HOU 02/01/1998 HOU @ BOS L 37 17 4 10 40.0 1 2 50.0 8 10 80.0 4 12 16 4 0 0 0 2 -11
+p383
+aVOthella Harrington HOU 02/01/1998 HOU @ BOS L 18 10 5 5 100.0 0 0 - 0 0 - 1 5 6 1 0 0 6 3 -5
+p384
+aVMario Elie HOU 01/31/1998 HOU @ PHI W 34 12 2 6 33.3 0 2 0.0 8 8 100.0 1 0 1 1 2 0 2 0 17
+p385
+aVClyde Drexler HOU 01/31/1998 HOU @ PHI W 32 10 5 13 38.5 0 4 0.0 0 0 - 1 3 4 2 1 2 7 2 7
+p386
+aVEmanual Davis HOU 01/31/1998 HOU @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p387
+aVRodrick Rhodes HOU 01/31/1998 HOU @ PHI W 22 8 2 5 40.0 0 0 - 4 7 57.1 2 0 2 3 1 0 1 3 8
+p388
+aVKevin Willis HOU 01/31/1998 HOU @ PHI W 32 18 8 17 47.1 0 0 - 2 2 100.0 5 1 6 1 0 0 1 3 11
+p389
+aVEddie Johnson HOU 01/31/1998 HOU @ PHI W 25 16 6 9 66.7 2 5 40.0 2 2 100.0 1 1 2 3 0 0 1 1 10
+p390
+aVOthella Harrington HOU 01/31/1998 HOU @ PHI W 26 12 6 11 54.5 0 0 - 0 0 - 0 5 5 0 0 0 1 4 3
+p391
+aVCharles Jones HOU 01/31/1998 HOU @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p392
+aVBrent Price HOU 01/31/1998 HOU @ PHI W 30 12 4 6 66.7 2 3 66.7 2 2 100.0 3 2 5 3 3 0 1 3 10
+p393
+aVCharles Barkley HOU 01/31/1998 HOU @ PHI W 36 14 5 11 45.5 0 1 0.0 4 4 100.0 5 10 15 6 3 1 3 2 22
+p394
+aVOthella Harrington HOU 01/29/1998 HOU vs. ORL L 29 11 5 6 83.3 0 0 - 1 3 33.3 2 3 5 0 1 1 0 5 7
+p395
+aVBrent Price HOU 01/29/1998 HOU vs. ORL L 16 6 2 3 66.7 1 1 100.0 1 2 50.0 0 1 1 3 1 0 0 3 6
+p396
+aVRodrick Rhodes HOU 01/29/1998 HOU vs. ORL L 26 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 5 5 1 2 1 -3
+p397
+aVMario Elie HOU 01/29/1998 HOU vs. ORL L 18 3 1 5 20.0 0 3 0.0 1 1 100.0 0 0 0 2 0 0 1 2 6
+p398
+aVKevin Willis HOU 01/29/1998 HOU vs. ORL L 37 12 5 18 27.8 0 1 0.0 2 2 100.0 5 6 11 2 1 1 2 3 -4
+p399
+aVMatt Maloney HOU 01/29/1998 HOU vs. ORL L 25 12 5 8 62.5 2 3 66.7 0 0 - 0 1 1 3 0 0 3 0 -18
+p400
+aVClyde Drexler HOU 01/29/1998 HOU vs. ORL L 32 14 5 13 38.5 1 4 25.0 3 6 50.0 2 6 8 3 0 0 3 3 -11
+p401
+aVMatt Bullard HOU 01/29/1998 HOU vs. ORL L 30 20 8 14 57.1 4 6 66.7 0 0 - 0 0 0 0 0 0 2 3 -5
+p402
+aVCharles Barkley HOU 01/29/1998 HOU vs. ORL L 29 6 2 10 20.0 0 0 - 2 2 100.0 0 6 6 1 1 0 1 4 -13
+p403
+aVMatt Maloney HOU 01/27/1998 HOU vs. LAC W 24 11 4 9 44.4 2 4 50.0 1 2 50.0 1 4 5 4 1 0 1 1 6
+p404
+aVOthella Harrington HOU 01/27/1998 HOU vs. LAC W 21 13 6 7 85.7 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 10
+p405
+aVKevin Willis HOU 01/27/1998 HOU vs. LAC W 40 15 5 14 35.7 0 0 - 5 8 62.5 5 5 10 1 2 1 2 3 1
+p406
+aVCharles Barkley HOU 01/27/1998 HOU vs. LAC W 35 21 5 7 71.4 0 0 - 11 14 78.6 6 7 13 4 1 1 2 3 1
+p407
+aVMario Elie HOU 01/27/1998 HOU vs. LAC W 21 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 4 1 0 2 4 -3
+p408
+aVEddie Johnson HOU 01/27/1998 HOU vs. LAC W 11 4 1 4 25.0 1 1 100.0 1 1 100.0 1 1 2 1 0 0 0 0 6
+p409
+aVClyde Drexler HOU 01/27/1998 HOU vs. LAC W 37 17 6 17 35.3 2 7 28.6 3 6 50.0 0 2 2 7 4 2 0 2 0
+p410
+aVBrent Price HOU 01/27/1998 HOU vs. LAC W 24 11 4 6 66.7 1 1 100.0 2 3 66.7 0 2 2 3 2 0 2 3 0
+p411
+aVRodrick Rhodes HOU 01/27/1998 HOU vs. LAC W 27 14 6 8 75.0 0 0 - 2 3 66.7 1 1 2 2 1 0 2 1 9
+p412
+aVMatt Maloney HOU 01/26/1998 HOU @ SAS L 25 6 2 8 25.0 0 2 0.0 2 2 100.0 0 2 2 4 0 0 2 1 -17
+p413
+aVCharles Barkley HOU 01/26/1998 HOU @ SAS L 32 19 8 18 44.4 0 3 0.0 3 7 42.9 7 7 14 1 3 0 1 3 -7
+p414
+aVRodrick Rhodes HOU 01/26/1998 HOU @ SAS L 20 10 2 7 28.6 0 0 - 6 8 75.0 2 0 2 1 0 0 1 2 -6
+p415
+aVEmanual Davis HOU 01/26/1998 HOU @ SAS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p416
+aVCharles Jones HOU 01/26/1998 HOU @ SAS L 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -12
+p417
+aVBrent Price HOU 01/26/1998 HOU @ SAS L 17 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 3 0 0 0 3 -5
+p418
+aVClyde Drexler HOU 01/26/1998 HOU @ SAS L 30 11 4 13 30.8 0 0 - 3 5 60.0 2 2 4 6 1 1 2 1 -21
+p419
+aVOthella Harrington HOU 01/26/1998 HOU @ SAS L 21 4 1 8 12.5 0 0 - 2 3 66.7 0 2 2 0 0 1 0 3 -12
+p420
+aVKevin Willis HOU 01/26/1998 HOU @ SAS L 28 13 4 9 44.4 0 0 - 5 6 83.3 4 0 4 0 1 0 2 3 -17
+p421
+aVMatt Bullard HOU 01/26/1998 HOU @ SAS L 24 8 3 7 42.9 2 6 33.3 0 0 - 0 3 3 0 2 0 0 1 -18
+p422
+aVMario Elie HOU 01/26/1998 HOU @ SAS L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 0 -3
+p423
+aVEddie Johnson HOU 01/26/1998 HOU @ SAS L 18 14 4 8 50.0 1 4 25.0 5 5 100.0 1 0 1 0 0 0 0 1 -4
+p424
+aVEmanual Davis HOU 01/24/1998 HOU vs. SAS W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 2 0 0
+p425
+aVCharles Barkley HOU 01/24/1998 HOU vs. SAS W 28 21 7 13 53.8 1 2 50.0 6 7 85.7 1 6 7 3 2 0 4 2 25
+p426
+aVCharles Jones HOU 01/24/1998 HOU vs. SAS W 15 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 2 0 3 9
+p427
+aVRodrick Rhodes HOU 01/24/1998 HOU vs. SAS W 25 4 1 7 14.3 0 1 0.0 2 2 100.0 1 0 1 0 0 0 1 0 11
+p428
+aVEddie Johnson HOU 01/24/1998 HOU vs. SAS W 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p429
+aVMatt Maloney HOU 01/24/1998 HOU vs. SAS W 35 16 7 11 63.6 2 4 50.0 0 0 - 0 2 2 1 0 0 1 1 15
+p430
+aVKevin Willis HOU 01/24/1998 HOU vs. SAS W 19 14 6 11 54.5 0 0 - 2 2 100.0 0 6 6 0 2 0 3 2 3
+p431
+aVMatt Bullard HOU 01/24/1998 HOU vs. SAS W 26 9 4 6 66.7 1 2 50.0 0 0 - 1 4 5 1 2 0 0 2 15
+p432
+aVBrent Price HOU 01/24/1998 HOU vs. SAS W 12 9 2 3 66.7 1 2 50.0 4 6 66.7 1 2 3 2 1 0 0 2 10
+p433
+aVClyde Drexler HOU 01/24/1998 HOU vs. SAS W 36 23 7 13 53.8 2 3 66.7 7 8 87.5 4 4 8 9 1 1 4 3 26
+p434
+aVOthella Harrington HOU 01/24/1998 HOU vs. SAS W 28 12 4 9 44.4 0 0 - 4 4 100.0 1 4 5 1 1 0 0 1 12
+p435
+aVClyde Drexler HOU 01/22/1998 HOU @ CHH L 39 20 8 18 44.4 1 4 25.0 3 5 60.0 1 1 2 6 4 1 3 5 0
+p436
+aVEddie Johnson HOU 01/22/1998 HOU @ CHH L 24 5 2 7 28.6 0 3 0.0 1 1 100.0 1 3 4 1 1 0 1 2 -17
+p437
+aVBrent Price HOU 01/22/1998 HOU @ CHH L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -4
+p438
+aVEmanual Davis HOU 01/22/1998 HOU @ CHH L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 10
+p439
+aVOthella Harrington HOU 01/22/1998 HOU @ CHH L 28 12 6 8 75.0 0 0 - 0 0 - 0 2 2 2 0 1 0 0 -11
+p440
+aVMatt Maloney HOU 01/22/1998 HOU @ CHH L 38 19 7 7 100.0 4 4 100.0 1 1 100.0 0 1 1 2 3 0 3 2 -5
+p441
+aVKevin Willis HOU 01/22/1998 HOU @ CHH L 35 7 3 8 37.5 0 1 0.0 1 2 50.0 2 9 11 0 0 0 4 3 -2
+p442
+aVRodrick Rhodes HOU 01/22/1998 HOU @ CHH L 33 10 4 9 44.4 0 0 - 2 3 66.7 2 1 3 3 0 0 4 4 -5
+p443
+aVCharles Barkley HOU 01/22/1998 HOU @ CHH L 33 13 5 15 33.3 0 1 0.0 3 4 75.0 2 7 9 2 0 1 0 1 0
+p444
+aVMatt Bullard HOU 01/22/1998 HOU @ CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p445
+aVBrent Price HOU 01/21/1998 HOU @ NJN L 6 3 1 1 100.0 1 1 100.0 0 1 0.0 0 0 0 1 0 0 2 1 -12
+p446
+aVOthella Harrington HOU 01/21/1998 HOU @ NJN L 16 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 0 1 1 5 -10
+p447
+aVMatt Bullard HOU 01/21/1998 HOU @ NJN L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p448
+aVEddie Johnson HOU 01/21/1998 HOU @ NJN L 16 7 2 6 33.3 1 2 50.0 2 3 66.7 0 1 1 1 1 0 0 1 -16
+p449
+aVRodrick Rhodes HOU 01/21/1998 HOU @ NJN L 31 16 7 10 70.0 0 0 - 2 4 50.0 1 1 2 6 2 0 1 5 7
+p450
+aVEmanual Davis HOU 01/21/1998 HOU @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p451
+aVMario Elie HOU 01/21/1998 HOU @ NJN L 22 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -11
+p452
+aVKevin Willis HOU 01/21/1998 HOU @ NJN L 40 20 8 12 66.7 1 1 100.0 3 3 100.0 4 9 13 3 1 1 1 4 10
+p453
+aVMatt Maloney HOU 01/21/1998 HOU @ NJN L 41 18 6 13 46.2 3 8 37.5 3 3 100.0 0 0 0 1 2 0 2 2 10
+p454
+aVCharles Barkley HOU 01/21/1998 HOU @ NJN L 42 12 5 10 50.0 0 2 0.0 2 3 66.7 1 11 12 7 1 2 1 3 0
+p455
+aVClyde Drexler HOU 01/21/1998 HOU @ NJN L 43 28 12 26 46.2 1 6 16.7 3 4 75.0 2 5 7 6 1 0 5 4 7
+p456
+aVEmanual Davis HOU 01/19/1998 HOU vs. SEA L 7 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 1 1 0 4 2 -10
+p457
+aVEddie Johnson HOU 01/19/1998 HOU vs. SEA L 27 17 6 11 54.5 2 5 40.0 3 3 100.0 1 2 3 1 0 0 0 0 -5
+p458
+aVJoe Stephens HOU 01/19/1998 HOU vs. SEA L 8 4 1 6 16.7 0 4 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -11
+p459
+aVRodrick Rhodes HOU 01/19/1998 HOU vs. SEA L 32 5 1 11 9.1 0 0 - 3 4 75.0 4 0 4 4 4 0 6 5 -10
+p460
+aVCharles Barkley HOU 01/19/1998 HOU vs. SEA L 30 10 4 11 36.4 0 2 0.0 2 2 100.0 4 5 9 2 1 0 1 2 -28
+p461
+aVMatt Maloney HOU 01/19/1998 HOU vs. SEA L 24 13 6 11 54.5 1 3 33.3 0 0 - 0 2 2 1 1 0 2 0 -27
+p462
+aVMario Elie HOU 01/19/1998 HOU vs. SEA L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -24
+p463
+aVOthella Harrington HOU 01/19/1998 HOU vs. SEA L 25 8 2 6 33.3 0 0 - 4 4 100.0 2 6 8 1 0 1 0 4 -10
+p464
+aVBrent Price HOU 01/19/1998 HOU vs. SEA L 17 3 1 5 20.0 1 3 33.3 0 0 - 2 1 3 2 0 0 3 2 3
+p465
+aVKevin Willis HOU 01/19/1998 HOU vs. SEA L 29 13 5 11 45.5 0 0 - 3 4 75.0 6 5 11 1 0 0 3 3 -25
+p466
+aVCharles Jones HOU 01/19/1998 HOU vs. SEA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p467
+aVMatt Bullard HOU 01/19/1998 HOU vs. SEA L 20 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 -18
+p468
+aVRodrick Rhodes HOU 01/18/1998 HOU @ CHI L 35 15 6 9 66.7 0 0 - 3 4 75.0 2 1 3 2 3 0 3 5 -10
+p469
+aVCharles Jones HOU 01/18/1998 HOU @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p470
+aVCharles Barkley HOU 01/18/1998 HOU @ CHI L 42 35 11 14 78.6 2 3 66.7 11 16 68.8 5 9 14 1 1 0 4 4 -3
+p471
+aVKevin Willis HOU 01/18/1998 HOU @ CHI L 34 11 4 11 36.4 0 0 - 3 4 75.0 1 7 8 2 1 0 5 2 -11
+p472
+aVMario Elie HOU 01/18/1998 HOU @ CHI L 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 -12
+p473
+aVEmanual Davis HOU 01/18/1998 HOU @ CHI L 15 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 3 0 0 0 0 6
+p474
+aVMatt Bullard HOU 01/18/1998 HOU @ CHI L 9 6 1 1 100.0 1 1 100.0 3 4 75.0 0 1 1 0 0 0 0 0 1
+p475
+aVOthella Harrington HOU 01/18/1998 HOU @ CHI L 19 12 4 9 44.4 0 0 - 4 4 100.0 3 3 6 2 0 1 1 1 2
+p476
+aVMatt Maloney HOU 01/18/1998 HOU @ CHI L 27 5 2 6 33.3 1 4 25.0 0 0 - 1 0 1 2 0 2 0 2 -15
+p477
+aVBrent Price HOU 01/18/1998 HOU @ CHI L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 4
+p478
+aVEddie Johnson HOU 01/18/1998 HOU @ CHI L 37 6 2 8 25.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 0 8
+p479
+aVMatt Bullard HOU 01/16/1998 HOU vs. MIN L 20 8 3 4 75.0 2 2 100.0 0 0 - 0 2 2 2 0 1 0 2 15
+p480
+aVCharles Barkley HOU 01/16/1998 HOU vs. MIN L 40 29 9 16 56.3 0 0 - 11 13 84.6 2 7 9 6 1 0 5 3 4
+p481
+aVMatt Maloney HOU 01/16/1998 HOU vs. MIN L 38 17 7 12 58.3 3 5 60.0 0 0 - 1 2 3 3 1 0 3 3 9
+p482
+aVEmanual Davis HOU 01/16/1998 HOU vs. MIN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p483
+aVEddie Johnson HOU 01/16/1998 HOU vs. MIN L 34 24 10 17 58.8 4 7 57.1 0 1 0.0 2 0 2 1 1 0 2 0 -15
+p484
+aVOthella Harrington HOU 01/16/1998 HOU vs. MIN L 19 2 0 2 0.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 5 -10
+p485
+aVMario Elie HOU 01/16/1998 HOU vs. MIN L 37 4 2 7 28.6 0 2 0.0 0 0 - 2 5 7 5 1 0 2 1 11
+p486
+aVBrent Price HOU 01/16/1998 HOU vs. MIN L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 3 -11
+p487
+aVRodrick Rhodes HOU 01/16/1998 HOU vs. MIN L 11 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 2 3 -11
+p488
+aVKevin Willis HOU 01/16/1998 HOU vs. MIN L 47 27 13 24 54.2 0 0 - 1 3 33.3 4 9 13 4 1 2 0 4 4
+p489
+aVEmanual Davis HOU 01/13/1998 HOU vs. DAL W 23 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 1 0 0 2 1 -1
+p490
+aVMario Elie HOU 01/13/1998 HOU vs. DAL W 33 14 3 9 33.3 0 4 0.0 8 8 100.0 3 3 6 3 3 0 1 1 17
+p491
+aVKevin Willis HOU 01/13/1998 HOU vs. DAL W 40 30 13 20 65.0 0 0 - 4 4 100.0 4 8 12 2 0 2 2 3 21
+p492
+aVRodrick Rhodes HOU 01/13/1998 HOU vs. DAL W 25 10 4 12 33.3 0 1 0.0 2 4 50.0 0 2 2 1 2 0 2 1 3
+p493
+aVEddie Johnson HOU 01/13/1998 HOU vs. DAL W 15 3 1 5 20.0 1 1 100.0 0 0 - 1 0 1 0 0 0 1 2 -4
+p494
+aVMatt Bullard HOU 01/13/1998 HOU vs. DAL W 25 15 5 9 55.6 5 7 71.4 0 0 - 0 2 2 3 2 0 1 3 10
+p495
+aVCharles Barkley HOU 01/13/1998 HOU vs. DAL W 32 13 4 10 40.0 0 0 - 5 8 62.5 6 11 17 6 1 2 2 4 6
+p496
+aVOthella Harrington HOU 01/13/1998 HOU vs. DAL W 18 3 1 3 33.3 0 0 - 1 1 100.0 2 1 3 0 0 0 2 3 2
+p497
+aVBrent Price HOU 01/13/1998 HOU vs. DAL W 30 7 2 6 33.3 1 4 25.0 2 2 100.0 2 6 8 9 1 0 2 3 11
+p498
+aVMatt Bullard HOU 01/10/1998 HOU vs. UTA L 18 6 2 4 50.0 1 3 33.3 1 2 50.0 1 1 2 3 0 0 1 0 -5
+p499
+aVRodrick Rhodes HOU 01/10/1998 HOU vs. UTA L 31 7 2 6 33.3 0 0 - 3 8 37.5 0 1 1 1 1 0 3 3 -29
+p500
+aVKevin Willis HOU 01/10/1998 HOU vs. UTA L 37 20 7 16 43.8 0 0 - 6 6 100.0 4 5 9 0 0 0 4 4 -19
+p501
+aVCharles Jones HOU 01/10/1998 HOU vs. UTA L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -6
+p502
+aVBrent Price HOU 01/10/1998 HOU vs. UTA L 20 3 1 6 16.7 1 2 50.0 0 0 - 0 0 0 2 1 0 2 3 -16
+p503
+aVEmanual Davis HOU 01/10/1998 HOU vs. UTA L 22 7 2 9 22.2 1 5 20.0 2 2 100.0 0 0 0 3 0 0 1 3 -8
+p504
+aVOthella Harrington HOU 01/10/1998 HOU vs. UTA L 38 14 5 11 45.5 0 0 - 4 4 100.0 8 5 13 3 1 2 3 2 -29
+p505
+aVJoe Stephens HOU 01/10/1998 HOU vs. UTA L 7 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p506
+aVMario Elie HOU 01/10/1998 HOU vs. UTA L 33 13 5 8 62.5 1 3 33.3 2 4 50.0 0 2 2 4 0 0 2 1 -17
+p507
+aVEddie Johnson HOU 01/10/1998 HOU vs. UTA L 25 9 2 7 28.6 0 2 0.0 5 5 100.0 0 1 1 1 4 0 2 2 -2
+p508
+aVCharles Jones HOU 01/08/1998 HOU vs. IND L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p509
+aVOthella Harrington HOU 01/08/1998 HOU vs. IND L 36 15 6 12 50.0 0 0 - 3 3 100.0 4 7 11 0 0 2 0 1 1
+p510
+aVKevin Willis HOU 01/08/1998 HOU vs. IND L 41 32 12 23 52.2 0 0 - 8 9 88.9 1 10 11 2 3 0 6 2 1
+p511
+aVBrent Price HOU 01/08/1998 HOU vs. IND L 27 6 2 6 33.3 2 6 33.3 0 0 - 0 3 3 3 1 0 0 6 -7
+p512
+aVEmanual Davis HOU 01/08/1998 HOU vs. IND L 20 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 1 0
+p513
+aVMatt Maloney HOU 01/08/1998 HOU vs. IND L 21 0 0 4 0.0 0 3 0.0 0 0 - 0 4 4 3 0 0 1 1 -2
+p514
+aVRodrick Rhodes HOU 01/08/1998 HOU vs. IND L 32 12 3 9 33.3 0 0 - 6 8 75.0 1 1 2 1 0 0 4 3 -8
+p515
+aVMario Elie HOU 01/08/1998 HOU vs. IND L 37 9 3 11 27.3 0 4 0.0 3 4 75.0 2 3 5 5 4 0 1 2 0
+p516
+aVMatt Bullard HOU 01/08/1998 HOU vs. IND L 22 2 1 8 12.5 0 5 0.0 0 0 - 0 2 2 1 0 0 2 3 -18
+p517
+aVMario Elie HOU 01/06/1998 HOU @ CLE L 24 9 3 5 60.0 0 2 0.0 3 3 100.0 1 0 1 4 0 0 1 1 -10
+p518
+aVKevin Willis HOU 01/06/1998 HOU @ CLE L 32 12 5 17 29.4 0 0 - 2 2 100.0 0 6 6 1 2 0 2 2 -19
+p519
+aVCharles Barkley HOU 01/06/1998 HOU @ CLE L 16 3 1 5 20.0 0 1 0.0 1 2 50.0 0 4 4 2 1 0 1 0 1
+p520
+aVMatt Maloney HOU 01/06/1998 HOU @ CLE L 30 7 1 6 16.7 1 3 33.3 4 4 100.0 0 3 3 1 4 0 4 2 -16
+p521
+aVMatt Bullard HOU 01/06/1998 HOU @ CLE L 22 4 2 8 25.0 0 4 0.0 0 0 - 0 2 2 0 2 0 2 1 -15
+p522
+aVRodrick Rhodes HOU 01/06/1998 HOU @ CLE L 24 5 0 1 0.0 0 0 - 5 6 83.3 0 3 3 1 1 0 2 2 -20
+p523
+aVOthella Harrington HOU 01/06/1998 HOU @ CLE L 24 2 1 5 20.0 0 0 - 0 0 - 2 1 3 0 0 1 3 5 -20
+p524
+aVCharles Jones HOU 01/06/1998 HOU @ CLE L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -4
+p525
+aVBrent Price HOU 01/06/1998 HOU @ CLE L 18 8 3 5 60.0 2 4 50.0 0 0 - 2 2 4 3 0 0 1 2 -14
+p526
+aVClyde Drexler HOU 01/06/1998 HOU @ CLE L 35 18 6 15 40.0 2 4 50.0 4 6 66.7 1 0 1 4 2 5 3 4 -22
+p527
+aVEmanual Davis HOU 01/06/1998 HOU @ CLE L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 -11
+p528
+aVCharles Jones HOU 01/05/1998 HOU @ TOR W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 2 0 0 2 2 3
+p529
+aVCharles Barkley HOU 01/05/1998 HOU @ TOR W 35 13 3 9 33.3 1 2 50.0 6 11 54.5 5 6 11 2 2 1 3 3 19
+p530
+aVMario Elie HOU 01/05/1998 HOU @ TOR W 26 6 2 3 66.7 1 2 50.0 1 1 100.0 0 2 2 4 1 1 3 0 6
+p531
+aVOthella Harrington HOU 01/05/1998 HOU @ TOR W 19 9 4 6 66.7 0 0 - 1 2 50.0 1 4 5 1 1 0 1 3 16
+p532
+aVBrent Price HOU 01/05/1998 HOU @ TOR W 24 12 4 6 66.7 1 2 50.0 3 3 100.0 1 3 4 7 1 0 2 1 19
+p533
+aVKevin Willis HOU 01/05/1998 HOU @ TOR W 29 20 9 14 64.3 0 0 - 2 3 66.7 0 5 5 2 1 0 2 3 8
+p534
+aVRodrick Rhodes HOU 01/05/1998 HOU @ TOR W 22 12 5 8 62.5 0 0 - 2 5 40.0 0 1 1 4 4 1 2 3 18
+p535
+aVMatt Bullard HOU 01/05/1998 HOU @ TOR W 26 19 7 13 53.8 5 10 50.0 0 0 - 1 2 3 0 1 0 2 1 20
+p536
+aVEmanual Davis HOU 01/05/1998 HOU @ TOR W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 3
+p537
+aVMatt Maloney HOU 01/05/1998 HOU @ TOR W 20 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 4 0 0 1 1 2
+p538
+aVClyde Drexler HOU 01/05/1998 HOU @ TOR W 30 16 7 13 53.8 1 3 33.3 1 2 50.0 3 4 7 8 2 1 2 3 6
+p539
+aVMatt Maloney HOU 01/03/1998 HOU vs. POR L 29 8 4 7 57.1 0 2 0.0 0 0 - 0 3 3 6 1 0 1 1 -2
+p540
+aVCharles Jones HOU 01/03/1998 HOU vs. POR L 11 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 2 0 2 4
+p541
+aVEddie Johnson HOU 01/03/1998 HOU vs. POR L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 1 0 0 1 0 2
+p542
+aVRodrick Rhodes HOU 01/03/1998 HOU vs. POR L 18 4 1 5 20.0 0 0 - 2 6 33.3 0 1 1 2 1 0 0 2 16
+p543
+aVBrent Price HOU 01/03/1998 HOU vs. POR L 16 3 1 3 33.3 1 3 33.3 0 0 - 1 0 1 2 0 1 1 2 -6
+p544
+aVKevin Willis HOU 01/03/1998 HOU vs. POR L 28 7 2 10 20.0 0 0 - 3 4 75.0 4 3 7 1 1 2 1 2 -12
+p545
+aVClyde Drexler HOU 01/03/1998 HOU vs. POR L 43 34 12 22 54.5 1 4 25.0 9 10 90.0 2 4 6 5 5 1 2 3 -4
+p546
+aVMatt Bullard HOU 01/03/1998 HOU vs. POR L 23 12 5 7 71.4 2 3 66.7 0 0 - 0 3 3 0 0 0 0 1 10
+p547
+aVMario Elie HOU 01/03/1998 HOU vs. POR L 30 12 5 9 55.6 0 2 0.0 2 2 100.0 0 2 2 1 1 0 0 1 -10
+p548
+aVCharles Barkley HOU 01/03/1998 HOU vs. POR L 37 12 5 13 38.5 0 1 0.0 2 2 100.0 4 8 12 3 0 0 0 3 -8
+p549
+aVEddie Johnson HOU 01/02/1998 HOU @ DEN W 17 9 4 7 57.1 0 2 0.0 1 1 100.0 0 2 2 1 1 0 1 2 7
+p550
+aVClyde Drexler HOU 01/02/1998 HOU @ DEN W 42 21 6 15 40.0 3 5 60.0 6 7 85.7 2 2 4 7 2 1 2 2 9
+p551
+aVMario Elie HOU 01/02/1998 HOU @ DEN W 36 7 3 8 37.5 0 2 0.0 1 2 50.0 1 2 3 4 1 1 2 4 -7
+p552
+aVKevin Willis HOU 01/02/1998 HOU @ DEN W 43 33 15 25 60.0 0 0 - 3 3 100.0 11 8 19 2 1 2 0 2 0
+p553
+aVCharles Barkley HOU 01/02/1998 HOU @ DEN W 42 21 5 10 50.0 0 2 0.0 11 12 91.7 2 12 14 8 0 3 4 2 -2
+p554
+aVMatt Maloney HOU 01/02/1998 HOU @ DEN W 27 10 4 14 28.6 1 7 14.3 1 1 100.0 1 2 3 2 0 0 2 1 12
+p555
+aVOthella Harrington HOU 01/02/1998 HOU @ DEN W 5 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 1 0
+p556
+aVBrent Price HOU 01/02/1998 HOU @ DEN W 26 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 4 2 1 4 6 -11
+p557
+aVMatt Bullard HOU 01/02/1998 HOU @ DEN W 16 6 2 3 66.7 2 3 66.7 0 0 - 0 5 5 2 0 4 0 3 5
+p558
+aVRodrick Rhodes HOU 01/02/1998 HOU @ DEN W 11 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 0 1 3 2 -8
+p559
+aVEmanual Davis HOU 12/29/1997 HOU vs. CHH L 5 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 0 1 0 0 0 2
+p560
+aVKevin Willis HOU 12/29/1997 HOU vs. CHH L 31 18 9 18 50.0 0 0 - 0 0 - 2 3 5 0 0 0 2 3 -27
+p561
+aVCharles Barkley HOU 12/29/1997 HOU vs. CHH L 36 14 6 12 50.0 0 2 0.0 2 2 100.0 3 9 12 9 0 0 3 4 -18
+p562
+aVOthella Harrington HOU 12/29/1997 HOU vs. CHH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p563
+aVMario Elie HOU 12/29/1997 HOU vs. CHH L 31 7 3 7 42.9 0 3 0.0 1 1 100.0 0 1 1 4 2 0 0 3 -19
+p564
+aVClyde Drexler HOU 12/29/1997 HOU vs. CHH L 41 18 6 13 46.2 2 3 66.7 4 5 80.0 2 3 5 6 0 1 5 2 -22
+p565
+aVEddie Johnson HOU 12/29/1997 HOU vs. CHH L 17 7 3 6 50.0 0 1 0.0 1 1 100.0 0 1 1 2 1 0 0 0 11
+p566
+aVMatt Bullard HOU 12/29/1997 HOU vs. CHH L 22 14 5 8 62.5 4 5 80.0 0 0 - 3 3 6 1 0 0 0 0 -7
+p567
+aVCharles Jones HOU 12/29/1997 HOU vs. CHH L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p568
+aVMatt Maloney HOU 12/29/1997 HOU vs. CHH L 19 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -15
+p569
+aVJoe Stephens HOU 12/29/1997 HOU vs. CHH L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 2
+p570
+aVBrent Price HOU 12/29/1997 HOU vs. CHH L 26 8 3 7 42.9 1 5 20.0 1 4 25.0 1 0 1 3 2 0 3 3 -5
+p571
+aVMatt Bullard HOU 12/27/1997 HOU vs. WAS W 15 5 1 5 20.0 1 4 25.0 2 2 100.0 1 0 1 3 0 0 1 1 -4
+p572
+aVBrent Price HOU 12/27/1997 HOU vs. WAS W 29 12 4 9 44.4 4 7 57.1 0 0 - 1 2 3 2 3 0 1 5 1
+p573
+aVMario Elie HOU 12/27/1997 HOU vs. WAS W 32 18 5 7 71.4 3 3 100.0 5 5 100.0 0 1 1 0 0 0 2 3 21
+p574
+aVKevin Willis HOU 12/27/1997 HOU vs. WAS W 40 26 12 24 50.0 0 0 - 2 3 66.7 7 7 14 3 1 0 3 3 10
+p575
+aVEddie Johnson HOU 12/27/1997 HOU vs. WAS W 11 4 1 2 50.0 0 1 0.0 2 2 100.0 2 0 2 0 0 0 0 1 -7
+p576
+aVMatt Maloney HOU 12/27/1997 HOU vs. WAS W 19 0 0 5 0.0 0 2 0.0 0 0 - 1 0 1 2 0 0 1 2 12
+p577
+aVOthella Harrington HOU 12/27/1997 HOU vs. WAS W 14 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 0 0 0 1 -3
+p578
+aVClyde Drexler HOU 12/27/1997 HOU vs. WAS W 38 26 11 19 57.9 2 3 66.7 2 2 100.0 1 4 5 6 2 0 3 3 10
+p579
+aVCharles Barkley HOU 12/27/1997 HOU vs. WAS W 42 18 6 14 42.9 0 0 - 6 9 66.7 2 12 14 6 0 0 4 3 10
+p580
+aVEddie Johnson HOU 12/25/1997 HOU @ UTA L 23 8 3 9 33.3 1 3 33.3 1 1 100.0 2 1 3 2 0 0 2 2 8
+p581
+aVKevin Willis HOU 12/25/1997 HOU @ UTA L 37 25 10 15 66.7 0 0 - 5 6 83.3 5 3 8 1 1 0 3 3 -11
+p582
+aVMario Elie HOU 12/25/1997 HOU @ UTA L 28 15 5 8 62.5 1 3 33.3 4 4 100.0 1 3 4 2 0 0 1 0 -5
+p583
+aVBrent Price HOU 12/25/1997 HOU @ UTA L 21 9 2 6 33.3 2 3 66.7 3 4 75.0 0 2 2 5 1 0 1 3 5
+p584
+aVCharles Barkley HOU 12/25/1997 HOU @ UTA L 40 11 3 10 30.0 0 2 0.0 5 6 83.3 2 5 7 3 2 0 1 3 -3
+p585
+aVMatt Maloney HOU 12/25/1997 HOU @ UTA L 22 9 3 5 60.0 2 4 50.0 1 2 50.0 0 2 2 4 0 0 0 3 -9
+p586
+aVEmanual Davis HOU 12/25/1997 HOU @ UTA L 6 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 0 0
+p587
+aVClyde Drexler HOU 12/25/1997 HOU @ UTA L 40 15 4 12 33.3 1 3 33.3 6 8 75.0 0 2 2 5 4 0 2 4 -13
+p588
+aVMatt Bullard HOU 12/25/1997 HOU @ UTA L 24 10 3 8 37.5 2 5 40.0 2 2 100.0 2 2 4 1 1 0 1 2 8
+p589
+aVClyde Drexler HOU 12/22/1997 HOU vs. LAL L 41 17 4 14 28.6 1 3 33.3 8 8 100.0 2 3 5 6 1 1 2 1 -1
+p590
+aVEmanual Davis HOU 12/22/1997 HOU vs. LAL L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 3 4 -7
+p591
+aVCharles Barkley HOU 12/22/1997 HOU vs. LAL L 41 14 5 13 38.5 0 2 0.0 4 4 100.0 9 12 21 4 0 2 2 4 -6
+p592
+aVKevin Willis HOU 12/22/1997 HOU vs. LAL L 33 12 5 13 38.5 0 0 - 2 2 100.0 1 4 5 1 0 0 1 3 -11
+p593
+aVEddie Johnson HOU 12/22/1997 HOU vs. LAL L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 2 0 -10
+p594
+aVBrent Price HOU 12/22/1997 HOU vs. LAL L 20 13 5 7 71.4 3 5 60.0 0 1 0.0 0 1 1 2 1 0 4 1 -10
+p595
+aVMatt Maloney HOU 12/22/1997 HOU vs. LAL L 21 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 3 1 0 1 0 2
+p596
+aVOthella Harrington HOU 12/22/1997 HOU vs. LAL L 2 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p597
+aVMatt Bullard HOU 12/22/1997 HOU vs. LAL L 20 13 6 11 54.5 1 5 20.0 0 1 0.0 1 4 5 1 0 0 2 5 -7
+p598
+aVMario Elie HOU 12/22/1997 HOU vs. LAL L 38 7 2 9 22.2 1 3 33.3 2 3 66.7 2 4 6 0 2 0 3 2 -7
+p599
+aVCharles Barkley HOU 12/20/1997 HOU @ SAS L 35 22 9 16 56.3 0 3 0.0 4 5 80.0 4 10 14 0 2 1 3 4 -15
+p600
+aVMario Elie HOU 12/20/1997 HOU @ SAS L 30 6 3 6 50.0 0 2 0.0 0 1 0.0 0 1 1 2 0 1 3 1 -7
+p601
+aVMatt Maloney HOU 12/20/1997 HOU @ SAS L 23 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 3 1
+p602
+aVMatt Bullard HOU 12/20/1997 HOU @ SAS L 16 3 1 4 25.0 1 4 25.0 0 0 - 0 4 4 1 1 1 0 1 -1
+p603
+aVKevin Willis HOU 12/20/1997 HOU @ SAS L 36 18 5 14 35.7 0 0 - 8 10 80.0 2 5 7 0 1 0 2 4 -16
+p604
+aVOthella Harrington HOU 12/20/1997 HOU @ SAS L 9 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 6
+p605
+aVBrent Price HOU 12/20/1997 HOU @ SAS L 10 4 1 3 33.3 0 2 0.0 2 2 100.0 0 1 1 0 0 0 3 3 -3
+p606
+aVClyde Drexler HOU 12/20/1997 HOU @ SAS L 38 26 9 18 50.0 1 5 20.0 7 8 87.5 2 8 10 3 1 0 0 3 -10
+p607
+aVEddie Johnson HOU 12/20/1997 HOU @ SAS L 19 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -11
+p608
+aVJoe Stephens HOU 12/20/1997 HOU @ SAS L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 6
+p609
+aVEmanual Davis HOU 12/20/1997 HOU @ SAS L 21 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -15
+p610
+aVCharles Barkley HOU 12/19/1997 HOU vs. SAC W 41 23 11 17 64.7 0 0 - 1 3 33.3 5 11 16 6 1 0 1 3 27
+p611
+aVMatt Maloney HOU 12/19/1997 HOU vs. SAC W 24 13 5 9 55.6 3 7 42.9 0 0 - 1 1 2 2 1 0 1 0 14
+p612
+aVOthella Harrington HOU 12/19/1997 HOU vs. SAC W 14 8 4 4 100.0 0 0 - 0 3 0.0 1 2 3 0 0 0 1 2 6
+p613
+aVBrent Price HOU 12/19/1997 HOU vs. SAC W 13 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 3 0 0 0 1 10
+p614
+aVMatt Bullard HOU 12/19/1997 HOU vs. SAC W 19 5 1 3 33.3 1 3 33.3 2 3 66.7 0 2 2 2 0 0 0 1 -8
+p615
+aVKevin Willis HOU 12/19/1997 HOU vs. SAC W 36 28 9 17 52.9 0 1 0.0 10 11 90.9 4 6 10 0 1 0 3 3 13
+p616
+aVMario Elie HOU 12/19/1997 HOU vs. SAC W 36 14 3 7 42.9 2 4 50.0 6 7 85.7 0 0 0 4 4 0 2 1 11
+p617
+aVEmanual Davis HOU 12/19/1997 HOU vs. SAC W 26 11 4 8 50.0 2 4 50.0 1 1 100.0 1 3 4 2 0 0 2 4 7
+p618
+aVClyde Drexler HOU 12/19/1997 HOU vs. SAC W 9 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 2 0 -3
+p619
+aVEddie Johnson HOU 12/19/1997 HOU vs. SAC W 23 14 5 9 55.6 2 4 50.0 2 2 100.0 2 0 2 0 1 0 2 2 13
+p620
+aVEmanual Davis HOU 12/16/1997 HOU vs. VAN W 17 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 6 2 0 1 2 16
+p621
+aVMatt Bullard HOU 12/16/1997 HOU vs. VAN W 25 10 3 9 33.3 2 6 33.3 2 2 100.0 1 3 4 0 0 1 2 1 13
+p622
+aVCharles Jones HOU 12/16/1997 HOU vs. VAN W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 0 2 12
+p623
+aVMatt Maloney HOU 12/16/1997 HOU vs. VAN W 31 14 6 11 54.5 2 3 66.7 0 0 - 2 3 5 4 2 0 0 3 11
+p624
+aVBrent Price HOU 12/16/1997 HOU vs. VAN W 7 5 1 3 33.3 1 3 33.3 2 2 100.0 0 1 1 1 1 0 2 3 1
+p625
+aVOthella Harrington HOU 12/16/1997 HOU vs. VAN W 6 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -1
+p626
+aVClyde Drexler HOU 12/16/1997 HOU vs. VAN W 36 22 9 15 60.0 3 5 60.0 1 1 100.0 0 6 6 10 5 1 3 3 21
+p627
+aVMario Elie HOU 12/16/1997 HOU vs. VAN W 32 14 5 10 50.0 0 4 0.0 4 4 100.0 1 1 2 3 4 0 4 2 17
+p628
+aVEddie Johnson HOU 12/16/1997 HOU vs. VAN W 21 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 1 0 0 0 1 15
+p629
+aVKevin Willis HOU 12/16/1997 HOU vs. VAN W 25 23 9 16 56.3 0 0 - 5 5 100.0 3 7 10 1 2 0 2 2 10
+p630
+aVCharles Barkley HOU 12/16/1997 HOU vs. VAN W 29 11 4 7 57.1 0 0 - 3 5 60.0 3 7 10 2 0 1 4 2 20
+p631
+aVEddie Johnson HOU 12/14/1997 HOU @ VAN L 18 2 1 7 14.3 0 4 0.0 0 1 0.0 0 0 0 1 0 0 0 1 0
+p632
+aVEmanual Davis HOU 12/14/1997 HOU @ VAN L 26 11 4 6 66.7 3 4 75.0 0 0 - 1 0 1 1 2 0 2 0 -3
+p633
+aVMario Elie HOU 12/14/1997 HOU @ VAN L 25 14 5 6 83.3 3 3 100.0 1 1 100.0 0 2 2 3 0 0 0 4 -2
+p634
+aVOthella Harrington HOU 12/14/1997 HOU @ VAN L 16 0 0 4 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -6
+p635
+aVClyde Drexler HOU 12/14/1997 HOU @ VAN L 44 16 6 20 30.0 0 8 0.0 4 4 100.0 2 3 5 12 4 1 3 4 -4
+p636
+aVMatt Bullard HOU 12/14/1997 HOU @ VAN L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 1
+p637
+aVRodrick Rhodes HOU 12/14/1997 HOU @ VAN L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p638
+aVCharles Barkley HOU 12/14/1997 HOU @ VAN L 43 22 8 15 53.3 1 2 50.0 5 7 71.4 10 11 21 3 4 0 5 4 0
+p639
+aVKevin Willis HOU 12/14/1997 HOU @ VAN L 38 28 12 20 60.0 0 0 - 4 4 100.0 3 3 6 0 0 0 2 4 -4
+p640
+aVMatt Maloney HOU 12/14/1997 HOU @ VAN L 22 10 4 9 44.4 2 6 33.3 0 0 - 0 0 0 0 1 0 1 2 -4
+p641
+aVCharles Jones HOU 12/12/1997 HOU @ LAL L 6 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 -3
+p642
+aVMatt Maloney HOU 12/12/1997 HOU @ LAL L 23 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 3 1 0 0 0 -7
+p643
+aVMario Elie HOU 12/12/1997 HOU @ LAL L 25 7 3 7 42.9 1 4 25.0 0 0 - 1 5 6 2 0 0 2 1 -13
+p644
+aVEddie Johnson HOU 12/12/1997 HOU @ LAL L 14 6 3 9 33.3 0 4 0.0 0 0 - 1 1 2 1 0 0 0 1 -2
+p645
+aVCharles Barkley HOU 12/12/1997 HOU @ LAL L 36 18 5 14 35.7 2 2 100.0 6 6 100.0 5 9 14 3 1 2 1 1 -12
+p646
+aVClyde Drexler HOU 12/12/1997 HOU @ LAL L 34 21 8 16 50.0 4 7 57.1 1 1 100.0 1 4 5 6 0 0 1 3 -15
+p647
+aVMatt Bullard HOU 12/12/1997 HOU @ LAL L 19 4 1 6 16.7 0 3 0.0 2 2 100.0 4 2 6 0 0 0 0 4 -6
+p648
+aVBrent Price HOU 12/12/1997 HOU @ LAL L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 4
+p649
+aVEmanual Davis HOU 12/12/1997 HOU @ LAL L 19 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 0 1 2 3 -14
+p650
+aVOthella Harrington HOU 12/12/1997 HOU @ LAL L 6 8 2 3 66.7 0 0 - 4 4 100.0 1 2 3 0 0 0 0 0 4
+p651
+aVRodrick Rhodes HOU 12/12/1997 HOU @ LAL L 23 13 4 8 50.0 0 0 - 5 12 41.7 1 1 2 1 2 0 3 5 -4
+p652
+aVKevin Willis HOU 12/12/1997 HOU @ LAL L 30 15 5 9 55.6 0 0 - 5 8 62.5 4 4 8 1 0 1 1 3 -17
+p653
+aVMario Elie HOU 12/09/1997 HOU vs. SAS W 26 13 6 11 54.5 1 4 25.0 0 0 - 0 2 2 1 2 0 0 2 15
+p654
+aVRodrick Rhodes HOU 12/09/1997 HOU vs. SAS W 19 10 4 9 44.4 0 0 - 2 5 40.0 2 1 3 2 0 1 2 1 9
+p655
+aVOthella Harrington HOU 12/09/1997 HOU vs. SAS W 8 3 1 2 50.0 0 0 - 1 1 100.0 1 4 5 0 0 0 2 1 2
+p656
+aVEmanual Davis HOU 12/09/1997 HOU vs. SAS W 27 8 3 3 100.0 1 1 100.0 1 2 50.0 0 4 4 5 1 0 0 2 19
+p657
+aVEddie Johnson HOU 12/09/1997 HOU vs. SAS W 17 13 4 8 50.0 2 3 66.7 3 3 100.0 0 1 1 0 1 0 3 0 14
+p658
+aVMatt Maloney HOU 12/09/1997 HOU vs. SAS W 21 12 4 4 100.0 4 4 100.0 0 0 - 0 2 2 2 0 0 0 1 11
+p659
+aVClyde Drexler HOU 12/09/1997 HOU vs. SAS W 29 17 4 10 40.0 0 3 0.0 9 10 90.0 1 2 3 11 2 0 0 1 21
+p660
+aVCharles Barkley HOU 12/09/1997 HOU vs. SAS W 33 6 2 10 20.0 0 0 - 2 2 100.0 2 12 14 3 2 2 2 0 19
+p661
+aVCharles Jones HOU 12/09/1997 HOU vs. SAS W 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 9
+p662
+aVKevin Willis HOU 12/09/1997 HOU vs. SAS W 28 16 8 12 66.7 0 0 - 0 1 0.0 0 5 5 1 1 0 2 3 12
+p663
+aVMatt Bullard HOU 12/09/1997 HOU vs. SAS W 21 8 3 6 50.0 2 3 66.7 0 0 - 1 4 5 2 0 3 2 3 19
+p664
+aVRodrick Rhodes HOU 12/06/1997 HOU @ DAL W 22 6 0 6 0.0 0 1 0.0 6 6 100.0 1 0 1 2 2 0 2 3 6
+p665
+aVEmanual Davis HOU 12/06/1997 HOU @ DAL W 21 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 2 1 0 2 2 7
+p666
+aVMatt Maloney HOU 12/06/1997 HOU @ DAL W 27 12 4 9 44.4 4 6 66.7 0 0 - 0 3 3 2 0 0 2 2 -5
+p667
+aVEddie Johnson HOU 12/06/1997 HOU @ DAL W 30 15 5 12 41.7 3 4 75.0 2 3 66.7 0 2 2 3 0 0 0 0 8
+p668
+aVClyde Drexler HOU 12/06/1997 HOU @ DAL W 26 17 6 17 35.3 0 4 0.0 5 7 71.4 3 2 5 4 0 3 2 5 -6
+p669
+aVMario Elie HOU 12/06/1997 HOU @ DAL W 25 8 3 6 50.0 0 3 0.0 2 3 66.7 1 4 5 1 3 0 0 2 -11
+p670
+aVMatt Bullard HOU 12/06/1997 HOU @ DAL W 18 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 0 0 0 1 1 3
+p671
+aVKevin Willis HOU 12/06/1997 HOU @ DAL W 29 17 5 10 50.0 0 0 - 7 7 100.0 2 9 11 2 0 1 2 4 9
+p672
+aVCharles Barkley HOU 12/06/1997 HOU @ DAL W 41 19 6 13 46.2 0 1 0.0 7 11 63.6 10 7 17 6 2 1 2 2 -1
+p673
+aVKevin Willis HOU 12/04/1997 HOU vs. ATL W 38 31 15 21 71.4 0 0 - 1 2 50.0 4 11 15 0 0 1 3 2 -1
+p674
+aVMatt Maloney HOU 12/04/1997 HOU vs. ATL W 17 0 0 6 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 0 -11
+p675
+aVClyde Drexler HOU 12/04/1997 HOU vs. ATL W 35 8 4 13 30.8 0 2 0.0 0 0 - 1 2 3 3 1 0 4 3 -13
+p676
+aVCharles Barkley HOU 12/04/1997 HOU vs. ATL W 41 25 11 20 55.0 0 2 0.0 3 4 75.0 3 10 13 7 2 0 0 3 15
+p677
+aVEddie Johnson HOU 12/04/1997 HOU vs. ATL W 29 14 5 12 41.7 1 3 33.3 3 3 100.0 2 4 6 1 0 0 1 2 18
+p678
+aVMario Elie HOU 12/04/1997 HOU vs. ATL W 19 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 2 0 1 1 -9
+p679
+aVEmanual Davis HOU 12/04/1997 HOU vs. ATL W 31 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 4 3 0 2 0 18
+p680
+aVMatt Bullard HOU 12/04/1997 HOU vs. ATL W 18 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 2 0
+p681
+aVRodrick Rhodes HOU 12/04/1997 HOU vs. ATL W 14 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 2 0 0 0 1 18
+p682
+aVClyde Drexler HOU 12/02/1997 HOU vs. DEN W 38 22 8 13 61.5 0 2 0.0 6 7 85.7 2 2 4 7 1 0 4 2 1
+p683
+aVMatt Maloney HOU 12/02/1997 HOU vs. DEN W 23 5 2 5 40.0 1 4 25.0 0 2 0.0 0 1 1 1 1 0 0 0 -6
+p684
+aVCharles Barkley HOU 12/02/1997 HOU vs. DEN W 39 15 4 10 40.0 0 0 - 7 8 87.5 5 6 11 12 2 0 1 1 23
+p685
+aVMatt Bullard HOU 12/02/1997 HOU vs. DEN W 32 20 7 14 50.0 6 11 54.5 0 0 - 0 0 0 1 1 2 1 4 18
+p686
+aVKevin Willis HOU 12/02/1997 HOU vs. DEN W 35 19 9 17 52.9 0 0 - 1 1 100.0 2 5 7 1 1 0 3 1 3
+p687
+aVEmanual Davis HOU 12/02/1997 HOU vs. DEN W 26 12 4 6 66.7 2 4 50.0 2 2 100.0 0 1 1 1 0 0 3 1 16
+p688
+aVEddie Johnson HOU 12/02/1997 HOU vs. DEN W 24 17 5 8 62.5 3 5 60.0 4 4 100.0 0 2 2 2 1 1 3 1 4
+p689
+aVCharles Jones HOU 12/02/1997 HOU vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p690
+aVOthella Harrington HOU 12/02/1997 HOU vs. DEN W 21 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 4 1 3 -1
+p691
+aVRodrick Rhodes HOU 11/29/1997 HOU @ GSW W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 2 0 -14
+p692
+aVMatt Maloney HOU 11/29/1997 HOU @ GSW W 33 8 2 5 40.0 2 5 40.0 2 2 100.0 0 1 1 3 2 0 1 1 13
+p693
+aVBrent Price HOU 11/29/1997 HOU @ GSW W 14 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -4
+p694
+aVCharles Barkley HOU 11/29/1997 HOU @ GSW W 39 43 15 20 75.0 1 1 100.0 12 14 85.7 6 9 15 3 4 0 6 4 16
+p695
+aVMario Elie HOU 11/29/1997 HOU @ GSW W 28 6 2 5 40.0 0 2 0.0 2 4 50.0 0 1 1 3 2 1 2 2 17
+p696
+aVEddie Johnson HOU 11/29/1997 HOU @ GSW W 26 12 3 10 30.0 2 6 33.3 4 4 100.0 1 3 4 0 0 0 0 2 0
+p697
+aVKevin Willis HOU 11/29/1997 HOU @ GSW W 36 15 4 10 40.0 0 0 - 7 12 58.3 2 10 12 2 1 0 3 5 14
+p698
+aVOthella Harrington HOU 11/29/1997 HOU @ GSW W 15 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 0 0 1 1 -9
+p699
+aVMatt Bullard HOU 11/29/1997 HOU @ GSW W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -9
+p700
+aVClyde Drexler HOU 11/29/1997 HOU @ GSW W 34 17 3 13 23.1 1 3 33.3 10 11 90.9 0 0 0 5 1 0 0 5 11
+p701
+aVClyde Drexler HOU 11/28/1997 HOU @ POR W 35 24 9 20 45.0 2 7 28.6 4 5 80.0 1 3 4 4 2 0 1 4 -3
+p702
+aVBrent Price HOU 11/28/1997 HOU @ POR W 28 5 2 6 33.3 1 3 33.3 0 1 0.0 2 0 2 5 1 0 0 3 6
+p703
+aVCharles Barkley HOU 11/28/1997 HOU @ POR W 39 7 3 11 27.3 0 1 0.0 1 2 50.0 3 10 13 1 3 0 5 3 14
+p704
+aVEddie Johnson HOU 11/28/1997 HOU @ POR W 23 21 6 12 50.0 2 3 66.7 7 8 87.5 0 3 3 4 2 0 1 1 15
+p705
+aVKevin Willis HOU 11/28/1997 HOU @ POR W 32 12 5 11 45.5 0 0 - 2 3 66.7 3 5 8 1 1 0 1 3 -6
+p706
+aVRodrick Rhodes HOU 11/28/1997 HOU @ POR W 13 7 3 6 50.0 0 0 - 1 1 100.0 0 0 0 1 1 0 0 2 12
+p707
+aVOthella Harrington HOU 11/28/1997 HOU @ POR W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p708
+aVMatt Bullard HOU 11/28/1997 HOU @ POR W 21 7 3 6 50.0 1 3 33.3 0 0 - 0 3 3 0 1 0 0 3 4
+p709
+aVMatt Maloney HOU 11/28/1997 HOU @ POR W 20 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 2 1 0 0 1 3
+p710
+aVMario Elie HOU 11/28/1997 HOU @ POR W 26 6 0 5 0.0 0 3 0.0 6 8 75.0 2 1 3 3 1 0 2 2 -4
+p711
+aVOthella Harrington HOU 11/22/1997 HOU vs. GSW W 7 4 1 1 100.0 0 0 - 2 4 50.0 3 1 4 0 0 0 0 0 8
+p712
+aVBrent Price HOU 11/22/1997 HOU vs. GSW W 27 9 2 4 50.0 2 3 66.7 3 4 75.0 1 2 3 5 0 0 0 2 15
+p713
+aVClyde Drexler HOU 11/22/1997 HOU vs. GSW W 35 17 7 16 43.8 0 3 0.0 3 4 75.0 0 3 3 2 1 0 1 3 -4
+p714
+aVKevin Willis HOU 11/22/1997 HOU vs. GSW W 38 22 9 20 45.0 0 0 - 4 5 80.0 5 14 19 2 2 1 3 2 -4
+p715
+aVMario Elie HOU 11/22/1997 HOU vs. GSW W 30 10 3 9 33.3 1 4 25.0 3 4 75.0 0 1 1 3 0 0 0 3 -2
+p716
+aVRodrick Rhodes HOU 11/22/1997 HOU vs. GSW W 16 5 2 6 33.3 0 1 0.0 1 2 50.0 0 1 1 2 1 0 1 2 10
+p717
+aVMatt Bullard HOU 11/22/1997 HOU vs. GSW W 27 12 4 13 30.8 4 10 40.0 0 0 - 0 4 4 1 0 2 0 3 16
+p718
+aVHakeem Olajuwon HOU 11/22/1997 HOU vs. GSW W 39 9 4 14 28.6 0 0 - 1 1 100.0 5 8 13 0 1 2 5 4 0
+p719
+aVMatt Maloney HOU 11/22/1997 HOU vs. GSW W 21 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 4 1 0 1 3 -9
+p720
+aVHakeem Olajuwon HOU 11/20/1997 HOU vs. TOR W 30 17 6 9 66.7 0 0 - 5 9 55.6 4 7 11 4 1 1 3 2 32
+p721
+aVClyde Drexler HOU 11/20/1997 HOU vs. TOR W 29 21 9 16 56.3 1 4 25.0 2 2 100.0 3 5 8 8 1 0 3 1 22
+p722
+aVMatt Maloney HOU 11/20/1997 HOU vs. TOR W 26 6 2 7 28.6 2 7 28.6 0 0 - 0 2 2 4 0 0 1 1 27
+p723
+aVKevin Willis HOU 11/20/1997 HOU vs. TOR W 29 17 7 12 58.3 0 1 0.0 3 3 100.0 5 9 14 1 1 0 5 3 21
+p724
+aVMatt Bullard HOU 11/20/1997 HOU vs. TOR W 23 12 5 12 41.7 2 6 33.3 0 0 - 0 4 4 0 1 1 0 4 8
+p725
+aVRodrick Rhodes HOU 11/20/1997 HOU vs. TOR W 19 10 4 7 57.1 0 0 - 2 5 40.0 0 3 3 4 3 0 1 1 8
+p726
+aVEmanual Davis HOU 11/20/1997 HOU vs. TOR W 12 6 2 4 50.0 1 1 100.0 1 2 50.0 0 1 1 1 0 0 0 0 -1
+p727
+aVOthella Harrington HOU 11/20/1997 HOU vs. TOR W 20 10 5 9 55.6 0 0 - 0 0 - 3 1 4 0 0 4 0 3 8
+p728
+aVMario Elie HOU 11/20/1997 HOU vs. TOR W 29 17 7 11 63.6 1 2 50.0 2 3 66.7 1 2 3 4 3 0 1 2 22
+p729
+aVBrent Price HOU 11/20/1997 HOU vs. TOR W 22 11 4 6 66.7 1 3 33.3 2 3 66.7 2 1 3 7 4 0 4 2 3
+p730
+aVClyde Drexler HOU 11/18/1997 HOU vs. NYK W 39 16 3 13 23.1 1 6 16.7 9 10 90.0 4 3 7 6 4 0 4 4 15
+p731
+aVMario Elie HOU 11/18/1997 HOU vs. NYK W 32 9 3 7 42.9 0 1 0.0 3 4 75.0 1 0 1 2 2 0 1 2 19
+p732
+aVRodrick Rhodes HOU 11/18/1997 HOU vs. NYK W 18 4 1 4 25.0 0 0 - 2 4 50.0 0 2 2 1 0 0 3 3 -6
+p733
+aVKevin Willis HOU 11/18/1997 HOU vs. NYK W 40 17 6 15 40.0 0 0 - 5 5 100.0 1 8 9 2 0 0 0 4 18
+p734
+aVEmanual Davis HOU 11/18/1997 HOU vs. NYK W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -4
+p735
+aVMatt Bullard HOU 11/18/1997 HOU vs. NYK W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 -11
+p736
+aVHakeem Olajuwon HOU 11/18/1997 HOU vs. NYK W 40 24 10 14 71.4 0 0 - 4 4 100.0 0 8 8 3 0 3 5 4 18
+p737
+aVOthella Harrington HOU 11/18/1997 HOU vs. NYK W 4 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p738
+aVBrent Price HOU 11/18/1997 HOU vs. NYK W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -3
+p739
+aVMatt Maloney HOU 11/18/1997 HOU vs. NYK W 34 23 4 11 36.4 4 7 57.1 11 13 84.6 0 4 4 2 2 0 0 2 12
+p740
+aVBrent Price HOU 11/16/1997 HOU @ PHX L 24 13 4 5 80.0 3 4 75.0 2 2 100.0 1 1 2 2 1 0 1 2 9
+p741
+aVEddie Johnson HOU 11/16/1997 HOU @ PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p742
+aVClyde Drexler HOU 11/16/1997 HOU @ PHX L 35 12 4 11 36.4 2 7 28.6 2 5 40.0 2 2 4 6 0 0 0 2 -10
+p743
+aVMatt Maloney HOU 11/16/1997 HOU @ PHX L 28 8 2 8 25.0 2 7 28.6 2 2 100.0 0 1 1 2 1 0 0 0 -10
+p744
+aVEmanual Davis HOU 11/16/1997 HOU @ PHX L 20 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 4 0 0 3 4 8
+p745
+aVRodrick Rhodes HOU 11/16/1997 HOU @ PHX L 20 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 5 0 0 3 5 0
+p746
+aVCharles Barkley HOU 11/16/1997 HOU @ PHX L 26 12 5 13 38.5 1 1 100.0 1 1 100.0 3 2 5 1 0 0 1 3 -11
+p747
+aVMatt Bullard HOU 11/16/1997 HOU @ PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p748
+aVMario Elie HOU 11/16/1997 HOU @ PHX L 18 6 2 5 40.0 1 3 33.3 1 1 100.0 0 1 1 2 1 0 2 1 -3
+p749
+aVKevin Willis HOU 11/16/1997 HOU @ PHX L 29 12 5 8 62.5 0 0 - 2 3 66.7 4 5 9 0 0 0 4 3 -5
+p750
+aVHakeem Olajuwon HOU 11/16/1997 HOU @ PHX L 41 22 8 17 47.1 0 0 - 6 8 75.0 0 12 12 2 3 5 2 3 9
+p751
+aVRodrick Rhodes HOU 11/14/1997 HOU vs. LAL L 20 0 0 6 0.0 0 0 - 0 0 - 0 4 4 4 0 0 3 1 13
+p752
+aVEmanual Davis HOU 11/14/1997 HOU vs. LAL L 36 10 3 6 50.0 0 3 0.0 4 4 100.0 2 1 3 2 2 1 1 4 0
+p753
+aVHakeem Olajuwon HOU 11/14/1997 HOU vs. LAL L 32 4 2 11 18.2 0 0 - 0 0 - 2 6 8 3 0 2 1 5 -20
+p754
+aVMatt Maloney HOU 11/14/1997 HOU vs. LAL L 22 10 3 6 50.0 3 6 50.0 1 2 50.0 0 1 1 2 1 0 1 1 -10
+p755
+aVKevin Willis HOU 11/14/1997 HOU vs. LAL L 35 20 9 17 52.9 0 0 - 2 2 100.0 4 4 8 2 0 0 3 6 6
+p756
+aVMario Elie HOU 11/14/1997 HOU vs. LAL L 38 5 2 5 40.0 1 2 50.0 0 0 - 1 4 5 3 1 0 2 3 -21
+p757
+aVCharles Barkley HOU 11/14/1997 HOU vs. LAL L 49 15 5 13 38.5 0 1 0.0 5 6 83.3 11 11 22 2 1 0 7 6 -6
+p758
+aVEddie Johnson HOU 11/14/1997 HOU vs. LAL L 7 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -7
+p759
+aVClyde Drexler HOU 11/14/1997 HOU vs. LAL L 52 35 11 25 44.0 3 8 37.5 10 13 76.9 3 7 10 7 1 2 3 2 -5
+p760
+aVHakeem Olajuwon HOU 11/12/1997 HOU vs. PHI L 42 14 6 19 31.6 0 0 - 2 2 100.0 7 8 15 3 0 3 1 5 -16
+p761
+aVCharles Barkley HOU 11/12/1997 HOU vs. PHI L 35 19 6 13 46.2 0 0 - 7 10 70.0 4 5 9 4 1 0 2 5 -6
+p762
+aVMatt Maloney HOU 11/12/1997 HOU vs. PHI L 32 12 5 10 50.0 2 5 40.0 0 0 - 1 1 2 1 0 0 1 1 -3
+p763
+aVClyde Drexler HOU 11/12/1997 HOU vs. PHI L 36 23 9 14 64.3 3 5 60.0 2 2 100.0 4 2 6 7 2 0 3 1 -10
+p764
+aVEddie Johnson HOU 11/12/1997 HOU vs. PHI L 15 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 1 1 -7
+p765
+aVRodrick Rhodes HOU 11/12/1997 HOU vs. PHI L 17 6 1 5 20.0 0 1 0.0 4 7 57.1 1 1 2 3 2 0 2 1 -10
+p766
+aVKevin Willis HOU 11/12/1997 HOU vs. PHI L 19 9 3 6 50.0 0 0 - 3 4 75.0 1 3 4 2 1 0 1 2 -6
+p767
+aVMario Elie HOU 11/12/1997 HOU vs. PHI L 28 7 3 7 42.9 0 3 0.0 1 2 50.0 0 0 0 4 3 0 1 2 -1
+p768
+aVEmanual Davis HOU 11/12/1997 HOU vs. PHI L 16 5 1 3 33.3 1 2 50.0 2 3 66.7 0 1 1 1 0 0 2 0 -11
+p769
+aVHakeem Olajuwon HOU 11/07/1997 HOU vs. POR L 40 27 10 15 66.7 0 0 - 7 9 77.8 1 7 8 0 4 1 0 3 -3
+p770
+aVMario Elie HOU 11/07/1997 HOU vs. POR L 30 14 5 9 55.6 2 5 40.0 2 2 100.0 0 1 1 5 0 1 1 0 -10
+p771
+aVKevin Willis HOU 11/07/1997 HOU vs. POR L 22 9 4 8 50.0 0 0 - 1 2 50.0 4 2 6 0 0 0 4 1 6
+p772
+aVClyde Drexler HOU 11/07/1997 HOU vs. POR L 32 10 2 11 18.2 0 5 0.0 6 10 60.0 0 4 4 3 3 0 2 2 3
+p773
+aVRodrick Rhodes HOU 11/07/1997 HOU vs. POR L 20 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 1 0 0 4
+p774
+aVMatt Maloney HOU 11/07/1997 HOU vs. POR L 31 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 4 2 0 1 2 -8
+p775
+aVBrent Price HOU 11/07/1997 HOU vs. POR L 17 4 1 2 50.0 1 2 50.0 1 1 100.0 0 1 1 1 1 0 2 0 7
+p776
+aVEddie Johnson HOU 11/07/1997 HOU vs. POR L 11 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 1 1 0 2 1 3
+p777
+aVCharles Barkley HOU 11/07/1997 HOU vs. POR L 33 14 4 19 21.1 0 1 0.0 6 8 75.0 5 9 14 2 0 0 2 4 -5
+p778
+aVMatt Bullard HOU 11/07/1997 HOU vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p779
+aVMatt Bullard HOU 11/05/1997 HOU @ LAC W 12 4 1 3 33.3 1 3 33.3 1 2 50.0 0 1 1 0 0 0 0 2 -9
+p780
+aVMario Elie HOU 11/05/1997 HOU @ LAC W 24 20 6 10 60.0 2 5 40.0 6 6 100.0 1 0 1 3 1 0 1 1 24
+p781
+aVEmanual Davis HOU 11/05/1997 HOU @ LAC W 19 7 2 5 40.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 0 2 -10
+p782
+aVClyde Drexler HOU 11/05/1997 HOU @ LAC W 34 43 15 25 60.0 3 5 60.0 10 11 90.9 1 3 4 6 2 0 2 2 29
+p783
+aVBrent Price HOU 11/05/1997 HOU @ LAC W 21 5 2 6 33.3 0 1 0.0 1 2 50.0 3 1 4 2 1 0 1 1 -12
+p784
+aVHakeem Olajuwon HOU 11/05/1997 HOU @ LAC W 30 10 4 7 57.1 0 0 - 2 2 100.0 2 5 7 3 3 2 2 3 20
+p785
+aVRodrick Rhodes HOU 11/05/1997 HOU @ LAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p786
+aVOthella Harrington HOU 11/05/1997 HOU @ LAC W 3 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 0
+p787
+aVKevin Willis HOU 11/05/1997 HOU @ LAC W 19 16 7 10 70.0 0 0 - 2 6 33.3 1 5 6 2 0 1 1 2 -10
+p788
+aVMatt Maloney HOU 11/05/1997 HOU @ LAC W 22 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 21
+p789
+aVCharles Barkley HOU 11/05/1997 HOU @ LAC W 32 13 3 5 60.0 0 0 - 7 9 77.8 6 15 21 5 0 0 0 2 27
+p790
+aVEddie Johnson HOU 11/05/1997 HOU @ LAC W 21 2 1 9 11.1 0 2 0.0 0 0 - 2 1 3 1 1 0 1 0 -9
+p791
+aVMario Elie HOU 11/04/1997 HOU @ SEA L 22 3 1 6 16.7 0 3 0.0 1 1 100.0 0 1 1 4 1 0 2 2 -16
+p792
+aVBrent Price HOU 11/04/1997 HOU @ SEA L 22 4 1 6 16.7 1 4 25.0 1 1 100.0 2 1 3 5 0 0 2 0 -4
+p793
+aVKevin Willis HOU 11/04/1997 HOU @ SEA L 25 11 3 6 50.0 0 0 - 5 6 83.3 2 5 7 1 0 0 3 2 -3
+p794
+aVClyde Drexler HOU 11/04/1997 HOU @ SEA L 25 9 3 10 30.0 1 5 20.0 2 2 100.0 0 3 3 0 0 0 2 2 -22
+p795
+aVMatt Bullard HOU 11/04/1997 HOU @ SEA L 13 9 3 6 50.0 3 5 60.0 0 0 - 0 1 1 1 0 0 0 1 -2
+p796
+aVCharles Barkley HOU 11/04/1997 HOU @ SEA L 28 17 7 9 77.8 1 2 50.0 2 2 100.0 5 6 11 1 0 0 4 4 -18
+p797
+aVHakeem Olajuwon HOU 11/04/1997 HOU @ SEA L 32 8 4 7 57.1 0 0 - 0 0 - 1 3 4 3 4 1 3 4 -19
+p798
+aVEmanual Davis HOU 11/04/1997 HOU @ SEA L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 1 -2
+p799
+aVOthella Harrington HOU 11/04/1997 HOU @ SEA L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p800
+aVMatt Maloney HOU 11/04/1997 HOU @ SEA L 14 6 2 5 40.0 0 3 0.0 2 2 100.0 0 0 0 0 0 0 5 1 -19
+p801
+aVRodrick Rhodes HOU 11/04/1997 HOU @ SEA L 17 10 1 5 20.0 1 1 100.0 7 8 87.5 0 0 0 4 5 0 3 3 -5
+p802
+aVEddie Johnson HOU 11/04/1997 HOU @ SEA L 24 15 5 14 35.7 2 6 33.3 3 4 75.0 1 3 4 0 1 0 1 2 -7
+p803
+aVEddie Johnson HOU 11/02/1997 HOU @ SAC W 18 7 2 4 50.0 1 3 33.3 2 2 100.0 0 1 1 0 0 0 1 1 9
+p804
+aVHakeem Olajuwon HOU 11/02/1997 HOU @ SAC W 34 18 6 12 50.0 0 0 - 6 7 85.7 2 5 7 1 5 8 3 3 17
+p805
+aVMatt Bullard HOU 11/02/1997 HOU @ SAC W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p806
+aVRodrick Rhodes HOU 11/02/1997 HOU @ SAC W 21 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 2 3 0 1 4 17
+p807
+aVMatt Maloney HOU 11/02/1997 HOU @ SAC W 23 9 3 9 33.3 3 7 42.9 0 0 - 0 0 0 1 0 0 3 1 -3
+p808
+aVEmanual Davis HOU 11/02/1997 HOU @ SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 2
+p809
+aVBrent Price HOU 11/02/1997 HOU @ SAC W 20 5 2 3 66.7 1 1 100.0 0 0 - 1 0 1 4 1 0 4 1 17
+p810
+aVMario Elie HOU 11/02/1997 HOU @ SAC W 27 5 2 4 50.0 0 1 0.0 1 1 100.0 0 0 0 3 1 0 1 0 -1
+p811
+aVCharles Barkley HOU 11/02/1997 HOU @ SAC W 30 15 6 10 60.0 0 0 - 3 4 75.0 2 12 14 1 0 0 2 2 7
+p812
+aVClyde Drexler HOU 11/02/1997 HOU @ SAC W 30 12 5 12 41.7 0 0 - 2 5 40.0 4 4 8 2 3 0 3 3 7
+p813
+aVKevin Willis HOU 11/02/1997 HOU @ SAC W 28 16 7 12 58.3 0 0 - 2 2 100.0 2 5 7 1 1 0 1 2 10
+p814
+aVBrent Price HOU 10/31/1997 HOU vs. CLE W 24 8 1 5 20.0 0 2 0.0 6 8 75.0 1 2 3 4 1 0 2 4 -4
+p815
+aVEddie Johnson HOU 10/31/1997 HOU vs. CLE W 14 9 3 5 60.0 1 1 100.0 2 4 50.0 1 1 2 0 0 0 0 2 -5
+p816
+aVCharles Barkley HOU 10/31/1997 HOU vs. CLE W 23 6 2 4 50.0 0 0 - 2 5 40.0 3 5 8 0 0 1 2 4 -1
+p817
+aVMatt Bullard HOU 10/31/1997 HOU vs. CLE W 7 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 0 1 0 5
+p818
+aVMario Elie HOU 10/31/1997 HOU vs. CLE W 28 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 1 1 2 3 5
+p819
+aVRodrick Rhodes HOU 10/31/1997 HOU vs. CLE W 21 7 2 7 28.6 0 0 - 3 5 60.0 0 0 0 4 0 0 3 3 -2
+p820
+aVHakeem Olajuwon HOU 10/31/1997 HOU vs. CLE W 35 10 5 10 50.0 0 0 - 0 0 - 2 6 8 2 3 3 3 5 -3
+p821
+aVKevin Willis HOU 10/31/1997 HOU vs. CLE W 31 20 10 12 83.3 0 0 - 0 0 - 1 7 8 2 1 1 4 4 15
+p822
+aVClyde Drexler HOU 10/31/1997 HOU vs. CLE W 34 17 5 12 41.7 0 3 0.0 7 8 87.5 1 6 7 9 1 2 7 4 18
+p823
+aVMatt Maloney HOU 10/31/1997 HOU vs. CLE W 24 10 3 6 50.0 2 5 40.0 2 2 100.0 0 4 4 3 2 0 0 0 12
+p824
+a.

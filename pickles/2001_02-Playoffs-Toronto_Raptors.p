@@ -1,0 +1,94 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAlvin Williams TOR 05/02/2002 TOR @ DET L 36 10 5 16 31.3 0 1 0.0 0 0 - 0 4 4 6 0 0 3 4 -5
+p2
+aVJerome Williams TOR 05/02/2002 TOR @ DET L 25 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 0 1 1 4 -10
+p3
+aVMorris Peterson TOR 05/02/2002 TOR @ DET L 29 3 1 5 20.0 1 4 25.0 0 0 - 0 5 5 2 0 0 1 3 9
+p4
+aVAntonio Davis TOR 05/02/2002 TOR @ DET L 36 9 2 10 20.0 0 0 - 5 11 45.5 4 8 12 2 0 1 2 5 1
+p5
+aVKeon Clark TOR 05/02/2002 TOR @ DET L 42 15 5 7 71.4 0 0 - 5 5 100.0 1 5 6 1 2 2 3 5 2
+p6
+aVHakeem Olajuwon TOR 05/02/2002 TOR @ DET L 15 8 3 5 60.0 0 0 - 2 2 100.0 2 2 4 0 0 0 2 2 -10
+p7
+aVChris Childs TOR 05/02/2002 TOR @ DET L 35 16 6 15 40.0 3 4 75.0 1 1 100.0 0 3 3 6 1 0 4 3 3
+p8
+aVDell Curry TOR 05/02/2002 TOR @ DET L 21 17 6 10 60.0 3 3 100.0 2 2 100.0 0 1 1 0 1 0 1 0 -5
+p9
+aVMorris Peterson TOR 04/29/2002 TOR vs. DET W 37 20 8 12 66.7 1 4 25.0 3 4 75.0 1 3 4 1 1 1 0 3 -6
+p10
+aVAlvin Williams TOR 04/29/2002 TOR vs. DET W 42 15 5 16 31.3 1 4 25.0 4 4 100.0 0 4 4 9 1 0 1 1 4
+p11
+aVHakeem Olajuwon TOR 04/29/2002 TOR vs. DET W 15 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 1 1 1 9
+p12
+aVJermaine Jackson TOR 04/29/2002 TOR vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p13
+aVJerome Williams TOR 04/29/2002 TOR vs. DET W 21 5 2 5 40.0 0 0 - 1 2 50.0 3 2 5 2 2 0 0 4 5
+p14
+aVChris Childs TOR 04/29/2002 TOR vs. DET W 32 9 3 8 37.5 0 2 0.0 3 4 75.0 0 3 3 5 0 0 5 3 3
+p15
+aVKeon Clark TOR 04/29/2002 TOR vs. DET W 35 19 8 15 53.3 0 0 - 3 3 100.0 7 9 16 2 0 1 2 4 10
+p16
+aVAntonio Davis TOR 04/29/2002 TOR vs. DET W 39 10 5 15 33.3 0 0 - 0 3 0.0 1 4 5 1 0 2 2 5 0
+p17
+aVDell Curry TOR 04/29/2002 TOR vs. DET W 18 7 2 8 25.0 1 1 100.0 2 2 100.0 0 3 3 2 1 1 2 1 7
+p18
+aVDell Curry TOR 04/27/2002 TOR vs. DET W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 1 0
+p19
+aVHakeem Olajuwon TOR 04/27/2002 TOR vs. DET W 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 2 1 0 1 1
+p20
+aVKeon Clark TOR 04/27/2002 TOR vs. DET W 38 18 7 11 63.6 0 0 - 4 4 100.0 3 0 3 3 0 2 1 3 8
+p21
+aVJermaine Jackson TOR 04/27/2002 TOR vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p22
+aVMorris Peterson TOR 04/27/2002 TOR vs. DET W 33 12 4 10 40.0 0 2 0.0 4 4 100.0 1 1 2 3 4 1 2 4 21
+p23
+aVJerome Williams TOR 04/27/2002 TOR vs. DET W 31 3 1 4 25.0 0 0 - 1 2 50.0 2 4 6 1 3 0 0 3 -6
+p24
+aVChris Childs TOR 04/27/2002 TOR vs. DET W 36 12 3 11 27.3 1 4 25.0 5 5 100.0 2 5 7 10 2 0 5 3 7
+p25
+aVAlvin Williams TOR 04/27/2002 TOR vs. DET W 40 17 7 16 43.8 0 1 0.0 3 3 100.0 1 4 5 5 2 0 2 1 8
+p26
+aVAntonio Davis TOR 04/27/2002 TOR vs. DET W 43 30 14 19 73.7 0 0 - 2 2 100.0 3 5 8 1 1 0 4 4 13
+p27
+aVJermaine Jackson TOR 04/24/2002 TOR @ DET L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p28
+aVAntonio Davis TOR 04/24/2002 TOR @ DET L 44 21 8 15 53.3 0 0 - 5 6 83.3 4 10 14 2 0 0 1 2 -4
+p29
+aVAlvin Williams TOR 04/24/2002 TOR @ DET L 42 8 4 15 26.7 0 3 0.0 0 2 0.0 1 7 8 2 3 2 0 4 -7
+p30
+aVMorris Peterson TOR 04/24/2002 TOR @ DET L 29 9 4 9 44.4 0 2 0.0 1 2 50.0 1 1 2 3 0 1 2 4 1
+p31
+aVChris Childs TOR 04/24/2002 TOR @ DET L 43 22 9 16 56.3 4 5 80.0 0 0 - 0 5 5 14 1 0 4 3 -3
+p32
+aVKeon Clark TOR 04/24/2002 TOR @ DET L 33 12 5 10 50.0 0 0 - 2 2 100.0 2 7 9 2 0 2 3 3 -11
+p33
+aVJerome Williams TOR 04/24/2002 TOR @ DET L 29 13 5 10 50.0 0 0 - 3 4 75.0 4 0 4 1 1 0 1 3 -4
+p34
+aVHakeem Olajuwon TOR 04/24/2002 TOR @ DET L 19 6 3 5 60.0 0 0 - 0 0 - 2 5 7 0 1 1 2 4 5
+p35
+aVKeon Clark TOR 04/21/2002 TOR @ DET L 26 3 1 5 20.0 0 0 - 1 2 50.0 1 5 6 0 0 1 5 4 -9
+p36
+aVJermaine Jackson TOR 04/21/2002 TOR @ DET L 9 6 2 3 66.7 0 0 - 2 6 33.3 0 0 0 0 0 0 3 1 -13
+p37
+aVAlvin Williams TOR 04/21/2002 TOR @ DET L 36 10 3 12 25.0 2 5 40.0 2 2 100.0 0 3 3 6 0 0 2 2 -7
+p38
+aVHakeem Olajuwon TOR 04/21/2002 TOR @ DET L 22 10 4 7 57.1 0 0 - 2 4 50.0 4 0 4 1 3 1 1 1 -12
+p39
+aVJerome Williams TOR 04/21/2002 TOR @ DET L 38 11 4 10 40.0 0 0 - 3 4 75.0 5 8 13 2 3 0 2 5 -22
+p40
+aVMichael Bradley TOR 04/21/2002 TOR @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p41
+aVChris Childs TOR 04/21/2002 TOR @ DET L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 2 3 -8
+p42
+aVAntonio Davis TOR 04/21/2002 TOR @ DET L 40 15 5 16 31.3 0 0 - 5 6 83.3 4 10 14 1 1 2 1 1 -18
+p43
+aVMorris Peterson TOR 04/21/2002 TOR @ DET L 26 2 1 13 7.7 0 5 0.0 0 0 - 0 1 1 2 0 0 2 3 -22
+p44
+aVMichael Stewart TOR 04/21/2002 TOR @ DET L 8 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -4
+p45
+aVDell Curry TOR 04/21/2002 TOR @ DET L 15 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 3 0 0 2 4
+p46
+a.

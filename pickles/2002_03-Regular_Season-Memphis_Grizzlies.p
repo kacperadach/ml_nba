@@ -1,0 +1,1626 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMike Batiste MEM 04/16/2003 MEM vs. MIN L 18 11 5 11 45.5 0 0 - 1 2 50.0 3 3 6 2 0 1 1 4 -4
+p2
+aVEarl Watson MEM 04/16/2003 MEM vs. MIN L 20 8 3 3 100.0 0 0 - 2 5 40.0 0 3 3 5 0 0 0 3 -1
+p3
+aVStromile Swift MEM 04/16/2003 MEM vs. MIN L 37 18 7 13 53.8 0 0 - 4 6 66.7 1 6 7 0 1 1 3 2 -15
+p4
+aVPau Gasol MEM 04/16/2003 MEM vs. MIN L 42 18 7 21 33.3 0 0 - 4 8 50.0 4 10 14 1 0 2 2 2 -2
+p5
+aVWesley Person MEM 04/16/2003 MEM vs. MIN L 34 6 2 7 28.6 2 5 40.0 0 0 - 0 5 5 0 0 0 0 1 -6
+p6
+aVRyan Humphrey MEM 04/16/2003 MEM vs. MIN L 10 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 1 0 0 1 3
+p7
+aVJason Williams MEM 04/16/2003 MEM vs. MIN L 33 11 4 14 28.6 3 8 37.5 0 0 - 0 4 4 12 1 0 2 0 -8
+p8
+aVShane Battier MEM 04/16/2003 MEM vs. MIN L 37 8 4 8 50.0 0 2 0.0 0 0 - 1 2 3 1 0 3 0 4 -6
+p9
+aVBrevin Knight MEM 04/16/2003 MEM vs. MIN L 9 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -1
+p10
+aVRyan Humphrey MEM 04/15/2003 MEM @ HOU L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p11
+aVMike Batiste MEM 04/15/2003 MEM @ HOU L 17 6 2 7 28.6 0 1 0.0 2 2 100.0 0 0 0 0 0 0 2 1 -7
+p12
+aVChris Owens MEM 04/15/2003 MEM @ HOU L 6 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 0 6
+p13
+aVPau Gasol MEM 04/15/2003 MEM @ HOU L 36 10 4 12 33.3 0 0 - 2 2 100.0 6 7 13 4 1 2 4 1 -7
+p14
+aVRobert Archibald MEM 04/15/2003 MEM @ HOU L 16 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 2 0 0 2 3 -7
+p15
+aVShane Battier MEM 04/15/2003 MEM @ HOU L 30 15 6 11 54.5 3 6 50.0 0 0 - 4 1 5 2 1 2 0 3 -6
+p16
+aVStromile Swift MEM 04/15/2003 MEM @ HOU L 31 10 5 13 38.5 0 0 - 0 1 0.0 3 4 7 1 0 1 1 3 -4
+p17
+aVEarl Watson MEM 04/15/2003 MEM @ HOU L 17 5 2 8 25.0 1 1 100.0 0 0 - 0 1 1 1 2 0 0 2 0
+p18
+aVJason Williams MEM 04/15/2003 MEM @ HOU L 26 12 4 11 36.4 3 7 42.9 1 1 100.0 0 1 1 9 0 0 3 2 -4
+p19
+aVWesley Person MEM 04/15/2003 MEM @ HOU L 27 10 5 10 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -11
+p20
+aVBrevin Knight MEM 04/15/2003 MEM @ HOU L 22 10 5 7 71.4 0 0 - 0 0 - 0 4 4 2 2 0 2 0 -7
+p21
+aVJason Williams MEM 04/13/2003 MEM vs. DET L 42 6 2 9 22.2 2 6 33.3 0 0 - 0 2 2 8 3 0 2 4 -9
+p22
+aVStromile Swift MEM 04/13/2003 MEM vs. DET L 24 21 9 11 81.8 0 0 - 3 5 60.0 2 4 6 1 1 1 3 6 -7
+p23
+aVMike Batiste MEM 04/13/2003 MEM vs. DET L 36 14 6 11 54.5 1 1 100.0 1 2 50.0 3 5 8 2 0 0 1 2 1
+p24
+aVEarl Watson MEM 04/13/2003 MEM vs. DET L 18 0 0 7 0.0 0 2 0.0 0 0 - 0 4 4 5 1 0 0 2 7
+p25
+aVRobert Archibald MEM 04/13/2003 MEM vs. DET L 14 3 1 4 25.0 0 0 - 1 4 25.0 2 4 6 1 0 2 1 1 6
+p26
+aVShane Battier MEM 04/13/2003 MEM vs. DET L 44 22 6 10 60.0 4 6 66.7 6 6 100.0 1 2 3 3 3 1 0 5 -6
+p27
+aVWesley Person MEM 04/13/2003 MEM vs. DET L 41 8 4 8 50.0 0 2 0.0 0 0 - 0 4 4 1 2 0 2 3 -10
+p28
+aVPau Gasol MEM 04/13/2003 MEM vs. DET L 46 24 9 19 47.4 0 0 - 6 8 75.0 1 8 9 5 0 1 6 1 -7
+p29
+aVBrevin Knight MEM 04/13/2003 MEM vs. DET L 16 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 1 6
+p30
+aVRyan Humphrey MEM 04/13/2003 MEM vs. DET L 9 4 2 6 33.3 0 0 - 0 0 - 0 0 0 1 2 0 0 0 4
+p31
+aVRyan Humphrey MEM 04/11/2003 MEM vs. POR W 12 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 4 -5
+p32
+aVShane Battier MEM 04/11/2003 MEM vs. POR W 32 13 5 7 71.4 3 3 100.0 0 0 - 2 3 5 3 2 0 1 3 0
+p33
+aVStromile Swift MEM 04/11/2003 MEM vs. POR W 36 19 7 13 53.8 0 0 - 5 5 100.0 3 8 11 0 2 3 1 4 5
+p34
+aVPau Gasol MEM 04/11/2003 MEM vs. POR W 36 18 7 18 38.9 0 0 - 4 4 100.0 2 8 10 4 0 2 2 1 5
+p35
+aVRobert Archibald MEM 04/11/2003 MEM vs. POR W 6 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 1 1 1 -1
+p36
+aVBrevin Knight MEM 04/11/2003 MEM vs. POR W 12 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 4 0 0 3 1 -4
+p37
+aVJason Williams MEM 04/11/2003 MEM vs. POR W 36 15 4 12 33.3 1 4 25.0 6 6 100.0 0 2 2 12 1 1 2 1 7
+p38
+aVMike Batiste MEM 04/11/2003 MEM vs. POR W 22 7 3 4 75.0 1 1 100.0 0 0 - 1 4 5 1 0 0 0 2 5
+p39
+aVEarl Watson MEM 04/11/2003 MEM vs. POR W 17 9 4 6 66.7 1 1 100.0 0 0 - 1 1 2 1 1 0 3 1 -3
+p40
+aVWesley Person MEM 04/11/2003 MEM vs. POR W 31 13 5 12 41.7 1 6 16.7 2 2 100.0 1 2 3 2 0 0 2 0 6
+p41
+aVWesley Person MEM 04/08/2003 MEM vs. LAC W 28 8 4 10 40.0 0 2 0.0 0 0 - 0 1 1 5 2 0 4 0 1
+p42
+aVBrevin Knight MEM 04/08/2003 MEM vs. LAC W 19 6 3 4 75.0 0 0 - 0 0 - 2 1 3 4 1 0 0 2 11
+p43
+aVEarl Watson MEM 04/08/2003 MEM vs. LAC W 20 8 3 8 37.5 0 1 0.0 2 2 100.0 1 3 4 2 1 1 2 2 2
+p44
+aVRobert Archibald MEM 04/08/2003 MEM vs. LAC W 5 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 4
+p45
+aVShane Battier MEM 04/08/2003 MEM vs. LAC W 36 17 5 10 50.0 2 4 50.0 5 5 100.0 2 2 4 2 3 0 1 4 1
+p46
+aVRyan Humphrey MEM 04/08/2003 MEM vs. LAC W 12 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 1 0 1 0 1 2
+p47
+aVMike Batiste MEM 04/08/2003 MEM vs. LAC W 35 15 4 9 44.4 0 0 - 7 8 87.5 2 9 11 1 2 1 0 5 6
+p48
+aVStromile Swift MEM 04/08/2003 MEM vs. LAC W 18 4 2 6 33.3 0 0 - 0 1 0.0 2 3 5 1 1 0 1 5 -2
+p49
+aVPau Gasol MEM 04/08/2003 MEM vs. LAC W 39 25 7 18 38.9 0 0 - 11 13 84.6 3 7 10 5 1 0 2 4 -2
+p50
+aVJason Williams MEM 04/08/2003 MEM vs. LAC W 29 23 8 17 47.1 5 7 71.4 2 3 66.7 2 1 3 6 0 0 2 0 -8
+p51
+aVEarl Watson MEM 04/05/2003 MEM @ ATL L 27 17 7 11 63.6 3 5 60.0 0 0 - 2 2 4 1 0 0 1 4 9
+p52
+aVBrevin Knight MEM 04/05/2003 MEM @ ATL L 26 2 1 5 20.0 0 0 - 0 0 - 0 1 1 8 1 0 0 3 9
+p53
+aVMike Batiste MEM 04/05/2003 MEM @ ATL L 14 6 2 7 28.6 0 0 - 2 2 100.0 2 1 3 1 1 0 0 0 -4
+p54
+aVWesley Person MEM 04/05/2003 MEM @ ATL L 21 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 -15
+p55
+aVLorenzen Wright MEM 04/05/2003 MEM @ ATL L 24 8 4 11 36.4 0 0 - 0 0 - 4 6 10 0 0 0 3 1 -17
+p56
+aVStromile Swift MEM 04/05/2003 MEM @ ATL L 20 11 2 5 40.0 0 0 - 7 8 87.5 1 3 4 0 1 2 1 1 2
+p57
+aVRyan Humphrey MEM 04/05/2003 MEM @ ATL L 11 5 2 3 66.7 0 0 - 1 2 50.0 1 4 5 0 1 0 1 1 4
+p58
+aVPau Gasol MEM 04/05/2003 MEM @ ATL L 41 25 10 19 52.6 0 0 - 5 6 83.3 3 10 13 4 2 0 1 2 -1
+p59
+aVShane Battier MEM 04/05/2003 MEM @ ATL L 34 11 2 8 25.0 0 1 0.0 7 9 77.8 3 2 5 2 0 0 2 1 -2
+p60
+aVJason Williams MEM 04/05/2003 MEM @ ATL L 22 0 0 9 0.0 0 4 0.0 0 0 - 1 0 1 6 0 0 2 1 -15
+p61
+aVMike Batiste MEM 04/04/2003 MEM vs. LAL L 15 12 4 7 57.1 0 0 - 4 4 100.0 4 1 5 0 0 0 0 3 -2
+p62
+aVBrevin Knight MEM 04/04/2003 MEM vs. LAL L 12 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 4 2 0 1 2 -2
+p63
+aVMike Miller MEM 04/04/2003 MEM vs. LAL L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p64
+aVStromile Swift MEM 04/04/2003 MEM vs. LAL L 26 8 2 7 28.6 0 0 - 4 4 100.0 2 4 6 2 1 5 1 2 23
+p65
+aVJason Williams MEM 04/04/2003 MEM vs. LAL L 36 18 7 17 41.2 1 6 16.7 3 4 75.0 1 1 2 12 3 0 2 1 1
+p66
+aVShane Battier MEM 04/04/2003 MEM vs. LAL L 35 14 5 8 62.5 1 4 25.0 3 3 100.0 2 3 5 0 0 3 0 4 -7
+p67
+aVLorenzen Wright MEM 04/04/2003 MEM vs. LAL L 26 5 2 8 25.0 0 0 - 1 2 50.0 3 4 7 0 1 0 5 6 -22
+p68
+aVPau Gasol MEM 04/04/2003 MEM vs. LAL L 38 18 7 12 58.3 0 0 - 4 6 66.7 2 9 11 1 2 0 3 5 6
+p69
+aVEarl Watson MEM 04/04/2003 MEM vs. LAL L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 1 7
+p70
+aVWesley Person MEM 04/04/2003 MEM vs. LAL L 34 17 7 13 53.8 3 4 75.0 0 0 - 1 2 3 3 0 0 1 1 -8
+p71
+aVLorenzen Wright MEM 04/02/2003 MEM vs. SAS L 35 24 9 19 47.4 0 0 - 6 7 85.7 3 5 8 2 0 3 3 3 -22
+p72
+aVRobert Archibald MEM 04/02/2003 MEM vs. SAS L 2 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 0 0 0 0 0 0
+p73
+aVMike Miller MEM 04/02/2003 MEM vs. SAS L 18 7 2 7 28.6 0 3 0.0 3 3 100.0 0 3 3 5 0 0 0 0 -4
+p74
+aVMike Batiste MEM 04/02/2003 MEM vs. SAS L 24 14 7 13 53.8 0 3 0.0 0 0 - 2 4 6 1 1 1 2 5 -3
+p75
+aVEarl Watson MEM 04/02/2003 MEM vs. SAS L 20 4 2 5 40.0 0 0 - 0 0 - 2 0 2 2 4 1 2 3 -5
+p76
+aVRyan Humphrey MEM 04/02/2003 MEM vs. SAS L 6 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 1 0 0 1 2
+p77
+aVWesley Person MEM 04/02/2003 MEM vs. SAS L 28 14 6 11 54.5 2 3 66.7 0 0 - 0 1 1 1 0 0 1 1 -13
+p78
+aVJason Williams MEM 04/02/2003 MEM vs. SAS L 32 5 2 6 33.3 1 4 25.0 0 0 - 1 3 4 7 2 0 3 2 -13
+p79
+aVBrevin Knight MEM 04/02/2003 MEM vs. SAS L 16 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 1 1 0 1 1 -5
+p80
+aVShane Battier MEM 04/02/2003 MEM vs. SAS L 29 7 2 6 33.3 0 1 0.0 3 3 100.0 0 2 2 0 1 1 1 4 -10
+p81
+aVPau Gasol MEM 04/02/2003 MEM vs. SAS L 29 5 2 9 22.2 0 0 - 1 4 25.0 1 4 5 3 0 1 1 6 -17
+p82
+aVStromile Swift MEM 03/31/2003 MEM @ LAL L 12 3 1 4 25.0 0 0 - 1 1 100.0 1 3 4 0 0 1 4 1 -18
+p83
+aVJason Williams MEM 03/31/2003 MEM @ LAL L 33 11 4 10 40.0 3 6 50.0 0 0 - 0 3 3 9 3 0 3 0 -7
+p84
+aVEarl Watson MEM 03/31/2003 MEM @ LAL L 15 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 3 0 0 3 1 -9
+p85
+aVWesley Person MEM 03/31/2003 MEM @ LAL L 40 20 9 16 56.3 2 2 100.0 0 0 - 0 1 1 4 0 0 2 2 -15
+p86
+aVMike Miller MEM 03/31/2003 MEM @ LAL L 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p87
+aVLorenzen Wright MEM 03/31/2003 MEM @ LAL L 39 14 5 14 35.7 0 0 - 4 4 100.0 3 12 15 5 2 0 0 5 -1
+p88
+aVMike Batiste MEM 03/31/2003 MEM @ LAL L 15 5 2 5 40.0 0 2 0.0 1 2 50.0 0 2 2 0 2 0 1 0 -10
+p89
+aVPau Gasol MEM 03/31/2003 MEM @ LAL L 41 22 9 16 56.3 0 0 - 4 5 80.0 2 8 10 3 0 0 3 2 -7
+p90
+aVShane Battier MEM 03/31/2003 MEM @ LAL L 36 13 6 11 54.5 0 4 0.0 1 2 50.0 1 1 2 4 2 1 0 3 -12
+p91
+aVBrevin Knight MEM 03/30/2003 MEM @ LAC L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 3 0 0 1 2 -5
+p92
+aVWesley Person MEM 03/30/2003 MEM @ LAC L 35 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 0 1 1 0 3 3
+p93
+aVMike Batiste MEM 03/30/2003 MEM @ LAC L 9 6 2 6 33.3 0 1 0.0 2 3 66.7 2 2 4 0 0 0 0 1 -6
+p94
+aVJason Williams MEM 03/30/2003 MEM @ LAC L 38 12 5 12 41.7 1 3 33.3 1 1 100.0 0 2 2 7 0 0 2 1 3
+p95
+aVStromile Swift MEM 03/30/2003 MEM @ LAC L 16 7 3 10 30.0 0 0 - 1 2 50.0 2 1 3 1 0 1 1 1 -8
+p96
+aVMike Miller MEM 03/30/2003 MEM @ LAC L 26 29 11 19 57.9 5 6 83.3 2 2 100.0 1 5 6 3 0 2 1 2 5
+p97
+aVPau Gasol MEM 03/30/2003 MEM @ LAC L 36 19 8 18 44.4 0 0 - 3 4 75.0 4 8 12 3 0 0 1 4 2
+p98
+aVShane Battier MEM 03/30/2003 MEM @ LAC L 23 8 2 5 40.0 0 1 0.0 4 5 80.0 2 3 5 0 0 0 3 3 -9
+p99
+aVEarl Watson MEM 03/30/2003 MEM @ LAC L 13 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 2 2 0 0 1 -3
+p100
+aVLorenzen Wright MEM 03/30/2003 MEM @ LAC L 35 13 6 16 37.5 0 0 - 1 4 25.0 2 8 10 1 1 2 0 4 8
+p101
+aVMike Miller MEM 03/28/2003 MEM @ SEA L 20 11 4 8 50.0 1 2 50.0 2 2 100.0 0 0 0 2 0 1 1 1 -18
+p102
+aVEarl Watson MEM 03/28/2003 MEM @ SEA L 25 8 3 7 42.9 0 1 0.0 2 2 100.0 2 2 4 3 3 1 0 4 -9
+p103
+aVJason Williams MEM 03/28/2003 MEM @ SEA L 23 3 1 10 10.0 0 3 0.0 1 2 50.0 2 4 6 5 1 0 2 1 -15
+p104
+aVBrevin Knight MEM 03/28/2003 MEM @ SEA L 20 4 2 5 40.0 0 0 - 0 0 - 0 3 3 6 1 0 1 2 -6
+p105
+aVLorenzen Wright MEM 03/28/2003 MEM @ SEA L 31 5 1 7 14.3 0 0 - 3 4 75.0 2 13 15 0 2 3 3 0 -21
+p106
+aVMike Batiste MEM 03/28/2003 MEM @ SEA L 17 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 0 2 0 1 0 -3
+p107
+aVShane Battier MEM 03/28/2003 MEM @ SEA L 28 7 2 8 25.0 0 5 0.0 3 3 100.0 0 2 2 1 1 3 1 0 -6
+p108
+aVWesley Person MEM 03/28/2003 MEM @ SEA L 28 10 4 9 44.4 2 3 66.7 0 0 - 0 2 2 1 0 0 0 0 -18
+p109
+aVStromile Swift MEM 03/28/2003 MEM @ SEA L 22 6 1 6 16.7 0 0 - 4 6 66.7 1 4 5 1 0 0 1 1 -10
+p110
+aVPau Gasol MEM 03/28/2003 MEM @ SEA L 26 13 5 11 45.5 0 0 - 3 6 50.0 0 4 4 0 0 1 4 1 -14
+p111
+aVPau Gasol MEM 03/26/2003 MEM vs. PHX L 40 20 6 13 46.2 0 0 - 8 10 80.0 3 8 11 6 0 7 2 4 0
+p112
+aVJason Williams MEM 03/26/2003 MEM vs. PHX L 40 22 7 20 35.0 6 11 54.5 2 2 100.0 0 3 3 7 2 0 2 2 -8
+p113
+aVWesley Person MEM 03/26/2003 MEM vs. PHX L 40 14 6 13 46.2 2 7 28.6 0 0 - 1 5 6 1 0 2 0 0 -7
+p114
+aVLorenzen Wright MEM 03/26/2003 MEM vs. PHX L 32 3 1 5 20.0 0 0 - 1 2 50.0 2 10 12 3 1 2 3 5 -4
+p115
+aVShane Battier MEM 03/26/2003 MEM vs. PHX L 30 15 5 12 41.7 2 6 33.3 3 3 100.0 2 1 3 1 0 1 1 3 4
+p116
+aVRyan Humphrey MEM 03/26/2003 MEM vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p117
+aVEarl Watson MEM 03/26/2003 MEM vs. PHX L 16 11 5 7 71.4 0 0 - 1 1 100.0 0 0 0 4 0 0 2 1 11
+p118
+aVMike Miller MEM 03/26/2003 MEM vs. PHX L 28 14 5 9 55.6 2 4 50.0 2 2 100.0 0 5 5 2 0 0 1 2 -9
+p119
+aVMike Batiste MEM 03/26/2003 MEM vs. PHX L 10 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 3 0 1 2 6
+p120
+aVMike Miller MEM 03/24/2003 MEM @ ORL W 16 14 5 9 55.6 2 4 50.0 2 2 100.0 1 2 3 1 0 0 0 1 -1
+p121
+aVJason Williams MEM 03/24/2003 MEM @ ORL W 35 17 7 15 46.7 3 5 60.0 0 0 - 0 5 5 15 2 0 3 1 15
+p122
+aVWesley Person MEM 03/24/2003 MEM @ ORL W 35 15 6 11 54.5 1 3 33.3 2 2 100.0 1 3 4 2 1 1 1 1 10
+p123
+aVPau Gasol MEM 03/24/2003 MEM @ ORL W 40 26 10 16 62.5 0 0 - 6 7 85.7 2 6 8 2 0 0 3 2 13
+p124
+aVMike Batiste MEM 03/24/2003 MEM @ ORL W 15 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -8
+p125
+aVLorenzen Wright MEM 03/24/2003 MEM @ ORL W 33 17 7 11 63.6 0 0 - 3 4 75.0 3 7 10 3 1 1 2 6 14
+p126
+aVShane Battier MEM 03/24/2003 MEM @ ORL W 35 13 5 11 45.5 2 4 50.0 1 2 50.0 2 4 6 2 4 0 1 2 9
+p127
+aVRyan Humphrey MEM 03/24/2003 MEM @ ORL W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p128
+aVBrevin Knight MEM 03/24/2003 MEM @ ORL W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 4 0 4 2 -9
+p129
+aVEarl Watson MEM 03/24/2003 MEM @ ORL W 13 0 0 5 0.0 0 2 0.0 0 0 - 1 2 3 0 1 0 0 2 -4
+p130
+aVPau Gasol MEM 03/22/2003 MEM @ NJN L 39 21 9 18 50.0 0 0 - 3 6 50.0 2 3 5 1 0 0 0 1 0
+p131
+aVBrevin Knight MEM 03/22/2003 MEM @ NJN L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 3 -15
+p132
+aVWesley Person MEM 03/22/2003 MEM @ NJN L 24 0 0 2 0.0 0 0 - 0 0 - 0 3 3 4 0 1 0 2 -2
+p133
+aVEarl Watson MEM 03/22/2003 MEM @ NJN L 22 10 4 6 66.7 2 3 66.7 0 0 - 0 3 3 2 3 0 0 3 -6
+p134
+aVStromile Swift MEM 03/22/2003 MEM @ NJN L 12 9 4 7 57.1 0 0 - 1 1 100.0 1 2 3 0 0 0 0 4 3
+p135
+aVLorenzen Wright MEM 03/22/2003 MEM @ NJN L 34 15 6 11 54.5 0 0 - 3 4 75.0 3 5 8 0 1 0 0 5 -14
+p136
+aVMike Batiste MEM 03/22/2003 MEM @ NJN L 11 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 2 0 2 0 -5
+p137
+aVJason Williams MEM 03/22/2003 MEM @ NJN L 36 24 9 17 52.9 6 7 85.7 0 0 - 0 0 0 11 0 0 4 1 7
+p138
+aVShane Battier MEM 03/22/2003 MEM @ NJN L 20 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 0 0 1 2 4 -14
+p139
+aVMike Miller MEM 03/22/2003 MEM @ NJN L 30 15 6 15 40.0 1 5 20.0 2 2 100.0 1 4 5 3 1 0 3 3 6
+p140
+aVLorenzen Wright MEM 03/21/2003 MEM @ IND L 25 15 6 10 60.0 0 0 - 3 5 60.0 2 2 4 1 1 0 1 3 -22
+p141
+aVShane Battier MEM 03/21/2003 MEM @ IND L 20 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 0 0 0 1 2 -18
+p142
+aVMike Miller MEM 03/21/2003 MEM @ IND L 28 15 5 8 62.5 4 6 66.7 1 2 50.0 0 5 5 1 1 0 3 5 9
+p143
+aVBrevin Knight MEM 03/21/2003 MEM @ IND L 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 4 1 0 2 1 -14
+p144
+aVWesley Person MEM 03/21/2003 MEM @ IND L 33 15 6 12 50.0 2 5 40.0 1 2 50.0 0 6 6 5 0 0 0 1 5
+p145
+aVMike Batiste MEM 03/21/2003 MEM @ IND L 10 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -13
+p146
+aVPau Gasol MEM 03/21/2003 MEM @ IND L 30 13 5 8 62.5 0 0 - 3 4 75.0 0 7 7 2 0 0 8 5 13
+p147
+aVStromile Swift MEM 03/21/2003 MEM @ IND L 31 8 3 9 33.3 0 0 - 2 4 50.0 2 7 9 1 1 3 4 4 4
+p148
+aVEarl Watson MEM 03/21/2003 MEM @ IND L 15 9 4 8 50.0 0 1 0.0 1 1 100.0 2 1 3 1 1 0 0 2 -14
+p149
+aVJason Williams MEM 03/21/2003 MEM @ IND L 33 10 3 13 23.1 3 9 33.3 1 1 100.0 0 5 5 15 2 0 0 2 5
+p150
+aVBrevin Knight MEM 03/19/2003 MEM vs. CLE W 6 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 4 0 0 1 3 4
+p151
+aVLorenzen Wright MEM 03/19/2003 MEM vs. CLE W 24 10 5 11 45.5 0 0 - 0 0 - 1 3 4 0 1 0 1 0 16
+p152
+aVRobert Archibald MEM 03/19/2003 MEM vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p153
+aVShane Battier MEM 03/19/2003 MEM vs. CLE W 36 14 4 7 57.1 4 6 66.7 2 2 100.0 0 4 4 2 3 0 2 2 24
+p154
+aVJason Williams MEM 03/19/2003 MEM vs. CLE W 32 16 7 12 58.3 2 5 40.0 0 0 - 0 2 2 16 2 0 0 0 13
+p155
+aVMike Miller MEM 03/19/2003 MEM vs. CLE W 18 16 6 10 60.0 1 3 33.3 3 4 75.0 0 4 4 2 0 0 0 4 13
+p156
+aVMike Batiste MEM 03/19/2003 MEM vs. CLE W 17 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 10
+p157
+aVStromile Swift MEM 03/19/2003 MEM vs. CLE W 21 9 3 4 75.0 0 0 - 3 6 50.0 1 5 6 0 0 2 0 5 11
+p158
+aVWesley Person MEM 03/19/2003 MEM vs. CLE W 31 14 6 9 66.7 0 0 - 2 2 100.0 0 2 2 1 1 1 2 0 11
+p159
+aVEarl Watson MEM 03/19/2003 MEM vs. CLE W 18 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 6 3 0 1 1 12
+p160
+aVRyan Humphrey MEM 03/19/2003 MEM vs. CLE W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 4
+p161
+aVPau Gasol MEM 03/19/2003 MEM vs. CLE W 31 28 12 19 63.2 0 0 - 4 6 66.7 1 6 7 3 0 2 3 3 13
+p162
+aVStromile Swift MEM 03/18/2003 MEM @ MIN L 35 16 6 13 46.2 0 0 - 4 5 80.0 2 3 5 1 0 2 3 2 -21
+p163
+aVEarl Watson MEM 03/18/2003 MEM @ MIN L 15 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 3 0 0 0 1 -2
+p164
+aVShane Battier MEM 03/18/2003 MEM @ MIN L 33 18 7 11 63.6 4 5 80.0 0 0 - 2 3 5 3 3 1 1 1 -14
+p165
+aVBrevin Knight MEM 03/18/2003 MEM @ MIN L 15 2 1 6 16.7 0 0 - 0 0 - 1 1 2 2 2 0 1 1 -2
+p166
+aVRyan Humphrey MEM 03/18/2003 MEM @ MIN L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 8
+p167
+aVMike Batiste MEM 03/18/2003 MEM @ MIN L 15 6 2 3 66.7 1 1 100.0 1 2 50.0 0 2 2 1 3 0 2 2 -2
+p168
+aVJason Williams MEM 03/18/2003 MEM @ MIN L 33 9 4 11 36.4 1 4 25.0 0 0 - 0 4 4 7 0 0 0 2 -14
+p169
+aVLorenzen Wright MEM 03/18/2003 MEM @ MIN L 20 9 3 10 30.0 0 0 - 3 6 50.0 3 5 8 0 0 0 2 0 1
+p170
+aVPau Gasol MEM 03/18/2003 MEM @ MIN L 32 9 4 13 30.8 0 0 - 1 2 50.0 0 1 1 3 3 3 2 3 -20
+p171
+aVWesley Person MEM 03/18/2003 MEM @ MIN L 33 7 3 10 30.0 1 4 25.0 0 0 - 0 7 7 1 1 0 3 1 -14
+p172
+aVBrevin Knight MEM 03/16/2003 MEM vs. ATL W 23 10 5 8 62.5 0 0 - 0 0 - 0 2 2 6 3 0 2 3 12
+p173
+aVPau Gasol MEM 03/16/2003 MEM vs. ATL W 30 22 8 14 57.1 0 0 - 6 6 100.0 3 6 9 5 0 3 3 3 22
+p174
+aVShane Battier MEM 03/16/2003 MEM vs. ATL W 36 22 9 12 75.0 2 5 40.0 2 2 100.0 4 4 8 5 1 1 1 1 24
+p175
+aVRyan Humphrey MEM 03/16/2003 MEM vs. ATL W 14 0 0 4 0.0 0 0 - 0 0 - 0 6 6 1 0 0 0 2 4
+p176
+aVLorenzen Wright MEM 03/16/2003 MEM vs. ATL W 24 21 8 12 66.7 0 0 - 5 5 100.0 2 6 8 3 1 1 1 4 12
+p177
+aVJason Williams MEM 03/16/2003 MEM vs. ATL W 30 11 4 8 50.0 3 6 50.0 0 0 - 1 2 3 9 0 0 4 1 21
+p178
+aVMike Batiste MEM 03/16/2003 MEM vs. ATL W 15 10 3 4 75.0 2 2 100.0 2 2 100.0 1 0 1 1 0 0 2 6 6
+p179
+aVEarl Watson MEM 03/16/2003 MEM vs. ATL W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 12
+p180
+aVWesley Person MEM 03/16/2003 MEM vs. ATL W 33 14 6 14 42.9 2 4 50.0 0 0 - 1 1 2 3 1 1 1 1 21
+p181
+aVRobert Archibald MEM 03/16/2003 MEM vs. ATL W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p182
+aVStromile Swift MEM 03/16/2003 MEM vs. ATL W 25 12 6 9 66.7 0 0 - 0 0 - 1 15 16 2 0 0 1 2 25
+p183
+aVShane Battier MEM 03/12/2003 MEM vs. CHI W 35 17 7 12 58.3 3 5 60.0 0 0 - 1 3 4 1 1 0 1 5 22
+p184
+aVBrevin Knight MEM 03/12/2003 MEM vs. CHI W 23 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 4 3 1 3 4 21
+p185
+aVWesley Person MEM 03/12/2003 MEM vs. CHI W 27 16 7 13 53.8 1 3 33.3 1 2 50.0 1 0 1 2 0 0 0 0 14
+p186
+aVRyan Humphrey MEM 03/12/2003 MEM vs. CHI W 17 4 1 4 25.0 0 0 - 2 3 66.7 0 3 3 0 0 0 1 3 7
+p187
+aVRobert Archibald MEM 03/12/2003 MEM vs. CHI W 6 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 0 1
+p188
+aVEarl Watson MEM 03/12/2003 MEM vs. CHI W 25 8 2 7 28.6 1 3 33.3 3 3 100.0 0 3 3 7 5 0 1 1 15
+p189
+aVJason Williams MEM 03/12/2003 MEM vs. CHI W 25 11 4 6 66.7 1 2 50.0 2 2 100.0 0 3 3 13 1 0 3 0 8
+p190
+aVStromile Swift MEM 03/12/2003 MEM vs. CHI W 31 22 8 8 100.0 0 0 - 6 8 75.0 1 9 10 3 1 3 2 3 19
+p191
+aVMike Batiste MEM 03/12/2003 MEM vs. CHI W 23 9 4 7 57.1 0 1 0.0 1 1 100.0 2 2 4 3 1 0 3 1 21
+p192
+aVPau Gasol MEM 03/12/2003 MEM vs. CHI W 28 27 11 15 73.3 0 0 - 5 7 71.4 0 6 6 1 0 4 0 4 17
+p193
+aVBrevin Knight MEM 03/11/2003 MEM @ NYK W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 0 0 1 1 -3
+p194
+aVStromile Swift MEM 03/11/2003 MEM @ NYK W 36 20 9 18 50.0 0 1 0.0 2 3 66.7 2 12 14 0 2 2 5 4 6
+p195
+aVJason Williams MEM 03/11/2003 MEM @ NYK W 36 15 5 12 41.7 2 6 33.3 3 4 75.0 1 4 5 6 1 0 3 0 5
+p196
+aVShane Battier MEM 03/11/2003 MEM @ NYK W 22 11 4 12 33.3 1 3 33.3 2 2 100.0 6 2 8 0 1 0 1 1 1
+p197
+aVPau Gasol MEM 03/11/2003 MEM @ NYK W 37 17 6 17 35.3 0 0 - 5 6 83.3 4 7 11 4 0 0 2 2 0
+p198
+aVMike Batiste MEM 03/11/2003 MEM @ NYK W 17 8 4 7 57.1 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -16
+p199
+aVEarl Watson MEM 03/11/2003 MEM @ NYK W 12 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 2 0 0 0 1 -3
+p200
+aVWesley Person MEM 03/11/2003 MEM @ NYK W 36 14 5 13 38.5 2 6 33.3 2 2 100.0 0 1 1 1 1 2 0 1 5
+p201
+aVMike Miller MEM 03/11/2003 MEM @ NYK W 33 0 0 2 0.0 0 0 - 0 0 - 0 5 5 2 0 0 3 1 15
+p202
+aVShane Battier MEM 03/09/2003 MEM @ TOR W 25 9 4 9 44.4 0 3 0.0 1 1 100.0 1 4 5 0 0 0 1 1 6
+p203
+aVPau Gasol MEM 03/09/2003 MEM @ TOR W 38 32 14 19 73.7 0 0 - 4 4 100.0 3 3 6 2 1 1 2 3 9
+p204
+aVStromile Swift MEM 03/09/2003 MEM @ TOR W 41 23 10 15 66.7 0 0 - 3 3 100.0 4 9 13 4 2 3 2 4 12
+p205
+aVBrevin Knight MEM 03/09/2003 MEM @ TOR W 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 6 1 0 0 2 5
+p206
+aVWesley Person MEM 03/09/2003 MEM @ TOR W 34 12 6 9 66.7 0 2 0.0 0 0 - 0 1 1 2 2 1 0 1 8
+p207
+aVEarl Watson MEM 03/09/2003 MEM @ TOR W 14 7 3 6 50.0 1 1 100.0 0 1 0.0 1 1 2 0 0 0 1 1 5
+p208
+aVMike Miller MEM 03/09/2003 MEM @ TOR W 23 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 0 0 0 2 4 7
+p209
+aVMike Batiste MEM 03/09/2003 MEM @ TOR W 18 8 3 9 33.3 0 1 0.0 2 2 100.0 3 2 5 3 2 0 0 0 5
+p210
+aVJason Williams MEM 03/09/2003 MEM @ TOR W 34 17 7 16 43.8 3 5 60.0 0 1 0.0 1 7 8 12 0 0 2 1 8
+p211
+aVWesley Person MEM 03/08/2003 MEM @ CLE W 25 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 2 2 1 0 1 30
+p212
+aVPau Gasol MEM 03/08/2003 MEM @ CLE W 31 27 11 13 84.6 0 0 - 5 9 55.6 3 3 6 1 1 1 1 3 23
+p213
+aVMike Batiste MEM 03/08/2003 MEM @ CLE W 23 12 5 7 71.4 0 1 0.0 2 2 100.0 0 5 5 2 0 0 0 1 7
+p214
+aVCezary Trybanski MEM 03/08/2003 MEM @ CLE W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -4
+p215
+aVShane Battier MEM 03/08/2003 MEM @ CLE W 28 10 4 11 36.4 0 2 0.0 2 2 100.0 2 3 5 2 2 0 0 4 -2
+p216
+aVMike Miller MEM 03/08/2003 MEM @ CLE W 23 21 7 10 70.0 2 2 100.0 5 7 71.4 0 3 3 4 1 1 2 1 36
+p217
+aVStromile Swift MEM 03/08/2003 MEM @ CLE W 29 20 9 13 69.2 0 0 - 2 4 50.0 2 8 10 1 3 5 2 5 25
+p218
+aVEarl Watson MEM 03/08/2003 MEM @ CLE W 23 11 5 7 71.4 0 2 0.0 1 3 33.3 2 0 2 2 1 0 2 3 -4
+p219
+aVRobert Archibald MEM 03/08/2003 MEM @ CLE W 5 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 0 -7
+p220
+aVBrevin Knight MEM 03/08/2003 MEM @ CLE W 23 4 2 5 40.0 0 0 - 0 0 - 1 4 5 9 4 0 6 1 -4
+p221
+aVJason Williams MEM 03/08/2003 MEM @ CLE W 25 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 10 1 1 3 2 30
+p222
+aVRobert Archibald MEM 03/05/2003 MEM vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p223
+aVMike Batiste MEM 03/05/2003 MEM vs. DEN W 15 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 1 0 1 4 2 -4
+p224
+aVPau Gasol MEM 03/05/2003 MEM vs. DEN W 37 13 6 15 40.0 0 0 - 1 2 50.0 0 6 6 2 0 1 1 1 14
+p225
+aVEarl Watson MEM 03/05/2003 MEM vs. DEN W 15 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 5 0 0 0 1 -2
+p226
+aVMike Miller MEM 03/05/2003 MEM vs. DEN W 19 12 3 11 27.3 2 3 66.7 4 6 66.7 2 3 5 0 2 1 2 1 -11
+p227
+aVCezary Trybanski MEM 03/05/2003 MEM vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p228
+aVStromile Swift MEM 03/05/2003 MEM vs. DEN W 41 24 8 17 47.1 0 0 - 8 12 66.7 6 4 10 0 1 6 4 4 20
+p229
+aVBrevin Knight MEM 03/05/2003 MEM vs. DEN W 15 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 1 2 0 2 2 -2
+p230
+aVShane Battier MEM 03/05/2003 MEM vs. DEN W 29 7 3 5 60.0 1 3 33.3 0 0 - 1 5 6 1 4 1 0 3 20
+p231
+aVWesley Person MEM 03/05/2003 MEM vs. DEN W 33 20 9 16 56.3 2 5 40.0 0 0 - 0 1 1 2 1 0 0 0 11
+p232
+aVJason Williams MEM 03/05/2003 MEM vs. DEN W 33 8 3 7 42.9 0 0 - 2 2 100.0 0 3 3 14 3 0 1 2 11
+p233
+aVBrevin Knight MEM 03/03/2003 MEM vs. BOS L 18 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 4 1 0 2 3 -3
+p234
+aVJason Williams MEM 03/03/2003 MEM vs. BOS L 30 12 5 16 31.3 2 7 28.6 0 0 - 0 3 3 8 1 0 2 0 2
+p235
+aVWesley Person MEM 03/03/2003 MEM vs. BOS L 37 18 7 13 53.8 4 9 44.4 0 0 - 2 5 7 2 1 1 1 1 0
+p236
+aVStromile Swift MEM 03/03/2003 MEM vs. BOS L 20 11 4 8 50.0 0 0 - 3 4 75.0 1 5 6 0 0 2 0 3 8
+p237
+aVPau Gasol MEM 03/03/2003 MEM vs. BOS L 36 23 11 20 55.0 0 0 - 1 2 50.0 9 8 17 2 0 1 2 5 -6
+p238
+aVEarl Watson MEM 03/03/2003 MEM vs. BOS L 20 10 4 7 57.1 1 3 33.3 1 1 100.0 0 2 2 3 2 0 0 1 -1
+p239
+aVShane Battier MEM 03/03/2003 MEM vs. BOS L 39 21 8 13 61.5 5 7 71.4 0 0 - 3 3 6 2 2 1 1 3 -1
+p240
+aVMike Batiste MEM 03/03/2003 MEM vs. BOS L 40 10 5 14 35.7 0 1 0.0 0 2 0.0 2 4 6 2 0 1 0 3 -4
+p241
+aVWesley Person MEM 03/01/2003 MEM @ DAL L 38 11 5 13 38.5 1 3 33.3 0 0 - 1 7 8 1 0 0 1 1 -11
+p242
+aVBrevin Knight MEM 03/01/2003 MEM @ DAL L 16 2 1 5 20.0 0 0 - 0 0 - 0 1 1 5 1 0 0 2 -12
+p243
+aVStromile Swift MEM 03/01/2003 MEM @ DAL L 31 16 3 8 37.5 0 0 - 10 12 83.3 3 6 9 0 1 3 1 3 -12
+p244
+aVCezary Trybanski MEM 03/01/2003 MEM @ DAL L 6 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 1 -3
+p245
+aVMike Batiste MEM 03/01/2003 MEM @ DAL L 22 10 4 11 36.4 0 1 0.0 2 2 100.0 2 3 5 0 3 1 4 1 -21
+p246
+aVShane Battier MEM 03/01/2003 MEM @ DAL L 40 12 3 8 37.5 0 2 0.0 6 7 85.7 1 4 5 2 1 1 2 2 -22
+p247
+aVPau Gasol MEM 03/01/2003 MEM @ DAL L 37 25 8 10 80.0 0 0 - 9 12 75.0 1 7 8 2 1 0 3 2 -18
+p248
+aVEarl Watson MEM 03/01/2003 MEM @ DAL L 18 5 1 5 20.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 1 3 -21
+p249
+aVJason Williams MEM 03/01/2003 MEM @ DAL L 32 6 2 10 20.0 0 6 0.0 2 2 100.0 1 4 5 8 0 1 4 0 -15
+p250
+aVShane Battier MEM 02/28/2003 MEM vs. MIA W 40 16 6 10 60.0 2 3 66.7 2 2 100.0 0 1 1 1 4 1 2 2 10
+p251
+aVLorenzen Wright MEM 02/28/2003 MEM vs. MIA W 32 14 5 11 45.5 0 0 - 4 4 100.0 1 5 6 2 0 1 2 4 3
+p252
+aVEarl Watson MEM 02/28/2003 MEM vs. MIA W 21 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 1 3 0 2 2 3
+p253
+aVPau Gasol MEM 02/28/2003 MEM vs. MIA W 38 25 9 16 56.3 0 1 0.0 7 9 77.8 2 8 10 2 0 1 4 4 10
+p254
+aVStromile Swift MEM 02/28/2003 MEM vs. MIA W 14 12 4 8 50.0 0 0 - 4 4 100.0 0 4 4 0 1 1 0 1 2
+p255
+aVWesley Person MEM 02/28/2003 MEM vs. MIA W 46 19 5 10 50.0 3 5 60.0 6 6 100.0 2 12 14 4 0 0 0 4 4
+p256
+aVJason Williams MEM 02/28/2003 MEM vs. MIA W 35 18 5 12 41.7 3 6 50.0 5 6 83.3 0 3 3 15 1 0 6 4 5
+p257
+aVMike Batiste MEM 02/28/2003 MEM vs. MIA W 21 11 5 7 71.4 0 1 0.0 1 1 100.0 1 0 1 0 0 1 2 0 8
+p258
+aVBrevin Knight MEM 02/28/2003 MEM vs. MIA W 18 4 2 4 50.0 0 0 - 0 2 0.0 0 0 0 8 2 0 1 4 5
+p259
+aVEarl Watson MEM 02/26/2003 MEM @ PHI L 19 9 4 7 57.1 1 3 33.3 0 0 - 1 1 2 3 3 1 0 3 7
+p260
+aVPau Gasol MEM 02/26/2003 MEM @ PHI L 40 32 12 22 54.5 0 0 - 8 10 80.0 2 6 8 5 0 0 2 0 -9
+p261
+aVJason Williams MEM 02/26/2003 MEM @ PHI L 30 19 7 13 53.8 4 9 44.4 1 1 100.0 0 5 5 7 4 0 2 2 -3
+p262
+aVBrevin Knight MEM 02/26/2003 MEM @ PHI L 18 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 4 2 0 2 3 -1
+p263
+aVWesley Person MEM 02/26/2003 MEM @ PHI L 42 8 3 13 23.1 1 5 20.0 1 2 50.0 0 6 6 3 1 2 1 1 -8
+p264
+aVMike Batiste MEM 02/26/2003 MEM @ PHI L 26 15 6 11 54.5 1 3 33.3 2 2 100.0 2 2 4 3 2 0 1 1 13
+p265
+aVShane Battier MEM 02/26/2003 MEM @ PHI L 35 4 2 11 18.2 0 5 0.0 0 0 - 1 2 3 1 1 1 0 5 -7
+p266
+aVLorenzen Wright MEM 02/26/2003 MEM @ PHI L 30 12 5 14 35.7 0 0 - 2 2 100.0 2 2 4 0 1 1 1 4 -12
+p267
+aVJason Williams MEM 02/24/2003 MEM vs. UTA W 37 15 5 11 45.5 1 4 25.0 4 5 80.0 0 5 5 11 2 1 1 1 3
+p268
+aVStromile Swift MEM 02/24/2003 MEM vs. UTA W 21 9 2 6 33.3 0 0 - 5 6 83.3 1 4 5 1 1 2 1 4 8
+p269
+aVWesley Person MEM 02/24/2003 MEM vs. UTA W 42 27 9 17 52.9 6 10 60.0 3 4 75.0 0 4 4 2 2 0 3 2 13
+p270
+aVLorenzen Wright MEM 02/24/2003 MEM vs. UTA W 35 17 8 12 66.7 0 0 - 1 1 100.0 3 5 8 2 2 3 2 6 7
+p271
+aVPau Gasol MEM 02/24/2003 MEM vs. UTA W 40 18 7 13 53.8 0 0 - 4 4 100.0 1 8 9 1 0 2 4 3 7
+p272
+aVEarl Watson MEM 02/24/2003 MEM vs. UTA W 14 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 7 1 0 1 2 5
+p273
+aVMike Batiste MEM 02/24/2003 MEM vs. UTA W 16 0 0 6 0.0 0 2 0.0 0 0 - 1 1 2 0 1 0 1 1 4
+p274
+aVShane Battier MEM 02/24/2003 MEM vs. UTA W 35 12 4 7 57.1 2 4 50.0 2 3 66.7 2 2 4 2 1 2 1 4 8
+p275
+aVPau Gasol MEM 02/22/2003 MEM @ HOU L 22 6 3 8 37.5 0 0 - 0 2 0.0 1 2 3 1 0 0 1 3 -21
+p276
+aVMike Batiste MEM 02/22/2003 MEM @ HOU L 19 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 2 0 0 0 2
+p277
+aVShane Battier MEM 02/22/2003 MEM @ HOU L 37 5 2 7 28.6 1 4 25.0 0 0 - 1 4 5 5 0 1 1 2 -5
+p278
+aVLorenzen Wright MEM 02/22/2003 MEM @ HOU L 32 24 10 17 58.8 0 0 - 4 6 66.7 3 6 9 2 2 0 1 5 9
+p279
+aVJason Williams MEM 02/22/2003 MEM @ HOU L 22 11 5 9 55.6 1 1 100.0 0 0 - 0 6 6 4 0 0 1 1 -13
+p280
+aVStromile Swift MEM 02/22/2003 MEM @ HOU L 24 11 3 9 33.3 0 0 - 5 5 100.0 1 4 5 1 2 0 0 1 -12
+p281
+aVWesley Person MEM 02/22/2003 MEM @ HOU L 23 7 2 7 28.6 0 2 0.0 3 4 75.0 0 1 1 1 0 1 1 0 -13
+p282
+aVEarl Watson MEM 02/22/2003 MEM @ HOU L 26 2 0 9 0.0 0 0 - 2 2 100.0 1 2 3 2 1 1 1 4 2
+p283
+aVMike Miller MEM 02/22/2003 MEM @ HOU L 36 11 4 12 33.3 0 1 0.0 3 4 75.0 0 4 4 1 1 0 4 3 -4
+p284
+aVEarl Watson MEM 02/21/2003 MEM @ NOH L 17 9 4 5 80.0 0 1 0.0 1 2 50.0 0 1 1 7 2 0 3 1 14
+p285
+aVMike Batiste MEM 02/21/2003 MEM @ NOH L 14 6 3 5 60.0 0 2 0.0 0 0 - 1 3 4 0 0 0 0 4 17
+p286
+aVWesley Person MEM 02/21/2003 MEM @ NOH L 41 19 6 13 46.2 4 5 80.0 3 5 60.0 1 0 1 3 3 0 0 1 -15
+p287
+aVMike Miller MEM 02/21/2003 MEM @ NOH L 31 23 11 17 64.7 1 3 33.3 0 0 - 1 4 5 4 0 0 4 6 6
+p288
+aVJason Williams MEM 02/21/2003 MEM @ NOH L 36 12 5 9 55.6 2 5 40.0 0 0 - 0 3 3 7 0 0 2 3 -16
+p289
+aVStromile Swift MEM 02/21/2003 MEM @ NOH L 21 14 6 8 75.0 0 0 - 2 5 40.0 0 1 1 0 3 0 2 1 6
+p290
+aVPau Gasol MEM 02/21/2003 MEM @ NOH L 41 18 7 16 43.8 0 1 0.0 4 6 66.7 0 4 4 4 0 2 1 2 -18
+p291
+aVShane Battier MEM 02/21/2003 MEM @ NOH L 18 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 5 -7
+p292
+aVLorenzen Wright MEM 02/21/2003 MEM @ NOH L 37 16 7 12 58.3 0 0 - 2 3 66.7 2 4 6 3 2 0 0 3 -10
+p293
+aVMichael Dickerson MEM 02/21/2003 MEM @ NOH L 10 3 0 1 0.0 0 1 0.0 3 3 100.0 0 1 1 2 0 0 0 2 13
+p294
+aVShane Battier MEM 02/18/2003 MEM vs. IND W 39 15 6 12 50.0 2 4 50.0 1 1 100.0 4 3 7 2 2 1 1 2 5
+p295
+aVEarl Watson MEM 02/18/2003 MEM vs. IND W 13 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 4 0 0 2 1 -2
+p296
+aVMichael Dickerson MEM 02/18/2003 MEM vs. IND W 17 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 2 1 0 1 2 0
+p297
+aVWesley Person MEM 02/18/2003 MEM vs. IND W 36 10 3 8 37.5 2 4 50.0 2 2 100.0 0 2 2 1 0 0 0 0 5
+p298
+aVLorenzen Wright MEM 02/18/2003 MEM vs. IND W 36 14 5 14 35.7 0 0 - 4 8 50.0 3 3 6 0 0 1 1 4 5
+p299
+aVStromile Swift MEM 02/18/2003 MEM vs. IND W 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 1 2 1 -2
+p300
+aVJason Williams MEM 02/18/2003 MEM vs. IND W 40 18 5 17 29.4 3 7 42.9 5 6 83.3 1 5 6 9 2 0 2 1 7
+p301
+aVMike Batiste MEM 02/18/2003 MEM vs. IND W 13 11 5 5 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p302
+aVPau Gasol MEM 02/18/2003 MEM vs. IND W 46 24 10 22 45.5 0 0 - 4 7 57.1 6 8 14 3 0 7 3 6 9
+p303
+aVDrew Gooden MEM 02/18/2003 MEM vs. IND W 14 3 1 4 25.0 0 1 0.0 1 2 50.0 1 3 4 0 0 0 1 1 0
+p304
+aVLorenzen Wright MEM 02/16/2003 MEM @ MIL W 22 8 4 8 50.0 0 0 - 0 4 0.0 1 7 8 2 1 0 1 3 6
+p305
+aVWesley Person MEM 02/16/2003 MEM @ MIL W 28 14 5 9 55.6 1 5 20.0 3 4 75.0 1 3 4 1 0 0 0 0 7
+p306
+aVJason Williams MEM 02/16/2003 MEM @ MIL W 28 14 4 8 50.0 2 3 66.7 4 6 66.7 0 4 4 9 1 0 4 2 14
+p307
+aVPau Gasol MEM 02/16/2003 MEM @ MIL W 29 19 7 9 77.8 0 0 - 5 6 83.3 2 9 11 2 0 0 2 1 14
+p308
+aVStromile Swift MEM 02/16/2003 MEM @ MIL W 21 6 2 2 100.0 0 0 - 2 2 100.0 0 5 5 0 0 0 3 0 -4
+p309
+aVShane Battier MEM 02/16/2003 MEM @ MIL W 30 15 6 9 66.7 0 2 0.0 3 6 50.0 2 2 4 0 0 1 0 1 11
+p310
+aVMike Batiste MEM 02/16/2003 MEM @ MIL W 24 8 4 8 50.0 0 1 0.0 0 0 - 1 1 2 1 1 0 2 3 -4
+p311
+aVEarl Watson MEM 02/16/2003 MEM @ MIL W 20 2 1 4 25.0 0 0 - 0 0 - 0 2 2 4 2 0 1 3 -8
+p312
+aVMichael Dickerson MEM 02/16/2003 MEM @ MIL W 20 6 2 7 28.6 2 4 50.0 0 0 - 0 0 0 2 2 0 2 4 -1
+p313
+aVDrew Gooden MEM 02/16/2003 MEM @ MIL W 18 9 4 7 57.1 0 1 0.0 1 2 50.0 0 1 1 0 0 0 2 1 -5
+p314
+aVShane Battier MEM 02/14/2003 MEM vs. DAL L 32 11 4 7 57.1 3 5 60.0 0 0 - 1 4 5 1 2 2 0 2 -6
+p315
+aVWesley Person MEM 02/14/2003 MEM vs. DAL L 31 14 5 11 45.5 0 5 0.0 4 6 66.7 1 1 2 1 3 0 0 0 -1
+p316
+aVLorenzen Wright MEM 02/14/2003 MEM vs. DAL L 27 3 1 10 10.0 0 0 - 1 2 50.0 1 5 6 3 2 1 2 1 3
+p317
+aVEarl Watson MEM 02/14/2003 MEM vs. DAL L 18 9 3 4 75.0 1 2 50.0 2 3 66.7 0 0 0 6 1 1 0 1 -5
+p318
+aVStromile Swift MEM 02/14/2003 MEM vs. DAL L 21 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -10
+p319
+aVJason Williams MEM 02/14/2003 MEM vs. DAL L 30 15 6 12 50.0 3 6 50.0 0 0 - 0 2 2 6 1 0 3 4 -2
+p320
+aVPau Gasol MEM 02/14/2003 MEM vs. DAL L 33 25 8 14 57.1 0 0 - 9 13 69.2 4 3 7 3 0 0 1 0 -9
+p321
+aVMike Batiste MEM 02/14/2003 MEM vs. DAL L 15 7 1 1 100.0 0 0 - 5 6 83.3 0 3 3 1 0 0 0 3 2
+p322
+aVMichael Dickerson MEM 02/14/2003 MEM vs. DAL L 17 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 1 2 0 0 3 -6
+p323
+aVDrew Gooden MEM 02/14/2003 MEM vs. DAL L 16 7 2 7 28.6 1 2 50.0 2 2 100.0 0 5 5 0 0 1 2 3 -1
+p324
+aVMike Batiste MEM 02/12/2003 MEM vs. NJN W 11 9 4 7 57.1 1 1 100.0 0 0 - 2 1 3 1 0 0 0 0 1
+p325
+aVEarl Watson MEM 02/12/2003 MEM vs. NJN W 40 21 6 12 50.0 3 5 60.0 6 6 100.0 3 5 8 6 4 0 4 3 1
+p326
+aVPau Gasol MEM 02/12/2003 MEM vs. NJN W 38 7 2 8 25.0 0 1 0.0 3 8 37.5 1 7 8 5 0 2 1 3 3
+p327
+aVDrew Gooden MEM 02/12/2003 MEM vs. NJN W 24 11 4 11 36.4 1 1 100.0 2 2 100.0 2 2 4 0 1 0 0 2 -10
+p328
+aVStromile Swift MEM 02/12/2003 MEM vs. NJN W 19 8 1 5 20.0 0 0 - 6 8 75.0 4 3 7 1 0 1 1 6 6
+p329
+aVWesley Person MEM 02/12/2003 MEM vs. NJN W 28 14 4 7 57.1 1 1 100.0 5 6 83.3 0 3 3 0 1 0 3 0 5
+p330
+aVLorenzen Wright MEM 02/12/2003 MEM vs. NJN W 28 11 4 10 40.0 0 0 - 3 5 60.0 1 4 5 2 1 0 4 6 2
+p331
+aVShane Battier MEM 02/12/2003 MEM vs. NJN W 32 8 3 7 42.9 1 2 50.0 1 2 50.0 1 7 8 2 5 2 3 4 23
+p332
+aVGordan Giricek MEM 02/12/2003 MEM vs. NJN W 20 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 4
+p333
+aVEarl Watson MEM 02/05/2003 MEM @ UTA L 40 16 6 15 40.0 2 3 66.7 2 4 50.0 1 4 5 3 3 2 7 4 -22
+p334
+aVDrew Gooden MEM 02/05/2003 MEM @ UTA L 25 3 1 11 9.1 0 3 0.0 1 2 50.0 2 1 3 1 0 0 0 2 -13
+p335
+aVShane Battier MEM 02/05/2003 MEM @ UTA L 41 4 1 6 16.7 0 2 0.0 2 2 100.0 1 2 3 0 2 2 0 2 -16
+p336
+aVLorenzen Wright MEM 02/05/2003 MEM @ UTA L 41 16 5 13 38.5 0 0 - 6 8 75.0 6 7 13 1 0 0 5 4 -13
+p337
+aVGordan Giricek MEM 02/05/2003 MEM @ UTA L 38 17 6 13 46.2 3 6 50.0 2 4 50.0 1 3 4 3 0 0 2 3 -12
+p338
+aVMike Batiste MEM 02/05/2003 MEM @ UTA L 15 9 4 8 50.0 0 0 - 1 1 100.0 2 6 8 0 0 0 2 1 -6
+p339
+aVPau Gasol MEM 02/05/2003 MEM @ UTA L 38 14 6 14 42.9 0 0 - 2 4 50.0 6 5 11 3 2 5 4 4 -23
+p340
+aVCezary Trybanski MEM 02/05/2003 MEM @ UTA L 2 5 2 3 66.7 0 0 - 1 1 100.0 2 0 2 0 0 0 0 1 0
+p341
+aVGordan Giricek MEM 02/03/2003 MEM @ GSW L 27 8 4 11 36.4 0 3 0.0 0 0 - 1 0 1 0 0 0 3 0 -20
+p342
+aVShane Battier MEM 02/03/2003 MEM @ GSW L 45 16 4 10 40.0 2 5 40.0 6 6 100.0 6 5 11 1 2 1 4 4 -4
+p343
+aVMike Batiste MEM 02/03/2003 MEM @ GSW L 18 10 5 12 41.7 0 2 0.0 0 0 - 5 3 8 0 0 2 0 3 4
+p344
+aVPau Gasol MEM 02/03/2003 MEM @ GSW L 40 20 8 19 42.1 0 0 - 4 7 57.1 4 5 9 2 0 4 3 4 -11
+p345
+aVEarl Watson MEM 02/03/2003 MEM @ GSW L 24 7 3 7 42.9 0 1 0.0 1 5 20.0 2 2 4 5 1 0 1 4 5
+p346
+aVJason Williams MEM 02/03/2003 MEM @ GSW L 24 1 0 2 0.0 0 2 0.0 1 1 100.0 0 3 3 4 0 0 1 3 -15
+p347
+aVDrew Gooden MEM 02/03/2003 MEM @ GSW L 31 14 6 13 46.2 2 3 66.7 0 0 - 5 5 10 1 0 0 3 0 3
+p348
+aVLorenzen Wright MEM 02/03/2003 MEM @ GSW L 32 15 5 15 33.3 0 1 0.0 5 8 62.5 4 4 8 2 1 1 2 5 -12
+p349
+aVPau Gasol MEM 02/02/2003 MEM @ DEN L 42 13 5 17 29.4 0 0 - 3 6 50.0 3 8 11 2 0 3 2 2 -9
+p350
+aVWesley Person MEM 02/02/2003 MEM @ DEN L 27 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 3 0 0 0 1 -3
+p351
+aVEarl Watson MEM 02/02/2003 MEM @ DEN L 18 8 2 4 50.0 1 2 50.0 3 4 75.0 0 2 2 0 0 0 2 1 -4
+p352
+aVLorenzen Wright MEM 02/02/2003 MEM @ DEN L 22 8 3 6 50.0 0 0 - 2 2 100.0 3 2 5 0 0 1 2 4 -17
+p353
+aVCezary Trybanski MEM 02/02/2003 MEM @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p354
+aVDrew Gooden MEM 02/02/2003 MEM @ DEN L 31 16 6 16 37.5 0 1 0.0 4 4 100.0 4 3 7 0 1 0 2 4 -7
+p355
+aVMike Batiste MEM 02/02/2003 MEM @ DEN L 20 8 3 5 60.0 0 1 0.0 2 2 100.0 2 4 6 1 0 0 1 3 3
+p356
+aVGordan Giricek MEM 02/02/2003 MEM @ DEN L 21 10 3 9 33.3 0 2 0.0 4 4 100.0 0 2 2 1 1 0 3 3 -12
+p357
+aVJason Williams MEM 02/02/2003 MEM @ DEN L 30 8 2 8 25.0 2 4 50.0 2 2 100.0 0 0 0 5 0 1 3 2 -11
+p358
+aVShane Battier MEM 02/02/2003 MEM @ DEN L 25 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 1 3 4 1 4 -16
+p359
+aVPau Gasol MEM 01/31/2003 MEM vs. NYK L 41 32 13 19 68.4 0 0 - 6 8 75.0 0 9 9 3 1 4 1 5 2
+p360
+aVGordan Giricek MEM 01/31/2003 MEM vs. NYK L 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p361
+aVDrew Gooden MEM 01/31/2003 MEM vs. NYK L 28 9 4 8 50.0 0 0 - 1 2 50.0 1 3 4 1 0 0 3 1 -9
+p362
+aVStromile Swift MEM 01/31/2003 MEM vs. NYK L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 0 -6
+p363
+aVWesley Person MEM 01/31/2003 MEM vs. NYK L 36 7 3 9 33.3 1 5 20.0 0 0 - 0 2 2 3 0 0 2 0 1
+p364
+aVLorenzen Wright MEM 01/31/2003 MEM vs. NYK L 34 11 5 13 38.5 0 0 - 1 2 50.0 3 6 9 2 2 0 1 4 0
+p365
+aVBrevin Knight MEM 01/31/2003 MEM vs. NYK L 10 4 2 4 50.0 0 1 0.0 0 2 0.0 1 0 1 0 0 0 1 0 -2
+p366
+aVShane Battier MEM 01/31/2003 MEM vs. NYK L 26 14 4 6 66.7 4 5 80.0 2 2 100.0 2 0 2 0 4 3 1 4 3
+p367
+aVJason Williams MEM 01/31/2003 MEM vs. NYK L 38 21 8 15 53.3 3 7 42.9 2 2 100.0 0 1 1 13 1 0 1 1 -4
+p368
+aVMike Batiste MEM 01/31/2003 MEM vs. NYK L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p369
+aVEarl Watson MEM 01/27/2003 MEM vs. HOU L 9 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p370
+aVGordan Giricek MEM 01/27/2003 MEM vs. HOU L 35 14 6 14 42.9 1 2 50.0 1 3 33.3 0 1 1 2 2 1 3 4 2
+p371
+aVBrevin Knight MEM 01/27/2003 MEM vs. HOU L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 5 0 0 1 1 -5
+p372
+aVPau Gasol MEM 01/27/2003 MEM vs. HOU L 40 26 7 15 46.7 0 0 - 12 14 85.7 1 7 8 3 1 4 1 3 1
+p373
+aVLorenzen Wright MEM 01/27/2003 MEM vs. HOU L 34 8 3 13 23.1 0 0 - 2 2 100.0 5 6 11 0 0 0 3 6 0
+p374
+aVCezary Trybanski MEM 01/27/2003 MEM vs. HOU L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 2 0
+p375
+aVMike Batiste MEM 01/27/2003 MEM vs. HOU L 12 4 2 5 40.0 0 1 0.0 0 0 - 3 2 5 0 0 0 0 4 -7
+p376
+aVShane Battier MEM 01/27/2003 MEM vs. HOU L 19 9 3 4 75.0 2 2 100.0 1 2 50.0 2 2 4 0 1 0 0 1 -12
+p377
+aVJason Williams MEM 01/27/2003 MEM vs. HOU L 35 15 6 10 60.0 3 6 50.0 0 0 - 0 3 3 8 1 0 2 5 0
+p378
+aVDrew Gooden MEM 01/27/2003 MEM vs. HOU L 37 19 8 18 44.4 0 1 0.0 3 4 75.0 6 5 11 1 1 0 0 4 -2
+p379
+aVMike Batiste MEM 01/25/2003 MEM vs. SEA L 17 4 2 4 50.0 0 2 0.0 0 0 - 0 7 7 0 0 0 0 4 11
+p380
+aVLorenzen Wright MEM 01/25/2003 MEM vs. SEA L 31 14 6 10 60.0 0 0 - 2 3 66.7 6 6 12 0 0 0 1 3 -23
+p381
+aVEarl Watson MEM 01/25/2003 MEM vs. SEA L 27 11 2 8 25.0 2 5 40.0 5 6 83.3 0 2 2 3 1 0 3 2 8
+p382
+aVPau Gasol MEM 01/25/2003 MEM vs. SEA L 39 25 11 16 68.8 0 0 - 3 5 60.0 2 8 10 2 0 0 3 3 -1
+p383
+aVDrew Gooden MEM 01/25/2003 MEM vs. SEA L 21 5 1 3 33.3 0 1 0.0 3 8 37.5 0 3 3 2 0 1 1 3 -18
+p384
+aVCezary Trybanski MEM 01/25/2003 MEM vs. SEA L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -7
+p385
+aVBrevin Knight MEM 01/25/2003 MEM vs. SEA L 29 6 3 7 42.9 0 0 - 0 0 - 1 1 2 5 1 0 2 3 7
+p386
+aVJason Williams MEM 01/25/2003 MEM vs. SEA L 19 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 5 0 0 2 0 -19
+p387
+aVShane Battier MEM 01/25/2003 MEM vs. SEA L 30 8 3 8 37.5 0 3 0.0 2 2 100.0 1 6 7 2 1 1 0 1 2
+p388
+aVGordan Giricek MEM 01/25/2003 MEM vs. SEA L 21 9 3 8 37.5 3 6 50.0 0 0 - 0 0 0 1 1 0 2 2 -20
+p389
+aVJason Williams MEM 01/23/2003 MEM vs. SAC L 33 11 4 15 26.7 2 7 28.6 1 2 50.0 1 1 2 10 2 0 2 1 3
+p390
+aVCezary Trybanski MEM 01/23/2003 MEM vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -3
+p391
+aVMike Batiste MEM 01/23/2003 MEM vs. SAC L 12 9 4 8 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -10
+p392
+aVShane Battier MEM 01/23/2003 MEM vs. SAC L 21 7 2 6 33.3 0 2 0.0 3 5 60.0 1 1 2 2 0 1 0 1 -5
+p393
+aVBrevin Knight MEM 01/23/2003 MEM vs. SAC L 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 4 1 0 1 1 -9
+p394
+aVDrew Gooden MEM 01/23/2003 MEM vs. SAC L 31 11 5 12 41.7 0 1 0.0 1 2 50.0 3 9 12 3 1 0 3 1 1
+p395
+aVPau Gasol MEM 01/23/2003 MEM vs. SAC L 41 24 9 18 50.0 0 0 - 6 11 54.5 6 11 17 1 1 3 2 5 4
+p396
+aVLorenzen Wright MEM 01/23/2003 MEM vs. SAC L 40 17 6 11 54.5 0 0 - 5 7 71.4 3 5 8 2 4 0 2 2 -3
+p397
+aVGordan Giricek MEM 01/23/2003 MEM vs. SAC L 37 16 6 16 37.5 2 4 50.0 2 2 100.0 0 1 1 2 0 0 3 5 0
+p398
+aVEarl Watson MEM 01/23/2003 MEM vs. SAC L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -8
+p399
+aVDrew Gooden MEM 01/22/2003 MEM @ SAS W 27 12 4 8 50.0 0 0 - 4 4 100.0 2 4 6 0 0 1 2 4 9
+p400
+aVJason Williams MEM 01/22/2003 MEM @ SAS W 34 18 4 16 25.0 1 7 14.3 9 11 81.8 0 3 3 10 0 0 0 1 9
+p401
+aVCezary Trybanski MEM 01/22/2003 MEM @ SAS W 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -3
+p402
+aVLorenzen Wright MEM 01/22/2003 MEM @ SAS W 30 11 5 12 41.7 0 0 - 1 1 100.0 4 6 10 2 0 0 1 6 5
+p403
+aVPau Gasol MEM 01/22/2003 MEM @ SAS W 38 28 10 17 58.8 0 0 - 8 10 80.0 2 15 17 3 0 3 2 4 8
+p404
+aVBrevin Knight MEM 01/22/2003 MEM @ SAS W 14 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 2 4 -4
+p405
+aVShane Battier MEM 01/22/2003 MEM @ SAS W 27 7 3 3 100.0 1 1 100.0 0 0 - 2 1 3 1 0 4 0 1 -3
+p406
+aVEarl Watson MEM 01/22/2003 MEM @ SAS W 15 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 2 -3
+p407
+aVGordan Giricek MEM 01/22/2003 MEM @ SAS W 31 9 4 9 44.4 1 4 25.0 0 0 - 0 2 2 1 0 0 2 2 11
+p408
+aVMike Batiste MEM 01/22/2003 MEM @ SAS W 14 2 1 7 14.3 0 1 0.0 0 0 - 1 3 4 0 1 0 1 2 -4
+p409
+aVWesley Person MEM 01/20/2003 MEM vs. POR L 17 9 3 8 37.5 2 4 50.0 1 1 100.0 1 3 4 0 0 1 0 1 -8
+p410
+aVLorenzen Wright MEM 01/20/2003 MEM vs. POR L 40 22 9 15 60.0 0 0 - 4 6 66.7 2 7 9 4 1 2 3 3 0
+p411
+aVBrevin Knight MEM 01/20/2003 MEM vs. POR L 22 11 5 8 62.5 0 1 0.0 1 1 100.0 0 2 2 4 2 0 3 3 -1
+p412
+aVDrew Gooden MEM 01/20/2003 MEM vs. POR L 18 2 1 7 14.3 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -8
+p413
+aVPau Gasol MEM 01/20/2003 MEM vs. POR L 42 10 4 13 30.8 0 0 - 2 3 66.7 2 3 5 3 1 3 3 3 -15
+p414
+aVMike Batiste MEM 01/20/2003 MEM vs. POR L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p415
+aVGordan Giricek MEM 01/20/2003 MEM vs. POR L 31 15 7 11 63.6 1 3 33.3 0 0 - 1 4 5 1 2 1 0 1 -4
+p416
+aVShane Battier MEM 01/20/2003 MEM vs. POR L 39 3 1 5 20.0 1 2 50.0 0 1 0.0 2 3 5 3 1 0 1 3 -4
+p417
+aVJason Williams MEM 01/20/2003 MEM vs. POR L 26 15 4 11 36.4 3 7 42.9 4 4 100.0 0 1 1 8 1 0 8 4 -11
+p418
+aVStromile Swift MEM 01/17/2003 MEM @ SEA L 8 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -8
+p419
+aVJason Williams MEM 01/17/2003 MEM @ SEA L 25 5 1 5 20.0 0 1 0.0 3 3 100.0 0 0 0 3 1 0 0 2 -1
+p420
+aVWesley Person MEM 01/17/2003 MEM @ SEA L 25 7 2 7 28.6 1 5 20.0 2 3 66.7 1 0 1 1 0 0 0 0 -1
+p421
+aVLorenzen Wright MEM 01/17/2003 MEM @ SEA L 44 21 9 15 60.0 0 0 - 3 4 75.0 1 7 8 2 0 0 1 4 -1
+p422
+aVPau Gasol MEM 01/17/2003 MEM @ SEA L 44 21 5 10 50.0 0 0 - 11 12 91.7 2 12 14 5 0 3 3 1 1
+p423
+aVEarl Watson MEM 01/17/2003 MEM @ SEA L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p424
+aVBrevin Knight MEM 01/17/2003 MEM @ SEA L 28 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 9 1 0 1 5 -5
+p425
+aVDrew Gooden MEM 01/17/2003 MEM @ SEA L 28 15 6 14 42.9 0 0 - 3 4 75.0 1 7 8 0 0 0 1 2 -4
+p426
+aVGordan Giricek MEM 01/17/2003 MEM @ SEA L 22 13 5 11 45.5 0 1 0.0 3 6 50.0 0 2 2 1 0 0 2 0 0
+p427
+aVShane Battier MEM 01/17/2003 MEM @ SEA L 35 8 4 9 44.4 0 4 0.0 0 0 - 2 2 4 1 0 0 0 3 -6
+p428
+aVDrew Gooden MEM 01/15/2003 MEM @ POR L 23 11 2 9 22.2 0 0 - 7 10 70.0 2 5 7 1 2 0 0 0 2
+p429
+aVBrevin Knight MEM 01/15/2003 MEM @ POR L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 4 1 0 2 1 0
+p430
+aVLorenzen Wright MEM 01/15/2003 MEM @ POR L 31 8 4 13 30.8 0 0 - 0 0 - 4 4 8 1 1 1 1 1 -15
+p431
+aVStromile Swift MEM 01/15/2003 MEM @ POR L 13 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 4
+p432
+aVMike Batiste MEM 01/15/2003 MEM @ POR L 11 4 2 7 28.6 0 0 - 0 0 - 2 2 4 0 1 1 0 1 0
+p433
+aVPau Gasol MEM 01/15/2003 MEM @ POR L 37 19 8 14 57.1 0 0 - 3 3 100.0 2 4 6 2 0 0 1 1 -8
+p434
+aVGordan Giricek MEM 01/15/2003 MEM @ POR L 31 13 5 10 50.0 1 3 33.3 2 2 100.0 1 1 2 2 0 0 1 3 -7
+p435
+aVShane Battier MEM 01/15/2003 MEM @ POR L 36 17 6 9 66.7 2 2 100.0 3 5 60.0 2 4 6 1 1 1 0 1 -10
+p436
+aVJason Williams MEM 01/15/2003 MEM @ POR L 33 9 4 15 26.7 0 5 0.0 1 1 100.0 0 2 2 10 0 0 1 2 -8
+p437
+aVEarl Watson MEM 01/15/2003 MEM @ POR L 11 6 2 5 40.0 1 1 100.0 1 3 33.3 0 0 0 0 0 0 1 0 2
+p438
+aVGordan Giricek MEM 01/13/2003 MEM @ GSW W 29 22 9 15 60.0 1 2 50.0 3 3 100.0 1 2 3 1 0 0 5 5 0
+p439
+aVMike Batiste MEM 01/13/2003 MEM @ GSW W 8 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 0 0 2 0 -1
+p440
+aVJason Williams MEM 01/13/2003 MEM @ GSW W 30 13 4 10 40.0 1 3 33.3 4 6 66.7 1 2 3 5 1 0 2 1 8
+p441
+aVLorenzen Wright MEM 01/13/2003 MEM @ GSW W 37 16 6 11 54.5 0 0 - 4 4 100.0 4 11 15 0 1 1 2 3 5
+p442
+aVStromile Swift MEM 01/13/2003 MEM @ GSW W 14 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 2 1 2 -8
+p443
+aVEarl Watson MEM 01/13/2003 MEM @ GSW W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -5
+p444
+aVDrew Gooden MEM 01/13/2003 MEM @ GSW W 28 14 7 18 38.9 0 0 - 0 0 - 5 3 8 1 4 1 1 3 4
+p445
+aVPau Gasol MEM 01/13/2003 MEM @ GSW W 37 23 7 13 53.8 0 1 0.0 9 11 81.8 1 11 12 3 0 4 1 3 5
+p446
+aVShane Battier MEM 01/13/2003 MEM @ GSW W 27 6 1 3 33.3 0 0 - 4 4 100.0 0 0 0 1 1 1 1 5 5
+p447
+aVBrevin Knight MEM 01/13/2003 MEM @ GSW W 18 4 2 7 28.6 0 0 - 0 0 - 0 0 0 5 0 0 1 4 -3
+p448
+aVEarl Watson MEM 01/12/2003 MEM @ SAC L 14 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 4
+p449
+aVPau Gasol MEM 01/12/2003 MEM @ SAC L 34 26 11 16 68.8 0 0 - 4 4 100.0 4 8 12 4 0 4 6 2 -7
+p450
+aVDrew Gooden MEM 01/12/2003 MEM @ SAC L 29 17 8 16 50.0 0 0 - 1 1 100.0 3 5 8 1 1 0 1 2 -6
+p451
+aVBrevin Knight MEM 01/12/2003 MEM @ SAC L 18 7 3 9 33.3 0 0 - 1 2 50.0 2 2 4 3 2 0 1 4 9
+p452
+aVShane Battier MEM 01/12/2003 MEM @ SAC L 42 9 4 7 57.1 0 2 0.0 1 1 100.0 1 4 5 0 0 2 2 2 -8
+p453
+aVStromile Swift MEM 01/12/2003 MEM @ SAC L 32 13 6 13 46.2 0 0 - 1 4 25.0 3 6 9 0 2 3 2 2 3
+p454
+aVLorenzen Wright MEM 01/12/2003 MEM @ SAC L 23 4 2 8 25.0 0 0 - 0 0 - 1 4 5 2 0 1 2 1 -15
+p455
+aVGordan Giricek MEM 01/12/2003 MEM @ SAC L 18 5 2 9 22.2 0 4 0.0 1 1 100.0 1 2 3 1 0 0 1 0 -3
+p456
+aVJason Williams MEM 01/12/2003 MEM @ SAC L 30 13 5 13 38.5 0 4 0.0 3 3 100.0 0 2 2 7 3 0 1 0 -17
+p457
+aVMike Batiste MEM 01/10/2003 MEM @ PHX L 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p458
+aVGordan Giricek MEM 01/10/2003 MEM @ PHX L 36 13 5 13 38.5 1 5 20.0 2 2 100.0 1 3 4 1 0 0 3 4 6
+p459
+aVStromile Swift MEM 01/10/2003 MEM @ PHX L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p460
+aVDrew Gooden MEM 01/10/2003 MEM @ PHX L 16 8 4 11 36.4 0 0 - 0 0 - 0 1 1 1 1 0 2 2 -9
+p461
+aVPau Gasol MEM 01/10/2003 MEM @ PHX L 38 22 9 18 50.0 0 0 - 4 6 66.7 3 8 11 3 0 2 4 1 0
+p462
+aVJason Williams MEM 01/10/2003 MEM @ PHX L 31 15 6 12 50.0 1 4 25.0 2 2 100.0 2 1 3 6 3 1 1 2 -1
+p463
+aVLorenzen Wright MEM 01/10/2003 MEM @ PHX L 36 12 6 12 50.0 0 1 0.0 0 0 - 0 6 6 1 0 1 0 4 -3
+p464
+aVBrevin Knight MEM 01/10/2003 MEM @ PHX L 17 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 6 2 1 1 2 -5
+p465
+aVShane Battier MEM 01/10/2003 MEM @ PHX L 39 10 4 6 66.7 2 4 50.0 0 0 - 3 1 4 2 2 3 0 4 -2
+p466
+aVEarl Watson MEM 01/10/2003 MEM @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p467
+aVMike Batiste MEM 01/08/2003 MEM @ LAC L 13 5 2 4 50.0 0 1 0.0 1 1 100.0 1 4 5 0 0 0 1 3 -3
+p468
+aVShane Battier MEM 01/08/2003 MEM @ LAC L 33 11 2 9 22.2 2 5 40.0 5 5 100.0 2 1 3 0 0 1 3 2 -3
+p469
+aVGordan Giricek MEM 01/08/2003 MEM @ LAC L 20 10 3 8 37.5 1 2 50.0 3 4 75.0 1 1 2 1 0 0 1 2 -15
+p470
+aVBrevin Knight MEM 01/08/2003 MEM @ LAC L 18 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 3 0 0 2 2 0
+p471
+aVStromile Swift MEM 01/08/2003 MEM @ LAC L 18 6 3 6 50.0 0 0 - 0 1 0.0 1 4 5 1 0 0 0 0 -1
+p472
+aVDrew Gooden MEM 01/08/2003 MEM @ LAC L 27 14 6 12 50.0 0 1 0.0 2 2 100.0 3 5 8 0 0 0 2 1 7
+p473
+aVEarl Watson MEM 01/08/2003 MEM @ LAC L 16 6 3 6 50.0 0 0 - 0 0 - 4 0 4 1 1 0 2 2 -5
+p474
+aVPau Gasol MEM 01/08/2003 MEM @ LAC L 32 23 9 13 69.2 0 0 - 5 6 83.3 3 7 10 2 1 4 2 2 -3
+p475
+aVJason Williams MEM 01/08/2003 MEM @ LAC L 30 9 4 12 33.3 1 5 20.0 0 0 - 0 2 2 7 0 0 2 2 -8
+p476
+aVLorenzen Wright MEM 01/08/2003 MEM @ LAC L 32 10 5 11 45.5 0 1 0.0 0 0 - 4 6 10 0 0 0 1 3 -9
+p477
+aVShane Battier MEM 01/06/2003 MEM vs. NOH W 40 13 5 7 71.4 3 4 75.0 0 0 - 2 6 8 2 3 4 1 2 12
+p478
+aVJason Williams MEM 01/06/2003 MEM vs. NOH W 39 28 10 17 58.8 4 8 50.0 4 8 50.0 1 6 7 14 1 0 4 2 13
+p479
+aVEarl Watson MEM 01/06/2003 MEM vs. NOH W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 5 4 0 2 2 1
+p480
+aVMike Batiste MEM 01/06/2003 MEM vs. NOH W 8 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 1 0 -7
+p481
+aVLorenzen Wright MEM 01/06/2003 MEM vs. NOH W 38 20 9 16 56.3 0 0 - 2 5 40.0 3 11 14 1 0 1 3 0 15
+p482
+aVDrew Gooden MEM 01/06/2003 MEM vs. NOH W 19 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 1 1 0 2 2 -10
+p483
+aVGordan Giricek MEM 01/06/2003 MEM vs. NOH W 33 9 3 10 30.0 0 3 0.0 3 3 100.0 1 1 2 0 0 0 2 4 -4
+p484
+aVStromile Swift MEM 01/06/2003 MEM vs. NOH W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -14
+p485
+aVPau Gasol MEM 01/06/2003 MEM vs. NOH W 39 24 7 14 50.0 0 0 - 10 12 83.3 1 6 7 2 1 0 3 2 14
+p486
+aVRobert Archibald MEM 01/03/2003 MEM vs. LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p487
+aVStromile Swift MEM 01/03/2003 MEM vs. LAC W 11 4 2 5 40.0 0 0 - 0 2 0.0 2 1 3 1 0 0 0 4 -16
+p488
+aVPau Gasol MEM 01/03/2003 MEM vs. LAC W 38 16 4 8 50.0 0 0 - 8 10 80.0 6 7 13 3 1 1 5 2 8
+p489
+aVShane Battier MEM 01/03/2003 MEM vs. LAC W 37 9 3 6 50.0 1 1 100.0 2 2 100.0 2 1 3 0 0 1 0 1 13
+p490
+aVDrew Gooden MEM 01/03/2003 MEM vs. LAC W 18 12 5 13 38.5 0 2 0.0 2 2 100.0 2 2 4 1 0 0 2 0 -10
+p491
+aVJason Williams MEM 01/03/2003 MEM vs. LAC W 38 17 7 13 53.8 3 6 50.0 0 0 - 0 1 1 13 3 0 1 0 14
+p492
+aVMike Batiste MEM 01/03/2003 MEM vs. LAC W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -3
+p493
+aVEarl Watson MEM 01/03/2003 MEM vs. LAC W 13 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 3 -6
+p494
+aVLorenzen Wright MEM 01/03/2003 MEM vs. LAC W 32 15 5 7 71.4 0 0 - 5 8 62.5 1 12 13 0 2 1 3 5 32
+p495
+aVBrevin Knight MEM 01/03/2003 MEM vs. LAC W 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 0 0 1 3 -9
+p496
+aVGordan Giricek MEM 01/03/2003 MEM vs. LAC W 33 31 13 24 54.2 2 5 40.0 3 4 75.0 1 4 5 3 0 0 1 2 7
+p497
+aVMike Batiste MEM 12/31/2002 MEM @ BOS L 10 2 1 6 16.7 0 1 0.0 0 2 0.0 1 0 1 0 0 0 1 1 -18
+p498
+aVEarl Watson MEM 12/31/2002 MEM @ BOS L 13 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 0 0 2 0 -20
+p499
+aVDrew Gooden MEM 12/31/2002 MEM @ BOS L 11 9 4 8 50.0 0 1 0.0 1 2 50.0 0 1 1 1 1 0 2 1 -20
+p500
+aVShane Battier MEM 12/31/2002 MEM @ BOS L 37 11 5 9 55.6 1 3 33.3 0 0 - 3 6 9 2 1 0 2 3 13
+p501
+aVLorenzen Wright MEM 12/31/2002 MEM @ BOS L 38 15 6 8 75.0 0 0 - 3 3 100.0 4 8 12 2 0 1 1 2 11
+p502
+aVJason Williams MEM 12/31/2002 MEM @ BOS L 38 13 5 17 29.4 3 11 27.3 0 0 - 1 8 9 6 1 0 4 2 14
+p503
+aVGordan Giricek MEM 12/31/2002 MEM @ BOS L 35 17 6 15 40.0 1 6 16.7 4 6 66.7 0 5 5 2 2 0 1 2 13
+p504
+aVPau Gasol MEM 12/31/2002 MEM @ BOS L 38 18 6 12 50.0 0 1 0.0 6 7 85.7 1 6 7 0 0 2 4 3 11
+p505
+aVStromile Swift MEM 12/31/2002 MEM @ BOS L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -18
+p506
+aVBrevin Knight MEM 12/31/2002 MEM @ BOS L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 1 0 1 1 -21
+p507
+aVPau Gasol MEM 12/27/2002 MEM vs. ORL W 29 12 4 6 66.7 0 0 - 4 9 44.4 1 9 10 3 1 1 1 0 4
+p508
+aVBrevin Knight MEM 12/27/2002 MEM vs. ORL W 19 2 1 6 16.7 0 0 - 0 0 - 0 2 2 9 3 0 2 1 9
+p509
+aVStromile Swift MEM 12/27/2002 MEM vs. ORL W 22 13 4 9 44.4 0 0 - 5 6 83.3 2 5 7 1 0 0 1 3 10
+p510
+aVShane Battier MEM 12/27/2002 MEM vs. ORL W 27 4 2 5 40.0 0 3 0.0 0 0 - 2 3 5 1 1 2 0 2 4
+p511
+aVGordan Giricek MEM 12/27/2002 MEM vs. ORL W 27 18 6 14 42.9 4 6 66.7 2 3 66.7 1 4 5 3 0 0 0 1 4
+p512
+aVMike Batiste MEM 12/27/2002 MEM vs. ORL W 19 13 5 10 50.0 1 3 33.3 2 2 100.0 2 5 7 1 0 0 0 0 9
+p513
+aVDrew Gooden MEM 12/27/2002 MEM vs. ORL W 21 8 4 10 40.0 0 3 0.0 0 0 - 1 1 2 2 3 0 2 2 9
+p514
+aVLorenzen Wright MEM 12/27/2002 MEM vs. ORL W 26 11 4 8 50.0 0 0 - 3 4 75.0 5 3 8 2 0 1 1 1 3
+p515
+aVEarl Watson MEM 12/27/2002 MEM vs. ORL W 22 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 3 0 0 1 2 9
+p516
+aVJason Williams MEM 12/27/2002 MEM vs. ORL W 29 12 4 9 44.4 3 7 42.9 1 2 50.0 0 2 2 7 1 0 4 2 4
+p517
+aVBrevin Knight MEM 12/22/2002 MEM vs. UTA L 19 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 3 3 0 1 4 -13
+p518
+aVCezary Trybanski MEM 12/22/2002 MEM vs. UTA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 4
+p519
+aVShane Battier MEM 12/22/2002 MEM vs. UTA L 25 11 4 11 36.4 2 3 66.7 1 2 50.0 1 2 3 1 0 1 0 2 -9
+p520
+aVPau Gasol MEM 12/22/2002 MEM vs. UTA L 29 9 2 5 40.0 0 1 0.0 5 8 62.5 1 4 5 0 0 1 3 4 -35
+p521
+aVLorenzen Wright MEM 12/22/2002 MEM vs. UTA L 25 6 3 6 50.0 0 0 - 0 2 0.0 3 7 10 0 0 0 3 3 -22
+p522
+aVDrew Gooden MEM 12/22/2002 MEM vs. UTA L 23 5 2 6 33.3 1 2 50.0 0 0 - 3 2 5 2 0 1 5 5 -20
+p523
+aVWesley Person MEM 12/22/2002 MEM vs. UTA L 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 0 0 1 -17
+p524
+aVMike Batiste MEM 12/22/2002 MEM vs. UTA L 14 10 5 9 55.6 0 1 0.0 0 1 0.0 1 2 3 1 1 0 0 2 4
+p525
+aVEarl Watson MEM 12/22/2002 MEM vs. UTA L 16 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 4 2 0 1 2 1
+p526
+aVStromile Swift MEM 12/22/2002 MEM vs. UTA L 23 8 2 7 28.6 0 0 - 4 8 50.0 5 1 6 0 1 0 1 1 -9
+p527
+aVJason Williams MEM 12/22/2002 MEM vs. UTA L 25 5 2 10 20.0 1 5 20.0 0 0 - 0 0 0 9 0 0 1 5 -13
+p528
+aVGordan Giricek MEM 12/22/2002 MEM vs. UTA L 19 5 1 8 12.5 1 2 50.0 2 2 100.0 0 0 0 0 0 0 4 2 -16
+p529
+aVLorenzen Wright MEM 12/20/2002 MEM vs. MIL W 28 8 3 6 50.0 0 1 0.0 2 2 100.0 1 5 6 2 2 0 2 3 10
+p530
+aVDrew Gooden MEM 12/20/2002 MEM vs. MIL W 29 13 6 14 42.9 1 2 50.0 0 0 - 2 7 9 0 1 0 4 3 7
+p531
+aVShane Battier MEM 12/20/2002 MEM vs. MIL W 19 3 1 3 33.3 1 3 33.3 0 0 - 0 6 6 0 0 3 0 2 4
+p532
+aVMike Batiste MEM 12/20/2002 MEM vs. MIL W 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -7
+p533
+aVWesley Person MEM 12/20/2002 MEM vs. MIL W 34 23 8 12 66.7 4 4 100.0 3 3 100.0 1 1 2 1 0 0 2 0 13
+p534
+aVStromile Swift MEM 12/20/2002 MEM vs. MIL W 22 11 4 9 44.4 0 0 - 3 3 100.0 1 4 5 3 1 1 3 2 2
+p535
+aVBrevin Knight MEM 12/20/2002 MEM vs. MIL W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 1 3 -3
+p536
+aVGordan Giricek MEM 12/20/2002 MEM vs. MIL W 14 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 3 1 -2
+p537
+aVPau Gasol MEM 12/20/2002 MEM vs. MIL W 38 18 7 11 63.6 0 0 - 4 5 80.0 2 12 14 7 0 1 0 2 17
+p538
+aVJason Williams MEM 12/20/2002 MEM vs. MIL W 34 11 3 11 27.3 3 7 42.9 2 2 100.0 0 5 5 13 1 0 3 3 14
+p539
+aVDrew Gooden MEM 12/18/2002 MEM @ WAS L 28 19 8 13 61.5 0 0 - 3 3 100.0 3 2 5 0 1 0 1 2 1
+p540
+aVMike Batiste MEM 12/18/2002 MEM @ WAS L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -1
+p541
+aVLorenzen Wright MEM 12/18/2002 MEM @ WAS L 32 12 6 11 54.5 0 0 - 0 0 - 2 5 7 2 1 2 0 3 -10
+p542
+aVWesley Person MEM 12/18/2002 MEM @ WAS L 29 6 3 8 37.5 0 0 - 0 0 - 0 0 0 2 0 1 0 2 1
+p543
+aVJason Williams MEM 12/18/2002 MEM @ WAS L 31 10 3 5 60.0 2 4 50.0 2 2 100.0 0 4 4 11 0 0 1 2 -2
+p544
+aVStromile Swift MEM 12/18/2002 MEM @ WAS L 14 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -14
+p545
+aVBrevin Knight MEM 12/18/2002 MEM @ WAS L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -14
+p546
+aVGordan Giricek MEM 12/18/2002 MEM @ WAS L 19 5 2 10 20.0 0 2 0.0 1 1 100.0 1 1 2 4 0 0 1 2 -19
+p547
+aVPau Gasol MEM 12/18/2002 MEM @ WAS L 38 25 10 15 66.7 0 0 - 5 6 83.3 1 2 3 2 1 0 4 3 -11
+p548
+aVEarl Watson MEM 12/18/2002 MEM @ WAS L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -2
+p549
+aVShane Battier MEM 12/18/2002 MEM @ WAS L 21 9 3 5 60.0 2 3 66.7 1 2 50.0 1 1 2 1 1 1 1 1 -19
+p550
+aVPau Gasol MEM 12/16/2002 MEM vs. GSW W 36 18 5 13 38.5 0 0 - 8 9 88.9 2 6 8 0 1 2 3 2 17
+p551
+aVLorenzen Wright MEM 12/16/2002 MEM vs. GSW W 28 15 5 8 62.5 0 0 - 5 8 62.5 3 9 12 2 1 3 0 2 11
+p552
+aVDrew Gooden MEM 12/16/2002 MEM vs. GSW W 22 13 6 11 54.5 0 2 0.0 1 1 100.0 3 2 5 1 0 0 1 1 -6
+p553
+aVGordan Giricek MEM 12/16/2002 MEM vs. GSW W 19 18 7 11 63.6 4 6 66.7 0 0 - 0 0 0 1 0 0 2 2 8
+p554
+aVWesley Person MEM 12/16/2002 MEM vs. GSW W 29 13 4 14 28.6 3 9 33.3 2 3 66.7 1 5 6 1 0 0 2 2 5
+p555
+aVMike Batiste MEM 12/16/2002 MEM vs. GSW W 12 4 2 5 40.0 0 0 - 0 0 - 1 4 5 1 0 0 0 1 -4
+p556
+aVEarl Watson MEM 12/16/2002 MEM vs. GSW W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 9 2 0 2 0 7
+p557
+aVStromile Swift MEM 12/16/2002 MEM vs. GSW W 20 12 5 8 62.5 0 0 - 2 2 100.0 1 7 8 0 0 1 2 2 2
+p558
+aVJason Williams MEM 12/16/2002 MEM vs. GSW W 30 6 2 9 22.2 2 5 40.0 0 0 - 0 1 1 13 0 0 2 2 6
+p559
+aVShane Battier MEM 12/16/2002 MEM vs. GSW W 26 3 1 2 50.0 1 1 100.0 0 2 0.0 3 5 8 2 1 4 0 5 19
+p560
+aVShane Battier MEM 12/14/2002 MEM @ DAL L 34 13 4 6 66.7 3 4 75.0 2 2 100.0 1 5 6 1 1 0 0 5 -5
+p561
+aVDrew Gooden MEM 12/14/2002 MEM @ DAL L 14 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 0 0 0 1 1 -12
+p562
+aVStromile Swift MEM 12/14/2002 MEM @ DAL L 27 10 4 12 33.3 0 0 - 2 2 100.0 0 7 7 1 1 2 3 1 5
+p563
+aVWesley Person MEM 12/14/2002 MEM @ DAL L 21 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 1 -22
+p564
+aVCezary Trybanski MEM 12/14/2002 MEM @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p565
+aVLorenzen Wright MEM 12/14/2002 MEM @ DAL L 21 6 3 11 27.3 0 0 - 0 0 - 4 3 7 1 0 0 1 1 -22
+p566
+aVMike Batiste MEM 12/14/2002 MEM @ DAL L 23 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 3
+p567
+aVEarl Watson MEM 12/14/2002 MEM @ DAL L 25 7 3 5 60.0 0 0 - 1 2 50.0 0 5 5 6 2 0 2 1 -2
+p568
+aVPau Gasol MEM 12/14/2002 MEM @ DAL L 22 16 4 6 66.7 0 0 - 8 9 88.9 0 3 3 1 0 2 3 2 -25
+p569
+aVJason Williams MEM 12/14/2002 MEM @ DAL L 21 12 5 13 38.5 1 5 20.0 1 1 100.0 0 1 1 4 2 0 1 3 -12
+p570
+aVGordan Giricek MEM 12/14/2002 MEM @ DAL L 27 17 5 7 71.4 2 2 100.0 5 6 83.3 0 3 3 4 0 0 3 3 5
+p571
+aVWesley Person MEM 12/13/2002 MEM vs. HOU W 40 21 7 12 58.3 5 8 62.5 2 3 66.7 0 2 2 1 0 0 0 2 14
+p572
+aVShane Battier MEM 12/13/2002 MEM vs. HOU W 24 4 2 4 50.0 0 2 0.0 0 1 0.0 3 4 7 2 1 0 0 2 -2
+p573
+aVEarl Watson MEM 12/13/2002 MEM vs. HOU W 11 4 2 2 100.0 0 0 - 0 0 - 0 2 2 4 1 0 1 2 -6
+p574
+aVMike Batiste MEM 12/13/2002 MEM vs. HOU W 11 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -9
+p575
+aVDrew Gooden MEM 12/13/2002 MEM vs. HOU W 29 6 2 7 28.6 0 2 0.0 2 2 100.0 2 3 5 1 0 0 2 6 7
+p576
+aVGordan Giricek MEM 12/13/2002 MEM vs. HOU W 13 4 1 6 16.7 1 3 33.3 1 2 50.0 0 2 2 0 0 0 1 1 -9
+p577
+aVJason Williams MEM 12/13/2002 MEM vs. HOU W 42 25 11 22 50.0 3 8 37.5 0 0 - 1 1 2 12 2 0 1 3 11
+p578
+aVPau Gasol MEM 12/13/2002 MEM vs. HOU W 42 29 7 14 50.0 0 0 - 15 16 93.8 4 8 12 2 0 2 3 2 11
+p579
+aVStromile Swift MEM 12/13/2002 MEM vs. HOU W 21 11 3 6 50.0 0 0 - 5 6 83.3 1 2 3 0 1 2 1 2 -3
+p580
+aVLorenzen Wright MEM 12/13/2002 MEM vs. HOU W 31 6 3 9 33.3 0 0 - 0 0 - 1 8 9 0 1 3 3 4 11
+p581
+aVWesley Person MEM 12/11/2002 MEM vs. DEN W 34 14 4 8 50.0 3 4 75.0 3 4 75.0 0 3 3 2 1 0 2 1 12
+p582
+aVMike Batiste MEM 12/11/2002 MEM vs. DEN W 10 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -9
+p583
+aVLorenzen Wright MEM 12/11/2002 MEM vs. DEN W 35 14 5 9 55.6 0 0 - 4 8 50.0 1 5 6 0 0 0 2 6 0
+p584
+aVGordan Giricek MEM 12/11/2002 MEM vs. DEN W 14 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -9
+p585
+aVPau Gasol MEM 12/11/2002 MEM vs. DEN W 40 18 7 17 41.2 0 1 0.0 4 5 80.0 2 8 10 2 0 2 2 1 9
+p586
+aVEarl Watson MEM 12/11/2002 MEM vs. DEN W 16 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 2 1 0 1 3 -5
+p587
+aVStromile Swift MEM 12/11/2002 MEM vs. DEN W 21 10 3 3 100.0 0 0 - 4 4 100.0 2 4 6 1 2 3 2 2 -3
+p588
+aVJason Williams MEM 12/11/2002 MEM vs. DEN W 32 16 4 8 50.0 2 4 50.0 6 6 100.0 0 4 4 9 0 0 4 1 8
+p589
+aVDrew Gooden MEM 12/11/2002 MEM vs. DEN W 38 14 5 11 45.5 4 4 100.0 0 0 - 1 3 4 3 2 3 5 1 12
+p590
+aVPau Gasol MEM 12/10/2002 MEM @ MIA W 41 24 9 15 60.0 0 0 - 6 9 66.7 0 6 6 7 1 3 2 2 16
+p591
+aVWesley Person MEM 12/10/2002 MEM @ MIA W 37 24 8 11 72.7 3 3 100.0 5 5 100.0 0 3 3 3 2 0 1 3 16
+p592
+aVLorenzen Wright MEM 12/10/2002 MEM @ MIA W 41 15 6 10 60.0 0 0 - 3 3 100.0 1 3 4 0 0 1 1 1 10
+p593
+aVDrew Gooden MEM 12/10/2002 MEM @ MIA W 35 25 11 14 78.6 1 1 100.0 2 5 40.0 0 9 9 1 0 0 1 1 19
+p594
+aVEarl Watson MEM 12/10/2002 MEM @ MIA W 14 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 4 0 1 0 0 -3
+p595
+aVGordan Giricek MEM 12/10/2002 MEM @ MIA W 11 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 1 3 -5
+p596
+aVMike Batiste MEM 12/10/2002 MEM @ MIA W 13 0 0 4 0.0 0 1 0.0 0 0 - 2 4 6 0 0 0 0 1 -8
+p597
+aVStromile Swift MEM 12/10/2002 MEM @ MIA W 15 4 0 3 0.0 0 0 - 4 4 100.0 1 3 4 1 0 0 0 0 -4
+p598
+aVBrevin Knight MEM 12/10/2002 MEM @ MIA W 34 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 14 1 0 3 5 14
+p599
+aVBrevin Knight MEM 12/08/2002 MEM vs. PHX W 33 9 4 9 44.4 0 0 - 1 1 100.0 0 2 2 11 5 0 5 4 13
+p600
+aVEarl Watson MEM 12/08/2002 MEM vs. PHX W 15 8 3 4 75.0 0 1 0.0 2 2 100.0 0 1 1 3 1 0 1 2 -5
+p601
+aVPau Gasol MEM 12/08/2002 MEM vs. PHX W 37 21 7 12 58.3 0 0 - 7 11 63.6 4 13 17 4 0 3 3 1 15
+p602
+aVMike Batiste MEM 12/08/2002 MEM vs. PHX W 36 14 4 9 44.4 1 4 25.0 5 7 71.4 2 3 5 4 0 2 3 2 12
+p603
+aVLorenzen Wright MEM 12/08/2002 MEM vs. PHX W 29 17 7 13 53.8 0 0 - 3 3 100.0 2 9 11 1 1 2 1 1 18
+p604
+aVGordan Giricek MEM 12/08/2002 MEM vs. PHX W 19 6 2 6 33.3 0 1 0.0 2 3 66.7 1 2 3 2 1 0 6 2 -9
+p605
+aVDrew Gooden MEM 12/08/2002 MEM vs. PHX W 19 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 0 0 4 3 -10
+p606
+aVStromile Swift MEM 12/08/2002 MEM vs. PHX W 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 3 2 -7
+p607
+aVWesley Person MEM 12/08/2002 MEM vs. PHX W 41 17 6 11 54.5 4 7 57.1 1 1 100.0 0 1 1 1 0 0 2 1 13
+p608
+aVEarl Watson MEM 12/06/2002 MEM @ UTA L 16 2 1 7 14.3 0 1 0.0 0 0 - 3 1 4 2 2 0 1 2 -8
+p609
+aVStromile Swift MEM 12/06/2002 MEM @ UTA L 24 16 4 9 44.4 0 0 - 8 10 80.0 4 2 6 0 1 0 2 1 -9
+p610
+aVLorenzen Wright MEM 12/06/2002 MEM @ UTA L 33 14 6 15 40.0 0 0 - 2 2 100.0 3 3 6 1 1 1 2 3 -25
+p611
+aVGordan Giricek MEM 12/06/2002 MEM @ UTA L 19 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 0 1 0 2 2 -13
+p612
+aVJason Williams MEM 12/06/2002 MEM @ UTA L 25 4 1 5 20.0 0 3 0.0 2 2 100.0 2 0 2 1 3 0 8 0 -27
+p613
+aVCezary Trybanski MEM 12/06/2002 MEM @ UTA L 7 5 2 4 50.0 0 0 - 1 3 33.3 0 1 1 0 0 0 1 1 2
+p614
+aVWesley Person MEM 12/06/2002 MEM @ UTA L 36 12 4 7 57.1 1 1 100.0 3 3 100.0 1 2 3 3 1 0 2 2 -19
+p615
+aVBrevin Knight MEM 12/06/2002 MEM @ UTA L 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 2 2 2
+p616
+aVMike Batiste MEM 12/06/2002 MEM @ UTA L 41 4 2 11 18.2 0 3 0.0 0 0 - 2 2 4 5 2 1 1 2 -34
+p617
+aVPau Gasol MEM 12/06/2002 MEM @ UTA L 32 6 2 7 28.6 0 0 - 2 7 28.6 1 7 8 1 0 0 2 0 -34
+p618
+aVLorenzen Wright MEM 12/04/2002 MEM @ PHX L 22 11 5 11 45.5 0 0 - 1 1 100.0 4 4 8 1 0 0 2 1 -19
+p619
+aVWesley Person MEM 12/04/2002 MEM @ PHX L 15 5 2 6 33.3 1 2 50.0 0 2 0.0 0 0 0 1 0 0 1 1 -9
+p620
+aVDrew Gooden MEM 12/04/2002 MEM @ PHX L 26 12 6 13 46.2 0 0 - 0 2 0.0 3 6 9 3 2 3 2 3 6
+p621
+aVJason Williams MEM 12/04/2002 MEM @ PHX L 36 5 1 7 14.3 1 4 25.0 2 2 100.0 0 2 2 8 1 0 0 3 -7
+p622
+aVEarl Watson MEM 12/04/2002 MEM @ PHX L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 2 -6
+p623
+aVShane Battier MEM 12/04/2002 MEM @ PHX L 22 8 3 6 50.0 0 1 0.0 2 2 100.0 3 2 5 1 0 2 0 3 8
+p624
+aVMike Batiste MEM 12/04/2002 MEM @ PHX L 26 11 3 12 25.0 1 4 25.0 4 4 100.0 0 6 6 0 0 0 0 1 -21
+p625
+aVStromile Swift MEM 12/04/2002 MEM @ PHX L 16 6 3 8 37.5 0 0 - 0 2 0.0 2 1 3 2 2 1 1 3 -11
+p626
+aVGordan Giricek MEM 12/04/2002 MEM @ PHX L 33 18 8 14 57.1 2 3 66.7 0 0 - 0 2 2 0 0 0 3 0 -4
+p627
+aVPau Gasol MEM 12/04/2002 MEM @ PHX L 32 9 3 8 37.5 0 0 - 3 4 75.0 1 9 10 6 0 1 2 2 -2
+p628
+aVMike Batiste MEM 12/03/2002 MEM @ LAL L 20 10 4 10 40.0 2 3 66.7 0 0 - 3 1 4 0 1 0 1 1 2
+p629
+aVShane Battier MEM 12/03/2002 MEM @ LAL L 28 11 4 6 66.7 1 2 50.0 2 2 100.0 1 1 2 3 1 2 0 2 -12
+p630
+aVPau Gasol MEM 12/03/2002 MEM @ LAL L 29 11 4 12 33.3 0 0 - 3 4 75.0 3 6 9 3 1 2 3 4 -16
+p631
+aVLorenzen Wright MEM 12/03/2002 MEM @ LAL L 24 17 7 15 46.7 0 0 - 3 4 75.0 2 6 8 1 0 0 1 5 3
+p632
+aVEarl Watson MEM 12/03/2002 MEM @ LAL L 22 4 1 6 16.7 0 1 0.0 2 2 100.0 1 0 1 7 0 0 0 1 2
+p633
+aVStromile Swift MEM 12/03/2002 MEM @ LAL L 21 5 1 2 50.0 0 0 - 3 4 75.0 1 5 6 3 1 1 1 2 4
+p634
+aVGordan Giricek MEM 12/03/2002 MEM @ LAL L 20 9 4 11 36.4 1 3 33.3 0 0 - 0 2 2 1 1 0 0 2 -14
+p635
+aVJason Williams MEM 12/03/2002 MEM @ LAL L 26 0 0 6 0.0 0 4 0.0 0 0 - 0 2 2 5 1 0 3 1 -12
+p636
+aVDrew Gooden MEM 12/03/2002 MEM @ LAL L 22 11 4 12 33.3 1 2 50.0 2 3 66.7 2 3 5 1 1 0 2 2 -11
+p637
+aVWesley Person MEM 12/03/2002 MEM @ LAL L 28 13 5 11 45.5 2 4 50.0 1 1 100.0 1 1 2 2 3 0 0 0 4
+p638
+aVPau Gasol MEM 12/01/2002 MEM vs. TOR L 29 11 5 13 38.5 0 0 - 1 2 50.0 2 8 10 1 0 2 2 2 -17
+p639
+aVShane Battier MEM 12/01/2002 MEM vs. TOR L 31 14 6 8 75.0 2 3 66.7 0 0 - 5 3 8 0 0 0 1 1 -14
+p640
+aVEarl Watson MEM 12/01/2002 MEM vs. TOR L 19 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 5 0 0 1 3 12
+p641
+aVWesley Person MEM 12/01/2002 MEM vs. TOR L 24 6 2 6 33.3 1 2 50.0 1 1 100.0 0 1 1 0 0 0 2 1 0
+p642
+aVMike Batiste MEM 12/01/2002 MEM vs. TOR L 17 10 5 7 71.4 0 0 - 0 0 - 1 2 3 0 0 0 0 1 9
+p643
+aVGordan Giricek MEM 12/01/2002 MEM vs. TOR L 24 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 1 0 0 2 2 -5
+p644
+aVDrew Gooden MEM 12/01/2002 MEM vs. TOR L 27 9 4 17 23.5 0 0 - 1 2 50.0 0 4 4 0 1 1 1 5 -11
+p645
+aVStromile Swift MEM 12/01/2002 MEM vs. TOR L 20 7 2 5 40.0 0 0 - 3 4 75.0 0 5 5 1 1 4 1 0 8
+p646
+aVJason Williams MEM 12/01/2002 MEM vs. TOR L 29 11 4 6 66.7 2 3 66.7 1 1 100.0 0 1 1 6 2 0 0 3 -17
+p647
+aVLorenzen Wright MEM 12/01/2002 MEM vs. TOR L 20 8 4 11 36.4 0 0 - 0 0 - 4 4 8 1 0 1 2 1 10
+p648
+aVShane Battier MEM 11/29/2002 MEM vs. LAL L 39 5 2 6 33.3 0 1 0.0 1 1 100.0 3 4 7 2 0 1 1 3 -11
+p649
+aVDrew Gooden MEM 11/29/2002 MEM vs. LAL L 39 19 8 16 50.0 1 2 50.0 2 2 100.0 4 6 10 4 0 2 3 4 -10
+p650
+aVGordan Giricek MEM 11/29/2002 MEM vs. LAL L 26 8 3 9 33.3 0 2 0.0 2 2 100.0 0 2 2 2 1 0 2 4 -10
+p651
+aVMike Batiste MEM 11/29/2002 MEM vs. LAL L 14 6 3 4 75.0 0 1 0.0 0 0 - 0 3 3 0 1 0 2 1 5
+p652
+aVWesley Person MEM 11/29/2002 MEM vs. LAL L 27 11 4 7 57.1 2 4 50.0 1 1 100.0 1 3 4 1 0 0 1 1 4
+p653
+aVEarl Watson MEM 11/29/2002 MEM vs. LAL L 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 7 2 1 1 0 5
+p654
+aVPau Gasol MEM 11/29/2002 MEM vs. LAL L 38 24 7 16 43.8 0 1 0.0 10 12 83.3 2 5 7 2 0 0 6 6 -9
+p655
+aVLorenzen Wright MEM 11/29/2002 MEM vs. LAL L 15 7 3 8 37.5 0 1 0.0 1 1 100.0 0 5 5 3 0 0 3 4 3
+p656
+aVStromile Swift MEM 11/29/2002 MEM vs. LAL L 14 8 4 4 100.0 0 0 - 0 2 0.0 1 1 2 0 1 1 0 0 4
+p657
+aVJason Williams MEM 11/29/2002 MEM vs. LAL L 39 16 5 15 33.3 4 11 36.4 2 2 100.0 0 3 3 8 1 0 1 3 -11
+p658
+aVMike Batiste MEM 11/27/2002 MEM vs. SEA W 17 0 0 5 0.0 0 1 0.0 0 0 - 0 4 4 2 0 0 4 1 -7
+p659
+aVWesley Person MEM 11/27/2002 MEM vs. SEA W 19 14 5 8 62.5 3 6 50.0 1 1 100.0 0 0 0 3 1 0 0 1 -6
+p660
+aVEarl Watson MEM 11/27/2002 MEM vs. SEA W 17 6 3 5 60.0 0 0 - 0 0 - 0 1 1 3 2 0 3 1 -4
+p661
+aVPau Gasol MEM 11/27/2002 MEM vs. SEA W 35 14 6 10 60.0 0 0 - 2 2 100.0 1 6 7 4 0 2 2 2 22
+p662
+aVDrew Gooden MEM 11/27/2002 MEM vs. SEA W 33 23 10 14 71.4 1 2 50.0 2 2 100.0 3 5 8 3 0 1 4 1 22
+p663
+aVGordan Giricek MEM 11/27/2002 MEM vs. SEA W 29 12 4 7 57.1 0 3 0.0 4 4 100.0 0 3 3 7 1 0 1 2 24
+p664
+aVStromile Swift MEM 11/27/2002 MEM vs. SEA W 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 2 1 1 2 -4
+p665
+aVJason Williams MEM 11/27/2002 MEM vs. SEA W 31 28 11 17 64.7 5 9 55.6 1 1 100.0 1 1 2 6 4 0 0 2 22
+p666
+aVLorenzen Wright MEM 11/27/2002 MEM vs. SEA W 13 4 2 5 40.0 0 0 - 0 0 - 4 1 5 0 0 0 0 0 -4
+p667
+aVShane Battier MEM 11/27/2002 MEM vs. SEA W 31 12 5 6 83.3 2 2 100.0 0 0 - 1 5 6 2 0 1 1 4 25
+p668
+aVWesley Person MEM 11/23/2002 MEM vs. WAS W 27 14 6 10 60.0 0 1 0.0 2 2 100.0 0 5 5 1 0 0 0 1 8
+p669
+aVShane Battier MEM 11/23/2002 MEM vs. WAS W 25 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 2 2 0 1 1 11
+p670
+aVPau Gasol MEM 11/23/2002 MEM vs. WAS W 31 7 2 5 40.0 0 1 0.0 3 6 50.0 2 13 15 4 0 2 1 2 14
+p671
+aVStromile Swift MEM 11/23/2002 MEM vs. WAS W 21 10 5 7 71.4 0 0 - 0 0 - 1 2 3 1 1 2 1 2 5
+p672
+aVBrevin Knight MEM 11/23/2002 MEM vs. WAS W 24 4 2 5 40.0 0 0 - 0 0 - 0 1 1 5 2 0 2 3 2
+p673
+aVGordan Giricek MEM 11/23/2002 MEM vs. WAS W 21 11 4 9 44.4 0 2 0.0 3 3 100.0 0 0 0 1 1 1 1 2 3
+p674
+aVEarl Watson MEM 11/23/2002 MEM vs. WAS W 24 17 5 7 71.4 1 1 100.0 6 6 100.0 1 0 1 5 0 0 0 0 9
+p675
+aVMike Batiste MEM 11/23/2002 MEM vs. WAS W 18 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -3
+p676
+aVDrew Gooden MEM 11/23/2002 MEM vs. WAS W 23 6 3 6 50.0 0 0 - 0 0 - 1 3 4 2 1 0 5 0 0
+p677
+aVLorenzen Wright MEM 11/23/2002 MEM vs. WAS W 27 10 3 5 60.0 0 0 - 4 6 66.7 0 6 6 0 1 1 3 3 6
+p678
+aVWesley Person MEM 11/22/2002 MEM @ SAS L 28 9 3 9 33.3 1 3 33.3 2 2 100.0 0 1 1 1 0 0 2 0 -14
+p679
+aVShane Battier MEM 11/22/2002 MEM @ SAS L 21 10 4 6 66.7 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 4 6
+p680
+aVGordan Giricek MEM 11/22/2002 MEM @ SAS L 20 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 2 0 1 5 5
+p681
+aVStromile Swift MEM 11/22/2002 MEM @ SAS L 19 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 0 1 2 1 4 -8
+p682
+aVEarl Watson MEM 11/22/2002 MEM @ SAS L 31 8 2 6 33.3 0 0 - 4 4 100.0 2 4 6 6 1 1 2 3 -8
+p683
+aVLorenzen Wright MEM 11/22/2002 MEM @ SAS L 22 9 4 10 40.0 0 0 - 1 4 25.0 1 3 4 0 2 1 1 2 -14
+p684
+aVMike Batiste MEM 11/22/2002 MEM @ SAS L 24 18 7 11 63.6 2 3 66.7 2 2 100.0 2 4 6 0 2 0 0 1 2
+p685
+aVCezary Trybanski MEM 11/22/2002 MEM @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 11
+p686
+aVBrevin Knight MEM 11/22/2002 MEM @ SAS L 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 0 0 3 2 -1
+p687
+aVDrew Gooden MEM 11/22/2002 MEM @ SAS L 27 4 2 9 22.2 0 1 0.0 0 0 - 0 3 3 4 1 0 3 3 -15
+p688
+aVPau Gasol MEM 11/22/2002 MEM @ SAS L 29 12 5 9 55.6 0 0 - 2 2 100.0 2 1 3 1 0 0 1 4 -9
+p689
+aVPau Gasol MEM 11/20/2002 MEM vs. PHI L 30 14 3 7 42.9 0 0 - 8 9 88.9 6 1 7 6 1 3 3 2 3
+p690
+aVDrew Gooden MEM 11/20/2002 MEM vs. PHI L 32 21 9 13 69.2 0 1 0.0 3 4 75.0 5 3 8 1 1 1 3 3 0
+p691
+aVEarl Watson MEM 11/20/2002 MEM vs. PHI L 23 6 3 6 50.0 0 0 - 0 0 - 1 2 3 3 3 1 2 3 -6
+p692
+aVShane Battier MEM 11/20/2002 MEM vs. PHI L 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -7
+p693
+aVMike Batiste MEM 11/20/2002 MEM vs. PHI L 16 8 4 9 44.4 0 1 0.0 0 0 - 2 3 5 0 0 0 3 1 -10
+p694
+aVWesley Person MEM 11/20/2002 MEM vs. PHI L 31 12 4 8 50.0 4 7 57.1 0 0 - 0 3 3 3 0 1 0 0 2
+p695
+aVJason Williams MEM 11/20/2002 MEM vs. PHI L 25 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 4 0 0 2 4 -1
+p696
+aVLorenzen Wright MEM 11/20/2002 MEM vs. PHI L 18 6 1 6 16.7 0 0 - 4 4 100.0 0 0 0 0 0 1 2 1 -7
+p697
+aVStromile Swift MEM 11/20/2002 MEM vs. PHI L 31 12 5 13 38.5 0 0 - 2 4 50.0 7 9 16 1 2 8 1 2 0
+p698
+aVGordan Giricek MEM 11/20/2002 MEM vs. PHI L 17 5 2 12 16.7 0 3 0.0 1 1 100.0 0 3 3 3 0 0 3 2 -9
+p699
+aVStromile Swift MEM 11/19/2002 MEM @ MIN L 30 9 2 8 25.0 0 0 - 5 6 83.3 2 6 8 1 0 2 3 3 -19
+p700
+aVDrew Gooden MEM 11/19/2002 MEM @ MIN L 21 11 4 8 50.0 0 2 0.0 3 4 75.0 1 1 2 1 1 0 0 4 -17
+p701
+aVGordan Giricek MEM 11/19/2002 MEM @ MIN L 25 11 4 11 36.4 0 1 0.0 3 4 75.0 1 1 2 1 0 0 2 3 -19
+p702
+aVEarl Watson MEM 11/19/2002 MEM @ MIN L 20 9 4 8 50.0 1 3 33.3 0 0 - 1 4 5 4 2 0 0 3 17
+p703
+aVShane Battier MEM 11/19/2002 MEM @ MIN L 32 12 5 6 83.3 0 1 0.0 2 2 100.0 2 4 6 2 3 3 0 5 13
+p704
+aVPau Gasol MEM 11/19/2002 MEM @ MIN L 32 12 2 9 22.2 0 0 - 8 10 80.0 2 5 7 3 0 0 1 4 -18
+p705
+aVWesley Person MEM 11/19/2002 MEM @ MIN L 28 5 2 8 25.0 1 2 50.0 0 0 - 1 5 6 2 0 0 2 1 15
+p706
+aVMike Batiste MEM 11/19/2002 MEM @ MIN L 21 12 4 11 36.4 2 6 33.3 2 2 100.0 0 3 3 3 2 0 2 3 12
+p707
+aVLorenzen Wright MEM 11/19/2002 MEM @ MIN L 23 11 5 7 71.4 0 0 - 1 5 20.0 3 2 5 0 0 1 1 3 17
+p708
+aVJason Williams MEM 11/19/2002 MEM @ MIN L 33 14 5 12 41.7 1 4 25.0 3 3 100.0 0 1 1 0 0 1 1 4 -21
+p709
+aVDrew Gooden MEM 11/16/2002 MEM @ CHI L 31 9 4 8 50.0 0 0 - 1 2 50.0 1 6 7 3 1 0 5 5 -14
+p710
+aVWesley Person MEM 11/16/2002 MEM @ CHI L 18 14 6 9 66.7 2 4 50.0 0 0 - 0 3 3 1 0 0 2 0 -3
+p711
+aVPau Gasol MEM 11/16/2002 MEM @ CHI L 28 14 5 7 71.4 0 0 - 4 7 57.1 2 1 3 5 0 3 2 4 -3
+p712
+aVJason Williams MEM 11/16/2002 MEM @ CHI L 36 18 7 14 50.0 1 6 16.7 3 3 100.0 0 0 0 7 1 1 1 1 -14
+p713
+aVShane Battier MEM 11/16/2002 MEM @ CHI L 25 12 5 11 45.5 0 2 0.0 2 2 100.0 1 2 3 1 0 2 1 4 -14
+p714
+aVEarl Watson MEM 11/16/2002 MEM @ CHI L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 2 1 1 0 -4
+p715
+aVCezary Trybanski MEM 11/16/2002 MEM @ CHI L 20 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 2 3 3 -8
+p716
+aVGordan Giricek MEM 11/16/2002 MEM @ CHI L 30 9 4 11 36.4 1 2 50.0 0 0 - 1 4 5 3 1 0 1 3 -15
+p717
+aVStromile Swift MEM 11/16/2002 MEM @ CHI L 20 11 4 4 100.0 0 0 - 3 5 60.0 0 1 1 0 0 0 2 3 6
+p718
+aVLorenzen Wright MEM 11/16/2002 MEM @ CHI L 21 4 2 8 25.0 0 0 - 0 1 0.0 3 2 5 2 0 0 2 5 -21
+p719
+aVLorenzen Wright MEM 11/15/2002 MEM vs. MIN L 23 6 3 6 50.0 0 0 - 0 2 0.0 2 5 7 1 0 1 1 1 -7
+p720
+aVCezary Trybanski MEM 11/15/2002 MEM vs. MIN L 6 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p721
+aVEarl Watson MEM 11/15/2002 MEM vs. MIN L 20 6 3 3 100.0 0 0 - 0 0 - 0 0 0 4 2 0 1 4 0
+p722
+aVJason Williams MEM 11/15/2002 MEM vs. MIN L 28 11 5 12 41.7 1 5 20.0 0 0 - 1 2 3 2 1 0 2 5 -4
+p723
+aVDrew Gooden MEM 11/15/2002 MEM vs. MIN L 35 18 7 17 41.2 0 0 - 4 8 50.0 5 3 8 2 0 0 1 3 -2
+p724
+aVPau Gasol MEM 11/15/2002 MEM vs. MIN L 33 4 2 11 18.2 0 0 - 0 0 - 3 5 8 3 0 2 0 4 -11
+p725
+aVStromile Swift MEM 11/15/2002 MEM vs. MIN L 31 12 4 10 40.0 0 0 - 4 4 100.0 3 6 9 2 0 0 3 2 1
+p726
+aVShane Battier MEM 11/15/2002 MEM vs. MIN L 16 8 2 7 28.6 0 1 0.0 4 4 100.0 4 1 5 0 0 0 3 2 6
+p727
+aVGordan Giricek MEM 11/15/2002 MEM vs. MIN L 31 25 8 13 61.5 1 3 33.3 8 8 100.0 1 4 5 3 2 1 5 3 -4
+p728
+aVWesley Person MEM 11/15/2002 MEM vs. MIN L 17 5 1 7 14.3 1 3 33.3 2 2 100.0 0 3 3 0 0 0 1 1 0
+p729
+aVPau Gasol MEM 11/11/2002 MEM vs. GSW L 42 24 8 20 40.0 1 1 100.0 7 7 100.0 3 4 7 3 0 2 2 3 5
+p730
+aVGordan Giricek MEM 11/11/2002 MEM vs. GSW L 30 21 8 14 57.1 2 2 100.0 3 3 100.0 0 1 1 3 1 1 1 2 -10
+p731
+aVJason Williams MEM 11/11/2002 MEM vs. GSW L 39 7 3 12 25.0 0 4 0.0 1 1 100.0 0 4 4 12 2 1 2 2 2
+p732
+aVShane Battier MEM 11/11/2002 MEM vs. GSW L 19 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 2 -12
+p733
+aVMike Batiste MEM 11/11/2002 MEM vs. GSW L 19 6 2 5 40.0 1 2 50.0 1 2 50.0 1 2 3 0 1 0 0 1 -8
+p734
+aVDrew Gooden MEM 11/11/2002 MEM vs. GSW L 33 15 6 13 46.2 0 0 - 3 4 75.0 5 4 9 2 1 2 2 3 -5
+p735
+aVWesley Person MEM 11/11/2002 MEM vs. GSW L 12 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 0 2 -7
+p736
+aVLorenzen Wright MEM 11/11/2002 MEM vs. GSW L 29 18 7 16 43.8 0 0 - 4 7 57.1 5 1 6 0 1 1 1 3 -5
+p737
+aVEarl Watson MEM 11/11/2002 MEM vs. GSW L 18 4 1 2 50.0 0 0 - 2 4 50.0 1 2 3 1 1 0 0 5 5
+p738
+aVLorenzen Wright MEM 11/09/2002 MEM @ DEN L 17 2 1 6 16.7 0 0 - 0 0 - 2 4 6 2 3 0 1 1 4
+p739
+aVShane Battier MEM 11/09/2002 MEM @ DEN L 21 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 1 2 0 3 4 -10
+p740
+aVEarl Watson MEM 11/09/2002 MEM @ DEN L 20 2 1 4 25.0 0 1 0.0 0 2 0.0 1 3 4 1 0 1 3 2 -1
+p741
+aVPau Gasol MEM 11/09/2002 MEM @ DEN L 37 21 7 11 63.6 0 0 - 7 9 77.8 3 5 8 1 0 3 6 4 -20
+p742
+aVWesley Person MEM 11/09/2002 MEM @ DEN L 25 14 4 8 50.0 3 6 50.0 3 3 100.0 1 2 3 2 1 1 0 3 3
+p743
+aVRobert Archibald MEM 11/09/2002 MEM @ DEN L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 0
+p744
+aVStromile Swift MEM 11/09/2002 MEM @ DEN L 20 4 0 4 0.0 0 0 - 4 6 66.7 2 1 3 1 2 6 0 3 -14
+p745
+aVDrew Gooden MEM 11/09/2002 MEM @ DEN L 38 19 6 15 40.0 0 0 - 7 9 77.8 3 9 12 3 1 2 1 2 13
+p746
+aVJason Williams MEM 11/09/2002 MEM @ DEN L 31 4 1 7 14.3 1 5 20.0 1 2 50.0 0 2 2 5 1 0 2 2 -5
+p747
+aVGordan Giricek MEM 11/09/2002 MEM @ DEN L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -19
+p748
+aVMike Batiste MEM 11/09/2002 MEM @ DEN L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 2 2 3 -2
+p749
+aVBrevin Knight MEM 11/09/2002 MEM @ DEN L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -4
+p750
+aVBrevin Knight MEM 11/08/2002 MEM @ SAC L 25 8 4 8 50.0 0 0 - 0 0 - 1 5 6 8 5 0 5 5 4
+p751
+aVStromile Swift MEM 11/08/2002 MEM @ SAC L 33 12 3 9 33.3 0 0 - 6 9 66.7 4 6 10 0 3 4 4 0 -9
+p752
+aVDrew Gooden MEM 11/08/2002 MEM @ SAC L 30 23 10 19 52.6 0 0 - 3 5 60.0 1 7 8 1 3 0 3 1 3
+p753
+aVGordan Giricek MEM 11/08/2002 MEM @ SAC L 18 6 3 9 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 -10
+p754
+aVLorenzen Wright MEM 11/08/2002 MEM @ SAC L 14 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 1 1 1 1 0 -1
+p755
+aVJason Williams MEM 11/08/2002 MEM @ SAC L 23 11 5 9 55.6 1 4 25.0 0 0 - 1 0 1 5 2 0 1 0 -12
+p756
+aVPau Gasol MEM 11/08/2002 MEM @ SAC L 24 11 5 15 33.3 0 0 - 1 1 100.0 2 1 3 3 1 3 3 1 -17
+p757
+aVShane Battier MEM 11/08/2002 MEM @ SAC L 33 7 3 8 37.5 1 3 33.3 0 0 - 1 4 5 0 3 1 1 4 -17
+p758
+aVWesley Person MEM 11/08/2002 MEM @ SAC L 25 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 1 1 0 1 1 7
+p759
+aVEarl Watson MEM 11/08/2002 MEM @ SAC L 16 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 12
+p760
+aVGordan Giricek MEM 11/06/2002 MEM @ POR L 7 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 0 -7
+p761
+aVDrew Gooden MEM 11/06/2002 MEM @ POR L 33 15 6 15 40.0 0 0 - 3 4 75.0 2 3 5 2 0 0 1 3 7
+p762
+aVShane Battier MEM 11/06/2002 MEM @ POR L 39 6 2 7 28.6 0 1 0.0 2 2 100.0 2 4 6 3 4 1 1 2 -1
+p763
+aVLorenzen Wright MEM 11/06/2002 MEM @ POR L 11 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p764
+aVMike Batiste MEM 11/06/2002 MEM @ POR L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 0 -5
+p765
+aVBrevin Knight MEM 11/06/2002 MEM @ POR L 13 0 0 1 0.0 0 0 - 0 1 0.0 0 0 0 2 2 0 1 4 -7
+p766
+aVStromile Swift MEM 11/06/2002 MEM @ POR L 32 16 8 14 57.1 0 1 0.0 0 0 - 6 3 9 0 0 1 3 1 -18
+p767
+aVEarl Watson MEM 11/06/2002 MEM @ POR L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 3 1 0 1 1 8
+p768
+aVPau Gasol MEM 11/06/2002 MEM @ POR L 42 23 9 16 56.3 0 0 - 5 6 83.3 3 5 8 2 1 1 3 5 -3
+p769
+aVJason Williams MEM 11/06/2002 MEM @ POR L 36 19 7 14 50.0 4 8 50.0 1 1 100.0 0 3 3 11 1 0 2 1 1
+p770
+aVBrevin Knight MEM 11/04/2002 MEM vs. SAS L 13 3 1 6 16.7 0 1 0.0 1 1 100.0 0 2 2 2 0 0 1 1 -7
+p771
+aVEarl Watson MEM 11/04/2002 MEM vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p772
+aVWesley Person MEM 11/04/2002 MEM vs. SAS L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -12
+p773
+aVShane Battier MEM 11/04/2002 MEM vs. SAS L 45 14 6 11 54.5 0 1 0.0 2 3 66.7 2 8 10 0 3 1 1 4 8
+p774
+aVStromile Swift MEM 11/04/2002 MEM vs. SAS L 29 13 3 10 30.0 0 0 - 7 8 87.5 4 6 10 1 3 0 1 6 16
+p775
+aVPau Gasol MEM 11/04/2002 MEM vs. SAS L 45 22 7 14 50.0 0 0 - 8 8 100.0 2 7 9 5 3 6 5 1 -1
+p776
+aVJason Williams MEM 11/04/2002 MEM vs. SAS L 40 19 8 17 47.1 3 8 37.5 0 0 - 0 1 1 9 2 0 2 0 5
+p777
+aVLorenzen Wright MEM 11/04/2002 MEM vs. SAS L 27 8 4 6 66.7 0 0 - 0 2 0.0 2 2 4 0 1 2 1 4 -9
+p778
+aVDrew Gooden MEM 11/04/2002 MEM vs. SAS L 36 14 4 14 28.6 0 0 - 6 8 75.0 5 3 8 1 2 0 4 5 -7
+p779
+aVGordan Giricek MEM 11/04/2002 MEM vs. SAS L 25 8 2 5 40.0 0 1 0.0 4 4 100.0 1 4 5 0 0 0 5 3 -3
+p780
+aVWesley Person MEM 11/02/2002 MEM vs. SAC L 20 7 3 6 50.0 1 2 50.0 0 1 0.0 0 4 4 3 0 0 0 0 -7
+p781
+aVDrew Gooden MEM 11/02/2002 MEM vs. SAC L 16 8 4 11 36.4 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -1
+p782
+aVLorenzen Wright MEM 11/02/2002 MEM vs. SAC L 15 11 5 9 55.6 0 0 - 1 1 100.0 0 3 3 0 0 0 0 3 -11
+p783
+aVPau Gasol MEM 11/02/2002 MEM vs. SAC L 33 20 7 11 63.6 0 0 - 6 8 75.0 3 4 7 3 2 1 5 4 -11
+p784
+aVBrevin Knight MEM 11/02/2002 MEM vs. SAC L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 5 2 0 3 1 3
+p785
+aVShane Battier MEM 11/02/2002 MEM vs. SAC L 26 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 1 1 1 1 1 -8
+p786
+aVGordan Giricek MEM 11/02/2002 MEM vs. SAC L 31 14 6 13 46.2 1 4 25.0 1 1 100.0 0 4 4 1 0 1 0 2 -23
+p787
+aVEarl Watson MEM 11/02/2002 MEM vs. SAC L 15 7 3 3 100.0 1 1 100.0 0 0 - 1 2 3 2 0 0 2 0 -1
+p788
+aVStromile Swift MEM 11/02/2002 MEM vs. SAC L 26 12 5 11 45.5 0 0 - 2 2 100.0 1 6 7 0 1 2 3 4 -11
+p789
+aVJason Williams MEM 11/02/2002 MEM vs. SAC L 33 7 3 10 30.0 1 4 25.0 0 0 - 1 1 2 8 2 0 3 2 -20
+p790
+aVMike Batiste MEM 11/02/2002 MEM vs. SAC L 9 7 3 6 50.0 0 3 0.0 1 1 100.0 0 3 3 2 0 1 0 1 5
+p791
+aVWesley Person MEM 11/01/2002 MEM @ DET L 22 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -12
+p792
+aVShane Battier MEM 11/01/2002 MEM @ DET L 22 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 1 0 1 3 -16
+p793
+aVMichael Dickerson MEM 11/01/2002 MEM @ DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -8
+p794
+aVMike Batiste MEM 11/01/2002 MEM @ DET L 10 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 1 -2
+p795
+aVEarl Watson MEM 11/01/2002 MEM @ DET L 18 6 3 7 42.9 0 0 - 0 0 - 1 3 4 1 1 0 1 2 2
+p796
+aVGordan Giricek MEM 11/01/2002 MEM @ DET L 26 6 1 8 12.5 0 0 - 4 4 100.0 0 3 3 0 0 0 2 3 -5
+p797
+aVJason Williams MEM 11/01/2002 MEM @ DET L 29 10 4 9 44.4 2 4 50.0 0 0 - 0 2 2 2 3 1 3 1 -12
+p798
+aVPau Gasol MEM 11/01/2002 MEM @ DET L 35 21 8 12 66.7 0 0 - 5 6 83.3 1 3 4 1 0 2 5 2 -17
+p799
+aVLorenzen Wright MEM 11/01/2002 MEM @ DET L 31 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 1 0 1 0 3 -18
+p800
+aVDrew Gooden MEM 11/01/2002 MEM @ DET L 24 21 9 15 60.0 0 0 - 3 3 100.0 2 3 5 1 0 1 3 3 -16
+p801
+aVBrevin Knight MEM 11/01/2002 MEM @ DET L 19 8 4 6 66.7 0 0 - 0 2 0.0 0 4 4 7 0 0 1 0 -11
+p802
+aVEarl Watson MEM 10/30/2002 MEM vs. DAL L 17 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 4 2 0 0 4 8
+p803
+aVBrevin Knight MEM 10/30/2002 MEM vs. DAL L 21 5 2 3 66.7 0 0 - 1 1 100.0 0 3 3 4 1 0 1 3 2
+p804
+aVGordan Giricek MEM 10/30/2002 MEM vs. DAL L 31 29 10 13 76.9 4 6 66.7 5 8 62.5 0 5 5 1 1 0 3 1 -5
+p805
+aVMichael Dickerson MEM 10/30/2002 MEM vs. DAL L 18 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 1 0 1 2 2 -7
+p806
+aVJason Williams MEM 10/30/2002 MEM vs. DAL L 27 9 4 11 36.4 1 6 16.7 0 0 - 0 4 4 8 0 0 6 0 -13
+p807
+aVShane Battier MEM 10/30/2002 MEM vs. DAL L 29 9 4 10 40.0 0 3 0.0 1 2 50.0 0 3 3 3 3 0 1 0 4
+p808
+aVWesley Person MEM 10/30/2002 MEM vs. DAL L 23 0 0 2 0.0 0 2 0.0 0 0 - 0 6 6 2 1 0 1 2 -14
+p809
+aVPau Gasol MEM 10/30/2002 MEM vs. DAL L 40 27 10 12 83.3 0 0 - 7 15 46.7 4 6 10 3 0 1 5 3 -15
+p810
+aVLorenzen Wright MEM 10/30/2002 MEM vs. DAL L 6 5 1 4 25.0 0 0 - 3 4 75.0 1 2 3 0 0 0 0 1 -2
+p811
+aVDrew Gooden MEM 10/30/2002 MEM vs. DAL L 27 16 8 12 66.7 0 0 - 0 2 0.0 1 3 4 2 1 1 2 2 -13
+p812
+a.

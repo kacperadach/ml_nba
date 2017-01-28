@@ -1,0 +1,224 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEric Snow SEA 05/17/1997 SEA @ HOU L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p2
+aVDetlef Schrempf SEA 05/17/1997 SEA @ HOU L 36 15 4 10 40.0 2 3 66.7 5 8 62.5 2 6 8 4 0 0 2 5 -1
+p3
+aVTerry Cummings SEA 05/17/1997 SEA @ HOU L 22 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 0 0 0 2 1 -5
+p4
+aVGary Payton SEA 05/17/1997 SEA @ HOU L 45 27 9 22 40.9 4 7 57.1 5 6 83.3 2 6 8 7 3 0 2 3 0
+p5
+aVShawn Kemp SEA 05/17/1997 SEA @ HOU L 41 21 7 16 43.8 0 2 0.0 7 8 87.5 5 5 10 3 2 1 8 4 -3
+p6
+aVGreg Graham SEA 05/17/1997 SEA @ HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 11
+p7
+aVHersey Hawkins SEA 05/17/1997 SEA @ HOU L 41 12 4 10 40.0 0 2 0.0 4 5 80.0 2 3 5 2 1 0 1 4 -1
+p8
+aVDavid Wingate SEA 05/17/1997 SEA @ HOU L 18 7 3 7 42.9 1 2 50.0 0 0 - 2 2 4 2 0 0 0 2 -8
+p9
+aVSam Perkins SEA 05/17/1997 SEA @ HOU L 27 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 4 -13
+p10
+aVDetlef Schrempf SEA 05/15/1997 SEA vs. HOU W 39 14 5 12 41.7 0 0 - 4 4 100.0 1 3 4 2 1 0 0 3 8
+p11
+aVDavid Wingate SEA 05/15/1997 SEA vs. HOU W 15 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -8
+p12
+aVGary Payton SEA 05/15/1997 SEA vs. HOU W 43 19 7 16 43.8 1 4 25.0 4 5 80.0 2 6 8 13 5 0 3 2 7
+p13
+aVTerry Cummings SEA 05/15/1997 SEA vs. HOU W 22 14 6 13 46.2 0 0 - 2 2 100.0 3 2 5 0 1 0 1 6 5
+p14
+aVLarry Stewart SEA 05/15/1997 SEA vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p15
+aVHersey Hawkins SEA 05/15/1997 SEA vs. HOU W 38 16 4 10 40.0 1 5 20.0 7 8 87.5 0 2 2 4 1 0 2 1 0
+p16
+aVSam Perkins SEA 05/15/1997 SEA vs. HOU W 32 6 2 5 40.0 2 2 100.0 0 0 - 0 4 4 0 1 2 1 2 2
+p17
+aVEric Snow SEA 05/15/1997 SEA vs. HOU W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 0 0 0 -1
+p18
+aVShawn Kemp SEA 05/15/1997 SEA vs. HOU W 39 22 6 14 42.9 0 1 0.0 10 14 71.4 6 5 11 3 1 2 4 3 6
+p19
+aVSam Perkins SEA 05/13/1997 SEA @ HOU W 35 8 1 6 16.7 1 4 25.0 5 6 83.3 1 2 3 1 1 0 0 4 3
+p20
+aVJim McIlvaine SEA 05/13/1997 SEA @ HOU W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p21
+aVDetlef Schrempf SEA 05/13/1997 SEA @ HOU W 37 15 6 11 54.5 0 2 0.0 3 5 60.0 1 1 2 2 1 0 3 3 7
+p22
+aVEric Snow SEA 05/13/1997 SEA @ HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -8
+p23
+aVGary Payton SEA 05/13/1997 SEA @ HOU W 44 21 8 17 47.1 0 1 0.0 5 8 62.5 2 4 6 11 1 0 2 3 12
+p24
+aVDavid Wingate SEA 05/13/1997 SEA @ HOU W 13 3 1 4 25.0 0 3 0.0 1 1 100.0 0 0 0 0 0 0 0 1 -7
+p25
+aVTerry Cummings SEA 05/13/1997 SEA @ HOU W 16 5 1 1 100.0 0 0 - 3 4 75.0 1 4 5 1 0 0 0 3 -6
+p26
+aVHersey Hawkins SEA 05/13/1997 SEA @ HOU W 44 23 8 15 53.3 4 7 57.1 3 3 100.0 1 5 6 2 2 0 0 1 14
+p27
+aVShawn Kemp SEA 05/13/1997 SEA @ HOU W 32 20 8 15 53.3 0 0 - 4 4 100.0 4 6 10 3 1 2 3 5 17
+p28
+aVLarry Stewart SEA 05/13/1997 SEA @ HOU W 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 5
+p29
+aVDetlef Schrempf SEA 05/11/1997 SEA vs. HOU L 45 19 7 14 50.0 0 0 - 5 6 83.3 4 4 8 4 0 0 1 3 -1
+p30
+aVShawn Kemp SEA 05/11/1997 SEA vs. HOU L 27 11 5 11 45.5 0 0 - 1 2 50.0 2 7 9 3 1 0 3 6 -14
+p31
+aVJim McIlvaine SEA 05/11/1997 SEA vs. HOU L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p32
+aVTerry Cummings SEA 05/11/1997 SEA vs. HOU L 32 13 6 11 54.5 0 0 - 1 4 25.0 3 6 9 0 0 0 2 5 4
+p33
+aVSam Perkins SEA 05/11/1997 SEA vs. HOU L 38 13 2 9 22.2 2 7 28.6 7 7 100.0 3 2 5 1 3 1 4 6 -3
+p34
+aVHersey Hawkins SEA 05/11/1997 SEA vs. HOU L 42 17 6 12 50.0 2 4 50.0 3 4 75.0 2 1 3 2 5 2 1 1 -1
+p35
+aVDavid Wingate SEA 05/11/1997 SEA vs. HOU L 17 4 2 6 33.3 0 3 0.0 0 0 - 1 5 6 0 0 0 2 1 6
+p36
+aVEric Snow SEA 05/11/1997 SEA vs. HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 1 0 0 1 -7
+p37
+aVGary Payton SEA 05/11/1997 SEA vs. HOU L 48 27 9 22 40.9 1 5 20.0 8 8 100.0 2 4 6 11 3 1 5 0 -6
+p38
+aVSam Perkins SEA 05/09/1997 SEA vs. HOU L 30 0 0 6 0.0 0 3 0.0 0 0 - 1 6 7 1 1 1 1 2 -4
+p39
+aVShawn Kemp SEA 05/09/1997 SEA vs. HOU L 39 28 7 20 35.0 0 0 - 14 16 87.5 4 6 10 5 2 2 2 3 -12
+p40
+aVHersey Hawkins SEA 05/09/1997 SEA vs. HOU L 40 3 1 4 25.0 0 1 0.0 1 1 100.0 1 5 6 2 1 0 2 3 -8
+p41
+aVDetlef Schrempf SEA 05/09/1997 SEA vs. HOU L 37 20 7 14 50.0 2 2 100.0 4 6 66.7 2 3 5 1 2 0 2 4 -14
+p42
+aVTerry Cummings SEA 05/09/1997 SEA vs. HOU L 25 6 3 8 37.5 0 0 - 0 2 0.0 4 3 7 1 1 0 0 4 8
+p43
+aVDavid Wingate SEA 05/09/1997 SEA vs. HOU L 15 8 3 4 75.0 2 3 66.7 0 0 - 1 2 3 3 0 2 0 2 8
+p44
+aVGary Payton SEA 05/09/1997 SEA vs. HOU L 48 28 11 25 44.0 1 4 25.0 5 5 100.0 4 1 5 5 0 0 1 4 -4
+p45
+aVEric Snow SEA 05/09/1997 SEA vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p46
+aVDetlef Schrempf SEA 05/07/1997 SEA @ HOU W 41 17 4 7 57.1 0 2 0.0 9 10 90.0 2 4 6 2 2 0 2 1 6
+p47
+aVDavid Wingate SEA 05/07/1997 SEA @ HOU W 15 5 2 5 40.0 1 3 33.3 0 0 - 3 2 5 0 1 0 2 5 -9
+p48
+aVGary Payton SEA 05/07/1997 SEA @ HOU W 47 17 6 20 30.0 1 7 14.3 4 4 100.0 0 2 2 9 3 1 4 3 5
+p49
+aVShawn Kemp SEA 05/07/1997 SEA @ HOU W 39 22 7 12 58.3 0 0 - 8 9 88.9 5 10 15 3 1 1 6 5 -1
+p50
+aVHersey Hawkins SEA 05/07/1997 SEA @ HOU W 39 21 6 13 46.2 3 6 50.0 6 6 100.0 3 3 6 5 6 1 2 2 11
+p51
+aVSam Perkins SEA 05/07/1997 SEA @ HOU W 29 18 5 11 45.5 4 9 44.4 4 4 100.0 0 2 2 0 1 1 1 4 1
+p52
+aVTerry Cummings SEA 05/07/1997 SEA @ HOU W 26 6 3 8 37.5 0 0 - 0 0 - 1 3 4 2 1 0 0 4 12
+p53
+aVShawn Kemp SEA 05/05/1997 SEA @ HOU L 32 24 11 15 73.3 0 1 0.0 2 2 100.0 4 7 11 1 0 2 3 5 -14
+p54
+aVDavid Wingate SEA 05/05/1997 SEA @ HOU L 14 3 1 7 14.3 1 2 50.0 0 0 - 0 2 2 0 0 0 1 1 -8
+p55
+aVGary Payton SEA 05/05/1997 SEA @ HOU L 42 19 7 16 43.8 1 4 25.0 4 6 66.7 0 3 3 3 5 0 3 2 -13
+p56
+aVGreg Graham SEA 05/05/1997 SEA @ HOU L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p57
+aVEric Snow SEA 05/05/1997 SEA @ HOU L 17 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 7 0 0 0 3 12
+p58
+aVTerry Cummings SEA 05/05/1997 SEA @ HOU L 30 14 7 13 53.8 0 0 - 0 0 - 3 5 8 3 4 0 1 2 -14
+p59
+aVSam Perkins SEA 05/05/1997 SEA @ HOU L 24 8 3 8 37.5 1 3 33.3 1 2 50.0 5 4 9 4 0 1 1 1 0
+p60
+aVDetlef Schrempf SEA 05/05/1997 SEA @ HOU L 28 15 5 8 62.5 2 2 100.0 3 3 100.0 0 3 3 4 0 1 2 3 -18
+p61
+aVHersey Hawkins SEA 05/05/1997 SEA @ HOU L 33 12 4 10 40.0 4 7 57.1 0 0 - 0 1 1 3 2 1 1 1 -2
+p62
+aVJim McIlvaine SEA 05/05/1997 SEA @ HOU L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 8
+p63
+aVTerry Cummings SEA 05/03/1997 SEA vs. PHX W 18 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 1 2 0 2 2 -7
+p64
+aVSam Perkins SEA 05/03/1997 SEA vs. PHX W 26 15 6 9 66.7 1 2 50.0 2 3 66.7 2 3 5 0 1 0 1 2 28
+p65
+aVGary Payton SEA 05/03/1997 SEA vs. PHX W 46 19 7 26 26.9 1 9 11.1 4 4 100.0 2 2 4 10 1 0 1 1 22
+p66
+aVGreg Graham SEA 05/03/1997 SEA vs. PHX W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 0
+p67
+aVEric Snow SEA 05/03/1997 SEA vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p68
+aVShawn Kemp SEA 05/03/1997 SEA vs. PHX W 38 21 6 12 50.0 0 1 0.0 9 11 81.8 3 8 11 2 1 1 3 4 14
+p69
+aVDavid Wingate SEA 05/03/1997 SEA vs. PHX W 21 19 6 7 85.7 3 3 100.0 4 6 66.7 3 7 10 2 0 0 0 2 21
+p70
+aVLarry Stewart SEA 05/03/1997 SEA vs. PHX W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p71
+aVDetlef Schrempf SEA 05/03/1997 SEA vs. PHX W 41 24 9 14 64.3 4 6 66.7 2 2 100.0 1 6 7 9 2 0 1 2 21
+p72
+aVJim McIlvaine SEA 05/03/1997 SEA vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p73
+aVHersey Hawkins SEA 05/03/1997 SEA vs. PHX W 39 9 4 9 44.4 0 4 0.0 1 1 100.0 1 2 3 5 1 0 3 4 15
+p74
+aVDavid Wingate SEA 05/01/1997 SEA @ PHX W 16 3 1 7 14.3 1 3 33.3 0 0 - 0 1 1 3 1 0 1 0 -8
+p75
+aVGary Payton SEA 05/01/1997 SEA @ PHX W 53 28 9 20 45.0 5 11 45.5 5 6 83.3 2 5 7 14 2 1 3 2 7
+p76
+aVHersey Hawkins SEA 05/01/1997 SEA @ PHX W 45 17 6 15 40.0 5 9 55.6 0 0 - 1 9 10 3 4 0 3 5 9
+p77
+aVGreg Graham SEA 05/01/1997 SEA @ PHX W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -2
+p78
+aVShawn Kemp SEA 05/01/1997 SEA @ PHX W 42 24 5 12 41.7 1 2 50.0 13 16 81.3 3 17 20 3 2 1 2 5 7
+p79
+aVSam Perkins SEA 05/01/1997 SEA @ PHX W 32 16 6 11 54.5 1 3 33.3 3 3 100.0 2 1 3 2 0 1 1 2 -5
+p80
+aVTerry Cummings SEA 05/01/1997 SEA @ PHX W 22 8 4 6 66.7 0 0 - 0 0 - 2 3 5 2 0 2 2 2 20
+p81
+aVDetlef Schrempf SEA 05/01/1997 SEA @ PHX W 45 26 7 17 41.2 3 5 60.0 9 11 81.8 1 5 6 5 1 0 4 4 7
+p82
+aVNate McMillan SEA 04/29/1997 SEA @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p83
+aVShawn Kemp SEA 04/29/1997 SEA @ PHX L 31 24 7 15 46.7 0 1 0.0 10 11 90.9 5 6 11 2 0 0 3 5 -4
+p84
+aVGreg Graham SEA 04/29/1997 SEA @ PHX L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p85
+aVDavid Wingate SEA 04/29/1997 SEA @ PHX L 19 8 2 5 40.0 1 3 33.3 3 4 75.0 2 0 2 2 1 0 0 2 -9
+p86
+aVSam Perkins SEA 04/29/1997 SEA @ PHX L 18 3 1 5 20.0 0 2 0.0 1 2 50.0 0 3 3 2 2 4 1 1 -7
+p87
+aVHersey Hawkins SEA 04/29/1997 SEA @ PHX L 44 14 5 15 33.3 3 7 42.9 1 1 100.0 0 2 2 3 3 0 2 3 -5
+p88
+aVDetlef Schrempf SEA 04/29/1997 SEA @ PHX L 38 8 3 10 30.0 0 3 0.0 2 2 100.0 0 8 8 4 1 0 0 4 -5
+p89
+aVTerry Cummings SEA 04/29/1997 SEA @ PHX L 27 10 4 8 50.0 0 0 - 2 2 100.0 5 2 7 3 1 2 1 4 9
+p90
+aVGary Payton SEA 04/29/1997 SEA @ PHX L 45 34 12 24 50.0 8 14 57.1 2 4 50.0 2 7 9 6 0 0 6 2 -7
+p91
+aVEric Snow SEA 04/27/1997 SEA vs. PHX W 5 6 2 2 100.0 1 1 100.0 1 2 50.0 0 0 0 0 1 0 0 0 19
+p92
+aVSam Perkins SEA 04/27/1997 SEA vs. PHX W 19 2 0 6 0.0 0 4 0.0 2 2 100.0 0 4 4 2 1 1 1 2 -5
+p93
+aVShawn Kemp SEA 04/27/1997 SEA vs. PHX W 31 23 8 12 66.7 1 1 100.0 6 9 66.7 3 12 15 5 1 3 3 6 28
+p94
+aVHersey Hawkins SEA 04/27/1997 SEA vs. PHX W 33 19 6 8 75.0 3 5 60.0 4 4 100.0 4 3 7 1 1 0 2 3 34
+p95
+aVJim McIlvaine SEA 04/27/1997 SEA vs. PHX W 5 7 3 3 100.0 0 0 - 1 2 50.0 1 0 1 0 1 2 0 0 19
+p96
+aVLarry Stewart SEA 04/27/1997 SEA vs. PHX W 7 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 2 2 1 1 2 16
+p97
+aVNate McMillan SEA 04/27/1997 SEA vs. PHX W 14 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 2 0 0 1 5 -10
+p98
+aVGary Payton SEA 04/27/1997 SEA vs. PHX W 36 23 10 24 41.7 1 5 20.0 2 3 66.7 1 1 2 6 1 0 2 2 33
+p99
+aVDavid Wingate SEA 04/27/1997 SEA vs. PHX W 17 8 3 7 42.9 1 4 25.0 1 2 50.0 1 3 4 2 2 1 1 4 7
+p100
+aVGreg Graham SEA 04/27/1997 SEA vs. PHX W 16 7 2 7 28.6 1 3 33.3 2 2 100.0 0 3 3 1 1 0 0 2 21
+p101
+aVDetlef Schrempf SEA 04/27/1997 SEA vs. PHX W 29 13 6 11 54.5 1 2 50.0 0 0 - 2 3 5 2 2 0 0 3 32
+p102
+aVTerry Cummings SEA 04/27/1997 SEA vs. PHX W 21 8 3 7 42.9 0 0 - 2 2 100.0 1 4 5 1 1 1 1 1 26
+p103
+aVNate McMillan SEA 04/25/1997 SEA vs. PHX L 19 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 1 4 2
+p104
+aVTerry Cummings SEA 04/25/1997 SEA vs. PHX L 24 11 4 8 50.0 0 0 - 3 4 75.0 3 5 8 0 0 1 2 5 0
+p105
+aVDetlef Schrempf SEA 04/25/1997 SEA vs. PHX L 34 17 4 14 28.6 2 2 100.0 7 8 87.5 4 3 7 2 1 0 1 5 -5
+p106
+aVShawn Kemp SEA 04/25/1997 SEA vs. PHX L 43 19 8 21 38.1 0 1 0.0 3 3 100.0 8 7 15 3 2 1 7 4 1
+p107
+aVDavid Wingate SEA 04/25/1997 SEA vs. PHX L 7 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p108
+aVHersey Hawkins SEA 04/25/1997 SEA vs. PHX L 41 20 8 11 72.7 2 2 100.0 2 2 100.0 2 1 3 2 3 0 2 4 -2
+p109
+aVSam Perkins SEA 04/25/1997 SEA vs. PHX L 24 8 3 8 37.5 2 5 40.0 0 0 - 0 5 5 1 0 0 1 4 -11
+p110
+aVGary Payton SEA 04/25/1997 SEA vs. PHX L 44 23 10 23 43.5 1 4 25.0 2 2 100.0 1 4 5 9 2 1 3 2 -4
+p111
+a.

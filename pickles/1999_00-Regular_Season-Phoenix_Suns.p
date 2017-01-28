@@ -1,0 +1,1684 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLuc Longley PHX 04/19/2000 PHX @ GSW W 29 7 3 6 50.0 0 0 - 1 1 100.0 2 6 8 5 2 2 4 3 8
+p2
+aVShawn Marion PHX 04/19/2000 PHX @ GSW W 27 6 3 5 60.0 0 0 - 0 0 - 1 7 8 1 2 0 3 2 8
+p3
+aVToby Bailey PHX 04/19/2000 PHX @ GSW W 15 10 3 5 60.0 1 1 100.0 3 4 75.0 0 2 2 0 0 0 4 1 6
+p4
+aVCorie Blount PHX 04/19/2000 PHX @ GSW W 21 8 4 6 66.7 0 0 - 0 0 - 3 4 7 0 0 0 1 2 0
+p5
+aVClifford Robinson PHX 04/19/2000 PHX @ GSW W 40 23 8 15 53.3 2 3 66.7 5 6 83.3 1 6 7 4 3 1 2 3 20
+p6
+aVDon MacLean PHX 04/19/2000 PHX @ GSW W 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 0 1 3 -7
+p7
+aVTodd Day PHX 04/19/2000 PHX @ GSW W 23 11 4 7 57.1 2 2 100.0 1 2 50.0 1 6 7 4 1 1 3 4 15
+p8
+aVAnfernee Hardaway PHX 04/19/2000 PHX @ GSW W 33 17 7 19 36.8 1 2 50.0 2 3 66.7 1 2 3 5 0 0 4 2 6
+p9
+aVRodney Rogers PHX 04/19/2000 PHX @ GSW W 29 9 3 8 37.5 1 3 33.3 2 2 100.0 0 5 5 2 1 1 2 5 4
+p10
+aVRandy Livingston PHX 04/19/2000 PHX @ GSW W 18 6 3 3 100.0 0 0 - 0 0 - 0 1 1 3 0 0 3 1 -5
+p11
+aVAnfernee Hardaway PHX 04/18/2000 PHX vs. HOU L 45 20 6 14 42.9 1 4 25.0 7 8 87.5 2 8 10 12 1 0 6 4 -2
+p12
+aVCorie Blount PHX 04/18/2000 PHX vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p13
+aVShawn Marion PHX 04/18/2000 PHX vs. HOU L 29 10 5 13 38.5 0 2 0.0 0 0 - 2 4 6 0 1 1 1 4 6
+p14
+aVRodney Rogers PHX 04/18/2000 PHX vs. HOU L 25 8 3 8 37.5 2 4 50.0 0 0 - 1 1 2 1 1 0 3 6 -15
+p15
+aVClifford Robinson PHX 04/18/2000 PHX vs. HOU L 41 20 7 16 43.8 2 3 66.7 4 8 50.0 2 3 5 2 2 0 0 1 -15
+p16
+aVRandy Livingston PHX 04/18/2000 PHX vs. HOU L 43 19 8 18 44.4 0 5 0.0 3 3 100.0 2 5 7 4 1 1 2 4 -6
+p17
+aVTodd Day PHX 04/18/2000 PHX vs. HOU L 18 9 4 10 40.0 1 4 25.0 0 0 - 0 2 2 2 1 0 0 1 -6
+p18
+aVToby Bailey PHX 04/18/2000 PHX vs. HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p19
+aVLuc Longley PHX 04/18/2000 PHX vs. HOU L 10 6 3 3 100.0 0 0 - 0 0 - 2 1 3 1 1 0 1 1 -9
+p20
+aVOliver Miller PHX 04/18/2000 PHX vs. HOU L 27 6 3 5 60.0 0 0 - 0 0 - 5 0 5 1 3 3 0 5 2
+p21
+aVLuc Longley PHX 04/16/2000 PHX vs. UTA L 17 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 2 2 -3
+p22
+aVRandy Livingston PHX 04/16/2000 PHX vs. UTA L 27 5 2 9 22.2 0 0 - 1 1 100.0 0 3 3 7 2 0 0 4 -3
+p23
+aVDon MacLean PHX 04/16/2000 PHX vs. UTA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p24
+aVTodd Day PHX 04/16/2000 PHX vs. UTA L 18 14 5 5 100.0 3 3 100.0 1 5 20.0 0 1 1 0 1 0 2 3 -13
+p25
+aVKevin Johnson PHX 04/16/2000 PHX vs. UTA L 8 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 3
+p26
+aVRodney Rogers PHX 04/16/2000 PHX vs. UTA L 31 10 4 11 36.4 1 4 25.0 1 2 50.0 0 2 2 4 0 0 2 5 -10
+p27
+aVToby Bailey PHX 04/16/2000 PHX vs. UTA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 4
+p28
+aVClifford Robinson PHX 04/16/2000 PHX vs. UTA L 32 5 2 7 28.6 0 5 0.0 1 3 33.3 0 3 3 2 2 0 1 3 -12
+p29
+aVOliver Miller PHX 04/16/2000 PHX vs. UTA L 28 8 3 9 33.3 0 0 - 2 2 100.0 5 3 8 0 2 2 1 2 -14
+p30
+aVShawn Marion PHX 04/16/2000 PHX vs. UTA L 37 15 7 11 63.6 0 1 0.0 1 2 50.0 0 7 7 1 0 1 1 3 -12
+p31
+aVAnfernee Hardaway PHX 04/16/2000 PHX vs. UTA L 34 16 6 15 40.0 2 5 40.0 2 2 100.0 2 1 3 4 1 1 8 2 -13
+p32
+aVOliver Miller PHX 04/14/2000 PHX vs. LAC W 26 7 3 5 60.0 0 0 - 1 1 100.0 0 4 4 5 2 0 1 5 11
+p33
+aVToby Bailey PHX 04/14/2000 PHX vs. LAC W 21 8 2 5 40.0 0 1 0.0 4 6 66.7 2 1 3 4 0 0 2 2 10
+p34
+aVDon MacLean PHX 04/14/2000 PHX vs. LAC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 6
+p35
+aVTodd Day PHX 04/14/2000 PHX vs. LAC W 20 12 4 8 50.0 3 4 75.0 1 2 50.0 0 3 3 0 1 0 1 1 13
+p36
+aVRandy Livingston PHX 04/14/2000 PHX vs. LAC W 18 7 2 3 66.7 1 2 50.0 2 2 100.0 0 4 4 4 0 0 0 3 9
+p37
+aVClifford Robinson PHX 04/14/2000 PHX vs. LAC W 25 17 6 11 54.5 1 3 33.3 4 6 66.7 0 1 1 1 1 0 3 1 13
+p38
+aVCorie Blount PHX 04/14/2000 PHX vs. LAC W 13 6 3 7 42.9 0 1 0.0 0 0 - 2 3 5 0 0 0 1 4 4
+p39
+aVRodney Rogers PHX 04/14/2000 PHX vs. LAC W 34 22 8 19 42.1 4 7 57.1 2 5 40.0 4 7 11 5 0 0 3 2 16
+p40
+aVShawn Marion PHX 04/14/2000 PHX vs. LAC W 25 20 7 16 43.8 0 0 - 6 6 100.0 5 6 11 2 1 0 1 3 9
+p41
+aVAnfernee Hardaway PHX 04/14/2000 PHX vs. LAC W 32 7 2 7 28.6 1 1 100.0 2 2 100.0 0 4 4 8 3 0 1 2 16
+p42
+aVLuc Longley PHX 04/14/2000 PHX vs. LAC W 22 6 3 4 75.0 0 0 - 0 0 - 1 5 6 2 0 1 0 4 13
+p43
+aVCorie Blount PHX 04/12/2000 PHX vs. VAN W 15 5 2 2 100.0 0 0 - 1 1 100.0 0 4 4 0 0 1 3 5 -4
+p44
+aVShawn Marion PHX 04/12/2000 PHX vs. VAN W 40 8 3 5 60.0 0 0 - 2 2 100.0 1 6 7 5 3 1 1 3 7
+p45
+aVToby Bailey PHX 04/12/2000 PHX vs. VAN W 10 5 1 4 25.0 0 1 0.0 3 4 75.0 1 1 2 3 0 0 0 1 2
+p46
+aVLuc Longley PHX 04/12/2000 PHX vs. VAN W 23 8 4 5 80.0 0 0 - 0 0 - 1 3 4 3 0 0 4 5 10
+p47
+aVTodd Day PHX 04/12/2000 PHX vs. VAN W 21 6 1 8 12.5 1 7 14.3 3 5 60.0 1 1 2 3 0 0 1 1 11
+p48
+aVRodney Rogers PHX 04/12/2000 PHX vs. VAN W 32 14 5 11 45.5 1 4 25.0 3 3 100.0 1 3 4 2 1 0 0 3 11
+p49
+aVClifford Robinson PHX 04/12/2000 PHX vs. VAN W 47 36 14 24 58.3 4 6 66.7 4 4 100.0 3 7 10 5 0 1 4 6 -2
+p50
+aVDon MacLean PHX 04/12/2000 PHX vs. VAN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p51
+aVAnfernee Hardaway PHX 04/12/2000 PHX vs. VAN W 34 17 6 13 46.2 0 1 0.0 5 6 83.3 1 3 4 4 3 1 1 5 13
+p52
+aVRandy Livingston PHX 04/12/2000 PHX vs. VAN W 38 23 10 20 50.0 2 3 66.7 1 1 100.0 3 4 7 7 2 1 3 3 -13
+p53
+aVDon MacLean PHX 04/11/2000 PHX @ LAC W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 2
+p54
+aVClifford Robinson PHX 04/11/2000 PHX @ LAC W 43 22 8 12 66.7 1 3 33.3 5 8 62.5 1 4 5 0 0 1 3 3 5
+p55
+aVTodd Day PHX 04/11/2000 PHX @ LAC W 23 18 4 8 50.0 2 4 50.0 8 8 100.0 0 4 4 1 4 0 3 3 12
+p56
+aVCorie Blount PHX 04/11/2000 PHX @ LAC W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p57
+aVShawn Marion PHX 04/11/2000 PHX @ LAC W 36 17 7 15 46.7 0 1 0.0 3 4 75.0 2 10 12 3 1 0 2 2 6
+p58
+aVLuc Longley PHX 04/11/2000 PHX @ LAC W 15 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 0 0 2 1 -10
+p59
+aVRodney Rogers PHX 04/11/2000 PHX @ LAC W 37 13 5 16 31.3 2 7 28.6 1 4 25.0 5 3 8 3 0 0 4 4 11
+p60
+aVRandy Livingston PHX 04/11/2000 PHX @ LAC W 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -12
+p61
+aVKevin Johnson PHX 04/11/2000 PHX @ LAC W 15 2 1 1 100.0 0 0 - 0 0 - 0 4 4 4 0 0 0 0 14
+p62
+aVAnfernee Hardaway PHX 04/11/2000 PHX @ LAC W 42 17 5 10 50.0 0 0 - 7 8 87.5 0 6 6 8 3 0 2 3 5
+p63
+aVRandy Livingston PHX 04/09/2000 PHX @ SAC W 21 10 4 5 80.0 1 1 100.0 1 2 50.0 0 2 2 3 0 0 2 3 -5
+p64
+aVToby Bailey PHX 04/09/2000 PHX @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p65
+aVTodd Day PHX 04/09/2000 PHX @ SAC W 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 0 0 0 3 4
+p66
+aVShawn Marion PHX 04/09/2000 PHX @ SAC W 19 12 6 10 60.0 0 0 - 0 0 - 3 3 6 1 0 1 2 3 6
+p67
+aVClifford Robinson PHX 04/09/2000 PHX @ SAC W 44 20 7 17 41.2 2 5 40.0 4 4 100.0 1 5 6 3 2 2 1 2 -2
+p68
+aVAnfernee Hardaway PHX 04/09/2000 PHX @ SAC W 39 25 8 17 47.1 0 2 0.0 9 12 75.0 1 11 12 6 3 1 2 1 1
+p69
+aVRodney Rogers PHX 04/09/2000 PHX @ SAC W 28 16 7 10 70.0 2 2 100.0 0 2 0.0 3 3 6 1 1 0 1 3 6
+p70
+aVCorie Blount PHX 04/09/2000 PHX @ SAC W 24 11 4 5 80.0 0 0 - 3 6 50.0 3 5 8 1 0 0 3 5 9
+p71
+aVKevin Johnson PHX 04/09/2000 PHX @ SAC W 26 3 1 7 14.3 0 0 - 1 1 100.0 0 1 1 9 1 0 2 3 10
+p72
+aVLuc Longley PHX 04/09/2000 PHX @ SAC W 19 2 1 3 33.3 0 0 - 0 3 0.0 0 2 2 2 0 1 2 4 -5
+p73
+aVOliver Miller PHX 04/09/2000 PHX @ SAC W 4 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 1
+p74
+aVToby Bailey PHX 04/06/2000 PHX @ UTA L 6 8 2 3 66.7 0 0 - 4 4 100.0 0 2 2 0 0 0 2 0 5
+p75
+aVLuc Longley PHX 04/06/2000 PHX @ UTA L 21 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 1 1 2 2 1 -13
+p76
+aVClifford Robinson PHX 04/06/2000 PHX @ UTA L 37 8 3 11 27.3 0 3 0.0 2 2 100.0 0 3 3 0 0 0 1 4 -23
+p77
+aVDon MacLean PHX 04/06/2000 PHX @ UTA L 10 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -9
+p78
+aVTodd Day PHX 04/06/2000 PHX @ UTA L 23 7 3 6 50.0 0 1 0.0 1 2 50.0 1 1 2 1 0 0 0 4 -10
+p79
+aVRandy Livingston PHX 04/06/2000 PHX @ UTA L 23 2 1 6 16.7 0 0 - 0 0 - 0 1 1 1 0 0 4 5 -6
+p80
+aVShawn Marion PHX 04/06/2000 PHX @ UTA L 27 8 4 6 66.7 0 0 - 0 0 - 1 4 5 1 1 2 1 3 -8
+p81
+aVKevin Johnson PHX 04/06/2000 PHX @ UTA L 19 12 5 8 62.5 0 0 - 2 2 100.0 0 4 4 5 0 0 3 1 -8
+p82
+aVAnfernee Hardaway PHX 04/06/2000 PHX @ UTA L 37 13 6 14 42.9 0 2 0.0 1 1 100.0 3 5 8 4 0 0 3 3 -17
+p83
+aVCorie Blount PHX 04/06/2000 PHX @ UTA L 10 5 1 4 25.0 0 0 - 3 4 75.0 1 3 4 1 1 1 0 2 -2
+p84
+aVRodney Rogers PHX 04/06/2000 PHX @ UTA L 25 11 3 7 42.9 0 2 0.0 5 7 71.4 1 1 2 0 0 1 2 2 -9
+p85
+aVOliver Miller PHX 04/04/2000 PHX vs. LAL L 4 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -2
+p86
+aVRodney Rogers PHX 04/04/2000 PHX vs. LAL L 27 3 1 8 12.5 0 3 0.0 1 6 16.7 2 5 7 4 1 0 2 3 7
+p87
+aVClifford Robinson PHX 04/04/2000 PHX vs. LAL L 44 20 8 21 38.1 1 8 12.5 3 3 100.0 0 4 4 6 0 2 1 4 3
+p88
+aVAnfernee Hardaway PHX 04/04/2000 PHX vs. LAL L 44 23 8 16 50.0 1 1 100.0 6 6 100.0 5 5 10 6 2 0 3 5 -1
+p89
+aVLuc Longley PHX 04/04/2000 PHX vs. LAL L 9 8 4 7 57.1 0 0 - 0 0 - 0 5 5 0 0 0 1 5 7
+p90
+aVRandy Livingston PHX 04/04/2000 PHX vs. LAL L 22 2 1 7 14.3 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -18
+p91
+aVDon MacLean PHX 04/04/2000 PHX vs. LAL L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p92
+aVTodd Day PHX 04/04/2000 PHX vs. LAL L 23 5 2 4 50.0 1 2 50.0 0 0 - 0 5 5 1 1 2 1 3 8
+p93
+aVShawn Marion PHX 04/04/2000 PHX vs. LAL L 26 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 0 2 2 4 -11
+p94
+aVKevin Johnson PHX 04/04/2000 PHX vs. LAL L 26 14 5 7 71.4 0 0 - 4 4 100.0 0 3 3 4 1 0 2 1 17
+p95
+aVCorie Blount PHX 04/04/2000 PHX vs. LAL L 9 0 0 2 0.0 0 0 - 0 0 - 2 4 6 0 0 0 0 1 -9
+p96
+aVAnfernee Hardaway PHX 04/02/2000 PHX @ MIN W 44 22 10 20 50.0 0 2 0.0 2 2 100.0 3 4 7 9 1 0 4 3 6
+p97
+aVClifford Robinson PHX 04/02/2000 PHX @ MIN W 45 7 3 9 33.3 0 3 0.0 1 2 50.0 0 6 6 4 3 2 2 2 4
+p98
+aVRodney Rogers PHX 04/02/2000 PHX @ MIN W 31 23 8 16 50.0 1 3 33.3 6 9 66.7 2 4 6 4 5 1 4 1 8
+p99
+aVRandy Livingston PHX 04/02/2000 PHX @ MIN W 18 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 3 -1
+p100
+aVKevin Johnson PHX 04/02/2000 PHX @ MIN W 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 0 0 1 7
+p101
+aVDon MacLean PHX 04/02/2000 PHX @ MIN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p102
+aVShawn Marion PHX 04/02/2000 PHX @ MIN W 20 8 4 6 66.7 0 0 - 0 0 - 2 7 9 1 3 0 2 1 -9
+p103
+aVTodd Day PHX 04/02/2000 PHX @ MIN W 22 7 2 8 25.0 1 4 25.0 2 2 100.0 0 2 2 2 1 0 0 3 1
+p104
+aVLuc Longley PHX 04/02/2000 PHX @ MIN W 19 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 0 1 0 3 0 -1
+p105
+aVOliver Miller PHX 04/02/2000 PHX @ MIN W 19 4 1 1 100.0 0 0 - 2 2 100.0 0 5 5 2 0 2 2 2 -7
+p106
+aVOliver Miller PHX 03/31/2000 PHX @ DET W 32 9 4 6 66.7 0 0 - 1 2 50.0 2 5 7 1 1 3 3 3 6
+p107
+aVClifford Robinson PHX 03/31/2000 PHX @ DET W 38 20 8 13 61.5 2 6 33.3 2 3 66.7 2 1 3 3 1 4 1 3 1
+p108
+aVShawn Marion PHX 03/31/2000 PHX @ DET W 12 2 1 8 12.5 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -3
+p109
+aVTodd Day PHX 03/31/2000 PHX @ DET W 21 13 4 7 57.1 2 3 66.7 3 5 60.0 0 1 1 0 1 1 0 4 3
+p110
+aVDon MacLean PHX 03/31/2000 PHX @ DET W 13 7 2 4 50.0 1 2 50.0 2 2 100.0 1 0 1 1 0 0 1 1 -5
+p111
+aVAnfernee Hardaway PHX 03/31/2000 PHX @ DET W 39 15 7 13 53.8 1 4 25.0 0 0 - 0 8 8 12 2 1 2 4 -3
+p112
+aVLuc Longley PHX 03/31/2000 PHX @ DET W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -2
+p113
+aVRandy Livingston PHX 03/31/2000 PHX @ DET W 36 13 5 10 50.0 1 2 50.0 2 2 100.0 1 1 2 2 2 0 4 3 2
+p114
+aVRodney Rogers PHX 03/31/2000 PHX @ DET W 37 17 5 16 31.3 2 8 25.0 5 6 83.3 3 5 8 8 1 0 1 4 6
+p115
+aVRodney Rogers PHX 03/30/2000 PHX @ ATL W 17 21 8 11 72.7 3 4 75.0 2 2 100.0 0 8 8 3 1 0 0 1 33
+p116
+aVDon MacLean PHX 03/30/2000 PHX @ ATL W 19 13 6 11 54.5 1 1 100.0 0 0 - 2 3 5 1 0 0 1 3 12
+p117
+aVCorie Blount PHX 03/30/2000 PHX @ ATL W 8 8 4 5 80.0 0 0 - 0 0 - 1 0 1 0 1 1 0 0 5
+p118
+aVAnfernee Hardaway PHX 03/30/2000 PHX @ ATL W 30 10 4 8 50.0 0 0 - 2 2 100.0 3 4 7 11 5 1 2 0 29
+p119
+aVClifford Robinson PHX 03/30/2000 PHX @ ATL W 29 14 5 11 45.5 2 3 66.7 2 2 100.0 1 1 2 1 4 1 1 1 32
+p120
+aVTodd Day PHX 03/30/2000 PHX @ ATL W 30 11 4 9 44.4 1 3 33.3 2 2 100.0 1 4 5 5 3 2 2 5 37
+p121
+aVLuc Longley PHX 03/30/2000 PHX @ ATL W 17 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 1 0 0 2 2 0
+p122
+aVRandy Livingston PHX 03/30/2000 PHX @ ATL W 25 9 4 9 44.4 1 1 100.0 0 0 - 1 2 3 5 3 1 0 2 10
+p123
+aVToby Bailey PHX 03/30/2000 PHX @ ATL W 16 6 2 5 40.0 0 0 - 2 3 66.7 0 1 1 1 0 0 0 1 15
+p124
+aVShawn Marion PHX 03/30/2000 PHX @ ATL W 25 16 8 15 53.3 0 0 - 0 0 - 2 5 7 1 1 0 1 1 23
+p125
+aVOliver Miller PHX 03/30/2000 PHX @ ATL W 24 6 3 5 60.0 0 0 - 0 0 - 0 7 7 3 2 1 0 2 24
+p126
+aVAnfernee Hardaway PHX 03/28/2000 PHX @ MIA L 45 14 4 13 30.8 0 3 0.0 6 10 60.0 3 6 9 5 2 0 2 3 0
+p127
+aVToby Bailey PHX 03/28/2000 PHX @ MIA L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 1 -5
+p128
+aVDon MacLean PHX 03/28/2000 PHX @ MIA L 16 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 11
+p129
+aVShawn Marion PHX 03/28/2000 PHX @ MIA L 18 0 0 7 0.0 0 0 - 0 0 - 3 5 8 1 1 0 1 1 -14
+p130
+aVTodd Day PHX 03/28/2000 PHX @ MIA L 15 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 1 3 0 0 6 11
+p131
+aVLuc Longley PHX 03/28/2000 PHX @ MIA L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 2
+p132
+aVCorie Blount PHX 03/28/2000 PHX @ MIA L 9 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 1 0 1 1 -15
+p133
+aVClifford Robinson PHX 03/28/2000 PHX @ MIA L 42 20 4 12 33.3 2 4 50.0 10 12 83.3 4 3 7 2 2 0 3 2 0
+p134
+aVOliver Miller PHX 03/28/2000 PHX @ MIA L 10 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 0
+p135
+aVRodney Rogers PHX 03/28/2000 PHX @ MIA L 34 22 8 19 42.1 3 8 37.5 3 5 60.0 3 2 5 1 0 0 1 2 8
+p136
+aVRandy Livingston PHX 03/28/2000 PHX @ MIA L 31 3 1 5 20.0 0 2 0.0 1 2 50.0 0 1 1 3 0 0 3 3 -13
+p137
+aVClifford Robinson PHX 03/26/2000 PHX vs. GSW W 42 9 3 13 23.1 0 5 0.0 3 4 75.0 0 4 4 3 2 1 2 2 -1
+p138
+aVCorie Blount PHX 03/26/2000 PHX vs. GSW W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 7
+p139
+aVAnfernee Hardaway PHX 03/26/2000 PHX vs. GSW W 40 33 11 14 78.6 0 1 0.0 11 13 84.6 1 5 6 6 1 1 5 3 12
+p140
+aVLuc Longley PHX 03/26/2000 PHX vs. GSW W 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 2 2 3 -4
+p141
+aVTodd Day PHX 03/26/2000 PHX vs. GSW W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p142
+aVRandy Livingston PHX 03/26/2000 PHX vs. GSW W 36 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 7 1 1 3 3 3
+p143
+aVOliver Miller PHX 03/26/2000 PHX vs. GSW W 25 7 2 5 40.0 0 0 - 3 4 75.0 3 6 9 0 0 1 1 2 -2
+p144
+aVRodney Rogers PHX 03/26/2000 PHX vs. GSW W 29 8 4 11 36.4 0 3 0.0 0 2 0.0 1 3 4 1 1 1 3 3 12
+p145
+aVShawn Marion PHX 03/26/2000 PHX vs. GSW W 34 15 6 12 50.0 0 1 0.0 3 4 75.0 3 11 14 2 0 5 1 2 3
+p146
+aVToby Bailey PHX 03/26/2000 PHX vs. GSW W 14 6 2 7 28.6 0 1 0.0 2 3 66.7 0 1 1 1 0 0 0 3 10
+p147
+aVLuc Longley PHX 03/24/2000 PHX @ LAL L 22 6 2 8 25.0 0 0 - 2 2 100.0 1 0 1 1 0 0 2 3 -13
+p148
+aVRandy Livingston PHX 03/24/2000 PHX @ LAL L 25 8 4 9 44.4 0 0 - 0 0 - 1 0 1 2 0 0 5 5 -8
+p149
+aVAnfernee Hardaway PHX 03/24/2000 PHX @ LAL L 43 25 9 17 52.9 0 0 - 7 10 70.0 2 6 8 7 1 0 2 5 -8
+p150
+aVToby Bailey PHX 03/24/2000 PHX @ LAL L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p151
+aVRodney Rogers PHX 03/24/2000 PHX @ LAL L 38 16 7 18 38.9 2 8 25.0 0 0 - 2 7 9 2 2 0 4 5 5
+p152
+aVClifford Robinson PHX 03/24/2000 PHX @ LAL L 40 22 8 17 47.1 5 6 83.3 1 2 50.0 3 4 7 0 1 0 2 4 -7
+p153
+aVTodd Day PHX 03/24/2000 PHX @ LAL L 17 5 1 4 25.0 1 2 50.0 2 2 100.0 0 5 5 1 1 0 1 2 -1
+p154
+aVShawn Marion PHX 03/24/2000 PHX @ LAL L 42 15 7 9 77.8 0 0 - 1 2 50.0 8 6 14 2 1 0 2 3 -8
+p155
+aVOliver Miller PHX 03/24/2000 PHX @ LAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 1
+p156
+aVAnfernee Hardaway PHX 03/22/2000 PHX vs. SAC W 35 11 5 13 38.5 1 1 100.0 0 0 - 2 5 7 6 0 2 3 3 21
+p157
+aVRandy Livingston PHX 03/22/2000 PHX vs. SAC W 24 17 6 10 60.0 0 1 0.0 5 5 100.0 1 1 2 4 0 0 2 4 26
+p158
+aVOliver Miller PHX 03/22/2000 PHX vs. SAC W 25 13 6 7 85.7 0 0 - 1 2 50.0 1 3 4 1 0 4 3 3 13
+p159
+aVCorie Blount PHX 03/22/2000 PHX vs. SAC W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 0
+p160
+aVLuc Longley PHX 03/22/2000 PHX vs. SAC W 16 4 1 1 100.0 0 0 - 2 2 100.0 3 4 7 3 0 0 4 4 9
+p161
+aVShawn Marion PHX 03/22/2000 PHX vs. SAC W 24 14 7 10 70.0 0 0 - 0 0 - 1 8 9 6 2 0 0 2 11
+p162
+aVToby Bailey PHX 03/22/2000 PHX vs. SAC W 19 7 2 7 28.6 0 0 - 3 6 50.0 4 4 8 0 0 1 2 2 -7
+p163
+aVClifford Robinson PHX 03/22/2000 PHX vs. SAC W 36 26 11 18 61.1 2 4 50.0 2 5 40.0 0 2 2 4 2 0 3 3 32
+p164
+aVRodney Rogers PHX 03/22/2000 PHX vs. SAC W 22 18 6 11 54.5 4 6 66.7 2 2 100.0 1 3 4 3 6 0 4 2 11
+p165
+aVTodd Day PHX 03/22/2000 PHX vs. SAC W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -2
+p166
+aVJason Kidd PHX 03/22/2000 PHX vs. SAC W 20 0 0 1 0.0 0 0 - 0 0 - 1 4 5 7 2 0 4 0 0
+p167
+aVDon MacLean PHX 03/22/2000 PHX vs. SAC W 12 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -9
+p168
+aVDon MacLean PHX 03/20/2000 PHX vs. BOS W 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -1
+p169
+aVShawn Marion PHX 03/20/2000 PHX vs. BOS W 29 18 7 13 53.8 0 1 0.0 4 4 100.0 2 6 8 1 1 0 1 3 -3
+p170
+aVOliver Miller PHX 03/20/2000 PHX vs. BOS W 27 10 4 8 50.0 0 0 - 2 3 66.7 4 3 7 2 1 6 2 6 7
+p171
+aVToby Bailey PHX 03/20/2000 PHX vs. BOS W 12 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 1 9
+p172
+aVClifford Robinson PHX 03/20/2000 PHX vs. BOS W 44 22 3 13 23.1 1 5 20.0 15 17 88.2 2 7 9 2 0 1 4 4 3
+p173
+aVRandy Livingston PHX 03/20/2000 PHX vs. BOS W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 5
+p174
+aVRodney Rogers PHX 03/20/2000 PHX vs. BOS W 27 17 7 13 53.8 2 6 33.3 1 2 50.0 0 1 1 5 0 0 0 4 13
+p175
+aVCorie Blount PHX 03/20/2000 PHX vs. BOS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p176
+aVJason Kidd PHX 03/20/2000 PHX vs. BOS W 42 16 5 10 50.0 0 2 0.0 6 6 100.0 3 6 9 11 2 0 5 1 -1
+p177
+aVAnfernee Hardaway PHX 03/20/2000 PHX vs. BOS W 39 13 6 16 37.5 1 2 50.0 0 0 - 0 3 3 4 1 0 2 3 -4
+p178
+aVJason Kidd PHX 03/19/2000 PHX @ GSW W 41 15 4 11 36.4 3 5 60.0 4 4 100.0 0 9 9 14 3 1 1 0 18
+p179
+aVShawn Marion PHX 03/19/2000 PHX @ GSW W 28 4 1 6 16.7 0 0 - 2 4 50.0 4 9 13 2 0 1 3 2 4
+p180
+aVRodney Rogers PHX 03/19/2000 PHX @ GSW W 26 21 7 13 53.8 5 5 100.0 2 4 50.0 1 6 7 0 0 0 2 4 14
+p181
+aVAnfernee Hardaway PHX 03/19/2000 PHX @ GSW W 40 16 8 17 47.1 0 0 - 0 0 - 1 4 5 8 1 0 5 2 15
+p182
+aVToby Bailey PHX 03/19/2000 PHX @ GSW W 11 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 2
+p183
+aVCorie Blount PHX 03/19/2000 PHX @ GSW W 16 4 2 5 40.0 0 0 - 0 0 - 4 0 4 0 1 0 0 4 16
+p184
+aVClifford Robinson PHX 03/19/2000 PHX @ GSW W 34 25 10 16 62.5 2 5 40.0 3 4 75.0 1 4 5 2 0 0 1 3 4
+p185
+aVLuc Longley PHX 03/19/2000 PHX @ GSW W 27 6 3 7 42.9 0 0 - 0 0 - 3 5 8 3 0 2 3 2 4
+p186
+aVDon MacLean PHX 03/19/2000 PHX @ GSW W 10 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 0 1 2 5 9
+p187
+aVRandy Livingston PHX 03/19/2000 PHX @ GSW W 7 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 0 1 1 1 -1
+p188
+aVJason Kidd PHX 03/17/2000 PHX @ VAN W 40 12 5 12 41.7 0 3 0.0 2 2 100.0 0 8 8 15 2 0 4 1 20
+p189
+aVRex Chapman PHX 03/17/2000 PHX @ VAN W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p190
+aVToby Bailey PHX 03/17/2000 PHX @ VAN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p191
+aVCorie Blount PHX 03/17/2000 PHX @ VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 0
+p192
+aVOliver Miller PHX 03/17/2000 PHX @ VAN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p193
+aVLuc Longley PHX 03/17/2000 PHX @ VAN W 16 4 2 8 25.0 0 0 - 0 0 - 3 2 5 0 0 0 3 4 3
+p194
+aVRandy Livingston PHX 03/17/2000 PHX @ VAN W 15 8 3 8 37.5 0 1 0.0 2 3 66.7 1 3 4 2 2 0 1 5 5
+p195
+aVAnfernee Hardaway PHX 03/17/2000 PHX @ VAN W 33 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 4 2 1 3 2 9
+p196
+aVRodney Rogers PHX 03/17/2000 PHX @ VAN W 30 26 11 21 52.4 4 8 50.0 0 0 - 1 4 5 1 2 0 2 4 12
+p197
+aVDon MacLean PHX 03/17/2000 PHX @ VAN W 15 4 2 9 22.2 0 0 - 0 0 - 0 2 2 2 0 0 1 4 -7
+p198
+aVClifford Robinson PHX 03/17/2000 PHX @ VAN W 37 27 10 16 62.5 0 3 0.0 7 7 100.0 2 4 6 4 6 1 3 3 20
+p199
+aVShawn Marion PHX 03/17/2000 PHX @ VAN W 38 12 6 13 46.2 0 0 - 0 0 - 6 5 11 4 3 2 1 2 20
+p200
+aVRodney Rogers PHX 03/14/2000 PHX vs. MIN W 27 16 6 17 35.3 1 4 25.0 3 4 75.0 3 4 7 1 1 1 2 3 13
+p201
+aVAnfernee Hardaway PHX 03/14/2000 PHX vs. MIN W 40 26 7 15 46.7 0 0 - 12 12 100.0 1 2 3 2 3 1 1 1 12
+p202
+aVClifford Robinson PHX 03/14/2000 PHX vs. MIN W 39 24 7 14 50.0 1 3 33.3 9 9 100.0 1 4 5 4 6 0 0 4 11
+p203
+aVShawn Marion PHX 03/14/2000 PHX vs. MIN W 42 17 6 10 60.0 0 1 0.0 5 6 83.3 2 10 12 2 0 0 2 2 6
+p204
+aVLuc Longley PHX 03/14/2000 PHX vs. MIN W 24 10 3 6 50.0 0 0 - 4 4 100.0 3 3 6 0 0 0 3 3 -10
+p205
+aVRandy Livingston PHX 03/14/2000 PHX vs. MIN W 12 6 2 6 33.3 0 3 0.0 2 2 100.0 0 0 0 2 0 1 1 1 -9
+p206
+aVCorie Blount PHX 03/14/2000 PHX vs. MIN W 9 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 1 3
+p207
+aVDon MacLean PHX 03/14/2000 PHX vs. MIN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p208
+aVJason Kidd PHX 03/14/2000 PHX vs. MIN W 39 8 0 5 0.0 0 2 0.0 8 10 80.0 1 5 6 12 1 0 6 3 11
+p209
+aVCorie Blount PHX 03/11/2000 PHX @ DAL L 9 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 1 0 2 4 -1
+p210
+aVToby Bailey PHX 03/11/2000 PHX @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p211
+aVLuc Longley PHX 03/11/2000 PHX @ DAL L 17 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 1 0 0 2 2 -8
+p212
+aVAnfernee Hardaway PHX 03/11/2000 PHX @ DAL L 33 9 3 10 30.0 0 3 0.0 3 8 37.5 1 3 4 6 3 0 0 5 -6
+p213
+aVClifford Robinson PHX 03/11/2000 PHX @ DAL L 42 29 10 19 52.6 1 5 20.0 8 9 88.9 2 5 7 2 0 0 2 4 -5
+p214
+aVRex Chapman PHX 03/11/2000 PHX @ DAL L 16 5 2 6 33.3 0 2 0.0 1 2 50.0 1 1 2 0 0 0 0 2 -3
+p215
+aVShawn Marion PHX 03/11/2000 PHX @ DAL L 41 18 7 16 43.8 0 1 0.0 4 4 100.0 1 5 6 1 0 0 1 4 -9
+p216
+aVRandy Livingston PHX 03/11/2000 PHX @ DAL L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 1 1 3 2 -2
+p217
+aVJason Kidd PHX 03/11/2000 PHX @ DAL L 37 19 7 12 58.3 2 2 100.0 3 4 75.0 0 10 10 9 2 1 4 6 -3
+p218
+aVRodney Rogers PHX 03/11/2000 PHX @ DAL L 31 8 3 10 30.0 1 4 25.0 1 4 25.0 3 8 11 1 0 0 2 5 10
+p219
+aVRodney Rogers PHX 03/10/2000 PHX vs. UTA L 24 14 5 9 55.6 4 6 66.7 0 0 - 0 3 3 0 0 0 2 5 1
+p220
+aVRandy Livingston PHX 03/10/2000 PHX vs. UTA L 17 9 2 7 28.6 1 1 100.0 4 4 100.0 0 0 0 4 1 0 2 4 -2
+p221
+aVRex Chapman PHX 03/10/2000 PHX vs. UTA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p222
+aVShawn Marion PHX 03/10/2000 PHX vs. UTA L 11 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 2
+p223
+aVCorie Blount PHX 03/10/2000 PHX vs. UTA L 15 0 0 0 - 0 0 - 0 0 - 3 1 4 0 1 0 1 1 4
+p224
+aVLuc Longley PHX 03/10/2000 PHX vs. UTA L 24 17 7 12 58.3 0 0 - 3 3 100.0 1 6 7 0 0 1 3 4 -8
+p225
+aVTom Gugliotta PHX 03/10/2000 PHX vs. UTA L 33 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 3 0 0 0 2 -1
+p226
+aVJason Kidd PHX 03/10/2000 PHX vs. UTA L 40 12 5 10 50.0 0 4 0.0 2 2 100.0 0 5 5 12 0 1 5 3 -2
+p227
+aVClifford Robinson PHX 03/10/2000 PHX vs. UTA L 32 9 3 9 33.3 1 3 33.3 2 2 100.0 0 1 1 3 2 0 0 1 -4
+p228
+aVAnfernee Hardaway PHX 03/10/2000 PHX vs. UTA L 39 28 9 16 56.3 0 1 0.0 10 10 100.0 1 2 3 5 1 0 1 2 -5
+p229
+aVRodney Rogers PHX 03/07/2000 PHX @ HOU W 33 15 5 5 100.0 1 1 100.0 4 4 100.0 1 3 4 0 0 0 3 3 8
+p230
+aVCorie Blount PHX 03/07/2000 PHX @ HOU W 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p231
+aVTom Gugliotta PHX 03/07/2000 PHX @ HOU W 39 23 7 12 58.3 0 0 - 9 9 100.0 4 5 9 3 5 2 2 1 9
+p232
+aVLuc Longley PHX 03/07/2000 PHX @ HOU W 10 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 4 8
+p233
+aVRex Chapman PHX 03/07/2000 PHX @ HOU W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p234
+aVAnfernee Hardaway PHX 03/07/2000 PHX @ HOU W 41 24 11 22 50.0 1 1 100.0 1 2 50.0 2 5 7 10 0 1 2 3 14
+p235
+aVJason Kidd PHX 03/07/2000 PHX @ HOU W 41 15 4 9 44.4 2 3 66.7 5 5 100.0 4 8 12 8 3 0 2 3 13
+p236
+aVShawn Marion PHX 03/07/2000 PHX @ HOU W 17 10 4 7 57.1 1 2 50.0 1 2 50.0 0 4 4 0 0 1 1 2 1
+p237
+aVRandy Livingston PHX 03/07/2000 PHX @ HOU W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -6
+p238
+aVClifford Robinson PHX 03/07/2000 PHX @ HOU W 37 19 7 17 41.2 1 5 20.0 4 4 100.0 1 2 3 2 2 0 1 1 -2
+p239
+aVMark West PHX 03/06/2000 PHX vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p240
+aVAnfernee Hardaway PHX 03/06/2000 PHX vs. MIA W 43 28 13 19 68.4 0 1 0.0 2 6 33.3 0 5 5 7 2 1 2 2 5
+p241
+aVJason Kidd PHX 03/06/2000 PHX vs. MIA W 43 10 3 5 60.0 0 0 - 4 5 80.0 1 8 9 17 2 0 5 1 11
+p242
+aVTom Gugliotta PHX 03/06/2000 PHX vs. MIA W 32 15 7 11 63.6 0 0 - 1 1 100.0 0 2 2 3 3 0 1 4 11
+p243
+aVClifford Robinson PHX 03/06/2000 PHX vs. MIA W 23 10 3 8 37.5 1 2 50.0 3 4 75.0 1 3 4 2 2 1 1 5 7
+p244
+aVToby Bailey PHX 03/06/2000 PHX vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p245
+aVRodney Rogers PHX 03/06/2000 PHX vs. MIA W 31 12 4 15 26.7 0 1 0.0 4 6 66.7 3 5 8 3 0 1 5 3 11
+p246
+aVShawn Marion PHX 03/06/2000 PHX vs. MIA W 16 13 6 7 85.7 0 0 - 1 2 50.0 1 2 3 1 0 0 0 3 -4
+p247
+aVRandy Livingston PHX 03/06/2000 PHX vs. MIA W 11 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 2 4
+p248
+aVLuc Longley PHX 03/06/2000 PHX vs. MIA W 6 2 1 4 25.0 0 0 - 0 0 - 3 0 3 0 0 0 1 4 -6
+p249
+aVCorie Blount PHX 03/06/2000 PHX vs. MIA W 30 10 4 4 100.0 0 0 - 2 3 66.7 1 2 3 0 2 1 0 4 2
+p250
+aVShawn Marion PHX 03/04/2000 PHX vs. DAL W 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 1 1 2 -13
+p251
+aVJason Kidd PHX 03/04/2000 PHX vs. DAL W 37 13 6 16 37.5 0 3 0.0 1 2 50.0 0 5 5 14 2 0 4 2 18
+p252
+aVMark West PHX 03/04/2000 PHX vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p253
+aVAnfernee Hardaway PHX 03/04/2000 PHX vs. DAL W 43 11 4 17 23.5 1 4 25.0 2 2 100.0 2 3 5 8 3 0 1 4 24
+p254
+aVCorie Blount PHX 03/04/2000 PHX vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 1
+p255
+aVToby Bailey PHX 03/04/2000 PHX vs. DAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p256
+aVTom Gugliotta PHX 03/04/2000 PHX vs. DAL W 43 18 8 13 61.5 0 0 - 2 2 100.0 4 10 14 3 1 0 1 2 10
+p257
+aVClifford Robinson PHX 03/04/2000 PHX vs. DAL W 39 27 10 17 58.8 5 10 50.0 2 3 66.7 0 5 5 4 1 2 0 2 26
+p258
+aVRandy Livingston PHX 03/04/2000 PHX vs. DAL W 11 4 1 5 20.0 0 3 0.0 2 2 100.0 1 1 2 3 0 0 0 1 -4
+p259
+aVRodney Rogers PHX 03/04/2000 PHX vs. DAL W 32 29 10 13 76.9 3 4 75.0 6 8 75.0 5 5 10 4 2 0 2 2 4
+p260
+aVLuc Longley PHX 03/04/2000 PHX vs. DAL W 22 8 4 8 50.0 0 0 - 0 0 - 2 3 5 0 0 0 1 1 8
+p261
+aVShawn Marion PHX 03/02/2000 PHX vs. IND W 23 14 6 10 60.0 0 0 - 2 2 100.0 4 2 6 2 1 0 0 1 5
+p262
+aVJason Kidd PHX 03/02/2000 PHX vs. IND W 34 8 4 10 40.0 0 1 0.0 0 0 - 2 7 9 15 1 0 3 1 20
+p263
+aVRex Chapman PHX 03/02/2000 PHX vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p264
+aVToby Bailey PHX 03/02/2000 PHX vs. IND W 5 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 3
+p265
+aVClifford Robinson PHX 03/02/2000 PHX vs. IND W 29 22 9 14 64.3 1 2 50.0 3 3 100.0 3 1 4 3 0 0 2 1 18
+p266
+aVAnfernee Hardaway PHX 03/02/2000 PHX vs. IND W 36 15 5 13 38.5 0 0 - 5 6 83.3 2 3 5 5 2 0 1 1 28
+p267
+aVTom Gugliotta PHX 03/02/2000 PHX vs. IND W 33 19 8 14 57.1 0 0 - 3 4 75.0 2 6 8 1 2 1 1 2 25
+p268
+aVCorie Blount PHX 03/02/2000 PHX vs. IND W 16 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 0 1 0 0 3 20
+p269
+aVMark West PHX 03/02/2000 PHX vs. IND W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 7
+p270
+aVLuc Longley PHX 03/02/2000 PHX vs. IND W 15 7 3 4 75.0 0 0 - 1 2 50.0 0 6 6 0 0 2 1 4 17
+p271
+aVRodney Rogers PHX 03/02/2000 PHX vs. IND W 23 9 3 12 25.0 1 2 50.0 2 2 100.0 0 5 5 0 1 0 0 2 5
+p272
+aVRandy Livingston PHX 03/02/2000 PHX vs. IND W 19 16 6 10 60.0 4 5 80.0 0 0 - 1 0 1 2 1 0 1 4 12
+p273
+aVJason Kidd PHX 02/29/2000 PHX @ CLE W 39 21 7 14 50.0 1 4 25.0 6 7 85.7 2 7 9 6 3 1 3 4 5
+p274
+aVLuc Longley PHX 02/29/2000 PHX @ CLE W 16 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 1 2 4 6
+p275
+aVCorie Blount PHX 02/29/2000 PHX @ CLE W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 3
+p276
+aVShawn Marion PHX 02/29/2000 PHX @ CLE W 22 12 4 10 40.0 1 2 50.0 3 4 75.0 2 3 5 1 2 0 1 3 1
+p277
+aVTom Gugliotta PHX 02/29/2000 PHX @ CLE W 33 12 5 13 38.5 0 0 - 2 2 100.0 2 4 6 5 5 1 1 4 7
+p278
+aVToby Bailey PHX 02/29/2000 PHX @ CLE W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p279
+aVAnfernee Hardaway PHX 02/29/2000 PHX @ CLE W 44 22 9 16 56.3 0 0 - 4 8 50.0 0 3 3 2 1 1 3 1 12
+p280
+aVRodney Rogers PHX 02/29/2000 PHX @ CLE W 28 16 5 11 45.5 3 8 37.5 3 4 75.0 3 4 7 1 1 0 0 5 -1
+p281
+aVRandy Livingston PHX 02/29/2000 PHX @ CLE W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 2
+p282
+aVClifford Robinson PHX 02/29/2000 PHX @ CLE W 35 15 5 12 41.7 0 2 0.0 5 6 83.3 2 4 6 6 0 0 3 3 -2
+p283
+aVRex Chapman PHX 02/29/2000 PHX @ CLE W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p284
+aVLuc Longley PHX 02/27/2000 PHX @ TOR L 18 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 2 0 4 1 3
+p285
+aVAnfernee Hardaway PHX 02/27/2000 PHX @ TOR L 42 28 10 17 58.8 3 4 75.0 5 7 71.4 1 0 1 5 2 1 1 5 -3
+p286
+aVClifford Robinson PHX 02/27/2000 PHX @ TOR L 25 12 4 12 33.3 0 2 0.0 4 7 57.1 2 2 4 0 1 2 2 5 -9
+p287
+aVTom Gugliotta PHX 02/27/2000 PHX @ TOR L 38 11 3 8 37.5 0 0 - 5 6 83.3 1 6 7 4 1 0 3 5 2
+p288
+aVRodney Rogers PHX 02/27/2000 PHX @ TOR L 36 28 10 15 66.7 4 5 80.0 4 5 80.0 2 3 5 3 3 0 3 4 -1
+p289
+aVRex Chapman PHX 02/27/2000 PHX @ TOR L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 3 0
+p290
+aVShawn Marion PHX 02/27/2000 PHX @ TOR L 22 10 4 7 57.1 0 1 0.0 2 2 100.0 1 3 4 1 1 6 0 1 4
+p291
+aVRandy Livingston PHX 02/27/2000 PHX @ TOR L 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 3 1 0 2 1 0
+p292
+aVJason Kidd PHX 02/27/2000 PHX @ TOR L 40 9 3 6 50.0 0 1 0.0 3 4 75.0 0 4 4 4 1 0 5 2 -1
+p293
+aVJason Kidd PHX 02/25/2000 PHX @ NYK L 36 2 0 5 0.0 0 2 0.0 2 2 100.0 2 8 10 13 0 0 3 5 -10
+p294
+aVAnfernee Hardaway PHX 02/25/2000 PHX @ NYK L 44 14 6 15 40.0 1 4 25.0 1 2 50.0 0 7 7 5 5 0 5 1 -8
+p295
+aVLuc Longley PHX 02/25/2000 PHX @ NYK L 22 11 4 7 57.1 0 0 - 3 3 100.0 2 3 5 3 0 0 1 4 -2
+p296
+aVShawn Marion PHX 02/25/2000 PHX @ NYK L 12 7 3 5 60.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 1 3
+p297
+aVRandy Livingston PHX 02/25/2000 PHX @ NYK L 12 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 2 0 0 0 0 5
+p298
+aVRodney Rogers PHX 02/25/2000 PHX @ NYK L 34 13 5 10 50.0 1 4 25.0 2 2 100.0 0 3 3 0 1 2 1 4 -6
+p299
+aVTom Gugliotta PHX 02/25/2000 PHX @ NYK L 44 16 7 18 38.9 0 0 - 2 2 100.0 2 6 8 0 0 1 3 0 -3
+p300
+aVRex Chapman PHX 02/25/2000 PHX @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 3
+p301
+aVClifford Robinson PHX 02/25/2000 PHX @ NYK L 32 9 3 10 30.0 1 4 25.0 2 2 100.0 0 4 4 1 0 2 2 4 -7
+p302
+aVTom Gugliotta PHX 02/24/2000 PHX @ WAS W 39 20 6 10 60.0 0 0 - 8 10 80.0 2 6 8 2 3 2 1 1 12
+p303
+aVRex Chapman PHX 02/24/2000 PHX @ WAS W 13 5 2 3 66.7 0 0 - 1 3 33.3 0 3 3 1 0 0 0 0 4
+p304
+aVAnfernee Hardaway PHX 02/24/2000 PHX @ WAS W 35 13 4 8 50.0 0 0 - 5 5 100.0 0 3 3 7 2 1 4 2 5
+p305
+aVRodney Rogers PHX 02/24/2000 PHX @ WAS W 36 16 6 11 54.5 2 2 100.0 2 2 100.0 3 2 5 0 2 1 3 2 0
+p306
+aVShawn Marion PHX 02/24/2000 PHX @ WAS W 21 12 6 9 66.7 0 0 - 0 0 - 0 5 5 0 1 0 0 2 2
+p307
+aVRandy Livingston PHX 02/24/2000 PHX @ WAS W 11 4 2 7 28.6 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -3
+p308
+aVCorie Blount PHX 02/24/2000 PHX @ WAS W 17 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 1 0 1 3 8
+p309
+aVJason Kidd PHX 02/24/2000 PHX @ WAS W 37 9 3 13 23.1 1 2 50.0 2 6 33.3 1 6 7 9 3 0 2 4 12
+p310
+aVClifford Robinson PHX 02/24/2000 PHX @ WAS W 31 11 4 11 36.4 2 4 50.0 1 2 50.0 0 4 4 1 2 0 3 4 5
+p311
+aVAnfernee Hardaway PHX 02/22/2000 PHX vs. DEN W 31 10 3 9 33.3 0 1 0.0 4 6 66.7 3 7 10 4 0 1 5 1 38
+p312
+aVClifford Robinson PHX 02/22/2000 PHX vs. DEN W 32 12 4 9 44.4 2 2 100.0 2 4 50.0 1 3 4 1 1 0 3 2 32
+p313
+aVTom Gugliotta PHX 02/22/2000 PHX vs. DEN W 28 12 5 10 50.0 0 0 - 2 2 100.0 1 7 8 6 1 0 3 1 34
+p314
+aVRodney Rogers PHX 02/22/2000 PHX vs. DEN W 18 17 6 10 60.0 3 4 75.0 2 4 50.0 3 2 5 0 3 1 0 2 26
+p315
+aVRandy Livingston PHX 02/22/2000 PHX vs. DEN W 19 6 3 6 50.0 0 0 - 0 1 0.0 2 2 4 3 2 1 5 6 -5
+p316
+aVCorie Blount PHX 02/22/2000 PHX vs. DEN W 20 3 0 4 0.0 0 0 - 3 4 75.0 2 1 3 1 1 0 3 1 -15
+p317
+aVRex Chapman PHX 02/22/2000 PHX vs. DEN W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -16
+p318
+aVJason Kidd PHX 02/22/2000 PHX vs. DEN W 27 10 3 6 50.0 1 3 33.3 3 3 100.0 0 7 7 7 1 0 2 1 29
+p319
+aVToby Bailey PHX 02/22/2000 PHX vs. DEN W 10 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -19
+p320
+aVShawn Marion PHX 02/22/2000 PHX vs. DEN W 35 10 5 13 38.5 0 0 - 0 0 - 2 7 9 0 0 2 0 1 -1
+p321
+aVMark West PHX 02/22/2000 PHX vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p322
+aVTom Gugliotta PHX 02/21/2000 PHX @ SAS W 44 21 9 20 45.0 0 0 - 3 4 75.0 4 7 11 3 2 2 1 5 4
+p323
+aVLuc Longley PHX 02/21/2000 PHX @ SAS W 10 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 3 3 -17
+p324
+aVShawn Marion PHX 02/21/2000 PHX @ SAS W 11 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 5 5
+p325
+aVJason Kidd PHX 02/21/2000 PHX @ SAS W 40 8 3 8 37.5 0 1 0.0 2 2 100.0 1 4 5 11 4 0 3 2 5
+p326
+aVRex Chapman PHX 02/21/2000 PHX @ SAS W 18 13 5 10 50.0 3 5 60.0 0 0 - 0 3 3 2 0 0 1 1 26
+p327
+aVRandy Livingston PHX 02/21/2000 PHX @ SAS W 8 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 3 0 1 0 1 4
+p328
+aVRodney Rogers PHX 02/21/2000 PHX @ SAS W 38 22 9 15 60.0 3 5 60.0 1 2 50.0 1 8 9 1 5 0 3 2 26
+p329
+aVAnfernee Hardaway PHX 02/21/2000 PHX @ SAS W 32 11 2 10 20.0 1 2 50.0 6 7 85.7 0 3 3 2 1 1 1 2 -12
+p330
+aVClifford Robinson PHX 02/21/2000 PHX @ SAS W 38 14 6 16 37.5 1 3 33.3 1 2 50.0 5 3 8 2 0 1 0 4 4
+p331
+aVClifford Robinson PHX 02/18/2000 PHX vs. ATL W 32 6 2 12 16.7 1 2 50.0 1 2 50.0 2 1 3 4 0 3 0 1 10
+p332
+aVLuc Longley PHX 02/18/2000 PHX vs. ATL W 20 15 7 10 70.0 0 0 - 1 1 100.0 0 1 1 1 1 2 2 4 -3
+p333
+aVMark West PHX 02/18/2000 PHX vs. ATL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -1
+p334
+aVTom Gugliotta PHX 02/18/2000 PHX vs. ATL W 31 12 5 10 50.0 0 0 - 2 2 100.0 2 4 6 2 2 0 2 2 14
+p335
+aVRex Chapman PHX 02/18/2000 PHX vs. ATL W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 4
+p336
+aVJason Kidd PHX 02/18/2000 PHX vs. ATL W 39 8 3 10 30.0 0 2 0.0 2 2 100.0 0 5 5 9 2 0 1 1 14
+p337
+aVRodney Rogers PHX 02/18/2000 PHX vs. ATL W 33 24 10 19 52.6 1 4 25.0 3 8 37.5 3 5 8 3 1 1 1 4 24
+p338
+aVAnfernee Hardaway PHX 02/18/2000 PHX vs. ATL W 40 8 4 11 36.4 0 0 - 0 0 - 1 8 9 3 1 0 1 2 11
+p339
+aVToby Bailey PHX 02/18/2000 PHX vs. ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p340
+aVShawn Marion PHX 02/18/2000 PHX vs. ATL W 18 4 2 5 40.0 0 0 - 0 0 - 5 4 9 0 0 0 0 4 -3
+p341
+aVRandy Livingston PHX 02/18/2000 PHX vs. ATL W 9 8 4 8 50.0 0 0 - 0 0 - 1 1 2 3 0 0 0 2 -2
+p342
+aVCorie Blount PHX 02/18/2000 PHX vs. ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p343
+aVShawn Marion PHX 02/15/2000 PHX @ SAC W 17 10 5 6 83.3 0 0 - 0 0 - 0 5 5 1 1 0 0 1 7
+p344
+aVRandy Livingston PHX 02/15/2000 PHX @ SAC W 10 6 3 6 50.0 0 0 - 0 0 - 1 2 3 4 0 0 3 2 2
+p345
+aVJason Kidd PHX 02/15/2000 PHX @ SAC W 39 8 2 8 25.0 1 1 100.0 3 4 75.0 1 9 10 11 2 0 3 0 5
+p346
+aVAnfernee Hardaway PHX 02/15/2000 PHX @ SAC W 36 14 5 12 41.7 0 0 - 4 4 100.0 5 2 7 5 4 0 3 3 6
+p347
+aVClifford Robinson PHX 02/15/2000 PHX @ SAC W 40 16 7 17 41.2 0 4 0.0 2 2 100.0 4 1 5 6 2 0 4 3 4
+p348
+aVTom Gugliotta PHX 02/15/2000 PHX @ SAC W 34 18 6 11 54.5 0 0 - 6 6 100.0 3 4 7 3 1 0 1 1 5
+p349
+aVRodney Rogers PHX 02/15/2000 PHX @ SAC W 38 36 14 19 73.7 3 4 75.0 5 5 100.0 1 5 6 2 1 1 2 3 16
+p350
+aVLuc Longley PHX 02/15/2000 PHX @ SAC W 15 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 2 1 0 2 5 -5
+p351
+aVRex Chapman PHX 02/15/2000 PHX @ SAC W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 0 2 5
+p352
+aVRex Chapman PHX 02/10/2000 PHX vs. MIN W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 14
+p353
+aVClifford Robinson PHX 02/10/2000 PHX vs. MIN W 31 16 5 10 50.0 0 1 0.0 6 6 100.0 0 1 1 3 1 0 0 0 6
+p354
+aVLuc Longley PHX 02/10/2000 PHX vs. MIN W 34 14 5 9 55.6 0 0 - 4 4 100.0 3 9 12 0 0 1 0 4 19
+p355
+aVCorie Blount PHX 02/10/2000 PHX vs. MIN W 13 2 1 2 50.0 0 0 - 0 2 0.0 0 3 3 0 2 0 1 1 -3
+p356
+aVRandy Livingston PHX 02/10/2000 PHX vs. MIN W 12 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 2 1 0 1 0 4
+p357
+aVMark West PHX 02/10/2000 PHX vs. MIN W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p358
+aVToby Bailey PHX 02/10/2000 PHX vs. MIN W 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p359
+aVAnfernee Hardaway PHX 02/10/2000 PHX vs. MIN W 33 12 6 10 60.0 0 1 0.0 0 0 - 1 4 5 5 3 0 3 1 6
+p360
+aVRodney Rogers PHX 02/10/2000 PHX vs. MIN W 20 4 2 7 28.6 0 1 0.0 0 0 - 0 6 6 4 0 1 2 3 15
+p361
+aVJason Kidd PHX 02/10/2000 PHX vs. MIN W 36 16 6 11 54.5 1 2 50.0 3 6 50.0 1 3 4 7 2 1 5 2 12
+p362
+aVTom Gugliotta PHX 02/10/2000 PHX vs. MIN W 26 10 4 11 36.4 0 0 - 2 2 100.0 2 3 5 0 1 0 1 1 3
+p363
+aVShawn Marion PHX 02/10/2000 PHX vs. MIN W 17 14 4 7 57.1 0 0 - 6 6 100.0 4 4 8 1 0 1 1 0 12
+p364
+aVJason Kidd PHX 02/08/2000 PHX vs. VAN W 35 11 4 11 36.4 1 4 25.0 2 2 100.0 0 7 7 9 2 0 4 2 16
+p365
+aVCorie Blount PHX 02/08/2000 PHX vs. VAN W 12 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 0 1 0 2 1
+p366
+aVRandy Livingston PHX 02/08/2000 PHX vs. VAN W 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 1 4 3 2
+p367
+aVLuc Longley PHX 02/08/2000 PHX vs. VAN W 36 20 9 14 64.3 0 0 - 2 2 100.0 3 3 6 2 1 1 4 2 17
+p368
+aVTom Gugliotta PHX 02/08/2000 PHX vs. VAN W 26 12 6 9 66.7 0 0 - 0 0 - 1 2 3 3 3 0 0 2 15
+p369
+aVAnfernee Hardaway PHX 02/08/2000 PHX vs. VAN W 31 13 6 7 85.7 0 0 - 1 1 100.0 2 6 8 4 1 3 2 2 16
+p370
+aVClifford Robinson PHX 02/08/2000 PHX vs. VAN W 34 11 3 10 30.0 1 3 33.3 4 4 100.0 1 2 3 7 1 0 3 3 14
+p371
+aVShawn Marion PHX 02/08/2000 PHX vs. VAN W 19 10 5 9 55.6 0 0 - 0 0 - 0 7 7 1 0 1 1 0 5
+p372
+aVRex Chapman PHX 02/08/2000 PHX vs. VAN W 18 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 3 0 1 0 2 4
+p373
+aVRodney Rogers PHX 02/08/2000 PHX vs. VAN W 17 8 4 6 66.7 0 0 - 0 0 - 0 3 3 1 2 2 0 3 0
+p374
+aVCorie Blount PHX 02/06/2000 PHX vs. SEA W 16 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 0 1 2 4 3
+p375
+aVRex Chapman PHX 02/06/2000 PHX vs. SEA W 12 4 2 3 66.7 0 0 - 0 1 0.0 0 0 0 0 0 0 0 2 -4
+p376
+aVRandy Livingston PHX 02/06/2000 PHX vs. SEA W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -5
+p377
+aVTodd Day PHX 02/06/2000 PHX vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p378
+aVRodney Rogers PHX 02/06/2000 PHX vs. SEA W 37 22 8 12 66.7 3 3 100.0 3 3 100.0 0 6 6 3 2 1 1 1 7
+p379
+aVClifford Robinson PHX 02/06/2000 PHX vs. SEA W 35 7 3 16 18.8 1 5 20.0 0 0 - 3 5 8 4 3 0 3 3 13
+p380
+aVTom Gugliotta PHX 02/06/2000 PHX vs. SEA W 36 16 8 11 72.7 0 0 - 0 0 - 5 4 9 3 6 1 2 3 16
+p381
+aVJason Kidd PHX 02/06/2000 PHX vs. SEA W 38 22 7 12 58.3 2 2 100.0 6 7 85.7 2 5 7 12 2 2 1 1 18
+p382
+aVLuc Longley PHX 02/06/2000 PHX vs. SEA W 18 9 4 9 44.4 0 0 - 1 2 50.0 2 6 8 0 0 1 3 5 -1
+p383
+aVAnfernee Hardaway PHX 02/06/2000 PHX vs. SEA W 40 19 6 13 46.2 0 1 0.0 7 9 77.8 1 3 4 6 1 0 3 4 16
+p384
+aVToby Bailey PHX 02/06/2000 PHX vs. SEA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p385
+aVAnfernee Hardaway PHX 02/04/2000 PHX @ SEA L 45 17 7 13 53.8 1 3 33.3 2 2 100.0 2 5 7 3 0 0 4 3 -16
+p386
+aVClifford Robinson PHX 02/04/2000 PHX @ SEA L 17 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 0 0 1 0 0 -13
+p387
+aVJason Kidd PHX 02/04/2000 PHX @ SEA L 42 8 3 14 21.4 1 4 25.0 1 2 50.0 2 10 12 6 2 0 2 4 -4
+p388
+aVCorie Blount PHX 02/04/2000 PHX @ SEA L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 6
+p389
+aVLuc Longley PHX 02/04/2000 PHX @ SEA L 16 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 1 1 3 -10
+p390
+aVOliver Miller PHX 02/04/2000 PHX @ SEA L 18 6 3 3 100.0 0 0 - 0 0 - 1 4 5 0 0 0 0 3 1
+p391
+aVRodney Rogers PHX 02/04/2000 PHX @ SEA L 41 26 10 20 50.0 1 3 33.3 5 5 100.0 2 0 2 3 1 0 1 4 6
+p392
+aVRex Chapman PHX 02/04/2000 PHX @ SEA L 16 9 2 6 33.3 1 2 50.0 4 5 80.0 1 0 1 3 0 0 1 2 0
+p393
+aVTom Gugliotta PHX 02/04/2000 PHX @ SEA L 41 10 3 12 25.0 0 1 0.0 4 4 100.0 4 5 9 5 1 0 2 3 -10
+p394
+aVTodd Day PHX 02/02/2000 PHX vs. LAC W 20 11 4 9 44.4 1 5 20.0 2 3 66.7 0 0 0 2 1 0 1 2 18
+p395
+aVCorie Blount PHX 02/02/2000 PHX vs. LAC W 21 6 2 3 66.7 0 0 - 2 2 100.0 1 6 7 1 1 0 0 1 21
+p396
+aVTom Gugliotta PHX 02/02/2000 PHX vs. LAC W 26 14 7 11 63.6 0 0 - 0 0 - 2 6 8 3 2 0 2 1 32
+p397
+aVToby Bailey PHX 02/02/2000 PHX vs. LAC W 10 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 2 2 0 0 0 9
+p398
+aVRandy Livingston PHX 02/02/2000 PHX vs. LAC W 22 12 6 8 75.0 0 0 - 0 0 - 0 6 6 3 1 1 1 1 20
+p399
+aVLuc Longley PHX 02/02/2000 PHX vs. LAC W 32 10 5 11 45.5 0 0 - 0 0 - 2 7 9 3 0 1 2 3 23
+p400
+aVAnfernee Hardaway PHX 02/02/2000 PHX vs. LAC W 28 12 6 9 66.7 0 0 - 0 0 - 1 5 6 5 1 0 1 3 28
+p401
+aVClifford Robinson PHX 02/02/2000 PHX vs. LAC W 29 21 8 15 53.3 0 2 0.0 5 5 100.0 1 2 3 4 0 0 1 1 26
+p402
+aVRodney Rogers PHX 02/02/2000 PHX vs. LAC W 26 8 3 4 75.0 1 2 50.0 1 3 33.3 2 2 4 1 4 0 4 4 27
+p403
+aVJason Kidd PHX 02/02/2000 PHX vs. LAC W 26 12 5 10 50.0 0 2 0.0 2 2 100.0 0 5 5 8 3 0 1 2 26
+p404
+aVTom Gugliotta PHX 01/31/2000 PHX @ ORL W 28 17 7 14 50.0 0 0 - 3 4 75.0 4 2 6 2 2 1 0 5 5
+p405
+aVJason Kidd PHX 01/31/2000 PHX @ ORL W 42 20 7 11 63.6 3 3 100.0 3 5 60.0 3 5 8 14 1 0 0 2 4
+p406
+aVClifford Robinson PHX 01/31/2000 PHX @ ORL W 40 28 11 20 55.0 2 5 40.0 4 6 66.7 1 0 1 1 0 1 3 4 -6
+p407
+aVRodney Rogers PHX 01/31/2000 PHX @ ORL W 25 8 2 3 66.7 0 1 0.0 4 6 66.7 0 5 5 5 1 1 3 3 -3
+p408
+aVAnfernee Hardaway PHX 01/31/2000 PHX @ ORL W 40 21 5 14 35.7 0 2 0.0 11 14 78.6 1 3 4 4 0 2 4 4 -7
+p409
+aVLuc Longley PHX 01/31/2000 PHX @ ORL W 20 4 2 3 66.7 0 0 - 0 0 - 1 7 8 2 0 1 1 2 5
+p410
+aVTodd Day PHX 01/31/2000 PHX @ ORL W 21 6 2 6 33.3 0 3 0.0 2 4 50.0 0 5 5 3 0 1 0 2 9
+p411
+aVRandy Livingston PHX 01/31/2000 PHX @ ORL W 9 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 0 5
+p412
+aVOliver Miller PHX 01/31/2000 PHX @ ORL W 15 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 1 0 1 0 8
+p413
+aVOliver Miller PHX 01/29/2000 PHX @ CHH L 20 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 1 0 1 3 -9
+p414
+aVToby Bailey PHX 01/29/2000 PHX @ CHH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p415
+aVRex Chapman PHX 01/29/2000 PHX @ CHH L 16 8 4 5 80.0 0 0 - 0 0 - 0 0 0 1 1 0 0 3 -13
+p416
+aVRodney Rogers PHX 01/29/2000 PHX @ CHH L 8 3 1 5 20.0 0 0 - 1 1 100.0 0 1 1 0 0 1 1 1 -8
+p417
+aVLuc Longley PHX 01/29/2000 PHX @ CHH L 28 4 2 7 28.6 0 0 - 0 1 0.0 1 3 4 1 0 1 5 5 -12
+p418
+aVClifford Robinson PHX 01/29/2000 PHX @ CHH L 34 15 4 11 36.4 2 6 33.3 5 5 100.0 0 2 2 5 1 1 2 4 -13
+p419
+aVCorie Blount PHX 01/29/2000 PHX @ CHH L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -5
+p420
+aVJason Kidd PHX 01/29/2000 PHX @ CHH L 37 4 1 10 10.0 0 2 0.0 2 2 100.0 0 1 1 6 4 0 3 1 -8
+p421
+aVTom Gugliotta PHX 01/29/2000 PHX @ CHH L 35 13 6 13 46.2 0 0 - 1 2 50.0 0 11 11 3 2 3 3 6 -3
+p422
+aVTodd Day PHX 01/29/2000 PHX @ CHH L 4 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p423
+aVRandy Livingston PHX 01/29/2000 PHX @ CHH L 12 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 1 0 0 2 2 -13
+p424
+aVAnfernee Hardaway PHX 01/29/2000 PHX @ CHH L 37 24 10 15 66.7 2 2 100.0 2 4 50.0 4 2 6 0 1 0 1 1 -11
+p425
+aVRandy Livingston PHX 01/28/2000 PHX @ BOS L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p426
+aVJason Kidd PHX 01/28/2000 PHX @ BOS L 44 2 1 8 12.5 0 3 0.0 0 0 - 1 11 12 14 1 0 5 2 0
+p427
+aVTodd Day PHX 01/28/2000 PHX @ BOS L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -12
+p428
+aVAnfernee Hardaway PHX 01/28/2000 PHX @ BOS L 32 18 5 9 55.6 2 2 100.0 6 6 100.0 4 2 6 4 0 1 1 6 12
+p429
+aVTom Gugliotta PHX 01/28/2000 PHX @ BOS L 28 6 2 9 22.2 0 1 0.0 2 2 100.0 4 3 7 1 0 0 1 3 3
+p430
+aVLuc Longley PHX 01/28/2000 PHX @ BOS L 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -6
+p431
+aVRex Chapman PHX 01/28/2000 PHX @ BOS L 23 12 4 8 50.0 2 3 66.7 2 2 100.0 0 3 3 0 1 0 2 2 -1
+p432
+aVRodney Rogers PHX 01/28/2000 PHX @ BOS L 15 5 2 9 22.2 0 2 0.0 1 2 50.0 0 3 3 0 0 0 0 2 -3
+p433
+aVOliver Miller PHX 01/28/2000 PHX @ BOS L 26 6 3 7 42.9 0 0 - 0 0 - 4 2 6 1 2 1 3 4 -9
+p434
+aVClifford Robinson PHX 01/28/2000 PHX @ BOS L 43 37 13 23 56.5 3 8 37.5 8 10 80.0 1 3 4 1 1 1 3 4 7
+p435
+aVToby Bailey PHX 01/28/2000 PHX @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p436
+aVJason Kidd PHX 01/26/2000 PHX @ PHI W 42 5 1 11 9.1 0 2 0.0 3 3 100.0 3 10 13 8 2 0 2 2 1
+p437
+aVClifford Robinson PHX 01/26/2000 PHX @ PHI W 41 19 6 14 42.9 2 4 50.0 5 10 50.0 1 3 4 5 1 2 4 1 7
+p438
+aVAnfernee Hardaway PHX 01/26/2000 PHX @ PHI W 40 27 12 21 57.1 1 5 20.0 2 2 100.0 2 1 3 4 1 2 2 3 15
+p439
+aVRex Chapman PHX 01/26/2000 PHX @ PHI W 17 8 1 3 33.3 1 2 50.0 5 6 83.3 0 1 1 2 0 0 1 1 1
+p440
+aVTom Gugliotta PHX 01/26/2000 PHX @ PHI W 30 17 7 11 63.6 0 1 0.0 3 3 100.0 0 5 5 1 1 0 2 6 8
+p441
+aVRodney Rogers PHX 01/26/2000 PHX @ PHI W 15 6 2 5 40.0 2 2 100.0 0 0 - 3 2 5 1 0 1 0 6 -7
+p442
+aVOliver Miller PHX 01/26/2000 PHX @ PHI W 35 2 1 5 20.0 0 0 - 0 0 - 3 5 8 4 1 3 3 2 8
+p443
+aVTodd Day PHX 01/26/2000 PHX @ PHI W 7 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 -1
+p444
+aVLuc Longley PHX 01/26/2000 PHX @ PHI W 13 4 1 2 50.0 0 0 - 2 2 100.0 0 5 5 1 0 0 3 4 -2
+p445
+aVTom Gugliotta PHX 01/25/2000 PHX @ IND L 39 8 4 16 25.0 0 1 0.0 0 0 - 2 8 10 2 3 0 4 3 -1
+p446
+aVTodd Day PHX 01/25/2000 PHX @ IND L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 -2
+p447
+aVRex Chapman PHX 01/25/2000 PHX @ IND L 10 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -12
+p448
+aVAnfernee Hardaway PHX 01/25/2000 PHX @ IND L 38 14 6 11 54.5 0 0 - 2 2 100.0 1 3 4 5 0 1 2 4 6
+p449
+aVJason Kidd PHX 01/25/2000 PHX @ IND L 45 22 8 17 47.1 2 7 28.6 4 4 100.0 1 6 7 8 1 0 4 2 2
+p450
+aVCorie Blount PHX 01/25/2000 PHX @ IND L 6 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 0 0 -2
+p451
+aVRodney Rogers PHX 01/25/2000 PHX @ IND L 25 13 4 7 57.1 2 4 50.0 3 4 75.0 0 7 7 0 2 0 2 5 2
+p452
+aVClifford Robinson PHX 01/25/2000 PHX @ IND L 45 24 9 18 50.0 2 4 50.0 4 6 66.7 2 3 5 2 1 0 2 4 -4
+p453
+aVLuc Longley PHX 01/25/2000 PHX @ IND L 23 4 1 6 16.7 0 0 - 2 4 50.0 3 3 6 1 1 2 1 3 -11
+p454
+aVRandy Livingston PHX 01/25/2000 PHX @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p455
+aVRodney Rogers PHX 01/22/2000 PHX vs. CLE W 30 16 6 9 66.7 2 3 66.7 2 4 50.0 2 4 6 2 1 0 2 3 25
+p456
+aVToby Bailey PHX 01/22/2000 PHX vs. CLE W 8 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -3
+p457
+aVRandy Livingston PHX 01/22/2000 PHX vs. CLE W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -9
+p458
+aVLuc Longley PHX 01/22/2000 PHX vs. CLE W 17 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 1 0 3 2 -7
+p459
+aVJason Kidd PHX 01/22/2000 PHX vs. CLE W 36 16 5 13 38.5 2 5 40.0 4 4 100.0 3 2 5 12 1 0 4 2 17
+p460
+aVClifford Robinson PHX 01/22/2000 PHX vs. CLE W 36 13 3 11 27.3 0 3 0.0 7 8 87.5 0 1 1 6 2 0 5 4 10
+p461
+aVAnfernee Hardaway PHX 01/22/2000 PHX vs. CLE W 28 12 3 10 30.0 0 1 0.0 6 6 100.0 2 4 6 3 0 1 2 1 7
+p462
+aVOliver Miller PHX 01/22/2000 PHX vs. CLE W 22 8 2 2 100.0 0 0 - 4 4 100.0 1 2 3 1 1 4 3 5 12
+p463
+aVTodd Day PHX 01/22/2000 PHX vs. CLE W 13 9 3 8 37.5 3 6 50.0 0 0 - 0 0 0 2 0 0 1 3 12
+p464
+aVTom Gugliotta PHX 01/22/2000 PHX vs. CLE W 38 15 6 13 46.2 0 0 - 3 3 100.0 2 7 9 0 2 0 1 3 1
+p465
+aVJason Kidd PHX 01/21/2000 PHX @ DEN W 41 24 9 19 47.4 0 1 0.0 6 6 100.0 1 2 3 12 2 1 2 5 11
+p466
+aVTom Gugliotta PHX 01/21/2000 PHX @ DEN W 39 21 7 10 70.0 1 1 100.0 6 6 100.0 3 12 15 2 1 0 0 2 14
+p467
+aVCorie Blount PHX 01/21/2000 PHX @ DEN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -6
+p468
+aVToby Bailey PHX 01/21/2000 PHX @ DEN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p469
+aVTodd Day PHX 01/21/2000 PHX @ DEN W 32 10 4 8 50.0 2 5 40.0 0 0 - 1 4 5 2 1 1 2 1 -3
+p470
+aVRodney Rogers PHX 01/21/2000 PHX @ DEN W 21 12 6 11 54.5 0 0 - 0 0 - 3 1 4 1 0 0 1 5 2
+p471
+aVRex Chapman PHX 01/21/2000 PHX @ DEN W 18 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 1 1 0 2 2 2
+p472
+aVLuc Longley PHX 01/21/2000 PHX @ DEN W 30 4 1 8 12.5 0 0 - 2 2 100.0 4 5 9 3 0 0 2 3 -4
+p473
+aVClifford Robinson PHX 01/21/2000 PHX @ DEN W 43 24 8 19 42.1 1 2 50.0 7 8 87.5 1 5 6 2 1 0 3 4 6
+p474
+aVRandy Livingston PHX 01/21/2000 PHX @ DEN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 3 0 -9
+p475
+aVTom Gugliotta PHX 01/16/2000 PHX vs. DEN W 21 6 2 9 22.2 0 0 - 2 2 100.0 2 4 6 5 1 0 3 4 -1
+p476
+aVCorie Blount PHX 01/16/2000 PHX vs. DEN W 21 6 3 6 50.0 0 0 - 0 1 0.0 2 6 8 0 0 0 0 3 16
+p477
+aVLuc Longley PHX 01/16/2000 PHX vs. DEN W 27 8 4 8 50.0 0 0 - 0 0 - 1 2 3 1 0 2 3 2 -5
+p478
+aVRandy Livingston PHX 01/16/2000 PHX vs. DEN W 15 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 3 0 0 0 0 4
+p479
+aVClifford Robinson PHX 01/16/2000 PHX vs. DEN W 43 50 17 26 65.4 3 5 60.0 13 15 86.7 3 5 8 4 0 2 0 2 23
+p480
+aVRodney Rogers PHX 01/16/2000 PHX vs. DEN W 27 8 3 6 50.0 0 0 - 2 2 100.0 1 5 6 4 0 1 3 3 12
+p481
+aVToby Bailey PHX 01/16/2000 PHX vs. DEN W 28 12 5 6 83.3 0 0 - 2 4 50.0 2 3 5 5 1 0 2 5 -4
+p482
+aVTodd Day PHX 01/16/2000 PHX vs. DEN W 25 15 5 7 71.4 2 2 100.0 3 4 75.0 0 1 1 0 0 1 5 2 -3
+p483
+aVJason Kidd PHX 01/16/2000 PHX vs. DEN W 34 5 2 6 33.3 1 2 50.0 0 0 - 2 5 7 13 2 0 4 2 13
+p484
+aVMark West PHX 01/14/2000 PHX vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p485
+aVRandy Livingston PHX 01/14/2000 PHX vs. POR L 21 6 3 8 37.5 0 1 0.0 0 0 - 0 0 0 3 1 1 0 1 -18
+p486
+aVJason Kidd PHX 01/14/2000 PHX vs. POR L 40 17 6 15 40.0 0 1 0.0 5 8 62.5 1 5 6 8 3 0 4 3 -18
+p487
+aVToby Bailey PHX 01/14/2000 PHX vs. POR L 18 3 1 4 25.0 0 1 0.0 1 2 50.0 1 3 4 0 0 0 2 3 -8
+p488
+aVClifford Robinson PHX 01/14/2000 PHX vs. POR L 37 23 9 18 50.0 1 2 50.0 4 6 66.7 1 2 3 0 0 1 1 2 -18
+p489
+aVCorie Blount PHX 01/14/2000 PHX vs. POR L 19 5 1 2 50.0 0 0 - 3 4 75.0 3 0 3 1 0 0 1 4 -7
+p490
+aVLuc Longley PHX 01/14/2000 PHX vs. POR L 26 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 0 0 2 4 -16
+p491
+aVTom Gugliotta PHX 01/14/2000 PHX vs. POR L 26 7 3 9 33.3 0 0 - 1 2 50.0 1 5 6 1 0 1 4 5 -1
+p492
+aVTodd Day PHX 01/14/2000 PHX vs. POR L 18 0 0 3 0.0 0 2 0.0 0 4 0.0 0 1 1 1 0 2 1 3 -4
+p493
+aVRodney Rogers PHX 01/14/2000 PHX vs. POR L 31 16 6 12 50.0 0 2 0.0 4 4 100.0 7 3 10 2 0 1 2 3 -16
+p494
+aVTom Gugliotta PHX 01/12/2000 PHX @ VAN W 20 12 6 12 50.0 0 0 - 0 0 - 3 3 6 0 1 0 0 5 4
+p495
+aVJason Kidd PHX 01/12/2000 PHX @ VAN W 44 20 4 18 22.2 1 7 14.3 11 13 84.6 4 6 10 10 6 0 4 4 -3
+p496
+aVTodd Day PHX 01/12/2000 PHX @ VAN W 8 5 1 3 33.3 0 2 0.0 3 4 75.0 1 0 1 0 0 0 0 1 1
+p497
+aVRex Chapman PHX 01/12/2000 PHX @ VAN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p498
+aVRandy Livingston PHX 01/12/2000 PHX @ VAN W 24 6 2 6 33.3 0 0 - 2 3 66.7 1 2 3 4 2 0 0 2 15
+p499
+aVRodney Rogers PHX 01/12/2000 PHX @ VAN W 23 14 6 13 46.2 2 4 50.0 0 0 - 2 1 3 1 1 1 2 6 0
+p500
+aVLuc Longley PHX 01/12/2000 PHX @ VAN W 36 15 6 9 66.7 0 0 - 3 3 100.0 2 4 6 1 0 1 4 3 10
+p501
+aVCorie Blount PHX 01/12/2000 PHX @ VAN W 17 3 1 3 33.3 0 0 - 1 2 50.0 3 1 4 2 0 1 1 2 -9
+p502
+aVClifford Robinson PHX 01/12/2000 PHX @ VAN W 42 13 6 17 35.3 1 7 14.3 0 2 0.0 1 3 4 6 2 2 0 3 0
+p503
+aVToby Bailey PHX 01/12/2000 PHX @ VAN W 21 7 3 9 33.3 1 1 100.0 0 0 - 2 2 4 0 0 0 0 3 -6
+p504
+aVTodd Day PHX 01/11/2000 PHX @ SEA L 8 4 1 2 50.0 1 2 50.0 1 2 50.0 1 2 3 0 0 0 1 0 0
+p505
+aVMark West PHX 01/11/2000 PHX @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p506
+aVTom Gugliotta PHX 01/11/2000 PHX @ SEA L 32 12 6 16 37.5 0 0 - 0 0 - 4 5 9 1 1 1 0 3 -25
+p507
+aVRodney Rogers PHX 01/11/2000 PHX @ SEA L 30 10 5 9 55.6 0 1 0.0 0 1 0.0 1 1 2 2 0 1 2 2 -13
+p508
+aVJason Kidd PHX 01/11/2000 PHX @ SEA L 44 12 5 15 33.3 0 1 0.0 2 2 100.0 2 5 7 15 0 0 3 4 -18
+p509
+aVRex Chapman PHX 01/11/2000 PHX @ SEA L 35 13 5 13 38.5 3 6 50.0 0 0 - 0 1 1 0 1 0 1 1 -14
+p510
+aVToby Bailey PHX 01/11/2000 PHX @ SEA L 9 4 2 4 50.0 0 1 0.0 0 1 0.0 0 1 1 0 1 0 0 0 6
+p511
+aVLuc Longley PHX 01/11/2000 PHX @ SEA L 29 12 5 9 55.6 0 0 - 2 4 50.0 3 4 7 1 0 0 1 3 -11
+p512
+aVClifford Robinson PHX 01/11/2000 PHX @ SEA L 33 17 7 16 43.8 3 8 37.5 0 0 - 0 3 3 2 0 0 0 4 -7
+p513
+aVCorie Blount PHX 01/11/2000 PHX @ SEA L 14 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 2 3 7
+p514
+aVRandy Livingston PHX 01/11/2000 PHX @ SEA L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 1 5
+p515
+aVLuc Longley PHX 01/08/2000 PHX @ POR L 26 9 4 7 57.1 0 0 - 1 3 33.3 3 2 5 1 2 1 2 4 6
+p516
+aVRodney Rogers PHX 01/08/2000 PHX @ POR L 20 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 3 0 0 1 4 2
+p517
+aVRandy Livingston PHX 01/08/2000 PHX @ POR L 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p518
+aVTodd Day PHX 01/08/2000 PHX @ POR L 31 15 5 11 45.5 2 5 40.0 3 4 75.0 3 2 5 1 3 0 1 2 8
+p519
+aVClifford Robinson PHX 01/08/2000 PHX @ POR L 37 12 4 13 30.8 1 4 25.0 3 4 75.0 0 2 2 2 1 0 0 4 -16
+p520
+aVToby Bailey PHX 01/08/2000 PHX @ POR L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p521
+aVJason Kidd PHX 01/08/2000 PHX @ POR L 44 13 5 14 35.7 2 3 66.7 1 3 33.3 1 6 7 14 1 0 3 5 -7
+p522
+aVRex Chapman PHX 01/08/2000 PHX @ POR L 41 20 8 18 44.4 1 7 14.3 3 3 100.0 1 2 3 1 0 0 1 4 -10
+p523
+aVTom Gugliotta PHX 01/08/2000 PHX @ POR L 35 13 6 18 33.3 0 1 0.0 1 4 25.0 4 5 9 3 0 0 4 1 -10
+p524
+aVTodd Day PHX 01/07/2000 PHX vs. SAS L 24 4 0 8 0.0 0 2 0.0 4 6 66.7 3 2 5 0 0 1 0 2 -7
+p525
+aVToby Bailey PHX 01/07/2000 PHX vs. SAS L 9 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 2 6
+p526
+aVLuc Longley PHX 01/07/2000 PHX vs. SAS L 30 10 4 9 44.4 0 0 - 2 2 100.0 5 5 10 1 1 4 2 4 -9
+p527
+aVBen Davis PHX 01/07/2000 PHX vs. SAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 5 5 1 1 0 2 1 -4
+p528
+aVMark West PHX 01/07/2000 PHX vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 4
+p529
+aVRodney Rogers PHX 01/07/2000 PHX vs. SAS L 14 4 2 3 66.7 0 0 - 0 2 0.0 1 1 2 1 0 0 3 4 -5
+p530
+aVRex Chapman PHX 01/07/2000 PHX vs. SAS L 29 9 4 10 40.0 1 6 16.7 0 0 - 0 1 1 2 2 0 1 2 -19
+p531
+aVTom Gugliotta PHX 01/07/2000 PHX vs. SAS L 34 14 7 18 38.9 0 0 - 0 0 - 2 4 6 2 0 2 2 3 -17
+p532
+aVJason Kidd PHX 01/07/2000 PHX vs. SAS L 36 4 2 14 14.3 0 1 0.0 0 0 - 3 4 7 13 1 0 8 3 -23
+p533
+aVOliver Miller PHX 01/07/2000 PHX vs. SAS L 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -3
+p534
+aVClifford Robinson PHX 01/07/2000 PHX vs. SAS L 33 22 9 13 69.2 4 5 80.0 0 0 - 2 3 5 4 0 0 1 3 -20
+p535
+aVRandy Livingston PHX 01/07/2000 PHX vs. SAS L 12 12 5 10 50.0 1 1 100.0 1 1 100.0 1 0 1 1 1 0 1 0 2
+p536
+aVTom Gugliotta PHX 01/04/2000 PHX vs. CHH W 16 2 1 6 16.7 0 0 - 0 0 - 3 7 10 1 0 0 2 3 -8
+p537
+aVJason Kidd PHX 01/04/2000 PHX vs. CHH W 38 11 4 12 33.3 1 2 50.0 2 2 100.0 2 5 7 10 1 3 2 1 6
+p538
+aVRandy Livingston PHX 01/04/2000 PHX vs. CHH W 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p539
+aVTodd Day PHX 01/04/2000 PHX vs. CHH W 19 13 5 13 38.5 3 9 33.3 0 0 - 3 4 7 2 3 0 2 3 7
+p540
+aVOliver Miller PHX 01/04/2000 PHX vs. CHH W 31 7 3 6 50.0 0 0 - 1 1 100.0 3 5 8 0 1 1 4 4 15
+p541
+aVClifford Robinson PHX 01/04/2000 PHX vs. CHH W 39 30 12 19 63.2 4 7 57.1 2 5 40.0 3 6 9 5 0 2 4 4 7
+p542
+aVLuc Longley PHX 01/04/2000 PHX vs. CHH W 18 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 0 3 2 -6
+p543
+aVRex Chapman PHX 01/04/2000 PHX vs. CHH W 32 7 2 9 22.2 1 6 16.7 2 2 100.0 0 2 2 0 1 0 0 1 -1
+p544
+aVBen Davis PHX 01/04/2000 PHX vs. CHH W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -2
+p545
+aVRodney Rogers PHX 01/04/2000 PHX vs. CHH W 32 8 3 7 42.9 0 0 - 2 3 66.7 2 5 7 4 2 0 5 4 12
+p546
+aVBen Davis PHX 12/29/1999 PHX @ LAL L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p547
+aVTodd Day PHX 12/29/1999 PHX @ LAL L 23 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 2 0 0 3 -4
+p548
+aVJason Kidd PHX 12/29/1999 PHX @ LAL L 41 14 6 19 31.6 0 2 0.0 2 2 100.0 3 4 7 11 2 0 4 2 -10
+p549
+aVMark West PHX 12/29/1999 PHX @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p550
+aVRex Chapman PHX 12/29/1999 PHX @ LAL L 36 18 7 17 41.2 4 8 50.0 0 0 - 1 2 3 0 2 0 2 2 -9
+p551
+aVRodney Rogers PHX 12/29/1999 PHX @ LAL L 38 14 5 13 38.5 1 4 25.0 3 4 75.0 1 4 5 3 1 0 1 3 -14
+p552
+aVLuc Longley PHX 12/29/1999 PHX @ LAL L 23 10 5 8 62.5 0 0 - 0 0 - 1 6 7 1 1 0 0 4 10
+p553
+aVOliver Miller PHX 12/29/1999 PHX @ LAL L 19 2 1 5 20.0 0 0 - 0 0 - 4 3 7 0 1 1 1 1 -18
+p554
+aVToby Bailey PHX 12/29/1999 PHX @ LAL L 10 2 0 0 - 0 0 - 2 4 50.0 0 2 2 1 1 0 1 2 -5
+p555
+aVRandy Livingston PHX 12/29/1999 PHX @ LAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -6
+p556
+aVClifford Robinson PHX 12/29/1999 PHX @ LAL L 40 24 9 23 39.1 1 3 33.3 5 8 62.5 5 3 8 3 1 1 2 2 -12
+p557
+aVRandy Livingston PHX 12/27/1999 PHX @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p558
+aVTodd Day PHX 12/27/1999 PHX @ UTA L 20 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 1 0 0 3 4 11
+p559
+aVRex Chapman PHX 12/27/1999 PHX @ UTA L 38 29 10 14 71.4 3 4 75.0 6 7 85.7 0 1 1 1 1 0 1 2 3
+p560
+aVJason Kidd PHX 12/27/1999 PHX @ UTA L 42 16 7 13 53.8 1 3 33.3 1 1 100.0 1 11 12 15 1 1 9 3 -3
+p561
+aVOliver Miller PHX 12/27/1999 PHX @ UTA L 28 10 4 4 100.0 0 0 - 2 2 100.0 1 5 6 2 0 1 1 5 -8
+p562
+aVToby Bailey PHX 12/27/1999 PHX @ UTA L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p563
+aVRodney Rogers PHX 12/27/1999 PHX @ UTA L 42 14 5 10 50.0 3 5 60.0 1 2 50.0 0 5 5 3 2 0 4 4 -5
+p564
+aVLuc Longley PHX 12/27/1999 PHX @ UTA L 15 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 0 1 2 5 0
+p565
+aVClifford Robinson PHX 12/27/1999 PHX @ UTA L 38 11 4 13 30.8 0 3 0.0 3 3 100.0 0 4 4 0 1 0 4 5 2
+p566
+aVMark West PHX 12/26/1999 PHX vs. GSW W 10 2 1 1 100.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -2
+p567
+aVToby Bailey PHX 12/26/1999 PHX vs. GSW W 32 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 1 0 1 3 15
+p568
+aVRandy Livingston PHX 12/26/1999 PHX vs. GSW W 19 6 2 5 40.0 0 0 - 2 2 100.0 0 6 6 5 1 0 0 1 6
+p569
+aVRex Chapman PHX 12/26/1999 PHX vs. GSW W 17 9 3 4 75.0 2 2 100.0 1 2 50.0 0 1 1 1 0 0 1 0 -2
+p570
+aVLuc Longley PHX 12/26/1999 PHX vs. GSW W 12 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 2 0 0 2 5 5
+p571
+aVOliver Miller PHX 12/26/1999 PHX vs. GSW W 26 12 6 7 85.7 0 0 - 0 1 0.0 4 2 6 3 0 2 2 3 17
+p572
+aVTodd Day PHX 12/26/1999 PHX vs. GSW W 24 9 3 8 37.5 2 6 33.3 1 2 50.0 0 2 2 4 2 2 2 4 13
+p573
+aVBen Davis PHX 12/26/1999 PHX vs. GSW W 4 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -4
+p574
+aVRodney Rogers PHX 12/26/1999 PHX vs. GSW W 28 13 6 10 60.0 1 2 50.0 0 2 0.0 1 5 6 4 1 1 1 3 13
+p575
+aVClifford Robinson PHX 12/26/1999 PHX vs. GSW W 33 25 11 16 68.8 1 2 50.0 2 4 50.0 0 8 8 3 1 0 5 1 18
+p576
+aVJason Kidd PHX 12/26/1999 PHX vs. GSW W 35 19 6 11 54.5 0 0 - 7 7 100.0 1 5 6 7 3 0 5 0 21
+p577
+aVJason Kidd PHX 12/23/1999 PHX vs. DAL L 44 25 11 19 57.9 3 5 60.0 0 0 - 0 6 6 15 5 0 1 2 1
+p578
+aVToby Bailey PHX 12/23/1999 PHX vs. DAL L 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p579
+aVRandy Livingston PHX 12/23/1999 PHX vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p580
+aVLuc Longley PHX 12/23/1999 PHX vs. DAL L 15 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 2 -6
+p581
+aVRodney Rogers PHX 12/23/1999 PHX vs. DAL L 31 17 7 14 50.0 0 0 - 3 4 75.0 3 1 4 1 2 0 3 6 -12
+p582
+aVClifford Robinson PHX 12/23/1999 PHX vs. DAL L 43 30 10 21 47.6 4 9 44.4 6 9 66.7 4 5 9 6 3 1 5 2 8
+p583
+aVBen Davis PHX 12/23/1999 PHX vs. DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p584
+aVOliver Miller PHX 12/23/1999 PHX vs. DAL L 33 8 4 5 80.0 0 0 - 0 0 - 3 5 8 2 0 2 1 3 5
+p585
+aVRex Chapman PHX 12/23/1999 PHX vs. DAL L 28 4 2 9 22.2 0 3 0.0 0 2 0.0 0 2 2 3 0 0 0 1 15
+p586
+aVTodd Day PHX 12/23/1999 PHX vs. DAL L 28 18 6 15 40.0 5 8 62.5 1 2 50.0 2 2 4 2 1 3 1 1 -4
+p587
+aVTodd Day PHX 12/21/1999 PHX @ SAS L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -7
+p588
+aVJason Kidd PHX 12/21/1999 PHX @ SAS L 51 15 6 26 23.1 1 4 25.0 2 2 100.0 4 7 11 10 2 1 3 3 4
+p589
+aVToby Bailey PHX 12/21/1999 PHX @ SAS L 19 7 2 7 28.6 0 0 - 3 6 50.0 1 2 3 1 2 1 2 3 10
+p590
+aVRandy Livingston PHX 12/21/1999 PHX @ SAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -11
+p591
+aVMark West PHX 12/21/1999 PHX @ SAS L 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -10
+p592
+aVOliver Miller PHX 12/21/1999 PHX @ SAS L 37 9 4 8 50.0 0 0 - 1 1 100.0 5 7 12 1 2 0 2 5 0
+p593
+aVRex Chapman PHX 12/21/1999 PHX @ SAS L 44 19 7 15 46.7 2 7 28.6 3 3 100.0 0 8 8 1 1 0 3 1 10
+p594
+aVClifford Robinson PHX 12/21/1999 PHX @ SAS L 40 26 9 18 50.0 4 6 66.7 4 5 80.0 3 5 8 1 0 0 3 6 0
+p595
+aVRodney Rogers PHX 12/21/1999 PHX @ SAS L 42 10 4 12 33.3 2 4 50.0 0 0 - 2 3 5 3 3 1 4 6 -1
+p596
+aVClifford Robinson PHX 12/20/1999 PHX vs. MIL W 40 19 8 18 44.4 3 6 50.0 0 1 0.0 1 3 4 7 0 0 4 6 3
+p597
+aVTodd Day PHX 12/20/1999 PHX vs. MIL W 16 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 2 0 1 0 1 3
+p598
+aVToby Bailey PHX 12/20/1999 PHX vs. MIL W 22 4 2 10 20.0 0 1 0.0 0 0 - 5 1 6 0 1 0 1 1 -2
+p599
+aVOliver Miller PHX 12/20/1999 PHX vs. MIL W 38 17 7 13 53.8 0 0 - 3 5 60.0 4 8 12 3 1 0 2 3 9
+p600
+aVRandy Livingston PHX 12/20/1999 PHX vs. MIL W 8 12 6 6 100.0 0 0 - 0 0 - 0 0 0 2 2 0 0 0 11
+p601
+aVRodney Rogers PHX 12/20/1999 PHX vs. MIL W 40 24 9 18 50.0 0 4 0.0 6 8 75.0 5 8 13 3 1 1 3 4 8
+p602
+aVMark West PHX 12/20/1999 PHX vs. MIL W 10 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 -2
+p603
+aVJason Kidd PHX 12/20/1999 PHX vs. MIL W 40 13 4 13 30.8 1 2 50.0 4 4 100.0 2 6 8 11 1 1 5 4 -4
+p604
+aVRex Chapman PHX 12/20/1999 PHX vs. MIL W 26 16 6 10 60.0 2 4 50.0 2 2 100.0 0 1 1 1 0 0 0 1 9
+p605
+aVClifford Robinson PHX 12/18/1999 PHX vs. SAC W 40 33 9 21 42.9 3 7 42.9 12 12 100.0 0 7 7 2 0 1 3 4 5
+p606
+aVMark West PHX 12/18/1999 PHX vs. SAC W 13 4 1 1 100.0 0 0 - 2 2 100.0 2 4 6 0 0 0 0 3 16
+p607
+aVRandy Livingston PHX 12/18/1999 PHX vs. SAC W 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 3 2 0 0 0 10
+p608
+aVRex Chapman PHX 12/18/1999 PHX vs. SAC W 30 16 6 15 40.0 2 4 50.0 2 3 66.7 1 3 4 0 1 0 1 0 -2
+p609
+aVTodd Day PHX 12/18/1999 PHX vs. SAC W 27 11 4 12 33.3 3 9 33.3 0 1 0.0 0 2 2 2 0 0 0 4 14
+p610
+aVToby Bailey PHX 12/18/1999 PHX vs. SAC W 11 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 10
+p611
+aVJason Kidd PHX 12/18/1999 PHX vs. SAC W 42 27 10 18 55.6 1 3 33.3 6 7 85.7 6 8 14 14 4 0 2 2 6
+p612
+aVOliver Miller PHX 12/18/1999 PHX vs. SAC W 35 7 3 7 42.9 0 0 - 1 2 50.0 3 5 8 1 2 5 4 5 0
+p613
+aVRodney Rogers PHX 12/18/1999 PHX vs. SAC W 36 15 7 15 46.7 1 3 33.3 0 2 0.0 2 11 13 2 1 1 3 5 21
+p614
+aVOliver Miller PHX 12/17/1999 PHX @ POR W 30 12 6 9 66.7 0 0 - 0 0 - 1 5 6 2 0 3 1 4 3
+p615
+aVJason Kidd PHX 12/17/1999 PHX @ POR W 41 32 14 23 60.9 3 3 100.0 1 2 50.0 3 9 12 10 2 0 1 3 10
+p616
+aVTom Gugliotta PHX 12/17/1999 PHX @ POR W 39 17 6 13 46.2 0 1 0.0 5 8 62.5 3 11 14 2 0 0 1 2 4
+p617
+aVRandy Livingston PHX 12/17/1999 PHX @ POR W 7 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 -2
+p618
+aVRodney Rogers PHX 12/17/1999 PHX @ POR W 25 10 4 9 44.4 0 2 0.0 2 4 50.0 1 4 5 5 2 1 0 4 8
+p619
+aVClifford Robinson PHX 12/17/1999 PHX @ POR W 45 23 9 17 52.9 4 6 66.7 1 1 100.0 0 2 2 6 2 1 2 1 6
+p620
+aVTodd Day PHX 12/17/1999 PHX @ POR W 26 11 4 9 44.4 1 4 25.0 2 2 100.0 2 2 4 1 1 1 4 4 6
+p621
+aVRex Chapman PHX 12/17/1999 PHX @ POR W 25 3 1 7 14.3 1 4 25.0 0 0 - 0 0 0 2 1 0 0 0 4
+p622
+aVMark West PHX 12/17/1999 PHX @ POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p623
+aVRex Chapman PHX 12/14/1999 PHX vs. DET W 35 22 7 15 46.7 4 7 57.1 4 4 100.0 1 1 2 4 1 0 3 1 13
+p624
+aVRodney Rogers PHX 12/14/1999 PHX vs. DET W 22 14 5 8 62.5 1 2 50.0 3 5 60.0 2 4 6 0 2 2 4 5 4
+p625
+aVJason Kidd PHX 12/14/1999 PHX vs. DET W 42 18 8 17 47.1 0 1 0.0 2 2 100.0 0 9 9 11 2 1 3 1 11
+p626
+aVClifford Robinson PHX 12/14/1999 PHX vs. DET W 39 15 7 15 46.7 1 4 25.0 0 0 - 2 3 5 3 0 1 1 1 1
+p627
+aVTodd Day PHX 12/14/1999 PHX vs. DET W 7 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 2 -1
+p628
+aVOliver Miller PHX 12/14/1999 PHX vs. DET W 32 17 6 8 75.0 0 0 - 5 7 71.4 2 4 6 1 1 3 2 5 16
+p629
+aVTom Gugliotta PHX 12/14/1999 PHX vs. DET W 38 16 6 10 60.0 0 0 - 4 4 100.0 0 7 7 3 3 0 4 4 3
+p630
+aVToby Bailey PHX 12/14/1999 PHX vs. DET W 19 12 5 10 50.0 0 1 0.0 2 2 100.0 1 1 2 2 2 1 0 3 4
+p631
+aVRandy Livingston PHX 12/14/1999 PHX vs. DET W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -1
+p632
+aVRex Chapman PHX 12/11/1999 PHX @ DAL L 26 10 2 9 22.2 0 3 0.0 6 7 85.7 0 3 3 1 0 0 2 0 -3
+p633
+aVToby Bailey PHX 12/11/1999 PHX @ DAL L 14 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 1 0 0 0 3 -4
+p634
+aVRodney Rogers PHX 12/11/1999 PHX @ DAL L 32 15 5 12 41.7 0 3 0.0 5 7 71.4 2 4 6 1 1 1 2 4 10
+p635
+aVTodd Day PHX 12/11/1999 PHX @ DAL L 31 16 6 17 35.3 3 7 42.9 1 4 25.0 1 2 3 0 0 0 2 4 7
+p636
+aVMark West PHX 12/11/1999 PHX @ DAL L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p637
+aVRandy Livingston PHX 12/11/1999 PHX @ DAL L 6 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 3 0 0 0 1 0
+p638
+aVJason Kidd PHX 12/11/1999 PHX @ DAL L 42 19 7 20 35.0 1 5 20.0 4 5 80.0 2 11 13 9 2 1 4 4 -5
+p639
+aVTom Gugliotta PHX 12/11/1999 PHX @ DAL L 23 12 6 11 54.5 0 0 - 0 0 - 3 2 5 1 0 0 1 4 -15
+p640
+aVOliver Miller PHX 12/11/1999 PHX @ DAL L 20 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 2 0 2 -12
+p641
+aVClifford Robinson PHX 12/11/1999 PHX @ DAL L 40 28 9 15 60.0 0 1 0.0 10 11 90.9 5 3 8 3 2 2 2 4 3
+p642
+aVTodd Day PHX 12/09/1999 PHX vs. WAS W 12 9 4 5 80.0 1 2 50.0 0 0 - 0 0 0 1 1 0 2 4 -5
+p643
+aVTom Gugliotta PHX 12/09/1999 PHX vs. WAS W 34 27 13 17 76.5 0 0 - 1 1 100.0 0 8 8 3 0 0 1 1 15
+p644
+aVClifford Robinson PHX 12/09/1999 PHX vs. WAS W 38 31 11 17 64.7 3 6 50.0 6 6 100.0 0 2 2 3 2 1 3 3 22
+p645
+aVJason Kidd PHX 12/09/1999 PHX vs. WAS W 30 9 4 9 44.4 1 3 33.3 0 0 - 1 5 6 9 1 0 0 2 20
+p646
+aVRandy Livingston PHX 12/09/1999 PHX vs. WAS W 18 2 1 6 16.7 0 0 - 0 0 - 1 2 3 1 1 0 4 2 -6
+p647
+aVOliver Miller PHX 12/09/1999 PHX vs. WAS W 24 4 2 3 66.7 0 0 - 0 0 - 2 5 7 3 1 2 5 2 6
+p648
+aVMark West PHX 12/09/1999 PHX vs. WAS W 21 2 0 2 0.0 0 0 - 2 2 100.0 0 7 7 1 0 3 2 5 7
+p649
+aVRodney Rogers PHX 12/09/1999 PHX vs. WAS W 27 10 4 9 44.4 0 3 0.0 2 4 50.0 2 3 5 1 1 0 0 2 -8
+p650
+aVToby Bailey PHX 12/09/1999 PHX vs. WAS W 9 0 0 5 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 3 -8
+p651
+aVRex Chapman PHX 12/09/1999 PHX vs. WAS W 27 5 2 6 33.3 1 3 33.3 0 0 - 1 4 5 4 0 0 0 2 27
+p652
+aVToby Bailey PHX 12/07/1999 PHX vs. ORL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p653
+aVClifford Robinson PHX 12/07/1999 PHX vs. ORL W 25 10 4 11 36.4 0 1 0.0 2 3 66.7 0 1 1 2 2 3 4 4 0
+p654
+aVOliver Miller PHX 12/07/1999 PHX vs. ORL W 36 17 7 9 77.8 0 0 - 3 4 75.0 3 5 8 2 0 5 1 2 11
+p655
+aVTodd Day PHX 12/07/1999 PHX vs. ORL W 27 19 6 13 46.2 3 4 75.0 4 4 100.0 2 1 3 2 3 1 1 1 1
+p656
+aVRodney Rogers PHX 12/07/1999 PHX vs. ORL W 32 16 7 12 58.3 2 5 40.0 0 0 - 2 5 7 5 1 1 0 4 23
+p657
+aVRandy Livingston PHX 12/07/1999 PHX vs. ORL W 13 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 3 2 1 3 1 9
+p658
+aVTom Gugliotta PHX 12/07/1999 PHX vs. ORL W 23 2 1 9 11.1 0 0 - 0 0 - 3 4 7 2 1 0 5 4 -15
+p659
+aVRex Chapman PHX 12/07/1999 PHX vs. ORL W 36 12 3 13 23.1 1 6 16.7 5 8 62.5 0 4 4 3 0 0 2 1 3
+p660
+aVMark West PHX 12/07/1999 PHX vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p661
+aVLuc Longley PHX 12/07/1999 PHX vs. ORL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -12
+p662
+aVJason Kidd PHX 12/07/1999 PHX vs. ORL W 40 29 10 14 71.4 1 1 100.0 8 9 88.9 0 0 0 11 2 2 5 3 -3
+p663
+aVClifford Robinson PHX 12/05/1999 PHX vs. POR L 39 19 8 16 50.0 3 5 60.0 0 0 - 1 2 3 2 0 0 5 3 -3
+p664
+aVTom Gugliotta PHX 12/05/1999 PHX vs. POR L 43 19 9 15 60.0 0 0 - 1 1 100.0 0 5 5 1 1 1 2 3 -4
+p665
+aVJason Kidd PHX 12/05/1999 PHX vs. POR L 39 10 4 12 33.3 0 3 0.0 2 3 66.7 2 3 5 10 1 1 3 2 -1
+p666
+aVOliver Miller PHX 12/05/1999 PHX vs. POR L 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 4 2 0 2 3 2
+p667
+aVRandy Livingston PHX 12/05/1999 PHX vs. POR L 14 4 2 5 40.0 0 0 - 0 2 0.0 0 1 1 4 0 0 0 1 0
+p668
+aVRodney Rogers PHX 12/05/1999 PHX vs. POR L 25 12 4 10 40.0 4 7 57.1 0 0 - 1 2 3 2 1 1 1 4 5
+p669
+aVRex Chapman PHX 12/05/1999 PHX vs. POR L 23 7 2 9 22.2 1 4 25.0 2 2 100.0 0 2 2 2 2 0 1 4 -11
+p670
+aVLuc Longley PHX 12/05/1999 PHX vs. POR L 32 12 4 9 44.4 0 0 - 4 4 100.0 3 6 9 0 0 0 1 6 -6
+p671
+aVTodd Day PHX 12/05/1999 PHX vs. POR L 11 3 1 4 25.0 1 2 50.0 0 1 0.0 1 2 3 2 0 0 1 2 8
+p672
+aVClifford Robinson PHX 12/04/1999 PHX @ HOU L 34 21 9 16 56.3 2 4 50.0 1 2 50.0 2 1 3 5 0 1 1 0 -6
+p673
+aVRandy Livingston PHX 12/04/1999 PHX @ HOU L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 4
+p674
+aVJason Kidd PHX 12/04/1999 PHX @ HOU L 36 12 5 14 35.7 0 3 0.0 2 2 100.0 1 5 6 5 3 0 2 0 -18
+p675
+aVTom Gugliotta PHX 12/04/1999 PHX @ HOU L 23 6 3 11 27.3 0 0 - 0 2 0.0 5 3 8 0 0 1 3 2 -16
+p676
+aVOliver Miller PHX 12/04/1999 PHX @ HOU L 20 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 1 3 1 1 -8
+p677
+aVLuc Longley PHX 12/04/1999 PHX @ HOU L 16 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 1 0 2 2 -10
+p678
+aVAnfernee Hardaway PHX 12/04/1999 PHX @ HOU L 38 21 8 15 53.3 0 2 0.0 5 8 62.5 2 7 9 3 2 0 8 3 -9
+p679
+aVRodney Rogers PHX 12/04/1999 PHX @ HOU L 24 8 2 6 33.3 0 1 0.0 4 4 100.0 1 6 7 2 1 1 1 4 5
+p680
+aVTodd Day PHX 12/04/1999 PHX @ HOU L 17 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 5
+p681
+aVRex Chapman PHX 12/04/1999 PHX @ HOU L 25 14 4 9 44.4 1 2 50.0 5 7 71.4 1 1 2 0 1 0 1 0 3
+p682
+aVTom Gugliotta PHX 12/01/1999 PHX vs. HOU W 45 19 7 16 43.8 0 0 - 5 6 83.3 3 5 8 1 2 1 1 4 -1
+p683
+aVShawn Marion PHX 12/01/1999 PHX vs. HOU W 23 10 4 8 50.0 0 1 0.0 2 2 100.0 1 2 3 3 1 2 1 1 -4
+p684
+aVOliver Miller PHX 12/01/1999 PHX vs. HOU W 7 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 1 1 0 0 0 3
+p685
+aVLuc Longley PHX 12/01/1999 PHX vs. HOU W 23 3 1 6 16.7 0 0 - 1 2 50.0 1 4 5 1 0 0 0 2 -9
+p686
+aVClifford Robinson PHX 12/01/1999 PHX vs. HOU W 33 25 8 16 50.0 4 6 66.7 5 6 83.3 0 5 5 3 0 1 0 5 16
+p687
+aVRandy Livingston PHX 12/01/1999 PHX vs. HOU W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 3
+p688
+aVAnfernee Hardaway PHX 12/01/1999 PHX vs. HOU W 47 21 8 19 42.1 1 1 100.0 4 4 100.0 5 3 8 8 1 0 0 5 -6
+p689
+aVTodd Day PHX 12/01/1999 PHX vs. HOU W 29 15 4 8 50.0 1 2 50.0 6 6 100.0 1 2 3 1 1 0 0 3 12
+p690
+aVJason Kidd PHX 12/01/1999 PHX vs. HOU W 53 17 5 19 26.3 1 2 50.0 6 7 85.7 0 8 8 11 4 2 3 1 3
+p691
+aVRex Chapman PHX 12/01/1999 PHX vs. HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p692
+aVRodney Rogers PHX 12/01/1999 PHX vs. HOU W 26 13 5 7 71.4 0 0 - 3 5 60.0 1 2 3 3 3 1 4 2 13
+p693
+aVClifford Robinson PHX 11/30/1999 PHX @ LAC W 29 19 6 12 50.0 1 3 33.3 6 6 100.0 2 2 4 3 1 1 1 3 7
+p694
+aVOliver Miller PHX 11/30/1999 PHX @ LAC W 18 6 2 5 40.0 0 0 - 2 4 50.0 0 5 5 2 1 1 1 4 9
+p695
+aVRodney Rogers PHX 11/30/1999 PHX @ LAC W 21 9 4 12 33.3 0 1 0.0 1 4 25.0 1 5 6 0 1 0 1 4 9
+p696
+aVTom Gugliotta PHX 11/30/1999 PHX @ LAC W 31 18 9 14 64.3 0 0 - 0 0 - 3 8 11 2 0 1 4 4 10
+p697
+aVShawn Marion PHX 11/30/1999 PHX @ LAC W 20 7 3 7 42.9 0 0 - 1 2 50.0 2 3 5 1 0 0 0 2 4
+p698
+aVRandy Livingston PHX 11/30/1999 PHX @ LAC W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 3
+p699
+aVRex Chapman PHX 11/30/1999 PHX @ LAC W 14 0 0 3 0.0 0 1 0.0 0 1 0.0 0 3 3 0 0 0 2 0 -6
+p700
+aVMark West PHX 11/30/1999 PHX @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p701
+aVLuc Longley PHX 11/30/1999 PHX @ LAC W 22 2 1 6 16.7 0 0 - 0 0 - 2 1 3 0 0 0 1 3 3
+p702
+aVAnfernee Hardaway PHX 11/30/1999 PHX @ LAC W 36 11 5 10 50.0 0 1 0.0 1 3 33.3 1 4 5 7 2 1 1 5 16
+p703
+aVTodd Day PHX 11/30/1999 PHX @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p704
+aVJason Kidd PHX 11/30/1999 PHX @ LAC W 41 20 7 15 46.7 1 1 100.0 5 7 71.4 2 6 8 10 2 2 3 2 14
+p705
+aVTom Gugliotta PHX 11/27/1999 PHX vs. NJN W 28 5 2 3 66.7 0 0 - 1 2 50.0 0 4 4 3 1 0 0 2 13
+p706
+aVRodney Rogers PHX 11/27/1999 PHX vs. NJN W 24 14 5 7 71.4 2 3 66.7 2 3 66.7 1 4 5 5 0 0 3 5 22
+p707
+aVMark West PHX 11/27/1999 PHX vs. NJN W 6 0 0 1 0.0 0 0 - 0 0 - 0 6 6 0 0 0 0 0 7
+p708
+aVJason Kidd PHX 11/27/1999 PHX vs. NJN W 27 21 10 12 83.3 1 1 100.0 0 0 - 0 3 3 5 0 1 2 1 12
+p709
+aVOliver Miller PHX 11/27/1999 PHX vs. NJN W 18 6 3 3 100.0 0 0 - 0 0 - 2 6 8 2 0 1 0 1 25
+p710
+aVAnfernee Hardaway PHX 11/27/1999 PHX vs. NJN W 31 13 5 9 55.6 0 2 0.0 3 4 75.0 0 6 6 7 2 3 2 1 20
+p711
+aVRandy Livingston PHX 11/27/1999 PHX vs. NJN W 21 8 4 7 57.1 0 0 - 0 0 - 0 5 5 7 1 0 1 2 27
+p712
+aVLuc Longley PHX 11/27/1999 PHX vs. NJN W 8 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 3 0 0 0 4 5
+p713
+aVShawn Marion PHX 11/27/1999 PHX vs. NJN W 36 27 11 19 57.9 1 1 100.0 4 4 100.0 3 5 8 4 0 5 0 4 26
+p714
+aVClifford Robinson PHX 11/27/1999 PHX vs. NJN W 23 21 9 13 69.2 0 0 - 3 3 100.0 1 2 3 2 0 0 2 3 16
+p715
+aVRex Chapman PHX 11/27/1999 PHX vs. NJN W 14 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 0 2 15
+p716
+aVTodd Day PHX 11/27/1999 PHX vs. NJN W 6 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 1 0 7
+p717
+aVShawn Marion PHX 11/23/1999 PHX vs. TOR W 18 2 1 7 14.3 0 0 - 0 0 - 1 5 6 0 1 4 1 1 -6
+p718
+aVJason Kidd PHX 11/23/1999 PHX vs. TOR W 45 16 4 13 30.8 0 3 0.0 8 8 100.0 2 5 7 15 2 1 1 3 3
+p719
+aVRodney Rogers PHX 11/23/1999 PHX vs. TOR W 29 14 6 10 60.0 2 4 50.0 0 2 0.0 1 4 5 1 1 1 4 3 -4
+p720
+aVTodd Day PHX 11/23/1999 PHX vs. TOR W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 1 0
+p721
+aVTom Gugliotta PHX 11/23/1999 PHX vs. TOR W 34 16 7 14 50.0 0 0 - 2 4 50.0 1 2 3 1 0 2 5 2 6
+p722
+aVAnfernee Hardaway PHX 11/23/1999 PHX vs. TOR W 30 17 6 10 60.0 1 3 33.3 4 4 100.0 1 6 7 3 1 0 2 4 3
+p723
+aVRandy Livingston PHX 11/23/1999 PHX vs. TOR W 3 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -2
+p724
+aVLuc Longley PHX 11/23/1999 PHX vs. TOR W 15 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 1 1 3 1 -3
+p725
+aVOliver Miller PHX 11/23/1999 PHX vs. TOR W 23 8 4 6 66.7 0 0 - 0 0 - 0 3 3 1 1 0 2 2 0
+p726
+aVClifford Robinson PHX 11/23/1999 PHX vs. TOR W 23 11 4 9 44.4 0 1 0.0 3 4 75.0 2 1 3 2 0 0 2 5 11
+p727
+aVRex Chapman PHX 11/23/1999 PHX vs. TOR W 11 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 -3
+p728
+aVClifford Robinson PHX 11/21/1999 PHX vs. SEA W 25 15 6 14 42.9 0 2 0.0 3 5 60.0 4 4 8 4 2 0 1 1 21
+p729
+aVLuc Longley PHX 11/21/1999 PHX vs. SEA W 12 2 1 5 20.0 0 0 - 0 0 - 3 4 7 0 0 1 3 3 1
+p730
+aVRodney Rogers PHX 11/21/1999 PHX vs. SEA W 26 13 5 9 55.6 0 2 0.0 3 4 75.0 1 4 5 2 2 2 1 1 8
+p731
+aVRandy Livingston PHX 11/21/1999 PHX vs. SEA W 5 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p732
+aVOliver Miller PHX 11/21/1999 PHX vs. SEA W 24 6 2 4 50.0 0 0 - 2 4 50.0 1 4 5 1 0 3 1 2 4
+p733
+aVRex Chapman PHX 11/21/1999 PHX vs. SEA W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 3
+p734
+aVTom Gugliotta PHX 11/21/1999 PHX vs. SEA W 38 16 6 9 66.7 0 0 - 4 5 80.0 2 4 6 1 2 0 2 3 8
+p735
+aVAnfernee Hardaway PHX 11/21/1999 PHX vs. SEA W 41 11 4 12 33.3 1 2 50.0 2 4 50.0 0 6 6 7 2 2 2 1 8
+p736
+aVTodd Day PHX 11/21/1999 PHX vs. SEA W 11 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 1 0 0 4 8
+p737
+aVJason Kidd PHX 11/21/1999 PHX vs. SEA W 43 25 10 18 55.6 4 5 80.0 1 2 50.0 1 6 7 14 2 0 2 1 13
+p738
+aVShawn Marion PHX 11/21/1999 PHX vs. SEA W 11 4 2 8 25.0 0 0 - 0 0 - 2 1 3 0 0 0 2 0 -9
+p739
+aVLuc Longley PHX 11/19/1999 PHX vs. NYK W 15 8 4 5 80.0 0 0 - 0 0 - 1 0 1 1 0 0 0 4 6
+p740
+aVOliver Miller PHX 11/19/1999 PHX vs. NYK W 31 12 4 6 66.7 0 0 - 4 5 80.0 0 5 5 1 1 3 1 1 11
+p741
+aVRandy Livingston PHX 11/19/1999 PHX vs. NYK W 9 0 0 3 0.0 0 0 - 0 0 - 1 2 3 3 0 0 0 2 -3
+p742
+aVRex Chapman PHX 11/19/1999 PHX vs. NYK W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -7
+p743
+aVJason Kidd PHX 11/19/1999 PHX vs. NYK W 39 16 5 12 41.7 0 3 0.0 6 6 100.0 4 3 7 10 2 1 3 2 18
+p744
+aVTodd Day PHX 11/19/1999 PHX vs. NYK W 22 20 5 9 55.6 4 5 80.0 6 8 75.0 0 3 3 1 2 0 0 4 17
+p745
+aVTom Gugliotta PHX 11/19/1999 PHX vs. NYK W 36 14 5 10 50.0 0 0 - 4 5 80.0 3 6 9 1 0 1 3 3 15
+p746
+aVShawn Marion PHX 11/19/1999 PHX vs. NYK W 25 6 3 10 30.0 0 1 0.0 0 0 - 0 3 3 1 1 3 3 2 -1
+p747
+aVRodney Rogers PHX 11/19/1999 PHX vs. NYK W 25 11 3 4 75.0 2 2 100.0 3 4 75.0 2 5 7 3 0 0 5 3 11
+p748
+aVAnfernee Hardaway PHX 11/19/1999 PHX vs. NYK W 28 9 3 7 42.9 1 1 100.0 2 2 100.0 1 1 2 4 1 0 2 5 12
+p749
+aVMark West PHX 11/19/1999 PHX vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p750
+aVShawn Marion PHX 11/17/1999 PHX vs. CHI W 35 11 4 8 50.0 0 0 - 3 4 75.0 0 3 3 4 1 0 3 4 4
+p751
+aVOliver Miller PHX 11/17/1999 PHX vs. CHI W 13 8 4 8 50.0 0 0 - 0 0 - 2 1 3 1 3 2 2 3 14
+p752
+aVRodney Rogers PHX 11/17/1999 PHX vs. CHI W 29 16 5 8 62.5 2 2 100.0 4 6 66.7 1 4 5 2 1 0 1 4 17
+p753
+aVAnfernee Hardaway PHX 11/17/1999 PHX vs. CHI W 27 18 7 10 70.0 0 0 - 4 4 100.0 1 3 4 2 3 0 1 1 13
+p754
+aVMark West PHX 11/17/1999 PHX vs. CHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -7
+p755
+aVTom Gugliotta PHX 11/17/1999 PHX vs. CHI W 32 18 8 13 61.5 0 0 - 2 2 100.0 4 3 7 1 3 2 3 2 25
+p756
+aVJason Kidd PHX 11/17/1999 PHX vs. CHI W 27 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 11 1 0 5 2 16
+p757
+aVLuc Longley PHX 11/17/1999 PHX vs. CHI W 25 13 6 10 60.0 0 0 - 1 1 100.0 0 3 3 0 1 0 2 3 13
+p758
+aVRandy Livingston PHX 11/17/1999 PHX vs. CHI W 22 5 2 8 25.0 1 1 100.0 0 0 - 1 4 5 3 3 0 3 2 12
+p759
+aVRex Chapman PHX 11/17/1999 PHX vs. CHI W 17 8 4 5 80.0 0 0 - 0 1 0.0 0 1 1 6 0 0 0 4 18
+p760
+aVTodd Day PHX 11/17/1999 PHX vs. CHI W 7 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 0 0 1 1 3 -5
+p761
+aVOliver Miller PHX 11/15/1999 PHX vs. LAL L 9 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -9
+p762
+aVLuc Longley PHX 11/15/1999 PHX vs. LAL L 38 9 3 10 30.0 0 0 - 3 5 60.0 2 8 10 0 1 1 1 5 -2
+p763
+aVShawn Marion PHX 11/15/1999 PHX vs. LAL L 23 6 2 8 25.0 0 1 0.0 2 2 100.0 2 3 5 1 0 0 0 4 0
+p764
+aVTom Gugliotta PHX 11/15/1999 PHX vs. LAL L 16 6 3 6 50.0 0 0 - 0 0 - 2 5 7 2 0 0 0 4 -3
+p765
+aVRex Chapman PHX 11/15/1999 PHX vs. LAL L 17 4 1 5 20.0 0 3 0.0 2 2 100.0 0 0 0 1 0 0 1 4 -4
+p766
+aVJason Kidd PHX 11/15/1999 PHX vs. LAL L 42 20 9 20 45.0 1 2 50.0 1 2 50.0 3 3 6 10 1 0 1 0 -9
+p767
+aVClifford Robinson PHX 11/15/1999 PHX vs. LAL L 25 12 4 10 40.0 2 6 33.3 2 4 50.0 1 2 3 1 1 1 1 5 -6
+p768
+aVAnfernee Hardaway PHX 11/15/1999 PHX vs. LAL L 42 12 5 15 33.3 0 2 0.0 2 2 100.0 2 6 8 4 1 2 2 4 -4
+p769
+aVRodney Rogers PHX 11/15/1999 PHX vs. LAL L 27 11 4 11 36.4 1 3 33.3 2 2 100.0 0 2 2 1 1 0 1 3 -8
+p770
+aVShawn Marion PHX 11/13/1999 PHX @ MIN L 26 13 5 12 41.7 1 2 50.0 2 2 100.0 2 2 4 2 2 2 1 2 1
+p771
+aVClifford Robinson PHX 11/13/1999 PHX @ MIN L 24 12 4 10 40.0 1 2 50.0 3 4 75.0 0 2 2 2 1 0 1 3 -21
+p772
+aVLuc Longley PHX 11/13/1999 PHX @ MIN L 12 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 2 0 0 0 0 6
+p773
+aVRex Chapman PHX 11/13/1999 PHX @ MIN L 18 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 2 0 0 2 3 -13
+p774
+aVTodd Day PHX 11/13/1999 PHX @ MIN L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 6
+p775
+aVJason Kidd PHX 11/13/1999 PHX @ MIN L 34 11 5 14 35.7 1 1 100.0 0 0 - 0 4 4 7 1 0 6 2 -18
+p776
+aVOliver Miller PHX 11/13/1999 PHX @ MIN L 24 7 3 6 50.0 0 0 - 1 1 100.0 4 4 8 1 1 0 1 0 -10
+p777
+aVRandy Livingston PHX 11/13/1999 PHX @ MIN L 9 10 3 5 60.0 0 1 0.0 4 4 100.0 0 0 0 1 1 0 0 0 9
+p778
+aVRodney Rogers PHX 11/13/1999 PHX @ MIN L 24 6 3 12 25.0 0 3 0.0 0 0 - 2 4 6 0 2 1 0 3 -6
+p779
+aVAnfernee Hardaway PHX 11/13/1999 PHX @ MIN L 35 21 8 14 57.1 2 2 100.0 3 3 100.0 0 7 7 3 0 0 5 1 -9
+p780
+aVTom Gugliotta PHX 11/13/1999 PHX @ MIN L 32 12 4 6 66.7 0 0 - 4 4 100.0 1 0 1 4 0 2 0 2 0
+p781
+aVAnfernee Hardaway PHX 11/12/1999 PHX @ MIL L 37 19 5 14 35.7 1 3 33.3 8 11 72.7 2 5 7 4 1 0 2 2 -5
+p782
+aVShawn Marion PHX 11/12/1999 PHX @ MIL L 26 10 5 10 50.0 0 0 - 0 0 - 4 1 5 0 0 2 0 0 -2
+p783
+aVJason Kidd PHX 11/12/1999 PHX @ MIL L 42 17 6 14 42.9 3 6 50.0 2 2 100.0 2 6 8 3 2 0 2 2 -9
+p784
+aVRodney Rogers PHX 11/12/1999 PHX @ MIL L 22 11 5 8 62.5 0 1 0.0 1 1 100.0 1 3 4 1 0 0 2 5 0
+p785
+aVClifford Robinson PHX 11/12/1999 PHX @ MIL L 32 11 2 9 22.2 1 3 33.3 6 8 75.0 2 2 4 1 1 1 3 4 -11
+p786
+aVLuc Longley PHX 11/12/1999 PHX @ MIL L 18 4 1 4 25.0 0 0 - 2 2 100.0 2 3 5 1 0 0 2 2 -4
+p787
+aVTodd Day PHX 11/12/1999 PHX @ MIL L 13 0 0 3 0.0 0 2 0.0 0 2 0.0 1 1 2 1 0 0 1 1 2
+p788
+aVRex Chapman PHX 11/12/1999 PHX @ MIL L 10 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 -16
+p789
+aVTom Gugliotta PHX 11/12/1999 PHX @ MIL L 28 12 6 17 35.3 0 0 - 0 0 - 4 6 10 4 0 0 3 3 -11
+p790
+aVOliver Miller PHX 11/12/1999 PHX @ MIL L 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -17
+p791
+aVRandy Livingston PHX 11/12/1999 PHX @ MIL L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 1 1 -2
+p792
+aVShawn Marion PHX 11/10/1999 PHX @ NJN W 24 10 2 8 25.0 0 0 - 6 6 100.0 2 6 8 0 1 1 2 3 12
+p793
+aVClifford Robinson PHX 11/10/1999 PHX @ NJN W 28 10 4 6 66.7 0 1 0.0 2 3 66.7 1 3 4 0 0 0 3 4 6
+p794
+aVJason Kidd PHX 11/10/1999 PHX @ NJN W 40 15 7 18 38.9 1 1 100.0 0 0 - 0 4 4 4 1 0 3 2 6
+p795
+aVOliver Miller PHX 11/10/1999 PHX @ NJN W 22 2 1 2 50.0 0 0 - 0 1 0.0 2 8 10 2 0 2 2 2 -3
+p796
+aVAnfernee Hardaway PHX 11/10/1999 PHX @ NJN W 43 25 10 16 62.5 1 3 33.3 4 5 80.0 3 1 4 5 4 1 3 2 10
+p797
+aVTom Gugliotta PHX 11/10/1999 PHX @ NJN W 35 18 7 12 58.3 0 0 - 4 5 80.0 4 4 8 3 4 0 3 2 10
+p798
+aVLuc Longley PHX 11/10/1999 PHX @ NJN W 17 10 4 9 44.4 0 0 - 2 2 100.0 2 6 8 1 0 1 1 3 16
+p799
+aVRandy Livingston PHX 11/10/1999 PHX @ NJN W 7 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 9
+p800
+aVTodd Day PHX 11/10/1999 PHX @ NJN W 6 3 1 2 50.0 0 1 0.0 1 2 50.0 1 0 1 0 1 0 1 0 5
+p801
+aVRodney Rogers PHX 11/10/1999 PHX @ NJN W 18 9 3 8 37.5 1 3 33.3 2 2 100.0 3 0 3 2 1 2 2 5 4
+p802
+aVJason Kidd PHX 11/09/1999 PHX @ CHI W 39 19 6 8 75.0 0 0 - 7 10 70.0 3 3 6 9 5 2 9 1 22
+p803
+aVTom Gugliotta PHX 11/09/1999 PHX @ CHI W 36 19 9 11 81.8 0 0 - 1 3 33.3 6 6 12 6 3 2 3 1 29
+p804
+aVOliver Miller PHX 11/09/1999 PHX @ CHI W 23 6 3 4 75.0 0 0 - 0 2 0.0 2 2 4 4 2 5 2 4 4
+p805
+aVRodney Rogers PHX 11/09/1999 PHX @ CHI W 21 5 2 5 40.0 0 1 0.0 1 3 33.3 0 3 3 2 0 0 2 4 4
+p806
+aVAnfernee Hardaway PHX 11/09/1999 PHX @ CHI W 37 18 7 13 53.8 2 4 50.0 2 2 100.0 0 5 5 3 1 0 4 4 27
+p807
+aVClifford Robinson PHX 11/09/1999 PHX @ CHI W 28 19 7 14 50.0 0 3 0.0 5 6 83.3 0 4 4 2 4 1 6 5 11
+p808
+aVLuc Longley PHX 11/09/1999 PHX @ CHI W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 1 2 4 9
+p809
+aVRandy Livingston PHX 11/09/1999 PHX @ CHI W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 2 0 0 1 -1
+p810
+aVTodd Day PHX 11/09/1999 PHX @ CHI W 12 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 4 -4
+p811
+aVShawn Marion PHX 11/09/1999 PHX @ CHI W 22 13 5 11 45.5 0 0 - 3 4 75.0 4 3 7 0 0 3 1 3 14
+p812
+aVRex Chapman PHX 11/07/1999 PHX vs. SAS W 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -2
+p813
+aVShawn Marion PHX 11/07/1999 PHX vs. SAS W 21 2 1 6 16.7 0 1 0.0 0 0 - 2 1 3 1 0 0 0 0 -5
+p814
+aVTom Gugliotta PHX 11/07/1999 PHX vs. SAS W 28 12 6 12 50.0 0 0 - 0 0 - 5 4 9 1 4 0 2 1 6
+p815
+aVLuc Longley PHX 11/07/1999 PHX vs. SAS W 26 4 2 3 66.7 0 0 - 0 0 - 0 3 3 2 0 0 2 4 9
+p816
+aVRandy Livingston PHX 11/07/1999 PHX vs. SAS W 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p817
+aVJason Kidd PHX 11/07/1999 PHX vs. SAS W 40 23 10 23 43.5 1 4 25.0 2 2 100.0 0 7 7 7 3 0 5 1 2
+p818
+aVOliver Miller PHX 11/07/1999 PHX vs. SAS W 22 3 0 2 0.0 0 0 - 3 6 50.0 3 2 5 1 0 1 1 3 -3
+p819
+aVTodd Day PHX 11/07/1999 PHX vs. SAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p820
+aVRodney Rogers PHX 11/07/1999 PHX vs. SAS W 24 18 8 11 72.7 2 3 66.7 0 0 - 2 3 5 1 0 2 3 3 3
+p821
+aVAnfernee Hardaway PHX 11/07/1999 PHX vs. SAS W 38 11 4 14 28.6 0 3 0.0 3 6 50.0 1 9 10 4 2 1 0 3 8
+p822
+aVClifford Robinson PHX 11/07/1999 PHX vs. SAS W 24 2 1 7 14.3 0 2 0.0 0 0 - 0 3 3 1 0 2 1 3 -1
+p823
+aVLuc Longley PHX 11/04/1999 PHX vs. PHI W 22 8 2 4 50.0 0 0 - 4 4 100.0 0 5 5 1 0 0 2 4 -2
+p824
+aVJason Kidd PHX 11/04/1999 PHX vs. PHI W 40 22 8 15 53.3 0 2 0.0 6 8 75.0 2 6 8 3 3 0 7 2 9
+p825
+aVTom Gugliotta PHX 11/04/1999 PHX vs. PHI W 31 5 0 6 0.0 0 0 - 5 8 62.5 4 6 10 2 0 0 3 4 0
+p826
+aVRandy Livingston PHX 11/04/1999 PHX vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p827
+aVRex Chapman PHX 11/04/1999 PHX vs. PHI W 17 8 3 7 42.9 1 2 50.0 1 1 100.0 1 1 2 0 0 0 0 2 -1
+p828
+aVOliver Miller PHX 11/04/1999 PHX vs. PHI W 18 4 2 4 50.0 0 0 - 0 0 - 1 4 5 2 3 1 4 2 3
+p829
+aVClifford Robinson PHX 11/04/1999 PHX vs. PHI W 23 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 3 0 0 4 0 -14
+p830
+aVShawn Marion PHX 11/04/1999 PHX vs. PHI W 28 16 8 15 53.3 0 0 - 0 0 - 4 4 8 2 2 0 1 4 19
+p831
+aVRodney Rogers PHX 11/04/1999 PHX vs. PHI W 17 1 0 3 0.0 0 1 0.0 1 2 50.0 3 2 5 1 0 2 1 5 2
+p832
+aVAnfernee Hardaway PHX 11/04/1999 PHX vs. PHI W 44 18 5 14 35.7 1 3 33.3 7 8 87.5 2 1 3 3 1 1 3 1 4
+p833
+aVLuc Longley PHX 11/02/1999 PHX @ DEN L 24 9 4 8 50.0 0 0 - 1 1 100.0 1 3 4 4 1 0 2 1 10
+p834
+aVRandy Livingston PHX 11/02/1999 PHX @ DEN L 27 8 4 10 40.0 0 1 0.0 0 0 - 0 5 5 4 1 0 1 4 4
+p835
+aVShawn Marion PHX 11/02/1999 PHX @ DEN L 35 14 7 17 41.2 0 1 0.0 0 0 - 5 9 14 3 0 2 2 4 7
+p836
+aVClifford Robinson PHX 11/02/1999 PHX @ DEN L 48 20 6 16 37.5 4 11 36.4 4 4 100.0 1 3 4 2 1 1 1 4 -13
+p837
+aVOliver Miller PHX 11/02/1999 PHX @ DEN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p838
+aVJason Kidd PHX 11/02/1999 PHX @ DEN L 43 8 3 12 25.0 1 2 50.0 1 2 50.0 0 5 5 8 1 0 1 6 -17
+p839
+aVTom Gugliotta PHX 11/02/1999 PHX @ DEN L 47 22 11 28 39.3 0 1 0.0 0 5 0.0 9 10 19 4 3 0 4 3 9
+p840
+aVRodney Rogers PHX 11/02/1999 PHX @ DEN L 35 21 8 19 42.1 4 6 66.7 1 2 50.0 5 2 7 4 2 2 2 4 -15
+p841
+a.

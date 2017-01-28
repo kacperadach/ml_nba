@@ -1,0 +1,110 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJason Kidd DAL 04/29/2008 DAL @ NOH L 41 14 6 11 54.5 2 4 50.0 0 0 - 1 3 4 9 1 0 0 1 5
+p2
+aVTyronn Lue DAL 04/29/2008 DAL @ NOH L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p3
+aVDirk Nowitzki DAL 04/29/2008 DAL @ NOH L 48 22 8 21 38.1 1 5 20.0 5 7 71.4 2 11 13 6 0 2 1 3 -5
+p4
+aVBrandon Bass DAL 04/29/2008 DAL @ NOH L 35 11 2 6 33.3 0 0 - 7 8 87.5 6 3 9 0 1 1 0 3 1
+p5
+aVJerry Stackhouse DAL 04/29/2008 DAL @ NOH L 27 11 5 12 41.7 0 4 0.0 1 1 100.0 3 1 4 0 0 0 3 2 -2
+p6
+aVJason Terry DAL 04/29/2008 DAL @ NOH L 43 13 4 11 36.4 3 7 42.9 2 2 100.0 0 1 1 9 0 0 1 4 -3
+p7
+aVDevean George DAL 04/29/2008 DAL @ NOH L 8 11 4 5 80.0 3 4 75.0 0 1 0.0 0 0 0 0 0 0 0 1 10
+p8
+aVErick Dampier DAL 04/29/2008 DAL @ NOH L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -11
+p9
+aVJosh Howard DAL 04/29/2008 DAL @ NOH L 30 12 6 14 42.9 0 2 0.0 0 0 - 2 7 9 1 0 0 3 2 -19
+p10
+aVBrandon Bass DAL 04/27/2008 DAL vs. NOH L 25 12 5 12 41.7 0 0 - 2 2 100.0 6 3 9 0 0 1 0 1 -1
+p11
+aVDevean George DAL 04/27/2008 DAL vs. NOH L 19 4 2 7 28.6 0 3 0.0 0 0 - 2 4 6 0 0 1 0 3 -2
+p12
+aVJason Terry DAL 04/27/2008 DAL vs. NOH L 41 20 6 16 37.5 2 7 28.6 6 7 85.7 0 0 0 3 0 0 1 3 -10
+p13
+aVErick Dampier DAL 04/27/2008 DAL vs. NOH L 18 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 0 1 1 2 -18
+p14
+aVJ.J. Barea DAL 04/27/2008 DAL vs. NOH L 5 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 1 -1
+p15
+aVJerry Stackhouse DAL 04/27/2008 DAL vs. NOH L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -11
+p16
+aVDirk Nowitzki DAL 04/27/2008 DAL vs. NOH L 41 22 8 18 44.4 2 4 50.0 4 7 57.1 3 10 13 3 1 0 2 3 -17
+p17
+aVJuwan Howard DAL 04/27/2008 DAL vs. NOH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p18
+aVMalik Allen DAL 04/27/2008 DAL vs. NOH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p19
+aVJosh Howard DAL 04/27/2008 DAL vs. NOH L 32 6 3 16 18.8 0 2 0.0 0 0 - 1 6 7 1 1 1 1 3 -6
+p20
+aVJason Kidd DAL 04/27/2008 DAL vs. NOH L 29 3 1 6 16.7 1 4 25.0 0 0 - 1 3 4 3 0 0 2 3 -13
+p21
+aVEddie Jones DAL 04/27/2008 DAL vs. NOH L 7 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 4
+p22
+aVBrandon Bass DAL 04/25/2008 DAL vs. NOH W 24 8 2 5 40.0 0 0 - 4 4 100.0 3 1 4 1 0 1 0 3 3
+p23
+aVJosh Howard DAL 04/25/2008 DAL vs. NOH W 43 18 5 16 31.3 0 2 0.0 8 10 80.0 2 2 4 2 1 0 1 1 6
+p24
+aVJason Terry DAL 04/25/2008 DAL vs. NOH W 40 22 8 18 44.4 3 8 37.5 3 4 75.0 1 2 3 6 2 0 1 5 5
+p25
+aVMalik Allen DAL 04/25/2008 DAL vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p26
+aVDirk Nowitzki DAL 04/25/2008 DAL vs. NOH W 44 32 11 20 55.0 1 4 25.0 9 10 90.0 1 18 19 6 0 2 2 2 20
+p27
+aVErick Dampier DAL 04/25/2008 DAL vs. NOH W 25 4 1 4 25.0 0 0 - 2 6 33.3 5 1 6 0 1 1 0 3 3
+p28
+aVJason Kidd DAL 04/25/2008 DAL vs. NOH W 41 8 3 6 50.0 0 1 0.0 2 4 50.0 2 9 11 5 2 2 2 1 18
+p29
+aVDevean George DAL 04/25/2008 DAL vs. NOH W 12 5 2 4 50.0 1 2 50.0 0 0 - 0 5 5 0 0 1 1 1 9
+p30
+aVJerry Stackhouse DAL 04/25/2008 DAL vs. NOH W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p31
+aVDevean George DAL 04/22/2008 DAL @ NOH L 12 5 2 5 40.0 0 1 0.0 1 2 50.0 0 2 2 0 2 0 0 0 -5
+p32
+aVJason Kidd DAL 04/22/2008 DAL @ NOH L 31 7 3 10 30.0 1 2 50.0 0 0 - 2 2 4 8 2 0 1 3 -17
+p33
+aVErick Dampier DAL 04/22/2008 DAL @ NOH L 16 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -16
+p34
+aVJuwan Howard DAL 04/22/2008 DAL @ NOH L 4 1 0 1 0.0 0 0 - 1 4 25.0 0 0 0 0 0 0 0 1 1
+p35
+aVMalik Allen DAL 04/22/2008 DAL @ NOH L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 3
+p36
+aVEddie Jones DAL 04/22/2008 DAL @ NOH L 11 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 2 -11
+p37
+aVJason Terry DAL 04/22/2008 DAL @ NOH L 31 16 5 8 62.5 4 5 80.0 2 2 100.0 0 2 2 4 0 0 2 2 -22
+p38
+aVDirk Nowitzki DAL 04/22/2008 DAL @ NOH L 36 27 7 11 63.6 1 1 100.0 12 15 80.0 1 4 5 5 0 1 4 3 -27
+p39
+aVBrandon Bass DAL 04/22/2008 DAL @ NOH L 29 19 5 5 100.0 0 0 - 9 9 100.0 3 5 8 0 1 0 3 2 -9
+p40
+aVJerry Stackhouse DAL 04/22/2008 DAL @ NOH L 24 9 4 10 40.0 1 3 33.3 0 0 - 0 3 3 2 1 0 2 4 -11
+p41
+aVAntoine Wright DAL 04/22/2008 DAL @ NOH L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 4
+p42
+aVJosh Howard DAL 04/22/2008 DAL @ NOH L 28 10 3 10 30.0 0 1 0.0 4 6 66.7 3 4 7 2 0 0 0 4 -10
+p43
+aVJason Kidd DAL 04/19/2008 DAL @ NOH L 39 11 3 5 60.0 2 2 100.0 3 4 75.0 2 7 9 9 2 0 4 4 -11
+p44
+aVErick Dampier DAL 04/19/2008 DAL @ NOH L 27 4 1 3 33.3 0 0 - 2 4 50.0 3 1 4 0 0 1 1 5 -6
+p45
+aVEddie Jones DAL 04/19/2008 DAL @ NOH L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -6
+p46
+aVJuwan Howard DAL 04/19/2008 DAL @ NOH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p47
+aVBrandon Bass DAL 04/19/2008 DAL @ NOH L 20 8 3 8 37.5 0 1 0.0 2 2 100.0 2 2 4 1 1 0 0 3 -7
+p48
+aVTyronn Lue DAL 04/19/2008 DAL @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p49
+aVJosh Howard DAL 04/19/2008 DAL @ NOH L 37 17 4 16 25.0 1 3 33.3 8 9 88.9 4 4 8 1 0 1 4 0 -10
+p50
+aVDevean George DAL 04/19/2008 DAL @ NOH L 12 4 1 7 14.3 0 2 0.0 2 2 100.0 2 0 2 0 0 0 2 2 -8
+p51
+aVJerry Stackhouse DAL 04/19/2008 DAL @ NOH L 29 9 2 9 22.2 1 4 25.0 4 4 100.0 1 7 8 3 0 0 1 3 0
+p52
+aVJason Terry DAL 04/19/2008 DAL @ NOH L 24 8 3 7 42.9 2 5 40.0 0 0 - 0 2 2 2 0 1 0 1 -7
+p53
+aVDirk Nowitzki DAL 04/19/2008 DAL @ NOH L 42 31 9 21 42.9 1 4 25.0 12 13 92.3 3 7 10 0 0 2 1 2 -7
+p54
+a.

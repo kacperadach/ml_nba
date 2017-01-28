@@ -1,0 +1,1654 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVP.J. Brown NOK 04/19/2006 NOK @ LAL L 30 16 7 13 53.8 0 0 - 2 2 100.0 1 4 5 1 0 0 1 2 -22
+p2
+aVMarc Jackson NOK 04/19/2006 NOK @ LAL L 36 15 7 13 53.8 0 0 - 1 2 50.0 5 8 13 2 1 0 3 4 -20
+p3
+aVJR Smith NOK 04/19/2006 NOK @ LAL L 9 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 0 -15
+p4
+aVLinton Johnson NOK 04/19/2006 NOK @ LAL L 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p5
+aVChris Paul NOK 04/19/2006 NOK @ LAL L 24 7 3 9 33.3 0 0 - 1 1 100.0 0 2 2 7 2 0 3 3 -6
+p6
+aVMarcus Fizer NOK 04/19/2006 NOK @ LAL L 12 9 4 6 66.7 1 1 100.0 0 0 - 0 3 3 1 0 0 0 2 10
+p7
+aVRasual Butler NOK 04/19/2006 NOK @ LAL L 27 8 3 9 33.3 1 4 25.0 1 2 50.0 0 3 3 0 0 0 1 3 -16
+p8
+aVBrandon Bass NOK 04/19/2006 NOK @ LAL L 18 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 -10
+p9
+aVArvydas Macijauskas NOK 04/19/2006 NOK @ LAL L 12 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 0 0 10
+p10
+aVMoochie Norris NOK 04/19/2006 NOK @ LAL L 24 13 5 5 100.0 2 2 100.0 1 1 100.0 0 3 3 5 0 0 1 2 -15
+p11
+aVDesmond Mason NOK 04/19/2006 NOK @ LAL L 33 12 5 11 45.5 0 0 - 2 4 50.0 2 1 3 3 0 0 4 2 -20
+p12
+aVMarc Jackson NOK 04/17/2006 NOK @ PHX L 25 11 4 8 50.0 0 0 - 3 3 100.0 3 3 6 0 0 0 0 0 -23
+p13
+aVMoochie Norris NOK 04/17/2006 NOK @ PHX L 19 2 1 7 14.3 0 0 - 0 0 - 1 1 2 2 0 0 2 1 -23
+p14
+aVArvydas Macijauskas NOK 04/17/2006 NOK @ PHX L 12 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 1 1 0 1 0 -11
+p15
+aVDesmond Mason NOK 04/17/2006 NOK @ PHX L 24 10 4 9 44.4 0 0 - 2 2 100.0 2 4 6 0 0 0 1 5 -14
+p16
+aVBrandon Bass NOK 04/17/2006 NOK @ PHX L 14 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -18
+p17
+aVMarcus Fizer NOK 04/17/2006 NOK @ PHX L 18 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -12
+p18
+aVKirk Snyder NOK 04/17/2006 NOK @ PHX L 7 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -9
+p19
+aVRasual Butler NOK 04/17/2006 NOK @ PHX L 22 0 0 7 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -15
+p20
+aVLinton Johnson NOK 04/17/2006 NOK @ PHX L 25 4 2 9 22.2 0 3 0.0 0 0 - 0 7 7 2 1 1 0 1 -25
+p21
+aVP.J. Brown NOK 04/17/2006 NOK @ PHX L 21 8 2 5 40.0 0 0 - 4 4 100.0 2 3 5 2 0 0 0 1 -10
+p22
+aVChris Paul NOK 04/17/2006 NOK @ PHX L 29 11 4 10 40.0 0 2 0.0 3 4 75.0 1 3 4 5 3 0 3 1 -14
+p23
+aVJR Smith NOK 04/17/2006 NOK @ PHX L 25 10 4 11 36.4 2 4 50.0 0 0 - 0 5 5 0 2 0 2 1 -11
+p24
+aVP.J. Brown NOK 04/16/2006 NOK @ SAC L 24 7 2 3 66.7 0 0 - 3 4 75.0 2 3 5 3 0 2 2 2 -2
+p25
+aVDavid West NOK 04/16/2006 NOK @ SAC L 16 10 5 13 38.5 0 0 - 0 0 - 0 4 4 1 0 3 0 1 -7
+p26
+aVChris Paul NOK 04/16/2006 NOK @ SAC L 28 12 5 8 62.5 1 1 100.0 1 1 100.0 0 1 1 7 2 0 1 1 -6
+p27
+aVJR Smith NOK 04/16/2006 NOK @ SAC L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -6
+p28
+aVRasual Butler NOK 04/16/2006 NOK @ SAC L 21 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 1 -7
+p29
+aVLinton Johnson NOK 04/16/2006 NOK @ SAC L 23 7 3 6 50.0 1 1 100.0 0 0 - 1 2 3 0 0 0 1 0 -11
+p30
+aVKirk Snyder NOK 04/16/2006 NOK @ SAC L 19 5 2 5 40.0 0 1 0.0 1 2 50.0 0 2 2 2 0 0 2 1 0
+p31
+aVBrandon Bass NOK 04/16/2006 NOK @ SAC L 20 8 3 9 33.3 0 0 - 2 3 66.7 0 7 7 0 1 2 0 2 -5
+p32
+aVMoochie Norris NOK 04/16/2006 NOK @ SAC L 20 6 1 2 50.0 0 0 - 4 9 44.4 0 3 3 0 1 0 2 2 -11
+p33
+aVMarcus Fizer NOK 04/16/2006 NOK @ SAC L 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -11
+p34
+aVMarc Jackson NOK 04/16/2006 NOK @ SAC L 23 10 5 8 62.5 0 0 - 0 0 - 2 0 2 1 0 0 3 2 -13
+p35
+aVDesmond Mason NOK 04/16/2006 NOK @ SAC L 25 8 3 11 27.3 0 0 - 2 2 100.0 0 2 2 1 1 0 1 3 -6
+p36
+aVDesmond Mason NOK 04/14/2006 NOK vs. UTA L 33 13 4 9 44.4 0 0 - 5 6 83.3 0 1 1 0 1 1 0 2 -3
+p37
+aVLinton Johnson NOK 04/14/2006 NOK vs. UTA L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 0 0 1 0 1 4
+p38
+aVMarc Jackson NOK 04/14/2006 NOK vs. UTA L 25 4 1 6 16.7 0 0 - 2 2 100.0 0 5 5 2 0 0 1 3 8
+p39
+aVKirk Snyder NOK 04/14/2006 NOK vs. UTA L 14 15 5 7 71.4 2 2 100.0 3 3 100.0 1 1 2 0 0 0 1 2 4
+p40
+aVBrandon Bass NOK 04/14/2006 NOK vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 4
+p41
+aVChris Paul NOK 04/14/2006 NOK vs. UTA L 36 11 2 10 20.0 0 1 0.0 7 7 100.0 1 3 4 7 1 0 1 2 -7
+p42
+aVP.J. Brown NOK 04/14/2006 NOK vs. UTA L 35 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 2 0 0 5 -1
+p43
+aVRasual Butler NOK 04/14/2006 NOK vs. UTA L 22 9 4 12 33.3 1 5 20.0 0 1 0.0 0 1 1 0 0 0 0 4 -12
+p44
+aVSpeedy Claxton NOK 04/14/2006 NOK vs. UTA L 28 15 6 13 46.2 0 1 0.0 3 4 75.0 0 2 2 3 1 0 4 1 11
+p45
+aVDavid West NOK 04/14/2006 NOK vs. UTA L 32 31 14 18 77.8 0 0 - 3 3 100.0 8 4 12 1 0 2 0 3 -13
+p46
+aVChris Paul NOK 04/12/2006 NOK vs. SEA W 37 21 5 14 35.7 0 1 0.0 11 12 91.7 2 1 3 6 2 0 3 2 -1
+p47
+aVKirk Snyder NOK 04/12/2006 NOK vs. SEA W 12 10 4 5 80.0 1 1 100.0 1 2 50.0 1 1 2 1 1 0 2 3 6
+p48
+aVAaron Williams NOK 04/12/2006 NOK vs. SEA W 6 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -3
+p49
+aVDesmond Mason NOK 04/12/2006 NOK vs. SEA W 33 17 7 17 41.2 0 0 - 3 4 75.0 4 6 10 1 1 0 4 2 -3
+p50
+aVBrandon Bass NOK 04/12/2006 NOK vs. SEA W 23 9 4 7 57.1 0 0 - 1 2 50.0 2 2 4 0 1 0 1 1 6
+p51
+aVRasual Butler NOK 04/12/2006 NOK vs. SEA W 31 7 1 6 16.7 0 1 0.0 5 6 83.3 1 1 2 1 0 0 0 0 9
+p52
+aVLinton Johnson NOK 04/12/2006 NOK vs. SEA W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p53
+aVSpeedy Claxton NOK 04/12/2006 NOK vs. SEA W 26 10 4 7 57.1 0 0 - 2 4 50.0 0 0 0 4 0 0 3 2 3
+p54
+aVP.J. Brown NOK 04/12/2006 NOK vs. SEA W 27 9 3 7 42.9 0 0 - 3 3 100.0 1 4 5 2 3 0 1 2 4
+p55
+aVMarc Jackson NOK 04/12/2006 NOK vs. SEA W 39 17 8 14 57.1 1 1 100.0 0 0 - 6 8 14 3 1 0 2 2 3
+p56
+aVP.J. Brown NOK 04/10/2006 NOK vs. CLE L 28 6 1 4 25.0 0 0 - 4 4 100.0 3 7 10 0 0 2 1 2 -5
+p57
+aVMarc Jackson NOK 04/10/2006 NOK vs. CLE L 23 13 5 8 62.5 0 0 - 3 3 100.0 3 3 6 0 0 0 0 1 4
+p58
+aVSpeedy Claxton NOK 04/10/2006 NOK vs. CLE L 26 14 5 10 50.0 0 2 0.0 4 6 66.7 0 4 4 4 3 0 2 2 1
+p59
+aVDesmond Mason NOK 04/10/2006 NOK vs. CLE L 25 6 2 9 22.2 0 0 - 2 6 33.3 2 2 4 1 1 0 1 2 -9
+p60
+aVLinton Johnson NOK 04/10/2006 NOK vs. CLE L 13 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 1
+p61
+aVAaron Williams NOK 04/10/2006 NOK vs. CLE L 17 3 1 4 25.0 0 0 - 1 2 50.0 3 3 6 0 0 1 0 2 6
+p62
+aVRasual Butler NOK 04/10/2006 NOK vs. CLE L 26 10 2 8 25.0 2 4 50.0 4 4 100.0 2 2 4 0 0 0 1 1 0
+p63
+aVKirk Snyder NOK 04/10/2006 NOK vs. CLE L 14 11 5 8 62.5 1 3 33.3 0 0 - 0 0 0 1 0 0 0 2 7
+p64
+aVDavid West NOK 04/10/2006 NOK vs. CLE L 27 14 5 9 55.6 0 0 - 4 4 100.0 2 4 6 2 0 0 0 1 -8
+p65
+aVChris Paul NOK 04/10/2006 NOK vs. CLE L 41 22 6 15 40.0 0 2 0.0 10 10 100.0 3 5 8 5 0 0 2 3 -7
+p66
+aVKirk Snyder NOK 04/08/2006 NOK @ DAL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 1 -8
+p67
+aVSpeedy Claxton NOK 04/08/2006 NOK @ DAL L 19 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 0 0 4 4 -18
+p68
+aVDesmond Mason NOK 04/08/2006 NOK @ DAL L 26 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 1 1 0 0 1 -15
+p69
+aVAaron Williams NOK 04/08/2006 NOK @ DAL L 17 6 3 6 50.0 0 0 - 0 1 0.0 1 3 4 1 0 0 2 3 -11
+p70
+aVMoochie Norris NOK 04/08/2006 NOK @ DAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p71
+aVChris Paul NOK 04/08/2006 NOK @ DAL L 27 9 4 6 66.7 1 2 50.0 0 0 - 1 4 5 5 0 0 2 2 -9
+p72
+aVMarc Jackson NOK 04/08/2006 NOK @ DAL L 23 9 4 10 40.0 0 0 - 1 2 50.0 1 2 3 2 0 0 4 2 -16
+p73
+aVLinton Johnson NOK 04/08/2006 NOK @ DAL L 23 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 1 1 3 -3
+p74
+aVJR Smith NOK 04/08/2006 NOK @ DAL L 13 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 4
+p75
+aVP.J. Brown NOK 04/08/2006 NOK @ DAL L 29 12 5 9 55.6 0 0 - 2 2 100.0 2 5 7 1 1 0 1 1 -9
+p76
+aVRasual Butler NOK 04/08/2006 NOK @ DAL L 30 14 5 10 50.0 0 1 0.0 4 5 80.0 1 6 7 1 1 1 0 1 -23
+p77
+aVDavid West NOK 04/08/2006 NOK @ DAL L 21 4 1 7 14.3 0 0 - 2 2 100.0 1 0 1 0 0 1 3 1 -15
+p78
+aVChris Paul NOK 04/07/2006 NOK vs. TOR W 36 16 7 13 53.8 1 3 33.3 1 1 100.0 0 3 3 8 2 1 1 1 6
+p79
+aVDesmond Mason NOK 04/07/2006 NOK vs. TOR W 21 6 2 6 33.3 0 0 - 2 4 50.0 0 4 4 3 0 0 1 2 1
+p80
+aVSpeedy Claxton NOK 04/07/2006 NOK vs. TOR W 27 11 5 13 38.5 0 0 - 1 2 50.0 0 4 4 4 1 0 1 1 -2
+p81
+aVDavid West NOK 04/07/2006 NOK vs. TOR W 33 19 8 12 66.7 0 0 - 3 3 100.0 3 6 9 1 0 1 1 0 1
+p82
+aVRasual Butler NOK 04/07/2006 NOK vs. TOR W 21 6 2 6 33.3 1 3 33.3 1 2 50.0 0 3 3 0 0 2 1 4 4
+p83
+aVAaron Williams NOK 04/07/2006 NOK vs. TOR W 19 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 0 0 1 3 11
+p84
+aVKirk Snyder NOK 04/07/2006 NOK vs. TOR W 18 7 3 8 37.5 1 3 33.3 0 2 0.0 0 0 0 3 0 1 1 0 1
+p85
+aVMarc Jackson NOK 04/07/2006 NOK vs. TOR W 24 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 3 0 1 4 1 2
+p86
+aVP.J. Brown NOK 04/07/2006 NOK vs. TOR W 17 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 -2
+p87
+aVLinton Johnson NOK 04/07/2006 NOK vs. TOR W 23 13 5 8 62.5 3 4 75.0 0 0 - 2 5 7 0 1 0 2 2 8
+p88
+aVKirk Snyder NOK 04/05/2006 NOK vs. GSW W 10 11 5 6 83.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 11
+p89
+aVBrandon Bass NOK 04/05/2006 NOK vs. GSW W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p90
+aVMarc Jackson NOK 04/05/2006 NOK vs. GSW W 30 12 6 11 54.5 0 0 - 0 0 - 0 0 0 2 1 0 0 3 -5
+p91
+aVRasual Butler NOK 04/05/2006 NOK vs. GSW W 48 11 4 11 36.4 1 4 25.0 2 4 50.0 3 8 11 0 1 2 1 2 1
+p92
+aVLinton Johnson NOK 04/05/2006 NOK vs. GSW W 22 13 6 11 54.5 1 2 50.0 0 0 - 4 3 7 1 0 0 0 6 -12
+p93
+aVDavid West NOK 04/05/2006 NOK vs. GSW W 36 13 4 14 28.6 0 0 - 5 6 83.3 2 6 8 0 1 1 1 3 2
+p94
+aVChris Paul NOK 04/05/2006 NOK vs. GSW W 47 17 6 15 40.0 0 2 0.0 5 6 83.3 2 9 11 16 6 0 4 4 1
+p95
+aVJR Smith NOK 04/05/2006 NOK vs. GSW W 9 8 2 5 40.0 2 3 66.7 2 3 66.7 0 0 0 0 1 0 0 1 2
+p96
+aVAaron Williams NOK 04/05/2006 NOK vs. GSW W 21 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 2 1 0 2 13
+p97
+aVSpeedy Claxton NOK 04/05/2006 NOK vs. GSW W 36 21 8 16 50.0 0 1 0.0 5 7 71.4 1 0 1 7 0 0 1 1 10
+p98
+aVKirk Snyder NOK 04/04/2006 NOK @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p99
+aVJR Smith NOK 04/04/2006 NOK @ DET L 10 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 2 0 0 1 -9
+p100
+aVDavid West NOK 04/04/2006 NOK @ DET L 39 24 10 20 50.0 0 0 - 4 5 80.0 3 3 6 1 2 1 1 3 -1
+p101
+aVAaron Williams NOK 04/04/2006 NOK @ DET L 25 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 0 1 1 5 -9
+p102
+aVSpeedy Claxton NOK 04/04/2006 NOK @ DET L 28 9 4 10 40.0 0 0 - 1 2 50.0 0 3 3 6 0 0 2 3 -9
+p103
+aVMarc Jackson NOK 04/04/2006 NOK @ DET L 23 10 5 10 50.0 0 0 - 0 0 - 2 4 6 0 1 0 1 1 1
+p104
+aVLinton Johnson NOK 04/04/2006 NOK @ DET L 28 4 2 7 28.6 0 1 0.0 0 0 - 4 2 6 2 0 0 3 3 2
+p105
+aVChris Paul NOK 04/04/2006 NOK @ DET L 37 24 8 17 47.1 0 1 0.0 8 8 100.0 1 3 4 10 5 0 2 4 1
+p106
+aVBrandon Bass NOK 04/04/2006 NOK @ DET L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p107
+aVRasual Butler NOK 04/04/2006 NOK @ DET L 40 8 3 7 42.9 2 3 66.7 0 0 - 2 0 2 1 2 1 0 3 -9
+p108
+aVRasual Butler NOK 04/02/2006 NOK @ TOR W 49 17 6 14 42.9 3 8 37.5 2 2 100.0 0 6 6 1 0 1 2 5 10
+p109
+aVChris Paul NOK 04/02/2006 NOK @ TOR W 48 24 6 15 40.0 1 3 33.3 11 14 78.6 1 11 12 12 2 1 3 2 7
+p110
+aVAaron Williams NOK 04/02/2006 NOK @ TOR W 23 13 6 9 66.7 0 0 - 1 2 50.0 3 6 9 0 0 2 1 2 2
+p111
+aVSpeedy Claxton NOK 04/02/2006 NOK @ TOR W 41 10 2 10 20.0 0 1 0.0 6 6 100.0 0 3 3 12 3 0 4 4 5
+p112
+aVJR Smith NOK 04/02/2006 NOK @ TOR W 14 10 5 7 71.4 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -1
+p113
+aVBrandon Bass NOK 04/02/2006 NOK @ TOR W 10 4 1 4 25.0 0 0 - 2 2 100.0 2 5 7 0 0 0 0 1 -2
+p114
+aVMarc Jackson NOK 04/02/2006 NOK @ TOR W 28 16 7 14 50.0 0 0 - 2 2 100.0 4 1 5 0 0 1 2 1 -7
+p115
+aVDavid West NOK 04/02/2006 NOK @ TOR W 48 23 11 22 50.0 0 0 - 1 1 100.0 2 4 6 3 2 0 2 2 9
+p116
+aVLinton Johnson NOK 04/02/2006 NOK @ TOR W 29 3 1 4 25.0 0 2 0.0 1 2 50.0 2 6 8 2 0 2 1 1 12
+p117
+aVLinton Johnson NOK 03/31/2006 NOK vs. MEM W 32 16 6 8 75.0 0 1 0.0 4 4 100.0 2 6 8 1 0 2 2 5 11
+p118
+aVChris Paul NOK 03/31/2006 NOK vs. MEM W 38 21 5 9 55.6 0 2 0.0 11 13 84.6 1 6 7 5 2 0 3 5 3
+p119
+aVJR Smith NOK 03/31/2006 NOK vs. MEM W 15 10 2 5 40.0 1 2 50.0 5 5 100.0 0 0 0 0 0 0 1 3 -1
+p120
+aVMarc Jackson NOK 03/31/2006 NOK vs. MEM W 36 24 10 16 62.5 0 0 - 4 4 100.0 4 3 7 2 1 0 3 2 2
+p121
+aVAaron Williams NOK 03/31/2006 NOK vs. MEM W 27 9 4 4 100.0 0 0 - 1 2 50.0 2 2 4 1 1 0 0 5 15
+p122
+aVSpeedy Claxton NOK 03/31/2006 NOK vs. MEM W 37 8 3 8 37.5 0 0 - 2 3 66.7 0 0 0 8 0 0 2 2 -5
+p123
+aVBrandon Bass NOK 03/31/2006 NOK vs. MEM W 12 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 1
+p124
+aVRasual Butler NOK 03/31/2006 NOK vs. MEM W 43 15 6 9 66.7 3 3 100.0 0 0 - 1 4 5 1 0 0 2 1 -1
+p125
+aVMoochie Norris NOK 03/29/2006 NOK @ GSW W 15 5 1 3 33.3 0 0 - 3 4 75.0 1 0 1 3 1 0 1 3 7
+p126
+aVLinton Johnson NOK 03/29/2006 NOK @ GSW W 25 0 0 7 0.0 0 1 0.0 0 0 - 2 2 4 1 1 0 2 3 -15
+p127
+aVAaron Williams NOK 03/29/2006 NOK @ GSW W 18 10 5 8 62.5 0 0 - 0 0 - 3 2 5 0 1 2 0 2 13
+p128
+aVBrandon Bass NOK 03/29/2006 NOK @ GSW W 12 1 0 3 0.0 0 0 - 1 2 50.0 3 3 6 1 0 1 1 0 6
+p129
+aVKirk Snyder NOK 03/29/2006 NOK @ GSW W 7 0 0 4 0.0 0 2 0.0 0 2 0.0 1 0 1 1 0 0 0 0 3
+p130
+aVChris Paul NOK 03/29/2006 NOK @ GSW W 40 18 7 15 46.7 0 1 0.0 4 4 100.0 1 5 6 7 2 0 1 4 4
+p131
+aVP.J. Brown NOK 03/29/2006 NOK @ GSW W 35 12 5 8 62.5 0 0 - 2 2 100.0 2 4 6 3 2 0 0 2 -7
+p132
+aVMarc Jackson NOK 03/29/2006 NOK @ GSW W 32 16 6 15 40.0 0 0 - 4 4 100.0 3 5 8 1 0 0 3 2 -10
+p133
+aVRasual Butler NOK 03/29/2006 NOK @ GSW W 41 20 8 15 53.3 4 7 57.1 0 0 - 1 4 5 1 0 1 1 4 1
+p134
+aVJR Smith NOK 03/29/2006 NOK @ GSW W 15 4 2 7 28.6 0 2 0.0 0 0 - 0 5 5 0 1 0 1 3 3
+p135
+aVP.J. Brown NOK 03/27/2006 NOK @ UTA L 27 10 5 8 62.5 0 0 - 0 4 0.0 3 5 8 1 1 1 2 4 -2
+p136
+aVChris Paul NOK 03/27/2006 NOK @ UTA L 26 11 3 7 42.9 0 2 0.0 5 6 83.3 0 1 1 7 1 0 2 3 -16
+p137
+aVJR Smith NOK 03/27/2006 NOK @ UTA L 22 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 2 2 0 0 2 -8
+p138
+aVArvydas Macijauskas NOK 03/27/2006 NOK @ UTA L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p139
+aVLinton Johnson NOK 03/27/2006 NOK @ UTA L 28 10 4 9 44.4 2 3 66.7 0 0 - 3 2 5 0 0 0 3 2 -15
+p140
+aVAaron Williams NOK 03/27/2006 NOK @ UTA L 24 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 2 0 3 -15
+p141
+aVKirk Snyder NOK 03/27/2006 NOK @ UTA L 15 10 3 8 37.5 2 3 66.7 2 4 50.0 0 0 0 1 1 0 1 5 -6
+p142
+aVRasual Butler NOK 03/27/2006 NOK @ UTA L 35 15 7 12 58.3 0 1 0.0 1 1 100.0 0 2 2 0 2 0 0 2 -21
+p143
+aVMarc Jackson NOK 03/27/2006 NOK @ UTA L 26 7 3 7 42.9 0 0 - 1 2 50.0 0 4 4 0 0 0 1 6 -17
+p144
+aVSpeedy Claxton NOK 03/27/2006 NOK @ UTA L 25 13 3 8 37.5 1 3 33.3 6 9 66.7 0 1 1 5 0 0 1 3 -10
+p145
+aVMoochie Norris NOK 03/27/2006 NOK @ UTA L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p146
+aVAaron Williams NOK 03/26/2006 NOK @ LAL L 15 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 0 0 0 0 3 -13
+p147
+aVChris Paul NOK 03/26/2006 NOK @ LAL L 39 17 6 14 42.9 2 4 50.0 3 4 75.0 0 1 1 6 2 0 1 3 -7
+p148
+aVKirk Snyder NOK 03/26/2006 NOK @ LAL L 21 7 3 9 33.3 0 1 0.0 1 2 50.0 1 3 4 3 1 1 2 2 -4
+p149
+aVDavid West NOK 03/26/2006 NOK @ LAL L 39 23 10 18 55.6 0 0 - 3 4 75.0 1 9 10 1 0 0 2 4 -11
+p150
+aVMarc Jackson NOK 03/26/2006 NOK @ LAL L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 6
+p151
+aVRasual Butler NOK 03/26/2006 NOK @ LAL L 37 12 4 11 36.4 0 1 0.0 4 5 80.0 3 6 9 3 0 0 2 3 -9
+p152
+aVSpeedy Claxton NOK 03/26/2006 NOK @ LAL L 30 9 4 10 40.0 1 3 33.3 0 0 - 0 2 2 6 0 0 2 6 -14
+p153
+aVLinton Johnson NOK 03/26/2006 NOK @ LAL L 18 6 2 4 50.0 1 2 50.0 1 2 50.0 2 3 5 0 1 0 0 2 -2
+p154
+aVP.J. Brown NOK 03/26/2006 NOK @ LAL L 31 13 6 11 54.5 0 0 - 1 1 100.0 3 4 7 0 0 2 3 6 -1
+p155
+aVMarc Jackson NOK 03/24/2006 NOK @ CHI L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p156
+aVAaron Williams NOK 03/24/2006 NOK @ CHI L 22 10 4 8 50.0 0 0 - 2 4 50.0 3 2 5 0 0 0 1 4 -1
+p157
+aVChris Paul NOK 03/24/2006 NOK @ CHI L 39 13 4 10 40.0 0 1 0.0 5 6 83.3 0 3 3 5 3 0 3 3 -9
+p158
+aVP.J. Brown NOK 03/24/2006 NOK @ CHI L 27 11 3 5 60.0 0 0 - 5 6 83.3 2 7 9 1 1 0 2 5 -15
+p159
+aVSpeedy Claxton NOK 03/24/2006 NOK @ CHI L 29 10 3 9 33.3 0 0 - 4 4 100.0 0 1 1 6 5 0 0 2 -6
+p160
+aVDavid West NOK 03/24/2006 NOK @ CHI L 27 11 4 14 28.6 0 0 - 3 4 75.0 3 3 6 2 0 0 3 4 -15
+p161
+aVRasual Butler NOK 03/24/2006 NOK @ CHI L 36 4 1 10 10.0 0 3 0.0 2 4 50.0 1 8 9 0 1 1 2 3 -5
+p162
+aVLinton Johnson NOK 03/24/2006 NOK @ CHI L 24 11 3 8 37.5 2 3 66.7 3 4 75.0 2 5 7 0 1 0 0 1 6
+p163
+aVKirk Snyder NOK 03/24/2006 NOK @ CHI L 14 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 0 0 3 2 -1
+p164
+aVJR Smith NOK 03/24/2006 NOK @ CHI L 15 10 3 4 75.0 0 0 - 4 4 100.0 0 0 0 0 1 0 0 0 -17
+p165
+aVKirk Snyder NOK 03/23/2006 NOK vs. HOU L 28 9 3 16 18.8 1 6 16.7 2 2 100.0 3 2 5 0 1 0 0 0 0
+p166
+aVMarc Jackson NOK 03/23/2006 NOK vs. HOU L 13 2 1 3 33.3 0 0 - 0 2 0.0 1 1 2 0 0 0 2 3 -6
+p167
+aVDavid West NOK 03/23/2006 NOK vs. HOU L 31 14 4 10 40.0 0 0 - 6 6 100.0 3 8 11 1 1 0 0 1 8
+p168
+aVP.J. Brown NOK 03/23/2006 NOK vs. HOU L 32 12 6 14 42.9 0 0 - 0 0 - 5 3 8 2 2 2 0 4 0
+p169
+aVAaron Williams NOK 03/23/2006 NOK vs. HOU L 20 10 4 7 57.1 0 0 - 2 2 100.0 4 6 10 0 0 1 1 4 -4
+p170
+aVSpeedy Claxton NOK 03/23/2006 NOK vs. HOU L 22 11 4 12 33.3 0 1 0.0 3 3 100.0 0 0 0 10 2 0 2 3 -2
+p171
+aVChris Paul NOK 03/23/2006 NOK vs. HOU L 35 13 5 13 38.5 1 4 25.0 2 2 100.0 0 5 5 5 4 0 2 1 3
+p172
+aVRasual Butler NOK 03/23/2006 NOK vs. HOU L 33 12 4 11 36.4 2 6 33.3 2 2 100.0 1 4 5 2 1 0 1 1 7
+p173
+aVLinton Johnson NOK 03/23/2006 NOK vs. HOU L 15 4 2 6 33.3 0 1 0.0 0 0 - 4 0 4 0 0 1 1 0 -8
+p174
+aVJR Smith NOK 03/23/2006 NOK vs. HOU L 11 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 1 0 1 2 -3
+p175
+aVSpeedy Claxton NOK 03/21/2006 NOK vs. LAC W 28 8 2 7 28.6 1 2 50.0 3 6 50.0 0 1 1 5 1 0 2 2 10
+p176
+aVKirk Snyder NOK 03/21/2006 NOK vs. LAC W 20 9 3 5 60.0 2 3 66.7 1 2 50.0 0 1 1 4 0 0 1 1 2
+p177
+aVMarc Jackson NOK 03/21/2006 NOK vs. LAC W 16 10 4 7 57.1 0 1 0.0 2 3 66.7 2 1 3 2 0 0 1 1 1
+p178
+aVLinton Johnson NOK 03/21/2006 NOK vs. LAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p179
+aVRasual Butler NOK 03/21/2006 NOK vs. LAC W 42 32 12 16 75.0 7 9 77.8 1 3 33.3 0 2 2 1 1 0 0 3 9
+p180
+aVChris Paul NOK 03/21/2006 NOK vs. LAC W 38 21 6 11 54.5 1 4 25.0 8 8 100.0 1 2 3 9 1 0 1 1 12
+p181
+aVDavid West NOK 03/21/2006 NOK vs. LAC W 37 21 9 18 50.0 0 0 - 3 3 100.0 3 8 11 2 0 2 1 2 6
+p182
+aVJR Smith NOK 03/21/2006 NOK vs. LAC W 9 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 2 1 1 1 1 0
+p183
+aVP.J. Brown NOK 03/21/2006 NOK vs. LAC W 27 6 3 11 27.3 0 0 - 0 0 - 4 3 7 3 1 1 3 4 11
+p184
+aVAaron Williams NOK 03/21/2006 NOK vs. LAC W 17 6 2 5 40.0 0 0 - 2 4 50.0 3 2 5 1 1 0 1 3 6
+p185
+aVSpeedy Claxton NOK 03/18/2006 NOK vs. DEN L 25 6 2 7 28.6 0 1 0.0 2 3 66.7 0 2 2 6 0 0 2 4 -2
+p186
+aVJR Smith NOK 03/18/2006 NOK vs. DEN L 11 3 1 8 12.5 0 3 0.0 1 2 50.0 1 3 4 1 1 0 1 1 -1
+p187
+aVMarc Jackson NOK 03/18/2006 NOK vs. DEN L 17 10 4 7 57.1 0 0 - 2 2 100.0 3 4 7 0 0 0 0 0 -2
+p188
+aVDavid West NOK 03/18/2006 NOK vs. DEN L 25 24 12 18 66.7 0 0 - 0 0 - 2 6 8 0 1 1 3 4 -14
+p189
+aVP.J. Brown NOK 03/18/2006 NOK vs. DEN L 16 8 1 4 25.0 0 0 - 6 6 100.0 6 4 10 2 0 1 1 0 -15
+p190
+aVKirk Snyder NOK 03/18/2006 NOK vs. DEN L 10 12 4 9 44.4 2 4 50.0 2 2 100.0 1 1 2 2 0 0 1 1 -10
+p191
+aVRasual Butler NOK 03/18/2006 NOK vs. DEN L 21 4 1 9 11.1 1 7 14.3 1 3 33.3 0 0 0 0 0 1 3 0 -11
+p192
+aVMoochie Norris NOK 03/18/2006 NOK vs. DEN L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 1
+p193
+aVChris Paul NOK 03/18/2006 NOK vs. DEN L 24 11 3 11 27.3 1 5 20.0 4 4 100.0 0 4 4 10 4 0 2 4 -15
+p194
+aVLinton Johnson NOK 03/18/2006 NOK vs. DEN L 14 11 4 6 66.7 1 1 100.0 2 2 100.0 1 3 4 0 0 1 1 6 -7
+p195
+aVAaron Williams NOK 03/18/2006 NOK vs. DEN L 14 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 1 1 1 1
+p196
+aVMoochie Norris NOK 03/14/2006 NOK @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p197
+aVJR Smith NOK 03/14/2006 NOK @ SAS L 14 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -2
+p198
+aVBrandon Bass NOK 03/14/2006 NOK @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p199
+aVAaron Williams NOK 03/14/2006 NOK @ SAS L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 5 -10
+p200
+aVMarc Jackson NOK 03/14/2006 NOK @ SAS L 36 16 8 14 57.1 0 0 - 0 0 - 2 4 6 1 1 0 1 4 -14
+p201
+aVLinton Johnson NOK 03/14/2006 NOK @ SAS L 15 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 2 0 1 2 -10
+p202
+aVChris Paul NOK 03/14/2006 NOK @ SAS L 37 16 7 15 46.7 0 1 0.0 2 4 50.0 0 1 1 7 3 0 3 2 -15
+p203
+aVDavid West NOK 03/14/2006 NOK @ SAS L 36 14 6 13 46.2 0 0 - 2 2 100.0 1 4 5 2 1 0 3 5 4
+p204
+aVDesmond Mason NOK 03/14/2006 NOK @ SAS L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p205
+aVKirk Snyder NOK 03/14/2006 NOK @ SAS L 25 9 4 8 50.0 0 1 0.0 1 2 50.0 0 2 2 3 0 1 0 0 -8
+p206
+aVRasual Butler NOK 03/14/2006 NOK @ SAS L 42 9 4 7 57.1 0 1 0.0 1 1 100.0 1 7 8 2 2 1 3 1 -7
+p207
+aVSpeedy Claxton NOK 03/14/2006 NOK @ SAS L 19 14 4 9 44.4 1 1 100.0 5 5 100.0 1 2 3 1 0 0 0 4 -5
+p208
+aVDavid West NOK 03/12/2006 NOK vs. NJN L 29 10 5 12 41.7 0 0 - 0 0 - 1 5 6 3 1 1 0 2 -10
+p209
+aVRasual Butler NOK 03/12/2006 NOK vs. NJN L 20 7 3 9 33.3 1 5 20.0 0 0 - 0 1 1 0 1 0 0 4 -4
+p210
+aVP.J. Brown NOK 03/12/2006 NOK vs. NJN L 23 4 2 6 33.3 0 0 - 0 0 - 2 6 8 0 0 0 1 2 -10
+p211
+aVKirk Snyder NOK 03/12/2006 NOK vs. NJN L 23 11 4 8 50.0 1 3 33.3 2 2 100.0 1 2 3 0 1 1 2 4 -5
+p212
+aVDesmond Mason NOK 03/12/2006 NOK vs. NJN L 33 11 3 14 21.4 0 0 - 5 8 62.5 1 2 3 1 2 0 1 1 -15
+p213
+aVAaron Williams NOK 03/12/2006 NOK vs. NJN L 25 8 3 4 75.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 3 1
+p214
+aVMarc Jackson NOK 03/12/2006 NOK vs. NJN L 15 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 1 2 3
+p215
+aVChris Paul NOK 03/12/2006 NOK vs. NJN L 43 17 7 14 50.0 2 3 66.7 1 1 100.0 1 2 3 7 4 0 1 5 -5
+p216
+aVSpeedy Claxton NOK 03/12/2006 NOK vs. NJN L 29 12 4 11 36.4 0 2 0.0 4 6 66.7 0 3 3 2 5 0 1 3 -10
+p217
+aVSpeedy Claxton NOK 03/10/2006 NOK vs. IND L 27 11 2 11 18.2 0 0 - 7 8 87.5 0 5 5 4 2 0 2 1 -7
+p218
+aVRasual Butler NOK 03/10/2006 NOK vs. IND L 20 9 4 6 66.7 1 2 50.0 0 0 - 1 1 2 0 0 1 0 4 -6
+p219
+aVMarc Jackson NOK 03/10/2006 NOK vs. IND L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p220
+aVLinton Johnson NOK 03/10/2006 NOK vs. IND L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 0
+p221
+aVAaron Williams NOK 03/10/2006 NOK vs. IND L 18 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 1 1 1 1 1 -10
+p222
+aVDesmond Mason NOK 03/10/2006 NOK vs. IND L 39 16 6 10 60.0 0 0 - 4 6 66.7 1 4 5 1 1 0 0 2 -1
+p223
+aVDavid West NOK 03/10/2006 NOK vs. IND L 29 20 6 12 50.0 0 1 0.0 8 9 88.9 1 5 6 0 0 1 2 5 2
+p224
+aVKirk Snyder NOK 03/10/2006 NOK vs. IND L 31 16 6 8 75.0 1 1 100.0 3 5 60.0 0 5 5 1 1 1 0 1 -1
+p225
+aVP.J. Brown NOK 03/10/2006 NOK vs. IND L 30 7 3 7 42.9 0 0 - 1 2 50.0 3 2 5 0 1 0 2 4 8
+p226
+aVChris Paul NOK 03/10/2006 NOK vs. IND L 38 7 1 9 11.1 0 3 0.0 5 8 62.5 1 6 7 8 0 0 1 3 4
+p227
+aVAaron Williams NOK 03/08/2006 NOK vs. LAL L 21 10 3 4 75.0 0 0 - 4 4 100.0 1 2 3 1 0 0 1 4 10
+p228
+aVRasual Butler NOK 03/08/2006 NOK vs. LAL L 21 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 1 2 1 2 5 -7
+p229
+aVDavid West NOK 03/08/2006 NOK vs. LAL L 42 25 12 21 57.1 0 0 - 1 2 50.0 3 2 5 0 0 1 1 3 -6
+p230
+aVChris Paul NOK 03/08/2006 NOK vs. LAL L 38 22 7 16 43.8 2 3 66.7 6 6 100.0 1 3 4 10 3 0 2 3 -2
+p231
+aVLinton Johnson NOK 03/08/2006 NOK vs. LAL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -7
+p232
+aVP.J. Brown NOK 03/08/2006 NOK vs. LAL L 27 3 1 5 20.0 0 0 - 1 2 50.0 3 2 5 2 0 1 1 5 -16
+p233
+aVKirk Snyder NOK 03/08/2006 NOK vs. LAL L 20 4 2 5 40.0 0 2 0.0 0 0 - 2 4 6 1 1 0 0 1 1
+p234
+aVMarc Jackson NOK 03/08/2006 NOK vs. LAL L 6 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 0
+p235
+aVDesmond Mason NOK 03/08/2006 NOK vs. LAL L 35 15 6 10 60.0 0 0 - 3 4 75.0 2 3 5 2 0 0 2 2 -4
+p236
+aVSpeedy Claxton NOK 03/08/2006 NOK vs. LAL L 27 22 9 16 56.3 2 3 66.7 2 2 100.0 1 1 2 5 2 0 3 3 1
+p237
+aVLinton Johnson NOK 03/06/2006 NOK vs. PHX L 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 0 1 4
+p238
+aVDesmond Mason NOK 03/06/2006 NOK vs. PHX L 33 11 5 10 50.0 0 0 - 1 2 50.0 1 6 7 0 1 0 2 3 -16
+p239
+aVChris Paul NOK 03/06/2006 NOK vs. PHX L 43 14 4 12 33.3 2 6 33.3 4 5 80.0 0 4 4 11 1 0 2 4 -23
+p240
+aVRasual Butler NOK 03/06/2006 NOK vs. PHX L 23 8 3 7 42.9 0 4 0.0 2 4 50.0 0 2 2 0 1 1 0 1 8
+p241
+aVSpeedy Claxton NOK 03/06/2006 NOK vs. PHX L 29 9 4 14 28.6 0 0 - 1 3 33.3 3 0 3 4 2 0 0 4 10
+p242
+aVDavid West NOK 03/06/2006 NOK vs. PHX L 38 22 10 15 66.7 0 0 - 2 4 50.0 1 7 8 0 1 0 1 0 -19
+p243
+aVP.J. Brown NOK 03/06/2006 NOK vs. PHX L 25 4 1 3 33.3 0 0 - 2 2 100.0 3 3 6 0 0 0 1 3 -20
+p244
+aVAaron Williams NOK 03/06/2006 NOK vs. PHX L 10 7 3 4 75.0 0 0 - 1 2 50.0 3 2 5 1 0 0 0 3 6
+p245
+aVKirk Snyder NOK 03/06/2006 NOK vs. PHX L 29 13 5 13 38.5 1 6 16.7 2 2 100.0 1 4 5 2 0 1 2 1 -15
+p246
+aVMoochie Norris NOK 03/01/2006 NOK @ LAC L 15 2 0 1 0.0 0 0 - 2 4 50.0 0 2 2 1 2 0 4 1 -14
+p247
+aVLinton Johnson NOK 03/01/2006 NOK @ LAC L 13 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 0 2 0 0 -11
+p248
+aVBrandon Bass NOK 03/01/2006 NOK @ LAC L 3 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 0 1 0 0 1
+p249
+aVArvydas Macijauskas NOK 03/01/2006 NOK @ LAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p250
+aVDavid West NOK 03/01/2006 NOK @ LAC L 34 10 5 9 55.6 0 0 - 0 0 - 0 3 3 2 2 0 0 2 -13
+p251
+aVP.J. Brown NOK 03/01/2006 NOK @ LAC L 25 10 4 9 44.4 0 0 - 2 2 100.0 3 8 11 1 0 0 0 2 -10
+p252
+aVChris Paul NOK 03/01/2006 NOK @ LAC L 39 9 4 13 30.8 0 3 0.0 1 2 50.0 1 7 8 12 1 0 3 1 -15
+p253
+aVRasual Butler NOK 03/01/2006 NOK @ LAC L 20 2 1 9 11.1 0 3 0.0 0 0 - 1 2 3 1 0 0 1 0 -17
+p254
+aVAaron Williams NOK 03/01/2006 NOK @ LAC L 20 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 1 0 1 -13
+p255
+aVMarc Jackson NOK 03/01/2006 NOK @ LAC L 14 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -9
+p256
+aVKirk Snyder NOK 03/01/2006 NOK @ LAC L 19 8 3 8 37.5 0 1 0.0 2 3 66.7 0 0 0 0 0 1 0 0 6
+p257
+aVDesmond Mason NOK 03/01/2006 NOK @ LAC L 34 20 8 13 61.5 0 0 - 4 6 66.7 0 3 3 2 0 1 3 4 -14
+p258
+aVChris Paul NOK 02/28/2006 NOK @ SEA L 42 25 6 12 50.0 1 3 33.3 12 12 100.0 4 3 7 14 3 0 2 4 -8
+p259
+aVAaron Williams NOK 02/28/2006 NOK @ SEA L 22 3 1 5 20.0 0 0 - 1 2 50.0 2 3 5 0 1 0 1 3 15
+p260
+aVDavid West NOK 02/28/2006 NOK @ SEA L 23 12 6 12 50.0 0 0 - 0 0 - 1 1 2 0 1 2 1 2 -19
+p261
+aVKirk Snyder NOK 02/28/2006 NOK @ SEA L 22 5 2 6 33.3 0 3 0.0 1 2 50.0 0 1 1 1 1 0 2 3 -23
+p262
+aVDesmond Mason NOK 02/28/2006 NOK @ SEA L 27 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 4 0 0 1 2 -20
+p263
+aVRasual Butler NOK 02/28/2006 NOK @ SEA L 28 23 8 16 50.0 5 9 55.6 2 4 50.0 1 2 3 2 0 0 0 2 10
+p264
+aVMoochie Norris NOK 02/28/2006 NOK @ SEA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -2
+p265
+aVP.J. Brown NOK 02/28/2006 NOK @ SEA L 22 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 2 1 1 1 1 -21
+p266
+aVLinton Johnson NOK 02/28/2006 NOK @ SEA L 21 4 0 5 0.0 0 2 0.0 4 4 100.0 2 4 6 2 1 0 1 4 10
+p267
+aVMarc Jackson NOK 02/28/2006 NOK @ SEA L 27 19 9 13 69.2 0 0 - 1 1 100.0 3 1 4 0 0 0 2 3 8
+p268
+aVChris Paul NOK 02/26/2006 NOK @ POR W 37 19 6 14 42.9 0 2 0.0 7 8 87.5 2 3 5 8 0 0 2 1 7
+p269
+aVMoochie Norris NOK 02/26/2006 NOK @ POR W 11 8 3 3 100.0 0 0 - 2 3 66.7 0 1 1 1 1 0 2 0 6
+p270
+aVLinton Johnson NOK 02/26/2006 NOK @ POR W 15 4 2 4 50.0 0 1 0.0 0 2 0.0 2 3 5 0 0 0 2 4 10
+p271
+aVDavid West NOK 02/26/2006 NOK @ POR W 29 22 8 14 57.1 0 0 - 6 6 100.0 1 2 3 3 0 0 1 4 15
+p272
+aVKirk Snyder NOK 02/26/2006 NOK @ POR W 23 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 2 8
+p273
+aVRasual Butler NOK 02/26/2006 NOK @ POR W 25 13 5 14 35.7 3 6 50.0 0 0 - 2 4 6 0 1 1 1 3 5
+p274
+aVMarc Jackson NOK 02/26/2006 NOK @ POR W 19 4 2 10 20.0 0 0 - 0 0 - 5 3 8 0 0 0 1 4 13
+p275
+aVP.J. Brown NOK 02/26/2006 NOK @ POR W 27 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 1 1 2 3
+p276
+aVAaron Williams NOK 02/26/2006 NOK @ POR W 21 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 0 0 0 1 2 -5
+p277
+aVDesmond Mason NOK 02/26/2006 NOK @ POR W 33 6 1 5 20.0 0 0 - 4 6 66.7 0 6 6 1 0 1 0 3 3
+p278
+aVChris Paul NOK 02/25/2006 NOK @ UTA W 39 23 6 11 54.5 1 2 50.0 10 13 76.9 0 2 2 8 2 0 5 5 13
+p279
+aVLinton Johnson NOK 02/25/2006 NOK @ UTA W 22 17 7 8 87.5 2 2 100.0 1 1 100.0 3 8 11 0 1 0 1 2 10
+p280
+aVAaron Williams NOK 02/25/2006 NOK @ UTA W 16 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 1 0 2 4 0
+p281
+aVMarc Jackson NOK 02/25/2006 NOK @ UTA W 15 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 1 0 2 2 0
+p282
+aVKirk Snyder NOK 02/25/2006 NOK @ UTA W 30 11 3 8 37.5 1 3 33.3 4 4 100.0 0 4 4 1 1 1 3 4 2
+p283
+aVDavid West NOK 02/25/2006 NOK @ UTA W 33 20 8 14 57.1 0 0 - 4 7 57.1 3 5 8 2 1 2 2 2 5
+p284
+aVMoochie Norris NOK 02/25/2006 NOK @ UTA W 27 8 3 10 30.0 0 2 0.0 2 2 100.0 0 1 1 3 1 0 1 0 -5
+p285
+aVP.J. Brown NOK 02/25/2006 NOK @ UTA W 32 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 1 1 4 2 5
+p286
+aVRasual Butler NOK 02/25/2006 NOK @ UTA W 26 13 6 11 54.5 1 3 33.3 0 0 - 1 2 3 1 2 1 1 5 -5
+p287
+aVDesmond Mason NOK 02/22/2006 NOK vs. UTA L 25 14 5 10 50.0 0 1 0.0 4 5 80.0 0 7 7 0 0 0 2 2 9
+p288
+aVAaron Williams NOK 02/22/2006 NOK vs. UTA L 34 0 0 4 0.0 0 0 - 0 0 - 2 11 13 0 1 2 2 5 -11
+p289
+aVRasual Butler NOK 02/22/2006 NOK vs. UTA L 36 9 3 11 27.3 0 3 0.0 3 4 75.0 1 2 3 0 1 1 1 3 -12
+p290
+aVJackson Vroman NOK 02/22/2006 NOK vs. UTA L 15 5 1 2 50.0 0 0 - 3 4 75.0 2 2 4 1 0 0 1 4 5
+p291
+aVMoochie Norris NOK 02/22/2006 NOK vs. UTA L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 4 -8
+p292
+aVChris Paul NOK 02/22/2006 NOK vs. UTA L 39 18 6 15 40.0 0 2 0.0 6 6 100.0 0 2 2 7 7 1 3 0 2
+p293
+aVP.J. Brown NOK 02/22/2006 NOK vs. UTA L 36 8 3 11 27.3 0 0 - 2 2 100.0 3 7 10 1 0 1 2 5 -3
+p294
+aVKirk Snyder NOK 02/22/2006 NOK vs. UTA L 27 9 4 8 50.0 0 2 0.0 1 1 100.0 0 1 1 2 2 1 3 2 -3
+p295
+aVBostjan Nachbar NOK 02/22/2006 NOK vs. UTA L 20 11 3 7 42.9 3 5 60.0 2 2 100.0 0 1 1 0 0 0 0 3 -9
+p296
+aVJackson Vroman NOK 02/21/2006 NOK @ IND L 17 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -12
+p297
+aVSpeedy Claxton NOK 02/21/2006 NOK @ IND L 25 6 1 8 12.5 0 0 - 4 4 100.0 1 2 3 3 3 0 4 2 -7
+p298
+aVP.J. Brown NOK 02/21/2006 NOK @ IND L 26 5 1 5 20.0 0 0 - 3 4 75.0 1 2 3 1 1 0 0 1 -9
+p299
+aVChris Paul NOK 02/21/2006 NOK @ IND L 36 27 8 15 53.3 3 4 75.0 8 8 100.0 0 3 3 6 3 0 4 3 -15
+p300
+aVBrandon Bass NOK 02/21/2006 NOK @ IND L 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 1 0 -4
+p301
+aVMoochie Norris NOK 02/21/2006 NOK @ IND L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -4
+p302
+aVKirk Snyder NOK 02/21/2006 NOK @ IND L 19 4 2 6 33.3 0 1 0.0 0 0 - 2 1 3 2 0 0 1 2 -15
+p303
+aVRasual Butler NOK 02/21/2006 NOK @ IND L 14 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 0 0 1 1 2 -10
+p304
+aVArvydas Macijauskas NOK 02/21/2006 NOK @ IND L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -3
+p305
+aVAaron Williams NOK 02/21/2006 NOK @ IND L 27 7 3 8 37.5 0 0 - 1 2 50.0 2 4 6 2 1 0 1 1 -10
+p306
+aVDesmond Mason NOK 02/21/2006 NOK @ IND L 35 12 4 10 40.0 0 0 - 4 6 66.7 2 5 7 0 1 0 1 0 -18
+p307
+aVBostjan Nachbar NOK 02/21/2006 NOK @ IND L 19 4 1 7 14.3 0 3 0.0 2 4 50.0 0 3 3 2 0 1 0 3 -3
+p308
+aVKirk Snyder NOK 02/15/2006 NOK vs. POR W 29 22 8 17 47.1 1 4 25.0 5 6 83.3 1 3 4 1 0 1 1 2 9
+p309
+aVChris Paul NOK 02/15/2006 NOK vs. POR W 22 1 0 3 0.0 0 0 - 1 1 100.0 1 4 5 7 2 0 1 0 19
+p310
+aVJackson Vroman NOK 02/15/2006 NOK vs. POR W 4 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 2
+p311
+aVRasual Butler NOK 02/15/2006 NOK vs. POR W 24 8 3 10 30.0 1 4 25.0 1 2 50.0 4 5 9 1 1 0 1 0 11
+p312
+aVMoochie Norris NOK 02/15/2006 NOK vs. POR W 8 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 -9
+p313
+aVP.J. Brown NOK 02/15/2006 NOK vs. POR W 27 10 3 5 60.0 0 0 - 4 4 100.0 2 6 8 2 0 0 0 1 17
+p314
+aVBostjan Nachbar NOK 02/15/2006 NOK vs. POR W 14 4 1 4 25.0 0 1 0.0 2 4 50.0 0 1 1 0 0 1 0 3 7
+p315
+aVDesmond Mason NOK 02/15/2006 NOK vs. POR W 31 13 4 10 40.0 0 0 - 5 8 62.5 0 3 3 0 0 0 1 0 8
+p316
+aVSpeedy Claxton NOK 02/15/2006 NOK vs. POR W 25 11 5 12 41.7 0 2 0.0 1 2 50.0 3 2 5 2 0 0 2 2 16
+p317
+aVJR Smith NOK 02/15/2006 NOK vs. POR W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p318
+aVDavid West NOK 02/15/2006 NOK vs. POR W 26 10 5 8 62.5 0 0 - 0 0 - 0 4 4 2 1 1 1 3 7
+p319
+aVAaron Williams NOK 02/15/2006 NOK vs. POR W 24 14 6 9 66.7 0 0 - 2 2 100.0 2 6 8 2 1 1 0 3 -2
+p320
+aVDesmond Mason NOK 02/13/2006 NOK vs. WAS W 39 12 5 10 50.0 0 0 - 2 2 100.0 3 2 5 3 1 0 1 1 -8
+p321
+aVP.J. Brown NOK 02/13/2006 NOK vs. WAS W 29 14 7 13 53.8 0 0 - 0 0 - 2 5 7 0 1 0 1 4 -6
+p322
+aVMoochie Norris NOK 02/13/2006 NOK vs. WAS W 6 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 -2
+p323
+aVKirk Snyder NOK 02/13/2006 NOK vs. WAS W 27 17 7 12 58.3 1 4 25.0 2 3 66.7 0 4 4 3 2 0 1 3 -2
+p324
+aVBostjan Nachbar NOK 02/13/2006 NOK vs. WAS W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 9
+p325
+aVSpeedy Claxton NOK 02/13/2006 NOK vs. WAS W 37 16 8 13 61.5 0 0 - 0 0 - 1 2 3 10 2 0 4 2 8
+p326
+aVDavid West NOK 02/13/2006 NOK vs. WAS W 40 19 7 14 50.0 0 0 - 5 5 100.0 4 5 9 2 1 0 3 4 4
+p327
+aVRasual Butler NOK 02/13/2006 NOK vs. WAS W 26 5 2 12 16.7 0 2 0.0 1 2 50.0 1 0 1 1 2 1 1 1 -2
+p328
+aVAaron Williams NOK 02/13/2006 NOK vs. WAS W 21 9 4 5 80.0 0 0 - 1 1 100.0 3 4 7 1 0 0 3 5 6
+p329
+aVJackson Vroman NOK 02/13/2006 NOK vs. WAS W 6 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -2
+p330
+aVRasual Butler NOK 02/11/2006 NOK @ MIN W 17 3 1 5 20.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 4 -16
+p331
+aVDesmond Mason NOK 02/11/2006 NOK @ MIN W 37 14 5 15 33.3 0 0 - 4 6 66.7 1 8 9 0 2 1 1 1 18
+p332
+aVAaron Williams NOK 02/11/2006 NOK @ MIN W 21 2 0 1 0.0 0 0 - 2 4 50.0 0 3 3 0 0 0 0 4 -11
+p333
+aVP.J. Brown NOK 02/11/2006 NOK @ MIN W 35 11 4 10 40.0 0 0 - 3 3 100.0 3 4 7 0 2 2 1 5 8
+p334
+aVJackson Vroman NOK 02/11/2006 NOK @ MIN W 7 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 2
+p335
+aVSpeedy Claxton NOK 02/11/2006 NOK @ MIN W 42 28 11 22 50.0 1 1 100.0 5 5 100.0 0 3 3 7 2 0 2 1 11
+p336
+aVKirk Snyder NOK 02/11/2006 NOK @ MIN W 32 28 9 12 75.0 2 2 100.0 8 10 80.0 1 2 3 2 1 0 1 4 15
+p337
+aVBostjan Nachbar NOK 02/11/2006 NOK @ MIN W 16 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 1 0 2 -7
+p338
+aVDavid West NOK 02/11/2006 NOK @ MIN W 33 11 5 10 50.0 0 0 - 1 1 100.0 0 7 7 0 0 1 1 3 10
+p339
+aVDavid West NOK 02/10/2006 NOK vs. NYK W 34 21 8 13 61.5 0 0 - 5 7 71.4 3 7 10 3 0 0 0 2 22
+p340
+aVP.J. Brown NOK 02/10/2006 NOK vs. NYK W 27 11 5 8 62.5 0 0 - 1 1 100.0 0 7 7 0 0 0 0 3 8
+p341
+aVSpeedy Claxton NOK 02/10/2006 NOK vs. NYK W 41 18 5 12 41.7 0 0 - 8 10 80.0 0 3 3 11 0 1 2 5 13
+p342
+aVDesmond Mason NOK 02/10/2006 NOK vs. NYK W 32 19 7 12 58.3 0 0 - 5 7 71.4 3 1 4 1 0 0 0 4 6
+p343
+aVKirk Snyder NOK 02/10/2006 NOK vs. NYK W 25 9 3 7 42.9 0 2 0.0 3 4 75.0 2 0 2 5 1 1 1 1 19
+p344
+aVAaron Williams NOK 02/10/2006 NOK vs. NYK W 20 6 3 5 60.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 3 -7
+p345
+aVJackson Vroman NOK 02/10/2006 NOK vs. NYK W 15 7 2 2 100.0 0 0 - 3 6 50.0 2 2 4 1 0 0 0 2 -4
+p346
+aVBostjan Nachbar NOK 02/10/2006 NOK vs. NYK W 19 11 3 4 75.0 3 3 100.0 2 2 100.0 0 2 2 0 0 1 0 2 -1
+p347
+aVRasual Butler NOK 02/10/2006 NOK vs. NYK W 27 9 2 10 20.0 0 4 0.0 5 6 83.3 2 3 5 1 1 0 0 2 -1
+p348
+aVJackson Vroman NOK 02/08/2006 NOK vs. SEA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p349
+aVChris Paul NOK 02/08/2006 NOK vs. SEA W 20 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 6 1 0 2 2 12
+p350
+aVP.J. Brown NOK 02/08/2006 NOK vs. SEA W 35 21 8 11 72.7 0 0 - 5 5 100.0 3 6 9 0 3 0 2 1 2
+p351
+aVSpeedy Claxton NOK 02/08/2006 NOK vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p352
+aVAaron Williams NOK 02/08/2006 NOK vs. SEA W 19 4 2 4 50.0 0 0 - 0 0 - 4 4 8 0 0 0 0 5 6
+p353
+aVRasual Butler NOK 02/08/2006 NOK vs. SEA W 27 14 5 10 50.0 4 7 57.1 0 2 0.0 0 1 1 2 0 3 0 2 11
+p354
+aVKirk Snyder NOK 02/08/2006 NOK vs. SEA W 45 16 6 13 46.2 1 6 16.7 3 5 60.0 0 2 2 12 0 0 5 0 12
+p355
+aVBostjan Nachbar NOK 02/08/2006 NOK vs. SEA W 7 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 -9
+p356
+aVDavid West NOK 02/08/2006 NOK vs. SEA W 38 26 8 18 44.4 0 2 0.0 10 11 90.9 3 7 10 2 2 1 0 1 12
+p357
+aVDesmond Mason NOK 02/08/2006 NOK vs. SEA W 36 15 4 9 44.4 0 0 - 7 9 77.8 0 6 6 0 1 1 0 4 9
+p358
+aVJR Smith NOK 02/08/2006 NOK vs. SEA W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 2 0 1 3 -14
+p359
+aVDesmond Mason NOK 02/06/2006 NOK @ NJN L 35 15 6 15 40.0 0 0 - 3 4 75.0 2 5 7 0 0 1 1 0 -23
+p360
+aVSpeedy Claxton NOK 02/06/2006 NOK @ NJN L 33 23 8 14 57.1 0 0 - 7 9 77.8 0 2 2 6 3 0 3 4 11
+p361
+aVAaron Williams NOK 02/06/2006 NOK @ NJN L 18 2 1 1 100.0 0 0 - 0 0 - 0 5 5 1 0 0 0 4 7
+p362
+aVChris Paul NOK 02/06/2006 NOK @ NJN L 41 6 2 12 16.7 1 3 33.3 1 2 50.0 2 5 7 13 1 0 3 2 -21
+p363
+aVKirk Snyder NOK 02/06/2006 NOK @ NJN L 15 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 0 0 0 1 3 -6
+p364
+aVRasual Butler NOK 02/06/2006 NOK @ NJN L 27 18 5 9 55.6 2 4 50.0 6 6 100.0 0 5 5 0 1 1 0 2 10
+p365
+aVBostjan Nachbar NOK 02/06/2006 NOK @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 8
+p366
+aVDavid West NOK 02/06/2006 NOK @ NJN L 35 14 5 12 41.7 0 0 - 4 4 100.0 0 1 1 0 1 0 0 3 -15
+p367
+aVP.J. Brown NOK 02/06/2006 NOK @ NJN L 27 3 1 3 33.3 0 0 - 1 1 100.0 0 3 3 1 0 0 1 4 -25
+p368
+aVJR Smith NOK 02/06/2006 NOK @ NJN L 3 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 8
+p369
+aVJackson Vroman NOK 02/06/2006 NOK @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 6
+p370
+aVRasual Butler NOK 02/04/2006 NOK vs. LAL W 20 15 6 8 75.0 3 3 100.0 0 0 - 2 1 3 0 1 1 0 1 1
+p371
+aVDesmond Mason NOK 02/04/2006 NOK vs. LAL W 36 21 8 13 61.5 1 2 50.0 4 6 66.7 2 3 5 0 0 1 2 0 14
+p372
+aVAaron Williams NOK 02/04/2006 NOK vs. LAL W 28 7 3 6 50.0 0 0 - 1 1 100.0 3 2 5 1 0 0 2 5 8
+p373
+aVP.J. Brown NOK 02/04/2006 NOK vs. LAL W 33 14 7 9 77.8 0 0 - 0 0 - 1 8 9 4 0 1 0 3 15
+p374
+aVKirk Snyder NOK 02/04/2006 NOK vs. LAL W 26 11 5 7 71.4 0 0 - 1 1 100.0 1 3 4 0 0 0 1 4 -1
+p375
+aVDavid West NOK 02/04/2006 NOK vs. LAL W 27 11 4 11 36.4 0 0 - 3 3 100.0 0 3 3 0 0 1 1 2 10
+p376
+aVChris Paul NOK 02/04/2006 NOK vs. LAL W 36 19 6 10 60.0 1 2 50.0 6 7 85.7 0 7 7 13 0 0 6 3 15
+p377
+aVSpeedy Claxton NOK 02/04/2006 NOK vs. LAL W 34 8 3 10 30.0 0 0 - 2 2 100.0 0 4 4 5 1 0 4 0 18
+p378
+aVJR Smith NOK 02/01/2006 NOK vs. CHI W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -2
+p379
+aVRasual Butler NOK 02/01/2006 NOK vs. CHI W 18 14 5 11 45.5 3 7 42.9 1 2 50.0 0 2 2 0 2 0 2 1 9
+p380
+aVAaron Williams NOK 02/01/2006 NOK vs. CHI W 21 8 3 7 42.9 0 0 - 2 2 100.0 4 1 5 0 0 2 0 5 1
+p381
+aVSpeedy Claxton NOK 02/01/2006 NOK vs. CHI W 26 7 2 10 20.0 0 2 0.0 3 6 50.0 0 4 4 6 1 1 1 2 1
+p382
+aVDavid West NOK 02/01/2006 NOK vs. CHI W 29 13 5 10 50.0 0 0 - 3 5 60.0 1 5 6 0 0 0 2 4 -6
+p383
+aVP.J. Brown NOK 02/01/2006 NOK vs. CHI W 34 10 4 9 44.4 0 0 - 2 2 100.0 1 5 6 1 0 2 1 3 9
+p384
+aVChris Paul NOK 02/01/2006 NOK vs. CHI W 38 25 8 11 72.7 0 0 - 9 11 81.8 0 4 4 13 3 0 1 3 2
+p385
+aVDesmond Mason NOK 02/01/2006 NOK vs. CHI W 32 6 2 9 22.2 0 0 - 2 2 100.0 0 3 3 0 2 0 0 2 -3
+p386
+aVJackson Vroman NOK 02/01/2006 NOK vs. CHI W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 5
+p387
+aVKirk Snyder NOK 02/01/2006 NOK vs. CHI W 30 15 6 13 46.2 2 4 50.0 1 1 100.0 0 2 2 1 0 0 0 1 9
+p388
+aVKirk Snyder NOK 01/30/2006 NOK vs. MIL W 24 8 3 7 42.9 2 2 100.0 0 0 - 0 0 0 1 1 1 0 1 -6
+p389
+aVP.J. Brown NOK 01/30/2006 NOK vs. MIL W 39 8 2 10 20.0 0 0 - 4 4 100.0 3 9 12 3 0 0 3 5 1
+p390
+aVRasual Butler NOK 01/30/2006 NOK vs. MIL W 22 3 1 6 16.7 1 4 25.0 0 0 - 1 3 4 1 0 1 1 0 5
+p391
+aVDavid West NOK 01/30/2006 NOK vs. MIL W 34 24 12 23 52.2 0 0 - 0 0 - 5 10 15 1 0 1 3 4 4
+p392
+aVJackson Vroman NOK 01/30/2006 NOK vs. MIL W 15 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 1 1 4 -6
+p393
+aVDesmond Mason NOK 01/30/2006 NOK vs. MIL W 34 12 5 12 41.7 0 0 - 2 2 100.0 0 5 5 0 0 2 1 2 -1
+p394
+aVChris Paul NOK 01/30/2006 NOK vs. MIL W 40 16 6 11 54.5 0 3 0.0 4 6 66.7 0 3 3 9 4 1 6 4 0
+p395
+aVSpeedy Claxton NOK 01/30/2006 NOK vs. MIL W 32 19 6 7 85.7 0 0 - 7 9 77.8 1 2 3 4 0 0 3 3 8
+p396
+aVBostjan Nachbar NOK 01/28/2006 NOK @ MEM W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p397
+aVDavid West NOK 01/28/2006 NOK @ MEM W 39 19 9 15 60.0 0 0 - 1 2 50.0 3 9 12 3 2 1 0 3 9
+p398
+aVSpeedy Claxton NOK 01/28/2006 NOK @ MEM W 31 20 9 18 50.0 0 0 - 2 4 50.0 0 2 2 5 2 0 2 5 12
+p399
+aVKirk Snyder NOK 01/28/2006 NOK @ MEM W 28 10 4 6 66.7 2 2 100.0 0 0 - 0 3 3 1 1 0 1 2 10
+p400
+aVDesmond Mason NOK 01/28/2006 NOK @ MEM W 31 10 3 13 23.1 0 1 0.0 4 5 80.0 0 4 4 1 0 0 1 2 -5
+p401
+aVJackson Vroman NOK 01/28/2006 NOK @ MEM W 17 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 5
+p402
+aVRasual Butler NOK 01/28/2006 NOK @ MEM W 15 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 0 0 0 1 3 8
+p403
+aVP.J. Brown NOK 01/28/2006 NOK @ MEM W 39 18 6 9 66.7 0 0 - 6 6 100.0 3 6 9 1 1 1 0 4 6
+p404
+aVChris Paul NOK 01/28/2006 NOK @ MEM W 37 13 1 10 10.0 0 2 0.0 11 12 91.7 0 3 3 8 1 0 4 1 -4
+p405
+aVSpeedy Claxton NOK 01/25/2006 NOK vs. SAS L 28 0 0 7 0.0 0 0 - 0 0 - 0 3 3 2 0 0 0 2 -2
+p406
+aVJR Smith NOK 01/25/2006 NOK vs. SAS L 8 8 2 3 66.7 0 0 - 4 4 100.0 0 1 1 0 0 0 1 0 4
+p407
+aVDesmond Mason NOK 01/25/2006 NOK vs. SAS L 28 4 2 9 22.2 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -18
+p408
+aVRasual Butler NOK 01/25/2006 NOK vs. SAS L 23 15 4 5 80.0 1 1 100.0 6 6 100.0 1 1 2 0 0 0 1 0 -1
+p409
+aVArvydas Macijauskas NOK 01/25/2006 NOK vs. SAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 8
+p410
+aVBrandon Bass NOK 01/25/2006 NOK vs. SAS L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 8
+p411
+aVChris Paul NOK 01/25/2006 NOK vs. SAS L 34 14 5 18 27.8 0 3 0.0 4 4 100.0 2 5 7 4 3 0 1 3 -23
+p412
+aVKirk Snyder NOK 01/25/2006 NOK vs. SAS L 22 2 1 6 16.7 0 0 - 0 1 0.0 1 0 1 1 0 0 0 2 -19
+p413
+aVJackson Vroman NOK 01/25/2006 NOK vs. SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 8
+p414
+aVDavid West NOK 01/25/2006 NOK vs. SAS L 35 15 6 13 46.2 0 0 - 3 3 100.0 1 6 7 0 0 2 2 4 -23
+p415
+aVChris Andersen NOK 01/25/2006 NOK vs. SAS L 17 1 0 3 0.0 0 0 - 1 6 16.7 1 4 5 0 2 4 1 2 -11
+p416
+aVP.J. Brown NOK 01/25/2006 NOK vs. SAS L 33 5 1 4 25.0 0 0 - 3 4 75.0 2 7 9 0 0 2 1 2 -11
+p417
+aVChris Andersen NOK 01/23/2006 NOK @ BOS L 19 5 1 2 50.0 0 0 - 3 4 75.0 0 4 4 0 0 3 0 2 8
+p418
+aVDavid West NOK 01/23/2006 NOK @ BOS L 30 21 10 21 47.6 0 0 - 1 2 50.0 4 2 6 1 0 0 2 3 -22
+p419
+aVArvydas Macijauskas NOK 01/23/2006 NOK @ BOS L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 9
+p420
+aVJackson Vroman NOK 01/23/2006 NOK @ BOS L 12 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 1 1 0 1 0 10
+p421
+aVDesmond Mason NOK 01/23/2006 NOK @ BOS L 31 8 3 10 30.0 0 1 0.0 2 2 100.0 0 4 4 1 2 0 2 3 -24
+p422
+aVSpeedy Claxton NOK 01/23/2006 NOK @ BOS L 22 5 2 6 33.3 0 1 0.0 1 1 100.0 0 1 1 3 0 0 2 3 -2
+p423
+aVJR Smith NOK 01/23/2006 NOK @ BOS L 12 16 5 7 71.4 1 2 50.0 5 7 71.4 1 2 3 0 0 0 1 1 10
+p424
+aVChris Paul NOK 01/23/2006 NOK @ BOS L 30 8 1 7 14.3 0 1 0.0 6 6 100.0 1 5 6 6 2 0 4 1 -24
+p425
+aVBrandon Bass NOK 01/23/2006 NOK @ BOS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p426
+aVKirk Snyder NOK 01/23/2006 NOK @ BOS L 22 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 1 1 0 1 1 -12
+p427
+aVRasual Butler NOK 01/23/2006 NOK @ BOS L 26 3 1 7 14.3 1 5 20.0 0 4 0.0 0 4 4 0 0 1 1 1 -6
+p428
+aVP.J. Brown NOK 01/23/2006 NOK @ BOS L 23 5 1 6 16.7 0 0 - 3 4 75.0 3 5 8 1 0 1 1 3 -17
+p429
+aVJackson Vroman NOK 01/21/2006 NOK @ NYK W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -4
+p430
+aVSpeedy Claxton NOK 01/21/2006 NOK @ NYK W 26 10 3 5 60.0 0 0 - 4 4 100.0 0 1 1 5 2 0 1 4 7
+p431
+aVChris Andersen NOK 01/21/2006 NOK @ NYK W 23 5 1 1 100.0 0 0 - 3 5 60.0 0 2 2 1 0 1 1 5 11
+p432
+aVChris Paul NOK 01/21/2006 NOK @ NYK W 35 27 6 13 46.2 1 3 33.3 14 17 82.4 3 4 7 13 1 0 5 3 14
+p433
+aVP.J. Brown NOK 01/21/2006 NOK @ NYK W 37 8 3 14 21.4 0 0 - 2 2 100.0 1 8 9 1 1 1 0 5 0
+p434
+aVKirk Snyder NOK 01/21/2006 NOK @ NYK W 30 9 4 9 44.4 0 1 0.0 1 1 100.0 1 3 4 3 0 0 1 3 7
+p435
+aVRasual Butler NOK 01/21/2006 NOK @ NYK W 19 12 4 6 66.7 4 4 100.0 0 0 - 0 1 1 0 0 2 1 1 -1
+p436
+aVDesmond Mason NOK 01/21/2006 NOK @ NYK W 29 16 7 13 53.8 0 0 - 2 2 100.0 0 0 0 1 0 0 1 2 14
+p437
+aVJR Smith NOK 01/21/2006 NOK @ NYK W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p438
+aVDavid West NOK 01/21/2006 NOK @ NYK W 34 19 9 15 60.0 0 0 - 1 1 100.0 2 6 8 1 4 2 5 3 13
+p439
+aVDesmond Mason NOK 01/20/2006 NOK @ WAS L 33 9 3 11 27.3 0 0 - 3 4 75.0 1 2 3 0 0 0 0 1 -8
+p440
+aVSpeedy Claxton NOK 01/20/2006 NOK @ WAS L 22 4 2 10 20.0 0 1 0.0 0 0 - 0 2 2 4 2 0 1 1 -12
+p441
+aVChris Andersen NOK 01/20/2006 NOK @ WAS L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -4
+p442
+aVP.J. Brown NOK 01/20/2006 NOK @ WAS L 32 8 4 9 44.4 0 0 - 0 1 0.0 4 2 6 1 0 0 3 1 -8
+p443
+aVDavid West NOK 01/20/2006 NOK @ WAS L 31 17 6 8 75.0 0 0 - 5 5 100.0 2 5 7 2 1 1 2 3 -25
+p444
+aVKirk Snyder NOK 01/20/2006 NOK @ WAS L 24 12 4 10 40.0 2 2 100.0 2 2 100.0 1 0 1 2 2 0 3 2 0
+p445
+aVChris Paul NOK 01/20/2006 NOK @ WAS L 39 28 11 17 64.7 1 3 33.3 5 5 100.0 0 6 6 11 4 1 1 5 -15
+p446
+aVJackson Vroman NOK 01/20/2006 NOK @ WAS L 10 5 1 1 100.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 1 6
+p447
+aVJR Smith NOK 01/20/2006 NOK @ WAS L 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 5
+p448
+aVRasual Butler NOK 01/20/2006 NOK @ WAS L 25 12 5 10 50.0 2 5 40.0 0 0 - 0 4 4 1 0 0 1 1 6
+p449
+aVRasual Butler NOK 01/18/2006 NOK vs. MEM W 20 8 4 9 44.4 0 0 - 0 0 - 1 0 1 1 0 0 0 3 8
+p450
+aVDavid West NOK 01/18/2006 NOK vs. MEM W 31 12 6 18 33.3 0 0 - 0 0 - 8 6 14 1 0 1 1 3 -3
+p451
+aVChris Andersen NOK 01/18/2006 NOK vs. MEM W 22 10 4 4 100.0 0 0 - 2 4 50.0 1 8 9 0 0 3 0 3 12
+p452
+aVP.J. Brown NOK 01/18/2006 NOK vs. MEM W 37 15 7 10 70.0 0 0 - 1 2 50.0 3 3 6 2 1 1 1 3 6
+p453
+aVJackson Vroman NOK 01/18/2006 NOK vs. MEM W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p454
+aVChris Paul NOK 01/18/2006 NOK vs. MEM W 41 16 5 12 41.7 2 4 50.0 4 4 100.0 0 3 3 9 2 0 2 4 0
+p455
+aVDesmond Mason NOK 01/18/2006 NOK vs. MEM W 31 8 2 6 33.3 0 0 - 4 4 100.0 0 2 2 0 0 0 1 0 -2
+p456
+aVSpeedy Claxton NOK 01/18/2006 NOK vs. MEM W 31 14 4 9 44.4 0 0 - 6 7 85.7 0 5 5 8 1 0 1 2 17
+p457
+aVKirk Snyder NOK 01/18/2006 NOK vs. MEM W 22 4 2 7 28.6 0 2 0.0 0 0 - 1 3 4 2 0 0 3 4 -1
+p458
+aVBostjan Nachbar NOK 01/16/2006 NOK @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p459
+aVJackson Vroman NOK 01/16/2006 NOK @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p460
+aVBrandon Bass NOK 01/16/2006 NOK @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p461
+aVP.J. Brown NOK 01/16/2006 NOK @ CHA W 30 12 6 11 54.5 0 0 - 0 0 - 1 6 7 1 0 5 3 6 6
+p462
+aVArvydas Macijauskas NOK 01/16/2006 NOK @ CHA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p463
+aVSpeedy Claxton NOK 01/16/2006 NOK @ CHA W 32 15 5 10 50.0 0 0 - 5 7 71.4 1 5 6 5 4 0 5 3 18
+p464
+aVRasual Butler NOK 01/16/2006 NOK @ CHA W 24 13 4 9 44.4 1 2 50.0 4 5 80.0 1 2 3 2 0 1 1 2 10
+p465
+aVKirk Snyder NOK 01/16/2006 NOK @ CHA W 22 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 1 0 3 6 16
+p466
+aVJR Smith NOK 01/16/2006 NOK @ CHA W 18 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 1 0 2 3 2
+p467
+aVChris Paul NOK 01/16/2006 NOK @ CHA W 34 24 6 12 50.0 0 1 0.0 12 12 100.0 1 6 7 6 4 0 2 2 9
+p468
+aVDesmond Mason NOK 01/16/2006 NOK @ CHA W 38 11 2 7 28.6 0 0 - 7 10 70.0 1 8 9 3 0 0 1 4 18
+p469
+aVDavid West NOK 01/16/2006 NOK @ CHA W 33 22 9 18 50.0 0 0 - 4 5 80.0 4 7 11 1 0 3 1 1 8
+p470
+aVRasual Butler NOK 01/14/2006 NOK @ HOU W 20 4 1 7 14.3 0 5 0.0 2 2 100.0 0 2 2 0 0 1 0 1 0
+p471
+aVBostjan Nachbar NOK 01/14/2006 NOK @ HOU W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p472
+aVKirk Snyder NOK 01/14/2006 NOK @ HOU W 27 7 3 9 33.3 1 4 25.0 0 0 - 2 0 2 2 1 0 2 2 -6
+p473
+aVSpeedy Claxton NOK 01/14/2006 NOK @ HOU W 34 12 5 10 50.0 0 0 - 2 2 100.0 1 6 7 4 0 0 1 2 3
+p474
+aVJR Smith NOK 01/14/2006 NOK @ HOU W 1 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 4
+p475
+aVJackson Vroman NOK 01/14/2006 NOK @ HOU W 12 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 0 1 0 2 3 -1
+p476
+aVDesmond Mason NOK 01/14/2006 NOK @ HOU W 33 16 6 9 66.7 0 0 - 4 7 57.1 0 6 6 2 1 0 2 2 16
+p477
+aVP.J. Brown NOK 01/14/2006 NOK @ HOU W 44 13 5 10 50.0 0 0 - 3 5 60.0 4 6 10 3 1 3 1 1 4
+p478
+aVDavid West NOK 01/14/2006 NOK @ HOU W 31 10 4 11 36.4 0 0 - 2 2 100.0 3 4 7 0 0 1 1 4 3
+p479
+aVChris Paul NOK 01/14/2006 NOK @ HOU W 34 17 4 12 33.3 0 1 0.0 9 12 75.0 0 6 6 5 1 0 1 3 11
+p480
+aVJR Smith NOK 01/13/2006 NOK vs. SAC W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 2 2 0
+p481
+aVBostjan Nachbar NOK 01/13/2006 NOK vs. SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -2
+p482
+aVJackson Vroman NOK 01/13/2006 NOK vs. SAC W 19 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 0 0 2 1 4 7
+p483
+aVDesmond Mason NOK 01/13/2006 NOK vs. SAC W 30 12 3 13 23.1 0 0 - 6 7 85.7 2 4 6 0 1 0 3 2 5
+p484
+aVP.J. Brown NOK 01/13/2006 NOK vs. SAC W 31 8 4 7 57.1 0 0 - 0 0 - 2 5 7 0 2 0 1 2 12
+p485
+aVChris Paul NOK 01/13/2006 NOK vs. SAC W 28 6 2 11 18.2 0 1 0.0 2 2 100.0 0 8 8 6 2 0 3 4 7
+p486
+aVArvydas Macijauskas NOK 01/13/2006 NOK vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p487
+aVSpeedy Claxton NOK 01/13/2006 NOK vs. SAC W 26 6 3 6 50.0 0 0 - 0 2 0.0 1 2 3 8 3 0 1 2 15
+p488
+aVDavid West NOK 01/13/2006 NOK vs. SAC W 31 19 8 18 44.4 0 0 - 3 3 100.0 1 3 4 0 5 2 2 0 6
+p489
+aVRasual Butler NOK 01/13/2006 NOK vs. SAC W 24 16 6 10 60.0 4 4 100.0 0 0 - 0 6 6 1 0 3 1 2 14
+p490
+aVKirk Snyder NOK 01/13/2006 NOK vs. SAC W 33 13 5 10 50.0 1 3 33.3 2 2 100.0 2 3 5 2 1 1 1 1 9
+p491
+aVBrandon Bass NOK 01/13/2006 NOK vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p492
+aVRasual Butler NOK 01/10/2006 NOK vs. DET L 15 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 0 0 1 0 7
+p493
+aVJR Smith NOK 01/10/2006 NOK vs. DET L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 0
+p494
+aVChris Paul NOK 01/10/2006 NOK vs. DET L 35 13 4 14 28.6 0 1 0.0 5 5 100.0 0 3 3 5 2 0 0 5 -9
+p495
+aVKirk Snyder NOK 01/10/2006 NOK vs. DET L 23 13 5 10 50.0 3 4 75.0 0 0 - 1 4 5 0 0 0 0 3 -5
+p496
+aVSpeedy Claxton NOK 01/10/2006 NOK vs. DET L 31 18 7 11 63.6 0 0 - 4 6 66.7 1 2 3 4 2 0 6 1 -6
+p497
+aVDesmond Mason NOK 01/10/2006 NOK vs. DET L 33 10 5 12 41.7 0 0 - 0 0 - 3 5 8 1 1 1 3 0 -17
+p498
+aVDavid West NOK 01/10/2006 NOK vs. DET L 43 20 8 17 47.1 0 0 - 4 4 100.0 3 3 6 1 0 1 2 3 -13
+p499
+aVChris Andersen NOK 01/10/2006 NOK vs. DET L 18 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 6
+p500
+aVP.J. Brown NOK 01/10/2006 NOK vs. DET L 35 3 1 5 20.0 0 0 - 1 1 100.0 2 7 9 2 0 0 2 3 -13
+p501
+aVChris Andersen NOK 01/07/2006 NOK @ ATL L 10 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 1 0 1 3 3
+p502
+aVJR Smith NOK 01/07/2006 NOK @ ATL L 24 7 3 6 50.0 1 1 100.0 0 1 0.0 0 1 1 2 2 0 2 3 -9
+p503
+aVDavid West NOK 01/07/2006 NOK @ ATL L 41 22 10 13 76.9 0 0 - 2 2 100.0 4 5 9 0 1 0 1 2 -3
+p504
+aVSpeedy Claxton NOK 01/07/2006 NOK @ ATL L 31 29 9 21 42.9 0 1 0.0 11 13 84.6 1 3 4 2 4 0 2 3 -1
+p505
+aVArvydas Macijauskas NOK 01/07/2006 NOK @ ATL L 27 8 1 7 14.3 1 2 50.0 5 7 71.4 1 2 3 1 1 0 1 2 -1
+p506
+aVKirk Snyder NOK 01/07/2006 NOK @ ATL L 17 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 4 0 2 3 0 -7
+p507
+aVP.J. Brown NOK 01/07/2006 NOK @ ATL L 34 8 4 5 80.0 0 0 - 0 0 - 3 2 5 1 1 0 0 2 -13
+p508
+aVRasual Butler NOK 01/07/2006 NOK @ ATL L 19 5 2 8 25.0 1 3 33.3 0 0 - 1 2 3 0 0 0 2 1 -3
+p509
+aVDesmond Mason NOK 01/07/2006 NOK @ ATL L 37 7 2 9 22.2 0 0 - 3 4 75.0 2 6 8 3 0 1 5 1 -6
+p510
+aVJR Smith NOK 01/06/2006 NOK vs. POR W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 1
+p511
+aVSpeedy Claxton NOK 01/06/2006 NOK vs. POR W 36 8 2 8 25.0 1 2 50.0 3 4 75.0 2 4 6 7 2 0 4 1 3
+p512
+aVDesmond Mason NOK 01/06/2006 NOK vs. POR W 27 8 2 7 28.6 0 0 - 4 4 100.0 1 2 3 0 0 0 3 1 3
+p513
+aVKirk Snyder NOK 01/06/2006 NOK vs. POR W 35 22 9 15 60.0 1 3 33.3 3 4 75.0 3 3 6 1 1 4 0 2 1
+p514
+aVDavid West NOK 01/06/2006 NOK vs. POR W 42 19 8 17 47.1 1 1 100.0 2 4 50.0 5 8 13 1 0 0 2 1 13
+p515
+aVChris Paul NOK 01/06/2006 NOK vs. POR W 17 8 4 8 50.0 0 2 0.0 0 0 - 0 1 1 3 0 0 0 0 15
+p516
+aVP.J. Brown NOK 01/06/2006 NOK vs. POR W 33 5 2 10 20.0 0 0 - 1 2 50.0 2 5 7 0 1 0 2 2 -4
+p517
+aVRasual Butler NOK 01/06/2006 NOK vs. POR W 21 12 5 12 41.7 2 8 25.0 0 0 - 0 2 2 0 0 1 0 3 7
+p518
+aVChris Andersen NOK 01/06/2006 NOK vs. POR W 21 8 3 3 100.0 0 0 - 2 2 100.0 3 3 6 0 0 2 1 2 11
+p519
+aVDavid West NOK 01/04/2006 NOK vs. MIA W 37 20 9 14 64.3 1 2 50.0 1 2 50.0 1 6 7 2 2 0 1 4 6
+p520
+aVDesmond Mason NOK 01/04/2006 NOK vs. MIA W 34 24 8 16 50.0 0 0 - 8 10 80.0 1 6 7 0 1 1 1 3 10
+p521
+aVJackson Vroman NOK 01/04/2006 NOK vs. MIA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 4
+p522
+aVJR Smith NOK 01/04/2006 NOK vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p523
+aVChris Paul NOK 01/04/2006 NOK vs. MIA W 37 15 6 10 60.0 2 4 50.0 1 2 50.0 1 5 6 9 3 0 1 2 6
+p524
+aVSpeedy Claxton NOK 01/04/2006 NOK vs. MIA W 32 12 3 9 33.3 0 0 - 6 7 85.7 1 5 6 8 3 0 2 1 11
+p525
+aVChris Andersen NOK 01/04/2006 NOK vs. MIA W 20 5 1 2 50.0 0 0 - 3 5 60.0 2 1 3 1 0 1 0 5 4
+p526
+aVArvydas Macijauskas NOK 01/04/2006 NOK vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p527
+aVKirk Snyder NOK 01/04/2006 NOK vs. MIA W 27 13 5 11 45.5 3 4 75.0 0 0 - 3 0 3 2 0 1 1 4 13
+p528
+aVRasual Butler NOK 01/04/2006 NOK vs. MIA W 18 12 4 11 36.4 2 4 50.0 2 2 100.0 0 2 2 0 0 0 1 2 5
+p529
+aVP.J. Brown NOK 01/04/2006 NOK vs. MIA W 29 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 1 1 0 2 5 20
+p530
+aVBrandon Bass NOK 01/04/2006 NOK vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p531
+aVKirk Snyder NOK 01/02/2006 NOK vs. CHA W 26 3 1 5 20.0 0 0 - 1 2 50.0 2 4 6 0 2 1 3 1 -3
+p532
+aVRasual Butler NOK 01/02/2006 NOK vs. CHA W 24 9 2 9 22.2 1 4 25.0 4 4 100.0 3 2 5 0 0 1 0 2 10
+p533
+aVP.J. Brown NOK 01/02/2006 NOK vs. CHA W 39 16 5 10 50.0 0 0 - 6 8 75.0 4 3 7 0 0 0 2 3 8
+p534
+aVSpeedy Claxton NOK 01/02/2006 NOK vs. CHA W 35 16 6 12 50.0 0 2 0.0 4 6 66.7 0 1 1 7 2 1 2 1 21
+p535
+aVDesmond Mason NOK 01/02/2006 NOK vs. CHA W 41 15 6 14 42.9 0 0 - 3 6 50.0 4 5 9 3 1 0 4 4 14
+p536
+aVChris Paul NOK 01/02/2006 NOK vs. CHA W 39 24 7 13 53.8 3 5 60.0 7 9 77.8 0 4 4 11 1 0 2 5 17
+p537
+aVDavid West NOK 01/02/2006 NOK vs. CHA W 36 20 10 15 66.7 0 0 - 0 0 - 3 6 9 0 2 2 1 4 18
+p538
+aVP.J. Brown NOK 12/31/2005 NOK vs. DAL L 37 10 5 10 50.0 0 0 - 0 0 - 2 4 6 1 0 1 3 1 1
+p539
+aVDesmond Mason NOK 12/31/2005 NOK vs. DAL L 40 13 5 12 41.7 0 0 - 3 5 60.0 1 4 5 2 2 0 0 3 -3
+p540
+aVJR Smith NOK 12/31/2005 NOK vs. DAL L 25 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 0 -12
+p541
+aVSpeedy Claxton NOK 12/31/2005 NOK vs. DAL L 30 17 5 13 38.5 0 0 - 7 10 70.0 1 1 2 2 2 0 4 4 -1
+p542
+aVDavid West NOK 12/31/2005 NOK vs. DAL L 31 18 8 13 61.5 0 0 - 2 2 100.0 5 5 10 1 0 0 2 4 -5
+p543
+aVKirk Snyder NOK 12/31/2005 NOK vs. DAL L 14 4 1 4 25.0 0 1 0.0 2 2 100.0 2 4 6 1 0 0 1 2 -4
+p544
+aVChris Paul NOK 12/31/2005 NOK vs. DAL L 33 16 5 9 55.6 1 1 100.0 5 6 83.3 1 6 7 10 2 0 2 5 3
+p545
+aVRasual Butler NOK 12/31/2005 NOK vs. DAL L 26 8 3 7 42.9 2 3 66.7 0 0 - 0 0 0 0 0 0 1 3 1
+p546
+aVChris Andersen NOK 12/31/2005 NOK vs. DAL L 5 1 0 0 - 0 0 - 1 4 25.0 1 0 1 0 0 1 2 1 -5
+p547
+aVSpeedy Claxton NOK 12/29/2005 NOK @ SAS L 23 4 1 5 20.0 0 1 0.0 2 2 100.0 1 3 4 3 1 1 3 3 -20
+p548
+aVChris Andersen NOK 12/29/2005 NOK @ SAS L 20 8 3 6 50.0 0 0 - 2 3 66.7 2 0 2 0 0 1 0 0 -12
+p549
+aVJR Smith NOK 12/29/2005 NOK @ SAS L 22 8 3 8 37.5 2 4 50.0 0 0 - 0 3 3 0 0 0 1 3 1
+p550
+aVMaciej Lampe NOK 12/29/2005 NOK @ SAS L 9 0 0 3 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -7
+p551
+aVP.J. Brown NOK 12/29/2005 NOK @ SAS L 27 9 3 6 50.0 0 0 - 3 4 75.0 3 3 6 2 0 0 0 2 -3
+p552
+aVChris Paul NOK 12/29/2005 NOK @ SAS L 27 6 3 12 25.0 0 0 - 0 0 - 0 3 3 7 4 0 4 2 -17
+p553
+aVArvydas Macijauskas NOK 12/29/2005 NOK @ SAS L 12 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 1 2 0 3 0 -8
+p554
+aVDesmond Mason NOK 12/29/2005 NOK @ SAS L 28 8 3 7 42.9 0 0 - 2 4 50.0 0 4 4 0 0 0 2 2 -19
+p555
+aVKirk Snyder NOK 12/29/2005 NOK @ SAS L 11 6 2 8 25.0 0 3 0.0 2 2 100.0 1 1 2 0 0 0 1 1 -7
+p556
+aVJackson Vroman NOK 12/29/2005 NOK @ SAS L 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p557
+aVDavid West NOK 12/29/2005 NOK @ SAS L 31 18 7 12 58.3 0 0 - 4 5 80.0 0 3 3 0 0 2 2 4 -28
+p558
+aVRasual Butler NOK 12/29/2005 NOK @ SAS L 21 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 1 0 0 2 1 -11
+p559
+aVSpeedy Claxton NOK 12/28/2005 NOK vs. HOU W 28 14 4 11 36.4 1 1 100.0 5 9 55.6 0 5 5 5 1 0 1 0 8
+p560
+aVKirk Snyder NOK 12/28/2005 NOK vs. HOU W 7 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -7
+p561
+aVJR Smith NOK 12/28/2005 NOK vs. HOU W 22 16 6 12 50.0 2 6 33.3 2 3 66.7 1 4 5 1 0 0 1 0 2
+p562
+aVJackson Vroman NOK 12/28/2005 NOK vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -7
+p563
+aVDavid West NOK 12/28/2005 NOK vs. HOU W 38 15 7 11 63.6 0 0 - 1 1 100.0 0 7 7 3 1 2 1 4 12
+p564
+aVP.J. Brown NOK 12/28/2005 NOK vs. HOU W 37 4 2 7 28.6 0 0 - 0 0 - 2 5 7 2 2 0 2 5 4
+p565
+aVChris Andersen NOK 12/28/2005 NOK vs. HOU W 11 0 0 0 - 0 0 - 0 4 0.0 1 4 5 0 1 1 2 5 -3
+p566
+aVDesmond Mason NOK 12/28/2005 NOK vs. HOU W 35 13 5 9 55.6 0 0 - 3 6 50.0 0 3 3 1 0 0 1 5 -4
+p567
+aVRasual Butler NOK 12/28/2005 NOK vs. HOU W 19 15 6 11 54.5 3 4 75.0 0 0 - 0 2 2 0 0 1 0 2 2
+p568
+aVChris Paul NOK 12/28/2005 NOK vs. HOU W 40 11 5 13 38.5 0 2 0.0 1 1 100.0 0 5 5 15 1 0 1 2 3
+p569
+aVDesmond Mason NOK 12/23/2005 NOK @ MIL L 30 7 2 5 40.0 0 0 - 3 4 75.0 0 0 0 2 0 0 2 2 -6
+p570
+aVP.J. Brown NOK 12/23/2005 NOK @ MIL L 36 8 3 6 50.0 0 0 - 2 2 100.0 2 5 7 2 0 0 1 4 8
+p571
+aVRasual Butler NOK 12/23/2005 NOK @ MIL L 19 8 3 6 50.0 2 4 50.0 0 2 0.0 0 2 2 0 0 0 0 0 -1
+p572
+aVKirk Snyder NOK 12/23/2005 NOK @ MIL L 7 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -3
+p573
+aVChris Andersen NOK 12/23/2005 NOK @ MIL L 16 7 1 3 33.3 0 0 - 5 9 55.6 4 4 8 0 0 1 0 3 -12
+p574
+aVChris Paul NOK 12/23/2005 NOK @ MIL L 43 24 6 13 46.2 2 4 50.0 10 13 76.9 2 3 5 8 4 0 1 2 -10
+p575
+aVSpeedy Claxton NOK 12/23/2005 NOK @ MIL L 25 8 2 11 18.2 0 2 0.0 4 4 100.0 1 2 3 4 1 0 1 4 -4
+p576
+aVJackson Vroman NOK 12/23/2005 NOK @ MIL L 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p577
+aVJR Smith NOK 12/23/2005 NOK @ MIL L 22 3 1 7 14.3 1 3 33.3 0 0 - 0 1 1 1 1 0 2 3 3
+p578
+aVDavid West NOK 12/23/2005 NOK @ MIL L 41 27 12 27 44.4 0 0 - 3 5 60.0 5 13 18 1 0 0 2 5 -12
+p579
+aVArvydas Macijauskas NOK 12/21/2005 NOK @ MIN L 9 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 4
+p580
+aVP.J. Brown NOK 12/21/2005 NOK @ MIN L 30 6 3 7 42.9 0 0 - 0 2 0.0 3 6 9 0 1 0 2 3 -23
+p581
+aVRasual Butler NOK 12/21/2005 NOK @ MIN L 22 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 0 0 1 0 1 6
+p582
+aVJR Smith NOK 12/21/2005 NOK @ MIN L 19 2 1 6 16.7 0 2 0.0 0 0 - 1 0 1 2 0 0 1 3 -8
+p583
+aVKirk Snyder NOK 12/21/2005 NOK @ MIN L 12 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 0 1 0 0 6
+p584
+aVMaciej Lampe NOK 12/21/2005 NOK @ MIN L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 2
+p585
+aVDavid West NOK 12/21/2005 NOK @ MIN L 28 11 4 11 36.4 0 0 - 3 4 75.0 2 3 5 1 2 0 0 2 -25
+p586
+aVDesmond Mason NOK 12/21/2005 NOK @ MIN L 26 4 1 9 11.1 0 0 - 2 4 50.0 1 1 2 1 0 0 0 1 -25
+p587
+aVSpeedy Claxton NOK 12/21/2005 NOK @ MIN L 26 5 2 10 20.0 0 0 - 1 1 100.0 0 2 2 4 3 0 2 1 -16
+p588
+aVChris Paul NOK 12/21/2005 NOK @ MIN L 29 15 5 16 31.3 1 2 50.0 4 4 100.0 0 5 5 3 1 0 1 3 -24
+p589
+aVJackson Vroman NOK 12/21/2005 NOK @ MIN L 17 0 0 4 0.0 0 0 - 0 2 0.0 1 3 4 0 0 0 1 2 -3
+p590
+aVChris Andersen NOK 12/21/2005 NOK @ MIN L 15 8 4 5 80.0 0 0 - 0 1 0.0 2 1 3 0 1 2 0 2 11
+p591
+aVJackson Vroman NOK 12/18/2005 NOK vs. SAS W 19 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 1 2 2 -4
+p592
+aVDavid West NOK 12/18/2005 NOK vs. SAS W 32 19 9 13 69.2 0 0 - 1 1 100.0 1 6 7 1 1 0 2 4 12
+p593
+aVSpeedy Claxton NOK 12/18/2005 NOK vs. SAS W 29 14 6 12 50.0 0 0 - 2 3 66.7 0 2 2 6 4 0 3 2 19
+p594
+aVRasual Butler NOK 12/18/2005 NOK vs. SAS W 16 13 6 9 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 0 2 16
+p595
+aVChris Andersen NOK 12/18/2005 NOK vs. SAS W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 3 0 1 0
+p596
+aVChris Paul NOK 12/18/2005 NOK vs. SAS W 42 17 6 15 40.0 0 0 - 5 6 83.3 2 10 12 9 5 0 1 0 13
+p597
+aVP.J. Brown NOK 12/18/2005 NOK vs. SAS W 30 6 3 11 27.3 0 0 - 0 1 0.0 4 2 6 1 2 0 0 4 10
+p598
+aVDesmond Mason NOK 12/18/2005 NOK vs. SAS W 37 15 6 15 40.0 0 1 0.0 3 3 100.0 0 1 1 2 1 0 2 1 5
+p599
+aVJR Smith NOK 12/18/2005 NOK vs. SAS W 25 1 0 6 0.0 0 3 0.0 1 2 50.0 0 1 1 1 2 0 1 1 -6
+p600
+aVSpeedy Claxton NOK 12/16/2005 NOK vs. PHX L 27 9 4 12 33.3 0 2 0.0 1 2 50.0 0 0 0 4 1 0 2 4 -21
+p601
+aVJackson Vroman NOK 12/16/2005 NOK vs. PHX L 20 0 0 0 - 0 0 - 0 0 - 2 1 3 1 1 4 3 2 -3
+p602
+aVChris Paul NOK 12/16/2005 NOK vs. PHX L 39 25 11 21 52.4 0 2 0.0 3 5 60.0 0 7 7 6 2 0 3 3 -8
+p603
+aVDavid West NOK 12/16/2005 NOK vs. PHX L 37 9 4 13 30.8 0 0 - 1 1 100.0 2 11 13 5 1 4 1 1 -9
+p604
+aVRasual Butler NOK 12/16/2005 NOK vs. PHX L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p605
+aVDesmond Mason NOK 12/16/2005 NOK vs. PHX L 34 9 4 13 30.8 0 0 - 1 2 50.0 3 2 5 1 1 0 2 2 -7
+p606
+aVJR Smith NOK 12/16/2005 NOK vs. PHX L 30 14 6 11 54.5 2 6 33.3 0 0 - 0 2 2 2 0 0 3 3 3
+p607
+aVP.J. Brown NOK 12/16/2005 NOK vs. PHX L 39 20 8 11 72.7 0 0 - 4 6 66.7 4 9 13 0 0 1 2 1 -14
+p608
+aVDavid West NOK 12/14/2005 NOK vs. LAC W 36 20 8 16 50.0 0 0 - 4 4 100.0 3 9 12 2 0 0 1 5 8
+p609
+aVRasual Butler NOK 12/14/2005 NOK vs. LAC W 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 3
+p610
+aVSpeedy Claxton NOK 12/14/2005 NOK vs. LAC W 27 14 5 8 62.5 1 2 50.0 3 4 75.0 0 3 3 3 0 0 2 2 7
+p611
+aVJR Smith NOK 12/14/2005 NOK vs. LAC W 32 21 7 14 50.0 6 10 60.0 1 2 50.0 1 4 5 1 1 0 0 1 7
+p612
+aVJackson Vroman NOK 12/14/2005 NOK vs. LAC W 22 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 2 0 2 6 9
+p613
+aVChris Paul NOK 12/14/2005 NOK vs. LAC W 37 13 5 9 55.6 0 1 0.0 3 4 75.0 0 5 5 8 2 0 2 4 12
+p614
+aVP.J. Brown NOK 12/14/2005 NOK vs. LAC W 38 14 4 8 50.0 0 0 - 6 6 100.0 1 4 5 4 0 1 0 2 9
+p615
+aVDesmond Mason NOK 12/14/2005 NOK vs. LAC W 33 15 6 14 42.9 0 0 - 3 8 37.5 0 5 5 1 2 0 2 1 10
+p616
+aVP.J. Brown NOK 12/12/2005 NOK @ PHX W 34 2 1 5 20.0 0 0 - 0 0 - 1 3 4 3 1 0 1 2 17
+p617
+aVJR Smith NOK 12/12/2005 NOK @ PHX W 39 26 6 12 50.0 4 5 80.0 10 10 100.0 1 9 10 3 1 0 1 2 3
+p618
+aVDesmond Mason NOK 12/12/2005 NOK @ PHX W 43 22 10 15 66.7 0 0 - 2 3 66.7 0 6 6 0 1 0 3 2 2
+p619
+aVRasual Butler NOK 12/12/2005 NOK @ PHX W 23 6 3 8 37.5 0 2 0.0 0 0 - 0 4 4 0 0 0 1 0 -3
+p620
+aVChris Paul NOK 12/12/2005 NOK @ PHX W 33 19 6 13 46.2 2 3 66.7 5 8 62.5 0 7 7 7 4 0 3 4 4
+p621
+aVDavid West NOK 12/12/2005 NOK @ PHX W 37 10 5 14 35.7 0 0 - 0 0 - 2 6 8 0 1 1 1 2 4
+p622
+aVSpeedy Claxton NOK 12/12/2005 NOK @ PHX W 31 6 2 10 20.0 0 0 - 2 2 100.0 1 1 2 3 3 0 2 3 -7
+p623
+aVP.J. Brown NOK 12/11/2005 NOK @ SAC L 41 17 6 11 54.5 0 0 - 5 6 83.3 4 4 8 0 0 0 3 3 -15
+p624
+aVDavid West NOK 12/11/2005 NOK @ SAC L 43 16 6 14 42.9 0 0 - 4 4 100.0 2 3 5 2 1 1 1 5 -6
+p625
+aVChris Paul NOK 12/11/2005 NOK @ SAC L 39 18 6 11 54.5 0 0 - 6 6 100.0 1 4 5 12 3 0 2 4 -16
+p626
+aVJackson Vroman NOK 12/11/2005 NOK @ SAC L 12 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 6 1
+p627
+aVJR Smith NOK 12/11/2005 NOK @ SAC L 31 12 4 12 33.3 2 4 50.0 2 3 66.7 2 2 4 1 1 1 0 4 -10
+p628
+aVDesmond Mason NOK 12/11/2005 NOK @ SAC L 21 5 2 8 25.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -14
+p629
+aVSpeedy Claxton NOK 12/11/2005 NOK @ SAC L 22 13 4 6 66.7 1 1 100.0 4 5 80.0 2 2 4 5 2 0 6 1 -1
+p630
+aVRasual Butler NOK 12/11/2005 NOK @ SAC L 27 15 6 13 46.2 3 4 75.0 0 0 - 0 1 1 2 3 1 1 3 4
+p631
+aVKirk Snyder NOK 12/11/2005 NOK @ SAC L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 7
+p632
+aVDesmond Mason NOK 12/09/2005 NOK @ POR L 32 8 4 9 44.4 0 0 - 0 0 - 1 2 3 0 0 0 3 6 -7
+p633
+aVKirk Snyder NOK 12/09/2005 NOK @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p634
+aVSpeedy Claxton NOK 12/09/2005 NOK @ POR L 34 27 10 16 62.5 1 1 100.0 6 6 100.0 1 4 5 0 4 0 0 1 2
+p635
+aVP.J. Brown NOK 12/09/2005 NOK @ POR L 40 0 0 4 0.0 0 0 - 0 0 - 0 6 6 1 0 0 1 3 -6
+p636
+aVDavid West NOK 12/09/2005 NOK @ POR L 41 16 6 14 42.9 0 1 0.0 4 4 100.0 1 4 5 1 1 3 1 4 -8
+p637
+aVRasual Butler NOK 12/09/2005 NOK @ POR L 21 8 1 3 33.3 1 2 50.0 5 6 83.3 0 0 0 0 0 0 1 3 2
+p638
+aVJR Smith NOK 12/09/2005 NOK @ POR L 21 8 3 10 30.0 2 5 40.0 0 0 - 0 3 3 0 0 0 3 2 0
+p639
+aVChris Andersen NOK 12/09/2005 NOK @ POR L 25 7 3 4 75.0 0 0 - 1 2 50.0 3 2 5 1 0 0 0 3 8
+p640
+aVChris Paul NOK 12/09/2005 NOK @ POR L 47 21 8 12 66.7 0 0 - 5 7 71.4 0 7 7 10 2 0 6 4 -7
+p641
+aVChris Paul NOK 12/07/2005 NOK vs. BOS L 34 16 4 11 36.4 0 1 0.0 8 12 66.7 1 9 10 6 3 0 1 1 -14
+p642
+aVChris Andersen NOK 12/07/2005 NOK vs. BOS L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -10
+p643
+aVJackson Vroman NOK 12/07/2005 NOK vs. BOS L 14 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 3 6
+p644
+aVP.J. Brown NOK 12/07/2005 NOK vs. BOS L 33 6 2 7 28.6 0 0 - 2 2 100.0 3 2 5 3 0 0 1 3 -15
+p645
+aVDesmond Mason NOK 12/07/2005 NOK vs. BOS L 28 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 0 1 1 2 2 -14
+p646
+aVKirk Snyder NOK 12/07/2005 NOK vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p647
+aVRasual Butler NOK 12/07/2005 NOK vs. BOS L 20 6 3 6 50.0 0 1 0.0 0 0 - 1 3 4 0 0 2 0 2 0
+p648
+aVDavid West NOK 12/07/2005 NOK vs. BOS L 40 29 12 20 60.0 0 0 - 5 7 71.4 4 3 7 0 1 1 4 2 -11
+p649
+aVBrandon Bass NOK 12/07/2005 NOK vs. BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p650
+aVSpeedy Claxton NOK 12/07/2005 NOK vs. BOS L 31 7 3 10 30.0 0 0 - 1 2 50.0 1 0 1 5 0 0 3 3 -12
+p651
+aVJR Smith NOK 12/07/2005 NOK vs. BOS L 29 11 3 11 27.3 0 1 0.0 5 6 83.3 0 3 3 2 2 0 3 4 -4
+p652
+aVP.J. Brown NOK 12/06/2005 NOK @ MEM L 28 2 1 6 16.7 0 0 - 0 0 - 3 5 8 2 0 0 0 2 -16
+p653
+aVKirk Snyder NOK 12/06/2005 NOK @ MEM L 9 10 4 5 80.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 0 -3
+p654
+aVBrandon Bass NOK 12/06/2005 NOK @ MEM L 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p655
+aVChris Paul NOK 12/06/2005 NOK @ MEM L 31 2 1 8 12.5 0 2 0.0 0 0 - 0 5 5 4 1 0 4 2 -13
+p656
+aVDavid West NOK 12/06/2005 NOK @ MEM L 30 15 7 14 50.0 0 0 - 1 2 50.0 0 3 3 0 0 1 1 4 -12
+p657
+aVArvydas Macijauskas NOK 12/06/2005 NOK @ MEM L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p658
+aVSpeedy Claxton NOK 12/06/2005 NOK @ MEM L 25 6 2 12 16.7 0 1 0.0 2 3 66.7 0 0 0 4 1 0 2 3 -4
+p659
+aVRasual Butler NOK 12/06/2005 NOK @ MEM L 21 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 0 1 0 0 2 -2
+p660
+aVJR Smith NOK 12/06/2005 NOK @ MEM L 23 10 4 9 44.4 2 4 50.0 0 0 - 1 0 1 4 0 0 1 1 -12
+p661
+aVDesmond Mason NOK 12/06/2005 NOK @ MEM L 27 15 6 11 54.5 0 0 - 3 7 42.9 0 3 3 0 1 0 2 3 -14
+p662
+aVChris Andersen NOK 12/06/2005 NOK @ MEM L 19 5 2 2 100.0 0 0 - 1 1 100.0 4 6 10 1 0 0 2 4 -2
+p663
+aVJackson Vroman NOK 12/06/2005 NOK @ MEM L 13 0 0 3 0.0 0 0 - 0 2 0.0 2 3 5 2 1 1 0 4 1
+p664
+aVKirk Snyder NOK 12/03/2005 NOK @ DAL L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 8
+p665
+aVChris Andersen NOK 12/03/2005 NOK @ DAL L 19 5 1 1 100.0 0 0 - 3 4 75.0 1 3 4 0 0 0 1 3 18
+p666
+aVChris Paul NOK 12/03/2005 NOK @ DAL L 38 25 9 16 56.3 0 2 0.0 7 8 87.5 0 6 6 5 3 0 0 4 -16
+p667
+aVArvydas Macijauskas NOK 12/03/2005 NOK @ DAL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p668
+aVRasual Butler NOK 12/03/2005 NOK @ DAL L 18 4 2 8 25.0 0 1 0.0 0 0 - 2 1 3 0 0 2 1 1 1
+p669
+aVP.J. Brown NOK 12/03/2005 NOK @ DAL L 35 5 2 6 33.3 0 0 - 1 1 100.0 1 5 6 1 0 1 1 3 -24
+p670
+aVJR Smith NOK 12/03/2005 NOK @ DAL L 28 11 4 9 44.4 1 3 33.3 2 3 66.7 1 1 2 1 0 0 4 4 -17
+p671
+aVDavid West NOK 12/03/2005 NOK @ DAL L 36 9 3 10 30.0 0 0 - 3 4 75.0 1 3 4 2 0 2 3 5 -14
+p672
+aVSpeedy Claxton NOK 12/03/2005 NOK @ DAL L 33 21 9 18 50.0 0 1 0.0 3 3 100.0 2 3 5 2 2 0 2 3 -3
+p673
+aVDesmond Mason NOK 12/03/2005 NOK @ DAL L 30 3 1 5 20.0 0 0 - 1 3 33.3 0 2 2 0 0 0 2 3 -6
+p674
+aVRasual Butler NOK 12/02/2005 NOK vs. PHI W 16 0 0 2 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 2 1 -1
+p675
+aVChris Andersen NOK 12/02/2005 NOK vs. PHI W 17 4 1 3 33.3 0 0 - 2 8 25.0 1 5 6 0 0 3 0 1 -3
+p676
+aVP.J. Brown NOK 12/02/2005 NOK vs. PHI W 36 12 5 8 62.5 0 0 - 2 2 100.0 3 11 14 1 0 2 0 4 7
+p677
+aVDesmond Mason NOK 12/02/2005 NOK vs. PHI W 32 13 3 10 30.0 0 0 - 7 7 100.0 2 2 4 3 1 0 1 0 3
+p678
+aVSpeedy Claxton NOK 12/02/2005 NOK vs. PHI W 27 8 3 9 33.3 1 2 50.0 1 2 50.0 0 2 2 4 0 0 4 4 0
+p679
+aVDavid West NOK 12/02/2005 NOK vs. PHI W 43 22 10 16 62.5 0 1 0.0 2 2 100.0 1 4 5 0 3 1 2 3 0
+p680
+aVJR Smith NOK 12/02/2005 NOK vs. PHI W 32 13 4 15 26.7 1 8 12.5 4 6 66.7 1 1 2 2 0 0 2 3 2
+p681
+aVChris Paul NOK 12/02/2005 NOK vs. PHI W 38 16 6 11 54.5 1 2 50.0 3 4 75.0 3 4 7 9 2 0 3 2 2
+p682
+aVRasual Butler NOK 11/30/2005 NOK @ DEN W 20 11 5 8 62.5 1 2 50.0 0 0 - 1 3 4 1 1 1 0 1 1
+p683
+aVChris Andersen NOK 11/30/2005 NOK @ DEN W 8 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 1
+p684
+aVJR Smith NOK 11/30/2005 NOK @ DEN W 33 16 6 13 46.2 4 6 66.7 0 0 - 1 4 5 5 2 0 2 3 -3
+p685
+aVSpeedy Claxton NOK 11/30/2005 NOK @ DEN W 24 19 5 9 55.6 0 0 - 9 10 90.0 0 1 1 6 2 1 0 4 10
+p686
+aVP.J. Brown NOK 11/30/2005 NOK @ DEN W 36 10 3 9 33.3 0 0 - 4 5 80.0 3 9 12 0 0 3 1 2 8
+p687
+aVDesmond Mason NOK 11/30/2005 NOK @ DEN W 40 26 10 17 58.8 0 0 - 6 8 75.0 3 4 7 1 0 1 2 1 11
+p688
+aVChris Paul NOK 11/30/2005 NOK @ DEN W 39 10 3 10 30.0 1 1 100.0 3 4 75.0 1 7 8 9 2 0 3 3 7
+p689
+aVBrandon Bass NOK 11/30/2005 NOK @ DEN W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p690
+aVDavid West NOK 11/30/2005 NOK @ DEN W 37 8 3 14 21.4 0 0 - 2 2 100.0 2 5 7 0 0 0 1 1 0
+p691
+aVChris Andersen NOK 11/28/2005 NOK @ GSW L 19 5 1 3 33.3 0 0 - 3 4 75.0 2 1 3 0 0 1 2 1 -17
+p692
+aVChris Paul NOK 11/28/2005 NOK @ GSW L 30 15 5 12 41.7 2 4 50.0 3 4 75.0 0 1 1 5 1 0 4 2 -11
+p693
+aVKirk Snyder NOK 11/28/2005 NOK @ GSW L 12 6 2 5 40.0 0 2 0.0 2 2 100.0 1 1 2 2 0 0 2 1 -1
+p694
+aVBrandon Bass NOK 11/28/2005 NOK @ GSW L 22 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 1 0 2 2 -7
+p695
+aVBostjan Nachbar NOK 11/28/2005 NOK @ GSW L 11 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 2 1
+p696
+aVSpeedy Claxton NOK 11/28/2005 NOK @ GSW L 29 3 1 8 12.5 0 1 0.0 1 3 33.3 1 2 3 9 2 0 1 4 -11
+p697
+aVDavid West NOK 11/28/2005 NOK @ GSW L 29 14 5 10 50.0 0 1 0.0 4 5 80.0 3 8 11 1 0 1 1 2 -8
+p698
+aVDesmond Mason NOK 11/28/2005 NOK @ GSW L 25 10 4 8 50.0 0 0 - 2 2 100.0 1 5 6 0 1 0 2 0 -16
+p699
+aVJR Smith NOK 11/28/2005 NOK @ GSW L 25 4 1 10 10.0 0 2 0.0 2 2 100.0 1 2 3 1 0 0 1 2 -9
+p700
+aVJackson Vroman NOK 11/28/2005 NOK @ GSW L 4 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 3
+p701
+aVRasual Butler NOK 11/28/2005 NOK @ GSW L 12 10 5 8 62.5 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 -1
+p702
+aVP.J. Brown NOK 11/28/2005 NOK @ GSW L 22 9 4 5 80.0 0 0 - 1 1 100.0 1 3 4 0 1 0 1 4 -3
+p703
+aVP.J. Brown NOK 11/26/2005 NOK @ SEA W 37 10 4 9 44.4 0 0 - 2 2 100.0 2 4 6 1 1 1 4 5 8
+p704
+aVBrandon Bass NOK 11/26/2005 NOK @ SEA W 21 3 1 5 20.0 0 0 - 1 2 50.0 3 3 6 1 0 0 0 1 3
+p705
+aVDesmond Mason NOK 11/26/2005 NOK @ SEA W 27 14 4 9 44.4 0 0 - 6 7 85.7 1 6 7 1 0 0 2 0 12
+p706
+aVBostjan Nachbar NOK 11/26/2005 NOK @ SEA W 19 7 2 5 40.0 1 3 33.3 2 2 100.0 1 1 2 1 1 0 2 3 0
+p707
+aVChris Paul NOK 11/26/2005 NOK @ SEA W 40 17 4 12 33.3 0 2 0.0 9 12 75.0 2 5 7 10 2 0 2 5 -3
+p708
+aVDavid West NOK 11/26/2005 NOK @ SEA W 38 21 7 12 58.3 1 1 100.0 6 8 75.0 2 3 5 1 0 1 2 3 1
+p709
+aVJR Smith NOK 11/26/2005 NOK @ SEA W 30 19 7 11 63.6 3 3 100.0 2 2 100.0 0 2 2 2 1 0 2 2 2
+p710
+aVSpeedy Claxton NOK 11/26/2005 NOK @ SEA W 28 14 4 8 50.0 0 1 0.0 6 6 100.0 1 3 4 2 1 0 3 5 7
+p711
+aVSpeedy Claxton NOK 11/23/2005 NOK vs. MIN W 25 9 4 11 36.4 0 1 0.0 1 2 50.0 0 2 2 2 0 0 1 2 -12
+p712
+aVBostjan Nachbar NOK 11/23/2005 NOK vs. MIN W 21 2 1 6 16.7 0 4 0.0 0 0 - 0 3 3 0 1 0 2 3 13
+p713
+aVBrandon Bass NOK 11/23/2005 NOK vs. MIN W 6 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -3
+p714
+aVChris Paul NOK 11/23/2005 NOK vs. MIN W 40 21 7 19 36.8 1 6 16.7 6 8 75.0 0 9 9 8 1 0 1 3 10
+p715
+aVKirk Snyder NOK 11/23/2005 NOK vs. MIN W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p716
+aVP.J. Brown NOK 11/23/2005 NOK vs. MIN W 43 13 4 6 66.7 0 0 - 5 5 100.0 3 7 10 0 1 1 0 2 11
+p717
+aVDavid West NOK 11/23/2005 NOK vs. MIN W 43 22 9 18 50.0 0 0 - 4 4 100.0 6 7 13 3 1 0 2 4 7
+p718
+aVDesmond Mason NOK 11/23/2005 NOK vs. MIN W 26 2 0 5 0.0 0 0 - 2 4 50.0 1 2 3 0 1 0 0 0 -8
+p719
+aVJR Smith NOK 11/23/2005 NOK vs. MIN W 28 12 3 10 30.0 0 3 0.0 6 6 100.0 1 3 4 1 1 0 2 0 8
+p720
+aVJackson Vroman NOK 11/23/2005 NOK vs. MIN W 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -7
+p721
+aVJackson Vroman NOK 11/21/2005 NOK @ PHI L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 9
+p722
+aVBostjan Nachbar NOK 11/21/2005 NOK @ PHI L 19 8 3 10 30.0 0 5 0.0 2 2 100.0 0 1 1 1 1 0 3 1 -11
+p723
+aVChris Andersen NOK 11/21/2005 NOK @ PHI L 20 5 2 3 66.7 0 0 - 1 3 33.3 0 3 3 0 0 0 2 3 -19
+p724
+aVJR Smith NOK 11/21/2005 NOK @ PHI L 23 17 6 11 54.5 2 6 33.3 3 5 60.0 2 1 3 4 1 0 0 2 -7
+p725
+aVDesmond Mason NOK 11/21/2005 NOK @ PHI L 21 8 3 7 42.9 0 0 - 2 2 100.0 0 0 0 1 0 0 2 1 4
+p726
+aVDavid West NOK 11/21/2005 NOK @ PHI L 36 20 8 14 57.1 0 0 - 4 5 80.0 4 5 9 3 2 0 0 1 -11
+p727
+aVKirk Snyder NOK 11/21/2005 NOK @ PHI L 24 5 1 5 20.0 0 0 - 3 6 50.0 2 4 6 3 1 0 1 0 3
+p728
+aVBrandon Bass NOK 11/21/2005 NOK @ PHI L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p729
+aVSpeedy Claxton NOK 11/21/2005 NOK @ PHI L 19 15 3 9 33.3 0 0 - 9 9 100.0 1 2 3 2 2 0 4 5 -16
+p730
+aVChris Paul NOK 11/21/2005 NOK @ PHI L 29 9 3 9 33.3 0 1 0.0 3 4 75.0 2 3 5 6 3 0 1 2 -6
+p731
+aVP.J. Brown NOK 11/21/2005 NOK @ PHI L 22 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 1 0 3 -2
+p732
+aVRasual Butler NOK 11/21/2005 NOK @ PHI L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 1 0 1 -3
+p733
+aVDavid West NOK 11/19/2005 NOK @ ORL W 42 34 15 22 68.2 0 0 - 4 5 80.0 4 4 8 2 0 1 1 2 0
+p734
+aVJackson Vroman NOK 11/19/2005 NOK @ ORL W 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -2
+p735
+aVRasual Butler NOK 11/19/2005 NOK @ ORL W 17 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 1 -4
+p736
+aVKirk Snyder NOK 11/19/2005 NOK @ ORL W 36 8 2 4 50.0 0 1 0.0 4 4 100.0 0 5 5 6 0 0 0 2 10
+p737
+aVBostjan Nachbar NOK 11/19/2005 NOK @ ORL W 34 11 4 8 50.0 1 3 33.3 2 5 40.0 0 0 0 0 2 0 0 3 5
+p738
+aVChris Paul NOK 11/19/2005 NOK @ ORL W 43 21 7 12 58.3 1 1 100.0 6 6 100.0 0 5 5 8 2 0 3 5 -1
+p739
+aVDesmond Mason NOK 11/19/2005 NOK @ ORL W 14 8 1 3 33.3 0 0 - 6 12 50.0 1 2 3 0 0 0 3 2 -2
+p740
+aVChris Andersen NOK 11/19/2005 NOK @ ORL W 33 5 1 4 25.0 0 0 - 3 6 50.0 3 5 8 1 1 1 2 4 13
+p741
+aVBrandon Bass NOK 11/19/2005 NOK @ ORL W 14 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 0 1 1 0 -4
+p742
+aVArvydas Macijauskas NOK 11/18/2005 NOK vs. ATL W 7 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -10
+p743
+aVDesmond Mason NOK 11/18/2005 NOK vs. ATL W 32 9 3 10 30.0 0 0 - 3 6 50.0 0 3 3 5 4 1 4 3 -19
+p744
+aVBrandon Bass NOK 11/18/2005 NOK vs. ATL W 16 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -11
+p745
+aVKirk Snyder NOK 11/18/2005 NOK vs. ATL W 22 11 3 6 50.0 2 3 66.7 3 6 50.0 0 4 4 1 0 0 1 1 17
+p746
+aVRasual Butler NOK 11/18/2005 NOK vs. ATL W 25 5 2 12 16.7 1 3 33.3 0 0 - 1 1 2 1 0 0 2 3 -14
+p747
+aVBostjan Nachbar NOK 11/18/2005 NOK vs. ATL W 17 12 4 12 33.3 4 7 57.1 0 0 - 1 3 4 0 2 0 3 3 19
+p748
+aVJackson Vroman NOK 11/18/2005 NOK vs. ATL W 23 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 2 0 1 3 -17
+p749
+aVDavid West NOK 11/18/2005 NOK vs. ATL W 27 9 3 5 60.0 0 0 - 3 4 75.0 1 1 2 1 0 0 1 0 13
+p750
+aVChris Paul NOK 11/18/2005 NOK vs. ATL W 42 25 9 19 47.4 1 2 50.0 6 8 75.0 2 5 7 12 5 0 2 4 13
+p751
+aVChris Andersen NOK 11/18/2005 NOK vs. ATL W 29 10 3 9 33.3 0 0 - 4 6 66.7 10 8 18 0 0 3 1 4 24
+p752
+aVP.J. Brown NOK 11/16/2005 NOK vs. DEN L 38 8 3 9 33.3 0 0 - 2 2 100.0 1 8 9 2 1 0 3 4 -15
+p753
+aVSpeedy Claxton NOK 11/16/2005 NOK vs. DEN L 31 4 1 8 12.5 0 3 0.0 2 5 40.0 2 3 5 3 3 0 3 3 -16
+p754
+aVDavid West NOK 11/16/2005 NOK vs. DEN L 36 16 7 13 53.8 0 0 - 2 3 66.7 2 7 9 1 1 0 1 6 0
+p755
+aVArvydas Macijauskas NOK 11/16/2005 NOK vs. DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p756
+aVDesmond Mason NOK 11/16/2005 NOK vs. DEN L 27 7 3 9 33.3 0 0 - 1 3 33.3 0 2 2 2 0 0 6 5 0
+p757
+aVKirk Snyder NOK 11/16/2005 NOK vs. DEN L 27 11 5 10 50.0 0 3 0.0 1 1 100.0 2 2 4 5 0 0 2 2 2
+p758
+aVChris Paul NOK 11/16/2005 NOK vs. DEN L 37 18 5 15 33.3 0 4 0.0 8 9 88.9 3 6 9 3 1 0 4 3 -6
+p759
+aVBostjan Nachbar NOK 11/16/2005 NOK vs. DEN L 22 7 2 8 25.0 0 3 0.0 3 4 75.0 0 2 2 1 1 0 0 2 -11
+p760
+aVChris Andersen NOK 11/16/2005 NOK vs. DEN L 21 10 3 7 42.9 0 0 - 4 7 57.1 4 2 6 0 1 1 1 2 -4
+p761
+aVP.J. Brown NOK 11/15/2005 NOK @ MIA L 42 24 11 16 68.8 0 0 - 2 2 100.0 5 7 12 1 2 0 1 3 -5
+p762
+aVBostjan Nachbar NOK 11/15/2005 NOK @ MIA L 24 12 5 12 41.7 1 6 16.7 1 2 50.0 2 3 5 1 0 0 3 0 -4
+p763
+aVJackson Vroman NOK 11/15/2005 NOK @ MIA L 6 1 0 1 0.0 0 0 - 1 4 25.0 1 2 3 0 0 0 0 1 4
+p764
+aVDavid West NOK 11/15/2005 NOK @ MIA L 40 16 7 16 43.8 0 0 - 2 2 100.0 3 7 10 2 2 1 1 2 -14
+p765
+aVDesmond Mason NOK 11/15/2005 NOK @ MIA L 29 3 1 7 14.3 0 0 - 1 2 50.0 1 8 9 1 0 0 1 3 -3
+p766
+aVChris Paul NOK 11/15/2005 NOK @ MIA L 44 16 5 13 38.5 0 2 0.0 6 7 85.7 1 1 2 10 1 0 2 4 -2
+p767
+aVKirk Snyder NOK 11/15/2005 NOK @ MIA L 13 7 2 6 33.3 1 2 50.0 2 2 100.0 1 0 1 1 0 0 1 3 2
+p768
+aVRasual Butler NOK 11/15/2005 NOK @ MIA L 14 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -11
+p769
+aVSpeedy Claxton NOK 11/15/2005 NOK @ MIA L 35 12 5 12 41.7 2 3 66.7 0 0 - 1 5 6 5 2 0 3 3 -3
+p770
+aVChris Andersen NOK 11/15/2005 NOK @ MIA L 18 9 4 5 80.0 0 0 - 1 4 25.0 3 2 5 0 0 1 1 2 1
+p771
+aVDesmond Mason NOK 11/12/2005 NOK vs. DAL L 23 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 0 1 0 3 3 -13
+p772
+aVRasual Butler NOK 11/12/2005 NOK vs. DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p773
+aVChris Paul NOK 11/12/2005 NOK vs. DAL L 36 26 10 14 71.4 2 6 33.3 4 5 80.0 1 2 3 5 1 0 5 4 -11
+p774
+aVKirk Snyder NOK 11/12/2005 NOK vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p775
+aVBostjan Nachbar NOK 11/12/2005 NOK vs. DAL L 29 10 4 9 44.4 1 2 50.0 1 1 100.0 0 4 4 1 0 1 1 4 -1
+p776
+aVJR Smith NOK 11/12/2005 NOK vs. DAL L 30 14 4 7 57.1 1 2 50.0 5 6 83.3 1 4 5 0 0 0 1 3 0
+p777
+aVP.J. Brown NOK 11/12/2005 NOK vs. DAL L 35 4 2 8 25.0 0 0 - 0 0 - 3 4 7 2 0 0 1 2 7
+p778
+aVJackson Vroman NOK 11/12/2005 NOK vs. DAL L 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 1 0 0 3 -3
+p779
+aVChris Andersen NOK 11/12/2005 NOK vs. DAL L 13 7 3 4 75.0 0 0 - 1 2 50.0 3 3 6 0 0 1 3 2 -13
+p780
+aVSpeedy Claxton NOK 11/12/2005 NOK vs. DAL L 27 17 5 10 50.0 0 1 0.0 7 8 87.5 0 1 1 7 0 0 1 1 1
+p781
+aVDavid West NOK 11/12/2005 NOK vs. DAL L 27 15 7 8 87.5 0 0 - 1 1 100.0 0 6 6 4 1 0 0 5 6
+p782
+aVP.J. Brown NOK 11/09/2005 NOK vs. ORL L 38 9 4 9 44.4 0 0 - 1 1 100.0 1 9 10 2 1 1 1 1 3
+p783
+aVDesmond Mason NOK 11/09/2005 NOK vs. ORL L 27 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 0 1 1 2 2 1
+p784
+aVChris Andersen NOK 11/09/2005 NOK vs. ORL L 14 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 5 -9
+p785
+aVBostjan Nachbar NOK 11/09/2005 NOK vs. ORL L 21 4 1 4 25.0 0 2 0.0 2 2 100.0 0 5 5 0 0 0 1 2 -6
+p786
+aVSpeedy Claxton NOK 11/09/2005 NOK vs. ORL L 29 24 10 15 66.7 0 1 0.0 4 7 57.1 2 0 2 6 2 0 3 1 -6
+p787
+aVJackson Vroman NOK 11/09/2005 NOK vs. ORL L 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 1 4 4
+p788
+aVChris Paul NOK 11/09/2005 NOK vs. ORL L 35 10 4 13 30.8 0 1 0.0 2 2 100.0 1 3 4 4 3 0 0 4 -6
+p789
+aVJR Smith NOK 11/09/2005 NOK vs. ORL L 20 6 1 8 12.5 0 3 0.0 4 4 100.0 0 0 0 1 1 0 1 1 1
+p790
+aVDavid West NOK 11/09/2005 NOK vs. ORL L 38 12 6 15 40.0 0 1 0.0 0 0 - 3 2 5 2 2 0 4 5 -6
+p791
+aVRasual Butler NOK 11/09/2005 NOK vs. ORL L 13 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p792
+aVRasual Butler NOK 11/05/2005 NOK @ HOU W 13 3 1 3 33.3 0 2 0.0 1 2 50.0 1 1 2 0 0 0 1 1 -1
+p793
+aVP.J. Brown NOK 11/05/2005 NOK @ HOU W 39 18 8 14 57.1 0 0 - 2 3 66.7 7 6 13 1 1 2 1 3 13
+p794
+aVDesmond Mason NOK 11/05/2005 NOK @ HOU W 15 8 4 11 36.4 0 0 - 0 0 - 1 1 2 0 1 0 2 1 -1
+p795
+aVJackson Vroman NOK 11/05/2005 NOK @ HOU W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p796
+aVChris Paul NOK 11/05/2005 NOK @ HOU W 34 15 6 14 42.9 1 5 20.0 2 3 66.7 1 3 4 8 2 0 1 4 4
+p797
+aVSpeedy Claxton NOK 11/05/2005 NOK @ HOU W 29 14 3 10 30.0 1 4 25.0 7 8 87.5 1 4 5 8 1 0 1 1 16
+p798
+aVChris Andersen NOK 11/05/2005 NOK @ HOU W 22 5 2 2 100.0 0 0 - 1 4 25.0 1 6 7 0 1 1 0 4 -4
+p799
+aVJR Smith NOK 11/05/2005 NOK @ HOU W 22 6 2 9 22.2 0 2 0.0 2 2 100.0 0 2 2 1 2 0 0 2 -8
+p800
+aVBostjan Nachbar NOK 11/05/2005 NOK @ HOU W 30 10 3 9 33.3 1 2 50.0 3 4 75.0 0 2 2 4 1 0 1 2 11
+p801
+aVDavid West NOK 11/05/2005 NOK @ HOU W 32 12 3 9 33.3 0 0 - 6 6 100.0 1 5 6 1 2 0 1 3 5
+p802
+aVP.J. Brown NOK 11/02/2005 NOK @ CLE L 26 4 2 7 28.6 0 0 - 0 0 - 3 1 4 1 0 0 0 3 -23
+p803
+aVRasual Butler NOK 11/02/2005 NOK @ CLE L 19 4 2 8 25.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 1 -3
+p804
+aVDesmond Mason NOK 11/02/2005 NOK @ CLE L 22 6 2 9 22.2 0 0 - 2 4 50.0 1 2 3 1 0 0 0 1 -4
+p805
+aVDavid West NOK 11/02/2005 NOK @ CLE L 25 11 4 6 66.7 0 0 - 3 3 100.0 3 2 5 0 1 2 0 4 -17
+p806
+aVJackson Vroman NOK 11/02/2005 NOK @ CLE L 12 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 1 0 1 3 5
+p807
+aVSpeedy Claxton NOK 11/02/2005 NOK @ CLE L 25 16 4 8 50.0 0 0 - 8 9 88.9 0 0 0 2 1 0 1 1 -11
+p808
+aVJR Smith NOK 11/02/2005 NOK @ CLE L 24 15 5 11 45.5 3 4 75.0 2 2 100.0 0 2 2 4 1 1 1 1 -11
+p809
+aVBostjan Nachbar NOK 11/02/2005 NOK @ CLE L 19 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 6 2 0 2 5 -15
+p810
+aVBrandon Bass NOK 11/02/2005 NOK @ CLE L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p811
+aVChris Paul NOK 11/02/2005 NOK @ CLE L 29 13 5 11 45.5 1 4 25.0 2 2 100.0 1 4 5 3 2 0 4 1 -19
+p812
+aVArvydas Macijauskas NOK 11/02/2005 NOK @ CLE L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p813
+aVChris Andersen NOK 11/02/2005 NOK @ CLE L 27 11 5 7 71.4 0 0 - 1 3 33.3 2 6 8 0 0 3 2 4 -6
+p814
+aVBostjan Nachbar NOK 11/01/2005 NOK vs. SAC W 22 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 3 1 0 2 2 11
+p815
+aVDavid West NOK 11/01/2005 NOK vs. SAC W 27 8 4 9 44.4 0 0 - 0 0 - 0 11 11 2 1 0 4 4 16
+p816
+aVSpeedy Claxton NOK 11/01/2005 NOK vs. SAC W 21 17 7 10 70.0 1 1 100.0 2 2 100.0 0 1 1 4 1 1 3 2 12
+p817
+aVArvydas Macijauskas NOK 11/01/2005 NOK vs. SAC W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p818
+aVBrandon Bass NOK 11/01/2005 NOK vs. SAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p819
+aVP.J. Brown NOK 11/01/2005 NOK vs. SAC W 31 20 9 12 75.0 0 0 - 2 2 100.0 3 7 10 2 0 0 2 2 20
+p820
+aVChris Paul NOK 11/01/2005 NOK vs. SAC W 34 13 3 7 42.9 1 3 33.3 6 6 100.0 0 8 8 4 2 1 4 0 23
+p821
+aVRasual Butler NOK 11/01/2005 NOK vs. SAC W 19 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 0 1 0 2 4 1
+p822
+aVChris Andersen NOK 11/01/2005 NOK vs. SAC W 22 0 0 4 0.0 0 0 - 0 0 - 2 4 6 1 0 1 1 2 10
+p823
+aVDesmond Mason NOK 11/01/2005 NOK vs. SAC W 16 1 0 4 0.0 0 0 - 1 2 50.0 0 3 3 1 0 1 0 1 7
+p824
+aVJR Smith NOK 11/01/2005 NOK vs. SAC W 29 19 7 14 50.0 1 3 33.3 4 5 80.0 0 5 5 3 1 0 1 3 23
+p825
+aVJackson Vroman NOK 11/01/2005 NOK vs. SAC W 11 4 1 2 50.0 0 0 - 2 3 66.7 1 1 2 1 0 0 0 0 6
+p826
+a.

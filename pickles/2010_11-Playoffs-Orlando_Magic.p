@@ -1,0 +1,114 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJameer Nelson ORL 04/28/2011 ORL @ ATL L 37 11 5 10 50.0 0 2 0.0 1 2 50.0 0 0 0 6 3 0 1 1 7
+p2
+aVRyan Anderson ORL 04/28/2011 ORL @ ATL L 24 5 1 4 25.0 1 3 33.3 2 2 100.0 2 2 4 0 0 1 0 3 2
+p3
+aVBrandon Bass ORL 04/28/2011 ORL @ ATL L 21 6 3 6 50.0 0 0 - 0 0 - 0 3 3 0 0 2 2 0 -4
+p4
+aVJJ Redick ORL 04/28/2011 ORL @ ATL L 20 6 3 8 37.5 0 3 0.0 0 0 - 0 3 3 1 0 1 1 0 -9
+p5
+aVDwight Howard ORL 04/28/2011 ORL @ ATL L 48 25 8 14 57.1 0 0 - 9 12 75.0 5 10 15 2 1 3 6 2 -3
+p6
+aVGilbert Arenas ORL 04/28/2011 ORL @ ATL L 18 6 2 5 40.0 0 1 0.0 2 2 100.0 0 4 4 2 0 0 1 4 -1
+p7
+aVQuentin Richardson ORL 04/28/2011 ORL @ ATL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p8
+aVHedo Turkoglu ORL 04/28/2011 ORL @ ATL L 41 15 5 13 38.5 3 6 50.0 2 2 100.0 0 1 1 3 4 0 2 2 -1
+p9
+aVJason Richardson ORL 04/28/2011 ORL @ ATL L 25 7 2 7 28.6 1 4 25.0 2 2 100.0 0 1 1 0 0 0 0 3 1
+p10
+aVQuentin Richardson ORL 04/26/2011 ORL vs. ATL W 29 7 2 6 33.3 1 4 25.0 2 2 100.0 1 5 6 0 0 0 0 2 21
+p11
+aVHedo Turkoglu ORL 04/26/2011 ORL vs. ATL W 19 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 3 0 0 0 3 4
+p12
+aVBrandon Bass ORL 04/26/2011 ORL vs. ATL W 25 9 2 8 25.0 0 0 - 5 5 100.0 1 6 7 0 0 2 0 1 23
+p13
+aVJJ Redick ORL 04/26/2011 ORL vs. ATL W 19 14 6 8 75.0 0 0 - 2 3 66.7 0 3 3 3 0 0 2 1 17
+p14
+aVChris Duhon ORL 04/26/2011 ORL vs. ATL W 4 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 0 0
+p15
+aVMalik Allen ORL 04/26/2011 ORL vs. ATL W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -7
+p16
+aVJason Richardson ORL 04/26/2011 ORL vs. ATL W 25 17 6 14 42.9 3 6 50.0 2 2 100.0 1 2 3 1 0 0 0 4 8
+p17
+aVDwight Howard ORL 04/26/2011 ORL vs. ATL W 29 8 1 4 25.0 0 0 - 6 10 60.0 3 5 8 0 1 1 1 4 13
+p18
+aVGilbert Arenas ORL 04/26/2011 ORL vs. ATL W 22 9 4 11 36.4 1 5 20.0 0 1 0.0 2 2 4 4 0 0 0 3 8
+p19
+aVJameer Nelson ORL 04/26/2011 ORL vs. ATL W 26 9 4 10 40.0 1 3 33.3 0 0 - 0 3 3 5 3 0 2 3 17
+p20
+aVEarl Clark ORL 04/26/2011 ORL vs. ATL W 6 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 1 1 0 0 -6
+p21
+aVRyan Anderson ORL 04/26/2011 ORL vs. ATL W 29 11 3 9 33.3 3 5 60.0 2 2 100.0 1 6 7 1 2 0 0 2 27
+p22
+aVQuentin Richardson ORL 04/24/2011 ORL @ ATL L 29 7 3 5 60.0 1 3 33.3 0 0 - 0 4 4 1 1 0 0 4 -4
+p23
+aVJJ Redick ORL 04/24/2011 ORL @ ATL L 22 2 0 6 0.0 0 3 0.0 2 2 100.0 0 1 1 0 0 0 0 1 -7
+p24
+aVJameer Nelson ORL 04/24/2011 ORL @ ATL L 38 6 3 12 25.0 0 4 0.0 0 0 - 1 2 3 6 2 0 0 1 -1
+p25
+aVRyan Anderson ORL 04/24/2011 ORL @ ATL L 24 4 1 6 16.7 0 4 0.0 2 2 100.0 3 2 5 0 2 0 0 2 2
+p26
+aVHedo Turkoglu ORL 04/24/2011 ORL @ ATL L 39 6 2 12 16.7 0 6 0.0 2 4 50.0 0 6 6 2 1 0 3 5 3
+p27
+aVGilbert Arenas ORL 04/24/2011 ORL @ ATL L 22 20 9 18 50.0 1 3 33.3 1 1 100.0 2 3 5 2 0 1 1 4 3
+p28
+aVBrandon Bass ORL 04/24/2011 ORL @ ATL L 23 11 4 6 66.7 0 0 - 3 4 75.0 1 0 1 0 2 0 1 0 -17
+p29
+aVDwight Howard ORL 04/24/2011 ORL @ ATL L 42 29 9 14 64.3 0 0 - 11 16 68.8 3 14 17 0 0 2 8 4 6
+p30
+aVJJ Redick ORL 04/22/2011 ORL @ ATL L 21 8 3 8 37.5 1 4 25.0 1 2 50.0 0 0 0 0 0 0 1 1 -13
+p31
+aVRyan Anderson ORL 04/22/2011 ORL @ ATL L 18 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 1 5 -2
+p32
+aVBrandon Bass ORL 04/22/2011 ORL @ ATL L 33 10 5 8 62.5 0 0 - 0 0 - 4 1 5 0 1 1 2 2 -9
+p33
+aVDwight Howard ORL 04/22/2011 ORL @ ATL L 45 21 8 14 57.1 0 0 - 5 9 55.6 2 13 15 0 0 3 3 5 3
+p34
+aVJason Richardson ORL 04/22/2011 ORL @ ATL L 34 14 4 10 40.0 2 6 33.3 4 4 100.0 2 7 9 4 0 1 0 2 5
+p35
+aVQuentin Richardson ORL 04/22/2011 ORL @ ATL L 15 9 3 3 100.0 3 3 100.0 0 0 - 1 2 3 1 0 0 0 2 -5
+p36
+aVHedo Turkoglu ORL 04/22/2011 ORL @ ATL L 33 9 3 11 27.3 1 6 16.7 2 4 50.0 0 2 2 4 0 0 0 4 1
+p37
+aVJameer Nelson ORL 04/22/2011 ORL @ ATL L 41 13 5 17 29.4 1 7 14.3 2 2 100.0 1 4 5 10 2 0 2 2 0
+p38
+aVHedo Turkoglu ORL 04/19/2011 ORL vs. ATL W 39 10 4 16 25.0 1 7 14.3 1 2 50.0 1 3 4 5 2 0 1 0 14
+p39
+aVQuentin Richardson ORL 04/19/2011 ORL vs. ATL W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p40
+aVDwight Howard ORL 04/19/2011 ORL vs. ATL W 48 33 9 12 75.0 0 0 - 15 19 78.9 8 11 19 0 2 1 7 5 6
+p41
+aVRyan Anderson ORL 04/19/2011 ORL vs. ATL W 28 8 3 7 42.9 2 4 50.0 0 0 - 4 2 6 0 0 0 0 2 -2
+p42
+aVGilbert Arenas ORL 04/19/2011 ORL vs. ATL W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -11
+p43
+aVJJ Redick ORL 04/19/2011 ORL vs. ATL W 19 6 1 6 16.7 0 3 0.0 4 5 80.0 0 1 1 2 1 0 2 1 13
+p44
+aVBrandon Bass ORL 04/19/2011 ORL vs. ATL W 20 8 2 6 33.3 0 0 - 4 4 100.0 4 3 7 0 0 0 2 3 8
+p45
+aVJameer Nelson ORL 04/19/2011 ORL vs. ATL W 38 13 4 15 26.7 0 3 0.0 5 6 83.3 1 7 8 2 2 0 1 4 12
+p46
+aVJason Richardson ORL 04/19/2011 ORL vs. ATL W 29 8 3 12 25.0 2 5 40.0 0 0 - 2 4 6 0 2 1 2 4 -4
+p47
+aVGilbert Arenas ORL 04/16/2011 ORL vs. ATL L 12 6 2 5 40.0 1 2 50.0 1 2 50.0 0 0 0 4 1 0 3 2 0
+p48
+aVDwight Howard ORL 04/16/2011 ORL vs. ATL L 46 46 16 23 69.6 0 1 0.0 14 22 63.6 6 13 19 1 0 1 8 5 -10
+p49
+aVJason Richardson ORL 04/16/2011 ORL vs. ATL L 41 4 2 8 25.0 0 4 0.0 0 0 - 0 1 1 1 1 0 1 3 -12
+p50
+aVBrandon Bass ORL 04/16/2011 ORL vs. ATL L 17 0 0 4 0.0 0 0 - 0 0 - 2 0 2 2 0 0 0 1 -20
+p51
+aVJameer Nelson ORL 04/16/2011 ORL vs. ATL L 36 27 10 18 55.6 4 7 57.1 3 4 75.0 4 2 6 1 0 0 2 3 -10
+p52
+aVHedo Turkoglu ORL 04/16/2011 ORL vs. ATL L 38 6 2 9 22.2 1 4 25.0 1 2 50.0 0 4 4 5 1 1 1 4 -13
+p53
+aVQuentin Richardson ORL 04/16/2011 ORL vs. ATL L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 2 0 -3
+p54
+aVJJ Redick ORL 04/16/2011 ORL vs. ATL L 18 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 0 0 0 1 4 14
+p55
+aVRyan Anderson ORL 04/16/2011 ORL vs. ATL L 24 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 2 4
+p56
+a.

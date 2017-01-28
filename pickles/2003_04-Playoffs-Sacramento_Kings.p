@@ -1,0 +1,208 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVlade Divac SAC 05/19/2004 SAC @ MIN L 21 7 2 4 50.0 0 0 - 3 4 75.0 3 3 6 0 1 0 1 1 -15
+p2
+aVChris Webber SAC 05/19/2004 SAC @ MIN L 39 16 8 17 47.1 0 1 0.0 0 3 0.0 1 7 8 4 1 0 1 1 4
+p3
+aVDoug Christie SAC 05/19/2004 SAC @ MIN L 40 21 9 17 52.9 3 5 60.0 0 0 - 1 3 4 3 3 1 4 5 -2
+p4
+aVPeja Stojakovic SAC 05/19/2004 SAC @ MIN L 46 8 3 12 25.0 2 4 50.0 0 0 - 2 5 7 3 1 0 1 4 0
+p5
+aVBrad Miller SAC 05/19/2004 SAC @ MIN L 35 11 5 12 41.7 0 0 - 1 4 25.0 3 5 8 3 1 0 3 4 5
+p6
+aVDarius Songaila SAC 05/19/2004 SAC @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p7
+aVMike Bibby SAC 05/19/2004 SAC @ MIN L 42 15 4 13 30.8 3 7 42.9 4 6 66.7 1 7 8 8 0 0 3 3 0
+p8
+aVRodney Buford SAC 05/19/2004 SAC @ MIN L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 2 2 0 0 2 -7
+p9
+aVMike Bibby SAC 05/16/2004 SAC vs. MIN W 36 16 7 14 50.0 2 3 66.7 0 0 - 0 5 5 10 3 1 2 5 7
+p10
+aVJabari Smith SAC 05/16/2004 SAC vs. MIN W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p11
+aVDoug Christie SAC 05/16/2004 SAC vs. MIN W 38 16 5 12 41.7 1 2 50.0 5 6 83.3 0 3 3 2 2 0 1 5 8
+p12
+aVBrad Miller SAC 05/16/2004 SAC vs. MIN W 34 17 5 5 100.0 0 0 - 7 8 87.5 2 5 7 5 2 0 0 5 17
+p13
+aVPeja Stojakovic SAC 05/16/2004 SAC vs. MIN W 43 22 8 19 42.1 4 7 57.1 2 2 100.0 2 6 8 1 2 1 1 3 8
+p14
+aVChris Webber SAC 05/16/2004 SAC vs. MIN W 34 14 7 11 63.6 0 0 - 0 2 0.0 3 4 7 3 1 0 6 2 7
+p15
+aVVlade Divac SAC 05/16/2004 SAC vs. MIN W 23 6 3 7 42.9 0 0 - 0 2 0.0 2 2 4 5 0 0 2 2 15
+p16
+aVRodney Buford SAC 05/16/2004 SAC vs. MIN W 12 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 2
+p17
+aVAnthony Peeler SAC 05/16/2004 SAC vs. MIN W 19 4 1 5 20.0 1 3 33.3 1 2 50.0 2 2 4 1 1 0 1 0 21
+p18
+aVRodney Buford SAC 05/14/2004 SAC @ MIN L 2 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 1
+p19
+aVMike Bibby SAC 05/14/2004 SAC @ MIN L 43 14 5 15 33.3 1 4 25.0 3 3 100.0 0 2 2 6 2 0 3 1 -12
+p20
+aVPeja Stojakovic SAC 05/14/2004 SAC @ MIN L 44 12 5 14 35.7 0 3 0.0 2 2 100.0 0 2 2 1 2 0 3 4 -16
+p21
+aVVlade Divac SAC 05/14/2004 SAC @ MIN L 23 8 2 9 22.2 0 0 - 4 4 100.0 4 5 9 1 0 0 0 4 -1
+p22
+aVDarius Songaila SAC 05/14/2004 SAC @ MIN L 19 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -9
+p23
+aVGerald Wallace SAC 05/14/2004 SAC @ MIN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p24
+aVJabari Smith SAC 05/14/2004 SAC @ MIN L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p25
+aVChris Webber SAC 05/14/2004 SAC @ MIN L 29 13 5 16 31.3 1 2 50.0 2 2 100.0 1 5 6 4 1 0 2 4 -6
+p26
+aVDoug Christie SAC 05/14/2004 SAC @ MIN L 26 9 3 10 30.0 1 2 50.0 2 2 100.0 0 5 5 3 1 0 1 3 2
+p27
+aVAnthony Peeler SAC 05/14/2004 SAC @ MIN L 27 9 3 9 33.3 1 4 25.0 2 2 100.0 1 3 4 1 2 0 2 2 -12
+p28
+aVBrad Miller SAC 05/14/2004 SAC @ MIN L 24 0 0 2 0.0 0 2 0.0 0 0 - 2 8 10 2 1 1 2 2 -9
+p29
+aVAnthony Peeler SAC 05/12/2004 SAC vs. MIN W 33 8 3 6 50.0 0 1 0.0 2 2 100.0 0 4 4 2 1 0 1 2 12
+p30
+aVDoug Christie SAC 05/12/2004 SAC vs. MIN W 28 3 1 9 11.1 0 1 0.0 1 1 100.0 0 3 3 1 1 0 1 1 -4
+p31
+aVPeja Stojakovic SAC 05/12/2004 SAC vs. MIN W 38 8 2 10 20.0 0 2 0.0 4 5 80.0 1 3 4 0 2 0 0 0 -4
+p32
+aVVlade Divac SAC 05/12/2004 SAC vs. MIN W 23 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 3 -1
+p33
+aVBrad Miller SAC 05/12/2004 SAC vs. MIN W 36 20 7 13 53.8 0 1 0.0 6 7 85.7 2 5 7 3 1 2 3 4 11
+p34
+aVMike Bibby SAC 05/12/2004 SAC vs. MIN W 45 15 4 12 33.3 1 4 25.0 6 6 100.0 1 2 3 12 0 0 4 4 12
+p35
+aVChris Webber SAC 05/12/2004 SAC vs. MIN W 36 28 13 21 61.9 0 0 - 2 2 100.0 1 7 8 1 3 1 3 2 4
+p36
+aVChris Webber SAC 05/10/2004 SAC vs. MIN L 47 17 6 16 37.5 0 1 0.0 5 6 83.3 0 9 9 3 0 0 2 5 -5
+p37
+aVBrad Miller SAC 05/10/2004 SAC vs. MIN L 37 8 4 8 50.0 0 0 - 0 0 - 4 6 10 2 0 1 1 5 2
+p38
+aVPeja Stojakovic SAC 05/10/2004 SAC vs. MIN L 49 29 10 24 41.7 5 13 38.5 4 7 57.1 2 7 9 3 2 0 3 0 -5
+p39
+aVAnthony Peeler SAC 05/10/2004 SAC vs. MIN L 24 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 1 0 1 2 2 -8
+p40
+aVDoug Christie SAC 05/10/2004 SAC vs. MIN L 42 24 7 14 50.0 0 1 0.0 10 11 90.9 5 7 12 4 2 0 4 4 3
+p41
+aVRodney Buford SAC 05/10/2004 SAC vs. MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p42
+aVMike Bibby SAC 05/10/2004 SAC vs. MIN L 43 19 7 15 46.7 2 4 50.0 3 3 100.0 0 5 5 10 1 2 4 6 7
+p43
+aVVlade Divac SAC 05/10/2004 SAC vs. MIN L 22 9 3 5 60.0 0 0 - 3 5 60.0 4 1 5 4 0 0 2 2 1
+p44
+aVDoug Christie SAC 05/08/2004 SAC @ MIN L 39 15 5 11 45.5 1 2 50.0 4 6 66.7 0 2 2 3 1 0 1 2 -11
+p45
+aVBrad Miller SAC 05/08/2004 SAC @ MIN L 33 11 5 11 45.5 0 1 0.0 1 2 50.0 2 9 11 2 1 2 1 4 -7
+p46
+aVChris Webber SAC 05/08/2004 SAC @ MIN L 37 21 7 17 41.2 0 0 - 7 9 77.8 3 4 7 4 2 0 2 3 -15
+p47
+aVPeja Stojakovic SAC 05/08/2004 SAC @ MIN L 45 26 8 21 38.1 2 5 40.0 8 8 100.0 0 7 7 0 3 0 0 2 -1
+p48
+aVMike Bibby SAC 05/08/2004 SAC @ MIN L 40 10 4 17 23.5 0 2 0.0 2 2 100.0 1 1 2 8 1 0 3 4 -5
+p49
+aVVlade Divac SAC 05/08/2004 SAC @ MIN L 26 4 2 5 40.0 0 0 - 0 0 - 0 6 6 6 0 2 0 3 12
+p50
+aVAnthony Peeler SAC 05/08/2004 SAC @ MIN L 20 2 1 5 20.0 0 1 0.0 0 0 - 0 5 5 2 0 0 0 2 2
+p51
+aVBrad Miller SAC 05/04/2004 SAC @ MIN W 33 13 3 4 75.0 0 0 - 7 9 77.8 4 6 10 5 0 2 1 3 -2
+p52
+aVAnthony Peeler SAC 05/04/2004 SAC @ MIN W 21 2 1 6 16.7 0 1 0.0 0 0 - 1 3 4 0 3 0 2 2 8
+p53
+aVDoug Christie SAC 05/04/2004 SAC @ MIN W 38 13 4 11 36.4 1 3 33.3 4 4 100.0 0 1 1 0 2 1 1 1 9
+p54
+aVChris Webber SAC 05/04/2004 SAC @ MIN W 38 15 6 16 37.5 0 0 - 3 4 75.0 0 8 8 5 2 1 0 4 10
+p55
+aVPeja Stojakovic SAC 05/04/2004 SAC @ MIN W 40 14 5 15 33.3 0 4 0.0 4 4 100.0 0 3 3 3 2 0 1 0 -2
+p56
+aVVlade Divac SAC 05/04/2004 SAC @ MIN W 25 14 6 7 85.7 0 0 - 2 2 100.0 1 5 6 2 0 1 1 4 4
+p57
+aVMike Bibby SAC 05/04/2004 SAC @ MIN W 45 33 10 21 47.6 3 8 37.5 10 12 83.3 3 4 7 7 4 1 3 3 3
+p58
+aVDarius Songaila SAC 04/29/2004 SAC vs. DAL W 12 8 4 5 80.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 10
+p59
+aVAnthony Peeler SAC 04/29/2004 SAC vs. DAL W 14 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 1 1 0 0 1 8
+p60
+aVPeja Stojakovic SAC 04/29/2004 SAC vs. DAL W 44 23 10 17 58.8 2 5 40.0 1 1 100.0 1 9 10 1 3 0 0 2 1
+p61
+aVVlade Divac SAC 04/29/2004 SAC vs. DAL W 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -12
+p62
+aVDoug Christie SAC 04/29/2004 SAC vs. DAL W 43 13 3 9 33.3 1 2 50.0 6 7 85.7 1 5 6 8 0 0 3 3 -10
+p63
+aVBrad Miller SAC 04/29/2004 SAC vs. DAL W 44 21 10 14 71.4 1 2 50.0 0 0 - 1 4 5 6 1 2 1 3 13
+p64
+aVMike Bibby SAC 04/29/2004 SAC vs. DAL W 44 36 14 23 60.9 6 8 75.0 2 2 100.0 0 4 4 8 5 0 3 3 4
+p65
+aVChris Webber SAC 04/29/2004 SAC vs. DAL W 35 13 5 15 33.3 0 0 - 3 5 60.0 1 6 7 4 2 1 5 1 -9
+p66
+aVDarius Songaila SAC 04/26/2004 SAC @ DAL W 22 8 2 3 66.7 0 0 - 4 4 100.0 2 4 6 0 0 1 1 6 1
+p67
+aVVlade Divac SAC 04/26/2004 SAC @ DAL W 11 4 2 5 40.0 0 0 - 0 0 - 3 3 6 1 0 0 2 2 4
+p68
+aVChris Webber SAC 04/26/2004 SAC @ DAL W 35 17 6 15 40.0 0 0 - 5 8 62.5 3 6 9 0 2 3 7 5 5
+p69
+aVPeja Stojakovic SAC 04/26/2004 SAC @ DAL W 46 20 8 25 32.0 1 6 16.7 3 3 100.0 4 7 11 5 0 1 1 3 6
+p70
+aVDoug Christie SAC 04/26/2004 SAC @ DAL W 42 13 5 11 45.5 1 2 50.0 2 2 100.0 4 11 15 5 1 1 0 3 3
+p71
+aVBrad Miller SAC 04/26/2004 SAC @ DAL W 24 10 5 11 45.5 0 0 - 0 4 0.0 7 9 16 5 0 0 3 5 -3
+p72
+aVMike Bibby SAC 04/26/2004 SAC @ DAL W 44 22 8 20 40.0 1 5 20.0 5 6 83.3 1 3 4 2 2 0 2 3 6
+p73
+aVAnthony Peeler SAC 04/26/2004 SAC @ DAL W 16 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 3 -12
+p74
+aVDarius Songaila SAC 04/24/2004 SAC @ DAL L 17 4 1 5 20.0 0 0 - 2 2 100.0 3 1 4 0 0 0 1 2 3
+p75
+aVJabari Smith SAC 04/24/2004 SAC @ DAL L 6 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 1 0 1 0
+p76
+aVDoug Christie SAC 04/24/2004 SAC @ DAL L 36 5 2 10 20.0 1 2 50.0 0 0 - 2 2 4 4 5 1 3 3 -23
+p77
+aVChris Webber SAC 04/24/2004 SAC @ DAL L 31 22 9 17 52.9 0 0 - 4 8 50.0 2 3 5 1 0 0 7 1 -28
+p78
+aVAnthony Peeler SAC 04/24/2004 SAC @ DAL L 27 2 1 5 20.0 0 1 0.0 0 0 - 1 5 6 2 2 0 4 0 2
+p79
+aVBrad Miller SAC 04/24/2004 SAC @ DAL L 27 5 1 4 25.0 0 1 0.0 3 6 50.0 0 7 7 0 0 1 2 2 -14
+p80
+aVMike Bibby SAC 04/24/2004 SAC @ DAL L 33 22 8 16 50.0 0 3 0.0 6 7 85.7 1 2 3 2 1 0 3 3 -25
+p81
+aVGerald Wallace SAC 04/24/2004 SAC @ DAL L 14 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 1 1 1 2 3 -3
+p82
+aVPeja Stojakovic SAC 04/24/2004 SAC @ DAL L 31 7 2 9 22.2 1 5 20.0 2 2 100.0 1 7 8 0 2 0 3 3 -23
+p83
+aVVlade Divac SAC 04/24/2004 SAC @ DAL L 18 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 1 0 0 1 4 -14
+p84
+aVBrad Miller SAC 04/20/2004 SAC vs. DAL W 19 8 2 4 50.0 0 0 - 4 6 66.7 2 5 7 2 0 0 1 5 12
+p85
+aVVlade Divac SAC 04/20/2004 SAC vs. DAL W 20 4 2 8 25.0 0 0 - 0 0 - 1 4 5 0 2 1 3 4 -4
+p86
+aVMike Bibby SAC 04/20/2004 SAC vs. DAL W 42 24 9 16 56.3 4 5 80.0 2 2 100.0 0 3 3 4 2 1 3 2 7
+p87
+aVDarius Songaila SAC 04/20/2004 SAC vs. DAL W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p88
+aVPeja Stojakovic SAC 04/20/2004 SAC vs. DAL W 45 13 5 16 31.3 1 9 11.1 2 2 100.0 1 6 7 0 1 0 0 2 7
+p89
+aVAnthony Peeler SAC 04/20/2004 SAC vs. DAL W 15 2 1 5 20.0 0 4 0.0 0 0 - 2 0 2 2 3 0 0 1 -13
+p90
+aVChris Webber SAC 04/20/2004 SAC vs. DAL W 44 19 6 19 31.6 0 0 - 7 12 58.3 5 8 13 12 1 2 2 3 10
+p91
+aVDoug Christie SAC 04/20/2004 SAC vs. DAL W 46 13 5 13 38.5 1 5 20.0 2 2 100.0 2 9 11 3 2 0 2 3 8
+p92
+aVDarius Songaila SAC 04/18/2004 SAC vs. DAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p93
+aVGerald Wallace SAC 04/18/2004 SAC vs. DAL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p94
+aVAnthony Peeler SAC 04/18/2004 SAC vs. DAL W 20 11 4 7 57.1 3 3 100.0 0 0 - 0 1 1 1 0 1 1 4 4
+p95
+aVDoug Christie SAC 04/18/2004 SAC vs. DAL W 44 21 7 14 50.0 2 6 33.3 5 7 71.4 2 6 8 11 2 1 1 2 10
+p96
+aVRodney Buford SAC 04/18/2004 SAC vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p97
+aVPeja Stojakovic SAC 04/18/2004 SAC vs. DAL W 46 28 10 16 62.5 5 10 50.0 3 3 100.0 1 7 8 1 2 1 1 3 19
+p98
+aVVlade Divac SAC 04/18/2004 SAC vs. DAL W 19 12 5 8 62.5 0 0 - 2 2 100.0 0 2 2 2 1 0 2 0 2
+p99
+aVJabari Smith SAC 04/18/2004 SAC vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p100
+aVChris Webber SAC 04/18/2004 SAC vs. DAL W 40 26 12 19 63.2 0 0 - 2 4 50.0 4 8 12 3 1 2 1 3 17
+p101
+aVMike Bibby SAC 04/18/2004 SAC vs. DAL W 39 14 4 14 28.6 1 2 50.0 5 6 83.3 1 3 4 7 2 0 2 3 19
+p102
+aVBrad Miller SAC 04/18/2004 SAC vs. DAL W 20 2 1 3 33.3 0 0 - 0 2 0.0 1 5 6 3 2 0 2 4 6
+p103
+a.

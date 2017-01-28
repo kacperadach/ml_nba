@@ -1,0 +1,70 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRodney Rogers DEN 05/02/1995 DEN vs. SAN L 36 18 8 12 66.7 1 2 50.0 1 2 50.0 1 8 9 2 1 2 3 6 -
+p2
+aVReggie Williams DEN 05/02/1995 DEN vs. SAN L 26 2 1 9 11.1 0 2 0.0 0 0 - 2 3 5 6 2 0 1 4 -
+p3
+aVDale Ellis DEN 05/02/1995 DEN vs. SAN L 22 14 2 3 66.7 2 3 66.7 8 8 100.0 1 2 3 2 1 0 1 3 -
+p4
+aVBryant Stith DEN 05/02/1995 DEN vs. SAN L 32 18 7 13 53.8 0 2 0.0 4 6 66.7 2 1 3 3 0 1 0 2 -
+p5
+aVJalen Rose DEN 05/02/1995 DEN vs. SAN L 40 15 7 11 63.6 1 1 100.0 0 0 - 2 4 6 7 2 1 4 4 -
+p6
+aVMahmoud Abdul-Rauf DEN 05/02/1995 DEN vs. SAN L 25 11 4 12 33.3 0 4 0.0 3 3 100.0 1 1 2 2 0 0 1 4 -
+p7
+aVCliff Levingston DEN 05/02/1995 DEN vs. SAN L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p8
+aVDikembe Mutombo DEN 05/02/1995 DEN vs. SAN L 30 6 2 4 50.0 0 0 - 2 2 100.0 0 7 7 0 0 2 4 6 -
+p9
+aVGreg Grant DEN 05/02/1995 DEN vs. SAN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p10
+aVTom Hammonds DEN 05/02/1995 DEN vs. SAN L 15 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 3 5 -
+p11
+aVBison Dele DEN 05/02/1995 DEN vs. SAN L 8 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 0 0 2 5 -
+p12
+aVTom Hammonds DEN 04/30/1995 DEN @ SAN L 18 10 5 9 55.6 0 0 - 0 2 0.0 2 2 4 1 0 1 1 3 -
+p13
+aVRodney Rogers DEN 04/30/1995 DEN @ SAN L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 1 1 4 -
+p14
+aVDale Ellis DEN 04/30/1995 DEN @ SAN L 26 16 6 16 37.5 1 5 20.0 3 3 100.0 4 6 10 1 1 0 0 1 -
+p15
+aVJalen Rose DEN 04/30/1995 DEN @ SAN L 30 4 1 7 14.3 0 3 0.0 2 2 100.0 0 2 2 10 0 0 3 3 -
+p16
+aVCliff Levingston DEN 04/30/1995 DEN @ SAN L 10 4 2 3 66.7 0 0 - 0 0 - 3 1 4 0 1 1 0 2 -
+p17
+aVGreg Grant DEN 04/30/1995 DEN @ SAN L 10 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 4 -
+p18
+aVBryant Stith DEN 04/30/1995 DEN @ SAN L 21 16 4 8 50.0 0 2 0.0 8 10 80.0 0 2 2 1 1 0 0 3 -
+p19
+aVReggie Williams DEN 04/30/1995 DEN @ SAN L 28 12 4 14 28.6 2 5 40.0 2 2 100.0 2 2 4 3 0 1 1 3 -
+p20
+aVDikembe Mutombo DEN 04/30/1995 DEN @ SAN L 36 5 1 2 50.0 0 0 - 3 6 50.0 2 7 9 1 0 2 3 5 -
+p21
+aVMahmoud Abdul-Rauf DEN 04/30/1995 DEN @ SAN L 29 21 7 13 53.8 1 3 33.3 6 6 100.0 1 1 2 1 1 0 5 3 -
+p22
+aVBison Dele DEN 04/30/1995 DEN @ SAN L 13 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -
+p23
+aVMahmoud Abdul-Rauf DEN 04/28/1995 DEN @ SAN L 22 8 1 8 12.5 1 5 20.0 5 5 100.0 0 1 1 2 1 0 2 1 -
+p24
+aVReggie Williams DEN 04/28/1995 DEN @ SAN L 30 12 3 13 23.1 2 6 33.3 4 4 100.0 1 6 7 3 1 0 1 4 -
+p25
+aVRodney Rogers DEN 04/28/1995 DEN @ SAN L 21 6 3 7 42.9 0 1 0.0 0 2 0.0 0 3 3 2 2 1 1 3 -
+p26
+aVBryant Stith DEN 04/28/1995 DEN @ SAN L 32 16 6 11 54.5 1 2 50.0 3 3 100.0 1 3 4 3 0 0 0 2 -
+p27
+aVDale Ellis DEN 04/28/1995 DEN @ SAN L 25 6 2 9 22.2 1 5 20.0 1 2 50.0 1 0 1 0 0 1 1 2 -
+p28
+aVJalen Rose DEN 04/28/1995 DEN @ SAN L 29 11 5 10 50.0 0 0 - 1 3 33.3 2 1 3 1 1 1 2 2 -
+p29
+aVBison Dele DEN 04/28/1995 DEN @ SAN L 23 12 5 9 55.6 0 0 - 2 2 100.0 4 8 12 2 0 1 7 6 -
+p30
+aVDikembe Mutombo DEN 04/28/1995 DEN @ SAN L 18 7 3 4 75.0 0 0 - 1 1 100.0 2 1 3 0 0 3 0 4 -
+p31
+aVTom Hammonds DEN 04/28/1995 DEN @ SAN L 11 8 3 4 75.0 0 0 - 2 4 50.0 0 2 2 0 0 1 0 4 -
+p32
+aVCliff Levingston DEN 04/28/1995 DEN @ SAN L 20 2 1 2 50.0 0 0 - 0 0 - 3 2 5 1 2 1 2 2 -
+p33
+aVGreg Grant DEN 04/28/1995 DEN @ SAN L 9 0 0 3 0.0 0 1 0.0 0 0 - 3 0 3 3 1 0 0 1 -
+p34
+a.

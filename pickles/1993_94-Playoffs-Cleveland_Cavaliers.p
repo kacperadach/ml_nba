@@ -1,0 +1,56 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGerald Wilkins CLE 05/03/1994 CLE vs. CHI L 47 10 3 14 21.4 1 6 16.7 3 4 75.0 2 6 8 7 1 0 2 1 -
+p2
+aVRod Higgins CLE 05/03/1994 CLE vs. CHI L 13 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 2 -
+p3
+aVMark Price CLE 05/03/1994 CLE vs. CHI L 34 22 8 18 44.4 1 3 33.3 5 5 100.0 1 1 2 5 1 0 5 3 -
+p4
+aVChris Mills CLE 05/03/1994 CLE vs. CHI L 48 25 10 17 58.8 3 4 75.0 2 2 100.0 3 7 10 3 5 1 4 4 -
+p5
+aVTyrone Hill CLE 05/03/1994 CLE vs. CHI L 48 15 5 12 41.7 0 0 - 5 13 38.5 5 8 13 1 1 0 1 6 -
+p6
+aVTerrell Brandon CLE 05/03/1994 CLE vs. CHI L 19 8 4 5 80.0 0 0 - 0 1 0.0 0 2 2 3 0 0 1 0 -
+p7
+aVBobby Phills CLE 05/03/1994 CLE vs. CHI L 13 5 2 8 25.0 1 1 100.0 0 0 - 2 3 5 2 0 0 1 4 -
+p8
+aVTim Kempton CLE 05/03/1994 CLE vs. CHI L 43 4 2 9 22.2 0 0 - 0 0 - 5 4 9 4 1 0 3 3 -
+p9
+aVTerrell Brandon CLE 05/01/1994 CLE @ CHI L 19 7 3 6 50.0 0 0 - 1 1 100.0 0 1 1 2 0 0 0 1 -
+p10
+aVGerald Wilkins CLE 05/01/1994 CLE @ CHI L 41 28 8 13 61.5 4 6 66.7 8 8 100.0 1 2 3 2 1 0 1 5 -
+p11
+aVChris Mills CLE 05/01/1994 CLE @ CHI L 34 11 3 11 27.3 0 0 - 5 6 83.3 4 4 8 1 1 0 0 2 -
+p12
+aVMark Price CLE 05/01/1994 CLE @ CHI L 34 14 5 14 35.7 1 3 33.3 3 4 75.0 0 1 1 4 2 0 1 2 -
+p13
+aVBobby Phills CLE 05/01/1994 CLE @ CHI L 19 4 2 5 40.0 0 0 - 0 0 - 1 1 2 4 0 0 2 3 -
+p14
+aVTim Kempton CLE 05/01/1994 CLE @ CHI L 33 16 5 13 38.5 0 0 - 6 6 100.0 4 1 5 1 2 0 0 3 -
+p15
+aVRod Higgins CLE 05/01/1994 CLE @ CHI L 20 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 1 4 -
+p16
+aVTyrone Hill CLE 05/01/1994 CLE @ CHI L 40 11 3 8 37.5 0 0 - 5 10 50.0 4 6 10 2 0 1 4 3 -
+p17
+aVTyrone Hill CLE 04/29/1994 CLE @ CHI L 35 16 3 7 42.9 0 0 - 10 14 71.4 5 3 8 1 0 0 3 5 -
+p18
+aVRod Higgins CLE 04/29/1994 CLE @ CHI L 24 3 1 6 16.7 0 3 0.0 1 2 50.0 2 2 4 2 1 1 1 4 -
+p19
+aVBobby Phills CLE 04/29/1994 CLE @ CHI L 36 11 5 11 45.5 0 0 - 1 2 50.0 2 5 7 1 2 0 2 4 -
+p20
+aVGerald Wilkins CLE 04/29/1994 CLE @ CHI L 38 23 9 18 50.0 2 4 50.0 3 4 75.0 0 2 2 1 1 0 0 0 -
+p21
+aVMark Price CLE 04/29/1994 CLE @ CHI L 34 9 2 11 18.2 0 3 0.0 5 5 100.0 0 3 3 5 1 0 3 1 -
+p22
+aVTim Kempton CLE 04/29/1994 CLE @ CHI L 13 6 3 3 100.0 0 0 - 0 0 - 1 1 2 3 0 0 1 3 -
+p23
+aVTerrell Brandon CLE 04/29/1994 CLE @ CHI L 18 11 5 8 62.5 0 0 - 1 1 100.0 1 0 1 0 1 0 0 0 -
+p24
+aVDanny Ferry CLE 04/29/1994 CLE @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p25
+aVJohn Battle CLE 04/29/1994 CLE @ CHI L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p26
+aVChris Mills CLE 04/29/1994 CLE @ CHI L 30 15 6 10 60.0 1 1 100.0 2 3 66.7 3 2 5 4 1 0 1 3 -
+p27
+a.

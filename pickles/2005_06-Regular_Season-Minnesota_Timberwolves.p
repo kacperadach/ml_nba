@@ -1,0 +1,1650 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTrenton Hassell MIN 04/19/2006 MIN vs. MEM L 38 7 3 11 27.3 1 3 33.3 0 0 - 1 4 5 10 2 0 1 1 -11
+p2
+aVJustin Reed MIN 04/19/2006 MIN vs. MEM L 31 5 2 10 20.0 0 0 - 1 1 100.0 0 2 2 1 2 1 3 1 6
+p3
+aVRonald Dupree MIN 04/19/2006 MIN vs. MEM L 31 6 3 5 60.0 0 0 - 0 2 0.0 0 5 5 2 2 0 2 4 -18
+p4
+aVBracey Wright MIN 04/19/2006 MIN vs. MEM L 34 19 8 14 57.1 3 6 50.0 0 0 - 1 3 4 0 0 0 3 1 -18
+p5
+aVMark Madsen MIN 04/19/2006 MIN vs. MEM L 30 2 1 15 6.7 0 7 0.0 0 2 0.0 1 3 4 1 0 0 1 3 -11
+p6
+aVEddie Griffin MIN 04/19/2006 MIN vs. MEM L 53 17 6 16 37.5 1 4 25.0 4 5 80.0 3 12 15 4 0 3 2 1 -11
+p7
+aVRashad McCants MIN 04/19/2006 MIN vs. MEM L 27 13 6 12 50.0 0 3 0.0 1 1 100.0 0 2 2 3 1 0 1 3 8
+p8
+aVMarcus Banks MIN 04/19/2006 MIN vs. MEM L 24 15 3 8 37.5 1 2 50.0 8 8 100.0 4 2 6 2 3 0 1 2 8
+p9
+aVMark Blount MIN 04/19/2006 MIN vs. MEM L 21 8 2 6 33.3 0 0 - 4 4 100.0 1 1 2 0 1 1 2 2 -3
+p10
+aVRonald Dupree MIN 04/16/2006 MIN vs. SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p11
+aVTrenton Hassell MIN 04/16/2006 MIN vs. SAS L 23 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 4 0 0 0 1 -2
+p12
+aVBracey Wright MIN 04/16/2006 MIN vs. SAS L 24 13 5 8 62.5 1 3 33.3 2 2 100.0 0 3 3 1 0 0 1 1 -1
+p13
+aVEddie Griffin MIN 04/16/2006 MIN vs. SAS L 27 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -23
+p14
+aVMarcus Banks MIN 04/16/2006 MIN vs. SAS L 41 25 7 15 46.7 1 1 100.0 10 11 90.9 0 5 5 4 4 0 0 3 -20
+p15
+aVRashad McCants MIN 04/16/2006 MIN vs. SAS L 34 20 8 18 44.4 2 5 40.0 2 2 100.0 0 6 6 1 1 0 3 4 5
+p16
+aVMark Madsen MIN 04/16/2006 MIN vs. SAS L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p17
+aVMark Blount MIN 04/16/2006 MIN vs. SAS L 30 14 5 11 45.5 0 0 - 4 4 100.0 4 2 6 0 0 0 2 3 4
+p18
+aVMarko Jaric MIN 04/16/2006 MIN vs. SAS L 24 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 2 0 2 2 -4
+p19
+aVJustin Reed MIN 04/16/2006 MIN vs. SAS L 25 2 1 7 14.3 0 0 - 0 0 - 0 3 3 3 0 1 2 2 -11
+p20
+aVRonald Dupree MIN 04/14/2006 MIN @ IND L 19 6 3 8 37.5 0 1 0.0 0 0 - 3 2 5 1 1 0 0 3 -3
+p21
+aVMark Madsen MIN 04/14/2006 MIN @ IND L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p22
+aVJustin Reed MIN 04/14/2006 MIN @ IND L 28 9 4 11 36.4 0 0 - 1 2 50.0 1 4 5 2 1 1 1 3 -8
+p23
+aVMark Blount MIN 04/14/2006 MIN @ IND L 22 12 6 11 54.5 0 0 - 0 1 0.0 3 2 5 0 0 0 1 4 -6
+p24
+aVEddie Griffin MIN 04/14/2006 MIN @ IND L 33 18 6 12 50.0 2 4 50.0 4 4 100.0 4 8 12 1 0 2 1 4 -7
+p25
+aVBracey Wright MIN 04/14/2006 MIN @ IND L 26 4 2 8 25.0 0 1 0.0 0 0 - 0 4 4 3 1 0 1 4 -3
+p26
+aVMarcus Banks MIN 04/14/2006 MIN @ IND L 39 15 6 11 54.5 3 5 60.0 0 0 - 0 3 3 2 0 0 5 4 -4
+p27
+aVTrenton Hassell MIN 04/14/2006 MIN @ IND L 27 5 2 7 28.6 0 0 - 1 2 50.0 2 1 3 3 0 0 3 1 -3
+p28
+aVMarko Jaric MIN 04/14/2006 MIN @ IND L 35 8 4 7 57.1 0 1 0.0 0 4 0.0 1 1 2 5 3 1 1 1 -21
+p29
+aVRonald Dupree MIN 04/12/2006 MIN @ HOU W 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -8
+p30
+aVBracey Wright MIN 04/12/2006 MIN @ HOU W 27 13 3 10 30.0 1 3 33.3 6 6 100.0 2 4 6 0 0 0 2 1 12
+p31
+aVTrenton Hassell MIN 04/12/2006 MIN @ HOU W 28 8 3 7 42.9 0 1 0.0 2 2 100.0 0 5 5 3 0 0 1 1 3
+p32
+aVMarcus Banks MIN 04/12/2006 MIN @ HOU W 32 15 5 11 45.5 1 2 50.0 4 4 100.0 0 4 4 2 0 0 4 3 -5
+p33
+aVMarko Jaric MIN 04/12/2006 MIN @ HOU W 33 8 2 8 25.0 1 4 25.0 3 4 75.0 3 2 5 3 1 1 3 0 0
+p34
+aVMark Blount MIN 04/12/2006 MIN @ HOU W 27 16 6 12 50.0 0 0 - 4 4 100.0 3 1 4 0 2 2 2 3 4
+p35
+aVMark Madsen MIN 04/12/2006 MIN @ HOU W 16 3 1 3 33.3 0 0 - 1 4 25.0 3 1 4 1 0 0 0 4 -5
+p36
+aVJustin Reed MIN 04/12/2006 MIN @ HOU W 31 13 5 15 33.3 0 0 - 3 4 75.0 3 1 4 0 1 0 0 3 4
+p37
+aVEddie Griffin MIN 04/12/2006 MIN @ HOU W 36 4 2 4 50.0 0 0 - 0 0 - 3 3 6 1 0 5 1 3 10
+p38
+aVBracey Wright MIN 04/11/2006 MIN @ MEM L 16 7 1 5 20.0 1 3 33.3 4 4 100.0 0 1 1 1 0 0 1 1 0
+p39
+aVRonald Dupree MIN 04/11/2006 MIN @ MEM L 13 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 1 1 0 2 2 4
+p40
+aVMarcus Banks MIN 04/11/2006 MIN @ MEM L 28 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 4 1 0 2 3 -18
+p41
+aVMark Blount MIN 04/11/2006 MIN @ MEM L 28 6 3 13 23.1 0 0 - 0 2 0.0 4 2 6 0 0 0 5 3 -21
+p42
+aVRashad McCants MIN 04/11/2006 MIN @ MEM L 24 11 4 8 50.0 0 1 0.0 3 3 100.0 0 3 3 1 1 0 3 4 -8
+p43
+aVEddie Griffin MIN 04/11/2006 MIN @ MEM L 26 4 2 6 33.3 0 1 0.0 0 0 - 1 5 6 1 0 2 1 3 -21
+p44
+aVJustin Reed MIN 04/11/2006 MIN @ MEM L 27 14 7 11 63.6 0 0 - 0 0 - 4 4 8 1 3 0 0 3 -14
+p45
+aVMark Madsen MIN 04/11/2006 MIN @ MEM L 20 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 1 0 1 3 2
+p46
+aVTrenton Hassell MIN 04/11/2006 MIN @ MEM L 31 8 3 9 33.3 1 3 33.3 1 1 100.0 0 5 5 2 1 0 1 2 -2
+p47
+aVMarko Jaric MIN 04/11/2006 MIN @ MEM L 25 7 3 8 37.5 0 2 0.0 1 2 50.0 2 2 4 9 1 0 0 1 -2
+p48
+aVMarcus Banks MIN 04/09/2006 MIN vs. ATL W 34 6 3 8 37.5 0 0 - 0 0 - 0 4 4 4 1 1 5 2 -1
+p49
+aVMark Madsen MIN 04/09/2006 MIN vs. ATL W 12 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -1
+p50
+aVMark Blount MIN 04/09/2006 MIN vs. ATL W 32 17 6 9 66.7 0 0 - 5 6 83.3 1 5 6 0 1 2 2 3 3
+p51
+aVEddie Griffin MIN 04/09/2006 MIN vs. ATL W 33 6 3 10 30.0 0 0 - 0 1 0.0 3 4 7 2 0 4 0 2 -2
+p52
+aVRonald Dupree MIN 04/09/2006 MIN vs. ATL W 13 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 -2
+p53
+aVRashad McCants MIN 04/09/2006 MIN vs. ATL W 45 28 12 18 66.7 2 4 50.0 2 2 100.0 0 2 2 5 2 0 5 4 4
+p54
+aVMarko Jaric MIN 04/09/2006 MIN vs. ATL W 22 7 3 9 33.3 1 2 50.0 0 0 - 2 7 9 1 0 0 2 3 0
+p55
+aVTrenton Hassell MIN 04/09/2006 MIN vs. ATL W 27 6 3 9 33.3 0 0 - 0 0 - 3 0 3 7 1 0 0 2 2
+p56
+aVJustin Reed MIN 04/09/2006 MIN vs. ATL W 22 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 1 0 0 2 4 2
+p57
+aVMarcus Banks MIN 04/07/2006 MIN vs. UTA L 29 14 6 11 54.5 0 0 - 2 2 100.0 1 1 2 6 1 1 3 2 3
+p58
+aVMark Blount MIN 04/07/2006 MIN vs. UTA L 22 8 3 7 42.9 0 0 - 2 4 50.0 2 0 2 0 0 2 1 2 -2
+p59
+aVRonald Dupree MIN 04/07/2006 MIN vs. UTA L 5 3 1 2 50.0 0 0 - 1 4 25.0 0 1 1 0 0 0 2 1 -4
+p60
+aVMark Madsen MIN 04/07/2006 MIN vs. UTA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p61
+aVRicky Davis MIN 04/07/2006 MIN vs. UTA L 27 8 2 6 33.3 1 2 50.0 3 4 75.0 0 0 0 4 0 0 0 2 0
+p62
+aVEddie Griffin MIN 04/07/2006 MIN vs. UTA L 26 2 1 2 50.0 0 0 - 0 0 - 2 5 7 1 0 3 0 3 -6
+p63
+aVKevin Garnett MIN 04/07/2006 MIN vs. UTA L 24 14 6 10 60.0 0 0 - 2 2 100.0 0 13 13 4 1 1 2 0 2
+p64
+aVTrenton Hassell MIN 04/07/2006 MIN vs. UTA L 25 8 4 6 66.7 0 0 - 0 0 - 2 2 4 2 1 3 2 1 -11
+p65
+aVMarko Jaric MIN 04/07/2006 MIN vs. UTA L 28 3 0 5 0.0 0 2 0.0 3 6 50.0 0 2 2 4 0 0 1 3 -10
+p66
+aVRashad McCants MIN 04/07/2006 MIN vs. UTA L 31 17 5 11 45.5 0 3 0.0 7 7 100.0 0 4 4 2 2 0 1 4 -5
+p67
+aVJustin Reed MIN 04/07/2006 MIN vs. UTA L 18 18 6 14 42.9 0 0 - 6 6 100.0 2 1 3 2 0 0 1 5 -7
+p68
+aVRicky Davis MIN 04/05/2006 MIN @ ATL L 38 33 13 21 61.9 3 7 42.9 4 4 100.0 1 2 3 4 1 1 3 3 12
+p69
+aVEddie Griffin MIN 04/05/2006 MIN @ ATL L 17 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 0 2 1 1 -6
+p70
+aVMark Blount MIN 04/05/2006 MIN @ ATL L 19 2 1 2 50.0 0 0 - 0 0 - 1 0 1 3 0 1 1 4 -5
+p71
+aVJustin Reed MIN 04/05/2006 MIN @ ATL L 19 5 2 9 22.2 0 0 - 1 2 50.0 3 2 5 1 1 2 0 3 -8
+p72
+aVRonald Dupree MIN 04/05/2006 MIN @ ATL L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 2
+p73
+aVKevin Garnett MIN 04/05/2006 MIN @ ATL L 31 27 9 12 75.0 0 0 - 9 9 100.0 3 12 15 2 3 1 4 4 14
+p74
+aVMarko Jaric MIN 04/05/2006 MIN @ ATL L 19 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 2 0 0 1 2 -4
+p75
+aVRashad McCants MIN 04/05/2006 MIN @ ATL L 31 14 6 10 60.0 2 5 40.0 0 0 - 1 3 4 0 0 0 1 4 9
+p76
+aVTrenton Hassell MIN 04/05/2006 MIN @ ATL L 24 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 2 0 2 1 3 -24
+p77
+aVMarcus Banks MIN 04/05/2006 MIN @ ATL L 32 2 1 6 16.7 0 0 - 0 0 - 0 2 2 10 2 0 3 0 0
+p78
+aVJustin Reed MIN 04/04/2006 MIN @ CHA L 20 10 4 5 80.0 0 0 - 2 2 100.0 1 3 4 0 0 0 3 2 5
+p79
+aVMarcus Banks MIN 04/04/2006 MIN @ CHA L 31 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 8 1 0 5 3 -16
+p80
+aVMark Blount MIN 04/04/2006 MIN @ CHA L 24 9 4 7 57.1 0 0 - 1 1 100.0 0 2 2 1 1 0 1 3 0
+p81
+aVMark Madsen MIN 04/04/2006 MIN @ CHA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p82
+aVTrenton Hassell MIN 04/04/2006 MIN @ CHA L 31 13 5 10 50.0 0 0 - 3 6 50.0 2 3 5 5 0 0 1 2 2
+p83
+aVRashad McCants MIN 04/04/2006 MIN @ CHA L 31 10 4 7 57.1 1 2 50.0 1 3 33.3 2 2 4 1 0 0 4 5 -2
+p84
+aVKevin Garnett MIN 04/04/2006 MIN @ CHA L 39 24 8 21 38.1 0 1 0.0 8 10 80.0 4 18 22 4 3 1 1 3 -7
+p85
+aVEddie Griffin MIN 04/04/2006 MIN @ CHA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p86
+aVMarko Jaric MIN 04/04/2006 MIN @ CHA L 20 2 1 3 33.3 0 0 - 0 2 0.0 0 4 4 1 1 1 2 1 9
+p87
+aVRicky Davis MIN 04/04/2006 MIN @ CHA L 38 20 8 18 44.4 0 2 0.0 4 4 100.0 1 0 1 2 1 2 4 2 -7
+p88
+aVMark Blount MIN 04/02/2006 MIN vs. GSW W 39 16 7 16 43.8 0 0 - 2 3 66.7 5 7 12 2 3 2 5 4 14
+p89
+aVEddie Griffin MIN 04/02/2006 MIN vs. GSW W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 1 -4
+p90
+aVJustin Reed MIN 04/02/2006 MIN vs. GSW W 11 8 3 3 100.0 0 0 - 2 3 66.7 1 0 1 1 0 0 0 2 -10
+p91
+aVKevin Garnett MIN 04/02/2006 MIN vs. GSW W 46 19 6 14 42.9 0 0 - 7 9 77.8 5 8 13 3 2 2 3 4 5
+p92
+aVMarcus Banks MIN 04/02/2006 MIN vs. GSW W 42 24 10 17 58.8 0 0 - 4 4 100.0 1 4 5 7 1 1 4 5 5
+p93
+aVRicky Davis MIN 04/02/2006 MIN vs. GSW W 45 19 6 16 37.5 0 2 0.0 7 10 70.0 1 4 5 2 1 0 4 5 13
+p94
+aVMarko Jaric MIN 04/02/2006 MIN vs. GSW W 16 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 2 0 0 1 1 -2
+p95
+aVRashad McCants MIN 04/02/2006 MIN vs. GSW W 45 16 6 14 42.9 1 4 25.0 3 4 75.0 2 5 7 1 1 0 0 3 0
+p96
+aVTrenton Hassell MIN 04/02/2006 MIN vs. GSW W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -11
+p97
+aVKevin Garnett MIN 03/31/2006 MIN @ DEN L 40 22 10 17 58.8 0 0 - 2 4 50.0 3 13 16 7 0 7 5 4 -15
+p98
+aVJustin Reed MIN 03/31/2006 MIN @ DEN L 17 4 2 6 33.3 0 0 - 0 0 - 0 0 0 1 0 0 2 4 -20
+p99
+aVRashad McCants MIN 03/31/2006 MIN @ DEN L 25 10 4 8 50.0 1 4 25.0 1 2 50.0 0 2 2 4 1 1 1 6 -6
+p100
+aVMarcus Banks MIN 03/31/2006 MIN @ DEN L 41 17 7 12 58.3 1 1 100.0 2 3 66.7 0 3 3 7 1 0 1 2 -7
+p101
+aVMark Madsen MIN 03/31/2006 MIN @ DEN L 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 5
+p102
+aVMark Blount MIN 03/31/2006 MIN @ DEN L 42 15 7 14 50.0 0 0 - 1 1 100.0 4 4 8 2 0 3 4 5 -10
+p103
+aVEddie Griffin MIN 03/31/2006 MIN @ DEN L 13 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -6
+p104
+aVRonald Dupree MIN 03/31/2006 MIN @ DEN L 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p105
+aVMarko Jaric MIN 03/31/2006 MIN @ DEN L 19 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 1 0 0 3 -11
+p106
+aVRicky Davis MIN 03/31/2006 MIN @ DEN L 41 21 7 17 41.2 2 3 66.7 5 5 100.0 0 5 5 7 2 0 1 1 0
+p107
+aVMarko Jaric MIN 03/29/2006 MIN vs. ORL W 16 8 4 4 100.0 0 0 - 0 0 - 0 1 1 4 3 0 1 0 1
+p108
+aVMark Madsen MIN 03/29/2006 MIN vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p109
+aVAnthony Carter MIN 03/29/2006 MIN vs. ORL W 5 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 1 1 4
+p110
+aVRashad McCants MIN 03/29/2006 MIN vs. ORL W 41 13 3 8 37.5 2 4 50.0 5 8 62.5 0 3 3 3 1 0 1 2 10
+p111
+aVJustin Reed MIN 03/29/2006 MIN vs. ORL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -7
+p112
+aVMarcus Banks MIN 03/29/2006 MIN vs. ORL W 32 8 4 5 80.0 0 0 - 0 0 - 0 1 1 2 1 0 2 2 12
+p113
+aVRicky Davis MIN 03/29/2006 MIN vs. ORL W 43 26 10 22 45.5 1 2 50.0 5 6 83.3 1 3 4 10 1 0 4 2 9
+p114
+aVMark Blount MIN 03/29/2006 MIN vs. ORL W 36 14 7 14 50.0 0 0 - 0 0 - 0 3 3 1 0 2 2 5 3
+p115
+aVKevin Garnett MIN 03/29/2006 MIN vs. ORL W 41 27 11 17 64.7 0 0 - 5 7 71.4 7 12 19 6 3 2 2 2 14
+p116
+aVEddie Griffin MIN 03/29/2006 MIN vs. ORL W 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 5 7
+p117
+aVMarcus Banks MIN 03/26/2006 MIN vs. NYK W 39 12 3 11 27.3 0 1 0.0 6 11 54.5 0 1 1 6 1 0 1 5 -1
+p118
+aVAnthony Carter MIN 03/26/2006 MIN vs. NYK W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 2 0 0 1 0
+p119
+aVMarko Jaric MIN 03/26/2006 MIN vs. NYK W 19 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 2 0
+p120
+aVMark Madsen MIN 03/26/2006 MIN vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p121
+aVJustin Reed MIN 03/26/2006 MIN vs. NYK W 21 13 3 5 60.0 0 0 - 7 8 87.5 0 1 1 1 0 0 0 6 -4
+p122
+aVRashad McCants MIN 03/26/2006 MIN vs. NYK W 31 17 5 9 55.6 2 2 100.0 5 5 100.0 1 1 2 3 0 0 2 3 6
+p123
+aVRicky Davis MIN 03/26/2006 MIN vs. NYK W 38 21 4 14 28.6 1 4 25.0 12 14 85.7 0 8 8 1 1 0 3 2 2
+p124
+aVKevin Garnett MIN 03/26/2006 MIN vs. NYK W 37 26 9 19 47.4 0 0 - 8 11 72.7 4 11 15 4 2 1 6 3 10
+p125
+aVMark Blount MIN 03/26/2006 MIN vs. NYK W 26 4 2 5 40.0 0 0 - 0 0 - 0 7 7 1 0 0 0 5 6
+p126
+aVEddie Griffin MIN 03/26/2006 MIN vs. NYK W 17 3 1 4 25.0 1 3 33.3 0 0 - 0 5 5 1 1 4 1 3 4
+p127
+aVMark Madsen MIN 03/24/2006 MIN @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p128
+aVRonald Dupree MIN 03/24/2006 MIN @ TOR L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p129
+aVJustin Reed MIN 03/24/2006 MIN @ TOR L 23 8 4 6 66.7 0 0 - 0 0 - 1 0 1 1 1 0 2 3 -12
+p130
+aVAnthony Carter MIN 03/24/2006 MIN @ TOR L 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -4
+p131
+aVKevin Garnett MIN 03/24/2006 MIN @ TOR L 37 15 5 11 45.5 0 0 - 5 5 100.0 3 9 12 3 1 0 2 2 -21
+p132
+aVRicky Davis MIN 03/24/2006 MIN @ TOR L 42 10 3 11 27.3 0 3 0.0 4 4 100.0 2 7 9 9 0 1 1 2 -14
+p133
+aVMark Blount MIN 03/24/2006 MIN @ TOR L 24 13 5 7 71.4 0 0 - 3 7 42.9 0 4 4 0 0 0 2 4 -12
+p134
+aVMarcus Banks MIN 03/24/2006 MIN @ TOR L 33 10 5 13 38.5 0 0 - 0 0 - 0 0 0 4 0 0 2 2 -24
+p135
+aVEddie Griffin MIN 03/24/2006 MIN @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p136
+aVMarko Jaric MIN 03/24/2006 MIN @ TOR L 26 5 1 9 11.1 1 4 25.0 2 2 100.0 0 1 1 1 1 0 1 1 -7
+p137
+aVRashad McCants MIN 03/24/2006 MIN @ TOR L 36 10 3 12 25.0 3 12 25.0 1 2 50.0 0 3 3 2 0 0 1 1 -19
+p138
+aVMarko Jaric MIN 03/23/2006 MIN @ NJN L 33 3 1 7 14.3 0 2 0.0 1 2 50.0 1 1 2 0 1 0 0 3 0
+p139
+aVMark Blount MIN 03/23/2006 MIN @ NJN L 40 18 6 12 50.0 0 0 - 6 10 60.0 1 8 9 1 2 1 0 1 1
+p140
+aVRicky Davis MIN 03/23/2006 MIN @ NJN L 37 12 3 12 25.0 1 3 33.3 5 6 83.3 0 7 7 9 3 0 3 3 -1
+p141
+aVRonald Dupree MIN 03/23/2006 MIN @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p142
+aVAnthony Carter MIN 03/23/2006 MIN @ NJN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 1
+p143
+aVRashad McCants MIN 03/23/2006 MIN @ NJN L 10 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 0 0 0 3 3 -8
+p144
+aVMarcus Banks MIN 03/23/2006 MIN @ NJN L 43 18 6 12 50.0 0 1 0.0 6 8 75.0 2 3 5 5 0 0 1 5 -6
+p145
+aVJustin Reed MIN 03/23/2006 MIN @ NJN L 18 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 0 0 0 3 7
+p146
+aVKevin Garnett MIN 03/23/2006 MIN @ NJN L 37 24 9 14 64.3 0 0 - 6 6 100.0 3 8 11 0 3 0 4 4 -7
+p147
+aVEddie Griffin MIN 03/23/2006 MIN @ NJN L 14 1 0 3 0.0 0 0 - 1 2 50.0 0 3 3 1 0 1 0 0 -4
+p148
+aVMark Blount MIN 03/21/2006 MIN vs. MIA W 25 12 6 11 54.5 0 0 - 0 0 - 0 2 2 0 0 1 1 5 9
+p149
+aVJustin Reed MIN 03/21/2006 MIN vs. MIA W 9 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 0 5 -9
+p150
+aVRashad McCants MIN 03/21/2006 MIN vs. MIA W 14 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 1 3 1
+p151
+aVAnthony Carter MIN 03/21/2006 MIN vs. MIA W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 2
+p152
+aVRicky Davis MIN 03/21/2006 MIN vs. MIA W 46 26 10 15 66.7 2 3 66.7 4 6 66.7 0 7 7 10 0 0 3 3 8
+p153
+aVTrenton Hassell MIN 03/21/2006 MIN vs. MIA W 22 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 -9
+p154
+aVMarko Jaric MIN 03/21/2006 MIN vs. MIA W 30 12 5 12 41.7 2 5 40.0 0 0 - 1 4 5 2 4 0 2 4 4
+p155
+aVKevin Garnett MIN 03/21/2006 MIN vs. MIA W 41 23 7 16 43.8 0 0 - 9 10 90.0 1 10 11 3 0 2 0 1 11
+p156
+aVEddie Griffin MIN 03/21/2006 MIN vs. MIA W 9 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -6
+p157
+aVMarcus Banks MIN 03/21/2006 MIN vs. MIA W 40 12 4 10 40.0 0 0 - 4 4 100.0 2 5 7 6 1 0 2 2 9
+p158
+aVMark Blount MIN 03/19/2006 MIN vs. SAC W 35 10 5 11 45.5 0 0 - 0 0 - 2 4 6 1 1 2 1 5 1
+p159
+aVAnthony Carter MIN 03/19/2006 MIN vs. SAC W 17 2 1 1 100.0 0 0 - 0 0 - 0 1 1 4 1 0 1 1 1
+p160
+aVRashad McCants MIN 03/19/2006 MIN vs. SAC W 22 11 5 10 50.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 2 8
+p161
+aVEddie Griffin MIN 03/19/2006 MIN vs. SAC W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 2 2 0 0
+p162
+aVMarko Jaric MIN 03/19/2006 MIN vs. SAC W 23 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 4 0 1 4 1
+p163
+aVJustin Reed MIN 03/19/2006 MIN vs. SAC W 16 6 3 6 50.0 0 0 - 0 0 - 1 4 5 2 0 0 2 5 1
+p164
+aVKevin Garnett MIN 03/19/2006 MIN vs. SAC W 39 37 11 18 61.1 0 0 - 15 17 88.2 1 9 10 1 4 2 4 2 10
+p165
+aVMarcus Banks MIN 03/19/2006 MIN vs. SAC W 19 4 2 4 50.0 0 0 - 0 0 - 0 2 2 6 0 0 1 4 9
+p166
+aVRicky Davis MIN 03/19/2006 MIN vs. SAC W 33 9 4 10 40.0 1 2 50.0 0 0 - 0 3 3 6 0 0 5 3 4
+p167
+aVTrenton Hassell MIN 03/19/2006 MIN vs. SAC W 30 12 5 13 38.5 0 0 - 2 3 66.7 1 1 2 1 2 0 3 5 -5
+p168
+aVJustin Reed MIN 03/16/2006 MIN @ GSW L 12 4 2 4 50.0 0 1 0.0 0 2 0.0 0 1 1 1 0 0 0 1 -8
+p169
+aVEddie Griffin MIN 03/16/2006 MIN @ GSW L 14 4 1 1 100.0 0 0 - 2 2 100.0 3 4 7 0 0 3 0 1 -9
+p170
+aVTrenton Hassell MIN 03/16/2006 MIN @ GSW L 32 9 3 12 25.0 0 0 - 3 3 100.0 2 1 3 6 0 0 4 3 8
+p171
+aVMark Blount MIN 03/16/2006 MIN @ GSW L 29 8 3 7 42.9 0 0 - 2 2 100.0 1 6 7 2 1 0 1 2 -2
+p172
+aVMarcus Banks MIN 03/16/2006 MIN @ GSW L 38 11 4 11 36.4 0 1 0.0 3 6 50.0 1 5 6 9 4 0 2 5 4
+p173
+aVKevin Garnett MIN 03/16/2006 MIN @ GSW L 38 20 7 14 50.0 0 0 - 6 6 100.0 5 12 17 2 2 3 1 3 -1
+p174
+aVRicky Davis MIN 03/16/2006 MIN @ GSW L 42 29 12 22 54.5 1 4 25.0 4 4 100.0 0 1 1 4 1 0 2 5 -2
+p175
+aVMarko Jaric MIN 03/16/2006 MIN @ GSW L 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p176
+aVMark Madsen MIN 03/16/2006 MIN @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p177
+aVRashad McCants MIN 03/16/2006 MIN @ GSW L 18 8 3 11 27.3 2 5 40.0 0 0 - 0 0 0 0 1 0 1 4 -11
+p178
+aVMarko Jaric MIN 03/15/2006 MIN @ LAL L 15 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 0 1 0 3 -4
+p179
+aVTrenton Hassell MIN 03/15/2006 MIN @ LAL L 39 12 6 11 54.5 0 0 - 0 0 - 2 2 4 3 0 0 2 2 -11
+p180
+aVRicky Davis MIN 03/15/2006 MIN @ LAL L 42 14 5 10 50.0 0 1 0.0 4 4 100.0 0 4 4 6 2 0 2 2 6
+p181
+aVMark Madsen MIN 03/15/2006 MIN @ LAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -5
+p182
+aVJustin Reed MIN 03/15/2006 MIN @ LAL L 13 6 2 6 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 4
+p183
+aVMark Blount MIN 03/15/2006 MIN @ LAL L 31 8 4 11 36.4 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -2
+p184
+aVRashad McCants MIN 03/15/2006 MIN @ LAL L 24 15 7 11 63.6 1 2 50.0 0 0 - 0 1 1 2 2 1 0 0 -2
+p185
+aVKevin Garnett MIN 03/15/2006 MIN @ LAL L 37 16 4 14 28.6 0 0 - 8 8 100.0 3 11 14 3 2 1 2 3 -2
+p186
+aVMarcus Banks MIN 03/15/2006 MIN @ LAL L 33 18 7 13 53.8 0 1 0.0 4 4 100.0 0 2 2 8 2 0 2 2 1
+p187
+aVMarko Jaric MIN 03/13/2006 MIN @ LAC L 29 11 4 10 40.0 0 3 0.0 3 4 75.0 1 1 2 2 3 0 2 2 -10
+p188
+aVKevin Garnett MIN 03/13/2006 MIN @ LAC L 45 13 5 12 41.7 0 2 0.0 3 4 75.0 0 16 16 3 1 0 1 4 -6
+p189
+aVJustin Reed MIN 03/13/2006 MIN @ LAC L 16 4 0 4 0.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 4 0
+p190
+aVRashad McCants MIN 03/13/2006 MIN @ LAC L 10 6 2 4 50.0 1 3 33.3 1 1 100.0 0 3 3 0 0 1 1 3 2
+p191
+aVTrenton Hassell MIN 03/13/2006 MIN @ LAC L 32 13 5 10 50.0 1 1 100.0 2 4 50.0 0 2 2 1 0 0 2 4 3
+p192
+aVRicky Davis MIN 03/13/2006 MIN @ LAC L 44 20 9 15 60.0 0 3 0.0 2 2 100.0 1 0 1 6 3 1 3 2 -10
+p193
+aVMarcus Banks MIN 03/13/2006 MIN @ LAC L 21 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 5 1 0 0 1 0
+p194
+aVMark Blount MIN 03/13/2006 MIN @ LAC L 44 18 7 14 50.0 0 0 - 4 4 100.0 1 5 6 0 1 1 2 5 -19
+p195
+aVMarcus Banks MIN 03/11/2006 MIN @ PHX L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 3 -11
+p196
+aVTrenton Hassell MIN 03/11/2006 MIN @ PHX L 40 21 9 11 81.8 0 0 - 3 3 100.0 3 2 5 3 0 0 1 3 -8
+p197
+aVKevin Garnett MIN 03/11/2006 MIN @ PHX L 41 28 11 23 47.8 0 0 - 6 7 85.7 4 6 10 2 3 1 5 3 -2
+p198
+aVJustin Reed MIN 03/11/2006 MIN @ PHX L 22 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 0 0 2 0 3 -7
+p199
+aVRashad McCants MIN 03/11/2006 MIN @ PHX L 27 13 5 9 55.6 3 5 60.0 0 0 - 2 3 5 1 1 0 0 4 -2
+p200
+aVRonald Dupree MIN 03/11/2006 MIN @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p201
+aVMarko Jaric MIN 03/11/2006 MIN @ PHX L 33 14 5 14 35.7 1 3 33.3 3 3 100.0 5 3 8 4 3 0 2 4 3
+p202
+aVRicky Davis MIN 03/11/2006 MIN @ PHX L 41 14 6 17 35.3 0 2 0.0 2 2 100.0 1 4 5 3 0 0 1 4 -12
+p203
+aVMark Blount MIN 03/11/2006 MIN @ PHX L 20 10 5 6 83.3 0 0 - 0 0 - 2 2 4 0 1 0 3 0 -1
+p204
+aVMark Blount MIN 03/10/2006 MIN @ SEA L 45 23 10 13 76.9 0 0 - 3 4 75.0 3 5 8 3 0 1 2 3 -4
+p205
+aVMarcus Banks MIN 03/10/2006 MIN @ SEA L 34 15 6 14 42.9 0 1 0.0 3 4 75.0 0 5 5 9 4 0 5 1 -5
+p206
+aVRicky Davis MIN 03/10/2006 MIN @ SEA L 46 16 8 18 44.4 0 3 0.0 0 0 - 3 2 5 6 0 0 1 4 -9
+p207
+aVJustin Reed MIN 03/10/2006 MIN @ SEA L 19 7 3 5 60.0 0 0 - 1 3 33.3 1 2 3 4 0 0 1 2 2
+p208
+aVMarko Jaric MIN 03/10/2006 MIN @ SEA L 14 0 0 2 0.0 0 0 - 0 0 - 1 1 2 4 1 0 2 3 -6
+p209
+aVRashad McCants MIN 03/10/2006 MIN @ SEA L 21 8 3 9 33.3 2 6 33.3 0 0 - 0 1 1 0 0 2 0 5 -6
+p210
+aVKevin Garnett MIN 03/10/2006 MIN @ SEA L 36 21 7 17 41.2 0 2 0.0 7 8 87.5 4 7 11 3 2 1 1 1 -18
+p211
+aVTrenton Hassell MIN 03/10/2006 MIN @ SEA L 25 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 1 1 4 4 -9
+p212
+aVMarko Jaric MIN 03/08/2006 MIN @ UTA L 32 20 6 8 75.0 3 3 100.0 5 6 83.3 0 4 4 2 4 1 1 4 10
+p213
+aVRicky Davis MIN 03/08/2006 MIN @ UTA L 37 14 5 10 50.0 1 3 33.3 3 4 75.0 2 1 3 6 0 0 5 2 8
+p214
+aVMark Blount MIN 03/08/2006 MIN @ UTA L 28 6 2 7 28.6 0 0 - 2 3 66.7 0 3 3 1 0 1 1 2 -11
+p215
+aVMarcus Banks MIN 03/08/2006 MIN @ UTA L 17 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 1 1 2 4 -13
+p216
+aVRashad McCants MIN 03/08/2006 MIN @ UTA L 26 16 6 14 42.9 4 7 57.1 0 0 - 1 3 4 0 1 0 0 1 -1
+p217
+aVTrenton Hassell MIN 03/08/2006 MIN @ UTA L 45 5 2 8 25.0 0 0 - 1 2 50.0 1 2 3 4 1 1 0 3 -11
+p218
+aVKevin Garnett MIN 03/08/2006 MIN @ UTA L 43 26 11 15 73.3 0 0 - 4 5 80.0 4 9 13 1 1 2 3 2 -4
+p219
+aVJustin Reed MIN 03/08/2006 MIN @ UTA L 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 7
+p220
+aVTrenton Hassell MIN 03/07/2006 MIN vs. HOU L 33 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 3 1
+p221
+aVJustin Reed MIN 03/07/2006 MIN vs. HOU L 12 2 0 4 0.0 0 0 - 2 2 100.0 3 2 5 0 0 1 0 3 -1
+p222
+aVMarcus Banks MIN 03/07/2006 MIN vs. HOU L 37 26 12 19 63.2 2 4 50.0 0 1 0.0 0 2 2 5 1 1 2 3 7
+p223
+aVRashad McCants MIN 03/07/2006 MIN vs. HOU L 19 4 1 7 14.3 1 3 33.3 1 2 50.0 0 2 2 1 0 1 0 5 -6
+p224
+aVMarko Jaric MIN 03/07/2006 MIN vs. HOU L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 4 0 0 1 2 -13
+p225
+aVEddie Griffin MIN 03/07/2006 MIN vs. HOU L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 2 -11
+p226
+aVRicky Davis MIN 03/07/2006 MIN vs. HOU L 46 14 4 16 25.0 1 2 50.0 5 6 83.3 1 4 5 4 1 0 1 1 -3
+p227
+aVKevin Garnett MIN 03/07/2006 MIN vs. HOU L 39 15 6 17 35.3 0 0 - 3 6 50.0 4 17 21 5 4 2 3 2 2
+p228
+aVMark Blount MIN 03/07/2006 MIN vs. HOU L 31 18 8 13 61.5 0 0 - 2 2 100.0 1 5 6 2 0 0 1 6 -6
+p229
+aVJustin Reed MIN 03/05/2006 MIN vs. GSW W 16 3 1 6 16.7 0 0 - 1 2 50.0 1 1 2 0 0 0 2 2 -6
+p230
+aVKevin Garnett MIN 03/05/2006 MIN vs. GSW W 36 23 10 16 62.5 0 1 0.0 3 4 75.0 9 12 21 5 1 0 3 5 19
+p231
+aVMarko Jaric MIN 03/05/2006 MIN vs. GSW W 16 6 3 8 37.5 0 1 0.0 0 0 - 2 4 6 2 2 0 2 1 3
+p232
+aVTrenton Hassell MIN 03/05/2006 MIN vs. GSW W 31 15 6 8 75.0 0 0 - 3 3 100.0 2 2 4 4 0 0 2 3 20
+p233
+aVRicky Davis MIN 03/05/2006 MIN vs. GSW W 46 19 7 21 33.3 2 6 33.3 3 5 60.0 0 4 4 7 1 0 2 2 9
+p234
+aVRashad McCants MIN 03/05/2006 MIN vs. GSW W 27 11 5 10 50.0 0 3 0.0 1 1 100.0 1 0 1 1 0 1 2 4 13
+p235
+aVMark Blount MIN 03/05/2006 MIN vs. GSW W 27 10 4 10 40.0 0 0 - 2 2 100.0 1 4 5 1 1 0 1 2 0
+p236
+aVEddie Griffin MIN 03/05/2006 MIN vs. GSW W 10 4 2 6 33.3 0 0 - 0 0 - 3 1 4 0 0 2 0 0 -3
+p237
+aVMarcus Banks MIN 03/05/2006 MIN vs. GSW W 31 12 6 12 50.0 0 0 - 0 1 0.0 0 5 5 6 0 0 4 4 10
+p238
+aVRashad McCants MIN 03/01/2006 MIN vs. NJN W 27 21 7 9 77.8 3 3 100.0 4 6 66.7 1 5 6 3 1 0 2 3 19
+p239
+aVTrenton Hassell MIN 03/01/2006 MIN vs. NJN W 25 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 3 1 1
+p240
+aVKevin Garnett MIN 03/01/2006 MIN vs. NJN W 40 26 10 14 71.4 0 0 - 6 6 100.0 4 12 16 4 0 1 3 3 5
+p241
+aVMarcus Banks MIN 03/01/2006 MIN vs. NJN W 23 8 2 6 33.3 0 1 0.0 4 8 50.0 1 3 4 2 1 1 3 0 -11
+p242
+aVMark Madsen MIN 03/01/2006 MIN vs. NJN W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 3
+p243
+aVRicky Davis MIN 03/01/2006 MIN vs. NJN W 44 20 8 17 47.1 2 5 40.0 2 3 66.7 0 9 9 5 1 0 3 2 0
+p244
+aVMark Blount MIN 03/01/2006 MIN vs. NJN W 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 0 1 2 3 -7
+p245
+aVJustin Reed MIN 03/01/2006 MIN vs. NJN W 29 14 6 9 66.7 0 0 - 2 4 50.0 2 0 2 2 1 0 0 4 19
+p246
+aVMarko Jaric MIN 03/01/2006 MIN vs. NJN W 25 5 2 5 40.0 0 0 - 1 2 50.0 0 5 5 3 2 0 1 1 21
+p247
+aVMarcus Banks MIN 02/28/2006 MIN @ CHI L 35 18 6 10 60.0 2 3 66.7 4 4 100.0 1 1 2 7 0 0 3 5 -7
+p248
+aVRicky Davis MIN 02/28/2006 MIN @ CHI L 40 11 5 13 38.5 0 3 0.0 1 2 50.0 0 7 7 4 1 0 2 6 -15
+p249
+aVRashad McCants MIN 02/28/2006 MIN @ CHI L 30 18 6 14 42.9 2 6 33.3 4 6 66.7 2 2 4 2 1 1 2 4 -3
+p250
+aVAnthony Carter MIN 02/28/2006 MIN @ CHI L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p251
+aVMark Blount MIN 02/28/2006 MIN @ CHI L 30 12 4 11 36.4 0 0 - 4 6 66.7 1 1 2 1 1 2 3 4 -17
+p252
+aVKevin Garnett MIN 02/28/2006 MIN @ CHI L 41 27 10 16 62.5 1 2 50.0 6 6 100.0 0 12 12 3 1 2 1 2 -9
+p253
+aVJustin Reed MIN 02/28/2006 MIN @ CHI L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 2
+p254
+aVMark Madsen MIN 02/28/2006 MIN @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p255
+aVMarko Jaric MIN 02/28/2006 MIN @ CHI L 17 2 1 3 33.3 0 0 - 0 0 - 0 4 4 2 1 0 1 1 -3
+p256
+aVTrenton Hassell MIN 02/28/2006 MIN @ CHI L 31 10 3 5 60.0 0 0 - 4 4 100.0 0 1 1 1 0 0 3 4 1
+p257
+aVKevin Garnett MIN 02/26/2006 MIN vs. MEM W 23 17 7 10 70.0 0 0 - 3 4 75.0 3 7 10 7 1 0 1 4 9
+p258
+aVMarcus Banks MIN 02/26/2006 MIN vs. MEM W 33 13 5 9 55.6 0 0 - 3 5 60.0 0 5 5 8 3 1 1 5 8
+p259
+aVTrenton Hassell MIN 02/26/2006 MIN vs. MEM W 38 8 3 8 37.5 0 0 - 2 3 66.7 3 1 4 3 1 0 2 2 8
+p260
+aVMark Blount MIN 02/26/2006 MIN vs. MEM W 27 12 5 7 71.4 0 0 - 2 2 100.0 1 4 5 1 0 1 2 4 5
+p261
+aVRicky Davis MIN 02/26/2006 MIN vs. MEM W 45 35 9 21 42.9 2 6 33.3 15 20 75.0 1 6 7 5 2 0 5 3 8
+p262
+aVJustin Reed MIN 02/26/2006 MIN vs. MEM W 23 7 2 4 50.0 0 0 - 3 4 75.0 1 1 2 0 0 0 3 5 -10
+p263
+aVRashad McCants MIN 02/26/2006 MIN vs. MEM W 24 12 5 9 55.6 2 3 66.7 0 0 - 0 1 1 0 2 2 0 2 2
+p264
+aVMarko Jaric MIN 02/26/2006 MIN vs. MEM W 15 1 0 2 0.0 0 1 0.0 1 2 50.0 0 3 3 0 0 1 1 1 -2
+p265
+aVMark Madsen MIN 02/26/2006 MIN vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p266
+aVEddie Griffin MIN 02/26/2006 MIN vs. MEM W 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 2 0 3 6
+p267
+aVMark Blount MIN 02/24/2006 MIN vs. DEN L 38 11 4 9 44.4 0 0 - 3 4 75.0 1 5 6 1 1 0 0 3 4
+p268
+aVJustin Reed MIN 02/24/2006 MIN vs. DEN L 18 7 3 4 75.0 0 0 - 1 2 50.0 2 1 3 4 0 0 1 3 4
+p269
+aVKevin Garnett MIN 02/24/2006 MIN vs. DEN L 47 23 8 21 38.1 0 0 - 7 10 70.0 3 12 15 3 1 3 0 0 -9
+p270
+aVMarko Jaric MIN 02/24/2006 MIN vs. DEN L 16 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 3 1 0 2 1 11
+p271
+aVMarcus Banks MIN 02/24/2006 MIN vs. DEN L 40 19 8 13 61.5 0 1 0.0 3 3 100.0 1 3 4 5 2 0 5 5 11
+p272
+aVAnthony Carter MIN 02/24/2006 MIN vs. DEN L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 4 0 0 2 3 -12
+p273
+aVTrenton Hassell MIN 02/24/2006 MIN vs. DEN L 34 8 3 9 33.3 0 2 0.0 2 2 100.0 0 1 1 3 3 2 1 1 -17
+p274
+aVRashad McCants MIN 02/24/2006 MIN vs. DEN L 14 8 2 5 40.0 1 2 50.0 3 4 75.0 0 3 3 1 0 1 1 0 5
+p275
+aVRicky Davis MIN 02/24/2006 MIN vs. DEN L 45 19 7 18 38.9 3 4 75.0 2 3 66.7 1 7 8 4 2 0 4 2 -2
+p276
+aVKevin Garnett MIN 02/21/2006 MIN @ WAS L 39 15 7 16 43.8 0 0 - 1 2 50.0 4 7 11 1 1 2 7 3 -18
+p277
+aVAnthony Carter MIN 02/21/2006 MIN @ WAS L 21 6 2 5 40.0 0 1 0.0 2 2 100.0 0 3 3 5 1 0 0 4 -2
+p278
+aVEddie Griffin MIN 02/21/2006 MIN @ WAS L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -17
+p279
+aVMarcus Banks MIN 02/21/2006 MIN @ WAS L 27 8 4 8 50.0 0 2 0.0 0 0 - 1 2 3 5 1 0 2 4 -10
+p280
+aVRicky Davis MIN 02/21/2006 MIN @ WAS L 46 25 10 20 50.0 1 4 25.0 4 4 100.0 2 3 5 6 3 0 3 5 -7
+p281
+aVJustin Reed MIN 02/21/2006 MIN @ WAS L 18 10 5 7 71.4 0 0 - 0 0 - 2 0 2 0 2 0 1 4 1
+p282
+aVMark Madsen MIN 02/21/2006 MIN @ WAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p283
+aVMark Blount MIN 02/21/2006 MIN @ WAS L 25 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 0 0 3 5 2
+p284
+aVRashad McCants MIN 02/21/2006 MIN @ WAS L 19 8 3 7 42.9 2 6 33.3 0 0 - 0 1 1 1 0 0 0 3 -8
+p285
+aVTrenton Hassell MIN 02/21/2006 MIN @ WAS L 31 6 3 11 27.3 0 0 - 0 1 0.0 0 4 4 0 0 0 0 1 -9
+p286
+aVMarcus Banks MIN 02/15/2006 MIN vs. SEA W 24 8 3 7 42.9 1 2 50.0 1 1 100.0 1 2 3 4 2 0 5 5 9
+p287
+aVRicky Davis MIN 02/15/2006 MIN vs. SEA W 39 25 8 20 40.0 0 3 0.0 9 12 75.0 1 4 5 5 1 0 4 2 8
+p288
+aVRashad McCants MIN 02/15/2006 MIN vs. SEA W 16 10 3 6 50.0 1 3 33.3 3 4 75.0 0 1 1 0 2 0 2 3 -2
+p289
+aVJustin Reed MIN 02/15/2006 MIN vs. SEA W 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 2
+p290
+aVMark Blount MIN 02/15/2006 MIN vs. SEA W 27 6 1 4 25.0 0 0 - 4 4 100.0 1 7 8 1 1 1 1 2 11
+p291
+aVKevin Garnett MIN 02/15/2006 MIN vs. SEA W 39 23 8 19 42.1 0 0 - 7 7 100.0 6 9 15 2 0 1 0 3 6
+p292
+aVMark Madsen MIN 02/15/2006 MIN vs. SEA W 20 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 1 0 0 4 1
+p293
+aVAnthony Carter MIN 02/15/2006 MIN vs. SEA W 24 10 3 6 50.0 2 2 100.0 2 2 100.0 1 3 4 5 3 0 2 3 1
+p294
+aVTrenton Hassell MIN 02/15/2006 MIN vs. SEA W 41 12 5 10 50.0 0 0 - 2 3 66.7 2 2 4 4 2 0 5 3 14
+p295
+aVMark Madsen MIN 02/13/2006 MIN vs. TOR L 16 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 2 0 0 4 -5
+p296
+aVMarcus Banks MIN 02/13/2006 MIN vs. TOR L 22 6 3 6 50.0 0 0 - 0 0 - 0 1 1 2 0 1 2 2 1
+p297
+aVTrenton Hassell MIN 02/13/2006 MIN vs. TOR L 34 14 5 9 55.6 0 0 - 4 6 66.7 1 2 3 2 1 0 2 3 -11
+p298
+aVRicky Davis MIN 02/13/2006 MIN vs. TOR L 42 14 7 17 41.2 0 3 0.0 0 2 0.0 1 4 5 9 1 0 2 2 0
+p299
+aVMark Blount MIN 02/13/2006 MIN vs. TOR L 32 13 5 8 62.5 0 0 - 3 3 100.0 1 2 3 1 0 3 3 3 1
+p300
+aVJustin Reed MIN 02/13/2006 MIN vs. TOR L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 2
+p301
+aVRashad McCants MIN 02/13/2006 MIN vs. TOR L 19 8 3 5 60.0 2 4 50.0 0 0 - 0 1 1 1 0 0 3 2 -1
+p302
+aVKevin Garnett MIN 02/13/2006 MIN vs. TOR L 42 23 9 15 60.0 0 0 - 5 7 71.4 5 14 19 6 2 0 0 1 -2
+p303
+aVAnthony Carter MIN 02/13/2006 MIN vs. TOR L 26 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 6 0 1 2 5 -5
+p304
+aVRicky Davis MIN 02/11/2006 MIN vs. NOK L 45 23 9 21 42.9 1 3 33.3 4 6 66.7 2 2 4 6 1 0 3 3 -2
+p305
+aVTrenton Hassell MIN 02/11/2006 MIN vs. NOK L 27 7 3 8 37.5 0 0 - 1 1 100.0 4 3 7 2 0 0 2 3 -6
+p306
+aVMark Blount MIN 02/11/2006 MIN vs. NOK L 26 12 5 7 71.4 0 0 - 2 2 100.0 1 4 5 0 1 3 2 5 -7
+p307
+aVAnthony Carter MIN 02/11/2006 MIN vs. NOK L 27 10 2 10 20.0 1 1 100.0 5 10 50.0 1 3 4 6 0 0 2 1 -4
+p308
+aVRichie Frahm MIN 02/11/2006 MIN vs. NOK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p309
+aVJustin Reed MIN 02/11/2006 MIN vs. NOK L 23 5 1 4 25.0 0 0 - 3 4 75.0 1 2 3 0 2 1 0 3 4
+p310
+aVMark Madsen MIN 02/11/2006 MIN vs. NOK L 21 6 2 2 100.0 0 0 - 2 5 40.0 5 1 6 0 2 4 0 3 -4
+p311
+aVKevin Garnett MIN 02/11/2006 MIN vs. NOK L 41 19 6 18 33.3 0 1 0.0 7 8 87.5 4 17 21 2 1 2 4 5 -5
+p312
+aVMarcus Banks MIN 02/11/2006 MIN vs. NOK L 21 12 5 9 55.6 0 1 0.0 2 2 100.0 0 3 3 2 0 1 1 4 -2
+p313
+aVRashad McCants MIN 02/11/2006 MIN vs. NOK L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -3
+p314
+aVEddie Griffin MIN 02/10/2006 MIN vs. UTA L 13 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 0 1 0 0 -2
+p315
+aVMarcus Banks MIN 02/10/2006 MIN vs. UTA L 20 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 2 2 -8
+p316
+aVMark Blount MIN 02/10/2006 MIN vs. UTA L 18 7 3 5 60.0 0 0 - 1 1 100.0 1 4 5 0 0 0 4 6 -15
+p317
+aVRicky Davis MIN 02/10/2006 MIN vs. UTA L 38 18 7 22 31.8 0 2 0.0 4 4 100.0 0 0 0 3 1 1 1 5 -22
+p318
+aVAnthony Carter MIN 02/10/2006 MIN vs. UTA L 22 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 6 0 0 1 3 2
+p319
+aVKevin Garnett MIN 02/10/2006 MIN vs. UTA L 38 16 7 17 41.2 0 1 0.0 2 2 100.0 5 13 18 4 2 1 4 4 -10
+p320
+aVRichie Frahm MIN 02/10/2006 MIN vs. UTA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -8
+p321
+aVMarko Jaric MIN 02/10/2006 MIN vs. UTA L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 1 0 1 -4
+p322
+aVTrenton Hassell MIN 02/10/2006 MIN vs. UTA L 39 19 7 12 58.3 0 0 - 5 6 83.3 3 1 4 3 1 0 4 3 2
+p323
+aVRashad McCants MIN 02/10/2006 MIN vs. UTA L 20 5 2 9 22.2 1 4 25.0 0 0 - 0 1 1 0 0 1 1 2 -7
+p324
+aVMark Madsen MIN 02/10/2006 MIN vs. UTA L 22 2 0 2 0.0 0 0 - 2 2 100.0 3 6 9 0 1 1 1 4 2
+p325
+aVAnthony Carter MIN 02/08/2006 MIN vs. CLE L 20 0 0 4 0.0 0 0 - 0 0 - 0 1 1 6 0 0 1 2 7
+p326
+aVRashad McCants MIN 02/08/2006 MIN vs. CLE L 4 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p327
+aVMark Blount MIN 02/08/2006 MIN vs. CLE L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -16
+p328
+aVMarcus Banks MIN 02/08/2006 MIN vs. CLE L 28 15 7 12 58.3 1 3 33.3 0 0 - 0 3 3 4 0 0 2 5 -15
+p329
+aVKevin Garnett MIN 02/08/2006 MIN vs. CLE L 46 21 7 18 38.9 0 1 0.0 7 8 87.5 5 13 18 6 0 1 2 3 -10
+p330
+aVRicky Davis MIN 02/08/2006 MIN vs. CLE L 45 33 12 29 41.4 3 11 27.3 6 7 85.7 0 7 7 5 1 0 0 3 0
+p331
+aVJustin Reed MIN 02/08/2006 MIN vs. CLE L 8 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 4
+p332
+aVTrenton Hassell MIN 02/08/2006 MIN vs. CLE L 43 13 3 9 33.3 0 0 - 7 8 87.5 1 2 3 2 0 0 2 4 -9
+p333
+aVMark Madsen MIN 02/08/2006 MIN vs. CLE L 27 5 2 5 40.0 0 0 - 1 2 50.0 2 4 6 0 2 1 0 4 14
+p334
+aVEddie Griffin MIN 02/08/2006 MIN vs. CLE L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 1
+p335
+aVKevin Garnett MIN 02/06/2006 MIN @ PHX W 38 19 8 12 66.7 0 0 - 3 4 75.0 2 10 12 4 1 2 5 5 -9
+p336
+aVTrenton Hassell MIN 02/06/2006 MIN @ PHX W 41 15 6 11 54.5 0 0 - 3 3 100.0 1 6 7 10 0 1 4 1 -7
+p337
+aVRicky Davis MIN 02/06/2006 MIN @ PHX W 43 18 6 16 37.5 1 4 25.0 5 5 100.0 0 5 5 1 2 0 5 3 -5
+p338
+aVMark Madsen MIN 02/06/2006 MIN @ PHX W 23 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 1 1 2 1 6
+p339
+aVMarcus Banks MIN 02/06/2006 MIN @ PHX W 34 19 9 14 64.3 1 1 100.0 0 0 - 1 2 3 2 2 0 2 5 14
+p340
+aVMark Blount MIN 02/06/2006 MIN @ PHX W 7 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 0 1 4 1
+p341
+aVAnthony Carter MIN 02/06/2006 MIN @ PHX W 14 10 3 4 75.0 0 0 - 4 5 80.0 0 0 0 3 2 0 3 4 -12
+p342
+aVRashad McCants MIN 02/06/2006 MIN @ PHX W 29 14 6 9 66.7 2 2 100.0 0 0 - 0 1 1 0 0 1 1 1 10
+p343
+aVJustin Reed MIN 02/06/2006 MIN @ PHX W 11 5 2 4 50.0 0 0 - 1 1 100.0 2 3 5 0 0 0 1 1 12
+p344
+aVEddie Griffin MIN 02/04/2006 MIN @ GSW L 19 4 2 5 40.0 0 1 0.0 0 0 - 1 5 6 0 0 1 2 3 -13
+p345
+aVMarko Jaric MIN 02/04/2006 MIN @ GSW L 16 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 3 -9
+p346
+aVRashad McCants MIN 02/04/2006 MIN @ GSW L 20 12 6 11 54.5 0 3 0.0 0 0 - 2 1 3 0 0 2 1 5 -9
+p347
+aVRicky Davis MIN 02/04/2006 MIN @ GSW L 35 20 8 15 53.3 0 1 0.0 4 5 80.0 1 4 5 1 2 0 4 2 -33
+p348
+aVRonald Dupree MIN 02/04/2006 MIN @ GSW L 7 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 4
+p349
+aVTrenton Hassell MIN 02/04/2006 MIN @ GSW L 28 8 4 14 28.6 0 0 - 0 0 - 2 1 3 5 0 0 0 3 -21
+p350
+aVMark Madsen MIN 02/04/2006 MIN @ GSW L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 -1
+p351
+aVJustin Reed MIN 02/04/2006 MIN @ GSW L 24 10 3 9 33.3 0 0 - 4 4 100.0 1 2 3 2 2 0 5 2 -13
+p352
+aVMarcus Banks MIN 02/04/2006 MIN @ GSW L 32 5 2 10 20.0 0 1 0.0 1 2 50.0 0 3 3 5 1 1 2 2 -23
+p353
+aVKevin Garnett MIN 02/04/2006 MIN @ GSW L 31 15 6 13 46.2 0 0 - 3 4 75.0 4 7 11 2 2 0 2 3 -22
+p354
+aVMark Blount MIN 02/04/2006 MIN @ GSW L 17 3 1 5 20.0 0 0 - 1 2 50.0 2 1 3 0 1 0 0 2 -20
+p355
+aVTrenton Hassell MIN 02/03/2006 MIN @ POR L 38 10 4 10 40.0 0 0 - 2 3 66.7 1 2 3 5 0 0 1 1 6
+p356
+aVMarko Jaric MIN 02/03/2006 MIN @ POR L 17 8 2 4 50.0 1 2 50.0 3 4 75.0 0 0 0 0 2 0 0 3 2
+p357
+aVMark Blount MIN 02/03/2006 MIN @ POR L 23 6 3 8 37.5 0 0 - 0 0 - 2 4 6 0 0 0 0 4 -11
+p358
+aVEddie Griffin MIN 02/03/2006 MIN @ POR L 25 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 1 5 1 0 7
+p359
+aVJustin Reed MIN 02/03/2006 MIN @ POR L 11 2 0 4 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -10
+p360
+aVMarcus Banks MIN 02/03/2006 MIN @ POR L 31 15 6 10 60.0 0 0 - 3 4 75.0 0 2 2 5 1 1 3 4 -6
+p361
+aVRicky Davis MIN 02/03/2006 MIN @ POR L 38 17 7 20 35.0 1 4 25.0 2 3 66.7 0 3 3 1 0 0 2 2 0
+p362
+aVRashad McCants MIN 02/03/2006 MIN @ POR L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p363
+aVAnthony Carter MIN 02/03/2006 MIN @ POR L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 -6
+p364
+aVKevin Garnett MIN 02/03/2006 MIN @ POR L 43 27 12 13 92.3 0 0 - 3 5 60.0 4 11 15 4 0 3 2 4 2
+p365
+aVTroy Hudson MIN 02/03/2006 MIN @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p366
+aVMarko Jaric MIN 02/01/2006 MIN @ DET L 19 0 0 1 0.0 0 0 - 0 0 - 1 3 4 2 0 0 1 4 -15
+p367
+aVTrenton Hassell MIN 02/01/2006 MIN @ DET L 31 14 6 11 54.5 0 1 0.0 2 2 100.0 3 3 6 2 0 0 3 3 -9
+p368
+aVRashad McCants MIN 02/01/2006 MIN @ DET L 17 12 3 10 30.0 0 3 0.0 6 6 100.0 1 0 1 2 2 0 0 2 -1
+p369
+aVMark Madsen MIN 02/01/2006 MIN @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p370
+aVEddie Griffin MIN 02/01/2006 MIN @ DET L 22 2 1 5 20.0 0 0 - 0 0 - 0 4 4 0 0 0 3 0 -8
+p371
+aVJustin Reed MIN 02/01/2006 MIN @ DET L 17 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -7
+p372
+aVRicky Davis MIN 02/01/2006 MIN @ DET L 31 11 4 10 40.0 1 2 50.0 2 2 100.0 0 0 0 2 1 1 3 0 -13
+p373
+aVMark Blount MIN 02/01/2006 MIN @ DET L 30 8 4 5 80.0 0 0 - 0 0 - 1 4 5 1 1 0 1 4 -14
+p374
+aVKevin Garnett MIN 02/01/2006 MIN @ DET L 35 14 6 13 46.2 0 0 - 2 3 66.7 2 10 12 5 2 1 2 1 -10
+p375
+aVMarcus Banks MIN 02/01/2006 MIN @ DET L 31 9 3 8 37.5 0 1 0.0 3 4 75.0 0 1 1 2 1 0 1 3 -1
+p376
+aVKevin Garnett MIN 01/30/2006 MIN vs. BOS W 32 15 4 7 57.1 0 0 - 7 8 87.5 3 6 9 1 0 0 1 1 17
+p377
+aVJustin Reed MIN 01/30/2006 MIN vs. BOS W 18 9 2 4 50.0 0 0 - 5 6 83.3 0 0 0 1 1 1 1 5 14
+p378
+aVMark Madsen MIN 01/30/2006 MIN vs. BOS W 17 0 0 0 - 0 0 - 0 0 - 1 4 5 1 1 0 2 1 8
+p379
+aVRashad McCants MIN 01/30/2006 MIN vs. BOS W 15 10 4 7 57.1 2 2 100.0 0 0 - 0 2 2 0 0 1 0 2 8
+p380
+aVRicky Davis MIN 01/30/2006 MIN vs. BOS W 33 9 4 9 44.4 0 0 - 1 2 50.0 0 5 5 5 2 0 4 4 13
+p381
+aVMark Blount MIN 01/30/2006 MIN vs. BOS W 28 16 6 11 54.5 0 0 - 4 4 100.0 2 8 10 2 0 4 4 4 19
+p382
+aVTrenton Hassell MIN 01/30/2006 MIN vs. BOS W 29 12 6 9 66.7 0 0 - 0 0 - 1 1 2 1 1 0 0 4 15
+p383
+aVTroy Hudson MIN 01/30/2006 MIN vs. BOS W 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 1 1 7
+p384
+aVMarcus Banks MIN 01/30/2006 MIN vs. BOS W 22 20 6 8 75.0 1 3 33.3 7 9 77.8 0 1 1 6 1 0 1 1 19
+p385
+aVMarko Jaric MIN 01/30/2006 MIN vs. BOS W 17 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 3 0 0 2 1 -1
+p386
+aVEddie Griffin MIN 01/30/2006 MIN vs. BOS W 20 12 6 9 66.7 0 1 0.0 0 0 - 2 5 7 0 0 2 0 2 6
+p387
+aVJustin Reed MIN 01/28/2006 MIN @ SAS L 10 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 4 -10
+p388
+aVRashad McCants MIN 01/28/2006 MIN @ SAS L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 -10
+p389
+aVMarko Jaric MIN 01/28/2006 MIN @ SAS L 32 13 6 9 66.7 1 3 33.3 0 0 - 0 4 4 3 1 0 1 3 1
+p390
+aVTrenton Hassell MIN 01/28/2006 MIN @ SAS L 33 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 0 0 3 3 -4
+p391
+aVRicky Davis MIN 01/28/2006 MIN @ SAS L 42 20 8 18 44.4 0 1 0.0 4 6 66.7 0 3 3 2 2 0 4 2 -18
+p392
+aVKevin Garnett MIN 01/28/2006 MIN @ SAS L 38 23 9 13 69.2 1 1 100.0 4 4 100.0 3 7 10 3 0 2 2 3 -4
+p393
+aVEddie Griffin MIN 01/28/2006 MIN @ SAS L 17 4 0 5 0.0 0 1 0.0 4 6 66.7 3 3 6 0 0 3 1 2 -3
+p394
+aVAnthony Carter MIN 01/28/2006 MIN @ SAS L 14 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 3 0 0 0 2 -3
+p395
+aVMark Blount MIN 01/28/2006 MIN @ SAS L 31 18 9 12 75.0 0 0 - 0 3 0.0 5 1 6 0 2 2 3 2 -11
+p396
+aVTroy Hudson MIN 01/28/2006 MIN @ SAS L 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -8
+p397
+aVTroy Hudson MIN 01/27/2006 MIN @ HOU W 21 2 1 5 20.0 0 0 - 0 0 - 2 1 3 5 0 0 3 0 -3
+p398
+aVMarko Jaric MIN 01/27/2006 MIN @ HOU W 13 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -3
+p399
+aVEddie Griffin MIN 01/27/2006 MIN @ HOU W 20 4 1 9 11.1 0 1 0.0 2 2 100.0 3 3 6 0 0 1 0 1 2
+p400
+aVMark Blount MIN 01/27/2006 MIN @ HOU W 23 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 1 1 1 6 0
+p401
+aVRashad McCants MIN 01/27/2006 MIN @ HOU W 17 18 8 10 80.0 2 2 100.0 0 0 - 0 1 1 1 0 0 1 0 16
+p402
+aVMark Madsen MIN 01/27/2006 MIN @ HOU W 10 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 1 0 2 4
+p403
+aVAnthony Carter MIN 01/27/2006 MIN @ HOU W 15 4 0 0 - 0 0 - 4 4 100.0 0 1 1 5 0 0 0 1 10
+p404
+aVTrenton Hassell MIN 01/27/2006 MIN @ HOU W 44 10 5 9 55.6 0 0 - 0 2 0.0 1 5 6 1 0 2 4 4 -2
+p405
+aVKevin Garnett MIN 01/27/2006 MIN @ HOU W 41 26 7 13 53.8 0 0 - 12 17 70.6 2 10 12 3 0 4 4 2 0
+p406
+aVRicky Davis MIN 01/27/2006 MIN @ HOU W 36 26 10 18 55.6 1 4 25.0 5 5 100.0 2 4 6 3 1 1 1 3 -4
+p407
+aVRonald Dupree MIN 01/25/2006 MIN @ MEM L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 8
+p408
+aVTroy Hudson MIN 01/25/2006 MIN @ MEM L 28 6 2 6 33.3 2 3 66.7 0 0 - 0 1 1 4 1 0 0 0 -9
+p409
+aVWally Szczerbiak MIN 01/25/2006 MIN @ MEM L 44 15 7 20 35.0 0 3 0.0 1 1 100.0 2 2 4 3 1 1 2 4 -13
+p410
+aVAnthony Carter MIN 01/25/2006 MIN @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p411
+aVMarko Jaric MIN 01/25/2006 MIN @ MEM L 23 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 3 0 0 2 1 -10
+p412
+aVEddie Griffin MIN 01/25/2006 MIN @ MEM L 16 4 2 6 33.3 0 3 0.0 0 0 - 0 4 4 0 0 1 0 2 -15
+p413
+aVRashad McCants MIN 01/25/2006 MIN @ MEM L 20 14 6 9 66.7 2 2 100.0 0 0 - 2 3 5 1 3 0 2 2 -11
+p414
+aVMichael Olowokandi MIN 01/25/2006 MIN @ MEM L 7 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -13
+p415
+aVKevin Garnett MIN 01/25/2006 MIN @ MEM L 41 29 9 15 60.0 1 1 100.0 10 11 90.9 4 5 9 2 3 1 0 3 -20
+p416
+aVMark Madsen MIN 01/25/2006 MIN @ MEM L 9 0 0 0 - 0 0 - 0 2 0.0 0 3 3 0 1 0 0 2 8
+p417
+aVTrenton Hassell MIN 01/25/2006 MIN @ MEM L 43 10 3 9 33.3 0 1 0.0 4 6 66.7 2 2 4 5 1 1 1 1 -25
+p418
+aVBracey Wright MIN 01/25/2006 MIN @ MEM L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p419
+aVEddie Griffin MIN 01/24/2006 MIN vs. DET L 30 6 3 10 30.0 0 1 0.0 0 0 - 2 5 7 1 0 2 0 1 -27
+p420
+aVRonald Dupree MIN 01/24/2006 MIN vs. DET L 14 8 3 4 75.0 0 0 - 2 4 50.0 2 1 3 1 1 0 1 2 -9
+p421
+aVAnthony Carter MIN 01/24/2006 MIN vs. DET L 22 4 2 5 40.0 0 0 - 0 0 - 0 0 0 6 0 0 1 2 -1
+p422
+aVTrenton Hassell MIN 01/24/2006 MIN vs. DET L 32 6 3 6 50.0 0 0 - 0 0 - 1 2 3 3 0 1 3 1 -10
+p423
+aVMarko Jaric MIN 01/24/2006 MIN vs. DET L 27 6 1 6 16.7 0 0 - 4 4 100.0 1 1 2 2 1 0 5 4 -23
+p424
+aVBracey Wright MIN 01/24/2006 MIN vs. DET L 6 5 2 5 40.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 1
+p425
+aVKevin Garnett MIN 01/24/2006 MIN vs. DET L 35 21 10 24 41.7 0 1 0.0 1 1 100.0 2 8 10 1 0 0 2 0 -19
+p426
+aVMark Madsen MIN 01/24/2006 MIN vs. DET L 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 7
+p427
+aVRashad McCants MIN 01/24/2006 MIN vs. DET L 23 14 6 11 54.5 0 1 0.0 2 4 50.0 0 3 3 2 2 0 1 1 -8
+p428
+aVWally Szczerbiak MIN 01/24/2006 MIN vs. DET L 39 13 3 8 37.5 1 1 100.0 6 6 100.0 0 3 3 3 1 1 1 2 -31
+p429
+aVMark Madsen MIN 01/22/2006 MIN vs. PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -9
+p430
+aVRonald Dupree MIN 01/22/2006 MIN vs. PHI L 4 2 1 1 100.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 7
+p431
+aVRashad McCants MIN 01/22/2006 MIN vs. PHI L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 3 -2
+p432
+aVAnthony Carter MIN 01/22/2006 MIN vs. PHI L 20 8 4 5 80.0 0 0 - 0 0 - 0 1 1 2 1 1 4 4 -8
+p433
+aVTrenton Hassell MIN 01/22/2006 MIN vs. PHI L 39 14 6 11 54.5 0 0 - 2 2 100.0 0 1 1 4 0 1 1 4 9
+p434
+aVKevin Garnett MIN 01/22/2006 MIN vs. PHI L 39 13 5 15 33.3 0 2 0.0 3 4 75.0 2 12 14 5 1 1 2 3 6
+p435
+aVWally Szczerbiak MIN 01/22/2006 MIN vs. PHI L 44 18 7 16 43.8 1 3 33.3 3 3 100.0 0 6 6 2 1 0 2 0 -13
+p436
+aVEddie Griffin MIN 01/22/2006 MIN vs. PHI L 38 13 6 9 66.7 1 1 100.0 0 2 0.0 3 7 10 2 0 1 0 3 2
+p437
+aVMarko Jaric MIN 01/22/2006 MIN vs. PHI L 47 15 7 19 36.8 0 3 0.0 1 2 50.0 1 4 5 7 3 2 3 2 -2
+p438
+aVEddie Griffin MIN 01/20/2006 MIN vs. IND W 39 17 7 11 63.6 0 0 - 3 4 75.0 1 13 14 1 0 6 1 4 11
+p439
+aVMark Madsen MIN 01/20/2006 MIN vs. IND W 11 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 0 1 1 5 -14
+p440
+aVMarko Jaric MIN 01/20/2006 MIN vs. IND W 35 13 4 9 44.4 0 3 0.0 5 5 100.0 1 9 10 7 1 0 2 1 5
+p441
+aVRonald Dupree MIN 01/20/2006 MIN vs. IND W 7 3 1 1 100.0 0 0 - 1 4 25.0 1 1 2 0 2 0 1 2 0
+p442
+aVTrenton Hassell MIN 01/20/2006 MIN vs. IND W 39 10 4 6 66.7 0 0 - 2 2 100.0 0 3 3 6 1 1 2 3 16
+p443
+aVAnthony Carter MIN 01/20/2006 MIN vs. IND W 19 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 2 0 1 1 2 -9
+p444
+aVWally Szczerbiak MIN 01/20/2006 MIN vs. IND W 45 20 4 13 30.8 0 2 0.0 12 12 100.0 1 4 5 3 0 1 4 3 5
+p445
+aVRashad McCants MIN 01/20/2006 MIN vs. IND W 9 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -6
+p446
+aVKevin Garnett MIN 01/20/2006 MIN vs. IND W 36 17 6 14 42.9 0 0 - 5 7 71.4 2 6 8 2 0 1 2 2 17
+p447
+aVKevin Garnett MIN 01/18/2006 MIN @ BOS L 44 29 11 26 42.3 1 2 50.0 6 8 75.0 4 9 13 4 0 1 0 3 -8
+p448
+aVMarko Jaric MIN 01/18/2006 MIN @ BOS L 28 3 1 5 20.0 1 2 50.0 0 0 - 1 5 6 2 0 0 1 2 -4
+p449
+aVRashad McCants MIN 01/18/2006 MIN @ BOS L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -7
+p450
+aVMichael Olowokandi MIN 01/18/2006 MIN @ BOS L 25 5 2 5 40.0 0 0 - 1 2 50.0 4 5 9 1 1 1 1 3 7
+p451
+aVTroy Hudson MIN 01/18/2006 MIN @ BOS L 31 13 5 11 45.5 3 5 60.0 0 0 - 1 1 2 6 0 0 1 2 -3
+p452
+aVTrenton Hassell MIN 01/18/2006 MIN @ BOS L 41 18 7 11 63.6 0 1 0.0 4 5 80.0 3 1 4 3 1 0 3 6 -9
+p453
+aVRonald Dupree MIN 01/18/2006 MIN @ BOS L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 2
+p454
+aVEddie Griffin MIN 01/18/2006 MIN @ BOS L 19 2 1 4 25.0 0 0 - 0 2 0.0 2 2 4 0 0 4 0 4 -14
+p455
+aVWally Szczerbiak MIN 01/18/2006 MIN @ BOS L 40 22 8 16 50.0 0 5 0.0 6 6 100.0 0 6 6 3 1 0 2 0 1
+p456
+aVTrenton Hassell MIN 01/16/2006 MIN @ NYK W 37 10 4 10 40.0 0 0 - 2 3 66.7 1 1 2 2 0 0 2 3 12
+p457
+aVMichael Olowokandi MIN 01/16/2006 MIN @ NYK W 24 0 0 0 - 0 0 - 0 2 0.0 0 6 6 1 0 0 2 4 -5
+p458
+aVMarko Jaric MIN 01/16/2006 MIN @ NYK W 37 11 5 10 50.0 1 3 33.3 0 0 - 0 0 0 6 0 1 1 3 20
+p459
+aVRashad McCants MIN 01/16/2006 MIN @ NYK W 14 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 0 0 0 1 1 -7
+p460
+aVAnthony Carter MIN 01/16/2006 MIN @ NYK W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p461
+aVWally Szczerbiak MIN 01/16/2006 MIN @ NYK W 41 24 10 18 55.6 1 3 33.3 3 3 100.0 0 8 8 4 1 0 1 2 14
+p462
+aVEddie Griffin MIN 01/16/2006 MIN @ NYK W 23 5 1 7 14.3 0 2 0.0 3 4 75.0 6 0 6 0 0 3 0 2 7
+p463
+aVTroy Hudson MIN 01/16/2006 MIN @ NYK W 24 16 6 13 46.2 2 6 33.3 2 3 66.7 0 2 2 0 0 0 0 1 -8
+p464
+aVKevin Garnett MIN 01/16/2006 MIN @ NYK W 39 24 7 13 53.8 0 0 - 10 11 90.9 6 10 16 6 1 1 4 2 0
+p465
+aVTroy Hudson MIN 01/13/2006 MIN vs. DEN W 25 8 3 11 27.3 2 5 40.0 0 0 - 0 1 1 6 0 1 0 0 -6
+p466
+aVMark Madsen MIN 01/13/2006 MIN vs. DEN W 18 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 1 5
+p467
+aVMarko Jaric MIN 01/13/2006 MIN vs. DEN W 35 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 10 2 0 3 3 17
+p468
+aVRonald Dupree MIN 01/13/2006 MIN vs. DEN W 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p469
+aVRashad McCants MIN 01/13/2006 MIN vs. DEN W 19 11 5 6 83.3 1 1 100.0 0 0 - 2 4 6 2 0 1 1 1 -3
+p470
+aVWally Szczerbiak MIN 01/13/2006 MIN vs. DEN W 41 28 11 20 55.0 3 6 50.0 3 3 100.0 0 5 5 4 0 0 1 2 17
+p471
+aVEddie Griffin MIN 01/13/2006 MIN vs. DEN W 21 6 3 8 37.5 0 0 - 0 2 0.0 2 7 9 1 0 3 1 1 8
+p472
+aVNikoloz Tskitishvili MIN 01/13/2006 MIN vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p473
+aVKevin Garnett MIN 01/13/2006 MIN vs. DEN W 40 31 14 17 82.4 0 0 - 3 4 75.0 1 14 15 6 0 0 3 1 14
+p474
+aVTrenton Hassell MIN 01/13/2006 MIN vs. DEN W 38 10 4 7 57.1 0 0 - 2 3 66.7 2 1 3 4 0 0 1 2 16
+p475
+aVKevin Garnett MIN 01/11/2006 MIN vs. CHI W 40 28 9 19 47.4 0 0 - 10 11 90.9 3 11 14 9 1 1 1 2 5
+p476
+aVRashad McCants MIN 01/11/2006 MIN vs. CHI W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p477
+aVMarko Jaric MIN 01/11/2006 MIN vs. CHI W 38 9 3 13 23.1 0 2 0.0 3 4 75.0 1 2 3 2 0 1 3 2 7
+p478
+aVAnthony Carter MIN 01/11/2006 MIN vs. CHI W 16 7 2 3 66.7 0 0 - 3 4 75.0 0 4 4 2 1 1 0 1 1
+p479
+aVTroy Hudson MIN 01/11/2006 MIN vs. CHI W 23 12 4 10 40.0 2 3 66.7 2 2 100.0 0 0 0 2 1 0 0 1 6
+p480
+aVWally Szczerbiak MIN 01/11/2006 MIN vs. CHI W 41 25 6 12 50.0 2 2 100.0 11 12 91.7 3 6 9 5 0 0 3 4 9
+p481
+aVMark Madsen MIN 01/11/2006 MIN vs. CHI W 16 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 2 0 1 6 6
+p482
+aVEddie Griffin MIN 01/11/2006 MIN vs. CHI W 22 3 1 7 14.3 0 1 0.0 1 1 100.0 1 8 9 1 0 2 0 3 -2
+p483
+aVTrenton Hassell MIN 01/11/2006 MIN vs. CHI W 38 14 5 10 50.0 0 0 - 4 8 50.0 2 1 3 0 0 0 2 2 0
+p484
+aVKevin Garnett MIN 01/10/2006 MIN @ MIL L 39 14 6 13 46.2 0 0 - 2 4 50.0 1 12 13 4 0 1 3 2 5
+p485
+aVWally Szczerbiak MIN 01/10/2006 MIN @ MIL L 32 20 7 13 53.8 2 4 50.0 4 4 100.0 1 4 5 2 0 1 6 4 1
+p486
+aVRashad McCants MIN 01/10/2006 MIN @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -9
+p487
+aVEddie Griffin MIN 01/10/2006 MIN @ MIL L 19 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 0 0 5 1 1 2
+p488
+aVTrenton Hassell MIN 01/10/2006 MIN @ MIL L 40 14 6 8 75.0 0 0 - 2 2 100.0 2 3 5 4 1 0 2 2 1
+p489
+aVMichael Olowokandi MIN 01/10/2006 MIN @ MIL L 19 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 1 1 1 5 -9
+p490
+aVTroy Hudson MIN 01/10/2006 MIN @ MIL L 21 13 5 11 45.5 2 3 66.7 1 1 100.0 0 1 1 3 0 0 2 2 -6
+p491
+aVMarko Jaric MIN 01/10/2006 MIN @ MIL L 40 21 8 11 72.7 1 3 33.3 4 5 80.0 0 3 3 6 2 0 2 2 8
+p492
+aVRichie Frahm MIN 01/10/2006 MIN @ MIL L 17 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 0
+p493
+aVRonald Dupree MIN 01/10/2006 MIN @ MIL L 7 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 0 1 -7
+p494
+aVMark Madsen MIN 01/10/2006 MIN @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p495
+aVWally Szczerbiak MIN 01/07/2006 MIN @ DAL L 44 25 9 18 50.0 3 7 42.9 4 4 100.0 2 8 10 1 0 0 6 2 -4
+p496
+aVMarko Jaric MIN 01/07/2006 MIN @ DAL L 37 6 3 9 33.3 0 4 0.0 0 0 - 0 2 2 6 2 2 3 6 -7
+p497
+aVRashad McCants MIN 01/07/2006 MIN @ DAL L 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -8
+p498
+aVKevin Garnett MIN 01/07/2006 MIN @ DAL L 41 26 11 16 68.8 0 1 0.0 4 6 66.7 1 10 11 2 0 2 4 4 3
+p499
+aVTroy Hudson MIN 01/07/2006 MIN @ DAL L 20 5 2 8 25.0 0 2 0.0 1 1 100.0 0 0 0 1 0 0 2 2 -5
+p500
+aVMichael Olowokandi MIN 01/07/2006 MIN @ DAL L 15 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 0 0 2 3 -12
+p501
+aVTrenton Hassell MIN 01/07/2006 MIN @ DAL L 44 10 5 10 50.0 0 1 0.0 0 0 - 1 2 3 3 2 1 1 3 5
+p502
+aVMark Madsen MIN 01/07/2006 MIN @ DAL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p503
+aVEddie Griffin MIN 01/07/2006 MIN @ DAL L 23 3 1 1 100.0 0 0 - 1 2 50.0 0 5 5 0 0 1 0 2 7
+p504
+aVRichie Frahm MIN 01/07/2006 MIN @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p505
+aVRashad McCants MIN 01/06/2006 MIN @ SAS L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 2 -2
+p506
+aVTroy Hudson MIN 01/06/2006 MIN @ SAS L 32 8 3 12 25.0 1 1 100.0 1 1 100.0 0 2 2 1 1 0 1 3 -2
+p507
+aVMarko Jaric MIN 01/06/2006 MIN @ SAS L 40 16 6 16 37.5 2 3 66.7 2 4 50.0 2 4 6 4 2 0 6 4 -7
+p508
+aVTrenton Hassell MIN 01/06/2006 MIN @ SAS L 31 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 0 -5
+p509
+aVKevin Garnett MIN 01/06/2006 MIN @ SAS L 37 18 6 15 40.0 0 1 0.0 6 6 100.0 4 13 17 3 2 0 4 6 -3
+p510
+aVWally Szczerbiak MIN 01/06/2006 MIN @ SAS L 45 15 6 12 50.0 1 2 50.0 2 3 66.7 0 3 3 2 0 1 1 2 -6
+p511
+aVAnthony Carter MIN 01/06/2006 MIN @ SAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 0 5
+p512
+aVEddie Griffin MIN 01/06/2006 MIN @ SAS L 14 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 2 1 1 0 -4
+p513
+aVMichael Olowokandi MIN 01/06/2006 MIN @ SAS L 27 7 3 5 60.0 0 0 - 1 2 50.0 1 5 6 0 1 1 1 3 -6
+p514
+aVTroy Hudson MIN 01/04/2006 MIN vs. DAL W 22 7 2 10 20.0 0 1 0.0 3 3 100.0 1 1 2 2 2 0 0 2 3
+p515
+aVNikoloz Tskitishvili MIN 01/04/2006 MIN vs. DAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p516
+aVKevin Garnett MIN 01/04/2006 MIN vs. DAL W 37 23 7 11 63.6 0 0 - 9 10 90.0 2 8 10 5 3 2 0 2 18
+p517
+aVTrenton Hassell MIN 01/04/2006 MIN vs. DAL W 37 14 5 9 55.6 1 2 50.0 3 4 75.0 2 1 3 1 1 0 2 1 18
+p518
+aVMarko Jaric MIN 01/04/2006 MIN vs. DAL W 42 22 9 19 47.4 0 2 0.0 4 6 66.7 1 5 6 4 2 2 2 3 17
+p519
+aVEddie Griffin MIN 01/04/2006 MIN vs. DAL W 22 5 2 5 40.0 0 0 - 1 2 50.0 3 5 8 1 0 2 0 1 6
+p520
+aVWally Szczerbiak MIN 01/04/2006 MIN vs. DAL W 44 20 8 14 57.1 0 2 0.0 4 4 100.0 0 5 5 2 0 1 3 3 11
+p521
+aVRashad McCants MIN 01/04/2006 MIN vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 2
+p522
+aVRonald Dupree MIN 01/04/2006 MIN vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p523
+aVAnthony Carter MIN 01/04/2006 MIN vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p524
+aVMichael Olowokandi MIN 01/04/2006 MIN vs. DAL W 21 0 0 0 - 0 0 - 0 0 - 1 3 4 1 0 0 2 5 4
+p525
+aVRichie Frahm MIN 01/04/2006 MIN vs. DAL W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -5
+p526
+aVMark Madsen MIN 01/01/2006 MIN @ MIA L 5 0 0 0 - 0 0 - 0 0 - 3 0 3 0 1 0 0 3 3
+p527
+aVRonald Dupree MIN 01/01/2006 MIN @ MIA L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 4
+p528
+aVWally Szczerbiak MIN 01/01/2006 MIN @ MIA L 35 19 7 17 41.2 3 5 60.0 2 4 50.0 1 1 2 1 0 1 4 2 -21
+p529
+aVEddie Griffin MIN 01/01/2006 MIN @ MIA L 23 9 4 5 80.0 0 1 0.0 1 2 50.0 0 2 2 0 0 3 0 2 -21
+p530
+aVAnthony Carter MIN 01/01/2006 MIN @ MIA L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -11
+p531
+aVTrenton Hassell MIN 01/01/2006 MIN @ MIA L 26 2 1 6 16.7 0 0 - 0 0 - 1 0 1 2 0 0 2 4 -19
+p532
+aVRichie Frahm MIN 01/01/2006 MIN @ MIA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p533
+aVTroy Hudson MIN 01/01/2006 MIN @ MIA L 19 2 1 9 11.1 0 3 0.0 0 0 - 0 1 1 3 0 0 0 0 -22
+p534
+aVMichael Olowokandi MIN 01/01/2006 MIN @ MIA L 20 6 3 5 60.0 0 0 - 0 0 - 7 2 9 1 1 1 1 1 -9
+p535
+aVRashad McCants MIN 01/01/2006 MIN @ MIA L 23 13 4 14 28.6 3 5 60.0 2 4 50.0 0 4 4 1 0 0 2 2 3
+p536
+aVKevin Garnett MIN 01/01/2006 MIN @ MIA L 38 11 4 13 30.8 0 0 - 3 3 100.0 1 10 11 3 2 2 3 2 -31
+p537
+aVMarko Jaric MIN 01/01/2006 MIN @ MIA L 29 6 1 5 20.0 0 1 0.0 4 4 100.0 1 1 2 6 2 0 1 3 -14
+p538
+aVTroy Hudson MIN 12/30/2005 MIN @ ORL L 8 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -8
+p539
+aVKevin Garnett MIN 12/30/2005 MIN @ ORL L 43 29 11 15 73.3 0 0 - 7 7 100.0 2 9 11 4 3 3 3 3 -14
+p540
+aVRonald Dupree MIN 12/30/2005 MIN @ ORL L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p541
+aVMark Madsen MIN 12/30/2005 MIN @ ORL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p542
+aVMarko Jaric MIN 12/30/2005 MIN @ ORL L 29 7 2 6 33.3 0 1 0.0 3 4 75.0 0 1 1 4 1 1 3 4 -10
+p543
+aVWally Szczerbiak MIN 12/30/2005 MIN @ ORL L 43 24 9 18 50.0 2 6 33.3 4 6 66.7 0 4 4 6 0 0 1 0 -16
+p544
+aVRichie Frahm MIN 12/30/2005 MIN @ ORL L 15 5 2 5 40.0 1 4 25.0 0 0 - 0 0 0 0 0 0 0 3 4
+p545
+aVTrenton Hassell MIN 12/30/2005 MIN @ ORL L 43 9 3 5 60.0 1 1 100.0 2 6 33.3 1 1 2 2 1 1 1 3 -14
+p546
+aVEddie Griffin MIN 12/30/2005 MIN @ ORL L 18 5 2 8 25.0 1 5 20.0 0 0 - 2 1 3 1 0 2 1 2 -9
+p547
+aVRashad McCants MIN 12/30/2005 MIN @ ORL L 17 4 1 6 16.7 0 2 0.0 2 3 66.7 0 3 3 0 1 1 3 1 -18
+p548
+aVAnthony Carter MIN 12/30/2005 MIN @ ORL L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 5 4 -4
+p549
+aVNikoloz Tskitishvili MIN 12/30/2005 MIN @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p550
+aVWally Szczerbiak MIN 12/28/2005 MIN vs. SEA W 42 30 12 18 66.7 3 5 60.0 3 3 100.0 1 1 2 5 0 1 3 1 20
+p551
+aVKevin Garnett MIN 12/28/2005 MIN vs. SEA W 36 26 10 13 76.9 0 0 - 6 9 66.7 4 6 10 6 4 1 1 6 16
+p552
+aVTrenton Hassell MIN 12/28/2005 MIN vs. SEA W 36 8 4 9 44.4 0 0 - 0 0 - 0 2 2 2 0 1 4 2 -1
+p553
+aVMarko Jaric MIN 12/28/2005 MIN vs. SEA W 33 8 4 8 50.0 0 1 0.0 0 2 0.0 0 2 2 10 3 1 0 3 19
+p554
+aVMark Madsen MIN 12/28/2005 MIN vs. SEA W 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 4 -14
+p555
+aVNikoloz Tskitishvili MIN 12/28/2005 MIN vs. SEA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p556
+aVTroy Hudson MIN 12/28/2005 MIN vs. SEA W 26 5 2 8 25.0 0 2 0.0 1 1 100.0 0 2 2 6 0 0 2 2 -2
+p557
+aVEddie Griffin MIN 12/28/2005 MIN vs. SEA W 38 22 8 11 72.7 2 4 50.0 4 9 44.4 1 11 12 2 2 4 1 4 30
+p558
+aVRonald Dupree MIN 12/28/2005 MIN vs. SEA W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p559
+aVRashad McCants MIN 12/28/2005 MIN vs. SEA W 10 7 2 5 40.0 1 1 100.0 2 4 50.0 0 2 2 0 0 0 3 2 0
+p560
+aVEddie Griffin MIN 12/26/2005 MIN vs. PHX L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 1 0 2 -2
+p561
+aVMarko Jaric MIN 12/26/2005 MIN vs. PHX L 28 2 1 7 14.3 0 2 0.0 0 0 - 1 3 4 6 2 0 3 4 -24
+p562
+aVRonald Dupree MIN 12/26/2005 MIN vs. PHX L 13 4 2 3 66.7 0 0 - 0 2 0.0 0 3 3 1 0 0 0 1 -5
+p563
+aVMark Madsen MIN 12/26/2005 MIN vs. PHX L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -6
+p564
+aVTroy Hudson MIN 12/26/2005 MIN vs. PHX L 35 12 6 15 40.0 0 0 - 0 0 - 0 2 2 4 0 0 1 2 2
+p565
+aVRichie Frahm MIN 12/26/2005 MIN vs. PHX L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p566
+aVTrenton Hassell MIN 12/26/2005 MIN vs. PHX L 37 14 5 12 41.7 0 0 - 4 4 100.0 1 0 1 1 0 0 0 1 -3
+p567
+aVKevin Garnett MIN 12/26/2005 MIN vs. PHX L 44 26 10 22 45.5 0 1 0.0 6 8 75.0 7 12 19 3 1 1 2 2 -20
+p568
+aVRashad McCants MIN 12/26/2005 MIN vs. PHX L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 1 5
+p569
+aVAnthony Carter MIN 12/26/2005 MIN vs. PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p570
+aVWally Szczerbiak MIN 12/26/2005 MIN vs. PHX L 48 27 12 21 57.1 3 5 60.0 0 0 - 1 4 5 3 1 1 5 5 -14
+p571
+aVTroy Hudson MIN 12/23/2005 MIN vs. POR L 23 5 2 9 22.2 0 3 0.0 1 1 100.0 0 0 0 3 0 0 1 3 -15
+p572
+aVWally Szczerbiak MIN 12/23/2005 MIN vs. POR L 41 26 8 16 50.0 3 6 50.0 7 7 100.0 1 3 4 3 0 0 1 4 -5
+p573
+aVMark Madsen MIN 12/23/2005 MIN vs. POR L 22 0 0 3 0.0 0 0 - 0 0 - 2 4 6 0 1 1 1 4 -2
+p574
+aVRichie Frahm MIN 12/23/2005 MIN vs. POR L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p575
+aVRashad McCants MIN 12/23/2005 MIN vs. POR L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -4
+p576
+aVMichael Olowokandi MIN 12/23/2005 MIN vs. POR L 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 2 2 6 -3
+p577
+aVMarko Jaric MIN 12/23/2005 MIN vs. POR L 40 12 6 17 35.3 0 2 0.0 0 1 0.0 1 2 3 5 5 0 1 3 -4
+p578
+aVKevin Garnett MIN 12/23/2005 MIN vs. POR L 40 24 9 15 60.0 1 2 50.0 5 5 100.0 2 6 8 6 1 2 2 2 -1
+p579
+aVTrenton Hassell MIN 12/23/2005 MIN vs. POR L 30 12 5 8 62.5 0 0 - 2 2 100.0 0 1 1 3 0 0 0 3 1
+p580
+aVEddie Griffin MIN 12/23/2005 MIN vs. POR L 20 0 0 4 0.0 0 0 - 0 0 - 0 6 6 1 0 0 2 1 -8
+p581
+aVAnthony Carter MIN 12/21/2005 MIN vs. NOK W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 1 0 0 -6
+p582
+aVWally Szczerbiak MIN 12/21/2005 MIN vs. NOK W 36 21 8 15 53.3 2 4 50.0 3 3 100.0 0 4 4 2 2 1 3 1 22
+p583
+aVMarko Jaric MIN 12/21/2005 MIN vs. NOK W 29 10 4 6 66.7 1 1 100.0 1 1 100.0 0 3 3 5 1 0 2 2 24
+p584
+aVKevin Garnett MIN 12/21/2005 MIN vs. NOK W 30 17 7 11 63.6 0 0 - 3 5 60.0 1 6 7 9 0 1 1 3 18
+p585
+aVMark Madsen MIN 12/21/2005 MIN vs. NOK W 16 0 0 1 0.0 0 0 - 0 0 - 1 4 5 1 1 1 0 2 -1
+p586
+aVEddie Griffin MIN 12/21/2005 MIN vs. NOK W 22 6 2 10 20.0 0 2 0.0 2 4 50.0 1 5 6 1 1 4 1 1 2
+p587
+aVTrenton Hassell MIN 12/21/2005 MIN vs. NOK W 26 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 4 0 1 1 3 18
+p588
+aVRonald Dupree MIN 12/21/2005 MIN vs. NOK W 5 2 0 2 0.0 0 0 - 2 4 50.0 2 0 2 0 1 0 0 0 -4
+p589
+aVMichael Olowokandi MIN 12/21/2005 MIN vs. NOK W 23 5 2 3 66.7 0 0 - 1 3 33.3 1 9 10 1 1 0 0 4 21
+p590
+aVRashad McCants MIN 12/21/2005 MIN vs. NOK W 24 14 6 10 60.0 0 0 - 2 2 100.0 1 5 6 1 0 0 3 4 5
+p591
+aVTroy Hudson MIN 12/21/2005 MIN vs. NOK W 18 6 3 8 37.5 0 0 - 0 0 - 1 0 1 0 0 0 1 3 0
+p592
+aVNikoloz Tskitishvili MIN 12/21/2005 MIN vs. NOK W 5 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -4
+p593
+aVMark Madsen MIN 12/18/2005 MIN @ DAL L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -11
+p594
+aVWally Szczerbiak MIN 12/18/2005 MIN @ DAL L 41 28 11 24 45.8 2 6 33.3 4 4 100.0 0 5 5 1 0 1 2 4 -2
+p595
+aVTroy Hudson MIN 12/18/2005 MIN @ DAL L 28 20 8 16 50.0 1 5 20.0 3 3 100.0 1 1 2 3 1 0 1 2 -19
+p596
+aVEddie Griffin MIN 12/18/2005 MIN @ DAL L 11 6 3 6 50.0 0 1 0.0 0 0 - 4 2 6 0 0 1 0 3 -13
+p597
+aVKevin Garnett MIN 12/18/2005 MIN @ DAL L 37 20 7 13 53.8 0 0 - 6 7 85.7 3 13 16 5 2 1 4 3 -1
+p598
+aVAnthony Carter MIN 12/18/2005 MIN @ DAL L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p599
+aVTrenton Hassell MIN 12/18/2005 MIN @ DAL L 37 10 4 9 44.4 1 1 100.0 1 2 50.0 0 0 0 0 1 0 1 2 5
+p600
+aVMichael Olowokandi MIN 12/18/2005 MIN @ DAL L 27 3 1 5 20.0 0 0 - 1 6 16.7 3 7 10 1 1 0 3 3 10
+p601
+aVRashad McCants MIN 12/18/2005 MIN @ DAL L 5 0 0 5 0.0 0 1 0.0 0 0 - 3 0 3 0 0 0 1 2 -6
+p602
+aVMarko Jaric MIN 12/18/2005 MIN @ DAL L 36 6 3 9 33.3 0 0 - 0 0 - 1 0 1 6 2 0 1 6 1
+p603
+aVMichael Olowokandi MIN 12/15/2005 MIN vs. SAS L 27 7 3 8 37.5 0 0 - 1 2 50.0 2 4 6 0 2 0 1 3 -17
+p604
+aVAnthony Carter MIN 12/15/2005 MIN vs. SAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 6
+p605
+aVTrenton Hassell MIN 12/15/2005 MIN vs. SAS L 32 12 4 8 50.0 0 0 - 4 5 80.0 1 0 1 2 1 0 0 3 3
+p606
+aVWally Szczerbiak MIN 12/15/2005 MIN vs. SAS L 46 23 8 16 50.0 0 2 0.0 7 7 100.0 0 6 6 3 0 0 3 5 1
+p607
+aVEddie Griffin MIN 12/15/2005 MIN vs. SAS L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -9
+p608
+aVRashad McCants MIN 12/15/2005 MIN vs. SAS L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -12
+p609
+aVKevin Garnett MIN 12/15/2005 MIN vs. SAS L 40 24 10 19 52.6 0 0 - 4 4 100.0 5 16 21 6 0 4 2 3 9
+p610
+aVMarko Jaric MIN 12/15/2005 MIN vs. SAS L 40 11 5 13 38.5 0 0 - 1 2 50.0 4 2 6 6 1 0 2 1 2
+p611
+aVTroy Hudson MIN 12/15/2005 MIN vs. SAS L 25 11 4 11 36.4 1 3 33.3 2 2 100.0 0 1 1 3 0 0 1 1 7
+p612
+aVAnthony Carter MIN 12/13/2005 MIN vs. SAC L 24 6 2 7 28.6 0 2 0.0 2 4 50.0 0 2 2 2 2 0 1 1 2
+p613
+aVMark Madsen MIN 12/13/2005 MIN vs. SAC L 20 4 2 2 100.0 0 0 - 0 0 - 3 7 10 0 0 0 0 6 14
+p614
+aVKevin Garnett MIN 12/13/2005 MIN vs. SAC L 38 22 7 18 38.9 0 0 - 8 10 80.0 1 4 5 5 0 0 1 2 -1
+p615
+aVWally Szczerbiak MIN 12/13/2005 MIN vs. SAC L 44 25 9 20 45.0 2 4 50.0 5 5 100.0 4 4 8 4 0 0 0 2 8
+p616
+aVMarko Jaric MIN 12/13/2005 MIN vs. SAC L 38 16 6 15 40.0 1 2 50.0 3 5 60.0 1 5 6 9 3 0 1 3 6
+p617
+aVTrenton Hassell MIN 12/13/2005 MIN vs. SAC L 34 12 6 8 75.0 0 0 - 0 0 - 1 0 1 2 0 0 1 3 -12
+p618
+aVEddie Griffin MIN 12/13/2005 MIN vs. SAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -15
+p619
+aVRashad McCants MIN 12/13/2005 MIN vs. SAC L 7 0 0 6 0.0 0 4 0.0 0 0 - 1 0 1 0 0 0 2 1 -10
+p620
+aVMichael Olowokandi MIN 12/13/2005 MIN vs. SAC L 27 6 3 4 75.0 0 0 - 0 0 - 2 7 9 1 0 0 1 6 -2
+p621
+aVRichie Frahm MIN 12/12/2005 MIN @ PHI L 11 3 1 6 16.7 1 6 16.7 0 0 - 1 2 3 0 0 1 0 0 2
+p622
+aVEddie Griffin MIN 12/12/2005 MIN @ PHI L 18 5 2 6 33.3 1 4 25.0 0 0 - 1 5 6 0 0 2 0 1 -4
+p623
+aVMichael Olowokandi MIN 12/12/2005 MIN @ PHI L 28 8 4 8 50.0 0 0 - 0 0 - 0 10 10 2 2 3 1 2 -1
+p624
+aVAnthony Carter MIN 12/12/2005 MIN @ PHI L 22 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 5 1 1 1 3 -1
+p625
+aVTrenton Hassell MIN 12/12/2005 MIN @ PHI L 40 8 4 11 36.4 0 1 0.0 0 0 - 0 1 1 3 2 0 1 3 6
+p626
+aVKevin Garnett MIN 12/12/2005 MIN @ PHI L 44 19 9 22 40.9 1 1 100.0 0 0 - 1 6 7 4 4 3 4 1 -2
+p627
+aVWally Szczerbiak MIN 12/12/2005 MIN @ PHI L 50 23 8 14 57.1 4 9 44.4 3 3 100.0 0 5 5 4 0 1 3 1 -2
+p628
+aVRashad McCants MIN 12/12/2005 MIN @ PHI L 9 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 0 -3
+p629
+aVMarko Jaric MIN 12/12/2005 MIN @ PHI L 43 14 6 14 42.9 1 3 33.3 1 2 50.0 2 3 5 10 3 0 3 6 0
+p630
+aVMark Madsen MIN 12/10/2005 MIN vs. LAL W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p631
+aVMichael Olowokandi MIN 12/10/2005 MIN vs. LAL W 23 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 1 0 0 3 11
+p632
+aVWally Szczerbiak MIN 12/10/2005 MIN vs. LAL W 41 25 10 15 66.7 2 2 100.0 3 5 60.0 2 5 7 2 2 0 0 2 15
+p633
+aVRashad McCants MIN 12/10/2005 MIN vs. LAL W 7 8 3 6 50.0 1 2 50.0 1 2 50.0 0 0 0 0 1 0 0 3 -2
+p634
+aVAnthony Carter MIN 12/10/2005 MIN vs. LAL W 16 1 0 4 0.0 0 1 0.0 1 2 50.0 0 4 4 2 0 0 0 2 -9
+p635
+aVKevin Garnett MIN 12/10/2005 MIN vs. LAL W 41 30 12 22 54.5 1 1 100.0 5 7 71.4 1 7 8 3 0 2 1 3 17
+p636
+aVMarko Jaric MIN 12/10/2005 MIN vs. LAL W 38 12 4 10 40.0 1 1 100.0 3 6 50.0 2 4 6 9 1 1 2 0 18
+p637
+aVEddie Griffin MIN 12/10/2005 MIN vs. LAL W 24 4 2 8 25.0 0 2 0.0 0 0 - 5 7 12 2 0 4 1 1 1
+p638
+aVTrenton Hassell MIN 12/10/2005 MIN vs. LAL W 42 13 6 10 60.0 0 0 - 1 2 50.0 1 1 2 4 1 1 1 5 18
+p639
+aVTrenton Hassell MIN 12/07/2005 MIN @ POR W 30 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 0 1 0 1 1
+p640
+aVEddie Griffin MIN 12/07/2005 MIN @ POR W 20 8 2 9 22.2 1 2 50.0 3 4 75.0 3 6 9 0 0 2 2 1 -6
+p641
+aVMarko Jaric MIN 12/07/2005 MIN @ POR W 36 19 7 12 58.3 3 5 60.0 2 2 100.0 3 2 5 3 1 0 2 3 12
+p642
+aVMichael Olowokandi MIN 12/07/2005 MIN @ POR W 24 8 4 10 40.0 0 0 - 0 0 - 0 3 3 0 0 1 2 5 5
+p643
+aVRichie Frahm MIN 12/07/2005 MIN @ POR W 12 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -1
+p644
+aVAnthony Carter MIN 12/07/2005 MIN @ POR W 27 7 3 6 50.0 0 1 0.0 1 2 50.0 1 4 5 3 2 0 3 2 15
+p645
+aVKevin Garnett MIN 12/07/2005 MIN @ POR W 40 16 8 15 53.3 0 0 - 0 0 - 4 10 14 4 2 2 1 4 11
+p646
+aVWally Szczerbiak MIN 12/07/2005 MIN @ POR W 39 19 5 10 50.0 1 2 50.0 8 11 72.7 2 2 4 2 1 0 4 3 13
+p647
+aVMark Madsen MIN 12/07/2005 MIN @ POR W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -4
+p648
+aVRashad McCants MIN 12/07/2005 MIN @ POR W 9 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 4
+p649
+aVMarko Jaric MIN 12/05/2005 MIN @ UTA W 29 2 1 6 16.7 0 0 - 0 0 - 0 5 5 5 2 0 1 2 17
+p650
+aVRashad McCants MIN 12/05/2005 MIN @ UTA W 14 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 3 -1
+p651
+aVMichael Olowokandi MIN 12/05/2005 MIN @ UTA W 20 6 3 6 50.0 0 0 - 0 0 - 0 4 4 0 0 0 1 5 5
+p652
+aVTroy Hudson MIN 12/05/2005 MIN @ UTA W 24 9 3 10 30.0 2 3 66.7 1 1 100.0 0 2 2 3 1 0 1 2 6
+p653
+aVMark Madsen MIN 12/05/2005 MIN @ UTA W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -7
+p654
+aVRichie Frahm MIN 12/05/2005 MIN @ UTA W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 0
+p655
+aVWally Szczerbiak MIN 12/05/2005 MIN @ UTA W 35 26 8 16 50.0 3 5 60.0 7 8 87.5 1 3 4 0 0 0 2 1 13
+p656
+aVTrenton Hassell MIN 12/05/2005 MIN @ UTA W 33 5 2 8 25.0 0 0 - 1 1 100.0 1 2 3 0 0 0 2 3 1
+p657
+aVEddie Griffin MIN 12/05/2005 MIN @ UTA W 28 14 6 9 66.7 0 3 0.0 2 2 100.0 3 8 11 1 0 8 1 5 9
+p658
+aVRonald Dupree MIN 12/05/2005 MIN @ UTA W 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 6
+p659
+aVKevin Garnett MIN 12/05/2005 MIN @ UTA W 37 21 8 13 61.5 0 0 - 5 5 100.0 2 4 6 4 3 0 1 2 21
+p660
+aVWally Szczerbiak MIN 12/04/2005 MIN @ SAC W 37 18 9 12 75.0 0 2 0.0 0 0 - 1 8 9 0 0 0 4 2 13
+p661
+aVMarko Jaric MIN 12/04/2005 MIN @ SAC W 35 8 2 7 28.6 1 3 33.3 3 4 75.0 4 2 6 4 4 0 1 4 8
+p662
+aVTrenton Hassell MIN 12/04/2005 MIN @ SAC W 34 10 3 8 37.5 0 0 - 4 5 80.0 1 4 5 4 2 0 1 6 2
+p663
+aVTroy Hudson MIN 12/04/2005 MIN @ SAC W 26 17 6 12 50.0 1 3 33.3 4 4 100.0 0 2 2 3 0 0 1 2 2
+p664
+aVEddie Griffin MIN 12/04/2005 MIN @ SAC W 14 2 1 4 25.0 0 1 0.0 0 0 - 4 2 6 0 0 2 4 1 -3
+p665
+aVMichael Olowokandi MIN 12/04/2005 MIN @ SAC W 21 13 6 13 46.2 0 0 - 1 2 50.0 1 2 3 0 1 1 1 2 6
+p666
+aVRonald Dupree MIN 12/04/2005 MIN @ SAC W 9 4 1 2 50.0 0 0 - 2 4 50.0 1 1 2 0 0 0 3 0 3
+p667
+aVMark Madsen MIN 12/04/2005 MIN @ SAC W 16 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 1
+p668
+aVKevin Garnett MIN 12/04/2005 MIN @ SAC W 40 11 3 14 21.4 0 0 - 5 8 62.5 1 9 10 4 2 0 3 1 13
+p669
+aVRichie Frahm MIN 12/04/2005 MIN @ SAC W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -5
+p670
+aVTroy Hudson MIN 12/02/2005 MIN @ LAL W 27 18 7 13 53.8 3 6 50.0 1 1 100.0 0 0 0 4 2 0 2 1 11
+p671
+aVMichael Olowokandi MIN 12/02/2005 MIN @ LAL W 24 4 2 7 28.6 0 0 - 0 0 - 2 2 4 0 2 0 1 3 -12
+p672
+aVTrenton Hassell MIN 12/02/2005 MIN @ LAL W 34 9 3 6 50.0 1 1 100.0 2 2 100.0 0 1 1 3 0 0 1 3 4
+p673
+aVEddie Griffin MIN 12/02/2005 MIN @ LAL W 18 7 3 7 42.9 0 0 - 1 2 50.0 2 4 6 1 0 1 0 2 -2
+p674
+aVWally Szczerbiak MIN 12/02/2005 MIN @ LAL W 44 34 12 16 75.0 4 5 80.0 6 6 100.0 1 1 2 5 1 0 3 2 11
+p675
+aVRonald Dupree MIN 12/02/2005 MIN @ LAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 6
+p676
+aVKevin Garnett MIN 12/02/2005 MIN @ LAL W 37 29 11 16 68.8 0 0 - 7 8 87.5 1 7 8 4 1 3 2 5 2
+p677
+aVMarko Jaric MIN 12/02/2005 MIN @ LAL W 41 12 4 10 40.0 3 4 75.0 1 2 50.0 0 1 1 4 1 0 0 3 11
+p678
+aVMark Madsen MIN 12/02/2005 MIN @ LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p679
+aVRashad McCants MIN 12/02/2005 MIN @ LAL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -8
+p680
+aVTrenton Hassell MIN 11/29/2005 MIN vs. LAC L 25 4 2 6 33.3 0 0 - 0 0 - 1 2 3 4 0 0 1 1 -2
+p681
+aVMarko Jaric MIN 11/29/2005 MIN vs. LAC L 36 17 6 15 40.0 1 2 50.0 4 5 80.0 2 2 4 6 3 0 1 5 0
+p682
+aVKevin Garnett MIN 11/29/2005 MIN vs. LAC L 44 29 11 18 61.1 0 0 - 7 12 58.3 2 11 13 1 0 2 2 1 -7
+p683
+aVMichael Olowokandi MIN 11/29/2005 MIN vs. LAC L 24 5 2 3 66.7 0 0 - 1 2 50.0 0 6 6 0 0 0 2 2 -4
+p684
+aVTroy Hudson MIN 11/29/2005 MIN vs. LAC L 25 3 1 7 14.3 0 0 - 1 1 100.0 0 1 1 5 1 1 2 1 -8
+p685
+aVRashad McCants MIN 11/29/2005 MIN vs. LAC L 16 5 2 7 28.6 1 2 50.0 0 0 - 0 0 0 0 0 0 1 4 9
+p686
+aVRichie Frahm MIN 11/29/2005 MIN vs. LAC L 10 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 2 0 0 0 1 -8
+p687
+aVEddie Griffin MIN 11/29/2005 MIN vs. LAC L 24 9 4 11 36.4 1 3 33.3 0 0 - 2 12 14 0 0 1 0 1 -5
+p688
+aVWally Szczerbiak MIN 11/29/2005 MIN vs. LAC L 32 10 3 9 33.3 1 2 50.0 3 4 75.0 1 2 3 2 3 0 0 2 -18
+p689
+aVMark Madsen MIN 11/29/2005 MIN vs. LAC L 4 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -2
+p690
+aVMark Madsen MIN 11/26/2005 MIN @ CLE W 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 6
+p691
+aVTrenton Hassell MIN 11/26/2005 MIN @ CLE W 22 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 1 0 4 4 -9
+p692
+aVMichael Olowokandi MIN 11/26/2005 MIN @ CLE W 23 0 0 5 0.0 0 0 - 0 0 - 0 3 3 1 1 1 1 3 -3
+p693
+aVEddie Griffin MIN 11/26/2005 MIN @ CLE W 29 7 3 9 33.3 1 2 50.0 0 0 - 4 8 12 0 1 5 0 2 7
+p694
+aVWally Szczerbiak MIN 11/26/2005 MIN @ CLE W 31 16 5 7 71.4 2 4 50.0 4 6 66.7 1 0 1 2 1 0 1 3 -1
+p695
+aVRichie Frahm MIN 11/26/2005 MIN @ CLE W 13 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 12
+p696
+aVRashad McCants MIN 11/26/2005 MIN @ CLE W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 2
+p697
+aVMarko Jaric MIN 11/26/2005 MIN @ CLE W 41 8 4 9 44.4 0 1 0.0 0 0 - 0 4 4 5 0 0 2 4 10
+p698
+aVKevin Garnett MIN 11/26/2005 MIN @ CLE W 35 26 10 14 71.4 0 1 0.0 6 8 75.0 0 11 11 4 0 2 2 2 -2
+p699
+aVTroy Hudson MIN 11/26/2005 MIN @ CLE W 25 18 6 10 60.0 3 4 75.0 3 4 75.0 0 3 3 3 0 1 4 1 2
+p700
+aVRonald Dupree MIN 11/26/2005 MIN @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p701
+aVAnthony Carter MIN 11/26/2005 MIN @ CLE W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -2
+p702
+aVMark Madsen MIN 11/25/2005 MIN vs. MIL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p703
+aVEddie Griffin MIN 11/25/2005 MIN vs. MIL W 23 4 2 3 66.7 0 0 - 0 3 0.0 2 7 9 2 0 4 0 0 12
+p704
+aVWally Szczerbiak MIN 11/25/2005 MIN vs. MIL W 40 30 10 16 62.5 1 2 50.0 9 10 90.0 0 6 6 6 1 2 3 3 11
+p705
+aVMichael Olowokandi MIN 11/25/2005 MIN vs. MIL W 24 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 0 1 0 3 -6
+p706
+aVMarko Jaric MIN 11/25/2005 MIN vs. MIL W 39 24 10 15 66.7 3 5 60.0 1 1 100.0 0 1 1 5 3 0 2 4 5
+p707
+aVRonald Dupree MIN 11/25/2005 MIN vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p708
+aVTrenton Hassell MIN 11/25/2005 MIN vs. MIL W 38 12 4 7 57.1 0 0 - 4 7 57.1 1 2 3 2 0 2 0 4 -1
+p709
+aVTroy Hudson MIN 11/25/2005 MIN vs. MIL W 19 10 4 9 44.4 1 3 33.3 1 1 100.0 0 0 0 2 0 0 2 2 14
+p710
+aVKevin Garnett MIN 11/25/2005 MIN vs. MIL W 39 17 6 15 40.0 0 0 - 5 5 100.0 3 9 12 6 0 1 2 0 12
+p711
+aVRichie Frahm MIN 11/25/2005 MIN vs. MIL W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 5
+p712
+aVRashad McCants MIN 11/25/2005 MIN vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p713
+aVMichael Olowokandi MIN 11/23/2005 MIN @ NOK L 36 11 5 10 50.0 0 0 - 1 2 50.0 1 7 8 0 1 2 1 1 -3
+p714
+aVMarko Jaric MIN 11/23/2005 MIN @ NOK L 18 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 2 1 0 4 3 -9
+p715
+aVMark Madsen MIN 11/23/2005 MIN @ NOK L 10 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 0 0 4 1
+p716
+aVAnthony Carter MIN 11/23/2005 MIN @ NOK L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 -7
+p717
+aVKevin Garnett MIN 11/23/2005 MIN @ NOK L 43 24 8 19 42.1 0 1 0.0 8 9 88.9 2 9 11 5 2 1 3 4 -12
+p718
+aVEddie Griffin MIN 11/23/2005 MIN @ NOK L 7 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 2 0 5 6
+p719
+aVTrenton Hassell MIN 11/23/2005 MIN @ NOK L 25 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 1 0 0 0 2 -3
+p720
+aVWally Szczerbiak MIN 11/23/2005 MIN @ NOK L 39 8 4 10 40.0 0 1 0.0 0 1 0.0 1 6 7 0 1 0 2 1 -1
+p721
+aVRichie Frahm MIN 11/23/2005 MIN @ NOK L 13 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 0
+p722
+aVRashad McCants MIN 11/23/2005 MIN @ NOK L 8 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 1 0 0 1 2 3
+p723
+aVTroy Hudson MIN 11/23/2005 MIN @ NOK L 30 17 6 16 37.5 4 7 57.1 1 2 50.0 0 3 3 2 0 0 0 1 5
+p724
+aVMarko Jaric MIN 11/19/2005 MIN vs. CHA W 20 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 2 1 0 3 4 10
+p725
+aVKevin Garnett MIN 11/19/2005 MIN vs. CHA W 32 19 8 16 50.0 0 0 - 3 5 60.0 2 9 11 5 2 0 4 0 15
+p726
+aVRonald Dupree MIN 11/19/2005 MIN vs. CHA W 6 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -9
+p727
+aVAnthony Carter MIN 11/19/2005 MIN vs. CHA W 8 4 2 3 66.7 0 0 - 0 0 - 2 1 3 2 0 0 0 3 -10
+p728
+aVRashad McCants MIN 11/19/2005 MIN vs. CHA W 25 11 4 8 50.0 1 1 100.0 2 2 100.0 0 4 4 1 2 1 3 2 -1
+p729
+aVTrenton Hassell MIN 11/19/2005 MIN vs. CHA W 21 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 2 0 0 0 2 7
+p730
+aVWally Szczerbiak MIN 11/19/2005 MIN vs. CHA W 23 15 5 12 41.7 0 0 - 5 6 83.3 2 1 3 1 0 0 0 0 14
+p731
+aVEddie Griffin MIN 11/19/2005 MIN vs. CHA W 19 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 1 2 1 0
+p732
+aVMichael Olowokandi MIN 11/19/2005 MIN vs. CHA W 29 18 9 14 64.3 0 0 - 0 2 0.0 1 7 8 2 1 4 2 5 9
+p733
+aVTroy Hudson MIN 11/19/2005 MIN vs. CHA W 20 13 4 8 50.0 2 4 50.0 3 3 100.0 0 0 0 3 0 0 3 4 13
+p734
+aVRichie Frahm MIN 11/19/2005 MIN vs. CHA W 20 4 2 4 50.0 0 2 0.0 0 1 0.0 0 3 3 3 1 0 1 3 15
+p735
+aVMark Madsen MIN 11/19/2005 MIN vs. CHA W 17 3 1 1 100.0 0 0 - 1 4 25.0 1 2 3 0 1 0 0 3 2
+p736
+aVMichael Olowokandi MIN 11/17/2005 MIN vs. WAS W 28 14 5 11 45.5 0 0 - 4 4 100.0 0 6 6 0 1 1 2 2 2
+p737
+aVRashad McCants MIN 11/17/2005 MIN vs. WAS W 11 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 0 8
+p738
+aVTroy Hudson MIN 11/17/2005 MIN vs. WAS W 26 16 6 14 42.9 2 4 50.0 2 2 100.0 1 3 4 7 0 0 3 5 15
+p739
+aVEddie Griffin MIN 11/17/2005 MIN vs. WAS W 19 4 2 5 40.0 0 0 - 0 0 - 3 5 8 2 0 2 1 2 5
+p740
+aVTrenton Hassell MIN 11/17/2005 MIN vs. WAS W 23 7 3 4 75.0 0 0 - 1 2 50.0 3 0 3 2 0 1 1 3 -11
+p741
+aVMark Madsen MIN 11/17/2005 MIN vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p742
+aVWally Szczerbiak MIN 11/17/2005 MIN vs. WAS W 35 17 7 16 43.8 1 2 50.0 2 2 100.0 2 5 7 5 0 0 3 2 8
+p743
+aVKevin Garnett MIN 11/17/2005 MIN vs. WAS W 44 25 12 19 63.2 0 1 0.0 1 2 50.0 1 12 13 9 1 0 0 2 14
+p744
+aVRichie Frahm MIN 11/17/2005 MIN vs. WAS W 22 16 6 7 85.7 4 5 80.0 0 0 - 0 2 2 1 1 0 0 2 13
+p745
+aVMarko Jaric MIN 11/17/2005 MIN vs. WAS W 27 10 5 10 50.0 0 1 0.0 0 0 - 0 2 2 1 1 1 3 1 2
+p746
+aVAnthony Carter MIN 11/15/2005 MIN vs. HOU L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p747
+aVWally Szczerbiak MIN 11/15/2005 MIN vs. HOU L 32 12 5 14 35.7 0 5 0.0 2 3 66.7 0 5 5 4 1 0 0 3 4
+p748
+aVTrenton Hassell MIN 11/15/2005 MIN vs. HOU L 29 9 3 5 60.0 0 0 - 3 3 100.0 0 0 0 1 1 1 2 3 7
+p749
+aVRichie Frahm MIN 11/15/2005 MIN vs. HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p750
+aVKevin Garnett MIN 11/15/2005 MIN vs. HOU L 39 25 9 16 56.3 1 2 50.0 6 7 85.7 1 3 4 4 1 1 2 6 3
+p751
+aVMark Madsen MIN 11/15/2005 MIN vs. HOU L 13 2 0 0 - 0 0 - 2 6 33.3 3 2 5 0 0 0 0 1 -10
+p752
+aVMichael Olowokandi MIN 11/15/2005 MIN vs. HOU L 31 10 3 8 37.5 0 0 - 4 5 80.0 4 2 6 1 1 1 1 4 6
+p753
+aVMarko Jaric MIN 11/15/2005 MIN vs. HOU L 26 5 0 3 0.0 0 2 0.0 5 6 83.3 1 3 4 7 2 0 2 2 5
+p754
+aVRashad McCants MIN 11/15/2005 MIN vs. HOU L 15 8 3 9 33.3 0 4 0.0 2 2 100.0 0 2 2 0 1 0 1 1 -10
+p755
+aVTroy Hudson MIN 11/15/2005 MIN vs. HOU L 22 7 2 8 25.0 1 3 33.3 2 2 100.0 0 1 1 4 0 0 0 1 -10
+p756
+aVRonald Dupree MIN 11/15/2005 MIN vs. HOU L 14 4 2 2 100.0 0 0 - 0 1 0.0 1 3 4 1 0 0 2 6 -10
+p757
+aVEddie Griffin MIN 11/15/2005 MIN vs. HOU L 12 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 0 0 1 0 2 -9
+p758
+aVMark Madsen MIN 11/13/2005 MIN @ DEN L 20 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 0 0 4 3
+p759
+aVRonald Dupree MIN 11/13/2005 MIN @ DEN L 15 6 3 5 60.0 0 0 - 0 2 0.0 2 4 6 1 0 0 0 3 1
+p760
+aVMichael Olowokandi MIN 11/13/2005 MIN @ DEN L 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -9
+p761
+aVAnthony Carter MIN 11/13/2005 MIN @ DEN L 14 2 1 4 25.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 1 -4
+p762
+aVMarko Jaric MIN 11/13/2005 MIN @ DEN L 23 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 5 0 0 2 2 -8
+p763
+aVTrenton Hassell MIN 11/13/2005 MIN @ DEN L 29 8 3 11 27.3 0 0 - 2 2 100.0 1 2 3 3 3 0 1 2 -8
+p764
+aVWally Szczerbiak MIN 11/13/2005 MIN @ DEN L 27 20 7 13 53.8 4 5 80.0 2 2 100.0 0 1 1 5 1 0 0 3 -14
+p765
+aVRichie Frahm MIN 11/13/2005 MIN @ DEN L 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 1 0
+p766
+aVRashad McCants MIN 11/13/2005 MIN @ DEN L 18 14 5 9 55.6 0 1 0.0 4 4 100.0 2 0 2 1 1 1 0 0 0
+p767
+aVKevin Garnett MIN 11/13/2005 MIN @ DEN L 39 19 8 15 53.3 0 0 - 3 4 75.0 1 8 9 3 3 1 3 3 -12
+p768
+aVTroy Hudson MIN 11/13/2005 MIN @ DEN L 20 10 3 8 37.5 1 4 25.0 3 3 100.0 0 0 0 2 1 1 1 0 -1
+p769
+aVEddie Griffin MIN 11/13/2005 MIN @ DEN L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 1 -3
+p770
+aVAnthony Carter MIN 11/09/2005 MIN vs. LAL W 13 5 1 2 50.0 1 1 100.0 2 2 100.0 0 2 2 2 2 1 0 1 16
+p771
+aVMarko Jaric MIN 11/09/2005 MIN vs. LAL W 18 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 5 2 0 3 1 -8
+p772
+aVTroy Hudson MIN 11/09/2005 MIN vs. LAL W 21 10 3 8 37.5 0 1 0.0 4 4 100.0 0 0 0 6 0 0 2 1 14
+p773
+aVMichael Olowokandi MIN 11/09/2005 MIN vs. LAL W 17 6 3 6 50.0 0 0 - 0 0 - 3 2 5 0 0 0 1 4 -10
+p774
+aVKevin Garnett MIN 11/09/2005 MIN vs. LAL W 41 17 8 16 50.0 0 0 - 1 3 33.3 2 13 15 4 1 1 3 3 14
+p775
+aVRonald Dupree MIN 11/09/2005 MIN vs. LAL W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p776
+aVEddie Griffin MIN 11/09/2005 MIN vs. LAL W 30 13 5 13 38.5 2 8 25.0 1 1 100.0 3 5 8 1 0 4 1 3 24
+p777
+aVRashad McCants MIN 11/09/2005 MIN vs. LAL W 17 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 1 1 0 1 2 7
+p778
+aVWally Szczerbiak MIN 11/09/2005 MIN vs. LAL W 40 13 4 12 33.3 0 1 0.0 5 5 100.0 0 1 1 2 0 1 0 2 6
+p779
+aVMark Madsen MIN 11/09/2005 MIN vs. LAL W 7 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 1 1 0
+p780
+aVTrenton Hassell MIN 11/09/2005 MIN vs. LAL W 31 14 5 7 71.4 0 0 - 4 4 100.0 0 3 3 1 0 1 1 5 10
+p781
+aVEddie Griffin MIN 11/07/2005 MIN vs. LAC W 13 3 1 3 33.3 0 1 0.0 1 2 50.0 1 2 3 0 0 0 0 3 0
+p782
+aVTrenton Hassell MIN 11/07/2005 MIN vs. LAC W 25 9 3 7 42.9 0 0 - 3 4 75.0 0 1 1 2 1 1 4 0 18
+p783
+aVAnthony Carter MIN 11/07/2005 MIN vs. LAC W 14 11 5 6 83.3 0 0 - 1 1 100.0 0 1 1 1 0 0 0 3 11
+p784
+aVKevin Garnett MIN 11/07/2005 MIN vs. LAC W 36 22 8 11 72.7 0 0 - 6 7 85.7 1 10 11 8 3 2 3 4 23
+p785
+aVTroy Hudson MIN 11/07/2005 MIN vs. LAC W 22 9 4 8 50.0 0 2 0.0 1 1 100.0 1 0 1 2 1 0 0 3 -8
+p786
+aVWally Szczerbiak MIN 11/07/2005 MIN vs. LAC W 34 15 5 16 31.3 1 4 25.0 4 4 100.0 0 4 4 3 0 0 1 0 12
+p787
+aVMarko Jaric MIN 11/07/2005 MIN vs. LAC W 39 8 4 8 50.0 0 2 0.0 0 0 - 0 4 4 6 1 2 2 2 17
+p788
+aVRashad McCants MIN 11/07/2005 MIN vs. LAC W 8 6 3 3 100.0 0 0 - 0 2 0.0 0 0 0 0 1 1 1 2 -1
+p789
+aVMark Madsen MIN 11/07/2005 MIN vs. LAC W 19 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 1 1 2 3
+p790
+aVMichael Olowokandi MIN 11/07/2005 MIN vs. LAC W 24 10 5 8 62.5 0 0 - 0 0 - 0 4 4 0 0 2 0 3 6
+p791
+aVRichie Frahm MIN 11/07/2005 MIN vs. LAC W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p792
+aVWally Szczerbiak MIN 11/05/2005 MIN @ LAC L 36 4 1 6 16.7 0 0 - 2 2 100.0 0 1 1 3 0 0 3 1 -3
+p793
+aVRashad McCants MIN 11/05/2005 MIN @ LAC L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p794
+aVTrenton Hassell MIN 11/05/2005 MIN @ LAC L 26 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -11
+p795
+aVTroy Hudson MIN 11/05/2005 MIN @ LAC L 26 21 8 12 66.7 2 5 40.0 3 3 100.0 0 2 2 3 0 0 1 1 8
+p796
+aVMarko Jaric MIN 11/05/2005 MIN @ LAC L 38 8 3 9 33.3 0 1 0.0 2 3 66.7 1 3 4 8 0 0 1 5 7
+p797
+aVEddie Griffin MIN 11/05/2005 MIN @ LAC L 24 5 1 6 16.7 0 2 0.0 3 4 75.0 3 6 9 1 1 2 0 3 5
+p798
+aVRichie Frahm MIN 11/05/2005 MIN @ LAC L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 2
+p799
+aVMichael Olowokandi MIN 11/05/2005 MIN @ LAC L 25 13 6 12 50.0 0 0 - 1 1 100.0 2 3 5 1 0 1 0 2 -5
+p800
+aVMark Madsen MIN 11/05/2005 MIN @ LAC L 13 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 2 3
+p801
+aVAnthony Carter MIN 11/05/2005 MIN @ LAC L 24 11 4 8 50.0 0 0 - 3 3 100.0 0 2 2 2 1 0 0 2 1
+p802
+aVKevin Garnett MIN 11/05/2005 MIN @ LAC L 44 25 10 19 52.6 0 0 - 5 9 55.6 1 14 15 3 0 3 0 4 -5
+p803
+aVRichie Frahm MIN 11/04/2005 MIN @ SEA L 21 5 2 6 33.3 1 5 20.0 0 0 - 0 1 1 1 0 0 1 2 -1
+p804
+aVKevin Garnett MIN 11/04/2005 MIN @ SEA L 45 23 9 16 56.3 0 0 - 5 6 83.3 3 4 7 9 3 1 5 3 4
+p805
+aVMarko Jaric MIN 11/04/2005 MIN @ SEA L 38 20 6 11 54.5 4 7 57.1 4 4 100.0 2 1 3 4 1 0 3 1 1
+p806
+aVRonald Dupree MIN 11/04/2005 MIN @ SEA L 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 1 3 -12
+p807
+aVTroy Hudson MIN 11/04/2005 MIN @ SEA L 15 8 3 9 33.3 1 3 33.3 1 2 50.0 0 0 0 1 0 0 0 1 -6
+p808
+aVTrenton Hassell MIN 11/04/2005 MIN @ SEA L 40 8 4 6 66.7 0 0 - 0 1 0.0 0 2 2 4 1 0 1 6 7
+p809
+aVEddie Griffin MIN 11/04/2005 MIN @ SEA L 18 2 1 4 25.0 0 3 0.0 0 0 - 0 4 4 1 2 4 0 2 -8
+p810
+aVMark Madsen MIN 11/04/2005 MIN @ SEA L 5 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 0
+p811
+aVWally Szczerbiak MIN 11/04/2005 MIN @ SEA L 29 16 7 16 43.8 0 5 0.0 2 2 100.0 2 3 5 4 1 0 2 5 -1
+p812
+aVRashad McCants MIN 11/04/2005 MIN @ SEA L 4 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -3
+p813
+aVMichael Olowokandi MIN 11/04/2005 MIN @ SEA L 39 11 5 11 45.5 0 0 - 1 2 50.0 5 5 10 0 0 1 6 3 -6
+p814
+aVEddie Griffin MIN 11/02/2005 MIN vs. POR W 25 5 2 6 33.3 1 3 33.3 0 0 - 1 5 6 3 0 2 1 0 6
+p815
+aVTrenton Hassell MIN 11/02/2005 MIN vs. POR W 24 2 1 7 14.3 0 0 - 0 0 - 1 3 4 2 2 0 4 4 -6
+p816
+aVMark Madsen MIN 11/02/2005 MIN vs. POR W 12 4 2 3 66.7 0 0 - 0 2 0.0 2 1 3 0 0 1 0 1 1
+p817
+aVAnthony Carter MIN 11/02/2005 MIN vs. POR W 15 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 6 1 0 1 0 2
+p818
+aVMichael Olowokandi MIN 11/02/2005 MIN vs. POR W 23 3 1 5 20.0 0 0 - 1 2 50.0 3 5 8 0 0 2 0 2 2
+p819
+aVRashad McCants MIN 11/02/2005 MIN vs. POR W 21 6 3 12 25.0 0 2 0.0 0 1 0.0 0 1 1 1 1 1 1 0 3
+p820
+aVWally Szczerbiak MIN 11/02/2005 MIN vs. POR W 34 16 7 15 46.7 0 4 0.0 2 2 100.0 3 3 6 0 0 0 1 2 5
+p821
+aVMarko Jaric MIN 11/02/2005 MIN vs. POR W 34 14 6 10 60.0 0 1 0.0 2 5 40.0 1 5 6 5 3 0 3 3 1
+p822
+aVRichie Frahm MIN 11/02/2005 MIN vs. POR W 15 18 5 6 83.3 5 6 83.3 3 4 75.0 0 4 4 1 0 0 0 2 7
+p823
+aVKevin Garnett MIN 11/02/2005 MIN vs. POR W 37 18 9 13 69.2 0 0 - 0 0 - 1 6 7 7 0 2 3 3 -1
+p824
+a.

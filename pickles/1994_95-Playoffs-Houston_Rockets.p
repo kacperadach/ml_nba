@@ -1,0 +1,408 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSam Cassell HOU 06/14/1995 HOU vs. ORL W 26 13 3 11 27.3 1 4 25.0 6 7 85.7 1 2 3 4 1 0 0 1 -
+p2
+aVCharles Jones HOU 06/14/1995 HOU vs. ORL W 15 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -
+p3
+aVChucky Brown HOU 06/14/1995 HOU vs. ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p4
+aVKenny Smith HOU 06/14/1995 HOU vs. ORL W 22 5 2 7 28.6 1 3 33.3 0 0 - 2 0 2 3 0 0 0 1 -
+p5
+aVRobert Horry HOU 06/14/1995 HOU vs. ORL W 46 21 6 14 42.9 4 9 44.4 5 9 55.6 5 8 13 5 1 0 2 2 -
+p6
+aVMario Elie HOU 06/14/1995 HOU vs. ORL W 43 22 9 11 81.8 4 6 66.7 0 0 - 0 3 3 2 4 0 2 3 -
+p7
+aVHakeem Olajuwon HOU 06/14/1995 HOU vs. ORL W 44 35 15 30 50.0 1 1 100.0 4 5 80.0 3 12 15 6 3 0 4 4 -
+p8
+aVClyde Drexler HOU 06/14/1995 HOU vs. ORL W 41 15 4 13 30.8 0 4 0.0 7 8 87.5 3 6 9 8 2 0 2 3 -
+p9
+aVCharles Jones HOU 06/11/1995 HOU vs. ORL W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -
+p10
+aVMario Elie HOU 06/11/1995 HOU vs. ORL W 38 17 6 9 66.7 3 4 75.0 2 2 100.0 0 2 2 3 0 0 1 2 -
+p11
+aVPete Chilcutt HOU 06/11/1995 HOU vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p12
+aVKenny Smith HOU 06/11/1995 HOU vs. ORL W 22 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 3 1 0 0 2 -
+p13
+aVChucky Brown HOU 06/11/1995 HOU vs. ORL W 9 2 0 0 - 0 0 - 2 2 100.0 0 4 4 0 0 0 0 1 -
+p14
+aVHakeem Olajuwon HOU 06/11/1995 HOU vs. ORL W 45 31 14 30 46.7 0 0 - 3 5 60.0 4 10 14 7 2 0 1 4 -
+p15
+aVSam Cassell HOU 06/11/1995 HOU vs. ORL W 26 9 3 9 33.3 1 3 33.3 2 3 66.7 0 2 2 4 3 0 2 2 -
+p16
+aVClyde Drexler HOU 06/11/1995 HOU vs. ORL W 41 25 9 18 50.0 1 3 33.3 6 10 60.0 5 8 13 7 0 0 2 4 -
+p17
+aVRobert Horry HOU 06/11/1995 HOU vs. ORL W 46 20 6 11 54.5 2 5 40.0 6 8 75.0 2 7 9 4 1 2 2 2 -
+p18
+aVPete Chilcutt HOU 06/09/1995 HOU @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p19
+aVCharles Jones HOU 06/09/1995 HOU @ ORL W 15 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 5 -
+p20
+aVClyde Drexler HOU 06/09/1995 HOU @ ORL W 32 23 7 10 70.0 0 0 - 9 12 75.0 1 4 5 5 1 0 1 4 -
+p21
+aVKenny Smith HOU 06/09/1995 HOU @ ORL W 19 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -
+p22
+aVRobert Horry HOU 06/09/1995 HOU @ ORL W 48 11 4 10 40.0 1 5 20.0 2 2 100.0 2 8 10 3 7 2 1 1 -
+p23
+aVSam Cassell HOU 06/09/1995 HOU @ ORL W 30 31 8 12 66.7 4 6 66.7 11 12 91.7 0 1 1 3 3 0 2 4 -
+p24
+aVHakeem Olajuwon HOU 06/09/1995 HOU @ ORL W 42 34 14 30 46.7 0 0 - 6 9 66.7 3 8 11 2 1 4 3 5 -
+p25
+aVMario Elie HOU 06/09/1995 HOU @ ORL W 41 8 2 6 33.3 0 2 0.0 4 4 100.0 2 5 7 4 1 0 0 2 -
+p26
+aVChucky Brown HOU 06/09/1995 HOU @ ORL W 12 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -
+p27
+aVPete Chilcutt HOU 06/07/1995 HOU @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p28
+aVHakeem Olajuwon HOU 06/07/1995 HOU @ ORL W 48 31 13 26 50.0 0 0 - 5 7 71.4 1 5 6 7 2 4 3 5 -
+p29
+aVChucky Brown HOU 06/07/1995 HOU @ ORL W 14 2 1 5 20.0 0 1 0.0 0 0 - 2 3 5 0 0 0 0 0 -
+p30
+aVCharles Jones HOU 06/07/1995 HOU @ ORL W 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p31
+aVSam Cassell HOU 06/07/1995 HOU @ ORL W 11 4 1 3 33.3 1 2 50.0 1 2 50.0 0 1 1 1 0 0 2 2 -
+p32
+aVClyde Drexler HOU 06/07/1995 HOU @ ORL W 48 23 7 19 36.8 1 6 16.7 8 8 100.0 4 7 11 7 1 1 1 3 -
+p33
+aVRobert Horry HOU 06/07/1995 HOU @ ORL W 47 19 7 18 38.9 4 10 40.0 1 2 50.0 0 8 8 3 3 5 0 4 -
+p34
+aVMario Elie HOU 06/07/1995 HOU @ ORL W 39 18 7 11 63.6 1 2 50.0 3 4 75.0 2 3 5 4 3 0 4 2 -
+p35
+aVKenny Smith HOU 06/07/1995 HOU @ ORL W 42 23 8 13 61.5 7 11 63.6 0 0 - 0 3 3 9 0 0 1 3 -
+p36
+aVKenny Smith HOU 06/01/1995 HOU vs. SAN W 30 6 2 8 25.0 1 7 14.3 1 2 50.0 0 1 1 6 1 0 0 3 -
+p37
+aVHakeem Olajuwon HOU 06/01/1995 HOU vs. SAN W 47 39 16 25 64.0 0 1 0.0 7 8 87.5 4 13 17 3 2 5 6 4 -
+p38
+aVSam Cassell HOU 06/01/1995 HOU vs. SAN W 30 10 3 10 30.0 0 4 0.0 4 7 57.1 1 0 1 3 1 0 2 3 -
+p39
+aVChucky Brown HOU 06/01/1995 HOU vs. SAN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p40
+aVClyde Drexler HOU 06/01/1995 HOU vs. SAN W 45 16 6 16 37.5 0 4 0.0 4 6 66.7 5 5 10 7 2 0 2 4 -
+p41
+aVMario Elie HOU 06/01/1995 HOU vs. SAN W 30 7 3 5 60.0 1 3 33.3 0 0 - 2 1 3 4 0 0 1 5 -
+p42
+aVRobert Horry HOU 06/01/1995 HOU vs. SAN W 46 22 7 16 43.8 6 11 54.5 2 3 66.7 1 6 7 2 1 0 1 3 -
+p43
+aVCharles Jones HOU 06/01/1995 HOU vs. SAN W 9 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -
+p44
+aVMario Elie HOU 05/30/1995 HOU @ SAN W 39 3 1 4 25.0 0 2 0.0 1 2 50.0 0 2 2 5 2 0 0 3 -
+p45
+aVCharles Jones HOU 05/30/1995 HOU @ SAN W 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -
+p46
+aVClyde Drexler HOU 05/30/1995 HOU @ SAN W 30 19 7 15 46.7 1 4 25.0 4 6 66.7 1 1 2 2 4 0 3 4 -
+p47
+aVKenny Smith HOU 05/30/1995 HOU @ SAN W 12 0 0 0 - 0 0 - 0 0 - 1 0 1 3 0 0 1 3 -
+p48
+aVHakeem Olajuwon HOU 05/30/1995 HOU @ SAN W 44 42 19 30 63.3 0 0 - 4 7 57.1 0 9 9 8 1 5 0 5 -
+p49
+aVChucky Brown HOU 05/30/1995 HOU @ SAN W 13 0 0 4 0.0 0 0 - 0 2 0.0 2 2 4 0 0 0 0 1 -
+p50
+aVSam Cassell HOU 05/30/1995 HOU @ SAN W 36 30 8 17 47.1 2 5 40.0 12 12 100.0 3 2 5 12 3 0 2 3 -
+p51
+aVZan Tabak HOU 05/30/1995 HOU @ SAN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p52
+aVPete Chilcutt HOU 05/30/1995 HOU @ SAN W 4 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 1 0 0 0 -
+p53
+aVRobert Horry HOU 05/30/1995 HOU @ SAN W 45 14 4 8 50.0 2 5 40.0 4 6 66.7 6 7 13 1 4 0 3 2 -
+p54
+aVKenny Smith HOU 05/28/1995 HOU vs. SAN L 29 13 6 12 50.0 1 3 33.3 0 0 - 0 3 3 3 1 0 2 0 -
+p55
+aVClyde Drexler HOU 05/28/1995 HOU vs. SAN L 40 12 3 11 27.3 0 3 0.0 6 6 100.0 3 3 6 3 2 1 1 3 -
+p56
+aVRobert Horry HOU 05/28/1995 HOU vs. SAN L 31 6 2 9 22.2 0 3 0.0 2 2 100.0 2 4 6 3 1 1 2 3 -
+p57
+aVZan Tabak HOU 05/28/1995 HOU vs. SAN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p58
+aVSam Cassell HOU 05/28/1995 HOU vs. SAN L 26 11 4 9 44.4 1 3 33.3 2 3 66.7 0 2 2 1 1 2 2 4 -
+p59
+aVHakeem Olajuwon HOU 05/28/1995 HOU vs. SAN L 44 20 9 24 37.5 0 0 - 2 3 66.7 2 12 14 5 1 3 5 5 -
+p60
+aVCharles Jones HOU 05/28/1995 HOU vs. SAN L 14 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 4 -
+p61
+aVMario Elie HOU 05/28/1995 HOU vs. SAN L 23 3 1 2 50.0 1 2 50.0 0 2 0.0 0 0 0 1 1 0 1 2 -
+p62
+aVPete Chilcutt HOU 05/28/1995 HOU vs. SAN L 8 6 2 4 50.0 0 2 0.0 2 2 100.0 2 1 3 0 0 1 0 0 -
+p63
+aVChucky Brown HOU 05/28/1995 HOU vs. SAN L 22 9 3 5 60.0 0 0 - 3 4 75.0 0 4 4 0 1 0 0 5 -
+p64
+aVKenny Smith HOU 05/26/1995 HOU vs. SAN L 29 13 4 8 50.0 4 5 80.0 1 1 100.0 1 1 2 5 0 0 1 2 -
+p65
+aVClyde Drexler HOU 05/26/1995 HOU vs. SAN L 39 21 8 18 44.4 3 10 30.0 2 2 100.0 2 7 9 6 0 1 2 4 -
+p66
+aVHakeem Olajuwon HOU 05/26/1995 HOU vs. SAN L 46 43 19 32 59.4 1 1 100.0 4 4 100.0 3 8 11 4 0 5 2 5 -
+p67
+aVChucky Brown HOU 05/26/1995 HOU vs. SAN L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p68
+aVRobert Horry HOU 05/26/1995 HOU vs. SAN L 44 17 5 11 45.5 4 9 44.4 3 5 60.0 0 5 5 4 2 0 3 6 -
+p69
+aVMario Elie HOU 05/26/1995 HOU vs. SAN L 32 5 2 5 40.0 1 2 50.0 0 0 - 2 3 5 2 0 0 0 3 -
+p70
+aVSam Cassell HOU 05/26/1995 HOU vs. SAN L 19 1 0 4 0.0 0 2 0.0 1 1 100.0 0 3 3 4 0 0 1 3 -
+p71
+aVPete Chilcutt HOU 05/26/1995 HOU vs. SAN L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p72
+aVCharles Jones HOU 05/26/1995 HOU vs. SAN L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p73
+aVSam Cassell HOU 05/24/1995 HOU @ SAN W 30 7 2 8 25.0 1 3 33.3 2 4 50.0 0 2 2 7 0 0 1 4 -
+p74
+aVPete Chilcutt HOU 05/24/1995 HOU @ SAN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -
+p75
+aVKenny Smith HOU 05/24/1995 HOU @ SAN W 18 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 1 -
+p76
+aVHakeem Olajuwon HOU 05/24/1995 HOU @ SAN W 41 41 18 31 58.1 0 0 - 5 6 83.3 4 12 16 4 3 2 4 5 -
+p77
+aVClyde Drexler HOU 05/24/1995 HOU @ SAN W 45 23 9 16 56.3 1 3 33.3 4 5 80.0 0 5 5 6 2 2 2 4 -
+p78
+aVMario Elie HOU 05/24/1995 HOU @ SAN W 35 7 2 4 50.0 1 2 50.0 2 4 50.0 1 2 3 7 0 0 0 3 -
+p79
+aVChucky Brown HOU 05/24/1995 HOU @ SAN W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p80
+aVCharles Jones HOU 05/24/1995 HOU @ SAN W 17 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -
+p81
+aVRobert Horry HOU 05/24/1995 HOU @ SAN W 38 21 8 15 53.3 5 9 55.6 0 0 - 1 5 6 3 0 2 0 2 -
+p82
+aVMario Elie HOU 05/22/1995 HOU @ SAN W 33 16 5 9 55.6 4 5 80.0 2 2 100.0 0 3 3 3 2 0 0 4 -
+p83
+aVHakeem Olajuwon HOU 05/22/1995 HOU @ SAN W 39 27 12 24 50.0 0 0 - 3 3 100.0 3 5 8 6 1 5 5 5 -
+p84
+aVSam Cassell HOU 05/22/1995 HOU @ SAN W 23 6 2 7 28.6 0 1 0.0 2 2 100.0 0 1 1 3 0 0 2 3 -
+p85
+aVCharles Jones HOU 05/22/1995 HOU @ SAN W 23 6 3 5 60.0 0 0 - 0 0 - 3 2 5 0 0 2 3 5 -
+p86
+aVClyde Drexler HOU 05/22/1995 HOU @ SAN W 41 25 10 21 47.6 1 4 25.0 4 5 80.0 4 8 12 3 1 1 3 2 -
+p87
+aVChucky Brown HOU 05/22/1995 HOU @ SAN W 8 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p88
+aVPete Chilcutt HOU 05/22/1995 HOU @ SAN W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 5 5 3 0 0 2 3 -
+p89
+aVRobert Horry HOU 05/22/1995 HOU @ SAN W 35 7 1 5 20.0 0 3 0.0 5 8 62.5 1 5 6 3 0 0 0 3 -
+p90
+aVKenny Smith HOU 05/22/1995 HOU @ SAN W 25 5 2 7 28.6 0 1 0.0 1 1 100.0 0 2 2 3 2 0 2 0 -
+p91
+aVMario Elie HOU 05/20/1995 HOU @ PHX W 26 8 2 5 40.0 1 3 33.3 3 3 100.0 0 2 2 1 0 0 0 5 -
+p92
+aVSam Cassell HOU 05/20/1995 HOU @ PHX W 22 18 6 10 60.0 1 3 33.3 5 5 100.0 0 1 1 7 0 0 0 6 -
+p93
+aVClyde Drexler HOU 05/20/1995 HOU @ PHX W 41 29 11 19 57.9 1 3 33.3 6 7 85.7 1 7 8 4 0 2 0 5 -
+p94
+aVChucky Brown HOU 05/20/1995 HOU @ PHX W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -
+p95
+aVPete Chilcutt HOU 05/20/1995 HOU @ PHX W 24 12 4 5 80.0 1 2 50.0 3 4 75.0 0 1 1 1 1 1 0 3 -
+p96
+aVKenny Smith HOU 05/20/1995 HOU @ PHX W 32 10 3 8 37.5 1 4 25.0 3 4 75.0 0 2 2 4 0 0 2 5 -
+p97
+aVRobert Horry HOU 05/20/1995 HOU @ PHX W 42 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 2 3 3 2 5 -
+p98
+aVHakeem Olajuwon HOU 05/20/1995 HOU @ PHX W 41 29 10 21 47.6 0 0 - 9 17 52.9 3 8 11 4 0 1 5 5 -
+p99
+aVMario Elie HOU 05/18/1995 HOU vs. PHX W 25 11 4 8 50.0 3 4 75.0 0 0 - 1 4 5 3 1 0 3 3 -
+p100
+aVHakeem Olajuwon HOU 05/18/1995 HOU vs. PHX W 43 30 13 22 59.1 0 1 0.0 4 4 100.0 1 7 8 10 2 5 2 4 -
+p101
+aVClyde Drexler HOU 05/18/1995 HOU vs. PHX W 35 20 8 17 47.1 0 6 0.0 4 6 66.7 2 6 8 4 1 1 1 2 -
+p102
+aVRobert Horry HOU 05/18/1995 HOU vs. PHX W 40 12 3 6 50.0 2 2 100.0 4 4 100.0 1 5 6 6 0 5 0 2 -
+p103
+aVChucky Brown HOU 05/18/1995 HOU vs. PHX W 23 8 3 5 60.0 0 0 - 2 3 66.7 1 2 3 0 1 0 1 2 -
+p104
+aVKenny Smith HOU 05/18/1995 HOU vs. PHX W 27 10 4 6 66.7 2 3 66.7 0 0 - 0 2 2 1 1 0 1 1 -
+p105
+aVSam Cassell HOU 05/18/1995 HOU vs. PHX W 27 16 6 11 54.5 4 7 57.1 0 0 - 0 3 3 4 1 0 4 3 -
+p106
+aVPete Chilcutt HOU 05/18/1995 HOU vs. PHX W 20 9 4 5 80.0 1 2 50.0 0 0 - 1 4 5 0 0 1 2 3 -
+p107
+aVRobert Horry HOU 05/16/1995 HOU @ PHX W 41 11 4 12 33.3 3 9 33.3 0 1 0.0 3 8 11 5 1 0 1 5 -
+p108
+aVChucky Brown HOU 05/16/1995 HOU @ PHX W 37 15 6 11 54.5 0 0 - 3 3 100.0 6 2 8 0 1 0 1 6 -
+p109
+aVSam Cassell HOU 05/16/1995 HOU @ PHX W 11 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 3 0 0 3 3 -
+p110
+aVPete Chilcutt HOU 05/16/1995 HOU @ PHX W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 3 -
+p111
+aVMario Elie HOU 05/16/1995 HOU @ PHX W 40 15 5 16 31.3 0 7 0.0 5 5 100.0 2 1 3 1 1 1 2 4 -
+p112
+aVKenny Smith HOU 05/16/1995 HOU @ PHX W 48 21 7 16 43.8 5 11 45.5 2 2 100.0 2 5 7 7 2 0 1 3 -
+p113
+aVHakeem Olajuwon HOU 05/16/1995 HOU @ PHX W 50 31 14 31 45.2 0 0 - 3 3 100.0 3 13 16 3 1 1 3 5 -
+p114
+aVClyde Drexler HOU 05/16/1995 HOU @ PHX W 32 4 0 6 0.0 0 1 0.0 4 8 50.0 0 2 2 3 2 0 2 2 -
+p115
+aVChucky Brown HOU 05/14/1995 HOU vs. PHX L 17 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 2 2 -
+p116
+aVClyde Drexler HOU 05/14/1995 HOU vs. PHX L 42 22 7 13 53.8 1 6 16.7 7 8 87.5 1 4 5 6 1 0 1 4 -
+p117
+aVKenny Smith HOU 05/14/1995 HOU vs. PHX L 21 12 3 4 75.0 3 4 75.0 3 4 75.0 0 1 1 4 1 0 1 4 -
+p118
+aVSam Cassell HOU 05/14/1995 HOU vs. PHX L 34 14 4 10 40.0 1 2 50.0 5 8 62.5 0 5 5 9 3 0 1 4 -
+p119
+aVPete Chilcutt HOU 05/14/1995 HOU vs. PHX L 24 8 3 8 37.5 2 6 33.3 0 0 - 1 4 5 1 0 0 1 2 -
+p120
+aVHakeem Olajuwon HOU 05/14/1995 HOU vs. PHX L 42 38 17 34 50.0 0 0 - 4 8 50.0 2 6 8 4 0 5 2 3 -
+p121
+aVCharles Jones HOU 05/14/1995 HOU vs. PHX L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p122
+aVRobert Horry HOU 05/14/1995 HOU vs. PHX L 34 3 1 4 25.0 0 2 0.0 1 2 50.0 6 11 17 6 0 1 0 6 -
+p123
+aVMario Elie HOU 05/14/1995 HOU vs. PHX L 21 9 4 7 57.1 1 2 50.0 0 0 - 1 1 2 0 0 0 1 3 -
+p124
+aVClyde Drexler HOU 05/13/1995 HOU vs. PHX W 36 23 8 14 57.1 3 5 60.0 4 4 100.0 3 6 9 8 3 1 1 1 -
+p125
+aVZan Tabak HOU 05/13/1995 HOU vs. PHX W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -
+p126
+aVHakeem Olajuwon HOU 05/13/1995 HOU vs. PHX W 33 36 16 27 59.3 0 0 - 4 5 80.0 2 9 11 1 0 2 2 2 -
+p127
+aVCharles Jones HOU 05/13/1995 HOU vs. PHX W 10 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 1 0 0 1 -
+p128
+aVKenny Smith HOU 05/13/1995 HOU vs. PHX W 40 12 3 10 30.0 1 6 16.7 5 6 83.3 0 1 1 6 2 0 2 3 -
+p129
+aVPete Chilcutt HOU 05/13/1995 HOU vs. PHX W 18 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 1 0 0 0 3 -
+p130
+aVMario Elie HOU 05/13/1995 HOU vs. PHX W 29 3 1 4 25.0 0 2 0.0 1 2 50.0 2 1 3 4 0 0 1 1 -
+p131
+aVChucky Brown HOU 05/13/1995 HOU vs. PHX W 31 9 4 8 50.0 1 1 100.0 0 0 - 1 6 7 1 3 0 2 4 -
+p132
+aVRobert Horry HOU 05/13/1995 HOU vs. PHX W 25 17 7 10 70.0 2 4 50.0 1 1 100.0 2 5 7 1 0 0 1 4 -
+p133
+aVSam Cassell HOU 05/13/1995 HOU vs. PHX W 11 10 4 6 66.7 0 1 0.0 2 2 100.0 0 1 1 3 2 0 1 3 -
+p134
+aVChucky Brown HOU 05/11/1995 HOU @ PHX L 10 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 1 0 1 3 -
+p135
+aVMario Elie HOU 05/11/1995 HOU @ PHX L 20 9 2 4 50.0 1 2 50.0 4 6 66.7 0 0 0 2 2 0 0 0 -
+p136
+aVSam Cassell HOU 05/11/1995 HOU @ PHX L 24 7 2 7 28.6 1 3 33.3 2 2 100.0 2 0 2 4 1 0 2 3 -
+p137
+aVHakeem Olajuwon HOU 05/11/1995 HOU @ PHX L 43 25 12 23 52.2 0 0 - 1 4 25.0 0 5 5 0 2 1 3 4 -
+p138
+aVZan Tabak HOU 05/11/1995 HOU @ PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -
+p139
+aVCharles Jones HOU 05/11/1995 HOU @ PHX L 9 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -
+p140
+aVRobert Horry HOU 05/11/1995 HOU @ PHX L 38 20 6 9 66.7 2 2 100.0 6 7 85.7 2 6 8 5 1 0 1 3 -
+p141
+aVClyde Drexler HOU 05/11/1995 HOU @ PHX L 39 15 6 18 33.3 2 8 25.0 1 2 50.0 0 5 5 7 2 2 2 1 -
+p142
+aVKenny Smith HOU 05/11/1995 HOU @ PHX L 27 7 2 9 22.2 1 6 16.7 2 2 100.0 0 2 2 2 0 1 2 1 -
+p143
+aVPete Chilcutt HOU 05/11/1995 HOU @ PHX L 25 8 1 5 20.0 1 4 25.0 5 6 83.3 2 5 7 1 1 0 0 1 -
+p144
+aVChucky Brown HOU 05/09/1995 HOU @ PHX L 30 11 5 10 50.0 0 0 - 1 3 33.3 1 5 6 2 1 0 1 3 -
+p145
+aVZan Tabak HOU 05/09/1995 HOU @ PHX L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p146
+aVSam Cassell HOU 05/09/1995 HOU @ PHX L 37 31 10 15 66.7 1 2 50.0 10 10 100.0 0 3 3 5 2 0 2 4 -
+p147
+aVMario Elie HOU 05/09/1995 HOU @ PHX L 28 10 3 7 42.9 2 5 40.0 2 2 100.0 0 4 4 1 0 0 2 1 -
+p148
+aVKenny Smith HOU 05/09/1995 HOU @ PHX L 35 7 3 11 27.3 1 6 16.7 0 0 - 1 2 3 10 1 0 1 2 -
+p149
+aVClyde Drexler HOU 05/09/1995 HOU @ PHX L 14 9 3 6 50.0 1 4 25.0 2 2 100.0 0 2 2 2 0 0 1 2 -
+p150
+aVHakeem Olajuwon HOU 05/09/1995 HOU @ PHX L 27 18 8 19 42.1 0 0 - 2 3 66.7 1 3 4 4 1 1 3 4 -
+p151
+aVPete Chilcutt HOU 05/09/1995 HOU @ PHX L 26 13 5 10 50.0 3 4 75.0 0 0 - 3 1 4 2 2 0 0 2 -
+p152
+aVCharles Jones HOU 05/09/1995 HOU @ PHX L 10 0 0 1 0.0 0 0 - 0 2 0.0 2 1 3 0 0 1 0 1 -
+p153
+aVRobert Horry HOU 05/09/1995 HOU @ PHX L 27 7 1 4 25.0 1 3 33.3 4 4 100.0 0 0 0 3 0 1 1 4 -
+p154
+aVKenny Smith HOU 05/07/1995 HOU @ UTH W 33 8 2 7 28.6 2 5 40.0 2 2 100.0 0 4 4 2 0 1 3 2 -
+p155
+aVPete Chilcutt HOU 05/07/1995 HOU @ UTH W 18 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 4 -
+p156
+aVHakeem Olajuwon HOU 05/07/1995 HOU @ UTH W 44 33 10 16 62.5 0 0 - 13 20 65.0 0 10 10 4 0 1 5 3 -
+p157
+aVMario Elie HOU 05/07/1995 HOU @ UTH W 17 5 1 3 33.3 1 3 33.3 2 2 100.0 0 2 2 2 2 0 0 3 -
+p158
+aVZan Tabak HOU 05/07/1995 HOU @ UTH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p159
+aVSam Cassell HOU 05/07/1995 HOU @ UTH W 15 4 1 4 25.0 1 2 50.0 1 2 50.0 0 0 0 4 0 0 1 2 -
+p160
+aVClyde Drexler HOU 05/07/1995 HOU @ UTH W 47 31 8 15 53.3 5 7 71.4 10 14 71.4 2 8 10 3 1 1 4 2 -
+p161
+aVRobert Horry HOU 05/07/1995 HOU @ UTH W 32 8 3 7 42.9 0 3 0.0 2 2 100.0 2 2 4 3 0 1 1 5 -
+p162
+aVCharles Jones HOU 05/07/1995 HOU @ UTH W 18 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 1 0 0 4 -
+p163
+aVChucky Brown HOU 05/07/1995 HOU @ UTH W 14 4 0 0 - 0 0 - 4 4 100.0 0 1 1 0 0 0 1 6 -
+p164
+aVRobert Horry HOU 05/05/1995 HOU vs. UTH W 25 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 3 1 0 0 1 -
+p165
+aVChucky Brown HOU 05/05/1995 HOU vs. UTH W 26 7 2 4 50.0 0 0 - 3 6 50.0 1 6 7 2 1 0 0 4 -
+p166
+aVZan Tabak HOU 05/05/1995 HOU vs. UTH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p167
+aVKenny Smith HOU 05/05/1995 HOU vs. UTH W 30 13 4 8 50.0 2 5 40.0 3 3 100.0 0 1 1 6 0 0 3 2 -
+p168
+aVCharles Jones HOU 05/05/1995 HOU vs. UTH W 12 0 0 1 0.0 0 1 0.0 0 2 0.0 0 3 3 0 1 1 0 3 -
+p169
+aVCarl Herrera HOU 05/05/1995 HOU vs. UTH W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p170
+aVClyde Drexler HOU 05/05/1995 HOU vs. UTH W 41 41 12 18 66.7 4 8 50.0 13 14 92.9 3 6 9 6 1 0 1 3 -
+p171
+aVHakeem Olajuwon HOU 05/05/1995 HOU vs. UTH W 38 40 14 22 63.6 0 0 - 12 15 80.0 2 6 8 3 0 1 2 5 -
+p172
+aVMario Elie HOU 05/05/1995 HOU vs. UTH W 29 10 3 5 60.0 0 2 0.0 4 4 100.0 2 1 3 1 1 0 1 2 -
+p173
+aVSam Cassell HOU 05/05/1995 HOU vs. UTH W 19 6 2 4 50.0 1 2 50.0 1 1 100.0 1 0 1 2 0 0 2 2 -
+p174
+aVPete Chilcutt HOU 05/05/1995 HOU vs. UTH W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 4 -
+p175
+aVHakeem Olajuwon HOU 05/03/1995 HOU vs. UTH L 45 30 12 27 44.4 0 0 - 6 7 85.7 1 9 10 3 0 5 3 4 -
+p176
+aVSam Cassell HOU 05/03/1995 HOU vs. UTH L 13 5 1 3 33.3 1 1 100.0 2 2 100.0 0 5 5 1 0 0 0 2 -
+p177
+aVPete Chilcutt HOU 05/03/1995 HOU vs. UTH L 37 1 0 4 0.0 0 3 0.0 1 2 50.0 0 2 2 1 0 0 1 3 -
+p178
+aVMario Elie HOU 05/03/1995 HOU vs. UTH L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p179
+aVKenny Smith HOU 05/03/1995 HOU vs. UTH L 35 20 5 10 50.0 4 6 66.7 6 6 100.0 0 1 1 5 1 0 0 2 -
+p180
+aVCharles Jones HOU 05/03/1995 HOU vs. UTH L 13 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -
+p181
+aVClyde Drexler HOU 05/03/1995 HOU vs. UTH L 45 17 7 14 50.0 1 4 25.0 2 4 50.0 3 5 8 3 2 0 4 3 -
+p182
+aVRobert Horry HOU 05/03/1995 HOU vs. UTH L 40 9 3 8 37.5 1 3 33.3 2 4 50.0 2 4 6 5 2 3 2 2 -
+p183
+aVKenny Smith HOU 04/29/1995 HOU @ UTH W 45 32 10 13 76.9 7 8 87.5 5 5 100.0 0 6 6 9 0 1 3 3 -
+p184
+aVZan Tabak HOU 04/29/1995 HOU @ UTH W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 1 -
+p185
+aVMario Elie HOU 04/29/1995 HOU @ UTH W 19 13 5 8 62.5 3 4 75.0 0 0 - 0 2 2 4 1 0 0 2 -
+p186
+aVSam Cassell HOU 04/29/1995 HOU @ UTH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -
+p187
+aVRobert Horry HOU 04/29/1995 HOU @ UTH W 39 21 8 15 53.3 3 6 50.0 2 2 100.0 2 5 7 1 1 0 1 1 -
+p188
+aVPete Chilcutt HOU 04/29/1995 HOU @ UTH W 32 9 3 6 50.0 3 5 60.0 0 0 - 2 4 6 3 1 0 0 3 -
+p189
+aVHakeem Olajuwon HOU 04/29/1995 HOU @ UTH W 39 27 11 22 50.0 0 0 - 5 10 50.0 1 6 7 4 2 3 1 5 -
+p190
+aVClyde Drexler HOU 04/29/1995 HOU @ UTH W 38 30 12 17 70.6 3 5 60.0 3 3 100.0 0 2 2 7 1 1 6 6 -
+p191
+aVCharles Jones HOU 04/29/1995 HOU @ UTH W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 3 0 5 -
+p192
+aVChucky Brown HOU 04/29/1995 HOU @ UTH W 14 6 2 4 50.0 0 0 - 2 4 50.0 1 3 4 0 0 0 1 4 -
+p193
+aVPete Chilcutt HOU 04/27/1995 HOU @ UTH L 37 12 4 5 80.0 1 2 50.0 3 3 100.0 2 7 9 2 0 1 3 5 -
+p194
+aVKenny Smith HOU 04/27/1995 HOU @ UTH L 31 14 5 8 62.5 2 3 66.7 2 2 100.0 0 1 1 5 1 0 3 2 -
+p195
+aVChucky Brown HOU 04/27/1995 HOU @ UTH L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p196
+aVClyde Drexler HOU 04/27/1995 HOU @ UTH L 37 7 3 8 37.5 1 1 100.0 0 0 - 2 2 4 4 4 1 3 2 -
+p197
+aVMario Elie HOU 04/27/1995 HOU @ UTH L 16 2 1 2 50.0 0 1 0.0 0 0 - 2 1 3 0 0 0 2 1 -
+p198
+aVVernon Maxwell HOU 04/27/1995 HOU @ UTH L 16 3 1 7 14.3 0 2 0.0 1 1 100.0 0 3 3 1 0 0 1 1 -
+p199
+aVRobert Horry HOU 04/27/1995 HOU @ UTH L 32 13 4 8 50.0 1 3 33.3 4 4 100.0 0 2 2 5 3 0 1 3 -
+p200
+aVHakeem Olajuwon HOU 04/27/1995 HOU @ UTH L 44 45 20 30 66.7 0 0 - 5 10 50.0 1 7 8 6 2 3 5 4 -
+p201
+aVCharles Jones HOU 04/27/1995 HOU @ UTH L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 0 3 -
+p202
+aVSam Cassell HOU 04/27/1995 HOU @ UTH L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 4 -
+p203
+a.

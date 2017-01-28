@@ -1,0 +1,1634 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDerek Harper ORL 04/19/1998 ORL @ CHH L 24 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 5 0 0 4 1 -12
+p2
+aVNick Anderson ORL 04/19/1998 ORL @ CHH L 21 11 3 9 33.3 1 3 33.3 4 4 100.0 0 3 3 0 1 0 3 0 -8
+p3
+aVDavid Benoit ORL 04/19/1998 ORL @ CHH L 9 3 1 4 25.0 0 1 0.0 1 4 25.0 0 0 0 1 1 0 0 0 2
+p4
+aVDerek Strong ORL 04/19/1998 ORL @ CHH L 34 21 8 15 53.3 0 0 - 5 6 83.3 7 5 12 1 0 0 2 2 -6
+p5
+aVHorace Grant ORL 04/19/1998 ORL @ CHH L 36 10 4 9 44.4 0 0 - 2 2 100.0 0 8 8 2 1 0 0 1 -12
+p6
+aVMark Price ORL 04/19/1998 ORL @ CHH L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 5 1 0 1 0 0
+p7
+aVKevin Ollie ORL 04/19/1998 ORL @ CHH L 12 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 4 3 0 5 0 -1
+p8
+aVGerald Wilkins ORL 04/19/1998 ORL @ CHH L 18 13 5 7 71.4 2 2 100.0 1 2 50.0 0 1 1 0 1 0 2 0 -7
+p9
+aVJohnny Taylor ORL 04/19/1998 ORL @ CHH L 19 7 3 8 37.5 0 1 0.0 1 2 50.0 3 2 5 0 1 1 0 5 -1
+p10
+aVBo Outlaw ORL 04/19/1998 ORL @ CHH L 34 5 0 3 0.0 0 0 - 5 8 62.5 3 3 6 1 0 5 1 0 -20
+p11
+aVJason Lawson ORL 04/19/1998 ORL @ CHH L 7 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 7
+p12
+aVDan Schayes ORL 04/19/1998 ORL @ CHH L 14 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 0 2 2 -7
+p13
+aVKevin Ollie ORL 04/17/1998 ORL vs. NJN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 3 2 -2
+p14
+aVDan Schayes ORL 04/17/1998 ORL vs. NJN W 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p15
+aVDerek Strong ORL 04/17/1998 ORL vs. NJN W 34 19 8 11 72.7 0 0 - 3 4 75.0 1 4 5 2 0 1 0 3 8
+p16
+aVNick Anderson ORL 04/17/1998 ORL vs. NJN W 40 29 12 18 66.7 2 4 50.0 3 5 60.0 4 2 6 6 3 0 5 3 11
+p17
+aVJohnny Taylor ORL 04/17/1998 ORL vs. NJN W 20 10 4 5 80.0 1 1 100.0 1 1 100.0 0 3 3 1 0 0 2 4 2
+p18
+aVDerek Harper ORL 04/17/1998 ORL vs. NJN W 18 8 2 5 40.0 1 2 50.0 3 4 75.0 0 0 0 4 1 0 1 5 10
+p19
+aVMark Price ORL 04/17/1998 ORL vs. NJN W 24 11 3 6 50.0 2 3 66.7 3 4 75.0 1 1 2 5 2 0 6 3 4
+p20
+aVGerald Wilkins ORL 04/17/1998 ORL vs. NJN W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p21
+aVHorace Grant ORL 04/17/1998 ORL vs. NJN W 34 13 4 9 44.4 0 0 - 5 5 100.0 3 3 6 5 0 0 3 4 18
+p22
+aVBo Outlaw ORL 04/17/1998 ORL vs. NJN W 46 25 10 11 90.9 0 0 - 5 8 62.5 2 11 13 10 0 5 1 3 12
+p23
+aVGerald Wilkins ORL 04/15/1998 ORL @ MIA W 15 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 2 7
+p24
+aVBo Outlaw ORL 04/15/1998 ORL @ MIA W 35 4 1 4 25.0 0 0 - 2 3 66.7 1 2 3 4 1 2 0 3 3
+p25
+aVHorace Grant ORL 04/15/1998 ORL @ MIA W 39 17 6 9 66.7 0 0 - 5 6 83.3 2 7 9 1 0 0 1 1 13
+p26
+aVNick Anderson ORL 04/15/1998 ORL @ MIA W 33 24 8 19 42.1 1 8 12.5 7 10 70.0 0 2 2 4 4 2 3 2 5
+p27
+aVDan Schayes ORL 04/15/1998 ORL @ MIA W 21 6 2 8 25.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 4 4
+p28
+aVMark Price ORL 04/15/1998 ORL @ MIA W 24 15 6 8 75.0 0 1 0.0 3 5 60.0 0 3 3 6 2 0 3 2 7
+p29
+aVDerek Strong ORL 04/15/1998 ORL @ MIA W 28 15 6 11 54.5 0 0 - 3 4 75.0 3 6 9 1 0 0 2 5 4
+p30
+aVDerek Harper ORL 04/15/1998 ORL @ MIA W 26 0 0 5 0.0 0 2 0.0 0 0 - 2 4 6 3 1 0 0 1 9
+p31
+aVJohnny Taylor ORL 04/15/1998 ORL @ MIA W 19 10 3 5 60.0 0 0 - 4 5 80.0 0 0 0 0 0 0 2 4 8
+p32
+aVDavid Benoit ORL 04/11/1998 ORL @ CHI L 17 7 1 5 20.0 0 1 0.0 5 6 83.3 0 4 4 1 0 0 2 2 4
+p33
+aVBo Outlaw ORL 04/11/1998 ORL @ CHI L 27 1 0 4 0.0 0 0 - 1 2 50.0 1 6 7 2 1 0 2 1 -24
+p34
+aVGerald Wilkins ORL 04/11/1998 ORL @ CHI L 24 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 0 0 0 2 4 8
+p35
+aVDan Schayes ORL 04/11/1998 ORL @ CHI L 14 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -16
+p36
+aVKevin Ollie ORL 04/11/1998 ORL @ CHI L 28 10 4 11 36.4 0 0 - 2 3 66.7 0 4 4 5 0 0 3 0 10
+p37
+aVDerek Strong ORL 04/11/1998 ORL @ CHI L 34 14 4 8 50.0 0 0 - 6 8 75.0 4 9 13 0 0 1 2 4 7
+p38
+aVNick Anderson ORL 04/11/1998 ORL @ CHI L 37 21 9 18 50.0 0 3 0.0 3 6 50.0 3 6 9 0 2 0 3 0 -9
+p39
+aVMark Price ORL 04/11/1998 ORL @ CHI L 20 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 1 1 0 4 1 -19
+p40
+aVHorace Grant ORL 04/11/1998 ORL @ CHI L 39 12 4 9 44.4 0 0 - 4 7 57.1 4 2 6 0 1 1 1 3 -6
+p41
+aVDavid Benoit ORL 04/10/1998 ORL @ BOS L 14 9 3 8 37.5 0 3 0.0 3 3 100.0 0 3 3 0 0 0 1 0 0
+p42
+aVDerek Strong ORL 04/10/1998 ORL @ BOS L 38 12 3 6 50.0 0 0 - 6 7 85.7 3 10 13 2 0 0 0 1 4
+p43
+aVKevin Ollie ORL 04/10/1998 ORL @ BOS L 29 7 2 6 33.3 0 1 0.0 3 4 75.0 0 0 0 4 1 0 3 0 8
+p44
+aVNick Anderson ORL 04/10/1998 ORL @ BOS L 44 21 8 21 38.1 4 7 57.1 1 6 16.7 3 6 9 3 3 1 0 3 -4
+p45
+aVDan Schayes ORL 04/10/1998 ORL @ BOS L 12 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -5
+p46
+aVGerald Wilkins ORL 04/10/1998 ORL @ BOS L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 2 0 0 2 2 5
+p47
+aVHorace Grant ORL 04/10/1998 ORL @ BOS L 44 16 8 19 42.1 0 0 - 0 0 - 3 3 6 3 0 2 4 3 7
+p48
+aVBo Outlaw ORL 04/10/1998 ORL @ BOS L 45 12 5 7 71.4 0 0 - 2 8 25.0 4 6 10 1 2 1 4 4 -15
+p49
+aVMark Price ORL 04/10/1998 ORL @ BOS L 24 1 0 6 0.0 0 0 - 1 1 100.0 0 5 5 4 0 0 5 0 -10
+p50
+aVKevin Ollie ORL 04/08/1998 ORL vs. DET W 17 4 2 5 40.0 0 0 - 0 2 0.0 0 1 1 5 0 0 2 2 4
+p51
+aVHorace Grant ORL 04/08/1998 ORL vs. DET W 37 10 5 10 50.0 0 0 - 0 0 - 3 6 9 2 2 1 1 2 4
+p52
+aVMark Price ORL 04/08/1998 ORL vs. DET W 31 18 7 15 46.7 2 5 40.0 2 3 66.7 0 2 2 5 1 0 2 3 4
+p53
+aVBo Outlaw ORL 04/08/1998 ORL vs. DET W 37 6 3 5 60.0 0 0 - 0 0 - 4 5 9 5 1 1 1 2 6
+p54
+aVDerek Strong ORL 04/08/1998 ORL vs. DET W 35 20 9 13 69.2 0 0 - 2 2 100.0 3 7 10 1 0 1 3 3 18
+p55
+aVGerald Wilkins ORL 04/08/1998 ORL vs. DET W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 2
+p56
+aVNick Anderson ORL 04/08/1998 ORL vs. DET W 41 26 8 20 40.0 4 7 57.1 6 8 75.0 2 4 6 5 1 0 2 1 6
+p57
+aVDavid Benoit ORL 04/08/1998 ORL vs. DET W 18 7 3 7 42.9 1 4 25.0 0 0 - 0 1 1 0 0 2 1 2 6
+p58
+aVDan Schayes ORL 04/08/1998 ORL vs. DET W 17 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 2 1 2 1 -10
+p59
+aVMark Price ORL 04/06/1998 ORL vs. PHI W 18 8 4 4 100.0 0 0 - 0 0 - 0 1 1 7 1 1 7 2 13
+p60
+aVDerek Harper ORL 04/06/1998 ORL vs. PHI W 31 21 8 15 53.3 3 6 50.0 2 2 100.0 0 0 0 5 2 1 0 3 20
+p61
+aVJason Lawson ORL 04/06/1998 ORL vs. PHI W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p62
+aVGerald Wilkins ORL 04/06/1998 ORL vs. PHI W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 3 0 1 1 -3
+p63
+aVDan Schayes ORL 04/06/1998 ORL vs. PHI W 20 6 1 5 20.0 0 0 - 4 5 80.0 0 2 2 0 0 0 0 3 6
+p64
+aVKevin Edwards ORL 04/06/1998 ORL vs. PHI W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p65
+aVNick Anderson ORL 04/06/1998 ORL vs. PHI W 36 34 13 20 65.0 6 9 66.7 2 5 40.0 1 5 6 4 1 0 2 3 23
+p66
+aVDerek Strong ORL 04/06/1998 ORL vs. PHI W 33 12 4 11 36.4 0 0 - 4 4 100.0 3 3 6 0 0 0 1 3 19
+p67
+aVBo Outlaw ORL 04/06/1998 ORL vs. PHI W 42 8 2 4 50.0 0 0 - 4 4 100.0 4 7 11 9 3 3 1 0 32
+p68
+aVHorace Grant ORL 04/06/1998 ORL vs. PHI W 36 15 6 11 54.5 0 0 - 3 6 50.0 6 5 11 4 2 0 3 2 26
+p69
+aVKevin Ollie ORL 04/06/1998 ORL vs. PHI W 6 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 1 0 1 1 -11
+p70
+aVDavid Benoit ORL 04/06/1998 ORL vs. PHI W 6 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 -11
+p71
+aVDavid Benoit ORL 04/05/1998 ORL @ WAS L 11 3 1 2 50.0 0 0 - 1 1 100.0 2 0 2 0 0 0 0 0 -11
+p72
+aVDerek Harper ORL 04/05/1998 ORL @ WAS L 35 7 3 8 37.5 0 1 0.0 1 2 50.0 0 2 2 10 3 1 1 4 14
+p73
+aVMark Price ORL 04/05/1998 ORL @ WAS L 13 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 3 0 0 0 1 -17
+p74
+aVHorace Grant ORL 04/05/1998 ORL @ WAS L 43 17 7 14 50.0 0 0 - 3 3 100.0 0 8 8 3 2 1 0 2 8
+p75
+aVNick Anderson ORL 04/05/1998 ORL @ WAS L 45 25 11 28 39.3 2 6 33.3 1 2 50.0 2 4 6 2 2 0 1 2 -1
+p76
+aVBo Outlaw ORL 04/05/1998 ORL @ WAS L 41 6 3 6 50.0 0 0 - 0 2 0.0 2 10 12 5 0 1 8 4 6
+p77
+aVDerek Strong ORL 04/05/1998 ORL @ WAS L 25 14 5 11 45.5 0 0 - 4 7 57.1 5 2 7 0 1 0 0 1 -7
+p78
+aVDan Schayes ORL 04/05/1998 ORL @ WAS L 28 6 2 8 25.0 0 0 - 2 2 100.0 3 4 7 1 0 1 2 2 -7
+p79
+aVDerek Harper ORL 04/01/1998 ORL vs. BOS L 26 3 1 5 20.0 0 3 0.0 1 2 50.0 0 2 2 3 0 0 4 2 -18
+p80
+aVDavid Benoit ORL 04/01/1998 ORL vs. BOS L 23 13 5 10 50.0 2 4 50.0 1 1 100.0 2 5 7 0 0 0 1 4 -2
+p81
+aVKevin Ollie ORL 04/01/1998 ORL vs. BOS L 3 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -1
+p82
+aVHorace Grant ORL 04/01/1998 ORL vs. BOS L 42 16 7 13 53.8 0 0 - 2 5 40.0 5 4 9 2 2 0 0 3 -7
+p83
+aVMark Price ORL 04/01/1998 ORL vs. BOS L 19 0 0 6 0.0 0 0 - 0 0 - 0 1 1 3 0 0 3 3 6
+p84
+aVDerek Strong ORL 04/01/1998 ORL vs. BOS L 31 17 6 12 50.0 0 0 - 5 6 83.3 4 4 8 0 0 0 1 1 -7
+p85
+aVDan Schayes ORL 04/01/1998 ORL vs. BOS L 18 4 2 4 50.0 0 0 - 0 0 - 3 0 3 1 1 0 0 2 -7
+p86
+aVGerald Wilkins ORL 04/01/1998 ORL vs. BOS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p87
+aVBo Outlaw ORL 04/01/1998 ORL vs. BOS L 37 13 5 10 50.0 0 0 - 3 7 42.9 2 6 8 4 0 4 3 3 -3
+p88
+aVNick Anderson ORL 04/01/1998 ORL vs. BOS L 36 18 4 16 25.0 0 5 0.0 10 13 76.9 2 3 5 1 0 0 2 1 -18
+p89
+aVDerek Harper ORL 03/31/1998 ORL @ CLE L 22 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 4 1 0 2 1 -6
+p90
+aVKevin Ollie ORL 03/31/1998 ORL @ CLE L 19 9 3 6 50.0 0 0 - 3 4 75.0 0 0 0 3 0 0 0 1 4
+p91
+aVDan Schayes ORL 03/31/1998 ORL @ CLE L 25 8 3 7 42.9 0 0 - 2 3 66.7 0 4 4 0 0 1 0 2 -9
+p92
+aVGerald Wilkins ORL 03/31/1998 ORL @ CLE L 23 6 2 8 25.0 1 1 100.0 1 3 33.3 1 3 4 1 1 0 1 2 -4
+p93
+aVHorace Grant ORL 03/31/1998 ORL @ CLE L 27 14 6 12 50.0 0 0 - 2 2 100.0 0 6 6 3 1 0 0 3 -12
+p94
+aVDerek Strong ORL 03/31/1998 ORL @ CLE L 28 17 6 10 60.0 0 0 - 5 5 100.0 4 3 7 1 2 1 3 5 2
+p95
+aVJason Lawson ORL 03/31/1998 ORL @ CLE L 12 2 0 1 0.0 0 0 - 2 2 100.0 4 2 6 1 0 1 0 3 5
+p96
+aVBo Outlaw ORL 03/31/1998 ORL @ CLE L 33 4 2 7 28.6 0 0 - 0 0 - 2 5 7 4 1 4 3 2 -6
+p97
+aVDavid Benoit ORL 03/31/1998 ORL @ CLE L 23 5 2 10 20.0 1 3 33.3 0 0 - 0 0 0 2 1 0 0 2 -5
+p98
+aVMark Price ORL 03/31/1998 ORL @ CLE L 9 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 2 0 0 1 0 -6
+p99
+aVKevin Edwards ORL 03/31/1998 ORL @ CLE L 20 12 4 11 36.4 0 0 - 4 4 100.0 0 4 4 3 0 0 1 2 2
+p100
+aVDerek Strong ORL 03/29/1998 ORL @ TOR W 32 13 4 8 50.0 0 1 0.0 5 6 83.3 5 8 13 2 1 1 3 3 19
+p101
+aVMark Price ORL 03/29/1998 ORL @ TOR W 22 10 5 9 55.6 0 2 0.0 0 0 - 0 2 2 6 1 0 1 2 13
+p102
+aVDan Schayes ORL 03/29/1998 ORL @ TOR W 30 12 5 10 50.0 0 0 - 2 2 100.0 1 7 8 1 0 3 1 3 26
+p103
+aVJason Lawson ORL 03/29/1998 ORL @ TOR W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 0 1 3
+p104
+aVDerek Harper ORL 03/29/1998 ORL @ TOR W 29 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 9 3 0 3 1 18
+p105
+aVDavid Benoit ORL 03/29/1998 ORL @ TOR W 18 6 3 10 30.0 0 1 0.0 0 0 - 2 4 6 0 0 0 1 2 17
+p106
+aVGerald Wilkins ORL 03/29/1998 ORL @ TOR W 20 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 0 2 1 3 2 11
+p107
+aVHorace Grant ORL 03/29/1998 ORL @ TOR W 31 16 7 13 53.8 0 0 - 2 2 100.0 2 4 6 1 0 1 1 2 6
+p108
+aVKevin Ollie ORL 03/29/1998 ORL @ TOR W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 3
+p109
+aVBo Outlaw ORL 03/29/1998 ORL @ TOR W 30 12 5 7 71.4 0 0 - 2 2 100.0 4 4 8 6 2 4 3 3 10
+p110
+aVKevin Edwards ORL 03/29/1998 ORL @ TOR W 21 12 5 13 38.5 0 0 - 2 2 100.0 3 1 4 1 0 1 1 1 9
+p111
+aVDerek Harper ORL 03/27/1998 ORL vs. HOU W 35 13 6 14 42.9 1 5 20.0 0 0 - 0 1 1 9 1 0 0 2 10
+p112
+aVDerek Strong ORL 03/27/1998 ORL vs. HOU W 26 20 9 13 69.2 0 0 - 2 3 66.7 2 5 7 2 0 0 0 1 21
+p113
+aVHorace Grant ORL 03/27/1998 ORL vs. HOU W 40 19 9 15 60.0 0 0 - 1 1 100.0 4 3 7 1 2 2 0 0 21
+p114
+aVJason Lawson ORL 03/27/1998 ORL vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p115
+aVKevin Ollie ORL 03/27/1998 ORL vs. HOU W 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 1 0 2 0 4
+p116
+aVDavid Benoit ORL 03/27/1998 ORL vs. HOU W 14 7 3 7 42.9 0 2 0.0 1 2 50.0 3 4 7 1 1 0 0 1 6
+p117
+aVMark Price ORL 03/27/1998 ORL vs. HOU W 22 11 5 11 45.5 0 0 - 1 2 50.0 0 0 0 5 1 0 2 1 20
+p118
+aVDan Schayes ORL 03/27/1998 ORL vs. HOU W 28 10 5 7 71.4 0 0 - 0 0 - 4 5 9 0 1 1 2 0 8
+p119
+aVKevin Edwards ORL 03/27/1998 ORL vs. HOU W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p120
+aVGerald Wilkins ORL 03/27/1998 ORL vs. HOU W 32 4 2 9 22.2 0 2 0.0 0 0 - 0 2 2 3 2 0 4 2 18
+p121
+aVBo Outlaw ORL 03/27/1998 ORL vs. HOU W 34 13 5 12 41.7 1 1 100.0 2 2 100.0 3 1 4 7 5 0 1 3 19
+p122
+aVNick Anderson ORL 03/25/1998 ORL vs. CHI L 38 21 7 24 29.2 1 9 11.1 6 6 100.0 3 1 4 1 1 0 2 1 -13
+p123
+aVKevin Ollie ORL 03/25/1998 ORL vs. CHI L 27 14 6 9 66.7 0 0 - 2 5 40.0 0 1 1 3 1 0 1 1 6
+p124
+aVHorace Grant ORL 03/25/1998 ORL vs. CHI L 34 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 1 1 0 0 3 -18
+p125
+aVDerek Harper ORL 03/25/1998 ORL vs. CHI L 21 0 0 6 0.0 0 1 0.0 0 0 - 1 1 2 7 0 1 3 1 -21
+p126
+aVJason Lawson ORL 03/25/1998 ORL vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 3
+p127
+aVBo Outlaw ORL 03/25/1998 ORL vs. CHI L 39 8 4 6 66.7 0 0 - 0 0 - 5 6 11 2 2 2 6 1 -16
+p128
+aVDerek Strong ORL 03/25/1998 ORL vs. CHI L 25 5 2 9 22.2 0 0 - 1 2 50.0 3 6 9 0 0 0 1 1 -1
+p129
+aVDavid Benoit ORL 03/25/1998 ORL vs. CHI L 21 9 3 9 33.3 1 4 25.0 2 2 100.0 2 3 5 1 1 0 2 3 3
+p130
+aVDan Schayes ORL 03/25/1998 ORL vs. CHI L 20 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 0 0 0 1 2 -14
+p131
+aVGerald Wilkins ORL 03/25/1998 ORL vs. CHI L 13 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -4
+p132
+aVKevin Ollie ORL 03/24/1998 ORL @ ATL L 2 4 1 1 100.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 0 6
+p133
+aVDavid Benoit ORL 03/24/1998 ORL @ ATL L 20 2 1 7 14.3 0 0 - 0 0 - 0 2 2 0 1 0 0 4 -7
+p134
+aVDerek Strong ORL 03/24/1998 ORL @ ATL L 26 12 4 11 36.4 0 0 - 4 6 66.7 2 5 7 0 1 0 1 2 -10
+p135
+aVJason Lawson ORL 03/24/1998 ORL @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p136
+aVDerek Harper ORL 03/24/1998 ORL @ ATL L 27 10 4 7 57.1 2 4 50.0 0 1 0.0 0 3 3 4 1 1 3 3 -14
+p137
+aVKevin Edwards ORL 03/24/1998 ORL @ ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 2 0 0 0 11
+p138
+aVGerald Wilkins ORL 03/24/1998 ORL @ ATL L 29 6 3 11 27.3 0 0 - 0 0 - 0 2 2 2 1 0 2 1 -12
+p139
+aVDan Schayes ORL 03/24/1998 ORL @ ATL L 31 11 5 12 41.7 0 0 - 1 1 100.0 2 2 4 3 2 0 2 2 -16
+p140
+aVMark Price ORL 03/24/1998 ORL @ ATL L 19 8 4 9 44.4 0 3 0.0 0 0 - 0 0 0 3 2 0 2 3 -4
+p141
+aVBo Outlaw ORL 03/24/1998 ORL @ ATL L 38 12 5 10 50.0 0 0 - 2 2 100.0 5 2 7 3 1 1 4 4 -9
+p142
+aVHorace Grant ORL 03/24/1998 ORL @ ATL L 40 8 3 9 33.3 0 0 - 2 2 100.0 5 1 6 1 0 2 0 2 -6
+p143
+aVGerald Wilkins ORL 03/22/1998 ORL vs. GSW W 27 4 1 5 20.0 0 0 - 2 4 50.0 0 2 2 4 0 2 1 0 1
+p144
+aVDerek Strong ORL 03/22/1998 ORL vs. GSW W 35 18 4 15 26.7 0 0 - 10 12 83.3 1 11 12 2 1 1 1 2 6
+p145
+aVDan Schayes ORL 03/22/1998 ORL vs. GSW W 25 10 3 10 30.0 0 0 - 4 5 80.0 1 3 4 0 0 1 0 4 1
+p146
+aVDavid Benoit ORL 03/22/1998 ORL vs. GSW W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p147
+aVBo Outlaw ORL 03/22/1998 ORL vs. GSW W 41 22 8 11 72.7 0 0 - 6 11 54.5 6 1 7 5 0 5 0 3 15
+p148
+aVHorace Grant ORL 03/22/1998 ORL vs. GSW W 39 14 6 15 40.0 0 0 - 2 2 100.0 6 5 11 3 4 1 0 3 8
+p149
+aVKevin Edwards ORL 03/22/1998 ORL vs. GSW W 16 7 2 6 33.3 1 1 100.0 2 4 50.0 2 2 4 0 1 0 2 1 4
+p150
+aVMark Price ORL 03/22/1998 ORL vs. GSW W 24 9 4 9 44.4 0 0 - 1 2 50.0 1 2 3 6 5 0 4 2 8
+p151
+aVDerek Harper ORL 03/22/1998 ORL vs. GSW W 30 8 1 4 25.0 1 2 50.0 5 6 83.3 0 4 4 3 0 0 0 2 5
+p152
+aVDavid Benoit ORL 03/20/1998 ORL vs. POR W 32 19 6 14 42.9 3 6 50.0 4 4 100.0 3 5 8 1 0 0 3 3 -1
+p153
+aVHorace Grant ORL 03/20/1998 ORL vs. POR W 37 4 2 5 40.0 0 0 - 0 3 0.0 3 4 7 1 1 1 1 3 11
+p154
+aVBo Outlaw ORL 03/20/1998 ORL vs. POR W 24 9 3 5 60.0 0 0 - 3 5 60.0 1 3 4 0 1 1 1 4 19
+p155
+aVDerek Strong ORL 03/20/1998 ORL vs. POR W 32 11 4 8 50.0 0 0 - 3 4 75.0 4 5 9 0 1 1 2 3 8
+p156
+aVGerald Wilkins ORL 03/20/1998 ORL vs. POR W 25 11 4 9 44.4 1 2 50.0 2 4 50.0 1 3 4 0 0 0 1 0 5
+p157
+aVMark Price ORL 03/20/1998 ORL vs. POR W 25 9 4 9 44.4 1 4 25.0 0 2 0.0 0 4 4 9 0 0 4 1 7
+p158
+aVKevin Ollie ORL 03/20/1998 ORL vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p159
+aVKevin Edwards ORL 03/20/1998 ORL vs. POR W 5 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 7
+p160
+aVDan Schayes ORL 03/20/1998 ORL vs. POR W 18 14 6 8 75.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 4 8
+p161
+aVNick Anderson ORL 03/20/1998 ORL vs. POR W 12 9 4 8 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 -4
+p162
+aVJason Lawson ORL 03/20/1998 ORL vs. POR W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p163
+aVDerek Harper ORL 03/20/1998 ORL vs. POR W 29 10 4 10 40.0 2 4 50.0 0 0 - 0 1 1 10 2 0 1 4 15
+p164
+aVMark Price ORL 03/19/1998 ORL @ NJN L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 6 1 2 4 1 -4
+p165
+aVDerek Strong ORL 03/19/1998 ORL @ NJN L 32 13 4 10 40.0 0 0 - 5 6 83.3 2 1 3 0 2 1 1 4 -7
+p166
+aVDan Schayes ORL 03/19/1998 ORL @ NJN L 25 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 1 0 1 1 3 -7
+p167
+aVHorace Grant ORL 03/19/1998 ORL @ NJN L 39 15 6 9 66.7 0 0 - 3 4 75.0 1 7 8 2 0 0 1 5 2
+p168
+aVDerek Harper ORL 03/19/1998 ORL @ NJN L 29 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 3 3 1 2 2 -2
+p169
+aVNick Anderson ORL 03/19/1998 ORL @ NJN L 43 38 17 33 51.5 2 8 25.0 2 3 66.7 2 4 6 3 1 0 1 4 -4
+p170
+aVDavid Benoit ORL 03/19/1998 ORL @ NJN L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 4
+p171
+aVBo Outlaw ORL 03/19/1998 ORL @ NJN L 42 2 1 5 20.0 0 0 - 0 0 - 3 6 9 5 2 2 6 4 -10
+p172
+aVGerald Wilkins ORL 03/19/1998 ORL @ NJN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p173
+aVDerek Strong ORL 03/17/1998 ORL vs. VAN W 27 7 3 9 33.3 0 0 - 1 2 50.0 3 5 8 4 1 1 1 2 4
+p174
+aVMark Price ORL 03/17/1998 ORL vs. VAN W 27 11 5 12 41.7 0 4 0.0 1 1 100.0 0 1 1 6 1 0 2 2 6
+p175
+aVNick Anderson ORL 03/17/1998 ORL vs. VAN W 35 21 7 21 33.3 1 5 20.0 6 8 75.0 4 8 12 5 1 0 0 2 4
+p176
+aVDerek Harper ORL 03/17/1998 ORL vs. VAN W 27 9 4 9 44.4 1 3 33.3 0 1 0.0 0 3 3 3 0 0 2 3 2
+p177
+aVDan Schayes ORL 03/17/1998 ORL vs. VAN W 25 14 4 9 44.4 0 0 - 6 7 85.7 3 2 5 1 1 1 0 5 6
+p178
+aVDavid Benoit ORL 03/17/1998 ORL vs. VAN W 19 11 3 9 33.3 2 7 28.6 3 3 100.0 1 0 1 0 0 1 0 4 7
+p179
+aVBo Outlaw ORL 03/17/1998 ORL vs. VAN W 43 11 4 7 57.1 0 1 0.0 3 7 42.9 4 7 11 0 3 4 0 1 5
+p180
+aVHorace Grant ORL 03/17/1998 ORL vs. VAN W 38 15 6 10 60.0 0 0 - 3 4 75.0 3 1 4 1 1 1 0 3 1
+p181
+aVDan Schayes ORL 03/15/1998 ORL vs. MIA L 38 14 5 10 50.0 0 0 - 4 4 100.0 2 3 5 3 2 0 2 3 1
+p182
+aVHorace Grant ORL 03/15/1998 ORL vs. MIA L 39 7 2 6 33.3 0 0 - 3 5 60.0 0 10 10 1 4 0 2 2 -1
+p183
+aVDerek Strong ORL 03/15/1998 ORL vs. MIA L 19 4 2 10 20.0 0 0 - 0 0 - 3 3 6 0 0 0 2 2 -6
+p184
+aVDerek Harper ORL 03/15/1998 ORL vs. MIA L 37 9 4 9 44.4 1 4 25.0 0 1 0.0 0 0 0 8 1 0 4 4 2
+p185
+aVNick Anderson ORL 03/15/1998 ORL vs. MIA L 38 30 12 19 63.2 1 4 25.0 5 7 71.4 1 6 7 1 0 0 4 3 3
+p186
+aVDavid Benoit ORL 03/15/1998 ORL vs. MIA L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p187
+aVMark Price ORL 03/15/1998 ORL vs. MIA L 16 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 3 3 -8
+p188
+aVBo Outlaw ORL 03/15/1998 ORL vs. MIA L 44 10 4 7 57.1 0 0 - 2 6 33.3 8 7 15 3 0 5 7 2 2
+p189
+aVGerald Wilkins ORL 03/15/1998 ORL vs. MIA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -5
+p190
+aVKevin Ollie ORL 03/15/1998 ORL vs. MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p191
+aVKevin Ollie ORL 03/13/1998 ORL vs. CHH L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p192
+aVDerek Strong ORL 03/13/1998 ORL vs. CHH L 21 8 3 12 25.0 0 0 - 2 4 50.0 5 4 9 0 1 0 0 1 -18
+p193
+aVDerek Harper ORL 03/13/1998 ORL vs. CHH L 32 12 5 12 41.7 2 7 28.6 0 0 - 0 1 1 5 1 0 1 1 5
+p194
+aVKevin Edwards ORL 03/13/1998 ORL vs. CHH L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p195
+aVDan Schayes ORL 03/13/1998 ORL vs. CHH L 34 17 7 15 46.7 0 0 - 3 3 100.0 3 6 9 1 1 0 0 3 -12
+p196
+aVHorace Grant ORL 03/13/1998 ORL vs. CHH L 37 0 0 5 0.0 0 0 - 0 0 - 1 5 6 3 1 0 1 1 -5
+p197
+aVNick Anderson ORL 03/13/1998 ORL vs. CHH L 38 20 8 19 42.1 2 6 33.3 2 6 33.3 1 2 3 3 0 1 0 1 -15
+p198
+aVDavid Benoit ORL 03/13/1998 ORL vs. CHH L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -9
+p199
+aVMark Price ORL 03/13/1998 ORL vs. CHH L 20 9 4 10 40.0 0 0 - 1 2 50.0 0 4 4 3 1 0 3 2 -18
+p200
+aVBo Outlaw ORL 03/13/1998 ORL vs. CHH L 35 10 3 5 60.0 0 0 - 4 6 66.7 2 4 6 3 2 1 3 3 -8
+p201
+aVGerald Wilkins ORL 03/13/1998 ORL vs. CHH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p202
+aVJason Lawson ORL 03/13/1998 ORL vs. CHH L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p203
+aVDan Schayes ORL 03/10/1998 ORL @ NYK L 17 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -9
+p204
+aVBo Outlaw ORL 03/10/1998 ORL @ NYK L 45 5 2 6 33.3 0 0 - 1 2 50.0 5 2 7 4 0 0 2 5 -8
+p205
+aVDerek Harper ORL 03/10/1998 ORL @ NYK L 34 4 1 8 12.5 0 5 0.0 2 3 66.7 0 1 1 5 1 0 2 1 -7
+p206
+aVDerek Strong ORL 03/10/1998 ORL @ NYK L 30 16 8 13 61.5 0 0 - 0 0 - 3 5 8 0 1 0 0 0 -2
+p207
+aVNick Anderson ORL 03/10/1998 ORL @ NYK L 32 25 10 20 50.0 4 8 50.0 1 4 25.0 1 2 3 0 0 1 2 3 -9
+p208
+aVKevin Ollie ORL 03/10/1998 ORL @ NYK L 14 6 0 4 0.0 0 0 - 6 6 100.0 1 2 3 1 0 0 3 2 0
+p209
+aVHorace Grant ORL 03/10/1998 ORL @ NYK L 40 8 3 11 27.3 0 0 - 2 2 100.0 1 12 13 2 1 0 1 0 -6
+p210
+aVDavid Benoit ORL 03/10/1998 ORL @ NYK L 11 9 4 8 50.0 1 3 33.3 0 0 - 2 3 5 0 0 0 0 1 4
+p211
+aVGerald Wilkins ORL 03/10/1998 ORL @ NYK L 16 5 2 5 40.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 2 2
+p212
+aVKevin Edwards ORL 03/09/1998 ORL @ PHI W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 2
+p213
+aVGerald Wilkins ORL 03/09/1998 ORL @ PHI W 8 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p214
+aVBo Outlaw ORL 03/09/1998 ORL @ PHI W 40 8 2 5 40.0 0 0 - 4 4 100.0 3 5 8 4 0 2 4 5 13
+p215
+aVNick Anderson ORL 03/09/1998 ORL @ PHI W 40 22 8 22 36.4 1 6 16.7 5 8 62.5 3 5 8 7 4 0 3 2 15
+p216
+aVKevin Ollie ORL 03/09/1998 ORL @ PHI W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 1 -8
+p217
+aVDan Schayes ORL 03/09/1998 ORL @ PHI W 26 12 5 11 45.5 0 0 - 2 4 50.0 3 6 9 0 1 1 1 5 3
+p218
+aVHorace Grant ORL 03/09/1998 ORL @ PHI W 36 18 7 15 46.7 0 1 0.0 4 4 100.0 6 5 11 1 3 2 2 1 9
+p219
+aVDerek Harper ORL 03/09/1998 ORL @ PHI W 37 10 3 7 42.9 1 2 50.0 3 4 75.0 3 1 4 6 0 0 0 2 18
+p220
+aVDerek Strong ORL 03/09/1998 ORL @ PHI W 31 15 4 9 44.4 0 0 - 7 11 63.6 3 4 7 0 2 0 2 3 9
+p221
+aVDavid Benoit ORL 03/09/1998 ORL @ PHI W 8 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 0 -3
+p222
+aVBo Outlaw ORL 03/06/1998 ORL vs. CLE W 53 22 7 11 63.6 0 0 - 8 11 72.7 4 4 8 6 1 5 3 4 2
+p223
+aVDan Schayes ORL 03/06/1998 ORL vs. CLE W 25 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 0 3 5 2
+p224
+aVGerald Wilkins ORL 03/06/1998 ORL vs. CLE W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p225
+aVKevin Ollie ORL 03/06/1998 ORL vs. CLE W 15 8 1 3 33.3 0 0 - 6 7 85.7 1 3 4 0 0 0 2 1 -3
+p226
+aVDavid Benoit ORL 03/06/1998 ORL vs. CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -8
+p227
+aVDerek Harper ORL 03/06/1998 ORL vs. CLE W 41 9 4 11 36.4 1 5 20.0 0 0 - 0 3 3 8 2 0 2 1 -1
+p228
+aVHorace Grant ORL 03/06/1998 ORL vs. CLE W 45 14 6 12 50.0 0 0 - 2 4 50.0 2 5 7 2 2 2 3 2 8
+p229
+aVDerek Strong ORL 03/06/1998 ORL vs. CLE W 29 11 4 10 40.0 0 0 - 3 4 75.0 1 4 5 2 0 0 4 5 8
+p230
+aVNick Anderson ORL 03/06/1998 ORL vs. CLE W 49 25 9 18 50.0 3 6 50.0 4 4 100.0 1 6 7 2 2 1 4 2 10
+p231
+aVDerek Harper ORL 03/04/1998 ORL vs. SEA W 36 16 7 12 58.3 0 1 0.0 2 2 100.0 0 1 1 3 0 1 4 2 23
+p232
+aVNick Anderson ORL 03/04/1998 ORL vs. SEA W 39 31 13 19 68.4 2 8 25.0 3 5 60.0 0 8 8 5 3 0 0 0 22
+p233
+aVDan Schayes ORL 03/04/1998 ORL vs. SEA W 28 7 2 5 40.0 0 0 - 3 4 75.0 5 1 6 3 0 1 1 2 18
+p234
+aVBo Outlaw ORL 03/04/1998 ORL vs. SEA W 44 10 3 8 37.5 0 0 - 4 11 36.4 3 5 8 2 1 5 2 4 7
+p235
+aVGerald Wilkins ORL 03/04/1998 ORL vs. SEA W 13 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p236
+aVHorace Grant ORL 03/04/1998 ORL vs. SEA W 42 10 4 13 30.8 0 0 - 2 4 50.0 6 5 11 3 1 1 1 2 13
+p237
+aVDerek Strong ORL 03/04/1998 ORL vs. SEA W 26 17 6 14 42.9 0 0 - 5 5 100.0 4 6 10 2 1 0 1 2 -5
+p238
+aVKevin Ollie ORL 03/04/1998 ORL vs. SEA W 12 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 2 -10
+p239
+aVGerald Wilkins ORL 02/28/1998 ORL @ CHH L 17 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -12
+p240
+aVDerek Strong ORL 02/28/1998 ORL @ CHH L 9 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -13
+p241
+aVDavid Benoit ORL 02/28/1998 ORL @ CHH L 23 15 6 11 54.5 3 5 60.0 0 0 - 1 3 4 0 2 0 1 1 12
+p242
+aVHorace Grant ORL 02/28/1998 ORL @ CHH L 38 7 3 12 25.0 0 1 0.0 1 2 50.0 4 9 13 1 0 0 1 4 -10
+p243
+aVBo Outlaw ORL 02/28/1998 ORL @ CHH L 42 16 7 11 63.6 0 0 - 2 3 66.7 6 2 8 2 2 3 5 0 -21
+p244
+aVSpud Webb ORL 02/28/1998 ORL @ CHH L 9 2 0 3 0.0 0 1 0.0 2 2 100.0 1 0 1 1 1 0 3 3 -9
+p245
+aVJason Lawson ORL 02/28/1998 ORL @ CHH L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 11
+p246
+aVDan Schayes ORL 02/28/1998 ORL @ CHH L 31 10 5 10 50.0 0 0 - 0 0 - 5 1 6 1 0 1 1 4 -8
+p247
+aVDerek Harper ORL 02/28/1998 ORL @ CHH L 39 20 7 16 43.8 2 5 40.0 4 4 100.0 0 2 2 10 0 1 3 3 -1
+p248
+aVKevin Edwards ORL 02/28/1998 ORL @ CHH L 26 9 3 9 33.3 1 2 50.0 2 2 100.0 1 0 1 5 0 0 3 1 1
+p249
+aVBo Outlaw ORL 02/27/1998 ORL vs. TOR L 53 12 4 8 50.0 0 0 - 4 8 50.0 4 3 7 7 0 5 5 5 -11
+p250
+aVKevin Edwards ORL 02/27/1998 ORL vs. TOR L 27 8 3 10 30.0 0 0 - 2 3 66.7 1 2 3 2 0 0 3 2 -6
+p251
+aVDerek Harper ORL 02/27/1998 ORL vs. TOR L 45 16 6 16 37.5 3 8 37.5 1 2 50.0 3 0 3 1 3 0 2 3 -8
+p252
+aVHorace Grant ORL 02/27/1998 ORL vs. TOR L 58 20 10 20 50.0 0 0 - 0 2 0.0 10 10 20 4 4 1 4 2 1
+p253
+aVDerek Strong ORL 02/27/1998 ORL vs. TOR L 38 21 8 17 47.1 0 0 - 5 6 83.3 0 11 11 2 0 1 4 1 0
+p254
+aVDavid Benoit ORL 02/27/1998 ORL vs. TOR L 9 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 2 5
+p255
+aVGerald Wilkins ORL 02/27/1998 ORL vs. TOR L 34 9 3 11 27.3 0 3 0.0 3 4 75.0 0 2 2 3 0 0 2 4 -7
+p256
+aVSpud Webb ORL 02/27/1998 ORL vs. TOR L 21 8 4 7 57.1 0 0 - 0 0 - 1 1 2 4 0 0 3 1 3
+p257
+aVDan Schayes ORL 02/27/1998 ORL vs. TOR L 29 9 3 13 23.1 0 0 - 3 4 75.0 5 4 9 1 0 1 1 3 -17
+p258
+aVJason Lawson ORL 02/25/1998 ORL vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p259
+aVDan Schayes ORL 02/25/1998 ORL vs. DAL W 31 8 3 7 42.9 0 0 - 2 2 100.0 6 6 12 1 0 1 0 3 8
+p260
+aVDavid Benoit ORL 02/25/1998 ORL vs. DAL W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p261
+aVSpud Webb ORL 02/25/1998 ORL vs. DAL W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p262
+aVKevin Edwards ORL 02/25/1998 ORL vs. DAL W 5 5 1 1 100.0 0 0 - 3 3 100.0 0 0 0 1 0 0 0 1 1
+p263
+aVDerek Harper ORL 02/25/1998 ORL vs. DAL W 37 18 6 12 50.0 1 2 50.0 5 5 100.0 0 1 1 3 2 0 1 3 20
+p264
+aVHorace Grant ORL 02/25/1998 ORL vs. DAL W 38 8 4 9 44.4 0 0 - 0 0 - 4 6 10 2 0 0 2 1 26
+p265
+aVGerald Wilkins ORL 02/25/1998 ORL vs. DAL W 20 7 3 9 33.3 0 1 0.0 1 3 33.3 0 2 2 3 1 0 3 2 11
+p266
+aVBo Outlaw ORL 02/25/1998 ORL vs. DAL W 41 29 11 17 64.7 0 0 - 7 9 77.8 3 8 11 5 2 1 3 2 14
+p267
+aVNick Anderson ORL 02/25/1998 ORL vs. DAL W 37 13 4 8 50.0 1 4 25.0 4 6 66.7 3 3 6 3 6 0 3 1 19
+p268
+aVDerek Strong ORL 02/25/1998 ORL vs. DAL W 25 9 3 13 23.1 0 1 0.0 3 4 75.0 1 3 4 2 0 0 2 2 9
+p269
+aVDerek Harper ORL 02/22/1998 ORL vs. LAL W 42 18 7 14 50.0 3 4 75.0 1 3 33.3 1 3 4 7 2 0 1 2 15
+p270
+aVDan Schayes ORL 02/22/1998 ORL vs. LAL W 24 12 4 8 50.0 0 0 - 4 4 100.0 1 3 4 4 0 0 2 5 15
+p271
+aVSpud Webb ORL 02/22/1998 ORL vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p272
+aVDerek Strong ORL 02/22/1998 ORL vs. LAL W 29 12 6 12 50.0 0 0 - 0 1 0.0 1 3 4 1 0 1 3 2 -3
+p273
+aVBo Outlaw ORL 02/22/1998 ORL vs. LAL W 48 10 4 7 57.1 0 0 - 2 4 50.0 8 6 14 6 1 5 4 4 2
+p274
+aVGerald Wilkins ORL 02/22/1998 ORL vs. LAL W 13 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 0 0 0 3 2 -11
+p275
+aVNick Anderson ORL 02/22/1998 ORL vs. LAL W 40 30 8 20 40.0 3 7 42.9 11 14 78.6 4 4 8 3 1 0 1 4 6
+p276
+aVHorace Grant ORL 02/22/1998 ORL vs. LAL W 43 10 4 11 36.4 0 0 - 2 3 66.7 2 8 10 3 2 0 1 3 -8
+p277
+aVBo Outlaw ORL 02/20/1998 ORL vs. IND W 48 3 1 6 16.7 0 0 - 1 2 50.0 3 6 9 4 1 2 3 3 2
+p278
+aVHorace Grant ORL 02/20/1998 ORL vs. IND W 32 6 3 6 50.0 0 0 - 0 0 - 2 5 7 2 0 1 0 2 -6
+p279
+aVDerek Strong ORL 02/20/1998 ORL vs. IND W 29 12 5 12 41.7 0 0 - 2 2 100.0 1 6 7 0 0 0 1 1 -3
+p280
+aVDerek Harper ORL 02/20/1998 ORL vs. IND W 32 8 3 8 37.5 2 5 40.0 0 0 - 1 1 2 3 0 0 0 1 -2
+p281
+aVDan Schayes ORL 02/20/1998 ORL vs. IND W 29 18 8 14 57.1 0 0 - 2 2 100.0 5 4 9 1 1 0 1 3 16
+p282
+aVNick Anderson ORL 02/20/1998 ORL vs. IND W 44 37 14 29 48.3 1 4 25.0 8 9 88.9 5 2 7 4 3 0 3 3 8
+p283
+aVGerald Wilkins ORL 02/20/1998 ORL vs. IND W 26 9 3 8 37.5 1 1 100.0 2 2 100.0 0 2 2 4 0 0 4 1 -5
+p284
+aVGerald Wilkins ORL 02/18/1998 ORL vs. MIN W 14 9 3 5 60.0 2 2 100.0 1 2 50.0 0 1 1 0 0 0 2 1 2
+p285
+aVMark Price ORL 02/18/1998 ORL vs. MIN W 15 13 5 8 62.5 1 3 33.3 2 2 100.0 0 1 1 7 0 0 2 0 10
+p286
+aVHorace Grant ORL 02/18/1998 ORL vs. MIN W 43 26 10 17 58.8 0 0 - 6 6 100.0 3 5 8 2 2 4 0 4 12
+p287
+aVDerek Harper ORL 02/18/1998 ORL vs. MIN W 27 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 5 0 0 3 3 11
+p288
+aVBo Outlaw ORL 02/18/1998 ORL vs. MIN W 42 6 3 6 50.0 0 0 - 0 0 - 2 9 11 7 2 3 5 6 14
+p289
+aVDan Schayes ORL 02/18/1998 ORL vs. MIN W 22 11 4 10 40.0 0 0 - 3 4 75.0 2 3 5 1 0 0 1 3 1
+p290
+aVNick Anderson ORL 02/18/1998 ORL vs. MIN W 40 28 11 21 52.4 1 3 33.3 5 6 83.3 2 3 5 3 2 0 1 5 0
+p291
+aVBrian Evans ORL 02/18/1998 ORL vs. MIN W 5 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 0 1 0 1 0 1
+p292
+aVDerek Strong ORL 02/18/1998 ORL vs. MIN W 31 14 5 9 55.6 0 0 - 4 6 66.7 2 8 10 2 1 2 2 2 14
+p293
+aVBrian Evans ORL 02/16/1998 ORL @ ATL W 8 3 1 5 20.0 0 2 0.0 1 2 50.0 1 0 1 0 0 0 0 0 -5
+p294
+aVBo Outlaw ORL 02/16/1998 ORL @ ATL W 34 6 3 6 50.0 0 0 - 0 2 0.0 0 1 1 2 0 2 1 4 1
+p295
+aVHorace Grant ORL 02/16/1998 ORL @ ATL W 38 17 8 16 50.0 0 1 0.0 1 1 100.0 4 12 16 3 1 2 1 2 15
+p296
+aVNick Anderson ORL 02/16/1998 ORL @ ATL W 42 28 11 21 52.4 0 2 0.0 6 6 100.0 1 7 8 4 2 0 3 1 6
+p297
+aVDerek Harper ORL 02/16/1998 ORL @ ATL W 18 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -8
+p298
+aVDerek Strong ORL 02/16/1998 ORL @ ATL W 27 6 2 10 20.0 0 0 - 2 2 100.0 0 4 4 0 0 2 2 2 -8
+p299
+aVMark Price ORL 02/16/1998 ORL @ ATL W 37 11 4 12 33.3 2 7 28.6 1 1 100.0 0 1 1 8 2 0 2 1 12
+p300
+aVDan Schayes ORL 02/16/1998 ORL @ ATL W 36 10 3 10 30.0 0 0 - 4 4 100.0 5 8 13 2 0 2 1 3 7
+p301
+aVDerek Harper ORL 02/13/1998 ORL vs. NYK L 28 7 2 8 25.0 0 2 0.0 3 4 75.0 0 1 1 6 0 0 0 5 0
+p302
+aVBrian Evans ORL 02/13/1998 ORL vs. NYK L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 0
+p303
+aVRony Seikaly ORL 02/13/1998 ORL vs. NYK L 22 6 2 10 20.0 0 0 - 2 3 66.7 5 2 7 2 0 0 1 2 -15
+p304
+aVJohnny Taylor ORL 02/13/1998 ORL vs. NYK L 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p305
+aVDan Schayes ORL 02/13/1998 ORL vs. NYK L 18 18 8 10 80.0 0 0 - 2 4 50.0 1 2 3 0 1 1 0 2 0
+p306
+aVNick Anderson ORL 02/13/1998 ORL vs. NYK L 39 14 6 15 40.0 0 3 0.0 2 4 50.0 2 4 6 1 2 0 6 1 -20
+p307
+aVAnfernee Hardaway ORL 02/13/1998 ORL vs. NYK L 24 2 0 5 0.0 0 1 0.0 2 2 100.0 0 1 1 3 1 1 2 1 -14
+p308
+aVDerek Strong ORL 02/13/1998 ORL vs. NYK L 28 9 3 8 37.5 0 0 - 3 3 100.0 1 3 4 0 0 0 0 0 -1
+p309
+aVBo Outlaw ORL 02/13/1998 ORL vs. NYK L 38 18 5 9 55.6 0 0 - 8 9 88.9 5 4 9 2 2 1 1 4 -9
+p310
+aVHorace Grant ORL 02/13/1998 ORL vs. NYK L 28 6 3 7 42.9 0 0 - 0 0 - 0 3 3 4 1 2 0 3 -14
+p311
+aVMark Price ORL 02/13/1998 ORL vs. NYK L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 2 -6
+p312
+aVMark Price ORL 02/11/1998 ORL @ MIN W 32 7 3 11 27.3 0 3 0.0 1 1 100.0 1 3 4 7 2 0 3 1 -1
+p313
+aVHorace Grant ORL 02/11/1998 ORL @ MIN W 41 14 6 10 60.0 0 0 - 2 4 50.0 4 2 6 4 1 0 4 4 12
+p314
+aVDerek Strong ORL 02/11/1998 ORL @ MIN W 27 13 4 6 66.7 0 0 - 5 6 83.3 2 5 7 1 0 1 1 2 -3
+p315
+aVRony Seikaly ORL 02/11/1998 ORL @ MIN W 29 6 1 7 14.3 0 0 - 4 6 66.7 1 6 7 2 0 0 2 2 5
+p316
+aVBo Outlaw ORL 02/11/1998 ORL @ MIN W 45 14 5 14 35.7 0 0 - 4 8 50.0 4 8 12 5 0 5 5 4 10
+p317
+aVDerek Harper ORL 02/11/1998 ORL @ MIN W 27 14 6 8 75.0 1 2 50.0 1 3 33.3 0 1 1 5 2 0 1 0 9
+p318
+aVNick Anderson ORL 02/11/1998 ORL @ MIN W 41 28 9 19 47.4 5 9 55.6 5 7 71.4 3 8 11 2 1 0 1 1 3
+p319
+aVHorace Grant ORL 02/10/1998 ORL @ IND L 30 12 5 11 45.5 0 0 - 2 2 100.0 1 6 7 0 0 1 0 1 -18
+p320
+aVRony Seikaly ORL 02/10/1998 ORL @ IND L 29 6 1 5 20.0 0 0 - 4 4 100.0 3 6 9 1 1 3 4 2 -10
+p321
+aVDerek Strong ORL 02/10/1998 ORL @ IND L 22 12 3 9 33.3 0 0 - 6 9 66.7 2 5 7 0 0 2 1 1 -5
+p322
+aVNick Anderson ORL 02/10/1998 ORL @ IND L 32 16 7 12 58.3 0 1 0.0 2 4 50.0 0 2 2 0 1 1 1 1 -14
+p323
+aVAnfernee Hardaway ORL 02/10/1998 ORL @ IND L 11 2 1 6 16.7 0 0 - 0 0 - 1 3 4 3 0 1 2 1 -2
+p324
+aVDerek Harper ORL 02/10/1998 ORL @ IND L 25 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 4 1 0 4 3 -14
+p325
+aVGerald Wilkins ORL 02/10/1998 ORL @ IND L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 0 -2
+p326
+aVBo Outlaw ORL 02/10/1998 ORL @ IND L 28 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 3 3 3 3 -10
+p327
+aVMark Price ORL 02/10/1998 ORL @ IND L 20 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 4 0 0 2 3 -10
+p328
+aVBrian Evans ORL 02/10/1998 ORL @ IND L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 1 -3
+p329
+aVDan Schayes ORL 02/10/1998 ORL @ IND L 16 3 1 4 25.0 0 0 - 1 2 50.0 3 2 5 0 1 1 0 1 -7
+p330
+aVDarrell Armstrong ORL 02/05/1998 ORL vs. WAS W 24 7 3 11 27.3 1 3 33.3 0 0 - 4 1 5 4 0 0 2 0 -5
+p331
+aVHorace Grant ORL 02/05/1998 ORL vs. WAS W 33 7 3 9 33.3 0 0 - 1 2 50.0 2 5 7 1 1 2 0 3 5
+p332
+aVBrian Evans ORL 02/05/1998 ORL vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p333
+aVBo Outlaw ORL 02/05/1998 ORL vs. WAS W 34 15 5 6 83.3 0 0 - 5 6 83.3 2 2 4 3 1 1 1 3 6
+p334
+aVRony Seikaly ORL 02/05/1998 ORL vs. WAS W 12 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -4
+p335
+aVDan Schayes ORL 02/05/1998 ORL vs. WAS W 17 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 3 1 3 4
+p336
+aVMark Price ORL 02/05/1998 ORL vs. WAS W 26 16 6 12 50.0 2 5 40.0 2 2 100.0 1 2 3 2 1 0 4 0 14
+p337
+aVAnfernee Hardaway ORL 02/05/1998 ORL vs. WAS W 28 13 4 10 40.0 3 3 100.0 2 2 100.0 0 2 2 7 1 1 2 3 7
+p338
+aVDerek Strong ORL 02/05/1998 ORL vs. WAS W 27 11 4 9 44.4 0 0 - 3 3 100.0 1 4 5 1 0 0 1 3 15
+p339
+aVNick Anderson ORL 02/05/1998 ORL vs. WAS W 38 18 7 18 38.9 3 8 37.5 1 2 50.0 1 11 12 7 0 1 1 0 10
+p340
+aVDan Schayes ORL 02/03/1998 ORL vs. ATL W 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p341
+aVDerek Strong ORL 02/03/1998 ORL vs. ATL W 20 4 0 7 0.0 0 0 - 4 4 100.0 2 4 6 0 0 1 0 1 -3
+p342
+aVNick Anderson ORL 02/03/1998 ORL vs. ATL W 23 11 4 5 80.0 2 2 100.0 1 2 50.0 0 5 5 2 1 0 0 3 2
+p343
+aVGerald Wilkins ORL 02/03/1998 ORL vs. ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p344
+aVHorace Grant ORL 02/03/1998 ORL vs. ATL W 38 11 5 14 35.7 0 0 - 1 2 50.0 7 1 8 3 0 1 2 1 -8
+p345
+aVDarrell Armstrong ORL 02/03/1998 ORL vs. ATL W 21 7 3 10 30.0 1 2 50.0 0 0 - 3 2 5 3 0 0 3 1 5
+p346
+aVMark Price ORL 02/03/1998 ORL vs. ATL W 27 12 6 13 46.2 0 2 0.0 0 0 - 0 1 1 5 1 0 0 2 -4
+p347
+aVAnfernee Hardaway ORL 02/03/1998 ORL vs. ATL W 27 9 3 11 27.3 1 3 33.3 2 2 100.0 0 2 2 2 1 1 2 2 -3
+p348
+aVBo Outlaw ORL 02/03/1998 ORL vs. ATL W 42 23 11 15 73.3 0 0 - 1 4 25.0 5 12 17 2 2 0 2 3 10
+p349
+aVRony Seikaly ORL 02/03/1998 ORL vs. ATL W 32 12 4 6 66.7 0 0 - 4 5 80.0 1 4 5 5 0 2 3 2 9
+p350
+aVBo Outlaw ORL 01/31/1998 ORL vs. PHX L 18 4 2 8 25.0 0 0 - 0 0 - 3 2 5 0 2 0 0 2 -18
+p351
+aVMark Price ORL 01/31/1998 ORL vs. PHX L 23 13 4 8 50.0 2 3 66.7 3 3 100.0 0 0 0 2 1 0 6 4 4
+p352
+aVAnfernee Hardaway ORL 01/31/1998 ORL vs. PHX L 35 11 5 18 27.8 1 2 50.0 0 0 - 0 5 5 9 1 1 3 4 3
+p353
+aVDan Schayes ORL 01/31/1998 ORL vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p354
+aVHorace Grant ORL 01/31/1998 ORL vs. PHX L 41 10 4 10 40.0 0 0 - 2 4 50.0 7 2 9 2 1 0 1 4 -2
+p355
+aVDerek Strong ORL 01/31/1998 ORL vs. PHX L 30 25 9 13 69.2 0 0 - 7 10 70.0 3 7 10 0 0 0 1 2 12
+p356
+aVBrian Evans ORL 01/31/1998 ORL vs. PHX L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p357
+aVDarrell Armstrong ORL 01/31/1998 ORL vs. PHX L 25 12 4 13 30.8 2 3 66.7 2 3 66.7 2 1 3 1 4 0 3 0 -4
+p358
+aVNick Anderson ORL 01/31/1998 ORL vs. PHX L 39 11 5 9 55.6 1 2 50.0 0 0 - 0 7 7 4 2 0 2 6 5
+p359
+aVRony Seikaly ORL 01/31/1998 ORL vs. PHX L 23 8 2 7 28.6 0 0 - 4 6 66.7 5 6 11 3 0 0 1 2 -12
+p360
+aVBo Outlaw ORL 01/29/1998 ORL @ HOU W 33 10 5 5 100.0 0 0 - 0 2 0.0 2 4 6 2 1 2 0 1 7
+p361
+aVDarrell Armstrong ORL 01/29/1998 ORL @ HOU W 30 17 7 18 38.9 1 1 100.0 2 2 100.0 2 7 9 8 0 1 2 2 17
+p362
+aVHorace Grant ORL 01/29/1998 ORL @ HOU W 41 11 5 11 45.5 0 0 - 1 2 50.0 6 9 15 1 2 2 1 3 8
+p363
+aVNick Anderson ORL 01/29/1998 ORL @ HOU W 31 15 6 17 35.3 1 4 25.0 2 4 50.0 4 3 7 0 1 0 1 1 9
+p364
+aVDan Schayes ORL 01/29/1998 ORL @ HOU W 25 9 2 4 50.0 0 0 - 5 6 83.3 2 4 6 1 0 1 3 5 10
+p365
+aVMark Price ORL 01/29/1998 ORL @ HOU W 18 10 4 12 33.3 1 4 25.0 1 1 100.0 1 0 1 4 1 0 4 1 -9
+p366
+aVAnfernee Hardaway ORL 01/29/1998 ORL @ HOU W 31 11 1 8 12.5 0 2 0.0 9 10 90.0 1 3 4 5 2 2 2 4 -6
+p367
+aVDerek Strong ORL 01/29/1998 ORL @ HOU W 28 12 4 8 50.0 0 0 - 4 6 66.7 1 2 3 1 1 1 1 1 -1
+p368
+aVBrian Evans ORL 01/29/1998 ORL @ HOU W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p369
+aVRony Seikaly ORL 01/28/1998 ORL @ DET L 17 7 3 8 37.5 0 0 - 1 2 50.0 2 3 5 1 0 0 1 1 7
+p370
+aVDarrell Armstrong ORL 01/28/1998 ORL @ DET L 28 9 4 7 57.1 1 2 50.0 0 0 - 1 2 3 8 2 0 4 3 -8
+p371
+aVDerek Strong ORL 01/28/1998 ORL @ DET L 27 7 1 5 20.0 0 0 - 5 6 83.3 2 3 5 1 1 0 2 3 -17
+p372
+aVNick Anderson ORL 01/28/1998 ORL @ DET L 41 22 9 19 47.4 3 8 37.5 1 3 33.3 2 3 5 3 2 0 2 3 3
+p373
+aVDerek Harper ORL 01/28/1998 ORL @ DET L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -11
+p374
+aVMark Price ORL 01/28/1998 ORL @ DET L 21 10 3 9 33.3 2 5 40.0 2 2 100.0 0 2 2 4 1 0 2 0 3
+p375
+aVDan Schayes ORL 01/28/1998 ORL @ DET L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p376
+aVBrian Evans ORL 01/28/1998 ORL @ DET L 12 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 3 0 0 0 3 6
+p377
+aVGerald Wilkins ORL 01/28/1998 ORL @ DET L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -11
+p378
+aVBo Outlaw ORL 01/28/1998 ORL @ DET L 29 7 3 6 50.0 0 0 - 1 4 25.0 1 2 3 0 1 1 0 2 8
+p379
+aVHorace Grant ORL 01/28/1998 ORL @ DET L 40 16 8 14 57.1 0 0 - 0 2 0.0 1 3 4 3 0 0 3 5 -4
+p380
+aVDerek Harper ORL 01/23/1998 ORL @ MIA L 15 7 3 7 42.9 1 1 100.0 0 0 - 1 0 1 0 1 0 0 1 -9
+p381
+aVDerek Strong ORL 01/23/1998 ORL @ MIA L 32 24 8 20 40.0 0 0 - 8 11 72.7 11 4 15 1 2 0 1 5 -4
+p382
+aVBo Outlaw ORL 01/23/1998 ORL @ MIA L 44 8 3 7 42.9 0 0 - 2 6 33.3 1 3 4 0 2 2 2 3 -9
+p383
+aVGerald Wilkins ORL 01/23/1998 ORL @ MIA L 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 0
+p384
+aVDarrell Armstrong ORL 01/23/1998 ORL @ MIA L 38 14 5 12 41.7 1 2 50.0 3 3 100.0 0 3 3 11 1 0 4 6 -2
+p385
+aVDan Schayes ORL 01/23/1998 ORL @ MIA L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 1
+p386
+aVHorace Grant ORL 01/23/1998 ORL @ MIA L 13 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 2 0 0 1 0 -10
+p387
+aVVernon Maxwell ORL 01/23/1998 ORL @ MIA L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p388
+aVBrian Evans ORL 01/23/1998 ORL @ MIA L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p389
+aVNick Anderson ORL 01/23/1998 ORL @ MIA L 32 11 4 9 44.4 1 1 100.0 2 2 100.0 1 5 6 0 3 2 0 0 -9
+p390
+aVRony Seikaly ORL 01/23/1998 ORL @ MIA L 41 14 4 15 26.7 0 0 - 6 8 75.0 3 3 6 2 0 0 3 5 -10
+p391
+aVRony Seikaly ORL 01/21/1998 ORL vs. MIL L 38 18 4 12 33.3 0 0 - 10 10 100.0 4 5 9 3 2 1 4 4 -3
+p392
+aVGerald Wilkins ORL 01/21/1998 ORL vs. MIL L 20 4 2 9 22.2 0 4 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p393
+aVDerek Harper ORL 01/21/1998 ORL vs. MIL L 22 8 2 7 28.6 0 2 0.0 4 4 100.0 0 0 0 2 1 0 2 3 -8
+p394
+aVNick Anderson ORL 01/21/1998 ORL vs. MIL L 18 3 1 6 16.7 1 3 33.3 0 0 - 2 1 3 0 1 0 2 2 -6
+p395
+aVDarrell Armstrong ORL 01/21/1998 ORL vs. MIL L 40 19 6 10 60.0 1 1 100.0 6 7 85.7 1 3 4 5 2 0 8 3 -6
+p396
+aVVernon Maxwell ORL 01/21/1998 ORL vs. MIL L 16 9 3 7 42.9 2 2 100.0 1 2 50.0 1 0 1 1 0 0 2 1 -6
+p397
+aVDan Schayes ORL 01/21/1998 ORL vs. MIL L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p398
+aVHorace Grant ORL 01/21/1998 ORL vs. MIL L 40 8 3 9 33.3 0 0 - 2 2 100.0 2 4 6 4 0 5 1 2 -7
+p399
+aVBo Outlaw ORL 01/21/1998 ORL vs. MIL L 34 15 6 8 75.0 0 0 - 3 6 50.0 1 6 7 2 0 1 0 3 0
+p400
+aVDarrell Armstrong ORL 01/19/1998 ORL @ LAL L 44 24 9 19 47.4 0 0 - 6 6 100.0 3 5 8 9 2 0 2 2 -1
+p401
+aVDan Schayes ORL 01/19/1998 ORL @ LAL L 17 11 4 7 57.1 0 0 - 3 5 60.0 1 1 2 0 0 1 1 4 8
+p402
+aVVernon Maxwell ORL 01/19/1998 ORL @ LAL L 15 3 1 4 25.0 1 2 50.0 0 0 - 2 2 4 0 0 0 2 3 0
+p403
+aVDerek Harper ORL 01/19/1998 ORL @ LAL L 24 7 3 7 42.9 1 1 100.0 0 0 - 2 2 4 3 0 0 2 4 3
+p404
+aVNick Anderson ORL 01/19/1998 ORL @ LAL L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 2 1 0 1
+p405
+aVRony Seikaly ORL 01/19/1998 ORL @ LAL L 22 9 3 5 60.0 0 0 - 3 4 75.0 1 0 1 1 0 0 1 5 -15
+p406
+aVBo Outlaw ORL 01/19/1998 ORL @ LAL L 29 9 3 5 60.0 0 0 - 3 8 37.5 4 8 12 3 0 3 3 1 -12
+p407
+aVGerald Wilkins ORL 01/19/1998 ORL @ LAL L 32 11 5 15 33.3 1 4 25.0 0 0 - 1 4 5 3 2 0 7 2 0
+p408
+aVHorace Grant ORL 01/19/1998 ORL @ LAL L 45 15 7 17 41.2 0 0 - 1 2 50.0 0 9 9 0 0 3 2 2 1
+p409
+aVDerek Harper ORL 01/17/1998 ORL @ UTA L 21 7 3 11 27.3 1 3 33.3 0 0 - 1 0 1 0 0 0 1 1 -19
+p410
+aVDarrell Armstrong ORL 01/17/1998 ORL @ UTA L 35 14 4 14 28.6 0 1 0.0 6 7 85.7 0 3 3 8 1 0 2 3 -10
+p411
+aVDan Schayes ORL 01/17/1998 ORL @ UTA L 17 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 0 2 1 0 5 4
+p412
+aVHorace Grant ORL 01/17/1998 ORL @ UTA L 39 10 3 8 37.5 0 0 - 4 4 100.0 3 2 5 1 0 0 0 3 -23
+p413
+aVVernon Maxwell ORL 01/17/1998 ORL @ UTA L 14 18 3 10 30.0 1 3 33.3 11 11 100.0 1 0 1 3 1 1 2 3 2
+p414
+aVRony Seikaly ORL 01/17/1998 ORL @ UTA L 13 0 0 5 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -9
+p415
+aVBo Outlaw ORL 01/17/1998 ORL @ UTA L 39 11 4 6 66.7 0 0 - 3 6 50.0 8 8 16 2 0 1 1 4 -16
+p416
+aVNick Anderson ORL 01/17/1998 ORL @ UTA L 18 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 2 3 -11
+p417
+aVBrian Evans ORL 01/17/1998 ORL @ UTA L 21 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 3 8
+p418
+aVGerald Wilkins ORL 01/17/1998 ORL @ UTA L 24 16 6 14 42.9 1 2 50.0 3 5 60.0 0 1 1 3 2 0 0 1 4
+p419
+aVDarrell Armstrong ORL 01/16/1998 ORL @ PHX L 26 10 3 8 37.5 0 2 0.0 4 5 80.0 3 4 7 3 0 0 4 3 -21
+p420
+aVJason Lawson ORL 01/16/1998 ORL @ PHX L 6 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 1 0 1 8
+p421
+aVBrian Evans ORL 01/16/1998 ORL @ PHX L 13 7 3 6 50.0 0 0 - 1 1 100.0 3 1 4 1 1 0 1 0 9
+p422
+aVHorace Grant ORL 01/16/1998 ORL @ PHX L 33 14 7 14 50.0 0 0 - 0 1 0.0 1 2 3 4 1 1 1 2 -28
+p423
+aVGerald Wilkins ORL 01/16/1998 ORL @ PHX L 15 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -7
+p424
+aVVernon Maxwell ORL 01/16/1998 ORL @ PHX L 24 2 0 6 0.0 0 1 0.0 2 2 100.0 0 0 0 4 0 0 1 0 -4
+p425
+aVDan Schayes ORL 01/16/1998 ORL @ PHX L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -9
+p426
+aVDerek Harper ORL 01/16/1998 ORL @ PHX L 21 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 2 0 0 2 2 -11
+p427
+aVMark Price ORL 01/16/1998 ORL @ PHX L 14 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -13
+p428
+aVNick Anderson ORL 01/16/1998 ORL @ PHX L 16 11 5 6 83.3 1 2 50.0 0 0 - 2 0 2 2 0 0 0 1 -9
+p429
+aVRony Seikaly ORL 01/16/1998 ORL @ PHX L 33 20 6 15 40.0 0 0 - 8 10 80.0 1 4 5 2 1 0 4 3 -24
+p430
+aVBo Outlaw ORL 01/16/1998 ORL @ PHX L 27 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 1 1 1 0 1 -16
+p431
+aVDerek Harper ORL 01/14/1998 ORL @ SAC L 28 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 1 0 0 2 2 -9
+p432
+aVHorace Grant ORL 01/14/1998 ORL @ SAC L 38 12 6 12 50.0 0 0 - 0 0 - 3 6 9 3 2 3 0 3 -15
+p433
+aVBo Outlaw ORL 01/14/1998 ORL @ SAC L 34 2 1 5 20.0 0 0 - 0 0 - 3 9 12 6 1 3 2 5 -7
+p434
+aVNick Anderson ORL 01/14/1998 ORL @ SAC L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 0
+p435
+aVDan Schayes ORL 01/14/1998 ORL @ SAC L 16 9 3 5 60.0 0 0 - 3 3 100.0 1 2 3 0 1 0 0 0 1
+p436
+aVGerald Wilkins ORL 01/14/1998 ORL @ SAC L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p437
+aVRony Seikaly ORL 01/14/1998 ORL @ SAC L 32 24 7 13 53.8 0 0 - 10 15 66.7 0 5 5 2 0 1 3 1 -10
+p438
+aVVernon Maxwell ORL 01/14/1998 ORL @ SAC L 20 8 3 11 27.3 1 6 16.7 1 2 50.0 0 0 0 2 0 0 2 5 -5
+p439
+aVDarrell Armstrong ORL 01/14/1998 ORL @ SAC L 22 14 5 9 55.6 0 2 0.0 4 5 80.0 1 1 2 2 1 0 2 3 -14
+p440
+aVBrian Evans ORL 01/14/1998 ORL @ SAC L 10 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 0 0 0 0 2 1
+p441
+aVMark Price ORL 01/14/1998 ORL @ SAC L 27 14 5 12 41.7 2 4 50.0 2 2 100.0 1 1 2 9 0 0 2 4 -2
+p442
+aVMark Price ORL 01/13/1998 ORL @ DEN W 22 15 5 8 62.5 3 3 100.0 2 2 100.0 0 5 5 4 1 1 2 1 4
+p443
+aVHorace Grant ORL 01/13/1998 ORL @ DEN W 44 20 9 15 60.0 0 0 - 2 2 100.0 3 8 11 5 2 0 2 2 11
+p444
+aVBrian Evans ORL 01/13/1998 ORL @ DEN W 9 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 1
+p445
+aVGerald Wilkins ORL 01/13/1998 ORL @ DEN W 15 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 13
+p446
+aVBo Outlaw ORL 01/13/1998 ORL @ DEN W 39 10 3 6 50.0 0 0 - 4 5 80.0 4 2 6 1 1 1 1 3 13
+p447
+aVDarrell Armstrong ORL 01/13/1998 ORL @ DEN W 26 4 1 8 12.5 0 1 0.0 2 2 100.0 1 1 2 9 4 0 3 2 10
+p448
+aVDerek Harper ORL 01/13/1998 ORL @ DEN W 24 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 4 2 0 1 0 2
+p449
+aVRony Seikaly ORL 01/13/1998 ORL @ DEN W 29 12 5 6 83.3 0 0 - 2 2 100.0 2 3 5 2 0 2 3 1 6
+p450
+aVDan Schayes ORL 01/13/1998 ORL @ DEN W 21 10 3 5 60.0 0 0 - 4 4 100.0 1 3 4 0 1 0 1 5 13
+p451
+aVVernon Maxwell ORL 01/13/1998 ORL @ DEN W 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -3
+p452
+aVBrian Evans ORL 01/10/1998 ORL vs. BOS W 17 5 1 5 20.0 1 3 33.3 2 2 100.0 0 3 3 1 2 2 1 2 -8
+p453
+aVVernon Maxwell ORL 01/10/1998 ORL vs. BOS W 14 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 1 1 -7
+p454
+aVHorace Grant ORL 01/10/1998 ORL vs. BOS W 40 10 3 8 37.5 0 0 - 4 6 66.7 5 4 9 5 2 0 1 0 11
+p455
+aVDarrell Armstrong ORL 01/10/1998 ORL vs. BOS W 30 14 3 6 50.0 0 0 - 8 9 88.9 1 6 7 2 3 2 8 0 15
+p456
+aVDerek Harper ORL 01/10/1998 ORL vs. BOS W 29 8 3 9 33.3 2 3 66.7 0 0 - 0 1 1 4 0 1 2 1 21
+p457
+aVMark Price ORL 01/10/1998 ORL vs. BOS W 23 13 5 7 71.4 0 2 0.0 3 4 75.0 0 2 2 0 1 0 6 1 -13
+p458
+aVGerald Wilkins ORL 01/10/1998 ORL vs. BOS W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p459
+aVBo Outlaw ORL 01/10/1998 ORL vs. BOS W 42 15 6 7 85.7 0 0 - 3 5 60.0 2 8 10 3 0 5 3 4 13
+p460
+aVRony Seikaly ORL 01/10/1998 ORL vs. BOS W 35 19 6 13 46.2 0 0 - 7 12 58.3 6 6 12 1 0 2 5 0 14
+p461
+aVDan Schayes ORL 01/10/1998 ORL vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p462
+aVDan Schayes ORL 01/08/1998 ORL @ NJN L 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -1
+p463
+aVVernon Maxwell ORL 01/08/1998 ORL @ NJN L 29 15 6 15 40.0 0 4 0.0 3 4 75.0 0 3 3 2 1 0 0 5 4
+p464
+aVBo Outlaw ORL 01/08/1998 ORL @ NJN L 32 6 3 4 75.0 0 0 - 0 0 - 5 5 10 0 0 2 1 5 -17
+p465
+aVDarrell Armstrong ORL 01/08/1998 ORL @ NJN L 39 5 2 15 13.3 0 3 0.0 1 1 100.0 1 1 2 9 2 0 2 2 -5
+p466
+aVDerek Harper ORL 01/08/1998 ORL @ NJN L 33 14 5 12 41.7 2 2 100.0 2 2 100.0 0 1 1 1 0 0 2 5 -2
+p467
+aVRony Seikaly ORL 01/08/1998 ORL @ NJN L 43 25 10 17 58.8 0 0 - 5 8 62.5 5 7 12 0 1 0 1 5 -1
+p468
+aVGerald Wilkins ORL 01/08/1998 ORL @ NJN L 21 8 2 6 33.3 1 2 50.0 3 4 75.0 0 0 0 2 2 0 1 0 5
+p469
+aVHorace Grant ORL 01/08/1998 ORL @ NJN L 37 12 5 13 38.5 0 0 - 2 2 100.0 3 4 7 4 2 1 3 2 7
+p470
+aVRony Seikaly ORL 01/07/1998 ORL @ TOR W 27 7 2 8 25.0 0 0 - 3 6 50.0 1 3 4 0 2 0 1 2 0
+p471
+aVGerald Wilkins ORL 01/07/1998 ORL @ TOR W 15 4 2 9 22.2 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p472
+aVBrian Evans ORL 01/07/1998 ORL @ TOR W 9 0 0 4 0.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -5
+p473
+aVJohnny Taylor ORL 01/07/1998 ORL @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p474
+aVDarrell Armstrong ORL 01/07/1998 ORL @ TOR W 37 7 3 9 33.3 0 2 0.0 1 2 50.0 2 5 7 12 2 0 6 3 7
+p475
+aVBo Outlaw ORL 01/07/1998 ORL @ TOR W 46 14 6 9 66.7 0 0 - 2 4 50.0 5 6 11 3 2 5 1 1 5
+p476
+aVDan Schayes ORL 01/07/1998 ORL @ TOR W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 2 1 -3
+p477
+aVDerek Harper ORL 01/07/1998 ORL @ TOR W 35 15 5 11 45.5 3 6 50.0 2 2 100.0 0 1 1 3 2 0 2 2 2
+p478
+aVHorace Grant ORL 01/07/1998 ORL @ TOR W 39 16 6 10 60.0 0 0 - 4 5 80.0 3 7 10 4 3 0 2 2 9
+p479
+aVVernon Maxwell ORL 01/07/1998 ORL @ TOR W 21 18 8 15 53.3 1 4 25.0 1 1 100.0 1 2 3 0 0 0 1 2 3
+p480
+aVDerek Harper ORL 01/05/1998 ORL vs. SAS L 36 11 5 13 38.5 1 6 16.7 0 0 - 0 2 2 3 5 0 1 2 -1
+p481
+aVVernon Maxwell ORL 01/05/1998 ORL vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p482
+aVGerald Wilkins ORL 01/05/1998 ORL vs. SAS L 14 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p483
+aVBrian Evans ORL 01/05/1998 ORL vs. SAS L 30 11 3 13 23.1 2 4 50.0 3 4 75.0 4 3 7 1 1 0 0 3 -6
+p484
+aVRony Seikaly ORL 01/05/1998 ORL vs. SAS L 25 12 5 16 31.3 0 0 - 2 3 66.7 1 7 8 0 2 0 5 5 3
+p485
+aVDan Schayes ORL 01/05/1998 ORL vs. SAS L 18 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 2 1 0 1 3 -4
+p486
+aVDarrell Armstrong ORL 01/05/1998 ORL vs. SAS L 46 21 9 16 56.3 0 1 0.0 3 4 75.0 5 4 9 6 1 0 3 1 0
+p487
+aVBo Outlaw ORL 01/05/1998 ORL vs. SAS L 31 7 3 5 60.0 0 0 - 1 2 50.0 2 5 7 1 0 2 1 2 -1
+p488
+aVJason Lawson ORL 01/05/1998 ORL vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p489
+aVHorace Grant ORL 01/05/1998 ORL vs. SAS L 39 4 2 10 20.0 0 0 - 0 0 - 1 7 8 4 1 1 2 3 -9
+p490
+aVHorace Grant ORL 01/03/1998 ORL @ NYK L 37 12 4 12 33.3 0 0 - 4 6 66.7 2 6 8 1 0 1 0 3 -5
+p491
+aVRony Seikaly ORL 01/03/1998 ORL @ NYK L 42 28 9 13 69.2 0 0 - 10 16 62.5 2 6 8 3 2 0 4 4 -9
+p492
+aVGerald Wilkins ORL 01/03/1998 ORL @ NYK L 23 4 0 5 0.0 0 3 0.0 4 4 100.0 0 2 2 0 1 0 3 2 -8
+p493
+aVBrian Evans ORL 01/03/1998 ORL @ NYK L 27 10 3 8 37.5 1 4 25.0 3 4 75.0 2 0 2 0 2 0 1 1 5
+p494
+aVDarrell Armstrong ORL 01/03/1998 ORL @ NYK L 38 12 3 8 37.5 2 3 66.7 4 4 100.0 1 2 3 6 3 0 2 2 -8
+p495
+aVDerek Harper ORL 01/03/1998 ORL @ NYK L 39 12 5 13 38.5 2 4 50.0 0 0 - 0 2 2 4 2 0 3 2 6
+p496
+aVDan Schayes ORL 01/03/1998 ORL @ NYK L 10 3 0 4 0.0 0 0 - 3 4 75.0 1 1 2 0 1 0 0 2 1
+p497
+aVBo Outlaw ORL 01/03/1998 ORL @ NYK L 25 3 1 2 50.0 0 0 - 1 2 50.0 4 1 5 0 1 2 1 4 -2
+p498
+aVBo Outlaw ORL 01/02/1998 ORL vs. CLE L 40 4 1 3 33.3 0 0 - 2 4 50.0 3 5 8 2 2 3 1 3 -5
+p499
+aVGerald Wilkins ORL 01/02/1998 ORL vs. CLE L 22 8 3 9 33.3 0 2 0.0 2 4 50.0 0 3 3 0 0 0 2 3 -7
+p500
+aVDan Schayes ORL 01/02/1998 ORL vs. CLE L 18 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 4 3 -9
+p501
+aVBrian Evans ORL 01/02/1998 ORL vs. CLE L 34 16 6 12 50.0 0 1 0.0 4 4 100.0 0 5 5 1 2 0 2 4 -6
+p502
+aVDerek Harper ORL 01/02/1998 ORL vs. CLE L 20 2 1 9 11.1 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p503
+aVHorace Grant ORL 01/02/1998 ORL vs. CLE L 31 17 7 12 58.3 0 0 - 3 5 60.0 4 5 9 2 2 1 2 5 -9
+p504
+aVMark Price ORL 01/02/1998 ORL vs. CLE L 26 11 4 11 36.4 1 2 50.0 2 2 100.0 0 1 1 4 0 0 1 1 -3
+p505
+aVRony Seikaly ORL 01/02/1998 ORL vs. CLE L 20 9 3 6 50.0 0 0 - 3 3 100.0 2 2 4 2 0 3 2 1 -1
+p506
+aVDarrell Armstrong ORL 01/02/1998 ORL vs. CLE L 28 2 1 7 14.3 0 3 0.0 0 0 - 2 2 4 4 3 0 5 2 -9
+p507
+aVDarrell Armstrong ORL 12/30/1997 ORL vs. NYK L 23 6 0 5 0.0 0 3 0.0 6 7 85.7 0 3 3 5 1 0 2 2 -5
+p508
+aVMark Price ORL 12/30/1997 ORL vs. NYK L 26 10 3 10 30.0 0 2 0.0 4 4 100.0 1 0 1 4 0 0 3 2 6
+p509
+aVDan Schayes ORL 12/30/1997 ORL vs. NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p510
+aVRony Seikaly ORL 12/30/1997 ORL vs. NYK L 34 9 2 6 33.3 0 1 0.0 5 6 83.3 3 5 8 2 0 1 5 3 -4
+p511
+aVBrian Evans ORL 12/30/1997 ORL vs. NYK L 31 16 5 12 41.7 1 3 33.3 5 6 83.3 1 7 8 1 2 1 4 3 -1
+p512
+aVDerek Harper ORL 12/30/1997 ORL vs. NYK L 33 15 6 13 46.2 3 7 42.9 0 0 - 1 1 2 2 1 1 1 2 -4
+p513
+aVBo Outlaw ORL 12/30/1997 ORL vs. NYK L 29 9 3 5 60.0 0 0 - 3 6 50.0 3 2 5 0 0 3 2 5 -4
+p514
+aVDonald Royal ORL 12/30/1997 ORL vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p515
+aVHorace Grant ORL 12/30/1997 ORL vs. NYK L 42 10 5 12 41.7 0 0 - 0 0 - 3 5 8 2 1 0 1 1 -1
+p516
+aVGerald Wilkins ORL 12/30/1997 ORL vs. NYK L 14 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -7
+p517
+aVGerald Wilkins ORL 12/27/1997 ORL vs. CHH W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 3 -5
+p518
+aVDarrell Armstrong ORL 12/27/1997 ORL vs. CHH W 19 6 1 4 25.0 0 2 0.0 4 4 100.0 0 2 2 2 0 0 2 1 -4
+p519
+aVHorace Grant ORL 12/27/1997 ORL vs. CHH W 44 8 3 10 30.0 0 0 - 2 2 100.0 2 8 10 3 1 4 0 3 11
+p520
+aVBo Outlaw ORL 12/27/1997 ORL vs. CHH W 22 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 5 14
+p521
+aVBrian Evans ORL 12/27/1997 ORL vs. CHH W 27 10 5 9 55.6 0 0 - 0 0 - 1 2 3 1 1 0 1 3 -7
+p522
+aVDan Schayes ORL 12/27/1997 ORL vs. CHH W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p523
+aVRony Seikaly ORL 12/27/1997 ORL vs. CHH W 44 25 10 15 66.7 0 0 - 5 6 83.3 2 8 10 3 0 0 3 4 10
+p524
+aVMark Price ORL 12/27/1997 ORL vs. CHH W 30 17 7 12 58.3 1 3 33.3 2 2 100.0 0 5 5 9 0 0 2 1 13
+p525
+aVDerek Harper ORL 12/27/1997 ORL vs. CHH W 41 26 10 19 52.6 4 6 66.7 2 2 100.0 0 1 1 3 2 0 1 3 14
+p526
+aVHorace Grant ORL 12/26/1997 ORL @ IND L 29 10 5 16 31.3 0 0 - 0 2 0.0 6 2 8 1 1 0 0 1 -29
+p527
+aVDarrell Armstrong ORL 12/26/1997 ORL @ IND L 26 16 6 11 54.5 3 3 100.0 1 1 100.0 1 3 4 4 1 0 1 1 -3
+p528
+aVJohnny Taylor ORL 12/26/1997 ORL @ IND L 19 4 1 7 14.3 0 0 - 2 4 50.0 1 2 3 0 2 0 3 1 3
+p529
+aVBo Outlaw ORL 12/26/1997 ORL @ IND L 36 8 3 5 60.0 0 0 - 2 4 50.0 4 2 6 0 1 2 2 3 -17
+p530
+aVDan Schayes ORL 12/26/1997 ORL @ IND L 22 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 1 0 2 5 -11
+p531
+aVBrian Evans ORL 12/26/1997 ORL @ IND L 29 14 5 13 38.5 1 1 100.0 3 3 100.0 0 2 2 2 0 0 0 1 -6
+p532
+aVDonald Royal ORL 12/26/1997 ORL @ IND L 15 5 1 6 16.7 0 0 - 3 4 75.0 2 2 4 1 1 0 2 3 -2
+p533
+aVDerek Harper ORL 12/26/1997 ORL @ IND L 28 12 5 10 50.0 2 4 50.0 0 0 - 1 2 3 3 0 1 0 3 -26
+p534
+aVJason Lawson ORL 12/26/1997 ORL @ IND L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 1 1 0 0 6 -17
+p535
+aVMark Price ORL 12/26/1997 ORL @ IND L 21 3 1 8 12.5 1 3 33.3 0 0 - 2 2 4 9 2 0 4 0 -22
+p536
+aVDarrell Armstrong ORL 12/22/1997 ORL vs. NJN L 11 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 4 5 -14
+p537
+aVJohnny Taylor ORL 12/22/1997 ORL vs. NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p538
+aVMark Price ORL 12/22/1997 ORL vs. NJN L 38 23 8 15 53.3 4 10 40.0 3 3 100.0 0 2 2 7 2 1 4 3 8
+p539
+aVBo Outlaw ORL 12/22/1997 ORL vs. NJN L 40 8 4 7 57.1 0 0 - 0 0 - 2 5 7 2 1 3 1 4 -6
+p540
+aVDerek Harper ORL 12/22/1997 ORL vs. NJN L 27 6 3 9 33.3 0 3 0.0 0 0 - 0 1 1 2 3 0 1 3 -16
+p541
+aVHorace Grant ORL 12/22/1997 ORL vs. NJN L 42 18 7 14 50.0 0 0 - 4 4 100.0 6 5 11 7 1 2 4 1 -7
+p542
+aVGerald Wilkins ORL 12/22/1997 ORL vs. NJN L 25 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 0 -6
+p543
+aVRony Seikaly ORL 12/22/1997 ORL vs. NJN L 40 16 5 11 45.5 0 0 - 6 8 75.0 2 7 9 2 0 3 6 5 -1
+p544
+aVBrian Evans ORL 12/22/1997 ORL vs. NJN L 4 1 0 0 - 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 -2
+p545
+aVDan Schayes ORL 12/22/1997 ORL vs. NJN L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p546
+aVCarl Thomas ORL 12/22/1997 ORL vs. NJN L 4 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p547
+aVMark Price ORL 12/20/1997 ORL vs. IND L 27 10 5 12 41.7 0 2 0.0 0 0 - 0 2 2 3 0 0 1 2 -7
+p548
+aVHorace Grant ORL 12/20/1997 ORL vs. IND L 44 14 7 17 41.2 0 1 0.0 0 0 - 7 8 15 0 2 3 2 4 3
+p549
+aVRony Seikaly ORL 12/20/1997 ORL vs. IND L 44 37 12 27 44.4 0 0 - 13 18 72.2 7 5 12 2 1 0 3 2 3
+p550
+aVGerald Wilkins ORL 12/20/1997 ORL vs. IND L 22 6 2 9 22.2 0 1 0.0 2 2 100.0 1 2 3 2 1 0 0 2 -13
+p551
+aVDerek Harper ORL 12/20/1997 ORL vs. IND L 26 12 6 10 60.0 0 1 0.0 0 0 - 2 0 2 2 2 0 1 4 10
+p552
+aVBrian Evans ORL 12/20/1997 ORL vs. IND L 12 2 1 4 25.0 0 1 0.0 0 0 - 3 2 5 0 1 1 1 1 -3
+p553
+aVDarrell Armstrong ORL 12/20/1997 ORL vs. IND L 21 7 2 6 33.3 1 2 50.0 2 2 100.0 2 1 3 3 0 0 2 3 6
+p554
+aVBo Outlaw ORL 12/20/1997 ORL vs. IND L 39 4 2 8 25.0 0 0 - 0 0 - 4 5 9 1 4 1 3 3 -8
+p555
+aVDan Schayes ORL 12/20/1997 ORL vs. IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p556
+aVBo Outlaw ORL 12/18/1997 ORL vs. UTA L 40 5 2 4 50.0 0 0 - 1 2 50.0 2 5 7 0 4 0 2 4 -16
+p557
+aVCarl Thomas ORL 12/18/1997 ORL vs. UTA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p558
+aVGerald Wilkins ORL 12/18/1997 ORL vs. UTA L 30 7 2 10 20.0 0 1 0.0 3 4 75.0 1 3 4 1 3 0 6 2 -19
+p559
+aVBrian Evans ORL 12/18/1997 ORL vs. UTA L 11 5 2 7 28.6 1 2 50.0 0 0 - 0 0 0 1 1 0 0 2 -3
+p560
+aVDan Schayes ORL 12/18/1997 ORL vs. UTA L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p561
+aVJason Lawson ORL 12/18/1997 ORL vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p562
+aVJohnny Taylor ORL 12/18/1997 ORL vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p563
+aVDarrell Armstrong ORL 12/18/1997 ORL vs. UTA L 29 14 5 10 50.0 2 4 50.0 2 2 100.0 1 2 3 4 0 0 0 4 -3
+p564
+aVRony Seikaly ORL 12/18/1997 ORL vs. UTA L 41 20 6 16 37.5 0 0 - 8 8 100.0 3 7 10 3 0 2 4 4 -5
+p565
+aVHorace Grant ORL 12/18/1997 ORL vs. UTA L 41 10 4 10 40.0 0 0 - 2 4 50.0 1 7 8 5 1 1 0 2 -11
+p566
+aVDerek Harper ORL 12/18/1997 ORL vs. UTA L 34 8 4 10 40.0 0 0 - 0 0 - 0 1 1 6 1 0 4 3 2
+p567
+aVJohnny Taylor ORL 12/13/1997 ORL @ SAS L 8 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -2
+p568
+aVHorace Grant ORL 12/13/1997 ORL @ SAS L 32 14 7 16 43.8 0 0 - 0 0 - 2 3 5 1 1 2 2 2 -23
+p569
+aVJason Lawson ORL 12/13/1997 ORL @ SAS L 9 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 1 1 0 1 0 -2
+p570
+aVDan Schayes ORL 12/13/1997 ORL @ SAS L 13 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -8
+p571
+aVGerald Wilkins ORL 12/13/1997 ORL @ SAS L 20 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -23
+p572
+aVBo Outlaw ORL 12/13/1997 ORL @ SAS L 31 8 2 4 50.0 0 0 - 4 7 57.1 1 7 8 2 2 3 6 3 -24
+p573
+aVRony Seikaly ORL 12/13/1997 ORL @ SAS L 27 12 6 12 50.0 0 0 - 0 1 0.0 2 1 3 0 0 0 5 1 -21
+p574
+aVCarl Thomas ORL 12/13/1997 ORL @ SAS L 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 1 0 0 1
+p575
+aVMark Price ORL 12/13/1997 ORL @ SAS L 21 10 4 6 66.7 2 2 100.0 0 0 - 0 1 1 3 0 0 2 1 -23
+p576
+aVDerek Harper ORL 12/13/1997 ORL @ SAS L 21 3 1 5 20.0 1 1 100.0 0 0 - 0 2 2 3 1 0 1 1 -7
+p577
+aVDarrell Armstrong ORL 12/13/1997 ORL @ SAS L 27 5 2 8 25.0 0 1 0.0 1 1 100.0 5 1 6 2 2 0 1 3 -6
+p578
+aVBrian Evans ORL 12/13/1997 ORL @ SAS L 24 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 2 1 0 1 1 -7
+p579
+aVMark Price ORL 12/11/1997 ORL @ DAL W 27 18 6 10 60.0 3 5 60.0 3 4 75.0 1 4 5 6 0 0 1 3 4
+p580
+aVJason Lawson ORL 12/11/1997 ORL @ DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p581
+aVDan Schayes ORL 12/11/1997 ORL @ DAL W 15 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -2
+p582
+aVCarl Thomas ORL 12/11/1997 ORL @ DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p583
+aVHorace Grant ORL 12/11/1997 ORL @ DAL W 36 15 6 16 37.5 0 1 0.0 3 5 60.0 4 6 10 2 0 2 1 1 0
+p584
+aVJohnny Taylor ORL 12/11/1997 ORL @ DAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p585
+aVDerek Harper ORL 12/11/1997 ORL @ DAL W 28 16 7 11 63.6 2 4 50.0 0 0 - 2 3 5 0 2 0 1 2 1
+p586
+aVBo Outlaw ORL 12/11/1997 ORL @ DAL W 36 8 4 5 80.0 0 0 - 0 2 0.0 4 6 10 2 1 0 4 3 7
+p587
+aVBrian Evans ORL 12/11/1997 ORL @ DAL W 25 13 6 10 60.0 1 3 33.3 0 0 - 0 4 4 1 1 0 2 3 -1
+p588
+aVRony Seikaly ORL 12/11/1997 ORL @ DAL W 28 11 4 12 33.3 0 0 - 3 4 75.0 5 3 8 4 1 0 1 4 23
+p589
+aVDarrell Armstrong ORL 12/11/1997 ORL @ DAL W 21 11 3 7 42.9 1 2 50.0 4 5 80.0 1 0 1 4 2 0 1 0 9
+p590
+aVGerald Wilkins ORL 12/11/1997 ORL @ DAL W 21 4 2 9 22.2 0 4 0.0 0 0 - 1 0 1 3 0 0 0 0 9
+p591
+aVHorace Grant ORL 12/10/1997 ORL vs. CHI W 35 17 7 15 46.7 0 0 - 3 3 100.0 5 3 8 2 1 2 1 1 6
+p592
+aVDan Schayes ORL 12/10/1997 ORL vs. CHI W 11 6 2 6 33.3 0 0 - 2 3 66.7 1 1 2 0 0 1 1 1 5
+p593
+aVBo Outlaw ORL 12/10/1997 ORL vs. CHI W 44 8 3 9 33.3 0 1 0.0 2 4 50.0 7 9 16 1 5 1 2 3 9
+p594
+aVGerald Wilkins ORL 12/10/1997 ORL vs. CHI W 25 9 3 9 33.3 2 6 33.3 1 2 50.0 0 0 0 3 0 0 0 3 -3
+p595
+aVRony Seikaly ORL 12/10/1997 ORL vs. CHI W 42 26 5 14 35.7 0 0 - 16 17 94.1 4 6 10 1 1 2 2 3 9
+p596
+aVDerek Harper ORL 12/10/1997 ORL vs. CHI W 24 9 4 6 66.7 1 2 50.0 0 0 - 0 1 1 2 0 0 0 4 11
+p597
+aVBrian Evans ORL 12/10/1997 ORL vs. CHI W 12 4 1 4 25.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 1 3 -5
+p598
+aVDarrell Armstrong ORL 12/10/1997 ORL vs. CHI W 20 10 4 8 50.0 0 2 0.0 2 2 100.0 0 1 1 3 1 0 2 1 -1
+p599
+aVMark Price ORL 12/10/1997 ORL vs. CHI W 28 17 7 12 58.3 1 3 33.3 2 2 100.0 1 2 3 2 1 0 2 2 9
+p600
+aVDarrell Armstrong ORL 12/08/1997 ORL vs. PHI W 26 10 3 3 100.0 0 0 - 4 4 100.0 0 4 4 5 0 0 1 3 5
+p601
+aVDerek Harper ORL 12/08/1997 ORL vs. PHI W 19 10 5 8 62.5 0 1 0.0 0 0 - 0 1 1 1 3 0 2 2 10
+p602
+aVGerald Wilkins ORL 12/08/1997 ORL vs. PHI W 25 10 3 10 30.0 2 4 50.0 2 2 100.0 0 2 2 3 2 1 0 0 10
+p603
+aVRony Seikaly ORL 12/08/1997 ORL vs. PHI W 35 24 9 16 56.3 0 0 - 6 6 100.0 6 9 15 1 1 2 5 4 9
+p604
+aVNick Anderson ORL 12/08/1997 ORL vs. PHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p605
+aVDan Schayes ORL 12/08/1997 ORL vs. PHI W 15 7 3 9 33.3 0 0 - 1 2 50.0 1 3 4 0 2 2 2 4 2
+p606
+aVBo Outlaw ORL 12/08/1997 ORL vs. PHI W 34 4 2 6 33.3 0 0 - 0 0 - 2 6 8 1 1 1 1 5 1
+p607
+aVBrian Evans ORL 12/08/1997 ORL vs. PHI W 19 11 4 7 57.1 1 2 50.0 2 2 100.0 1 0 1 1 1 0 1 1 9
+p608
+aVMark Price ORL 12/08/1997 ORL vs. PHI W 22 7 3 8 37.5 1 2 50.0 0 0 - 2 0 2 5 1 0 4 0 0
+p609
+aVHorace Grant ORL 12/08/1997 ORL vs. PHI W 40 12 5 12 41.7 0 0 - 2 2 100.0 1 2 3 3 0 2 1 2 6
+p610
+aVNick Anderson ORL 12/06/1997 ORL @ LAC W 22 2 1 4 25.0 0 0 - 0 2 0.0 1 1 2 0 2 0 0 1 3
+p611
+aVGerald Wilkins ORL 12/06/1997 ORL @ LAC W 31 21 9 16 56.3 3 6 50.0 0 2 0.0 0 2 2 0 0 0 2 0 5
+p612
+aVDan Schayes ORL 12/06/1997 ORL @ LAC W 33 8 4 9 44.4 0 0 - 0 0 - 3 8 11 2 0 0 3 4 8
+p613
+aVBrian Evans ORL 12/06/1997 ORL @ LAC W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p614
+aVDerek Harper ORL 12/06/1997 ORL @ LAC W 17 7 2 6 33.3 0 1 0.0 3 4 75.0 0 1 1 3 1 0 1 1 -5
+p615
+aVBo Outlaw ORL 12/06/1997 ORL @ LAC W 44 2 1 6 16.7 0 0 - 0 2 0.0 1 3 4 4 5 2 4 4 4
+p616
+aVHorace Grant ORL 12/06/1997 ORL @ LAC W 39 25 10 19 52.6 0 1 0.0 5 5 100.0 3 6 9 1 1 2 1 3 -2
+p617
+aVMark Price ORL 12/06/1997 ORL @ LAC W 29 9 4 12 33.3 0 0 - 1 1 100.0 3 4 7 9 1 0 0 1 16
+p618
+aVDarrell Armstrong ORL 12/06/1997 ORL @ LAC W 21 9 2 6 33.3 0 0 - 5 6 83.3 2 0 2 2 1 0 1 1 -10
+p619
+aVDerek Harper ORL 12/05/1997 ORL @ GSW L 17 9 3 7 42.9 0 0 - 3 5 60.0 0 1 1 2 1 0 0 3 -2
+p620
+aVJohnny Taylor ORL 12/05/1997 ORL @ GSW L 9 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 0 1 0 2 -2
+p621
+aVDerek Strong ORL 12/05/1997 ORL @ GSW L 13 0 0 4 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -6
+p622
+aVDan Schayes ORL 12/05/1997 ORL @ GSW L 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p623
+aVBo Outlaw ORL 12/05/1997 ORL @ GSW L 32 11 5 6 83.3 0 0 - 1 1 100.0 5 1 6 2 3 2 2 5 -12
+p624
+aVGerald Wilkins ORL 12/05/1997 ORL @ GSW L 32 12 5 14 35.7 2 4 50.0 0 0 - 1 2 3 4 0 0 1 1 -12
+p625
+aVDarrell Armstrong ORL 12/05/1997 ORL @ GSW L 25 2 1 6 16.7 0 1 0.0 0 0 - 2 1 3 4 0 0 1 1 -4
+p626
+aVBrian Evans ORL 12/05/1997 ORL @ GSW L 16 6 2 6 33.3 1 2 50.0 1 2 50.0 1 1 2 0 1 0 1 1 1
+p627
+aVRony Seikaly ORL 12/05/1997 ORL @ GSW L 43 29 10 18 55.6 0 0 - 9 13 69.2 2 9 11 1 0 0 5 2 -15
+p628
+aVNick Anderson ORL 12/05/1997 ORL @ GSW L 21 8 3 11 27.3 1 4 25.0 1 2 50.0 1 6 7 1 1 0 0 2 -3
+p629
+aVMark Price ORL 12/05/1997 ORL @ GSW L 21 11 4 8 50.0 1 2 50.0 2 2 100.0 0 1 1 2 0 0 2 0 -13
+p630
+aVBo Outlaw ORL 12/03/1997 ORL @ VAN W 40 8 4 7 57.1 0 0 - 0 0 - 2 6 8 2 0 1 1 3 9
+p631
+aVMark Price ORL 12/03/1997 ORL @ VAN W 29 11 5 8 62.5 1 2 50.0 0 0 - 1 4 5 13 3 0 2 2 10
+p632
+aVAnfernee Hardaway ORL 12/03/1997 ORL @ VAN W 40 22 7 19 36.8 1 3 33.3 7 8 87.5 1 4 5 4 4 1 1 1 3
+p633
+aVNick Anderson ORL 12/03/1997 ORL @ VAN W 13 10 4 7 57.1 2 3 66.7 0 0 - 0 1 1 1 0 0 0 1 -9
+p634
+aVDarrell Armstrong ORL 12/03/1997 ORL @ VAN W 19 0 0 3 0.0 0 1 0.0 0 0 - 3 1 4 3 0 0 2 2 -6
+p635
+aVGerald Wilkins ORL 12/03/1997 ORL @ VAN W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 0 1
+p636
+aVDan Schayes ORL 12/03/1997 ORL @ VAN W 19 13 6 9 66.7 0 0 - 1 2 50.0 0 2 2 1 0 1 0 5 15
+p637
+aVDerek Strong ORL 12/03/1997 ORL @ VAN W 39 23 8 16 50.0 0 0 - 7 8 87.5 6 5 11 3 2 1 4 1 -6
+p638
+aVRony Seikaly ORL 12/03/1997 ORL @ VAN W 34 10 3 8 37.5 0 0 - 4 8 50.0 0 1 1 0 1 1 1 4 3
+p639
+aVBo Outlaw ORL 12/02/1997 ORL @ POR W 20 11 5 6 83.3 0 0 - 1 2 50.0 3 1 4 1 1 0 2 4 14
+p640
+aVGerald Wilkins ORL 12/02/1997 ORL @ POR W 17 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 0 -4
+p641
+aVRony Seikaly ORL 12/02/1997 ORL @ POR W 43 14 4 15 26.7 0 0 - 6 6 100.0 3 7 10 1 2 0 1 2 -11
+p642
+aVDerek Strong ORL 12/02/1997 ORL @ POR W 36 6 1 9 11.1 0 0 - 4 4 100.0 1 4 5 2 0 0 2 4 8
+p643
+aVAnfernee Hardaway ORL 12/02/1997 ORL @ POR W 42 29 13 27 48.1 0 4 0.0 3 8 37.5 1 3 4 4 4 1 2 2 -2
+p644
+aVBrian Evans ORL 12/02/1997 ORL @ POR W 9 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 -1
+p645
+aVDarrell Armstrong ORL 12/02/1997 ORL @ POR W 19 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 6 3 0 2 2 4
+p646
+aVMark Price ORL 12/02/1997 ORL @ POR W 24 6 2 5 40.0 2 2 100.0 0 1 0.0 1 2 3 4 2 0 4 2 -5
+p647
+aVDan Schayes ORL 12/02/1997 ORL @ POR W 17 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 0 0 0 2 3
+p648
+aVNick Anderson ORL 12/02/1997 ORL @ POR W 13 11 4 6 66.7 3 5 60.0 0 0 - 1 1 2 1 2 0 0 1 -1
+p649
+aVDan Schayes ORL 11/30/1997 ORL @ SEA L 13 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 0 1 3 1
+p650
+aVBo Outlaw ORL 11/30/1997 ORL @ SEA L 23 4 2 3 66.7 0 0 - 0 0 - 0 5 5 3 1 2 0 5 -23
+p651
+aVDerek Strong ORL 11/30/1997 ORL @ SEA L 37 15 6 9 66.7 0 0 - 3 4 75.0 2 3 5 2 1 0 1 1 -13
+p652
+aVJohnny Taylor ORL 11/30/1997 ORL @ SEA L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p653
+aVMark Price ORL 11/30/1997 ORL @ SEA L 27 7 2 9 22.2 0 3 0.0 3 3 100.0 1 1 2 7 0 0 1 2 -14
+p654
+aVBrian Evans ORL 11/30/1997 ORL @ SEA L 19 13 6 10 60.0 0 4 0.0 1 1 100.0 0 3 3 1 0 1 0 1 1
+p655
+aVRony Seikaly ORL 11/30/1997 ORL @ SEA L 21 8 4 9 44.4 0 0 - 0 0 - 1 3 4 1 0 0 5 1 -23
+p656
+aVGerald Wilkins ORL 11/30/1997 ORL @ SEA L 14 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 4 0 0 0 0 -9
+p657
+aVDerek Harper ORL 11/30/1997 ORL @ SEA L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 2 0 1 2 5
+p658
+aVDarrell Armstrong ORL 11/30/1997 ORL @ SEA L 16 2 1 5 20.0 0 1 0.0 0 1 0.0 0 0 0 3 1 0 3 2 -6
+p659
+aVNick Anderson ORL 11/30/1997 ORL @ SEA L 18 9 4 8 50.0 1 3 33.3 0 1 0.0 3 3 6 2 0 1 0 3 1
+p660
+aVAnfernee Hardaway ORL 11/30/1997 ORL @ SEA L 33 13 4 11 36.4 1 3 33.3 4 4 100.0 0 4 4 1 2 0 2 1 -27
+p661
+aVDerek Strong ORL 11/28/1997 ORL vs. MIL W 31 10 5 8 62.5 0 0 - 0 0 - 1 4 5 0 1 0 0 5 8
+p662
+aVGerald Wilkins ORL 11/28/1997 ORL vs. MIL W 12 5 2 5 40.0 1 1 100.0 0 0 - 1 0 1 1 0 0 1 1 -7
+p663
+aVDarrell Armstrong ORL 11/28/1997 ORL vs. MIL W 20 11 4 8 50.0 1 1 100.0 2 2 100.0 2 1 3 2 1 0 1 2 -4
+p664
+aVMark Price ORL 11/28/1997 ORL vs. MIL W 29 22 7 11 63.6 4 5 80.0 4 4 100.0 0 0 0 5 2 0 2 2 10
+p665
+aVRony Seikaly ORL 11/28/1997 ORL vs. MIL W 39 10 2 11 18.2 0 0 - 6 10 60.0 5 6 11 0 0 2 5 3 9
+p666
+aVDan Schayes ORL 11/28/1997 ORL vs. MIL W 18 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 2 3 -10
+p667
+aVAnfernee Hardaway ORL 11/28/1997 ORL vs. MIL W 36 19 6 16 37.5 0 2 0.0 7 8 87.5 0 6 6 8 0 0 5 1 9
+p668
+aVNick Anderson ORL 11/28/1997 ORL vs. MIL W 13 0 0 3 0.0 0 1 0.0 0 2 0.0 2 2 4 0 0 1 2 2 2
+p669
+aVBo Outlaw ORL 11/28/1997 ORL vs. MIL W 42 15 5 8 62.5 0 0 - 5 5 100.0 5 5 10 5 1 5 0 4 3
+p670
+aVBo Outlaw ORL 11/26/1997 ORL vs. MIA L 35 5 1 4 25.0 0 0 - 3 3 100.0 3 6 9 2 2 3 1 1 -24
+p671
+aVDerek Strong ORL 11/26/1997 ORL vs. MIA L 31 6 3 8 37.5 0 0 - 0 0 - 1 9 10 0 0 0 0 1 -19
+p672
+aVAnfernee Hardaway ORL 11/26/1997 ORL vs. MIA L 33 19 6 15 40.0 0 3 0.0 7 10 70.0 0 3 3 2 0 0 1 1 -16
+p673
+aVDerek Harper ORL 11/26/1997 ORL vs. MIA L 11 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 1 4
+p674
+aVMark Price ORL 11/26/1997 ORL vs. MIA L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 3 -16
+p675
+aVBrian Evans ORL 11/26/1997 ORL vs. MIA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 8
+p676
+aVDarrell Armstrong ORL 11/26/1997 ORL vs. MIA L 24 5 2 5 40.0 1 1 100.0 0 1 0.0 2 0 2 5 0 0 1 2 -16
+p677
+aVNick Anderson ORL 11/26/1997 ORL vs. MIA L 20 7 3 7 42.9 1 4 25.0 0 0 - 5 1 6 0 1 1 1 1 -15
+p678
+aVDan Schayes ORL 11/26/1997 ORL vs. MIA L 20 8 2 5 40.0 0 0 - 4 4 100.0 1 2 3 0 2 2 4 5 6
+p679
+aVGerald Wilkins ORL 11/26/1997 ORL vs. MIA L 17 2 1 4 25.0 0 1 0.0 0 2 0.0 0 1 1 1 0 0 1 1 -8
+p680
+aVRony Seikaly ORL 11/26/1997 ORL vs. MIA L 26 3 1 16 6.3 0 0 - 1 2 50.0 1 2 3 1 0 0 1 1 -24
+p681
+aVBrian Evans ORL 11/24/1997 ORL vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p682
+aVNick Anderson ORL 11/24/1997 ORL vs. WAS W 23 11 4 9 44.4 3 5 60.0 0 0 - 1 1 2 2 0 1 1 0 7
+p683
+aVDerek Strong ORL 11/24/1997 ORL vs. WAS W 30 15 5 13 38.5 0 0 - 5 6 83.3 1 4 5 1 0 0 0 3 4
+p684
+aVAnfernee Hardaway ORL 11/24/1997 ORL vs. WAS W 38 15 5 14 35.7 0 1 0.0 5 6 83.3 0 8 8 3 1 2 3 3 5
+p685
+aVDarrell Armstrong ORL 11/24/1997 ORL vs. WAS W 23 9 3 7 42.9 0 1 0.0 3 4 75.0 1 4 5 8 1 1 2 1 10
+p686
+aVDan Schayes ORL 11/24/1997 ORL vs. WAS W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 0 0 3
+p687
+aVMark Price ORL 11/24/1997 ORL vs. WAS W 25 12 5 10 50.0 1 2 50.0 1 1 100.0 0 2 2 4 1 0 1 1 -2
+p688
+aVBo Outlaw ORL 11/24/1997 ORL vs. WAS W 23 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 3 0 4 9
+p689
+aVRony Seikaly ORL 11/24/1997 ORL vs. WAS W 35 24 10 14 71.4 0 0 - 4 5 80.0 4 9 13 1 0 0 2 2 3
+p690
+aVHorace Grant ORL 11/24/1997 ORL vs. WAS W 25 4 2 7 28.6 0 0 - 0 0 - 2 5 7 1 0 0 0 0 0
+p691
+aVDerek Harper ORL 11/24/1997 ORL vs. WAS W 10 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 2 3
+p692
+aVDan Schayes ORL 11/22/1997 ORL @ PHI W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 7
+p693
+aVBo Outlaw ORL 11/22/1997 ORL @ PHI W 35 11 4 8 50.0 0 0 - 3 4 75.0 2 8 10 4 1 1 0 4 14
+p694
+aVGerald Wilkins ORL 11/22/1997 ORL @ PHI W 30 6 2 9 22.2 0 1 0.0 2 2 100.0 1 1 2 4 0 0 1 1 11
+p695
+aVDerek Harper ORL 11/22/1997 ORL @ PHI W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p696
+aVBrian Evans ORL 11/22/1997 ORL @ PHI W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 -9
+p697
+aVRony Seikaly ORL 11/22/1997 ORL @ PHI W 26 17 6 10 60.0 0 0 - 5 8 62.5 4 5 9 2 0 0 4 4 5
+p698
+aVNick Anderson ORL 11/22/1997 ORL @ PHI W 19 9 4 6 66.7 1 2 50.0 0 0 - 0 1 1 2 0 1 0 1 16
+p699
+aVDerek Strong ORL 11/22/1997 ORL @ PHI W 32 21 9 18 50.0 0 0 - 3 4 75.0 3 10 13 1 1 0 1 3 10
+p700
+aVDarrell Armstrong ORL 11/22/1997 ORL @ PHI W 23 12 6 9 66.7 0 1 0.0 0 0 - 0 2 2 6 0 0 2 3 6
+p701
+aVMark Price ORL 11/22/1997 ORL @ PHI W 25 8 4 6 66.7 0 2 0.0 0 0 - 0 2 2 8 0 0 4 0 8
+p702
+aVHorace Grant ORL 11/22/1997 ORL @ PHI W 30 20 10 13 76.9 0 0 - 0 0 - 3 6 9 1 0 0 0 1 6
+p703
+aVRony Seikaly ORL 11/19/1997 ORL @ CLE W 27 10 5 13 38.5 0 0 - 0 0 - 3 5 8 1 0 0 5 2 -17
+p704
+aVNick Anderson ORL 11/19/1997 ORL @ CLE W 20 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -12
+p705
+aVBo Outlaw ORL 11/19/1997 ORL @ CLE W 45 6 2 3 66.7 0 0 - 2 3 66.7 0 5 5 0 0 5 4 4 4
+p706
+aVHorace Grant ORL 11/19/1997 ORL @ CLE W 27 10 5 10 50.0 0 0 - 0 2 0.0 3 4 7 4 0 1 3 3 -9
+p707
+aVDerek Harper ORL 11/19/1997 ORL @ CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -3
+p708
+aVGerald Wilkins ORL 11/19/1997 ORL @ CLE W 34 9 3 8 37.5 0 4 0.0 3 4 75.0 0 3 3 2 0 1 1 3 15
+p709
+aVDarrell Armstrong ORL 11/19/1997 ORL @ CLE W 34 18 7 8 87.5 1 1 100.0 3 4 75.0 2 5 7 7 5 1 1 3 11
+p710
+aVDerek Strong ORL 11/19/1997 ORL @ CLE W 35 20 6 23 26.1 0 1 0.0 8 8 100.0 1 5 6 2 0 0 1 2 14
+p711
+aVBrian Evans ORL 11/19/1997 ORL @ CLE W 19 11 5 10 50.0 1 1 100.0 0 0 - 1 3 4 3 1 0 1 0 14
+p712
+aVMark Price ORL 11/19/1997 ORL @ CLE W 20 10 1 6 16.7 1 1 100.0 7 7 100.0 0 2 2 5 0 0 3 0 -2
+p713
+aVBrian Evans ORL 11/18/1997 ORL vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p714
+aVHorace Grant ORL 11/18/1997 ORL vs. LAC W 36 19 9 13 69.2 0 0 - 1 2 50.0 4 4 8 2 4 0 0 4 25
+p715
+aVDerek Strong ORL 11/18/1997 ORL vs. LAC W 29 13 4 12 33.3 0 0 - 5 6 83.3 3 4 7 0 0 1 1 0 10
+p716
+aVGerald Wilkins ORL 11/18/1997 ORL vs. LAC W 28 17 5 17 29.4 2 3 66.7 5 5 100.0 3 1 4 1 0 0 0 2 12
+p717
+aVBo Outlaw ORL 11/18/1997 ORL vs. LAC W 42 16 5 7 71.4 0 0 - 6 9 66.7 3 4 7 2 0 0 3 2 9
+p718
+aVNick Anderson ORL 11/18/1997 ORL vs. LAC W 25 2 1 6 16.7 0 1 0.0 0 0 - 2 2 4 5 0 0 2 1 12
+p719
+aVTim Kempton ORL 11/18/1997 ORL vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p720
+aVRony Seikaly ORL 11/18/1997 ORL vs. LAC W 30 21 9 17 52.9 0 0 - 3 5 60.0 5 6 11 1 0 0 4 4 1
+p721
+aVMark Price ORL 11/18/1997 ORL vs. LAC W 28 23 10 13 76.9 3 5 60.0 0 0 - 2 6 8 8 1 0 3 1 20
+p722
+aVDarrell Armstrong ORL 11/18/1997 ORL vs. LAC W 20 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 6 1 0 2 2 1
+p723
+aVDarrell Armstrong ORL 11/15/1997 ORL @ WAS W 39 15 6 11 54.5 0 0 - 3 4 75.0 2 1 3 8 0 0 0 2 13
+p724
+aVMark Price ORL 11/15/1997 ORL @ WAS W 9 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 2 1 0 0 0 -3
+p725
+aVBo Outlaw ORL 11/15/1997 ORL @ WAS W 44 24 9 9 100.0 0 0 - 6 10 60.0 5 8 13 1 1 3 0 3 9
+p726
+aVHorace Grant ORL 11/15/1997 ORL @ WAS W 42 13 5 13 38.5 0 0 - 3 3 100.0 3 3 6 1 1 0 2 4 13
+p727
+aVNick Anderson ORL 11/15/1997 ORL @ WAS W 24 10 4 13 30.8 0 1 0.0 2 2 100.0 3 6 9 2 0 1 1 1 6
+p728
+aVDerek Strong ORL 11/15/1997 ORL @ WAS W 36 15 4 13 30.8 0 0 - 7 9 77.8 5 7 12 1 1 0 1 1 3
+p729
+aVBrian Evans ORL 11/15/1997 ORL @ WAS W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p730
+aVGerald Wilkins ORL 11/15/1997 ORL @ WAS W 33 23 5 13 38.5 1 3 33.3 12 13 92.3 0 2 2 3 0 0 2 3 10
+p731
+aVTim Kempton ORL 11/15/1997 ORL @ WAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p732
+aVBo Outlaw ORL 11/14/1997 ORL vs. DEN W 42 18 7 10 70.0 0 0 - 4 6 66.7 6 5 11 5 5 1 3 1 25
+p733
+aVDerek Strong ORL 11/14/1997 ORL vs. DEN W 21 14 4 8 50.0 0 0 - 6 9 66.7 1 3 4 0 0 0 3 2 2
+p734
+aVBrian Evans ORL 11/14/1997 ORL vs. DEN W 7 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p735
+aVMark Price ORL 11/14/1997 ORL vs. DEN W 26 11 3 7 42.9 0 2 0.0 5 5 100.0 1 3 4 7 1 0 2 3 14
+p736
+aVDarrell Armstrong ORL 11/14/1997 ORL vs. DEN W 22 9 3 6 50.0 1 2 50.0 2 2 100.0 2 1 3 9 0 0 3 4 6
+p737
+aVNick Anderson ORL 11/14/1997 ORL vs. DEN W 35 16 8 13 61.5 0 2 0.0 0 2 0.0 2 7 9 1 0 0 1 1 14
+p738
+aVTim Kempton ORL 11/14/1997 ORL vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p739
+aVHorace Grant ORL 11/14/1997 ORL vs. DEN W 35 21 10 15 66.7 0 1 0.0 1 2 50.0 1 5 6 5 0 2 1 3 16
+p740
+aVGerald Wilkins ORL 11/14/1997 ORL vs. DEN W 15 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 1 0 3 0 0
+p741
+aVRony Seikaly ORL 11/14/1997 ORL vs. DEN W 33 6 2 11 18.2 0 0 - 2 2 100.0 1 3 4 1 0 5 1 3 19
+p742
+aVDarrell Armstrong ORL 11/12/1997 ORL vs. SAC L 21 11 5 8 62.5 1 1 100.0 0 0 - 0 4 4 3 0 0 3 1 -6
+p743
+aVNick Anderson ORL 11/12/1997 ORL vs. SAC L 20 8 3 5 60.0 0 1 0.0 2 4 50.0 0 2 2 0 2 1 3 2 -4
+p744
+aVBrian Evans ORL 11/12/1997 ORL vs. SAC L 11 3 1 4 25.0 0 1 0.0 1 2 50.0 1 2 3 1 0 0 0 0 -3
+p745
+aVRony Seikaly ORL 11/12/1997 ORL vs. SAC L 26 13 4 6 66.7 0 0 - 5 6 83.3 2 5 7 1 0 1 3 4 -23
+p746
+aVGerald Wilkins ORL 11/12/1997 ORL vs. SAC L 19 3 1 5 20.0 0 0 - 1 1 100.0 0 0 0 0 1 1 2 1 -8
+p747
+aVMark Price ORL 11/12/1997 ORL vs. SAC L 23 7 3 9 33.3 0 2 0.0 1 1 100.0 0 3 3 4 1 0 3 2 -12
+p748
+aVHorace Grant ORL 11/12/1997 ORL vs. SAC L 27 6 3 5 60.0 0 0 - 0 2 0.0 2 7 9 1 0 2 0 4 -18
+p749
+aVBo Outlaw ORL 11/12/1997 ORL vs. SAC L 22 9 3 9 33.3 0 0 - 3 3 100.0 3 0 3 1 1 3 1 4 -12
+p750
+aVAnfernee Hardaway ORL 11/12/1997 ORL vs. SAC L 27 10 3 11 27.3 0 2 0.0 4 6 66.7 0 1 1 2 1 1 0 2 -14
+p751
+aVDerek Strong ORL 11/12/1997 ORL vs. SAC L 30 17 7 17 41.2 0 0 - 3 4 75.0 8 7 15 0 1 0 0 1 -14
+p752
+aVDerek Harper ORL 11/12/1997 ORL vs. SAC L 14 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 3 0 0 3 -16
+p753
+aVBrian Evans ORL 11/08/1997 ORL vs. TOR W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p754
+aVRony Seikaly ORL 11/08/1997 ORL vs. TOR W 41 26 9 14 64.3 0 0 - 8 10 80.0 5 4 9 2 1 1 3 6 6
+p755
+aVDan Schayes ORL 11/08/1997 ORL vs. TOR W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p756
+aVHorace Grant ORL 11/08/1997 ORL vs. TOR W 38 9 3 11 27.3 0 0 - 3 6 50.0 6 6 12 3 3 0 1 4 15
+p757
+aVDarrell Armstrong ORL 11/08/1997 ORL vs. TOR W 14 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 4 2 0 0 1 -1
+p758
+aVDerek Strong ORL 11/08/1997 ORL vs. TOR W 15 2 0 5 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 4 1 -5
+p759
+aVAnfernee Hardaway ORL 11/08/1997 ORL vs. TOR W 37 17 7 15 46.7 0 1 0.0 3 6 50.0 0 4 4 2 1 1 1 3 14
+p760
+aVGerald Wilkins ORL 11/08/1997 ORL vs. TOR W 14 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 0 1 1 -7
+p761
+aVBo Outlaw ORL 11/08/1997 ORL vs. TOR W 42 16 7 11 63.6 0 0 - 2 5 40.0 2 8 10 7 2 0 2 4 12
+p762
+aVMark Price ORL 11/08/1997 ORL vs. TOR W 35 13 4 9 44.4 1 3 33.3 4 4 100.0 0 1 1 7 2 0 4 1 8
+p763
+aVGerald Wilkins ORL 11/07/1997 ORL @ DET W 13 5 1 5 20.0 1 2 50.0 2 2 100.0 0 0 0 3 2 0 0 0 0
+p764
+aVDan Schayes ORL 11/07/1997 ORL @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p765
+aVNick Anderson ORL 11/07/1997 ORL @ DET W 30 10 5 10 50.0 0 0 - 0 0 - 5 6 11 0 2 0 0 2 11
+p766
+aVDarrell Armstrong ORL 11/07/1997 ORL @ DET W 18 6 3 7 42.9 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -2
+p767
+aVDerek Strong ORL 11/07/1997 ORL @ DET W 15 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 1 2 0 1 4 -6
+p768
+aVRony Seikaly ORL 11/07/1997 ORL @ DET W 45 19 8 13 61.5 0 0 - 3 4 75.0 5 6 11 1 1 2 3 4 8
+p769
+aVAnfernee Hardaway ORL 11/07/1997 ORL @ DET W 35 20 7 14 50.0 1 2 50.0 5 10 50.0 0 3 3 3 3 1 2 2 5
+p770
+aVBo Outlaw ORL 11/07/1997 ORL @ DET W 18 4 0 2 0.0 0 0 - 4 4 100.0 0 1 1 0 2 1 2 3 -6
+p771
+aVMark Price ORL 11/07/1997 ORL @ DET W 31 8 3 15 20.0 0 3 0.0 2 2 100.0 1 1 2 8 1 0 2 1 7
+p772
+aVHorace Grant ORL 11/07/1997 ORL @ DET W 33 11 5 10 50.0 0 0 - 1 2 50.0 2 5 7 1 0 1 3 3 11
+p773
+aVBo Outlaw ORL 11/05/1997 ORL @ CHI L 23 3 1 2 50.0 0 1 0.0 1 2 50.0 2 2 4 0 1 1 2 4 4
+p774
+aVHorace Grant ORL 11/05/1997 ORL @ CHI L 30 2 1 3 33.3 0 0 - 0 2 0.0 1 4 5 1 0 2 2 4 -29
+p775
+aVRony Seikaly ORL 11/05/1997 ORL @ CHI L 39 34 9 19 47.4 0 1 0.0 16 18 88.9 4 9 13 2 2 1 0 4 -4
+p776
+aVBrian Evans ORL 11/05/1997 ORL @ CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 2
+p777
+aVGerald Wilkins ORL 11/05/1997 ORL @ CHI L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p778
+aVAnfernee Hardaway ORL 11/05/1997 ORL @ CHI L 45 20 6 19 31.6 1 5 20.0 7 8 87.5 1 5 6 3 1 0 3 4 -10
+p779
+aVDerek Strong ORL 11/05/1997 ORL @ CHI L 16 8 2 6 33.3 0 0 - 4 5 80.0 1 2 3 0 1 0 0 1 9
+p780
+aVDarrell Armstrong ORL 11/05/1997 ORL @ CHI L 21 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 5
+p781
+aVMark Price ORL 11/05/1997 ORL @ CHI L 27 7 3 8 37.5 0 3 0.0 1 3 33.3 0 1 1 1 0 0 1 0 -18
+p782
+aVNick Anderson ORL 11/05/1997 ORL @ CHI L 30 1 0 8 0.0 0 0 - 1 4 25.0 3 2 5 0 1 0 1 2 -20
+p783
+aVDerek Harper ORL 11/04/1997 ORL @ MIL L 16 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 3 0 0 3 0 -11
+p784
+aVNick Anderson ORL 11/04/1997 ORL @ MIL L 17 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -14
+p785
+aVBrian Evans ORL 11/04/1997 ORL @ MIL L 24 6 3 7 42.9 0 1 0.0 0 0 - 2 1 3 2 1 0 1 2 -9
+p786
+aVDan Schayes ORL 11/04/1997 ORL @ MIL L 7 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 3
+p787
+aVGerald Wilkins ORL 11/04/1997 ORL @ MIL L 29 6 2 7 28.6 0 1 0.0 2 6 33.3 0 0 0 1 2 0 1 1 -19
+p788
+aVDerek Strong ORL 11/04/1997 ORL @ MIL L 27 10 4 14 28.6 0 1 0.0 2 4 50.0 4 2 6 1 0 0 0 2 -11
+p789
+aVDarrell Armstrong ORL 11/04/1997 ORL @ MIL L 16 2 1 3 33.3 0 0 - 0 0 - 1 0 1 4 0 0 3 3 -18
+p790
+aVHorace Grant ORL 11/04/1997 ORL @ MIL L 23 6 3 8 37.5 0 0 - 0 0 - 2 5 7 1 0 0 0 1 -24
+p791
+aVAnfernee Hardaway ORL 11/04/1997 ORL @ MIL L 26 16 4 13 30.8 0 1 0.0 8 10 80.0 1 0 1 1 2 0 3 2 -28
+p792
+aVMark Price ORL 11/04/1997 ORL @ MIL L 13 9 3 4 75.0 0 0 - 3 4 75.0 0 0 0 2 0 0 3 1 -1
+p793
+aVBo Outlaw ORL 11/04/1997 ORL @ MIL L 18 12 5 7 71.4 0 0 - 2 3 66.7 3 4 7 0 1 0 3 3 -11
+p794
+aVRony Seikaly ORL 11/04/1997 ORL @ MIL L 23 2 0 4 0.0 0 0 - 2 2 100.0 0 7 7 0 0 1 2 3 -27
+p795
+aVRony Seikaly ORL 11/02/1997 ORL @ BOS W 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 2 0
+p796
+aVNick Anderson ORL 11/02/1997 ORL @ BOS W 28 13 6 8 75.0 1 1 100.0 0 1 0.0 1 5 6 5 2 2 2 2 15
+p797
+aVHorace Grant ORL 11/02/1997 ORL @ BOS W 29 6 1 6 16.7 0 0 - 4 6 66.7 3 6 9 1 1 1 0 2 -5
+p798
+aVMark Price ORL 11/02/1997 ORL @ BOS W 17 4 1 6 16.7 0 3 0.0 2 2 100.0 0 2 2 3 0 0 5 1 6
+p799
+aVGerald Wilkins ORL 11/02/1997 ORL @ BOS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p800
+aVAnfernee Hardaway ORL 11/02/1997 ORL @ BOS W 37 32 11 20 55.0 6 9 66.7 4 5 80.0 0 5 5 3 2 1 8 3 10
+p801
+aVDarrell Armstrong ORL 11/02/1997 ORL @ BOS W 20 9 3 3 100.0 1 1 100.0 2 3 66.7 2 0 2 7 3 0 2 1 7
+p802
+aVBo Outlaw ORL 11/02/1997 ORL @ BOS W 24 8 4 6 66.7 0 0 - 0 0 - 3 3 6 1 0 3 1 4 3
+p803
+aVDerek Strong ORL 11/02/1997 ORL @ BOS W 26 12 4 7 57.1 0 0 - 4 5 80.0 1 5 6 2 1 1 0 1 24
+p804
+aVDerek Harper ORL 11/02/1997 ORL @ BOS W 36 19 8 12 66.7 1 3 33.3 2 2 100.0 1 2 3 7 0 0 4 1 -4
+p805
+aVBo Outlaw ORL 10/31/1997 ORL vs. ATL L 22 7 3 6 50.0 0 0 - 1 2 50.0 3 0 3 1 2 3 0 3 6
+p806
+aVGerald Wilkins ORL 10/31/1997 ORL vs. ATL L 16 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p807
+aVNick Anderson ORL 10/31/1997 ORL vs. ATL L 21 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 1 1 2 2 -6
+p808
+aVMark Price ORL 10/31/1997 ORL vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p809
+aVBrian Evans ORL 10/31/1997 ORL vs. ATL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p810
+aVHorace Grant ORL 10/31/1997 ORL vs. ATL L 34 10 4 8 50.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 2 -10
+p811
+aVDan Schayes ORL 10/31/1997 ORL vs. ATL L 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 6
+p812
+aVAnfernee Hardaway ORL 10/31/1997 ORL vs. ATL L 40 31 10 21 47.6 0 3 0.0 11 13 84.6 2 6 8 3 1 0 2 5 4
+p813
+aVRony Seikaly ORL 10/31/1997 ORL vs. ATL L 39 28 11 14 78.6 0 0 - 6 9 66.7 4 7 11 1 1 1 3 6 -14
+p814
+aVDerek Harper ORL 10/31/1997 ORL vs. ATL L 35 8 4 10 40.0 0 2 0.0 0 0 - 0 0 0 2 2 0 1 0 -4
+p815
+aVDarrell Armstrong ORL 10/31/1997 ORL vs. ATL L 22 7 2 5 40.0 1 1 100.0 2 2 100.0 0 2 2 3 2 0 0 2 8
+p816
+a.

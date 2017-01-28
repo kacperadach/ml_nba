@@ -1,0 +1,1620 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAl Jefferson MIN 04/16/2008 MIN vs. MIL W 30 13 5 14 35.7 0 0 - 3 4 75.0 4 7 11 2 0 1 3 1 -3
+p2
+aVMarko Jaric MIN 04/16/2008 MIN vs. MIL W 34 15 3 9 33.3 1 4 25.0 8 10 80.0 0 6 6 5 2 0 1 4 1
+p3
+aVMark Madsen MIN 04/16/2008 MIN vs. MIL W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 0 1 1 2 0
+p4
+aVCorey Brewer MIN 04/16/2008 MIN vs. MIL W 33 12 3 9 33.3 0 0 - 6 6 100.0 1 3 4 2 2 1 0 0 2
+p5
+aVRandy Foye MIN 04/16/2008 MIN vs. MIL W 37 32 13 18 72.2 4 5 80.0 2 4 50.0 1 3 4 4 1 0 1 5 14
+p6
+aVMichael Doleac MIN 04/16/2008 MIN vs. MIL W 20 2 1 5 20.0 0 0 - 0 0 - 0 5 5 0 1 0 1 1 18
+p7
+aVChris Richard MIN 04/16/2008 MIN vs. MIL W 24 2 1 8 12.5 0 0 - 0 1 0.0 4 1 5 1 1 1 1 4 -10
+p8
+aVGreg Buckner MIN 04/16/2008 MIN vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p9
+aVKirk Snyder MIN 04/16/2008 MIN vs. MIL W 17 6 3 6 50.0 0 0 - 0 0 - 0 3 3 2 0 0 0 1 5
+p10
+aVRashad McCants MIN 04/16/2008 MIN vs. MIL W 27 10 4 15 26.7 2 8 25.0 0 0 - 0 1 1 1 1 0 0 0 7
+p11
+aVRyan Gomes MIN 04/16/2008 MIN vs. MIL W 30 17 8 13 61.5 1 2 50.0 0 0 - 4 6 10 3 0 0 1 2 19
+p12
+aVRandy Foye MIN 04/15/2008 MIN @ DET L 35 13 6 14 42.9 1 4 25.0 0 0 - 0 0 0 9 3 0 1 4 -6
+p13
+aVAl Jefferson MIN 04/15/2008 MIN @ DET L 39 30 12 26 46.2 0 1 0.0 6 10 60.0 2 7 9 1 1 2 2 4 -9
+p14
+aVRashad McCants MIN 04/15/2008 MIN @ DET L 31 19 8 17 47.1 2 7 28.6 1 2 50.0 1 0 1 2 2 0 1 4 -9
+p15
+aVChris Richard MIN 04/15/2008 MIN @ DET L 16 0 0 3 0.0 0 0 - 0 0 - 3 1 4 0 0 2 2 3 6
+p16
+aVCorey Brewer MIN 04/15/2008 MIN @ DET L 25 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 0 2 1 2 3 1
+p17
+aVKirk Snyder MIN 04/15/2008 MIN @ DET L 24 5 2 5 40.0 0 0 - 1 4 25.0 2 5 7 2 0 0 2 0 -15
+p18
+aVRyan Gomes MIN 04/15/2008 MIN @ DET L 41 14 5 10 50.0 3 4 75.0 1 2 50.0 3 6 9 6 3 0 0 1 -21
+p19
+aVMarko Jaric MIN 04/15/2008 MIN @ DET L 30 13 4 5 80.0 0 0 - 5 5 100.0 0 4 4 3 0 2 1 3 -7
+p20
+aVRyan Gomes MIN 04/12/2008 MIN @ MEM W 30 11 5 14 35.7 0 1 0.0 1 1 100.0 1 11 12 3 0 0 1 2 13
+p21
+aVMark Madsen MIN 04/12/2008 MIN @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p22
+aVChris Richard MIN 04/12/2008 MIN @ MEM W 24 4 2 5 40.0 0 0 - 0 0 - 5 3 8 2 0 0 0 4 0
+p23
+aVRandy Foye MIN 04/12/2008 MIN @ MEM W 35 16 7 18 38.9 2 5 40.0 0 0 - 0 3 3 6 0 1 1 2 6
+p24
+aVAl Jefferson MIN 04/12/2008 MIN @ MEM W 32 21 9 17 52.9 0 0 - 3 4 75.0 2 8 10 2 0 2 1 3 12
+p25
+aVRashad McCants MIN 04/12/2008 MIN @ MEM W 22 23 9 13 69.2 2 4 50.0 3 4 75.0 2 1 3 1 0 0 3 5 7
+p26
+aVMarko Jaric MIN 04/12/2008 MIN @ MEM W 28 9 4 12 33.3 1 2 50.0 0 0 - 0 2 2 1 0 2 2 2 13
+p27
+aVMichael Doleac MIN 04/12/2008 MIN @ MEM W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 1 1 4 -2
+p28
+aVKirk Snyder MIN 04/12/2008 MIN @ MEM W 38 22 9 11 81.8 0 1 0.0 4 7 57.1 7 4 11 2 3 1 2 0 8
+p29
+aVCorey Brewer MIN 04/12/2008 MIN @ MEM W 22 6 3 7 42.9 0 0 - 0 0 - 6 5 11 2 1 0 1 6 -7
+p30
+aVRashad McCants MIN 04/11/2008 MIN @ ORL W 30 19 7 10 70.0 5 6 83.3 0 0 - 0 2 2 1 1 0 2 0 -2
+p31
+aVKirk Snyder MIN 04/11/2008 MIN @ ORL W 25 4 2 6 33.3 0 1 0.0 0 0 - 1 5 6 2 0 0 4 0 -14
+p32
+aVMichael Doleac MIN 04/11/2008 MIN @ ORL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p33
+aVAl Jefferson MIN 04/11/2008 MIN @ ORL W 37 18 7 19 36.8 0 0 - 4 4 100.0 4 7 11 1 2 2 1 5 12
+p34
+aVRandy Foye MIN 04/11/2008 MIN @ ORL W 45 25 10 21 47.6 3 5 60.0 2 2 100.0 1 5 6 4 1 0 1 3 8
+p35
+aVCorey Brewer MIN 04/11/2008 MIN @ ORL W 30 12 4 8 50.0 0 0 - 4 4 100.0 3 6 9 2 3 1 1 2 0
+p36
+aVMarko Jaric MIN 04/11/2008 MIN @ ORL W 22 4 1 4 25.0 1 2 50.0 1 2 50.0 0 1 1 2 2 0 1 0 -3
+p37
+aVChris Richard MIN 04/11/2008 MIN @ ORL W 10 4 1 2 50.0 0 0 - 2 4 50.0 2 3 5 0 0 0 0 4 -10
+p38
+aVRyan Gomes MIN 04/11/2008 MIN @ ORL W 40 14 5 14 35.7 0 2 0.0 4 4 100.0 1 5 6 2 1 0 2 4 15
+p39
+aVRashad McCants MIN 04/09/2008 MIN vs. NOH L 30 23 8 15 53.3 5 10 50.0 2 2 100.0 0 3 3 1 0 0 3 2 -17
+p40
+aVRyan Gomes MIN 04/09/2008 MIN vs. NOH L 25 4 2 9 22.2 0 1 0.0 0 0 - 1 2 3 7 0 0 0 3 -21
+p41
+aVAl Jefferson MIN 04/09/2008 MIN vs. NOH L 32 14 7 10 70.0 0 0 - 0 1 0.0 2 6 8 0 0 0 3 2 -28
+p42
+aVCraig Smith MIN 04/09/2008 MIN vs. NOH L 16 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 0 0 1 1 -3
+p43
+aVRandy Foye MIN 04/09/2008 MIN vs. NOH L 35 20 7 15 46.7 4 7 57.1 2 2 100.0 0 0 0 5 2 0 2 5 -18
+p44
+aVChris Richard MIN 04/09/2008 MIN vs. NOH L 19 4 2 2 100.0 0 0 - 0 0 - 1 5 6 0 0 0 0 1 -6
+p45
+aVKirk Snyder MIN 04/09/2008 MIN vs. NOH L 32 12 4 7 57.1 0 0 - 4 4 100.0 2 4 6 3 0 1 4 3 -22
+p46
+aVMark Madsen MIN 04/09/2008 MIN vs. NOH L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p47
+aVCorey Brewer MIN 04/09/2008 MIN vs. NOH L 20 4 2 8 25.0 0 0 - 0 0 - 0 2 2 1 0 0 2 4 -16
+p48
+aVMarko Jaric MIN 04/09/2008 MIN vs. NOH L 27 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 4 1 0 3 1 -23
+p49
+aVAl Jefferson MIN 04/08/2008 MIN @ CHA L 37 40 18 25 72.0 0 0 - 4 5 80.0 5 5 10 1 0 1 4 3 -4
+p50
+aVCorey Brewer MIN 04/08/2008 MIN @ CHA L 17 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -7
+p51
+aVKirk Snyder MIN 04/08/2008 MIN @ CHA L 5 4 1 3 33.3 1 1 100.0 1 1 100.0 0 2 2 1 0 0 0 1 4
+p52
+aVMarko Jaric MIN 04/08/2008 MIN @ CHA L 29 4 1 6 16.7 0 3 0.0 2 2 100.0 0 0 0 2 2 1 1 0 -11
+p53
+aVChris Richard MIN 04/08/2008 MIN @ CHA L 11 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 1 0 0 2 3 2
+p54
+aVRyan Gomes MIN 04/08/2008 MIN @ CHA L 38 24 10 20 50.0 0 2 0.0 4 4 100.0 2 3 5 3 0 0 0 3 -7
+p55
+aVCraig Smith MIN 04/08/2008 MIN @ CHA L 29 12 6 12 50.0 0 0 - 0 0 - 0 4 4 2 1 0 1 4 2
+p56
+aVGreg Buckner MIN 04/08/2008 MIN @ CHA L 31 13 5 9 55.6 3 4 75.0 0 0 - 1 3 4 3 2 0 1 3 17
+p57
+aVRandy Foye MIN 04/08/2008 MIN @ CHA L 40 19 8 17 47.1 1 5 20.0 2 2 100.0 4 2 6 7 1 0 2 3 2
+p58
+aVRashad McCants MIN 04/08/2008 MIN @ CHA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -8
+p59
+aVCraig Smith MIN 04/06/2008 MIN vs. MEM L 19 8 4 5 80.0 0 0 - 0 0 - 2 6 8 2 0 0 1 4 7
+p60
+aVRandy Foye MIN 04/06/2008 MIN vs. MEM L 34 17 8 16 50.0 1 3 33.3 0 0 - 0 2 2 4 1 0 0 5 -11
+p61
+aVChris Richard MIN 04/06/2008 MIN vs. MEM L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p62
+aVMarko Jaric MIN 04/06/2008 MIN vs. MEM L 35 6 3 8 37.5 0 1 0.0 0 0 - 1 3 4 5 1 0 1 3 -18
+p63
+aVKirk Snyder MIN 04/06/2008 MIN vs. MEM L 28 11 5 6 83.3 0 0 - 1 1 100.0 0 4 4 2 0 0 3 0 4
+p64
+aVRashad McCants MIN 04/06/2008 MIN vs. MEM L 27 16 7 17 41.2 2 7 28.6 0 0 - 0 3 3 2 0 0 3 4 5
+p65
+aVRyan Gomes MIN 04/06/2008 MIN vs. MEM L 39 19 7 15 46.7 0 2 0.0 5 7 71.4 1 7 8 0 1 1 0 2 -19
+p66
+aVCorey Brewer MIN 04/06/2008 MIN vs. MEM L 20 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 2 2 0 2 0 -16
+p67
+aVAl Jefferson MIN 04/06/2008 MIN vs. MEM L 32 18 7 10 70.0 0 0 - 4 6 66.7 1 7 8 2 0 1 4 3 -15
+p68
+aVCorey Brewer MIN 04/04/2008 MIN @ PHX L 28 5 2 6 33.3 0 0 - 1 1 100.0 3 0 3 1 2 0 0 4 -18
+p69
+aVRandy Foye MIN 04/04/2008 MIN @ PHX L 30 9 4 16 25.0 1 3 33.3 0 0 - 0 2 2 3 1 0 0 3 -25
+p70
+aVKirk Snyder MIN 04/04/2008 MIN @ PHX L 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -6
+p71
+aVCraig Smith MIN 04/04/2008 MIN @ PHX L 12 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 4
+p72
+aVMarko Jaric MIN 04/04/2008 MIN @ PHX L 34 12 6 15 40.0 0 0 - 0 0 - 3 3 6 4 2 0 1 2 -14
+p73
+aVRyan Gomes MIN 04/04/2008 MIN @ PHX L 32 10 5 10 50.0 0 1 0.0 0 0 - 0 4 4 3 1 0 0 1 -27
+p74
+aVRashad McCants MIN 04/04/2008 MIN @ PHX L 26 10 3 12 25.0 2 6 33.3 2 4 50.0 1 2 3 2 0 0 1 4 -16
+p75
+aVAl Jefferson MIN 04/04/2008 MIN @ PHX L 35 24 11 26 42.3 0 0 - 2 4 50.0 5 7 12 1 1 0 2 3 -26
+p76
+aVMichael Doleac MIN 04/04/2008 MIN @ PHX L 12 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 2 1 0 3 -8
+p77
+aVChris Richard MIN 04/04/2008 MIN @ PHX L 17 2 1 4 25.0 0 0 - 0 2 0.0 3 2 5 0 0 0 1 0 -9
+p78
+aVChris Richard MIN 04/02/2008 MIN @ UTA L 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 3
+p79
+aVRyan Gomes MIN 04/02/2008 MIN @ UTA L 29 11 5 7 71.4 0 1 0.0 1 2 50.0 0 4 4 5 0 0 0 1 -23
+p80
+aVCraig Smith MIN 04/02/2008 MIN @ UTA L 14 0 0 1 0.0 0 0 - 0 0 - 1 4 5 1 0 0 1 3 1
+p81
+aVKirk Snyder MIN 04/02/2008 MIN @ UTA L 26 6 1 5 20.0 0 0 - 4 4 100.0 2 1 3 1 1 0 2 3 -9
+p82
+aVMark Madsen MIN 04/02/2008 MIN @ UTA L 4 2 1 2 50.0 0 0 - 0 2 0.0 3 0 3 0 1 0 0 0 5
+p83
+aVCorey Brewer MIN 04/02/2008 MIN @ UTA L 24 12 4 9 44.4 0 0 - 4 4 100.0 1 0 1 0 3 0 1 1 -7
+p84
+aVRashad McCants MIN 04/02/2008 MIN @ UTA L 19 17 6 11 54.5 3 5 60.0 2 2 100.0 0 2 2 3 0 0 3 3 -5
+p85
+aVMichael Doleac MIN 04/02/2008 MIN @ UTA L 9 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 1 -1
+p86
+aVAl Jefferson MIN 04/02/2008 MIN @ UTA L 28 12 5 13 38.5 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -19
+p87
+aVRandy Foye MIN 04/02/2008 MIN @ UTA L 33 15 4 11 36.4 3 8 37.5 4 4 100.0 0 2 2 6 1 0 4 2 -20
+p88
+aVMarko Jaric MIN 04/02/2008 MIN @ UTA L 42 18 6 10 60.0 1 3 33.3 5 7 71.4 1 4 5 8 3 0 2 0 -10
+p89
+aVRashad McCants MIN 04/01/2008 MIN vs. DET L 19 2 1 9 11.1 0 2 0.0 0 1 0.0 0 3 3 2 3 1 1 4 -3
+p90
+aVCorey Brewer MIN 04/01/2008 MIN vs. DET L 28 10 5 9 55.6 0 0 - 0 1 0.0 1 5 6 1 1 0 3 4 -11
+p91
+aVMarko Jaric MIN 04/01/2008 MIN vs. DET L 41 10 3 4 75.0 2 3 66.7 2 4 50.0 1 5 6 3 0 1 0 4 9
+p92
+aVAl Jefferson MIN 04/01/2008 MIN vs. DET L 34 26 9 12 75.0 0 0 - 8 11 72.7 1 6 7 0 0 0 2 2 -2
+p93
+aVRyan Gomes MIN 04/01/2008 MIN vs. DET L 30 9 3 10 30.0 0 3 0.0 3 3 100.0 0 7 7 3 0 0 2 1 2
+p94
+aVRandy Foye MIN 04/01/2008 MIN vs. DET L 37 18 6 14 42.9 2 7 28.6 4 4 100.0 0 5 5 4 0 1 2 5 -16
+p95
+aVKirk Snyder MIN 04/01/2008 MIN vs. DET L 20 7 1 3 33.3 0 0 - 5 5 100.0 1 1 2 3 0 1 2 2 9
+p96
+aVChris Richard MIN 04/01/2008 MIN vs. DET L 14 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -2
+p97
+aVCraig Smith MIN 04/01/2008 MIN vs. DET L 18 4 2 10 20.0 0 2 0.0 0 0 - 2 2 4 4 1 0 0 3 -6
+p98
+aVRandy Foye MIN 03/30/2008 MIN vs. UTA W 27 9 4 5 80.0 1 2 50.0 0 0 - 0 1 1 5 1 0 3 3 -5
+p99
+aVRashad McCants MIN 03/30/2008 MIN vs. UTA W 24 16 6 10 60.0 1 2 50.0 3 5 60.0 2 0 2 0 1 0 2 3 7
+p100
+aVCorey Brewer MIN 03/30/2008 MIN vs. UTA W 26 16 7 10 70.0 0 0 - 2 2 100.0 3 4 7 3 1 0 2 3 -1
+p101
+aVChris Richard MIN 03/30/2008 MIN vs. UTA W 11 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 6
+p102
+aVAl Jefferson MIN 03/30/2008 MIN vs. UTA W 37 22 7 18 38.9 0 0 - 8 9 88.9 1 7 8 1 0 3 1 3 1
+p103
+aVKirk Snyder MIN 03/30/2008 MIN vs. UTA W 26 10 3 6 50.0 0 0 - 4 5 80.0 2 2 4 4 1 0 1 3 12
+p104
+aVCraig Smith MIN 03/30/2008 MIN vs. UTA W 14 8 2 4 50.0 0 0 - 4 4 100.0 2 1 3 0 0 0 0 0 5
+p105
+aVMarko Jaric MIN 03/30/2008 MIN vs. UTA W 40 10 4 11 36.4 1 5 20.0 1 2 50.0 0 2 2 5 3 0 0 3 8
+p106
+aVRyan Gomes MIN 03/30/2008 MIN vs. UTA W 34 17 8 13 61.5 0 1 0.0 1 2 50.0 2 2 4 2 0 0 4 3 2
+p107
+aVChris Richard MIN 03/28/2008 MIN @ SAS L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -8
+p108
+aVRyan Gomes MIN 03/28/2008 MIN @ SAS L 37 17 7 15 46.7 2 3 66.7 1 1 100.0 5 5 10 3 0 0 1 2 4
+p109
+aVAl Jefferson MIN 03/28/2008 MIN @ SAS L 35 14 7 20 35.0 0 1 0.0 0 0 - 2 6 8 1 0 2 0 4 -3
+p110
+aVCraig Smith MIN 03/28/2008 MIN @ SAS L 15 10 5 7 71.4 0 0 - 0 1 0.0 0 1 1 1 0 0 1 3 -23
+p111
+aVRashad McCants MIN 03/28/2008 MIN @ SAS L 38 13 5 12 41.7 1 4 25.0 2 2 100.0 0 4 4 2 2 0 2 1 -3
+p112
+aVKirk Snyder MIN 03/28/2008 MIN @ SAS L 22 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -8
+p113
+aVMarko Jaric MIN 03/28/2008 MIN @ SAS L 38 11 4 7 57.1 1 3 33.3 2 2 100.0 1 3 4 7 3 1 2 3 4
+p114
+aVCorey Brewer MIN 03/28/2008 MIN @ SAS L 14 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 2 2 -25
+p115
+aVRandy Foye MIN 03/28/2008 MIN @ SAS L 32 11 4 12 33.3 1 1 100.0 2 2 100.0 0 2 2 5 0 0 3 4 -13
+p116
+aVMarko Jaric MIN 03/26/2008 MIN @ HOU L 35 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 6 2 1 0 4 -9
+p117
+aVKirk Snyder MIN 03/26/2008 MIN @ HOU L 30 12 5 7 71.4 0 0 - 2 4 50.0 2 4 6 6 0 0 6 2 -5
+p118
+aVCraig Smith MIN 03/26/2008 MIN @ HOU L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -9
+p119
+aVRashad McCants MIN 03/26/2008 MIN @ HOU L 28 16 6 15 40.0 2 5 40.0 2 2 100.0 0 5 5 1 2 0 1 4 -8
+p120
+aVChris Richard MIN 03/26/2008 MIN @ HOU L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p121
+aVAl Jefferson MIN 03/26/2008 MIN @ HOU L 35 21 9 21 42.9 0 0 - 3 4 75.0 3 7 10 1 2 5 0 1 -4
+p122
+aVRyan Gomes MIN 03/26/2008 MIN @ HOU L 35 17 6 13 46.2 2 3 66.7 3 5 60.0 1 8 9 1 2 0 1 1 -4
+p123
+aVCorey Brewer MIN 03/26/2008 MIN @ HOU L 18 8 2 4 50.0 0 0 - 4 4 100.0 1 2 3 0 0 0 0 0 -6
+p124
+aVRandy Foye MIN 03/26/2008 MIN @ HOU L 33 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 4 2 0 5 3 -5
+p125
+aVChris Richard MIN 03/22/2008 MIN vs. NYK W 16 3 1 1 100.0 0 0 - 1 2 50.0 2 4 6 0 0 0 1 3 -8
+p126
+aVCorey Brewer MIN 03/22/2008 MIN vs. NYK W 25 8 2 6 33.3 0 1 0.0 4 4 100.0 1 1 2 3 1 1 2 1 8
+p127
+aVMark Madsen MIN 03/22/2008 MIN vs. NYK W 4 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 3
+p128
+aVRandy Foye MIN 03/22/2008 MIN vs. NYK W 34 9 4 6 66.7 1 3 33.3 0 0 - 0 2 2 9 3 0 3 0 25
+p129
+aVAl Jefferson MIN 03/22/2008 MIN vs. NYK W 28 8 4 7 57.1 0 0 - 0 0 - 2 7 9 6 1 3 1 0 27
+p130
+aVMarko Jaric MIN 03/22/2008 MIN vs. NYK W 29 11 2 7 28.6 1 2 50.0 6 6 100.0 1 1 2 6 1 0 1 4 13
+p131
+aVRyan Gomes MIN 03/22/2008 MIN vs. NYK W 30 26 12 17 70.6 0 1 0.0 2 2 100.0 1 7 8 2 1 0 0 1 27
+p132
+aVRashad McCants MIN 03/22/2008 MIN vs. NYK W 34 24 10 21 47.6 3 9 33.3 1 2 50.0 0 1 1 0 0 0 1 1 4
+p133
+aVKirk Snyder MIN 03/22/2008 MIN vs. NYK W 23 15 4 6 66.7 0 0 - 7 7 100.0 0 8 8 2 3 1 0 1 13
+p134
+aVCraig Smith MIN 03/22/2008 MIN vs. NYK W 18 9 3 5 60.0 0 0 - 3 4 75.0 0 4 4 1 1 0 0 2 -7
+p135
+aVRashad McCants MIN 03/21/2008 MIN @ IND L 24 22 8 17 47.1 3 7 42.9 3 5 60.0 0 2 2 6 1 1 2 2 -9
+p136
+aVCraig Smith MIN 03/21/2008 MIN @ IND L 23 14 6 8 75.0 0 1 0.0 2 2 100.0 2 3 5 0 0 0 1 5 -8
+p137
+aVRandy Foye MIN 03/21/2008 MIN @ IND L 40 16 5 12 41.7 2 4 50.0 4 4 100.0 0 2 2 6 1 0 4 1 -2
+p138
+aVMarko Jaric MIN 03/21/2008 MIN @ IND L 32 11 4 6 66.7 2 3 66.7 1 1 100.0 0 2 2 1 2 0 2 1 -11
+p139
+aVRyan Gomes MIN 03/21/2008 MIN @ IND L 25 14 6 9 66.7 1 2 50.0 1 2 50.0 2 1 3 3 1 0 2 1 -3
+p140
+aVAl Jefferson MIN 03/21/2008 MIN @ IND L 29 11 5 11 45.5 0 0 - 1 1 100.0 1 8 9 2 1 4 3 5 -16
+p141
+aVKirk Snyder MIN 03/21/2008 MIN @ IND L 28 15 7 9 77.8 1 1 100.0 0 1 0.0 0 5 5 3 0 1 1 3 -6
+p142
+aVCorey Brewer MIN 03/21/2008 MIN @ IND L 20 4 2 7 28.6 0 0 - 0 0 - 0 4 4 0 1 0 1 3 -5
+p143
+aVChris Richard MIN 03/21/2008 MIN @ IND L 19 6 3 3 100.0 0 0 - 0 1 0.0 1 3 4 0 0 1 0 3 5
+p144
+aVCorey Brewer MIN 03/19/2008 MIN vs. MEM W 18 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -5
+p145
+aVAl Jefferson MIN 03/19/2008 MIN vs. MEM W 37 29 10 16 62.5 0 0 - 9 12 75.0 6 7 13 1 0 2 3 2 6
+p146
+aVRashad McCants MIN 03/19/2008 MIN vs. MEM W 29 19 7 19 36.8 1 4 25.0 4 6 66.7 1 1 2 5 2 0 1 4 -1
+p147
+aVCraig Smith MIN 03/19/2008 MIN vs. MEM W 15 2 1 7 14.3 0 0 - 0 0 - 0 2 2 2 0 1 2 4 1
+p148
+aVRandy Foye MIN 03/19/2008 MIN vs. MEM W 36 12 4 12 33.3 2 4 50.0 2 2 100.0 0 10 10 3 0 0 1 3 0
+p149
+aVMarko Jaric MIN 03/19/2008 MIN vs. MEM W 31 9 4 7 57.1 0 1 0.0 1 1 100.0 0 4 4 7 2 2 1 3 9
+p150
+aVRyan Gomes MIN 03/19/2008 MIN vs. MEM W 30 14 2 12 16.7 0 1 0.0 10 10 100.0 0 3 3 2 1 2 0 0 5
+p151
+aVChris Richard MIN 03/19/2008 MIN vs. MEM W 13 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 0
+p152
+aVKirk Snyder MIN 03/19/2008 MIN vs. MEM W 31 8 3 6 50.0 0 1 0.0 2 2 100.0 0 7 7 1 0 0 0 4 5
+p153
+aVRashad McCants MIN 03/17/2008 MIN vs. LAC W 28 16 6 10 60.0 2 4 50.0 2 3 66.7 0 0 0 6 0 1 2 2 8
+p154
+aVCraig Smith MIN 03/17/2008 MIN vs. LAC W 16 11 4 10 40.0 0 0 - 3 4 75.0 1 3 4 0 0 1 0 2 1
+p155
+aVChris Richard MIN 03/17/2008 MIN vs. LAC W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p156
+aVCorey Brewer MIN 03/17/2008 MIN vs. LAC W 24 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 1 0 0 0 4 6
+p157
+aVRandy Foye MIN 03/17/2008 MIN vs. LAC W 28 7 3 9 33.3 1 2 50.0 0 0 - 0 7 7 2 1 0 2 4 5
+p158
+aVKirk Snyder MIN 03/17/2008 MIN vs. LAC W 26 14 5 10 50.0 0 1 0.0 4 6 66.7 1 4 5 2 1 1 3 5 4
+p159
+aVAl Jefferson MIN 03/17/2008 MIN vs. LAC W 36 22 10 15 66.7 0 0 - 2 4 50.0 6 8 14 1 0 4 2 2 4
+p160
+aVMarko Jaric MIN 03/17/2008 MIN vs. LAC W 38 6 2 4 50.0 1 1 100.0 1 2 50.0 0 7 7 10 0 0 1 2 4
+p161
+aVRyan Gomes MIN 03/17/2008 MIN vs. LAC W 37 19 6 9 66.7 1 1 100.0 6 6 100.0 0 5 5 2 0 0 1 2 15
+p162
+aVMarko Jaric MIN 03/15/2008 MIN @ POR L 38 19 7 11 63.6 0 2 0.0 5 5 100.0 0 0 0 4 2 0 1 1 -14
+p163
+aVKirk Snyder MIN 03/15/2008 MIN @ POR L 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 3 -2
+p164
+aVCorey Brewer MIN 03/15/2008 MIN @ POR L 31 12 6 11 54.5 0 0 - 0 0 - 0 7 7 2 0 0 1 3 -12
+p165
+aVRashad McCants MIN 03/15/2008 MIN @ POR L 25 10 4 9 44.4 2 3 66.7 0 0 - 0 2 2 2 0 0 2 3 0
+p166
+aVCraig Smith MIN 03/15/2008 MIN @ POR L 18 8 4 7 57.1 0 1 0.0 0 2 0.0 0 1 1 3 0 0 2 1 -3
+p167
+aVRandy Foye MIN 03/15/2008 MIN @ POR L 35 9 4 9 44.4 0 3 0.0 1 2 50.0 0 10 10 8 1 0 4 2 -5
+p168
+aVChris Richard MIN 03/15/2008 MIN @ POR L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p169
+aVRyan Gomes MIN 03/15/2008 MIN @ POR L 33 16 6 12 50.0 0 2 0.0 4 4 100.0 3 3 6 3 1 0 0 1 -9
+p170
+aVAl Jefferson MIN 03/15/2008 MIN @ POR L 35 18 9 16 56.3 0 0 - 0 0 - 5 6 11 2 0 1 1 4 -12
+p171
+aVKirk Snyder MIN 03/14/2008 MIN @ SEA W 29 15 4 6 66.7 0 0 - 7 7 100.0 1 3 4 2 1 0 5 3 17
+p172
+aVMarko Jaric MIN 03/14/2008 MIN @ SEA W 27 5 0 0 - 0 0 - 5 5 100.0 0 0 0 4 1 0 2 3 -19
+p173
+aVCraig Smith MIN 03/14/2008 MIN @ SEA W 19 11 5 7 71.4 0 0 - 1 4 25.0 4 0 4 1 0 0 1 2 -7
+p174
+aVAl Jefferson MIN 03/14/2008 MIN @ SEA W 30 16 8 13 61.5 0 0 - 0 1 0.0 1 4 5 1 3 2 2 5 -12
+p175
+aVChris Richard MIN 03/14/2008 MIN @ SEA W 19 6 2 3 66.7 0 0 - 2 2 100.0 3 1 4 2 1 1 2 3 17
+p176
+aVRashad McCants MIN 03/14/2008 MIN @ SEA W 25 13 3 8 37.5 1 2 50.0 6 6 100.0 2 5 7 2 1 0 3 0 16
+p177
+aVRyan Gomes MIN 03/14/2008 MIN @ SEA W 29 23 8 18 44.4 2 3 66.7 5 6 83.3 4 11 15 0 1 1 0 2 12
+p178
+aVRandy Foye MIN 03/14/2008 MIN @ SEA W 38 21 8 18 44.4 2 5 40.0 3 5 60.0 0 3 3 7 2 0 0 2 13
+p179
+aVCorey Brewer MIN 03/14/2008 MIN @ SEA W 24 11 5 12 41.7 0 0 - 1 1 100.0 0 1 1 1 2 0 1 1 -12
+p180
+aVCraig Smith MIN 03/11/2008 MIN vs. POR L 24 15 7 9 77.8 0 0 - 1 2 50.0 2 5 7 4 0 0 0 0 -2
+p181
+aVRashad McCants MIN 03/11/2008 MIN vs. POR L 33 18 8 12 66.7 2 3 66.7 0 0 - 0 2 2 2 1 2 2 4 -1
+p182
+aVRandy Foye MIN 03/11/2008 MIN vs. POR L 37 9 4 10 40.0 1 3 33.3 0 0 - 1 6 7 8 0 0 2 4 -1
+p183
+aVCorey Brewer MIN 03/11/2008 MIN vs. POR L 16 0 0 4 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -8
+p184
+aVMarko Jaric MIN 03/11/2008 MIN vs. POR L 31 12 5 9 55.6 2 3 66.7 0 0 - 0 4 4 6 3 0 1 2 -8
+p185
+aVRyan Gomes MIN 03/11/2008 MIN vs. POR L 29 16 5 14 35.7 1 2 50.0 5 5 100.0 0 2 2 0 1 0 2 4 -4
+p186
+aVKirk Snyder MIN 03/11/2008 MIN vs. POR L 26 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 0 0 1 1 -3
+p187
+aVAl Jefferson MIN 03/11/2008 MIN vs. POR L 38 20 10 21 47.6 0 0 - 0 0 - 5 5 10 0 0 0 2 1 -8
+p188
+aVChris Richard MIN 03/11/2008 MIN vs. POR L 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 2 0 0
+p189
+aVMarko Jaric MIN 03/08/2008 MIN @ LAC W 22 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 2 0 -4
+p190
+aVAl Jefferson MIN 03/08/2008 MIN @ LAC W 40 30 13 22 59.1 0 0 - 4 4 100.0 5 7 12 1 1 2 1 3 12
+p191
+aVChris Richard MIN 03/08/2008 MIN @ LAC W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -6
+p192
+aVKirk Snyder MIN 03/08/2008 MIN @ LAC W 26 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 2 1 1 2 3 -12
+p193
+aVRyan Gomes MIN 03/08/2008 MIN @ LAC W 36 17 7 13 53.8 1 3 33.3 2 4 50.0 1 4 5 2 4 0 2 2 1
+p194
+aVCraig Smith MIN 03/08/2008 MIN @ LAC W 20 11 3 5 60.0 0 0 - 5 6 83.3 2 6 8 2 1 0 0 0 4
+p195
+aVCorey Brewer MIN 03/08/2008 MIN @ LAC W 22 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 0 0 2 5 4
+p196
+aVRashad McCants MIN 03/08/2008 MIN @ LAC W 31 7 3 11 27.3 1 4 25.0 0 0 - 0 1 1 4 2 0 1 4 16
+p197
+aVRandy Foye MIN 03/08/2008 MIN @ LAC W 39 26 8 12 66.7 0 1 0.0 10 12 83.3 0 4 4 6 1 0 0 3 0
+p198
+aVAl Jefferson MIN 03/07/2008 MIN @ SAC W 36 21 8 17 47.1 0 0 - 5 7 71.4 6 7 13 1 3 1 2 3 -2
+p199
+aVCorey Brewer MIN 03/07/2008 MIN @ SAC W 18 4 2 2 100.0 0 0 - 0 0 - 1 1 2 5 0 0 0 5 10
+p200
+aVSebastian Telfair MIN 03/07/2008 MIN @ SAC W 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 4 0 0 2 3 -7
+p201
+aVRashad McCants MIN 03/07/2008 MIN @ SAC W 28 22 6 11 54.5 3 4 75.0 7 7 100.0 1 1 2 1 3 0 4 5 15
+p202
+aVCraig Smith MIN 03/07/2008 MIN @ SAC W 16 18 8 9 88.9 0 0 - 2 3 66.7 1 2 3 0 0 3 0 1 8
+p203
+aVChris Richard MIN 03/07/2008 MIN @ SAC W 13 4 2 3 66.7 0 0 - 0 2 0.0 2 2 4 3 1 0 0 1 11
+p204
+aVMarko Jaric MIN 03/07/2008 MIN @ SAC W 19 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 4 0 0 0 0 11
+p205
+aVRandy Foye MIN 03/07/2008 MIN @ SAC W 31 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 5 0 0 1 4 -3
+p206
+aVKirk Snyder MIN 03/07/2008 MIN @ SAC W 34 8 3 11 27.3 0 0 - 2 2 100.0 1 2 3 0 1 2 2 2 -2
+p207
+aVRyan Gomes MIN 03/07/2008 MIN @ SAC W 32 17 8 17 47.1 0 1 0.0 1 1 100.0 2 5 7 2 1 0 0 1 -1
+p208
+aVRashad McCants MIN 03/05/2008 MIN @ UTA L 28 12 5 10 50.0 2 5 40.0 0 0 - 1 1 2 2 0 0 4 3 -12
+p209
+aVKirk Snyder MIN 03/05/2008 MIN @ UTA L 31 16 4 8 50.0 0 1 0.0 8 10 80.0 1 3 4 2 0 0 0 2 -22
+p210
+aVChris Richard MIN 03/05/2008 MIN @ UTA L 19 0 0 2 0.0 0 0 - 0 0 - 1 5 6 1 0 1 0 4 1
+p211
+aVAl Jefferson MIN 03/05/2008 MIN @ UTA L 30 11 5 15 33.3 0 0 - 1 2 50.0 1 9 10 1 0 1 2 4 -25
+p212
+aVMark Madsen MIN 03/05/2008 MIN @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 0
+p213
+aVCraig Smith MIN 03/05/2008 MIN @ UTA L 17 11 4 7 57.1 0 0 - 3 4 75.0 1 1 2 0 3 0 1 5 -4
+p214
+aVMichael Doleac MIN 03/05/2008 MIN @ UTA L 5 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 2 0 -9
+p215
+aVRyan Gomes MIN 03/05/2008 MIN @ UTA L 27 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -18
+p216
+aVSebastian Telfair MIN 03/05/2008 MIN @ UTA L 33 6 3 9 33.3 0 1 0.0 0 0 - 0 0 0 3 1 0 1 1 -18
+p217
+aVMarko Jaric MIN 03/05/2008 MIN @ UTA L 9 0 0 2 0.0 0 0 - 0 2 0.0 1 1 2 1 0 0 1 1 -6
+p218
+aVRandy Foye MIN 03/05/2008 MIN @ UTA L 36 18 5 15 33.3 4 7 57.1 4 4 100.0 1 1 2 2 0 0 2 3 -32
+p219
+aVRandy Foye MIN 03/04/2008 MIN vs. CHA L 33 16 7 11 63.6 2 3 66.7 0 0 - 0 1 1 4 1 0 4 6 -5
+p220
+aVMarko Jaric MIN 03/04/2008 MIN vs. CHA L 22 2 1 6 16.7 0 1 0.0 0 1 0.0 0 1 1 2 0 0 2 2 -21
+p221
+aVRyan Gomes MIN 03/04/2008 MIN vs. CHA L 39 17 7 18 38.9 3 5 60.0 0 0 - 2 5 7 4 1 0 0 1 -19
+p222
+aVSebastian Telfair MIN 03/04/2008 MIN vs. CHA L 36 12 6 11 54.5 0 1 0.0 0 0 - 1 1 2 9 0 1 1 3 -15
+p223
+aVCraig Smith MIN 03/04/2008 MIN vs. CHA L 18 15 6 8 75.0 0 0 - 3 5 60.0 1 2 3 1 1 0 1 4 -6
+p224
+aVAl Jefferson MIN 03/04/2008 MIN vs. CHA L 39 18 8 19 42.1 0 0 - 2 2 100.0 2 9 11 2 2 1 3 2 -11
+p225
+aVChris Richard MIN 03/04/2008 MIN vs. CHA L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -3
+p226
+aVGreg Buckner MIN 03/04/2008 MIN vs. CHA L 16 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 1 1 0 2 1 -13
+p227
+aVKirk Snyder MIN 03/04/2008 MIN vs. CHA L 32 6 3 4 75.0 0 1 0.0 0 1 0.0 0 7 7 3 0 1 3 3 -7
+p228
+aVSebastian Telfair MIN 03/02/2008 MIN vs. SEA L 29 2 1 2 50.0 0 0 - 0 0 - 0 1 1 9 0 0 2 2 -13
+p229
+aVRandy Foye MIN 03/02/2008 MIN vs. SEA L 33 13 6 13 46.2 0 2 0.0 1 2 50.0 2 2 4 5 2 0 0 0 0
+p230
+aVKirk Snyder MIN 03/02/2008 MIN vs. SEA L 33 4 2 6 33.3 0 0 - 0 0 - 1 2 3 2 5 2 2 2 0
+p231
+aVCraig Smith MIN 03/02/2008 MIN vs. SEA L 33 15 6 9 66.7 0 0 - 3 5 60.0 2 2 4 5 3 0 2 3 8
+p232
+aVRashad McCants MIN 03/02/2008 MIN vs. SEA L 24 18 7 14 50.0 3 6 50.0 1 2 50.0 0 2 2 1 0 0 3 2 5
+p233
+aVCorey Brewer MIN 03/02/2008 MIN vs. SEA L 39 14 5 10 50.0 0 1 0.0 4 6 66.7 1 5 6 2 3 0 1 3 -2
+p234
+aVAl Jefferson MIN 03/02/2008 MIN vs. SEA L 41 30 13 29 44.8 0 0 - 4 7 57.1 7 5 12 5 0 0 2 3 3
+p235
+aVRyan Gomes MIN 03/02/2008 MIN vs. SEA L 21 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 1 0 2 1 -10
+p236
+aVChris Richard MIN 03/02/2008 MIN vs. SEA L 12 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -6
+p237
+aVCorey Brewer MIN 02/29/2008 MIN @ CLE L 39 15 5 10 50.0 0 0 - 5 5 100.0 1 3 4 2 4 0 1 3 0
+p238
+aVRandy Foye MIN 02/29/2008 MIN @ CLE L 34 4 1 9 11.1 0 1 0.0 2 2 100.0 0 4 4 2 1 0 3 3 -7
+p239
+aVChris Richard MIN 02/29/2008 MIN @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p240
+aVRyan Gomes MIN 02/29/2008 MIN @ CLE L 33 13 6 16 37.5 1 6 16.7 0 0 - 3 4 7 1 0 1 2 1 -2
+p241
+aVMarko Jaric MIN 02/29/2008 MIN @ CLE L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -8
+p242
+aVCraig Smith MIN 02/29/2008 MIN @ CLE L 18 8 4 5 80.0 0 0 - 0 2 0.0 2 6 8 1 0 0 2 3 -10
+p243
+aVRashad McCants MIN 02/29/2008 MIN @ CLE L 28 11 4 11 36.4 3 5 60.0 0 0 - 2 1 3 3 0 1 2 3 -2
+p244
+aVSebastian Telfair MIN 02/29/2008 MIN @ CLE L 38 11 4 11 36.4 3 7 42.9 0 0 - 0 3 3 2 0 1 2 3 -7
+p245
+aVAl Jefferson MIN 02/29/2008 MIN @ CLE L 41 22 10 22 45.5 0 0 - 2 2 100.0 7 3 10 2 1 1 1 3 -5
+p246
+aVMichael Doleac MIN 02/27/2008 MIN @ TOR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p247
+aVRandy Foye MIN 02/27/2008 MIN @ TOR L 35 18 7 10 70.0 4 5 80.0 0 0 - 0 3 3 2 0 0 3 2 -16
+p248
+aVAl Jefferson MIN 02/27/2008 MIN @ TOR L 27 23 9 12 75.0 0 0 - 5 6 83.3 1 4 5 3 1 1 2 3 -11
+p249
+aVChris Richard MIN 02/27/2008 MIN @ TOR L 7 2 0 0 - 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 -3
+p250
+aVMarko Jaric MIN 02/27/2008 MIN @ TOR L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 3 -5
+p251
+aVCorey Brewer MIN 02/27/2008 MIN @ TOR L 17 0 0 2 0.0 0 0 - 0 0 - 0 3 3 2 0 1 1 1 -9
+p252
+aVSebastian Telfair MIN 02/27/2008 MIN @ TOR L 31 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 7 0 0 2 3 -15
+p253
+aVRyan Gomes MIN 02/27/2008 MIN @ TOR L 29 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 2 1 0 3 2 -11
+p254
+aVRashad McCants MIN 02/27/2008 MIN @ TOR L 28 19 8 17 47.1 1 9 11.1 2 2 100.0 1 2 3 2 1 0 1 4 -14
+p255
+aVKirk Snyder MIN 02/27/2008 MIN @ TOR L 16 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 1 1 0 1 1 -9
+p256
+aVCraig Smith MIN 02/27/2008 MIN @ TOR L 17 8 3 5 60.0 0 0 - 2 2 100.0 2 2 4 0 0 0 5 3 -12
+p257
+aVTheo Ratliff MIN 02/27/2008 MIN @ TOR L 13 3 1 1 100.0 0 0 - 1 2 50.0 2 4 6 0 0 0 0 3 -6
+p258
+aVChris Richard MIN 02/26/2008 MIN vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p259
+aVCorey Brewer MIN 02/26/2008 MIN vs. UTA W 13 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 1 0 1 3 0
+p260
+aVTheo Ratliff MIN 02/26/2008 MIN vs. UTA W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 5 -6
+p261
+aVRandy Foye MIN 02/26/2008 MIN vs. UTA W 36 20 8 16 50.0 2 4 50.0 2 2 100.0 0 3 3 2 3 0 2 3 7
+p262
+aVCraig Smith MIN 02/26/2008 MIN vs. UTA W 19 7 2 4 50.0 0 0 - 3 3 100.0 4 3 7 3 1 0 0 4 12
+p263
+aVKirk Snyder MIN 02/26/2008 MIN vs. UTA W 24 6 2 3 66.7 1 2 50.0 1 4 25.0 0 2 2 3 1 1 1 0 8
+p264
+aVRashad McCants MIN 02/26/2008 MIN vs. UTA W 34 22 8 17 47.1 1 3 33.3 5 8 62.5 1 4 5 2 3 0 4 3 14
+p265
+aVAl Jefferson MIN 02/26/2008 MIN vs. UTA W 40 22 7 17 41.2 0 1 0.0 8 10 80.0 3 7 10 2 3 1 3 3 6
+p266
+aVSebastian Telfair MIN 02/26/2008 MIN vs. UTA W 29 12 3 10 30.0 2 3 66.7 4 6 66.7 1 2 3 4 2 0 1 4 2
+p267
+aVRyan Gomes MIN 02/26/2008 MIN vs. UTA W 31 20 7 15 46.7 1 3 33.3 5 6 83.3 4 7 11 2 2 0 0 2 11
+p268
+aVCorey Brewer MIN 02/24/2008 MIN vs. DAL L 20 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 1 1 0 0 -5
+p269
+aVCraig Smith MIN 02/24/2008 MIN vs. DAL L 15 4 2 6 33.3 0 0 - 0 0 - 0 3 3 0 0 0 2 3 1
+p270
+aVMarko Jaric MIN 02/24/2008 MIN vs. DAL L 32 7 3 7 42.9 1 3 33.3 0 0 - 0 6 6 5 2 0 1 2 -7
+p271
+aVSebastian Telfair MIN 02/24/2008 MIN vs. DAL L 39 10 5 8 62.5 0 0 - 0 0 - 0 2 2 7 2 0 4 3 -12
+p272
+aVRashad McCants MIN 02/24/2008 MIN vs. DAL L 28 17 8 15 53.3 1 3 33.3 0 0 - 0 1 1 1 2 0 2 4 -11
+p273
+aVAl Jefferson MIN 02/24/2008 MIN vs. DAL L 37 22 10 19 52.6 0 0 - 2 4 50.0 3 5 8 1 0 2 1 2 -12
+p274
+aVTheo Ratliff MIN 02/24/2008 MIN vs. DAL L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 2 0 2 1 1 -1
+p275
+aVRyan Gomes MIN 02/24/2008 MIN vs. DAL L 30 12 5 9 55.6 0 0 - 2 3 66.7 2 3 5 1 0 0 2 2 -20
+p276
+aVRandy Foye MIN 02/24/2008 MIN vs. DAL L 25 2 1 6 16.7 0 0 - 0 0 - 1 3 4 1 1 0 2 2 -13
+p277
+aVSebastian Telfair MIN 02/21/2008 MIN vs. SAS L 35 15 7 14 50.0 1 3 33.3 0 0 - 0 2 2 4 1 0 2 3 -3
+p278
+aVRashad McCants MIN 02/21/2008 MIN vs. SAS L 33 15 6 12 50.0 0 1 0.0 3 3 100.0 1 4 5 2 1 0 2 4 4
+p279
+aVRyan Gomes MIN 02/21/2008 MIN vs. SAS L 32 7 3 6 50.0 0 0 - 1 1 100.0 0 5 5 5 1 0 0 1 -2
+p280
+aVRandy Foye MIN 02/21/2008 MIN vs. SAS L 41 13 5 10 50.0 3 4 75.0 0 0 - 0 3 3 7 1 1 3 0 -1
+p281
+aVAl Jefferson MIN 02/21/2008 MIN vs. SAS L 36 28 11 19 57.9 0 0 - 6 9 66.7 2 3 5 2 1 3 2 2 3
+p282
+aVTheo Ratliff MIN 02/21/2008 MIN vs. SAS L 14 8 3 4 75.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 2 -1
+p283
+aVMarko Jaric MIN 02/21/2008 MIN vs. SAS L 24 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 4 0 0 0 5 -4
+p284
+aVCraig Smith MIN 02/21/2008 MIN vs. SAS L 14 6 3 8 37.5 0 0 - 0 1 0.0 3 3 6 1 0 0 3 2 -2
+p285
+aVCorey Brewer MIN 02/21/2008 MIN vs. SAS L 12 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 0 0 3 1
+p286
+aVAl Jefferson MIN 02/19/2008 MIN vs. PHI W 31 19 9 14 64.3 0 0 - 1 2 50.0 7 7 14 3 0 1 3 3 14
+p287
+aVRashad McCants MIN 02/19/2008 MIN vs. PHI W 29 20 8 15 53.3 3 5 60.0 1 2 50.0 0 1 1 5 0 1 2 5 11
+p288
+aVCraig Smith MIN 02/19/2008 MIN vs. PHI W 29 11 5 8 62.5 0 0 - 1 3 33.3 0 4 4 1 0 0 1 2 9
+p289
+aVRandy Foye MIN 02/19/2008 MIN vs. PHI W 33 13 6 15 40.0 1 6 16.7 0 1 0.0 0 2 2 5 0 0 1 1 6
+p290
+aVRyan Gomes MIN 02/19/2008 MIN vs. PHI W 29 12 4 8 50.0 0 3 0.0 4 4 100.0 2 4 6 3 2 0 1 4 14
+p291
+aVAntoine Walker MIN 02/19/2008 MIN vs. PHI W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 2 -5
+p292
+aVSebastian Telfair MIN 02/19/2008 MIN vs. PHI W 36 10 3 4 75.0 2 2 100.0 2 4 50.0 1 3 4 4 2 0 3 2 15
+p293
+aVMarko Jaric MIN 02/19/2008 MIN vs. PHI W 27 15 4 6 66.7 1 2 50.0 6 6 100.0 0 4 4 2 2 0 2 2 11
+p294
+aVCorey Brewer MIN 02/19/2008 MIN vs. PHI W 19 4 1 8 12.5 0 0 - 2 2 100.0 4 4 8 2 0 1 0 3 5
+p295
+aVAl Jefferson MIN 02/13/2008 MIN vs. LAL L 31 19 9 18 50.0 0 0 - 1 1 100.0 3 6 9 2 0 1 4 3 -21
+p296
+aVRashad McCants MIN 02/13/2008 MIN vs. LAL L 18 6 3 6 50.0 0 2 0.0 0 1 0.0 0 3 3 2 1 1 3 2 -8
+p297
+aVCraig Smith MIN 02/13/2008 MIN vs. LAL L 23 9 3 7 42.9 0 0 - 3 4 75.0 4 4 8 3 2 0 0 2 -2
+p298
+aVAntoine Walker MIN 02/13/2008 MIN vs. LAL L 17 7 3 8 37.5 1 6 16.7 0 0 - 0 1 1 1 1 0 2 2 -9
+p299
+aVSebastian Telfair MIN 02/13/2008 MIN vs. LAL L 29 6 2 6 33.3 1 2 50.0 1 2 50.0 0 2 2 5 0 0 1 3 -21
+p300
+aVRyan Gomes MIN 02/13/2008 MIN vs. LAL L 24 11 4 10 40.0 0 0 - 3 3 100.0 4 4 8 1 0 0 0 2 -22
+p301
+aVRandy Foye MIN 02/13/2008 MIN vs. LAL L 29 18 6 16 37.5 4 7 57.1 2 2 100.0 0 3 3 3 1 0 1 2 -10
+p302
+aVMichael Doleac MIN 02/13/2008 MIN vs. LAL L 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -10
+p303
+aVGreg Buckner MIN 02/13/2008 MIN vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p304
+aVGerald Green MIN 02/13/2008 MIN vs. LAL L 10 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 2 2 4
+p305
+aVMarko Jaric MIN 02/13/2008 MIN vs. LAL L 21 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 4 0 0 1 2 -18
+p306
+aVCorey Brewer MIN 02/13/2008 MIN vs. LAL L 23 6 3 7 42.9 0 0 - 0 0 - 1 6 7 2 4 0 1 4 -7
+p307
+aVCraig Smith MIN 02/12/2008 MIN @ NJN L 16 3 1 1 100.0 0 0 - 1 4 25.0 2 1 3 0 1 0 0 1 0
+p308
+aVRyan Gomes MIN 02/12/2008 MIN @ NJN L 26 9 4 9 44.4 0 0 - 1 2 50.0 1 4 5 3 1 0 2 4 1
+p309
+aVRandy Foye MIN 02/12/2008 MIN @ NJN L 22 7 2 7 28.6 2 3 66.7 1 2 50.0 0 5 5 2 0 0 3 1 -2
+p310
+aVMarko Jaric MIN 02/12/2008 MIN @ NJN L 38 6 3 9 33.3 0 0 - 0 0 - 1 4 5 3 2 0 1 6 -2
+p311
+aVGerald Green MIN 02/12/2008 MIN @ NJN L 14 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 1 1 0 1 2 -2
+p312
+aVAntoine Walker MIN 02/12/2008 MIN @ NJN L 21 12 4 12 33.3 1 5 20.0 3 3 100.0 1 4 5 3 0 0 0 1 -4
+p313
+aVSebastian Telfair MIN 02/12/2008 MIN @ NJN L 34 24 8 17 47.1 3 6 50.0 5 5 100.0 1 2 3 7 0 0 1 2 -9
+p314
+aVCorey Brewer MIN 02/12/2008 MIN @ NJN L 35 7 3 7 42.9 0 0 - 1 2 50.0 1 4 5 2 3 0 2 3 -2
+p315
+aVAl Jefferson MIN 02/12/2008 MIN @ NJN L 33 16 5 18 27.8 0 0 - 6 8 75.0 5 6 11 0 0 1 0 1 0
+p316
+aVSebastian Telfair MIN 02/10/2008 MIN vs. TOR L 35 6 2 10 20.0 0 1 0.0 2 2 100.0 0 2 2 8 1 0 1 4 -16
+p317
+aVMarko Jaric MIN 02/10/2008 MIN vs. TOR L 29 11 5 6 83.3 1 2 50.0 0 1 0.0 0 4 4 3 0 0 3 2 -19
+p318
+aVGreg Buckner MIN 02/10/2008 MIN vs. TOR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -5
+p319
+aVGerald Green MIN 02/10/2008 MIN vs. TOR L 13 8 2 5 40.0 0 1 0.0 4 4 100.0 0 3 3 0 0 1 3 1 -3
+p320
+aVAntoine Walker MIN 02/10/2008 MIN vs. TOR L 20 8 3 9 33.3 2 5 40.0 0 0 - 2 2 4 0 2 0 0 1 1
+p321
+aVRandy Foye MIN 02/10/2008 MIN vs. TOR L 27 8 4 10 40.0 0 2 0.0 0 0 - 1 1 2 1 0 0 2 1 -13
+p322
+aVCraig Smith MIN 02/10/2008 MIN vs. TOR L 15 8 3 5 60.0 0 0 - 2 3 66.7 1 4 5 0 0 0 2 3 -14
+p323
+aVCorey Brewer MIN 02/10/2008 MIN vs. TOR L 20 6 2 5 40.0 0 0 - 2 2 100.0 0 5 5 1 0 0 0 2 -12
+p324
+aVRashad McCants MIN 02/10/2008 MIN vs. TOR L 9 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 0 1 0 0 1 -6
+p325
+aVRyan Gomes MIN 02/10/2008 MIN vs. TOR L 30 4 1 5 20.0 0 0 - 2 3 66.7 1 4 5 1 1 0 1 2 -13
+p326
+aVMark Madsen MIN 02/10/2008 MIN vs. TOR L 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -5
+p327
+aVAl Jefferson MIN 02/10/2008 MIN vs. TOR L 36 18 8 16 50.0 0 0 - 2 3 66.7 3 6 9 3 0 1 1 3 -10
+p328
+aVCorey Brewer MIN 02/08/2008 MIN vs. BOS L 30 11 3 10 30.0 0 0 - 5 6 83.3 2 3 5 1 3 1 2 3 -1
+p329
+aVRandy Foye MIN 02/08/2008 MIN vs. BOS L 25 8 3 12 25.0 1 5 20.0 1 1 100.0 1 3 4 3 0 0 2 3 -2
+p330
+aVMarko Jaric MIN 02/08/2008 MIN vs. BOS L 33 7 3 6 50.0 1 3 33.3 0 0 - 2 2 4 5 0 1 1 3 -3
+p331
+aVSebastian Telfair MIN 02/08/2008 MIN vs. BOS L 23 2 1 8 12.5 0 2 0.0 0 0 - 1 4 5 6 0 1 1 3 0
+p332
+aVRyan Gomes MIN 02/08/2008 MIN vs. BOS L 26 13 4 8 50.0 0 2 0.0 5 5 100.0 1 5 6 0 0 0 0 3 -7
+p333
+aVRashad McCants MIN 02/08/2008 MIN vs. BOS L 19 8 4 8 50.0 0 1 0.0 0 0 - 0 0 0 1 3 0 0 2 2
+p334
+aVCraig Smith MIN 02/08/2008 MIN vs. BOS L 33 16 7 10 70.0 0 1 0.0 2 3 66.7 3 4 7 1 0 0 1 1 7
+p335
+aVAntoine Walker MIN 02/08/2008 MIN vs. BOS L 14 3 1 5 20.0 1 3 33.3 0 0 - 1 3 4 2 2 0 3 2 -8
+p336
+aVAl Jefferson MIN 02/08/2008 MIN vs. BOS L 37 18 9 17 52.9 0 0 - 0 0 - 4 5 9 2 3 2 6 3 2
+p337
+aVAl Jefferson MIN 02/04/2008 MIN vs. HOU L 39 33 14 26 53.8 0 0 - 5 5 100.0 3 13 16 2 3 3 4 3 -4
+p338
+aVRyan Gomes MIN 02/04/2008 MIN vs. HOU L 32 12 5 8 62.5 2 4 50.0 0 2 0.0 1 5 6 0 0 0 1 2 5
+p339
+aVMichael Doleac MIN 02/04/2008 MIN vs. HOU L 18 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 2 0 0 4 -1
+p340
+aVRandy Foye MIN 02/04/2008 MIN vs. HOU L 16 4 2 7 28.6 0 3 0.0 0 1 0.0 0 1 1 1 0 0 4 0 -6
+p341
+aVAntoine Walker MIN 02/04/2008 MIN vs. HOU L 15 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 1 1 0 1 2 -2
+p342
+aVSebastian Telfair MIN 02/04/2008 MIN vs. HOU L 33 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 12 3 0 0 0 -2
+p343
+aVCraig Smith MIN 02/04/2008 MIN vs. HOU L 23 7 3 4 75.0 0 0 - 1 3 33.3 2 4 6 0 2 1 1 3 -3
+p344
+aVMarko Jaric MIN 02/04/2008 MIN vs. HOU L 29 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 1 1 2 2 -8
+p345
+aVCorey Brewer MIN 02/04/2008 MIN vs. HOU L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p346
+aVRashad McCants MIN 02/04/2008 MIN vs. HOU L 28 15 6 14 42.9 3 6 50.0 0 0 - 0 0 0 2 0 0 3 4 -6
+p347
+aVGerald Green MIN 02/01/2008 MIN vs. LAC W 13 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 0 0 0 0 5
+p348
+aVSebastian Telfair MIN 02/01/2008 MIN vs. LAC W 20 2 1 4 25.0 0 0 - 0 0 - 1 0 1 4 0 0 0 5 -6
+p349
+aVCraig Smith MIN 02/01/2008 MIN vs. LAC W 27 21 9 11 81.8 0 0 - 3 3 100.0 1 6 7 0 1 0 1 4 28
+p350
+aVMarko Jaric MIN 02/01/2008 MIN vs. LAC W 33 8 4 10 40.0 0 1 0.0 0 0 - 0 3 3 8 2 0 1 2 24
+p351
+aVCorey Brewer MIN 02/01/2008 MIN vs. LAC W 27 5 2 9 22.2 0 0 - 1 2 50.0 1 4 5 1 1 0 1 2 10
+p352
+aVAntoine Walker MIN 02/01/2008 MIN vs. LAC W 17 2 1 4 25.0 0 1 0.0 0 0 - 1 5 6 0 0 0 2 1 5
+p353
+aVRashad McCants MIN 02/01/2008 MIN vs. LAC W 14 14 7 12 58.3 0 2 0.0 0 0 - 1 2 3 1 1 0 1 4 4
+p354
+aVRandy Foye MIN 02/01/2008 MIN vs. LAC W 24 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 2 2 0 1 2 5
+p355
+aVAl Jefferson MIN 02/01/2008 MIN vs. LAC W 30 25 10 17 58.8 0 0 - 5 6 83.3 5 6 11 2 0 0 1 2 9
+p356
+aVRyan Gomes MIN 02/01/2008 MIN vs. LAC W 34 18 8 17 47.1 2 3 66.7 0 0 - 4 5 9 1 0 0 2 1 22
+p357
+aVMichael Doleac MIN 02/01/2008 MIN vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p358
+aVGerald Green MIN 01/30/2008 MIN vs. CHI W 13 5 1 7 14.3 0 2 0.0 3 3 100.0 0 0 0 0 1 0 0 0 1
+p359
+aVRandy Foye MIN 01/30/2008 MIN vs. CHI W 21 7 3 10 30.0 1 3 33.3 0 1 0.0 0 2 2 0 0 0 3 2 6
+p360
+aVCorey Brewer MIN 01/30/2008 MIN vs. CHI W 23 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 3 0 1 4 4
+p361
+aVAl Jefferson MIN 01/30/2008 MIN vs. CHI W 36 26 12 24 50.0 0 0 - 2 2 100.0 6 14 20 1 0 2 2 2 5
+p362
+aVAntoine Walker MIN 01/30/2008 MIN vs. CHI W 23 3 1 5 20.0 1 5 20.0 0 0 - 0 2 2 2 1 1 0 0 23
+p363
+aVRyan Gomes MIN 01/30/2008 MIN vs. CHI W 44 25 10 20 50.0 2 4 50.0 3 4 75.0 4 6 10 0 3 0 1 1 21
+p364
+aVMichael Doleac MIN 01/30/2008 MIN vs. CHI W 8 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 8
+p365
+aVMarko Jaric MIN 01/30/2008 MIN vs. CHI W 31 2 1 10 10.0 0 1 0.0 0 0 - 1 3 4 6 3 0 1 4 6
+p366
+aVCraig Smith MIN 01/30/2008 MIN vs. CHI W 14 2 1 3 33.3 0 0 - 0 1 0.0 1 0 1 1 0 1 4 2 -4
+p367
+aVMark Madsen MIN 01/30/2008 MIN vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p368
+aVSebastian Telfair MIN 01/30/2008 MIN vs. CHI W 27 7 2 8 25.0 0 1 0.0 3 4 75.0 0 1 1 10 1 0 2 3 10
+p369
+aVCraig Smith MIN 01/29/2008 MIN @ CHI L 11 4 1 1 100.0 0 0 - 2 3 66.7 2 2 4 0 0 0 0 3 8
+p370
+aVCorey Brewer MIN 01/29/2008 MIN @ CHI L 17 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 0 2 2 -2
+p371
+aVAl Jefferson MIN 01/29/2008 MIN @ CHI L 36 20 9 18 50.0 0 0 - 2 2 100.0 4 8 12 0 1 2 3 4 -26
+p372
+aVRashad McCants MIN 01/29/2008 MIN @ CHI L 32 16 7 14 50.0 0 5 0.0 2 3 66.7 0 2 2 2 0 0 3 2 -25
+p373
+aVAntoine Walker MIN 01/29/2008 MIN @ CHI L 15 2 0 2 0.0 0 1 0.0 2 4 50.0 1 1 2 0 0 0 1 1 1
+p374
+aVMichael Doleac MIN 01/29/2008 MIN @ CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p375
+aVRyan Gomes MIN 01/29/2008 MIN @ CHI L 32 0 0 4 0.0 0 0 - 0 0 - 0 7 7 2 0 0 1 2 -12
+p376
+aVRandy Foye MIN 01/29/2008 MIN @ CHI L 18 11 4 8 50.0 1 3 33.3 2 2 100.0 0 1 1 2 1 0 1 1 -3
+p377
+aVMarko Jaric MIN 01/29/2008 MIN @ CHI L 32 14 5 7 71.4 0 1 0.0 4 5 80.0 0 3 3 5 5 1 2 3 -1
+p378
+aVSebastian Telfair MIN 01/29/2008 MIN @ CHI L 30 9 3 8 37.5 0 4 0.0 3 3 100.0 0 1 1 4 1 0 2 2 -8
+p379
+aVGerald Green MIN 01/29/2008 MIN @ CHI L 15 9 2 6 33.3 0 0 - 5 5 100.0 0 1 1 0 1 0 3 4 6
+p380
+aVCraig Smith MIN 01/27/2008 MIN vs. NJN W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 4 -3
+p381
+aVRashad McCants MIN 01/27/2008 MIN vs. NJN W 23 16 6 13 46.2 4 6 66.7 0 0 - 0 0 0 1 0 0 1 3 -1
+p382
+aVGreg Buckner MIN 01/27/2008 MIN vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p383
+aVRyan Gomes MIN 01/27/2008 MIN vs. NJN W 33 9 4 10 40.0 1 4 25.0 0 0 - 2 2 4 3 1 0 1 2 8
+p384
+aVMarko Jaric MIN 01/27/2008 MIN vs. NJN W 21 0 0 6 0.0 0 2 0.0 0 0 - 0 2 2 3 0 0 2 4 -8
+p385
+aVAl Jefferson MIN 01/27/2008 MIN vs. NJN W 42 40 13 21 61.9 0 0 - 14 17 82.4 8 11 19 3 1 2 1 2 7
+p386
+aVSebastian Telfair MIN 01/27/2008 MIN vs. NJN W 38 12 4 10 40.0 1 4 25.0 3 3 100.0 0 3 3 4 0 0 1 3 2
+p387
+aVAntoine Walker MIN 01/27/2008 MIN vs. NJN W 24 5 2 6 33.3 1 4 25.0 0 0 - 0 5 5 2 0 0 0 3 5
+p388
+aVCorey Brewer MIN 01/27/2008 MIN vs. NJN W 25 8 1 5 20.0 0 0 - 6 6 100.0 3 2 5 1 0 0 2 4 -2
+p389
+aVGerald Green MIN 01/27/2008 MIN vs. NJN W 15 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 1 2 0 0 4 7
+p390
+aVAntoine Walker MIN 01/25/2008 MIN @ BOS L 15 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 0 4 0 1 3 4
+p391
+aVCorey Brewer MIN 01/25/2008 MIN @ BOS L 25 8 4 8 50.0 0 0 - 0 0 - 0 0 0 0 2 0 1 3 0
+p392
+aVRashad McCants MIN 01/25/2008 MIN @ BOS L 31 12 5 10 50.0 2 3 66.7 0 0 - 0 7 7 1 1 0 4 2 2
+p393
+aVRyan Gomes MIN 01/25/2008 MIN @ BOS L 34 13 5 11 45.5 0 3 0.0 3 3 100.0 1 2 3 2 0 1 1 2 -7
+p394
+aVSebastian Telfair MIN 01/25/2008 MIN @ BOS L 42 18 7 14 50.0 2 5 40.0 2 2 100.0 0 3 3 6 3 0 3 3 -1
+p395
+aVMarko Jaric MIN 01/25/2008 MIN @ BOS L 30 4 1 5 20.0 1 4 25.0 1 2 50.0 0 2 2 1 0 0 0 1 -2
+p396
+aVAl Jefferson MIN 01/25/2008 MIN @ BOS L 34 15 6 14 42.9 0 0 - 3 4 75.0 2 3 5 2 2 2 1 4 -2
+p397
+aVCraig Smith MIN 01/25/2008 MIN @ BOS L 14 4 2 6 33.3 0 0 - 0 0 - 4 6 10 2 0 0 0 3 1
+p398
+aVGerald Green MIN 01/25/2008 MIN @ BOS L 15 9 3 9 33.3 0 2 0.0 3 5 60.0 2 1 3 2 1 0 1 1 0
+p399
+aVMarko Jaric MIN 01/23/2008 MIN vs. PHX W 46 15 6 12 50.0 0 1 0.0 3 4 75.0 2 6 8 10 1 0 2 2 8
+p400
+aVAntoine Walker MIN 01/23/2008 MIN vs. PHX W 22 7 3 7 42.9 1 3 33.3 0 1 0.0 2 1 3 1 1 0 0 2 13
+p401
+aVRashad McCants MIN 01/23/2008 MIN vs. PHX W 29 7 3 8 37.5 1 3 33.3 0 0 - 1 4 5 4 0 0 4 2 4
+p402
+aVSebastian Telfair MIN 01/23/2008 MIN vs. PHX W 28 13 4 7 57.1 1 2 50.0 4 4 100.0 0 1 1 8 3 0 0 3 -1
+p403
+aVRyan Gomes MIN 01/23/2008 MIN vs. PHX W 37 14 6 13 46.2 0 1 0.0 2 5 40.0 5 4 9 1 1 0 1 0 5
+p404
+aVCraig Smith MIN 01/23/2008 MIN vs. PHX W 13 9 3 5 60.0 0 0 - 3 4 75.0 3 3 6 1 0 0 1 0 14
+p405
+aVCorey Brewer MIN 01/23/2008 MIN vs. PHX W 30 13 6 11 54.5 0 0 - 1 2 50.0 1 0 1 2 1 1 1 2 11
+p406
+aVAl Jefferson MIN 01/23/2008 MIN vs. PHX W 35 39 15 29 51.7 0 0 - 9 14 64.3 8 7 15 1 2 0 1 2 -4
+p407
+aVRyan Gomes MIN 01/21/2008 MIN @ GSW W 41 35 11 15 73.3 2 2 100.0 11 12 91.7 0 11 11 3 0 0 3 3 3
+p408
+aVAl Jefferson MIN 01/21/2008 MIN @ GSW W 38 21 10 18 55.6 0 0 - 1 2 50.0 3 9 12 0 0 0 1 4 -10
+p409
+aVCraig Smith MIN 01/21/2008 MIN @ GSW W 10 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 11
+p410
+aVMarko Jaric MIN 01/21/2008 MIN @ GSW W 47 16 5 16 31.3 3 7 42.9 3 4 75.0 2 6 8 10 3 0 5 2 1
+p411
+aVCorey Brewer MIN 01/21/2008 MIN @ GSW W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 0 1 1 2 6
+p412
+aVSebastian Telfair MIN 01/21/2008 MIN @ GSW W 37 15 5 10 50.0 1 3 33.3 4 7 57.1 0 1 1 7 1 0 1 3 -11
+p413
+aVRashad McCants MIN 01/21/2008 MIN @ GSW W 32 15 6 12 50.0 2 3 66.7 1 2 50.0 1 4 5 4 2 0 4 3 15
+p414
+aVAntoine Walker MIN 01/21/2008 MIN @ GSW W 21 5 2 5 40.0 1 4 25.0 0 2 0.0 1 1 2 0 1 0 0 2 -10
+p415
+aVRashad McCants MIN 01/19/2008 MIN @ DEN L 35 23 10 19 52.6 3 7 42.9 0 0 - 3 2 5 5 0 1 5 5 15
+p416
+aVAntoine Walker MIN 01/19/2008 MIN @ DEN L 26 14 5 11 45.5 3 6 50.0 1 4 25.0 2 2 4 0 2 1 1 1 -1
+p417
+aVCorey Brewer MIN 01/19/2008 MIN @ DEN L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p418
+aVCraig Smith MIN 01/19/2008 MIN @ DEN L 18 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 0 0 3 3 -21
+p419
+aVRyan Gomes MIN 01/19/2008 MIN @ DEN L 34 20 8 10 80.0 2 3 66.7 2 2 100.0 1 2 3 3 4 0 2 3 13
+p420
+aVSebastian Telfair MIN 01/19/2008 MIN @ DEN L 32 10 5 7 71.4 0 0 - 0 0 - 0 3 3 6 2 0 2 5 5
+p421
+aVMarko Jaric MIN 01/19/2008 MIN @ DEN L 40 15 5 12 41.7 2 6 33.3 3 3 100.0 0 4 4 4 2 1 1 5 -11
+p422
+aVAl Jefferson MIN 01/19/2008 MIN @ DEN L 37 20 7 14 50.0 0 0 - 6 6 100.0 2 14 16 3 0 2 3 3 9
+p423
+aVGreg Buckner MIN 01/19/2008 MIN @ DEN L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -10
+p424
+aVAl Jefferson MIN 01/18/2008 MIN @ PHX L 33 27 11 20 55.0 0 0 - 5 8 62.5 3 11 14 0 0 3 0 2 -23
+p425
+aVChris Richard MIN 01/18/2008 MIN @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 3
+p426
+aVRashad McCants MIN 01/18/2008 MIN @ PHX L 29 19 7 17 41.2 2 4 50.0 3 3 100.0 1 3 4 2 1 0 2 4 -11
+p427
+aVCorey Brewer MIN 01/18/2008 MIN @ PHX L 24 4 2 8 25.0 0 2 0.0 0 0 - 1 4 5 1 0 0 1 2 -8
+p428
+aVGreg Buckner MIN 01/18/2008 MIN @ PHX L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 2
+p429
+aVRyan Gomes MIN 01/18/2008 MIN @ PHX L 21 12 5 12 41.7 0 0 - 2 2 100.0 4 2 6 1 1 0 0 3 -9
+p430
+aVSebastian Telfair MIN 01/18/2008 MIN @ PHX L 38 12 6 13 46.2 0 1 0.0 0 2 0.0 1 4 5 8 0 0 1 2 -20
+p431
+aVCraig Smith MIN 01/18/2008 MIN @ PHX L 22 16 7 9 77.8 0 0 - 2 4 50.0 0 3 3 0 0 0 1 1 -10
+p432
+aVAntoine Walker MIN 01/18/2008 MIN @ PHX L 17 4 1 5 20.0 0 3 0.0 2 4 50.0 1 1 2 2 0 0 1 2 -6
+p433
+aVMark Madsen MIN 01/18/2008 MIN @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p434
+aVMarko Jaric MIN 01/18/2008 MIN @ PHX L 33 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 1 2 1 -26
+p435
+aVGerald Green MIN 01/18/2008 MIN @ PHX L 11 1 0 5 0.0 0 1 0.0 1 2 50.0 2 3 5 0 0 0 1 0 5
+p436
+aVRashad McCants MIN 01/15/2008 MIN vs. GSW L 30 11 4 12 33.3 1 2 50.0 2 2 100.0 2 3 5 3 1 0 4 5 0
+p437
+aVAntoine Walker MIN 01/15/2008 MIN vs. GSW L 26 26 10 15 66.7 4 7 57.1 2 2 100.0 5 5 10 0 1 0 2 1 3
+p438
+aVAl Jefferson MIN 01/15/2008 MIN vs. GSW L 35 18 7 14 50.0 0 0 - 4 4 100.0 4 10 14 0 1 1 1 2 -19
+p439
+aVRyan Gomes MIN 01/15/2008 MIN vs. GSW L 34 15 6 13 46.2 0 3 0.0 3 5 60.0 1 4 5 0 0 1 2 3 -10
+p440
+aVCraig Smith MIN 01/15/2008 MIN vs. GSW L 13 5 1 4 25.0 0 0 - 3 7 42.9 0 4 4 0 1 1 1 4 12
+p441
+aVMarko Jaric MIN 01/15/2008 MIN vs. GSW L 39 6 3 10 30.0 0 0 - 0 0 - 3 2 5 3 2 2 3 2 -2
+p442
+aVGreg Buckner MIN 01/15/2008 MIN vs. GSW L 15 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 1 0 0 0 3 -4
+p443
+aVCorey Brewer MIN 01/15/2008 MIN vs. GSW L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 2 3 -12
+p444
+aVGerald Green MIN 01/15/2008 MIN vs. GSW L 8 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 1 10
+p445
+aVSebastian Telfair MIN 01/15/2008 MIN vs. GSW L 31 10 4 9 44.4 0 0 - 2 4 50.0 0 2 2 8 0 0 3 4 -13
+p446
+aVAl Jefferson MIN 01/12/2008 MIN @ SAS L 37 24 10 18 55.6 0 0 - 4 4 100.0 1 3 4 1 0 2 2 2 -19
+p447
+aVSebastian Telfair MIN 01/12/2008 MIN @ SAS L 40 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 4 0 0 3 5 -17
+p448
+aVMarko Jaric MIN 01/12/2008 MIN @ SAS L 16 2 1 2 50.0 0 0 - 0 0 - 2 2 4 5 2 0 3 3 -10
+p449
+aVCraig Smith MIN 01/12/2008 MIN @ SAS L 26 12 4 9 44.4 0 1 0.0 4 5 80.0 3 4 7 0 2 1 4 3 -7
+p450
+aVMichael Doleac MIN 01/12/2008 MIN @ SAS L 20 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 0 0 0 5 -6
+p451
+aVAntoine Walker MIN 01/12/2008 MIN @ SAS L 5 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p452
+aVRyan Gomes MIN 01/12/2008 MIN @ SAS L 40 21 9 15 60.0 1 4 25.0 2 2 100.0 2 7 9 2 0 1 1 2 -8
+p453
+aVRashad McCants MIN 01/12/2008 MIN @ SAS L 40 17 6 12 50.0 3 7 42.9 2 2 100.0 0 5 5 6 2 0 5 5 -7
+p454
+aVCorey Brewer MIN 01/12/2008 MIN @ SAS L 17 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 -6
+p455
+aVRyan Gomes MIN 01/11/2008 MIN @ HOU L 29 20 8 15 53.3 0 1 0.0 4 4 100.0 2 4 6 1 0 0 1 1 -24
+p456
+aVMichael Doleac MIN 01/11/2008 MIN @ HOU L 21 10 5 8 62.5 0 0 - 0 0 - 1 1 2 0 1 2 1 3 -11
+p457
+aVAl Jefferson MIN 01/11/2008 MIN @ HOU L 30 6 2 10 20.0 0 0 - 2 4 50.0 0 6 6 0 2 2 1 3 -19
+p458
+aVRashad McCants MIN 01/11/2008 MIN @ HOU L 25 9 4 12 33.3 0 1 0.0 1 3 33.3 1 2 3 1 0 0 3 3 -22
+p459
+aVCorey Brewer MIN 01/11/2008 MIN @ HOU L 21 16 7 9 77.8 0 0 - 2 2 100.0 0 1 1 1 1 0 1 1 -13
+p460
+aVSebastian Telfair MIN 01/11/2008 MIN @ HOU L 30 2 1 4 25.0 0 0 - 0 1 0.0 1 2 3 6 0 0 0 1 -18
+p461
+aVChris Richard MIN 01/11/2008 MIN @ HOU L 11 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -14
+p462
+aVGreg Buckner MIN 01/11/2008 MIN @ HOU L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p463
+aVCraig Smith MIN 01/11/2008 MIN @ HOU L 21 12 6 10 60.0 0 0 - 0 0 - 2 2 4 1 1 0 0 3 -10
+p464
+aVAntoine Walker MIN 01/11/2008 MIN @ HOU L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 2 2 0
+p465
+aVMarko Jaric MIN 01/11/2008 MIN @ HOU L 24 2 0 2 0.0 0 1 0.0 2 4 50.0 0 4 4 2 0 0 2 1 -24
+p466
+aVGerald Green MIN 01/11/2008 MIN @ HOU L 11 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 1
+p467
+aVCraig Smith MIN 01/08/2008 MIN vs. MIA W 14 7 3 4 75.0 0 0 - 1 2 50.0 1 5 6 1 0 0 0 5 2
+p468
+aVGreg Buckner MIN 01/08/2008 MIN vs. MIA W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p469
+aVSebastian Telfair MIN 01/08/2008 MIN vs. MIA W 40 11 3 10 30.0 3 7 42.9 2 2 100.0 0 3 3 9 0 0 3 1 10
+p470
+aVRashad McCants MIN 01/08/2008 MIN vs. MIA W 36 27 12 24 50.0 2 5 40.0 1 1 100.0 4 4 8 4 1 0 3 4 8
+p471
+aVAl Jefferson MIN 01/08/2008 MIN vs. MIA W 38 18 9 20 45.0 0 0 - 0 1 0.0 4 6 10 0 2 1 0 3 13
+p472
+aVRyan Gomes MIN 01/08/2008 MIN vs. MIA W 39 13 5 10 50.0 1 1 100.0 2 2 100.0 2 4 6 4 3 0 1 3 11
+p473
+aVAntoine Walker MIN 01/08/2008 MIN vs. MIA W 12 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 1 -3
+p474
+aVMarko Jaric MIN 01/08/2008 MIN vs. MIA W 42 17 6 9 66.7 1 3 33.3 4 5 80.0 3 1 4 8 0 0 2 4 4
+p475
+aVCorey Brewer MIN 01/08/2008 MIN vs. MIA W 17 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 0 0 2 3 5
+p476
+aVCorey Brewer MIN 01/06/2008 MIN vs. DAL L 17 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -11
+p477
+aVChris Richard MIN 01/06/2008 MIN vs. DAL L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p478
+aVAl Jefferson MIN 01/06/2008 MIN vs. DAL L 35 16 5 14 35.7 0 0 - 6 8 75.0 3 8 11 0 0 1 1 3 -27
+p479
+aVRyan Gomes MIN 01/06/2008 MIN vs. DAL L 27 5 1 5 20.0 0 2 0.0 3 3 100.0 0 4 4 0 0 0 1 1 -16
+p480
+aVRashad McCants MIN 01/06/2008 MIN vs. DAL L 24 21 6 10 60.0 2 3 66.7 7 10 70.0 0 4 4 1 0 0 4 4 -3
+p481
+aVSebastian Telfair MIN 01/06/2008 MIN vs. DAL L 34 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 5 0 1 2 3 -17
+p482
+aVCraig Smith MIN 01/06/2008 MIN vs. DAL L 14 8 3 5 60.0 0 0 - 2 4 50.0 2 2 4 0 2 0 0 4 -5
+p483
+aVGerald Green MIN 01/06/2008 MIN vs. DAL L 15 4 2 5 40.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -8
+p484
+aVMarko Jaric MIN 01/06/2008 MIN vs. DAL L 33 14 6 14 42.9 2 2 100.0 0 0 - 0 1 1 3 3 0 2 3 -24
+p485
+aVMark Madsen MIN 01/06/2008 MIN vs. DAL L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 3 -3
+p486
+aVAntoine Walker MIN 01/06/2008 MIN vs. DAL L 20 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 2 0 0 2 0 -2
+p487
+aVRashad McCants MIN 01/04/2008 MIN vs. DEN L 32 34 12 18 66.7 3 5 60.0 7 7 100.0 2 3 5 4 0 0 1 5 9
+p488
+aVRyan Gomes MIN 01/04/2008 MIN vs. DEN L 40 15 4 11 36.4 1 6 16.7 6 7 85.7 3 4 7 2 0 0 2 2 0
+p489
+aVMarko Jaric MIN 01/04/2008 MIN vs. DEN L 41 7 3 10 30.0 0 2 0.0 1 2 50.0 0 2 2 10 2 2 2 5 -3
+p490
+aVCorey Brewer MIN 01/04/2008 MIN vs. DEN L 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -10
+p491
+aVGreg Buckner MIN 01/04/2008 MIN vs. DEN L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -4
+p492
+aVAntoine Walker MIN 01/04/2008 MIN vs. DEN L 25 10 3 12 25.0 3 7 42.9 1 2 50.0 3 5 8 2 1 0 1 2 6
+p493
+aVAl Jefferson MIN 01/04/2008 MIN vs. DEN L 39 24 12 20 60.0 0 0 - 0 3 0.0 3 12 15 1 1 0 4 5 -8
+p494
+aVCraig Smith MIN 01/04/2008 MIN vs. DEN L 25 10 3 6 50.0 0 0 - 4 6 66.7 1 3 4 0 0 0 1 3 -23
+p495
+aVChris Richard MIN 01/04/2008 MIN vs. DEN L 7 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 1 3
+p496
+aVSebastian Telfair MIN 01/04/2008 MIN vs. DEN L 21 4 2 10 20.0 0 2 0.0 0 0 - 0 1 1 2 1 0 0 1 -25
+p497
+aVMarko Jaric MIN 01/02/2008 MIN vs. POR L 16 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -13
+p498
+aVCorey Brewer MIN 01/02/2008 MIN vs. POR L 27 6 2 7 28.6 0 0 - 2 4 50.0 0 1 1 1 2 0 0 3 5
+p499
+aVSebastian Telfair MIN 01/02/2008 MIN vs. POR L 35 7 2 9 22.2 1 3 33.3 2 2 100.0 0 4 4 3 0 0 1 1 2
+p500
+aVRyan Gomes MIN 01/02/2008 MIN vs. POR L 30 10 3 9 33.3 1 3 33.3 3 3 100.0 2 8 10 1 0 0 2 2 0
+p501
+aVCraig Smith MIN 01/02/2008 MIN vs. POR L 24 8 1 3 33.3 0 0 - 6 6 100.0 1 4 5 0 0 0 2 5 -13
+p502
+aVRashad McCants MIN 01/02/2008 MIN vs. POR L 19 6 3 6 50.0 0 3 0.0 0 0 - 0 1 1 3 0 1 0 2 -18
+p503
+aVGerald Green MIN 01/02/2008 MIN vs. POR L 16 7 3 10 30.0 1 2 50.0 0 1 0.0 0 2 2 0 0 0 0 3 -9
+p504
+aVAntoine Walker MIN 01/02/2008 MIN vs. POR L 18 4 2 8 25.0 0 3 0.0 0 0 - 1 2 3 0 0 0 0 2 -6
+p505
+aVMichael Doleac MIN 01/02/2008 MIN vs. POR L 13 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 1 1 3 2
+p506
+aVAl Jefferson MIN 01/02/2008 MIN vs. POR L 40 29 11 24 45.8 0 0 - 7 9 77.8 8 8 16 0 0 3 1 2 -5
+p507
+aVSebastian Telfair MIN 12/31/2007 MIN @ LAC L 33 6 3 14 21.4 0 2 0.0 0 0 - 0 2 2 7 3 0 2 2 -6
+p508
+aVAntoine Walker MIN 12/31/2007 MIN @ LAC L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 3 1
+p509
+aVCorey Brewer MIN 12/31/2007 MIN @ LAC L 37 6 3 7 42.9 0 0 - 0 0 - 2 3 5 3 3 1 3 1 -1
+p510
+aVRashad McCants MIN 12/31/2007 MIN @ LAC L 19 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 0 0 0 2 6 -15
+p511
+aVMichael Doleac MIN 12/31/2007 MIN @ LAC L 19 6 3 7 42.9 0 0 - 0 0 - 1 0 1 1 2 1 0 5 -4
+p512
+aVMarko Jaric MIN 12/31/2007 MIN @ LAC L 15 7 2 5 40.0 1 1 100.0 2 4 50.0 0 1 1 2 0 0 2 0 -3
+p513
+aVAl Jefferson MIN 12/31/2007 MIN @ LAC L 38 23 9 19 47.4 0 0 - 5 8 62.5 5 10 15 2 1 1 1 2 -3
+p514
+aVRyan Gomes MIN 12/31/2007 MIN @ LAC L 40 17 8 14 57.1 0 3 0.0 1 1 100.0 5 10 15 2 0 0 3 3 -2
+p515
+aVCraig Smith MIN 12/31/2007 MIN @ LAC L 30 14 6 13 46.2 0 0 - 2 3 66.7 3 2 5 1 2 0 2 5 -12
+p516
+aVCorey Brewer MIN 12/29/2007 MIN @ SEA L 29 6 3 7 42.9 0 0 - 0 0 - 1 3 4 2 2 0 1 2 -4
+p517
+aVCraig Smith MIN 12/29/2007 MIN @ SEA L 24 12 5 13 38.5 0 0 - 2 4 50.0 0 4 4 2 0 0 0 2 -3
+p518
+aVMarko Jaric MIN 12/29/2007 MIN @ SEA L 18 9 4 8 50.0 0 0 - 1 2 50.0 1 2 3 2 0 0 0 0 -16
+p519
+aVGreg Buckner MIN 12/29/2007 MIN @ SEA L 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -2
+p520
+aVSebastian Telfair MIN 12/29/2007 MIN @ SEA L 30 12 5 12 41.7 1 1 100.0 1 4 25.0 0 1 1 6 1 0 0 1 -3
+p521
+aVAntoine Walker MIN 12/29/2007 MIN @ SEA L 17 10 4 14 28.6 2 5 40.0 0 0 - 3 2 5 1 0 0 0 0 -1
+p522
+aVChris Richard MIN 12/29/2007 MIN @ SEA L 19 4 2 3 66.7 0 0 - 0 0 - 3 5 8 1 1 1 1 3 -3
+p523
+aVRashad McCants MIN 12/29/2007 MIN @ SEA L 21 6 2 8 25.0 2 7 28.6 0 0 - 1 4 5 3 4 1 2 3 -1
+p524
+aVGerald Green MIN 12/29/2007 MIN @ SEA L 8 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -6
+p525
+aVRyan Gomes MIN 12/29/2007 MIN @ SEA L 23 10 3 8 37.5 0 1 0.0 4 6 66.7 0 2 2 0 1 0 2 3 -26
+p526
+aVMichael Doleac MIN 12/29/2007 MIN @ SEA L 7 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 2
+p527
+aVAl Jefferson MIN 12/29/2007 MIN @ SEA L 33 17 7 17 41.2 0 0 - 3 4 75.0 5 3 8 1 0 1 2 2 -32
+p528
+aVAl Jefferson MIN 12/28/2007 MIN @ POR L 34 22 8 12 66.7 0 0 - 6 7 85.7 2 5 7 1 1 1 3 3 -12
+p529
+aVCraig Smith MIN 12/28/2007 MIN @ POR L 30 6 3 7 42.9 0 0 - 0 0 - 1 5 6 0 1 0 0 4 -5
+p530
+aVCorey Brewer MIN 12/28/2007 MIN @ POR L 27 8 4 7 57.1 0 0 - 0 1 0.0 1 0 1 2 0 0 0 3 2
+p531
+aVChris Richard MIN 12/28/2007 MIN @ POR L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p532
+aVMarko Jaric MIN 12/28/2007 MIN @ POR L 17 3 1 6 16.7 0 3 0.0 1 2 50.0 1 0 1 1 2 0 1 1 -7
+p533
+aVGerald Green MIN 12/28/2007 MIN @ POR L 14 8 3 7 42.9 2 3 66.7 0 0 - 0 3 3 2 0 0 1 1 -1
+p534
+aVRyan Gomes MIN 12/28/2007 MIN @ POR L 35 16 6 13 46.2 1 5 20.0 3 3 100.0 0 7 7 0 1 0 2 0 -10
+p535
+aVAntoine Walker MIN 12/28/2007 MIN @ POR L 20 10 4 6 66.7 2 3 66.7 0 0 - 1 4 5 1 0 0 2 2 -9
+p536
+aVRashad McCants MIN 12/28/2007 MIN @ POR L 25 21 8 17 47.1 5 9 55.6 0 0 - 0 0 0 4 1 0 0 2 -5
+p537
+aVSebastian Telfair MIN 12/28/2007 MIN @ POR L 31 4 1 7 14.3 0 1 0.0 2 2 100.0 0 2 2 11 1 0 3 6 -4
+p538
+aVAl Jefferson MIN 12/26/2007 MIN @ GSW L 41 20 8 18 44.4 0 1 0.0 4 8 50.0 10 9 19 3 3 1 5 2 -2
+p539
+aVGerald Green MIN 12/26/2007 MIN @ GSW L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -13
+p540
+aVCraig Smith MIN 12/26/2007 MIN @ GSW L 31 8 3 8 37.5 0 0 - 2 2 100.0 2 6 8 2 1 0 2 4 -5
+p541
+aVCorey Brewer MIN 12/26/2007 MIN @ GSW L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 2 0 3 3 -5
+p542
+aVRyan Gomes MIN 12/26/2007 MIN @ GSW L 26 14 4 9 44.4 1 2 50.0 5 6 83.3 3 2 5 0 2 0 2 5 -3
+p543
+aVMarko Jaric MIN 12/26/2007 MIN @ GSW L 25 15 4 11 36.4 1 2 50.0 6 8 75.0 0 8 8 5 0 1 0 4 22
+p544
+aVAntoine Walker MIN 12/26/2007 MIN @ GSW L 24 11 3 13 23.1 2 6 33.3 3 6 50.0 2 3 5 1 0 2 1 2 3
+p545
+aVRashad McCants MIN 12/26/2007 MIN @ GSW L 35 15 5 10 50.0 3 6 50.0 2 3 66.7 1 2 3 0 0 0 4 3 2
+p546
+aVGreg Buckner MIN 12/26/2007 MIN @ GSW L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 6
+p547
+aVSebastian Telfair MIN 12/26/2007 MIN @ GSW L 24 12 5 10 50.0 0 1 0.0 2 2 100.0 1 2 3 4 1 0 3 2 -25
+p548
+aVAl Jefferson MIN 12/22/2007 MIN @ NOH L 33 11 5 11 45.5 0 0 - 1 2 50.0 4 9 13 2 1 1 3 2 -14
+p549
+aVCraig Smith MIN 12/22/2007 MIN @ NOH L 18 8 4 6 66.7 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -7
+p550
+aVAntoine Walker MIN 12/22/2007 MIN @ NOH L 21 6 1 9 11.1 1 7 14.3 3 6 50.0 0 3 3 1 2 0 1 2 -22
+p551
+aVGerald Green MIN 12/22/2007 MIN @ NOH L 32 11 4 13 30.8 2 4 50.0 1 2 50.0 0 4 4 4 0 0 6 4 -21
+p552
+aVRyan Gomes MIN 12/22/2007 MIN @ NOH L 38 20 8 16 50.0 3 5 60.0 1 1 100.0 2 7 9 2 2 0 1 0 -18
+p553
+aVMark Madsen MIN 12/22/2007 MIN @ NOH L 4 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 4 -3
+p554
+aVSebastian Telfair MIN 12/22/2007 MIN @ NOH L 39 9 4 14 28.6 0 2 0.0 1 2 50.0 0 3 3 3 0 0 6 3 -44
+p555
+aVCorey Brewer MIN 12/22/2007 MIN @ NOH L 35 9 4 8 50.0 0 1 0.0 1 1 100.0 2 3 5 2 0 0 3 2 -19
+p556
+aVChris Richard MIN 12/22/2007 MIN @ NOH L 17 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -15
+p557
+aVMichael Doleac MIN 12/22/2007 MIN @ NOH L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -7
+p558
+aVCraig Smith MIN 12/21/2007 MIN vs. IND W 23 12 4 5 80.0 0 0 - 4 4 100.0 1 6 7 0 0 1 2 3 1
+p559
+aVCorey Brewer MIN 12/21/2007 MIN vs. IND W 40 10 5 13 38.5 0 1 0.0 0 0 - 2 5 7 3 1 2 0 1 18
+p560
+aVMark Madsen MIN 12/21/2007 MIN vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p561
+aVAntoine Walker MIN 12/21/2007 MIN vs. IND W 25 23 7 15 46.7 6 10 60.0 3 4 75.0 0 5 5 0 1 0 2 3 21
+p562
+aVAl Jefferson MIN 12/21/2007 MIN vs. IND W 33 29 13 21 61.9 0 0 - 3 5 60.0 6 7 13 2 2 3 2 3 0
+p563
+aVSebastian Telfair MIN 12/21/2007 MIN vs. IND W 48 27 11 18 61.1 0 0 - 5 5 100.0 0 1 1 11 1 0 1 4 13
+p564
+aVChris Richard MIN 12/21/2007 MIN vs. IND W 17 2 1 3 33.3 0 0 - 0 0 - 1 5 6 1 1 0 1 3 1
+p565
+aVRyan Gomes MIN 12/21/2007 MIN vs. IND W 38 16 5 11 45.5 1 3 33.3 5 7 71.4 2 5 7 2 1 0 2 2 -4
+p566
+aVGerald Green MIN 12/21/2007 MIN vs. IND W 16 12 3 5 60.0 2 4 50.0 4 4 100.0 0 4 4 5 0 0 1 4 14
+p567
+aVRashad McCants MIN 12/19/2007 MIN vs. GSW L 45 23 9 16 56.3 3 7 42.9 2 2 100.0 2 0 2 6 3 0 1 2 -10
+p568
+aVGerald Green MIN 12/19/2007 MIN vs. GSW L 30 18 6 13 46.2 4 8 50.0 2 2 100.0 1 7 8 2 0 0 2 5 -6
+p569
+aVCraig Smith MIN 12/19/2007 MIN vs. GSW L 24 8 3 9 33.3 0 1 0.0 2 2 100.0 2 3 5 1 0 0 3 3 -8
+p570
+aVRyan Gomes MIN 12/19/2007 MIN vs. GSW L 28 8 4 9 44.4 0 1 0.0 0 1 0.0 1 5 6 0 1 0 1 2 0
+p571
+aVCorey Brewer MIN 12/19/2007 MIN vs. GSW L 31 11 4 12 33.3 0 0 - 3 3 100.0 2 3 5 1 1 1 3 2 -9
+p572
+aVAl Jefferson MIN 12/19/2007 MIN vs. GSW L 40 24 10 17 58.8 0 0 - 4 7 57.1 4 10 14 4 2 1 0 1 -16
+p573
+aVChris Richard MIN 12/19/2007 MIN vs. GSW L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p574
+aVSebastian Telfair MIN 12/19/2007 MIN vs. GSW L 38 6 3 11 27.3 0 2 0.0 0 0 - 0 4 4 8 0 0 5 5 -14
+p575
+aVRashad McCants MIN 12/17/2007 MIN @ MIA L 36 19 7 18 38.9 4 11 36.4 1 2 50.0 1 2 3 0 0 0 4 6 5
+p576
+aVChris Richard MIN 12/17/2007 MIN @ MIA L 12 4 0 1 0.0 0 0 - 4 4 100.0 1 3 4 1 0 0 1 3 1
+p577
+aVCraig Smith MIN 12/17/2007 MIN @ MIA L 21 11 5 10 50.0 0 0 - 1 1 100.0 0 4 4 0 0 0 2 5 -6
+p578
+aVMichael Doleac MIN 12/17/2007 MIN @ MIA L 25 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 1 1 1 4 0
+p579
+aVRyan Gomes MIN 12/17/2007 MIN @ MIA L 25 10 4 10 40.0 0 2 0.0 2 5 40.0 2 2 4 2 1 1 1 1 12
+p580
+aVSebastian Telfair MIN 12/17/2007 MIN @ MIA L 37 17 7 16 43.8 0 3 0.0 3 4 75.0 0 1 1 6 1 0 2 3 -3
+p581
+aVMarko Jaric MIN 12/17/2007 MIN @ MIA L 23 0 0 3 0.0 0 0 - 0 0 - 0 1 1 3 0 1 4 2 -10
+p582
+aVAl Jefferson MIN 12/17/2007 MIN @ MIA L 37 22 8 18 44.4 0 0 - 6 7 85.7 6 14 20 2 2 1 2 4 -3
+p583
+aVCorey Brewer MIN 12/17/2007 MIN @ MIA L 23 0 0 4 0.0 0 1 0.0 0 0 - 1 6 7 0 0 0 2 5 -16
+p584
+aVRyan Gomes MIN 12/15/2007 MIN @ MIL L 21 15 6 10 60.0 1 1 100.0 2 2 100.0 0 1 1 2 0 0 0 1 12
+p585
+aVCraig Smith MIN 12/15/2007 MIN @ MIL L 31 30 12 17 70.6 0 1 0.0 6 8 75.0 5 5 10 1 1 0 2 4 0
+p586
+aVChris Richard MIN 12/15/2007 MIN @ MIL L 14 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 0 2 2 -6
+p587
+aVAl Jefferson MIN 12/15/2007 MIN @ MIL L 38 23 11 19 57.9 0 0 - 1 1 100.0 3 12 15 1 0 2 1 4 -3
+p588
+aVCorey Brewer MIN 12/15/2007 MIN @ MIL L 36 4 2 13 15.4 0 1 0.0 0 0 - 0 4 4 3 0 0 3 2 -7
+p589
+aVSebastian Telfair MIN 12/15/2007 MIN @ MIL L 42 7 3 8 37.5 0 0 - 1 1 100.0 0 4 4 8 2 0 0 0 -5
+p590
+aVRashad McCants MIN 12/15/2007 MIN @ MIL L 23 12 4 10 40.0 4 7 57.1 0 0 - 0 0 0 2 1 0 1 4 10
+p591
+aVMarko Jaric MIN 12/15/2007 MIN @ MIL L 35 1 0 3 0.0 0 2 0.0 1 1 100.0 0 0 0 7 0 0 2 4 -16
+p592
+aVChris Richard MIN 12/14/2007 MIN vs. SEA L 25 10 4 4 100.0 0 0 - 2 3 66.7 0 1 1 0 0 0 1 5 5
+p593
+aVCorey Brewer MIN 12/14/2007 MIN vs. SEA L 33 11 3 9 33.3 0 0 - 5 6 83.3 1 6 7 4 0 3 4 3 -4
+p594
+aVAl Jefferson MIN 12/14/2007 MIN vs. SEA L 37 22 8 18 44.4 0 0 - 6 8 75.0 8 8 16 1 1 0 2 1 -18
+p595
+aVRashad McCants MIN 12/14/2007 MIN vs. SEA L 28 17 7 16 43.8 3 10 30.0 0 0 - 0 2 2 1 0 1 2 3 -1
+p596
+aVAntoine Walker MIN 12/14/2007 MIN vs. SEA L 10 5 2 6 33.3 0 2 0.0 1 2 50.0 2 1 3 0 0 0 0 0 1
+p597
+aVCraig Smith MIN 12/14/2007 MIN vs. SEA L 20 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 1 2 3 -15
+p598
+aVMarko Jaric MIN 12/14/2007 MIN vs. SEA L 38 10 4 13 30.8 0 1 0.0 2 3 66.7 1 2 3 6 4 0 4 2 -5
+p599
+aVGerald Green MIN 12/14/2007 MIN vs. SEA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p600
+aVRyan Gomes MIN 12/14/2007 MIN vs. SEA L 14 5 2 4 50.0 0 2 0.0 1 2 50.0 0 6 6 0 2 0 2 2 -3
+p601
+aVSebastian Telfair MIN 12/14/2007 MIN vs. SEA L 33 5 2 10 20.0 1 4 25.0 0 0 - 1 1 2 6 0 4 4 1 -9
+p602
+aVChris Richard MIN 12/12/2007 MIN @ PHI L 16 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 2 2 0 2 16
+p603
+aVRyan Gomes MIN 12/12/2007 MIN @ PHI L 23 9 3 8 37.5 1 5 20.0 2 2 100.0 1 3 4 1 1 0 0 2 9
+p604
+aVMarko Jaric MIN 12/12/2007 MIN @ PHI L 29 14 4 7 57.1 0 0 - 6 8 75.0 0 2 2 4 1 0 3 4 0
+p605
+aVAl Jefferson MIN 12/12/2007 MIN @ PHI L 32 22 10 20 50.0 0 0 - 2 5 40.0 6 5 11 1 0 2 1 3 -20
+p606
+aVCraig Smith MIN 12/12/2007 MIN @ PHI L 28 8 3 9 33.3 0 0 - 2 4 50.0 0 2 2 0 2 0 3 3 -14
+p607
+aVCorey Brewer MIN 12/12/2007 MIN @ PHI L 25 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 1 0 0 3 3 -13
+p608
+aVRashad McCants MIN 12/12/2007 MIN @ PHI L 35 15 6 14 42.9 2 4 50.0 1 2 50.0 1 2 3 5 2 1 2 3 0
+p609
+aVSebastian Telfair MIN 12/12/2007 MIN @ PHI L 32 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 11 2 0 2 4 -9
+p610
+aVAntoine Walker MIN 12/12/2007 MIN @ PHI L 19 14 5 10 50.0 3 7 42.9 1 2 50.0 2 0 2 1 0 0 0 1 11
+p611
+aVCorey Brewer MIN 12/11/2007 MIN @ WAS L 40 9 3 5 60.0 1 2 50.0 2 2 100.0 1 8 9 2 0 1 1 0 -2
+p612
+aVGerald Green MIN 12/11/2007 MIN @ WAS L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p613
+aVMarko Jaric MIN 12/11/2007 MIN @ WAS L 26 8 3 10 30.0 2 4 50.0 0 0 - 0 1 1 2 0 1 3 1 -31
+p614
+aVCraig Smith MIN 12/11/2007 MIN @ WAS L 38 36 14 22 63.6 0 0 - 8 9 88.9 4 4 8 0 0 1 0 2 -6
+p615
+aVRyan Gomes MIN 12/11/2007 MIN @ WAS L 8 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p616
+aVRashad McCants MIN 12/11/2007 MIN @ WAS L 32 8 2 8 25.0 1 5 20.0 3 4 75.0 0 5 5 6 1 0 0 1 4
+p617
+aVSebastian Telfair MIN 12/11/2007 MIN @ WAS L 38 11 5 12 41.7 0 2 0.0 1 1 100.0 1 1 2 10 1 0 1 3 -1
+p618
+aVChris Richard MIN 12/11/2007 MIN @ WAS L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p619
+aVAntoine Walker MIN 12/11/2007 MIN @ WAS L 8 2 1 6 16.7 0 2 0.0 0 0 - 1 0 1 0 0 0 2 2 3
+p620
+aVAl Jefferson MIN 12/11/2007 MIN @ WAS L 39 14 5 14 35.7 0 0 - 4 4 100.0 2 5 7 0 1 1 3 5 -23
+p621
+aVCraig Smith MIN 12/08/2007 MIN vs. PHX W 36 16 7 11 63.6 0 0 - 2 2 100.0 5 3 8 0 0 0 1 2 -8
+p622
+aVRyan Gomes MIN 12/08/2007 MIN vs. PHX W 19 7 2 7 28.6 0 2 0.0 3 3 100.0 3 4 7 0 0 0 0 1 7
+p623
+aVCorey Brewer MIN 12/08/2007 MIN vs. PHX W 31 6 3 10 30.0 0 2 0.0 0 2 0.0 1 10 11 4 0 0 3 4 9
+p624
+aVChris Richard MIN 12/08/2007 MIN vs. PHX W 10 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 5
+p625
+aVAl Jefferson MIN 12/08/2007 MIN vs. PHX W 42 32 13 26 50.0 0 0 - 6 8 75.0 6 14 20 2 4 1 3 1 13
+p626
+aVSebastian Telfair MIN 12/08/2007 MIN vs. PHX W 39 10 5 12 41.7 0 2 0.0 0 0 - 0 1 1 6 1 0 2 3 5
+p627
+aVMarko Jaric MIN 12/08/2007 MIN vs. PHX W 40 19 7 11 63.6 2 4 50.0 3 5 60.0 0 2 2 5 1 0 6 5 2
+p628
+aVRashad McCants MIN 12/08/2007 MIN vs. PHX W 23 10 3 11 27.3 2 3 66.7 2 2 100.0 3 0 3 0 1 0 0 1 2
+p629
+aVGreg Buckner MIN 12/06/2007 MIN @ ATL L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 -19
+p630
+aVSebastian Telfair MIN 12/06/2007 MIN @ ATL L 32 8 4 10 40.0 0 0 - 0 0 - 0 1 1 4 1 0 2 4 2
+p631
+aVCorey Brewer MIN 12/06/2007 MIN @ ATL L 44 6 3 15 20.0 0 1 0.0 0 0 - 4 14 18 5 4 1 0 5 9
+p632
+aVMarko Jaric MIN 12/06/2007 MIN @ ATL L 39 18 6 13 46.2 1 2 50.0 5 5 100.0 2 6 8 9 3 0 5 3 7
+p633
+aVChris Richard MIN 12/06/2007 MIN @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p634
+aVAl Jefferson MIN 12/06/2007 MIN @ ATL L 41 17 8 25 32.0 0 0 - 1 4 25.0 3 5 8 2 2 1 2 1 1
+p635
+aVRyan Gomes MIN 12/06/2007 MIN @ ATL L 8 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 0 0 1 1 0 -14
+p636
+aVRashad McCants MIN 12/06/2007 MIN @ ATL L 18 11 3 6 50.0 2 4 50.0 3 3 100.0 0 1 1 1 0 0 1 0 0
+p637
+aVCraig Smith MIN 12/06/2007 MIN @ ATL L 27 20 9 15 60.0 0 0 - 2 2 100.0 7 2 9 1 0 0 3 4 8
+p638
+aVMichael Doleac MIN 12/06/2007 MIN @ ATL L 17 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 0 1 1 5 -3
+p639
+aVAl Jefferson MIN 12/04/2007 MIN vs. LAL L 31 12 5 14 35.7 0 0 - 2 5 40.0 5 7 12 3 1 1 4 3 -14
+p640
+aVAntoine Walker MIN 12/04/2007 MIN vs. LAL L 19 10 4 10 40.0 2 6 33.3 0 0 - 1 0 1 3 0 0 1 1 -14
+p641
+aVRashad McCants MIN 12/04/2007 MIN vs. LAL L 23 14 5 12 41.7 2 5 40.0 2 3 66.7 0 2 2 1 1 1 0 4 -2
+p642
+aVSebastian Telfair MIN 12/04/2007 MIN vs. LAL L 41 16 6 13 46.2 0 2 0.0 4 7 57.1 0 2 2 3 0 1 3 2 -19
+p643
+aVRyan Gomes MIN 12/04/2007 MIN vs. LAL L 29 11 4 8 50.0 0 2 0.0 3 3 100.0 1 5 6 0 1 0 5 4 -14
+p644
+aVChris Richard MIN 12/04/2007 MIN vs. LAL L 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p645
+aVMichael Doleac MIN 12/04/2007 MIN vs. LAL L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p646
+aVMark Madsen MIN 12/04/2007 MIN vs. LAL L 14 0 0 0 - 0 0 - 0 0 - 2 3 5 0 1 0 0 1 -2
+p647
+aVGreg Buckner MIN 12/04/2007 MIN vs. LAL L 19 4 2 6 33.3 0 3 0.0 0 1 0.0 0 0 0 0 2 0 2 4 -18
+p648
+aVGerald Green MIN 12/04/2007 MIN vs. LAL L 4 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 0
+p649
+aVCorey Brewer MIN 12/04/2007 MIN vs. LAL L 18 9 4 8 50.0 1 3 33.3 0 0 - 1 2 3 0 0 3 0 3 -5
+p650
+aVCraig Smith MIN 12/04/2007 MIN vs. LAL L 29 13 4 6 66.7 0 1 0.0 5 6 83.3 0 2 2 1 1 0 2 1 -18
+p651
+aVAntoine Walker MIN 12/01/2007 MIN @ MEM L 26 13 6 16 37.5 1 6 16.7 0 2 0.0 2 7 9 1 1 1 1 1 -18
+p652
+aVSebastian Telfair MIN 12/01/2007 MIN @ MEM L 43 16 7 17 41.2 1 3 33.3 1 2 50.0 0 7 7 6 2 0 3 3 -22
+p653
+aVRashad McCants MIN 12/01/2007 MIN @ MEM L 21 18 7 12 58.3 4 6 66.7 0 0 - 1 2 3 0 1 0 4 4 0
+p654
+aVGreg Buckner MIN 12/01/2007 MIN @ MEM L 17 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 -16
+p655
+aVCorey Brewer MIN 12/01/2007 MIN @ MEM L 32 12 4 9 44.4 0 1 0.0 4 4 100.0 0 4 4 3 0 0 3 1 -16
+p656
+aVRyan Gomes MIN 12/01/2007 MIN @ MEM L 21 2 1 7 14.3 0 2 0.0 0 0 - 1 4 5 2 1 0 0 0 -16
+p657
+aVAl Jefferson MIN 12/01/2007 MIN @ MEM L 29 9 3 9 33.3 0 0 - 3 4 75.0 0 7 7 1 0 4 3 4 -19
+p658
+aVChris Richard MIN 12/01/2007 MIN @ MEM L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 4
+p659
+aVMark Madsen MIN 12/01/2007 MIN @ MEM L 7 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -6
+p660
+aVCraig Smith MIN 12/01/2007 MIN @ MEM L 26 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 1 0 2 2 -19
+p661
+aVGerald Green MIN 12/01/2007 MIN @ MEM L 11 4 2 6 33.3 0 2 0.0 0 0 - 2 0 2 2 0 1 1 0 -17
+p662
+aVGreg Buckner MIN 11/30/2007 MIN vs. SAS L 17 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 0 2 0 2 5 -11
+p663
+aVSebastian Telfair MIN 11/30/2007 MIN vs. SAS L 39 17 7 12 58.3 1 2 50.0 2 3 66.7 1 2 3 4 2 0 3 4 -4
+p664
+aVRyan Gomes MIN 11/30/2007 MIN vs. SAS L 34 14 4 9 44.4 2 3 66.7 4 4 100.0 2 3 5 2 0 0 2 1 -6
+p665
+aVCraig Smith MIN 11/30/2007 MIN vs. SAS L 20 10 5 8 62.5 0 0 - 0 1 0.0 2 2 4 0 0 1 1 5 -9
+p666
+aVGerald Green MIN 11/30/2007 MIN vs. SAS L 13 3 1 6 16.7 0 1 0.0 1 1 100.0 0 1 1 1 0 0 1 1 -5
+p667
+aVAl Jefferson MIN 11/30/2007 MIN vs. SAS L 39 23 10 21 47.6 0 0 - 3 4 75.0 2 9 11 1 0 3 2 2 -2
+p668
+aVAntoine Walker MIN 11/30/2007 MIN vs. SAS L 25 8 3 9 33.3 2 4 50.0 0 0 - 1 4 5 0 0 0 1 2 -31
+p669
+aVMark Madsen MIN 11/30/2007 MIN vs. SAS L 12 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 4 12
+p670
+aVCorey Brewer MIN 11/30/2007 MIN vs. SAS L 29 5 2 8 25.0 0 1 0.0 1 2 50.0 3 2 5 2 3 0 0 1 -21
+p671
+aVMarko Jaric MIN 11/30/2007 MIN vs. SAS L 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 4 0 0 1 0 2
+p672
+aVMark Madsen MIN 11/28/2007 MIN @ DAL L 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -7
+p673
+aVRyan Gomes MIN 11/28/2007 MIN @ DAL L 17 3 1 3 33.3 0 0 - 1 1 100.0 0 2 2 1 0 0 0 3 -5
+p674
+aVMarko Jaric MIN 11/28/2007 MIN @ DAL L 40 12 5 9 55.6 1 1 100.0 1 2 50.0 2 5 7 7 2 1 6 5 -5
+p675
+aVCorey Brewer MIN 11/28/2007 MIN @ DAL L 9 0 0 5 0.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 10
+p676
+aVSebastian Telfair MIN 11/28/2007 MIN @ DAL L 27 6 3 4 75.0 0 0 - 0 0 - 0 1 1 2 2 0 0 3 -3
+p677
+aVRashad McCants MIN 11/28/2007 MIN @ DAL L 36 21 7 17 41.2 0 1 0.0 7 7 100.0 0 1 1 1 1 0 2 3 -5
+p678
+aVCraig Smith MIN 11/28/2007 MIN @ DAL L 20 17 8 9 88.9 0 0 - 1 3 33.3 3 4 7 0 0 0 3 5 -4
+p679
+aVAl Jefferson MIN 11/28/2007 MIN @ DAL L 35 31 11 19 57.9 0 0 - 9 14 64.3 6 8 14 0 0 1 1 3 -6
+p680
+aVGreg Buckner MIN 11/28/2007 MIN @ DAL L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 2 -10
+p681
+aVAntoine Walker MIN 11/28/2007 MIN @ DAL L 27 13 6 14 42.9 0 5 0.0 1 1 100.0 3 1 4 1 1 1 0 4 5
+p682
+aVAl Jefferson MIN 11/26/2007 MIN @ NOH W 32 14 6 13 46.2 0 0 - 2 5 40.0 0 5 5 2 3 1 2 2 -6
+p683
+aVRashad McCants MIN 11/26/2007 MIN @ NOH W 22 6 3 9 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 4 -2
+p684
+aVCraig Smith MIN 11/26/2007 MIN @ NOH W 20 10 4 6 66.7 0 0 - 2 3 66.7 1 2 3 0 0 1 0 4 9
+p685
+aVGreg Buckner MIN 11/26/2007 MIN @ NOH W 29 7 2 4 50.0 1 2 50.0 2 2 100.0 0 9 9 6 2 0 2 3 18
+p686
+aVMark Madsen MIN 11/26/2007 MIN @ NOH W 13 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 4
+p687
+aVAntoine Walker MIN 11/26/2007 MIN @ NOH W 30 17 7 15 46.7 3 7 42.9 0 0 - 1 4 5 1 2 0 0 4 11
+p688
+aVRyan Gomes MIN 11/26/2007 MIN @ NOH W 18 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 1 3 0 5 0 -11
+p689
+aVMarko Jaric MIN 11/26/2007 MIN @ NOH W 39 21 8 12 66.7 1 3 33.3 4 5 80.0 0 3 3 6 2 0 3 1 9
+p690
+aVSebastian Telfair MIN 11/26/2007 MIN @ NOH W 37 20 6 9 66.7 1 1 100.0 7 8 87.5 0 3 3 8 1 0 2 4 13
+p691
+aVGreg Buckner MIN 11/24/2007 MIN vs. ATL L 25 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 1 2 0 2 2 -14
+p692
+aVAntoine Walker MIN 11/24/2007 MIN vs. ATL L 29 12 5 8 62.5 2 4 50.0 0 2 0.0 0 2 2 1 2 0 1 1 -8
+p693
+aVCorey Brewer MIN 11/24/2007 MIN vs. ATL L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p694
+aVAl Jefferson MIN 11/24/2007 MIN vs. ATL L 38 23 8 13 61.5 0 0 - 7 8 87.5 5 11 16 1 1 2 3 1 -6
+p695
+aVMarko Jaric MIN 11/24/2007 MIN vs. ATL L 35 20 9 14 64.3 0 1 0.0 2 2 100.0 0 3 3 6 1 3 2 4 -1
+p696
+aVCraig Smith MIN 11/24/2007 MIN vs. ATL L 13 7 3 6 50.0 0 0 - 1 3 33.3 2 1 3 0 0 0 0 3 -10
+p697
+aVMark Madsen MIN 11/24/2007 MIN vs. ATL L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 10
+p698
+aVRashad McCants MIN 11/24/2007 MIN vs. ATL L 28 11 5 9 55.6 1 2 50.0 0 0 - 1 1 2 2 0 1 4 4 5
+p699
+aVRyan Gomes MIN 11/24/2007 MIN vs. ATL L 32 8 2 10 20.0 0 2 0.0 4 4 100.0 3 3 6 1 2 0 1 2 -1
+p700
+aVSebastian Telfair MIN 11/24/2007 MIN vs. ATL L 13 6 2 5 40.0 0 2 0.0 2 2 100.0 0 0 0 4 1 1 0 2 -6
+p701
+aVAntoine Walker MIN 11/23/2007 MIN @ DEN L 32 24 9 17 52.9 4 8 50.0 2 2 100.0 2 3 5 3 1 0 0 2 -6
+p702
+aVGerald Green MIN 11/23/2007 MIN @ DEN L 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 1 2 1 1
+p703
+aVCraig Smith MIN 11/23/2007 MIN @ DEN L 16 7 3 6 50.0 0 0 - 1 1 100.0 1 4 5 0 1 0 1 0 8
+p704
+aVCorey Brewer MIN 11/23/2007 MIN @ DEN L 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 0
+p705
+aVSebastian Telfair MIN 11/23/2007 MIN @ DEN L 16 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 5 1 0 5 5 -1
+p706
+aVRashad McCants MIN 11/23/2007 MIN @ DEN L 25 5 1 15 6.7 0 5 0.0 3 3 100.0 0 3 3 3 2 0 2 5 -6
+p707
+aVAl Jefferson MIN 11/23/2007 MIN @ DEN L 32 15 7 14 50.0 0 0 - 1 2 50.0 5 9 14 3 0 2 2 2 -14
+p708
+aVGreg Buckner MIN 11/23/2007 MIN @ DEN L 26 4 0 3 0.0 0 3 0.0 4 4 100.0 0 6 6 2 1 0 2 3 3
+p709
+aVRyan Gomes MIN 11/23/2007 MIN @ DEN L 24 18 7 13 53.8 4 5 80.0 0 0 - 3 3 6 0 2 0 1 5 -9
+p710
+aVMark Madsen MIN 11/23/2007 MIN @ DEN L 16 2 1 3 33.3 0 0 - 0 4 0.0 2 2 4 1 0 0 1 2 0
+p711
+aVMarko Jaric MIN 11/23/2007 MIN @ DEN L 38 14 5 12 41.7 2 3 66.7 2 4 50.0 0 2 2 6 2 1 4 5 -6
+p712
+aVAntoine Walker MIN 11/21/2007 MIN vs. CLE L 25 13 5 14 35.7 3 6 50.0 0 2 0.0 3 2 5 3 0 1 3 1 -3
+p713
+aVMarko Jaric MIN 11/21/2007 MIN vs. CLE L 25 9 4 10 40.0 0 1 0.0 1 1 100.0 0 3 3 3 1 0 0 3 -10
+p714
+aVAl Jefferson MIN 11/21/2007 MIN vs. CLE L 40 30 12 20 60.0 0 0 - 6 6 100.0 4 4 8 0 1 1 5 2 -8
+p715
+aVMichael Doleac MIN 11/21/2007 MIN vs. CLE L 19 0 0 0 - 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -3
+p716
+aVRyan Gomes MIN 11/21/2007 MIN vs. CLE L 23 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 4 0 0 1 2 -8
+p717
+aVChris Richard MIN 11/21/2007 MIN vs. CLE L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p718
+aVMark Madsen MIN 11/21/2007 MIN vs. CLE L 13 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 1 0 2 -1
+p719
+aVCraig Smith MIN 11/21/2007 MIN vs. CLE L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p720
+aVCorey Brewer MIN 11/21/2007 MIN vs. CLE L 14 4 2 2 100.0 0 0 - 0 2 0.0 0 1 1 0 1 1 1 2 0
+p721
+aVGreg Buckner MIN 11/21/2007 MIN vs. CLE L 27 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 3 -6
+p722
+aVGerald Green MIN 11/21/2007 MIN vs. CLE L 20 13 6 8 75.0 0 0 - 1 2 50.0 0 3 3 2 0 1 0 2 -2
+p723
+aVRashad McCants MIN 11/21/2007 MIN vs. CLE L 23 11 5 16 31.3 1 4 25.0 0 0 - 0 4 4 3 1 1 3 1 -4
+p724
+aVAl Jefferson MIN 11/17/2007 MIN vs. NOH L 37 20 10 17 58.8 0 0 - 0 0 - 3 7 10 2 0 1 3 2 -20
+p725
+aVRashad McCants MIN 11/17/2007 MIN vs. NOH L 27 7 2 10 20.0 0 3 0.0 3 4 75.0 2 3 5 2 0 0 3 0 -8
+p726
+aVGerald Green MIN 11/17/2007 MIN vs. NOH L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 1
+p727
+aVMarko Jaric MIN 11/17/2007 MIN vs. NOH L 22 9 3 4 75.0 1 1 100.0 2 2 100.0 0 3 3 1 1 1 1 2 -14
+p728
+aVRyan Gomes MIN 11/17/2007 MIN vs. NOH L 26 12 3 7 42.9 1 2 50.0 5 6 83.3 1 3 4 3 0 0 1 0 -4
+p729
+aVGreg Buckner MIN 11/17/2007 MIN vs. NOH L 21 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 1 2 -10
+p730
+aVAntoine Walker MIN 11/17/2007 MIN vs. NOH L 24 10 3 8 37.5 1 3 33.3 3 4 75.0 4 3 7 1 0 0 2 3 -16
+p731
+aVCraig Smith MIN 11/17/2007 MIN vs. NOH L 18 4 1 3 33.3 0 0 - 2 4 50.0 1 2 3 0 0 0 1 3 -3
+p732
+aVChris Richard MIN 11/17/2007 MIN vs. NOH L 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 0 2
+p733
+aVMichael Doleac MIN 11/17/2007 MIN vs. NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p734
+aVSebastian Telfair MIN 11/17/2007 MIN vs. NOH L 26 15 7 11 63.6 1 1 100.0 0 0 - 0 2 2 3 0 0 2 3 -4
+p735
+aVCorey Brewer MIN 11/17/2007 MIN vs. NOH L 22 0 0 5 0.0 0 2 0.0 0 0 - 4 2 6 3 0 0 0 0 -14
+p736
+aVAntoine Walker MIN 11/16/2007 MIN vs. WAS L 33 14 5 9 55.6 3 5 60.0 1 2 50.0 2 3 5 2 3 0 3 4 -15
+p737
+aVCraig Smith MIN 11/16/2007 MIN vs. WAS L 11 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 1 2 0 1 4
+p738
+aVTheo Ratliff MIN 11/16/2007 MIN vs. WAS L 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 1 2 2 -3
+p739
+aVRashad McCants MIN 11/16/2007 MIN vs. WAS L 34 19 7 16 43.8 3 8 37.5 2 4 50.0 1 5 6 2 2 0 8 5 -22
+p740
+aVAl Jefferson MIN 11/16/2007 MIN vs. WAS L 36 15 5 16 31.3 0 0 - 5 6 83.3 1 9 10 0 2 1 3 2 -18
+p741
+aVMarko Jaric MIN 11/16/2007 MIN vs. WAS L 24 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 4 1 0 1 1 -20
+p742
+aVSebastian Telfair MIN 11/16/2007 MIN vs. WAS L 24 9 4 8 50.0 0 0 - 1 2 50.0 0 1 1 3 1 1 2 3 4
+p743
+aVRyan Gomes MIN 11/16/2007 MIN vs. WAS L 23 7 3 8 37.5 0 2 0.0 1 1 100.0 2 1 3 1 0 0 0 1 -10
+p744
+aVCorey Brewer MIN 11/16/2007 MIN vs. WAS L 25 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 5 -6
+p745
+aVGreg Buckner MIN 11/16/2007 MIN vs. WAS L 14 6 0 1 0.0 0 0 - 6 8 75.0 2 2 4 1 0 0 1 1 6
+p746
+aVAl Jefferson MIN 11/14/2007 MIN vs. SAC W 40 23 11 16 68.8 0 0 - 1 1 100.0 0 7 7 0 1 3 1 4 0
+p747
+aVMarko Jaric MIN 11/14/2007 MIN vs. SAC W 25 9 2 6 33.3 0 1 0.0 5 6 83.3 3 5 8 3 2 0 2 1 12
+p748
+aVSebastian Telfair MIN 11/14/2007 MIN vs. SAC W 20 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 8 3 0 3 1 -3
+p749
+aVRyan Gomes MIN 11/14/2007 MIN vs. SAC W 25 4 1 3 33.3 0 0 - 2 2 100.0 3 3 6 2 0 0 2 0 2
+p750
+aVGreg Buckner MIN 11/14/2007 MIN vs. SAC W 14 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 1 0 0 2 0 -9
+p751
+aVTheo Ratliff MIN 11/14/2007 MIN vs. SAC W 22 7 3 5 60.0 0 0 - 1 2 50.0 1 4 5 1 0 2 2 4 6
+p752
+aVAntoine Walker MIN 11/14/2007 MIN vs. SAC W 30 19 7 14 50.0 2 4 50.0 3 4 75.0 1 3 4 0 2 0 1 3 4
+p753
+aVRashad McCants MIN 11/14/2007 MIN vs. SAC W 37 33 13 22 59.1 4 7 57.1 3 5 60.0 0 4 4 2 1 1 2 4 9
+p754
+aVChris Richard MIN 11/14/2007 MIN vs. SAC W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 2
+p755
+aVCorey Brewer MIN 11/14/2007 MIN vs. SAC W 23 6 2 6 33.3 1 2 50.0 1 2 50.0 1 1 2 2 1 0 1 3 2
+p756
+aVMarko Jaric MIN 11/10/2007 MIN @ SAC L 23 7 3 7 42.9 1 3 33.3 0 2 0.0 1 0 1 0 1 1 2 2 2
+p757
+aVRyan Gomes MIN 11/10/2007 MIN @ SAC L 13 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 3
+p758
+aVChris Richard MIN 11/10/2007 MIN @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p759
+aVGreg Buckner MIN 11/10/2007 MIN @ SAC L 22 8 4 7 57.1 0 1 0.0 0 0 - 0 4 4 5 0 0 0 1 1
+p760
+aVCorey Brewer MIN 11/10/2007 MIN @ SAC L 29 15 4 9 44.4 0 1 0.0 7 7 100.0 3 5 8 2 2 0 2 5 -13
+p761
+aVAl Jefferson MIN 11/10/2007 MIN @ SAC L 39 17 7 16 43.8 0 0 - 3 4 75.0 5 7 12 2 0 0 3 3 -5
+p762
+aVTheo Ratliff MIN 11/10/2007 MIN @ SAC L 37 14 5 7 71.4 0 1 0.0 4 5 80.0 4 3 7 1 0 6 1 6 -8
+p763
+aVRashad McCants MIN 11/10/2007 MIN @ SAC L 26 16 6 14 42.9 2 5 40.0 2 3 66.7 2 2 4 1 0 0 6 4 -9
+p764
+aVSebastian Telfair MIN 11/10/2007 MIN @ SAC L 30 4 1 8 12.5 0 3 0.0 2 3 66.7 0 2 2 4 1 0 1 3 -5
+p765
+aVCraig Smith MIN 11/10/2007 MIN @ SAC L 19 10 5 9 55.6 0 0 - 0 0 - 2 3 5 0 0 0 0 4 2
+p766
+aVSebastian Telfair MIN 11/09/2007 MIN @ LAL L 26 15 6 12 50.0 3 4 75.0 0 0 - 0 3 3 3 1 0 0 5 -7
+p767
+aVGerald Green MIN 11/09/2007 MIN @ LAL L 10 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 2 2 0
+p768
+aVCorey Brewer MIN 11/09/2007 MIN @ LAL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -2
+p769
+aVMarko Jaric MIN 11/09/2007 MIN @ LAL L 33 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 6 3 1 2 3 -9
+p770
+aVRyan Gomes MIN 11/09/2007 MIN @ LAL L 38 17 6 14 42.9 2 7 28.6 3 4 75.0 2 1 3 1 0 0 1 2 -16
+p771
+aVAntoine Walker MIN 11/09/2007 MIN @ LAL L 13 4 1 5 20.0 1 2 50.0 1 2 50.0 2 3 5 1 1 0 2 1 2
+p772
+aVTheo Ratliff MIN 11/09/2007 MIN @ LAL L 24 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 2 1 3 1 3 -4
+p773
+aVAl Jefferson MIN 11/09/2007 MIN @ LAL L 35 24 12 24 50.0 0 1 0.0 0 0 - 7 8 15 1 1 1 2 3 -14
+p774
+aVGreg Buckner MIN 11/09/2007 MIN @ LAL L 37 9 3 12 25.0 1 4 25.0 2 2 100.0 1 1 2 3 1 0 1 4 -12
+p775
+aVCraig Smith MIN 11/09/2007 MIN @ LAL L 17 9 3 8 37.5 0 0 - 3 4 75.0 5 1 6 0 1 0 3 5 -5
+p776
+aVChris Richard MIN 11/09/2007 MIN @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p777
+aVMichael Doleac MIN 11/06/2007 MIN vs. ORL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 1
+p778
+aVChris Richard MIN 11/06/2007 MIN vs. ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p779
+aVGreg Buckner MIN 11/06/2007 MIN vs. ORL L 39 18 7 13 53.8 2 6 33.3 2 2 100.0 0 3 3 3 0 0 2 5 -4
+p780
+aVCraig Smith MIN 11/06/2007 MIN vs. ORL L 15 13 6 8 75.0 0 0 - 1 3 33.3 2 4 6 0 0 0 1 2 -9
+p781
+aVAntoine Walker MIN 11/06/2007 MIN vs. ORL L 22 6 2 8 25.0 0 2 0.0 2 3 66.7 1 4 5 2 0 0 1 3 7
+p782
+aVCorey Brewer MIN 11/06/2007 MIN vs. ORL L 29 10 4 9 44.4 2 3 66.7 0 0 - 2 4 6 2 0 0 1 6 -5
+p783
+aVAl Jefferson MIN 11/06/2007 MIN vs. ORL L 35 25 11 20 55.0 0 0 - 3 4 75.0 2 8 10 1 1 0 3 5 -9
+p784
+aVSebastian Telfair MIN 11/06/2007 MIN vs. ORL L 27 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 4 1 0 3 2 -13
+p785
+aVRashad McCants MIN 11/06/2007 MIN vs. ORL L 11 8 4 4 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -3
+p786
+aVMarko Jaric MIN 11/06/2007 MIN vs. ORL L 30 10 4 9 44.4 1 1 100.0 1 2 50.0 1 4 5 10 1 1 1 3 4
+p787
+aVRyan Gomes MIN 11/06/2007 MIN vs. ORL L 25 9 1 5 20.0 0 0 - 7 9 77.8 2 2 4 3 0 0 1 2 -9
+p788
+aVAl Jefferson MIN 11/04/2007 MIN @ NYK L 37 16 8 15 53.3 0 0 - 0 0 - 6 6 12 1 1 1 2 4 5
+p789
+aVTheo Ratliff MIN 11/04/2007 MIN @ NYK L 33 8 4 8 50.0 0 0 - 0 0 - 3 1 4 0 1 2 4 3 -4
+p790
+aVRashad McCants MIN 11/04/2007 MIN @ NYK L 22 13 5 11 45.5 3 4 75.0 0 1 0.0 0 2 2 2 0 1 1 6 -2
+p791
+aVGreg Buckner MIN 11/04/2007 MIN @ NYK L 28 13 5 9 55.6 2 5 40.0 1 1 100.0 1 5 6 0 1 0 2 4 -11
+p792
+aVGerald Green MIN 11/04/2007 MIN @ NYK L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p793
+aVCorey Brewer MIN 11/04/2007 MIN @ NYK L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -3
+p794
+aVMarko Jaric MIN 11/04/2007 MIN @ NYK L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -9
+p795
+aVSebastian Telfair MIN 11/04/2007 MIN @ NYK L 37 9 4 14 28.6 1 3 33.3 0 0 - 0 4 4 7 1 0 0 2 5
+p796
+aVRyan Gomes MIN 11/04/2007 MIN @ NYK L 36 19 7 17 41.2 3 4 75.0 2 2 100.0 1 6 7 3 1 0 2 3 9
+p797
+aVAntoine Walker MIN 11/04/2007 MIN @ NYK L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p798
+aVCraig Smith MIN 11/04/2007 MIN @ NYK L 23 14 6 10 60.0 0 0 - 2 4 50.0 2 3 5 0 0 0 1 5 -7
+p799
+aVCorey Brewer MIN 11/02/2007 MIN vs. DEN L 15 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 1 0 0 1 2 -5
+p800
+aVAntoine Walker MIN 11/02/2007 MIN vs. DEN L 13 4 2 7 28.6 0 3 0.0 0 0 - 0 3 3 2 0 0 1 2 -6
+p801
+aVCraig Smith MIN 11/02/2007 MIN vs. DEN L 18 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 1 0 0 0 4 -15
+p802
+aVMarko Jaric MIN 11/02/2007 MIN vs. DEN L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 1 1 4 -7
+p803
+aVGreg Buckner MIN 11/02/2007 MIN vs. DEN L 25 10 4 10 40.0 2 5 40.0 0 0 - 1 1 2 4 4 0 1 2 -3
+p804
+aVRashad McCants MIN 11/02/2007 MIN vs. DEN L 30 23 9 18 50.0 3 7 42.9 2 3 66.7 1 0 1 2 1 0 5 4 -9
+p805
+aVAl Jefferson MIN 11/02/2007 MIN vs. DEN L 38 16 6 14 42.9 0 0 - 4 5 80.0 3 10 13 3 1 0 0 2 -2
+p806
+aVTheo Ratliff MIN 11/02/2007 MIN vs. DEN L 29 14 4 10 40.0 0 0 - 6 9 66.7 1 5 6 1 0 3 0 1 7
+p807
+aVSebastian Telfair MIN 11/02/2007 MIN vs. DEN L 35 9 4 13 30.8 1 2 50.0 0 0 - 1 1 2 5 3 0 3 4 -1
+p808
+aVRyan Gomes MIN 11/02/2007 MIN vs. DEN L 24 9 4 9 44.4 1 4 25.0 0 0 - 1 3 4 4 1 0 0 3 1
+p809
+a.

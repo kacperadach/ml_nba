@@ -1,0 +1,1658 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChris Whitney WAS 04/18/1998 WAS vs. BOS W 38 18 6 13 46.2 1 4 25.0 5 6 83.3 0 2 2 5 0 0 1 2 18
+p2
+aVTerry Davis WAS 04/18/1998 WAS vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p3
+aVTracy Murray WAS 04/18/1998 WAS vs. BOS W 22 21 5 10 50.0 4 7 57.1 7 8 87.5 0 3 3 2 1 0 1 0 14
+p4
+aVGod Shammgod WAS 04/18/1998 WAS vs. BOS W 12 7 3 3 100.0 0 0 - 1 1 100.0 0 0 0 3 0 0 0 3 0
+p5
+aVDarvin Ham WAS 04/18/1998 WAS vs. BOS W 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 1 1 2 13
+p6
+aVBen Wallace WAS 04/18/1998 WAS vs. BOS W 43 6 3 4 75.0 0 0 - 0 5 0.0 2 11 13 0 5 4 0 3 20
+p7
+aVJuwan Howard WAS 04/18/1998 WAS vs. BOS W 33 18 8 16 50.0 0 0 - 2 2 100.0 2 5 7 6 0 0 3 5 -2
+p8
+aVCalbert Cheaney WAS 04/18/1998 WAS vs. BOS W 34 11 4 8 50.0 0 0 - 3 6 50.0 0 2 2 3 2 0 1 4 9
+p9
+aVChris Webber WAS 04/18/1998 WAS vs. BOS W 45 27 10 18 55.6 0 1 0.0 7 11 63.6 2 11 13 8 0 0 1 5 18
+p10
+aVTerry Davis WAS 04/17/1998 WAS @ MIA W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p11
+aVGod Shammgod WAS 04/17/1998 WAS @ MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 5
+p12
+aVTracy Murray WAS 04/17/1998 WAS @ MIA W 24 12 5 12 41.7 2 6 33.3 0 0 - 0 2 2 1 0 0 2 2 -1
+p13
+aVCalbert Cheaney WAS 04/17/1998 WAS @ MIA W 36 14 4 9 44.4 0 0 - 6 7 85.7 1 3 4 2 1 2 1 3 6
+p14
+aVDarvin Ham WAS 04/17/1998 WAS @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p15
+aVBen Wallace WAS 04/17/1998 WAS @ MIA W 30 7 2 2 100.0 0 0 - 3 4 75.0 4 4 8 1 1 7 0 3 10
+p16
+aVChris Whitney WAS 04/17/1998 WAS @ MIA W 44 21 7 14 50.0 2 6 33.3 5 5 100.0 0 2 2 9 2 1 6 3 3
+p17
+aVJuwan Howard WAS 04/17/1998 WAS @ MIA W 46 22 11 16 68.8 0 0 - 0 4 0.0 0 11 11 2 3 1 3 2 5
+p18
+aVChris Webber WAS 04/17/1998 WAS @ MIA W 45 21 10 17 58.8 1 2 50.0 0 3 0.0 1 9 10 5 1 0 4 5 10
+p19
+aVChris Whitney WAS 04/15/1998 WAS vs. CLE W 31 10 3 5 60.0 1 1 100.0 3 3 100.0 0 4 4 9 0 0 1 1 1
+p20
+aVTracy Murray WAS 04/15/1998 WAS vs. CLE W 35 25 10 19 52.6 2 5 40.0 3 4 75.0 2 2 4 1 1 0 2 1 20
+p21
+aVCalbert Cheaney WAS 04/15/1998 WAS vs. CLE W 37 20 10 18 55.6 0 0 - 0 1 0.0 1 5 6 3 0 0 2 1 4
+p22
+aVBen Wallace WAS 04/15/1998 WAS vs. CLE W 20 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 0 0 2 0 0 -12
+p23
+aVGod Shammgod WAS 04/15/1998 WAS vs. CLE W 18 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 2 3 9
+p24
+aVLedell Eackles WAS 04/15/1998 WAS vs. CLE W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 2 0 8
+p25
+aVChris Webber WAS 04/15/1998 WAS vs. CLE W 40 14 5 14 35.7 0 2 0.0 4 8 50.0 2 7 9 1 0 1 4 5 1
+p26
+aVJuwan Howard WAS 04/15/1998 WAS vs. CLE W 40 20 8 16 50.0 0 0 - 4 5 80.0 0 3 3 6 3 2 3 5 2
+p27
+aVDarvin Ham WAS 04/15/1998 WAS vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p28
+aVTerry Davis WAS 04/15/1998 WAS vs. CLE W 9 2 1 2 50.0 0 0 - 0 1 0.0 0 2 2 0 1 0 0 4 3
+p29
+aVJuwan Howard WAS 04/14/1998 WAS @ NYK W 43 18 7 12 58.3 0 0 - 4 9 44.4 4 11 15 3 2 0 4 4 5
+p30
+aVChris Webber WAS 04/14/1998 WAS @ NYK W 42 19 7 13 53.8 2 3 66.7 3 8 37.5 1 4 5 6 1 2 1 3 2
+p31
+aVChris Whitney WAS 04/14/1998 WAS @ NYK W 32 15 5 11 45.5 3 4 75.0 2 2 100.0 1 2 3 7 0 0 4 5 -8
+p32
+aVTerry Davis WAS 04/14/1998 WAS @ NYK W 10 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 1
+p33
+aVDarvin Ham WAS 04/14/1998 WAS @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p34
+aVCalbert Cheaney WAS 04/14/1998 WAS @ NYK W 20 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 1 0 0 1 4 -13
+p35
+aVLedell Eackles WAS 04/14/1998 WAS @ NYK W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 2 2 -6
+p36
+aVTracy Murray WAS 04/14/1998 WAS @ NYK W 29 27 9 14 64.3 2 3 66.7 7 7 100.0 0 2 2 1 2 0 1 5 9
+p37
+aVGod Shammgod WAS 04/14/1998 WAS @ NYK W 18 5 1 5 20.0 0 1 0.0 3 4 75.0 0 0 0 7 2 0 5 1 5
+p38
+aVBen Wallace WAS 04/14/1998 WAS @ NYK W 34 8 3 4 75.0 0 0 - 2 8 25.0 4 5 9 1 1 4 0 2 12
+p39
+aVGod Shammgod WAS 04/12/1998 WAS vs. ATL L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 4 0 0 0 4 -2
+p40
+aVTracy Murray WAS 04/12/1998 WAS vs. ATL L 27 13 5 12 41.7 2 6 33.3 1 3 33.3 0 3 3 1 2 0 2 2 -5
+p41
+aVChris Whitney WAS 04/12/1998 WAS vs. ATL L 38 10 4 14 28.6 2 10 20.0 0 0 - 1 3 4 8 1 0 7 3 -8
+p42
+aVLedell Eackles WAS 04/12/1998 WAS vs. ATL L 14 7 3 5 60.0 0 0 - 1 1 100.0 1 3 4 0 2 0 0 0 4
+p43
+aVJuwan Howard WAS 04/12/1998 WAS vs. ATL L 41 16 7 15 46.7 0 0 - 2 2 100.0 4 5 9 3 1 0 2 4 -9
+p44
+aVDarvin Ham WAS 04/12/1998 WAS vs. ATL L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p45
+aVCalbert Cheaney WAS 04/12/1998 WAS vs. ATL L 28 10 5 10 50.0 0 0 - 0 0 - 2 3 5 1 0 0 3 2 -15
+p46
+aVBen Wallace WAS 04/12/1998 WAS vs. ATL L 33 6 3 4 75.0 0 0 - 0 0 - 3 5 8 1 1 0 0 2 5
+p47
+aVChris Webber WAS 04/12/1998 WAS vs. ATL L 39 19 8 19 42.1 1 4 25.0 2 4 50.0 0 7 7 3 2 3 2 5 -15
+p48
+aVTerry Davis WAS 04/12/1998 WAS vs. ATL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p49
+aVBen Wallace WAS 04/09/1998 WAS vs. DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -10
+p50
+aVChris Webber WAS 04/09/1998 WAS vs. DET L 43 20 7 18 38.9 2 6 33.3 4 6 66.7 5 10 15 4 1 2 4 3 -22
+p51
+aVChris Whitney WAS 04/09/1998 WAS vs. DET L 25 4 2 6 33.3 0 1 0.0 0 0 - 2 3 5 4 0 0 2 4 -4
+p52
+aVTracy Murray WAS 04/09/1998 WAS vs. DET L 33 23 7 15 46.7 2 6 33.3 7 7 100.0 1 2 3 0 1 0 1 1 -13
+p53
+aVJuwan Howard WAS 04/09/1998 WAS vs. DET L 39 13 5 9 55.6 0 0 - 3 7 42.9 1 5 6 2 1 1 4 4 -12
+p54
+aVCalbert Cheaney WAS 04/09/1998 WAS vs. DET L 29 6 3 8 37.5 0 0 - 0 0 - 0 2 2 4 2 0 0 4 -7
+p55
+aVLedell Eackles WAS 04/09/1998 WAS vs. DET L 14 5 2 4 50.0 1 3 33.3 0 0 - 1 1 2 2 0 0 1 0 -6
+p56
+aVHarvey Grant WAS 04/09/1998 WAS vs. DET L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -1
+p57
+aVGod Shammgod WAS 04/09/1998 WAS vs. DET L 23 12 5 14 35.7 0 0 - 2 2 100.0 2 0 2 3 1 0 6 4 -15
+p58
+aVDarvin Ham WAS 04/09/1998 WAS vs. DET L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 1 4 -1
+p59
+aVTerry Davis WAS 04/09/1998 WAS vs. DET L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -4
+p60
+aVLedell Eackles WAS 04/07/1998 WAS @ CHI L 23 4 2 6 33.3 0 3 0.0 0 0 - 0 4 4 1 0 0 3 1 -5
+p61
+aVChris Whitney WAS 04/07/1998 WAS @ CHI L 24 10 3 10 30.0 2 8 25.0 2 2 100.0 0 4 4 3 0 0 2 1 -13
+p62
+aVChris Webber WAS 04/07/1998 WAS @ CHI L 37 25 11 13 84.6 2 3 66.7 1 1 100.0 2 6 8 5 1 1 1 4 -15
+p63
+aVDarvin Ham WAS 04/07/1998 WAS @ CHI L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 2 0 0 2 -5
+p64
+aVRod Strickland WAS 04/07/1998 WAS @ CHI L 23 8 3 11 27.3 0 1 0.0 2 2 100.0 0 1 1 7 2 1 2 0 -4
+p65
+aVJuwan Howard WAS 04/07/1998 WAS @ CHI L 39 16 8 15 53.3 0 0 - 0 0 - 1 2 3 2 1 2 4 1 -19
+p66
+aVBen Wallace WAS 04/07/1998 WAS @ CHI L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 1 0 2 1
+p67
+aVTracy Murray WAS 04/07/1998 WAS @ CHI L 21 0 0 7 0.0 0 5 0.0 0 0 - 1 3 4 1 1 0 0 2 -8
+p68
+aVHarvey Grant WAS 04/07/1998 WAS @ CHI L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 2 -14
+p69
+aVTerry Davis WAS 04/07/1998 WAS @ CHI L 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -15
+p70
+aVCalbert Cheaney WAS 04/07/1998 WAS @ CHI L 19 11 5 8 62.5 0 1 0.0 1 3 33.3 1 1 2 0 2 1 0 5 11
+p71
+aVGod Shammgod WAS 04/07/1998 WAS @ CHI L 7 7 2 5 40.0 0 0 - 3 3 100.0 0 0 0 1 0 0 1 3 -4
+p72
+aVRod Strickland WAS 04/05/1998 WAS vs. ORL W 46 21 8 18 44.4 0 0 - 5 6 83.3 0 11 11 13 1 0 4 2 -4
+p73
+aVHarvey Grant WAS 04/05/1998 WAS vs. ORL W 13 0 0 0 - 0 0 - 0 0 - 1 0 1 4 0 2 0 1 11
+p74
+aVTerry Davis WAS 04/05/1998 WAS vs. ORL W 12 0 0 0 - 0 0 - 0 0 - 2 1 3 0 1 0 0 2 -8
+p75
+aVCalbert Cheaney WAS 04/05/1998 WAS vs. ORL W 33 10 5 11 45.5 0 0 - 0 0 - 0 3 3 1 2 2 0 4 -9
+p76
+aVChris Webber WAS 04/05/1998 WAS vs. ORL W 43 22 11 21 52.4 0 2 0.0 0 2 0.0 2 10 12 3 1 3 3 4 3
+p77
+aVLedell Eackles WAS 04/05/1998 WAS vs. ORL W 16 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 1 10
+p78
+aVBen Wallace WAS 04/05/1998 WAS vs. ORL W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -2
+p79
+aVChris Whitney WAS 04/05/1998 WAS vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 7
+p80
+aVJuwan Howard WAS 04/05/1998 WAS vs. ORL W 38 12 5 15 33.3 0 0 - 2 2 100.0 1 3 4 1 1 0 6 4 -7
+p81
+aVTracy Murray WAS 04/05/1998 WAS vs. ORL W 25 17 6 9 66.7 3 4 75.0 2 2 100.0 1 3 4 0 0 1 3 2 14
+p82
+aVGod Shammgod WAS 04/03/1998 WAS vs. TOR W 3 5 1 1 100.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 -3
+p83
+aVTerry Davis WAS 04/03/1998 WAS vs. TOR W 19 9 4 7 57.1 0 0 - 1 1 100.0 2 3 5 0 1 0 1 3 0
+p84
+aVDarvin Ham WAS 04/03/1998 WAS vs. TOR W 3 0 0 3 0.0 0 0 - 0 0 - 3 0 3 0 1 0 1 0 -1
+p85
+aVJuwan Howard WAS 04/03/1998 WAS vs. TOR W 41 20 8 14 57.1 0 0 - 4 7 57.1 3 3 6 3 0 1 1 5 10
+p86
+aVHarvey Grant WAS 04/03/1998 WAS vs. TOR W 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -1
+p87
+aVTracy Murray WAS 04/03/1998 WAS vs. TOR W 28 19 7 14 50.0 3 5 60.0 2 2 100.0 0 3 3 1 3 0 0 2 -3
+p88
+aVBen Wallace WAS 04/03/1998 WAS vs. TOR W 22 7 3 6 50.0 0 0 - 1 4 25.0 8 5 13 0 1 1 0 2 14
+p89
+aVChris Whitney WAS 04/03/1998 WAS vs. TOR W 8 4 0 2 0.0 0 1 0.0 4 4 100.0 0 1 1 2 1 0 0 0 -1
+p90
+aVCalbert Cheaney WAS 04/03/1998 WAS vs. TOR W 41 15 7 14 50.0 0 1 0.0 1 2 50.0 1 3 4 3 0 0 2 0 11
+p91
+aVRod Strickland WAS 04/03/1998 WAS vs. TOR W 42 22 9 19 47.4 0 0 - 4 6 66.7 0 5 5 11 1 1 5 5 1
+p92
+aVChris Webber WAS 04/03/1998 WAS vs. TOR W 30 19 7 17 41.2 0 1 0.0 5 10 50.0 6 7 13 4 0 1 1 4 13
+p93
+aVTracy Murray WAS 04/01/1998 WAS vs. PHI L 23 18 7 16 43.8 1 7 14.3 3 3 100.0 2 1 3 0 1 0 1 1 -1
+p94
+aVCalbert Cheaney WAS 04/01/1998 WAS vs. PHI L 23 6 1 7 14.3 0 0 - 4 4 100.0 1 1 2 2 1 0 1 2 -15
+p95
+aVChris Webber WAS 04/01/1998 WAS vs. PHI L 40 13 5 15 33.3 0 1 0.0 3 5 60.0 2 7 9 2 2 0 3 3 -17
+p96
+aVDarvin Ham WAS 04/01/1998 WAS vs. PHI L 7 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 1 0 0 2 -6
+p97
+aVJuwan Howard WAS 04/01/1998 WAS vs. PHI L 33 17 7 11 63.6 0 0 - 3 4 75.0 2 3 5 0 0 0 1 4 -14
+p98
+aVTerry Davis WAS 04/01/1998 WAS vs. PHI L 13 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 0 0 0 -7
+p99
+aVLedell Eackles WAS 04/01/1998 WAS vs. PHI L 21 9 3 10 30.0 1 3 33.3 2 2 100.0 1 3 4 0 0 0 0 2 -7
+p100
+aVBen Wallace WAS 04/01/1998 WAS vs. PHI L 13 2 1 1 100.0 0 0 - 0 1 0.0 1 2 3 0 1 0 1 1 -7
+p101
+aVHarvey Grant WAS 04/01/1998 WAS vs. PHI L 13 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -9
+p102
+aVRod Strickland WAS 04/01/1998 WAS vs. PHI L 35 13 5 12 41.7 0 1 0.0 3 4 75.0 1 1 2 6 1 2 5 1 -9
+p103
+aVGod Shammgod WAS 04/01/1998 WAS vs. PHI L 11 7 2 4 50.0 0 0 - 3 4 75.0 0 1 1 2 1 0 3 1 -8
+p104
+aVChris Whitney WAS 04/01/1998 WAS vs. PHI L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 3 0 0 1 0 -5
+p105
+aVGod Shammgod WAS 03/29/1998 WAS @ LAL L 8 7 2 7 28.6 0 0 - 3 4 75.0 0 0 0 2 2 0 0 1 3
+p106
+aVChris Webber WAS 03/29/1998 WAS @ LAL L 33 22 9 24 37.5 2 3 66.7 2 6 33.3 2 6 8 2 1 1 2 2 -36
+p107
+aVLedell Eackles WAS 03/29/1998 WAS @ LAL L 17 2 1 9 11.1 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 2
+p108
+aVRod Strickland WAS 03/29/1998 WAS @ LAL L 26 6 2 8 25.0 0 0 - 2 2 100.0 3 3 6 9 2 0 4 0 -21
+p109
+aVBen Wallace WAS 03/29/1998 WAS @ LAL L 26 7 3 6 50.0 0 0 - 1 3 33.3 6 4 10 1 4 2 1 4 1
+p110
+aVTracy Murray WAS 03/29/1998 WAS @ LAL L 21 10 4 9 44.4 2 3 66.7 0 0 - 0 1 1 1 2 0 1 3 -14
+p111
+aVHarvey Grant WAS 03/29/1998 WAS @ LAL L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 2 0 0 1 2
+p112
+aVDarvin Ham WAS 03/29/1998 WAS @ LAL L 12 6 3 5 60.0 0 0 - 0 1 0.0 6 2 8 0 0 0 2 0 8
+p113
+aVCalbert Cheaney WAS 03/29/1998 WAS @ LAL L 20 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 1 0 4 -26
+p114
+aVChris Whitney WAS 03/29/1998 WAS @ LAL L 22 11 5 13 38.5 1 6 16.7 0 0 - 1 1 2 5 0 0 0 0 -6
+p115
+aVJuwan Howard WAS 03/29/1998 WAS @ LAL L 29 15 5 12 41.7 0 0 - 5 7 71.4 2 5 7 1 1 0 3 3 -34
+p116
+aVTerry Davis WAS 03/29/1998 WAS @ LAL L 13 1 0 2 0.0 0 0 - 1 4 25.0 2 3 5 0 0 0 1 1 -14
+p117
+aVCalbert Cheaney WAS 03/27/1998 WAS @ PHX L 39 13 6 15 40.0 0 3 0.0 1 3 33.3 2 2 4 3 4 0 2 5 -4
+p118
+aVTerry Davis WAS 03/27/1998 WAS @ PHX L 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 3
+p119
+aVLedell Eackles WAS 03/27/1998 WAS @ PHX L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p120
+aVHarvey Grant WAS 03/27/1998 WAS @ PHX L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p121
+aVRod Strickland WAS 03/27/1998 WAS @ PHX L 43 8 3 13 23.1 0 1 0.0 2 2 100.0 2 5 7 13 2 0 0 1 1
+p122
+aVTracy Murray WAS 03/27/1998 WAS @ PHX L 31 19 7 17 41.2 5 10 50.0 0 0 - 1 5 6 0 1 0 1 0 6
+p123
+aVChris Webber WAS 03/27/1998 WAS @ PHX L 45 17 8 24 33.3 0 1 0.0 1 3 33.3 1 6 7 6 2 1 2 4 -8
+p124
+aVBen Wallace WAS 03/27/1998 WAS @ PHX L 12 6 3 3 100.0 0 0 - 0 3 0.0 2 1 3 0 0 0 0 0 3
+p125
+aVJuwan Howard WAS 03/27/1998 WAS @ PHX L 39 22 8 15 53.3 0 0 - 6 8 75.0 2 2 4 2 2 0 3 3 -8
+p126
+aVChris Whitney WAS 03/27/1998 WAS @ PHX L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p127
+aVChris Webber WAS 03/25/1998 WAS @ SEA L 22 17 7 11 63.6 0 2 0.0 3 4 75.0 3 1 4 4 0 1 2 3 -28
+p128
+aVChris Whitney WAS 03/25/1998 WAS @ SEA L 19 18 6 14 42.9 2 8 25.0 4 4 100.0 1 0 1 2 1 0 1 1 5
+p129
+aVLedell Eackles WAS 03/25/1998 WAS @ SEA L 26 18 5 9 55.6 2 5 40.0 6 6 100.0 1 0 1 1 2 0 0 1 -8
+p130
+aVJuwan Howard WAS 03/25/1998 WAS @ SEA L 30 9 4 9 44.4 0 0 - 1 2 50.0 2 3 5 3 1 0 2 2 -24
+p131
+aVTracy Murray WAS 03/25/1998 WAS @ SEA L 21 16 6 15 40.0 2 9 22.2 2 2 100.0 0 2 2 2 1 0 1 1 -5
+p132
+aVHarvey Grant WAS 03/25/1998 WAS @ SEA L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -8
+p133
+aVTerry Davis WAS 03/25/1998 WAS @ SEA L 12 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -22
+p134
+aVDarvin Ham WAS 03/25/1998 WAS @ SEA L 15 2 1 1 100.0 0 0 - 0 1 0.0 3 4 7 0 0 0 2 2 1
+p135
+aVRod Strickland WAS 03/25/1998 WAS @ SEA L 29 16 5 14 35.7 1 1 100.0 5 8 62.5 0 0 0 6 0 0 0 1 -27
+p136
+aVGod Shammgod WAS 03/25/1998 WAS @ SEA L 12 3 1 7 14.3 0 0 - 1 2 50.0 0 1 1 5 0 1 0 0 11
+p137
+aVCalbert Cheaney WAS 03/25/1998 WAS @ SEA L 20 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 1 0 1 0 4 -21
+p138
+aVBen Wallace WAS 03/25/1998 WAS @ SEA L 27 4 2 3 66.7 0 0 - 0 0 - 3 5 8 2 4 1 1 1 6
+p139
+aVTerry Davis WAS 03/24/1998 WAS @ POR W 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 2 0 0 2 -3
+p140
+aVChris Whitney WAS 03/24/1998 WAS @ POR W 18 8 1 4 25.0 1 3 33.3 5 6 83.3 0 4 4 9 0 0 1 0 11
+p141
+aVLedell Eackles WAS 03/24/1998 WAS @ POR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p142
+aVJuwan Howard WAS 03/24/1998 WAS @ POR W 42 24 10 21 47.6 0 0 - 4 5 80.0 1 2 3 2 1 0 1 2 7
+p143
+aVChris Webber WAS 03/24/1998 WAS @ POR W 36 11 4 14 28.6 0 2 0.0 3 10 30.0 3 8 11 5 3 0 2 6 1
+p144
+aVCalbert Cheaney WAS 03/24/1998 WAS @ POR W 32 8 3 7 42.9 0 1 0.0 2 2 100.0 2 4 6 3 2 1 0 1 -1
+p145
+aVTracy Murray WAS 03/24/1998 WAS @ POR W 31 23 7 16 43.8 2 4 50.0 7 7 100.0 0 4 4 1 0 1 3 2 22
+p146
+aVBen Wallace WAS 03/24/1998 WAS @ POR W 26 11 4 6 66.7 0 0 - 3 4 75.0 2 3 5 1 1 0 0 5 20
+p147
+aVRod Strickland WAS 03/24/1998 WAS @ POR W 30 14 2 5 40.0 0 0 - 10 10 100.0 1 1 2 5 3 0 4 1 1
+p148
+aVHarvey Grant WAS 03/24/1998 WAS @ POR W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 1
+p149
+aVHarvey Grant WAS 03/22/1998 WAS @ NJN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p150
+aVChris Whitney WAS 03/22/1998 WAS @ NJN W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 4
+p151
+aVChris Webber WAS 03/22/1998 WAS @ NJN W 48 25 10 24 41.7 1 3 33.3 4 9 44.4 6 2 8 4 3 1 1 5 -3
+p152
+aVBen Wallace WAS 03/22/1998 WAS @ NJN W 30 9 3 4 75.0 0 0 - 3 4 75.0 2 5 7 1 1 1 1 4 -7
+p153
+aVCalbert Cheaney WAS 03/22/1998 WAS @ NJN W 43 21 10 15 66.7 0 0 - 1 2 50.0 3 3 6 2 1 1 3 2 2
+p154
+aVTracy Murray WAS 03/22/1998 WAS @ NJN W 22 9 4 9 44.4 1 4 25.0 0 0 - 0 4 4 0 1 0 2 1 14
+p155
+aVJuwan Howard WAS 03/22/1998 WAS @ NJN W 47 15 5 19 26.3 0 0 - 5 8 62.5 7 7 14 2 2 0 1 6 1
+p156
+aVTerry Davis WAS 03/22/1998 WAS @ NJN W 19 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 1 1 0 4 1
+p157
+aVRod Strickland WAS 03/22/1998 WAS @ NJN W 50 19 5 15 33.3 0 1 0.0 9 12 75.0 0 3 3 6 1 0 2 4 1
+p158
+aVJuwan Howard WAS 03/19/1998 WAS vs. IND L 30 12 6 11 54.5 0 0 - 0 0 - 3 3 6 3 0 0 3 1 7
+p159
+aVHarvey Grant WAS 03/19/1998 WAS vs. IND L 14 8 4 5 80.0 0 0 - 0 1 0.0 1 1 2 1 0 0 0 1 -3
+p160
+aVChris Webber WAS 03/19/1998 WAS vs. IND L 45 24 10 26 38.5 0 2 0.0 4 9 44.4 4 10 14 2 0 3 5 3 -3
+p161
+aVLedell Eackles WAS 03/19/1998 WAS vs. IND L 10 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 0
+p162
+aVBen Wallace WAS 03/19/1998 WAS vs. IND L 20 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 2 0 4 0
+p163
+aVTracy Murray WAS 03/19/1998 WAS vs. IND L 25 11 5 9 55.6 1 3 33.3 0 0 - 0 5 5 1 0 0 2 0 -15
+p164
+aVRod Strickland WAS 03/19/1998 WAS vs. IND L 44 24 9 15 60.0 0 1 0.0 6 9 66.7 2 2 4 14 2 0 3 2 -5
+p165
+aVTerry Davis WAS 03/19/1998 WAS vs. IND L 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -7
+p166
+aVChris Whitney WAS 03/19/1998 WAS vs. IND L 9 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 1 7
+p167
+aVCalbert Cheaney WAS 03/19/1998 WAS vs. IND L 33 3 1 7 14.3 0 0 - 1 2 50.0 1 2 3 1 0 0 0 5 -1
+p168
+aVBen Wallace WAS 03/17/1998 WAS vs. DEN L 20 3 1 1 100.0 0 0 - 1 2 50.0 0 5 5 0 0 3 0 1 9
+p169
+aVChris Whitney WAS 03/17/1998 WAS vs. DEN L 9 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p170
+aVRod Strickland WAS 03/17/1998 WAS vs. DEN L 45 20 6 16 37.5 0 1 0.0 8 13 61.5 1 3 4 10 0 0 3 0 0
+p171
+aVChris Webber WAS 03/17/1998 WAS vs. DEN L 43 26 9 15 60.0 0 2 0.0 8 9 88.9 6 4 10 3 1 0 5 2 -3
+p172
+aVCalbert Cheaney WAS 03/17/1998 WAS vs. DEN L 33 10 5 9 55.6 0 2 0.0 0 2 0.0 2 2 4 4 0 0 2 5 -12
+p173
+aVJuwan Howard WAS 03/17/1998 WAS vs. DEN L 32 8 3 9 33.3 0 0 - 2 4 50.0 2 5 7 2 2 0 3 4 -7
+p174
+aVTracy Murray WAS 03/17/1998 WAS vs. DEN L 17 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 1 0 0 1 4 0
+p175
+aVHarvey Grant WAS 03/17/1998 WAS vs. DEN L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p176
+aVLedell Eackles WAS 03/17/1998 WAS vs. DEN L 12 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 7
+p177
+aVTerry Davis WAS 03/17/1998 WAS vs. DEN L 20 2 1 1 100.0 0 0 - 0 0 - 2 4 6 1 0 1 1 2 -3
+p178
+aVCalbert Cheaney WAS 03/14/1998 WAS @ CHH W 39 12 6 14 42.9 0 1 0.0 0 0 - 0 4 4 2 2 0 1 2 1
+p179
+aVChris Whitney WAS 03/14/1998 WAS @ CHH W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p180
+aVDarvin Ham WAS 03/14/1998 WAS @ CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p181
+aVRod Strickland WAS 03/14/1998 WAS @ CHH W 44 15 4 14 28.6 0 1 0.0 7 12 58.3 2 4 6 9 1 0 7 2 10
+p182
+aVTerry Davis WAS 03/14/1998 WAS @ CHH W 40 15 6 7 85.7 0 0 - 3 4 75.0 9 6 15 2 1 0 2 4 0
+p183
+aVBen Wallace WAS 03/14/1998 WAS @ CHH W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 4
+p184
+aVChris Webber WAS 03/14/1998 WAS @ CHH W 46 22 10 18 55.6 1 2 50.0 1 4 25.0 3 8 11 3 1 0 2 5 3
+p185
+aVHarvey Grant WAS 03/14/1998 WAS @ CHH W 24 6 3 6 50.0 0 0 - 0 0 - 0 5 5 0 0 0 1 1 12
+p186
+aVLedell Eackles WAS 03/14/1998 WAS @ CHH W 21 8 3 5 60.0 0 0 - 2 4 50.0 1 2 3 1 0 0 0 1 -9
+p187
+aVTracy Murray WAS 03/14/1998 WAS @ CHH W 14 3 0 5 0.0 0 1 0.0 3 3 100.0 0 0 0 2 0 1 0 1 2
+p188
+aVTracy Murray WAS 03/11/1998 WAS @ PHI L 17 4 2 8 25.0 0 4 0.0 0 0 - 2 2 4 0 0 0 2 0 -11
+p189
+aVCalbert Cheaney WAS 03/11/1998 WAS @ PHI L 39 11 4 14 28.6 1 2 50.0 2 3 66.7 2 2 4 4 2 0 2 2 2
+p190
+aVChris Whitney WAS 03/11/1998 WAS @ PHI L 11 3 1 2 50.0 1 1 100.0 0 0 - 1 2 3 1 1 0 5 3 -8
+p191
+aVLedell Eackles WAS 03/11/1998 WAS @ PHI L 28 12 3 9 33.3 0 1 0.0 6 6 100.0 1 5 6 0 0 0 0 1 9
+p192
+aVRod Strickland WAS 03/11/1998 WAS @ PHI L 33 18 5 11 45.5 0 1 0.0 8 10 80.0 1 3 4 12 3 1 5 5 13
+p193
+aVHarvey Grant WAS 03/11/1998 WAS @ PHI L 20 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 2 0 -2
+p194
+aVTerry Davis WAS 03/11/1998 WAS @ PHI L 16 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -7
+p195
+aVGod Shammgod WAS 03/11/1998 WAS @ PHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 3 -7
+p196
+aVChris Webber WAS 03/11/1998 WAS @ PHI L 47 34 13 26 50.0 5 8 62.5 3 5 60.0 4 8 12 4 1 3 4 3 -4
+p197
+aVDarvin Ham WAS 03/11/1998 WAS @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p198
+aVBen Wallace WAS 03/11/1998 WAS @ PHI L 23 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 0
+p199
+aVChris Whitney WAS 03/10/1998 WAS @ MIL W 17 6 2 3 66.7 1 2 50.0 1 2 50.0 0 1 1 3 0 0 0 3 -11
+p200
+aVChris Webber WAS 03/10/1998 WAS @ MIL W 35 24 9 15 60.0 2 3 66.7 4 8 50.0 1 3 4 4 4 2 0 3 20
+p201
+aVDarvin Ham WAS 03/10/1998 WAS @ MIL W 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 3 -5
+p202
+aVBen Wallace WAS 03/10/1998 WAS @ MIL W 23 6 3 6 50.0 0 0 - 0 4 0.0 0 4 4 0 0 1 1 5 3
+p203
+aVHarvey Grant WAS 03/10/1998 WAS @ MIL W 31 8 3 6 50.0 0 0 - 2 4 50.0 0 3 3 2 0 0 0 2 5
+p204
+aVGod Shammgod WAS 03/10/1998 WAS @ MIL W 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p205
+aVLedell Eackles WAS 03/10/1998 WAS @ MIL W 21 11 4 7 57.1 0 1 0.0 3 3 100.0 1 0 1 0 0 0 1 2 8
+p206
+aVCalbert Cheaney WAS 03/10/1998 WAS @ MIL W 23 9 3 10 30.0 0 0 - 3 4 75.0 1 2 3 2 1 0 2 3 15
+p207
+aVTerry Davis WAS 03/10/1998 WAS @ MIL W 24 4 1 1 100.0 0 0 - 2 2 100.0 2 4 6 0 0 1 2 2 13
+p208
+aVRod Strickland WAS 03/10/1998 WAS @ MIL W 29 17 6 11 54.5 0 0 - 5 6 83.3 2 9 11 10 2 0 4 2 32
+p209
+aVTracy Murray WAS 03/10/1998 WAS @ MIL W 22 8 3 8 37.5 1 2 50.0 1 1 100.0 0 1 1 1 2 0 0 3 5
+p210
+aVChris Webber WAS 03/08/1998 WAS vs. PHI W 45 23 11 28 39.3 1 2 50.0 0 0 - 2 7 9 4 3 2 1 4 8
+p211
+aVDarvin Ham WAS 03/08/1998 WAS vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p212
+aVHarvey Grant WAS 03/08/1998 WAS vs. PHI W 23 8 3 4 75.0 0 0 - 2 2 100.0 2 1 3 1 0 1 2 4 9
+p213
+aVChris Whitney WAS 03/08/1998 WAS vs. PHI W 9 5 0 4 0.0 0 1 0.0 5 6 83.3 1 2 3 2 0 0 0 2 -3
+p214
+aVBen Wallace WAS 03/08/1998 WAS vs. PHI W 16 4 2 2 100.0 0 0 - 0 0 - 1 9 10 1 0 2 1 2 2
+p215
+aVRod Strickland WAS 03/08/1998 WAS vs. PHI W 43 26 8 19 42.1 0 2 0.0 10 13 76.9 1 2 3 10 3 0 3 4 12
+p216
+aVTracy Murray WAS 03/08/1998 WAS vs. PHI W 31 17 7 17 41.2 3 10 30.0 0 0 - 0 2 2 1 2 1 0 1 6
+p217
+aVTerry Davis WAS 03/08/1998 WAS vs. PHI W 30 5 2 4 50.0 0 0 - 1 2 50.0 12 3 15 0 0 0 1 4 2
+p218
+aVCalbert Cheaney WAS 03/08/1998 WAS vs. PHI W 42 12 5 15 33.3 0 1 0.0 2 2 100.0 2 3 5 6 0 1 0 3 10
+p219
+aVGod Shammgod WAS 03/08/1998 WAS vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p220
+aVDarvin Ham WAS 03/06/1998 WAS @ BOS L 28 9 4 4 100.0 0 0 - 1 2 50.0 2 3 5 1 0 1 1 5 2
+p221
+aVChris Webber WAS 03/06/1998 WAS @ BOS L 40 23 10 19 52.6 0 2 0.0 3 7 42.9 1 6 7 4 1 1 4 4 -7
+p222
+aVBen Wallace WAS 03/06/1998 WAS @ BOS L 11 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -9
+p223
+aVLedell Eackles WAS 03/06/1998 WAS @ BOS L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p224
+aVTerry Davis WAS 03/06/1998 WAS @ BOS L 13 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 1 0 0 0 3 -5
+p225
+aVHarvey Grant WAS 03/06/1998 WAS @ BOS L 12 0 0 3 0.0 0 0 - 0 0 - 3 3 6 1 0 0 0 0 -2
+p226
+aVChris Whitney WAS 03/06/1998 WAS @ BOS L 12 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 3 1 -6
+p227
+aVTracy Murray WAS 03/06/1998 WAS @ BOS L 35 22 8 12 66.7 4 4 100.0 2 2 100.0 2 5 7 1 0 0 2 1 -4
+p228
+aVCalbert Cheaney WAS 03/06/1998 WAS @ BOS L 44 11 4 12 33.3 0 2 0.0 3 3 100.0 0 6 6 3 1 0 1 2 -9
+p229
+aVRod Strickland WAS 03/06/1998 WAS @ BOS L 43 23 8 12 66.7 0 0 - 7 8 87.5 0 3 3 7 0 0 6 3 -6
+p230
+aVChris Whitney WAS 03/05/1998 WAS vs. NYK W 9 8 1 4 25.0 0 2 0.0 6 6 100.0 0 1 1 0 0 0 0 0 -3
+p231
+aVRod Strickland WAS 03/05/1998 WAS vs. NYK W 40 21 8 20 40.0 0 0 - 5 5 100.0 1 5 6 10 6 0 3 4 14
+p232
+aVCalbert Cheaney WAS 03/05/1998 WAS vs. NYK W 44 27 12 18 66.7 2 4 50.0 1 5 20.0 1 7 8 4 2 0 2 4 17
+p233
+aVDarvin Ham WAS 03/05/1998 WAS vs. NYK W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p234
+aVHarvey Grant WAS 03/05/1998 WAS vs. NYK W 20 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 4
+p235
+aVChris Webber WAS 03/05/1998 WAS vs. NYK W 45 26 11 19 57.9 1 6 16.7 3 4 75.0 3 4 7 6 1 0 4 3 8
+p236
+aVTerry Davis WAS 03/05/1998 WAS vs. NYK W 18 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -5
+p237
+aVTracy Murray WAS 03/05/1998 WAS vs. NYK W 39 12 4 15 26.7 2 7 28.6 2 3 66.7 0 5 5 0 0 0 1 1 5
+p238
+aVBen Wallace WAS 03/05/1998 WAS vs. NYK W 23 2 1 4 25.0 0 0 - 0 0 - 6 4 10 1 1 0 0 4 24
+p239
+aVHarvey Grant WAS 03/02/1998 WAS vs. LAL W 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 17
+p240
+aVDarvin Ham WAS 03/02/1998 WAS vs. LAL W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 2 8
+p241
+aVCalbert Cheaney WAS 03/02/1998 WAS vs. LAL W 41 21 7 12 58.3 1 3 33.3 6 7 85.7 0 8 8 4 0 0 1 3 9
+p242
+aVChris Whitney WAS 03/02/1998 WAS vs. LAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p243
+aVBen Wallace WAS 03/02/1998 WAS vs. LAL W 15 0 0 0 - 0 0 - 0 0 - 0 2 2 0 4 0 0 4 -6
+p244
+aVTerry Davis WAS 03/02/1998 WAS vs. LAL W 23 4 0 1 0.0 0 0 - 4 4 100.0 1 0 1 1 0 0 0 4 5
+p245
+aVTracy Murray WAS 03/02/1998 WAS vs. LAL W 38 15 6 13 46.2 1 4 25.0 2 2 100.0 1 5 6 0 1 0 3 3 -3
+p246
+aVLedell Eackles WAS 03/02/1998 WAS vs. LAL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p247
+aVChris Webber WAS 03/02/1998 WAS vs. LAL W 46 31 11 23 47.8 1 3 33.3 8 10 80.0 2 8 10 8 2 3 3 4 10
+p248
+aVRod Strickland WAS 03/02/1998 WAS vs. LAL W 44 19 7 16 43.8 0 2 0.0 5 6 83.3 2 4 6 8 1 1 4 1 11
+p249
+aVRod Strickland WAS 02/28/1998 WAS vs. DAL L 39 27 11 18 61.1 0 1 0.0 5 5 100.0 2 4 6 9 0 1 5 2 -22
+p250
+aVDarvin Ham WAS 02/28/1998 WAS vs. DAL L 6 1 0 0 - 0 0 - 1 4 25.0 1 0 1 0 0 0 0 0 -3
+p251
+aVCalbert Cheaney WAS 02/28/1998 WAS vs. DAL L 44 14 5 15 33.3 0 1 0.0 4 6 66.7 1 0 1 1 1 0 0 5 -24
+p252
+aVChris Whitney WAS 02/28/1998 WAS vs. DAL L 15 2 0 4 0.0 0 2 0.0 2 2 100.0 1 2 3 5 0 1 0 0 -14
+p253
+aVLawrence Moten WAS 02/28/1998 WAS vs. DAL L 2 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p254
+aVTracy Murray WAS 02/28/1998 WAS vs. DAL L 22 13 5 12 41.7 3 7 42.9 0 0 - 0 1 1 1 0 1 2 3 -7
+p255
+aVHarvey Grant WAS 02/28/1998 WAS vs. DAL L 24 0 0 2 0.0 0 0 - 0 0 - 2 5 7 0 1 0 0 1 -7
+p256
+aVTerry Davis WAS 02/28/1998 WAS vs. DAL L 20 0 0 2 0.0 0 0 - 0 0 - 3 4 7 0 0 0 1 1 -13
+p257
+aVBen Wallace WAS 02/28/1998 WAS vs. DAL L 21 1 0 6 0.0 0 0 - 1 2 50.0 3 2 5 0 0 0 1 1 -14
+p258
+aVChris Webber WAS 02/28/1998 WAS vs. DAL L 46 17 6 19 31.6 2 5 40.0 3 4 75.0 1 14 15 3 1 3 5 5 -21
+p259
+aVRod Strickland WAS 02/26/1998 WAS vs. GSW W 36 20 8 14 57.1 0 0 - 4 7 57.1 0 8 8 13 2 1 4 3 21
+p260
+aVChris Whitney WAS 02/26/1998 WAS vs. GSW W 18 5 2 5 40.0 0 2 0.0 1 2 50.0 0 2 2 1 0 0 2 3 1
+p261
+aVCalbert Cheaney WAS 02/26/1998 WAS vs. GSW W 38 15 6 15 40.0 1 3 33.3 2 3 66.7 0 2 2 2 2 2 2 4 20
+p262
+aVTerry Davis WAS 02/26/1998 WAS vs. GSW W 25 2 1 2 50.0 0 0 - 0 0 - 5 6 11 2 0 0 5 0 6
+p263
+aVLawrence Moten WAS 02/26/1998 WAS vs. GSW W 3 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 1
+p264
+aVHarvey Grant WAS 02/26/1998 WAS vs. GSW W 20 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 0 0 1 9
+p265
+aVTracy Murray WAS 02/26/1998 WAS vs. GSW W 39 24 8 21 38.1 4 12 33.3 4 5 80.0 0 5 5 2 2 0 1 3 24
+p266
+aVBen Wallace WAS 02/26/1998 WAS vs. GSW W 21 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 1 2 1 1 2 14
+p267
+aVDarvin Ham WAS 02/26/1998 WAS vs. GSW W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p268
+aVChris Webber WAS 02/26/1998 WAS vs. GSW W 36 26 11 21 52.4 1 3 33.3 3 3 100.0 3 5 8 3 2 2 3 4 21
+p269
+aVChris Whitney WAS 02/24/1998 WAS vs. HOU W 7 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -1
+p270
+aVTerry Davis WAS 02/24/1998 WAS vs. HOU W 24 7 2 3 66.7 0 0 - 3 4 75.0 1 6 7 2 0 0 0 5 9
+p271
+aVCalbert Cheaney WAS 02/24/1998 WAS vs. HOU W 45 16 6 20 30.0 0 4 0.0 4 6 66.7 2 1 3 2 3 0 0 2 12
+p272
+aVBen Wallace WAS 02/24/1998 WAS vs. HOU W 26 3 1 1 100.0 0 0 - 1 3 33.3 2 4 6 0 2 0 0 4 3
+p273
+aVChris Webber WAS 02/24/1998 WAS vs. HOU W 44 36 13 24 54.2 1 4 25.0 9 13 69.2 1 12 13 3 3 3 2 3 7
+p274
+aVRod Strickland WAS 02/24/1998 WAS vs. HOU W 42 31 10 16 62.5 2 3 66.7 9 11 81.8 1 4 5 15 3 0 3 2 13
+p275
+aVHarvey Grant WAS 02/24/1998 WAS vs. HOU W 12 0 0 3 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 2 3 3
+p276
+aVDarvin Ham WAS 02/24/1998 WAS vs. HOU W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p277
+aVTracy Murray WAS 02/24/1998 WAS vs. HOU W 38 27 11 15 73.3 4 5 80.0 1 2 50.0 2 2 4 0 2 0 2 1 15
+p278
+aVCalbert Cheaney WAS 02/21/1998 WAS vs. CHI L 44 30 12 23 52.2 4 5 80.0 2 2 100.0 1 6 7 1 2 0 4 4 -6
+p279
+aVDarvin Ham WAS 02/21/1998 WAS vs. CHI L 20 5 2 4 50.0 0 0 - 1 2 50.0 3 4 7 0 1 2 1 2 9
+p280
+aVHarvey Grant WAS 02/21/1998 WAS vs. CHI L 19 4 2 4 50.0 0 0 - 0 0 - 2 1 3 2 1 1 0 1 -6
+p281
+aVLawrence Moten WAS 02/21/1998 WAS vs. CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p282
+aVTracy Murray WAS 02/21/1998 WAS vs. CHI L 37 18 6 15 40.0 3 6 50.0 3 3 100.0 2 4 6 1 1 0 4 3 -3
+p283
+aVRod Strickland WAS 02/21/1998 WAS vs. CHI L 44 19 7 22 31.8 1 1 100.0 4 6 66.7 1 3 4 12 1 1 5 4 -5
+p284
+aVBen Wallace WAS 02/21/1998 WAS vs. CHI L 29 6 2 7 28.6 0 0 - 2 3 66.7 3 6 9 0 3 2 2 1 -1
+p285
+aVTerry Davis WAS 02/21/1998 WAS vs. CHI L 34 6 1 5 20.0 0 0 - 4 4 100.0 5 7 12 1 0 0 3 1 -13
+p286
+aVChris Whitney WAS 02/21/1998 WAS vs. CHI L 10 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 3 0 0 0 0 2
+p287
+aVChris Whitney WAS 02/18/1998 WAS vs. MIL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p288
+aVRod Strickland WAS 02/18/1998 WAS vs. MIL L 46 33 10 19 52.6 1 1 100.0 12 16 75.0 5 3 8 11 2 1 5 1 -5
+p289
+aVHarvey Grant WAS 02/18/1998 WAS vs. MIL L 32 10 4 13 30.8 0 1 0.0 2 2 100.0 2 5 7 1 2 0 3 2 -9
+p290
+aVCalbert Cheaney WAS 02/18/1998 WAS vs. MIL L 44 18 6 15 40.0 0 1 0.0 6 8 75.0 1 4 5 3 1 0 0 6 3
+p291
+aVLawrence Moten WAS 02/18/1998 WAS vs. MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p292
+aVDarvin Ham WAS 02/18/1998 WAS vs. MIL L 10 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 1 2 -12
+p293
+aVTracy Murray WAS 02/18/1998 WAS vs. MIL L 41 20 8 18 44.4 1 3 33.3 3 4 75.0 2 2 4 1 0 1 2 3 -7
+p294
+aVBen Wallace WAS 02/18/1998 WAS vs. MIL L 24 2 1 4 25.0 0 0 - 0 2 0.0 0 4 4 1 1 1 0 4 -12
+p295
+aVTerry Davis WAS 02/18/1998 WAS vs. MIL L 37 14 7 8 87.5 0 0 - 0 1 0.0 3 3 6 1 1 1 1 3 4
+p296
+aVTracy Murray WAS 02/15/1998 WAS @ SAC L 41 29 12 24 50.0 1 7 14.3 4 5 80.0 2 4 6 0 0 2 3 1 2
+p297
+aVTerry Davis WAS 02/15/1998 WAS @ SAC L 31 4 2 5 40.0 0 0 - 0 3 0.0 6 5 11 0 0 1 1 2 -16
+p298
+aVRod Strickland WAS 02/15/1998 WAS @ SAC L 42 20 6 18 33.3 0 0 - 8 11 72.7 0 3 3 10 3 0 3 2 -1
+p299
+aVBen Wallace WAS 02/15/1998 WAS @ SAC L 27 2 1 2 50.0 0 0 - 0 0 - 2 6 8 1 1 2 1 4 1
+p300
+aVHarvey Grant WAS 02/15/1998 WAS @ SAC L 33 8 4 8 50.0 0 0 - 0 0 - 0 5 5 1 2 0 0 1 8
+p301
+aVChris Whitney WAS 02/15/1998 WAS @ SAC L 11 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 3 0 0 0 1 1
+p302
+aVDarvin Ham WAS 02/15/1998 WAS @ SAC L 8 1 0 1 0.0 0 0 - 1 4 25.0 0 0 0 0 0 1 0 1 4
+p303
+aVLawrence Moten WAS 02/15/1998 WAS @ SAC L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 0 0 1 1 -4
+p304
+aVCalbert Cheaney WAS 02/15/1998 WAS @ SAC L 41 16 7 16 43.8 2 3 66.7 0 0 - 0 8 8 4 0 0 4 5 -5
+p305
+aVBen Wallace WAS 02/14/1998 WAS @ VAN L 38 10 4 6 66.7 0 0 - 2 4 50.0 5 4 9 0 2 2 1 1 -1
+p306
+aVRod Strickland WAS 02/14/1998 WAS @ VAN L 47 22 10 24 41.7 0 1 0.0 2 2 100.0 4 5 9 17 4 0 5 4 -1
+p307
+aVTerry Davis WAS 02/14/1998 WAS @ VAN L 34 13 6 13 46.2 0 0 - 1 3 33.3 4 2 6 0 0 1 0 2 -9
+p308
+aVTracy Murray WAS 02/14/1998 WAS @ VAN L 41 19 7 23 30.4 3 8 37.5 2 2 100.0 0 1 1 2 2 1 2 3 -9
+p309
+aVDarvin Ham WAS 02/14/1998 WAS @ VAN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p310
+aVLawrence Moten WAS 02/14/1998 WAS @ VAN L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p311
+aVHarvey Grant WAS 02/14/1998 WAS @ VAN L 33 11 5 12 41.7 0 0 - 1 2 50.0 8 6 14 4 4 0 0 3 4
+p312
+aVChris Whitney WAS 02/14/1998 WAS @ VAN L 18 9 3 7 42.9 2 3 66.7 1 2 50.0 1 4 5 2 1 0 1 2 9
+p313
+aVCalbert Cheaney WAS 02/14/1998 WAS @ VAN L 47 24 11 25 44.0 2 3 66.7 0 0 - 1 4 5 3 2 2 0 6 0
+p314
+aVRod Strickland WAS 02/11/1998 WAS @ LAC W 45 32 11 23 47.8 0 1 0.0 10 11 90.9 2 4 6 13 0 0 2 3 4
+p315
+aVCalbert Cheaney WAS 02/11/1998 WAS @ LAC W 43 28 14 26 53.8 0 1 0.0 0 1 0.0 3 4 7 2 0 0 3 1 10
+p316
+aVBen Wallace WAS 02/11/1998 WAS @ LAC W 35 8 4 6 66.7 0 0 - 0 2 0.0 2 10 12 0 1 2 0 4 11
+p317
+aVChris Whitney WAS 02/11/1998 WAS @ LAC W 9 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 0 1 0 0 1 3
+p318
+aVHarvey Grant WAS 02/11/1998 WAS @ LAC W 13 2 1 6 16.7 0 0 - 0 0 - 3 4 7 0 0 0 0 3 -5
+p319
+aVTerry Davis WAS 02/11/1998 WAS @ LAC W 41 12 5 8 62.5 0 0 - 2 3 66.7 5 8 13 0 0 0 0 4 3
+p320
+aVTracy Murray WAS 02/11/1998 WAS @ LAC W 43 18 8 21 38.1 2 4 50.0 0 0 - 0 3 3 0 1 0 1 3 1
+p321
+aVLawrence Moten WAS 02/11/1998 WAS @ LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p322
+aVDarvin Ham WAS 02/11/1998 WAS @ LAC W 8 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 2 3 2
+p323
+aVDarvin Ham WAS 02/10/1998 WAS @ GSW W 6 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -12
+p324
+aVChris Whitney WAS 02/10/1998 WAS @ GSW W 18 3 1 7 14.3 1 4 25.0 0 0 - 0 0 0 1 1 0 1 2 -1
+p325
+aVHarvey Grant WAS 02/10/1998 WAS @ GSW W 28 4 2 6 33.3 0 0 - 0 0 - 2 5 7 0 1 0 1 1 3
+p326
+aVLawrence Moten WAS 02/10/1998 WAS @ GSW W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -8
+p327
+aVRod Strickland WAS 02/10/1998 WAS @ GSW W 42 21 7 18 38.9 0 1 0.0 7 9 77.8 3 9 12 20 2 0 5 2 23
+p328
+aVTracy Murray WAS 02/10/1998 WAS @ GSW W 43 50 18 29 62.1 5 10 50.0 9 10 90.0 2 6 8 0 2 0 2 3 25
+p329
+aVCalbert Cheaney WAS 02/10/1998 WAS @ GSW W 38 18 8 19 42.1 0 1 0.0 2 5 40.0 1 3 4 0 2 2 1 6 16
+p330
+aVBen Wallace WAS 02/10/1998 WAS @ GSW W 44 2 1 4 25.0 0 0 - 0 0 - 5 6 11 2 2 3 1 3 20
+p331
+aVTerry Davis WAS 02/10/1998 WAS @ GSW W 18 0 0 4 0.0 0 0 - 0 0 - 4 3 7 0 1 0 2 4 -6
+p332
+aVRod Strickland WAS 02/05/1998 WAS @ ORL L 41 25 11 21 52.4 0 0 - 3 4 75.0 1 3 4 9 2 0 3 2 -9
+p333
+aVDarvin Ham WAS 02/05/1998 WAS @ ORL L 15 4 2 2 100.0 0 0 - 0 0 - 3 0 3 0 1 1 3 4 -16
+p334
+aVCalbert Cheaney WAS 02/05/1998 WAS @ ORL L 38 14 6 15 40.0 0 0 - 2 3 66.7 2 2 4 6 0 2 2 5 -4
+p335
+aVTerry Davis WAS 02/05/1998 WAS @ ORL L 22 3 1 4 25.0 0 0 - 1 2 50.0 3 3 6 1 0 0 1 2 -9
+p336
+aVBen Wallace WAS 02/05/1998 WAS @ ORL L 43 10 4 10 40.0 0 0 - 2 3 66.7 5 8 13 0 3 1 1 3 2
+p337
+aVTracy Murray WAS 02/05/1998 WAS @ ORL L 28 9 4 13 30.8 1 7 14.3 0 0 - 0 2 2 1 1 0 2 3 -12
+p338
+aVChris Whitney WAS 02/05/1998 WAS @ ORL L 23 12 4 13 30.8 2 7 28.6 2 2 100.0 0 3 3 3 0 0 1 1 4
+p339
+aVHarvey Grant WAS 02/05/1998 WAS @ ORL L 25 6 3 8 37.5 0 0 - 0 0 - 2 4 6 1 2 0 1 3 -5
+p340
+aVJuwan Howard WAS 02/05/1998 WAS @ ORL L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p341
+aVTracy Murray WAS 02/04/1998 WAS vs. CLE W 32 24 9 19 47.4 3 8 37.5 3 4 75.0 1 0 1 0 0 0 1 1 12
+p342
+aVRod Strickland WAS 02/04/1998 WAS vs. CLE W 34 13 4 13 30.8 0 0 - 5 5 100.0 2 3 5 13 1 0 2 2 16
+p343
+aVHarvey Grant WAS 02/04/1998 WAS vs. CLE W 20 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 1 1 1 1 17
+p344
+aVJuwan Howard WAS 02/04/1998 WAS vs. CLE W 42 22 10 20 50.0 0 0 - 2 4 50.0 6 7 13 5 2 1 4 2 12
+p345
+aVBen Wallace WAS 02/04/1998 WAS vs. CLE W 22 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 5 0 0 1 -5
+p346
+aVCalbert Cheaney WAS 02/04/1998 WAS vs. CLE W 35 20 9 20 45.0 0 1 0.0 2 2 100.0 1 4 5 3 1 2 1 5 7
+p347
+aVChris Whitney WAS 02/04/1998 WAS vs. CLE W 14 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 6 0 0 1 1 0
+p348
+aVTerry Davis WAS 02/04/1998 WAS vs. CLE W 30 10 3 3 100.0 0 0 - 4 6 66.7 2 4 6 1 0 1 1 4 6
+p349
+aVDarvin Ham WAS 02/04/1998 WAS vs. CLE W 12 5 2 2 100.0 0 0 - 1 2 50.0 2 4 6 0 0 0 1 1 15
+p350
+aVTracy Murray WAS 02/02/1998 WAS vs. DET W 30 16 6 13 46.2 2 4 50.0 2 2 100.0 0 1 1 1 0 0 1 2 10
+p351
+aVChris Whitney WAS 02/02/1998 WAS vs. DET W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p352
+aVChris Webber WAS 02/02/1998 WAS vs. DET W 38 23 11 18 61.1 1 3 33.3 0 0 - 3 9 12 6 1 1 0 3 18
+p353
+aVHarvey Grant WAS 02/02/1998 WAS vs. DET W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 1
+p354
+aVRod Strickland WAS 02/02/1998 WAS vs. DET W 43 26 12 18 66.7 1 1 100.0 1 1 100.0 2 4 6 10 2 1 3 0 16
+p355
+aVBen Wallace WAS 02/02/1998 WAS vs. DET W 25 7 3 6 50.0 0 0 - 1 2 50.0 4 4 8 1 2 4 0 6 9
+p356
+aVTerry Davis WAS 02/02/1998 WAS vs. DET W 18 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 0
+p357
+aVDarvin Ham WAS 02/02/1998 WAS vs. DET W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -4
+p358
+aVJuwan Howard WAS 02/02/1998 WAS vs. DET W 44 17 7 16 43.8 0 0 - 3 5 60.0 1 8 9 9 2 0 1 4 7
+p359
+aVCalbert Cheaney WAS 02/02/1998 WAS vs. DET W 28 12 6 14 42.9 0 0 - 0 0 - 0 0 0 3 0 0 2 5 8
+p360
+aVBen Wallace WAS 01/30/1998 WAS @ DET W 27 8 4 8 50.0 0 0 - 0 3 0.0 6 7 13 0 2 3 1 3 3
+p361
+aVRod Strickland WAS 01/30/1998 WAS @ DET W 35 25 10 15 66.7 0 0 - 5 8 62.5 1 3 4 9 2 0 2 5 22
+p362
+aVChris Webber WAS 01/30/1998 WAS @ DET W 45 20 5 18 27.8 0 3 0.0 10 15 66.7 1 14 15 2 3 3 2 4 13
+p363
+aVDarvin Ham WAS 01/30/1998 WAS @ DET W 3 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -2
+p364
+aVCalbert Cheaney WAS 01/30/1998 WAS @ DET W 38 8 4 8 50.0 0 0 - 0 0 - 0 0 0 0 2 0 0 3 4
+p365
+aVHarvey Grant WAS 01/30/1998 WAS @ DET W 9 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -2
+p366
+aVJuwan Howard WAS 01/30/1998 WAS @ DET W 44 19 7 18 38.9 0 0 - 5 8 62.5 3 3 6 2 1 0 3 6 11
+p367
+aVChris Whitney WAS 01/30/1998 WAS @ DET W 14 8 2 4 50.0 0 2 0.0 4 4 100.0 0 0 0 2 0 0 1 5 -15
+p368
+aVTracy Murray WAS 01/30/1998 WAS @ DET W 25 12 5 10 50.0 1 4 25.0 1 1 100.0 1 5 6 0 0 0 0 2 1
+p369
+aVJuwan Howard WAS 01/28/1998 WAS @ BOS L 43 20 6 11 54.5 0 0 - 8 11 72.7 3 10 13 5 4 0 2 3 5
+p370
+aVBen Wallace WAS 01/28/1998 WAS @ BOS L 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 4
+p371
+aVHarvey Grant WAS 01/28/1998 WAS @ BOS L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p372
+aVCalbert Cheaney WAS 01/28/1998 WAS @ BOS L 37 16 6 11 54.5 0 0 - 4 4 100.0 1 7 8 1 0 0 4 3 -8
+p373
+aVChris Webber WAS 01/28/1998 WAS @ BOS L 44 14 6 21 28.6 1 4 25.0 1 4 25.0 2 6 8 7 0 5 4 1 -1
+p374
+aVRod Strickland WAS 01/28/1998 WAS @ BOS L 39 14 6 13 46.2 0 0 - 2 2 100.0 2 3 5 10 0 0 2 2 2
+p375
+aVTracy Murray WAS 01/28/1998 WAS @ BOS L 29 22 8 11 72.7 0 1 0.0 6 6 100.0 1 0 1 1 1 2 0 3 -1
+p376
+aVDarvin Ham WAS 01/28/1998 WAS @ BOS L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p377
+aVChris Whitney WAS 01/28/1998 WAS @ BOS L 23 12 3 6 50.0 1 4 25.0 5 5 100.0 0 1 1 1 1 0 0 4 -4
+p378
+aVBen Wallace WAS 01/27/1998 WAS @ IND L 33 0 0 1 0.0 0 0 - 0 0 - 4 8 12 2 2 0 2 4 0
+p379
+aVHarvey Grant WAS 01/27/1998 WAS @ IND L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -9
+p380
+aVJuwan Howard WAS 01/27/1998 WAS @ IND L 43 25 11 22 50.0 0 0 - 3 4 75.0 4 1 5 2 0 0 1 3 8
+p381
+aVRod Strickland WAS 01/27/1998 WAS @ IND L 38 9 3 12 25.0 0 1 0.0 3 4 75.0 2 4 6 10 0 0 2 3 -9
+p382
+aVDarvin Ham WAS 01/27/1998 WAS @ IND L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p383
+aVTracy Murray WAS 01/27/1998 WAS @ IND L 19 8 3 9 33.3 0 2 0.0 2 2 100.0 2 1 3 1 2 0 1 1 -7
+p384
+aVCalbert Cheaney WAS 01/27/1998 WAS @ IND L 36 20 10 20 50.0 0 0 - 0 0 - 1 4 5 0 1 1 2 3 7
+p385
+aVChris Whitney WAS 01/27/1998 WAS @ IND L 17 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 0 4
+p386
+aVChris Webber WAS 01/27/1998 WAS @ IND L 38 18 8 16 50.0 1 3 33.3 1 1 100.0 3 8 11 2 1 4 7 4 -2
+p387
+aVBen Wallace WAS 01/24/1998 WAS vs. NJN W 16 4 1 3 33.3 0 0 - 2 4 50.0 4 1 5 0 0 1 3 2 19
+p388
+aVDarvin Ham WAS 01/24/1998 WAS vs. NJN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p389
+aVTerry Davis WAS 01/24/1998 WAS vs. NJN W 23 2 1 1 100.0 0 0 - 0 0 - 1 5 6 0 1 0 0 2 2
+p390
+aVTracy Murray WAS 01/24/1998 WAS vs. NJN W 24 22 7 13 53.8 2 4 50.0 6 7 85.7 1 2 3 3 0 0 1 2 6
+p391
+aVChris Webber WAS 01/24/1998 WAS vs. NJN W 44 22 8 17 47.1 1 4 25.0 5 6 83.3 2 8 10 8 3 3 5 2 25
+p392
+aVHarvey Grant WAS 01/24/1998 WAS vs. NJN W 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p393
+aVChris Whitney WAS 01/24/1998 WAS vs. NJN W 13 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 3 2 0 2 3 5
+p394
+aVRod Strickland WAS 01/24/1998 WAS vs. NJN W 36 11 5 10 50.0 0 0 - 1 2 50.0 2 5 7 11 4 0 4 5 12
+p395
+aVJuwan Howard WAS 01/24/1998 WAS vs. NJN W 44 20 8 16 50.0 0 0 - 4 4 100.0 4 2 6 3 0 1 5 3 7
+p396
+aVCalbert Cheaney WAS 01/24/1998 WAS vs. NJN W 31 14 4 9 44.4 0 0 - 6 10 60.0 2 3 5 1 1 1 2 5 15
+p397
+aVJuwan Howard WAS 01/21/1998 WAS vs. POR L 42 15 6 15 40.0 0 0 - 3 4 75.0 2 6 8 3 0 0 6 4 -15
+p398
+aVTracy Murray WAS 01/21/1998 WAS vs. POR L 22 13 5 14 35.7 0 6 0.0 3 5 60.0 1 1 2 2 1 0 0 0 -2
+p399
+aVTerry Davis WAS 01/21/1998 WAS vs. POR L 28 7 3 5 60.0 0 0 - 1 1 100.0 1 2 3 1 2 0 2 4 -8
+p400
+aVLedell Eackles WAS 01/21/1998 WAS vs. POR L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -4
+p401
+aVRod Strickland WAS 01/21/1998 WAS vs. POR L 40 18 8 16 50.0 0 0 - 2 4 50.0 4 3 7 11 1 0 2 4 -9
+p402
+aVDarvin Ham WAS 01/21/1998 WAS vs. POR L 10 2 1 2 50.0 0 0 - 0 0 - 3 0 3 2 0 0 1 1 4
+p403
+aVChris Webber WAS 01/21/1998 WAS vs. POR L 43 20 9 18 50.0 2 5 40.0 0 1 0.0 2 10 12 3 4 4 5 2 -10
+p404
+aVBen Wallace WAS 01/21/1998 WAS vs. POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p405
+aVChris Whitney WAS 01/21/1998 WAS vs. POR L 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -9
+p406
+aVCalbert Cheaney WAS 01/21/1998 WAS vs. POR L 37 9 4 10 40.0 0 0 - 1 4 25.0 2 2 4 2 1 1 1 3 -15
+p407
+aVTerry Davis WAS 01/17/1998 WAS vs. LAC W 27 1 0 2 0.0 0 0 - 1 2 50.0 2 5 7 0 2 1 1 1 2
+p408
+aVTim Legler WAS 01/17/1998 WAS vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p409
+aVJuwan Howard WAS 01/17/1998 WAS vs. LAC W 44 21 8 14 57.1 0 0 - 5 6 83.3 0 6 6 3 2 0 2 4 9
+p410
+aVChris Whitney WAS 01/17/1998 WAS vs. LAC W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 1 0 4
+p411
+aVCalbert Cheaney WAS 01/17/1998 WAS vs. LAC W 36 14 5 9 55.6 0 0 - 4 4 100.0 1 3 4 2 3 1 0 3 -2
+p412
+aVDarvin Ham WAS 01/17/1998 WAS vs. LAC W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 3 8
+p413
+aVHarvey Grant WAS 01/17/1998 WAS vs. LAC W 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 2
+p414
+aVTracy Murray WAS 01/17/1998 WAS vs. LAC W 27 20 7 13 53.8 2 5 40.0 4 4 100.0 1 2 3 0 0 0 0 3 20
+p415
+aVChris Webber WAS 01/17/1998 WAS vs. LAC W 41 31 15 21 71.4 1 3 33.3 0 0 - 3 7 10 6 1 0 3 4 1
+p416
+aVRod Strickland WAS 01/17/1998 WAS vs. LAC W 40 16 7 17 41.2 0 0 - 2 2 100.0 0 2 2 7 2 0 3 3 5
+p417
+aVDarvin Ham WAS 01/16/1998 WAS vs. VAN W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -3
+p418
+aVCalbert Cheaney WAS 01/16/1998 WAS vs. VAN W 37 12 6 9 66.7 0 0 - 0 0 - 1 3 4 1 1 4 2 4 -2
+p419
+aVChris Webber WAS 01/16/1998 WAS vs. VAN W 34 24 10 20 50.0 0 2 0.0 4 5 80.0 2 7 9 6 2 2 2 5 8
+p420
+aVJuwan Howard WAS 01/16/1998 WAS vs. VAN W 45 25 11 21 52.4 0 0 - 3 3 100.0 5 2 7 5 2 0 2 2 -1
+p421
+aVBen Wallace WAS 01/16/1998 WAS vs. VAN W 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 2
+p422
+aVChris Whitney WAS 01/16/1998 WAS vs. VAN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p423
+aVLedell Eackles WAS 01/16/1998 WAS vs. VAN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p424
+aVTracy Murray WAS 01/16/1998 WAS vs. VAN W 30 23 9 15 60.0 3 7 42.9 2 2 100.0 2 0 2 0 1 0 1 1 13
+p425
+aVTerry Davis WAS 01/16/1998 WAS vs. VAN W 29 3 1 2 50.0 0 0 - 1 4 25.0 4 6 10 2 0 0 1 4 -8
+p426
+aVRod Strickland WAS 01/16/1998 WAS vs. VAN W 44 23 8 16 50.0 0 0 - 7 10 70.0 2 5 7 12 1 0 1 2 3
+p427
+aVTerry Davis WAS 01/14/1998 WAS vs. SAS L 33 3 0 2 0.0 0 0 - 3 4 75.0 6 6 12 1 1 0 2 4 0
+p428
+aVHarvey Grant WAS 01/14/1998 WAS vs. SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p429
+aVChris Webber WAS 01/14/1998 WAS vs. SAS L 47 27 13 28 46.4 1 2 50.0 0 0 - 1 5 6 1 0 5 1 4 -10
+p430
+aVTracy Murray WAS 01/14/1998 WAS vs. SAS L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 0 -14
+p431
+aVLedell Eackles WAS 01/14/1998 WAS vs. SAS L 10 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 -8
+p432
+aVTim Legler WAS 01/14/1998 WAS vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p433
+aVBen Wallace WAS 01/14/1998 WAS vs. SAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p434
+aVRod Strickland WAS 01/14/1998 WAS vs. SAS L 44 16 4 11 36.4 0 1 0.0 8 9 88.9 1 6 7 12 3 0 3 2 -5
+p435
+aVJuwan Howard WAS 01/14/1998 WAS vs. SAS L 43 21 8 23 34.8 0 0 - 5 5 100.0 3 3 6 2 1 0 1 3 -8
+p436
+aVCalbert Cheaney WAS 01/14/1998 WAS vs. SAS L 37 7 3 9 33.3 0 0 - 1 2 50.0 1 3 4 2 1 0 0 1 -1
+p437
+aVChris Whitney WAS 01/14/1998 WAS vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p438
+aVBen Wallace WAS 01/11/1998 WAS vs. ATL L 8 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -4
+p439
+aVCalbert Cheaney WAS 01/11/1998 WAS vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p440
+aVChris Whitney WAS 01/11/1998 WAS vs. ATL L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -5
+p441
+aVChris Webber WAS 01/11/1998 WAS vs. ATL L 50 25 11 22 50.0 3 5 60.0 0 0 - 4 6 10 3 1 1 2 4 -7
+p442
+aVJuwan Howard WAS 01/11/1998 WAS vs. ATL L 48 17 7 18 38.9 0 0 - 3 5 60.0 3 1 4 3 1 0 3 5 -7
+p443
+aVLedell Eackles WAS 01/11/1998 WAS vs. ATL L 24 2 0 4 0.0 0 2 0.0 2 2 100.0 1 3 4 1 1 0 0 4 -8
+p444
+aVTracy Murray WAS 01/11/1998 WAS vs. ATL L 32 17 4 11 36.4 3 4 75.0 6 7 85.7 0 1 1 1 0 0 1 5 0
+p445
+aVRod Strickland WAS 01/11/1998 WAS vs. ATL L 48 37 12 21 57.1 0 0 - 13 14 92.9 1 7 8 10 1 0 1 0 -1
+p446
+aVTim Legler WAS 01/11/1998 WAS vs. ATL L 20 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 0 0 2 4 1
+p447
+aVTerry Davis WAS 01/11/1998 WAS vs. ATL L 19 0 0 2 0.0 0 0 - 0 0 - 3 3 6 1 1 2 1 3 6
+p448
+aVDarvin Ham WAS 01/11/1998 WAS vs. ATL L 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 0
+p449
+aVRod Strickland WAS 01/09/1998 WAS @ ATL L 46 6 3 16 18.8 0 0 - 0 0 - 1 4 5 14 0 0 1 1 -2
+p450
+aVBen Wallace WAS 01/09/1998 WAS @ ATL L 8 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 1 0
+p451
+aVHarvey Grant WAS 01/09/1998 WAS @ ATL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p452
+aVTerry Davis WAS 01/09/1998 WAS @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 0 -8
+p453
+aVCalbert Cheaney WAS 01/09/1998 WAS @ ATL L 33 6 3 7 42.9 0 0 - 0 0 - 1 6 7 0 1 0 1 2 -5
+p454
+aVLedell Eackles WAS 01/09/1998 WAS @ ATL L 9 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 1 1 0 2 1 -5
+p455
+aVTracy Murray WAS 01/09/1998 WAS @ ATL L 28 13 5 11 45.5 1 2 50.0 2 2 100.0 0 1 1 1 1 0 1 1 6
+p456
+aVJuwan Howard WAS 01/09/1998 WAS @ ATL L 45 19 8 19 42.1 0 0 - 3 5 60.0 3 0 3 4 2 0 1 4 -6
+p457
+aVDarvin Ham WAS 01/09/1998 WAS @ ATL L 9 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 2 0 1 2 2
+p458
+aVChris Whitney WAS 01/09/1998 WAS @ ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p459
+aVTim Legler WAS 01/09/1998 WAS @ ATL L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 2
+p460
+aVChris Webber WAS 01/09/1998 WAS @ ATL L 37 20 8 22 36.4 0 4 0.0 4 6 66.7 4 8 12 3 1 2 0 4 -5
+p461
+aVTerry Davis WAS 01/07/1998 WAS vs. BOS W 24 4 2 5 40.0 0 0 - 0 4 0.0 1 3 4 0 0 0 1 2 5
+p462
+aVChris Webber WAS 01/07/1998 WAS vs. BOS W 40 30 13 18 72.2 1 3 33.3 3 7 42.9 1 9 10 3 2 2 5 4 -6
+p463
+aVTracy Murray WAS 01/07/1998 WAS vs. BOS W 21 16 6 8 75.0 3 5 60.0 1 1 100.0 0 3 3 2 1 0 1 3 0
+p464
+aVDarvin Ham WAS 01/07/1998 WAS vs. BOS W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p465
+aVLedell Eackles WAS 01/07/1998 WAS vs. BOS W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 0
+p466
+aVRod Strickland WAS 01/07/1998 WAS vs. BOS W 32 13 4 8 50.0 0 0 - 5 7 71.4 1 4 5 8 1 0 7 6 7
+p467
+aVHarvey Grant WAS 01/07/1998 WAS vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p468
+aVTim Legler WAS 01/07/1998 WAS vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p469
+aVChris Whitney WAS 01/07/1998 WAS vs. BOS W 23 11 1 3 33.3 0 0 - 9 11 81.8 0 2 2 1 3 0 2 3 2
+p470
+aVJuwan Howard WAS 01/07/1998 WAS vs. BOS W 41 10 4 11 36.4 0 0 - 2 3 66.7 1 4 5 9 2 0 2 3 -2
+p471
+aVCalbert Cheaney WAS 01/07/1998 WAS vs. BOS W 40 20 7 10 70.0 0 0 - 6 8 75.0 1 2 3 6 2 1 2 3 -3
+p472
+aVBen Wallace WAS 01/07/1998 WAS vs. BOS W 10 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 1 2
+p473
+aVChris Webber WAS 01/05/1998 WAS @ NYK W 44 26 10 18 55.6 1 5 20.0 5 7 71.4 1 10 11 7 1 2 1 4 7
+p474
+aVChris Whitney WAS 01/05/1998 WAS @ NYK W 15 9 2 3 66.7 1 2 50.0 4 6 66.7 0 1 1 3 0 1 0 1 0
+p475
+aVBen Wallace WAS 01/05/1998 WAS @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p476
+aVCalbert Cheaney WAS 01/05/1998 WAS @ NYK W 43 16 8 10 80.0 0 0 - 0 0 - 1 4 5 4 2 0 0 4 8
+p477
+aVJuwan Howard WAS 01/05/1998 WAS @ NYK W 44 26 10 17 58.8 0 0 - 6 7 85.7 1 3 4 4 1 0 4 4 8
+p478
+aVRod Strickland WAS 01/05/1998 WAS @ NYK W 34 21 7 13 53.8 0 0 - 7 14 50.0 1 1 2 6 2 0 3 4 9
+p479
+aVTerry Davis WAS 01/05/1998 WAS @ NYK W 34 8 3 5 60.0 0 0 - 2 2 100.0 2 7 9 1 2 0 0 2 11
+p480
+aVTim Legler WAS 01/05/1998 WAS @ NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p481
+aVTracy Murray WAS 01/05/1998 WAS @ NYK W 22 7 3 7 42.9 1 1 100.0 0 1 0.0 3 2 5 3 1 0 0 1 -9
+p482
+aVChris Webber WAS 01/04/1998 WAS vs. PHX W 37 22 9 14 64.3 2 3 66.7 2 4 50.0 3 3 6 6 1 2 1 5 6
+p483
+aVJuwan Howard WAS 01/04/1998 WAS vs. PHX W 42 29 11 21 52.4 0 1 0.0 7 8 87.5 4 6 10 5 2 0 5 4 9
+p484
+aVDarvin Ham WAS 01/04/1998 WAS vs. PHX W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p485
+aVTracy Murray WAS 01/04/1998 WAS vs. PHX W 22 15 5 13 38.5 3 6 50.0 2 2 100.0 0 3 3 0 1 1 1 1 -1
+p486
+aVCalbert Cheaney WAS 01/04/1998 WAS vs. PHX W 25 13 5 13 38.5 0 0 - 3 4 75.0 2 3 5 1 0 0 0 4 8
+p487
+aVHarvey Grant WAS 01/04/1998 WAS vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p488
+aVTim Legler WAS 01/04/1998 WAS vs. PHX W 16 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 6
+p489
+aVTerry Davis WAS 01/04/1998 WAS vs. PHX W 33 0 0 2 0.0 0 0 - 0 0 - 4 4 8 0 0 0 0 4 2
+p490
+aVChris Whitney WAS 01/04/1998 WAS vs. PHX W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p491
+aVRod Strickland WAS 01/04/1998 WAS vs. PHX W 45 26 11 15 73.3 0 0 - 4 11 36.4 0 9 9 11 2 1 2 0 12
+p492
+aVLedell Eackles WAS 01/04/1998 WAS vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 5
+p493
+aVJuwan Howard WAS 01/02/1998 WAS vs. IND L 40 19 6 18 33.3 0 0 - 7 10 70.0 3 5 8 2 0 0 4 4 -21
+p494
+aVChris Webber WAS 01/02/1998 WAS vs. IND L 42 21 9 19 47.4 1 2 50.0 2 3 66.7 4 3 7 3 1 3 2 4 -11
+p495
+aVTim Legler WAS 01/02/1998 WAS vs. IND L 19 5 1 5 20.0 0 0 - 3 4 75.0 2 0 2 1 0 0 0 1 -6
+p496
+aVChris Whitney WAS 01/02/1998 WAS vs. IND L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 4 0 0 0 1 -1
+p497
+aVDarvin Ham WAS 01/02/1998 WAS vs. IND L 11 4 1 1 100.0 0 0 - 2 4 50.0 1 2 3 0 0 0 1 2 -3
+p498
+aVTracy Murray WAS 01/02/1998 WAS vs. IND L 27 10 2 9 22.2 1 5 20.0 5 5 100.0 1 1 2 1 1 0 1 1 2
+p499
+aVCalbert Cheaney WAS 01/02/1998 WAS vs. IND L 23 0 0 5 0.0 0 0 - 0 0 - 1 2 3 1 2 0 2 3 -19
+p500
+aVBen Wallace WAS 01/02/1998 WAS vs. IND L 6 2 1 1 100.0 0 0 - 0 2 0.0 1 0 1 0 0 2 0 1 0
+p501
+aVRod Strickland WAS 01/02/1998 WAS vs. IND L 39 12 5 13 38.5 0 1 0.0 2 3 66.7 1 3 4 3 1 0 7 2 -15
+p502
+aVTerry Davis WAS 01/02/1998 WAS vs. IND L 24 6 3 6 50.0 0 0 - 0 0 - 6 6 12 0 0 0 0 2 -16
+p503
+aVDarvin Ham WAS 12/31/1997 WAS vs. TOR W 13 6 2 2 100.0 0 0 - 2 4 50.0 0 0 0 2 0 2 1 1 2
+p504
+aVTerry Davis WAS 12/31/1997 WAS vs. TOR W 22 11 4 7 57.1 0 0 - 3 4 75.0 7 2 9 0 1 0 1 2 7
+p505
+aVChris Whitney WAS 12/31/1997 WAS vs. TOR W 17 7 2 5 40.0 1 3 33.3 2 2 100.0 0 1 1 4 0 0 1 1 8
+p506
+aVJuwan Howard WAS 12/31/1997 WAS vs. TOR W 37 10 4 12 33.3 0 0 - 2 2 100.0 1 8 9 3 2 0 2 1 20
+p507
+aVHarvey Grant WAS 12/31/1997 WAS vs. TOR W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p508
+aVRod Strickland WAS 12/31/1997 WAS vs. TOR W 35 17 6 7 85.7 0 0 - 5 7 71.4 1 3 4 12 3 0 2 2 27
+p509
+aVLedell Eackles WAS 12/31/1997 WAS vs. TOR W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p510
+aVChris Webber WAS 12/31/1997 WAS vs. TOR W 35 22 9 14 64.3 2 2 100.0 2 2 100.0 1 7 8 6 1 0 2 3 28
+p511
+aVBen Wallace WAS 12/31/1997 WAS vs. TOR W 8 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 1 0 1 1
+p512
+aVTracy Murray WAS 12/31/1997 WAS vs. TOR W 24 22 9 13 69.2 4 5 80.0 0 0 - 0 2 2 4 0 1 5 3 17
+p513
+aVCalbert Cheaney WAS 12/31/1997 WAS vs. TOR W 31 21 9 12 75.0 0 0 - 3 4 75.0 1 1 2 2 2 2 3 3 24
+p514
+aVTracy Murray WAS 12/29/1997 WAS @ NJN L 20 3 0 7 0.0 0 5 0.0 3 4 75.0 0 1 1 0 1 0 1 1 -12
+p515
+aVTerry Davis WAS 12/29/1997 WAS @ NJN L 23 8 3 4 75.0 0 0 - 2 4 50.0 3 3 6 0 1 0 1 2 -10
+p516
+aVChris Webber WAS 12/29/1997 WAS @ NJN L 33 22 8 15 53.3 1 4 25.0 5 6 83.3 1 4 5 1 2 3 1 6 0
+p517
+aVJuwan Howard WAS 12/29/1997 WAS @ NJN L 39 20 6 13 46.2 0 0 - 8 12 66.7 2 6 8 2 5 1 4 3 -3
+p518
+aVHarvey Grant WAS 12/29/1997 WAS @ NJN L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p519
+aVChris Whitney WAS 12/29/1997 WAS @ NJN L 15 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 2 2 0 1 2 10
+p520
+aVCalbert Cheaney WAS 12/29/1997 WAS @ NJN L 26 7 3 9 33.3 0 0 - 1 2 50.0 2 1 3 1 1 0 3 3 -14
+p521
+aVRod Strickland WAS 12/29/1997 WAS @ NJN L 42 15 7 15 46.7 0 1 0.0 1 4 25.0 2 4 6 10 0 0 6 3 -12
+p522
+aVDarvin Ham WAS 12/29/1997 WAS @ NJN L 10 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 1 0 0 5 -9
+p523
+aVBen Wallace WAS 12/29/1997 WAS @ NJN L 14 6 3 5 60.0 0 0 - 0 0 - 3 2 5 0 0 0 0 2 6
+p524
+aVLedell Eackles WAS 12/29/1997 WAS @ NJN L 15 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 2 4
+p525
+aVLedell Eackles WAS 12/27/1997 WAS @ HOU L 14 4 2 7 28.6 0 0 - 0 0 - 3 3 6 0 1 0 0 0 6
+p526
+aVCalbert Cheaney WAS 12/27/1997 WAS @ HOU L 35 11 5 10 50.0 0 0 - 1 2 50.0 1 0 1 2 1 0 0 1 -19
+p527
+aVChris Webber WAS 12/27/1997 WAS @ HOU L 43 26 12 21 57.1 0 2 0.0 2 3 66.7 2 9 11 3 3 3 2 3 -10
+p528
+aVTracy Murray WAS 12/27/1997 WAS @ HOU L 26 21 9 14 64.3 2 3 66.7 1 2 50.0 2 3 5 0 2 0 1 4 11
+p529
+aVChris Whitney WAS 12/27/1997 WAS @ HOU L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 5 1 0 0 0 3
+p530
+aVTerry Davis WAS 12/27/1997 WAS @ HOU L 15 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 0 1 1 -8
+p531
+aVDarvin Ham WAS 12/27/1997 WAS @ HOU L 11 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 2 -1
+p532
+aVBen Wallace WAS 12/27/1997 WAS @ HOU L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 0 -4
+p533
+aVRod Strickland WAS 12/27/1997 WAS @ HOU L 39 14 4 13 30.8 0 0 - 6 8 75.0 0 2 2 16 0 0 4 1 -16
+p534
+aVJuwan Howard WAS 12/27/1997 WAS @ HOU L 42 20 7 12 58.3 0 0 - 6 10 60.0 2 7 9 5 0 1 5 5 -12
+p535
+aVLedell Eackles WAS 12/26/1997 WAS @ DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p536
+aVBen Wallace WAS 12/26/1997 WAS @ DAL W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 2 0 1 -5
+p537
+aVChris Whitney WAS 12/26/1997 WAS @ DAL W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 2 2
+p538
+aVJuwan Howard WAS 12/26/1997 WAS @ DAL W 44 20 9 20 45.0 0 0 - 2 4 50.0 1 7 8 4 0 2 5 4 4
+p539
+aVCalbert Cheaney WAS 12/26/1997 WAS @ DAL W 43 21 9 15 60.0 0 0 - 3 5 60.0 2 3 5 1 2 0 0 2 3
+p540
+aVRod Strickland WAS 12/26/1997 WAS @ DAL W 43 13 3 15 20.0 0 0 - 7 12 58.3 3 1 4 14 2 0 2 0 4
+p541
+aVTerry Davis WAS 12/26/1997 WAS @ DAL W 26 4 1 2 50.0 0 0 - 2 4 50.0 5 5 10 0 0 2 0 3 13
+p542
+aVHarvey Grant WAS 12/26/1997 WAS @ DAL W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p543
+aVTracy Murray WAS 12/26/1997 WAS @ DAL W 28 20 7 14 50.0 1 3 33.3 5 7 71.4 1 5 6 0 3 1 1 3 -5
+p544
+aVChris Webber WAS 12/26/1997 WAS @ DAL W 27 17 8 16 50.0 1 4 25.0 0 1 0.0 0 3 3 1 4 0 1 4 10
+p545
+aVDarvin Ham WAS 12/26/1997 WAS @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p546
+aVJuwan Howard WAS 12/22/1997 WAS @ MIL W 41 25 8 15 53.3 0 0 - 9 12 75.0 2 8 10 3 2 0 2 3 20
+p547
+aVHarvey Grant WAS 12/22/1997 WAS @ MIL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 6
+p548
+aVRod Strickland WAS 12/22/1997 WAS @ MIL W 39 19 8 14 57.1 0 0 - 3 3 100.0 1 3 4 10 1 0 6 0 22
+p549
+aVCalbert Cheaney WAS 12/22/1997 WAS @ MIL W 35 12 5 8 62.5 0 0 - 2 2 100.0 0 2 2 4 3 1 2 1 20
+p550
+aVChris Webber WAS 12/22/1997 WAS @ MIL W 35 23 8 13 61.5 0 0 - 7 9 77.8 2 4 6 2 3 1 5 3 22
+p551
+aVTracy Murray WAS 12/22/1997 WAS @ MIL W 27 14 6 8 75.0 2 3 66.7 0 0 - 1 2 3 1 0 0 1 1 11
+p552
+aVBen Wallace WAS 12/22/1997 WAS @ MIL W 10 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 1 1 0 4 9
+p553
+aVChris Whitney WAS 12/22/1997 WAS @ MIL W 12 6 2 3 66.7 2 2 100.0 0 0 - 0 3 3 5 1 0 1 2 14
+p554
+aVDarvin Ham WAS 12/22/1997 WAS @ MIL W 22 3 1 2 50.0 0 0 - 1 2 50.0 1 4 5 0 1 1 2 4 23
+p555
+aVLedell Eackles WAS 12/22/1997 WAS @ MIL W 15 8 3 5 60.0 1 1 100.0 1 2 50.0 0 3 3 1 1 0 1 3 8
+p556
+aVRod Strickland WAS 12/20/1997 WAS @ TOR W 44 18 8 16 50.0 0 1 0.0 2 4 50.0 2 5 7 6 1 3 4 1 0
+p557
+aVChris Whitney WAS 12/20/1997 WAS @ TOR W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 2
+p558
+aVCalbert Cheaney WAS 12/20/1997 WAS @ TOR W 39 13 6 12 50.0 0 0 - 1 1 100.0 2 4 6 5 2 0 1 0 -2
+p559
+aVJuwan Howard WAS 12/20/1997 WAS @ TOR W 41 15 6 13 46.2 0 0 - 3 7 42.9 2 7 9 7 0 0 0 2 2
+p560
+aVLedell Eackles WAS 12/20/1997 WAS @ TOR W 13 7 2 4 50.0 1 2 50.0 2 2 100.0 1 1 2 0 0 0 0 1 5
+p561
+aVTracy Murray WAS 12/20/1997 WAS @ TOR W 24 9 3 12 25.0 3 9 33.3 0 0 - 3 0 3 3 1 2 0 0 5
+p562
+aVHarvey Grant WAS 12/20/1997 WAS @ TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p563
+aVDarvin Ham WAS 12/20/1997 WAS @ TOR W 28 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 2 0 2 2 3 -6
+p564
+aVChris Webber WAS 12/20/1997 WAS @ TOR W 43 28 13 23 56.5 0 1 0.0 2 5 40.0 5 7 12 2 3 1 7 3 7
+p565
+aVTerry Davis WAS 12/19/1997 WAS vs. CHH W 17 6 3 3 100.0 0 0 - 0 1 0.0 1 5 6 2 0 1 0 0 13
+p566
+aVTracy Murray WAS 12/19/1997 WAS vs. CHH W 19 12 3 6 50.0 3 5 60.0 3 3 100.0 0 0 0 1 0 0 0 1 2
+p567
+aVChris Whitney WAS 12/19/1997 WAS vs. CHH W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 2 0 0 0 -9
+p568
+aVChris Webber WAS 12/19/1997 WAS vs. CHH W 40 24 11 22 50.0 1 1 100.0 1 1 100.0 6 13 19 7 5 2 2 3 37
+p569
+aVBen Wallace WAS 12/19/1997 WAS vs. CHH W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -5
+p570
+aVDarvin Ham WAS 12/19/1997 WAS vs. CHH W 21 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 0 1 1 5 5
+p571
+aVRod Strickland WAS 12/19/1997 WAS vs. CHH W 42 8 4 15 26.7 0 0 - 0 0 - 3 3 6 15 1 0 5 4 27
+p572
+aVLedell Eackles WAS 12/19/1997 WAS vs. CHH W 14 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -13
+p573
+aVJuwan Howard WAS 12/19/1997 WAS vs. CHH W 39 26 11 18 61.1 0 0 - 4 4 100.0 2 3 5 1 1 0 2 5 18
+p574
+aVHarvey Grant WAS 12/19/1997 WAS vs. CHH W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p575
+aVCalbert Cheaney WAS 12/19/1997 WAS vs. CHH W 34 16 6 10 60.0 0 0 - 4 4 100.0 0 7 7 2 0 0 3 3 33
+p576
+aVLedell Eackles WAS 12/17/1997 WAS vs. MIA W 16 14 4 8 50.0 1 1 100.0 5 5 100.0 0 0 0 0 1 0 0 0 9
+p577
+aVJuwan Howard WAS 12/17/1997 WAS vs. MIA W 39 8 3 13 23.1 0 0 - 2 4 50.0 2 2 4 1 1 1 1 5 6
+p578
+aVChris Whitney WAS 12/17/1997 WAS vs. MIA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p579
+aVDarvin Ham WAS 12/17/1997 WAS vs. MIA W 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 1 0 2 8
+p580
+aVCalbert Cheaney WAS 12/17/1997 WAS vs. MIA W 31 17 7 11 63.6 0 0 - 3 5 60.0 0 1 1 2 0 0 2 2 9
+p581
+aVTerry Davis WAS 12/17/1997 WAS vs. MIA W 27 3 1 4 25.0 0 1 0.0 1 2 50.0 4 2 6 1 2 1 2 4 11
+p582
+aVRod Strickland WAS 12/17/1997 WAS vs. MIA W 42 21 7 12 58.3 0 0 - 7 9 77.8 2 6 8 8 4 0 2 3 18
+p583
+aVTracy Murray WAS 12/17/1997 WAS vs. MIA W 21 11 4 12 33.3 2 5 40.0 1 1 100.0 1 3 4 2 2 0 0 1 6
+p584
+aVChris Webber WAS 12/17/1997 WAS vs. MIA W 42 12 4 20 20.0 0 2 0.0 4 5 80.0 4 6 10 5 5 2 2 3 7
+p585
+aVTracy Murray WAS 12/15/1997 WAS vs. UTA W 25 13 4 11 36.4 1 4 25.0 4 5 80.0 1 7 8 1 0 0 0 1 12
+p586
+aVTerry Davis WAS 12/15/1997 WAS vs. UTA W 36 5 0 1 0.0 0 0 - 5 6 83.3 5 8 13 0 5 0 2 5 -2
+p587
+aVLorenzo Williams WAS 12/15/1997 WAS vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p588
+aVChris Whitney WAS 12/15/1997 WAS vs. UTA W 7 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 5
+p589
+aVRod Strickland WAS 12/15/1997 WAS vs. UTA W 41 13 4 16 25.0 0 1 0.0 5 8 62.5 2 6 8 13 0 1 7 3 -1
+p590
+aVChris Webber WAS 12/15/1997 WAS vs. UTA W 35 11 5 17 29.4 0 2 0.0 1 1 100.0 0 2 2 1 1 5 2 4 -14
+p591
+aVDarvin Ham WAS 12/15/1997 WAS vs. UTA W 9 4 2 3 66.7 0 0 - 0 0 - 4 0 4 0 0 0 0 0 3
+p592
+aVCalbert Cheaney WAS 12/15/1997 WAS vs. UTA W 27 10 5 12 41.7 0 0 - 0 0 - 2 2 4 0 1 0 1 4 -7
+p593
+aVJuwan Howard WAS 12/15/1997 WAS vs. UTA W 46 21 7 19 36.8 0 0 - 7 10 70.0 5 2 7 5 3 1 2 4 6
+p594
+aVLedell Eackles WAS 12/15/1997 WAS vs. UTA W 14 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 0 8
+p595
+aVHarvey Grant WAS 12/13/1997 WAS @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 0
+p596
+aVTracy Murray WAS 12/13/1997 WAS @ IND L 24 9 4 10 40.0 1 4 25.0 0 0 - 0 5 5 0 1 0 0 1 -7
+p597
+aVLedell Eackles WAS 12/13/1997 WAS @ IND L 14 5 2 7 28.6 0 0 - 1 1 100.0 1 0 1 1 0 0 0 1 -18
+p598
+aVJuwan Howard WAS 12/13/1997 WAS @ IND L 43 18 6 17 35.3 0 0 - 6 8 75.0 3 3 6 6 0 0 0 6 -19
+p599
+aVCalbert Cheaney WAS 12/13/1997 WAS @ IND L 38 13 5 11 45.5 0 1 0.0 3 4 75.0 1 3 4 1 0 0 1 3 -10
+p600
+aVDarvin Ham WAS 12/13/1997 WAS @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p601
+aVLorenzo Williams WAS 12/13/1997 WAS @ IND L 20 2 1 3 33.3 0 0 - 0 0 - 3 3 6 0 0 2 0 3 3
+p602
+aVRod Strickland WAS 12/13/1997 WAS @ IND L 39 8 3 12 25.0 0 0 - 2 4 50.0 1 5 6 9 4 0 3 2 -16
+p603
+aVChris Webber WAS 12/13/1997 WAS @ IND L 43 31 12 20 60.0 0 2 0.0 7 10 70.0 3 3 6 2 1 2 5 5 -17
+p604
+aVChris Whitney WAS 12/13/1997 WAS @ IND L 9 6 1 2 50.0 0 1 0.0 4 4 100.0 0 1 1 2 0 0 0 0 -1
+p605
+aVHarvey Grant WAS 12/12/1997 WAS @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p606
+aVCalbert Cheaney WAS 12/12/1997 WAS @ BOS L 33 14 6 11 54.5 0 0 - 2 2 100.0 3 4 7 1 0 0 2 4 -4
+p607
+aVChris Webber WAS 12/12/1997 WAS @ BOS L 43 20 10 19 52.6 0 4 0.0 0 0 - 2 9 11 1 3 0 4 4 -6
+p608
+aVLedell Eackles WAS 12/12/1997 WAS @ BOS L 14 6 1 4 25.0 1 2 50.0 3 4 75.0 2 2 4 0 0 0 4 2 7
+p609
+aVRod Strickland WAS 12/12/1997 WAS @ BOS L 38 7 3 11 27.3 0 0 - 1 5 20.0 0 1 1 5 0 0 2 3 -8
+p610
+aVTerry Davis WAS 12/12/1997 WAS @ BOS L 15 4 2 3 66.7 0 0 - 0 0 - 4 4 8 0 0 0 1 0 -11
+p611
+aVJuwan Howard WAS 12/12/1997 WAS @ BOS L 45 22 6 12 50.0 0 0 - 10 12 83.3 4 3 7 4 1 0 7 3 -13
+p612
+aVTracy Murray WAS 12/12/1997 WAS @ BOS L 33 13 3 11 27.3 1 5 20.0 6 8 75.0 2 5 7 3 1 1 2 3 -3
+p613
+aVChris Whitney WAS 12/12/1997 WAS @ BOS L 15 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 5 0 0 1 0 -5
+p614
+aVChris Webber WAS 12/10/1997 WAS @ CHH L 38 15 6 15 40.0 3 5 60.0 0 2 0.0 1 7 8 6 1 0 4 5 -2
+p615
+aVRod Strickland WAS 12/10/1997 WAS @ CHH L 36 10 3 14 21.4 0 1 0.0 4 4 100.0 2 0 2 8 0 0 4 0 -12
+p616
+aVCalbert Cheaney WAS 12/10/1997 WAS @ CHH L 40 10 4 10 40.0 0 0 - 2 2 100.0 1 7 8 2 2 0 1 4 -4
+p617
+aVLedell Eackles WAS 12/10/1997 WAS @ CHH L 24 24 8 11 72.7 4 6 66.7 4 5 80.0 1 1 2 0 1 0 2 1 7
+p618
+aVLorenzo Williams WAS 12/10/1997 WAS @ CHH L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p619
+aVTerry Davis WAS 12/10/1997 WAS @ CHH L 23 6 3 5 60.0 0 0 - 0 0 - 5 7 12 0 0 0 2 2 -9
+p620
+aVJuwan Howard WAS 12/10/1997 WAS @ CHH L 34 23 8 18 44.4 0 0 - 7 7 100.0 3 4 7 1 1 0 6 5 6
+p621
+aVChris Whitney WAS 12/10/1997 WAS @ CHH L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 2 0 0 0 1 9
+p622
+aVTracy Murray WAS 12/10/1997 WAS @ CHH L 22 9 3 7 42.9 1 2 50.0 2 2 100.0 1 1 2 1 0 0 2 1 -13
+p623
+aVHarvey Grant WAS 12/10/1997 WAS @ CHH L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 1 0 1 4
+p624
+aVDarvin Ham WAS 12/09/1997 WAS vs. NJN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p625
+aVHarvey Grant WAS 12/09/1997 WAS vs. NJN W 12 5 1 1 100.0 0 0 - 3 4 75.0 1 2 3 0 0 0 1 1 -5
+p626
+aVBen Wallace WAS 12/09/1997 WAS vs. NJN W 2 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 1 0 0 3
+p627
+aVChris Whitney WAS 12/09/1997 WAS vs. NJN W 12 12 3 5 60.0 1 1 100.0 5 5 100.0 0 0 0 2 1 0 0 1 2
+p628
+aVCalbert Cheaney WAS 12/09/1997 WAS vs. NJN W 33 15 6 10 60.0 0 0 - 3 4 75.0 0 6 6 1 0 0 0 2 24
+p629
+aVTracy Murray WAS 12/09/1997 WAS vs. NJN W 30 26 9 16 56.3 7 11 63.6 1 1 100.0 0 1 1 3 0 0 2 2 2
+p630
+aVJuwan Howard WAS 12/09/1997 WAS vs. NJN W 36 18 8 16 50.0 0 0 - 2 2 100.0 1 4 5 3 1 1 4 3 13
+p631
+aVRod Strickland WAS 12/09/1997 WAS vs. NJN W 42 23 7 9 77.8 0 0 - 9 10 90.0 1 5 6 14 3 1 5 3 21
+p632
+aVChris Webber WAS 12/09/1997 WAS vs. NJN W 31 14 7 14 50.0 0 0 - 0 3 0.0 3 12 15 8 0 3 5 6 21
+p633
+aVTerry Davis WAS 12/09/1997 WAS vs. NJN W 30 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 3 1 2 11
+p634
+aVLedell Eackles WAS 12/09/1997 WAS vs. NJN W 10 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 1 0 1 2 13
+p635
+aVChris Webber WAS 12/06/1997 WAS vs. MIN W 45 33 11 19 57.9 2 5 40.0 9 10 90.0 1 11 12 4 2 1 2 3 9
+p636
+aVChris Whitney WAS 12/06/1997 WAS vs. MIN W 7 6 0 1 0.0 0 0 - 6 6 100.0 0 1 1 1 0 0 0 1 3
+p637
+aVBen Wallace WAS 12/06/1997 WAS vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p638
+aVCalbert Cheaney WAS 12/06/1997 WAS vs. MIN W 35 8 4 13 30.8 0 0 - 0 1 0.0 2 2 4 3 3 1 1 3 7
+p639
+aVJuwan Howard WAS 12/06/1997 WAS vs. MIN W 42 26 9 15 60.0 0 0 - 8 10 80.0 3 4 7 3 3 0 2 4 15
+p640
+aVTerry Davis WAS 12/06/1997 WAS vs. MIN W 23 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 3
+p641
+aVHarvey Grant WAS 12/06/1997 WAS vs. MIN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -4
+p642
+aVRod Strickland WAS 12/06/1997 WAS vs. MIN W 41 17 5 11 45.5 0 1 0.0 7 7 100.0 2 3 5 10 1 2 5 6 8
+p643
+aVTracy Murray WAS 12/06/1997 WAS vs. MIN W 26 20 8 12 66.7 3 6 50.0 1 1 100.0 0 1 1 3 1 0 2 3 10
+p644
+aVLedell Eackles WAS 12/06/1997 WAS vs. MIN W 13 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 4
+p645
+aVDarvin Ham WAS 12/06/1997 WAS vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p646
+aVBen Wallace WAS 12/04/1997 WAS vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 2 1 0 2
+p647
+aVTerry Davis WAS 12/04/1997 WAS vs. SAC W 28 6 2 5 40.0 0 0 - 2 2 100.0 3 4 7 0 0 1 0 3 25
+p648
+aVChris Whitney WAS 12/04/1997 WAS vs. SAC W 16 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 4 0 0 2 4 1
+p649
+aVDarvin Ham WAS 12/04/1997 WAS vs. SAC W 6 3 1 3 33.3 0 0 - 1 2 50.0 3 2 5 0 0 0 0 1 2
+p650
+aVCalbert Cheaney WAS 12/04/1997 WAS vs. SAC W 23 10 5 6 83.3 0 0 - 0 0 - 0 1 1 3 3 0 0 4 15
+p651
+aVJuwan Howard WAS 12/04/1997 WAS vs. SAC W 41 22 8 14 57.1 0 0 - 6 8 75.0 2 1 3 7 2 1 2 3 17
+p652
+aVChris Webber WAS 12/04/1997 WAS vs. SAC W 37 26 12 25 48.0 0 1 0.0 2 5 40.0 5 9 14 3 0 1 1 3 17
+p653
+aVLedell Eackles WAS 12/04/1997 WAS vs. SAC W 24 11 5 8 62.5 0 0 - 1 2 50.0 3 1 4 1 1 0 2 2 7
+p654
+aVTracy Murray WAS 12/04/1997 WAS vs. SAC W 29 16 6 15 40.0 1 5 20.0 3 4 75.0 2 8 10 0 1 0 2 3 3
+p655
+aVRod Strickland WAS 12/04/1997 WAS vs. SAC W 32 16 7 11 63.6 0 0 - 2 3 66.7 2 5 7 10 3 0 3 1 21
+p656
+aVTerry Davis WAS 12/02/1997 WAS vs. SEA W 33 14 7 10 70.0 0 0 - 0 0 - 4 6 10 0 2 0 1 2 14
+p657
+aVChris Whitney WAS 12/02/1997 WAS vs. SEA W 11 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 1 0 0 1 10
+p658
+aVRod Strickland WAS 12/02/1997 WAS vs. SEA W 39 13 6 16 37.5 1 2 50.0 0 0 - 0 7 7 9 2 1 4 2 8
+p659
+aVChris Webber WAS 12/02/1997 WAS vs. SEA W 40 10 4 12 33.3 0 0 - 2 2 100.0 4 6 10 6 0 1 2 3 7
+p660
+aVJuwan Howard WAS 12/02/1997 WAS vs. SEA W 40 18 8 17 47.1 0 0 - 2 4 50.0 6 4 10 2 4 0 2 1 8
+p661
+aVDarvin Ham WAS 12/02/1997 WAS vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p662
+aVLedell Eackles WAS 12/02/1997 WAS vs. SEA W 6 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p663
+aVBen Wallace WAS 12/02/1997 WAS vs. SEA W 5 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 4
+p664
+aVCalbert Cheaney WAS 12/02/1997 WAS vs. SEA W 37 12 5 13 38.5 0 1 0.0 2 2 100.0 1 0 1 3 0 0 2 2 11
+p665
+aVTracy Murray WAS 12/02/1997 WAS vs. SEA W 27 18 6 13 46.2 4 7 57.1 2 2 100.0 3 2 5 1 0 1 0 2 20
+p666
+aVChris Webber WAS 11/29/1997 WAS vs. CHI L 38 21 10 22 45.5 0 5 0.0 1 2 50.0 2 7 9 2 2 1 1 2 -3
+p667
+aVChris Whitney WAS 11/29/1997 WAS vs. CHI L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 1 -4
+p668
+aVRod Strickland WAS 11/29/1997 WAS vs. CHI L 41 15 3 15 20.0 0 0 - 9 10 90.0 1 7 8 13 2 0 5 3 -1
+p669
+aVCalbert Cheaney WAS 11/29/1997 WAS vs. CHI L 38 12 4 12 33.3 1 1 100.0 3 4 75.0 0 3 3 1 3 0 1 6 -2
+p670
+aVDarvin Ham WAS 11/29/1997 WAS vs. CHI L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p671
+aVJuwan Howard WAS 11/29/1997 WAS vs. CHI L 48 22 10 23 43.5 0 0 - 2 4 50.0 5 6 11 5 1 0 3 3 -5
+p672
+aVTerry Davis WAS 11/29/1997 WAS vs. CHI L 25 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 1 0 0 1 8
+p673
+aVLorenzo Williams WAS 11/29/1997 WAS vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p674
+aVTracy Murray WAS 11/29/1997 WAS vs. CHI L 27 5 2 4 50.0 1 2 50.0 0 0 - 1 2 3 2 0 0 1 4 -7
+p675
+aVLedell Eackles WAS 11/29/1997 WAS vs. CHI L 9 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 -2
+p676
+aVTerry Davis WAS 11/26/1997 WAS @ SAS W 40 4 2 5 40.0 0 0 - 0 0 - 1 7 8 1 0 0 0 6 7
+p677
+aVRod Strickland WAS 11/26/1997 WAS @ SAS W 44 23 8 11 72.7 0 0 - 7 13 53.8 2 3 5 17 3 1 2 4 4
+p678
+aVChris Webber WAS 11/26/1997 WAS @ SAS W 36 24 11 23 47.8 2 4 50.0 0 2 0.0 2 4 6 1 8 3 3 5 3
+p679
+aVCalbert Cheaney WAS 11/26/1997 WAS @ SAS W 44 15 6 13 46.2 0 1 0.0 3 8 37.5 1 3 4 3 1 1 1 3 -2
+p680
+aVTracy Murray WAS 11/26/1997 WAS @ SAS W 22 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 0 0 0 1 3 -2
+p681
+aVChris Whitney WAS 11/26/1997 WAS @ SAS W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 6
+p682
+aVJuwan Howard WAS 11/26/1997 WAS @ SAS W 47 25 11 18 61.1 0 0 - 3 7 42.9 2 5 7 2 0 1 1 4 4
+p683
+aVHarvey Grant WAS 11/24/1997 WAS @ ORL L 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 0 1 -7
+p684
+aVLorenzo Williams WAS 11/24/1997 WAS @ ORL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p685
+aVTerry Davis WAS 11/24/1997 WAS @ ORL L 19 0 0 3 0.0 0 0 - 0 0 - 4 4 8 0 0 0 0 3 0
+p686
+aVChris Webber WAS 11/24/1997 WAS @ ORL L 42 29 12 28 42.9 1 6 16.7 4 6 66.7 6 10 16 3 0 1 1 2 -6
+p687
+aVCalbert Cheaney WAS 11/24/1997 WAS @ ORL L 26 11 5 10 50.0 1 1 100.0 0 3 0.0 0 1 1 1 0 0 2 5 -1
+p688
+aVTracy Murray WAS 11/24/1997 WAS @ ORL L 31 13 5 17 29.4 3 6 50.0 0 0 - 6 2 8 1 0 0 2 5 -6
+p689
+aVChris Whitney WAS 11/24/1997 WAS @ ORL L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p690
+aVBen Wallace WAS 11/24/1997 WAS @ ORL L 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 2 1 0 1 5
+p691
+aVJuwan Howard WAS 11/24/1997 WAS @ ORL L 41 20 9 16 56.3 0 0 - 2 3 66.7 2 2 4 3 1 1 1 2 -11
+p692
+aVRod Strickland WAS 11/24/1997 WAS @ ORL L 43 9 4 15 26.7 0 0 - 1 2 50.0 2 2 4 14 1 1 2 2 -1
+p693
+aVDarvin Ham WAS 11/24/1997 WAS @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p694
+aVCalbert Cheaney WAS 11/22/1997 WAS @ CLE L 36 4 2 8 25.0 0 0 - 0 0 - 0 1 1 2 1 0 4 2 -13
+p695
+aVBen Wallace WAS 11/22/1997 WAS @ CLE L 11 0 0 0 - 0 0 - 0 2 0.0 1 3 4 0 0 1 1 1 5
+p696
+aVRod Strickland WAS 11/22/1997 WAS @ CLE L 47 27 11 20 55.0 0 1 0.0 5 10 50.0 3 4 7 17 1 1 6 2 -10
+p697
+aVChris Webber WAS 11/22/1997 WAS @ CLE L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p698
+aVJuwan Howard WAS 11/22/1997 WAS @ CLE L 40 24 11 22 50.0 0 0 - 2 2 100.0 3 5 8 3 3 1 4 5 -6
+p699
+aVChris Whitney WAS 11/22/1997 WAS @ CLE L 15 11 4 10 40.0 3 6 50.0 0 0 - 0 1 1 1 0 1 0 3 5
+p700
+aVDarvin Ham WAS 11/22/1997 WAS @ CLE L 13 7 2 3 66.7 0 0 - 3 6 50.0 2 0 2 1 0 0 0 2 -6
+p701
+aVTracy Murray WAS 11/22/1997 WAS @ CLE L 34 20 8 13 61.5 2 5 40.0 2 2 100.0 1 3 4 2 0 1 2 3 -2
+p702
+aVTerry Davis WAS 11/22/1997 WAS @ CLE L 32 6 2 4 50.0 0 0 - 2 4 50.0 4 5 9 2 1 0 2 6 -19
+p703
+aVGod Shammgod WAS 11/22/1997 WAS @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p704
+aVHarvey Grant WAS 11/22/1997 WAS @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p705
+aVLorenzo Williams WAS 11/22/1997 WAS @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p706
+aVJuwan Howard WAS 11/21/1997 WAS vs. NYK L 39 11 4 16 25.0 0 0 - 3 4 75.0 2 6 8 4 3 0 4 5 -18
+p707
+aVChris Whitney WAS 11/21/1997 WAS vs. NYK L 14 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 1 2 0 1 1 -7
+p708
+aVRod Strickland WAS 11/21/1997 WAS vs. NYK L 36 14 6 15 40.0 0 0 - 2 4 50.0 2 4 6 7 2 0 3 1 -16
+p709
+aVDarvin Ham WAS 11/21/1997 WAS vs. NYK L 19 6 2 2 100.0 0 0 - 2 6 33.3 3 2 5 0 0 1 0 0 -6
+p710
+aVGod Shammgod WAS 11/21/1997 WAS vs. NYK L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p711
+aVChris Webber WAS 11/21/1997 WAS vs. NYK L 30 15 5 17 29.4 2 5 40.0 3 4 75.0 0 6 6 2 0 2 1 4 -7
+p712
+aVTracy Murray WAS 11/21/1997 WAS vs. NYK L 19 9 3 9 33.3 1 2 50.0 2 2 100.0 3 1 4 0 2 0 1 1 -5
+p713
+aVBen Wallace WAS 11/21/1997 WAS vs. NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -6
+p714
+aVHarvey Grant WAS 11/21/1997 WAS vs. NYK L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -14
+p715
+aVCalbert Cheaney WAS 11/21/1997 WAS vs. NYK L 42 13 5 10 50.0 0 0 - 3 4 75.0 1 2 3 3 2 0 1 3 -23
+p716
+aVTerry Davis WAS 11/21/1997 WAS vs. NYK L 29 12 5 8 62.5 0 0 - 2 2 100.0 4 1 5 1 1 0 0 3 -2
+p717
+aVRod Strickland WAS 11/19/1997 WAS @ PHI L 37 8 2 11 18.2 0 1 0.0 4 5 80.0 4 6 10 13 1 0 2 4 -12
+p718
+aVChris Whitney WAS 11/19/1997 WAS @ PHI L 23 9 4 11 36.4 1 2 50.0 0 0 - 0 2 2 5 0 0 0 4 4
+p719
+aVTracy Murray WAS 11/19/1997 WAS @ PHI L 28 24 8 15 53.3 2 9 22.2 6 6 100.0 0 5 5 1 0 0 1 5 -5
+p720
+aVTerry Davis WAS 11/19/1997 WAS @ PHI L 23 8 3 8 37.5 0 0 - 2 3 66.7 3 4 7 1 3 1 1 2 -5
+p721
+aVLorenzo Williams WAS 11/19/1997 WAS @ PHI L 5 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 1 0 2 4
+p722
+aVHarvey Grant WAS 11/19/1997 WAS @ PHI L 28 8 4 9 44.4 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -8
+p723
+aVCalbert Cheaney WAS 11/19/1997 WAS @ PHI L 35 11 5 12 41.7 0 0 - 1 6 16.7 2 4 6 4 3 1 3 3 -9
+p724
+aVJuwan Howard WAS 11/19/1997 WAS @ PHI L 40 15 7 18 38.9 0 1 0.0 1 2 50.0 2 6 8 2 0 0 4 4 -11
+p725
+aVDarvin Ham WAS 11/19/1997 WAS @ PHI L 11 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 3 0 2 -3
+p726
+aVBen Wallace WAS 11/19/1997 WAS @ PHI L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p727
+aVJuwan Howard WAS 11/18/1997 WAS @ ATL L 48 20 8 19 42.1 0 0 - 4 4 100.0 4 4 8 1 1 1 4 5 -6
+p728
+aVDarvin Ham WAS 11/18/1997 WAS @ ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p729
+aVHarvey Grant WAS 11/18/1997 WAS @ ATL L 33 5 2 12 16.7 0 0 - 1 2 50.0 3 5 8 0 1 2 0 6 -7
+p730
+aVBen Wallace WAS 11/18/1997 WAS @ ATL L 3 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 0
+p731
+aVCalbert Cheaney WAS 11/18/1997 WAS @ ATL L 43 14 7 15 46.7 0 0 - 0 0 - 1 5 6 0 1 0 1 4 -9
+p732
+aVLorenzo Williams WAS 11/18/1997 WAS @ ATL L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p733
+aVTerry Davis WAS 11/18/1997 WAS @ ATL L 38 3 1 8 12.5 0 0 - 1 2 50.0 4 8 12 0 0 2 2 6 -2
+p734
+aVTracy Murray WAS 11/18/1997 WAS @ ATL L 31 11 4 15 26.7 1 4 25.0 2 2 100.0 3 4 7 1 1 1 2 4 -5
+p735
+aVRod Strickland WAS 11/18/1997 WAS @ ATL L 46 24 9 15 60.0 2 4 50.0 4 4 100.0 1 6 7 10 2 1 2 2 -9
+p736
+aVChris Whitney WAS 11/18/1997 WAS @ ATL L 14 5 1 4 25.0 1 4 25.0 2 2 100.0 1 0 1 1 1 1 1 1 1
+p737
+aVDarvin Ham WAS 11/15/1997 WAS vs. ORL L 31 6 3 6 50.0 0 0 - 0 0 - 6 3 9 1 0 0 0 6 -10
+p738
+aVChris Whitney WAS 11/15/1997 WAS vs. ORL L 15 7 2 7 28.6 1 3 33.3 2 2 100.0 1 1 2 3 1 0 1 2 -3
+p739
+aVCalbert Cheaney WAS 11/15/1997 WAS vs. ORL L 42 19 9 21 42.9 0 0 - 1 1 100.0 2 2 4 2 0 0 0 4 -15
+p740
+aVBen Wallace WAS 11/15/1997 WAS vs. ORL L 11 2 1 2 50.0 0 0 - 0 3 0.0 1 4 5 0 0 0 0 0 -6
+p741
+aVRod Strickland WAS 11/15/1997 WAS vs. ORL L 41 24 10 20 50.0 1 1 100.0 3 6 50.0 1 3 4 9 1 0 4 4 -8
+p742
+aVTerry Davis WAS 11/15/1997 WAS vs. ORL L 35 8 4 7 57.1 0 0 - 0 0 - 5 4 9 0 1 1 1 6 2
+p743
+aVTracy Murray WAS 11/15/1997 WAS vs. ORL L 39 23 9 20 45.0 3 5 60.0 2 2 100.0 1 3 4 2 0 1 1 2 -2
+p744
+aVLorenzo Williams WAS 11/15/1997 WAS vs. ORL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p745
+aVHarvey Grant WAS 11/15/1997 WAS vs. ORL L 22 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 0 1 5 -10
+p746
+aVGod Shammgod WAS 11/15/1997 WAS vs. ORL L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p747
+aVCalbert Cheaney WAS 11/13/1997 WAS @ MIN W 45 12 6 17 35.3 0 1 0.0 0 2 0.0 0 8 8 1 1 0 1 3 2
+p748
+aVChris Webber WAS 11/13/1997 WAS @ MIN W 46 22 9 21 42.9 0 2 0.0 4 6 66.7 5 12 17 4 3 4 6 5 -4
+p749
+aVBen Wallace WAS 11/13/1997 WAS @ MIN W 21 4 2 2 100.0 0 0 - 0 0 - 2 6 8 0 3 0 2 2 11
+p750
+aVTerry Davis WAS 11/13/1997 WAS @ MIN W 32 11 4 5 80.0 0 0 - 3 6 50.0 4 8 12 0 1 0 2 5 -8
+p751
+aVDarvin Ham WAS 11/13/1997 WAS @ MIN W 12 3 1 1 100.0 0 0 - 1 4 25.0 2 0 2 0 0 0 1 1 9
+p752
+aVChris Whitney WAS 11/13/1997 WAS @ MIN W 9 7 2 6 33.3 1 4 25.0 2 2 100.0 0 0 0 3 0 1 0 2 13
+p753
+aVRod Strickland WAS 11/13/1997 WAS @ MIN W 44 21 9 23 39.1 1 2 50.0 2 5 40.0 4 2 6 8 1 0 6 4 -10
+p754
+aVHarvey Grant WAS 11/13/1997 WAS @ MIN W 19 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -6
+p755
+aVTracy Murray WAS 11/13/1997 WAS @ MIN W 37 9 4 14 28.6 1 7 14.3 0 0 - 0 2 2 3 1 2 3 2 8
+p756
+aVJuwan Howard WAS 11/12/1997 WAS @ CHI W 41 18 4 11 36.4 0 0 - 10 10 100.0 2 4 6 3 1 0 4 3 1
+p757
+aVHarvey Grant WAS 11/12/1997 WAS @ CHI W 20 4 2 4 50.0 0 0 - 0 0 - 4 3 7 2 0 1 2 2 3
+p758
+aVDarvin Ham WAS 11/12/1997 WAS @ CHI W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 3
+p759
+aVCalbert Cheaney WAS 11/12/1997 WAS @ CHI W 30 10 4 7 57.1 0 0 - 2 3 66.7 0 1 1 0 2 0 0 3 6
+p760
+aVTracy Murray WAS 11/12/1997 WAS @ CHI W 22 12 5 8 62.5 2 3 66.7 0 0 - 0 3 3 0 1 0 0 3 0
+p761
+aVRod Strickland WAS 11/12/1997 WAS @ CHI W 41 17 6 19 31.6 0 1 0.0 5 6 83.3 2 3 5 8 1 1 2 2 5
+p762
+aVChris Whitney WAS 11/12/1997 WAS @ CHI W 7 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 -1
+p763
+aVChris Webber WAS 11/12/1997 WAS @ CHI W 34 17 7 15 46.7 2 3 66.7 1 2 50.0 1 8 9 2 0 1 4 4 9
+p764
+aVTerry Davis WAS 11/12/1997 WAS @ CHI W 36 10 5 7 71.4 0 0 - 0 3 0.0 3 5 8 0 0 1 0 4 9
+p765
+aVChris Whitney WAS 11/08/1997 WAS @ MIA L 4 1 0 0 - 0 0 - 1 1 100.0 0 0 0 1 0 0 1 1 0
+p766
+aVRod Strickland WAS 11/08/1997 WAS @ MIA L 44 14 5 14 35.7 0 1 0.0 4 6 66.7 1 1 2 19 2 0 4 5 -8
+p767
+aVTerry Davis WAS 11/08/1997 WAS @ MIA L 25 4 2 2 100.0 0 0 - 0 0 - 3 4 7 0 1 0 1 3 -9
+p768
+aVTracy Murray WAS 11/08/1997 WAS @ MIA L 20 11 3 5 60.0 1 2 50.0 4 4 100.0 1 1 2 0 2 0 2 2 -12
+p769
+aVJuwan Howard WAS 11/08/1997 WAS @ MIA L 43 26 11 22 50.0 0 0 - 4 4 100.0 4 3 7 4 0 0 4 3 3
+p770
+aVChris Webber WAS 11/08/1997 WAS @ MIA L 44 34 16 24 66.7 1 3 33.3 1 1 100.0 3 4 7 4 2 2 4 6 -1
+p771
+aVCalbert Cheaney WAS 11/08/1997 WAS @ MIA L 36 10 4 10 40.0 0 0 - 2 4 50.0 0 3 3 2 2 0 2 2 0
+p772
+aVHarvey Grant WAS 11/08/1997 WAS @ MIA L 19 6 2 4 50.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 1 -8
+p773
+aVDarvin Ham WAS 11/08/1997 WAS @ MIA L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p774
+aVRod Strickland WAS 11/07/1997 WAS vs. CHH L 34 19 7 17 41.2 0 1 0.0 5 7 71.4 2 2 4 5 4 0 1 2 -19
+p775
+aVLorenzo Williams WAS 11/07/1997 WAS vs. CHH L 15 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 2 0 0 2 -15
+p776
+aVTracy Murray WAS 11/07/1997 WAS vs. CHH L 21 3 1 9 11.1 0 3 0.0 1 2 50.0 3 0 3 1 0 0 2 3 11
+p777
+aVHarvey Grant WAS 11/07/1997 WAS vs. CHH L 21 0 0 4 0.0 0 0 - 0 0 - 1 5 6 1 0 0 1 3 6
+p778
+aVCalbert Cheaney WAS 11/07/1997 WAS vs. CHH L 27 6 3 10 30.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -17
+p779
+aVGod Shammgod WAS 11/07/1997 WAS vs. CHH L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 1 4
+p780
+aVDarvin Ham WAS 11/07/1997 WAS vs. CHH L 17 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 4 1
+p781
+aVTerry Davis WAS 11/07/1997 WAS vs. CHH L 25 14 5 9 55.6 0 0 - 4 5 80.0 4 8 12 0 1 1 1 3 0
+p782
+aVJuwan Howard WAS 11/07/1997 WAS vs. CHH L 26 13 6 13 46.2 0 0 - 1 1 100.0 2 1 3 2 1 0 7 3 -10
+p783
+aVChris Webber WAS 11/07/1997 WAS vs. CHH L 35 24 10 20 50.0 1 5 20.0 3 6 50.0 1 2 3 4 0 0 3 4 -30
+p784
+aVChris Whitney WAS 11/07/1997 WAS vs. CHH L 16 5 2 5 40.0 0 1 0.0 1 1 100.0 0 2 2 2 0 0 0 2 -6
+p785
+aVCalbert Cheaney WAS 11/04/1997 WAS @ DEN W 26 6 3 12 25.0 0 0 - 0 0 - 0 2 2 4 0 0 1 1 19
+p786
+aVHarvey Grant WAS 11/04/1997 WAS @ DEN W 28 17 8 10 80.0 1 1 100.0 0 0 - 2 3 5 2 0 2 0 2 10
+p787
+aVDarvin Ham WAS 11/04/1997 WAS @ DEN W 15 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 0 1 2 0 3 2
+p788
+aVJuwan Howard WAS 11/04/1997 WAS @ DEN W 34 29 10 15 66.7 0 0 - 9 9 100.0 3 10 13 4 1 0 2 2 24
+p789
+aVLorenzo Williams WAS 11/04/1997 WAS @ DEN W 6 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 2
+p790
+aVChris Webber WAS 11/04/1997 WAS @ DEN W 29 12 6 13 46.2 0 1 0.0 0 2 0.0 2 5 7 5 1 1 2 5 18
+p791
+aVGod Shammgod WAS 11/04/1997 WAS @ DEN W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -3
+p792
+aVChris Whitney WAS 11/04/1997 WAS @ DEN W 22 12 4 8 50.0 2 4 50.0 2 2 100.0 1 3 4 3 1 0 1 2 11
+p793
+aVTracy Murray WAS 11/04/1997 WAS @ DEN W 27 20 6 15 40.0 1 4 25.0 7 7 100.0 0 2 2 3 1 1 0 4 8
+p794
+aVRod Strickland WAS 11/04/1997 WAS @ DEN W 26 13 4 10 40.0 1 1 100.0 4 4 100.0 1 2 3 10 1 0 5 1 15
+p795
+aVBen Wallace WAS 11/04/1997 WAS @ DEN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -2
+p796
+aVTerry Davis WAS 11/04/1997 WAS @ DEN W 18 1 0 1 0.0 0 0 - 1 4 25.0 0 6 6 1 0 0 0 3 16
+p797
+aVTracy Murray WAS 11/03/1997 WAS @ UTA W 12 1 0 3 0.0 0 1 0.0 1 2 50.0 2 2 4 1 0 0 1 0 -5
+p798
+aVLorenzo Williams WAS 11/03/1997 WAS @ UTA W 11 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 0 3 2
+p799
+aVJuwan Howard WAS 11/03/1997 WAS @ UTA W 42 19 7 18 38.9 0 0 - 5 8 62.5 1 9 10 2 0 2 3 3 -2
+p800
+aVTerry Davis WAS 11/03/1997 WAS @ UTA W 25 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 0 1 0 0 4 10
+p801
+aVRod Strickland WAS 11/03/1997 WAS @ UTA W 38 17 7 20 35.0 0 1 0.0 3 4 75.0 1 4 5 9 4 0 2 1 3
+p802
+aVChris Webber WAS 11/03/1997 WAS @ UTA W 44 26 11 20 55.0 2 2 100.0 2 4 50.0 2 11 13 4 0 3 1 4 6
+p803
+aVDarvin Ham WAS 11/03/1997 WAS @ UTA W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 1 0 4 1
+p804
+aVCalbert Cheaney WAS 11/03/1997 WAS @ UTA W 35 14 6 12 50.0 0 0 - 2 2 100.0 2 2 4 2 1 0 2 4 9
+p805
+aVHarvey Grant WAS 11/03/1997 WAS @ UTA W 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p806
+aVChris Whitney WAS 11/03/1997 WAS @ UTA W 12 10 3 7 42.9 2 4 50.0 2 2 100.0 0 3 3 2 0 0 0 1 2
+p807
+aVJuwan Howard WAS 11/01/1997 WAS vs. MIA L 39 15 4 11 36.4 0 0 - 7 11 63.6 4 3 7 4 1 0 5 5 -3
+p808
+aVRod Strickland WAS 11/01/1997 WAS vs. MIA L 39 20 8 18 44.4 0 1 0.0 4 6 66.7 0 2 2 13 1 0 3 4 -10
+p809
+aVChris Webber WAS 11/01/1997 WAS vs. MIA L 47 30 13 26 50.0 1 1 100.0 3 4 75.0 5 8 13 5 1 2 0 4 -1
+p810
+aVHarvey Grant WAS 11/01/1997 WAS vs. MIA L 15 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 2 0 1 3 7
+p811
+aVChris Whitney WAS 11/01/1997 WAS vs. MIA L 9 1 0 2 0.0 0 2 0.0 1 1 100.0 1 1 2 2 2 0 1 0 9
+p812
+aVLorenzo Williams WAS 11/01/1997 WAS vs. MIA L 17 8 4 4 100.0 0 0 - 0 2 0.0 4 1 5 0 0 0 2 1 -14
+p813
+aVDarvin Ham WAS 11/01/1997 WAS vs. MIA L 15 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 1 1 0 5 2
+p814
+aVCalbert Cheaney WAS 11/01/1997 WAS vs. MIA L 38 19 8 15 53.3 0 1 0.0 3 4 75.0 1 3 4 2 1 0 0 3 -6
+p815
+aVTracy Murray WAS 11/01/1997 WAS vs. MIA L 21 7 2 7 28.6 2 4 50.0 1 2 50.0 0 0 0 0 1 0 1 0 11
+p816
+aVRod Strickland WAS 10/31/1997 WAS @ DET L 34 6 3 11 27.3 0 0 - 0 0 - 0 6 6 8 1 0 4 3 -14
+p817
+aVHarvey Grant WAS 10/31/1997 WAS @ DET L 18 0 0 4 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 3 -5
+p818
+aVChris Whitney WAS 10/31/1997 WAS @ DET L 12 6 2 6 33.3 0 3 0.0 2 2 100.0 0 1 1 1 1 0 2 1 -5
+p819
+aVCalbert Cheaney WAS 10/31/1997 WAS @ DET L 23 9 4 9 44.4 0 1 0.0 1 2 50.0 1 3 4 1 2 0 1 5 -17
+p820
+aVGod Shammgod WAS 10/31/1997 WAS @ DET L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 5
+p821
+aVBen Wallace WAS 10/31/1997 WAS @ DET L 3 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 3
+p822
+aVJimmy Oliver WAS 10/31/1997 WAS @ DET L 10 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 3
+p823
+aVLorenzo Williams WAS 10/31/1997 WAS @ DET L 13 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -6
+p824
+aVTracy Murray WAS 10/31/1997 WAS @ DET L 25 11 4 9 44.4 3 5 60.0 0 0 - 0 2 2 0 1 1 0 4 -5
+p825
+aVJuwan Howard WAS 10/31/1997 WAS @ DET L 39 13 4 10 40.0 0 0 - 5 5 100.0 1 4 5 3 0 0 0 4 -11
+p826
+aVDarvin Ham WAS 10/31/1997 WAS @ DET L 20 7 2 3 66.7 0 0 - 3 6 50.0 1 3 4 1 1 0 2 2 6
+p827
+aVChris Webber WAS 10/31/1997 WAS @ DET L 39 19 8 19 42.1 1 4 25.0 2 4 50.0 2 5 7 4 0 1 1 4 -19
+p828
+a.

@@ -1,0 +1,1754 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJeff Ayres IND 04/17/2013 IND vs. PHI L 28 12 5 10 50.0 0 1 0.0 2 2 100.0 1 5 6 1 2 2 1 0 0
+p2
+aVTyler Hansbrough IND 04/17/2013 IND vs. PHI L 28 10 3 9 33.3 0 0 - 4 6 66.7 3 6 9 0 0 0 3 2 -3
+p3
+aVIan Mahinmi IND 04/17/2013 IND vs. PHI L 34 5 2 5 40.0 0 0 - 1 5 20.0 4 2 6 1 1 0 3 3 -7
+p4
+aVLance Stephenson IND 04/17/2013 IND vs. PHI L 26 12 5 8 62.5 0 1 0.0 2 2 100.0 1 2 3 6 0 0 4 2 -16
+p5
+aVBen Hansbrough IND 04/17/2013 IND vs. PHI L 18 11 3 8 37.5 0 3 0.0 5 5 100.0 1 1 2 3 1 1 0 1 4
+p6
+aVSam Young IND 04/17/2013 IND vs. PHI L 20 4 1 2 50.0 0 1 0.0 2 4 50.0 0 3 3 0 1 0 0 3 3
+p7
+aVOrlando Johnson IND 04/17/2013 IND vs. PHI L 16 2 1 8 12.5 0 5 0.0 0 0 - 0 3 3 0 1 0 0 0 -5
+p8
+aVGerald Green IND 04/17/2013 IND vs. PHI L 40 34 14 23 60.9 6 12 50.0 0 1 0.0 1 5 6 1 2 1 3 2 -6
+p9
+aVD.J. Augustin IND 04/17/2013 IND vs. PHI L 24 3 1 4 25.0 0 3 0.0 1 2 50.0 1 1 2 5 0 0 2 1 -10
+p10
+aVMiles Plumlee IND 04/17/2013 IND vs. PHI L 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -10
+p11
+aVLance Stephenson IND 04/14/2013 IND @ NYK L 35 22 8 16 50.0 4 9 44.4 2 3 66.7 0 4 4 1 2 0 4 2 -8
+p12
+aVRoy Hibbert IND 04/14/2013 IND @ NYK L 28 4 2 5 40.0 0 0 - 0 0 - 5 5 10 0 0 3 5 5 -11
+p13
+aVBen Hansbrough IND 04/14/2013 IND @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p14
+aVPaul George IND 04/14/2013 IND @ NYK L 40 9 3 12 25.0 1 8 12.5 2 3 66.7 2 5 7 11 2 0 4 3 -5
+p15
+aVGeorge Hill IND 04/14/2013 IND @ NYK L 35 6 2 8 25.0 2 6 33.3 0 2 0.0 0 3 3 5 1 0 1 1 -7
+p16
+aVOrlando Johnson IND 04/14/2013 IND @ NYK L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p17
+aVTyler Hansbrough IND 04/14/2013 IND @ NYK L 16 1 0 1 0.0 0 0 - 1 4 25.0 1 3 4 0 0 0 5 2 -18
+p18
+aVGerald Green IND 04/14/2013 IND @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p19
+aVJeff Ayres IND 04/14/2013 IND @ NYK L 17 12 5 6 83.3 0 0 - 2 2 100.0 1 3 4 1 0 0 1 0 1
+p20
+aVDavid West IND 04/14/2013 IND @ NYK L 34 17 5 9 55.6 0 1 0.0 7 8 87.5 2 6 8 1 1 0 4 2 6
+p21
+aVD.J. Augustin IND 04/14/2013 IND @ NYK L 12 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 0 -5
+p22
+aVSam Young IND 04/14/2013 IND @ NYK L 13 6 2 4 50.0 0 1 0.0 2 4 50.0 1 0 1 0 0 0 0 4 -4
+p23
+aVDavid West IND 04/12/2013 IND vs. BKN L 38 26 11 13 84.6 0 0 - 4 4 100.0 0 9 9 2 3 1 4 4 -12
+p24
+aVGeorge Hill IND 04/12/2013 IND vs. BKN L 36 17 5 15 33.3 3 7 42.9 4 4 100.0 1 0 1 10 1 0 0 3 -10
+p25
+aVTyler Hansbrough IND 04/12/2013 IND vs. BKN L 18 9 3 7 42.9 0 0 - 3 3 100.0 3 0 3 0 1 0 3 2 3
+p26
+aVLance Stephenson IND 04/12/2013 IND vs. BKN L 36 13 5 9 55.6 2 4 50.0 1 6 16.7 2 2 4 6 2 1 3 6 -12
+p27
+aVIan Mahinmi IND 04/12/2013 IND vs. BKN L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p28
+aVSam Young IND 04/12/2013 IND vs. BKN L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -3
+p29
+aVPaul George IND 04/12/2013 IND vs. BKN L 43 21 7 17 41.2 3 7 42.9 4 4 100.0 1 3 4 4 1 3 4 4 -3
+p30
+aVRoy Hibbert IND 04/12/2013 IND vs. BKN L 32 18 7 15 46.7 0 0 - 4 4 100.0 5 5 10 1 0 2 0 3 -3
+p31
+aVOrlando Johnson IND 04/12/2013 IND vs. BKN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p32
+aVD.J. Augustin IND 04/12/2013 IND vs. BKN L 12 1 0 1 0.0 0 1 0.0 1 1 100.0 0 0 0 2 0 0 1 0 5
+p33
+aVOrlando Johnson IND 04/09/2013 IND vs. CLE W 9 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -11
+p34
+aVRoy Hibbert IND 04/09/2013 IND vs. CLE W 23 8 4 10 40.0 0 0 - 0 0 - 2 3 5 1 1 3 3 2 0
+p35
+aVDavid West IND 04/09/2013 IND vs. CLE W 33 15 4 7 57.1 0 0 - 7 9 77.8 3 6 9 1 0 1 1 4 5
+p36
+aVD.J. Augustin IND 04/09/2013 IND vs. CLE W 16 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 1 0 0 0 0
+p37
+aVPaul George IND 04/09/2013 IND vs. CLE W 33 14 4 12 33.3 2 3 66.7 4 6 66.7 3 4 7 2 3 0 2 2 1
+p38
+aVGeorge Hill IND 04/09/2013 IND vs. CLE W 38 27 9 15 60.0 1 3 33.3 8 9 88.9 0 2 2 4 4 1 0 1 12
+p39
+aVJeff Ayres IND 04/09/2013 IND vs. CLE W 8 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 21
+p40
+aVGerald Green IND 04/09/2013 IND vs. CLE W 9 2 1 8 12.5 0 3 0.0 0 0 - 0 0 0 1 2 0 0 0 -4
+p41
+aVLance Stephenson IND 04/09/2013 IND vs. CLE W 33 13 3 7 42.9 0 1 0.0 7 8 87.5 2 6 8 2 2 1 1 2 5
+p42
+aVIan Mahinmi IND 04/09/2013 IND vs. CLE W 16 2 1 2 50.0 0 0 - 0 4 0.0 3 2 5 1 0 0 1 1 -12
+p43
+aVSam Young IND 04/09/2013 IND vs. CLE W 5 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 6
+p44
+aVTyler Hansbrough IND 04/09/2013 IND vs. CLE W 17 12 4 8 50.0 0 0 - 4 8 50.0 4 0 4 0 1 0 0 1 -8
+p45
+aVTyler Hansbrough IND 04/06/2013 IND @ WAS L 16 4 1 4 25.0 0 0 - 2 2 100.0 1 5 6 2 0 0 1 1 -3
+p46
+aVDavid West IND 04/06/2013 IND @ WAS L 29 12 6 14 42.9 0 0 - 0 0 - 1 9 10 1 0 0 1 3 -18
+p47
+aVSam Young IND 04/06/2013 IND @ WAS L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p48
+aVMiles Plumlee IND 04/06/2013 IND @ WAS L 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p49
+aVLance Stephenson IND 04/06/2013 IND @ WAS L 21 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 4 -20
+p50
+aVPaul George IND 04/06/2013 IND @ WAS L 34 2 0 8 0.0 0 4 0.0 2 2 100.0 1 5 6 3 0 0 2 3 -18
+p51
+aVGerald Green IND 04/06/2013 IND @ WAS L 18 13 6 12 50.0 1 5 20.0 0 0 - 0 0 0 1 0 0 1 1 -7
+p52
+aVRoy Hibbert IND 04/06/2013 IND @ WAS L 31 25 11 17 64.7 0 0 - 3 4 75.0 3 7 10 2 0 1 3 2 -20
+p53
+aVGeorge Hill IND 04/06/2013 IND @ WAS L 29 11 4 12 33.3 0 3 0.0 3 4 75.0 3 2 5 3 2 0 2 2 -21
+p54
+aVIan Mahinmi IND 04/06/2013 IND @ WAS L 12 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 1
+p55
+aVOrlando Johnson IND 04/06/2013 IND @ WAS L 17 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 2 0 0 2 0 7
+p56
+aVJeff Ayres IND 04/06/2013 IND @ WAS L 5 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 0
+p57
+aVD.J. Augustin IND 04/06/2013 IND @ WAS L 19 5 2 6 33.3 1 4 25.0 0 1 0.0 0 0 0 1 0 0 0 0 2
+p58
+aVRoy Hibbert IND 04/05/2013 IND vs. OKC L 31 22 8 14 57.1 0 0 - 6 6 100.0 2 6 8 1 0 1 2 3 -14
+p59
+aVDavid West IND 04/05/2013 IND vs. OKC L 35 17 7 14 50.0 0 0 - 3 4 75.0 2 3 5 2 3 1 1 0 -14
+p60
+aVLance Stephenson IND 04/05/2013 IND vs. OKC L 30 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 3 1 0 0 1 -10
+p61
+aVOrlando Johnson IND 04/05/2013 IND vs. OKC L 18 4 1 5 20.0 1 4 25.0 1 2 50.0 0 3 3 1 0 0 1 2 -12
+p62
+aVIan Mahinmi IND 04/05/2013 IND vs. OKC L 14 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -5
+p63
+aVGerald Green IND 04/05/2013 IND vs. OKC L 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 3 2 -4
+p64
+aVGeorge Hill IND 04/05/2013 IND vs. OKC L 37 10 4 12 33.3 1 7 14.3 1 1 100.0 2 2 4 3 0 0 1 2 -21
+p65
+aVPaul George IND 04/05/2013 IND vs. OKC L 38 8 3 11 27.3 0 6 0.0 2 5 40.0 2 5 7 2 1 0 1 3 -18
+p66
+aVTyler Hansbrough IND 04/05/2013 IND vs. OKC L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 1 0 1 3 -11
+p67
+aVD.J. Augustin IND 04/05/2013 IND vs. OKC L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 1 -1
+p68
+aVDavid West IND 04/01/2013 IND @ LAC W 36 16 7 14 50.0 0 0 - 2 2 100.0 1 6 7 6 2 1 4 3 18
+p69
+aVLance Stephenson IND 04/01/2013 IND @ LAC W 36 13 5 9 55.6 1 3 33.3 2 2 100.0 1 2 3 2 0 0 1 3 5
+p70
+aVJeff Ayres IND 04/01/2013 IND @ LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p71
+aVSam Young IND 04/01/2013 IND @ LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -1
+p72
+aVGeorge Hill IND 04/01/2013 IND @ LAC W 38 13 4 8 50.0 3 7 42.9 2 2 100.0 0 2 2 4 0 1 2 2 9
+p73
+aVIan Mahinmi IND 04/01/2013 IND @ LAC W 14 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 1 1 0 1 2 -12
+p74
+aVTyler Hansbrough IND 04/01/2013 IND @ LAC W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 3 -16
+p75
+aVPaul George IND 04/01/2013 IND @ LAC W 43 23 7 15 46.7 2 7 28.6 7 9 77.8 1 5 6 10 4 1 1 2 2
+p76
+aVOrlando Johnson IND 04/01/2013 IND @ LAC W 11 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 2 0 0 2 1 -4
+p77
+aVD.J. Augustin IND 04/01/2013 IND @ LAC W 10 10 3 5 60.0 2 3 66.7 2 2 100.0 0 0 0 0 0 0 1 1 -4
+p78
+aVRoy Hibbert IND 04/01/2013 IND @ LAC W 32 26 11 14 78.6 0 0 - 4 7 57.1 5 5 10 2 1 1 0 6 21
+p79
+aVIan Mahinmi IND 03/30/2013 IND @ PHX W 19 6 3 6 50.0 0 0 - 0 2 0.0 4 2 6 1 1 1 1 4 1
+p80
+aVD.J. Augustin IND 03/30/2013 IND @ PHX W 14 8 2 4 50.0 0 1 0.0 4 4 100.0 0 1 1 1 1 0 0 0 4
+p81
+aVRoy Hibbert IND 03/30/2013 IND @ PHX W 29 20 7 17 41.2 0 0 - 6 10 60.0 4 3 7 1 0 1 3 5 7
+p82
+aVPaul George IND 03/30/2013 IND @ PHX W 43 25 7 14 50.0 2 7 28.6 9 12 75.0 1 3 4 4 4 2 4 3 9
+p83
+aVDavid West IND 03/30/2013 IND @ PHX W 35 14 6 11 54.5 0 0 - 2 2 100.0 4 3 7 4 2 0 5 4 7
+p84
+aVSam Young IND 03/30/2013 IND @ PHX W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p85
+aVTyler Hansbrough IND 03/30/2013 IND @ PHX W 13 5 1 3 33.3 0 0 - 3 4 75.0 4 2 6 0 0 0 0 0 1
+p86
+aVLance Stephenson IND 03/30/2013 IND @ PHX W 37 16 6 12 50.0 1 3 33.3 3 4 75.0 0 6 6 3 3 1 1 2 17
+p87
+aVGeorge Hill IND 03/30/2013 IND @ PHX W 34 15 4 8 50.0 1 3 33.3 6 7 85.7 1 4 5 3 0 0 0 0 4
+p88
+aVOrlando Johnson IND 03/30/2013 IND @ PHX W 11 3 1 4 25.0 0 1 0.0 1 1 100.0 1 1 2 0 1 0 0 2 -9
+p89
+aVOrlando Johnson IND 03/28/2013 IND @ DAL W 21 12 5 10 50.0 2 5 40.0 0 0 - 0 4 4 3 0 0 0 0 13
+p90
+aVLance Stephenson IND 03/28/2013 IND @ DAL W 27 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 3 1 0 0 1 12
+p91
+aVTyler Hansbrough IND 03/28/2013 IND @ DAL W 20 13 5 10 50.0 0 0 - 3 6 50.0 5 4 9 1 1 0 3 2 8
+p92
+aVDavid West IND 03/28/2013 IND @ DAL W 28 7 3 8 37.5 0 0 - 1 4 25.0 1 6 7 2 0 0 2 3 17
+p93
+aVGerald Green IND 03/28/2013 IND @ DAL W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 2 0 0 -6
+p94
+aVD.J. Augustin IND 03/28/2013 IND @ DAL W 18 6 2 4 50.0 2 2 100.0 0 0 - 1 1 2 1 0 0 1 2 -7
+p95
+aVPaul George IND 03/28/2013 IND @ DAL W 38 24 10 17 58.8 2 5 40.0 2 3 66.7 0 8 8 6 3 0 3 2 31
+p96
+aVGeorge Hill IND 03/28/2013 IND @ DAL W 30 10 3 5 60.0 1 1 100.0 3 3 100.0 1 4 5 3 1 0 2 2 34
+p97
+aVIan Mahinmi IND 03/28/2013 IND @ DAL W 20 9 4 8 50.0 0 0 - 1 2 50.0 2 5 7 1 1 1 0 2 -6
+p98
+aVRoy Hibbert IND 03/28/2013 IND @ DAL W 24 16 5 10 50.0 0 0 - 6 8 75.0 5 6 11 1 1 1 2 5 27
+p99
+aVJeff Ayres IND 03/28/2013 IND @ DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p100
+aVOrlando Johnson IND 03/27/2013 IND @ HOU W 13 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 2 2 -4
+p101
+aVGerald Green IND 03/27/2013 IND @ HOU W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 1 0 0 -1
+p102
+aVIan Mahinmi IND 03/27/2013 IND @ HOU W 11 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 1 1 1 4 -12
+p103
+aVSam Young IND 03/27/2013 IND @ HOU W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p104
+aVTyler Hansbrough IND 03/27/2013 IND @ HOU W 32 16 4 7 57.1 0 0 - 8 9 88.9 2 6 8 1 2 0 1 2 14
+p105
+aVPaul George IND 03/27/2013 IND @ HOU W 39 16 4 17 23.5 2 8 25.0 6 6 100.0 0 6 6 3 3 0 2 4 6
+p106
+aVD.J. Augustin IND 03/27/2013 IND @ HOU W 10 5 1 1 100.0 1 1 100.0 2 2 100.0 1 0 1 1 0 0 0 0 -10
+p107
+aVLance Stephenson IND 03/27/2013 IND @ HOU W 35 21 9 14 64.3 1 2 50.0 2 3 66.7 2 3 5 3 1 0 1 2 13
+p108
+aVGeorge Hill IND 03/27/2013 IND @ HOU W 38 2 1 11 9.1 0 5 0.0 0 0 - 0 4 4 5 2 0 0 2 19
+p109
+aVJeff Ayres IND 03/27/2013 IND @ HOU W 16 2 1 3 33.3 0 0 - 0 0 - 0 5 5 1 0 0 1 2 -5
+p110
+aVRoy Hibbert IND 03/27/2013 IND @ HOU W 37 28 11 17 64.7 0 0 - 6 8 75.0 3 10 13 3 0 3 4 3 21
+p111
+aVBen Hansbrough IND 03/25/2013 IND vs. ATL W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -7
+p112
+aVPaul George IND 03/25/2013 IND vs. ATL W 42 13 6 13 46.2 1 5 20.0 0 0 - 0 6 6 4 1 1 6 4 -5
+p113
+aVRoy Hibbert IND 03/25/2013 IND vs. ATL W 37 17 8 17 47.1 0 0 - 1 1 100.0 4 9 13 1 1 3 1 2 16
+p114
+aVJeff Ayres IND 03/25/2013 IND vs. ATL W 22 14 6 10 60.0 1 1 100.0 1 1 100.0 1 2 3 1 0 0 1 2 1
+p115
+aVOrlando Johnson IND 03/25/2013 IND vs. ATL W 25 15 6 12 50.0 2 6 33.3 1 1 100.0 2 3 5 2 1 1 1 0 0
+p116
+aVGerald Green IND 03/25/2013 IND vs. ATL W 23 19 6 10 60.0 2 4 50.0 5 6 83.3 1 5 6 1 2 0 0 2 6
+p117
+aVSam Young IND 03/25/2013 IND vs. ATL W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 11
+p118
+aVTyler Hansbrough IND 03/25/2013 IND vs. ATL W 26 12 6 11 54.5 0 1 0.0 0 1 0.0 6 5 11 0 0 0 2 1 5
+p119
+aVD.J. Augustin IND 03/25/2013 IND vs. ATL W 36 6 1 6 16.7 1 4 25.0 3 3 100.0 1 1 2 5 2 0 6 2 13
+p120
+aVIan Mahinmi IND 03/25/2013 IND vs. ATL W 10 1 0 4 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 1 2 3 -10
+p121
+aVRoy Hibbert IND 03/23/2013 IND @ CHI L 35 18 8 18 44.4 0 0 - 2 2 100.0 4 8 12 2 0 2 3 4 6
+p122
+aVD.J. Augustin IND 03/23/2013 IND @ CHI L 15 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 1 -10
+p123
+aVSam Young IND 03/23/2013 IND @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p124
+aVGeorge Hill IND 03/23/2013 IND @ CHI L 33 11 3 8 37.5 2 4 50.0 3 3 100.0 0 1 1 2 0 1 1 2 7
+p125
+aVOrlando Johnson IND 03/23/2013 IND @ CHI L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p126
+aVLance Stephenson IND 03/23/2013 IND @ CHI L 35 10 2 5 40.0 1 1 100.0 5 8 62.5 0 3 3 3 2 1 0 1 -2
+p127
+aVGerald Green IND 03/23/2013 IND @ CHI L 11 5 2 8 25.0 1 1 100.0 0 0 - 1 0 1 0 2 0 0 0 -9
+p128
+aVJeff Ayres IND 03/23/2013 IND @ CHI L 20 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 -4
+p129
+aVTyler Hansbrough IND 03/23/2013 IND @ CHI L 28 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 3 0 0 2 3 1
+p130
+aVIan Mahinmi IND 03/23/2013 IND @ CHI L 13 4 1 4 25.0 0 0 - 2 2 100.0 1 4 5 0 0 1 0 1 -9
+p131
+aVPaul George IND 03/23/2013 IND @ CHI L 37 23 9 20 45.0 1 6 16.7 4 5 80.0 0 11 11 2 3 0 1 5 4
+p132
+aVD.J. Augustin IND 03/22/2013 IND vs. MIL W 17 10 3 3 100.0 2 2 100.0 2 2 100.0 0 0 0 3 1 0 2 1 7
+p133
+aVTyler Hansbrough IND 03/22/2013 IND vs. MIL W 27 22 8 14 57.1 0 0 - 6 7 85.7 3 9 12 0 0 0 0 2 20
+p134
+aVPaul George IND 03/22/2013 IND vs. MIL W 35 20 7 15 46.7 1 4 25.0 5 6 83.3 1 7 8 6 1 0 5 0 25
+p135
+aVIan Mahinmi IND 03/22/2013 IND vs. MIL W 18 10 4 7 57.1 0 0 - 2 3 66.7 1 4 5 1 0 0 2 4 5
+p136
+aVLance Stephenson IND 03/22/2013 IND vs. MIL W 27 5 2 4 50.0 0 1 0.0 1 2 50.0 2 5 7 3 0 2 2 2 17
+p137
+aVMiles Plumlee IND 03/22/2013 IND vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 0
+p138
+aVJeff Ayres IND 03/22/2013 IND vs. MIL W 21 10 5 10 50.0 0 0 - 0 0 - 1 6 7 0 1 0 1 3 4
+p139
+aVRoy Hibbert IND 03/22/2013 IND vs. MIL W 26 11 4 7 57.1 0 0 - 3 6 50.0 2 6 8 3 0 7 1 4 19
+p140
+aVOrlando Johnson IND 03/22/2013 IND vs. MIL W 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 0 1 -1
+p141
+aVGerald Green IND 03/22/2013 IND vs. MIL W 16 2 0 4 0.0 0 2 0.0 2 2 100.0 0 1 1 3 0 0 0 2 7
+p142
+aVSam Young IND 03/22/2013 IND vs. MIL W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p143
+aVGeorge Hill IND 03/22/2013 IND vs. MIL W 27 6 2 8 25.0 0 3 0.0 2 2 100.0 0 2 2 2 3 0 0 0 17
+p144
+aVBen Hansbrough IND 03/22/2013 IND vs. MIL W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p145
+aVD.J. Augustin IND 03/19/2013 IND vs. ORL W 13 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 1 2 5
+p146
+aVMiles Plumlee IND 03/19/2013 IND vs. ORL W 4 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -3
+p147
+aVGeorge Hill IND 03/19/2013 IND vs. ORL W 31 14 6 11 54.5 2 4 50.0 0 0 - 2 5 7 2 0 0 2 1 22
+p148
+aVJeff Ayres IND 03/19/2013 IND vs. ORL W 21 4 2 6 33.3 0 0 - 0 0 - 1 4 5 0 2 0 3 1 17
+p149
+aVLance Stephenson IND 03/19/2013 IND vs. ORL W 26 4 1 5 20.0 0 3 0.0 2 2 100.0 0 3 3 3 1 1 3 2 10
+p150
+aVIan Mahinmi IND 03/19/2013 IND vs. ORL W 19 9 3 5 60.0 0 0 - 3 4 75.0 1 3 4 0 0 1 1 2 13
+p151
+aVRoy Hibbert IND 03/19/2013 IND vs. ORL W 24 9 3 8 37.5 0 0 - 3 3 100.0 1 4 5 1 0 1 1 4 10
+p152
+aVGerald Green IND 03/19/2013 IND vs. ORL W 20 15 6 13 46.2 3 6 50.0 0 0 - 0 8 8 2 0 0 1 1 17
+p153
+aVBen Hansbrough IND 03/19/2013 IND vs. ORL W 4 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 2 -3
+p154
+aVSam Young IND 03/19/2013 IND vs. ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p155
+aVTyler Hansbrough IND 03/19/2013 IND vs. ORL W 27 14 4 14 28.6 0 0 - 6 7 85.7 9 5 14 1 1 1 1 3 5
+p156
+aVOrlando Johnson IND 03/19/2013 IND vs. ORL W 18 4 2 5 40.0 0 3 0.0 0 0 - 0 8 8 5 0 1 0 1 12
+p157
+aVPaul George IND 03/19/2013 IND vs. ORL W 28 19 7 14 50.0 1 3 33.3 4 4 100.0 0 5 5 2 0 1 2 2 5
+p158
+aVIan Mahinmi IND 03/18/2013 IND @ CLE W 15 8 4 7 57.1 0 0 - 0 0 - 1 4 5 2 0 1 2 5 0
+p159
+aVPaul George IND 03/18/2013 IND @ CLE W 25 14 5 9 55.6 0 2 0.0 4 5 80.0 0 4 4 4 2 1 5 2 14
+p160
+aVTyler Hansbrough IND 03/18/2013 IND @ CLE W 23 18 6 12 50.0 0 0 - 6 7 85.7 5 6 11 0 0 0 0 0 21
+p161
+aVMiles Plumlee IND 03/18/2013 IND @ CLE W 5 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -3
+p162
+aVRoy Hibbert IND 03/18/2013 IND @ CLE W 28 12 4 10 40.0 0 0 - 4 5 80.0 3 6 9 2 1 5 2 1 24
+p163
+aVGerald Green IND 03/18/2013 IND @ CLE W 23 20 7 13 53.8 4 7 57.1 2 2 100.0 0 6 6 2 0 0 1 1 7
+p164
+aVLance Stephenson IND 03/18/2013 IND @ CLE W 22 6 3 8 37.5 0 4 0.0 0 0 - 0 3 3 3 0 0 0 0 19
+p165
+aVGeorge Hill IND 03/18/2013 IND @ CLE W 22 9 2 7 28.6 1 3 33.3 4 4 100.0 0 2 2 7 3 0 1 3 19
+p166
+aVD.J. Augustin IND 03/18/2013 IND @ CLE W 21 3 1 3 33.3 1 3 33.3 0 0 - 3 1 4 4 2 0 1 1 5
+p167
+aVOrlando Johnson IND 03/18/2013 IND @ CLE W 21 8 3 6 50.0 1 2 50.0 1 2 50.0 0 3 3 0 0 0 0 0 5
+p168
+aVSam Young IND 03/18/2013 IND @ CLE W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p169
+aVBen Hansbrough IND 03/18/2013 IND @ CLE W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -3
+p170
+aVJeff Ayres IND 03/18/2013 IND @ CLE W 25 11 4 8 50.0 1 1 100.0 2 2 100.0 1 6 7 4 0 2 2 2 0
+p171
+aVSam Young IND 03/16/2013 IND @ PHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -13
+p172
+aVPaul George IND 03/16/2013 IND @ PHI L 41 18 6 17 35.3 2 7 28.6 4 6 66.7 2 12 14 8 1 0 2 4 3
+p173
+aVDavid West IND 03/16/2013 IND @ PHI L 27 18 8 13 61.5 0 1 0.0 2 3 66.7 0 4 4 0 0 0 3 5 -5
+p174
+aVGeorge Hill IND 03/16/2013 IND @ PHI L 39 13 5 15 33.3 3 6 50.0 0 0 - 1 2 3 8 3 0 2 1 -6
+p175
+aVRoy Hibbert IND 03/16/2013 IND @ PHI L 36 25 9 26 34.6 0 0 - 7 8 87.5 7 3 10 0 0 2 0 3 7
+p176
+aVOrlando Johnson IND 03/16/2013 IND @ PHI L 21 5 2 4 50.0 1 1 100.0 0 0 - 1 2 3 2 1 0 1 2 -9
+p177
+aVD.J. Augustin IND 03/16/2013 IND @ PHI L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p178
+aVIan Mahinmi IND 03/16/2013 IND @ PHI L 12 2 1 4 25.0 0 0 - 0 0 - 3 0 3 0 0 1 0 1 -13
+p179
+aVLance Stephenson IND 03/16/2013 IND @ PHI L 29 2 1 6 16.7 0 1 0.0 0 0 - 2 2 4 6 0 0 1 1 4
+p180
+aVTyler Hansbrough IND 03/16/2013 IND @ PHI L 21 8 2 3 66.7 0 0 - 4 4 100.0 2 4 6 0 0 0 3 3 -2
+p181
+aVPaul George IND 03/15/2013 IND vs. LAL L 36 20 6 20 30.0 3 10 30.0 5 5 100.0 2 7 9 3 2 1 3 4 0
+p182
+aVDavid West IND 03/15/2013 IND vs. LAL L 38 8 4 13 30.8 0 0 - 0 0 - 2 6 8 3 1 1 2 3 1
+p183
+aVOrlando Johnson IND 03/15/2013 IND vs. LAL L 5 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 -10
+p184
+aVD.J. Augustin IND 03/15/2013 IND vs. LAL L 14 5 2 6 33.3 1 3 33.3 0 0 - 1 1 2 1 0 1 1 1 -11
+p185
+aVRoy Hibbert IND 03/15/2013 IND vs. LAL L 24 7 3 12 25.0 1 1 100.0 0 0 - 6 4 10 1 0 0 2 5 6
+p186
+aVIan Mahinmi IND 03/15/2013 IND vs. LAL L 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 1 1 4 -8
+p187
+aVJeff Ayres IND 03/15/2013 IND vs. LAL L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -6
+p188
+aVSam Young IND 03/15/2013 IND vs. LAL L 12 6 2 3 66.7 1 1 100.0 1 2 50.0 1 2 3 1 0 0 0 0 -6
+p189
+aVTyler Hansbrough IND 03/15/2013 IND vs. LAL L 10 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 0 1 1 2 -7
+p190
+aVGeorge Hill IND 03/15/2013 IND vs. LAL L 39 27 11 19 57.9 4 8 50.0 1 2 50.0 0 1 1 3 1 0 1 4 3
+p191
+aVLance Stephenson IND 03/15/2013 IND vs. LAL L 37 12 5 12 41.7 2 3 66.7 0 0 - 1 10 11 5 1 0 5 2 8
+p192
+aVRoy Hibbert IND 03/13/2013 IND vs. MIN W 34 27 10 15 66.7 0 0 - 7 8 87.5 9 3 12 0 0 4 3 2 23
+p193
+aVSam Young IND 03/13/2013 IND vs. MIN W 17 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 1 0 1 1 -3
+p194
+aVGeorge Hill IND 03/13/2013 IND vs. MIN W 35 16 7 14 50.0 2 5 40.0 0 0 - 0 5 5 6 3 0 1 2 21
+p195
+aVTyler Hansbrough IND 03/13/2013 IND vs. MIN W 17 5 1 3 33.3 0 0 - 3 6 50.0 1 2 3 0 1 0 1 3 -6
+p196
+aVLance Stephenson IND 03/13/2013 IND vs. MIN W 29 5 2 11 18.2 0 5 0.0 1 2 50.0 1 3 4 4 0 0 2 4 24
+p197
+aVOrlando Johnson IND 03/13/2013 IND vs. MIN W 22 12 5 8 62.5 2 4 50.0 0 0 - 1 2 3 2 1 1 0 1 -3
+p198
+aVDavid West IND 03/13/2013 IND vs. MIN W 31 13 6 8 75.0 0 0 - 1 2 50.0 3 7 10 6 0 0 1 3 22
+p199
+aVIan Mahinmi IND 03/13/2013 IND vs. MIN W 14 5 2 3 66.7 0 0 - 1 4 25.0 0 3 3 0 1 1 0 1 -7
+p200
+aVD.J. Augustin IND 03/13/2013 IND vs. MIN W 15 3 1 6 16.7 1 5 20.0 0 0 - 0 3 3 0 0 0 1 4 1
+p201
+aVPaul George IND 03/13/2013 IND vs. MIN W 27 17 6 11 54.5 4 6 66.7 1 2 50.0 0 5 5 4 1 0 2 5 8
+p202
+aVBen Hansbrough IND 03/10/2013 IND @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p203
+aVSam Young IND 03/10/2013 IND @ MIA L 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 0 2
+p204
+aVDavid West IND 03/10/2013 IND @ MIA L 34 24 7 10 70.0 0 0 - 10 11 90.9 1 4 5 3 4 0 1 2 -17
+p205
+aVTyler Hansbrough IND 03/10/2013 IND @ MIA L 14 4 0 3 0.0 0 0 - 4 6 66.7 1 1 2 0 0 0 0 2 3
+p206
+aVPaul George IND 03/10/2013 IND @ MIA L 41 10 2 11 18.2 2 7 28.6 4 4 100.0 0 6 6 5 1 0 5 3 -20
+p207
+aVJeff Ayres IND 03/10/2013 IND @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 7
+p208
+aVD.J. Augustin IND 03/10/2013 IND @ MIA L 24 14 4 8 50.0 4 8 50.0 2 2 100.0 1 0 1 2 0 0 2 0 1
+p209
+aVRoy Hibbert IND 03/10/2013 IND @ MIA L 32 16 7 14 50.0 0 1 0.0 2 2 100.0 1 3 4 2 0 0 3 4 -31
+p210
+aVOrlando Johnson IND 03/10/2013 IND @ MIA L 15 8 2 4 50.0 2 4 50.0 2 2 100.0 0 4 4 0 0 0 2 2 10
+p211
+aVGeorge Hill IND 03/10/2013 IND @ MIA L 22 7 2 5 40.0 2 4 50.0 1 2 50.0 0 1 1 1 1 0 0 4 -22
+p212
+aVLance Stephenson IND 03/10/2013 IND @ MIA L 33 6 1 5 20.0 0 3 0.0 4 5 80.0 1 2 3 1 1 0 2 4 -20
+p213
+aVIan Mahinmi IND 03/10/2013 IND @ MIA L 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 0 1 10
+p214
+aVTyler Hansbrough IND 03/08/2013 IND @ ORL W 20 18 7 10 70.0 0 0 - 4 6 66.7 3 3 6 2 0 1 0 2 8
+p215
+aVSam Young IND 03/08/2013 IND @ ORL W 15 5 2 6 33.3 1 1 100.0 0 0 - 1 1 2 5 1 1 0 0 6
+p216
+aVDavid West IND 03/08/2013 IND @ ORL W 26 9 4 13 30.8 0 0 - 1 2 50.0 2 5 7 2 0 0 2 2 15
+p217
+aVJeff Ayres IND 03/08/2013 IND @ ORL W 6 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 6
+p218
+aVOrlando Johnson IND 03/08/2013 IND @ ORL W 20 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 2 1 0 2 3 9
+p219
+aVD.J. Augustin IND 03/08/2013 IND @ ORL W 26 14 5 9 55.6 4 6 66.7 0 0 - 1 2 3 8 0 0 1 3 14
+p220
+aVRoy Hibbert IND 03/08/2013 IND @ ORL W 27 10 3 5 60.0 0 0 - 4 4 100.0 0 2 2 1 1 5 1 2 19
+p221
+aVPaul George IND 03/08/2013 IND @ ORL W 27 25 8 12 66.7 4 5 80.0 5 5 100.0 1 4 5 3 1 0 2 0 17
+p222
+aVMiles Plumlee IND 03/08/2013 IND @ ORL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p223
+aVGeorge Hill IND 03/08/2013 IND @ ORL W 22 11 5 9 55.6 1 3 33.3 0 0 - 1 2 3 5 1 0 1 1 15
+p224
+aVLance Stephenson IND 03/08/2013 IND @ ORL W 28 10 5 7 71.4 0 0 - 0 2 0.0 1 5 6 3 0 0 1 3 20
+p225
+aVGerald Green IND 03/08/2013 IND @ ORL W 5 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 0 6
+p226
+aVIan Mahinmi IND 03/08/2013 IND @ ORL W 14 2 0 1 0.0 0 0 - 2 2 100.0 1 5 6 1 0 2 2 3 7
+p227
+aVOrlando Johnson IND 03/06/2013 IND vs. BOS L 13 7 3 9 33.3 1 5 20.0 0 0 - 1 4 5 0 0 2 0 1 2
+p228
+aVPaul George IND 03/06/2013 IND vs. BOS L 44 16 7 22 31.8 2 9 22.2 0 0 - 1 6 7 3 3 1 3 2 0
+p229
+aVSam Young IND 03/06/2013 IND vs. BOS L 4 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 0 -2
+p230
+aVIan Mahinmi IND 03/06/2013 IND vs. BOS L 16 4 1 3 33.3 0 0 - 2 4 50.0 1 2 3 0 0 0 1 1 1
+p231
+aVRoy Hibbert IND 03/06/2013 IND vs. BOS L 32 12 6 13 46.2 0 0 - 0 0 - 6 6 12 0 0 6 2 4 -3
+p232
+aVGeorge Hill IND 03/06/2013 IND vs. BOS L 37 14 4 11 36.4 3 7 42.9 3 3 100.0 1 3 4 2 0 1 2 0 4
+p233
+aVLance Stephenson IND 03/06/2013 IND vs. BOS L 35 12 6 15 40.0 0 3 0.0 0 0 - 0 0 0 2 5 0 0 1 -4
+p234
+aVDavid West IND 03/06/2013 IND vs. BOS L 39 11 4 10 40.0 0 0 - 3 4 75.0 4 12 16 4 1 1 4 1 5
+p235
+aVTyler Hansbrough IND 03/06/2013 IND vs. BOS L 9 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -7
+p236
+aVD.J. Augustin IND 03/06/2013 IND vs. BOS L 11 2 0 3 0.0 0 3 0.0 2 2 100.0 0 1 1 1 0 0 0 1 -6
+p237
+aVRoy Hibbert IND 03/03/2013 IND vs. CHI W 35 18 7 14 50.0 0 0 - 4 6 66.7 5 5 10 1 2 3 1 4 11
+p238
+aVIan Mahinmi IND 03/03/2013 IND vs. CHI W 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -8
+p239
+aVTyler Hansbrough IND 03/03/2013 IND vs. CHI W 12 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 2 1 1 2 7
+p240
+aVDanny Granger IND 03/03/2013 IND vs. CHI W 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p241
+aVPaul George IND 03/03/2013 IND vs. CHI W 45 10 4 14 28.6 2 5 40.0 0 0 - 2 8 10 6 2 0 4 3 9
+p242
+aVSam Young IND 03/03/2013 IND vs. CHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p243
+aVD.J. Augustin IND 03/03/2013 IND vs. CHI W 12 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 0 0 -8
+p244
+aVGeorge Hill IND 03/03/2013 IND vs. CHI W 36 21 6 6 100.0 3 3 100.0 6 10 60.0 0 6 6 5 1 2 3 3 13
+p245
+aVDavid West IND 03/03/2013 IND vs. CHI W 36 31 11 18 61.1 0 1 0.0 9 9 100.0 1 6 7 2 2 0 2 2 0
+p246
+aVLance Stephenson IND 03/03/2013 IND vs. CHI W 34 9 3 10 30.0 1 2 50.0 2 4 50.0 1 6 7 2 0 0 2 4 11
+p247
+aVOrlando Johnson IND 03/03/2013 IND vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p248
+aVDanny Granger IND 03/01/2013 IND @ TOR W 10 8 3 5 60.0 1 3 33.3 1 2 50.0 2 1 3 0 1 0 1 2 10
+p249
+aVSam Young IND 03/01/2013 IND @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p250
+aVIan Mahinmi IND 03/01/2013 IND @ TOR W 23 7 3 10 30.0 0 0 - 1 2 50.0 2 4 6 0 1 0 3 3 7
+p251
+aVOrlando Johnson IND 03/01/2013 IND @ TOR W 18 4 1 3 33.3 0 2 0.0 2 2 100.0 0 3 3 0 0 1 1 2 8
+p252
+aVTyler Hansbrough IND 03/01/2013 IND @ TOR W 18 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 1 1 0 1 1 -5
+p253
+aVGerald Green IND 03/01/2013 IND @ TOR W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p254
+aVJeff Ayres IND 03/01/2013 IND @ TOR W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p255
+aVD.J. Augustin IND 03/01/2013 IND @ TOR W 19 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 7 0 0 2 1 8
+p256
+aVLance Stephenson IND 03/01/2013 IND @ TOR W 24 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 4 -1
+p257
+aVGeorge Hill IND 03/01/2013 IND @ TOR W 29 5 2 8 25.0 1 6 16.7 0 0 - 0 1 1 4 2 0 0 2 4
+p258
+aVDavid West IND 03/01/2013 IND @ TOR W 30 15 6 11 54.5 0 0 - 3 4 75.0 2 9 11 4 1 1 3 1 17
+p259
+aVRoy Hibbert IND 03/01/2013 IND @ TOR W 24 18 7 10 70.0 0 0 - 4 4 100.0 2 1 3 0 0 2 4 4 7
+p260
+aVPaul George IND 03/01/2013 IND @ TOR W 42 22 8 16 50.0 4 7 57.1 2 2 100.0 1 9 10 3 1 0 4 4 11
+p261
+aVDavid West IND 02/28/2013 IND vs. LAC L 39 22 5 14 35.7 1 1 100.0 11 14 78.6 4 2 6 4 1 1 4 3 5
+p262
+aVGeorge Hill IND 02/28/2013 IND vs. LAC L 38 12 4 12 33.3 2 7 28.6 2 4 50.0 3 1 4 1 0 0 0 4 3
+p263
+aVJeff Ayres IND 02/28/2013 IND vs. LAC L 15 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 1 0 2 3 -7
+p264
+aVPaul George IND 02/28/2013 IND vs. LAC L 42 20 7 18 38.9 4 11 36.4 2 2 100.0 0 4 4 5 2 1 4 2 0
+p265
+aVD.J. Augustin IND 02/28/2013 IND vs. LAC L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -13
+p266
+aVIan Mahinmi IND 02/28/2013 IND vs. LAC L 25 5 2 3 66.7 0 0 - 1 1 100.0 0 5 5 1 1 2 1 3 -5
+p267
+aVLance Stephenson IND 02/28/2013 IND vs. LAC L 29 16 7 8 87.5 1 1 100.0 1 2 50.0 0 7 7 4 1 0 4 2 16
+p268
+aVOrlando Johnson IND 02/28/2013 IND vs. LAC L 5 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 -5
+p269
+aVDanny Granger IND 02/28/2013 IND vs. LAC L 19 12 5 10 50.0 1 2 50.0 1 2 50.0 1 1 2 1 0 0 2 1 -25
+p270
+aVTyler Hansbrough IND 02/28/2013 IND vs. LAC L 17 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 2 3 -9
+p271
+aVIan Mahinmi IND 02/26/2013 IND vs. GSW W 20 7 2 4 50.0 0 0 - 3 6 50.0 3 3 6 0 1 1 2 5 -9
+p272
+aVRoy Hibbert IND 02/26/2013 IND vs. GSW W 28 13 4 8 50.0 0 0 - 5 6 83.3 5 4 9 1 1 5 3 2 20
+p273
+aVDanny Granger IND 02/26/2013 IND vs. GSW W 19 5 1 7 14.3 0 1 0.0 3 4 75.0 0 2 2 1 1 0 0 0 0
+p274
+aVOrlando Johnson IND 02/26/2013 IND vs. GSW W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -10
+p275
+aVDavid West IND 02/26/2013 IND vs. GSW W 36 28 12 16 75.0 0 0 - 4 4 100.0 3 4 7 2 3 0 3 0 18
+p276
+aVLance Stephenson IND 02/26/2013 IND vs. GSW W 30 9 4 15 26.7 1 4 25.0 0 0 - 0 2 2 5 1 0 0 1 11
+p277
+aVPaul George IND 02/26/2013 IND vs. GSW W 42 21 9 17 52.9 2 9 22.2 1 3 33.3 2 9 11 4 3 1 2 3 21
+p278
+aVGeorge Hill IND 02/26/2013 IND vs. GSW W 38 23 9 14 64.3 3 7 42.9 2 2 100.0 1 2 3 7 3 0 1 2 15
+p279
+aVTyler Hansbrough IND 02/26/2013 IND vs. GSW W 12 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -7
+p280
+aVD.J. Augustin IND 02/26/2013 IND vs. GSW W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 1 1 2 -4
+p281
+aVRoy Hibbert IND 02/23/2013 IND @ DET W 20 10 3 6 50.0 0 0 - 4 4 100.0 0 1 1 2 0 2 5 6 9
+p282
+aVD.J. Augustin IND 02/23/2013 IND @ DET W 18 10 3 4 75.0 3 4 75.0 1 2 50.0 0 2 2 0 0 0 1 0 -5
+p283
+aVDanny Granger IND 02/23/2013 IND @ DET W 19 2 1 10 10.0 0 4 0.0 0 0 - 0 2 2 1 0 1 1 2 0
+p284
+aVTyler Hansbrough IND 02/23/2013 IND @ DET W 18 9 3 5 60.0 0 0 - 3 4 75.0 4 0 4 1 0 0 2 3 -3
+p285
+aVIan Mahinmi IND 02/23/2013 IND @ DET W 28 7 3 8 37.5 0 0 - 1 2 50.0 6 4 10 1 1 2 1 5 9
+p286
+aVOrlando Johnson IND 02/23/2013 IND @ DET W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -12
+p287
+aVLance Stephenson IND 02/23/2013 IND @ DET W 25 5 2 3 66.7 1 2 50.0 0 0 - 0 5 5 2 2 0 2 1 24
+p288
+aVGeorge Hill IND 02/23/2013 IND @ DET W 30 17 7 10 70.0 3 5 60.0 0 1 0.0 0 3 3 2 1 0 2 1 23
+p289
+aVDavid West IND 02/23/2013 IND @ DET W 30 16 6 14 42.9 0 0 - 4 4 100.0 0 8 8 4 1 1 1 2 21
+p290
+aVPaul George IND 02/23/2013 IND @ DET W 42 12 5 14 35.7 1 7 14.3 1 2 50.0 0 12 12 8 3 0 5 2 24
+p291
+aVDavid West IND 02/22/2013 IND vs. DET W 26 18 8 11 72.7 0 0 - 2 2 100.0 0 8 8 4 1 1 2 1 29
+p292
+aVOrlando Johnson IND 02/22/2013 IND vs. DET W 23 14 5 5 100.0 3 3 100.0 1 3 33.3 1 2 3 3 0 0 0 2 4
+p293
+aVTyler Hansbrough IND 02/22/2013 IND vs. DET W 18 7 1 2 50.0 0 0 - 5 6 83.3 0 3 3 1 2 0 0 1 10
+p294
+aVRoy Hibbert IND 02/22/2013 IND vs. DET W 26 10 4 8 50.0 0 0 - 2 3 66.7 1 5 6 4 1 1 1 2 31
+p295
+aVJeff Ayres IND 02/22/2013 IND vs. DET W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -9
+p296
+aVGerald Green IND 02/22/2013 IND vs. DET W 13 3 1 8 12.5 0 1 0.0 1 2 50.0 0 0 0 3 0 0 0 0 -6
+p297
+aVIan Mahinmi IND 02/22/2013 IND vs. DET W 14 6 3 7 42.9 0 0 - 0 0 - 0 3 3 0 1 1 0 0 10
+p298
+aVPaul George IND 02/22/2013 IND vs. DET W 26 12 4 6 66.7 3 4 75.0 1 2 50.0 0 7 7 2 1 1 7 4 29
+p299
+aVGeorge Hill IND 02/22/2013 IND vs. DET W 28 15 4 7 57.1 2 3 66.7 5 5 100.0 0 2 2 6 1 1 0 3 31
+p300
+aVSam Young IND 02/22/2013 IND vs. DET W 19 6 2 5 40.0 0 1 0.0 2 4 50.0 1 4 5 1 0 0 1 2 2
+p301
+aVLance Stephenson IND 02/22/2013 IND vs. DET W 20 10 4 8 50.0 0 0 - 2 2 100.0 0 5 5 2 3 1 2 3 28
+p302
+aVD.J. Augustin IND 02/22/2013 IND vs. DET W 15 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 3 0 0 0 2 10
+p303
+aVBen Hansbrough IND 02/22/2013 IND vs. DET W 5 6 2 2 100.0 1 1 100.0 1 4 25.0 0 0 0 0 0 0 1 2 -9
+p304
+aVD.J. Augustin IND 02/20/2013 IND vs. NYK W 14 9 2 3 66.7 2 3 66.7 3 3 100.0 0 2 2 4 0 0 2 1 9
+p305
+aVDavid West IND 02/20/2013 IND vs. NYK W 27 18 6 11 54.5 0 0 - 6 8 75.0 3 6 9 4 1 2 3 2 25
+p306
+aVRoy Hibbert IND 02/20/2013 IND vs. NYK W 18 8 4 5 80.0 0 0 - 0 0 - 0 4 4 1 0 2 3 6 5
+p307
+aVBen Hansbrough IND 02/20/2013 IND vs. NYK W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 1
+p308
+aVOrlando Johnson IND 02/20/2013 IND vs. NYK W 14 8 2 7 28.6 2 2 100.0 2 2 100.0 2 2 4 1 1 0 0 0 9
+p309
+aVLance Stephenson IND 02/20/2013 IND vs. NYK W 28 14 5 8 62.5 1 3 33.3 3 4 75.0 0 5 5 3 2 0 3 1 21
+p310
+aVPaul George IND 02/20/2013 IND vs. NYK W 33 27 11 19 57.9 4 9 44.4 1 1 100.0 1 7 8 3 1 2 2 2 16
+p311
+aVGeorge Hill IND 02/20/2013 IND vs. NYK W 28 10 3 5 60.0 1 3 33.3 3 4 75.0 0 2 2 5 2 1 1 1 24
+p312
+aVIan Mahinmi IND 02/20/2013 IND vs. NYK W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 5 9
+p313
+aVJeff Ayres IND 02/20/2013 IND vs. NYK W 23 9 3 5 60.0 0 0 - 3 3 100.0 2 5 7 2 0 0 1 2 12
+p314
+aVSam Young IND 02/20/2013 IND vs. NYK W 15 7 2 3 66.7 0 0 - 3 4 75.0 3 2 5 4 1 0 2 2 18
+p315
+aVTyler Hansbrough IND 02/20/2013 IND vs. NYK W 19 10 2 3 66.7 0 0 - 6 10 60.0 3 2 5 1 0 1 1 2 17
+p316
+aVGerald Green IND 02/20/2013 IND vs. NYK W 6 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 0 0 1 0 0 4
+p317
+aVGerald Green IND 02/13/2013 IND vs. CHA W 9 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p318
+aVD.J. Augustin IND 02/13/2013 IND vs. CHA W 12 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -1
+p319
+aVTyler Hansbrough IND 02/13/2013 IND vs. CHA W 23 19 8 13 61.5 0 0 - 3 6 50.0 5 5 10 2 2 0 0 1 12
+p320
+aVMiles Plumlee IND 02/13/2013 IND vs. CHA W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p321
+aVLance Stephenson IND 02/13/2013 IND vs. CHA W 26 5 2 12 16.7 1 6 16.7 0 0 - 0 3 3 2 0 0 0 1 9
+p322
+aVIan Mahinmi IND 02/13/2013 IND vs. CHA W 26 10 5 10 50.0 0 0 - 0 0 - 2 3 5 0 3 2 0 3 21
+p323
+aVOrlando Johnson IND 02/13/2013 IND vs. CHA W 19 6 2 5 40.0 0 2 0.0 2 4 50.0 1 2 3 2 0 0 1 1 14
+p324
+aVGeorge Hill IND 02/13/2013 IND vs. CHA W 32 11 4 10 40.0 3 3 100.0 0 0 - 0 2 2 4 0 1 0 0 24
+p325
+aVJeff Ayres IND 02/13/2013 IND vs. CHA W 25 10 5 8 62.5 0 0 - 0 0 - 3 5 8 1 0 2 3 5 12
+p326
+aVBen Hansbrough IND 02/13/2013 IND vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p327
+aVPaul George IND 02/13/2013 IND vs. CHA W 39 23 8 17 47.1 1 4 25.0 6 7 85.7 1 11 12 12 2 0 1 2 28
+p328
+aVSam Young IND 02/13/2013 IND vs. CHA W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 0 1
+p329
+aVRoy Hibbert IND 02/13/2013 IND vs. CHA W 18 10 5 9 55.6 0 0 - 0 0 - 6 2 8 0 0 3 2 5 2
+p330
+aVJeff Ayres IND 02/11/2013 IND vs. BKN L 17 14 7 11 63.6 0 1 0.0 0 0 - 4 6 10 1 0 0 1 3 10
+p331
+aVIan Mahinmi IND 02/11/2013 IND vs. BKN L 18 4 1 2 50.0 0 0 - 2 2 100.0 3 3 6 0 0 1 1 2 -5
+p332
+aVPaul George IND 02/11/2013 IND vs. BKN L 39 5 1 10 10.0 1 5 20.0 2 2 100.0 1 5 6 0 2 2 2 6 -11
+p333
+aVOrlando Johnson IND 02/11/2013 IND vs. BKN L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 2 0 0 0 0 -1
+p334
+aVDavid West IND 02/11/2013 IND vs. BKN L 25 7 2 11 18.2 0 0 - 3 4 75.0 1 5 6 3 1 1 2 2 -8
+p335
+aVGeorge Hill IND 02/11/2013 IND vs. BKN L 40 22 9 18 50.0 1 7 14.3 3 4 75.0 0 4 4 6 1 0 0 4 -4
+p336
+aVTyler Hansbrough IND 02/11/2013 IND vs. BKN L 11 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -7
+p337
+aVGerald Green IND 02/11/2013 IND vs. BKN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 10
+p338
+aVD.J. Augustin IND 02/11/2013 IND vs. BKN L 21 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 2 0 0 0 1 -5
+p339
+aVRoy Hibbert IND 02/11/2013 IND vs. BKN L 35 12 5 18 27.8 0 0 - 2 5 40.0 6 4 10 0 0 3 1 4 0
+p340
+aVLance Stephenson IND 02/11/2013 IND vs. BKN L 40 14 6 12 50.0 1 2 50.0 1 1 100.0 1 3 4 1 1 0 1 4 -4
+p341
+aVIan Mahinmi IND 02/08/2013 IND vs. TOR L 15 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 1 4 3 -6
+p342
+aVDavid West IND 02/08/2013 IND vs. TOR L 41 30 11 20 55.0 0 0 - 8 10 80.0 2 6 8 3 0 1 5 4 9
+p343
+aVLance Stephenson IND 02/08/2013 IND vs. TOR L 39 11 4 11 36.4 2 6 33.3 1 2 50.0 0 1 1 3 3 0 2 4 -4
+p344
+aVGerald Green IND 02/08/2013 IND vs. TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p345
+aVD.J. Augustin IND 02/08/2013 IND vs. TOR L 15 4 1 1 100.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 2 1 -8
+p346
+aVPaul George IND 02/08/2013 IND vs. TOR L 47 26 8 19 42.1 5 10 50.0 5 6 83.3 2 12 14 5 1 1 3 3 -3
+p347
+aVRoy Hibbert IND 02/08/2013 IND vs. TOR L 38 6 3 9 33.3 0 0 - 0 0 - 0 3 3 4 0 4 0 5 6
+p348
+aVTyler Hansbrough IND 02/08/2013 IND vs. TOR L 12 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 0 -9
+p349
+aVGeorge Hill IND 02/08/2013 IND vs. TOR L 38 9 3 8 37.5 1 4 25.0 2 4 50.0 3 0 3 5 2 0 2 2 4
+p350
+aVOrlando Johnson IND 02/08/2013 IND vs. TOR L 14 3 1 4 25.0 0 1 0.0 1 2 50.0 1 3 4 1 0 0 0 0 0
+p351
+aVSam Young IND 02/06/2013 IND @ PHI W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -3
+p352
+aVOrlando Johnson IND 02/06/2013 IND @ PHI W 18 8 2 3 66.7 2 3 66.7 2 2 100.0 0 3 3 0 1 0 0 1 9
+p353
+aVD.J. Augustin IND 02/06/2013 IND @ PHI W 14 6 1 4 25.0 1 2 50.0 3 4 75.0 1 3 4 1 0 0 0 1 5
+p354
+aVIan Mahinmi IND 02/06/2013 IND @ PHI W 14 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -3
+p355
+aVTyler Hansbrough IND 02/06/2013 IND @ PHI W 17 5 1 8 12.5 0 0 - 3 4 75.0 3 4 7 1 1 0 0 1 7
+p356
+aVDavid West IND 02/06/2013 IND @ PHI W 31 15 7 16 43.8 0 1 0.0 1 2 50.0 0 5 5 1 3 0 0 0 12
+p357
+aVPaul George IND 02/06/2013 IND @ PHI W 40 15 4 13 30.8 1 4 25.0 6 8 75.0 1 4 5 6 2 0 2 0 22
+p358
+aVRoy Hibbert IND 02/06/2013 IND @ PHI W 34 18 8 19 42.1 0 1 0.0 2 3 66.7 7 8 15 1 2 4 1 0 22
+p359
+aVGeorge Hill IND 02/06/2013 IND @ PHI W 34 15 7 11 63.6 1 3 33.3 0 0 - 2 1 3 5 1 0 1 2 14
+p360
+aVLance Stephenson IND 02/06/2013 IND @ PHI W 30 6 2 7 28.6 0 3 0.0 2 2 100.0 1 5 6 5 0 0 2 1 10
+p361
+aVRoy Hibbert IND 02/05/2013 IND vs. ATL W 30 12 6 8 75.0 0 0 - 0 0 - 2 6 8 4 0 3 2 2 9
+p362
+aVLance Stephenson IND 02/05/2013 IND vs. ATL W 30 14 5 10 50.0 2 6 33.3 2 2 100.0 0 6 6 3 0 1 1 5 9
+p363
+aVDavid West IND 02/05/2013 IND vs. ATL W 35 15 5 11 45.5 0 0 - 5 5 100.0 2 5 7 4 5 3 5 3 12
+p364
+aVD.J. Augustin IND 02/05/2013 IND vs. ATL W 16 10 3 6 50.0 2 4 50.0 2 3 66.7 0 0 0 2 0 0 0 1 3
+p365
+aVIan Mahinmi IND 02/05/2013 IND vs. ATL W 16 12 4 4 100.0 0 0 - 4 7 57.1 0 3 3 0 0 0 1 3 2
+p366
+aVJeff Ayres IND 02/05/2013 IND vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p367
+aVOrlando Johnson IND 02/05/2013 IND vs. ATL W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 -6
+p368
+aVPaul George IND 02/05/2013 IND vs. ATL W 39 29 8 19 42.1 5 9 55.6 8 9 88.9 0 5 5 4 1 0 2 4 17
+p369
+aVTyler Hansbrough IND 02/05/2013 IND vs. ATL W 13 4 0 2 0.0 0 0 - 4 6 66.7 0 0 0 2 1 1 0 2 -1
+p370
+aVBen Hansbrough IND 02/05/2013 IND vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p371
+aVGeorge Hill IND 02/05/2013 IND vs. ATL W 34 15 4 12 33.3 1 4 25.0 6 8 75.0 1 2 3 8 0 0 1 2 7
+p372
+aVSam Young IND 02/05/2013 IND vs. ATL W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 3
+p373
+aVSam Young IND 02/04/2013 IND vs. CHI W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 5 -8
+p374
+aVOrlando Johnson IND 02/04/2013 IND vs. CHI W 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 -10
+p375
+aVTyler Hansbrough IND 02/04/2013 IND vs. CHI W 12 8 3 7 42.9 0 0 - 2 4 50.0 3 2 5 0 0 0 0 3 -9
+p376
+aVD.J. Augustin IND 02/04/2013 IND vs. CHI W 10 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -1
+p377
+aVIan Mahinmi IND 02/04/2013 IND vs. CHI W 17 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 2 0 0 3 -9
+p378
+aVPaul George IND 02/04/2013 IND vs. CHI W 44 21 6 14 42.9 2 4 50.0 7 8 87.5 0 11 11 5 2 2 4 2 9
+p379
+aVLance Stephenson IND 02/04/2013 IND vs. CHI W 34 15 6 9 66.7 1 4 25.0 2 3 66.7 1 3 4 5 1 1 2 3 22
+p380
+aVGeorge Hill IND 02/04/2013 IND vs. CHI W 38 22 7 10 70.0 3 5 60.0 5 5 100.0 0 2 2 6 0 1 4 0 15
+p381
+aVRoy Hibbert IND 02/04/2013 IND vs. CHI W 30 6 3 11 27.3 0 0 - 0 0 - 5 4 9 1 0 1 1 1 18
+p382
+aVDavid West IND 02/04/2013 IND vs. CHI W 37 29 11 18 61.1 0 0 - 7 10 70.0 1 8 9 4 1 3 3 1 23
+p383
+aVGeorge Hill IND 02/01/2013 IND vs. MIA W 35 12 4 9 44.4 2 4 50.0 2 3 66.7 0 2 2 4 0 0 1 2 6
+p384
+aVSam Young IND 02/01/2013 IND vs. MIA W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 2 1
+p385
+aVOrlando Johnson IND 02/01/2013 IND vs. MIA W 4 4 1 1 100.0 1 1 100.0 1 2 50.0 0 1 1 0 0 0 1 2 4
+p386
+aVD.J. Augustin IND 02/01/2013 IND vs. MIA W 13 4 1 2 50.0 1 2 50.0 1 1 100.0 0 1 1 0 0 0 0 0 7
+p387
+aVPaul George IND 02/01/2013 IND vs. MIA W 41 15 6 11 54.5 1 6 16.7 2 4 50.0 0 6 6 6 2 0 3 4 10
+p388
+aVRoy Hibbert IND 02/01/2013 IND vs. MIA W 30 7 3 8 37.5 0 0 - 1 2 50.0 3 3 6 0 0 2 2 5 10
+p389
+aVDavid West IND 02/01/2013 IND vs. MIA W 36 30 12 15 80.0 0 0 - 6 6 100.0 2 5 7 5 0 0 0 0 9
+p390
+aVLance Stephenson IND 02/01/2013 IND vs. MIA W 39 15 6 11 54.5 2 3 66.7 1 2 50.0 0 3 3 4 1 0 3 1 11
+p391
+aVIan Mahinmi IND 02/01/2013 IND vs. MIA W 18 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 1 2 3 3
+p392
+aVTyler Hansbrough IND 02/01/2013 IND vs. MIA W 12 11 4 8 50.0 0 1 0.0 3 4 75.0 1 2 3 1 0 0 0 3 4
+p393
+aVOrlando Johnson IND 01/30/2013 IND vs. DET W 12 6 2 2 100.0 1 1 100.0 1 1 100.0 0 1 1 2 0 0 3 3 1
+p394
+aVMiles Plumlee IND 01/30/2013 IND vs. DET W 3 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 1 0 -3
+p395
+aVGerald Green IND 01/30/2013 IND vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p396
+aVTyler Hansbrough IND 01/30/2013 IND vs. DET W 17 14 3 8 37.5 0 0 - 8 8 100.0 2 9 11 1 1 0 2 1 10
+p397
+aVDavid West IND 01/30/2013 IND vs. DET W 28 14 7 14 50.0 0 0 - 0 0 - 2 3 5 3 1 1 0 1 12
+p398
+aVPaul George IND 01/30/2013 IND vs. DET W 40 10 3 11 27.3 1 4 25.0 3 4 75.0 1 5 6 4 2 0 6 4 22
+p399
+aVLance Stephenson IND 01/30/2013 IND vs. DET W 32 12 5 10 50.0 1 3 33.3 1 2 50.0 0 11 11 5 1 0 0 1 18
+p400
+aVBen Hansbrough IND 01/30/2013 IND vs. DET W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p401
+aVIan Mahinmi IND 01/30/2013 IND vs. DET W 18 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 0 1 1 1 2 5
+p402
+aVJeff Ayres IND 01/30/2013 IND vs. DET W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p403
+aVD.J. Augustin IND 01/30/2013 IND vs. DET W 15 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 1 0 3
+p404
+aVRoy Hibbert IND 01/30/2013 IND vs. DET W 26 18 7 14 50.0 0 0 - 4 4 100.0 6 5 11 2 1 1 3 3 16
+p405
+aVGeorge Hill IND 01/30/2013 IND vs. DET W 37 15 6 8 75.0 3 4 75.0 0 0 - 0 2 2 3 0 1 0 0 17
+p406
+aVDavid West IND 01/28/2013 IND @ DEN L 35 17 8 15 53.3 0 0 - 1 2 50.0 1 4 5 4 0 0 2 4 -5
+p407
+aVGeorge Hill IND 01/28/2013 IND @ DEN L 39 12 4 12 33.3 3 6 50.0 1 2 50.0 0 1 1 6 0 1 3 2 2
+p408
+aVIan Mahinmi IND 01/28/2013 IND @ DEN L 15 6 2 5 40.0 0 0 - 2 4 50.0 3 2 5 0 1 0 2 1 -3
+p409
+aVD.J. Augustin IND 01/28/2013 IND @ DEN L 13 4 1 4 25.0 0 3 0.0 2 2 100.0 0 0 0 2 0 0 1 0 -4
+p410
+aVPaul George IND 01/28/2013 IND @ DEN L 44 23 9 17 52.9 4 9 44.4 1 1 100.0 3 7 10 5 4 1 3 5 4
+p411
+aVLance Stephenson IND 01/28/2013 IND @ DEN L 38 20 8 13 61.5 2 3 66.7 2 2 100.0 3 5 8 4 1 1 2 4 -3
+p412
+aVRoy Hibbert IND 01/28/2013 IND @ DEN L 33 8 3 12 25.0 0 0 - 2 2 100.0 4 7 11 2 0 2 3 4 2
+p413
+aVOrlando Johnson IND 01/28/2013 IND @ DEN L 10 8 3 5 60.0 2 2 100.0 0 0 - 1 1 2 0 0 0 1 2 -2
+p414
+aVTyler Hansbrough IND 01/28/2013 IND @ DEN L 13 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 5 4
+p415
+aVGeorge Hill IND 01/26/2013 IND @ UTA L 46 22 10 16 62.5 2 7 28.6 0 1 0.0 3 6 9 8 2 0 1 2 -3
+p416
+aVOrlando Johnson IND 01/26/2013 IND @ UTA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p417
+aVDavid West IND 01/26/2013 IND @ UTA L 42 24 9 15 60.0 0 1 0.0 6 8 75.0 0 7 7 3 2 3 4 3 -8
+p418
+aVLance Stephenson IND 01/26/2013 IND @ UTA L 24 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 4 3 -7
+p419
+aVIan Mahinmi IND 01/26/2013 IND @ UTA L 18 8 3 4 75.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 3 -1
+p420
+aVD.J. Augustin IND 01/26/2013 IND @ UTA L 30 11 4 9 44.4 2 5 40.0 1 1 100.0 1 0 1 3 1 0 1 0 5
+p421
+aVTyler Hansbrough IND 01/26/2013 IND @ UTA L 12 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 3
+p422
+aVJeff Ayres IND 01/26/2013 IND @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p423
+aVPaul George IND 01/26/2013 IND @ UTA L 48 23 8 17 47.1 3 7 42.9 4 4 100.0 3 2 5 4 1 1 6 5 1
+p424
+aVRoy Hibbert IND 01/26/2013 IND @ UTA L 35 14 6 12 50.0 0 0 - 2 2 100.0 6 7 13 3 2 1 4 4 -2
+p425
+aVIan Mahinmi IND 01/23/2013 IND @ POR L 16 8 2 5 40.0 0 0 - 4 4 100.0 2 2 4 0 0 1 1 4 -10
+p426
+aVDavid West IND 01/23/2013 IND @ POR L 35 21 8 15 53.3 0 0 - 5 6 83.3 2 3 5 3 1 0 1 2 -20
+p427
+aVPaul George IND 01/23/2013 IND @ POR L 36 22 8 19 42.1 3 8 37.5 3 3 100.0 1 6 7 2 2 0 3 4 -22
+p428
+aVLance Stephenson IND 01/23/2013 IND @ POR L 40 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 3 1 0 2 3 -4
+p429
+aVD.J. Augustin IND 01/23/2013 IND @ POR L 20 6 2 7 28.6 2 5 40.0 0 0 - 0 1 1 2 2 0 1 1 -18
+p430
+aVTyler Hansbrough IND 01/23/2013 IND @ POR L 13 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 1 0
+p431
+aVRoy Hibbert IND 01/23/2013 IND @ POR L 32 9 4 10 40.0 0 0 - 1 2 50.0 1 6 7 0 1 1 2 3 -10
+p432
+aVGeorge Hill IND 01/23/2013 IND @ POR L 37 11 5 14 35.7 1 7 14.3 0 0 - 0 1 1 3 1 0 3 1 -10
+p433
+aVOrlando Johnson IND 01/23/2013 IND @ POR L 11 0 0 2 0.0 0 1 0.0 0 0 - 3 0 3 2 0 0 0 1 -6
+p434
+aVD.J. Augustin IND 01/21/2013 IND @ MEM W 15 6 2 3 66.7 2 3 66.7 0 1 0.0 0 0 0 3 0 0 0 0 3
+p435
+aVGeorge Hill IND 01/21/2013 IND @ MEM W 33 13 5 9 55.6 1 2 50.0 2 3 66.7 0 4 4 4 1 0 8 2 -2
+p436
+aVTyler Hansbrough IND 01/21/2013 IND @ MEM W 12 9 4 5 80.0 0 0 - 1 1 100.0 5 3 8 0 0 0 2 2 0
+p437
+aVDavid West IND 01/21/2013 IND @ MEM W 36 14 7 16 43.8 0 1 0.0 0 0 - 1 1 2 3 3 5 3 1 1
+p438
+aVOrlando Johnson IND 01/21/2013 IND @ MEM W 12 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 3 2 8
+p439
+aVLance Stephenson IND 01/21/2013 IND @ MEM W 35 8 3 7 42.9 1 4 25.0 1 2 50.0 0 3 3 1 1 1 2 1 2
+p440
+aVRoy Hibbert IND 01/21/2013 IND @ MEM W 33 10 4 7 57.1 0 0 - 2 2 100.0 1 4 5 2 1 4 2 3 -2
+p441
+aVGerald Green IND 01/21/2013 IND @ MEM W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p442
+aVPaul George IND 01/21/2013 IND @ MEM W 43 12 5 13 38.5 2 4 50.0 0 0 - 1 9 10 8 2 0 0 0 -4
+p443
+aVIan Mahinmi IND 01/21/2013 IND @ MEM W 15 4 2 4 50.0 0 0 - 0 2 0.0 1 1 2 0 0 1 0 3 3
+p444
+aVTyler Hansbrough IND 01/18/2013 IND vs. HOU W 18 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -3
+p445
+aVD.J. Augustin IND 01/18/2013 IND vs. HOU W 18 6 3 7 42.9 0 3 0.0 0 0 - 0 2 2 0 0 0 1 2 -2
+p446
+aVOrlando Johnson IND 01/18/2013 IND vs. HOU W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 -3
+p447
+aVDavid West IND 01/18/2013 IND vs. HOU W 34 20 8 18 44.4 0 0 - 4 6 66.7 2 9 11 7 1 3 1 2 14
+p448
+aVIan Mahinmi IND 01/18/2013 IND vs. HOU W 11 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 1 0 1 6
+p449
+aVJeff Ayres IND 01/18/2013 IND vs. HOU W 8 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 1 0 1 1
+p450
+aVGeorge Hill IND 01/18/2013 IND vs. HOU W 38 15 4 9 44.4 2 2 100.0 5 6 83.3 0 4 4 3 3 0 2 1 6
+p451
+aVPaul George IND 01/18/2013 IND vs. HOU W 43 31 11 19 57.9 7 10 70.0 2 2 100.0 1 5 6 3 5 1 5 4 16
+p452
+aVLance Stephenson IND 01/18/2013 IND vs. HOU W 37 9 4 10 40.0 1 3 33.3 0 0 - 2 1 3 4 1 0 2 2 11
+p453
+aVRoy Hibbert IND 01/18/2013 IND vs. HOU W 25 12 6 12 50.0 0 0 - 0 0 - 6 3 9 3 1 3 2 5 6
+p454
+aVBen Hansbrough IND 01/18/2013 IND vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p455
+aVDavid West IND 01/16/2013 IND @ ORL L 32 14 7 15 46.7 0 0 - 0 0 - 4 3 7 1 1 2 3 0 -3
+p456
+aVD.J. Augustin IND 01/16/2013 IND @ ORL L 18 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 0 1
+p457
+aVPaul George IND 01/16/2013 IND @ ORL L 36 20 6 14 42.9 1 4 25.0 7 7 100.0 1 9 10 4 0 1 1 0 -13
+p458
+aVIan Mahinmi IND 01/16/2013 IND @ ORL L 16 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 3 -9
+p459
+aVLance Stephenson IND 01/16/2013 IND @ ORL L 29 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 3 1 0 2 1 -11
+p460
+aVJeff Ayres IND 01/16/2013 IND @ ORL L 6 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 8
+p461
+aVRoy Hibbert IND 01/16/2013 IND @ ORL L 23 11 5 7 71.4 0 0 - 1 2 50.0 2 5 7 1 0 2 4 5 -3
+p462
+aVGeorge Hill IND 01/16/2013 IND @ ORL L 35 15 7 16 43.8 1 4 25.0 0 0 - 1 3 4 6 2 0 1 2 -7
+p463
+aVGerald Green IND 01/16/2013 IND @ ORL L 14 10 4 11 36.4 0 4 0.0 2 2 100.0 2 0 2 0 1 1 0 1 -5
+p464
+aVTyler Hansbrough IND 01/16/2013 IND @ ORL L 20 10 5 8 62.5 0 0 - 0 1 0.0 1 3 4 1 0 0 0 4 -15
+p465
+aVOrlando Johnson IND 01/16/2013 IND @ ORL L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 1 2
+p466
+aVGerald Green IND 01/15/2013 IND @ CHA W 20 3 1 7 14.3 0 4 0.0 1 2 50.0 1 0 1 3 0 1 0 3 0
+p467
+aVRoy Hibbert IND 01/15/2013 IND @ CHA W 27 18 5 11 45.5 0 0 - 8 8 100.0 4 3 7 1 0 4 2 3 31
+p468
+aVDominic McGuire IND 01/15/2013 IND @ CHA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p469
+aVBen Hansbrough IND 01/15/2013 IND @ CHA W 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p470
+aVOrlando Johnson IND 01/15/2013 IND @ CHA W 12 2 1 4 25.0 0 0 - 0 0 - 1 4 5 2 0 0 0 0 1
+p471
+aVPaul George IND 01/15/2013 IND @ CHA W 31 16 7 16 43.8 2 7 28.6 0 2 0.0 2 8 10 3 2 0 3 3 26
+p472
+aVDavid West IND 01/15/2013 IND @ CHA W 27 15 6 13 46.2 0 0 - 3 4 75.0 2 6 8 4 0 0 1 0 30
+p473
+aVGeorge Hill IND 01/15/2013 IND @ CHA W 27 16 6 11 54.5 2 4 50.0 2 2 100.0 2 5 7 4 1 0 0 1 28
+p474
+aVIan Mahinmi IND 01/15/2013 IND @ CHA W 15 4 0 2 0.0 0 0 - 4 4 100.0 1 5 6 0 0 3 2 4 -2
+p475
+aVLance Stephenson IND 01/15/2013 IND @ CHA W 28 7 3 6 50.0 1 3 33.3 0 1 0.0 2 6 8 6 2 0 2 3 28
+p476
+aVTyler Hansbrough IND 01/15/2013 IND @ CHA W 18 9 2 5 40.0 0 0 - 5 5 100.0 3 0 3 0 0 1 4 3 -2
+p477
+aVD.J. Augustin IND 01/15/2013 IND @ CHA W 21 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 1 0 0 2 2 -1
+p478
+aVJeff Ayres IND 01/15/2013 IND @ CHA W 7 4 2 6 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -2
+p479
+aVGerald Green IND 01/13/2013 IND @ BKN L 33 15 5 13 38.5 1 6 16.7 4 4 100.0 1 4 5 2 1 1 0 0 -12
+p480
+aVIan Mahinmi IND 01/13/2013 IND @ BKN L 17 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 0 0 1 2 2 -22
+p481
+aVDavid West IND 01/13/2013 IND @ BKN L 35 27 11 19 57.9 0 0 - 5 6 83.3 0 6 6 3 0 1 2 4 10
+p482
+aVTyler Hansbrough IND 01/13/2013 IND @ BKN L 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -21
+p483
+aVGeorge Hill IND 01/13/2013 IND @ BKN L 34 13 6 13 46.2 1 5 20.0 0 0 - 0 3 3 3 0 0 1 2 -12
+p484
+aVOrlando Johnson IND 01/13/2013 IND @ BKN L 17 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 3 1 0 0 2 4
+p485
+aVPaul George IND 01/13/2013 IND @ BKN L 35 15 6 18 33.3 3 7 42.9 0 0 - 4 8 12 3 6 0 2 5 -5
+p486
+aVRoy Hibbert IND 01/13/2013 IND @ BKN L 31 6 3 5 60.0 0 0 - 0 0 - 2 5 7 0 0 6 2 5 11
+p487
+aVLance Stephenson IND 01/13/2013 IND @ BKN L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 6
+p488
+aVD.J. Augustin IND 01/13/2013 IND @ BKN L 18 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 4 0 0 0 0 -14
+p489
+aVDavid West IND 01/12/2013 IND vs. CHA W 38 14 7 15 46.7 0 0 - 0 0 - 6 6 12 10 1 0 4 2 9
+p490
+aVDominic McGuire IND 01/12/2013 IND vs. CHA W 7 0 0 3 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -3
+p491
+aVIan Mahinmi IND 01/12/2013 IND vs. CHA W 26 5 2 5 40.0 0 0 - 1 1 100.0 1 7 8 2 2 3 0 3 12
+p492
+aVLance Stephenson IND 01/12/2013 IND vs. CHA W 39 17 8 13 61.5 1 3 33.3 0 0 - 1 6 7 2 4 1 2 3 -4
+p493
+aVOrlando Johnson IND 01/12/2013 IND vs. CHA W 7 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 1 1 0 0 0 8
+p494
+aVGerald Green IND 01/12/2013 IND vs. CHA W 22 8 3 12 25.0 2 8 25.0 0 0 - 0 2 2 0 0 0 2 1 7
+p495
+aVD.J. Augustin IND 01/12/2013 IND vs. CHA W 28 18 5 9 55.6 4 8 50.0 4 4 100.0 0 0 0 4 1 0 1 4 12
+p496
+aVTyler Hansbrough IND 01/12/2013 IND vs. CHA W 10 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 0 1 2 3 -1
+p497
+aVRoy Hibbert IND 01/12/2013 IND vs. CHA W 22 9 4 9 44.4 0 0 - 1 2 50.0 8 1 9 1 1 1 3 3 -4
+p498
+aVGeorge Hill IND 01/12/2013 IND vs. CHA W 42 19 7 17 41.2 3 7 42.9 2 2 100.0 0 4 4 4 1 0 0 2 4
+p499
+aVRoy Hibbert IND 01/10/2013 IND vs. NYK W 19 4 1 4 25.0 0 0 - 2 4 50.0 0 3 3 0 0 2 0 2 -3
+p500
+aVGerald Green IND 01/10/2013 IND vs. NYK W 17 7 3 8 37.5 1 5 20.0 0 0 - 1 5 6 1 0 0 2 1 13
+p501
+aVIan Mahinmi IND 01/10/2013 IND vs. NYK W 20 13 6 7 85.7 0 0 - 1 1 100.0 2 4 6 0 0 0 1 4 8
+p502
+aVPaul George IND 01/10/2013 IND vs. NYK W 44 24 10 24 41.7 2 8 25.0 2 2 100.0 3 8 11 5 6 1 1 3 4
+p503
+aVDavid West IND 01/10/2013 IND vs. NYK W 34 6 3 11 27.3 0 1 0.0 0 0 - 1 4 5 2 1 2 3 2 -8
+p504
+aVGeorge Hill IND 01/10/2013 IND vs. NYK W 34 6 2 6 33.3 1 5 20.0 1 1 100.0 0 4 4 4 0 0 2 1 10
+p505
+aVTyler Hansbrough IND 01/10/2013 IND vs. NYK W 14 6 1 8 12.5 0 0 - 4 4 100.0 3 1 4 0 1 0 0 2 13
+p506
+aVD.J. Augustin IND 01/10/2013 IND vs. NYK W 14 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p507
+aVLance Stephenson IND 01/10/2013 IND vs. NYK W 36 9 3 6 50.0 1 2 50.0 2 2 100.0 1 6 7 4 0 0 1 2 -7
+p508
+aVJeff Ayres IND 01/10/2013 IND vs. NYK W 9 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 0
+p509
+aVIan Mahinmi IND 01/08/2013 IND vs. MIA W 18 7 3 7 42.9 0 0 - 1 2 50.0 1 4 5 0 1 0 0 4 17
+p510
+aVOrlando Johnson IND 01/08/2013 IND vs. MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 5
+p511
+aVRoy Hibbert IND 01/08/2013 IND vs. MIA W 29 6 3 12 25.0 0 0 - 0 0 - 9 5 14 1 0 0 1 4 -10
+p512
+aVDavid West IND 01/08/2013 IND vs. MIA W 34 14 6 13 46.2 1 1 100.0 1 2 50.0 5 6 11 1 2 0 1 2 -3
+p513
+aVGerald Green IND 01/08/2013 IND vs. MIA W 22 7 3 11 27.3 1 5 20.0 0 0 - 2 2 4 0 2 2 1 2 7
+p514
+aVD.J. Augustin IND 01/08/2013 IND vs. MIA W 25 4 0 2 0.0 0 0 - 4 4 100.0 0 3 3 8 2 0 0 0 17
+p515
+aVTyler Hansbrough IND 01/08/2013 IND vs. MIA W 15 7 1 4 25.0 0 0 - 5 6 83.3 0 2 2 0 0 0 0 1 16
+p516
+aVGeorge Hill IND 01/08/2013 IND vs. MIA W 23 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 4 0 0 5 2 -7
+p517
+aVPaul George IND 01/08/2013 IND vs. MIA W 44 29 12 27 44.4 4 9 44.4 1 3 33.3 4 7 11 2 0 0 1 2 5
+p518
+aVLance Stephenson IND 01/08/2013 IND vs. MIA W 26 13 5 11 45.5 3 4 75.0 0 2 0.0 1 3 4 2 2 0 0 4 3
+p519
+aVJeff Ayres IND 01/05/2013 IND vs. MIL W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -4
+p520
+aVDavid West IND 01/05/2013 IND vs. MIL W 25 10 3 9 33.3 0 0 - 4 6 66.7 0 6 6 3 1 0 0 2 17
+p521
+aVRoy Hibbert IND 01/05/2013 IND vs. MIL W 30 20 8 16 50.0 0 0 - 4 4 100.0 11 4 15 0 0 5 2 3 7
+p522
+aVPaul George IND 01/05/2013 IND vs. MIL W 35 8 4 11 36.4 0 1 0.0 0 0 - 1 8 9 4 1 0 6 2 13
+p523
+aVLance Stephenson IND 01/05/2013 IND vs. MIL W 23 10 5 8 62.5 0 2 0.0 0 0 - 0 3 3 3 1 0 1 2 14
+p524
+aVOrlando Johnson IND 01/05/2013 IND vs. MIL W 11 7 3 8 37.5 0 3 0.0 1 2 50.0 1 2 3 0 0 0 2 1 -5
+p525
+aVD.J. Augustin IND 01/05/2013 IND vs. MIL W 21 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 2 2 0 0 0 13
+p526
+aVGerald Green IND 01/05/2013 IND vs. MIL W 18 5 2 10 20.0 1 7 14.3 0 0 - 0 1 1 2 0 0 0 4 5
+p527
+aVTyler Hansbrough IND 01/05/2013 IND vs. MIL W 21 9 3 6 50.0 0 0 - 3 8 37.5 3 3 6 0 0 1 0 1 1
+p528
+aVIan Mahinmi IND 01/05/2013 IND vs. MIL W 16 4 2 3 66.7 0 0 - 0 0 - 3 2 5 1 0 0 0 1 11
+p529
+aVGeorge Hill IND 01/05/2013 IND vs. MIL W 33 14 7 16 43.8 0 4 0.0 0 0 - 2 6 8 4 0 0 0 0 6
+p530
+aVBen Hansbrough IND 01/05/2013 IND vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p531
+aVTyler Hansbrough IND 01/04/2013 IND @ BOS L 23 19 7 11 63.6 0 0 - 5 8 62.5 2 2 4 0 1 0 2 2 -2
+p532
+aVD.J. Augustin IND 01/04/2013 IND @ BOS L 30 6 2 4 50.0 1 1 100.0 1 1 100.0 0 1 1 4 0 0 2 2 -9
+p533
+aVPaul George IND 01/04/2013 IND @ BOS L 32 9 4 18 22.2 0 5 0.0 1 3 33.3 2 5 7 4 3 0 3 2 -12
+p534
+aVRoy Hibbert IND 01/04/2013 IND @ BOS L 24 7 3 6 50.0 0 0 - 1 2 50.0 2 8 10 0 0 1 3 2 -17
+p535
+aVJeff Ayres IND 01/04/2013 IND @ BOS L 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p536
+aVDavid West IND 01/04/2013 IND @ BOS L 29 10 4 18 22.2 0 1 0.0 2 2 100.0 3 7 10 1 2 1 3 0 -17
+p537
+aVOrlando Johnson IND 01/04/2013 IND @ BOS L 12 7 2 3 66.7 1 1 100.0 2 2 100.0 1 1 2 0 0 1 0 1 -1
+p538
+aVGerald Green IND 01/04/2013 IND @ BOS L 22 3 1 8 12.5 0 4 0.0 1 2 50.0 0 2 2 2 0 1 0 2 -10
+p539
+aVBen Hansbrough IND 01/04/2013 IND @ BOS L 18 5 1 4 25.0 1 2 50.0 2 2 100.0 0 3 3 0 0 0 2 0 -10
+p540
+aVIan Mahinmi IND 01/04/2013 IND @ BOS L 18 4 2 5 40.0 0 0 - 0 2 0.0 3 1 4 0 0 2 2 3 -2
+p541
+aVLance Stephenson IND 01/04/2013 IND @ BOS L 30 5 1 6 16.7 1 3 33.3 2 4 50.0 2 1 3 3 2 1 1 0 -15
+p542
+aVGerald Green IND 01/02/2013 IND vs. WAS W 18 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 1 0 2 0 -6
+p543
+aVPaul George IND 01/02/2013 IND vs. WAS W 40 29 9 19 47.4 3 8 37.5 8 8 100.0 1 13 14 3 2 0 3 3 16
+p544
+aVTyler Hansbrough IND 01/02/2013 IND vs. WAS W 15 2 0 3 0.0 0 0 - 2 4 50.0 2 1 3 1 0 0 2 2 -8
+p545
+aVSam Young IND 01/02/2013 IND vs. WAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p546
+aVLance Stephenson IND 01/02/2013 IND vs. WAS W 29 6 3 9 33.3 0 0 - 0 0 - 1 2 3 2 2 1 0 1 10
+p547
+aVIan Mahinmi IND 01/02/2013 IND vs. WAS W 23 9 3 5 60.0 0 0 - 3 4 75.0 3 8 11 0 1 0 0 1 -2
+p548
+aVRoy Hibbert IND 01/02/2013 IND vs. WAS W 24 13 6 11 54.5 0 0 - 1 1 100.0 1 3 4 4 0 1 2 5 11
+p549
+aVD.J. Augustin IND 01/02/2013 IND vs. WAS W 37 18 4 9 44.4 1 4 25.0 9 10 90.0 2 2 4 6 1 0 2 1 13
+p550
+aVBen Hansbrough IND 01/02/2013 IND vs. WAS W 11 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 0 1 0 2 1 -3
+p551
+aVDavid West IND 01/02/2013 IND vs. WAS W 34 8 3 13 23.1 0 0 - 2 2 100.0 1 5 6 1 1 1 3 0 15
+p552
+aVPaul George IND 12/31/2012 IND vs. MEM W 41 21 7 16 43.8 4 10 40.0 3 4 75.0 0 6 6 5 2 1 4 1 14
+p553
+aVSam Young IND 12/31/2012 IND vs. MEM W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p554
+aVTyler Hansbrough IND 12/31/2012 IND vs. MEM W 14 6 3 6 50.0 0 0 - 0 0 - 4 1 5 1 0 2 2 0 5
+p555
+aVRoy Hibbert IND 12/31/2012 IND vs. MEM W 33 9 3 11 27.3 0 0 - 3 4 75.0 2 4 6 3 1 4 2 4 -2
+p556
+aVBen Hansbrough IND 12/31/2012 IND vs. MEM W 14 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 1 0 0 0 2 8
+p557
+aVDavid West IND 12/31/2012 IND vs. MEM W 34 13 3 6 50.0 0 0 - 7 8 87.5 4 5 9 2 1 2 4 5 4
+p558
+aVGerald Green IND 12/31/2012 IND vs. MEM W 15 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 1 1 0 1 1 0
+p559
+aVIan Mahinmi IND 12/31/2012 IND vs. MEM W 15 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 2 0 1 2 3
+p560
+aVLance Stephenson IND 12/31/2012 IND vs. MEM W 33 10 3 7 42.9 2 3 66.7 2 2 100.0 0 7 7 2 1 0 2 1 3
+p561
+aVD.J. Augustin IND 12/31/2012 IND vs. MEM W 34 17 4 9 44.4 4 7 57.1 5 6 83.3 1 1 2 6 1 0 2 2 -1
+p562
+aVD.J. Augustin IND 12/29/2012 IND @ ATL L 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 1 0 0 0 10
+p563
+aVLance Stephenson IND 12/29/2012 IND @ ATL L 32 13 6 13 46.2 1 3 33.3 0 0 - 3 2 5 1 0 0 0 3 3
+p564
+aVTyler Hansbrough IND 12/29/2012 IND @ ATL L 24 6 1 3 33.3 0 0 - 4 4 100.0 2 8 10 2 0 1 1 2 5
+p565
+aVPaul George IND 12/29/2012 IND @ ATL L 39 18 7 13 53.8 1 2 50.0 3 3 100.0 4 5 9 8 2 0 5 1 -16
+p566
+aVDavid West IND 12/29/2012 IND @ ATL L 32 29 11 18 61.1 2 3 66.7 5 7 71.4 0 4 4 3 1 0 1 2 -13
+p567
+aVGerald Green IND 12/29/2012 IND @ ATL L 25 6 3 11 27.3 0 4 0.0 0 0 - 1 0 1 1 0 1 0 0 -5
+p568
+aVGeorge Hill IND 12/29/2012 IND @ ATL L 33 15 7 11 63.6 1 3 33.3 0 0 - 0 4 4 2 1 0 2 1 -19
+p569
+aVRoy Hibbert IND 12/29/2012 IND @ ATL L 21 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -7
+p570
+aVIan Mahinmi IND 12/29/2012 IND @ ATL L 19 13 3 7 42.9 0 0 - 7 8 87.5 1 1 2 0 1 3 1 3 -3
+p571
+aVGeorge Hill IND 12/28/2012 IND vs. PHX W 32 22 9 13 69.2 3 4 75.0 1 1 100.0 0 2 2 2 2 0 3 3 5
+p572
+aVLance Stephenson IND 12/28/2012 IND vs. PHX W 37 10 4 9 44.4 1 2 50.0 1 4 25.0 2 7 9 5 3 0 1 1 14
+p573
+aVPaul George IND 12/28/2012 IND vs. PHX W 39 15 4 12 33.3 2 5 40.0 5 6 83.3 1 3 4 2 0 0 3 3 3
+p574
+aVDavid West IND 12/28/2012 IND vs. PHX W 34 14 5 15 33.3 0 0 - 4 4 100.0 3 4 7 2 1 1 3 4 1
+p575
+aVD.J. Augustin IND 12/28/2012 IND vs. PHX W 15 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 2 1
+p576
+aVTyler Hansbrough IND 12/28/2012 IND vs. PHX W 14 12 5 6 83.3 0 0 - 2 2 100.0 1 4 5 1 0 0 0 3 5
+p577
+aVGerald Green IND 12/28/2012 IND vs. PHX W 20 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 0 0 0 1 1 -5
+p578
+aVRoy Hibbert IND 12/28/2012 IND vs. PHX W 32 8 3 9 33.3 0 0 - 2 4 50.0 5 9 14 4 0 1 2 4 18
+p579
+aVIan Mahinmi IND 12/28/2012 IND vs. PHX W 16 6 1 5 20.0 0 0 - 4 6 66.7 4 1 5 2 0 0 1 1 -12
+p580
+aVLance Stephenson IND 12/22/2012 IND @ NOH W 34 10 5 10 50.0 0 2 0.0 0 0 - 2 0 2 3 1 0 0 1 14
+p581
+aVPaul George IND 12/22/2012 IND @ NOH W 38 17 6 15 40.0 1 5 20.0 4 5 80.0 1 11 12 4 2 0 3 5 7
+p582
+aVIan Mahinmi IND 12/22/2012 IND @ NOH W 20 6 3 7 42.9 0 0 - 0 1 0.0 1 3 4 0 0 3 1 3 1
+p583
+aVRoy Hibbert IND 12/22/2012 IND @ NOH W 28 6 3 8 37.5 0 0 - 0 2 0.0 3 6 9 1 1 5 1 4 5
+p584
+aVSam Young IND 12/22/2012 IND @ NOH W 21 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 0 -7
+p585
+aVD.J. Augustin IND 12/22/2012 IND @ NOH W 7 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 3 1 0 0 0 2
+p586
+aVBen Hansbrough IND 12/22/2012 IND @ NOH W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 1 -6
+p587
+aVGeorge Hill IND 12/22/2012 IND @ NOH W 39 12 3 8 37.5 3 5 60.0 3 4 75.0 1 4 5 6 0 1 3 4 8
+p588
+aVDavid West IND 12/22/2012 IND @ NOH W 34 25 11 20 55.0 0 2 0.0 3 4 75.0 4 3 7 2 0 0 1 1 14
+p589
+aVTyler Hansbrough IND 12/22/2012 IND @ NOH W 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -8
+p590
+aVPaul George IND 12/21/2012 IND @ CLE W 35 10 4 13 30.8 0 3 0.0 2 3 66.7 1 4 5 3 5 1 5 3 20
+p591
+aVRoy Hibbert IND 12/21/2012 IND @ CLE W 24 18 8 12 66.7 0 0 - 2 2 100.0 3 3 6 0 0 2 2 5 12
+p592
+aVTyler Hansbrough IND 12/21/2012 IND @ CLE W 13 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 1 0 0 2 2 -1
+p593
+aVBen Hansbrough IND 12/21/2012 IND @ CLE W 11 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 1 0 -8
+p594
+aVJeff Ayres IND 12/21/2012 IND @ CLE W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p595
+aVLance Stephenson IND 12/21/2012 IND @ CLE W 32 16 7 8 87.5 0 1 0.0 2 4 50.0 0 2 2 7 2 0 0 3 12
+p596
+aVGerald Green IND 12/21/2012 IND @ CLE W 16 14 4 6 66.7 2 4 50.0 4 4 100.0 0 0 0 0 0 1 1 1 -2
+p597
+aVDavid West IND 12/21/2012 IND @ CLE W 34 13 6 13 46.2 0 1 0.0 1 5 20.0 2 8 10 2 0 0 1 1 18
+p598
+aVSam Young IND 12/21/2012 IND @ CLE W 13 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 1 0 0 1 0 -10
+p599
+aVGeorge Hill IND 12/21/2012 IND @ CLE W 37 13 5 13 38.5 2 5 40.0 1 1 100.0 1 7 8 6 2 0 1 2 18
+p600
+aVMiles Plumlee IND 12/21/2012 IND @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p601
+aVIan Mahinmi IND 12/21/2012 IND @ CLE W 23 10 4 7 57.1 0 0 - 2 4 50.0 1 2 3 3 0 1 3 4 5
+p602
+aVJeff Ayres IND 12/19/2012 IND vs. UTA W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -4
+p603
+aVLance Stephenson IND 12/19/2012 IND vs. UTA W 25 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 4 2 0 1 1 16
+p604
+aVBen Hansbrough IND 12/19/2012 IND vs. UTA W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 1
+p605
+aVMiles Plumlee IND 12/19/2012 IND vs. UTA W 5 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -4
+p606
+aVD.J. Augustin IND 12/19/2012 IND vs. UTA W 12 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 0 -5
+p607
+aVDavid West IND 12/19/2012 IND vs. UTA W 28 13 5 12 41.7 0 0 - 3 3 100.0 2 2 4 3 0 0 1 4 18
+p608
+aVIan Mahinmi IND 12/19/2012 IND vs. UTA W 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 2 1 0 2 2
+p609
+aVPaul George IND 12/19/2012 IND vs. UTA W 33 20 9 13 69.2 2 4 50.0 0 0 - 1 10 11 1 1 4 4 4 17
+p610
+aVTyler Hansbrough IND 12/19/2012 IND vs. UTA W 15 5 2 5 40.0 0 0 - 1 3 33.3 0 1 1 0 0 0 0 3 6
+p611
+aVGeorge Hill IND 12/19/2012 IND vs. UTA W 29 20 8 13 61.5 2 2 100.0 2 2 100.0 0 5 5 5 1 0 1 1 24
+p612
+aVSam Young IND 12/19/2012 IND vs. UTA W 15 2 1 2 50.0 0 0 - 0 1 0.0 1 2 3 1 0 1 0 1 3
+p613
+aVRoy Hibbert IND 12/19/2012 IND vs. UTA W 30 12 5 10 50.0 0 0 - 2 2 100.0 0 4 4 4 1 2 2 4 22
+p614
+aVGerald Green IND 12/19/2012 IND vs. UTA W 23 21 7 12 58.3 4 6 66.7 3 5 60.0 0 0 0 1 0 0 3 1 4
+p615
+aVBen Hansbrough IND 12/18/2012 IND @ MIL L 12 7 1 1 100.0 0 0 - 5 6 83.3 0 2 2 3 2 0 2 0 -1
+p616
+aVRoy Hibbert IND 12/18/2012 IND @ MIL L 28 8 4 10 40.0 0 0 - 0 0 - 7 3 10 2 0 0 2 4 -8
+p617
+aVIan Mahinmi IND 12/18/2012 IND @ MIL L 20 14 5 9 55.6 0 0 - 4 6 66.7 2 3 5 0 1 0 1 5 3
+p618
+aVGerald Green IND 12/18/2012 IND @ MIL L 19 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 0 3 2 7
+p619
+aVDavid West IND 12/18/2012 IND @ MIL L 34 12 5 14 35.7 0 0 - 2 4 50.0 3 3 6 1 0 1 2 2 -14
+p620
+aVGeorge Hill IND 12/18/2012 IND @ MIL L 36 18 6 16 37.5 1 2 50.0 5 6 83.3 0 5 5 2 1 0 4 3 -4
+p621
+aVTyler Hansbrough IND 12/18/2012 IND @ MIL L 15 9 2 2 100.0 0 0 - 5 6 83.3 3 2 5 0 0 0 1 3 9
+p622
+aVPaul George IND 12/18/2012 IND @ MIL L 38 16 6 15 40.0 0 4 0.0 4 4 100.0 0 10 10 5 1 1 5 3 -10
+p623
+aVSam Young IND 12/18/2012 IND @ MIL L 11 0 0 3 0.0 0 1 0.0 0 0 - 2 2 4 1 0 1 0 0 3
+p624
+aVLance Stephenson IND 12/18/2012 IND @ MIL L 28 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 1 2 0 0 0 -10
+p625
+aVRoy Hibbert IND 12/15/2012 IND @ DET W 15 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 1 4 0 1 3
+p626
+aVIan Mahinmi IND 12/15/2012 IND @ DET W 18 3 1 2 50.0 0 0 - 1 2 50.0 3 2 5 1 0 1 0 0 -3
+p627
+aVSam Young IND 12/15/2012 IND @ DET W 25 3 1 4 25.0 1 3 33.3 0 0 - 0 4 4 2 0 1 0 4 3
+p628
+aVBen Hansbrough IND 12/15/2012 IND @ DET W 10 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 1 2 3
+p629
+aVPaul George IND 12/15/2012 IND @ DET W 44 15 6 16 37.5 1 7 14.3 2 4 50.0 1 7 8 8 4 1 2 5 12
+p630
+aVJeff Ayres IND 12/15/2012 IND @ DET W 8 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 1 1 1 0
+p631
+aVGerald Green IND 12/15/2012 IND @ DET W 27 9 3 9 33.3 3 8 37.5 0 0 - 0 3 3 0 0 0 2 1 7
+p632
+aVDavid West IND 12/15/2012 IND @ DET W 30 23 11 16 68.8 0 0 - 1 2 50.0 0 5 5 4 1 0 3 4 19
+p633
+aVTyler Hansbrough IND 12/15/2012 IND @ DET W 25 11 5 8 62.5 0 0 - 1 2 50.0 0 6 6 0 1 0 3 2 3
+p634
+aVGeorge Hill IND 12/15/2012 IND @ DET W 39 18 5 7 71.4 2 3 66.7 6 6 100.0 1 3 4 7 1 1 1 1 8
+p635
+aVTyler Hansbrough IND 12/14/2012 IND vs. PHI W 15 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 0 0 0 0 0 9
+p636
+aVSam Young IND 12/14/2012 IND vs. PHI W 26 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 1 1 1 1 3 4
+p637
+aVBen Hansbrough IND 12/14/2012 IND vs. PHI W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -6
+p638
+aVIan Mahinmi IND 12/14/2012 IND vs. PHI W 13 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 1 0 0 2 1 -7
+p639
+aVDavid West IND 12/14/2012 IND vs. PHI W 33 14 5 17 29.4 0 0 - 4 8 50.0 3 3 6 3 0 2 3 2 1
+p640
+aVRoy Hibbert IND 12/14/2012 IND vs. PHI W 34 19 9 16 56.3 0 0 - 1 2 50.0 6 7 13 3 0 1 4 5 16
+p641
+aVPaul George IND 12/14/2012 IND vs. PHI W 39 28 9 17 52.9 5 7 71.4 5 6 83.3 0 6 6 2 1 3 1 4 19
+p642
+aVGerald Green IND 12/14/2012 IND vs. PHI W 32 7 1 4 25.0 1 3 33.3 4 4 100.0 0 2 2 0 0 0 2 4 -2
+p643
+aVGeorge Hill IND 12/14/2012 IND vs. PHI W 39 15 6 13 46.2 2 4 50.0 1 1 100.0 0 10 10 9 2 2 3 1 16
+p644
+aVTyler Hansbrough IND 12/12/2012 IND vs. CLE W 13 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 3 -7
+p645
+aVDavid West IND 12/12/2012 IND vs. CLE W 33 18 7 15 46.7 0 0 - 4 4 100.0 3 6 9 7 1 2 1 1 22
+p646
+aVLance Stephenson IND 12/12/2012 IND vs. CLE W 18 9 4 6 66.7 0 1 0.0 1 1 100.0 0 3 3 2 0 0 0 1 5
+p647
+aVJeff Ayres IND 12/12/2012 IND vs. CLE W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 0
+p648
+aVSam Young IND 12/12/2012 IND vs. CLE W 17 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -3
+p649
+aVRoy Hibbert IND 12/12/2012 IND vs. CLE W 29 4 1 7 14.3 0 0 - 2 2 100.0 5 7 12 1 1 3 5 3 15
+p650
+aVOrlando Johnson IND 12/12/2012 IND vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p651
+aVIan Mahinmi IND 12/12/2012 IND vs. CLE W 19 3 1 4 25.0 0 0 - 1 1 100.0 2 4 6 1 0 0 0 5 0
+p652
+aVGerald Green IND 12/12/2012 IND vs. CLE W 24 2 1 8 12.5 0 4 0.0 0 0 - 0 0 0 3 1 2 3 0 9
+p653
+aVBen Hansbrough IND 12/12/2012 IND vs. CLE W 17 6 1 2 50.0 1 1 100.0 3 4 75.0 0 1 1 1 2 0 0 3 -6
+p654
+aVPaul George IND 12/12/2012 IND vs. CLE W 35 27 10 18 55.6 3 5 60.0 4 5 80.0 1 6 7 3 0 0 2 2 19
+p655
+aVGeorge Hill IND 12/12/2012 IND vs. CLE W 31 17 5 16 31.3 1 7 14.3 6 7 85.7 1 6 7 3 2 0 1 2 21
+p656
+aVD.J. Augustin IND 12/09/2012 IND @ OKC L 9 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -11
+p657
+aVLance Stephenson IND 12/09/2012 IND @ OKC L 25 10 4 8 50.0 1 1 100.0 1 1 100.0 0 1 1 2 1 0 0 4 4
+p658
+aVGeorge Hill IND 12/09/2012 IND @ OKC L 39 15 5 14 35.7 2 7 28.6 3 3 100.0 1 3 4 3 0 0 0 1 0
+p659
+aVGerald Green IND 12/09/2012 IND @ OKC L 23 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -15
+p660
+aVDavid West IND 12/09/2012 IND @ OKC L 38 21 10 16 62.5 0 0 - 1 3 33.3 2 7 9 1 1 0 2 2 -3
+p661
+aVIan Mahinmi IND 12/09/2012 IND @ OKC L 21 4 2 7 28.6 0 0 - 0 0 - 2 0 2 0 0 1 1 1 -10
+p662
+aVRoy Hibbert IND 12/09/2012 IND @ OKC L 27 10 4 9 44.4 0 0 - 2 2 100.0 2 4 6 1 0 2 0 2 -1
+p663
+aVTyler Hansbrough IND 12/09/2012 IND @ OKC L 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -8
+p664
+aVPaul George IND 12/09/2012 IND @ OKC L 39 17 5 15 33.3 3 6 50.0 4 4 100.0 1 7 8 3 2 0 1 3 0
+p665
+aVSam Young IND 12/09/2012 IND @ OKC L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -11
+p666
+aVPaul George IND 12/07/2012 IND vs. DEN L 35 22 9 15 60.0 4 5 80.0 0 1 0.0 1 5 6 6 1 2 2 4 12
+p667
+aVTyler Hansbrough IND 12/07/2012 IND vs. DEN L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -12
+p668
+aVLance Stephenson IND 12/07/2012 IND vs. DEN L 32 12 5 8 62.5 1 3 33.3 1 2 50.0 1 3 4 2 1 0 2 3 13
+p669
+aVDavid West IND 12/07/2012 IND vs. DEN L 34 18 8 12 66.7 0 0 - 2 2 100.0 1 10 11 3 1 1 2 1 9
+p670
+aVRoy Hibbert IND 12/07/2012 IND vs. DEN L 30 10 3 10 30.0 0 0 - 4 6 66.7 4 5 9 3 1 3 3 2 7
+p671
+aVIan Mahinmi IND 12/07/2012 IND vs. DEN L 18 2 1 5 20.0 0 0 - 0 0 - 2 5 7 0 1 0 2 3 -10
+p672
+aVGerald Green IND 12/07/2012 IND vs. DEN L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -14
+p673
+aVD.J. Augustin IND 12/07/2012 IND vs. DEN L 10 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 3 1 -12
+p674
+aVSam Young IND 12/07/2012 IND vs. DEN L 16 9 3 7 42.9 2 4 50.0 1 2 50.0 0 0 0 1 0 0 2 2 -17
+p675
+aVGeorge Hill IND 12/07/2012 IND vs. DEN L 38 15 5 15 33.3 3 9 33.3 2 3 66.7 0 4 4 10 0 3 1 2 9
+p676
+aVSam Young IND 12/05/2012 IND vs. POR W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 0 2
+p677
+aVDavid West IND 12/05/2012 IND vs. POR W 32 16 8 11 72.7 0 0 - 0 0 - 5 5 10 2 1 0 2 1 11
+p678
+aVGeorge Hill IND 12/05/2012 IND vs. POR W 34 18 5 13 38.5 3 7 42.9 5 5 100.0 0 2 2 3 1 1 3 1 5
+p679
+aVIan Mahinmi IND 12/05/2012 IND vs. POR W 19 12 6 6 100.0 0 0 - 0 0 - 1 3 4 0 0 1 2 4 4
+p680
+aVTyler Hansbrough IND 12/05/2012 IND vs. POR W 16 10 3 6 50.0 0 0 - 4 4 100.0 3 2 5 0 1 0 1 0 -2
+p681
+aVLance Stephenson IND 12/05/2012 IND vs. POR W 23 2 1 4 25.0 0 2 0.0 0 0 - 0 5 5 3 1 0 0 1 4
+p682
+aVRoy Hibbert IND 12/05/2012 IND vs. POR W 29 10 3 13 23.1 0 0 - 4 4 100.0 3 4 7 0 0 3 1 4 1
+p683
+aVGerald Green IND 12/05/2012 IND vs. POR W 23 8 3 8 37.5 2 5 40.0 0 0 - 1 1 2 2 0 2 0 0 2
+p684
+aVD.J. Augustin IND 12/05/2012 IND vs. POR W 15 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 4 1 0 0 0 4
+p685
+aVPaul George IND 12/05/2012 IND vs. POR W 38 22 7 15 46.7 4 9 44.4 4 4 100.0 0 8 8 5 1 0 4 1 4
+p686
+aVLance Stephenson IND 12/04/2012 IND @ CHI W 38 6 2 5 40.0 0 0 - 2 3 66.7 2 5 7 1 0 0 1 4 11
+p687
+aVIan Mahinmi IND 12/04/2012 IND @ CHI W 14 6 1 3 33.3 0 0 - 4 6 66.7 0 0 0 0 1 0 2 2 -7
+p688
+aVGerald Green IND 12/04/2012 IND @ CHI W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -1
+p689
+aVRoy Hibbert IND 12/04/2012 IND @ CHI W 34 10 5 11 45.5 0 0 - 0 0 - 6 5 11 2 2 2 3 2 11
+p690
+aVPaul George IND 12/04/2012 IND @ CHI W 41 34 14 25 56.0 1 3 33.3 5 5 100.0 4 5 9 2 3 2 2 3 5
+p691
+aVD.J. Augustin IND 12/04/2012 IND @ CHI W 11 2 0 2 0.0 0 1 0.0 2 3 66.7 1 1 2 2 1 0 0 1 -8
+p692
+aVDavid West IND 12/04/2012 IND @ CHI W 35 10 3 12 25.0 0 0 - 4 6 66.7 2 7 9 5 1 0 1 3 15
+p693
+aVTyler Hansbrough IND 12/04/2012 IND @ CHI W 13 2 0 4 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 -11
+p694
+aVGeorge Hill IND 12/04/2012 IND @ CHI W 37 8 3 16 18.8 1 5 20.0 1 2 50.0 0 3 3 5 1 0 1 1 12
+p695
+aVSam Young IND 12/04/2012 IND @ CHI W 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -7
+p696
+aVPaul George IND 12/01/2012 IND @ GSW L 29 0 0 7 0.0 0 5 0.0 0 0 - 1 4 5 4 0 0 1 3 -6
+p697
+aVLance Stephenson IND 12/01/2012 IND @ GSW L 23 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 4 2 0 1 1 -4
+p698
+aVSam Young IND 12/01/2012 IND @ GSW L 23 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 1 0 0 1 0 -7
+p699
+aVGeorge Hill IND 12/01/2012 IND @ GSW L 37 19 6 12 50.0 3 5 60.0 4 4 100.0 0 1 1 3 0 0 1 1 -4
+p700
+aVDavid West IND 12/01/2012 IND @ GSW L 37 23 10 16 62.5 0 0 - 3 4 75.0 2 6 8 4 3 0 2 0 -3
+p701
+aVGerald Green IND 12/01/2012 IND @ GSW L 20 8 3 5 60.0 2 4 50.0 0 0 - 2 4 6 1 0 1 2 1 -5
+p702
+aVRoy Hibbert IND 12/01/2012 IND @ GSW L 32 15 6 13 46.2 0 1 0.0 3 4 75.0 1 6 7 2 0 5 4 5 -5
+p703
+aVD.J. Augustin IND 12/01/2012 IND @ GSW L 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -7
+p704
+aVTyler Hansbrough IND 12/01/2012 IND @ GSW L 11 0 0 5 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -8
+p705
+aVIan Mahinmi IND 12/01/2012 IND @ GSW L 16 10 2 3 66.7 0 0 - 6 8 75.0 2 2 4 0 0 1 2 5 -6
+p706
+aVSam Young IND 11/30/2012 IND @ SAC W 25 12 5 11 45.5 2 3 66.7 0 0 - 1 4 5 4 1 0 0 1 -4
+p707
+aVDavid West IND 11/30/2012 IND @ SAC W 38 31 13 20 65.0 0 0 - 5 7 71.4 3 8 11 2 0 2 3 2 8
+p708
+aVIan Mahinmi IND 11/30/2012 IND @ SAC W 19 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 2 0 1 1
+p709
+aVPaul George IND 11/30/2012 IND @ SAC W 32 4 2 11 18.2 0 6 0.0 0 1 0.0 0 4 4 9 2 0 1 2 11
+p710
+aVD.J. Augustin IND 11/30/2012 IND @ SAC W 13 8 2 7 28.6 2 5 40.0 2 2 100.0 0 0 0 3 3 0 0 1 0
+p711
+aVRoy Hibbert IND 11/30/2012 IND @ SAC W 29 8 3 9 33.3 0 0 - 2 2 100.0 3 3 6 1 0 2 1 5 4
+p712
+aVTyler Hansbrough IND 11/30/2012 IND @ SAC W 10 4 2 3 66.7 0 0 - 0 1 0.0 0 0 0 0 0 0 0 3 -3
+p713
+aVGeorge Hill IND 11/30/2012 IND @ SAC W 35 25 9 14 64.3 4 6 66.7 3 4 75.0 0 6 6 8 1 0 0 3 5
+p714
+aVGerald Green IND 11/30/2012 IND @ SAC W 13 5 1 5 20.0 1 3 33.3 2 2 100.0 1 1 2 0 0 0 2 1 10
+p715
+aVLance Stephenson IND 11/30/2012 IND @ SAC W 25 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 2 0 -7
+p716
+aVSam Young IND 11/27/2012 IND @ LAL W 18 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 1 1 0 1 3 -8
+p717
+aVD.J. Augustin IND 11/27/2012 IND @ LAL W 12 3 1 5 20.0 0 2 0.0 1 1 100.0 0 1 1 0 0 0 2 2 -9
+p718
+aVGerald Green IND 11/27/2012 IND @ LAL W 16 3 1 8 12.5 1 3 33.3 0 0 - 1 1 2 0 1 0 0 2 -13
+p719
+aVIan Mahinmi IND 11/27/2012 IND @ LAL W 30 11 2 5 40.0 0 0 - 7 10 70.0 2 4 6 0 1 1 1 4 1
+p720
+aVGeorge Hill IND 11/27/2012 IND @ LAL W 36 19 7 13 53.8 1 4 25.0 4 5 80.0 1 4 5 5 1 0 4 3 11
+p721
+aVPaul George IND 11/27/2012 IND @ LAL W 33 12 5 13 38.5 2 6 33.3 0 2 0.0 1 8 9 2 2 0 2 4 16
+p722
+aVTyler Hansbrough IND 11/27/2012 IND @ LAL W 12 3 0 2 0.0 0 0 - 3 4 75.0 1 3 4 1 1 0 0 1 -4
+p723
+aVLance Stephenson IND 11/27/2012 IND @ LAL W 29 4 2 7 28.6 0 3 0.0 0 0 - 1 3 4 0 0 0 0 3 9
+p724
+aVDavid West IND 11/27/2012 IND @ LAL W 36 16 7 15 46.7 0 0 - 2 4 50.0 0 10 10 8 0 2 5 4 6
+p725
+aVRoy Hibbert IND 11/27/2012 IND @ LAL W 18 8 4 7 57.1 0 0 - 0 1 0.0 3 2 5 0 2 3 2 6 1
+p726
+aVD.J. Augustin IND 11/23/2012 IND vs. SAS L 15 8 3 7 42.9 1 3 33.3 1 1 100.0 0 1 1 8 0 0 2 4 9
+p727
+aVDavid West IND 11/23/2012 IND vs. SAS L 30 22 7 13 53.8 0 0 - 8 11 72.7 3 5 8 3 0 0 1 3 -13
+p728
+aVRoy Hibbert IND 11/23/2012 IND vs. SAS L 30 10 5 18 27.8 0 0 - 0 0 - 7 4 11 2 0 2 0 4 -13
+p729
+aVPaul George IND 11/23/2012 IND vs. SAS L 34 15 6 14 42.9 2 2 100.0 1 2 50.0 1 3 4 2 0 1 3 2 -18
+p730
+aVTyler Hansbrough IND 11/23/2012 IND vs. SAS L 18 3 1 3 33.3 0 0 - 1 2 50.0 4 8 12 0 0 1 1 2 6
+p731
+aVIan Mahinmi IND 11/23/2012 IND vs. SAS L 17 7 3 7 42.9 0 0 - 1 2 50.0 2 1 3 1 1 1 2 4 7
+p732
+aVLance Stephenson IND 11/23/2012 IND vs. SAS L 25 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 2 0 0 1 1 -9
+p733
+aVGeorge Hill IND 11/23/2012 IND vs. SAS L 34 11 5 15 33.3 0 5 0.0 1 1 100.0 1 3 4 7 0 0 0 2 -19
+p734
+aVGerald Green IND 11/23/2012 IND vs. SAS L 16 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 2 0 0 1 1 10
+p735
+aVSam Young IND 11/23/2012 IND vs. SAS L 20 6 2 5 40.0 1 2 50.0 1 2 50.0 1 3 4 0 0 0 2 0 5
+p736
+aVDavid West IND 11/21/2012 IND vs. NOH W 42 16 8 16 50.0 0 0 - 0 0 - 2 5 7 5 1 2 3 2 16
+p737
+aVGeorge Hill IND 11/21/2012 IND vs. NOH W 37 16 5 12 41.7 3 4 75.0 3 4 75.0 1 5 6 7 1 1 0 1 3
+p738
+aVRoy Hibbert IND 11/21/2012 IND vs. NOH W 36 10 3 12 25.0 0 0 - 4 6 66.7 5 6 11 1 2 11 0 6 4
+p739
+aVD.J. Augustin IND 11/21/2012 IND vs. NOH W 18 3 1 2 50.0 0 1 0.0 1 2 50.0 1 0 1 3 1 0 1 1 5
+p740
+aVTyler Hansbrough IND 11/21/2012 IND vs. NOH W 17 11 1 5 20.0 0 0 - 9 10 90.0 1 2 3 0 0 0 0 1 1
+p741
+aVSam Young IND 11/21/2012 IND vs. NOH W 16 3 1 7 14.3 0 3 0.0 1 1 100.0 3 2 5 1 0 0 2 3 -10
+p742
+aVPaul George IND 11/21/2012 IND vs. NOH W 34 37 13 21 61.9 9 13 69.2 2 3 66.7 1 3 4 4 1 0 0 4 8
+p743
+aVLance Stephenson IND 11/21/2012 IND vs. NOH W 36 12 5 9 55.6 2 3 66.7 0 0 - 1 4 5 5 0 0 2 3 16
+p744
+aVGerald Green IND 11/21/2012 IND vs. NOH W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 1 2
+p745
+aVIan Mahinmi IND 11/21/2012 IND vs. NOH W 11 2 1 3 33.3 0 0 - 0 2 0.0 2 2 4 0 0 2 0 2 -5
+p746
+aVRoy Hibbert IND 11/19/2012 IND @ WAS W 33 20 8 10 80.0 0 0 - 4 5 80.0 3 9 12 3 0 4 2 5 21
+p747
+aVLance Stephenson IND 11/19/2012 IND @ WAS W 16 2 1 1 100.0 0 0 - 0 1 0.0 0 3 3 4 1 0 1 3 16
+p748
+aVGerald Green IND 11/19/2012 IND @ WAS W 17 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p749
+aVSam Young IND 11/19/2012 IND @ WAS W 35 9 4 10 40.0 1 6 16.7 0 0 - 1 7 8 1 0 0 2 5 1
+p750
+aVTyler Hansbrough IND 11/19/2012 IND @ WAS W 11 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 2 1 -7
+p751
+aVD.J. Augustin IND 11/19/2012 IND @ WAS W 16 4 1 5 20.0 0 2 0.0 2 3 66.7 0 1 1 1 1 0 1 2 -16
+p752
+aVPaul George IND 11/19/2012 IND @ WAS W 24 6 2 7 28.6 1 3 33.3 1 2 50.0 1 4 5 2 0 0 3 4 -3
+p753
+aVIan Mahinmi IND 11/19/2012 IND @ WAS W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 2 3 1 -14
+p754
+aVGeorge Hill IND 11/19/2012 IND @ WAS W 36 12 2 11 18.2 0 6 0.0 8 8 100.0 0 3 3 5 1 0 2 4 24
+p755
+aVDavid West IND 11/19/2012 IND @ WAS W 37 30 10 14 71.4 0 0 - 10 10 100.0 3 5 8 3 1 4 4 2 14
+p756
+aVGerald Green IND 11/18/2012 IND @ NYK L 18 5 2 2 100.0 1 1 100.0 0 0 - 0 4 4 1 0 1 0 0 2
+p757
+aVLance Stephenson IND 11/18/2012 IND @ NYK L 28 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 5 1 0 3 2 -11
+p758
+aVGeorge Hill IND 11/18/2012 IND @ NYK L 33 7 2 9 22.2 2 6 33.3 1 1 100.0 0 3 3 6 0 0 3 3 -11
+p759
+aVJeff Ayres IND 11/18/2012 IND @ NYK L 4 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 7
+p760
+aVSam Young IND 11/18/2012 IND @ NYK L 19 6 2 2 100.0 1 1 100.0 1 4 25.0 0 6 6 1 0 0 0 2 -8
+p761
+aVIan Mahinmi IND 11/18/2012 IND @ NYK L 10 0 0 6 0.0 0 0 - 0 2 0.0 0 3 3 0 1 1 0 1 -7
+p762
+aVMiles Plumlee IND 11/18/2012 IND @ NYK L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 7
+p763
+aVD.J. Augustin IND 11/18/2012 IND @ NYK L 6 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 1 0 1 0 -1
+p764
+aVDavid West IND 11/18/2012 IND @ NYK L 34 14 6 10 60.0 0 0 - 2 2 100.0 0 7 7 3 0 1 2 0 -17
+p765
+aVPaul George IND 11/18/2012 IND @ NYK L 36 20 6 15 40.0 4 7 57.1 4 4 100.0 1 2 3 3 1 0 2 3 -14
+p766
+aVTyler Hansbrough IND 11/18/2012 IND @ NYK L 19 5 1 2 50.0 0 0 - 3 4 75.0 4 4 8 0 0 1 2 2 2
+p767
+aVRoy Hibbert IND 11/18/2012 IND @ NYK L 25 6 3 10 30.0 0 0 - 0 0 - 4 4 8 1 0 2 6 4 -16
+p768
+aVBen Hansbrough IND 11/18/2012 IND @ NYK L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 7
+p769
+aVIan Mahinmi IND 11/16/2012 IND vs. DAL W 13 7 3 6 50.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 4 7
+p770
+aVD.J. Augustin IND 11/16/2012 IND vs. DAL W 14 0 0 0 - 0 0 - 0 0 - 0 1 1 4 1 1 0 0 7
+p771
+aVGeorge Hill IND 11/16/2012 IND vs. DAL W 34 15 5 7 71.4 1 1 100.0 4 6 66.7 0 5 5 7 2 0 2 0 13
+p772
+aVTyler Hansbrough IND 11/16/2012 IND vs. DAL W 23 8 3 7 42.9 0 0 - 2 5 40.0 3 3 6 0 0 0 0 2 7
+p773
+aVLance Stephenson IND 11/16/2012 IND vs. DAL W 25 12 5 9 55.6 2 3 66.7 0 0 - 0 1 1 3 1 0 1 1 7
+p774
+aVSam Young IND 11/16/2012 IND vs. DAL W 21 14 6 11 54.5 2 7 28.6 0 0 - 0 4 4 2 2 0 0 0 17
+p775
+aVDavid West IND 11/16/2012 IND vs. DAL W 27 15 5 9 55.6 0 0 - 5 8 62.5 1 6 7 2 1 1 1 1 10
+p776
+aVRoy Hibbert IND 11/16/2012 IND vs. DAL W 29 14 5 15 33.3 0 0 - 4 7 57.1 5 3 8 2 2 2 0 3 16
+p777
+aVMiles Plumlee IND 11/16/2012 IND vs. DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p778
+aVJeff Ayres IND 11/16/2012 IND vs. DAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 0
+p779
+aVGerald Green IND 11/16/2012 IND vs. DAL W 21 5 2 6 33.3 0 2 0.0 1 1 100.0 0 5 5 0 0 0 0 0 9
+p780
+aVOrlando Johnson IND 11/16/2012 IND vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p781
+aVPaul George IND 11/16/2012 IND vs. DAL W 26 11 4 11 36.4 1 3 33.3 2 2 100.0 0 5 5 2 2 0 2 4 7
+p782
+aVSam Young IND 11/14/2012 IND @ MIL L 16 8 3 6 50.0 1 2 50.0 1 4 25.0 0 5 5 1 1 1 1 0 12
+p783
+aVMiles Plumlee IND 11/14/2012 IND @ MIL L 6 2 0 1 0.0 0 0 - 2 2 100.0 2 2 4 1 0 0 0 0 5
+p784
+aVD.J. Augustin IND 11/14/2012 IND @ MIL L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 1 0 5
+p785
+aVJeff Ayres IND 11/14/2012 IND @ MIL L 6 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 0 0 1 1 5
+p786
+aVDavid West IND 11/14/2012 IND @ MIL L 23 7 3 9 33.3 0 0 - 1 2 50.0 1 8 9 1 0 0 2 3 -24
+p787
+aVIan Mahinmi IND 11/14/2012 IND @ MIL L 7 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 1 -5
+p788
+aVBen Hansbrough IND 11/14/2012 IND @ MIL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 3 1 0 2 0 5
+p789
+aVGeorge Hill IND 11/14/2012 IND @ MIL L 30 3 1 10 10.0 0 3 0.0 1 2 50.0 2 2 4 4 0 0 2 3 -26
+p790
+aVGerald Green IND 11/14/2012 IND @ MIL L 26 13 4 10 40.0 2 4 50.0 3 4 75.0 1 5 6 0 0 0 0 1 6
+p791
+aVPaul George IND 11/14/2012 IND @ MIL L 30 12 5 17 29.4 1 6 16.7 1 1 100.0 0 3 3 2 1 1 2 2 -27
+p792
+aVRoy Hibbert IND 11/14/2012 IND @ MIL L 25 7 3 6 50.0 0 0 - 1 4 25.0 3 5 8 0 0 2 2 2 -22
+p793
+aVTyler Hansbrough IND 11/14/2012 IND @ MIL L 19 17 6 8 75.0 0 0 - 5 6 83.3 3 2 5 1 0 0 2 3 5
+p794
+aVLance Stephenson IND 11/14/2012 IND @ MIL L 30 4 1 3 33.3 0 2 0.0 2 2 100.0 0 3 3 4 0 0 3 2 -9
+p795
+aVD.J. Augustin IND 11/13/2012 IND vs. TOR L 11 4 1 2 50.0 1 1 100.0 1 1 100.0 0 1 1 2 0 0 1 0 1
+p796
+aVTyler Hansbrough IND 11/13/2012 IND vs. TOR L 22 5 0 2 0.0 0 0 - 5 6 83.3 2 3 5 0 0 0 1 3 6
+p797
+aVPaul George IND 11/13/2012 IND vs. TOR L 41 12 3 14 21.4 2 6 33.3 4 4 100.0 3 6 9 4 3 0 2 4 5
+p798
+aVIan Mahinmi IND 11/13/2012 IND vs. TOR L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 6 6 0 0 2 0 0 -2
+p799
+aVLance Stephenson IND 11/13/2012 IND vs. TOR L 27 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 3 0 0 1 3 -7
+p800
+aVGerald Green IND 11/13/2012 IND vs. TOR L 28 6 2 7 28.6 1 2 50.0 1 2 50.0 2 3 5 0 0 0 0 1 -2
+p801
+aVGeorge Hill IND 11/13/2012 IND vs. TOR L 37 18 8 20 40.0 0 4 0.0 2 2 100.0 2 3 5 2 2 1 3 2 -3
+p802
+aVDavid West IND 11/13/2012 IND vs. TOR L 37 11 3 12 25.0 0 0 - 5 8 62.5 2 4 6 2 0 2 2 0 2
+p803
+aVRoy Hibbert IND 11/13/2012 IND vs. TOR L 24 6 3 9 33.3 0 0 - 0 0 - 3 6 9 1 3 2 2 3 -10
+p804
+aVIan Mahinmi IND 11/10/2012 IND vs. WAS W 14 7 3 4 75.0 0 0 - 1 1 100.0 2 2 4 1 1 1 1 1 3
+p805
+aVPaul George IND 11/10/2012 IND vs. WAS W 37 20 8 12 66.7 2 5 40.0 2 2 100.0 0 7 7 3 0 0 2 1 1
+p806
+aVGerald Green IND 11/10/2012 IND vs. WAS W 28 15 6 12 50.0 1 4 25.0 2 2 100.0 0 8 8 0 0 0 2 1 10
+p807
+aVTyler Hansbrough IND 11/10/2012 IND vs. WAS W 21 6 1 2 50.0 0 0 - 4 12 33.3 2 4 6 0 2 0 1 1 14
+p808
+aVRoy Hibbert IND 11/10/2012 IND vs. WAS W 26 7 3 15 20.0 0 0 - 1 2 50.0 8 4 12 1 1 2 4 3 -10
+p809
+aVLance Stephenson IND 11/10/2012 IND vs. WAS W 31 12 5 7 71.4 2 2 100.0 0 0 - 0 4 4 2 0 0 1 2 -5
+p810
+aVGeorge Hill IND 11/10/2012 IND vs. WAS W 35 8 3 9 33.3 1 3 33.3 1 2 50.0 0 2 2 5 0 0 1 2 3
+p811
+aVD.J. Augustin IND 11/10/2012 IND vs. WAS W 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 3
+p812
+aVDavid West IND 11/10/2012 IND vs. WAS W 35 11 4 16 25.0 0 0 - 3 3 100.0 2 2 4 2 0 1 0 1 1
+p813
+aVSam Young IND 11/09/2012 IND @ MIN L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -7
+p814
+aVGerald Green IND 11/09/2012 IND @ MIN L 30 8 2 9 22.2 0 0 - 4 4 100.0 1 5 6 1 0 0 0 3 1
+p815
+aVGeorge Hill IND 11/09/2012 IND @ MIN L 35 29 11 17 64.7 2 4 50.0 5 5 100.0 2 3 5 7 1 1 2 0 4
+p816
+aVTyler Hansbrough IND 11/09/2012 IND @ MIN L 21 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 2 0 0 2 -7
+p817
+aVIan Mahinmi IND 11/09/2012 IND @ MIN L 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 0 0 0 2 4 -8
+p818
+aVDavid West IND 11/09/2012 IND @ MIN L 37 19 8 16 50.0 0 0 - 3 4 75.0 6 7 13 1 2 2 2 3 8
+p819
+aVPaul George IND 11/09/2012 IND @ MIN L 35 11 4 12 33.3 2 6 33.3 1 2 50.0 0 3 3 4 0 0 2 1 -2
+p820
+aVD.J. Augustin IND 11/09/2012 IND @ MIN L 13 0 0 6 0.0 0 5 0.0 0 0 - 0 0 0 2 1 0 1 0 -3
+p821
+aVRoy Hibbert IND 11/09/2012 IND @ MIN L 28 10 5 11 45.5 0 0 - 0 0 - 2 2 4 0 0 1 2 4 0
+p822
+aVLance Stephenson IND 11/09/2012 IND @ MIN L 20 9 4 5 80.0 1 2 50.0 0 0 - 0 0 0 3 0 0 1 2 4
+p823
+aVGeorge Hill IND 11/07/2012 IND @ ATL L 38 20 7 12 58.3 4 7 57.1 2 2 100.0 0 3 3 5 4 1 2 1 8
+p824
+aVRoy Hibbert IND 11/07/2012 IND @ ATL L 37 9 4 12 33.3 0 0 - 1 1 100.0 3 4 7 3 0 2 1 2 12
+p825
+aVSam Young IND 11/07/2012 IND @ ATL L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 2 1 -1
+p826
+aVPaul George IND 11/07/2012 IND @ ATL L 39 13 5 13 38.5 2 7 28.6 1 1 100.0 1 6 7 2 4 1 3 1 5
+p827
+aVLance Stephenson IND 11/07/2012 IND @ ATL L 28 9 3 10 30.0 1 4 25.0 2 2 100.0 0 5 5 3 1 0 1 2 -3
+p828
+aVD.J. Augustin IND 11/07/2012 IND @ ATL L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -11
+p829
+aVTyler Hansbrough IND 11/07/2012 IND @ ATL L 15 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 1 0 2 1 -6
+p830
+aVGerald Green IND 11/07/2012 IND @ ATL L 18 5 2 8 25.0 1 4 25.0 0 0 - 2 3 5 0 0 2 2 1 -7
+p831
+aVIan Mahinmi IND 11/07/2012 IND @ ATL L 8 4 2 3 66.7 0 0 - 0 1 0.0 2 0 2 0 0 0 1 1 -13
+p832
+aVDavid West IND 11/07/2012 IND @ ATL L 36 20 9 18 50.0 0 1 0.0 2 2 100.0 3 3 6 2 0 1 1 4 1
+p833
+aVGerald Green IND 11/05/2012 IND @ SAS L 26 9 4 10 40.0 1 4 25.0 0 0 - 4 4 8 1 0 0 0 1 -2
+p834
+aVRoy Hibbert IND 11/05/2012 IND @ SAS L 27 2 1 7 14.3 0 0 - 0 0 - 4 1 5 0 1 1 3 2 -8
+p835
+aVBen Hansbrough IND 11/05/2012 IND @ SAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p836
+aVTyler Hansbrough IND 11/05/2012 IND @ SAS L 23 9 1 7 14.3 0 0 - 7 9 77.8 2 4 6 0 0 0 1 1 -21
+p837
+aVSam Young IND 11/05/2012 IND @ SAS L 16 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 2 -12
+p838
+aVPaul George IND 11/05/2012 IND @ SAS L 41 14 5 13 38.5 1 3 33.3 3 3 100.0 1 2 3 1 1 2 4 2 -20
+p839
+aVD.J. Augustin IND 11/05/2012 IND @ SAS L 13 7 2 6 33.3 2 5 40.0 1 1 100.0 0 2 2 2 0 0 1 0 -8
+p840
+aVOrlando Johnson IND 11/05/2012 IND @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p841
+aVMiles Plumlee IND 11/05/2012 IND @ SAS L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -1
+p842
+aVGeorge Hill IND 11/05/2012 IND @ SAS L 31 15 5 15 33.3 2 7 28.6 3 3 100.0 0 4 4 6 1 0 3 1 -13
+p843
+aVDavid West IND 11/05/2012 IND @ SAS L 25 10 4 9 44.4 0 0 - 2 2 100.0 1 10 11 1 0 1 1 1 -1
+p844
+aVIan Mahinmi IND 11/05/2012 IND @ SAS L 17 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 0 2 1 3 -13
+p845
+aVLance Stephenson IND 11/05/2012 IND @ SAS L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 -9
+p846
+aVGerald Green IND 11/03/2012 IND vs. SAC W 24 17 6 9 66.7 1 3 33.3 4 4 100.0 2 1 3 0 2 0 2 4 -2
+p847
+aVSam Young IND 11/03/2012 IND vs. SAC W 12 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 0 1 0 4 1 -13
+p848
+aVGeorge Hill IND 11/03/2012 IND vs. SAC W 45 18 7 17 41.2 0 2 0.0 4 5 80.0 2 6 8 5 2 1 3 1 15
+p849
+aVPaul George IND 11/03/2012 IND vs. SAC W 48 16 6 15 40.0 2 7 28.6 2 2 100.0 1 16 17 3 2 4 4 3 7
+p850
+aVD.J. Augustin IND 11/03/2012 IND vs. SAC W 13 3 1 4 25.0 0 3 0.0 1 1 100.0 0 1 1 3 0 0 1 0 -7
+p851
+aVRoy Hibbert IND 11/03/2012 IND vs. SAC W 43 12 6 11 54.5 0 0 - 0 2 0.0 5 5 10 3 0 6 2 2 16
+p852
+aVDavid West IND 11/03/2012 IND vs. SAC W 47 18 7 21 33.3 0 1 0.0 4 4 100.0 5 13 18 1 1 2 1 1 21
+p853
+aVTyler Hansbrough IND 11/03/2012 IND vs. SAC W 16 6 1 3 33.3 0 0 - 4 4 100.0 3 2 5 0 0 0 0 2 -9
+p854
+aVLance Stephenson IND 11/03/2012 IND vs. SAC W 32 10 4 12 33.3 1 4 25.0 1 1 100.0 0 2 2 1 2 1 2 2 22
+p855
+aVIan Mahinmi IND 11/03/2012 IND vs. SAC W 10 4 0 2 0.0 0 0 - 4 4 100.0 2 0 2 0 0 0 2 3 -10
+p856
+aVD.J. Augustin IND 11/02/2012 IND @ CHA L 17 3 1 7 14.3 1 5 20.0 0 0 - 0 4 4 5 0 0 0 1 11
+p857
+aVDavid West IND 11/02/2012 IND @ CHA L 34 14 7 17 41.2 0 0 - 0 2 0.0 0 6 6 2 1 0 1 1 -11
+p858
+aVPaul George IND 11/02/2012 IND @ CHA L 36 12 4 11 36.4 2 5 40.0 2 2 100.0 1 6 7 6 1 0 5 3 -4
+p859
+aVIan Mahinmi IND 11/02/2012 IND @ CHA L 22 7 2 5 40.0 0 0 - 3 4 75.0 2 6 8 0 0 1 1 1 6
+p860
+aVTyler Hansbrough IND 11/02/2012 IND @ CHA L 17 15 4 9 44.4 0 1 0.0 7 8 87.5 4 2 6 0 1 2 1 2 9
+p861
+aVGeorge Hill IND 11/02/2012 IND @ CHA L 34 8 3 9 33.3 1 6 16.7 1 1 100.0 0 4 4 1 0 0 2 2 -8
+p862
+aVLance Stephenson IND 11/02/2012 IND @ CHA L 25 15 6 9 66.7 2 3 66.7 1 2 50.0 0 6 6 4 2 0 3 0 13
+p863
+aVGerald Green IND 11/02/2012 IND @ CHA L 32 7 3 12 25.0 1 6 16.7 0 4 0.0 1 3 4 0 0 1 2 2 -16
+p864
+aVSam Young IND 11/02/2012 IND @ CHA L 0 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p865
+aVRoy Hibbert IND 11/02/2012 IND @ CHA L 24 7 3 4 75.0 0 0 - 1 2 50.0 6 1 7 1 0 1 2 4 -6
+p866
+aVGeorge Hill IND 10/31/2012 IND @ TOR W 33 8 3 9 33.3 1 4 25.0 1 2 50.0 0 1 1 7 0 1 1 3 2
+p867
+aVSam Young IND 10/31/2012 IND @ TOR W 11 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 1
+p868
+aVPaul George IND 10/31/2012 IND @ TOR W 35 14 7 15 46.7 0 0 - 0 0 - 2 13 15 5 0 1 5 2 3
+p869
+aVTyler Hansbrough IND 10/31/2012 IND @ TOR W 20 8 2 5 40.0 0 0 - 4 4 100.0 0 3 3 1 0 0 0 0 2
+p870
+aVD.J. Augustin IND 10/31/2012 IND @ TOR W 15 5 1 4 25.0 1 1 100.0 2 3 66.7 0 1 1 2 1 0 2 1 0
+p871
+aVIan Mahinmi IND 10/31/2012 IND @ TOR W 19 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 0 0 2 4 3 -5
+p872
+aVLance Stephenson IND 10/31/2012 IND @ TOR W 13 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 0 0 0 0 0 -1
+p873
+aVDavid West IND 10/31/2012 IND @ TOR W 28 25 12 19 63.2 0 1 0.0 1 1 100.0 0 2 2 1 1 0 0 3 0
+p874
+aVRoy Hibbert IND 10/31/2012 IND @ TOR W 29 14 6 13 46.2 0 0 - 2 4 50.0 3 7 10 3 1 5 0 3 7
+p875
+aVGerald Green IND 10/31/2012 IND @ TOR W 37 6 2 7 28.6 2 4 50.0 0 0 - 0 2 2 2 0 1 6 1 1
+p876
+a.

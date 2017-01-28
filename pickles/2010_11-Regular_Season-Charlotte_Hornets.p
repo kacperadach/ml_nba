@@ -1,0 +1,1714 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVD.J. Augustin CHA 04/13/2011 CHA vs. ATL W 34 17 6 13 46.2 1 4 25.0 4 4 100.0 0 2 2 7 1 0 1 1 2
+p2
+aVKwame Brown CHA 04/13/2011 CHA vs. ATL W 33 11 4 5 80.0 0 0 - 3 6 50.0 2 6 8 0 0 1 0 2 10
+p3
+aVBoris Diaw CHA 04/13/2011 CHA vs. ATL W 43 7 3 10 30.0 1 3 33.3 0 0 - 1 3 4 9 1 3 2 1 8
+p4
+aVDante Cunningham CHA 04/13/2011 CHA vs. ATL W 29 14 7 11 63.6 0 0 - 0 0 - 1 5 6 0 1 1 2 2 9
+p5
+aVGerald Henderson CHA 04/13/2011 CHA vs. ATL W 37 20 9 17 52.9 0 2 0.0 2 2 100.0 1 5 6 6 4 1 0 2 14
+p6
+aVDominic McGuire CHA 04/13/2011 CHA vs. ATL W 18 8 2 5 40.0 0 0 - 4 4 100.0 0 4 4 0 0 0 0 2 4
+p7
+aVDJ White CHA 04/13/2011 CHA vs. ATL W 20 12 6 10 60.0 0 0 - 0 0 - 2 3 5 1 0 1 1 3 4
+p8
+aVMatt Carroll CHA 04/13/2011 CHA vs. ATL W 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p9
+aVGarrett Temple CHA 04/13/2011 CHA vs. ATL W 14 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 4 0 0 2 2 9
+p10
+aVDante Cunningham CHA 04/11/2011 CHA @ NJN W 35 21 10 16 62.5 0 0 - 1 1 100.0 1 3 4 3 1 1 1 1 5
+p11
+aVGarrett Temple CHA 04/11/2011 CHA @ NJN W 14 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 2 1 1 1 1 -7
+p12
+aVGerald Henderson CHA 04/11/2011 CHA @ NJN W 42 14 6 14 42.9 0 1 0.0 2 3 66.7 2 2 4 2 1 0 0 2 2
+p13
+aVDominic McGuire CHA 04/11/2011 CHA @ NJN W 14 6 3 4 75.0 0 0 - 0 0 - 2 3 5 1 0 1 1 1 -4
+p14
+aVDJ White CHA 04/11/2011 CHA @ NJN W 17 7 3 5 60.0 0 0 - 1 4 25.0 0 3 3 0 0 1 0 0 -8
+p15
+aVBoris Diaw CHA 04/11/2011 CHA @ NJN W 40 20 8 11 72.7 2 5 40.0 2 2 100.0 1 1 2 6 0 1 1 3 7
+p16
+aVD.J. Augustin CHA 04/11/2011 CHA @ NJN W 34 19 8 17 47.1 1 5 20.0 2 2 100.0 0 4 4 11 0 0 3 2 9
+p17
+aVMatt Carroll CHA 04/11/2011 CHA @ NJN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p18
+aVKwame Brown CHA 04/11/2011 CHA @ NJN W 39 11 4 8 50.0 0 0 - 3 4 75.0 3 4 7 2 0 0 1 5 6
+p19
+aVMatt Carroll CHA 04/10/2011 CHA vs. DET L 19 8 2 6 33.3 1 2 50.0 3 4 75.0 0 0 0 0 1 0 3 4 -15
+p20
+aVDante Cunningham CHA 04/10/2011 CHA vs. DET L 28 10 5 9 55.6 0 1 0.0 0 0 - 2 1 3 1 0 1 0 1 -7
+p21
+aVBoris Diaw CHA 04/10/2011 CHA vs. DET L 37 20 8 13 61.5 3 4 75.0 1 2 50.0 0 6 6 7 0 0 3 0 -1
+p22
+aVGarrett Temple CHA 04/10/2011 CHA vs. DET L 12 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 0 1 1 3 3 -18
+p23
+aVDJ White CHA 04/10/2011 CHA vs. DET L 16 7 3 5 60.0 0 0 - 1 3 33.3 1 0 1 1 1 0 0 1 -18
+p24
+aVDominic McGuire CHA 04/10/2011 CHA vs. DET L 20 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 0 1 0 1 -4
+p25
+aVGerald Henderson CHA 04/10/2011 CHA vs. DET L 34 21 8 17 47.1 2 5 40.0 3 4 75.0 1 2 3 3 1 1 1 2 7
+p26
+aVD.J. Augustin CHA 04/10/2011 CHA vs. DET L 36 14 6 11 54.5 2 3 66.7 0 1 0.0 1 2 3 14 0 0 1 1 7
+p27
+aVKwame Brown CHA 04/10/2011 CHA vs. DET L 38 19 9 10 90.0 0 0 - 1 6 16.7 2 5 7 1 0 1 2 3 -6
+p28
+aVBoris Diaw CHA 04/08/2011 CHA @ MIA L 34 11 5 13 38.5 0 2 0.0 1 1 100.0 0 1 1 2 2 0 3 3 -16
+p29
+aVD.J. Augustin CHA 04/08/2011 CHA @ MIA L 29 11 4 10 40.0 1 2 50.0 2 2 100.0 0 1 1 2 1 0 1 1 -15
+p30
+aVGarrett Temple CHA 04/08/2011 CHA @ MIA L 19 17 4 9 44.4 3 6 50.0 6 9 66.7 0 1 1 3 2 0 1 0 6
+p31
+aVDJ White CHA 04/08/2011 CHA @ MIA L 24 13 6 11 54.5 0 1 0.0 1 1 100.0 2 6 8 1 0 0 0 2 3
+p32
+aVMatt Carroll CHA 04/08/2011 CHA @ MIA L 17 6 2 5 40.0 1 3 33.3 1 2 50.0 0 0 0 1 0 0 1 4 -6
+p33
+aVDominic McGuire CHA 04/08/2011 CHA @ MIA L 24 10 4 8 50.0 0 0 - 2 2 100.0 3 3 6 4 0 2 1 2 -5
+p34
+aVKwame Brown CHA 04/08/2011 CHA @ MIA L 41 23 10 15 66.7 0 0 - 3 4 75.0 5 8 13 1 2 1 2 4 -9
+p35
+aVDante Cunningham CHA 04/08/2011 CHA @ MIA L 30 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 0 2 1 0 3 -6
+p36
+aVGerald Henderson CHA 04/08/2011 CHA @ MIA L 22 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 3 1 0 1 6 3
+p37
+aVDJ White CHA 04/06/2011 CHA vs. ORL L 21 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 3 6
+p38
+aVD.J. Augustin CHA 04/06/2011 CHA vs. ORL L 38 6 2 14 14.3 1 3 33.3 1 1 100.0 0 2 2 5 2 0 2 2 -9
+p39
+aVKwame Brown CHA 04/06/2011 CHA vs. ORL L 43 14 5 8 62.5 0 0 - 4 5 80.0 2 3 5 3 2 1 1 4 -14
+p40
+aVBoris Diaw CHA 04/06/2011 CHA vs. ORL L 41 17 7 11 63.6 2 2 100.0 1 1 100.0 2 3 5 7 3 0 4 0 -12
+p41
+aVMatt Carroll CHA 04/06/2011 CHA vs. ORL L 9 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p42
+aVGarrett Temple CHA 04/06/2011 CHA vs. ORL L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 4 0 1 3 0 0
+p43
+aVGerald Henderson CHA 04/06/2011 CHA vs. ORL L 45 32 12 22 54.5 1 2 50.0 7 7 100.0 1 4 5 4 0 0 1 1 -8
+p44
+aVDante Cunningham CHA 04/06/2011 CHA vs. ORL L 45 16 7 20 35.0 1 1 100.0 1 2 50.0 3 7 10 2 0 0 0 4 -13
+p45
+aVDominic McGuire CHA 04/06/2011 CHA vs. ORL L 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 6
+p46
+aVMatt Carroll CHA 04/05/2011 CHA @ CLE L 22 13 4 5 80.0 0 0 - 5 6 83.3 0 1 1 2 0 2 0 1 -6
+p47
+aVDominic McGuire CHA 04/05/2011 CHA @ CLE L 18 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 0 -10
+p48
+aVDante Cunningham CHA 04/05/2011 CHA @ CLE L 30 10 5 14 35.7 0 1 0.0 0 0 - 3 8 11 0 2 0 1 3 -15
+p49
+aVDJ White CHA 04/05/2011 CHA @ CLE L 19 6 1 7 14.3 0 0 - 4 4 100.0 1 4 5 2 0 0 0 1 5
+p50
+aVKwame Brown CHA 04/05/2011 CHA @ CLE L 30 10 4 7 57.1 0 0 - 2 4 50.0 0 2 2 0 1 1 2 3 -14
+p51
+aVBoris Diaw CHA 04/05/2011 CHA @ CLE L 38 3 1 5 20.0 0 2 0.0 1 2 50.0 2 9 11 5 2 0 0 1 0
+p52
+aVD.J. Augustin CHA 04/05/2011 CHA @ CLE L 42 22 7 20 35.0 2 6 33.3 6 7 85.7 0 1 1 8 5 0 2 2 -1
+p53
+aVGerald Henderson CHA 04/05/2011 CHA @ CLE L 35 15 6 15 40.0 1 2 50.0 2 2 100.0 1 2 3 4 2 1 1 2 0
+p54
+aVGarrett Temple CHA 04/05/2011 CHA @ CLE L 6 6 2 5 40.0 1 4 25.0 1 2 50.0 0 0 0 0 0 0 3 2 -9
+p55
+aVMatt Carroll CHA 04/03/2011 CHA vs. WAS L 25 26 11 16 68.8 2 3 66.7 2 2 100.0 1 3 4 1 1 0 2 2 8
+p56
+aVD.J. Augustin CHA 04/03/2011 CHA vs. WAS L 39 21 6 16 37.5 1 3 33.3 8 9 88.9 0 2 2 7 2 0 0 4 -10
+p57
+aVGarrett Temple CHA 04/03/2011 CHA vs. WAS L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 6 3 0 2 1 4
+p58
+aVDominic McGuire CHA 04/03/2011 CHA vs. WAS L 31 4 1 5 20.0 0 0 - 2 2 100.0 0 3 3 1 0 3 0 1 9
+p59
+aVBoris Diaw CHA 04/03/2011 CHA vs. WAS L 28 13 5 10 50.0 1 1 100.0 2 2 100.0 2 4 6 4 0 1 2 2 -18
+p60
+aVKwame Brown CHA 04/03/2011 CHA vs. WAS L 33 0 0 2 0.0 0 0 - 0 0 - 0 3 3 2 0 2 2 3 0
+p61
+aVDJ White CHA 04/03/2011 CHA vs. WAS L 20 10 4 9 44.4 0 0 - 2 2 100.0 3 5 8 1 0 1 1 4 -3
+p62
+aVDante Cunningham CHA 04/03/2011 CHA vs. WAS L 26 4 2 8 25.0 0 0 - 0 0 - 0 5 5 3 0 0 3 2 -12
+p63
+aVGerald Henderson CHA 04/03/2011 CHA vs. WAS L 30 13 5 10 50.0 0 0 - 3 4 75.0 1 5 6 1 0 0 3 3 -8
+p64
+aVDominic McGuire CHA 04/01/2011 CHA @ ORL L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -11
+p65
+aVKwame Brown CHA 04/01/2011 CHA @ ORL L 42 6 3 7 42.9 0 0 - 0 0 - 0 11 11 3 2 0 2 4 -2
+p66
+aVD.J. Augustin CHA 04/01/2011 CHA @ ORL L 38 19 7 12 58.3 1 3 33.3 4 5 80.0 1 1 2 6 0 0 5 3 -5
+p67
+aVGarrett Temple CHA 04/01/2011 CHA @ ORL L 10 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 2 2 -7
+p68
+aVBoris Diaw CHA 04/01/2011 CHA @ ORL L 35 10 4 6 66.7 0 2 0.0 2 3 66.7 1 3 4 6 1 0 2 3 -10
+p69
+aVGerald Henderson CHA 04/01/2011 CHA @ ORL L 36 11 4 15 26.7 0 0 - 3 3 100.0 2 5 7 5 2 0 2 1 -3
+p70
+aVMatt Carroll CHA 04/01/2011 CHA @ ORL L 12 4 2 5 40.0 0 1 0.0 0 1 0.0 0 0 0 0 0 0 2 1 -9
+p71
+aVDJ White CHA 04/01/2011 CHA @ ORL L 16 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 3 -9
+p72
+aVDante Cunningham CHA 04/01/2011 CHA @ ORL L 39 21 10 15 66.7 0 0 - 1 1 100.0 2 5 7 0 1 1 0 1 -4
+p73
+aVGarrett Temple CHA 03/30/2011 CHA vs. CLE W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 2 0 2 3 -3
+p74
+aVGerald Henderson CHA 03/30/2011 CHA vs. CLE W 33 14 6 12 50.0 0 1 0.0 2 2 100.0 2 3 5 2 1 1 0 1 10
+p75
+aVBoris Diaw CHA 03/30/2011 CHA vs. CLE W 42 26 11 16 68.8 0 2 0.0 4 6 66.7 1 6 7 11 1 1 0 0 10
+p76
+aVStephen Jackson CHA 03/30/2011 CHA vs. CLE W 15 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 2 0 0 1 1 6
+p77
+aVDJ White CHA 03/30/2011 CHA vs. CLE W 18 8 4 7 57.1 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -16
+p78
+aVDominic McGuire CHA 03/30/2011 CHA vs. CLE W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -2
+p79
+aVDante Cunningham CHA 03/30/2011 CHA vs. CLE W 29 12 6 10 60.0 0 0 - 0 0 - 0 1 1 0 1 1 1 1 -2
+p80
+aVD.J. Augustin CHA 03/30/2011 CHA vs. CLE W 33 8 2 5 40.0 0 0 - 4 4 100.0 0 3 3 12 0 0 0 2 6
+p81
+aVMatt Carroll CHA 03/30/2011 CHA vs. CLE W 18 9 4 9 44.4 1 2 50.0 0 0 - 0 2 2 0 0 0 1 3 -12
+p82
+aVKwame Brown CHA 03/30/2011 CHA vs. CLE W 36 16 7 9 77.8 0 0 - 2 5 40.0 3 5 8 3 1 2 1 2 8
+p83
+aVGarrett Temple CHA 03/28/2011 CHA vs. MIL W 10 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 2 0 0 0 0 10
+p84
+aVD.J. Augustin CHA 03/28/2011 CHA vs. MIL W 27 10 4 13 30.8 0 1 0.0 2 2 100.0 2 3 5 8 0 0 1 3 -6
+p85
+aVStephen Jackson CHA 03/28/2011 CHA vs. MIL W 34 18 8 14 57.1 2 6 33.3 0 0 - 0 5 5 1 0 0 2 3 -7
+p86
+aVTyrus Thomas CHA 03/28/2011 CHA vs. MIL W 20 7 3 5 60.0 0 0 - 1 3 33.3 0 6 6 0 0 1 1 1 -1
+p87
+aVShaun Livingston CHA 03/28/2011 CHA vs. MIL W 11 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 2 1 0 0 2 -3
+p88
+aVGerald Henderson CHA 03/28/2011 CHA vs. MIL W 34 16 7 10 70.0 0 0 - 2 4 50.0 0 5 5 1 1 0 2 1 -4
+p89
+aVEduardo Najera CHA 03/28/2011 CHA vs. MIL W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p90
+aVBoris Diaw CHA 03/28/2011 CHA vs. MIL W 38 10 3 5 60.0 0 1 0.0 4 6 66.7 1 3 4 8 0 0 3 2 1
+p91
+aVDante Cunningham CHA 03/28/2011 CHA vs. MIL W 19 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 13
+p92
+aVMatt Carroll CHA 03/28/2011 CHA vs. MIL W 14 10 3 5 60.0 0 0 - 4 5 80.0 1 2 3 1 0 0 0 2 5
+p93
+aVDJ White CHA 03/28/2011 CHA vs. MIL W 21 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 1 0 1 -1
+p94
+aVShaun Livingston CHA 03/26/2011 CHA vs. NYK W 14 13 6 8 75.0 0 0 - 1 1 100.0 0 1 1 2 0 1 1 4 10
+p95
+aVGerald Henderson CHA 03/26/2011 CHA vs. NYK W 32 13 4 9 44.4 0 0 - 5 5 100.0 1 3 4 1 0 3 0 4 0
+p96
+aVDJ White CHA 03/26/2011 CHA vs. NYK W 14 1 0 1 0.0 0 1 0.0 1 2 50.0 1 1 2 0 0 1 0 3 -7
+p97
+aVKwame Brown CHA 03/26/2011 CHA vs. NYK W 34 11 5 9 55.6 0 0 - 1 3 33.3 0 7 7 1 0 2 0 3 15
+p98
+aVD.J. Augustin CHA 03/26/2011 CHA vs. NYK W 34 13 4 15 26.7 0 5 0.0 5 5 100.0 2 2 4 9 1 0 1 2 -2
+p99
+aVStephen Jackson CHA 03/26/2011 CHA vs. NYK W 29 19 7 16 43.8 4 9 44.4 1 2 50.0 1 6 7 3 2 1 2 4 -2
+p100
+aVBoris Diaw CHA 03/26/2011 CHA vs. NYK W 38 20 7 14 50.0 1 1 100.0 5 6 83.3 3 5 8 5 0 0 0 3 -8
+p101
+aVMatt Carroll CHA 03/26/2011 CHA vs. NYK W 16 10 4 8 50.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 0 0 8
+p102
+aVDominic McGuire CHA 03/26/2011 CHA vs. NYK W 11 4 2 4 50.0 0 0 - 0 0 - 5 1 6 2 0 0 0 2 16
+p103
+aVDante Cunningham CHA 03/26/2011 CHA vs. NYK W 19 10 4 7 57.1 0 1 0.0 2 2 100.0 2 2 4 0 0 0 1 3 10
+p104
+aVDante Cunningham CHA 03/25/2011 CHA @ BOS W 25 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 2 2 1 5 15
+p105
+aVMatt Carroll CHA 03/25/2011 CHA @ BOS W 16 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 2 0 1 3 1
+p106
+aVKwame Brown CHA 03/25/2011 CHA @ BOS W 39 12 3 6 50.0 0 0 - 6 7 85.7 1 6 7 1 1 0 3 1 -5
+p107
+aVBoris Diaw CHA 03/25/2011 CHA @ BOS W 26 8 4 14 28.6 0 5 0.0 0 1 0.0 0 6 6 2 0 1 3 5 6
+p108
+aVEduardo Najera CHA 03/25/2011 CHA @ BOS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p109
+aVGerald Henderson CHA 03/25/2011 CHA @ BOS W 22 15 5 8 62.5 0 1 0.0 5 6 83.3 2 0 2 1 0 0 2 4 3
+p110
+aVD.J. Augustin CHA 03/25/2011 CHA @ BOS W 38 14 5 13 38.5 1 4 25.0 3 3 100.0 0 2 2 4 0 0 3 1 -2
+p111
+aVDJ White CHA 03/25/2011 CHA @ BOS W 24 17 7 10 70.0 0 0 - 3 3 100.0 0 6 6 1 1 0 0 2 0
+p112
+aVShaun Livingston CHA 03/25/2011 CHA @ BOS W 19 9 3 5 60.0 0 0 - 3 3 100.0 0 2 2 3 1 1 1 1 1
+p113
+aVDominic McGuire CHA 03/25/2011 CHA @ BOS W 23 4 1 9 11.1 0 1 0.0 2 2 100.0 4 3 7 3 1 0 0 3 -11
+p114
+aVTyrus Thomas CHA 03/23/2011 CHA vs. IND L 13 6 3 6 50.0 0 0 - 0 1 0.0 0 2 2 0 0 2 0 4 -12
+p115
+aVDominic McGuire CHA 03/23/2011 CHA vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p116
+aVMatt Carroll CHA 03/23/2011 CHA vs. IND L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 2 2
+p117
+aVDante Cunningham CHA 03/23/2011 CHA vs. IND L 17 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -12
+p118
+aVKwame Brown CHA 03/23/2011 CHA vs. IND L 35 16 6 10 60.0 0 0 - 4 7 57.1 2 7 9 2 1 1 3 3 -11
+p119
+aVDJ White CHA 03/23/2011 CHA vs. IND L 18 6 2 4 50.0 0 0 - 2 4 50.0 0 2 2 1 0 0 0 2 -13
+p120
+aVShaun Livingston CHA 03/23/2011 CHA vs. IND L 20 15 6 9 66.7 0 0 - 3 4 75.0 1 2 3 4 0 1 2 1 -13
+p121
+aVStephen Jackson CHA 03/23/2011 CHA vs. IND L 29 11 4 9 44.4 1 5 20.0 2 2 100.0 0 3 3 2 0 0 3 3 -7
+p122
+aVGerald Henderson CHA 03/23/2011 CHA vs. IND L 37 12 4 14 28.6 0 1 0.0 4 4 100.0 0 1 1 1 2 1 1 3 -19
+p123
+aVD.J. Augustin CHA 03/23/2011 CHA vs. IND L 32 17 5 13 38.5 1 3 33.3 6 7 85.7 0 2 2 4 1 0 1 2 -20
+p124
+aVBoris Diaw CHA 03/23/2011 CHA vs. IND L 24 0 0 0 - 0 0 - 0 0 - 0 3 3 7 1 1 2 2 -10
+p125
+aVTyrus Thomas CHA 03/19/2011 CHA @ SAS L 19 10 3 5 60.0 0 0 - 4 5 80.0 1 2 3 3 0 0 0 5 1
+p126
+aVDominic McGuire CHA 03/19/2011 CHA @ SAS L 17 8 4 4 100.0 0 0 - 0 0 - 2 2 4 2 1 0 0 1 11
+p127
+aVDante Cunningham CHA 03/19/2011 CHA @ SAS L 22 9 3 8 37.5 0 0 - 3 4 75.0 1 4 5 0 0 0 2 3 -14
+p128
+aVD.J. Augustin CHA 03/19/2011 CHA @ SAS L 26 6 2 7 28.6 0 3 0.0 2 2 100.0 1 1 2 5 0 0 3 0 -13
+p129
+aVBoris Diaw CHA 03/19/2011 CHA @ SAS L 28 16 7 14 50.0 2 3 66.7 0 0 - 1 2 3 4 0 0 3 2 -12
+p130
+aVDJ White CHA 03/19/2011 CHA @ SAS L 20 13 5 9 55.6 0 0 - 3 4 75.0 1 3 4 0 0 1 0 1 1
+p131
+aVMatt Carroll CHA 03/19/2011 CHA @ SAS L 19 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -11
+p132
+aVShaun Livingston CHA 03/19/2011 CHA @ SAS L 23 10 4 10 40.0 0 0 - 2 2 100.0 0 3 3 8 3 1 0 1 1
+p133
+aVGerald Henderson CHA 03/19/2011 CHA @ SAS L 37 19 9 14 64.3 0 0 - 1 1 100.0 0 4 4 1 2 0 2 4 -7
+p134
+aVKwame Brown CHA 03/19/2011 CHA @ SAS L 25 3 1 5 20.0 0 0 - 1 2 50.0 2 5 7 0 0 0 1 1 -12
+p135
+aVEduardo Najera CHA 03/19/2011 CHA @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p136
+aVKwame Brown CHA 03/18/2011 CHA @ OKC L 35 8 3 6 50.0 0 0 - 2 6 33.3 1 7 8 0 0 1 1 3 -14
+p137
+aVDante Cunningham CHA 03/18/2011 CHA @ OKC L 18 10 5 6 83.3 0 1 0.0 0 0 - 3 4 7 0 0 0 0 0 1
+p138
+aVD.J. Augustin CHA 03/18/2011 CHA @ OKC L 40 8 4 12 33.3 0 3 0.0 0 0 - 0 2 2 8 1 0 3 1 -19
+p139
+aVGerald Henderson CHA 03/18/2011 CHA @ OKC L 30 4 2 7 28.6 0 0 - 0 1 0.0 0 0 0 1 2 0 3 4 -18
+p140
+aVStephen Jackson CHA 03/18/2011 CHA @ OKC L 37 18 5 18 27.8 4 9 44.4 4 4 100.0 1 3 4 2 1 0 5 3 -19
+p141
+aVDJ White CHA 03/18/2011 CHA @ OKC L 12 9 3 4 75.0 0 0 - 3 4 75.0 1 3 4 0 0 0 0 1 2
+p142
+aVShaun Livingston CHA 03/18/2011 CHA @ OKC L 14 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 2 0 5
+p143
+aVTyrus Thomas CHA 03/18/2011 CHA @ OKC L 13 6 2 4 50.0 0 0 - 2 3 66.7 0 1 1 0 1 1 1 4 -3
+p144
+aVMatt Carroll CHA 03/18/2011 CHA @ OKC L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p145
+aVBoris Diaw CHA 03/18/2011 CHA @ OKC L 36 13 6 11 54.5 1 4 25.0 0 0 - 0 5 5 5 1 0 0 2 -19
+p146
+aVGarrett Temple CHA 03/16/2011 CHA @ HOU L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p147
+aVShaun Livingston CHA 03/16/2011 CHA @ HOU L 16 6 3 6 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -5
+p148
+aVDante Cunningham CHA 03/16/2011 CHA @ HOU L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -2
+p149
+aVGerald Henderson CHA 03/16/2011 CHA @ HOU L 35 8 3 11 27.3 0 0 - 2 2 100.0 1 3 4 2 0 1 0 1 -10
+p150
+aVD.J. Augustin CHA 03/16/2011 CHA @ HOU L 32 22 7 16 43.8 1 2 50.0 7 7 100.0 0 5 5 4 1 0 2 3 -7
+p151
+aVBoris Diaw CHA 03/16/2011 CHA @ HOU L 35 13 6 10 60.0 1 2 50.0 0 0 - 1 1 2 3 0 0 1 2 -15
+p152
+aVMatt Carroll CHA 03/16/2011 CHA @ HOU L 9 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 1 0 0 0 -5
+p153
+aVDJ White CHA 03/16/2011 CHA @ HOU L 23 8 2 4 50.0 0 0 - 4 6 66.7 1 5 6 0 0 1 0 1 -5
+p154
+aVKwame Brown CHA 03/16/2011 CHA @ HOU L 22 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 1 0 3 2 -10
+p155
+aVDominic McGuire CHA 03/16/2011 CHA @ HOU L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 1
+p156
+aVTyrus Thomas CHA 03/16/2011 CHA @ HOU L 16 6 2 6 33.3 0 0 - 2 2 100.0 0 5 5 0 1 2 3 2 -2
+p157
+aVStephen Jackson CHA 03/16/2011 CHA @ HOU L 36 6 2 14 14.3 0 5 0.0 2 3 66.7 0 4 4 4 0 0 3 1 -17
+p158
+aVDJ White CHA 03/13/2011 CHA @ TOR W 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -2
+p159
+aVKwame Brown CHA 03/13/2011 CHA @ TOR W 18 6 1 3 33.3 0 0 - 4 4 100.0 3 2 5 0 0 0 1 5 19
+p160
+aVBoris Diaw CHA 03/13/2011 CHA @ TOR W 39 15 7 9 77.8 1 3 33.3 0 0 - 0 2 2 6 1 0 5 3 10
+p161
+aVStephen Jackson CHA 03/13/2011 CHA @ TOR W 38 15 5 14 35.7 1 4 25.0 4 6 66.7 2 3 5 5 0 0 4 3 5
+p162
+aVTyrus Thomas CHA 03/13/2011 CHA @ TOR W 23 4 1 4 25.0 0 0 - 2 4 50.0 0 4 4 1 0 3 1 5 -10
+p163
+aVDante Cunningham CHA 03/13/2011 CHA @ TOR W 19 8 4 6 66.7 0 0 - 0 0 - 0 3 3 0 3 1 2 1 -2
+p164
+aVGerald Henderson CHA 03/13/2011 CHA @ TOR W 39 18 7 13 53.8 0 0 - 4 4 100.0 1 3 4 2 4 1 1 1 7
+p165
+aVD.J. Augustin CHA 03/13/2011 CHA @ TOR W 34 23 8 14 57.1 3 5 60.0 4 4 100.0 0 4 4 3 2 0 1 2 4
+p166
+aVShaun Livingston CHA 03/13/2011 CHA @ TOR W 14 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 1 1 0 1 0 1
+p167
+aVEduardo Najera CHA 03/13/2011 CHA @ TOR W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p168
+aVMatt Carroll CHA 03/11/2011 CHA vs. POR W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p169
+aVStephen Jackson CHA 03/11/2011 CHA vs. POR W 36 29 10 25 40.0 3 7 42.9 6 6 100.0 4 6 10 3 1 1 5 3 4
+p170
+aVGerald Henderson CHA 03/11/2011 CHA vs. POR W 34 12 4 12 33.3 0 1 0.0 4 4 100.0 0 2 2 1 3 0 2 2 -10
+p171
+aVDJ White CHA 03/11/2011 CHA vs. POR W 28 16 6 9 66.7 0 0 - 4 4 100.0 5 4 9 1 2 2 1 3 17
+p172
+aVDante Cunningham CHA 03/11/2011 CHA vs. POR W 19 11 5 6 83.3 0 0 - 1 2 50.0 0 2 2 1 1 0 1 1 13
+p173
+aVBoris Diaw CHA 03/11/2011 CHA vs. POR W 21 5 2 4 50.0 1 1 100.0 0 0 - 0 4 4 1 0 1 3 1 -6
+p174
+aVShaun Livingston CHA 03/11/2011 CHA vs. POR W 10 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 4 0 0 1 2 9
+p175
+aVKwame Brown CHA 03/11/2011 CHA vs. POR W 23 5 1 4 25.0 0 0 - 3 4 75.0 1 5 6 1 1 0 1 2 -6
+p176
+aVD.J. Augustin CHA 03/11/2011 CHA vs. POR W 37 16 4 12 33.3 1 2 50.0 7 8 87.5 0 2 2 5 1 0 3 2 -3
+p177
+aVTyrus Thomas CHA 03/11/2011 CHA vs. POR W 24 2 1 4 25.0 0 1 0.0 0 0 - 0 6 6 0 0 1 0 1 3
+p178
+aVEduardo Najera CHA 03/09/2011 CHA vs. CHI L 14 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 2 1 2 1 1 -2
+p179
+aVGarrett Temple CHA 03/09/2011 CHA vs. CHI L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 0 0
+p180
+aVD.J. Augustin CHA 03/09/2011 CHA vs. CHI L 30 6 3 7 42.9 0 2 0.0 0 0 - 1 2 3 3 0 0 2 1 -17
+p181
+aVDante Cunningham CHA 03/09/2011 CHA vs. CHI L 33 15 7 12 58.3 0 1 0.0 1 1 100.0 3 3 6 2 0 0 2 1 -7
+p182
+aVGerald Henderson CHA 03/09/2011 CHA vs. CHI L 37 20 8 15 53.3 1 1 100.0 3 3 100.0 1 2 3 8 0 0 2 2 -12
+p183
+aVDJ White CHA 03/09/2011 CHA vs. CHI L 22 10 5 8 62.5 0 0 - 0 0 - 2 3 5 0 0 0 0 0 -2
+p184
+aVShaun Livingston CHA 03/09/2011 CHA vs. CHI L 18 3 1 7 14.3 0 0 - 1 2 50.0 0 1 1 4 0 3 2 3 -7
+p185
+aVKwame Brown CHA 03/09/2011 CHA vs. CHI L 34 11 5 10 50.0 0 0 - 1 1 100.0 4 7 11 1 1 0 1 2 -15
+p186
+aVBoris Diaw CHA 03/09/2011 CHA vs. CHI L 26 10 4 11 36.4 1 4 25.0 1 4 25.0 2 0 2 4 0 0 1 1 -15
+p187
+aVDominic McGuire CHA 03/09/2011 CHA vs. CHI L 19 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 0 3 0 3 -8
+p188
+aVDJ White CHA 03/07/2011 CHA vs. LAC L 27 9 3 9 33.3 0 0 - 3 4 75.0 2 4 6 0 0 1 1 2 -8
+p189
+aVEduardo Najera CHA 03/07/2011 CHA vs. LAC L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -1
+p190
+aVMatt Carroll CHA 03/07/2011 CHA vs. LAC L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 0
+p191
+aVDominic McGuire CHA 03/07/2011 CHA vs. LAC L 28 2 1 4 25.0 0 0 - 0 2 0.0 1 4 5 1 1 1 1 3 6
+p192
+aVGerald Henderson CHA 03/07/2011 CHA vs. LAC L 38 20 10 18 55.6 0 0 - 0 0 - 0 3 3 4 2 1 1 1 1
+p193
+aVD.J. Augustin CHA 03/07/2011 CHA vs. LAC L 34 13 4 16 25.0 2 7 28.6 3 4 75.0 1 3 4 6 0 0 2 2 -1
+p194
+aVKwame Brown CHA 03/07/2011 CHA vs. LAC L 27 7 3 6 50.0 0 0 - 1 4 25.0 1 2 3 1 0 0 1 2 -2
+p195
+aVJoel Przybilla CHA 03/07/2011 CHA vs. LAC L 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -5
+p196
+aVBoris Diaw CHA 03/07/2011 CHA vs. LAC L 41 19 8 13 61.5 2 2 100.0 1 2 50.0 2 6 8 8 1 0 2 0 -8
+p197
+aVShaun Livingston CHA 03/07/2011 CHA vs. LAC L 23 17 6 11 54.5 0 0 - 5 6 83.3 0 2 2 1 2 1 3 2 -7
+p198
+aVGerald Henderson CHA 03/05/2011 CHA @ POR L 34 16 8 13 61.5 0 1 0.0 0 0 - 0 2 2 0 0 0 3 1 -20
+p199
+aVJoel Przybilla CHA 03/05/2011 CHA @ POR L 17 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 1 3 6 -9
+p200
+aVDJ White CHA 03/05/2011 CHA @ POR L 26 12 6 9 66.7 0 0 - 0 0 - 3 6 9 0 1 0 0 1 -21
+p201
+aVBoris Diaw CHA 03/05/2011 CHA @ POR L 22 2 1 8 12.5 0 2 0.0 0 0 - 1 4 5 5 2 0 0 3 -3
+p202
+aVShaun Livingston CHA 03/05/2011 CHA @ POR L 14 5 1 4 25.0 0 0 - 3 3 100.0 1 1 2 1 0 0 4 4 -6
+p203
+aVEduardo Najera CHA 03/05/2011 CHA @ POR L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p204
+aVKwame Brown CHA 03/05/2011 CHA @ POR L 22 2 0 6 0.0 0 0 - 2 4 50.0 4 4 8 1 0 0 1 2 -10
+p205
+aVDominic McGuire CHA 03/05/2011 CHA @ POR L 26 4 2 5 40.0 0 0 - 0 0 - 1 5 6 2 0 1 2 4 -16
+p206
+aVD.J. Augustin CHA 03/05/2011 CHA @ POR L 37 14 5 12 41.7 1 6 16.7 3 3 100.0 0 3 3 3 0 0 6 1 -17
+p207
+aVMatt Carroll CHA 03/05/2011 CHA @ POR L 12 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 0 1 0 1 0 -5
+p208
+aVDante Cunningham CHA 03/05/2011 CHA @ POR L 22 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -8
+p209
+aVJoel Przybilla CHA 03/04/2011 CHA @ LAL L 16 4 2 3 66.7 0 0 - 0 0 - 5 3 8 0 0 0 0 0 2
+p210
+aVD.J. Augustin CHA 03/04/2011 CHA @ LAL L 34 22 9 22 40.9 1 5 20.0 3 3 100.0 2 4 6 4 0 0 3 1 -11
+p211
+aVStephen Jackson CHA 03/04/2011 CHA @ LAL L 25 8 3 10 30.0 0 2 0.0 2 2 100.0 0 2 2 3 0 0 4 2 -16
+p212
+aVMatt Carroll CHA 03/04/2011 CHA @ LAL L 12 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 1 0 0 3 1
+p213
+aVKwame Brown CHA 03/04/2011 CHA @ LAL L 25 6 3 6 50.0 0 0 - 0 0 - 2 5 7 2 1 0 0 1 -15
+p214
+aVShaun Livingston CHA 03/04/2011 CHA @ LAL L 21 12 5 10 50.0 0 0 - 2 2 100.0 1 3 4 4 0 1 1 2 6
+p215
+aVBoris Diaw CHA 03/04/2011 CHA @ LAL L 29 4 2 9 22.2 0 2 0.0 0 0 - 0 3 3 2 0 0 0 3 -11
+p216
+aVDJ White CHA 03/04/2011 CHA @ LAL L 19 11 5 7 71.4 0 0 - 1 1 100.0 2 5 7 0 0 2 1 1 3
+p217
+aVEduardo Najera CHA 03/04/2011 CHA @ LAL L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 5
+p218
+aVGerald Henderson CHA 03/04/2011 CHA @ LAL L 28 7 3 11 27.3 0 0 - 1 1 100.0 0 3 3 1 1 1 1 3 -10
+p219
+aVDominic McGuire CHA 03/04/2011 CHA @ LAL L 23 6 3 7 42.9 0 0 - 0 0 - 2 6 8 3 0 1 2 4 6
+p220
+aVJoel Przybilla CHA 03/02/2011 CHA @ DEN L 16 0 0 1 0.0 0 0 - 0 2 0.0 1 4 5 0 0 0 2 2 -13
+p221
+aVGerald Henderson CHA 03/02/2011 CHA @ DEN L 27 9 3 8 37.5 0 0 - 3 4 75.0 1 0 1 2 0 0 1 4 -21
+p222
+aVStephen Jackson CHA 03/02/2011 CHA @ DEN L 24 7 3 10 30.0 1 4 25.0 0 0 - 0 2 2 3 0 0 4 3 -22
+p223
+aVBoris Diaw CHA 03/02/2011 CHA @ DEN L 25 2 1 6 16.7 0 1 0.0 0 0 - 1 5 6 4 1 0 0 0 -17
+p224
+aVDJ White CHA 03/02/2011 CHA @ DEN L 20 6 2 6 33.3 0 0 - 2 2 100.0 0 5 5 1 1 0 0 5 -21
+p225
+aVShaun Livingston CHA 03/02/2011 CHA @ DEN L 30 12 6 12 50.0 0 0 - 0 0 - 0 0 0 7 2 0 2 1 -19
+p226
+aVD.J. Augustin CHA 03/02/2011 CHA @ DEN L 24 13 3 10 30.0 0 5 0.0 7 8 87.5 0 0 0 3 0 0 3 1 -20
+p227
+aVDante Cunningham CHA 03/02/2011 CHA @ DEN L 12 1 0 6 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -16
+p228
+aVKwame Brown CHA 03/02/2011 CHA @ DEN L 18 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 1 0 0 4 -12
+p229
+aVEduardo Najera CHA 03/02/2011 CHA @ DEN L 17 5 2 5 40.0 1 3 33.3 0 0 - 3 1 4 0 1 1 1 3 -17
+p230
+aVMatt Carroll CHA 03/02/2011 CHA @ DEN L 27 19 6 11 54.5 2 3 66.7 5 5 100.0 0 2 2 0 0 0 0 2 -22
+p231
+aVJoel Przybilla CHA 02/27/2011 CHA @ ORL L 14 0 0 2 0.0 0 0 - 0 0 - 2 4 6 0 0 0 1 4 -7
+p232
+aVDante Cunningham CHA 02/27/2011 CHA @ ORL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -6
+p233
+aVKwame Brown CHA 02/27/2011 CHA @ ORL L 24 7 3 6 50.0 0 0 - 1 2 50.0 4 2 6 0 1 0 0 2 -5
+p234
+aVShaun Livingston CHA 02/27/2011 CHA @ ORL L 18 8 3 8 37.5 0 0 - 2 2 100.0 1 0 1 1 1 0 2 3 -10
+p235
+aVD.J. Augustin CHA 02/27/2011 CHA @ ORL L 35 11 4 10 40.0 1 5 20.0 2 2 100.0 0 1 1 4 0 0 3 2 -11
+p236
+aVGerald Henderson CHA 02/27/2011 CHA @ ORL L 32 4 2 13 15.4 0 2 0.0 0 0 - 1 3 4 2 4 0 0 1 -6
+p237
+aVBoris Diaw CHA 02/27/2011 CHA @ ORL L 29 11 5 11 45.5 1 3 33.3 0 0 - 2 7 9 3 0 1 1 5 -6
+p238
+aVEduardo Najera CHA 02/27/2011 CHA @ ORL L 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 0 0 -1
+p239
+aVStephen Jackson CHA 02/27/2011 CHA @ ORL L 39 35 13 22 59.1 3 5 60.0 6 10 60.0 1 5 6 2 1 1 3 1 -13
+p240
+aVMatt Carroll CHA 02/27/2011 CHA @ ORL L 17 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 1 0 1 0 -4
+p241
+aVDJ White CHA 02/27/2011 CHA @ ORL L 10 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -1
+p242
+aVD.J. Augustin CHA 02/25/2011 CHA vs. SAC W 31 23 9 11 81.8 1 2 50.0 4 5 80.0 0 3 3 3 1 0 2 2 1
+p243
+aVShaun Livingston CHA 02/25/2011 CHA vs. SAC W 17 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 5 0 0 1 1 11
+p244
+aVKwame Brown CHA 02/25/2011 CHA vs. SAC W 45 12 4 13 30.8 0 0 - 4 10 40.0 6 7 13 1 0 2 1 4 10
+p245
+aVGerald Henderson CHA 02/25/2011 CHA vs. SAC W 33 21 8 17 47.1 0 0 - 5 6 83.3 2 2 4 1 0 2 1 2 2
+p246
+aVBoris Diaw CHA 02/25/2011 CHA vs. SAC W 29 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 2 2 0 0 2 4
+p247
+aVStephen Jackson CHA 02/25/2011 CHA vs. SAC W 38 30 11 19 57.9 0 1 0.0 8 10 80.0 1 4 5 3 1 0 2 2 0
+p248
+aVEduardo Najera CHA 02/25/2011 CHA vs. SAC W 22 3 1 5 20.0 1 5 20.0 0 0 - 0 3 3 3 1 1 0 1 10
+p249
+aVMatt Carroll CHA 02/25/2011 CHA vs. SAC W 24 9 3 5 60.0 1 1 100.0 2 2 100.0 1 3 4 2 1 1 0 2 22
+p250
+aVGerald Wallace CHA 02/22/2011 CHA vs. TOR W 35 20 3 6 50.0 0 1 0.0 14 15 93.3 0 6 6 2 1 1 1 2 16
+p251
+aVBoris Diaw CHA 02/22/2011 CHA vs. TOR W 38 16 6 10 60.0 1 3 33.3 3 3 100.0 0 3 3 9 4 1 2 3 24
+p252
+aVShaun Livingston CHA 02/22/2011 CHA vs. TOR W 12 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 0 1 1 0 1 1
+p253
+aVDominic McGuire CHA 02/22/2011 CHA vs. TOR W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p254
+aVGerald Henderson CHA 02/22/2011 CHA vs. TOR W 27 15 5 11 45.5 0 0 - 5 8 62.5 2 4 6 0 0 0 3 2 4
+p255
+aVStephen Jackson CHA 02/22/2011 CHA vs. TOR W 26 13 5 11 45.5 1 3 33.3 2 2 100.0 0 2 2 5 2 1 2 1 19
+p256
+aVD.J. Augustin CHA 02/22/2011 CHA vs. TOR W 36 23 8 15 53.3 2 7 28.6 5 5 100.0 1 0 1 8 0 0 0 0 12
+p257
+aVNazr Mohammed CHA 02/22/2011 CHA vs. TOR W 24 8 4 9 44.4 0 0 - 0 2 0.0 4 10 14 0 0 0 0 2 19
+p258
+aVDerrick Brown CHA 02/22/2011 CHA vs. TOR W 7 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -11
+p259
+aVKwame Brown CHA 02/22/2011 CHA vs. TOR W 21 8 3 6 50.0 0 0 - 2 3 66.7 2 2 4 0 0 1 1 2 -2
+p260
+aVMatt Carroll CHA 02/22/2011 CHA vs. TOR W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p261
+aVEduardo Najera CHA 02/22/2011 CHA vs. TOR W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 2 -7
+p262
+aVStephen Jackson CHA 02/15/2011 CHA @ CHI L 38 20 7 16 43.8 0 2 0.0 6 6 100.0 1 3 4 6 0 0 3 5 -13
+p263
+aVSherron Collins CHA 02/15/2011 CHA @ CHI L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p264
+aVGerald Henderson CHA 02/15/2011 CHA @ CHI L 26 22 6 9 66.7 0 0 - 10 12 83.3 1 4 5 2 1 0 3 2 0
+p265
+aVD.J. Augustin CHA 02/15/2011 CHA @ CHI L 21 5 1 4 25.0 1 3 33.3 2 2 100.0 0 2 2 5 1 0 3 3 -10
+p266
+aVGerald Wallace CHA 02/15/2011 CHA @ CHI L 38 6 3 9 33.3 0 1 0.0 0 0 - 0 8 8 3 3 1 1 3 -10
+p267
+aVBoris Diaw CHA 02/15/2011 CHA @ CHI L 34 18 7 11 63.6 1 4 25.0 3 4 75.0 0 4 4 0 1 0 0 3 -24
+p268
+aVNazr Mohammed CHA 02/15/2011 CHA @ CHI L 18 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 4 1
+p269
+aVShaun Livingston CHA 02/15/2011 CHA @ CHI L 27 13 4 10 40.0 0 0 - 5 6 83.3 1 0 1 4 0 2 0 2 -10
+p270
+aVDominic McGuire CHA 02/15/2011 CHA @ CHI L 14 4 2 3 66.7 0 0 - 0 0 - 0 6 6 0 1 0 0 2 12
+p271
+aVDerrick Brown CHA 02/15/2011 CHA @ CHI L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p272
+aVKwame Brown CHA 02/15/2011 CHA @ CHI L 21 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 1 3 1 -12
+p273
+aVNazr Mohammed CHA 02/14/2011 CHA vs. LAL W 24 16 7 11 63.6 0 0 - 2 2 100.0 2 1 3 2 0 1 1 2 6
+p274
+aVShaun Livingston CHA 02/14/2011 CHA vs. LAL W 22 9 3 6 50.0 0 0 - 3 3 100.0 0 2 2 4 0 0 1 1 16
+p275
+aVBoris Diaw CHA 02/14/2011 CHA vs. LAL W 23 16 5 9 55.6 3 6 50.0 3 3 100.0 1 1 2 1 1 0 2 3 8
+p276
+aVGerald Henderson CHA 02/14/2011 CHA vs. LAL W 29 18 6 9 66.7 1 2 50.0 5 5 100.0 0 4 4 4 0 0 0 1 22
+p277
+aVMatt Carroll CHA 02/14/2011 CHA vs. LAL W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p278
+aVEduardo Najera CHA 02/14/2011 CHA vs. LAL W 19 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 3 2 0 0 4 19
+p279
+aVStephen Jackson CHA 02/14/2011 CHA vs. LAL W 31 9 3 10 30.0 0 0 - 3 4 75.0 0 3 3 5 1 0 3 1 2
+p280
+aVKwame Brown CHA 02/14/2011 CHA vs. LAL W 24 8 4 8 50.0 0 0 - 0 0 - 6 2 8 0 0 0 0 2 14
+p281
+aVGerald Wallace CHA 02/14/2011 CHA vs. LAL W 32 20 9 16 56.3 2 4 50.0 0 2 0.0 2 9 11 0 1 0 0 1 21
+p282
+aVDerrick Brown CHA 02/14/2011 CHA vs. LAL W 4 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 -4
+p283
+aVD.J. Augustin CHA 02/14/2011 CHA vs. LAL W 26 7 3 7 42.9 1 4 25.0 0 0 - 0 0 0 9 0 0 0 0 4
+p284
+aVSherron Collins CHA 02/14/2011 CHA vs. LAL W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p285
+aVKwame Brown CHA 02/12/2011 CHA @ ATL W 23 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 0 1 0 2 -7
+p286
+aVStephen Jackson CHA 02/12/2011 CHA @ ATL W 43 32 12 24 50.0 1 6 16.7 7 8 87.5 0 2 2 1 1 1 1 2 14
+p287
+aVGerald Wallace CHA 02/12/2011 CHA @ ATL W 42 16 6 15 40.0 4 6 66.7 0 0 - 1 12 13 7 2 1 2 3 7
+p288
+aVBoris Diaw CHA 02/12/2011 CHA @ ATL W 22 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 3 0 0 0 1 -7
+p289
+aVNazr Mohammed CHA 02/12/2011 CHA @ ATL W 21 5 2 5 40.0 0 0 - 1 1 100.0 3 6 9 0 0 3 1 4 2
+p290
+aVGerald Henderson CHA 02/12/2011 CHA @ ATL W 11 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 0 -17
+p291
+aVD.J. Augustin CHA 02/12/2011 CHA @ ATL W 18 4 1 6 16.7 0 3 0.0 2 2 100.0 0 0 0 4 1 0 2 1 -17
+p292
+aVShaun Livingston CHA 02/12/2011 CHA @ ATL W 30 22 8 13 61.5 0 0 - 6 6 100.0 1 5 6 5 0 1 2 2 21
+p293
+aVEduardo Najera CHA 02/12/2011 CHA @ ATL W 29 2 1 3 33.3 0 1 0.0 0 2 0.0 1 2 3 3 0 0 1 2 14
+p294
+aVKwame Brown CHA 02/11/2011 CHA vs. NJN L 30 8 3 6 50.0 0 0 - 2 2 100.0 0 8 8 0 0 0 2 4 -10
+p295
+aVD.J. Augustin CHA 02/11/2011 CHA vs. NJN L 28 4 2 10 20.0 0 4 0.0 0 0 - 0 2 2 2 0 0 1 4 -7
+p296
+aVBoris Diaw CHA 02/11/2011 CHA vs. NJN L 30 12 5 13 38.5 1 4 25.0 1 1 100.0 2 4 6 4 0 0 0 1 -10
+p297
+aVNazr Mohammed CHA 02/11/2011 CHA vs. NJN L 8 1 0 0 - 0 0 - 1 4 25.0 0 1 1 0 0 0 1 2 -3
+p298
+aVGerald Henderson CHA 02/11/2011 CHA vs. NJN L 17 11 3 5 60.0 0 0 - 5 8 62.5 0 5 5 0 1 0 0 1 2
+p299
+aVDominic McGuire CHA 02/11/2011 CHA vs. NJN L 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 8
+p300
+aVShaun Livingston CHA 02/11/2011 CHA vs. NJN L 20 10 4 6 66.7 0 0 - 2 2 100.0 1 1 2 1 0 0 3 1 4
+p301
+aVGerald Wallace CHA 02/11/2011 CHA vs. NJN L 41 20 6 10 60.0 0 1 0.0 8 11 72.7 2 7 9 3 1 2 0 1 2
+p302
+aVStephen Jackson CHA 02/11/2011 CHA vs. NJN L 40 21 5 12 41.7 3 5 60.0 8 11 72.7 0 3 3 4 0 3 5 4 -12
+p303
+aVEduardo Najera CHA 02/11/2011 CHA vs. NJN L 17 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 1
+p304
+aVShaun Livingston CHA 02/09/2011 CHA @ IND L 10 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 0 1 0 2 3 1
+p305
+aVDominic McGuire CHA 02/09/2011 CHA @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p306
+aVGerald Henderson CHA 02/09/2011 CHA @ IND L 24 9 3 7 42.9 0 0 - 3 4 75.0 2 6 8 1 1 0 1 3 2
+p307
+aVEduardo Najera CHA 02/09/2011 CHA @ IND L 25 8 3 4 75.0 1 2 50.0 1 1 100.0 0 4 4 0 1 0 0 4 3
+p308
+aVStephen Jackson CHA 02/09/2011 CHA @ IND L 42 27 9 20 45.0 4 8 50.0 5 6 83.3 1 3 4 3 2 1 3 1 4
+p309
+aVNazr Mohammed CHA 02/09/2011 CHA @ IND L 27 9 4 9 44.4 0 0 - 1 2 50.0 5 3 8 0 2 1 2 3 -6
+p310
+aVGerald Wallace CHA 02/09/2011 CHA @ IND L 43 22 9 15 60.0 0 0 - 4 6 66.7 3 6 9 6 2 1 0 4 2
+p311
+aVBoris Diaw CHA 02/09/2011 CHA @ IND L 31 8 4 8 50.0 0 3 0.0 0 0 - 1 2 3 0 0 0 2 2 -8
+p312
+aVSherron Collins CHA 02/09/2011 CHA @ IND L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p313
+aVD.J. Augustin CHA 02/09/2011 CHA @ IND L 36 14 4 13 30.8 1 3 33.3 5 6 83.3 0 3 3 4 0 1 3 2 -1
+p314
+aVShaun Livingston CHA 02/07/2011 CHA vs. BOS W 22 18 7 10 70.0 0 0 - 4 6 66.7 0 4 4 3 1 1 4 2 10
+p315
+aVKwame Brown CHA 02/07/2011 CHA vs. BOS W 29 4 1 9 11.1 0 0 - 2 2 100.0 3 9 12 1 2 2 1 1 -5
+p316
+aVEduardo Najera CHA 02/07/2011 CHA vs. BOS W 19 5 2 5 40.0 1 3 33.3 0 0 - 2 0 2 0 1 0 0 2 10
+p317
+aVNazr Mohammed CHA 02/07/2011 CHA vs. BOS W 19 3 1 4 25.0 0 0 - 1 2 50.0 1 4 5 0 0 0 0 5 9
+p318
+aVGerald Wallace CHA 02/07/2011 CHA vs. BOS W 41 19 6 16 37.5 1 3 33.3 6 8 75.0 3 13 16 2 1 1 2 1 3
+p319
+aVStephen Jackson CHA 02/07/2011 CHA vs. BOS W 14 11 4 7 57.1 0 2 0.0 3 5 60.0 2 1 3 1 1 0 3 2 -5
+p320
+aVD.J. Augustin CHA 02/07/2011 CHA vs. BOS W 26 9 3 9 33.3 2 5 40.0 1 1 100.0 0 1 1 4 0 0 2 2 -5
+p321
+aVBoris Diaw CHA 02/07/2011 CHA vs. BOS W 30 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 3 1 2 3 1 -4
+p322
+aVDerrick Brown CHA 02/07/2011 CHA vs. BOS W 5 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 3
+p323
+aVGerald Henderson CHA 02/07/2011 CHA vs. BOS W 35 15 5 13 38.5 0 1 0.0 5 5 100.0 0 4 4 2 0 1 1 1 9
+p324
+aVShaun Livingston CHA 02/05/2011 CHA vs. DAL L 21 10 3 9 33.3 0 0 - 4 5 80.0 1 1 2 4 2 1 0 0 2
+p325
+aVEduardo Najera CHA 02/05/2011 CHA vs. DAL L 22 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 0 0 1 0 3 5
+p326
+aVGerald Wallace CHA 02/05/2011 CHA vs. DAL L 41 13 6 15 40.0 0 3 0.0 1 2 50.0 2 9 11 2 1 1 2 1 -10
+p327
+aVBoris Diaw CHA 02/05/2011 CHA vs. DAL L 35 11 5 12 41.7 1 4 25.0 0 0 - 2 2 4 2 1 2 3 3 -9
+p328
+aVGerald Henderson CHA 02/05/2011 CHA vs. DAL L 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p329
+aVStephen Jackson CHA 02/05/2011 CHA vs. DAL L 39 17 5 17 29.4 1 4 25.0 6 6 100.0 3 3 6 5 1 2 2 3 -3
+p330
+aVKwame Brown CHA 02/05/2011 CHA vs. DAL L 26 10 2 7 28.6 0 0 - 6 6 100.0 3 6 9 1 0 0 0 2 -11
+p331
+aVNazr Mohammed CHA 02/05/2011 CHA vs. DAL L 13 4 2 5 40.0 0 1 0.0 0 0 - 2 0 2 0 0 1 0 3 -3
+p332
+aVD.J. Augustin CHA 02/05/2011 CHA vs. DAL L 27 21 7 17 41.2 3 8 37.5 4 5 80.0 1 0 1 2 1 0 0 1 -11
+p333
+aVDominic McGuire CHA 02/04/2011 CHA vs. MIA L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p334
+aVStephen Jackson CHA 02/04/2011 CHA vs. MIA L 45 25 7 17 41.2 3 8 37.5 8 8 100.0 0 3 3 5 2 0 2 3 -11
+p335
+aVShaun Livingston CHA 02/04/2011 CHA vs. MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p336
+aVSherron Collins CHA 02/04/2011 CHA vs. MIA L 2 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -6
+p337
+aVBoris Diaw CHA 02/04/2011 CHA vs. MIA L 38 14 5 10 50.0 1 2 50.0 3 3 100.0 3 6 9 4 1 1 2 3 -5
+p338
+aVD.J. Augustin CHA 02/04/2011 CHA vs. MIA L 42 4 1 6 16.7 1 4 25.0 1 1 100.0 0 2 2 8 0 0 5 3 -2
+p339
+aVGerald Wallace CHA 02/04/2011 CHA vs. MIA L 43 25 9 19 47.4 3 4 75.0 4 5 80.0 4 6 10 2 0 1 3 5 -5
+p340
+aVNazr Mohammed CHA 02/04/2011 CHA vs. MIA L 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -13
+p341
+aVGerald Henderson CHA 02/04/2011 CHA vs. MIA L 29 14 6 10 60.0 0 1 0.0 2 4 50.0 1 1 2 1 1 3 2 3 -8
+p342
+aVDerrick Brown CHA 02/04/2011 CHA vs. MIA L 9 4 2 3 66.7 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -8
+p343
+aVKwame Brown CHA 02/04/2011 CHA vs. MIA L 20 6 3 3 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 3 6
+p344
+aVDerrick Brown CHA 02/02/2011 CHA @ DET W 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 0 1
+p345
+aVD.J. Augustin CHA 02/02/2011 CHA @ DET W 23 10 2 6 33.3 0 1 0.0 6 7 85.7 0 3 3 3 0 0 2 2 -2
+p346
+aVStephen Jackson CHA 02/02/2011 CHA @ DET W 43 39 14 26 53.8 3 7 42.9 8 10 80.0 3 2 5 4 1 0 3 4 9
+p347
+aVNazr Mohammed CHA 02/02/2011 CHA @ DET W 14 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 5
+p348
+aVSherron Collins CHA 02/02/2011 CHA @ DET W 7 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 8
+p349
+aVShaun Livingston CHA 02/02/2011 CHA @ DET W 19 5 2 5 40.0 0 0 - 1 1 100.0 1 2 3 5 0 0 0 3 4
+p350
+aVKwame Brown CHA 02/02/2011 CHA @ DET W 31 14 6 9 66.7 0 0 - 2 4 50.0 3 7 10 1 0 1 0 3 4
+p351
+aVBoris Diaw CHA 02/02/2011 CHA @ DET W 36 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 9 1 0 2 2 15
+p352
+aVGerald Wallace CHA 02/02/2011 CHA @ DET W 38 10 4 8 50.0 0 1 0.0 2 2 100.0 0 9 9 3 2 0 1 1 0
+p353
+aVGerald Henderson CHA 02/02/2011 CHA @ DET W 23 9 4 9 44.4 0 0 - 1 1 100.0 0 4 4 1 0 0 1 1 6
+p354
+aVGerald Wallace CHA 01/31/2011 CHA @ UTA L 39 7 2 7 28.6 0 2 0.0 3 4 75.0 0 6 6 1 1 2 2 4 7
+p355
+aVNazr Mohammed CHA 01/31/2011 CHA @ UTA L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -1
+p356
+aVStephen Jackson CHA 01/31/2011 CHA @ UTA L 42 24 7 20 35.0 2 5 40.0 8 8 100.0 1 7 8 1 3 1 2 1 -7
+p357
+aVBoris Diaw CHA 01/31/2011 CHA @ UTA L 34 10 4 10 40.0 2 4 50.0 0 0 - 0 2 2 0 1 0 0 3 -5
+p358
+aVShaun Livingston CHA 01/31/2011 CHA @ UTA L 10 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 1 0 2 0 -10
+p359
+aVGerald Henderson CHA 01/31/2011 CHA @ UTA L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -10
+p360
+aVEduardo Najera CHA 01/31/2011 CHA @ UTA L 28 3 1 3 33.3 1 3 33.3 0 0 - 1 1 2 2 0 0 2 2 17
+p361
+aVDominic McGuire CHA 01/31/2011 CHA @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 1
+p362
+aVKwame Brown CHA 01/31/2011 CHA @ UTA L 23 5 2 6 33.3 0 0 - 1 3 33.3 4 1 5 1 0 0 0 5 -22
+p363
+aVD.J. Augustin CHA 01/31/2011 CHA @ UTA L 38 20 6 16 37.5 1 5 20.0 7 10 70.0 1 7 8 7 0 0 4 2 5
+p364
+aVDominic McGuire CHA 01/29/2011 CHA @ LAC L 22 5 2 7 28.6 0 0 - 1 2 50.0 3 4 7 3 0 1 1 2 -10
+p365
+aVMatt Carroll CHA 01/29/2011 CHA @ LAC L 12 8 3 4 75.0 0 0 - 2 4 50.0 0 2 2 2 0 0 1 1 8
+p366
+aVKwame Brown CHA 01/29/2011 CHA @ LAC L 29 7 2 8 25.0 0 0 - 3 4 75.0 3 9 12 0 0 1 1 3 -1
+p367
+aVD.J. Augustin CHA 01/29/2011 CHA @ LAC L 26 13 4 12 33.3 1 5 20.0 4 4 100.0 1 1 2 4 0 0 3 0 -21
+p368
+aVGerald Wallace CHA 01/29/2011 CHA @ LAC L 27 7 2 7 28.6 0 1 0.0 3 4 75.0 1 3 4 1 2 2 2 0 -28
+p369
+aVBoris Diaw CHA 01/29/2011 CHA @ LAC L 21 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 5 0 0 1 3 -20
+p370
+aVStephen Jackson CHA 01/29/2011 CHA @ LAC L 25 14 5 11 45.5 1 4 25.0 3 3 100.0 1 2 3 1 0 0 1 1 -19
+p371
+aVNazr Mohammed CHA 01/29/2011 CHA @ LAC L 11 7 3 4 75.0 0 0 - 1 3 33.3 2 4 6 0 0 1 0 2 -2
+p372
+aVDerrick Brown CHA 01/29/2011 CHA @ LAC L 23 5 2 5 40.0 0 1 0.0 1 1 100.0 1 4 5 1 0 0 2 5 8
+p373
+aVGerald Henderson CHA 01/29/2011 CHA @ LAC L 23 14 5 6 83.3 1 1 100.0 3 5 60.0 0 4 4 1 0 0 2 3 4
+p374
+aVShaun Livingston CHA 01/29/2011 CHA @ LAC L 22 6 0 5 0.0 0 0 - 6 6 100.0 1 1 2 2 0 0 3 2 6
+p375
+aVDerrick Brown CHA 01/28/2011 CHA @ GSW W 12 2 1 1 100.0 0 0 - 0 1 0.0 1 0 1 0 0 1 0 2 0
+p376
+aVNazr Mohammed CHA 01/28/2011 CHA @ GSW W 17 13 5 7 71.4 0 0 - 3 4 75.0 3 3 6 0 0 1 1 2 5
+p377
+aVGerald Henderson CHA 01/28/2011 CHA @ GSW W 30 8 3 10 30.0 0 1 0.0 2 2 100.0 5 1 6 5 1 2 2 2 15
+p378
+aVStephen Jackson CHA 01/28/2011 CHA @ GSW W 41 31 13 24 54.2 2 9 22.2 3 6 50.0 0 7 7 4 3 0 2 1 7
+p379
+aVGerald Wallace CHA 01/28/2011 CHA @ GSW W 39 7 3 7 42.9 1 3 33.3 0 0 - 1 4 5 6 2 2 2 3 6
+p380
+aVEduardo Najera CHA 01/28/2011 CHA @ GSW W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p381
+aVD.J. Augustin CHA 01/28/2011 CHA @ GSW W 40 27 7 13 53.8 4 7 57.1 9 10 90.0 1 3 4 12 4 0 5 3 9
+p382
+aVKwame Brown CHA 01/28/2011 CHA @ GSW W 35 12 6 9 66.7 0 0 - 0 5 0.0 5 0 5 0 0 0 2 5 2
+p383
+aVBoris Diaw CHA 01/28/2011 CHA @ GSW W 30 13 5 12 41.7 2 4 50.0 1 2 50.0 1 2 3 2 3 0 1 1 1
+p384
+aVShaun Livingston CHA 01/28/2011 CHA @ GSW W 13 5 2 5 40.0 0 0 - 1 1 100.0 0 3 3 3 0 0 1 0 -1
+p385
+aVKwame Brown CHA 01/26/2011 CHA @ PHX W 26 12 4 5 80.0 0 0 - 4 4 100.0 4 6 10 1 0 0 0 3 -6
+p386
+aVGerald Henderson CHA 01/26/2011 CHA @ PHX W 33 15 6 12 50.0 0 1 0.0 3 4 75.0 1 2 3 1 0 2 0 2 8
+p387
+aVShaun Livingston CHA 01/26/2011 CHA @ PHX W 17 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 2 0 2 2 2 -4
+p388
+aVGerald Wallace CHA 01/26/2011 CHA @ PHX W 42 22 8 13 61.5 0 1 0.0 6 8 75.0 4 6 10 3 1 0 1 1 6
+p389
+aVD.J. Augustin CHA 01/26/2011 CHA @ PHX W 33 15 5 11 45.5 3 6 50.0 2 2 100.0 0 3 3 10 0 0 0 0 11
+p390
+aVBoris Diaw CHA 01/26/2011 CHA @ PHX W 36 18 7 10 70.0 2 3 66.7 2 2 100.0 2 4 6 5 1 0 2 1 12
+p391
+aVEduardo Najera CHA 01/26/2011 CHA @ PHX W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p392
+aVStephen Jackson CHA 01/26/2011 CHA @ PHX W 43 23 7 20 35.0 4 6 66.7 5 6 83.3 1 6 7 4 1 1 3 2 8
+p393
+aVNazr Mohammed CHA 01/26/2011 CHA @ PHX W 6 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 0 1 0 0 1 0
+p394
+aVNazr Mohammed CHA 01/25/2011 CHA @ SAC W 15 4 1 4 25.0 0 0 - 2 4 50.0 2 3 5 0 0 0 2 2 0
+p395
+aVGerald Henderson CHA 01/25/2011 CHA @ SAC W 16 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 1 2
+p396
+aVMatt Carroll CHA 01/25/2011 CHA @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p397
+aVBoris Diaw CHA 01/25/2011 CHA @ SAC W 23 6 2 5 40.0 1 2 50.0 1 2 50.0 1 4 5 2 1 0 2 5 3
+p398
+aVShaun Livingston CHA 01/25/2011 CHA @ SAC W 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 2
+p399
+aVKwame Brown CHA 01/25/2011 CHA @ SAC W 35 13 3 8 37.5 0 0 - 7 10 70.0 4 14 18 2 1 1 2 5 3
+p400
+aVGerald Wallace CHA 01/25/2011 CHA @ SAC W 42 19 6 12 50.0 0 0 - 7 10 70.0 1 5 6 1 3 0 4 3 7
+p401
+aVEduardo Najera CHA 01/25/2011 CHA @ SAC W 15 5 1 2 50.0 1 1 100.0 2 2 100.0 2 3 5 0 0 0 1 5 -1
+p402
+aVD.J. Augustin CHA 01/25/2011 CHA @ SAC W 36 16 7 14 50.0 0 2 0.0 2 2 100.0 0 2 2 2 0 0 3 1 3
+p403
+aVDominic McGuire CHA 01/25/2011 CHA @ SAC W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 5
+p404
+aVStephen Jackson CHA 01/25/2011 CHA @ SAC W 39 21 7 15 46.7 1 3 33.3 6 6 100.0 0 4 4 1 0 0 2 5 1
+p405
+aVEduardo Najera CHA 01/22/2011 CHA vs. ATL L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p406
+aVShaun Livingston CHA 01/22/2011 CHA vs. ATL L 18 9 4 6 66.7 0 0 - 1 2 50.0 2 1 3 4 2 0 0 3 -7
+p407
+aVDominic McGuire CHA 01/22/2011 CHA vs. ATL L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p408
+aVGerald Henderson CHA 01/22/2011 CHA vs. ATL L 18 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -4
+p409
+aVDerrick Brown CHA 01/22/2011 CHA vs. ATL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p410
+aVBoris Diaw CHA 01/22/2011 CHA vs. ATL L 35 12 5 7 71.4 0 0 - 2 2 100.0 2 5 7 4 2 2 0 0 -3
+p411
+aVStephen Jackson CHA 01/22/2011 CHA vs. ATL L 38 10 3 14 21.4 3 9 33.3 1 2 50.0 0 1 1 2 0 0 5 2 -21
+p412
+aVMatt Carroll CHA 01/22/2011 CHA vs. ATL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p413
+aVD.J. Augustin CHA 01/22/2011 CHA vs. ATL L 35 20 8 17 47.1 3 4 75.0 1 1 100.0 1 0 1 7 0 0 0 1 -13
+p414
+aVNazr Mohammed CHA 01/22/2011 CHA vs. ATL L 22 10 5 9 55.6 0 0 - 0 0 - 2 5 7 0 1 1 0 2 -9
+p415
+aVGerald Wallace CHA 01/22/2011 CHA vs. ATL L 37 7 2 9 22.2 0 4 0.0 3 4 75.0 0 8 8 4 1 0 0 1 -11
+p416
+aVKwame Brown CHA 01/22/2011 CHA vs. ATL L 16 7 3 3 100.0 0 0 - 1 1 100.0 0 3 3 0 0 1 2 2 -4
+p417
+aVDominic McGuire CHA 01/20/2011 CHA vs. PHI W 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -6
+p418
+aVBoris Diaw CHA 01/20/2011 CHA vs. PHI W 36 9 3 5 60.0 1 2 50.0 2 4 50.0 1 4 5 5 2 1 2 3 10
+p419
+aVStephen Jackson CHA 01/20/2011 CHA vs. PHI W 41 14 5 16 31.3 0 3 0.0 4 5 80.0 1 3 4 2 2 0 1 4 0
+p420
+aVMatt Carroll CHA 01/20/2011 CHA vs. PHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p421
+aVGerald Wallace CHA 01/20/2011 CHA vs. PHI W 37 6 2 7 28.6 0 1 0.0 2 2 100.0 0 3 3 2 1 0 1 0 15
+p422
+aVD.J. Augustin CHA 01/20/2011 CHA vs. PHI W 37 31 11 17 64.7 3 5 60.0 6 6 100.0 0 4 4 8 1 0 3 1 15
+p423
+aVNazr Mohammed CHA 01/20/2011 CHA vs. PHI W 20 15 7 12 58.3 0 0 - 1 3 33.3 3 4 7 0 0 1 1 1 6
+p424
+aVKwame Brown CHA 01/20/2011 CHA vs. PHI W 23 6 2 4 50.0 0 0 - 2 2 100.0 2 7 9 1 0 0 0 4 -3
+p425
+aVShaun Livingston CHA 01/20/2011 CHA vs. PHI W 11 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -12
+p426
+aVGerald Henderson CHA 01/20/2011 CHA vs. PHI W 19 11 5 8 62.5 0 0 - 1 2 50.0 0 4 4 2 0 0 0 3 0
+p427
+aVEduardo Najera CHA 01/20/2011 CHA vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p428
+aVGerald Henderson CHA 01/18/2011 CHA @ CHI W 24 8 3 9 33.3 0 0 - 2 2 100.0 0 2 2 0 1 0 0 0 -3
+p429
+aVNazr Mohammed CHA 01/18/2011 CHA @ CHI W 18 3 1 4 25.0 0 0 - 1 2 50.0 4 4 8 0 0 0 1 4 5
+p430
+aVShaun Livingston CHA 01/18/2011 CHA @ CHI W 14 6 3 7 42.9 0 0 - 0 0 - 1 0 1 2 3 1 1 1 0
+p431
+aVBoris Diaw CHA 01/18/2011 CHA @ CHI W 36 12 6 13 46.2 0 3 0.0 0 0 - 2 0 2 2 0 0 1 3 3
+p432
+aVD.J. Augustin CHA 01/18/2011 CHA @ CHI W 34 15 6 13 46.2 0 3 0.0 3 4 75.0 0 3 3 5 2 0 1 1 1
+p433
+aVMatt Carroll CHA 01/18/2011 CHA @ CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p434
+aVStephen Jackson CHA 01/18/2011 CHA @ CHI W 36 12 5 14 35.7 0 4 0.0 2 4 50.0 0 5 5 3 1 0 1 0 1
+p435
+aVTyrus Thomas CHA 01/18/2011 CHA @ CHI W 22 8 3 8 37.5 0 0 - 2 4 50.0 0 2 2 1 2 1 1 4 11
+p436
+aVGerald Wallace CHA 01/18/2011 CHA @ CHI W 41 13 5 14 35.7 0 3 0.0 3 3 100.0 5 11 16 4 0 1 1 2 0
+p437
+aVKwame Brown CHA 01/18/2011 CHA @ CHI W 15 6 3 5 60.0 0 0 - 0 1 0.0 1 3 4 0 0 1 0 3 -13
+p438
+aVGerald Henderson CHA 01/17/2011 CHA @ PHI L 18 2 1 8 12.5 0 1 0.0 0 0 - 1 1 2 0 1 0 0 0 -14
+p439
+aVGerald Wallace CHA 01/17/2011 CHA @ PHI L 40 11 4 7 57.1 2 4 50.0 1 3 33.3 1 5 6 2 0 0 1 2 5
+p440
+aVD.J. Augustin CHA 01/17/2011 CHA @ PHI L 42 9 4 16 25.0 0 6 0.0 1 1 100.0 1 3 4 8 1 0 2 2 5
+p441
+aVStephen Jackson CHA 01/17/2011 CHA @ PHI L 44 15 7 24 29.2 1 11 9.1 0 0 - 1 6 7 2 0 0 5 6 -4
+p442
+aVNazr Mohammed CHA 01/17/2011 CHA @ PHI L 11 4 2 5 40.0 0 0 - 0 2 0.0 3 1 4 0 0 0 0 0 -8
+p443
+aVEduardo Najera CHA 01/17/2011 CHA @ PHI L 8 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 2 1 -15
+p444
+aVShaun Livingston CHA 01/17/2011 CHA @ PHI L 13 6 2 7 28.6 0 0 - 2 2 100.0 3 4 7 1 1 0 2 1 -8
+p445
+aVBoris Diaw CHA 01/17/2011 CHA @ PHI L 40 25 8 14 57.1 4 7 57.1 5 6 83.3 1 10 11 11 1 2 1 4 7
+p446
+aVDominic McGuire CHA 01/17/2011 CHA @ PHI L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 1 0 1 4
+p447
+aVKwame Brown CHA 01/17/2011 CHA @ PHI L 42 15 5 9 55.6 0 0 - 5 5 100.0 5 11 16 0 1 1 2 3 5
+p448
+aVMatt Carroll CHA 01/17/2011 CHA @ PHI L 2 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 3
+p449
+aVBoris Diaw CHA 01/15/2011 CHA vs. NOH L 39 9 4 11 36.4 1 2 50.0 0 0 - 2 7 9 4 0 2 1 4 -8
+p450
+aVTyrus Thomas CHA 01/15/2011 CHA vs. NOH L 19 8 2 6 33.3 0 0 - 4 4 100.0 1 3 4 0 1 1 3 3 -4
+p451
+aVGerald Henderson CHA 01/15/2011 CHA vs. NOH L 13 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 3 1 0
+p452
+aVGerald Wallace CHA 01/15/2011 CHA vs. NOH L 42 15 5 13 38.5 0 0 - 5 5 100.0 0 3 3 0 0 0 3 2 -9
+p453
+aVShaun Livingston CHA 01/15/2011 CHA vs. NOH L 17 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 1 1 0 0
+p454
+aVKwame Brown CHA 01/15/2011 CHA vs. NOH L 30 12 5 6 83.3 0 0 - 2 5 40.0 5 9 14 0 1 0 1 2 -5
+p455
+aVNazr Mohammed CHA 01/15/2011 CHA vs. NOH L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p456
+aVD.J. Augustin CHA 01/15/2011 CHA vs. NOH L 31 12 3 10 30.0 2 6 33.3 4 4 100.0 1 0 1 7 0 0 1 2 -7
+p457
+aVStephen Jackson CHA 01/15/2011 CHA vs. NOH L 41 15 5 15 33.3 2 7 28.6 3 6 50.0 1 7 8 6 2 0 2 2 -5
+p458
+aVNazr Mohammed CHA 01/14/2011 CHA @ BOS L 15 6 2 5 40.0 0 0 - 2 4 50.0 2 1 3 0 1 1 1 2 3
+p459
+aVBoris Diaw CHA 01/14/2011 CHA @ BOS L 30 11 4 7 57.1 0 0 - 3 4 75.0 3 5 8 2 0 0 0 3 -6
+p460
+aVGerald Wallace CHA 01/14/2011 CHA @ BOS L 41 20 6 12 50.0 0 0 - 8 10 80.0 1 5 6 0 0 0 2 3 -15
+p461
+aVGerald Henderson CHA 01/14/2011 CHA @ BOS L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 1 2 10
+p462
+aVShaun Livingston CHA 01/14/2011 CHA @ BOS L 17 7 3 7 42.9 0 1 0.0 1 1 100.0 0 3 3 3 0 0 2 1 -4
+p463
+aVKwame Brown CHA 01/14/2011 CHA @ BOS L 25 8 3 7 42.9 0 0 - 2 2 100.0 4 3 7 1 0 0 1 3 -12
+p464
+aVTyrus Thomas CHA 01/14/2011 CHA @ BOS L 26 8 3 7 42.9 0 0 - 2 2 100.0 2 7 9 0 2 0 0 0 5
+p465
+aVD.J. Augustin CHA 01/14/2011 CHA @ BOS L 31 19 5 11 45.5 2 4 50.0 7 7 100.0 0 0 0 6 1 0 1 5 -1
+p466
+aVStephen Jackson CHA 01/14/2011 CHA @ BOS L 41 13 5 17 29.4 1 3 33.3 2 4 50.0 1 4 5 1 0 1 1 2 -5
+p467
+aVDominic McGuire CHA 01/12/2011 CHA vs. CHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -4
+p468
+aVKwame Brown CHA 01/12/2011 CHA vs. CHI W 21 10 4 5 80.0 0 0 - 2 4 50.0 2 3 5 0 0 0 1 3 8
+p469
+aVGerald Wallace CHA 01/12/2011 CHA vs. CHI W 41 14 5 11 45.5 2 5 40.0 2 2 100.0 0 7 7 0 1 2 0 0 8
+p470
+aVD.J. Augustin CHA 01/12/2011 CHA vs. CHI W 39 22 6 12 50.0 2 5 40.0 8 9 88.9 2 1 3 12 0 0 1 1 11
+p471
+aVGerald Henderson CHA 01/12/2011 CHA vs. CHI W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p472
+aVBoris Diaw CHA 01/12/2011 CHA vs. CHI W 33 13 5 11 45.5 2 5 40.0 1 1 100.0 0 5 5 5 2 1 1 5 18
+p473
+aVStephen Jackson CHA 01/12/2011 CHA vs. CHI W 43 16 6 17 35.3 0 5 0.0 4 6 66.7 0 4 4 3 1 1 1 4 9
+p474
+aVShaun Livingston CHA 01/12/2011 CHA vs. CHI W 11 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -6
+p475
+aVMatt Carroll CHA 01/12/2011 CHA vs. CHI W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -2
+p476
+aVTyrus Thomas CHA 01/12/2011 CHA vs. CHI W 30 17 7 14 50.0 0 0 - 3 5 60.0 4 9 13 2 0 2 3 4 -7
+p477
+aVStephen Jackson CHA 01/10/2011 CHA vs. MEM W 42 27 11 23 47.8 3 7 42.9 2 2 100.0 0 6 6 4 4 1 3 1 10
+p478
+aVGerald Henderson CHA 01/10/2011 CHA vs. MEM W 32 9 3 9 33.3 0 0 - 3 5 60.0 0 1 1 2 1 1 0 1 3
+p479
+aVMatt Carroll CHA 01/10/2011 CHA vs. MEM W 14 12 5 9 55.6 2 5 40.0 0 1 0.0 0 2 2 1 0 0 3 1 13
+p480
+aVDominic McGuire CHA 01/10/2011 CHA vs. MEM W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 1 0 0 4
+p481
+aVKwame Brown CHA 01/10/2011 CHA vs. MEM W 35 8 2 3 66.7 0 0 - 4 6 66.7 2 4 6 0 0 1 3 3 2
+p482
+aVShaun Livingston CHA 01/10/2011 CHA vs. MEM W 16 8 4 6 66.7 0 0 - 0 0 - 0 2 2 3 0 1 0 2 19
+p483
+aVTyrus Thomas CHA 01/10/2011 CHA vs. MEM W 17 6 2 3 66.7 0 0 - 2 2 100.0 3 5 8 1 1 4 0 6 9
+p484
+aVD.J. Augustin CHA 01/10/2011 CHA vs. MEM W 38 18 6 12 50.0 2 6 33.3 4 4 100.0 0 4 4 9 1 0 5 1 -2
+p485
+aVBoris Diaw CHA 01/10/2011 CHA vs. MEM W 40 6 3 6 50.0 0 2 0.0 0 1 0.0 3 6 9 4 1 1 4 0 12
+p486
+aVGerald Henderson CHA 01/08/2011 CHA vs. WAS W 40 19 8 11 72.7 0 1 0.0 3 4 75.0 1 8 9 2 0 3 1 1 18
+p487
+aVTyrus Thomas CHA 01/08/2011 CHA vs. WAS W 31 6 2 13 15.4 0 0 - 2 2 100.0 2 2 4 1 0 3 2 3 6
+p488
+aVEduardo Najera CHA 01/08/2011 CHA vs. WAS W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p489
+aVSherron Collins CHA 01/08/2011 CHA vs. WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -1
+p490
+aVKwame Brown CHA 01/08/2011 CHA vs. WAS W 16 9 4 7 57.1 0 0 - 1 1 100.0 1 3 4 0 0 0 1 3 12
+p491
+aVShaun Livingston CHA 01/08/2011 CHA vs. WAS W 15 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 2 0 0 2 2 9
+p492
+aVBoris Diaw CHA 01/08/2011 CHA vs. WAS W 30 11 5 8 62.5 1 1 100.0 0 0 - 4 6 10 2 0 1 2 0 3
+p493
+aVStephen Jackson CHA 01/08/2011 CHA vs. WAS W 41 21 6 16 37.5 2 5 40.0 7 8 87.5 2 8 10 5 1 1 4 1 13
+p494
+aVDominic McGuire CHA 01/08/2011 CHA vs. WAS W 10 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 0 0 1 2 7
+p495
+aVDerrick Brown CHA 01/08/2011 CHA vs. WAS W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 5
+p496
+aVD.J. Augustin CHA 01/08/2011 CHA vs. WAS W 32 20 6 11 54.5 3 5 60.0 5 5 100.0 0 0 0 9 2 0 3 1 8
+p497
+aVMatt Carroll CHA 01/08/2011 CHA vs. WAS W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -4
+p498
+aVGerald Henderson CHA 01/05/2011 CHA @ MIN W 33 7 3 7 42.9 0 0 - 1 2 50.0 2 3 5 3 1 0 0 3 0
+p499
+aVDominic McGuire CHA 01/05/2011 CHA @ MIN W 17 10 5 5 100.0 0 0 - 0 0 - 2 0 2 1 0 1 2 1 2
+p500
+aVEduardo Najera CHA 01/05/2011 CHA @ MIN W 13 11 4 9 44.4 2 4 50.0 1 2 50.0 2 0 2 0 1 1 1 3 1
+p501
+aVD.J. Augustin CHA 01/05/2011 CHA @ MIN W 41 16 4 17 23.5 2 6 33.3 6 7 85.7 2 3 5 8 0 0 2 2 -1
+p502
+aVMatt Carroll CHA 01/05/2011 CHA @ MIN W 20 9 3 8 37.5 2 6 33.3 1 2 50.0 0 4 4 0 1 0 0 0 13
+p503
+aVTyrus Thomas CHA 01/05/2011 CHA @ MIN W 36 21 10 18 55.6 0 0 - 1 1 100.0 2 9 11 3 1 2 1 4 5
+p504
+aVDerrick Brown CHA 01/05/2011 CHA @ MIN W 14 4 1 4 25.0 0 0 - 2 3 66.7 1 2 3 1 0 0 0 0 0
+p505
+aVKwame Brown CHA 01/05/2011 CHA @ MIN W 36 8 3 6 50.0 0 0 - 2 7 28.6 4 10 14 0 1 0 2 2 -1
+p506
+aVBoris Diaw CHA 01/05/2011 CHA @ MIN W 40 16 7 20 35.0 2 10 20.0 0 0 - 1 3 4 7 1 1 2 6 -6
+p507
+aVShaun Livingston CHA 01/05/2011 CHA @ MIN W 16 6 3 4 75.0 0 0 - 0 0 - 0 1 1 2 1 0 2 1 2
+p508
+aVStephen Jackson CHA 01/03/2011 CHA vs. MIA L 37 22 7 15 46.7 1 5 20.0 7 8 87.5 0 2 2 5 2 0 5 2 -16
+p509
+aVD.J. Augustin CHA 01/03/2011 CHA vs. MIA L 29 16 4 10 40.0 2 4 50.0 6 7 85.7 0 1 1 3 1 0 1 0 -16
+p510
+aVDerrick Brown CHA 01/03/2011 CHA vs. MIA L 19 7 3 6 50.0 0 0 - 1 2 50.0 3 1 4 1 0 0 0 2 1
+p511
+aVGerald Henderson CHA 01/03/2011 CHA vs. MIA L 22 6 3 9 33.3 0 0 - 0 0 - 0 2 2 0 2 1 0 2 -20
+p512
+aVEduardo Najera CHA 01/03/2011 CHA vs. MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p513
+aVMatt Carroll CHA 01/03/2011 CHA vs. MIA L 12 4 1 5 20.0 0 1 0.0 2 2 100.0 1 1 2 1 1 0 1 2 6
+p514
+aVSherron Collins CHA 01/03/2011 CHA vs. MIA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p515
+aVBoris Diaw CHA 01/03/2011 CHA vs. MIA L 20 4 2 4 50.0 0 0 - 0 0 - 0 2 2 5 0 0 2 4 -2
+p516
+aVShaun Livingston CHA 01/03/2011 CHA vs. MIA L 25 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 1 0 2 1 -2
+p517
+aVDominic McGuire CHA 01/03/2011 CHA vs. MIA L 24 4 2 4 50.0 0 0 - 0 0 - 2 5 7 1 0 0 1 2 -14
+p518
+aVKwame Brown CHA 01/03/2011 CHA vs. MIA L 23 5 1 4 25.0 0 0 - 3 4 75.0 4 3 7 0 1 0 1 3 -2
+p519
+aVTyrus Thomas CHA 01/03/2011 CHA vs. MIA L 22 8 4 14 28.6 0 0 - 0 0 - 1 4 5 1 0 1 2 2 -13
+p520
+aVGerald Henderson CHA 12/31/2010 CHA vs. GSW L 22 10 5 6 83.3 0 0 - 0 0 - 2 4 6 0 1 1 0 0 9
+p521
+aVGerald Wallace CHA 12/31/2010 CHA vs. GSW L 37 20 5 15 33.3 3 3 100.0 7 10 70.0 3 5 8 0 1 0 2 2 -6
+p522
+aVDeSagana Diop CHA 12/31/2010 CHA vs. GSW L 5 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 5
+p523
+aVShaun Livingston CHA 12/31/2010 CHA vs. GSW L 17 7 1 3 33.3 0 0 - 5 6 83.3 0 3 3 5 1 0 0 2 4
+p524
+aVD.J. Augustin CHA 12/31/2010 CHA vs. GSW L 32 12 5 12 41.7 1 6 16.7 1 1 100.0 0 1 1 6 1 0 1 2 -4
+p525
+aVNazr Mohammed CHA 12/31/2010 CHA vs. GSW L 19 6 3 8 37.5 0 0 - 0 0 - 4 4 8 0 1 0 1 4 -11
+p526
+aVMatt Carroll CHA 12/31/2010 CHA vs. GSW L 6 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 1
+p527
+aVBoris Diaw CHA 12/31/2010 CHA vs. GSW L 36 10 5 9 55.6 0 0 - 0 0 - 3 4 7 3 1 2 3 0 -7
+p528
+aVDerrick Brown CHA 12/31/2010 CHA vs. GSW L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p529
+aVStephen Jackson CHA 12/31/2010 CHA vs. GSW L 42 22 7 22 31.8 1 6 16.7 7 9 77.8 2 4 6 4 2 0 5 3 3
+p530
+aVDominic McGuire CHA 12/31/2010 CHA vs. GSW L 20 4 2 3 66.7 0 0 - 0 0 - 2 6 8 1 1 1 0 3 6
+p531
+aVShaun Livingston CHA 12/29/2010 CHA vs. CLE W 12 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 3 -1
+p532
+aVGerald Wallace CHA 12/29/2010 CHA vs. CLE W 43 9 4 11 36.4 0 3 0.0 1 2 50.0 5 5 10 2 1 1 2 4 8
+p533
+aVGerald Henderson CHA 12/29/2010 CHA vs. CLE W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p534
+aVNazr Mohammed CHA 12/29/2010 CHA vs. CLE W 21 8 3 6 50.0 0 0 - 2 3 66.7 4 3 7 1 0 1 2 5 10
+p535
+aVD.J. Augustin CHA 12/29/2010 CHA vs. CLE W 38 28 10 14 71.4 5 6 83.3 3 3 100.0 1 3 4 6 0 0 1 1 8
+p536
+aVDeSagana Diop CHA 12/29/2010 CHA vs. CLE W 22 1 0 2 0.0 0 0 - 1 4 25.0 1 4 5 0 1 2 1 5 -1
+p537
+aVDominic McGuire CHA 12/29/2010 CHA vs. CLE W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p538
+aVMatt Carroll CHA 12/29/2010 CHA vs. CLE W 8 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 0
+p539
+aVBoris Diaw CHA 12/29/2010 CHA vs. CLE W 39 7 2 7 28.6 1 3 33.3 2 3 66.7 2 3 5 4 1 0 2 1 18
+p540
+aVStephen Jackson CHA 12/29/2010 CHA vs. CLE W 40 38 11 24 45.8 3 7 42.9 13 15 86.7 0 6 6 4 2 0 2 1 10
+p541
+aVDerrick Brown CHA 12/29/2010 CHA vs. CLE W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 1
+p542
+aVDeSagana Diop CHA 12/27/2010 CHA vs. DET W 23 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 1 3 0 0 5
+p543
+aVD.J. Augustin CHA 12/27/2010 CHA vs. DET W 36 27 10 15 66.7 4 6 66.7 3 3 100.0 0 1 1 4 0 0 0 1 -12
+p544
+aVGerald Henderson CHA 12/27/2010 CHA vs. DET W 29 3 1 6 16.7 0 0 - 1 2 50.0 0 3 3 1 0 0 2 3 -7
+p545
+aVNazr Mohammed CHA 12/27/2010 CHA vs. DET W 19 10 4 7 57.1 0 0 - 2 2 100.0 1 4 5 1 0 1 1 2 1
+p546
+aVShaun Livingston CHA 12/27/2010 CHA vs. DET W 12 4 2 4 50.0 0 0 - 0 0 - 0 7 7 4 1 2 0 1 17
+p547
+aVMatt Carroll CHA 12/27/2010 CHA vs. DET W 19 7 2 6 33.3 1 2 50.0 2 2 100.0 2 3 5 1 0 0 1 0 12
+p548
+aVTyrus Thomas CHA 12/27/2010 CHA vs. DET W 23 14 5 9 55.6 0 0 - 4 6 66.7 2 2 4 2 1 5 6 3 11
+p549
+aVStephen Jackson CHA 12/27/2010 CHA vs. DET W 40 23 9 17 52.9 4 7 57.1 1 2 50.0 0 9 9 4 2 0 9 1 -5
+p550
+aVDerrick Brown CHA 12/27/2010 CHA vs. DET W 8 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 2 1 1 2 10
+p551
+aVBoris Diaw CHA 12/27/2010 CHA vs. DET W 31 9 3 5 60.0 1 2 50.0 2 2 100.0 4 1 5 6 1 1 3 2 -7
+p552
+aVShaun Livingston CHA 12/21/2010 CHA vs. OKC L 18 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 1 0 1 -9
+p553
+aVTyrus Thomas CHA 12/21/2010 CHA vs. OKC L 20 5 2 9 22.2 0 0 - 1 2 50.0 1 1 2 1 1 2 2 3 -18
+p554
+aVSherron Collins CHA 12/21/2010 CHA vs. OKC L 14 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 0 2 0 1 1 -5
+p555
+aVKwame Brown CHA 12/21/2010 CHA vs. OKC L 32 9 3 4 75.0 0 0 - 3 6 50.0 1 4 5 1 0 1 0 2 -13
+p556
+aVNazr Mohammed CHA 12/21/2010 CHA vs. OKC L 13 3 1 2 50.0 0 0 - 1 3 33.3 0 4 4 1 0 4 2 1 6
+p557
+aVD.J. Augustin CHA 12/21/2010 CHA vs. OKC L 19 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 1 0 0 0 3 -6
+p558
+aVDerrick Brown CHA 12/21/2010 CHA vs. OKC L 33 11 5 10 50.0 0 0 - 1 3 33.3 4 2 6 2 2 0 1 5 -20
+p559
+aVBoris Diaw CHA 12/21/2010 CHA vs. OKC L 35 13 5 11 45.5 1 3 33.3 2 2 100.0 1 6 7 8 0 1 3 4 -11
+p560
+aVMatt Carroll CHA 12/21/2010 CHA vs. OKC L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 4
+p561
+aVStephen Jackson CHA 12/21/2010 CHA vs. OKC L 35 20 7 17 41.2 0 3 0.0 6 6 100.0 0 3 3 4 1 0 5 3 -14
+p562
+aVGerald Henderson CHA 12/21/2010 CHA vs. OKC L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 2 -4
+p563
+aVDominic McGuire CHA 12/21/2010 CHA vs. OKC L 2 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 0
+p564
+aVShaun Livingston CHA 12/20/2010 CHA @ WAS L 24 7 3 7 42.9 0 0 - 1 1 100.0 0 1 1 3 1 0 2 0 -9
+p565
+aVDominic McGuire CHA 12/20/2010 CHA @ WAS L 21 0 0 2 0.0 0 0 - 0 0 - 1 5 6 1 0 1 1 3 -33
+p566
+aVBoris Diaw CHA 12/20/2010 CHA @ WAS L 32 9 4 11 36.4 0 3 0.0 1 2 50.0 2 5 7 4 1 0 3 2 -24
+p567
+aVDeSagana Diop CHA 12/20/2010 CHA @ WAS L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 1 2 3 -3
+p568
+aVDerrick Brown CHA 12/20/2010 CHA @ WAS L 19 9 3 4 75.0 0 0 - 3 4 75.0 2 2 4 1 2 0 3 2 -5
+p569
+aVStephen Jackson CHA 12/20/2010 CHA @ WAS L 30 13 5 12 41.7 1 3 33.3 2 3 66.7 0 2 2 2 0 0 6 1 -27
+p570
+aVNazr Mohammed CHA 12/20/2010 CHA @ WAS L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -18
+p571
+aVKwame Brown CHA 12/20/2010 CHA @ WAS L 21 10 1 2 50.0 0 0 - 8 11 72.7 2 3 5 0 0 0 2 2 -12
+p572
+aVTyrus Thomas CHA 12/20/2010 CHA @ WAS L 20 10 5 7 71.4 0 0 - 0 0 - 1 3 4 0 0 0 2 2 -3
+p573
+aVGerald Henderson CHA 12/20/2010 CHA @ WAS L 15 2 1 3 33.3 0 0 - 0 2 0.0 1 0 1 2 1 0 4 2 -5
+p574
+aVD.J. Augustin CHA 12/20/2010 CHA @ WAS L 30 9 3 8 37.5 1 3 33.3 2 2 100.0 0 2 2 4 0 0 1 4 -26
+p575
+aVMatt Carroll CHA 12/17/2010 CHA @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p576
+aVStephen Jackson CHA 12/17/2010 CHA @ ATL L 32 9 3 14 21.4 0 4 0.0 3 4 75.0 0 3 3 3 2 0 0 1 -6
+p577
+aVDerrick Brown CHA 12/17/2010 CHA @ ATL L 9 4 2 5 40.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 0
+p578
+aVD.J. Augustin CHA 12/17/2010 CHA @ ATL L 37 22 9 19 47.4 1 7 14.3 3 3 100.0 1 1 2 3 1 0 2 3 -6
+p579
+aVDominic McGuire CHA 12/17/2010 CHA @ ATL L 40 8 3 12 25.0 0 0 - 2 2 100.0 7 10 17 2 0 1 1 2 -10
+p580
+aVTyrus Thomas CHA 12/17/2010 CHA @ ATL L 16 7 2 9 22.2 0 1 0.0 3 3 100.0 2 6 8 0 0 1 0 0 -1
+p581
+aVNazr Mohammed CHA 12/17/2010 CHA @ ATL L 18 3 0 4 0.0 0 0 - 3 4 75.0 2 3 5 0 0 0 0 0 -5
+p582
+aVShaun Livingston CHA 12/17/2010 CHA @ ATL L 15 2 1 4 25.0 0 0 - 0 0 - 0 0 0 5 2 1 0 0 4
+p583
+aVBoris Diaw CHA 12/17/2010 CHA @ ATL L 36 22 10 15 66.7 1 2 50.0 1 2 50.0 2 5 7 0 3 0 2 4 2
+p584
+aVKwame Brown CHA 12/17/2010 CHA @ ATL L 27 8 3 4 75.0 0 0 - 2 2 100.0 3 2 5 2 0 0 1 1 0
+p585
+aVGerald Henderson CHA 12/17/2010 CHA @ ATL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -3
+p586
+aVStephen Jackson CHA 12/15/2010 CHA @ MEM L 29 16 6 17 35.3 1 4 25.0 3 4 75.0 0 3 3 1 0 1 4 2 -18
+p587
+aVKwame Brown CHA 12/15/2010 CHA @ MEM L 27 7 1 5 20.0 0 0 - 5 7 71.4 2 4 6 1 0 1 4 4 -23
+p588
+aVGerald Henderson CHA 12/15/2010 CHA @ MEM L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 0 -14
+p589
+aVMatt Carroll CHA 12/15/2010 CHA @ MEM L 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -21
+p590
+aVDerrick Brown CHA 12/15/2010 CHA @ MEM L 16 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 -5
+p591
+aVNazr Mohammed CHA 12/15/2010 CHA @ MEM L 18 4 2 6 33.3 0 0 - 0 0 - 1 4 5 0 0 1 0 1 -6
+p592
+aVTyrus Thomas CHA 12/15/2010 CHA @ MEM L 18 12 4 6 66.7 0 0 - 4 5 80.0 0 3 3 1 0 1 1 3 -15
+p593
+aVD.J. Augustin CHA 12/15/2010 CHA @ MEM L 35 10 3 8 37.5 2 3 66.7 2 2 100.0 1 4 5 7 3 0 2 1 -24
+p594
+aVBoris Diaw CHA 12/15/2010 CHA @ MEM L 29 10 4 7 57.1 2 3 66.7 0 2 0.0 0 3 3 0 0 0 4 2 -19
+p595
+aVDeSagana Diop CHA 12/15/2010 CHA @ MEM L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p596
+aVDominic McGuire CHA 12/15/2010 CHA @ MEM L 28 8 3 5 60.0 0 0 - 2 2 100.0 0 7 7 1 0 2 1 5 -6
+p597
+aVShaun Livingston CHA 12/15/2010 CHA @ MEM L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 1 1 1 -10
+p598
+aVDerrick Brown CHA 12/14/2010 CHA vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p599
+aVD.J. Augustin CHA 12/14/2010 CHA vs. TOR W 35 12 4 12 33.3 1 2 50.0 3 4 75.0 2 1 3 7 1 1 1 1 7
+p600
+aVGerald Wallace CHA 12/14/2010 CHA vs. TOR W 45 16 5 7 71.4 0 0 - 6 10 60.0 0 4 4 3 2 4 2 1 9
+p601
+aVMatt Carroll CHA 12/14/2010 CHA vs. TOR W 9 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 2 0 0 0 0 12
+p602
+aVNazr Mohammed CHA 12/14/2010 CHA vs. TOR W 19 18 8 11 72.7 0 0 - 2 5 40.0 2 6 8 1 0 1 3 2 -4
+p603
+aVDominic McGuire CHA 12/14/2010 CHA vs. TOR W 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 2 2
+p604
+aVStephen Jackson CHA 12/14/2010 CHA vs. TOR W 25 7 3 8 37.5 0 2 0.0 1 2 50.0 0 4 4 4 1 1 2 6 -9
+p605
+aVGerald Henderson CHA 12/14/2010 CHA vs. TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p606
+aVShaun Livingston CHA 12/14/2010 CHA vs. TOR W 13 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 1 1 0 0 0 -1
+p607
+aVTyrus Thomas CHA 12/14/2010 CHA vs. TOR W 21 14 6 12 50.0 0 0 - 2 3 66.7 1 6 7 0 1 2 1 3 8
+p608
+aVKwame Brown CHA 12/14/2010 CHA vs. TOR W 19 10 5 8 62.5 0 0 - 0 0 - 3 3 6 0 1 2 0 2 11
+p609
+aVBoris Diaw CHA 12/14/2010 CHA vs. TOR W 35 9 4 10 40.0 0 2 0.0 1 2 50.0 2 5 7 5 4 1 4 4 -2
+p610
+aVStephen Jackson CHA 12/11/2010 CHA vs. BOS L 31 13 6 12 50.0 0 3 0.0 1 4 25.0 0 4 4 7 1 0 3 2 -28
+p611
+aVDerrick Brown CHA 12/11/2010 CHA vs. BOS L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -6
+p612
+aVD.J. Augustin CHA 12/11/2010 CHA vs. BOS L 32 0 0 8 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 4 3 -12
+p613
+aVNazr Mohammed CHA 12/11/2010 CHA vs. BOS L 17 14 7 11 63.6 0 0 - 0 0 - 2 3 5 0 2 2 2 3 -8
+p614
+aVShaun Livingston CHA 12/11/2010 CHA vs. BOS L 20 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 1 2 0 3 2 -18
+p615
+aVMatt Carroll CHA 12/11/2010 CHA vs. BOS L 10 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p616
+aVEduardo Najera CHA 12/11/2010 CHA vs. BOS L 10 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 2 -5
+p617
+aVDominic McGuire CHA 12/11/2010 CHA vs. BOS L 16 5 1 1 100.0 0 0 - 3 3 100.0 0 3 3 0 0 0 2 2 -9
+p618
+aVBoris Diaw CHA 12/11/2010 CHA vs. BOS L 35 5 2 2 100.0 0 0 - 1 2 50.0 1 4 5 3 1 0 1 3 -29
+p619
+aVGerald Wallace CHA 12/11/2010 CHA vs. BOS L 37 9 2 15 13.3 1 4 25.0 4 6 66.7 2 4 6 5 3 1 4 5 -20
+p620
+aVKwame Brown CHA 12/11/2010 CHA vs. BOS L 26 5 2 7 28.6 0 0 - 1 4 25.0 3 6 9 0 1 2 1 1 -12
+p621
+aVGerald Wallace CHA 12/10/2010 CHA @ IND L 37 26 10 22 45.5 1 4 25.0 5 9 55.6 4 9 13 0 0 1 2 2 1
+p622
+aVKwame Brown CHA 12/10/2010 CHA @ IND L 20 4 1 2 50.0 0 0 - 2 3 66.7 3 9 12 0 0 0 0 4 2
+p623
+aVShaun Livingston CHA 12/10/2010 CHA @ IND L 23 5 2 8 25.0 0 0 - 1 2 50.0 0 3 3 2 1 1 1 0 -10
+p624
+aVDominic McGuire CHA 12/10/2010 CHA @ IND L 24 10 4 13 30.8 0 1 0.0 2 2 100.0 2 4 6 1 0 1 0 2 -13
+p625
+aVBoris Diaw CHA 12/10/2010 CHA @ IND L 38 6 3 10 30.0 0 3 0.0 0 0 - 5 2 7 0 1 1 3 2 -8
+p626
+aVStephen Jackson CHA 12/10/2010 CHA @ IND L 42 15 7 17 41.2 1 7 14.3 0 1 0.0 0 4 4 8 4 1 7 4 -8
+p627
+aVEduardo Najera CHA 12/10/2010 CHA @ IND L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p628
+aVD.J. Augustin CHA 12/10/2010 CHA @ IND L 25 8 2 6 33.3 0 1 0.0 4 4 100.0 1 3 4 5 0 0 1 4 0
+p629
+aVNazr Mohammed CHA 12/10/2010 CHA @ IND L 20 13 5 6 83.3 0 0 - 3 4 75.0 1 2 3 1 1 5 1 2 1
+p630
+aVDerrick Brown CHA 12/10/2010 CHA @ IND L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p631
+aVD.J. Augustin CHA 12/07/2010 CHA vs. DEN W 38 18 7 11 63.6 3 6 50.0 1 1 100.0 0 2 2 6 0 1 2 4 0
+p632
+aVTyrus Thomas CHA 12/07/2010 CHA vs. DEN W 15 16 6 8 75.0 0 0 - 4 4 100.0 2 2 4 1 0 0 2 2 6
+p633
+aVDominic McGuire CHA 12/07/2010 CHA vs. DEN W 15 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 1
+p634
+aVKwame Brown CHA 12/07/2010 CHA vs. DEN W 17 1 0 0 - 0 0 - 1 2 50.0 2 1 3 0 0 1 1 3 -7
+p635
+aVGerald Wallace CHA 12/07/2010 CHA vs. DEN W 41 20 7 17 41.2 1 2 50.0 5 11 45.5 1 8 9 5 2 0 2 2 3
+p636
+aVShaun Livingston CHA 12/07/2010 CHA vs. DEN W 19 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 4
+p637
+aVNazr Mohammed CHA 12/07/2010 CHA vs. DEN W 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 3 -1
+p638
+aVBoris Diaw CHA 12/07/2010 CHA vs. DEN W 41 10 5 9 55.6 0 1 0.0 0 0 - 0 2 2 3 3 1 3 4 9
+p639
+aVStephen Jackson CHA 12/07/2010 CHA vs. DEN W 40 23 8 22 36.4 5 11 45.5 2 2 100.0 0 9 9 7 2 1 3 2 -5
+p640
+aVShaun Livingston CHA 12/04/2010 CHA @ PHI L 19 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 1 2 0 0 1 -3
+p641
+aVDominic McGuire CHA 12/04/2010 CHA @ PHI L 13 4 1 2 50.0 0 0 - 2 3 66.7 0 1 1 1 1 0 1 2 0
+p642
+aVStephen Jackson CHA 12/04/2010 CHA @ PHI L 36 18 6 16 37.5 1 5 20.0 5 5 100.0 1 3 4 4 1 0 1 1 -17
+p643
+aVBoris Diaw CHA 12/04/2010 CHA @ PHI L 40 19 7 12 58.3 2 4 50.0 3 4 75.0 2 1 3 6 1 0 1 0 -15
+p644
+aVMatt Carroll CHA 12/04/2010 CHA @ PHI L 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 4
+p645
+aVKwame Brown CHA 12/04/2010 CHA @ PHI L 21 12 4 6 66.7 0 0 - 4 5 80.0 4 3 7 1 0 0 1 4 1
+p646
+aVD.J. Augustin CHA 12/04/2010 CHA @ PHI L 30 12 5 12 41.7 2 4 50.0 0 0 - 0 1 1 1 0 0 2 2 -20
+p647
+aVSherron Collins CHA 12/04/2010 CHA @ PHI L 3 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 2
+p648
+aVDerrick Brown CHA 12/04/2010 CHA @ PHI L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p649
+aVNazr Mohammed CHA 12/04/2010 CHA @ PHI L 13 2 1 5 20.0 0 0 - 0 0 - 2 3 5 0 0 0 1 2 -18
+p650
+aVTyrus Thomas CHA 12/04/2010 CHA @ PHI L 17 2 1 4 25.0 0 1 0.0 0 0 - 1 4 5 1 0 2 3 3 -4
+p651
+aVGerald Wallace CHA 12/04/2010 CHA @ PHI L 37 8 3 10 30.0 0 1 0.0 2 4 50.0 0 5 5 1 1 0 1 3 -24
+p652
+aVStephen Jackson CHA 12/03/2010 CHA vs. NJN W 45 25 5 13 38.5 3 5 60.0 12 13 92.3 2 3 5 6 1 2 5 3 5
+p653
+aVNazr Mohammed CHA 12/03/2010 CHA vs. NJN W 28 14 6 14 42.9 0 0 - 2 2 100.0 4 7 11 2 0 1 2 5 8
+p654
+aVShaun Livingston CHA 12/03/2010 CHA vs. NJN W 14 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 -4
+p655
+aVBoris Diaw CHA 12/03/2010 CHA vs. NJN W 44 11 5 13 38.5 1 4 25.0 0 1 0.0 4 12 16 8 0 0 4 1 11
+p656
+aVDominic McGuire CHA 12/03/2010 CHA vs. NJN W 20 2 1 7 14.3 0 0 - 0 1 0.0 1 4 5 2 0 1 0 4 -10
+p657
+aVD.J. Augustin CHA 12/03/2010 CHA vs. NJN W 42 15 5 12 41.7 2 4 50.0 3 3 100.0 2 4 6 3 0 0 4 2 11
+p658
+aVGerald Wallace CHA 12/03/2010 CHA vs. NJN W 41 12 5 14 35.7 1 2 50.0 1 4 25.0 3 10 13 0 0 5 4 5 10
+p659
+aVTyrus Thomas CHA 12/03/2010 CHA vs. NJN W 21 12 4 7 57.1 0 0 - 4 6 66.7 1 2 3 0 1 2 1 2 2
+p660
+aVKwame Brown CHA 12/03/2010 CHA vs. NJN W 10 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 2 2
+p661
+aVGerald Wallace CHA 12/01/2010 CHA @ NOH L 42 18 6 13 46.2 1 3 33.3 5 6 83.3 0 5 5 0 2 0 1 1 -17
+p662
+aVShaun Livingston CHA 12/01/2010 CHA @ NOH L 28 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 4 0 0 2 4 -14
+p663
+aVKwame Brown CHA 12/01/2010 CHA @ NOH L 17 6 2 4 50.0 0 0 - 2 6 33.3 2 1 3 0 0 1 0 2 -6
+p664
+aVDerrick Brown CHA 12/01/2010 CHA @ NOH L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 5
+p665
+aVDominic McGuire CHA 12/01/2010 CHA @ NOH L 24 2 1 8 12.5 0 0 - 0 0 - 2 6 8 1 0 0 1 2 -1
+p666
+aVNazr Mohammed CHA 12/01/2010 CHA @ NOH L 15 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 1 0 1 1 -1
+p667
+aVBoris Diaw CHA 12/01/2010 CHA @ NOH L 39 13 5 11 45.5 1 3 33.3 2 4 50.0 0 3 3 2 1 0 5 2 -13
+p668
+aVMatt Carroll CHA 12/01/2010 CHA @ NOH L 9 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -5
+p669
+aVD.J. Augustin CHA 12/01/2010 CHA @ NOH L 35 13 5 10 50.0 1 4 25.0 2 2 100.0 0 1 1 6 0 0 3 3 -12
+p670
+aVTyrus Thomas CHA 12/01/2010 CHA @ NOH L 22 9 4 8 50.0 0 0 - 1 1 100.0 2 8 10 0 1 1 0 2 -16
+p671
+aVNazr Mohammed CHA 11/27/2010 CHA @ MIL L 17 3 0 3 0.0 0 0 - 3 6 50.0 0 1 1 0 0 0 0 0 -9
+p672
+aVKwame Brown CHA 11/27/2010 CHA @ MIL L 10 9 2 3 66.7 0 0 - 5 6 83.3 1 1 2 0 0 0 0 2 -4
+p673
+aVD.J. Augustin CHA 11/27/2010 CHA @ MIL L 39 26 9 15 60.0 0 4 0.0 8 8 100.0 0 3 3 6 0 0 3 4 -1
+p674
+aVSherron Collins CHA 11/27/2010 CHA @ MIL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p675
+aVMatt Carroll CHA 11/27/2010 CHA @ MIL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p676
+aVDerrick Brown CHA 11/27/2010 CHA @ MIL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 1
+p677
+aVDominic McGuire CHA 11/27/2010 CHA @ MIL L 31 13 5 6 83.3 0 0 - 3 4 75.0 4 11 15 0 0 2 1 4 10
+p678
+aVGerald Wallace CHA 11/27/2010 CHA @ MIL L 42 19 6 12 50.0 0 3 0.0 7 8 87.5 0 5 5 4 0 0 3 4 0
+p679
+aVTyrus Thomas CHA 11/27/2010 CHA @ MIL L 17 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -1
+p680
+aVShaun Livingston CHA 11/27/2010 CHA @ MIL L 28 16 5 6 83.3 1 1 100.0 5 5 100.0 0 1 1 2 2 0 1 2 10
+p681
+aVBoris Diaw CHA 11/27/2010 CHA @ MIL L 38 7 2 8 25.0 1 4 25.0 2 2 100.0 3 3 6 4 0 1 6 5 -4
+p682
+aVStephen Jackson CHA 11/27/2010 CHA @ MIL L 4 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p683
+aVBoris Diaw CHA 11/26/2010 CHA vs. HOU W 37 20 9 14 64.3 2 3 66.7 0 0 - 2 8 10 2 0 0 2 3 17
+p684
+aVNazr Mohammed CHA 11/26/2010 CHA vs. HOU W 26 15 6 9 66.7 0 0 - 3 4 75.0 3 4 7 1 0 1 0 2 12
+p685
+aVSherron Collins CHA 11/26/2010 CHA vs. HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p686
+aVDominic McGuire CHA 11/26/2010 CHA vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p687
+aVKwame Brown CHA 11/26/2010 CHA vs. HOU W 6 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -6
+p688
+aVMatt Carroll CHA 11/26/2010 CHA vs. HOU W 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 1 0 2 -6
+p689
+aVDerrick Brown CHA 11/26/2010 CHA vs. HOU W 16 4 2 5 40.0 0 0 - 0 0 - 1 1 2 2 2 0 0 1 -3
+p690
+aVShaun Livingston CHA 11/26/2010 CHA vs. HOU W 17 10 4 7 57.1 0 0 - 2 2 100.0 0 0 0 2 1 0 1 2 -7
+p691
+aVD.J. Augustin CHA 11/26/2010 CHA vs. HOU W 32 5 1 7 14.3 1 4 25.0 2 2 100.0 0 3 3 11 0 0 1 0 18
+p692
+aVGerald Wallace CHA 11/26/2010 CHA vs. HOU W 39 21 6 21 28.6 2 7 28.6 7 8 87.5 1 13 14 4 3 2 3 4 10
+p693
+aVStephen Jackson CHA 11/26/2010 CHA vs. HOU W 34 16 7 14 50.0 1 3 33.3 1 2 50.0 1 2 3 4 0 0 3 3 16
+p694
+aVTyrus Thomas CHA 11/26/2010 CHA vs. HOU W 16 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 1 2 0 2 8
+p695
+aVGerald Wallace CHA 11/24/2010 CHA vs. NYK L 40 8 4 10 40.0 0 1 0.0 0 0 - 2 6 8 4 2 2 3 3 5
+p696
+aVD.J. Augustin CHA 11/24/2010 CHA vs. NYK L 34 14 5 13 38.5 0 2 0.0 4 4 100.0 3 5 8 7 0 0 0 2 6
+p697
+aVStephen Jackson CHA 11/24/2010 CHA vs. NYK L 40 18 7 20 35.0 1 5 20.0 3 4 75.0 1 3 4 2 4 0 5 5 5
+p698
+aVShaun Livingston CHA 11/24/2010 CHA vs. NYK L 15 9 3 6 50.0 0 0 - 3 4 75.0 2 1 3 3 0 0 3 1 -9
+p699
+aVKwame Brown CHA 11/24/2010 CHA vs. NYK L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -9
+p700
+aVTyrus Thomas CHA 11/24/2010 CHA vs. NYK L 34 26 11 20 55.0 0 0 - 4 4 100.0 7 4 11 3 0 4 0 2 6
+p701
+aVDominic McGuire CHA 11/24/2010 CHA vs. NYK L 4 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 -5
+p702
+aVSherron Collins CHA 11/24/2010 CHA vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p703
+aVDerrick Brown CHA 11/24/2010 CHA vs. NYK L 21 4 2 3 66.7 0 0 - 0 2 0.0 2 4 6 0 1 0 1 0 -14
+p704
+aVBoris Diaw CHA 11/24/2010 CHA vs. NYK L 38 11 5 9 55.6 1 3 33.3 0 1 0.0 1 3 4 5 1 1 2 1 5
+p705
+aVMatt Carroll CHA 11/24/2010 CHA vs. NYK L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p706
+aVTyrus Thomas CHA 11/23/2010 CHA @ NYK L 12 5 1 4 25.0 0 0 - 3 4 75.0 1 2 3 0 2 1 2 2 3
+p707
+aVGerald Wallace CHA 11/23/2010 CHA @ NYK L 41 20 8 15 53.3 0 1 0.0 4 6 66.7 4 4 8 3 1 1 4 3 -2
+p708
+aVShaun Livingston CHA 11/23/2010 CHA @ NYK L 24 11 5 7 71.4 0 0 - 1 1 100.0 1 4 5 1 0 0 1 3 10
+p709
+aVBoris Diaw CHA 11/23/2010 CHA @ NYK L 33 12 5 9 55.6 2 3 66.7 0 0 - 1 4 5 3 3 0 1 3 -11
+p710
+aVKwame Brown CHA 11/23/2010 CHA @ NYK L 18 5 2 4 50.0 0 0 - 1 2 50.0 0 4 4 0 0 1 2 2 8
+p711
+aVD.J. Augustin CHA 11/23/2010 CHA @ NYK L 40 24 10 18 55.6 2 5 40.0 2 3 66.7 0 5 5 7 4 0 2 2 4
+p712
+aVDerrick Brown CHA 11/23/2010 CHA @ NYK L 24 12 6 8 75.0 0 0 - 0 0 - 3 1 4 1 0 0 2 3 -4
+p713
+aVStephen Jackson CHA 11/23/2010 CHA @ NYK L 37 18 7 21 33.3 2 6 33.3 2 2 100.0 4 2 6 4 3 0 3 2 -16
+p714
+aVDominic McGuire CHA 11/23/2010 CHA @ NYK L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 2
+p715
+aVNazr Mohammed CHA 11/23/2010 CHA @ NYK L 4 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p716
+aVShaun Livingston CHA 11/20/2010 CHA vs. PHX W 18 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 3
+p717
+aVBoris Diaw CHA 11/20/2010 CHA vs. PHX W 35 26 11 17 64.7 4 8 50.0 0 0 - 0 2 2 6 0 0 2 3 13
+p718
+aVMatt Carroll CHA 11/20/2010 CHA vs. PHX W 12 7 2 7 28.6 1 2 50.0 2 2 100.0 0 2 2 5 2 1 0 0 13
+p719
+aVNazr Mohammed CHA 11/20/2010 CHA vs. PHX W 11 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 1 0 2 -1
+p720
+aVD.J. Augustin CHA 11/20/2010 CHA vs. PHX W 32 16 6 10 60.0 0 1 0.0 4 5 80.0 0 6 6 5 0 0 0 3 14
+p721
+aVDerrick Brown CHA 11/20/2010 CHA vs. PHX W 22 6 2 4 50.0 0 0 - 2 5 40.0 1 3 4 4 1 1 1 2 14
+p722
+aVDominic McGuire CHA 11/20/2010 CHA vs. PHX W 18 0 0 5 0.0 0 0 - 0 0 - 2 1 3 3 0 1 0 3 13
+p723
+aVSherron Collins CHA 11/20/2010 CHA vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p724
+aVStephen Jackson CHA 11/20/2010 CHA vs. PHX W 37 24 10 13 76.9 4 7 57.1 0 0 - 1 9 10 10 2 2 4 4 9
+p725
+aVTyrus Thomas CHA 11/20/2010 CHA vs. PHX W 29 22 9 13 69.2 0 0 - 4 4 100.0 1 5 6 0 1 0 2 4 14
+p726
+aVGerald Wallace CHA 11/20/2010 CHA vs. PHX W 24 14 6 11 54.5 0 1 0.0 2 3 66.7 1 3 4 2 0 0 4 4 -2
+p727
+aVGerald Wallace CHA 11/19/2010 CHA @ MIA L 32 6 2 9 22.2 0 1 0.0 2 2 100.0 1 8 9 2 1 0 4 6 1
+p728
+aVKwame Brown CHA 11/19/2010 CHA @ MIA L 10 2 1 1 100.0 0 0 - 0 2 0.0 0 4 4 1 0 0 0 1 -4
+p729
+aVShaun Livingston CHA 11/19/2010 CHA @ MIA L 24 10 4 9 44.4 0 1 0.0 2 2 100.0 0 6 6 2 0 0 1 1 -6
+p730
+aVTyrus Thomas CHA 11/19/2010 CHA @ MIA L 19 9 2 5 40.0 0 0 - 5 6 83.3 0 3 3 0 0 0 1 3 2
+p731
+aVBoris Diaw CHA 11/19/2010 CHA @ MIA L 41 8 4 7 57.1 0 2 0.0 0 0 - 0 3 3 7 3 0 5 3 -5
+p732
+aVSherron Collins CHA 11/19/2010 CHA @ MIA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p733
+aVDerrick Brown CHA 11/19/2010 CHA @ MIA L 21 7 2 2 100.0 0 0 - 3 3 100.0 0 3 3 1 2 0 0 3 -5
+p734
+aVNazr Mohammed CHA 11/19/2010 CHA @ MIA L 19 12 5 9 55.6 0 0 - 2 3 66.7 0 5 5 0 0 0 1 1 -6
+p735
+aVMatt Carroll CHA 11/19/2010 CHA @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p736
+aVStephen Jackson CHA 11/19/2010 CHA @ MIA L 41 30 12 24 50.0 4 9 44.4 2 2 100.0 1 2 3 2 1 1 2 3 -7
+p737
+aVD.J. Augustin CHA 11/19/2010 CHA @ MIA L 25 3 1 4 25.0 0 3 0.0 1 2 50.0 0 2 2 5 1 0 0 2 -2
+p738
+aVShaun Livingston CHA 11/15/2010 CHA vs. MIN W 14 3 1 1 100.0 0 0 - 1 2 50.0 0 5 5 4 0 0 1 2 -10
+p739
+aVStephen Jackson CHA 11/15/2010 CHA vs. MIN W 42 26 9 16 56.3 5 6 83.3 3 3 100.0 1 1 2 3 1 0 0 0 9
+p740
+aVSherron Collins CHA 11/15/2010 CHA vs. MIN W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p741
+aVD.J. Augustin CHA 11/15/2010 CHA vs. MIN W 35 9 3 9 33.3 1 3 33.3 2 4 50.0 1 4 5 11 0 0 1 1 9
+p742
+aVTyrus Thomas CHA 11/15/2010 CHA vs. MIN W 31 20 8 11 72.7 0 0 - 4 7 57.1 3 7 10 0 2 4 7 3 12
+p743
+aVKwame Brown CHA 11/15/2010 CHA vs. MIN W 11 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 3 0 3 -9
+p744
+aVBoris Diaw CHA 11/15/2010 CHA vs. MIN W 25 6 3 6 50.0 0 1 0.0 0 0 - 1 6 7 0 0 1 2 3 -2
+p745
+aVDeSagana Diop CHA 11/15/2010 CHA vs. MIN W 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -2
+p746
+aVNazr Mohammed CHA 11/15/2010 CHA vs. MIN W 15 11 5 9 55.6 0 0 - 1 1 100.0 0 4 4 1 0 2 0 4 2
+p747
+aVGerald Wallace CHA 11/15/2010 CHA vs. MIN W 40 26 4 10 40.0 1 3 33.3 17 19 89.5 0 4 4 5 2 1 3 6 7
+p748
+aVDerrick Brown CHA 11/15/2010 CHA vs. MIN W 9 7 3 5 60.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -1
+p749
+aVGerald Wallace CHA 11/13/2010 CHA vs. UTA L 39 13 4 11 36.4 2 4 50.0 3 6 50.0 1 7 8 3 2 2 0 2 2
+p750
+aVSherron Collins CHA 11/13/2010 CHA vs. UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p751
+aVDeSagana Diop CHA 11/13/2010 CHA vs. UTA L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -8
+p752
+aVEduardo Najera CHA 11/13/2010 CHA vs. UTA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p753
+aVBoris Diaw CHA 11/13/2010 CHA vs. UTA L 34 12 5 11 45.5 1 2 50.0 1 2 50.0 1 1 2 2 0 0 2 5 0
+p754
+aVShaun Livingston CHA 11/13/2010 CHA vs. UTA L 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -5
+p755
+aVD.J. Augustin CHA 11/13/2010 CHA vs. UTA L 41 12 4 11 36.4 0 2 0.0 4 5 80.0 0 3 3 10 0 0 2 3 6
+p756
+aVDerrick Brown CHA 11/13/2010 CHA vs. UTA L 15 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -5
+p757
+aVMatt Carroll CHA 11/13/2010 CHA vs. UTA L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p758
+aVStephen Jackson CHA 11/13/2010 CHA vs. UTA L 33 24 6 18 33.3 5 13 38.5 7 8 87.5 2 3 5 6 3 1 2 2 7
+p759
+aVNazr Mohammed CHA 11/13/2010 CHA vs. UTA L 36 22 10 16 62.5 0 0 - 2 3 66.7 8 12 20 2 0 4 0 4 7
+p760
+aVMatt Carroll CHA 11/12/2010 CHA @ WAS W 12 2 1 4 25.0 0 2 0.0 0 1 0.0 0 2 2 1 0 0 0 0 -4
+p761
+aVTyrus Thomas CHA 11/12/2010 CHA @ WAS W 14 4 1 6 16.7 0 0 - 2 2 100.0 5 4 9 2 0 0 2 2 -11
+p762
+aVDerrick Brown CHA 11/12/2010 CHA @ WAS W 7 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 1 -7
+p763
+aVGerald Henderson CHA 11/12/2010 CHA @ WAS W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p764
+aVSherron Collins CHA 11/12/2010 CHA @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p765
+aVGerald Wallace CHA 11/12/2010 CHA @ WAS W 40 25 9 15 60.0 1 1 100.0 6 8 75.0 6 8 14 1 2 2 1 4 15
+p766
+aVStephen Jackson CHA 11/12/2010 CHA @ WAS W 42 13 5 11 45.5 1 6 16.7 2 2 100.0 1 4 5 3 0 0 4 0 12
+p767
+aVDeSagana Diop CHA 11/12/2010 CHA @ WAS W 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -4
+p768
+aVBoris Diaw CHA 11/12/2010 CHA @ WAS W 38 19 8 10 80.0 2 2 100.0 1 2 50.0 2 3 5 5 0 1 4 1 12
+p769
+aVD.J. Augustin CHA 11/12/2010 CHA @ WAS W 33 17 5 8 62.5 3 5 60.0 4 5 80.0 0 2 2 10 1 0 4 0 16
+p770
+aVShaun Livingston CHA 11/12/2010 CHA @ WAS W 17 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 2 -13
+p771
+aVNazr Mohammed CHA 11/12/2010 CHA @ WAS W 23 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 1 2 5 4 26
+p772
+aVGerald Wallace CHA 11/10/2010 CHA @ TOR W 44 19 6 14 42.9 0 2 0.0 7 10 70.0 2 12 14 5 1 4 2 4 12
+p773
+aVMatt Carroll CHA 11/10/2010 CHA @ TOR W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p774
+aVShaun Livingston CHA 11/10/2010 CHA @ TOR W 14 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 1 1 -4
+p775
+aVStephen Jackson CHA 11/10/2010 CHA @ TOR W 40 20 6 13 46.2 3 6 50.0 5 6 83.3 1 3 4 3 1 0 4 2 2
+p776
+aVDerrick Brown CHA 11/10/2010 CHA @ TOR W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p777
+aVBoris Diaw CHA 11/10/2010 CHA @ TOR W 38 10 5 8 62.5 0 1 0.0 0 0 - 0 3 3 3 2 2 6 3 10
+p778
+aVDeSagana Diop CHA 11/10/2010 CHA @ TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p779
+aVD.J. Augustin CHA 11/10/2010 CHA @ TOR W 34 16 4 9 44.4 3 5 60.0 5 5 100.0 0 0 0 7 3 0 1 3 9
+p780
+aVNazr Mohammed CHA 11/10/2010 CHA @ TOR W 18 6 3 9 33.3 0 0 - 0 0 - 1 4 5 1 0 1 1 2 8
+p781
+aVTyrus Thomas CHA 11/10/2010 CHA @ TOR W 21 14 5 9 55.6 0 0 - 4 4 100.0 3 1 4 2 1 5 1 4 -3
+p782
+aVGerald Henderson CHA 11/10/2010 CHA @ TOR W 19 10 3 5 60.0 0 0 - 4 6 66.7 1 4 5 0 1 0 0 1 -6
+p783
+aVStephen Jackson CHA 11/08/2010 CHA vs. SAS L 27 15 4 13 30.8 3 5 60.0 4 4 100.0 0 5 5 1 0 0 6 4 -11
+p784
+aVGerald Henderson CHA 11/08/2010 CHA vs. SAS L 21 8 3 7 42.9 0 1 0.0 2 2 100.0 2 1 3 3 0 0 1 1 6
+p785
+aVGerald Wallace CHA 11/08/2010 CHA vs. SAS L 32 7 2 11 18.2 1 3 33.3 2 2 100.0 0 3 3 0 2 2 1 0 -6
+p786
+aVNazr Mohammed CHA 11/08/2010 CHA vs. SAS L 17 7 3 6 50.0 0 0 - 1 2 50.0 3 1 4 0 1 2 1 1 -2
+p787
+aVBoris Diaw CHA 11/08/2010 CHA vs. SAS L 36 15 5 9 55.6 1 2 50.0 4 6 66.7 2 4 6 5 1 1 1 2 4
+p788
+aVD.J. Augustin CHA 11/08/2010 CHA vs. SAS L 37 7 3 15 20.0 1 7 14.3 0 0 - 1 5 6 6 0 0 0 0 -5
+p789
+aVDeSagana Diop CHA 11/08/2010 CHA vs. SAS L 15 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 0 2 0 4 -6
+p790
+aVDerrick Brown CHA 11/08/2010 CHA vs. SAS L 17 6 3 3 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -1
+p791
+aVSherron Collins CHA 11/08/2010 CHA vs. SAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p792
+aVTyrus Thomas CHA 11/08/2010 CHA vs. SAS L 23 16 5 11 45.5 0 0 - 6 8 75.0 5 3 8 0 2 3 2 1 2
+p793
+aVShaun Livingston CHA 11/08/2010 CHA vs. SAS L 11 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 1 0 1 5 3
+p794
+aVGerald Henderson CHA 11/06/2010 CHA vs. ORL L 11 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 1 1 0 4
+p795
+aVShaun Livingston CHA 11/06/2010 CHA vs. ORL L 17 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 2
+p796
+aVStephen Jackson CHA 11/06/2010 CHA vs. ORL L 41 16 7 19 36.8 2 8 25.0 0 0 - 0 2 2 6 3 0 4 3 0
+p797
+aVGerald Wallace CHA 11/06/2010 CHA vs. ORL L 43 25 9 15 60.0 4 4 100.0 3 4 75.0 0 14 14 2 0 0 0 0 -7
+p798
+aVDeSagana Diop CHA 11/06/2010 CHA vs. ORL L 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 0 2 2 4 -3
+p799
+aVBoris Diaw CHA 11/06/2010 CHA vs. ORL L 37 6 3 8 37.5 0 1 0.0 0 0 - 1 4 5 2 0 0 2 2 -2
+p800
+aVTyrus Thomas CHA 11/06/2010 CHA vs. ORL L 15 10 3 4 75.0 0 0 - 4 4 100.0 0 4 4 0 0 2 3 4 5
+p801
+aVNazr Mohammed CHA 11/06/2010 CHA vs. ORL L 22 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 0 0 1 2 3 -12
+p802
+aVDerrick Brown CHA 11/06/2010 CHA vs. ORL L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 6
+p803
+aVD.J. Augustin CHA 11/06/2010 CHA vs. ORL L 33 9 4 8 50.0 0 2 0.0 1 1 100.0 0 3 3 8 0 0 1 3 -8
+p804
+aVShaun Livingston CHA 11/05/2010 CHA @ DET L 21 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 2 0 1 1 -5
+p805
+aVGerald Wallace CHA 11/05/2010 CHA @ DET L 37 13 6 9 66.7 0 0 - 1 2 50.0 0 5 5 4 1 1 3 1 -7
+p806
+aVSherron Collins CHA 11/05/2010 CHA @ DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p807
+aVTyrus Thomas CHA 11/05/2010 CHA @ DET L 22 10 4 6 66.7 0 0 - 2 2 100.0 2 3 5 2 2 1 2 1 -13
+p808
+aVNazr Mohammed CHA 11/05/2010 CHA @ DET L 9 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 1 1 2 0 -9
+p809
+aVGerald Henderson CHA 11/05/2010 CHA @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p810
+aVDerrick Brown CHA 11/05/2010 CHA @ DET L 29 9 3 8 37.5 2 3 66.7 1 3 33.3 2 5 7 4 0 2 1 4 18
+p811
+aVDeSagana Diop CHA 11/05/2010 CHA @ DET L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 1 0 2
+p812
+aVStephen Jackson CHA 11/05/2010 CHA @ DET L 41 28 12 19 63.2 4 8 50.0 0 0 - 1 4 5 3 1 0 6 5 -5
+p813
+aVD.J. Augustin CHA 11/05/2010 CHA @ DET L 31 12 4 6 66.7 2 4 50.0 2 2 100.0 0 3 3 8 0 0 3 5 -5
+p814
+aVBoris Diaw CHA 11/05/2010 CHA @ DET L 39 7 3 11 27.3 1 5 20.0 0 0 - 1 6 7 6 0 3 3 0 -7
+p815
+aVDeSagana Diop CHA 11/03/2010 CHA @ NJN W 18 2 1 3 33.3 0 0 - 0 1 0.0 2 2 4 0 1 1 0 0 -9
+p816
+aVD.J. Augustin CHA 11/03/2010 CHA @ NJN W 31 5 1 7 14.3 1 5 20.0 2 2 100.0 0 6 6 7 1 0 0 3 3
+p817
+aVTyrus Thomas CHA 11/03/2010 CHA @ NJN W 17 6 3 5 60.0 0 0 - 0 2 0.0 0 3 3 0 1 0 2 2 -6
+p818
+aVDerrick Brown CHA 11/03/2010 CHA @ NJN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p819
+aVSherron Collins CHA 11/03/2010 CHA @ NJN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 1
+p820
+aVGerald Wallace CHA 11/03/2010 CHA @ NJN W 35 20 6 11 54.5 0 2 0.0 8 8 100.0 3 8 11 1 0 0 3 2 15
+p821
+aVStephen Jackson CHA 11/03/2010 CHA @ NJN W 44 12 2 12 16.7 2 6 33.3 6 6 100.0 1 4 5 6 2 0 3 2 3
+p822
+aVShaun Livingston CHA 11/03/2010 CHA @ NJN W 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 1 3 1 -1
+p823
+aVNazr Mohammed CHA 11/03/2010 CHA @ NJN W 14 12 6 8 75.0 0 0 - 0 0 - 3 3 6 0 1 1 1 4 10
+p824
+aVGerald Henderson CHA 11/03/2010 CHA @ NJN W 13 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -6
+p825
+aVBoris Diaw CHA 11/03/2010 CHA @ NJN W 40 24 10 18 55.6 2 6 33.3 2 4 50.0 1 2 3 3 0 0 2 1 -1
+p826
+aVNazr Mohammed CHA 10/30/2010 CHA @ MIL L 22 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 0 1 2 3 -13
+p827
+aVDerrick Brown CHA 10/30/2010 CHA @ MIL L 13 6 2 2 100.0 0 0 - 2 2 100.0 2 2 4 0 1 0 0 2 -2
+p828
+aVStephen Jackson CHA 10/30/2010 CHA @ MIL L 42 23 8 15 53.3 3 7 42.9 4 5 80.0 0 2 2 3 2 1 3 3 -16
+p829
+aVDeSagana Diop CHA 10/30/2010 CHA @ MIL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -2
+p830
+aVGerald Henderson CHA 10/30/2010 CHA @ MIL L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 10
+p831
+aVShaun Livingston CHA 10/30/2010 CHA @ MIL L 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 0 0 3 -2
+p832
+aVBoris Diaw CHA 10/30/2010 CHA @ MIL L 25 5 1 4 25.0 1 4 25.0 2 2 100.0 0 2 2 1 0 1 0 5 -3
+p833
+aVD.J. Augustin CHA 10/30/2010 CHA @ MIL L 40 26 9 13 69.2 5 6 83.3 3 3 100.0 1 3 4 5 1 0 1 2 -1
+p834
+aVTyrus Thomas CHA 10/30/2010 CHA @ MIL L 21 8 3 10 30.0 0 0 - 2 3 66.7 2 5 7 0 2 2 4 4 -10
+p835
+aVGerald Wallace CHA 10/30/2010 CHA @ MIL L 43 11 3 9 33.3 0 1 0.0 5 6 83.3 0 3 3 1 0 0 6 4 -11
+p836
+aVGerald Henderson CHA 10/29/2010 CHA vs. IND L 15 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 5
+p837
+aVDerrick Brown CHA 10/29/2010 CHA vs. IND L 16 8 2 2 100.0 0 0 - 4 7 57.1 0 4 4 0 0 2 1 1 11
+p838
+aVBoris Diaw CHA 10/29/2010 CHA vs. IND L 33 13 5 9 55.6 1 5 20.0 2 2 100.0 2 6 8 2 0 0 4 1 -8
+p839
+aVShaun Livingston CHA 10/29/2010 CHA vs. IND L 9 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 7
+p840
+aVNazr Mohammed CHA 10/29/2010 CHA vs. IND L 13 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 4 -1
+p841
+aVTyrus Thomas CHA 10/29/2010 CHA vs. IND L 21 11 1 6 16.7 0 0 - 9 9 100.0 3 2 5 1 1 2 0 4 2
+p842
+aVDeSagana Diop CHA 10/29/2010 CHA vs. IND L 22 0 0 2 0.0 0 0 - 0 0 - 3 4 7 0 0 1 1 6 -9
+p843
+aVD.J. Augustin CHA 10/29/2010 CHA vs. IND L 41 17 5 14 35.7 2 3 66.7 5 5 100.0 1 1 2 6 0 0 4 0 -9
+p844
+aVStephen Jackson CHA 10/29/2010 CHA vs. IND L 29 10 4 13 30.8 0 3 0.0 2 2 100.0 2 4 6 6 0 0 2 3 -7
+p845
+aVGerald Wallace CHA 10/29/2010 CHA vs. IND L 41 29 8 13 61.5 1 1 100.0 12 18 66.7 1 5 6 2 1 1 4 1 -6
+p846
+aVDeSagana Diop CHA 10/27/2010 CHA @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p847
+aVTyrus Thomas CHA 10/27/2010 CHA @ DAL L 30 22 8 15 53.3 0 0 - 6 7 85.7 2 4 6 0 1 0 1 3 10
+p848
+aVBoris Diaw CHA 10/27/2010 CHA @ DAL L 35 12 5 12 41.7 2 5 40.0 0 0 - 1 3 4 3 2 1 2 2 -19
+p849
+aVStephen Jackson CHA 10/27/2010 CHA @ DAL L 30 14 4 8 50.0 2 2 100.0 4 4 100.0 2 1 3 4 1 0 3 1 -20
+p850
+aVDerrick Brown CHA 10/27/2010 CHA @ DAL L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 2
+p851
+aVGerald Henderson CHA 10/27/2010 CHA @ DAL L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 1 0 2 2 2 14
+p852
+aVNazr Mohammed CHA 10/27/2010 CHA @ DAL L 18 10 3 8 37.5 0 0 - 4 4 100.0 2 2 4 1 0 0 2 1 -26
+p853
+aVShaun Livingston CHA 10/27/2010 CHA @ DAL L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 3 2 3
+p854
+aVD.J. Augustin CHA 10/27/2010 CHA @ DAL L 41 8 2 10 20.0 1 4 25.0 3 3 100.0 0 3 3 5 1 0 1 0 -21
+p855
+aVGerald Wallace CHA 10/27/2010 CHA @ DAL L 43 16 5 14 35.7 0 1 0.0 6 6 100.0 1 8 9 3 3 0 5 4 -16
+p856
+a.

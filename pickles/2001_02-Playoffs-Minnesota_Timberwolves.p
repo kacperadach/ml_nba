@@ -1,0 +1,66 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVFelipe Lopez MIN 04/28/2002 MIN vs. DAL L 10 4 1 2 50.0 1 1 100.0 1 2 50.0 0 0 0 0 1 0 0 2 -6
+p2
+aVRasho Nesterovic MIN 04/28/2002 MIN vs. DAL L 21 9 3 6 50.0 0 0 - 3 4 75.0 1 2 3 2 0 0 0 4 -5
+p3
+aVGary Trent MIN 04/28/2002 MIN vs. DAL L 21 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 0 0 1 3 2
+p4
+aVChauncey Billups MIN 04/28/2002 MIN vs. DAL L 44 16 5 16 31.3 2 6 33.3 4 7 57.1 0 6 6 4 1 0 3 5 3
+p5
+aVRobert Pack MIN 04/28/2002 MIN vs. DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -16
+p6
+aVWally Szczerbiak MIN 04/28/2002 MIN vs. DAL L 41 20 5 12 41.7 1 3 33.3 9 10 90.0 2 4 6 3 2 0 3 3 -15
+p7
+aVMarc Jackson MIN 04/28/2002 MIN vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p8
+aVAnthony Peeler MIN 04/28/2002 MIN vs. DAL L 37 20 6 13 46.2 4 7 57.1 4 6 66.7 0 5 5 2 3 0 2 2 7
+p9
+aVSam Mitchell MIN 04/28/2002 MIN vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p10
+aVJoe Smith MIN 04/28/2002 MIN vs. DAL L 18 5 1 2 50.0 0 0 - 3 4 75.0 2 2 4 0 0 0 0 2 -18
+p11
+aVKevin Garnett MIN 04/28/2002 MIN vs. DAL L 40 22 9 19 47.4 0 0 - 4 9 44.4 5 12 17 5 2 0 6 5 -11
+p12
+aVChauncey Billups MIN 04/24/2002 MIN @ DAL L 46 25 10 19 52.6 3 4 75.0 2 4 50.0 0 3 3 4 1 1 2 3 -8
+p13
+aVAnthony Peeler MIN 04/24/2002 MIN @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p14
+aVJoe Smith MIN 04/24/2002 MIN @ DAL L 18 6 2 3 66.7 0 0 - 2 2 100.0 1 4 5 0 0 1 1 5 -5
+p15
+aVSam Mitchell MIN 04/24/2002 MIN @ DAL L 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -5
+p16
+aVGary Trent MIN 04/24/2002 MIN @ DAL L 15 9 4 6 66.7 0 0 - 1 3 33.3 0 2 2 1 0 0 1 2 1
+p17
+aVRasho Nesterovic MIN 04/24/2002 MIN @ DAL L 31 9 4 7 57.1 0 0 - 1 2 50.0 2 6 8 1 0 0 1 3 -15
+p18
+aVKevin Garnett MIN 04/24/2002 MIN @ DAL L 46 31 9 19 47.4 0 1 0.0 13 17 76.5 4 14 18 4 2 3 3 3 -7
+p19
+aVWally Szczerbiak MIN 04/24/2002 MIN @ DAL L 46 25 9 17 52.9 0 2 0.0 7 8 87.5 4 3 7 2 0 0 3 3 -12
+p20
+aVRobert Pack MIN 04/24/2002 MIN @ DAL L 2 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -4
+p21
+aVFelipe Lopez MIN 04/24/2002 MIN @ DAL L 20 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 4 -4
+p22
+aVChauncey Billups MIN 04/21/2002 MIN @ DAL L 44 25 8 16 50.0 1 5 20.0 8 9 88.9 1 5 6 9 1 0 4 6 5
+p23
+aVRobert Pack MIN 04/21/2002 MIN @ DAL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -12
+p24
+aVSam Mitchell MIN 04/21/2002 MIN @ DAL L 19 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 2 1 0 0 4 9
+p25
+aVJoe Smith MIN 04/21/2002 MIN @ DAL L 8 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -17
+p26
+aVRasho Nesterovic MIN 04/21/2002 MIN @ DAL L 40 16 8 18 44.4 0 0 - 0 3 0.0 3 6 9 0 1 0 3 3 -2
+p27
+aVAnthony Peeler MIN 04/21/2002 MIN @ DAL L 26 7 3 7 42.9 1 2 50.0 0 0 - 1 6 7 0 1 0 4 3 -18
+p28
+aVWally Szczerbiak MIN 04/21/2002 MIN @ DAL L 44 15 7 15 46.7 1 4 25.0 0 0 - 3 5 8 1 0 0 2 2 1
+p29
+aVGary Trent MIN 04/21/2002 MIN @ DAL L 11 4 2 7 28.6 0 0 - 0 1 0.0 4 0 4 0 0 0 1 3 -5
+p30
+aVKevin Garnett MIN 04/21/2002 MIN @ DAL L 44 19 6 18 33.3 1 1 100.0 6 6 100.0 7 14 21 6 1 2 3 3 4
+p31
+aVFelipe Lopez MIN 04/21/2002 MIN @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p32
+a.

@@ -1,0 +1,360 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLindsey Hunter DET 06/02/2006 DET @ MIA L 10 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -4
+p2
+aVAntonio McDyess DET 06/02/2006 DET @ MIA L 18 0 0 3 0.0 0 0 - 0 2 0.0 1 4 5 1 1 0 1 2 1
+p3
+aVTony Delk DET 06/02/2006 DET @ MIA L 15 7 3 7 42.9 0 1 0.0 1 2 50.0 2 1 3 0 0 0 0 1 -9
+p4
+aVTayshaun Prince DET 06/02/2006 DET @ MIA L 38 10 3 9 33.3 2 4 50.0 2 2 100.0 3 4 7 1 2 0 0 0 -17
+p5
+aVRichard Hamilton DET 06/02/2006 DET @ MIA L 39 33 12 28 42.9 2 7 28.6 7 8 87.5 3 0 3 1 2 0 1 4 -6
+p6
+aVBen Wallace DET 06/02/2006 DET @ MIA L 31 7 2 5 40.0 0 0 - 3 4 75.0 3 4 7 1 0 0 0 1 -12
+p7
+aVMaurice Evans DET 06/02/2006 DET @ MIA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p8
+aVChauncey Billups DET 06/02/2006 DET @ MIA L 41 9 3 14 21.4 0 3 0.0 3 4 75.0 0 5 5 8 0 0 2 2 -16
+p9
+aVRasheed Wallace DET 06/02/2006 DET @ MIA L 42 10 4 12 33.3 2 5 40.0 0 0 - 1 7 8 2 0 0 1 3 -19
+p10
+aVTayshaun Prince DET 05/31/2006 DET vs. MIA W 44 29 11 17 64.7 2 5 40.0 5 5 100.0 2 5 7 3 1 1 0 1 17
+p11
+aVRasheed Wallace DET 05/31/2006 DET vs. MIA W 41 7 3 11 27.3 0 4 0.0 1 2 50.0 0 5 5 1 1 2 3 3 11
+p12
+aVRichard Hamilton DET 05/31/2006 DET vs. MIA W 37 16 7 21 33.3 0 0 - 2 2 100.0 3 7 10 2 1 1 4 3 14
+p13
+aVBen Wallace DET 05/31/2006 DET vs. MIA W 35 8 3 4 75.0 0 0 - 2 4 50.0 4 3 7 0 2 3 0 3 -3
+p14
+aVAntonio McDyess DET 05/31/2006 DET vs. MIA W 18 12 5 5 100.0 0 0 - 2 2 100.0 2 4 6 0 0 0 1 3 14
+p15
+aVChauncey Billups DET 05/31/2006 DET vs. MIA W 42 17 3 12 25.0 0 4 0.0 11 11 100.0 2 3 5 10 0 0 1 3 10
+p16
+aVLindsey Hunter DET 05/31/2006 DET vs. MIA W 20 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 3 3 0 0 3 6
+p17
+aVMaurice Evans DET 05/31/2006 DET vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p18
+aVCarlos Delfino DET 05/29/2006 DET @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p19
+aVDale Davis DET 05/29/2006 DET @ MIA L 8 2 0 2 0.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 2 -4
+p20
+aVAntonio McDyess DET 05/29/2006 DET @ MIA L 22 2 1 3 33.3 0 0 - 0 2 0.0 2 5 7 0 0 1 0 5 -1
+p21
+aVChauncey Billups DET 05/29/2006 DET @ MIA L 40 14 6 12 50.0 0 2 0.0 2 4 50.0 1 1 2 7 3 0 2 5 -11
+p22
+aVRasheed Wallace DET 05/29/2006 DET @ MIA L 29 12 5 13 38.5 1 3 33.3 1 2 50.0 1 4 5 1 0 0 1 6 -9
+p23
+aVTayshaun Prince DET 05/29/2006 DET @ MIA L 40 15 6 16 37.5 1 3 33.3 2 2 100.0 1 3 4 3 0 1 1 0 -9
+p24
+aVRichard Hamilton DET 05/29/2006 DET @ MIA L 42 11 4 15 26.7 0 1 0.0 3 4 75.0 1 0 1 1 0 0 5 3 -9
+p25
+aVTony Delk DET 05/29/2006 DET @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p26
+aVLindsey Hunter DET 05/29/2006 DET @ MIA L 19 10 4 8 50.0 2 4 50.0 0 0 - 1 0 1 0 0 0 1 4 -3
+p27
+aVMaurice Evans DET 05/29/2006 DET @ MIA L 8 8 2 4 50.0 2 3 66.7 2 2 100.0 0 2 2 0 0 0 0 1 -1
+p28
+aVBen Wallace DET 05/29/2006 DET @ MIA L 30 4 2 4 50.0 0 0 - 0 2 0.0 6 5 11 2 1 0 0 4 -8
+p29
+aVAntonio McDyess DET 05/27/2006 DET @ MIA L 23 9 3 6 50.0 0 1 0.0 3 4 75.0 0 4 4 1 1 0 2 4 -7
+p30
+aVDale Davis DET 05/27/2006 DET @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p31
+aVRasheed Wallace DET 05/27/2006 DET @ MIA L 35 11 4 11 36.4 1 5 20.0 2 3 66.7 2 8 10 0 0 0 1 5 -4
+p32
+aVTony Delk DET 05/27/2006 DET @ MIA L 10 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 0 1 0 0 1 2
+p33
+aVCarlos Delfino DET 05/27/2006 DET @ MIA L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p34
+aVRichard Hamilton DET 05/27/2006 DET @ MIA L 35 20 6 15 40.0 0 2 0.0 8 8 100.0 1 1 2 2 0 0 3 6 -18
+p35
+aVBen Wallace DET 05/27/2006 DET @ MIA L 34 2 0 1 0.0 0 0 - 2 10 20.0 2 4 6 1 2 0 1 3 -9
+p36
+aVLindsey Hunter DET 05/27/2006 DET @ MIA L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 0 -5
+p37
+aVTayshaun Prince DET 05/27/2006 DET @ MIA L 45 3 1 7 14.3 1 1 100.0 0 0 - 1 1 2 4 1 1 4 0 -15
+p38
+aVChauncey Billups DET 05/27/2006 DET @ MIA L 45 31 11 17 64.7 4 5 80.0 5 6 83.3 1 1 2 3 0 1 1 1 -9
+p39
+aVDale Davis DET 05/25/2006 DET vs. MIA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p40
+aVTayshaun Prince DET 05/25/2006 DET vs. MIA W 40 24 10 20 50.0 1 4 25.0 3 5 60.0 6 5 11 3 0 1 2 0 5
+p41
+aVRichard Hamilton DET 05/25/2006 DET vs. MIA W 43 22 7 18 38.9 2 4 50.0 6 7 85.7 0 3 3 3 4 0 0 4 12
+p42
+aVTony Delk DET 05/25/2006 DET vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p43
+aVCarlos Delfino DET 05/25/2006 DET vs. MIA W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p44
+aVAntonio McDyess DET 05/25/2006 DET vs. MIA W 12 3 1 4 25.0 0 0 - 1 4 25.0 2 2 4 0 0 1 1 3 -10
+p45
+aVLindsey Hunter DET 05/25/2006 DET vs. MIA W 14 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 2 0 1 3 -16
+p46
+aVRasheed Wallace DET 05/25/2006 DET vs. MIA W 39 16 6 12 50.0 2 6 33.3 2 2 100.0 0 7 7 3 1 0 3 6 13
+p47
+aVBen Wallace DET 05/25/2006 DET vs. MIA W 37 9 4 4 100.0 0 0 - 1 2 50.0 3 9 12 3 1 1 3 3 5
+p48
+aVChauncey Billups DET 05/25/2006 DET vs. MIA W 39 18 5 13 38.5 1 5 20.0 7 7 100.0 0 2 2 8 2 0 6 3 9
+p49
+aVBen Wallace DET 05/23/2006 DET vs. MIA L 40 6 3 3 100.0 0 0 - 0 2 0.0 3 11 14 3 3 0 0 2 -9
+p50
+aVLindsey Hunter DET 05/23/2006 DET vs. MIA L 12 4 1 7 14.3 0 3 0.0 2 2 100.0 1 0 1 0 2 0 0 1 5
+p51
+aVAntonio McDyess DET 05/23/2006 DET vs. MIA L 23 10 3 7 42.9 0 0 - 4 4 100.0 1 3 4 0 1 0 0 1 -3
+p52
+aVTayshaun Prince DET 05/23/2006 DET vs. MIA L 40 16 5 13 38.5 1 3 33.3 5 6 83.3 3 3 6 2 0 0 2 2 -9
+p53
+aVDale Davis DET 05/23/2006 DET vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p54
+aVTony Delk DET 05/23/2006 DET vs. MIA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p55
+aVChauncey Billups DET 05/23/2006 DET vs. MIA L 40 19 6 19 31.6 2 8 25.0 5 5 100.0 0 1 1 7 0 0 1 3 -3
+p56
+aVMaurice Evans DET 05/23/2006 DET vs. MIA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p57
+aVRichard Hamilton DET 05/23/2006 DET vs. MIA L 41 22 9 22 40.9 1 3 33.3 3 3 100.0 1 3 4 3 0 1 3 5 -11
+p58
+aVRasheed Wallace DET 05/23/2006 DET vs. MIA L 32 7 3 10 30.0 1 4 25.0 0 0 - 0 3 3 0 1 0 0 3 0
+p59
+aVTony Delk DET 05/21/2006 DET vs. CLE W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p60
+aVAntonio McDyess DET 05/21/2006 DET vs. CLE W 16 6 3 4 75.0 0 0 - 0 2 0.0 3 5 8 0 0 0 0 2 1
+p61
+aVTayshaun Prince DET 05/21/2006 DET vs. CLE W 47 20 7 16 43.8 1 1 100.0 5 6 83.3 4 3 7 3 0 1 0 3 16
+p62
+aVChauncey Billups DET 05/21/2006 DET vs. CLE W 44 12 4 10 40.0 1 5 20.0 3 4 75.0 0 8 8 3 1 0 3 2 16
+p63
+aVRichard Hamilton DET 05/21/2006 DET vs. CLE W 35 15 5 10 50.0 0 2 0.0 5 8 62.5 0 4 4 2 1 1 3 4 21
+p64
+aVMaurice Evans DET 05/21/2006 DET vs. CLE W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p65
+aVLindsey Hunter DET 05/21/2006 DET vs. CLE W 13 7 3 5 60.0 1 3 33.3 0 0 - 2 2 4 0 0 0 1 4 8
+p66
+aVRasheed Wallace DET 05/21/2006 DET vs. CLE W 42 13 4 16 25.0 0 2 0.0 5 8 62.5 2 6 8 1 0 1 0 5 11
+p67
+aVBen Wallace DET 05/21/2006 DET vs. CLE W 37 6 3 4 75.0 0 0 - 0 4 0.0 2 7 9 2 2 3 2 2 22
+p68
+aVAntonio McDyess DET 05/19/2006 DET @ CLE W 9 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 3 3 -5
+p69
+aVMaurice Evans DET 05/19/2006 DET @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p70
+aVRichard Hamilton DET 05/19/2006 DET @ CLE W 35 17 8 16 50.0 1 1 100.0 0 0 - 3 1 4 1 0 0 0 5 6
+p71
+aVTayshaun Prince DET 05/19/2006 DET @ CLE W 48 15 6 12 50.0 0 0 - 3 4 75.0 3 5 8 3 2 3 1 1 2
+p72
+aVBen Wallace DET 05/19/2006 DET @ CLE W 41 4 1 4 25.0 0 0 - 2 6 33.3 3 7 10 2 1 0 1 3 6
+p73
+aVRasheed Wallace DET 05/19/2006 DET @ CLE W 45 24 9 17 52.9 4 8 50.0 2 7 28.6 0 2 2 4 0 2 0 1 3
+p74
+aVLindsey Hunter DET 05/19/2006 DET @ CLE W 16 2 1 4 25.0 0 1 0.0 0 0 - 2 3 5 3 2 0 1 4 -5
+p75
+aVTony Delk DET 05/19/2006 DET @ CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -2
+p76
+aVChauncey Billups DET 05/19/2006 DET @ CLE W 40 15 3 8 37.5 1 4 25.0 8 9 88.9 0 3 3 4 4 0 3 1 5
+p77
+aVChauncey Billups DET 05/17/2006 DET vs. CLE L 37 17 6 16 37.5 1 6 16.7 4 4 100.0 1 2 3 5 0 0 6 6 -6
+p78
+aVTayshaun Prince DET 05/17/2006 DET vs. CLE L 48 21 7 13 53.8 1 1 100.0 6 6 100.0 4 4 8 2 0 2 2 0 -2
+p79
+aVBen Wallace DET 05/17/2006 DET vs. CLE L 41 8 4 9 44.4 0 0 - 0 7 0.0 4 9 13 1 1 2 0 2 5
+p80
+aVAntonio McDyess DET 05/17/2006 DET vs. CLE L 28 11 5 9 55.6 0 0 - 1 2 50.0 4 7 11 1 0 3 1 3 2
+p81
+aVLindsey Hunter DET 05/17/2006 DET vs. CLE L 13 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 3 2 0 0 3 3
+p82
+aVMaurice Evans DET 05/17/2006 DET vs. CLE L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p83
+aVRichard Hamilton DET 05/17/2006 DET vs. CLE L 46 15 5 16 31.3 0 1 0.0 5 7 71.4 1 0 1 3 1 1 4 2 -1
+p84
+aVRasheed Wallace DET 05/17/2006 DET vs. CLE L 22 10 5 9 55.6 0 1 0.0 0 0 - 1 8 9 1 0 0 4 5 -9
+p85
+aVMaurice Evans DET 05/15/2006 DET @ CLE L 10 3 0 1 0.0 0 0 - 3 4 75.0 1 1 2 0 1 1 0 0 4
+p86
+aVLindsey Hunter DET 05/15/2006 DET @ CLE L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 1
+p87
+aVRichard Hamilton DET 05/15/2006 DET @ CLE L 39 30 11 25 44.0 1 3 33.3 7 7 100.0 0 2 2 0 0 0 2 4 4
+p88
+aVRasheed Wallace DET 05/15/2006 DET @ CLE L 34 7 3 13 23.1 0 2 0.0 1 2 50.0 2 4 6 3 1 1 3 3 -6
+p89
+aVAntonio McDyess DET 05/15/2006 DET @ CLE L 15 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 4 -5
+p90
+aVTayshaun Prince DET 05/15/2006 DET @ CLE L 42 16 6 15 40.0 1 2 50.0 3 4 75.0 0 5 5 1 1 0 4 3 -4
+p91
+aVBen Wallace DET 05/15/2006 DET @ CLE L 43 1 0 2 0.0 0 0 - 1 2 50.0 6 4 10 1 1 3 2 3 5
+p92
+aVChauncey Billups DET 05/15/2006 DET @ CLE L 42 11 3 10 30.0 2 5 40.0 3 4 75.0 0 3 3 7 3 0 1 2 -3
+p93
+aVTony Delk DET 05/15/2006 DET @ CLE L 9 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 0 1 0 0 0 -6
+p94
+aVBen Wallace DET 05/13/2006 DET @ CLE L 38 5 2 4 50.0 0 0 - 1 3 33.3 5 8 13 2 1 0 1 1 0
+p95
+aVAntonio McDyess DET 05/13/2006 DET @ CLE L 22 6 3 6 50.0 0 0 - 0 0 - 4 4 8 1 1 0 2 3 -8
+p96
+aVRichard Hamilton DET 05/13/2006 DET @ CLE L 43 22 9 18 50.0 2 2 100.0 2 2 100.0 0 2 2 5 2 0 2 3 -12
+p97
+aVTayshaun Prince DET 05/13/2006 DET @ CLE L 42 10 4 10 40.0 0 2 0.0 2 2 100.0 1 3 4 4 0 0 2 2 -5
+p98
+aVMaurice Evans DET 05/13/2006 DET @ CLE L 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 1 -4
+p99
+aVChauncey Billups DET 05/13/2006 DET @ CLE L 40 20 6 15 40.0 3 6 50.0 5 5 100.0 1 2 3 5 3 0 4 1 1
+p100
+aVRasheed Wallace DET 05/13/2006 DET @ CLE L 36 11 3 11 27.3 1 5 20.0 4 4 100.0 1 5 6 1 0 1 2 5 -8
+p101
+aVTony Delk DET 05/13/2006 DET @ CLE L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 3
+p102
+aVLindsey Hunter DET 05/13/2006 DET @ CLE L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 1 2 3 -12
+p103
+aVRasheed Wallace DET 05/09/2006 DET vs. CLE W 41 29 10 17 58.8 5 8 62.5 4 9 44.4 0 9 9 2 1 2 0 3 -3
+p104
+aVTony Delk DET 05/09/2006 DET vs. CLE W 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 2
+p105
+aVRichard Hamilton DET 05/09/2006 DET vs. CLE W 38 17 1 7 14.3 0 2 0.0 15 18 83.3 0 1 1 3 2 0 1 2 4
+p106
+aVMaurice Evans DET 05/09/2006 DET vs. CLE W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 2
+p107
+aVLindsey Hunter DET 05/09/2006 DET vs. CLE W 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 -2
+p108
+aVAntonio McDyess DET 05/09/2006 DET vs. CLE W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 0 0 5 2
+p109
+aVBen Wallace DET 05/09/2006 DET vs. CLE W 42 10 4 7 57.1 0 0 - 2 4 50.0 4 11 15 1 2 0 0 2 13
+p110
+aVChauncey Billups DET 05/09/2006 DET vs. CLE W 43 15 4 13 30.8 3 8 37.5 4 4 100.0 0 5 5 7 1 0 4 1 8
+p111
+aVTayshaun Prince DET 05/09/2006 DET vs. CLE W 43 20 6 15 40.0 2 5 40.0 6 7 85.7 1 2 3 4 0 0 2 1 4
+p112
+aVTayshaun Prince DET 05/07/2006 DET vs. CLE W 33 24 8 16 50.0 4 4 100.0 4 6 66.7 3 0 3 2 0 1 1 3 29
+p113
+aVLindsey Hunter DET 05/07/2006 DET vs. CLE W 18 12 4 7 57.1 4 7 57.1 0 0 - 0 1 1 2 0 0 0 1 0
+p114
+aVTony Delk DET 05/07/2006 DET vs. CLE W 14 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 2 -6
+p115
+aVBen Wallace DET 05/07/2006 DET vs. CLE W 37 2 1 4 25.0 0 0 - 0 2 0.0 3 8 11 2 0 4 0 0 38
+p116
+aVKelvin Cato DET 05/07/2006 DET vs. CLE W 7 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -10
+p117
+aVMaurice Evans DET 05/07/2006 DET vs. CLE W 9 7 3 4 75.0 1 2 50.0 0 0 - 2 1 3 0 0 0 0 0 8
+p118
+aVAntonio McDyess DET 05/07/2006 DET vs. CLE W 21 12 5 7 71.4 0 0 - 2 2 100.0 2 2 4 1 0 3 0 2 28
+p119
+aVCarlos Delfino DET 05/07/2006 DET vs. CLE W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 3 0 -10
+p120
+aVDale Davis DET 05/07/2006 DET vs. CLE W 7 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 4 -10
+p121
+aVChauncey Billups DET 05/07/2006 DET vs. CLE W 30 14 3 5 60.0 2 2 100.0 6 6 100.0 0 2 2 10 2 1 1 2 27
+p122
+aVRasheed Wallace DET 05/07/2006 DET vs. CLE W 23 10 4 8 50.0 2 2 100.0 0 0 - 1 6 7 1 0 0 1 2 8
+p123
+aVRichard Hamilton DET 05/07/2006 DET vs. CLE W 34 20 9 18 50.0 0 1 0.0 2 2 100.0 0 3 3 3 2 0 2 2 33
+p124
+aVLindsey Hunter DET 05/03/2006 DET vs. MIL W 15 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 7 0 0 0 3 -10
+p125
+aVTayshaun Prince DET 05/03/2006 DET vs. MIL W 29 12 3 8 37.5 1 2 50.0 5 6 83.3 1 2 3 3 1 1 4 2 36
+p126
+aVRasheed Wallace DET 05/03/2006 DET vs. MIL W 27 22 8 11 72.7 4 5 80.0 2 4 50.0 2 5 7 4 1 0 2 1 26
+p127
+aVRichard Hamilton DET 05/03/2006 DET vs. MIL W 36 40 15 23 65.2 2 2 100.0 8 9 88.9 1 2 3 3 0 0 3 2 28
+p128
+aVCarlos Delfino DET 05/03/2006 DET vs. MIL W 7 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 1 3
+p129
+aVAntonio McDyess DET 05/03/2006 DET vs. MIL W 21 11 5 8 62.5 0 0 - 1 2 50.0 2 4 6 0 0 0 0 1 -7
+p130
+aVDale Davis DET 05/03/2006 DET vs. MIL W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 3
+p131
+aVChauncey Billups DET 05/03/2006 DET vs. MIL W 30 17 3 5 60.0 3 3 100.0 8 8 100.0 0 5 5 8 0 0 0 1 33
+p132
+aVMaurice Evans DET 05/03/2006 DET vs. MIL W 17 6 1 2 50.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 2 -3
+p133
+aVBen Wallace DET 05/03/2006 DET vs. MIL W 34 2 1 3 33.3 0 0 - 0 2 0.0 4 10 14 3 2 1 2 4 33
+p134
+aVKelvin Cato DET 05/03/2006 DET vs. MIL W 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 6
+p135
+aVTony Delk DET 05/03/2006 DET vs. MIL W 14 8 3 7 42.9 0 3 0.0 2 2 100.0 0 2 2 0 0 0 0 2 -3
+p136
+aVTayshaun Prince DET 05/01/2006 DET @ MIL W 46 18 7 11 63.6 1 3 33.3 3 5 60.0 3 5 8 7 3 0 1 2 13
+p137
+aVRasheed Wallace DET 05/01/2006 DET @ MIL W 38 12 5 14 35.7 1 2 50.0 1 2 50.0 1 3 4 2 1 0 1 4 10
+p138
+aVAntonio McDyess DET 05/01/2006 DET @ MIL W 29 11 5 8 62.5 0 0 - 1 4 25.0 6 5 11 1 1 2 0 4 14
+p139
+aVLindsey Hunter DET 05/01/2006 DET @ MIL W 7 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 4
+p140
+aVBen Wallace DET 05/01/2006 DET @ MIL W 27 1 0 2 0.0 0 0 - 1 4 25.0 1 3 4 1 0 1 0 4 1
+p141
+aVRichard Hamilton DET 05/01/2006 DET @ MIL W 40 18 4 14 28.6 1 2 50.0 9 10 90.0 1 2 3 4 1 0 1 1 3
+p142
+aVTony Delk DET 05/01/2006 DET @ MIL W 8 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 3 7
+p143
+aVDale Davis DET 05/01/2006 DET @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p144
+aVChauncey Billups DET 05/01/2006 DET @ MIL W 42 34 8 18 44.4 2 7 28.6 16 16 100.0 1 2 3 6 1 0 2 2 8
+p145
+aVMaurice Evans DET 05/01/2006 DET @ MIL W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p146
+aVCarlos Delfino DET 04/29/2006 DET @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 0 0 6
+p147
+aVRasheed Wallace DET 04/29/2006 DET @ MIL L 35 18 7 11 63.6 3 6 50.0 1 6 16.7 2 4 6 1 0 1 0 4 -28
+p148
+aVTayshaun Prince DET 04/29/2006 DET @ MIL L 36 6 2 7 28.6 0 2 0.0 2 2 100.0 1 0 1 2 0 1 2 1 -29
+p149
+aVAntonio McDyess DET 04/29/2006 DET @ MIL L 25 13 4 5 80.0 0 0 - 5 6 83.3 3 5 8 2 0 0 1 2 -10
+p150
+aVLindsey Hunter DET 04/29/2006 DET @ MIL L 14 14 4 8 50.0 2 6 33.3 4 4 100.0 0 0 0 3 1 0 0 3 -3
+p151
+aVBen Wallace DET 04/29/2006 DET @ MIL L 29 1 0 1 0.0 0 0 - 1 4 25.0 1 4 5 1 1 1 1 2 -14
+p152
+aVChauncey Billups DET 04/29/2006 DET @ MIL L 37 26 7 16 43.8 2 7 28.6 10 11 90.9 0 6 6 6 2 0 4 3 -24
+p153
+aVTony Delk DET 04/29/2006 DET @ MIL L 14 6 2 3 66.7 1 2 50.0 1 2 50.0 0 1 1 3 2 0 1 0 9
+p154
+aVRichard Hamilton DET 04/29/2006 DET @ MIL L 32 10 4 14 28.6 2 4 50.0 0 0 - 0 0 0 2 0 0 2 5 -22
+p155
+aVKelvin Cato DET 04/29/2006 DET @ MIL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p156
+aVMaurice Evans DET 04/29/2006 DET @ MIL L 12 10 4 5 80.0 1 1 100.0 1 2 50.0 0 0 0 1 0 0 0 1 9
+p157
+aVTony Delk DET 04/26/2006 DET vs. MIL W 10 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 -6
+p158
+aVLindsey Hunter DET 04/26/2006 DET vs. MIL W 13 10 3 6 50.0 2 3 66.7 2 2 100.0 0 0 0 3 2 0 2 3 0
+p159
+aVBen Wallace DET 04/26/2006 DET vs. MIL W 32 4 2 7 28.6 0 0 - 0 0 - 3 8 11 4 2 1 1 1 6
+p160
+aVDale Davis DET 04/26/2006 DET vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p161
+aVRichard Hamilton DET 04/26/2006 DET vs. MIL W 33 18 7 12 58.3 0 1 0.0 4 6 66.7 0 1 1 8 1 1 0 2 19
+p162
+aVAntonio McDyess DET 04/26/2006 DET vs. MIL W 23 13 6 8 75.0 0 0 - 1 2 50.0 3 4 7 1 0 1 0 5 -1
+p163
+aVMaurice Evans DET 04/26/2006 DET vs. MIL W 11 8 2 4 50.0 2 3 66.7 2 2 100.0 1 1 2 0 0 0 0 2 3
+p164
+aVChauncey Billups DET 04/26/2006 DET vs. MIL W 35 20 8 15 53.3 4 9 44.4 0 0 - 0 2 2 6 0 0 1 3 11
+p165
+aVRasheed Wallace DET 04/26/2006 DET vs. MIL W 38 12 4 13 30.8 1 5 20.0 3 4 75.0 0 8 8 4 0 3 2 2 23
+p166
+aVTayshaun Prince DET 04/26/2006 DET vs. MIL W 42 22 9 14 64.3 1 2 50.0 3 3 100.0 3 4 7 4 1 0 0 0 6
+p167
+aVCarlos Delfino DET 04/26/2006 DET vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p168
+aVChauncey Billups DET 04/23/2006 DET vs. MIL W 37 14 4 11 36.4 1 5 20.0 5 8 62.5 0 1 1 7 0 0 1 2 27
+p169
+aVTayshaun Prince DET 04/23/2006 DET vs. MIL W 42 15 5 12 41.7 1 2 50.0 4 5 80.0 3 5 8 3 0 2 3 2 20
+p170
+aVTony Delk DET 04/23/2006 DET vs. MIL W 12 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 1 0 0 1 8
+p171
+aVKelvin Cato DET 04/23/2006 DET vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p172
+aVRasheed Wallace DET 04/23/2006 DET vs. MIL W 29 22 9 14 64.3 4 6 66.7 0 0 - 1 3 4 1 3 2 1 4 19
+p173
+aVBen Wallace DET 04/23/2006 DET vs. MIL W 34 4 1 3 33.3 0 1 0.0 2 4 50.0 3 14 17 1 2 2 1 1 7
+p174
+aVAntonio McDyess DET 04/23/2006 DET vs. MIL W 29 9 4 9 44.4 0 0 - 1 2 50.0 2 8 10 1 1 2 1 2 12
+p175
+aVCarlos Delfino DET 04/23/2006 DET vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p176
+aVLindsey Hunter DET 04/23/2006 DET vs. MIL W 11 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 3 -9
+p177
+aVMaurice Evans DET 04/23/2006 DET vs. MIL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p178
+aVRichard Hamilton DET 04/23/2006 DET vs. MIL W 40 21 5 18 27.8 0 2 0.0 11 13 84.6 1 4 5 2 0 0 3 2 9
+p179
+a.

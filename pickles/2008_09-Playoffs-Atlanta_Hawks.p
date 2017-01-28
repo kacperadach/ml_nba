@@ -1,0 +1,240 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMaurice Evans ATL 05/11/2009 ATL vs. CLE L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 1
+p2
+aVJoe Johnson ATL 05/11/2009 ATL vs. CLE L 44 18 7 18 38.9 0 3 0.0 4 5 80.0 1 5 6 7 1 0 0 1 -5
+p3
+aVZaza Pachulia ATL 05/11/2009 ATL vs. CLE L 26 9 2 6 33.3 0 0 - 5 6 83.3 3 3 6 0 0 1 1 5 -8
+p4
+aVMarvin Williams ATL 05/11/2009 ATL vs. CLE L 30 4 1 7 14.3 0 1 0.0 2 2 100.0 0 4 4 2 1 1 1 1 -2
+p5
+aVMario West ATL 05/11/2009 ATL vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p6
+aVAl Horford ATL 05/11/2009 ATL vs. CLE L 19 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 3 -6
+p7
+aVJosh Smith ATL 05/11/2009 ATL vs. CLE L 45 26 8 16 50.0 0 0 - 10 12 83.3 2 6 8 1 0 0 2 1 -7
+p8
+aVMike Bibby ATL 05/11/2009 ATL vs. CLE L 31 3 1 6 16.7 1 3 33.3 0 0 - 2 2 4 1 0 0 1 3 -16
+p9
+aVRonald Murray ATL 05/11/2009 ATL vs. CLE L 32 14 4 15 26.7 1 5 20.0 5 5 100.0 1 1 2 2 3 0 2 3 -7
+p10
+aVRonald Murray ATL 05/09/2009 ATL vs. CLE L 36 17 6 13 46.2 3 6 50.0 2 2 100.0 0 1 1 3 1 0 0 1 1
+p11
+aVMike Bibby ATL 05/09/2009 ATL vs. CLE L 38 8 3 8 37.5 2 4 50.0 0 0 - 1 3 4 5 0 0 2 4 -12
+p12
+aVMarvin Williams ATL 05/09/2009 ATL vs. CLE L 13 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 1
+p13
+aVMario West ATL 05/09/2009 ATL vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p14
+aVJosh Smith ATL 05/09/2009 ATL vs. CLE L 37 18 8 18 44.4 0 1 0.0 2 4 50.0 3 2 5 2 0 2 2 3 -20
+p15
+aVJoe Johnson ATL 05/09/2009 ATL vs. CLE L 46 21 9 19 47.4 1 3 33.3 2 3 66.7 3 2 5 3 3 0 3 4 -18
+p16
+aVOthello Hunter ATL 05/09/2009 ATL vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p17
+aVSolomon Jones ATL 05/09/2009 ATL vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p18
+aVMaurice Evans ATL 05/09/2009 ATL vs. CLE L 19 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 3 -17
+p19
+aVZaza Pachulia ATL 05/09/2009 ATL vs. CLE L 12 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 4 5
+p20
+aVAl Horford ATL 05/09/2009 ATL vs. CLE L 36 6 3 8 37.5 0 1 0.0 0 0 - 1 3 4 4 1 2 1 5 -23
+p21
+aVAcie Law ATL 05/07/2009 ATL @ CLE L 7 8 3 6 50.0 1 2 50.0 1 1 100.0 1 1 2 3 0 0 0 1 11
+p22
+aVMario West ATL 05/07/2009 ATL @ CLE L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -5
+p23
+aVMike Bibby ATL 05/07/2009 ATL @ CLE L 30 11 3 8 37.5 2 4 50.0 3 3 100.0 0 1 1 1 1 0 1 4 -18
+p24
+aVMaurice Evans ATL 05/07/2009 ATL @ CLE L 33 16 7 12 58.3 1 2 50.0 1 1 100.0 3 0 3 4 1 0 0 3 -14
+p25
+aVOthello Hunter ATL 05/07/2009 ATL @ CLE L 11 2 1 2 50.0 0 0 - 0 0 - 3 2 5 0 1 1 0 1 6
+p26
+aVJosh Smith ATL 05/07/2009 ATL @ CLE L 22 8 2 13 15.4 0 0 - 4 4 100.0 1 0 1 3 1 1 2 4 -16
+p27
+aVRonald Murray ATL 05/07/2009 ATL @ CLE L 27 8 2 5 40.0 1 2 50.0 3 4 75.0 0 1 1 3 1 1 3 1 -25
+p28
+aVSolomon Jones ATL 05/07/2009 ATL @ CLE L 22 2 0 3 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 4 5
+p29
+aVJoe Johnson ATL 05/07/2009 ATL @ CLE L 30 10 5 15 33.3 0 3 0.0 0 2 0.0 3 0 3 1 2 0 3 0 -31
+p30
+aVZaza Pachulia ATL 05/07/2009 ATL @ CLE L 35 7 2 6 33.3 0 0 - 3 4 75.0 5 7 12 0 1 1 3 1 -25
+p31
+aVThomas Gardner ATL 05/07/2009 ATL @ CLE L 16 12 4 11 36.4 3 5 60.0 1 1 100.0 0 2 2 2 1 0 0 3 12
+p32
+aVRonald Murray ATL 05/05/2009 ATL @ CLE L 32 5 2 9 22.2 0 6 0.0 1 2 50.0 0 2 2 1 0 0 3 2 -22
+p33
+aVMario West ATL 05/05/2009 ATL @ CLE L 3 0 0 2 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 -3
+p34
+aVMike Bibby ATL 05/05/2009 ATL @ CLE L 35 19 7 10 70.0 5 7 71.4 0 0 - 0 4 4 8 2 0 3 3 -12
+p35
+aVMaurice Evans ATL 05/05/2009 ATL @ CLE L 21 6 2 6 33.3 1 2 50.0 1 2 50.0 0 0 0 0 0 1 0 3 -10
+p36
+aVAcie Law ATL 05/05/2009 ATL @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p37
+aVSolomon Jones ATL 05/05/2009 ATL @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p38
+aVJosh Smith ATL 05/05/2009 ATL @ CLE L 41 22 8 15 53.3 0 0 - 6 10 60.0 1 5 6 2 0 1 2 2 -15
+p39
+aVJoe Johnson ATL 05/05/2009 ATL @ CLE L 39 11 5 10 50.0 1 3 33.3 0 0 - 0 4 4 6 1 0 5 2 -18
+p40
+aVMarvin Williams ATL 05/05/2009 ATL @ CLE L 13 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 2 3 -16
+p41
+aVZaza Pachulia ATL 05/05/2009 ATL @ CLE L 21 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 2 5 -11
+p42
+aVAl Horford ATL 05/05/2009 ATL @ CLE L 26 4 2 4 50.0 0 0 - 0 0 - 3 5 8 2 1 0 0 1 -18
+p43
+aVMario West ATL 05/03/2009 ATL vs. MIA W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -7
+p44
+aVAl Horford ATL 05/03/2009 ATL vs. MIA W 32 7 3 9 33.3 0 0 - 1 2 50.0 0 3 3 1 0 0 0 2 15
+p45
+aVJosh Smith ATL 05/03/2009 ATL vs. MIA W 38 21 7 12 58.3 0 1 0.0 7 8 87.5 1 8 9 3 2 1 2 6 5
+p46
+aVZaza Pachulia ATL 05/03/2009 ATL vs. MIA W 20 8 1 2 50.0 0 0 - 6 6 100.0 1 3 4 0 0 0 2 4 19
+p47
+aVRandolph Morris ATL 05/03/2009 ATL vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p48
+aVMaurice Evans ATL 05/03/2009 ATL vs. MIA W 22 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 3 -13
+p49
+aVJoe Johnson ATL 05/03/2009 ATL vs. MIA W 44 27 10 19 52.6 6 8 75.0 1 2 50.0 0 5 5 4 5 0 1 1 20
+p50
+aVRonald Murray ATL 05/03/2009 ATL vs. MIA W 30 15 4 14 28.6 3 9 33.3 4 4 100.0 1 2 3 2 1 0 0 2 19
+p51
+aVSolomon Jones ATL 05/03/2009 ATL vs. MIA W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p52
+aVAcie Law ATL 05/03/2009 ATL vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p53
+aVMike Bibby ATL 05/03/2009 ATL vs. MIA W 41 11 3 10 30.0 2 4 50.0 3 3 100.0 0 4 4 6 2 0 1 2 27
+p54
+aVJoe Johnson ATL 05/01/2009 ATL @ MIA L 32 13 6 14 42.9 1 2 50.0 0 1 0.0 1 4 5 2 0 0 3 3 -20
+p55
+aVMike Bibby ATL 05/01/2009 ATL @ MIA L 34 20 6 12 50.0 3 6 50.0 5 6 83.3 0 7 7 3 1 0 4 3 -21
+p56
+aVMario West ATL 05/01/2009 ATL @ MIA L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 3
+p57
+aVZaza Pachulia ATL 05/01/2009 ATL @ MIA L 30 6 2 4 50.0 0 0 - 2 4 50.0 0 2 2 0 1 0 1 5 -17
+p58
+aVMarvin Williams ATL 05/01/2009 ATL @ MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p59
+aVJosh Smith ATL 05/01/2009 ATL @ MIA L 40 7 3 13 23.1 0 2 0.0 1 3 33.3 5 5 10 0 1 3 1 5 -22
+p60
+aVRandolph Morris ATL 05/01/2009 ATL @ MIA L 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 1 2
+p61
+aVAcie Law ATL 05/01/2009 ATL @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p62
+aVSolomon Jones ATL 05/01/2009 ATL @ MIA L 22 6 3 4 75.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 -11
+p63
+aVRonald Murray ATL 05/01/2009 ATL @ MIA L 34 13 4 13 30.8 2 5 40.0 3 4 75.0 0 2 2 2 2 1 2 3 -17
+p64
+aVMaurice Evans ATL 05/01/2009 ATL @ MIA L 32 5 2 9 22.2 1 5 20.0 0 0 - 2 1 3 0 1 1 1 2 -24
+p65
+aVMike Bibby ATL 04/29/2009 ATL vs. MIA W 26 17 6 9 66.7 1 2 50.0 4 4 100.0 1 2 3 3 0 0 1 4 19
+p66
+aVRonald Murray ATL 04/29/2009 ATL vs. MIA W 34 23 9 15 60.0 1 5 20.0 4 5 80.0 1 4 5 3 1 0 0 2 6
+p67
+aVJosh Smith ATL 04/29/2009 ATL vs. MIA W 40 20 6 16 37.5 1 2 50.0 7 9 77.8 1 7 8 4 2 2 0 4 17
+p68
+aVSolomon Jones ATL 04/29/2009 ATL vs. MIA W 13 2 1 1 100.0 0 0 - 0 0 - 2 3 5 1 1 0 0 3 -1
+p69
+aVRandolph Morris ATL 04/29/2009 ATL vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p70
+aVAl Horford ATL 04/29/2009 ATL vs. MIA W 12 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 2 0 0 0 2 13
+p71
+aVMaurice Evans ATL 04/29/2009 ATL vs. MIA W 31 10 4 9 44.4 1 5 20.0 1 2 50.0 0 0 0 1 1 0 1 4 17
+p72
+aVZaza Pachulia ATL 04/29/2009 ATL vs. MIA W 24 6 1 2 50.0 0 0 - 4 4 100.0 4 2 6 2 0 0 0 3 0
+p73
+aVThomas Gardner ATL 04/29/2009 ATL vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p74
+aVMario West ATL 04/29/2009 ATL vs. MIA W 11 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p75
+aVAcie Law ATL 04/29/2009 ATL vs. MIA W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p76
+aVJoe Johnson ATL 04/29/2009 ATL vs. MIA W 40 25 6 15 40.0 1 4 25.0 12 15 80.0 3 3 6 6 0 0 2 1 20
+p77
+aVSolomon Jones ATL 04/27/2009 ATL @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -15
+p78
+aVMaurice Evans ATL 04/27/2009 ATL @ MIA W 20 10 4 6 66.7 1 3 33.3 1 1 100.0 0 2 2 0 1 0 1 4 16
+p79
+aVRonald Murray ATL 04/27/2009 ATL @ MIA W 34 11 3 10 30.0 1 4 25.0 4 4 100.0 2 3 5 2 0 0 0 0 5
+p80
+aVJosh Smith ATL 04/27/2009 ATL @ MIA W 40 13 4 14 28.6 0 3 0.0 5 7 71.4 2 5 7 4 1 4 4 3 20
+p81
+aVMario West ATL 04/27/2009 ATL @ MIA W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -10
+p82
+aVMike Bibby ATL 04/27/2009 ATL @ MIA W 43 15 5 10 50.0 3 3 100.0 2 2 100.0 0 3 3 3 2 0 4 4 11
+p83
+aVJoe Johnson ATL 04/27/2009 ATL @ MIA W 43 14 5 12 41.7 0 1 0.0 4 6 66.7 0 1 1 5 1 0 3 3 11
+p84
+aVAl Horford ATL 04/27/2009 ATL @ MIA W 17 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 4 -8
+p85
+aVZaza Pachulia ATL 04/27/2009 ATL @ MIA W 34 12 5 8 62.5 0 0 - 2 4 50.0 6 12 18 1 2 0 1 4 20
+p86
+aVOthello Hunter ATL 04/25/2009 ATL @ MIA L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p87
+aVAcie Law ATL 04/25/2009 ATL @ MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -2
+p88
+aVZaza Pachulia ATL 04/25/2009 ATL @ MIA L 24 8 1 6 16.7 0 0 - 6 8 75.0 2 5 7 0 0 1 0 5 -15
+p89
+aVMaurice Evans ATL 04/25/2009 ATL @ MIA L 32 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 0 1 1 1 1 -28
+p90
+aVMike Bibby ATL 04/25/2009 ATL @ MIA L 36 13 5 13 38.5 1 3 33.3 2 2 100.0 1 1 2 3 0 0 2 1 -28
+p91
+aVMario West ATL 04/25/2009 ATL @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p92
+aVJosh Smith ATL 04/25/2009 ATL @ MIA L 28 13 4 14 28.6 1 3 33.3 4 5 80.0 2 6 8 0 0 1 0 4 -20
+p93
+aVJoe Johnson ATL 04/25/2009 ATL @ MIA L 39 10 5 17 29.4 0 3 0.0 0 0 - 3 3 6 3 0 0 5 2 -17
+p94
+aVAl Horford ATL 04/25/2009 ATL @ MIA L 38 13 5 10 50.0 0 0 - 3 4 75.0 2 5 7 2 1 2 0 3 -23
+p95
+aVRonald Murray ATL 04/25/2009 ATL @ MIA L 27 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 3 1 0 2 0 -12
+p96
+aVSolomon Jones ATL 04/25/2009 ATL @ MIA L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p97
+aVThomas Gardner ATL 04/25/2009 ATL @ MIA L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p98
+aVMarvin Williams ATL 04/22/2009 ATL vs. MIA L 19 11 4 9 44.4 0 3 0.0 3 3 100.0 1 0 1 1 0 1 0 2 -6
+p99
+aVMario West ATL 04/22/2009 ATL vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p100
+aVRonald Murray ATL 04/22/2009 ATL vs. MIA L 30 15 4 15 26.7 1 5 20.0 6 7 85.7 1 1 2 3 2 1 0 1 -1
+p101
+aVJoe Johnson ATL 04/22/2009 ATL vs. MIA L 35 16 5 13 38.5 1 2 50.0 5 9 55.6 0 3 3 0 0 0 4 4 -14
+p102
+aVAl Horford ATL 04/22/2009 ATL vs. MIA L 39 11 5 9 55.6 0 0 - 1 4 25.0 4 7 11 5 1 0 0 5 -19
+p103
+aVMike Bibby ATL 04/22/2009 ATL vs. MIA L 43 18 6 12 50.0 4 8 50.0 2 2 100.0 1 1 2 4 0 0 2 3 -17
+p104
+aVMaurice Evans ATL 04/22/2009 ATL vs. MIA L 17 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 2 -7
+p105
+aVJosh Smith ATL 04/22/2009 ATL vs. MIA L 41 17 8 14 57.1 0 1 0.0 1 3 33.3 3 7 10 3 2 2 3 3 -14
+p106
+aVZaza Pachulia ATL 04/22/2009 ATL vs. MIA L 15 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 0 0 2 1 5
+p107
+aVZaza Pachulia ATL 04/19/2009 ATL vs. MIA W 19 10 4 10 40.0 0 0 - 2 2 100.0 4 6 10 0 1 0 2 3 10
+p108
+aVMario West ATL 04/19/2009 ATL vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p109
+aVMaurice Evans ATL 04/19/2009 ATL vs. MIA W 26 6 3 8 37.5 0 3 0.0 0 0 - 1 3 4 2 0 0 0 2 5
+p110
+aVOthello Hunter ATL 04/19/2009 ATL vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p111
+aVSolomon Jones ATL 04/19/2009 ATL vs. MIA W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p112
+aVRonald Murray ATL 04/19/2009 ATL vs. MIA W 25 2 1 6 16.7 0 1 0.0 0 0 - 0 5 5 4 0 0 2 2 10
+p113
+aVSpeedy Claxton ATL 04/19/2009 ATL vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p114
+aVJosh Smith ATL 04/19/2009 ATL vs. MIA W 38 23 9 14 64.3 0 2 0.0 5 6 83.3 3 7 10 2 3 0 3 1 20
+p115
+aVJoe Johnson ATL 04/19/2009 ATL vs. MIA W 37 15 7 16 43.8 1 3 33.3 0 2 0.0 3 2 5 2 1 0 3 3 23
+p116
+aVMike Bibby ATL 04/19/2009 ATL vs. MIA W 32 10 4 8 50.0 2 4 50.0 0 0 - 0 3 3 9 2 2 3 3 22
+p117
+aVMarvin Williams ATL 04/19/2009 ATL vs. MIA W 17 10 3 5 60.0 1 1 100.0 3 6 50.0 1 1 2 1 2 0 2 1 12
+p118
+aVAl Horford ATL 04/19/2009 ATL vs. MIA W 34 14 5 10 50.0 0 0 - 4 4 100.0 1 8 9 2 1 2 2 1 19
+p119
+a.

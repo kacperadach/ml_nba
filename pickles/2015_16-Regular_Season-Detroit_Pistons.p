@@ -1,0 +1,1636 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAnthony Tolliver DET 04/13/2016 DET @ CLE W 39 15 5 10 50.0 5 9 55.6 0 0 - 1 7 8 1 0 0 2 1 4
+p2
+aVJoel Anthony DET 04/13/2016 DET @ CLE W 25 7 3 3 100.0 0 0 - 1 2 50.0 1 3 4 0 0 8 0 2 3
+p3
+aVSpencer Dinwiddie DET 04/13/2016 DET @ CLE W 29 12 3 12 25.0 0 2 0.0 6 10 60.0 2 3 5 5 0 0 0 0 1
+p4
+aVStanley Johnson DET 04/13/2016 DET @ CLE W 32 12 4 14 28.6 1 3 33.3 3 4 75.0 2 6 8 2 3 1 1 5 -22
+p5
+aVDarrun Hilliard DET 04/13/2016 DET @ CLE W 24 4 1 7 14.3 0 1 0.0 2 2 100.0 0 4 4 2 1 1 3 2 3
+p6
+aVJodie Meeks DET 04/13/2016 DET @ CLE W 27 20 6 15 40.0 4 9 44.4 4 4 100.0 0 3 3 3 0 0 0 0 9
+p7
+aVAron Baynes DET 04/13/2016 DET @ CLE W 28 14 5 9 55.6 0 0 - 4 4 100.0 3 2 5 1 0 0 3 3 -1
+p8
+aVReggie Bullock DET 04/13/2016 DET @ CLE W 38 15 5 8 62.5 3 5 60.0 2 2 100.0 0 8 8 4 0 0 1 1 12
+p9
+aVSteve Blake DET 04/13/2016 DET @ CLE W 24 13 5 7 71.4 3 4 75.0 0 0 - 0 2 2 6 1 1 2 1 1
+p10
+aVMarcus Morris DET 04/12/2016 DET vs. MIA L 34 16 5 13 38.5 1 4 25.0 5 7 71.4 5 4 9 1 0 0 4 1 4
+p11
+aVSteve Blake DET 04/12/2016 DET vs. MIA L 32 10 4 7 57.1 0 2 0.0 2 2 100.0 0 1 1 7 1 0 3 1 2
+p12
+aVSpencer Dinwiddie DET 04/12/2016 DET vs. MIA L 16 6 2 5 40.0 0 1 0.0 2 4 50.0 1 1 2 3 0 0 0 3 -8
+p13
+aVKentavious Caldwell-Pope DET 04/12/2016 DET vs. MIA L 36 17 7 17 41.2 2 5 40.0 1 2 50.0 1 2 3 0 3 0 2 1 -4
+p14
+aVAron Baynes DET 04/12/2016 DET vs. MIA L 15 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 2 1 -1
+p15
+aVTobias Harris DET 04/12/2016 DET vs. MIA L 36 16 5 16 31.3 1 3 33.3 5 5 100.0 0 4 4 2 1 2 0 1 -5
+p16
+aVAndre Drummond DET 04/12/2016 DET vs. MIA L 33 9 4 11 36.4 0 0 - 1 4 25.0 9 9 18 0 2 1 2 4 -5
+p17
+aVStanley Johnson DET 04/12/2016 DET vs. MIA L 14 5 2 5 40.0 0 1 0.0 1 2 50.0 1 4 5 1 1 0 2 3 -10
+p18
+aVReggie Bullock DET 04/12/2016 DET vs. MIA L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -2
+p19
+aVAnthony Tolliver DET 04/12/2016 DET vs. MIA L 12 7 2 3 66.7 1 2 50.0 2 2 100.0 0 2 2 0 0 0 0 0 -1
+p20
+aVAndre Drummond DET 04/08/2016 DET vs. WAS W 26 8 3 10 30.0 0 0 - 2 5 40.0 1 5 6 1 3 0 0 3 8
+p21
+aVMarcus Morris DET 04/08/2016 DET vs. WAS W 38 13 5 8 62.5 2 4 50.0 1 1 100.0 1 6 7 3 1 0 2 2 13
+p22
+aVSteve Blake DET 04/08/2016 DET vs. WAS W 14 6 2 8 25.0 2 6 33.3 0 0 - 0 2 2 2 0 0 1 0 -7
+p23
+aVReggie Bullock DET 04/08/2016 DET vs. WAS W 20 0 0 2 0.0 0 2 0.0 0 0 - 1 4 5 1 0 0 1 2 -12
+p24
+aVKentavious Caldwell-Pope DET 04/08/2016 DET vs. WAS W 37 14 6 11 54.5 2 5 40.0 0 0 - 1 3 4 0 1 0 2 3 25
+p25
+aVAron Baynes DET 04/08/2016 DET vs. WAS W 22 12 1 4 25.0 0 0 - 10 10 100.0 0 5 5 0 0 1 0 1 5
+p26
+aVTobias Harris DET 04/08/2016 DET vs. WAS W 37 17 4 9 44.4 3 5 60.0 6 6 100.0 1 8 9 1 0 0 0 3 24
+p27
+aVReggie Jackson DET 04/08/2016 DET vs. WAS W 34 39 14 20 70.0 4 5 80.0 7 7 100.0 1 3 4 9 0 0 5 3 20
+p28
+aVAnthony Tolliver DET 04/08/2016 DET vs. WAS W 11 3 1 5 20.0 1 5 20.0 0 0 - 1 1 2 0 0 1 1 1 -11
+p29
+aVAnthony Tolliver DET 04/06/2016 DET @ ORL W 18 6 2 5 40.0 1 4 25.0 1 3 33.3 1 1 2 0 0 0 1 2 -6
+p30
+aVMarcus Morris DET 04/06/2016 DET @ ORL W 33 9 3 11 27.3 1 4 25.0 2 4 50.0 2 1 3 4 3 0 3 2 -2
+p31
+aVAndre Drummond DET 04/06/2016 DET @ ORL W 33 13 5 14 35.7 0 0 - 3 6 50.0 5 11 16 1 1 4 2 1 0
+p32
+aVReggie Bullock DET 04/06/2016 DET @ ORL W 27 13 5 9 55.6 3 6 50.0 0 0 - 1 2 3 6 1 1 0 1 7
+p33
+aVKentavious Caldwell-Pope DET 04/06/2016 DET @ ORL W 36 18 7 10 70.0 2 3 66.7 2 3 66.7 1 2 3 1 3 0 1 2 3
+p34
+aVTobias Harris DET 04/06/2016 DET @ ORL W 30 13 5 11 45.5 2 3 66.7 1 2 50.0 1 6 7 2 1 0 1 4 10
+p35
+aVAron Baynes DET 04/06/2016 DET @ ORL W 15 9 4 5 80.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 2 4
+p36
+aVSteve Blake DET 04/06/2016 DET @ ORL W 16 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 6 0 0 1 1 2
+p37
+aVReggie Jackson DET 04/06/2016 DET @ ORL W 32 24 7 18 38.9 1 4 25.0 9 11 81.8 1 3 4 4 0 1 3 1 2
+p38
+aVReggie Jackson DET 04/05/2016 DET @ MIA L 29 21 6 18 33.3 1 5 20.0 8 8 100.0 1 1 2 3 0 1 0 0 -14
+p39
+aVAndre Drummond DET 04/05/2016 DET @ MIA L 30 12 5 9 55.6 0 0 - 2 6 33.3 3 10 13 0 0 0 1 2 -11
+p40
+aVSteve Blake DET 04/05/2016 DET @ MIA L 15 8 2 2 100.0 2 2 100.0 2 2 100.0 0 2 2 3 0 0 0 2 -3
+p41
+aVDarrun Hilliard DET 04/05/2016 DET @ MIA L 14 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 1 0 0 0 0 -2
+p42
+aVJoel Anthony DET 04/05/2016 DET @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p43
+aVStanley Johnson DET 04/05/2016 DET @ MIA L 19 2 1 9 11.1 0 2 0.0 0 0 - 1 2 3 1 1 0 1 1 -3
+p44
+aVAnthony Tolliver DET 04/05/2016 DET @ MIA L 24 2 1 4 25.0 0 3 0.0 0 0 - 1 0 1 1 1 0 0 0 -11
+p45
+aVTobias Harris DET 04/05/2016 DET @ MIA L 29 21 8 10 80.0 0 1 0.0 5 5 100.0 1 6 7 2 1 0 1 2 -11
+p46
+aVAron Baynes DET 04/05/2016 DET @ MIA L 14 10 4 6 66.7 0 0 - 2 2 100.0 3 3 6 0 1 0 0 0 -6
+p47
+aVKentavious Caldwell-Pope DET 04/05/2016 DET @ MIA L 25 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 0 0 0 2 4 -13
+p48
+aVMarcus Morris DET 04/05/2016 DET @ MIA L 28 1 0 7 0.0 0 3 0.0 1 2 50.0 1 3 4 2 2 0 6 2 -13
+p49
+aVSpencer Dinwiddie DET 04/05/2016 DET @ MIA L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 2 1 -1
+p50
+aVReggie Bullock DET 04/05/2016 DET @ MIA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p51
+aVAndre Drummond DET 04/02/2016 DET @ CHI W 28 11 5 10 50.0 0 0 - 1 10 10.0 3 8 11 4 2 0 1 1 -2
+p52
+aVSteve Blake DET 04/02/2016 DET @ CHI W 13 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 3 1 0 0 0 8
+p53
+aVStanley Johnson DET 04/02/2016 DET @ CHI W 16 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 7
+p54
+aVTobias Harris DET 04/02/2016 DET @ CHI W 38 21 9 17 52.9 1 3 33.3 2 2 100.0 1 6 7 4 2 1 1 3 -2
+p55
+aVKentavious Caldwell-Pope DET 04/02/2016 DET @ CHI W 40 13 4 10 40.0 2 4 50.0 3 5 60.0 0 6 6 0 0 0 1 1 4
+p56
+aVReggie Jackson DET 04/02/2016 DET @ CHI W 35 22 6 17 35.3 2 3 66.7 8 10 80.0 2 2 4 4 1 0 6 3 -4
+p57
+aVAron Baynes DET 04/02/2016 DET @ CHI W 20 2 0 0 - 0 0 - 2 2 100.0 0 6 6 0 0 0 1 1 6
+p58
+aVAnthony Tolliver DET 04/02/2016 DET @ CHI W 10 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 0 6
+p59
+aVMarcus Morris DET 04/02/2016 DET @ CHI W 39 16 5 11 45.5 2 4 50.0 4 5 80.0 1 3 4 2 1 1 0 5 -3
+p60
+aVStanley Johnson DET 04/01/2016 DET vs. DAL L 14 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 1 0 0 1 1 -6
+p61
+aVSteve Blake DET 04/01/2016 DET vs. DAL L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 6 0 0 0 0 -17
+p62
+aVKentavious Caldwell-Pope DET 04/01/2016 DET vs. DAL L 45 15 3 9 33.3 3 7 42.9 6 6 100.0 1 1 2 1 0 0 0 2 -3
+p63
+aVAron Baynes DET 04/01/2016 DET vs. DAL L 13 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -25
+p64
+aVAndre Drummond DET 04/01/2016 DET vs. DAL L 35 12 5 15 33.3 0 0 - 2 10 20.0 5 12 17 1 1 0 0 2 16
+p65
+aVTobias Harris DET 04/01/2016 DET vs. DAL L 40 14 6 13 46.2 1 4 25.0 1 2 50.0 0 5 5 0 0 2 2 2 -15
+p66
+aVMarcus Morris DET 04/01/2016 DET vs. DAL L 40 31 12 17 70.6 6 8 75.0 1 2 50.0 2 10 12 4 1 2 0 2 12
+p67
+aVReggie Jackson DET 04/01/2016 DET vs. DAL L 32 11 3 15 20.0 1 7 14.3 4 4 100.0 1 4 5 10 2 0 6 5 8
+p68
+aVAnthony Tolliver DET 04/01/2016 DET vs. DAL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -15
+p69
+aVAron Baynes DET 03/29/2016 DET vs. OKC W 18 4 1 6 16.7 0 0 - 2 2 100.0 3 6 9 0 0 0 0 3 -6
+p70
+aVStanley Johnson DET 03/29/2016 DET vs. OKC W 18 7 3 6 50.0 1 2 50.0 0 1 0.0 1 2 3 1 0 0 3 2 -15
+p71
+aVAndre Drummond DET 03/29/2016 DET vs. OKC W 34 13 6 9 66.7 0 0 - 1 2 50.0 5 10 15 0 2 2 5 3 11
+p72
+aVAnthony Tolliver DET 03/29/2016 DET vs. OKC W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p73
+aVMarcus Morris DET 03/29/2016 DET vs. OKC W 38 24 9 13 69.2 1 1 100.0 5 5 100.0 1 6 7 2 0 1 1 2 22
+p74
+aVKentavious Caldwell-Pope DET 03/29/2016 DET vs. OKC W 38 8 3 16 18.8 0 5 0.0 2 2 100.0 4 3 7 6 1 0 2 2 13
+p75
+aVDarrun Hilliard DET 03/29/2016 DET vs. OKC W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p76
+aVSteve Blake DET 03/29/2016 DET vs. OKC W 20 0 0 5 0.0 0 4 0.0 0 0 - 0 3 3 2 1 0 0 0 -9
+p77
+aVReggie Jackson DET 03/29/2016 DET vs. OKC W 28 13 4 15 26.7 1 5 20.0 4 4 100.0 0 1 1 6 1 1 4 4 15
+p78
+aVTobias Harris DET 03/29/2016 DET vs. OKC W 35 17 6 14 42.9 1 1 100.0 4 4 100.0 2 5 7 3 1 0 1 2 5
+p79
+aVAron Baynes DET 03/26/2016 DET vs. ATL L 17 15 5 6 83.3 0 0 - 5 6 83.3 3 4 7 0 0 0 0 1 -11
+p80
+aVSteve Blake DET 03/26/2016 DET vs. ATL L 18 3 1 4 25.0 0 2 0.0 1 2 50.0 1 2 3 6 1 0 1 1 1
+p81
+aVAnthony Tolliver DET 03/26/2016 DET vs. ATL L 14 0 0 4 0.0 0 4 0.0 0 0 - 0 4 4 2 0 0 1 1 -8
+p82
+aVKentavious Caldwell-Pope DET 03/26/2016 DET vs. ATL L 32 9 3 13 23.1 2 7 28.6 1 2 50.0 0 1 1 1 1 0 1 3 -11
+p83
+aVReggie Jackson DET 03/26/2016 DET vs. ATL L 30 11 4 12 33.3 2 4 50.0 1 1 100.0 0 1 1 5 0 0 0 4 -18
+p84
+aVMarcus Morris DET 03/26/2016 DET vs. ATL L 39 13 3 12 25.0 2 6 33.3 5 6 83.3 0 5 5 5 0 1 3 0 -19
+p85
+aVDarrun Hilliard DET 03/26/2016 DET vs. ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p86
+aVTobias Harris DET 03/26/2016 DET vs. ATL L 34 21 10 20 50.0 1 3 33.3 0 0 - 2 8 10 5 0 1 2 3 -9
+p87
+aVStanley Johnson DET 03/26/2016 DET vs. ATL L 24 4 1 5 20.0 0 3 0.0 2 2 100.0 2 3 5 1 0 0 2 0 -4
+p88
+aVAndre Drummond DET 03/26/2016 DET vs. ATL L 31 19 7 11 63.6 0 0 - 5 9 55.6 6 11 17 0 0 2 1 1 -6
+p89
+aVReggie Jackson DET 03/25/2016 DET vs. CHA W 29 17 6 19 31.6 0 5 0.0 5 5 100.0 1 5 6 7 0 0 4 4 1
+p90
+aVSteve Blake DET 03/25/2016 DET vs. CHA W 19 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 5 1 1 2 0 6
+p91
+aVAron Baynes DET 03/25/2016 DET vs. CHA W 19 16 5 8 62.5 0 0 - 6 7 85.7 3 5 8 0 0 0 2 5 -10
+p92
+aVAnthony Tolliver DET 03/25/2016 DET vs. CHA W 20 11 4 9 44.4 3 7 42.9 0 0 - 1 7 8 0 0 1 1 0 2
+p93
+aVKentavious Caldwell-Pope DET 03/25/2016 DET vs. CHA W 37 21 8 13 61.5 2 4 50.0 3 4 75.0 2 5 7 4 2 0 2 1 9
+p94
+aVReggie Bullock DET 03/25/2016 DET vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p95
+aVTobias Harris DET 03/25/2016 DET vs. CHA W 28 7 1 7 14.3 0 4 0.0 5 5 100.0 1 6 7 5 1 1 0 3 5
+p96
+aVAndre Drummond DET 03/25/2016 DET vs. CHA W 29 18 9 14 64.3 0 0 - 0 2 0.0 5 9 14 0 0 3 0 1 17
+p97
+aVStanley Johnson DET 03/25/2016 DET vs. CHA W 22 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 4 16
+p98
+aVMarcus Morris DET 03/25/2016 DET vs. CHA W 35 20 8 14 57.1 3 7 42.9 1 3 33.3 2 5 7 0 0 0 3 3 -3
+p99
+aVAnthony Tolliver DET 03/23/2016 DET vs. ORL W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 0 3
+p100
+aVStanley Johnson DET 03/23/2016 DET vs. ORL W 29 13 4 9 44.4 3 6 50.0 2 2 100.0 1 7 8 2 1 0 5 3 4
+p101
+aVReggie Jackson DET 03/23/2016 DET vs. ORL W 32 16 5 14 35.7 3 6 50.0 3 3 100.0 1 1 2 9 0 0 6 2 16
+p102
+aVMarcus Morris DET 03/23/2016 DET vs. ORL W 38 15 6 11 54.5 2 4 50.0 1 1 100.0 0 5 5 4 2 0 1 3 16
+p103
+aVSteve Blake DET 03/23/2016 DET vs. ORL W 16 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 7 0 0 0 0 0
+p104
+aVTobias Harris DET 03/23/2016 DET vs. ORL W 33 18 7 14 50.0 1 3 33.3 3 3 100.0 1 3 4 3 0 2 0 1 13
+p105
+aVAron Baynes DET 03/23/2016 DET vs. ORL W 13 13 4 5 80.0 0 0 - 5 5 100.0 1 1 2 0 0 1 1 0 5
+p106
+aVAndre Drummond DET 03/23/2016 DET vs. ORL W 35 30 14 20 70.0 0 0 - 2 3 66.7 5 9 14 1 0 2 1 4 11
+p107
+aVDarrun Hilliard DET 03/23/2016 DET vs. ORL W 29 11 2 4 50.0 2 3 66.7 5 8 62.5 0 6 6 3 1 0 1 2 12
+p108
+aVAnthony Tolliver DET 03/21/2016 DET vs. MIL W 16 11 4 9 44.4 3 8 37.5 0 0 - 0 1 1 0 0 1 1 4 10
+p109
+aVAron Baynes DET 03/21/2016 DET vs. MIL W 15 2 1 4 25.0 0 0 - 0 0 - 0 5 5 0 0 1 1 0 4
+p110
+aVStanley Johnson DET 03/21/2016 DET vs. MIL W 16 4 1 6 16.7 0 2 0.0 2 2 100.0 0 0 0 0 2 0 5 4 2
+p111
+aVMarcus Morris DET 03/21/2016 DET vs. MIL W 37 21 8 9 88.9 4 4 100.0 1 3 33.3 0 3 3 4 1 1 1 1 -2
+p112
+aVKentavious Caldwell-Pope DET 03/21/2016 DET vs. MIL W 38 15 6 18 33.3 2 11 18.2 1 2 50.0 2 1 3 3 1 0 1 0 -3
+p113
+aVAndre Drummond DET 03/21/2016 DET vs. MIL W 33 14 7 16 43.8 0 0 - 0 1 0.0 6 10 16 0 1 0 0 0 -3
+p114
+aVTobias Harris DET 03/21/2016 DET vs. MIL W 37 13 4 12 33.3 0 2 0.0 5 5 100.0 2 4 6 2 0 0 0 2 -4
+p115
+aVReggie Jackson DET 03/21/2016 DET vs. MIL W 28 9 3 8 37.5 0 4 0.0 3 3 100.0 0 5 5 5 1 0 3 2 -8
+p116
+aVSteve Blake DET 03/21/2016 DET vs. MIL W 20 3 1 3 33.3 0 2 0.0 1 1 100.0 0 0 0 4 0 0 0 1 9
+p117
+aVStanley Johnson DET 03/19/2016 DET vs. BKN W 31 10 3 6 50.0 1 2 50.0 3 3 100.0 0 7 7 6 4 0 0 3 22
+p118
+aVKentavious Caldwell-Pope DET 03/19/2016 DET vs. BKN W 39 11 5 11 45.5 1 4 25.0 0 0 - 0 4 4 8 0 0 2 2 17
+p119
+aVAndre Drummond DET 03/19/2016 DET vs. BKN W 29 16 8 14 57.1 0 0 - 0 6 0.0 3 6 9 0 0 0 1 2 3
+p120
+aVTobias Harris DET 03/19/2016 DET vs. BKN W 24 13 6 14 42.9 1 2 50.0 0 0 - 3 3 6 2 0 1 0 0 -4
+p121
+aVMarcus Morris DET 03/19/2016 DET vs. BKN W 24 9 4 8 50.0 1 2 50.0 0 0 - 2 1 3 2 0 1 1 2 -10
+p122
+aVReggie Jackson DET 03/19/2016 DET vs. BKN W 25 14 6 14 42.9 2 4 50.0 0 0 - 0 0 0 4 0 0 0 0 -14
+p123
+aVReggie Bullock DET 03/19/2016 DET vs. BKN W 9 4 0 1 0.0 0 1 0.0 4 4 100.0 0 2 2 1 1 1 0 0 -5
+p124
+aVAnthony Tolliver DET 03/19/2016 DET vs. BKN W 17 17 6 9 66.7 4 7 57.1 1 3 33.3 2 2 4 2 0 0 0 2 16
+p125
+aVSteve Blake DET 03/19/2016 DET vs. BKN W 23 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 4 0 0 2 1 26
+p126
+aVAron Baynes DET 03/19/2016 DET vs. BKN W 19 21 8 13 61.5 0 0 - 5 5 100.0 5 2 7 1 0 1 0 5 9
+p127
+aVReggie Jackson DET 03/18/2016 DET vs. SAC W 34 19 8 23 34.8 1 4 25.0 2 2 100.0 2 5 7 9 0 0 5 4 12
+p128
+aVKentavious Caldwell-Pope DET 03/18/2016 DET vs. SAC W 37 23 8 16 50.0 3 6 50.0 4 4 100.0 3 3 6 2 2 0 2 4 10
+p129
+aVAron Baynes DET 03/18/2016 DET vs. SAC W 20 9 3 8 37.5 0 0 - 3 4 75.0 4 5 9 0 0 2 0 2 -4
+p130
+aVAndre Drummond DET 03/18/2016 DET vs. SAC W 28 14 7 9 77.8 0 0 - 0 1 0.0 4 7 11 1 2 3 2 5 11
+p131
+aVTobias Harris DET 03/18/2016 DET vs. SAC W 35 17 6 14 42.9 1 4 25.0 4 4 100.0 0 5 5 3 0 0 1 3 17
+p132
+aVReggie Bullock DET 03/18/2016 DET vs. SAC W 11 3 1 1 100.0 1 1 100.0 0 0 - 1 4 5 0 0 0 0 0 -3
+p133
+aVStanley Johnson DET 03/18/2016 DET vs. SAC W 22 6 3 7 42.9 0 3 0.0 0 1 0.0 1 1 2 1 1 1 1 3 -10
+p134
+aVMarcus Morris DET 03/18/2016 DET vs. SAC W 39 24 8 13 61.5 6 7 85.7 2 2 100.0 0 3 3 2 2 0 3 1 7
+p135
+aVSteve Blake DET 03/18/2016 DET vs. SAC W 14 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 7 0 0 1 0 -5
+p136
+aVKentavious Caldwell-Pope DET 03/16/2016 DET vs. ATL L 39 24 7 15 46.7 3 8 37.5 7 9 77.8 0 4 4 0 1 2 2 2 -4
+p137
+aVAnthony Tolliver DET 03/16/2016 DET vs. ATL L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p138
+aVMarcus Morris DET 03/16/2016 DET vs. ATL L 37 14 5 10 50.0 1 2 50.0 3 3 100.0 1 3 4 2 1 0 2 5 -7
+p139
+aVTobias Harris DET 03/16/2016 DET vs. ATL L 34 19 6 12 50.0 2 4 50.0 5 5 100.0 1 10 11 5 0 0 1 3 0
+p140
+aVSteve Blake DET 03/16/2016 DET vs. ATL L 18 6 3 5 60.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 4 -5
+p141
+aVStanley Johnson DET 03/16/2016 DET vs. ATL L 20 7 2 5 40.0 1 1 100.0 2 2 100.0 0 4 4 3 0 0 3 0 1
+p142
+aVAron Baynes DET 03/16/2016 DET vs. ATL L 14 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 1 0 0 1 -3
+p143
+aVAndre Drummond DET 03/16/2016 DET vs. ATL L 34 18 5 12 41.7 0 0 - 8 17 47.1 5 13 18 0 0 1 2 3 1
+p144
+aVReggie Jackson DET 03/16/2016 DET vs. ATL L 30 17 7 17 41.2 0 6 0.0 3 3 100.0 0 0 0 10 0 1 3 5 1
+p145
+aVAron Baynes DET 03/14/2016 DET @ WAS L 17 4 1 2 50.0 0 0 - 2 4 50.0 3 2 5 1 0 2 2 3 -11
+p146
+aVJoel Anthony DET 03/14/2016 DET @ WAS L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p147
+aVMarcus Morris DET 03/14/2016 DET @ WAS L 22 9 3 5 60.0 1 2 50.0 2 4 50.0 0 5 5 2 1 0 2 0 -21
+p148
+aVTobias Harris DET 03/14/2016 DET @ WAS L 23 8 3 10 30.0 0 4 0.0 2 2 100.0 0 1 1 2 0 0 1 1 -27
+p149
+aVStanley Johnson DET 03/14/2016 DET @ WAS L 26 4 2 11 18.2 0 4 0.0 0 0 - 0 6 6 4 2 1 1 2 -22
+p150
+aVKentavious Caldwell-Pope DET 03/14/2016 DET @ WAS L 30 18 8 13 61.5 0 1 0.0 2 4 50.0 1 2 3 0 0 0 0 1 -27
+p151
+aVAnthony Tolliver DET 03/14/2016 DET @ WAS L 20 2 1 4 25.0 0 3 0.0 0 0 - 0 4 4 1 0 0 0 0 -12
+p152
+aVAndre Drummond DET 03/14/2016 DET @ WAS L 27 7 3 9 33.3 0 0 - 1 2 50.0 5 7 12 2 1 0 3 4 -28
+p153
+aVDarrun Hilliard DET 03/14/2016 DET @ WAS L 12 10 3 5 60.0 0 1 0.0 4 4 100.0 0 0 0 0 0 0 0 0 -13
+p154
+aVReggie Jackson DET 03/14/2016 DET @ WAS L 20 8 3 7 42.9 1 3 33.3 1 2 50.0 0 1 1 1 0 1 5 5 -24
+p155
+aVReggie Bullock DET 03/14/2016 DET @ WAS L 11 6 3 5 60.0 0 2 0.0 0 0 - 1 0 1 1 1 0 0 0 -7
+p156
+aVSteve Blake DET 03/14/2016 DET @ WAS L 28 3 1 7 14.3 1 3 33.3 0 0 - 1 0 1 3 0 0 5 3 -19
+p157
+aVSteve Blake DET 03/12/2016 DET @ PHI W 18 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 2 2 0 2 3 -3
+p158
+aVAndre Drummond DET 03/12/2016 DET @ PHI W 35 19 8 12 66.7 0 0 - 3 4 75.0 3 12 15 1 1 0 2 4 7
+p159
+aVStanley Johnson DET 03/12/2016 DET @ PHI W 14 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 0 0 1 0 -9
+p160
+aVKentavious Caldwell-Pope DET 03/12/2016 DET @ PHI W 40 23 9 21 42.9 1 4 25.0 4 5 80.0 2 2 4 6 2 0 3 2 18
+p161
+aVAron Baynes DET 03/12/2016 DET @ PHI W 13 7 3 6 50.0 0 0 - 1 2 50.0 3 4 7 0 0 2 0 0 7
+p162
+aVTobias Harris DET 03/12/2016 DET @ PHI W 33 21 8 12 66.7 2 3 66.7 3 3 100.0 1 7 8 1 0 0 3 3 13
+p163
+aVMarcus Morris DET 03/12/2016 DET @ PHI W 40 19 7 15 46.7 3 4 75.0 2 2 100.0 0 7 7 4 0 1 0 3 12
+p164
+aVAnthony Tolliver DET 03/12/2016 DET @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p165
+aVReggie Bullock DET 03/12/2016 DET @ PHI W 17 8 4 7 57.1 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 5
+p166
+aVReggie Jackson DET 03/12/2016 DET @ PHI W 30 24 8 11 72.7 3 4 75.0 5 6 83.3 1 2 3 10 1 0 2 4 17
+p167
+aVKentavious Caldwell-Pope DET 03/11/2016 DET @ CHA L 38 24 9 16 56.3 2 4 50.0 4 4 100.0 1 1 2 0 1 0 3 2 -16
+p168
+aVStanley Johnson DET 03/11/2016 DET @ CHA L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p169
+aVAnthony Tolliver DET 03/11/2016 DET @ CHA L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 5
+p170
+aVSteve Blake DET 03/11/2016 DET @ CHA L 17 5 2 5 40.0 1 4 25.0 0 0 - 0 3 3 2 0 0 0 1 1
+p171
+aVMarcus Morris DET 03/11/2016 DET @ CHA L 31 13 5 11 45.5 1 4 25.0 2 4 50.0 0 4 4 1 1 0 3 5 -13
+p172
+aVDarrun Hilliard DET 03/11/2016 DET @ CHA L 3 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 3
+p173
+aVReggie Bullock DET 03/11/2016 DET @ CHA L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 1 -3
+p174
+aVTobias Harris DET 03/11/2016 DET @ CHA L 35 20 6 14 42.9 2 5 40.0 6 6 100.0 0 5 5 1 3 0 2 2 -14
+p175
+aVAndre Drummond DET 03/11/2016 DET @ CHA L 23 5 1 1 100.0 0 0 - 3 6 50.0 2 7 9 0 0 1 2 4 -12
+p176
+aVAron Baynes DET 03/11/2016 DET @ CHA L 25 8 3 6 50.0 0 0 - 2 2 100.0 0 6 6 2 0 3 0 2 -3
+p177
+aVReggie Jackson DET 03/11/2016 DET @ CHA L 31 20 7 15 46.7 2 9 22.2 4 4 100.0 0 2 2 10 0 0 2 2 -16
+p178
+aVSteve Blake DET 03/09/2016 DET @ DAL W 19 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 4 1 0 2 1 10
+p179
+aVKentavious Caldwell-Pope DET 03/09/2016 DET @ DAL W 40 14 5 16 31.3 1 8 12.5 3 3 100.0 2 3 5 3 3 0 1 2 -7
+p180
+aVTobias Harris DET 03/09/2016 DET @ DAL W 39 19 6 11 54.5 2 6 33.3 5 5 100.0 1 6 7 5 1 0 2 2 1
+p181
+aVReggie Bullock DET 03/09/2016 DET @ DAL W 26 5 2 6 33.3 1 3 33.3 0 0 - 2 6 8 0 0 0 2 1 12
+p182
+aVReggie Jackson DET 03/09/2016 DET @ DAL W 29 11 4 13 30.8 2 3 66.7 1 3 33.3 3 1 4 4 0 0 0 2 -4
+p183
+aVMarcus Morris DET 03/09/2016 DET @ DAL W 39 20 8 16 50.0 2 6 33.3 2 3 66.7 0 7 7 2 1 0 1 1 12
+p184
+aVAndre Drummond DET 03/09/2016 DET @ DAL W 34 25 10 19 52.6 0 0 - 5 14 35.7 6 11 17 1 1 1 3 3 0
+p185
+aVAron Baynes DET 03/09/2016 DET @ DAL W 14 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 2 0 2 6
+p186
+aVTobias Harris DET 03/06/2016 DET vs. POR W 39 16 7 12 58.3 2 3 66.7 0 0 - 0 5 5 5 2 0 4 4 29
+p187
+aVJustin Harper DET 03/06/2016 DET vs. POR W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p188
+aVAron Baynes DET 03/06/2016 DET vs. POR W 20 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 6
+p189
+aVJoel Anthony DET 03/06/2016 DET vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p190
+aVDarrun Hilliard DET 03/06/2016 DET vs. POR W 7 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 1 0 0 0 -3
+p191
+aVKentavious Caldwell-Pope DET 03/06/2016 DET vs. POR W 37 16 4 12 33.3 1 3 33.3 7 8 87.5 2 5 7 2 1 0 0 4 22
+p192
+aVSteve Blake DET 03/06/2016 DET vs. POR W 14 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 2 0 0 2 2 -5
+p193
+aVMarcus Morris DET 03/06/2016 DET vs. POR W 34 19 5 14 35.7 2 4 50.0 7 9 77.8 1 2 3 0 0 0 2 1 5
+p194
+aVAndre Drummond DET 03/06/2016 DET vs. POR W 27 14 7 11 63.6 0 0 - 0 2 0.0 4 14 18 1 1 1 1 4 14
+p195
+aVReggie Bullock DET 03/06/2016 DET vs. POR W 26 11 3 3 100.0 3 3 100.0 2 2 100.0 2 5 7 2 0 0 0 2 7
+p196
+aVReggie Jackson DET 03/06/2016 DET vs. POR W 34 30 11 19 57.9 1 4 25.0 7 7 100.0 0 1 1 9 2 0 1 3 25
+p197
+aVReggie Jackson DET 03/05/2016 DET @ NYK L 28 8 3 17 17.6 0 6 0.0 2 2 100.0 0 2 2 6 1 1 4 2 -9
+p198
+aVTobias Harris DET 03/05/2016 DET @ NYK L 36 18 6 12 50.0 0 2 0.0 6 8 75.0 1 7 8 1 0 0 1 3 -13
+p199
+aVMarcus Morris DET 03/05/2016 DET @ NYK L 27 5 2 11 18.2 1 5 20.0 0 0 - 0 1 1 1 0 0 0 4 -15
+p200
+aVSteve Blake DET 03/05/2016 DET @ NYK L 20 13 5 8 62.5 3 5 60.0 0 0 - 0 4 4 2 0 0 1 1 -4
+p201
+aVKentavious Caldwell-Pope DET 03/05/2016 DET @ NYK L 37 8 3 9 33.3 0 2 0.0 2 2 100.0 2 3 5 0 3 0 0 2 -5
+p202
+aVDarrun Hilliard DET 03/05/2016 DET @ NYK L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p203
+aVAndre Drummond DET 03/05/2016 DET @ NYK L 36 21 10 20 50.0 0 0 - 1 3 33.3 9 7 16 0 1 0 2 3 -10
+p204
+aVJustin Harper DET 03/05/2016 DET @ NYK L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p205
+aVAron Baynes DET 03/05/2016 DET @ NYK L 12 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -3
+p206
+aVReggie Bullock DET 03/05/2016 DET @ NYK L 24 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 3 1 0 0 2 0
+p207
+aVAndre Drummond DET 03/02/2016 DET @ SAS L 27 9 4 6 66.7 0 0 - 1 8 12.5 4 10 14 1 1 1 3 4 -12
+p208
+aVReggie Bullock DET 03/02/2016 DET @ SAS L 21 7 2 2 100.0 1 1 100.0 2 3 66.7 0 5 5 0 0 0 0 1 3
+p209
+aVAron Baynes DET 03/02/2016 DET @ SAS L 26 12 5 8 62.5 0 0 - 2 2 100.0 2 4 6 1 0 0 2 3 -10
+p210
+aVSteve Blake DET 03/02/2016 DET @ SAS L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 4 0 0 2 1 0
+p211
+aVMarcus Morris DET 03/02/2016 DET @ SAS L 32 16 6 15 40.0 2 5 40.0 2 2 100.0 0 4 4 2 0 0 2 2 -13
+p212
+aVKentavious Caldwell-Pope DET 03/02/2016 DET @ SAS L 36 4 1 10 10.0 0 4 0.0 2 3 66.7 0 2 2 3 1 0 1 1 -14
+p213
+aVReggie Jackson DET 03/02/2016 DET @ SAS L 31 11 4 13 30.8 0 2 0.0 3 3 100.0 0 3 3 3 1 0 4 0 -16
+p214
+aVTobias Harris DET 03/02/2016 DET @ SAS L 38 16 7 16 43.8 1 2 50.0 1 2 50.0 1 5 6 4 0 0 1 1 -18
+p215
+aVDarrun Hilliard DET 03/02/2016 DET @ SAS L 12 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 0
+p216
+aVSteve Blake DET 02/28/2016 DET vs. TOR W 20 10 2 3 66.7 2 3 66.7 4 4 100.0 0 0 0 5 0 0 5 2 -6
+p217
+aVAron Baynes DET 02/28/2016 DET vs. TOR W 14 9 3 3 100.0 0 0 - 3 4 75.0 1 3 4 1 0 1 1 2 7
+p218
+aVDarrun Hilliard DET 02/28/2016 DET vs. TOR W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -22
+p219
+aVReggie Jackson DET 02/28/2016 DET vs. TOR W 28 19 7 12 58.3 1 2 50.0 4 4 100.0 0 1 1 8 0 0 2 3 19
+p220
+aVTobias Harris DET 02/28/2016 DET vs. TOR W 25 14 5 9 55.6 2 3 66.7 2 2 100.0 1 6 7 1 0 0 0 2 21
+p221
+aVMarcus Morris DET 02/28/2016 DET vs. TOR W 32 14 5 10 50.0 1 3 33.3 3 4 75.0 1 3 4 4 0 0 0 1 22
+p222
+aVAndre Drummond DET 02/28/2016 DET vs. TOR W 30 15 6 10 60.0 0 0 - 3 8 37.5 4 14 18 2 1 0 0 1 19
+p223
+aVJustin Harper DET 02/28/2016 DET vs. TOR W 16 9 3 6 50.0 3 5 60.0 0 0 - 0 1 1 0 0 0 1 1 -17
+p224
+aVKentavious Caldwell-Pope DET 02/28/2016 DET vs. TOR W 36 16 7 10 70.0 1 2 50.0 1 1 100.0 0 1 1 5 1 0 1 2 30
+p225
+aVReggie Bullock DET 02/28/2016 DET vs. TOR W 26 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 2 0 0 0 2 5
+p226
+aVJoel Anthony DET 02/28/2016 DET vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -13
+p227
+aVMarcus Morris DET 02/27/2016 DET @ MIL W 41 20 8 14 57.1 3 6 50.0 1 2 50.0 2 6 8 2 0 0 4 1 19
+p228
+aVAndre Drummond DET 02/27/2016 DET @ MIL W 34 15 7 17 41.2 0 0 - 1 6 16.7 7 10 17 2 4 2 1 3 6
+p229
+aVReggie Bullock DET 02/27/2016 DET @ MIL W 18 8 3 8 37.5 2 4 50.0 0 0 - 2 2 4 0 2 0 0 2 -2
+p230
+aVReggie Jackson DET 02/27/2016 DET @ MIL W 31 22 6 10 60.0 1 4 25.0 9 10 90.0 0 2 2 8 2 0 2 5 13
+p231
+aVSteve Blake DET 02/27/2016 DET @ MIL W 17 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 4 1 0 1 2 -2
+p232
+aVJustin Harper DET 02/27/2016 DET @ MIL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p233
+aVTobias Harris DET 02/27/2016 DET @ MIL W 35 15 5 14 35.7 2 3 66.7 3 4 75.0 1 3 4 4 1 0 1 1 10
+p234
+aVKentavious Caldwell-Pope DET 02/27/2016 DET @ MIL W 35 12 5 11 45.5 2 7 28.6 0 0 - 1 2 3 2 2 0 0 1 5
+p235
+aVAron Baynes DET 02/27/2016 DET @ MIL W 14 2 1 5 20.0 0 0 - 0 0 - 4 1 5 1 1 0 0 2 5
+p236
+aVDarrun Hilliard DET 02/27/2016 DET @ MIL W 13 8 2 4 50.0 2 2 100.0 2 2 100.0 0 1 1 1 0 0 1 1 6
+p237
+aVReggie Jackson DET 02/24/2016 DET vs. PHI W 26 17 5 11 45.5 1 4 25.0 6 6 100.0 0 3 3 5 2 0 5 1 17
+p238
+aVMarcus Morris DET 02/24/2016 DET vs. PHI W 32 13 4 14 28.6 2 6 33.3 3 4 75.0 0 4 4 8 3 0 1 1 26
+p239
+aVJoel Anthony DET 02/24/2016 DET vs. PHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p240
+aVJustin Harper DET 02/24/2016 DET vs. PHI W 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 1 0 -7
+p241
+aVSteve Blake DET 02/24/2016 DET vs. PHI W 22 4 1 3 33.3 1 3 33.3 1 2 50.0 0 2 2 5 0 0 3 4 3
+p242
+aVAron Baynes DET 02/24/2016 DET vs. PHI W 20 9 4 8 50.0 0 0 - 1 3 33.3 4 3 7 1 2 0 0 0 11
+p243
+aVReggie Bullock DET 02/24/2016 DET vs. PHI W 26 16 6 9 66.7 3 5 60.0 1 1 100.0 0 1 1 0 1 0 2 4 1
+p244
+aVAndre Drummond DET 02/24/2016 DET vs. PHI W 27 12 4 7 57.1 0 0 - 4 8 50.0 4 14 18 0 0 1 2 3 16
+p245
+aVKentavious Caldwell-Pope DET 02/24/2016 DET vs. PHI W 30 11 4 7 57.1 2 3 66.7 1 2 50.0 0 1 1 0 0 0 1 3 21
+p246
+aVDarrun Hilliard DET 02/24/2016 DET vs. PHI W 18 6 2 10 20.0 1 4 25.0 1 2 50.0 1 4 5 1 1 0 0 1 -1
+p247
+aVTobias Harris DET 02/24/2016 DET vs. PHI W 30 22 9 12 75.0 1 2 50.0 3 4 75.0 1 7 8 2 0 0 1 1 18
+p248
+aVStanley Johnson DET 02/22/2016 DET @ CLE W 22 10 4 9 44.4 1 4 25.0 1 1 100.0 2 2 4 1 0 1 1 0 4
+p249
+aVSteve Blake DET 02/22/2016 DET @ CLE W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 -3
+p250
+aVReggie Jackson DET 02/22/2016 DET @ CLE W 33 23 9 17 52.9 3 5 60.0 2 2 100.0 0 3 3 4 3 0 4 1 11
+p251
+aVDarrun Hilliard DET 02/22/2016 DET @ CLE W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 3 1 4
+p252
+aVKentavious Caldwell-Pope DET 02/22/2016 DET @ CLE W 37 19 8 10 80.0 2 3 66.7 1 2 50.0 0 4 4 0 2 0 0 0 4
+p253
+aVAron Baynes DET 02/22/2016 DET @ CLE W 13 0 0 3 0.0 0 0 - 0 0 - 0 6 6 0 0 1 1 2 1
+p254
+aVAndre Drummond DET 02/22/2016 DET @ CLE W 35 16 4 8 50.0 0 0 - 8 14 57.1 3 12 15 1 2 1 2 4 7
+p255
+aVTobias Harris DET 02/22/2016 DET @ CLE W 35 14 6 14 42.9 1 5 20.0 1 1 100.0 1 4 5 3 3 0 1 5 16
+p256
+aVMarcus Morris DET 02/22/2016 DET @ CLE W 40 14 6 16 37.5 1 6 16.7 1 1 100.0 0 2 2 4 0 0 0 0 -4
+p257
+aVStanley Johnson DET 02/21/2016 DET vs. NOP L 22 6 2 5 40.0 1 1 100.0 1 2 50.0 1 7 8 2 0 0 2 2 1
+p258
+aVKentavious Caldwell-Pope DET 02/21/2016 DET vs. NOP L 34 14 4 15 26.7 2 8 25.0 4 5 80.0 1 2 3 0 4 0 2 3 -7
+p259
+aVMarcus Morris DET 02/21/2016 DET vs. NOP L 34 2 1 7 14.3 0 3 0.0 0 0 - 0 4 4 3 0 0 3 2 -3
+p260
+aVSteve Blake DET 02/21/2016 DET vs. NOP L 17 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 5 0 0 1 2 -4
+p261
+aVTobias Harris DET 02/21/2016 DET vs. NOP L 35 16 6 17 35.3 2 6 33.3 2 3 66.7 0 5 5 2 1 2 1 3 -4
+p262
+aVAron Baynes DET 02/21/2016 DET vs. NOP L 13 4 1 3 33.3 0 0 - 2 4 50.0 0 0 0 0 0 1 0 3 2
+p263
+aVAndre Drummond DET 02/21/2016 DET vs. NOP L 35 21 9 13 69.2 0 0 - 3 10 30.0 7 7 14 1 2 3 0 4 -7
+p264
+aVAnthony Tolliver DET 02/21/2016 DET vs. NOP L 8 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 1 0 0 1 -3
+p265
+aVReggie Jackson DET 02/21/2016 DET vs. NOP L 31 34 11 20 55.0 4 7 57.1 8 8 100.0 2 2 4 4 0 0 1 4 -1
+p266
+aVDarrun Hilliard DET 02/21/2016 DET vs. NOP L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 1 0 1 1 1
+p267
+aVAndre Drummond DET 02/19/2016 DET @ WAS L 34 11 4 10 40.0 0 1 0.0 3 6 50.0 0 13 13 1 2 1 1 3 -24
+p268
+aVDarrun Hilliard DET 02/19/2016 DET @ WAS L 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 4
+p269
+aVReggie Jackson DET 02/19/2016 DET @ WAS L 32 16 7 18 38.9 1 3 33.3 1 1 100.0 2 1 3 5 0 1 3 1 -13
+p270
+aVStanley Johnson DET 02/19/2016 DET @ WAS L 22 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 1 0 0 2 3 -15
+p271
+aVAnthony Tolliver DET 02/19/2016 DET @ WAS L 18 6 2 6 33.3 2 5 40.0 0 0 - 1 2 3 0 0 0 1 3 -4
+p272
+aVSteve Blake DET 02/19/2016 DET @ WAS L 16 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 3 0 0 1 1 1
+p273
+aVKentavious Caldwell-Pope DET 02/19/2016 DET @ WAS L 32 4 1 11 9.1 0 5 0.0 2 2 100.0 0 3 3 0 0 0 0 1 -11
+p274
+aVMarcus Morris DET 02/19/2016 DET @ WAS L 36 9 4 12 33.3 1 3 33.3 0 1 0.0 2 4 6 3 0 0 2 2 -8
+p275
+aVTobias Harris DET 02/19/2016 DET @ WAS L 30 21 9 12 75.0 1 2 50.0 2 2 100.0 1 3 4 0 0 0 2 2 -6
+p276
+aVReggie Bullock DET 02/19/2016 DET @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p277
+aVAron Baynes DET 02/19/2016 DET @ WAS L 14 6 3 3 100.0 0 0 - 0 3 0.0 0 6 6 0 0 1 0 3 12
+p278
+aVAnthony Tolliver DET 02/10/2016 DET vs. DEN L 35 6 2 7 28.6 2 6 33.3 0 0 - 1 6 7 1 2 1 1 2 -15
+p279
+aVAndre Drummond DET 02/10/2016 DET vs. DEN L 39 15 7 22 31.8 0 1 0.0 1 1 100.0 5 12 17 2 3 5 1 3 -8
+p280
+aVDarrun Hilliard DET 02/10/2016 DET vs. DEN L 27 9 3 6 50.0 1 2 50.0 2 3 66.7 0 1 1 6 0 0 2 1 1
+p281
+aVStanley Johnson DET 02/10/2016 DET vs. DEN L 37 11 5 16 31.3 0 4 0.0 1 1 100.0 1 4 5 5 0 0 4 5 -17
+p282
+aVAron Baynes DET 02/10/2016 DET vs. DEN L 19 10 5 7 71.4 0 1 0.0 0 0 - 0 7 7 0 0 2 1 1 3
+p283
+aVMarcus Morris DET 02/10/2016 DET vs. DEN L 35 19 8 15 53.3 1 2 50.0 2 2 100.0 0 2 2 6 0 0 2 2 -8
+p284
+aVSteve Blake DET 02/10/2016 DET vs. DEN L 19 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 1 3 0
+p285
+aVBrandon Jennings DET 02/10/2016 DET vs. DEN L 29 16 6 12 50.0 4 8 50.0 0 0 - 0 3 3 1 0 0 2 2 -11
+p286
+aVAron Baynes DET 02/08/2016 DET vs. TOR L 18 10 4 7 57.1 0 0 - 2 2 100.0 5 1 6 3 0 1 2 1 -11
+p287
+aVDarrun Hilliard DET 02/08/2016 DET vs. TOR L 25 13 6 12 50.0 1 4 25.0 0 0 - 0 0 0 1 2 0 0 2 -4
+p288
+aVErsan Ilyasova DET 02/08/2016 DET vs. TOR L 28 17 7 12 58.3 2 5 40.0 1 2 50.0 1 5 6 0 0 0 1 2 -4
+p289
+aVStanley Johnson DET 02/08/2016 DET vs. TOR L 34 5 2 9 22.2 1 4 25.0 0 0 - 1 4 5 3 0 0 1 3 -12
+p290
+aVAnthony Tolliver DET 02/08/2016 DET vs. TOR L 20 5 2 6 33.3 1 5 20.0 0 0 - 0 3 3 0 0 0 0 0 -10
+p291
+aVBrandon Jennings DET 02/08/2016 DET vs. TOR L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 1 0 1 0 -7
+p292
+aVAndre Drummond DET 02/08/2016 DET vs. TOR L 30 12 4 10 40.0 1 1 100.0 3 8 37.5 3 10 13 2 1 0 2 3 -3
+p293
+aVMarcus Morris DET 02/08/2016 DET vs. TOR L 37 14 5 7 71.4 2 4 50.0 2 4 50.0 1 4 5 6 3 1 3 2 -12
+p294
+aVReggie Jackson DET 02/08/2016 DET vs. TOR L 29 13 6 14 42.9 0 3 0.0 1 1 100.0 0 1 1 5 0 0 6 5 -7
+p295
+aVBrandon Jennings DET 02/06/2016 DET @ IND L 16 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 2 1 0 1 2 -2
+p296
+aVDarrun Hilliard DET 02/06/2016 DET @ IND L 21 9 3 6 50.0 2 4 50.0 1 3 33.3 0 1 1 1 0 0 1 4 10
+p297
+aVAndre Drummond DET 02/06/2016 DET @ IND L 37 10 4 7 57.1 0 0 - 2 8 25.0 3 10 13 1 1 2 6 3 -6
+p298
+aVStanley Johnson DET 02/06/2016 DET @ IND L 38 14 6 13 46.2 0 3 0.0 2 2 100.0 2 8 10 3 1 0 2 6 -8
+p299
+aVReggie Bullock DET 02/06/2016 DET @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p300
+aVReggie Jackson DET 02/06/2016 DET @ IND L 32 26 10 15 66.7 3 4 75.0 3 4 75.0 0 3 3 2 0 0 1 3 -6
+p301
+aVErsan Ilyasova DET 02/06/2016 DET @ IND L 18 4 1 8 12.5 1 5 20.0 1 2 50.0 0 0 0 0 0 0 1 2 -18
+p302
+aVAron Baynes DET 02/06/2016 DET @ IND L 11 4 1 5 20.0 0 0 - 2 2 100.0 4 1 5 0 0 1 1 1 0
+p303
+aVMarcus Morris DET 02/06/2016 DET @ IND L 34 16 6 11 54.5 1 6 16.7 3 6 50.0 1 1 2 4 1 0 0 5 -20
+p304
+aVAnthony Tolliver DET 02/06/2016 DET @ IND L 30 17 5 9 55.6 5 9 55.6 2 4 50.0 1 3 4 1 3 0 1 0 10
+p305
+aVReggie Jackson DET 02/04/2016 DET vs. NYK W 32 21 6 16 37.5 3 5 60.0 6 10 60.0 0 1 1 5 2 0 1 2 -6
+p306
+aVErsan Ilyasova DET 02/04/2016 DET vs. NYK W 31 12 4 9 44.4 2 5 40.0 2 2 100.0 0 5 5 1 1 0 3 2 -7
+p307
+aVAndre Drummond DET 02/04/2016 DET vs. NYK W 32 17 7 12 58.3 0 0 - 3 9 33.3 3 10 13 0 1 1 4 4 -5
+p308
+aVAnthony Tolliver DET 02/04/2016 DET vs. NYK W 15 3 1 1 100.0 1 1 100.0 0 0 - 1 4 5 0 0 0 0 5 8
+p309
+aVBrandon Jennings DET 02/04/2016 DET vs. NYK W 16 11 4 6 66.7 1 2 50.0 2 2 100.0 0 3 3 2 0 0 2 0 16
+p310
+aVDarrun Hilliard DET 02/04/2016 DET vs. NYK W 15 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 6
+p311
+aVMarcus Morris DET 02/04/2016 DET vs. NYK W 39 13 5 12 41.7 1 2 50.0 2 2 100.0 0 4 4 4 1 0 0 2 -6
+p312
+aVStanley Johnson DET 02/04/2016 DET vs. NYK W 44 22 7 12 58.3 1 2 50.0 7 8 87.5 0 9 9 5 2 1 2 3 11
+p313
+aVAron Baynes DET 02/04/2016 DET vs. NYK W 16 6 3 7 42.9 0 0 - 0 0 - 0 1 1 0 0 1 0 2 13
+p314
+aVAron Baynes DET 02/03/2016 DET @ BOS L 15 4 0 3 0.0 0 0 - 4 6 66.7 2 3 5 0 2 1 0 1 -2
+p315
+aVKentavious Caldwell-Pope DET 02/03/2016 DET @ BOS L 16 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 1 1 0 2 1 -12
+p316
+aVReggie Jackson DET 02/03/2016 DET @ BOS L 33 17 5 9 55.6 3 6 50.0 4 4 100.0 0 1 1 7 0 1 3 4 8
+p317
+aVErsan Ilyasova DET 02/03/2016 DET @ BOS L 26 16 6 11 54.5 2 3 66.7 2 4 50.0 0 2 2 0 0 0 3 1 -1
+p318
+aVBrandon Jennings DET 02/03/2016 DET @ BOS L 20 5 2 8 25.0 0 3 0.0 1 2 50.0 0 2 2 3 0 1 0 2 -14
+p319
+aVDarrun Hilliard DET 02/03/2016 DET @ BOS L 12 4 2 3 66.7 0 1 0.0 0 0 - 1 2 3 1 0 0 0 0 4
+p320
+aVStanley Johnson DET 02/03/2016 DET @ BOS L 30 11 4 13 30.8 3 10 30.0 0 0 - 1 8 9 2 0 0 3 3 -1
+p321
+aVAndre Drummond DET 02/03/2016 DET @ BOS L 33 16 6 11 54.5 0 0 - 4 6 66.7 1 12 13 0 0 2 1 2 -5
+p322
+aVAnthony Tolliver DET 02/03/2016 DET @ BOS L 18 3 1 4 25.0 1 4 25.0 0 0 - 1 3 4 0 0 0 2 2 -8
+p323
+aVMarcus Morris DET 02/03/2016 DET @ BOS L 36 15 4 17 23.5 2 6 33.3 5 6 83.3 2 5 7 4 0 0 2 2 -4
+p324
+aVErsan Ilyasova DET 02/01/2016 DET @ BKN W 31 16 5 12 41.7 1 5 20.0 5 5 100.0 3 3 6 0 2 1 0 0 16
+p325
+aVDarrun Hilliard DET 02/01/2016 DET @ BKN W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -6
+p326
+aVMarcus Morris DET 02/01/2016 DET @ BKN W 32 12 4 11 36.4 1 3 33.3 3 4 75.0 3 3 6 3 0 0 1 3 16
+p327
+aVReggie Jackson DET 02/01/2016 DET @ BKN W 31 19 8 20 40.0 3 6 50.0 0 0 - 2 1 3 6 0 0 1 1 6
+p328
+aVAnthony Tolliver DET 02/01/2016 DET @ BKN W 16 2 1 3 33.3 0 2 0.0 0 0 - 1 3 4 1 0 0 0 1 -12
+p329
+aVStanley Johnson DET 02/01/2016 DET @ BKN W 21 13 5 11 45.5 3 6 50.0 0 0 - 0 1 1 1 1 0 3 2 -12
+p330
+aVKentavious Caldwell-Pope DET 02/01/2016 DET @ BKN W 39 16 7 18 38.9 1 4 25.0 1 1 100.0 1 4 5 0 0 1 0 2 13
+p331
+aVAron Baynes DET 02/01/2016 DET @ BKN W 11 2 1 4 25.0 0 0 - 0 1 0.0 2 2 4 1 1 1 2 3 -6
+p332
+aVAndre Drummond DET 02/01/2016 DET @ BKN W 37 21 10 15 66.7 0 0 - 1 3 33.3 7 11 18 1 1 1 2 3 11
+p333
+aVBrandon Jennings DET 02/01/2016 DET @ BKN W 17 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 5 0 0 0 0 -1
+p334
+aVAron Baynes DET 01/30/2016 DET @ TOR L 20 11 3 7 42.9 0 0 - 5 6 83.3 3 4 7 2 1 2 1 4 14
+p335
+aVAnthony Tolliver DET 01/30/2016 DET @ TOR L 35 5 2 6 33.3 1 5 20.0 0 0 - 1 1 2 0 0 0 1 3 5
+p336
+aVReggie Jackson DET 01/30/2016 DET @ TOR L 28 13 5 11 45.5 0 1 0.0 3 5 60.0 1 0 1 1 1 0 1 3 -19
+p337
+aVMarcus Morris DET 01/30/2016 DET @ TOR L 34 13 6 13 46.2 1 4 25.0 0 0 - 1 2 3 2 2 1 2 0 -5
+p338
+aVBrandon Jennings DET 01/30/2016 DET @ TOR L 22 22 7 14 50.0 5 11 45.5 3 5 60.0 0 4 4 0 2 1 0 3 11
+p339
+aVStanley Johnson DET 01/30/2016 DET @ TOR L 28 12 4 13 30.8 0 2 0.0 4 4 100.0 0 4 4 1 1 0 1 5 -11
+p340
+aVAndre Drummond DET 01/30/2016 DET @ TOR L 28 11 5 9 55.6 0 0 - 1 9 11.1 3 9 12 1 0 2 1 6 -18
+p341
+aVKentavious Caldwell-Pope DET 01/30/2016 DET @ TOR L 34 15 5 11 45.5 1 4 25.0 4 5 80.0 1 3 4 1 2 0 3 2 -8
+p342
+aVDarrun Hilliard DET 01/30/2016 DET @ TOR L 10 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 1 1 0 1 3 11
+p343
+aVReggie Jackson DET 01/29/2016 DET vs. CLE L 32 15 6 16 37.5 0 3 0.0 3 3 100.0 0 2 2 6 0 0 3 0 -14
+p344
+aVMarcus Morris DET 01/29/2016 DET vs. CLE L 30 14 4 10 40.0 1 4 25.0 5 5 100.0 0 2 2 2 1 0 1 4 -11
+p345
+aVAron Baynes DET 01/29/2016 DET vs. CLE L 11 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 0 1 3 9
+p346
+aVErsan Ilyasova DET 01/29/2016 DET vs. CLE L 27 11 4 10 40.0 1 4 25.0 2 2 100.0 1 3 4 0 1 0 1 4 -5
+p347
+aVDarrun Hilliard DET 01/29/2016 DET vs. CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p348
+aVKentavious Caldwell-Pope DET 01/29/2016 DET vs. CLE L 35 19 7 15 46.7 2 4 50.0 3 3 100.0 3 4 7 2 1 1 0 2 -14
+p349
+aVBrandon Jennings DET 01/29/2016 DET vs. CLE L 16 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 1 6
+p350
+aVAndre Drummond DET 01/29/2016 DET vs. CLE L 35 20 9 14 64.3 0 0 - 2 8 25.0 1 7 8 0 1 3 0 4 -21
+p351
+aVStanley Johnson DET 01/29/2016 DET vs. CLE L 30 15 6 10 60.0 1 1 100.0 2 3 66.7 1 3 4 5 1 0 2 4 7
+p352
+aVAnthony Tolliver DET 01/29/2016 DET vs. CLE L 21 8 2 5 40.0 2 5 40.0 2 2 100.0 1 3 4 3 0 0 0 1 -3
+p353
+aVJoel Anthony DET 01/29/2016 DET vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p354
+aVAron Baynes DET 01/27/2016 DET vs. PHI W 12 12 4 6 66.7 0 0 - 4 4 100.0 1 3 4 3 2 0 0 1 10
+p355
+aVErsan Ilyasova DET 01/27/2016 DET vs. PHI W 20 3 1 6 16.7 0 2 0.0 1 2 50.0 4 4 8 0 1 0 1 2 -4
+p356
+aVStanley Johnson DET 01/27/2016 DET vs. PHI W 32 18 8 16 50.0 1 4 25.0 1 2 50.0 2 1 3 3 1 0 1 3 16
+p357
+aVAndre Drummond DET 01/27/2016 DET vs. PHI W 35 25 9 16 56.3 0 0 - 7 12 58.3 9 9 18 0 2 1 2 1 2
+p358
+aVKentavious Caldwell-Pope DET 01/27/2016 DET vs. PHI W 38 14 4 11 36.4 0 3 0.0 6 7 85.7 2 2 4 0 1 1 1 3 7
+p359
+aVAnthony Tolliver DET 01/27/2016 DET vs. PHI W 20 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 0 0 0 1 2 9
+p360
+aVMarcus Morris DET 01/27/2016 DET vs. PHI W 36 10 4 11 36.4 0 3 0.0 2 4 50.0 2 5 7 3 0 0 1 2 12
+p361
+aVReggie Jackson DET 01/27/2016 DET vs. PHI W 31 27 9 18 50.0 4 5 80.0 5 5 100.0 0 2 2 3 1 0 2 4 9
+p362
+aVBrandon Jennings DET 01/27/2016 DET vs. PHI W 17 1 0 4 0.0 0 1 0.0 1 2 50.0 1 1 2 3 1 0 1 1 4
+p363
+aVErsan Ilyasova DET 01/25/2016 DET @ UTA W 23 16 5 9 55.6 2 4 50.0 4 4 100.0 1 7 8 0 0 0 0 4 13
+p364
+aVMarcus Morris DET 01/25/2016 DET @ UTA W 35 2 1 9 11.1 0 3 0.0 0 0 - 1 3 4 4 1 0 0 2 -2
+p365
+aVReggie Jackson DET 01/25/2016 DET @ UTA W 31 29 12 19 63.2 3 4 75.0 2 4 50.0 1 2 3 4 1 0 1 0 7
+p366
+aVStanley Johnson DET 01/25/2016 DET @ UTA W 23 8 3 4 75.0 2 3 66.7 0 2 0.0 0 2 2 2 1 0 2 4 -1
+p367
+aVAndre Drummond DET 01/25/2016 DET @ UTA W 29 7 3 9 33.3 0 0 - 1 10 10.0 0 6 6 0 2 0 2 3 6
+p368
+aVKentavious Caldwell-Pope DET 01/25/2016 DET @ UTA W 38 12 4 8 50.0 0 2 0.0 4 4 100.0 1 6 7 3 1 0 4 2 9
+p369
+aVAnthony Tolliver DET 01/25/2016 DET @ UTA W 25 12 4 8 50.0 4 5 80.0 0 0 - 2 4 6 0 0 0 1 1 -10
+p370
+aVBrandon Jennings DET 01/25/2016 DET @ UTA W 17 1 0 4 0.0 0 1 0.0 1 3 33.3 0 1 1 4 1 0 0 2 -4
+p371
+aVAron Baynes DET 01/25/2016 DET @ UTA W 19 8 2 5 40.0 0 0 - 4 6 66.7 1 4 5 2 0 1 0 0 -3
+p372
+aVReggie Jackson DET 01/23/2016 DET @ DEN L 30 11 4 15 26.7 2 6 33.3 1 2 50.0 0 1 1 8 1 0 3 3 -13
+p373
+aVAron Baynes DET 01/23/2016 DET @ DEN L 30 13 6 7 85.7 0 0 - 1 2 50.0 2 8 10 0 0 2 2 2 -2
+p374
+aVAndre Drummond DET 01/23/2016 DET @ DEN L 18 4 2 5 40.0 0 0 - 0 4 0.0 2 6 8 1 0 1 1 2 -1
+p375
+aVKentavious Caldwell-Pope DET 01/23/2016 DET @ DEN L 35 16 7 16 43.8 1 7 14.3 1 2 50.0 1 3 4 1 0 2 4 2 -21
+p376
+aVErsan Ilyasova DET 01/23/2016 DET @ DEN L 28 9 4 10 40.0 0 2 0.0 1 2 50.0 3 6 9 3 1 0 1 3 -10
+p377
+aVAnthony Tolliver DET 01/23/2016 DET @ DEN L 21 9 2 3 66.7 2 2 100.0 3 3 100.0 0 2 2 1 0 0 0 3 4
+p378
+aVBrandon Jennings DET 01/23/2016 DET @ DEN L 18 5 2 6 33.3 1 3 33.3 0 0 - 2 8 10 4 1 0 1 0 10
+p379
+aVDarrun Hilliard DET 01/23/2016 DET @ DEN L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 5
+p380
+aVStanley Johnson DET 01/23/2016 DET @ DEN L 20 12 5 10 50.0 2 5 40.0 0 0 - 1 3 4 1 0 0 1 2 12
+p381
+aVMarcus Morris DET 01/23/2016 DET @ DEN L 33 20 7 10 70.0 3 4 75.0 3 4 75.0 0 2 2 2 1 0 2 5 1
+p382
+aVKentavious Caldwell-Pope DET 01/21/2016 DET @ NOP L 41 23 9 17 52.9 3 8 37.5 2 2 100.0 1 2 3 0 0 1 2 3 -11
+p383
+aVAndre Drummond DET 01/21/2016 DET @ NOP L 36 19 8 17 47.1 0 1 0.0 3 5 60.0 9 13 22 1 4 0 2 2 -8
+p384
+aVStanley Johnson DET 01/21/2016 DET @ NOP L 20 6 3 6 50.0 0 2 0.0 0 0 - 1 1 2 2 0 0 1 3 1
+p385
+aVAron Baynes DET 01/21/2016 DET @ NOP L 12 6 2 5 40.0 0 0 - 2 2 100.0 1 4 5 0 1 0 1 2 -8
+p386
+aVBrandon Jennings DET 01/21/2016 DET @ NOP L 20 20 6 11 54.5 3 6 50.0 5 6 83.3 0 1 1 5 0 0 1 0 -1
+p387
+aVErsan Ilyasova DET 01/21/2016 DET @ NOP L 37 10 3 10 30.0 0 4 0.0 4 5 80.0 3 1 4 1 0 0 2 1 -10
+p388
+aVReggie Jackson DET 01/21/2016 DET @ NOP L 28 8 4 11 36.4 0 4 0.0 0 0 - 0 0 0 5 0 0 4 3 -15
+p389
+aVAnthony Tolliver DET 01/21/2016 DET @ NOP L 11 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -6
+p390
+aVMarcus Morris DET 01/21/2016 DET @ NOP L 35 4 2 11 18.2 0 2 0.0 0 0 - 3 3 6 2 0 1 2 0 -22
+p391
+aVMarcus Morris DET 01/20/2016 DET @ HOU W 37 22 6 10 60.0 4 6 66.7 6 6 100.0 0 5 5 1 0 1 2 3 -4
+p392
+aVBrandon Jennings DET 01/20/2016 DET @ HOU W 16 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 4 1 0 1 1 6
+p393
+aVAnthony Tolliver DET 01/20/2016 DET @ HOU W 12 7 2 5 40.0 1 4 25.0 2 2 100.0 0 5 5 0 0 1 1 1 3
+p394
+aVAndre Drummond DET 01/20/2016 DET @ HOU W 23 17 2 4 50.0 0 0 - 13 36 36.1 5 6 11 2 1 1 2 2 10
+p395
+aVKentavious Caldwell-Pope DET 01/20/2016 DET @ HOU W 37 22 8 18 44.4 3 9 33.3 3 3 100.0 1 1 2 2 3 0 0 2 8
+p396
+aVAron Baynes DET 01/20/2016 DET @ HOU W 25 8 3 5 60.0 0 0 - 2 2 100.0 2 7 9 1 0 2 0 2 -1
+p397
+aVErsan Ilyasova DET 01/20/2016 DET @ HOU W 33 18 7 14 50.0 2 4 50.0 2 2 100.0 3 3 6 2 1 1 0 2 6
+p398
+aVStanley Johnson DET 01/20/2016 DET @ HOU W 24 7 1 4 25.0 0 2 0.0 5 6 83.3 2 7 9 2 1 1 3 3 14
+p399
+aVReggie Jackson DET 01/20/2016 DET @ HOU W 32 17 7 15 46.7 1 3 33.3 2 2 100.0 1 4 5 9 1 0 1 1 3
+p400
+aVAndre Drummond DET 01/18/2016 DET vs. CHI L 34 13 5 9 55.6 0 0 - 3 10 30.0 6 10 16 2 1 1 2 5 5
+p401
+aVDarrun Hilliard DET 01/18/2016 DET vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p402
+aVMarcus Morris DET 01/18/2016 DET vs. CHI L 38 18 8 16 50.0 0 6 0.0 2 2 100.0 3 3 6 0 1 0 2 2 2
+p403
+aVBrandon Jennings DET 01/18/2016 DET vs. CHI L 16 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 2 0 0 1 0 -17
+p404
+aVErsan Ilyasova DET 01/18/2016 DET vs. CHI L 35 19 8 16 50.0 3 8 37.5 0 0 - 3 8 11 1 1 1 0 2 0
+p405
+aVReggie Jackson DET 01/18/2016 DET vs. CHI L 32 19 8 20 40.0 1 5 20.0 2 3 66.7 3 0 3 6 1 0 1 0 7
+p406
+aVAron Baynes DET 01/18/2016 DET vs. CHI L 14 8 4 6 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -15
+p407
+aVKentavious Caldwell-Pope DET 01/18/2016 DET vs. CHI L 33 14 6 13 46.2 1 1 100.0 1 1 100.0 0 5 5 2 2 0 1 2 1
+p408
+aVAnthony Tolliver DET 01/18/2016 DET vs. CHI L 13 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 4 1 0 0 1 -10
+p409
+aVStanley Johnson DET 01/18/2016 DET vs. CHI L 22 8 2 7 28.6 0 2 0.0 4 4 100.0 3 1 4 1 1 0 4 2 -21
+p410
+aVAron Baynes DET 01/16/2016 DET vs. GSW W 9 12 6 6 100.0 0 0 - 0 0 - 1 3 4 0 0 2 0 1 15
+p411
+aVStanley Johnson DET 01/16/2016 DET vs. GSW W 20 8 3 7 42.9 1 2 50.0 1 1 100.0 0 2 2 3 1 1 0 3 7
+p412
+aVSteve Blake DET 01/16/2016 DET vs. GSW W 7 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 1 0 0 1 1 13
+p413
+aVAnthony Tolliver DET 01/16/2016 DET vs. GSW W 15 5 1 3 33.3 0 2 0.0 3 3 100.0 2 1 3 0 0 0 0 1 22
+p414
+aVReggie Jackson DET 01/16/2016 DET vs. GSW W 33 20 9 20 45.0 1 4 25.0 1 4 25.0 2 1 3 8 1 0 0 3 1
+p415
+aVBrandon Jennings DET 01/16/2016 DET vs. GSW W 8 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 1 4
+p416
+aVAndre Drummond DET 01/16/2016 DET vs. GSW W 39 14 6 20 30.0 0 0 - 2 6 33.3 7 14 21 0 1 3 4 5 3
+p417
+aVKentavious Caldwell-Pope DET 01/16/2016 DET vs. GSW W 39 20 9 16 56.3 1 5 20.0 1 2 50.0 0 5 5 2 3 1 3 3 -2
+p418
+aVErsan Ilyasova DET 01/16/2016 DET vs. GSW W 30 10 4 8 50.0 2 2 100.0 0 0 - 4 4 8 1 1 2 0 3 -3
+p419
+aVMarcus Morris DET 01/16/2016 DET vs. GSW W 40 16 6 14 42.9 1 4 25.0 3 4 75.0 1 7 8 6 0 2 1 1 30
+p420
+aVAnthony Tolliver DET 01/14/2016 DET @ MEM L 22 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 0 0 0 0 1 -5
+p421
+aVReggie Jackson DET 01/14/2016 DET @ MEM L 24 12 5 7 71.4 1 3 33.3 1 1 100.0 0 1 1 6 0 0 2 4 5
+p422
+aVBrandon Jennings DET 01/14/2016 DET @ MEM L 24 10 3 5 60.0 2 4 50.0 2 2 100.0 0 1 1 3 0 0 1 1 -7
+p423
+aVStanley Johnson DET 01/14/2016 DET @ MEM L 25 19 7 14 50.0 5 9 55.6 0 0 - 0 3 3 0 2 0 2 0 -4
+p424
+aVAndre Drummond DET 01/14/2016 DET @ MEM L 34 11 5 11 45.5 0 0 - 1 4 25.0 3 8 11 1 0 2 2 5 19
+p425
+aVAron Baynes DET 01/14/2016 DET @ MEM L 13 3 0 1 0.0 0 0 - 3 4 75.0 0 2 2 0 0 0 4 4 -17
+p426
+aVMarcus Morris DET 01/14/2016 DET @ MEM L 40 12 5 10 50.0 1 4 25.0 1 2 50.0 0 4 4 5 0 0 6 1 3
+p427
+aVKentavious Caldwell-Pope DET 01/14/2016 DET @ MEM L 31 9 3 6 50.0 1 3 33.3 2 2 100.0 0 2 2 1 0 0 3 2 -3
+p428
+aVJoel Anthony DET 01/14/2016 DET @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p429
+aVErsan Ilyasova DET 01/14/2016 DET @ MEM L 26 17 6 13 46.2 3 5 60.0 2 2 100.0 5 4 9 2 1 0 0 3 3
+p430
+aVReggie Jackson DET 01/12/2016 DET vs. SAS L 31 10 3 13 23.1 0 3 0.0 4 4 100.0 0 1 1 11 1 0 5 0 -6
+p431
+aVKentavious Caldwell-Pope DET 01/12/2016 DET vs. SAS L 43 25 9 14 64.3 4 6 66.7 3 4 75.0 1 2 3 2 3 0 1 5 -6
+p432
+aVStanley Johnson DET 01/12/2016 DET vs. SAS L 24 2 0 7 0.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 1 4 -1
+p433
+aVAnthony Tolliver DET 01/12/2016 DET vs. SAS L 22 9 3 6 50.0 2 5 40.0 1 3 33.3 0 4 4 1 0 0 0 0 5
+p434
+aVAron Baynes DET 01/12/2016 DET vs. SAS L 19 15 6 13 46.2 0 0 - 3 4 75.0 6 3 9 0 0 1 0 4 -6
+p435
+aVBrandon Jennings DET 01/12/2016 DET vs. SAS L 18 9 4 9 44.4 0 2 0.0 1 1 100.0 0 0 0 4 0 0 1 1 -6
+p436
+aVErsan Ilyasova DET 01/12/2016 DET vs. SAS L 26 6 3 9 33.3 0 3 0.0 0 0 - 0 6 6 0 1 0 3 2 -15
+p437
+aVMarcus Morris DET 01/12/2016 DET vs. SAS L 28 4 1 6 16.7 0 3 0.0 2 2 100.0 0 5 5 3 1 0 0 3 -12
+p438
+aVAndre Drummond DET 01/12/2016 DET vs. SAS L 28 17 8 13 61.5 0 0 - 1 6 16.7 4 6 10 0 2 1 1 4 -1
+p439
+aVJoel Anthony DET 01/12/2016 DET vs. SAS L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p440
+aVReggie Jackson DET 01/09/2016 DET vs. BKN W 33 23 10 17 58.8 3 4 75.0 0 0 - 0 3 3 8 0 0 2 3 9
+p441
+aVAnthony Tolliver DET 01/09/2016 DET vs. BKN W 19 10 3 6 50.0 2 5 40.0 2 3 66.7 0 3 3 2 1 1 0 0 10
+p442
+aVErsan Ilyasova DET 01/09/2016 DET vs. BKN W 29 19 8 18 44.4 2 5 40.0 1 3 33.3 5 8 13 1 1 1 1 2 4
+p443
+aVAndre Drummond DET 01/09/2016 DET vs. BKN W 33 23 11 15 73.3 0 0 - 1 3 33.3 2 9 11 0 3 2 1 3 7
+p444
+aVAron Baynes DET 01/09/2016 DET vs. BKN W 15 7 2 7 28.6 0 0 - 3 3 100.0 2 3 5 1 0 0 0 1 7
+p445
+aVStanley Johnson DET 01/09/2016 DET vs. BKN W 39 8 4 13 30.8 0 5 0.0 0 0 - 0 4 4 1 2 1 1 0 9
+p446
+aVDarrun Hilliard DET 01/09/2016 DET vs. BKN W 20 8 3 5 60.0 1 2 50.0 1 1 100.0 0 4 4 1 0 0 1 2 16
+p447
+aVKentavious Caldwell-Pope DET 01/09/2016 DET vs. BKN W 37 5 2 8 25.0 0 4 0.0 1 1 100.0 2 1 3 4 3 0 3 0 3
+p448
+aVBrandon Jennings DET 01/09/2016 DET vs. BKN W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 5 0 0 0 1 5
+p449
+aVMarcus Morris DET 01/06/2016 DET @ BOS W 37 8 2 8 25.0 0 0 - 4 5 80.0 2 4 6 0 0 0 2 5 3
+p450
+aVErsan Ilyasova DET 01/06/2016 DET @ BOS W 22 5 2 8 25.0 1 5 20.0 0 2 0.0 3 2 5 3 0 1 2 3 -8
+p451
+aVAnthony Tolliver DET 01/06/2016 DET @ BOS W 24 6 2 6 33.3 2 6 33.3 0 2 0.0 0 4 4 0 0 0 0 2 12
+p452
+aVBrandon Jennings DET 01/06/2016 DET @ BOS W 17 6 1 4 25.0 1 4 25.0 3 4 75.0 1 0 1 2 0 0 3 1 11
+p453
+aVKentavious Caldwell-Pope DET 01/06/2016 DET @ BOS W 37 20 6 13 46.2 4 7 57.1 4 6 66.7 0 4 4 1 1 0 2 4 0
+p454
+aVAron Baynes DET 01/06/2016 DET @ BOS W 18 6 2 3 66.7 0 0 - 2 2 100.0 0 6 6 4 0 1 2 5 15
+p455
+aVAndre Drummond DET 01/06/2016 DET @ BOS W 21 13 6 8 75.0 0 0 - 1 5 20.0 1 4 5 0 2 2 1 4 -11
+p456
+aVJoel Anthony DET 01/06/2016 DET @ BOS W 9 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 1 0 0 1
+p457
+aVStanley Johnson DET 01/06/2016 DET @ BOS W 23 11 4 8 50.0 1 3 33.3 2 2 100.0 2 8 10 2 1 0 5 3 8
+p458
+aVReggie Jackson DET 01/06/2016 DET @ BOS W 31 24 8 15 53.3 1 2 50.0 7 8 87.5 0 2 2 6 0 0 1 0 -6
+p459
+aVSteve Blake DET 01/04/2016 DET vs. ORL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p460
+aVMarcus Morris DET 01/04/2016 DET vs. ORL W 30 13 4 7 57.1 0 1 0.0 5 5 100.0 1 2 3 1 0 0 0 2 9
+p461
+aVErsan Ilyasova DET 01/04/2016 DET vs. ORL W 28 10 4 10 40.0 2 5 40.0 0 0 - 2 2 4 1 2 0 0 1 11
+p462
+aVStanley Johnson DET 01/04/2016 DET vs. ORL W 25 6 2 8 25.0 2 5 40.0 0 0 - 1 6 7 3 2 0 1 3 23
+p463
+aVReggie Jackson DET 01/04/2016 DET vs. ORL W 26 14 6 12 50.0 0 2 0.0 2 2 100.0 1 2 3 7 0 1 2 2 5
+p464
+aVAron Baynes DET 01/04/2016 DET vs. ORL W 16 7 3 3 100.0 0 0 - 1 2 50.0 4 6 10 2 0 2 2 2 21
+p465
+aVKentavious Caldwell-Pope DET 01/04/2016 DET vs. ORL W 34 21 7 12 58.3 5 8 62.5 2 2 100.0 0 6 6 2 0 0 2 4 28
+p466
+aVAndre Drummond DET 01/04/2016 DET vs. ORL W 29 17 8 14 57.1 0 0 - 1 4 25.0 6 6 12 0 1 1 1 0 9
+p467
+aVAnthony Tolliver DET 01/04/2016 DET vs. ORL W 20 10 4 8 50.0 2 4 50.0 0 0 - 2 4 6 1 0 1 1 1 15
+p468
+aVBrandon Jennings DET 01/04/2016 DET vs. ORL W 18 17 5 9 55.6 3 4 75.0 4 6 66.7 0 1 1 6 1 0 0 1 25
+p469
+aVReggie Bullock DET 01/04/2016 DET vs. ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p470
+aVJoel Anthony DET 01/04/2016 DET vs. ORL W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -4
+p471
+aVDarrun Hilliard DET 01/04/2016 DET vs. ORL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p472
+aVBrandon Jennings DET 01/02/2016 DET @ IND L 19 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 3 1 0 1 2 11
+p473
+aVKentavious Caldwell-Pope DET 01/02/2016 DET @ IND L 41 16 6 16 37.5 1 7 14.3 3 3 100.0 0 10 10 1 0 0 2 3 -13
+p474
+aVAndre Drummond DET 01/02/2016 DET @ IND L 36 11 5 12 41.7 0 0 - 1 8 12.5 7 11 18 0 1 2 1 3 -18
+p475
+aVMarcus Morris DET 01/02/2016 DET @ IND L 36 11 5 13 38.5 0 1 0.0 1 2 50.0 1 1 2 4 0 0 1 3 -18
+p476
+aVReggie Jackson DET 01/02/2016 DET @ IND L 29 12 5 19 26.3 2 5 40.0 0 1 0.0 0 3 3 5 1 0 1 2 -23
+p477
+aVAron Baynes DET 01/02/2016 DET @ IND L 12 10 3 5 60.0 0 0 - 4 4 100.0 1 2 3 0 0 0 0 1 6
+p478
+aVErsan Ilyasova DET 01/02/2016 DET @ IND L 32 12 6 16 37.5 0 3 0.0 0 0 - 2 5 7 1 1 0 2 1 -18
+p479
+aVAnthony Tolliver DET 01/02/2016 DET @ IND L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 6
+p480
+aVStanley Johnson DET 01/02/2016 DET @ IND L 19 6 2 6 33.3 0 1 0.0 2 3 66.7 1 1 2 2 0 0 1 3 7
+p481
+aVMarcus Morris DET 12/31/2015 DET vs. MIN W 34 8 1 5 20.0 0 3 0.0 6 6 100.0 0 2 2 3 1 0 4 1 17
+p482
+aVStanley Johnson DET 12/31/2015 DET vs. MIN W 22 5 2 9 22.2 1 3 33.3 0 0 - 1 3 4 4 0 0 0 1 6
+p483
+aVKentavious Caldwell-Pope DET 12/31/2015 DET vs. MIN W 37 22 7 17 41.2 2 9 22.2 6 7 85.7 1 3 4 3 3 0 0 2 29
+p484
+aVReggie Jackson DET 12/31/2015 DET vs. MIN W 27 19 8 14 57.1 2 4 50.0 1 1 100.0 1 2 3 9 0 0 3 3 21
+p485
+aVJoel Anthony DET 12/31/2015 DET vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p486
+aVReggie Bullock DET 12/31/2015 DET vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p487
+aVErsan Ilyasova DET 12/31/2015 DET vs. MIN W 29 10 3 6 50.0 3 3 100.0 1 2 50.0 0 5 5 0 1 2 1 3 -1
+p488
+aVDarrun Hilliard DET 12/31/2015 DET vs. MIN W 3 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 0 1 0 0 0 0
+p489
+aVAnthony Tolliver DET 12/31/2015 DET vs. MIN W 16 15 5 7 71.4 5 7 71.4 0 0 - 0 5 5 1 1 0 0 0 26
+p490
+aVAron Baynes DET 12/31/2015 DET vs. MIN W 14 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 0 1 3 9
+p491
+aVBrandon Jennings DET 12/31/2015 DET vs. MIN W 21 7 3 9 33.3 1 6 16.7 0 1 0.0 0 6 6 3 0 0 3 1 4
+p492
+aVAndre Drummond DET 12/31/2015 DET vs. MIN W 31 23 11 14 78.6 0 0 - 1 7 14.3 7 11 18 1 0 0 4 1 16
+p493
+aVAndre Drummond DET 12/29/2015 DET @ NYK L 36 13 5 15 33.3 0 0 - 3 7 42.9 5 4 9 0 1 1 2 3 -7
+p494
+aVReggie Jackson DET 12/29/2015 DET @ NYK L 31 17 6 17 35.3 1 4 25.0 4 4 100.0 1 4 5 9 0 0 3 2 -5
+p495
+aVDarrun Hilliard DET 12/29/2015 DET @ NYK L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p496
+aVStanley Johnson DET 12/29/2015 DET @ NYK L 19 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 3 0 0 0 2 -9
+p497
+aVErsan Ilyasova DET 12/29/2015 DET @ NYK L 36 19 8 15 53.3 3 6 50.0 0 0 - 4 2 6 1 3 0 1 1 -5
+p498
+aVAnthony Tolliver DET 12/29/2015 DET @ NYK L 12 8 3 5 60.0 2 4 50.0 0 0 - 1 1 2 0 0 1 1 1 -7
+p499
+aVKentavious Caldwell-Pope DET 12/29/2015 DET @ NYK L 38 9 3 8 37.5 2 4 50.0 1 2 50.0 2 4 6 1 1 0 0 1 -11
+p500
+aVBrandon Jennings DET 12/29/2015 DET @ NYK L 17 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 4 0 0 1 1 -7
+p501
+aVMarcus Morris DET 12/29/2015 DET @ NYK L 36 17 7 16 43.8 1 5 20.0 2 2 100.0 2 2 4 2 1 1 2 1 -7
+p502
+aVAron Baynes DET 12/29/2015 DET @ NYK L 12 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 0 1 0 2 -5
+p503
+aVMarcus Morris DET 12/26/2015 DET vs. BOS L 37 16 7 14 50.0 0 2 0.0 2 4 50.0 2 3 5 1 1 0 3 4 -1
+p504
+aVSteve Blake DET 12/26/2015 DET vs. BOS L 21 4 1 3 33.3 0 2 0.0 2 2 100.0 0 2 2 6 2 0 1 1 3
+p505
+aVKentavious Caldwell-Pope DET 12/26/2015 DET vs. BOS L 35 6 3 13 23.1 0 5 0.0 0 0 - 0 4 4 2 1 0 5 3 -9
+p506
+aVAron Baynes DET 12/26/2015 DET vs. BOS L 12 2 1 1 100.0 0 0 - 0 0 - 3 1 4 0 1 0 0 0 0
+p507
+aVReggie Jackson DET 12/26/2015 DET vs. BOS L 27 17 5 14 35.7 2 5 40.0 5 5 100.0 1 2 3 2 0 0 3 5 -2
+p508
+aVStanley Johnson DET 12/26/2015 DET vs. BOS L 26 12 5 11 45.5 2 3 66.7 0 0 - 2 1 3 1 1 0 1 4 3
+p509
+aVReggie Bullock DET 12/26/2015 DET vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p510
+aVErsan Ilyasova DET 12/26/2015 DET vs. BOS L 29 9 3 9 33.3 1 3 33.3 2 2 100.0 3 4 7 2 2 0 0 3 -18
+p511
+aVAndre Drummond DET 12/26/2015 DET vs. BOS L 36 22 9 21 42.9 0 0 - 4 10 40.0 7 15 22 1 2 2 2 1 -11
+p512
+aVAnthony Tolliver DET 12/26/2015 DET vs. BOS L 16 5 1 5 20.0 1 5 20.0 2 2 100.0 0 1 1 1 1 0 0 2 5
+p513
+aVSteve Blake DET 12/23/2015 DET @ ATL L 15 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 3 1 1 0 3 -10
+p514
+aVAnthony Tolliver DET 12/23/2015 DET @ ATL L 15 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 3 0 1 1 1 -7
+p515
+aVAndre Drummond DET 12/23/2015 DET @ ATL L 36 25 9 13 69.2 0 0 - 7 18 38.9 3 9 12 2 1 3 2 5 1
+p516
+aVErsan Ilyasova DET 12/23/2015 DET @ ATL L 33 5 2 9 22.2 1 5 20.0 0 0 - 2 5 7 1 1 0 1 3 0
+p517
+aVKentavious Caldwell-Pope DET 12/23/2015 DET @ ATL L 28 12 4 12 33.3 2 4 50.0 2 2 100.0 1 3 4 0 1 2 2 1 -15
+p518
+aVAron Baynes DET 12/23/2015 DET @ ATL L 12 4 1 4 25.0 0 0 - 2 5 40.0 3 3 6 1 0 2 2 1 -8
+p519
+aVMarcus Morris DET 12/23/2015 DET @ ATL L 38 22 9 16 56.3 2 2 100.0 2 3 66.7 2 5 7 1 1 0 1 0 0
+p520
+aVDarrun Hilliard DET 12/23/2015 DET @ ATL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p521
+aVStanley Johnson DET 12/23/2015 DET @ ATL L 26 9 4 10 40.0 1 2 50.0 0 0 - 0 2 2 0 1 0 1 2 2
+p522
+aVReggie Jackson DET 12/23/2015 DET @ ATL L 33 19 7 16 43.8 1 3 33.3 4 5 80.0 1 4 5 7 1 0 4 4 3
+p523
+aVSteve Blake DET 12/22/2015 DET @ MIA W 17 12 4 5 80.0 4 5 80.0 0 0 - 1 1 2 2 0 0 1 1 -2
+p524
+aVReggie Jackson DET 12/22/2015 DET @ MIA W 31 18 8 16 50.0 2 5 40.0 0 0 - 2 3 5 3 1 0 3 1 3
+p525
+aVErsan Ilyasova DET 12/22/2015 DET @ MIA W 24 6 3 7 42.9 0 1 0.0 0 0 - 4 4 8 0 1 1 2 0 -21
+p526
+aVAnthony Tolliver DET 12/22/2015 DET @ MIA W 24 9 3 5 60.0 3 5 60.0 0 0 - 0 5 5 1 1 0 0 1 22
+p527
+aVAndre Drummond DET 12/22/2015 DET @ MIA W 34 11 4 12 33.3 0 0 - 3 6 50.0 4 8 12 1 0 2 1 3 2
+p528
+aVMarcus Morris DET 12/22/2015 DET @ MIA W 33 8 3 7 42.9 0 1 0.0 2 4 50.0 0 5 5 3 0 0 5 1 -8
+p529
+aVAron Baynes DET 12/22/2015 DET @ MIA W 14 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -1
+p530
+aVStanley Johnson DET 12/22/2015 DET @ MIA W 23 14 5 10 50.0 4 7 57.1 0 0 - 0 4 4 3 0 0 2 0 0
+p531
+aVKentavious Caldwell-Pope DET 12/22/2015 DET @ MIA W 40 14 5 13 38.5 2 6 33.3 2 2 100.0 1 0 1 3 0 0 1 4 10
+p532
+aVKentavious Caldwell-Pope DET 12/18/2015 DET @ CHI W 49 17 7 18 38.9 2 7 28.6 1 4 25.0 1 6 7 3 1 1 1 5 -6
+p533
+aVAnthony Tolliver DET 12/18/2015 DET @ CHI W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 5
+p534
+aVAndre Drummond DET 12/18/2015 DET @ CHI W 54 33 14 25 56.0 0 0 - 5 10 50.0 10 11 21 3 3 2 2 6 -3
+p535
+aVStanley Johnson DET 12/18/2015 DET @ CHI W 30 16 6 11 54.5 1 2 50.0 3 4 75.0 1 6 7 1 1 0 2 6 6
+p536
+aVErsan Ilyasova DET 12/18/2015 DET @ CHI W 54 18 6 17 35.3 1 8 12.5 5 8 62.5 3 6 9 4 0 0 2 5 -3
+p537
+aVJoel Anthony DET 12/18/2015 DET @ CHI W 14 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 7
+p538
+aVReggie Jackson DET 12/18/2015 DET @ CHI W 50 31 12 27 44.4 0 2 0.0 7 10 70.0 1 5 6 13 1 0 2 4 -1
+p539
+aVMarcus Morris DET 12/18/2015 DET @ CHI W 57 20 7 17 41.2 3 6 50.0 3 6 50.0 2 5 7 2 0 1 2 6 7
+p540
+aVSteve Blake DET 12/18/2015 DET @ CHI W 19 8 3 5 60.0 1 2 50.0 1 2 50.0 1 2 3 2 1 0 0 0 3
+p541
+aVReggie Jackson DET 12/16/2015 DET vs. BOS W 28 23 7 16 43.8 1 4 25.0 8 9 88.9 1 1 2 3 0 0 4 3 -16
+p542
+aVMarcus Morris DET 12/16/2015 DET vs. BOS W 33 11 4 9 44.4 1 2 50.0 2 2 100.0 0 1 1 2 1 0 1 3 -1
+p543
+aVAron Baynes DET 12/16/2015 DET vs. BOS W 13 9 3 5 60.0 0 0 - 3 3 100.0 0 3 3 0 0 0 0 1 8
+p544
+aVErsan Ilyasova DET 12/16/2015 DET vs. BOS W 31 11 2 8 25.0 2 5 40.0 5 6 83.3 1 4 5 0 1 2 1 3 -8
+p545
+aVStanley Johnson DET 12/16/2015 DET vs. BOS W 21 8 3 5 60.0 0 0 - 2 3 66.7 1 6 7 0 0 0 1 1 10
+p546
+aVAndre Drummond DET 12/16/2015 DET vs. BOS W 35 16 6 10 60.0 1 1 100.0 3 10 30.0 4 8 12 1 2 0 2 3 1
+p547
+aVJoel Anthony DET 12/16/2015 DET vs. BOS W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p548
+aVSteve Blake DET 12/16/2015 DET vs. BOS W 20 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 2 19
+p549
+aVKentavious Caldwell-Pope DET 12/16/2015 DET vs. BOS W 44 31 10 16 62.5 3 4 75.0 8 8 100.0 0 2 2 3 1 1 1 3 -4
+p550
+aVAnthony Tolliver DET 12/16/2015 DET vs. BOS W 15 9 3 5 60.0 3 4 75.0 0 0 - 0 2 2 2 0 1 0 3 9
+p551
+aVSteve Blake DET 12/14/2015 DET vs. LAC L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 3 2 6
+p552
+aVStanley Johnson DET 12/14/2015 DET vs. LAC L 19 0 0 5 0.0 0 0 - 0 0 - 0 4 4 1 0 0 1 0 3
+p553
+aVMarcus Morris DET 12/14/2015 DET vs. LAC L 42 6 3 10 30.0 0 1 0.0 0 0 - 0 4 4 2 2 0 1 3 -10
+p554
+aVAndre Drummond DET 12/14/2015 DET vs. LAC L 40 20 8 17 47.1 0 0 - 4 8 50.0 4 11 15 1 3 0 5 3 -9
+p555
+aVKentavious Caldwell-Pope DET 12/14/2015 DET vs. LAC L 45 19 6 17 35.3 2 8 25.0 5 7 71.4 0 3 3 2 1 0 1 5 3
+p556
+aVReggie Jackson DET 12/14/2015 DET vs. LAC L 39 34 9 18 50.0 2 2 100.0 14 16 87.5 5 6 11 7 1 0 4 3 -8
+p557
+aVAnthony Tolliver DET 12/14/2015 DET vs. LAC L 33 3 1 5 20.0 1 4 25.0 0 0 - 0 6 6 1 0 0 1 2 10
+p558
+aVAron Baynes DET 12/14/2015 DET vs. LAC L 13 10 5 6 83.3 0 0 - 0 0 - 4 2 6 2 0 0 2 2 7
+p559
+aVErsan Ilyasova DET 12/14/2015 DET vs. LAC L 20 6 3 8 37.5 0 2 0.0 0 0 - 2 1 3 1 1 0 0 1 -12
+p560
+aVStanley Johnson DET 12/12/2015 DET vs. IND W 25 11 4 10 40.0 1 5 20.0 2 2 100.0 0 4 4 2 3 0 4 4 5
+p561
+aVReggie Bullock DET 12/12/2015 DET vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p562
+aVAnthony Tolliver DET 12/12/2015 DET vs. IND W 16 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 0 1 0 0 0 7
+p563
+aVSteve Blake DET 12/12/2015 DET vs. IND W 19 11 4 6 66.7 3 4 75.0 0 0 - 0 2 2 4 0 0 2 2 4
+p564
+aVSpencer Dinwiddie DET 12/12/2015 DET vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p565
+aVMarcus Morris DET 12/12/2015 DET vs. IND W 30 16 7 13 53.8 2 4 50.0 0 0 - 1 2 3 0 0 0 1 1 22
+p566
+aVErsan Ilyasova DET 12/12/2015 DET vs. IND W 29 20 9 13 69.2 2 4 50.0 0 0 - 1 4 5 1 0 2 0 2 18
+p567
+aVJoel Anthony DET 12/12/2015 DET vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -3
+p568
+aVAron Baynes DET 12/12/2015 DET vs. IND W 16 6 1 2 50.0 0 0 - 4 6 66.7 2 5 7 1 0 1 2 2 5
+p569
+aVKentavious Caldwell-Pope DET 12/12/2015 DET vs. IND W 37 18 5 12 41.7 2 5 40.0 6 6 100.0 2 5 7 8 4 1 1 2 20
+p570
+aVReggie Jackson DET 12/12/2015 DET vs. IND W 26 21 8 17 47.1 2 4 50.0 3 3 100.0 1 2 3 9 1 0 1 1 21
+p571
+aVDarrun Hilliard DET 12/12/2015 DET vs. IND W 3 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p572
+aVAndre Drummond DET 12/12/2015 DET vs. IND W 28 8 4 11 36.4 0 0 - 0 2 0.0 3 8 11 1 1 2 2 3 20
+p573
+aVErsan Ilyasova DET 12/11/2015 DET @ PHI W 26 15 6 13 46.2 3 7 42.9 0 0 - 1 7 8 2 2 2 0 3 34
+p574
+aVReggie Bullock DET 12/11/2015 DET @ PHI W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p575
+aVSteve Blake DET 12/11/2015 DET @ PHI W 17 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 4 0 0 1 4 -21
+p576
+aVMarcus Morris DET 12/11/2015 DET @ PHI W 34 21 7 9 77.8 3 3 100.0 4 4 100.0 1 7 8 4 1 1 4 2 31
+p577
+aVAnthony Tolliver DET 12/11/2015 DET @ PHI W 22 5 1 3 33.3 1 3 33.3 2 2 100.0 1 4 5 1 1 0 0 1 -22
+p578
+aVDarrun Hilliard DET 12/11/2015 DET @ PHI W 9 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -22
+p579
+aVReggie Jackson DET 12/11/2015 DET @ PHI W 31 21 9 20 45.0 1 3 33.3 2 2 100.0 2 3 5 4 0 0 3 1 33
+p580
+aVAndre Drummond DET 12/11/2015 DET @ PHI W 33 18 8 17 47.1 0 0 - 2 6 33.3 11 5 16 0 2 4 1 3 27
+p581
+aVStanley Johnson DET 12/11/2015 DET @ PHI W 15 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 0 0 1 2 1 -18
+p582
+aVKentavious Caldwell-Pope DET 12/11/2015 DET @ PHI W 36 13 5 12 41.7 2 7 28.6 1 2 50.0 0 2 2 2 3 0 1 1 38
+p583
+aVAron Baynes DET 12/11/2015 DET @ PHI W 15 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 0 1 2 5 -15
+p584
+aVStanley Johnson DET 12/09/2015 DET vs. MEM L 17 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 2 7
+p585
+aVAndre Drummond DET 12/09/2015 DET vs. MEM L 37 18 8 15 53.3 0 0 - 2 5 40.0 7 12 19 2 3 2 6 2 4
+p586
+aVSteve Blake DET 12/09/2015 DET vs. MEM L 16 11 4 7 57.1 2 4 50.0 1 2 50.0 0 2 2 1 0 0 0 2 0
+p587
+aVAron Baynes DET 12/09/2015 DET vs. MEM L 12 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 2 0 1 1 1 -5
+p588
+aVMarcus Morris DET 12/09/2015 DET vs. MEM L 37 16 6 13 46.2 2 4 50.0 2 2 100.0 1 1 2 0 0 0 0 0 -7
+p589
+aVDarrun Hilliard DET 12/09/2015 DET vs. MEM L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 0
+p590
+aVAnthony Tolliver DET 12/09/2015 DET vs. MEM L 13 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p591
+aVErsan Ilyasova DET 12/09/2015 DET vs. MEM L 34 7 3 9 33.3 1 4 25.0 0 1 0.0 3 4 7 3 1 3 1 5 -3
+p592
+aVKentavious Caldwell-Pope DET 12/09/2015 DET vs. MEM L 35 9 4 11 36.4 1 6 16.7 0 0 - 0 2 2 0 3 0 1 1 0
+p593
+aVReggie Jackson DET 12/09/2015 DET vs. MEM L 32 18 7 18 38.9 1 6 16.7 3 3 100.0 0 3 3 7 2 0 2 3 -1
+p594
+aVAron Baynes DET 12/07/2015 DET @ CHA L 21 8 4 8 50.0 0 0 - 0 1 0.0 1 2 3 1 4 0 0 3 -11
+p595
+aVStanley Johnson DET 12/07/2015 DET @ CHA L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -8
+p596
+aVSteve Blake DET 12/07/2015 DET @ CHA L 20 9 3 6 50.0 3 5 60.0 0 0 - 1 0 1 7 0 0 1 0 1
+p597
+aVAndre Drummond DET 12/07/2015 DET @ CHA L 24 9 4 7 57.1 0 0 - 1 4 25.0 2 7 9 1 3 0 1 5 -11
+p598
+aVJoel Anthony DET 12/07/2015 DET @ CHA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p599
+aVErsan Ilyasova DET 12/07/2015 DET @ CHA L 28 15 4 14 28.6 3 10 30.0 4 8 50.0 1 12 13 1 1 1 3 2 -19
+p600
+aVDarrun Hilliard DET 12/07/2015 DET @ CHA L 4 2 0 2 0.0 0 0 - 2 4 50.0 0 0 0 0 0 0 0 0 2
+p601
+aVKentavious Caldwell-Pope DET 12/07/2015 DET @ CHA L 38 16 7 15 46.7 1 5 20.0 1 2 50.0 1 3 4 1 3 0 1 3 -20
+p602
+aVReggie Bullock DET 12/07/2015 DET @ CHA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p603
+aVMarcus Morris DET 12/07/2015 DET @ CHA L 30 11 4 11 36.4 1 2 50.0 2 3 66.7 1 2 3 1 0 1 2 2 -16
+p604
+aVReggie Jackson DET 12/07/2015 DET @ CHA L 24 4 2 9 22.2 0 4 0.0 0 0 - 0 1 1 1 0 0 3 3 -23
+p605
+aVSpencer Dinwiddie DET 12/07/2015 DET @ CHA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p606
+aVAnthony Tolliver DET 12/07/2015 DET @ CHA L 20 6 2 8 25.0 2 7 28.6 0 0 - 0 4 4 2 0 0 1 0 -1
+p607
+aVDarrun Hilliard DET 12/06/2015 DET vs. LAL W 7 5 1 5 20.0 1 4 25.0 2 2 100.0 1 0 1 0 0 0 0 2 -4
+p608
+aVKentavious Caldwell-Pope DET 12/06/2015 DET vs. LAL W 31 22 9 14 64.3 1 2 50.0 3 3 100.0 3 1 4 2 4 0 1 3 18
+p609
+aVMarcus Morris DET 12/06/2015 DET vs. LAL W 31 9 4 13 30.8 0 2 0.0 1 3 33.3 0 3 3 3 0 0 1 2 16
+p610
+aVReggie Bullock DET 12/06/2015 DET vs. LAL W 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 5
+p611
+aVAndre Drummond DET 12/06/2015 DET vs. LAL W 24 18 8 12 66.7 0 0 - 2 5 40.0 5 10 15 0 1 0 0 3 19
+p612
+aVErsan Ilyasova DET 12/06/2015 DET vs. LAL W 13 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 0 0 0 3 4 3
+p613
+aVReggie Jackson DET 12/06/2015 DET vs. LAL W 25 20 6 13 46.2 2 2 100.0 6 6 100.0 0 3 3 6 3 0 2 0 18
+p614
+aVAnthony Tolliver DET 12/06/2015 DET vs. LAL W 34 9 3 9 33.3 2 7 28.6 1 2 50.0 2 11 13 0 1 0 2 4 18
+p615
+aVSteve Blake DET 12/06/2015 DET vs. LAL W 18 9 3 5 60.0 2 2 100.0 1 1 100.0 1 3 4 5 1 0 4 0 4
+p616
+aVSpencer Dinwiddie DET 12/06/2015 DET vs. LAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p617
+aVAron Baynes DET 12/06/2015 DET vs. LAL W 21 2 1 6 16.7 0 0 - 0 0 - 4 4 8 2 0 0 2 2 -2
+p618
+aVJoel Anthony DET 12/06/2015 DET vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 5
+p619
+aVStanley Johnson DET 12/06/2015 DET vs. LAL W 27 6 2 10 20.0 0 3 0.0 2 2 100.0 0 6 6 2 1 0 1 1 10
+p620
+aVSteve Blake DET 12/04/2015 DET vs. MIL W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 3 1 0 1 1 7
+p621
+aVAndre Drummond DET 12/04/2015 DET vs. MIL W 36 17 7 18 38.9 0 0 - 3 10 30.0 4 19 23 1 3 2 2 2 -2
+p622
+aVReggie Jackson DET 12/04/2015 DET vs. MIL W 33 23 8 14 57.1 1 4 25.0 6 7 85.7 0 1 1 5 1 0 2 1 0
+p623
+aVStanley Johnson DET 12/04/2015 DET vs. MIL W 23 10 4 10 40.0 2 4 50.0 0 0 - 0 1 1 1 1 0 0 2 -2
+p624
+aVAron Baynes DET 12/04/2015 DET vs. MIL W 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 9
+p625
+aVAnthony Tolliver DET 12/04/2015 DET vs. MIL W 23 8 3 5 60.0 2 3 66.7 0 2 0.0 1 4 5 1 1 2 0 0 -3
+p626
+aVErsan Ilyasova DET 12/04/2015 DET vs. MIL W 25 13 4 10 40.0 1 5 20.0 4 5 80.0 1 7 8 0 0 0 0 1 10
+p627
+aVMarcus Morris DET 12/04/2015 DET vs. MIL W 39 23 7 14 50.0 1 2 50.0 8 9 88.9 2 2 4 3 1 0 2 1 13
+p628
+aVKentavious Caldwell-Pope DET 12/04/2015 DET vs. MIL W 33 8 1 6 16.7 0 3 0.0 6 6 100.0 0 2 2 3 0 0 2 2 3
+p629
+aVSteve Blake DET 12/02/2015 DET vs. PHX W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 -22
+p630
+aVKentavious Caldwell-Pope DET 12/02/2015 DET vs. PHX W 46 10 4 11 36.4 1 4 25.0 1 2 50.0 2 4 6 2 3 0 2 4 11
+p631
+aVAnthony Tolliver DET 12/02/2015 DET vs. PHX W 15 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 0 1 0 0 0 -13
+p632
+aVErsan Ilyasova DET 12/02/2015 DET vs. PHX W 35 23 8 13 61.5 3 6 50.0 4 6 66.7 1 3 4 1 1 0 4 4 27
+p633
+aVReggie Jackson DET 12/02/2015 DET vs. PHX W 40 34 12 20 60.0 3 7 42.9 7 7 100.0 0 3 3 16 1 0 3 3 27
+p634
+aVAron Baynes DET 12/02/2015 DET vs. PHX W 11 0 0 5 0.0 0 0 - 0 0 - 4 1 5 0 0 0 2 3 -3
+p635
+aVAndre Drummond DET 12/02/2015 DET vs. PHX W 42 22 8 16 50.0 0 1 0.0 6 17 35.3 3 9 12 0 2 1 2 3 6
+p636
+aVStanley Johnson DET 12/02/2015 DET vs. PHX W 21 7 2 7 28.6 1 3 33.3 2 2 100.0 0 2 2 1 0 0 1 1 -25
+p637
+aVMarcus Morris DET 12/02/2015 DET vs. PHX W 42 24 7 10 70.0 3 4 75.0 7 10 70.0 3 11 14 3 2 0 2 2 17
+p638
+aVAnthony Tolliver DET 11/30/2015 DET vs. HOU W 12 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 9
+p639
+aVSteve Blake DET 11/30/2015 DET vs. HOU W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 0 2
+p640
+aVErsan Ilyasova DET 11/30/2015 DET vs. HOU W 25 13 5 11 45.5 1 4 25.0 2 2 100.0 1 2 3 0 0 1 0 1 2
+p641
+aVMarcus Morris DET 11/30/2015 DET vs. HOU W 34 12 5 11 45.5 0 5 0.0 2 3 66.7 1 3 4 6 0 0 3 1 4
+p642
+aVKentavious Caldwell-Pope DET 11/30/2015 DET vs. HOU W 44 4 2 8 25.0 0 3 0.0 0 0 - 2 2 4 3 2 0 2 2 4
+p643
+aVAron Baynes DET 11/30/2015 DET vs. HOU W 21 11 5 8 62.5 0 0 - 1 2 50.0 3 1 4 2 0 1 1 3 -4
+p644
+aVAndre Drummond DET 11/30/2015 DET vs. HOU W 27 24 10 15 66.7 0 0 - 4 18 22.2 4 9 13 2 3 3 1 3 13
+p645
+aVReggie Jackson DET 11/30/2015 DET vs. HOU W 37 31 11 18 61.1 3 4 75.0 6 8 75.0 0 5 5 8 2 0 2 3 11
+p646
+aVStanley Johnson DET 11/30/2015 DET vs. HOU W 30 19 6 11 54.5 4 5 80.0 3 4 75.0 2 8 10 1 1 2 1 5 14
+p647
+aVAron Baynes DET 11/29/2015 DET @ BKN L 11 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -7
+p648
+aVAnthony Tolliver DET 11/29/2015 DET @ BKN L 22 0 0 6 0.0 0 5 0.0 0 0 - 1 4 5 1 1 0 0 0 -10
+p649
+aVErsan Ilyasova DET 11/29/2015 DET @ BKN L 26 8 4 9 44.4 0 1 0.0 0 0 - 2 3 5 0 1 0 1 2 6
+p650
+aVReggie Jackson DET 11/29/2015 DET @ BKN L 30 8 4 20 20.0 0 4 0.0 0 0 - 2 4 6 9 1 0 3 4 -3
+p651
+aVSteve Blake DET 11/29/2015 DET @ BKN L 18 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 4 0 0 2 1 -1
+p652
+aVStanley Johnson DET 11/29/2015 DET @ BKN L 27 10 4 10 40.0 2 3 66.7 0 0 - 0 5 5 1 1 0 1 3 -1
+p653
+aVAndre Drummond DET 11/29/2015 DET @ BKN L 37 20 9 19 47.4 0 0 - 2 11 18.2 10 8 18 0 3 1 3 1 3
+p654
+aVMarcus Morris DET 11/29/2015 DET @ BKN L 35 7 3 10 30.0 1 3 33.3 0 0 - 1 2 3 2 3 0 2 3 -7
+p655
+aVKentavious Caldwell-Pope DET 11/29/2015 DET @ BKN L 34 21 6 17 35.3 2 5 40.0 7 10 70.0 3 4 7 1 1 0 0 0 0
+p656
+aVAron Baynes DET 11/27/2015 DET @ OKC L 16 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 0 0 4 -11
+p657
+aVMarcus Morris DET 11/27/2015 DET @ OKC L 40 17 5 13 38.5 2 4 50.0 5 6 83.3 0 4 4 0 1 0 0 1 -19
+p658
+aVSteve Blake DET 11/27/2015 DET @ OKC L 21 5 2 8 25.0 1 6 16.7 0 0 - 0 3 3 7 3 0 1 1 4
+p659
+aVReggie Jackson DET 11/27/2015 DET @ OKC L 27 15 4 16 25.0 2 6 33.3 5 6 83.3 2 3 5 4 2 0 0 5 -20
+p660
+aVAnthony Tolliver DET 11/27/2015 DET @ OKC L 20 6 2 4 50.0 2 4 50.0 0 0 - 1 2 3 0 0 1 0 1 -1
+p661
+aVStanley Johnson DET 11/27/2015 DET @ OKC L 16 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 0 1 0 3 2 -1
+p662
+aVErsan Ilyasova DET 11/27/2015 DET @ OKC L 28 9 3 8 37.5 1 5 20.0 2 2 100.0 2 2 4 0 0 0 1 1 -15
+p663
+aVKentavious Caldwell-Pope DET 11/27/2015 DET @ OKC L 40 11 4 15 26.7 0 3 0.0 3 4 75.0 2 2 4 4 1 0 1 2 -12
+p664
+aVAndre Drummond DET 11/27/2015 DET @ OKC L 32 15 7 16 43.8 0 0 - 1 2 50.0 3 4 7 2 1 0 2 4 -5
+p665
+aVJoel Anthony DET 11/25/2015 DET vs. MIA W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p666
+aVMarcus Morris DET 11/25/2015 DET vs. MIA W 36 14 6 13 46.2 2 3 66.7 0 0 - 2 4 6 0 1 0 0 1 29
+p667
+aVAron Baynes DET 11/25/2015 DET vs. MIA W 13 6 3 4 75.0 0 0 - 0 0 - 1 4 5 1 0 1 0 1 12
+p668
+aVAndre Drummond DET 11/25/2015 DET vs. MIA W 33 18 9 18 50.0 0 0 - 0 1 0.0 8 12 20 0 2 5 1 0 14
+p669
+aVErsan Ilyasova DET 11/25/2015 DET vs. MIA W 23 13 3 7 42.9 3 4 75.0 4 4 100.0 1 2 3 3 0 0 0 2 22
+p670
+aVSteve Blake DET 11/25/2015 DET vs. MIA W 22 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 4 0 0 3 2 -4
+p671
+aVAnthony Tolliver DET 11/25/2015 DET vs. MIA W 25 12 4 8 50.0 4 6 66.7 0 0 - 2 3 5 2 0 0 0 1 1
+p672
+aVReggie Bullock DET 11/25/2015 DET vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p673
+aVReggie Jackson DET 11/25/2015 DET vs. MIA W 26 18 7 12 58.3 4 5 80.0 0 0 - 0 4 4 7 0 0 1 1 27
+p674
+aVStanley Johnson DET 11/25/2015 DET vs. MIA W 20 7 3 12 25.0 0 2 0.0 1 1 100.0 2 3 5 2 1 1 2 5 0
+p675
+aVKentavious Caldwell-Pope DET 11/25/2015 DET vs. MIA W 34 6 2 15 13.3 1 6 16.7 1 1 100.0 0 2 2 4 2 0 0 3 23
+p676
+aVDarrun Hilliard DET 11/25/2015 DET vs. MIA W 3 5 2 3 66.7 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 -3
+p677
+aVMarcus Morris DET 11/23/2015 DET @ MIL L 26 4 2 7 28.6 0 3 0.0 0 0 - 0 5 5 1 0 0 3 1 -17
+p678
+aVErsan Ilyasova DET 11/23/2015 DET @ MIL L 24 0 0 7 0.0 0 3 0.0 0 0 - 3 0 3 2 1 1 2 2 -19
+p679
+aVAnthony Tolliver DET 11/23/2015 DET @ MIL L 24 13 4 8 50.0 3 6 50.0 2 2 100.0 1 3 4 0 1 1 1 4 -2
+p680
+aVStanley Johnson DET 11/23/2015 DET @ MIL L 26 16 5 14 35.7 0 4 0.0 6 7 85.7 1 1 2 2 1 0 2 3 -8
+p681
+aVKentavious Caldwell-Pope DET 11/23/2015 DET @ MIL L 26 17 6 8 75.0 3 4 75.0 2 2 100.0 0 0 0 0 1 0 2 0 -19
+p682
+aVSteve Blake DET 11/23/2015 DET @ MIL L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 4
+p683
+aVReggie Bullock DET 11/23/2015 DET @ MIL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p684
+aVSpencer Dinwiddie DET 11/23/2015 DET @ MIL L 17 4 1 4 25.0 0 1 0.0 2 4 50.0 0 2 2 3 0 0 1 2 -13
+p685
+aVReggie Jackson DET 11/23/2015 DET @ MIL L 24 7 3 11 27.3 0 3 0.0 1 1 100.0 0 1 1 7 1 0 3 1 -12
+p686
+aVAndre Drummond DET 11/23/2015 DET @ MIL L 24 15 6 14 42.9 0 0 - 3 4 75.0 9 6 15 0 1 1 0 2 -18
+p687
+aVAron Baynes DET 11/23/2015 DET @ MIL L 19 6 2 7 28.6 0 0 - 2 2 100.0 5 4 9 1 0 0 0 2 -6
+p688
+aVDarrun Hilliard DET 11/23/2015 DET @ MIL L 13 2 1 7 14.3 0 2 0.0 0 0 - 1 2 3 0 0 0 2 0 0
+p689
+aVJoel Anthony DET 11/23/2015 DET @ MIL L 5 2 0 0 - 0 0 - 2 2 100.0 2 1 3 1 1 0 1 0 3
+p690
+aVErsan Ilyasova DET 11/21/2015 DET vs. WAS L 33 18 7 10 70.0 1 2 50.0 3 4 75.0 2 3 5 2 0 0 1 1 13
+p691
+aVReggie Bullock DET 11/21/2015 DET vs. WAS L 6 1 0 3 0.0 0 2 0.0 1 1 100.0 1 0 1 0 0 0 0 1 -8
+p692
+aVAron Baynes DET 11/21/2015 DET vs. WAS L 11 4 2 3 66.7 0 0 - 0 1 0.0 1 3 4 0 0 0 1 2 -10
+p693
+aVAnthony Tolliver DET 11/21/2015 DET vs. WAS L 15 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -15
+p694
+aVMarcus Morris DET 11/21/2015 DET vs. WAS L 37 18 6 14 42.9 2 6 33.3 4 4 100.0 2 7 9 4 0 0 1 0 15
+p695
+aVReggie Jackson DET 11/21/2015 DET vs. WAS L 32 20 8 18 44.4 1 6 16.7 3 3 100.0 1 2 3 9 1 0 6 2 18
+p696
+aVKentavious Caldwell-Pope DET 11/21/2015 DET vs. WAS L 37 16 6 11 54.5 4 7 57.1 0 1 0.0 0 1 1 1 1 0 0 2 5
+p697
+aVStanley Johnson DET 11/21/2015 DET vs. WAS L 16 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 1 0 0 2 0 -16
+p698
+aVAndre Drummond DET 11/21/2015 DET vs. WAS L 37 8 3 6 50.0 0 0 - 2 4 50.0 0 13 13 1 1 2 2 4 8
+p699
+aVSpencer Dinwiddie DET 11/21/2015 DET vs. WAS L 16 6 2 7 28.6 0 0 - 2 3 66.7 0 1 1 2 0 0 0 3 -20
+p700
+aVAron Baynes DET 11/20/2015 DET @ MIN W 19 6 2 4 50.0 0 0 - 2 2 100.0 4 7 11 1 2 2 4 3 1
+p701
+aVMarcus Morris DET 11/20/2015 DET @ MIN W 36 16 6 14 42.9 0 5 0.0 4 4 100.0 0 11 11 0 1 1 0 4 14
+p702
+aVStanley Johnson DET 11/20/2015 DET @ MIN W 24 15 6 10 60.0 3 5 60.0 0 0 - 1 1 2 1 0 0 1 0 3
+p703
+aVSpencer Dinwiddie DET 11/20/2015 DET @ MIN W 20 6 2 6 33.3 0 2 0.0 2 3 66.7 0 1 1 2 1 0 0 2 -5
+p704
+aVErsan Ilyasova DET 11/20/2015 DET @ MIN W 19 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 2 1 1 2 2 6
+p705
+aVAndre Drummond DET 11/20/2015 DET @ MIN W 29 21 10 13 76.9 0 0 - 1 2 50.0 2 9 11 0 2 1 4 5 9
+p706
+aVKentavious Caldwell-Pope DET 11/20/2015 DET @ MIN W 38 8 4 10 40.0 0 2 0.0 0 0 - 0 1 1 2 2 0 2 1 16
+p707
+aVAnthony Tolliver DET 11/20/2015 DET @ MIN W 20 0 0 7 0.0 0 5 0.0 0 0 - 0 2 2 0 1 0 0 2 0
+p708
+aVReggie Bullock DET 11/20/2015 DET @ MIN W 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -9
+p709
+aVReggie Jackson DET 11/20/2015 DET @ MIN W 28 18 8 15 53.3 2 5 40.0 0 0 - 1 4 5 5 1 0 0 3 15
+p710
+aVMarcus Morris DET 11/17/2015 DET vs. CLE W 36 14 4 12 33.3 1 4 25.0 5 6 83.3 0 4 4 1 2 0 2 5 13
+p711
+aVSpencer Dinwiddie DET 11/17/2015 DET vs. CLE W 14 3 1 6 16.7 0 1 0.0 1 2 50.0 0 1 1 1 1 0 1 2 -10
+p712
+aVReggie Jackson DET 11/17/2015 DET vs. CLE W 34 23 7 18 38.9 1 2 50.0 8 8 100.0 1 5 6 12 1 0 5 3 15
+p713
+aVAnthony Tolliver DET 11/17/2015 DET vs. CLE W 19 0 0 2 0.0 0 2 0.0 0 0 - 2 1 3 1 0 0 0 0 -6
+p714
+aVErsan Ilyasova DET 11/17/2015 DET vs. CLE W 29 20 6 10 60.0 4 6 66.7 4 4 100.0 1 5 6 2 1 0 0 2 11
+p715
+aVStanley Johnson DET 11/17/2015 DET vs. CLE W 16 4 2 6 33.3 0 1 0.0 0 0 - 0 6 6 1 1 0 2 1 -8
+p716
+aVKentavious Caldwell-Pope DET 11/17/2015 DET vs. CLE W 38 13 5 11 45.5 1 5 20.0 2 2 100.0 1 1 2 1 1 0 0 1 13
+p717
+aVAndre Drummond DET 11/17/2015 DET vs. CLE W 39 25 10 15 66.7 0 0 - 5 9 55.6 5 13 18 0 3 1 3 1 17
+p718
+aVAron Baynes DET 11/17/2015 DET vs. CLE W 9 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -12
+p719
+aVReggie Bullock DET 11/17/2015 DET vs. CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p720
+aVStanley Johnson DET 11/15/2015 DET @ LAL L 16 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 1 2 0 1 5 -16
+p721
+aVKentavious Caldwell-Pope DET 11/15/2015 DET @ LAL L 33 10 4 15 26.7 2 5 40.0 0 1 0.0 1 2 3 2 2 0 0 1 0
+p722
+aVReggie Bullock DET 11/15/2015 DET @ LAL L 15 3 1 4 25.0 1 1 100.0 0 0 - 1 1 2 0 1 0 0 0 -12
+p723
+aVSpencer Dinwiddie DET 11/15/2015 DET @ LAL L 24 17 6 9 66.7 1 3 33.3 4 5 80.0 0 2 2 4 0 0 1 4 1
+p724
+aVAnthony Tolliver DET 11/15/2015 DET @ LAL L 19 3 1 6 16.7 1 5 20.0 0 0 - 1 0 1 1 0 0 0 3 -6
+p725
+aVMarcus Morris DET 11/15/2015 DET @ LAL L 32 7 3 12 25.0 0 3 0.0 1 3 33.3 3 4 7 2 1 2 0 3 4
+p726
+aVReggie Jackson DET 11/15/2015 DET @ LAL L 24 9 4 11 36.4 1 4 25.0 0 0 - 0 4 4 3 0 0 5 1 -13
+p727
+aVErsan Ilyasova DET 11/15/2015 DET @ LAL L 29 6 2 10 20.0 1 4 25.0 1 2 50.0 2 4 6 0 0 0 1 2 -6
+p728
+aVAron Baynes DET 11/15/2015 DET @ LAL L 7 9 4 5 80.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -7
+p729
+aVAndre Drummond DET 11/15/2015 DET @ LAL L 41 17 8 18 44.4 0 0 - 1 2 50.0 4 13 17 3 1 0 2 5 -5
+p730
+aVSteve Blake DET 11/14/2015 DET @ LAC L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 2 0 2 2 -2
+p731
+aVAndre Drummond DET 11/14/2015 DET @ LAC L 34 18 6 13 46.2 0 0 - 6 14 42.9 4 15 19 2 1 1 2 3 -10
+p732
+aVStanley Johnson DET 11/14/2015 DET @ LAC L 21 9 4 8 50.0 1 4 25.0 0 0 - 1 3 4 1 1 0 2 4 -11
+p733
+aVMarcus Morris DET 11/14/2015 DET @ LAC L 38 6 2 10 20.0 0 5 0.0 2 2 100.0 2 0 2 2 1 0 2 2 7
+p734
+aVReggie Jackson DET 11/14/2015 DET @ LAC L 34 20 7 15 46.7 2 6 33.3 4 5 80.0 1 5 6 5 1 0 4 1 -5
+p735
+aVAron Baynes DET 11/14/2015 DET @ LAC L 14 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 5
+p736
+aVAnthony Tolliver DET 11/14/2015 DET @ LAC L 18 5 1 3 33.3 1 3 33.3 2 2 100.0 0 4 4 1 1 0 0 2 -7
+p737
+aVErsan Ilyasova DET 11/14/2015 DET @ LAC L 29 20 5 8 62.5 3 4 75.0 7 9 77.8 1 1 2 0 0 1 2 4 6
+p738
+aVKentavious Caldwell-Pope DET 11/14/2015 DET @ LAC L 37 10 4 10 40.0 0 4 0.0 2 3 66.7 1 2 3 2 1 0 0 4 -8
+p739
+aVSteve Blake DET 11/11/2015 DET @ SAC L 15 5 2 7 28.6 1 5 20.0 0 0 - 0 2 2 3 1 0 0 0 6
+p740
+aVAron Baynes DET 11/11/2015 DET @ SAC L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 6
+p741
+aVAnthony Tolliver DET 11/11/2015 DET @ SAC L 24 8 3 5 60.0 2 4 50.0 0 0 - 0 4 4 4 0 1 1 1 -6
+p742
+aVReggie Jackson DET 11/11/2015 DET @ SAC L 33 16 5 15 33.3 1 6 16.7 5 6 83.3 1 3 4 3 0 0 2 2 -15
+p743
+aVErsan Ilyasova DET 11/11/2015 DET @ SAC L 17 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 1 0 1 1 4 -14
+p744
+aVKentavious Caldwell-Pope DET 11/11/2015 DET @ SAC L 40 15 5 14 35.7 2 6 33.3 3 4 75.0 0 1 1 0 0 1 3 4 -10
+p745
+aVStanley Johnson DET 11/11/2015 DET @ SAC L 27 8 3 11 27.3 0 3 0.0 2 2 100.0 2 3 5 2 2 0 1 2 -3
+p746
+aVAndre Drummond DET 11/11/2015 DET @ SAC L 35 14 7 13 53.8 0 0 - 0 2 0.0 9 8 17 0 2 0 5 5 -15
+p747
+aVMarcus Morris DET 11/11/2015 DET @ SAC L 36 16 5 15 33.3 1 4 25.0 5 6 83.3 2 7 9 3 5 0 3 1 6
+p748
+aVSteve Blake DET 11/09/2015 DET @ GSW L 18 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 1 0 5 0 -9
+p749
+aVKentavious Caldwell-Pope DET 11/09/2015 DET @ GSW L 38 15 6 12 50.0 1 4 25.0 2 2 100.0 1 2 3 1 2 1 0 3 -1
+p750
+aVStanley Johnson DET 11/09/2015 DET @ GSW L 32 20 9 14 64.3 2 4 50.0 0 1 0.0 2 5 7 0 0 0 0 2 -9
+p751
+aVMarcus Morris DET 11/09/2015 DET @ GSW L 43 15 6 12 50.0 1 1 100.0 2 4 50.0 1 4 5 3 2 0 1 2 -8
+p752
+aVReggie Jackson DET 11/09/2015 DET @ GSW L 30 20 7 19 36.8 1 6 16.7 5 6 83.3 0 2 2 5 2 0 6 0 -5
+p753
+aVAndre Drummond DET 11/09/2015 DET @ GSW L 35 14 7 16 43.8 0 0 - 0 2 0.0 5 10 15 3 2 2 4 4 -5
+p754
+aVReggie Bullock DET 11/09/2015 DET @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p755
+aVAron Baynes DET 11/09/2015 DET @ GSW L 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 2 0 -7
+p756
+aVAnthony Tolliver DET 11/09/2015 DET @ GSW L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -11
+p757
+aVErsan Ilyasova DET 11/09/2015 DET @ GSW L 17 4 2 5 40.0 0 2 0.0 0 0 - 2 0 2 1 0 0 1 2 -13
+p758
+aVAron Baynes DET 11/08/2015 DET @ POR W 12 4 1 1 100.0 0 0 - 2 2 100.0 2 3 5 1 0 1 1 1 3
+p759
+aVAndre Drummond DET 11/08/2015 DET @ POR W 36 29 14 19 73.7 0 0 - 1 6 16.7 9 18 27 0 2 3 1 3 14
+p760
+aVStanley Johnson DET 11/08/2015 DET @ POR W 20 3 1 4 25.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 1 0 -9
+p761
+aVKentavious Caldwell-Pope DET 11/08/2015 DET @ POR W 39 16 6 15 40.0 2 7 28.6 2 2 100.0 1 3 4 0 4 0 1 2 24
+p762
+aVErsan Ilyasova DET 11/08/2015 DET @ POR W 26 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 4 1 0 0 2 -4
+p763
+aVSteve Blake DET 11/08/2015 DET @ POR W 14 3 1 4 25.0 1 4 25.0 0 0 - 1 0 1 3 0 0 0 1 -5
+p764
+aVReggie Jackson DET 11/08/2015 DET @ POR W 34 40 15 26 57.7 3 3 100.0 7 8 87.5 2 3 5 5 2 0 2 1 22
+p765
+aVAnthony Tolliver DET 11/08/2015 DET @ POR W 22 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 0 1 1 0 3 21
+p766
+aVMarcus Morris DET 11/08/2015 DET @ POR W 37 13 5 18 27.8 1 7 14.3 2 2 100.0 3 0 3 3 3 0 3 3 19
+p767
+aVReggie Jackson DET 11/06/2015 DET @ PHX W 30 23 8 18 44.4 1 4 25.0 6 8 75.0 0 6 6 7 0 1 4 3 7
+p768
+aVAron Baynes DET 11/06/2015 DET @ PHX W 12 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 3 7
+p769
+aVSteve Blake DET 11/06/2015 DET @ PHX W 18 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 2 0 0 1 0 1
+p770
+aVStanley Johnson DET 11/06/2015 DET @ PHX W 22 5 2 5 40.0 0 2 0.0 1 3 33.3 0 5 5 2 1 0 3 5 7
+p771
+aVErsan Ilyasova DET 11/06/2015 DET @ PHX W 21 6 2 6 33.3 1 3 33.3 1 1 100.0 1 3 4 0 1 1 2 2 3
+p772
+aVAnthony Tolliver DET 11/06/2015 DET @ PHX W 25 4 1 5 20.0 1 5 20.0 1 2 50.0 0 6 6 0 0 0 0 2 4
+p773
+aVKentavious Caldwell-Pope DET 11/06/2015 DET @ PHX W 36 18 8 10 80.0 1 1 100.0 1 1 100.0 0 2 2 1 1 0 1 1 4
+p774
+aVMarcus Morris DET 11/06/2015 DET @ PHX W 39 20 7 14 50.0 2 4 50.0 4 6 66.7 1 5 6 2 2 0 1 1 6
+p775
+aVAndre Drummond DET 11/06/2015 DET @ PHX W 36 12 5 9 55.6 0 0 - 2 13 15.4 4 13 17 0 2 1 3 4 1
+p776
+aVSteve Blake DET 11/03/2015 DET vs. IND L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 3 2 -20
+p777
+aVAron Baynes DET 11/03/2015 DET vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -20
+p778
+aVStanley Johnson DET 11/03/2015 DET vs. IND L 12 0 0 5 0.0 0 1 0.0 0 2 0.0 1 2 3 2 0 0 1 4 -8
+p779
+aVMarcus Morris DET 11/03/2015 DET vs. IND L 39 11 3 11 27.3 1 6 16.7 4 4 100.0 3 4 7 0 2 2 4 2 -5
+p780
+aVReggie Jackson DET 11/03/2015 DET vs. IND L 34 20 8 20 40.0 2 4 50.0 2 2 100.0 0 0 0 6 1 1 6 3 8
+p781
+aVReggie Bullock DET 11/03/2015 DET vs. IND L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -16
+p782
+aVAndre Drummond DET 11/03/2015 DET vs. IND L 43 25 12 17 70.6 0 0 - 1 2 50.0 11 18 29 0 3 1 4 3 8
+p783
+aVAnthony Tolliver DET 11/03/2015 DET vs. IND L 13 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -12
+p784
+aVSpencer Dinwiddie DET 11/03/2015 DET vs. IND L 7 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 2 3 0
+p785
+aVErsan Ilyasova DET 11/03/2015 DET vs. IND L 35 12 5 13 38.5 2 4 50.0 0 0 - 4 0 4 0 1 0 0 0 0
+p786
+aVKentavious Caldwell-Pope DET 11/03/2015 DET vs. IND L 42 12 4 13 30.8 0 3 0.0 4 5 80.0 0 5 5 5 1 0 2 3 5
+p787
+aVReggie Bullock DET 10/30/2015 DET vs. CHI W 15 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -6
+p788
+aVReggie Jackson DET 10/30/2015 DET vs. CHI W 37 22 9 24 37.5 1 4 25.0 3 4 75.0 1 6 7 7 2 0 5 3 7
+p789
+aVKentavious Caldwell-Pope DET 10/30/2015 DET vs. CHI W 39 6 2 12 16.7 0 5 0.0 2 2 100.0 1 3 4 2 2 0 2 2 8
+p790
+aVStanley Johnson DET 10/30/2015 DET vs. CHI W 12 7 3 8 37.5 0 1 0.0 1 1 100.0 2 2 4 1 1 0 1 1 -4
+p791
+aVAron Baynes DET 10/30/2015 DET vs. CHI W 14 4 2 4 50.0 0 0 - 0 2 0.0 1 5 6 1 0 0 0 1 -8
+p792
+aVErsan Ilyasova DET 10/30/2015 DET vs. CHI W 22 2 1 5 20.0 0 3 0.0 0 0 - 3 2 5 0 0 0 1 3 6
+p793
+aVSteve Blake DET 10/30/2015 DET vs. CHI W 16 0 0 7 0.0 0 4 0.0 0 0 - 1 2 3 5 0 0 0 0 -3
+p794
+aVAnthony Tolliver DET 10/30/2015 DET vs. CHI W 30 11 4 9 44.4 3 8 37.5 0 0 - 0 3 3 0 2 0 0 1 2
+p795
+aVMarcus Morris DET 10/30/2015 DET vs. CHI W 42 26 10 15 66.7 2 2 100.0 4 9 44.4 1 6 7 2 0 0 2 4 6
+p796
+aVAndre Drummond DET 10/30/2015 DET vs. CHI W 39 20 8 19 42.1 0 0 - 4 10 40.0 9 11 20 0 2 2 3 3 12
+p797
+aVJodie Meeks DET 10/28/2015 DET vs. UTA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p798
+aVMarcus Morris DET 10/28/2015 DET vs. UTA W 35 14 5 10 50.0 1 1 100.0 3 3 100.0 1 5 6 1 0 0 2 3 13
+p799
+aVAron Baynes DET 10/28/2015 DET vs. UTA W 12 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 0 0 1 0 3 -9
+p800
+aVAndre Drummond DET 10/28/2015 DET vs. UTA W 36 18 5 11 45.5 0 0 - 8 11 72.7 2 8 10 0 1 2 0 2 14
+p801
+aVReggie Jackson DET 10/28/2015 DET vs. UTA W 31 19 7 14 50.0 1 3 33.3 4 7 57.1 0 2 2 4 0 0 4 1 -5
+p802
+aVReggie Bullock DET 10/28/2015 DET vs. UTA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p803
+aVAnthony Tolliver DET 10/28/2015 DET vs. UTA W 19 0 0 3 0.0 0 1 0.0 0 3 0.0 1 5 6 2 0 0 0 1 3
+p804
+aVErsan Ilyasova DET 10/28/2015 DET vs. UTA W 22 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 1 1 0 1 4 -6
+p805
+aVStanley Johnson DET 10/28/2015 DET vs. UTA W 20 11 3 10 30.0 1 3 33.3 4 4 100.0 2 3 5 0 0 0 0 3 0
+p806
+aVSteve Blake DET 10/28/2015 DET vs. UTA W 17 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 7 0 0 1 0 10
+p807
+aVKentavious Caldwell-Pope DET 10/28/2015 DET vs. UTA W 36 16 5 11 45.5 2 5 40.0 4 4 100.0 0 5 5 1 0 1 2 2 2
+p808
+aVAron Baynes DET 10/27/2015 DET @ ATL W 11 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -11
+p809
+aVReggie Jackson DET 10/27/2015 DET @ ATL W 32 15 4 10 40.0 2 4 50.0 5 5 100.0 1 7 8 5 2 0 2 0 26
+p810
+aVErsan Ilyasova DET 10/27/2015 DET @ ATL W 34 16 6 12 50.0 3 6 50.0 1 2 50.0 3 4 7 3 0 1 3 4 20
+p811
+aVStanley Johnson DET 10/27/2015 DET @ ATL W 24 7 3 10 30.0 1 3 33.3 0 0 - 3 1 4 3 0 0 1 1 -13
+p812
+aVSteve Blake DET 10/27/2015 DET @ ATL W 16 3 1 6 16.7 1 5 20.0 0 0 - 0 0 0 4 1 0 3 1 -14
+p813
+aVAndre Drummond DET 10/27/2015 DET @ ATL W 37 18 6 16 37.5 0 0 - 6 10 60.0 8 11 19 3 1 2 2 4 23
+p814
+aVKentavious Caldwell-Pope DET 10/27/2015 DET @ ATL W 37 21 7 14 50.0 4 7 57.1 3 3 100.0 1 3 4 1 1 0 2 1 17
+p815
+aVJodie Meeks DET 10/27/2015 DET @ ATL W 11 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -5
+p816
+aVMarcus Morris DET 10/27/2015 DET @ ATL W 37 18 6 19 31.6 1 4 25.0 5 6 83.3 5 5 10 4 0 0 0 1 17
+p817
+a.

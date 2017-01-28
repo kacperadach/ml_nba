@@ -1,0 +1,1616 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVReggie Lewis BOS 04/19/1992 BOS vs. MIA W 42 22 9 17 52.9 0 0 - 4 5 80.0 1 5 6 3 1 1 1 4 -
+p2
+aVRobert Parish BOS 04/19/1992 BOS vs. MIA W 38 22 8 14 57.1 0 0 - 6 6 100.0 8 11 19 1 2 0 2 3 -
+p3
+aVKevin McHale BOS 04/19/1992 BOS vs. MIA W 30 15 7 14 50.0 0 0 - 1 2 50.0 2 3 5 1 0 1 2 2 -
+p4
+aVRick Fox BOS 04/19/1992 BOS vs. MIA W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p5
+aVJohn Bagley BOS 04/19/1992 BOS vs. MIA W 31 14 7 15 46.7 0 2 0.0 0 0 - 1 1 2 11 2 0 2 1 -
+p6
+aVSherman Douglas BOS 04/19/1992 BOS vs. MIA W 17 9 4 6 66.7 0 0 - 1 2 50.0 0 3 3 3 0 0 0 3 -
+p7
+aVEd Pinckney BOS 04/19/1992 BOS vs. MIA W 25 10 2 4 50.0 0 0 - 6 7 85.7 2 3 5 0 1 0 1 1 -
+p8
+aVJoe Kleine BOS 04/19/1992 BOS vs. MIA W 6 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -
+p9
+aVKevin Gamble BOS 04/19/1992 BOS vs. MIA W 40 15 6 11 54.5 1 2 50.0 2 2 100.0 0 4 4 2 1 1 0 1 -
+p10
+aVJohn Bagley BOS 04/15/1992 BOS @ DET W 33 18 8 14 57.1 1 1 100.0 1 2 50.0 3 4 7 9 2 0 4 3 -
+p11
+aVRobert Parish BOS 04/15/1992 BOS @ DET W 38 22 11 19 57.9 0 0 - 0 2 0.0 3 8 11 0 1 0 0 3 -
+p12
+aVKevin Gamble BOS 04/15/1992 BOS @ DET W 34 11 5 9 55.6 0 1 0.0 1 1 100.0 0 1 1 3 0 0 4 2 -
+p13
+aVReggie Lewis BOS 04/15/1992 BOS @ DET W 43 13 6 18 33.3 0 0 - 1 2 50.0 1 2 3 2 5 2 0 3 -
+p14
+aVSherman Douglas BOS 04/15/1992 BOS @ DET W 15 6 3 7 42.9 0 1 0.0 0 1 0.0 1 1 2 4 0 0 1 0 -
+p15
+aVJoe Kleine BOS 04/15/1992 BOS @ DET W 5 2 1 3 33.3 0 1 0.0 0 0 - 2 0 2 0 0 0 0 1 -
+p16
+aVKevin McHale BOS 04/15/1992 BOS @ DET W 25 10 3 10 30.0 0 0 - 4 4 100.0 4 2 6 3 0 2 1 3 -
+p17
+aVRick Fox BOS 04/15/1992 BOS @ DET W 13 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -
+p18
+aVEd Pinckney BOS 04/15/1992 BOS @ DET W 34 6 3 4 75.0 0 0 - 0 0 - 5 3 8 2 0 1 0 2 -
+p19
+aVEd Pinckney BOS 04/14/1992 BOS @ PHL W 11 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -
+p20
+aVJoe Kleine BOS 04/14/1992 BOS @ PHL W 15 2 1 6 16.7 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -
+p21
+aVReggie Lewis BOS 04/14/1992 BOS @ PHL W 45 27 11 20 55.0 0 0 - 5 7 71.4 4 3 7 4 1 1 1 3 -
+p22
+aVJohn Bagley BOS 04/14/1992 BOS @ PHL W 33 10 3 11 27.3 0 0 - 4 4 100.0 0 1 1 14 0 0 2 0 -
+p23
+aVKevin McHale BOS 04/14/1992 BOS @ PHL W 37 20 9 12 75.0 0 0 - 2 2 100.0 5 7 12 3 0 2 0 2 -
+p24
+aVRobert Parish BOS 04/14/1992 BOS @ PHL W 33 8 3 10 30.0 0 0 - 2 2 100.0 2 8 10 0 1 1 3 1 -
+p25
+aVSherman Douglas BOS 04/14/1992 BOS @ PHL W 18 6 3 8 37.5 0 1 0.0 0 0 - 2 2 4 4 1 0 2 2 -
+p26
+aVRick Fox BOS 04/14/1992 BOS @ PHL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -
+p27
+aVKevin Gamble BOS 04/14/1992 BOS @ PHL W 44 24 10 15 66.7 2 3 66.7 2 2 100.0 0 6 6 1 0 0 2 4 -
+p28
+aVSherman Douglas BOS 04/12/1992 BOS @ CHH W 27 12 5 11 45.5 0 1 0.0 2 3 66.7 0 4 4 10 3 0 4 2 -
+p29
+aVKevin Gamble BOS 04/12/1992 BOS @ CHH W 45 26 11 18 61.1 0 0 - 4 6 66.7 2 10 12 3 2 0 3 3 -
+p30
+aVJohn Bagley BOS 04/12/1992 BOS @ CHH W 21 11 5 6 83.3 0 0 - 1 2 50.0 0 0 0 12 0 0 3 0 -
+p31
+aVRobert Parish BOS 04/12/1992 BOS @ CHH W 24 10 5 7 71.4 0 0 - 0 0 - 3 11 14 0 1 0 0 0 -
+p32
+aVReggie Lewis BOS 04/12/1992 BOS @ CHH W 33 35 15 19 78.9 0 0 - 5 6 83.3 2 7 9 6 4 3 1 3 -
+p33
+aVEd Pinckney BOS 04/12/1992 BOS @ CHH W 19 11 5 10 50.0 0 0 - 1 1 100.0 2 4 6 0 0 0 0 1 -
+p34
+aVJoe Kleine BOS 04/12/1992 BOS @ CHH W 24 6 3 8 37.5 0 1 0.0 0 0 - 0 6 6 0 1 1 2 1 -
+p35
+aVKevin McHale BOS 04/12/1992 BOS @ CHH W 21 8 4 8 50.0 0 0 - 0 0 - 0 3 3 0 0 1 2 1 -
+p36
+aVStojko Vrankovic BOS 04/12/1992 BOS @ CHH W 8 5 2 3 66.7 0 0 - 1 3 33.3 1 0 1 0 0 0 0 0 -
+p37
+aVRick Fox BOS 04/12/1992 BOS @ CHH W 18 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 5 4 -
+p38
+aVKevin Gamble BOS 04/10/1992 BOS vs. MIL W 30 14 7 9 77.8 0 0 - 0 0 - 0 4 4 2 0 0 1 2 -
+p39
+aVKevin McHale BOS 04/10/1992 BOS vs. MIL W 35 26 10 16 62.5 0 0 - 6 6 100.0 2 6 8 1 0 4 2 0 -
+p40
+aVReggie Lewis BOS 04/10/1992 BOS vs. MIL W 43 24 9 17 52.9 0 0 - 6 6 100.0 4 4 8 2 3 1 1 1 -
+p41
+aVRobert Parish BOS 04/10/1992 BOS vs. MIL W 20 13 5 10 50.0 0 0 - 3 4 75.0 4 4 8 1 1 1 2 4 -
+p42
+aVJohn Bagley BOS 04/10/1992 BOS vs. MIL W 24 4 2 7 28.6 0 1 0.0 0 1 0.0 0 1 1 10 1 0 3 1 -
+p43
+aVSherman Douglas BOS 04/10/1992 BOS vs. MIL W 24 12 5 9 55.6 0 1 0.0 2 5 40.0 0 2 2 8 1 0 5 1 -
+p44
+aVJoe Kleine BOS 04/10/1992 BOS vs. MIL W 28 6 2 6 33.3 0 0 - 2 2 100.0 5 5 10 2 1 0 1 3 -
+p45
+aVRick Fox BOS 04/10/1992 BOS vs. MIL W 23 5 2 5 40.0 0 1 0.0 1 2 50.0 2 6 8 3 0 1 1 2 -
+p46
+aVEd Pinckney BOS 04/10/1992 BOS vs. MIL W 13 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 3 1 -
+p47
+aVEd Pinckney BOS 04/08/1992 BOS vs. NYK W 22 6 3 3 100.0 0 0 - 0 0 - 3 5 8 2 1 0 2 1 -
+p48
+aVKevin Gamble BOS 04/08/1992 BOS vs. NYK W 38 13 6 15 40.0 0 1 0.0 1 1 100.0 1 2 3 5 1 2 1 1 -
+p49
+aVDee Brown BOS 04/08/1992 BOS vs. NYK W 22 8 3 3 100.0 1 1 100.0 1 2 50.0 1 2 3 3 0 0 4 1 -
+p50
+aVRick Fox BOS 04/08/1992 BOS vs. NYK W 19 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 5 1 1 0 2 -
+p51
+aVReggie Lewis BOS 04/08/1992 BOS vs. NYK W 41 15 5 12 41.7 0 0 - 5 7 71.4 0 6 6 4 1 2 1 3 -
+p52
+aVJoe Kleine BOS 04/08/1992 BOS vs. NYK W 10 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -
+p53
+aVJohn Bagley BOS 04/08/1992 BOS vs. NYK W 26 13 6 12 50.0 1 1 100.0 0 2 0.0 0 1 1 5 3 0 0 0 -
+p54
+aVRobert Parish BOS 04/08/1992 BOS vs. NYK W 37 14 7 15 46.7 0 0 - 0 0 - 1 10 11 0 3 2 2 5 -
+p55
+aVKevin McHale BOS 04/08/1992 BOS vs. NYK W 25 15 6 13 46.2 0 0 - 3 6 50.0 3 2 5 0 0 0 4 1 -
+p56
+aVEd Pinckney BOS 04/07/1992 BOS @ CLE W 25 7 3 7 42.9 0 0 - 1 4 25.0 6 5 11 3 0 1 3 1 -
+p57
+aVRick Fox BOS 04/07/1992 BOS @ CLE W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -
+p58
+aVRobert Parish BOS 04/07/1992 BOS @ CLE W 30 8 4 9 44.4 0 0 - 0 0 - 2 7 9 1 0 0 1 2 -
+p59
+aVKevin McHale BOS 04/07/1992 BOS @ CLE W 30 10 4 10 40.0 0 0 - 2 2 100.0 1 4 5 3 0 2 1 2 -
+p60
+aVDee Brown BOS 04/07/1992 BOS @ CLE W 40 8 4 8 50.0 0 0 - 0 0 - 0 4 4 10 0 0 1 3 -
+p61
+aVKevin Gamble BOS 04/07/1992 BOS @ CLE W 32 18 9 15 60.0 0 0 - 0 0 - 1 2 3 6 2 1 2 1 -
+p62
+aVJohn Bagley BOS 04/07/1992 BOS @ CLE W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p63
+aVSherman Douglas BOS 04/07/1992 BOS @ CLE W 9 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 6 0 0 1 0 -
+p64
+aVJoe Kleine BOS 04/07/1992 BOS @ CLE W 18 4 2 4 50.0 0 0 - 0 0 - 3 7 10 0 1 1 0 3 -
+p65
+aVReggie Lewis BOS 04/07/1992 BOS @ CLE W 44 38 17 27 63.0 0 0 - 4 6 66.7 1 3 4 4 1 1 3 4 -
+p66
+aVKevin McHale BOS 04/05/1992 BOS vs. CHI W 31 20 9 15 60.0 0 0 - 2 2 100.0 2 6 8 0 0 1 1 2 -
+p67
+aVJohn Bagley BOS 04/05/1992 BOS vs. CHI W 22 9 4 7 57.1 1 2 50.0 0 0 - 1 3 4 6 1 0 3 0 -
+p68
+aVKevin Gamble BOS 04/05/1992 BOS vs. CHI W 36 10 4 12 33.3 0 0 - 2 2 100.0 2 1 3 3 1 0 2 4 -
+p69
+aVDee Brown BOS 04/05/1992 BOS vs. CHI W 26 14 6 12 50.0 0 0 - 2 2 100.0 0 1 1 5 1 0 2 4 -
+p70
+aVReggie Lewis BOS 04/05/1992 BOS vs. CHI W 38 21 7 15 46.7 0 0 - 7 8 87.5 0 1 1 7 0 0 1 3 -
+p71
+aVRick Fox BOS 04/05/1992 BOS vs. CHI W 23 5 2 6 33.3 1 3 33.3 0 0 - 1 2 3 3 0 1 1 1 -
+p72
+aVRobert Parish BOS 04/05/1992 BOS vs. CHI W 33 14 5 10 50.0 0 0 - 4 4 100.0 3 10 13 1 0 2 0 1 -
+p73
+aVEd Pinckney BOS 04/05/1992 BOS vs. CHI W 31 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 2 1 1 2 -
+p74
+aVKevin McHale BOS 04/03/1992 BOS @ IND L 29 10 3 9 33.3 0 0 - 4 4 100.0 2 6 8 2 0 2 2 2 -
+p75
+aVRick Fox BOS 04/03/1992 BOS @ IND L 15 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 1 0 0 4 -
+p76
+aVRobert Parish BOS 04/03/1992 BOS @ IND L 28 15 7 12 58.3 0 0 - 1 1 100.0 5 4 9 1 1 1 2 2 -
+p77
+aVDee Brown BOS 04/03/1992 BOS @ IND L 34 18 8 18 44.4 0 1 0.0 2 3 66.7 3 3 6 3 4 0 4 2 -
+p78
+aVReggie Lewis BOS 04/03/1992 BOS @ IND L 36 22 11 21 52.4 0 0 - 0 0 - 0 4 4 5 3 0 0 4 -
+p79
+aVJohn Bagley BOS 04/03/1992 BOS @ IND L 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 4 1 0 0 0 -
+p80
+aVLarry Bird BOS 04/03/1992 BOS @ IND L 40 16 8 20 40.0 0 4 0.0 0 0 - 2 7 9 10 0 0 1 4 -
+p81
+aVEd Pinckney BOS 04/03/1992 BOS @ IND L 19 8 3 5 60.0 0 0 - 2 2 100.0 1 7 8 0 0 0 0 1 -
+p82
+aVSherman Douglas BOS 04/03/1992 BOS @ IND L 14 3 0 2 0.0 0 0 - 3 4 75.0 0 2 2 5 2 0 2 2 -
+p83
+aVKevin Gamble BOS 04/03/1992 BOS @ IND L 18 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -
+p84
+aVDee Brown BOS 04/01/1992 BOS vs. WAS W 27 13 5 10 50.0 0 1 0.0 3 6 50.0 0 4 4 3 2 1 1 3 -
+p85
+aVLarry Bird BOS 04/01/1992 BOS vs. WAS W 39 13 5 9 55.6 1 1 100.0 2 2 100.0 2 11 13 9 1 0 1 2 -
+p86
+aVSherman Douglas BOS 04/01/1992 BOS vs. WAS W 7 9 4 5 80.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 -
+p87
+aVJohn Bagley BOS 04/01/1992 BOS vs. WAS W 19 7 3 7 42.9 0 1 0.0 1 2 50.0 0 2 2 5 1 0 2 2 -
+p88
+aVRobert Parish BOS 04/01/1992 BOS vs. WAS W 26 17 6 10 60.0 0 0 - 5 5 100.0 0 4 4 2 0 0 2 0 -
+p89
+aVEd Pinckney BOS 04/01/1992 BOS vs. WAS W 12 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 2 -
+p90
+aVKevin McHale BOS 04/01/1992 BOS vs. WAS W 29 18 6 11 54.5 0 0 - 6 6 100.0 4 2 6 4 0 1 1 0 -
+p91
+aVJoe Kleine BOS 04/01/1992 BOS vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p92
+aVReggie Lewis BOS 04/01/1992 BOS vs. WAS W 41 28 12 15 80.0 0 0 - 4 4 100.0 1 3 4 1 1 3 0 4 -
+p93
+aVRick Fox BOS 04/01/1992 BOS vs. WAS W 12 3 1 4 25.0 0 2 0.0 1 2 50.0 2 2 4 1 0 0 2 1 -
+p94
+aVKevin Gamble BOS 04/01/1992 BOS vs. WAS W 25 10 5 8 62.5 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -
+p95
+aVRick Fox BOS 03/29/1992 BOS vs. ATL W 15 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 5 1 0 2 4 -
+p96
+aVStojko Vrankovic BOS 03/29/1992 BOS vs. ATL W 4 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 1 0 -
+p97
+aVJoe Kleine BOS 03/29/1992 BOS vs. ATL W 12 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 0 1 1 1 -
+p98
+aVKevin Gamble BOS 03/29/1992 BOS vs. ATL W 32 22 11 14 78.6 0 0 - 0 0 - 0 0 0 6 0 1 1 4 -
+p99
+aVRobert Parish BOS 03/29/1992 BOS vs. ATL W 21 10 5 5 100.0 0 0 - 0 0 - 1 7 8 1 1 1 3 0 -
+p100
+aVSherman Douglas BOS 03/29/1992 BOS vs. ATL W 11 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 4 1 0 1 4 -
+p101
+aVLarry Bird BOS 03/29/1992 BOS vs. ATL W 35 20 9 15 60.0 2 5 40.0 0 0 - 1 9 10 7 1 1 3 1 -
+p102
+aVKevin McHale BOS 03/29/1992 BOS vs. ATL W 24 13 5 6 83.3 0 0 - 3 6 50.0 0 5 5 2 0 1 2 2 -
+p103
+aVReggie Lewis BOS 03/29/1992 BOS vs. ATL W 33 14 7 15 46.7 0 0 - 0 0 - 1 5 6 1 0 4 2 2 -
+p104
+aVJohn Bagley BOS 03/29/1992 BOS vs. ATL W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 4 0 0 1 2 -
+p105
+aVEd Pinckney BOS 03/29/1992 BOS vs. ATL W 16 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -
+p106
+aVDee Brown BOS 03/29/1992 BOS vs. ATL W 29 15 7 10 70.0 1 2 50.0 0 0 - 0 3 3 7 1 2 2 3 -
+p107
+aVLarry Bird BOS 03/27/1992 BOS vs. DET W 39 21 6 18 33.3 2 4 50.0 7 7 100.0 1 5 6 7 1 1 0 1 -
+p108
+aVKevin McHale BOS 03/27/1992 BOS vs. DET W 30 16 6 11 54.5 0 0 - 4 4 100.0 5 4 9 1 1 0 4 4 -
+p109
+aVRobert Parish BOS 03/27/1992 BOS vs. DET W 32 14 6 10 60.0 0 0 - 2 2 100.0 2 7 9 1 1 0 0 3 -
+p110
+aVDee Brown BOS 03/27/1992 BOS vs. DET W 22 14 7 15 46.7 0 1 0.0 0 0 - 0 2 2 2 0 0 2 1 -
+p111
+aVJohn Bagley BOS 03/27/1992 BOS vs. DET W 26 7 3 8 37.5 0 2 0.0 1 2 50.0 0 2 2 7 2 0 1 1 -
+p112
+aVRick Fox BOS 03/27/1992 BOS vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p113
+aVEd Pinckney BOS 03/27/1992 BOS vs. DET W 31 7 1 4 25.0 0 0 - 5 5 100.0 3 5 8 2 2 0 0 3 -
+p114
+aVKevin Gamble BOS 03/27/1992 BOS vs. DET W 14 6 3 7 42.9 0 0 - 0 0 - 1 0 1 1 1 0 1 4 -
+p115
+aVReggie Lewis BOS 03/27/1992 BOS vs. DET W 44 21 9 13 69.2 0 0 - 3 4 75.0 1 6 7 2 0 0 3 4 -
+p116
+aVJoe Kleine BOS 03/27/1992 BOS vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p117
+aVRick Fox BOS 03/25/1992 BOS @ NJN W 5 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 1 0 1 0 -
+p118
+aVRobert Parish BOS 03/25/1992 BOS @ NJN W 22 10 3 9 33.3 0 0 - 4 4 100.0 5 2 7 1 1 0 1 1 -
+p119
+aVEd Pinckney BOS 03/25/1992 BOS @ NJN W 23 11 4 5 80.0 0 0 - 3 4 75.0 1 1 2 0 0 3 0 3 -
+p120
+aVReggie Lewis BOS 03/25/1992 BOS @ NJN W 40 19 9 18 50.0 1 1 100.0 0 0 - 2 2 4 5 3 0 1 3 -
+p121
+aVKevin Gamble BOS 03/25/1992 BOS @ NJN W 22 10 5 7 71.4 0 0 - 0 0 - 1 1 2 0 1 0 1 3 -
+p122
+aVDee Brown BOS 03/25/1992 BOS @ NJN W 34 14 6 13 46.2 0 0 - 2 2 100.0 0 1 1 6 3 0 5 3 -
+p123
+aVKevin McHale BOS 03/25/1992 BOS @ NJN W 33 24 10 11 90.9 0 0 - 4 6 66.7 1 6 7 1 1 0 1 1 -
+p124
+aVJoe Kleine BOS 03/25/1992 BOS @ NJN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p125
+aVJohn Bagley BOS 03/25/1992 BOS @ NJN W 15 0 0 3 0.0 0 0 - 0 2 0.0 0 1 1 8 0 0 1 1 -
+p126
+aVLarry Bird BOS 03/25/1992 BOS @ NJN W 42 25 9 12 75.0 3 3 100.0 4 5 80.0 1 8 9 9 1 2 3 3 -
+p127
+aVReggie Lewis BOS 03/22/1992 BOS vs. GOS W 37 15 7 14 50.0 0 0 - 1 2 50.0 0 6 6 2 0 1 1 4 -
+p128
+aVJoe Kleine BOS 03/22/1992 BOS vs. GOS W 10 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 1 0 0 -
+p129
+aVKevin Gamble BOS 03/22/1992 BOS vs. GOS W 31 25 10 13 76.9 0 0 - 5 6 83.3 1 4 5 1 2 0 1 2 -
+p130
+aVRobert Parish BOS 03/22/1992 BOS vs. GOS W 21 12 4 7 57.1 0 0 - 4 4 100.0 3 4 7 0 1 0 0 1 -
+p131
+aVLarry Bird BOS 03/22/1992 BOS vs. GOS W 35 11 4 15 26.7 1 3 33.3 2 2 100.0 4 11 15 7 1 2 5 0 -
+p132
+aVKevin McHale BOS 03/22/1992 BOS vs. GOS W 30 22 9 12 75.0 0 1 0.0 4 4 100.0 0 3 3 3 1 2 3 2 -
+p133
+aVDee Brown BOS 03/22/1992 BOS vs. GOS W 30 8 3 11 27.3 0 1 0.0 2 2 100.0 0 2 2 7 1 0 1 4 -
+p134
+aVEd Pinckney BOS 03/22/1992 BOS vs. GOS W 8 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 4 0 0 0 -
+p135
+aVRick Fox BOS 03/22/1992 BOS vs. GOS W 14 4 0 0 - 0 0 - 4 4 100.0 1 0 1 2 0 0 4 4 -
+p136
+aVJohn Bagley BOS 03/22/1992 BOS vs. GOS W 24 11 5 5 100.0 0 0 - 1 2 50.0 0 1 1 4 0 0 4 3 -
+p137
+aVKevin McHale BOS 03/20/1992 BOS @ DET W 22 10 3 7 42.9 0 0 - 4 4 100.0 1 5 6 2 0 0 0 1 -
+p138
+aVDee Brown BOS 03/20/1992 BOS @ DET W 42 12 6 11 54.5 0 0 - 0 0 - 0 2 2 9 1 0 3 5 -
+p139
+aVLarry Bird BOS 03/20/1992 BOS @ DET W 41 21 8 21 38.1 2 4 50.0 3 3 100.0 1 11 12 8 1 0 4 1 -
+p140
+aVRobert Parish BOS 03/20/1992 BOS @ DET W 36 16 8 19 42.1 0 0 - 0 0 - 5 7 12 0 0 0 1 2 -
+p141
+aVJohn Bagley BOS 03/20/1992 BOS @ DET W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 -
+p142
+aVEd Pinckney BOS 03/20/1992 BOS @ DET W 31 8 4 7 57.1 0 0 - 0 0 - 8 3 11 2 1 0 0 3 -
+p143
+aVJoe Kleine BOS 03/20/1992 BOS @ DET W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -
+p144
+aVStojko Vrankovic BOS 03/20/1992 BOS @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p145
+aVReggie Lewis BOS 03/20/1992 BOS @ DET W 46 29 12 21 57.1 0 0 - 5 5 100.0 1 3 4 3 2 0 0 4 -
+p146
+aVKevin Gamble BOS 03/20/1992 BOS @ DET W 29 6 3 10 30.0 0 1 0.0 0 0 - 1 2 3 1 3 0 0 2 -
+p147
+aVKevin Gamble BOS 03/18/1992 BOS vs. CLE W 30 16 7 11 63.6 0 0 - 2 2 100.0 2 4 6 1 1 0 0 3 -
+p148
+aVEd Pinckney BOS 03/18/1992 BOS vs. CLE W 15 4 2 2 100.0 0 0 - 0 0 - 2 3 5 0 1 0 1 3 -
+p149
+aVRobert Parish BOS 03/18/1992 BOS vs. CLE W 22 2 1 5 20.0 0 0 - 0 0 - 1 5 6 0 0 0 0 4 -
+p150
+aVDee Brown BOS 03/18/1992 BOS vs. CLE W 46 16 6 15 40.0 1 1 100.0 3 3 100.0 2 1 3 10 0 0 4 5 -
+p151
+aVKevin McHale BOS 03/18/1992 BOS vs. CLE W 31 20 9 17 52.9 0 0 - 2 4 50.0 3 4 7 2 0 1 2 2 -
+p152
+aVReggie Lewis BOS 03/18/1992 BOS vs. CLE W 41 20 10 21 47.6 0 1 0.0 0 0 - 3 3 6 0 2 1 1 0 -
+p153
+aVLarry Bird BOS 03/18/1992 BOS vs. CLE W 40 16 8 14 57.1 0 2 0.0 0 0 - 0 8 8 10 1 1 1 3 -
+p154
+aVRickey Green BOS 03/18/1992 BOS vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p155
+aVRick Fox BOS 03/18/1992 BOS vs. CLE W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -
+p156
+aVReggie Lewis BOS 03/17/1992 BOS @ MIL L 29 12 5 10 50.0 0 0 - 2 3 66.7 0 2 2 2 1 2 2 3 -
+p157
+aVKevin Gamble BOS 03/17/1992 BOS @ MIL L 39 20 9 18 50.0 0 2 0.0 2 2 100.0 0 4 4 4 1 0 1 3 -
+p158
+aVEd Pinckney BOS 03/17/1992 BOS @ MIL L 18 14 6 9 66.7 0 0 - 2 4 50.0 3 1 4 2 3 0 1 1 -
+p159
+aVRick Fox BOS 03/17/1992 BOS @ MIL L 20 16 5 13 38.5 1 3 33.3 5 6 83.3 1 2 3 3 1 0 1 3 -
+p160
+aVJohn Bagley BOS 03/17/1992 BOS @ MIL L 37 10 5 10 50.0 0 1 0.0 0 0 - 2 5 7 10 1 1 3 1 -
+p161
+aVKevin McHale BOS 03/17/1992 BOS @ MIL L 19 6 2 10 20.0 0 0 - 2 2 100.0 3 3 6 0 1 3 1 1 -
+p162
+aVRobert Parish BOS 03/17/1992 BOS @ MIL L 16 10 5 6 83.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p163
+aVLarry Bird BOS 03/17/1992 BOS @ MIL L 26 7 3 7 42.9 0 0 - 1 2 50.0 0 5 5 7 0 0 3 0 -
+p164
+aVRickey Green BOS 03/17/1992 BOS @ MIL L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -
+p165
+aVJoe Kleine BOS 03/17/1992 BOS @ MIL L 25 9 4 6 66.7 0 0 - 1 2 50.0 3 4 7 1 0 0 3 2 -
+p166
+aVDee Brown BOS 03/15/1992 BOS vs. POR W 25 4 2 5 40.0 0 0 - 0 0 - 0 2 2 11 1 0 3 2 -
+p167
+aVReggie Lewis BOS 03/15/1992 BOS vs. POR W 41 23 9 21 42.9 0 0 - 5 5 100.0 4 0 4 3 2 2 2 6 -
+p168
+aVRobert Parish BOS 03/15/1992 BOS vs. POR W 39 22 6 9 66.7 0 0 - 10 11 90.9 1 9 10 1 1 1 1 6 -
+p169
+aVLarry Bird BOS 03/15/1992 BOS vs. POR W 54 49 19 35 54.3 2 8 25.0 9 10 90.0 0 14 14 12 4 1 5 5 -
+p170
+aVJohn Bagley BOS 03/15/1992 BOS vs. POR W 33 9 4 5 80.0 0 0 - 1 2 50.0 1 2 3 10 1 0 1 2 -
+p171
+aVEd Pinckney BOS 03/15/1992 BOS vs. POR W 15 6 2 3 66.7 0 0 - 2 4 50.0 1 2 3 0 0 0 0 1 -
+p172
+aVKevin McHale BOS 03/15/1992 BOS vs. POR W 37 22 6 12 50.0 0 0 - 10 10 100.0 1 4 5 0 1 1 1 6 -
+p173
+aVKevin Gamble BOS 03/15/1992 BOS vs. POR W 38 14 6 7 85.7 0 0 - 2 2 100.0 0 2 2 1 0 1 0 3 -
+p174
+aVRick Fox BOS 03/15/1992 BOS vs. POR W 8 3 1 3 33.3 0 1 0.0 1 4 25.0 1 0 1 0 0 0 0 3 -
+p175
+aVDee Brown BOS 03/13/1992 BOS vs. NJN L 35 13 5 6 83.3 0 0 - 3 3 100.0 0 1 1 7 3 1 1 1 -
+p176
+aVKevin Gamble BOS 03/13/1992 BOS vs. NJN L 28 16 7 8 87.5 0 0 - 2 2 100.0 2 1 3 1 1 0 1 3 -
+p177
+aVLarry Bird BOS 03/13/1992 BOS vs. NJN L 41 28 10 25 40.0 0 4 0.0 8 9 88.9 0 7 7 6 1 0 5 2 -
+p178
+aVRick Fox BOS 03/13/1992 BOS vs. NJN L 17 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 1 2 -
+p179
+aVRobert Parish BOS 03/13/1992 BOS vs. NJN L 30 6 3 7 42.9 0 0 - 0 2 0.0 1 3 4 1 0 1 1 1 -
+p180
+aVEd Pinckney BOS 03/13/1992 BOS vs. NJN L 23 5 0 2 0.0 0 0 - 5 6 83.3 3 6 9 2 0 1 4 2 -
+p181
+aVJohn Bagley BOS 03/13/1992 BOS vs. NJN L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 4 1 0 1 1 -
+p182
+aVReggie Lewis BOS 03/13/1992 BOS vs. NJN L 35 22 9 18 50.0 0 0 - 4 4 100.0 5 3 8 1 2 1 1 5 -
+p183
+aVKevin McHale BOS 03/13/1992 BOS vs. NJN L 18 14 5 9 55.6 0 1 0.0 4 4 100.0 0 3 3 0 0 0 1 2 -
+p184
+aVRick Fox BOS 03/11/1992 BOS @ CHI L 26 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 3 1 0 4 4 -
+p185
+aVDee Brown BOS 03/11/1992 BOS @ CHI L 34 9 4 19 21.1 0 2 0.0 1 2 50.0 0 1 1 3 0 1 1 2 -
+p186
+aVEd Pinckney BOS 03/11/1992 BOS @ CHI L 22 7 2 4 50.0 0 0 - 3 4 75.0 2 4 6 0 0 0 0 2 -
+p187
+aVLarry Bird BOS 03/11/1992 BOS @ CHI L 36 10 4 15 26.7 0 0 - 2 2 100.0 0 4 4 6 2 0 4 2 -
+p188
+aVJohn Bagley BOS 03/11/1992 BOS @ CHI L 14 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 6 1 0 2 1 -
+p189
+aVRobert Parish BOS 03/11/1992 BOS @ CHI L 23 10 5 12 41.7 0 0 - 0 0 - 3 6 9 0 0 0 2 2 -
+p190
+aVJoe Kleine BOS 03/11/1992 BOS @ CHI L 5 5 2 4 50.0 0 1 0.0 1 1 100.0 0 2 2 0 1 0 1 0 -
+p191
+aVKevin Gamble BOS 03/11/1992 BOS @ CHI L 20 6 3 4 75.0 0 0 - 0 0 - 0 2 2 3 0 0 0 0 -
+p192
+aVReggie Lewis BOS 03/11/1992 BOS @ CHI L 30 11 4 14 28.6 0 0 - 3 4 75.0 4 4 8 1 2 1 1 1 -
+p193
+aVKevin McHale BOS 03/11/1992 BOS @ CHI L 30 19 9 15 60.0 0 0 - 1 1 100.0 5 2 7 3 0 2 4 5 -
+p194
+aVJoe Kleine BOS 03/10/1992 BOS @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p195
+aVKevin McHale BOS 03/10/1992 BOS @ MIA L 23 10 3 9 33.3 0 0 - 4 5 80.0 1 4 5 3 0 1 1 3 -
+p196
+aVDee Brown BOS 03/10/1992 BOS @ MIA L 28 12 6 11 54.5 0 0 - 0 0 - 0 0 0 3 0 0 2 5 -
+p197
+aVRobert Parish BOS 03/10/1992 BOS @ MIA L 23 7 3 5 60.0 0 0 - 1 2 50.0 3 3 6 1 0 1 1 3 -
+p198
+aVRick Fox BOS 03/10/1992 BOS @ MIA L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 6 -
+p199
+aVSherman Douglas BOS 03/10/1992 BOS @ MIA L 23 14 5 10 50.0 0 0 - 4 6 66.7 0 1 1 1 1 0 0 2 -
+p200
+aVLarry Bird BOS 03/10/1992 BOS @ MIA L 36 9 2 7 28.6 0 2 0.0 5 5 100.0 0 11 11 8 0 2 2 1 -
+p201
+aVKevin Gamble BOS 03/10/1992 BOS @ MIA L 28 12 6 12 50.0 0 0 - 0 0 - 0 4 4 0 1 1 1 1 -
+p202
+aVEd Pinckney BOS 03/10/1992 BOS @ MIA L 20 9 4 6 66.7 0 0 - 1 2 50.0 5 3 8 0 0 0 3 2 -
+p203
+aVReggie Lewis BOS 03/10/1992 BOS @ MIA L 45 28 8 19 42.1 0 0 - 12 13 92.3 2 5 7 1 0 1 3 4 -
+p204
+aVDee Brown BOS 03/08/1992 BOS @ ORL W 25 4 2 8 25.0 0 0 - 0 0 - 0 0 0 6 0 0 2 1 -
+p205
+aVRobert Parish BOS 03/08/1992 BOS @ ORL W 21 14 5 8 62.5 0 0 - 4 6 66.7 1 5 6 2 0 2 1 1 -
+p206
+aVSherman Douglas BOS 03/08/1992 BOS @ ORL W 23 4 1 5 20.0 0 1 0.0 2 6 33.3 0 3 3 6 1 0 3 2 -
+p207
+aVJoe Kleine BOS 03/08/1992 BOS @ ORL W 12 6 3 3 100.0 0 0 - 0 0 - 2 1 3 2 0 0 0 0 -
+p208
+aVLarry Bird BOS 03/08/1992 BOS @ ORL W 32 15 5 9 55.6 3 5 60.0 2 2 100.0 0 9 9 6 1 0 3 2 -
+p209
+aVKevin Gamble BOS 03/08/1992 BOS @ ORL W 34 18 8 14 57.1 0 0 - 2 2 100.0 4 1 5 2 3 1 0 1 -
+p210
+aVEd Pinckney BOS 03/08/1992 BOS @ ORL W 22 6 1 1 100.0 0 0 - 4 6 66.7 2 6 8 2 0 3 1 3 -
+p211
+aVReggie Lewis BOS 03/08/1992 BOS @ ORL W 30 17 7 13 53.8 0 0 - 3 3 100.0 1 6 7 1 0 3 0 3 -
+p212
+aVRick Fox BOS 03/08/1992 BOS @ ORL W 22 12 6 10 60.0 0 0 - 0 0 - 1 0 1 1 2 1 2 0 -
+p213
+aVKevin McHale BOS 03/08/1992 BOS @ ORL W 19 15 7 11 63.6 0 0 - 1 2 50.0 1 2 3 0 0 0 2 3 -
+p214
+aVLarry Bird BOS 03/06/1992 BOS vs. LAC W 28 19 8 14 57.1 3 3 100.0 0 0 - 1 6 7 6 2 0 1 2 -
+p215
+aVReggie Lewis BOS 03/06/1992 BOS vs. LAC W 30 18 9 20 45.0 0 0 - 0 0 - 2 3 5 2 3 1 0 3 -
+p216
+aVEd Pinckney BOS 03/06/1992 BOS vs. LAC W 23 10 1 2 50.0 0 0 - 8 10 80.0 4 7 11 2 2 2 0 3 -
+p217
+aVSherman Douglas BOS 03/06/1992 BOS vs. LAC W 24 16 5 8 62.5 0 1 0.0 6 6 100.0 0 2 2 6 1 0 1 2 -
+p218
+aVJoe Kleine BOS 03/06/1992 BOS vs. LAC W 20 9 4 8 50.0 0 0 - 1 2 50.0 5 3 8 0 0 1 0 1 -
+p219
+aVRobert Parish BOS 03/06/1992 BOS vs. LAC W 20 10 2 10 20.0 0 0 - 6 6 100.0 3 3 6 0 1 2 1 1 -
+p220
+aVKevin Gamble BOS 03/06/1992 BOS vs. LAC W 30 9 4 12 33.3 0 0 - 1 2 50.0 3 3 6 2 1 1 0 2 -
+p221
+aVDee Brown BOS 03/06/1992 BOS vs. LAC W 33 11 4 7 57.1 0 0 - 3 4 75.0 0 3 3 8 1 0 1 3 -
+p222
+aVStojko Vrankovic BOS 03/06/1992 BOS vs. LAC W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 3 1 1 -
+p223
+aVRick Fox BOS 03/06/1992 BOS vs. LAC W 26 14 5 13 38.5 0 2 0.0 4 5 80.0 0 2 2 2 1 1 3 3 -
+p224
+aVRobert Parish BOS 03/04/1992 BOS vs. ORL W 21 13 3 6 50.0 0 0 - 7 8 87.5 3 6 9 1 2 1 1 1 -
+p225
+aVLarry Bird BOS 03/04/1992 BOS vs. ORL W 29 17 6 15 40.0 1 3 33.3 4 4 100.0 0 14 14 5 0 2 3 3 -
+p226
+aVKevin Gamble BOS 03/04/1992 BOS vs. ORL W 31 18 8 9 88.9 0 1 0.0 2 2 100.0 0 4 4 3 1 1 1 4 -
+p227
+aVRick Fox BOS 03/04/1992 BOS vs. ORL W 23 12 5 10 50.0 0 0 - 2 4 50.0 0 2 2 3 1 2 2 2 -
+p228
+aVEd Pinckney BOS 03/04/1992 BOS vs. ORL W 29 11 3 7 42.9 0 0 - 5 6 83.3 4 3 7 3 0 4 1 1 -
+p229
+aVStojko Vrankovic BOS 03/04/1992 BOS vs. ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p230
+aVReggie Lewis BOS 03/04/1992 BOS vs. ORL W 31 12 6 11 54.5 0 0 - 0 0 - 2 0 2 1 0 2 1 0 -
+p231
+aVSherman Douglas BOS 03/04/1992 BOS vs. ORL W 22 13 5 7 71.4 1 1 100.0 2 2 100.0 0 0 0 6 0 0 1 2 -
+p232
+aVDee Brown BOS 03/04/1992 BOS vs. ORL W 26 14 6 14 42.9 0 1 0.0 2 2 100.0 0 1 1 11 3 0 0 2 -
+p233
+aVJoe Kleine BOS 03/04/1992 BOS vs. ORL W 24 15 7 10 70.0 1 1 100.0 0 0 - 2 8 10 0 1 0 0 1 -
+p234
+aVEd Pinckney BOS 03/01/1992 BOS vs. DAL W 18 2 0 4 0.0 0 0 - 2 2 100.0 2 2 4 0 1 1 0 1 -
+p235
+aVRobert Parish BOS 03/01/1992 BOS vs. DAL W 22 8 4 8 50.0 0 0 - 0 0 - 1 2 3 0 2 2 0 2 -
+p236
+aVKevin Gamble BOS 03/01/1992 BOS vs. DAL W 33 10 3 10 30.0 0 0 - 4 4 100.0 0 2 2 2 3 0 1 1 -
+p237
+aVSherman Douglas BOS 03/01/1992 BOS vs. DAL W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 -
+p238
+aVKevin McHale BOS 03/01/1992 BOS vs. DAL W 26 14 5 11 45.5 0 1 0.0 4 4 100.0 3 8 11 2 0 0 2 2 -
+p239
+aVRick Fox BOS 03/01/1992 BOS vs. DAL W 19 6 2 8 25.0 0 0 - 2 2 100.0 2 1 3 3 1 0 1 2 -
+p240
+aVReggie Lewis BOS 03/01/1992 BOS vs. DAL W 40 22 11 18 61.1 0 2 0.0 0 0 - 1 0 1 1 2 1 0 2 -
+p241
+aVDee Brown BOS 03/01/1992 BOS vs. DAL W 42 11 4 9 44.4 0 1 0.0 3 6 50.0 0 6 6 10 1 0 2 1 -
+p242
+aVLarry Bird BOS 03/01/1992 BOS vs. DAL W 34 26 9 16 56.3 1 4 25.0 7 7 100.0 2 11 13 9 2 1 2 2 -
+p243
+aVKevin Gamble BOS 02/28/1992 BOS @ ATL L 37 15 7 10 70.0 0 0 - 1 1 100.0 0 2 2 3 2 1 2 4 -
+p244
+aVDee Brown BOS 02/28/1992 BOS @ ATL L 35 10 5 14 35.7 0 3 0.0 0 0 - 0 2 2 14 3 0 6 4 -
+p245
+aVSherman Douglas BOS 02/28/1992 BOS @ ATL L 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -
+p246
+aVReggie Lewis BOS 02/28/1992 BOS @ ATL L 40 9 4 12 33.3 0 0 - 1 2 50.0 0 5 5 1 1 2 0 3 -
+p247
+aVJoe Kleine BOS 02/28/1992 BOS @ ATL L 14 4 2 6 33.3 0 0 - 0 0 - 2 6 8 1 1 0 1 1 -
+p248
+aVRobert Parish BOS 02/28/1992 BOS @ ATL L 31 18 7 7 100.0 0 0 - 4 5 80.0 2 4 6 2 2 0 5 1 -
+p249
+aVRick Fox BOS 02/28/1992 BOS @ ATL L 19 8 3 7 42.9 0 0 - 2 2 100.0 0 4 4 1 2 0 0 2 -
+p250
+aVEd Pinckney BOS 02/28/1992 BOS @ ATL L 18 4 2 7 28.6 0 0 - 0 1 0.0 2 2 4 0 0 0 0 2 -
+p251
+aVKevin McHale BOS 02/28/1992 BOS @ ATL L 33 20 9 16 56.3 0 1 0.0 2 2 100.0 1 6 7 5 0 1 3 3 -
+p252
+aVStojko Vrankovic BOS 02/26/1992 BOS vs. IND W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 1 0 1 -
+p253
+aVRick Fox BOS 02/26/1992 BOS vs. IND W 23 10 5 9 55.6 0 0 - 0 0 - 1 1 2 6 4 1 0 6 -
+p254
+aVJohn Bagley BOS 02/26/1992 BOS vs. IND W 19 2 1 6 16.7 0 0 - 0 0 - 0 1 1 4 1 0 3 1 -
+p255
+aVReggie Lewis BOS 02/26/1992 BOS vs. IND W 25 14 6 11 54.5 0 0 - 2 2 100.0 0 4 4 1 0 2 2 4 -
+p256
+aVDee Brown BOS 02/26/1992 BOS vs. IND W 24 21 7 15 46.7 1 1 100.0 6 6 100.0 0 2 2 4 2 0 1 2 -
+p257
+aVEd Pinckney BOS 02/26/1992 BOS vs. IND W 37 12 3 7 42.9 0 0 - 6 6 100.0 5 5 10 0 7 2 1 3 -
+p258
+aVKevin McHale BOS 02/26/1992 BOS vs. IND W 21 18 7 9 77.8 0 0 - 4 4 100.0 1 3 4 4 0 4 0 3 -
+p259
+aVKevin Gamble BOS 02/26/1992 BOS vs. IND W 40 25 11 18 61.1 0 0 - 3 4 75.0 1 4 5 4 1 0 0 2 -
+p260
+aVJoe Kleine BOS 02/26/1992 BOS vs. IND W 12 7 3 9 33.3 1 1 100.0 0 0 - 1 3 4 0 2 0 1 3 -
+p261
+aVRobert Parish BOS 02/26/1992 BOS vs. IND W 25 15 5 7 71.4 0 0 - 5 6 83.3 3 3 6 4 1 0 1 1 -
+p262
+aVSherman Douglas BOS 02/26/1992 BOS vs. IND W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 3 0 0 2 0 -
+p263
+aVEd Pinckney BOS 02/25/1992 BOS @ NJN L 34 13 6 10 60.0 0 0 - 1 2 50.0 4 0 4 0 2 1 0 4 -
+p264
+aVRick Fox BOS 02/25/1992 BOS @ NJN L 14 9 3 6 50.0 1 3 33.3 2 2 100.0 0 4 4 1 1 1 1 1 -
+p265
+aVRobert Parish BOS 02/25/1992 BOS @ NJN L 23 10 5 11 45.5 0 0 - 0 0 - 2 4 6 0 1 0 1 1 -
+p266
+aVKevin Gamble BOS 02/25/1992 BOS @ NJN L 27 5 2 10 20.0 0 0 - 1 2 50.0 4 4 8 3 3 0 1 5 -
+p267
+aVSherman Douglas BOS 02/25/1992 BOS @ NJN L 21 2 1 8 12.5 0 0 - 0 0 - 2 0 2 4 1 1 1 1 -
+p268
+aVDee Brown BOS 02/25/1992 BOS @ NJN L 29 11 5 16 31.3 1 2 50.0 0 0 - 1 1 2 3 1 0 1 1 -
+p269
+aVReggie Lewis BOS 02/25/1992 BOS @ NJN L 31 24 10 20 50.0 0 1 0.0 4 5 80.0 1 4 5 0 0 1 4 2 -
+p270
+aVJoe Kleine BOS 02/25/1992 BOS @ NJN L 11 0 0 4 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 -
+p271
+aVKevin McHale BOS 02/25/1992 BOS @ NJN L 20 14 5 11 45.5 0 0 - 4 6 66.7 1 9 10 0 0 1 1 4 -
+p272
+aVStojko Vrankovic BOS 02/25/1992 BOS @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p273
+aVJohn Bagley BOS 02/25/1992 BOS @ NJN L 27 7 2 9 22.2 2 3 66.7 1 2 50.0 0 3 3 7 1 0 0 2 -
+p274
+aVDee Brown BOS 02/23/1992 BOS @ IND L 20 6 3 10 30.0 0 0 - 0 0 - 0 1 1 4 1 0 0 1 -
+p275
+aVKevin McHale BOS 02/23/1992 BOS @ IND L 20 16 7 14 50.0 0 1 0.0 2 2 100.0 3 3 6 0 0 0 2 2 -
+p276
+aVEd Pinckney BOS 02/23/1992 BOS @ IND L 44 6 3 5 60.0 0 0 - 0 2 0.0 7 9 16 0 0 2 0 2 -
+p277
+aVRick Fox BOS 02/23/1992 BOS @ IND L 12 2 0 2 0.0 0 0 - 2 4 50.0 0 0 0 0 2 0 0 2 -
+p278
+aVSherman Douglas BOS 02/23/1992 BOS @ IND L 12 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 3 0 0 2 0 -
+p279
+aVRobert Parish BOS 02/23/1992 BOS @ IND L 29 13 5 12 41.7 0 0 - 3 3 100.0 3 5 8 3 0 1 2 3 -
+p280
+aVReggie Lewis BOS 02/23/1992 BOS @ IND L 40 21 8 15 53.3 0 0 - 5 5 100.0 0 8 8 1 3 2 1 3 -
+p281
+aVJoe Kleine BOS 02/23/1992 BOS @ IND L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p282
+aVJohn Bagley BOS 02/23/1992 BOS @ IND L 24 12 6 10 60.0 0 0 - 0 0 - 0 1 1 9 2 0 2 6 -
+p283
+aVKevin Gamble BOS 02/23/1992 BOS @ IND L 36 15 5 15 33.3 0 1 0.0 5 5 100.0 0 1 1 4 0 0 2 4 -
+p284
+aVReggie Lewis BOS 02/21/1992 BOS vs. CHH W 36 19 8 18 44.4 0 0 - 3 4 75.0 1 5 6 1 1 1 2 4 -
+p285
+aVJoe Kleine BOS 02/21/1992 BOS vs. CHH W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p286
+aVKevin McHale BOS 02/21/1992 BOS vs. CHH W 24 20 9 13 69.2 0 0 - 2 2 100.0 3 7 10 3 0 1 4 2 -
+p287
+aVRick Fox BOS 02/21/1992 BOS vs. CHH W 16 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 1 -
+p288
+aVJohn Bagley BOS 02/21/1992 BOS vs. CHH W 28 2 1 4 25.0 0 1 0.0 0 2 0.0 0 3 3 10 0 0 2 1 -
+p289
+aVSherman Douglas BOS 02/21/1992 BOS vs. CHH W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -
+p290
+aVKevin Gamble BOS 02/21/1992 BOS vs. CHH W 35 25 10 17 58.8 0 1 0.0 5 5 100.0 0 1 1 4 2 2 1 3 -
+p291
+aVDee Brown BOS 02/21/1992 BOS vs. CHH W 20 9 3 9 33.3 0 0 - 3 3 100.0 0 1 1 4 0 0 4 2 -
+p292
+aVEd Pinckney BOS 02/21/1992 BOS vs. CHH W 38 9 3 5 60.0 0 0 - 3 5 60.0 4 10 14 1 0 2 1 1 -
+p293
+aVRobert Parish BOS 02/21/1992 BOS vs. CHH W 24 24 11 17 64.7 0 0 - 2 3 66.7 4 8 12 1 0 0 2 1 -
+p294
+aVReggie Lewis BOS 02/19/1992 BOS @ GOS L 38 30 10 18 55.6 1 1 100.0 9 10 90.0 2 5 7 3 1 1 3 2 -
+p295
+aVRickey Green BOS 02/19/1992 BOS @ GOS L 14 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 2 1 0 4 1 -
+p296
+aVJohn Bagley BOS 02/19/1992 BOS @ GOS L 23 8 3 9 33.3 0 0 - 2 2 100.0 0 3 3 6 1 0 2 3 -
+p297
+aVDee Brown BOS 02/19/1992 BOS @ GOS L 16 7 3 8 37.5 0 1 0.0 1 2 50.0 1 1 2 1 0 0 1 5 -
+p298
+aVRick Fox BOS 02/19/1992 BOS @ GOS L 16 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -
+p299
+aVKevin Gamble BOS 02/19/1992 BOS @ GOS L 40 20 7 15 46.7 1 3 33.3 5 5 100.0 2 1 3 5 2 0 0 4 -
+p300
+aVEd Pinckney BOS 02/19/1992 BOS @ GOS L 32 16 6 7 85.7 0 0 - 4 7 57.1 10 8 18 2 2 2 3 4 -
+p301
+aVJoe Kleine BOS 02/19/1992 BOS @ GOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p302
+aVKevin McHale BOS 02/19/1992 BOS @ GOS L 21 10 4 7 57.1 0 0 - 2 2 100.0 1 4 5 0 0 2 1 1 -
+p303
+aVSherman Douglas BOS 02/19/1992 BOS @ GOS L 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -
+p304
+aVRobert Parish BOS 02/19/1992 BOS @ GOS L 31 12 5 15 33.3 0 0 - 2 4 50.0 5 8 13 2 1 0 2 2 -
+p305
+aVRobert Parish BOS 02/17/1992 BOS @ UTH L 34 10 4 9 44.4 0 0 - 2 2 100.0 1 9 10 2 1 1 3 6 -
+p306
+aVSherman Douglas BOS 02/17/1992 BOS @ UTH L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 3 -
+p307
+aVReggie Lewis BOS 02/17/1992 BOS @ UTH L 43 19 7 16 43.8 0 0 - 5 5 100.0 1 5 6 3 4 0 1 3 -
+p308
+aVJoe Kleine BOS 02/17/1992 BOS @ UTH L 16 3 1 2 50.0 1 1 100.0 0 0 - 3 4 7 1 1 0 1 2 -
+p309
+aVJohn Bagley BOS 02/17/1992 BOS @ UTH L 23 8 4 8 50.0 0 0 - 0 0 - 0 3 3 5 0 0 4 1 -
+p310
+aVRick Fox BOS 02/17/1992 BOS @ UTH L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p311
+aVKevin McHale BOS 02/17/1992 BOS @ UTH L 27 14 5 10 50.0 0 1 0.0 4 6 66.7 2 4 6 0 0 0 0 2 -
+p312
+aVDee Brown BOS 02/17/1992 BOS @ UTH L 26 11 4 18 22.2 0 1 0.0 3 4 75.0 1 0 1 3 1 0 0 1 -
+p313
+aVEd Pinckney BOS 02/17/1992 BOS @ UTH L 19 4 2 5 40.0 0 0 - 0 0 - 2 5 7 0 1 0 0 1 -
+p314
+aVKevin Gamble BOS 02/17/1992 BOS @ UTH L 33 14 6 12 50.0 2 3 66.7 0 0 - 1 3 4 4 0 1 1 4 -
+p315
+aVReggie Lewis BOS 02/16/1992 BOS @ LAL W 38 19 8 17 47.1 0 1 0.0 3 3 100.0 3 5 8 3 3 0 5 4 -
+p316
+aVKevin McHale BOS 02/16/1992 BOS @ LAL W 29 19 8 13 61.5 0 0 - 3 4 75.0 3 5 8 1 0 0 1 2 -
+p317
+aVDee Brown BOS 02/16/1992 BOS @ LAL W 25 17 5 13 38.5 0 1 0.0 7 8 87.5 0 4 4 3 0 0 1 2 -
+p318
+aVKevin Gamble BOS 02/16/1992 BOS @ LAL W 31 16 8 11 72.7 0 0 - 0 0 - 3 2 5 3 1 2 6 2 -
+p319
+aVRobert Parish BOS 02/16/1992 BOS @ LAL W 35 21 10 12 83.3 0 0 - 1 2 50.0 5 6 11 1 0 0 4 2 -
+p320
+aVEd Pinckney BOS 02/16/1992 BOS @ LAL W 19 6 2 3 66.7 0 0 - 2 2 100.0 2 6 8 0 0 0 0 2 -
+p321
+aVSherman Douglas BOS 02/16/1992 BOS @ LAL W 22 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 11 0 0 1 2 -
+p322
+aVRick Fox BOS 02/16/1992 BOS @ LAL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -
+p323
+aVJohn Bagley BOS 02/16/1992 BOS @ LAL W 22 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 5 1 0 2 3 -
+p324
+aVJoe Kleine BOS 02/16/1992 BOS @ LAL W 13 4 2 2 100.0 0 0 - 0 0 - 1 5 6 0 0 0 0 2 -
+p325
+aVDee Brown BOS 02/14/1992 BOS @ HOU L 29 23 10 16 62.5 0 0 - 3 5 60.0 4 6 10 2 0 1 0 3 -
+p326
+aVReggie Lewis BOS 02/14/1992 BOS @ HOU L 39 15 7 17 41.2 0 1 0.0 1 1 100.0 3 2 5 3 1 1 4 2 -
+p327
+aVEd Pinckney BOS 02/14/1992 BOS @ HOU L 21 6 0 5 0.0 0 0 - 6 6 100.0 3 2 5 1 0 0 0 1 -
+p328
+aVRobert Parish BOS 02/14/1992 BOS @ HOU L 31 12 6 9 66.7 0 0 - 0 0 - 2 6 8 3 1 1 2 4 -
+p329
+aVJohn Bagley BOS 02/14/1992 BOS @ HOU L 32 13 5 10 50.0 1 2 50.0 2 4 50.0 1 2 3 8 0 0 2 1 -
+p330
+aVKevin Gamble BOS 02/14/1992 BOS @ HOU L 24 4 2 9 22.2 0 0 - 0 0 - 0 3 3 3 0 1 1 2 -
+p331
+aVSherman Douglas BOS 02/14/1992 BOS @ HOU L 16 12 5 9 55.6 0 0 - 2 3 66.7 0 0 0 2 1 0 1 0 -
+p332
+aVRick Fox BOS 02/14/1992 BOS @ HOU L 21 7 2 7 28.6 1 5 20.0 2 2 100.0 2 1 3 2 1 1 3 2 -
+p333
+aVKevin McHale BOS 02/14/1992 BOS @ HOU L 10 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 0 2 0 1 -
+p334
+aVJoe Kleine BOS 02/14/1992 BOS @ HOU L 17 6 3 5 60.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 0 -
+p335
+aVSherman Douglas BOS 02/12/1992 BOS @ DAL L 18 6 2 4 50.0 0 0 - 2 4 50.0 0 1 1 3 0 0 1 2 -
+p336
+aVDee Brown BOS 02/12/1992 BOS @ DAL L 26 10 4 11 36.4 0 0 - 2 4 50.0 1 4 5 1 2 1 3 1 -
+p337
+aVEd Pinckney BOS 02/12/1992 BOS @ DAL L 26 6 2 4 50.0 0 0 - 2 2 100.0 6 8 14 0 1 0 2 4 -
+p338
+aVKevin Gamble BOS 02/12/1992 BOS @ DAL L 25 12 4 10 40.0 0 0 - 4 4 100.0 0 2 2 1 0 0 2 6 -
+p339
+aVRick Fox BOS 02/12/1992 BOS @ DAL L 24 13 6 11 54.5 1 1 100.0 0 0 - 5 1 6 2 1 1 3 4 -
+p340
+aVKevin McHale BOS 02/12/1992 BOS @ DAL L 14 5 2 9 22.2 0 1 0.0 1 2 50.0 2 1 3 0 0 0 0 1 -
+p341
+aVJohn Bagley BOS 02/12/1992 BOS @ DAL L 24 3 0 6 0.0 0 1 0.0 3 4 75.0 2 2 4 7 2 0 1 2 -
+p342
+aVRobert Parish BOS 02/12/1992 BOS @ DAL L 30 13 6 14 42.9 0 0 - 1 2 50.0 4 4 8 0 1 2 3 4 -
+p343
+aVJoe Kleine BOS 02/12/1992 BOS @ DAL L 12 8 3 5 60.0 0 0 - 2 4 50.0 1 2 3 2 1 0 1 1 -
+p344
+aVReggie Lewis BOS 02/12/1992 BOS @ DAL L 41 24 10 19 52.6 1 1 100.0 3 3 100.0 0 7 7 1 3 1 1 5 -
+p345
+aVStojko Vrankovic BOS 02/11/1992 BOS @ SAN L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p346
+aVJohn Bagley BOS 02/11/1992 BOS @ SAN L 21 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 1 0 3 3 -
+p347
+aVKevin Gamble BOS 02/11/1992 BOS @ SAN L 24 7 3 10 30.0 1 2 50.0 0 0 - 0 5 5 1 2 0 0 3 -
+p348
+aVSherman Douglas BOS 02/11/1992 BOS @ SAN L 25 2 1 4 25.0 0 0 - 0 0 - 0 0 0 6 2 0 1 3 -
+p349
+aVReggie Lewis BOS 02/11/1992 BOS @ SAN L 39 22 10 17 58.8 0 2 0.0 2 2 100.0 1 2 3 2 1 0 2 4 -
+p350
+aVRick Fox BOS 02/11/1992 BOS @ SAN L 14 8 4 8 50.0 0 1 0.0 0 0 - 2 3 5 0 0 0 0 0 -
+p351
+aVJoe Kleine BOS 02/11/1992 BOS @ SAN L 19 10 5 8 62.5 0 0 - 0 0 - 1 3 4 0 1 0 1 1 -
+p352
+aVKevin McHale BOS 02/11/1992 BOS @ SAN L 19 2 1 7 14.3 0 0 - 0 2 0.0 1 3 4 1 0 0 1 0 -
+p353
+aVRobert Parish BOS 02/11/1992 BOS @ SAN L 23 6 3 9 33.3 0 0 - 0 0 - 0 6 6 1 1 1 8 2 -
+p354
+aVEd Pinckney BOS 02/11/1992 BOS @ SAN L 30 10 4 5 80.0 0 0 - 2 4 50.0 4 5 9 2 1 0 1 0 -
+p355
+aVDee Brown BOS 02/11/1992 BOS @ SAN L 22 13 3 8 37.5 0 1 0.0 7 8 87.5 1 1 2 1 1 0 1 1 -
+p356
+aVRick Fox BOS 02/05/1992 BOS vs. HOU W 17 4 2 11 18.2 0 1 0.0 0 0 - 1 1 2 1 1 1 1 1 -
+p357
+aVEd Pinckney BOS 02/05/1992 BOS vs. HOU W 38 10 4 6 66.7 0 0 - 2 4 50.0 4 12 16 4 2 0 1 1 -
+p358
+aVKenny Battle BOS 02/05/1992 BOS vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p359
+aVSherman Douglas BOS 02/05/1992 BOS vs. HOU W 21 8 2 8 25.0 0 0 - 4 5 80.0 0 0 0 3 0 1 2 2 -
+p360
+aVDee Brown BOS 02/05/1992 BOS vs. HOU W 11 7 3 7 42.9 0 0 - 1 1 100.0 0 2 2 0 0 0 0 0 -
+p361
+aVRobert Parish BOS 02/05/1992 BOS vs. HOU W 28 21 7 11 63.6 0 0 - 7 8 87.5 4 5 9 2 2 2 2 5 -
+p362
+aVReggie Lewis BOS 02/05/1992 BOS vs. HOU W 42 22 8 18 44.4 0 0 - 6 8 75.0 2 9 11 3 4 1 2 1 -
+p363
+aVJoe Kleine BOS 02/05/1992 BOS vs. HOU W 30 10 5 7 71.4 0 0 - 0 0 - 3 5 8 2 0 0 1 4 -
+p364
+aVKevin Gamble BOS 02/05/1992 BOS vs. HOU W 25 7 3 7 42.9 0 1 0.0 1 1 100.0 0 3 3 2 0 2 3 4 -
+p365
+aVJohn Bagley BOS 02/05/1992 BOS vs. HOU W 27 9 4 8 50.0 0 0 - 1 1 100.0 0 2 2 9 0 0 2 1 -
+p366
+aVReggie Lewis BOS 02/01/1992 BOS @ PHL L 38 23 10 16 62.5 0 0 - 3 4 75.0 1 4 5 1 1 0 1 1 -
+p367
+aVKenny Battle BOS 02/01/1992 BOS @ PHL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p368
+aVJoe Kleine BOS 02/01/1992 BOS @ PHL L 19 6 3 8 37.5 0 0 - 0 0 - 3 3 6 0 1 0 1 1 -
+p369
+aVRick Fox BOS 02/01/1992 BOS @ PHL L 23 13 5 12 41.7 1 2 50.0 2 2 100.0 1 1 2 2 1 0 3 5 -
+p370
+aVRobert Parish BOS 02/01/1992 BOS @ PHL L 31 15 6 11 54.5 0 0 - 3 3 100.0 1 6 7 2 1 0 1 2 -
+p371
+aVJohn Bagley BOS 02/01/1992 BOS @ PHL L 30 13 6 12 50.0 0 1 0.0 1 1 100.0 0 1 1 12 1 0 1 2 -
+p372
+aVSherman Douglas BOS 02/01/1992 BOS @ PHL L 18 6 3 6 50.0 0 0 - 0 2 0.0 0 2 2 2 0 1 3 2 -
+p373
+aVKevin Gamble BOS 02/01/1992 BOS @ PHL L 40 21 9 16 56.3 1 2 50.0 2 3 66.7 0 4 4 5 1 0 0 4 -
+p374
+aVEd Pinckney BOS 02/01/1992 BOS @ PHL L 38 13 4 6 66.7 0 0 - 5 5 100.0 0 3 3 1 1 1 0 4 -
+p375
+aVJoe Kleine BOS 01/31/1992 BOS @ MIL L 29 15 7 8 87.5 0 0 - 1 1 100.0 0 4 4 0 1 0 0 3 -
+p376
+aVKevin Gamble BOS 01/31/1992 BOS @ MIL L 38 13 6 14 42.9 1 1 100.0 0 0 - 3 1 4 3 1 0 4 3 -
+p377
+aVKenny Battle BOS 01/31/1992 BOS @ MIL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p378
+aVSherman Douglas BOS 01/31/1992 BOS @ MIL L 30 20 7 12 58.3 0 0 - 6 10 60.0 2 5 7 5 0 1 6 3 -
+p379
+aVEd Pinckney BOS 01/31/1992 BOS @ MIL L 33 12 1 2 50.0 0 0 - 10 10 100.0 6 8 14 1 1 0 1 6 -
+p380
+aVReggie Lewis BOS 01/31/1992 BOS @ MIL L 39 17 7 21 33.3 0 0 - 3 4 75.0 1 1 2 4 1 2 1 5 -
+p381
+aVJohn Bagley BOS 01/31/1992 BOS @ MIL L 18 4 2 6 33.3 0 0 - 0 0 - 0 2 2 4 1 0 2 1 -
+p382
+aVRobert Parish BOS 01/31/1992 BOS @ MIL L 28 8 4 13 30.8 0 0 - 0 2 0.0 4 5 9 0 2 1 3 1 -
+p383
+aVRick Fox BOS 01/31/1992 BOS @ MIL L 20 11 3 10 30.0 1 5 20.0 4 4 100.0 2 2 4 0 1 0 2 5 -
+p384
+aVJohn Bagley BOS 01/28/1992 BOS @ WAS W 18 10 4 10 40.0 0 0 - 2 2 100.0 0 0 0 3 1 0 1 3 -
+p385
+aVReggie Lewis BOS 01/28/1992 BOS @ WAS W 40 20 9 20 45.0 0 0 - 2 2 100.0 2 3 5 1 2 1 1 2 -
+p386
+aVSherman Douglas BOS 01/28/1992 BOS @ WAS W 30 17 7 11 63.6 0 0 - 3 4 75.0 1 6 7 6 1 0 5 2 -
+p387
+aVKevin Gamble BOS 01/28/1992 BOS @ WAS W 38 8 4 16 25.0 0 0 - 0 0 - 2 4 6 0 1 1 3 2 -
+p388
+aVKenny Battle BOS 01/28/1992 BOS @ WAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p389
+aVJoe Kleine BOS 01/28/1992 BOS @ WAS W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -
+p390
+aVEd Pinckney BOS 01/28/1992 BOS @ WAS W 35 17 5 5 100.0 0 0 - 7 7 100.0 6 5 11 1 2 1 0 2 -
+p391
+aVRobert Parish BOS 01/28/1992 BOS @ WAS W 36 9 4 10 40.0 0 0 - 1 2 50.0 2 8 10 1 3 1 2 2 -
+p392
+aVRick Fox BOS 01/28/1992 BOS @ WAS W 25 13 3 8 37.5 2 3 66.7 5 6 83.3 2 3 5 1 3 0 3 3 -
+p393
+aVKevin Gamble BOS 01/26/1992 BOS vs. DET W 36 20 9 17 52.9 0 0 - 2 2 100.0 2 3 5 2 1 0 2 0 -
+p394
+aVKenny Battle BOS 01/26/1992 BOS vs. DET W 8 4 0 0 - 0 0 - 4 4 100.0 0 1 1 0 0 0 0 1 -
+p395
+aVReggie Lewis BOS 01/26/1992 BOS vs. DET W 32 13 6 11 54.5 0 0 - 1 1 100.0 1 2 3 2 0 0 2 6 -
+p396
+aVJoe Kleine BOS 01/26/1992 BOS vs. DET W 24 10 5 8 62.5 0 0 - 0 0 - 2 4 6 0 2 0 1 0 -
+p397
+aVEd Pinckney BOS 01/26/1992 BOS vs. DET W 25 2 1 5 20.0 0 0 - 0 2 0.0 4 3 7 1 1 1 0 1 -
+p398
+aVRick Fox BOS 01/26/1992 BOS vs. DET W 26 10 4 5 80.0 0 0 - 2 2 100.0 0 4 4 2 2 1 2 1 -
+p399
+aVRobert Parish BOS 01/26/1992 BOS vs. DET W 40 18 9 19 47.4 0 0 - 0 0 - 5 6 11 1 1 1 1 4 -
+p400
+aVSherman Douglas BOS 01/26/1992 BOS vs. DET W 18 18 6 9 66.7 0 0 - 6 6 100.0 1 0 1 5 0 1 2 1 -
+p401
+aVJohn Bagley BOS 01/26/1992 BOS vs. DET W 30 11 4 7 57.1 0 0 - 3 4 75.0 0 1 1 10 2 1 2 3 -
+p402
+aVTony Massenburg BOS 01/26/1992 BOS vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p403
+aVRobert Parish BOS 01/24/1992 BOS vs. PHX L 41 20 10 26 38.5 0 0 - 0 0 - 3 10 13 2 2 3 4 2 -
+p404
+aVJohn Bagley BOS 01/24/1992 BOS vs. PHX L 22 2 1 5 20.0 0 0 - 0 0 - 0 1 1 4 0 0 1 1 -
+p405
+aVEd Pinckney BOS 01/24/1992 BOS vs. PHX L 32 13 5 7 71.4 0 0 - 3 3 100.0 7 4 11 0 2 1 0 2 -
+p406
+aVSherman Douglas BOS 01/24/1992 BOS vs. PHX L 26 5 2 7 28.6 0 0 - 1 2 50.0 0 1 1 5 2 1 1 5 -
+p407
+aVReggie Lewis BOS 01/24/1992 BOS vs. PHX L 43 19 7 23 30.4 0 0 - 5 5 100.0 3 3 6 5 2 1 2 3 -
+p408
+aVJoe Kleine BOS 01/24/1992 BOS vs. PHX L 18 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -
+p409
+aVRick Fox BOS 01/24/1992 BOS vs. PHX L 23 10 4 8 50.0 0 1 0.0 2 3 66.7 1 2 3 1 0 2 1 1 -
+p410
+aVKevin Gamble BOS 01/24/1992 BOS vs. PHX L 35 22 8 17 47.1 0 0 - 6 7 85.7 2 1 3 5 1 0 0 3 -
+p411
+aVReggie Lewis BOS 01/22/1992 BOS vs. ORL W 41 30 13 25 52.0 0 0 - 4 6 66.7 0 4 4 3 3 1 4 2 -
+p412
+aVJohn Bagley BOS 01/22/1992 BOS vs. ORL W 29 8 4 8 50.0 0 0 - 0 0 - 0 1 1 9 1 0 2 1 -
+p413
+aVJoe Kleine BOS 01/22/1992 BOS vs. ORL W 19 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 1 1 2 -
+p414
+aVKenny Battle BOS 01/22/1992 BOS vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p415
+aVEd Pinckney BOS 01/22/1992 BOS vs. ORL W 34 5 2 2 100.0 0 0 - 1 2 50.0 3 10 13 0 2 2 1 2 -
+p416
+aVSherman Douglas BOS 01/22/1992 BOS vs. ORL W 19 11 3 7 42.9 0 0 - 5 7 71.4 0 0 0 5 2 0 0 4 -
+p417
+aVRick Fox BOS 01/22/1992 BOS vs. ORL W 14 6 3 3 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -
+p418
+aVTony Massenburg BOS 01/22/1992 BOS vs. ORL W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -
+p419
+aVRobert Parish BOS 01/22/1992 BOS vs. ORL W 36 21 10 13 76.9 0 0 - 1 2 50.0 2 11 13 2 2 5 4 0 -
+p420
+aVKevin Gamble BOS 01/22/1992 BOS vs. ORL W 41 20 8 17 47.1 0 0 - 4 5 80.0 1 3 4 5 1 1 0 4 -
+p421
+aVJohn Bagley BOS 01/20/1992 BOS @ CLE W 29 10 5 11 45.5 0 0 - 0 0 - 1 2 3 10 2 0 3 1 -
+p422
+aVKevin Gamble BOS 01/20/1992 BOS @ CLE W 40 18 9 17 52.9 0 0 - 0 0 - 0 4 4 6 0 0 0 4 -
+p423
+aVSherman Douglas BOS 01/20/1992 BOS @ CLE W 19 8 3 9 33.3 0 0 - 2 2 100.0 2 0 2 5 0 1 1 1 -
+p424
+aVJoe Kleine BOS 01/20/1992 BOS @ CLE W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p425
+aVRick Fox BOS 01/20/1992 BOS @ CLE W 28 9 4 5 80.0 0 0 - 1 1 100.0 1 0 1 3 1 0 2 3 -
+p426
+aVEd Pinckney BOS 01/20/1992 BOS @ CLE W 26 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 3 1 0 3 -
+p427
+aVReggie Lewis BOS 01/20/1992 BOS @ CLE W 37 26 11 19 57.9 0 1 0.0 4 4 100.0 1 3 4 5 0 2 2 5 -
+p428
+aVRobert Parish BOS 01/20/1992 BOS @ CLE W 39 20 10 18 55.6 0 0 - 0 0 - 3 10 13 2 1 2 2 4 -
+p429
+aVKenny Battle BOS 01/20/1992 BOS @ CLE W 17 10 3 3 100.0 0 0 - 4 4 100.0 2 4 6 0 1 0 0 0 -
+p430
+aVRobert Parish BOS 01/19/1992 BOS vs. SAN W 37 30 12 22 54.5 0 0 - 6 7 85.7 5 9 14 1 1 1 2 2 -
+p431
+aVReggie Lewis BOS 01/19/1992 BOS vs. SAN W 37 24 9 18 50.0 0 0 - 6 6 100.0 1 2 3 1 3 1 3 4 -
+p432
+aVKenny Battle BOS 01/19/1992 BOS vs. SAN W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p433
+aVRick Fox BOS 01/19/1992 BOS vs. SAN W 24 2 0 8 0.0 0 0 - 2 2 100.0 4 5 9 1 2 2 2 4 -
+p434
+aVJohn Bagley BOS 01/19/1992 BOS vs. SAN W 28 7 3 9 33.3 1 2 50.0 0 0 - 1 0 1 6 1 0 2 1 -
+p435
+aVSherman Douglas BOS 01/19/1992 BOS vs. SAN W 20 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -
+p436
+aVTony Massenburg BOS 01/19/1992 BOS vs. SAN W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p437
+aVJoe Kleine BOS 01/19/1992 BOS vs. SAN W 13 2 0 2 0.0 0 0 - 2 2 100.0 2 5 7 0 0 0 0 3 -
+p438
+aVEd Pinckney BOS 01/19/1992 BOS vs. SAN W 29 9 3 5 60.0 0 0 - 3 4 75.0 2 2 4 0 1 1 0 3 -
+p439
+aVKevin Gamble BOS 01/19/1992 BOS vs. SAN W 43 22 8 15 53.3 0 0 - 6 6 100.0 2 7 9 4 0 1 2 2 -
+p440
+aVReggie Lewis BOS 01/17/1992 BOS vs. PHL W 42 24 10 20 50.0 1 1 100.0 3 4 75.0 3 5 8 0 3 2 1 1 -
+p441
+aVKevin Gamble BOS 01/17/1992 BOS vs. PHL W 36 30 14 20 70.0 0 1 0.0 2 2 100.0 0 3 3 5 1 1 1 3 -
+p442
+aVTony Massenburg BOS 01/17/1992 BOS vs. PHL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p443
+aVRobert Parish BOS 01/17/1992 BOS vs. PHL W 36 14 5 13 38.5 0 0 - 4 4 100.0 3 7 10 1 0 2 1 5 -
+p444
+aVJoe Kleine BOS 01/17/1992 BOS vs. PHL W 17 0 0 6 0.0 0 0 - 0 0 - 1 7 8 0 1 1 1 1 -
+p445
+aVRick Fox BOS 01/17/1992 BOS vs. PHL W 18 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 2 0 0 1 4 -
+p446
+aVEd Pinckney BOS 01/17/1992 BOS vs. PHL W 37 9 4 7 57.1 0 0 - 1 1 100.0 8 2 10 1 2 3 4 3 -
+p447
+aVJohn Bagley BOS 01/17/1992 BOS vs. PHL W 28 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 10 0 0 6 3 -
+p448
+aVSherman Douglas BOS 01/17/1992 BOS vs. PHL W 20 5 1 9 11.1 0 1 0.0 3 4 75.0 0 2 2 4 0 0 2 4 -
+p449
+aVStojko Vrankovic BOS 01/15/1992 BOS vs. NJN L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 4 1 2 -
+p450
+aVSherman Douglas BOS 01/15/1992 BOS vs. NJN L 17 7 2 4 50.0 0 0 - 3 4 75.0 0 3 3 7 0 2 0 1 -
+p451
+aVJoe Kleine BOS 01/15/1992 BOS vs. NJN L 37 14 7 8 87.5 0 0 - 0 0 - 5 4 9 1 1 1 1 3 -
+p452
+aVRick Fox BOS 01/15/1992 BOS vs. NJN L 16 14 4 8 50.0 0 0 - 6 7 85.7 0 1 1 1 1 0 1 2 -
+p453
+aVJohn Bagley BOS 01/15/1992 BOS vs. NJN L 31 8 4 13 30.8 0 1 0.0 0 0 - 1 2 3 10 1 0 1 1 -
+p454
+aVReggie Lewis BOS 01/15/1992 BOS vs. NJN L 39 33 13 23 56.5 0 0 - 7 8 87.5 1 4 5 1 0 0 4 3 -
+p455
+aVEd Pinckney BOS 01/15/1992 BOS vs. NJN L 31 15 4 5 80.0 0 0 - 7 8 87.5 3 4 7 1 0 0 0 5 -
+p456
+aVTony Massenburg BOS 01/15/1992 BOS vs. NJN L 17 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 0 0 2 -
+p457
+aVKevin Gamble BOS 01/15/1992 BOS vs. NJN L 41 27 13 24 54.2 0 2 0.0 1 1 100.0 2 4 6 4 1 0 2 1 -
+p458
+aVKevin Gamble BOS 01/11/1992 BOS @ NYK L 34 23 11 13 84.6 0 1 0.0 1 2 50.0 0 3 3 2 0 0 0 3 -
+p459
+aVRick Fox BOS 01/11/1992 BOS @ NYK L 28 9 3 10 30.0 0 1 0.0 3 4 75.0 1 4 5 0 1 1 0 5 -
+p460
+aVEd Pinckney BOS 01/11/1992 BOS @ NYK L 39 2 0 2 0.0 0 0 - 2 2 100.0 1 7 8 0 0 0 0 2 -
+p461
+aVTony Massenburg BOS 01/11/1992 BOS @ NYK L 11 5 2 3 66.7 0 0 - 1 2 50.0 2 0 2 0 0 0 2 1 -
+p462
+aVJohn Bagley BOS 01/11/1992 BOS @ NYK L 38 12 6 18 33.3 0 3 0.0 0 1 0.0 1 1 2 7 0 0 4 2 -
+p463
+aVJoe Kleine BOS 01/11/1992 BOS @ NYK L 40 8 3 9 33.3 0 0 - 2 2 100.0 2 6 8 1 1 0 0 4 -
+p464
+aVReggie Lewis BOS 01/11/1992 BOS @ NYK L 40 33 11 22 50.0 0 0 - 11 11 100.0 1 6 7 2 2 1 0 4 -
+p465
+aVSherman Douglas BOS 01/11/1992 BOS @ NYK L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p466
+aVJoe Kleine BOS 01/10/1992 BOS vs. MIN L 25 11 3 11 27.3 0 0 - 5 5 100.0 4 3 7 0 0 1 0 4 -
+p467
+aVEd Pinckney BOS 01/10/1992 BOS vs. MIN L 30 4 1 3 33.3 0 0 - 2 2 100.0 4 3 7 0 0 0 4 5 -
+p468
+aVReggie Lewis BOS 01/10/1992 BOS vs. MIN L 46 29 12 24 50.0 0 1 0.0 5 7 71.4 1 4 5 1 2 2 2 3 -
+p469
+aVRickey Green BOS 01/10/1992 BOS vs. MIN L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 0 -
+p470
+aVJohn Bagley BOS 01/10/1992 BOS vs. MIN L 41 12 6 13 46.2 0 2 0.0 0 0 - 1 3 4 13 3 0 2 3 -
+p471
+aVKevin Gamble BOS 01/10/1992 BOS vs. MIN L 42 12 4 13 30.8 0 1 0.0 4 4 100.0 0 3 3 2 3 1 2 3 -
+p472
+aVRobert Parish BOS 01/10/1992 BOS vs. MIN L 23 22 9 12 75.0 0 0 - 4 6 66.7 3 6 9 0 0 0 1 1 -
+p473
+aVTony Massenburg BOS 01/10/1992 BOS vs. MIN L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p474
+aVRick Fox BOS 01/10/1992 BOS vs. MIN L 25 4 2 8 25.0 0 2 0.0 0 2 0.0 1 0 1 0 0 1 0 5 -
+p475
+aVJohn Bagley BOS 01/08/1992 BOS vs. NYK W 31 8 3 8 37.5 0 0 - 2 2 100.0 0 2 2 6 0 0 2 0 -
+p476
+aVEd Pinckney BOS 01/08/1992 BOS vs. NYK W 42 10 2 8 25.0 0 0 - 6 6 100.0 6 8 14 1 1 1 1 4 -
+p477
+aVKevin Gamble BOS 01/08/1992 BOS vs. NYK W 37 19 8 12 66.7 0 0 - 3 3 100.0 2 1 3 1 2 0 3 0 -
+p478
+aVReggie Lewis BOS 01/08/1992 BOS vs. NYK W 39 33 14 22 63.6 0 0 - 5 5 100.0 0 5 5 2 3 1 1 4 -
+p479
+aVBrian Shaw BOS 01/08/1992 BOS vs. NYK W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 0 0 2 0 -
+p480
+aVRick Fox BOS 01/08/1992 BOS vs. NYK W 23 11 4 8 50.0 0 0 - 3 4 75.0 1 3 4 1 1 0 2 3 -
+p481
+aVRobert Parish BOS 01/08/1992 BOS vs. NYK W 30 10 4 13 30.8 0 0 - 2 2 100.0 3 2 5 2 0 1 0 4 -
+p482
+aVJoe Kleine BOS 01/08/1992 BOS vs. NYK W 21 8 4 8 50.0 0 0 - 0 0 - 3 2 5 1 0 1 0 2 -
+p483
+aVRickey Green BOS 01/08/1992 BOS vs. NYK W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p484
+aVJohn Bagley BOS 01/06/1992 BOS vs. SAC W 24 9 2 7 28.6 1 2 50.0 4 6 66.7 0 0 0 2 1 0 2 2 -
+p485
+aVBrian Shaw BOS 01/06/1992 BOS vs. SAC W 27 6 1 9 11.1 0 0 - 4 4 100.0 0 7 7 12 0 3 0 2 -
+p486
+aVRick Fox BOS 01/06/1992 BOS vs. SAC W 20 8 2 7 28.6 0 0 - 4 4 100.0 1 0 1 0 3 1 3 2 -
+p487
+aVRobert Parish BOS 01/06/1992 BOS vs. SAC W 40 22 9 15 60.0 0 0 - 4 5 80.0 6 7 13 2 2 3 3 1 -
+p488
+aVKevin Gamble BOS 01/06/1992 BOS vs. SAC W 44 34 13 21 61.9 0 0 - 8 8 100.0 1 2 3 5 2 1 3 1 -
+p489
+aVJoe Kleine BOS 01/06/1992 BOS vs. SAC W 15 2 0 1 0.0 0 0 - 2 2 100.0 0 7 7 0 0 1 0 2 -
+p490
+aVReggie Lewis BOS 01/06/1992 BOS vs. SAC W 33 21 9 19 47.4 0 0 - 3 5 60.0 0 4 4 0 1 2 0 5 -
+p491
+aVEd Pinckney BOS 01/06/1992 BOS vs. SAC W 34 8 3 6 50.0 0 0 - 2 2 100.0 4 6 10 1 0 2 2 1 -
+p492
+aVRickey Green BOS 01/06/1992 BOS vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p493
+aVRickey Green BOS 01/04/1992 BOS @ MIN L 16 6 3 5 60.0 0 0 - 0 0 - 0 1 1 5 0 0 2 0 -
+p494
+aVKevin McHale BOS 01/04/1992 BOS @ MIN L 33 12 5 13 38.5 0 0 - 2 2 100.0 3 9 12 2 0 1 1 1 -
+p495
+aVReggie Lewis BOS 01/04/1992 BOS @ MIN L 38 23 11 23 47.8 0 0 - 1 2 50.0 2 5 7 1 0 3 1 3 -
+p496
+aVKevin Gamble BOS 01/04/1992 BOS @ MIN L 31 10 5 11 45.5 0 0 - 0 0 - 2 2 4 3 0 0 0 6 -
+p497
+aVRick Fox BOS 01/04/1992 BOS @ MIN L 19 10 4 6 66.7 0 0 - 2 2 100.0 3 3 6 0 3 1 2 5 -
+p498
+aVRobert Parish BOS 01/04/1992 BOS @ MIN L 30 13 4 13 30.8 0 0 - 5 8 62.5 2 6 8 0 1 5 1 1 -
+p499
+aVBrian Shaw BOS 01/04/1992 BOS @ MIN L 32 14 7 15 46.7 0 2 0.0 0 0 - 1 2 3 5 0 0 1 1 -
+p500
+aVEd Pinckney BOS 01/04/1992 BOS @ MIN L 31 6 2 3 66.7 0 0 - 2 2 100.0 5 4 9 3 0 1 2 3 -
+p501
+aVJoe Kleine BOS 01/04/1992 BOS @ MIN L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -
+p502
+aVEd Pinckney BOS 01/03/1992 BOS vs. CLE L 26 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 1 0 0 1 -
+p503
+aVRick Fox BOS 01/03/1992 BOS vs. CLE L 10 7 2 4 50.0 0 1 0.0 3 4 75.0 0 2 2 0 0 0 1 5 -
+p504
+aVJohn Bagley BOS 01/03/1992 BOS vs. CLE L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 4 0 0 2 1 -
+p505
+aVBrian Shaw BOS 01/03/1992 BOS vs. CLE L 32 16 7 17 41.2 0 0 - 2 2 100.0 1 5 6 8 0 0 0 2 -
+p506
+aVRickey Green BOS 01/03/1992 BOS vs. CLE L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -
+p507
+aVKevin McHale BOS 01/03/1992 BOS vs. CLE L 30 18 8 15 53.3 0 0 - 2 2 100.0 7 4 11 1 0 1 2 1 -
+p508
+aVReggie Lewis BOS 01/03/1992 BOS vs. CLE L 37 15 7 20 35.0 0 2 0.0 1 1 100.0 0 1 1 2 1 0 3 2 -
+p509
+aVRobert Parish BOS 01/03/1992 BOS vs. CLE L 41 19 7 12 58.3 0 0 - 5 6 83.3 5 6 11 0 1 1 2 1 -
+p510
+aVJoe Kleine BOS 01/03/1992 BOS vs. CLE L 7 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -
+p511
+aVKevin Gamble BOS 01/03/1992 BOS vs. CLE L 35 16 7 11 63.6 0 0 - 2 2 100.0 0 4 4 6 1 0 3 5 -
+p512
+aVKevin Gamble BOS 12/30/1991 BOS @ LAC W 20 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 3 0 2 2 1 -
+p513
+aVRobert Parish BOS 12/30/1991 BOS @ LAC W 27 17 8 15 53.3 0 0 - 1 2 50.0 2 4 6 1 0 0 1 2 -
+p514
+aVKevin McHale BOS 12/30/1991 BOS @ LAC W 31 12 4 13 30.8 0 0 - 4 6 66.7 3 4 7 4 1 2 0 4 -
+p515
+aVJoe Kleine BOS 12/30/1991 BOS @ LAC W 19 5 2 7 28.6 0 0 - 1 3 33.3 3 5 8 0 0 0 1 2 -
+p516
+aVBrian Shaw BOS 12/30/1991 BOS @ LAC W 36 15 6 12 50.0 0 1 0.0 3 3 100.0 0 3 3 7 1 1 3 1 -
+p517
+aVLarry Bird BOS 12/30/1991 BOS @ LAC W 35 14 6 14 42.9 2 3 66.7 0 0 - 3 14 17 3 0 2 2 4 -
+p518
+aVJohn Bagley BOS 12/30/1991 BOS @ LAC W 12 6 3 4 75.0 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -
+p519
+aVEd Pinckney BOS 12/30/1991 BOS @ LAC W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -
+p520
+aVRick Fox BOS 12/30/1991 BOS @ LAC W 19 3 1 5 20.0 0 0 - 1 1 100.0 1 2 3 0 1 1 3 5 -
+p521
+aVReggie Lewis BOS 12/30/1991 BOS @ LAC W 34 17 5 15 33.3 0 0 - 7 9 77.8 5 3 8 2 2 0 1 3 -
+p522
+aVKevin Gamble BOS 12/28/1991 BOS @ DEN L 19 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 0 -
+p523
+aVRobert Parish BOS 12/28/1991 BOS @ DEN L 25 13 5 9 55.6 0 0 - 3 6 50.0 2 3 5 0 0 1 3 3 -
+p524
+aVJohn Bagley BOS 12/28/1991 BOS @ DEN L 26 8 4 7 57.1 0 2 0.0 0 0 - 2 3 5 2 0 0 2 5 -
+p525
+aVLarry Bird BOS 12/28/1991 BOS @ DEN L 43 13 4 18 22.2 1 4 25.0 4 4 100.0 3 16 19 6 0 1 4 1 -
+p526
+aVEd Pinckney BOS 12/28/1991 BOS @ DEN L 14 4 1 2 50.0 0 0 - 2 2 100.0 3 5 8 0 0 2 1 2 -
+p527
+aVReggie Lewis BOS 12/28/1991 BOS @ DEN L 43 27 11 22 50.0 0 1 0.0 5 5 100.0 0 1 1 1 2 1 1 5 -
+p528
+aVBrian Shaw BOS 12/28/1991 BOS @ DEN L 22 8 2 8 25.0 0 0 - 4 4 100.0 1 2 3 1 1 0 1 4 -
+p529
+aVRick Fox BOS 12/28/1991 BOS @ DEN L 22 2 1 4 25.0 0 0 - 0 0 - 0 3 3 3 1 1 1 4 -
+p530
+aVKevin McHale BOS 12/28/1991 BOS @ DEN L 26 10 5 19 26.3 0 1 0.0 0 0 - 5 5 10 1 0 4 2 3 -
+p531
+aVReggie Lewis BOS 12/27/1991 BOS @ SEA W 32 15 6 11 54.5 0 0 - 3 4 75.0 1 1 2 5 1 0 1 1 -
+p532
+aVRobert Parish BOS 12/27/1991 BOS @ SEA W 27 8 4 7 57.1 0 0 - 0 0 - 3 6 9 0 1 0 2 2 -
+p533
+aVRick Fox BOS 12/27/1991 BOS @ SEA W 14 10 4 6 66.7 0 0 - 2 3 66.7 0 2 2 0 0 0 2 2 -
+p534
+aVJoe Kleine BOS 12/27/1991 BOS @ SEA W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p535
+aVKevin McHale BOS 12/27/1991 BOS @ SEA W 31 21 8 13 61.5 0 0 - 5 5 100.0 2 1 3 1 0 2 1 4 -
+p536
+aVBrian Shaw BOS 12/27/1991 BOS @ SEA W 29 6 3 9 33.3 0 0 - 0 0 - 0 5 5 7 1 1 0 1 -
+p537
+aVJohn Bagley BOS 12/27/1991 BOS @ SEA W 19 10 4 5 80.0 0 0 - 2 2 100.0 1 1 2 4 1 0 1 0 -
+p538
+aVStojko Vrankovic BOS 12/27/1991 BOS @ SEA W 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -
+p539
+aVLarry Bird BOS 12/27/1991 BOS @ SEA W 35 25 10 15 66.7 3 4 75.0 2 2 100.0 1 9 10 4 4 0 6 0 -
+p540
+aVEd Pinckney BOS 12/27/1991 BOS @ SEA W 20 6 2 2 100.0 0 0 - 2 4 50.0 4 2 6 0 0 0 1 0 -
+p541
+aVKevin Gamble BOS 12/27/1991 BOS @ SEA W 26 6 2 8 25.0 0 0 - 2 2 100.0 1 3 4 2 1 0 1 3 -
+p542
+aVRick Fox BOS 12/25/1991 BOS @ CHI L 28 21 7 13 53.8 1 2 50.0 6 10 60.0 0 3 3 1 1 0 1 4 -
+p543
+aVRobert Parish BOS 12/25/1991 BOS @ CHI L 22 8 3 9 33.3 0 0 - 2 4 50.0 1 6 7 0 0 2 2 2 -
+p544
+aVReggie Lewis BOS 12/25/1991 BOS @ CHI L 34 20 8 17 47.1 0 0 - 4 4 100.0 4 2 6 2 0 1 3 4 -
+p545
+aVKevin McHale BOS 12/25/1991 BOS @ CHI L 20 11 4 9 44.4 0 1 0.0 3 4 75.0 0 0 0 0 1 1 0 0 -
+p546
+aVKevin Gamble BOS 12/25/1991 BOS @ CHI L 30 10 5 11 45.5 0 0 - 0 0 - 3 2 5 2 1 0 1 2 -
+p547
+aVJoe Kleine BOS 12/25/1991 BOS @ CHI L 18 12 6 7 85.7 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -
+p548
+aVJohn Bagley BOS 12/25/1991 BOS @ CHI L 21 3 0 4 0.0 0 0 - 3 4 75.0 0 2 2 5 1 0 4 0 -
+p549
+aVStojko Vrankovic BOS 12/25/1991 BOS @ CHI L 6 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 1 1 3 -
+p550
+aVLarry Bird BOS 12/25/1991 BOS @ CHI L 34 8 4 10 40.0 0 0 - 0 0 - 0 8 8 4 0 0 1 1 -
+p551
+aVBrian Shaw BOS 12/25/1991 BOS @ CHI L 27 6 2 8 25.0 0 0 - 2 2 100.0 1 5 6 5 1 1 4 3 -
+p552
+aVReggie Lewis BOS 12/21/1991 BOS @ MIA L 37 19 7 17 41.2 0 1 0.0 5 5 100.0 4 2 6 2 1 0 2 4 -
+p553
+aVJohn Bagley BOS 12/21/1991 BOS @ MIA L 19 4 2 3 66.7 0 0 - 0 0 - 1 1 2 4 0 0 2 3 -
+p554
+aVEd Pinckney BOS 12/21/1991 BOS @ MIA L 31 11 3 4 75.0 0 0 - 5 6 83.3 3 3 6 1 0 0 1 2 -
+p555
+aVBrian Shaw BOS 12/21/1991 BOS @ MIA L 29 13 6 13 46.2 0 0 - 1 2 50.0 0 1 1 4 1 0 4 3 -
+p556
+aVKevin Gamble BOS 12/21/1991 BOS @ MIA L 21 13 6 11 54.5 0 0 - 1 1 100.0 0 1 1 0 0 1 1 1 -
+p557
+aVKevin McHale BOS 12/21/1991 BOS @ MIA L 31 18 8 15 53.3 0 0 - 2 2 100.0 2 5 7 0 0 1 1 2 -
+p558
+aVJoe Kleine BOS 12/21/1991 BOS @ MIA L 6 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p559
+aVLarry Bird BOS 12/21/1991 BOS @ MIA L 42 12 5 15 33.3 0 1 0.0 2 2 100.0 2 8 10 8 1 1 2 3 -
+p560
+aVRick Fox BOS 12/21/1991 BOS @ MIA L 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 2 3 -
+p561
+aVRobert Parish BOS 12/21/1991 BOS @ MIA L 14 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -
+p562
+aVReggie Lewis BOS 12/20/1991 BOS vs. UTH W 36 16 5 11 45.5 0 0 - 6 8 75.0 1 3 4 3 1 1 1 3 -
+p563
+aVBrian Shaw BOS 12/20/1991 BOS vs. UTH W 30 19 8 15 53.3 0 2 0.0 3 3 100.0 0 2 2 8 2 0 1 4 -
+p564
+aVKevin McHale BOS 12/20/1991 BOS vs. UTH W 24 18 8 14 57.1 0 0 - 2 2 100.0 2 6 8 5 1 2 1 2 -
+p565
+aVJohn Bagley BOS 12/20/1991 BOS vs. UTH W 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 0 0 0 0 -
+p566
+aVRobert Parish BOS 12/20/1991 BOS vs. UTH W 30 14 5 11 45.5 0 0 - 4 4 100.0 2 6 8 0 1 4 3 3 -
+p567
+aVLarry Bird BOS 12/20/1991 BOS vs. UTH W 38 20 7 16 43.8 3 5 60.0 3 4 75.0 1 6 7 5 1 2 5 1 -
+p568
+aVRick Fox BOS 12/20/1991 BOS vs. UTH W 16 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p569
+aVKevin Gamble BOS 12/20/1991 BOS vs. UTH W 22 8 4 7 57.1 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -
+p570
+aVEd Pinckney BOS 12/20/1991 BOS vs. UTH W 26 7 2 4 50.0 0 0 - 3 4 75.0 7 4 11 3 1 1 0 1 -
+p571
+aVKevin McHale BOS 12/18/1991 BOS vs. MIL W 20 20 10 12 83.3 0 1 0.0 0 0 - 2 3 5 1 0 1 0 0 -
+p572
+aVRick Fox BOS 12/18/1991 BOS vs. MIL W 23 14 4 8 50.0 0 0 - 6 6 100.0 0 5 5 4 0 0 2 5 -
+p573
+aVJoe Kleine BOS 12/18/1991 BOS vs. MIL W 7 8 3 3 100.0 0 0 - 2 2 100.0 1 0 1 2 0 0 0 0 -
+p574
+aVStojko Vrankovic BOS 12/18/1991 BOS vs. MIL W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p575
+aVBrian Shaw BOS 12/18/1991 BOS vs. MIL W 28 14 7 9 77.8 0 0 - 0 0 - 2 4 6 6 0 2 1 0 -
+p576
+aVRickey Green BOS 12/18/1991 BOS vs. MIL W 20 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 6 2 0 1 1 -
+p577
+aVKevin Gamble BOS 12/18/1991 BOS vs. MIL W 37 15 7 12 58.3 0 1 0.0 1 1 100.0 0 4 4 6 0 0 4 2 -
+p578
+aVRobert Parish BOS 12/18/1991 BOS vs. MIL W 21 9 4 6 66.7 0 0 - 1 1 100.0 1 3 4 1 1 2 0 0 -
+p579
+aVEd Pinckney BOS 12/18/1991 BOS vs. MIL W 17 15 3 6 50.0 0 0 - 9 9 100.0 5 3 8 0 1 0 1 1 -
+p580
+aVLarry Bird BOS 12/18/1991 BOS vs. MIL W 32 15 6 14 42.9 3 7 42.9 0 0 - 0 5 5 8 0 1 2 3 -
+p581
+aVReggie Lewis BOS 12/18/1991 BOS vs. MIL W 30 12 5 12 41.7 0 0 - 2 2 100.0 0 2 2 1 3 2 2 2 -
+p582
+aVEd Pinckney BOS 12/17/1991 BOS @ ORL W 23 8 2 5 40.0 0 1 0.0 4 5 80.0 4 4 8 0 2 2 3 1 -
+p583
+aVRobert Parish BOS 12/17/1991 BOS @ ORL W 29 19 8 14 57.1 0 0 - 3 6 50.0 2 6 8 0 1 2 0 4 -
+p584
+aVReggie Lewis BOS 12/17/1991 BOS @ ORL W 37 23 9 16 56.3 0 0 - 5 5 100.0 2 3 5 2 1 0 2 3 -
+p585
+aVJoe Kleine BOS 12/17/1991 BOS @ ORL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p586
+aVKevin Gamble BOS 12/17/1991 BOS @ ORL W 26 13 6 11 54.5 0 0 - 1 1 100.0 1 3 4 2 1 0 1 2 -
+p587
+aVBrian Shaw BOS 12/17/1991 BOS @ ORL W 34 13 4 5 80.0 0 0 - 5 6 83.3 0 4 4 5 1 0 4 2 -
+p588
+aVLarry Bird BOS 12/17/1991 BOS @ ORL W 37 20 8 18 44.4 2 6 33.3 2 2 100.0 0 5 5 9 0 1 3 1 -
+p589
+aVRickey Green BOS 12/17/1991 BOS @ ORL W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p590
+aVKevin McHale BOS 12/17/1991 BOS @ ORL W 22 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 2 0 2 3 3 -
+p591
+aVRick Fox BOS 12/17/1991 BOS @ ORL W 12 4 2 2 100.0 0 0 - 0 1 0.0 1 2 3 2 1 0 2 0 -
+p592
+aVJohn Bagley BOS 12/17/1991 BOS @ ORL W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 5 1 0 1 1 -
+p593
+aVKevin McHale BOS 12/14/1991 BOS @ NYK L 36 22 9 21 42.9 0 1 0.0 4 4 100.0 7 1 8 3 1 0 1 3 -
+p594
+aVRobert Parish BOS 12/14/1991 BOS @ NYK L 41 26 11 20 55.0 0 0 - 4 4 100.0 6 9 15 1 1 2 1 2 -
+p595
+aVJoe Kleine BOS 12/14/1991 BOS @ NYK L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p596
+aVEd Pinckney BOS 12/14/1991 BOS @ NYK L 33 8 2 8 25.0 0 0 - 4 5 80.0 7 2 9 1 0 0 1 1 -
+p597
+aVJohn Bagley BOS 12/14/1991 BOS @ NYK L 29 12 6 11 54.5 0 0 - 0 0 - 2 5 7 3 0 0 1 1 -
+p598
+aVKevin Gamble BOS 12/14/1991 BOS @ NYK L 20 2 1 5 20.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -
+p599
+aVRick Fox BOS 12/14/1991 BOS @ NYK L 13 4 1 7 14.3 0 1 0.0 2 2 100.0 2 1 3 2 0 0 1 5 -
+p600
+aVReggie Lewis BOS 12/14/1991 BOS @ NYK L 36 19 8 18 44.4 0 0 - 3 4 75.0 1 1 2 3 4 0 2 3 -
+p601
+aVBrian Shaw BOS 12/14/1991 BOS @ NYK L 27 8 4 13 30.8 0 0 - 0 0 - 1 2 3 1 1 0 3 2 -
+p602
+aVBrian Shaw BOS 12/13/1991 BOS vs. SEA W 25 24 7 9 77.8 0 0 - 10 12 83.3 1 3 4 6 1 0 2 1 -
+p603
+aVReggie Lewis BOS 12/13/1991 BOS vs. SEA W 30 10 5 10 50.0 0 0 - 0 0 - 0 1 1 3 1 2 0 1 -
+p604
+aVKevin Gamble BOS 12/13/1991 BOS vs. SEA W 23 10 4 9 44.4 0 0 - 2 2 100.0 2 5 7 2 1 1 1 0 -
+p605
+aVRick Fox BOS 12/13/1991 BOS vs. SEA W 20 10 5 7 71.4 0 0 - 0 0 - 0 2 2 2 1 0 0 4 -
+p606
+aVKevin McHale BOS 12/13/1991 BOS vs. SEA W 10 11 5 8 62.5 0 0 - 1 1 100.0 0 1 1 1 0 0 1 0 -
+p607
+aVJohn Bagley BOS 12/13/1991 BOS vs. SEA W 23 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 2 1 -
+p608
+aVRobert Parish BOS 12/13/1991 BOS vs. SEA W 25 6 3 5 60.0 0 0 - 0 0 - 3 10 13 2 1 1 3 1 -
+p609
+aVJoe Kleine BOS 12/13/1991 BOS vs. SEA W 18 4 2 4 50.0 0 0 - 0 1 0.0 1 4 5 1 1 0 1 0 -
+p610
+aVEd Pinckney BOS 12/13/1991 BOS vs. SEA W 24 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 1 1 2 2 -
+p611
+aVRickey Green BOS 12/13/1991 BOS vs. SEA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p612
+aVLarry Bird BOS 12/13/1991 BOS vs. SEA W 38 28 11 19 57.9 0 3 0.0 6 6 100.0 0 5 5 8 0 0 3 3 -
+p613
+aVBrian Shaw BOS 12/09/1991 BOS vs. DEN W 20 7 3 6 50.0 0 1 0.0 1 2 50.0 1 8 9 9 2 1 2 1 -
+p614
+aVJohn Bagley BOS 12/09/1991 BOS vs. DEN W 25 11 5 8 62.5 1 1 100.0 0 0 - 2 1 3 5 0 0 4 3 -
+p615
+aVReggie Lewis BOS 12/09/1991 BOS vs. DEN W 31 31 15 19 78.9 0 2 0.0 1 1 100.0 1 2 3 1 3 1 0 2 -
+p616
+aVRobert Parish BOS 12/09/1991 BOS vs. DEN W 23 11 4 9 44.4 0 0 - 3 4 75.0 1 3 4 0 0 1 2 2 -
+p617
+aVLarry Bird BOS 12/09/1991 BOS vs. DEN W 28 14 6 16 37.5 2 3 66.7 0 1 0.0 1 7 8 10 1 1 1 0 -
+p618
+aVEd Pinckney BOS 12/09/1991 BOS vs. DEN W 24 17 6 8 75.0 0 0 - 5 5 100.0 4 5 9 2 2 2 1 2 -
+p619
+aVJoe Kleine BOS 12/09/1991 BOS vs. DEN W 18 8 4 5 80.0 0 0 - 0 0 - 2 4 6 0 0 1 0 3 -
+p620
+aVRickey Green BOS 12/09/1991 BOS vs. DEN W 16 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 0 -
+p621
+aVRick Fox BOS 12/09/1991 BOS vs. DEN W 26 16 6 15 40.0 0 2 0.0 4 4 100.0 1 3 4 3 3 0 1 3 -
+p622
+aVKevin Gamble BOS 12/09/1991 BOS vs. DEN W 22 9 3 7 42.9 0 0 - 3 4 75.0 1 1 2 2 0 0 2 0 -
+p623
+aVStojko Vrankovic BOS 12/09/1991 BOS vs. DEN W 7 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 2 0 1 -
+p624
+aVLarry Bird BOS 12/06/1991 BOS vs. NYK W 43 31 8 20 40.0 1 2 50.0 14 14 100.0 1 11 12 7 0 0 3 1 -
+p625
+aVJohn Bagley BOS 12/06/1991 BOS vs. NYK W 32 9 3 7 42.9 0 0 - 3 4 75.0 1 1 2 8 0 0 2 3 -
+p626
+aVKevin Gamble BOS 12/06/1991 BOS vs. NYK W 24 10 5 8 62.5 0 0 - 0 0 - 3 1 4 2 0 1 1 4 -
+p627
+aVEd Pinckney BOS 12/06/1991 BOS vs. NYK W 27 15 4 6 66.7 0 0 - 7 7 100.0 5 7 12 0 1 1 1 1 -
+p628
+aVRick Fox BOS 12/06/1991 BOS vs. NYK W 19 8 3 5 60.0 2 2 100.0 0 0 - 0 1 1 0 1 1 1 1 -
+p629
+aVRobert Parish BOS 12/06/1991 BOS vs. NYK W 36 18 9 14 64.3 0 0 - 0 1 0.0 4 7 11 1 1 0 0 3 -
+p630
+aVReggie Lewis BOS 12/06/1991 BOS vs. NYK W 35 10 4 12 33.3 0 0 - 2 4 50.0 0 4 4 3 3 0 1 2 -
+p631
+aVBrian Shaw BOS 12/06/1991 BOS vs. NYK W 16 2 1 9 11.1 0 1 0.0 0 0 - 1 2 3 2 0 0 1 1 -
+p632
+aVJoe Kleine BOS 12/06/1991 BOS vs. NYK W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -
+p633
+aVRobert Parish BOS 12/04/1991 BOS vs. MIA W 35 31 13 16 81.3 0 0 - 5 6 83.3 3 4 7 4 1 4 1 3 -
+p634
+aVJoe Kleine BOS 12/04/1991 BOS vs. MIA W 6 4 1 3 33.3 0 0 - 2 2 100.0 4 1 5 0 0 0 0 0 -
+p635
+aVBrian Shaw BOS 12/04/1991 BOS vs. MIA W 13 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 1 3 1 -
+p636
+aVEd Pinckney BOS 12/04/1991 BOS vs. MIA W 18 9 2 3 66.7 0 0 - 5 5 100.0 1 4 5 2 2 0 1 2 -
+p637
+aVRick Fox BOS 12/04/1991 BOS vs. MIA W 26 7 3 6 50.0 1 2 50.0 0 0 - 0 5 5 4 2 0 0 4 -
+p638
+aVStojko Vrankovic BOS 12/04/1991 BOS vs. MIA W 7 4 1 1 100.0 0 0 - 2 3 66.7 0 2 2 0 0 0 3 2 -
+p639
+aVReggie Lewis BOS 12/04/1991 BOS vs. MIA W 33 12 4 14 28.6 0 0 - 4 4 100.0 1 1 2 2 2 1 3 3 -
+p640
+aVKevin Gamble BOS 12/04/1991 BOS vs. MIA W 30 10 5 8 62.5 0 0 - 0 0 - 0 1 1 5 1 0 1 3 -
+p641
+aVJohn Bagley BOS 12/04/1991 BOS vs. MIA W 30 13 6 8 75.0 1 1 100.0 0 0 - 2 2 4 10 0 0 1 2 -
+p642
+aVLarry Bird BOS 12/04/1991 BOS vs. MIA W 37 28 12 19 63.2 1 3 33.3 3 3 100.0 2 9 11 8 2 1 2 1 -
+p643
+aVRickey Green BOS 12/04/1991 BOS vs. MIA W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p644
+aVRick Fox BOS 11/30/1991 BOS @ ATL L 30 31 13 23 56.5 4 7 57.1 1 2 50.0 1 3 4 0 2 0 2 4 -
+p645
+aVJohn Bagley BOS 11/30/1991 BOS @ ATL L 18 6 0 4 0.0 0 0 - 6 6 100.0 1 0 1 6 1 0 2 1 -
+p646
+aVReggie Lewis BOS 11/30/1991 BOS @ ATL L 32 2 1 9 11.1 0 0 - 0 0 - 0 1 1 3 0 1 2 2 -
+p647
+aVJoe Kleine BOS 11/30/1991 BOS @ ATL L 23 9 4 13 30.8 0 0 - 1 1 100.0 5 3 8 4 0 0 0 0 -
+p648
+aVKevin Pritchard BOS 11/30/1991 BOS @ ATL L 17 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 5 0 1 2 2 -
+p649
+aVLarry Bird BOS 11/30/1991 BOS @ ATL L 30 11 5 13 38.5 0 0 - 1 1 100.0 0 4 4 5 0 1 4 1 -
+p650
+aVStojko Vrankovic BOS 11/30/1991 BOS @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 2 -
+p651
+aVEd Pinckney BOS 11/30/1991 BOS @ ATL L 21 13 5 9 55.6 0 0 - 3 3 100.0 6 3 9 1 0 0 1 3 -
+p652
+aVRobert Parish BOS 11/30/1991 BOS @ ATL L 21 7 3 7 42.9 0 0 - 1 2 50.0 0 4 4 1 0 1 2 2 -
+p653
+aVKevin Gamble BOS 11/30/1991 BOS @ ATL L 18 10 5 6 83.3 0 0 - 0 0 - 1 4 5 3 0 0 2 5 -
+p654
+aVRickey Green BOS 11/30/1991 BOS @ ATL L 23 10 5 5 100.0 0 0 - 0 0 - 1 3 4 0 2 0 0 1 -
+p655
+aVRickey Green BOS 11/29/1991 BOS vs. LAL W 18 6 3 5 60.0 0 0 - 0 0 - 0 2 2 5 0 1 1 1 -
+p656
+aVJoe Kleine BOS 11/29/1991 BOS vs. LAL W 11 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -
+p657
+aVKevin Gamble BOS 11/29/1991 BOS vs. LAL W 28 14 6 10 60.0 0 0 - 2 2 100.0 2 6 8 1 0 0 1 1 -
+p658
+aVRick Fox BOS 11/29/1991 BOS vs. LAL W 17 6 1 7 14.3 0 1 0.0 4 4 100.0 0 0 0 0 0 0 2 1 -
+p659
+aVLarry Bird BOS 11/29/1991 BOS vs. LAL W 41 22 8 17 47.1 1 2 50.0 5 6 83.3 1 9 10 7 2 1 0 2 -
+p660
+aVEd Pinckney BOS 11/29/1991 BOS vs. LAL W 26 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 1 2 1 1 1 -
+p661
+aVKevin Pritchard BOS 11/29/1991 BOS vs. LAL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p662
+aVRobert Parish BOS 11/29/1991 BOS vs. LAL W 35 17 7 10 70.0 0 0 - 3 5 60.0 5 8 13 2 1 0 1 2 -
+p663
+aVReggie Lewis BOS 11/29/1991 BOS vs. LAL W 32 20 9 15 60.0 0 0 - 2 2 100.0 2 2 4 4 1 1 3 4 -
+p664
+aVStojko Vrankovic BOS 11/29/1991 BOS vs. LAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p665
+aVJohn Bagley BOS 11/29/1991 BOS vs. LAL W 29 14 6 10 60.0 0 1 0.0 2 4 50.0 0 3 3 10 0 0 2 2 -
+p666
+aVRobert Parish BOS 11/27/1991 BOS vs. ORL W 31 16 6 7 85.7 0 0 - 4 4 100.0 0 8 8 0 3 4 3 4 -
+p667
+aVJohn Bagley BOS 11/27/1991 BOS vs. ORL W 28 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 5 1 0 3 2 -
+p668
+aVReggie Lewis BOS 11/27/1991 BOS vs. ORL W 40 18 8 14 57.1 0 0 - 2 6 33.3 1 5 6 2 1 3 6 3 -
+p669
+aVJoe Kleine BOS 11/27/1991 BOS vs. ORL W 17 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 0 0 0 1 -
+p670
+aVRickey Green BOS 11/27/1991 BOS vs. ORL W 20 0 0 1 0.0 0 0 - 0 0 - 0 0 0 5 2 0 2 1 -
+p671
+aVKevin Gamble BOS 11/27/1991 BOS vs. ORL W 34 14 4 10 40.0 0 0 - 6 6 100.0 0 2 2 2 1 1 1 4 -
+p672
+aVLarry Bird BOS 11/27/1991 BOS vs. ORL W 41 32 13 25 52.0 3 8 37.5 3 4 75.0 1 10 11 5 0 2 1 3 -
+p673
+aVEd Pinckney BOS 11/27/1991 BOS vs. ORL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p674
+aVRick Fox BOS 11/27/1991 BOS vs. ORL W 23 11 5 11 45.5 0 1 0.0 1 2 50.0 2 2 4 4 0 0 1 2 -
+p675
+aVKevin Gamble BOS 11/25/1991 BOS vs. WAS W 27 12 6 11 54.5 0 0 - 0 0 - 3 1 4 3 3 0 0 2 -
+p676
+aVJohn Bagley BOS 11/25/1991 BOS vs. WAS W 27 6 3 7 42.9 0 0 - 0 0 - 0 4 4 8 0 1 2 3 -
+p677
+aVRick Fox BOS 11/25/1991 BOS vs. WAS W 29 10 3 13 23.1 0 1 0.0 4 7 57.1 1 3 4 1 1 0 2 1 -
+p678
+aVRobert Parish BOS 11/25/1991 BOS vs. WAS W 24 16 7 9 77.8 0 0 - 2 2 100.0 3 8 11 2 2 2 1 3 -
+p679
+aVLarry Bird BOS 11/25/1991 BOS vs. WAS W 33 18 5 19 26.3 2 2 100.0 6 6 100.0 2 9 11 6 1 0 2 1 -
+p680
+aVReggie Lewis BOS 11/25/1991 BOS vs. WAS W 40 37 17 24 70.8 0 0 - 3 4 75.0 1 3 4 1 4 3 0 3 -
+p681
+aVJoe Kleine BOS 11/25/1991 BOS vs. WAS W 24 10 5 5 100.0 0 0 - 0 0 - 2 2 4 1 2 0 1 4 -
+p682
+aVEd Pinckney BOS 11/25/1991 BOS vs. WAS W 15 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 2 0 0 0 2 -
+p683
+aVRickey Green BOS 11/25/1991 BOS vs. WAS W 21 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 2 1 0 1 3 -
+p684
+aVJohn Bagley BOS 11/23/1991 BOS @ NJN W 21 2 1 5 20.0 0 0 - 0 0 - 4 4 8 8 1 1 6 1 -
+p685
+aVReggie Lewis BOS 11/23/1991 BOS @ NJN W 31 21 9 16 56.3 0 0 - 3 3 100.0 0 1 1 3 0 1 1 2 -
+p686
+aVRickey Green BOS 11/23/1991 BOS @ NJN W 20 6 2 6 33.3 0 0 - 2 2 100.0 0 4 4 3 2 0 0 3 -
+p687
+aVRick Fox BOS 11/23/1991 BOS @ NJN W 33 25 11 13 84.6 1 1 100.0 2 4 50.0 2 3 5 0 1 0 5 3 -
+p688
+aVStojko Vrankovic BOS 11/23/1991 BOS @ NJN W 18 4 1 6 16.7 0 0 - 2 2 100.0 3 0 3 0 0 3 0 4 -
+p689
+aVKevin Gamble BOS 11/23/1991 BOS @ NJN W 24 12 6 9 66.7 0 0 - 0 0 - 0 0 0 2 1 1 0 2 -
+p690
+aVKevin Pritchard BOS 11/23/1991 BOS @ NJN W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 0 -
+p691
+aVJoe Kleine BOS 11/23/1991 BOS @ NJN W 16 9 3 3 100.0 1 1 100.0 2 2 100.0 0 4 4 0 1 0 0 4 -
+p692
+aVLarry Bird BOS 11/23/1991 BOS @ NJN W 29 19 8 14 57.1 0 1 0.0 3 3 100.0 1 7 8 6 0 0 2 0 -
+p693
+aVRobert Parish BOS 11/23/1991 BOS @ NJN W 22 15 5 7 71.4 0 0 - 5 5 100.0 3 10 13 0 1 0 3 2 -
+p694
+aVEd Pinckney BOS 11/23/1991 BOS @ NJN W 19 10 3 6 50.0 0 0 - 4 4 100.0 2 4 6 0 1 0 5 5 -
+p695
+aVLarry Bird BOS 11/20/1991 BOS vs. IND W 41 26 10 20 50.0 0 2 0.0 6 6 100.0 1 18 19 3 0 1 3 2 -
+p696
+aVReggie Lewis BOS 11/20/1991 BOS vs. IND W 39 20 7 12 58.3 0 0 - 6 7 85.7 2 4 6 6 0 4 2 2 -
+p697
+aVJohn Bagley BOS 11/20/1991 BOS vs. IND W 27 18 5 7 71.4 0 0 - 8 8 100.0 0 1 1 9 1 0 3 3 -
+p698
+aVJoe Kleine BOS 11/20/1991 BOS vs. IND W 19 6 3 4 75.0 0 0 - 0 0 - 1 6 7 2 0 0 0 4 -
+p699
+aVRick Fox BOS 11/20/1991 BOS vs. IND W 17 10 3 7 42.9 1 2 50.0 3 4 75.0 1 0 1 1 4 1 3 5 -
+p700
+aVRobert Parish BOS 11/20/1991 BOS vs. IND W 29 9 3 9 33.3 0 0 - 3 4 75.0 1 3 4 0 0 3 1 1 -
+p701
+aVRickey Green BOS 11/20/1991 BOS vs. IND W 21 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 5 2 0 1 3 -
+p702
+aVKevin Gamble BOS 11/20/1991 BOS vs. IND W 33 13 6 15 40.0 0 0 - 1 2 50.0 0 3 3 2 2 0 0 4 -
+p703
+aVEd Pinckney BOS 11/20/1991 BOS vs. IND W 14 6 1 3 33.3 0 0 - 4 4 100.0 5 0 5 0 0 1 0 1 -
+p704
+aVKevin Gamble BOS 11/16/1991 BOS @ CHH L 35 10 3 8 37.5 0 0 - 4 4 100.0 2 0 2 2 0 0 0 1 -
+p705
+aVLarry Bird BOS 11/16/1991 BOS @ CHH L 41 25 12 24 50.0 1 1 100.0 0 0 - 5 6 11 8 0 0 1 4 -
+p706
+aVEd Pinckney BOS 11/16/1991 BOS @ CHH L 11 3 1 5 20.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 2 -
+p707
+aVReggie Lewis BOS 11/16/1991 BOS @ CHH L 39 26 10 21 47.6 1 1 100.0 5 6 83.3 2 6 8 3 1 0 2 3 -
+p708
+aVRick Fox BOS 11/16/1991 BOS @ CHH L 18 4 0 4 0.0 0 0 - 4 4 100.0 0 1 1 0 2 0 1 2 -
+p709
+aVJohn Bagley BOS 11/16/1991 BOS @ CHH L 25 7 3 9 33.3 0 0 - 1 1 100.0 1 0 1 6 0 0 1 1 -
+p710
+aVRickey Green BOS 11/16/1991 BOS @ CHH L 23 8 4 9 44.4 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p711
+aVKevin McHale BOS 11/16/1991 BOS @ CHH L 19 6 3 10 30.0 0 0 - 0 0 - 4 1 5 1 0 0 1 3 -
+p712
+aVRobert Parish BOS 11/16/1991 BOS @ CHH L 29 20 9 13 69.2 0 0 - 2 3 66.7 5 7 12 1 1 0 2 3 -
+p713
+aVJoe Kleine BOS 11/15/1991 BOS vs. PHL W 15 4 2 5 40.0 0 0 - 0 0 - 2 3 5 2 0 0 0 1 -
+p714
+aVKevin Gamble BOS 11/15/1991 BOS vs. PHL W 30 12 6 11 54.5 0 0 - 0 0 - 0 3 3 3 2 2 0 2 -
+p715
+aVReggie Lewis BOS 11/15/1991 BOS vs. PHL W 31 19 9 14 64.3 0 0 - 1 1 100.0 1 4 5 2 0 3 2 3 -
+p716
+aVRobert Parish BOS 11/15/1991 BOS vs. PHL W 22 9 3 10 30.0 0 0 - 3 5 60.0 5 7 12 1 0 4 0 0 -
+p717
+aVKevin Pritchard BOS 11/15/1991 BOS vs. PHL W 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 1 1 -
+p718
+aVRick Fox BOS 11/15/1991 BOS vs. PHL W 28 15 6 9 66.7 1 1 100.0 2 2 100.0 2 3 5 3 3 1 3 4 -
+p719
+aVLarry Bird BOS 11/15/1991 BOS vs. PHL W 29 24 9 17 52.9 2 2 100.0 4 4 100.0 0 7 7 6 1 0 2 0 -
+p720
+aVKevin McHale BOS 11/15/1991 BOS vs. PHL W 23 14 6 12 50.0 0 0 - 2 2 100.0 1 2 3 2 0 0 0 0 -
+p721
+aVEd Pinckney BOS 11/15/1991 BOS vs. PHL W 9 6 3 8 37.5 0 0 - 0 0 - 2 0 2 2 1 0 2 0 -
+p722
+aVRickey Green BOS 11/15/1991 BOS vs. PHL W 22 7 3 5 60.0 0 0 - 1 1 100.0 0 0 0 5 1 0 0 2 -
+p723
+aVJohn Bagley BOS 11/15/1991 BOS vs. PHL W 21 6 3 4 75.0 0 0 - 0 0 - 0 1 1 5 2 0 4 1 -
+p724
+aVStojko Vrankovic BOS 11/15/1991 BOS vs. PHL W 5 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -
+p725
+aVLarry Bird BOS 11/13/1991 BOS @ PHX W 43 27 13 17 76.5 1 1 100.0 0 0 - 0 8 8 6 1 0 3 1 -
+p726
+aVJohn Bagley BOS 11/13/1991 BOS @ PHX W 25 10 4 10 40.0 0 0 - 2 2 100.0 0 1 1 5 1 0 3 5 -
+p727
+aVReggie Lewis BOS 11/13/1991 BOS @ PHX W 35 16 5 12 41.7 0 0 - 6 7 85.7 0 2 2 1 1 1 3 4 -
+p728
+aVKevin McHale BOS 11/13/1991 BOS @ PHX W 24 18 9 15 60.0 0 0 - 0 0 - 2 6 8 1 0 1 0 3 -
+p729
+aVRickey Green BOS 11/13/1991 BOS @ PHX W 22 7 3 8 37.5 0 1 0.0 1 1 100.0 1 0 1 6 1 0 0 3 -
+p730
+aVKevin Pritchard BOS 11/13/1991 BOS @ PHX W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -
+p731
+aVEd Pinckney BOS 11/13/1991 BOS @ PHX W 18 6 1 3 33.3 0 0 - 4 4 100.0 0 6 6 0 1 1 1 0 -
+p732
+aVKevin Gamble BOS 11/13/1991 BOS @ PHX W 34 21 9 12 75.0 0 0 - 3 4 75.0 0 8 8 6 0 1 2 5 -
+p733
+aVRick Fox BOS 11/13/1991 BOS @ PHX W 14 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 4 0 0 1 3 -
+p734
+aVJoe Kleine BOS 11/13/1991 BOS @ PHX W 24 4 2 4 50.0 0 0 - 0 0 - 0 8 8 2 0 1 0 1 -
+p735
+aVKevin McHale BOS 11/12/1991 BOS @ SAC W 26 13 6 9 66.7 0 0 - 1 2 50.0 1 3 4 1 0 0 1 2 -
+p736
+aVReggie Lewis BOS 11/12/1991 BOS @ SAC W 31 13 5 12 41.7 0 0 - 3 3 100.0 3 2 5 1 0 5 3 2 -
+p737
+aVKevin Pritchard BOS 11/12/1991 BOS @ SAC W 11 8 3 5 60.0 0 1 0.0 2 4 50.0 0 2 2 5 1 0 2 2 -
+p738
+aVKevin Gamble BOS 11/12/1991 BOS @ SAC W 32 16 6 10 60.0 0 0 - 4 6 66.7 2 1 3 3 1 0 1 2 -
+p739
+aVRobert Parish BOS 11/12/1991 BOS @ SAC W 18 8 4 5 80.0 0 0 - 0 0 - 2 6 8 0 0 1 1 1 -
+p740
+aVEd Pinckney BOS 11/12/1991 BOS @ SAC W 18 14 6 9 66.7 0 0 - 2 2 100.0 3 5 8 0 0 0 0 1 -
+p741
+aVJohn Bagley BOS 11/12/1991 BOS @ SAC W 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 7 1 0 2 1 -
+p742
+aVRick Fox BOS 11/12/1991 BOS @ SAC W 27 19 8 13 61.5 0 1 0.0 3 4 75.0 2 4 6 5 3 0 1 4 -
+p743
+aVStojko Vrankovic BOS 11/12/1991 BOS @ SAC W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p744
+aVJoe Kleine BOS 11/12/1991 BOS @ SAC W 7 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p745
+aVLarry Bird BOS 11/12/1991 BOS @ SAC W 27 20 10 16 62.5 0 1 0.0 0 0 - 0 7 7 4 2 0 3 2 -
+p746
+aVRickey Green BOS 11/12/1991 BOS @ SAC W 19 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 6 0 0 2 0 -
+p747
+aVKevin McHale BOS 11/10/1991 BOS @ POR L 19 10 5 15 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -
+p748
+aVLarry Bird BOS 11/10/1991 BOS @ POR L 31 12 5 18 27.8 0 1 0.0 2 2 100.0 2 10 12 2 1 1 3 0 -
+p749
+aVJoe Kleine BOS 11/10/1991 BOS @ POR L 10 5 1 3 33.3 0 0 - 3 4 75.0 3 2 5 2 0 0 1 3 -
+p750
+aVRobert Parish BOS 11/10/1991 BOS @ POR L 28 12 6 12 50.0 0 0 - 0 2 0.0 4 3 7 0 0 3 1 3 -
+p751
+aVRick Fox BOS 11/10/1991 BOS @ POR L 22 9 3 8 37.5 2 2 100.0 1 4 25.0 2 1 3 1 2 0 5 4 -
+p752
+aVJohn Bagley BOS 11/10/1991 BOS @ POR L 25 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 5 0 0 1 5 -
+p753
+aVRickey Green BOS 11/10/1991 BOS @ POR L 20 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 4 1 0 0 2 -
+p754
+aVKevin Pritchard BOS 11/10/1991 BOS @ POR L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -
+p755
+aVReggie Lewis BOS 11/10/1991 BOS @ POR L 31 18 7 12 58.3 0 0 - 4 4 100.0 1 1 2 4 1 1 2 4 -
+p756
+aVKevin Gamble BOS 11/10/1991 BOS @ POR L 20 7 2 7 28.6 0 0 - 3 3 100.0 1 1 2 2 0 0 1 3 -
+p757
+aVEd Pinckney BOS 11/10/1991 BOS @ POR L 19 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 2 1 1 1 -
+p758
+aVKevin McHale BOS 11/08/1991 BOS vs. ATL L 17 10 5 8 62.5 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -
+p759
+aVRick Fox BOS 11/08/1991 BOS vs. ATL L 35 12 6 10 60.0 0 1 0.0 0 0 - 1 5 6 3 1 2 3 5 -
+p760
+aVRickey Green BOS 11/08/1991 BOS vs. ATL L 20 5 2 8 25.0 0 0 - 1 2 50.0 0 0 0 2 1 0 0 2 -
+p761
+aVRobert Parish BOS 11/08/1991 BOS vs. ATL L 33 18 9 14 64.3 0 0 - 0 0 - 2 9 11 0 0 2 2 0 -
+p762
+aVLarry Bird BOS 11/08/1991 BOS vs. ATL L 40 17 5 14 35.7 1 5 20.0 6 8 75.0 1 8 9 6 3 1 4 1 -
+p763
+aVReggie Lewis BOS 11/08/1991 BOS vs. ATL L 44 26 9 16 56.3 0 0 - 8 8 100.0 1 5 6 0 1 4 3 6 -
+p764
+aVJoe Kleine BOS 11/08/1991 BOS vs. ATL L 4 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -
+p765
+aVEd Pinckney BOS 11/08/1991 BOS vs. ATL L 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p766
+aVJohn Bagley BOS 11/08/1991 BOS vs. ATL L 27 3 1 4 25.0 0 1 0.0 1 2 50.0 1 3 4 10 2 0 1 2 -
+p767
+aVKevin Gamble BOS 11/08/1991 BOS vs. ATL L 14 0 0 3 0.0 0 0 - 0 0 - 1 2 3 3 1 0 1 1 -
+p768
+aVRobert Parish BOS 11/06/1991 BOS vs. CHI L 29 14 6 10 60.0 0 0 - 2 2 100.0 2 4 6 0 0 1 2 3 -
+p769
+aVEd Pinckney BOS 11/06/1991 BOS vs. CHI L 13 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 -
+p770
+aVJoe Kleine BOS 11/06/1991 BOS vs. CHI L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p771
+aVKevin Pritchard BOS 11/06/1991 BOS vs. CHI L 16 10 4 4 100.0 0 0 - 2 2 100.0 0 0 0 3 0 0 1 2 -
+p772
+aVReggie Lewis BOS 11/06/1991 BOS vs. CHI L 38 21 9 19 47.4 0 0 - 3 3 100.0 1 2 3 2 3 1 1 4 -
+p773
+aVKevin McHale BOS 11/06/1991 BOS vs. CHI L 19 8 3 9 33.3 0 0 - 2 2 100.0 2 4 6 2 0 2 1 2 -
+p774
+aVRick Fox BOS 11/06/1991 BOS vs. CHI L 32 15 6 12 50.0 0 1 0.0 3 4 75.0 2 2 4 2 1 0 2 4 -
+p775
+aVJohn Bagley BOS 11/06/1991 BOS vs. CHI L 30 6 3 4 75.0 0 0 - 0 0 - 0 3 3 8 2 0 1 1 -
+p776
+aVLarry Bird BOS 11/06/1991 BOS vs. CHI L 39 30 13 22 59.1 0 0 - 4 4 100.0 0 2 2 9 0 0 3 2 -
+p777
+aVRickey Green BOS 11/06/1991 BOS vs. CHI L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p778
+aVKevin Gamble BOS 11/06/1991 BOS vs. CHI L 19 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 1 2 0 1 1 -
+p779
+aVKevin Pritchard BOS 11/05/1991 BOS @ MIA W 28 8 2 7 28.6 0 0 - 4 4 100.0 0 2 2 4 1 0 2 2 -
+p780
+aVJohn Bagley BOS 11/05/1991 BOS @ MIA W 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 3 1 0 0 2 -
+p781
+aVLarry Bird BOS 11/05/1991 BOS @ MIA W 42 20 6 20 30.0 0 2 0.0 8 10 80.0 1 10 11 8 1 1 5 3 -
+p782
+aVKevin Gamble BOS 11/05/1991 BOS @ MIA W 25 4 2 6 33.3 0 0 - 0 0 - 4 1 5 0 1 1 2 2 -
+p783
+aVRick Fox BOS 11/05/1991 BOS @ MIA W 25 13 5 6 83.3 0 0 - 3 4 75.0 2 2 4 2 1 1 2 6 -
+p784
+aVReggie Lewis BOS 11/05/1991 BOS @ MIA W 44 25 10 23 43.5 0 0 - 5 5 100.0 5 3 8 1 0 0 2 6 -
+p785
+aVEd Pinckney BOS 11/05/1991 BOS @ MIA W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p786
+aVRobert Parish BOS 11/05/1991 BOS @ MIA W 32 15 6 8 75.0 0 0 - 3 4 75.0 0 8 8 0 2 2 2 3 -
+p787
+aVKevin McHale BOS 11/05/1991 BOS @ MIA W 21 4 2 6 33.3 0 0 - 0 0 - 2 5 7 0 1 0 4 3 -
+p788
+aVEd Pinckney BOS 11/02/1991 BOS @ WAS L 28 6 0 2 0.0 0 0 - 6 8 75.0 3 1 4 0 0 1 0 1 -
+p789
+aVKevin McHale BOS 11/02/1991 BOS @ WAS L 30 16 8 17 47.1 0 1 0.0 0 1 0.0 3 8 11 1 0 1 5 3 -
+p790
+aVRick Fox BOS 11/02/1991 BOS @ WAS L 21 8 3 10 30.0 0 0 - 2 2 100.0 0 7 7 1 1 0 2 4 -
+p791
+aVKevin Gamble BOS 11/02/1991 BOS @ WAS L 11 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p792
+aVJohn Bagley BOS 11/02/1991 BOS @ WAS L 23 6 3 11 27.3 0 2 0.0 0 0 - 2 2 4 5 0 0 3 2 -
+p793
+aVRobert Parish BOS 11/02/1991 BOS @ WAS L 38 18 8 13 61.5 0 0 - 2 2 100.0 6 6 12 0 0 1 3 3 -
+p794
+aVKevin Pritchard BOS 11/02/1991 BOS @ WAS L 21 6 3 5 60.0 0 0 - 0 0 - 0 0 0 8 1 2 1 3 -
+p795
+aVLarry Bird BOS 11/02/1991 BOS @ WAS L 47 31 14 21 66.7 2 3 66.7 1 1 100.0 2 12 14 7 2 0 6 2 -
+p796
+aVReggie Lewis BOS 11/02/1991 BOS @ WAS L 46 23 11 21 52.4 0 0 - 1 1 100.0 1 2 3 1 1 2 1 3 -
+p797
+aVReggie Lewis BOS 11/01/1991 BOS vs. CHH W 38 18 6 12 50.0 0 0 - 6 9 66.7 1 5 6 4 2 1 2 5 -
+p798
+aVRobert Parish BOS 11/01/1991 BOS vs. CHH W 31 13 6 15 40.0 0 0 - 1 1 100.0 4 10 14 0 2 2 0 2 -
+p799
+aVJohn Bagley BOS 11/01/1991 BOS vs. CHH W 36 8 3 7 42.9 0 0 - 2 2 100.0 0 0 0 10 1 0 4 2 -
+p800
+aVLarry Robinson BOS 11/01/1991 BOS vs. CHH W 6 2 1 5 20.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 -
+p801
+aVKevin Gamble BOS 11/01/1991 BOS vs. CHH W 23 11 5 8 62.5 0 0 - 1 3 33.3 0 0 0 4 0 1 0 1 -
+p802
+aVKevin Pritchard BOS 11/01/1991 BOS vs. CHH W 14 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 1 0 3 -
+p803
+aVLarry Bird BOS 11/01/1991 BOS vs. CHH W 39 23 7 20 35.0 0 1 0.0 9 9 100.0 0 7 7 6 0 2 3 5 -
+p804
+aVKevin McHale BOS 11/01/1991 BOS vs. CHH W 14 9 4 6 66.7 0 1 0.0 1 2 50.0 2 1 3 1 1 0 1 1 -
+p805
+aVEd Pinckney BOS 11/01/1991 BOS vs. CHH W 18 12 6 7 85.7 0 0 - 0 0 - 1 7 8 1 0 0 0 2 -
+p806
+aVRick Fox BOS 11/01/1991 BOS vs. CHH W 21 13 4 8 50.0 0 0 - 5 7 71.4 1 1 2 1 2 0 2 5 -
+p807
+a.

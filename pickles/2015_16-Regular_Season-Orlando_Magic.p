@@ -1,0 +1,1798 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDevyn Marble ORL 04/13/2016 ORL @ CHA L 20 2 1 6 16.7 0 4 0.0 0 2 0.0 0 6 6 2 1 0 0 2 -3
+p2
+aVElfrid Payton ORL 04/13/2016 ORL @ CHA L 25 2 1 5 20.0 0 2 0.0 0 2 0.0 1 3 4 7 1 0 2 1 -5
+p3
+aVCJ Watson ORL 04/13/2016 ORL @ CHA L 19 7 3 5 60.0 0 1 0.0 1 1 100.0 0 0 0 3 0 0 2 0 -6
+p4
+aVAndrew Nicholson ORL 04/13/2016 ORL @ CHA L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p5
+aVNikola Vucevic ORL 04/13/2016 ORL @ CHA L 20 17 8 13 61.5 0 0 - 1 2 50.0 0 4 4 1 0 0 0 2 -3
+p6
+aVErsan Ilyasova ORL 04/13/2016 ORL @ CHA L 20 7 3 8 37.5 1 2 50.0 0 0 - 2 5 7 0 0 0 2 1 -11
+p7
+aVShabazz Napier ORL 04/13/2016 ORL @ CHA L 4 4 1 2 50.0 1 2 50.0 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p8
+aVEvan Fournier ORL 04/13/2016 ORL @ CHA L 34 22 8 14 57.1 4 5 80.0 2 2 100.0 0 2 2 3 2 0 2 3 -12
+p9
+aVMario Hezonja ORL 04/13/2016 ORL @ CHA L 42 10 3 11 27.3 1 7 14.3 3 3 100.0 0 5 5 4 1 0 0 2 -13
+p10
+aVJason Smith ORL 04/13/2016 ORL @ CHA L 16 6 3 7 42.9 0 0 - 0 0 - 0 1 1 1 0 1 0 3 -8
+p11
+aVAaron Gordon ORL 04/13/2016 ORL @ CHA L 24 22 9 17 52.9 1 4 25.0 3 4 75.0 1 4 5 1 2 1 0 1 0
+p12
+aVDewayne Dedmon ORL 04/13/2016 ORL @ CHA L 12 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 0 2 2 3 -3
+p13
+aVAndrew Nicholson ORL 04/11/2016 ORL vs. MIL W 11 0 0 5 0.0 0 3 0.0 0 0 - 1 1 2 0 0 0 1 2 -4
+p14
+aVEvan Fournier ORL 04/11/2016 ORL vs. MIL W 38 13 5 13 38.5 1 6 16.7 2 2 100.0 1 4 5 4 1 0 2 0 21
+p15
+aVJason Smith ORL 04/11/2016 ORL vs. MIL W 29 10 4 11 36.4 0 1 0.0 2 2 100.0 1 5 6 1 4 4 0 1 -7
+p16
+aVElfrid Payton ORL 04/11/2016 ORL vs. MIL W 31 11 3 8 37.5 0 2 0.0 5 10 50.0 0 3 3 11 3 0 4 1 20
+p17
+aVDewayne Dedmon ORL 04/11/2016 ORL vs. MIL W 19 17 6 11 54.5 0 0 - 5 6 83.3 3 5 8 0 3 3 0 4 16
+p18
+aVCJ Watson ORL 04/11/2016 ORL vs. MIL W 17 6 3 4 75.0 0 0 - 0 0 - 1 1 2 3 1 0 1 1 -11
+p19
+aVDevyn Marble ORL 04/11/2016 ORL vs. MIL W 19 9 3 8 37.5 1 3 33.3 2 6 33.3 1 0 1 1 1 0 0 1 -11
+p20
+aVMario Hezonja ORL 04/11/2016 ORL vs. MIL W 39 19 7 11 63.6 3 6 50.0 2 2 100.0 1 2 3 7 5 0 2 2 8
+p21
+aVErsan Ilyasova ORL 04/11/2016 ORL vs. MIL W 37 22 10 13 76.9 2 2 100.0 0 0 - 3 3 6 1 1 3 0 3 13
+p22
+aVNikola Vucevic ORL 04/10/2016 ORL @ MIA L 30 19 9 17 52.9 0 0 - 1 2 50.0 1 7 8 2 1 0 3 3 -17
+p23
+aVElfrid Payton ORL 04/10/2016 ORL @ MIA L 26 8 3 8 37.5 1 1 100.0 1 2 50.0 1 3 4 4 1 0 2 2 -11
+p24
+aVShabazz Napier ORL 04/10/2016 ORL @ MIA L 12 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -2
+p25
+aVMario Hezonja ORL 04/10/2016 ORL @ MIA L 32 10 4 8 50.0 2 3 66.7 0 0 - 0 3 3 1 1 0 2 2 -22
+p26
+aVDevyn Marble ORL 04/10/2016 ORL @ MIA L 27 9 2 6 33.3 1 3 33.3 4 6 66.7 0 2 2 1 1 0 2 1 -8
+p27
+aVAndrew Nicholson ORL 04/10/2016 ORL @ MIA L 23 8 2 6 33.3 0 2 0.0 4 4 100.0 0 1 1 1 0 0 1 1 -8
+p28
+aVDewayne Dedmon ORL 04/10/2016 ORL @ MIA L 8 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -1
+p29
+aVCJ Watson ORL 04/10/2016 ORL @ MIA L 22 8 3 5 60.0 1 2 50.0 1 1 100.0 0 3 3 2 1 0 1 4 -11
+p30
+aVErsan Ilyasova ORL 04/10/2016 ORL @ MIA L 17 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 2 1 -12
+p31
+aVJason Smith ORL 04/10/2016 ORL @ MIA L 13 5 2 7 28.6 0 0 - 1 1 100.0 3 3 6 1 0 1 1 2 -2
+p32
+aVEvan Fournier ORL 04/10/2016 ORL @ MIA L 32 21 9 16 56.3 2 4 50.0 1 1 100.0 0 2 2 5 1 0 2 1 -16
+p33
+aVMario Hezonja ORL 04/08/2016 ORL vs. MIA W 23 9 4 7 57.1 1 2 50.0 0 0 - 0 4 4 3 0 0 1 1 5
+p34
+aVElfrid Payton ORL 04/08/2016 ORL vs. MIA W 37 16 6 12 50.0 0 2 0.0 4 7 57.1 0 3 3 10 1 0 3 2 2
+p35
+aVErsan Ilyasova ORL 04/08/2016 ORL vs. MIA W 24 4 2 5 40.0 0 2 0.0 0 0 - 1 5 6 0 0 0 0 1 -7
+p36
+aVDevyn Marble ORL 04/08/2016 ORL vs. MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 4
+p37
+aVVictor Oladipo ORL 04/08/2016 ORL vs. MIA W 28 13 6 12 50.0 1 1 100.0 0 0 - 1 3 4 1 0 2 1 2 0
+p38
+aVJason Smith ORL 04/08/2016 ORL vs. MIA W 13 6 3 8 37.5 0 0 - 0 0 - 0 3 3 0 0 4 0 1 2
+p39
+aVNikola Vucevic ORL 04/08/2016 ORL vs. MIA W 35 29 12 20 60.0 0 0 - 5 6 83.3 3 3 6 1 1 2 1 3 1
+p40
+aVCJ Watson ORL 04/08/2016 ORL vs. MIA W 29 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 1 0 1 1 2 -1
+p41
+aVEvan Fournier ORL 04/08/2016 ORL vs. MIA W 46 28 7 12 58.3 2 3 66.7 12 15 80.0 1 6 7 7 1 0 3 5 9
+p42
+aVJason Smith ORL 04/06/2016 ORL vs. DET L 16 6 3 8 37.5 0 0 - 0 0 - 3 6 9 2 0 2 0 3 14
+p43
+aVEvan Fournier ORL 04/06/2016 ORL vs. DET L 32 19 7 15 46.7 0 5 0.0 5 5 100.0 1 2 3 2 0 0 4 4 -20
+p44
+aVDewayne Dedmon ORL 04/06/2016 ORL vs. DET L 5 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 1 0 0 -9
+p45
+aVElfrid Payton ORL 04/06/2016 ORL vs. DET L 32 17 8 13 61.5 0 1 0.0 1 1 100.0 1 1 2 5 2 1 3 2 -6
+p46
+aVMario Hezonja ORL 04/06/2016 ORL vs. DET L 20 6 3 5 60.0 0 0 - 0 0 - 0 3 3 3 1 1 1 1 5
+p47
+aVAaron Gordon ORL 04/06/2016 ORL vs. DET L 32 6 3 10 30.0 0 2 0.0 0 2 0.0 2 4 6 4 0 1 1 1 1
+p48
+aVNikola Vucevic ORL 04/06/2016 ORL vs. DET L 27 15 7 14 50.0 0 0 - 1 2 50.0 2 11 13 3 2 1 1 5 -9
+p49
+aVAndrew Nicholson ORL 04/06/2016 ORL vs. DET L 20 14 5 7 71.4 2 2 100.0 2 2 100.0 1 5 6 0 1 0 1 1 7
+p50
+aVVictor Oladipo ORL 04/06/2016 ORL vs. DET L 39 16 5 13 38.5 1 2 50.0 5 7 71.4 0 4 4 3 1 1 2 4 -2
+p51
+aVBrandon Jennings ORL 04/06/2016 ORL vs. DET L 16 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 3 0 0 1 2 -1
+p52
+aVVictor Oladipo ORL 04/03/2016 ORL vs. MEM W 39 22 9 18 50.0 0 4 0.0 4 5 80.0 2 3 5 2 3 1 0 4 2
+p53
+aVEvan Fournier ORL 04/03/2016 ORL vs. MEM W 39 22 6 15 40.0 3 8 37.5 7 7 100.0 1 1 2 3 1 0 3 5 5
+p54
+aVBrandon Jennings ORL 04/03/2016 ORL vs. MEM W 17 6 2 5 40.0 2 3 66.7 0 0 - 0 3 3 2 0 0 0 1 11
+p55
+aVAaron Gordon ORL 04/03/2016 ORL vs. MEM W 29 14 5 11 45.5 1 3 33.3 3 4 75.0 4 6 10 3 1 1 0 1 5
+p56
+aVMario Hezonja ORL 04/03/2016 ORL vs. MEM W 18 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 2 2 0 2 1 17
+p57
+aVAndrew Nicholson ORL 04/03/2016 ORL vs. MEM W 19 10 3 5 60.0 3 4 75.0 1 2 50.0 0 6 6 1 1 0 0 1 7
+p58
+aVDewayne Dedmon ORL 04/03/2016 ORL vs. MEM W 13 8 4 4 100.0 0 0 - 0 1 0.0 1 2 3 0 0 0 1 2 5
+p59
+aVNikola Vucevic ORL 04/03/2016 ORL vs. MEM W 32 25 10 19 52.6 0 0 - 5 7 71.4 3 9 12 3 2 1 3 3 12
+p60
+aVElfrid Payton ORL 04/03/2016 ORL vs. MEM W 31 7 2 8 25.0 0 1 0.0 3 3 100.0 2 0 2 11 0 0 1 0 1
+p61
+aVJason Smith ORL 04/03/2016 ORL vs. MEM W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p62
+aVDewayne Dedmon ORL 04/01/2016 ORL @ MIL L 11 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 1 -13
+p63
+aVVictor Oladipo ORL 04/01/2016 ORL @ MIL L 38 18 7 17 41.2 2 6 33.3 2 2 100.0 0 3 3 5 5 4 5 5 -7
+p64
+aVNikola Vucevic ORL 04/01/2016 ORL @ MIL L 22 22 10 13 76.9 0 0 - 2 3 66.7 1 3 4 3 1 2 1 2 -4
+p65
+aVMario Hezonja ORL 04/01/2016 ORL @ MIL L 21 11 4 7 57.1 3 4 75.0 0 0 - 0 2 2 1 0 1 2 2 6
+p66
+aVEvan Fournier ORL 04/01/2016 ORL @ MIL L 33 14 6 14 42.9 1 7 14.3 1 1 100.0 0 3 3 2 1 0 3 3 -13
+p67
+aVAndrew Nicholson ORL 04/01/2016 ORL @ MIL L 16 13 5 7 71.4 1 2 50.0 2 2 100.0 0 4 4 0 1 1 1 1 9
+p68
+aVBrandon Jennings ORL 04/01/2016 ORL @ MIL L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 7 3 0 4 0 7
+p69
+aVElfrid Payton ORL 04/01/2016 ORL @ MIL L 30 6 3 9 33.3 0 1 0.0 0 0 - 0 6 6 10 1 0 3 3 -8
+p70
+aVAaron Gordon ORL 04/01/2016 ORL @ MIL L 32 14 6 12 50.0 1 3 33.3 1 2 50.0 2 5 7 2 1 0 1 4 -12
+p71
+aVJason Smith ORL 04/01/2016 ORL @ MIL L 16 8 4 4 100.0 0 0 - 0 0 - 1 3 4 4 0 0 0 1 14
+p72
+aVCJ Watson ORL 04/01/2016 ORL @ MIL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p73
+aVElfrid Payton ORL 03/31/2016 ORL @ IND W 30 10 5 10 50.0 0 0 - 0 0 - 2 5 7 5 0 0 2 0 12
+p74
+aVAndrew Nicholson ORL 03/31/2016 ORL @ IND W 25 11 4 9 44.4 0 4 0.0 3 3 100.0 1 4 5 3 0 1 0 3 15
+p75
+aVCJ Watson ORL 03/31/2016 ORL @ IND W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p76
+aVEvan Fournier ORL 03/31/2016 ORL @ IND W 36 25 10 14 71.4 3 5 60.0 2 2 100.0 0 0 0 1 2 0 4 4 19
+p77
+aVDewayne Dedmon ORL 03/31/2016 ORL @ IND W 15 8 3 4 75.0 0 0 - 2 5 40.0 3 3 6 1 0 0 1 3 -1
+p78
+aVNikola Vucevic ORL 03/31/2016 ORL @ IND W 25 24 12 15 80.0 0 0 - 0 1 0.0 1 5 6 1 0 1 1 1 14
+p79
+aVVictor Oladipo ORL 03/31/2016 ORL @ IND W 36 18 7 15 46.7 2 3 66.7 2 2 100.0 2 5 7 7 2 1 0 2 17
+p80
+aVJason Smith ORL 03/31/2016 ORL @ IND W 8 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 12
+p81
+aVAaron Gordon ORL 03/31/2016 ORL @ IND W 20 6 2 7 28.6 0 2 0.0 2 2 100.0 2 2 4 1 1 1 2 1 0
+p82
+aVMario Hezonja ORL 03/31/2016 ORL @ IND W 15 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 1 0 1 2 3 2
+p83
+aVBrandon Jennings ORL 03/31/2016 ORL @ IND W 18 4 2 6 33.3 0 1 0.0 0 1 0.0 1 1 2 5 1 1 1 1 8
+p84
+aVDevyn Marble ORL 03/31/2016 ORL @ IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p85
+aVDewayne Dedmon ORL 03/29/2016 ORL vs. BKN W 20 15 6 7 85.7 0 0 - 3 3 100.0 1 3 4 0 0 3 3 3 9
+p86
+aVEvan Fournier ORL 03/29/2016 ORL vs. BKN W 23 15 6 10 60.0 3 4 75.0 0 0 - 0 1 1 3 0 0 1 1 16
+p87
+aVVictor Oladipo ORL 03/29/2016 ORL vs. BKN W 26 7 3 7 42.9 1 2 50.0 0 0 - 0 3 3 8 3 0 2 4 19
+p88
+aVAaron Gordon ORL 03/29/2016 ORL vs. BKN W 27 20 9 11 81.8 1 3 33.3 1 1 100.0 0 4 4 0 1 0 0 2 19
+p89
+aVAndrew Nicholson ORL 03/29/2016 ORL vs. BKN W 21 24 9 9 100.0 3 3 100.0 3 6 50.0 1 2 3 2 0 0 1 2 15
+p90
+aVMario Hezonja ORL 03/29/2016 ORL vs. BKN W 25 10 4 8 50.0 1 4 25.0 1 2 50.0 1 2 3 3 2 1 2 5 18
+p91
+aVElfrid Payton ORL 03/29/2016 ORL vs. BKN W 26 11 4 11 36.4 0 1 0.0 3 3 100.0 1 4 5 12 2 0 1 3 19
+p92
+aVBrandon Jennings ORL 03/29/2016 ORL vs. BKN W 16 11 4 8 50.0 3 6 50.0 0 0 - 1 1 2 6 1 0 0 4 12
+p93
+aVShabazz Napier ORL 03/29/2016 ORL vs. BKN W 6 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 0 0 0 0 0 3
+p94
+aVJason Smith ORL 03/29/2016 ORL vs. BKN W 21 14 7 11 63.6 0 0 - 0 0 - 0 5 5 0 0 1 0 1 21
+p95
+aVDevyn Marble ORL 03/29/2016 ORL vs. BKN W 7 4 2 3 66.7 0 1 0.0 0 2 0.0 0 0 0 1 0 0 0 1 4
+p96
+aVCJ Watson ORL 03/29/2016 ORL vs. BKN W 22 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 5 2 0 0 3 15
+p97
+aVDewayne Dedmon ORL 03/26/2016 ORL vs. CHI W 22 18 9 14 64.3 0 0 - 0 0 - 4 9 13 2 0 0 2 4 1
+p98
+aVBrandon Jennings ORL 03/26/2016 ORL vs. CHI W 13 7 3 5 60.0 1 1 100.0 0 0 - 1 2 3 5 1 0 0 1 7
+p99
+aVEvan Fournier ORL 03/26/2016 ORL vs. CHI W 26 12 5 9 55.6 0 2 0.0 2 3 66.7 0 1 1 1 1 0 1 3 8
+p100
+aVShabazz Napier ORL 03/26/2016 ORL vs. CHI W 5 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 2 0 -1
+p101
+aVDevyn Marble ORL 03/26/2016 ORL vs. CHI W 22 8 3 6 50.0 1 2 50.0 1 1 100.0 1 6 7 0 0 0 0 1 14
+p102
+aVAndrew Nicholson ORL 03/26/2016 ORL vs. CHI W 21 14 5 13 38.5 1 4 25.0 3 5 60.0 2 4 6 0 0 1 0 2 8
+p103
+aVElfrid Payton ORL 03/26/2016 ORL vs. CHI W 30 15 7 9 77.8 0 0 - 1 1 100.0 1 2 3 10 0 2 3 1 16
+p104
+aVCJ Watson ORL 03/26/2016 ORL vs. CHI W 28 6 2 5 40.0 1 2 50.0 1 2 50.0 0 5 5 3 0 0 1 1 19
+p105
+aVMario Hezonja ORL 03/26/2016 ORL vs. CHI W 22 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 1 1 1 1 4
+p106
+aVAaron Gordon ORL 03/26/2016 ORL vs. CHI W 27 9 4 9 44.4 1 3 33.3 0 0 - 2 3 5 6 2 1 1 4 14
+p107
+aVJason Smith ORL 03/26/2016 ORL vs. CHI W 24 14 7 12 58.3 0 1 0.0 0 0 - 1 5 6 3 0 2 2 3 20
+p108
+aVAaron Gordon ORL 03/25/2016 ORL @ MIA L 35 4 2 7 28.6 0 2 0.0 0 0 - 2 4 6 2 0 0 1 2 -8
+p109
+aVDevyn Marble ORL 03/25/2016 ORL @ MIA L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 2 0 0 3 -3
+p110
+aVDewayne Dedmon ORL 03/25/2016 ORL @ MIA L 18 10 3 7 42.9 0 0 - 4 5 80.0 4 2 6 1 1 0 1 3 -3
+p111
+aVJason Smith ORL 03/25/2016 ORL @ MIA L 11 8 3 10 30.0 0 0 - 2 2 100.0 0 2 2 0 1 1 0 2 -9
+p112
+aVElfrid Payton ORL 03/25/2016 ORL @ MIA L 34 14 6 9 66.7 0 0 - 2 4 50.0 4 3 7 7 0 0 4 2 -7
+p113
+aVAndrew Nicholson ORL 03/25/2016 ORL @ MIA L 18 19 8 12 66.7 2 5 40.0 1 1 100.0 0 6 6 1 0 0 2 3 0
+p114
+aVMario Hezonja ORL 03/25/2016 ORL @ MIA L 37 8 4 11 36.4 0 2 0.0 0 0 - 0 3 3 1 2 0 2 3 -11
+p115
+aVEvan Fournier ORL 03/25/2016 ORL @ MIA L 36 20 6 17 35.3 1 3 33.3 7 8 87.5 2 5 7 2 0 0 2 3 -9
+p116
+aVShabazz Napier ORL 03/25/2016 ORL @ MIA L 2 3 1 1 100.0 0 0 - 1 3 33.3 1 0 1 1 0 0 0 0 4
+p117
+aVBrandon Jennings ORL 03/25/2016 ORL @ MIA L 17 8 2 7 28.6 2 4 50.0 2 5 40.0 0 3 3 3 1 0 2 0 -8
+p118
+aVCJ Watson ORL 03/25/2016 ORL @ MIA L 19 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 0 3 -1
+p119
+aVElfrid Payton ORL 03/23/2016 ORL @ DET L 34 20 9 21 42.9 0 3 0.0 2 4 50.0 5 5 10 10 1 0 1 3 -6
+p120
+aVVictor Oladipo ORL 03/23/2016 ORL @ DET L 41 14 5 18 27.8 1 4 25.0 3 3 100.0 1 2 3 5 3 1 1 3 -12
+p121
+aVEvan Fournier ORL 03/23/2016 ORL @ DET L 29 14 5 10 50.0 1 3 33.3 3 4 75.0 0 1 1 1 1 0 0 2 -20
+p122
+aVAndrew Nicholson ORL 03/23/2016 ORL @ DET L 4 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 1 0 -1
+p123
+aVBrandon Jennings ORL 03/23/2016 ORL @ DET L 11 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 1 1 -8
+p124
+aVShabazz Napier ORL 03/23/2016 ORL @ DET L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -2
+p125
+aVAaron Gordon ORL 03/23/2016 ORL @ DET L 29 15 5 15 33.3 1 4 25.0 4 4 100.0 6 5 11 3 0 0 0 0 -19
+p126
+aVDewayne Dedmon ORL 03/23/2016 ORL @ DET L 16 2 0 1 0.0 0 0 - 2 2 100.0 2 4 6 0 1 2 1 3 -5
+p127
+aVJason Smith ORL 03/23/2016 ORL @ DET L 23 12 6 13 46.2 0 0 - 0 0 - 1 2 3 4 0 0 0 3 -13
+p128
+aVErsan Ilyasova ORL 03/23/2016 ORL @ DET L 24 8 3 4 75.0 2 3 66.7 0 0 - 1 2 3 1 0 0 0 1 6
+p129
+aVDevyn Marble ORL 03/23/2016 ORL @ DET L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p130
+aVMario Hezonja ORL 03/23/2016 ORL @ DET L 23 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 0 2 0 1 3 2
+p131
+aVDewayne Dedmon ORL 03/21/2016 ORL @ BOS L 15 8 3 8 37.5 0 0 - 2 2 100.0 1 4 5 0 1 0 0 0 -7
+p132
+aVVictor Oladipo ORL 03/21/2016 ORL @ BOS L 39 25 10 17 58.8 1 4 25.0 4 4 100.0 1 7 8 1 5 1 5 4 -13
+p133
+aVAndrew Nicholson ORL 03/21/2016 ORL @ BOS L 15 13 5 8 62.5 1 2 50.0 2 3 66.7 1 5 6 0 0 1 0 0 -4
+p134
+aVAaron Gordon ORL 03/21/2016 ORL @ BOS L 29 13 6 14 42.9 1 2 50.0 0 0 - 3 5 8 0 1 0 0 3 -13
+p135
+aVErsan Ilyasova ORL 03/21/2016 ORL @ BOS L 10 5 2 4 50.0 1 1 100.0 0 0 - 3 2 5 0 0 1 0 0 1
+p136
+aVEvan Fournier ORL 03/21/2016 ORL @ BOS L 33 13 5 15 33.3 1 6 16.7 2 4 50.0 0 0 0 2 2 0 1 2 -19
+p137
+aVElfrid Payton ORL 03/21/2016 ORL @ BOS L 31 8 4 9 44.4 0 1 0.0 0 1 0.0 0 1 1 6 0 1 2 3 1
+p138
+aVJason Smith ORL 03/21/2016 ORL @ BOS L 27 6 2 8 25.0 0 1 0.0 2 2 100.0 2 1 3 2 0 1 0 3 1
+p139
+aVMario Hezonja ORL 03/21/2016 ORL @ BOS L 17 3 1 3 33.3 0 0 - 1 1 100.0 2 5 7 1 0 1 3 2 6
+p140
+aVDevyn Marble ORL 03/21/2016 ORL @ BOS L 7 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 4
+p141
+aVBrandon Jennings ORL 03/21/2016 ORL @ BOS L 17 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 3 0 1 0 2 -12
+p142
+aVVictor Oladipo ORL 03/20/2016 ORL @ TOR L 42 21 9 19 47.4 1 5 20.0 2 2 100.0 1 5 6 3 0 2 2 3 5
+p143
+aVDevyn Marble ORL 03/20/2016 ORL @ TOR L 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 12
+p144
+aVMario Hezonja ORL 03/20/2016 ORL @ TOR L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p145
+aVDewayne Dedmon ORL 03/20/2016 ORL @ TOR L 16 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 1 1 0 4 3
+p146
+aVErsan Ilyasova ORL 03/20/2016 ORL @ TOR L 32 10 4 13 30.8 1 2 50.0 1 2 50.0 2 7 9 1 1 0 0 6 2
+p147
+aVAndrew Nicholson ORL 03/20/2016 ORL @ TOR L 21 15 6 14 42.9 1 5 20.0 2 2 100.0 0 9 9 1 0 2 2 2 -15
+p148
+aVJason Smith ORL 03/20/2016 ORL @ TOR L 9 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 1 5 0
+p149
+aVElfrid Payton ORL 03/20/2016 ORL @ TOR L 17 2 1 3 33.3 0 1 0.0 0 1 0.0 2 0 2 4 1 1 4 1 -3
+p150
+aVBrandon Jennings ORL 03/20/2016 ORL @ TOR L 31 9 4 7 57.1 1 3 33.3 0 3 0.0 0 4 4 7 0 0 2 3 -2
+p151
+aVEvan Fournier ORL 03/20/2016 ORL @ TOR L 37 21 6 10 60.0 3 3 100.0 6 6 100.0 0 1 1 1 0 0 1 1 -21
+p152
+aVAaron Gordon ORL 03/20/2016 ORL @ TOR L 18 6 2 6 33.3 1 3 33.3 1 2 50.0 0 3 3 1 1 2 0 2 0
+p153
+aVVictor Oladipo ORL 03/18/2016 ORL vs. CLE L 39 45 16 22 72.7 6 7 85.7 7 8 87.5 1 4 5 3 3 2 3 3 -1
+p154
+aVDewayne Dedmon ORL 03/18/2016 ORL vs. CLE L 18 6 2 3 66.7 0 0 - 2 2 100.0 0 6 6 1 0 1 1 2 5
+p155
+aVAaron Gordon ORL 03/18/2016 ORL vs. CLE L 31 7 2 8 25.0 1 2 50.0 2 4 50.0 3 7 10 3 0 0 1 2 5
+p156
+aVDevyn Marble ORL 03/18/2016 ORL vs. CLE L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -8
+p157
+aVEvan Fournier ORL 03/18/2016 ORL vs. CLE L 36 18 6 15 40.0 2 3 66.7 4 4 100.0 2 2 4 2 2 0 1 6 5
+p158
+aVCJ Watson ORL 03/18/2016 ORL vs. CLE L 16 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 4 -10
+p159
+aVJason Smith ORL 03/18/2016 ORL vs. CLE L 25 10 4 10 40.0 0 0 - 2 2 100.0 1 4 5 1 3 1 1 4 -10
+p160
+aVMario Hezonja ORL 03/18/2016 ORL vs. CLE L 16 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 1 0 2 2 -10
+p161
+aVBrandon Jennings ORL 03/18/2016 ORL vs. CLE L 32 2 1 8 12.5 0 2 0.0 0 0 - 0 1 1 7 1 0 2 0 4
+p162
+aVErsan Ilyasova ORL 03/18/2016 ORL vs. CLE L 20 7 3 8 37.5 0 3 0.0 1 2 50.0 2 3 5 2 1 0 2 0 -10
+p163
+aVBrandon Jennings ORL 03/16/2016 ORL @ CHA L 24 16 5 11 45.5 3 7 42.9 3 3 100.0 1 7 8 4 0 0 2 3 -9
+p164
+aVJason Smith ORL 03/16/2016 ORL @ CHA L 19 8 2 11 18.2 0 0 - 4 4 100.0 0 4 4 2 0 2 1 1 -13
+p165
+aVVictor Oladipo ORL 03/16/2016 ORL @ CHA L 42 25 10 18 55.6 2 4 50.0 3 4 75.0 0 5 5 3 1 3 1 1 -3
+p166
+aVDewayne Dedmon ORL 03/16/2016 ORL @ CHA L 19 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 1 -10
+p167
+aVAndrew Nicholson ORL 03/16/2016 ORL @ CHA L 23 13 5 10 50.0 1 2 50.0 2 2 100.0 0 7 7 3 1 2 2 5 13
+p168
+aVAaron Gordon ORL 03/16/2016 ORL @ CHA L 13 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -13
+p169
+aVEvan Fournier ORL 03/16/2016 ORL @ CHA L 28 9 4 11 36.4 0 5 0.0 1 2 50.0 0 3 3 1 1 0 1 2 -11
+p170
+aVMario Hezonja ORL 03/16/2016 ORL @ CHA L 30 11 5 10 50.0 1 3 33.3 0 0 - 0 4 4 3 0 1 1 1 -1
+p171
+aVDevyn Marble ORL 03/16/2016 ORL @ CHA L 15 9 3 5 60.0 3 3 100.0 0 0 - 0 1 1 0 1 0 0 1 14
+p172
+aVCJ Watson ORL 03/16/2016 ORL @ CHA L 26 7 1 3 33.3 1 1 100.0 4 4 100.0 0 3 3 7 0 0 0 3 -7
+p173
+aVBrandon Jennings ORL 03/15/2016 ORL vs. DEN W 27 12 3 7 42.9 1 4 25.0 5 6 83.3 1 2 3 11 1 0 1 2 14
+p174
+aVVictor Oladipo ORL 03/15/2016 ORL vs. DEN W 39 23 9 16 56.3 0 3 0.0 5 6 83.3 0 4 4 6 1 2 1 4 11
+p175
+aVDewayne Dedmon ORL 03/15/2016 ORL vs. DEN W 20 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 17
+p176
+aVCJ Watson ORL 03/15/2016 ORL vs. DEN W 21 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 3 0 0 1 2 -8
+p177
+aVEvan Fournier ORL 03/15/2016 ORL vs. DEN W 42 30 11 19 57.9 5 9 55.6 3 4 75.0 0 3 3 3 1 0 3 2 6
+p178
+aVAaron Gordon ORL 03/15/2016 ORL vs. DEN W 27 16 7 10 70.0 2 4 50.0 0 0 - 1 2 3 0 1 2 1 1 14
+p179
+aVMario Hezonja ORL 03/15/2016 ORL vs. DEN W 14 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 3 1 0 3 1 -5
+p180
+aVErsan Ilyasova ORL 03/15/2016 ORL vs. DEN W 21 6 2 2 100.0 0 0 - 2 3 66.7 0 4 4 1 1 0 1 1 -8
+p181
+aVJason Smith ORL 03/15/2016 ORL vs. DEN W 28 25 10 15 66.7 0 0 - 5 6 83.3 4 9 13 1 0 0 1 5 -11
+p182
+aVMario Hezonja ORL 03/12/2016 ORL @ POR L 27 11 4 8 50.0 2 4 50.0 1 2 50.0 2 3 5 3 1 0 1 2 -28
+p183
+aVCJ Watson ORL 03/12/2016 ORL @ POR L 24 3 1 9 11.1 0 3 0.0 1 1 100.0 0 2 2 4 0 1 3 1 -23
+p184
+aVAaron Gordon ORL 03/12/2016 ORL @ POR L 33 17 8 13 61.5 1 2 50.0 0 3 0.0 1 3 4 3 2 1 2 2 -18
+p185
+aVErsan Ilyasova ORL 03/12/2016 ORL @ POR L 29 4 1 7 14.3 0 1 0.0 2 4 50.0 4 5 9 1 0 0 2 3 -34
+p186
+aVEvan Fournier ORL 03/12/2016 ORL @ POR L 26 15 6 12 50.0 1 4 25.0 2 2 100.0 0 4 4 2 0 0 5 1 -15
+p187
+aVDevyn Marble ORL 03/12/2016 ORL @ POR L 19 3 1 6 16.7 0 2 0.0 1 2 50.0 0 2 2 2 1 0 0 1 -15
+p188
+aVAndrew Nicholson ORL 03/12/2016 ORL @ POR L 8 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 0 0 0 0 0 -9
+p189
+aVShabazz Napier ORL 03/12/2016 ORL @ POR L 24 3 1 9 11.1 1 6 16.7 0 0 - 0 1 1 3 0 0 0 0 -14
+p190
+aVVictor Oladipo ORL 03/12/2016 ORL @ POR L 24 18 8 14 57.1 2 2 100.0 0 0 - 0 1 1 1 2 1 1 2 -16
+p191
+aVJason Smith ORL 03/12/2016 ORL @ POR L 11 6 2 8 25.0 0 0 - 2 4 50.0 1 0 1 0 0 0 1 3 -10
+p192
+aVDewayne Dedmon ORL 03/12/2016 ORL @ POR L 15 2 1 2 50.0 0 0 - 0 0 - 2 6 8 0 0 1 0 1 -3
+p193
+aVAaron Gordon ORL 03/11/2016 ORL @ SAC W 27 20 8 12 66.7 0 0 - 4 10 40.0 3 8 11 1 1 0 2 4 4
+p194
+aVJason Smith ORL 03/11/2016 ORL @ SAC W 23 16 6 9 66.7 0 0 - 4 6 66.7 0 7 7 1 2 3 4 5 1
+p195
+aVErsan Ilyasova ORL 03/11/2016 ORL @ SAC W 21 10 4 5 80.0 1 2 50.0 1 2 50.0 3 3 6 0 0 1 1 5 3
+p196
+aVDewayne Dedmon ORL 03/11/2016 ORL @ SAC W 25 9 4 6 66.7 0 0 - 1 1 100.0 3 4 7 0 0 1 1 1 6
+p197
+aVMario Hezonja ORL 03/11/2016 ORL @ SAC W 19 4 1 6 16.7 0 2 0.0 2 2 100.0 1 3 4 2 0 0 2 1 4
+p198
+aVCJ Watson ORL 03/11/2016 ORL @ SAC W 34 10 4 9 44.4 0 2 0.0 2 2 100.0 0 3 3 5 1 1 1 1 8
+p199
+aVEvan Fournier ORL 03/11/2016 ORL @ SAC W 38 16 6 15 40.0 2 4 50.0 2 3 66.7 1 6 7 6 1 0 1 4 3
+p200
+aVBrandon Jennings ORL 03/11/2016 ORL @ SAC W 14 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 2 1 1 2 1 -1
+p201
+aVVictor Oladipo ORL 03/11/2016 ORL @ SAC W 39 18 6 14 42.9 1 4 25.0 5 8 62.5 1 3 4 5 5 1 5 1 7
+p202
+aVMario Hezonja ORL 03/08/2016 ORL @ LAL L 16 6 2 6 33.3 1 3 33.3 1 1 100.0 0 1 1 0 0 0 1 2 -1
+p203
+aVDewayne Dedmon ORL 03/08/2016 ORL @ LAL L 20 5 2 2 100.0 0 0 - 1 2 50.0 2 8 10 0 1 1 1 3 -5
+p204
+aVAndrew Nicholson ORL 03/08/2016 ORL @ LAL L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 2
+p205
+aVShabazz Napier ORL 03/08/2016 ORL @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p206
+aVBrandon Jennings ORL 03/08/2016 ORL @ LAL L 4 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p207
+aVCJ Watson ORL 03/08/2016 ORL @ LAL L 25 10 2 6 33.3 0 2 0.0 6 8 75.0 1 2 3 5 1 0 2 2 -11
+p208
+aVJason Smith ORL 03/08/2016 ORL @ LAL L 24 10 5 10 50.0 0 0 - 0 1 0.0 0 2 2 0 0 1 1 6 -2
+p209
+aVEvan Fournier ORL 03/08/2016 ORL @ LAL L 40 23 8 11 72.7 1 4 25.0 6 7 85.7 0 4 4 3 0 0 1 3 -7
+p210
+aVErsan Ilyasova ORL 03/08/2016 ORL @ LAL L 14 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 1 0 0 0 4 -9
+p211
+aVVictor Oladipo ORL 03/08/2016 ORL @ LAL L 36 26 10 17 58.8 2 3 66.7 4 4 100.0 0 4 4 2 1 1 2 1 -9
+p212
+aVElfrid Payton ORL 03/08/2016 ORL @ LAL L 20 7 3 7 42.9 1 1 100.0 0 2 0.0 1 1 2 3 1 0 1 1 -6
+p213
+aVAaron Gordon ORL 03/08/2016 ORL @ LAL L 28 5 2 4 50.0 0 2 0.0 1 2 50.0 0 4 4 3 1 1 0 2 -4
+p214
+aVDevyn Marble ORL 03/08/2016 ORL @ LAL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p215
+aVErsan Ilyasova ORL 03/07/2016 ORL @ GSW L 15 7 2 6 33.3 0 1 0.0 3 4 75.0 1 1 2 0 2 0 0 3 3
+p216
+aVCJ Watson ORL 03/07/2016 ORL @ GSW L 21 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 1 0 0 1 10
+p217
+aVVictor Oladipo ORL 03/07/2016 ORL @ GSW L 39 19 8 16 50.0 0 3 0.0 3 3 100.0 2 7 9 8 1 0 4 3 -7
+p218
+aVAaron Gordon ORL 03/07/2016 ORL @ GSW L 36 20 8 15 53.3 0 1 0.0 4 4 100.0 6 10 16 0 1 1 3 2 -15
+p219
+aVDewayne Dedmon ORL 03/07/2016 ORL @ GSW L 9 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 1 0 0 1 2
+p220
+aVEvan Fournier ORL 03/07/2016 ORL @ GSW L 35 20 6 13 46.2 2 5 40.0 6 7 85.7 0 1 1 3 2 0 0 4 -17
+p221
+aVMario Hezonja ORL 03/07/2016 ORL @ GSW L 15 4 1 7 14.3 1 4 25.0 1 2 50.0 0 3 3 1 0 1 3 1 10
+p222
+aVJason Smith ORL 03/07/2016 ORL @ GSW L 23 13 6 12 50.0 0 0 - 1 2 50.0 0 2 2 0 2 1 1 3 -10
+p223
+aVElfrid Payton ORL 03/07/2016 ORL @ GSW L 23 6 2 7 28.6 0 0 - 2 3 66.7 0 2 2 7 3 0 1 2 -10
+p224
+aVBrandon Jennings ORL 03/07/2016 ORL @ GSW L 25 20 5 10 50.0 2 7 28.6 8 9 88.9 0 1 1 3 1 0 3 1 4
+p225
+aVBrandon Jennings ORL 03/04/2016 ORL vs. PHX L 14 0 0 6 0.0 0 2 0.0 0 0 - 1 1 2 2 0 0 0 1 -9
+p226
+aVShabazz Napier ORL 03/04/2016 ORL vs. PHX L 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p227
+aVCJ Watson ORL 03/04/2016 ORL vs. PHX L 24 5 2 7 28.6 1 3 33.3 0 0 - 1 2 3 3 0 0 0 3 -1
+p228
+aVEvan Fournier ORL 03/04/2016 ORL vs. PHX L 26 12 4 9 44.4 2 5 40.0 2 4 50.0 0 2 2 0 2 0 2 4 -7
+p229
+aVElfrid Payton ORL 03/04/2016 ORL vs. PHX L 34 19 9 17 52.9 1 3 33.3 0 2 0.0 2 0 2 11 3 0 3 2 -9
+p230
+aVDewayne Dedmon ORL 03/04/2016 ORL vs. PHX L 10 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 1 1 0 1 3 -15
+p231
+aVAaron Gordon ORL 03/04/2016 ORL vs. PHX L 16 4 1 3 33.3 0 2 0.0 2 2 100.0 0 2 2 0 0 0 2 2 -6
+p232
+aVErsan Ilyasova ORL 03/04/2016 ORL vs. PHX L 20 5 2 14 14.3 0 3 0.0 1 2 50.0 7 5 12 0 1 1 0 0 -8
+p233
+aVMario Hezonja ORL 03/04/2016 ORL vs. PHX L 34 12 5 9 55.6 2 5 40.0 0 0 - 0 4 4 2 1 0 1 4 -7
+p234
+aVDevyn Marble ORL 03/04/2016 ORL vs. PHX L 16 0 0 6 0.0 0 3 0.0 0 0 - 2 5 7 0 1 1 2 2 -13
+p235
+aVNikola Vucevic ORL 03/04/2016 ORL vs. PHX L 30 15 7 19 36.8 0 0 - 1 2 50.0 0 12 12 0 3 1 1 5 -11
+p236
+aVAndrew Nicholson ORL 03/04/2016 ORL vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p237
+aVJason Smith ORL 03/04/2016 ORL vs. PHX L 12 6 3 7 42.9 0 0 - 0 0 - 0 0 0 1 0 0 1 5 0
+p238
+aVNikola Vucevic ORL 03/02/2016 ORL vs. CHI W 33 24 10 24 41.7 1 1 100.0 3 3 100.0 2 5 7 4 1 0 1 0 18
+p239
+aVElfrid Payton ORL 03/02/2016 ORL vs. CHI W 33 9 4 9 44.4 1 1 100.0 0 0 - 0 4 4 12 1 1 3 2 23
+p240
+aVDewayne Dedmon ORL 03/02/2016 ORL vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -6
+p241
+aVShabazz Napier ORL 03/02/2016 ORL vs. CHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -6
+p242
+aVCJ Watson ORL 03/02/2016 ORL vs. CHI W 17 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -14
+p243
+aVAndrew Nicholson ORL 03/02/2016 ORL vs. CHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p244
+aVMario Hezonja ORL 03/02/2016 ORL vs. CHI W 37 21 9 17 52.9 3 7 42.9 0 0 - 0 5 5 2 1 1 0 2 23
+p245
+aVJason Smith ORL 03/02/2016 ORL vs. CHI W 13 8 4 7 57.1 0 0 - 0 0 - 2 5 7 0 0 1 1 0 1
+p246
+aVAaron Gordon ORL 03/02/2016 ORL vs. CHI W 33 13 2 6 33.3 1 4 25.0 8 10 80.0 2 13 15 3 0 0 0 4 16
+p247
+aVErsan Ilyasova ORL 03/02/2016 ORL vs. CHI W 12 8 3 8 37.5 1 1 100.0 1 3 33.3 1 6 7 0 1 0 0 1 3
+p248
+aVVictor Oladipo ORL 03/02/2016 ORL vs. CHI W 36 17 6 12 50.0 0 2 0.0 5 6 83.3 1 6 7 1 1 1 3 1 24
+p249
+aVDevyn Marble ORL 03/02/2016 ORL vs. CHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p250
+aVBrandon Jennings ORL 03/02/2016 ORL vs. CHI W 12 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 3 0 0 0 2 -4
+p251
+aVElfrid Payton ORL 03/01/2016 ORL @ DAL L 24 12 5 8 62.5 2 4 50.0 0 0 - 0 2 2 3 2 0 4 4 -13
+p252
+aVBrandon Jennings ORL 03/01/2016 ORL @ DAL L 24 12 5 12 41.7 2 6 33.3 0 0 - 0 0 0 6 2 0 3 0 0
+p253
+aVJason Smith ORL 03/01/2016 ORL @ DAL L 6 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 2 0 2 1 -7
+p254
+aVAaron Gordon ORL 03/01/2016 ORL @ DAL L 19 7 3 5 60.0 0 2 0.0 1 3 33.3 2 3 5 4 1 0 1 5 1
+p255
+aVNikola Vucevic ORL 03/01/2016 ORL @ DAL L 24 18 8 16 50.0 0 0 - 2 2 100.0 2 5 7 2 0 2 2 3 -12
+p256
+aVMario Hezonja ORL 03/01/2016 ORL @ DAL L 15 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 1 0 0 1 2 1
+p257
+aVErsan Ilyasova ORL 03/01/2016 ORL @ DAL L 31 22 7 10 70.0 2 3 66.7 6 7 85.7 5 5 10 0 2 0 0 3 -16
+p258
+aVVictor Oladipo ORL 03/01/2016 ORL @ DAL L 24 6 3 10 30.0 0 3 0.0 0 0 - 3 1 4 2 0 0 0 3 -18
+p259
+aVDewayne Dedmon ORL 03/01/2016 ORL @ DAL L 16 12 5 7 71.4 0 0 - 2 2 100.0 3 3 6 0 0 1 1 3 8
+p260
+aVDevyn Marble ORL 03/01/2016 ORL @ DAL L 23 8 2 7 28.6 2 5 40.0 2 2 100.0 1 5 6 3 2 0 1 3 3
+p261
+aVShabazz Napier ORL 03/01/2016 ORL @ DAL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p262
+aVCJ Watson ORL 03/01/2016 ORL @ DAL L 30 7 1 4 25.0 1 3 33.3 4 4 100.0 1 1 2 6 0 1 1 1 -11
+p263
+aVVictor Oladipo ORL 02/28/2016 ORL vs. PHI W 44 28 9 17 52.9 2 4 50.0 8 9 88.9 0 1 1 3 4 0 0 3 16
+p264
+aVNikola Vucevic ORL 02/28/2016 ORL vs. PHI W 28 28 13 18 72.2 0 0 - 2 3 66.7 2 4 6 1 1 0 4 6 6
+p265
+aVBrandon Jennings ORL 02/28/2016 ORL vs. PHI W 16 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 5 0 2 0 2 -1
+p266
+aVCJ Watson ORL 02/28/2016 ORL vs. PHI W 24 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 2 1 0 1 2 7
+p267
+aVErsan Ilyasova ORL 02/28/2016 ORL vs. PHI W 12 10 4 5 80.0 2 3 66.7 0 0 - 0 3 3 1 0 0 0 3 -1
+p268
+aVElfrid Payton ORL 02/28/2016 ORL vs. PHI W 33 11 4 9 44.4 0 0 - 3 4 75.0 2 2 4 10 1 1 5 3 11
+p269
+aVMario Hezonja ORL 02/28/2016 ORL vs. PHI W 27 13 5 9 55.6 2 3 66.7 1 1 100.0 0 2 2 3 1 0 1 5 9
+p270
+aVJason Smith ORL 02/28/2016 ORL vs. PHI W 20 12 5 12 41.7 0 0 - 2 2 100.0 1 4 5 0 0 1 0 2 8
+p271
+aVAaron Gordon ORL 02/28/2016 ORL vs. PHI W 36 22 7 10 70.0 2 2 100.0 6 6 100.0 1 6 7 3 1 2 1 1 15
+p272
+aVElfrid Payton ORL 02/26/2016 ORL @ NYK L 27 8 4 7 57.1 0 1 0.0 0 0 - 2 3 5 9 0 0 2 2 0
+p273
+aVJason Smith ORL 02/26/2016 ORL @ NYK L 7 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 2 -9
+p274
+aVAaron Gordon ORL 02/26/2016 ORL @ NYK L 34 17 6 12 50.0 1 3 33.3 4 6 66.7 4 4 8 2 1 0 0 2 -5
+p275
+aVVictor Oladipo ORL 02/26/2016 ORL @ NYK L 35 16 6 14 42.9 2 6 33.3 2 4 50.0 1 5 6 3 1 1 1 2 1
+p276
+aVNikola Vucevic ORL 02/26/2016 ORL @ NYK L 28 18 8 16 50.0 0 0 - 2 2 100.0 2 6 8 1 1 0 2 2 -4
+p277
+aVBrandon Jennings ORL 02/26/2016 ORL @ NYK L 14 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 0 0 0 2 0 -6
+p278
+aVDewayne Dedmon ORL 02/26/2016 ORL @ NYK L 13 12 5 7 71.4 0 0 - 2 2 100.0 2 1 3 0 1 0 0 1 0
+p279
+aVDevyn Marble ORL 02/26/2016 ORL @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p280
+aVEvan Fournier ORL 02/26/2016 ORL @ NYK L 25 8 3 10 30.0 2 5 40.0 0 0 - 2 0 2 2 0 0 1 6 -6
+p281
+aVErsan Ilyasova ORL 02/26/2016 ORL @ NYK L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -10
+p282
+aVMario Hezonja ORL 02/26/2016 ORL @ NYK L 26 8 4 11 36.4 0 5 0.0 0 0 - 1 6 7 3 2 0 3 4 -12
+p283
+aVAndrew Nicholson ORL 02/26/2016 ORL @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p284
+aVCJ Watson ORL 02/26/2016 ORL @ NYK L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 2 0 0 1 1 -18
+p285
+aVDevyn Marble ORL 02/25/2016 ORL vs. GSW L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p286
+aVErsan Ilyasova ORL 02/25/2016 ORL vs. GSW L 16 8 1 3 33.3 0 0 - 6 6 100.0 1 3 4 0 2 0 0 1 -14
+p287
+aVNikola Vucevic ORL 02/25/2016 ORL vs. GSW L 32 17 7 17 41.2 0 1 0.0 3 4 75.0 3 6 9 4 0 2 5 4 -3
+p288
+aVJason Smith ORL 02/25/2016 ORL vs. GSW L 11 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 2 -12
+p289
+aVAndrew Nicholson ORL 02/25/2016 ORL vs. GSW L 4 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 1 0 1 0 0 0
+p290
+aVVictor Oladipo ORL 02/25/2016 ORL vs. GSW L 30 14 5 16 31.3 2 5 40.0 2 4 50.0 1 5 6 2 2 0 0 3 -5
+p291
+aVBrandon Jennings ORL 02/25/2016 ORL vs. GSW L 12 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 2 0 1 1 -9
+p292
+aVElfrid Payton ORL 02/25/2016 ORL vs. GSW L 29 12 5 8 62.5 2 3 66.7 0 2 0.0 0 2 2 6 1 0 4 2 -14
+p293
+aVEvan Fournier ORL 02/25/2016 ORL vs. GSW L 39 20 6 12 50.0 3 5 60.0 5 5 100.0 0 1 1 3 4 0 2 1 -10
+p294
+aVCJ Watson ORL 02/25/2016 ORL vs. GSW L 15 6 1 1 100.0 0 0 - 4 4 100.0 0 2 2 3 0 0 0 2 -5
+p295
+aVAaron Gordon ORL 02/25/2016 ORL vs. GSW L 30 19 9 14 64.3 1 4 25.0 0 0 - 3 5 8 2 0 1 1 1 -3
+p296
+aVDewayne Dedmon ORL 02/25/2016 ORL vs. GSW L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p297
+aVMario Hezonja ORL 02/25/2016 ORL vs. GSW L 15 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 0 0 0 0 0 -5
+p298
+aVErsan Ilyasova ORL 02/23/2016 ORL @ PHI W 19 10 2 7 28.6 2 3 66.7 4 4 100.0 3 5 8 0 0 0 0 3 6
+p299
+aVNikola Vucevic ORL 02/23/2016 ORL @ PHI W 37 35 13 21 61.9 0 0 - 9 9 100.0 3 6 9 4 0 1 1 1 10
+p300
+aVVictor Oladipo ORL 02/23/2016 ORL @ PHI W 41 22 6 12 50.0 1 3 33.3 9 9 100.0 2 2 4 4 3 0 3 0 4
+p301
+aVJason Smith ORL 02/23/2016 ORL @ PHI W 10 8 4 8 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 0
+p302
+aVMario Hezonja ORL 02/23/2016 ORL @ PHI W 11 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 3
+p303
+aVCJ Watson ORL 02/23/2016 ORL @ PHI W 19 3 1 3 33.3 0 0 - 1 1 100.0 1 4 5 0 2 0 2 1 13
+p304
+aVAaron Gordon ORL 02/23/2016 ORL @ PHI W 30 11 4 10 40.0 0 1 0.0 3 6 50.0 2 9 11 3 3 1 2 3 2
+p305
+aVElfrid Payton ORL 02/23/2016 ORL @ PHI W 20 3 0 4 0.0 0 1 0.0 3 6 50.0 1 0 1 8 0 0 0 2 9
+p306
+aVEvan Fournier ORL 02/23/2016 ORL @ PHI W 43 21 8 13 61.5 3 5 60.0 2 2 100.0 0 3 3 4 2 0 1 6 10
+p307
+aVBrandon Jennings ORL 02/23/2016 ORL @ PHI W 11 6 1 5 20.0 0 0 - 4 4 100.0 0 1 1 3 0 0 1 2 -12
+p308
+aVBrandon Jennings ORL 02/21/2016 ORL vs. IND L 25 12 4 9 44.4 2 4 50.0 2 3 66.7 3 1 4 7 2 0 5 2 -2
+p309
+aVJason Smith ORL 02/21/2016 ORL vs. IND L 13 8 4 8 50.0 0 0 - 0 1 0.0 0 4 4 1 0 1 0 1 -4
+p310
+aVErsan Ilyasova ORL 02/21/2016 ORL vs. IND L 18 7 3 9 33.3 1 3 33.3 0 0 - 3 0 3 0 1 0 1 3 -4
+p311
+aVNikola Vucevic ORL 02/21/2016 ORL vs. IND L 35 19 8 15 53.3 0 0 - 3 6 50.0 3 10 13 0 0 0 2 4 1
+p312
+aVEvan Fournier ORL 02/21/2016 ORL vs. IND L 34 23 8 14 57.1 3 6 50.0 4 5 80.0 0 1 1 2 1 0 1 5 -2
+p313
+aVCJ Watson ORL 02/21/2016 ORL vs. IND L 12 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 1 0 -5
+p314
+aVAaron Gordon ORL 02/21/2016 ORL vs. IND L 30 10 4 11 36.4 1 3 33.3 1 2 50.0 1 10 11 4 1 0 0 3 1
+p315
+aVElfrid Payton ORL 02/21/2016 ORL vs. IND L 23 4 1 5 20.0 0 1 0.0 2 2 100.0 1 1 2 4 2 0 3 3 -1
+p316
+aVMario Hezonja ORL 02/21/2016 ORL vs. IND L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 2
+p317
+aVVictor Oladipo ORL 02/21/2016 ORL vs. IND L 41 17 6 17 35.3 0 5 0.0 5 8 62.5 0 7 7 8 3 2 1 2 -1
+p318
+aVEvan Fournier ORL 02/19/2016 ORL vs. DAL W 42 9 4 11 36.4 1 5 20.0 0 0 - 1 5 6 8 0 0 1 2 8
+p319
+aVMario Hezonja ORL 02/19/2016 ORL vs. DAL W 16 2 1 3 33.3 0 2 0.0 0 0 - 0 5 5 1 0 0 0 0 9
+p320
+aVElfrid Payton ORL 02/19/2016 ORL vs. DAL W 28 9 4 9 44.4 1 3 33.3 0 0 - 1 2 3 3 0 1 0 1 8
+p321
+aVNikola Vucevic ORL 02/19/2016 ORL vs. DAL W 35 21 8 20 40.0 0 0 - 5 5 100.0 3 10 13 3 1 2 4 2 10
+p322
+aVAaron Gordon ORL 02/19/2016 ORL vs. DAL W 28 7 3 8 37.5 1 2 50.0 0 0 - 3 8 11 1 6 0 2 4 3
+p323
+aVVictor Oladipo ORL 02/19/2016 ORL vs. DAL W 42 17 6 18 33.3 3 9 33.3 2 2 100.0 2 11 13 3 2 0 2 3 15
+p324
+aVErsan Ilyasova ORL 02/19/2016 ORL vs. DAL W 23 16 5 11 45.5 2 4 50.0 4 6 66.7 2 3 5 2 1 0 1 6 -4
+p325
+aVJason Smith ORL 02/19/2016 ORL vs. DAL W 18 11 5 10 50.0 1 1 100.0 0 0 - 1 2 3 0 0 1 0 1 -4
+p326
+aVCJ Watson ORL 02/19/2016 ORL vs. DAL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -13
+p327
+aVBrandon Jennings ORL 02/19/2016 ORL vs. DAL W 25 18 5 12 41.7 4 9 44.4 4 4 100.0 1 2 3 4 0 0 2 1 -2
+p328
+aVVictor Oladipo ORL 02/10/2016 ORL vs. SAS L 40 14 6 14 42.9 2 4 50.0 0 0 - 0 3 3 1 2 0 4 1 -1
+p329
+aVAndrew Nicholson ORL 02/10/2016 ORL vs. SAS L 18 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 1 0 2 1 2 -5
+p330
+aVAaron Gordon ORL 02/10/2016 ORL vs. SAS L 30 4 1 6 16.7 0 3 0.0 2 3 66.7 1 13 14 3 1 2 1 1 3
+p331
+aVShabazz Napier ORL 02/10/2016 ORL vs. SAS L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p332
+aVMario Hezonja ORL 02/10/2016 ORL vs. SAS L 15 12 4 6 66.7 2 4 50.0 2 2 100.0 0 0 0 1 1 0 2 4 1
+p333
+aVEvan Fournier ORL 02/10/2016 ORL vs. SAS L 42 28 10 20 50.0 3 5 60.0 5 5 100.0 0 2 2 5 0 0 1 3 -4
+p334
+aVNikola Vucevic ORL 02/10/2016 ORL vs. SAS L 37 20 9 22 40.9 0 0 - 2 2 100.0 4 9 13 5 1 2 3 4 1
+p335
+aVDewayne Dedmon ORL 02/10/2016 ORL vs. SAS L 11 2 1 5 20.0 0 0 - 0 0 - 6 3 9 2 0 1 1 0 -3
+p336
+aVElfrid Payton ORL 02/10/2016 ORL vs. SAS L 42 13 5 11 45.5 0 1 0.0 3 4 75.0 1 5 6 7 2 0 2 3 -4
+p337
+aVChanning Frye ORL 02/08/2016 ORL @ ATL W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -10
+p338
+aVMario Hezonja ORL 02/08/2016 ORL @ ATL W 32 14 6 14 42.9 2 8 25.0 0 0 - 0 9 9 3 0 0 3 2 21
+p339
+aVJason Smith ORL 02/08/2016 ORL @ ATL W 22 14 7 11 63.6 0 0 - 0 0 - 0 0 0 1 2 4 1 0 13
+p340
+aVAaron Gordon ORL 02/08/2016 ORL @ ATL W 28 12 4 8 50.0 1 1 100.0 3 3 100.0 2 8 10 3 1 1 1 4 10
+p341
+aVShabazz Napier ORL 02/08/2016 ORL @ ATL W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 5 1 0 1 1 -1
+p342
+aVEvan Fournier ORL 02/08/2016 ORL @ ATL W 42 16 6 11 54.5 3 7 42.9 1 1 100.0 0 3 3 4 3 0 2 4 -1
+p343
+aVVictor Oladipo ORL 02/08/2016 ORL @ ATL W 30 9 3 12 25.0 1 5 20.0 2 4 50.0 0 4 4 8 1 1 2 2 -6
+p344
+aVNikola Vucevic ORL 02/08/2016 ORL @ ATL W 43 28 11 16 68.8 0 0 - 6 8 75.0 4 9 13 6 0 1 1 4 2
+p345
+aVDewayne Dedmon ORL 02/08/2016 ORL @ ATL W 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -1
+p346
+aVElfrid Payton ORL 02/08/2016 ORL @ ATL W 41 20 8 15 53.3 2 4 50.0 2 4 50.0 0 4 4 7 3 1 2 2 8
+p347
+aVNikola Vucevic ORL 02/07/2016 ORL vs. ATL W 35 22 11 19 57.9 0 0 - 0 0 - 1 8 9 2 2 0 6 2 14
+p348
+aVEvan Fournier ORL 02/07/2016 ORL vs. ATL W 43 21 7 14 50.0 3 5 60.0 4 4 100.0 0 5 5 1 2 0 3 2 10
+p349
+aVElfrid Payton ORL 02/07/2016 ORL vs. ATL W 33 12 5 10 50.0 2 4 50.0 0 0 - 0 4 4 12 1 1 3 3 6
+p350
+aVChanning Frye ORL 02/07/2016 ORL vs. ATL W 14 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 0 0 1 0 1 -8
+p351
+aVAaron Gordon ORL 02/07/2016 ORL vs. ATL W 34 11 3 11 27.3 0 3 0.0 5 6 83.3 5 8 13 4 2 4 0 2 10
+p352
+aVVictor Oladipo ORL 02/07/2016 ORL vs. ATL W 44 19 9 13 69.2 1 3 33.3 0 0 - 1 4 5 3 1 1 3 0 6
+p353
+aVShabazz Napier ORL 02/07/2016 ORL vs. ATL W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -5
+p354
+aVMario Hezonja ORL 02/07/2016 ORL vs. ATL W 14 0 0 5 0.0 0 5 0.0 0 0 - 0 1 1 2 0 1 3 1 -11
+p355
+aVJason Smith ORL 02/07/2016 ORL vs. ATL W 13 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 0 0 2 0 1 -12
+p356
+aVEvan Fournier ORL 02/05/2016 ORL vs. LAC L 32 16 6 13 46.2 2 5 40.0 2 4 50.0 1 5 6 4 1 0 2 3 -10
+p357
+aVTobias Harris ORL 02/05/2016 ORL vs. LAC L 28 13 4 9 44.4 0 2 0.0 5 5 100.0 2 6 8 0 0 0 1 1 -2
+p358
+aVKeith Appling ORL 02/05/2016 ORL vs. LAC L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p359
+aVAndrew Nicholson ORL 02/05/2016 ORL vs. LAC L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p360
+aVAaron Gordon ORL 02/05/2016 ORL vs. LAC L 29 6 3 6 50.0 0 1 0.0 0 1 0.0 2 1 3 1 1 1 0 0 -11
+p361
+aVVictor Oladipo ORL 02/05/2016 ORL vs. LAC L 36 18 5 12 41.7 1 4 25.0 7 8 87.5 1 2 3 3 1 0 4 5 -18
+p362
+aVJason Smith ORL 02/05/2016 ORL vs. LAC L 17 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 1 0 3 0 1
+p363
+aVShabazz Napier ORL 02/05/2016 ORL vs. LAC L 10 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 4 0 0 1 1 -1
+p364
+aVElfrid Payton ORL 02/05/2016 ORL vs. LAC L 30 6 2 7 28.6 0 1 0.0 2 4 50.0 0 1 1 2 0 0 3 4 -11
+p365
+aVDewayne Dedmon ORL 02/05/2016 ORL vs. LAC L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p366
+aVNikola Vucevic ORL 02/05/2016 ORL vs. LAC L 29 13 6 16 37.5 0 1 0.0 1 2 50.0 3 6 9 4 2 0 4 3 -13
+p367
+aVMario Hezonja ORL 02/05/2016 ORL vs. LAC L 22 9 3 6 50.0 1 3 33.3 2 2 100.0 1 4 5 0 0 0 0 2 -5
+p368
+aVNikola Vucevic ORL 02/03/2016 ORL @ OKC L 36 16 8 16 50.0 0 0 - 0 0 - 1 2 3 3 0 2 2 3 -8
+p369
+aVTobias Harris ORL 02/03/2016 ORL @ OKC L 34 15 7 14 50.0 1 4 25.0 0 2 0.0 2 5 7 3 0 0 0 1 8
+p370
+aVElfrid Payton ORL 02/03/2016 ORL @ OKC L 29 6 3 11 27.3 0 0 - 0 0 - 1 4 5 6 0 0 1 4 -6
+p371
+aVVictor Oladipo ORL 02/03/2016 ORL @ OKC L 41 37 13 20 65.0 3 6 50.0 8 8 100.0 1 6 7 4 1 1 0 4 -4
+p372
+aVChanning Frye ORL 02/03/2016 ORL @ OKC L 17 2 1 3 33.3 0 1 0.0 0 0 - 1 5 6 2 0 0 0 2 1
+p373
+aVMario Hezonja ORL 02/03/2016 ORL @ OKC L 20 16 6 10 60.0 4 6 66.7 0 0 - 1 0 1 4 0 0 2 1 5
+p374
+aVEvan Fournier ORL 02/03/2016 ORL @ OKC L 19 7 2 4 50.0 1 3 33.3 2 2 100.0 0 1 1 2 0 0 3 1 -9
+p375
+aVJason Smith ORL 02/03/2016 ORL @ OKC L 18 13 6 7 85.7 1 1 100.0 0 0 - 2 1 3 0 2 2 1 2 1
+p376
+aVAaron Gordon ORL 02/03/2016 ORL @ OKC L 26 2 1 10 10.0 0 2 0.0 0 0 - 3 3 6 1 0 0 0 0 -3
+p377
+aVKeith Appling ORL 02/01/2016 ORL @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p378
+aVEvan Fournier ORL 02/01/2016 ORL @ SAS L 18 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 0 0 0 3 1 -10
+p379
+aVAndrew Nicholson ORL 02/01/2016 ORL @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p380
+aVAaron Gordon ORL 02/01/2016 ORL @ SAS L 31 12 6 12 50.0 0 0 - 0 0 - 6 10 16 0 0 1 2 1 -5
+p381
+aVChanning Frye ORL 02/01/2016 ORL @ SAS L 17 7 3 7 42.9 1 4 25.0 0 0 - 1 5 6 0 0 0 1 3 -10
+p382
+aVJason Smith ORL 02/01/2016 ORL @ SAS L 11 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 0 0 2 0 0 -8
+p383
+aVNikola Vucevic ORL 02/01/2016 ORL @ SAS L 31 20 9 20 45.0 0 0 - 2 2 100.0 5 5 10 3 1 1 0 4 -5
+p384
+aVTobias Harris ORL 02/01/2016 ORL @ SAS L 25 11 5 9 55.6 1 3 33.3 0 0 - 1 3 4 0 0 0 3 2 -10
+p385
+aVVictor Oladipo ORL 02/01/2016 ORL @ SAS L 35 19 6 16 37.5 1 4 25.0 6 6 100.0 0 3 3 7 5 0 4 3 -11
+p386
+aVElfrid Payton ORL 02/01/2016 ORL @ SAS L 32 6 3 12 25.0 0 1 0.0 0 1 0.0 3 2 5 8 1 1 1 2 -3
+p387
+aVShabazz Napier ORL 02/01/2016 ORL @ SAS L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p388
+aVDewayne Dedmon ORL 02/01/2016 ORL @ SAS L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p389
+aVMario Hezonja ORL 02/01/2016 ORL @ SAS L 29 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 1 2 1 2 2 -9
+p390
+aVAaron Gordon ORL 01/31/2016 ORL vs. BOS W 39 19 8 11 72.7 0 2 0.0 3 9 33.3 3 11 14 5 0 2 0 4 7
+p391
+aVElfrid Payton ORL 01/31/2016 ORL vs. BOS W 15 9 3 5 60.0 1 2 50.0 2 2 100.0 2 2 4 1 0 0 3 4 -6
+p392
+aVEvan Fournier ORL 01/31/2016 ORL vs. BOS W 23 24 6 8 75.0 4 5 80.0 8 11 72.7 0 3 3 2 2 0 4 3 1
+p393
+aVTobias Harris ORL 01/31/2016 ORL vs. BOS W 40 16 6 9 66.7 1 3 33.3 3 3 100.0 2 4 6 0 3 0 2 1 8
+p394
+aVNikola Vucevic ORL 01/31/2016 ORL vs. BOS W 35 16 6 17 35.3 0 0 - 4 8 50.0 3 10 13 7 0 3 0 2 12
+p395
+aVDewayne Dedmon ORL 01/31/2016 ORL vs. BOS W 8 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 1 0 1 1 2 -8
+p396
+aVJason Smith ORL 01/31/2016 ORL vs. BOS W 20 4 2 4 50.0 0 0 - 0 0 - 1 0 1 4 0 0 0 2 -9
+p397
+aVMario Hezonja ORL 01/31/2016 ORL vs. BOS W 33 17 7 13 53.8 3 6 50.0 0 0 - 0 3 3 3 0 0 2 3 20
+p398
+aVVictor Oladipo ORL 01/31/2016 ORL vs. BOS W 28 11 5 13 38.5 1 6 16.7 0 0 - 1 2 3 4 2 0 3 3 0
+p399
+aVChanning Frye ORL 01/29/2016 ORL @ BOS L 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 1 2 0 -9
+p400
+aVJason Smith ORL 01/29/2016 ORL @ BOS L 11 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 1 0 2 3 -11
+p401
+aVAndrew Nicholson ORL 01/29/2016 ORL @ BOS L 7 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 0 0 1 0 0 6
+p402
+aVMario Hezonja ORL 01/29/2016 ORL @ BOS L 21 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 1 2 2 -9
+p403
+aVShabazz Napier ORL 01/29/2016 ORL @ BOS L 18 13 5 8 62.5 3 6 50.0 0 2 0.0 0 2 2 3 1 0 2 1 -8
+p404
+aVAaron Gordon ORL 01/29/2016 ORL @ BOS L 26 12 3 9 33.3 2 4 50.0 4 4 100.0 3 6 9 2 1 0 2 2 -16
+p405
+aVNikola Vucevic ORL 01/29/2016 ORL @ BOS L 30 14 4 11 36.4 0 0 - 6 6 100.0 2 6 8 4 0 1 2 1 -14
+p406
+aVElfrid Payton ORL 01/29/2016 ORL @ BOS L 29 12 6 11 54.5 0 0 - 0 0 - 0 2 2 1 2 0 0 3 -7
+p407
+aVEvan Fournier ORL 01/29/2016 ORL @ BOS L 18 8 3 7 42.9 0 2 0.0 2 4 50.0 0 2 2 3 1 0 1 3 -15
+p408
+aVTobias Harris ORL 01/29/2016 ORL @ BOS L 28 10 3 12 25.0 2 4 50.0 2 2 100.0 2 5 7 0 0 0 2 2 -9
+p409
+aVKeith Appling ORL 01/29/2016 ORL @ BOS L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 6
+p410
+aVDewayne Dedmon ORL 01/29/2016 ORL @ BOS L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p411
+aVVictor Oladipo ORL 01/29/2016 ORL @ BOS L 28 11 2 6 33.3 0 2 0.0 7 9 77.8 1 2 3 2 1 0 0 0 -15
+p412
+aVTobias Harris ORL 01/26/2016 ORL @ MIL L 24 13 4 12 33.3 2 5 40.0 3 7 42.9 3 3 6 2 1 1 2 2 -6
+p413
+aVVictor Oladipo ORL 01/26/2016 ORL @ MIL L 30 18 3 7 42.9 2 3 66.7 10 11 90.9 0 3 3 5 1 0 3 4 -9
+p414
+aVNikola Vucevic ORL 01/26/2016 ORL @ MIL L 37 16 7 19 36.8 0 0 - 2 2 100.0 4 8 12 2 0 2 1 5 -1
+p415
+aVShabazz Napier ORL 01/26/2016 ORL @ MIL L 24 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 3 3 0 2 3 -1
+p416
+aVChanning Frye ORL 01/26/2016 ORL @ MIL L 10 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 0 0 0 1 3 -7
+p417
+aVMario Hezonja ORL 01/26/2016 ORL @ MIL L 17 11 4 7 57.1 1 2 50.0 2 2 100.0 1 0 1 0 0 0 0 1 2
+p418
+aVEvan Fournier ORL 01/26/2016 ORL @ MIL L 25 15 5 11 45.5 4 7 57.1 1 2 50.0 0 1 1 2 0 0 0 0 -5
+p419
+aVElfrid Payton ORL 01/26/2016 ORL @ MIL L 24 8 3 5 60.0 1 2 50.0 1 1 100.0 0 0 0 3 0 1 2 3 -6
+p420
+aVAaron Gordon ORL 01/26/2016 ORL @ MIL L 37 9 3 9 33.3 1 2 50.0 2 4 50.0 3 6 9 3 1 0 0 1 0
+p421
+aVJason Smith ORL 01/26/2016 ORL @ MIL L 11 4 2 3 66.7 0 0 - 0 0 - 0 3 3 2 0 0 0 0 -2
+p422
+aVNikola Vucevic ORL 01/25/2016 ORL @ MEM L 39 16 8 17 47.1 0 0 - 0 0 - 3 11 14 3 0 2 5 3 -14
+p423
+aVMario Hezonja ORL 01/25/2016 ORL @ MEM L 8 5 2 3 66.7 1 2 50.0 0 0 - 1 2 3 0 0 0 0 1 5
+p424
+aVTobias Harris ORL 01/25/2016 ORL @ MEM L 39 16 6 9 66.7 3 4 75.0 1 1 100.0 0 4 4 3 0 0 2 1 -16
+p425
+aVEvan Fournier ORL 01/25/2016 ORL @ MEM L 35 16 6 11 54.5 4 9 44.4 0 0 - 1 2 3 5 1 0 1 1 1
+p426
+aVVictor Oladipo ORL 01/25/2016 ORL @ MEM L 37 5 1 10 10.0 0 4 0.0 3 3 100.0 0 4 4 6 0 0 1 3 -10
+p427
+aVAaron Gordon ORL 01/25/2016 ORL @ MEM L 24 10 3 8 37.5 0 4 0.0 4 4 100.0 0 9 9 0 0 1 2 1 -11
+p428
+aVJason Smith ORL 01/25/2016 ORL @ MEM L 13 8 4 7 57.1 0 0 - 0 0 - 1 2 3 3 0 1 2 4 10
+p429
+aVElfrid Payton ORL 01/25/2016 ORL @ MEM L 39 14 6 11 54.5 0 1 0.0 2 4 50.0 1 1 2 3 1 1 5 5 -14
+p430
+aVDewayne Dedmon ORL 01/25/2016 ORL @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p431
+aVChanning Frye ORL 01/25/2016 ORL @ MEM L 12 6 2 5 40.0 0 1 0.0 2 2 100.0 1 1 2 0 0 1 1 2 12
+p432
+aVShabazz Napier ORL 01/25/2016 ORL @ MEM L 14 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 1 0 0 0 0 8
+p433
+aVShabazz Napier ORL 01/22/2016 ORL vs. CHA L 15 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 3 2 0 1 1 9
+p434
+aVAndrew Nicholson ORL 01/22/2016 ORL vs. CHA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p435
+aVAaron Gordon ORL 01/22/2016 ORL vs. CHA L 24 10 4 4 100.0 1 1 100.0 1 3 33.3 1 6 7 4 0 0 2 6 1
+p436
+aVEvan Fournier ORL 01/22/2016 ORL vs. CHA L 33 15 6 14 42.9 1 5 20.0 2 2 100.0 0 2 2 2 0 1 1 2 -16
+p437
+aVChanning Frye ORL 01/22/2016 ORL vs. CHA L 12 5 1 2 50.0 1 1 100.0 2 2 100.0 0 2 2 1 0 0 0 0 9
+p438
+aVJason Smith ORL 01/22/2016 ORL vs. CHA L 14 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 1 1 0 1 1 5
+p439
+aVNikola Vucevic ORL 01/22/2016 ORL vs. CHA L 39 15 6 17 35.3 0 0 - 3 3 100.0 1 11 12 4 1 6 4 2 -8
+p440
+aVMario Hezonja ORL 01/22/2016 ORL vs. CHA L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 1 6
+p441
+aVElfrid Payton ORL 01/22/2016 ORL vs. CHA L 35 11 4 14 28.6 2 3 66.7 1 1 100.0 3 6 9 10 1 0 4 4 -12
+p442
+aVVictor Oladipo ORL 01/22/2016 ORL vs. CHA L 42 29 11 19 57.9 5 8 62.5 2 2 100.0 1 3 4 3 1 0 4 3 -5
+p443
+aVTobias Harris ORL 01/22/2016 ORL vs. CHA L 39 22 9 14 64.3 0 4 0.0 4 5 80.0 0 5 5 2 0 2 1 5 -6
+p444
+aVElfrid Payton ORL 01/20/2016 ORL vs. PHI L 41 21 8 13 61.5 0 1 0.0 5 9 55.6 3 3 6 10 2 0 3 2 -1
+p445
+aVJason Smith ORL 01/20/2016 ORL vs. PHI L 11 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 1 1 0 0 -6
+p446
+aVMario Hezonja ORL 01/20/2016 ORL vs. PHI L 16 9 3 5 60.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 1 0 -3
+p447
+aVAaron Gordon ORL 01/20/2016 ORL vs. PHI L 32 7 3 7 42.9 0 2 0.0 1 1 100.0 2 6 8 1 0 0 1 1 -3
+p448
+aVEvan Fournier ORL 01/20/2016 ORL vs. PHI L 37 9 3 14 21.4 2 5 40.0 1 2 50.0 2 1 3 1 5 0 2 2 -13
+p449
+aVKeith Appling ORL 01/20/2016 ORL vs. PHI L 6 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 8
+p450
+aVNikola Vucevic ORL 01/20/2016 ORL vs. PHI L 37 15 7 15 46.7 0 0 - 1 2 50.0 2 9 11 1 2 1 2 2 -3
+p451
+aVChanning Frye ORL 01/20/2016 ORL vs. PHI L 12 3 1 6 16.7 1 4 25.0 0 0 - 2 2 4 3 1 0 2 1 0
+p452
+aVShabazz Napier ORL 01/20/2016 ORL vs. PHI L 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p453
+aVDewayne Dedmon ORL 01/20/2016 ORL vs. PHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -3
+p454
+aVDevyn Marble ORL 01/20/2016 ORL vs. PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p455
+aVTobias Harris ORL 01/20/2016 ORL vs. PHI L 36 15 5 13 38.5 1 3 33.3 4 7 57.1 1 9 10 2 1 1 1 2 -11
+p456
+aVNikola Vucevic ORL 01/18/2016 ORL @ ATL L 27 10 4 10 40.0 0 0 - 2 3 66.7 4 7 11 1 1 1 2 1 -14
+p457
+aVDewayne Dedmon ORL 01/18/2016 ORL @ ATL L 11 4 2 2 100.0 0 0 - 0 0 - 2 5 7 0 1 0 1 1 -3
+p458
+aVAndrew Nicholson ORL 01/18/2016 ORL @ ATL L 9 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 -5
+p459
+aVEvan Fournier ORL 01/18/2016 ORL @ ATL L 24 6 2 11 18.2 2 4 50.0 0 0 - 0 1 1 2 1 0 0 3 -9
+p460
+aVDevyn Marble ORL 01/18/2016 ORL @ ATL L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p461
+aVKeith Appling ORL 01/18/2016 ORL @ ATL L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 1
+p462
+aVAaron Gordon ORL 01/18/2016 ORL @ ATL L 27 18 5 9 55.6 1 2 50.0 7 8 87.5 1 6 7 3 0 1 0 0 -12
+p463
+aVJason Smith ORL 01/18/2016 ORL @ ATL L 18 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -5
+p464
+aVTobias Harris ORL 01/18/2016 ORL @ ATL L 32 6 2 7 28.6 0 2 0.0 2 2 100.0 1 3 4 4 4 1 2 1 -7
+p465
+aVMario Hezonja ORL 01/18/2016 ORL @ ATL L 24 10 3 14 21.4 0 5 0.0 4 4 100.0 0 0 0 2 0 0 1 2 -8
+p466
+aVShabazz Napier ORL 01/18/2016 ORL @ ATL L 12 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 0 -4
+p467
+aVElfrid Payton ORL 01/18/2016 ORL @ ATL L 27 16 7 14 50.0 2 2 100.0 0 3 0.0 0 2 2 5 1 0 5 0 -14
+p468
+aVChanning Frye ORL 01/18/2016 ORL @ ATL L 18 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 1 1 2 0 2 -7
+p469
+aVNikola Vucevic ORL 01/14/2016 ORL vs. TOR L 39 17 8 22 36.4 0 1 0.0 1 1 100.0 2 9 11 4 0 3 1 4 1
+p470
+aVEvan Fournier ORL 01/14/2016 ORL vs. TOR L 34 21 8 11 72.7 2 4 50.0 3 3 100.0 1 2 3 3 1 0 3 5 6
+p471
+aVMario Hezonja ORL 01/14/2016 ORL vs. TOR L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 2 0 1 0 0 -11
+p472
+aVAaron Gordon ORL 01/14/2016 ORL vs. TOR L 7 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -7
+p473
+aVElfrid Payton ORL 01/14/2016 ORL vs. TOR L 20 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 4 0 0 3 1 -12
+p474
+aVTobias Harris ORL 01/14/2016 ORL vs. TOR L 44 16 7 13 53.8 2 4 50.0 0 0 - 1 10 11 3 1 0 4 2 10
+p475
+aVAndrew Nicholson ORL 01/14/2016 ORL vs. TOR L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -12
+p476
+aVChanning Frye ORL 01/14/2016 ORL vs. TOR L 22 2 1 2 50.0 0 0 - 0 0 - 0 6 6 2 0 4 1 2 4
+p477
+aVJason Smith ORL 01/14/2016 ORL vs. TOR L 37 16 8 15 53.3 0 2 0.0 0 0 - 1 4 5 4 0 1 0 3 0
+p478
+aVVictor Oladipo ORL 01/14/2016 ORL vs. TOR L 45 27 10 20 50.0 5 7 71.4 2 2 100.0 1 5 6 6 2 0 3 3 6
+p479
+aVJason Smith ORL 01/09/2016 ORL vs. WAS L 13 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 0 2 0 0 1 -1
+p480
+aVNikola Vucevic ORL 01/09/2016 ORL vs. WAS L 35 23 10 17 58.8 0 0 - 3 4 75.0 3 6 9 5 1 0 2 3 -9
+p481
+aVTobias Harris ORL 01/09/2016 ORL vs. WAS L 35 11 4 9 44.4 0 2 0.0 3 4 75.0 1 3 4 1 2 0 1 1 -12
+p482
+aVVictor Oladipo ORL 01/09/2016 ORL vs. WAS L 39 17 5 12 41.7 2 4 50.0 5 6 83.3 1 2 3 5 1 1 6 2 -7
+p483
+aVChanning Frye ORL 01/09/2016 ORL vs. WAS L 18 12 5 6 83.3 1 1 100.0 1 2 50.0 1 3 4 0 0 0 1 1 -10
+p484
+aVAaron Gordon ORL 01/09/2016 ORL vs. WAS L 30 10 4 7 57.1 1 3 33.3 1 2 50.0 3 7 10 1 2 0 1 0 4
+p485
+aVEvan Fournier ORL 01/09/2016 ORL vs. WAS L 37 11 5 10 50.0 1 2 50.0 0 0 - 0 1 1 4 0 0 2 1 -6
+p486
+aVShabazz Napier ORL 01/09/2016 ORL vs. WAS L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 1 1
+p487
+aVAndrew Nicholson ORL 01/09/2016 ORL vs. WAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p488
+aVDewayne Dedmon ORL 01/09/2016 ORL vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p489
+aVMario Hezonja ORL 01/09/2016 ORL vs. WAS L 22 7 2 3 66.7 0 0 - 3 4 75.0 2 1 3 3 1 1 1 1 2
+p490
+aVAaron Gordon ORL 01/08/2016 ORL @ BKN W 23 14 6 8 75.0 2 3 66.7 0 0 - 2 3 5 1 0 0 1 4 3
+p491
+aVTobias Harris ORL 01/08/2016 ORL @ BKN W 43 9 3 15 20.0 1 4 25.0 2 4 50.0 2 10 12 8 0 2 1 3 14
+p492
+aVJason Smith ORL 01/08/2016 ORL @ BKN W 12 2 1 6 16.7 0 0 - 0 0 - 0 2 2 2 0 0 0 3 -5
+p493
+aVNikola Vucevic ORL 01/08/2016 ORL @ BKN W 36 20 9 23 39.1 0 0 - 2 2 100.0 6 4 10 4 2 1 2 1 11
+p494
+aVChanning Frye ORL 01/08/2016 ORL @ BKN W 21 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 2 0 0 1 3 -3
+p495
+aVMario Hezonja ORL 01/08/2016 ORL @ BKN W 15 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 3 3
+p496
+aVEvan Fournier ORL 01/08/2016 ORL @ BKN W 33 13 5 8 62.5 3 6 50.0 0 0 - 1 0 1 3 2 0 2 0 3
+p497
+aVVictor Oladipo ORL 01/08/2016 ORL @ BKN W 36 20 7 11 63.6 6 8 75.0 0 0 - 1 8 9 2 3 1 4 2 9
+p498
+aVShabazz Napier ORL 01/08/2016 ORL @ BKN W 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -3
+p499
+aVAndrew Nicholson ORL 01/08/2016 ORL @ BKN W 9 0 0 4 0.0 0 3 0.0 0 0 - 0 5 5 2 0 0 1 1 -2
+p500
+aVDewayne Dedmon ORL 01/06/2016 ORL vs. IND L 7 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 0 -3
+p501
+aVVictor Oladipo ORL 01/06/2016 ORL vs. IND L 41 20 7 13 53.8 4 7 57.1 2 2 100.0 1 4 5 3 1 1 3 3 -13
+p502
+aVNikola Vucevic ORL 01/06/2016 ORL vs. IND L 33 17 8 14 57.1 0 0 - 1 2 50.0 1 3 4 1 2 0 2 3 -14
+p503
+aVJason Smith ORL 01/06/2016 ORL vs. IND L 8 6 3 5 60.0 0 1 0.0 0 0 - 1 2 3 0 1 0 1 1 8
+p504
+aVAaron Gordon ORL 01/06/2016 ORL vs. IND L 16 8 3 6 50.0 0 2 0.0 2 2 100.0 3 5 8 1 0 1 2 2 3
+p505
+aVMario Hezonja ORL 01/06/2016 ORL vs. IND L 21 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 2 8
+p506
+aVShabazz Napier ORL 01/06/2016 ORL vs. IND L 7 8 1 3 33.3 1 2 50.0 5 5 100.0 0 0 0 1 0 0 1 0 4
+p507
+aVAndrew Nicholson ORL 01/06/2016 ORL vs. IND L 23 4 2 7 28.6 0 4 0.0 0 0 - 2 4 6 2 0 1 2 0 5
+p508
+aVTobias Harris ORL 01/06/2016 ORL vs. IND L 34 6 3 12 25.0 0 6 0.0 0 0 - 0 3 3 2 0 1 2 1 -14
+p509
+aVEvan Fournier ORL 01/06/2016 ORL vs. IND L 36 13 5 14 35.7 1 6 16.7 2 2 100.0 0 3 3 4 3 0 2 6 -18
+p510
+aVChanning Frye ORL 01/06/2016 ORL vs. IND L 14 2 0 2 0.0 0 2 0.0 2 2 100.0 0 3 3 1 0 1 0 3 -11
+p511
+aVShabazz Napier ORL 01/04/2016 ORL @ DET L 27 10 4 12 33.3 2 6 33.3 0 0 - 0 1 1 2 2 0 2 3 -20
+p512
+aVDewayne Dedmon ORL 01/04/2016 ORL @ DET L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 3 0 1 -9
+p513
+aVJason Smith ORL 01/04/2016 ORL @ DET L 15 12 5 13 38.5 0 1 0.0 2 2 100.0 1 0 1 0 0 2 0 2 -10
+p514
+aVChanning Frye ORL 01/04/2016 ORL @ DET L 14 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 2 1 0 -10
+p515
+aVAndrew Nicholson ORL 01/04/2016 ORL @ DET L 21 14 6 10 60.0 2 3 66.7 0 0 - 1 6 7 1 0 0 1 0 -1
+p516
+aVVictor Oladipo ORL 01/04/2016 ORL @ DET L 35 18 7 11 63.6 1 1 100.0 3 3 100.0 0 7 7 5 2 0 2 3 -16
+p517
+aVEvan Fournier ORL 01/04/2016 ORL @ DET L 26 0 0 6 0.0 0 4 0.0 0 0 - 1 1 2 2 2 0 1 2 -19
+p518
+aVAaron Gordon ORL 01/04/2016 ORL @ DET L 25 2 0 1 0.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 0 1 -17
+p519
+aVNikola Vucevic ORL 01/04/2016 ORL @ DET L 24 16 8 15 53.3 0 0 - 0 0 - 1 2 3 3 0 0 0 1 -7
+p520
+aVTobias Harris ORL 01/04/2016 ORL @ DET L 33 11 4 7 57.1 1 2 50.0 2 2 100.0 0 3 3 3 0 0 1 2 -12
+p521
+aVMario Hezonja ORL 01/04/2016 ORL @ DET L 11 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -9
+p522
+aVAndrew Nicholson ORL 01/02/2016 ORL @ CLE L 28 6 2 6 33.3 1 3 33.3 1 2 50.0 1 5 6 0 0 0 0 3 -9
+p523
+aVVictor Oladipo ORL 01/02/2016 ORL @ CLE L 14 6 3 11 27.3 0 2 0.0 0 1 0.0 0 0 0 2 0 0 0 0 -8
+p524
+aVNikola Vucevic ORL 01/02/2016 ORL @ CLE L 13 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 0 0 1 4 -15
+p525
+aVEvan Fournier ORL 01/02/2016 ORL @ CLE L 28 9 2 5 40.0 1 4 25.0 4 4 100.0 0 1 1 2 0 0 3 3 -23
+p526
+aVTobias Harris ORL 01/02/2016 ORL @ CLE L 22 4 2 5 40.0 0 2 0.0 0 0 - 0 5 5 1 0 1 1 2 -23
+p527
+aVChanning Frye ORL 01/02/2016 ORL @ CLE L 13 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 0 0 0 0 4 -13
+p528
+aVElfrid Payton ORL 01/02/2016 ORL @ CLE L 16 0 0 5 0.0 0 0 - 0 0 - 2 1 3 4 0 0 2 2 -24
+p529
+aVMario Hezonja ORL 01/02/2016 ORL @ CLE L 27 10 3 11 27.3 2 6 33.3 2 2 100.0 1 5 6 3 0 0 2 1 -3
+p530
+aVJason Smith ORL 01/02/2016 ORL @ CLE L 13 8 3 3 100.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 4 -16
+p531
+aVShabazz Napier ORL 01/02/2016 ORL @ CLE L 18 10 2 5 40.0 0 2 0.0 6 6 100.0 0 4 4 1 1 0 2 1 7
+p532
+aVAaron Gordon ORL 01/02/2016 ORL @ CLE L 26 11 5 10 50.0 1 2 50.0 0 0 - 1 6 7 2 0 0 1 3 -4
+p533
+aVDewayne Dedmon ORL 01/02/2016 ORL @ CLE L 22 8 4 6 66.7 0 0 - 0 0 - 0 5 5 0 0 1 0 2 6
+p534
+aVElfrid Payton ORL 01/01/2016 ORL @ WAS L 24 3 1 6 16.7 1 2 50.0 0 0 - 0 1 1 7 1 0 3 2 -17
+p535
+aVEvan Fournier ORL 01/01/2016 ORL @ WAS L 28 11 5 11 45.5 1 5 20.0 0 0 - 0 2 2 3 0 0 2 4 -5
+p536
+aVAaron Gordon ORL 01/01/2016 ORL @ WAS L 25 6 3 6 50.0 0 1 0.0 0 1 0.0 3 4 7 3 0 0 1 0 -6
+p537
+aVShabazz Napier ORL 01/01/2016 ORL @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p538
+aVAndrew Nicholson ORL 01/01/2016 ORL @ WAS L 10 8 3 4 75.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 4
+p539
+aVChanning Frye ORL 01/01/2016 ORL @ WAS L 22 4 2 4 50.0 0 1 0.0 0 0 - 2 4 6 2 0 0 0 0 -6
+p540
+aVDewayne Dedmon ORL 01/01/2016 ORL @ WAS L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p541
+aVNikola Vucevic ORL 01/01/2016 ORL @ WAS L 32 14 7 16 43.8 0 1 0.0 0 0 - 1 6 7 2 1 1 2 1 -12
+p542
+aVTobias Harris ORL 01/01/2016 ORL @ WAS L 36 13 5 9 55.6 1 3 33.3 2 3 66.7 1 9 10 3 0 1 2 1 -11
+p543
+aVJason Smith ORL 01/01/2016 ORL @ WAS L 15 10 5 8 62.5 0 0 - 0 0 - 0 3 3 2 0 2 3 1 0
+p544
+aVMario Hezonja ORL 01/01/2016 ORL @ WAS L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -1
+p545
+aVVictor Oladipo ORL 01/01/2016 ORL @ WAS L 31 20 8 18 44.4 2 6 33.3 2 2 100.0 0 1 1 5 4 0 1 3 -6
+p546
+aVShabazz Napier ORL 12/30/2015 ORL vs. BKN W 17 7 2 4 50.0 1 2 50.0 2 2 100.0 1 2 3 5 1 0 2 3 -9
+p547
+aVTobias Harris ORL 12/30/2015 ORL vs. BKN W 37 12 5 13 38.5 0 3 0.0 2 3 66.7 2 6 8 2 1 0 2 0 10
+p548
+aVJason Smith ORL 12/30/2015 ORL vs. BKN W 7 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 0 1 0 4 -1
+p549
+aVMario Hezonja ORL 12/30/2015 ORL vs. BKN W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 5
+p550
+aVChanning Frye ORL 12/30/2015 ORL vs. BKN W 22 8 3 7 42.9 2 5 40.0 0 0 - 1 5 6 1 0 0 1 1 -12
+p551
+aVEvan Fournier ORL 12/30/2015 ORL vs. BKN W 40 17 5 12 41.7 3 8 37.5 4 4 100.0 1 2 3 5 2 0 2 2 11
+p552
+aVAndrew Nicholson ORL 12/30/2015 ORL vs. BKN W 7 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 0
+p553
+aVNikola Vucevic ORL 12/30/2015 ORL vs. BKN W 35 20 9 18 50.0 0 0 - 2 2 100.0 5 4 9 3 0 0 2 4 17
+p554
+aVVictor Oladipo ORL 12/30/2015 ORL vs. BKN W 29 12 3 11 27.3 2 5 40.0 4 4 100.0 2 5 7 3 1 0 5 2 15
+p555
+aVElfrid Payton ORL 12/30/2015 ORL vs. BKN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 0
+p556
+aVAaron Gordon ORL 12/30/2015 ORL vs. BKN W 26 10 3 5 60.0 1 1 100.0 3 4 75.0 3 4 7 0 1 2 0 2 8
+p557
+aVDewayne Dedmon ORL 12/30/2015 ORL vs. BKN W 6 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -9
+p558
+aVShabazz Napier ORL 12/28/2015 ORL vs. NOP W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p559
+aVJason Smith ORL 12/28/2015 ORL vs. NOP W 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 1 0 0 3 -5
+p560
+aVEvan Fournier ORL 12/28/2015 ORL vs. NOP W 33 20 7 12 58.3 3 4 75.0 3 3 100.0 0 2 2 4 2 0 1 0 18
+p561
+aVAaron Gordon ORL 12/28/2015 ORL vs. NOP W 11 7 3 5 60.0 0 1 0.0 1 1 100.0 1 3 4 0 0 0 0 0 -4
+p562
+aVNikola Vucevic ORL 12/28/2015 ORL vs. NOP W 37 28 14 21 66.7 0 1 0.0 0 1 0.0 0 8 8 7 0 0 2 2 14
+p563
+aVVictor Oladipo ORL 12/28/2015 ORL vs. NOP W 26 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 6 1 0 2 1 1
+p564
+aVDevyn Marble ORL 12/28/2015 ORL vs. NOP W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p565
+aVMario Hezonja ORL 12/28/2015 ORL vs. NOP W 12 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 2 3
+p566
+aVDewayne Dedmon ORL 12/28/2015 ORL vs. NOP W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p567
+aVTobias Harris ORL 12/28/2015 ORL vs. NOP W 37 14 5 8 62.5 1 2 50.0 3 3 100.0 1 8 9 4 0 0 0 1 19
+p568
+aVElfrid Payton ORL 12/28/2015 ORL vs. NOP W 22 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 0 2 0 14
+p569
+aVAndrew Nicholson ORL 12/28/2015 ORL vs. NOP W 21 13 6 10 60.0 1 2 50.0 0 3 0.0 1 4 5 1 1 0 0 2 3
+p570
+aVChanning Frye ORL 12/28/2015 ORL vs. NOP W 23 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 5 2 1 0 2 21
+p571
+aVAaron Gordon ORL 12/26/2015 ORL vs. MIA L 11 2 1 2 50.0 0 0 - 0 0 - 3 1 4 1 0 1 0 0 -5
+p572
+aVNikola Vucevic ORL 12/26/2015 ORL vs. MIA L 36 22 11 22 50.0 0 1 0.0 0 1 0.0 4 6 10 6 3 1 2 3 0
+p573
+aVMario Hezonja ORL 12/26/2015 ORL vs. MIA L 20 8 3 5 60.0 2 3 66.7 0 0 - 1 1 2 4 0 0 0 2 3
+p574
+aVElfrid Payton ORL 12/26/2015 ORL vs. MIA L 33 18 9 13 69.2 0 0 - 0 2 0.0 0 2 2 7 1 0 3 2 -13
+p575
+aVAndrew Nicholson ORL 12/26/2015 ORL vs. MIA L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p576
+aVChanning Frye ORL 12/26/2015 ORL vs. MIA L 26 8 3 5 60.0 2 3 66.7 0 0 - 0 4 4 1 0 0 0 1 -7
+p577
+aVJason Smith ORL 12/26/2015 ORL vs. MIA L 12 10 5 6 83.3 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -7
+p578
+aVTobias Harris ORL 12/26/2015 ORL vs. MIA L 39 13 4 7 57.1 2 3 66.7 3 6 50.0 0 6 6 1 2 0 1 2 0
+p579
+aVEvan Fournier ORL 12/26/2015 ORL vs. MIA L 36 12 4 11 36.4 2 6 33.3 2 2 100.0 0 1 1 7 1 0 0 3 -2
+p580
+aVVictor Oladipo ORL 12/26/2015 ORL vs. MIA L 18 8 3 8 37.5 1 3 33.3 1 2 50.0 0 2 2 4 0 0 2 1 -2
+p581
+aVNikola Vucevic ORL 12/23/2015 ORL vs. HOU W 35 21 10 16 62.5 0 0 - 1 2 50.0 2 4 6 3 0 1 1 2 10
+p582
+aVEvan Fournier ORL 12/23/2015 ORL vs. HOU W 35 17 6 11 54.5 2 5 40.0 3 3 100.0 0 5 5 4 1 0 2 5 5
+p583
+aVAaron Gordon ORL 12/23/2015 ORL vs. HOU W 12 14 6 11 54.5 1 2 50.0 1 2 50.0 2 1 3 0 2 0 0 1 0
+p584
+aVElfrid Payton ORL 12/23/2015 ORL vs. HOU W 32 12 5 11 45.5 0 0 - 2 4 50.0 0 2 2 9 1 0 3 1 -8
+p585
+aVChanning Frye ORL 12/23/2015 ORL vs. HOU W 19 10 4 4 100.0 2 2 100.0 0 0 - 1 4 5 2 0 0 0 2 11
+p586
+aVJason Smith ORL 12/23/2015 ORL vs. HOU W 15 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 0 0 1 2 2 -11
+p587
+aVMario Hezonja ORL 12/23/2015 ORL vs. HOU W 16 2 1 1 100.0 0 0 - 0 0 - 2 3 5 1 1 0 1 0 0
+p588
+aVVictor Oladipo ORL 12/23/2015 ORL vs. HOU W 31 0 0 9 0.0 0 3 0.0 0 0 - 1 6 7 6 0 0 0 1 6
+p589
+aVTobias Harris ORL 12/23/2015 ORL vs. HOU W 36 19 8 10 80.0 1 1 100.0 2 2 100.0 3 5 8 1 0 1 2 1 3
+p590
+aVAndrew Nicholson ORL 12/23/2015 ORL vs. HOU W 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p591
+aVEvan Fournier ORL 12/21/2015 ORL @ NYK W 32 16 6 14 42.9 3 6 50.0 1 2 50.0 1 5 6 1 3 0 1 3 8
+p592
+aVAndrew Nicholson ORL 12/21/2015 ORL @ NYK W 12 5 2 8 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 2
+p593
+aVAaron Gordon ORL 12/21/2015 ORL @ NYK W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 2 0 0 1 2
+p594
+aVTobias Harris ORL 12/21/2015 ORL @ NYK W 37 20 7 14 50.0 3 6 50.0 3 3 100.0 0 3 3 1 3 0 0 4 6
+p595
+aVNikola Vucevic ORL 12/21/2015 ORL @ NYK W 36 26 13 19 68.4 0 0 - 0 0 - 2 7 9 2 0 1 1 2 6
+p596
+aVShabazz Napier ORL 12/21/2015 ORL @ NYK W 12 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 6 0 0 1 1 2
+p597
+aVVictor Oladipo ORL 12/21/2015 ORL @ NYK W 24 12 4 7 57.1 0 0 - 4 5 80.0 0 2 2 2 0 0 2 1 6
+p598
+aVJason Smith ORL 12/21/2015 ORL @ NYK W 27 2 1 3 33.3 0 1 0.0 0 0 - 3 3 6 0 0 0 2 1 0
+p599
+aVElfrid Payton ORL 12/21/2015 ORL @ NYK W 10 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 3 0 0 0 0 1
+p600
+aVChanning Frye ORL 12/21/2015 ORL @ NYK W 21 7 3 5 60.0 1 1 100.0 0 0 - 1 0 1 0 0 1 0 1 8
+p601
+aVMario Hezonja ORL 12/21/2015 ORL @ NYK W 19 11 5 8 62.5 1 4 25.0 0 0 - 1 0 1 3 0 1 2 2 -1
+p602
+aVAndrew Nicholson ORL 12/20/2015 ORL vs. ATL L 17 12 2 4 50.0 1 2 50.0 7 7 100.0 1 5 6 0 1 1 3 3 -5
+p603
+aVMario Hezonja ORL 12/20/2015 ORL vs. ATL L 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -15
+p604
+aVJason Smith ORL 12/20/2015 ORL vs. ATL L 14 10 5 5 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -8
+p605
+aVChanning Frye ORL 12/20/2015 ORL vs. ATL L 27 13 3 4 75.0 2 3 66.7 5 5 100.0 0 2 2 2 3 2 4 3 5
+p606
+aVAaron Gordon ORL 12/20/2015 ORL vs. ATL L 17 2 1 5 20.0 0 0 - 0 0 - 2 2 4 1 0 0 1 0 -3
+p607
+aVTobias Harris ORL 12/20/2015 ORL vs. ATL L 31 4 2 9 22.2 0 2 0.0 0 0 - 0 6 6 3 1 1 0 5 5
+p608
+aVNikola Vucevic ORL 12/20/2015 ORL vs. ATL L 34 20 10 19 52.6 0 0 - 0 0 - 4 7 11 4 1 0 1 2 5
+p609
+aVElfrid Payton ORL 12/20/2015 ORL vs. ATL L 31 14 6 14 42.9 0 1 0.0 2 6 33.3 0 2 2 6 5 1 2 2 4
+p610
+aVEvan Fournier ORL 12/20/2015 ORL vs. ATL L 35 17 5 8 62.5 1 3 33.3 6 6 100.0 1 2 3 4 2 0 0 1 0
+p611
+aVVictor Oladipo ORL 12/20/2015 ORL vs. ATL L 28 4 2 11 18.2 0 1 0.0 0 0 - 0 0 0 6 2 0 1 3 -3
+p612
+aVAaron Gordon ORL 12/18/2015 ORL vs. POR W 12 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 1 -1
+p613
+aVEvan Fournier ORL 12/18/2015 ORL vs. POR W 25 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 4 2 0 0 0 4
+p614
+aVElfrid Payton ORL 12/18/2015 ORL vs. POR W 36 19 4 9 44.4 0 1 0.0 11 17 64.7 3 3 6 3 2 1 4 5 8
+p615
+aVVictor Oladipo ORL 12/18/2015 ORL vs. POR W 35 15 7 14 50.0 1 2 50.0 0 0 - 0 4 4 6 3 1 6 4 4
+p616
+aVAndrew Nicholson ORL 12/18/2015 ORL vs. POR W 25 8 3 9 33.3 0 2 0.0 2 3 66.7 2 2 4 0 0 0 1 2 -4
+p617
+aVChanning Frye ORL 12/18/2015 ORL vs. POR W 23 2 1 4 25.0 0 3 0.0 0 0 - 0 4 4 3 0 0 1 3 12
+p618
+aVNikola Vucevic ORL 12/18/2015 ORL vs. POR W 35 25 12 22 54.5 0 0 - 1 2 50.0 4 7 11 1 1 2 1 2 5
+p619
+aVTobias Harris ORL 12/18/2015 ORL vs. POR W 36 25 9 13 69.2 1 3 33.3 6 7 85.7 3 9 12 2 3 0 0 0 9
+p620
+aVJason Smith ORL 12/18/2015 ORL vs. POR W 13 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 3
+p621
+aVChanning Frye ORL 12/16/2015 ORL vs. CHA W 30 17 5 7 71.4 5 7 71.4 2 2 100.0 0 3 3 2 2 0 1 0 23
+p622
+aVEvan Fournier ORL 12/16/2015 ORL vs. CHA W 24 15 4 7 57.1 3 5 60.0 4 4 100.0 0 3 3 3 2 0 2 0 18
+p623
+aVTobias Harris ORL 12/16/2015 ORL vs. CHA W 23 13 5 11 45.5 2 4 50.0 1 1 100.0 0 5 5 1 2 1 3 1 12
+p624
+aVAndrew Nicholson ORL 12/16/2015 ORL vs. CHA W 18 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 0 0 1 1 3 -8
+p625
+aVElfrid Payton ORL 12/16/2015 ORL vs. CHA W 30 12 5 9 55.6 0 1 0.0 2 2 100.0 0 3 3 9 1 0 2 1 16
+p626
+aVNikola Vucevic ORL 12/16/2015 ORL vs. CHA W 27 14 7 14 50.0 0 0 - 0 2 0.0 1 7 8 4 1 0 1 1 11
+p627
+aVAaron Gordon ORL 12/16/2015 ORL vs. CHA W 25 6 2 3 66.7 0 0 - 2 2 100.0 2 5 7 3 2 0 0 0 3
+p628
+aVJason Smith ORL 12/16/2015 ORL vs. CHA W 17 10 5 6 83.3 0 0 - 0 0 - 0 2 2 1 1 2 1 2 13
+p629
+aVVictor Oladipo ORL 12/16/2015 ORL vs. CHA W 25 11 5 9 55.6 1 2 50.0 0 0 - 0 4 4 4 1 0 3 2 11
+p630
+aVShabazz Napier ORL 12/16/2015 ORL vs. CHA W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p631
+aVDewayne Dedmon ORL 12/16/2015 ORL vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -9
+p632
+aVMario Hezonja ORL 12/16/2015 ORL vs. CHA W 13 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 1 0 0 1 1 -8
+p633
+aVChanning Frye ORL 12/14/2015 ORL @ BKN W 23 11 4 6 66.7 3 5 60.0 0 0 - 0 4 4 5 2 0 0 1 18
+p634
+aVTobias Harris ORL 12/14/2015 ORL @ BKN W 26 15 7 11 63.6 1 4 25.0 0 1 0.0 0 9 9 3 0 0 0 0 15
+p635
+aVVictor Oladipo ORL 12/14/2015 ORL @ BKN W 20 10 2 3 66.7 1 2 50.0 5 6 83.3 0 2 2 2 3 1 1 4 8
+p636
+aVEvan Fournier ORL 12/14/2015 ORL @ BKN W 24 3 1 6 16.7 1 4 25.0 0 0 - 1 0 1 2 0 0 1 1 15
+p637
+aVAndrew Nicholson ORL 12/14/2015 ORL @ BKN W 25 15 6 9 66.7 2 5 40.0 1 2 50.0 0 3 3 0 2 0 2 2 5
+p638
+aVMario Hezonja ORL 12/14/2015 ORL @ BKN W 18 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 1 0 2 1 7
+p639
+aVJason Smith ORL 12/14/2015 ORL @ BKN W 16 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 0 0 2 2 9
+p640
+aVNikola Vucevic ORL 12/14/2015 ORL @ BKN W 28 18 8 13 61.5 0 0 - 2 2 100.0 2 4 6 4 0 1 1 3 14
+p641
+aVDewayne Dedmon ORL 12/14/2015 ORL @ BKN W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 0
+p642
+aVShabazz Napier ORL 12/14/2015 ORL @ BKN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 2 0 2 0 0
+p643
+aVElfrid Payton ORL 12/14/2015 ORL @ BKN W 30 17 6 11 54.5 1 1 100.0 4 6 66.7 2 3 5 5 2 0 2 1 16
+p644
+aVAaron Gordon ORL 12/14/2015 ORL @ BKN W 22 4 1 3 33.3 0 0 - 2 3 66.7 1 4 5 0 0 0 3 2 8
+p645
+aVVictor Oladipo ORL 12/11/2015 ORL vs. CLE L 19 4 2 8 25.0 0 2 0.0 0 0 - 1 3 4 1 0 0 4 1 -10
+p646
+aVNikola Vucevic ORL 12/11/2015 ORL vs. CLE L 22 14 6 10 60.0 1 1 100.0 1 2 50.0 2 1 3 3 1 0 2 1 -25
+p647
+aVJason Smith ORL 12/11/2015 ORL vs. CLE L 19 9 4 8 50.0 1 2 50.0 0 0 - 1 1 2 1 1 1 0 0 -3
+p648
+aVTobias Harris ORL 12/11/2015 ORL vs. CLE L 17 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 0 1 0 2 1 -22
+p649
+aVShabazz Napier ORL 12/11/2015 ORL vs. CLE L 19 3 1 7 14.3 0 3 0.0 1 2 50.0 0 0 0 5 1 0 3 1 -5
+p650
+aVAndrew Nicholson ORL 12/11/2015 ORL vs. CLE L 23 8 4 7 57.1 0 2 0.0 0 0 - 0 6 6 0 0 1 1 2 -7
+p651
+aVAaron Gordon ORL 12/11/2015 ORL vs. CLE L 31 6 2 6 33.3 2 3 66.7 0 0 - 1 3 4 2 0 0 3 3 -13
+p652
+aVChanning Frye ORL 12/11/2015 ORL vs. CLE L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -14
+p653
+aVMario Hezonja ORL 12/11/2015 ORL vs. CLE L 21 12 3 5 60.0 2 3 66.7 4 4 100.0 0 0 0 1 1 0 3 6 -21
+p654
+aVEvan Fournier ORL 12/11/2015 ORL vs. CLE L 17 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 1 2 0 1 2 -28
+p655
+aVElfrid Payton ORL 12/11/2015 ORL vs. CLE L 20 9 4 9 44.4 0 1 0.0 1 2 50.0 0 3 3 2 1 0 0 2 -14
+p656
+aVDewayne Dedmon ORL 12/11/2015 ORL vs. CLE L 20 6 1 2 50.0 0 0 - 4 6 66.7 1 4 5 0 0 1 0 4 -13
+p657
+aVMario Hezonja ORL 12/09/2015 ORL @ PHX L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 0 8
+p658
+aVAaron Gordon ORL 12/09/2015 ORL @ PHX L 12 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 1 0 0 1 2
+p659
+aVVictor Oladipo ORL 12/09/2015 ORL @ PHX L 29 14 6 14 42.9 2 5 40.0 0 0 - 0 4 4 5 1 0 2 5 1
+p660
+aVJason Smith ORL 12/09/2015 ORL @ PHX L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 1
+p661
+aVShabazz Napier ORL 12/09/2015 ORL @ PHX L 15 7 2 3 66.7 2 3 66.7 1 2 50.0 0 0 0 4 0 0 0 2 -2
+p662
+aVAndrew Nicholson ORL 12/09/2015 ORL @ PHX L 14 9 3 5 60.0 1 1 100.0 2 2 100.0 0 3 3 0 0 0 1 5 6
+p663
+aVNikola Vucevic ORL 12/09/2015 ORL @ PHX L 38 21 8 16 50.0 0 0 - 5 5 100.0 4 7 11 2 0 0 1 4 -6
+p664
+aVElfrid Payton ORL 12/09/2015 ORL @ PHX L 33 12 6 15 40.0 0 1 0.0 0 2 0.0 0 3 3 10 5 0 3 2 -1
+p665
+aVEvan Fournier ORL 12/09/2015 ORL @ PHX L 35 14 5 14 35.7 3 7 42.9 1 2 50.0 1 1 2 1 1 0 3 1 -13
+p666
+aVTobias Harris ORL 12/09/2015 ORL @ PHX L 33 16 6 13 46.2 1 4 25.0 3 3 100.0 0 3 3 3 3 0 3 2 -4
+p667
+aVChanning Frye ORL 12/09/2015 ORL @ PHX L 17 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 2 2 -7
+p668
+aVTobias Harris ORL 12/08/2015 ORL @ DEN W 32 17 7 13 53.8 0 2 0.0 3 3 100.0 0 9 9 1 2 2 2 4 10
+p669
+aVMario Hezonja ORL 12/08/2015 ORL @ DEN W 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -5
+p670
+aVElfrid Payton ORL 12/08/2015 ORL @ DEN W 32 18 8 15 53.3 0 0 - 2 2 100.0 2 3 5 4 1 0 2 1 13
+p671
+aVAndrew Nicholson ORL 12/08/2015 ORL @ DEN W 21 8 4 7 57.1 0 1 0.0 0 0 - 2 12 14 0 0 0 3 2 -4
+p672
+aVChanning Frye ORL 12/08/2015 ORL @ DEN W 24 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 2 0 2 2 7
+p673
+aVEvan Fournier ORL 12/08/2015 ORL @ DEN W 26 3 1 7 14.3 1 4 25.0 0 0 - 0 2 2 1 0 0 1 5 16
+p674
+aVNikola Vucevic ORL 12/08/2015 ORL @ DEN W 34 18 9 14 64.3 0 0 - 0 1 0.0 5 8 13 3 2 2 3 1 16
+p675
+aVShabazz Napier ORL 12/08/2015 ORL @ DEN W 14 6 3 7 42.9 0 3 0.0 0 0 - 0 0 0 0 1 0 1 0 0
+p676
+aVJason Smith ORL 12/08/2015 ORL @ DEN W 14 2 0 5 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 1 -5
+p677
+aVVictor Oladipo ORL 12/08/2015 ORL @ DEN W 33 11 5 14 35.7 0 4 0.0 1 2 50.0 0 3 3 3 1 4 4 2 7
+p678
+aVTobias Harris ORL 12/05/2015 ORL @ LAC L 27 10 3 13 23.1 0 3 0.0 4 4 100.0 2 8 10 0 1 0 1 2 -9
+p679
+aVElfrid Payton ORL 12/05/2015 ORL @ LAC L 37 21 9 18 50.0 1 3 33.3 2 4 50.0 2 2 4 8 4 0 1 4 1
+p680
+aVVictor Oladipo ORL 12/05/2015 ORL @ LAC L 34 24 10 20 50.0 1 3 33.3 3 4 75.0 1 6 7 5 0 3 4 3 6
+p681
+aVAaron Gordon ORL 12/05/2015 ORL @ LAC L 21 10 5 8 62.5 0 1 0.0 0 0 - 1 6 7 1 1 0 1 1 7
+p682
+aVAndrew Nicholson ORL 12/05/2015 ORL @ LAC L 23 6 2 5 40.0 2 3 66.7 0 0 - 0 7 7 1 0 0 1 0 10
+p683
+aVNikola Vucevic ORL 12/05/2015 ORL @ LAC L 30 10 4 10 40.0 0 0 - 2 2 100.0 6 4 10 3 0 0 2 2 -13
+p684
+aVShabazz Napier ORL 12/05/2015 ORL @ LAC L 11 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 1 -3
+p685
+aVChanning Frye ORL 12/05/2015 ORL @ LAC L 17 3 1 3 33.3 1 3 33.3 0 0 - 1 0 1 0 0 0 1 1 6
+p686
+aVJason Smith ORL 12/05/2015 ORL @ LAC L 23 8 4 6 66.7 0 0 - 0 0 - 2 3 5 2 1 2 0 3 3
+p687
+aVEvan Fournier ORL 12/05/2015 ORL @ LAC L 17 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 0 1 1 2 4 -18
+p688
+aVMario Hezonja ORL 12/03/2015 ORL @ UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p689
+aVVictor Oladipo ORL 12/03/2015 ORL @ UTA W 24 14 5 13 38.5 1 3 33.3 3 3 100.0 1 6 7 2 0 1 2 3 0
+p690
+aVEvan Fournier ORL 12/03/2015 ORL @ UTA W 30 14 5 9 55.6 2 5 40.0 2 2 100.0 0 6 6 3 1 0 1 5 16
+p691
+aVTobias Harris ORL 12/03/2015 ORL @ UTA W 40 17 5 13 38.5 1 3 33.3 6 6 100.0 1 6 7 1 2 1 1 0 7
+p692
+aVShabazz Napier ORL 12/03/2015 ORL @ UTA W 15 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 2 0 0 0 0 -4
+p693
+aVChanning Frye ORL 12/03/2015 ORL @ UTA W 18 5 1 3 33.3 1 3 33.3 2 2 100.0 0 3 3 1 3 0 0 2 3
+p694
+aVAndrew Nicholson ORL 12/03/2015 ORL @ UTA W 24 14 6 10 60.0 2 4 50.0 0 0 - 1 1 2 0 1 0 1 1 3
+p695
+aVAaron Gordon ORL 12/03/2015 ORL @ UTA W 6 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 2 0 0 3 0
+p696
+aVJason Smith ORL 12/03/2015 ORL @ UTA W 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 2
+p697
+aVNikola Vucevic ORL 12/03/2015 ORL @ UTA W 32 16 8 16 50.0 0 1 0.0 0 0 - 4 4 8 3 2 1 3 1 7
+p698
+aVElfrid Payton ORL 12/03/2015 ORL @ UTA W 33 14 6 14 42.9 0 1 0.0 2 2 100.0 0 3 3 7 2 0 2 3 13
+p699
+aVShabazz Napier ORL 12/01/2015 ORL @ MIN W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -2
+p700
+aVJason Smith ORL 12/01/2015 ORL @ MIN W 11 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 5 -4
+p701
+aVNikola Vucevic ORL 12/01/2015 ORL @ MIN W 37 18 9 19 47.4 0 0 - 0 0 - 4 8 12 4 2 1 4 5 7
+p702
+aVAndrew Nicholson ORL 12/01/2015 ORL @ MIN W 31 15 6 11 54.5 0 1 0.0 3 4 75.0 2 4 6 0 0 0 1 0 -5
+p703
+aVChanning Frye ORL 12/01/2015 ORL @ MIN W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 5 5 1 0 0 1 2 10
+p704
+aVAaron Gordon ORL 12/01/2015 ORL @ MIN W 13 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 0 0 2 0 3 -7
+p705
+aVVictor Oladipo ORL 12/01/2015 ORL @ MIN W 28 13 5 11 45.5 1 3 33.3 2 2 100.0 1 3 4 4 3 2 2 4 -2
+p706
+aVElfrid Payton ORL 12/01/2015 ORL @ MIN W 34 14 6 13 46.2 0 1 0.0 2 4 50.0 1 7 8 5 0 0 2 5 7
+p707
+aVEvan Fournier ORL 12/01/2015 ORL @ MIN W 28 12 4 7 57.1 1 2 50.0 3 4 75.0 0 1 1 3 1 0 1 3 3
+p708
+aVTobias Harris ORL 12/01/2015 ORL @ MIN W 35 13 4 12 33.3 2 5 40.0 3 4 75.0 2 2 4 1 1 0 2 2 8
+p709
+aVShabazz Napier ORL 11/29/2015 ORL vs. BOS W 9 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 4 0 0 1 0 7
+p710
+aVJason Smith ORL 11/29/2015 ORL vs. BOS W 15 6 3 5 60.0 0 0 - 0 0 - 2 1 3 1 0 0 2 2 2
+p711
+aVChanning Frye ORL 11/29/2015 ORL vs. BOS W 17 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 1 1 1 2 3 2
+p712
+aVDevyn Marble ORL 11/29/2015 ORL vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p713
+aVNikola Vucevic ORL 11/29/2015 ORL vs. BOS W 32 18 9 19 47.4 0 0 - 0 0 - 4 6 10 2 0 0 2 6 17
+p714
+aVAaron Gordon ORL 11/29/2015 ORL vs. BOS W 22 12 5 7 71.4 2 3 66.7 0 0 - 1 4 5 2 0 1 0 2 12
+p715
+aVTobias Harris ORL 11/29/2015 ORL vs. BOS W 33 15 7 13 53.8 0 3 0.0 1 3 33.3 6 5 11 2 1 1 2 1 6
+p716
+aVElfrid Payton ORL 11/29/2015 ORL vs. BOS W 35 6 2 12 16.7 0 0 - 2 4 50.0 1 2 3 5 1 1 2 1 8
+p717
+aVMario Hezonja ORL 11/29/2015 ORL vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p718
+aVVictor Oladipo ORL 11/29/2015 ORL vs. BOS W 30 19 5 12 41.7 2 6 33.3 7 8 87.5 0 8 8 6 2 1 1 4 16
+p719
+aVAndrew Nicholson ORL 11/29/2015 ORL vs. BOS W 23 14 6 9 66.7 2 4 50.0 0 0 - 2 6 8 0 0 2 0 0 15
+p720
+aVEvan Fournier ORL 11/29/2015 ORL vs. BOS W 20 9 4 9 44.4 0 3 0.0 1 1 100.0 1 2 3 1 1 0 1 1 4
+p721
+aVMario Hezonja ORL 11/27/2015 ORL vs. MIL W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p722
+aVNikola Vucevic ORL 11/27/2015 ORL vs. MIL W 21 9 4 8 50.0 0 0 - 1 1 100.0 3 3 6 1 1 1 2 3 11
+p723
+aVJason Smith ORL 11/27/2015 ORL vs. MIL W 20 8 4 4 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 13
+p724
+aVTobias Harris ORL 11/27/2015 ORL vs. MIL W 30 19 6 10 60.0 4 5 80.0 3 3 100.0 1 1 2 3 1 1 1 1 20
+p725
+aVVictor Oladipo ORL 11/27/2015 ORL vs. MIL W 24 17 7 12 58.3 0 2 0.0 3 5 60.0 0 6 6 9 1 0 2 0 16
+p726
+aVAaron Gordon ORL 11/27/2015 ORL vs. MIL W 18 2 1 2 50.0 0 1 0.0 0 0 - 0 5 5 1 1 0 2 2 4
+p727
+aVDevyn Marble ORL 11/27/2015 ORL vs. MIL W 3 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 0 0
+p728
+aVShabazz Napier ORL 11/27/2015 ORL vs. MIL W 12 4 1 5 20.0 0 3 0.0 2 3 66.7 0 2 2 3 0 0 1 0 -3
+p729
+aVDewayne Dedmon ORL 11/27/2015 ORL vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 2 0
+p730
+aVEvan Fournier ORL 11/27/2015 ORL vs. MIL W 28 17 5 12 41.7 3 6 50.0 4 6 66.7 1 4 5 1 1 0 1 3 20
+p731
+aVChanning Frye ORL 11/27/2015 ORL vs. MIL W 19 9 3 9 33.3 3 5 60.0 0 0 - 1 3 4 1 2 1 0 2 14
+p732
+aVElfrid Payton ORL 11/27/2015 ORL vs. MIL W 31 22 10 12 83.3 1 1 100.0 1 1 100.0 1 1 2 10 1 0 4 3 20
+p733
+aVAndrew Nicholson ORL 11/27/2015 ORL vs. MIL W 25 3 1 7 14.3 1 4 25.0 0 0 - 1 6 7 1 0 2 2 1 4
+p734
+aVShabazz Napier ORL 11/25/2015 ORL vs. NYK W 12 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 8
+p735
+aVChanning Frye ORL 11/25/2015 ORL vs. NYK W 20 3 1 5 20.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 1 -2
+p736
+aVNikola Vucevic ORL 11/25/2015 ORL vs. NYK W 32 22 10 19 52.6 0 0 - 2 2 100.0 8 4 12 2 1 2 2 4 1
+p737
+aVEvan Fournier ORL 11/25/2015 ORL vs. NYK W 21 3 1 9 11.1 1 3 33.3 0 0 - 1 1 2 0 0 0 0 2 -3
+p738
+aVVictor Oladipo ORL 11/25/2015 ORL vs. NYK W 26 24 5 15 33.3 1 4 25.0 13 15 86.7 0 4 4 2 0 0 0 1 14
+p739
+aVAaron Gordon ORL 11/25/2015 ORL vs. NYK W 17 2 0 4 0.0 0 0 - 2 4 50.0 3 2 5 2 0 2 0 3 4
+p740
+aVTobias Harris ORL 11/25/2015 ORL vs. NYK W 34 17 4 6 66.7 1 1 100.0 8 8 100.0 0 10 10 2 0 1 1 2 7
+p741
+aVDevyn Marble ORL 11/25/2015 ORL vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p742
+aVJason Smith ORL 11/25/2015 ORL vs. NYK W 15 8 3 3 100.0 0 0 - 2 2 100.0 0 3 3 0 1 1 1 3 10
+p743
+aVMario Hezonja ORL 11/25/2015 ORL vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p744
+aVAndrew Nicholson ORL 11/25/2015 ORL vs. NYK W 25 7 3 9 33.3 1 4 25.0 0 0 - 0 2 2 1 0 1 0 1 9
+p745
+aVElfrid Payton ORL 11/25/2015 ORL vs. NYK W 36 12 6 12 50.0 0 1 0.0 0 1 0.0 2 4 6 11 0 0 2 2 1
+p746
+aVShabazz Napier ORL 11/23/2015 ORL @ CLE L 29 11 3 10 30.0 0 4 0.0 5 8 62.5 0 3 3 9 1 1 0 1 5
+p747
+aVDewayne Dedmon ORL 11/23/2015 ORL @ CLE L 7 3 1 1 100.0 0 0 - 1 4 25.0 0 0 0 0 0 0 0 0 8
+p748
+aVEvan Fournier ORL 11/23/2015 ORL @ CLE L 23 13 4 5 80.0 3 3 100.0 2 2 100.0 0 1 1 1 1 0 2 4 -22
+p749
+aVTobias Harris ORL 11/23/2015 ORL @ CLE L 25 9 4 7 57.1 0 1 0.0 1 2 50.0 0 2 2 5 0 1 1 1 -28
+p750
+aVElfrid Payton ORL 11/23/2015 ORL @ CLE L 19 0 0 7 0.0 0 1 0.0 0 0 - 0 2 2 4 1 0 0 1 -19
+p751
+aVNikola Vucevic ORL 11/23/2015 ORL @ CLE L 26 12 6 10 60.0 0 0 - 0 0 - 2 3 5 2 0 0 1 2 -34
+p752
+aVAaron Gordon ORL 11/23/2015 ORL @ CLE L 25 11 5 10 50.0 1 2 50.0 0 0 - 3 3 6 1 0 3 2 3 12
+p753
+aVJason Smith ORL 11/23/2015 ORL @ CLE L 15 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 1 1 0 2 12
+p754
+aVMario Hezonja ORL 11/23/2015 ORL @ CLE L 14 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 0 0 0 1 1 7
+p755
+aVVictor Oladipo ORL 11/23/2015 ORL @ CLE L 26 10 5 12 41.7 0 3 0.0 0 0 - 1 2 3 2 1 0 1 2 -15
+p756
+aVChanning Frye ORL 11/23/2015 ORL @ CLE L 7 9 3 3 100.0 3 3 100.0 0 0 - 0 0 0 0 0 0 0 0 8
+p757
+aVAndrew Nicholson ORL 11/23/2015 ORL @ CLE L 24 18 6 9 66.7 3 5 60.0 3 3 100.0 1 7 8 0 1 0 2 4 -4
+p758
+aVAndrew Nicholson ORL 11/21/2015 ORL vs. SAC L 7 4 2 5 40.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -4
+p759
+aVDewayne Dedmon ORL 11/21/2015 ORL vs. SAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 2
+p760
+aVShabazz Napier ORL 11/21/2015 ORL vs. SAC L 12 3 1 1 100.0 1 1 100.0 0 0 - 1 2 3 3 0 0 0 1 0
+p761
+aVTobias Harris ORL 11/21/2015 ORL vs. SAC L 37 24 10 16 62.5 0 4 0.0 4 4 100.0 0 4 4 3 3 3 3 2 3
+p762
+aVNikola Vucevic ORL 11/21/2015 ORL vs. SAC L 25 11 5 10 50.0 0 0 - 1 2 50.0 4 7 11 2 1 0 1 3 -10
+p763
+aVEvan Fournier ORL 11/21/2015 ORL vs. SAC L 35 17 7 20 35.0 3 11 27.3 0 0 - 0 4 4 3 3 0 3 4 11
+p764
+aVElfrid Payton ORL 11/21/2015 ORL vs. SAC L 38 7 3 12 25.0 1 2 50.0 0 0 - 2 3 5 8 0 0 5 1 -3
+p765
+aVAaron Gordon ORL 11/21/2015 ORL vs. SAC L 21 6 3 7 42.9 0 2 0.0 0 0 - 2 5 7 2 1 1 1 4 -6
+p766
+aVChanning Frye ORL 11/21/2015 ORL vs. SAC L 10 3 1 4 25.0 1 3 33.3 0 0 - 0 4 4 0 0 1 0 1 8
+p767
+aVVictor Oladipo ORL 11/21/2015 ORL vs. SAC L 26 11 4 11 36.4 2 5 40.0 1 2 50.0 3 3 6 4 0 0 1 2 -15
+p768
+aVJason Smith ORL 11/21/2015 ORL vs. SAC L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -6
+p769
+aVMario Hezonja ORL 11/21/2015 ORL vs. SAC L 17 3 1 3 33.3 1 3 33.3 0 0 - 1 2 3 1 0 0 2 2 -10
+p770
+aVElfrid Payton ORL 11/18/2015 ORL vs. MIN W 41 24 11 23 47.8 0 0 - 2 5 40.0 2 5 7 6 4 0 1 2 12
+p771
+aVChanning Frye ORL 11/18/2015 ORL vs. MIN W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 4
+p772
+aVTobias Harris ORL 11/18/2015 ORL vs. MIN W 42 12 5 15 33.3 0 2 0.0 2 2 100.0 2 8 10 2 0 0 0 2 1
+p773
+aVAaron Gordon ORL 11/18/2015 ORL vs. MIN W 14 5 2 3 66.7 0 0 - 1 2 50.0 2 0 2 2 0 2 1 1 -2
+p774
+aVShabazz Napier ORL 11/18/2015 ORL vs. MIN W 15 9 3 9 33.3 2 4 50.0 1 1 100.0 0 0 0 1 1 0 0 0 -15
+p775
+aVDewayne Dedmon ORL 11/18/2015 ORL vs. MIN W 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -3
+p776
+aVEvan Fournier ORL 11/18/2015 ORL vs. MIN W 43 26 9 17 52.9 5 7 71.4 3 4 75.0 2 2 4 3 3 0 3 1 11
+p777
+aVNikola Vucevic ORL 11/18/2015 ORL vs. MIN W 16 8 4 13 30.8 0 0 - 0 0 - 6 2 8 1 1 0 0 1 -10
+p778
+aVAndrew Nicholson ORL 11/18/2015 ORL vs. MIN W 22 8 3 12 25.0 2 3 66.7 0 0 - 2 5 7 0 0 0 0 2 17
+p779
+aVJason Smith ORL 11/18/2015 ORL vs. MIN W 27 5 1 5 20.0 0 0 - 3 3 100.0 3 7 10 1 0 1 2 4 16
+p780
+aVMario Hezonja ORL 11/18/2015 ORL vs. MIN W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 -8
+p781
+aVVictor Oladipo ORL 11/18/2015 ORL vs. MIN W 20 1 0 6 0.0 0 2 0.0 1 4 25.0 1 2 3 2 1 1 1 4 -8
+p782
+aVTobias Harris ORL 11/14/2015 ORL @ WAS L 36 10 5 11 45.5 0 1 0.0 0 0 - 2 3 5 0 0 0 2 2 -5
+p783
+aVDewayne Dedmon ORL 11/14/2015 ORL @ WAS L 12 4 1 1 100.0 0 0 - 2 3 66.7 0 4 4 0 1 1 0 2 9
+p784
+aVEvan Fournier ORL 11/14/2015 ORL @ WAS L 37 18 7 17 41.2 1 6 16.7 3 3 100.0 0 6 6 6 1 0 0 1 -13
+p785
+aVAaron Gordon ORL 11/14/2015 ORL @ WAS L 32 12 4 10 40.0 0 2 0.0 4 6 66.7 1 6 7 2 3 0 0 4 -10
+p786
+aVNikola Vucevic ORL 11/14/2015 ORL @ WAS L 36 19 8 18 44.4 0 0 - 3 4 75.0 2 11 13 2 0 1 1 4 -18
+p787
+aVShabazz Napier ORL 11/14/2015 ORL @ WAS L 16 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 1 0 4 1 3
+p788
+aVMario Hezonja ORL 11/14/2015 ORL @ WAS L 17 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 1 0 0 1 2 0
+p789
+aVChanning Frye ORL 11/14/2015 ORL @ WAS L 16 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 2 0 0 0 3 1
+p790
+aVElfrid Payton ORL 11/14/2015 ORL @ WAS L 38 17 5 15 33.3 0 1 0.0 7 8 87.5 1 4 5 5 1 0 4 3 -12
+p791
+aVEvan Fournier ORL 11/13/2015 ORL vs. UTA W 37 21 7 15 46.7 2 6 33.3 5 5 100.0 0 5 5 2 1 0 1 3 14
+p792
+aVMario Hezonja ORL 11/13/2015 ORL vs. UTA W 9 6 2 4 50.0 1 3 33.3 1 1 100.0 0 0 0 0 1 0 3 1 -6
+p793
+aVDevyn Marble ORL 11/13/2015 ORL vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p794
+aVChanning Frye ORL 11/13/2015 ORL vs. UTA W 23 8 2 7 28.6 2 6 33.3 2 2 100.0 2 3 5 1 0 0 1 0 23
+p795
+aVShabazz Napier ORL 11/13/2015 ORL vs. UTA W 18 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 2 0 4 2 -4
+p796
+aVDewayne Dedmon ORL 11/13/2015 ORL vs. UTA W 16 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 3 2 2 -2
+p797
+aVAndrew Nicholson ORL 11/13/2015 ORL vs. UTA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -9
+p798
+aVAaron Gordon ORL 11/13/2015 ORL vs. UTA W 27 10 3 9 33.3 0 1 0.0 4 5 80.0 3 2 5 3 1 4 0 4 -11
+p799
+aVNikola Vucevic ORL 11/13/2015 ORL vs. UTA W 29 16 8 14 57.1 0 0 - 0 0 - 2 7 9 5 1 1 2 2 20
+p800
+aVElfrid Payton ORL 11/13/2015 ORL vs. UTA W 37 16 3 8 37.5 2 3 66.7 8 10 80.0 0 3 3 6 2 1 5 2 15
+p801
+aVTobias Harris ORL 11/13/2015 ORL vs. UTA W 40 19 4 9 44.4 3 6 50.0 8 8 100.0 2 11 13 3 3 1 2 2 10
+p802
+aVVictor Oladipo ORL 11/11/2015 ORL vs. LAL W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 -2
+p803
+aVDewayne Dedmon ORL 11/11/2015 ORL vs. LAL W 13 4 2 6 33.3 0 0 - 0 0 - 5 3 8 0 1 0 0 2 -4
+p804
+aVAaron Gordon ORL 11/11/2015 ORL vs. LAL W 16 4 1 3 33.3 1 2 50.0 1 2 50.0 3 2 5 1 0 0 1 2 1
+p805
+aVMario Hezonja ORL 11/11/2015 ORL vs. LAL W 19 7 1 4 25.0 1 3 33.3 4 4 100.0 1 1 2 0 0 1 0 2 11
+p806
+aVDevyn Marble ORL 11/11/2015 ORL vs. LAL W 6 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 -1
+p807
+aVShabazz Napier ORL 11/11/2015 ORL vs. LAL W 30 22 8 16 50.0 5 9 55.6 1 1 100.0 0 0 0 3 1 0 2 3 2
+p808
+aVEvan Fournier ORL 11/11/2015 ORL vs. LAL W 42 16 6 16 37.5 2 6 33.3 2 3 66.7 1 4 5 6 1 0 2 4 3
+p809
+aVNikola Vucevic ORL 11/11/2015 ORL vs. LAL W 26 18 9 16 56.3 0 0 - 0 0 - 1 4 5 2 0 1 1 0 6
+p810
+aVElfrid Payton ORL 11/11/2015 ORL vs. LAL W 29 2 1 13 7.7 0 0 - 0 2 0.0 3 7 10 8 1 0 1 1 -1
+p811
+aVChanning Frye ORL 11/11/2015 ORL vs. LAL W 16 14 6 7 85.7 2 2 100.0 0 0 - 4 1 5 0 1 1 0 1 1
+p812
+aVTobias Harris ORL 11/11/2015 ORL vs. LAL W 37 11 5 13 38.5 1 3 33.3 0 0 - 5 6 11 1 1 1 1 3 -6
+p813
+aVShabazz Napier ORL 11/09/2015 ORL @ IND L 2 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -2
+p814
+aVVictor Oladipo ORL 11/09/2015 ORL @ IND L 38 15 7 18 38.9 1 5 20.0 0 0 - 0 7 7 2 1 2 4 3 -8
+p815
+aVAaron Gordon ORL 11/09/2015 ORL @ IND L 17 4 1 5 20.0 0 2 0.0 2 3 66.7 1 1 2 2 0 1 3 4 -2
+p816
+aVCJ Watson ORL 11/09/2015 ORL @ IND L 17 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 2 1 0 1 1 -8
+p817
+aVDewayne Dedmon ORL 11/09/2015 ORL @ IND L 23 5 2 3 66.7 0 0 - 1 2 50.0 2 7 9 0 2 0 2 1 5
+p818
+aVMario Hezonja ORL 11/09/2015 ORL @ IND L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 2 1 1
+p819
+aVElfrid Payton ORL 11/09/2015 ORL @ IND L 37 11 3 7 42.9 0 0 - 5 6 83.3 0 2 2 7 3 0 4 1 -6
+p820
+aVTobias Harris ORL 11/09/2015 ORL @ IND L 29 8 3 13 23.1 1 3 33.3 1 2 50.0 2 8 10 0 0 0 1 0 -13
+p821
+aVEvan Fournier ORL 11/09/2015 ORL @ IND L 40 21 7 13 53.8 4 9 44.4 3 4 75.0 0 2 2 1 2 0 2 4 -16
+p822
+aVChanning Frye ORL 11/09/2015 ORL @ IND L 23 14 5 10 50.0 4 9 44.4 0 0 - 1 7 8 0 0 0 2 5 -16
+p823
+aVElfrid Payton ORL 11/07/2015 ORL @ PHI W 33 20 8 10 80.0 0 0 - 4 4 100.0 0 2 2 5 3 1 2 2 11
+p824
+aVEvan Fournier ORL 11/07/2015 ORL @ PHI W 40 17 7 12 58.3 3 4 75.0 0 0 - 0 3 3 2 1 0 5 5 1
+p825
+aVVictor Oladipo ORL 11/07/2015 ORL @ PHI W 34 15 6 18 33.3 1 3 33.3 2 2 100.0 1 4 5 3 2 0 1 0 10
+p826
+aVDewayne Dedmon ORL 11/07/2015 ORL @ PHI W 30 12 2 6 33.3 0 0 - 8 8 100.0 3 6 9 0 1 3 0 5 3
+p827
+aVAaron Gordon ORL 11/07/2015 ORL @ PHI W 22 10 4 7 57.1 1 3 33.3 1 2 50.0 3 3 6 2 1 0 0 1 3
+p828
+aVShabazz Napier ORL 11/07/2015 ORL @ PHI W 10 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 2 0 3
+p829
+aVJason Smith ORL 11/07/2015 ORL @ PHI W 18 10 4 8 50.0 0 0 - 2 2 100.0 1 4 5 1 0 2 2 4 5
+p830
+aVMario Hezonja ORL 11/07/2015 ORL @ PHI W 12 11 5 11 45.5 1 1 100.0 0 0 - 0 2 2 0 0 0 0 3 7
+p831
+aVTobias Harris ORL 11/07/2015 ORL @ PHI W 26 9 3 7 42.9 0 1 0.0 3 4 75.0 0 4 4 3 1 1 0 2 6
+p832
+aVCJ Watson ORL 11/07/2015 ORL @ PHI W 15 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 7 1 0 1 1 1
+p833
+aVVictor Oladipo ORL 11/06/2015 ORL vs. TOR W 31 18 7 14 50.0 1 2 50.0 3 4 75.0 0 7 7 6 2 0 1 1 8
+p834
+aVShabazz Napier ORL 11/06/2015 ORL vs. TOR W 17 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 6 0 0 1 1 12
+p835
+aVMario Hezonja ORL 11/06/2015 ORL vs. TOR W 22 6 2 6 33.3 0 4 0.0 2 2 100.0 0 0 0 1 1 0 0 0 5
+p836
+aVEvan Fournier ORL 11/06/2015 ORL vs. TOR W 28 11 3 11 27.3 1 4 25.0 4 4 100.0 0 1 1 1 0 0 1 1 -10
+p837
+aVAaron Gordon ORL 11/06/2015 ORL vs. TOR W 12 5 2 8 25.0 1 3 33.3 0 0 - 2 2 4 1 0 1 1 2 4
+p838
+aVChanning Frye ORL 11/06/2015 ORL vs. TOR W 14 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 0 0 0 1 3 6
+p839
+aVElfrid Payton ORL 11/06/2015 ORL vs. TOR W 15 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 2 2 -17
+p840
+aVJason Smith ORL 11/06/2015 ORL vs. TOR W 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 3
+p841
+aVTobias Harris ORL 11/06/2015 ORL vs. TOR W 36 20 8 10 80.0 2 2 100.0 2 4 50.0 2 7 9 2 1 0 4 2 6
+p842
+aVDewayne Dedmon ORL 11/06/2015 ORL vs. TOR W 30 10 3 5 60.0 0 0 - 4 6 66.7 0 4 4 1 0 3 1 6 -6
+p843
+aVCJ Watson ORL 11/06/2015 ORL vs. TOR W 27 12 4 10 40.0 2 4 50.0 2 2 100.0 1 4 5 2 0 0 0 4 14
+p844
+aVShabazz Napier ORL 11/04/2015 ORL @ HOU L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 1 0 3
+p845
+aVVictor Oladipo ORL 11/04/2015 ORL @ HOU L 44 18 7 16 43.8 1 5 20.0 3 3 100.0 0 7 7 3 2 0 1 2 0
+p846
+aVTobias Harris ORL 11/04/2015 ORL @ HOU L 21 16 6 10 60.0 1 2 50.0 3 4 75.0 2 3 5 2 1 0 2 3 -1
+p847
+aVAaron Gordon ORL 11/04/2015 ORL @ HOU L 32 19 7 11 63.6 0 0 - 5 7 71.4 4 4 8 1 0 1 1 1 -4
+p848
+aVNikola Vucevic ORL 11/04/2015 ORL @ HOU L 17 6 3 6 50.0 0 0 - 0 0 - 0 2 2 2 0 1 0 1 3
+p849
+aVJason Smith ORL 11/04/2015 ORL @ HOU L 10 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -2
+p850
+aVDewayne Dedmon ORL 11/04/2015 ORL @ HOU L 26 4 2 5 40.0 0 0 - 0 0 - 1 6 7 1 2 2 1 6 -6
+p851
+aVEvan Fournier ORL 11/04/2015 ORL @ HOU L 46 29 11 21 52.4 3 8 37.5 4 5 80.0 1 5 6 4 1 0 1 5 -3
+p852
+aVCJ Watson ORL 11/04/2015 ORL @ HOU L 20 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 6 4 0 2 1 7
+p853
+aVMario Hezonja ORL 11/04/2015 ORL @ HOU L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p854
+aVElfrid Payton ORL 11/04/2015 ORL @ HOU L 29 5 2 8 25.0 1 1 100.0 0 0 - 1 1 2 7 2 1 3 4 -13
+p855
+aVEvan Fournier ORL 11/03/2015 ORL @ NOP W 43 30 12 20 60.0 4 9 44.4 2 2 100.0 0 5 5 4 2 0 2 2 7
+p856
+aVNikola Vucevic ORL 11/03/2015 ORL @ NOP W 34 22 10 21 47.6 0 0 - 2 2 100.0 4 9 13 3 1 1 2 3 -4
+p857
+aVVictor Oladipo ORL 11/03/2015 ORL @ NOP W 36 12 4 8 50.0 1 3 33.3 3 3 100.0 0 7 7 3 0 1 2 2 9
+p858
+aVMario Hezonja ORL 11/03/2015 ORL @ NOP W 15 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 3 0 4
+p859
+aVJason Smith ORL 11/03/2015 ORL @ NOP W 16 6 2 8 25.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 2 12
+p860
+aVDewayne Dedmon ORL 11/03/2015 ORL @ NOP W 12 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 0 1 0 1 10
+p861
+aVElfrid Payton ORL 11/03/2015 ORL @ NOP W 29 8 4 12 33.3 0 2 0.0 0 0 - 2 2 4 10 1 0 5 2 4
+p862
+aVTobias Harris ORL 11/03/2015 ORL @ NOP W 29 9 4 11 36.4 1 3 33.3 0 0 - 4 9 13 1 1 0 1 4 -3
+p863
+aVAaron Gordon ORL 11/03/2015 ORL @ NOP W 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 3
+p864
+aVShabazz Napier ORL 11/03/2015 ORL @ NOP W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p865
+aVCJ Watson ORL 11/03/2015 ORL @ NOP W 20 5 1 1 100.0 0 0 - 3 3 100.0 0 2 2 2 0 0 1 0 6
+p866
+aVAndrew Nicholson ORL 11/01/2015 ORL @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 6
+p867
+aVTobias Harris ORL 11/01/2015 ORL @ CHI L 22 11 5 14 35.7 0 2 0.0 1 2 50.0 4 3 7 2 0 0 3 2 -2
+p868
+aVElfrid Payton ORL 11/01/2015 ORL @ CHI L 22 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 3 0 1 3 5 -11
+p869
+aVAaron Gordon ORL 11/01/2015 ORL @ CHI L 25 4 2 7 28.6 0 1 0.0 0 0 - 2 5 7 1 2 2 3 1 -4
+p870
+aVShabazz Napier ORL 11/01/2015 ORL @ CHI L 16 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 1 1 0 0 3 7
+p871
+aVNikola Vucevic ORL 11/01/2015 ORL @ CHI L 35 15 6 12 50.0 0 0 - 3 3 100.0 3 8 11 3 2 3 5 1 -2
+p872
+aVMario Hezonja ORL 11/01/2015 ORL @ CHI L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p873
+aVEvan Fournier ORL 11/01/2015 ORL @ CHI L 35 19 8 15 53.3 2 4 50.0 1 2 50.0 0 5 5 2 0 0 1 3 -15
+p874
+aVCJ Watson ORL 11/01/2015 ORL @ CHI L 14 5 2 4 50.0 1 2 50.0 0 2 0.0 1 2 3 2 0 0 0 0 -10
+p875
+aVJason Smith ORL 11/01/2015 ORL @ CHI L 14 8 3 7 42.9 1 2 50.0 1 2 50.0 0 2 2 1 0 2 0 1 7
+p876
+aVChanning Frye ORL 11/01/2015 ORL @ CHI L 9 1 0 2 0.0 0 2 0.0 1 2 50.0 1 1 2 1 0 0 0 0 -5
+p877
+aVVictor Oladipo ORL 11/01/2015 ORL @ CHI L 39 13 5 13 38.5 2 6 33.3 1 2 50.0 0 3 3 5 2 3 0 1 5
+p878
+aVElfrid Payton ORL 10/30/2015 ORL vs. OKC L 37 14 5 11 45.5 2 4 50.0 2 2 100.0 1 2 3 5 1 0 0 5 -7
+p879
+aVTobias Harris ORL 10/30/2015 ORL vs. OKC L 46 30 9 19 47.4 2 4 50.0 10 12 83.3 4 5 9 4 0 1 5 3 -2
+p880
+aVEvan Fournier ORL 10/30/2015 ORL vs. OKC L 45 22 8 21 38.1 2 8 25.0 4 6 66.7 1 4 5 3 2 0 2 3 5
+p881
+aVShabazz Napier ORL 10/30/2015 ORL vs. OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p882
+aVCJ Watson ORL 10/30/2015 ORL vs. OKC L 21 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 3 1 0 0 1 2
+p883
+aVVictor Oladipo ORL 10/30/2015 ORL vs. OKC L 51 21 8 27 29.6 3 10 30.0 2 2 100.0 0 13 13 10 3 1 5 5 -9
+p884
+aVNikola Vucevic ORL 10/30/2015 ORL vs. OKC L 45 26 10 14 71.4 0 0 - 6 8 75.0 3 4 7 0 1 5 1 5 3
+p885
+aVMario Hezonja ORL 10/30/2015 ORL vs. OKC L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 1 0 2 2 4
+p886
+aVDewayne Dedmon ORL 10/30/2015 ORL vs. OKC L 13 2 1 2 50.0 0 0 - 0 0 - 4 2 6 0 0 2 0 2 -5
+p887
+aVAaron Gordon ORL 10/30/2015 ORL vs. OKC L 18 15 4 4 100.0 1 1 100.0 6 8 75.0 1 2 3 0 1 1 1 5 -6
+p888
+aVJason Smith ORL 10/28/2015 ORL vs. WAS L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -5
+p889
+aVEvan Fournier ORL 10/28/2015 ORL vs. WAS L 27 3 1 7 14.3 0 3 0.0 1 2 50.0 0 4 4 1 2 0 1 1 -1
+p890
+aVDewayne Dedmon ORL 10/28/2015 ORL vs. WAS L 15 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 1 2 1 4 12
+p891
+aVVictor Oladipo ORL 10/28/2015 ORL vs. WAS L 36 17 7 20 35.0 1 8 12.5 2 2 100.0 3 8 11 2 2 0 1 2 -10
+p892
+aVTobias Harris ORL 10/28/2015 ORL vs. WAS L 31 15 7 14 50.0 0 3 0.0 1 2 50.0 2 5 7 3 0 1 2 4 -1
+p893
+aVElfrid Payton ORL 10/28/2015 ORL vs. WAS L 35 11 5 15 33.3 1 3 33.3 0 0 - 4 6 10 8 1 0 2 1 -11
+p894
+aVNikola Vucevic ORL 10/28/2015 ORL vs. WAS L 28 10 5 13 38.5 0 0 - 0 0 - 1 6 7 2 1 2 2 4 -10
+p895
+aVAaron Gordon ORL 10/28/2015 ORL vs. WAS L 17 12 4 8 50.0 0 2 0.0 4 6 66.7 4 3 7 1 0 1 0 0 2
+p896
+aVCJ Watson ORL 10/28/2015 ORL vs. WAS L 21 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 1 0 1 2 17
+p897
+aVMario Hezonja ORL 10/28/2015 ORL vs. WAS L 25 11 4 9 44.4 3 5 60.0 0 0 - 0 3 3 2 0 0 4 3 2
+p898
+a.

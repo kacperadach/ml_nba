@@ -1,0 +1,1640 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJerome James SEA 04/20/2005 SEA @ HOU L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 1 5 -14
+p2
+aVDamien Wilkins SEA 04/20/2005 SEA @ HOU L 44 9 4 10 40.0 0 5 0.0 1 2 50.0 3 4 7 2 0 0 2 3 -28
+p3
+aVLuke Ridnour SEA 04/20/2005 SEA @ HOU L 24 8 3 6 50.0 0 1 0.0 2 2 100.0 1 1 2 8 1 0 1 1 -19
+p4
+aVReggie Evans SEA 04/20/2005 SEA @ HOU L 24 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -19
+p5
+aVNick Collison SEA 04/20/2005 SEA @ HOU L 28 6 2 9 22.2 0 0 - 2 2 100.0 4 5 9 1 0 0 1 1 -9
+p6
+aVRobert Swift SEA 04/20/2005 SEA @ HOU L 17 10 4 4 100.0 0 0 - 2 3 66.7 1 2 3 0 0 4 0 3 4
+p7
+aVMateen Cleaves SEA 04/20/2005 SEA @ HOU L 31 8 3 8 37.5 0 2 0.0 2 2 100.0 1 2 3 0 1 0 1 0 -5
+p8
+aVVitaly Potapenko SEA 04/20/2005 SEA @ HOU L 18 13 4 6 66.7 0 0 - 5 7 71.4 0 2 2 1 0 0 1 4 -18
+p9
+aVRonald Murray SEA 04/20/2005 SEA @ HOU L 41 22 10 25 40.0 2 10 20.0 0 0 - 0 2 2 4 0 0 3 1 -32
+p10
+aVRonald Murray SEA 04/19/2005 SEA @ DAL L 11 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 0 4 1 -9
+p11
+aVJerome James SEA 04/19/2005 SEA @ DAL L 18 2 1 3 33.3 0 0 - 0 2 0.0 0 4 4 0 1 3 3 4 -6
+p12
+aVDamien Wilkins SEA 04/19/2005 SEA @ DAL L 26 9 3 9 33.3 1 3 33.3 2 2 100.0 1 0 1 2 1 0 0 1 -16
+p13
+aVNick Collison SEA 04/19/2005 SEA @ DAL L 29 9 4 6 66.7 0 0 - 1 4 25.0 3 6 9 0 1 1 1 4 -14
+p14
+aVLuke Ridnour SEA 04/19/2005 SEA @ DAL L 42 15 4 9 44.4 2 3 66.7 5 5 100.0 0 3 3 8 1 1 2 2 1
+p15
+aVReggie Evans SEA 04/19/2005 SEA @ DAL L 24 8 4 7 57.1 0 0 - 0 0 - 4 5 9 0 1 1 2 2 5
+p16
+aVRay Allen SEA 04/19/2005 SEA @ DAL L 39 21 7 17 41.2 5 11 45.5 2 2 100.0 0 4 4 3 2 0 3 2 2
+p17
+aVDanny Fortson SEA 04/19/2005 SEA @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p18
+aVRashard Lewis SEA 04/19/2005 SEA @ DAL L 27 21 7 12 58.3 2 3 66.7 5 5 100.0 3 2 5 0 2 0 1 3 9
+p19
+aVVitaly Potapenko SEA 04/19/2005 SEA @ DAL L 22 7 1 5 20.0 0 0 - 5 6 83.3 1 3 4 1 2 0 0 2 8
+p20
+aVLuke Ridnour SEA 04/17/2005 SEA @ MIN W 29 10 5 9 55.6 0 1 0.0 0 0 - 1 3 4 11 2 0 0 3 20
+p21
+aVDamien Wilkins SEA 04/17/2005 SEA @ MIN W 30 8 4 7 57.1 0 2 0.0 0 0 - 2 3 5 3 1 1 1 1 20
+p22
+aVRonald Murray SEA 04/17/2005 SEA @ MIN W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 1 0 1 -1
+p23
+aVJerome James SEA 04/17/2005 SEA @ MIN W 21 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 0 0 3 1 4 19
+p24
+aVRashard Lewis SEA 04/17/2005 SEA @ MIN W 34 28 10 17 58.8 5 7 71.4 3 4 75.0 1 4 5 1 0 0 1 3 10
+p25
+aVReggie Evans SEA 04/17/2005 SEA @ MIN W 23 6 3 5 60.0 0 0 - 0 0 - 3 4 7 0 0 0 1 1 14
+p26
+aVDanny Fortson SEA 04/17/2005 SEA @ MIN W 15 7 3 5 60.0 0 0 - 1 1 100.0 1 0 1 0 0 1 0 3 -5
+p27
+aVAntonio Daniels SEA 04/17/2005 SEA @ MIN W 19 5 2 8 25.0 0 2 0.0 1 1 100.0 0 4 4 5 0 0 0 0 -5
+p28
+aVNick Collison SEA 04/17/2005 SEA @ MIN W 13 5 2 4 50.0 0 0 - 1 1 100.0 1 0 1 0 1 0 3 3 -3
+p29
+aVRay Allen SEA 04/17/2005 SEA @ MIN W 41 34 15 26 57.7 4 11 36.4 0 3 0.0 1 9 10 2 1 0 1 4 9
+p30
+aVVitaly Potapenko SEA 04/17/2005 SEA @ MIN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p31
+aVLuke Ridnour SEA 04/15/2005 SEA vs. NOH W 25 10 3 9 33.3 1 2 50.0 3 3 100.0 0 4 4 5 0 0 3 1 3
+p32
+aVRashard Lewis SEA 04/15/2005 SEA vs. NOH W 34 6 1 12 8.3 1 6 16.7 3 4 75.0 0 4 4 2 2 1 1 2 33
+p33
+aVNick Collison SEA 04/15/2005 SEA vs. NOH W 26 8 3 5 60.0 0 0 - 2 4 50.0 3 7 10 1 0 2 1 1 17
+p34
+aVJerome James SEA 04/15/2005 SEA vs. NOH W 17 4 2 6 33.3 0 0 - 0 0 - 3 3 6 0 1 2 1 2 5
+p35
+aVReggie Evans SEA 04/15/2005 SEA vs. NOH W 20 4 2 4 50.0 0 0 - 0 0 - 3 4 7 0 1 0 0 3 11
+p36
+aVAntonio Daniels SEA 04/15/2005 SEA vs. NOH W 23 13 3 5 60.0 1 1 100.0 6 6 100.0 0 2 2 4 0 0 2 0 22
+p37
+aVDamien Wilkins SEA 04/15/2005 SEA vs. NOH W 13 5 2 5 40.0 0 2 0.0 1 2 50.0 0 1 1 0 1 0 0 3 -7
+p38
+aVRonald Murray SEA 04/15/2005 SEA vs. NOH W 25 10 4 9 44.4 2 3 66.7 0 0 - 0 6 6 1 0 1 0 2 19
+p39
+aVRay Allen SEA 04/15/2005 SEA vs. NOH W 39 32 12 19 63.2 4 9 44.4 4 4 100.0 0 0 0 7 2 0 1 3 21
+p40
+aVDanny Fortson SEA 04/15/2005 SEA vs. NOH W 15 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 0 0 1 2 3 5
+p41
+aVMateen Cleaves SEA 04/15/2005 SEA vs. NOH W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p42
+aVReggie Evans SEA 04/13/2005 SEA vs. DAL L 23 6 1 3 33.3 0 0 - 4 6 66.7 8 5 13 2 0 0 1 4 -5
+p43
+aVRashard Lewis SEA 04/13/2005 SEA vs. DAL L 36 12 5 13 38.5 1 7 14.3 1 2 50.0 0 4 4 2 1 1 0 2 -13
+p44
+aVAntonio Daniels SEA 04/13/2005 SEA vs. DAL L 26 17 5 13 38.5 1 4 25.0 6 6 100.0 0 1 1 4 0 0 0 2 -5
+p45
+aVRay Allen SEA 04/13/2005 SEA vs. DAL L 39 19 7 20 35.0 2 6 33.3 3 4 75.0 3 3 6 3 0 0 1 3 0
+p46
+aVDanny Fortson SEA 04/13/2005 SEA vs. DAL L 16 5 1 2 50.0 0 0 - 3 4 75.0 2 5 7 0 0 0 3 2 0
+p47
+aVRonald Murray SEA 04/13/2005 SEA vs. DAL L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 2 2
+p48
+aVLuke Ridnour SEA 04/13/2005 SEA vs. DAL L 31 5 2 9 22.2 1 5 20.0 0 0 - 0 5 5 4 0 0 1 1 7
+p49
+aVDamien Wilkins SEA 04/13/2005 SEA vs. DAL L 20 10 4 6 66.7 2 2 100.0 0 0 - 0 1 1 0 0 0 1 2 -4
+p50
+aVJerome James SEA 04/13/2005 SEA vs. DAL L 20 10 5 9 55.6 0 0 - 0 0 - 2 4 6 0 0 1 2 5 3
+p51
+aVVitaly Potapenko SEA 04/13/2005 SEA vs. DAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p52
+aVNick Collison SEA 04/13/2005 SEA vs. DAL L 17 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 0 1 0 4 -15
+p53
+aVDamien Wilkins SEA 04/11/2005 SEA vs. HOU L 41 3 1 9 11.1 0 4 0.0 1 2 50.0 2 1 3 4 1 0 0 2 -8
+p54
+aVReggie Evans SEA 04/11/2005 SEA vs. HOU L 24 7 3 6 50.0 0 0 - 1 1 100.0 2 5 7 0 1 0 1 4 -8
+p55
+aVLuke Ridnour SEA 04/11/2005 SEA vs. HOU L 43 12 4 9 44.4 2 4 50.0 2 2 100.0 1 1 2 2 0 0 2 3 -17
+p56
+aVNick Collison SEA 04/11/2005 SEA vs. HOU L 17 8 3 7 42.9 0 0 - 2 3 66.7 3 5 8 0 0 0 1 3 -1
+p57
+aVJerome James SEA 04/11/2005 SEA vs. HOU L 13 2 1 7 14.3 0 0 - 0 0 - 1 1 2 0 1 1 1 5 -4
+p58
+aVRay Allen SEA 04/11/2005 SEA vs. HOU L 41 18 7 22 31.8 1 9 11.1 3 3 100.0 0 5 5 3 1 0 0 1 -13
+p59
+aVVitaly Potapenko SEA 04/11/2005 SEA vs. HOU L 33 13 5 12 41.7 0 0 - 3 3 100.0 3 4 7 0 0 2 0 5 -7
+p60
+aVRonald Murray SEA 04/11/2005 SEA vs. HOU L 28 15 4 10 40.0 2 3 66.7 5 6 83.3 1 5 6 4 1 0 1 3 -2
+p61
+aVRonald Murray SEA 04/09/2005 SEA @ DEN L 38 20 8 23 34.8 1 4 25.0 3 4 75.0 1 2 3 4 4 1 2 2 -10
+p62
+aVVitaly Potapenko SEA 04/09/2005 SEA @ DEN L 23 12 5 8 62.5 0 1 0.0 2 2 100.0 4 2 6 3 0 0 1 4 -2
+p63
+aVDamien Wilkins SEA 04/09/2005 SEA @ DEN L 28 14 5 10 50.0 0 2 0.0 4 5 80.0 1 2 3 3 1 2 1 4 -16
+p64
+aVLuke Ridnour SEA 04/09/2005 SEA @ DEN L 26 10 5 10 50.0 0 1 0.0 0 0 - 1 1 2 7 1 0 3 4 -16
+p65
+aVReggie Evans SEA 04/09/2005 SEA @ DEN L 35 4 1 4 25.0 0 0 - 2 2 100.0 4 6 10 0 0 1 1 4 -13
+p66
+aVMateen Cleaves SEA 04/09/2005 SEA @ DEN L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 3 0 0 0 0 3
+p67
+aVNick Collison SEA 04/09/2005 SEA @ DEN L 25 6 3 7 42.9 0 0 - 0 0 - 3 3 6 0 0 0 1 5 -6
+p68
+aVRay Allen SEA 04/09/2005 SEA @ DEN L 40 32 10 20 50.0 5 10 50.0 7 9 77.8 0 2 2 5 3 0 1 6 -7
+p69
+aVJerome James SEA 04/09/2005 SEA @ DEN L 13 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 1 2 3 5 -13
+p70
+aVVitaly Potapenko SEA 04/08/2005 SEA vs. LAL L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p71
+aVDanny Fortson SEA 04/08/2005 SEA vs. LAL L 14 3 0 0 - 0 0 - 3 4 75.0 0 3 3 1 0 0 0 4 -3
+p72
+aVDamien Wilkins SEA 04/08/2005 SEA vs. LAL L 37 12 4 16 25.0 1 5 20.0 3 5 60.0 4 1 5 3 0 1 2 5 -19
+p73
+aVMateen Cleaves SEA 04/08/2005 SEA vs. LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p74
+aVNick Collison SEA 04/08/2005 SEA vs. LAL L 32 16 6 10 60.0 0 0 - 4 4 100.0 4 7 11 0 0 1 0 2 -8
+p75
+aVRonald Murray SEA 04/08/2005 SEA vs. LAL L 33 12 3 11 27.3 0 2 0.0 6 8 75.0 0 1 1 7 1 1 1 1 -14
+p76
+aVReggie Evans SEA 04/08/2005 SEA vs. LAL L 26 3 1 2 50.0 0 0 - 1 4 25.0 4 7 11 0 0 0 1 3 -11
+p77
+aVRay Allen SEA 04/08/2005 SEA vs. LAL L 42 30 12 21 57.1 5 13 38.5 1 1 100.0 0 4 4 3 3 0 1 4 -20
+p78
+aVLuke Ridnour SEA 04/08/2005 SEA vs. LAL L 39 12 3 10 30.0 2 6 33.3 4 4 100.0 1 4 5 5 0 1 5 1 -22
+p79
+aVJerome James SEA 04/08/2005 SEA vs. LAL L 10 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 1 2 1 -12
+p80
+aVLuke Ridnour SEA 04/05/2005 SEA @ SAC L 38 14 5 12 41.7 0 2 0.0 4 4 100.0 0 4 4 7 1 1 2 2 -7
+p81
+aVJerome James SEA 04/05/2005 SEA @ SAC L 23 13 6 9 66.7 0 0 - 1 2 50.0 2 0 2 0 0 1 1 1 -11
+p82
+aVRobert Swift SEA 04/05/2005 SEA @ SAC L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 1 1
+p83
+aVReggie Evans SEA 04/05/2005 SEA @ SAC L 28 11 4 8 50.0 0 0 - 3 6 50.0 7 5 12 1 2 1 1 4 -4
+p84
+aVNick Collison SEA 04/05/2005 SEA @ SAC L 14 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 1 1 2 -11
+p85
+aVRonald Murray SEA 04/05/2005 SEA @ SAC L 23 3 1 9 11.1 0 2 0.0 1 2 50.0 0 1 1 0 3 1 1 1 -21
+p86
+aVRay Allen SEA 04/05/2005 SEA @ SAC L 41 23 8 18 44.4 2 5 40.0 5 6 83.3 1 5 6 4 1 0 1 1 -20
+p87
+aVDamien Wilkins SEA 04/05/2005 SEA @ SAC L 40 20 9 17 52.9 2 6 33.3 0 0 - 2 3 5 0 0 1 3 3 -7
+p88
+aVVitaly Potapenko SEA 04/05/2005 SEA @ SAC L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 3
+p89
+aVDanny Fortson SEA 04/05/2005 SEA @ SAC L 15 8 2 4 50.0 0 0 - 4 4 100.0 2 1 3 0 0 0 0 4 -14
+p90
+aVAntonio Daniels SEA 04/05/2005 SEA @ SAC L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -14
+p91
+aVReggie Evans SEA 04/03/2005 SEA @ GSW L 20 3 1 7 14.3 0 0 - 1 2 50.0 3 0 3 1 3 0 1 2 -3
+p92
+aVLuke Ridnour SEA 04/03/2005 SEA @ GSW L 28 12 4 12 33.3 1 4 25.0 3 4 75.0 1 1 2 2 1 0 1 1 -7
+p93
+aVDamien Wilkins SEA 04/03/2005 SEA @ GSW L 28 6 3 10 30.0 0 2 0.0 0 0 - 0 2 2 0 2 0 1 3 -5
+p94
+aVRonald Murray SEA 04/03/2005 SEA @ GSW L 27 13 6 17 35.3 1 4 25.0 0 0 - 1 5 6 0 0 0 2 2 -8
+p95
+aVAntonio Daniels SEA 04/03/2005 SEA @ GSW L 30 13 2 6 33.3 0 2 0.0 9 9 100.0 0 1 1 5 0 0 3 2 -3
+p96
+aVDanny Fortson SEA 04/03/2005 SEA @ GSW L 21 10 1 3 33.3 0 0 - 8 8 100.0 3 5 8 0 1 0 3 4 -3
+p97
+aVJerome James SEA 04/03/2005 SEA @ GSW L 19 6 3 5 60.0 0 0 - 0 0 - 3 2 5 2 0 0 0 4 -1
+p98
+aVNick Collison SEA 04/03/2005 SEA @ GSW L 25 2 0 0 - 0 0 - 2 2 100.0 1 4 5 0 2 1 1 3 -3
+p99
+aVRay Allen SEA 04/03/2005 SEA @ GSW L 42 27 10 27 37.0 6 15 40.0 1 2 50.0 3 6 9 5 2 0 2 0 -12
+p100
+aVDamien Wilkins SEA 04/01/2005 SEA vs. POR W 35 17 7 13 53.8 3 6 50.0 0 1 0.0 2 2 4 2 1 1 1 2 2
+p101
+aVDanny Fortson SEA 04/01/2005 SEA vs. POR W 16 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 0 0 2 3 -3
+p102
+aVRay Allen SEA 04/01/2005 SEA vs. POR W 42 19 8 24 33.3 3 8 37.5 0 0 - 1 2 3 4 1 0 1 2 4
+p103
+aVRonald Murray SEA 04/01/2005 SEA vs. POR W 16 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 0 1 0 1 0 8
+p104
+aVJerome James SEA 04/01/2005 SEA vs. POR W 21 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 1 0 3 4 1
+p105
+aVAntonio Daniels SEA 04/01/2005 SEA vs. POR W 27 12 3 6 50.0 0 1 0.0 6 8 75.0 1 1 2 5 1 0 1 0 -5
+p106
+aVLuke Ridnour SEA 04/01/2005 SEA vs. POR W 25 7 3 8 37.5 1 2 50.0 0 0 - 0 5 5 9 1 0 2 3 1
+p107
+aVReggie Evans SEA 04/01/2005 SEA vs. POR W 29 5 2 5 40.0 0 0 - 1 3 33.3 4 9 13 1 3 0 1 2 4
+p108
+aVNick Collison SEA 04/01/2005 SEA vs. POR W 29 14 7 13 53.8 0 0 - 0 0 - 5 3 8 0 0 1 1 4 -2
+p109
+aVDamien Wilkins SEA 03/30/2005 SEA @ SAS L 30 11 5 6 83.3 1 1 100.0 0 0 - 2 5 7 1 2 1 2 2 0
+p110
+aVRay Allen SEA 03/30/2005 SEA @ SAS L 38 14 6 17 35.3 0 3 0.0 2 2 100.0 1 3 4 1 0 0 1 3 -17
+p111
+aVReggie Evans SEA 03/30/2005 SEA @ SAS L 26 5 1 3 33.3 0 0 - 3 7 42.9 4 8 12 1 0 0 0 3 -15
+p112
+aVAntonio Daniels SEA 03/30/2005 SEA @ SAS L 30 11 3 8 37.5 1 3 33.3 4 4 100.0 0 3 3 1 1 0 2 1 4
+p113
+aVRobert Swift SEA 03/30/2005 SEA @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p114
+aVLuke Ridnour SEA 03/30/2005 SEA @ SAS L 25 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 2 1 0 2 3 -19
+p115
+aVNick Collison SEA 03/30/2005 SEA @ SAS L 26 11 5 8 62.5 0 0 - 1 2 50.0 2 6 8 1 1 0 3 3 7
+p116
+aVRonald Murray SEA 03/30/2005 SEA @ SAS L 33 17 7 19 36.8 1 2 50.0 2 2 100.0 4 3 7 0 1 2 2 2 -9
+p117
+aVVitaly Potapenko SEA 03/30/2005 SEA @ SAS L 8 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 4
+p118
+aVJerome James SEA 03/30/2005 SEA @ SAS L 21 2 1 6 16.7 0 0 - 0 0 - 0 1 1 0 1 1 1 4 -22
+p119
+aVRay Allen SEA 03/29/2005 SEA @ MEM W 38 22 8 20 40.0 5 7 71.4 1 1 100.0 4 2 6 2 0 0 4 4 10
+p120
+aVReggie Evans SEA 03/29/2005 SEA @ MEM W 30 12 2 5 40.0 0 1 0.0 8 14 57.1 7 6 13 3 1 0 2 3 -4
+p121
+aVJerome James SEA 03/29/2005 SEA @ MEM W 32 22 9 11 81.8 0 0 - 4 7 57.1 2 4 6 1 2 2 2 4 5
+p122
+aVRonald Murray SEA 03/29/2005 SEA @ MEM W 29 4 2 10 20.0 0 3 0.0 0 0 - 0 0 0 1 0 0 1 1 -5
+p123
+aVAntonio Daniels SEA 03/29/2005 SEA @ MEM W 17 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 -2
+p124
+aVDamien Wilkins SEA 03/29/2005 SEA @ MEM W 25 13 5 11 45.5 3 4 75.0 0 0 - 3 1 4 1 0 0 0 4 8
+p125
+aVNick Collison SEA 03/29/2005 SEA @ MEM W 24 11 3 5 60.0 0 0 - 5 5 100.0 2 4 6 1 1 1 0 3 6
+p126
+aVLuke Ridnour SEA 03/29/2005 SEA @ MEM W 39 15 6 12 50.0 1 4 25.0 2 2 100.0 1 1 2 9 1 0 2 2 4
+p127
+aVVitaly Potapenko SEA 03/29/2005 SEA @ MEM W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p128
+aVAntonio Daniels SEA 03/27/2005 SEA vs. WAS L 31 15 5 9 55.6 0 2 0.0 5 6 83.3 0 1 1 2 1 0 3 0 -3
+p129
+aVDamien Wilkins SEA 03/27/2005 SEA vs. WAS L 13 9 3 8 37.5 0 4 0.0 3 4 75.0 2 3 5 1 2 1 0 4 2
+p130
+aVRay Allen SEA 03/27/2005 SEA vs. WAS L 43 27 7 20 35.0 2 5 40.0 11 12 91.7 1 7 8 2 2 0 3 2 12
+p131
+aVNick Collison SEA 03/27/2005 SEA vs. WAS L 29 14 5 8 62.5 0 0 - 4 5 80.0 3 5 8 2 1 2 1 3 7
+p132
+aVVitaly Potapenko SEA 03/27/2005 SEA vs. WAS L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -5
+p133
+aVRonald Murray SEA 03/27/2005 SEA vs. WAS L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 4 -1
+p134
+aVRashard Lewis SEA 03/27/2005 SEA vs. WAS L 37 16 5 16 31.3 3 9 33.3 3 4 75.0 0 3 3 2 1 1 1 3 -4
+p135
+aVReggie Evans SEA 03/27/2005 SEA vs. WAS L 26 0 0 2 0.0 0 0 - 0 0 - 1 7 8 2 1 0 1 4 -6
+p136
+aVLuke Ridnour SEA 03/27/2005 SEA vs. WAS L 25 7 3 8 37.5 1 1 100.0 0 0 - 0 2 2 4 0 0 2 1 -2
+p137
+aVJerome James SEA 03/27/2005 SEA vs. WAS L 17 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 3 4 -5
+p138
+aVDamien Wilkins SEA 03/25/2005 SEA vs. NYK W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -7
+p139
+aVRonald Murray SEA 03/25/2005 SEA vs. NYK W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -9
+p140
+aVReggie Evans SEA 03/25/2005 SEA vs. NYK W 24 4 2 2 100.0 0 0 - 0 3 0.0 2 8 10 0 2 0 1 3 0
+p141
+aVRay Allen SEA 03/25/2005 SEA vs. NYK W 47 40 13 23 56.5 6 11 54.5 8 8 100.0 0 9 9 2 0 1 2 2 7
+p142
+aVVitaly Potapenko SEA 03/25/2005 SEA vs. NYK W 28 6 2 3 66.7 0 0 - 2 2 100.0 2 3 5 1 1 0 3 2 13
+p143
+aVLuke Ridnour SEA 03/25/2005 SEA vs. NYK W 39 15 5 11 45.5 1 2 50.0 4 4 100.0 0 2 2 3 1 1 3 3 20
+p144
+aVJerome James SEA 03/25/2005 SEA vs. NYK W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 4 2
+p145
+aVRashard Lewis SEA 03/25/2005 SEA vs. NYK W 46 30 8 22 36.4 2 8 25.0 12 12 100.0 4 3 7 4 0 0 3 4 7
+p146
+aVNick Collison SEA 03/25/2005 SEA vs. NYK W 30 8 4 6 66.7 0 0 - 0 0 - 3 6 9 1 1 3 1 4 2
+p147
+aVAntonio Daniels SEA 03/25/2005 SEA vs. NYK W 24 4 1 7 14.3 0 3 0.0 2 5 40.0 1 1 2 7 0 0 1 0 5
+p148
+aVJerome James SEA 03/24/2005 SEA @ POR W 26 14 7 13 53.8 0 0 - 0 1 0.0 4 3 7 1 0 3 2 4 14
+p149
+aVRay Allen SEA 03/24/2005 SEA @ POR W 39 19 7 19 36.8 3 10 30.0 2 3 66.7 1 7 8 1 1 0 1 1 7
+p150
+aVAntonio Daniels SEA 03/24/2005 SEA @ POR W 21 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 1 -10
+p151
+aVVitaly Potapenko SEA 03/24/2005 SEA @ POR W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p152
+aVNick Collison SEA 03/24/2005 SEA @ POR W 28 11 4 7 57.1 0 0 - 3 5 60.0 5 4 9 0 0 1 4 3 -8
+p153
+aVDamien Wilkins SEA 03/24/2005 SEA @ POR W 28 21 7 10 70.0 2 3 66.7 5 6 83.3 0 2 2 1 2 1 0 3 20
+p154
+aVReggie Evans SEA 03/24/2005 SEA @ POR W 22 3 1 2 50.0 0 0 - 1 4 25.0 4 5 9 4 0 0 2 3 14
+p155
+aVDanny Fortson SEA 03/24/2005 SEA @ POR W 15 4 0 3 0.0 0 0 - 4 4 100.0 3 2 5 0 1 0 3 2 -9
+p156
+aVRashard Lewis SEA 03/24/2005 SEA @ POR W 10 2 1 6 16.7 0 1 0.0 0 0 - 2 0 2 1 0 0 0 0 -2
+p157
+aVLuke Ridnour SEA 03/24/2005 SEA @ POR W 37 13 5 11 45.5 0 0 - 3 3 100.0 0 3 3 3 3 1 2 2 19
+p158
+aVRonald Murray SEA 03/24/2005 SEA @ POR W 10 3 1 4 25.0 1 1 100.0 0 0 - 1 0 1 1 0 0 2 1 -14
+p159
+aVJerome James SEA 03/22/2005 SEA vs. MIL W 18 4 2 6 33.3 0 0 - 0 0 - 0 3 3 0 1 2 1 5 -11
+p160
+aVNick Collison SEA 03/22/2005 SEA vs. MIL W 28 5 1 2 50.0 0 0 - 3 4 75.0 2 5 7 0 1 1 0 1 15
+p161
+aVReggie Evans SEA 03/22/2005 SEA vs. MIL W 19 2 1 1 100.0 0 0 - 0 0 - 2 4 6 3 1 0 0 2 -8
+p162
+aVAntonio Daniels SEA 03/22/2005 SEA vs. MIL W 30 10 4 14 28.6 1 3 33.3 1 1 100.0 0 4 4 4 1 0 1 3 14
+p163
+aVDamien Wilkins SEA 03/22/2005 SEA vs. MIL W 10 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 3 2
+p164
+aVLuke Ridnour SEA 03/22/2005 SEA vs. MIL W 33 21 6 12 50.0 0 0 - 9 9 100.0 1 1 2 9 1 0 2 3 10
+p165
+aVRashard Lewis SEA 03/22/2005 SEA vs. MIL W 40 29 11 23 47.8 7 11 63.6 0 0 - 3 2 5 4 4 1 1 2 4
+p166
+aVRonald Murray SEA 03/22/2005 SEA vs. MIL W 39 13 5 16 31.3 2 7 28.6 1 2 50.0 0 3 3 3 0 0 1 2 1
+p167
+aVVitaly Potapenko SEA 03/22/2005 SEA vs. MIL W 23 8 4 9 44.4 0 0 - 0 0 - 2 2 4 1 0 0 1 1 13
+p168
+aVNick Collison SEA 03/20/2005 SEA @ LAL W 22 7 3 3 100.0 0 0 - 1 1 100.0 1 4 5 1 1 0 0 5 -3
+p169
+aVRashard Lewis SEA 03/20/2005 SEA @ LAL W 43 27 9 15 60.0 4 7 57.1 5 6 83.3 4 7 11 2 1 4 2 1 1
+p170
+aVDamien Wilkins SEA 03/20/2005 SEA @ LAL W 15 2 1 2 50.0 0 0 - 0 2 0.0 0 3 3 1 2 1 0 1 9
+p171
+aVRay Allen SEA 03/20/2005 SEA @ LAL W 10 6 2 8 25.0 1 3 33.3 1 1 100.0 0 1 1 3 0 0 0 0 5
+p172
+aVVitaly Potapenko SEA 03/20/2005 SEA @ LAL W 28 11 2 4 50.0 0 0 - 7 7 100.0 1 3 4 0 1 0 1 3 -5
+p173
+aVRonald Murray SEA 03/20/2005 SEA @ LAL W 35 25 8 17 47.1 0 3 0.0 9 13 69.2 1 4 5 1 0 1 1 2 -2
+p174
+aVLuke Ridnour SEA 03/20/2005 SEA @ LAL W 34 11 4 14 28.6 1 4 25.0 2 2 100.0 0 2 2 7 0 1 2 3 1
+p175
+aVAntonio Daniels SEA 03/20/2005 SEA @ LAL W 29 13 5 8 62.5 0 1 0.0 3 3 100.0 0 1 1 4 1 0 1 1 -6
+p176
+aVReggie Evans SEA 03/20/2005 SEA @ LAL W 24 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 1 0 3 3 10
+p177
+aVAntonio Daniels SEA 03/18/2005 SEA vs. ORL W 24 10 4 8 50.0 0 2 0.0 2 2 100.0 0 1 1 2 1 0 1 2 -6
+p178
+aVLuke Ridnour SEA 03/18/2005 SEA vs. ORL W 30 7 3 9 33.3 1 2 50.0 0 0 - 1 0 1 6 0 1 3 2 9
+p179
+aVReggie Evans SEA 03/18/2005 SEA vs. ORL W 28 5 2 4 50.0 0 0 - 1 2 50.0 2 6 8 0 0 1 1 0 8
+p180
+aVRonald Murray SEA 03/18/2005 SEA vs. ORL W 28 8 4 11 36.4 0 4 0.0 0 0 - 0 5 5 2 1 0 1 2 2
+p181
+aVRashard Lewis SEA 03/18/2005 SEA vs. ORL W 42 13 4 13 30.8 1 7 14.3 4 6 66.7 0 5 5 4 0 3 0 1 10
+p182
+aVRay Allen SEA 03/18/2005 SEA vs. ORL W 42 38 12 21 57.1 2 7 28.6 12 12 100.0 1 6 7 4 1 0 2 1 11
+p183
+aVNick Collison SEA 03/18/2005 SEA vs. ORL W 25 11 5 9 55.6 0 0 - 1 2 50.0 8 2 10 1 0 0 0 3 4
+p184
+aVVitaly Potapenko SEA 03/18/2005 SEA vs. ORL W 16 6 3 4 75.0 0 0 - 0 0 - 1 6 7 0 0 0 0 4 9
+p185
+aVRobert Swift SEA 03/18/2005 SEA vs. ORL W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p186
+aVNick Collison SEA 03/16/2005 SEA @ DET L 17 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 0 0 2 0 5 17
+p187
+aVRonald Murray SEA 03/16/2005 SEA @ DET L 19 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 4 1 0 0 0 13
+p188
+aVRashard Lewis SEA 03/16/2005 SEA @ DET L 44 26 10 21 47.6 3 7 42.9 3 3 100.0 1 4 5 4 3 0 1 2 -2
+p189
+aVJerome James SEA 03/16/2005 SEA @ DET L 29 12 6 11 54.5 0 0 - 0 0 - 1 3 4 0 0 2 0 1 -17
+p190
+aVRay Allen SEA 03/16/2005 SEA @ DET L 28 20 6 11 54.5 3 5 60.0 5 6 83.3 1 5 6 3 0 0 2 4 -22
+p191
+aVLuke Ridnour SEA 03/16/2005 SEA @ DET L 19 5 2 3 66.7 1 2 50.0 0 1 0.0 0 1 1 5 0 0 3 3 -12
+p192
+aVVladimir Radmanovic SEA 03/16/2005 SEA @ DET L 30 9 4 12 33.3 1 6 16.7 0 0 - 0 6 6 2 1 0 2 3 0
+p193
+aVReggie Evans SEA 03/16/2005 SEA @ DET L 24 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 3 2 -19
+p194
+aVAntonio Daniels SEA 03/16/2005 SEA @ DET L 31 10 5 10 50.0 0 2 0.0 0 0 - 0 4 4 4 0 1 2 1 7
+p195
+aVJerome James SEA 03/15/2005 SEA @ CHI W 23 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 2 0 3 3 5 1
+p196
+aVVladimir Radmanovic SEA 03/15/2005 SEA @ CHI W 22 7 1 7 14.3 1 4 25.0 4 6 66.7 2 3 5 2 0 0 1 4 3
+p197
+aVRashard Lewis SEA 03/15/2005 SEA @ CHI W 39 30 11 14 78.6 0 2 0.0 8 10 80.0 2 7 9 3 0 1 3 3 3
+p198
+aVReggie Evans SEA 03/15/2005 SEA @ CHI W 27 6 1 3 33.3 0 0 - 4 8 50.0 9 10 19 1 1 0 2 3 13
+p199
+aVLuke Ridnour SEA 03/15/2005 SEA @ CHI W 26 8 4 6 66.7 0 0 - 0 2 0.0 0 3 3 1 1 0 1 1 4
+p200
+aVRonald Murray SEA 03/15/2005 SEA @ CHI W 6 4 1 1 100.0 0 0 - 2 4 50.0 0 1 1 0 1 0 1 0 -6
+p201
+aVRay Allen SEA 03/15/2005 SEA @ CHI W 39 17 5 18 27.8 1 4 25.0 6 6 100.0 1 0 1 7 0 0 1 2 5
+p202
+aVAntonio Daniels SEA 03/15/2005 SEA @ CHI W 31 9 3 8 37.5 1 2 50.0 2 2 100.0 0 4 4 5 1 0 2 4 1
+p203
+aVVitaly Potapenko SEA 03/15/2005 SEA @ CHI W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p204
+aVNick Collison SEA 03/15/2005 SEA @ CHI W 19 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 1 0 0 0 5 13
+p205
+aVDanny Fortson SEA 03/15/2005 SEA @ CHI W 6 4 1 2 50.0 0 0 - 2 3 66.7 1 2 3 0 0 0 2 6 -6
+p206
+aVRashard Lewis SEA 03/13/2005 SEA @ NYK W 42 23 10 19 52.6 3 7 42.9 0 0 - 2 4 6 3 0 1 4 4 12
+p207
+aVNick Collison SEA 03/13/2005 SEA @ NYK W 17 8 3 4 75.0 0 0 - 2 3 66.7 1 5 6 0 0 0 0 3 12
+p208
+aVRonald Murray SEA 03/13/2005 SEA @ NYK W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -1
+p209
+aVVladimir Radmanovic SEA 03/13/2005 SEA @ NYK W 27 5 2 9 22.2 1 4 25.0 0 0 - 0 3 3 0 2 1 2 1 8
+p210
+aVJerome James SEA 03/13/2005 SEA @ NYK W 14 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 0 0 3 3 2 4
+p211
+aVAntonio Daniels SEA 03/13/2005 SEA @ NYK W 27 11 4 8 50.0 0 2 0.0 3 4 75.0 0 2 2 7 1 0 2 1 5
+p212
+aVDanny Fortson SEA 03/13/2005 SEA @ NYK W 18 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 6 1
+p213
+aVReggie Evans SEA 03/13/2005 SEA @ NYK W 28 8 2 3 66.7 0 0 - 4 6 66.7 7 9 16 1 0 0 3 2 -3
+p214
+aVRay Allen SEA 03/13/2005 SEA @ NYK W 39 19 7 20 35.0 2 8 25.0 3 3 100.0 0 1 1 1 0 0 0 1 8
+p215
+aVLuke Ridnour SEA 03/13/2005 SEA @ NYK W 24 6 2 5 40.0 1 1 100.0 1 2 50.0 0 3 3 3 1 0 2 2 4
+p216
+aVAntonio Daniels SEA 03/11/2005 SEA vs. CHI L 24 10 3 8 37.5 1 2 50.0 3 4 75.0 0 0 0 3 1 0 1 0 -5
+p217
+aVVitaly Potapenko SEA 03/11/2005 SEA vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p218
+aVJerome James SEA 03/11/2005 SEA vs. CHI L 24 2 1 4 25.0 0 0 - 0 0 - 2 4 6 2 0 4 3 3 5
+p219
+aVLuke Ridnour SEA 03/11/2005 SEA vs. CHI L 41 14 5 9 55.6 1 2 50.0 3 3 100.0 0 2 2 6 5 2 3 2 0
+p220
+aVReggie Evans SEA 03/11/2005 SEA vs. CHI L 27 9 3 6 50.0 0 0 - 3 4 75.0 3 8 11 2 0 0 1 4 -3
+p221
+aVNick Collison SEA 03/11/2005 SEA vs. CHI L 19 9 4 8 50.0 0 0 - 1 1 100.0 4 1 5 0 0 1 0 5 -2
+p222
+aVRashard Lewis SEA 03/11/2005 SEA vs. CHI L 40 27 10 21 47.6 3 6 50.0 4 6 66.7 5 2 7 0 1 2 3 6 1
+p223
+aVVladimir Radmanovic SEA 03/11/2005 SEA vs. CHI L 23 9 4 10 40.0 1 5 20.0 0 0 - 0 4 4 0 1 0 1 6 0
+p224
+aVRay Allen SEA 03/11/2005 SEA vs. CHI L 40 17 4 16 25.0 2 6 33.3 7 9 77.8 0 4 4 1 1 0 5 3 -8
+p225
+aVRay Allen SEA 03/08/2005 SEA vs. HOU L 42 32 13 25 52.0 5 8 62.5 1 2 50.0 3 4 7 4 1 0 3 1 -3
+p226
+aVReggie Evans SEA 03/08/2005 SEA vs. HOU L 20 7 3 3 100.0 0 0 - 1 1 100.0 2 6 8 1 0 0 3 1 2
+p227
+aVAntonio Daniels SEA 03/08/2005 SEA vs. HOU L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 3 0 -4
+p228
+aVJerome James SEA 03/08/2005 SEA vs. HOU L 27 3 1 5 20.0 0 0 - 1 2 50.0 0 4 4 0 1 2 0 5 6
+p229
+aVLuke Ridnour SEA 03/08/2005 SEA vs. HOU L 41 14 5 12 41.7 1 2 50.0 3 3 100.0 0 2 2 12 1 0 3 1 8
+p230
+aVVladimir Radmanovic SEA 03/08/2005 SEA vs. HOU L 26 9 3 6 50.0 1 3 33.3 2 2 100.0 0 5 5 2 2 0 1 2 -6
+p231
+aVDanny Fortson SEA 03/08/2005 SEA vs. HOU L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 4 -13
+p232
+aVRashard Lewis SEA 03/08/2005 SEA vs. HOU L 40 26 9 18 50.0 6 11 54.5 2 2 100.0 0 3 3 0 0 0 3 2 8
+p233
+aVNick Collison SEA 03/08/2005 SEA vs. HOU L 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 5 -11
+p234
+aVVitaly Potapenko SEA 03/08/2005 SEA vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p235
+aVRashard Lewis SEA 03/06/2005 SEA vs. PHX L 41 26 10 21 47.6 1 4 25.0 5 5 100.0 5 6 11 1 2 0 0 1 -7
+p236
+aVReggie Evans SEA 03/06/2005 SEA vs. PHX L 21 5 2 3 66.7 0 0 - 1 2 50.0 2 7 9 0 0 0 1 1 -1
+p237
+aVLuke Ridnour SEA 03/06/2005 SEA vs. PHX L 28 8 3 10 30.0 0 5 0.0 2 2 100.0 1 2 3 4 3 0 4 5 -4
+p238
+aVJerome James SEA 03/06/2005 SEA vs. PHX L 27 12 6 9 66.7 0 0 - 0 0 - 0 3 3 1 0 2 0 5 4
+p239
+aVAntonio Daniels SEA 03/06/2005 SEA vs. PHX L 31 14 4 9 44.4 0 2 0.0 6 9 66.7 0 5 5 2 0 0 1 4 -13
+p240
+aVRay Allen SEA 03/06/2005 SEA vs. PHX L 39 27 10 22 45.5 2 8 25.0 5 5 100.0 3 3 6 2 0 0 1 0 -7
+p241
+aVVladimir Radmanovic SEA 03/06/2005 SEA vs. PHX L 31 4 2 13 15.4 0 8 0.0 0 0 - 0 2 2 2 0 1 2 2 -13
+p242
+aVNick Collison SEA 03/06/2005 SEA vs. PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p243
+aVDanny Fortson SEA 03/06/2005 SEA vs. PHX L 17 3 1 4 25.0 0 0 - 1 1 100.0 3 3 6 0 0 0 1 4 -12
+p244
+aVReggie Evans SEA 03/04/2005 SEA vs. DET W 23 4 0 4 0.0 0 0 - 4 8 50.0 4 8 12 0 0 0 1 2 -1
+p245
+aVLuke Ridnour SEA 03/04/2005 SEA vs. DET W 31 15 5 9 55.6 3 5 60.0 2 2 100.0 0 2 2 6 0 0 0 1 3
+p246
+aVJerome James SEA 03/04/2005 SEA vs. DET W 25 16 8 10 80.0 0 0 - 0 0 - 0 7 7 0 1 3 1 5 9
+p247
+aVRay Allen SEA 03/04/2005 SEA vs. DET W 40 15 3 17 17.6 0 4 0.0 9 10 90.0 3 4 7 6 0 0 1 2 9
+p248
+aVDanny Fortson SEA 03/04/2005 SEA vs. DET W 17 6 2 4 50.0 0 0 - 2 2 100.0 3 5 8 0 0 0 0 4 1
+p249
+aVRashard Lewis SEA 03/04/2005 SEA vs. DET W 39 18 6 14 42.9 0 4 0.0 6 6 100.0 3 1 4 1 0 2 6 3 19
+p250
+aVAntonio Daniels SEA 03/04/2005 SEA vs. DET W 25 10 3 6 50.0 0 2 0.0 4 4 100.0 0 3 3 1 0 0 3 3 0
+p251
+aVNick Collison SEA 03/04/2005 SEA vs. DET W 24 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 1 1 0 3 3
+p252
+aVVladimir Radmanovic SEA 03/04/2005 SEA vs. DET W 16 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 1 0 0 4 -3
+p253
+aVNick Collison SEA 03/02/2005 SEA @ CLE W 25 6 2 5 40.0 0 0 - 2 2 100.0 1 5 6 1 1 1 2 1 23
+p254
+aVRobert Swift SEA 03/02/2005 SEA @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p255
+aVReggie Evans SEA 03/02/2005 SEA @ CLE W 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 2 3 -2
+p256
+aVRashard Lewis SEA 03/02/2005 SEA @ CLE W 36 20 7 15 46.7 2 3 66.7 4 6 66.7 2 2 4 3 1 0 2 3 0
+p257
+aVAntonio Daniels SEA 03/02/2005 SEA @ CLE W 17 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 18
+p258
+aVRay Allen SEA 03/02/2005 SEA @ CLE W 39 31 11 22 50.0 3 5 60.0 6 6 100.0 2 3 5 3 0 0 1 0 12
+p259
+aVJerome James SEA 03/02/2005 SEA @ CLE W 17 4 2 4 50.0 0 0 - 0 2 0.0 0 2 2 0 1 0 0 4 -6
+p260
+aVVladimir Radmanovic SEA 03/02/2005 SEA @ CLE W 33 19 7 12 58.3 5 8 62.5 0 0 - 1 6 7 2 2 1 2 3 25
+p261
+aVLuke Ridnour SEA 03/02/2005 SEA @ CLE W 35 9 3 5 60.0 0 1 0.0 3 7 42.9 1 1 2 5 1 0 1 3 -1
+p262
+aVDanny Fortson SEA 03/02/2005 SEA @ CLE W 16 8 1 2 50.0 0 0 - 6 6 100.0 3 4 7 0 0 0 0 5 16
+p263
+aVRonald Murray SEA 03/01/2005 SEA @ IND W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p264
+aVAntonio Daniels SEA 03/01/2005 SEA @ IND W 35 12 4 8 50.0 0 0 - 4 4 100.0 0 6 6 4 0 0 0 0 8
+p265
+aVLuke Ridnour SEA 03/01/2005 SEA @ IND W 22 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 2 4 -7
+p266
+aVReggie Evans SEA 03/01/2005 SEA @ IND W 22 8 1 2 50.0 0 0 - 6 7 85.7 2 10 12 0 0 0 1 2 5
+p267
+aVRashard Lewis SEA 03/01/2005 SEA @ IND W 40 30 14 19 73.7 2 5 40.0 0 2 0.0 1 1 2 1 0 0 1 0 14
+p268
+aVRay Allen SEA 03/01/2005 SEA @ IND W 35 18 6 14 42.9 2 4 50.0 4 5 80.0 0 3 3 2 1 0 2 3 6
+p269
+aVDanny Fortson SEA 03/01/2005 SEA @ IND W 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 2 5 5
+p270
+aVNick Collison SEA 03/01/2005 SEA @ IND W 14 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 4 -10
+p271
+aVVladimir Radmanovic SEA 03/01/2005 SEA @ IND W 30 14 5 10 50.0 2 2 100.0 2 2 100.0 1 2 3 1 1 1 2 1 6
+p272
+aVJerome James SEA 03/01/2005 SEA @ IND W 24 13 5 8 62.5 0 0 - 3 3 100.0 2 5 7 0 0 2 0 6 13
+p273
+aVNick Collison SEA 02/27/2005 SEA @ MIL L 19 9 4 5 80.0 0 0 - 1 1 100.0 2 2 4 1 2 0 0 3 5
+p274
+aVJerome James SEA 02/27/2005 SEA @ MIL L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -10
+p275
+aVVitaly Potapenko SEA 02/27/2005 SEA @ MIL L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p276
+aVLuke Ridnour SEA 02/27/2005 SEA @ MIL L 21 6 2 8 25.0 1 2 50.0 1 2 50.0 2 1 3 3 0 0 2 2 -23
+p277
+aVReggie Evans SEA 02/27/2005 SEA @ MIL L 24 4 2 5 40.0 0 0 - 0 2 0.0 7 5 12 2 1 0 2 3 -25
+p278
+aVRobert Swift SEA 02/27/2005 SEA @ MIL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p279
+aVRonald Murray SEA 02/27/2005 SEA @ MIL L 22 11 4 13 30.8 1 4 25.0 2 2 100.0 1 1 2 2 0 0 2 0 -2
+p280
+aVAntonio Daniels SEA 02/27/2005 SEA @ MIL L 32 10 4 9 44.4 1 2 50.0 1 1 100.0 1 3 4 2 1 0 1 0 -16
+p281
+aVVladimir Radmanovic SEA 02/27/2005 SEA @ MIL L 25 2 0 7 0.0 0 5 0.0 2 2 100.0 0 2 2 2 0 0 2 4 -19
+p282
+aVDanny Fortson SEA 02/27/2005 SEA @ MIL L 22 6 1 4 25.0 0 0 - 4 4 100.0 3 7 10 0 1 1 2 6 0
+p283
+aVRay Allen SEA 02/27/2005 SEA @ MIL L 31 16 4 16 25.0 2 6 33.3 6 6 100.0 1 0 1 0 1 1 2 1 -33
+p284
+aVRashard Lewis SEA 02/27/2005 SEA @ MIL L 24 9 4 14 28.6 1 4 25.0 0 1 0.0 0 3 3 1 0 0 1 2 -7
+p285
+aVNick Collison SEA 02/25/2005 SEA vs. MIN W 10 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -4
+p286
+aVRashard Lewis SEA 02/25/2005 SEA vs. MIN W 45 16 4 11 36.4 1 4 25.0 7 10 70.0 1 6 7 0 0 0 2 3 13
+p287
+aVLuke Ridnour SEA 02/25/2005 SEA vs. MIN W 25 1 0 7 0.0 0 1 0.0 1 1 100.0 0 1 1 5 2 0 1 1 1
+p288
+aVVitaly Potapenko SEA 02/25/2005 SEA vs. MIN W 24 10 4 6 66.7 0 0 - 2 2 100.0 5 3 8 0 1 0 0 5 20
+p289
+aVRay Allen SEA 02/25/2005 SEA vs. MIN W 42 32 10 22 45.5 4 6 66.7 8 9 88.9 1 3 4 6 3 1 1 3 2
+p290
+aVRonald Murray SEA 02/25/2005 SEA vs. MIN W 8 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -6
+p291
+aVJerome James SEA 02/25/2005 SEA vs. MIN W 12 8 4 7 57.1 0 0 - 0 0 - 1 3 4 0 0 0 0 4 -6
+p292
+aVVladimir Radmanovic SEA 02/25/2005 SEA vs. MIN W 35 17 6 12 50.0 3 6 50.0 2 2 100.0 2 5 7 3 1 0 1 0 19
+p293
+aVAntonio Daniels SEA 02/25/2005 SEA vs. MIN W 24 6 2 8 25.0 1 2 50.0 1 2 50.0 1 2 3 4 0 0 0 2 21
+p294
+aVReggie Evans SEA 02/25/2005 SEA vs. MIN W 15 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 1 0 2 2 -10
+p295
+aVVladimir Radmanovic SEA 02/23/2005 SEA @ NOH W 20 5 1 7 14.3 0 1 0.0 3 4 75.0 1 3 4 3 0 0 0 3 -1
+p296
+aVReggie Evans SEA 02/23/2005 SEA @ NOH W 27 2 0 2 0.0 0 0 - 2 2 100.0 4 10 14 0 0 0 1 4 10
+p297
+aVRashard Lewis SEA 02/23/2005 SEA @ NOH W 33 26 8 11 72.7 6 8 75.0 4 4 100.0 0 2 2 0 0 0 0 0 20
+p298
+aVNick Collison SEA 02/23/2005 SEA @ NOH W 20 7 1 1 100.0 0 0 - 5 5 100.0 3 2 5 0 0 2 1 1 8
+p299
+aVJerome James SEA 02/23/2005 SEA @ NOH W 13 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 1 9
+p300
+aVLuke Ridnour SEA 02/23/2005 SEA @ NOH W 28 14 4 9 44.4 2 4 50.0 4 5 80.0 1 1 2 9 3 0 3 0 14
+p301
+aVRobert Swift SEA 02/23/2005 SEA @ NOH W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 2 -1
+p302
+aVAntonio Daniels SEA 02/23/2005 SEA @ NOH W 31 11 3 9 33.3 1 4 25.0 4 6 66.7 0 5 5 8 3 0 0 0 6
+p303
+aVRay Allen SEA 02/23/2005 SEA @ NOH W 38 25 9 20 45.0 5 11 45.5 2 2 100.0 2 3 5 1 2 0 3 2 17
+p304
+aVRonald Murray SEA 02/23/2005 SEA @ NOH W 24 13 5 8 62.5 2 3 66.7 1 2 50.0 0 2 2 0 1 0 3 3 8
+p305
+aVRay Allen SEA 02/22/2005 SEA @ HOU W 37 29 11 23 47.8 0 6 0.0 7 8 87.5 3 2 5 2 2 0 3 1 -1
+p306
+aVRashard Lewis SEA 02/22/2005 SEA @ HOU W 36 23 7 20 35.0 1 8 12.5 8 12 66.7 2 7 9 1 2 1 1 3 9
+p307
+aVLuke Ridnour SEA 02/22/2005 SEA @ HOU W 38 7 2 10 20.0 1 3 33.3 2 2 100.0 1 3 4 7 0 0 2 1 6
+p308
+aVVladimir Radmanovic SEA 02/22/2005 SEA @ HOU W 33 10 3 9 33.3 2 6 33.3 2 2 100.0 0 4 4 1 0 0 3 3 5
+p309
+aVAntonio Daniels SEA 02/22/2005 SEA @ HOU W 26 7 3 7 42.9 0 2 0.0 1 2 50.0 0 3 3 6 1 0 1 1 -9
+p310
+aVNick Collison SEA 02/22/2005 SEA @ HOU W 8 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 2 4 -5
+p311
+aVReggie Evans SEA 02/22/2005 SEA @ HOU W 26 3 1 3 33.3 0 0 - 1 2 50.0 6 5 11 1 3 0 1 3 -2
+p312
+aVJerome James SEA 02/22/2005 SEA @ HOU W 18 0 0 5 0.0 0 0 - 0 0 - 0 5 5 0 1 1 1 3 3
+p313
+aVVitaly Potapenko SEA 02/22/2005 SEA @ HOU W 18 4 2 6 33.3 0 0 - 0 0 - 3 3 6 0 0 0 0 2 4
+p314
+aVRonald Murray SEA 02/16/2005 SEA vs. GSW L 17 14 5 14 35.7 0 2 0.0 4 4 100.0 2 2 4 0 0 1 1 1 0
+p315
+aVRashard Lewis SEA 02/16/2005 SEA vs. GSW L 41 17 6 13 46.2 1 4 25.0 4 6 66.7 0 6 6 0 0 0 0 4 -12
+p316
+aVReggie Evans SEA 02/16/2005 SEA vs. GSW L 13 4 0 1 0.0 0 0 - 4 4 100.0 0 4 4 2 1 0 1 1 0
+p317
+aVJerome James SEA 02/16/2005 SEA vs. GSW L 14 10 5 7 71.4 0 0 - 0 0 - 1 2 3 0 0 1 1 2 -15
+p318
+aVAntonio Daniels SEA 02/16/2005 SEA vs. GSW L 33 19 4 9 44.4 2 4 50.0 9 10 90.0 0 4 4 4 2 0 0 3 0
+p319
+aVVladimir Radmanovic SEA 02/16/2005 SEA vs. GSW L 25 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 1 0 1 8
+p320
+aVRay Allen SEA 02/16/2005 SEA vs. GSW L 42 26 10 18 55.6 1 4 25.0 5 7 71.4 1 4 5 7 1 0 4 2 0
+p321
+aVNick Collison SEA 02/16/2005 SEA vs. GSW L 31 16 7 9 77.8 0 0 - 2 5 40.0 7 5 12 0 2 3 2 5 0
+p322
+aVLuke Ridnour SEA 02/16/2005 SEA vs. GSW L 24 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 3 2 1 1 2 -16
+p323
+aVRonald Murray SEA 02/13/2005 SEA vs. DAL L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -8
+p324
+aVAntonio Daniels SEA 02/13/2005 SEA vs. DAL L 31 14 7 13 53.8 0 1 0.0 0 1 0.0 0 0 0 3 1 0 0 1 -4
+p325
+aVReggie Evans SEA 02/13/2005 SEA vs. DAL L 26 5 2 4 50.0 0 0 - 1 4 25.0 4 8 12 0 0 0 2 2 1
+p326
+aVJerome James SEA 02/13/2005 SEA vs. DAL L 20 8 4 10 40.0 0 0 - 0 0 - 4 2 6 0 0 2 0 1 -2
+p327
+aVVladimir Radmanovic SEA 02/13/2005 SEA vs. DAL L 29 10 3 10 30.0 2 4 50.0 2 4 50.0 1 1 2 2 0 1 1 4 6
+p328
+aVLuke Ridnour SEA 02/13/2005 SEA vs. DAL L 31 17 6 12 50.0 1 3 33.3 4 4 100.0 0 3 3 8 1 0 1 2 -2
+p329
+aVNick Collison SEA 02/13/2005 SEA vs. DAL L 17 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 1 1 0 6 9
+p330
+aVVitaly Potapenko SEA 02/13/2005 SEA vs. DAL L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -6
+p331
+aVRashard Lewis SEA 02/13/2005 SEA vs. DAL L 37 18 6 16 37.5 4 8 50.0 2 2 100.0 2 5 7 1 2 1 2 5 -2
+p332
+aVRay Allen SEA 02/13/2005 SEA vs. DAL L 38 10 4 17 23.5 1 8 12.5 1 2 50.0 1 3 4 3 1 0 2 1 -7
+p333
+aVRonald Murray SEA 02/11/2005 SEA @ PHX W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p334
+aVNick Collison SEA 02/11/2005 SEA @ PHX W 14 2 1 5 20.0 0 0 - 0 1 0.0 2 2 4 0 0 0 2 6 8
+p335
+aVJerome James SEA 02/11/2005 SEA @ PHX W 21 12 6 7 85.7 0 1 0.0 0 0 - 1 6 7 0 0 2 1 4 -4
+p336
+aVReggie Evans SEA 02/11/2005 SEA @ PHX W 29 10 4 6 66.7 0 0 - 2 3 66.7 2 9 11 0 0 0 0 3 2
+p337
+aVVladimir Radmanovic SEA 02/11/2005 SEA @ PHX W 34 13 4 6 66.7 3 5 60.0 2 4 50.0 1 5 6 1 3 1 2 2 9
+p338
+aVAntonio Daniels SEA 02/11/2005 SEA @ PHX W 27 20 7 12 58.3 1 4 25.0 5 7 71.4 2 1 3 3 0 0 0 2 3
+p339
+aVRashard Lewis SEA 02/11/2005 SEA @ PHX W 37 23 8 19 42.1 4 7 57.1 3 4 75.0 3 5 8 3 0 1 1 0 15
+p340
+aVLuke Ridnour SEA 02/11/2005 SEA @ PHX W 30 12 5 10 50.0 1 3 33.3 1 1 100.0 1 1 2 5 1 0 2 2 3
+p341
+aVRay Allen SEA 02/11/2005 SEA @ PHX W 42 21 8 24 33.3 3 8 37.5 2 2 100.0 1 3 4 3 1 0 2 3 2
+p342
+aVRay Allen SEA 02/10/2005 SEA vs. SAC W 41 34 10 23 43.5 4 8 50.0 10 10 100.0 1 3 4 3 0 0 1 2 9
+p343
+aVLuke Ridnour SEA 02/10/2005 SEA vs. SAC W 26 9 4 10 40.0 1 3 33.3 0 0 - 0 0 0 5 1 0 1 2 -8
+p344
+aVVladimir Radmanovic SEA 02/10/2005 SEA vs. SAC W 32 9 1 8 12.5 0 5 0.0 7 7 100.0 0 9 9 3 1 0 0 3 13
+p345
+aVRashard Lewis SEA 02/10/2005 SEA vs. SAC W 39 23 7 16 43.8 2 3 66.7 7 8 87.5 1 6 7 2 2 0 2 3 4
+p346
+aVAntonio Daniels SEA 02/10/2005 SEA vs. SAC W 26 18 6 13 46.2 0 2 0.0 6 6 100.0 0 1 1 3 1 0 0 0 14
+p347
+aVDanny Fortson SEA 02/10/2005 SEA vs. SAC W 17 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 1 0 1 2 3
+p348
+aVNick Collison SEA 02/10/2005 SEA vs. SAC W 23 10 5 8 62.5 0 0 - 0 0 - 4 2 6 1 2 0 0 3 16
+p349
+aVReggie Evans SEA 02/10/2005 SEA vs. SAC W 20 6 2 2 100.0 0 0 - 2 6 33.3 4 8 12 0 0 1 1 2 -6
+p350
+aVJerome James SEA 02/10/2005 SEA vs. SAC W 16 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -5
+p351
+aVReggie Evans SEA 02/08/2005 SEA vs. NOH W 23 3 1 1 100.0 0 0 - 1 4 25.0 3 11 14 1 0 0 2 1 6
+p352
+aVVladimir Radmanovic SEA 02/08/2005 SEA vs. NOH W 23 18 5 9 55.6 4 6 66.7 4 6 66.7 0 1 1 1 1 1 2 2 6
+p353
+aVRay Allen SEA 02/08/2005 SEA vs. NOH W 36 26 11 17 64.7 1 6 16.7 3 3 100.0 0 4 4 5 0 0 1 2 17
+p354
+aVJerome James SEA 02/08/2005 SEA vs. NOH W 16 8 4 5 80.0 0 0 - 0 0 - 3 1 4 0 0 1 0 4 9
+p355
+aVRonald Murray SEA 02/08/2005 SEA vs. NOH W 13 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 2
+p356
+aVVitaly Potapenko SEA 02/08/2005 SEA vs. NOH W 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 4 -3
+p357
+aVRashard Lewis SEA 02/08/2005 SEA vs. NOH W 37 10 4 13 30.8 0 5 0.0 2 2 100.0 0 2 2 2 0 3 4 3 14
+p358
+aVRobert Swift SEA 02/08/2005 SEA vs. NOH W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 0
+p359
+aVDanny Fortson SEA 02/08/2005 SEA vs. NOH W 13 5 2 3 66.7 0 0 - 1 2 50.0 4 3 7 0 1 0 2 4 9
+p360
+aVLuke Ridnour SEA 02/08/2005 SEA vs. NOH W 38 16 5 9 55.6 3 3 100.0 3 4 75.0 0 2 2 7 1 0 1 3 13
+p361
+aVNick Collison SEA 02/08/2005 SEA vs. NOH W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 6
+p362
+aVAntonio Daniels SEA 02/08/2005 SEA vs. NOH W 19 9 3 4 75.0 0 0 - 3 4 75.0 0 2 2 3 1 0 0 4 6
+p363
+aVReggie Evans SEA 02/05/2005 SEA vs. CHA W 40 7 1 4 25.0 0 0 - 5 6 83.3 5 16 21 1 1 1 0 4 15
+p364
+aVRashard Lewis SEA 02/05/2005 SEA vs. CHA W 31 18 5 14 35.7 4 6 66.7 4 4 100.0 2 3 5 2 1 1 1 2 13
+p365
+aVJerome James SEA 02/05/2005 SEA vs. CHA W 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 1 1 4 2
+p366
+aVNick Collison SEA 02/05/2005 SEA vs. CHA W 21 6 3 6 50.0 0 0 - 0 0 - 1 4 5 0 1 1 2 2 2
+p367
+aVRay Allen SEA 02/05/2005 SEA vs. CHA W 31 25 9 14 64.3 2 6 33.3 5 7 71.4 0 4 4 5 1 0 4 1 20
+p368
+aVAntonio Daniels SEA 02/05/2005 SEA vs. CHA W 24 11 2 5 40.0 1 2 50.0 6 8 75.0 1 1 2 4 1 1 1 1 4
+p369
+aVLuke Ridnour SEA 02/05/2005 SEA vs. CHA W 40 17 7 10 70.0 2 3 66.7 1 2 50.0 1 1 2 8 1 1 2 2 7
+p370
+aVRonald Murray SEA 02/05/2005 SEA vs. CHA W 6 6 3 5 60.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -4
+p371
+aVDanny Fortson SEA 02/05/2005 SEA vs. CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p372
+aVVladimir Radmanovic SEA 02/05/2005 SEA vs. CHA W 33 23 8 16 50.0 5 9 55.6 2 2 100.0 1 1 2 2 1 0 0 2 13
+p373
+aVMateen Cleaves SEA 02/05/2005 SEA vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p374
+aVRashard Lewis SEA 02/01/2005 SEA @ SAC W 38 24 9 21 42.9 2 4 50.0 4 6 66.7 1 3 4 0 0 2 4 0 -4
+p375
+aVAntonio Daniels SEA 02/01/2005 SEA @ SAC W 28 14 5 10 50.0 0 2 0.0 4 4 100.0 0 2 2 2 1 0 0 0 12
+p376
+aVLuke Ridnour SEA 02/01/2005 SEA @ SAC W 33 13 2 9 22.2 1 3 33.3 8 9 88.9 0 2 2 5 0 1 0 0 1
+p377
+aVReggie Evans SEA 02/01/2005 SEA @ SAC W 27 1 0 1 0.0 0 0 - 1 2 50.0 5 10 15 2 1 0 0 2 2
+p378
+aVRonald Murray SEA 02/01/2005 SEA @ SAC W 35 23 8 14 57.1 3 5 60.0 4 6 66.7 0 5 5 2 1 0 4 3 1
+p379
+aVDanny Fortson SEA 02/01/2005 SEA @ SAC W 20 13 3 4 75.0 0 0 - 7 8 87.5 2 2 4 0 0 0 2 5 1
+p380
+aVVladimir Radmanovic SEA 02/01/2005 SEA @ SAC W 27 12 4 7 57.1 2 3 66.7 2 2 100.0 0 5 5 1 0 1 1 3 10
+p381
+aVNick Collison SEA 02/01/2005 SEA @ SAC W 20 6 2 3 66.7 0 0 - 2 2 100.0 1 4 5 0 0 1 0 3 9
+p382
+aVJerome James SEA 02/01/2005 SEA @ SAC W 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -7
+p383
+aVVladimir Radmanovic SEA 01/31/2005 SEA vs. SAS L 33 13 5 11 45.5 1 3 33.3 2 2 100.0 0 3 3 2 0 0 0 3 -5
+p384
+aVDanny Fortson SEA 01/31/2005 SEA vs. SAS L 7 2 0 0 - 0 0 - 2 2 100.0 2 0 2 0 1 0 1 4 -3
+p385
+aVAntonio Daniels SEA 01/31/2005 SEA vs. SAS L 26 13 3 6 50.0 0 1 0.0 7 9 77.8 1 3 4 5 2 0 2 1 -13
+p386
+aVLuke Ridnour SEA 01/31/2005 SEA vs. SAS L 37 6 2 11 18.2 0 2 0.0 2 2 100.0 0 1 1 4 2 0 1 2 -20
+p387
+aVReggie Evans SEA 01/31/2005 SEA vs. SAS L 15 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 0 0 0 2 1 -14
+p388
+aVJerome James SEA 01/31/2005 SEA vs. SAS L 30 12 5 10 50.0 0 0 - 2 2 100.0 3 3 6 0 0 4 2 2 -21
+p389
+aVNick Collison SEA 01/31/2005 SEA vs. SAS L 14 10 4 6 66.7 0 0 - 2 4 50.0 0 4 4 0 1 0 0 2 -2
+p390
+aVMateen Cleaves SEA 01/31/2005 SEA vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p391
+aVRonald Murray SEA 01/31/2005 SEA vs. SAS L 38 13 5 17 29.4 2 4 50.0 1 2 50.0 0 4 4 3 2 0 5 1 -14
+p392
+aVRashard Lewis SEA 01/31/2005 SEA vs. SAS L 38 9 4 9 44.4 1 3 33.3 0 0 - 2 4 6 3 0 1 2 2 -3
+p393
+aVNick Collison SEA 01/28/2005 SEA @ GSW W 14 4 2 4 50.0 0 0 - 0 4 0.0 2 1 3 0 0 0 0 1 -11
+p394
+aVVladimir Radmanovic SEA 01/28/2005 SEA @ GSW W 21 6 1 9 11.1 1 6 16.7 3 4 75.0 0 2 2 1 0 0 2 3 -3
+p395
+aVAntonio Daniels SEA 01/28/2005 SEA @ GSW W 18 4 0 7 0.0 0 3 0.0 4 4 100.0 0 1 1 3 0 0 1 0 -9
+p396
+aVLuke Ridnour SEA 01/28/2005 SEA @ GSW W 36 14 6 11 54.5 2 4 50.0 0 0 - 1 2 3 2 1 0 2 1 6
+p397
+aVJerome James SEA 01/28/2005 SEA @ GSW W 15 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 2 1 1 16
+p398
+aVDanny Fortson SEA 01/28/2005 SEA @ GSW W 19 4 1 3 33.3 0 0 - 2 2 100.0 3 4 7 0 0 0 1 2 0
+p399
+aVRay Allen SEA 01/28/2005 SEA @ GSW W 38 26 10 22 45.5 4 9 44.4 2 2 100.0 0 5 5 3 1 0 1 1 10
+p400
+aVRonald Murray SEA 01/28/2005 SEA @ GSW W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 0 0
+p401
+aVReggie Evans SEA 01/28/2005 SEA @ GSW W 26 0 0 2 0.0 0 0 - 0 0 - 4 13 17 0 1 0 3 3 8
+p402
+aVRashard Lewis SEA 01/28/2005 SEA @ GSW W 41 24 11 18 61.1 0 3 0.0 2 2 100.0 0 4 4 1 1 1 1 4 -2
+p403
+aVRashard Lewis SEA 01/26/2005 SEA @ UTA L 36 15 4 15 26.7 3 7 42.9 4 4 100.0 1 2 3 1 1 1 2 1 -6
+p404
+aVVladimir Radmanovic SEA 01/26/2005 SEA @ UTA L 29 0 0 8 0.0 0 4 0.0 0 0 - 1 1 2 0 1 1 1 4 -13
+p405
+aVRay Allen SEA 01/26/2005 SEA @ UTA L 35 27 10 22 45.5 4 9 44.4 3 5 60.0 1 2 3 3 0 0 3 5 -4
+p406
+aVJerome James SEA 01/26/2005 SEA @ UTA L 14 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 2 1 2 -2
+p407
+aVVitaly Potapenko SEA 01/26/2005 SEA @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 2
+p408
+aVAntonio Daniels SEA 01/26/2005 SEA @ UTA L 31 25 7 10 70.0 2 4 50.0 9 9 100.0 0 0 0 3 0 0 1 4 -4
+p409
+aVReggie Evans SEA 01/26/2005 SEA @ UTA L 22 0 0 2 0.0 0 0 - 0 0 - 3 4 7 2 0 0 2 3 -1
+p410
+aVDanny Fortson SEA 01/26/2005 SEA @ UTA L 18 4 0 1 0.0 0 0 - 4 4 100.0 1 3 4 0 0 0 3 3 -2
+p411
+aVLuke Ridnour SEA 01/26/2005 SEA @ UTA L 33 17 6 14 42.9 1 5 20.0 4 5 80.0 1 2 3 4 3 1 2 2 -10
+p412
+aVNick Collison SEA 01/26/2005 SEA @ UTA L 19 12 5 5 100.0 0 0 - 2 2 100.0 2 6 8 0 1 1 0 3 -5
+p413
+aVNick Collison SEA 01/25/2005 SEA @ LAL W 19 8 3 7 42.9 0 0 - 2 2 100.0 4 1 5 0 0 0 2 3 18
+p414
+aVVladimir Radmanovic SEA 01/25/2005 SEA @ LAL W 33 26 9 17 52.9 8 14 57.1 0 0 - 2 3 5 1 2 0 0 1 12
+p415
+aVRashard Lewis SEA 01/25/2005 SEA @ LAL W 38 21 9 23 39.1 1 6 16.7 2 2 100.0 0 5 5 1 0 0 0 1 5
+p416
+aVReggie Evans SEA 01/25/2005 SEA @ LAL W 23 0 0 2 0.0 0 0 - 0 0 - 6 7 13 3 1 0 1 3 2
+p417
+aVIbrahim Kutluay SEA 01/25/2005 SEA @ LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p418
+aVRay Allen SEA 01/25/2005 SEA @ LAL W 35 25 8 18 44.4 4 9 44.4 5 5 100.0 2 2 4 4 2 0 1 0 16
+p419
+aVJerome James SEA 01/25/2005 SEA @ LAL W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -10
+p420
+aVRonald Murray SEA 01/25/2005 SEA @ LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p421
+aVDanny Fortson SEA 01/25/2005 SEA @ LAL W 20 10 3 5 60.0 0 0 - 4 4 100.0 5 4 9 0 0 0 2 6 5
+p422
+aVLuke Ridnour SEA 01/25/2005 SEA @ LAL W 35 10 5 13 38.5 0 2 0.0 0 0 - 0 3 3 7 0 0 1 2 0
+p423
+aVAntonio Daniels SEA 01/25/2005 SEA @ LAL W 26 4 1 6 16.7 0 2 0.0 2 2 100.0 0 2 2 5 2 0 1 0 15
+p424
+aVLuke Ridnour SEA 01/23/2005 SEA vs. UTA W 34 13 5 11 45.5 0 2 0.0 3 3 100.0 0 0 0 7 0 0 2 3 7
+p425
+aVJerome James SEA 01/23/2005 SEA vs. UTA W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 3 1
+p426
+aVDanny Fortson SEA 01/23/2005 SEA vs. UTA W 5 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 5 -7
+p427
+aVReggie Evans SEA 01/23/2005 SEA vs. UTA W 32 6 1 2 50.0 0 0 - 4 10 40.0 3 7 10 0 1 1 1 4 11
+p428
+aVRashard Lewis SEA 01/23/2005 SEA vs. UTA W 43 36 12 17 70.6 7 8 87.5 5 7 71.4 0 3 3 1 1 0 2 4 24
+p429
+aVAntonio Daniels SEA 01/23/2005 SEA vs. UTA W 34 24 6 11 54.5 2 5 40.0 10 11 90.9 0 2 2 8 2 0 2 2 16
+p430
+aVRay Allen SEA 01/23/2005 SEA vs. UTA W 35 20 6 10 60.0 2 3 66.7 6 9 66.7 0 3 3 3 2 0 3 3 11
+p431
+aVVladimir Radmanovic SEA 01/23/2005 SEA vs. UTA W 31 12 5 7 71.4 2 4 50.0 0 0 - 0 3 3 0 1 1 1 3 13
+p432
+aVNick Collison SEA 01/23/2005 SEA vs. UTA W 17 9 3 4 75.0 0 0 - 3 3 100.0 1 1 2 0 2 2 2 5 9
+p433
+aVRonald Murray SEA 01/21/2005 SEA vs. MIN L 10 6 2 3 66.7 1 1 100.0 1 2 50.0 0 0 0 2 1 0 0 0 2
+p434
+aVAntonio Daniels SEA 01/21/2005 SEA vs. MIN L 24 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 4 0 0 0 0 -22
+p435
+aVDanny Fortson SEA 01/21/2005 SEA vs. MIN L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -11
+p436
+aVReggie Evans SEA 01/21/2005 SEA vs. MIN L 17 4 1 2 50.0 0 0 - 2 4 50.0 2 1 3 2 0 0 1 1 5
+p437
+aVLuke Ridnour SEA 01/21/2005 SEA vs. MIN L 34 19 7 8 87.5 3 3 100.0 2 2 100.0 0 2 2 3 0 0 1 1 10
+p438
+aVVladimir Radmanovic SEA 01/21/2005 SEA vs. MIN L 32 15 6 14 42.9 3 6 50.0 0 0 - 4 6 10 1 1 2 1 2 -4
+p439
+aVJerome James SEA 01/21/2005 SEA vs. MIN L 20 11 5 7 71.4 0 0 - 1 3 33.3 1 5 6 0 0 1 0 6 7
+p440
+aVRay Allen SEA 01/21/2005 SEA vs. MIN L 42 25 7 23 30.4 2 7 28.6 9 9 100.0 3 3 6 4 1 0 0 1 -1
+p441
+aVNick Collison SEA 01/21/2005 SEA vs. MIN L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -15
+p442
+aVRashard Lewis SEA 01/21/2005 SEA vs. MIN L 42 18 7 19 36.8 2 7 28.6 2 2 100.0 4 2 6 1 1 0 0 3 4
+p443
+aVNick Collison SEA 01/18/2005 SEA vs. DEN L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 1 9
+p444
+aVRay Allen SEA 01/18/2005 SEA vs. DEN L 45 17 6 22 27.3 1 8 12.5 4 6 66.7 0 5 5 3 1 0 4 3 -11
+p445
+aVAntonio Daniels SEA 01/18/2005 SEA vs. DEN L 34 20 8 12 66.7 2 3 66.7 2 2 100.0 0 2 2 5 0 0 2 3 2
+p446
+aVJerome James SEA 01/18/2005 SEA vs. DEN L 12 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 0 0 1 0 0 -13
+p447
+aVReggie Evans SEA 01/18/2005 SEA vs. DEN L 21 1 0 1 0.0 0 0 - 1 2 50.0 3 7 10 0 0 1 2 3 -11
+p448
+aVDanny Fortson SEA 01/18/2005 SEA vs. DEN L 26 16 5 7 71.4 0 0 - 6 7 85.7 5 4 9 0 0 0 1 4 8
+p449
+aVLuke Ridnour SEA 01/18/2005 SEA vs. DEN L 34 8 4 13 30.8 0 1 0.0 0 0 - 3 1 4 8 0 0 1 3 -7
+p450
+aVVladimir Radmanovic SEA 01/18/2005 SEA vs. DEN L 41 25 10 19 52.6 4 9 44.4 1 2 50.0 2 7 9 1 1 2 2 3 7
+p451
+aVRashard Lewis SEA 01/18/2005 SEA vs. DEN L 39 17 7 17 41.2 3 10 30.0 0 0 - 3 4 7 2 1 1 3 3 -14
+p452
+aVRay Allen SEA 01/16/2005 SEA vs. CLE W 43 27 8 19 42.1 3 9 33.3 8 9 88.9 2 4 6 0 1 0 6 5 5
+p453
+aVLuke Ridnour SEA 01/16/2005 SEA vs. CLE W 38 18 4 13 30.8 1 2 50.0 9 9 100.0 0 4 4 4 2 1 3 3 4
+p454
+aVReggie Evans SEA 01/16/2005 SEA vs. CLE W 16 2 1 2 50.0 0 0 - 0 0 - 1 6 7 1 0 1 2 2 0
+p455
+aVAntonio Daniels SEA 01/16/2005 SEA vs. CLE W 43 15 5 12 41.7 1 2 50.0 4 4 100.0 1 5 6 8 0 0 1 1 13
+p456
+aVJerome James SEA 01/16/2005 SEA vs. CLE W 16 8 4 4 100.0 0 0 - 0 0 - 2 0 2 1 0 2 0 3 9
+p457
+aVVitaly Potapenko SEA 01/16/2005 SEA vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -6
+p458
+aVVladimir Radmanovic SEA 01/16/2005 SEA vs. CLE W 33 23 7 11 63.6 5 7 71.4 4 4 100.0 4 7 11 2 1 1 3 3 8
+p459
+aVRonald Murray SEA 01/16/2005 SEA vs. CLE W 14 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 3 1 3
+p460
+aVDanny Fortson SEA 01/16/2005 SEA vs. CLE W 16 7 2 2 100.0 0 0 - 3 4 75.0 2 3 5 0 0 1 1 6 10
+p461
+aVNick Collison SEA 01/16/2005 SEA vs. CLE W 16 5 2 6 33.3 0 0 - 1 2 50.0 3 2 5 1 0 0 1 3 -6
+p462
+aVJerome James SEA 01/14/2005 SEA vs. GSW W 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -4
+p463
+aVRonald Murray SEA 01/14/2005 SEA vs. GSW W 32 17 8 13 61.5 1 2 50.0 0 0 - 2 4 6 2 0 0 1 3 17
+p464
+aVNick Collison SEA 01/14/2005 SEA vs. GSW W 15 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 1 1 1 3 4
+p465
+aVRay Allen SEA 01/14/2005 SEA vs. GSW W 37 22 9 20 45.0 3 9 33.3 1 1 100.0 0 1 1 4 1 0 2 2 12
+p466
+aVAntonio Daniels SEA 01/14/2005 SEA vs. GSW W 40 19 8 14 57.1 2 3 66.7 1 2 50.0 0 5 5 6 0 0 1 1 17
+p467
+aVDanny Fortson SEA 01/14/2005 SEA vs. GSW W 20 13 3 5 60.0 0 0 - 7 8 87.5 6 5 11 0 0 0 0 3 14
+p468
+aVVladimir Radmanovic SEA 01/14/2005 SEA vs. GSW W 36 10 5 12 41.7 0 4 0.0 0 0 - 0 3 3 2 1 1 1 4 21
+p469
+aVReggie Evans SEA 01/14/2005 SEA vs. GSW W 25 4 2 5 40.0 0 0 - 0 2 0.0 2 8 10 0 1 0 1 1 5
+p470
+aVVitaly Potapenko SEA 01/14/2005 SEA vs. GSW W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p471
+aVIbrahim Kutluay SEA 01/14/2005 SEA vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p472
+aVLuke Ridnour SEA 01/14/2005 SEA vs. GSW W 24 9 4 6 66.7 1 1 100.0 0 0 - 2 2 4 6 2 0 1 3 10
+p473
+aVJerome James SEA 01/12/2005 SEA @ LAC L 12 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 1 5 -2
+p474
+aVVladimir Radmanovic SEA 01/12/2005 SEA @ LAC L 33 8 3 13 23.1 2 7 28.6 0 0 - 0 4 4 0 0 0 0 2 -13
+p475
+aVAntonio Daniels SEA 01/12/2005 SEA @ LAC L 36 12 4 10 40.0 1 5 20.0 3 5 60.0 0 3 3 7 0 0 1 0 -12
+p476
+aVDanny Fortson SEA 01/12/2005 SEA @ LAC L 23 13 4 6 66.7 0 0 - 5 5 100.0 2 4 6 0 0 0 2 2 -18
+p477
+aVRonald Murray SEA 01/12/2005 SEA @ LAC L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 0
+p478
+aVNick Collison SEA 01/12/2005 SEA @ LAC L 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -2
+p479
+aVRashard Lewis SEA 01/12/2005 SEA @ LAC L 17 4 1 8 12.5 1 5 20.0 1 2 50.0 1 4 5 0 0 0 1 2 -7
+p480
+aVLuke Ridnour SEA 01/12/2005 SEA @ LAC L 36 14 6 12 50.0 0 2 0.0 2 2 100.0 3 0 3 2 0 0 2 3 -5
+p481
+aVRay Allen SEA 01/12/2005 SEA @ LAC L 42 22 7 20 35.0 1 6 16.7 7 8 87.5 3 4 7 8 1 1 5 4 -4
+p482
+aVReggie Evans SEA 01/12/2005 SEA @ LAC L 25 11 4 6 66.7 0 0 - 3 5 60.0 3 7 10 0 1 0 1 2 8
+p483
+aVReggie Evans SEA 01/11/2005 SEA vs. LAC W 22 5 2 4 50.0 0 0 - 1 3 33.3 4 5 9 0 0 0 1 5 1
+p484
+aVLuke Ridnour SEA 01/11/2005 SEA vs. LAC W 29 6 3 11 27.3 0 0 - 0 0 - 1 1 2 11 2 0 2 2 -1
+p485
+aVVladimir Radmanovic SEA 01/11/2005 SEA vs. LAC W 30 18 7 13 53.8 2 4 50.0 2 2 100.0 1 6 7 0 0 0 0 1 2
+p486
+aVNick Collison SEA 01/11/2005 SEA vs. LAC W 15 7 2 2 100.0 0 0 - 3 3 100.0 0 1 1 0 1 0 1 3 3
+p487
+aVJerome James SEA 01/11/2005 SEA vs. LAC W 19 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 5 1 5 3
+p488
+aVRay Allen SEA 01/11/2005 SEA vs. LAC W 40 31 9 20 45.0 5 10 50.0 8 8 100.0 0 6 6 7 0 0 1 1 13
+p489
+aVRashard Lewis SEA 01/11/2005 SEA vs. LAC W 24 9 4 10 40.0 1 3 33.3 0 0 - 0 0 0 0 1 2 0 1 4
+p490
+aVRonald Murray SEA 01/11/2005 SEA vs. LAC W 10 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 2 -4
+p491
+aVDanny Fortson SEA 01/11/2005 SEA vs. LAC W 22 11 1 4 25.0 0 0 - 9 9 100.0 2 5 7 0 1 2 1 6 3
+p492
+aVAntonio Daniels SEA 01/11/2005 SEA vs. LAC W 29 10 4 8 50.0 1 1 100.0 1 2 50.0 0 3 3 5 1 0 0 1 1
+p493
+aVLuke Ridnour SEA 01/09/2005 SEA vs. MIA W 42 12 3 12 25.0 1 2 50.0 5 6 83.3 1 1 2 7 1 0 3 3 6
+p494
+aVVladimir Radmanovic SEA 01/09/2005 SEA vs. MIA W 41 27 11 17 64.7 5 9 55.6 0 0 - 1 6 7 1 0 1 0 2 14
+p495
+aVRashard Lewis SEA 01/09/2005 SEA vs. MIA W 33 13 5 14 35.7 2 9 22.2 1 2 50.0 1 2 3 1 0 0 2 5 -1
+p496
+aVJerome James SEA 01/09/2005 SEA vs. MIA W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 3 4 -4
+p497
+aVAntonio Daniels SEA 01/09/2005 SEA vs. MIA W 28 15 4 8 50.0 0 2 0.0 7 9 77.8 0 3 3 7 1 0 1 0 12
+p498
+aVNick Collison SEA 01/09/2005 SEA vs. MIA W 17 6 3 3 100.0 0 0 - 0 0 - 3 3 6 1 0 0 0 4 8
+p499
+aVDanny Fortson SEA 01/09/2005 SEA vs. MIA W 22 18 5 7 71.4 0 0 - 8 10 80.0 3 7 10 0 0 0 0 3 11
+p500
+aVRay Allen SEA 01/09/2005 SEA vs. MIA W 42 15 6 17 35.3 1 5 20.0 2 2 100.0 2 1 3 7 0 0 2 2 9
+p501
+aVVitaly Potapenko SEA 01/09/2005 SEA vs. MIA W 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -5
+p502
+aVLuke Ridnour SEA 01/06/2005 SEA @ WAS L 36 8 3 6 50.0 0 1 0.0 2 4 50.0 1 6 7 10 1 0 3 3 -3
+p503
+aVRonald Murray SEA 01/06/2005 SEA @ WAS L 20 8 4 9 44.4 0 2 0.0 0 0 - 0 2 2 1 0 0 0 3 -1
+p504
+aVJerome James SEA 01/06/2005 SEA @ WAS L 10 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 3 2 5 0
+p505
+aVRay Allen SEA 01/06/2005 SEA @ WAS L 42 17 6 20 30.0 1 8 12.5 4 4 100.0 2 4 6 4 4 0 2 2 -12
+p506
+aVAntonio Daniels SEA 01/06/2005 SEA @ WAS L 24 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 3 0 0 0 0 -5
+p507
+aVVitaly Potapenko SEA 01/06/2005 SEA @ WAS L 7 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 0
+p508
+aVVladimir Radmanovic SEA 01/06/2005 SEA @ WAS L 25 5 2 8 25.0 1 5 20.0 0 0 - 1 3 4 2 0 0 2 4 -10
+p509
+aVNick Collison SEA 01/06/2005 SEA @ WAS L 11 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 1 0 2 -8
+p510
+aVRashard Lewis SEA 01/06/2005 SEA @ WAS L 44 35 14 26 53.8 5 10 50.0 2 4 50.0 2 9 11 0 0 1 4 4 -8
+p511
+aVDanny Fortson SEA 01/06/2005 SEA @ WAS L 21 8 4 5 80.0 0 0 - 0 0 - 3 5 8 0 0 0 4 5 -8
+p512
+aVLuke Ridnour SEA 01/05/2005 SEA @ ORL L 36 11 5 10 50.0 1 4 25.0 0 0 - 1 2 3 5 2 1 2 4 -14
+p513
+aVRay Allen SEA 01/05/2005 SEA @ ORL L 39 30 9 19 47.4 3 8 37.5 9 11 81.8 1 4 5 1 1 0 3 2 -13
+p514
+aVVitaly Potapenko SEA 01/05/2005 SEA @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p515
+aVRashard Lewis SEA 01/05/2005 SEA @ ORL L 40 20 8 16 50.0 4 9 44.4 0 0 - 4 7 11 0 2 0 3 1 -12
+p516
+aVVladimir Radmanovic SEA 01/05/2005 SEA @ ORL L 32 7 3 16 18.8 1 7 14.3 0 0 - 2 2 4 1 2 1 1 1 -13
+p517
+aVAntonio Daniels SEA 01/05/2005 SEA @ ORL L 23 2 0 7 0.0 0 1 0.0 2 2 100.0 2 1 3 3 1 0 3 1 -6
+p518
+aVNick Collison SEA 01/05/2005 SEA @ ORL L 23 7 3 5 60.0 0 0 - 1 1 100.0 1 4 5 1 2 1 1 4 -5
+p519
+aVJerome James SEA 01/05/2005 SEA @ ORL L 20 6 0 4 0.0 0 0 - 6 6 100.0 1 1 2 0 0 2 0 2 -19
+p520
+aVRonald Murray SEA 01/05/2005 SEA @ ORL L 8 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -7
+p521
+aVIbrahim Kutluay SEA 01/05/2005 SEA @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p522
+aVDanny Fortson SEA 01/05/2005 SEA @ ORL L 15 4 0 0 - 0 0 - 4 4 100.0 2 1 3 0 0 0 0 4 7
+p523
+aVRashard Lewis SEA 01/03/2005 SEA @ MIA W 41 17 7 20 35.0 2 7 28.6 1 1 100.0 3 10 13 2 3 0 0 3 3
+p524
+aVReggie Evans SEA 01/03/2005 SEA @ MIA W 14 2 1 4 25.0 0 0 - 0 0 - 4 4 8 1 0 0 0 3 -5
+p525
+aVJerome James SEA 01/03/2005 SEA @ MIA W 9 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 5 -5
+p526
+aVRay Allen SEA 01/03/2005 SEA @ MIA W 42 35 12 25 48.0 6 10 60.0 5 5 100.0 1 1 2 1 1 0 4 4 -4
+p527
+aVLuke Ridnour SEA 01/03/2005 SEA @ MIA W 38 10 5 11 45.5 0 0 - 0 0 - 0 2 2 7 0 0 1 0 1
+p528
+aVDanny Fortson SEA 01/03/2005 SEA @ MIA W 33 15 4 8 50.0 0 0 - 7 9 77.8 6 4 10 0 0 0 2 5 6
+p529
+aVNick Collison SEA 01/03/2005 SEA @ MIA W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 5 1
+p530
+aVVladimir Radmanovic SEA 01/03/2005 SEA @ MIA W 31 12 4 9 44.4 0 2 0.0 4 6 66.7 1 5 6 0 0 0 0 3 6
+p531
+aVAntonio Daniels SEA 01/03/2005 SEA @ MIA W 26 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 3 0 0 3 1 7
+p532
+aVRay Allen SEA 12/31/2004 SEA @ CHA W 40 18 6 16 37.5 3 8 37.5 3 6 50.0 0 2 2 4 2 0 3 1 0
+p533
+aVLuke Ridnour SEA 12/31/2004 SEA @ CHA W 27 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 7 0 0 4 1 -2
+p534
+aVJerome James SEA 12/31/2004 SEA @ CHA W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 2 3 -5
+p535
+aVNick Collison SEA 12/31/2004 SEA @ CHA W 18 10 4 9 44.4 0 0 - 2 2 100.0 3 1 4 0 0 1 1 2 -2
+p536
+aVVladimir Radmanovic SEA 12/31/2004 SEA @ CHA W 33 21 8 12 66.7 5 7 71.4 0 0 - 2 5 7 2 1 0 0 1 13
+p537
+aVRashard Lewis SEA 12/31/2004 SEA @ CHA W 41 27 12 22 54.5 3 6 50.0 0 0 - 3 1 4 0 1 0 2 4 3
+p538
+aVReggie Evans SEA 12/31/2004 SEA @ CHA W 20 2 1 4 25.0 0 0 - 0 0 - 5 5 10 1 0 0 1 2 -5
+p539
+aVDanny Fortson SEA 12/31/2004 SEA @ CHA W 24 9 3 4 75.0 0 0 - 3 4 75.0 3 5 8 0 1 0 4 5 14
+p540
+aVAntonio Daniels SEA 12/31/2004 SEA @ CHA W 29 10 3 7 42.9 0 0 - 4 4 100.0 1 1 2 7 1 0 0 0 14
+p541
+aVLuke Ridnour SEA 12/30/2004 SEA @ ATL W 28 13 6 10 60.0 1 1 100.0 0 0 - 1 2 3 5 2 0 1 2 5
+p542
+aVIbrahim Kutluay SEA 12/30/2004 SEA @ ATL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p543
+aVDanny Fortson SEA 12/30/2004 SEA @ ATL W 12 7 3 4 75.0 0 0 - 1 1 100.0 3 1 4 1 0 0 1 3 1
+p544
+aVReggie Evans SEA 12/30/2004 SEA @ ATL W 23 3 0 1 0.0 0 0 - 3 4 75.0 1 7 8 3 0 1 1 2 15
+p545
+aVRashard Lewis SEA 12/30/2004 SEA @ ATL W 37 17 6 10 60.0 2 4 50.0 3 4 75.0 0 4 4 3 2 0 1 1 21
+p546
+aVVladimir Radmanovic SEA 12/30/2004 SEA @ ATL W 35 7 2 11 18.2 2 7 28.6 1 2 50.0 0 3 3 0 0 0 0 0 14
+p547
+aVRay Allen SEA 12/30/2004 SEA @ ATL W 35 20 8 15 53.3 3 3 100.0 1 1 100.0 0 1 1 2 1 0 2 2 19
+p548
+aVVitaly Potapenko SEA 12/30/2004 SEA @ ATL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -7
+p549
+aVRonald Murray SEA 12/30/2004 SEA @ ATL W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p550
+aVJerome James SEA 12/30/2004 SEA @ ATL W 13 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 2 5 4 1
+p551
+aVAntonio Daniels SEA 12/30/2004 SEA @ ATL W 20 11 3 9 33.3 1 2 50.0 4 4 100.0 0 3 3 3 0 0 1 0 12
+p552
+aVNick Collison SEA 12/30/2004 SEA @ ATL W 22 10 4 7 57.1 0 0 - 2 4 50.0 6 5 11 1 1 0 1 5 7
+p553
+aVDanny Fortson SEA 12/28/2004 SEA vs. PHI L 18 13 5 11 45.5 0 0 - 3 3 100.0 4 2 6 0 0 1 1 5 -6
+p554
+aVReggie Evans SEA 12/28/2004 SEA vs. PHI L 17 14 6 9 66.7 0 0 - 2 2 100.0 2 2 4 0 1 1 1 2 4
+p555
+aVRonald Murray SEA 12/28/2004 SEA vs. PHI L 14 2 0 2 0.0 0 1 0.0 2 2 100.0 0 4 4 1 2 0 3 0 -6
+p556
+aVVladimir Radmanovic SEA 12/28/2004 SEA vs. PHI L 18 3 1 8 12.5 1 7 14.3 0 0 - 0 2 2 0 1 2 3 6 -12
+p557
+aVNick Collison SEA 12/28/2004 SEA vs. PHI L 19 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 2 0 0 0 2 -10
+p558
+aVRay Allen SEA 12/28/2004 SEA vs. PHI L 38 32 12 24 50.0 3 10 30.0 5 6 83.3 1 2 3 8 1 0 2 5 -6
+p559
+aVVitaly Potapenko SEA 12/28/2004 SEA vs. PHI L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -1
+p560
+aVLuke Ridnour SEA 12/28/2004 SEA vs. PHI L 33 16 6 9 66.7 2 4 50.0 2 2 100.0 1 4 5 9 1 0 3 4 6
+p561
+aVRashard Lewis SEA 12/28/2004 SEA vs. PHI L 41 10 4 15 26.7 2 9 22.2 0 0 - 0 6 6 1 2 1 1 2 1
+p562
+aVJerome James SEA 12/28/2004 SEA vs. PHI L 16 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 2 1 4 2
+p563
+aVAntonio Daniels SEA 12/28/2004 SEA vs. PHI L 20 6 1 4 25.0 0 2 0.0 4 4 100.0 0 0 0 3 1 0 1 0 -7
+p564
+aVVladimir Radmanovic SEA 12/27/2004 SEA @ UTA W 30 8 2 4 50.0 2 3 66.7 2 2 100.0 0 3 3 3 3 0 1 0 1
+p565
+aVDanny Fortson SEA 12/27/2004 SEA @ UTA W 18 10 2 3 66.7 0 0 - 6 6 100.0 2 2 4 0 0 0 3 3 5
+p566
+aVRay Allen SEA 12/27/2004 SEA @ UTA W 40 19 8 21 38.1 1 7 14.3 2 2 100.0 2 2 4 4 0 0 1 1 20
+p567
+aVLuke Ridnour SEA 12/27/2004 SEA @ UTA W 29 11 3 9 33.3 1 1 100.0 4 4 100.0 0 2 2 6 1 0 2 2 5
+p568
+aVRonald Murray SEA 12/27/2004 SEA @ UTA W 25 10 2 10 20.0 0 3 0.0 6 8 75.0 0 1 1 2 2 1 2 4 4
+p569
+aVJerome James SEA 12/27/2004 SEA @ UTA W 18 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 1 2 2 9
+p570
+aVNick Collison SEA 12/27/2004 SEA @ UTA W 17 6 3 3 100.0 0 0 - 0 0 - 3 4 7 0 0 1 0 4 -3
+p571
+aVRashard Lewis SEA 12/27/2004 SEA @ UTA W 42 22 8 17 47.1 4 7 57.1 2 4 50.0 0 6 6 1 4 1 2 1 3
+p572
+aVReggie Evans SEA 12/27/2004 SEA @ UTA W 21 9 2 2 100.0 0 0 - 5 6 83.3 2 2 4 0 2 0 0 2 6
+p573
+aVVladimir Radmanovic SEA 12/22/2004 SEA vs. DEN W 34 19 7 14 50.0 3 6 50.0 2 2 100.0 1 8 9 0 0 0 0 2 9
+p574
+aVLuke Ridnour SEA 12/22/2004 SEA vs. DEN W 23 4 2 11 18.2 0 0 - 0 0 - 1 1 2 5 0 0 0 3 3
+p575
+aVNick Collison SEA 12/22/2004 SEA vs. DEN W 20 6 2 4 50.0 0 0 - 2 2 100.0 4 4 8 0 1 1 1 3 12
+p576
+aVRonald Murray SEA 12/22/2004 SEA vs. DEN W 27 15 6 13 46.2 0 2 0.0 3 4 75.0 1 4 5 4 2 0 0 2 8
+p577
+aVRashard Lewis SEA 12/22/2004 SEA vs. DEN W 42 21 7 15 46.7 2 6 33.3 5 5 100.0 1 3 4 1 1 0 3 1 16
+p578
+aVRay Allen SEA 12/22/2004 SEA vs. DEN W 41 20 7 20 35.0 2 7 28.6 4 4 100.0 2 3 5 2 2 0 4 1 17
+p579
+aVReggie Evans SEA 12/22/2004 SEA vs. DEN W 24 6 3 4 75.0 0 0 - 0 3 0.0 6 6 12 3 3 0 1 2 7
+p580
+aVIbrahim Kutluay SEA 12/22/2004 SEA vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p581
+aVJerome James SEA 12/22/2004 SEA vs. DEN W 17 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 2 0 1 4 8
+p582
+aVDanny Fortson SEA 12/22/2004 SEA vs. DEN W 10 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 3 6 -3
+p583
+aVVladimir Radmanovic SEA 12/17/2004 SEA vs. PHX L 36 14 6 12 50.0 2 7 28.6 0 0 - 1 2 3 1 1 1 2 4 -4
+p584
+aVAntonio Daniels SEA 12/17/2004 SEA vs. PHX L 25 11 3 8 37.5 1 2 50.0 4 5 80.0 1 2 3 4 0 0 1 1 -6
+p585
+aVLuke Ridnour SEA 12/17/2004 SEA vs. PHX L 24 6 2 9 22.2 0 1 0.0 2 2 100.0 3 1 4 9 2 0 2 4 1
+p586
+aVDanny Fortson SEA 12/17/2004 SEA vs. PHX L 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 5 -11
+p587
+aVReggie Evans SEA 12/17/2004 SEA vs. PHX L 35 13 3 4 75.0 0 0 - 7 11 63.6 3 11 14 2 1 1 1 5 12
+p588
+aVRay Allen SEA 12/17/2004 SEA vs. PHX L 42 32 15 26 57.7 1 6 16.7 1 1 100.0 2 3 5 3 1 0 3 1 8
+p589
+aVRashard Lewis SEA 12/17/2004 SEA vs. PHX L 40 26 10 19 52.6 4 10 40.0 2 3 66.7 2 5 7 2 0 1 2 2 8
+p590
+aVJerome James SEA 12/17/2004 SEA vs. PHX L 12 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 2
+p591
+aVRonald Murray SEA 12/17/2004 SEA vs. PHX L 12 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -11
+p592
+aVNick Collison SEA 12/17/2004 SEA vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p593
+aVLuke Ridnour SEA 12/14/2004 SEA vs. LAL W 23 2 1 6 16.7 0 1 0.0 0 0 - 2 2 4 11 0 0 2 1 -5
+p594
+aVAntonio Daniels SEA 12/14/2004 SEA vs. LAL W 26 8 3 9 33.3 1 3 33.3 1 2 50.0 0 3 3 7 1 0 0 2 24
+p595
+aVJerome James SEA 12/14/2004 SEA vs. LAL W 20 12 6 8 75.0 0 0 - 0 0 - 1 1 2 0 0 2 0 5 9
+p596
+aVVitaly Potapenko SEA 12/14/2004 SEA vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p597
+aVRashard Lewis SEA 12/14/2004 SEA vs. LAL W 39 37 13 22 59.1 7 12 58.3 4 6 66.7 3 4 7 1 1 1 1 0 15
+p598
+aVVladimir Radmanovic SEA 12/14/2004 SEA vs. LAL W 34 10 4 9 44.4 2 4 50.0 0 0 - 1 6 7 3 1 0 0 3 13
+p599
+aVDanny Fortson SEA 12/14/2004 SEA vs. LAL W 23 7 2 5 40.0 0 0 - 3 3 100.0 1 4 5 0 1 0 1 3 10
+p600
+aVRay Allen SEA 12/14/2004 SEA vs. LAL W 37 26 10 18 55.6 2 6 33.3 4 5 80.0 1 4 5 5 0 0 3 2 10
+p601
+aVRonald Murray SEA 12/14/2004 SEA vs. LAL W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 2 2 1
+p602
+aVNick Collison SEA 12/14/2004 SEA vs. LAL W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -2
+p603
+aVReggie Evans SEA 12/14/2004 SEA vs. LAL W 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 2 0 0 2 4
+p604
+aVRashard Lewis SEA 12/11/2004 SEA vs. BOS L 42 19 7 16 43.8 2 6 33.3 3 6 50.0 1 5 6 0 5 1 2 4 -17
+p605
+aVNick Collison SEA 12/11/2004 SEA vs. BOS L 8 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 4
+p606
+aVReggie Evans SEA 12/11/2004 SEA vs. BOS L 17 2 1 3 33.3 0 0 - 0 0 - 5 5 10 0 0 0 2 2 -13
+p607
+aVLuke Ridnour SEA 12/11/2004 SEA vs. BOS L 33 2 1 11 9.1 0 2 0.0 0 0 - 1 2 3 4 0 0 3 3 -15
+p608
+aVAntonio Daniels SEA 12/11/2004 SEA vs. BOS L 26 11 3 10 30.0 1 3 33.3 4 5 80.0 0 0 0 2 0 0 1 2 -8
+p609
+aVDanny Fortson SEA 12/11/2004 SEA vs. BOS L 24 16 4 7 57.1 0 0 - 8 12 66.7 6 5 11 0 0 0 2 6 5
+p610
+aVVladimir Radmanovic SEA 12/11/2004 SEA vs. BOS L 34 13 5 11 45.5 2 5 40.0 1 2 50.0 0 4 4 2 3 0 0 5 -4
+p611
+aVRay Allen SEA 12/11/2004 SEA vs. BOS L 42 16 5 23 21.7 0 10 0.0 6 6 100.0 1 4 5 6 1 0 2 2 -12
+p612
+aVJerome James SEA 12/11/2004 SEA vs. BOS L 14 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -10
+p613
+aVRashard Lewis SEA 12/09/2004 SEA @ DAL W 40 25 9 21 42.9 2 5 40.0 5 6 83.3 5 4 9 2 2 1 3 3 5
+p614
+aVNick Collison SEA 12/09/2004 SEA @ DAL W 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 0 1 3 -4
+p615
+aVReggie Evans SEA 12/09/2004 SEA @ DAL W 18 7 1 4 25.0 0 0 - 5 10 50.0 5 4 9 0 2 0 1 4 3
+p616
+aVDanny Fortson SEA 12/09/2004 SEA @ DAL W 16 7 1 4 25.0 0 0 - 5 6 83.3 4 4 8 1 0 0 1 5 -6
+p617
+aVVladimir Radmanovic SEA 12/09/2004 SEA @ DAL W 36 18 6 11 54.5 5 7 71.4 1 2 50.0 0 4 4 1 2 0 1 4 0
+p618
+aVJerome James SEA 12/09/2004 SEA @ DAL W 17 7 2 2 100.0 0 0 - 3 3 100.0 2 3 5 0 1 1 0 4 10
+p619
+aVAntonio Daniels SEA 12/09/2004 SEA @ DAL W 28 9 4 11 36.4 1 2 50.0 0 0 - 0 0 0 5 1 0 3 2 -2
+p620
+aVRay Allen SEA 12/09/2004 SEA @ DAL W 40 22 9 19 47.4 2 7 28.6 2 3 66.7 0 5 5 4 1 0 4 1 9
+p621
+aVLuke Ridnour SEA 12/09/2004 SEA @ DAL W 31 10 5 9 55.6 0 2 0.0 0 0 - 0 3 3 7 2 1 1 5 10
+p622
+aVReggie Evans SEA 12/08/2004 SEA @ SAS W 14 8 4 4 100.0 0 0 - 0 0 - 2 3 5 0 0 0 0 3 -9
+p623
+aVAntonio Daniels SEA 12/08/2004 SEA @ SAS W 34 14 4 6 66.7 2 3 66.7 4 7 57.1 0 3 3 4 2 0 1 2 15
+p624
+aVLuke Ridnour SEA 12/08/2004 SEA @ SAS W 27 8 2 8 25.0 0 2 0.0 4 4 100.0 1 1 2 2 0 0 1 2 -5
+p625
+aVDanny Fortson SEA 12/08/2004 SEA @ SAS W 21 14 2 3 66.7 0 0 - 10 10 100.0 1 5 6 0 1 0 3 6 12
+p626
+aVVladimir Radmanovic SEA 12/08/2004 SEA @ SAS W 24 5 2 7 28.6 1 4 25.0 0 0 - 1 6 7 1 0 1 0 5 7
+p627
+aVNick Collison SEA 12/08/2004 SEA @ SAS W 14 8 4 10 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 7
+p628
+aVRashard Lewis SEA 12/08/2004 SEA @ SAS W 44 16 6 11 54.5 1 4 25.0 3 4 75.0 1 4 5 0 2 2 5 3 4
+p629
+aVRay Allen SEA 12/08/2004 SEA @ SAS W 43 29 9 19 47.4 5 9 55.6 6 6 100.0 0 4 4 3 1 0 4 2 -2
+p630
+aVJerome James SEA 12/08/2004 SEA @ SAS W 19 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 3 1 5 1
+p631
+aVRashard Lewis SEA 12/04/2004 SEA vs. POR W 40 20 8 14 57.1 3 6 50.0 1 2 50.0 1 1 2 1 2 1 0 3 12
+p632
+aVMateen Cleaves SEA 12/04/2004 SEA vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p633
+aVVladimir Radmanovic SEA 12/04/2004 SEA vs. POR W 32 20 7 14 50.0 3 8 37.5 3 4 75.0 3 7 10 4 5 1 1 3 15
+p634
+aVReggie Evans SEA 12/04/2004 SEA vs. POR W 25 5 1 1 100.0 0 0 - 3 4 75.0 1 5 6 2 0 0 2 1 5
+p635
+aVJerome James SEA 12/04/2004 SEA vs. POR W 15 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -3
+p636
+aVDanny Fortson SEA 12/04/2004 SEA vs. POR W 20 12 5 6 83.3 0 0 - 2 4 50.0 0 3 3 0 0 0 1 4 12
+p637
+aVRay Allen SEA 12/04/2004 SEA vs. POR W 38 14 5 15 33.3 2 7 28.6 2 3 66.7 0 5 5 4 1 0 3 2 13
+p638
+aVLuke Ridnour SEA 12/04/2004 SEA vs. POR W 31 11 4 8 50.0 1 2 50.0 2 2 100.0 1 0 1 4 1 2 0 2 -3
+p639
+aVAntonio Daniels SEA 12/04/2004 SEA vs. POR W 20 7 2 10 20.0 1 2 50.0 2 2 100.0 0 1 1 6 1 0 1 0 9
+p640
+aVDamien Wilkins SEA 12/04/2004 SEA vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p641
+aVNick Collison SEA 12/04/2004 SEA vs. POR W 16 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 2 1 0 1 4 -4
+p642
+aVRobert Swift SEA 12/04/2004 SEA vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p643
+aVDanny Fortson SEA 12/01/2004 SEA vs. UTA W 29 8 3 6 50.0 0 0 - 2 2 100.0 4 5 9 1 0 0 1 6 4
+p644
+aVAntonio Daniels SEA 12/01/2004 SEA vs. UTA W 32 17 5 10 50.0 1 4 25.0 6 9 66.7 1 2 3 4 0 0 1 0 7
+p645
+aVLuke Ridnour SEA 12/01/2004 SEA vs. UTA W 34 17 7 14 50.0 3 4 75.0 0 0 - 0 4 4 10 2 0 1 3 -1
+p646
+aVRashard Lewis SEA 12/01/2004 SEA vs. UTA W 43 23 9 15 60.0 2 6 33.3 3 4 75.0 0 2 2 1 1 2 0 2 14
+p647
+aVNick Collison SEA 12/01/2004 SEA vs. UTA W 11 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 2 3
+p648
+aVReggie Evans SEA 12/01/2004 SEA vs. UTA W 17 2 1 1 100.0 0 0 - 0 2 0.0 1 5 6 0 0 0 1 4 -3
+p649
+aVRay Allen SEA 12/01/2004 SEA vs. UTA W 46 38 9 20 45.0 3 7 42.9 17 19 89.5 0 2 2 7 1 0 4 3 16
+p650
+aVJerome James SEA 12/01/2004 SEA vs. UTA W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 3 7
+p651
+aVVladimir Radmanovic SEA 12/01/2004 SEA vs. UTA W 41 21 7 13 53.8 4 8 50.0 3 3 100.0 2 5 7 1 0 0 0 4 3
+p652
+aVNick Collison SEA 11/30/2004 SEA @ POR L 14 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 1 5 -16
+p653
+aVDanny Fortson SEA 11/30/2004 SEA @ POR L 18 4 1 4 25.0 0 0 - 2 2 100.0 3 3 6 0 0 0 3 3 -13
+p654
+aVJerome James SEA 11/30/2004 SEA @ POR L 24 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 1 0 4 0 5 19
+p655
+aVReggie Evans SEA 11/30/2004 SEA @ POR L 30 10 4 7 57.1 0 0 - 2 3 66.7 4 6 10 1 0 1 4 2 13
+p656
+aVAntonio Daniels SEA 11/30/2004 SEA @ POR L 21 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 4 0 0 1 0 -19
+p657
+aVVladimir Radmanovic SEA 11/30/2004 SEA @ POR L 17 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 3 1 0 0 3 -19
+p658
+aVRashard Lewis SEA 11/30/2004 SEA @ POR L 41 29 12 20 60.0 2 5 40.0 3 3 100.0 2 1 3 0 2 0 1 3 0
+p659
+aVLuke Ridnour SEA 11/30/2004 SEA @ POR L 32 11 5 8 62.5 1 3 33.3 0 0 - 0 1 1 10 2 0 2 1 7
+p660
+aVRay Allen SEA 11/30/2004 SEA @ POR L 43 21 5 18 27.8 1 8 12.5 10 10 100.0 3 3 6 5 0 0 1 1 -2
+p661
+aVRashard Lewis SEA 11/28/2004 SEA vs. IND W 41 22 9 19 47.4 3 6 50.0 1 2 50.0 0 3 3 1 0 4 1 1 0
+p662
+aVJerome James SEA 11/28/2004 SEA vs. IND W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -12
+p663
+aVRay Allen SEA 11/28/2004 SEA vs. IND W 41 19 5 13 38.5 2 5 40.0 7 8 87.5 0 5 5 9 0 1 2 2 9
+p664
+aVAntonio Daniels SEA 11/28/2004 SEA vs. IND W 31 14 4 8 50.0 2 2 100.0 4 6 66.7 1 4 5 6 0 0 3 1 16
+p665
+aVNick Collison SEA 11/28/2004 SEA vs. IND W 16 4 2 5 40.0 0 0 - 0 0 - 3 6 9 0 1 1 1 5 11
+p666
+aVVladimir Radmanovic SEA 11/28/2004 SEA vs. IND W 27 14 6 11 54.5 2 5 40.0 0 0 - 2 6 8 0 0 0 0 3 13
+p667
+aVDanny Fortson SEA 11/28/2004 SEA vs. IND W 19 13 4 6 66.7 0 0 - 5 5 100.0 2 3 5 0 0 0 1 5 6
+p668
+aVReggie Evans SEA 11/28/2004 SEA vs. IND W 20 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 0 2 3 -4
+p669
+aVLuke Ridnour SEA 11/28/2004 SEA vs. IND W 33 13 4 8 50.0 2 4 50.0 3 3 100.0 0 0 0 8 0 0 0 1 1
+p670
+aVRashard Lewis SEA 11/26/2004 SEA vs. NJN W 27 9 3 12 25.0 2 4 50.0 1 2 50.0 0 1 1 1 0 1 0 1 6
+p671
+aVDanny Fortson SEA 11/26/2004 SEA vs. NJN W 23 20 6 7 85.7 0 0 - 8 9 88.9 4 4 8 0 0 0 1 5 23
+p672
+aVVladimir Radmanovic SEA 11/26/2004 SEA vs. NJN W 31 14 5 12 41.7 3 5 60.0 1 1 100.0 1 5 6 0 2 0 4 3 7
+p673
+aVJerome James SEA 11/26/2004 SEA vs. NJN W 12 6 3 3 100.0 0 0 - 0 0 - 2 1 3 1 0 0 0 3 1
+p674
+aVLuke Ridnour SEA 11/26/2004 SEA vs. NJN W 37 8 3 10 30.0 0 1 0.0 2 3 66.7 2 1 3 5 2 0 2 3 4
+p675
+aVNick Collison SEA 11/26/2004 SEA vs. NJN W 12 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 6 4
+p676
+aVReggie Evans SEA 11/26/2004 SEA vs. NJN W 23 3 1 4 25.0 0 0 - 1 2 50.0 4 7 11 0 0 1 1 3 1
+p677
+aVDamien Wilkins SEA 11/26/2004 SEA vs. NJN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p678
+aVRobert Swift SEA 11/26/2004 SEA vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p679
+aVRay Allen SEA 11/26/2004 SEA vs. NJN W 41 19 5 19 26.3 1 5 20.0 8 9 88.9 1 3 4 3 3 0 5 1 21
+p680
+aVAntonio Daniels SEA 11/26/2004 SEA vs. NJN W 29 7 1 5 20.0 0 1 0.0 5 8 62.5 1 4 5 4 0 1 0 1 21
+p681
+aVMateen Cleaves SEA 11/26/2004 SEA vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p682
+aVJerome James SEA 11/24/2004 SEA @ MEM W 19 6 3 4 75.0 0 0 - 0 0 - 2 2 4 2 0 1 1 6 1
+p683
+aVNick Collison SEA 11/24/2004 SEA @ MEM W 13 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 0 1 2 3 2
+p684
+aVMateen Cleaves SEA 11/24/2004 SEA @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p685
+aVRay Allen SEA 11/24/2004 SEA @ MEM W 38 20 4 15 26.7 1 6 16.7 11 11 100.0 1 4 5 5 1 0 1 2 15
+p686
+aVVladimir Radmanovic SEA 11/24/2004 SEA @ MEM W 20 4 2 9 22.2 0 3 0.0 0 0 - 0 1 1 1 0 2 1 3 -5
+p687
+aVDamien Wilkins SEA 11/24/2004 SEA @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p688
+aVReggie Evans SEA 11/24/2004 SEA @ MEM W 24 5 2 3 66.7 0 0 - 1 4 25.0 4 3 7 0 0 0 1 1 12
+p689
+aVRashard Lewis SEA 11/24/2004 SEA @ MEM W 43 27 11 23 47.8 1 7 14.3 4 4 100.0 2 9 11 0 1 1 0 2 14
+p690
+aVLuke Ridnour SEA 11/24/2004 SEA @ MEM W 38 14 4 10 40.0 2 4 50.0 4 5 80.0 1 1 2 5 0 0 1 4 7
+p691
+aVAntonio Daniels SEA 11/24/2004 SEA @ MEM W 31 8 2 8 25.0 0 1 0.0 4 4 100.0 0 5 5 3 1 0 2 1 2
+p692
+aVDanny Fortson SEA 11/24/2004 SEA @ MEM W 11 5 1 1 100.0 0 0 - 3 4 75.0 3 1 4 0 0 0 1 5 -7
+p693
+aVReggie Evans SEA 11/23/2004 SEA @ MIN W 22 2 1 4 25.0 0 0 - 0 0 - 4 5 9 1 0 0 0 1 13
+p694
+aVRay Allen SEA 11/23/2004 SEA @ MIN W 42 24 7 19 36.8 2 5 40.0 8 8 100.0 0 2 2 1 2 0 1 2 14
+p695
+aVDanny Fortson SEA 11/23/2004 SEA @ MIN W 22 10 2 3 66.7 0 0 - 6 6 100.0 1 6 7 0 0 0 1 5 -2
+p696
+aVVladimir Radmanovic SEA 11/23/2004 SEA @ MIN W 33 17 7 11 63.6 3 6 50.0 0 0 - 1 3 4 0 0 0 3 1 6
+p697
+aVJerome James SEA 11/23/2004 SEA @ MIN W 13 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 0 0 2 0 3 6
+p698
+aVDamien Wilkins SEA 11/23/2004 SEA @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p699
+aVAntonio Daniels SEA 11/23/2004 SEA @ MIN W 32 12 4 11 36.4 0 2 0.0 4 4 100.0 1 1 2 11 4 0 0 1 4
+p700
+aVNick Collison SEA 11/23/2004 SEA @ MIN W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -1
+p701
+aVLuke Ridnour SEA 11/23/2004 SEA @ MIN W 24 9 3 6 50.0 1 1 100.0 2 2 100.0 1 3 4 3 3 0 0 2 4
+p702
+aVRashard Lewis SEA 11/23/2004 SEA @ MIN W 42 27 10 18 55.6 4 5 80.0 3 4 75.0 1 2 3 1 0 0 2 1 11
+p703
+aVRashard Lewis SEA 11/21/2004 SEA @ BOS L 38 12 4 13 30.8 0 6 0.0 4 4 100.0 2 3 5 2 0 0 3 2 -26
+p704
+aVVladimir Radmanovic SEA 11/21/2004 SEA @ BOS L 25 4 0 8 0.0 0 2 0.0 4 4 100.0 2 3 5 1 0 0 2 1 -11
+p705
+aVRay Allen SEA 11/21/2004 SEA @ BOS L 42 21 7 16 43.8 2 5 40.0 5 6 83.3 0 1 1 6 2 0 1 3 -20
+p706
+aVDanny Fortson SEA 11/21/2004 SEA @ BOS L 13 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 0 1 0 1 6 -12
+p707
+aVLuke Ridnour SEA 11/21/2004 SEA @ BOS L 29 3 1 5 20.0 1 3 33.3 0 0 - 1 0 1 5 3 0 0 3 -9
+p708
+aVMateen Cleaves SEA 11/21/2004 SEA @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p709
+aVAntonio Daniels SEA 11/21/2004 SEA @ BOS L 29 16 4 9 44.4 1 4 25.0 7 8 87.5 0 0 0 5 2 0 1 2 -8
+p710
+aVNick Collison SEA 11/21/2004 SEA @ BOS L 21 8 4 10 40.0 0 1 0.0 0 0 - 0 4 4 0 0 2 2 2 -1
+p711
+aVRobert Swift SEA 11/21/2004 SEA @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p712
+aVReggie Evans SEA 11/21/2004 SEA @ BOS L 22 6 3 7 42.9 0 0 - 0 0 - 3 5 8 0 1 0 3 0 -4
+p713
+aVJerome James SEA 11/21/2004 SEA @ BOS L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p714
+aVDamien Wilkins SEA 11/21/2004 SEA @ BOS L 8 5 2 3 66.7 1 2 50.0 0 1 0.0 0 0 0 0 2 0 0 3 1
+p715
+aVRay Allen SEA 11/19/2004 SEA @ TOR W 42 24 7 16 43.8 3 6 50.0 7 7 100.0 0 2 2 6 0 0 1 0 9
+p716
+aVNick Collison SEA 11/19/2004 SEA @ TOR W 14 6 3 4 75.0 0 0 - 0 2 0.0 2 4 6 2 1 1 0 2 5
+p717
+aVRashard Lewis SEA 11/19/2004 SEA @ TOR W 40 27 10 18 55.6 4 4 100.0 3 3 100.0 0 4 4 2 1 0 1 3 -3
+p718
+aVDanny Fortson SEA 11/19/2004 SEA @ TOR W 20 7 1 5 20.0 0 0 - 5 6 83.3 5 5 10 1 1 0 2 4 8
+p719
+aVAntonio Daniels SEA 11/19/2004 SEA @ TOR W 32 19 7 14 50.0 0 2 0.0 5 8 62.5 1 2 3 5 1 0 1 1 9
+p720
+aVReggie Evans SEA 11/19/2004 SEA @ TOR W 27 1 0 3 0.0 0 0 - 1 2 50.0 1 10 11 1 2 0 2 3 0
+p721
+aVJerome James SEA 11/19/2004 SEA @ TOR W 14 0 0 1 0.0 0 0 - 0 0 - 2 3 5 1 1 0 1 4 0
+p722
+aVVladimir Radmanovic SEA 11/19/2004 SEA @ TOR W 24 7 3 10 30.0 1 4 25.0 0 0 - 0 2 2 2 0 1 2 1 12
+p723
+aVLuke Ridnour SEA 11/19/2004 SEA @ TOR W 27 10 3 8 37.5 2 3 66.7 2 2 100.0 0 1 1 2 1 0 3 4 -5
+p724
+aVVladimir Radmanovic SEA 11/17/2004 SEA @ NJN W 35 14 5 11 45.5 2 6 33.3 2 2 100.0 0 3 3 3 1 1 2 3 26
+p725
+aVNick Collison SEA 11/17/2004 SEA @ NJN W 5 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 8
+p726
+aVRashard Lewis SEA 11/17/2004 SEA @ NJN W 34 17 6 14 42.9 3 4 75.0 2 5 40.0 0 2 2 2 2 1 3 3 -3
+p727
+aVAntonio Daniels SEA 11/17/2004 SEA @ NJN W 25 6 3 8 37.5 0 2 0.0 0 0 - 0 0 0 4 0 0 0 0 23
+p728
+aVRay Allen SEA 11/17/2004 SEA @ NJN W 38 14 5 15 33.3 0 3 0.0 4 4 100.0 0 4 4 1 2 0 3 2 9
+p729
+aVReggie Evans SEA 11/17/2004 SEA @ NJN W 22 2 0 1 0.0 0 0 - 2 4 50.0 2 5 7 0 0 0 2 2 -10
+p730
+aVJerome James SEA 11/17/2004 SEA @ NJN W 22 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 0 1 4 -15
+p731
+aVLuke Ridnour SEA 11/17/2004 SEA @ NJN W 37 10 4 7 57.1 0 0 - 2 2 100.0 0 4 4 2 3 0 0 2 -4
+p732
+aVDanny Fortson SEA 11/17/2004 SEA @ NJN W 22 14 2 2 100.0 0 0 - 10 12 83.3 2 4 6 0 1 0 1 5 21
+p733
+aVDanny Fortson SEA 11/16/2004 SEA @ PHI W 13 2 0 0 - 0 0 - 2 2 100.0 1 2 3 1 1 0 4 6 9
+p734
+aVVladimir Radmanovic SEA 11/16/2004 SEA @ PHI W 32 20 7 16 43.8 6 11 54.5 0 0 - 0 5 5 1 1 1 3 2 17
+p735
+aVReggie Evans SEA 11/16/2004 SEA @ PHI W 33 2 1 3 33.3 0 0 - 0 3 0.0 4 7 11 0 3 0 2 4 -1
+p736
+aVLuke Ridnour SEA 11/16/2004 SEA @ PHI W 28 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 10 1 0 3 4 0
+p737
+aVNick Collison SEA 11/16/2004 SEA @ PHI W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 2 -1
+p738
+aVRay Allen SEA 11/16/2004 SEA @ PHI W 44 37 12 24 50.0 7 12 58.3 6 7 85.7 0 5 5 5 1 0 4 2 7
+p739
+aVRashard Lewis SEA 11/16/2004 SEA @ PHI W 41 21 7 18 38.9 3 9 33.3 4 6 66.7 3 3 6 3 1 0 3 1 5
+p740
+aVAntonio Daniels SEA 11/16/2004 SEA @ PHI W 32 19 8 10 80.0 2 4 50.0 1 3 33.3 0 3 3 5 0 0 1 0 7
+p741
+aVJerome James SEA 11/16/2004 SEA @ PHI W 11 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -3
+p742
+aVRay Allen SEA 11/14/2004 SEA vs. MEM W 41 34 10 16 62.5 2 4 50.0 12 13 92.3 0 5 5 2 2 0 3 4 -1
+p743
+aVJerome James SEA 11/14/2004 SEA vs. MEM W 15 7 3 6 50.0 0 0 - 1 3 33.3 0 0 0 0 0 2 1 4 3
+p744
+aVAntonio Daniels SEA 11/14/2004 SEA vs. MEM W 32 28 8 12 66.7 3 5 60.0 9 10 90.0 0 1 1 1 0 0 3 2 8
+p745
+aVVladimir Radmanovic SEA 11/14/2004 SEA vs. MEM W 19 6 3 8 37.5 0 2 0.0 0 1 0.0 0 1 1 2 1 0 2 3 -6
+p746
+aVDamien Wilkins SEA 11/14/2004 SEA vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p747
+aVReggie Evans SEA 11/14/2004 SEA vs. MEM W 33 10 3 5 60.0 0 0 - 4 4 100.0 2 4 6 1 2 0 1 2 -8
+p748
+aVRashard Lewis SEA 11/14/2004 SEA vs. MEM W 45 14 6 10 60.0 0 1 0.0 2 2 100.0 3 9 12 1 1 1 2 2 10
+p749
+aVNick Collison SEA 11/14/2004 SEA vs. MEM W 15 2 1 3 33.3 0 0 - 0 0 - 0 5 5 1 0 2 0 6 10
+p750
+aVLuke Ridnour SEA 11/14/2004 SEA vs. MEM W 36 17 5 8 62.5 1 1 100.0 6 6 100.0 1 2 3 8 1 1 0 1 14
+p751
+aVVladimir Radmanovic SEA 11/12/2004 SEA vs. TOR W 33 5 2 11 18.2 1 5 20.0 0 2 0.0 4 7 11 2 1 1 2 3 5
+p752
+aVJerome James SEA 11/12/2004 SEA vs. TOR W 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 3 4 -1
+p753
+aVNick Collison SEA 11/12/2004 SEA vs. TOR W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 0 -6
+p754
+aVDanny Fortson SEA 11/12/2004 SEA vs. TOR W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 5 -9
+p755
+aVAntonio Daniels SEA 11/12/2004 SEA vs. TOR W 26 16 7 12 58.3 2 4 50.0 0 0 - 0 1 1 3 0 0 1 0 -9
+p756
+aVRay Allen SEA 11/12/2004 SEA vs. TOR W 38 29 10 19 52.6 5 9 55.6 4 4 100.0 1 3 4 7 2 0 2 6 5
+p757
+aVReggie Evans SEA 11/12/2004 SEA vs. TOR W 38 13 5 9 55.6 0 0 - 3 4 75.0 5 11 16 0 2 0 2 4 10
+p758
+aVLuke Ridnour SEA 11/12/2004 SEA vs. TOR W 33 8 2 6 33.3 1 3 33.3 3 4 75.0 2 1 3 7 2 1 5 1 4
+p759
+aVRashard Lewis SEA 11/12/2004 SEA vs. TOR W 41 15 6 20 30.0 3 9 33.3 0 0 - 1 6 7 2 1 2 3 1 6
+p760
+aVMateen Cleaves SEA 11/10/2004 SEA vs. SAC W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -1
+p761
+aVVladimir Radmanovic SEA 11/10/2004 SEA vs. SAC W 31 14 5 9 55.6 2 4 50.0 2 2 100.0 1 2 3 0 1 0 4 4 24
+p762
+aVRay Allen SEA 11/10/2004 SEA vs. SAC W 37 20 6 18 33.3 2 6 33.3 6 7 85.7 0 5 5 5 0 0 3 5 23
+p763
+aVJerome James SEA 11/10/2004 SEA vs. SAC W 12 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 5 8
+p764
+aVNick Collison SEA 11/10/2004 SEA vs. SAC W 13 3 0 3 0.0 0 0 - 3 4 75.0 2 5 7 0 0 1 1 2 8
+p765
+aVLuke Ridnour SEA 11/10/2004 SEA vs. SAC W 31 17 6 11 54.5 2 2 100.0 3 3 100.0 3 2 5 5 1 0 1 4 10
+p766
+aVReggie Evans SEA 11/10/2004 SEA vs. SAC W 20 2 1 3 33.3 0 0 - 0 2 0.0 1 11 12 0 0 0 3 5 15
+p767
+aVRashard Lewis SEA 11/10/2004 SEA vs. SAC W 39 18 6 12 50.0 1 3 33.3 5 7 71.4 1 7 8 1 2 2 1 1 26
+p768
+aVDanny Fortson SEA 11/10/2004 SEA vs. SAC W 21 16 3 8 37.5 0 0 - 10 12 83.3 9 4 13 0 0 0 0 5 9
+p769
+aVDamien Wilkins SEA 11/10/2004 SEA vs. SAC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 1
+p770
+aVRobert Swift SEA 11/10/2004 SEA vs. SAC W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p771
+aVAntonio Daniels SEA 11/10/2004 SEA vs. SAC W 22 12 5 11 45.5 1 2 50.0 1 1 100.0 0 0 0 6 1 0 0 1 26
+p772
+aVVladimir Radmanovic SEA 11/09/2004 SEA @ DEN W 27 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 2 0 0 5 3 18
+p773
+aVRobert Swift SEA 11/09/2004 SEA @ DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p774
+aVLuke Ridnour SEA 11/09/2004 SEA @ DEN W 32 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 11 2 1 2 3 12
+p775
+aVReggie Evans SEA 11/09/2004 SEA @ DEN W 33 6 2 4 50.0 0 0 - 2 4 50.0 3 11 14 1 3 0 2 4 13
+p776
+aVRashard Lewis SEA 11/09/2004 SEA @ DEN W 38 27 10 16 62.5 3 7 42.9 4 7 57.1 0 7 7 0 3 1 1 0 20
+p777
+aVDamien Wilkins SEA 11/09/2004 SEA @ DEN W 7 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 0
+p778
+aVNick Collison SEA 11/09/2004 SEA @ DEN W 9 1 0 1 0.0 0 0 - 1 2 50.0 3 0 3 0 0 0 0 3 1
+p779
+aVJerome James SEA 11/09/2004 SEA @ DEN W 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 1 3 9
+p780
+aVDanny Fortson SEA 11/09/2004 SEA @ DEN W 14 6 2 8 25.0 0 0 - 2 3 66.7 6 2 8 1 1 0 3 5 7
+p781
+aVAntonio Daniels SEA 11/09/2004 SEA @ DEN W 25 14 4 11 36.4 0 2 0.0 6 6 100.0 0 1 1 4 2 0 1 1 3
+p782
+aVMateen Cleaves SEA 11/09/2004 SEA @ DEN W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p783
+aVRay Allen SEA 11/09/2004 SEA @ DEN W 40 30 12 18 66.7 5 6 83.3 1 2 50.0 2 5 7 3 1 0 1 1 17
+p784
+aVAntonio Daniels SEA 11/07/2004 SEA vs. SAS W 26 14 4 5 80.0 1 2 50.0 5 6 83.3 0 0 0 4 0 0 0 1 12
+p785
+aVMateen Cleaves SEA 11/07/2004 SEA vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p786
+aVRobert Swift SEA 11/07/2004 SEA vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p787
+aVDamien Wilkins SEA 11/07/2004 SEA vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p788
+aVRay Allen SEA 11/07/2004 SEA vs. SAS W 39 24 10 20 50.0 4 4 100.0 0 0 - 2 4 6 1 2 0 0 1 22
+p789
+aVJerome James SEA 11/07/2004 SEA vs. SAS W 25 4 0 2 0.0 0 0 - 4 6 66.7 0 3 3 0 0 4 2 6 15
+p790
+aVDanny Fortson SEA 11/07/2004 SEA vs. SAS W 21 15 3 8 37.5 0 0 - 9 10 90.0 7 6 13 0 0 0 1 5 6
+p791
+aVNick Collison SEA 11/07/2004 SEA vs. SAS W 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 4 10
+p792
+aVRashard Lewis SEA 11/07/2004 SEA vs. SAS W 42 27 9 17 52.9 0 4 0.0 9 9 100.0 2 3 5 1 1 0 4 2 17
+p793
+aVLuke Ridnour SEA 11/07/2004 SEA vs. SAS W 22 2 1 4 25.0 0 0 - 0 0 - 1 2 3 6 2 1 3 2 7
+p794
+aVVladimir Radmanovic SEA 11/07/2004 SEA vs. SAS W 27 15 6 11 54.5 1 3 33.3 2 2 100.0 0 3 3 1 2 1 2 2 12
+p795
+aVReggie Evans SEA 11/07/2004 SEA vs. SAS W 24 10 5 7 71.4 0 0 - 0 0 - 2 0 2 0 2 0 0 2 0
+p796
+aVLuke Ridnour SEA 11/05/2004 SEA vs. ATL W 28 9 3 10 30.0 0 2 0.0 3 3 100.0 1 1 2 6 3 1 4 2 9
+p797
+aVRashard Lewis SEA 11/05/2004 SEA vs. ATL W 38 23 7 18 38.9 2 8 25.0 7 8 87.5 3 2 5 0 1 5 2 2 15
+p798
+aVDamien Wilkins SEA 11/05/2004 SEA vs. ATL W 9 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 2 0 1 0 -4
+p799
+aVVladimir Radmanovic SEA 11/05/2004 SEA vs. ATL W 24 9 3 7 42.9 1 2 50.0 2 4 50.0 0 3 3 2 2 0 1 4 24
+p800
+aVDanny Fortson SEA 11/05/2004 SEA vs. ATL W 14 9 3 3 100.0 0 0 - 3 3 100.0 2 3 5 1 0 0 1 5 12
+p801
+aVRay Allen SEA 11/05/2004 SEA vs. ATL W 38 25 10 16 62.5 4 7 57.1 1 1 100.0 0 1 1 3 2 0 4 2 19
+p802
+aVNick Collison SEA 11/05/2004 SEA vs. ATL W 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 4
+p803
+aVJerome James SEA 11/05/2004 SEA vs. ATL W 17 3 1 3 33.3 0 0 - 1 2 50.0 3 1 4 1 0 4 1 2 -2
+p804
+aVMateen Cleaves SEA 11/05/2004 SEA vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p805
+aVRobert Swift SEA 11/05/2004 SEA vs. ATL W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -3
+p806
+aVAntonio Daniels SEA 11/05/2004 SEA vs. ATL W 27 12 4 6 66.7 0 2 0.0 4 4 100.0 0 2 2 4 0 0 0 2 24
+p807
+aVReggie Evans SEA 11/05/2004 SEA vs. ATL W 30 11 4 5 80.0 0 0 - 3 7 42.9 2 7 9 0 1 0 0 2 10
+p808
+aVRay Allen SEA 11/03/2004 SEA @ LAC L 38 20 7 18 38.9 2 4 50.0 4 4 100.0 2 3 5 5 1 0 3 2 -18
+p809
+aVVladimir Radmanovic SEA 11/03/2004 SEA @ LAC L 30 20 7 11 63.6 3 5 60.0 3 3 100.0 1 3 4 2 0 0 0 4 0
+p810
+aVLuke Ridnour SEA 11/03/2004 SEA @ LAC L 28 2 0 8 0.0 0 0 - 2 2 100.0 0 0 0 2 2 0 1 1 -22
+p811
+aVRonald Murray SEA 11/03/2004 SEA @ LAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -6
+p812
+aVAntonio Daniels SEA 11/03/2004 SEA @ LAC L 26 5 2 12 16.7 0 5 0.0 1 4 25.0 2 2 4 1 1 0 1 0 -22
+p813
+aVDamien Wilkins SEA 11/03/2004 SEA @ LAC L 10 3 1 3 33.3 0 1 0.0 1 2 50.0 2 2 4 1 0 0 0 2 -13
+p814
+aVRobert Swift SEA 11/03/2004 SEA @ LAC L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -16
+p815
+aVJerome James SEA 11/03/2004 SEA @ LAC L 24 6 3 7 42.9 0 0 - 0 0 - 2 2 4 0 0 1 0 6 -8
+p816
+aVReggie Evans SEA 11/03/2004 SEA @ LAC L 17 2 1 2 50.0 0 1 0.0 0 0 - 3 3 6 0 0 0 1 3 -24
+p817
+aVRashard Lewis SEA 11/03/2004 SEA @ LAC L 32 24 8 15 53.3 4 6 66.7 4 5 80.0 2 3 5 1 0 0 3 3 -11
+p818
+aVNick Collison SEA 11/03/2004 SEA @ LAC L 13 2 1 4 25.0 0 0 - 0 0 - 1 4 5 2 0 0 1 3 -10
+p819
+a.

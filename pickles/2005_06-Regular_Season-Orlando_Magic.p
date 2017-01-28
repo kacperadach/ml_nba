@@ -1,0 +1,1608 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCarlos Arroyo ORL 04/19/2006 ORL @ IND L 28 17 8 17 47.1 0 1 0.0 1 1 100.0 0 3 3 2 1 0 3 3 15
+p2
+aVDwight Howard ORL 04/19/2006 ORL @ IND L 27 10 4 11 36.4 0 0 - 2 4 50.0 4 3 7 1 1 0 1 4 -1
+p3
+aVKeyon Dooling ORL 04/19/2006 ORL @ IND L 26 15 5 12 41.7 2 3 66.7 3 3 100.0 0 2 2 0 2 1 0 2 13
+p4
+aVDeShawn Stevenson ORL 04/19/2006 ORL @ IND L 25 10 4 8 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 3 -19
+p5
+aVJameer Nelson ORL 04/19/2006 ORL @ IND L 20 5 1 6 16.7 1 4 25.0 2 3 66.7 0 0 0 2 1 0 2 2 -21
+p6
+aVStacey Augmon ORL 04/19/2006 ORL @ IND L 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 1 0 3 -19
+p7
+aVTony Battie ORL 04/19/2006 ORL @ IND L 19 0 0 8 0.0 0 0 - 0 0 - 3 1 4 0 0 0 1 2 -22
+p8
+aVPat Garrity ORL 04/19/2006 ORL @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 6
+p9
+aVBo Outlaw ORL 04/19/2006 ORL @ IND L 28 10 4 6 66.7 0 0 - 2 2 100.0 4 4 8 0 2 1 0 4 16
+p10
+aVDarko Milicic ORL 04/19/2006 ORL @ IND L 14 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -11
+p11
+aVTrevor Ariza ORL 04/19/2006 ORL @ IND L 30 13 5 12 41.7 0 0 - 3 5 60.0 5 7 12 2 2 0 1 2 13
+p12
+aVKeyon Dooling ORL 04/17/2006 ORL vs. CHI L 32 12 5 12 41.7 2 5 40.0 0 0 - 2 2 4 4 1 1 2 5 -2
+p13
+aVBo Outlaw ORL 04/17/2006 ORL vs. CHI L 9 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 1 0 1 2 11
+p14
+aVDwight Howard ORL 04/17/2006 ORL vs. CHI L 42 22 9 15 60.0 0 0 - 4 8 50.0 2 12 14 0 0 1 4 3 -11
+p15
+aVDeShawn Stevenson ORL 04/17/2006 ORL vs. CHI L 30 9 1 6 16.7 1 1 100.0 6 6 100.0 1 2 3 3 2 0 0 1 -7
+p16
+aVTrevor Ariza ORL 04/17/2006 ORL vs. CHI L 14 6 2 4 50.0 0 1 0.0 2 2 100.0 1 2 3 0 1 1 1 3 5
+p17
+aVDarko Milicic ORL 04/17/2006 ORL vs. CHI L 19 4 2 8 25.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 0
+p18
+aVTony Battie ORL 04/17/2006 ORL vs. CHI L 23 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 1 0 5 -7
+p19
+aVHedo Turkoglu ORL 04/17/2006 ORL vs. CHI L 44 32 7 11 63.6 4 5 80.0 14 16 87.5 2 7 9 2 1 0 4 4 -5
+p20
+aVJameer Nelson ORL 04/17/2006 ORL vs. CHI L 35 15 5 13 38.5 1 5 20.0 4 6 66.7 0 3 3 7 2 0 7 6 -2
+p21
+aVCarlos Arroyo ORL 04/17/2006 ORL vs. CHI L 18 8 4 8 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -2
+p22
+aVDarko Milicic ORL 04/15/2006 ORL vs. PHI W 23 8 4 11 36.4 0 0 - 0 0 - 2 2 4 1 0 2 2 0 -6
+p23
+aVHedo Turkoglu ORL 04/15/2006 ORL vs. PHI W 33 23 7 14 50.0 4 7 57.1 5 7 71.4 0 2 2 3 2 0 0 2 10
+p24
+aVDwight Howard ORL 04/15/2006 ORL vs. PHI W 39 28 9 14 64.3 0 0 - 10 19 52.6 9 17 26 1 2 1 3 4 12
+p25
+aVTrevor Ariza ORL 04/15/2006 ORL vs. PHI W 17 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -5
+p26
+aVJameer Nelson ORL 04/15/2006 ORL vs. PHI W 40 21 10 19 52.6 1 3 33.3 0 1 0.0 2 2 4 8 0 0 2 3 13
+p27
+aVKeyon Dooling ORL 04/15/2006 ORL vs. PHI W 18 2 0 6 0.0 0 0 - 2 2 100.0 0 0 0 2 3 0 0 2 -9
+p28
+aVTony Battie ORL 04/15/2006 ORL vs. PHI W 33 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 0 0 0 1 2 6
+p29
+aVDeShawn Stevenson ORL 04/15/2006 ORL vs. PHI W 37 8 3 6 50.0 0 0 - 2 3 66.7 0 2 2 1 2 0 1 3 4
+p30
+aVDwight Howard ORL 04/13/2006 ORL @ SAS W 39 22 9 15 60.0 0 0 - 4 7 57.1 3 10 13 1 1 1 2 2 13
+p31
+aVHedo Turkoglu ORL 04/13/2006 ORL @ SAS W 35 15 6 11 54.5 1 1 100.0 2 3 66.7 0 4 4 1 1 0 1 2 10
+p32
+aVDarko Milicic ORL 04/13/2006 ORL @ SAS W 28 14 5 9 55.6 0 0 - 4 4 100.0 3 4 7 0 1 3 1 2 6
+p33
+aVTrevor Ariza ORL 04/13/2006 ORL @ SAS W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 2
+p34
+aVDeShawn Stevenson ORL 04/13/2006 ORL @ SAS W 40 10 4 9 44.4 0 0 - 2 3 66.7 1 1 2 1 1 0 1 1 8
+p35
+aVTony Battie ORL 04/13/2006 ORL @ SAS W 29 6 3 9 33.3 0 0 - 0 0 - 3 1 4 2 2 1 0 5 5
+p36
+aVJameer Nelson ORL 04/13/2006 ORL @ SAS W 35 19 8 17 47.1 1 2 50.0 2 2 100.0 0 7 7 8 2 0 3 3 9
+p37
+aVKeyon Dooling ORL 04/13/2006 ORL @ SAS W 21 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 7
+p38
+aVHedo Turkoglu ORL 04/12/2006 ORL vs. TOR W 35 18 7 16 43.8 1 7 14.3 3 3 100.0 0 5 5 7 0 0 0 3 19
+p39
+aVKeyon Dooling ORL 04/12/2006 ORL vs. TOR W 23 6 2 10 20.0 0 1 0.0 2 3 66.7 0 4 4 2 0 0 3 1 -11
+p40
+aVDeShawn Stevenson ORL 04/12/2006 ORL vs. TOR W 36 10 4 7 57.1 0 0 - 2 2 100.0 1 3 4 3 2 0 0 0 13
+p41
+aVTravis Diener ORL 04/12/2006 ORL vs. TOR W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p42
+aVTrevor Ariza ORL 04/12/2006 ORL vs. TOR W 14 4 0 1 0.0 0 0 - 4 8 50.0 1 2 3 0 1 0 1 3 -15
+p43
+aVDwight Howard ORL 04/12/2006 ORL vs. TOR W 36 14 5 7 71.4 0 0 - 4 9 44.4 4 6 10 1 0 1 3 4 11
+p44
+aVBo Outlaw ORL 04/12/2006 ORL vs. TOR W 5 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -5
+p45
+aVDarko Milicic ORL 04/12/2006 ORL vs. TOR W 18 4 2 6 33.3 0 0 - 0 0 - 0 3 3 0 0 3 0 2 -9
+p46
+aVJameer Nelson ORL 04/12/2006 ORL vs. TOR W 39 27 9 19 47.4 4 7 57.1 5 6 83.3 0 3 3 7 3 0 1 2 23
+p47
+aVTony Battie ORL 04/12/2006 ORL vs. TOR W 28 16 8 11 72.7 0 1 0.0 0 0 - 2 3 5 2 1 1 2 3 22
+p48
+aVKeyon Dooling ORL 04/10/2006 ORL vs. ATL W 20 10 4 10 40.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 3 2 -2
+p49
+aVDarko Milicic ORL 04/10/2006 ORL vs. ATL W 21 13 5 6 83.3 0 0 - 3 4 75.0 0 2 2 1 0 1 1 3 2
+p50
+aVTony Battie ORL 04/10/2006 ORL vs. ATL W 30 7 2 5 40.0 0 0 - 3 4 75.0 1 7 8 1 1 1 1 2 12
+p51
+aVJameer Nelson ORL 04/10/2006 ORL vs. ATL W 35 17 7 16 43.8 2 4 50.0 1 2 50.0 0 1 1 6 0 0 3 4 10
+p52
+aVTrevor Ariza ORL 04/10/2006 ORL vs. ATL W 10 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 0 4
+p53
+aVDeShawn Stevenson ORL 04/10/2006 ORL vs. ATL W 32 14 7 12 58.3 0 1 0.0 0 0 - 1 5 6 3 0 0 0 1 25
+p54
+aVStacey Augmon ORL 04/10/2006 ORL vs. ATL W 6 4 1 1 100.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 2 3
+p55
+aVHedo Turkoglu ORL 04/10/2006 ORL vs. ATL W 32 16 6 10 60.0 4 5 80.0 0 0 - 0 5 5 5 2 0 1 2 10
+p56
+aVDwight Howard ORL 04/10/2006 ORL vs. ATL W 36 20 7 12 58.3 0 0 - 6 10 60.0 5 11 16 6 1 0 3 2 26
+p57
+aVBo Outlaw ORL 04/10/2006 ORL vs. ATL W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 2 0 2 -6
+p58
+aVTravis Diener ORL 04/10/2006 ORL vs. ATL W 10 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 1
+p59
+aVCarlos Arroyo ORL 04/09/2006 ORL @ MIA W 7 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 2 0 0 0 0 -1
+p60
+aVDwight Howard ORL 04/09/2006 ORL @ MIA W 33 16 4 6 66.7 0 0 - 8 13 61.5 1 7 8 1 2 1 1 3 2
+p61
+aVDeShawn Stevenson ORL 04/09/2006 ORL @ MIA W 28 11 5 6 83.3 0 0 - 1 1 100.0 0 2 2 3 0 0 0 3 12
+p62
+aVTrevor Ariza ORL 04/09/2006 ORL @ MIA W 15 4 2 4 50.0 0 0 - 0 2 0.0 0 2 2 2 1 0 0 0 5
+p63
+aVTony Battie ORL 04/09/2006 ORL @ MIA W 25 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 2 0 1 3 21
+p64
+aVKeyon Dooling ORL 04/09/2006 ORL @ MIA W 24 9 4 9 44.4 1 2 50.0 0 0 - 0 0 0 1 1 0 3 2 -7
+p65
+aVJameer Nelson ORL 04/09/2006 ORL @ MIA W 35 26 9 16 56.3 3 4 75.0 5 5 100.0 0 2 2 1 2 0 3 2 15
+p66
+aVHedo Turkoglu ORL 04/09/2006 ORL @ MIA W 39 14 5 13 38.5 0 1 0.0 4 4 100.0 0 3 3 1 1 0 4 2 7
+p67
+aVBo Outlaw ORL 04/09/2006 ORL @ MIA W 23 4 2 2 100.0 0 0 - 0 2 0.0 3 3 6 1 2 1 0 4 -5
+p68
+aVDarko Milicic ORL 04/09/2006 ORL @ MIA W 11 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -4
+p69
+aVKeyon Dooling ORL 04/07/2006 ORL vs. DET W 27 2 1 8 12.5 0 0 - 0 0 - 0 1 1 1 3 0 1 3 10
+p70
+aVDwight Howard ORL 04/07/2006 ORL vs. DET W 38 12 3 10 30.0 0 0 - 6 10 60.0 4 11 15 2 0 1 2 1 9
+p71
+aVTony Battie ORL 04/07/2006 ORL vs. DET W 35 11 4 10 40.0 0 1 0.0 3 4 75.0 0 4 4 0 0 0 1 4 0
+p72
+aVCarlos Arroyo ORL 04/07/2006 ORL vs. DET W 26 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 2 2 0 2 2 -5
+p73
+aVDarko Milicic ORL 04/07/2006 ORL vs. DET W 23 8 4 5 80.0 0 0 - 0 0 - 0 4 4 2 0 1 2 2 -5
+p74
+aVHedo Turkoglu ORL 04/07/2006 ORL vs. DET W 39 26 10 13 76.9 1 4 25.0 5 5 100.0 1 6 7 5 0 0 1 4 7
+p75
+aVTrevor Ariza ORL 04/07/2006 ORL vs. DET W 9 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 0 2 2 -5
+p76
+aVDeShawn Stevenson ORL 04/07/2006 ORL vs. DET W 21 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 1 1 2 1 -8
+p77
+aVJameer Nelson ORL 04/07/2006 ORL vs. DET W 22 8 4 8 50.0 0 0 - 0 0 - 1 0 1 3 1 0 2 3 7
+p78
+aVDwight Howard ORL 04/05/2006 ORL vs. MIL W 37 19 7 12 58.3 0 0 - 5 7 71.4 1 16 17 2 2 0 3 2 3
+p79
+aVJameer Nelson ORL 04/05/2006 ORL vs. MIL W 17 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 4 0 0 4 6 9
+p80
+aVDeShawn Stevenson ORL 04/05/2006 ORL vs. MIL W 28 6 3 6 50.0 0 0 - 0 0 - 0 1 1 3 1 0 1 3 4
+p81
+aVTony Battie ORL 04/05/2006 ORL vs. MIL W 32 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 1 0 1 2 -10
+p82
+aVDarko Milicic ORL 04/05/2006 ORL vs. MIL W 18 10 4 9 44.4 0 0 - 2 4 50.0 0 4 4 1 0 1 1 2 4
+p83
+aVHedo Turkoglu ORL 04/05/2006 ORL vs. MIL W 35 24 7 11 63.6 3 3 100.0 7 9 77.8 1 3 4 4 2 0 2 2 -1
+p84
+aVCarlos Arroyo ORL 04/05/2006 ORL vs. MIL W 31 17 7 12 58.3 0 1 0.0 3 3 100.0 1 1 2 2 0 0 4 4 -6
+p85
+aVTrevor Ariza ORL 04/05/2006 ORL vs. MIL W 14 6 2 6 33.3 0 0 - 2 2 100.0 5 3 8 1 1 0 1 2 4
+p86
+aVBo Outlaw ORL 04/05/2006 ORL vs. MIL W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p87
+aVKeyon Dooling ORL 04/05/2006 ORL vs. MIL W 21 14 6 9 66.7 0 0 - 2 2 100.0 0 1 1 1 0 0 1 5 1
+p88
+aVTony Battie ORL 03/31/2006 ORL vs. DAL W 29 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 0 1 2 3 -12
+p89
+aVDwight Howard ORL 03/31/2006 ORL vs. DAL W 38 14 6 9 66.7 0 0 - 2 4 50.0 2 8 10 1 0 1 2 5 12
+p90
+aVTrevor Ariza ORL 03/31/2006 ORL vs. DAL W 16 8 2 4 50.0 0 0 - 4 4 100.0 0 1 1 0 2 0 0 0 9
+p91
+aVCarlos Arroyo ORL 03/31/2006 ORL vs. DAL W 17 12 4 6 66.7 0 0 - 4 4 100.0 0 3 3 2 0 0 4 2 10
+p92
+aVHedo Turkoglu ORL 03/31/2006 ORL vs. DAL W 33 25 8 13 61.5 3 5 60.0 6 7 85.7 0 5 5 1 1 2 1 3 -3
+p93
+aVBo Outlaw ORL 03/31/2006 ORL vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 0 6
+p94
+aVKeyon Dooling ORL 03/31/2006 ORL vs. DAL W 16 5 2 5 40.0 0 1 0.0 1 1 100.0 0 1 1 1 1 0 1 2 4
+p95
+aVJameer Nelson ORL 03/31/2006 ORL vs. DAL W 32 27 10 15 66.7 2 5 40.0 5 6 83.3 0 2 2 4 2 0 1 2 1
+p96
+aVDeShawn Stevenson ORL 03/31/2006 ORL vs. DAL W 32 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 1 1 0 3 3 1
+p97
+aVDarko Milicic ORL 03/31/2006 ORL vs. DAL W 22 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 2 0 2 0 3 12
+p98
+aVDwight Howard ORL 03/29/2006 ORL @ MIN L 41 15 6 13 46.2 0 0 - 3 9 33.3 4 8 12 2 0 1 2 4 -5
+p99
+aVTrevor Ariza ORL 03/29/2006 ORL @ MIN L 11 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -5
+p100
+aVDarko Milicic ORL 03/29/2006 ORL @ MIN L 25 12 5 8 62.5 0 0 - 2 6 33.3 2 3 5 2 2 0 3 1 -7
+p101
+aVCarlos Arroyo ORL 03/29/2006 ORL @ MIN L 21 10 3 7 42.9 0 0 - 4 4 100.0 0 1 1 4 0 0 1 0 -1
+p102
+aVKeyon Dooling ORL 03/29/2006 ORL @ MIN L 24 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 1 0 3 3 -5
+p103
+aVBo Outlaw ORL 03/29/2006 ORL @ MIN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -6
+p104
+aVJameer Nelson ORL 03/29/2006 ORL @ MIN L 26 6 2 6 33.3 1 3 33.3 1 2 50.0 0 1 1 6 1 0 0 0 -10
+p105
+aVTony Battie ORL 03/29/2006 ORL @ MIN L 26 14 7 9 77.8 0 0 - 0 0 - 1 4 5 0 0 0 3 3 -4
+p106
+aVHedo Turkoglu ORL 03/29/2006 ORL @ MIN L 33 15 4 10 40.0 2 4 50.0 5 5 100.0 1 4 5 2 1 0 1 5 -10
+p107
+aVDeShawn Stevenson ORL 03/29/2006 ORL @ MIN L 28 10 4 13 30.8 0 0 - 2 2 100.0 4 3 7 3 1 0 1 1 -2
+p108
+aVDarko Milicic ORL 03/28/2006 ORL @ CHI W 27 12 6 12 50.0 0 0 - 0 0 - 2 6 8 0 0 4 1 2 11
+p109
+aVTrevor Ariza ORL 03/28/2006 ORL @ CHI W 14 3 1 5 20.0 0 0 - 1 2 50.0 0 5 5 1 1 0 1 2 10
+p110
+aVDeShawn Stevenson ORL 03/28/2006 ORL @ CHI W 25 7 3 8 37.5 0 0 - 1 1 100.0 0 1 1 4 0 0 1 2 -10
+p111
+aVKeyon Dooling ORL 03/28/2006 ORL @ CHI W 23 15 6 7 85.7 1 2 50.0 2 2 100.0 0 1 1 0 2 0 0 1 14
+p112
+aVDwight Howard ORL 03/28/2006 ORL @ CHI W 30 6 3 10 30.0 0 1 0.0 0 1 0.0 3 8 11 2 0 0 4 3 -10
+p113
+aVCarlos Arroyo ORL 03/28/2006 ORL @ CHI W 22 13 3 7 42.9 0 0 - 7 8 87.5 0 0 0 1 0 0 3 2 8
+p114
+aVBo Outlaw ORL 03/28/2006 ORL @ CHI W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 2 1
+p115
+aVTony Battie ORL 03/28/2006 ORL @ CHI W 21 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 3 3 -7
+p116
+aVJameer Nelson ORL 03/28/2006 ORL @ CHI W 26 24 7 13 53.8 3 5 60.0 7 9 77.8 0 2 2 4 0 1 2 3 0
+p117
+aVPat Garrity ORL 03/28/2006 ORL @ CHI W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p118
+aVHedo Turkoglu ORL 03/28/2006 ORL @ CHI W 40 15 6 9 66.7 1 3 33.3 2 4 50.0 1 5 6 4 0 0 2 1 -1
+p119
+aVCarlos Arroyo ORL 03/26/2006 ORL vs. ATL W 18 6 3 6 50.0 0 0 - 0 0 - 0 3 3 3 0 0 1 0 -3
+p120
+aVKeyon Dooling ORL 03/26/2006 ORL vs. ATL W 20 13 6 8 75.0 1 1 100.0 0 0 - 0 0 0 3 1 0 2 4 6
+p121
+aVDwight Howard ORL 03/26/2006 ORL vs. ATL W 40 15 6 9 66.7 0 0 - 3 5 60.0 4 9 13 4 1 1 3 4 9
+p122
+aVTony Battie ORL 03/26/2006 ORL vs. ATL W 16 9 3 4 75.0 0 0 - 3 4 75.0 0 3 3 0 0 3 0 3 -1
+p123
+aVHedo Turkoglu ORL 03/26/2006 ORL vs. ATL W 35 23 8 12 66.7 1 3 33.3 6 7 85.7 0 4 4 2 0 0 2 4 17
+p124
+aVDarko Milicic ORL 03/26/2006 ORL vs. ATL W 26 13 6 9 66.7 0 0 - 1 2 50.0 3 2 5 3 0 1 0 6 -2
+p125
+aVTrevor Ariza ORL 03/26/2006 ORL vs. ATL W 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -10
+p126
+aVBo Outlaw ORL 03/26/2006 ORL vs. ATL W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 12
+p127
+aVJameer Nelson ORL 03/26/2006 ORL vs. ATL W 32 15 6 13 46.2 1 2 50.0 2 3 66.7 2 4 6 3 0 0 2 4 6
+p128
+aVDeShawn Stevenson ORL 03/26/2006 ORL vs. ATL W 28 12 4 7 57.1 0 0 - 4 4 100.0 0 0 0 4 1 0 2 0 1
+p129
+aVCarlos Arroyo ORL 03/24/2006 ORL @ PHI W 25 16 7 9 77.8 0 0 - 2 2 100.0 0 5 5 5 4 0 2 2 14
+p130
+aVDarko Milicic ORL 03/24/2006 ORL @ PHI W 20 11 5 8 62.5 0 0 - 1 1 100.0 1 0 1 1 0 1 0 4 14
+p131
+aVDwight Howard ORL 03/24/2006 ORL @ PHI W 36 15 5 10 50.0 0 0 - 5 10 50.0 6 13 19 5 0 4 2 1 -2
+p132
+aVTrevor Ariza ORL 03/24/2006 ORL @ PHI W 27 11 2 9 22.2 0 1 0.0 7 8 87.5 4 7 11 0 2 0 3 1 21
+p133
+aVHedo Turkoglu ORL 03/24/2006 ORL @ PHI W 16 4 1 3 33.3 1 2 50.0 1 1 100.0 0 0 0 1 1 1 1 0 -3
+p134
+aVTony Battie ORL 03/24/2006 ORL @ PHI W 34 10 5 6 83.3 0 0 - 0 0 - 0 5 5 1 1 1 2 3 6
+p135
+aVDeShawn Stevenson ORL 03/24/2006 ORL @ PHI W 25 4 2 6 33.3 0 0 - 0 0 - 0 2 2 2 1 0 3 2 11
+p136
+aVKeyon Dooling ORL 03/24/2006 ORL @ PHI W 31 12 5 9 55.6 0 1 0.0 2 2 100.0 0 2 2 2 1 1 3 3 21
+p137
+aVJameer Nelson ORL 03/24/2006 ORL @ PHI W 26 19 8 11 72.7 1 1 100.0 2 2 100.0 0 2 2 7 1 0 4 3 -2
+p138
+aVHedo Turkoglu ORL 03/22/2006 ORL vs. NYK W 26 16 6 9 66.7 1 2 50.0 3 3 100.0 0 1 1 2 2 0 2 1 20
+p139
+aVTony Battie ORL 03/22/2006 ORL vs. NYK W 31 6 3 6 50.0 0 0 - 0 0 - 2 4 6 1 0 2 0 1 18
+p140
+aVJameer Nelson ORL 03/22/2006 ORL vs. NYK W 28 13 6 12 50.0 1 3 33.3 0 0 - 1 5 6 6 2 0 0 0 21
+p141
+aVKeyon Dooling ORL 03/22/2006 ORL vs. NYK W 23 11 3 6 50.0 1 1 100.0 4 4 100.0 0 1 1 9 2 0 1 3 16
+p142
+aVBo Outlaw ORL 03/22/2006 ORL vs. NYK W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -3
+p143
+aVTravis Diener ORL 03/22/2006 ORL vs. NYK W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p144
+aVDwight Howard ORL 03/22/2006 ORL vs. NYK W 23 23 9 11 81.8 0 0 - 5 5 100.0 5 2 7 1 1 0 1 4 23
+p145
+aVDeShawn Stevenson ORL 03/22/2006 ORL vs. NYK W 21 10 3 8 37.5 0 0 - 4 6 66.7 1 2 3 0 1 0 2 4 8
+p146
+aVDarko Milicic ORL 03/22/2006 ORL vs. NYK W 31 13 6 11 54.5 0 0 - 1 2 50.0 2 5 7 2 1 4 1 5 10
+p147
+aVTrevor Ariza ORL 03/22/2006 ORL vs. NYK W 22 10 3 9 33.3 0 0 - 4 5 80.0 3 4 7 0 0 0 0 2 4
+p148
+aVCarlos Arroyo ORL 03/22/2006 ORL vs. NYK W 20 4 1 7 14.3 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 1 3
+p149
+aVDeShawn Stevenson ORL 03/21/2006 ORL @ CHA L 27 11 5 11 45.5 0 0 - 1 1 100.0 0 1 1 1 0 0 0 1 -5
+p150
+aVDwight Howard ORL 03/21/2006 ORL @ CHA L 39 17 6 9 66.7 0 0 - 5 8 62.5 3 12 15 2 1 0 1 2 10
+p151
+aVTrevor Ariza ORL 03/21/2006 ORL @ CHA L 19 2 0 2 0.0 0 0 - 2 4 50.0 1 2 3 2 1 0 1 0 -10
+p152
+aVBo Outlaw ORL 03/21/2006 ORL @ CHA L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p153
+aVHedo Turkoglu ORL 03/21/2006 ORL @ CHA L 42 24 8 18 44.4 4 8 50.0 4 5 80.0 1 4 5 9 1 0 3 3 1
+p154
+aVTony Battie ORL 03/21/2006 ORL @ CHA L 25 14 7 10 70.0 0 0 - 0 0 - 3 4 7 0 0 4 2 6 1
+p155
+aVDarko Milicic ORL 03/21/2006 ORL @ CHA L 12 0 0 0 - 0 0 - 0 2 0.0 0 3 3 1 0 3 2 0 -10
+p156
+aVJameer Nelson ORL 03/21/2006 ORL @ CHA L 35 19 6 15 40.0 1 3 33.3 6 6 100.0 1 2 3 8 0 0 2 4 -3
+p157
+aVKeyon Dooling ORL 03/21/2006 ORL @ CHA L 23 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 0 0 0 1 4 -4
+p158
+aVCarlos Arroyo ORL 03/21/2006 ORL @ CHA L 14 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 2 0 2 3 -2
+p159
+aVCarlos Arroyo ORL 03/19/2006 ORL @ ATL L 20 10 4 9 44.4 0 0 - 2 2 100.0 0 0 0 3 0 0 0 1 2
+p160
+aVKeyon Dooling ORL 03/19/2006 ORL @ ATL L 25 12 3 10 30.0 0 0 - 6 6 100.0 0 3 3 1 0 0 0 1 5
+p161
+aVTrevor Ariza ORL 03/19/2006 ORL @ ATL L 20 10 4 7 57.1 0 0 - 2 2 100.0 2 6 8 5 1 0 0 1 -10
+p162
+aVBo Outlaw ORL 03/19/2006 ORL @ ATL L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 6
+p163
+aVDeShawn Stevenson ORL 03/19/2006 ORL @ ATL L 28 10 3 6 50.0 0 0 - 4 4 100.0 0 2 2 1 0 0 1 2 -6
+p164
+aVHedo Turkoglu ORL 03/19/2006 ORL @ ATL L 33 16 4 6 66.7 1 2 50.0 7 7 100.0 0 2 2 4 1 0 1 3 9
+p165
+aVTony Battie ORL 03/19/2006 ORL @ ATL L 42 14 7 10 70.0 0 0 - 0 2 0.0 1 4 5 0 0 1 0 3 -4
+p166
+aVDarko Milicic ORL 03/19/2006 ORL @ ATL L 17 4 2 6 33.3 0 0 - 0 0 - 1 0 1 0 0 2 1 1 3
+p167
+aVJameer Nelson ORL 03/19/2006 ORL @ ATL L 32 18 8 16 50.0 2 4 50.0 0 0 - 2 1 3 1 0 0 2 3 -3
+p168
+aVDwight Howard ORL 03/19/2006 ORL @ ATL L 42 13 5 11 45.5 0 0 - 3 6 50.0 4 11 15 4 2 2 2 4 -7
+p169
+aVJameer Nelson ORL 03/17/2006 ORL vs. BOS W 34 19 8 14 57.1 0 0 - 3 4 75.0 0 7 7 5 3 0 1 3 14
+p170
+aVCarlos Arroyo ORL 03/17/2006 ORL vs. BOS W 16 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 4 0 0 1 3 -6
+p171
+aVTony Battie ORL 03/17/2006 ORL vs. BOS W 31 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 0 1 0 4 2 4
+p172
+aVDeShawn Stevenson ORL 03/17/2006 ORL vs. BOS W 27 4 1 6 16.7 0 0 - 2 2 100.0 1 3 4 0 1 0 2 2 8
+p173
+aVTrevor Ariza ORL 03/17/2006 ORL vs. BOS W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 2 1 -1
+p174
+aVDarko Milicic ORL 03/17/2006 ORL vs. BOS W 20 10 5 10 50.0 0 0 - 0 0 - 0 6 6 2 0 4 0 2 2
+p175
+aVKeyon Dooling ORL 03/17/2006 ORL vs. BOS W 21 6 3 7 42.9 0 0 - 0 1 0.0 1 0 1 1 1 0 0 1 -1
+p176
+aVHedo Turkoglu ORL 03/17/2006 ORL vs. BOS W 37 18 5 18 27.8 1 7 14.3 7 10 70.0 4 5 9 2 4 0 1 3 8
+p177
+aVDwight Howard ORL 03/17/2006 ORL vs. BOS W 43 18 7 14 50.0 0 0 - 4 6 66.7 7 6 13 2 0 6 2 2 7
+p178
+aVTony Battie ORL 03/15/2006 ORL vs. UTA W 34 19 7 10 70.0 0 0 - 5 6 83.3 4 3 7 3 1 2 0 5 13
+p179
+aVKeyon Dooling ORL 03/15/2006 ORL vs. UTA W 19 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 1 1 0 4 3 -7
+p180
+aVStacey Augmon ORL 03/15/2006 ORL vs. UTA W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p181
+aVJameer Nelson ORL 03/15/2006 ORL vs. UTA W 33 25 10 17 58.8 0 1 0.0 5 5 100.0 0 0 0 9 1 1 1 5 13
+p182
+aVCarlos Arroyo ORL 03/15/2006 ORL vs. UTA W 21 13 4 6 66.7 1 1 100.0 4 5 80.0 1 4 5 3 1 0 3 1 -5
+p183
+aVDwight Howard ORL 03/15/2006 ORL vs. UTA W 42 16 4 7 57.1 0 0 - 8 11 72.7 1 10 11 1 0 3 6 5 6
+p184
+aVDarko Milicic ORL 03/15/2006 ORL vs. UTA W 25 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 3 1 5 3 2 -7
+p185
+aVBo Outlaw ORL 03/15/2006 ORL vs. UTA W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p186
+aVDeShawn Stevenson ORL 03/15/2006 ORL vs. UTA W 34 10 4 10 40.0 0 1 0.0 2 2 100.0 2 2 4 2 0 0 2 3 10
+p187
+aVHedo Turkoglu ORL 03/15/2006 ORL vs. UTA W 42 20 7 13 53.8 3 6 50.0 3 3 100.0 1 2 3 2 1 0 1 3 8
+p188
+aVDwight Howard ORL 03/13/2006 ORL @ IND L 36 22 10 17 58.8 0 0 - 2 3 66.7 2 9 11 1 1 1 3 5 2
+p189
+aVHedo Turkoglu ORL 03/13/2006 ORL @ IND L 36 8 4 12 33.3 0 3 0.0 0 0 - 0 3 3 3 2 0 2 1 -3
+p190
+aVStacey Augmon ORL 03/13/2006 ORL @ IND L 12 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -11
+p191
+aVDarko Milicic ORL 03/13/2006 ORL @ IND L 24 8 4 8 50.0 0 0 - 0 0 - 1 2 3 2 0 5 3 3 -11
+p192
+aVTony Battie ORL 03/13/2006 ORL @ IND L 27 9 3 7 42.9 0 0 - 3 3 100.0 0 4 4 0 1 0 0 1 0
+p193
+aVBo Outlaw ORL 03/13/2006 ORL @ IND L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -10
+p194
+aVDeShawn Stevenson ORL 03/13/2006 ORL @ IND L 29 9 3 7 42.9 0 0 - 3 4 75.0 1 2 3 2 0 0 0 3 -4
+p195
+aVCarlos Arroyo ORL 03/13/2006 ORL @ IND L 23 10 3 10 30.0 0 1 0.0 4 4 100.0 1 2 3 2 0 0 1 2 -17
+p196
+aVJameer Nelson ORL 03/13/2006 ORL @ IND L 27 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 10 1 0 4 5 -2
+p197
+aVKeyon Dooling ORL 03/13/2006 ORL @ IND L 21 4 2 7 28.6 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -14
+p198
+aVTony Battie ORL 03/11/2006 ORL vs. GSW W 25 9 4 5 80.0 0 1 0.0 1 2 50.0 0 2 2 0 1 0 2 0 10
+p199
+aVBo Outlaw ORL 03/11/2006 ORL vs. GSW W 14 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 1 2 1 2
+p200
+aVKeyon Dooling ORL 03/11/2006 ORL vs. GSW W 24 13 5 9 55.6 0 0 - 3 4 75.0 0 0 0 3 3 0 0 4 2
+p201
+aVDarko Milicic ORL 03/11/2006 ORL vs. GSW W 22 10 5 9 55.6 0 0 - 0 0 - 0 5 5 3 1 1 3 2 -2
+p202
+aVDeShawn Stevenson ORL 03/11/2006 ORL vs. GSW W 26 9 4 7 57.1 0 0 - 1 2 50.0 1 1 2 1 1 0 2 2 12
+p203
+aVCarlos Arroyo ORL 03/11/2006 ORL vs. GSW W 18 9 4 9 44.4 0 0 - 1 1 100.0 1 0 1 0 0 0 1 1 7
+p204
+aVStacey Augmon ORL 03/11/2006 ORL vs. GSW W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 3
+p205
+aVHedo Turkoglu ORL 03/11/2006 ORL vs. GSW W 37 21 7 13 53.8 3 6 50.0 4 4 100.0 3 11 14 8 1 1 3 3 8
+p206
+aVDwight Howard ORL 03/11/2006 ORL vs. GSW W 33 10 4 5 80.0 0 0 - 2 5 40.0 0 9 9 1 1 1 3 5 9
+p207
+aVJameer Nelson ORL 03/11/2006 ORL vs. GSW W 30 12 4 9 44.4 0 0 - 4 6 66.7 1 1 2 7 1 0 1 2 4
+p208
+aVTrevor Ariza ORL 03/10/2006 ORL vs. CLE W 2 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 1 0 3
+p209
+aVJameer Nelson ORL 03/10/2006 ORL vs. CLE W 20 6 3 8 37.5 0 1 0.0 0 0 - 2 2 4 6 0 0 1 2 -6
+p210
+aVBo Outlaw ORL 03/10/2006 ORL vs. CLE W 23 12 6 9 66.7 0 0 - 0 0 - 2 6 8 0 0 1 1 2 17
+p211
+aVStacey Augmon ORL 03/10/2006 ORL vs. CLE W 19 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 16
+p212
+aVDeShawn Stevenson ORL 03/10/2006 ORL vs. CLE W 20 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p213
+aVGrant Hill ORL 03/10/2006 ORL vs. CLE W 8 2 1 6 16.7 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -6
+p214
+aVHedo Turkoglu ORL 03/10/2006 ORL vs. CLE W 19 9 3 5 60.0 2 2 100.0 1 1 100.0 1 1 2 1 1 0 1 2 16
+p215
+aVDarko Milicic ORL 03/10/2006 ORL vs. CLE W 17 11 5 7 71.4 0 0 - 1 2 50.0 0 3 3 0 1 2 2 5 22
+p216
+aVDwight Howard ORL 03/10/2006 ORL vs. CLE W 24 8 3 7 42.9 0 0 - 2 4 50.0 1 8 9 2 1 1 4 4 12
+p217
+aVCarlos Arroyo ORL 03/10/2006 ORL vs. CLE W 28 17 8 12 66.7 1 1 100.0 0 0 - 0 3 3 7 1 0 0 0 35
+p218
+aVTony Battie ORL 03/10/2006 ORL vs. CLE W 32 13 5 6 83.3 0 0 - 3 3 100.0 5 8 13 0 1 1 0 3 7
+p219
+aVKeyon Dooling ORL 03/10/2006 ORL vs. CLE W 28 13 4 6 66.7 0 1 0.0 5 6 83.3 0 1 1 5 2 0 1 1 35
+p220
+aVTony Battie ORL 03/06/2006 ORL @ UTA L 22 4 2 2 100.0 0 0 - 0 0 - 2 3 5 0 1 0 1 5 -6
+p221
+aVKeyon Dooling ORL 03/06/2006 ORL @ UTA L 21 10 3 10 30.0 0 0 - 4 5 80.0 0 2 2 0 0 0 0 1 11
+p222
+aVCarlos Arroyo ORL 03/06/2006 ORL @ UTA L 24 14 4 9 44.4 0 0 - 6 6 100.0 0 5 5 3 1 0 2 1 3
+p223
+aVHedo Turkoglu ORL 03/06/2006 ORL @ UTA L 26 8 2 7 28.6 2 3 66.7 2 2 100.0 0 3 3 3 0 0 0 6 -1
+p224
+aVStacey Augmon ORL 03/06/2006 ORL @ UTA L 17 1 0 4 0.0 0 0 - 1 4 25.0 1 1 2 0 0 0 0 1 -5
+p225
+aVDeShawn Stevenson ORL 03/06/2006 ORL @ UTA L 29 14 6 15 40.0 0 1 0.0 2 3 66.7 0 2 2 2 1 0 0 4 -8
+p226
+aVJameer Nelson ORL 03/06/2006 ORL @ UTA L 26 10 5 12 41.7 0 2 0.0 0 0 - 0 0 0 3 1 0 4 5 -15
+p227
+aVBo Outlaw ORL 03/06/2006 ORL @ UTA L 13 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 1 0 1 3 1
+p228
+aVDarko Milicic ORL 03/06/2006 ORL @ UTA L 20 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 2 0 2 -2
+p229
+aVDwight Howard ORL 03/06/2006 ORL @ UTA L 42 18 6 10 60.0 0 0 - 6 12 50.0 8 6 14 2 1 1 4 3 -3
+p230
+aVDwight Howard ORL 03/04/2006 ORL @ DEN L 33 15 6 10 60.0 0 0 - 3 5 60.0 4 7 11 0 1 1 6 3 -11
+p231
+aVMario Kasun ORL 03/04/2006 ORL @ DEN L 4 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 0 0 0 0 1 -1
+p232
+aVGrant Hill ORL 03/04/2006 ORL @ DEN L 26 19 7 13 53.8 0 0 - 5 6 83.3 0 2 2 2 1 1 1 2 -8
+p233
+aVTrevor Ariza ORL 03/04/2006 ORL @ DEN L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p234
+aVDeShawn Stevenson ORL 03/04/2006 ORL @ DEN L 28 7 3 9 33.3 0 1 0.0 1 1 100.0 0 1 1 1 0 0 2 3 -13
+p235
+aVCarlos Arroyo ORL 03/04/2006 ORL @ DEN L 28 12 4 8 50.0 0 0 - 4 6 66.7 0 0 0 4 2 1 1 0 -19
+p236
+aVTony Battie ORL 03/04/2006 ORL @ DEN L 32 10 5 10 50.0 0 0 - 0 2 0.0 3 2 5 2 0 0 2 3 -6
+p237
+aVHedo Turkoglu ORL 03/04/2006 ORL @ DEN L 26 8 2 7 28.6 1 4 25.0 3 3 100.0 0 0 0 3 1 0 2 2 -12
+p238
+aVTravis Diener ORL 03/04/2006 ORL @ DEN L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p239
+aVStacey Augmon ORL 03/04/2006 ORL @ DEN L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p240
+aVJameer Nelson ORL 03/04/2006 ORL @ DEN L 30 10 4 8 50.0 0 2 0.0 2 2 100.0 2 1 3 10 2 0 1 2 2
+p241
+aVDarko Milicic ORL 03/04/2006 ORL @ DEN L 21 7 3 5 60.0 0 0 - 1 2 50.0 2 1 3 1 1 3 2 0 -12
+p242
+aVPat Garrity ORL 03/03/2006 ORL @ PHX L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 2
+p243
+aVDwight Howard ORL 03/03/2006 ORL @ PHX L 31 15 7 12 58.3 0 0 - 1 1 100.0 1 6 7 0 0 2 2 4 -11
+p244
+aVCarlos Arroyo ORL 03/03/2006 ORL @ PHX L 33 21 9 14 64.3 1 2 50.0 2 5 40.0 1 3 4 6 3 0 0 1 -5
+p245
+aVJameer Nelson ORL 03/03/2006 ORL @ PHX L 26 24 9 13 69.2 2 5 40.0 4 4 100.0 2 3 5 4 0 0 2 4 3
+p246
+aVDarko Milicic ORL 03/03/2006 ORL @ PHX L 26 8 4 10 40.0 0 0 - 0 0 - 3 7 10 0 0 0 4 3 -3
+p247
+aVKeyon Dooling ORL 03/03/2006 ORL @ PHX L 22 12 6 10 60.0 0 0 - 0 0 - 0 0 0 1 5 0 0 5 0
+p248
+aVDeShawn Stevenson ORL 03/03/2006 ORL @ PHX L 25 6 3 7 42.9 0 0 - 0 2 0.0 1 1 2 3 1 1 1 2 -8
+p249
+aVTony Battie ORL 03/03/2006 ORL @ PHX L 26 8 4 7 57.1 0 0 - 0 0 - 1 6 7 1 0 1 4 2 0
+p250
+aVHedo Turkoglu ORL 03/03/2006 ORL @ PHX L 41 20 7 15 46.7 1 3 33.3 5 6 83.3 2 2 4 5 1 0 1 1 -3
+p251
+aVDeShawn Stevenson ORL 03/01/2006 ORL @ GSW L 35 18 9 15 60.0 0 0 - 0 2 0.0 1 2 3 1 1 1 1 4 -6
+p252
+aVDwight Howard ORL 03/01/2006 ORL @ GSW L 38 17 7 15 46.7 0 0 - 3 6 50.0 3 9 12 1 1 0 4 4 4
+p253
+aVKeyon Dooling ORL 03/01/2006 ORL @ GSW L 29 13 5 9 55.6 0 0 - 3 3 100.0 1 2 3 4 2 1 2 2 -4
+p254
+aVCarlos Arroyo ORL 03/01/2006 ORL @ GSW L 19 4 2 9 22.2 0 1 0.0 0 0 - 0 3 3 4 1 0 2 2 -1
+p255
+aVPat Garrity ORL 03/01/2006 ORL @ GSW L 9 2 1 3 33.3 0 2 0.0 0 0 - 2 0 2 0 0 0 0 0 -4
+p256
+aVHedo Turkoglu ORL 03/01/2006 ORL @ GSW L 34 10 4 12 33.3 1 5 20.0 1 1 100.0 0 4 4 5 0 2 1 4 0
+p257
+aVGrant Hill ORL 03/01/2006 ORL @ GSW L 28 10 4 12 33.3 0 1 0.0 2 2 100.0 3 4 7 3 0 2 2 2 -2
+p258
+aVDarko Milicic ORL 03/01/2006 ORL @ GSW L 25 12 6 7 85.7 0 0 - 0 1 0.0 4 5 9 2 0 2 0 4 7
+p259
+aVTony Battie ORL 03/01/2006 ORL @ GSW L 23 8 4 8 50.0 0 1 0.0 0 0 - 2 4 6 0 0 1 0 4 -14
+p260
+aVDarko Milicic ORL 02/28/2006 ORL @ LAL L 25 6 3 6 50.0 0 0 - 0 0 - 2 5 7 1 1 3 1 2 -2
+p261
+aVTony Battie ORL 02/28/2006 ORL @ LAL L 22 5 1 3 33.3 0 0 - 3 4 75.0 1 2 3 0 0 0 0 1 -12
+p262
+aVDwight Howard ORL 02/28/2006 ORL @ LAL L 33 15 6 9 66.7 0 0 - 3 4 75.0 1 8 9 2 0 1 3 3 -13
+p263
+aVStacey Augmon ORL 02/28/2006 ORL @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p264
+aVKeyon Dooling ORL 02/28/2006 ORL @ LAL L 20 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 4 0 0 2 2 -7
+p265
+aVCarlos Arroyo ORL 02/28/2006 ORL @ LAL L 27 12 4 8 50.0 1 1 100.0 3 5 60.0 0 1 1 2 0 0 1 1 -8
+p266
+aVHedo Turkoglu ORL 02/28/2006 ORL @ LAL L 31 7 3 7 42.9 1 2 50.0 0 0 - 0 3 3 1 1 0 2 2 -3
+p267
+aVGrant Hill ORL 02/28/2006 ORL @ LAL L 39 23 6 9 66.7 0 1 0.0 11 13 84.6 0 4 4 3 1 0 3 3 -8
+p268
+aVPat Garrity ORL 02/28/2006 ORL @ LAL L 16 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 2 -1
+p269
+aVTrevor Ariza ORL 02/28/2006 ORL @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p270
+aVDeShawn Stevenson ORL 02/28/2006 ORL @ LAL L 25 14 5 8 62.5 0 0 - 4 8 50.0 0 1 1 1 2 0 3 3 -16
+p271
+aVDeShawn Stevenson ORL 02/26/2006 ORL vs. HOU L 23 4 2 8 25.0 0 0 - 0 0 - 0 3 3 1 0 1 0 1 -16
+p272
+aVPat Garrity ORL 02/26/2006 ORL vs. HOU L 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 3
+p273
+aVGrant Hill ORL 02/26/2006 ORL vs. HOU L 36 22 8 14 57.1 1 1 100.0 5 7 71.4 1 3 4 4 1 0 3 3 6
+p274
+aVHedo Turkoglu ORL 02/26/2006 ORL vs. HOU L 34 10 3 9 33.3 2 4 50.0 2 3 66.7 2 2 4 4 1 0 2 5 4
+p275
+aVKeyon Dooling ORL 02/26/2006 ORL vs. HOU L 21 8 2 4 50.0 0 0 - 4 6 66.7 0 3 3 0 0 0 2 2 -9
+p276
+aVMario Kasun ORL 02/26/2006 ORL vs. HOU L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -8
+p277
+aVDarko Milicic ORL 02/26/2006 ORL vs. HOU L 18 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 1 2 4 2 5 14
+p278
+aVStacey Augmon ORL 02/26/2006 ORL vs. HOU L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -6
+p279
+aVDwight Howard ORL 02/26/2006 ORL vs. HOU L 36 7 1 5 20.0 0 0 - 5 12 41.7 1 8 9 1 2 0 4 5 -8
+p280
+aVCarlos Arroyo ORL 02/26/2006 ORL vs. HOU L 27 17 6 9 66.7 0 1 0.0 5 7 71.4 2 3 5 3 1 0 1 2 4
+p281
+aVTony Battie ORL 02/26/2006 ORL vs. HOU L 24 6 3 10 30.0 0 0 - 0 0 - 1 4 5 0 1 0 2 5 -9
+p282
+aVDarko Milicic ORL 02/24/2006 ORL vs. SEA W 22 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 1 0 2 1 1 8
+p283
+aVKeyon Dooling ORL 02/24/2006 ORL vs. SEA W 25 7 2 6 33.3 0 0 - 3 4 75.0 0 1 1 5 0 0 0 1 2
+p284
+aVCarlos Arroyo ORL 02/24/2006 ORL vs. SEA W 26 18 7 11 63.6 1 1 100.0 3 3 100.0 2 2 4 4 0 0 0 4 10
+p285
+aVStacey Augmon ORL 02/24/2006 ORL vs. SEA W 26 4 2 3 66.7 0 0 - 0 0 - 1 2 3 3 1 0 0 3 22
+p286
+aVPat Garrity ORL 02/24/2006 ORL vs. SEA W 18 7 3 8 37.5 1 5 20.0 0 0 - 1 1 2 2 0 0 1 3 5
+p287
+aVGrant Hill ORL 02/24/2006 ORL vs. SEA W 32 19 8 11 72.7 0 0 - 3 5 60.0 0 4 4 2 1 0 0 5 3
+p288
+aVMario Kasun ORL 02/24/2006 ORL vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p289
+aVDeShawn Stevenson ORL 02/24/2006 ORL vs. SEA W 35 14 6 16 37.5 0 0 - 2 2 100.0 1 5 6 2 0 1 0 2 2
+p290
+aVDwight Howard ORL 02/24/2006 ORL vs. SEA W 34 23 10 14 71.4 0 0 - 3 6 50.0 4 12 16 2 0 1 3 3 12
+p291
+aVTony Battie ORL 02/24/2006 ORL vs. SEA W 21 2 1 7 14.3 0 0 - 0 0 - 1 3 4 0 1 0 2 3 0
+p292
+aVDwight Howard ORL 02/22/2006 ORL @ NJN L 32 17 7 10 70.0 0 0 - 3 7 42.9 1 5 6 1 3 2 3 4 -13
+p293
+aVStacey Augmon ORL 02/22/2006 ORL @ NJN L 36 7 3 6 50.0 0 0 - 1 1 100.0 1 5 6 1 2 1 2 5 -8
+p294
+aVMario Kasun ORL 02/22/2006 ORL @ NJN L 9 8 3 4 75.0 0 0 - 2 2 100.0 4 1 5 0 1 1 1 1 5
+p295
+aVDeShawn Stevenson ORL 02/22/2006 ORL @ NJN L 36 14 5 10 50.0 0 0 - 4 6 66.7 1 1 2 3 0 1 2 2 -2
+p296
+aVTravis Diener ORL 02/22/2006 ORL @ NJN L 8 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 0 4
+p297
+aVKeyon Dooling ORL 02/22/2006 ORL @ NJN L 42 23 9 14 64.3 0 1 0.0 5 6 83.3 0 1 1 6 0 0 5 6 -4
+p298
+aVTony Battie ORL 02/22/2006 ORL @ NJN L 28 4 2 8 25.0 0 0 - 0 2 0.0 0 11 11 1 0 0 1 2 -3
+p299
+aVPat Garrity ORL 02/22/2006 ORL @ NJN L 22 7 2 3 66.7 2 2 100.0 1 1 100.0 0 0 0 1 0 0 1 4 4
+p300
+aVCarlos Arroyo ORL 02/22/2006 ORL @ NJN L 27 13 5 11 45.5 0 2 0.0 3 6 50.0 0 4 4 4 0 0 1 2 2
+p301
+aVDwight Howard ORL 02/21/2006 ORL @ CLE L 39 23 9 19 47.4 0 0 - 5 10 50.0 6 8 14 2 0 1 3 1 -21
+p302
+aVCarlos Arroyo ORL 02/21/2006 ORL @ CLE L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -1
+p303
+aVHedo Turkoglu ORL 02/21/2006 ORL @ CLE L 29 11 5 8 62.5 1 2 50.0 0 0 - 0 3 3 2 0 0 0 1 -13
+p304
+aVGrant Hill ORL 02/21/2006 ORL @ CLE L 16 4 1 6 16.7 0 0 - 2 2 100.0 1 2 3 1 2 0 0 1 0
+p305
+aVTony Battie ORL 02/21/2006 ORL @ CLE L 23 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 1 0 0 5 -13
+p306
+aVDeShawn Stevenson ORL 02/21/2006 ORL @ CLE L 43 8 4 12 33.3 0 1 0.0 0 0 - 1 2 3 4 1 0 4 3 -13
+p307
+aVMario Kasun ORL 02/21/2006 ORL @ CLE L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 5 4
+p308
+aVKeyon Dooling ORL 02/21/2006 ORL @ CLE L 24 12 4 5 80.0 0 0 - 4 4 100.0 0 3 3 5 0 0 2 3 -2
+p309
+aVSteve Francis ORL 02/21/2006 ORL @ CLE L 27 13 3 6 50.0 0 0 - 7 8 87.5 1 1 2 4 0 0 3 3 -10
+p310
+aVPat Garrity ORL 02/21/2006 ORL @ CLE L 25 11 4 6 66.7 2 3 66.7 1 1 100.0 1 1 2 1 0 0 0 3 0
+p311
+aVDarko Milicic ORL 02/21/2006 ORL @ CLE L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p312
+aVKeyon Dooling ORL 02/15/2006 ORL vs. MIA L 17 11 3 6 50.0 0 1 0.0 5 5 100.0 0 1 1 2 1 0 1 1 6
+p313
+aVStacey Augmon ORL 02/15/2006 ORL vs. MIA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 2
+p314
+aVHedo Turkoglu ORL 02/15/2006 ORL vs. MIA L 38 14 5 12 41.7 1 3 33.3 3 5 60.0 1 2 3 2 0 0 3 2 -22
+p315
+aVSteve Francis ORL 02/15/2006 ORL vs. MIA L 38 12 3 15 20.0 0 2 0.0 6 7 85.7 2 4 6 6 1 0 3 1 -6
+p316
+aVGrant Hill ORL 02/15/2006 ORL vs. MIA L 14 7 1 5 20.0 0 0 - 5 6 83.3 0 1 1 0 0 0 0 1 -5
+p317
+aVTony Battie ORL 02/15/2006 ORL vs. MIA L 32 16 7 11 63.6 0 0 - 2 2 100.0 5 4 9 2 1 1 0 5 -4
+p318
+aVDwight Howard ORL 02/15/2006 ORL vs. MIA L 38 16 1 3 33.3 0 0 - 14 18 77.8 3 8 11 3 2 0 2 3 -14
+p319
+aVDeShawn Stevenson ORL 02/15/2006 ORL vs. MIA L 34 14 7 15 46.7 0 2 0.0 0 0 - 0 3 3 5 0 0 3 5 -5
+p320
+aVPat Garrity ORL 02/15/2006 ORL vs. MIA L 14 6 1 1 100.0 1 1 100.0 3 4 75.0 2 1 3 0 2 0 0 1 8
+p321
+aVMario Kasun ORL 02/15/2006 ORL vs. MIA L 12 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -10
+p322
+aVTony Battie ORL 02/14/2006 ORL @ MIA L 16 6 3 6 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 5 -15
+p323
+aVPat Garrity ORL 02/14/2006 ORL @ MIA L 25 0 0 5 0.0 0 5 0.0 0 0 - 0 1 1 0 0 0 0 3 -4
+p324
+aVMario Kasun ORL 02/14/2006 ORL @ MIA L 15 9 2 7 28.6 0 0 - 5 6 83.3 2 4 6 1 0 0 0 5 2
+p325
+aVSteve Francis ORL 02/14/2006 ORL @ MIA L 36 15 4 11 36.4 0 0 - 7 8 87.5 3 1 4 5 1 0 4 4 -9
+p326
+aVTerence Morris ORL 02/14/2006 ORL @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p327
+aVGrant Hill ORL 02/14/2006 ORL @ MIA L 20 12 4 9 44.4 0 0 - 4 7 57.1 2 2 4 3 3 0 0 3 4
+p328
+aVDwight Howard ORL 02/14/2006 ORL @ MIA L 38 13 6 15 40.0 0 0 - 1 4 25.0 5 8 13 0 0 1 0 2 -13
+p329
+aVStacey Augmon ORL 02/14/2006 ORL @ MIA L 12 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -10
+p330
+aVDeShawn Stevenson ORL 02/14/2006 ORL @ MIA L 14 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -7
+p331
+aVTravis Diener ORL 02/14/2006 ORL @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p332
+aVHedo Turkoglu ORL 02/14/2006 ORL @ MIA L 31 15 6 10 60.0 2 3 66.7 1 2 50.0 1 0 1 3 0 0 1 4 -15
+p333
+aVKeyon Dooling ORL 02/14/2006 ORL @ MIA L 31 15 5 14 35.7 0 0 - 5 6 83.3 1 1 2 0 3 0 1 5 -6
+p334
+aVKeyon Dooling ORL 02/12/2006 ORL @ BOS L 19 10 5 7 71.4 0 0 - 0 0 - 0 2 2 5 1 0 3 2 7
+p335
+aVStacey Augmon ORL 02/12/2006 ORL @ BOS L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 4
+p336
+aVPat Garrity ORL 02/12/2006 ORL @ BOS L 26 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 0 0 0 1 3 3
+p337
+aVGrant Hill ORL 02/12/2006 ORL @ BOS L 20 15 6 10 60.0 0 2 0.0 3 3 100.0 0 1 1 1 1 1 2 2 -6
+p338
+aVTony Battie ORL 02/12/2006 ORL @ BOS L 22 4 2 6 33.3 0 0 - 0 0 - 3 5 8 1 0 0 1 1 -5
+p339
+aVHedo Turkoglu ORL 02/12/2006 ORL @ BOS L 32 16 6 14 42.9 1 5 20.0 3 3 100.0 0 3 3 2 1 0 3 5 -13
+p340
+aVSteve Francis ORL 02/12/2006 ORL @ BOS L 37 9 4 11 36.4 0 2 0.0 1 1 100.0 2 2 4 4 0 0 2 3 -10
+p341
+aVDeShawn Stevenson ORL 02/12/2006 ORL @ BOS L 32 11 5 9 55.6 0 1 0.0 1 2 50.0 1 3 4 1 2 0 1 2 -12
+p342
+aVDwight Howard ORL 02/12/2006 ORL @ BOS L 46 24 5 10 50.0 0 0 - 14 17 82.4 2 9 11 2 0 2 3 4 -8
+p343
+aVDeShawn Stevenson ORL 02/10/2006 ORL vs. DET L 30 10 5 9 55.6 0 0 - 0 2 0.0 0 4 4 2 1 1 2 0 -25
+p344
+aVHedo Turkoglu ORL 02/10/2006 ORL vs. DET L 28 17 6 12 50.0 0 1 0.0 5 5 100.0 0 5 5 1 2 0 5 0 -5
+p345
+aVDwight Howard ORL 02/10/2006 ORL vs. DET L 31 19 9 13 69.2 0 0 - 1 4 25.0 7 10 17 1 1 3 6 3 -11
+p346
+aVKeyon Dooling ORL 02/10/2006 ORL vs. DET L 19 8 3 10 30.0 0 1 0.0 2 2 100.0 0 3 3 2 0 0 0 1 3
+p347
+aVSteve Francis ORL 02/10/2006 ORL vs. DET L 27 9 4 12 33.3 0 0 - 1 2 50.0 1 4 5 3 1 0 1 3 -7
+p348
+aVStacey Augmon ORL 02/10/2006 ORL vs. DET L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p349
+aVTony Battie ORL 02/10/2006 ORL vs. DET L 24 3 1 4 25.0 0 0 - 1 4 25.0 0 7 7 1 2 0 1 3 -10
+p350
+aVPat Garrity ORL 02/10/2006 ORL vs. DET L 18 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 0 0 0 2 3 -1
+p351
+aVKeyon Dooling ORL 02/08/2006 ORL @ MIL L 19 7 3 9 33.3 0 0 - 1 1 100.0 0 3 3 2 1 0 3 4 -6
+p352
+aVTravis Diener ORL 02/08/2006 ORL @ MIL L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p353
+aVTony Battie ORL 02/08/2006 ORL @ MIL L 33 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 1 0 1 1 3 1
+p354
+aVDwight Howard ORL 02/08/2006 ORL @ MIL L 41 11 2 12 16.7 0 0 - 7 11 63.6 4 10 14 1 1 1 4 5 6
+p355
+aVPat Garrity ORL 02/08/2006 ORL @ MIL L 33 10 3 12 25.0 3 6 50.0 1 2 50.0 1 3 4 3 0 0 1 2 -7
+p356
+aVDeShawn Stevenson ORL 02/08/2006 ORL @ MIL L 45 14 6 16 37.5 0 1 0.0 2 2 100.0 2 5 7 2 0 1 3 6 -8
+p357
+aVSteve Francis ORL 02/08/2006 ORL @ MIL L 47 8 4 11 36.4 0 2 0.0 0 0 - 0 6 6 7 1 0 5 0 2
+p358
+aVStacey Augmon ORL 02/08/2006 ORL @ MIL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p359
+aVMario Kasun ORL 02/08/2006 ORL @ MIL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p360
+aVHedo Turkoglu ORL 02/08/2006 ORL @ MIL L 50 27 9 20 45.0 3 6 50.0 6 8 75.0 3 5 8 1 3 1 4 4 6
+p361
+aVSteve Francis ORL 02/06/2006 ORL @ WAS L 25 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 5 0 0 4 4 -22
+p362
+aVHedo Turkoglu ORL 02/06/2006 ORL @ WAS L 37 4 2 10 20.0 0 3 0.0 0 0 - 1 6 7 4 0 0 3 5 -3
+p363
+aVTony Battie ORL 02/06/2006 ORL @ WAS L 27 6 3 4 75.0 0 0 - 0 2 0.0 0 6 6 3 0 1 2 2 -11
+p364
+aVDeShawn Stevenson ORL 02/06/2006 ORL @ WAS L 38 20 9 15 60.0 0 0 - 2 4 50.0 1 3 4 3 0 0 3 2 -21
+p365
+aVDwight Howard ORL 02/06/2006 ORL @ WAS L 36 16 5 11 45.5 0 0 - 6 7 85.7 2 9 11 3 0 1 3 3 -4
+p366
+aVMario Kasun ORL 02/06/2006 ORL @ WAS L 8 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 1
+p367
+aVTerence Morris ORL 02/06/2006 ORL @ WAS L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p368
+aVKeyon Dooling ORL 02/06/2006 ORL @ WAS L 28 16 6 11 54.5 0 0 - 4 4 100.0 0 1 1 2 0 0 1 3 -2
+p369
+aVPat Garrity ORL 02/06/2006 ORL @ WAS L 25 8 2 6 33.3 2 4 50.0 2 2 100.0 2 1 3 1 0 1 2 2 -10
+p370
+aVTravis Diener ORL 02/06/2006 ORL @ WAS L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 7
+p371
+aVPat Garrity ORL 02/04/2006 ORL vs. BOS W 20 7 2 4 50.0 1 2 50.0 2 2 100.0 2 4 6 1 0 0 1 1 5
+p372
+aVMario Kasun ORL 02/04/2006 ORL vs. BOS W 7 2 1 6 16.7 0 0 - 0 0 - 4 1 5 0 0 0 1 2 2
+p373
+aVSteve Francis ORL 02/04/2006 ORL vs. BOS W 43 18 5 11 45.5 1 2 50.0 7 8 87.5 1 5 6 7 1 1 2 1 17
+p374
+aVDeShawn Stevenson ORL 02/04/2006 ORL vs. BOS W 34 12 4 6 66.7 0 0 - 4 5 80.0 0 1 1 2 0 0 1 1 7
+p375
+aVStacey Augmon ORL 02/04/2006 ORL vs. BOS W 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 8
+p376
+aVTony Battie ORL 02/04/2006 ORL vs. BOS W 26 14 6 9 66.7 0 0 - 2 2 100.0 2 2 4 2 0 0 1 1 15
+p377
+aVKeyon Dooling ORL 02/04/2006 ORL vs. BOS W 21 10 4 10 40.0 0 1 0.0 2 2 100.0 2 5 7 2 0 0 0 2 -5
+p378
+aVDwight Howard ORL 02/04/2006 ORL vs. BOS W 40 18 7 13 53.8 0 0 - 4 7 57.1 1 7 8 1 0 0 2 3 0
+p379
+aVHedo Turkoglu ORL 02/04/2006 ORL vs. BOS W 40 15 7 14 50.0 0 3 0.0 1 2 50.0 1 5 6 5 2 1 5 4 -4
+p380
+aVStacey Augmon ORL 02/03/2006 ORL @ ATL L 14 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 2 0 1 1 0 3
+p381
+aVPat Garrity ORL 02/03/2006 ORL @ ATL L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p382
+aVHedo Turkoglu ORL 02/03/2006 ORL @ ATL L 35 15 5 13 38.5 0 1 0.0 5 6 83.3 0 3 3 5 0 0 1 5 0
+p383
+aVDeShawn Stevenson ORL 02/03/2006 ORL @ ATL L 36 10 5 9 55.6 0 0 - 0 0 - 2 2 4 0 0 0 1 4 -4
+p384
+aVDwight Howard ORL 02/03/2006 ORL @ ATL L 39 24 9 11 81.8 0 0 - 6 12 50.0 4 12 16 0 0 3 3 3 0
+p385
+aVTony Battie ORL 02/03/2006 ORL @ ATL L 40 9 4 11 36.4 0 0 - 1 4 25.0 4 9 13 1 1 2 1 5 -5
+p386
+aVTravis Diener ORL 02/03/2006 ORL @ ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p387
+aVSteve Francis ORL 02/03/2006 ORL @ ATL L 39 30 11 19 57.9 2 2 100.0 6 7 85.7 3 1 4 8 0 0 3 3 9
+p388
+aVMario Kasun ORL 02/03/2006 ORL @ ATL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p389
+aVKeyon Dooling ORL 02/03/2006 ORL @ ATL L 17 4 2 8 25.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 -4
+p390
+aVHedo Turkoglu ORL 02/01/2006 ORL vs. LAC L 41 15 4 15 26.7 1 3 33.3 6 6 100.0 1 6 7 6 0 1 0 4 -6
+p391
+aVDwight Howard ORL 02/01/2006 ORL vs. LAC L 44 15 5 12 41.7 0 0 - 5 7 71.4 4 11 15 1 0 2 2 3 -12
+p392
+aVKeyon Dooling ORL 02/01/2006 ORL vs. LAC L 26 11 3 10 30.0 0 1 0.0 5 6 83.3 1 1 2 4 2 0 3 2 -9
+p393
+aVTony Battie ORL 02/01/2006 ORL vs. LAC L 22 13 6 11 54.5 0 0 - 1 1 100.0 2 1 3 0 1 2 0 4 0
+p394
+aVPat Garrity ORL 02/01/2006 ORL vs. LAC L 30 7 3 7 42.9 1 5 20.0 0 0 - 0 5 5 1 0 0 1 3 -9
+p395
+aVDeShawn Stevenson ORL 02/01/2006 ORL vs. LAC L 37 12 4 10 40.0 0 0 - 4 4 100.0 0 2 2 3 1 0 2 2 -16
+p396
+aVSteve Francis ORL 02/01/2006 ORL vs. LAC L 40 21 5 13 38.5 0 2 0.0 11 13 84.6 2 4 6 2 0 0 2 3 -8
+p397
+aVDwight Howard ORL 01/29/2006 ORL vs. PHI L 41 14 6 11 54.5 0 0 - 2 7 28.6 4 7 11 1 0 3 5 3 -10
+p398
+aVDeShawn Stevenson ORL 01/29/2006 ORL vs. PHI L 41 13 5 9 55.6 0 0 - 3 3 100.0 0 5 5 2 0 0 1 4 -1
+p399
+aVPat Garrity ORL 01/29/2006 ORL vs. PHI L 30 5 2 7 28.6 1 3 33.3 0 0 - 1 1 2 2 1 0 1 4 -2
+p400
+aVHedo Turkoglu ORL 01/29/2006 ORL vs. PHI L 40 15 5 16 31.3 1 5 20.0 4 4 100.0 3 3 6 4 1 0 4 6 -14
+p401
+aVSteve Francis ORL 01/29/2006 ORL vs. PHI L 43 22 7 15 46.7 1 1 100.0 7 7 100.0 3 7 10 10 0 0 3 0 -5
+p402
+aVTony Battie ORL 01/29/2006 ORL vs. PHI L 24 10 5 8 62.5 0 0 - 0 0 - 3 2 5 0 1 1 1 4 -2
+p403
+aVTravis Diener ORL 01/29/2006 ORL vs. PHI L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p404
+aVKeyon Dooling ORL 01/29/2006 ORL vs. PHI L 18 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 1 0 0 2 3 -3
+p405
+aVDeShawn Stevenson ORL 01/27/2006 ORL @ NYK L 26 10 4 10 40.0 0 0 - 2 2 100.0 2 1 3 0 0 0 2 1 -11
+p406
+aVPat Garrity ORL 01/27/2006 ORL @ NYK L 19 5 2 5 40.0 1 2 50.0 0 1 0.0 1 4 5 1 0 0 1 3 1
+p407
+aVTony Battie ORL 01/27/2006 ORL @ NYK L 27 6 3 3 100.0 0 0 - 0 0 - 0 4 4 0 1 0 1 4 -18
+p408
+aVTravis Diener ORL 01/27/2006 ORL @ NYK L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 5 12
+p409
+aVHedo Turkoglu ORL 01/27/2006 ORL @ NYK L 41 16 4 10 40.0 2 4 50.0 6 6 100.0 1 3 4 6 0 0 5 4 6
+p410
+aVSteve Francis ORL 01/27/2006 ORL @ NYK L 39 36 12 19 63.2 3 3 100.0 9 9 100.0 1 1 2 5 1 0 4 6 1
+p411
+aVKeyon Dooling ORL 01/27/2006 ORL @ NYK L 25 6 2 12 16.7 1 7 14.3 1 2 50.0 2 3 5 1 1 0 6 1 -19
+p412
+aVMario Kasun ORL 01/27/2006 ORL @ NYK L 8 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 0 0 1 3 2
+p413
+aVDwight Howard ORL 01/27/2006 ORL @ NYK L 42 10 3 9 33.3 0 0 - 4 5 80.0 4 10 14 1 1 1 2 5 11
+p414
+aVTony Battie ORL 01/26/2006 ORL @ PHI W 33 12 5 9 55.6 0 0 - 2 5 40.0 0 5 5 1 1 2 1 3 9
+p415
+aVHedo Turkoglu ORL 01/26/2006 ORL @ PHI W 44 25 9 15 60.0 2 3 66.7 5 6 83.3 3 5 8 5 2 0 1 3 -1
+p416
+aVSteve Francis ORL 01/26/2006 ORL @ PHI W 37 11 4 7 57.1 0 1 0.0 3 5 60.0 1 5 6 15 1 0 5 6 2
+p417
+aVTravis Diener ORL 01/26/2006 ORL @ PHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 10
+p418
+aVDeShawn Stevenson ORL 01/26/2006 ORL @ PHI W 30 7 3 7 42.9 0 1 0.0 1 4 25.0 0 4 4 0 0 0 2 2 -5
+p419
+aVKeyon Dooling ORL 01/26/2006 ORL @ PHI W 35 18 6 13 46.2 0 1 0.0 6 8 75.0 0 3 3 1 0 0 1 4 -3
+p420
+aVPat Garrity ORL 01/26/2006 ORL @ PHI W 29 24 9 11 81.8 5 7 71.4 1 2 50.0 0 2 2 2 2 0 2 5 2
+p421
+aVStacey Augmon ORL 01/26/2006 ORL @ PHI W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 9
+p422
+aVDwight Howard ORL 01/26/2006 ORL @ PHI W 44 22 7 10 70.0 0 0 - 8 11 72.7 5 4 9 1 0 1 4 3 -3
+p423
+aVDeShawn Stevenson ORL 01/24/2006 ORL vs. PHX W 30 12 5 7 71.4 0 0 - 2 3 66.7 2 3 5 0 0 0 0 1 3
+p424
+aVPat Garrity ORL 01/24/2006 ORL vs. PHX W 14 9 4 6 66.7 1 2 50.0 0 0 - 1 0 1 1 0 0 0 0 3
+p425
+aVKeyon Dooling ORL 01/24/2006 ORL vs. PHX W 23 10 4 11 36.4 0 0 - 2 4 50.0 0 3 3 2 0 0 2 3 7
+p426
+aVTony Battie ORL 01/24/2006 ORL vs. PHX W 33 5 1 3 33.3 0 0 - 3 4 75.0 0 7 7 0 1 3 0 2 7
+p427
+aVHedo Turkoglu ORL 01/24/2006 ORL vs. PHX W 42 30 12 17 70.6 2 3 66.7 4 4 100.0 1 5 6 1 0 0 4 2 5
+p428
+aVTravis Diener ORL 01/24/2006 ORL vs. PHX W 18 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 2 0 0 0 1 1
+p429
+aVDwight Howard ORL 01/24/2006 ORL vs. PHX W 39 22 7 12 58.3 0 0 - 8 13 61.5 4 8 12 2 0 2 2 3 0
+p430
+aVSteve Francis ORL 01/24/2006 ORL vs. PHX W 32 15 5 12 41.7 0 1 0.0 5 5 100.0 2 4 6 6 2 0 3 5 14
+p431
+aVTerence Morris ORL 01/24/2006 ORL vs. PHX W 9 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 5
+p432
+aVTravis Diener ORL 01/21/2006 ORL vs. SAC W 18 2 1 5 20.0 0 4 0.0 0 0 - 0 6 6 4 1 0 1 0 -1
+p433
+aVDeShawn Stevenson ORL 01/21/2006 ORL vs. SAC W 45 13 5 12 41.7 0 0 - 3 4 75.0 1 3 4 1 1 1 3 2 -2
+p434
+aVDwight Howard ORL 01/21/2006 ORL vs. SAC W 47 19 7 13 53.8 0 0 - 5 6 83.3 4 11 15 1 1 1 1 3 12
+p435
+aVPat Garrity ORL 01/21/2006 ORL vs. SAC W 14 0 0 4 0.0 0 2 0.0 0 0 - 2 0 2 0 0 0 1 3 -6
+p436
+aVSteve Francis ORL 01/21/2006 ORL vs. SAC W 46 18 4 20 20.0 0 4 0.0 10 12 83.3 2 7 9 6 1 0 4 4 14
+p437
+aVTerence Morris ORL 01/21/2006 ORL vs. SAC W 4 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -10
+p438
+aVTony Battie ORL 01/21/2006 ORL vs. SAC W 45 9 4 12 33.3 0 0 - 1 2 50.0 3 7 10 0 2 2 1 3 6
+p439
+aVHedo Turkoglu ORL 01/21/2006 ORL vs. SAC W 46 22 8 17 47.1 0 2 0.0 6 7 85.7 1 5 6 2 1 0 3 1 12
+p440
+aVDwight Howard ORL 01/20/2006 ORL @ CHA W 41 19 6 10 60.0 0 0 - 7 8 87.5 7 14 21 5 3 2 5 5 3
+p441
+aVHedo Turkoglu ORL 01/20/2006 ORL @ CHA W 36 24 6 15 40.0 3 5 60.0 9 10 90.0 2 6 8 4 0 0 0 3 8
+p442
+aVTravis Diener ORL 01/20/2006 ORL @ CHA W 19 12 3 6 50.0 3 6 50.0 3 4 75.0 0 4 4 0 0 0 2 2 -2
+p443
+aVJameer Nelson ORL 01/20/2006 ORL @ CHA W 33 9 3 11 27.3 2 6 33.3 1 2 50.0 0 1 1 6 2 0 2 4 15
+p444
+aVPat Garrity ORL 01/20/2006 ORL @ CHA W 11 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 3
+p445
+aVDeShawn Stevenson ORL 01/20/2006 ORL @ CHA W 38 12 5 13 38.5 0 0 - 2 3 66.7 0 1 1 3 0 0 2 3 7
+p446
+aVTony Battie ORL 01/20/2006 ORL @ CHA W 23 6 2 4 50.0 0 0 - 2 4 50.0 0 7 7 0 0 5 1 3 15
+p447
+aVSteve Francis ORL 01/20/2006 ORL @ CHA W 39 13 6 9 66.7 0 0 - 1 2 50.0 2 3 5 6 2 1 3 5 6
+p448
+aVJameer Nelson ORL 01/18/2006 ORL vs. WAS W 34 22 9 15 60.0 3 5 60.0 1 2 50.0 2 3 5 5 1 0 5 4 9
+p449
+aVStacey Augmon ORL 01/18/2006 ORL vs. WAS W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p450
+aVPat Garrity ORL 01/18/2006 ORL vs. WAS W 25 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 1 1 1 0 4 4
+p451
+aVHedo Turkoglu ORL 01/18/2006 ORL vs. WAS W 36 10 4 11 36.4 1 2 50.0 1 2 50.0 0 2 2 4 1 1 1 4 11
+p452
+aVSteve Francis ORL 01/18/2006 ORL vs. WAS W 31 12 2 7 28.6 0 1 0.0 8 8 100.0 1 7 8 7 1 0 3 3 0
+p453
+aVDeShawn Stevenson ORL 01/18/2006 ORL vs. WAS W 32 19 6 11 54.5 0 0 - 7 9 77.8 0 3 3 0 2 0 1 4 7
+p454
+aVTony Battie ORL 01/18/2006 ORL vs. WAS W 32 14 7 10 70.0 0 0 - 0 0 - 4 7 11 3 0 0 1 5 12
+p455
+aVTravis Diener ORL 01/18/2006 ORL vs. WAS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p456
+aVKelvin Cato ORL 01/18/2006 ORL vs. WAS W 11 10 2 2 100.0 0 0 - 6 6 100.0 0 0 0 0 0 0 0 1 -5
+p457
+aVDwight Howard ORL 01/18/2006 ORL vs. WAS W 28 9 2 5 40.0 0 0 - 5 10 50.0 2 8 10 2 0 3 2 5 8
+p458
+aVJameer Nelson ORL 01/15/2006 ORL @ SAC L 36 29 12 19 63.2 2 2 100.0 3 3 100.0 2 1 3 9 3 0 2 5 -5
+p459
+aVDeShawn Stevenson ORL 01/15/2006 ORL @ SAC L 26 4 2 9 22.2 0 0 - 0 0 - 1 1 2 2 0 0 0 3 -3
+p460
+aVHedo Turkoglu ORL 01/15/2006 ORL @ SAC L 30 11 3 11 27.3 1 3 33.3 4 5 80.0 2 2 4 2 0 1 0 4 4
+p461
+aVDwight Howard ORL 01/15/2006 ORL @ SAC L 44 18 8 14 57.1 0 0 - 2 4 50.0 6 13 19 2 1 3 1 4 1
+p462
+aVTravis Diener ORL 01/15/2006 ORL @ SAC L 20 8 3 7 42.9 2 5 40.0 0 0 - 1 2 3 0 2 0 1 1 6
+p463
+aVGrant Hill ORL 01/15/2006 ORL @ SAC L 36 18 8 17 47.1 0 0 - 2 4 50.0 2 2 4 0 1 0 4 2 -13
+p464
+aVTony Battie ORL 01/15/2006 ORL @ SAC L 30 6 2 9 22.2 0 0 - 2 2 100.0 1 1 2 1 0 2 1 3 -7
+p465
+aVPat Garrity ORL 01/15/2006 ORL @ SAC L 12 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 2
+p466
+aVKelvin Cato ORL 01/15/2006 ORL @ SAC L 6 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 1 0 -5
+p467
+aVKelvin Cato ORL 01/13/2006 ORL @ POR L 24 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 1 0 2 -4
+p468
+aVTravis Diener ORL 01/13/2006 ORL @ POR L 14 11 4 7 57.1 3 6 50.0 0 0 - 0 2 2 0 0 0 1 5 -6
+p469
+aVJameer Nelson ORL 01/13/2006 ORL @ POR L 43 19 7 20 35.0 0 0 - 5 5 100.0 2 3 5 13 1 0 3 3 -4
+p470
+aVStacey Augmon ORL 01/13/2006 ORL @ POR L 11 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 0 -1
+p471
+aVBo Outlaw ORL 01/13/2006 ORL @ POR L 3 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -1
+p472
+aVDeShawn Stevenson ORL 01/13/2006 ORL @ POR L 42 13 4 11 36.4 0 0 - 5 7 71.4 1 4 5 4 2 1 0 0 -3
+p473
+aVPat Garrity ORL 01/13/2006 ORL @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p474
+aVDwight Howard ORL 01/13/2006 ORL @ POR L 40 20 9 16 56.3 0 0 - 2 3 66.7 6 7 13 2 1 1 3 1 -1
+p475
+aVHedo Turkoglu ORL 01/13/2006 ORL @ POR L 39 27 12 18 66.7 2 6 33.3 1 2 50.0 3 5 8 1 1 1 0 2 -1
+p476
+aVTony Battie ORL 01/13/2006 ORL @ POR L 21 10 5 6 83.3 0 0 - 0 0 - 2 1 3 0 1 1 0 3 -3
+p477
+aVStacey Augmon ORL 01/11/2006 ORL @ SEA L 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 5 23
+p478
+aVKeyon Dooling ORL 01/11/2006 ORL @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -2
+p479
+aVPat Garrity ORL 01/11/2006 ORL @ SEA L 23 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 1 0 0 0 3 7
+p480
+aVKelvin Cato ORL 01/11/2006 ORL @ SEA L 11 6 2 3 66.7 0 0 - 2 5 40.0 2 2 4 0 0 0 2 2 1
+p481
+aVTony Battie ORL 01/11/2006 ORL @ SEA L 25 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 2 0 1 0 2 -20
+p482
+aVHedo Turkoglu ORL 01/11/2006 ORL @ SEA L 32 16 6 11 54.5 1 4 25.0 3 4 75.0 1 4 5 4 0 0 1 6 -32
+p483
+aVDeShawn Stevenson ORL 01/11/2006 ORL @ SEA L 30 15 6 12 50.0 0 1 0.0 3 3 100.0 1 2 3 1 0 0 0 3 -8
+p484
+aVJameer Nelson ORL 01/11/2006 ORL @ SEA L 35 32 9 16 56.3 2 3 66.7 12 14 85.7 1 2 3 8 3 1 2 2 4
+p485
+aVDwight Howard ORL 01/11/2006 ORL @ SEA L 38 13 4 9 44.4 0 0 - 5 11 45.5 7 11 18 2 0 1 5 2 -6
+p486
+aVSteve Francis ORL 01/11/2006 ORL @ SEA L 27 10 4 6 66.7 0 1 0.0 2 2 100.0 0 1 1 3 1 0 6 2 -12
+p487
+aVHedo Turkoglu ORL 01/10/2006 ORL @ LAC L 28 11 5 9 55.6 1 2 50.0 0 0 - 0 3 3 2 1 0 3 3 -17
+p488
+aVJameer Nelson ORL 01/10/2006 ORL @ LAC L 42 18 6 16 37.5 2 5 40.0 4 5 80.0 0 2 2 5 1 0 5 5 -6
+p489
+aVSteve Francis ORL 01/10/2006 ORL @ LAC L 38 10 3 16 18.8 1 2 50.0 3 3 100.0 0 4 4 5 0 0 6 5 -17
+p490
+aVStacey Augmon ORL 01/10/2006 ORL @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p491
+aVMario Kasun ORL 01/10/2006 ORL @ LAC L 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -6
+p492
+aVPat Garrity ORL 01/10/2006 ORL @ LAC L 20 0 0 5 0.0 0 2 0.0 0 0 - 2 1 3 3 0 1 0 2 -11
+p493
+aVKelvin Cato ORL 01/10/2006 ORL @ LAC L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -2
+p494
+aVTony Battie ORL 01/10/2006 ORL @ LAC L 28 6 3 6 50.0 0 0 - 0 0 - 3 10 13 0 0 2 0 3 -9
+p495
+aVDwight Howard ORL 01/10/2006 ORL @ LAC L 30 9 3 7 42.9 0 0 - 3 5 60.0 2 4 6 0 0 2 0 5 -2
+p496
+aVBo Outlaw ORL 01/10/2006 ORL @ LAC L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p497
+aVDeShawn Stevenson ORL 01/10/2006 ORL @ LAC L 37 13 6 10 60.0 1 1 100.0 0 0 - 0 4 4 3 0 1 0 1 -13
+p498
+aVDeShawn Stevenson ORL 01/07/2006 ORL vs. CHA W 35 16 7 11 63.6 0 0 - 2 4 50.0 2 2 4 5 1 0 3 4 17
+p499
+aVBo Outlaw ORL 01/07/2006 ORL vs. CHA W 18 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 2 0 1 1 4 -10
+p500
+aVJameer Nelson ORL 01/07/2006 ORL vs. CHA W 41 18 7 14 50.0 0 2 0.0 4 6 66.7 0 7 7 6 0 0 2 4 26
+p501
+aVHedo Turkoglu ORL 01/07/2006 ORL vs. CHA W 17 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 3 2
+p502
+aVTravis Diener ORL 01/07/2006 ORL vs. CHA W 15 8 2 6 33.3 2 4 50.0 2 2 100.0 0 0 0 1 2 0 2 1 -14
+p503
+aVTony Battie ORL 01/07/2006 ORL vs. CHA W 31 16 7 8 87.5 0 0 - 2 3 66.7 2 10 12 2 0 2 2 4 24
+p504
+aVSteve Francis ORL 01/07/2006 ORL vs. CHA W 40 18 4 11 36.4 0 0 - 10 12 83.3 0 5 5 6 2 0 5 3 20
+p505
+aVDwight Howard ORL 01/07/2006 ORL vs. CHA W 39 19 8 11 72.7 0 0 - 3 3 100.0 3 9 12 2 1 3 4 4 19
+p506
+aVTerence Morris ORL 01/07/2006 ORL vs. CHA W 4 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 -4
+p507
+aVPat Garrity ORL 01/06/2006 ORL @ NJN L 21 11 4 5 80.0 3 4 75.0 0 0 - 0 2 2 3 2 0 0 2 13
+p508
+aVJameer Nelson ORL 01/06/2006 ORL @ NJN L 31 18 8 14 57.1 1 3 33.3 1 2 50.0 1 5 6 8 4 0 5 2 -7
+p509
+aVMario Kasun ORL 01/06/2006 ORL @ NJN L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -2
+p510
+aVStacey Augmon ORL 01/06/2006 ORL @ NJN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p511
+aVHedo Turkoglu ORL 01/06/2006 ORL @ NJN L 25 14 4 10 40.0 1 2 50.0 5 5 100.0 1 4 5 1 1 0 1 6 2
+p512
+aVDwight Howard ORL 01/06/2006 ORL @ NJN L 42 19 6 12 50.0 0 0 - 7 11 63.6 8 6 14 1 0 2 4 2 -10
+p513
+aVGrant Hill ORL 01/06/2006 ORL @ NJN L 24 14 5 13 38.5 0 0 - 4 5 80.0 1 4 5 4 0 0 0 1 -6
+p514
+aVTony Battie ORL 01/06/2006 ORL @ NJN L 21 10 5 11 45.5 0 0 - 0 0 - 4 2 6 0 0 1 0 3 -7
+p515
+aVSteve Francis ORL 01/06/2006 ORL @ NJN L 35 12 5 9 55.6 0 1 0.0 2 2 100.0 1 4 5 2 2 1 7 5 -11
+p516
+aVTerence Morris ORL 01/06/2006 ORL @ NJN L 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 10
+p517
+aVDeShawn Stevenson ORL 01/06/2006 ORL @ NJN L 30 6 3 10 30.0 0 0 - 0 0 - 0 0 0 1 2 0 3 6 -16
+p518
+aVPat Garrity ORL 01/04/2006 ORL @ TOR L 18 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 2 -13
+p519
+aVMario Kasun ORL 01/04/2006 ORL @ TOR L 19 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 0 0 0 0 5 -9
+p520
+aVHedo Turkoglu ORL 01/04/2006 ORL @ TOR L 35 11 2 7 28.6 0 2 0.0 7 8 87.5 1 4 5 0 1 0 1 5 -26
+p521
+aVTravis Diener ORL 01/04/2006 ORL @ TOR L 4 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 2 0 0 0 0 0
+p522
+aVSteve Francis ORL 01/04/2006 ORL @ TOR L 28 10 2 7 28.6 0 0 - 6 6 100.0 0 0 0 4 2 0 2 3 -15
+p523
+aVStacey Augmon ORL 01/04/2006 ORL @ TOR L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -4
+p524
+aVTerence Morris ORL 01/04/2006 ORL @ TOR L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p525
+aVJameer Nelson ORL 01/04/2006 ORL @ TOR L 28 31 12 15 80.0 4 6 66.7 3 3 100.0 0 1 1 6 1 0 6 2 -5
+p526
+aVDwight Howard ORL 01/04/2006 ORL @ TOR L 29 10 5 8 62.5 0 0 - 0 0 - 1 6 7 1 0 0 3 3 -12
+p527
+aVTony Battie ORL 01/04/2006 ORL @ TOR L 27 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -14
+p528
+aVDeShawn Stevenson ORL 01/04/2006 ORL @ TOR L 36 12 3 8 37.5 0 0 - 6 6 100.0 0 0 0 3 2 0 2 1 -30
+p529
+aVPat Garrity ORL 01/03/2006 ORL @ DET L 12 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 0
+p530
+aVDeShawn Stevenson ORL 01/03/2006 ORL @ DET L 28 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 3 0 0 1 2 -6
+p531
+aVSteve Francis ORL 01/03/2006 ORL @ DET L 36 9 3 7 42.9 0 0 - 3 5 60.0 0 0 0 5 0 0 4 3 -14
+p532
+aVHedo Turkoglu ORL 01/03/2006 ORL @ DET L 19 6 1 4 25.0 0 2 0.0 4 4 100.0 0 4 4 1 0 0 1 2 0
+p533
+aVMario Kasun ORL 01/03/2006 ORL @ DET L 4 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 0
+p534
+aVGrant Hill ORL 01/03/2006 ORL @ DET L 37 15 7 17 41.2 0 0 - 1 1 100.0 0 4 4 3 1 1 0 3 -8
+p535
+aVJameer Nelson ORL 01/03/2006 ORL @ DET L 24 18 7 13 53.8 1 2 50.0 3 4 75.0 0 1 1 3 1 1 2 5 0
+p536
+aVTony Battie ORL 01/03/2006 ORL @ DET L 37 12 6 10 60.0 0 0 - 0 0 - 4 5 9 0 1 1 0 2 -9
+p537
+aVDwight Howard ORL 01/03/2006 ORL @ DET L 43 22 8 11 72.7 0 0 - 6 9 66.7 3 11 14 0 2 1 3 3 -8
+p538
+aVDeShawn Stevenson ORL 12/30/2005 ORL vs. MIN W 39 8 4 11 36.4 0 0 - 0 0 - 2 2 4 2 1 0 0 2 11
+p539
+aVSteve Francis ORL 12/30/2005 ORL vs. MIN W 32 21 7 13 53.8 0 1 0.0 7 8 87.5 1 4 5 2 2 1 2 2 1
+p540
+aVTerence Morris ORL 12/30/2005 ORL vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p541
+aVPat Garrity ORL 12/30/2005 ORL vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p542
+aVHedo Turkoglu ORL 12/30/2005 ORL vs. MIN W 34 11 5 12 41.7 1 6 16.7 0 0 - 0 5 5 2 3 0 2 1 24
+p543
+aVDwight Howard ORL 12/30/2005 ORL vs. MIN W 39 17 5 9 55.6 0 0 - 7 10 70.0 4 8 12 2 2 0 3 4 22
+p544
+aVGrant Hill ORL 12/30/2005 ORL vs. MIN W 36 17 7 12 58.3 0 0 - 3 3 100.0 1 6 7 5 1 0 5 4 24
+p545
+aVTony Battie ORL 12/30/2005 ORL vs. MIN W 17 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 0 2 0 3 -1
+p546
+aVMario Kasun ORL 12/30/2005 ORL vs. MIN W 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -2
+p547
+aVJameer Nelson ORL 12/30/2005 ORL vs. MIN W 31 25 9 17 52.9 2 3 66.7 5 5 100.0 1 1 2 5 2 0 1 5 18
+p548
+aVJameer Nelson ORL 12/28/2005 ORL vs. NYK W 22 9 4 10 40.0 0 3 0.0 1 4 25.0 1 5 6 6 1 0 2 3 0
+p549
+aVSteve Francis ORL 12/28/2005 ORL vs. NYK W 34 17 6 11 54.5 0 0 - 5 7 71.4 2 1 3 6 1 0 1 1 12
+p550
+aVKelvin Cato ORL 12/28/2005 ORL vs. NYK W 15 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 1 1 2 4 -3
+p551
+aVHedo Turkoglu ORL 12/28/2005 ORL vs. NYK W 21 11 5 9 55.6 1 2 50.0 0 0 - 0 1 1 1 1 1 0 4 -6
+p552
+aVTony Battie ORL 12/28/2005 ORL vs. NYK W 34 13 5 10 50.0 0 0 - 3 4 75.0 5 5 10 0 1 4 0 3 13
+p553
+aVDwight Howard ORL 12/28/2005 ORL vs. NYK W 37 11 3 7 42.9 0 0 - 5 11 45.5 1 7 8 2 2 1 4 6 14
+p554
+aVPat Garrity ORL 12/28/2005 ORL vs. NYK W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p555
+aVDeShawn Stevenson ORL 12/28/2005 ORL vs. NYK W 34 14 4 8 50.0 0 0 - 6 8 75.0 1 1 2 1 2 0 1 1 22
+p556
+aVGrant Hill ORL 12/28/2005 ORL vs. NYK W 35 26 9 15 60.0 0 0 - 8 8 100.0 1 4 5 4 5 0 1 2 4
+p557
+aVGrant Hill ORL 12/26/2005 ORL vs. MIL W 38 20 10 15 66.7 0 0 - 0 0 - 1 1 2 2 1 0 0 3 10
+p558
+aVSteve Francis ORL 12/26/2005 ORL vs. MIL W 44 21 8 14 57.1 0 0 - 5 6 83.3 2 4 6 6 2 0 3 3 20
+p559
+aVKelvin Cato ORL 12/26/2005 ORL vs. MIL W 5 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 1 0 0 2 8
+p560
+aVTony Battie ORL 12/26/2005 ORL vs. MIL W 15 8 2 3 66.7 0 0 - 4 6 66.7 1 4 5 1 0 0 2 3 -9
+p561
+aVHedo Turkoglu ORL 12/26/2005 ORL vs. MIL W 31 14 5 10 50.0 1 2 50.0 3 5 60.0 1 2 3 4 1 1 0 2 13
+p562
+aVJameer Nelson ORL 12/26/2005 ORL vs. MIL W 26 11 4 9 44.4 2 3 66.7 1 2 50.0 0 2 2 3 1 1 2 1 7
+p563
+aVDeShawn Stevenson ORL 12/26/2005 ORL vs. MIL W 31 12 5 8 62.5 0 0 - 2 2 100.0 1 1 2 4 1 0 1 2 5
+p564
+aVDwight Howard ORL 12/26/2005 ORL vs. MIL W 38 19 8 15 53.3 0 0 - 3 4 75.0 4 10 14 0 1 0 2 4 20
+p565
+aVPat Garrity ORL 12/26/2005 ORL vs. MIL W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p566
+aVMario Kasun ORL 12/26/2005 ORL vs. MIL W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 0
+p567
+aVGrant Hill ORL 12/23/2005 ORL vs. LAL L 37 13 5 16 31.3 0 0 - 3 6 50.0 2 6 8 1 0 1 2 1 -14
+p568
+aVSteve Francis ORL 12/23/2005 ORL vs. LAL L 40 28 8 14 57.1 0 3 0.0 12 17 70.6 2 3 5 9 2 1 2 5 -8
+p569
+aVMario Kasun ORL 12/23/2005 ORL vs. LAL L 16 10 4 4 100.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 5 -1
+p570
+aVJameer Nelson ORL 12/23/2005 ORL vs. LAL L 27 3 1 9 11.1 0 3 0.0 1 2 50.0 2 3 5 0 1 0 1 2 -17
+p571
+aVBo Outlaw ORL 12/23/2005 ORL vs. LAL L 22 2 1 1 100.0 0 0 - 0 0 - 3 3 6 1 1 0 1 3 3
+p572
+aVTony Battie ORL 12/23/2005 ORL vs. LAL L 35 9 4 10 40.0 0 1 0.0 1 1 100.0 2 6 8 0 0 0 1 6 -18
+p573
+aVHedo Turkoglu ORL 12/23/2005 ORL vs. LAL L 24 8 2 9 22.2 1 4 25.0 3 4 75.0 0 4 4 2 0 0 1 1 -11
+p574
+aVDwight Howard ORL 12/23/2005 ORL vs. LAL L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p575
+aVDeShawn Stevenson ORL 12/23/2005 ORL vs. LAL L 23 11 5 11 45.5 0 0 - 1 2 50.0 2 1 3 2 0 0 3 3 -8
+p576
+aVPat Garrity ORL 12/23/2005 ORL vs. LAL L 14 2 1 5 20.0 0 2 0.0 0 0 - 2 0 2 1 0 0 0 2 0
+p577
+aVSteve Francis ORL 12/21/2005 ORL vs. NJN L 41 16 7 13 53.8 1 2 50.0 1 2 50.0 1 5 6 3 1 0 7 2 -8
+p578
+aVDwight Howard ORL 12/21/2005 ORL vs. NJN L 42 14 4 9 44.4 0 0 - 6 10 60.0 1 14 15 0 2 2 2 1 -11
+p579
+aVPat Garrity ORL 12/21/2005 ORL vs. NJN L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 1 0 0 1
+p580
+aVJameer Nelson ORL 12/21/2005 ORL vs. NJN L 23 11 5 9 55.6 1 4 25.0 0 1 0.0 1 2 3 1 2 0 2 2 -4
+p581
+aVGrant Hill ORL 12/21/2005 ORL vs. NJN L 33 16 6 12 50.0 0 0 - 4 4 100.0 0 1 1 2 0 0 1 4 -14
+p582
+aVDeShawn Stevenson ORL 12/21/2005 ORL vs. NJN L 27 5 1 5 20.0 0 0 - 3 4 75.0 0 2 2 1 0 0 3 3 -8
+p583
+aVTony Battie ORL 12/21/2005 ORL vs. NJN L 28 13 6 7 85.7 0 0 - 1 4 25.0 6 4 10 0 0 0 0 4 -2
+p584
+aVHedo Turkoglu ORL 12/21/2005 ORL vs. NJN L 31 10 3 10 30.0 0 5 0.0 4 4 100.0 0 2 2 3 0 0 2 3 -9
+p585
+aVGrant Hill ORL 12/19/2005 ORL vs. TOR L 18 11 4 7 57.1 0 1 0.0 3 6 50.0 0 6 6 4 1 0 4 2 2
+p586
+aVMario Kasun ORL 12/19/2005 ORL vs. TOR L 3 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 3
+p587
+aVSteve Francis ORL 12/19/2005 ORL vs. TOR L 17 20 6 14 42.9 0 0 - 8 10 80.0 0 5 5 5 2 1 4 2 -1
+p588
+aVHedo Turkoglu ORL 12/19/2005 ORL vs. TOR L 3 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 1 1 1 0 3 -9
+p589
+aVTony Battie ORL 12/19/2005 ORL vs. TOR L 9 13 5 10 50.0 0 0 - 3 3 100.0 2 7 9 0 0 1 1 3 1
+p590
+aVJameer Nelson ORL 12/19/2005 ORL vs. TOR L 4 14 7 11 63.6 0 1 0.0 0 0 - 0 2 2 3 1 0 2 4 -7
+p591
+aVDwight Howard ORL 12/19/2005 ORL vs. TOR L 19 11 5 10 50.0 0 0 - 1 2 50.0 3 5 8 1 1 3 2 3 4
+p592
+aVDeShawn Stevenson ORL 12/19/2005 ORL vs. TOR L 10 10 3 10 30.0 0 1 0.0 4 4 100.0 0 4 4 0 2 0 2 1 3
+p593
+aVStacey Augmon ORL 12/19/2005 ORL vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p594
+aVPat Garrity ORL 12/19/2005 ORL vs. TOR L 0 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 -4
+p595
+aVGrant Hill ORL 12/16/2005 ORL @ DAL L 37 28 10 19 52.6 0 1 0.0 8 10 80.0 0 6 6 3 2 0 1 4 -6
+p596
+aVHedo Turkoglu ORL 12/16/2005 ORL @ DAL L 39 17 7 11 63.6 3 4 75.0 0 0 - 1 1 2 3 2 0 1 5 -3
+p597
+aVDwight Howard ORL 12/16/2005 ORL @ DAL L 39 10 5 11 45.5 0 0 - 0 0 - 3 7 10 2 0 5 1 2 -9
+p598
+aVPat Garrity ORL 12/16/2005 ORL @ DAL L 18 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -1
+p599
+aVMario Kasun ORL 12/16/2005 ORL @ DAL L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 0
+p600
+aVSteve Francis ORL 12/16/2005 ORL @ DAL L 41 16 6 13 46.2 0 1 0.0 4 5 80.0 1 2 3 4 0 0 2 5 -1
+p601
+aVTony Battie ORL 12/16/2005 ORL @ DAL L 24 4 2 7 28.6 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -8
+p602
+aVDeShawn Stevenson ORL 12/16/2005 ORL @ DAL L 29 10 3 8 37.5 0 0 - 4 7 57.1 0 3 3 1 2 1 1 1 -12
+p603
+aVJameer Nelson ORL 12/16/2005 ORL @ DAL L 30 14 5 9 55.6 1 2 50.0 3 5 60.0 0 3 3 5 2 2 2 3 5
+p604
+aVJameer Nelson ORL 12/14/2005 ORL @ NYK W 25 11 4 6 66.7 1 2 50.0 2 3 66.7 0 3 3 7 1 0 3 2 21
+p605
+aVDeShawn Stevenson ORL 12/14/2005 ORL @ NYK W 30 11 5 11 45.5 0 0 - 1 1 100.0 1 0 1 3 1 1 2 2 -2
+p606
+aVGrant Hill ORL 12/14/2005 ORL @ NYK W 23 7 2 5 40.0 1 1 100.0 2 4 50.0 0 2 2 1 1 0 5 2 -2
+p607
+aVMario Kasun ORL 12/14/2005 ORL @ NYK W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 6
+p608
+aVHedo Turkoglu ORL 12/14/2005 ORL @ NYK W 30 18 6 10 60.0 4 5 80.0 2 3 66.7 3 3 6 6 2 0 1 1 25
+p609
+aVTony Battie ORL 12/14/2005 ORL @ NYK W 24 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 1 1 0 2 4 -3
+p610
+aVSteve Francis ORL 12/14/2005 ORL @ NYK W 41 10 3 16 18.8 0 3 0.0 4 7 57.1 1 6 7 3 2 0 2 3 11
+p611
+aVDwight Howard ORL 12/14/2005 ORL @ NYK W 33 23 8 13 61.5 0 0 - 7 11 63.6 4 9 13 2 1 1 1 4 9
+p612
+aVPat Garrity ORL 12/14/2005 ORL @ NYK W 27 17 6 8 75.0 5 7 71.4 0 0 - 0 2 2 0 0 0 0 4 11
+p613
+aVTerence Morris ORL 12/14/2005 ORL @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p614
+aVDwight Howard ORL 12/10/2005 ORL vs. DEN W 39 17 5 9 55.6 0 0 - 7 11 63.6 4 10 14 2 0 1 6 4 8
+p615
+aVTony Battie ORL 12/10/2005 ORL vs. DEN W 24 15 5 7 71.4 0 0 - 5 6 83.3 3 4 7 1 0 0 2 6 11
+p616
+aVDeShawn Stevenson ORL 12/10/2005 ORL vs. DEN W 37 18 9 13 69.2 0 0 - 0 0 - 1 1 2 2 0 1 3 4 15
+p617
+aVHedo Turkoglu ORL 12/10/2005 ORL vs. DEN W 13 7 2 4 50.0 1 3 33.3 2 4 50.0 1 0 1 2 0 0 2 4 -2
+p618
+aVSteve Francis ORL 12/10/2005 ORL vs. DEN W 37 15 5 14 35.7 1 2 50.0 4 4 100.0 2 3 5 7 2 0 3 3 -1
+p619
+aVTerence Morris ORL 12/10/2005 ORL vs. DEN W 19 0 0 6 0.0 0 0 - 0 0 - 2 4 6 1 2 2 0 2 0
+p620
+aVJameer Nelson ORL 12/10/2005 ORL vs. DEN W 29 7 3 10 30.0 0 3 0.0 1 3 33.3 1 2 3 4 0 1 1 2 6
+p621
+aVMario Kasun ORL 12/10/2005 ORL vs. DEN W 8 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -1
+p622
+aVPat Garrity ORL 12/10/2005 ORL vs. DEN W 22 9 3 8 37.5 3 7 42.9 0 1 0.0 1 3 4 0 1 0 2 0 7
+p623
+aVStacey Augmon ORL 12/10/2005 ORL vs. DEN W 12 2 1 4 25.0 0 0 - 0 1 0.0 1 4 5 3 1 1 1 2 12
+p624
+aVDeShawn Stevenson ORL 12/07/2005 ORL vs. CHI L 32 10 3 11 27.3 0 0 - 4 5 80.0 2 1 3 1 2 0 2 2 -13
+p625
+aVHedo Turkoglu ORL 12/07/2005 ORL vs. CHI L 37 12 5 11 45.5 1 5 20.0 1 2 50.0 0 6 6 2 0 1 1 2 -18
+p626
+aVSteve Francis ORL 12/07/2005 ORL vs. CHI L 37 16 5 11 45.5 0 1 0.0 6 7 85.7 1 4 5 6 3 1 6 6 -2
+p627
+aVStacey Augmon ORL 12/07/2005 ORL vs. CHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p628
+aVMario Kasun ORL 12/07/2005 ORL vs. CHI L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p629
+aVPat Garrity ORL 12/07/2005 ORL vs. CHI L 12 5 1 5 20.0 1 4 25.0 2 2 100.0 0 3 3 2 0 0 3 2 7
+p630
+aVTerence Morris ORL 12/07/2005 ORL vs. CHI L 12 7 3 5 60.0 0 1 0.0 1 1 100.0 0 1 1 0 0 1 1 2 3
+p631
+aVJameer Nelson ORL 12/07/2005 ORL vs. CHI L 28 10 4 9 44.4 2 4 50.0 0 0 - 1 0 1 5 0 0 5 3 -2
+p632
+aVDwight Howard ORL 12/07/2005 ORL vs. CHI L 43 17 7 12 58.3 0 0 - 3 8 37.5 3 13 16 2 3 2 2 3 -9
+p633
+aVTony Battie ORL 12/07/2005 ORL vs. CHI L 29 14 5 8 62.5 0 0 - 4 4 100.0 3 5 8 0 2 0 3 4 -11
+p634
+aVStacey Augmon ORL 12/05/2005 ORL vs. SAS L 10 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -5
+p635
+aVTerence Morris ORL 12/05/2005 ORL vs. SAS L 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p636
+aVTravis Diener ORL 12/05/2005 ORL vs. SAS L 19 9 3 5 60.0 3 5 60.0 0 0 - 0 1 1 2 0 0 1 3 -14
+p637
+aVKelvin Cato ORL 12/05/2005 ORL vs. SAS L 10 2 0 2 0.0 0 0 - 2 2 100.0 0 4 4 0 1 0 1 5 3
+p638
+aVTony Battie ORL 12/05/2005 ORL vs. SAS L 23 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 1 2 0 2 1 -14
+p639
+aVDwight Howard ORL 12/05/2005 ORL vs. SAS L 38 13 4 18 22.2 0 0 - 5 6 83.3 5 10 15 1 2 1 2 3 -18
+p640
+aVJameer Nelson ORL 12/05/2005 ORL vs. SAS L 36 20 8 17 47.1 1 2 50.0 3 3 100.0 0 2 2 1 0 0 2 3 -25
+p641
+aVBo Outlaw ORL 12/05/2005 ORL vs. SAS L 3 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -4
+p642
+aVHedo Turkoglu ORL 12/05/2005 ORL vs. SAS L 41 11 4 12 33.3 0 1 0.0 3 3 100.0 0 1 1 1 1 0 4 3 -26
+p643
+aVDeShawn Stevenson ORL 12/05/2005 ORL vs. SAS L 38 15 6 12 50.0 0 0 - 3 4 75.0 1 6 7 2 1 0 0 3 -8
+p644
+aVPat Garrity ORL 12/05/2005 ORL vs. SAS L 19 7 2 4 50.0 1 3 33.3 2 2 100.0 1 1 2 2 0 0 1 1 -10
+p645
+aVDwight Howard ORL 12/03/2005 ORL @ MIL L 38 14 6 11 54.5 0 0 - 2 4 50.0 6 11 17 1 1 1 5 4 -11
+p646
+aVKelvin Cato ORL 12/03/2005 ORL @ MIL L 19 4 2 4 50.0 0 0 - 0 2 0.0 0 2 2 0 2 1 1 1 -6
+p647
+aVPat Garrity ORL 12/03/2005 ORL @ MIL L 18 7 2 6 33.3 1 3 33.3 2 2 100.0 0 2 2 1 0 0 1 4 -20
+p648
+aVTony Battie ORL 12/03/2005 ORL @ MIL L 21 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 3 -3
+p649
+aVJameer Nelson ORL 12/03/2005 ORL @ MIL L 40 20 7 15 46.7 4 4 100.0 2 2 100.0 0 5 5 9 3 0 4 2 -3
+p650
+aVTerence Morris ORL 12/03/2005 ORL @ MIL L 19 0 0 2 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 -17
+p651
+aVDeShawn Stevenson ORL 12/03/2005 ORL @ MIL L 38 15 5 14 35.7 0 0 - 5 6 83.3 0 0 0 4 1 0 3 1 -22
+p652
+aVStacey Augmon ORL 12/03/2005 ORL @ MIL L 24 2 0 5 0.0 0 0 - 2 2 100.0 2 4 6 3 1 0 2 2 5
+p653
+aVTravis Diener ORL 12/03/2005 ORL @ MIL L 23 14 5 6 83.3 4 4 100.0 0 0 - 0 0 0 0 0 0 2 1 -23
+p654
+aVBo Outlaw ORL 12/02/2005 ORL @ MEM L 7 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 1 0 1 3 -1
+p655
+aVStacey Augmon ORL 12/02/2005 ORL @ MEM L 13 6 1 6 16.7 0 0 - 4 6 66.7 2 1 3 0 0 1 0 1 0
+p656
+aVTerence Morris ORL 12/02/2005 ORL @ MEM L 15 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 1 1 0 0 -3
+p657
+aVHedo Turkoglu ORL 12/02/2005 ORL @ MEM L 33 11 4 13 30.8 1 2 50.0 2 2 100.0 1 2 3 2 2 0 3 3 -20
+p658
+aVDwight Howard ORL 12/02/2005 ORL @ MEM L 31 9 3 11 27.3 0 0 - 3 6 50.0 1 5 6 1 2 0 0 2 -24
+p659
+aVPat Garrity ORL 12/02/2005 ORL @ MEM L 22 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 1 0 4 -4
+p660
+aVDeShawn Stevenson ORL 12/02/2005 ORL @ MEM L 33 22 10 14 71.4 0 0 - 2 4 50.0 2 2 4 4 1 0 3 3 -15
+p661
+aVKelvin Cato ORL 12/02/2005 ORL @ MEM L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p662
+aVTravis Diener ORL 12/02/2005 ORL @ MEM L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -4
+p663
+aVMario Kasun ORL 12/02/2005 ORL @ MEM L 14 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 0 1 3 4 -5
+p664
+aVJameer Nelson ORL 12/02/2005 ORL @ MEM L 35 4 2 9 22.2 0 1 0.0 0 0 - 0 3 3 4 0 0 3 2 -18
+p665
+aVTony Battie ORL 12/02/2005 ORL @ MEM L 20 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 1 0 3 -14
+p666
+aVStacey Augmon ORL 11/29/2005 ORL @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p667
+aVJameer Nelson ORL 11/29/2005 ORL @ CHI L 34 13 4 10 40.0 2 5 40.0 3 4 75.0 0 2 2 4 0 1 2 1 3
+p668
+aVDeShawn Stevenson ORL 11/29/2005 ORL @ CHI L 24 4 2 7 28.6 0 0 - 0 0 - 0 0 0 2 1 1 2 0 -15
+p669
+aVSteve Francis ORL 11/29/2005 ORL @ CHI L 44 9 2 9 22.2 0 1 0.0 5 7 71.4 2 1 3 8 1 0 6 3 -12
+p670
+aVDwight Howard ORL 11/29/2005 ORL @ CHI L 38 17 6 9 66.7 0 0 - 5 10 50.0 1 18 19 2 0 1 4 4 -10
+p671
+aVPat Garrity ORL 11/29/2005 ORL @ CHI L 29 9 4 12 33.3 1 5 20.0 0 0 - 0 4 4 1 0 0 1 2 -6
+p672
+aVKelvin Cato ORL 11/29/2005 ORL @ CHI L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 11
+p673
+aVTony Battie ORL 11/29/2005 ORL @ CHI L 19 2 1 3 33.3 0 0 - 0 1 0.0 1 3 4 0 0 0 1 4 -10
+p674
+aVHedo Turkoglu ORL 11/29/2005 ORL @ CHI L 41 20 6 11 54.5 4 6 66.7 4 4 100.0 0 5 5 3 1 1 2 3 -4
+p675
+aVPat Garrity ORL 11/28/2005 ORL @ BOS W 19 10 5 9 55.6 0 1 0.0 0 1 0.0 1 1 2 0 1 0 1 5 17
+p676
+aVKelvin Cato ORL 11/28/2005 ORL @ BOS W 12 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -5
+p677
+aVHedo Turkoglu ORL 11/28/2005 ORL @ BOS W 33 9 1 8 12.5 0 1 0.0 7 7 100.0 1 3 4 4 3 1 2 2 5
+p678
+aVDeShawn Stevenson ORL 11/28/2005 ORL @ BOS W 40 11 5 8 62.5 0 0 - 1 2 50.0 0 5 5 0 1 0 1 1 1
+p679
+aVJameer Nelson ORL 11/28/2005 ORL @ BOS W 25 16 6 13 46.2 2 4 50.0 2 2 100.0 2 3 5 3 2 0 4 2 1
+p680
+aVDwight Howard ORL 11/28/2005 ORL @ BOS W 36 10 2 3 66.7 0 0 - 6 12 50.0 2 8 10 3 1 2 4 4 -3
+p681
+aVSteve Francis ORL 11/28/2005 ORL @ BOS W 37 19 6 15 40.0 1 3 33.3 6 9 66.7 2 2 4 7 0 0 1 2 0
+p682
+aVStacey Augmon ORL 11/28/2005 ORL @ BOS W 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -1
+p683
+aVTony Battie ORL 11/28/2005 ORL @ BOS W 24 8 4 6 66.7 0 0 - 0 0 - 2 6 8 0 0 2 2 1 5
+p684
+aVStacey Augmon ORL 11/26/2005 ORL vs. MIA W 15 7 3 6 50.0 0 0 - 1 2 50.0 3 0 3 0 2 0 0 0 -1
+p685
+aVKelvin Cato ORL 11/26/2005 ORL vs. MIA W 17 0 0 4 0.0 0 0 - 0 0 - 2 6 8 0 0 0 1 2 1
+p686
+aVJameer Nelson ORL 11/26/2005 ORL vs. MIA W 24 5 1 8 12.5 0 1 0.0 3 4 75.0 1 0 1 5 0 0 2 1 -9
+p687
+aVDwight Howard ORL 11/26/2005 ORL vs. MIA W 33 15 7 14 50.0 0 0 - 1 3 33.3 4 12 16 0 0 4 3 5 9
+p688
+aVPat Garrity ORL 11/26/2005 ORL vs. MIA W 15 5 2 3 66.7 1 2 50.0 0 0 - 2 1 3 0 0 0 1 3 -5
+p689
+aVTony Battie ORL 11/26/2005 ORL vs. MIA W 25 8 4 8 50.0 0 1 0.0 0 0 - 3 2 5 0 1 1 0 2 2
+p690
+aVSteve Francis ORL 11/26/2005 ORL vs. MIA W 36 10 3 8 37.5 0 1 0.0 4 5 80.0 0 6 6 4 1 0 2 3 5
+p691
+aVDeShawn Stevenson ORL 11/26/2005 ORL vs. MIA W 38 12 3 12 25.0 0 0 - 6 8 75.0 1 0 1 2 0 1 1 3 10
+p692
+aVHedo Turkoglu ORL 11/26/2005 ORL vs. MIA W 37 18 4 14 28.6 0 2 0.0 10 10 100.0 0 4 4 0 1 0 1 1 3
+p693
+aVDwight Howard ORL 11/25/2005 ORL vs. POR W 38 21 10 19 52.6 0 1 0.0 1 1 100.0 8 10 18 1 2 1 1 4 6
+p694
+aVTony Battie ORL 11/25/2005 ORL vs. POR W 33 6 3 5 60.0 0 0 - 0 0 - 3 1 4 0 2 0 1 3 2
+p695
+aVStacey Augmon ORL 11/25/2005 ORL vs. POR W 17 4 1 6 16.7 0 0 - 2 2 100.0 2 3 5 1 0 0 1 1 17
+p696
+aVHedo Turkoglu ORL 11/25/2005 ORL vs. POR W 23 15 6 12 50.0 3 6 50.0 0 1 0.0 1 0 1 2 0 1 0 2 0
+p697
+aVKeyon Dooling ORL 11/25/2005 ORL vs. POR W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 5
+p698
+aVDeShawn Stevenson ORL 11/25/2005 ORL vs. POR W 35 16 7 10 70.0 0 0 - 2 3 66.7 1 4 5 4 0 0 1 1 1
+p699
+aVSteve Francis ORL 11/25/2005 ORL vs. POR W 32 12 5 9 55.6 1 1 100.0 1 1 100.0 0 5 5 9 0 0 3 3 10
+p700
+aVPat Garrity ORL 11/25/2005 ORL vs. POR W 13 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 11
+p701
+aVJameer Nelson ORL 11/25/2005 ORL vs. POR W 30 24 11 16 68.8 0 2 0.0 2 3 66.7 0 2 2 3 2 0 2 4 12
+p702
+aVKelvin Cato ORL 11/25/2005 ORL vs. POR W 13 6 3 6 50.0 0 0 - 0 0 - 3 5 8 0 0 1 2 3 11
+p703
+aVPat Garrity ORL 11/23/2005 ORL vs. WAS W 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -1
+p704
+aVTerence Morris ORL 11/23/2005 ORL vs. WAS W 16 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 0 0 0 5
+p705
+aVJameer Nelson ORL 11/23/2005 ORL vs. WAS W 26 15 6 12 50.0 2 4 50.0 1 2 50.0 0 3 3 5 0 0 4 0 1
+p706
+aVHedo Turkoglu ORL 11/23/2005 ORL vs. WAS W 37 23 8 18 44.4 3 4 75.0 4 4 100.0 3 4 7 3 0 0 1 3 8
+p707
+aVDeShawn Stevenson ORL 11/23/2005 ORL vs. WAS W 41 15 6 10 60.0 0 0 - 3 5 60.0 1 4 5 1 1 0 2 0 6
+p708
+aVDwight Howard ORL 11/23/2005 ORL vs. WAS W 27 5 2 8 25.0 0 0 - 1 2 50.0 1 6 7 2 1 0 2 5 10
+p709
+aVKeyon Dooling ORL 11/23/2005 ORL vs. WAS W 30 11 4 8 50.0 1 1 100.0 2 2 100.0 0 2 2 5 1 0 6 2 2
+p710
+aVTony Battie ORL 11/23/2005 ORL vs. WAS W 20 12 6 9 66.7 0 0 - 0 0 - 2 4 6 2 2 1 0 3 2
+p711
+aVMario Kasun ORL 11/23/2005 ORL vs. WAS W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 1 0 2 2 4
+p712
+aVKelvin Cato ORL 11/23/2005 ORL vs. WAS W 24 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 0 0 0 1 3
+p713
+aVPat Garrity ORL 11/19/2005 ORL vs. NOK L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p714
+aVKeyon Dooling ORL 11/19/2005 ORL vs. NOK L 27 22 9 17 52.9 1 3 33.3 3 3 100.0 0 1 1 2 1 0 1 3 6
+p715
+aVHedo Turkoglu ORL 11/19/2005 ORL vs. NOK L 33 22 9 14 64.3 3 6 50.0 1 1 100.0 1 3 4 3 1 0 1 5 -3
+p716
+aVDwight Howard ORL 11/19/2005 ORL vs. NOK L 42 16 6 10 60.0 0 0 - 4 6 66.7 2 15 17 3 0 2 2 3 1
+p717
+aVSteve Francis ORL 11/19/2005 ORL vs. NOK L 34 21 8 11 72.7 2 3 66.7 3 6 50.0 2 0 2 5 1 0 3 2 -8
+p718
+aVBo Outlaw ORL 11/19/2005 ORL vs. NOK L 19 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 2 1
+p719
+aVDeShawn Stevenson ORL 11/19/2005 ORL vs. NOK L 26 2 0 3 0.0 0 0 - 2 4 50.0 0 1 1 4 1 0 1 3 -12
+p720
+aVTony Battie ORL 11/19/2005 ORL vs. NOK L 29 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 4 4 -8
+p721
+aVJameer Nelson ORL 11/19/2005 ORL vs. NOK L 16 8 3 7 42.9 0 2 0.0 2 2 100.0 0 0 0 2 0 0 2 4 1
+p722
+aVTerence Morris ORL 11/19/2005 ORL vs. NOK L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p723
+aVBo Outlaw ORL 11/18/2005 ORL @ CLE L 11 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -9
+p724
+aVKelvin Cato ORL 11/18/2005 ORL @ CLE L 12 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -9
+p725
+aVTerence Morris ORL 11/18/2005 ORL @ CLE L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p726
+aVKeyon Dooling ORL 11/18/2005 ORL @ CLE L 28 13 5 9 55.6 1 1 100.0 2 2 100.0 0 0 0 4 1 0 4 1 0
+p727
+aVMario Kasun ORL 11/18/2005 ORL @ CLE L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 6
+p728
+aVDeShawn Stevenson ORL 11/18/2005 ORL @ CLE L 26 10 3 7 42.9 0 0 - 4 5 80.0 0 2 2 1 0 0 3 1 -14
+p729
+aVTony Battie ORL 11/18/2005 ORL @ CLE L 19 4 1 4 25.0 0 0 - 2 2 100.0 2 4 6 1 0 1 1 2 -12
+p730
+aVSteve Francis ORL 11/18/2005 ORL @ CLE L 36 21 6 13 46.2 0 0 - 9 13 69.2 2 0 2 5 2 1 2 3 -20
+p731
+aVJameer Nelson ORL 11/18/2005 ORL @ CLE L 21 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 2 0 0 1 0 -6
+p732
+aVHedo Turkoglu ORL 11/18/2005 ORL @ CLE L 23 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 2 0 0 2 4 -18
+p733
+aVPat Garrity ORL 11/18/2005 ORL @ CLE L 14 8 2 5 40.0 1 3 33.3 3 3 100.0 1 3 4 1 1 3 0 2 -1
+p734
+aVDwight Howard ORL 11/18/2005 ORL @ CLE L 35 10 5 11 45.5 0 0 - 0 2 0.0 3 12 15 1 1 3 2 3 -11
+p735
+aVDeShawn Stevenson ORL 11/15/2005 ORL vs. CHA W 37 16 6 13 46.2 0 0 - 4 5 80.0 0 3 3 0 0 1 2 0 11
+p736
+aVKelvin Cato ORL 11/15/2005 ORL vs. CHA W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 2 0 1 -9
+p737
+aVBo Outlaw ORL 11/15/2005 ORL vs. CHA W 13 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -14
+p738
+aVSteve Francis ORL 11/15/2005 ORL vs. CHA W 36 13 6 10 60.0 0 0 - 1 3 33.3 0 5 5 6 1 0 3 0 17
+p739
+aVKeyon Dooling ORL 11/15/2005 ORL vs. CHA W 21 3 1 6 16.7 0 0 - 1 4 25.0 0 1 1 2 2 0 1 2 3
+p740
+aVDwight Howard ORL 11/15/2005 ORL vs. CHA W 37 21 7 11 63.6 0 0 - 7 10 70.0 8 12 20 1 1 1 1 3 22
+p741
+aVPat Garrity ORL 11/15/2005 ORL vs. CHA W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 5
+p742
+aVTony Battie ORL 11/15/2005 ORL vs. CHA W 34 11 4 10 40.0 0 0 - 3 6 50.0 6 6 12 0 1 1 3 3 12
+p743
+aVHedo Turkoglu ORL 11/15/2005 ORL vs. CHA W 30 5 1 11 9.1 1 3 33.3 2 2 100.0 1 2 3 0 1 0 0 2 0
+p744
+aVJameer Nelson ORL 11/15/2005 ORL vs. CHA W 19 13 4 7 57.1 0 0 - 5 5 100.0 0 1 1 2 0 0 1 1 -7
+p745
+aVJameer Nelson ORL 11/13/2005 ORL vs. CLE L 15 3 0 4 0.0 0 1 0.0 3 4 75.0 0 1 1 2 3 0 5 1 -11
+p746
+aVKelvin Cato ORL 11/13/2005 ORL vs. CLE L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 2 1 -6
+p747
+aVKeyon Dooling ORL 11/13/2005 ORL vs. CLE L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 2 0 -3
+p748
+aVSteve Francis ORL 11/13/2005 ORL vs. CLE L 47 22 7 16 43.8 0 2 0.0 8 8 100.0 2 4 6 7 2 1 5 3 -7
+p749
+aVDeShawn Stevenson ORL 11/13/2005 ORL vs. CLE L 44 15 5 11 45.5 0 0 - 5 5 100.0 1 3 4 3 0 0 2 3 -9
+p750
+aVTony Battie ORL 11/13/2005 ORL vs. CLE L 28 10 5 9 55.6 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -1
+p751
+aVPat Garrity ORL 11/13/2005 ORL vs. CLE L 27 8 3 6 50.0 2 3 66.7 0 0 - 0 3 3 0 0 0 1 0 -6
+p752
+aVHedo Turkoglu ORL 11/13/2005 ORL vs. CLE L 40 17 4 13 30.8 4 6 66.7 5 5 100.0 1 2 3 3 0 1 2 6 3
+p753
+aVTerence Morris ORL 11/13/2005 ORL vs. CLE L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p754
+aVDwight Howard ORL 11/13/2005 ORL vs. CLE L 46 21 9 13 69.2 0 0 - 3 4 75.0 4 12 16 3 2 1 1 5 -1
+p755
+aVHedo Turkoglu ORL 11/09/2005 ORL @ NOK W 27 9 2 5 40.0 1 1 100.0 4 4 100.0 0 4 4 2 0 0 2 4 14
+p756
+aVDeShawn Stevenson ORL 11/09/2005 ORL @ NOK W 43 13 4 9 44.4 0 0 - 5 6 83.3 1 4 5 3 0 0 3 2 -1
+p757
+aVJameer Nelson ORL 11/09/2005 ORL @ NOK W 25 6 2 6 33.3 1 1 100.0 1 1 100.0 2 3 5 4 1 0 1 4 1
+p758
+aVDwight Howard ORL 11/09/2005 ORL @ NOK W 37 16 5 8 62.5 0 0 - 6 8 75.0 4 9 13 1 0 1 3 5 11
+p759
+aVKelvin Cato ORL 11/09/2005 ORL @ NOK W 27 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 0 0 1 1 4 -3
+p760
+aVTony Battie ORL 11/09/2005 ORL @ NOK W 20 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 1 2 0 8
+p761
+aVTerence Morris ORL 11/09/2005 ORL @ NOK W 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 2 2 -5
+p762
+aVSteve Francis ORL 11/09/2005 ORL @ NOK W 39 24 7 19 36.8 2 3 66.7 8 9 88.9 2 6 8 4 0 0 5 3 6
+p763
+aVBo Outlaw ORL 11/09/2005 ORL @ NOK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p764
+aVPat Garrity ORL 11/09/2005 ORL @ NOK W 10 6 2 3 66.7 0 1 0.0 2 3 66.7 0 1 1 1 0 0 1 0 -4
+p765
+aVTerence Morris ORL 11/08/2005 ORL @ HOU W 14 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 2 -6
+p766
+aVTony Battie ORL 11/08/2005 ORL @ HOU W 21 0 0 5 0.0 0 0 - 0 0 - 1 2 3 1 0 2 0 6 -1
+p767
+aVBo Outlaw ORL 11/08/2005 ORL @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p768
+aVPat Garrity ORL 11/08/2005 ORL @ HOU W 8 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p769
+aVHedo Turkoglu ORL 11/08/2005 ORL @ HOU W 29 9 3 10 30.0 1 4 25.0 2 2 100.0 1 6 7 1 2 1 2 1 3
+p770
+aVMario Kasun ORL 11/08/2005 ORL @ HOU W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -4
+p771
+aVSteve Francis ORL 11/08/2005 ORL @ HOU W 42 27 12 26 46.2 1 6 16.7 2 4 50.0 0 3 3 5 1 0 2 1 6
+p772
+aVJameer Nelson ORL 11/08/2005 ORL @ HOU W 22 10 4 7 57.1 2 2 100.0 0 0 - 2 4 6 2 0 0 2 0 1
+p773
+aVDwight Howard ORL 11/08/2005 ORL @ HOU W 36 12 4 9 44.4 0 0 - 4 6 66.7 3 8 11 1 0 2 2 3 -2
+p774
+aVDeShawn Stevenson ORL 11/08/2005 ORL @ HOU W 38 12 3 10 30.0 0 0 - 6 8 75.0 1 3 4 1 0 0 3 1 2
+p775
+aVKelvin Cato ORL 11/08/2005 ORL @ HOU W 21 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 2 1 2 12
+p776
+aVHedo Turkoglu ORL 11/05/2005 ORL @ WAS L 40 15 5 12 41.7 2 7 28.6 3 3 100.0 3 1 4 0 1 0 1 4 3
+p777
+aVKelvin Cato ORL 11/05/2005 ORL @ WAS L 11 8 2 6 33.3 0 0 - 4 4 100.0 2 0 2 0 0 1 0 3 -7
+p778
+aVTony Battie ORL 11/05/2005 ORL @ WAS L 29 2 0 4 0.0 0 0 - 2 4 50.0 4 5 9 1 0 0 1 4 -4
+p779
+aVDeShawn Stevenson ORL 11/05/2005 ORL @ WAS L 36 13 5 12 41.7 0 0 - 3 4 75.0 2 5 7 2 1 0 0 3 0
+p780
+aVSteve Francis ORL 11/05/2005 ORL @ WAS L 40 16 5 16 31.3 1 2 50.0 5 7 71.4 3 6 9 6 2 0 3 5 -12
+p781
+aVTerence Morris ORL 11/05/2005 ORL @ WAS L 13 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -2
+p782
+aVJameer Nelson ORL 11/05/2005 ORL @ WAS L 18 2 1 8 12.5 0 2 0.0 0 0 - 0 3 3 2 1 0 1 2 -9
+p783
+aVBo Outlaw ORL 11/05/2005 ORL @ WAS L 12 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 1 0 2 2 -8
+p784
+aVDwight Howard ORL 11/05/2005 ORL @ WAS L 41 17 5 14 35.7 0 0 - 7 13 53.8 4 7 11 1 1 2 1 2 -1
+p785
+aVKelvin Cato ORL 11/04/2005 ORL vs. MEM L 16 9 3 4 75.0 0 0 - 3 4 75.0 2 2 4 0 0 0 0 3 -13
+p786
+aVTerence Morris ORL 11/04/2005 ORL vs. MEM L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p787
+aVDeShawn Stevenson ORL 11/04/2005 ORL vs. MEM L 33 13 6 10 60.0 0 0 - 1 2 50.0 0 5 5 1 2 0 3 3 -4
+p788
+aVSteve Francis ORL 11/04/2005 ORL vs. MEM L 40 22 9 17 52.9 0 4 0.0 4 6 66.7 0 2 2 7 0 1 2 5 -6
+p789
+aVHedo Turkoglu ORL 11/04/2005 ORL vs. MEM L 36 10 4 14 28.6 0 5 0.0 2 3 66.7 3 3 6 2 0 0 2 1 -13
+p790
+aVBo Outlaw ORL 11/04/2005 ORL vs. MEM L 23 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 0 2 -3
+p791
+aVDwight Howard ORL 11/04/2005 ORL vs. MEM L 34 16 5 10 50.0 0 0 - 6 8 75.0 1 4 5 0 0 1 1 5 -2
+p792
+aVJameer Nelson ORL 11/04/2005 ORL vs. MEM L 26 9 3 6 50.0 1 1 100.0 2 2 100.0 0 2 2 3 2 0 0 4 -3
+p793
+aVTony Battie ORL 11/04/2005 ORL vs. MEM L 20 4 2 5 40.0 0 0 - 0 0 - 3 4 7 1 2 0 4 0 2
+p794
+aVBo Outlaw ORL 11/02/2005 ORL vs. IND L 23 2 1 3 33.3 0 0 - 0 0 - 0 4 4 2 0 1 2 3 -1
+p795
+aVDeShawn Stevenson ORL 11/02/2005 ORL vs. IND L 40 12 6 13 46.2 0 0 - 0 0 - 2 4 6 5 1 0 2 3 -15
+p796
+aVJameer Nelson ORL 11/02/2005 ORL vs. IND L 23 9 4 10 40.0 1 2 50.0 0 0 - 1 1 2 2 2 0 2 2 -3
+p797
+aVKelvin Cato ORL 11/02/2005 ORL vs. IND L 17 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -8
+p798
+aVTony Battie ORL 11/02/2005 ORL vs. IND L 17 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 1 0 0 1 3 -7
+p799
+aVSteve Francis ORL 11/02/2005 ORL vs. IND L 40 15 6 14 42.9 0 3 0.0 3 5 60.0 4 5 9 7 3 1 3 2 -9
+p800
+aVPat Garrity ORL 11/02/2005 ORL vs. IND L 13 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 1 2 -4
+p801
+aVHedo Turkoglu ORL 11/02/2005 ORL vs. IND L 38 14 6 11 54.5 2 6 33.3 0 0 - 1 1 2 4 1 0 2 3 -9
+p802
+aVDwight Howard ORL 11/02/2005 ORL vs. IND L 29 12 3 9 33.3 0 0 - 6 10 60.0 2 4 6 1 0 2 2 2 -4
+p803
+a.

@@ -1,0 +1,1012 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAnfernee Hardaway ORL 05/05/1999 ORL @ CHI W 33 4 1 8 12.5 0 2 0.0 2 2 100.0 0 2 2 2 2 0 3 2 7
+p2
+aVDarrell Armstrong ORL 05/05/1999 ORL @ CHI W 31 12 5 8 62.5 2 3 66.7 0 1 0.0 0 2 2 13 3 0 5 0 7
+p3
+aVB.J. Armstrong ORL 05/05/1999 ORL @ CHI W 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 9 0 0 1 0 13
+p4
+aVIke Austin ORL 05/05/1999 ORL @ CHI W 23 12 2 7 28.6 0 0 - 8 8 100.0 2 3 5 0 2 1 4 2 5
+p5
+aVMichael Doleac ORL 05/05/1999 ORL @ CHI W 23 9 4 10 40.0 0 0 - 1 2 50.0 0 5 5 0 1 0 0 0 12
+p6
+aVDerek Strong ORL 05/05/1999 ORL @ CHI W 10 10 4 5 80.0 0 0 - 2 2 100.0 0 4 4 0 2 1 0 0 12
+p7
+aVMatt Harpring ORL 05/05/1999 ORL @ CHI W 25 14 6 10 60.0 1 1 100.0 1 2 50.0 2 3 5 0 0 0 2 2 21
+p8
+aVNick Anderson ORL 05/05/1999 ORL @ CHI W 25 8 3 7 42.9 2 2 100.0 0 0 - 0 4 4 3 1 0 2 4 -2
+p9
+aVDominique Wilkins ORL 05/05/1999 ORL @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 0 3
+p10
+aVHorace Grant ORL 05/05/1999 ORL @ CHI W 26 14 6 11 54.5 0 0 - 2 2 100.0 4 4 8 2 0 0 0 2 7
+p11
+aVBo Outlaw ORL 05/05/1999 ORL @ CHI W 23 14 6 8 75.0 0 1 0.0 2 4 50.0 3 3 6 0 1 2 1 3 12
+p12
+aVDan Schayes ORL 05/05/1999 ORL @ CHI W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p13
+aVAnfernee Hardaway ORL 04/30/1999 ORL vs. NJN W 39 9 3 12 25.0 1 4 25.0 2 2 100.0 1 1 2 7 3 0 3 3 19
+p14
+aVDarrell Armstrong ORL 04/30/1999 ORL vs. NJN W 38 10 4 12 33.3 2 6 33.3 0 0 - 4 4 8 9 1 0 2 1 28
+p15
+aVMichael Doleac ORL 04/30/1999 ORL vs. NJN W 8 4 2 6 33.3 0 0 - 0 0 - 3 0 3 0 0 0 0 0 -4
+p16
+aVBo Outlaw ORL 04/30/1999 ORL vs. NJN W 28 12 6 7 85.7 0 1 0.0 0 3 0.0 0 5 5 2 1 1 3 3 14
+p17
+aVB.J. Armstrong ORL 04/30/1999 ORL vs. NJN W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -16
+p18
+aVNick Anderson ORL 04/30/1999 ORL vs. NJN W 40 40 14 19 73.7 3 5 60.0 9 12 75.0 5 4 9 6 0 0 2 1 20
+p19
+aVMatt Harpring ORL 04/30/1999 ORL vs. NJN W 17 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 1 -15
+p20
+aVDerek Strong ORL 04/30/1999 ORL vs. NJN W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 0 1 2 0 12
+p21
+aVIke Austin ORL 04/30/1999 ORL vs. NJN W 16 4 1 6 16.7 0 0 - 2 2 100.0 2 6 8 0 0 3 2 1 -3
+p22
+aVHorace Grant ORL 04/30/1999 ORL vs. NJN W 37 20 10 14 71.4 0 0 - 0 3 0.0 3 7 10 4 0 1 1 3 5
+p23
+aVMatt Harpring ORL 04/28/1999 ORL vs. WAS W 18 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 1 0 3 3 6
+p24
+aVBo Outlaw ORL 04/28/1999 ORL vs. WAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p25
+aVAnfernee Hardaway ORL 04/28/1999 ORL vs. WAS W 42 10 3 10 30.0 0 1 0.0 4 4 100.0 1 8 9 5 3 1 6 4 7
+p26
+aVIke Austin ORL 04/28/1999 ORL vs. WAS W 34 15 7 12 58.3 0 1 0.0 1 3 33.3 2 4 6 0 0 1 3 4 12
+p27
+aVB.J. Armstrong ORL 04/28/1999 ORL vs. WAS W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 0 0 1 -6
+p28
+aVDarrell Armstrong ORL 04/28/1999 ORL vs. WAS W 40 27 7 11 63.6 3 5 60.0 10 10 100.0 0 1 1 9 3 0 3 0 11
+p29
+aVDerek Strong ORL 04/28/1999 ORL vs. WAS W 12 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 1 -4
+p30
+aVNick Anderson ORL 04/28/1999 ORL vs. WAS W 34 14 4 8 50.0 1 4 25.0 5 6 83.3 1 10 11 5 0 0 3 1 5
+p31
+aVDan Schayes ORL 04/28/1999 ORL vs. WAS W 8 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 2 -2
+p32
+aVHorace Grant ORL 04/28/1999 ORL vs. WAS W 32 13 6 11 54.5 0 0 - 1 1 100.0 3 6 9 1 1 7 4 5 11
+p33
+aVMichael Doleac ORL 04/28/1999 ORL vs. WAS W 6 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 1 0 0 -1
+p34
+aVAnfernee Hardaway ORL 04/27/1999 ORL @ IND W 38 17 7 17 41.2 1 2 50.0 2 2 100.0 0 1 1 1 2 1 2 3 11
+p35
+aVDarrell Armstrong ORL 04/27/1999 ORL @ IND W 37 15 7 11 63.6 1 1 100.0 0 0 - 2 1 3 9 1 0 5 1 4
+p36
+aVNick Anderson ORL 04/27/1999 ORL @ IND W 40 23 11 18 61.1 1 3 33.3 0 0 - 1 9 10 1 1 0 0 2 6
+p37
+aVMichael Doleac ORL 04/27/1999 ORL @ IND W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p38
+aVB.J. Armstrong ORL 04/27/1999 ORL @ IND W 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -3
+p39
+aVIke Austin ORL 04/27/1999 ORL @ IND W 17 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 2 0 2 1 5 12
+p40
+aVMatt Harpring ORL 04/27/1999 ORL @ IND W 9 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 4 -8
+p41
+aVHorace Grant ORL 04/27/1999 ORL @ IND W 45 14 6 11 54.5 0 0 - 2 2 100.0 1 10 11 1 1 0 1 0 0
+p42
+aVDan Schayes ORL 04/27/1999 ORL @ IND W 23 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 1 0 0 2 3 2
+p43
+aVBo Outlaw ORL 04/27/1999 ORL @ IND W 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -12
+p44
+aVDerek Strong ORL 04/25/1999 ORL @ PHI L 16 2 0 1 0.0 0 0 - 2 4 50.0 1 4 5 1 0 0 3 3 -5
+p45
+aVDan Schayes ORL 04/25/1999 ORL @ PHI L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p46
+aVMichael Doleac ORL 04/25/1999 ORL @ PHI L 12 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -5
+p47
+aVIke Austin ORL 04/25/1999 ORL @ PHI L 20 8 4 8 50.0 0 0 - 0 0 - 0 4 4 1 0 0 2 4 -7
+p48
+aVDominique Wilkins ORL 04/25/1999 ORL @ PHI L 3 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 6
+p49
+aVB.J. Armstrong ORL 04/25/1999 ORL @ PHI L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 1 0 1 0 5
+p50
+aVHorace Grant ORL 04/25/1999 ORL @ PHI L 37 18 9 15 60.0 0 0 - 0 0 - 3 3 6 3 1 0 0 3 -14
+p51
+aVAnfernee Hardaway ORL 04/25/1999 ORL @ PHI L 38 6 2 13 15.4 0 3 0.0 2 4 50.0 1 2 3 8 5 0 6 4 -17
+p52
+aVDarrell Armstrong ORL 04/25/1999 ORL @ PHI L 36 18 7 13 53.8 0 4 0.0 4 5 80.0 1 3 4 8 0 1 4 1 -8
+p53
+aVNick Anderson ORL 04/25/1999 ORL @ PHI L 30 18 7 11 63.6 4 7 57.1 0 0 - 0 5 5 1 2 0 0 4 -16
+p54
+aVBo Outlaw ORL 04/25/1999 ORL @ PHI L 19 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 1 0 2 2 -26
+p55
+aVMatt Harpring ORL 04/25/1999 ORL @ PHI L 17 8 2 3 66.7 0 0 - 4 4 100.0 0 4 4 2 2 1 3 2 2
+p56
+aVNick Anderson ORL 04/23/1999 ORL vs. TOR L 30 7 2 8 25.0 1 6 16.7 2 4 50.0 1 9 10 1 5 0 1 0 2
+p57
+aVAnfernee Hardaway ORL 04/23/1999 ORL vs. TOR L 36 7 3 10 30.0 0 2 0.0 1 2 50.0 0 2 2 4 2 0 4 0 -10
+p58
+aVIke Austin ORL 04/23/1999 ORL vs. TOR L 23 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 2 4 -4
+p59
+aVDan Schayes ORL 04/23/1999 ORL vs. TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p60
+aVMichael Doleac ORL 04/23/1999 ORL vs. TOR L 23 16 5 12 41.7 0 0 - 6 9 66.7 4 2 6 0 0 1 1 4 5
+p61
+aVMatt Harpring ORL 04/23/1999 ORL vs. TOR L 16 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 4 0 0 0 5 -7
+p62
+aVDarrell Armstrong ORL 04/23/1999 ORL vs. TOR L 32 16 5 11 45.5 1 5 20.0 5 5 100.0 2 2 4 5 3 0 5 3 -6
+p63
+aVBo Outlaw ORL 04/23/1999 ORL vs. TOR L 41 16 6 8 75.0 0 0 - 4 7 57.1 2 4 6 2 0 3 4 4 -9
+p64
+aVHorace Grant ORL 04/23/1999 ORL vs. TOR L 33 10 5 11 45.5 0 0 - 0 0 - 2 2 4 4 2 0 0 0 1
+p65
+aVDerek Strong ORL 04/23/1999 ORL vs. TOR L 5 0 0 5 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -4
+p66
+aVMichael Doleac ORL 04/22/1999 ORL vs. MIA L 13 1 0 5 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 3 3
+p67
+aVNick Anderson ORL 04/22/1999 ORL vs. MIA L 34 14 5 20 25.0 4 11 36.4 0 0 - 4 5 9 2 1 1 2 2 2
+p68
+aVIke Austin ORL 04/22/1999 ORL vs. MIA L 32 7 3 10 30.0 0 1 0.0 1 4 25.0 1 3 4 3 1 0 1 2 -11
+p69
+aVDarrell Armstrong ORL 04/22/1999 ORL vs. MIA L 27 8 3 10 30.0 2 5 40.0 0 0 - 2 2 4 6 2 0 3 0 1
+p70
+aVAnfernee Hardaway ORL 04/22/1999 ORL vs. MIA L 41 13 6 15 40.0 1 3 33.3 0 0 - 1 2 3 2 2 0 1 0 -4
+p71
+aVHorace Grant ORL 04/22/1999 ORL vs. MIA L 33 9 4 9 44.4 0 0 - 1 4 25.0 3 8 11 2 0 1 0 3 -4
+p72
+aVDerek Strong ORL 04/22/1999 ORL vs. MIA L 14 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 2 -6
+p73
+aVBo Outlaw ORL 04/22/1999 ORL vs. MIA L 26 10 5 7 71.4 0 0 - 0 0 - 1 3 4 4 0 1 0 2 4
+p74
+aVMatt Harpring ORL 04/22/1999 ORL vs. MIA L 21 4 1 6 16.7 0 0 - 2 2 100.0 1 1 2 0 0 0 1 0 -10
+p75
+aVAnfernee Hardaway ORL 04/20/1999 ORL @ MIL L 43 17 5 20 25.0 3 8 37.5 4 5 80.0 2 6 8 9 1 1 1 2 -15
+p76
+aVDerek Strong ORL 04/20/1999 ORL @ MIL L 23 6 2 5 40.0 0 0 - 2 2 100.0 5 5 10 0 1 0 2 3 11
+p77
+aVDarrell Armstrong ORL 04/20/1999 ORL @ MIL L 34 11 3 12 25.0 1 6 16.7 4 4 100.0 1 2 3 7 1 0 6 2 -19
+p78
+aVHorace Grant ORL 04/20/1999 ORL @ MIL L 24 5 1 4 25.0 0 0 - 3 4 75.0 0 4 4 0 0 2 0 2 -19
+p79
+aVIke Austin ORL 04/20/1999 ORL @ MIL L 27 13 6 16 37.5 0 1 0.0 1 2 50.0 3 2 5 0 1 0 0 1 -13
+p80
+aVMatt Harpring ORL 04/20/1999 ORL @ MIL L 30 6 3 10 30.0 0 0 - 0 2 0.0 4 3 7 1 1 0 3 4 -11
+p81
+aVNick Anderson ORL 04/20/1999 ORL @ MIL L 28 14 5 16 31.3 4 10 40.0 0 0 - 1 4 5 2 0 0 1 3 -1
+p82
+aVMichael Doleac ORL 04/20/1999 ORL @ MIL L 11 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 3 4
+p83
+aVBo Outlaw ORL 04/20/1999 ORL @ MIL L 20 7 2 2 100.0 0 0 - 3 5 60.0 1 1 2 1 0 1 0 2 3
+p84
+aVDarrell Armstrong ORL 04/19/1999 ORL @ TOR L 36 12 4 14 28.6 1 7 14.3 3 3 100.0 3 7 10 2 2 1 3 1 -6
+p85
+aVMatt Harpring ORL 04/19/1999 ORL @ TOR L 25 10 3 9 33.3 0 0 - 4 6 66.7 3 4 7 2 0 1 1 1 3
+p86
+aVB.J. Armstrong ORL 04/19/1999 ORL @ TOR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p87
+aVMichael Doleac ORL 04/19/1999 ORL @ TOR L 20 8 4 9 44.4 0 0 - 0 0 - 2 0 2 0 1 2 0 3 -17
+p88
+aVBo Outlaw ORL 04/19/1999 ORL @ TOR L 21 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 2 1 0 2 -21
+p89
+aVNick Anderson ORL 04/19/1999 ORL @ TOR L 27 8 4 10 40.0 0 4 0.0 0 2 0.0 1 5 6 2 0 1 2 0 -10
+p90
+aVDominique Wilkins ORL 04/19/1999 ORL @ TOR L 9 5 0 4 0.0 0 1 0.0 5 6 83.3 2 0 2 0 0 0 1 2 -8
+p91
+aVAnfernee Hardaway ORL 04/19/1999 ORL @ TOR L 41 11 4 11 36.4 1 3 33.3 2 4 50.0 3 1 4 8 3 0 3 2 -13
+p92
+aVHorace Grant ORL 04/19/1999 ORL @ TOR L 29 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 2 0 4 0 2 -5
+p93
+aVIke Austin ORL 04/19/1999 ORL @ TOR L 23 7 2 10 20.0 0 1 0.0 3 4 75.0 1 3 4 0 0 0 1 2 -2
+p94
+aVDerek Strong ORL 04/19/1999 ORL @ TOR L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 2 2 -6
+p95
+aVNick Anderson ORL 04/18/1999 ORL vs. DET W 27 9 4 10 40.0 1 4 25.0 0 0 - 0 8 8 0 1 0 0 1 9
+p96
+aVMichael Doleac ORL 04/18/1999 ORL vs. DET W 26 8 4 8 50.0 0 0 - 0 0 - 4 3 7 1 2 1 0 1 15
+p97
+aVIke Austin ORL 04/18/1999 ORL vs. DET W 22 2 1 5 20.0 0 0 - 0 0 - 1 4 5 2 2 0 3 3 -6
+p98
+aVHorace Grant ORL 04/18/1999 ORL vs. DET W 37 12 5 8 62.5 0 0 - 2 4 50.0 3 2 5 2 3 2 0 2 8
+p99
+aVB.J. Armstrong ORL 04/18/1999 ORL vs. DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -7
+p100
+aVMatt Harpring ORL 04/18/1999 ORL vs. DET W 37 13 5 9 55.6 0 0 - 3 6 50.0 1 6 7 5 0 0 3 4 11
+p101
+aVAnfernee Hardaway ORL 04/18/1999 ORL vs. DET W 41 27 10 18 55.6 1 1 100.0 6 7 85.7 3 3 6 5 1 0 2 1 3
+p102
+aVBo Outlaw ORL 04/18/1999 ORL vs. DET W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 2 1 0 -1
+p103
+aVDarrell Armstrong ORL 04/18/1999 ORL vs. DET W 34 17 7 14 50.0 3 5 60.0 0 0 - 1 4 5 9 1 0 2 2 3
+p104
+aVB.J. Armstrong ORL 04/16/1999 ORL @ ATL L 8 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 2 -2
+p105
+aVBo Outlaw ORL 04/16/1999 ORL @ ATL L 20 7 2 5 40.0 0 0 - 3 6 50.0 0 2 2 1 0 0 1 5 9
+p106
+aVMichael Doleac ORL 04/16/1999 ORL @ ATL L 20 6 3 8 37.5 0 0 - 0 0 - 0 2 2 0 1 3 0 4 -12
+p107
+aVNick Anderson ORL 04/16/1999 ORL @ ATL L 27 5 1 6 16.7 0 3 0.0 3 6 50.0 1 3 4 1 0 0 2 3 -9
+p108
+aVAnfernee Hardaway ORL 04/16/1999 ORL @ ATL L 38 16 6 17 35.3 1 3 33.3 3 8 37.5 3 4 7 3 2 1 3 2 -14
+p109
+aVDerek Strong ORL 04/16/1999 ORL @ ATL L 17 10 4 6 66.7 0 0 - 2 2 100.0 0 4 4 1 2 0 0 2 2
+p110
+aVHorace Grant ORL 04/16/1999 ORL @ ATL L 28 4 2 8 25.0 0 0 - 0 0 - 5 1 6 0 0 0 1 1 -21
+p111
+aVDarrell Armstrong ORL 04/16/1999 ORL @ ATL L 35 15 6 13 46.2 3 10 30.0 0 0 - 3 1 4 7 1 0 1 3 -15
+p112
+aVDominique Wilkins ORL 04/16/1999 ORL @ ATL L 6 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 1 0 0 0 0 3
+p113
+aVDan Schayes ORL 04/16/1999 ORL @ ATL L 16 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -3
+p114
+aVMatt Harpring ORL 04/16/1999 ORL @ ATL L 26 9 3 6 50.0 0 0 - 3 4 75.0 2 3 5 0 1 0 1 3 2
+p115
+aVAnfernee Hardaway ORL 04/14/1999 ORL @ IND L 45 25 10 21 47.6 3 6 50.0 2 4 50.0 1 8 9 7 3 1 3 4 3
+p116
+aVDerek Strong ORL 04/14/1999 ORL @ IND L 21 5 2 7 28.6 0 0 - 1 2 50.0 2 3 5 1 0 0 0 2 4
+p117
+aVNick Anderson ORL 04/14/1999 ORL @ IND L 26 16 6 14 42.9 2 6 33.3 2 4 50.0 2 3 5 0 2 0 2 3 5
+p118
+aVDarrell Armstrong ORL 04/14/1999 ORL @ IND L 33 7 3 5 60.0 1 2 50.0 0 0 - 0 4 4 5 3 0 3 4 -17
+p119
+aVB.J. Armstrong ORL 04/14/1999 ORL @ IND L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p120
+aVMatt Harpring ORL 04/14/1999 ORL @ IND L 23 8 2 7 28.6 0 1 0.0 4 6 66.7 1 3 4 1 0 1 1 4 -3
+p121
+aVHorace Grant ORL 04/14/1999 ORL @ IND L 39 7 3 11 27.3 0 0 - 1 2 50.0 6 4 10 2 0 2 3 2 -4
+p122
+aVMichael Doleac ORL 04/14/1999 ORL @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 7
+p123
+aVIke Austin ORL 04/14/1999 ORL @ IND L 29 7 3 6 50.0 1 1 100.0 0 0 - 0 3 3 0 0 0 2 3 -13
+p124
+aVBo Outlaw ORL 04/14/1999 ORL @ IND L 18 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 1 1 0 1 3 3
+p125
+aVHorace Grant ORL 04/09/1999 ORL vs. MIL W 28 4 2 7 28.6 0 0 - 0 0 - 2 2 4 0 1 1 1 0 1
+p126
+aVMatt Harpring ORL 04/09/1999 ORL vs. MIL W 35 13 4 11 36.4 0 0 - 5 6 83.3 2 2 4 1 2 0 4 1 3
+p127
+aVIke Austin ORL 04/09/1999 ORL vs. MIL W 18 6 3 7 42.9 0 0 - 0 1 0.0 3 0 3 0 0 3 1 2 -8
+p128
+aVB.J. Armstrong ORL 04/09/1999 ORL vs. MIL W 11 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 2 1 0 0 1 1
+p129
+aVNick Anderson ORL 04/09/1999 ORL vs. MIL W 22 7 2 8 25.0 1 6 16.7 2 2 100.0 1 3 4 3 0 0 2 1 15
+p130
+aVDerek Strong ORL 04/09/1999 ORL vs. MIL W 20 7 2 3 66.7 0 0 - 3 5 60.0 1 5 6 1 0 1 1 3 11
+p131
+aVDarrell Armstrong ORL 04/09/1999 ORL vs. MIL W 37 18 5 14 35.7 4 8 50.0 4 4 100.0 1 3 4 7 5 0 5 0 11
+p132
+aVAnfernee Hardaway ORL 04/09/1999 ORL vs. MIL W 40 26 9 15 60.0 3 5 60.0 5 6 83.3 2 7 9 5 2 1 3 3 8
+p133
+aVMichael Doleac ORL 04/09/1999 ORL vs. MIL W 28 11 5 10 50.0 0 0 - 1 1 100.0 3 4 7 0 1 0 1 4 18
+p134
+aVB.J. Armstrong ORL 04/08/1999 ORL @ CLE W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p135
+aVHorace Grant ORL 04/08/1999 ORL @ CLE W 28 5 2 7 28.6 0 0 - 1 2 50.0 1 2 3 2 0 1 0 3 13
+p136
+aVNick Anderson ORL 04/08/1999 ORL @ CLE W 23 5 2 7 28.6 1 4 25.0 0 4 0.0 0 10 10 2 2 1 0 1 7
+p137
+aVDerek Strong ORL 04/08/1999 ORL @ CLE W 20 4 2 4 50.0 0 0 - 0 2 0.0 2 1 3 1 0 0 2 2 -15
+p138
+aVIke Austin ORL 04/08/1999 ORL @ CLE W 25 8 3 10 30.0 0 0 - 2 4 50.0 3 0 3 1 0 2 1 3 12
+p139
+aVDominique Wilkins ORL 04/08/1999 ORL @ CLE W 5 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -8
+p140
+aVMichael Doleac ORL 04/08/1999 ORL @ CLE W 16 2 1 6 16.7 0 0 - 0 0 - 0 4 4 0 0 0 0 4 5
+p141
+aVAnfernee Hardaway ORL 04/08/1999 ORL @ CLE W 41 23 10 19 52.6 2 4 50.0 1 2 50.0 4 2 6 2 3 2 4 2 4
+p142
+aVDan Schayes ORL 04/08/1999 ORL @ CLE W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p143
+aVMatt Harpring ORL 04/08/1999 ORL @ CLE W 36 14 4 11 36.4 0 0 - 6 9 66.7 7 5 12 1 1 0 0 1 1
+p144
+aVDarrell Armstrong ORL 04/08/1999 ORL @ CLE W 39 6 2 12 16.7 0 5 0.0 2 2 100.0 4 8 12 7 5 0 6 5 7
+p145
+aVDarrell Armstrong ORL 04/06/1999 ORL @ NYK W 42 17 5 20 25.0 3 9 33.3 4 7 57.1 3 1 4 8 5 0 4 0 5
+p146
+aVB.J. Armstrong ORL 04/06/1999 ORL @ NYK W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 4
+p147
+aVHorace Grant ORL 04/06/1999 ORL @ NYK W 35 6 3 8 37.5 0 0 - 0 0 - 1 7 8 1 0 1 0 3 13
+p148
+aVDerek Strong ORL 04/06/1999 ORL @ NYK W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -4
+p149
+aVMichael Doleac ORL 04/06/1999 ORL @ NYK W 19 9 2 4 50.0 0 0 - 5 7 71.4 1 0 1 1 0 0 0 2 13
+p150
+aVMatt Harpring ORL 04/06/1999 ORL @ NYK W 26 6 3 7 42.9 0 0 - 0 0 - 1 3 4 0 1 2 1 3 1
+p151
+aVAnfernee Hardaway ORL 04/06/1999 ORL @ NYK W 46 30 12 21 57.1 0 2 0.0 6 9 66.7 3 7 10 8 3 0 4 1 11
+p152
+aVNick Anderson ORL 04/06/1999 ORL @ NYK W 26 3 1 11 9.1 1 5 20.0 0 0 - 2 4 6 1 2 0 1 0 6
+p153
+aVIke Austin ORL 04/06/1999 ORL @ NYK W 28 10 5 9 55.6 0 0 - 0 0 - 1 6 7 4 0 2 2 2 -4
+p154
+aVB.J. Armstrong ORL 04/05/1999 ORL vs. BOS W 13 6 2 6 33.3 0 1 0.0 2 3 66.7 0 1 1 0 2 0 1 0 -3
+p155
+aVAnfernee Hardaway ORL 04/05/1999 ORL vs. BOS W 42 24 9 14 64.3 0 1 0.0 6 7 85.7 1 6 7 7 3 0 4 1 14
+p156
+aVDerek Strong ORL 04/05/1999 ORL vs. BOS W 26 9 4 7 57.1 0 1 0.0 1 1 100.0 4 1 5 1 0 1 1 0 -1
+p157
+aVMichael Doleac ORL 04/05/1999 ORL vs. BOS W 21 8 3 6 50.0 0 0 - 2 5 40.0 2 4 6 4 1 1 0 3 12
+p158
+aVDarrell Armstrong ORL 04/05/1999 ORL vs. BOS W 35 28 8 12 66.7 4 7 57.1 8 8 100.0 1 1 2 4 1 0 6 3 8
+p159
+aVIke Austin ORL 04/05/1999 ORL vs. BOS W 19 6 3 7 42.9 0 0 - 0 0 - 3 2 5 3 0 1 3 4 1
+p160
+aVHorace Grant ORL 04/05/1999 ORL vs. BOS W 31 7 3 7 42.9 0 0 - 1 1 100.0 1 7 8 5 1 2 2 1 2
+p161
+aVDominique Wilkins ORL 04/05/1999 ORL vs. BOS W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p162
+aVMiles Simon ORL 04/05/1999 ORL vs. BOS W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p163
+aVMatt Harpring ORL 04/05/1999 ORL vs. BOS W 45 18 5 14 35.7 0 2 0.0 8 9 88.9 2 3 5 1 1 0 2 1 14
+p164
+aVDarrell Armstrong ORL 04/03/1999 ORL @ DET W 34 16 6 12 50.0 2 7 28.6 2 2 100.0 1 3 4 10 3 1 5 0 2
+p165
+aVIke Austin ORL 04/03/1999 ORL @ DET W 33 7 1 3 33.3 0 0 - 5 6 83.3 1 4 5 3 3 1 2 3 18
+p166
+aVMatt Harpring ORL 04/03/1999 ORL @ DET W 34 13 5 9 55.6 0 0 - 3 4 75.0 3 3 6 1 0 0 3 4 17
+p167
+aVMiles Simon ORL 04/03/1999 ORL @ DET W 2 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -4
+p168
+aVDominique Wilkins ORL 04/03/1999 ORL @ DET W 14 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 -2
+p169
+aVMichael Doleac ORL 04/03/1999 ORL @ DET W 15 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 2 1 0 1 2 -1
+p170
+aVHorace Grant ORL 04/03/1999 ORL @ DET W 28 10 4 10 40.0 0 0 - 2 4 50.0 1 5 6 0 1 0 0 0 9
+p171
+aVB.J. Armstrong ORL 04/03/1999 ORL @ DET W 16 5 1 2 50.0 0 1 0.0 3 3 100.0 0 2 2 4 1 0 1 2 10
+p172
+aVDerek Strong ORL 04/03/1999 ORL @ DET W 20 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 0 3 6
+p173
+aVAnfernee Hardaway ORL 04/03/1999 ORL @ DET W 43 30 11 17 64.7 3 6 50.0 5 7 71.4 0 3 3 3 5 0 4 0 20
+p174
+aVIke Austin ORL 04/02/1999 ORL @ CHI W 23 8 3 7 42.9 0 0 - 2 3 66.7 0 7 7 1 1 0 1 1 29
+p175
+aVDan Schayes ORL 04/02/1999 ORL @ CHI W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p176
+aVAnfernee Hardaway ORL 04/02/1999 ORL @ CHI W 30 24 8 15 53.3 1 5 20.0 7 8 87.5 1 4 5 8 3 1 4 2 34
+p177
+aVMiles Simon ORL 04/02/1999 ORL @ CHI W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p178
+aVB.J. Armstrong ORL 04/02/1999 ORL @ CHI W 24 9 4 6 66.7 1 3 33.3 0 0 - 0 7 7 6 1 0 3 2 22
+p179
+aVMatt Harpring ORL 04/02/1999 ORL @ CHI W 30 8 4 7 57.1 0 0 - 0 0 - 0 3 3 2 0 0 2 3 33
+p180
+aVDominique Wilkins ORL 04/02/1999 ORL @ CHI W 23 19 8 13 61.5 1 2 50.0 2 5 40.0 3 6 9 1 2 0 3 0 16
+p181
+aVDerek Strong ORL 04/02/1999 ORL @ CHI W 19 9 4 4 100.0 0 0 - 1 2 50.0 0 5 5 0 1 0 0 2 13
+p182
+aVDarrell Armstrong ORL 04/02/1999 ORL @ CHI W 27 15 5 5 100.0 1 1 100.0 4 4 100.0 1 3 4 8 3 0 2 1 31
+p183
+aVHorace Grant ORL 04/02/1999 ORL @ CHI W 29 8 2 5 40.0 0 1 0.0 4 4 100.0 3 3 6 4 3 0 0 2 34
+p184
+aVMichael Doleac ORL 04/02/1999 ORL @ CHI W 20 11 4 8 50.0 0 0 - 3 3 100.0 3 0 3 1 0 0 0 3 15
+p185
+aVDominique Wilkins ORL 03/31/1999 ORL @ WAS L 22 3 1 8 12.5 0 1 0.0 1 2 50.0 1 5 6 1 1 0 2 1 0
+p186
+aVHorace Grant ORL 03/31/1999 ORL @ WAS L 36 14 7 10 70.0 0 0 - 0 0 - 3 6 9 1 1 1 0 3 -10
+p187
+aVDan Schayes ORL 03/31/1999 ORL @ WAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 2
+p188
+aVDerek Strong ORL 03/31/1999 ORL @ WAS L 22 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 5 -12
+p189
+aVMichael Doleac ORL 03/31/1999 ORL @ WAS L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 3
+p190
+aVMatt Harpring ORL 03/31/1999 ORL @ WAS L 38 8 3 11 27.3 0 0 - 2 3 66.7 4 3 7 2 0 0 3 4 -11
+p191
+aVNick Anderson ORL 03/31/1999 ORL @ WAS L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 2 0 1 1 -2
+p192
+aVDarrell Armstrong ORL 03/31/1999 ORL @ WAS L 23 15 4 10 40.0 2 4 50.0 5 7 71.4 1 2 3 5 2 0 4 3 2
+p193
+aVAnfernee Hardaway ORL 03/31/1999 ORL @ WAS L 31 11 4 10 40.0 1 2 50.0 2 3 66.7 0 3 3 4 0 1 4 4 -15
+p194
+aVB.J. Armstrong ORL 03/31/1999 ORL @ WAS L 12 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 2 2 0 0 1 1
+p195
+aVIke Austin ORL 03/31/1999 ORL @ WAS L 18 10 3 11 27.3 0 0 - 4 6 66.7 1 5 6 1 0 0 3 3 -13
+p196
+aVIke Austin ORL 03/30/1999 ORL vs. NJN W 29 9 3 8 37.5 0 0 - 3 3 100.0 1 3 4 5 0 1 5 1 13
+p197
+aVAnfernee Hardaway ORL 03/30/1999 ORL vs. NJN W 39 16 8 14 57.1 0 2 0.0 0 0 - 3 8 11 5 2 0 1 4 2
+p198
+aVDominique Wilkins ORL 03/30/1999 ORL vs. NJN W 13 17 6 13 46.2 1 2 50.0 4 4 100.0 4 2 6 0 0 0 0 1 1
+p199
+aVNick Anderson ORL 03/30/1999 ORL vs. NJN W 40 28 10 20 50.0 2 7 28.6 6 8 75.0 0 10 10 1 2 0 3 2 12
+p200
+aVDan Schayes ORL 03/30/1999 ORL vs. NJN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p201
+aVMatt Harpring ORL 03/30/1999 ORL vs. NJN W 30 12 5 9 55.6 0 1 0.0 2 4 50.0 0 3 3 1 2 0 3 3 -8
+p202
+aVDerek Strong ORL 03/30/1999 ORL vs. NJN W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p203
+aVDarrell Armstrong ORL 03/30/1999 ORL vs. NJN W 31 3 1 7 14.3 0 3 0.0 1 1 100.0 1 4 5 8 0 1 4 3 -1
+p204
+aVMichael Doleac ORL 03/30/1999 ORL vs. NJN W 12 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 1 4 -8
+p205
+aVHorace Grant ORL 03/30/1999 ORL vs. NJN W 36 13 6 10 60.0 0 1 0.0 1 2 50.0 3 5 8 2 0 1 2 2 1
+p206
+aVDarrell Armstrong ORL 03/28/1999 ORL vs. MIA W 30 25 6 10 60.0 4 5 80.0 9 9 100.0 0 3 3 6 4 0 2 4 9
+p207
+aVDerek Strong ORL 03/28/1999 ORL vs. MIA W 15 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 14
+p208
+aVMichael Doleac ORL 03/28/1999 ORL vs. MIA W 17 10 5 8 62.5 0 0 - 0 2 0.0 1 3 4 0 0 0 0 4 5
+p209
+aVDominique Wilkins ORL 03/28/1999 ORL vs. MIA W 7 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 4
+p210
+aVHorace Grant ORL 03/28/1999 ORL vs. MIA W 33 4 2 5 40.0 0 0 - 0 0 - 2 5 7 1 1 0 1 3 -7
+p211
+aVAnfernee Hardaway ORL 03/28/1999 ORL vs. MIA W 40 17 6 13 46.2 2 4 50.0 3 4 75.0 3 1 4 5 4 0 6 1 4
+p212
+aVIke Austin ORL 03/28/1999 ORL vs. MIA W 31 12 5 12 41.7 0 0 - 2 4 50.0 1 3 4 3 2 1 3 2 2
+p213
+aVB.J. Armstrong ORL 03/28/1999 ORL vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p214
+aVNick Anderson ORL 03/28/1999 ORL vs. MIA W 31 6 1 3 33.3 1 2 50.0 3 6 50.0 1 5 6 3 3 0 1 3 2
+p215
+aVMatt Harpring ORL 03/28/1999 ORL vs. MIA W 37 15 4 9 44.4 1 1 100.0 6 11 54.5 0 3 3 0 1 0 2 3 3
+p216
+aVDan Schayes ORL 03/26/1999 ORL @ CHH L 22 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 1 3 10
+p217
+aVDominique Wilkins ORL 03/26/1999 ORL @ CHH L 12 2 1 5 20.0 0 0 - 0 0 - 3 2 5 1 0 0 3 2 6
+p218
+aVMatt Harpring ORL 03/26/1999 ORL @ CHH L 28 16 3 7 42.9 0 0 - 10 10 100.0 1 0 1 1 2 0 1 2 -16
+p219
+aVMichael Doleac ORL 03/26/1999 ORL @ CHH L 10 4 1 3 33.3 0 0 - 2 2 100.0 3 2 5 0 0 0 0 1 -3
+p220
+aVIke Austin ORL 03/26/1999 ORL @ CHH L 17 6 3 9 33.3 0 0 - 0 0 - 1 2 3 1 1 0 1 3 -15
+p221
+aVAnfernee Hardaway ORL 03/26/1999 ORL @ CHH L 34 8 3 11 27.3 1 4 25.0 1 2 50.0 2 3 5 3 1 0 5 3 -11
+p222
+aVNick Anderson ORL 03/26/1999 ORL @ CHH L 36 17 7 16 43.8 0 3 0.0 3 5 60.0 1 9 10 1 0 0 2 3 -10
+p223
+aVDerek Strong ORL 03/26/1999 ORL @ CHH L 29 12 4 9 44.4 0 0 - 4 4 100.0 4 4 8 1 0 0 2 0 10
+p224
+aVB.J. Armstrong ORL 03/26/1999 ORL @ CHH L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p225
+aVDarrell Armstrong ORL 03/26/1999 ORL @ CHH L 29 11 5 14 35.7 0 3 0.0 1 1 100.0 0 3 3 3 2 0 2 2 4
+p226
+aVHorace Grant ORL 03/26/1999 ORL @ CHH L 17 0 0 2 0.0 0 0 - 0 0 - 4 1 5 1 0 1 0 0 -18
+p227
+aVIke Austin ORL 03/25/1999 ORL vs. CLE W 27 7 3 5 60.0 0 0 - 1 4 25.0 3 2 5 2 1 1 4 3 -6
+p228
+aVMatt Harpring ORL 03/25/1999 ORL vs. CLE W 36 12 6 11 54.5 0 1 0.0 0 0 - 3 4 7 2 1 0 3 3 11
+p229
+aVNick Anderson ORL 03/25/1999 ORL vs. CLE W 38 13 5 18 27.8 3 5 60.0 0 0 - 1 4 5 5 1 0 1 3 -6
+p230
+aVMichael Doleac ORL 03/25/1999 ORL vs. CLE W 18 9 4 7 57.1 0 0 - 1 4 25.0 1 2 3 0 1 1 1 3 16
+p231
+aVDerek Strong ORL 03/25/1999 ORL vs. CLE W 12 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 0 -8
+p232
+aVHorace Grant ORL 03/25/1999 ORL vs. CLE W 36 16 8 15 53.3 0 0 - 0 0 - 6 7 13 1 0 3 2 3 18
+p233
+aVAnfernee Hardaway ORL 03/25/1999 ORL vs. CLE W 38 14 2 9 22.2 1 3 33.3 9 9 100.0 0 3 3 7 2 0 1 2 11
+p234
+aVB.J. Armstrong ORL 03/25/1999 ORL vs. CLE W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p235
+aVDarrell Armstrong ORL 03/25/1999 ORL vs. CLE W 33 25 10 15 66.7 2 4 50.0 3 4 75.0 0 6 6 7 3 0 2 3 16
+p236
+aVDominique Wilkins ORL 03/23/1999 ORL vs. CHH W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -9
+p237
+aVDerek Strong ORL 03/23/1999 ORL vs. CHH W 15 3 0 2 0.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 2 -1
+p238
+aVHorace Grant ORL 03/23/1999 ORL vs. CHH W 34 10 5 13 38.5 0 0 - 0 0 - 3 5 8 2 3 5 1 1 9
+p239
+aVAnfernee Hardaway ORL 03/23/1999 ORL vs. CHH W 41 13 5 11 45.5 1 3 33.3 2 5 40.0 2 8 10 4 1 1 4 1 1
+p240
+aVDarrell Armstrong ORL 03/23/1999 ORL vs. CHH W 28 28 8 14 57.1 1 3 33.3 11 11 100.0 1 1 2 3 2 0 5 0 14
+p241
+aVMatt Harpring ORL 03/23/1999 ORL vs. CHH W 29 16 7 13 53.8 0 0 - 2 4 50.0 5 4 9 4 0 0 3 3 2
+p242
+aVNick Anderson ORL 03/23/1999 ORL vs. CHH W 40 4 2 12 16.7 0 5 0.0 0 0 - 0 8 8 2 3 2 1 0 16
+p243
+aVMichael Doleac ORL 03/23/1999 ORL vs. CHH W 23 9 3 9 33.3 0 0 - 3 4 75.0 2 3 5 1 0 0 0 5 4
+p244
+aVIke Austin ORL 03/23/1999 ORL vs. CHH W 25 3 1 9 11.1 0 0 - 1 4 25.0 4 1 5 3 2 3 2 3 4
+p245
+aVDarrell Armstrong ORL 03/21/1999 ORL vs. LAL L 33 17 5 10 50.0 3 4 75.0 4 4 100.0 0 2 2 11 1 0 2 2 4
+p246
+aVAnfernee Hardaway ORL 03/21/1999 ORL vs. LAL L 44 22 9 14 64.3 0 2 0.0 4 4 100.0 2 3 5 13 1 0 2 3 -7
+p247
+aVMatt Harpring ORL 03/21/1999 ORL vs. LAL L 28 2 1 5 20.0 0 0 - 0 0 - 4 4 8 2 3 0 0 3 -12
+p248
+aVNick Anderson ORL 03/21/1999 ORL vs. LAL L 38 5 2 14 14.3 1 5 20.0 0 0 - 0 1 1 0 2 1 2 4 -14
+p249
+aVMichael Doleac ORL 03/21/1999 ORL vs. LAL L 32 25 11 19 57.9 0 0 - 3 4 75.0 2 2 4 0 2 0 1 2 2
+p250
+aVHorace Grant ORL 03/21/1999 ORL vs. LAL L 29 12 5 8 62.5 0 0 - 2 4 50.0 0 7 7 1 0 1 3 0 -24
+p251
+aVIke Austin ORL 03/21/1999 ORL vs. LAL L 16 10 4 8 50.0 0 0 - 2 4 50.0 0 1 1 2 0 0 1 5 -13
+p252
+aVDerek Strong ORL 03/21/1999 ORL vs. LAL L 19 11 5 8 62.5 0 0 - 1 2 50.0 4 2 6 2 0 1 1 3 13
+p253
+aVB.J. Armstrong ORL 03/21/1999 ORL vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p254
+aVIke Austin ORL 03/18/1999 ORL @ NYK W 25 13 5 12 41.7 0 0 - 3 4 75.0 2 1 3 2 2 0 2 0 -7
+p255
+aVMatt Harpring ORL 03/18/1999 ORL @ NYK W 30 8 1 2 50.0 0 1 0.0 6 8 75.0 1 4 5 2 0 0 2 1 6
+p256
+aVDarrell Armstrong ORL 03/18/1999 ORL @ NYK W 35 18 7 17 41.2 1 5 20.0 3 3 100.0 1 4 5 10 1 0 2 0 15
+p257
+aVB.J. Armstrong ORL 03/18/1999 ORL @ NYK W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p258
+aVDominique Wilkins ORL 03/18/1999 ORL @ NYK W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 3
+p259
+aVAnfernee Hardaway ORL 03/18/1999 ORL @ NYK W 41 19 8 15 53.3 2 3 66.7 1 2 50.0 0 3 3 2 2 0 3 3 10
+p260
+aVNick Anderson ORL 03/18/1999 ORL @ NYK W 12 2 0 4 0.0 0 2 0.0 2 4 50.0 0 1 1 1 0 0 0 0 -4
+p261
+aVMichael Doleac ORL 03/18/1999 ORL @ NYK W 23 16 5 6 83.3 0 0 - 6 6 100.0 1 7 8 0 0 1 1 4 15
+p262
+aVHorace Grant ORL 03/18/1999 ORL @ NYK W 38 4 1 7 14.3 0 0 - 2 2 100.0 2 5 7 1 0 0 2 2 2
+p263
+aVDerek Strong ORL 03/18/1999 ORL @ NYK W 21 4 2 4 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 2 1
+p264
+aVDerek Strong ORL 03/17/1999 ORL vs. CHI W 17 12 4 6 66.7 0 0 - 4 5 80.0 3 1 4 0 0 0 0 1 4
+p265
+aVMatt Harpring ORL 03/17/1999 ORL vs. CHI W 24 5 2 5 40.0 0 1 0.0 1 2 50.0 1 3 4 1 0 0 1 5 -12
+p266
+aVB.J. Armstrong ORL 03/17/1999 ORL vs. CHI W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -12
+p267
+aVIke Austin ORL 03/17/1999 ORL vs. CHI W 26 12 4 10 40.0 0 0 - 4 4 100.0 5 4 9 3 3 2 2 0 1
+p268
+aVDarrell Armstrong ORL 03/17/1999 ORL vs. CHI W 34 23 8 14 57.1 2 4 50.0 5 5 100.0 2 3 5 7 2 0 3 1 23
+p269
+aVHorace Grant ORL 03/17/1999 ORL vs. CHI W 31 4 2 5 40.0 0 0 - 0 0 - 1 3 4 2 0 1 1 3 5
+p270
+aVAnfernee Hardaway ORL 03/17/1999 ORL vs. CHI W 41 14 7 17 41.2 0 2 0.0 0 0 - 1 6 7 7 5 0 4 3 18
+p271
+aVNick Anderson ORL 03/17/1999 ORL vs. CHI W 40 21 6 17 35.3 1 7 14.3 8 10 80.0 4 5 9 0 2 1 4 1 10
+p272
+aVMichael Doleac ORL 03/17/1999 ORL vs. CHI W 22 10 5 5 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 8
+p273
+aVDominique Wilkins ORL 03/15/1999 ORL vs. PHI W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p274
+aVMatt Harpring ORL 03/15/1999 ORL vs. PHI W 26 4 1 5 20.0 0 1 0.0 2 2 100.0 3 3 6 1 2 0 0 1 -5
+p275
+aVIke Austin ORL 03/15/1999 ORL vs. PHI W 22 9 4 15 26.7 0 0 - 1 2 50.0 4 2 6 0 3 0 1 4 -10
+p276
+aVDerek Strong ORL 03/15/1999 ORL vs. PHI W 21 7 2 9 22.2 0 0 - 3 3 100.0 3 2 5 1 1 0 1 2 15
+p277
+aVMichael Doleac ORL 03/15/1999 ORL vs. PHI W 19 10 3 5 60.0 0 0 - 4 4 100.0 2 2 4 0 0 1 0 1 5
+p278
+aVAnfernee Hardaway ORL 03/15/1999 ORL vs. PHI W 40 11 4 11 36.4 3 4 75.0 0 0 - 2 4 6 2 2 1 4 4 2
+p279
+aVDarrell Armstrong ORL 03/15/1999 ORL vs. PHI W 36 14 5 17 29.4 1 5 20.0 3 3 100.0 1 2 3 6 4 0 3 2 16
+p280
+aVNick Anderson ORL 03/15/1999 ORL vs. PHI W 37 15 5 17 29.4 2 10 20.0 3 6 50.0 2 6 8 2 0 0 3 2 -10
+p281
+aVHorace Grant ORL 03/15/1999 ORL vs. PHI W 33 4 2 10 20.0 0 0 - 0 2 0.0 5 5 10 1 2 2 1 0 -10
+p282
+aVDominique Wilkins ORL 03/13/1999 ORL @ GSW W 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -2
+p283
+aVDarrell Armstrong ORL 03/13/1999 ORL @ GSW W 35 16 5 6 83.3 0 0 - 6 7 85.7 1 5 6 6 3 0 4 1 19
+p284
+aVHorace Grant ORL 03/13/1999 ORL @ GSW W 32 12 4 11 36.4 0 0 - 4 4 100.0 3 2 5 3 0 1 0 2 -4
+p285
+aVNick Anderson ORL 03/13/1999 ORL @ GSW W 38 9 3 16 18.8 2 7 28.6 1 2 50.0 1 6 7 4 2 0 1 0 9
+p286
+aVDerek Strong ORL 03/13/1999 ORL @ GSW W 20 8 3 9 33.3 0 0 - 2 2 100.0 2 3 5 1 1 1 2 1 13
+p287
+aVIke Austin ORL 03/13/1999 ORL @ GSW W 25 12 4 12 33.3 0 0 - 4 10 40.0 1 4 5 0 1 2 0 4 -2
+p288
+aVMatt Harpring ORL 03/13/1999 ORL @ GSW W 28 14 5 10 50.0 3 4 75.0 1 2 50.0 1 4 5 0 0 1 0 1 5
+p289
+aVAnfernee Hardaway ORL 03/13/1999 ORL @ GSW W 39 10 4 13 30.8 0 3 0.0 2 4 50.0 1 9 10 4 0 0 1 2 8
+p290
+aVMichael Doleac ORL 03/13/1999 ORL @ GSW W 19 6 3 6 50.0 0 0 - 0 0 - 4 1 5 1 0 0 0 2 19
+p291
+aVBo Outlaw ORL 03/11/1999 ORL @ DAL L 15 0 0 1 0.0 0 0 - 0 0 - 1 1 2 3 0 0 0 0 -3
+p292
+aVMichael Doleac ORL 03/11/1999 ORL @ DAL L 20 3 1 5 20.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 -1
+p293
+aVDerek Strong ORL 03/11/1999 ORL @ DAL L 21 13 4 8 50.0 0 1 0.0 5 7 71.4 2 3 5 0 1 0 0 2 -10
+p294
+aVMatt Harpring ORL 03/11/1999 ORL @ DAL L 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -8
+p295
+aVAnfernee Hardaway ORL 03/11/1999 ORL @ DAL L 37 7 3 9 33.3 1 2 50.0 0 0 - 1 1 2 2 1 0 3 2 -16
+p296
+aVJonathan Kerner ORL 03/11/1999 ORL @ DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p297
+aVDarrell Armstrong ORL 03/11/1999 ORL @ DAL L 28 2 1 6 16.7 0 2 0.0 0 0 - 1 4 5 5 2 0 4 2 -12
+p298
+aVDominique Wilkins ORL 03/11/1999 ORL @ DAL L 11 12 5 8 62.5 0 0 - 2 2 100.0 1 2 3 1 0 0 2 0 3
+p299
+aVHorace Grant ORL 03/11/1999 ORL @ DAL L 24 6 3 10 30.0 0 0 - 0 0 - 3 4 7 0 0 0 0 1 -11
+p300
+aVIke Austin ORL 03/11/1999 ORL @ DAL L 26 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 2 1 0 1 3 -14
+p301
+aVKevin Ollie ORL 03/11/1999 ORL @ DAL L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 2
+p302
+aVNick Anderson ORL 03/11/1999 ORL @ DAL L 34 18 8 20 40.0 1 5 20.0 1 2 50.0 0 5 5 1 2 0 4 1 -17
+p303
+aVDarrell Armstrong ORL 03/10/1999 ORL @ SAS L 20 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 3 0 0 0 0 -8
+p304
+aVHorace Grant ORL 03/10/1999 ORL @ SAS L 36 2 1 4 25.0 0 0 - 0 0 - 2 3 5 3 1 0 0 2 2
+p305
+aVAnfernee Hardaway ORL 03/10/1999 ORL @ SAS L 42 22 8 15 53.3 1 2 50.0 5 7 71.4 2 5 7 7 5 2 3 2 0
+p306
+aVIke Austin ORL 03/10/1999 ORL @ SAS L 29 14 7 13 53.8 0 0 - 0 0 - 0 2 2 1 1 1 4 6 1
+p307
+aVMatt Harpring ORL 03/10/1999 ORL @ SAS L 20 7 3 5 60.0 0 0 - 1 1 100.0 1 3 4 0 0 0 4 1 -11
+p308
+aVDominique Wilkins ORL 03/10/1999 ORL @ SAS L 19 5 2 5 40.0 1 1 100.0 0 0 - 0 5 5 1 0 0 0 0 10
+p309
+aVMichael Doleac ORL 03/10/1999 ORL @ SAS L 16 4 2 6 33.3 0 0 - 0 0 - 0 4 4 1 0 0 1 1 -5
+p310
+aVDerek Strong ORL 03/10/1999 ORL @ SAS L 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 1 4 -2
+p311
+aVNick Anderson ORL 03/10/1999 ORL @ SAS L 43 17 6 21 28.6 2 8 25.0 3 4 75.0 0 3 3 2 3 0 1 1 3
+p312
+aVMichael Doleac ORL 03/08/1999 ORL vs. ATL L 15 11 5 6 83.3 0 0 - 1 1 100.0 3 2 5 0 0 0 1 6 7
+p313
+aVMatt Harpring ORL 03/08/1999 ORL vs. ATL L 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p314
+aVIke Austin ORL 03/08/1999 ORL vs. ATL L 33 11 5 15 33.3 0 0 - 1 2 50.0 3 3 6 2 1 0 2 5 -11
+p315
+aVDominique Wilkins ORL 03/08/1999 ORL vs. ATL L 23 15 7 10 70.0 1 1 100.0 0 0 - 0 0 0 4 0 0 2 2 -7
+p316
+aVDerek Strong ORL 03/08/1999 ORL vs. ATL L 6 4 2 5 40.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 0 -3
+p317
+aVHorace Grant ORL 03/08/1999 ORL vs. ATL L 40 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 0 2 5 1 2 -4
+p318
+aVAnfernee Hardaway ORL 03/08/1999 ORL vs. ATL L 44 16 7 13 53.8 1 3 33.3 1 1 100.0 1 2 3 6 0 0 1 2 -1
+p319
+aVDarrell Armstrong ORL 03/08/1999 ORL vs. ATL L 29 14 5 11 45.5 2 3 66.7 2 2 100.0 0 4 4 9 1 0 4 4 7
+p320
+aVNick Anderson ORL 03/08/1999 ORL vs. ATL L 43 34 11 17 64.7 5 8 62.5 7 9 77.8 1 9 10 5 0 1 5 0 -3
+p321
+aVIke Austin ORL 03/06/1999 ORL vs. DET W 35 23 9 16 56.3 0 0 - 5 7 71.4 0 9 9 0 0 0 5 3 2
+p322
+aVNick Anderson ORL 03/06/1999 ORL vs. DET W 37 8 3 14 21.4 2 5 40.0 0 2 0.0 2 3 5 3 1 0 4 2 14
+p323
+aVBo Outlaw ORL 03/06/1999 ORL vs. DET W 32 14 6 9 66.7 0 0 - 2 5 40.0 2 4 6 4 1 3 0 2 12
+p324
+aVDarrell Armstrong ORL 03/06/1999 ORL vs. DET W 25 11 3 8 37.5 2 4 50.0 3 3 100.0 0 2 2 5 1 0 2 3 -9
+p325
+aVDominique Wilkins ORL 03/06/1999 ORL vs. DET W 7 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 -2
+p326
+aVMichael Doleac ORL 03/06/1999 ORL vs. DET W 11 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 2 5 2
+p327
+aVDerek Strong ORL 03/06/1999 ORL vs. DET W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 0
+p328
+aVAnfernee Hardaway ORL 03/06/1999 ORL vs. DET W 40 12 5 11 45.5 0 2 0.0 2 2 100.0 0 5 5 6 3 0 3 2 4
+p329
+aVMatt Harpring ORL 03/06/1999 ORL vs. DET W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p330
+aVHorace Grant ORL 03/06/1999 ORL vs. DET W 41 11 5 7 71.4 0 0 - 1 2 50.0 1 10 11 2 1 2 1 0 5
+p331
+aVDarrell Armstrong ORL 03/05/1999 ORL @ TOR W 29 19 5 14 35.7 2 7 28.6 7 7 100.0 2 4 6 7 3 0 2 2 2
+p332
+aVMatt Harpring ORL 03/05/1999 ORL @ TOR W 19 10 4 8 50.0 0 2 0.0 2 2 100.0 1 3 4 1 1 0 1 0 2
+p333
+aVBo Outlaw ORL 03/05/1999 ORL @ TOR W 34 10 4 5 80.0 0 0 - 2 7 28.6 4 4 8 1 0 3 2 4 -4
+p334
+aVDerek Strong ORL 03/05/1999 ORL @ TOR W 11 6 1 4 25.0 0 0 - 4 4 100.0 2 1 3 0 0 0 0 1 3
+p335
+aVNick Anderson ORL 03/05/1999 ORL @ TOR W 40 15 4 9 44.4 2 4 50.0 5 8 62.5 2 4 6 4 1 1 3 2 3
+p336
+aVHorace Grant ORL 03/05/1999 ORL @ TOR W 32 8 4 11 36.4 0 0 - 0 0 - 0 3 3 3 0 0 2 2 6
+p337
+aVIke Austin ORL 03/05/1999 ORL @ TOR W 34 8 2 9 22.2 0 0 - 4 6 66.7 1 7 8 1 0 0 4 1 2
+p338
+aVAnfernee Hardaway ORL 03/05/1999 ORL @ TOR W 40 13 6 9 66.7 1 1 100.0 0 0 - 0 5 5 5 3 1 5 1 11
+p339
+aVDominique Wilkins ORL 03/03/1999 ORL vs. CHH W 2 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -5
+p340
+aVAnfernee Hardaway ORL 03/03/1999 ORL vs. CHH W 31 2 1 10 10.0 0 1 0.0 0 2 0.0 1 2 3 9 1 1 0 2 16
+p341
+aVMiles Simon ORL 03/03/1999 ORL vs. CHH W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p342
+aVBo Outlaw ORL 03/03/1999 ORL vs. CHH W 33 9 4 6 66.7 0 0 - 1 1 100.0 1 5 6 1 1 2 1 2 25
+p343
+aVMatt Harpring ORL 03/03/1999 ORL vs. CHH W 19 5 2 4 50.0 1 1 100.0 0 1 0.0 3 3 6 0 0 0 1 1 -5
+p344
+aVNick Anderson ORL 03/03/1999 ORL vs. CHH W 33 25 8 13 61.5 6 10 60.0 3 4 75.0 1 4 5 1 3 0 2 1 25
+p345
+aVIke Austin ORL 03/03/1999 ORL vs. CHH W 33 20 8 13 61.5 0 1 0.0 4 6 66.7 0 8 8 6 0 1 1 1 37
+p346
+aVDarrell Armstrong ORL 03/03/1999 ORL vs. CHH W 24 10 5 12 41.7 0 2 0.0 0 0 - 1 0 1 8 4 0 3 1 0
+p347
+aVDerek Strong ORL 03/03/1999 ORL vs. CHH W 23 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 3
+p348
+aVMichael Doleac ORL 03/03/1999 ORL vs. CHH W 15 4 1 4 25.0 0 0 - 2 4 50.0 2 2 4 0 0 0 0 4 -20
+p349
+aVHorace Grant ORL 03/03/1999 ORL vs. CHH W 25 10 4 9 44.4 0 0 - 2 2 100.0 3 2 5 3 1 1 0 2 14
+p350
+aVAnfernee Hardaway ORL 03/01/1999 ORL vs. ATL W 42 19 5 14 35.7 0 1 0.0 9 12 75.0 2 8 10 9 2 1 4 2 7
+p351
+aVBo Outlaw ORL 03/01/1999 ORL vs. ATL W 24 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 1 2 0 1 6 -6
+p352
+aVMatt Harpring ORL 03/01/1999 ORL vs. ATL W 17 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -1
+p353
+aVNick Anderson ORL 03/01/1999 ORL vs. ATL W 37 15 7 16 43.8 1 7 14.3 0 1 0.0 1 6 7 1 0 0 3 2 -3
+p354
+aVHorace Grant ORL 03/01/1999 ORL vs. ATL W 38 4 2 7 28.6 0 0 - 0 0 - 3 6 9 0 0 1 0 2 10
+p355
+aVDominique Wilkins ORL 03/01/1999 ORL vs. ATL W 8 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 0 0 1 0 0 5
+p356
+aVIke Austin ORL 03/01/1999 ORL vs. ATL W 31 11 4 14 28.6 0 0 - 3 4 75.0 3 3 6 1 4 0 3 3 5
+p357
+aVDerek Strong ORL 03/01/1999 ORL vs. ATL W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -7
+p358
+aVDarrell Armstrong ORL 03/01/1999 ORL vs. ATL W 20 5 2 10 20.0 1 6 16.7 0 2 0.0 0 2 2 3 1 0 3 3 7
+p359
+aVMichael Doleac ORL 03/01/1999 ORL vs. ATL W 13 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -2
+p360
+aVMichael Doleac ORL 02/28/1999 ORL @ MIA L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p361
+aVDan Schayes ORL 02/28/1999 ORL @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p362
+aVDerek Strong ORL 02/28/1999 ORL @ MIA L 10 0 0 3 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 1 2
+p363
+aVHorace Grant ORL 02/28/1999 ORL @ MIA L 42 8 4 11 36.4 0 0 - 0 0 - 0 4 4 3 4 0 2 4 -8
+p364
+aVDarrell Armstrong ORL 02/28/1999 ORL @ MIA L 24 8 1 6 16.7 1 1 100.0 5 5 100.0 1 1 2 2 2 0 2 5 -20
+p365
+aVMatt Harpring ORL 02/28/1999 ORL @ MIA L 11 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -13
+p366
+aVAnfernee Hardaway ORL 02/28/1999 ORL @ MIA L 41 10 3 14 21.4 1 4 25.0 3 4 75.0 0 7 7 6 1 0 3 2 -2
+p367
+aVIke Austin ORL 02/28/1999 ORL @ MIA L 30 13 6 10 60.0 0 0 - 1 2 50.0 3 3 6 4 1 1 6 4 4
+p368
+aVBo Outlaw ORL 02/28/1999 ORL @ MIA L 35 12 6 8 75.0 0 1 0.0 0 3 0.0 3 8 11 4 1 0 3 4 5
+p369
+aVNick Anderson ORL 02/28/1999 ORL @ MIA L 37 25 9 15 60.0 6 11 54.5 1 1 100.0 2 3 5 2 2 1 4 0 5
+p370
+aVDan Schayes ORL 02/26/1999 ORL vs. IND W 2 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p371
+aVDarrell Armstrong ORL 02/26/1999 ORL vs. IND W 25 14 4 5 80.0 3 3 100.0 3 3 100.0 0 1 1 6 1 0 3 2 -1
+p372
+aVHorace Grant ORL 02/26/1999 ORL vs. IND W 44 12 5 11 45.5 0 0 - 2 2 100.0 1 7 8 2 0 2 1 4 14
+p373
+aVDerek Strong ORL 02/26/1999 ORL vs. IND W 9 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 2 2 -11
+p374
+aVAnfernee Hardaway ORL 02/26/1999 ORL vs. IND W 47 23 9 24 37.5 0 4 0.0 5 9 55.6 5 8 13 5 3 2 1 1 11
+p375
+aVMichael Doleac ORL 02/26/1999 ORL vs. IND W 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -9
+p376
+aVBo Outlaw ORL 02/26/1999 ORL vs. IND W 24 4 2 6 33.3 0 0 - 0 0 - 3 4 7 1 0 0 2 3 -7
+p377
+aVIke Austin ORL 02/26/1999 ORL vs. IND W 39 12 3 10 30.0 0 0 - 6 7 85.7 5 5 10 2 2 0 1 4 14
+p378
+aVMatt Harpring ORL 02/26/1999 ORL vs. IND W 24 13 5 6 83.3 1 1 100.0 2 2 100.0 3 2 5 0 1 0 2 3 7
+p379
+aVNick Anderson ORL 02/26/1999 ORL vs. IND W 39 21 8 26 30.8 1 6 16.7 4 6 66.7 2 3 5 0 2 0 0 1 -4
+p380
+aVIke Austin ORL 02/24/1999 ORL @ BOS L 19 13 4 8 50.0 0 0 - 5 9 55.6 2 3 5 1 1 2 2 2 -27
+p381
+aVAnfernee Hardaway ORL 02/24/1999 ORL @ BOS L 26 0 0 7 0.0 0 1 0.0 0 0 - 0 2 2 5 1 0 3 2 -30
+p382
+aVDoug Overton ORL 02/24/1999 ORL @ BOS L 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p383
+aVNick Anderson ORL 02/24/1999 ORL @ BOS L 29 6 3 13 23.1 0 4 0.0 0 0 - 0 4 4 1 1 2 0 1 -20
+p384
+aVHorace Grant ORL 02/24/1999 ORL @ BOS L 29 12 5 11 45.5 0 0 - 2 2 100.0 4 7 11 2 0 0 1 2 -25
+p385
+aVMatt Harpring ORL 02/24/1999 ORL @ BOS L 24 9 3 9 33.3 0 1 0.0 3 3 100.0 3 5 8 0 3 0 1 2 -9
+p386
+aVDominique Wilkins ORL 02/24/1999 ORL @ BOS L 19 9 2 11 18.2 0 3 0.0 5 6 83.3 5 3 8 1 0 0 3 1 -7
+p387
+aVBo Outlaw ORL 02/24/1999 ORL @ BOS L 24 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 1 6 2 -23
+p388
+aVDarrell Armstrong ORL 02/24/1999 ORL @ BOS L 17 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 4 4 0 2 2 -8
+p389
+aVMichael Doleac ORL 02/24/1999 ORL @ BOS L 21 11 5 9 55.6 0 0 - 1 2 50.0 2 1 3 1 0 1 0 2 -3
+p390
+aVDerek Strong ORL 02/24/1999 ORL @ BOS L 19 6 1 1 100.0 0 0 - 4 8 50.0 2 1 3 0 0 0 1 0 -5
+p391
+aVNick Anderson ORL 02/22/1999 ORL vs. SAC W 38 30 12 18 66.7 6 7 85.7 0 0 - 1 3 4 3 2 1 1 0 20
+p392
+aVHorace Grant ORL 02/22/1999 ORL vs. SAC W 40 16 7 14 50.0 0 0 - 2 2 100.0 4 10 14 0 4 0 3 2 9
+p393
+aVBo Outlaw ORL 02/22/1999 ORL vs. SAC W 30 4 2 5 40.0 0 0 - 0 2 0.0 2 3 5 2 1 2 2 3 1
+p394
+aVDerek Strong ORL 02/22/1999 ORL vs. SAC W 19 9 2 7 28.6 0 0 - 5 6 83.3 1 5 6 0 0 0 1 1 12
+p395
+aVMichael Doleac ORL 02/22/1999 ORL vs. SAC W 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p396
+aVIke Austin ORL 02/22/1999 ORL vs. SAC W 20 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 4 1 0 3 2 0
+p397
+aVDarrell Armstrong ORL 02/22/1999 ORL vs. SAC W 31 13 4 10 40.0 2 3 66.7 3 3 100.0 1 1 2 11 6 0 2 3 10
+p398
+aVAnfernee Hardaway ORL 02/22/1999 ORL vs. SAC W 38 23 11 21 52.4 0 2 0.0 1 2 50.0 1 2 3 8 1 0 4 0 5
+p399
+aVMatt Harpring ORL 02/22/1999 ORL vs. SAC W 16 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 1 0 1 2 4
+p400
+aVBo Outlaw ORL 02/21/1999 ORL vs. HOU W 31 13 6 7 85.7 0 0 - 1 3 33.3 2 4 6 1 2 1 1 0 19
+p401
+aVNick Anderson ORL 02/21/1999 ORL vs. HOU W 31 19 8 17 47.1 2 7 28.6 1 3 33.3 1 4 5 0 3 0 1 1 15
+p402
+aVAnfernee Hardaway ORL 02/21/1999 ORL vs. HOU W 32 16 7 13 53.8 0 0 - 2 3 66.7 2 2 4 11 4 0 3 2 24
+p403
+aVDerek Strong ORL 02/21/1999 ORL vs. HOU W 19 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 2 5
+p404
+aVMatt Harpring ORL 02/21/1999 ORL vs. HOU W 17 8 4 6 66.7 0 1 0.0 0 2 0.0 3 3 6 2 0 0 2 4 7
+p405
+aVHorace Grant ORL 02/21/1999 ORL vs. HOU W 29 4 2 6 33.3 0 0 - 0 0 - 1 6 7 2 2 1 0 2 21
+p406
+aVIke Austin ORL 02/21/1999 ORL vs. HOU W 25 11 5 7 71.4 0 0 - 1 1 100.0 0 2 2 3 0 0 2 0 12
+p407
+aVDominique Wilkins ORL 02/21/1999 ORL vs. HOU W 4 9 4 5 80.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 0 3
+p408
+aVDarrell Armstrong ORL 02/21/1999 ORL vs. HOU W 25 19 6 13 46.2 1 2 50.0 6 6 100.0 1 2 3 8 4 0 2 0 3
+p409
+aVDoug Overton ORL 02/21/1999 ORL vs. HOU W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 5
+p410
+aVMichael Doleac ORL 02/21/1999 ORL vs. HOU W 23 6 3 7 42.9 0 0 - 0 0 - 1 2 3 2 2 0 1 2 16
+p411
+aVDarrell Armstrong ORL 02/19/1999 ORL @ ATL W 32 15 6 15 40.0 1 4 25.0 2 2 100.0 1 3 4 11 0 0 3 1 18
+p412
+aVAnfernee Hardaway ORL 02/19/1999 ORL @ ATL W 42 15 7 12 58.3 0 2 0.0 1 2 50.0 0 4 4 4 3 2 1 2 -6
+p413
+aVIke Austin ORL 02/19/1999 ORL @ ATL W 29 14 7 12 58.3 0 0 - 0 0 - 2 5 7 4 0 1 4 4 -15
+p414
+aVMichael Doleac ORL 02/19/1999 ORL @ ATL W 18 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 3 13
+p415
+aVDerek Strong ORL 02/19/1999 ORL @ ATL W 15 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 5
+p416
+aVBo Outlaw ORL 02/19/1999 ORL @ ATL W 42 8 4 8 50.0 0 0 - 0 0 - 4 5 9 4 3 0 2 3 2
+p417
+aVHorace Grant ORL 02/19/1999 ORL @ ATL W 38 11 4 10 40.0 0 0 - 3 4 75.0 1 5 6 3 1 1 0 3 0
+p418
+aVNick Anderson ORL 02/19/1999 ORL @ ATL W 44 22 8 15 53.3 4 8 50.0 2 3 66.7 0 3 3 1 1 1 2 2 6
+p419
+aVMatt Harpring ORL 02/19/1999 ORL @ ATL W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 3 2
+p420
+aVDerek Strong ORL 02/17/1999 ORL vs. WAS W 18 6 2 5 40.0 0 0 - 2 3 66.7 3 2 5 0 0 0 3 0 8
+p421
+aVDarrell Armstrong ORL 02/17/1999 ORL vs. WAS W 22 14 5 10 50.0 0 1 0.0 4 4 100.0 1 3 4 8 1 0 5 1 3
+p422
+aVMichael Doleac ORL 02/17/1999 ORL vs. WAS W 30 16 7 10 70.0 0 0 - 2 3 66.7 6 2 8 1 2 0 0 3 9
+p423
+aVBo Outlaw ORL 02/17/1999 ORL vs. WAS W 43 14 5 8 62.5 0 0 - 4 6 66.7 3 8 11 4 2 1 3 2 11
+p424
+aVMatt Harpring ORL 02/17/1999 ORL vs. WAS W 5 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 0 1 0 0 1 -2
+p425
+aVNick Anderson ORL 02/17/1999 ORL vs. WAS W 43 26 8 19 42.1 4 8 50.0 6 7 85.7 1 2 3 2 0 0 4 2 13
+p426
+aVHorace Grant ORL 02/17/1999 ORL vs. WAS W 30 11 5 10 50.0 0 0 - 1 1 100.0 5 6 11 1 2 1 1 1 3
+p427
+aVIke Austin ORL 02/17/1999 ORL vs. WAS W 18 2 0 7 0.0 0 0 - 2 3 66.7 0 3 3 1 1 0 4 1 2
+p428
+aVAnfernee Hardaway ORL 02/17/1999 ORL vs. WAS W 31 4 2 11 18.2 0 4 0.0 0 1 0.0 0 1 1 4 1 0 3 2 8
+p429
+aVIke Austin ORL 02/16/1999 ORL @ CLE L 23 12 5 7 71.4 0 0 - 2 2 100.0 1 1 2 2 1 0 2 1 -9
+p430
+aVDarrell Armstrong ORL 02/16/1999 ORL @ CLE L 22 6 3 8 37.5 0 0 - 0 2 0.0 1 3 4 4 2 0 1 0 -12
+p431
+aVBo Outlaw ORL 02/16/1999 ORL @ CLE L 37 11 4 7 57.1 0 0 - 3 4 75.0 3 5 8 1 3 0 5 2 -9
+p432
+aVNick Anderson ORL 02/16/1999 ORL @ CLE L 30 7 2 8 25.0 1 3 33.3 2 3 66.7 0 4 4 3 0 0 1 2 -3
+p433
+aVDominique Wilkins ORL 02/16/1999 ORL @ CLE L 8 6 2 6 33.3 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 1
+p434
+aVMichael Doleac ORL 02/16/1999 ORL @ CLE L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 0
+p435
+aVHorace Grant ORL 02/16/1999 ORL @ CLE L 26 4 2 8 25.0 0 0 - 0 0 - 0 0 0 2 0 1 2 3 -12
+p436
+aVDoug Overton ORL 02/16/1999 ORL @ CLE L 7 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 2 0 6
+p437
+aVGerald Wilkins ORL 02/16/1999 ORL @ CLE L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 3 0 -4
+p438
+aVDan Schayes ORL 02/16/1999 ORL @ CLE L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p439
+aVDerek Strong ORL 02/16/1999 ORL @ CLE L 27 14 3 9 33.3 0 0 - 8 8 100.0 6 4 10 1 0 0 1 4 -6
+p440
+aVMatt Harpring ORL 02/16/1999 ORL @ CLE L 10 2 0 2 0.0 0 0 - 2 4 50.0 2 0 2 0 1 0 2 0 -6
+p441
+aVAnfernee Hardaway ORL 02/16/1999 ORL @ CLE L 33 10 4 15 26.7 2 4 50.0 0 1 0.0 2 1 3 4 2 0 3 3 -5
+p442
+aVDarrell Armstrong ORL 02/14/1999 ORL vs. MIL W 26 6 2 6 33.3 0 2 0.0 2 4 50.0 1 1 2 3 1 0 2 3 9
+p443
+aVAnfernee Hardaway ORL 02/14/1999 ORL vs. MIL W 41 18 8 20 40.0 0 4 0.0 2 3 66.7 1 9 10 6 2 0 1 3 10
+p444
+aVMichael Doleac ORL 02/14/1999 ORL vs. MIL W 16 9 3 6 50.0 0 0 - 3 3 100.0 1 2 3 1 3 1 2 3 1
+p445
+aVIke Austin ORL 02/14/1999 ORL vs. MIL W 20 7 2 9 22.2 0 0 - 3 4 75.0 1 3 4 4 2 0 2 0 -3
+p446
+aVNick Anderson ORL 02/14/1999 ORL vs. MIL W 34 13 4 13 30.8 0 8 0.0 5 6 83.3 2 2 4 1 0 0 2 0 -6
+p447
+aVDerek Strong ORL 02/14/1999 ORL vs. MIL W 10 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p448
+aVBo Outlaw ORL 02/14/1999 ORL vs. MIL W 37 4 2 5 40.0 0 0 - 0 0 - 3 7 10 2 3 2 3 1 -1
+p449
+aVMatt Harpring ORL 02/14/1999 ORL vs. MIL W 21 15 5 10 50.0 2 3 66.7 3 5 60.0 5 1 6 1 0 0 2 3 3
+p450
+aVHorace Grant ORL 02/14/1999 ORL vs. MIL W 35 10 5 7 71.4 0 0 - 0 0 - 0 6 6 2 1 1 1 1 6
+p451
+aVGerald Wilkins ORL 02/11/1999 ORL @ DET W 6 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 6
+p452
+aVAnfernee Hardaway ORL 02/11/1999 ORL @ DET W 40 22 9 21 42.9 1 3 33.3 3 5 60.0 2 3 5 4 0 0 3 5 2
+p453
+aVMichael Doleac ORL 02/11/1999 ORL @ DET W 16 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 1 1 1 3
+p454
+aVMatt Harpring ORL 02/11/1999 ORL @ DET W 13 7 3 3 100.0 1 1 100.0 0 1 0.0 1 2 3 0 0 0 1 1 -3
+p455
+aVDarrell Armstrong ORL 02/11/1999 ORL @ DET W 25 11 4 8 50.0 0 1 0.0 3 4 75.0 1 1 2 5 2 0 2 2 12
+p456
+aVHorace Grant ORL 02/11/1999 ORL @ DET W 34 10 4 18 22.2 0 0 - 2 2 100.0 5 4 9 1 0 1 2 4 -4
+p457
+aVDan Schayes ORL 02/11/1999 ORL @ DET W 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 6
+p458
+aVNick Anderson ORL 02/11/1999 ORL @ DET W 40 13 3 13 23.1 2 6 33.3 5 8 62.5 2 6 8 4 3 0 1 3 -3
+p459
+aVIke Austin ORL 02/11/1999 ORL @ DET W 24 10 5 9 55.6 0 0 - 0 0 - 2 2 4 2 0 1 2 5 2
+p460
+aVBo Outlaw ORL 02/11/1999 ORL @ DET W 33 8 3 7 42.9 0 0 - 2 5 40.0 5 5 10 3 1 1 1 3 9
+p461
+aVIke Austin ORL 02/10/1999 ORL @ NJN W 31 7 2 10 20.0 0 0 - 3 4 75.0 3 3 6 2 1 1 1 1 5
+p462
+aVNick Anderson ORL 02/10/1999 ORL @ NJN W 38 21 8 13 61.5 4 8 50.0 1 6 16.7 0 1 1 1 3 0 1 1 7
+p463
+aVMichael Doleac ORL 02/10/1999 ORL @ NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p464
+aVDarrell Armstrong ORL 02/10/1999 ORL @ NJN W 24 8 2 9 22.2 0 3 0.0 4 4 100.0 2 1 3 5 2 0 2 4 -2
+p465
+aVMatt Harpring ORL 02/10/1999 ORL @ NJN W 17 14 6 10 60.0 0 1 0.0 2 2 100.0 2 0 2 2 0 0 0 3 9
+p466
+aVDan Schayes ORL 02/10/1999 ORL @ NJN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p467
+aVBo Outlaw ORL 02/10/1999 ORL @ NJN W 33 3 1 4 25.0 0 0 - 1 2 50.0 2 6 8 3 5 7 4 5 4
+p468
+aVDominique Wilkins ORL 02/10/1999 ORL @ NJN W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 2
+p469
+aVHorace Grant ORL 02/10/1999 ORL @ NJN W 42 15 7 11 63.6 0 0 - 1 2 50.0 1 3 4 2 2 2 0 0 4
+p470
+aVAnfernee Hardaway ORL 02/10/1999 ORL @ NJN W 41 21 6 20 30.0 0 3 0.0 9 12 75.0 2 6 8 6 7 1 3 3 5
+p471
+aVMatt Harpring ORL 02/08/1999 ORL vs. BOS W 21 11 5 8 62.5 0 0 - 1 1 100.0 2 4 6 1 0 0 2 2 5
+p472
+aVDan Schayes ORL 02/08/1999 ORL vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 1
+p473
+aVDoug Overton ORL 02/08/1999 ORL vs. BOS W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p474
+aVNick Anderson ORL 02/08/1999 ORL vs. BOS W 32 26 10 18 55.6 4 6 66.7 2 4 50.0 0 5 5 2 1 1 3 2 3
+p475
+aVBo Outlaw ORL 02/08/1999 ORL vs. BOS W 39 6 2 6 33.3 0 0 - 2 4 50.0 3 8 11 4 3 6 4 2 10
+p476
+aVDarrell Armstrong ORL 02/08/1999 ORL vs. BOS W 28 17 6 7 85.7 2 3 66.7 3 4 75.0 0 2 2 8 1 0 3 2 24
+p477
+aVMichael Doleac ORL 02/08/1999 ORL vs. BOS W 5 0 0 3 0.0 0 0 - 0 0 - 3 0 3 0 0 0 1 1 -1
+p478
+aVHorace Grant ORL 02/08/1999 ORL vs. BOS W 38 4 2 7 28.6 0 0 - 0 0 - 3 4 7 4 2 0 0 4 20
+p479
+aVAnfernee Hardaway ORL 02/08/1999 ORL vs. BOS W 40 28 8 19 42.1 0 2 0.0 12 14 85.7 2 6 8 6 2 1 2 1 11
+p480
+aVIke Austin ORL 02/08/1999 ORL vs. BOS W 30 13 5 7 71.4 0 0 - 3 3 100.0 1 1 2 3 1 0 5 2 12
+p481
+aVMiles Simon ORL 02/08/1999 ORL vs. BOS W 1 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 0
+p482
+aVDan Schayes ORL 02/06/1999 ORL @ PHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -9
+p483
+aVDarrell Armstrong ORL 02/06/1999 ORL @ PHI L 24 7 2 6 33.3 0 3 0.0 3 3 100.0 0 3 3 7 1 0 4 1 -14
+p484
+aVDominique Wilkins ORL 02/06/1999 ORL @ PHI L 8 3 1 4 25.0 0 1 0.0 1 7 14.3 2 1 3 0 1 0 0 1 -3
+p485
+aVIke Austin ORL 02/06/1999 ORL @ PHI L 31 10 3 9 33.3 0 0 - 4 6 66.7 2 2 4 1 2 1 4 1 -8
+p486
+aVGerald Wilkins ORL 02/06/1999 ORL @ PHI L 14 0 0 6 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -1
+p487
+aVAnfernee Hardaway ORL 02/06/1999 ORL @ PHI L 32 24 9 14 64.3 0 0 - 6 10 60.0 5 4 9 1 0 0 3 3 -12
+p488
+aVMichael Doleac ORL 02/06/1999 ORL @ PHI L 14 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 3 2 -5
+p489
+aVDoug Overton ORL 02/06/1999 ORL @ PHI L 8 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 1 -2
+p490
+aVNick Anderson ORL 02/06/1999 ORL @ PHI L 36 10 4 11 36.4 2 6 33.3 0 0 - 1 4 5 1 0 0 2 3 -14
+p491
+aVHorace Grant ORL 02/06/1999 ORL @ PHI L 31 2 1 7 14.3 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -12
+p492
+aVBo Outlaw ORL 02/06/1999 ORL @ PHI L 25 1 0 3 0.0 0 0 - 1 2 50.0 1 6 7 2 3 2 2 2 -8
+p493
+aVMatt Harpring ORL 02/06/1999 ORL @ PHI L 10 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 2 -12
+p494
+aVAnfernee Hardaway ORL 02/05/1999 ORL vs. NYK W 40 12 4 14 28.6 0 2 0.0 4 5 80.0 2 7 9 2 1 0 3 3 -4
+p495
+aVDarrell Armstrong ORL 02/05/1999 ORL vs. NYK W 29 15 3 5 60.0 1 1 100.0 8 8 100.0 0 0 0 8 2 0 4 1 14
+p496
+aVIke Austin ORL 02/05/1999 ORL vs. NYK W 24 14 6 13 46.2 0 0 - 2 3 66.7 2 2 4 1 2 0 1 2 2
+p497
+aVDerek Strong ORL 02/05/1999 ORL vs. NYK W 14 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p498
+aVDoug Overton ORL 02/05/1999 ORL vs. NYK W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p499
+aVNick Anderson ORL 02/05/1999 ORL vs. NYK W 38 19 7 18 38.9 3 8 37.5 2 4 50.0 2 7 9 4 2 0 0 0 6
+p500
+aVBo Outlaw ORL 02/05/1999 ORL vs. NYK W 34 3 1 6 16.7 0 0 - 1 6 16.7 1 4 5 0 2 1 2 4 -10
+p501
+aVMichael Doleac ORL 02/05/1999 ORL vs. NYK W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 0
+p502
+aVDan Schayes ORL 02/05/1999 ORL vs. NYK W 10 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 0 0 0 1 1 15
+p503
+aVMatt Harpring ORL 02/05/1999 ORL vs. NYK W 11 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 1 0 0 4 12
+p504
+aVHorace Grant ORL 02/05/1999 ORL vs. NYK W 30 14 7 14 50.0 0 0 - 0 0 - 4 7 11 3 2 1 1 3 5
+p505
+a.

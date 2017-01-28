@@ -1,0 +1,1686 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKhalid Reeves NJN 04/20/1996 NJN @ ATL L 22 7 2 4 50.0 1 2 50.0 2 3 66.7 0 0 0 5 1 0 2 4 -
+p2
+aVRick Mahorn NJN 04/20/1996 NJN @ ATL L 22 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 4 2 0 3 2 -
+p3
+aVVern Fleming NJN 04/20/1996 NJN @ ATL L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 0 4 0 -
+p4
+aVNJN 04/20/1996 NJN @ ATL L 15 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 2 1 2 1 -
+p5
+aVChris Childs NJN 04/20/1996 NJN @ ATL L 30 24 10 16 62.5 4 9 44.4 0 1 0.0 2 2 4 3 1 0 7 4 -
+p6
+aVGreg Graham NJN 04/20/1996 NJN @ ATL L 32 10 4 11 36.4 2 7 28.6 0 0 - 0 2 2 4 2 0 2 4 -
+p7
+aVShawn Bradley NJN 04/20/1996 NJN @ ATL L 34 6 3 9 33.3 0 0 - 0 2 0.0 3 7 10 3 0 1 2 3 -
+p8
+aVJayson Williams NJN 04/20/1996 NJN @ ATL L 40 35 16 25 64.0 0 0 - 3 5 60.0 1 5 6 0 1 0 2 1 -
+p9
+aVP.J. Brown NJN 04/20/1996 NJN @ ATL L 33 7 2 7 28.6 0 0 - 3 3 100.0 3 1 4 2 2 0 0 2 -
+p10
+aVArmen Gilliam NJN 04/19/1996 NJN vs. BOS L 33 26 11 19 57.9 0 0 - 4 7 57.1 2 6 8 2 1 0 0 1 -
+p11
+aVShawn Bradley NJN 04/19/1996 NJN vs. BOS L 32 17 7 18 38.9 0 1 0.0 3 4 75.0 5 8 13 0 0 10 3 5 -
+p12
+aVJayson Williams NJN 04/19/1996 NJN vs. BOS L 18 6 3 8 37.5 0 0 - 0 0 - 4 3 7 2 0 2 0 1 -
+p13
+aVKhalid Reeves NJN 04/19/1996 NJN vs. BOS L 31 5 1 5 20.0 0 4 0.0 3 4 75.0 1 2 3 4 1 1 4 3 -
+p14
+aVP.J. Brown NJN 04/19/1996 NJN vs. BOS L 37 19 8 14 57.1 1 1 100.0 2 2 100.0 3 5 8 4 0 1 1 2 -
+p15
+aVVern Fleming NJN 04/19/1996 NJN vs. BOS L 44 7 3 12 25.0 0 2 0.0 1 2 50.0 3 5 8 17 0 0 2 2 -
+p16
+aVGreg Graham NJN 04/19/1996 NJN vs. BOS L 30 14 5 14 35.7 4 11 36.4 0 0 - 2 1 3 1 1 0 0 4 -
+p17
+aVRick Mahorn NJN 04/19/1996 NJN vs. BOS L 10 4 2 4 50.0 0 0 - 0 0 - 0 4 4 1 0 0 0 1 -
+p18
+aVNJN 04/19/1996 NJN vs. BOS L 5 8 3 5 60.0 0 0 - 2 3 66.7 0 1 1 1 0 0 0 2 -
+p19
+aVShawn Bradley NJN 04/17/1996 NJN vs. TOR W 37 11 3 14 21.4 0 0 - 5 5 100.0 5 5 10 2 1 12 2 4 -
+p20
+aVGreg Graham NJN 04/17/1996 NJN vs. TOR W 22 10 4 7 57.1 2 4 50.0 0 0 - 0 1 1 4 2 0 2 1 -
+p21
+aVVern Fleming NJN 04/17/1996 NJN vs. TOR W 37 10 5 11 45.5 0 0 - 0 0 - 2 5 7 10 2 1 3 1 -
+p22
+aVP.J. Brown NJN 04/17/1996 NJN vs. TOR W 46 30 13 18 72.2 1 1 100.0 3 4 75.0 5 6 11 1 1 1 1 2 -
+p23
+aVJayson Williams NJN 04/17/1996 NJN vs. TOR W 29 16 8 14 57.1 0 0 - 0 0 - 2 4 6 1 2 2 1 0 -
+p24
+aVArmen Gilliam NJN 04/17/1996 NJN vs. TOR W 31 10 5 13 38.5 0 0 - 0 0 - 5 6 11 3 0 1 1 1 -
+p25
+aVKhalid Reeves NJN 04/17/1996 NJN vs. TOR W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 1 0 3 3 -
+p26
+aVRick Mahorn NJN 04/17/1996 NJN vs. TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p27
+aVChris Childs NJN 04/17/1996 NJN vs. TOR W 19 15 6 11 54.5 3 4 75.0 0 0 - 0 2 2 8 5 0 2 1 -
+p28
+aVKhalid Reeves NJN 04/15/1996 NJN @ MIA L 30 11 3 6 50.0 2 5 40.0 3 4 75.0 0 1 1 3 1 0 2 6 -
+p29
+aVJayson Williams NJN 04/15/1996 NJN @ MIA L 26 8 3 8 37.5 0 0 - 2 2 100.0 3 5 8 1 0 0 1 3 -
+p30
+aVNJN 04/15/1996 NJN @ MIA L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -
+p31
+aVRick Mahorn NJN 04/15/1996 NJN @ MIA L 12 6 1 4 25.0 0 0 - 4 4 100.0 1 4 5 0 1 0 2 2 -
+p32
+aVP.J. Brown NJN 04/15/1996 NJN @ MIA L 36 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 3 2 0 2 2 -
+p33
+aVGreg Graham NJN 04/15/1996 NJN @ MIA L 29 11 4 10 40.0 3 6 50.0 0 0 - 0 0 0 1 2 0 2 3 -
+p34
+aVArmen Gilliam NJN 04/15/1996 NJN @ MIA L 35 12 4 15 26.7 0 0 - 4 7 57.1 1 6 7 0 1 2 2 2 -
+p35
+aVShawn Bradley NJN 04/15/1996 NJN @ MIA L 13 16 7 12 58.3 0 0 - 2 2 100.0 4 2 6 0 0 0 0 6 -
+p36
+aVChris Childs NJN 04/15/1996 NJN @ MIA L 29 10 3 10 30.0 1 4 25.0 3 3 100.0 1 4 5 5 0 0 1 3 -
+p37
+aVVern Fleming NJN 04/15/1996 NJN @ MIA L 24 8 4 7 57.1 0 0 - 0 0 - 0 3 3 4 0 0 3 0 -
+p38
+aVVern Fleming NJN 04/14/1996 NJN vs. ATL L 34 13 4 9 44.4 0 1 0.0 5 9 55.6 0 2 2 2 1 0 2 3 -
+p39
+aVArmen Gilliam NJN 04/14/1996 NJN vs. ATL L 37 19 8 21 38.1 0 0 - 3 3 100.0 7 2 9 1 0 0 3 2 -
+p40
+aVKhalid Reeves NJN 04/14/1996 NJN vs. ATL L 33 5 1 6 16.7 1 4 25.0 2 2 100.0 0 3 3 1 2 0 0 3 -
+p41
+aVShawn Bradley NJN 04/14/1996 NJN vs. ATL L 25 17 7 17 41.2 0 0 - 3 4 75.0 7 2 9 1 0 1 1 6 -
+p42
+aVP.J. Brown NJN 04/14/1996 NJN vs. ATL L 39 14 7 13 53.8 0 0 - 0 0 - 3 7 10 2 1 2 0 5 -
+p43
+aVRick Mahorn NJN 04/14/1996 NJN vs. ATL L 16 1 0 3 0.0 0 0 - 1 2 50.0 0 4 4 1 0 0 0 2 -
+p44
+aVChris Childs NJN 04/14/1996 NJN vs. ATL L 41 14 5 14 35.7 2 6 33.3 2 2 100.0 1 1 2 8 1 0 5 4 -
+p45
+aVJayson Williams NJN 04/14/1996 NJN vs. ATL L 15 7 1 5 20.0 0 0 - 5 7 71.4 8 3 11 0 1 0 1 5 -
+p46
+aVP.J. Brown NJN 04/11/1996 NJN vs. CHI L 31 9 4 9 44.4 0 0 - 1 3 33.3 2 1 3 1 0 0 1 3 -
+p47
+aVArmen Gilliam NJN 04/11/1996 NJN vs. CHI L 28 11 5 11 45.5 0 0 - 1 2 50.0 4 3 7 0 2 1 4 4 -
+p48
+aVNJN 04/11/1996 NJN vs. CHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p49
+aVShawn Bradley NJN 04/11/1996 NJN vs. CHI L 26 9 4 9 44.4 0 0 - 1 4 25.0 1 1 2 1 0 2 2 5 -
+p50
+aVVern Fleming NJN 04/11/1996 NJN vs. CHI L 34 15 7 12 58.3 0 0 - 1 2 50.0 0 1 1 2 1 0 3 0 -
+p51
+aVRick Mahorn NJN 04/11/1996 NJN vs. CHI L 16 11 3 3 100.0 0 0 - 5 6 83.3 2 3 5 0 0 0 1 5 -
+p52
+aVChris Childs NJN 04/11/1996 NJN vs. CHI L 45 23 10 18 55.6 2 6 33.3 1 1 100.0 2 2 4 8 2 0 2 4 -
+p53
+aVGreg Graham NJN 04/11/1996 NJN vs. CHI L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -
+p54
+aVKhalid Reeves NJN 04/11/1996 NJN vs. CHI L 23 14 6 8 75.0 2 3 66.7 0 0 - 0 1 1 2 3 0 3 6 -
+p55
+aVJayson Williams NJN 04/11/1996 NJN vs. CHI L 21 8 4 5 80.0 0 0 - 0 0 - 2 5 7 0 0 0 2 2 -
+p56
+aVGreg Graham NJN 04/09/1996 NJN vs. DET L 35 14 5 13 38.5 2 4 50.0 2 3 66.7 2 3 5 3 2 1 1 1 -
+p57
+aVVern Fleming NJN 04/09/1996 NJN vs. DET L 22 10 4 8 50.0 1 1 100.0 1 2 50.0 0 2 2 5 0 0 1 0 -
+p58
+aVShawn Bradley NJN 04/09/1996 NJN vs. DET L 35 25 10 15 66.7 0 0 - 5 7 71.4 3 2 5 2 1 2 1 3 -
+p59
+aVArmen Gilliam NJN 04/09/1996 NJN vs. DET L 22 2 1 9 11.1 0 0 - 0 0 - 3 1 4 0 0 0 1 1 -
+p60
+aVNJN 04/09/1996 NJN vs. DET L 11 10 4 5 80.0 0 0 - 2 4 50.0 2 3 5 0 0 0 1 4 -
+p61
+aVJayson Williams NJN 04/09/1996 NJN vs. DET L 21 2 1 11 9.1 0 0 - 0 0 - 6 2 8 0 0 1 0 2 -
+p62
+aVKhalid Reeves NJN 04/09/1996 NJN vs. DET L 16 9 3 6 50.0 1 3 33.3 2 3 66.7 0 2 2 5 0 0 0 3 -
+p63
+aVRick Mahorn NJN 04/09/1996 NJN vs. DET L 12 4 2 4 50.0 0 0 - 0 0 - 0 4 4 1 0 2 1 2 -
+p64
+aVChris Childs NJN 04/09/1996 NJN vs. DET L 37 12 5 10 50.0 0 2 0.0 2 2 100.0 0 0 0 6 1 0 3 2 -
+p65
+aVP.J. Brown NJN 04/09/1996 NJN vs. DET L 29 6 2 7 28.6 0 1 0.0 2 2 100.0 1 3 4 1 1 0 1 4 -
+p66
+aVP.J. Brown NJN 04/08/1996 NJN @ PHL L 39 14 7 14 50.0 0 0 - 0 1 0.0 4 4 8 2 1 2 2 2 -
+p67
+aVRick Mahorn NJN 04/08/1996 NJN @ PHL L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -
+p68
+aVGreg Graham NJN 04/08/1996 NJN @ PHL L 17 3 1 8 12.5 0 3 0.0 1 2 50.0 1 2 3 1 0 0 1 1 -
+p69
+aVVern Fleming NJN 04/08/1996 NJN @ PHL L 36 20 10 15 66.7 0 1 0.0 0 0 - 3 0 3 3 1 0 0 3 -
+p70
+aVChris Childs NJN 04/08/1996 NJN @ PHL L 36 9 3 11 27.3 0 4 0.0 3 3 100.0 0 2 2 8 2 0 6 3 -
+p71
+aVNJN 04/08/1996 NJN @ PHL L 6 0 0 2 0.0 0 0 - 0 0 - 0 - - 1 0 0 1 0 -
+p72
+aVArmen Gilliam NJN 04/08/1996 NJN @ PHL L 29 11 4 9 44.4 0 0 - 3 4 75.0 2 8 10 1 0 0 3 2 -
+p73
+aVShawn Bradley NJN 04/08/1996 NJN @ PHL L 33 10 4 12 33.3 0 0 - 2 2 100.0 2 7 9 0 1 5 2 4 -
+p74
+aVKhalid Reeves NJN 04/08/1996 NJN @ PHL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p75
+aVJayson Williams NJN 04/08/1996 NJN @ PHL L 32 10 4 6 66.7 0 0 - 2 3 66.7 3 9 12 0 0 0 2 4 -
+p76
+aVP.J. Brown NJN 04/06/1996 NJN vs. MIL L 39 12 5 18 27.8 0 0 - 2 4 50.0 8 1 9 2 1 3 2 1 -
+p77
+aVRick Mahorn NJN 04/06/1996 NJN vs. MIL L 6 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 0 -
+p78
+aVArmen Gilliam NJN 04/06/1996 NJN vs. MIL L 32 8 4 17 23.5 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -
+p79
+aVNJN 04/06/1996 NJN vs. MIL L 26 8 4 11 36.4 0 1 0.0 0 0 - 1 - 1 2 1 0 1 2 -
+p80
+aVShawn Bradley NJN 04/06/1996 NJN vs. MIL L 32 13 6 15 40.0 0 0 - 1 2 50.0 7 5 12 1 0 2 0 3 -
+p81
+aVNJN 04/06/1996 NJN vs. MIL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p82
+aVJayson Williams NJN 04/06/1996 NJN vs. MIL L 18 6 2 5 40.0 0 0 - 2 8 25.0 5 7 12 0 0 3 0 2 -
+p83
+aVVern Fleming NJN 04/06/1996 NJN vs. MIL L 20 2 1 6 16.7 0 0 - 0 0 - 0 1 1 4 0 0 2 3 -
+p84
+aVKhalid Reeves NJN 04/06/1996 NJN vs. MIL L 7 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 1 1 0 2 -
+p85
+aVChris Childs NJN 04/06/1996 NJN vs. MIL L 32 19 7 16 43.8 3 7 42.9 2 2 100.0 1 1 2 5 3 0 4 1 -
+p86
+aVGreg Graham NJN 04/06/1996 NJN vs. MIL L 23 14 4 8 50.0 3 5 60.0 3 3 100.0 0 3 3 1 0 0 1 0 -
+p87
+aVVern Fleming NJN 04/05/1996 NJN vs. ATL L 28 6 3 10 30.0 0 0 - 0 0 - 0 2 2 3 1 0 2 3 -
+p88
+aVJayson Williams NJN 04/05/1996 NJN vs. ATL L 20 3 1 10 10.0 0 0 - 1 2 50.0 7 8 15 0 0 1 1 1 -
+p89
+aVRick Mahorn NJN 04/05/1996 NJN vs. ATL L 13 5 2 5 40.0 0 0 - 1 3 33.3 1 4 5 0 0 0 1 4 -
+p90
+aVNJN 04/05/1996 NJN vs. ATL L 23 5 2 7 28.6 0 1 0.0 1 2 50.0 0 - - 0 0 2 0 3 -
+p91
+aVGreg Graham NJN 04/05/1996 NJN vs. ATL L 18 9 2 5 40.0 0 1 0.0 5 6 83.3 0 1 1 2 0 0 1 0 -
+p92
+aVShawn Bradley NJN 04/05/1996 NJN vs. ATL L 20 5 2 9 22.2 0 0 - 1 2 50.0 7 6 13 1 0 5 4 2 -
+p93
+aVP.J. Brown NJN 04/05/1996 NJN vs. ATL L 30 6 3 12 25.0 0 0 - 0 0 - 4 5 9 1 1 3 1 3 -
+p94
+aVArmen Gilliam NJN 04/05/1996 NJN vs. ATL L 31 10 5 17 29.4 0 1 0.0 0 0 - 5 5 10 0 1 0 2 1 -
+p95
+aVNJN 04/05/1996 NJN vs. ATL L 15 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 2 1 2 4 -
+p96
+aVKhalid Reeves NJN 04/05/1996 NJN vs. ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p97
+aVChris Childs NJN 04/05/1996 NJN vs. ATL L 38 17 6 13 46.2 0 4 0.0 5 5 100.0 0 4 4 5 0 0 6 3 -
+p98
+aVNJN 04/03/1996 NJN vs. LAC W 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p99
+aVChris Childs NJN 04/03/1996 NJN vs. LAC W 38 17 3 7 42.9 3 5 60.0 8 8 100.0 1 2 3 13 3 0 4 2 -
+p100
+aVYinka Dare NJN 04/03/1996 NJN vs. LAC W 15 5 2 3 66.7 0 0 - 1 2 50.0 3 5 8 0 0 2 3 3 -
+p101
+aVVern Fleming NJN 04/03/1996 NJN vs. LAC W 24 10 5 9 55.6 0 1 0.0 0 1 0.0 1 1 2 3 2 0 0 0 -
+p102
+aVGreg Graham NJN 04/03/1996 NJN vs. LAC W 22 10 2 5 40.0 1 3 33.3 5 7 71.4 1 1 2 0 0 0 1 1 -
+p103
+aVP.J. Brown NJN 04/03/1996 NJN vs. LAC W 34 16 8 18 44.4 0 0 - 0 0 - 7 3 10 1 2 0 2 6 -
+p104
+aVShawn Bradley NJN 04/03/1996 NJN vs. LAC W 33 12 6 9 66.7 0 0 - 0 0 - 1 5 6 1 2 5 3 4 -
+p105
+aVNJN 04/03/1996 NJN vs. LAC W 14 4 2 5 40.0 0 0 - 0 0 - 0 - - 0 0 0 2 3 -
+p106
+aVJayson Williams NJN 04/03/1996 NJN vs. LAC W 16 5 1 5 20.0 0 0 - 3 4 75.0 2 2 4 0 0 0 2 4 -
+p107
+aVRick Mahorn NJN 04/03/1996 NJN vs. LAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p108
+aVArmen Gilliam NJN 04/03/1996 NJN vs. LAC W 36 19 9 17 52.9 0 0 - 1 3 33.3 3 4 7 2 0 2 4 3 -
+p109
+aVGreg Graham NJN 03/31/1996 NJN @ IND L 25 15 5 10 50.0 3 6 50.0 2 2 100.0 0 1 1 2 0 0 1 1 -
+p110
+aVArmen Gilliam NJN 03/31/1996 NJN @ IND L 26 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 0 1 0 1 3 -
+p111
+aVJayson Williams NJN 03/31/1996 NJN @ IND L 28 14 6 17 35.3 0 0 - 2 7 28.6 7 3 10 0 2 0 5 3 -
+p112
+aVChris Childs NJN 03/31/1996 NJN @ IND L 31 19 7 16 43.8 4 7 57.1 1 1 100.0 1 2 3 11 2 0 2 4 -
+p113
+aVNJN 03/31/1996 NJN @ IND L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p114
+aVRick Mahorn NJN 03/31/1996 NJN @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p115
+aVYinka Dare NJN 03/31/1996 NJN @ IND L 21 12 3 6 50.0 0 0 - 6 8 75.0 4 5 9 0 0 2 0 2 -
+p116
+aVShawn Bradley NJN 03/31/1996 NJN @ IND L 25 6 3 7 42.9 0 0 - 0 0 - 0 4 4 0 0 0 4 6 -
+p117
+aVKhalid Reeves NJN 03/31/1996 NJN @ IND L 19 4 1 8 12.5 0 2 0.0 2 2 100.0 0 1 1 1 2 0 1 5 -
+p118
+aVP.J. Brown NJN 03/31/1996 NJN @ IND L 30 9 3 10 30.0 0 0 - 3 4 75.0 1 3 4 1 2 0 1 2 -
+p119
+aVNJN 03/31/1996 NJN @ IND L 25 12 5 8 62.5 2 3 66.7 0 0 - 2 - 2 5 1 0 0 1 -
+p120
+aVJayson Williams NJN 03/29/1996 NJN @ NYK L 24 8 4 13 30.8 0 0 - 0 1 0.0 5 4 9 0 0 1 0 2 -
+p121
+aVKhalid Reeves NJN 03/29/1996 NJN @ NYK L 20 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 1 4 -
+p122
+aVVern Fleming NJN 03/29/1996 NJN @ NYK L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -
+p123
+aVP.J. Brown NJN 03/29/1996 NJN @ NYK L 32 13 6 11 54.5 0 0 - 1 3 33.3 2 2 4 3 1 0 1 4 -
+p124
+aVChris Childs NJN 03/29/1996 NJN @ NYK L 38 9 3 8 37.5 1 2 50.0 2 6 33.3 0 3 3 12 0 0 4 1 -
+p125
+aVArmen Gilliam NJN 03/29/1996 NJN @ NYK L 33 16 7 11 63.6 0 0 - 2 2 100.0 1 3 4 2 2 1 4 1 -
+p126
+aVShawn Bradley NJN 03/29/1996 NJN @ NYK L 38 16 7 13 53.8 0 0 - 2 2 100.0 0 9 9 0 0 3 1 4 -
+p127
+aVGreg Graham NJN 03/29/1996 NJN @ NYK L 11 4 0 1 0.0 0 0 - 4 6 66.7 0 0 0 1 1 0 1 1 -
+p128
+aVRick Mahorn NJN 03/29/1996 NJN @ NYK L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p129
+aVYinka Dare NJN 03/29/1996 NJN @ NYK L 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -
+p130
+aVNJN 03/29/1996 NJN @ NYK L 21 7 2 5 40.0 0 1 0.0 3 4 75.0 0 - - 0 1 0 0 0 -
+p131
+aVNJN 03/29/1996 NJN @ NYK L 4 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -
+p132
+aVJayson Williams NJN 03/25/1996 NJN vs. SAN L 17 11 4 9 44.4 1 2 50.0 2 4 50.0 1 4 5 1 1 1 0 6 -
+p133
+aVVern Fleming NJN 03/25/1996 NJN vs. SAN L 27 4 2 5 40.0 0 0 - 0 0 - 1 1 2 5 0 0 2 0 -
+p134
+aVArmen Gilliam NJN 03/25/1996 NJN vs. SAN L 37 20 9 18 50.0 0 0 - 2 2 100.0 1 4 5 3 0 1 0 3 -
+p135
+aVShawn Bradley NJN 03/25/1996 NJN vs. SAN L 39 21 10 21 47.6 0 0 - 1 1 100.0 3 6 9 1 0 3 2 5 -
+p136
+aVYinka Dare NJN 03/25/1996 NJN vs. SAN L 9 4 1 1 100.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 3 -
+p137
+aVP.J. Brown NJN 03/25/1996 NJN vs. SAN L 31 8 3 7 42.9 0 0 - 2 4 50.0 3 5 8 3 0 0 3 4 -
+p138
+aVRick Mahorn NJN 03/25/1996 NJN vs. SAN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p139
+aVKhalid Reeves NJN 03/25/1996 NJN vs. SAN L 16 6 2 7 28.6 2 6 33.3 0 2 0.0 0 3 3 2 2 0 2 2 -
+p140
+aVGreg Graham NJN 03/25/1996 NJN vs. SAN L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p141
+aVNJN 03/25/1996 NJN vs. SAN L 23 3 1 3 33.3 1 1 100.0 0 0 - 1 - 1 0 0 1 1 2 -
+p142
+aVChris Childs NJN 03/25/1996 NJN vs. SAN L 38 9 4 8 50.0 0 2 0.0 1 2 50.0 0 8 8 9 1 0 6 2 -
+p143
+aVShawn Bradley NJN 03/24/1996 NJN @ MIL W 40 18 6 12 50.0 0 0 - 6 7 85.7 2 6 8 3 3 8 5 5 -
+p144
+aVNJN 03/24/1996 NJN @ MIL W 28 14 6 9 66.7 1 2 50.0 1 2 50.0 3 - 3 0 2 0 0 3 -
+p145
+aVVern Fleming NJN 03/24/1996 NJN @ MIL W 32 12 6 12 50.0 0 0 - 0 1 0.0 0 5 5 3 1 0 2 1 -
+p146
+aVArmen Gilliam NJN 03/24/1996 NJN @ MIL W 35 9 3 11 27.3 0 0 - 3 4 75.0 2 9 11 3 0 1 2 1 -
+p147
+aVChris Childs NJN 03/24/1996 NJN @ MIL W 37 9 3 12 25.0 0 3 0.0 3 4 75.0 0 3 3 7 3 0 3 5 -
+p148
+aVKhalid Reeves NJN 03/24/1996 NJN @ MIL W 14 1 0 6 0.0 0 2 0.0 1 2 50.0 0 2 2 3 1 0 0 2 -
+p149
+aVJayson Williams NJN 03/24/1996 NJN @ MIL W 12 5 1 3 33.3 0 0 - 3 6 50.0 1 1 2 0 0 0 0 5 -
+p150
+aVRick Mahorn NJN 03/24/1996 NJN @ MIL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p151
+aVGreg Graham NJN 03/24/1996 NJN @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p152
+aVP.J. Brown NJN 03/24/1996 NJN @ MIL W 39 14 6 12 50.0 0 0 - 2 2 100.0 2 3 5 2 0 2 1 4 -
+p153
+aVChris Childs NJN 03/22/1996 NJN @ DET L 36 16 5 10 50.0 0 0 - 6 7 85.7 1 1 2 8 2 0 5 4 -
+p154
+aVGreg Graham NJN 03/22/1996 NJN @ DET L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 2 0 2 0 -
+p155
+aVRick Mahorn NJN 03/22/1996 NJN @ DET L 14 0 0 3 0.0 0 0 - 0 0 - 2 4 6 3 0 0 1 1 -
+p156
+aVArmen Gilliam NJN 03/22/1996 NJN @ DET L 20 9 3 7 42.9 0 0 - 3 4 75.0 0 2 2 0 1 0 1 1 -
+p157
+aVNJN 03/22/1996 NJN @ DET L 10 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -
+p158
+aVVern Fleming NJN 03/22/1996 NJN @ DET L 26 13 5 11 45.5 0 0 - 3 4 75.0 0 2 2 6 2 0 2 3 -
+p159
+aVJayson Williams NJN 03/22/1996 NJN @ DET L 25 13 5 10 50.0 0 1 0.0 3 3 100.0 3 4 7 1 0 0 0 5 -
+p160
+aVNJN 03/22/1996 NJN @ DET L 17 7 2 4 50.0 0 0 - 3 4 75.0 0 - - 1 0 0 1 1 -
+p161
+aVYinka Dare NJN 03/22/1996 NJN @ DET L 8 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 2 -
+p162
+aVP.J. Brown NJN 03/22/1996 NJN @ DET L 21 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 2 0 1 1 5 -
+p163
+aVKhalid Reeves NJN 03/22/1996 NJN @ DET L 23 8 3 5 60.0 2 2 100.0 0 0 - 0 1 1 3 0 0 2 4 -
+p164
+aVShawn Bradley NJN 03/22/1996 NJN @ DET L 32 12 5 10 50.0 0 0 - 2 4 50.0 2 3 5 0 0 5 3 3 -
+p165
+aVYinka Dare NJN 03/21/1996 NJN vs. DEN W 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p166
+aVChris Childs NJN 03/21/1996 NJN vs. DEN W 38 21 5 11 45.5 2 4 50.0 9 13 69.2 1 8 9 11 2 0 3 2 -
+p167
+aVJayson Williams NJN 03/21/1996 NJN vs. DEN W 17 13 4 9 44.4 0 0 - 5 8 62.5 5 4 9 1 0 0 0 0 -
+p168
+aVVern Fleming NJN 03/21/1996 NJN vs. DEN W 21 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 3 -
+p169
+aVKhalid Reeves NJN 03/21/1996 NJN vs. DEN W 23 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 3 0 0 3 4 -
+p170
+aVArmen Gilliam NJN 03/21/1996 NJN vs. DEN W 38 25 9 16 56.3 0 0 - 7 7 100.0 3 5 8 3 0 2 0 1 -
+p171
+aVP.J. Brown NJN 03/21/1996 NJN vs. DEN W 41 14 5 10 50.0 0 0 - 4 4 100.0 2 4 6 0 1 3 1 3 -
+p172
+aVShawn Bradley NJN 03/21/1996 NJN vs. DEN W 37 12 4 15 26.7 0 0 - 4 4 100.0 4 8 12 1 0 3 0 3 -
+p173
+aVNJN 03/21/1996 NJN vs. DEN W 18 4 2 8 25.0 0 0 - 0 0 - 1 - 1 0 0 0 0 0 -
+p174
+aVRick Mahorn NJN 03/19/1996 NJN vs. VAN W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -
+p175
+aVJayson Williams NJN 03/19/1996 NJN vs. VAN W 23 6 3 8 37.5 0 0 - 0 2 0.0 2 4 6 2 1 1 3 5 -
+p176
+aVShawn Bradley NJN 03/19/1996 NJN vs. VAN W 28 17 8 15 53.3 0 0 - 1 1 100.0 3 6 9 0 0 3 4 3 -
+p177
+aVYinka Dare NJN 03/19/1996 NJN vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -
+p178
+aVKhalid Reeves NJN 03/19/1996 NJN vs. VAN W 17 10 4 5 80.0 2 3 66.7 0 0 - 0 1 1 0 1 0 0 2 -
+p179
+aVChris Childs NJN 03/19/1996 NJN vs. VAN W 32 7 3 8 37.5 1 3 33.3 0 0 - 2 3 5 9 3 0 7 2 -
+p180
+aVP.J. Brown NJN 03/19/1996 NJN vs. VAN W 43 11 4 11 36.4 0 0 - 3 4 75.0 1 4 5 3 0 2 3 2 -
+p181
+aVVern Fleming NJN 03/19/1996 NJN vs. VAN W 28 9 4 9 44.4 0 0 - 1 2 50.0 1 2 3 3 0 0 2 0 -
+p182
+aVArmen Gilliam NJN 03/19/1996 NJN vs. VAN W 36 16 5 6 83.3 0 0 - 6 6 100.0 1 9 10 1 3 1 3 2 -
+p183
+aVNJN 03/19/1996 NJN vs. VAN W 25 6 3 7 42.9 0 1 0.0 0 0 - 1 - 1 2 0 0 1 0 -
+p184
+aVArmen Gilliam NJN 03/17/1996 NJN @ BOS L 46 30 9 15 60.0 0 0 - 12 14 85.7 2 3 5 4 2 0 4 3 -
+p185
+aVNJN 03/17/1996 NJN @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p186
+aVYinka Dare NJN 03/17/1996 NJN @ BOS L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -
+p187
+aVKhalid Reeves NJN 03/17/1996 NJN @ BOS L 19 4 2 6 33.3 0 2 0.0 0 2 0.0 1 4 5 2 1 0 1 2 -
+p188
+aVRick Mahorn NJN 03/17/1996 NJN @ BOS L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p189
+aVP.J. Brown NJN 03/17/1996 NJN @ BOS L 44 9 4 8 50.0 0 0 - 1 2 50.0 5 3 8 3 1 0 2 5 -
+p190
+aVNJN 03/17/1996 NJN @ BOS L 12 7 3 5 60.0 0 0 - 1 2 50.0 0 - - 1 0 0 3 3 -
+p191
+aVGreg Graham NJN 03/17/1996 NJN @ BOS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -
+p192
+aVVern Fleming NJN 03/17/1996 NJN @ BOS L 38 18 7 16 43.8 0 0 - 4 4 100.0 2 5 7 4 0 0 0 0 -
+p193
+aVJayson Williams NJN 03/17/1996 NJN @ BOS L 21 8 3 8 37.5 0 0 - 2 4 50.0 1 6 7 0 0 0 3 3 -
+p194
+aVShawn Bradley NJN 03/17/1996 NJN @ BOS L 45 13 6 14 42.9 0 0 - 1 2 50.0 4 9 13 1 3 7 2 4 -
+p195
+aVChris Childs NJN 03/17/1996 NJN @ BOS L 49 15 5 15 33.3 2 3 66.7 3 4 75.0 0 5 5 9 1 1 3 3 -
+p196
+aVShawn Bradley NJN 03/16/1996 NJN vs. CHI L 36 17 4 15 26.7 0 0 - 9 11 81.8 7 5 12 0 1 6 1 4 -
+p197
+aVP.J. Brown NJN 03/16/1996 NJN vs. CHI L 37 15 6 11 54.5 0 0 - 3 3 100.0 4 4 8 1 0 0 1 2 -
+p198
+aVRick Mahorn NJN 03/16/1996 NJN vs. CHI L 8 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 2 -
+p199
+aVJayson Williams NJN 03/16/1996 NJN vs. CHI L 18 5 2 5 40.0 0 0 - 1 4 25.0 4 9 13 0 0 1 1 4 -
+p200
+aVNJN 03/16/1996 NJN vs. CHI L 21 7 2 5 40.0 0 0 - 3 5 60.0 0 - - 0 0 0 0 3 -
+p201
+aVArmen Gilliam NJN 03/16/1996 NJN vs. CHI L 39 21 7 16 43.8 0 0 - 7 8 87.5 3 6 9 2 1 1 4 3 -
+p202
+aVVern Fleming NJN 03/16/1996 NJN vs. CHI L 30 10 5 10 50.0 0 0 - 0 1 0.0 1 3 4 4 0 0 1 2 -
+p203
+aVChris Childs NJN 03/16/1996 NJN vs. CHI L 44 18 6 17 35.3 2 5 40.0 4 5 80.0 1 9 10 14 1 1 4 4 -
+p204
+aVKhalid Reeves NJN 03/16/1996 NJN vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p205
+aVGreg Graham NJN 03/16/1996 NJN vs. CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p206
+aVJayson Williams NJN 03/14/1996 NJN vs. WAS L 17 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 2 0 0 2 5 -
+p207
+aVShawn Bradley NJN 03/14/1996 NJN vs. WAS L 41 19 8 18 44.4 0 0 - 3 4 75.0 9 8 17 3 1 11 3 4 -
+p208
+aVChris Childs NJN 03/14/1996 NJN vs. WAS L 33 8 3 9 33.3 0 2 0.0 2 2 100.0 0 5 5 8 1 0 3 5 -
+p209
+aVYinka Dare NJN 03/14/1996 NJN vs. WAS L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p210
+aVKhalid Reeves NJN 03/14/1996 NJN vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p211
+aVNJN 03/14/1996 NJN vs. WAS L 17 2 1 5 20.0 0 0 - 0 0 - 1 - 1 0 1 0 0 2 -
+p212
+aVVern Fleming NJN 03/14/1996 NJN vs. WAS L 32 14 5 8 62.5 0 2 0.0 4 8 50.0 0 1 1 7 1 1 3 4 -
+p213
+aVRick Mahorn NJN 03/14/1996 NJN vs. WAS L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p214
+aVGreg Graham NJN 03/14/1996 NJN vs. WAS L 15 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 -
+p215
+aVP.J. Brown NJN 03/14/1996 NJN vs. WAS L 40 17 7 15 46.7 0 0 - 3 5 60.0 3 6 9 2 1 2 2 3 -
+p216
+aVArmen Gilliam NJN 03/14/1996 NJN vs. WAS L 39 20 9 18 50.0 0 0 - 2 4 50.0 7 6 13 1 1 1 4 3 -
+p217
+aVJayson Williams NJN 03/12/1996 NJN vs. PHX L 28 9 3 8 37.5 0 0 - 3 6 50.0 4 7 11 2 1 2 2 4 -
+p218
+aVArmen Gilliam NJN 03/12/1996 NJN vs. PHX L 39 15 6 12 50.0 0 0 - 3 4 75.0 3 6 9 2 2 0 3 2 -
+p219
+aVYinka Dare NJN 03/12/1996 NJN vs. PHX L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -
+p220
+aVVern Fleming NJN 03/12/1996 NJN vs. PHX L 33 21 7 16 43.8 0 0 - 7 8 87.5 3 1 4 0 0 0 1 2 -
+p221
+aVP.J. Brown NJN 03/12/1996 NJN vs. PHX L 34 12 4 8 50.0 0 0 - 4 6 66.7 2 8 10 1 1 3 5 5 -
+p222
+aVChris Childs NJN 03/12/1996 NJN vs. PHX L 42 13 4 14 28.6 1 2 50.0 4 4 100.0 2 2 4 11 2 0 3 5 -
+p223
+aVGreg Graham NJN 03/12/1996 NJN vs. PHX L 8 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 3 -
+p224
+aVNJN 03/12/1996 NJN vs. PHX L 15 6 3 4 75.0 0 0 - 0 0 - 0 - - 0 0 2 1 1 -
+p225
+aVShawn Bradley NJN 03/12/1996 NJN vs. PHX L 33 8 4 13 30.8 0 0 - 0 0 - 3 9 12 4 0 10 4 4 -
+p226
+aVRick Mahorn NJN 03/12/1996 NJN vs. PHX L 4 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 -
+p227
+aVJayson Williams NJN 03/10/1996 NJN @ DEN W 17 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 1 0 3 3 -
+p228
+aVNJN 03/10/1996 NJN @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p229
+aVChris Childs NJN 03/10/1996 NJN @ DEN W 39 24 8 12 66.7 2 5 40.0 6 6 100.0 0 2 2 6 1 0 2 3 -
+p230
+aVKhalid Reeves NJN 03/10/1996 NJN @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p231
+aVRick Mahorn NJN 03/10/1996 NJN @ DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p232
+aVGreg Graham NJN 03/10/1996 NJN @ DEN W 10 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -
+p233
+aVP.J. Brown NJN 03/10/1996 NJN @ DEN W 40 12 5 11 45.5 0 0 - 2 2 100.0 4 6 10 3 1 3 0 1 -
+p234
+aVArmen Gilliam NJN 03/10/1996 NJN @ DEN W 39 25 9 16 56.3 0 0 - 7 8 87.5 1 5 6 0 1 1 1 5 -
+p235
+aVVern Fleming NJN 03/10/1996 NJN @ DEN W 33 16 4 9 44.4 0 1 0.0 8 8 100.0 1 1 2 6 1 0 0 3 -
+p236
+aVNJN 03/10/1996 NJN @ DEN W 18 4 2 5 40.0 0 1 0.0 0 0 - 0 - - 2 0 1 1 1 -
+p237
+aVYinka Dare NJN 03/10/1996 NJN @ DEN W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 2 2 -
+p238
+aVShawn Bradley NJN 03/10/1996 NJN @ DEN W 34 11 5 16 31.3 0 0 - 1 2 50.0 1 6 7 3 1 4 1 1 -
+p239
+aVChris Childs NJN 03/08/1996 NJN @ SAN L 43 18 6 15 40.0 1 5 20.0 5 6 83.3 0 3 3 14 0 0 0 2 -
+p240
+aVKhalid Reeves NJN 03/08/1996 NJN @ SAN L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -
+p241
+aVP.J. Brown NJN 03/08/1996 NJN @ SAN L 36 11 5 7 71.4 0 0 - 1 2 50.0 5 4 9 0 0 0 0 5 -
+p242
+aVJayson Williams NJN 03/08/1996 NJN @ SAN L 29 12 6 11 54.5 0 0 - 0 1 0.0 1 5 6 3 0 0 2 3 -
+p243
+aVVern Fleming NJN 03/08/1996 NJN @ SAN L 23 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 6 0 0 2 3 -
+p244
+aVNJN 03/08/1996 NJN @ SAN L 28 12 5 9 55.6 0 0 - 2 3 66.7 2 - 2 1 1 0 2 0 -
+p245
+aVShawn Bradley NJN 03/08/1996 NJN @ SAN L 38 22 11 23 47.8 0 0 - 0 0 - 3 3 6 0 1 1 2 5 -
+p246
+aVYinka Dare NJN 03/08/1996 NJN @ SAN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p247
+aVRick Mahorn NJN 03/08/1996 NJN @ SAN L 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 1 0 1 -
+p248
+aVArmen Gilliam NJN 03/08/1996 NJN @ SAN L 31 16 7 17 41.2 0 0 - 2 2 100.0 0 5 5 2 3 1 1 2 -
+p249
+aVJayson Williams NJN 03/05/1996 NJN @ DAL L 21 10 5 9 55.6 0 0 - 0 2 0.0 2 5 7 1 0 1 1 3 -
+p250
+aVChris Childs NJN 03/05/1996 NJN @ DAL L 22 0 0 1 0.0 0 0 - 0 0 - 0 3 3 5 0 0 3 4 -
+p251
+aVP.J. Brown NJN 03/05/1996 NJN @ DAL L 40 20 8 14 57.1 0 0 - 4 6 66.7 1 7 8 3 2 0 1 4 -
+p252
+aVYinka Dare NJN 03/05/1996 NJN @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p253
+aVNJN 03/05/1996 NJN @ DAL L 29 16 7 10 70.0 1 2 50.0 1 1 100.0 0 - - 3 1 0 2 1 -
+p254
+aVVern Fleming NJN 03/05/1996 NJN @ DAL L 35 10 5 10 50.0 0 0 - 0 0 - 3 2 5 7 1 0 4 3 -
+p255
+aVArmen Gilliam NJN 03/05/1996 NJN @ DAL L 37 24 9 19 47.4 0 0 - 6 8 75.0 1 9 10 8 0 1 2 0 -
+p256
+aVGreg Graham NJN 03/05/1996 NJN @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p257
+aVKhalid Reeves NJN 03/05/1996 NJN @ DAL L 9 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 1 3 -
+p258
+aVShawn Bradley NJN 03/05/1996 NJN @ DAL L 41 32 13 23 56.5 0 0 - 6 11 54.5 5 10 15 4 1 3 4 4 -
+p259
+aVRick Mahorn NJN 03/05/1996 NJN @ DAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p260
+aVJayson Williams NJN 03/02/1996 NJN vs. SEA L 28 9 3 8 37.5 0 0 - 3 4 75.0 4 8 12 1 2 1 2 3 -
+p261
+aVVern Fleming NJN 03/02/1996 NJN vs. SEA L 29 19 7 13 53.8 0 2 0.0 5 7 71.4 2 0 2 6 1 0 0 1 -
+p262
+aVKhalid Reeves NJN 03/02/1996 NJN vs. SEA L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 -
+p263
+aVChris Childs NJN 03/02/1996 NJN vs. SEA L 43 20 4 10 40.0 2 6 33.3 10 13 76.9 2 0 2 12 3 0 2 5 -
+p264
+aVNJN 03/02/1996 NJN vs. SEA L 23 6 3 8 37.5 0 0 - 0 0 - 1 - 1 1 2 1 1 3 -
+p265
+aVP.J. Brown NJN 03/02/1996 NJN vs. SEA L 35 3 0 6 0.0 0 0 - 3 4 75.0 2 6 8 5 1 1 3 5 -
+p266
+aVShawn Bradley NJN 03/02/1996 NJN vs. SEA L 34 14 7 13 53.8 0 0 - 0 0 - 0 5 5 0 0 4 4 5 -
+p267
+aVArmen Gilliam NJN 03/02/1996 NJN vs. SEA L 40 16 8 16 50.0 0 0 - 0 0 - 4 5 9 0 1 0 4 2 -
+p268
+aVRick Mahorn NJN 03/02/1996 NJN vs. SEA L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p269
+aVVern Fleming NJN 02/29/1996 NJN vs. ORL L 30 10 2 8 25.0 0 1 0.0 6 6 100.0 0 2 2 5 3 0 5 2 -
+p270
+aVRick Mahorn NJN 02/29/1996 NJN vs. ORL L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -
+p271
+aVP.J. Brown NJN 02/29/1996 NJN vs. ORL L 38 12 4 7 57.1 0 0 - 4 4 100.0 3 2 5 2 0 2 0 4 -
+p272
+aVChris Childs NJN 02/29/1996 NJN vs. ORL L 38 25 6 12 50.0 0 5 0.0 13 14 92.9 0 3 3 10 5 0 2 3 -
+p273
+aVNJN 02/29/1996 NJN vs. ORL L 26 10 4 11 36.4 1 3 33.3 1 1 100.0 1 - 1 1 2 0 0 1 -
+p274
+aVJayson Williams NJN 02/29/1996 NJN vs. ORL L 32 9 4 10 40.0 0 0 - 1 2 50.0 6 10 16 0 2 1 5 2 -
+p275
+aVShawn Bradley NJN 02/29/1996 NJN vs. ORL L 31 23 10 15 66.7 0 0 - 3 6 50.0 3 3 6 0 1 2 4 5 -
+p276
+aVArmen Gilliam NJN 02/29/1996 NJN vs. ORL L 29 5 2 12 16.7 0 0 - 1 2 50.0 3 6 9 1 0 0 1 0 -
+p277
+aVGreg Graham NJN 02/29/1996 NJN vs. ORL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p278
+aVKhalid Reeves NJN 02/29/1996 NJN vs. ORL L 5 4 1 2 50.0 0 0 - 2 4 50.0 0 2 2 0 1 0 0 0 -
+p279
+aVVern Fleming NJN 02/27/1996 NJN vs. MIA L 29 12 5 10 50.0 0 0 - 2 2 100.0 2 1 3 7 1 0 1 2 -
+p280
+aVNJN 02/27/1996 NJN vs. MIA L 17 0 0 3 0.0 0 1 0.0 0 0 - 0 - - 3 0 0 2 3 -
+p281
+aVKhalid Reeves NJN 02/27/1996 NJN vs. MIA L 8 1 0 1 0.0 0 1 0.0 1 2 50.0 2 0 2 0 1 0 3 3 -
+p282
+aVChris Childs NJN 02/27/1996 NJN vs. MIA L 41 13 2 10 20.0 1 4 25.0 8 9 88.9 2 2 4 11 1 0 4 4 -
+p283
+aVYinka Dare NJN 02/27/1996 NJN vs. MIA L 6 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -
+p284
+aVShawn Bradley NJN 02/27/1996 NJN vs. MIA L 33 23 9 18 50.0 0 0 - 5 7 71.4 3 5 8 1 3 0 1 4 -
+p285
+aVArmen Gilliam NJN 02/27/1996 NJN vs. MIA L 43 16 6 21 28.6 0 0 - 4 6 66.7 4 6 10 1 2 0 4 3 -
+p286
+aVJayson Williams NJN 02/27/1996 NJN vs. MIA L 21 4 2 6 33.3 0 0 - 0 0 - 6 3 9 1 1 0 0 2 -
+p287
+aVP.J. Brown NJN 02/27/1996 NJN vs. MIA L 42 21 9 15 60.0 0 0 - 3 3 100.0 5 6 11 2 2 2 0 2 -
+p288
+aVVern Fleming NJN 02/25/1996 NJN vs. BOS W 30 12 3 6 50.0 0 0 - 6 6 100.0 0 0 0 5 1 0 1 1 -
+p289
+aVChris Childs NJN 02/25/1996 NJN vs. BOS W 42 26 7 11 63.6 2 3 66.7 10 11 90.9 0 5 5 16 4 0 2 5 -
+p290
+aVArmen Gilliam NJN 02/25/1996 NJN vs. BOS W 41 30 13 25 52.0 0 0 - 4 5 80.0 3 3 6 3 0 0 4 5 -
+p291
+aVP.J. Brown NJN 02/25/1996 NJN vs. BOS W 38 16 5 11 45.5 0 2 0.0 6 8 75.0 0 7 7 3 2 2 1 2 -
+p292
+aVKhalid Reeves NJN 02/25/1996 NJN vs. BOS W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p293
+aVGreg Graham NJN 02/25/1996 NJN vs. BOS W 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p294
+aVShawn Bradley NJN 02/25/1996 NJN vs. BOS W 34 10 3 7 42.9 0 0 - 4 5 80.0 1 5 6 0 0 9 4 4 -
+p295
+aVRick Mahorn NJN 02/25/1996 NJN vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p296
+aVJayson Williams NJN 02/25/1996 NJN vs. BOS W 20 8 4 9 44.4 0 0 - 0 0 - 5 4 9 1 0 1 0 2 -
+p297
+aVNJN 02/25/1996 NJN vs. BOS W 19 6 3 7 42.9 0 0 - 0 0 - 0 - - 0 1 0 0 0 -
+p298
+aVRick Mahorn NJN 02/24/1996 NJN @ CLE L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -
+p299
+aVArmen Gilliam NJN 02/24/1996 NJN @ CLE L 33 15 7 8 87.5 0 0 - 1 2 50.0 0 7 7 2 1 0 2 2 -
+p300
+aVGreg Graham NJN 02/24/1996 NJN @ CLE L 10 2 0 5 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 2 -
+p301
+aVYinka Dare NJN 02/24/1996 NJN @ CLE L 8 4 2 3 66.7 0 0 - 0 1 0.0 1 1 2 0 0 0 0 1 -
+p302
+aVNJN 02/24/1996 NJN @ CLE L 23 6 1 4 25.0 0 1 0.0 4 4 100.0 0 - - 3 0 0 4 2 -
+p303
+aVP.J. Brown NJN 02/24/1996 NJN @ CLE L 30 8 3 5 60.0 0 0 - 2 3 66.7 0 0 0 4 0 0 0 3 -
+p304
+aVChris Childs NJN 02/24/1996 NJN @ CLE L 36 10 5 11 45.5 0 2 0.0 0 0 - 0 2 2 4 2 0 4 5 -
+p305
+aVShawn Bradley NJN 02/24/1996 NJN @ CLE L 32 8 2 5 40.0 0 0 - 4 6 66.7 0 3 3 0 0 8 3 3 -
+p306
+aVVern Fleming NJN 02/24/1996 NJN @ CLE L 25 4 0 4 0.0 0 1 0.0 4 4 100.0 0 1 1 3 0 0 1 3 -
+p307
+aVKhalid Reeves NJN 02/24/1996 NJN @ CLE L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -
+p308
+aVJayson Williams NJN 02/24/1996 NJN @ CLE L 25 15 6 12 50.0 0 0 - 3 4 75.0 4 1 5 2 0 0 0 2 -
+p309
+aVArmen Gilliam NJN 02/21/1996 NJN @ MIL W 45 23 10 17 58.8 0 0 - 3 5 60.0 3 4 7 3 1 1 1 1 -
+p310
+aVP.J. Brown NJN 02/21/1996 NJN @ MIL W 49 17 6 10 60.0 0 0 - 5 5 100.0 3 4 7 3 3 1 2 3 -
+p311
+aVNJN 02/21/1996 NJN @ MIL W 21 2 1 6 16.7 0 1 0.0 0 0 - 0 - - 1 1 0 2 2 -
+p312
+aVShawn Bradley NJN 02/21/1996 NJN @ MIL W 37 15 7 12 58.3 0 0 - 1 1 100.0 3 5 8 2 1 4 1 6 -
+p313
+aVVern Fleming NJN 02/21/1996 NJN @ MIL W 35 10 4 6 66.7 0 0 - 2 6 33.3 1 3 4 7 1 0 3 3 -
+p314
+aVChris Childs NJN 02/21/1996 NJN @ MIL W 46 23 8 18 44.4 4 7 57.1 3 3 100.0 0 4 4 7 5 1 3 1 -
+p315
+aVJayson Williams NJN 02/21/1996 NJN @ MIL W 25 4 2 6 33.3 0 0 - 0 0 - 1 6 7 1 0 0 1 3 -
+p316
+aVKhalid Reeves NJN 02/21/1996 NJN @ MIL W 7 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -
+p317
+aVYinka Dare NJN 02/19/1996 NJN @ WAS W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p318
+aVChris Childs NJN 02/19/1996 NJN @ WAS W 39 22 10 15 66.7 2 3 66.7 0 0 - 0 5 5 7 5 0 5 3 -
+p319
+aVGreg Graham NJN 02/19/1996 NJN @ WAS W 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p320
+aVShawn Bradley NJN 02/19/1996 NJN @ WAS W 43 27 10 19 52.6 0 0 - 7 8 87.5 4 5 9 0 0 4 2 2 -
+p321
+aVNJN 02/19/1996 NJN @ WAS W 15 5 2 4 50.0 0 0 - 1 2 50.0 1 - 1 0 1 0 1 0 -
+p322
+aVJayson Williams NJN 02/19/1996 NJN @ WAS W 20 4 1 8 12.5 0 0 - 2 2 100.0 1 2 3 0 1 0 1 2 -
+p323
+aVArmen Gilliam NJN 02/19/1996 NJN @ WAS W 41 12 5 13 38.5 0 0 - 2 4 50.0 3 8 11 4 2 1 0 4 -
+p324
+aVVern Fleming NJN 02/19/1996 NJN @ WAS W 34 11 5 11 45.5 0 1 0.0 1 1 100.0 1 1 2 11 1 0 1 2 -
+p325
+aVP.J. Brown NJN 02/19/1996 NJN @ WAS W 35 16 7 10 70.0 0 0 - 2 3 66.7 5 7 12 1 3 0 1 1 -
+p326
+aVKhalid Reeves NJN 02/19/1996 NJN @ WAS W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 3 -
+p327
+aVChris Childs NJN 02/17/1996 NJN vs. NYK W 43 20 6 12 50.0 3 9 33.3 5 5 100.0 0 6 6 9 5 0 5 2 -
+p328
+aVRick Mahorn NJN 02/17/1996 NJN vs. NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p329
+aVJayson Williams NJN 02/17/1996 NJN vs. NYK W 26 5 2 7 28.6 0 0 - 1 2 50.0 5 6 11 0 1 0 1 3 -
+p330
+aVArmen Gilliam NJN 02/17/1996 NJN vs. NYK W 42 28 9 20 45.0 0 0 - 10 12 83.3 4 7 11 1 0 1 2 1 -
+p331
+aVKhalid Reeves NJN 02/17/1996 NJN vs. NYK W 8 0 0 2 0.0 0 0 - 0 1 0.0 0 1 1 1 1 0 0 0 -
+p332
+aVShawn Bradley NJN 02/17/1996 NJN vs. NYK W 28 11 5 13 38.5 0 0 - 1 4 25.0 3 12 15 0 1 3 4 5 -
+p333
+aVNJN 02/17/1996 NJN vs. NYK W 24 6 3 8 37.5 0 2 0.0 0 2 0.0 1 - 1 1 0 0 3 2 -
+p334
+aVP.J. Brown NJN 02/17/1996 NJN vs. NYK W 37 4 2 13 15.4 0 0 - 0 0 - 2 9 11 2 0 3 2 2 -
+p335
+aVVern Fleming NJN 02/17/1996 NJN vs. NYK W 25 8 4 6 66.7 0 0 - 0 0 - 1 0 1 3 0 0 1 1 -
+p336
+aVYinka Dare NJN 02/17/1996 NJN vs. NYK W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p337
+aVKendall Gill NJN 02/14/1996 NJN vs. IND W 12 10 4 5 80.0 1 1 100.0 1 2 50.0 0 1 1 2 2 0 1 0 -
+p338
+aVNJN 02/14/1996 NJN vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 - - 0 0 0 0 0 -
+p339
+aVGreg Graham NJN 02/14/1996 NJN vs. IND W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -
+p340
+aVShawn Bradley NJN 02/14/1996 NJN vs. IND W 35 19 8 15 53.3 0 0 - 3 4 75.0 2 6 8 1 1 5 2 5 -
+p341
+aVJayson Williams NJN 02/14/1996 NJN vs. IND W 25 10 2 6 33.3 0 0 - 6 6 100.0 8 4 12 0 1 0 2 6 -
+p342
+aVVern Fleming NJN 02/14/1996 NJN vs. IND W 34 5 1 6 16.7 0 0 - 3 3 100.0 1 3 4 2 0 0 0 5 -
+p343
+aVP.J. Brown NJN 02/14/1996 NJN vs. IND W 38 9 3 8 37.5 0 1 0.0 3 4 75.0 1 6 7 6 2 3 2 3 -
+p344
+aVRick Mahorn NJN 02/14/1996 NJN vs. IND W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p345
+aVChris Childs NJN 02/14/1996 NJN vs. IND W 39 10 2 7 28.6 0 1 0.0 6 8 75.0 0 2 2 8 2 0 6 5 -
+p346
+aVArmen Gilliam NJN 02/14/1996 NJN vs. IND W 41 25 11 21 52.4 0 0 - 3 4 75.0 3 7 10 3 1 1 3 2 -
+p347
+aVChris Childs NJN 02/13/1996 NJN @ IND W 43 12 3 10 30.0 1 5 20.0 5 6 83.3 0 1 1 11 4 0 0 4 -
+p348
+aVShawn Bradley NJN 02/13/1996 NJN @ IND W 36 11 4 12 33.3 0 0 - 3 6 50.0 2 3 5 0 2 4 3 5 -
+p349
+aVJayson Williams NJN 02/13/1996 NJN @ IND W 25 12 5 8 62.5 0 1 0.0 2 2 100.0 3 6 9 1 1 0 1 3 -
+p350
+aVVern Fleming NJN 02/13/1996 NJN @ IND W 19 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 3 0 0 2 2 -
+p351
+aVArmen Gilliam NJN 02/13/1996 NJN @ IND W 43 31 12 22 54.5 0 0 - 7 9 77.8 4 4 8 3 0 2 1 1 -
+p352
+aVGreg Graham NJN 02/13/1996 NJN @ IND W 10 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 3 -
+p353
+aVKendall Gill NJN 02/13/1996 NJN @ IND W 24 13 3 10 30.0 1 1 100.0 6 6 100.0 0 0 0 2 1 1 2 5 -
+p354
+aVYinka Dare NJN 02/13/1996 NJN @ IND W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -
+p355
+aVP.J. Brown NJN 02/13/1996 NJN @ IND W 35 11 3 6 50.0 0 0 - 5 8 62.5 4 3 7 2 2 0 0 0 -
+p356
+aVKendall Gill NJN 02/08/1996 NJN @ PHX L 39 21 7 14 50.0 1 2 50.0 6 6 100.0 0 4 4 5 3 0 1 3 -
+p357
+aVVern Fleming NJN 02/08/1996 NJN @ PHX L 14 7 3 7 42.9 0 1 0.0 1 1 100.0 0 1 1 2 0 0 1 3 -
+p358
+aVShawn Bradley NJN 02/08/1996 NJN @ PHX L 35 20 8 15 53.3 0 0 - 4 5 80.0 3 9 12 2 0 8 6 3 -
+p359
+aVJayson Williams NJN 02/08/1996 NJN @ PHX L 30 9 3 7 42.9 0 0 - 3 5 60.0 2 9 11 2 0 1 1 5 -
+p360
+aVRick Mahorn NJN 02/08/1996 NJN @ PHX L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -
+p361
+aVChris Childs NJN 02/08/1996 NJN @ PHX L 44 22 6 15 40.0 3 6 50.0 7 7 100.0 2 6 8 8 1 0 7 5 -
+p362
+aVP.J. Brown NJN 02/08/1996 NJN @ PHX L 26 0 0 6 0.0 0 0 - 0 0 - 1 2 3 2 1 2 1 5 -
+p363
+aVYinka Dare NJN 02/08/1996 NJN @ PHX L 2 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 -
+p364
+aVArmen Gilliam NJN 02/08/1996 NJN @ PHX L 41 19 8 17 47.1 0 0 - 3 4 75.0 3 10 13 3 0 0 1 4 -
+p365
+aVRick Mahorn NJN 02/07/1996 NJN @ LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p366
+aVGreg Graham NJN 02/07/1996 NJN @ LAL L 3 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 1 -
+p367
+aVYinka Dare NJN 02/07/1996 NJN @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p368
+aVShawn Bradley NJN 02/07/1996 NJN @ LAL L 38 13 5 12 41.7 0 0 - 3 4 75.0 5 3 8 3 0 4 2 5 -
+p369
+aVP.J. Brown NJN 02/07/1996 NJN @ LAL L 26 2 1 5 20.0 0 0 - 0 0 - 2 2 4 1 0 1 0 2 -
+p370
+aVJayson Williams NJN 02/07/1996 NJN @ LAL L 31 15 6 11 54.5 0 1 0.0 3 3 100.0 4 3 7 1 0 2 1 5 -
+p371
+aVKendall Gill NJN 02/07/1996 NJN @ LAL L 47 22 9 20 45.0 1 3 33.3 3 4 75.0 0 2 2 4 3 0 3 1 -
+p372
+aVArmen Gilliam NJN 02/07/1996 NJN @ LAL L 42 21 9 20 45.0 0 0 - 3 4 75.0 0 10 10 3 1 1 2 3 -
+p373
+aVChris Childs NJN 02/07/1996 NJN @ LAL L 47 20 7 15 46.7 2 5 40.0 4 5 80.0 0 7 7 17 3 0 6 3 -
+p374
+aVGreg Graham NJN 02/04/1996 NJN @ GOS L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p375
+aVVern Fleming NJN 02/04/1996 NJN @ GOS L 21 10 5 7 71.4 0 0 - 0 0 - 0 1 1 5 0 0 2 1 -
+p376
+aVP.J. Brown NJN 02/04/1996 NJN @ GOS L 32 4 2 8 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -
+p377
+aVArmen Gilliam NJN 02/04/1996 NJN @ GOS L 43 24 12 24 50.0 0 0 - 0 3 0.0 4 6 10 3 0 0 1 3 -
+p378
+aVJayson Williams NJN 02/04/1996 NJN @ GOS L 28 6 2 5 40.0 0 0 - 2 2 100.0 2 8 10 1 0 1 0 1 -
+p379
+aVShawn Bradley NJN 02/04/1996 NJN @ GOS L 38 21 10 17 58.8 1 1 100.0 0 2 0.0 5 8 13 0 1 4 2 4 -
+p380
+aVKendall Gill NJN 02/04/1996 NJN @ GOS L 43 10 4 13 30.8 1 2 50.0 1 1 100.0 2 4 6 2 1 0 3 2 -
+p381
+aVRick Mahorn NJN 02/04/1996 NJN @ GOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p382
+aVChris Childs NJN 02/04/1996 NJN @ GOS L 33 15 3 9 33.3 2 4 50.0 7 8 87.5 0 3 3 15 0 0 5 4 -
+p383
+aVJayson Williams NJN 02/02/1996 NJN @ VAN W 19 3 0 2 0.0 0 0 - 3 4 75.0 1 4 5 2 1 2 0 3 -
+p384
+aVChris Childs NJN 02/02/1996 NJN @ VAN W 39 15 4 12 33.3 1 2 50.0 6 7 85.7 2 0 2 11 0 1 3 5 -
+p385
+aVYinka Dare NJN 02/02/1996 NJN @ VAN W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p386
+aVRick Mahorn NJN 02/02/1996 NJN @ VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p387
+aVArmen Gilliam NJN 02/02/1996 NJN @ VAN W 41 29 10 19 52.6 0 0 - 9 12 75.0 1 8 9 3 0 1 1 4 -
+p388
+aVShawn Bradley NJN 02/02/1996 NJN @ VAN W 37 10 4 8 50.0 0 0 - 2 3 66.7 2 11 13 0 1 5 1 3 -
+p389
+aVP.J. Brown NJN 02/02/1996 NJN @ VAN W 39 6 2 3 66.7 0 0 - 2 3 66.7 0 8 8 1 0 2 1 0 -
+p390
+aVKendall Gill NJN 02/02/1996 NJN @ VAN W 42 22 10 17 58.8 0 2 0.0 2 5 40.0 2 4 6 2 3 0 4 4 -
+p391
+aVVern Fleming NJN 02/02/1996 NJN @ VAN W 15 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 2 0 0 2 1 -
+p392
+aVKendall Gill NJN 01/30/1996 NJN @ SEA L 45 25 9 18 50.0 2 6 33.3 5 5 100.0 1 2 3 6 1 0 1 1 -
+p393
+aVArmen Gilliam NJN 01/30/1996 NJN @ SEA L 35 20 9 16 56.3 0 0 - 2 3 66.7 1 2 3 2 0 0 1 3 -
+p394
+aVP.J. Brown NJN 01/30/1996 NJN @ SEA L 40 6 2 8 25.0 0 0 - 2 2 100.0 1 4 5 2 2 1 3 1 -
+p395
+aVGreg Graham NJN 01/30/1996 NJN @ SEA L 12 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 1 0 2 2 -
+p396
+aVShawn Bradley NJN 01/30/1996 NJN @ SEA L 18 6 2 9 22.2 0 1 0.0 2 4 50.0 1 7 8 1 2 2 4 3 -
+p397
+aVTim Perry NJN 01/30/1996 NJN @ SEA L 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p398
+aVJayson Williams NJN 01/30/1996 NJN @ SEA L 42 13 4 10 40.0 0 0 - 5 6 83.3 10 15 25 1 0 1 3 5 -
+p399
+aVRick Mahorn NJN 01/30/1996 NJN @ SEA L 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p400
+aVVern Fleming NJN 01/30/1996 NJN @ SEA L 38 12 4 9 44.4 2 2 100.0 2 2 100.0 0 3 3 8 1 0 5 2 -
+p401
+aVKendall Gill NJN 01/27/1996 NJN vs. LAL L 46 13 3 14 21.4 1 1 100.0 6 6 100.0 4 2 6 3 3 0 1 3 -
+p402
+aVVern Fleming NJN 01/27/1996 NJN vs. LAL L 30 8 3 7 42.9 0 1 0.0 2 3 66.7 0 2 2 7 1 0 1 1 -
+p403
+aVRick Mahorn NJN 01/27/1996 NJN vs. LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -
+p404
+aVTim Perry NJN 01/27/1996 NJN vs. LAL L 17 4 2 4 50.0 0 0 - 0 0 - 1 4 5 2 1 2 2 0 -
+p405
+aVJayson Williams NJN 01/27/1996 NJN vs. LAL L 22 14 7 15 46.7 0 0 - 0 2 0.0 3 7 10 0 0 2 0 3 -
+p406
+aVGreg Graham NJN 01/27/1996 NJN vs. LAL L 20 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 5 1 0 4 3 -
+p407
+aVShawn Bradley NJN 01/27/1996 NJN vs. LAL L 35 19 9 21 42.9 0 0 - 1 1 100.0 4 7 11 4 0 2 1 3 -
+p408
+aVP.J. Brown NJN 01/27/1996 NJN vs. LAL L 31 14 6 10 60.0 0 0 - 2 2 100.0 5 2 7 2 1 2 0 3 -
+p409
+aVYinka Dare NJN 01/27/1996 NJN vs. LAL L 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -
+p410
+aVArmen Gilliam NJN 01/27/1996 NJN vs. LAL L 26 16 6 20 30.0 0 0 - 4 6 66.7 5 7 12 1 0 0 0 2 -
+p411
+aVJayson Williams NJN 01/26/1996 NJN vs. CHH W 19 14 5 8 62.5 0 0 - 4 4 100.0 5 7 12 1 1 2 1 5 -
+p412
+aVShawn Bradley NJN 01/26/1996 NJN vs. CHH W 28 16 7 13 53.8 0 0 - 2 4 50.0 3 6 9 1 0 1 3 4 -
+p413
+aVKendall Gill NJN 01/26/1996 NJN vs. CHH W 42 30 10 18 55.6 1 2 50.0 9 11 81.8 1 2 3 5 1 0 2 4 -
+p414
+aVRick Mahorn NJN 01/26/1996 NJN vs. CHH W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p415
+aVArmen Gilliam NJN 01/26/1996 NJN vs. CHH W 42 22 7 16 43.8 0 0 - 8 9 88.9 2 9 11 3 1 2 3 3 -
+p416
+aVGreg Graham NJN 01/26/1996 NJN vs. CHH W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 2 1 -
+p417
+aVVern Fleming NJN 01/26/1996 NJN vs. CHH W 38 6 2 10 20.0 0 1 0.0 2 2 100.0 1 5 6 8 2 1 2 3 -
+p418
+aVChris Childs NJN 01/26/1996 NJN vs. CHH W 4 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -
+p419
+aVTim Perry NJN 01/26/1996 NJN vs. CHH W 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p420
+aVP.J. Brown NJN 01/26/1996 NJN vs. CHH W 46 18 8 14 57.1 0 0 - 2 4 50.0 3 6 9 2 0 0 1 2 -
+p421
+aVKendall Gill NJN 01/24/1996 NJN vs. HOU L 41 15 4 11 36.4 0 3 0.0 7 10 70.0 1 4 5 1 3 1 2 4 -
+p422
+aVArmen Gilliam NJN 01/24/1996 NJN vs. HOU L 37 16 7 16 43.8 0 0 - 2 4 50.0 6 6 12 2 0 0 5 1 -
+p423
+aVGreg Graham NJN 01/24/1996 NJN vs. HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -
+p424
+aVVern Fleming NJN 01/24/1996 NJN vs. HOU L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p425
+aVP.J. Brown NJN 01/24/1996 NJN vs. HOU L 41 9 3 9 33.3 0 0 - 3 4 75.0 3 5 8 8 1 0 2 2 -
+p426
+aVChris Childs NJN 01/24/1996 NJN vs. HOU L 41 24 9 17 52.9 2 5 40.0 4 4 100.0 2 2 4 8 0 0 2 4 -
+p427
+aVTim Perry NJN 01/24/1996 NJN vs. HOU L 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 2 0 0 -
+p428
+aVJayson Williams NJN 01/24/1996 NJN vs. HOU L 11 5 2 5 40.0 0 0 - 1 2 50.0 6 7 13 0 0 0 1 0 -
+p429
+aVYinka Dare NJN 01/24/1996 NJN vs. HOU L 14 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 0 0 1 2 2 -
+p430
+aVShawn Bradley NJN 01/24/1996 NJN vs. HOU L 34 17 8 14 57.1 0 0 - 1 4 25.0 4 7 11 0 1 0 4 5 -
+p431
+aVVern Fleming NJN 01/23/1996 NJN @ TOR L 27 9 3 12 25.0 0 0 - 3 4 75.0 3 1 4 4 0 1 5 1 -
+p432
+aVNJN 01/23/1996 NJN @ TOR L 8 0 0 2 0.0 0 0 - 0 0 - 0 - - 0 0 0 0 0 -
+p433
+aVKendall Gill NJN 01/23/1996 NJN @ TOR L 37 11 4 12 33.3 0 2 0.0 3 3 100.0 5 2 7 3 1 0 1 3 -
+p434
+aVChris Childs NJN 01/23/1996 NJN @ TOR L 27 10 3 9 33.3 1 4 25.0 3 4 75.0 2 3 5 1 0 1 6 5 -
+p435
+aVP.J. Brown NJN 01/23/1996 NJN @ TOR L 38 11 5 9 55.6 0 0 - 1 1 100.0 3 5 8 5 1 1 5 6 -
+p436
+aVYinka Dare NJN 01/23/1996 NJN @ TOR L 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -
+p437
+aVShawn Bradley NJN 01/23/1996 NJN @ TOR L 34 20 8 12 66.7 0 1 0.0 4 4 100.0 2 7 9 0 0 5 4 1 -
+p438
+aVArmen Gilliam NJN 01/23/1996 NJN @ TOR L 43 14 5 15 33.3 0 0 - 4 4 100.0 3 7 10 3 0 0 5 2 -
+p439
+aVGreg Graham NJN 01/23/1996 NJN @ TOR L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p440
+aVTim Perry NJN 01/23/1996 NJN @ TOR L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p441
+aVTim Perry NJN 01/20/1996 NJN vs. MIN W 19 4 2 6 33.3 0 1 0.0 0 0 - 5 2 7 1 1 1 0 0 -
+p442
+aVP.J. Brown NJN 01/20/1996 NJN vs. MIN W 44 10 2 14 14.3 0 0 - 6 6 100.0 5 9 14 2 2 1 2 4 -
+p443
+aVNJN 01/20/1996 NJN vs. MIN W 41 19 8 14 57.1 0 2 0.0 3 3 100.0 6 - 6 1 3 2 2 1 -
+p444
+aVGreg Graham NJN 01/20/1996 NJN vs. MIN W 9 4 2 5 40.0 0 0 - 0 0 - 2 0 2 3 0 0 1 0 -
+p445
+aVArmen Gilliam NJN 01/20/1996 NJN vs. MIN W 41 23 11 22 50.0 0 0 - 1 1 100.0 5 7 12 3 0 3 1 4 -
+p446
+aVChris Childs NJN 01/20/1996 NJN vs. MIN W 44 30 10 23 43.5 3 6 50.0 7 9 77.8 1 3 4 10 1 0 6 3 -
+p447
+aVVern Fleming NJN 01/20/1996 NJN vs. MIN W 15 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -
+p448
+aVYinka Dare NJN 01/20/1996 NJN vs. MIN W 28 7 3 4 75.0 0 0 - 1 2 50.0 4 5 9 0 0 0 3 4 -
+p449
+aVShawn Bradley NJN 01/20/1996 NJN vs. MIN W 24 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 2 1 6 -
+p450
+aVNJN 01/19/1996 NJN @ WAS L 32 10 3 11 27.3 0 2 0.0 4 4 100.0 3 - 3 2 3 0 2 1 -
+p451
+aVShawn Bradley NJN 01/19/1996 NJN @ WAS L 34 8 4 10 40.0 0 0 - 0 0 - 3 7 10 0 1 4 4 2 -
+p452
+aVGreg Graham NJN 01/19/1996 NJN @ WAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p453
+aVArmen Gilliam NJN 01/19/1996 NJN @ WAS L 41 32 10 19 52.6 0 0 - 12 12 100.0 8 6 14 0 1 0 5 1 -
+p454
+aVChris Childs NJN 01/19/1996 NJN @ WAS L 44 18 7 19 36.8 1 2 50.0 3 3 100.0 3 8 11 5 3 0 8 6 -
+p455
+aVVern Fleming NJN 01/19/1996 NJN @ WAS L 15 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 1 0 1 0 -
+p456
+aVYinka Dare NJN 01/19/1996 NJN @ WAS L 6 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 -
+p457
+aVJayson Williams NJN 01/19/1996 NJN @ WAS L 16 3 1 6 16.7 0 0 - 1 2 50.0 1 5 6 0 0 0 0 4 -
+p458
+aVTim Perry NJN 01/19/1996 NJN @ WAS L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p459
+aVP.J. Brown NJN 01/19/1996 NJN @ WAS L 40 12 4 9 44.4 0 0 - 4 5 80.0 2 3 5 0 2 2 1 4 -
+p460
+aVP.J. Brown NJN 01/17/1996 NJN @ CHH W 43 8 3 10 30.0 0 0 - 2 2 100.0 0 3 3 3 1 2 2 2 -
+p461
+aVKenny Anderson NJN 01/17/1996 NJN @ CHH W 44 22 6 14 42.9 3 4 75.0 7 9 77.8 3 2 5 10 2 0 1 4 -
+p462
+aVGerald Glass NJN 01/17/1996 NJN @ CHH W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p463
+aVChris Childs NJN 01/17/1996 NJN @ CHH W 43 15 5 14 35.7 2 2 100.0 3 4 75.0 1 4 5 6 2 0 2 5 -
+p464
+aVYinka Dare NJN 01/17/1996 NJN @ CHH W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p465
+aVJayson Williams NJN 01/17/1996 NJN @ CHH W 21 8 3 6 50.0 0 0 - 2 2 100.0 4 6 10 4 0 0 1 3 -
+p466
+aVShawn Bradley NJN 01/17/1996 NJN @ CHH W 29 16 8 15 53.3 0 0 - 0 0 - 2 5 7 0 0 0 2 2 -
+p467
+aVArmen Gilliam NJN 01/17/1996 NJN @ CHH W 44 24 10 17 58.8 0 0 - 4 4 100.0 4 6 10 2 0 1 3 2 -
+p468
+aVVern Fleming NJN 01/17/1996 NJN @ CHH W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -
+p469
+aVKenny Anderson NJN 01/15/1996 NJN vs. TOR W 41 23 7 16 43.8 1 2 50.0 8 8 100.0 0 1 1 13 2 0 1 0 -
+p470
+aVChris Childs NJN 01/15/1996 NJN vs. TOR W 33 17 4 13 30.8 0 3 0.0 9 10 90.0 1 3 4 6 4 0 3 3 -
+p471
+aVVern Fleming NJN 01/15/1996 NJN vs. TOR W 16 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 1 0 1 0 -
+p472
+aVNJN 01/15/1996 NJN vs. TOR W 20 6 2 4 50.0 0 0 - 2 9 22.2 1 - 1 2 2 0 0 1 -
+p473
+aVGreg Graham NJN 01/15/1996 NJN vs. TOR W 3 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p474
+aVGerald Glass NJN 01/15/1996 NJN vs. TOR W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p475
+aVShawn Bradley NJN 01/15/1996 NJN vs. TOR W 16 4 2 10 20.0 0 0 - 0 0 - 3 2 5 1 1 0 0 3 -
+p476
+aVArmen Gilliam NJN 01/15/1996 NJN vs. TOR W 36 20 9 11 81.8 0 0 - 2 2 100.0 1 7 8 0 1 1 0 1 -
+p477
+aVTim Perry NJN 01/15/1996 NJN vs. TOR W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p478
+aVJayson Williams NJN 01/15/1996 NJN vs. TOR W 21 10 5 12 41.7 0 0 - 0 2 0.0 11 6 17 0 0 2 2 5 -
+p479
+aVYinka Dare NJN 01/15/1996 NJN vs. TOR W 15 12 4 5 80.0 0 0 - 4 6 66.7 2 6 8 0 0 1 4 6 -
+p480
+aVP.J. Brown NJN 01/15/1996 NJN vs. TOR W 34 9 2 6 33.3 0 0 - 5 6 83.3 0 4 4 1 1 1 1 2 -
+p481
+aVJayson Williams NJN 01/13/1996 NJN vs. DET L 35 12 5 16 31.3 0 0 - 2 3 66.7 9 15 24 1 0 1 1 6 -
+p482
+aVVern Fleming NJN 01/13/1996 NJN vs. DET L 27 2 1 7 14.3 0 1 0.0 0 2 0.0 0 0 0 5 0 0 1 2 -
+p483
+aVYinka Dare NJN 01/13/1996 NJN vs. DET L 11 2 1 5 20.0 0 0 - 0 0 - 4 2 6 0 0 2 0 1 -
+p484
+aVTim Perry NJN 01/13/1996 NJN vs. DET L 5 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -
+p485
+aVKenny Anderson NJN 01/13/1996 NJN vs. DET L 38 21 8 16 50.0 1 5 20.0 4 6 66.7 1 4 5 5 0 0 2 1 -
+p486
+aVShawn Bradley NJN 01/13/1996 NJN vs. DET L 21 10 3 10 30.0 0 0 - 4 4 100.0 3 2 5 1 0 6 3 4 -
+p487
+aVNJN 01/13/1996 NJN vs. DET L 30 16 6 15 40.0 1 2 50.0 3 4 75.0 2 - 2 1 1 0 0 5 -
+p488
+aVGreg Graham NJN 01/13/1996 NJN vs. DET L 11 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 1 -
+p489
+aVKevin Edwards NJN 01/13/1996 NJN vs. DET L 21 2 0 6 0.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 1 -
+p490
+aVP.J. Brown NJN 01/13/1996 NJN vs. DET L 41 13 5 14 35.7 0 0 - 3 4 75.0 5 10 15 2 0 1 1 2 -
+p491
+aVNJN 01/12/1996 NJN vs. PHL L 18 6 2 6 33.3 0 0 - 2 4 50.0 0 - - 1 0 0 1 2 -
+p492
+aVYinka Dare NJN 01/12/1996 NJN vs. PHL L 11 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 0 2 1 0 -
+p493
+aVShawn Bradley NJN 01/12/1996 NJN vs. PHL L 24 4 2 6 33.3 0 0 - 0 0 - 3 4 7 1 1 4 1 5 -
+p494
+aVArmen Gilliam NJN 01/12/1996 NJN vs. PHL L 32 18 6 16 37.5 0 0 - 6 6 100.0 5 2 7 0 0 1 2 3 -
+p495
+aVTim Perry NJN 01/12/1996 NJN vs. PHL L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 1 -
+p496
+aVChris Childs NJN 01/12/1996 NJN vs. PHL L 16 5 2 7 28.6 0 3 0.0 1 2 50.0 0 0 0 4 0 0 2 4 -
+p497
+aVKenny Anderson NJN 01/12/1996 NJN vs. PHL L 32 19 6 11 54.5 2 3 66.7 5 10 50.0 1 6 7 4 1 0 2 1 -
+p498
+aVVern Fleming NJN 01/12/1996 NJN vs. PHL L 14 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 1 -
+p499
+aVP.J. Brown NJN 01/12/1996 NJN vs. PHL L 36 6 2 12 16.7 0 0 - 2 2 100.0 1 4 5 2 0 2 2 1 -
+p500
+aVGreg Graham NJN 01/12/1996 NJN vs. PHL L 13 6 2 6 33.3 0 3 0.0 2 3 66.7 0 2 2 0 0 0 0 3 -
+p501
+aVKevin Edwards NJN 01/12/1996 NJN vs. PHL L 20 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 4 2 1 3 3 -
+p502
+aVJayson Williams NJN 01/12/1996 NJN vs. PHL L 13 4 2 5 40.0 0 0 - 0 0 - 6 2 8 0 0 1 0 1 -
+p503
+aVShawn Bradley NJN 01/10/1996 NJN vs. NYK W 28 14 6 11 54.5 0 0 - 2 2 100.0 4 6 10 0 1 1 2 2 -
+p504
+aVKevin Edwards NJN 01/10/1996 NJN vs. NYK W 18 3 1 7 14.3 1 2 50.0 0 0 - 0 2 2 2 1 0 1 1 -
+p505
+aVYinka Dare NJN 01/10/1996 NJN vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p506
+aVVern Fleming NJN 01/10/1996 NJN vs. NYK W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p507
+aVNJN 01/10/1996 NJN vs. NYK W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 - - 0 1 0 0 0 -
+p508
+aVP.J. Brown NJN 01/10/1996 NJN vs. NYK W 43 20 6 15 40.0 0 0 - 8 10 80.0 3 2 5 0 0 2 0 2 -
+p509
+aVJayson Williams NJN 01/10/1996 NJN vs. NYK W 19 2 1 5 20.0 0 0 - 0 0 - 5 9 14 0 0 1 0 3 -
+p510
+aVChris Childs NJN 01/10/1996 NJN vs. NYK W 42 21 7 17 41.2 4 9 44.4 3 3 100.0 0 3 3 9 1 0 0 2 -
+p511
+aVKenny Anderson NJN 01/10/1996 NJN vs. NYK W 35 10 3 7 42.9 0 0 - 4 4 100.0 2 2 4 6 2 0 3 1 -
+p512
+aVTim Perry NJN 01/10/1996 NJN vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p513
+aVGreg Graham NJN 01/10/1996 NJN vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p514
+aVArmen Gilliam NJN 01/10/1996 NJN vs. NYK W 40 22 9 16 56.3 0 0 - 4 4 100.0 1 6 7 2 1 0 2 4 -
+p515
+aVKevin Edwards NJN 01/09/1996 NJN @ ORL L 40 13 6 15 40.0 1 2 50.0 0 0 - 1 4 5 5 2 0 0 3 -
+p516
+aVNJN 01/09/1996 NJN @ ORL L 12 4 2 3 66.7 0 0 - 0 2 0.0 1 - 1 0 0 0 1 1 -
+p517
+aVShawn Bradley NJN 01/09/1996 NJN @ ORL L 37 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 1 1 0 1 4 -
+p518
+aVJayson Williams NJN 01/09/1996 NJN @ ORL L 14 6 1 2 50.0 0 0 - 4 6 66.7 1 1 2 0 1 0 1 2 -
+p519
+aVP.J. Brown NJN 01/09/1996 NJN @ ORL L 37 10 3 9 33.3 0 1 0.0 4 4 100.0 2 4 6 1 1 1 5 1 -
+p520
+aVKenny Anderson NJN 01/09/1996 NJN @ ORL L 41 9 2 12 16.7 0 1 0.0 5 8 62.5 0 2 2 7 2 0 1 0 -
+p521
+aVChris Childs NJN 01/09/1996 NJN @ ORL L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 2 -
+p522
+aVVern Fleming NJN 01/09/1996 NJN @ ORL L 7 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 2 1 0 2 1 -
+p523
+aVArmen Gilliam NJN 01/09/1996 NJN @ ORL L 43 26 12 18 66.7 0 0 - 2 2 100.0 3 10 13 2 2 0 4 2 -
+p524
+aVP.J. Brown NJN 01/05/1996 NJN vs. DAL W 37 16 8 12 66.7 0 1 0.0 0 0 - 6 3 9 2 1 1 3 1 -
+p525
+aVJayson Williams NJN 01/05/1996 NJN vs. DAL W 24 10 4 10 40.0 0 0 - 2 2 100.0 8 6 14 0 1 0 1 0 -
+p526
+aVTim Perry NJN 01/05/1996 NJN vs. DAL W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -
+p527
+aVChris Childs NJN 01/05/1996 NJN vs. DAL W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 3 -
+p528
+aVArmen Gilliam NJN 01/05/1996 NJN vs. DAL W 42 26 11 19 57.9 0 0 - 4 4 100.0 1 10 11 2 0 1 0 1 -
+p529
+aVKevin Edwards NJN 01/05/1996 NJN vs. DAL W 34 17 6 11 54.5 1 3 33.3 4 4 100.0 1 4 5 2 2 0 4 4 -
+p530
+aVNJN 01/05/1996 NJN vs. DAL W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 - - 0 0 0 1 0 -
+p531
+aVKenny Anderson NJN 01/05/1996 NJN vs. DAL W 42 18 6 19 31.6 2 9 22.2 4 4 100.0 1 3 4 15 3 2 2 1 -
+p532
+aVVern Fleming NJN 01/05/1996 NJN vs. DAL W 12 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 3 -
+p533
+aVGreg Graham NJN 01/05/1996 NJN vs. DAL W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p534
+aVShawn Bradley NJN 01/05/1996 NJN vs. DAL W 23 3 0 6 0.0 0 0 - 3 6 50.0 2 3 5 1 0 3 1 3 -
+p535
+aVNJN 01/04/1996 NJN @ NYK L 18 9 3 8 37.5 0 1 0.0 3 3 100.0 1 - 1 1 0 0 0 1 -
+p536
+aVKenny Anderson NJN 01/04/1996 NJN @ NYK L 34 5 1 9 11.1 1 4 25.0 2 2 100.0 0 2 2 8 2 0 4 4 -
+p537
+aVJayson Williams NJN 01/04/1996 NJN @ NYK L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 2 1 4 -
+p538
+aVVern Fleming NJN 01/04/1996 NJN @ NYK L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p539
+aVChris Childs NJN 01/04/1996 NJN @ NYK L 20 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 3 0 0 2 4 -
+p540
+aVP.J. Brown NJN 01/04/1996 NJN @ NYK L 45 23 9 15 60.0 0 0 - 5 5 100.0 2 9 11 1 0 1 3 1 -
+p541
+aVArmen Gilliam NJN 01/04/1996 NJN @ NYK L 28 19 9 14 64.3 0 0 - 1 3 33.3 3 5 8 1 0 0 2 1 -
+p542
+aVTim Perry NJN 01/04/1996 NJN @ NYK L 2 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -
+p543
+aVGreg Graham NJN 01/04/1996 NJN @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p544
+aVShawn Bradley NJN 01/04/1996 NJN @ NYK L 39 13 5 14 35.7 0 0 - 3 5 60.0 3 6 9 0 0 5 2 0 -
+p545
+aVKevin Edwards NJN 01/04/1996 NJN @ NYK L 30 9 4 6 66.7 1 1 100.0 0 0 - 0 3 3 3 2 0 3 1 -
+p546
+aVTim Perry NJN 01/02/1996 NJN vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p547
+aVShawn Bradley NJN 01/02/1996 NJN vs. MIL W 34 17 4 11 36.4 0 0 - 9 10 90.0 5 9 14 1 1 7 2 3 -
+p548
+aVP.J. Brown NJN 01/02/1996 NJN vs. MIL W 40 12 4 13 30.8 0 0 - 4 7 57.1 1 4 5 0 2 1 2 2 -
+p549
+aVKevin Edwards NJN 01/02/1996 NJN vs. MIL W 21 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 2 0 2 3 -
+p550
+aVArmen Gilliam NJN 01/02/1996 NJN vs. MIL W 35 15 7 15 46.7 0 0 - 1 2 50.0 6 8 14 1 0 1 3 4 -
+p551
+aVNJN 01/02/1996 NJN vs. MIL W 16 8 3 6 50.0 0 1 0.0 2 2 100.0 0 - - 0 0 0 0 0 -
+p552
+aVChris Childs NJN 01/02/1996 NJN vs. MIL W 27 11 4 13 30.8 1 3 33.3 2 3 66.7 0 3 3 5 0 0 2 2 -
+p553
+aVKenny Anderson NJN 01/02/1996 NJN vs. MIL W 36 12 4 12 33.3 1 3 33.3 3 3 100.0 0 4 4 8 4 0 2 2 -
+p554
+aVVern Fleming NJN 01/02/1996 NJN vs. MIL W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p555
+aVJayson Williams NJN 01/02/1996 NJN vs. MIL W 18 2 1 10 10.0 0 0 - 0 0 - 9 3 12 0 0 0 0 1 -
+p556
+aVTim Perry NJN 12/30/1995 NJN vs. GOS L 7 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -
+p557
+aVYinka Dare NJN 12/30/1995 NJN vs. GOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p558
+aVChris Childs NJN 12/30/1995 NJN vs. GOS L 30 20 6 11 54.5 3 5 60.0 5 5 100.0 1 3 4 10 1 1 0 6 -
+p559
+aVKenny Anderson NJN 12/30/1995 NJN vs. GOS L 31 9 3 8 37.5 0 1 0.0 3 3 100.0 2 3 5 11 3 0 4 3 -
+p560
+aVNJN 12/30/1995 NJN vs. GOS L 23 13 4 10 40.0 0 0 - 5 6 83.3 3 - 3 2 0 0 0 2 -
+p561
+aVArmen Gilliam NJN 12/30/1995 NJN vs. GOS L 40 27 11 24 45.8 0 0 - 5 9 55.6 5 5 10 3 1 0 4 3 -
+p562
+aVVern Fleming NJN 12/30/1995 NJN vs. GOS L 23 7 3 8 37.5 0 0 - 1 2 50.0 1 0 1 1 1 0 3 2 -
+p563
+aVShawn Bradley NJN 12/30/1995 NJN vs. GOS L 25 9 3 8 37.5 0 0 - 3 5 60.0 1 5 6 0 0 2 1 4 -
+p564
+aVJayson Williams NJN 12/30/1995 NJN vs. GOS L 25 7 3 11 27.3 0 0 - 1 3 33.3 11 11 22 0 0 0 1 5 -
+p565
+aVP.J. Brown NJN 12/30/1995 NJN vs. GOS L 23 11 4 8 50.0 0 0 - 3 4 75.0 1 2 3 0 1 0 3 5 -
+p566
+aVKevin Edwards NJN 12/30/1995 NJN vs. GOS L 11 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 0 1 0 1 2 -
+p567
+aVChris Childs NJN 12/28/1995 NJN @ HOU L 25 5 2 8 25.0 0 1 0.0 1 2 50.0 0 2 2 6 1 0 1 2 -
+p568
+aVShawn Bradley NJN 12/28/1995 NJN @ HOU L 18 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 0 1 0 2 4 -
+p569
+aVNJN 12/28/1995 NJN @ HOU L 16 6 3 7 42.9 0 3 0.0 0 0 - 1 - 1 1 3 0 2 0 -
+p570
+aVKenny Anderson NJN 12/28/1995 NJN @ HOU L 37 21 7 18 38.9 2 6 33.3 5 6 83.3 1 1 2 6 1 0 2 1 -
+p571
+aVJayson Williams NJN 12/28/1995 NJN @ HOU L 28 7 2 6 33.3 0 0 - 3 4 75.0 6 9 15 0 0 1 0 3 -
+p572
+aVKevin Edwards NJN 12/28/1995 NJN @ HOU L 24 3 1 6 16.7 1 2 50.0 0 0 - 0 2 2 2 1 0 2 0 -
+p573
+aVArmen Gilliam NJN 12/28/1995 NJN @ HOU L 38 22 10 17 58.8 0 0 - 2 3 66.7 1 3 4 3 1 0 0 1 -
+p574
+aVVern Fleming NJN 12/28/1995 NJN @ HOU L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p575
+aVYinka Dare NJN 12/28/1995 NJN @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -
+p576
+aVP.J. Brown NJN 12/28/1995 NJN @ HOU L 41 17 7 12 58.3 0 0 - 3 4 75.0 2 4 6 3 4 1 2 5 -
+p577
+aVShawn Bradley NJN 12/26/1995 NJN @ MIA L 30 11 4 10 40.0 0 0 - 3 5 60.0 4 3 7 0 1 2 1 2 -
+p578
+aVArmen Gilliam NJN 12/26/1995 NJN @ MIA L 37 29 10 19 52.6 0 0 - 9 10 90.0 2 8 10 0 2 0 1 1 -
+p579
+aVNJN 12/26/1995 NJN @ MIA L 14 4 0 3 0.0 0 1 0.0 4 4 100.0 0 - - 0 0 0 1 2 -
+p580
+aVChris Childs NJN 12/26/1995 NJN @ MIA L 23 10 2 7 28.6 2 4 50.0 4 5 80.0 2 1 3 3 2 0 4 4 -
+p581
+aVJayson Williams NJN 12/26/1995 NJN @ MIA L 18 5 2 4 50.0 0 0 - 1 3 33.3 2 2 4 0 0 0 0 1 -
+p582
+aVTim Perry NJN 12/26/1995 NJN @ MIA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p583
+aVVern Fleming NJN 12/26/1995 NJN @ MIA L 21 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 3 -
+p584
+aVYinka Dare NJN 12/26/1995 NJN @ MIA L 10 7 3 4 75.0 0 0 - 1 1 100.0 2 1 3 0 0 0 2 3 -
+p585
+aVP.J. Brown NJN 12/26/1995 NJN @ MIA L 33 17 6 9 66.7 0 0 - 5 7 71.4 2 2 4 2 2 0 3 4 -
+p586
+aVKenny Anderson NJN 12/26/1995 NJN @ MIA L 26 6 1 9 11.1 0 0 - 4 4 100.0 2 0 2 6 1 1 1 4 -
+p587
+aVKevin Edwards NJN 12/26/1995 NJN @ MIA L 26 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p588
+aVChris Childs NJN 12/23/1995 NJN @ PHL W 19 7 2 5 40.0 1 2 50.0 2 2 100.0 0 3 3 4 0 0 2 3 -
+p589
+aVP.J. Brown NJN 12/23/1995 NJN @ PHL W 28 18 7 9 77.8 0 0 - 4 5 80.0 4 3 7 5 2 0 1 2 -
+p590
+aVVern Fleming NJN 12/23/1995 NJN @ PHL W 15 9 4 6 66.7 0 0 - 1 1 100.0 3 1 4 1 0 0 0 1 -
+p591
+aVGreg Graham NJN 12/23/1995 NJN @ PHL W 2 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 0 0 0 1 -
+p592
+aVKenny Anderson NJN 12/23/1995 NJN @ PHL W 33 15 6 13 46.2 1 4 25.0 2 4 50.0 1 2 3 8 3 1 2 1 -
+p593
+aVTim Perry NJN 12/23/1995 NJN @ PHL W 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p594
+aVShawn Bradley NJN 12/23/1995 NJN @ PHL W 21 13 6 6 100.0 0 0 - 1 2 50.0 0 2 2 1 0 7 1 3 -
+p595
+aVJayson Williams NJN 12/23/1995 NJN @ PHL W 18 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 3 0 0 2 4 -
+p596
+aVArmen Gilliam NJN 12/23/1995 NJN @ PHL W 32 9 3 7 42.9 0 0 - 3 4 75.0 1 10 11 4 1 2 3 3 -
+p597
+aVYinka Dare NJN 12/23/1995 NJN @ PHL W 21 2 1 2 50.0 0 0 - 0 0 - 0 9 9 0 0 3 5 5 -
+p598
+aVKevin Edwards NJN 12/23/1995 NJN @ PHL W 26 9 2 12 16.7 1 3 33.3 4 4 100.0 0 1 1 3 0 0 1 2 -
+p599
+aVNJN 12/23/1995 NJN @ PHL W 21 9 4 10 40.0 0 1 0.0 1 2 50.0 1 - 1 0 1 0 0 1 -
+p600
+aVP.J. Brown NJN 12/22/1995 NJN @ ATL L 28 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 1 3 5 -
+p601
+aVArmen Gilliam NJN 12/22/1995 NJN @ ATL L 35 23 11 14 78.6 0 0 - 1 2 50.0 2 8 10 1 1 0 3 4 -
+p602
+aVTim Perry NJN 12/22/1995 NJN @ ATL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p603
+aVYinka Dare NJN 12/22/1995 NJN @ ATL L 20 3 0 2 0.0 0 0 - 3 6 50.0 1 7 8 0 1 1 1 0 -
+p604
+aVShawn Bradley NJN 12/22/1995 NJN @ ATL L 10 2 1 6 16.7 0 0 - 0 1 0.0 0 1 1 0 0 1 1 2 -
+p605
+aVChris Childs NJN 12/22/1995 NJN @ ATL L 18 12 4 7 57.1 2 3 66.7 2 2 100.0 0 2 2 3 0 0 2 1 -
+p606
+aVJayson Williams NJN 12/22/1995 NJN @ ATL L 28 16 5 7 71.4 0 0 - 6 10 60.0 6 8 14 1 0 0 1 4 -
+p607
+aVKevin Edwards NJN 12/22/1995 NJN @ ATL L 35 10 4 10 40.0 0 3 0.0 2 2 100.0 0 1 1 4 1 0 3 2 -
+p608
+aVKenny Anderson NJN 12/22/1995 NJN @ ATL L 32 12 3 14 21.4 0 4 0.0 6 8 75.0 2 0 2 7 1 0 1 4 -
+p609
+aVNJN 12/22/1995 NJN @ ATL L 19 3 1 2 50.0 1 1 100.0 0 0 - 0 - - 0 0 0 2 0 -
+p610
+aVVern Fleming NJN 12/22/1995 NJN @ ATL L 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 4 0 0 2 0 -
+p611
+aVNJN 12/20/1995 NJN vs. MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 - - 0 0 0 0 0 -
+p612
+aVTim Perry NJN 12/20/1995 NJN vs. MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p613
+aVVern Fleming NJN 12/20/1995 NJN vs. MIA L 13 3 1 6 16.7 0 0 - 1 2 50.0 2 1 3 0 1 0 0 2 -
+p614
+aVKenny Anderson NJN 12/20/1995 NJN vs. MIA L 41 26 9 15 60.0 2 3 66.7 6 6 100.0 0 2 2 8 0 0 4 5 -
+p615
+aVP.J. Brown NJN 12/20/1995 NJN vs. MIA L 43 10 3 8 37.5 0 1 0.0 4 4 100.0 2 9 11 4 1 4 3 1 -
+p616
+aVChris Childs NJN 12/20/1995 NJN vs. MIA L 14 4 0 2 0.0 0 0 - 4 4 100.0 1 1 2 1 1 0 3 2 -
+p617
+aVYinka Dare NJN 12/20/1995 NJN vs. MIA L 21 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 1 1 3 3 -
+p618
+aVArmen Gilliam NJN 12/20/1995 NJN vs. MIA L 40 25 9 18 50.0 0 0 - 7 9 77.8 3 4 7 2 2 1 2 4 -
+p619
+aVShawn Bradley NJN 12/20/1995 NJN vs. MIA L 18 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 5 2 2 -
+p620
+aVJayson Williams NJN 12/20/1995 NJN vs. MIA L 27 19 7 17 41.2 0 0 - 5 10 50.0 12 8 20 0 0 2 2 1 -
+p621
+aVKevin Edwards NJN 12/20/1995 NJN vs. MIA L 39 15 5 13 38.5 2 4 50.0 3 6 50.0 3 3 6 3 1 0 1 5 -
+p622
+aVJayson Williams NJN 12/18/1995 NJN vs. UTH L 21 5 2 4 50.0 0 0 - 1 2 50.0 3 7 10 0 1 1 3 6 -
+p623
+aVShawn Bradley NJN 12/18/1995 NJN vs. UTH L 18 6 2 6 33.3 0 0 - 2 4 50.0 2 5 7 1 1 2 1 5 -
+p624
+aVChris Childs NJN 12/18/1995 NJN vs. UTH L 18 9 2 7 28.6 0 1 0.0 5 5 100.0 0 0 0 3 0 0 1 3 -
+p625
+aVYinka Dare NJN 12/18/1995 NJN vs. UTH L 15 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 1 3 2 -
+p626
+aVKevin Edwards NJN 12/18/1995 NJN vs. UTH L 33 18 5 14 35.7 1 5 20.0 7 7 100.0 0 1 1 1 4 0 3 0 -
+p627
+aVTim Perry NJN 12/18/1995 NJN vs. UTH L 36 14 6 8 75.0 2 3 66.7 0 1 0.0 1 4 5 1 0 0 0 4 -
+p628
+aVArmen Gilliam NJN 12/18/1995 NJN vs. UTH L 42 18 6 10 60.0 0 0 - 6 6 100.0 5 6 11 0 2 0 2 5 -
+p629
+aVKenny Anderson NJN 12/18/1995 NJN vs. UTH L 39 21 4 12 33.3 2 4 50.0 11 11 100.0 0 2 2 10 0 0 2 4 -
+p630
+aVVern Fleming NJN 12/18/1995 NJN vs. UTH L 18 8 2 6 33.3 0 0 - 4 4 100.0 0 1 1 3 0 0 1 2 -
+p631
+aVVern Fleming NJN 12/15/1995 NJN @ DET L 14 7 3 5 60.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 1 -
+p632
+aVKenny Anderson NJN 12/15/1995 NJN @ DET L 24 11 4 9 44.4 1 4 25.0 2 2 100.0 1 1 2 7 1 0 2 4 -
+p633
+aVNJN 12/15/1995 NJN @ DET L 16 8 4 4 100.0 0 0 - 0 0 - 0 - - 0 0 0 0 2 -
+p634
+aVYinka Dare NJN 12/15/1995 NJN @ DET L 11 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 2 1 2 -
+p635
+aVArmen Gilliam NJN 12/15/1995 NJN @ DET L 38 18 9 14 64.3 0 0 - 0 0 - 3 4 7 2 0 0 1 1 -
+p636
+aVChris Childs NJN 12/15/1995 NJN @ DET L 26 10 3 7 42.9 2 4 50.0 2 2 100.0 0 5 5 5 1 0 2 5 -
+p637
+aVJayson Williams NJN 12/15/1995 NJN @ DET L 25 6 2 8 25.0 0 0 - 2 4 50.0 2 6 8 0 0 1 2 2 -
+p638
+aVShawn Bradley NJN 12/15/1995 NJN @ DET L 13 2 1 6 16.7 0 0 - 0 2 0.0 0 2 2 0 0 0 1 2 -
+p639
+aVKevin Edwards NJN 12/15/1995 NJN @ DET L 34 26 11 16 68.8 3 5 60.0 1 1 100.0 0 2 2 1 1 0 1 4 -
+p640
+aVP.J. Brown NJN 12/15/1995 NJN @ DET L 39 4 0 3 0.0 0 0 - 4 4 100.0 1 5 6 4 0 1 2 4 -
+p641
+aVJayson Williams NJN 12/12/1995 NJN vs. ORL L 21 15 4 7 57.1 1 1 100.0 6 8 75.0 8 4 12 0 1 1 5 3 -
+p642
+aVKevin Edwards NJN 12/12/1995 NJN vs. ORL L 37 9 2 11 18.2 0 3 0.0 5 6 83.3 1 2 3 5 3 0 2 0 -
+p643
+aVChris Childs NJN 12/12/1995 NJN vs. ORL L 9 5 2 3 66.7 1 1 100.0 0 0 - 1 0 1 2 0 0 0 1 -
+p644
+aVYinka Dare NJN 12/12/1995 NJN vs. ORL L 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -
+p645
+aVShawn Bradley NJN 12/12/1995 NJN vs. ORL L 22 13 4 11 36.4 0 0 - 5 6 83.3 1 10 11 0 1 2 0 3 -
+p646
+aVTim Perry NJN 12/12/1995 NJN vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p647
+aVArmen Gilliam NJN 12/12/1995 NJN vs. ORL L 37 17 8 20 40.0 0 0 - 1 1 100.0 4 9 13 2 1 2 1 1 -
+p648
+aVVern Fleming NJN 12/12/1995 NJN vs. ORL L 21 4 1 2 50.0 0 0 - 2 6 33.3 0 0 0 5 1 0 2 1 -
+p649
+aVKenny Anderson NJN 12/12/1995 NJN vs. ORL L 29 24 7 15 46.7 4 6 66.7 6 6 100.0 1 2 3 3 1 0 1 5 -
+p650
+aVNJN 12/12/1995 NJN vs. ORL L 24 4 2 7 28.6 0 0 - 0 0 - 2 - 2 0 0 1 2 3 -
+p651
+aVP.J. Brown NJN 12/12/1995 NJN vs. ORL L 28 5 2 8 25.0 0 0 - 1 2 50.0 1 2 3 2 2 2 2 6 -
+p652
+aVGreg Graham NJN 12/12/1995 NJN vs. ORL L 2 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -
+p653
+aVP.J. Brown NJN 12/09/1995 NJN @ CLE W 36 5 0 4 0.0 0 0 - 5 6 83.3 1 5 6 6 1 2 3 3 -
+p654
+aVKevin Edwards NJN 12/09/1995 NJN @ CLE W 30 8 3 10 30.0 1 2 50.0 1 2 50.0 0 6 6 3 1 0 2 1 -
+p655
+aVArmen Gilliam NJN 12/09/1995 NJN @ CLE W 32 10 5 12 41.7 0 0 - 0 0 - 4 4 8 0 0 1 3 2 -
+p656
+aVChris Childs NJN 12/09/1995 NJN @ CLE W 20 17 6 9 66.7 2 4 50.0 3 3 100.0 0 1 1 2 2 0 3 2 -
+p657
+aVVern Fleming NJN 12/09/1995 NJN @ CLE W 16 4 1 3 33.3 0 0 - 2 3 66.7 0 2 2 1 0 0 1 1 -
+p658
+aVYinka Dare NJN 12/09/1995 NJN @ CLE W 21 8 3 6 50.0 0 0 - 2 3 66.7 2 1 3 0 0 0 2 2 -
+p659
+aVNJN 12/09/1995 NJN @ CLE W 19 2 1 5 20.0 0 1 0.0 0 1 0.0 0 - - 1 1 0 0 1 -
+p660
+aVJayson Williams NJN 12/09/1995 NJN @ CLE W 20 12 6 9 66.7 0 0 - 0 1 0.0 1 7 8 0 0 0 1 2 -
+p661
+aVKenny Anderson NJN 12/09/1995 NJN @ CLE W 30 15 5 8 62.5 2 2 100.0 3 3 100.0 1 0 1 7 2 0 5 1 -
+p662
+aVShawn Bradley NJN 12/09/1995 NJN @ CLE W 16 4 2 3 66.7 0 0 - 0 0 - 4 1 5 0 0 2 1 2 -
+p663
+aVArmen Gilliam NJN 12/08/1995 NJN vs. IND W 39 13 5 15 33.3 0 0 - 3 4 75.0 2 11 13 4 2 0 2 3 -
+p664
+aVKevin Edwards NJN 12/08/1995 NJN vs. IND W 35 21 6 13 46.2 4 5 80.0 5 6 83.3 1 0 1 2 0 1 1 2 -
+p665
+aVNJN 12/08/1995 NJN vs. IND W 10 4 1 4 25.0 0 0 - 2 2 100.0 2 - 2 0 0 0 0 1 -
+p666
+aVKenny Anderson NJN 12/08/1995 NJN vs. IND W 36 9 2 9 22.2 0 4 0.0 5 5 100.0 3 4 7 12 4 0 1 4 -
+p667
+aVJayson Williams NJN 12/08/1995 NJN vs. IND W 26 4 1 5 20.0 0 0 - 2 2 100.0 5 13 18 0 0 1 4 2 -
+p668
+aVYinka Dare NJN 12/08/1995 NJN vs. IND W 19 4 1 3 33.3 0 0 - 2 4 50.0 2 2 4 0 0 2 2 2 -
+p669
+aVShawn Bradley NJN 12/08/1995 NJN vs. IND W 12 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 3 3 -
+p670
+aVChris Childs NJN 12/08/1995 NJN vs. IND W 14 8 2 3 66.7 0 0 - 4 4 100.0 0 1 1 2 1 0 2 3 -
+p671
+aVVern Fleming NJN 12/08/1995 NJN vs. IND W 11 9 3 4 75.0 0 0 - 3 3 100.0 0 1 1 0 0 0 1 1 -
+p672
+aVP.J. Brown NJN 12/08/1995 NJN vs. IND W 38 17 8 12 66.7 0 0 - 1 2 50.0 4 0 4 1 0 2 4 3 -
+p673
+aVShawn Bradley NJN 12/06/1995 NJN @ MIN L 16 7 3 6 50.0 0 0 - 1 2 50.0 2 3 5 0 0 9 4 3 -
+p674
+aVYinka Dare NJN 12/06/1995 NJN @ MIN L 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 3 -
+p675
+aVChris Childs NJN 12/06/1995 NJN @ MIN L 23 6 2 5 40.0 1 2 50.0 1 1 100.0 1 0 1 5 1 0 2 2 -
+p676
+aVNJN 12/06/1995 NJN @ MIN L 36 5 2 8 25.0 0 0 - 1 1 100.0 1 - 1 5 0 1 3 4 -
+p677
+aVJayson Williams NJN 12/06/1995 NJN @ MIN L 25 18 7 10 70.0 0 1 0.0 4 6 66.7 3 2 5 2 2 0 1 3 -
+p678
+aVTim Perry NJN 12/06/1995 NJN @ MIN L 13 7 3 6 50.0 0 0 - 1 1 100.0 1 1 2 0 0 1 0 0 -
+p679
+aVKenny Anderson NJN 12/06/1995 NJN @ MIN L 34 22 8 16 50.0 3 4 75.0 3 6 50.0 0 3 3 8 0 1 0 2 -
+p680
+aVVern Fleming NJN 12/06/1995 NJN @ MIN L 17 6 2 5 40.0 0 1 0.0 2 3 66.7 0 3 3 2 0 0 2 2 -
+p681
+aVKevin Edwards NJN 12/06/1995 NJN @ MIN L 23 8 3 10 30.0 0 4 0.0 2 2 100.0 0 1 1 3 1 0 2 2 -
+p682
+aVGreg Graham NJN 12/06/1995 NJN @ MIN L 8 4 1 2 50.0 1 2 50.0 1 2 50.0 0 3 3 2 0 0 0 1 -
+p683
+aVP.J. Brown NJN 12/06/1995 NJN @ MIN L 34 14 7 11 63.6 0 0 - 0 0 - 2 1 3 0 2 0 2 6 -
+p684
+aVJayson Williams NJN 12/02/1995 NJN vs. CLE W 29 17 7 13 53.8 0 0 - 3 4 75.0 7 10 17 0 0 1 1 1 -
+p685
+aVNJN 12/02/1995 NJN vs. CLE W 33 8 3 8 37.5 0 1 0.0 2 3 66.7 5 - 5 4 1 0 5 1 -
+p686
+aVKenny Anderson NJN 12/02/1995 NJN vs. CLE W 30 2 1 7 14.3 0 3 0.0 0 1 0.0 2 1 3 10 0 0 3 2 -
+p687
+aVP.J. Brown NJN 12/02/1995 NJN vs. CLE W 40 16 6 12 50.0 0 1 0.0 4 4 100.0 5 5 10 2 0 4 2 1 -
+p688
+aVYinka Dare NJN 12/02/1995 NJN vs. CLE W 28 7 3 9 33.3 0 0 - 1 2 50.0 1 5 6 0 0 4 2 3 -
+p689
+aVKevin Edwards NJN 12/02/1995 NJN vs. CLE W 34 11 4 14 28.6 1 6 16.7 2 2 100.0 0 1 1 2 3 1 2 2 -
+p690
+aVChris Childs NJN 12/02/1995 NJN vs. CLE W 22 9 2 6 33.3 0 0 - 5 7 71.4 1 4 5 3 1 0 3 3 -
+p691
+aVVern Fleming NJN 12/02/1995 NJN vs. CLE W 24 9 2 7 28.6 0 1 0.0 5 6 83.3 1 1 2 1 0 1 0 2 -
+p692
+aVYinka Dare NJN 12/01/1995 NJN @ BOS W 19 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 2 1 2 -
+p693
+aVKenny Anderson NJN 12/01/1995 NJN @ BOS W 40 39 9 19 47.4 4 8 50.0 17 19 89.5 2 5 7 8 2 0 0 4 -
+p694
+aVArmen Gilliam NJN 12/01/1995 NJN @ BOS W 37 20 10 17 58.8 0 0 - 0 3 0.0 4 7 11 1 1 0 4 3 -
+p695
+aVP.J. Brown NJN 12/01/1995 NJN @ BOS W 48 23 8 15 53.3 0 0 - 7 9 77.8 3 5 8 2 1 2 3 4 -
+p696
+aVVern Fleming NJN 12/01/1995 NJN @ BOS W 21 8 1 6 16.7 0 1 0.0 6 8 75.0 0 4 4 4 1 0 3 0 -
+p697
+aVJayson Williams NJN 12/01/1995 NJN @ BOS W 25 7 3 4 75.0 0 0 - 1 4 25.0 2 10 12 0 0 0 1 3 -
+p698
+aVNJN 12/01/1995 NJN @ BOS W 16 4 2 7 28.6 0 2 0.0 0 0 - 0 - - 0 4 0 1 0 -
+p699
+aVChris Childs NJN 12/01/1995 NJN @ BOS W 24 6 3 7 42.9 0 1 0.0 0 2 0.0 1 0 1 8 0 0 3 2 -
+p700
+aVKevin Edwards NJN 12/01/1995 NJN @ BOS W 35 20 7 13 53.8 3 4 75.0 3 5 60.0 0 3 3 0 1 1 0 2 -
+p701
+aVArmen Gilliam NJN 11/28/1995 NJN vs. WAS W 34 17 7 15 46.7 0 0 - 3 4 75.0 8 8 16 1 1 0 0 0 -
+p702
+aVVern Fleming NJN 11/28/1995 NJN vs. WAS W 15 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 1 -
+p703
+aVKevin Edwards NJN 11/28/1995 NJN vs. WAS W 26 11 4 11 36.4 1 3 33.3 2 4 50.0 0 1 1 1 1 0 0 0 -
+p704
+aVChris Childs NJN 11/28/1995 NJN vs. WAS W 22 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 9 1 1 1 1 -
+p705
+aVNJN 11/28/1995 NJN vs. WAS W 21 6 2 7 28.6 0 0 - 2 3 66.7 1 - 1 1 0 0 1 3 -
+p706
+aVRick Mahorn NJN 11/28/1995 NJN vs. WAS W 15 4 2 8 25.0 0 0 - 0 0 - 1 4 5 0 2 0 1 0 -
+p707
+aVP.J. Brown NJN 11/28/1995 NJN vs. WAS W 32 8 4 11 36.4 0 1 0.0 0 0 - 2 7 9 3 0 1 1 4 -
+p708
+aVJayson Williams NJN 11/28/1995 NJN vs. WAS W 26 12 6 9 66.7 0 0 - 0 0 - 7 7 14 1 0 1 2 2 -
+p709
+aVKenny Anderson NJN 11/28/1995 NJN vs. WAS W 33 14 3 11 27.3 1 2 50.0 7 8 87.5 2 0 2 11 2 1 2 3 -
+p710
+aVYinka Dare NJN 11/28/1995 NJN vs. WAS W 16 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 1 2 4 -
+p711
+aVP.J. Brown NJN 11/26/1995 NJN @ SAC L 43 12 4 8 50.0 0 1 0.0 4 5 80.0 4 5 9 3 1 5 2 4 -
+p712
+aVKevin Edwards NJN 11/26/1995 NJN @ SAC L 38 24 9 20 45.0 4 5 80.0 2 2 100.0 0 1 1 1 4 0 3 4 -
+p713
+aVVern Fleming NJN 11/26/1995 NJN @ SAC L 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p714
+aVArmen Gilliam NJN 11/26/1995 NJN @ SAC L 41 21 6 16 37.5 0 0 - 9 10 90.0 3 7 10 1 3 0 6 5 -
+p715
+aVChris Childs NJN 11/26/1995 NJN @ SAC L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 2 1 0 1 3 -
+p716
+aVKenny Anderson NJN 11/26/1995 NJN @ SAC L 38 13 3 8 37.5 1 1 100.0 6 7 85.7 1 2 3 14 5 0 3 3 -
+p717
+aVYinka Dare NJN 11/26/1995 NJN @ SAC L 14 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 0 0 2 2 2 -
+p718
+aVJayson Williams NJN 11/26/1995 NJN @ SAC L 32 15 5 10 50.0 0 0 - 5 12 41.7 1 9 10 1 1 1 1 3 -
+p719
+aVNJN 11/26/1995 NJN @ SAC L 5 0 0 2 0.0 0 0 - 0 0 - 0 - - 0 0 0 1 1 -
+p720
+aVRick Mahorn NJN 11/26/1995 NJN @ SAC L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p721
+aVJayson Williams NJN 11/24/1995 NJN @ POR L 26 4 2 8 25.0 0 0 - 0 0 - 0 4 4 0 1 1 1 1 -
+p722
+aVKevin Edwards NJN 11/24/1995 NJN @ POR L 25 11 5 15 33.3 1 3 33.3 0 0 - 1 2 3 1 3 0 0 2 -
+p723
+aVP.J. Brown NJN 11/24/1995 NJN @ POR L 39 19 7 15 46.7 1 1 100.0 4 5 80.0 5 2 7 0 2 2 0 1 -
+p724
+aVRex Walters NJN 11/24/1995 NJN @ POR L 8 1 0 2 0.0 0 1 0.0 1 1 100.0 0 1 1 1 1 0 2 1 -
+p725
+aVChris Childs NJN 11/24/1995 NJN @ POR L 37 10 3 10 30.0 1 3 33.3 3 4 75.0 1 3 4 10 1 0 4 3 -
+p726
+aVRick Mahorn NJN 11/24/1995 NJN @ POR L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -
+p727
+aVArmen Gilliam NJN 11/24/1995 NJN @ POR L 42 20 5 15 33.3 0 0 - 10 10 100.0 6 12 18 1 1 3 4 2 -
+p728
+aVKenny Anderson NJN 11/24/1995 NJN @ POR L 19 12 5 11 45.5 0 2 0.0 2 2 100.0 1 0 1 3 2 0 1 1 -
+p729
+aVNJN 11/24/1995 NJN @ POR L 18 2 1 4 25.0 0 1 0.0 0 0 - 2 - 2 1 0 0 1 1 -
+p730
+aVYinka Dare NJN 11/24/1995 NJN @ POR L 13 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 0 0 0 2 2 -
+p731
+aVGerald Glass NJN 11/22/1995 NJN @ LAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p732
+aVRex Walters NJN 11/22/1995 NJN @ LAC L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p733
+aVYinka Dare NJN 11/22/1995 NJN @ LAC L 12 3 1 1 100.0 0 0 - 1 1 100.0 1 3 4 0 0 0 1 6 -
+p734
+aVRick Mahorn NJN 11/22/1995 NJN @ LAC L 24 7 2 6 33.3 0 0 - 3 4 75.0 2 3 5 1 0 0 2 4 -
+p735
+aVKevin Edwards NJN 11/22/1995 NJN @ LAC L 34 13 5 21 23.8 0 6 0.0 3 4 75.0 0 1 1 2 1 0 2 2 -
+p736
+aVKenny Anderson NJN 11/22/1995 NJN @ LAC L 33 26 7 14 50.0 2 4 50.0 10 13 76.9 0 4 4 5 1 0 3 2 -
+p737
+aVJayson Williams NJN 11/22/1995 NJN @ LAC L 27 9 4 8 50.0 0 0 - 1 2 50.0 4 6 10 0 0 1 1 3 -
+p738
+aVNJN 11/22/1995 NJN @ LAC L 28 4 2 5 40.0 0 0 - 0 0 - 0 - - 2 0 0 2 2 -
+p739
+aVP.J. Brown NJN 11/22/1995 NJN @ LAC L 28 4 2 8 25.0 0 0 - 0 0 - 2 2 4 0 0 1 1 5 -
+p740
+aVChris Childs NJN 11/22/1995 NJN @ LAC L 15 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 3 0 0 1 6 -
+p741
+aVArmen Gilliam NJN 11/22/1995 NJN @ LAC L 28 15 6 11 54.5 0 0 - 3 4 75.0 3 4 7 3 1 0 2 3 -
+p742
+aVArmen Gilliam NJN 11/20/1995 NJN @ UTH L 33 13 5 9 55.6 0 0 - 3 4 75.0 0 3 3 0 1 0 3 1 -
+p743
+aVKevin Edwards NJN 11/20/1995 NJN @ UTH L 30 7 3 9 33.3 1 3 33.3 0 0 - 0 0 0 3 3 0 2 1 -
+p744
+aVP.J. Brown NJN 11/20/1995 NJN @ UTH L 29 14 4 7 57.1 0 0 - 6 8 75.0 4 2 6 1 0 0 1 4 -
+p745
+aVRick Mahorn NJN 11/20/1995 NJN @ UTH L 11 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 1 2 4 -
+p746
+aVGerald Glass NJN 11/20/1995 NJN @ UTH L 13 4 2 7 28.6 0 2 0.0 0 0 - 1 1 2 1 0 1 0 2 -
+p747
+aVYinka Dare NJN 11/20/1995 NJN @ UTH L 23 8 3 5 60.0 0 0 - 2 4 50.0 0 7 7 0 1 1 1 3 -
+p748
+aVJayson Williams NJN 11/20/1995 NJN @ UTH L 20 9 1 5 20.0 0 0 - 7 9 77.8 6 5 11 0 1 1 2 2 -
+p749
+aVChris Childs NJN 11/20/1995 NJN @ UTH L 30 9 4 10 40.0 0 5 0.0 1 1 100.0 2 0 2 8 1 0 4 4 -
+p750
+aVRex Walters NJN 11/20/1995 NJN @ UTH L 17 9 3 14 21.4 1 6 16.7 2 2 100.0 1 0 1 2 0 0 0 0 -
+p751
+aVNJN 11/20/1995 NJN @ UTH L 15 2 0 4 0.0 0 3 0.0 2 2 100.0 0 - - 0 2 0 3 2 -
+p752
+aVKenny Anderson NJN 11/20/1995 NJN @ UTH L 19 4 1 7 14.3 0 0 - 2 6 33.3 2 0 2 2 0 0 0 2 -
+p753
+aVKevin Edwards NJN 11/18/1995 NJN vs. PHL W 30 13 5 14 35.7 3 5 60.0 0 0 - 2 1 3 0 2 1 2 2 -
+p754
+aVChris Childs NJN 11/18/1995 NJN vs. PHL W 35 9 4 14 28.6 0 4 0.0 1 1 100.0 0 3 3 14 3 0 2 1 -
+p755
+aVNJN 11/18/1995 NJN vs. PHL W 22 10 5 8 62.5 0 0 - 0 1 0.0 1 - 1 0 2 0 0 1 -
+p756
+aVP.J. Brown NJN 11/18/1995 NJN vs. PHL W 36 10 5 13 38.5 0 0 - 0 0 - 7 4 11 2 0 0 1 5 -
+p757
+aVRex Walters NJN 11/18/1995 NJN vs. PHL W 13 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 3 1 0 1 1 -
+p758
+aVVern Fleming NJN 11/18/1995 NJN vs. PHL W 16 7 3 7 42.9 0 0 - 1 1 100.0 1 1 2 2 0 0 1 1 -
+p759
+aVJayson Williams NJN 11/18/1995 NJN vs. PHL W 24 5 2 8 25.0 0 0 - 1 2 50.0 8 5 13 0 0 1 1 1 -
+p760
+aVRick Mahorn NJN 11/18/1995 NJN vs. PHL W 11 4 2 7 28.6 0 0 - 0 0 - 0 5 5 0 0 0 0 0 -
+p761
+aVGerald Glass NJN 11/18/1995 NJN vs. PHL W 2 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -
+p762
+aVArmen Gilliam NJN 11/18/1995 NJN vs. PHL W 36 24 8 19 42.1 0 0 - 8 8 100.0 8 4 12 0 6 1 2 2 -
+p763
+aVYinka Dare NJN 11/18/1995 NJN vs. PHL W 15 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 2 2 2 -
+p764
+aVRex Walters NJN 11/17/1995 NJN @ CHI L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 3 0 0 0 0 -
+p765
+aVNJN 11/17/1995 NJN @ CHI L 21 12 3 8 37.5 0 1 0.0 6 6 100.0 2 - 2 3 1 0 0 3 -
+p766
+aVChris Childs NJN 11/17/1995 NJN @ CHI L 32 10 4 9 44.4 1 3 33.3 1 1 100.0 1 0 1 3 0 0 4 3 -
+p767
+aVP.J. Brown NJN 11/17/1995 NJN @ CHI L 36 13 5 9 55.6 0 0 - 3 4 75.0 2 5 7 0 2 0 1 4 -
+p768
+aVGerald Glass NJN 11/17/1995 NJN @ CHI L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -
+p769
+aVKevin Edwards NJN 11/17/1995 NJN @ CHI L 33 6 3 13 23.1 0 3 0.0 0 0 - 0 0 0 4 1 0 4 2 -
+p770
+aVYinka Dare NJN 11/17/1995 NJN @ CHI L 14 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 0 1 2 2 2 -
+p771
+aVRick Mahorn NJN 11/17/1995 NJN @ CHI L 15 4 2 7 28.6 0 0 - 0 0 - 2 3 5 0 0 2 0 2 -
+p772
+aVJayson Williams NJN 11/17/1995 NJN @ CHI L 21 14 4 7 57.1 0 0 - 6 10 60.0 2 2 4 0 0 0 2 3 -
+p773
+aVArmen Gilliam NJN 11/17/1995 NJN @ CHI L 32 11 4 11 36.4 0 0 - 3 4 75.0 1 5 6 3 3 1 4 2 -
+p774
+aVVern Fleming NJN 11/17/1995 NJN @ CHI L 24 14 6 7 85.7 0 0 - 2 3 66.7 0 3 3 4 1 0 3 1 -
+p775
+aVP.J. Brown NJN 11/15/1995 NJN vs. CHH W 40 8 4 7 57.1 0 0 - 0 0 - 2 6 8 1 3 1 2 3 -
+p776
+aVJayson Williams NJN 11/15/1995 NJN vs. CHH W 21 10 5 11 45.5 0 0 - 0 1 0.0 7 7 14 0 1 0 0 3 -
+p777
+aVChris Childs NJN 11/15/1995 NJN vs. CHH W 39 7 2 9 22.2 0 2 0.0 3 3 100.0 0 0 0 16 0 0 2 3 -
+p778
+aVYinka Dare NJN 11/15/1995 NJN vs. CHH W 16 5 1 6 16.7 0 0 - 3 4 75.0 2 2 4 0 1 1 0 1 -
+p779
+aVKevin Edwards NJN 11/15/1995 NJN vs. CHH W 30 21 7 14 50.0 3 5 60.0 4 4 100.0 1 2 3 1 2 1 3 1 -
+p780
+aVVern Fleming NJN 11/15/1995 NJN vs. CHH W 20 6 3 10 30.0 0 0 - 0 0 - 2 1 3 3 2 0 1 1 -
+p781
+aVNJN 11/15/1995 NJN vs. CHH W 18 8 3 7 42.9 0 2 0.0 2 2 100.0 1 - 1 3 0 0 0 2 -
+p782
+aVRick Mahorn NJN 11/15/1995 NJN vs. CHH W 13 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 1 0 0 -
+p783
+aVRex Walters NJN 11/15/1995 NJN vs. CHH W 8 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -
+p784
+aVArmen Gilliam NJN 11/15/1995 NJN vs. CHH W 33 16 7 14 50.0 0 0 - 2 2 100.0 4 5 9 1 2 0 2 1 -
+p785
+aVGerald Glass NJN 11/15/1995 NJN vs. CHH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p786
+aVArmen Gilliam NJN 11/11/1995 NJN vs. SAC W 37 12 5 12 41.7 0 0 - 2 2 100.0 3 6 9 2 1 3 2 3 -
+p787
+aVRex Walters NJN 11/11/1995 NJN vs. SAC W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p788
+aVJayson Williams NJN 11/11/1995 NJN vs. SAC W 25 17 7 10 70.0 0 0 - 3 5 60.0 9 5 14 0 0 3 2 4 -
+p789
+aVChris Childs NJN 11/11/1995 NJN vs. SAC W 32 5 2 9 22.2 0 2 0.0 1 2 50.0 3 1 4 6 2 0 1 3 -
+p790
+aVRick Mahorn NJN 11/11/1995 NJN vs. SAC W 22 11 2 5 40.0 0 0 - 7 8 87.5 3 5 8 0 1 0 3 3 -
+p791
+aVNJN 11/11/1995 NJN vs. SAC W 16 4 2 4 50.0 0 0 - 0 0 - 1 - 1 1 0 0 0 2 -
+p792
+aVVern Fleming NJN 11/11/1995 NJN vs. SAC W 19 4 1 5 20.0 0 0 - 2 4 50.0 0 2 2 0 0 0 2 0 -
+p793
+aVYinka Dare NJN 11/11/1995 NJN vs. SAC W 11 2 1 7 14.3 0 0 - 0 0 - 4 5 9 0 1 0 0 5 -
+p794
+aVKevin Edwards NJN 11/11/1995 NJN vs. SAC W 42 24 8 17 47.1 2 4 50.0 6 7 85.7 0 3 3 4 5 0 3 3 -
+p795
+aVP.J. Brown NJN 11/11/1995 NJN vs. SAC W 33 7 3 10 30.0 0 0 - 1 2 50.0 2 4 6 3 0 2 3 2 -
+p796
+aVRick Mahorn NJN 11/10/1995 NJN @ MIA L 21 5 0 3 0.0 0 0 - 5 8 62.5 1 3 4 0 2 0 0 3 -
+p797
+aVKevin Edwards NJN 11/10/1995 NJN @ MIA L 22 7 2 10 20.0 1 2 50.0 2 2 100.0 1 3 4 0 0 0 3 1 -
+p798
+aVP.J. Brown NJN 11/10/1995 NJN @ MIA L 26 3 1 4 25.0 0 0 - 1 1 100.0 1 2 3 2 1 2 2 3 -
+p799
+aVRex Walters NJN 11/10/1995 NJN @ MIA L 15 5 2 4 50.0 0 1 0.0 1 1 100.0 0 3 3 0 0 0 3 2 -
+p800
+aVChris Childs NJN 11/10/1995 NJN @ MIA L 24 12 3 8 37.5 1 3 33.3 5 6 83.3 0 0 0 6 1 0 1 3 -
+p801
+aVArmen Gilliam NJN 11/10/1995 NJN @ MIA L 33 12 5 16 31.3 0 0 - 2 2 100.0 4 7 11 2 1 0 3 2 -
+p802
+aVJayson Williams NJN 11/10/1995 NJN @ MIA L 31 9 3 9 33.3 0 0 - 3 4 75.0 1 7 8 0 1 1 1 5 -
+p803
+aVYinka Dare NJN 11/10/1995 NJN @ MIA L 8 7 3 3 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 2 6 -
+p804
+aVVern Fleming NJN 11/10/1995 NJN @ MIA L 21 9 2 8 25.0 0 1 0.0 5 6 83.3 0 1 1 4 1 0 0 1 -
+p805
+aVGerald Glass NJN 11/10/1995 NJN @ MIA L 14 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 2 0 0 0 1 -
+p806
+aVNJN 11/10/1995 NJN @ MIA L 25 6 2 13 15.4 0 3 0.0 2 2 100.0 5 - 5 2 2 0 2 2 -
+p807
+aVKenny Anderson NJN 11/08/1995 NJN @ ORL L 25 7 3 9 33.3 0 2 0.0 1 3 33.3 1 2 3 7 1 0 0 2 -
+p808
+aVArmen Gilliam NJN 11/08/1995 NJN @ ORL L 40 20 9 18 50.0 0 0 - 2 2 100.0 5 5 10 4 0 1 1 6 -
+p809
+aVYinka Dare NJN 11/08/1995 NJN @ ORL L 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -
+p810
+aVP.J. Brown NJN 11/08/1995 NJN @ ORL L 48 14 4 12 33.3 0 1 0.0 6 9 66.7 6 6 12 1 0 1 2 6 -
+p811
+aVKevin Edwards NJN 11/08/1995 NJN @ ORL L 42 21 7 17 41.2 2 4 50.0 5 9 55.6 1 1 2 1 1 0 3 2 -
+p812
+aVVern Fleming NJN 11/08/1995 NJN @ ORL L 41 14 6 12 50.0 0 1 0.0 2 2 100.0 1 3 4 1 1 0 6 3 -
+p813
+aVRex Walters NJN 11/08/1995 NJN @ ORL L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p814
+aVNJN 11/08/1995 NJN @ ORL L 32 11 3 10 30.0 0 1 0.0 5 7 71.4 1 - 1 1 0 0 0 5 -
+p815
+aVChris Childs NJN 11/08/1995 NJN @ ORL L 25 14 4 9 44.4 3 5 60.0 3 3 100.0 1 3 4 1 1 0 3 0 -
+p816
+aVJayson Williams NJN 11/08/1995 NJN @ ORL L 27 13 5 11 45.5 0 0 - 3 5 60.0 3 8 11 0 1 1 1 4 -
+p817
+aVRick Mahorn NJN 11/08/1995 NJN @ ORL L 24 8 3 8 37.5 0 0 - 2 2 100.0 3 3 6 1 0 0 2 2 -
+p818
+aVRex Walters NJN 11/07/1995 NJN vs. POR W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -
+p819
+aVNJN 11/07/1995 NJN vs. POR W 19 14 6 10 60.0 1 2 50.0 1 1 100.0 5 - 5 0 2 0 0 1 -
+p820
+aVRick Mahorn NJN 11/07/1995 NJN vs. POR W 14 8 4 4 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p821
+aVJayson Williams NJN 11/07/1995 NJN vs. POR W 23 9 4 14 28.6 0 0 - 1 2 50.0 9 7 16 1 0 0 3 3 -
+p822
+aVGerald Glass NJN 11/07/1995 NJN vs. POR W 4 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p823
+aVP.J. Brown NJN 11/07/1995 NJN vs. POR W 34 4 2 6 33.3 0 1 0.0 0 0 - 1 9 10 2 0 0 1 1 -
+p824
+aVKevin Edwards NJN 11/07/1995 NJN vs. POR W 17 12 5 9 55.6 2 2 100.0 0 0 - 0 1 1 2 1 0 2 4 -
+p825
+aVYinka Dare NJN 11/07/1995 NJN vs. POR W 18 5 2 7 28.6 0 0 - 1 2 50.0 3 4 7 0 0 0 0 3 -
+p826
+aVArmen Gilliam NJN 11/07/1995 NJN vs. POR W 38 16 7 19 36.8 0 0 - 2 2 100.0 3 8 11 1 2 1 2 2 -
+p827
+aVChris Childs NJN 11/07/1995 NJN vs. POR W 11 11 3 4 75.0 1 2 50.0 4 4 100.0 0 1 1 3 0 0 0 2 -
+p828
+aVVern Fleming NJN 11/07/1995 NJN vs. POR W 24 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 1 0 0 2 1 -
+p829
+aVKenny Anderson NJN 11/07/1995 NJN vs. POR W 33 13 4 15 26.7 0 2 0.0 5 5 100.0 3 2 5 10 1 0 1 2 -
+p830
+aVVern Fleming NJN 11/03/1995 NJN @ TOR L 17 6 1 5 20.0 0 0 - 4 4 100.0 0 3 3 1 1 0 4 4 -
+p831
+aVKevin Edwards NJN 11/03/1995 NJN @ TOR L 32 11 4 16 25.0 1 2 50.0 2 2 100.0 1 6 7 1 0 1 7 3 -
+p832
+aVRick Mahorn NJN 11/03/1995 NJN @ TOR L 19 8 3 4 75.0 0 0 - 2 4 50.0 4 3 7 0 3 0 2 4 -
+p833
+aVArmen Gilliam NJN 11/03/1995 NJN @ TOR L 43 13 5 14 35.7 0 0 - 3 4 75.0 5 11 16 2 0 2 6 2 -
+p834
+aVChris Childs NJN 11/03/1995 NJN @ TOR L 14 9 3 6 50.0 1 3 33.3 2 3 66.7 0 1 1 1 0 1 2 3 -
+p835
+aVP.J. Brown NJN 11/03/1995 NJN @ TOR L 22 2 1 7 14.3 0 0 - 0 1 0.0 2 4 6 1 0 0 1 5 -
+p836
+aVJayson Williams NJN 11/03/1995 NJN @ TOR L 24 9 3 6 50.0 0 0 - 3 7 42.9 6 6 12 0 2 1 4 4 -
+p837
+aVYinka Dare NJN 11/03/1995 NJN @ TOR L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p838
+aVKenny Anderson NJN 11/03/1995 NJN @ TOR L 37 13 5 17 29.4 0 2 0.0 3 6 50.0 1 2 3 8 3 2 2 0 -
+p839
+aVNJN 11/03/1995 NJN @ TOR L 16 4 1 6 16.7 0 1 0.0 2 2 100.0 1 - 1 0 0 0 0 2 -
+p840
+aVRex Walters NJN 11/03/1995 NJN @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p841
+aVGerald Glass NJN 11/03/1995 NJN @ TOR L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p842
+a.

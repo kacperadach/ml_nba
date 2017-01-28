@@ -1,0 +1,1762 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTim Frazier POR 04/15/2015 POR @ DAL L 30 13 4 6 66.7 1 2 50.0 4 4 100.0 1 3 4 10 0 0 5 3 -7
+p2
+aVSteve Blake POR 04/15/2015 POR @ DAL L 26 14 5 8 62.5 4 7 57.1 0 0 - 0 3 3 5 1 0 3 1 4
+p3
+aVMeyers Leonard POR 04/15/2015 POR @ DAL L 26 7 3 7 42.9 0 3 0.0 1 1 100.0 2 7 9 0 0 1 1 3 3
+p4
+aVRobin Lopez POR 04/15/2015 POR @ DAL L 20 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -27
+p5
+aVAllen Crabbe POR 04/15/2015 POR @ DAL L 32 8 4 13 30.8 0 4 0.0 0 1 0.0 1 4 5 3 3 0 0 5 -16
+p6
+aVJoel Freeland POR 04/15/2015 POR @ DAL L 23 10 4 7 57.1 0 0 - 2 2 100.0 2 3 5 0 2 1 0 3 7
+p7
+aVAlonzo Gee POR 04/15/2015 POR @ DAL L 25 8 4 13 30.8 0 3 0.0 0 0 - 2 5 7 0 0 0 1 3 -6
+p8
+aVLaMarcus Aldridge POR 04/15/2015 POR @ DAL L 30 19 8 24 33.3 1 3 33.3 2 3 66.7 3 5 8 0 1 1 2 1 -17
+p9
+aVDamian Lillard POR 04/15/2015 POR @ DAL L 29 17 5 11 45.5 1 3 33.3 6 7 85.7 1 2 3 2 0 0 6 2 -21
+p10
+aVNicolas Batum POR 04/13/2015 POR @ OKC L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -14
+p11
+aVJoel Freeland POR 04/13/2015 POR @ OKC L 23 16 8 13 61.5 0 0 - 0 0 - 2 3 5 0 0 1 0 2 -1
+p12
+aVAlonzo Gee POR 04/13/2015 POR @ OKC L 24 11 4 7 57.1 1 2 50.0 2 4 50.0 0 5 5 1 0 0 1 3 1
+p13
+aVTim Frazier POR 04/13/2015 POR @ OKC L 27 3 1 8 12.5 1 3 33.3 0 0 - 0 4 4 7 0 0 1 5 -8
+p14
+aVRobin Lopez POR 04/13/2015 POR @ OKC L 25 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -8
+p15
+aVDamian Lillard POR 04/13/2015 POR @ OKC L 27 10 3 9 33.3 1 4 25.0 3 4 75.0 0 3 3 6 1 0 2 1 -14
+p16
+aVChris Kaman POR 04/13/2015 POR @ OKC L 16 14 7 9 77.8 0 0 - 0 0 - 1 3 4 1 0 0 2 3 -7
+p17
+aVMeyers Leonard POR 04/13/2015 POR @ OKC L 32 24 9 17 52.9 5 9 55.6 1 1 100.0 0 4 4 1 0 1 1 4 -6
+p18
+aVAllen Crabbe POR 04/13/2015 POR @ OKC L 36 4 2 8 25.0 0 2 0.0 0 0 - 0 7 7 1 0 0 2 2 1
+p19
+aVCJ McCollum POR 04/13/2015 POR @ OKC L 20 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 4 0 1 2 0 1
+p20
+aVMeyers Leonard POR 04/11/2015 POR vs. UTA L 25 12 5 11 45.5 0 4 0.0 2 2 100.0 1 3 4 0 1 1 1 4 2
+p21
+aVDamian Lillard POR 04/11/2015 POR vs. UTA L 37 28 12 22 54.5 3 8 37.5 1 1 100.0 1 4 5 5 2 0 3 1 -6
+p22
+aVSteve Blake POR 04/11/2015 POR vs. UTA L 20 1 0 3 0.0 0 3 0.0 1 4 25.0 0 1 1 5 1 0 1 4 -10
+p23
+aVChris Kaman POR 04/11/2015 POR vs. UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -12
+p24
+aVCJ McCollum POR 04/11/2015 POR vs. UTA L 40 26 9 17 52.9 2 5 40.0 6 6 100.0 1 7 8 3 3 0 3 4 3
+p25
+aVNicolas Batum POR 04/11/2015 POR vs. UTA L 38 2 1 10 10.0 0 6 0.0 0 0 - 1 5 6 8 3 1 1 2 1
+p26
+aVAllen Crabbe POR 04/11/2015 POR vs. UTA L 29 11 5 9 55.6 1 4 25.0 0 0 - 0 4 4 0 1 0 1 3 -8
+p27
+aVRobin Lopez POR 04/11/2015 POR vs. UTA L 32 21 8 14 57.1 0 0 - 5 7 71.4 5 1 6 1 0 1 1 2 6
+p28
+aVJoel Freeland POR 04/11/2015 POR vs. UTA L 14 4 1 1 100.0 0 0 - 2 2 100.0 0 5 5 0 0 1 0 4 -6
+p29
+aVRobin Lopez POR 04/09/2015 POR @ GSW L 23 10 4 7 57.1 0 0 - 2 2 100.0 3 4 7 1 0 1 1 1 -1
+p30
+aVChris Kaman POR 04/09/2015 POR @ GSW L 10 4 2 6 33.3 0 0 - 0 1 0.0 1 1 2 1 0 0 1 0 -9
+p31
+aVCJ McCollum POR 04/09/2015 POR @ GSW L 31 17 8 14 57.1 1 3 33.3 0 0 - 1 1 2 1 2 1 1 2 11
+p32
+aVAllen Crabbe POR 04/09/2015 POR @ GSW L 14 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 -10
+p33
+aVMeyers Leonard POR 04/09/2015 POR @ GSW L 8 4 2 2 100.0 0 0 - 0 0 - 1 5 6 1 0 0 0 1 13
+p34
+aVNicolas Batum POR 04/09/2015 POR @ GSW L 41 7 3 9 33.3 1 3 33.3 0 0 - 3 7 10 8 1 1 0 1 -7
+p35
+aVLaMarcus Aldridge POR 04/09/2015 POR @ GSW L 35 27 11 24 45.8 2 3 66.7 3 3 100.0 2 4 6 4 1 2 2 0 -23
+p36
+aVArron Afflalo POR 04/09/2015 POR @ GSW L 27 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -16
+p37
+aVSteve Blake POR 04/09/2015 POR @ GSW L 14 3 1 6 16.7 1 5 20.0 0 0 - 0 0 0 3 1 0 1 2 2
+p38
+aVDamian Lillard POR 04/09/2015 POR @ GSW L 38 20 9 22 40.9 1 9 11.1 1 2 50.0 0 6 6 8 0 0 2 2 -15
+p39
+aVSteve Blake POR 04/08/2015 POR vs. MIN W 14 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 4 1 0 1 1 4
+p40
+aVLaMarcus Aldridge POR 04/08/2015 POR vs. MIN W 29 24 10 16 62.5 1 4 25.0 3 4 75.0 2 11 13 1 0 0 0 1 23
+p41
+aVRobin Lopez POR 04/08/2015 POR vs. MIN W 25 18 7 8 87.5 0 0 - 4 4 100.0 3 3 6 2 0 0 3 3 12
+p42
+aVNicolas Batum POR 04/08/2015 POR vs. MIN W 29 11 4 7 57.1 3 4 75.0 0 0 - 1 5 6 5 3 0 4 3 21
+p43
+aVAllen Crabbe POR 04/08/2015 POR vs. MIN W 7 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 1 0 0 0 2 0
+p44
+aVCJ McCollum POR 04/08/2015 POR vs. MIN W 25 13 6 12 50.0 1 5 20.0 0 0 - 0 3 3 1 2 0 2 2 10
+p45
+aVTim Frazier POR 04/08/2015 POR vs. MIN W 5 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 1 0
+p46
+aVMeyers Leonard POR 04/08/2015 POR vs. MIN W 19 6 2 5 40.0 1 1 100.0 1 1 100.0 2 8 10 2 0 0 1 1 2
+p47
+aVJoel Freeland POR 04/08/2015 POR vs. MIN W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p48
+aVAlonzo Gee POR 04/08/2015 POR vs. MIN W 5 6 1 2 50.0 1 1 100.0 3 4 75.0 1 0 1 1 1 0 1 2 0
+p49
+aVDamian Lillard POR 04/08/2015 POR vs. MIN W 29 17 4 13 30.8 3 8 37.5 6 6 100.0 0 2 2 6 0 1 1 2 21
+p50
+aVArron Afflalo POR 04/08/2015 POR vs. MIN W 29 4 1 7 14.3 0 4 0.0 2 2 100.0 0 3 3 1 0 0 0 3 19
+p51
+aVChris Kaman POR 04/08/2015 POR vs. MIN W 16 6 3 4 75.0 0 0 - 0 0 - 3 4 7 1 1 1 2 2 12
+p52
+aVAlonzo Gee POR 04/06/2015 POR @ BKN L 12 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 1 0 -10
+p53
+aVDamian Lillard POR 04/06/2015 POR @ BKN L 39 36 14 26 53.8 6 11 54.5 2 2 100.0 1 3 4 2 0 1 2 2 -9
+p54
+aVMeyers Leonard POR 04/06/2015 POR @ BKN L 37 17 8 13 61.5 1 3 33.3 0 0 - 2 13 15 4 2 0 3 5 -10
+p55
+aVArron Afflalo POR 04/06/2015 POR @ BKN L 37 10 4 11 36.4 2 5 40.0 0 0 - 0 5 5 1 0 0 1 4 -8
+p56
+aVJoel Freeland POR 04/06/2015 POR @ BKN L 14 2 1 4 25.0 0 0 - 0 0 - 2 4 6 1 0 0 0 4 9
+p57
+aVTim Frazier POR 04/06/2015 POR @ BKN L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p58
+aVSteve Blake POR 04/06/2015 POR @ BKN L 19 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 4 1 0 2 1 -14
+p59
+aVRobin Lopez POR 04/06/2015 POR @ BKN L 33 8 4 11 36.4 0 0 - 0 0 - 3 4 7 2 0 2 1 2 -9
+p60
+aVAllen Crabbe POR 04/06/2015 POR @ BKN L 15 6 1 4 25.0 1 2 50.0 3 4 75.0 1 1 2 0 0 0 0 0 1
+p61
+aVCJ McCollum POR 04/06/2015 POR @ BKN L 34 15 6 12 50.0 1 2 50.0 2 3 66.7 0 6 6 2 1 0 2 3 -2
+p62
+aVSteve Blake POR 04/04/2015 POR vs. NOP W 14 8 3 7 42.9 2 4 50.0 0 0 - 1 2 3 3 0 0 1 0 7
+p63
+aVDamian Lillard POR 04/04/2015 POR vs. NOP W 35 19 7 19 36.8 0 3 0.0 5 5 100.0 0 1 1 4 0 0 4 1 0
+p64
+aVCJ McCollum POR 04/04/2015 POR vs. NOP W 26 10 4 9 44.4 1 2 50.0 1 2 50.0 0 1 1 2 0 0 0 2 21
+p65
+aVChris Kaman POR 04/04/2015 POR vs. NOP W 21 16 7 10 70.0 0 0 - 2 2 100.0 6 5 11 1 2 0 0 0 29
+p66
+aVLaMarcus Aldridge POR 04/04/2015 POR vs. NOP W 37 21 7 18 38.9 0 1 0.0 7 8 87.5 3 9 12 1 2 1 1 2 9
+p67
+aVNicolas Batum POR 04/04/2015 POR vs. NOP W 37 7 1 4 25.0 1 2 50.0 4 4 100.0 1 4 5 3 0 1 1 0 2
+p68
+aVArron Afflalo POR 04/04/2015 POR vs. NOP W 33 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 2 2 -3
+p69
+aVRobin Lopez POR 04/04/2015 POR vs. NOP W 26 8 3 7 42.9 0 0 - 2 2 100.0 6 6 12 0 0 1 1 2 -20
+p70
+aVMeyers Leonard POR 04/04/2015 POR vs. NOP W 11 5 2 4 50.0 1 2 50.0 0 0 - 1 3 4 1 0 0 0 0 0
+p71
+aVNicolas Batum POR 04/03/2015 POR @ LAL W 27 7 3 9 33.3 1 5 20.0 0 0 - 1 9 10 4 0 0 1 1 3
+p72
+aVDamian Lillard POR 04/03/2015 POR @ LAL W 28 20 8 15 53.3 4 8 50.0 0 0 - 0 3 3 5 2 0 2 2 3
+p73
+aVAllen Crabbe POR 04/03/2015 POR @ LAL W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p74
+aVAlonzo Gee POR 04/03/2015 POR @ LAL W 5 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 0 0 1 0 0 1
+p75
+aVArron Afflalo POR 04/03/2015 POR @ LAL W 32 17 5 15 33.3 3 5 60.0 4 4 100.0 0 1 1 1 1 0 0 1 23
+p76
+aVRobin Lopez POR 04/03/2015 POR @ LAL W 25 10 4 4 100.0 0 0 - 2 2 100.0 0 4 4 0 0 2 1 1 35
+p77
+aVSteve Blake POR 04/03/2015 POR @ LAL W 15 0 0 0 - 0 0 - 0 0 - 0 0 0 5 0 0 1 1 26
+p78
+aVTim Frazier POR 04/03/2015 POR @ LAL W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 2 0 1 1 1
+p79
+aVLaMarcus Aldridge POR 04/03/2015 POR @ LAL W 29 14 7 15 46.7 0 2 0.0 0 0 - 2 6 8 1 0 1 2 0 2
+p80
+aVCJ McCollum POR 04/03/2015 POR @ LAL W 27 27 10 16 62.5 2 4 50.0 5 5 100.0 1 5 6 3 2 0 0 3 32
+p81
+aVJoel Freeland POR 04/03/2015 POR @ LAL W 7 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 0 0
+p82
+aVChris Kaman POR 04/03/2015 POR @ LAL W 16 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 0 0 0 -5
+p83
+aVMeyers Leonard POR 04/03/2015 POR @ LAL W 19 0 0 1 0.0 0 0 - 0 0 - 0 11 11 2 0 1 0 3 28
+p84
+aVDorell Wright POR 04/01/2015 POR vs. LAC L 17 6 1 4 25.0 0 3 0.0 4 5 80.0 1 6 7 1 0 0 0 0 -13
+p85
+aVRobin Lopez POR 04/01/2015 POR vs. LAC L 27 7 3 9 33.3 0 0 - 1 2 50.0 3 5 8 0 0 1 0 1 -17
+p86
+aVLaMarcus Aldridge POR 04/01/2015 POR vs. LAC L 37 29 10 22 45.5 0 1 0.0 9 11 81.8 3 3 6 2 1 0 1 3 -8
+p87
+aVJoel Freeland POR 04/01/2015 POR vs. LAC L 11 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 2 0 4 4
+p88
+aVNicolas Batum POR 04/01/2015 POR vs. LAC L 33 21 7 11 63.6 5 7 71.4 2 3 66.7 2 2 4 4 3 0 2 3 0
+p89
+aVCJ McCollum POR 04/01/2015 POR vs. LAC L 13 13 5 6 83.3 3 4 75.0 0 0 - 0 0 0 1 0 0 0 0 3
+p90
+aVChris Kaman POR 04/01/2015 POR vs. LAC L 19 8 3 6 50.0 0 0 - 2 2 100.0 2 5 7 1 0 0 1 1 9
+p91
+aVSteve Blake POR 04/01/2015 POR vs. LAC L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 1
+p92
+aVDamian Lillard POR 04/01/2015 POR vs. LAC L 36 18 7 14 50.0 3 6 50.0 1 2 50.0 0 3 3 10 0 0 2 4 -6
+p93
+aVArron Afflalo POR 04/01/2015 POR vs. LAC L 33 14 6 11 54.5 2 3 66.7 0 0 - 2 3 5 3 0 0 1 3 7
+p94
+aVChris Kaman POR 03/30/2015 POR vs. PHX W 16 12 6 7 85.7 0 0 - 0 0 - 1 6 7 0 0 1 1 0 17
+p95
+aVAllen Crabbe POR 03/30/2015 POR vs. PHX W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 -3
+p96
+aVRobin Lopez POR 03/30/2015 POR vs. PHX W 20 8 4 6 66.7 0 0 - 0 0 - 1 4 5 1 0 1 0 1 16
+p97
+aVDamian Lillard POR 03/30/2015 POR vs. PHX W 29 19 7 14 50.0 2 6 33.3 3 4 75.0 0 4 4 7 1 0 1 2 16
+p98
+aVMeyers Leonard POR 03/30/2015 POR vs. PHX W 12 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 1 0 1 1 2 -4
+p99
+aVArron Afflalo POR 03/30/2015 POR vs. PHX W 26 16 6 11 54.5 2 3 66.7 2 2 100.0 1 1 2 0 0 1 1 1 20
+p100
+aVSteve Blake POR 03/30/2015 POR vs. PHX W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 5 1 0 1 0 10
+p101
+aVCJ McCollum POR 03/30/2015 POR vs. PHX W 23 4 2 7 28.6 0 3 0.0 0 0 - 2 2 4 3 3 1 4 2 5
+p102
+aVJoel Freeland POR 03/30/2015 POR vs. PHX W 11 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -6
+p103
+aVAlonzo Gee POR 03/30/2015 POR vs. PHX W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p104
+aVLaMarcus Aldridge POR 03/30/2015 POR vs. PHX W 30 17 6 14 42.9 1 2 50.0 4 4 100.0 0 7 7 3 1 0 1 0 25
+p105
+aVNicolas Batum POR 03/30/2015 POR vs. PHX W 28 16 6 10 60.0 4 6 66.7 0 0 - 2 3 5 5 0 0 2 1 23
+p106
+aVDorell Wright POR 03/30/2015 POR vs. PHX W 15 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 0
+p107
+aVLaMarcus Aldridge POR 03/28/2015 POR vs. DEN W 35 32 13 20 65.0 1 2 50.0 5 6 83.3 0 11 11 2 0 0 2 1 15
+p108
+aVRobin Lopez POR 03/28/2015 POR vs. DEN W 30 12 3 6 50.0 0 0 - 6 6 100.0 3 5 8 1 0 2 1 2 2
+p109
+aVNicolas Batum POR 03/28/2015 POR vs. DEN W 37 15 6 8 75.0 3 5 60.0 0 0 - 0 2 2 7 2 0 1 1 -2
+p110
+aVJoel Freeland POR 03/28/2015 POR vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p111
+aVDorell Wright POR 03/28/2015 POR vs. DEN W 20 3 1 5 20.0 0 1 0.0 1 2 50.0 1 2 3 2 0 1 0 3 7
+p112
+aVArron Afflalo POR 03/28/2015 POR vs. DEN W 29 21 8 11 72.7 1 1 100.0 4 4 100.0 0 5 5 0 2 0 4 4 12
+p113
+aVCJ McCollum POR 03/28/2015 POR vs. DEN W 19 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 0 1 0 0 0 -10
+p114
+aVSteve Blake POR 03/28/2015 POR vs. DEN W 18 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 5 2 0 2 0 5
+p115
+aVDamian Lillard POR 03/28/2015 POR vs. DEN W 30 8 4 11 36.4 0 3 0.0 0 0 - 0 3 3 10 1 0 3 4 5
+p116
+aVChris Kaman POR 03/28/2015 POR vs. DEN W 17 14 7 12 58.3 0 0 - 0 0 - 4 5 9 2 0 2 3 2 3
+p117
+aVCJ McCollum POR 03/27/2015 POR @ PHX W 18 6 2 6 33.3 1 2 50.0 1 4 25.0 1 0 1 2 0 1 1 3 -3
+p118
+aVArron Afflalo POR 03/27/2015 POR @ PHX W 30 4 2 6 33.3 0 3 0.0 0 0 - 1 3 4 0 0 0 0 1 6
+p119
+aVDorell Wright POR 03/27/2015 POR @ PHX W 20 8 3 8 37.5 1 5 20.0 1 1 100.0 0 5 5 1 1 1 0 1 6
+p120
+aVJoel Freeland POR 03/27/2015 POR @ PHX W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -5
+p121
+aVSteve Blake POR 03/27/2015 POR @ PHX W 17 10 4 8 50.0 2 4 50.0 0 0 - 0 0 0 1 0 0 1 0 2
+p122
+aVLaMarcus Aldridge POR 03/27/2015 POR @ PHX W 35 27 13 26 50.0 0 2 0.0 1 4 25.0 2 7 9 1 1 1 0 2 8
+p123
+aVChris Kaman POR 03/27/2015 POR @ PHX W 18 4 2 8 25.0 0 0 - 0 0 - 3 8 11 0 1 0 1 3 -3
+p124
+aVRobin Lopez POR 03/27/2015 POR @ PHX W 29 12 5 6 83.3 0 0 - 2 5 40.0 6 4 10 0 1 1 3 4 12
+p125
+aVDamian Lillard POR 03/27/2015 POR @ PHX W 33 11 4 15 26.7 2 6 33.3 1 2 50.0 0 4 4 4 0 0 3 2 6
+p126
+aVNicolas Batum POR 03/27/2015 POR @ PHX W 32 5 1 6 16.7 1 4 25.0 2 2 100.0 1 8 9 5 0 0 4 2 1
+p127
+aVArron Afflalo POR 03/25/2015 POR @ UTA W 27 7 3 8 37.5 0 3 0.0 1 2 50.0 0 1 1 3 1 0 1 4 11
+p128
+aVAllen Crabbe POR 03/25/2015 POR @ UTA W 30 8 3 6 50.0 2 4 50.0 0 0 - 0 5 5 0 0 1 1 4 5
+p129
+aVSteve Blake POR 03/25/2015 POR @ UTA W 17 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 2 0 0 1 0 10
+p130
+aVCJ McCollum POR 03/25/2015 POR @ UTA W 21 7 3 6 50.0 0 1 0.0 1 2 50.0 1 3 4 0 1 1 2 1 -8
+p131
+aVLaMarcus Aldridge POR 03/25/2015 POR @ UTA W 36 19 7 18 38.9 0 2 0.0 5 6 83.3 2 7 9 0 0 1 4 1 -7
+p132
+aVDamian Lillard POR 03/25/2015 POR @ UTA W 40 23 6 16 37.5 1 6 16.7 10 10 100.0 1 7 8 12 1 0 2 2 6
+p133
+aVJoel Freeland POR 03/25/2015 POR @ UTA W 19 6 3 3 100.0 0 0 - 0 0 - 2 3 5 0 0 1 1 3 0
+p134
+aVRobin Lopez POR 03/25/2015 POR @ UTA W 22 4 2 6 33.3 0 0 - 0 0 - 4 2 6 0 0 1 2 1 -3
+p135
+aVDorell Wright POR 03/25/2015 POR @ UTA W 27 15 6 14 42.9 3 7 42.9 0 0 - 1 4 5 2 1 0 0 2 1
+p136
+aVArron Afflalo POR 03/24/2015 POR vs. GSW L 28 9 4 10 40.0 1 4 25.0 0 0 - 0 1 1 2 0 0 2 1 -18
+p137
+aVDorell Wright POR 03/24/2015 POR vs. GSW L 21 12 4 10 40.0 2 4 50.0 2 2 100.0 1 4 5 2 0 0 0 0 -4
+p138
+aVAllen Crabbe POR 03/24/2015 POR vs. GSW L 23 6 2 7 28.6 1 4 25.0 1 2 50.0 0 1 1 2 2 0 0 2 -9
+p139
+aVAlonzo Gee POR 03/24/2015 POR vs. GSW L 31 10 5 10 50.0 0 1 0.0 0 0 - 3 0 3 2 1 0 0 3 -8
+p140
+aVRobin Lopez POR 03/24/2015 POR vs. GSW L 21 2 1 5 20.0 0 0 - 0 0 - 3 4 7 3 0 1 0 0 -11
+p141
+aVSteve Blake POR 03/24/2015 POR vs. GSW L 15 10 2 4 50.0 2 4 50.0 4 4 100.0 0 1 1 5 1 0 1 2 1
+p142
+aVDamian Lillard POR 03/24/2015 POR vs. GSW L 33 29 9 21 42.9 6 11 54.5 5 5 100.0 3 4 7 5 1 1 4 1 -15
+p143
+aVJoel Freeland POR 03/24/2015 POR vs. GSW L 23 7 3 6 50.0 0 0 - 1 2 50.0 0 4 4 0 1 0 0 2 2
+p144
+aVMeyers Leonard POR 03/24/2015 POR vs. GSW L 15 0 0 1 0.0 0 1 0.0 0 0 - 2 3 5 0 0 0 1 1 -4
+p145
+aVCJ McCollum POR 03/24/2015 POR vs. GSW L 29 23 9 18 50.0 3 5 60.0 2 4 50.0 0 1 1 2 3 0 2 2 -4
+p146
+aVAlonzo Gee POR 03/21/2015 POR @ MEM L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p147
+aVArron Afflalo POR 03/21/2015 POR @ MEM L 36 8 3 6 50.0 0 1 0.0 2 3 66.7 0 3 3 1 0 0 0 3 3
+p148
+aVDorell Wright POR 03/21/2015 POR @ MEM L 25 10 4 11 36.4 2 4 50.0 0 0 - 1 5 6 2 2 1 2 1 16
+p149
+aVRobin Lopez POR 03/21/2015 POR @ MEM L 32 8 4 7 57.1 0 0 - 0 0 - 3 4 7 1 1 1 1 1 -11
+p150
+aVSteve Blake POR 03/21/2015 POR @ MEM L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 2 0 0 0 1 10
+p151
+aVCJ McCollum POR 03/21/2015 POR @ MEM L 26 13 5 11 45.5 2 5 40.0 1 1 100.0 0 6 6 1 1 0 3 3 4
+p152
+aVLaMarcus Aldridge POR 03/21/2015 POR @ MEM L 18 16 7 12 58.3 0 1 0.0 2 2 100.0 0 5 5 0 0 1 2 1 -20
+p153
+aVNicolas Batum POR 03/21/2015 POR @ MEM L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 1 -19
+p154
+aVJoel Freeland POR 03/21/2015 POR @ MEM L 20 2 1 3 33.3 0 0 - 0 0 - 1 6 7 1 1 0 0 2 0
+p155
+aVMeyers Leonard POR 03/21/2015 POR @ MEM L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 3 2 -13
+p156
+aVDamian Lillard POR 03/21/2015 POR @ MEM L 39 27 8 18 44.4 2 6 33.3 9 9 100.0 0 3 3 7 0 0 5 2 -21
+p157
+aVCJ McCollum POR 03/20/2015 POR @ ORL L 19 15 5 9 55.6 2 4 50.0 3 4 75.0 0 0 0 0 1 0 1 5 8
+p158
+aVDamian Lillard POR 03/20/2015 POR @ ORL L 37 18 6 15 40.0 0 5 0.0 6 6 100.0 1 3 4 4 1 0 1 1 -6
+p159
+aVRobin Lopez POR 03/20/2015 POR @ ORL L 26 10 3 4 75.0 0 0 - 4 4 100.0 3 0 3 0 0 0 1 1 -3
+p160
+aVDorell Wright POR 03/20/2015 POR @ ORL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p161
+aVJoel Freeland POR 03/20/2015 POR @ ORL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p162
+aVLaMarcus Aldridge POR 03/20/2015 POR @ ORL L 36 31 12 24 50.0 2 4 50.0 5 6 83.3 1 9 10 2 0 1 0 1 -7
+p163
+aVChris Kaman POR 03/20/2015 POR @ ORL L 9 8 4 4 100.0 0 0 - 0 1 0.0 2 2 4 0 0 0 1 1 -7
+p164
+aVAlonzo Gee POR 03/20/2015 POR @ ORL L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 7
+p165
+aVMeyers Leonard POR 03/20/2015 POR @ ORL L 16 5 2 5 40.0 1 3 33.3 0 0 - 2 3 5 2 0 0 1 2 4
+p166
+aVAllen Crabbe POR 03/20/2015 POR @ ORL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p167
+aVNicolas Batum POR 03/20/2015 POR @ ORL L 34 8 2 5 40.0 1 3 33.3 3 3 100.0 2 9 11 4 1 0 5 3 -8
+p168
+aVArron Afflalo POR 03/20/2015 POR @ ORL L 32 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 0 0 1 3 2 -20
+p169
+aVSteve Blake POR 03/20/2015 POR @ ORL L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p170
+aVRobin Lopez POR 03/18/2015 POR @ MIA L 30 6 2 5 40.0 0 0 - 2 2 100.0 5 1 6 1 0 1 3 2 0
+p171
+aVMeyers Leonard POR 03/18/2015 POR @ MIA L 11 5 1 4 25.0 0 1 0.0 3 3 100.0 1 2 3 1 0 0 1 1 -5
+p172
+aVDorell Wright POR 03/18/2015 POR @ MIA L 16 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 0 0 0 3 3
+p173
+aVSteve Blake POR 03/18/2015 POR @ MIA L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 6 0 0 4 1 10
+p174
+aVDamian Lillard POR 03/18/2015 POR @ MIA L 35 17 7 13 53.8 2 5 40.0 1 3 33.3 0 3 3 3 1 0 4 1 -12
+p175
+aVNicolas Batum POR 03/18/2015 POR @ MIA L 32 8 3 6 50.0 1 3 33.3 1 2 50.0 0 4 4 6 1 0 0 0 -6
+p176
+aVChris Kaman POR 03/18/2015 POR @ MIA L 18 9 4 5 80.0 0 0 - 1 2 50.0 6 7 13 2 0 0 1 0 -2
+p177
+aVCJ McCollum POR 03/18/2015 POR @ MIA L 14 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 3 4
+p178
+aVLaMarcus Aldridge POR 03/18/2015 POR @ MIA L 37 34 15 24 62.5 1 2 50.0 3 7 42.9 1 11 12 2 1 1 1 2 1
+p179
+aVArron Afflalo POR 03/18/2015 POR @ MIA L 33 15 5 13 38.5 4 6 66.7 1 2 50.0 0 3 3 1 0 0 0 2 -13
+p180
+aVRobin Lopez POR 03/16/2015 POR @ WAS L 30 8 3 6 50.0 0 0 - 2 3 66.7 1 3 4 0 0 0 2 2 -19
+p181
+aVLaMarcus Aldridge POR 03/16/2015 POR @ WAS L 38 24 10 19 52.6 0 1 0.0 4 6 66.7 8 4 12 3 0 1 1 2 -2
+p182
+aVDamian Lillard POR 03/16/2015 POR @ WAS L 39 14 5 18 27.8 2 8 25.0 2 2 100.0 0 4 4 9 0 1 3 2 -5
+p183
+aVMeyers Leonard POR 03/16/2015 POR @ WAS L 15 2 1 6 16.7 0 2 0.0 0 0 - 1 3 4 0 0 0 1 0 12
+p184
+aVCJ McCollum POR 03/16/2015 POR @ WAS L 18 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 1 11
+p185
+aVArron Afflalo POR 03/16/2015 POR @ WAS L 27 15 5 9 55.6 2 5 40.0 3 3 100.0 1 1 2 0 0 0 0 4 -8
+p186
+aVSteve Blake POR 03/16/2015 POR @ WAS L 12 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 1 -15
+p187
+aVNicolas Batum POR 03/16/2015 POR @ WAS L 40 12 4 12 33.3 2 6 33.3 2 2 100.0 1 14 15 5 1 1 2 2 -6
+p188
+aVDorell Wright POR 03/16/2015 POR @ WAS L 8 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 4 -2
+p189
+aVChris Kaman POR 03/16/2015 POR @ WAS L 13 12 5 8 62.5 0 0 - 2 2 100.0 2 2 4 0 0 0 1 1 -6
+p190
+aVAllen Crabbe POR 03/15/2015 POR @ TOR W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p191
+aVCJ McCollum POR 03/15/2015 POR @ TOR W 16 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 1 0 0 0 3 2
+p192
+aVMeyers Leonard POR 03/15/2015 POR @ TOR W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 1 0 1
+p193
+aVLaMarcus Aldridge POR 03/15/2015 POR @ TOR W 35 24 9 14 64.3 0 1 0.0 6 8 75.0 0 10 10 5 0 0 0 0 12
+p194
+aVChris Kaman POR 03/15/2015 POR @ TOR W 17 6 3 4 75.0 0 0 - 0 0 - 2 1 3 2 0 2 0 2 -6
+p195
+aVSteve Blake POR 03/15/2015 POR @ TOR W 21 9 3 6 50.0 3 6 50.0 0 0 - 1 3 4 1 0 0 2 1 2
+p196
+aVDorell Wright POR 03/15/2015 POR @ TOR W 11 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 1 3
+p197
+aVAlonzo Gee POR 03/15/2015 POR @ TOR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p198
+aVNicolas Batum POR 03/15/2015 POR @ TOR W 34 10 3 5 60.0 2 2 100.0 2 2 100.0 2 2 4 12 3 0 1 2 17
+p199
+aVArron Afflalo POR 03/15/2015 POR @ TOR W 31 14 5 14 35.7 4 6 66.7 0 0 - 0 1 1 0 0 0 1 2 20
+p200
+aVRobin Lopez POR 03/15/2015 POR @ TOR W 29 11 5 8 62.5 0 0 - 1 4 25.0 2 4 6 1 0 3 1 1 22
+p201
+aVDamian Lillard POR 03/15/2015 POR @ TOR W 35 23 10 20 50.0 2 8 25.0 1 2 50.0 0 4 4 5 2 0 3 2 7
+p202
+aVCJ McCollum POR 03/13/2015 POR vs. DET W 22 5 2 9 22.2 1 3 33.3 0 0 - 0 0 0 4 0 0 2 3 8
+p203
+aVDorell Wright POR 03/13/2015 POR vs. DET W 17 4 2 3 66.7 0 1 0.0 0 0 - 0 4 4 1 1 0 0 0 5
+p204
+aVSteve Blake POR 03/13/2015 POR vs. DET W 15 0 0 0 - 0 0 - 0 0 - 0 0 0 7 0 0 0 0 5
+p205
+aVMeyers Leonard POR 03/13/2015 POR vs. DET W 20 15 6 7 85.7 2 3 66.7 1 1 100.0 0 7 7 0 0 0 1 3 7
+p206
+aVArron Afflalo POR 03/13/2015 POR vs. DET W 27 15 5 9 55.6 2 4 50.0 3 3 100.0 0 4 4 1 0 0 1 1 12
+p207
+aVChris Kaman POR 03/13/2015 POR vs. DET W 18 14 7 10 70.0 0 0 - 0 1 0.0 2 4 6 1 0 0 1 1 10
+p208
+aVDamian Lillard POR 03/13/2015 POR vs. DET W 29 28 9 12 75.0 5 7 71.4 5 6 83.3 0 2 2 9 0 0 1 0 13
+p209
+aVJoel Freeland POR 03/13/2015 POR vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p210
+aVRobin Lopez POR 03/13/2015 POR vs. DET W 26 11 5 8 62.5 0 0 - 1 1 100.0 3 1 4 1 1 2 1 1 10
+p211
+aVAllen Crabbe POR 03/13/2015 POR vs. DET W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p212
+aVLaMarcus Aldridge POR 03/13/2015 POR vs. DET W 28 22 9 16 56.3 1 1 100.0 3 3 100.0 2 5 7 1 0 0 2 2 12
+p213
+aVNicolas Batum POR 03/13/2015 POR vs. DET W 30 4 1 4 25.0 0 1 0.0 2 2 100.0 0 8 8 2 0 0 1 1 13
+p214
+aVMeyers Leonard POR 03/11/2015 POR vs. HOU W 9 8 3 4 75.0 2 3 66.7 0 0 - 0 3 3 0 0 0 0 1 1
+p215
+aVRobin Lopez POR 03/11/2015 POR vs. HOU W 30 16 7 10 70.0 0 1 0.0 2 3 66.7 4 6 10 0 0 1 0 2 1
+p216
+aVAlonzo Gee POR 03/11/2015 POR vs. HOU W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -4
+p217
+aVSteve Blake POR 03/11/2015 POR vs. HOU W 20 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 4 1 0 2 1 13
+p218
+aVLaMarcus Aldridge POR 03/11/2015 POR vs. HOU W 33 26 12 20 60.0 1 3 33.3 1 1 100.0 6 8 14 1 0 1 5 5 -1
+p219
+aVArron Afflalo POR 03/11/2015 POR vs. HOU W 34 9 2 13 15.4 1 7 14.3 4 4 100.0 0 5 5 1 1 0 3 3 -9
+p220
+aVNicolas Batum POR 03/11/2015 POR vs. HOU W 40 18 7 13 53.8 3 6 50.0 1 2 50.0 0 9 9 6 1 0 4 1 11
+p221
+aVChris Kaman POR 03/11/2015 POR vs. HOU W 17 6 3 6 50.0 0 0 - 0 0 - 4 6 10 0 0 0 2 1 4
+p222
+aVDamian Lillard POR 03/11/2015 POR vs. HOU W 35 14 5 16 31.3 1 5 20.0 3 4 75.0 1 4 5 8 0 0 3 2 -1
+p223
+aVCJ McCollum POR 03/11/2015 POR vs. HOU W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 7
+p224
+aVDorell Wright POR 03/11/2015 POR vs. HOU W 10 3 1 4 25.0 1 4 25.0 0 0 - 1 0 1 1 0 0 0 0 3
+p225
+aVRobin Lopez POR 03/07/2015 POR @ MIN L 28 7 2 3 66.7 0 0 - 3 4 75.0 3 2 5 0 0 3 0 1 -9
+p226
+aVCJ McCollum POR 03/07/2015 POR @ MIN L 18 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p227
+aVSteve Blake POR 03/07/2015 POR @ MIN L 13 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 5 0 0 0 2 -4
+p228
+aVChris Kaman POR 03/07/2015 POR @ MIN L 19 8 3 5 60.0 0 0 - 2 2 100.0 3 3 6 1 1 0 4 1 2
+p229
+aVAlonzo Gee POR 03/07/2015 POR @ MIN L 5 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 1 0 0 1 -4
+p230
+aVNicolas Batum POR 03/07/2015 POR @ MIN L 38 17 7 12 58.3 3 5 60.0 0 0 - 1 6 7 3 0 0 2 4 -6
+p231
+aVDamian Lillard POR 03/07/2015 POR @ MIN L 38 32 11 23 47.8 4 8 50.0 6 6 100.0 1 6 7 8 1 0 2 3 -7
+p232
+aVDorell Wright POR 03/07/2015 POR @ MIN L 11 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 0 0 0 0 2 4
+p233
+aVLaMarcus Aldridge POR 03/07/2015 POR @ MIN L 39 21 10 20 50.0 0 1 0.0 1 1 100.0 1 7 8 0 0 0 1 1 -13
+p234
+aVArron Afflalo POR 03/07/2015 POR @ MIN L 32 14 5 12 41.7 3 5 60.0 1 2 50.0 0 0 0 1 0 0 1 6 0
+p235
+aVDorell Wright POR 03/05/2015 POR vs. DAL W 13 8 3 4 75.0 2 2 100.0 0 0 - 1 0 1 1 0 0 0 3 12
+p236
+aVRobin Lopez POR 03/05/2015 POR vs. DAL W 26 13 5 10 50.0 0 0 - 3 4 75.0 4 3 7 1 1 3 1 3 11
+p237
+aVSteve Blake POR 03/05/2015 POR vs. DAL W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 1
+p238
+aVChris Kaman POR 03/05/2015 POR vs. DAL W 16 6 2 7 28.6 0 0 - 2 2 100.0 1 6 7 1 1 0 3 1 4
+p239
+aVDamian Lillard POR 03/05/2015 POR vs. DAL W 31 14 4 10 40.0 2 5 40.0 4 4 100.0 0 6 6 5 2 0 5 3 16
+p240
+aVArron Afflalo POR 03/05/2015 POR vs. DAL W 29 6 2 9 22.2 0 3 0.0 2 2 100.0 0 3 3 2 0 0 0 1 11
+p241
+aVCJ McCollum POR 03/05/2015 POR vs. DAL W 8 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 0 0
+p242
+aVJoel Freeland POR 03/05/2015 POR vs. DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 0 2
+p243
+aVMeyers Leonard POR 03/05/2015 POR vs. DAL W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p244
+aVLaMarcus Aldridge POR 03/05/2015 POR vs. DAL W 34 17 7 16 43.8 1 2 50.0 2 2 100.0 2 10 12 0 0 0 0 2 14
+p245
+aVAlonzo Gee POR 03/05/2015 POR vs. DAL W 9 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 4
+p246
+aVNicolas Batum POR 03/05/2015 POR vs. DAL W 36 15 6 12 50.0 2 5 40.0 1 1 100.0 0 12 12 6 0 1 3 1 7
+p247
+aVWesley Matthews POR 03/05/2015 POR vs. DAL W 18 4 1 5 20.0 0 3 0.0 2 2 100.0 0 1 1 3 2 0 2 0 11
+p248
+aVSteve Blake POR 03/04/2015 POR @ LAC W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -8
+p249
+aVRobin Lopez POR 03/04/2015 POR @ LAC W 31 11 4 6 66.7 0 0 - 3 4 75.0 6 1 7 1 0 1 0 3 -3
+p250
+aVMeyers Leonard POR 03/04/2015 POR @ LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p251
+aVDorell Wright POR 03/04/2015 POR @ LAC W 7 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 -4
+p252
+aVArron Afflalo POR 03/04/2015 POR @ LAC W 33 7 2 7 28.6 1 4 25.0 2 2 100.0 0 4 4 3 0 0 3 1 13
+p253
+aVChris Kaman POR 03/04/2015 POR @ LAC W 16 8 4 6 66.7 0 0 - 0 0 - 1 6 7 0 0 0 2 1 -3
+p254
+aVLaMarcus Aldridge POR 03/04/2015 POR @ LAC W 44 29 12 30 40.0 0 2 0.0 5 7 71.4 1 8 9 0 0 1 1 3 9
+p255
+aVDamian Lillard POR 03/04/2015 POR @ LAC W 43 5 1 13 7.7 0 7 0.0 3 4 75.0 1 17 18 4 0 0 5 4 14
+p256
+aVWesley Matthews POR 03/04/2015 POR @ LAC W 39 12 3 9 33.3 2 8 25.0 4 6 66.7 0 8 8 2 2 0 2 5 8
+p257
+aVNicolas Batum POR 03/04/2015 POR @ LAC W 40 20 6 11 54.5 4 8 50.0 4 4 100.0 1 6 7 8 1 2 1 3 -1
+p258
+aVChris Kaman POR 03/01/2015 POR @ SAC W 18 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -11
+p259
+aVNicolas Batum POR 03/01/2015 POR @ SAC W 31 2 1 6 16.7 0 4 0.0 0 0 - 2 2 4 5 1 0 1 3 18
+p260
+aVArron Afflalo POR 03/01/2015 POR @ SAC W 27 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 1 1 0 4 2 -9
+p261
+aVJoel Freeland POR 03/01/2015 POR @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p262
+aVLaMarcus Aldridge POR 03/01/2015 POR @ SAC W 39 26 9 25 36.0 0 3 0.0 8 9 88.9 3 12 15 2 0 0 2 2 21
+p263
+aVDamian Lillard POR 03/01/2015 POR @ SAC W 36 31 11 20 55.0 3 5 60.0 6 6 100.0 0 4 4 7 0 1 2 1 23
+p264
+aVMeyers Leonard POR 03/01/2015 POR @ SAC W 8 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 0 0 0 1 3 -12
+p265
+aVAlonzo Gee POR 03/01/2015 POR @ SAC W 6 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 0 1 0 1 1 9
+p266
+aVSteve Blake POR 03/01/2015 POR @ SAC W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 2 1 0 5 1 -12
+p267
+aVWesley Matthews POR 03/01/2015 POR @ SAC W 33 17 6 8 75.0 3 5 60.0 2 2 100.0 0 4 4 1 1 1 0 3 4
+p268
+aVRobin Lopez POR 03/01/2015 POR @ SAC W 30 15 7 9 77.8 0 0 - 1 1 100.0 4 4 8 0 0 1 1 3 22
+p269
+aVDamian Lillard POR 02/27/2015 POR vs. OKC W 37 29 10 22 45.5 2 7 28.6 7 8 87.5 0 3 3 5 1 0 1 1 12
+p270
+aVWesley Matthews POR 02/27/2015 POR vs. OKC W 33 8 2 13 15.4 2 6 33.3 2 2 100.0 1 5 6 3 3 1 1 1 3
+p271
+aVLaMarcus Aldridge POR 02/27/2015 POR vs. OKC W 39 29 10 23 43.5 0 2 0.0 9 10 90.0 7 9 16 5 1 1 1 2 12
+p272
+aVArron Afflalo POR 02/27/2015 POR vs. OKC W 31 18 5 6 83.3 2 3 66.7 6 8 75.0 0 2 2 2 0 0 1 4 -2
+p273
+aVNicolas Batum POR 02/27/2015 POR vs. OKC W 39 9 2 6 33.3 2 5 40.0 3 3 100.0 0 4 4 3 2 1 3 2 13
+p274
+aVSteve Blake POR 02/27/2015 POR vs. OKC W 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 -9
+p275
+aVDorell Wright POR 02/27/2015 POR vs. OKC W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 6
+p276
+aVMeyers Leonard POR 02/27/2015 POR vs. OKC W 6 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 1 0 2 -10
+p277
+aVChris Kaman POR 02/27/2015 POR vs. OKC W 14 8 4 6 66.7 0 0 - 0 0 - 2 5 7 0 0 0 0 0 -6
+p278
+aVRobin Lopez POR 02/27/2015 POR vs. OKC W 26 8 4 8 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 0 -4
+p279
+aVDamian Lillard POR 02/25/2015 POR vs. SAS W 34 18 7 15 46.7 3 4 75.0 1 1 100.0 1 6 7 5 1 0 3 2 15
+p280
+aVSteve Blake POR 02/25/2015 POR vs. SAS W 17 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 4 1 0 0 1 -1
+p281
+aVRobin Lopez POR 02/25/2015 POR vs. SAS W 26 6 2 3 66.7 0 0 - 2 2 100.0 1 4 5 1 0 2 0 1 13
+p282
+aVArron Afflalo POR 02/25/2015 POR vs. SAS W 25 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 0 1 0 2 1 -4
+p283
+aVWesley Matthews POR 02/25/2015 POR vs. SAS W 34 31 11 18 61.1 4 10 40.0 5 7 71.4 2 3 5 3 3 0 0 2 23
+p284
+aVLaMarcus Aldridge POR 02/25/2015 POR vs. SAS W 35 11 5 19 26.3 0 1 0.0 1 2 50.0 2 11 13 1 1 0 1 2 20
+p285
+aVDorell Wright POR 02/25/2015 POR vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -2
+p286
+aVMeyers Leonard POR 02/25/2015 POR vs. SAS W 11 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 2 -3
+p287
+aVAllen Crabbe POR 02/25/2015 POR vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p288
+aVNicolas Batum POR 02/25/2015 POR vs. SAS W 37 15 6 8 75.0 3 5 60.0 0 0 - 3 1 4 9 2 1 5 1 21
+p289
+aVAlonzo Gee POR 02/25/2015 POR vs. SAS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p290
+aVCJ McCollum POR 02/25/2015 POR vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p291
+aVChris Kaman POR 02/25/2015 POR vs. SAS W 18 11 4 5 80.0 0 0 - 3 3 100.0 3 3 6 0 0 0 1 3 4
+p292
+aVMeyers Leonard POR 02/22/2015 POR vs. MEM L 17 11 4 8 50.0 3 5 60.0 0 0 - 0 1 1 0 0 0 0 5 -11
+p293
+aVChris Kaman POR 02/22/2015 POR vs. MEM L 24 6 2 7 28.6 0 0 - 2 2 100.0 1 8 9 3 0 1 1 3 21
+p294
+aVRobin Lopez POR 02/22/2015 POR vs. MEM L 37 6 3 9 33.3 0 0 - 0 0 - 6 1 7 2 1 2 1 0 -11
+p295
+aVDamian Lillard POR 02/22/2015 POR vs. MEM L 35 18 7 17 41.2 2 8 25.0 2 4 50.0 0 5 5 7 0 0 4 1 -23
+p296
+aVDorell Wright POR 02/22/2015 POR vs. MEM L 17 9 4 9 44.4 0 2 0.0 1 1 100.0 0 5 5 1 1 0 1 1 -7
+p297
+aVNicolas Batum POR 02/22/2015 POR vs. MEM L 36 17 7 13 53.8 3 7 42.9 0 0 - 1 9 10 5 0 1 2 0 -15
+p298
+aVArron Afflalo POR 02/22/2015 POR vs. MEM L 24 8 2 6 33.3 1 3 33.3 3 4 75.0 0 4 4 2 1 0 2 1 16
+p299
+aVSteve Blake POR 02/22/2015 POR vs. MEM L 14 13 4 6 66.7 4 4 100.0 1 1 100.0 0 3 3 1 0 0 2 2 9
+p300
+aVWesley Matthews POR 02/22/2015 POR vs. MEM L 36 4 0 7 0.0 0 4 0.0 4 4 100.0 0 2 2 3 1 0 2 2 -9
+p301
+aVRobin Lopez POR 02/20/2015 POR @ UTA L 29 8 2 6 33.3 0 0 - 4 4 100.0 2 2 4 0 0 1 0 4 2
+p302
+aVWesley Matthews POR 02/20/2015 POR @ UTA L 32 13 4 9 44.4 1 5 20.0 4 4 100.0 0 7 7 2 1 0 0 0 -9
+p303
+aVSteve Blake POR 02/20/2015 POR @ UTA L 20 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 4 3 -19
+p304
+aVMeyers Leonard POR 02/20/2015 POR @ UTA L 14 0 0 5 0.0 0 4 0.0 0 0 - 0 4 4 0 1 0 0 0 -20
+p305
+aVNicolas Batum POR 02/20/2015 POR @ UTA L 34 8 3 6 50.0 0 1 0.0 2 2 100.0 1 4 5 3 2 1 1 0 -2
+p306
+aVLaMarcus Aldridge POR 02/20/2015 POR @ UTA L 34 14 5 16 31.3 0 0 - 4 5 80.0 0 8 8 2 0 0 0 2 4
+p307
+aVChris Kaman POR 02/20/2015 POR @ UTA L 16 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 2 1 3 -21
+p308
+aVDorell Wright POR 02/20/2015 POR @ UTA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p309
+aVCJ McCollum POR 02/20/2015 POR @ UTA L 21 6 2 8 25.0 0 2 0.0 2 3 66.7 0 2 2 1 1 1 2 1 -17
+p310
+aVAllen Crabbe POR 02/20/2015 POR @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p311
+aVDamian Lillard POR 02/20/2015 POR @ UTA L 35 19 7 15 46.7 3 9 33.3 2 2 100.0 0 4 4 2 0 0 5 0 -4
+p312
+aVWesley Matthews POR 02/11/2015 POR vs. LAL W 29 20 7 14 50.0 3 7 42.9 3 3 100.0 2 3 5 3 2 0 1 3 9
+p313
+aVMeyers Leonard POR 02/11/2015 POR vs. LAL W 24 11 4 6 66.7 3 5 60.0 0 0 - 4 3 7 0 0 0 0 1 3
+p314
+aVNicolas Batum POR 02/11/2015 POR vs. LAL W 33 7 2 6 33.3 1 4 25.0 2 2 100.0 1 7 8 6 0 0 2 1 23
+p315
+aVSteve Blake POR 02/11/2015 POR vs. LAL W 23 5 1 4 25.0 1 3 33.3 2 2 100.0 0 1 1 3 0 1 3 1 3
+p316
+aVDamian Lillard POR 02/11/2015 POR vs. LAL W 28 15 5 8 62.5 0 3 0.0 5 5 100.0 1 0 1 8 1 0 2 3 22
+p317
+aVAllen Crabbe POR 02/11/2015 POR vs. LAL W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p318
+aVWill Barton POR 02/11/2015 POR vs. LAL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -3
+p319
+aVCJ McCollum POR 02/11/2015 POR vs. LAL W 23 10 4 11 36.4 2 5 40.0 0 0 - 0 4 4 2 0 0 0 2 -3
+p320
+aVRobin Lopez POR 02/11/2015 POR vs. LAL W 27 10 3 8 37.5 0 0 - 4 5 80.0 4 5 9 2 0 3 1 0 13
+p321
+aVLaMarcus Aldridge POR 02/11/2015 POR vs. LAL W 28 18 6 20 30.0 0 1 0.0 6 6 100.0 1 11 12 2 1 1 0 0 20
+p322
+aVVictor Claver POR 02/11/2015 POR vs. LAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p323
+aVThomas Robinson POR 02/11/2015 POR vs. LAL W 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 0 0 1 0 -1
+p324
+aVWesley Matthews POR 02/08/2015 POR @ HOU W 33 6 2 9 22.2 2 6 33.3 0 0 - 0 3 3 2 2 0 0 2 7
+p325
+aVRobin Lopez POR 02/08/2015 POR @ HOU W 31 14 6 7 85.7 0 0 - 2 3 66.7 0 3 3 1 0 0 0 3 16
+p326
+aVSteve Blake POR 02/08/2015 POR @ HOU W 21 7 3 5 60.0 1 2 50.0 0 1 0.0 1 3 4 3 0 0 2 1 0
+p327
+aVChris Kaman POR 02/08/2015 POR @ HOU W 14 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 -2
+p328
+aVNicolas Batum POR 02/08/2015 POR @ HOU W 29 5 2 6 33.3 1 4 25.0 0 0 - 0 7 7 4 1 0 3 1 -1
+p329
+aVCJ McCollum POR 02/08/2015 POR @ HOU W 16 12 5 7 71.4 2 4 50.0 0 0 - 0 2 2 0 1 0 0 0 10
+p330
+aVMeyers Leonard POR 02/08/2015 POR @ HOU W 15 12 5 9 55.6 2 4 50.0 0 0 - 0 6 6 1 0 1 0 2 10
+p331
+aVWill Barton POR 02/08/2015 POR @ HOU W 8 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 1 10
+p332
+aVLaMarcus Aldridge POR 02/08/2015 POR @ HOU W 36 24 8 17 47.1 0 3 0.0 8 8 100.0 2 3 5 2 2 2 4 4 -2
+p333
+aVDamian Lillard POR 02/08/2015 POR @ HOU W 37 23 6 10 60.0 1 5 20.0 10 11 90.9 0 5 5 5 2 0 1 3 7
+p334
+aVLaMarcus Aldridge POR 02/07/2015 POR @ DAL L 42 25 11 22 50.0 0 1 0.0 3 5 60.0 3 11 14 1 0 0 3 0 -6
+p335
+aVSteve Blake POR 02/07/2015 POR @ DAL L 20 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 7 2 0 2 2 1
+p336
+aVCJ McCollum POR 02/07/2015 POR @ DAL L 15 9 2 6 33.3 2 4 50.0 3 4 75.0 0 1 1 1 1 0 1 0 6
+p337
+aVMeyers Leonard POR 02/07/2015 POR @ DAL L 12 5 2 2 100.0 1 1 100.0 0 0 - 0 4 4 1 0 0 3 3 0
+p338
+aVNicolas Batum POR 02/07/2015 POR @ DAL L 42 2 0 8 0.0 0 5 0.0 2 2 100.0 2 8 10 4 0 0 0 2 -14
+p339
+aVWesley Matthews POR 02/07/2015 POR @ DAL L 40 17 7 14 50.0 3 8 37.5 0 2 0.0 3 5 8 3 4 0 1 3 -15
+p340
+aVDamian Lillard POR 02/07/2015 POR @ DAL L 42 26 7 19 36.8 4 10 40.0 8 9 88.9 2 5 7 7 4 2 5 5 -11
+p341
+aVRobin Lopez POR 02/07/2015 POR @ DAL L 37 11 5 8 62.5 0 0 - 1 2 50.0 5 3 8 0 0 1 5 5 -16
+p342
+aVChris Kaman POR 02/07/2015 POR @ DAL L 16 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 1 2 1 5
+p343
+aVCJ McCollum POR 02/05/2015 POR vs. PHX W 20 12 4 7 57.1 1 4 25.0 3 3 100.0 0 4 4 2 1 0 1 1 8
+p344
+aVLaMarcus Aldridge POR 02/05/2015 POR vs. PHX W 35 19 7 18 38.9 0 2 0.0 5 6 83.3 3 10 13 1 1 2 4 3 7
+p345
+aVSteve Blake POR 02/05/2015 POR vs. PHX W 23 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 4 2 0 0 2 21
+p346
+aVAllen Crabbe POR 02/05/2015 POR vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p347
+aVWill Barton POR 02/05/2015 POR vs. PHX W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 2
+p348
+aVMeyers Leonard POR 02/05/2015 POR vs. PHX W 24 8 3 5 60.0 0 1 0.0 2 2 100.0 2 6 8 0 0 0 2 1 15
+p349
+aVRobin Lopez POR 02/05/2015 POR vs. PHX W 31 11 5 10 50.0 0 0 - 1 2 50.0 6 6 12 0 0 4 1 3 8
+p350
+aVDamian Lillard POR 02/05/2015 POR vs. PHX W 33 13 6 15 40.0 0 5 0.0 1 2 50.0 1 3 4 3 2 1 2 0 13
+p351
+aVNicolas Batum POR 02/05/2015 POR vs. PHX W 36 20 6 13 46.2 2 6 33.3 6 6 100.0 1 3 4 7 1 0 2 1 13
+p352
+aVWesley Matthews POR 02/05/2015 POR vs. PHX W 32 14 5 15 33.3 2 8 25.0 2 2 100.0 0 8 8 3 0 0 1 1 12
+p353
+aVThomas Robinson POR 02/05/2015 POR vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p354
+aVVictor Claver POR 02/05/2015 POR vs. PHX W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p355
+aVLaMarcus Aldridge POR 02/03/2015 POR vs. UTA W 37 22 8 16 50.0 0 2 0.0 6 9 66.7 4 7 11 0 1 1 2 2 5
+p356
+aVCJ McCollum POR 02/03/2015 POR vs. UTA W 9 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 0
+p357
+aVWesley Matthews POR 02/03/2015 POR vs. UTA W 35 21 6 10 60.0 3 5 60.0 6 7 85.7 1 2 3 2 3 0 3 2 -13
+p358
+aVSteve Blake POR 02/03/2015 POR vs. UTA W 22 7 2 4 50.0 2 3 66.7 1 2 50.0 0 1 1 2 1 0 2 2 -5
+p359
+aVDamian Lillard POR 02/03/2015 POR vs. UTA W 37 25 10 17 58.8 0 6 0.0 5 7 71.4 0 4 4 6 2 0 1 3 12
+p360
+aVMeyers Leonard POR 02/03/2015 POR vs. UTA W 12 4 2 5 40.0 0 2 0.0 0 0 - 2 2 4 0 0 0 2 3 -2
+p361
+aVAllen Crabbe POR 02/03/2015 POR vs. UTA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p362
+aVRobin Lopez POR 02/03/2015 POR vs. UTA W 25 11 5 9 55.6 0 0 - 1 3 33.3 3 3 6 0 0 2 2 3 12
+p363
+aVNicolas Batum POR 02/03/2015 POR vs. UTA W 35 10 2 7 28.6 1 2 50.0 5 6 83.3 0 8 8 6 1 2 2 1 11
+p364
+aVChris Kaman POR 02/03/2015 POR vs. UTA W 21 0 0 3 0.0 0 0 - 0 0 - 1 4 5 2 0 1 0 2 -12
+p365
+aVWill Barton POR 01/31/2015 POR @ MIL L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -7
+p366
+aVDamian Lillard POR 01/31/2015 POR @ MIL L 38 19 6 19 31.6 1 10 10.0 6 7 85.7 1 4 5 9 3 1 6 2 -4
+p367
+aVMeyers Leonard POR 01/31/2015 POR @ MIL L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 0 0
+p368
+aVNicolas Batum POR 01/31/2015 POR @ MIL L 37 5 2 8 25.0 1 4 25.0 0 0 - 3 4 7 4 2 0 4 0 -3
+p369
+aVThomas Robinson POR 01/31/2015 POR @ MIL L 24 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 3 1 1 4 10
+p370
+aVDorell Wright POR 01/31/2015 POR @ MIL L 14 6 2 8 25.0 2 4 50.0 0 0 - 0 3 3 0 0 0 0 1 -8
+p371
+aVChris Kaman POR 01/31/2015 POR @ MIL L 10 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -8
+p372
+aVVictor Claver POR 01/31/2015 POR @ MIL L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 6
+p373
+aVCJ McCollum POR 01/31/2015 POR @ MIL L 11 5 2 4 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 -5
+p374
+aVAllen Crabbe POR 01/31/2015 POR @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 6
+p375
+aVSteve Blake POR 01/31/2015 POR @ MIL L 12 0 0 3 0.0 0 2 0.0 0 1 0.0 0 1 1 1 0 0 0 0 -14
+p376
+aVLaMarcus Aldridge POR 01/31/2015 POR @ MIL L 39 18 7 18 38.9 0 2 0.0 4 4 100.0 4 9 13 0 0 0 3 2 -7
+p377
+aVWesley Matthews POR 01/31/2015 POR @ MIL L 34 19 7 15 46.7 4 7 57.1 1 3 33.3 1 3 4 3 2 1 2 3 -1
+p378
+aVChris Kaman POR 01/30/2015 POR @ ATL L 25 8 4 8 50.0 0 0 - 0 0 - 4 4 8 0 1 0 2 1 -10
+p379
+aVWill Barton POR 01/30/2015 POR @ ATL L 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p380
+aVLaMarcus Aldridge POR 01/30/2015 POR @ ATL L 38 37 15 24 62.5 2 3 66.7 5 5 100.0 1 10 11 2 2 1 1 4 3
+p381
+aVSteve Blake POR 01/30/2015 POR @ ATL L 21 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 7 0 0 1 3 -6
+p382
+aVDorell Wright POR 01/30/2015 POR @ ATL L 15 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 0 1 0 2 2 -14
+p383
+aVWesley Matthews POR 01/30/2015 POR @ ATL L 38 16 4 13 30.8 3 9 33.3 5 6 83.3 0 1 1 3 0 0 2 3 -6
+p384
+aVMeyers Leonard POR 01/30/2015 POR @ ATL L 19 3 1 1 100.0 1 1 100.0 0 0 - 0 8 8 0 0 1 0 2 14
+p385
+aVNicolas Batum POR 01/30/2015 POR @ ATL L 32 7 3 9 33.3 1 3 33.3 0 0 - 2 3 5 2 0 0 3 2 -8
+p386
+aVDamian Lillard POR 01/30/2015 POR @ ATL L 40 13 6 20 30.0 1 9 11.1 0 0 - 1 5 6 11 3 1 6 3 -1
+p387
+aVWesley Matthews POR 01/28/2015 POR @ CLE L 33 11 4 10 40.0 3 8 37.5 0 1 0.0 1 1 2 2 1 0 2 3 -9
+p388
+aVMeyers Leonard POR 01/28/2015 POR @ CLE L 22 9 4 6 66.7 1 3 33.3 0 0 - 2 0 2 0 0 0 0 3 1
+p389
+aVDamian Lillard POR 01/28/2015 POR @ CLE L 38 14 4 19 21.1 3 10 30.0 3 4 75.0 0 0 0 5 0 1 1 2 0
+p390
+aVWill Barton POR 01/28/2015 POR @ CLE L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 0 1 0 2 1 -1
+p391
+aVSteve Blake POR 01/28/2015 POR @ CLE L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -2
+p392
+aVNicolas Batum POR 01/28/2015 POR @ CLE L 39 7 3 8 37.5 1 5 20.0 0 0 - 1 3 4 7 2 1 0 2 0
+p393
+aVThomas Robinson POR 01/28/2015 POR @ CLE L 5 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -2
+p394
+aVDorell Wright POR 01/28/2015 POR @ CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p395
+aVLaMarcus Aldridge POR 01/28/2015 POR @ CLE L 41 38 13 23 56.5 2 3 66.7 10 10 100.0 3 8 11 2 1 2 2 3 -6
+p396
+aVCJ McCollum POR 01/28/2015 POR @ CLE L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p397
+aVChris Kaman POR 01/28/2015 POR @ CLE L 28 7 3 5 60.0 0 0 - 1 2 50.0 2 11 13 1 0 1 0 3 -1
+p398
+aVWill Barton POR 01/24/2015 POR vs. WAS W 22 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 2 0 1 1 0 15
+p399
+aVMeyers Leonard POR 01/24/2015 POR vs. WAS W 21 9 2 3 66.7 2 3 66.7 3 3 100.0 1 1 2 1 1 0 0 4 12
+p400
+aVLaMarcus Aldridge POR 01/24/2015 POR vs. WAS W 36 26 9 22 40.9 0 1 0.0 8 8 100.0 2 7 9 3 2 0 2 2 1
+p401
+aVCJ McCollum POR 01/24/2015 POR vs. WAS W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p402
+aVDorell Wright POR 01/24/2015 POR vs. WAS W 21 10 3 5 60.0 3 5 60.0 1 1 100.0 1 5 6 3 0 0 0 0 16
+p403
+aVChris Kaman POR 01/24/2015 POR vs. WAS W 25 6 3 9 33.3 0 0 - 0 0 - 2 8 10 0 1 0 2 0 1
+p404
+aVAllen Crabbe POR 01/24/2015 POR vs. WAS W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -10
+p405
+aVWesley Matthews POR 01/24/2015 POR vs. WAS W 35 19 7 19 36.8 5 11 45.5 0 0 - 0 3 3 3 1 0 0 2 7
+p406
+aVSteve Blake POR 01/24/2015 POR vs. WAS W 17 4 2 6 33.3 0 3 0.0 0 0 - 1 2 3 2 1 0 1 2 -2
+p407
+aVDamian Lillard POR 01/24/2015 POR vs. WAS W 36 20 5 13 38.5 2 6 33.3 8 8 100.0 0 3 3 7 1 0 2 2 2
+p408
+aVThomas Robinson POR 01/24/2015 POR vs. WAS W 14 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 0 4 1 -2
+p409
+aVWill Barton POR 01/22/2015 POR vs. BOS L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -1
+p410
+aVDorell Wright POR 01/22/2015 POR vs. BOS L 10 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 0 2 1 0 0 4
+p411
+aVSteve Blake POR 01/22/2015 POR vs. BOS L 17 3 0 2 0.0 0 2 0.0 3 3 100.0 1 2 3 1 0 0 1 1 -11
+p412
+aVChris Kaman POR 01/22/2015 POR vs. BOS L 29 13 6 11 54.5 0 0 - 1 2 50.0 3 6 9 1 0 0 2 1 4
+p413
+aVThomas Robinson POR 01/22/2015 POR vs. BOS L 28 9 4 7 57.1 0 0 - 1 3 33.3 6 6 12 1 1 2 1 3 4
+p414
+aVDamian Lillard POR 01/22/2015 POR vs. BOS L 35 21 8 23 34.8 2 5 40.0 3 3 100.0 2 4 6 7 1 0 1 2 2
+p415
+aVNicolas Batum POR 01/22/2015 POR vs. BOS L 22 0 0 6 0.0 0 2 0.0 0 0 - 0 3 3 4 0 0 0 0 -2
+p416
+aVWesley Matthews POR 01/22/2015 POR vs. BOS L 37 18 6 15 40.0 4 8 50.0 2 3 66.7 0 3 3 0 2 1 1 1 2
+p417
+aVCJ McCollum POR 01/22/2015 POR vs. BOS L 16 10 4 10 40.0 1 3 33.3 1 1 100.0 0 0 0 0 1 0 2 0 1
+p418
+aVMeyers Leonard POR 01/22/2015 POR vs. BOS L 25 7 3 7 42.9 1 4 25.0 0 0 - 1 5 6 1 1 1 0 3 -8
+p419
+aVVictor Claver POR 01/22/2015 POR vs. BOS L 12 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 1 1 1 0
+p420
+aVChris Kaman POR 01/21/2015 POR @ PHX L 21 14 7 9 77.8 0 0 - 0 2 0.0 3 3 6 0 0 1 2 0 -9
+p421
+aVSteve Blake POR 01/21/2015 POR @ PHX L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p422
+aVDamian Lillard POR 01/21/2015 POR @ PHX L 41 22 6 22 27.3 2 10 20.0 8 8 100.0 0 3 3 6 2 0 5 2 5
+p423
+aVThomas Robinson POR 01/21/2015 POR @ PHX L 17 6 3 3 100.0 0 0 - 0 0 - 1 6 7 1 0 2 0 2 -6
+p424
+aVCJ McCollum POR 01/21/2015 POR @ PHX L 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -15
+p425
+aVDorell Wright POR 01/21/2015 POR @ PHX L 35 15 4 10 40.0 3 6 50.0 4 6 66.7 0 3 3 5 2 0 2 6 10
+p426
+aVWesley Matthews POR 01/21/2015 POR @ PHX L 36 22 8 17 47.1 2 5 40.0 4 4 100.0 0 6 6 2 2 0 2 4 3
+p427
+aVWill Barton POR 01/21/2015 POR @ PHX L 14 5 1 3 33.3 0 1 0.0 3 4 75.0 0 0 0 0 1 0 0 0 -9
+p428
+aVMeyers Leonard POR 01/21/2015 POR @ PHX L 19 0 0 1 0.0 0 0 - 0 0 - 2 6 8 1 1 0 1 2 -9
+p429
+aVNicolas Batum POR 01/21/2015 POR @ PHX L 39 27 9 15 60.0 6 8 75.0 3 4 75.0 3 7 10 5 0 1 2 1 7
+p430
+aVNicolas Batum POR 01/19/2015 POR vs. SAC W 33 8 2 8 25.0 1 4 25.0 3 4 75.0 0 4 4 4 0 0 2 2 -9
+p431
+aVLaMarcus Aldridge POR 01/19/2015 POR vs. SAC W 14 10 4 7 57.1 2 2 100.0 0 0 - 0 1 1 1 2 0 2 0 -6
+p432
+aVSteve Blake POR 01/19/2015 POR vs. SAC W 14 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 3 1 0 1 1 14
+p433
+aVWill Barton POR 01/19/2015 POR vs. SAC W 15 6 3 7 42.9 0 0 - 0 1 0.0 1 1 2 1 1 1 0 1 13
+p434
+aVThomas Robinson POR 01/19/2015 POR vs. SAC W 21 5 1 2 50.0 0 0 - 3 6 50.0 2 4 6 1 3 0 2 4 17
+p435
+aVDorell Wright POR 01/19/2015 POR vs. SAC W 16 9 3 6 50.0 1 3 33.3 2 2 100.0 0 2 2 3 2 0 2 2 8
+p436
+aVChris Kaman POR 01/19/2015 POR vs. SAC W 19 4 2 7 28.6 0 0 - 0 0 - 1 3 4 1 0 1 1 3 -7
+p437
+aVVictor Claver POR 01/19/2015 POR vs. SAC W 7 3 1 2 50.0 1 2 50.0 0 0 - 1 2 3 0 0 0 0 2 -6
+p438
+aVDamian Lillard POR 01/19/2015 POR vs. SAC W 38 22 6 19 31.6 2 9 22.2 8 11 72.7 2 4 6 5 3 0 0 1 -5
+p439
+aVWesley Matthews POR 01/19/2015 POR vs. SAC W 37 17 7 20 35.0 2 12 16.7 1 2 50.0 0 3 3 1 3 0 1 2 4
+p440
+aVCJ McCollum POR 01/19/2015 POR vs. SAC W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -4
+p441
+aVMeyers Leonard POR 01/19/2015 POR vs. SAC W 19 9 4 5 80.0 1 1 100.0 0 0 - 2 1 3 1 0 1 2 3 1
+p442
+aVDorell Wright POR 01/17/2015 POR @ MEM L 15 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 7
+p443
+aVMeyers Leonard POR 01/17/2015 POR @ MEM L 18 2 1 4 25.0 0 3 0.0 0 0 - 0 4 4 0 0 0 2 5 -4
+p444
+aVThomas Robinson POR 01/17/2015 POR @ MEM L 4 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -8
+p445
+aVCJ McCollum POR 01/17/2015 POR @ MEM L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -4
+p446
+aVChris Kaman POR 01/17/2015 POR @ MEM L 30 4 2 9 22.2 0 0 - 0 0 - 7 4 11 0 1 1 0 4 -2
+p447
+aVSteve Blake POR 01/17/2015 POR @ MEM L 17 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 8 1 0 0 1 0
+p448
+aVWesley Matthews POR 01/17/2015 POR @ MEM L 39 25 9 18 50.0 7 14 50.0 0 0 - 0 4 4 1 0 0 0 2 -1
+p449
+aVLaMarcus Aldridge POR 01/17/2015 POR @ MEM L 39 32 11 22 50.0 1 1 100.0 9 10 90.0 3 6 9 2 1 3 2 5 5
+p450
+aVNicolas Batum POR 01/17/2015 POR @ MEM L 31 3 1 6 16.7 1 3 33.3 0 0 - 1 1 2 3 1 1 1 1 -9
+p451
+aVDamian Lillard POR 01/17/2015 POR @ MEM L 41 23 9 26 34.6 3 10 30.0 2 3 66.7 3 3 6 6 2 0 2 2 -4
+p452
+aVMeyers Leonard POR 01/16/2015 POR @ SAS L 22 12 4 4 100.0 2 2 100.0 2 2 100.0 0 3 3 1 0 2 1 3 -8
+p453
+aVAllen Crabbe POR 01/16/2015 POR @ SAS L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 9
+p454
+aVThomas Robinson POR 01/16/2015 POR @ SAS L 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 0 10
+p455
+aVCJ McCollum POR 01/16/2015 POR @ SAS L 20 17 7 10 70.0 2 2 100.0 1 4 25.0 0 2 2 0 1 0 2 1 -2
+p456
+aVNicolas Batum POR 01/16/2015 POR @ SAS L 30 5 2 7 28.6 1 4 25.0 0 0 - 0 4 4 2 1 1 5 2 -17
+p457
+aVWill Barton POR 01/16/2015 POR @ SAS L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 9
+p458
+aVLaMarcus Aldridge POR 01/16/2015 POR @ SAS L 35 24 9 18 50.0 0 0 - 6 6 100.0 0 8 8 3 1 1 3 1 -20
+p459
+aVVictor Claver POR 01/16/2015 POR @ SAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 9
+p460
+aVChris Kaman POR 01/16/2015 POR @ SAS L 24 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 2 0 2 1 3 -19
+p461
+aVDamian Lillard POR 01/16/2015 POR @ SAS L 36 23 9 17 52.9 0 5 0.0 5 6 83.3 0 2 2 5 0 0 1 2 -22
+p462
+aVSteve Blake POR 01/16/2015 POR @ SAS L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 1 -5
+p463
+aVWesley Matthews POR 01/16/2015 POR @ SAS L 29 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 2 1 0 2 2 -13
+p464
+aVDorell Wright POR 01/16/2015 POR @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p465
+aVChris Kaman POR 01/14/2015 POR vs. LAC L 27 15 7 11 63.6 0 0 - 1 1 100.0 3 8 11 1 1 0 3 4 -14
+p466
+aVLaMarcus Aldridge POR 01/14/2015 POR vs. LAC L 38 37 14 28 50.0 0 2 0.0 9 9 100.0 4 8 12 0 1 1 1 1 -11
+p467
+aVNicolas Batum POR 01/14/2015 POR vs. LAC L 35 4 0 5 0.0 0 3 0.0 4 4 100.0 0 5 5 6 1 0 3 0 -9
+p468
+aVMeyers Leonard POR 01/14/2015 POR vs. LAC L 31 11 4 7 57.1 0 0 - 3 4 75.0 2 8 10 3 0 0 0 4 14
+p469
+aVSteve Blake POR 01/14/2015 POR vs. LAC L 20 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 5 0 0 2 0 1
+p470
+aVDamian Lillard POR 01/14/2015 POR vs. LAC L 37 15 5 16 31.3 4 9 44.4 1 2 50.0 0 3 3 4 1 0 3 3 -6
+p471
+aVCJ McCollum POR 01/14/2015 POR vs. LAC L 18 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 3 0 0 0 1 8
+p472
+aVWesley Matthews POR 01/14/2015 POR vs. LAC L 35 8 3 13 23.1 2 8 25.0 0 0 - 2 3 5 0 1 0 0 5 -13
+p473
+aVChris Kaman POR 01/11/2015 POR @ LAL W 32 9 4 10 40.0 0 0 - 1 1 100.0 3 9 12 3 2 0 0 2 13
+p474
+aVThomas Robinson POR 01/11/2015 POR @ LAL W 7 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -3
+p475
+aVNicolas Batum POR 01/11/2015 POR @ LAL W 33 11 4 7 57.1 1 3 33.3 2 4 50.0 1 8 9 6 0 0 1 1 6
+p476
+aVDorell Wright POR 01/11/2015 POR @ LAL W 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 1 12
+p477
+aVCJ McCollum POR 01/11/2015 POR @ LAL W 12 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 1 -1
+p478
+aVWesley Matthews POR 01/11/2015 POR @ LAL W 35 16 6 11 54.5 3 7 42.9 1 2 50.0 0 0 0 5 2 0 3 3 5
+p479
+aVSteve Blake POR 01/11/2015 POR @ LAL W 19 9 3 8 37.5 3 7 42.9 0 0 - 0 1 1 2 0 0 1 2 4
+p480
+aVDamian Lillard POR 01/11/2015 POR @ LAL W 37 34 13 23 56.5 4 8 50.0 4 5 80.0 0 3 3 7 0 0 3 2 13
+p481
+aVMeyers Leonard POR 01/11/2015 POR @ LAL W 21 10 4 5 80.0 1 2 50.0 1 1 100.0 0 4 4 0 1 0 1 4 4
+p482
+aVLaMarcus Aldridge POR 01/11/2015 POR @ LAL W 36 15 7 18 38.9 1 2 50.0 0 0 - 1 8 9 3 0 0 1 0 7
+p483
+aVDamian Lillard POR 01/10/2015 POR vs. ORL W 35 16 3 10 30.0 2 8 25.0 8 10 80.0 1 4 5 5 1 0 4 0 6
+p484
+aVDorell Wright POR 01/10/2015 POR vs. ORL W 13 7 1 1 100.0 1 1 100.0 4 5 80.0 0 1 1 1 0 0 0 1 1
+p485
+aVCJ McCollum POR 01/10/2015 POR vs. ORL W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p486
+aVMeyers Leonard POR 01/10/2015 POR vs. ORL W 20 11 4 7 57.1 1 3 33.3 2 2 100.0 0 6 6 1 0 0 1 2 8
+p487
+aVWill Barton POR 01/10/2015 POR vs. ORL W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 1
+p488
+aVNicolas Batum POR 01/10/2015 POR vs. ORL W 35 7 3 9 33.3 1 4 25.0 0 0 - 1 9 10 4 0 4 3 1 5
+p489
+aVThomas Robinson POR 01/10/2015 POR vs. ORL W 7 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 1
+p490
+aVSteve Blake POR 01/10/2015 POR vs. ORL W 20 1 0 3 0.0 0 2 0.0 1 2 50.0 1 1 2 3 0 0 1 0 8
+p491
+aVChris Kaman POR 01/10/2015 POR vs. ORL W 20 10 5 8 62.5 0 0 - 0 0 - 2 1 3 0 0 2 5 5 2
+p492
+aVWesley Matthews POR 01/10/2015 POR vs. ORL W 34 18 6 9 66.7 4 6 66.7 2 3 66.7 0 8 8 3 4 0 2 1 13
+p493
+aVLaMarcus Aldridge POR 01/10/2015 POR vs. ORL W 36 25 10 22 45.5 1 1 100.0 4 4 100.0 1 5 6 3 1 1 3 3 10
+p494
+aVChris Kaman POR 01/08/2015 POR vs. MIA W 21 10 4 9 44.4 0 0 - 2 2 100.0 4 5 9 0 0 2 1 4 12
+p495
+aVDorell Wright POR 01/08/2015 POR vs. MIA W 7 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 1 0 0 0 1 -6
+p496
+aVLaMarcus Aldridge POR 01/08/2015 POR vs. MIA W 33 24 11 20 55.0 0 0 - 2 3 66.7 6 6 12 0 0 0 2 2 25
+p497
+aVWesley Matthews POR 01/08/2015 POR vs. MIA W 30 18 6 10 60.0 3 5 60.0 3 4 75.0 0 2 2 5 1 1 1 1 22
+p498
+aVNicolas Batum POR 01/08/2015 POR vs. MIA W 30 8 3 10 30.0 0 4 0.0 2 4 50.0 1 8 9 4 2 0 0 1 22
+p499
+aVWill Barton POR 01/08/2015 POR vs. MIA W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -5
+p500
+aVThomas Robinson POR 01/08/2015 POR vs. MIA W 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -8
+p501
+aVSteve Blake POR 01/08/2015 POR vs. MIA W 19 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 5 1 0 1 1 -2
+p502
+aVMeyers Leonard POR 01/08/2015 POR vs. MIA W 20 4 2 7 28.6 0 2 0.0 0 0 - 2 7 9 0 1 0 0 2 14
+p503
+aVCJ McCollum POR 01/08/2015 POR vs. MIA W 10 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p504
+aVAllen Crabbe POR 01/08/2015 POR vs. MIA W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 4 1
+p505
+aVDamian Lillard POR 01/08/2015 POR vs. MIA W 33 16 6 17 35.3 2 8 25.0 2 2 100.0 0 0 0 3 0 2 1 2 18
+p506
+aVVictor Claver POR 01/08/2015 POR vs. MIA W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p507
+aVSteve Blake POR 01/05/2015 POR vs. LAL W 21 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 3 1 0 1 1 2
+p508
+aVWesley Matthews POR 01/05/2015 POR vs. LAL W 30 5 1 9 11.1 1 6 16.7 2 2 100.0 0 1 1 1 2 0 2 0 4
+p509
+aVChris Kaman POR 01/05/2015 POR vs. LAL W 27 8 3 8 37.5 0 0 - 2 2 100.0 5 6 11 3 0 3 2 2 -1
+p510
+aVMeyers Leonard POR 01/05/2015 POR vs. LAL W 19 12 4 5 80.0 3 4 75.0 1 1 100.0 2 10 12 0 0 0 0 3 10
+p511
+aVThomas Robinson POR 01/05/2015 POR vs. LAL W 13 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 0 1 0 0 2 -3
+p512
+aVNicolas Batum POR 01/05/2015 POR vs. LAL W 37 8 3 9 33.3 2 5 40.0 0 0 - 0 3 3 3 0 0 1 3 4
+p513
+aVLaMarcus Aldridge POR 01/05/2015 POR vs. LAL W 36 21 8 20 40.0 1 1 100.0 4 4 100.0 1 7 8 1 0 0 1 1 1
+p514
+aVCJ McCollum POR 01/05/2015 POR vs. LAL W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p515
+aVDamian Lillard POR 01/05/2015 POR vs. LAL W 39 39 12 21 57.1 4 8 50.0 11 13 84.6 2 4 6 5 2 1 1 0 4
+p516
+aVAllen Crabbe POR 01/05/2015 POR vs. LAL W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 0
+p517
+aVNicolas Batum POR 01/03/2015 POR vs. ATL L 37 16 7 14 50.0 2 8 25.0 0 0 - 0 4 4 3 2 1 3 1 -7
+p518
+aVChris Kaman POR 01/03/2015 POR vs. ATL L 15 2 1 4 25.0 0 0 - 0 0 - 0 7 7 3 0 0 3 1 -8
+p519
+aVThomas Robinson POR 01/03/2015 POR vs. ATL L 10 0 0 0 - 0 0 - 0 0 - 0 5 5 1 0 0 2 1 -14
+p520
+aVJoel Freeland POR 01/03/2015 POR vs. ATL L 18 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 1 0 3 0 4 3
+p521
+aVSteve Blake POR 01/03/2015 POR vs. ATL L 23 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 3 3 -11
+p522
+aVAllen Crabbe POR 01/03/2015 POR vs. ATL L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p523
+aVWesley Matthews POR 01/03/2015 POR vs. ATL L 34 19 5 14 35.7 4 10 40.0 5 5 100.0 1 0 1 3 1 0 0 2 9
+p524
+aVLaMarcus Aldridge POR 01/03/2015 POR vs. ATL L 39 30 14 25 56.0 0 0 - 2 2 100.0 5 7 12 4 1 2 4 1 -3
+p525
+aVDamian Lillard POR 01/03/2015 POR vs. ATL L 39 16 7 18 38.9 2 6 33.3 0 1 0.0 2 6 8 7 0 1 2 5 -7
+p526
+aVDorell Wright POR 01/03/2015 POR vs. ATL L 10 10 3 5 60.0 3 4 75.0 1 2 50.0 0 0 0 0 1 0 1 4 -6
+p527
+aVCJ McCollum POR 01/03/2015 POR vs. ATL L 8 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 1 5
+p528
+aVSteve Blake POR 12/30/2014 POR vs. TOR W 23 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 5
+p529
+aVNicolas Batum POR 12/30/2014 POR vs. TOR W 43 13 4 11 36.4 2 5 40.0 3 4 75.0 2 1 3 3 3 0 2 2 6
+p530
+aVWesley Matthews POR 12/30/2014 POR vs. TOR W 42 19 7 14 50.0 5 10 50.0 0 0 - 2 4 6 3 0 0 3 3 3
+p531
+aVCJ McCollum POR 12/30/2014 POR vs. TOR W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -7
+p532
+aVDamian Lillard POR 12/30/2014 POR vs. TOR W 46 26 9 24 37.5 4 15 26.7 4 5 80.0 0 2 2 9 1 2 2 3 11
+p533
+aVJoel Freeland POR 12/30/2014 POR vs. TOR W 32 2 1 5 20.0 0 0 - 0 0 - 5 7 12 0 1 2 1 1 -4
+p534
+aVLaMarcus Aldridge POR 12/30/2014 POR vs. TOR W 41 23 10 19 52.6 0 0 - 3 5 60.0 2 11 13 2 0 1 2 2 13
+p535
+aVChris Kaman POR 12/30/2014 POR vs. TOR W 17 10 4 9 44.4 0 0 - 2 2 100.0 3 5 8 1 0 1 1 2 -1
+p536
+aVDorell Wright POR 12/30/2014 POR vs. TOR W 16 4 1 7 14.3 0 3 0.0 2 2 100.0 1 3 4 2 0 2 2 0 -1
+p537
+aVDorell Wright POR 12/28/2014 POR vs. NYK W 13 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 2 4
+p538
+aVNicolas Batum POR 12/28/2014 POR vs. NYK W 28 17 6 8 75.0 5 7 71.4 0 0 - 0 1 1 3 1 1 3 1 22
+p539
+aVDamian Lillard POR 12/28/2014 POR vs. NYK W 30 11 4 11 36.4 2 6 33.3 1 2 50.0 0 4 4 6 2 0 2 0 14
+p540
+aVSteve Blake POR 12/28/2014 POR vs. NYK W 25 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 2 0 0 1 1 8
+p541
+aVAllen Crabbe POR 12/28/2014 POR vs. NYK W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 2 0 1 2
+p542
+aVMeyers Leonard POR 12/28/2014 POR vs. NYK W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p543
+aVCJ McCollum POR 12/28/2014 POR vs. NYK W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 3 0 0 0 2
+p544
+aVJoel Freeland POR 12/28/2014 POR vs. NYK W 25 10 5 7 71.4 0 0 - 0 0 - 1 9 10 2 0 2 1 2 23
+p545
+aVThomas Robinson POR 12/28/2014 POR vs. NYK W 13 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 0 1 0 2 0 15
+p546
+aVChris Kaman POR 12/28/2014 POR vs. NYK W 20 13 5 9 55.6 0 0 - 3 4 75.0 3 6 9 2 0 1 0 1 3
+p547
+aVWill Barton POR 12/28/2014 POR vs. NYK W 14 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 0 -4
+p548
+aVWesley Matthews POR 12/28/2014 POR vs. NYK W 32 28 10 21 47.6 6 15 40.0 2 2 100.0 0 4 4 5 0 1 0 2 20
+p549
+aVVictor Claver POR 12/28/2014 POR vs. NYK W 19 3 1 6 16.7 1 2 50.0 0 0 - 1 5 6 1 0 0 1 3 5
+p550
+aVVictor Claver POR 12/26/2014 POR vs. PHI W 17 5 2 4 50.0 1 1 100.0 0 0 - 1 2 3 0 1 0 1 5 7
+p551
+aVDorell Wright POR 12/26/2014 POR vs. PHI W 19 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 3 2 2 1 2 5
+p552
+aVThomas Robinson POR 12/26/2014 POR vs. PHI W 20 7 3 6 50.0 0 0 - 1 2 50.0 0 3 3 0 1 2 3 2 18
+p553
+aVMeyers Leonard POR 12/26/2014 POR vs. PHI W 15 3 1 4 25.0 0 1 0.0 1 2 50.0 2 5 7 0 0 1 1 2 -6
+p554
+aVWill Barton POR 12/26/2014 POR vs. PHI W 5 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 1 0 0 0 1
+p555
+aVJoel Freeland POR 12/26/2014 POR vs. PHI W 25 6 3 7 42.9 0 0 - 0 0 - 4 13 17 1 0 1 2 5 18
+p556
+aVCJ McCollum POR 12/26/2014 POR vs. PHI W 16 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 1 1 0 1 1 7
+p557
+aVDamian Lillard POR 12/26/2014 POR vs. PHI W 33 28 9 17 52.9 3 8 37.5 7 7 100.0 0 5 5 9 1 0 7 1 18
+p558
+aVNicolas Batum POR 12/26/2014 POR vs. PHI W 29 14 5 8 62.5 1 4 25.0 3 3 100.0 1 3 4 3 1 0 1 0 19
+p559
+aVWesley Matthews POR 12/26/2014 POR vs. PHI W 28 25 9 18 50.0 7 14 50.0 0 0 - 0 1 1 2 1 0 1 0 19
+p560
+aVSteve Blake POR 12/26/2014 POR vs. PHI W 19 3 1 4 25.0 1 4 25.0 0 0 - 1 1 2 5 1 0 1 1 -1
+p561
+aVAllen Crabbe POR 12/26/2014 POR vs. PHI W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 0 2 0 3 0
+p562
+aVChris Kaman POR 12/23/2014 POR @ OKC W 22 6 3 8 37.5 0 0 - 0 0 - 3 6 9 1 0 0 4 3 -6
+p563
+aVJoel Freeland POR 12/23/2014 POR @ OKC W 24 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 0 1 0 1 2 -8
+p564
+aVDorell Wright POR 12/23/2014 POR @ OKC W 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 13
+p565
+aVLaMarcus Aldridge POR 12/23/2014 POR @ OKC W 45 25 9 28 32.1 0 1 0.0 7 8 87.5 3 6 9 1 0 1 4 3 9
+p566
+aVDamian Lillard POR 12/23/2014 POR @ OKC W 46 40 11 21 52.4 8 12 66.7 10 11 90.9 1 5 6 11 2 0 2 1 17
+p567
+aVSteve Blake POR 12/23/2014 POR @ OKC W 35 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 5 0 0 1 5 5
+p568
+aVCJ McCollum POR 12/23/2014 POR @ OKC W 12 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 0 2 -21
+p569
+aVThomas Robinson POR 12/23/2014 POR @ OKC W 8 0 0 2 0.0 0 0 - 0 0 - 0 6 6 0 0 0 1 0 -2
+p570
+aVWesley Matthews POR 12/23/2014 POR @ OKC W 42 22 8 15 53.3 5 8 62.5 1 1 100.0 0 2 2 2 1 0 1 2 12
+p571
+aVAllen Crabbe POR 12/23/2014 POR @ OKC W 24 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 2 2 1 0 2 1
+p572
+aVWesley Matthews POR 12/22/2014 POR @ HOU L 26 14 5 10 50.0 3 5 60.0 1 1 100.0 1 2 3 2 0 0 0 4 -13
+p573
+aVNicolas Batum POR 12/22/2014 POR @ HOU L 24 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 3 0 0 1 1 -16
+p574
+aVDamian Lillard POR 12/22/2014 POR @ HOU L 32 18 6 16 37.5 0 5 0.0 6 6 100.0 1 2 3 3 1 0 6 1 -18
+p575
+aVAllen Crabbe POR 12/22/2014 POR @ HOU L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 2 1 4 0
+p576
+aVJoel Freeland POR 12/22/2014 POR @ HOU L 23 4 1 3 33.3 0 0 - 2 2 100.0 0 5 5 2 0 1 2 4 -6
+p577
+aVMeyers Leonard POR 12/22/2014 POR @ HOU L 32 13 5 11 45.5 3 7 42.9 0 0 - 0 4 4 0 0 1 2 3 8
+p578
+aVThomas Robinson POR 12/22/2014 POR @ HOU L 13 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 2 3 -10
+p579
+aVChris Kaman POR 12/22/2014 POR @ HOU L 15 9 4 7 57.1 0 0 - 1 2 50.0 2 4 6 1 1 0 3 0 -19
+p580
+aVCJ McCollum POR 12/22/2014 POR @ HOU L 27 17 6 9 66.7 2 3 66.7 3 3 100.0 0 3 3 3 3 1 1 0 0
+p581
+aVDorell Wright POR 12/22/2014 POR @ HOU L 8 4 0 1 0.0 0 1 0.0 4 4 100.0 1 1 2 1 0 0 0 1 -8
+p582
+aVVictor Claver POR 12/22/2014 POR @ HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 6
+p583
+aVWill Barton POR 12/22/2014 POR @ HOU L 12 4 2 6 33.3 0 0 - 0 0 - 0 2 2 2 3 0 0 0 5
+p584
+aVSteve Blake POR 12/22/2014 POR @ HOU L 15 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 1 1 0 3 2 -4
+p585
+aVChris Kaman POR 12/20/2014 POR @ NOP W 22 16 8 10 80.0 0 0 - 0 3 0.0 1 5 6 0 1 0 2 3 17
+p586
+aVNicolas Batum POR 12/20/2014 POR @ NOP W 30 11 5 8 62.5 0 2 0.0 1 2 50.0 1 2 3 5 3 0 0 1 30
+p587
+aVDamian Lillard POR 12/20/2014 POR @ NOP W 28 17 6 12 50.0 3 6 50.0 2 2 100.0 0 3 3 7 1 0 1 2 30
+p588
+aVWill Barton POR 12/20/2014 POR @ NOP W 12 5 2 6 33.3 0 2 0.0 1 1 100.0 0 2 2 1 0 0 0 0 -6
+p589
+aVCJ McCollum POR 12/20/2014 POR @ NOP W 12 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 0 0 2 1 -6
+p590
+aVThomas Robinson POR 12/20/2014 POR @ NOP W 19 12 6 8 75.0 0 0 - 0 2 0.0 2 2 4 0 0 0 2 5 -8
+p591
+aVJoel Freeland POR 12/20/2014 POR @ NOP W 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 6 10
+p592
+aVWesley Matthews POR 12/20/2014 POR @ NOP W 22 9 3 8 37.5 3 8 37.5 0 0 - 0 2 2 0 1 0 3 0 24
+p593
+aVMeyers Leonard POR 12/20/2014 POR @ NOP W 10 7 2 4 50.0 1 3 33.3 2 2 100.0 0 2 2 0 0 0 0 3 -1
+p594
+aVAllen Crabbe POR 12/20/2014 POR @ NOP W 15 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 4 0 0 0 1 -1
+p595
+aVSteve Blake POR 12/20/2014 POR @ NOP W 25 3 1 4 25.0 1 2 50.0 0 0 - 3 1 4 5 2 0 2 2 7
+p596
+aVLaMarcus Aldridge POR 12/20/2014 POR @ NOP W 29 27 12 20 60.0 0 1 0.0 3 3 100.0 2 10 12 2 3 2 1 1 34
+p597
+aVLaMarcus Aldridge POR 12/19/2014 POR @ SAS W 52 32 13 27 48.1 1 3 33.3 5 5 100.0 5 11 16 0 5 2 3 3 10
+p598
+aVSteve Blake POR 12/19/2014 POR @ SAS W 35 10 3 7 42.9 2 4 50.0 2 2 100.0 2 3 5 4 0 1 1 5 8
+p599
+aVAllen Crabbe POR 12/19/2014 POR @ SAS W 13 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 -6
+p600
+aVChris Kaman POR 12/19/2014 POR @ SAS W 18 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 1 1 0 2 2 -11
+p601
+aVDorell Wright POR 12/19/2014 POR @ SAS W 33 12 4 8 50.0 4 5 80.0 0 0 - 0 8 8 0 0 0 3 2 17
+p602
+aVWesley Matthews POR 12/19/2014 POR @ SAS W 50 16 5 19 26.3 2 9 22.2 4 4 100.0 3 4 7 5 3 0 0 2 8
+p603
+aVThomas Robinson POR 12/19/2014 POR @ SAS W 27 2 1 3 33.3 0 0 - 0 0 - 1 5 6 1 0 0 0 3 16
+p604
+aVDamian Lillard POR 12/19/2014 POR @ SAS W 53 43 16 29 55.2 4 9 44.4 7 8 87.5 0 3 3 6 2 1 4 2 20
+p605
+aVCJ McCollum POR 12/19/2014 POR @ SAS W 12 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 0 0 0 0 1 -12
+p606
+aVJoel Freeland POR 12/19/2014 POR @ SAS W 21 8 3 4 75.0 0 0 - 2 2 100.0 1 5 6 1 0 1 1 4 0
+p607
+aVAllen Crabbe POR 12/17/2014 POR vs. MIL W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p608
+aVJoel Freeland POR 12/17/2014 POR vs. MIL W 13 6 3 4 75.0 0 0 - 0 1 0.0 3 3 6 0 0 0 1 3 5
+p609
+aVLaMarcus Aldridge POR 12/17/2014 POR vs. MIL W 35 23 10 19 52.6 0 1 0.0 3 4 75.0 6 9 15 2 0 1 2 3 2
+p610
+aVChris Kaman POR 12/17/2014 POR vs. MIL W 18 6 3 12 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -6
+p611
+aVThomas Robinson POR 12/17/2014 POR vs. MIL W 29 15 5 8 62.5 0 0 - 5 15 33.3 4 12 16 1 1 1 4 2 15
+p612
+aVNicolas Batum POR 12/17/2014 POR vs. MIL W 36 8 3 11 27.3 1 6 16.7 1 1 100.0 2 4 6 6 1 0 2 1 13
+p613
+aVCJ McCollum POR 12/17/2014 POR vs. MIL W 14 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 3 0 0 0 1 11
+p614
+aVWesley Matthews POR 12/17/2014 POR vs. MIL W 32 11 5 8 62.5 1 4 25.0 0 0 - 0 3 3 1 0 0 1 2 -1
+p615
+aVSteve Blake POR 12/17/2014 POR vs. MIL W 19 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 4 0 1 0 1 -11
+p616
+aVDamian Lillard POR 12/17/2014 POR vs. MIL W 37 29 10 18 55.6 4 7 57.1 5 6 83.3 0 3 3 7 2 0 4 3 14
+p617
+aVDamian Lillard POR 12/15/2014 POR vs. SAS W 34 23 8 18 44.4 1 3 33.3 6 6 100.0 3 7 10 6 2 0 2 3 8
+p618
+aVNicolas Batum POR 12/15/2014 POR vs. SAS W 34 7 3 8 37.5 1 5 20.0 0 0 - 0 0 0 6 1 0 0 2 2
+p619
+aVChris Kaman POR 12/15/2014 POR vs. SAS W 20 11 4 6 66.7 0 0 - 3 4 75.0 1 2 3 0 0 0 0 2 15
+p620
+aVRobin Lopez POR 12/15/2014 POR vs. SAS W 19 4 1 7 14.3 0 0 - 2 2 100.0 0 5 5 0 0 0 1 0 -6
+p621
+aVMeyers Leonard POR 12/15/2014 POR vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p622
+aVThomas Robinson POR 12/15/2014 POR vs. SAS W 9 7 2 2 100.0 0 0 - 3 4 75.0 0 3 3 0 0 0 2 2 4
+p623
+aVAllen Crabbe POR 12/15/2014 POR vs. SAS W 14 8 3 4 75.0 1 2 50.0 1 1 100.0 0 1 1 0 1 2 1 4 11
+p624
+aVWill Barton POR 12/15/2014 POR vs. SAS W 8 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 2 0 0 1 1 6
+p625
+aVLaMarcus Aldridge POR 12/15/2014 POR vs. SAS W 33 23 10 21 47.6 0 0 - 3 3 100.0 5 9 14 1 1 0 3 2 15
+p626
+aVWesley Matthews POR 12/15/2014 POR vs. SAS W 35 14 5 10 50.0 3 5 60.0 1 2 50.0 0 1 1 0 3 0 1 2 2
+p627
+aVSteve Blake POR 12/15/2014 POR vs. SAS W 18 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 3 0 0 0 0 10
+p628
+aVJoel Freeland POR 12/15/2014 POR vs. SAS W 15 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -2
+p629
+aVChris Kaman POR 12/13/2014 POR @ IND W 18 10 5 11 45.5 0 0 - 0 1 0.0 2 4 6 1 0 0 2 3 4
+p630
+aVWesley Matthews POR 12/13/2014 POR @ IND W 34 12 4 11 36.4 2 6 33.3 2 3 66.7 0 4 4 1 1 0 1 1 10
+p631
+aVNicolas Batum POR 12/13/2014 POR @ IND W 36 14 6 11 54.5 1 5 20.0 1 1 100.0 1 3 4 5 3 0 3 3 3
+p632
+aVSteve Blake POR 12/13/2014 POR @ IND W 21 8 3 5 60.0 1 2 50.0 1 1 100.0 0 2 2 7 1 1 1 3 3
+p633
+aVRobin Lopez POR 12/13/2014 POR @ IND W 30 8 4 4 100.0 0 0 - 0 0 - 4 4 8 2 1 3 0 2 4
+p634
+aVDamian Lillard POR 12/13/2014 POR @ IND W 37 18 7 22 31.8 0 3 0.0 4 4 100.0 0 3 3 4 1 0 1 2 13
+p635
+aVAllen Crabbe POR 12/13/2014 POR @ IND W 16 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 3
+p636
+aVJoel Freeland POR 12/13/2014 POR @ IND W 12 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 1 0 2 12
+p637
+aVLaMarcus Aldridge POR 12/13/2014 POR @ IND W 36 19 8 23 34.8 1 1 100.0 2 2 100.0 3 11 14 1 1 0 4 3 -2
+p638
+aVLaMarcus Aldridge POR 12/12/2014 POR @ CHI L 39 35 15 24 62.5 1 1 100.0 4 4 100.0 2 7 9 2 1 2 0 3 10
+p639
+aVChris Kaman POR 12/12/2014 POR @ CHI L 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 0 1 2 2 -10
+p640
+aVAllen Crabbe POR 12/12/2014 POR @ CHI L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -11
+p641
+aVMeyers Leonard POR 12/12/2014 POR @ CHI L 5 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 2 -16
+p642
+aVRobin Lopez POR 12/12/2014 POR @ CHI L 28 4 2 8 25.0 0 0 - 0 0 - 5 2 7 2 1 1 0 4 3
+p643
+aVWesley Matthews POR 12/12/2014 POR @ CHI L 37 10 4 8 50.0 1 3 33.3 1 2 50.0 1 3 4 0 0 1 1 1 -6
+p644
+aVSteve Blake POR 12/12/2014 POR @ CHI L 19 9 3 6 50.0 2 3 66.7 1 2 50.0 0 2 2 0 1 0 3 2 -10
+p645
+aVDamian Lillard POR 12/12/2014 POR @ CHI L 38 35 13 21 61.9 7 11 63.6 2 3 66.7 0 5 5 6 0 0 4 3 -3
+p646
+aVJoel Freeland POR 12/12/2014 POR @ CHI L 4 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p647
+aVNicolas Batum POR 12/12/2014 POR @ CHI L 37 7 3 12 25.0 1 5 20.0 0 0 - 1 4 5 5 0 0 0 0 1
+p648
+aVAllen Crabbe POR 12/10/2014 POR @ MIN L 10 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 0 3 -10
+p649
+aVRobin Lopez POR 12/10/2014 POR @ MIN L 26 8 4 8 50.0 0 0 - 0 0 - 4 4 8 3 0 0 3 4 0
+p650
+aVThomas Robinson POR 12/10/2014 POR @ MIN L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p651
+aVLaMarcus Aldridge POR 12/10/2014 POR @ MIN L 38 10 3 14 21.4 1 3 33.3 3 4 75.0 3 6 9 1 0 2 5 2 -7
+p652
+aVChris Kaman POR 12/10/2014 POR @ MIN L 18 8 4 9 44.4 0 0 - 0 1 0.0 2 5 7 2 0 4 5 1 -9
+p653
+aVDorell Wright POR 12/10/2014 POR @ MIN L 5 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 3
+p654
+aVWesley Matthews POR 12/10/2014 POR @ MIN L 35 18 7 13 53.8 4 10 40.0 0 0 - 0 2 2 0 1 0 2 6 -2
+p655
+aVSteve Blake POR 12/10/2014 POR @ MIN L 19 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 2 2 -11
+p656
+aVNicolas Batum POR 12/10/2014 POR @ MIN L 40 5 1 6 16.7 1 5 20.0 2 2 100.0 0 3 3 6 2 4 2 3 -4
+p657
+aVJoel Freeland POR 12/10/2014 POR @ MIN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p658
+aVDamian Lillard POR 12/10/2014 POR @ MIN L 42 23 9 24 37.5 2 12 16.7 3 3 100.0 1 6 7 5 3 0 1 3 0
+p659
+aVLaMarcus Aldridge POR 12/09/2014 POR @ DET W 37 23 8 21 38.1 1 1 100.0 6 6 100.0 3 8 11 1 1 2 3 2 19
+p660
+aVJoel Freeland POR 12/09/2014 POR @ DET W 11 0 0 3 0.0 0 0 - 0 0 - 0 4 4 1 0 0 0 1 -7
+p661
+aVChris Kaman POR 12/09/2014 POR @ DET W 21 14 7 10 70.0 0 0 - 0 0 - 1 2 3 2 0 2 1 3 1
+p662
+aVRobin Lopez POR 12/09/2014 POR @ DET W 27 6 3 9 33.3 0 0 - 0 0 - 6 5 11 0 0 2 2 0 11
+p663
+aVNicolas Batum POR 12/09/2014 POR @ DET W 35 8 3 7 42.9 2 6 33.3 0 0 - 0 5 5 1 0 0 2 1 10
+p664
+aVAllen Crabbe POR 12/09/2014 POR @ DET W 20 9 4 5 80.0 1 2 50.0 0 0 - 0 1 1 2 0 1 1 2 -5
+p665
+aVSteve Blake POR 12/09/2014 POR @ DET W 19 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 6 0 0 1 0 3
+p666
+aVDamian Lillard POR 12/09/2014 POR @ DET W 35 14 6 14 42.9 1 5 20.0 1 2 50.0 0 5 5 7 2 0 2 2 10
+p667
+aVWesley Matthews POR 12/09/2014 POR @ DET W 35 19 8 12 66.7 3 6 50.0 0 0 - 0 5 5 5 1 0 1 1 18
+p668
+aVChris Kaman POR 12/07/2014 POR @ NYK W 17 8 4 8 50.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -5
+p669
+aVDamian Lillard POR 12/07/2014 POR @ NYK W 36 20 5 16 31.3 2 8 25.0 8 9 88.9 0 5 5 2 1 0 1 0 11
+p670
+aVDorell Wright POR 12/07/2014 POR @ NYK W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 5
+p671
+aVJoel Freeland POR 12/07/2014 POR @ NYK W 9 2 1 3 33.3 0 0 - 0 1 0.0 3 1 4 0 0 0 1 1 -13
+p672
+aVNicolas Batum POR 12/07/2014 POR @ NYK W 35 11 4 8 50.0 2 5 40.0 1 1 100.0 1 4 5 7 1 0 0 3 -2
+p673
+aVSteve Blake POR 12/07/2014 POR @ NYK W 23 5 2 6 33.3 1 4 25.0 0 0 - 0 5 5 6 0 0 1 0 -4
+p674
+aVLaMarcus Aldridge POR 12/07/2014 POR @ NYK W 36 24 9 19 47.4 0 1 0.0 6 8 75.0 3 8 11 1 1 0 2 1 15
+p675
+aVAllen Crabbe POR 12/07/2014 POR @ NYK W 14 6 2 5 40.0 1 3 33.3 1 2 50.0 0 0 0 0 1 1 0 1 -4
+p676
+aVWesley Matthews POR 12/07/2014 POR @ NYK W 34 18 5 11 45.5 3 6 50.0 5 8 62.5 1 1 2 3 3 0 2 4 8
+p677
+aVRobin Lopez POR 12/07/2014 POR @ NYK W 33 6 3 8 37.5 0 0 - 0 0 - 6 2 8 1 1 1 1 4 9
+p678
+aVChris Kaman POR 12/04/2014 POR vs. IND W 18 6 2 6 33.3 0 0 - 2 2 100.0 0 7 7 4 0 0 1 0 7
+p679
+aVAllen Crabbe POR 12/04/2014 POR vs. IND W 17 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 0 2 1 0 0 9
+p680
+aVNicolas Batum POR 12/04/2014 POR vs. IND W 37 13 5 13 38.5 1 5 20.0 2 2 100.0 0 5 5 5 3 2 3 0 6
+p681
+aVJoel Freeland POR 12/04/2014 POR vs. IND W 12 4 2 2 100.0 0 0 - 0 0 - 0 5 5 1 0 0 0 3 10
+p682
+aVWesley Matthews POR 12/04/2014 POR vs. IND W 34 12 6 14 42.9 0 5 0.0 0 0 - 0 0 0 0 1 0 1 1 1
+p683
+aVDamian Lillard POR 12/04/2014 POR vs. IND W 34 23 7 15 46.7 1 5 20.0 8 11 72.7 0 8 8 3 2 0 1 1 6
+p684
+aVSteve Blake POR 12/04/2014 POR vs. IND W 21 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 4 0 0 1 4 -3
+p685
+aVLaMarcus Aldridge POR 12/04/2014 POR vs. IND W 36 18 7 21 33.3 2 2 100.0 2 2 100.0 3 10 13 3 0 2 3 2 -4
+p686
+aVRobin Lopez POR 12/04/2014 POR vs. IND W 30 4 1 5 20.0 0 0 - 2 4 50.0 2 5 7 0 1 0 2 5 -2
+p687
+aVChris Kaman POR 12/02/2014 POR @ DEN W 17 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 1 2 2 -14
+p688
+aVDamian Lillard POR 12/02/2014 POR @ DEN W 31 17 7 15 46.7 1 5 20.0 2 2 100.0 1 2 3 6 1 0 2 5 2
+p689
+aVRobin Lopez POR 12/02/2014 POR @ DEN W 31 11 5 5 100.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 1 16
+p690
+aVAllen Crabbe POR 12/02/2014 POR @ DEN W 17 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 1 1 4 -10
+p691
+aVLaMarcus Aldridge POR 12/02/2014 POR @ DEN W 38 39 16 30 53.3 0 1 0.0 7 9 77.8 0 11 11 1 0 2 0 0 8
+p692
+aVJoel Freeland POR 12/02/2014 POR @ DEN W 10 2 1 2 50.0 0 0 - 0 0 - 1 6 7 0 1 1 2 0 -6
+p693
+aVWesley Matthews POR 12/02/2014 POR @ DEN W 36 15 5 15 33.3 1 10 10.0 4 4 100.0 0 2 2 1 2 0 1 2 0
+p694
+aVSteve Blake POR 12/02/2014 POR @ DEN W 24 13 5 5 100.0 3 3 100.0 0 0 - 0 3 3 3 0 0 2 4 6
+p695
+aVNicolas Batum POR 12/02/2014 POR @ DEN W 36 4 2 6 33.3 0 3 0.0 0 0 - 0 4 4 13 3 0 2 1 8
+p696
+aVChris Kaman POR 11/30/2014 POR vs. MIN W 18 8 2 7 28.6 0 0 - 4 6 66.7 2 6 8 1 0 1 1 2 3
+p697
+aVDamian Lillard POR 11/30/2014 POR vs. MIN W 36 17 6 14 42.9 1 7 14.3 4 7 57.1 0 1 1 8 3 1 1 1 -1
+p698
+aVNicolas Batum POR 11/30/2014 POR vs. MIN W 35 10 4 13 30.8 1 8 12.5 1 2 50.0 0 8 8 5 1 2 3 1 6
+p699
+aVSteve Blake POR 11/30/2014 POR vs. MIN W 22 4 1 5 20.0 1 3 33.3 1 2 50.0 0 2 2 7 1 0 2 0 13
+p700
+aVLaMarcus Aldridge POR 11/30/2014 POR vs. MIN W 36 26 11 17 64.7 0 0 - 4 4 100.0 3 12 15 2 0 0 1 3 15
+p701
+aVWesley Matthews POR 11/30/2014 POR vs. MIN W 33 23 8 13 61.5 6 10 60.0 1 2 50.0 2 4 6 2 0 0 3 4 8
+p702
+aVRobin Lopez POR 11/30/2014 POR vs. MIN W 30 4 1 6 16.7 0 0 - 2 2 100.0 4 3 7 1 1 5 4 3 11
+p703
+aVJoel Freeland POR 11/30/2014 POR vs. MIN W 12 6 3 6 50.0 0 0 - 0 0 - 4 2 6 0 0 0 2 2 -1
+p704
+aVAllen Crabbe POR 11/30/2014 POR vs. MIN W 18 9 3 5 60.0 3 5 60.0 0 0 - 0 1 1 1 2 0 1 1 16
+p705
+aVNicolas Batum POR 11/28/2014 POR vs. MEM L 35 6 3 11 27.3 0 5 0.0 0 0 - 1 3 4 2 1 2 0 2 -16
+p706
+aVLaMarcus Aldridge POR 11/28/2014 POR vs. MEM L 36 19 7 19 36.8 0 1 0.0 5 6 83.3 3 7 10 2 2 2 3 2 -15
+p707
+aVDamian Lillard POR 11/28/2014 POR vs. MEM L 36 20 7 16 43.8 1 6 16.7 5 7 71.4 1 3 4 9 3 0 1 1 -5
+p708
+aVWill Barton POR 11/28/2014 POR vs. MEM L 5 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p709
+aVSteve Blake POR 11/28/2014 POR vs. MEM L 22 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 0 -4
+p710
+aVJoel Freeland POR 11/28/2014 POR vs. MEM L 10 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 0 0 1 6
+p711
+aVAllen Crabbe POR 11/28/2014 POR vs. MEM L 13 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 2 -8
+p712
+aVChris Kaman POR 11/28/2014 POR vs. MEM L 25 16 7 16 43.8 0 0 - 2 3 66.7 5 6 11 0 0 2 2 6 -11
+p713
+aVWesley Matthews POR 11/28/2014 POR vs. MEM L 36 26 9 16 56.3 7 12 58.3 1 2 50.0 1 3 4 3 0 0 0 1 0
+p714
+aVRobin Lopez POR 11/28/2014 POR vs. MEM L 23 6 3 10 30.0 0 0 - 0 0 - 3 4 7 1 0 0 0 2 -7
+p715
+aVJoel Freeland POR 11/26/2014 POR @ CHA W 12 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 1 5
+p716
+aVChris Kaman POR 11/26/2014 POR @ CHA W 18 12 5 12 41.7 0 0 - 2 2 100.0 1 6 7 2 0 0 0 2 3
+p717
+aVLaMarcus Aldridge POR 11/26/2014 POR @ CHA W 35 9 3 18 16.7 0 0 - 3 6 50.0 1 13 14 2 0 3 1 0 5
+p718
+aVSteve Blake POR 11/26/2014 POR @ CHA W 21 4 1 3 33.3 1 3 33.3 1 2 50.0 0 2 2 3 1 0 0 4 1
+p719
+aVWesley Matthews POR 11/26/2014 POR @ CHA W 34 28 10 15 66.7 6 9 66.7 2 2 100.0 1 0 1 1 0 0 2 3 8
+p720
+aVAllen Crabbe POR 11/26/2014 POR @ CHA W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 0 0 1 -6
+p721
+aVRobin Lopez POR 11/26/2014 POR @ CHA W 31 15 6 10 60.0 0 0 - 3 3 100.0 5 5 10 2 0 3 1 4 3
+p722
+aVDamian Lillard POR 11/26/2014 POR @ CHA W 36 22 8 17 47.1 4 8 50.0 2 3 66.7 0 4 4 7 1 0 1 2 13
+p723
+aVNicolas Batum POR 11/26/2014 POR @ CHA W 37 10 4 11 36.4 0 4 0.0 2 2 100.0 0 6 6 3 2 1 2 1 8
+p724
+aVAllen Crabbe POR 11/24/2014 POR @ PHI W 15 8 3 5 60.0 2 4 50.0 0 0 - 1 0 1 2 0 0 0 1 3
+p725
+aVLaMarcus Aldridge POR 11/24/2014 POR @ PHI W 34 33 13 20 65.0 1 1 100.0 6 7 85.7 6 5 11 3 0 0 1 1 7
+p726
+aVDamian Lillard POR 11/24/2014 POR @ PHI W 37 16 6 11 54.5 1 4 25.0 3 3 100.0 1 4 5 4 2 0 3 3 14
+p727
+aVWill Barton POR 11/24/2014 POR @ PHI W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 1 1 1 1 -4
+p728
+aVRobin Lopez POR 11/24/2014 POR @ PHI W 29 12 4 8 50.0 0 0 - 4 4 100.0 4 4 8 3 0 4 2 4 6
+p729
+aVChris Kaman POR 11/24/2014 POR @ PHI W 19 8 3 7 42.9 0 0 - 2 4 50.0 2 7 9 1 0 0 1 2 4
+p730
+aVWesley Matthews POR 11/24/2014 POR @ PHI W 33 17 6 16 37.5 2 8 25.0 3 4 75.0 0 4 4 3 1 0 2 1 1
+p731
+aVSteve Blake POR 11/24/2014 POR @ PHI W 23 0 0 6 0.0 0 5 0.0 0 0 - 1 2 3 8 1 0 2 2 9
+p732
+aVJoel Freeland POR 11/24/2014 POR @ PHI W 14 9 4 6 66.7 0 0 - 1 1 100.0 3 1 4 0 0 0 0 4 3
+p733
+aVNicolas Batum POR 11/24/2014 POR @ PHI W 31 6 3 8 37.5 0 4 0.0 0 0 - 0 6 6 6 1 0 3 0 7
+p734
+aVNicolas Batum POR 11/23/2014 POR @ BOS W 32 12 5 11 45.5 2 6 33.3 0 0 - 1 4 5 3 1 0 0 2 4
+p735
+aVRobin Lopez POR 11/23/2014 POR @ BOS W 31 9 4 6 66.7 0 0 - 1 2 50.0 2 5 7 2 0 1 4 1 2
+p736
+aVLaMarcus Aldridge POR 11/23/2014 POR @ BOS W 37 20 7 21 33.3 0 0 - 6 7 85.7 3 11 14 2 0 1 1 1 5
+p737
+aVAllen Crabbe POR 11/23/2014 POR @ BOS W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 1
+p738
+aVJoel Freeland POR 11/23/2014 POR @ BOS W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 1
+p739
+aVDamian Lillard POR 11/23/2014 POR @ BOS W 38 12 4 14 28.6 2 6 33.3 2 2 100.0 0 9 9 5 4 0 5 2 4
+p740
+aVDorell Wright POR 11/23/2014 POR @ BOS W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 0 0 1 1 0 2
+p741
+aVSteve Blake POR 11/23/2014 POR @ BOS W 21 11 5 8 62.5 1 2 50.0 0 0 - 0 2 2 5 0 0 1 0 5
+p742
+aVWesley Matthews POR 11/23/2014 POR @ BOS W 36 10 4 7 57.1 2 3 66.7 0 0 - 1 4 5 3 1 0 2 1 2
+p743
+aVChris Kaman POR 11/23/2014 POR @ BOS W 18 16 6 13 46.2 0 0 - 4 4 100.0 3 5 8 0 1 0 1 2 4
+p744
+aVNicolas Batum POR 11/21/2014 POR vs. CHI W 21 9 4 6 66.7 1 2 50.0 0 0 - 0 3 3 1 1 0 1 1 13
+p745
+aVThomas Robinson POR 11/21/2014 POR vs. CHI W 8 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 0 0 0 1 1 -6
+p746
+aVAllen Crabbe POR 11/21/2014 POR vs. CHI W 22 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 2 0 0 0 2 11
+p747
+aVDorell Wright POR 11/21/2014 POR vs. CHI W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 0 1 0 0 1 -6
+p748
+aVRobin Lopez POR 11/21/2014 POR vs. CHI W 23 12 5 7 71.4 0 0 - 2 2 100.0 1 6 7 1 0 1 1 0 34
+p749
+aVSteve Blake POR 11/21/2014 POR vs. CHI W 21 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 4 0 0 0 3 -16
+p750
+aVLaMarcus Aldridge POR 11/21/2014 POR vs. CHI W 28 16 6 13 46.2 2 2 100.0 2 3 66.7 3 6 9 4 1 2 0 1 23
+p751
+aVChris Kaman POR 11/21/2014 POR vs. CHI W 17 10 4 11 36.4 0 0 - 2 3 66.7 0 3 3 0 0 2 1 3 -10
+p752
+aVJoel Freeland POR 11/21/2014 POR vs. CHI W 8 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 1
+p753
+aVWill Barton POR 11/21/2014 POR vs. CHI W 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 3 1 -21
+p754
+aVWesley Matthews POR 11/21/2014 POR vs. CHI W 27 12 5 8 62.5 0 1 0.0 2 3 66.7 0 3 3 4 2 0 5 2 33
+p755
+aVDamian Lillard POR 11/21/2014 POR vs. CHI W 26 21 7 9 77.8 4 4 100.0 3 3 100.0 0 6 6 9 1 0 4 0 40
+p756
+aVMeyers Leonard POR 11/21/2014 POR vs. CHI W 12 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 0 1 0 1 2 -6
+p757
+aVRobin Lopez POR 11/17/2014 POR vs. NOP W 27 8 3 4 75.0 0 0 - 2 3 66.7 2 4 6 1 1 1 1 2 4
+p758
+aVAllen Crabbe POR 11/17/2014 POR vs. NOP W 21 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 0 0 2 2 -14
+p759
+aVSteve Blake POR 11/17/2014 POR vs. NOP W 29 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 7 1 0 3 2 27
+p760
+aVWill Barton POR 11/17/2014 POR vs. NOP W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p761
+aVWesley Matthews POR 11/17/2014 POR vs. NOP W 36 16 7 13 53.8 2 6 33.3 0 3 0.0 1 4 5 2 0 0 3 5 2
+p762
+aVChris Kaman POR 11/17/2014 POR vs. NOP W 21 15 7 10 70.0 0 0 - 1 1 100.0 2 8 10 0 1 0 3 4 5
+p763
+aVCJ McCollum POR 11/17/2014 POR vs. NOP W 18 7 2 5 40.0 1 3 33.3 2 2 100.0 1 1 2 0 1 0 1 1 14
+p764
+aVJoel Freeland POR 11/17/2014 POR vs. NOP W 11 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 2 7
+p765
+aVDamian Lillard POR 11/17/2014 POR vs. NOP W 35 24 7 18 38.9 2 7 28.6 8 8 100.0 1 3 4 7 2 0 4 2 -2
+p766
+aVLaMarcus Aldridge POR 11/17/2014 POR vs. NOP W 37 22 9 18 50.0 0 0 - 4 4 100.0 2 7 9 2 1 0 0 0 0
+p767
+aVMeyers Leonard POR 11/15/2014 POR vs. BKN W 30 7 3 7 42.9 1 3 33.3 0 0 - 3 9 12 1 0 0 0 3 0
+p768
+aVWill Barton POR 11/15/2014 POR vs. BKN W 15 8 4 7 57.1 0 0 - 0 0 - 0 3 3 0 0 0 1 0 8
+p769
+aVJoel Freeland POR 11/15/2014 POR vs. BKN W 18 4 1 2 50.0 0 0 - 2 2 100.0 5 0 5 0 0 1 4 1 6
+p770
+aVDamian Lillard POR 11/15/2014 POR vs. BKN W 38 28 8 14 57.1 4 6 66.7 8 9 88.9 0 5 5 10 0 0 4 2 2
+p771
+aVAllen Crabbe POR 11/15/2014 POR vs. BKN W 31 8 3 8 37.5 2 6 33.3 0 0 - 0 2 2 2 1 0 0 3 4
+p772
+aVWesley Matthews POR 11/15/2014 POR vs. BKN W 33 10 3 13 23.1 2 7 28.6 2 2 100.0 1 4 5 3 0 1 2 3 -3
+p773
+aVSteve Blake POR 11/15/2014 POR vs. BKN W 16 7 2 3 66.7 1 2 50.0 2 2 100.0 0 1 1 7 3 0 0 0 17
+p774
+aVChris Kaman POR 11/15/2014 POR vs. BKN W 18 12 3 11 27.3 0 0 - 6 9 66.7 1 4 5 0 0 0 1 2 10
+p775
+aVCJ McCollum POR 11/15/2014 POR vs. BKN W 11 3 1 4 25.0 1 2 50.0 0 3 0.0 1 1 2 1 1 0 0 0 6
+p776
+aVRobin Lopez POR 11/15/2014 POR vs. BKN W 30 10 5 9 55.6 0 0 - 0 0 - 2 5 7 2 1 1 2 2 0
+p777
+aVAllen Crabbe POR 11/12/2014 POR @ DEN W 18 7 2 6 33.3 1 4 25.0 2 2 100.0 2 1 3 0 1 1 1 3 17
+p778
+aVJoel Freeland POR 11/12/2014 POR @ DEN W 12 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 0 0 0 2 4
+p779
+aVLaMarcus Aldridge POR 11/12/2014 POR @ DEN W 30 12 4 11 36.4 1 1 100.0 3 3 100.0 0 7 7 3 0 6 0 1 22
+p780
+aVThomas Robinson POR 11/12/2014 POR @ DEN W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -9
+p781
+aVSteve Blake POR 11/12/2014 POR @ DEN W 28 6 2 8 25.0 2 7 28.6 0 0 - 0 5 5 5 0 0 2 1 9
+p782
+aVWill Barton POR 11/12/2014 POR @ DEN W 16 6 2 5 40.0 0 1 0.0 2 3 66.7 0 1 1 1 1 0 2 4 -12
+p783
+aVWesley Matthews POR 11/12/2014 POR @ DEN W 25 12 4 10 40.0 2 6 33.3 2 3 66.7 2 3 5 5 1 0 1 1 12
+p784
+aVRobin Lopez POR 11/12/2014 POR @ DEN W 21 19 8 11 72.7 0 0 - 3 3 100.0 2 3 5 0 0 0 1 2 8
+p785
+aVMeyers Leonard POR 11/12/2014 POR @ DEN W 5 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 1 -9
+p786
+aVCJ McCollum POR 11/12/2014 POR @ DEN W 23 15 4 7 57.1 3 6 50.0 4 6 66.7 0 2 2 1 1 0 1 2 6
+p787
+aVDorell Wright POR 11/12/2014 POR @ DEN W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -9
+p788
+aVChris Kaman POR 11/12/2014 POR @ DEN W 22 16 6 8 75.0 0 0 - 4 5 80.0 2 5 7 2 1 2 2 3 18
+p789
+aVDamian Lillard POR 11/12/2014 POR @ DEN W 30 27 10 16 62.5 5 6 83.3 2 2 100.0 1 4 5 9 2 0 4 1 28
+p790
+aVJoel Freeland POR 11/11/2014 POR vs. CHA W 16 5 2 5 40.0 0 0 - 1 2 50.0 3 4 7 0 0 0 0 4 5
+p791
+aVWesley Matthews POR 11/11/2014 POR vs. CHA W 36 16 5 15 33.3 2 9 22.2 4 5 80.0 1 2 3 7 1 0 1 1 6
+p792
+aVDamian Lillard POR 11/11/2014 POR vs. CHA W 39 29 12 21 57.1 5 8 62.5 0 0 - 1 3 4 7 2 0 6 1 -3
+p793
+aVDorell Wright POR 11/11/2014 POR vs. CHA W 6 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 2 -8
+p794
+aVLaMarcus Aldridge POR 11/11/2014 POR vs. CHA W 39 25 10 21 47.6 0 0 - 5 5 100.0 4 10 14 3 0 0 0 1 6
+p795
+aVRobin Lopez POR 11/11/2014 POR vs. CHA W 23 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -5
+p796
+aVChris Kaman POR 11/11/2014 POR vs. CHA W 18 12 6 10 60.0 0 0 - 0 0 - 3 5 8 2 0 2 1 3 -4
+p797
+aVCJ McCollum POR 11/11/2014 POR vs. CHA W 17 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 2 4
+p798
+aVSteve Blake POR 11/11/2014 POR vs. CHA W 25 5 1 5 20.0 1 4 25.0 2 2 100.0 1 3 4 2 2 1 1 5 -1
+p799
+aVAllen Crabbe POR 11/11/2014 POR vs. CHA W 22 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 0 10
+p800
+aVWill Barton POR 11/09/2014 POR vs. DEN W 5 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -1
+p801
+aVChris Kaman POR 11/09/2014 POR vs. DEN W 19 12 4 9 44.4 0 0 - 4 5 80.0 2 6 8 0 0 5 1 0 2
+p802
+aVThomas Robinson POR 11/09/2014 POR vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -4
+p803
+aVNicolas Batum POR 11/09/2014 POR vs. DEN W 35 10 4 11 36.4 2 5 40.0 0 0 - 3 6 9 3 1 1 3 2 11
+p804
+aVSteve Blake POR 11/09/2014 POR vs. DEN W 22 9 3 3 100.0 3 3 100.0 0 0 - 0 1 1 4 1 0 3 2 9
+p805
+aVCJ McCollum POR 11/09/2014 POR vs. DEN W 13 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 3 0 0 1 0 9
+p806
+aVWesley Matthews POR 11/09/2014 POR vs. DEN W 35 21 8 19 42.1 5 13 38.5 0 2 0.0 1 5 6 3 1 1 0 3 21
+p807
+aVJoel Freeland POR 11/09/2014 POR vs. DEN W 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -1
+p808
+aVMeyers Leonard POR 11/09/2014 POR vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p809
+aVDamian Lillard POR 11/09/2014 POR vs. DEN W 34 11 4 9 44.4 2 5 40.0 1 1 100.0 1 4 5 7 2 0 0 3 -1
+p810
+aVLaMarcus Aldridge POR 11/09/2014 POR vs. DEN W 36 28 12 26 46.2 1 1 100.0 3 4 75.0 4 5 9 4 1 1 1 2 21
+p811
+aVRobin Lopez POR 11/09/2014 POR vs. DEN W 28 12 5 12 41.7 0 0 - 2 2 100.0 4 5 9 2 0 3 1 3 11
+p812
+aVWill Barton POR 11/08/2014 POR @ LAC L 10 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 1
+p813
+aVSteve Blake POR 11/08/2014 POR @ LAC L 19 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 2 3 -15
+p814
+aVDamian Lillard POR 11/08/2014 POR @ LAC L 39 25 9 14 64.3 4 8 50.0 3 4 75.0 0 7 7 8 0 0 5 5 -1
+p815
+aVWesley Matthews POR 11/08/2014 POR @ LAC L 33 14 5 11 45.5 2 5 40.0 2 2 100.0 0 1 1 3 1 0 1 3 -2
+p816
+aVNicolas Batum POR 11/08/2014 POR @ LAC L 34 10 3 6 50.0 2 4 50.0 2 2 100.0 1 7 8 8 1 2 1 2 0
+p817
+aVLaMarcus Aldridge POR 11/08/2014 POR @ LAC L 39 21 7 22 31.8 1 2 50.0 6 6 100.0 2 8 10 2 0 0 1 4 3
+p818
+aVCJ McCollum POR 11/08/2014 POR @ LAC L 10 5 1 5 20.0 1 3 33.3 2 2 100.0 0 0 0 1 0 0 1 2 5
+p819
+aVRobin Lopez POR 11/08/2014 POR @ LAC L 32 19 7 10 70.0 0 0 - 5 7 71.4 3 4 7 2 0 1 2 3 -1
+p820
+aVThomas Robinson POR 11/08/2014 POR @ LAC L 6 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -2
+p821
+aVChris Kaman POR 11/08/2014 POR @ LAC L 18 8 4 5 80.0 0 0 - 0 0 - 3 4 7 0 0 0 3 2 -8
+p822
+aVThomas Robinson POR 11/06/2014 POR vs. DAL W 13 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 1 0 2 3 16
+p823
+aVDamian Lillard POR 11/06/2014 POR vs. DAL W 32 18 6 13 46.2 1 6 16.7 5 5 100.0 0 5 5 6 1 0 5 1 23
+p824
+aVNicolas Batum POR 11/06/2014 POR vs. DAL W 29 8 2 8 25.0 2 6 33.3 2 2 100.0 2 7 9 9 0 1 2 2 13
+p825
+aVDorell Wright POR 11/06/2014 POR vs. DAL W 6 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 1 0 0 0 2 -3
+p826
+aVSteve Blake POR 11/06/2014 POR vs. DAL W 20 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 3 0 0 0 1 12
+p827
+aVWill Barton POR 11/06/2014 POR vs. DAL W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 0 0
+p828
+aVWesley Matthews POR 11/06/2014 POR vs. DAL W 25 12 3 6 50.0 2 5 40.0 4 4 100.0 0 4 4 0 1 0 2 1 4
+p829
+aVLaMarcus Aldridge POR 11/06/2014 POR vs. DAL W 30 20 10 16 62.5 0 1 0.0 0 1 0.0 2 5 7 0 0 0 1 2 12
+p830
+aVRobin Lopez POR 11/06/2014 POR vs. DAL W 24 8 3 6 50.0 0 0 - 2 2 100.0 4 4 8 0 0 3 2 3 5
+p831
+aVMeyers Leonard POR 11/06/2014 POR vs. DAL W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 0 -3
+p832
+aVCJ McCollum POR 11/06/2014 POR vs. DAL W 21 13 4 8 50.0 3 4 75.0 2 2 100.0 0 2 2 3 0 1 0 3 17
+p833
+aVChris Kaman POR 11/06/2014 POR vs. DAL W 18 12 6 6 100.0 0 0 - 0 1 0.0 1 4 5 0 0 1 1 2 14
+p834
+aVJoel Freeland POR 11/06/2014 POR vs. DAL W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p835
+aVLaMarcus Aldridge POR 11/04/2014 POR vs. CLE W 37 16 7 15 46.7 0 1 0.0 2 2 100.0 1 3 4 2 1 0 2 4 13
+p836
+aVMeyers Leonard POR 11/04/2014 POR vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p837
+aVWesley Matthews POR 11/04/2014 POR vs. CLE W 36 21 8 14 57.1 3 8 37.5 2 3 66.7 1 5 6 2 0 0 2 4 27
+p838
+aVSteve Blake POR 11/04/2014 POR vs. CLE W 21 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 2 1 -3
+p839
+aVCJ McCollum POR 11/04/2014 POR vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p840
+aVNicolas Batum POR 11/04/2014 POR vs. CLE W 36 7 3 6 50.0 0 3 0.0 1 2 50.0 1 8 9 5 0 1 2 3 14
+p841
+aVChris Kaman POR 11/04/2014 POR vs. CLE W 17 5 2 4 50.0 0 0 - 1 2 50.0 1 6 7 0 0 1 3 2 0
+p842
+aVDamian Lillard POR 11/04/2014 POR vs. CLE W 36 27 6 13 46.2 5 10 50.0 10 10 100.0 1 5 6 7 1 1 0 2 15
+p843
+aVRobin Lopez POR 11/04/2014 POR vs. CLE W 29 19 8 11 72.7 0 0 - 3 4 75.0 2 4 6 2 3 1 0 1 19
+p844
+aVAllen Crabbe POR 11/04/2014 POR vs. CLE W 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p845
+aVThomas Robinson POR 11/04/2014 POR vs. CLE W 11 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 1 0 0 3 6
+p846
+aVWill Barton POR 11/04/2014 POR vs. CLE W 12 2 1 5 20.0 0 1 0.0 0 2 0.0 0 0 0 1 1 0 0 0 4
+p847
+aVDamian Lillard POR 11/02/2014 POR vs. GSW L 38 11 4 18 22.2 1 7 14.3 2 2 100.0 3 3 6 5 0 0 2 1 -3
+p848
+aVCJ McCollum POR 11/02/2014 POR vs. GSW L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -2
+p849
+aVChris Kaman POR 11/02/2014 POR vs. GSW L 21 2 1 5 20.0 0 0 - 0 0 - 1 6 7 1 0 0 2 2 14
+p850
+aVRobin Lopez POR 11/02/2014 POR vs. GSW L 27 12 6 13 46.2 0 0 - 0 0 - 6 4 10 0 0 0 3 5 -16
+p851
+aVWesley Matthews POR 11/02/2014 POR vs. GSW L 33 18 7 15 46.7 3 9 33.3 1 2 50.0 0 3 3 1 2 0 2 2 -6
+p852
+aVWill Barton POR 11/02/2014 POR vs. GSW L 16 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 2 0
+p853
+aVLaMarcus Aldridge POR 11/02/2014 POR vs. GSW L 33 26 10 20 50.0 0 2 0.0 6 8 75.0 4 9 13 1 1 1 3 2 -9
+p854
+aVNicolas Batum POR 11/02/2014 POR vs. GSW L 32 5 2 7 28.6 1 3 33.3 0 0 - 1 8 9 4 2 0 3 4 -5
+p855
+aVSteve Blake POR 11/02/2014 POR vs. GSW L 23 8 3 5 60.0 2 4 50.0 0 0 - 0 0 0 5 1 0 2 0 -4
+p856
+aVThomas Robinson POR 11/02/2014 POR vs. GSW L 14 4 2 3 66.7 0 0 - 0 2 0.0 2 4 6 0 1 1 2 1 6
+p857
+aVWesley Matthews POR 10/31/2014 POR @ SAC L 37 16 7 14 50.0 1 7 14.3 1 1 100.0 3 2 5 1 1 0 1 3 -10
+p858
+aVCJ McCollum POR 10/31/2014 POR @ SAC L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p859
+aVLaMarcus Aldridge POR 10/31/2014 POR @ SAC L 38 22 7 18 38.9 1 3 33.3 7 8 87.5 1 3 4 3 0 2 1 2 -10
+p860
+aVNicolas Batum POR 10/31/2014 POR @ SAC L 35 7 3 10 30.0 1 3 33.3 0 0 - 0 5 5 5 2 0 3 3 -16
+p861
+aVJoel Freeland POR 10/31/2014 POR @ SAC L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -3
+p862
+aVChris Kaman POR 10/31/2014 POR @ SAC L 21 12 6 10 60.0 0 0 - 0 0 - 1 5 6 0 0 2 0 3 10
+p863
+aVDamian Lillard POR 10/31/2014 POR @ SAC L 35 20 4 13 30.8 4 8 50.0 8 9 88.9 2 5 7 2 0 1 1 4 -16
+p864
+aVSteve Blake POR 10/31/2014 POR @ SAC L 22 6 2 7 28.6 2 5 40.0 0 0 - 0 3 3 5 1 0 2 4 8
+p865
+aVRobin Lopez POR 10/31/2014 POR @ SAC L 29 8 4 7 57.1 0 0 - 0 0 - 2 4 6 2 0 3 2 3 -15
+p866
+aVDorell Wright POR 10/31/2014 POR @ SAC L 7 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 1 1 0 0 0 3
+p867
+aVNicolas Batum POR 10/29/2014 POR vs. OKC W 34 16 5 12 41.7 2 5 40.0 4 4 100.0 0 5 5 6 1 1 2 2 7
+p868
+aVWill Barton POR 10/29/2014 POR vs. OKC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p869
+aVChris Kaman POR 10/29/2014 POR vs. OKC W 22 12 6 10 60.0 0 0 - 0 0 - 1 5 6 2 0 1 2 2 11
+p870
+aVLaMarcus Aldridge POR 10/29/2014 POR vs. OKC W 34 27 10 19 52.6 1 1 100.0 6 8 75.0 1 2 3 2 1 2 2 0 6
+p871
+aVWesley Matthews POR 10/29/2014 POR vs. OKC W 35 22 8 12 66.7 5 9 55.6 1 2 50.0 1 3 4 2 0 1 0 3 3
+p872
+aVRobin Lopez POR 10/29/2014 POR vs. OKC W 32 11 4 11 36.4 0 0 - 3 4 75.0 7 3 10 0 1 2 0 2 12
+p873
+aVCJ McCollum POR 10/29/2014 POR vs. OKC W 16 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 1 0 0 3 3 13
+p874
+aVDamian Lillard POR 10/29/2014 POR vs. OKC W 30 10 3 10 30.0 2 7 28.6 2 2 100.0 0 2 2 5 1 0 1 4 9
+p875
+aVThomas Robinson POR 10/29/2014 POR vs. OKC W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p876
+aVJoel Freeland POR 10/29/2014 POR vs. OKC W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 4
+p877
+aVSteve Blake POR 10/29/2014 POR vs. OKC W 20 1 0 4 0.0 0 3 0.0 1 2 50.0 1 4 5 5 0 0 0 1 13
+p878
+aVDorell Wright POR 10/29/2014 POR vs. OKC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 4
+p879
+aVAllen Crabbe POR 10/29/2014 POR vs. OKC W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p880
+a.

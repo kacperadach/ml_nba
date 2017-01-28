@@ -1,0 +1,1562 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDwight Howard ORL 04/13/2011 ORL vs. IND W 26 13 3 7 42.9 0 0 - 7 9 77.8 3 10 13 2 4 1 5 4 26
+p2
+aVRyan Anderson ORL 04/13/2011 ORL vs. IND W 26 14 4 8 50.0 3 5 60.0 3 3 100.0 4 3 7 0 1 1 0 1 23
+p3
+aVChris Duhon ORL 04/13/2011 ORL vs. IND W 30 6 2 6 33.3 0 4 0.0 2 2 100.0 0 2 2 5 1 0 4 1 3
+p4
+aVEarl Clark ORL 04/13/2011 ORL vs. IND W 17 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 0 0 1 6 1 16
+p5
+aVBrandon Bass ORL 04/13/2011 ORL vs. IND W 22 12 5 8 62.5 0 0 - 2 3 66.7 2 4 6 1 0 1 3 4 -11
+p6
+aVHedo Turkoglu ORL 04/13/2011 ORL vs. IND W 25 13 5 9 55.6 1 3 33.3 2 2 100.0 0 5 5 3 0 0 5 0 0
+p7
+aVJameer Nelson ORL 04/13/2011 ORL vs. IND W 24 6 1 6 16.7 1 4 25.0 3 4 75.0 0 3 3 3 0 0 3 1 15
+p8
+aVJason Richardson ORL 04/13/2011 ORL vs. IND W 25 8 3 9 33.3 2 6 33.3 0 0 - 0 3 3 0 2 0 2 1 -2
+p9
+aVQuentin Richardson ORL 04/13/2011 ORL vs. IND W 29 7 3 9 33.3 1 4 25.0 0 0 - 1 7 8 3 0 0 0 3 20
+p10
+aVMalik Allen ORL 04/13/2011 ORL vs. IND W 15 6 3 6 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 0
+p11
+aVHedo Turkoglu ORL 04/11/2011 ORL @ PHI W 31 7 3 6 50.0 1 4 25.0 0 0 - 1 2 3 3 0 0 2 1 11
+p12
+aVBrandon Bass ORL 04/11/2011 ORL @ PHI W 31 8 4 11 36.4 0 0 - 0 0 - 0 7 7 0 0 1 3 2 -5
+p13
+aVJason Richardson ORL 04/11/2011 ORL @ PHI W 31 12 5 11 45.5 2 5 40.0 0 2 0.0 1 1 2 5 3 0 0 1 14
+p14
+aVMalik Allen ORL 04/11/2011 ORL @ PHI W 8 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -7
+p15
+aVRyan Anderson ORL 04/11/2011 ORL @ PHI W 22 18 7 11 63.6 3 5 60.0 1 2 50.0 7 7 14 1 2 1 1 2 22
+p16
+aVJameer Nelson ORL 04/11/2011 ORL @ PHI W 33 19 6 13 46.2 5 8 62.5 2 2 100.0 1 2 3 7 2 0 5 1 7
+p17
+aVDwight Howard ORL 04/11/2011 ORL @ PHI W 34 19 6 13 46.2 0 1 0.0 7 9 77.8 2 11 13 4 2 3 4 2 10
+p18
+aVChris Duhon ORL 04/11/2011 ORL @ PHI W 27 5 2 7 28.6 0 2 0.0 1 2 50.0 2 5 7 4 0 0 0 1 4
+p19
+aVEarl Clark ORL 04/11/2011 ORL @ PHI W 22 7 2 7 28.6 0 0 - 3 4 75.0 3 2 5 0 0 0 1 2 -6
+p20
+aVMalik Allen ORL 04/10/2011 ORL vs. CHI L 16 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -7
+p21
+aVJason Richardson ORL 04/10/2011 ORL vs. CHI L 37 24 10 14 71.4 4 5 80.0 0 2 0.0 1 2 3 4 3 0 2 2 4
+p22
+aVJameer Nelson ORL 04/10/2011 ORL vs. CHI L 35 17 5 12 41.7 2 4 50.0 5 5 100.0 3 2 5 11 3 0 5 4 -2
+p23
+aVChris Duhon ORL 04/10/2011 ORL vs. CHI L 13 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 2 1 0 0 0 -1
+p24
+aVEarl Clark ORL 04/10/2011 ORL vs. CHI L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p25
+aVRyan Anderson ORL 04/10/2011 ORL vs. CHI L 35 28 9 18 50.0 4 8 50.0 6 6 100.0 7 3 10 1 0 1 1 4 -2
+p26
+aVHedo Turkoglu ORL 04/10/2011 ORL vs. CHI L 36 9 2 13 15.4 0 3 0.0 5 6 83.3 0 4 4 4 3 0 1 2 3
+p27
+aVBrandon Bass ORL 04/10/2011 ORL vs. CHI L 38 5 2 11 18.2 0 0 - 1 2 50.0 4 1 5 0 0 3 2 1 5
+p28
+aVGilbert Arenas ORL 04/10/2011 ORL vs. CHI L 24 5 2 8 25.0 1 3 33.3 0 0 - 0 2 2 0 1 0 1 3 -13
+p29
+aVQuentin Richardson ORL 04/06/2011 ORL @ CHA W 21 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 1 1 3 -4
+p30
+aVBrandon Bass ORL 04/06/2011 ORL @ CHA W 38 19 6 10 60.0 0 0 - 7 7 100.0 2 6 8 1 0 0 4 5 9
+p31
+aVEarl Clark ORL 04/06/2011 ORL @ CHA W 9 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 1 0 0 0 -7
+p32
+aVGilbert Arenas ORL 04/06/2011 ORL @ CHA W 45 25 9 14 64.3 6 11 54.5 1 2 50.0 0 2 2 2 2 0 5 3 7
+p33
+aVRyan Anderson ORL 04/06/2011 ORL @ CHA W 20 10 4 8 50.0 2 6 33.3 0 0 - 1 3 4 0 1 0 0 3 4
+p34
+aVHedo Turkoglu ORL 04/06/2011 ORL @ CHA W 40 17 6 13 46.2 3 8 37.5 2 2 100.0 0 7 7 3 1 1 2 2 15
+p35
+aVChris Duhon ORL 04/06/2011 ORL @ CHA W 16 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 3 0 0 0 0 6
+p36
+aVDwight Howard ORL 04/06/2011 ORL @ CHA W 39 15 5 9 55.6 0 0 - 5 7 71.4 1 6 7 1 1 6 2 4 12
+p37
+aVJameer Nelson ORL 04/06/2011 ORL @ CHA W 37 18 8 12 66.7 2 4 50.0 0 0 - 0 2 2 9 0 2 2 2 3
+p38
+aVHedo Turkoglu ORL 04/05/2011 ORL vs. MIL W 34 12 5 12 41.7 1 5 20.0 1 2 50.0 1 9 10 3 1 1 4 2 4
+p39
+aVJameer Nelson ORL 04/05/2011 ORL vs. MIL W 36 17 7 16 43.8 1 4 25.0 2 2 100.0 0 4 4 3 5 0 3 1 15
+p40
+aVJason Richardson ORL 04/05/2011 ORL vs. MIL W 32 8 4 14 28.6 0 5 0.0 0 0 - 2 3 5 2 3 0 2 1 10
+p41
+aVGilbert Arenas ORL 04/05/2011 ORL vs. MIL W 16 6 1 3 33.3 0 2 0.0 4 5 80.0 0 0 0 0 1 0 0 2 -4
+p42
+aVBrandon Bass ORL 04/05/2011 ORL vs. MIL W 34 13 3 3 100.0 0 0 - 7 10 70.0 2 2 4 0 0 3 5 2 10
+p43
+aVChris Duhon ORL 04/05/2011 ORL vs. MIL W 11 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 -8
+p44
+aVRyan Anderson ORL 04/05/2011 ORL vs. MIL W 21 3 1 4 25.0 0 2 0.0 1 2 50.0 1 5 6 1 0 0 2 2 -5
+p45
+aVQuentin Richardson ORL 04/05/2011 ORL vs. MIL W 16 1 0 2 0.0 0 2 0.0 1 2 50.0 0 2 2 0 0 0 0 2 1
+p46
+aVDwight Howard ORL 04/05/2011 ORL vs. MIL W 39 18 5 10 50.0 0 0 - 8 13 61.5 4 13 17 2 3 1 4 3 7
+p47
+aVDwight Howard ORL 04/03/2011 ORL @ TOR L 39 31 11 20 55.0 0 0 - 9 15 60.0 3 6 9 0 0 1 1 2 2
+p48
+aVQuentin Richardson ORL 04/03/2011 ORL @ TOR L 23 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 0 0 2 2 6
+p49
+aVBrandon Bass ORL 04/03/2011 ORL @ TOR L 29 13 6 9 66.7 0 0 - 1 2 50.0 3 6 9 0 0 0 1 2 -4
+p50
+aVRyan Anderson ORL 04/03/2011 ORL @ TOR L 19 6 2 4 50.0 2 3 66.7 0 0 - 0 3 3 1 2 0 0 0 0
+p51
+aVJason Richardson ORL 04/03/2011 ORL @ TOR L 43 13 5 13 38.5 3 7 42.9 0 1 0.0 0 2 2 1 0 0 1 0 -19
+p52
+aVJameer Nelson ORL 04/03/2011 ORL @ TOR L 42 21 7 14 50.0 2 4 50.0 5 6 83.3 0 2 2 7 3 0 3 5 -2
+p53
+aVMalik Allen ORL 04/03/2011 ORL @ TOR L 9 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -6
+p54
+aVHedo Turkoglu ORL 04/03/2011 ORL @ TOR L 36 11 5 11 45.5 1 5 20.0 0 3 0.0 0 2 2 4 1 0 0 4 3
+p55
+aVQuentin Richardson ORL 04/01/2011 ORL vs. CHA W 34 14 3 11 27.3 2 6 33.3 6 8 75.0 2 3 5 2 0 0 2 2 12
+p56
+aVJason Richardson ORL 04/01/2011 ORL vs. CHA W 32 7 3 8 37.5 1 4 25.0 0 0 - 0 2 2 1 2 1 1 2 6
+p57
+aVMalik Allen ORL 04/01/2011 ORL vs. CHA W 10 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 1 0 3 0
+p58
+aVHedo Turkoglu ORL 04/01/2011 ORL vs. CHA W 34 12 4 11 36.4 4 9 44.4 0 0 - 0 2 2 7 0 0 3 2 14
+p59
+aVBrandon Bass ORL 04/01/2011 ORL vs. CHA W 26 12 4 7 57.1 0 0 - 4 4 100.0 0 3 3 1 0 2 0 1 8
+p60
+aVEarl Clark ORL 04/01/2011 ORL vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p61
+aVDwight Howard ORL 04/01/2011 ORL vs. CHA W 38 26 10 14 71.4 0 0 - 6 8 75.0 5 9 14 1 2 2 2 0 12
+p62
+aVJameer Nelson ORL 04/01/2011 ORL vs. CHA W 42 15 5 13 38.5 1 4 25.0 4 4 100.0 0 3 3 6 2 0 3 3 10
+p63
+aVRyan Anderson ORL 04/01/2011 ORL vs. CHA W 22 3 1 6 16.7 1 6 16.7 0 0 - 1 3 4 0 0 0 1 1 4
+p64
+aVMalik Allen ORL 03/30/2011 ORL @ ATL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p65
+aVEarl Clark ORL 03/30/2011 ORL @ ATL L 6 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -8
+p66
+aVHedo Turkoglu ORL 03/30/2011 ORL @ ATL L 39 17 7 11 63.6 2 4 50.0 1 2 50.0 0 8 8 5 2 0 1 1 7
+p67
+aVJameer Nelson ORL 03/30/2011 ORL @ ATL L 37 20 9 17 52.9 2 4 50.0 0 0 - 1 2 3 5 1 0 1 3 -4
+p68
+aVGilbert Arenas ORL 03/30/2011 ORL @ ATL L 20 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 3 2 0 0 0 -6
+p69
+aVJason Richardson ORL 03/30/2011 ORL @ ATL L 42 3 1 7 14.3 0 3 0.0 1 2 50.0 1 2 3 4 0 0 0 3 2
+p70
+aVDwight Howard ORL 03/30/2011 ORL @ ATL L 33 17 4 13 30.8 0 0 - 9 15 60.0 4 9 13 0 3 1 2 5 7
+p71
+aVRyan Anderson ORL 03/30/2011 ORL @ ATL L 29 13 5 15 33.3 3 10 30.0 0 0 - 2 1 3 3 0 0 0 4 2
+p72
+aVBrandon Bass ORL 03/30/2011 ORL @ ATL L 33 12 6 10 60.0 0 0 - 0 0 - 1 3 4 0 1 0 2 2 -15
+p73
+aVBrandon Bass ORL 03/28/2011 ORL @ NYK L 33 14 7 9 77.8 0 0 - 0 0 - 0 6 6 0 1 0 1 3 -14
+p74
+aVMalik Allen ORL 03/28/2011 ORL @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p75
+aVEarl Clark ORL 03/28/2011 ORL @ NYK L 18 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 0 6 -16
+p76
+aVJason Richardson ORL 03/28/2011 ORL @ NYK L 45 24 10 20 50.0 4 11 36.4 0 0 - 0 2 2 4 4 1 4 3 -2
+p77
+aVHedo Turkoglu ORL 03/28/2011 ORL @ NYK L 41 18 5 13 38.5 4 8 50.0 4 7 57.1 0 2 2 4 0 0 3 6 10
+p78
+aVGilbert Arenas ORL 03/28/2011 ORL @ NYK L 43 9 2 11 18.2 1 7 14.3 4 6 66.7 2 8 10 5 3 0 5 3 -2
+p79
+aVRyan Anderson ORL 03/28/2011 ORL @ NYK L 27 10 2 7 28.6 2 6 33.3 4 4 100.0 3 3 6 3 0 0 2 1 -4
+p80
+aVChris Duhon ORL 03/28/2011 ORL @ NYK L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -11
+p81
+aVDwight Howard ORL 03/28/2011 ORL @ NYK L 46 29 9 17 52.9 0 0 - 11 15 73.3 4 14 18 2 1 0 5 6 4
+p82
+aVGilbert Arenas ORL 03/25/2011 ORL vs. NJN W 27 2 1 12 8.3 0 5 0.0 0 0 - 1 2 3 2 2 2 2 0 -1
+p83
+aVJason Richardson ORL 03/25/2011 ORL vs. NJN W 39 16 7 12 58.3 2 5 40.0 0 0 - 0 3 3 2 2 1 0 1 8
+p84
+aVJameer Nelson ORL 03/25/2011 ORL vs. NJN W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 3 0 2
+p85
+aVHedo Turkoglu ORL 03/25/2011 ORL vs. NJN W 38 20 8 11 72.7 3 4 75.0 1 2 50.0 0 1 1 13 0 0 0 0 10
+p86
+aVChris Duhon ORL 03/25/2011 ORL vs. NJN W 25 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 3 1 0 0 0 11
+p87
+aVBrandon Bass ORL 03/25/2011 ORL vs. NJN W 24 14 6 8 75.0 0 0 - 2 3 66.7 1 2 3 0 0 0 1 1 0
+p88
+aVDwight Howard ORL 03/25/2011 ORL vs. NJN W 42 21 7 12 58.3 0 0 - 7 18 38.9 3 11 14 0 2 3 5 3 4
+p89
+aVRyan Anderson ORL 03/25/2011 ORL vs. NJN W 30 15 5 8 62.5 5 8 62.5 0 0 - 1 8 9 1 2 1 0 2 16
+p90
+aVRyan Anderson ORL 03/23/2011 ORL @ NYK W 14 3 1 3 33.3 1 2 50.0 0 0 - 1 5 6 0 0 0 1 2 0
+p91
+aVJason Richardson ORL 03/23/2011 ORL @ NYK W 35 12 5 13 38.5 2 7 28.6 0 0 - 2 4 6 1 1 0 1 3 13
+p92
+aVChris Duhon ORL 03/23/2011 ORL @ NYK W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p93
+aVJameer Nelson ORL 03/23/2011 ORL @ NYK W 34 19 6 10 60.0 4 6 66.7 3 4 75.0 0 2 2 4 1 0 1 3 14
+p94
+aVBrandon Bass ORL 03/23/2011 ORL @ NYK W 31 15 3 9 33.3 0 0 - 9 9 100.0 3 4 7 1 1 2 1 3 19
+p95
+aVEarl Clark ORL 03/23/2011 ORL @ NYK W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 1 1 3 -7
+p96
+aVHedo Turkoglu ORL 03/23/2011 ORL @ NYK W 36 16 6 14 42.9 4 8 50.0 0 0 - 2 9 11 4 0 0 1 3 18
+p97
+aVGilbert Arenas ORL 03/23/2011 ORL @ NYK W 19 9 3 5 60.0 1 1 100.0 2 2 100.0 0 3 3 2 0 0 3 3 2
+p98
+aVDwight Howard ORL 03/23/2011 ORL @ NYK W 42 33 11 15 73.3 0 0 - 11 13 84.6 4 7 11 2 1 3 5 2 12
+p99
+aVQuentin Richardson ORL 03/23/2011 ORL @ NYK W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 2 0 0 4 -6
+p100
+aVDwight Howard ORL 03/21/2011 ORL @ CLE W 42 28 9 11 81.8 0 0 - 10 12 83.3 4 14 18 4 4 4 4 3 14
+p101
+aVChris Duhon ORL 03/21/2011 ORL @ CLE W 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -6
+p102
+aVQuentin Richardson ORL 03/21/2011 ORL @ CLE W 17 3 1 5 20.0 1 2 50.0 0 0 - 2 2 4 0 0 0 2 1 -1
+p103
+aVJason Richardson ORL 03/21/2011 ORL @ CLE W 31 11 4 12 33.3 1 5 20.0 2 2 100.0 1 2 3 1 3 0 1 1 18
+p104
+aVRyan Anderson ORL 03/21/2011 ORL @ CLE W 19 12 5 11 45.5 2 7 28.6 0 0 - 1 4 5 0 0 0 2 1 -4
+p105
+aVHedo Turkoglu ORL 03/21/2011 ORL @ CLE W 29 8 3 10 30.0 2 6 33.3 0 0 - 0 3 3 9 0 1 1 1 14
+p106
+aVGilbert Arenas ORL 03/21/2011 ORL @ CLE W 18 5 2 8 25.0 1 4 25.0 0 0 - 1 1 2 2 1 0 4 2 -9
+p107
+aVBrandon Bass ORL 03/21/2011 ORL @ CLE W 35 22 9 10 90.0 0 0 - 4 8 50.0 2 4 6 0 2 1 1 5 12
+p108
+aVJameer Nelson ORL 03/21/2011 ORL @ CLE W 35 8 3 9 33.3 2 4 50.0 0 1 0.0 1 5 6 8 1 0 4 1 17
+p109
+aVJameer Nelson ORL 03/18/2011 ORL vs. DEN W 35 13 5 12 41.7 3 6 50.0 0 0 - 0 3 3 1 2 0 3 2 3
+p110
+aVJason Richardson ORL 03/18/2011 ORL vs. DEN W 37 13 5 14 35.7 2 8 25.0 1 2 50.0 0 2 2 5 2 1 1 3 3
+p111
+aVEarl Clark ORL 03/18/2011 ORL vs. DEN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 2 3 -1
+p112
+aVDwight Howard ORL 03/18/2011 ORL vs. DEN W 37 16 5 9 55.6 0 0 - 6 13 46.2 6 12 18 3 4 5 5 3 1
+p113
+aVRyan Anderson ORL 03/18/2011 ORL vs. DEN W 17 9 3 8 37.5 1 5 20.0 2 2 100.0 3 2 5 0 0 1 1 2 7
+p114
+aVBrandon Bass ORL 03/18/2011 ORL vs. DEN W 34 13 2 13 15.4 0 0 - 9 10 90.0 4 4 8 0 0 1 1 5 -4
+p115
+aVHedo Turkoglu ORL 03/18/2011 ORL vs. DEN W 38 15 5 12 41.7 3 5 60.0 2 4 50.0 0 9 9 8 0 1 4 3 3
+p116
+aVQuentin Richardson ORL 03/18/2011 ORL vs. DEN W 22 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 0 1 0 1 2 3
+p117
+aVChris Duhon ORL 03/18/2011 ORL vs. DEN W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 0
+p118
+aVHedo Turkoglu ORL 03/16/2011 ORL @ MIL W 41 19 6 15 40.0 2 5 40.0 5 6 83.3 0 4 4 5 3 1 2 3 9
+p119
+aVQuentin Richardson ORL 03/16/2011 ORL @ MIL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p120
+aVJameer Nelson ORL 03/16/2011 ORL @ MIL W 38 10 5 15 33.3 0 2 0.0 0 0 - 3 0 3 3 0 0 2 4 2
+p121
+aVGilbert Arenas ORL 03/16/2011 ORL @ MIL W 20 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 2 0 0 0 0 0
+p122
+aVChris Duhon ORL 03/16/2011 ORL @ MIL W 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 3 1 2
+p123
+aVDwight Howard ORL 03/16/2011 ORL @ MIL W 46 31 9 12 75.0 0 1 0.0 13 24 54.2 7 14 21 2 2 3 5 4 3
+p124
+aVJason Richardson ORL 03/16/2011 ORL @ MIL W 45 13 5 13 38.5 3 8 37.5 0 0 - 0 3 3 2 3 0 2 1 -1
+p125
+aVRyan Anderson ORL 03/16/2011 ORL @ MIL W 32 7 2 8 25.0 1 7 14.3 2 4 50.0 4 10 14 3 2 0 0 2 12
+p126
+aVBrandon Bass ORL 03/16/2011 ORL @ MIL W 28 6 3 6 50.0 0 0 - 0 1 0.0 1 3 4 4 0 0 2 2 -2
+p127
+aVDwight Howard ORL 03/14/2011 ORL @ LAL L 43 22 8 14 57.1 0 0 - 6 11 54.5 4 11 15 2 1 2 9 4 -6
+p128
+aVBrandon Bass ORL 03/14/2011 ORL @ LAL L 20 9 4 5 80.0 0 0 - 1 3 33.3 1 3 4 0 0 1 0 0 -17
+p129
+aVQuentin Richardson ORL 03/14/2011 ORL @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p130
+aVJameer Nelson ORL 03/14/2011 ORL @ LAL L 30 13 6 10 60.0 1 2 50.0 0 0 - 0 5 5 8 0 0 4 4 -2
+p131
+aVGilbert Arenas ORL 03/14/2011 ORL @ LAL L 14 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -12
+p132
+aVHedo Turkoglu ORL 03/14/2011 ORL @ LAL L 42 12 5 10 50.0 2 5 40.0 0 0 - 0 4 4 2 0 0 0 5 -3
+p133
+aVChris Duhon ORL 03/14/2011 ORL @ LAL L 18 4 2 5 40.0 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -11
+p134
+aVJason Richardson ORL 03/14/2011 ORL @ LAL L 40 11 3 10 30.0 3 6 50.0 2 3 66.7 1 1 2 3 0 0 2 3 -8
+p135
+aVRyan Anderson ORL 03/14/2011 ORL @ LAL L 33 13 4 8 50.0 4 8 50.0 1 2 50.0 0 7 7 2 0 1 1 4 -3
+p136
+aVRyan Anderson ORL 03/13/2011 ORL @ PHX W 23 11 3 10 30.0 1 4 25.0 4 4 100.0 3 3 6 1 0 1 1 1 9
+p137
+aVChris Duhon ORL 03/13/2011 ORL @ PHX W 25 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 4 3 0 3 1 10
+p138
+aVQuentin Richardson ORL 03/13/2011 ORL @ PHX W 7 1 0 4 0.0 0 2 0.0 1 2 50.0 1 2 3 0 0 0 0 1 -2
+p139
+aVEarl Clark ORL 03/13/2011 ORL @ PHX W 6 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 1 0
+p140
+aVBrandon Bass ORL 03/13/2011 ORL @ PHX W 29 17 7 10 70.0 0 0 - 3 4 75.0 0 6 6 1 1 0 0 2 9
+p141
+aVJason Richardson ORL 03/13/2011 ORL @ PHX W 33 10 4 14 28.6 1 5 20.0 1 2 50.0 2 6 8 3 1 0 1 2 15
+p142
+aVMalik Allen ORL 03/13/2011 ORL @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p143
+aVHedo Turkoglu ORL 03/13/2011 ORL @ PHX W 28 13 5 8 62.5 1 3 33.3 2 2 100.0 0 7 7 2 0 0 0 1 16
+p144
+aVJameer Nelson ORL 03/13/2011 ORL @ PHX W 23 14 5 9 55.6 3 5 60.0 1 2 50.0 0 2 2 3 1 0 1 2 13
+p145
+aVDwight Howard ORL 03/13/2011 ORL @ PHX W 34 26 9 17 52.9 0 0 - 8 13 61.5 5 10 15 0 1 5 5 2 29
+p146
+aVGilbert Arenas ORL 03/13/2011 ORL @ PHX W 27 16 5 10 50.0 2 4 50.0 4 5 80.0 1 4 5 1 3 0 1 4 17
+p147
+aVDwight Howard ORL 03/11/2011 ORL @ GSW L 46 13 4 9 44.4 0 0 - 5 10 50.0 4 17 21 4 1 2 2 2 -5
+p148
+aVRyan Anderson ORL 03/11/2011 ORL @ GSW L 30 8 2 6 33.3 1 4 25.0 3 4 75.0 2 5 7 3 0 2 2 0 7
+p149
+aVJason Richardson ORL 03/11/2011 ORL @ GSW L 42 30 10 18 55.6 7 11 63.6 3 6 50.0 0 2 2 3 1 1 2 3 -4
+p150
+aVQuentin Richardson ORL 03/11/2011 ORL @ GSW L 27 5 2 6 33.3 1 2 50.0 0 0 - 3 1 4 0 1 0 2 1 1
+p151
+aVJameer Nelson ORL 03/11/2011 ORL @ GSW L 39 24 9 19 47.4 1 4 25.0 5 5 100.0 2 3 5 8 2 0 5 3 -8
+p152
+aVGilbert Arenas ORL 03/11/2011 ORL @ GSW L 17 10 2 5 40.0 1 4 25.0 5 5 100.0 0 2 2 0 0 0 0 1 2
+p153
+aVBrandon Bass ORL 03/11/2011 ORL @ GSW L 23 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 1 0 0 2 2 -6
+p154
+aVHedo Turkoglu ORL 03/11/2011 ORL @ GSW L 41 24 9 15 60.0 4 7 57.1 2 3 66.7 0 2 2 4 5 2 3 1 -2
+p155
+aVDwight Howard ORL 03/09/2011 ORL @ SAC W 40 16 4 8 50.0 0 0 - 8 14 57.1 2 13 15 2 0 3 5 6 4
+p156
+aVEarl Clark ORL 03/09/2011 ORL @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p157
+aVQuentin Richardson ORL 03/09/2011 ORL @ SAC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p158
+aVJason Richardson ORL 03/09/2011 ORL @ SAC W 35 19 8 16 50.0 3 6 50.0 0 2 0.0 1 3 4 1 3 0 2 1 7
+p159
+aVGilbert Arenas ORL 03/09/2011 ORL @ SAC W 17 12 5 9 55.6 2 4 50.0 0 0 - 0 0 0 3 0 0 0 3 -1
+p160
+aVHedo Turkoglu ORL 03/09/2011 ORL @ SAC W 35 13 4 8 50.0 3 5 60.0 2 6 33.3 0 3 3 3 0 2 2 4 1
+p161
+aVJameer Nelson ORL 03/09/2011 ORL @ SAC W 29 26 11 17 64.7 1 3 33.3 3 4 75.0 0 3 3 4 3 0 2 5 7
+p162
+aVChris Duhon ORL 03/09/2011 ORL @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p163
+aVRyan Anderson ORL 03/09/2011 ORL @ SAC W 27 7 2 4 50.0 1 3 33.3 2 2 100.0 1 2 3 1 0 2 0 4 3
+p164
+aVJJ Redick ORL 03/09/2011 ORL @ SAC W 21 5 1 7 14.3 0 2 0.0 3 4 75.0 0 1 1 0 3 0 1 1 -6
+p165
+aVBrandon Bass ORL 03/09/2011 ORL @ SAC W 27 8 4 10 40.0 0 0 - 0 0 - 2 4 6 0 1 2 1 4 4
+p166
+aVGilbert Arenas ORL 03/07/2011 ORL vs. POR L 27 9 4 9 44.4 1 3 33.3 0 0 - 1 3 4 2 0 0 6 3 6
+p167
+aVJameer Nelson ORL 03/07/2011 ORL vs. POR L 21 2 1 7 14.3 0 2 0.0 0 0 - 0 0 0 4 1 0 5 2 -10
+p168
+aVJJ Redick ORL 03/07/2011 ORL vs. POR L 24 8 3 5 60.0 1 1 100.0 1 1 100.0 0 1 1 2 0 0 0 1 -7
+p169
+aVEarl Clark ORL 03/07/2011 ORL vs. POR L 32 9 4 6 66.7 0 0 - 1 1 100.0 4 5 9 0 0 3 2 2 6
+p170
+aVQuentin Richardson ORL 03/07/2011 ORL vs. POR L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -1
+p171
+aVRyan Anderson ORL 03/07/2011 ORL vs. POR L 38 13 4 9 44.4 3 6 50.0 2 2 100.0 0 7 7 1 0 2 0 4 2
+p172
+aVJason Richardson ORL 03/07/2011 ORL vs. POR L 31 22 8 13 61.5 4 5 80.0 2 2 100.0 1 4 5 1 0 0 2 3 3
+p173
+aVHedo Turkoglu ORL 03/07/2011 ORL vs. POR L 41 13 5 12 41.7 2 4 50.0 1 2 50.0 1 4 5 3 0 0 1 0 -4
+p174
+aVBrandon Bass ORL 03/07/2011 ORL vs. POR L 24 9 4 9 44.4 0 0 - 1 1 100.0 1 6 7 1 2 0 1 1 -15
+p175
+aVJason Richardson ORL 03/04/2011 ORL vs. CHI L 38 16 6 13 46.2 4 7 57.1 0 0 - 0 5 5 0 3 0 1 3 1
+p176
+aVRyan Anderson ORL 03/04/2011 ORL vs. CHI L 20 3 1 5 20.0 1 3 33.3 0 0 - 0 5 5 1 0 0 0 3 -9
+p177
+aVGilbert Arenas ORL 03/04/2011 ORL vs. CHI L 15 3 0 5 0.0 0 4 0.0 3 3 100.0 0 0 0 2 0 0 1 0 -11
+p178
+aVBrandon Bass ORL 03/04/2011 ORL vs. CHI L 32 16 6 9 66.7 0 0 - 4 4 100.0 0 3 3 1 1 2 1 5 -6
+p179
+aVHedo Turkoglu ORL 03/04/2011 ORL vs. CHI L 30 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 2 1 0 1 4 0
+p180
+aVJJ Redick ORL 03/04/2011 ORL vs. CHI L 23 7 2 9 22.2 1 5 20.0 2 4 50.0 0 1 1 2 1 0 0 1 -11
+p181
+aVJameer Nelson ORL 03/04/2011 ORL vs. CHI L 33 14 7 15 46.7 0 2 0.0 0 0 - 0 3 3 6 1 0 4 1 1
+p182
+aVQuentin Richardson ORL 03/04/2011 ORL vs. CHI L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p183
+aVDwight Howard ORL 03/04/2011 ORL vs. CHI L 43 20 8 8 100.0 0 0 - 4 12 33.3 5 5 10 0 2 4 7 4 -1
+p184
+aVGilbert Arenas ORL 03/03/2011 ORL @ MIA W 16 11 3 7 42.9 3 5 60.0 2 2 100.0 0 0 0 2 0 0 3 0 10
+p185
+aVDwight Howard ORL 03/03/2011 ORL @ MIA W 45 14 5 10 50.0 0 0 - 4 6 66.7 5 13 18 5 0 5 1 5 13
+p186
+aVQuentin Richardson ORL 03/03/2011 ORL @ MIA W 17 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 2 0 0 3 9
+p187
+aVHedo Turkoglu ORL 03/03/2011 ORL @ MIA W 31 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 5 0 0 4 5 -12
+p188
+aVJason Richardson ORL 03/03/2011 ORL @ MIA W 40 24 9 14 64.3 6 8 75.0 0 0 - 1 2 3 2 0 0 2 1 15
+p189
+aVBrandon Bass ORL 03/03/2011 ORL @ MIA W 22 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 1 0 2 0 2 -13
+p190
+aVJJ Redick ORL 03/03/2011 ORL @ MIA W 13 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 3 0 0 0 3 -1
+p191
+aVJameer Nelson ORL 03/03/2011 ORL @ MIA W 35 16 6 15 40.0 1 4 25.0 3 4 75.0 0 1 1 7 0 0 3 4 -5
+p192
+aVRyan Anderson ORL 03/03/2011 ORL @ MIA W 23 15 5 10 50.0 3 6 50.0 2 2 100.0 2 3 5 0 1 1 0 1 -1
+p193
+aVDwight Howard ORL 03/01/2011 ORL vs. NYK W 43 30 9 15 60.0 0 0 - 12 17 70.6 4 12 16 2 0 5 6 3 15
+p194
+aVChris Duhon ORL 03/01/2011 ORL vs. NYK W 13 2 0 0 - 0 0 - 2 4 50.0 0 0 0 5 0 0 1 1 10
+p195
+aVJJ Redick ORL 03/01/2011 ORL vs. NYK W 33 12 3 8 37.5 0 2 0.0 6 6 100.0 0 2 2 1 0 0 1 3 -5
+p196
+aVJason Richardson ORL 03/01/2011 ORL vs. NYK W 34 8 3 8 37.5 1 5 20.0 1 3 33.3 1 6 7 0 2 1 2 3 16
+p197
+aVQuentin Richardson ORL 03/01/2011 ORL vs. NYK W 17 10 4 7 57.1 1 3 33.3 1 4 25.0 0 5 5 0 0 0 0 4 15
+p198
+aVHedo Turkoglu ORL 03/01/2011 ORL vs. NYK W 12 0 0 4 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 3 -14
+p199
+aVRyan Anderson ORL 03/01/2011 ORL vs. NYK W 24 16 5 6 83.3 4 5 80.0 2 2 100.0 1 4 5 1 0 0 0 3 14
+p200
+aVEarl Clark ORL 03/01/2011 ORL vs. NYK W 11 4 0 2 0.0 0 1 0.0 4 4 100.0 0 2 2 0 0 0 0 2 -11
+p201
+aVJameer Nelson ORL 03/01/2011 ORL vs. NYK W 35 26 10 16 62.5 2 2 100.0 4 6 66.7 0 3 3 4 0 0 3 5 -4
+p202
+aVBrandon Bass ORL 03/01/2011 ORL vs. NYK W 18 8 2 3 66.7 0 0 - 4 4 100.0 2 1 3 0 0 0 2 0 -6
+p203
+aVJJ Redick ORL 02/27/2011 ORL vs. CHA W 18 6 1 2 50.0 1 2 50.0 3 4 75.0 0 1 1 4 0 0 1 2 11
+p204
+aVEarl Clark ORL 02/27/2011 ORL vs. CHA W 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 0 -1
+p205
+aVDwight Howard ORL 02/27/2011 ORL vs. CHA W 33 20 7 12 58.3 0 0 - 6 13 46.2 0 10 10 2 2 2 1 2 7
+p206
+aVHedo Turkoglu ORL 02/27/2011 ORL vs. CHA W 37 9 4 6 66.7 1 2 50.0 0 1 0.0 0 3 3 6 2 1 1 3 7
+p207
+aVJason Richardson ORL 02/27/2011 ORL vs. CHA W 36 11 4 11 36.4 1 6 16.7 2 2 100.0 2 4 6 3 1 0 2 3 9
+p208
+aVGilbert Arenas ORL 02/27/2011 ORL vs. CHA W 16 16 5 7 71.4 4 6 66.7 2 3 66.7 0 3 3 2 0 0 1 2 10
+p209
+aVRyan Anderson ORL 02/27/2011 ORL vs. CHA W 27 6 2 9 22.2 2 8 25.0 0 0 - 1 6 7 1 1 0 0 2 2
+p210
+aVJameer Nelson ORL 02/27/2011 ORL vs. CHA W 32 13 6 11 54.5 1 4 25.0 0 1 0.0 0 1 1 7 1 0 3 0 4
+p211
+aVBrandon Bass ORL 02/27/2011 ORL vs. CHA W 33 17 5 8 62.5 0 0 - 7 8 87.5 0 4 4 1 0 3 2 1 21
+p212
+aVJason Richardson ORL 02/25/2011 ORL vs. OKC W 39 17 6 12 50.0 5 7 71.4 0 0 - 0 6 6 4 0 0 1 2 22
+p213
+aVQuentin Richardson ORL 02/25/2011 ORL vs. OKC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p214
+aVEarl Clark ORL 02/25/2011 ORL vs. OKC W 22 3 0 4 0.0 0 0 - 3 8 37.5 3 2 5 0 0 1 0 4 -5
+p215
+aVDwight Howard ORL 02/25/2011 ORL vs. OKC W 42 40 16 20 80.0 0 0 - 8 12 66.7 6 9 15 0 2 6 5 1 23
+p216
+aVJJ Redick ORL 02/25/2011 ORL vs. OKC W 32 16 6 12 50.0 2 4 50.0 2 2 100.0 0 4 4 2 1 0 0 0 9
+p217
+aVGilbert Arenas ORL 02/25/2011 ORL vs. OKC W 17 6 2 11 18.2 0 3 0.0 2 2 100.0 0 2 2 4 0 1 2 1 -8
+p218
+aVJameer Nelson ORL 02/25/2011 ORL vs. OKC W 31 14 5 11 45.5 2 5 40.0 2 2 100.0 1 8 9 5 0 0 1 3 31
+p219
+aVRyan Anderson ORL 02/25/2011 ORL vs. OKC W 4 2 0 1 0.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 0 0 -1
+p220
+aVHedo Turkoglu ORL 02/25/2011 ORL vs. OKC W 37 7 3 5 60.0 1 1 100.0 0 0 - 1 3 4 10 1 0 0 5 34
+p221
+aVBrandon Bass ORL 02/25/2011 ORL vs. OKC W 13 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 0 0 1 2 10
+p222
+aVJason Richardson ORL 02/23/2011 ORL vs. SAC L 24 8 4 12 33.3 0 3 0.0 0 0 - 2 4 6 4 1 0 0 1 -6
+p223
+aVBrandon Bass ORL 02/23/2011 ORL vs. SAC L 23 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 1 0 1 3 2 -10
+p224
+aVGilbert Arenas ORL 02/23/2011 ORL vs. SAC L 22 6 3 11 27.3 0 4 0.0 0 0 - 0 0 0 2 0 0 2 5 3
+p225
+aVJJ Redick ORL 02/23/2011 ORL vs. SAC L 31 12 5 10 50.0 2 4 50.0 0 0 - 0 2 2 0 0 0 1 1 -6
+p226
+aVJameer Nelson ORL 02/23/2011 ORL vs. SAC L 30 15 6 13 46.2 1 4 25.0 2 2 100.0 0 2 2 5 2 0 5 3 -8
+p227
+aVDwight Howard ORL 02/23/2011 ORL vs. SAC L 43 31 10 17 58.8 0 0 - 11 12 91.7 7 10 17 0 2 2 3 4 -1
+p228
+aVChris Duhon ORL 02/23/2011 ORL vs. SAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p229
+aVRyan Anderson ORL 02/23/2011 ORL vs. SAC L 29 9 3 10 30.0 1 6 16.7 2 3 66.7 1 1 2 1 2 1 0 2 1
+p230
+aVHedo Turkoglu ORL 02/23/2011 ORL vs. SAC L 37 19 7 10 70.0 4 7 57.1 1 1 100.0 0 4 4 8 2 0 3 4 -1
+p231
+aVHedo Turkoglu ORL 02/16/2011 ORL vs. WAS W 30 6 3 8 37.5 0 0 - 0 0 - 1 4 5 3 1 0 1 5 11
+p232
+aVQuentin Richardson ORL 02/16/2011 ORL vs. WAS W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p233
+aVDwight Howard ORL 02/16/2011 ORL vs. WAS W 29 32 12 15 80.0 0 0 - 8 11 72.7 2 8 10 1 1 3 1 2 25
+p234
+aVJJ Redick ORL 02/16/2011 ORL vs. WAS W 29 6 2 7 28.6 0 3 0.0 2 2 100.0 0 1 1 3 2 0 0 2 22
+p235
+aVRyan Anderson ORL 02/16/2011 ORL vs. WAS W 28 14 4 8 50.0 2 5 40.0 4 4 100.0 0 8 8 1 0 1 2 3 18
+p236
+aVGilbert Arenas ORL 02/16/2011 ORL vs. WAS W 25 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 6 1 0 3 4 12
+p237
+aVJameer Nelson ORL 02/16/2011 ORL vs. WAS W 23 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 4 0 0 0 2 13
+p238
+aVBrandon Bass ORL 02/16/2011 ORL vs. WAS W 33 15 6 13 46.2 0 0 - 3 3 100.0 5 6 11 0 2 1 1 0 7
+p239
+aVJason Richardson ORL 02/16/2011 ORL vs. WAS W 29 16 6 12 50.0 3 6 50.0 1 1 100.0 0 6 6 3 0 0 1 0 21
+p240
+aVChris Duhon ORL 02/16/2011 ORL vs. WAS W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p241
+aVEarl Clark ORL 02/16/2011 ORL vs. WAS W 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p242
+aVRyan Anderson ORL 02/13/2011 ORL vs. LAL W 18 9 3 5 60.0 3 5 60.0 0 0 - 1 4 5 1 0 0 0 3 -1
+p243
+aVJason Richardson ORL 02/13/2011 ORL vs. LAL W 37 12 5 15 33.3 2 7 28.6 0 0 - 0 6 6 1 0 0 0 2 11
+p244
+aVEarl Clark ORL 02/13/2011 ORL vs. LAL W 10 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 1 0 1 0 1 -3
+p245
+aVDwight Howard ORL 02/13/2011 ORL vs. LAL W 38 31 13 16 81.3 0 0 - 5 6 83.3 6 7 13 3 0 3 6 3 18
+p246
+aVBrandon Bass ORL 02/13/2011 ORL vs. LAL W 30 6 3 6 50.0 0 0 - 0 0 - 0 8 8 1 0 0 1 3 14
+p247
+aVGilbert Arenas ORL 02/13/2011 ORL vs. LAL W 20 4 2 7 28.6 0 2 0.0 0 0 - 0 4 4 3 1 0 4 1 5
+p248
+aVJJ Redick ORL 02/13/2011 ORL vs. LAL W 26 6 2 6 33.3 1 4 25.0 1 2 50.0 0 3 3 4 1 0 1 0 10
+p249
+aVJameer Nelson ORL 02/13/2011 ORL vs. LAL W 28 6 3 10 30.0 0 3 0.0 0 0 - 0 2 2 2 3 0 1 1 9
+p250
+aVHedo Turkoglu ORL 02/13/2011 ORL vs. LAL W 33 9 4 8 50.0 1 2 50.0 0 0 - 1 0 1 3 1 0 3 3 7
+p251
+aVGilbert Arenas ORL 02/11/2011 ORL vs. NOH L 19 11 4 9 44.4 0 3 0.0 3 3 100.0 0 1 1 4 2 0 2 2 -4
+p252
+aVJason Richardson ORL 02/11/2011 ORL vs. NOH L 34 6 3 9 33.3 0 3 0.0 0 0 - 0 6 6 3 0 0 1 2 -2
+p253
+aVDwight Howard ORL 02/11/2011 ORL vs. NOH L 42 20 8 12 66.7 0 0 - 4 12 33.3 5 12 17 1 1 3 1 4 -10
+p254
+aVEarl Clark ORL 02/11/2011 ORL vs. NOH L 26 14 5 9 55.6 0 0 - 4 5 80.0 1 0 1 0 0 3 1 2 -9
+p255
+aVJJ Redick ORL 02/11/2011 ORL vs. NOH L 29 14 4 10 40.0 2 5 40.0 4 4 100.0 0 3 3 2 0 0 1 1 -5
+p256
+aVRyan Anderson ORL 02/11/2011 ORL vs. NOH L 28 5 2 8 25.0 1 5 20.0 0 0 - 1 3 4 1 2 0 2 4 9
+p257
+aVJameer Nelson ORL 02/11/2011 ORL vs. NOH L 29 7 3 11 27.3 1 4 25.0 0 0 - 0 3 3 5 3 0 4 2 -2
+p258
+aVHedo Turkoglu ORL 02/11/2011 ORL vs. NOH L 33 16 7 10 70.0 1 1 100.0 1 1 100.0 0 6 6 5 0 0 4 4 -7
+p259
+aVRyan Anderson ORL 02/09/2011 ORL @ PHI W 29 12 4 6 66.7 4 6 66.7 0 0 - 0 5 5 1 0 0 3 2 5
+p260
+aVJameer Nelson ORL 02/09/2011 ORL @ PHI W 30 12 5 13 38.5 0 3 0.0 2 4 50.0 1 2 3 8 1 0 2 2 9
+p261
+aVDwight Howard ORL 02/09/2011 ORL @ PHI W 44 30 8 13 61.5 0 0 - 14 19 73.7 4 13 17 0 2 2 5 3 -3
+p262
+aVHedo Turkoglu ORL 02/09/2011 ORL @ PHI W 31 10 4 7 57.1 2 4 50.0 0 0 - 0 1 1 6 2 0 0 3 -12
+p263
+aVGilbert Arenas ORL 02/09/2011 ORL @ PHI W 18 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 3 1 0 3 2 -5
+p264
+aVJJ Redick ORL 02/09/2011 ORL @ PHI W 33 13 5 10 50.0 2 4 50.0 1 1 100.0 0 1 1 4 0 1 0 2 6
+p265
+aVEarl Clark ORL 02/09/2011 ORL @ PHI W 23 8 4 7 57.1 0 0 - 0 0 - 1 8 9 1 1 1 1 0 7
+p266
+aVJason Richardson ORL 02/09/2011 ORL @ PHI W 33 12 4 13 30.8 2 5 40.0 2 2 100.0 0 2 2 2 1 0 0 2 13
+p267
+aVRyan Anderson ORL 02/08/2011 ORL vs. LAC W 26 13 4 15 26.7 3 9 33.3 2 2 100.0 3 2 5 1 2 0 1 5 9
+p268
+aVMalik Allen ORL 02/08/2011 ORL vs. LAC W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -14
+p269
+aVDwight Howard ORL 02/08/2011 ORL vs. LAC W 37 22 7 13 53.8 0 0 - 8 14 57.1 6 14 20 2 2 1 4 4 30
+p270
+aVChris Duhon ORL 02/08/2011 ORL vs. LAC W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p271
+aVHedo Turkoglu ORL 02/08/2011 ORL vs. LAC W 37 5 2 7 28.6 0 2 0.0 1 2 50.0 3 5 8 7 2 0 1 4 15
+p272
+aVGilbert Arenas ORL 02/08/2011 ORL vs. LAC W 21 9 3 9 33.3 1 6 16.7 2 3 66.7 1 1 2 5 1 0 1 0 11
+p273
+aVJJ Redick ORL 02/08/2011 ORL vs. LAC W 26 12 5 8 62.5 2 3 66.7 0 0 - 1 5 6 1 0 0 1 0 13
+p274
+aVEarl Clark ORL 02/08/2011 ORL vs. LAC W 22 10 4 8 50.0 0 0 - 2 3 66.7 2 1 3 1 0 0 2 0 7
+p275
+aVJason Richardson ORL 02/08/2011 ORL vs. LAC W 28 10 4 10 40.0 0 5 0.0 2 2 100.0 1 0 1 4 2 0 3 1 3
+p276
+aVJameer Nelson ORL 02/08/2011 ORL vs. LAC W 29 17 5 9 55.6 4 5 80.0 3 6 50.0 0 3 3 1 0 0 2 2 6
+p277
+aVJason Richardson ORL 02/06/2011 ORL @ BOS L 33 10 4 11 36.4 2 5 40.0 0 0 - 1 0 1 0 1 0 0 0 -10
+p278
+aVRyan Anderson ORL 02/06/2011 ORL @ BOS L 32 12 5 10 50.0 1 3 33.3 1 2 50.0 5 2 7 1 0 0 1 4 -2
+p279
+aVJJ Redick ORL 02/06/2011 ORL @ BOS L 26 8 3 10 30.0 0 4 0.0 2 2 100.0 1 4 5 0 2 0 2 0 -2
+p280
+aVJameer Nelson ORL 02/06/2011 ORL @ BOS L 29 10 5 12 41.7 0 3 0.0 0 0 - 1 1 2 3 0 0 3 4 -5
+p281
+aVGilbert Arenas ORL 02/06/2011 ORL @ BOS L 15 0 0 7 0.0 0 2 0.0 0 0 - 1 2 3 3 0 0 2 4 -2
+p282
+aVDwight Howard ORL 02/06/2011 ORL @ BOS L 45 28 10 20 50.0 0 0 - 8 10 80.0 3 10 13 2 3 0 1 5 -10
+p283
+aVMalik Allen ORL 02/06/2011 ORL @ BOS L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p284
+aVQuentin Richardson ORL 02/06/2011 ORL @ BOS L 13 0 0 3 0.0 0 3 0.0 0 0 - 1 4 5 0 1 0 0 3 -5
+p285
+aVEarl Clark ORL 02/06/2011 ORL @ BOS L 16 8 4 10 40.0 0 0 - 0 0 - 2 4 6 0 0 0 1 3 -9
+p286
+aVHedo Turkoglu ORL 02/06/2011 ORL @ BOS L 25 4 1 10 10.0 0 4 0.0 2 2 100.0 0 3 3 4 0 1 1 3 -5
+p287
+aVChris Duhon ORL 02/06/2011 ORL @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p288
+aVHedo Turkoglu ORL 02/04/2011 ORL @ WAS W 32 7 2 10 20.0 1 2 50.0 2 2 100.0 1 4 5 4 2 0 1 2 25
+p289
+aVDwight Howard ORL 02/04/2011 ORL @ WAS W 32 22 10 11 90.9 0 0 - 2 5 40.0 4 11 15 1 0 0 3 2 27
+p290
+aVEarl Clark ORL 02/04/2011 ORL @ WAS W 18 10 5 12 41.7 0 0 - 0 3 0.0 4 3 7 0 2 1 1 0 4
+p291
+aVJameer Nelson ORL 02/04/2011 ORL @ WAS W 31 9 3 12 25.0 3 8 37.5 0 1 0.0 0 6 6 11 3 0 1 2 26
+p292
+aVJJ Redick ORL 02/04/2011 ORL @ WAS W 18 15 5 8 62.5 3 5 60.0 2 2 100.0 0 1 1 0 0 0 1 0 -8
+p293
+aVMalik Allen ORL 02/04/2011 ORL @ WAS W 16 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -9
+p294
+aVRyan Anderson ORL 02/04/2011 ORL @ WAS W 30 19 7 14 50.0 3 7 42.9 2 2 100.0 4 4 8 0 0 0 2 1 14
+p295
+aVJason Richardson ORL 02/04/2011 ORL @ WAS W 37 18 6 12 50.0 2 5 40.0 4 6 66.7 1 2 3 1 1 0 0 4 9
+p296
+aVGilbert Arenas ORL 02/04/2011 ORL @ WAS W 25 10 4 12 33.3 0 4 0.0 2 2 100.0 1 5 6 6 2 1 3 2 2
+p297
+aVEarl Clark ORL 02/03/2011 ORL vs. MIA L 14 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 2 -9
+p298
+aVRyan Anderson ORL 02/03/2011 ORL vs. MIA L 17 9 3 10 30.0 3 8 37.5 0 2 0.0 4 2 6 0 0 0 0 3 8
+p299
+aVGilbert Arenas ORL 02/03/2011 ORL vs. MIA L 27 10 3 9 33.3 1 2 50.0 3 6 50.0 0 0 0 4 2 0 0 5 8
+p300
+aVJameer Nelson ORL 02/03/2011 ORL vs. MIA L 36 22 6 12 50.0 2 5 40.0 8 8 100.0 3 3 6 6 0 0 1 3 2
+p301
+aVQuentin Richardson ORL 02/03/2011 ORL vs. MIA L 20 7 3 6 50.0 1 3 33.3 0 0 - 3 4 7 2 1 0 1 2 -4
+p302
+aVHedo Turkoglu ORL 02/03/2011 ORL vs. MIA L 30 13 5 8 62.5 1 1 100.0 2 2 100.0 0 2 2 3 0 0 3 3 -20
+p303
+aVJJ Redick ORL 02/03/2011 ORL vs. MIA L 18 2 1 8 12.5 0 4 0.0 0 0 - 0 0 0 3 0 0 0 1 -7
+p304
+aVJason Richardson ORL 02/03/2011 ORL vs. MIA L 30 18 7 14 50.0 4 9 44.4 0 0 - 0 4 4 1 1 0 2 5 6
+p305
+aVDwight Howard ORL 02/03/2011 ORL vs. MIA L 48 17 7 13 53.8 0 0 - 3 13 23.1 6 10 16 1 0 0 2 2 -4
+p306
+aVQuentin Richardson ORL 01/31/2011 ORL @ MEM L 10 0 0 3 0.0 0 3 0.0 0 0 - 2 0 2 1 1 0 1 1 -10
+p307
+aVGilbert Arenas ORL 01/31/2011 ORL @ MEM L 23 10 4 9 44.4 1 4 25.0 1 3 33.3 0 3 3 3 2 0 2 3 -3
+p308
+aVRyan Anderson ORL 01/31/2011 ORL @ MEM L 26 10 4 10 40.0 1 7 14.3 1 2 50.0 5 2 7 0 0 0 2 4 0
+p309
+aVChris Duhon ORL 01/31/2011 ORL @ MEM L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -7
+p310
+aVJason Richardson ORL 01/31/2011 ORL @ MEM L 40 18 6 14 42.9 2 7 28.6 4 4 100.0 0 1 1 1 2 0 0 2 6
+p311
+aVHedo Turkoglu ORL 01/31/2011 ORL @ MEM L 35 13 3 11 27.3 3 8 37.5 4 4 100.0 1 3 4 2 1 0 1 3 10
+p312
+aVJameer Nelson ORL 01/31/2011 ORL @ MEM L 30 8 3 8 37.5 1 3 33.3 1 1 100.0 1 4 5 4 0 0 3 3 -5
+p313
+aVDwight Howard ORL 01/31/2011 ORL @ MEM L 45 25 10 14 71.4 0 0 - 5 8 62.5 4 10 14 0 2 2 7 5 -4
+p314
+aVBrandon Bass ORL 01/31/2011 ORL @ MEM L 25 13 6 7 85.7 0 0 - 1 1 100.0 1 2 3 3 0 1 1 3 -2
+p315
+aVRyan Anderson ORL 01/30/2011 ORL vs. CLE W 30 23 8 16 50.0 5 10 50.0 2 2 100.0 9 7 16 0 0 1 2 4 7
+p316
+aVEarl Clark ORL 01/30/2011 ORL vs. CLE W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p317
+aVChris Duhon ORL 01/30/2011 ORL vs. CLE W 20 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 4 1 0 3 2 -1
+p318
+aVDwight Howard ORL 01/30/2011 ORL vs. CLE W 26 20 9 13 69.2 0 0 - 2 6 33.3 6 14 20 2 1 2 1 2 27
+p319
+aVJason Richardson ORL 01/30/2011 ORL vs. CLE W 28 12 4 13 30.8 1 7 14.3 3 4 75.0 0 2 2 3 2 0 0 1 17
+p320
+aVBrandon Bass ORL 01/30/2011 ORL vs. CLE W 32 12 3 13 23.1 0 0 - 6 8 75.0 4 4 8 0 0 2 1 3 7
+p321
+aVQuentin Richardson ORL 01/30/2011 ORL vs. CLE W 6 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 1 1 0 0 1 -2
+p322
+aVJJ Redick ORL 01/30/2011 ORL vs. CLE W 30 17 6 10 60.0 2 4 50.0 3 4 75.0 0 1 1 0 0 0 3 1 6
+p323
+aVJameer Nelson ORL 01/30/2011 ORL vs. CLE W 28 7 3 11 27.3 1 5 20.0 0 0 - 2 2 4 8 1 0 3 2 17
+p324
+aVHedo Turkoglu ORL 01/30/2011 ORL vs. CLE W 32 9 4 11 36.4 0 2 0.0 1 2 50.0 1 5 6 6 2 0 5 4 11
+p325
+aVJameer Nelson ORL 01/28/2011 ORL @ CHI L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 3
+p326
+aVJason Richardson ORL 01/28/2011 ORL @ CHI L 32 8 2 8 25.0 2 5 40.0 2 2 100.0 0 7 7 5 1 1 1 1 2
+p327
+aVRyan Anderson ORL 01/28/2011 ORL @ CHI L 19 9 2 8 25.0 2 7 28.6 3 3 100.0 1 3 4 0 0 0 0 4 -8
+p328
+aVHedo Turkoglu ORL 01/28/2011 ORL @ CHI L 36 5 2 12 16.7 0 4 0.0 1 2 50.0 1 2 3 5 0 0 1 4 -9
+p329
+aVChris Duhon ORL 01/28/2011 ORL @ CHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 4
+p330
+aVBrandon Bass ORL 01/28/2011 ORL @ CHI L 26 9 4 9 44.4 0 0 - 1 2 50.0 0 4 4 0 0 0 0 2 -3
+p331
+aVDwight Howard ORL 01/28/2011 ORL @ CHI L 42 40 14 20 70.0 0 0 - 12 16 75.0 5 10 15 2 4 3 3 2 -11
+p332
+aVQuentin Richardson ORL 01/28/2011 ORL @ CHI L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p333
+aVJJ Redick ORL 01/28/2011 ORL @ CHI L 32 8 3 6 50.0 1 2 50.0 1 2 50.0 0 1 1 2 0 1 1 4 -5
+p334
+aVGilbert Arenas ORL 01/28/2011 ORL @ CHI L 32 11 5 13 38.5 0 3 0.0 1 1 100.0 0 3 3 3 1 1 4 5 -16
+p335
+aVGilbert Arenas ORL 01/26/2011 ORL @ IND W 21 8 2 5 40.0 2 5 40.0 2 2 100.0 0 3 3 3 1 0 3 3 2
+p336
+aVJJ Redick ORL 01/26/2011 ORL @ IND W 30 10 4 8 50.0 2 5 40.0 0 0 - 0 1 1 3 0 0 2 1 9
+p337
+aVChris Duhon ORL 01/26/2011 ORL @ IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p338
+aVDwight Howard ORL 01/26/2011 ORL @ IND W 38 19 8 16 50.0 0 0 - 3 8 37.5 3 13 16 0 2 3 3 4 20
+p339
+aVQuentin Richardson ORL 01/26/2011 ORL @ IND W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 0
+p340
+aVHedo Turkoglu ORL 01/26/2011 ORL @ IND W 37 18 7 10 70.0 1 3 33.3 3 3 100.0 1 5 6 4 1 0 2 4 11
+p341
+aVJameer Nelson ORL 01/26/2011 ORL @ IND W 27 12 5 11 45.5 2 4 50.0 0 0 - 0 2 2 4 0 0 2 5 13
+p342
+aVBrandon Bass ORL 01/26/2011 ORL @ IND W 22 8 4 7 57.1 0 0 - 0 0 - 2 4 6 0 0 0 0 3 3
+p343
+aVJason Richardson ORL 01/26/2011 ORL @ IND W 39 19 5 14 35.7 4 9 44.4 5 6 83.3 1 8 9 2 1 0 1 2 18
+p344
+aVRyan Anderson ORL 01/26/2011 ORL @ IND W 22 14 5 10 50.0 4 7 57.1 0 0 - 1 1 2 3 0 1 0 1 -1
+p345
+aVJJ Redick ORL 01/24/2011 ORL vs. DET L 12 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 1 2 7
+p346
+aVJason Richardson ORL 01/24/2011 ORL vs. DET L 31 6 3 11 27.3 0 6 0.0 0 0 - 1 2 3 2 1 0 1 5 -7
+p347
+aVRyan Anderson ORL 01/24/2011 ORL vs. DET L 26 21 5 11 45.5 4 10 40.0 7 8 87.5 2 3 5 1 0 3 4 2 -1
+p348
+aVBrandon Bass ORL 01/24/2011 ORL vs. DET L 29 12 5 10 50.0 0 0 - 2 5 40.0 1 7 8 0 1 2 1 0 -6
+p349
+aVDwight Howard ORL 01/24/2011 ORL vs. DET L 40 20 8 13 61.5 0 0 - 4 8 50.0 7 9 16 1 1 3 2 3 -6
+p350
+aVQuentin Richardson ORL 01/24/2011 ORL vs. DET L 12 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -2
+p351
+aVGilbert Arenas ORL 01/24/2011 ORL vs. DET L 24 9 3 7 42.9 0 2 0.0 3 5 60.0 0 3 3 3 0 0 2 2 -9
+p352
+aVJameer Nelson ORL 01/24/2011 ORL vs. DET L 30 14 4 8 50.0 1 3 33.3 5 6 83.3 0 2 2 3 0 0 2 5 -6
+p353
+aVHedo Turkoglu ORL 01/24/2011 ORL vs. DET L 35 4 2 8 25.0 0 3 0.0 0 0 - 1 7 8 7 0 1 3 2 -5
+p354
+aVEarl Clark ORL 01/22/2011 ORL @ HOU W 7 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -5
+p355
+aVGilbert Arenas ORL 01/22/2011 ORL @ HOU W 20 4 2 4 50.0 0 1 0.0 0 1 0.0 3 2 5 5 0 0 2 5 2
+p356
+aVHedo Turkoglu ORL 01/22/2011 ORL @ HOU W 29 21 8 11 72.7 2 4 50.0 3 3 100.0 0 3 3 5 0 2 0 2 19
+p357
+aVJJ Redick ORL 01/22/2011 ORL @ HOU W 29 13 5 12 41.7 3 6 50.0 0 0 - 0 2 2 3 0 0 0 0 7
+p358
+aVJason Richardson ORL 01/22/2011 ORL @ HOU W 33 18 7 12 58.3 4 7 57.1 0 0 - 0 3 3 1 0 0 0 3 8
+p359
+aVJameer Nelson ORL 01/22/2011 ORL @ HOU W 24 10 3 5 60.0 2 4 50.0 2 2 100.0 0 3 3 9 0 0 2 1 15
+p360
+aVChris Duhon ORL 01/22/2011 ORL @ HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p361
+aVBrandon Bass ORL 01/22/2011 ORL @ HOU W 29 18 9 13 69.2 0 0 - 0 0 - 3 4 7 0 0 2 2 3 15
+p362
+aVDwight Howard ORL 01/22/2011 ORL @ HOU W 30 22 7 11 63.6 0 0 - 8 13 61.5 1 13 14 2 0 2 3 1 13
+p363
+aVQuentin Richardson ORL 01/22/2011 ORL @ HOU W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p364
+aVRyan Anderson ORL 01/22/2011 ORL @ HOU W 30 12 5 15 33.3 2 8 25.0 0 0 - 3 3 6 0 0 1 1 3 5
+p365
+aVJason Richardson ORL 01/21/2011 ORL vs. TOR W 28 7 2 6 33.3 1 4 25.0 2 2 100.0 1 3 4 0 0 0 1 3 21
+p366
+aVEarl Clark ORL 01/21/2011 ORL vs. TOR W 8 4 1 4 25.0 0 1 0.0 2 3 66.7 0 1 1 0 0 0 1 1 10
+p367
+aVHedo Turkoglu ORL 01/21/2011 ORL vs. TOR W 24 6 3 4 75.0 0 0 - 0 0 - 1 5 6 2 0 1 1 3 24
+p368
+aVChris Duhon ORL 01/21/2011 ORL vs. TOR W 8 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 0 1 0 0 0 8
+p369
+aVJJ Redick ORL 01/21/2011 ORL vs. TOR W 24 12 4 7 57.1 2 4 50.0 2 2 100.0 0 2 2 0 1 0 2 1 17
+p370
+aVQuentin Richardson ORL 01/21/2011 ORL vs. TOR W 10 4 2 3 66.7 0 1 0.0 0 0 - 1 2 3 0 0 1 0 0 6
+p371
+aVBrandon Bass ORL 01/21/2011 ORL vs. TOR W 32 10 4 8 50.0 0 0 - 2 2 100.0 1 8 9 2 1 1 0 1 24
+p372
+aVJason Williams ORL 01/21/2011 ORL vs. TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 7
+p373
+aVJameer Nelson ORL 01/21/2011 ORL vs. TOR W 25 9 4 12 33.3 1 4 25.0 0 0 - 1 3 4 8 0 0 2 3 20
+p374
+aVGilbert Arenas ORL 01/21/2011 ORL vs. TOR W 21 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 7 0 0 1 0 17
+p375
+aVRyan Anderson ORL 01/21/2011 ORL vs. TOR W 26 21 8 16 50.0 4 9 44.4 1 1 100.0 6 4 10 0 1 0 0 1 27
+p376
+aVDwight Howard ORL 01/21/2011 ORL vs. TOR W 30 31 12 21 57.1 0 0 - 7 13 53.8 9 10 19 1 0 1 1 1 19
+p377
+aVJJ Redick ORL 01/19/2011 ORL vs. PHI W 32 12 4 7 57.1 1 4 25.0 3 3 100.0 0 6 6 1 0 1 2 2 4
+p378
+aVDwight Howard ORL 01/19/2011 ORL vs. PHI W 31 18 4 5 80.0 0 0 - 10 22 45.5 1 6 7 1 0 2 4 6 5
+p379
+aVGilbert Arenas ORL 01/19/2011 ORL vs. PHI W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 1
+p380
+aVJameer Nelson ORL 01/19/2011 ORL vs. PHI W 42 16 7 15 46.7 2 3 66.7 0 0 - 0 6 6 8 1 0 3 4 -2
+p381
+aVJason Richardson ORL 01/19/2011 ORL vs. PHI W 39 8 2 11 18.2 1 5 20.0 3 3 100.0 0 7 7 2 1 0 2 2 3
+p382
+aVRyan Anderson ORL 01/19/2011 ORL vs. PHI W 28 20 8 15 53.3 4 10 40.0 0 1 0.0 0 4 4 2 0 0 1 1 9
+p383
+aVHedo Turkoglu ORL 01/19/2011 ORL vs. PHI W 42 12 5 7 71.4 0 1 0.0 2 5 40.0 0 6 6 3 2 0 2 4 -5
+p384
+aVBrandon Bass ORL 01/19/2011 ORL vs. PHI W 38 11 3 11 27.3 0 0 - 5 7 71.4 3 7 10 0 2 1 1 3 -10
+p385
+aVHedo Turkoglu ORL 01/17/2011 ORL @ BOS L 36 11 4 11 36.4 2 5 40.0 1 2 50.0 1 2 3 8 0 0 2 5 -1
+p386
+aVJason Richardson ORL 01/17/2011 ORL @ BOS L 42 14 5 14 35.7 2 8 25.0 2 4 50.0 0 4 4 0 1 0 2 4 -4
+p387
+aVDwight Howard ORL 01/17/2011 ORL @ BOS L 43 33 10 19 52.6 0 0 - 13 18 72.2 5 8 13 2 1 0 3 1 -6
+p388
+aVRyan Anderson ORL 01/17/2011 ORL @ BOS L 29 16 5 8 62.5 4 6 66.7 2 2 100.0 5 3 8 0 0 2 0 3 -2
+p389
+aVBrandon Bass ORL 01/17/2011 ORL @ BOS L 23 13 4 7 57.1 0 0 - 5 5 100.0 1 2 3 2 0 0 0 2 2
+p390
+aVJameer Nelson ORL 01/17/2011 ORL @ BOS L 33 9 3 5 60.0 2 3 66.7 1 2 50.0 0 1 1 5 0 0 2 3 -4
+p391
+aVGilbert Arenas ORL 01/17/2011 ORL @ BOS L 16 7 2 6 33.3 1 3 33.3 2 2 100.0 1 1 2 2 1 0 3 2 1
+p392
+aVJJ Redick ORL 01/17/2011 ORL @ BOS L 18 3 1 4 25.0 0 2 0.0 1 1 100.0 0 0 0 0 0 0 1 1 -1
+p393
+aVHedo Turkoglu ORL 01/15/2011 ORL @ MIN W 32 9 3 5 60.0 1 2 50.0 2 2 100.0 0 5 5 3 0 0 4 1 30
+p394
+aVBrandon Bass ORL 01/15/2011 ORL @ MIN W 25 10 4 13 30.8 0 0 - 2 2 100.0 1 3 4 1 1 1 0 4 1
+p395
+aVJason Richardson ORL 01/15/2011 ORL @ MIN W 35 21 7 13 53.8 3 7 42.9 4 4 100.0 0 3 3 1 2 1 1 2 -6
+p396
+aVRyan Anderson ORL 01/15/2011 ORL @ MIN W 29 15 5 11 45.5 3 8 37.5 2 2 100.0 3 8 11 0 2 1 0 3 5
+p397
+aVJJ Redick ORL 01/15/2011 ORL @ MIN W 32 21 7 15 46.7 3 8 37.5 4 4 100.0 0 2 2 1 1 0 1 1 -2
+p398
+aVGilbert Arenas ORL 01/15/2011 ORL @ MIN W 22 7 2 9 22.2 0 3 0.0 3 4 75.0 0 3 3 7 0 0 2 1 11
+p399
+aVJameer Nelson ORL 01/15/2011 ORL @ MIN W 26 9 3 5 60.0 1 1 100.0 2 2 100.0 0 0 0 7 2 0 2 4 -2
+p400
+aVDwight Howard ORL 01/15/2011 ORL @ MIN W 38 16 5 10 50.0 0 0 - 6 9 66.7 4 5 9 1 3 1 4 5 11
+p401
+aVEarl Clark ORL 01/15/2011 ORL @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p402
+aVDwight Howard ORL 01/13/2011 ORL @ OKC L 43 39 11 19 57.9 0 0 - 17 20 85.0 8 10 18 1 0 2 2 4 1
+p403
+aVJJ Redick ORL 01/13/2011 ORL @ OKC L 31 18 6 11 54.5 4 5 80.0 2 2 100.0 1 0 1 1 0 0 2 2 13
+p404
+aVRyan Anderson ORL 01/13/2011 ORL @ OKC L 23 15 5 10 50.0 3 5 60.0 2 3 66.7 4 1 5 1 0 0 0 1 -1
+p405
+aVGilbert Arenas ORL 01/13/2011 ORL @ OKC L 19 9 3 8 37.5 2 6 33.3 1 2 50.0 0 1 1 5 0 0 0 4 -3
+p406
+aVHedo Turkoglu ORL 01/13/2011 ORL @ OKC L 32 7 2 9 22.2 0 1 0.0 3 6 50.0 0 2 2 8 2 1 0 5 1
+p407
+aVBrandon Bass ORL 01/13/2011 ORL @ OKC L 20 8 3 8 37.5 0 0 - 2 2 100.0 2 2 4 0 0 0 0 0 -16
+p408
+aVJason Richardson ORL 01/13/2011 ORL @ OKC L 38 19 7 13 53.8 4 8 50.0 1 2 50.0 0 3 3 0 1 0 0 2 1
+p409
+aVJameer Nelson ORL 01/13/2011 ORL @ OKC L 35 9 4 12 33.3 1 3 33.3 0 0 - 0 2 2 6 2 0 1 4 -1
+p410
+aVJason Richardson ORL 01/12/2011 ORL @ NOH L 43 21 8 16 50.0 5 8 62.5 0 0 - 2 5 7 1 1 0 1 5 0
+p411
+aVRyan Anderson ORL 01/12/2011 ORL @ NOH L 21 14 5 9 55.6 4 7 57.1 0 0 - 2 6 8 0 0 2 1 1 5
+p412
+aVDwight Howard ORL 01/12/2011 ORL @ NOH L 48 29 13 19 68.4 0 0 - 3 7 42.9 6 14 20 0 1 2 3 2 -1
+p413
+aVJameer Nelson ORL 01/12/2011 ORL @ NOH L 39 2 1 9 11.1 0 3 0.0 0 0 - 0 1 1 10 0 0 3 1 -1
+p414
+aVJJ Redick ORL 01/12/2011 ORL @ NOH L 34 5 2 11 18.2 1 8 12.5 0 0 - 0 0 0 2 0 0 1 1 8
+p415
+aVBrandon Bass ORL 01/12/2011 ORL @ NOH L 32 6 3 13 23.1 0 0 - 0 0 - 1 8 9 0 0 0 0 3 -16
+p416
+aVHedo Turkoglu ORL 01/12/2011 ORL @ NOH L 34 8 2 10 20.0 2 3 66.7 2 3 66.7 0 3 3 4 0 0 2 2 -6
+p417
+aVGilbert Arenas ORL 01/12/2011 ORL @ NOH L 14 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 2 1 0 2 1 -4
+p418
+aVDwight Howard ORL 01/08/2011 ORL @ DAL W 29 23 9 16 56.3 0 0 - 5 7 71.4 4 9 13 1 1 2 2 4 6
+p419
+aVJameer Nelson ORL 01/08/2011 ORL @ DAL W 27 16 5 10 50.0 4 6 66.7 2 2 100.0 1 1 2 1 1 0 2 2 2
+p420
+aVRyan Anderson ORL 01/08/2011 ORL @ DAL W 10 11 4 10 40.0 2 5 40.0 1 2 50.0 3 3 6 1 0 2 1 3 14
+p421
+aVHedo Turkoglu ORL 01/08/2011 ORL @ DAL W 28 13 5 8 62.5 2 4 50.0 1 2 50.0 0 3 3 17 5 1 2 3 11
+p422
+aVBrandon Bass ORL 01/08/2011 ORL @ DAL W 26 11 5 7 71.4 0 0 - 1 2 50.0 2 3 5 1 0 0 1 0 1
+p423
+aVJJ Redick ORL 01/08/2011 ORL @ DAL W 14 9 2 7 28.6 1 5 20.0 4 4 100.0 0 3 3 2 0 0 1 3 3
+p424
+aVJason Richardson ORL 01/08/2011 ORL @ DAL W 37 20 7 12 58.3 3 6 50.0 3 3 100.0 0 3 3 3 1 0 1 0 5
+p425
+aVGilbert Arenas ORL 01/08/2011 ORL @ DAL W 9 14 5 11 45.5 2 6 33.3 2 4 50.0 0 3 3 1 2 0 3 2 8
+p426
+aVQuentin Richardson ORL 01/07/2011 ORL vs. HOU W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p427
+aVChris Duhon ORL 01/07/2011 ORL vs. HOU W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -2
+p428
+aVBrandon Bass ORL 01/07/2011 ORL vs. HOU W 26 18 8 12 66.7 0 0 - 2 2 100.0 3 6 9 0 0 0 0 4 12
+p429
+aVRyan Anderson ORL 01/07/2011 ORL vs. HOU W 25 16 6 12 50.0 3 7 42.9 1 1 100.0 1 6 7 2 0 1 0 2 3
+p430
+aVJason Richardson ORL 01/07/2011 ORL vs. HOU W 28 18 7 8 87.5 4 5 80.0 0 0 - 0 3 3 3 0 0 1 3 12
+p431
+aVJameer Nelson ORL 01/07/2011 ORL vs. HOU W 24 10 3 5 60.0 0 1 0.0 4 4 100.0 1 2 3 8 0 0 3 2 17
+p432
+aVDwight Howard ORL 01/07/2011 ORL vs. HOU W 27 13 6 12 50.0 0 0 - 1 1 100.0 1 10 11 1 1 2 4 5 16
+p433
+aVGilbert Arenas ORL 01/07/2011 ORL vs. HOU W 24 8 3 9 33.3 0 3 0.0 2 2 100.0 0 4 4 4 1 1 2 3 -2
+p434
+aVEarl Clark ORL 01/07/2011 ORL vs. HOU W 18 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 1 1 0 1 -1
+p435
+aVJJ Redick ORL 01/07/2011 ORL vs. HOU W 26 7 2 5 40.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 4 3 7
+p436
+aVHedo Turkoglu ORL 01/07/2011 ORL vs. HOU W 30 12 6 12 50.0 0 1 0.0 0 0 - 1 2 3 6 0 0 1 0 15
+p437
+aVJameer Nelson ORL 01/05/2011 ORL vs. MIL W 35 10 3 9 33.3 1 4 25.0 3 4 75.0 1 6 7 9 0 0 3 0 14
+p438
+aVRyan Anderson ORL 01/05/2011 ORL vs. MIL W 23 7 2 5 40.0 1 4 25.0 2 3 66.7 0 3 3 0 1 1 0 4 5
+p439
+aVDwight Howard ORL 01/05/2011 ORL vs. MIL W 43 28 9 16 56.3 0 0 - 10 15 66.7 4 9 13 3 2 1 3 2 9
+p440
+aVJJ Redick ORL 01/05/2011 ORL vs. MIL W 34 10 4 9 44.4 0 4 0.0 2 2 100.0 1 6 7 4 1 0 1 1 4
+p441
+aVJason Richardson ORL 01/05/2011 ORL vs. MIL W 35 13 6 13 46.2 0 5 0.0 1 2 50.0 0 3 3 3 0 0 0 4 13
+p442
+aVBrandon Bass ORL 01/05/2011 ORL vs. MIL W 23 10 4 8 50.0 0 0 - 2 2 100.0 2 4 6 1 0 1 1 4 2
+p443
+aVHedo Turkoglu ORL 01/05/2011 ORL vs. MIL W 34 13 5 8 62.5 1 3 33.3 2 5 40.0 1 3 4 3 1 1 2 4 7
+p444
+aVGilbert Arenas ORL 01/05/2011 ORL vs. MIL W 13 6 2 9 22.2 2 2 100.0 0 0 - 0 1 1 0 0 0 1 0 -4
+p445
+aVJason Richardson ORL 01/03/2011 ORL vs. GSW W 39 20 8 16 50.0 4 7 57.1 0 0 - 1 4 5 2 0 1 4 2 19
+p446
+aVDwight Howard ORL 01/03/2011 ORL vs. GSW W 43 22 7 9 77.8 0 1 0.0 8 12 66.7 6 11 17 3 2 1 5 2 24
+p447
+aVGilbert Arenas ORL 01/03/2011 ORL vs. GSW W 26 11 5 11 45.5 1 6 16.7 0 0 - 0 0 0 2 1 1 3 1 14
+p448
+aVQuentin Richardson ORL 01/03/2011 ORL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p449
+aVJameer Nelson ORL 01/03/2011 ORL vs. GSW W 22 11 4 9 44.4 3 5 60.0 0 0 - 0 1 1 4 1 0 4 3 6
+p450
+aVBrandon Bass ORL 01/03/2011 ORL vs. GSW W 26 10 3 8 37.5 0 0 - 4 5 80.0 0 3 3 0 0 1 0 0 2
+p451
+aVHedo Turkoglu ORL 01/03/2011 ORL vs. GSW W 38 10 3 9 33.3 1 3 33.3 3 4 75.0 1 13 14 10 5 0 2 3 15
+p452
+aVRyan Anderson ORL 01/03/2011 ORL vs. GSW W 19 13 4 7 57.1 2 5 40.0 3 3 100.0 1 1 2 2 0 0 0 1 6
+p453
+aVJJ Redick ORL 01/03/2011 ORL vs. GSW W 26 13 4 8 50.0 4 5 80.0 1 1 100.0 0 0 0 3 2 0 1 3 13
+p454
+aVDwight Howard ORL 12/30/2010 ORL vs. NYK W 39 24 8 19 42.1 0 0 - 8 13 61.5 9 9 18 3 1 1 5 5 3
+p455
+aVRyan Anderson ORL 12/30/2010 ORL vs. NYK W 19 14 5 8 62.5 3 5 60.0 1 2 50.0 2 3 5 0 2 0 1 3 9
+p456
+aVJameer Nelson ORL 12/30/2010 ORL vs. NYK W 28 10 5 11 45.5 0 3 0.0 0 0 - 0 3 3 7 0 0 1 3 -4
+p457
+aVJason Richardson ORL 12/30/2010 ORL vs. NYK W 35 9 3 9 33.3 1 6 16.7 2 4 50.0 1 6 7 0 1 0 2 2 3
+p458
+aVGilbert Arenas ORL 12/30/2010 ORL vs. NYK W 20 10 4 10 40.0 2 5 40.0 0 0 - 0 0 0 6 2 1 3 2 13
+p459
+aVHedo Turkoglu ORL 12/30/2010 ORL vs. NYK W 38 17 6 12 50.0 2 6 33.3 3 6 50.0 1 8 9 4 1 0 2 6 -2
+p460
+aVBrandon Bass ORL 12/30/2010 ORL vs. NYK W 23 14 5 8 62.5 0 0 - 4 4 100.0 4 3 7 0 0 0 2 0 1
+p461
+aVJJ Redick ORL 12/30/2010 ORL vs. NYK W 36 14 5 9 55.6 1 2 50.0 3 3 100.0 0 1 1 2 1 0 1 0 21
+p462
+aVEarl Clark ORL 12/30/2010 ORL vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p463
+aVGilbert Arenas ORL 12/28/2010 ORL @ CLE W 32 22 8 15 53.3 5 8 62.5 1 1 100.0 0 6 6 11 3 0 5 3 24
+p464
+aVJason Richardson ORL 12/28/2010 ORL @ CLE W 29 20 8 13 61.5 4 6 66.7 0 0 - 1 4 5 1 2 1 2 1 -5
+p465
+aVBrandon Bass ORL 12/28/2010 ORL @ CLE W 22 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 0 0 1 4 -11
+p466
+aVHedo Turkoglu ORL 12/28/2010 ORL @ CLE W 36 9 3 8 37.5 2 5 40.0 1 1 100.0 1 5 6 5 0 0 3 3 7
+p467
+aVJameer Nelson ORL 12/28/2010 ORL @ CLE W 31 13 4 11 36.4 3 6 50.0 2 3 66.7 1 4 5 6 2 0 1 4 8
+p468
+aVJJ Redick ORL 12/28/2010 ORL @ CLE W 19 14 4 7 57.1 3 3 100.0 3 4 75.0 0 1 1 0 0 0 0 1 8
+p469
+aVDwight Howard ORL 12/28/2010 ORL @ CLE W 29 12 4 8 50.0 0 0 - 4 6 66.7 3 3 6 1 2 1 7 4 -1
+p470
+aVEarl Clark ORL 12/28/2010 ORL @ CLE W 18 12 6 10 60.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 18
+p471
+aVRyan Anderson ORL 12/28/2010 ORL @ CLE W 23 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 1 1 0 0 3 27
+p472
+aVBrandon Bass ORL 12/27/2010 ORL @ NJN W 32 11 5 7 71.4 0 1 0.0 1 1 100.0 3 1 4 0 0 1 1 3 8
+p473
+aVGilbert Arenas ORL 12/27/2010 ORL @ NJN W 21 9 4 9 44.4 1 4 25.0 0 0 - 1 4 5 3 1 0 3 3 11
+p474
+aVQuentin Richardson ORL 12/27/2010 ORL @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p475
+aVChris Duhon ORL 12/27/2010 ORL @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p476
+aVJason Richardson ORL 12/27/2010 ORL @ NJN W 31 14 5 11 45.5 1 4 25.0 3 3 100.0 1 3 4 4 1 0 1 1 9
+p477
+aVDwight Howard ORL 12/27/2010 ORL @ NJN W 32 19 5 10 50.0 0 0 - 9 13 69.2 1 12 13 3 0 6 1 3 17
+p478
+aVRyan Anderson ORL 12/27/2010 ORL @ NJN W 28 10 4 12 33.3 1 3 33.3 1 2 50.0 5 6 11 3 2 1 2 2 14
+p479
+aVHedo Turkoglu ORL 12/27/2010 ORL @ NJN W 33 20 8 13 61.5 4 7 57.1 0 0 - 1 7 8 5 1 0 2 5 7
+p480
+aVJameer Nelson ORL 12/27/2010 ORL @ NJN W 24 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 7 3 0 3 3 12
+p481
+aVEarl Clark ORL 12/27/2010 ORL @ NJN W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p482
+aVJJ Redick ORL 12/27/2010 ORL @ NJN W 28 15 6 14 42.9 3 7 42.9 0 0 - 0 2 2 1 1 0 0 1 23
+p483
+aVDwight Howard ORL 12/25/2010 ORL vs. BOS W 33 6 1 4 25.0 0 0 - 4 10 40.0 1 10 11 1 2 5 4 5 9
+p484
+aVJameer Nelson ORL 12/25/2010 ORL vs. BOS W 29 12 3 9 33.3 2 6 33.3 4 4 100.0 0 2 2 3 1 0 6 1 5
+p485
+aVBrandon Bass ORL 12/25/2010 ORL vs. BOS W 37 21 8 15 53.3 0 0 - 5 6 83.3 3 6 9 1 1 1 1 4 9
+p486
+aVJJ Redick ORL 12/25/2010 ORL vs. BOS W 30 11 4 7 57.1 2 4 50.0 1 1 100.0 0 2 2 2 0 0 0 0 5
+p487
+aVJason Richardson ORL 12/25/2010 ORL vs. BOS W 29 5 2 8 25.0 1 3 33.3 0 0 - 0 4 4 2 0 0 2 1 -9
+p488
+aVGilbert Arenas ORL 12/25/2010 ORL vs. BOS W 25 5 2 9 22.2 1 3 33.3 0 2 0.0 0 4 4 2 2 1 2 2 -7
+p489
+aVRyan Anderson ORL 12/25/2010 ORL vs. BOS W 25 10 2 9 22.2 1 5 20.0 5 6 83.3 4 5 9 1 0 1 1 2 -2
+p490
+aVHedo Turkoglu ORL 12/25/2010 ORL vs. BOS W 33 16 6 10 60.0 4 8 50.0 0 0 - 0 4 4 4 0 1 0 3 30
+p491
+aVHedo Turkoglu ORL 12/23/2010 ORL vs. SAS W 27 11 5 10 50.0 1 3 33.3 0 0 - 0 1 1 6 0 0 2 4 24
+p492
+aVJJ Redick ORL 12/23/2010 ORL vs. SAS W 26 17 6 8 75.0 5 5 100.0 0 0 - 0 3 3 4 0 0 0 2 10
+p493
+aVRyan Anderson ORL 12/23/2010 ORL vs. SAS W 22 10 3 8 37.5 2 6 33.3 2 3 66.7 0 3 3 1 2 0 1 2 10
+p494
+aVEarl Clark ORL 12/23/2010 ORL vs. SAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p495
+aVDwight Howard ORL 12/23/2010 ORL vs. SAS W 32 29 11 13 84.6 0 0 - 7 12 58.3 3 11 14 1 0 3 3 3 16
+p496
+aVJason Richardson ORL 12/23/2010 ORL vs. SAS W 32 15 7 14 50.0 1 4 25.0 0 0 - 1 3 4 1 1 0 1 0 11
+p497
+aVQuentin Richardson ORL 12/23/2010 ORL vs. SAS W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 0
+p498
+aVChris Duhon ORL 12/23/2010 ORL vs. SAS W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 2
+p499
+aVJameer Nelson ORL 12/23/2010 ORL vs. SAS W 21 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 4 0 0 1 4 2
+p500
+aVGilbert Arenas ORL 12/23/2010 ORL vs. SAS W 29 14 6 14 42.9 2 5 40.0 0 0 - 0 6 6 9 1 0 3 2 21
+p501
+aVBrandon Bass ORL 12/23/2010 ORL vs. SAS W 34 17 8 11 72.7 0 0 - 1 2 50.0 0 6 6 2 0 0 2 2 12
+p502
+aVJameer Nelson ORL 12/21/2010 ORL vs. DAL L 38 19 7 15 46.7 4 7 57.1 1 1 100.0 0 3 3 6 0 0 1 4 -12
+p503
+aVGilbert Arenas ORL 12/21/2010 ORL vs. DAL L 18 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 4 0 0 2 5 3
+p504
+aVDwight Howard ORL 12/21/2010 ORL vs. DAL L 41 26 11 19 57.9 0 0 - 4 4 100.0 8 15 23 0 3 2 3 2 -9
+p505
+aVHedo Turkoglu ORL 12/21/2010 ORL vs. DAL L 39 9 2 11 18.2 1 4 25.0 4 4 100.0 0 1 1 8 2 1 4 5 -13
+p506
+aVJJ Redick ORL 12/21/2010 ORL vs. DAL L 37 21 7 14 50.0 4 9 44.4 3 3 100.0 0 3 3 1 0 0 1 1 3
+p507
+aVBrandon Bass ORL 12/21/2010 ORL vs. DAL L 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 0 0 0 1 10
+p508
+aVEarl Clark ORL 12/21/2010 ORL vs. DAL L 13 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p509
+aVJason Richardson ORL 12/21/2010 ORL vs. DAL L 39 10 4 13 30.8 2 7 28.6 0 0 - 2 3 5 0 1 0 0 3 -9
+p510
+aVJameer Nelson ORL 12/20/2010 ORL @ ATL L 31 18 6 11 54.5 1 4 25.0 5 5 100.0 0 2 2 3 2 0 2 3 -2
+p511
+aVQuentin Richardson ORL 12/20/2010 ORL @ ATL L 19 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 0
+p512
+aVHedo Turkoglu ORL 12/20/2010 ORL @ ATL L 35 8 1 4 25.0 1 3 33.3 5 6 83.3 0 6 6 3 1 0 0 3 -9
+p513
+aVMalik Allen ORL 12/20/2010 ORL @ ATL L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 3 -10
+p514
+aVBrandon Bass ORL 12/20/2010 ORL @ ATL L 31 13 5 12 41.7 0 0 - 3 3 100.0 1 4 5 1 2 0 0 2 6
+p515
+aVGilbert Arenas ORL 12/20/2010 ORL @ ATL L 27 10 2 11 18.2 1 4 25.0 5 6 83.3 0 1 1 3 0 0 2 4 1
+p516
+aVJason Richardson ORL 12/20/2010 ORL @ ATL L 31 9 3 8 37.5 1 4 25.0 2 2 100.0 0 2 2 3 0 0 0 4 -12
+p517
+aVDwight Howard ORL 12/20/2010 ORL @ ATL L 42 19 6 14 42.9 0 0 - 7 12 58.3 5 15 20 1 2 2 6 5 -15
+p518
+aVJJ Redick ORL 12/20/2010 ORL @ ATL L 11 4 2 4 50.0 0 1 0.0 0 1 0.0 0 0 0 0 0 0 1 1 -9
+p519
+aVJameer Nelson ORL 12/18/2010 ORL vs. PHI L 36 17 7 16 43.8 2 5 40.0 1 1 100.0 1 4 5 9 1 0 1 3 -13
+p520
+aVQuentin Richardson ORL 12/18/2010 ORL vs. PHI L 44 6 3 9 33.3 0 4 0.0 0 0 - 0 9 9 1 2 0 2 3 -7
+p521
+aVBrandon Bass ORL 12/18/2010 ORL vs. PHI L 34 18 8 19 42.1 0 0 - 2 2 100.0 4 4 8 0 0 0 4 3 -9
+p522
+aVJJ Redick ORL 12/18/2010 ORL vs. PHI L 41 9 4 10 40.0 1 3 33.3 0 1 0.0 1 3 4 3 1 0 1 3 -11
+p523
+aVMalik Allen ORL 12/18/2010 ORL vs. PHI L 22 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 0 0 1 4 -1
+p524
+aVDwight Howard ORL 12/18/2010 ORL vs. PHI L 40 26 8 18 44.4 0 0 - 10 17 58.8 10 10 20 3 2 2 5 4 -4
+p525
+aVJason Williams ORL 12/18/2010 ORL vs. PHI L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 7
+p526
+aVChris Duhon ORL 12/18/2010 ORL vs. PHI L 18 9 4 6 66.7 0 2 0.0 1 1 100.0 0 1 1 2 0 1 2 2 -2
+p527
+aVVince Carter ORL 12/14/2010 ORL @ DEN L 32 18 6 15 40.0 2 4 50.0 4 4 100.0 0 2 2 2 2 1 0 5 -8
+p528
+aVJason Williams ORL 12/14/2010 ORL @ DEN L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 4 0 0 1 0 1
+p529
+aVJJ Redick ORL 12/14/2010 ORL @ DEN L 38 29 9 12 75.0 6 9 66.7 5 7 71.4 0 5 5 2 1 0 1 3 -17
+p530
+aVBrandon Bass ORL 12/14/2010 ORL @ DEN L 27 10 5 11 45.5 0 0 - 0 0 - 0 3 3 0 0 0 2 1 2
+p531
+aVRashard Lewis ORL 12/14/2010 ORL @ DEN L 33 8 2 9 22.2 2 7 28.6 2 2 100.0 1 1 2 1 1 1 0 4 -23
+p532
+aVDwight Howard ORL 12/14/2010 ORL @ DEN L 37 21 9 15 60.0 0 1 0.0 3 5 60.0 4 10 14 1 0 2 4 4 -27
+p533
+aVJameer Nelson ORL 12/14/2010 ORL @ DEN L 37 4 1 10 10.0 0 4 0.0 2 2 100.0 1 2 3 8 1 0 4 2 -18
+p534
+aVMarcin Gortat ORL 12/14/2010 ORL @ DEN L 25 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 2 2 1 4 5
+p535
+aVJameer Nelson ORL 12/12/2010 ORL @ LAC W 33 17 6 12 50.0 3 5 60.0 2 2 100.0 0 4 4 9 0 0 2 4 4
+p536
+aVMickael Pietrus ORL 12/12/2010 ORL @ LAC W 30 4 1 8 12.5 0 6 0.0 2 2 100.0 0 4 4 0 1 0 0 1 1
+p537
+aVMarcin Gortat ORL 12/12/2010 ORL @ LAC W 24 4 2 2 100.0 0 0 - 0 0 - 3 6 9 1 0 0 0 3 -4
+p538
+aVDwight Howard ORL 12/12/2010 ORL @ LAC W 25 22 8 11 72.7 0 0 - 6 13 46.2 3 5 8 0 1 1 2 5 16
+p539
+aVVince Carter ORL 12/12/2010 ORL @ LAC W 34 13 6 12 50.0 1 3 33.3 0 0 - 0 7 7 3 1 0 1 3 10
+p540
+aVJJ Redick ORL 12/12/2010 ORL @ LAC W 19 7 2 3 66.7 0 1 0.0 3 3 100.0 0 3 3 0 0 0 1 1 2
+p541
+aVJason Williams ORL 12/12/2010 ORL @ LAC W 15 3 1 4 25.0 1 3 33.3 0 0 - 1 3 4 4 0 0 1 0 5
+p542
+aVBrandon Bass ORL 12/12/2010 ORL @ LAC W 32 13 6 13 46.2 0 0 - 1 4 25.0 4 7 11 0 0 1 1 3 18
+p543
+aVRashard Lewis ORL 12/12/2010 ORL @ LAC W 28 11 4 10 40.0 1 5 20.0 2 2 100.0 0 4 4 0 0 0 1 2 -7
+p544
+aVDwight Howard ORL 12/10/2010 ORL @ UTA L 37 14 5 15 33.3 0 1 0.0 4 7 57.1 3 9 12 0 0 2 5 2 -18
+p545
+aVMalik Allen ORL 12/10/2010 ORL @ UTA L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -3
+p546
+aVJJ Redick ORL 12/10/2010 ORL @ UTA L 28 14 5 9 55.6 2 4 50.0 2 3 66.7 1 2 3 2 1 0 0 3 -11
+p547
+aVJason Williams ORL 12/10/2010 ORL @ UTA L 14 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 1 0 0 1 0 -5
+p548
+aVMarcin Gortat ORL 12/10/2010 ORL @ UTA L 11 5 2 4 50.0 0 0 - 1 3 33.3 0 2 2 1 0 2 1 2 6
+p549
+aVJameer Nelson ORL 12/10/2010 ORL @ UTA L 34 19 5 16 31.3 3 8 37.5 6 6 100.0 1 1 2 10 0 0 3 4 -7
+p550
+aVVince Carter ORL 12/10/2010 ORL @ UTA L 28 17 6 9 66.7 2 4 50.0 3 3 100.0 0 4 4 3 0 0 0 3 1
+p551
+aVBrandon Bass ORL 12/10/2010 ORL @ UTA L 28 18 8 11 72.7 0 0 - 2 2 100.0 5 3 8 1 0 0 3 2 -9
+p552
+aVQuentin Richardson ORL 12/10/2010 ORL @ UTA L 13 3 1 3 33.3 0 2 0.0 1 1 100.0 0 1 1 0 0 0 1 1 1
+p553
+aVRashard Lewis ORL 12/10/2010 ORL @ UTA L 37 15 6 9 66.7 2 4 50.0 1 3 33.3 1 4 5 0 1 0 1 2 -15
+p554
+aVRashard Lewis ORL 12/09/2010 ORL @ POR L 34 11 4 10 40.0 1 3 33.3 2 2 100.0 1 5 6 2 1 1 2 6 -16
+p555
+aVChris Duhon ORL 12/09/2010 ORL @ POR L 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 5
+p556
+aVMarcin Gortat ORL 12/09/2010 ORL @ POR L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 0
+p557
+aVVince Carter ORL 12/09/2010 ORL @ POR L 33 6 2 12 16.7 0 4 0.0 2 2 100.0 1 6 7 2 0 0 0 5 -11
+p558
+aVJJ Redick ORL 12/09/2010 ORL @ POR L 25 10 4 7 57.1 2 3 66.7 0 0 - 0 1 1 1 1 0 1 1 -18
+p559
+aVDwight Howard ORL 12/09/2010 ORL @ POR L 43 39 13 20 65.0 0 1 0.0 13 18 72.2 3 12 15 0 1 3 4 3 -14
+p560
+aVMickael Pietrus ORL 12/09/2010 ORL @ POR L 24 5 2 5 40.0 1 4 25.0 0 0 - 1 1 2 1 0 0 1 2 -2
+p561
+aVJameer Nelson ORL 12/09/2010 ORL @ POR L 30 10 4 14 28.6 2 6 33.3 0 2 0.0 0 1 1 5 0 0 3 3 -17
+p562
+aVBrandon Bass ORL 12/09/2010 ORL @ POR L 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 4 6
+p563
+aVQuentin Richardson ORL 12/09/2010 ORL @ POR L 18 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 1 1 -3
+p564
+aVJJ Redick ORL 12/06/2010 ORL vs. ATL L 23 11 3 6 50.0 1 2 50.0 4 6 66.7 0 3 3 2 0 0 0 0 -4
+p565
+aVMarcin Gortat ORL 12/06/2010 ORL vs. ATL L 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 1 1 1 -9
+p566
+aVRashard Lewis ORL 12/06/2010 ORL vs. ATL L 37 10 3 11 27.3 2 7 28.6 2 2 100.0 0 2 2 0 2 1 0 2 1
+p567
+aVDwight Howard ORL 12/06/2010 ORL vs. ATL L 39 14 5 11 45.5 0 0 - 4 8 50.0 3 10 13 1 2 3 6 4 3
+p568
+aVMickael Pietrus ORL 12/06/2010 ORL vs. ATL L 14 0 0 3 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 1 2 -8
+p569
+aVQuentin Richardson ORL 12/06/2010 ORL vs. ATL L 15 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 2 -2
+p570
+aVVince Carter ORL 12/06/2010 ORL vs. ATL L 31 18 8 16 50.0 0 1 0.0 2 3 66.7 1 7 8 3 0 1 3 5 -1
+p571
+aVChris Duhon ORL 12/06/2010 ORL vs. ATL L 33 7 3 6 50.0 1 4 25.0 0 0 - 2 1 3 2 1 0 1 2 -1
+p572
+aVBrandon Bass ORL 12/06/2010 ORL vs. ATL L 24 10 4 11 36.4 0 0 - 2 2 100.0 2 5 7 0 0 1 3 1 -2
+p573
+aVJason Williams ORL 12/06/2010 ORL vs. ATL L 15 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 0 0 2 0 -7
+p574
+aVMalik Allen ORL 12/04/2010 ORL @ MIL L 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 2 4
+p575
+aVRashard Lewis ORL 12/04/2010 ORL @ MIL L 43 13 6 17 35.3 1 7 14.3 0 1 0.0 2 5 7 0 3 1 2 6 -12
+p576
+aVMarcin Gortat ORL 12/04/2010 ORL @ MIL L 35 2 1 4 25.0 0 0 - 0 0 - 3 7 10 0 0 0 0 6 -14
+p577
+aVBrandon Bass ORL 12/04/2010 ORL @ MIL L 28 12 5 13 38.5 0 0 - 2 3 66.7 2 6 8 1 0 1 2 3 -3
+p578
+aVQuentin Richardson ORL 12/04/2010 ORL @ MIL L 34 16 6 14 42.9 1 5 20.0 3 4 75.0 1 3 4 1 1 0 0 5 -16
+p579
+aVJason Williams ORL 12/04/2010 ORL @ MIL L 17 9 3 3 100.0 3 3 100.0 0 0 - 0 0 0 2 0 0 2 2 12
+p580
+aVVince Carter ORL 12/04/2010 ORL @ MIL L 37 20 7 21 33.3 0 5 0.0 6 8 75.0 0 7 7 6 1 0 3 4 -3
+p581
+aVChris Duhon ORL 12/04/2010 ORL @ MIL L 31 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 1 0 0 2 0 -23
+p582
+aVRyan Anderson ORL 12/03/2010 ORL @ DET W 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p583
+aVJason Williams ORL 12/03/2010 ORL @ DET W 17 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 4 1 0 0 2 11
+p584
+aVChris Duhon ORL 12/03/2010 ORL @ DET W 33 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 3 0 0 4 1 0
+p585
+aVMarcin Gortat ORL 12/03/2010 ORL @ DET W 32 14 7 9 77.8 0 0 - 0 0 - 4 7 11 2 1 3 0 4 13
+p586
+aVVince Carter ORL 12/03/2010 ORL @ DET W 41 25 10 15 66.7 2 5 40.0 3 4 75.0 1 3 4 9 3 0 3 4 19
+p587
+aVBrandon Bass ORL 12/03/2010 ORL @ DET W 32 27 11 12 91.7 0 0 - 5 7 71.4 0 3 3 2 0 1 2 1 11
+p588
+aVRashard Lewis ORL 12/03/2010 ORL @ DET W 36 15 6 14 42.9 2 5 40.0 1 2 50.0 1 3 4 2 0 0 2 1 6
+p589
+aVMalik Allen ORL 12/03/2010 ORL @ DET W 17 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -1
+p590
+aVQuentin Richardson ORL 12/03/2010 ORL @ DET W 31 15 5 12 41.7 3 8 37.5 2 2 100.0 0 7 7 1 0 0 1 2 6
+p591
+aVMalik Allen ORL 12/01/2010 ORL @ CHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p592
+aVJason Williams ORL 12/01/2010 ORL @ CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p593
+aVBrandon Bass ORL 12/01/2010 ORL @ CHI W 29 17 5 8 62.5 0 0 - 7 7 100.0 3 2 5 0 0 3 1 1 20
+p594
+aVVince Carter ORL 12/01/2010 ORL @ CHI W 34 22 8 17 47.1 0 4 0.0 6 6 100.0 4 2 6 2 1 0 4 5 16
+p595
+aVJameer Nelson ORL 12/01/2010 ORL @ CHI W 35 24 8 11 72.7 3 3 100.0 5 5 100.0 0 4 4 9 2 0 3 4 27
+p596
+aVRashard Lewis ORL 12/01/2010 ORL @ CHI W 24 13 4 8 50.0 3 5 60.0 2 2 100.0 0 2 2 1 0 0 2 3 14
+p597
+aVDwight Howard ORL 12/01/2010 ORL @ CHI W 34 13 5 12 41.7 0 0 - 3 4 75.0 4 8 12 0 1 2 3 3 22
+p598
+aVMarcin Gortat ORL 12/01/2010 ORL @ CHI W 14 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 1 2 1 7
+p599
+aVChris Duhon ORL 12/01/2010 ORL @ CHI W 19 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 11
+p600
+aVMickael Pietrus ORL 12/01/2010 ORL @ CHI W 11 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 6
+p601
+aVRyan Anderson ORL 12/01/2010 ORL @ CHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 7
+p602
+aVQuentin Richardson ORL 12/01/2010 ORL @ CHI W 34 9 3 6 50.0 3 5 60.0 0 0 - 2 6 8 1 1 0 2 2 8
+p603
+aVQuentin Richardson ORL 11/30/2010 ORL vs. DET W 15 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 0 0 0 1 0 -12
+p604
+aVJameer Nelson ORL 11/30/2010 ORL vs. DET W 30 9 4 12 33.3 1 4 25.0 0 0 - 1 5 6 9 0 0 2 4 5
+p605
+aVDwight Howard ORL 11/30/2010 ORL vs. DET W 40 9 4 8 50.0 0 0 - 1 2 50.0 3 11 14 0 3 2 6 3 12
+p606
+aVMarcin Gortat ORL 11/30/2010 ORL vs. DET W 8 0 0 0 - 0 0 - 0 2 0.0 1 1 2 1 0 0 0 1 -1
+p607
+aVMickael Pietrus ORL 11/30/2010 ORL vs. DET W 30 13 5 11 45.5 3 7 42.9 0 0 - 0 5 5 2 0 0 0 3 18
+p608
+aVBrandon Bass ORL 11/30/2010 ORL vs. DET W 21 9 4 8 50.0 0 0 - 1 2 50.0 2 5 7 0 0 0 0 1 16
+p609
+aVJJ Redick ORL 11/30/2010 ORL vs. DET W 21 10 2 5 40.0 2 4 50.0 4 4 100.0 0 0 0 3 0 0 1 0 4
+p610
+aVRashard Lewis ORL 11/30/2010 ORL vs. DET W 30 20 7 10 70.0 2 4 50.0 4 6 66.7 0 2 2 1 0 1 0 0 0
+p611
+aVChris Duhon ORL 11/30/2010 ORL vs. DET W 18 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 3 2 0 2 0 6
+p612
+aVVince Carter ORL 11/30/2010 ORL vs. DET W 27 13 6 14 42.9 1 3 33.3 0 0 - 2 2 4 1 2 0 1 0 7
+p613
+aVJameer Nelson ORL 11/27/2010 ORL @ WAS W 31 11 5 13 38.5 1 3 33.3 0 0 - 1 2 3 4 0 0 2 3 -2
+p614
+aVChris Duhon ORL 11/27/2010 ORL @ WAS W 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 1 0 2 2 1
+p615
+aVMickael Pietrus ORL 11/27/2010 ORL @ WAS W 29 3 1 4 25.0 1 4 25.0 0 0 - 0 7 7 1 2 0 2 3 -4
+p616
+aVBrandon Bass ORL 11/27/2010 ORL @ WAS W 17 7 2 5 40.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 0 0
+p617
+aVQuentin Richardson ORL 11/27/2010 ORL @ WAS W 32 20 6 12 50.0 4 7 57.1 4 4 100.0 2 4 6 2 0 0 1 5 6
+p618
+aVJason Williams ORL 11/27/2010 ORL @ WAS W 8 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 1 1 0 0 0 -1
+p619
+aVMarcin Gortat ORL 11/27/2010 ORL @ WAS W 7 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -3
+p620
+aVRashard Lewis ORL 11/27/2010 ORL @ WAS W 31 9 3 11 27.3 1 5 20.0 2 2 100.0 1 1 2 3 0 1 2 1 1
+p621
+aVDwight Howard ORL 11/27/2010 ORL @ WAS W 41 32 12 19 63.2 0 0 - 8 14 57.1 4 7 11 1 0 2 3 2 4
+p622
+aVJJ Redick ORL 11/27/2010 ORL @ WAS W 25 8 2 3 66.7 1 1 100.0 3 3 100.0 0 2 2 3 1 0 0 4 3
+p623
+aVBrandon Bass ORL 11/26/2010 ORL vs. CLE W 13 10 5 6 83.3 0 0 - 0 0 - 1 3 4 1 0 0 1 4 2
+p624
+aVJameer Nelson ORL 11/26/2010 ORL vs. CLE W 28 20 9 13 69.2 2 5 40.0 0 0 - 0 1 1 6 0 0 1 3 6
+p625
+aVRashard Lewis ORL 11/26/2010 ORL vs. CLE W 35 14 5 11 45.5 2 6 33.3 2 2 100.0 0 1 1 2 2 0 1 3 9
+p626
+aVMickael Pietrus ORL 11/26/2010 ORL vs. CLE W 27 5 2 7 28.6 1 6 16.7 0 0 - 0 3 3 0 1 0 0 1 8
+p627
+aVJJ Redick ORL 11/26/2010 ORL vs. CLE W 37 15 5 11 45.5 3 6 50.0 2 2 100.0 0 3 3 5 2 0 3 2 2
+p628
+aVDwight Howard ORL 11/26/2010 ORL vs. CLE W 35 23 5 9 55.6 0 0 - 13 24 54.2 2 9 11 1 2 2 4 2 9
+p629
+aVChris Duhon ORL 11/26/2010 ORL vs. CLE W 20 8 3 4 75.0 2 3 66.7 0 0 - 1 0 1 9 0 0 3 2 5
+p630
+aVQuentin Richardson ORL 11/26/2010 ORL vs. CLE W 32 14 5 7 71.4 4 5 80.0 0 0 - 0 5 5 1 0 1 0 1 12
+p631
+aVMarcin Gortat ORL 11/26/2010 ORL vs. CLE W 13 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 2
+p632
+aVMarcin Gortat ORL 11/24/2010 ORL vs. MIA W 10 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 1 0 3 3
+p633
+aVMickael Pietrus ORL 11/24/2010 ORL vs. MIA W 21 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 3 3
+p634
+aVJameer Nelson ORL 11/24/2010 ORL vs. MIA W 33 17 7 15 46.7 1 3 33.3 2 4 50.0 1 2 3 14 1 0 5 4 7
+p635
+aVBrandon Bass ORL 11/24/2010 ORL vs. MIA W 26 18 9 12 75.0 0 0 - 0 0 - 3 3 6 1 1 0 0 1 -5
+p636
+aVDwight Howard ORL 11/24/2010 ORL vs. MIA W 38 24 8 13 61.5 0 0 - 8 16 50.0 3 15 18 1 0 1 3 0 6
+p637
+aVQuentin Richardson ORL 11/24/2010 ORL vs. MIA W 25 6 1 4 25.0 0 3 0.0 4 5 80.0 0 3 3 0 0 0 0 1 6
+p638
+aVChris Duhon ORL 11/24/2010 ORL vs. MIA W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 2
+p639
+aVJason Williams ORL 11/24/2010 ORL vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p640
+aVJJ Redick ORL 11/24/2010 ORL vs. MIA W 43 20 5 12 41.7 3 8 37.5 7 7 100.0 0 4 4 5 1 0 1 2 6
+p641
+aVRashard Lewis ORL 11/24/2010 ORL vs. MIA W 29 14 5 10 50.0 1 1 100.0 3 5 60.0 1 3 4 1 2 0 0 5 18
+p642
+aVDwight Howard ORL 11/22/2010 ORL @ SAS L 41 26 11 16 68.8 0 0 - 4 7 57.1 5 13 18 1 3 2 2 1 -4
+p643
+aVMarcin Gortat ORL 11/22/2010 ORL @ SAS L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -5
+p644
+aVBrandon Bass ORL 11/22/2010 ORL @ SAS L 12 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 4 2 -7
+p645
+aVJJ Redick ORL 11/22/2010 ORL @ SAS L 24 11 5 11 45.5 1 3 33.3 0 0 - 0 2 2 4 1 0 1 0 -2
+p646
+aVQuentin Richardson ORL 11/22/2010 ORL @ SAS L 26 2 1 5 20.0 0 0 - 0 0 - 0 5 5 2 2 0 2 1 -7
+p647
+aVRashard Lewis ORL 11/22/2010 ORL @ SAS L 38 14 5 10 50.0 3 3 100.0 1 1 100.0 0 3 3 1 0 0 2 2 -4
+p648
+aVChris Duhon ORL 11/22/2010 ORL @ SAS L 19 6 2 6 33.3 1 2 50.0 1 2 50.0 0 1 1 2 0 0 0 2 -1
+p649
+aVJameer Nelson ORL 11/22/2010 ORL @ SAS L 29 15 7 14 50.0 1 4 25.0 0 0 - 0 2 2 5 1 0 4 5 -8
+p650
+aVVince Carter ORL 11/22/2010 ORL @ SAS L 17 8 2 6 33.3 0 1 0.0 4 4 100.0 0 0 0 2 0 0 1 4 -4
+p651
+aVMickael Pietrus ORL 11/22/2010 ORL @ SAS L 26 9 3 6 50.0 3 5 60.0 0 0 - 0 5 5 1 0 1 0 5 -5
+p652
+aVRyan Anderson ORL 11/22/2010 ORL @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p653
+aVDwight Howard ORL 11/20/2010 ORL @ IND W 38 25 7 14 50.0 0 0 - 11 19 57.9 3 9 12 0 1 3 2 4 -1
+p654
+aVBrandon Bass ORL 11/20/2010 ORL @ IND W 19 8 4 9 44.4 0 0 - 0 0 - 1 3 4 2 1 1 2 1 -2
+p655
+aVChris Duhon ORL 11/20/2010 ORL @ IND W 17 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 2 0 3
+p656
+aVMarcin Gortat ORL 11/20/2010 ORL @ IND W 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 5
+p657
+aVJameer Nelson ORL 11/20/2010 ORL @ IND W 31 11 5 12 41.7 0 2 0.0 1 1 100.0 0 3 3 9 1 0 4 4 1
+p658
+aVQuentin Richardson ORL 11/20/2010 ORL @ IND W 17 8 2 4 50.0 2 4 50.0 2 2 100.0 0 3 3 0 1 0 1 1 12
+p659
+aVJJ Redick ORL 11/20/2010 ORL @ IND W 16 3 0 2 0.0 0 0 - 3 3 100.0 0 1 1 0 1 0 1 2 -4
+p660
+aVVince Carter ORL 11/20/2010 ORL @ IND W 32 8 3 12 25.0 0 3 0.0 2 2 100.0 0 9 9 2 0 0 2 2 8
+p661
+aVRashard Lewis ORL 11/20/2010 ORL @ IND W 35 21 8 11 72.7 5 7 71.4 0 1 0.0 0 2 2 0 1 0 2 1 2
+p662
+aVMickael Pietrus ORL 11/20/2010 ORL @ IND W 25 3 1 4 25.0 1 4 25.0 0 0 - 1 2 3 0 0 1 0 1 -4
+p663
+aVQuentin Richardson ORL 11/18/2010 ORL vs. PHX W 23 15 6 10 60.0 3 7 42.9 0 0 - 0 3 3 3 2 0 1 1 21
+p664
+aVVince Carter ORL 11/18/2010 ORL vs. PHX W 25 13 5 8 62.5 2 4 50.0 1 4 25.0 0 1 1 1 0 0 2 3 17
+p665
+aVRyan Anderson ORL 11/18/2010 ORL vs. PHX W 9 6 1 5 20.0 0 2 0.0 4 4 100.0 1 1 2 0 1 1 0 3 -8
+p666
+aVMickael Pietrus ORL 11/18/2010 ORL vs. PHX W 30 10 4 8 50.0 2 5 40.0 0 0 - 2 0 2 2 0 0 0 4 10
+p667
+aVRashard Lewis ORL 11/18/2010 ORL vs. PHX W 34 13 6 9 66.7 1 2 50.0 0 0 - 0 3 3 0 2 0 4 3 11
+p668
+aVMarcin Gortat ORL 11/18/2010 ORL vs. PHX W 16 4 1 6 16.7 0 0 - 2 2 100.0 2 4 6 0 0 2 1 4 -12
+p669
+aVMalik Allen ORL 11/18/2010 ORL vs. PHX W 4 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -7
+p670
+aVJameer Nelson ORL 11/18/2010 ORL vs. PHX W 28 15 6 8 75.0 2 3 66.7 1 1 100.0 0 0 0 12 1 0 0 2 13
+p671
+aVDwight Howard ORL 11/18/2010 ORL vs. PHX W 30 20 8 9 88.9 0 0 - 4 8 50.0 2 10 12 1 1 1 3 2 23
+p672
+aVChris Duhon ORL 11/18/2010 ORL vs. PHX W 20 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 5 1 0 5 1 3
+p673
+aVBrandon Bass ORL 11/18/2010 ORL vs. PHX W 20 5 1 5 20.0 0 0 - 3 4 75.0 3 2 5 1 1 1 1 4 9
+p674
+aVRashard Lewis ORL 11/15/2010 ORL vs. MEM W 39 9 3 13 23.1 1 5 20.0 2 2 100.0 1 5 6 4 1 1 2 3 14
+p675
+aVDwight Howard ORL 11/15/2010 ORL vs. MEM W 39 18 5 13 38.5 0 0 - 8 11 72.7 2 12 14 0 2 2 4 4 9
+p676
+aVMarcin Gortat ORL 11/15/2010 ORL vs. MEM W 22 8 3 4 75.0 0 0 - 2 4 50.0 2 2 4 1 0 2 1 4 8
+p677
+aVVince Carter ORL 11/15/2010 ORL vs. MEM W 29 19 6 8 75.0 3 4 75.0 4 5 80.0 0 2 2 1 1 0 2 5 12
+p678
+aVBrandon Bass ORL 11/15/2010 ORL vs. MEM W 22 10 2 6 33.3 0 0 - 6 6 100.0 0 3 3 1 0 0 0 1 16
+p679
+aVMickael Pietrus ORL 11/15/2010 ORL vs. MEM W 21 6 2 6 33.3 1 5 20.0 1 2 50.0 1 3 4 0 2 1 2 2 4
+p680
+aVQuentin Richardson ORL 11/15/2010 ORL vs. MEM W 21 8 4 7 57.1 0 1 0.0 0 0 - 2 3 5 0 0 0 2 0 5
+p681
+aVChris Duhon ORL 11/15/2010 ORL vs. MEM W 16 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 0 7
+p682
+aVJameer Nelson ORL 11/15/2010 ORL vs. MEM W 32 11 3 7 42.9 1 2 50.0 4 4 100.0 1 8 9 4 3 0 5 3 10
+p683
+aVRashard Lewis ORL 11/13/2010 ORL @ NJN W 30 8 3 10 30.0 2 6 33.3 0 0 - 1 1 2 2 2 1 1 2 -1
+p684
+aVMickael Pietrus ORL 11/13/2010 ORL @ NJN W 24 12 4 7 57.1 4 6 66.7 0 0 - 0 3 3 1 0 0 1 0 -6
+p685
+aVChris Duhon ORL 11/13/2010 ORL @ NJN W 14 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 4 0 0 0 0 4
+p686
+aVJason Williams ORL 11/13/2010 ORL @ NJN W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 1
+p687
+aVJJ Redick ORL 11/13/2010 ORL @ NJN W 16 4 1 7 14.3 0 4 0.0 2 2 100.0 0 1 1 0 0 0 1 0 -3
+p688
+aVVince Carter ORL 11/13/2010 ORL @ NJN W 32 13 4 10 40.0 0 1 0.0 5 6 83.3 0 2 2 3 0 0 4 2 4
+p689
+aVQuentin Richardson ORL 11/13/2010 ORL @ NJN W 21 3 1 3 33.3 1 2 50.0 0 0 - 1 6 7 0 0 0 0 0 0
+p690
+aVJameer Nelson ORL 11/13/2010 ORL @ NJN W 28 13 6 15 40.0 1 3 33.3 0 2 0.0 0 2 2 4 0 0 0 2 1
+p691
+aVMarcin Gortat ORL 11/13/2010 ORL @ NJN W 21 5 2 6 33.3 0 0 - 1 1 100.0 5 2 7 1 0 0 0 1 3
+p692
+aVBrandon Bass ORL 11/13/2010 ORL @ NJN W 21 14 4 6 66.7 0 1 0.0 6 6 100.0 2 6 8 2 1 1 1 2 4
+p693
+aVDwight Howard ORL 11/13/2010 ORL @ NJN W 27 16 6 9 66.7 0 0 - 4 7 57.1 4 6 10 1 0 2 1 5 -2
+p694
+aVVince Carter ORL 11/12/2010 ORL vs. TOR L 32 10 4 11 36.4 0 0 - 2 3 66.7 0 4 4 3 2 0 1 4 6
+p695
+aVJameer Nelson ORL 11/12/2010 ORL vs. TOR L 37 23 9 15 60.0 2 5 40.0 3 5 60.0 1 1 2 8 1 0 3 2 1
+p696
+aVRashard Lewis ORL 11/12/2010 ORL vs. TOR L 26 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 4 0 0 1 3 4
+p697
+aVMarcin Gortat ORL 11/12/2010 ORL vs. TOR L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p698
+aVBrandon Bass ORL 11/12/2010 ORL vs. TOR L 22 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 1 1 1 3 1 -8
+p699
+aVDwight Howard ORL 11/12/2010 ORL vs. TOR L 44 25 9 14 64.3 0 0 - 7 17 41.2 2 6 8 1 0 5 4 5 -5
+p700
+aVMickael Pietrus ORL 11/12/2010 ORL vs. TOR L 30 24 8 11 72.7 8 11 72.7 0 0 - 0 2 2 1 2 0 1 4 -1
+p701
+aVChris Duhon ORL 11/12/2010 ORL vs. TOR L 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 0 0 0 0 -5
+p702
+aVJJ Redick ORL 11/12/2010 ORL vs. TOR L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 2 1 -10
+p703
+aVQuentin Richardson ORL 11/12/2010 ORL vs. TOR L 18 8 3 8 37.5 2 7 28.6 0 0 - 1 3 4 0 1 0 1 2 -3
+p704
+aVMarcin Gortat ORL 11/10/2010 ORL vs. UTA L 21 6 3 4 75.0 0 0 - 0 0 - 5 5 10 0 1 0 2 2 -9
+p705
+aVQuentin Richardson ORL 11/10/2010 ORL vs. UTA L 17 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 1 0 0 1 1 -12
+p706
+aVVince Carter ORL 11/10/2010 ORL vs. UTA L 36 20 8 17 47.1 4 10 40.0 0 0 - 1 1 2 3 1 0 2 1 -5
+p707
+aVJJ Redick ORL 11/10/2010 ORL vs. UTA L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p708
+aVRashard Lewis ORL 11/10/2010 ORL vs. UTA L 35 16 6 15 40.0 3 7 42.9 1 3 33.3 2 5 7 2 0 0 2 3 -5
+p709
+aVBrandon Bass ORL 11/10/2010 ORL vs. UTA L 37 14 5 10 50.0 0 0 - 4 6 66.7 3 1 4 2 2 1 2 3 -5
+p710
+aVDwight Howard ORL 11/10/2010 ORL vs. UTA L 33 14 5 8 62.5 0 0 - 4 11 36.4 4 5 9 4 1 3 6 5 5
+p711
+aVRyan Anderson ORL 11/10/2010 ORL vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -4
+p712
+aVJameer Nelson ORL 11/10/2010 ORL vs. UTA L 32 19 5 12 41.7 4 7 57.1 5 5 100.0 2 3 5 7 2 0 3 6 -4
+p713
+aVChris Duhon ORL 11/10/2010 ORL vs. UTA L 16 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 3 0 0 1 0 -6
+p714
+aVVince Carter ORL 11/08/2010 ORL vs. ATL W 26 19 8 12 66.7 1 1 100.0 2 5 40.0 0 1 1 2 2 0 1 5 9
+p715
+aVJJ Redick ORL 11/08/2010 ORL vs. ATL W 27 11 4 12 33.3 0 5 0.0 3 4 75.0 0 1 1 3 0 0 1 4 0
+p716
+aVMarcin Gortat ORL 11/08/2010 ORL vs. ATL W 21 8 4 8 50.0 0 0 - 0 0 - 3 2 5 0 1 0 0 0 5
+p717
+aVDwight Howard ORL 11/08/2010 ORL vs. ATL W 34 27 10 20 50.0 0 1 0.0 7 11 63.6 0 11 11 1 1 1 3 5 -2
+p718
+aVBrandon Bass ORL 11/08/2010 ORL vs. ATL W 19 6 3 8 37.5 0 0 - 0 0 - 3 2 5 1 0 0 0 0 12
+p719
+aVRyan Anderson ORL 11/08/2010 ORL vs. ATL W 15 4 1 5 20.0 0 3 0.0 2 2 100.0 1 0 1 1 0 0 1 1 -11
+p720
+aVJason Williams ORL 11/08/2010 ORL vs. ATL W 23 8 3 5 60.0 2 2 100.0 0 0 - 1 7 8 2 2 0 0 0 10
+p721
+aVQuentin Richardson ORL 11/08/2010 ORL vs. ATL W 19 2 1 6 16.7 0 4 0.0 0 0 - 3 0 3 1 1 0 1 1 3
+p722
+aVRashard Lewis ORL 11/08/2010 ORL vs. ATL W 31 4 2 7 28.6 0 4 0.0 0 0 - 0 6 6 1 2 1 1 2 0
+p723
+aVChris Duhon ORL 11/08/2010 ORL vs. ATL W 25 4 1 3 33.3 1 2 50.0 1 2 50.0 0 2 2 4 0 0 2 0 -6
+p724
+aVRashard Lewis ORL 11/06/2010 ORL @ CHA W 34 22 8 13 61.5 5 7 71.4 1 1 100.0 2 4 6 0 0 0 0 0 4
+p725
+aVDwight Howard ORL 11/06/2010 ORL @ CHA W 31 22 8 15 53.3 0 0 - 6 10 60.0 1 7 8 4 0 2 2 5 9
+p726
+aVChris Duhon ORL 11/06/2010 ORL @ CHA W 34 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 9 1 1 0 0 8
+p727
+aVQuentin Richardson ORL 11/06/2010 ORL @ CHA W 36 14 5 17 29.4 3 10 30.0 1 2 50.0 1 2 3 1 0 1 1 1 8
+p728
+aVBrandon Bass ORL 11/06/2010 ORL @ CHA W 14 7 2 4 50.0 0 0 - 3 4 75.0 1 2 3 2 0 0 0 2 -1
+p729
+aVJason Williams ORL 11/06/2010 ORL @ CHA W 14 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 0 -5
+p730
+aVJJ Redick ORL 11/06/2010 ORL @ CHA W 7 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 1 -7
+p731
+aVMarcin Gortat ORL 11/06/2010 ORL @ CHA W 17 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 0 1 2 1 -6
+p732
+aVVince Carter ORL 11/06/2010 ORL @ CHA W 36 10 4 11 36.4 0 4 0.0 2 4 50.0 1 4 5 4 2 1 1 1 14
+p733
+aVMickael Pietrus ORL 11/06/2010 ORL @ CHA W 17 3 1 4 25.0 1 4 25.0 0 0 - 0 3 3 0 0 0 1 0 -9
+p734
+aVMickael Pietrus ORL 11/05/2010 ORL vs. NJN W 18 9 3 6 50.0 3 4 75.0 0 0 - 0 2 2 0 1 0 1 0 20
+p735
+aVBrandon Bass ORL 11/05/2010 ORL vs. NJN W 18 6 1 3 33.3 0 0 - 4 4 100.0 4 5 9 1 0 0 1 0 -1
+p736
+aVMarcin Gortat ORL 11/05/2010 ORL vs. NJN W 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -6
+p737
+aVChris Duhon ORL 11/05/2010 ORL vs. NJN W 15 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 1 -10
+p738
+aVQuentin Richardson ORL 11/05/2010 ORL vs. NJN W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -8
+p739
+aVRyan Anderson ORL 11/05/2010 ORL vs. NJN W 7 0 0 1 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 2 0 4
+p740
+aVRashard Lewis ORL 11/05/2010 ORL vs. NJN W 33 12 5 15 33.3 2 8 25.0 0 0 - 3 5 8 1 1 1 2 1 14
+p741
+aVVince Carter ORL 11/05/2010 ORL vs. NJN W 38 19 6 11 54.5 3 6 50.0 4 4 100.0 0 5 5 3 0 0 1 2 31
+p742
+aVJameer Nelson ORL 11/05/2010 ORL vs. NJN W 33 20 7 12 58.3 2 4 50.0 4 6 66.7 0 2 2 6 1 0 3 2 25
+p743
+aVJJ Redick ORL 11/05/2010 ORL vs. NJN W 21 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 0 0 0 0 0 -15
+p744
+aVDwight Howard ORL 11/05/2010 ORL vs. NJN W 38 30 9 13 69.2 0 0 - 12 16 75.0 5 11 16 2 2 1 5 5 21
+p745
+aVRashard Lewis ORL 11/03/2010 ORL vs. MIN W 29 11 4 13 30.8 1 3 33.3 2 2 100.0 2 4 6 0 0 0 1 2 14
+p746
+aVVince Carter ORL 11/03/2010 ORL vs. MIN W 27 20 7 12 58.3 4 5 80.0 2 4 50.0 0 4 4 7 2 0 4 3 26
+p747
+aVBrandon Bass ORL 11/03/2010 ORL vs. MIN W 24 19 6 7 85.7 0 0 - 7 7 100.0 4 4 8 2 0 0 1 3 36
+p748
+aVDwight Howard ORL 11/03/2010 ORL vs. MIN W 23 18 7 13 53.8 0 0 - 4 11 36.4 6 10 16 1 1 8 3 3 18
+p749
+aVJason Williams ORL 11/03/2010 ORL vs. MIN W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 3
+p750
+aVChris Duhon ORL 11/03/2010 ORL vs. MIN W 12 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 2 1 0 2 0 23
+p751
+aVMickael Pietrus ORL 11/03/2010 ORL vs. MIN W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p752
+aVQuentin Richardson ORL 11/03/2010 ORL vs. MIN W 24 9 3 7 42.9 2 5 40.0 1 2 50.0 3 5 8 2 2 1 0 1 26
+p753
+aVJameer Nelson ORL 11/03/2010 ORL vs. MIN W 24 4 2 9 22.2 0 4 0.0 0 0 - 0 2 2 9 1 0 1 1 16
+p754
+aVJJ Redick ORL 11/03/2010 ORL vs. MIN W 18 10 3 9 33.3 2 3 66.7 2 2 100.0 0 1 1 1 1 0 0 2 18
+p755
+aVMarcin Gortat ORL 11/03/2010 ORL vs. MIN W 24 12 6 7 85.7 0 0 - 0 0 - 2 5 7 1 0 3 1 5 26
+p756
+aVRyan Anderson ORL 11/03/2010 ORL vs. MIN W 19 19 6 10 60.0 4 8 50.0 3 4 75.0 0 3 3 0 0 3 0 5 6
+p757
+aVRyan Anderson ORL 10/29/2010 ORL @ MIA L 14 12 5 8 62.5 2 4 50.0 0 0 - 2 0 2 0 0 1 0 0 -4
+p758
+aVMarcin Gortat ORL 10/29/2010 ORL @ MIA L 14 2 0 0 - 0 0 - 2 2 100.0 0 7 7 0 1 1 1 0 -9
+p759
+aVJJ Redick ORL 10/29/2010 ORL @ MIA L 31 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 1 1 0 0 1 1
+p760
+aVChris Duhon ORL 10/29/2010 ORL @ MIA L 23 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 2 2 -13
+p761
+aVBrandon Bass ORL 10/29/2010 ORL @ MIA L 21 9 1 5 20.0 0 0 - 7 8 87.5 3 3 6 1 0 0 1 0 5
+p762
+aVQuentin Richardson ORL 10/29/2010 ORL @ MIA L 22 2 0 5 0.0 0 4 0.0 2 2 100.0 2 4 6 1 0 0 0 1 -16
+p763
+aVDwight Howard ORL 10/29/2010 ORL @ MIA L 29 19 8 15 53.3 0 0 - 3 7 42.9 0 7 7 0 2 1 1 6 -15
+p764
+aVRashard Lewis ORL 10/29/2010 ORL @ MIA L 25 2 0 9 0.0 0 5 0.0 2 2 100.0 0 3 3 0 1 0 3 6 -25
+p765
+aVJameer Nelson ORL 10/29/2010 ORL @ MIA L 25 10 3 11 27.3 1 3 33.3 3 4 75.0 1 2 3 1 0 0 3 2 -13
+p766
+aVMickael Pietrus ORL 10/29/2010 ORL @ MIA L 24 5 2 6 33.3 1 4 25.0 0 2 0.0 0 1 1 0 0 0 3 0 -15
+p767
+aVVince Carter ORL 10/29/2010 ORL @ MIA L 14 4 1 5 20.0 0 1 0.0 2 3 66.7 0 1 1 0 0 0 0 2 -26
+p768
+aVMarcin Gortat ORL 10/28/2010 ORL vs. WAS W 18 8 3 4 75.0 0 0 - 2 2 100.0 2 5 7 0 1 0 2 4 5
+p769
+aVBrandon Bass ORL 10/28/2010 ORL vs. WAS W 16 4 2 6 33.3 0 0 - 0 0 - 3 2 5 1 0 0 2 2 1
+p770
+aVJJ Redick ORL 10/28/2010 ORL vs. WAS W 21 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 0 8
+p771
+aVRyan Anderson ORL 10/28/2010 ORL vs. WAS W 16 6 2 8 25.0 0 3 0.0 2 3 66.7 1 7 8 0 0 0 1 2 -4
+p772
+aVJameer Nelson ORL 10/28/2010 ORL vs. WAS W 24 16 6 8 75.0 2 4 50.0 2 3 66.7 1 1 2 6 2 0 2 2 26
+p773
+aVVince Carter ORL 10/28/2010 ORL vs. WAS W 25 18 8 12 66.7 2 5 40.0 0 1 0.0 0 5 5 2 0 0 0 2 31
+p774
+aVRashard Lewis ORL 10/28/2010 ORL vs. WAS W 24 13 6 10 60.0 1 4 25.0 0 0 - 2 5 7 1 0 0 1 0 28
+p775
+aVChris Duhon ORL 10/28/2010 ORL vs. WAS W 19 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 3 0 0 3 3 4
+p776
+aVQuentin Richardson ORL 10/28/2010 ORL vs. WAS W 26 7 2 3 66.7 1 2 50.0 2 2 100.0 1 6 7 5 0 0 1 2 26
+p777
+aVDwight Howard ORL 10/28/2010 ORL vs. WAS W 30 23 7 9 77.8 0 0 - 9 19 47.4 1 9 10 1 1 3 3 1 24
+p778
+aVMickael Pietrus ORL 10/28/2010 ORL vs. WAS W 12 8 3 9 33.3 2 3 66.7 0 0 - 0 0 0 0 1 0 1 3 -2
+p779
+aVJason Williams ORL 10/28/2010 ORL vs. WAS W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 3 1 -2
+p780
+a.

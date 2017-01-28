@@ -1,0 +1,1646 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGeorge Lynch NOH 04/16/2003 NOH vs. ATL W 21 6 2 6 33.3 1 2 50.0 1 2 50.0 2 3 5 0 3 1 2 0 11
+p2
+aVDavid Wesley NOH 04/16/2003 NOH vs. ATL W 26 10 5 13 38.5 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -6
+p3
+aVJerome Moiso NOH 04/16/2003 NOH vs. ATL W 12 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 0 2 9
+p4
+aVRobert Pack NOH 04/16/2003 NOH vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p5
+aVKenny Anderson NOH 04/16/2003 NOH vs. ATL W 20 4 2 7 28.6 0 0 - 0 0 - 0 2 2 3 3 1 2 2 9
+p6
+aVJamal Mashburn NOH 04/16/2003 NOH vs. ATL W 32 15 4 15 26.7 0 1 0.0 7 7 100.0 0 10 10 11 3 0 1 0 16
+p7
+aVBaron Davis NOH 04/16/2003 NOH vs. ATL W 24 21 8 13 61.5 3 5 60.0 2 2 100.0 0 0 0 1 3 1 2 1 13
+p8
+aVP.J. Brown NOH 04/16/2003 NOH vs. ATL W 31 10 4 7 57.1 0 0 - 2 4 50.0 2 5 7 1 1 2 0 2 -3
+p9
+aVCourtney Alexander NOH 04/16/2003 NOH vs. ATL W 16 4 2 9 22.2 0 0 - 0 0 - 1 2 3 2 0 0 0 2 19
+p10
+aVStacey Augmon NOH 04/16/2003 NOH vs. ATL W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p11
+aVJamaal Magloire NOH 04/16/2003 NOH vs. ATL W 25 5 1 6 16.7 0 0 - 3 4 75.0 4 6 10 2 1 2 1 0 3
+p12
+aVRobert Traylor NOH 04/16/2003 NOH vs. ATL W 23 15 6 10 60.0 1 1 100.0 2 2 100.0 2 5 7 2 1 1 1 2 12
+p13
+aVGeorge Lynch NOH 04/14/2003 NOH @ NJN W 25 8 3 7 42.9 1 4 25.0 1 2 50.0 1 1 2 0 4 0 1 3 9
+p14
+aVP.J. Brown NOH 04/14/2003 NOH @ NJN W 31 14 5 9 55.6 0 0 - 4 4 100.0 2 7 9 2 0 4 1 2 14
+p15
+aVBaron Davis NOH 04/14/2003 NOH @ NJN W 37 19 6 12 50.0 2 3 66.7 5 8 62.5 3 4 7 5 3 0 3 4 23
+p16
+aVDavid Wesley NOH 04/14/2003 NOH @ NJN W 32 10 3 6 50.0 0 0 - 4 6 66.7 1 2 3 4 0 1 1 2 16
+p17
+aVRobert Traylor NOH 04/14/2003 NOH @ NJN W 19 7 3 4 75.0 0 0 - 1 2 50.0 3 5 8 2 0 0 2 4 14
+p18
+aVJamaal Magloire NOH 04/14/2003 NOH @ NJN W 21 4 2 3 66.7 0 0 - 0 0 - 0 6 6 0 0 1 2 5 -11
+p19
+aVStacey Augmon NOH 04/14/2003 NOH @ NJN W 16 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -3
+p20
+aVKenny Anderson NOH 04/14/2003 NOH @ NJN W 17 6 3 7 42.9 0 0 - 0 0 - 1 1 2 3 0 0 2 1 -3
+p21
+aVJamal Mashburn NOH 04/14/2003 NOH @ NJN W 42 17 7 22 31.8 0 2 0.0 3 3 100.0 0 5 5 4 1 0 1 2 6
+p22
+aVDavid Wesley NOH 04/13/2003 NOH @ PHI W 31 13 4 11 36.4 0 0 - 5 7 71.4 0 1 1 3 2 0 3 2 -5
+p23
+aVP.J. Brown NOH 04/13/2003 NOH @ PHI W 37 2 1 6 16.7 0 0 - 0 0 - 3 7 10 1 2 0 1 1 11
+p24
+aVStacey Augmon NOH 04/13/2003 NOH @ PHI W 14 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 3 0 0 0 2 10
+p25
+aVJamal Mashburn NOH 04/13/2003 NOH @ PHI W 38 27 11 22 50.0 2 3 66.7 3 4 75.0 0 5 5 4 0 0 3 2 5
+p26
+aVKenny Anderson NOH 04/13/2003 NOH @ PHI W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 3 3 -2
+p27
+aVRobert Traylor NOH 04/13/2003 NOH @ PHI W 11 4 2 4 50.0 0 0 - 0 2 0.0 3 2 5 0 0 0 0 5 -2
+p28
+aVGeorge Lynch NOH 04/13/2003 NOH @ PHI W 29 8 2 6 33.3 1 2 50.0 3 4 75.0 3 3 6 1 2 0 1 4 0
+p29
+aVBaron Davis NOH 04/13/2003 NOH @ PHI W 38 16 5 14 35.7 3 6 50.0 3 4 75.0 4 3 7 6 2 1 5 4 8
+p30
+aVJamaal Magloire NOH 04/13/2003 NOH @ PHI W 32 14 6 8 75.0 0 0 - 2 2 100.0 3 7 10 2 1 0 5 5 0
+p31
+aVCourtney Alexander NOH 04/11/2003 NOH vs. DET W 16 10 4 8 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 4
+p32
+aVKenny Anderson NOH 04/11/2003 NOH vs. DET W 23 9 4 8 50.0 0 0 - 1 2 50.0 0 0 0 4 2 0 2 1 15
+p33
+aVJamal Mashburn NOH 04/11/2003 NOH vs. DET W 39 20 7 22 31.8 2 5 40.0 4 5 80.0 0 8 8 8 0 1 2 3 3
+p34
+aVDavid Wesley NOH 04/11/2003 NOH vs. DET W 32 8 3 10 30.0 0 5 0.0 2 3 66.7 0 0 0 1 0 0 0 3 -1
+p35
+aVRobert Traylor NOH 04/11/2003 NOH vs. DET W 16 4 2 2 100.0 0 0 - 0 0 - 3 3 6 0 1 1 2 4 -10
+p36
+aVJerome Moiso NOH 04/11/2003 NOH vs. DET W 14 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 1
+p37
+aVJamaal Magloire NOH 04/11/2003 NOH vs. DET W 36 19 6 10 60.0 0 0 - 7 8 87.5 6 12 18 2 1 2 5 3 1
+p38
+aVStacey Augmon NOH 04/11/2003 NOH vs. DET W 23 2 1 7 14.3 0 0 - 0 0 - 1 2 3 3 1 0 1 2 0
+p39
+aVGeorge Lynch NOH 04/11/2003 NOH vs. DET W 41 15 7 12 58.3 1 1 100.0 0 4 0.0 6 3 9 2 4 0 0 2 7
+p40
+aVJamal Mashburn NOH 04/09/2003 NOH vs. CLE W 38 28 12 17 70.6 3 6 50.0 1 1 100.0 0 4 4 7 1 1 4 2 28
+p41
+aVCourtney Alexander NOH 04/09/2003 NOH vs. CLE W 19 7 3 9 33.3 0 1 0.0 1 1 100.0 0 0 0 1 1 0 2 3 -4
+p42
+aVGeorge Lynch NOH 04/09/2003 NOH vs. CLE W 31 12 6 12 50.0 0 0 - 0 0 - 6 8 14 4 3 2 0 2 25
+p43
+aVRobert Traylor NOH 04/09/2003 NOH vs. CLE W 19 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 1 3 2 2 -4
+p44
+aVDavid Wesley NOH 04/09/2003 NOH vs. CLE W 41 17 6 18 33.3 1 5 20.0 4 5 80.0 2 5 7 8 1 0 5 1 16
+p45
+aVJerome Moiso NOH 04/09/2003 NOH vs. CLE W 17 6 3 4 75.0 0 0 - 0 0 - 3 5 8 0 0 0 2 4 -4
+p46
+aVJamaal Magloire NOH 04/09/2003 NOH vs. CLE W 30 14 5 8 62.5 0 0 - 4 4 100.0 3 7 10 3 0 1 1 2 21
+p47
+aVRobert Pack NOH 04/09/2003 NOH vs. CLE W 17 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 2 3 0 2 2 -6
+p48
+aVStacey Augmon NOH 04/09/2003 NOH vs. CLE W 29 8 3 5 60.0 0 1 0.0 2 4 50.0 0 3 3 5 2 1 0 1 23
+p49
+aVRobert Pack NOH 04/05/2003 NOH @ CLE L 20 8 3 8 37.5 0 1 0.0 2 2 100.0 1 2 3 1 1 0 0 1 0
+p50
+aVRobert Traylor NOH 04/05/2003 NOH @ CLE L 14 4 2 6 33.3 0 0 - 0 0 - 1 3 4 3 0 0 0 2 -3
+p51
+aVJamal Mashburn NOH 04/05/2003 NOH @ CLE L 45 23 8 22 36.4 3 9 33.3 4 5 80.0 2 2 4 8 3 0 4 1 -1
+p52
+aVJamaal Magloire NOH 04/05/2003 NOH @ CLE L 43 15 6 18 33.3 0 0 - 3 6 50.0 3 9 12 1 0 1 3 4 -3
+p53
+aVGeorge Lynch NOH 04/05/2003 NOH @ CLE L 33 6 2 10 20.0 0 3 0.0 2 2 100.0 6 5 11 3 2 0 0 1 0
+p54
+aVCourtney Alexander NOH 04/05/2003 NOH @ CLE L 23 10 4 9 44.4 0 2 0.0 2 2 100.0 0 2 2 0 0 0 1 3 0
+p55
+aVJerome Moiso NOH 04/05/2003 NOH @ CLE L 24 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 1 1 1 4 2
+p56
+aVKenny Anderson NOH 04/05/2003 NOH @ CLE L 28 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 1 1 1 1 0 -3
+p57
+aVStacey Augmon NOH 04/05/2003 NOH @ CLE L 10 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -7
+p58
+aVJamal Mashburn NOH 04/02/2003 NOH vs. NJN W 44 24 8 17 47.1 2 5 40.0 6 8 75.0 1 5 6 6 1 0 3 3 7
+p59
+aVCourtney Alexander NOH 04/02/2003 NOH vs. NJN W 9 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -6
+p60
+aVP.J. Brown NOH 04/02/2003 NOH vs. NJN W 33 6 3 7 42.9 0 0 - 0 0 - 1 4 5 1 0 1 1 6 9
+p61
+aVRobert Pack NOH 04/02/2003 NOH vs. NJN W 28 10 4 13 30.8 0 1 0.0 2 4 50.0 0 3 3 8 1 0 2 3 0
+p62
+aVJerome Moiso NOH 04/02/2003 NOH vs. NJN W 12 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 2 1 0 3
+p63
+aVRobert Traylor NOH 04/02/2003 NOH vs. NJN W 15 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 1 2 0 0 4 4
+p64
+aVBaron Davis NOH 04/02/2003 NOH vs. NJN W 30 19 8 16 50.0 2 6 33.3 1 1 100.0 1 2 3 7 2 1 4 2 24
+p65
+aVJamaal Magloire NOH 04/02/2003 NOH vs. NJN W 33 17 5 7 71.4 0 0 - 7 8 87.5 5 11 16 2 1 2 1 1 5
+p66
+aVStacey Augmon NOH 04/02/2003 NOH vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p67
+aVGeorge Lynch NOH 04/02/2003 NOH vs. NJN W 34 19 8 11 72.7 2 3 66.7 1 2 50.0 4 2 6 1 1 0 1 5 2
+p68
+aVRobert Pack NOH 04/01/2003 NOH @ DAL L 12 6 2 5 40.0 0 1 0.0 2 2 100.0 3 1 4 0 0 0 2 0 4
+p69
+aVStacey Augmon NOH 04/01/2003 NOH @ DAL L 16 1 0 5 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 1 -3
+p70
+aVCourtney Alexander NOH 04/01/2003 NOH @ DAL L 14 7 3 7 42.9 1 1 100.0 0 0 - 0 0 0 1 1 0 0 1 6
+p71
+aVBaron Davis NOH 04/01/2003 NOH @ DAL L 35 18 7 12 58.3 1 3 33.3 3 4 75.0 0 4 4 5 1 0 3 1 -16
+p72
+aVJerome Moiso NOH 04/01/2003 NOH @ DAL L 24 12 5 9 55.6 0 0 - 2 4 50.0 6 5 11 0 0 1 4 1 -7
+p73
+aVKenny Anderson NOH 04/01/2003 NOH @ DAL L 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 3 2 -8
+p74
+aVGeorge Lynch NOH 04/01/2003 NOH @ DAL L 26 13 5 9 55.6 1 1 100.0 2 3 66.7 2 2 4 2 0 0 1 4 0
+p75
+aVJamaal Magloire NOH 04/01/2003 NOH @ DAL L 27 8 3 6 50.0 0 0 - 2 3 66.7 4 8 12 2 0 2 3 5 -7
+p76
+aVJamal Mashburn NOH 04/01/2003 NOH @ DAL L 35 10 4 13 30.8 1 2 50.0 1 2 50.0 1 6 7 4 1 0 3 1 -10
+p77
+aVP.J. Brown NOH 04/01/2003 NOH @ DAL L 27 7 3 11 27.3 0 0 - 1 2 50.0 3 4 7 1 0 0 2 4 -8
+p78
+aVRobert Traylor NOH 04/01/2003 NOH @ DAL L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 1 0 1 2 4
+p79
+aVBaron Davis NOH 03/30/2003 NOH vs. SAS L 39 18 6 19 31.6 2 8 25.0 4 5 80.0 1 3 4 6 1 0 0 4 -7
+p80
+aVJamaal Magloire NOH 03/30/2003 NOH vs. SAS L 33 14 6 8 75.0 0 0 - 2 2 100.0 3 4 7 0 1 2 1 2 0
+p81
+aVRobert Traylor NOH 03/30/2003 NOH vs. SAS L 15 4 2 4 50.0 0 0 - 0 0 - 0 4 4 2 0 1 0 4 -2
+p82
+aVJerome Moiso NOH 03/30/2003 NOH vs. SAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -5
+p83
+aVP.J. Brown NOH 03/30/2003 NOH vs. SAS L 37 13 6 11 54.5 0 2 0.0 1 2 50.0 0 6 6 0 2 2 1 3 4
+p84
+aVGeorge Lynch NOH 03/30/2003 NOH vs. SAS L 27 4 2 7 28.6 0 1 0.0 0 0 - 3 6 9 3 2 0 0 3 -8
+p85
+aVKenny Anderson NOH 03/30/2003 NOH vs. SAS L 22 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 4 0 0 2 4 8
+p86
+aVJamal Mashburn NOH 03/30/2003 NOH vs. SAS L 42 24 10 20 50.0 2 2 100.0 2 2 100.0 1 6 7 3 1 0 5 3 1
+p87
+aVCourtney Alexander NOH 03/30/2003 NOH vs. SAS L 18 5 1 4 25.0 0 0 - 3 4 75.0 0 1 1 1 0 1 2 2 -1
+p88
+aVJamal Mashburn NOH 03/28/2003 NOH @ TOR W 40 27 8 17 47.1 2 3 66.7 9 11 81.8 1 2 3 2 0 0 5 3 -3
+p89
+aVKenny Anderson NOH 03/28/2003 NOH @ TOR W 21 4 2 9 22.2 0 0 - 0 0 - 0 4 4 5 0 0 1 1 8
+p90
+aVP.J. Brown NOH 03/28/2003 NOH @ TOR W 28 10 4 7 57.1 0 0 - 2 4 50.0 6 5 11 1 1 0 3 2 -4
+p91
+aVRobert Traylor NOH 03/28/2003 NOH @ TOR W 19 2 1 2 50.0 0 0 - 0 0 - 2 5 7 3 1 0 0 2 11
+p92
+aVGeorge Lynch NOH 03/28/2003 NOH @ TOR W 32 10 4 8 50.0 2 4 50.0 0 1 0.0 0 5 5 1 0 1 0 2 4
+p93
+aVJerome Moiso NOH 03/28/2003 NOH @ TOR W 20 12 6 10 60.0 0 0 - 0 1 0.0 7 3 10 0 0 2 1 2 13
+p94
+aVJamaal Magloire NOH 03/28/2003 NOH @ TOR W 26 10 5 10 50.0 0 0 - 0 0 - 3 3 6 0 1 2 4 2 -2
+p95
+aVBaron Davis NOH 03/28/2003 NOH @ TOR W 41 22 9 22 40.9 4 8 50.0 0 0 - 3 2 5 11 1 1 1 4 16
+p96
+aVStacey Augmon NOH 03/28/2003 NOH @ TOR W 12 4 2 2 100.0 0 0 - 0 2 0.0 1 0 1 0 1 0 1 3 2
+p97
+aVJamaal Magloire NOH 03/26/2003 NOH vs. ORL L 21 2 1 6 16.7 0 0 - 0 0 - 1 3 4 2 0 0 4 5 5
+p98
+aVP.J. Brown NOH 03/26/2003 NOH vs. ORL L 37 8 3 4 75.0 0 0 - 2 2 100.0 6 8 14 1 1 1 0 3 5
+p99
+aVKenny Anderson NOH 03/26/2003 NOH vs. ORL L 22 5 1 6 16.7 0 0 - 3 3 100.0 2 1 3 4 2 0 0 2 -2
+p100
+aVJamal Mashburn NOH 03/26/2003 NOH vs. ORL L 42 40 14 27 51.9 5 8 62.5 7 8 87.5 1 4 5 4 1 0 3 2 -3
+p101
+aVGeorge Lynch NOH 03/26/2003 NOH vs. ORL L 23 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 1 1 0 0 1 0
+p102
+aVJerome Moiso NOH 03/26/2003 NOH vs. ORL L 14 6 3 5 60.0 0 0 - 0 0 - 3 3 6 0 0 2 2 4 -5
+p103
+aVCourtney Alexander NOH 03/26/2003 NOH vs. ORL L 21 8 1 5 20.0 0 0 - 6 6 100.0 0 3 3 0 1 0 1 4 -2
+p104
+aVBaron Davis NOH 03/26/2003 NOH vs. ORL L 39 10 4 17 23.5 0 5 0.0 2 2 100.0 3 1 4 8 1 0 3 3 -5
+p105
+aVRobert Traylor NOH 03/26/2003 NOH vs. ORL L 20 11 5 10 50.0 0 0 - 1 2 50.0 4 5 9 0 3 3 3 5 -3
+p106
+aVP.J. Brown NOH 03/22/2003 NOH @ MIL L 37 15 7 11 63.6 0 0 - 1 2 50.0 7 8 15 0 0 0 0 2 -1
+p107
+aVJamaal Magloire NOH 03/22/2003 NOH @ MIL L 30 8 3 8 37.5 0 0 - 2 2 100.0 4 4 8 1 0 1 5 2 -3
+p108
+aVJerome Moiso NOH 03/22/2003 NOH @ MIL L 16 5 2 6 33.3 0 0 - 1 2 50.0 4 3 7 1 0 0 3 2 -6
+p109
+aVJamal Mashburn NOH 03/22/2003 NOH @ MIL L 39 18 8 17 47.1 2 6 33.3 0 3 0.0 2 1 3 7 1 0 2 2 -2
+p110
+aVCourtney Alexander NOH 03/22/2003 NOH @ MIL L 17 5 1 9 11.1 0 0 - 3 4 75.0 1 0 1 2 1 0 1 1 -9
+p111
+aVKenny Anderson NOH 03/22/2003 NOH @ MIL L 25 9 4 8 50.0 0 0 - 1 2 50.0 1 5 6 2 0 0 2 4 -11
+p112
+aVStacey Augmon NOH 03/22/2003 NOH @ MIL L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p113
+aVRobert Traylor NOH 03/22/2003 NOH @ MIL L 12 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -6
+p114
+aVBaron Davis NOH 03/22/2003 NOH @ MIL L 33 20 8 19 42.1 4 11 36.4 0 0 - 1 1 2 2 3 0 6 2 -1
+p115
+aVGeorge Lynch NOH 03/22/2003 NOH @ MIL L 23 4 1 2 50.0 1 2 50.0 1 2 50.0 1 3 4 3 1 0 1 2 2
+p116
+aVJamal Mashburn NOH 03/21/2003 NOH vs. MIL W 35 22 8 19 42.1 2 6 33.3 4 4 100.0 0 3 3 8 3 1 4 2 10
+p117
+aVBaron Davis NOH 03/21/2003 NOH vs. MIL W 39 22 9 18 50.0 2 4 50.0 2 7 28.6 0 6 6 9 3 1 2 0 10
+p118
+aVKenny Anderson NOH 03/21/2003 NOH vs. MIL W 20 4 2 7 28.6 0 0 - 0 0 - 0 0 0 0 0 0 1 3 14
+p119
+aVJerome Moiso NOH 03/21/2003 NOH vs. MIL W 17 10 3 4 75.0 0 0 - 4 5 80.0 3 4 7 2 1 1 0 4 3
+p120
+aVJamaal Magloire NOH 03/21/2003 NOH vs. MIL W 32 14 6 10 60.0 0 0 - 2 2 100.0 5 5 10 3 0 2 3 3 14
+p121
+aVRobert Pack NOH 03/21/2003 NOH vs. MIL W 6 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 -7
+p122
+aVCourtney Alexander NOH 03/21/2003 NOH vs. MIL W 23 12 5 9 55.6 0 1 0.0 2 3 66.7 0 1 1 3 0 0 1 3 8
+p123
+aVGeorge Lynch NOH 03/21/2003 NOH vs. MIL W 26 5 2 6 33.3 1 1 100.0 0 0 - 4 1 5 0 0 0 1 5 9
+p124
+aVP.J. Brown NOH 03/21/2003 NOH vs. MIL W 31 14 5 5 100.0 0 0 - 4 4 100.0 2 6 8 5 1 0 2 1 12
+p125
+aVRobert Traylor NOH 03/21/2003 NOH vs. MIL W 11 6 3 3 100.0 0 0 - 0 0 - 2 3 5 2 1 0 2 1 2
+p126
+aVKenny Anderson NOH 03/19/2003 NOH vs. NYK W 23 9 4 9 44.4 0 0 - 1 2 50.0 1 4 5 4 0 0 1 2 1
+p127
+aVCourtney Alexander NOH 03/19/2003 NOH vs. NYK W 20 5 2 9 22.2 1 2 50.0 0 0 - 0 0 0 2 1 1 0 2 2
+p128
+aVJerome Moiso NOH 03/19/2003 NOH vs. NYK W 14 8 4 5 80.0 0 0 - 0 0 - 3 2 5 0 0 1 0 1 -1
+p129
+aVJamaal Magloire NOH 03/19/2003 NOH vs. NYK W 35 17 7 15 46.7 0 1 0.0 3 4 75.0 6 2 8 1 0 0 3 4 5
+p130
+aVJamal Mashburn NOH 03/19/2003 NOH vs. NYK W 40 25 8 20 40.0 1 2 50.0 8 8 100.0 0 8 8 8 1 0 2 1 6
+p131
+aVGeorge Lynch NOH 03/19/2003 NOH vs. NYK W 24 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 1 0 3 2 2
+p132
+aVBaron Davis NOH 03/19/2003 NOH vs. NYK W 37 23 6 15 40.0 2 5 40.0 9 12 75.0 2 2 4 5 2 3 3 3 4
+p133
+aVRobert Traylor NOH 03/19/2003 NOH vs. NYK W 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 2 1 0 2 0
+p134
+aVP.J. Brown NOH 03/19/2003 NOH vs. NYK W 34 10 5 7 71.4 0 0 - 0 0 - 3 5 8 1 0 0 0 1 6
+p135
+aVJamaal Magloire NOH 03/15/2003 NOH @ ORL L 31 15 4 7 57.1 0 1 0.0 7 8 87.5 1 8 9 0 0 5 2 3 1
+p136
+aVGeorge Lynch NOH 03/15/2003 NOH @ ORL L 21 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 1
+p137
+aVCourtney Alexander NOH 03/15/2003 NOH @ ORL L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -10
+p138
+aVKenny Anderson NOH 03/15/2003 NOH @ ORL L 18 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 4 1 1 3 1 -7
+p139
+aVP.J. Brown NOH 03/15/2003 NOH @ ORL L 35 18 8 13 61.5 0 0 - 2 3 66.7 4 2 6 0 1 1 3 2 -4
+p140
+aVBaron Davis NOH 03/15/2003 NOH @ ORL L 24 7 3 12 25.0 1 5 20.0 0 0 - 1 2 3 0 1 0 1 4 -8
+p141
+aVJamal Mashburn NOH 03/15/2003 NOH @ ORL L 37 8 4 13 30.8 0 2 0.0 0 0 - 1 3 4 9 0 0 2 5 -6
+p142
+aVDavid Wesley NOH 03/15/2003 NOH @ ORL L 33 24 9 16 56.3 3 3 100.0 3 5 60.0 0 2 2 3 2 0 0 2 0
+p143
+aVJerome Moiso NOH 03/15/2003 NOH @ ORL L 13 2 1 3 33.3 0 0 - 0 2 0.0 1 6 7 0 1 2 1 3 -6
+p144
+aVRobert Traylor NOH 03/15/2003 NOH @ ORL L 17 5 2 7 28.6 0 0 - 1 2 50.0 6 5 11 1 1 0 2 2 -11
+p145
+aVP.J. Brown NOH 03/14/2003 NOH @ MIA W 36 20 9 15 60.0 0 0 - 2 2 100.0 5 9 14 3 1 2 0 1 12
+p146
+aVKenny Anderson NOH 03/14/2003 NOH @ MIA W 21 6 3 8 37.5 0 0 - 0 0 - 3 0 3 3 0 0 2 0 6
+p147
+aVGeorge Lynch NOH 03/14/2003 NOH @ MIA W 28 3 1 7 14.3 0 3 0.0 1 2 50.0 1 1 2 0 1 1 0 0 4
+p148
+aVDavid Wesley NOH 03/14/2003 NOH @ MIA W 31 11 5 13 38.5 1 1 100.0 0 0 - 1 3 4 4 1 0 2 1 2
+p149
+aVJamal Mashburn NOH 03/14/2003 NOH @ MIA W 42 21 7 18 38.9 1 3 33.3 6 7 85.7 0 5 5 7 2 0 1 3 6
+p150
+aVJerome Moiso NOH 03/14/2003 NOH @ MIA W 12 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -8
+p151
+aVJamaal Magloire NOH 03/14/2003 NOH @ MIA W 33 11 5 11 45.5 0 0 - 1 2 50.0 1 10 11 1 0 4 3 5 6
+p152
+aVCourtney Alexander NOH 03/14/2003 NOH @ MIA W 8 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -3
+p153
+aVStacey Augmon NOH 03/14/2003 NOH @ MIA W 14 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -1
+p154
+aVRobert Traylor NOH 03/14/2003 NOH @ MIA W 15 7 3 4 75.0 0 0 - 1 2 50.0 2 4 6 0 0 0 1 2 -4
+p155
+aVJamal Mashburn NOH 03/12/2003 NOH @ BOS L 34 11 4 13 30.8 0 1 0.0 3 5 60.0 0 2 2 2 1 0 2 3 -26
+p156
+aVBaron Davis NOH 03/12/2003 NOH @ BOS L 29 16 4 13 30.8 2 6 33.3 6 6 100.0 0 1 1 3 0 0 1 2 -21
+p157
+aVJamaal Magloire NOH 03/12/2003 NOH @ BOS L 31 8 2 6 33.3 0 0 - 4 6 66.7 6 5 11 0 0 4 1 2 -27
+p158
+aVJerome Moiso NOH 03/12/2003 NOH @ BOS L 9 0 0 2 0.0 0 0 - 0 2 0.0 1 3 4 1 0 2 1 0 -3
+p159
+aVP.J. Brown NOH 03/12/2003 NOH @ BOS L 32 6 3 6 50.0 0 0 - 0 0 - 4 8 12 1 0 1 3 1 -22
+p160
+aVCourtney Alexander NOH 03/12/2003 NOH @ BOS L 15 7 2 6 33.3 0 0 - 3 4 75.0 0 1 1 0 1 0 0 2 0
+p161
+aVDavid Wesley NOH 03/12/2003 NOH @ BOS L 27 4 2 9 22.2 0 5 0.0 0 0 - 0 3 3 2 0 0 1 4 -26
+p162
+aVStacey Augmon NOH 03/12/2003 NOH @ BOS L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 7
+p163
+aVRobert Traylor NOH 03/12/2003 NOH @ BOS L 17 7 3 3 100.0 0 0 - 1 6 16.7 2 5 7 1 0 0 3 3 -1
+p164
+aVKenny Anderson NOH 03/12/2003 NOH @ BOS L 13 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -7
+p165
+aVGeorge Lynch NOH 03/12/2003 NOH @ BOS L 23 0 0 7 0.0 0 4 0.0 0 2 0.0 0 1 1 2 0 0 0 1 -14
+p166
+aVDavid Wesley NOH 03/11/2003 NOH @ IND W 38 14 4 12 33.3 1 4 25.0 5 6 83.3 0 2 2 3 2 0 2 1 13
+p167
+aVBaron Davis NOH 03/11/2003 NOH @ IND W 24 20 9 14 64.3 2 3 66.7 0 0 - 1 1 2 4 2 0 2 2 16
+p168
+aVP.J. Brown NOH 03/11/2003 NOH @ IND W 38 6 1 5 20.0 0 0 - 4 4 100.0 4 6 10 2 1 3 2 0 7
+p169
+aVJamaal Magloire NOH 03/11/2003 NOH @ IND W 30 10 4 9 44.4 0 0 - 2 2 100.0 3 9 12 2 1 2 3 5 10
+p170
+aVStacey Augmon NOH 03/11/2003 NOH @ IND W 20 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 0 1 2 11
+p171
+aVRobert Traylor NOH 03/11/2003 NOH @ IND W 17 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 2 0 2 -4
+p172
+aVJerome Moiso NOH 03/11/2003 NOH @ IND W 10 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 1 0 3 3
+p173
+aVJamal Mashburn NOH 03/11/2003 NOH @ IND W 40 16 5 22 22.7 3 10 30.0 3 4 75.0 0 4 4 3 0 0 2 2 7
+p174
+aVKenny Anderson NOH 03/11/2003 NOH @ IND W 13 8 4 5 80.0 0 0 - 0 0 - 0 3 3 0 1 0 4 1 -1
+p175
+aVGeorge Lynch NOH 03/11/2003 NOH @ IND W 9 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 1 2 2 4 -12
+p176
+aVRobert Traylor NOH 03/09/2003 NOH vs. NJN L 11 3 0 2 0.0 0 0 - 3 4 75.0 1 2 3 0 1 0 0 5 1
+p177
+aVDavid Wesley NOH 03/09/2003 NOH vs. NJN L 42 24 9 18 50.0 3 6 50.0 3 3 100.0 3 2 5 4 1 0 1 4 -8
+p178
+aVGeorge Lynch NOH 03/09/2003 NOH vs. NJN L 24 6 3 5 60.0 0 1 0.0 0 0 - 2 1 3 2 1 0 0 2 -14
+p179
+aVCourtney Alexander NOH 03/09/2003 NOH vs. NJN L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 2
+p180
+aVKenny Anderson NOH 03/09/2003 NOH vs. NJN L 29 10 5 13 38.5 0 0 - 0 1 0.0 1 0 1 7 2 0 3 2 5
+p181
+aVJamal Mashburn NOH 03/09/2003 NOH vs. NJN L 42 18 6 21 28.6 1 4 25.0 5 5 100.0 1 7 8 2 1 1 7 4 -16
+p182
+aVJamaal Magloire NOH 03/09/2003 NOH vs. NJN L 28 13 4 5 80.0 0 0 - 5 5 100.0 2 7 9 1 0 1 3 4 -11
+p183
+aVJerome Moiso NOH 03/09/2003 NOH vs. NJN L 9 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 1 4
+p184
+aVP.J. Brown NOH 03/09/2003 NOH vs. NJN L 40 12 5 10 50.0 0 0 - 2 4 50.0 2 4 6 3 1 1 2 2 -13
+p185
+aVKenny Anderson NOH 03/07/2003 NOH vs. CLE W 22 12 5 10 50.0 0 0 - 2 2 100.0 0 3 3 7 3 0 1 2 3
+p186
+aVP.J. Brown NOH 03/07/2003 NOH vs. CLE W 29 8 3 6 50.0 0 0 - 2 2 100.0 4 6 10 4 0 1 1 2 25
+p187
+aVRobert Traylor NOH 03/07/2003 NOH vs. CLE W 18 4 1 4 25.0 0 0 - 2 3 66.7 1 3 4 0 1 1 2 3 -1
+p188
+aVJamal Mashburn NOH 03/07/2003 NOH vs. CLE W 33 18 8 19 42.1 1 6 16.7 1 2 50.0 1 7 8 7 1 0 0 0 33
+p189
+aVKirk Haston NOH 03/07/2003 NOH vs. CLE W 8 2 0 3 0.0 0 3 0.0 2 4 50.0 0 1 1 0 0 0 2 2 -7
+p190
+aVJamaal Magloire NOH 03/07/2003 NOH vs. CLE W 30 20 6 10 60.0 0 0 - 8 9 88.9 1 3 4 3 1 2 2 1 27
+p191
+aVCourtney Alexander NOH 03/07/2003 NOH vs. CLE W 19 6 3 8 37.5 0 0 - 0 0 - 1 0 1 3 2 0 1 1 1
+p192
+aVGeorge Lynch NOH 03/07/2003 NOH vs. CLE W 27 7 3 11 27.3 1 3 33.3 0 0 - 6 6 12 4 0 0 0 1 25
+p193
+aVJerome Moiso NOH 03/07/2003 NOH vs. CLE W 19 8 3 6 50.0 0 0 - 2 2 100.0 3 3 6 0 1 2 1 2 1
+p194
+aVStacey Augmon NOH 03/07/2003 NOH vs. CLE W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p195
+aVDavid Wesley NOH 03/07/2003 NOH vs. CLE W 28 17 7 17 41.2 1 2 50.0 2 2 100.0 2 0 2 1 3 1 3 0 23
+p196
+aVKenny Anderson NOH 03/03/2003 NOH @ LAC W 20 11 4 6 66.7 0 0 - 3 4 75.0 2 2 4 5 0 0 3 4 3
+p197
+aVP.J. Brown NOH 03/03/2003 NOH @ LAC W 40 12 4 7 57.1 0 0 - 4 5 80.0 4 6 10 1 1 3 2 2 5
+p198
+aVJamal Mashburn NOH 03/03/2003 NOH @ LAC W 42 35 13 21 61.9 4 9 44.4 5 6 83.3 3 1 4 10 1 1 2 3 3
+p199
+aVRobert Traylor NOH 03/03/2003 NOH @ LAC W 19 4 1 4 25.0 0 1 0.0 2 2 100.0 0 4 4 0 2 1 1 4 8
+p200
+aVJamaal Magloire NOH 03/03/2003 NOH @ LAC W 29 13 4 10 40.0 0 0 - 5 7 71.4 3 5 8 3 1 0 0 1 -6
+p201
+aVDavid Wesley NOH 03/03/2003 NOH @ LAC W 42 23 7 16 43.8 3 7 42.9 6 6 100.0 1 1 2 2 0 1 2 0 -2
+p202
+aVGeorge Lynch NOH 03/03/2003 NOH @ LAC W 16 2 1 8 12.5 0 1 0.0 0 0 - 2 0 2 1 0 0 2 1 -7
+p203
+aVCourtney Alexander NOH 03/03/2003 NOH @ LAC W 20 9 3 10 30.0 0 1 0.0 3 3 100.0 2 0 2 1 2 0 2 3 14
+p204
+aVJerome Moiso NOH 03/03/2003 NOH @ LAC W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -2
+p205
+aVStacey Augmon NOH 03/03/2003 NOH @ LAC W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -1
+p206
+aVGeorge Lynch NOH 03/01/2003 NOH @ PHX W 30 12 5 13 38.5 0 1 0.0 2 2 100.0 7 0 7 2 0 1 0 2 3
+p207
+aVJamal Mashburn NOH 03/01/2003 NOH @ PHX W 42 23 9 15 60.0 2 2 100.0 3 3 100.0 1 2 3 9 0 0 6 1 9
+p208
+aVDavid Wesley NOH 03/01/2003 NOH @ PHX W 32 12 5 15 33.3 2 5 40.0 0 0 - 0 0 0 0 2 0 0 2 -2
+p209
+aVCourtney Alexander NOH 03/01/2003 NOH @ PHX W 21 10 4 10 40.0 0 1 0.0 2 4 50.0 0 2 2 0 0 0 1 1 6
+p210
+aVKenny Anderson NOH 03/01/2003 NOH @ PHX W 16 7 3 8 37.5 1 2 50.0 0 0 - 1 1 2 4 0 0 1 0 7
+p211
+aVStacey Augmon NOH 03/01/2003 NOH @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p212
+aVRobert Traylor NOH 03/01/2003 NOH @ PHX W 22 13 5 9 55.6 0 0 - 3 3 100.0 4 8 12 2 0 0 3 4 7
+p213
+aVP.J. Brown NOH 03/01/2003 NOH @ PHX W 38 12 5 15 33.3 0 0 - 2 2 100.0 4 15 19 6 0 2 2 3 6
+p214
+aVJerome Moiso NOH 03/01/2003 NOH @ PHX W 10 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 2 0 1 -1
+p215
+aVJamaal Magloire NOH 03/01/2003 NOH @ PHX W 26 4 2 4 50.0 0 0 - 0 0 - 0 9 9 0 1 1 2 5 -4
+p216
+aVKenny Anderson NOH 02/28/2003 NOH @ DEN W 16 2 1 4 25.0 0 0 - 0 0 - 0 2 2 7 0 0 2 1 -2
+p217
+aVGeorge Lynch NOH 02/28/2003 NOH @ DEN W 35 5 2 3 66.7 0 1 0.0 1 2 50.0 3 7 10 0 1 0 2 2 16
+p218
+aVDavid Wesley NOH 02/28/2003 NOH @ DEN W 35 18 4 12 33.3 2 5 40.0 8 10 80.0 0 2 2 4 2 0 0 3 6
+p219
+aVCourtney Alexander NOH 02/28/2003 NOH @ DEN W 18 7 2 7 28.6 0 0 - 3 4 75.0 1 2 3 1 0 0 0 2 -4
+p220
+aVRobert Traylor NOH 02/28/2003 NOH @ DEN W 13 9 4 8 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 4
+p221
+aVStacey Augmon NOH 02/28/2003 NOH @ DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p222
+aVP.J. Brown NOH 02/28/2003 NOH @ DEN W 36 12 2 4 50.0 0 0 - 8 10 80.0 2 4 6 1 1 1 2 4 11
+p223
+aVJamaal Magloire NOH 02/28/2003 NOH @ DEN W 34 15 6 12 50.0 0 0 - 3 6 50.0 4 8 12 0 0 3 2 5 0
+p224
+aVJamal Mashburn NOH 02/28/2003 NOH @ DEN W 42 24 8 24 33.3 1 2 50.0 7 9 77.8 1 8 9 7 1 0 3 2 2
+p225
+aVJerome Moiso NOH 02/28/2003 NOH @ DEN W 8 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 2 0 3 -1
+p226
+aVRobert Pack NOH 02/26/2003 NOH vs. MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p227
+aVGeorge Lynch NOH 02/26/2003 NOH vs. MIA W 27 6 2 5 40.0 2 3 66.7 0 0 - 1 7 8 2 0 1 0 2 19
+p228
+aVDavid Wesley NOH 02/26/2003 NOH vs. MIA W 37 12 4 16 25.0 0 4 0.0 4 4 100.0 1 0 1 2 1 0 1 0 7
+p229
+aVJamal Mashburn NOH 02/26/2003 NOH vs. MIA W 40 18 8 17 47.1 0 2 0.0 2 2 100.0 1 12 13 13 0 0 3 5 6
+p230
+aVP.J. Brown NOH 02/26/2003 NOH vs. MIA W 38 16 7 15 46.7 0 0 - 2 4 50.0 2 5 7 4 2 1 1 2 2
+p231
+aVRobert Traylor NOH 02/26/2003 NOH vs. MIA W 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -2
+p232
+aVJamaal Magloire NOH 02/26/2003 NOH vs. MIA W 36 14 6 9 66.7 0 0 - 2 3 66.7 8 6 14 3 0 1 4 1 11
+p233
+aVKenny Anderson NOH 02/26/2003 NOH vs. MIA W 22 8 4 7 57.1 0 0 - 0 0 - 0 0 0 3 3 1 2 2 3
+p234
+aVCourtney Alexander NOH 02/26/2003 NOH vs. MIA W 16 13 5 7 71.4 0 1 0.0 3 3 100.0 0 0 0 2 0 0 1 1 -5
+p235
+aVJerome Moiso NOH 02/26/2003 NOH vs. MIA W 10 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 7
+p236
+aVKirk Haston NOH 02/22/2003 NOH @ DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p237
+aVRobert Pack NOH 02/22/2003 NOH @ DET W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p238
+aVGeorge Lynch NOH 02/22/2003 NOH @ DET W 32 12 6 9 66.7 0 1 0.0 0 0 - 5 4 9 0 1 0 1 5 12
+p239
+aVRobert Traylor NOH 02/22/2003 NOH @ DET W 18 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -15
+p240
+aVJerome Moiso NOH 02/22/2003 NOH @ DET W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -8
+p241
+aVStacey Augmon NOH 02/22/2003 NOH @ DET W 9 5 1 3 33.3 0 0 - 3 3 100.0 0 1 1 0 0 0 0 0 -5
+p242
+aVKenny Anderson NOH 02/22/2003 NOH @ DET W 14 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 3 -9
+p243
+aVDavid Wesley NOH 02/22/2003 NOH @ DET W 43 27 8 16 50.0 4 5 80.0 7 7 100.0 0 1 1 0 2 0 0 2 10
+p244
+aVJamaal Magloire NOH 02/22/2003 NOH @ DET W 28 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 0 0 1 4 4 14
+p245
+aVJamal Mashburn NOH 02/22/2003 NOH @ DET W 41 29 14 31 45.2 0 1 0.0 1 1 100.0 1 4 5 10 0 0 3 3 8
+p246
+aVP.J. Brown NOH 02/22/2003 NOH @ DET W 40 8 4 8 50.0 0 0 - 0 0 - 2 8 10 4 1 0 1 1 4
+p247
+aVP.J. Brown NOH 02/21/2003 NOH vs. MEM W 45 18 9 12 75.0 0 0 - 0 0 - 1 6 7 2 0 1 1 4 5
+p248
+aVJerome Moiso NOH 02/21/2003 NOH vs. MEM W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 1 2 1 -3
+p249
+aVRobert Pack NOH 02/21/2003 NOH vs. MEM W 13 0 0 3 0.0 0 0 - 0 0 - 1 0 1 4 1 0 1 2 -9
+p250
+aVJamal Mashburn NOH 02/21/2003 NOH vs. MEM W 47 50 17 33 51.5 4 7 57.1 12 12 100.0 2 3 5 5 1 0 3 2 6
+p251
+aVJamaal Magloire NOH 02/21/2003 NOH vs. MEM W 44 20 7 11 63.6 0 0 - 6 10 60.0 7 8 15 4 2 1 3 5 15
+p252
+aVKirk Haston NOH 02/21/2003 NOH vs. MEM W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p253
+aVDavid Wesley NOH 02/21/2003 NOH vs. MEM W 48 35 14 24 58.3 3 6 50.0 4 4 100.0 0 1 1 6 1 0 2 2 8
+p254
+aVRobert Traylor NOH 02/21/2003 NOH vs. MEM W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 2 -13
+p255
+aVStacey Augmon NOH 02/21/2003 NOH vs. MEM W 21 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 4 0
+p256
+aVGeorge Lynch NOH 02/21/2003 NOH vs. MEM W 28 0 0 1 0.0 0 1 0.0 0 0 - 0 5 5 9 0 0 2 3 8
+p257
+aVJamaal Magloire NOH 02/19/2003 NOH vs. WAS W 37 13 4 6 66.7 0 0 - 5 5 100.0 5 9 14 0 1 1 4 3 22
+p258
+aVP.J. Brown NOH 02/19/2003 NOH vs. WAS W 38 8 4 8 50.0 0 0 - 0 0 - 4 9 13 4 2 4 1 4 20
+p259
+aVDavid Wesley NOH 02/19/2003 NOH vs. WAS W 41 21 8 13 61.5 2 3 66.7 3 5 60.0 1 2 3 4 0 0 2 5 18
+p260
+aVGeorge Lynch NOH 02/19/2003 NOH vs. WAS W 40 12 5 16 31.3 2 6 33.3 0 0 - 3 6 9 4 1 0 1 4 21
+p261
+aVKirk Haston NOH 02/19/2003 NOH vs. WAS W 8 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -9
+p262
+aVRobert Pack NOH 02/19/2003 NOH vs. WAS W 11 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -6
+p263
+aVRobert Traylor NOH 02/19/2003 NOH vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 1 0
+p264
+aVJerome Moiso NOH 02/19/2003 NOH vs. WAS W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -8
+p265
+aVStacey Augmon NOH 02/19/2003 NOH vs. WAS W 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -7
+p266
+aVElden Campbell NOH 02/19/2003 NOH vs. WAS W 9 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 2 1 -10
+p267
+aVJamal Mashburn NOH 02/19/2003 NOH vs. WAS W 39 24 11 23 47.8 2 4 50.0 0 1 0.0 1 4 5 5 1 0 4 0 19
+p268
+aVStacey Augmon NOH 02/18/2003 NOH @ ORL L 13 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p269
+aVRobert Traylor NOH 02/18/2003 NOH @ ORL L 20 10 5 12 41.7 0 0 - 0 0 - 7 2 9 1 1 1 0 6 -4
+p270
+aVGeorge Lynch NOH 02/18/2003 NOH @ ORL L 38 10 4 8 50.0 2 3 66.7 0 2 0.0 1 6 7 2 1 0 2 2 3
+p271
+aVJerome Moiso NOH 02/18/2003 NOH @ ORL L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -5
+p272
+aVElden Campbell NOH 02/18/2003 NOH @ ORL L 7 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 0 0 3 5 -7
+p273
+aVDavid Wesley NOH 02/18/2003 NOH @ ORL L 46 17 5 15 33.3 1 3 33.3 6 6 100.0 2 6 8 6 1 0 2 5 -4
+p274
+aVJamal Mashburn NOH 02/18/2003 NOH @ ORL L 45 20 7 20 35.0 2 4 50.0 4 4 100.0 1 3 4 5 1 1 6 2 -4
+p275
+aVP.J. Brown NOH 02/18/2003 NOH @ ORL L 43 14 4 9 44.4 0 0 - 6 6 100.0 2 10 12 1 0 1 3 3 0
+p276
+aVRobert Pack NOH 02/18/2003 NOH @ ORL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p277
+aVJamaal Magloire NOH 02/18/2003 NOH @ ORL L 22 7 3 5 60.0 0 0 - 1 2 50.0 3 5 8 3 0 3 2 6 6
+p278
+aVJerome Moiso NOH 02/16/2003 NOH vs. DEN W 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p279
+aVP.J. Brown NOH 02/16/2003 NOH vs. DEN W 41 16 5 7 71.4 0 0 - 6 6 100.0 3 8 11 1 1 3 1 2 6
+p280
+aVRobert Pack NOH 02/16/2003 NOH vs. DEN W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 0 2 1
+p281
+aVJamaal Magloire NOH 02/16/2003 NOH vs. DEN W 34 13 5 5 100.0 0 0 - 3 6 50.0 2 8 10 2 0 3 3 4 12
+p282
+aVGeorge Lynch NOH 02/16/2003 NOH vs. DEN W 25 11 4 8 50.0 1 2 50.0 2 2 100.0 1 3 4 4 1 0 0 6 6
+p283
+aVJamal Mashburn NOH 02/16/2003 NOH vs. DEN W 46 24 9 17 52.9 0 2 0.0 6 8 75.0 1 3 4 9 1 0 5 3 9
+p284
+aVKirk Haston NOH 02/16/2003 NOH vs. DEN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 2 2 1
+p285
+aVStacey Augmon NOH 02/16/2003 NOH vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -5
+p286
+aVDavid Wesley NOH 02/16/2003 NOH vs. DEN W 41 20 7 17 41.2 2 4 50.0 4 4 100.0 0 3 3 4 2 0 4 4 6
+p287
+aVCourtney Alexander NOH 02/16/2003 NOH vs. DEN W 7 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 6
+p288
+aVRobert Traylor NOH 02/16/2003 NOH vs. DEN W 9 4 2 2 100.0 0 0 - 0 0 - 2 2 4 1 0 0 1 0 -5
+p289
+aVElden Campbell NOH 02/16/2003 NOH vs. DEN W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p290
+aVElden Campbell NOH 02/14/2003 NOH @ MIN L 27 14 4 10 40.0 0 0 - 6 6 100.0 2 5 7 3 0 0 0 0 -16
+p291
+aVJamaal Magloire NOH 02/14/2003 NOH @ MIN L 28 4 2 8 25.0 0 0 - 0 0 - 4 3 7 0 0 1 0 3 -14
+p292
+aVBryce Drew NOH 02/14/2003 NOH @ MIN L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p293
+aVJamal Mashburn NOH 02/14/2003 NOH @ MIN L 38 19 8 23 34.8 1 7 14.3 2 2 100.0 2 5 7 5 0 0 5 2 -22
+p294
+aVCourtney Alexander NOH 02/14/2003 NOH @ MIN L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -6
+p295
+aVRobert Pack NOH 02/14/2003 NOH @ MIN L 16 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 0 -9
+p296
+aVJerome Moiso NOH 02/14/2003 NOH @ MIN L 24 11 5 8 62.5 0 0 - 1 2 50.0 2 5 7 0 2 1 2 0 -9
+p297
+aVRobert Traylor NOH 02/14/2003 NOH @ MIN L 17 4 2 7 28.6 0 0 - 0 0 - 2 2 4 2 0 1 2 3 -3
+p298
+aVGeorge Lynch NOH 02/14/2003 NOH @ MIN L 31 10 3 5 60.0 0 0 - 4 6 66.7 2 8 10 8 0 0 1 1 -14
+p299
+aVStacey Augmon NOH 02/14/2003 NOH @ MIN L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p300
+aVDavid Wesley NOH 02/14/2003 NOH @ MIN L 32 21 10 19 52.6 1 2 50.0 0 0 - 0 0 0 2 1 0 2 2 -12
+p301
+aVDavid Wesley NOH 02/12/2003 NOH vs. IND L 42 11 4 13 30.8 0 4 0.0 3 4 75.0 1 2 3 4 2 0 3 5 -10
+p302
+aVCourtney Alexander NOH 02/12/2003 NOH vs. IND L 22 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 3 4
+p303
+aVJamaal Magloire NOH 02/12/2003 NOH vs. IND L 36 13 3 13 23.1 0 0 - 7 12 58.3 8 12 20 2 2 1 2 3 -8
+p304
+aVElden Campbell NOH 02/12/2003 NOH vs. IND L 7 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p305
+aVJerome Moiso NOH 02/12/2003 NOH vs. IND L 14 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 1 1 2 4
+p306
+aVJamal Mashburn NOH 02/12/2003 NOH vs. IND L 41 18 7 22 31.8 2 4 50.0 2 3 66.7 1 4 5 3 0 1 3 4 -14
+p307
+aVP.J. Brown NOH 02/12/2003 NOH vs. IND L 34 14 6 10 60.0 0 0 - 2 2 100.0 2 6 8 1 1 2 2 2 -15
+p308
+aVRobert Pack NOH 02/12/2003 NOH vs. IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p309
+aVRobert Traylor NOH 02/12/2003 NOH vs. IND L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 3 2 3
+p310
+aVGeorge Lynch NOH 02/12/2003 NOH vs. IND L 24 5 2 8 25.0 0 3 0.0 1 4 25.0 3 5 8 2 2 1 0 2 -8
+p311
+aVStacey Augmon NOH 02/12/2003 NOH vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p312
+aVJamaal Magloire NOH 02/11/2003 NOH @ MIA W 27 15 7 11 63.6 0 0 - 1 2 50.0 3 4 7 0 0 0 2 2 8
+p313
+aVRobert Traylor NOH 02/11/2003 NOH @ MIA W 12 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 2 1 0 0 2 -3
+p314
+aVCourtney Alexander NOH 02/11/2003 NOH @ MIA W 28 10 4 11 36.4 0 1 0.0 2 5 40.0 2 1 3 3 0 0 2 1 17
+p315
+aVDavid Wesley NOH 02/11/2003 NOH @ MIA W 35 11 5 16 31.3 1 4 25.0 0 0 - 0 2 2 3 1 0 1 1 -13
+p316
+aVRobert Pack NOH 02/11/2003 NOH @ MIA W 16 2 0 0 - 0 0 - 2 2 100.0 1 0 1 2 1 0 1 0 0
+p317
+aVGeorge Lynch NOH 02/11/2003 NOH @ MIA W 27 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 3 1 0 0 2 8
+p318
+aVElden Campbell NOH 02/11/2003 NOH @ MIA W 8 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 4
+p319
+aVP.J. Brown NOH 02/11/2003 NOH @ MIA W 35 10 3 6 50.0 0 0 - 4 4 100.0 4 4 8 4 0 0 1 1 5
+p320
+aVJerome Moiso NOH 02/11/2003 NOH @ MIA W 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 2 3 3 4
+p321
+aVJamal Mashburn NOH 02/11/2003 NOH @ MIA W 38 15 6 18 33.3 0 4 0.0 3 4 75.0 0 14 14 3 2 2 4 2 15
+p322
+aVRobert Traylor NOH 02/05/2003 NOH vs. SAC W 12 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 4
+p323
+aVElden Campbell NOH 02/05/2003 NOH vs. SAC W 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 1 0 1 -3
+p324
+aVJamaal Magloire NOH 02/05/2003 NOH vs. SAC W 25 10 4 13 30.8 0 0 - 2 2 100.0 4 4 8 1 1 1 0 2 23
+p325
+aVGeorge Lynch NOH 02/05/2003 NOH vs. SAC W 33 8 3 6 50.0 2 2 100.0 0 0 - 4 2 6 7 2 0 2 2 23
+p326
+aVBryce Drew NOH 02/05/2003 NOH vs. SAC W 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 4
+p327
+aVP.J. Brown NOH 02/05/2003 NOH vs. SAC W 32 14 6 8 75.0 0 0 - 2 2 100.0 4 6 10 1 1 0 1 2 24
+p328
+aVJamal Mashburn NOH 02/05/2003 NOH vs. SAC W 33 26 10 17 58.8 4 7 57.1 2 2 100.0 1 3 4 5 3 0 5 0 25
+p329
+aVJerome Moiso NOH 02/05/2003 NOH vs. SAC W 20 13 5 7 71.4 0 0 - 3 4 75.0 2 5 7 0 1 1 2 1 1
+p330
+aVStacey Augmon NOH 02/05/2003 NOH vs. SAC W 10 5 2 5 40.0 0 1 0.0 1 2 50.0 1 0 1 2 0 0 0 0 2
+p331
+aVDavid Wesley NOH 02/05/2003 NOH vs. SAC W 28 17 6 15 40.0 2 5 40.0 3 3 100.0 0 3 3 9 4 0 1 1 23
+p332
+aVRobert Pack NOH 02/05/2003 NOH vs. SAC W 15 0 0 1 0.0 0 0 - 0 0 - 1 3 4 3 0 0 4 0 -1
+p333
+aVCourtney Alexander NOH 02/05/2003 NOH vs. SAC W 17 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 0 0 0 1 0 -5
+p334
+aVElden Campbell NOH 02/03/2003 NOH vs. BOS W 19 8 3 7 42.9 0 0 - 2 2 100.0 1 7 8 3 2 2 2 4 16
+p335
+aVJamaal Magloire NOH 02/03/2003 NOH vs. BOS W 15 4 0 5 0.0 0 0 - 4 4 100.0 3 0 3 2 0 1 2 2 -9
+p336
+aVJerome Moiso NOH 02/03/2003 NOH vs. BOS W 16 4 1 3 33.3 0 0 - 2 2 100.0 3 4 7 0 0 1 1 4 11
+p337
+aVRobert Traylor NOH 02/03/2003 NOH vs. BOS W 14 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 1 0 1 2 4 -2
+p338
+aVStacey Augmon NOH 02/03/2003 NOH vs. BOS W 7 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -5
+p339
+aVJamal Mashburn NOH 02/03/2003 NOH vs. BOS W 40 30 12 19 63.2 4 6 66.7 2 3 66.7 0 6 6 8 2 0 2 4 11
+p340
+aVRobert Pack NOH 02/03/2003 NOH vs. BOS W 9 6 1 2 50.0 0 0 - 4 6 66.7 0 0 0 2 1 0 0 3 10
+p341
+aVCourtney Alexander NOH 02/03/2003 NOH vs. BOS W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 6
+p342
+aVP.J. Brown NOH 02/03/2003 NOH vs. BOS W 32 12 5 5 100.0 0 0 - 2 2 100.0 2 10 12 2 1 2 5 2 -4
+p343
+aVDavid Wesley NOH 02/03/2003 NOH vs. BOS W 39 18 7 17 41.2 1 3 33.3 3 4 75.0 1 0 1 5 2 2 1 1 -1
+p344
+aVGeorge Lynch NOH 02/03/2003 NOH vs. BOS W 42 11 5 9 55.6 0 1 0.0 1 3 33.3 2 3 5 3 3 0 2 0 2
+p345
+aVDavid Wesley NOH 02/01/2003 NOH @ WAS L 41 16 6 13 46.2 2 4 50.0 2 2 100.0 0 4 4 6 1 0 5 4 -4
+p346
+aVP.J. Brown NOH 02/01/2003 NOH @ WAS L 31 10 4 5 80.0 0 1 0.0 2 2 100.0 0 6 6 0 0 0 1 2 -12
+p347
+aVJerome Moiso NOH 02/01/2003 NOH @ WAS L 17 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 1 1 1 3 7
+p348
+aVRobert Pack NOH 02/01/2003 NOH @ WAS L 30 4 1 6 16.7 0 0 - 2 2 100.0 0 5 5 4 0 0 4 3 -13
+p349
+aVCourtney Alexander NOH 02/01/2003 NOH @ WAS L 15 6 3 8 37.5 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -5
+p350
+aVElden Campbell NOH 02/01/2003 NOH @ WAS L 10 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 3 1
+p351
+aVJamal Mashburn NOH 02/01/2003 NOH @ WAS L 41 39 15 23 65.2 3 6 50.0 6 6 100.0 2 6 8 5 1 0 6 2 -7
+p352
+aVJamaal Magloire NOH 02/01/2003 NOH @ WAS L 23 3 1 9 11.1 0 0 - 1 1 100.0 5 2 7 1 0 1 3 1 -8
+p353
+aVGeorge Lynch NOH 02/01/2003 NOH @ WAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p354
+aVRobert Traylor NOH 02/01/2003 NOH @ WAS L 15 13 1 1 100.0 0 0 - 11 12 91.7 5 4 9 0 1 0 1 2 4
+p355
+aVStacey Augmon NOH 02/01/2003 NOH @ WAS L 10 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 8
+p356
+aVRobert Pack NOH 01/31/2003 NOH @ NJN L 29 10 5 14 35.7 0 0 - 0 2 0.0 1 2 3 6 3 0 1 2 -21
+p357
+aVP.J. Brown NOH 01/31/2003 NOH @ NJN L 29 10 5 9 55.6 0 0 - 0 0 - 6 2 8 2 0 1 0 1 -21
+p358
+aVJamal Mashburn NOH 01/31/2003 NOH @ NJN L 36 17 6 17 35.3 1 2 50.0 4 4 100.0 1 5 6 3 0 1 1 2 -8
+p359
+aVGeorge Lynch NOH 01/31/2003 NOH @ NJN L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p360
+aVDavid Wesley NOH 01/31/2003 NOH @ NJN L 35 12 5 12 41.7 2 3 66.7 0 0 - 0 6 6 2 2 0 3 3 -7
+p361
+aVRobert Traylor NOH 01/31/2003 NOH @ NJN L 20 2 1 9 11.1 0 0 - 0 0 - 6 1 7 0 3 1 0 3 -16
+p362
+aVStacey Augmon NOH 01/31/2003 NOH @ NJN L 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p363
+aVCourtney Alexander NOH 01/31/2003 NOH @ NJN L 27 11 4 11 36.4 1 4 25.0 2 2 100.0 1 3 4 1 0 0 2 4 -4
+p364
+aVJamaal Magloire NOH 01/31/2003 NOH @ NJN L 28 4 1 4 25.0 0 0 - 2 2 100.0 2 3 5 0 1 1 3 5 -1
+p365
+aVJerome Moiso NOH 01/31/2003 NOH @ NJN L 19 4 1 5 20.0 0 0 - 2 2 100.0 0 3 3 0 0 2 0 2 4
+p366
+aVJerome Moiso NOH 01/29/2003 NOH vs. TOR W 17 8 3 5 60.0 0 0 - 2 2 100.0 2 7 9 0 1 3 2 3 16
+p367
+aVStacey Augmon NOH 01/29/2003 NOH vs. TOR W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 0
+p368
+aVGeorge Lynch NOH 01/29/2003 NOH vs. TOR W 4 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 0
+p369
+aVRandy Livingston NOH 01/29/2003 NOH vs. TOR W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p370
+aVCourtney Alexander NOH 01/29/2003 NOH vs. TOR W 24 8 3 8 37.5 0 1 0.0 2 2 100.0 1 1 2 1 0 0 1 3 17
+p371
+aVDavid Wesley NOH 01/29/2003 NOH vs. TOR W 40 25 9 17 52.9 4 7 57.1 3 4 75.0 1 2 3 5 2 0 3 0 19
+p372
+aVP.J. Brown NOH 01/29/2003 NOH vs. TOR W 28 12 6 7 85.7 0 0 - 0 0 - 2 6 8 0 1 1 1 4 5
+p373
+aVJamal Mashburn NOH 01/29/2003 NOH vs. TOR W 36 11 3 16 18.8 1 3 33.3 4 4 100.0 1 5 6 5 0 0 3 3 18
+p374
+aVRobert Pack NOH 01/29/2003 NOH vs. TOR W 34 18 9 12 75.0 0 0 - 0 2 0.0 1 5 6 11 2 0 4 1 9
+p375
+aVRobert Traylor NOH 01/29/2003 NOH vs. TOR W 21 8 4 6 66.7 0 0 - 0 0 - 0 6 6 0 3 1 2 4 16
+p376
+aVJamaal Magloire NOH 01/29/2003 NOH vs. TOR W 27 8 3 5 60.0 0 0 - 2 4 50.0 1 6 7 1 0 1 1 3 5
+p377
+aVStacey Augmon NOH 01/27/2003 NOH vs. MIL L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 2 -7
+p378
+aVGeorge Lynch NOH 01/27/2003 NOH vs. MIL L 12 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -2
+p379
+aVDavid Wesley NOH 01/27/2003 NOH vs. MIL L 44 20 7 19 36.8 3 7 42.9 3 4 75.0 0 1 1 1 4 0 1 3 -11
+p380
+aVElden Campbell NOH 01/27/2003 NOH vs. MIL L 20 7 3 7 42.9 0 0 - 1 2 50.0 0 4 4 2 1 2 1 1 9
+p381
+aVJamal Mashburn NOH 01/27/2003 NOH vs. MIL L 47 24 8 20 40.0 2 7 28.6 6 7 85.7 2 5 7 6 0 1 1 0 -15
+p382
+aVRandy Livingston NOH 01/27/2003 NOH vs. MIL L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 1
+p383
+aVRobert Traylor NOH 01/27/2003 NOH vs. MIL L 15 6 3 4 75.0 0 0 - 0 0 - 3 3 6 0 3 0 1 1 11
+p384
+aVP.J. Brown NOH 01/27/2003 NOH vs. MIL L 19 4 2 5 40.0 0 0 - 0 0 - 2 1 3 1 0 0 2 3 -26
+p385
+aVJamaal Magloire NOH 01/27/2003 NOH vs. MIL L 30 7 0 6 0.0 0 0 - 7 8 87.5 3 2 5 2 1 1 3 4 -22
+p386
+aVRobert Pack NOH 01/27/2003 NOH vs. MIL L 30 15 7 11 63.6 0 0 - 1 1 100.0 0 5 5 4 3 0 3 1 -13
+p387
+aVStacey Augmon NOH 01/24/2003 NOH vs. POR L 14 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 1 1 3 3
+p388
+aVP.J. Brown NOH 01/24/2003 NOH vs. POR L 36 18 5 9 55.6 0 0 - 8 8 100.0 2 7 9 2 0 2 1 1 -9
+p389
+aVElden Campbell NOH 01/24/2003 NOH vs. POR L 20 4 1 2 50.0 0 0 - 2 2 100.0 0 6 6 2 1 1 1 3 7
+p390
+aVGeorge Lynch NOH 01/24/2003 NOH vs. POR L 24 11 5 10 50.0 1 5 20.0 0 1 0.0 1 4 5 0 1 0 0 2 6
+p391
+aVJamal Mashburn NOH 01/24/2003 NOH vs. POR L 24 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -11
+p392
+aVDavid Wesley NOH 01/24/2003 NOH vs. POR L 49 28 11 18 61.1 2 3 66.7 4 6 66.7 0 4 4 2 1 0 3 2 2
+p393
+aVRobert Pack NOH 01/24/2003 NOH vs. POR L 28 6 1 6 16.7 0 1 0.0 4 4 100.0 0 2 2 8 1 0 1 2 2
+p394
+aVRobert Traylor NOH 01/24/2003 NOH vs. POR L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 1 0 1 0 -1
+p395
+aVBaron Davis NOH 01/24/2003 NOH vs. POR L 25 10 4 12 33.3 2 3 66.7 0 0 - 1 1 2 7 0 1 3 2 -3
+p396
+aVJamaal Magloire NOH 01/24/2003 NOH vs. POR L 39 13 5 8 62.5 0 0 - 3 3 100.0 1 9 10 1 1 3 0 4 -1
+p397
+aVBaron Davis NOH 01/22/2003 NOH vs. WAS W 34 14 4 13 30.8 2 7 28.6 4 5 80.0 0 3 3 3 4 1 5 2 18
+p398
+aVStacey Augmon NOH 01/22/2003 NOH vs. WAS W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p399
+aVJamaal Magloire NOH 01/22/2003 NOH vs. WAS W 34 16 7 11 63.6 0 0 - 2 2 100.0 5 9 14 0 1 1 1 2 12
+p400
+aVGeorge Lynch NOH 01/22/2003 NOH vs. WAS W 12 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 1 1 0 0 2 -1
+p401
+aVJamal Mashburn NOH 01/22/2003 NOH vs. WAS W 45 24 10 21 47.6 0 2 0.0 4 4 100.0 3 4 7 8 0 1 1 2 9
+p402
+aVDavid Wesley NOH 01/22/2003 NOH vs. WAS W 42 19 7 16 43.8 4 9 44.4 1 2 50.0 2 4 6 2 2 0 2 0 5
+p403
+aVRobert Pack NOH 01/22/2003 NOH vs. WAS W 19 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 2 2 0 3 2 -9
+p404
+aVElden Campbell NOH 01/22/2003 NOH vs. WAS W 21 4 0 3 0.0 0 0 - 4 4 100.0 1 3 4 2 0 1 0 2 -2
+p405
+aVP.J. Brown NOH 01/22/2003 NOH vs. WAS W 28 9 2 7 28.6 0 0 - 5 6 83.3 4 4 8 2 0 0 2 2 9
+p406
+aVRobert Traylor NOH 01/20/2003 NOH vs. PHX W 9 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 1 1 1 1 2 9
+p407
+aVGeorge Lynch NOH 01/20/2003 NOH vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p408
+aVElden Campbell NOH 01/20/2003 NOH vs. PHX W 13 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 6
+p409
+aVStacey Augmon NOH 01/20/2003 NOH vs. PHX W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -2
+p410
+aVJamaal Magloire NOH 01/20/2003 NOH vs. PHX W 33 22 8 10 80.0 0 0 - 6 6 100.0 4 6 10 0 0 1 1 4 3
+p411
+aVDavid Wesley NOH 01/20/2003 NOH vs. PHX W 44 28 9 16 56.3 5 6 83.3 5 6 83.3 1 4 5 5 1 0 4 2 14
+p412
+aVBaron Davis NOH 01/20/2003 NOH vs. PHX W 34 18 8 14 57.1 1 4 25.0 1 1 100.0 1 1 2 9 0 0 1 5 3
+p413
+aVJamal Mashburn NOH 01/20/2003 NOH vs. PHX W 46 19 7 20 35.0 1 2 50.0 4 6 66.7 1 4 5 8 2 1 1 1 8
+p414
+aVRobert Pack NOH 01/20/2003 NOH vs. PHX W 23 9 2 5 40.0 0 0 - 5 8 62.5 0 2 2 5 4 0 1 2 10
+p415
+aVP.J. Brown NOH 01/20/2003 NOH vs. PHX W 27 8 3 6 50.0 0 0 - 2 4 50.0 4 4 8 1 2 0 3 3 4
+p416
+aVJamaal Magloire NOH 01/17/2003 NOH vs. CHI W 34 15 6 8 75.0 0 0 - 3 5 60.0 5 9 14 0 3 3 3 5 22
+p417
+aVStacey Augmon NOH 01/17/2003 NOH vs. CHI W 8 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 0 1 0 2 2 -7
+p418
+aVP.J. Brown NOH 01/17/2003 NOH vs. CHI W 19 4 2 5 40.0 0 0 - 0 0 - 1 0 1 1 1 0 1 6 4
+p419
+aVRobert Pack NOH 01/17/2003 NOH vs. CHI W 17 1 0 4 0.0 0 0 - 1 2 50.0 1 2 3 5 0 0 0 1 -5
+p420
+aVDavid Wesley NOH 01/17/2003 NOH vs. CHI W 45 34 11 20 55.0 4 8 50.0 8 12 66.7 3 3 6 4 2 0 2 4 10
+p421
+aVBaron Davis NOH 01/17/2003 NOH vs. CHI W 33 8 4 15 26.7 0 3 0.0 0 0 - 1 2 3 6 1 1 1 3 10
+p422
+aVJamal Mashburn NOH 01/17/2003 NOH vs. CHI W 45 16 5 15 33.3 1 3 33.3 5 5 100.0 1 5 6 7 3 0 4 1 12
+p423
+aVRobert Traylor NOH 01/17/2003 NOH vs. CHI W 3 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 0 -3
+p424
+aVElden Campbell NOH 01/17/2003 NOH vs. CHI W 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -15
+p425
+aVGeorge Lynch NOH 01/17/2003 NOH vs. CHI W 24 8 4 8 50.0 0 0 - 0 0 - 1 6 7 0 3 1 3 3 7
+p426
+aVJerome Moiso NOH 01/15/2003 NOH vs. LAL L 7 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -12
+p427
+aVElden Campbell NOH 01/15/2003 NOH vs. LAL L 14 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 0 4 -7
+p428
+aVStacey Augmon NOH 01/15/2003 NOH vs. LAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -11
+p429
+aVJamaal Magloire NOH 01/15/2003 NOH vs. LAL L 34 5 2 6 33.3 0 0 - 1 2 50.0 1 6 7 1 0 1 0 3 -1
+p430
+aVP.J. Brown NOH 01/15/2003 NOH vs. LAL L 32 12 3 5 60.0 0 0 - 6 7 85.7 5 9 14 2 0 1 0 4 8
+p431
+aVRobert Pack NOH 01/15/2003 NOH vs. LAL L 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -6
+p432
+aVJamal Mashburn NOH 01/15/2003 NOH vs. LAL L 45 19 6 17 35.3 3 5 60.0 4 4 100.0 0 5 5 3 0 0 5 3 -1
+p433
+aVDavid Wesley NOH 01/15/2003 NOH vs. LAL L 42 14 4 12 33.3 1 4 25.0 5 8 62.5 0 1 1 8 3 0 1 4 3
+p434
+aVBaron Davis NOH 01/15/2003 NOH vs. LAL L 42 20 8 19 42.1 4 10 40.0 0 0 - 1 2 3 6 4 0 4 4 -2
+p435
+aVGeorge Lynch NOH 01/15/2003 NOH vs. LAL L 12 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -11
+p436
+aVElden Campbell NOH 01/11/2003 NOH @ ATL L 19 11 4 10 40.0 0 0 - 3 4 75.0 1 6 7 2 2 1 0 1 -5
+p437
+aVJamaal Magloire NOH 01/11/2003 NOH @ ATL L 17 0 0 5 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 1 -8
+p438
+aVDavid Wesley NOH 01/11/2003 NOH @ ATL L 46 22 8 21 38.1 2 6 33.3 4 4 100.0 0 1 1 2 3 0 0 1 -7
+p439
+aVGeorge Lynch NOH 01/11/2003 NOH @ ATL L 13 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 0 0 1 0 1 -5
+p440
+aVJamal Mashburn NOH 01/11/2003 NOH @ ATL L 35 16 6 18 33.3 2 4 50.0 2 2 100.0 0 3 3 4 0 0 2 1 -9
+p441
+aVRobert Traylor NOH 01/11/2003 NOH @ ATL L 12 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 0 3 0 5 6
+p442
+aVP.J. Brown NOH 01/11/2003 NOH @ ATL L 37 8 3 7 42.9 0 0 - 2 2 100.0 3 4 7 0 0 0 1 4 5
+p443
+aVStacey Augmon NOH 01/11/2003 NOH @ ATL L 24 2 1 3 33.3 0 1 0.0 0 0 - 2 4 6 1 1 0 0 4 2
+p444
+aVJerome Moiso NOH 01/11/2003 NOH @ ATL L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -14
+p445
+aVRobert Pack NOH 01/11/2003 NOH @ ATL L 25 12 3 6 50.0 0 1 0.0 6 6 100.0 0 1 1 4 0 0 4 1 0
+p446
+aVRobert Pack NOH 01/10/2003 NOH vs. DET L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 1 3
+p447
+aVElden Campbell NOH 01/10/2003 NOH vs. DET L 20 2 1 6 16.7 0 0 - 0 0 - 0 4 4 1 0 0 4 3 8
+p448
+aVStacey Augmon NOH 01/10/2003 NOH vs. DET L 30 12 4 6 66.7 0 0 - 4 6 66.7 3 1 4 5 0 0 2 3 7
+p449
+aVP.J. Brown NOH 01/10/2003 NOH vs. DET L 36 6 3 7 42.9 0 0 - 0 0 - 1 2 3 3 1 2 1 4 -6
+p450
+aVRobert Traylor NOH 01/10/2003 NOH vs. DET L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p451
+aVJamal Mashburn NOH 01/10/2003 NOH vs. DET L 51 26 9 26 34.6 2 7 28.6 6 6 100.0 1 14 15 9 0 0 2 3 -6
+p452
+aVDavid Wesley NOH 01/10/2003 NOH vs. DET L 48 25 10 16 62.5 4 6 66.7 1 2 50.0 2 2 4 5 2 1 0 2 -7
+p453
+aVCourtney Alexander NOH 01/10/2003 NOH vs. DET L 22 10 5 10 50.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 3 -5
+p454
+aVJamaal Magloire NOH 01/10/2003 NOH vs. DET L 27 8 3 6 50.0 0 0 - 2 2 100.0 2 6 8 3 0 0 1 5 -5
+p455
+aVJerome Moiso NOH 01/10/2003 NOH vs. DET L 22 8 3 5 60.0 0 0 - 2 4 50.0 2 7 9 3 1 2 2 6 4
+p456
+aVJamal Mashburn NOH 01/08/2003 NOH vs. BOS L 43 21 9 23 39.1 1 5 20.0 2 2 100.0 0 3 3 1 2 0 2 5 -15
+p457
+aVBryce Drew NOH 01/08/2003 NOH vs. BOS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p458
+aVJamaal Magloire NOH 01/08/2003 NOH vs. BOS L 20 4 1 5 20.0 0 0 - 2 4 50.0 3 4 7 3 0 2 2 5 1
+p459
+aVJerome Moiso NOH 01/08/2003 NOH vs. BOS L 15 0 0 2 0.0 0 0 - 0 0 - 1 5 6 1 0 0 2 3 9
+p460
+aVCourtney Alexander NOH 01/08/2003 NOH vs. BOS L 39 20 8 17 47.1 2 4 50.0 2 3 66.7 1 3 4 4 0 0 1 2 4
+p461
+aVP.J. Brown NOH 01/08/2003 NOH vs. BOS L 30 6 1 4 25.0 0 0 - 4 6 66.7 1 4 5 1 0 0 1 2 -21
+p462
+aVElden Campbell NOH 01/08/2003 NOH vs. BOS L 21 7 2 3 66.7 0 0 - 3 4 75.0 3 3 6 1 0 2 1 4 -1
+p463
+aVRobert Traylor NOH 01/08/2003 NOH vs. BOS L 7 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 0 -10
+p464
+aVGeorge Lynch NOH 01/08/2003 NOH vs. BOS L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -2
+p465
+aVStacey Augmon NOH 01/08/2003 NOH vs. BOS L 14 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 0 -7
+p466
+aVDavid Wesley NOH 01/08/2003 NOH vs. BOS L 42 17 6 14 42.9 2 7 28.6 3 4 75.0 1 2 3 8 3 0 5 3 -11
+p467
+aVGeorge Lynch NOH 01/06/2003 NOH @ MEM L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p468
+aVElden Campbell NOH 01/06/2003 NOH @ MEM L 12 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 3 -19
+p469
+aVDavid Wesley NOH 01/06/2003 NOH @ MEM L 45 18 7 18 38.9 2 5 40.0 2 2 100.0 1 2 3 8 2 0 2 3 1
+p470
+aVJamal Mashburn NOH 01/06/2003 NOH @ MEM L 45 30 11 26 42.3 4 10 40.0 4 4 100.0 0 3 3 11 1 0 1 3 -3
+p471
+aVCourtney Alexander NOH 01/06/2003 NOH @ MEM L 25 10 4 11 36.4 0 1 0.0 2 2 100.0 0 0 0 2 0 0 2 3 -13
+p472
+aVStacey Augmon NOH 01/06/2003 NOH @ MEM L 23 8 4 5 80.0 0 0 - 0 0 - 0 4 4 2 2 0 1 1 9
+p473
+aVJerome Moiso NOH 01/06/2003 NOH @ MEM L 15 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 1 1 1 1 2 13
+p474
+aVBryce Drew NOH 01/06/2003 NOH @ MEM L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -3
+p475
+aVJamaal Magloire NOH 01/06/2003 NOH @ MEM L 22 9 4 8 50.0 0 0 - 1 2 50.0 4 4 8 0 0 0 1 1 -25
+p476
+aVP.J. Brown NOH 01/06/2003 NOH @ MEM L 27 6 2 7 28.6 0 0 - 2 2 100.0 0 7 7 3 3 1 0 4 -7
+p477
+aVRobert Traylor NOH 01/06/2003 NOH @ MEM L 20 10 4 6 66.7 0 0 - 2 4 50.0 5 5 10 1 3 0 1 3 28
+p478
+aVJerome Moiso NOH 01/05/2003 NOH @ TOR W 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 0 1 0
+p479
+aVStacey Augmon NOH 01/05/2003 NOH @ TOR W 23 11 3 3 100.0 0 0 - 5 6 83.3 1 3 4 3 0 0 2 2 17
+p480
+aVJamaal Magloire NOH 01/05/2003 NOH @ TOR W 28 11 4 9 44.4 0 0 - 3 5 60.0 3 5 8 0 1 2 0 2 7
+p481
+aVJamal Mashburn NOH 01/05/2003 NOH @ TOR W 42 22 10 18 55.6 1 1 100.0 1 2 50.0 0 6 6 5 1 0 2 4 15
+p482
+aVRobert Traylor NOH 01/05/2003 NOH @ TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p483
+aVDavid Wesley NOH 01/05/2003 NOH @ TOR W 42 20 8 17 47.1 2 5 40.0 2 2 100.0 0 3 3 6 3 0 1 2 19
+p484
+aVElden Campbell NOH 01/05/2003 NOH @ TOR W 17 7 2 7 28.6 0 0 - 3 4 75.0 0 2 2 1 1 0 1 4 8
+p485
+aVGeorge Lynch NOH 01/05/2003 NOH @ TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p486
+aVCourtney Alexander NOH 01/05/2003 NOH @ TOR W 28 10 2 4 50.0 0 0 - 6 6 100.0 0 0 0 0 0 0 2 3 -5
+p487
+aVP.J. Brown NOH 01/05/2003 NOH @ TOR W 37 16 3 6 50.0 0 0 - 10 12 83.3 3 7 10 3 1 1 1 3 15
+p488
+aVBryce Drew NOH 01/05/2003 NOH @ TOR W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p489
+aVBryce Drew NOH 01/03/2003 NOH vs. ORL W 13 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 11
+p490
+aVCourtney Alexander NOH 01/03/2003 NOH vs. ORL W 30 14 5 11 45.5 1 1 100.0 3 4 75.0 0 4 4 3 1 0 3 2 -4
+p491
+aVP.J. Brown NOH 01/03/2003 NOH vs. ORL W 27 18 8 12 66.7 0 0 - 2 2 100.0 1 0 1 1 0 1 1 3 -2
+p492
+aVDavid Wesley NOH 01/03/2003 NOH vs. ORL W 42 9 3 14 21.4 0 3 0.0 3 4 75.0 0 4 4 5 1 0 1 4 3
+p493
+aVGeorge Lynch NOH 01/03/2003 NOH vs. ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p494
+aVStacey Augmon NOH 01/03/2003 NOH vs. ORL W 18 4 2 4 50.0 0 0 - 0 0 - 1 5 6 1 1 0 2 2 16
+p495
+aVJamal Mashburn NOH 01/03/2003 NOH vs. ORL W 46 29 13 22 59.1 2 4 50.0 1 1 100.0 2 3 5 9 1 0 1 3 10
+p496
+aVJerome Moiso NOH 01/03/2003 NOH vs. ORL W 13 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 2 1 0 1 9
+p497
+aVElden Campbell NOH 01/03/2003 NOH vs. ORL W 24 13 4 9 44.4 0 0 - 5 7 71.4 2 3 5 2 2 0 4 2 9
+p498
+aVJamaal Magloire NOH 01/03/2003 NOH vs. ORL W 24 5 1 2 50.0 0 0 - 3 4 75.0 2 7 9 0 1 1 1 2 4
+p499
+aVCourtney Alexander NOH 12/31/2002 NOH vs. IND L 22 8 4 9 44.4 0 2 0.0 0 0 - 1 2 3 0 0 0 1 1 -5
+p500
+aVBryce Drew NOH 12/31/2002 NOH vs. IND L 16 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 3 0 0 0 1 -1
+p501
+aVJamal Mashburn NOH 12/31/2002 NOH vs. IND L 41 24 8 23 34.8 3 5 60.0 5 5 100.0 0 8 8 2 1 1 3 4 -7
+p502
+aVStacey Augmon NOH 12/31/2002 NOH vs. IND L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -1
+p503
+aVJamaal Magloire NOH 12/31/2002 NOH vs. IND L 33 15 6 9 66.7 0 0 - 3 3 100.0 3 7 10 1 0 5 2 3 -11
+p504
+aVP.J. Brown NOH 12/31/2002 NOH vs. IND L 36 8 4 6 66.7 0 0 - 0 0 - 3 11 14 3 2 0 3 3 -2
+p505
+aVDavid Wesley NOH 12/31/2002 NOH vs. IND L 40 11 4 12 33.3 3 8 37.5 0 0 - 0 1 1 9 1 0 3 5 -6
+p506
+aVElden Campbell NOH 12/31/2002 NOH vs. IND L 18 14 7 12 58.3 0 0 - 0 0 - 1 4 5 1 1 0 1 2 4
+p507
+aVBaron Davis NOH 12/31/2002 NOH vs. IND L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 1 0 2 0 9
+p508
+aVGeorge Lynch NOH 12/31/2002 NOH vs. IND L 11 0 0 3 0.0 0 0 - 0 0 - 1 3 4 2 0 1 0 1 5
+p509
+aVP.J. Brown NOH 12/29/2002 NOH @ HOU L 29 4 2 7 28.6 0 0 - 0 0 - 3 4 7 1 0 1 0 0 -9
+p510
+aVBaron Davis NOH 12/29/2002 NOH @ HOU L 40 14 6 18 33.3 2 5 40.0 0 0 - 1 3 4 0 0 0 2 6 -4
+p511
+aVGeorge Lynch NOH 12/29/2002 NOH @ HOU L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 2 1 0 0 -1
+p512
+aVElden Campbell NOH 12/29/2002 NOH @ HOU L 15 11 3 6 50.0 0 0 - 5 6 83.3 0 2 2 0 0 1 1 5 0
+p513
+aVJamaal Magloire NOH 12/29/2002 NOH @ HOU L 33 8 3 6 50.0 0 0 - 2 6 33.3 4 8 12 1 0 0 2 3 -12
+p514
+aVRobert Traylor NOH 12/29/2002 NOH @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p515
+aVBryce Drew NOH 12/29/2002 NOH @ HOU L 2 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -3
+p516
+aVJamal Mashburn NOH 12/29/2002 NOH @ HOU L 40 25 11 25 44.0 0 0 - 3 3 100.0 0 5 5 5 1 0 2 2 -12
+p517
+aVCourtney Alexander NOH 12/29/2002 NOH @ HOU L 24 6 3 7 42.9 0 1 0.0 0 0 - 0 4 4 0 0 2 0 3 -12
+p518
+aVDavid Wesley NOH 12/29/2002 NOH @ HOU L 29 13 5 11 45.5 1 1 100.0 2 2 100.0 1 2 3 0 1 0 3 2 -6
+p519
+aVStacey Augmon NOH 12/29/2002 NOH @ HOU L 12 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 2 0 -3
+p520
+aVDavid Wesley NOH 12/28/2002 NOH @ IND L 32 10 5 15 33.3 0 1 0.0 0 1 0.0 1 2 3 1 2 0 2 0 1
+p521
+aVJamal Mashburn NOH 12/28/2002 NOH @ IND L 38 17 6 20 30.0 2 5 40.0 3 3 100.0 4 5 9 1 1 0 4 4 -14
+p522
+aVGeorge Lynch NOH 12/28/2002 NOH @ IND L 19 4 1 2 50.0 0 0 - 2 2 100.0 0 5 5 0 2 0 1 1 7
+p523
+aVBryce Drew NOH 12/28/2002 NOH @ IND L 8 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 0 2
+p524
+aVBaron Davis NOH 12/28/2002 NOH @ IND L 40 22 8 24 33.3 2 8 25.0 4 5 80.0 1 1 2 7 2 0 4 3 -9
+p525
+aVElden Campbell NOH 12/28/2002 NOH @ IND L 20 10 4 12 33.3 0 0 - 2 2 100.0 0 3 3 0 0 2 1 3 1
+p526
+aVP.J. Brown NOH 12/28/2002 NOH @ IND L 35 6 3 6 50.0 0 0 - 0 0 - 3 9 12 4 1 1 1 2 -2
+p527
+aVJamaal Magloire NOH 12/28/2002 NOH @ IND L 31 8 4 8 50.0 0 0 - 0 3 0.0 7 4 11 0 1 1 1 6 -14
+p528
+aVCourtney Alexander NOH 12/28/2002 NOH @ IND L 18 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 1 1 0 1 -7
+p529
+aVElden Campbell NOH 12/26/2002 NOH vs. DAL L 17 7 2 7 28.6 0 0 - 3 5 60.0 0 0 0 2 0 1 1 1 0
+p530
+aVJamaal Magloire NOH 12/26/2002 NOH vs. DAL L 33 10 5 11 45.5 0 0 - 0 0 - 6 9 15 2 0 1 1 5 -3
+p531
+aVStacey Augmon NOH 12/26/2002 NOH vs. DAL L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 4
+p532
+aVBryce Drew NOH 12/26/2002 NOH vs. DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 4
+p533
+aVDavid Wesley NOH 12/26/2002 NOH vs. DAL L 38 24 9 15 60.0 4 6 66.7 2 2 100.0 1 4 5 3 1 0 4 4 4
+p534
+aVBaron Davis NOH 12/26/2002 NOH vs. DAL L 41 11 5 13 38.5 0 3 0.0 1 1 100.0 1 3 4 10 0 0 2 1 -7
+p535
+aVP.J. Brown NOH 12/26/2002 NOH vs. DAL L 31 11 3 5 60.0 0 0 - 5 6 83.3 1 6 7 0 0 1 3 3 -6
+p536
+aVJamal Mashburn NOH 12/26/2002 NOH vs. DAL L 37 8 3 17 17.6 0 3 0.0 2 4 50.0 1 9 10 4 1 0 3 2 -5
+p537
+aVGeorge Lynch NOH 12/26/2002 NOH vs. DAL L 15 4 2 4 50.0 0 1 0.0 0 0 - 2 4 6 1 0 0 0 0 5
+p538
+aVCourtney Alexander NOH 12/26/2002 NOH vs. DAL L 19 6 2 7 28.6 0 1 0.0 2 2 100.0 1 3 4 3 0 0 1 2 -6
+p539
+aVBaron Davis NOH 12/23/2002 NOH @ SAS L 42 18 5 18 27.8 2 7 28.6 6 6 100.0 2 6 8 8 1 0 3 2 -7
+p540
+aVGeorge Lynch NOH 12/23/2002 NOH @ SAS L 19 1 0 3 0.0 0 0 - 1 4 25.0 2 4 6 0 5 0 3 5 -4
+p541
+aVStacey Augmon NOH 12/23/2002 NOH @ SAS L 10 5 1 2 50.0 0 0 - 3 4 75.0 1 2 3 1 0 0 0 0 6
+p542
+aVP.J. Brown NOH 12/23/2002 NOH @ SAS L 26 14 7 8 87.5 0 0 - 0 0 - 2 1 3 1 1 3 2 6 0
+p543
+aVJamaal Magloire NOH 12/23/2002 NOH @ SAS L 41 6 2 8 25.0 0 0 - 2 4 50.0 2 2 4 0 1 1 0 6 -1
+p544
+aVRobert Traylor NOH 12/23/2002 NOH @ SAS L 19 1 0 3 0.0 0 0 - 1 2 50.0 1 5 6 1 0 1 1 3 -4
+p545
+aVDavid Wesley NOH 12/23/2002 NOH @ SAS L 41 20 9 20 45.0 1 3 33.3 1 2 50.0 2 2 4 3 2 1 1 2 -5
+p546
+aVCourtney Alexander NOH 12/23/2002 NOH @ SAS L 12 6 1 6 16.7 0 0 - 4 5 80.0 0 2 2 1 0 0 0 2 -1
+p547
+aVBryce Drew NOH 12/23/2002 NOH @ SAS L 11 7 3 3 100.0 1 1 100.0 0 0 - 0 3 3 0 1 0 0 0 2
+p548
+aVJamal Mashburn NOH 12/23/2002 NOH @ SAS L 43 16 7 23 30.4 0 2 0.0 2 3 66.7 1 3 4 3 1 0 2 2 -11
+p549
+aVRobert Traylor NOH 12/20/2002 NOH @ SEA W 7 2 1 4 25.0 0 0 - 0 2 0.0 3 1 4 0 0 0 0 2 -3
+p550
+aVDavid Wesley NOH 12/20/2002 NOH @ SEA W 45 18 8 20 40.0 2 7 28.6 0 0 - 1 5 6 1 1 0 3 2 -2
+p551
+aVJamal Mashburn NOH 12/20/2002 NOH @ SEA W 50 30 13 21 61.9 3 4 75.0 1 2 50.0 0 10 10 6 2 0 3 2 2
+p552
+aVElden Campbell NOH 12/20/2002 NOH @ SEA W 26 6 3 7 42.9 0 0 - 0 0 - 0 1 1 2 0 3 2 6 6
+p553
+aVJamaal Magloire NOH 12/20/2002 NOH @ SEA W 20 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 4 6 -1
+p554
+aVStacey Augmon NOH 12/20/2002 NOH @ SEA W 17 4 2 8 25.0 0 0 - 0 0 - 1 3 4 0 0 1 2 1 0
+p555
+aVP.J. Brown NOH 12/20/2002 NOH @ SEA W 43 6 3 9 33.3 0 0 - 0 0 - 6 7 13 3 0 1 0 3 0
+p556
+aVBaron Davis NOH 12/20/2002 NOH @ SEA W 45 20 7 16 43.8 4 11 36.4 2 2 100.0 0 6 6 5 1 2 3 4 4
+p557
+aVGeorge Lynch NOH 12/20/2002 NOH @ SEA W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p558
+aVP.J. Brown NOH 12/18/2002 NOH @ GSW L 44 7 1 7 14.3 0 0 - 5 5 100.0 5 8 13 2 2 3 0 1 -2
+p559
+aVStacey Augmon NOH 12/18/2002 NOH @ GSW L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -5
+p560
+aVJamal Mashburn NOH 12/18/2002 NOH @ GSW L 46 23 8 20 40.0 2 4 50.0 5 5 100.0 2 6 8 5 0 0 2 5 -3
+p561
+aVJamaal Magloire NOH 12/18/2002 NOH @ GSW L 28 14 3 7 42.9 0 0 - 8 10 80.0 1 6 7 2 0 2 0 4 4
+p562
+aVCourtney Alexander NOH 12/18/2002 NOH @ GSW L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 3 3 -11
+p563
+aVRobert Traylor NOH 12/18/2002 NOH @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p564
+aVDavid Wesley NOH 12/18/2002 NOH @ GSW L 38 13 3 10 30.0 1 3 33.3 6 6 100.0 0 0 0 4 0 0 2 4 3
+p565
+aVBaron Davis NOH 12/18/2002 NOH @ GSW L 43 23 10 17 58.8 2 4 50.0 1 1 100.0 0 2 2 5 1 0 3 5 1
+p566
+aVGeorge Lynch NOH 12/18/2002 NOH @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p567
+aVElden Campbell NOH 12/18/2002 NOH @ GSW L 21 24 6 13 46.2 0 0 - 12 12 100.0 0 2 2 0 0 1 0 4 -9
+p568
+aVDavid Wesley NOH 12/17/2002 NOH @ POR L 35 11 5 11 45.5 1 3 33.3 0 0 - 0 2 2 4 0 0 0 3 -8
+p569
+aVP.J. Brown NOH 12/17/2002 NOH @ POR L 34 9 4 7 57.1 0 0 - 1 1 100.0 2 4 6 2 0 0 0 3 -8
+p570
+aVRobert Traylor NOH 12/17/2002 NOH @ POR L 14 2 0 1 0.0 0 0 - 2 4 50.0 1 3 4 0 0 0 0 4 -1
+p571
+aVStacey Augmon NOH 12/17/2002 NOH @ POR L 13 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -4
+p572
+aVJamal Mashburn NOH 12/17/2002 NOH @ POR L 39 22 7 16 43.8 2 3 66.7 6 7 85.7 0 8 8 4 0 0 3 4 -8
+p573
+aVBaron Davis NOH 12/17/2002 NOH @ POR L 40 21 8 17 47.1 4 6 66.7 1 2 50.0 0 3 3 6 3 0 5 2 -3
+p574
+aVJamaal Magloire NOH 12/17/2002 NOH @ POR L 30 15 5 6 83.3 0 0 - 5 5 100.0 0 3 3 1 0 1 2 4 -9
+p575
+aVGeorge Lynch NOH 12/17/2002 NOH @ POR L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p576
+aVCourtney Alexander NOH 12/17/2002 NOH @ POR L 12 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 2 -3
+p577
+aVElden Campbell NOH 12/17/2002 NOH @ POR L 18 4 1 6 16.7 0 0 - 2 2 100.0 1 4 5 2 0 2 1 2 0
+p578
+aVJamal Mashburn NOH 12/15/2002 NOH @ SAC L 35 12 5 11 45.5 0 1 0.0 2 3 66.7 0 1 1 9 0 0 2 2 -8
+p579
+aVRobert Traylor NOH 12/15/2002 NOH @ SAC L 3 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -1
+p580
+aVBaron Davis NOH 12/15/2002 NOH @ SAC L 40 23 10 18 55.6 3 6 50.0 0 0 - 1 1 2 5 1 1 3 3 -14
+p581
+aVKirk Haston NOH 12/15/2002 NOH @ SAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p582
+aVGeorge Lynch NOH 12/15/2002 NOH @ SAC L 15 2 1 2 50.0 0 0 - 0 0 - 1 6 7 0 1 0 0 1 -11
+p583
+aVBryce Drew NOH 12/15/2002 NOH @ SAC L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p584
+aVP.J. Brown NOH 12/15/2002 NOH @ SAC L 31 4 1 7 14.3 0 0 - 2 2 100.0 3 10 13 0 0 1 0 3 -3
+p585
+aVCourtney Alexander NOH 12/15/2002 NOH @ SAC L 21 11 4 9 44.4 0 0 - 3 4 75.0 2 2 4 1 2 0 2 3 -10
+p586
+aVElden Campbell NOH 12/15/2002 NOH @ SAC L 17 10 2 6 33.3 0 0 - 6 6 100.0 0 0 0 1 3 0 0 2 -9
+p587
+aVStacey Augmon NOH 12/15/2002 NOH @ SAC L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p588
+aVDavid Wesley NOH 12/15/2002 NOH @ SAC L 33 15 6 11 54.5 1 2 50.0 2 2 100.0 0 1 1 4 3 0 3 1 -8
+p589
+aVJamaal Magloire NOH 12/15/2002 NOH @ SAC L 31 15 5 8 62.5 0 0 - 5 7 71.4 4 4 8 0 2 0 3 1 -6
+p590
+aVBaron Davis NOH 12/13/2002 NOH @ LAL W 48 18 7 20 35.0 1 8 12.5 3 3 100.0 0 2 2 8 2 0 2 2 16
+p591
+aVGeorge Lynch NOH 12/13/2002 NOH @ LAL W 21 7 3 4 75.0 1 1 100.0 0 0 - 2 7 9 1 2 0 1 2 15
+p592
+aVDavid Wesley NOH 12/13/2002 NOH @ LAL W 23 7 3 9 33.3 1 4 25.0 0 0 - 0 0 0 3 3 0 1 2 1
+p593
+aVJamaal Magloire NOH 12/13/2002 NOH @ LAL W 25 8 4 8 50.0 0 0 - 0 1 0.0 2 1 3 1 1 0 1 4 1
+p594
+aVCourtney Alexander NOH 12/13/2002 NOH @ LAL W 25 14 6 11 54.5 1 3 33.3 1 1 100.0 2 3 5 1 0 0 1 3 15
+p595
+aVStacey Augmon NOH 12/13/2002 NOH @ LAL W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 12
+p596
+aVJamal Mashburn NOH 12/13/2002 NOH @ LAL W 39 21 9 16 56.3 0 1 0.0 3 4 75.0 1 10 11 6 1 0 0 2 4
+p597
+aVP.J. Brown NOH 12/13/2002 NOH @ LAL W 27 9 1 3 33.3 0 0 - 7 8 87.5 3 4 7 1 1 0 0 2 1
+p598
+aVElden Campbell NOH 12/13/2002 NOH @ LAL W 23 14 6 11 54.5 0 1 0.0 2 4 50.0 1 3 4 0 1 1 1 3 15
+p599
+aVCourtney Alexander NOH 12/12/2002 NOH @ UTA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -6
+p600
+aVBaron Davis NOH 12/12/2002 NOH @ UTA W 39 10 3 13 23.1 1 8 12.5 3 3 100.0 1 3 4 7 2 1 3 3 0
+p601
+aVGeorge Lynch NOH 12/12/2002 NOH @ UTA W 5 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 0 2
+p602
+aVDavid Wesley NOH 12/12/2002 NOH @ UTA W 44 33 10 17 58.8 8 10 80.0 5 9 55.6 0 1 1 0 0 0 0 4 9
+p603
+aVP.J. Brown NOH 12/12/2002 NOH @ UTA W 35 5 0 2 0.0 0 0 - 5 6 83.3 4 4 8 3 2 0 3 4 1
+p604
+aVJamaal Magloire NOH 12/12/2002 NOH @ UTA W 33 13 6 10 60.0 0 0 - 1 2 50.0 3 4 7 0 3 0 1 4 12
+p605
+aVElden Campbell NOH 12/12/2002 NOH @ UTA W 21 13 4 6 66.7 0 0 - 5 6 83.3 0 1 1 0 2 2 3 3 -1
+p606
+aVStacey Augmon NOH 12/12/2002 NOH @ UTA W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 2 0 0 0 1
+p607
+aVJamal Mashburn NOH 12/12/2002 NOH @ UTA W 47 19 8 21 38.1 2 2 100.0 1 2 50.0 1 6 7 5 0 0 2 3 7
+p608
+aVDavid Wesley NOH 12/09/2002 NOH vs. LAC L 36 16 6 14 42.9 4 9 44.4 0 1 0.0 0 4 4 2 1 0 1 1 1
+p609
+aVBaron Davis NOH 12/09/2002 NOH vs. LAC L 43 33 14 23 60.9 4 10 40.0 1 4 25.0 1 1 2 8 2 1 5 6 -1
+p610
+aVStacey Augmon NOH 12/09/2002 NOH vs. LAC L 12 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 2 0 0 1 4 -1
+p611
+aVJamal Mashburn NOH 12/09/2002 NOH vs. LAC L 40 15 5 20 25.0 1 8 12.5 4 4 100.0 0 3 3 7 1 1 4 2 -5
+p612
+aVElden Campbell NOH 12/09/2002 NOH vs. LAC L 18 2 0 3 0.0 0 0 - 2 2 100.0 5 2 7 1 3 0 1 2 -9
+p613
+aVGeorge Lynch NOH 12/09/2002 NOH vs. LAC L 9 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 1 0 0 4
+p614
+aVCourtney Alexander NOH 12/09/2002 NOH vs. LAC L 24 7 3 10 30.0 0 3 0.0 1 2 50.0 1 2 3 0 0 0 1 5 -7
+p615
+aVP.J. Brown NOH 12/09/2002 NOH vs. LAC L 32 6 3 4 75.0 0 0 - 0 0 - 3 3 6 1 3 2 0 0 -12
+p616
+aVJamaal Magloire NOH 12/09/2002 NOH vs. LAC L 25 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 1 2 5 10
+p617
+aVGeorge Lynch NOH 12/07/2002 NOH @ MIL W 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p618
+aVBaron Davis NOH 12/07/2002 NOH @ MIL W 45 20 4 11 36.4 4 8 50.0 8 10 80.0 1 1 2 0 2 0 2 2 6
+p619
+aVElden Campbell NOH 12/07/2002 NOH @ MIL W 21 9 3 7 42.9 0 0 - 3 4 75.0 2 6 8 2 1 1 0 1 4
+p620
+aVP.J. Brown NOH 12/07/2002 NOH @ MIL W 40 20 7 9 77.8 0 0 - 6 6 100.0 1 5 6 1 2 1 0 2 10
+p621
+aVDavid Wesley NOH 12/07/2002 NOH @ MIL W 28 10 2 6 33.3 2 3 66.7 4 4 100.0 0 1 1 6 0 0 4 1 -10
+p622
+aVJamaal Magloire NOH 12/07/2002 NOH @ MIL W 27 6 1 8 12.5 0 0 - 4 6 66.7 3 5 8 0 0 1 0 1 2
+p623
+aVCourtney Alexander NOH 12/07/2002 NOH @ MIL W 21 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 2 2 0 0 2 14
+p624
+aVJamal Mashburn NOH 12/07/2002 NOH @ MIL W 44 23 7 20 35.0 1 5 20.0 8 8 100.0 1 6 7 5 0 0 1 2 5
+p625
+aVStacey Augmon NOH 12/07/2002 NOH @ MIL W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 3
+p626
+aVBaron Davis NOH 12/06/2002 NOH vs. HOU W 49 14 6 12 50.0 0 3 0.0 2 4 50.0 1 4 5 9 0 0 4 3 1
+p627
+aVP.J. Brown NOH 12/06/2002 NOH vs. HOU W 43 9 2 5 40.0 0 0 - 5 6 83.3 1 9 10 5 2 2 2 3 8
+p628
+aVStacey Augmon NOH 12/06/2002 NOH vs. HOU W 6 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 1 0 1 1 0
+p629
+aVGeorge Lynch NOH 12/06/2002 NOH vs. HOU W 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -6
+p630
+aVJamaal Magloire NOH 12/06/2002 NOH vs. HOU W 34 16 4 8 50.0 0 0 - 8 10 80.0 6 11 17 0 1 3 3 5 -1
+p631
+aVJamal Mashburn NOH 12/06/2002 NOH vs. HOU W 47 25 9 25 36.0 0 4 0.0 7 7 100.0 0 4 4 5 1 0 4 2 2
+p632
+aVCourtney Alexander NOH 12/06/2002 NOH vs. HOU W 18 7 3 7 42.9 1 2 50.0 0 0 - 1 0 1 1 1 0 0 2 -3
+p633
+aVDavid Wesley NOH 12/06/2002 NOH vs. HOU W 39 19 8 15 53.3 2 6 33.3 1 1 100.0 0 1 1 6 3 0 0 2 8
+p634
+aVElden Campbell NOH 12/06/2002 NOH vs. HOU W 18 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 1 0 1 3 6 1
+p635
+aVP.J. Brown NOH 12/04/2002 NOH vs. TOR W 33 15 6 12 50.0 0 0 - 3 4 75.0 2 7 9 0 0 1 0 0 7
+p636
+aVCourtney Alexander NOH 12/04/2002 NOH vs. TOR W 20 7 2 6 33.3 1 1 100.0 2 2 100.0 1 0 1 1 0 0 0 0 1
+p637
+aVRobert Traylor NOH 12/04/2002 NOH vs. TOR W 5 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 0 0 1 0 1 -1
+p638
+aVGeorge Lynch NOH 12/04/2002 NOH vs. TOR W 15 3 1 2 50.0 1 1 100.0 0 0 - 1 7 8 1 0 0 0 2 8
+p639
+aVJamaal Magloire NOH 12/04/2002 NOH vs. TOR W 27 16 7 10 70.0 0 0 - 2 2 100.0 2 6 8 1 0 0 4 2 11
+p640
+aVDavid Wesley NOH 12/04/2002 NOH vs. TOR W 25 0 0 8 0.0 0 2 0.0 0 0 - 0 1 1 5 1 0 1 2 3
+p641
+aVStacey Augmon NOH 12/04/2002 NOH vs. TOR W 17 5 1 1 100.0 0 0 - 3 4 75.0 1 0 1 3 2 0 1 2 19
+p642
+aVElden Campbell NOH 12/04/2002 NOH vs. TOR W 16 10 3 8 37.5 0 0 - 4 4 100.0 1 4 5 1 0 0 1 1 5
+p643
+aVBryce Drew NOH 12/04/2002 NOH vs. TOR W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -2
+p644
+aVKirk Haston NOH 12/04/2002 NOH vs. TOR W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p645
+aVJamal Mashburn NOH 12/04/2002 NOH vs. TOR W 33 10 4 14 28.6 1 2 50.0 1 2 50.0 1 5 6 4 1 0 1 2 6
+p646
+aVBaron Davis NOH 12/04/2002 NOH vs. TOR W 40 18 7 17 41.2 2 4 50.0 2 2 100.0 2 6 8 5 5 0 2 4 20
+p647
+aVCourtney Alexander NOH 12/03/2002 NOH @ CHI W 35 12 6 15 40.0 0 0 - 0 0 - 2 2 4 5 1 0 2 2 14
+p648
+aVKirk Haston NOH 12/03/2002 NOH @ CHI W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 4
+p649
+aVElden Campbell NOH 12/03/2002 NOH @ CHI W 15 10 4 6 66.7 0 0 - 2 2 100.0 1 0 1 1 1 1 0 4 6
+p650
+aVJamaal Magloire NOH 12/03/2002 NOH @ CHI W 28 18 7 11 63.6 0 0 - 4 6 66.7 5 5 10 2 1 0 1 1 19
+p651
+aVP.J. Brown NOH 12/03/2002 NOH @ CHI W 35 17 8 11 72.7 0 0 - 1 2 50.0 3 3 6 3 0 0 0 3 22
+p652
+aVGeorge Lynch NOH 12/03/2002 NOH @ CHI W 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 0
+p653
+aVJamal Mashburn NOH 12/03/2002 NOH @ CHI W 38 21 8 15 53.3 2 4 50.0 3 3 100.0 0 6 6 7 3 0 1 2 19
+p654
+aVJerome Moiso NOH 12/03/2002 NOH @ CHI W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 2
+p655
+aVStacey Augmon NOH 12/03/2002 NOH @ CHI W 21 7 2 5 40.0 0 0 - 3 4 75.0 0 0 0 3 2 0 0 3 16
+p656
+aVDavid Wesley NOH 12/03/2002 NOH @ CHI W 42 25 11 19 57.9 3 4 75.0 0 0 - 0 4 4 5 1 0 4 2 21
+p657
+aVRobert Traylor NOH 12/03/2002 NOH @ CHI W 6 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 2 1 0 0 0 2
+p658
+aVStacey Augmon NOH 12/01/2002 NOH @ BOS L 24 2 1 6 16.7 0 0 - 0 0 - 1 4 5 1 0 1 2 5 -3
+p659
+aVCourtney Alexander NOH 12/01/2002 NOH @ BOS L 28 6 1 6 16.7 0 0 - 4 6 66.7 0 4 4 2 2 0 4 3 -8
+p660
+aVDavid Wesley NOH 12/01/2002 NOH @ BOS L 45 18 7 15 46.7 3 8 37.5 1 4 25.0 0 2 2 4 2 0 2 1 -6
+p661
+aVP.J. Brown NOH 12/01/2002 NOH @ BOS L 34 10 4 8 50.0 0 0 - 2 2 100.0 5 9 14 2 1 2 4 4 -6
+p662
+aVJamaal Magloire NOH 12/01/2002 NOH @ BOS L 28 6 2 3 66.7 0 0 - 2 4 50.0 1 2 3 0 0 0 7 5 -3
+p663
+aVElden Campbell NOH 12/01/2002 NOH @ BOS L 15 4 1 5 20.0 0 0 - 2 4 50.0 0 2 2 0 1 0 0 2 -2
+p664
+aVGeorge Lynch NOH 12/01/2002 NOH @ BOS L 18 7 2 6 33.3 1 1 100.0 2 2 100.0 4 4 8 0 0 1 1 4 -7
+p665
+aVJamal Mashburn NOH 12/01/2002 NOH @ BOS L 47 33 13 19 68.4 0 2 0.0 7 8 87.5 0 5 5 8 3 0 4 2 -10
+p666
+aVBaron Davis NOH 11/30/2002 NOH @ NYK L 40 10 4 15 26.7 1 5 20.0 1 2 50.0 1 2 3 5 3 1 3 1 -1
+p667
+aVJamaal Magloire NOH 11/30/2002 NOH @ NYK L 35 8 1 6 16.7 0 0 - 6 10 60.0 1 8 9 0 0 0 0 5 -3
+p668
+aVCourtney Alexander NOH 11/30/2002 NOH @ NYK L 29 12 4 11 36.4 2 4 50.0 2 2 100.0 0 1 1 0 0 0 0 5 1
+p669
+aVP.J. Brown NOH 11/30/2002 NOH @ NYK L 39 12 5 7 71.4 0 0 - 2 2 100.0 4 7 11 2 0 3 0 5 -4
+p670
+aVElden Campbell NOH 11/30/2002 NOH @ NYK L 18 4 2 6 33.3 0 0 - 0 2 0.0 0 4 4 1 0 0 2 1 -1
+p671
+aVJamal Mashburn NOH 11/30/2002 NOH @ NYK L 47 20 10 23 43.5 0 1 0.0 0 0 - 1 6 7 9 4 0 3 2 -8
+p672
+aVDavid Wesley NOH 11/30/2002 NOH @ NYK L 32 12 4 11 36.4 1 3 33.3 3 4 75.0 0 1 1 2 2 0 2 2 -13
+p673
+aVStacey Augmon NOH 11/30/2002 NOH @ NYK L 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -2
+p674
+aVGeorge Lynch NOH 11/30/2002 NOH @ NYK L 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p675
+aVCourtney Alexander NOH 11/27/2002 NOH vs. ATL W 28 14 6 14 42.9 2 2 100.0 0 0 - 1 0 1 4 0 0 1 2 -6
+p676
+aVP.J. Brown NOH 11/27/2002 NOH vs. ATL W 32 11 4 4 100.0 0 0 - 3 4 75.0 2 5 7 6 1 2 0 0 22
+p677
+aVJamaal Magloire NOH 11/27/2002 NOH vs. ATL W 26 12 6 7 85.7 0 0 - 0 0 - 1 1 2 3 2 0 0 5 10
+p678
+aVDavid Wesley NOH 11/27/2002 NOH vs. ATL W 27 16 6 10 60.0 2 2 100.0 2 2 100.0 0 1 1 0 0 0 1 1 23
+p679
+aVElden Campbell NOH 11/27/2002 NOH vs. ATL W 21 13 4 9 44.4 0 0 - 5 7 71.4 1 4 5 1 0 1 1 3 5
+p680
+aVRobert Traylor NOH 11/27/2002 NOH vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p681
+aVStacey Augmon NOH 11/27/2002 NOH vs. ATL W 21 4 2 5 40.0 0 0 - 0 0 - 1 4 5 2 0 0 0 2 -7
+p682
+aVJamal Mashburn NOH 11/27/2002 NOH vs. ATL W 34 16 5 11 45.5 1 1 100.0 5 6 83.3 0 2 2 7 1 1 0 3 17
+p683
+aVBaron Davis NOH 11/27/2002 NOH vs. ATL W 41 16 8 17 47.1 0 4 0.0 0 0 - 2 3 5 11 4 1 6 2 7
+p684
+aVGeorge Lynch NOH 11/27/2002 NOH vs. ATL W 9 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -8
+p685
+aVP.J. Brown NOH 11/25/2002 NOH @ PHI L 17 7 2 3 66.7 0 0 - 3 4 75.0 0 4 4 2 1 1 2 5 -27
+p686
+aVCourtney Alexander NOH 11/25/2002 NOH @ PHI L 33 11 4 10 40.0 0 1 0.0 3 5 60.0 2 1 3 0 2 0 4 1 4
+p687
+aVBaron Davis NOH 11/25/2002 NOH @ PHI L 36 17 8 14 57.1 1 6 16.7 0 0 - 1 3 4 6 0 0 1 2 -14
+p688
+aVKirk Haston NOH 11/25/2002 NOH @ PHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p689
+aVJamal Mashburn NOH 11/25/2002 NOH @ PHI L 39 18 8 19 42.1 2 3 66.7 0 0 - 1 3 4 4 4 0 5 3 -15
+p690
+aVElden Campbell NOH 11/25/2002 NOH @ PHI L 14 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 0 1 1 1 -7
+p691
+aVRobert Traylor NOH 11/25/2002 NOH @ PHI L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p692
+aVJamaal Magloire NOH 11/25/2002 NOH @ PHI L 31 11 2 6 33.3 0 0 - 7 13 53.8 3 6 9 0 0 1 1 3 -21
+p693
+aVStacey Augmon NOH 11/25/2002 NOH @ PHI L 18 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 0 6
+p694
+aVGeorge Lynch NOH 11/25/2002 NOH @ PHI L 11 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 -5
+p695
+aVJerome Moiso NOH 11/25/2002 NOH @ PHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p696
+aVDavid Wesley NOH 11/25/2002 NOH @ PHI L 32 6 2 10 20.0 0 1 0.0 2 2 100.0 0 0 0 3 1 0 1 5 -27
+p697
+aVRobert Traylor NOH 11/23/2002 NOH @ CLE W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p698
+aVJamal Mashburn NOH 11/23/2002 NOH @ CLE W 28 16 6 12 50.0 1 2 50.0 3 4 75.0 0 7 7 6 1 0 3 3 13
+p699
+aVGeorge Lynch NOH 11/23/2002 NOH @ CLE W 17 4 2 7 28.6 0 0 - 0 0 - 3 4 7 1 1 0 0 1 13
+p700
+aVDavid Wesley NOH 11/23/2002 NOH @ CLE W 29 20 7 11 63.6 2 3 66.7 4 5 80.0 1 3 4 1 2 0 2 3 11
+p701
+aVJerome Moiso NOH 11/23/2002 NOH @ CLE W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p702
+aVBaron Davis NOH 11/23/2002 NOH @ CLE W 30 17 7 14 50.0 3 6 50.0 0 0 - 0 2 2 5 1 0 2 3 4
+p703
+aVJamaal Magloire NOH 11/23/2002 NOH @ CLE W 22 11 3 7 42.9 0 0 - 5 6 83.3 2 5 7 1 0 0 2 4 12
+p704
+aVKirk Haston NOH 11/23/2002 NOH @ CLE W 4 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 -8
+p705
+aVStacey Augmon NOH 11/23/2002 NOH @ CLE W 16 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 1 1 0 1 8
+p706
+aVElden Campbell NOH 11/23/2002 NOH @ CLE W 16 4 2 8 25.0 0 0 - 0 0 - 2 1 3 1 1 1 0 3 7
+p707
+aVCourtney Alexander NOH 11/23/2002 NOH @ CLE W 37 17 6 10 60.0 0 0 - 5 5 100.0 0 1 1 1 0 1 1 2 11
+p708
+aVP.J. Brown NOH 11/23/2002 NOH @ CLE W 27 6 2 9 22.2 0 0 - 2 2 100.0 5 8 13 5 0 0 0 2 8
+p709
+aVGeorge Lynch NOH 11/22/2002 NOH vs. NYK W 13 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 1 0 0 0 1
+p710
+aVP.J. Brown NOH 11/22/2002 NOH vs. NYK W 40 20 9 11 81.8 0 0 - 2 2 100.0 6 4 10 4 1 0 3 1 7
+p711
+aVDavid Wesley NOH 11/22/2002 NOH vs. NYK W 38 13 3 8 37.5 1 4 25.0 6 6 100.0 0 0 0 5 2 0 1 2 5
+p712
+aVStacey Augmon NOH 11/22/2002 NOH vs. NYK W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 6
+p713
+aVCourtney Alexander NOH 11/22/2002 NOH vs. NYK W 22 7 3 11 27.3 1 1 100.0 0 0 - 0 2 2 4 0 0 0 0 0
+p714
+aVRobert Traylor NOH 11/22/2002 NOH vs. NYK W 10 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 0 1 2 3 1 7
+p715
+aVBaron Davis NOH 11/22/2002 NOH vs. NYK W 43 12 5 17 29.4 2 4 50.0 0 2 0.0 1 3 4 10 2 2 2 4 8
+p716
+aVJamal Mashburn NOH 11/22/2002 NOH vs. NYK W 50 25 8 20 40.0 2 5 40.0 7 7 100.0 0 6 6 7 3 0 7 1 5
+p717
+aVJamaal Magloire NOH 11/22/2002 NOH vs. NYK W 43 20 8 12 66.7 0 0 - 4 7 57.1 4 7 11 0 1 3 0 5 1
+p718
+aVStacey Augmon NOH 11/19/2002 NOH vs. PHI W 10 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -11
+p719
+aVJamal Mashburn NOH 11/19/2002 NOH vs. PHI W 45 37 15 24 62.5 1 2 50.0 6 7 85.7 2 6 8 6 0 0 4 2 7
+p720
+aVDavid Wesley NOH 11/19/2002 NOH vs. PHI W 38 6 3 10 30.0 0 4 0.0 0 0 - 1 1 2 1 0 0 1 4 16
+p721
+aVCourtney Alexander NOH 11/19/2002 NOH vs. PHI W 15 7 2 5 40.0 0 0 - 3 3 100.0 1 0 1 0 0 0 0 3 -15
+p722
+aVRobert Traylor NOH 11/19/2002 NOH vs. PHI W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 1 0 2 -9
+p723
+aVP.J. Brown NOH 11/19/2002 NOH vs. PHI W 42 15 5 9 55.6 0 0 - 5 6 83.3 5 11 16 3 1 0 4 4 13
+p724
+aVBaron Davis NOH 11/19/2002 NOH vs. PHI W 40 21 9 18 50.0 3 6 50.0 0 0 - 1 1 2 8 2 0 4 5 4
+p725
+aVJamaal Magloire NOH 11/19/2002 NOH vs. PHI W 42 11 5 11 45.5 0 0 - 1 2 50.0 3 14 17 3 1 7 3 1 8
+p726
+aVGeorge Lynch NOH 11/19/2002 NOH vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p727
+aVJamal Mashburn NOH 11/16/2002 NOH @ ATL L 40 19 6 19 31.6 0 2 0.0 7 8 87.5 1 3 4 2 1 0 2 2 2
+p728
+aVP.J. Brown NOH 11/16/2002 NOH @ ATL L 40 13 6 13 46.2 0 0 - 1 3 33.3 7 7 14 1 4 0 1 4 1
+p729
+aVGeorge Lynch NOH 11/16/2002 NOH @ ATL L 10 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 0 0 1 1 3 -12
+p730
+aVDavid Wesley NOH 11/16/2002 NOH @ ATL L 38 18 7 14 50.0 0 3 0.0 4 4 100.0 0 1 1 2 1 0 2 1 -6
+p731
+aVJamaal Magloire NOH 11/16/2002 NOH @ ATL L 21 4 2 7 28.6 0 1 0.0 0 0 - 3 5 8 0 1 0 0 4 5
+p732
+aVStacey Augmon NOH 11/16/2002 NOH @ ATL L 9 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 1 0 1 0 -6
+p733
+aVCourtney Alexander NOH 11/16/2002 NOH @ ATL L 23 10 4 9 44.4 2 2 100.0 0 0 - 0 3 3 0 1 0 2 1 -3
+p734
+aVBaron Davis NOH 11/16/2002 NOH @ ATL L 43 12 5 21 23.8 2 7 28.6 0 0 - 4 3 7 8 1 0 2 3 -3
+p735
+aVRobert Traylor NOH 11/16/2002 NOH @ ATL L 15 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -13
+p736
+aVJamal Mashburn NOH 11/15/2002 NOH vs. CHI W 25 16 6 9 66.7 2 3 66.7 2 2 100.0 0 4 4 5 0 0 1 4 1
+p737
+aVJamaal Magloire NOH 11/15/2002 NOH vs. CHI W 27 9 4 9 44.4 0 0 - 1 2 50.0 5 4 9 1 2 1 1 2 16
+p738
+aVStacey Augmon NOH 11/15/2002 NOH vs. CHI W 25 4 2 4 50.0 0 1 0.0 0 0 - 0 5 5 2 0 0 0 1 17
+p739
+aVJerome Moiso NOH 11/15/2002 NOH vs. CHI W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 3 1 -3
+p740
+aVP.J. Brown NOH 11/15/2002 NOH vs. CHI W 31 12 6 9 66.7 0 0 - 0 1 0.0 2 9 11 2 4 1 1 2 14
+p741
+aVCourtney Alexander NOH 11/15/2002 NOH vs. CHI W 21 8 2 6 33.3 0 0 - 4 6 66.7 2 1 3 2 1 0 3 1 -3
+p742
+aVGeorge Lynch NOH 11/15/2002 NOH vs. CHI W 12 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 2 1 0 0 0 0
+p743
+aVDavid Wesley NOH 11/15/2002 NOH vs. CHI W 36 22 8 19 42.1 3 7 42.9 3 6 50.0 0 1 1 3 2 1 3 1 28
+p744
+aVKirk Haston NOH 11/15/2002 NOH vs. CHI W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -3
+p745
+aVBaron Davis NOH 11/15/2002 NOH vs. CHI W 37 22 9 13 69.2 3 4 75.0 1 2 50.0 0 4 4 12 1 0 3 3 18
+p746
+aVRobert Traylor NOH 11/15/2002 NOH vs. CHI W 16 10 4 8 50.0 0 0 - 2 2 100.0 2 2 4 1 1 0 0 3 5
+p747
+aVDavid Wesley NOH 11/13/2002 NOH vs. MIN W 27 8 3 12 25.0 1 3 33.3 1 2 50.0 0 1 1 2 1 0 1 1 -2
+p748
+aVJamal Mashburn NOH 11/13/2002 NOH vs. MIN W 41 25 11 21 52.4 2 5 40.0 1 1 100.0 1 9 10 6 0 0 1 3 7
+p749
+aVGeorge Lynch NOH 11/13/2002 NOH vs. MIN W 14 8 3 5 60.0 2 4 50.0 0 0 - 2 3 5 1 1 0 2 1 -6
+p750
+aVBaron Davis NOH 11/13/2002 NOH vs. MIN W 40 15 5 16 31.3 2 7 28.6 3 3 100.0 1 4 5 10 0 0 5 4 0
+p751
+aVRobert Traylor NOH 11/13/2002 NOH vs. MIN W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 4
+p752
+aVCourtney Alexander NOH 11/13/2002 NOH vs. MIN W 32 23 6 9 66.7 1 1 100.0 10 10 100.0 0 3 3 1 0 0 1 0 10
+p753
+aVP.J. Brown NOH 11/13/2002 NOH vs. MIN W 34 11 4 7 57.1 0 0 - 3 3 100.0 3 6 9 1 0 2 0 5 10
+p754
+aVStacey Augmon NOH 11/13/2002 NOH vs. MIN W 12 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 1 1 0 1 12
+p755
+aVJamaal Magloire NOH 11/13/2002 NOH vs. MIN W 34 6 2 4 50.0 0 0 - 2 4 50.0 5 4 9 3 0 2 2 0 -15
+p756
+aVJerome Moiso NOH 11/12/2002 NOH @ DET L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p757
+aVRobert Traylor NOH 11/12/2002 NOH @ DET L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 1 1 0 10
+p758
+aVP.J. Brown NOH 11/12/2002 NOH @ DET L 25 10 4 10 40.0 0 0 - 2 2 100.0 3 3 6 1 0 0 2 4 -3
+p759
+aVCourtney Alexander NOH 11/12/2002 NOH @ DET L 23 7 2 8 25.0 0 1 0.0 3 4 75.0 0 1 1 1 1 0 1 2 -4
+p760
+aVJamal Mashburn NOH 11/12/2002 NOH @ DET L 39 17 8 20 40.0 1 1 100.0 0 0 - 0 8 8 1 3 0 3 2 -14
+p761
+aVGeorge Lynch NOH 11/12/2002 NOH @ DET L 15 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 0 1 0 4 4 -2
+p762
+aVStacey Augmon NOH 11/12/2002 NOH @ DET L 19 9 3 6 50.0 0 0 - 3 4 75.0 1 3 4 3 0 0 1 3 5
+p763
+aVJamaal Magloire NOH 11/12/2002 NOH @ DET L 31 12 4 8 50.0 0 0 - 4 4 100.0 4 4 8 1 0 2 2 2 -14
+p764
+aVBaron Davis NOH 11/12/2002 NOH @ DET L 40 13 6 13 46.2 1 3 33.3 0 1 0.0 1 2 3 7 4 0 3 6 -4
+p765
+aVDavid Wesley NOH 11/12/2002 NOH @ DET L 35 11 5 9 55.6 1 3 33.3 0 0 - 0 0 0 2 1 0 1 3 -4
+p766
+aVGeorge Lynch NOH 11/10/2002 NOH @ NYK W 10 3 1 5 20.0 0 0 - 1 2 50.0 5 0 5 0 1 0 0 0 -5
+p767
+aVJamaal Magloire NOH 11/10/2002 NOH @ NYK W 22 6 3 7 42.9 0 0 - 0 1 0.0 1 4 5 0 0 0 0 4 -2
+p768
+aVStacey Augmon NOH 11/10/2002 NOH @ NYK W 18 11 4 6 66.7 0 0 - 3 3 100.0 0 4 4 0 1 1 0 3 14
+p769
+aVCourtney Alexander NOH 11/10/2002 NOH @ NYK W 27 9 3 9 33.3 0 0 - 3 3 100.0 1 1 2 0 1 0 1 1 5
+p770
+aVJamal Mashburn NOH 11/10/2002 NOH @ NYK W 48 15 5 17 29.4 0 3 0.0 5 7 71.4 2 8 10 9 2 0 2 3 7
+p771
+aVBaron Davis NOH 11/10/2002 NOH @ NYK W 50 24 10 23 43.5 3 9 33.3 1 2 50.0 2 4 6 7 0 0 6 3 8
+p772
+aVDavid Wesley NOH 11/10/2002 NOH @ NYK W 37 13 5 12 41.7 2 6 33.3 1 2 50.0 1 2 3 2 1 0 1 3 1
+p773
+aVP.J. Brown NOH 11/10/2002 NOH @ NYK W 40 16 7 13 53.8 0 0 - 2 4 50.0 5 6 11 2 0 2 1 2 8
+p774
+aVRobert Traylor NOH 11/10/2002 NOH @ NYK W 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -6
+p775
+aVBaron Davis NOH 11/08/2002 NOH vs. GSW W 40 14 5 11 45.5 1 3 33.3 3 4 75.0 0 2 2 8 4 0 3 2 7
+p776
+aVStacey Augmon NOH 11/08/2002 NOH vs. GSW W 6 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 -5
+p777
+aVJamal Mashburn NOH 11/08/2002 NOH vs. GSW W 41 32 12 24 50.0 1 2 50.0 7 7 100.0 0 6 6 5 1 0 1 2 17
+p778
+aVP.J. Brown NOH 11/08/2002 NOH vs. GSW W 38 17 5 12 41.7 0 0 - 7 8 87.5 8 8 16 2 1 1 1 1 10
+p779
+aVGeorge Lynch NOH 11/08/2002 NOH vs. GSW W 11 5 2 4 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 1 2 -10
+p780
+aVCourtney Alexander NOH 11/08/2002 NOH vs. GSW W 17 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 -4
+p781
+aVRobert Traylor NOH 11/08/2002 NOH vs. GSW W 14 8 4 5 80.0 0 0 - 0 1 0.0 5 0 5 1 0 2 1 3 -5
+p782
+aVJamaal Magloire NOH 11/08/2002 NOH vs. GSW W 34 10 4 11 36.4 0 0 - 2 2 100.0 2 7 9 1 1 2 2 4 11
+p783
+aVDavid Wesley NOH 11/08/2002 NOH vs. GSW W 39 15 7 13 53.8 1 2 50.0 0 0 - 0 0 0 2 1 0 2 4 9
+p784
+aVDavid Wesley NOH 11/06/2002 NOH vs. SEA W 37 19 7 17 41.2 4 10 40.0 1 3 33.3 0 1 1 5 1 1 0 3 -3
+p785
+aVRobert Traylor NOH 11/06/2002 NOH vs. SEA W 7 4 1 1 100.0 0 0 - 2 4 50.0 0 2 2 1 2 0 1 1 9
+p786
+aVJamal Mashburn NOH 11/06/2002 NOH vs. SEA W 44 16 6 20 30.0 2 6 33.3 2 2 100.0 1 5 6 2 0 0 4 2 4
+p787
+aVGeorge Lynch NOH 11/06/2002 NOH vs. SEA W 32 2 0 2 0.0 0 0 - 2 2 100.0 5 4 9 5 1 1 1 0 6
+p788
+aVCourtney Alexander NOH 11/06/2002 NOH vs. SEA W 21 6 2 5 40.0 0 0 - 2 4 50.0 0 1 1 0 1 0 3 2 5
+p789
+aVBaron Davis NOH 11/06/2002 NOH vs. SEA W 44 23 11 24 45.8 1 4 25.0 0 2 0.0 3 7 10 9 3 1 2 4 2
+p790
+aVJamaal Magloire NOH 11/06/2002 NOH vs. SEA W 33 8 2 6 33.3 0 0 - 4 6 66.7 3 8 11 2 0 0 1 3 2
+p791
+aVJerome Moiso NOH 11/06/2002 NOH vs. SEA W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p792
+aVP.J. Brown NOH 11/06/2002 NOH vs. SEA W 17 6 2 4 50.0 0 0 - 2 2 100.0 3 1 4 0 0 0 2 4 -16
+p793
+aVP.J. Brown NOH 11/02/2002 NOH vs. MIA W 33 14 5 7 71.4 0 0 - 4 4 100.0 3 7 10 2 0 0 0 2 2
+p794
+aVRobert Traylor NOH 11/02/2002 NOH vs. MIA W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 8
+p795
+aVJamal Mashburn NOH 11/02/2002 NOH vs. MIA W 45 35 12 24 50.0 1 2 50.0 10 14 71.4 0 8 8 3 0 1 3 2 6
+p796
+aVGeorge Lynch NOH 11/02/2002 NOH vs. MIA W 11 0 0 0 - 0 0 - 0 0 - 3 2 5 0 1 0 0 3 9
+p797
+aVJamaal Magloire NOH 11/02/2002 NOH vs. MIA W 37 6 2 5 40.0 0 0 - 2 3 66.7 4 4 8 1 0 4 1 5 -7
+p798
+aVBaron Davis NOH 11/02/2002 NOH vs. MIA W 43 15 6 17 35.3 0 7 0.0 3 3 100.0 0 2 2 8 4 0 1 5 9
+p799
+aVCourtney Alexander NOH 11/02/2002 NOH vs. MIA W 24 9 3 10 30.0 0 0 - 3 4 75.0 2 1 3 2 2 0 1 1 -7
+p800
+aVJerome Moiso NOH 11/02/2002 NOH vs. MIA W 6 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -9
+p801
+aVDavid Wesley NOH 11/02/2002 NOH vs. MIA W 31 19 5 11 45.5 4 7 57.1 5 5 100.0 2 0 2 2 2 0 2 4 11
+p802
+aVP.J. Brown NOH 11/01/2002 NOH @ CHI L 30 2 1 5 20.0 0 0 - 0 0 - 4 5 9 0 3 0 1 4 -24
+p803
+aVRobert Traylor NOH 11/01/2002 NOH @ CHI L 18 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 1 2 0 2 3
+p804
+aVGeorge Lynch NOH 11/01/2002 NOH @ CHI L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 1
+p805
+aVJerome Moiso NOH 11/01/2002 NOH @ CHI L 17 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 0 2 0 1 4
+p806
+aVBaron Davis NOH 11/01/2002 NOH @ CHI L 43 14 5 21 23.8 2 6 33.3 2 6 33.3 2 1 3 9 3 1 1 0 -4
+p807
+aVJamal Mashburn NOH 11/01/2002 NOH @ CHI L 39 21 7 17 41.2 1 3 33.3 6 8 75.0 2 2 4 5 0 0 3 5 0
+p808
+aVJamaal Magloire NOH 11/01/2002 NOH @ CHI L 20 7 2 4 50.0 0 0 - 3 3 100.0 2 5 7 0 2 0 2 3 9
+p809
+aVCourtney Alexander NOH 11/01/2002 NOH @ CHI L 24 10 5 11 45.5 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -8
+p810
+aVDavid Wesley NOH 11/01/2002 NOH @ CHI L 35 19 8 15 53.3 1 2 50.0 2 2 100.0 0 3 3 1 1 0 5 3 -11
+p811
+aVStacey Augmon NOH 11/01/2002 NOH @ CHI L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 5
+p812
+aVDavid Wesley NOH 10/30/2002 NOH vs. UTA W 40 15 6 17 35.3 1 2 50.0 2 4 50.0 0 2 2 3 4 0 1 2 24
+p813
+aVP.J. Brown NOH 10/30/2002 NOH vs. UTA W 36 8 2 7 28.6 0 0 - 4 4 100.0 4 3 7 1 2 0 1 3 21
+p814
+aVRobert Traylor NOH 10/30/2002 NOH vs. UTA W 15 6 3 4 75.0 0 0 - 0 0 - 3 1 4 1 1 1 0 5 3
+p815
+aVJamaal Magloire NOH 10/30/2002 NOH vs. UTA W 29 3 1 8 12.5 0 0 - 1 2 50.0 6 2 8 0 2 1 2 5 25
+p816
+aVJerome Moiso NOH 10/30/2002 NOH vs. UTA W 12 10 5 5 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 4
+p817
+aVKirk Haston NOH 10/30/2002 NOH vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 1 1 4
+p818
+aVCourtney Alexander NOH 10/30/2002 NOH vs. UTA W 25 19 6 10 60.0 1 1 100.0 6 7 85.7 0 0 0 2 0 0 0 1 16
+p819
+aVJamal Mashburn NOH 10/30/2002 NOH vs. UTA W 33 16 4 14 28.6 0 1 0.0 8 12 66.7 1 8 9 3 0 0 3 2 8
+p820
+aVGeorge Lynch NOH 10/30/2002 NOH vs. UTA W 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 3 -3
+p821
+aVBaron Davis NOH 10/30/2002 NOH vs. UTA W 38 21 7 14 50.0 4 6 66.7 3 4 75.0 1 4 5 10 2 0 1 3 23
+p822
+a.

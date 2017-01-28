@@ -1,0 +1,1608 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEvan Eschmeyer NJN 04/17/2001 NJN vs. CHI L 26 12 4 9 44.4 0 0 - 4 7 57.1 3 6 9 1 1 3 1 6 -5
+p2
+aVStephen Jackson NJN 04/17/2001 NJN vs. CHI L 23 11 5 6 83.3 1 2 50.0 0 0 - 0 4 4 4 1 0 4 4 -3
+p3
+aVKeith Van Horn NJN 04/17/2001 NJN vs. CHI L 43 15 6 14 42.9 1 2 50.0 2 4 50.0 0 4 4 4 0 0 1 2 1
+p4
+aVMark Strickland NJN 04/17/2001 NJN vs. CHI L 18 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 1 0 2 0
+p5
+aVEddie Gill NJN 04/17/2001 NJN vs. CHI L 18 0 0 7 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 1 -3
+p6
+aVJohnny Newman NJN 04/17/2001 NJN vs. CHI L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -3
+p7
+aVDoug Overton NJN 04/17/2001 NJN vs. CHI L 30 17 8 12 66.7 1 3 33.3 0 0 - 0 2 2 11 0 0 1 2 -3
+p8
+aVAaron Williams NJN 04/17/2001 NJN vs. CHI L 28 10 4 10 40.0 0 0 - 2 2 100.0 3 3 6 1 0 0 0 4 -8
+p9
+aVLucious Harris NJN 04/17/2001 NJN vs. CHI L 44 27 12 21 57.1 1 5 20.0 2 2 100.0 3 2 5 1 1 1 0 1 -2
+p10
+aVJamel Thomas NJN 04/17/2001 NJN vs. CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -4
+p11
+aVEvan Eschmeyer NJN 04/15/2001 NJN @ BOS L 27 9 4 6 66.7 0 0 - 1 2 50.0 1 5 6 2 1 0 1 2 3
+p12
+aVLucious Harris NJN 04/15/2001 NJN @ BOS L 37 15 6 13 46.2 3 6 50.0 0 0 - 0 3 3 3 1 1 2 2 -2
+p13
+aVAaron Williams NJN 04/15/2001 NJN @ BOS L 21 7 2 6 33.3 0 0 - 3 4 75.0 2 4 6 0 0 1 1 2 -10
+p14
+aVJamel Thomas NJN 04/15/2001 NJN @ BOS L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -2
+p15
+aVKeith Van Horn NJN 04/15/2001 NJN @ BOS L 37 21 7 22 31.8 2 6 33.3 5 8 62.5 3 3 6 0 0 1 3 2 8
+p16
+aVVladimir Stepania NJN 04/15/2001 NJN @ BOS L 7 0 0 3 0.0 0 0 - 0 0 - 3 3 6 0 0 0 2 1 -8
+p17
+aVStephen Jackson NJN 04/15/2001 NJN @ BOS L 20 15 5 11 45.5 1 5 20.0 4 5 80.0 3 2 5 2 2 0 1 1 3
+p18
+aVEddie Gill NJN 04/15/2001 NJN @ BOS L 26 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 3 1 0 1 1 0
+p19
+aVDoug Overton NJN 04/15/2001 NJN @ BOS L 22 0 0 3 0.0 0 0 - 0 0 - 0 1 1 5 1 0 2 2 -7
+p20
+aVMark Strickland NJN 04/15/2001 NJN @ BOS L 30 5 2 8 25.0 1 1 100.0 0 0 - 0 6 6 1 0 1 2 0 -17
+p21
+aVJohnny Newman NJN 04/15/2001 NJN @ BOS L 4 7 2 2 100.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 0 -3
+p22
+aVMark Strickland NJN 04/13/2001 NJN vs. CLE L 29 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 1 2 0 3 4 -3
+p23
+aVEvan Eschmeyer NJN 04/13/2001 NJN vs. CLE L 20 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 1 1 1 3 7
+p24
+aVDoug Overton NJN 04/13/2001 NJN vs. CLE L 29 12 5 8 62.5 1 1 100.0 1 2 50.0 0 1 1 4 0 0 3 4 -1
+p25
+aVJamel Thomas NJN 04/13/2001 NJN vs. CLE L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p26
+aVJohnny Newman NJN 04/13/2001 NJN vs. CLE L 17 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 0 1 0 2 0 -5
+p27
+aVLucious Harris NJN 04/13/2001 NJN vs. CLE L 39 19 6 17 35.3 1 3 33.3 6 7 85.7 0 2 2 4 2 0 2 4 -4
+p28
+aVKeith Van Horn NJN 04/13/2001 NJN vs. CLE L 41 23 8 20 40.0 1 4 25.0 6 9 66.7 2 5 7 2 1 0 2 4 -5
+p29
+aVAaron Williams NJN 04/13/2001 NJN vs. CLE L 35 17 7 11 63.6 0 0 - 3 4 75.0 2 4 6 1 1 3 4 5 -14
+p30
+aVEddie Gill NJN 04/13/2001 NJN vs. CLE L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 1 0 2 1 -2
+p31
+aVMark Strickland NJN 04/12/2001 NJN @ CHH L 25 9 3 9 33.3 0 0 - 3 4 75.0 1 4 5 1 1 0 0 1 -6
+p32
+aVKeith Van Horn NJN 04/12/2001 NJN @ CHH L 35 14 5 14 35.7 1 2 50.0 3 4 75.0 4 7 11 3 1 1 2 3 -11
+p33
+aVJohnny Newman NJN 04/12/2001 NJN @ CHH L 31 16 4 10 40.0 2 5 40.0 6 6 100.0 1 2 3 3 1 0 1 4 -6
+p34
+aVEvan Eschmeyer NJN 04/12/2001 NJN @ CHH L 18 2 1 3 33.3 0 0 - 0 0 - 3 2 5 1 2 0 0 4 3
+p35
+aVSoumaila Samake NJN 04/12/2001 NJN @ CHH L 6 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 1 0 0 3
+p36
+aVEddie Gill NJN 04/12/2001 NJN @ CHH L 26 2 1 7 14.3 0 2 0.0 0 0 - 0 0 0 5 1 0 3 1 -2
+p37
+aVJamel Thomas NJN 04/12/2001 NJN @ CHH L 23 9 4 10 40.0 1 2 50.0 0 0 - 4 3 7 0 1 0 3 2 -6
+p38
+aVAaron Williams NJN 04/12/2001 NJN @ CHH L 24 6 2 9 22.2 0 0 - 2 2 100.0 1 4 5 0 1 0 3 4 -16
+p39
+aVLucious Harris NJN 04/12/2001 NJN @ CHH L 29 13 5 14 35.7 1 4 25.0 2 2 100.0 1 1 2 2 1 1 1 2 -8
+p40
+aVVladimir Stepania NJN 04/12/2001 NJN @ CHH L 6 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 1 0 3
+p41
+aVDoug Overton NJN 04/12/2001 NJN @ CHH L 19 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 1 3 -4
+p42
+aVVladimir Stepania NJN 04/08/2001 NJN vs. IND L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 5
+p43
+aVSoumaila Samake NJN 04/08/2001 NJN vs. IND L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -10
+p44
+aVJamel Thomas NJN 04/08/2001 NJN vs. IND L 7 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p45
+aVKeith Van Horn NJN 04/08/2001 NJN vs. IND L 30 21 8 13 61.5 1 2 50.0 4 5 80.0 1 7 8 2 0 0 3 2 -14
+p46
+aVEddie Gill NJN 04/08/2001 NJN vs. IND L 24 9 4 6 66.7 0 0 - 1 2 50.0 0 1 1 3 0 0 0 2 -12
+p47
+aVEvan Eschmeyer NJN 04/08/2001 NJN vs. IND L 27 2 0 3 0.0 0 0 - 2 2 100.0 4 3 7 1 0 1 0 4 -21
+p48
+aVMark Strickland NJN 04/08/2001 NJN vs. IND L 24 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 0 2 1 -16
+p49
+aVDoug Overton NJN 04/08/2001 NJN vs. IND L 24 0 0 8 0.0 0 3 0.0 0 0 - 0 0 0 3 0 0 0 0 -13
+p50
+aVLucious Harris NJN 04/08/2001 NJN vs. IND L 26 7 2 8 25.0 0 1 0.0 3 4 75.0 1 0 1 2 1 0 1 2 -10
+p51
+aVStephen Jackson NJN 04/08/2001 NJN vs. IND L 22 12 3 11 27.3 0 2 0.0 6 8 75.0 0 3 3 1 4 1 3 3 -15
+p52
+aVJohnny Newman NJN 04/08/2001 NJN vs. IND L 23 22 9 14 64.3 2 2 100.0 2 2 100.0 0 2 2 0 0 0 2 4 -8
+p53
+aVAaron Williams NJN 04/08/2001 NJN vs. IND L 17 4 1 5 20.0 0 0 - 2 2 100.0 2 2 4 1 0 0 4 4 -14
+p54
+aVVladimir Stepania NJN 04/03/2001 NJN vs. CHH L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p55
+aVMark Strickland NJN 04/03/2001 NJN vs. CHH L 19 9 3 6 50.0 0 0 - 3 3 100.0 1 3 4 1 0 1 2 3 1
+p56
+aVEvan Eschmeyer NJN 04/03/2001 NJN vs. CHH L 33 4 2 10 20.0 0 0 - 0 2 0.0 10 2 12 0 0 3 2 5 -5
+p57
+aVAaron Williams NJN 04/03/2001 NJN vs. CHH L 17 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 0 5 -11
+p58
+aVJohnny Newman NJN 04/03/2001 NJN vs. CHH L 36 26 8 20 40.0 1 2 50.0 9 10 90.0 0 3 3 1 0 0 1 5 -14
+p59
+aVKeith Van Horn NJN 04/03/2001 NJN vs. CHH L 42 25 10 18 55.6 1 4 25.0 4 5 80.0 2 6 8 1 0 1 4 0 -16
+p60
+aVEddie Gill NJN 04/03/2001 NJN vs. CHH L 15 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 -1
+p61
+aVDoug Overton NJN 04/03/2001 NJN vs. CHH L 33 3 1 10 10.0 0 3 0.0 1 1 100.0 1 0 1 7 1 0 0 1 -14
+p62
+aVStephen Jackson NJN 04/03/2001 NJN vs. CHH L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p63
+aVSoumaila Samake NJN 04/03/2001 NJN vs. CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p64
+aVLucious Harris NJN 04/03/2001 NJN vs. CHH L 37 12 6 12 50.0 0 0 - 0 0 - 3 8 11 7 1 1 2 1 -15
+p65
+aVDoug Overton NJN 04/01/2001 NJN vs. HOU W 36 16 7 13 53.8 2 4 50.0 0 0 - 0 6 6 4 1 0 0 3 9
+p66
+aVJohnny Newman NJN 04/01/2001 NJN vs. HOU W 37 17 4 11 36.4 2 2 100.0 7 8 87.5 0 1 1 3 2 0 3 4 -2
+p67
+aVMark Strickland NJN 04/01/2001 NJN vs. HOU W 18 8 4 9 44.4 0 0 - 0 0 - 1 2 3 1 0 0 1 0 2
+p68
+aVKeith Van Horn NJN 04/01/2001 NJN vs. HOU W 44 19 7 14 50.0 0 1 0.0 5 5 100.0 3 7 10 3 1 0 5 4 4
+p69
+aVEddie Gill NJN 04/01/2001 NJN vs. HOU W 17 7 3 7 42.9 0 1 0.0 1 1 100.0 0 2 2 1 0 1 0 1 -9
+p70
+aVEvan Eschmeyer NJN 04/01/2001 NJN vs. HOU W 19 6 2 5 40.0 0 0 - 2 2 100.0 3 0 3 0 0 0 0 4 0
+p71
+aVLucious Harris NJN 04/01/2001 NJN vs. HOU W 41 13 6 13 46.2 0 0 - 1 1 100.0 2 4 6 4 1 1 2 2 10
+p72
+aVAaron Williams NJN 04/01/2001 NJN vs. HOU W 29 15 5 10 50.0 0 0 - 5 6 83.3 3 7 10 1 0 5 1 6 1
+p73
+aVStephen Jackson NJN 03/30/2001 NJN @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p74
+aVLucious Harris NJN 03/30/2001 NJN @ TOR L 27 9 2 8 25.0 1 2 50.0 4 4 100.0 0 2 2 3 0 0 1 3 -8
+p75
+aVMark Strickland NJN 03/30/2001 NJN @ TOR L 25 2 1 5 20.0 0 0 - 0 0 - 3 4 7 0 0 0 0 3 -7
+p76
+aVEddie Gill NJN 03/30/2001 NJN @ TOR L 12 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 3 1 0 4 2 -13
+p77
+aVKeith Van Horn NJN 03/30/2001 NJN @ TOR L 46 22 5 13 38.5 1 2 50.0 11 12 91.7 1 7 8 3 1 0 3 2 -6
+p78
+aVJohnny Newman NJN 03/30/2001 NJN @ TOR L 42 27 10 18 55.6 1 3 33.3 6 9 66.7 0 3 3 2 1 0 3 3 -10
+p79
+aVDoug Overton NJN 03/30/2001 NJN @ TOR L 36 9 4 8 50.0 1 2 50.0 0 0 - 0 3 3 5 0 0 2 2 2
+p80
+aVAaron Williams NJN 03/30/2001 NJN @ TOR L 31 18 7 11 63.6 0 0 - 4 5 80.0 3 6 9 0 0 4 2 3 -13
+p81
+aVEvan Eschmeyer NJN 03/30/2001 NJN @ TOR L 18 7 3 3 100.0 0 0 - 1 1 100.0 1 1 2 1 3 0 3 5 -2
+p82
+aVStephen Jackson NJN 03/28/2001 NJN vs. DEN W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 0 1
+p83
+aVKeith Van Horn NJN 03/28/2001 NJN vs. DEN W 45 25 10 25 40.0 3 5 60.0 2 2 100.0 3 4 7 2 1 0 1 0 3
+p84
+aVDoug Overton NJN 03/28/2001 NJN vs. DEN W 40 17 7 13 53.8 3 6 50.0 0 0 - 0 4 4 6 0 0 3 2 4
+p85
+aVLucious Harris NJN 03/28/2001 NJN vs. DEN W 42 21 9 16 56.3 2 4 50.0 1 2 50.0 1 11 12 5 1 0 2 2 5
+p86
+aVAaron Williams NJN 03/28/2001 NJN vs. DEN W 25 8 3 8 37.5 0 0 - 2 2 100.0 7 2 9 0 1 3 3 3 -8
+p87
+aVEvan Eschmeyer NJN 03/28/2001 NJN vs. DEN W 29 6 3 6 50.0 0 0 - 0 0 - 3 6 9 2 3 4 0 2 15
+p88
+aVMark Strickland NJN 03/28/2001 NJN vs. DEN W 14 8 4 7 57.1 0 0 - 0 2 0.0 2 1 3 2 0 0 0 0 9
+p89
+aVJohnny Newman NJN 03/28/2001 NJN vs. DEN W 39 12 3 15 20.0 0 1 0.0 6 7 85.7 0 2 2 1 1 2 2 2 -14
+p90
+aVAaron Williams NJN 03/25/2001 NJN @ MIN L 41 11 3 8 37.5 0 0 - 5 6 83.3 1 5 6 1 1 2 3 5 -3
+p91
+aVVladimir Stepania NJN 03/25/2001 NJN @ MIN L 14 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 0 1 0 2 -5
+p92
+aVKeith Van Horn NJN 03/25/2001 NJN @ MIN L 12 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -17
+p93
+aVSoumaila Samake NJN 03/25/2001 NJN @ MIN L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 10
+p94
+aVStephen Jackson NJN 03/25/2001 NJN @ MIN L 26 5 2 4 50.0 1 1 100.0 0 0 - 1 4 5 3 2 0 1 1 -4
+p95
+aVJohnny Newman NJN 03/25/2001 NJN @ MIN L 43 24 7 16 43.8 0 5 0.0 10 11 90.9 1 1 2 2 0 1 1 2 -13
+p96
+aVEvan Eschmeyer NJN 03/25/2001 NJN @ MIN L 27 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 0 1 3 5 -17
+p97
+aVLucious Harris NJN 03/25/2001 NJN @ MIN L 23 9 4 9 44.4 0 1 0.0 1 3 33.3 2 1 3 0 2 0 0 1 -5
+p98
+aVDoug Overton NJN 03/25/2001 NJN @ MIN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p99
+aVStephon Marbury NJN 03/25/2001 NJN @ MIN L 44 32 12 31 38.7 3 10 30.0 5 7 71.4 4 5 9 8 0 0 7 3 -15
+p100
+aVSoumaila Samake NJN 03/23/2001 NJN @ NYK W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 12
+p101
+aVStephen Jackson NJN 03/23/2001 NJN @ NYK W 29 10 4 13 30.8 0 3 0.0 2 2 100.0 2 2 4 1 1 0 3 4 -3
+p102
+aVJohnny Newman NJN 03/23/2001 NJN @ NYK W 47 26 7 15 46.7 1 4 25.0 11 14 78.6 0 4 4 1 2 0 1 3 7
+p103
+aVStephon Marbury NJN 03/23/2001 NJN @ NYK W 41 22 9 22 40.9 2 8 25.0 2 4 50.0 1 5 6 7 0 0 5 4 10
+p104
+aVDoug Overton NJN 03/23/2001 NJN @ NYK W 19 4 1 5 20.0 1 4 25.0 1 2 50.0 0 3 3 1 0 0 0 0 -10
+p105
+aVEvan Eschmeyer NJN 03/23/2001 NJN @ NYK W 27 4 2 4 50.0 0 0 - 0 0 - 3 7 10 1 1 2 0 6 4
+p106
+aVKeith Van Horn NJN 03/23/2001 NJN @ NYK W 42 19 7 16 43.8 1 1 100.0 4 4 100.0 2 11 13 2 0 0 4 1 7
+p107
+aVAaron Williams NJN 03/23/2001 NJN @ NYK W 19 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 2 2 4 1 6 3
+p108
+aVVladimir Stepania NJN 03/23/2001 NJN @ NYK W 10 2 0 0 - 0 0 - 2 2 100.0 1 2 3 2 0 1 1 3 15
+p109
+aVKenyon Martin NJN 03/22/2001 NJN vs. BOS L 28 22 10 16 62.5 0 0 - 2 2 100.0 0 5 5 1 1 1 1 3 -3
+p110
+aVAaron Williams NJN 03/22/2001 NJN vs. BOS L 32 9 3 6 50.0 0 0 - 3 3 100.0 1 1 2 1 0 4 2 3 -15
+p111
+aVDoug Overton NJN 03/22/2001 NJN vs. BOS L 22 3 1 8 12.5 1 6 16.7 0 0 - 0 2 2 4 0 0 2 1 -7
+p112
+aVStephen Jackson NJN 03/22/2001 NJN vs. BOS L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 4 3 -6
+p113
+aVSoumaila Samake NJN 03/22/2001 NJN vs. BOS L 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 4
+p114
+aVStephon Marbury NJN 03/22/2001 NJN vs. BOS L 38 17 5 9 55.6 1 3 33.3 6 7 85.7 0 7 7 11 0 0 5 1 -12
+p115
+aVVladimir Stepania NJN 03/22/2001 NJN vs. BOS L 12 8 3 5 60.0 0 1 0.0 2 2 100.0 2 2 4 0 0 0 1 0 11
+p116
+aVKeith Van Horn NJN 03/22/2001 NJN vs. BOS L 38 19 8 20 40.0 0 4 0.0 3 3 100.0 4 9 13 3 0 1 3 4 -22
+p117
+aVEvan Eschmeyer NJN 03/22/2001 NJN vs. BOS L 16 2 1 1 100.0 0 0 - 0 0 - 2 4 6 0 1 1 0 5 0
+p118
+aVJohnny Newman NJN 03/22/2001 NJN vs. BOS L 38 14 6 10 60.0 0 0 - 2 4 50.0 1 1 2 2 0 0 3 2 -25
+p119
+aVKeith Van Horn NJN 03/20/2001 NJN vs. VAN W 39 24 11 15 73.3 2 3 66.7 0 0 - 3 8 11 1 1 1 5 4 1
+p120
+aVAaron Williams NJN 03/20/2001 NJN vs. VAN W 25 8 2 5 40.0 0 0 - 4 4 100.0 2 5 7 2 0 2 2 4 -5
+p121
+aVStephen Jackson NJN 03/20/2001 NJN vs. VAN W 27 12 6 9 66.7 0 1 0.0 0 0 - 2 3 5 4 0 0 1 3 11
+p122
+aVSherman Douglas NJN 03/20/2001 NJN vs. VAN W 48 13 3 12 25.0 0 1 0.0 7 8 87.5 0 2 2 10 0 0 6 2 14
+p123
+aVKenyon Martin NJN 03/20/2001 NJN vs. VAN W 38 24 12 20 60.0 0 0 - 0 0 - 2 9 11 4 2 3 3 6 24
+p124
+aVEvan Eschmeyer NJN 03/20/2001 NJN vs. VAN W 23 7 3 7 42.9 0 0 - 1 1 100.0 5 7 12 0 0 0 1 4 19
+p125
+aVJohnny Newman NJN 03/20/2001 NJN vs. VAN W 40 16 6 13 46.2 0 0 - 4 5 80.0 0 2 2 3 2 0 3 4 6
+p126
+aVJohnny Newman NJN 03/18/2001 NJN @ DEN L 26 9 3 12 25.0 0 2 0.0 3 3 100.0 0 2 2 2 1 0 2 2 -10
+p127
+aVLucious Harris NJN 03/18/2001 NJN @ DEN L 39 12 6 15 40.0 0 2 0.0 0 0 - 3 5 8 1 1 0 1 1 -4
+p128
+aVKenyon Martin NJN 03/18/2001 NJN @ DEN L 36 17 7 15 46.7 0 2 0.0 3 3 100.0 2 6 8 2 1 0 3 4 0
+p129
+aVVladimir Stepania NJN 03/18/2001 NJN @ DEN L 3 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 0 1 2 0 6
+p130
+aVKeith Van Horn NJN 03/18/2001 NJN @ DEN L 35 14 3 16 18.8 1 2 50.0 7 7 100.0 2 3 5 0 0 0 1 3 -21
+p131
+aVAaron Williams NJN 03/18/2001 NJN @ DEN L 21 13 6 11 54.5 0 0 - 1 1 100.0 4 2 6 0 1 0 2 4 -22
+p132
+aVStephen Jackson NJN 03/18/2001 NJN @ DEN L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -10
+p133
+aVSoumaila Samake NJN 03/18/2001 NJN @ DEN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 2
+p134
+aVEvan Eschmeyer NJN 03/18/2001 NJN @ DEN L 16 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 1 1 0 3
+p135
+aVSherman Douglas NJN 03/18/2001 NJN @ DEN L 48 14 6 12 50.0 0 0 - 2 4 50.0 1 1 2 8 0 0 2 1 -14
+p136
+aVStephen Jackson NJN 03/16/2001 NJN @ SAS L 14 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 9
+p137
+aVLucious Harris NJN 03/16/2001 NJN @ SAS L 31 4 1 5 20.0 0 0 - 2 2 100.0 1 5 6 1 1 0 1 1 -21
+p138
+aVStephon Marbury NJN 03/16/2001 NJN @ SAS L 38 20 7 20 35.0 0 4 0.0 6 6 100.0 0 3 3 9 1 0 7 4 -20
+p139
+aVSherman Douglas NJN 03/16/2001 NJN @ SAS L 20 9 3 8 37.5 0 1 0.0 3 3 100.0 1 1 2 5 1 0 1 4 17
+p140
+aVEvan Eschmeyer NJN 03/16/2001 NJN @ SAS L 26 4 1 2 50.0 0 0 - 2 2 100.0 3 5 8 0 1 2 0 4 -1
+p141
+aVSoumaila Samake NJN 03/16/2001 NJN @ SAS L 29 3 1 3 33.3 0 0 - 1 2 50.0 2 5 7 0 0 1 1 5 -8
+p142
+aVKeith Van Horn NJN 03/16/2001 NJN @ SAS L 24 15 5 13 38.5 0 3 0.0 5 5 100.0 1 5 6 1 0 0 3 6 4
+p143
+aVAaron Williams NJN 03/16/2001 NJN @ SAS L 20 5 2 9 22.2 0 0 - 1 2 50.0 2 2 4 1 1 1 2 4 -4
+p144
+aVJohnny Newman NJN 03/16/2001 NJN @ SAS L 39 22 9 17 52.9 1 4 25.0 3 3 100.0 0 2 2 1 0 0 0 0 -21
+p145
+aVAaron Williams NJN 03/15/2001 NJN @ HOU L 25 13 6 11 54.5 0 0 - 1 3 33.3 2 4 6 2 0 0 0 2 -11
+p146
+aVSherman Douglas NJN 03/15/2001 NJN @ HOU L 19 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -3
+p147
+aVKeith Van Horn NJN 03/15/2001 NJN @ HOU L 45 21 9 15 60.0 3 4 75.0 0 0 - 0 6 6 2 0 0 1 3 1
+p148
+aVStephen Jackson NJN 03/15/2001 NJN @ HOU L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p149
+aVLucious Harris NJN 03/15/2001 NJN @ HOU L 31 10 4 8 50.0 1 1 100.0 1 1 100.0 1 3 4 1 0 0 1 4 -6
+p150
+aVJohnny Newman NJN 03/15/2001 NJN @ HOU L 41 19 6 13 46.2 4 6 66.7 3 5 60.0 0 4 4 4 0 0 3 1 -3
+p151
+aVStephon Marbury NJN 03/15/2001 NJN @ HOU L 46 34 15 26 57.7 1 4 25.0 3 3 100.0 0 2 2 9 3 0 2 3 5
+p152
+aVEvan Eschmeyer NJN 03/15/2001 NJN @ HOU L 26 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 1 0 1 1 3 6
+p153
+aVEvan Eschmeyer NJN 03/13/2001 NJN @ DAL L 20 11 5 9 55.6 0 0 - 1 1 100.0 3 5 8 1 1 1 1 2 -11
+p154
+aVLucious Harris NJN 03/13/2001 NJN @ DAL L 33 10 5 9 55.6 0 2 0.0 0 0 - 2 5 7 1 0 2 2 1 -17
+p155
+aVAaron Williams NJN 03/13/2001 NJN @ DAL L 26 10 5 9 55.6 0 0 - 0 0 - 1 2 3 2 1 2 3 4 -18
+p156
+aVStephen Jackson NJN 03/13/2001 NJN @ DAL L 19 11 3 8 37.5 0 4 0.0 5 5 100.0 1 1 2 2 1 1 1 5 -9
+p157
+aVVladimir Stepania NJN 03/13/2001 NJN @ DAL L 4 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 0 -3
+p158
+aVJohnny Newman NJN 03/13/2001 NJN @ DAL L 38 18 5 12 41.7 1 2 50.0 7 9 77.8 1 3 4 1 0 0 3 3 -25
+p159
+aVSoumaila Samake NJN 03/13/2001 NJN @ DAL L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p160
+aVSherman Douglas NJN 03/13/2001 NJN @ DAL L 20 2 0 3 0.0 0 2 0.0 2 4 50.0 0 2 2 2 0 0 2 2 -10
+p161
+aVKeith Van Horn NJN 03/13/2001 NJN @ DAL L 25 9 3 6 50.0 0 2 0.0 3 3 100.0 0 6 6 1 2 0 3 6 -4
+p162
+aVStephon Marbury NJN 03/13/2001 NJN @ DAL L 32 15 7 14 50.0 0 1 0.0 1 1 100.0 2 1 3 6 1 0 7 2 -17
+p163
+aVKenyon Martin NJN 03/13/2001 NJN @ DAL L 19 7 2 6 33.3 0 0 - 3 4 75.0 1 4 5 1 0 0 2 1 -3
+p164
+aVStephon Marbury NJN 03/10/2001 NJN @ WAS L 36 20 7 18 38.9 2 8 25.0 4 5 80.0 0 0 0 12 0 0 1 0 -8
+p165
+aVSoumaila Samake NJN 03/10/2001 NJN @ WAS L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -3
+p166
+aVEvan Eschmeyer NJN 03/10/2001 NJN @ WAS L 27 6 3 4 75.0 0 0 - 0 0 - 4 5 9 0 0 3 2 6 7
+p167
+aVKenyon Martin NJN 03/10/2001 NJN @ WAS L 40 21 10 15 66.7 0 0 - 1 2 50.0 2 7 9 2 1 2 3 5 -4
+p168
+aVAaron Williams NJN 03/10/2001 NJN @ WAS L 15 12 4 7 57.1 0 0 - 4 5 80.0 2 1 3 0 1 0 0 6 -2
+p169
+aVKeith Van Horn NJN 03/10/2001 NJN @ WAS L 39 18 7 13 53.8 2 3 66.7 2 2 100.0 4 5 9 2 1 0 2 5 0
+p170
+aVJohnny Newman NJN 03/10/2001 NJN @ WAS L 37 12 4 18 22.2 0 2 0.0 4 4 100.0 3 8 11 2 0 0 2 2 -4
+p171
+aVSherman Douglas NJN 03/10/2001 NJN @ WAS L 18 9 4 9 44.4 0 1 0.0 1 1 100.0 1 1 2 2 0 0 1 0 1
+p172
+aVStephen Jackson NJN 03/10/2001 NJN @ WAS L 24 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 2 3 -17
+p173
+aVStephon Marbury NJN 03/09/2001 NJN vs. NYK W 41 12 5 15 33.3 2 7 28.6 0 0 - 1 4 5 12 1 0 2 4 2
+p174
+aVEvan Eschmeyer NJN 03/09/2001 NJN vs. NYK W 19 8 3 6 50.0 0 0 - 2 3 66.7 5 4 9 0 1 0 0 5 9
+p175
+aVKenyon Martin NJN 03/09/2001 NJN vs. NYK W 35 14 4 13 30.8 0 0 - 6 6 100.0 2 10 12 2 0 3 5 6 8
+p176
+aVKeith Van Horn NJN 03/09/2001 NJN vs. NYK W 39 20 8 18 44.4 1 5 20.0 3 4 75.0 1 10 11 2 1 1 3 4 13
+p177
+aVJohnny Newman NJN 03/09/2001 NJN vs. NYK W 45 18 6 16 37.5 1 4 25.0 5 6 83.3 2 1 3 4 3 1 0 2 11
+p178
+aVSherman Douglas NJN 03/09/2001 NJN vs. NYK W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 11
+p179
+aVAaron Williams NJN 03/09/2001 NJN vs. NYK W 28 9 3 6 50.0 0 0 - 3 4 75.0 2 6 8 0 0 2 0 4 -2
+p180
+aVStephen Jackson NJN 03/09/2001 NJN vs. NYK W 26 13 5 8 62.5 2 4 50.0 1 2 50.0 1 5 6 2 2 0 2 4 13
+p181
+aVKenyon Martin NJN 03/07/2001 NJN @ PHI L 45 14 6 13 46.2 0 2 0.0 2 2 100.0 0 6 6 1 4 0 2 2 -10
+p182
+aVStephen Jackson NJN 03/07/2001 NJN @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p183
+aVAaron Williams NJN 03/07/2001 NJN @ PHI L 27 11 4 6 66.7 0 0 - 3 4 75.0 0 1 1 0 0 2 0 4 -16
+p184
+aVKeith Van Horn NJN 03/07/2001 NJN @ PHI L 44 21 7 14 50.0 3 7 42.9 4 4 100.0 3 2 5 2 4 0 3 3 -2
+p185
+aVJohnny Newman NJN 03/07/2001 NJN @ PHI L 23 10 4 6 66.7 1 2 50.0 1 2 50.0 0 1 1 1 1 0 3 4 -11
+p186
+aVSherman Douglas NJN 03/07/2001 NJN @ PHI L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p187
+aVEvan Eschmeyer NJN 03/07/2001 NJN @ PHI L 25 7 3 4 75.0 0 0 - 1 2 50.0 5 3 8 2 1 2 0 4 5
+p188
+aVLucious Harris NJN 03/07/2001 NJN @ PHI L 25 9 3 7 42.9 1 2 50.0 2 2 100.0 0 3 3 4 1 0 2 2 0
+p189
+aVStephon Marbury NJN 03/07/2001 NJN @ PHI L 43 20 8 24 33.3 2 9 22.2 2 2 100.0 0 3 3 14 2 1 7 4 -7
+p190
+aVSherman Douglas NJN 03/05/2001 NJN vs. MIL L 16 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 2 0 3 0 -14
+p191
+aVJohnny Newman NJN 03/05/2001 NJN vs. MIL L 18 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 0 0 0 1 0 -13
+p192
+aVLucious Harris NJN 03/05/2001 NJN vs. MIL L 37 17 7 14 50.0 3 6 50.0 0 0 - 0 5 5 2 2 1 2 3 -4
+p193
+aVEvan Eschmeyer NJN 03/05/2001 NJN vs. MIL L 19 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 11
+p194
+aVKenyon Martin NJN 03/05/2001 NJN vs. MIL L 45 18 7 16 43.8 1 1 100.0 3 4 75.0 5 10 15 11 2 3 4 4 2
+p195
+aVKeith Van Horn NJN 03/05/2001 NJN vs. MIL L 36 15 5 13 38.5 3 9 33.3 2 4 50.0 0 8 8 3 0 0 0 5 2
+p196
+aVAaron Williams NJN 03/05/2001 NJN vs. MIL L 28 16 6 10 60.0 0 0 - 4 5 80.0 4 3 7 0 0 0 3 4 -22
+p197
+aVStephon Marbury NJN 03/05/2001 NJN vs. MIL L 42 20 5 20 25.0 0 8 0.0 10 11 90.9 3 0 3 9 1 1 1 1 3
+p198
+aVKeith Van Horn NJN 03/04/2001 NJN @ IND W 37 23 7 15 46.7 3 6 50.0 6 7 85.7 0 7 7 1 0 1 1 3 24
+p199
+aVStephen Jackson NJN 03/04/2001 NJN @ IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 1 0 0 1 4
+p200
+aVLucious Harris NJN 03/04/2001 NJN @ IND W 38 7 2 8 25.0 1 3 33.3 2 2 100.0 0 5 5 3 1 0 1 6 8
+p201
+aVEvan Eschmeyer NJN 03/04/2001 NJN @ IND W 14 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 5 2
+p202
+aVKenyon Martin NJN 03/04/2001 NJN @ IND W 36 19 8 19 42.1 0 0 - 3 3 100.0 3 3 6 5 2 1 2 4 13
+p203
+aVSherman Douglas NJN 03/04/2001 NJN @ IND W 9 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 2 0 0 1 1 6
+p204
+aVJohnny Newman NJN 03/04/2001 NJN @ IND W 27 23 8 12 66.7 4 5 80.0 3 4 75.0 0 2 2 1 0 1 0 3 19
+p205
+aVAaron Williams NJN 03/04/2001 NJN @ IND W 30 10 5 7 71.4 0 0 - 0 0 - 3 5 8 3 1 0 1 1 18
+p206
+aVVladimir Stepania NJN 03/04/2001 NJN @ IND W 3 3 1 2 50.0 0 0 - 1 1 100.0 1 2 3 1 0 0 0 0 4
+p207
+aVSoumaila Samake NJN 03/04/2001 NJN @ IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p208
+aVStephon Marbury NJN 03/04/2001 NJN @ IND W 39 25 8 15 53.3 4 6 66.7 5 8 62.5 1 2 3 10 3 0 1 1 18
+p209
+aVAaron Williams NJN 03/02/2001 NJN @ TOR L 26 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 1 1 1 3 -24
+p210
+aVKenyon Martin NJN 03/02/2001 NJN @ TOR L 44 26 11 16 68.8 0 0 - 4 5 80.0 2 6 8 2 1 0 1 4 -11
+p211
+aVEvan Eschmeyer NJN 03/02/2001 NJN @ TOR L 19 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 2 0 3 12
+p212
+aVLucious Harris NJN 03/02/2001 NJN @ TOR L 36 9 2 7 28.6 1 1 100.0 4 6 66.7 1 2 3 4 1 0 1 1 -11
+p213
+aVStephen Jackson NJN 03/02/2001 NJN @ TOR L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -8
+p214
+aVStephon Marbury NJN 03/02/2001 NJN @ TOR L 44 26 6 24 25.0 2 8 25.0 12 15 80.0 2 2 4 9 0 0 1 0 -10
+p215
+aVJohnny Newman NJN 03/02/2001 NJN @ TOR L 21 7 2 8 25.0 1 3 33.3 2 2 100.0 0 0 0 0 0 0 0 3 -21
+p216
+aVKeith Van Horn NJN 03/02/2001 NJN @ TOR L 46 18 6 14 42.9 2 4 50.0 4 6 66.7 0 7 7 2 0 1 0 2 -12
+p217
+aVStephen Jackson NJN 02/28/2001 NJN @ CHH L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p218
+aVKenyon Martin NJN 02/28/2001 NJN @ CHH L 37 10 4 7 57.1 0 0 - 2 2 100.0 0 9 9 4 1 2 4 5 -20
+p219
+aVKeith Van Horn NJN 02/28/2001 NJN @ CHH L 46 15 7 18 38.9 1 5 20.0 0 0 - 2 2 4 3 1 1 2 4 -2
+p220
+aVLucious Harris NJN 02/28/2001 NJN @ CHH L 33 10 3 8 37.5 1 4 25.0 3 4 75.0 1 4 5 2 1 0 2 3 -3
+p221
+aVJohnny Newman NJN 02/28/2001 NJN @ CHH L 24 15 6 10 60.0 1 3 33.3 2 4 50.0 0 1 1 1 2 0 2 5 1
+p222
+aVStephon Marbury NJN 02/28/2001 NJN @ CHH L 46 19 8 22 36.4 1 4 25.0 2 2 100.0 0 2 2 8 2 0 2 1 -2
+p223
+aVEvan Eschmeyer NJN 02/28/2001 NJN @ CHH L 23 9 3 5 60.0 0 0 - 3 6 50.0 1 8 9 0 0 1 0 2 -6
+p224
+aVSoumaila Samake NJN 02/28/2001 NJN @ CHH L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 5
+p225
+aVAaron Williams NJN 02/28/2001 NJN @ CHH L 24 10 2 4 50.0 0 0 - 6 8 75.0 0 5 5 0 0 0 0 4 5
+p226
+aVStephon Marbury NJN 02/25/2001 NJN vs. WAS W 31 20 9 13 69.2 1 2 50.0 1 1 100.0 0 3 3 3 1 0 4 1 10
+p227
+aVAaron Williams NJN 02/25/2001 NJN vs. WAS W 30 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 1 0 5 3 4 -7
+p228
+aVJohnny Newman NJN 02/25/2001 NJN vs. WAS W 28 13 6 11 54.5 0 1 0.0 1 1 100.0 0 2 2 2 3 1 0 4 4
+p229
+aVSoumaila Samake NJN 02/25/2001 NJN vs. WAS W 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -11
+p230
+aVKenyon Martin NJN 02/25/2001 NJN vs. WAS W 24 12 5 13 38.5 0 0 - 2 5 40.0 0 5 5 3 0 3 0 4 8
+p231
+aVStephen Jackson NJN 02/25/2001 NJN vs. WAS W 15 8 3 7 42.9 0 1 0.0 2 2 100.0 0 2 2 1 2 1 1 1 4
+p232
+aVSherman Douglas NJN 02/25/2001 NJN vs. WAS W 22 8 4 7 57.1 0 1 0.0 0 0 - 0 3 3 6 0 0 1 2 0
+p233
+aVEvan Eschmeyer NJN 02/25/2001 NJN vs. WAS W 18 4 1 2 50.0 0 0 - 2 4 50.0 1 4 5 2 1 2 0 3 17
+p234
+aVLucious Harris NJN 02/25/2001 NJN vs. WAS W 30 9 3 9 33.3 1 1 100.0 2 2 100.0 1 3 4 6 0 1 0 1 6
+p235
+aVKeith Van Horn NJN 02/25/2001 NJN vs. WAS W 39 21 7 13 53.8 1 3 33.3 6 8 75.0 2 6 8 2 2 0 4 4 19
+p236
+aVJohnny Newman NJN 02/24/2001 NJN @ MIA L 26 17 7 14 50.0 1 4 25.0 2 3 66.7 0 2 2 0 0 0 1 3 8
+p237
+aVKenyon Martin NJN 02/24/2001 NJN @ MIA L 31 7 3 10 30.0 0 2 0.0 1 2 50.0 0 7 7 1 1 1 2 2 -15
+p238
+aVStephon Marbury NJN 02/24/2001 NJN @ MIA L 33 10 3 12 25.0 0 4 0.0 4 4 100.0 0 0 0 9 1 0 2 1 -3
+p239
+aVAaron Williams NJN 02/24/2001 NJN @ MIA L 31 10 4 7 57.1 0 1 0.0 2 2 100.0 3 8 11 1 2 0 0 3 -1
+p240
+aVStephen Jackson NJN 02/24/2001 NJN @ MIA L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 1 0 2
+p241
+aVLucious Harris NJN 02/24/2001 NJN @ MIA L 29 7 2 8 25.0 1 2 50.0 2 2 100.0 0 3 3 1 1 0 1 2 -7
+p242
+aVEvan Eschmeyer NJN 02/24/2001 NJN @ MIA L 17 3 1 1 100.0 0 0 - 1 2 50.0 3 3 6 0 0 2 1 5 -4
+p243
+aVKeith Van Horn NJN 02/24/2001 NJN @ MIA L 32 9 4 12 33.3 1 5 20.0 0 0 - 1 4 5 1 0 0 2 4 -8
+p244
+aVSoumaila Samake NJN 02/24/2001 NJN @ MIA L 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 5
+p245
+aVSherman Douglas NJN 02/24/2001 NJN @ MIA L 20 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -2
+p246
+aVKeith Van Horn NJN 02/21/2001 NJN vs. TOR W 36 28 10 16 62.5 5 8 62.5 3 4 75.0 0 8 8 1 0 1 2 2 -2
+p247
+aVStephon Marbury NJN 02/21/2001 NJN vs. TOR W 45 35 10 19 52.6 4 7 57.1 11 14 78.6 0 2 2 14 1 0 3 1 0
+p248
+aVAaron Williams NJN 02/21/2001 NJN vs. TOR W 28 11 5 6 83.3 0 0 - 1 2 50.0 1 4 5 0 2 1 1 3 -2
+p249
+aVKenyon Martin NJN 02/21/2001 NJN vs. TOR W 35 15 7 16 43.8 0 0 - 1 2 50.0 0 5 5 4 0 2 3 5 5
+p250
+aVJamie Feick NJN 02/21/2001 NJN vs. TOR W 12 0 0 1 0.0 0 0 - 0 0 - 2 4 6 0 1 0 1 1 4
+p251
+aVStephen Jackson NJN 02/21/2001 NJN vs. TOR W 12 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 3 1
+p252
+aVEvan Eschmeyer NJN 02/21/2001 NJN vs. TOR W 20 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 1 0 0 4 4
+p253
+aVJohnny Newman NJN 02/21/2001 NJN vs. TOR W 16 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 0 2 0 0 4 -2
+p254
+aVLucious Harris NJN 02/21/2001 NJN vs. TOR W 37 16 5 8 62.5 4 4 100.0 2 2 100.0 2 2 4 0 0 1 0 3 2
+p255
+aVKeith Van Horn NJN 02/18/2001 NJN vs. LAC W 36 14 5 18 27.8 2 7 28.6 2 2 100.0 2 4 6 2 1 1 5 2 21
+p256
+aVStephen Jackson NJN 02/18/2001 NJN vs. LAC W 11 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 1 1 2 0 -9
+p257
+aVLucious Harris NJN 02/18/2001 NJN vs. LAC W 43 18 3 9 33.3 2 4 50.0 10 10 100.0 1 5 6 1 4 0 4 3 7
+p258
+aVJohnny Newman NJN 02/18/2001 NJN vs. LAC W 17 7 2 8 25.0 0 1 0.0 3 4 75.0 0 0 0 1 0 0 1 3 -8
+p259
+aVKenyon Martin NJN 02/18/2001 NJN vs. LAC W 41 10 3 10 30.0 0 0 - 4 4 100.0 3 10 13 3 3 2 2 5 4
+p260
+aVJamie Feick NJN 02/18/2001 NJN vs. LAC W 23 1 0 2 0.0 0 0 - 1 2 50.0 0 5 5 0 1 0 2 2 -7
+p261
+aVStephon Marbury NJN 02/18/2001 NJN vs. LAC W 49 33 12 25 48.0 4 8 50.0 5 5 100.0 0 4 4 9 2 0 2 2 15
+p262
+aVEvan Eschmeyer NJN 02/18/2001 NJN vs. LAC W 16 7 3 3 100.0 0 0 - 1 2 50.0 2 2 4 0 1 1 0 3 4
+p263
+aVAaron Williams NJN 02/18/2001 NJN vs. LAC W 28 9 3 6 50.0 0 0 - 3 3 100.0 4 3 7 0 0 3 2 3 3
+p264
+aVEvan Eschmeyer NJN 02/16/2001 NJN @ NYK L 17 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 3 -16
+p265
+aVKeith Van Horn NJN 02/16/2001 NJN @ NYK L 18 2 1 5 20.0 0 1 0.0 0 0 - 2 3 5 1 0 0 1 5 -9
+p266
+aVJamie Feick NJN 02/16/2001 NJN @ NYK L 30 6 1 2 50.0 0 0 - 4 6 66.7 2 7 9 2 2 0 1 3 6
+p267
+aVJohnny Newman NJN 02/16/2001 NJN @ NYK L 25 24 9 12 75.0 2 2 100.0 4 5 80.0 1 3 4 1 0 0 1 6 1
+p268
+aVLucious Harris NJN 02/16/2001 NJN @ NYK L 33 14 5 12 41.7 2 2 100.0 2 2 100.0 1 4 5 1 0 0 0 0 -5
+p269
+aVStephen Jackson NJN 02/16/2001 NJN @ NYK L 17 9 3 4 75.0 1 2 50.0 2 2 100.0 0 2 2 1 1 0 0 1 -1
+p270
+aVKenyon Martin NJN 02/16/2001 NJN @ NYK L 27 8 3 7 42.9 0 0 - 2 2 100.0 2 8 10 2 1 0 3 3 -17
+p271
+aVStephon Marbury NJN 02/16/2001 NJN @ NYK L 44 28 11 26 42.3 2 6 33.3 4 4 100.0 2 0 2 9 0 0 7 3 -12
+p272
+aVSherman Douglas NJN 02/16/2001 NJN @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p273
+aVAaron Williams NJN 02/16/2001 NJN @ NYK L 25 11 5 9 55.6 0 0 - 1 4 25.0 4 1 5 1 0 0 1 2 1
+p274
+aVAaron Williams NJN 02/14/2001 NJN @ DET L 22 13 5 10 50.0 0 0 - 3 3 100.0 6 0 6 0 1 0 1 2 -13
+p275
+aVKenyon Martin NJN 02/14/2001 NJN @ DET L 28 10 5 11 45.5 0 0 - 0 2 0.0 2 5 7 2 0 2 3 2 -16
+p276
+aVJamie Feick NJN 02/14/2001 NJN @ DET L 31 9 4 7 57.1 0 0 - 1 2 50.0 4 10 14 1 2 2 1 1 -18
+p277
+aVEvan Eschmeyer NJN 02/14/2001 NJN @ DET L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -5
+p278
+aVStephon Marbury NJN 02/14/2001 NJN @ DET L 30 12 5 12 41.7 1 5 20.0 1 2 50.0 0 2 2 5 2 0 4 1 -10
+p279
+aVJohnny Newman NJN 02/14/2001 NJN @ DET L 24 2 0 6 0.0 0 0 - 2 2 100.0 0 2 2 4 1 0 2 1 -1
+p280
+aVVladimir Stepania NJN 02/14/2001 NJN @ DET L 8 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 2 0 2 2 -1
+p281
+aVLucious Harris NJN 02/14/2001 NJN @ DET L 24 8 3 10 30.0 1 5 20.0 1 2 50.0 0 1 1 3 1 0 1 0 -12
+p282
+aVKeith Van Horn NJN 02/14/2001 NJN @ DET L 15 5 2 5 40.0 0 0 - 1 3 33.3 1 3 4 2 0 0 3 3 -6
+p283
+aVSoumaila Samake NJN 02/14/2001 NJN @ DET L 4 2 0 1 0.0 0 0 - 2 4 50.0 0 2 2 0 0 1 0 1 3
+p284
+aVSherman Douglas NJN 02/14/2001 NJN @ DET L 18 4 1 3 33.3 0 2 0.0 2 2 100.0 0 0 0 1 0 0 4 2 -9
+p285
+aVStephen Jackson NJN 02/14/2001 NJN @ DET L 24 17 8 14 57.1 0 3 0.0 1 1 100.0 0 0 0 2 3 0 0 2 -7
+p286
+aVAaron Williams NJN 02/13/2001 NJN vs. LAL L 19 5 1 2 50.0 0 0 - 3 7 42.9 2 0 2 1 1 1 0 5 -7
+p287
+aVKenyon Martin NJN 02/13/2001 NJN vs. LAL L 35 10 4 10 40.0 0 0 - 2 2 100.0 0 2 2 3 0 0 4 6 -4
+p288
+aVJamie Feick NJN 02/13/2001 NJN vs. LAL L 30 4 2 6 33.3 0 0 - 0 0 - 2 11 13 0 0 0 0 5 13
+p289
+aVEvan Eschmeyer NJN 02/13/2001 NJN vs. LAL L 15 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 5 -3
+p290
+aVStephon Marbury NJN 02/13/2001 NJN vs. LAL L 47 50 17 29 58.6 4 8 50.0 12 16 75.0 2 1 3 12 0 0 5 4 -5
+p291
+aVLucious Harris NJN 02/13/2001 NJN vs. LAL L 39 14 6 11 54.5 2 3 66.7 0 0 - 0 4 4 3 2 0 0 2 0
+p292
+aVKeith Van Horn NJN 02/13/2001 NJN vs. LAL L 44 20 8 17 47.1 2 3 66.7 2 2 100.0 4 4 8 1 2 0 1 2 -4
+p293
+aVSherman Douglas NJN 02/13/2001 NJN vs. LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p294
+aVJohnny Newman NJN 02/13/2001 NJN vs. LAL L 24 7 1 6 16.7 0 2 0.0 5 5 100.0 0 2 2 0 1 0 2 3 -9
+p295
+aVStephen Jackson NJN 02/13/2001 NJN vs. LAL L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p296
+aVEvan Eschmeyer NJN 02/08/2001 NJN vs. SAS W 22 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -2
+p297
+aVAaron Williams NJN 02/08/2001 NJN vs. SAS W 22 3 0 7 0.0 0 0 - 3 4 75.0 4 3 7 1 0 1 1 3 8
+p298
+aVSherman Douglas NJN 02/08/2001 NJN vs. SAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 2
+p299
+aVJohnny Newman NJN 02/08/2001 NJN vs. SAS W 28 25 7 9 77.8 2 2 100.0 9 10 90.0 0 1 1 0 0 0 2 3 9
+p300
+aVKenyon Martin NJN 02/08/2001 NJN vs. SAS W 36 9 4 12 33.3 0 0 - 1 1 100.0 1 8 9 1 0 0 0 5 -9
+p301
+aVStephen Jackson NJN 02/08/2001 NJN vs. SAS W 13 14 4 6 66.7 1 1 100.0 5 6 83.3 0 1 1 0 1 0 0 0 7
+p302
+aVKeith Van Horn NJN 02/08/2001 NJN vs. SAS W 25 4 2 6 33.3 0 0 - 0 0 - 0 7 7 1 1 0 1 4 1
+p303
+aVLucious Harris NJN 02/08/2001 NJN vs. SAS W 25 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 1 2 0 1 2 0
+p304
+aVStephon Marbury NJN 02/08/2001 NJN vs. SAS W 40 38 14 25 56.0 4 8 50.0 6 7 85.7 0 2 2 9 4 0 0 0 0
+p305
+aVJamie Feick NJN 02/08/2001 NJN vs. SAS W 22 2 1 5 20.0 0 0 - 0 2 0.0 2 7 9 2 2 1 2 3 -6
+p306
+aVSoumaila Samake NJN 02/06/2001 NJN vs. ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p307
+aVSherman Douglas NJN 02/06/2001 NJN vs. ATL W 11 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 -2
+p308
+aVEvan Eschmeyer NJN 02/06/2001 NJN vs. ATL W 15 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 2 2 6 7
+p309
+aVKeith Van Horn NJN 02/06/2001 NJN vs. ATL W 46 23 7 21 33.3 2 3 66.7 7 7 100.0 4 8 12 2 4 0 4 5 3
+p310
+aVJohnny Newman NJN 02/06/2001 NJN vs. ATL W 15 11 2 6 33.3 1 4 25.0 6 7 85.7 0 0 0 1 1 1 1 0 -2
+p311
+aVStephen Jackson NJN 02/06/2001 NJN vs. ATL W 16 7 3 7 42.9 0 1 0.0 1 1 100.0 1 1 2 1 1 0 1 4 5
+p312
+aVLucious Harris NJN 02/06/2001 NJN vs. ATL W 30 9 4 8 50.0 1 1 100.0 0 0 - 0 3 3 0 1 1 0 1 5
+p313
+aVKenyon Martin NJN 02/06/2001 NJN vs. ATL W 38 10 4 11 36.4 0 1 0.0 2 4 50.0 1 4 5 4 3 4 4 4 7
+p314
+aVStephon Marbury NJN 02/06/2001 NJN vs. ATL W 37 16 5 10 50.0 0 0 - 6 9 66.7 1 4 5 9 1 0 3 3 8
+p315
+aVAaron Williams NJN 02/06/2001 NJN vs. ATL W 32 8 2 8 25.0 0 0 - 4 4 100.0 3 4 7 0 2 2 0 6 1
+p316
+aVSherman Douglas NJN 02/04/2001 NJN vs. PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -8
+p317
+aVStephon Marbury NJN 02/04/2001 NJN vs. PHI W 45 34 11 23 47.8 3 8 37.5 9 10 90.0 0 4 4 9 1 0 6 5 13
+p318
+aVJohnny Newman NJN 02/04/2001 NJN vs. PHI W 23 8 3 7 42.9 1 2 50.0 1 2 50.0 1 0 1 1 0 0 2 4 5
+p319
+aVAaron Williams NJN 02/04/2001 NJN vs. PHI W 27 10 2 8 25.0 0 0 - 6 8 75.0 5 6 11 2 0 2 1 2 2
+p320
+aVEvan Eschmeyer NJN 02/04/2001 NJN vs. PHI W 25 4 2 4 50.0 0 0 - 0 0 - 3 8 11 2 0 2 0 3 3
+p321
+aVKenyon Martin NJN 02/04/2001 NJN vs. PHI W 36 20 9 17 52.9 0 0 - 2 3 66.7 4 7 11 0 1 4 3 4 12
+p322
+aVStephen Jackson NJN 02/04/2001 NJN vs. PHI W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 2 3 -11
+p323
+aVKeith Van Horn NJN 02/04/2001 NJN vs. PHI W 40 20 7 18 38.9 1 5 20.0 5 5 100.0 4 3 7 1 1 1 3 1 13
+p324
+aVLucious Harris NJN 02/04/2001 NJN vs. PHI W 32 0 0 4 0.0 0 0 - 0 0 - 0 6 6 2 1 0 0 1 6
+p325
+aVStephen Jackson NJN 02/02/2001 NJN vs. NYK L 30 9 4 10 40.0 1 2 50.0 0 0 - 1 4 5 4 1 1 1 5 -10
+p326
+aVLucious Harris NJN 02/02/2001 NJN vs. NYK L 30 8 4 9 44.4 0 1 0.0 0 0 - 0 3 3 4 0 0 2 2 -16
+p327
+aVJohnny Newman NJN 02/02/2001 NJN vs. NYK L 26 12 3 10 30.0 0 3 0.0 6 6 100.0 0 1 1 0 1 0 2 4 -23
+p328
+aVEvan Eschmeyer NJN 02/02/2001 NJN vs. NYK L 15 5 2 2 100.0 0 0 - 1 1 100.0 1 3 4 0 1 1 0 1 6
+p329
+aVAaron Williams NJN 02/02/2001 NJN vs. NYK L 30 11 4 10 40.0 0 0 - 3 5 60.0 5 2 7 0 0 1 2 4 -15
+p330
+aVStephon Marbury NJN 02/02/2001 NJN vs. NYK L 43 14 5 14 35.7 0 1 0.0 4 6 66.7 0 3 3 5 0 0 0 1 -24
+p331
+aVKenyon Martin NJN 02/02/2001 NJN vs. NYK L 40 6 3 11 27.3 0 0 - 0 0 - 0 8 8 2 0 1 2 4 -22
+p332
+aVSoumaila Samake NJN 02/02/2001 NJN vs. NYK L 8 1 0 1 0.0 0 0 - 1 4 25.0 1 3 4 0 0 1 0 0 -12
+p333
+aVSherman Douglas NJN 02/02/2001 NJN vs. NYK L 19 5 0 5 0.0 0 2 0.0 5 6 83.3 2 1 3 1 0 0 0 3 -4
+p334
+aVEvan Eschmeyer NJN 01/31/2001 NJN vs. DET L 13 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 4
+p335
+aVKeith Van Horn NJN 01/31/2001 NJN vs. DET L 37 19 5 17 29.4 1 3 33.3 8 10 80.0 1 6 7 2 1 1 1 4 -10
+p336
+aVAaron Williams NJN 01/31/2001 NJN vs. DET L 38 13 5 9 55.6 0 0 - 3 4 75.0 3 5 8 2 0 0 2 6 -6
+p337
+aVKenyon Martin NJN 01/31/2001 NJN vs. DET L 15 8 4 8 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 3 -4
+p338
+aVSherman Douglas NJN 01/31/2001 NJN vs. DET L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 0 0 1 4 -8
+p339
+aVStephon Marbury NJN 01/31/2001 NJN vs. DET L 37 18 5 12 41.7 0 1 0.0 8 14 57.1 0 2 2 8 5 0 0 3 -6
+p340
+aVLucious Harris NJN 01/31/2001 NJN vs. DET L 38 14 6 11 54.5 0 1 0.0 2 2 100.0 0 3 3 2 3 0 0 0 -11
+p341
+aVStephen Jackson NJN 01/31/2001 NJN vs. DET L 16 8 3 7 42.9 1 3 33.3 1 2 50.0 1 2 3 3 0 1 1 1 4
+p342
+aVJohnny Newman NJN 01/31/2001 NJN vs. DET L 32 21 6 17 35.3 2 6 33.3 7 8 87.5 1 2 3 3 4 0 2 6 -8
+p343
+aVStephen Jackson NJN 01/29/2001 NJN @ VAN L 25 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 1 2 4 -15
+p344
+aVAaron Williams NJN 01/29/2001 NJN @ VAN L 32 13 6 10 60.0 0 0 - 1 2 50.0 2 7 9 2 0 0 2 5 -9
+p345
+aVSherman Douglas NJN 01/29/2001 NJN @ VAN L 18 3 1 7 14.3 0 1 0.0 1 2 50.0 1 1 2 3 0 0 0 0 -21
+p346
+aVKenyon Martin NJN 01/29/2001 NJN @ VAN L 41 19 9 14 64.3 0 0 - 1 2 50.0 3 6 9 2 1 4 3 4 1
+p347
+aVEvan Eschmeyer NJN 01/29/2001 NJN @ VAN L 22 8 2 2 100.0 0 0 - 4 5 80.0 1 3 4 1 0 0 0 3 14
+p348
+aVJohnny Newman NJN 01/29/2001 NJN @ VAN L 33 12 4 10 40.0 1 4 25.0 3 4 75.0 0 2 2 0 1 0 3 5 -18
+p349
+aVStephon Marbury NJN 01/29/2001 NJN @ VAN L 41 19 7 22 31.8 2 7 28.6 3 7 42.9 0 2 2 11 1 0 1 4 0
+p350
+aVKeith Van Horn NJN 01/29/2001 NJN @ VAN L 15 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 0 0 0 2 6 -17
+p351
+aVLucious Harris NJN 01/29/2001 NJN @ VAN L 13 7 3 6 50.0 0 1 0.0 1 1 100.0 0 3 3 0 1 0 0 0 10
+p352
+aVLucious Harris NJN 01/27/2001 NJN @ SEA L 28 15 7 15 46.7 0 2 0.0 1 1 100.0 2 5 7 1 3 0 1 3 -11
+p353
+aVKeith Van Horn NJN 01/27/2001 NJN @ SEA L 33 4 1 12 8.3 0 3 0.0 2 4 50.0 1 8 9 1 0 0 1 4 -12
+p354
+aVEvan Eschmeyer NJN 01/27/2001 NJN @ SEA L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 2
+p355
+aVSherman Douglas NJN 01/27/2001 NJN @ SEA L 18 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 2 2 0 1 1 0
+p356
+aVKenyon Martin NJN 01/27/2001 NJN @ SEA L 31 16 6 11 54.5 0 0 - 4 4 100.0 4 2 6 0 0 1 0 5 -2
+p357
+aVAaron Williams NJN 01/27/2001 NJN @ SEA L 34 7 2 6 33.3 0 0 - 3 3 100.0 1 8 9 4 1 0 1 5 -18
+p358
+aVStephen Jackson NJN 01/27/2001 NJN @ SEA L 17 4 1 6 16.7 0 1 0.0 2 4 50.0 1 0 1 2 4 0 3 2 -7
+p359
+aVStephon Marbury NJN 01/27/2001 NJN @ SEA L 38 29 10 20 50.0 4 7 57.1 5 6 83.3 0 0 0 9 1 0 0 2 -1
+p360
+aVJohnny Newman NJN 01/27/2001 NJN @ SEA L 33 17 6 12 50.0 3 5 60.0 2 2 100.0 0 3 3 1 0 0 1 1 4
+p361
+aVKendall Gill NJN 01/26/2001 NJN @ LAL L 20 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 1 2
+p362
+aVKenyon Martin NJN 01/26/2001 NJN @ LAL L 27 9 4 6 66.7 0 0 - 1 2 50.0 1 2 3 2 0 1 2 5 -13
+p363
+aVLucious Harris NJN 01/26/2001 NJN @ LAL L 28 7 2 6 33.3 0 0 - 3 4 75.0 3 4 7 2 0 0 1 1 -14
+p364
+aVStephon Marbury NJN 01/26/2001 NJN @ LAL L 35 33 11 25 44.0 3 7 42.9 8 12 66.7 0 2 2 3 1 0 1 2 -14
+p365
+aVKeith Van Horn NJN 01/26/2001 NJN @ LAL L 42 25 10 19 52.6 2 5 40.0 3 4 75.0 0 4 4 3 3 0 2 1 -10
+p366
+aVAaron Williams NJN 01/26/2001 NJN @ LAL L 23 9 4 6 66.7 0 0 - 1 1 100.0 3 2 5 0 2 1 0 4 -9
+p367
+aVSherman Douglas NJN 01/26/2001 NJN @ LAL L 16 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 1 2 0 2 3 4
+p368
+aVEvan Eschmeyer NJN 01/26/2001 NJN @ LAL L 24 0 0 2 0.0 0 0 - 0 0 - 2 5 7 2 0 0 0 3 -3
+p369
+aVJohnny Newman NJN 01/26/2001 NJN @ LAL L 24 6 3 8 37.5 0 5 0.0 0 0 - 0 3 3 1 0 0 0 3 -3
+p370
+aVSherman Douglas NJN 01/24/2001 NJN @ GSW L 16 1 0 4 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 3 2 -15
+p371
+aVSoumaila Samake NJN 01/24/2001 NJN @ GSW L 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p372
+aVEvan Eschmeyer NJN 01/24/2001 NJN @ GSW L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 1
+p373
+aVJohnny Newman NJN 01/24/2001 NJN @ GSW L 21 13 5 8 62.5 1 2 50.0 2 3 66.7 2 2 4 1 1 0 2 4 -16
+p374
+aVStephen Jackson NJN 01/24/2001 NJN @ GSW L 25 13 5 7 71.4 2 2 100.0 1 1 100.0 1 4 5 2 3 0 3 2 -5
+p375
+aVLucious Harris NJN 01/24/2001 NJN @ GSW L 27 12 4 12 33.3 1 1 100.0 3 3 100.0 1 3 4 1 1 0 0 2 0
+p376
+aVKeith Van Horn NJN 01/24/2001 NJN @ GSW L 25 12 4 9 44.4 1 3 33.3 3 3 100.0 0 5 5 0 2 0 3 4 0
+p377
+aVVladimir Stepania NJN 01/24/2001 NJN @ GSW L 5 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 -5
+p378
+aVStephon Marbury NJN 01/24/2001 NJN @ GSW L 33 11 3 14 21.4 0 4 0.0 5 6 83.3 0 2 2 4 0 0 4 3 -18
+p379
+aVKendall Gill NJN 01/24/2001 NJN @ GSW L 21 7 2 8 25.0 1 1 100.0 2 4 50.0 0 2 2 2 3 0 2 1 -12
+p380
+aVAaron Williams NJN 01/24/2001 NJN @ GSW L 23 6 2 6 33.3 0 0 - 2 3 66.7 1 4 5 0 1 0 4 4 -25
+p381
+aVKenyon Martin NJN 01/24/2001 NJN @ GSW L 32 6 3 5 60.0 0 0 - 0 0 - 2 5 7 2 0 1 1 3 -16
+p382
+aVStephon Marbury NJN 01/23/2001 NJN @ SAC L 29 15 7 20 35.0 0 3 0.0 1 2 50.0 1 1 2 5 1 0 1 0 -15
+p383
+aVKeith Van Horn NJN 01/23/2001 NJN @ SAC L 33 20 10 18 55.6 0 1 0.0 0 0 - 3 6 9 3 1 2 0 2 -18
+p384
+aVLucious Harris NJN 01/23/2001 NJN @ SAC L 24 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 3 2 1 0 2 -5
+p385
+aVStephen Jackson NJN 01/23/2001 NJN @ SAC L 26 11 5 11 45.5 1 2 50.0 0 1 0.0 1 4 5 1 0 0 1 1 -2
+p386
+aVAaron Williams NJN 01/23/2001 NJN @ SAC L 23 8 2 3 66.7 0 0 - 4 6 66.7 4 3 7 1 0 0 1 5 -19
+p387
+aVJohnny Newman NJN 01/23/2001 NJN @ SAC L 22 16 5 10 50.0 0 2 0.0 6 6 100.0 0 0 0 1 1 0 1 2 -24
+p388
+aVKenyon Martin NJN 01/23/2001 NJN @ SAC L 26 12 6 9 66.7 0 0 - 0 2 0.0 4 2 6 2 1 1 0 6 -19
+p389
+aVEvan Eschmeyer NJN 01/23/2001 NJN @ SAC L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 2 0
+p390
+aVSherman Douglas NJN 01/23/2001 NJN @ SAC L 19 6 3 6 50.0 0 1 0.0 0 2 0.0 1 0 1 2 0 0 1 1 -11
+p391
+aVVladimir Stepania NJN 01/23/2001 NJN @ SAC L 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 3 1 0 0 1 4
+p392
+aVKendall Gill NJN 01/23/2001 NJN @ SAC L 24 6 3 10 30.0 0 0 - 0 0 - 0 2 2 4 1 0 2 0 -21
+p393
+aVJohnny Newman NJN 01/20/2001 NJN vs. CHI W 29 16 7 10 70.0 2 3 66.7 0 0 - 3 1 4 3 2 0 1 3 8
+p394
+aVStephen Jackson NJN 01/20/2001 NJN vs. CHI W 20 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 6 1 0 2 4 7
+p395
+aVKeith Van Horn NJN 01/20/2001 NJN vs. CHI W 40 31 13 21 61.9 3 3 100.0 2 2 100.0 2 2 4 2 1 2 2 2 26
+p396
+aVAaron Williams NJN 01/20/2001 NJN vs. CHI W 40 16 6 10 60.0 0 0 - 4 4 100.0 2 9 11 1 2 4 3 4 20
+p397
+aVLucious Harris NJN 01/20/2001 NJN vs. CHI W 36 14 5 10 50.0 0 1 0.0 4 6 66.7 2 1 3 2 0 0 1 1 19
+p398
+aVStephon Marbury NJN 01/20/2001 NJN vs. CHI W 39 33 12 22 54.5 2 5 40.0 7 9 77.8 3 8 11 12 2 0 4 1 28
+p399
+aVSherman Douglas NJN 01/20/2001 NJN vs. CHI W 21 4 1 5 20.0 1 3 33.3 1 2 50.0 1 2 3 1 2 0 2 3 -2
+p400
+aVEvan Eschmeyer NJN 01/20/2001 NJN vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p401
+aVVladimir Stepania NJN 01/20/2001 NJN vs. CHI W 15 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 1 0 3 1 -8
+p402
+aVJohnny Newman NJN 01/19/2001 NJN @ PHI L 25 10 4 6 66.7 1 2 50.0 1 1 100.0 0 0 0 3 1 0 3 5 -9
+p403
+aVLucious Harris NJN 01/19/2001 NJN @ PHI L 20 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 2 3 0 1 4 -9
+p404
+aVAaron Williams NJN 01/19/2001 NJN @ PHI L 34 12 5 6 83.3 0 0 - 2 2 100.0 5 6 11 1 1 0 2 3 -10
+p405
+aVKenyon Martin NJN 01/19/2001 NJN @ PHI L 30 4 2 7 28.6 0 0 - 0 0 - 1 6 7 1 2 0 1 5 -8
+p406
+aVVladimir Stepania NJN 01/19/2001 NJN @ PHI L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p407
+aVKeith Van Horn NJN 01/19/2001 NJN @ PHI L 36 10 5 12 41.7 0 3 0.0 0 0 - 0 5 5 2 1 0 2 3 0
+p408
+aVStephen Jackson NJN 01/19/2001 NJN @ PHI L 31 13 5 12 41.7 1 2 50.0 2 2 100.0 0 0 0 1 1 0 1 3 -4
+p409
+aVStephon Marbury NJN 01/19/2001 NJN @ PHI L 42 26 10 22 45.5 2 6 33.3 4 4 100.0 2 2 4 7 1 0 2 1 -12
+p410
+aVSherman Douglas NJN 01/19/2001 NJN @ PHI L 20 5 2 8 25.0 0 0 - 1 1 100.0 0 2 2 2 0 0 1 2 -2
+p411
+aVEvan Eschmeyer NJN 01/17/2001 NJN vs. WAS W 2 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p412
+aVVladimir Stepania NJN 01/17/2001 NJN vs. WAS W 13 5 1 3 33.3 0 0 - 3 4 75.0 4 1 5 0 0 0 1 3 14
+p413
+aVStephen Jackson NJN 01/17/2001 NJN vs. WAS W 29 15 5 7 71.4 3 4 75.0 2 2 100.0 0 1 1 0 1 0 1 2 4
+p414
+aVSherman Douglas NJN 01/17/2001 NJN vs. WAS W 19 6 3 6 50.0 0 0 - 0 0 - 0 0 0 2 0 1 1 2 10
+p415
+aVKeith Van Horn NJN 01/17/2001 NJN vs. WAS W 35 27 9 17 52.9 2 5 40.0 7 7 100.0 1 11 12 5 1 1 0 2 17
+p416
+aVJohnny Newman NJN 01/17/2001 NJN vs. WAS W 29 16 4 9 44.4 2 6 33.3 6 8 75.0 0 3 3 3 1 0 0 4 22
+p417
+aVStephon Marbury NJN 01/17/2001 NJN vs. WAS W 33 22 8 14 57.1 1 2 50.0 5 5 100.0 0 2 2 7 2 0 2 2 10
+p418
+aVKenyon Martin NJN 01/17/2001 NJN vs. WAS W 29 4 1 7 14.3 0 0 - 2 2 100.0 1 9 10 1 1 1 1 4 12
+p419
+aVAaron Williams NJN 01/17/2001 NJN vs. WAS W 17 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 5 -5
+p420
+aVLucious Harris NJN 01/17/2001 NJN vs. WAS W 33 9 3 9 33.3 0 2 0.0 3 4 75.0 2 2 4 2 0 0 1 1 11
+p421
+aVKenyon Martin NJN 01/15/2001 NJN @ ATL W 32 10 5 8 62.5 0 0 - 0 0 - 2 3 5 2 3 0 3 2 6
+p422
+aVJohnny Newman NJN 01/15/2001 NJN @ ATL W 26 19 5 12 41.7 1 1 100.0 8 8 100.0 0 2 2 0 1 0 1 5 8
+p423
+aVKeith Van Horn NJN 01/15/2001 NJN @ ATL W 38 24 10 20 50.0 3 6 50.0 1 2 50.0 4 5 9 1 1 0 3 2 0
+p424
+aVStephen Jackson NJN 01/15/2001 NJN @ ATL W 27 6 3 11 27.3 0 2 0.0 0 0 - 0 4 4 1 4 0 1 1 -4
+p425
+aVSherman Douglas NJN 01/15/2001 NJN @ ATL W 20 0 0 3 0.0 0 1 0.0 0 2 0.0 0 2 2 4 1 0 3 4 5
+p426
+aVStephon Marbury NJN 01/15/2001 NJN @ ATL W 39 14 4 17 23.5 0 3 0.0 6 6 100.0 2 2 4 7 1 0 0 2 -7
+p427
+aVAaron Williams NJN 01/15/2001 NJN @ ATL W 26 2 0 2 0.0 0 0 - 2 4 50.0 1 6 7 0 2 3 0 3 6
+p428
+aVLucious Harris NJN 01/15/2001 NJN @ ATL W 34 9 4 11 36.4 1 2 50.0 0 0 - 1 5 6 0 1 1 0 2 16
+p429
+aVSherman Douglas NJN 01/13/2001 NJN @ MIL L 21 3 1 8 12.5 0 3 0.0 1 2 50.0 1 0 1 4 3 0 3 2 -14
+p430
+aVJohnny Newman NJN 01/13/2001 NJN @ MIL L 24 5 2 6 33.3 1 2 50.0 0 0 - 1 6 7 1 0 0 3 4 -13
+p431
+aVEvan Eschmeyer NJN 01/13/2001 NJN @ MIL L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 1 0 1 0 0 -7
+p432
+aVStephon Marbury NJN 01/13/2001 NJN @ MIL L 31 13 5 13 38.5 1 3 33.3 2 3 66.7 0 1 1 11 1 0 3 0 -24
+p433
+aVLucious Harris NJN 01/13/2001 NJN @ MIL L 32 0 0 3 0.0 0 1 0.0 0 0 - 1 5 6 1 0 2 1 1 -15
+p434
+aVAaron Williams NJN 01/13/2001 NJN @ MIL L 26 14 6 10 60.0 0 0 - 2 4 50.0 2 2 4 1 1 1 0 3 -21
+p435
+aVVladimir Stepania NJN 01/13/2001 NJN @ MIL L 18 7 3 6 50.0 0 0 - 1 2 50.0 3 5 8 1 1 2 0 2 -14
+p436
+aVKeith Van Horn NJN 01/13/2001 NJN @ MIL L 28 16 7 12 58.3 0 1 0.0 2 2 100.0 0 3 3 1 0 0 1 2 -16
+p437
+aVKenyon Martin NJN 01/13/2001 NJN @ MIL L 25 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 2 1 5 -23
+p438
+aVStephen Jackson NJN 01/13/2001 NJN @ MIL L 27 18 8 15 53.3 0 3 0.0 2 4 50.0 1 4 5 3 0 0 2 2 -23
+p439
+aVJohnny Newman NJN 01/11/2001 NJN vs. ORL L 21 11 3 7 42.9 0 1 0.0 5 5 100.0 2 2 4 2 0 0 0 1 3
+p440
+aVKeith Van Horn NJN 01/11/2001 NJN vs. ORL L 37 9 1 12 8.3 0 3 0.0 7 8 87.5 4 7 11 3 0 0 3 3 -16
+p441
+aVStephon Marbury NJN 01/11/2001 NJN vs. ORL L 37 20 6 14 42.9 3 5 60.0 5 6 83.3 1 0 1 6 1 0 5 4 -24
+p442
+aVLucious Harris NJN 01/11/2001 NJN vs. ORL L 32 6 2 7 28.6 0 2 0.0 2 4 50.0 2 3 5 0 2 0 2 3 -22
+p443
+aVKenyon Martin NJN 01/11/2001 NJN vs. ORL L 36 14 6 15 40.0 0 1 0.0 2 4 50.0 2 3 5 0 0 0 0 5 -26
+p444
+aVSherman Douglas NJN 01/11/2001 NJN vs. ORL L 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 10
+p445
+aVStephen Jackson NJN 01/11/2001 NJN vs. ORL L 33 15 5 12 41.7 1 1 100.0 4 6 66.7 4 5 9 2 2 0 4 1 2
+p446
+aVAaron Williams NJN 01/11/2001 NJN vs. ORL L 32 10 3 5 60.0 0 0 - 4 4 100.0 3 6 9 2 2 1 3 4 3
+p447
+aVStephen Jackson NJN 01/09/2001 NJN vs. PHI L 25 4 1 8 12.5 0 3 0.0 2 2 100.0 0 2 2 3 1 0 2 4 -5
+p448
+aVLucious Harris NJN 01/09/2001 NJN vs. PHI L 15 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 2 -10
+p449
+aVVladimir Stepania NJN 01/09/2001 NJN vs. PHI L 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -8
+p450
+aVAaron Williams NJN 01/09/2001 NJN vs. PHI L 30 5 1 4 25.0 0 0 - 3 4 75.0 2 2 4 3 1 5 2 3 -8
+p451
+aVStephon Marbury NJN 01/09/2001 NJN vs. PHI L 40 25 9 23 39.1 1 5 20.0 6 6 100.0 0 3 3 8 3 0 1 2 -8
+p452
+aVKenyon Martin NJN 01/09/2001 NJN vs. PHI L 41 19 9 14 64.3 0 0 - 1 4 25.0 6 6 12 1 2 1 1 3 -14
+p453
+aVKeith Van Horn NJN 01/09/2001 NJN vs. PHI L 38 10 4 10 40.0 1 2 50.0 1 2 50.0 0 4 4 0 0 0 1 2 -9
+p454
+aVJohnny Newman NJN 01/09/2001 NJN vs. PHI L 19 12 2 5 40.0 0 3 0.0 8 8 100.0 0 2 2 1 0 0 0 4 -12
+p455
+aVEvan Eschmeyer NJN 01/09/2001 NJN vs. PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p456
+aVSherman Douglas NJN 01/09/2001 NJN vs. PHI L 24 4 2 6 33.3 0 0 - 0 0 - 0 2 2 3 0 0 2 2 -13
+p457
+aVJohnny Newman NJN 01/08/2001 NJN @ CLE L 10 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 0 2 -3
+p458
+aVSherman Douglas NJN 01/08/2001 NJN @ CLE L 15 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 2 1 -2
+p459
+aVLucious Harris NJN 01/08/2001 NJN @ CLE L 21 3 1 6 16.7 0 2 0.0 1 2 50.0 1 2 3 1 2 0 3 1 0
+p460
+aVStephen Jackson NJN 01/08/2001 NJN @ CLE L 29 10 3 6 50.0 1 3 33.3 3 3 100.0 0 2 2 1 1 1 1 2 1
+p461
+aVJim McIlvaine NJN 01/08/2001 NJN @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p462
+aVVladimir Stepania NJN 01/08/2001 NJN @ CLE L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p463
+aVKendall Gill NJN 01/08/2001 NJN @ CLE L 20 0 0 6 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -12
+p464
+aVAaron Williams NJN 01/08/2001 NJN @ CLE L 32 13 4 10 40.0 0 0 - 5 5 100.0 1 7 8 2 1 2 0 3 -7
+p465
+aVKenyon Martin NJN 01/08/2001 NJN @ CLE L 37 12 5 13 38.5 0 0 - 2 2 100.0 4 7 11 4 2 2 2 4 5
+p466
+aVStephon Marbury NJN 01/08/2001 NJN @ CLE L 38 27 11 22 50.0 4 6 66.7 1 4 25.0 3 0 3 9 2 0 4 1 5
+p467
+aVKeith Van Horn NJN 01/08/2001 NJN @ CLE L 30 17 7 15 46.7 2 4 50.0 1 2 50.0 0 7 7 0 1 1 0 2 -4
+p468
+aVKendall Gill NJN 01/06/2001 NJN vs. GSW W 27 2 1 2 50.0 0 0 - 0 0 - 2 2 4 4 1 0 1 3 1
+p469
+aVStephon Marbury NJN 01/06/2001 NJN vs. GSW W 35 22 5 15 33.3 1 2 50.0 11 14 78.6 0 0 0 6 0 1 2 1 0
+p470
+aVJohnny Newman NJN 01/06/2001 NJN vs. GSW W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 -4
+p471
+aVVladimir Stepania NJN 01/06/2001 NJN vs. GSW W 14 2 0 0 - 0 0 - 2 2 100.0 0 7 7 3 2 1 1 2 3
+p472
+aVSherman Douglas NJN 01/06/2001 NJN vs. GSW W 20 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 6 0 0 1 0 3
+p473
+aVKeith Van Horn NJN 01/06/2001 NJN vs. GSW W 24 19 8 16 50.0 1 4 25.0 2 6 33.3 1 4 5 0 2 1 0 6 16
+p474
+aVStephen Jackson NJN 01/06/2001 NJN vs. GSW W 35 17 6 12 50.0 3 4 75.0 2 2 100.0 0 2 2 2 3 1 2 4 6
+p475
+aVAaron Williams NJN 01/06/2001 NJN vs. GSW W 22 4 2 7 28.6 0 0 - 0 2 0.0 1 4 5 0 0 1 4 5 -12
+p476
+aVKenyon Martin NJN 01/06/2001 NJN vs. GSW W 29 18 8 14 57.1 0 0 - 2 3 66.7 4 6 10 1 0 0 3 5 0
+p477
+aVLucious Harris NJN 01/06/2001 NJN vs. GSW W 27 9 3 4 75.0 1 1 100.0 2 2 100.0 0 4 4 2 1 0 1 2 12
+p478
+aVStephon Marbury NJN 01/04/2001 NJN @ MIA L 37 27 10 21 47.6 2 7 28.6 5 6 83.3 0 1 1 3 2 0 0 0 -4
+p479
+aVSherman Douglas NJN 01/04/2001 NJN @ MIA L 27 15 6 9 66.7 0 0 - 3 3 100.0 1 2 3 1 2 0 3 4 16
+p480
+aVAaron Williams NJN 01/04/2001 NJN @ MIA L 39 6 3 8 37.5 0 0 - 0 0 - 3 6 9 0 1 3 4 6 5
+p481
+aVJohnny Newman NJN 01/04/2001 NJN @ MIA L 22 11 4 9 44.4 1 2 50.0 2 2 100.0 0 3 3 2 0 0 2 1 0
+p482
+aVVladimir Stepania NJN 01/04/2001 NJN @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -12
+p483
+aVLucious Harris NJN 01/04/2001 NJN @ MIA L 22 3 0 6 0.0 0 2 0.0 3 4 75.0 1 1 2 1 0 0 0 1 -11
+p484
+aVKendall Gill NJN 01/04/2001 NJN @ MIA L 36 2 0 6 0.0 0 0 - 2 2 100.0 1 5 6 4 1 0 2 5 9
+p485
+aVKenyon Martin NJN 01/04/2001 NJN @ MIA L 36 10 5 10 50.0 0 0 - 0 0 - 2 7 9 1 2 2 0 5 -6
+p486
+aVStephen Jackson NJN 01/04/2001 NJN @ MIA L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 -12
+p487
+aVKendall Gill NJN 01/02/2001 NJN @ ORL W 35 20 8 14 57.1 0 1 0.0 4 5 80.0 3 5 8 3 2 0 4 4 28
+p488
+aVAaron Williams NJN 01/02/2001 NJN @ ORL W 39 10 5 14 35.7 0 0 - 0 0 - 4 8 12 1 0 1 0 3 16
+p489
+aVStephen Jackson NJN 01/02/2001 NJN @ ORL W 32 16 5 6 83.3 1 1 100.0 5 6 83.3 0 3 3 4 1 0 2 4 11
+p490
+aVSherman Douglas NJN 01/02/2001 NJN @ ORL W 20 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 1 0 0 1 4 -13
+p491
+aVStephon Marbury NJN 01/02/2001 NJN @ ORL W 37 30 9 18 50.0 2 5 40.0 10 11 90.9 0 2 2 6 3 0 4 4 16
+p492
+aVLucious Harris NJN 01/02/2001 NJN @ ORL W 21 7 2 6 33.3 1 3 33.3 2 2 100.0 2 2 4 2 0 0 1 5 -8
+p493
+aVKenyon Martin NJN 01/02/2001 NJN @ ORL W 43 25 10 16 62.5 0 0 - 5 9 55.6 4 2 6 2 1 4 2 4 13
+p494
+aVJohnny Newman NJN 01/02/2001 NJN @ ORL W 13 8 3 3 100.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 3 -13
+p495
+aVLucious Harris NJN 12/31/2000 NJN @ CHI L 32 15 7 14 50.0 1 5 20.0 0 1 0.0 1 4 5 2 0 0 0 2 4
+p496
+aVKenyon Martin NJN 12/31/2000 NJN @ CHI L 31 6 3 11 27.3 0 0 - 0 0 - 2 5 7 1 2 0 1 6 -9
+p497
+aVAaron Williams NJN 12/31/2000 NJN @ CHI L 34 16 6 14 42.9 0 0 - 4 4 100.0 3 11 14 0 1 1 0 6 -5
+p498
+aVEvan Eschmeyer NJN 12/31/2000 NJN @ CHI L 9 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 1 1
+p499
+aVVladimir Stepania NJN 12/31/2000 NJN @ CHI L 13 1 0 5 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 -1
+p500
+aVJohnny Newman NJN 12/31/2000 NJN @ CHI L 17 2 0 2 0.0 0 1 0.0 2 4 50.0 0 1 1 3 0 0 1 5 -7
+p501
+aVSherman Douglas NJN 12/31/2000 NJN @ CHI L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 1
+p502
+aVStephon Marbury NJN 12/31/2000 NJN @ CHI L 37 18 5 19 26.3 0 7 0.0 8 8 100.0 0 0 0 7 2 0 2 3 -11
+p503
+aVKendall Gill NJN 12/31/2000 NJN @ CHI L 32 12 6 12 50.0 0 0 - 0 1 0.0 2 6 8 2 2 0 0 0 -5
+p504
+aVStephen Jackson NJN 12/31/2000 NJN @ CHI L 20 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 2 0 0 1 1 -13
+p505
+aVSherman Douglas NJN 12/28/2000 NJN vs. BOS L 23 10 3 5 60.0 0 1 0.0 4 4 100.0 0 1 1 6 0 0 1 3 -9
+p506
+aVJohnny Newman NJN 12/28/2000 NJN vs. BOS L 22 6 3 8 37.5 0 0 - 0 1 0.0 0 1 1 2 1 0 0 3 2
+p507
+aVVladimir Stepania NJN 12/28/2000 NJN vs. BOS L 19 7 3 7 42.9 1 1 100.0 0 0 - 3 4 7 2 0 2 0 1 -5
+p508
+aVEvan Eschmeyer NJN 12/28/2000 NJN vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p509
+aVStephon Marbury NJN 12/28/2000 NJN vs. BOS L 39 27 8 15 53.3 3 4 75.0 8 9 88.9 1 1 2 8 3 0 1 2 2
+p510
+aVLucious Harris NJN 12/28/2000 NJN vs. BOS L 28 13 6 10 60.0 1 1 100.0 0 0 - 1 4 5 2 1 0 2 4 3
+p511
+aVAaron Williams NJN 12/28/2000 NJN vs. BOS L 40 20 6 9 66.7 0 0 - 8 9 88.9 1 3 4 6 3 2 4 3 7
+p512
+aVStephen Jackson NJN 12/28/2000 NJN vs. BOS L 31 14 6 15 40.0 0 2 0.0 2 4 50.0 3 3 6 5 0 0 2 2 -1
+p513
+aVKenyon Martin NJN 12/28/2000 NJN vs. BOS L 32 14 7 12 58.3 0 0 - 0 0 - 1 2 3 2 1 3 0 4 -4
+p514
+aVStephen Jackson NJN 12/26/2000 NJN vs. ATL L 40 25 9 18 50.0 3 7 42.9 4 6 66.7 0 3 3 0 0 0 1 4 -10
+p515
+aVAaron Williams NJN 12/26/2000 NJN vs. ATL L 40 9 2 10 20.0 0 0 - 5 6 83.3 8 11 19 1 3 1 2 4 0
+p516
+aVVladimir Stepania NJN 12/26/2000 NJN vs. ATL L 9 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -3
+p517
+aVLucious Harris NJN 12/26/2000 NJN vs. ATL L 20 7 3 8 37.5 1 2 50.0 0 1 0.0 2 2 4 1 0 0 0 0 7
+p518
+aVKendall Gill NJN 12/26/2000 NJN vs. ATL L 22 2 1 8 12.5 0 0 - 0 0 - 1 3 4 4 1 1 0 2 -14
+p519
+aVSherman Douglas NJN 12/26/2000 NJN vs. ATL L 13 3 1 5 20.0 1 1 100.0 0 0 - 0 2 2 2 1 1 0 3 5
+p520
+aVStephon Marbury NJN 12/26/2000 NJN vs. ATL L 42 19 7 18 38.9 1 5 20.0 4 4 100.0 0 4 4 9 0 0 2 4 -10
+p521
+aVJohnny Newman NJN 12/26/2000 NJN vs. ATL L 19 2 0 7 0.0 0 1 0.0 2 2 100.0 0 0 0 2 1 0 1 2 10
+p522
+aVEvan Eschmeyer NJN 12/26/2000 NJN vs. ATL L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 4
+p523
+aVKenyon Martin NJN 12/26/2000 NJN vs. ATL L 31 9 4 11 36.4 0 0 - 1 2 50.0 2 3 5 0 4 2 3 3 -14
+p524
+aVSherman Douglas NJN 12/23/2000 NJN vs. MIA L 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -3
+p525
+aVLucious Harris NJN 12/23/2000 NJN vs. MIA L 24 7 3 7 42.9 0 1 0.0 1 3 33.3 2 0 2 1 0 0 0 2 -5
+p526
+aVStephon Marbury NJN 12/23/2000 NJN vs. MIA L 38 37 12 22 54.5 4 7 57.1 9 9 100.0 1 1 2 1 3 0 4 6 -3
+p527
+aVStephen Jackson NJN 12/23/2000 NJN vs. MIA L 23 3 1 6 16.7 0 3 0.0 1 2 50.0 1 2 3 1 1 0 2 1 0
+p528
+aVJohnny Newman NJN 12/23/2000 NJN vs. MIA L 19 7 3 5 60.0 0 1 0.0 1 1 100.0 0 1 1 1 1 0 2 3 -11
+p529
+aVKendall Gill NJN 12/23/2000 NJN vs. MIA L 30 4 2 10 20.0 0 0 - 0 0 - 1 1 2 5 0 0 0 3 4
+p530
+aVKenyon Martin NJN 12/23/2000 NJN vs. MIA L 29 2 1 4 25.0 0 0 - 0 0 - 2 1 3 2 0 3 3 5 -6
+p531
+aVVladimir Stepania NJN 12/23/2000 NJN vs. MIA L 25 6 2 12 16.7 0 0 - 2 2 100.0 3 5 8 1 3 1 1 5 -5
+p532
+aVAaron Williams NJN 12/23/2000 NJN vs. MIA L 41 12 5 12 41.7 0 0 - 2 2 100.0 7 12 19 2 0 1 1 3 -1
+p533
+aVKenyon Martin NJN 12/21/2000 NJN @ MIL L 24 10 2 9 22.2 0 0 - 6 8 75.0 2 5 7 0 1 0 1 4 -22
+p534
+aVStephen Jackson NJN 12/21/2000 NJN @ MIL L 12 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 1 2 0 1 1 21
+p535
+aVVladimir Stepania NJN 12/21/2000 NJN @ MIL L 12 7 3 3 100.0 0 0 - 1 2 50.0 3 2 5 1 0 0 0 3 20
+p536
+aVJohnny Newman NJN 12/21/2000 NJN @ MIL L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p537
+aVLucious Harris NJN 12/21/2000 NJN @ MIL L 26 12 5 9 55.6 1 1 100.0 1 2 50.0 2 2 4 4 2 0 0 4 16
+p538
+aVJim McIlvaine NJN 12/21/2000 NJN @ MIL L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p539
+aVAaron Williams NJN 12/21/2000 NJN @ MIL L 33 11 2 5 40.0 0 0 - 7 10 70.0 0 6 6 1 2 1 3 2 -20
+p540
+aVSherman Douglas NJN 12/21/2000 NJN @ MIL L 37 10 3 10 30.0 0 2 0.0 4 6 66.7 3 3 6 5 1 0 6 2 -2
+p541
+aVStephon Marbury NJN 12/21/2000 NJN @ MIL L 34 12 3 14 21.4 2 5 40.0 4 6 66.7 2 1 3 5 2 0 1 3 -18
+p542
+aVEvan Eschmeyer NJN 12/21/2000 NJN @ MIL L 22 2 1 3 33.3 0 0 - 0 0 - 1 7 8 0 1 1 2 3 21
+p543
+aVKendall Gill NJN 12/21/2000 NJN @ MIL L 29 8 3 13 23.1 0 0 - 2 4 50.0 0 6 6 1 2 0 3 3 -14
+p544
+aVAaron Williams NJN 12/20/2000 NJN @ BOS L 39 14 5 11 45.5 0 0 - 4 5 80.0 3 7 10 1 0 0 1 3 -3
+p545
+aVJim McIlvaine NJN 12/20/2000 NJN @ BOS L 14 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 3 0 1 -3
+p546
+aVSoumaila Samake NJN 12/20/2000 NJN @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p547
+aVJohnny Newman NJN 12/20/2000 NJN @ BOS L 16 6 0 6 0.0 0 3 0.0 6 6 100.0 1 1 2 2 0 0 0 6 -9
+p548
+aVStephen Jackson NJN 12/20/2000 NJN @ BOS L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 3 -11
+p549
+aVLucious Harris NJN 12/20/2000 NJN @ BOS L 31 10 3 9 33.3 0 3 0.0 4 4 100.0 2 3 5 3 1 0 1 2 -10
+p550
+aVStephon Marbury NJN 12/20/2000 NJN @ BOS L 38 24 6 17 35.3 0 4 0.0 12 17 70.6 0 3 3 4 1 0 3 1 -19
+p551
+aVVladimir Stepania NJN 12/20/2000 NJN @ BOS L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 6 6 1 0 0 0 3 1
+p552
+aVSherman Douglas NJN 12/20/2000 NJN @ BOS L 23 13 4 8 50.0 2 3 66.7 3 4 75.0 0 1 1 5 1 0 2 4 2
+p553
+aVKendall Gill NJN 12/20/2000 NJN @ BOS L 17 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 2 0 0 2 3 5
+p554
+aVKenyon Martin NJN 12/20/2000 NJN @ BOS L 29 7 3 8 37.5 0 0 - 1 4 25.0 0 3 3 0 0 3 3 6 -8
+p555
+aVEvan Eschmeyer NJN 12/20/2000 NJN @ BOS L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -1
+p556
+aVKendall Gill NJN 12/17/2000 NJN vs. SAC L 24 10 2 6 33.3 0 0 - 6 6 100.0 5 0 5 2 0 0 2 0 -16
+p557
+aVAaron Williams NJN 12/17/2000 NJN vs. SAC L 31 13 6 13 46.2 0 0 - 1 2 50.0 2 6 8 0 1 4 1 4 -8
+p558
+aVJohnny Newman NJN 12/17/2000 NJN vs. SAC L 14 3 1 5 20.0 0 1 0.0 1 1 100.0 1 0 1 0 0 0 0 2 -17
+p559
+aVStephon Marbury NJN 12/17/2000 NJN vs. SAC L 36 17 7 21 33.3 1 6 16.7 2 2 100.0 1 1 2 8 1 0 2 2 -15
+p560
+aVKenyon Martin NJN 12/17/2000 NJN vs. SAC L 35 5 2 10 20.0 0 0 - 1 4 25.0 1 2 3 1 6 1 2 4 -17
+p561
+aVLucious Harris NJN 12/17/2000 NJN vs. SAC L 25 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 3
+p562
+aVEvan Eschmeyer NJN 12/17/2000 NJN vs. SAC L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p563
+aVSherman Douglas NJN 12/17/2000 NJN vs. SAC L 17 9 2 4 50.0 0 1 0.0 5 5 100.0 1 2 3 1 1 0 0 1 -7
+p564
+aVVladimir Stepania NJN 12/17/2000 NJN vs. SAC L 15 4 1 7 14.3 0 0 - 2 4 50.0 1 4 5 0 0 0 2 3 -8
+p565
+aVStephen Jackson NJN 12/17/2000 NJN vs. SAC L 28 10 4 10 40.0 1 4 25.0 1 2 50.0 0 7 7 4 1 0 2 1 4
+p566
+aVSoumaila Samake NJN 12/17/2000 NJN vs. SAC L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 0 0 2 1
+p567
+aVVladimir Stepania NJN 12/16/2000 NJN @ ATL W 13 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 1 2 3
+p568
+aVStephen Jackson NJN 12/16/2000 NJN @ ATL W 17 2 1 5 20.0 0 2 0.0 0 1 0.0 0 2 2 1 0 0 1 0 3
+p569
+aVSoumaila Samake NJN 12/16/2000 NJN @ ATL W 7 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -2
+p570
+aVJohnny Newman NJN 12/16/2000 NJN @ ATL W 25 6 2 9 22.2 0 2 0.0 2 2 100.0 0 3 3 3 0 0 1 1 -2
+p571
+aVKenyon Martin NJN 12/16/2000 NJN @ ATL W 34 12 6 12 50.0 0 0 - 0 0 - 2 7 9 1 1 2 1 3 3
+p572
+aVEvan Eschmeyer NJN 12/16/2000 NJN @ ATL W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 2 0 1 -2
+p573
+aVStephon Marbury NJN 12/16/2000 NJN @ ATL W 34 23 7 14 50.0 2 3 66.7 7 7 100.0 0 2 2 7 1 1 1 4 -1
+p574
+aVLucious Harris NJN 12/16/2000 NJN @ ATL W 28 6 3 6 50.0 0 0 - 0 1 0.0 1 4 5 2 4 0 1 0 6
+p575
+aVAaron Williams NJN 12/16/2000 NJN @ ATL W 27 12 5 8 62.5 0 0 - 2 2 100.0 3 1 4 0 1 4 0 4 8
+p576
+aVKendall Gill NJN 12/16/2000 NJN @ ATL W 28 19 8 15 53.3 0 1 0.0 3 7 42.9 1 3 4 1 2 0 2 2 12
+p577
+aVSherman Douglas NJN 12/16/2000 NJN @ ATL W 19 5 2 7 28.6 1 1 100.0 0 0 - 1 0 1 0 3 0 0 0 2
+p578
+aVKenyon Martin NJN 12/12/2000 NJN vs. MIN W 25 20 8 13 61.5 0 0 - 4 6 66.7 2 7 9 1 2 1 1 5 30
+p579
+aVStephon Marbury NJN 12/12/2000 NJN vs. MIN W 31 27 10 16 62.5 1 2 50.0 6 8 75.0 0 1 1 7 0 0 2 1 10
+p580
+aVEvan Eschmeyer NJN 12/12/2000 NJN vs. MIN W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -1
+p581
+aVJohnny Newman NJN 12/12/2000 NJN vs. MIN W 36 6 2 10 20.0 0 3 0.0 2 2 100.0 2 0 2 1 0 0 2 4 3
+p582
+aVStephen Jackson NJN 12/12/2000 NJN vs. MIN W 38 14 4 13 30.8 2 3 66.7 4 4 100.0 1 3 4 5 4 0 2 6 19
+p583
+aVSoumaila Samake NJN 12/12/2000 NJN vs. MIN W 9 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 -8
+p584
+aVLucious Harris NJN 12/12/2000 NJN vs. MIN W 31 13 5 9 55.6 0 1 0.0 3 3 100.0 3 6 9 3 1 1 1 0 25
+p585
+aVKevin Ollie NJN 12/12/2000 NJN vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -1
+p586
+aVSherman Douglas NJN 12/12/2000 NJN vs. MIN W 26 14 7 11 63.6 0 2 0.0 0 0 - 0 1 1 5 0 1 0 1 4
+p587
+aVAaron Williams NJN 12/12/2000 NJN vs. MIN W 26 13 4 6 66.7 0 0 - 5 8 62.5 4 9 13 1 0 0 0 4 34
+p588
+aVJim McIlvaine NJN 12/12/2000 NJN vs. MIN W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -5
+p589
+aVEvan Eschmeyer NJN 12/10/2000 NJN vs. DAL L 9 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 0 1 1 0 1 -5
+p590
+aVStephen Jackson NJN 12/10/2000 NJN vs. DAL L 36 12 5 15 33.3 2 4 50.0 0 0 - 2 9 11 1 1 0 3 3 -19
+p591
+aVSherman Douglas NJN 12/10/2000 NJN vs. DAL L 37 13 3 9 33.3 0 1 0.0 7 8 87.5 0 1 1 7 0 0 2 2 -26
+p592
+aVKenyon Martin NJN 12/10/2000 NJN vs. DAL L 38 18 7 17 41.2 0 0 - 4 4 100.0 2 3 5 1 2 2 3 4 -21
+p593
+aVAaron Williams NJN 12/10/2000 NJN vs. DAL L 24 4 1 6 16.7 0 0 - 2 2 100.0 2 3 5 3 0 0 3 6 -19
+p594
+aVJim McIlvaine NJN 12/10/2000 NJN vs. DAL L 16 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 1 1 4 -9
+p595
+aVKevin Ollie NJN 12/10/2000 NJN vs. DAL L 11 2 0 5 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 0 0
+p596
+aVLucious Harris NJN 12/10/2000 NJN vs. DAL L 40 11 4 11 36.4 1 2 50.0 2 5 40.0 0 2 2 2 2 0 1 1 -16
+p597
+aVJohnny Newman NJN 12/10/2000 NJN vs. DAL L 24 6 1 4 25.0 0 0 - 4 5 80.0 0 1 1 0 2 0 1 4 -15
+p598
+aVSoumaila Samake NJN 12/10/2000 NJN vs. DAL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p599
+aVJohnny Newman NJN 12/08/2000 NJN vs. PHX W 30 13 6 11 54.5 0 1 0.0 1 1 100.0 1 2 3 2 1 0 1 5 5
+p600
+aVStephen Jackson NJN 12/08/2000 NJN vs. PHX W 13 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 1 2
+p601
+aVAaron Williams NJN 12/08/2000 NJN vs. PHX W 44 23 7 18 38.9 0 1 0.0 9 10 90.0 0 8 8 2 2 3 3 4 5
+p602
+aVSherman Douglas NJN 12/08/2000 NJN vs. PHX W 39 22 10 14 71.4 0 0 - 2 3 66.7 1 2 3 4 0 0 4 2 7
+p603
+aVKevin Ollie NJN 12/08/2000 NJN vs. PHX W 9 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 3 0 0 0 3 -5
+p604
+aVLucious Harris NJN 12/08/2000 NJN vs. PHX W 35 10 5 11 45.5 0 2 0.0 0 0 - 2 4 6 2 3 0 1 2 0
+p605
+aVKenyon Martin NJN 12/08/2000 NJN vs. PHX W 38 8 4 8 50.0 0 0 - 0 0 - 1 7 8 1 2 1 2 3 -8
+p606
+aVJim McIlvaine NJN 12/08/2000 NJN vs. PHX W 24 6 2 7 28.6 0 0 - 2 2 100.0 3 2 5 1 0 1 0 2 1
+p607
+aVEvan Eschmeyer NJN 12/08/2000 NJN vs. PHX W 8 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 2 3
+p608
+aVSherman Douglas NJN 12/06/2000 NJN vs. MIL L 37 18 5 12 41.7 0 0 - 8 12 66.7 0 1 1 7 2 0 2 1 -14
+p609
+aVKevin Ollie NJN 12/06/2000 NJN vs. MIL L 11 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 3 0 0 1 0 -8
+p610
+aVJohnny Newman NJN 12/06/2000 NJN vs. MIL L 23 7 1 7 14.3 1 2 50.0 4 4 100.0 2 1 3 2 2 1 0 3 -5
+p611
+aVSoumaila Samake NJN 12/06/2000 NJN vs. MIL L 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 2 0 0 4
+p612
+aVKenyon Martin NJN 12/06/2000 NJN vs. MIL L 37 17 7 14 50.0 0 0 - 3 6 50.0 2 5 7 4 1 0 4 3 -20
+p613
+aVStephen Jackson NJN 12/06/2000 NJN vs. MIL L 25 10 4 10 40.0 2 5 40.0 0 0 - 1 3 4 4 1 0 2 1 -12
+p614
+aVEvan Eschmeyer NJN 12/06/2000 NJN vs. MIL L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -11
+p615
+aVLucious Harris NJN 12/06/2000 NJN vs. MIL L 25 9 3 10 30.0 2 4 50.0 1 3 33.3 1 2 3 3 2 0 1 1 -17
+p616
+aVAaron Williams NJN 12/06/2000 NJN vs. MIL L 41 17 7 13 53.8 0 0 - 3 3 100.0 5 4 9 3 0 2 2 3 -20
+p617
+aVJim McIlvaine NJN 12/06/2000 NJN vs. MIL L 23 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -7
+p618
+aVKevin Ollie NJN 12/05/2000 NJN @ IND L 18 2 0 2 0.0 0 0 - 2 4 50.0 0 2 2 1 0 0 1 3 -8
+p619
+aVSoumaila Samake NJN 12/05/2000 NJN @ IND L 18 3 1 5 20.0 0 0 - 1 4 25.0 3 2 5 0 0 1 0 5 -4
+p620
+aVStephen Jackson NJN 12/05/2000 NJN @ IND L 31 14 5 13 38.5 1 4 25.0 3 4 75.0 2 2 4 2 3 0 3 2 -13
+p621
+aVKendall Gill NJN 12/05/2000 NJN @ IND L 23 2 0 9 0.0 0 1 0.0 2 2 100.0 1 0 1 0 3 0 2 2 -20
+p622
+aVJim McIlvaine NJN 12/05/2000 NJN @ IND L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 4 5 0 0 2 0 0 -1
+p623
+aVJohnny Newman NJN 12/05/2000 NJN @ IND L 13 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 1 -16
+p624
+aVKenyon Martin NJN 12/05/2000 NJN @ IND L 34 8 3 15 20.0 0 0 - 2 4 50.0 2 7 9 3 2 0 4 3 -15
+p625
+aVLucious Harris NJN 12/05/2000 NJN @ IND L 22 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -14
+p626
+aVSherman Douglas NJN 12/05/2000 NJN @ IND L 30 9 4 12 33.3 1 1 100.0 0 0 - 2 2 4 3 0 0 2 0 -16
+p627
+aVEvan Eschmeyer NJN 12/05/2000 NJN @ IND L 10 0 0 4 0.0 0 0 - 0 4 0.0 1 0 1 0 1 1 1 1 -4
+p628
+aVAaron Williams NJN 12/05/2000 NJN @ IND L 31 15 5 11 45.5 0 0 - 5 7 71.4 5 6 11 3 0 1 1 4 -9
+p629
+aVStephen Jackson NJN 12/02/2000 NJN vs. ORL L 29 6 2 4 50.0 0 1 0.0 2 4 50.0 0 2 2 4 0 0 3 6 -13
+p630
+aVKendall Gill NJN 12/02/2000 NJN vs. ORL L 27 4 2 12 16.7 0 0 - 0 0 - 2 3 5 1 1 0 2 3 -1
+p631
+aVStephon Marbury NJN 12/02/2000 NJN vs. ORL L 34 12 4 11 36.4 0 1 0.0 4 5 80.0 1 1 2 3 1 0 3 2 -17
+p632
+aVSherman Douglas NJN 12/02/2000 NJN vs. ORL L 24 9 3 7 42.9 0 0 - 3 4 75.0 0 0 0 0 0 0 1 0 -17
+p633
+aVAaron Williams NJN 12/02/2000 NJN vs. ORL L 34 14 6 10 60.0 0 0 - 2 2 100.0 0 3 3 1 1 1 2 1 -17
+p634
+aVJohnny Newman NJN 12/02/2000 NJN vs. ORL L 25 10 1 6 16.7 1 4 25.0 7 8 87.5 2 3 5 4 5 0 5 3 -11
+p635
+aVKevin Ollie NJN 12/02/2000 NJN vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p636
+aVLucious Harris NJN 12/02/2000 NJN vs. ORL L 20 7 3 4 75.0 0 0 - 1 1 100.0 1 7 8 2 0 0 0 1 -17
+p637
+aVSoumaila Samake NJN 12/02/2000 NJN vs. ORL L 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p638
+aVEvan Eschmeyer NJN 12/02/2000 NJN vs. ORL L 12 3 1 5 20.0 0 0 - 1 1 100.0 1 2 3 0 0 1 0 3 -5
+p639
+aVKenyon Martin NJN 12/02/2000 NJN vs. ORL L 29 7 3 9 33.3 0 0 - 1 4 25.0 4 9 13 3 0 2 2 5 -6
+p640
+aVStephon Marbury NJN 12/01/2000 NJN @ ORL L 38 25 8 19 42.1 1 4 25.0 8 11 72.7 0 1 1 2 0 0 6 5 -11
+p641
+aVJohnny Newman NJN 12/01/2000 NJN @ ORL L 10 5 2 6 33.3 0 0 - 1 1 100.0 0 2 2 0 1 0 0 1 10
+p642
+aVKenyon Martin NJN 12/01/2000 NJN @ ORL L 38 4 2 6 33.3 0 0 - 0 0 - 0 8 8 1 0 1 3 2 -13
+p643
+aVStephen Jackson NJN 12/01/2000 NJN @ ORL L 36 15 5 14 35.7 2 5 40.0 3 4 75.0 0 9 9 5 2 1 3 3 0
+p644
+aVSherman Douglas NJN 12/01/2000 NJN @ ORL L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 3 0 2 1 8
+p645
+aVKendall Gill NJN 12/01/2000 NJN @ ORL L 33 8 2 12 16.7 0 0 - 4 6 66.7 2 7 9 3 1 1 3 4 -16
+p646
+aVLucious Harris NJN 12/01/2000 NJN @ ORL L 22 4 1 5 20.0 0 1 0.0 2 2 100.0 1 3 4 0 1 0 1 3 14
+p647
+aVAaron Williams NJN 12/01/2000 NJN @ ORL L 30 8 3 8 37.5 0 0 - 2 2 100.0 4 8 12 1 0 4 0 4 14
+p648
+aVEvan Eschmeyer NJN 12/01/2000 NJN @ ORL L 21 7 3 9 33.3 0 0 - 1 1 100.0 4 2 6 0 1 0 2 3 -21
+p649
+aVLucious Harris NJN 11/29/2000 NJN @ DET L 30 11 5 10 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 3 -22
+p650
+aVKendall Gill NJN 11/29/2000 NJN @ DET L 28 9 2 8 25.0 0 0 - 5 6 83.3 0 5 5 4 0 0 0 4 -10
+p651
+aVAaron Williams NJN 11/29/2000 NJN @ DET L 29 6 2 9 22.2 0 0 - 2 2 100.0 2 6 8 0 2 0 4 4 -25
+p652
+aVEvan Eschmeyer NJN 11/29/2000 NJN @ DET L 31 2 0 2 0.0 0 0 - 2 4 50.0 2 5 7 0 1 2 0 3 -1
+p653
+aVStephen Jackson NJN 11/29/2000 NJN @ DET L 23 10 3 8 37.5 2 3 66.7 2 2 100.0 1 2 3 1 2 0 3 2 -6
+p654
+aVJohnny Newman NJN 11/29/2000 NJN @ DET L 15 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 2 1 -4
+p655
+aVKevin Ollie NJN 11/29/2000 NJN @ DET L 12 5 1 2 50.0 0 0 - 3 4 75.0 0 2 2 2 0 0 0 1 -7
+p656
+aVStephon Marbury NJN 11/29/2000 NJN @ DET L 36 20 6 17 35.3 0 5 0.0 8 12 66.7 0 0 0 7 1 0 8 3 -14
+p657
+aVSoumaila Samake NJN 11/29/2000 NJN @ DET L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p658
+aVKenyon Martin NJN 11/29/2000 NJN @ DET L 35 11 5 8 62.5 0 0 - 1 2 50.0 2 6 8 0 1 1 0 4 -14
+p659
+aVKenyon Martin NJN 11/28/2000 NJN vs. UTA L 43 19 8 16 50.0 0 1 0.0 3 7 42.9 4 6 10 2 2 4 1 2 -1
+p660
+aVStephon Marbury NJN 11/28/2000 NJN vs. UTA L 39 33 12 23 52.2 3 8 37.5 6 6 100.0 0 2 2 5 0 0 3 1 -4
+p661
+aVAaron Williams NJN 11/28/2000 NJN vs. UTA L 30 9 1 11 9.1 0 0 - 7 8 87.5 5 6 11 3 1 2 3 5 -12
+p662
+aVKendall Gill NJN 11/28/2000 NJN vs. UTA L 33 4 2 8 25.0 0 0 - 0 0 - 0 4 4 6 2 1 1 3 -3
+p663
+aVLucious Harris NJN 11/28/2000 NJN vs. UTA L 15 8 4 7 57.1 0 2 0.0 0 0 - 0 0 0 1 0 0 1 2 -4
+p664
+aVKevin Ollie NJN 11/28/2000 NJN vs. UTA L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p665
+aVEvan Eschmeyer NJN 11/28/2000 NJN vs. UTA L 23 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 3 2 1 2 4 2
+p666
+aVJohnny Newman NJN 11/28/2000 NJN vs. UTA L 32 10 4 9 44.4 1 3 33.3 1 1 100.0 0 2 2 5 3 0 1 4 -10
+p667
+aVStephen Jackson NJN 11/28/2000 NJN vs. UTA L 16 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 2 1 0 1 4 4
+p668
+aVEvan Eschmeyer NJN 11/25/2000 NJN @ POR L 32 10 4 6 66.7 0 0 - 2 2 100.0 4 4 8 2 2 0 3 3 -3
+p669
+aVAaron Williams NJN 11/25/2000 NJN @ POR L 31 17 6 9 66.7 0 0 - 5 5 100.0 3 6 9 2 0 0 5 3 11
+p670
+aVKenyon Martin NJN 11/25/2000 NJN @ POR L 33 6 0 4 0.0 0 0 - 6 8 75.0 2 3 5 0 0 0 4 6 -12
+p671
+aVKendall Gill NJN 11/25/2000 NJN @ POR L 34 15 5 12 41.7 0 1 0.0 5 6 83.3 1 5 6 1 2 0 3 2 -9
+p672
+aVKevin Ollie NJN 11/25/2000 NJN @ POR L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 0 0 2 1 6
+p673
+aVJohnny Newman NJN 11/25/2000 NJN @ POR L 24 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 7
+p674
+aVStephon Marbury NJN 11/25/2000 NJN @ POR L 38 15 6 16 37.5 1 3 33.3 2 2 100.0 1 1 2 5 1 0 0 1 -8
+p675
+aVLucious Harris NJN 11/25/2000 NJN @ POR L 14 4 2 8 25.0 0 4 0.0 0 0 - 0 0 0 0 2 0 0 0 7
+p676
+aVStephen Jackson NJN 11/25/2000 NJN @ POR L 24 13 6 10 60.0 1 2 50.0 0 0 - 1 3 4 1 0 0 4 2 -9
+p677
+aVAaron Williams NJN 11/24/2000 NJN @ UTA L 33 9 3 5 60.0 0 0 - 3 4 75.0 1 5 6 2 3 3 2 5 3
+p678
+aVStephen Jackson NJN 11/24/2000 NJN @ UTA L 26 7 2 6 33.3 1 3 33.3 2 2 100.0 1 2 3 0 1 1 1 4 -4
+p679
+aVSherman Douglas NJN 11/24/2000 NJN @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 3
+p680
+aVJohnny Newman NJN 11/24/2000 NJN @ UTA L 22 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 3 -8
+p681
+aVKendall Gill NJN 11/24/2000 NJN @ UTA L 32 19 4 14 28.6 0 2 0.0 11 12 91.7 0 8 8 4 3 1 3 1 -3
+p682
+aVSoumaila Samake NJN 11/24/2000 NJN @ UTA L 7 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 1 0 0 -4
+p683
+aVEvan Eschmeyer NJN 11/24/2000 NJN @ UTA L 21 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 1 0 1 4 -20
+p684
+aVStephon Marbury NJN 11/24/2000 NJN @ UTA L 36 21 9 19 47.4 0 3 0.0 3 3 100.0 2 3 5 2 1 0 6 2 -11
+p685
+aVKevin Ollie NJN 11/24/2000 NJN @ UTA L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p686
+aVLucious Harris NJN 11/24/2000 NJN @ UTA L 16 8 3 7 42.9 2 2 100.0 0 0 - 0 2 2 0 0 0 1 0 -9
+p687
+aVKenyon Martin NJN 11/24/2000 NJN @ UTA L 35 15 5 11 45.5 0 0 - 5 7 71.4 4 5 9 3 1 1 2 5 -3
+p688
+aVJohnny Newman NJN 11/22/2000 NJN @ PHX L 24 4 1 6 16.7 0 1 0.0 2 2 100.0 0 3 3 2 0 0 0 5 -19
+p689
+aVKendall Gill NJN 11/22/2000 NJN @ PHX L 37 17 7 17 41.2 1 2 50.0 2 2 100.0 0 5 5 2 1 1 4 2 -10
+p690
+aVStephen Jackson NJN 11/22/2000 NJN @ PHX L 31 7 3 7 42.9 1 1 100.0 0 0 - 0 0 0 2 1 0 5 1 -7
+p691
+aVJim McIlvaine NJN 11/22/2000 NJN @ PHX L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 4 4 0 1 0 2 1 -6
+p692
+aVKenyon Martin NJN 11/22/2000 NJN @ PHX L 20 4 2 5 40.0 0 0 - 0 0 - 0 5 5 0 0 1 1 2 -1
+p693
+aVAaron Williams NJN 11/22/2000 NJN @ PHX L 23 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 1 0 0 2 5 -6
+p694
+aVSoumaila Samake NJN 11/22/2000 NJN @ PHX L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 2 0 1 6
+p695
+aVEvan Eschmeyer NJN 11/22/2000 NJN @ PHX L 12 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 1 0 0 0 2 2
+p696
+aVKevin Ollie NJN 11/22/2000 NJN @ PHX L 11 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 1 0 0 1 -3
+p697
+aVStephon Marbury NJN 11/22/2000 NJN @ PHX L 37 30 10 22 45.5 1 5 20.0 9 10 90.0 4 2 6 9 0 0 7 3 -9
+p698
+aVLucious Harris NJN 11/22/2000 NJN @ PHX L 28 7 3 8 37.5 0 1 0.0 1 1 100.0 2 1 3 0 0 0 0 1 -7
+p699
+aVAaron Williams NJN 11/20/2000 NJN @ LAC W 27 5 2 5 40.0 0 0 - 1 2 50.0 3 2 5 1 0 3 2 3 -2
+p700
+aVJohnny Newman NJN 11/20/2000 NJN @ LAC W 24 13 5 6 83.3 1 2 50.0 2 4 50.0 1 3 4 1 1 0 1 2 -3
+p701
+aVJim McIlvaine NJN 11/20/2000 NJN @ LAC W 20 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 5 2 3 15
+p702
+aVLucious Harris NJN 11/20/2000 NJN @ LAC W 21 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 1 -8
+p703
+aVStephen Jackson NJN 11/20/2000 NJN @ LAC W 24 12 5 9 55.6 2 3 66.7 0 0 - 0 1 1 0 1 0 2 0 4
+p704
+aVKenyon Martin NJN 11/20/2000 NJN @ LAC W 39 19 7 19 36.8 0 0 - 5 10 50.0 4 11 15 0 1 3 1 4 -3
+p705
+aVEvan Eschmeyer NJN 11/20/2000 NJN @ LAC W 10 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p706
+aVKevin Ollie NJN 11/20/2000 NJN @ LAC W 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -1
+p707
+aVStephon Marbury NJN 11/20/2000 NJN @ LAC W 41 28 12 24 50.0 2 4 50.0 2 6 33.3 1 2 3 9 0 0 2 3 0
+p708
+aVKendall Gill NJN 11/20/2000 NJN @ LAC W 27 8 3 12 25.0 2 2 100.0 0 0 - 1 4 5 4 1 1 0 2 9
+p709
+aVEvan Eschmeyer NJN 11/18/2000 NJN vs. IND W 28 5 1 5 20.0 0 0 - 3 4 75.0 1 3 4 0 2 1 0 3 -2
+p710
+aVLucious Harris NJN 11/18/2000 NJN vs. IND W 15 0 0 0 - 0 0 - 0 0 - 0 2 2 4 0 0 0 0 6
+p711
+aVKendall Gill NJN 11/18/2000 NJN vs. IND W 33 15 6 15 40.0 0 0 - 3 3 100.0 1 2 3 2 1 0 2 2 -1
+p712
+aVAaron Williams NJN 11/18/2000 NJN vs. IND W 23 11 2 6 33.3 0 0 - 7 8 87.5 3 4 7 2 2 0 2 2 4
+p713
+aVJohnny Newman NJN 11/18/2000 NJN vs. IND W 24 16 7 9 77.8 2 3 66.7 0 0 - 0 1 1 0 1 0 1 3 16
+p714
+aVKenyon Martin NJN 11/18/2000 NJN vs. IND W 40 15 5 13 38.5 0 0 - 5 9 55.6 9 4 13 0 1 5 4 6 -5
+p715
+aVStephen Jackson NJN 11/18/2000 NJN vs. IND W 29 13 5 11 45.5 1 3 33.3 2 2 100.0 1 3 4 3 3 1 0 3 2
+p716
+aVStephon Marbury NJN 11/18/2000 NJN vs. IND W 40 20 7 19 36.8 1 5 20.0 5 7 71.4 1 5 6 10 0 0 2 3 -1
+p717
+aVKevin Ollie NJN 11/18/2000 NJN vs. IND W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 6
+p718
+aVLucious Harris NJN 11/15/2000 NJN vs. MIA W 21 10 4 6 66.7 1 2 50.0 1 2 50.0 0 2 2 2 2 0 0 2 1
+p719
+aVStephen Jackson NJN 11/15/2000 NJN vs. MIA W 42 13 4 13 30.8 3 5 60.0 2 4 50.0 2 2 4 3 2 0 3 3 -4
+p720
+aVSherman Douglas NJN 11/15/2000 NJN vs. MIA W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -7
+p721
+aVEvan Eschmeyer NJN 11/15/2000 NJN vs. MIA W 26 4 1 4 25.0 0 0 - 2 2 100.0 3 3 6 1 1 1 3 3 13
+p722
+aVAaron Williams NJN 11/15/2000 NJN vs. MIA W 25 17 7 9 77.8 0 0 - 3 5 60.0 5 4 9 0 0 0 2 5 5
+p723
+aVKendall Gill NJN 11/15/2000 NJN vs. MIA W 30 11 5 9 55.6 0 0 - 1 3 33.3 0 1 1 3 4 0 2 1 7
+p724
+aVStephon Marbury NJN 11/15/2000 NJN vs. MIA W 43 31 10 17 58.8 3 3 100.0 8 10 80.0 0 9 9 9 2 0 2 2 9
+p725
+aVJohnny Newman NJN 11/15/2000 NJN vs. MIA W 15 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 3 -13
+p726
+aVJim McIlvaine NJN 11/15/2000 NJN vs. MIA W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 1 1 -4
+p727
+aVKenyon Martin NJN 11/15/2000 NJN vs. MIA W 28 4 2 7 28.6 0 0 - 0 0 - 0 5 5 4 0 4 3 6 5
+p728
+aVKevin Ollie NJN 11/15/2000 NJN vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p729
+aVLucious Harris NJN 11/13/2000 NJN vs. POR L 20 4 1 6 16.7 0 1 0.0 2 2 100.0 1 1 2 1 0 0 1 0 -3
+p730
+aVKendall Gill NJN 11/13/2000 NJN vs. POR L 33 6 3 10 30.0 0 0 - 0 0 - 2 3 5 3 2 0 1 1 -14
+p731
+aVStephon Marbury NJN 11/13/2000 NJN vs. POR L 38 24 9 22 40.9 2 6 33.3 4 4 100.0 0 2 2 4 0 0 3 1 -14
+p732
+aVJim McIlvaine NJN 11/13/2000 NJN vs. POR L 15 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 3 -1
+p733
+aVSherman Douglas NJN 11/13/2000 NJN vs. POR L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 2 0 1 1 -1
+p734
+aVAaron Williams NJN 11/13/2000 NJN vs. POR L 31 14 4 11 36.4 0 0 - 6 9 66.7 4 7 11 1 0 3 1 4 8
+p735
+aVJohnny Newman NJN 11/13/2000 NJN vs. POR L 24 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 2 1 1 1 0 9
+p736
+aVEvan Eschmeyer NJN 11/13/2000 NJN vs. POR L 14 3 0 1 0.0 0 0 - 3 4 75.0 2 2 4 0 0 1 3 3 -17
+p737
+aVKenyon Martin NJN 11/13/2000 NJN vs. POR L 36 18 8 17 47.1 0 0 - 2 3 66.7 3 5 8 2 1 5 4 4 -14
+p738
+aVStephen Jackson NJN 11/13/2000 NJN vs. POR L 20 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 4 1 0 0 0 -16
+p739
+aVKevin Ollie NJN 11/13/2000 NJN vs. POR L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 0 3
+p740
+aVJim McIlvaine NJN 11/11/2000 NJN vs. SEA W 15 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 1 0 0 5 -2
+p741
+aVSherman Douglas NJN 11/11/2000 NJN vs. SEA W 19 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 2 2 0 1 3 11
+p742
+aVKevin Ollie NJN 11/11/2000 NJN vs. SEA W 6 0 0 1 0.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 0
+p743
+aVStephen Jackson NJN 11/11/2000 NJN vs. SEA W 25 13 5 7 71.4 0 1 0.0 3 4 75.0 0 1 1 2 3 0 3 3 18
+p744
+aVKenyon Martin NJN 11/11/2000 NJN vs. SEA W 23 2 1 3 33.3 0 1 0.0 0 2 0.0 0 2 2 2 2 2 2 4 23
+p745
+aVStephon Marbury NJN 11/11/2000 NJN vs. SEA W 29 41 17 26 65.4 2 4 50.0 5 8 62.5 2 3 5 9 2 0 2 3 24
+p746
+aVSoumaila Samake NJN 11/11/2000 NJN vs. SEA W 9 4 2 5 40.0 0 0 - 0 0 - 4 0 4 0 0 0 0 0 6
+p747
+aVLucious Harris NJN 11/11/2000 NJN vs. SEA W 18 12 5 6 83.3 0 0 - 2 4 50.0 1 0 1 3 1 0 1 1 12
+p748
+aVKendall Gill NJN 11/11/2000 NJN vs. SEA W 30 22 11 17 64.7 0 0 - 0 0 - 1 0 1 3 4 0 1 2 23
+p749
+aVJohnny Newman NJN 11/11/2000 NJN vs. SEA W 19 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 1 1 0 3 1 20
+p750
+aVAaron Williams NJN 11/11/2000 NJN vs. SEA W 18 6 3 6 50.0 0 0 - 0 0 - 2 7 9 0 0 0 3 6 10
+p751
+aVEvan Eschmeyer NJN 11/11/2000 NJN vs. SEA W 28 4 2 4 50.0 0 0 - 0 0 - 2 6 8 3 2 0 1 4 30
+p752
+aVJohnny Newman NJN 11/09/2000 NJN vs. DET L 29 10 4 8 50.0 2 4 50.0 0 0 - 0 3 3 2 1 0 1 3 2
+p753
+aVKevin Ollie NJN 11/09/2000 NJN vs. DET L 17 0 0 3 0.0 0 0 - 0 0 - 1 1 2 4 1 0 1 1 2
+p754
+aVEvan Eschmeyer NJN 11/09/2000 NJN vs. DET L 30 9 3 3 100.0 0 0 - 3 4 75.0 3 7 10 2 0 0 2 3 -5
+p755
+aVLucious Harris NJN 11/09/2000 NJN vs. DET L 12 5 2 7 28.6 0 1 0.0 1 1 100.0 1 2 3 1 0 0 0 1 -7
+p756
+aVAaron Williams NJN 11/09/2000 NJN vs. DET L 42 12 5 14 35.7 0 0 - 2 5 40.0 3 4 7 2 0 0 0 3 -16
+p757
+aVStephen Jackson NJN 11/09/2000 NJN vs. DET L 32 15 6 12 50.0 3 5 60.0 0 0 - 0 3 3 1 0 0 2 4 -13
+p758
+aVStephon Marbury NJN 11/09/2000 NJN vs. DET L 40 32 13 28 46.4 3 9 33.3 3 5 60.0 1 0 1 11 1 0 4 4 -16
+p759
+aVSoumaila Samake NJN 11/09/2000 NJN vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p760
+aVJim McIlvaine NJN 11/09/2000 NJN vs. DET L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p761
+aVKenyon Martin NJN 11/09/2000 NJN vs. DET L 36 11 5 15 33.3 0 0 - 1 2 50.0 2 4 6 3 1 2 1 3 -14
+p762
+aVKendall Gill NJN 11/08/2000 NJN @ WAS W 11 2 1 6 16.7 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -4
+p763
+aVKevin Ollie NJN 11/08/2000 NJN @ WAS W 16 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 1 0 1 2 1
+p764
+aVAaron Williams NJN 11/08/2000 NJN @ WAS W 29 12 4 6 66.7 0 0 - 4 4 100.0 0 9 9 1 0 0 2 3 7
+p765
+aVSoumaila Samake NJN 11/08/2000 NJN @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p766
+aVStephon Marbury NJN 11/08/2000 NJN @ WAS W 39 31 11 15 73.3 4 7 57.1 5 7 71.4 0 4 4 7 0 0 3 1 23
+p767
+aVStephen Jackson NJN 11/08/2000 NJN @ WAS W 35 16 7 17 41.2 0 3 0.0 2 4 50.0 0 3 3 6 1 0 5 4 21
+p768
+aVKenyon Martin NJN 11/08/2000 NJN @ WAS W 39 20 9 17 52.9 0 0 - 2 4 50.0 1 6 7 4 4 3 2 4 29
+p769
+aVJim McIlvaine NJN 11/08/2000 NJN @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -4
+p770
+aVEvan Eschmeyer NJN 11/08/2000 NJN @ WAS W 25 6 2 2 100.0 0 0 - 2 2 100.0 1 6 7 0 2 1 1 4 0
+p771
+aVSherman Douglas NJN 11/08/2000 NJN @ WAS W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 2 0 1 0 -3
+p772
+aVJohnny Newman NJN 11/08/2000 NJN @ WAS W 31 11 3 9 33.3 1 2 50.0 4 4 100.0 1 2 3 1 1 0 1 5 14
+p773
+aVAaron Williams NJN 11/04/2000 NJN vs. CHH L 25 8 1 4 25.0 0 0 - 6 8 75.0 0 4 4 0 1 0 0 4 -18
+p774
+aVKevin Ollie NJN 11/04/2000 NJN vs. CHH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p775
+aVKendall Gill NJN 11/04/2000 NJN vs. CHH L 41 16 7 17 41.2 0 1 0.0 2 4 50.0 2 1 3 4 1 0 2 3 -8
+p776
+aVStephen Jackson NJN 11/04/2000 NJN vs. CHH L 30 6 2 9 22.2 0 2 0.0 2 2 100.0 0 1 1 4 3 0 2 3 1
+p777
+aVJim McIlvaine NJN 11/04/2000 NJN vs. CHH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p778
+aVEvan Eschmeyer NJN 11/04/2000 NJN vs. CHH L 27 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 1 1 0 5 1
+p779
+aVJohnny Newman NJN 11/04/2000 NJN vs. CHH L 23 11 4 8 50.0 0 2 0.0 3 4 75.0 1 2 3 4 0 0 1 1 -13
+p780
+aVKenyon Martin NJN 11/04/2000 NJN vs. CHH L 39 8 4 14 28.6 0 0 - 0 0 - 2 7 9 3 0 3 2 4 -4
+p781
+aVStephon Marbury NJN 11/04/2000 NJN vs. CHH L 38 33 12 22 54.5 1 4 25.0 8 8 100.0 0 6 6 6 1 1 3 4 -8
+p782
+aVSherman Douglas NJN 11/04/2000 NJN vs. CHH L 10 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 2 1 -3
+p783
+aVSoumaila Samake NJN 11/03/2000 NJN @ CHI W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p784
+aVStephen Jackson NJN 11/03/2000 NJN @ CHI W 30 7 3 12 25.0 0 0 - 1 3 33.3 1 2 3 2 2 0 3 4 5
+p785
+aVJohnny Newman NJN 11/03/2000 NJN @ CHI W 27 7 2 8 25.0 0 2 0.0 3 4 75.0 0 3 3 0 1 0 1 2 6
+p786
+aVJim McIlvaine NJN 11/03/2000 NJN @ CHI W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 1 2 -7
+p787
+aVStephon Marbury NJN 11/03/2000 NJN @ CHI W 33 33 13 22 59.1 1 1 100.0 6 10 60.0 2 2 4 4 1 0 5 2 5
+p788
+aVEvan Eschmeyer NJN 11/03/2000 NJN @ CHI W 32 6 2 4 50.0 0 0 - 2 4 50.0 5 8 13 0 2 1 1 5 10
+p789
+aVKendall Gill NJN 11/03/2000 NJN @ CHI W 40 18 6 14 42.9 0 0 - 6 8 75.0 1 6 7 7 3 0 0 2 9
+p790
+aVKenyon Martin NJN 11/03/2000 NJN @ CHI W 28 6 3 6 50.0 0 0 - 0 0 - 3 1 4 3 0 3 1 5 8
+p791
+aVSherman Douglas NJN 11/03/2000 NJN @ CHI W 15 11 3 7 42.9 0 1 0.0 5 7 71.4 0 2 2 1 2 0 0 1 5
+p792
+aVAaron Williams NJN 11/03/2000 NJN @ CHI W 18 4 1 5 20.0 0 0 - 2 2 100.0 2 5 7 0 0 1 1 5 12
+p793
+aVEvan Eschmeyer NJN 10/31/2000 NJN vs. CLE L 27 1 0 1 0.0 0 0 - 1 2 50.0 2 9 11 4 0 2 2 6 -3
+p794
+aVSoumaila Samake NJN 10/31/2000 NJN vs. CLE L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -3
+p795
+aVSherman Douglas NJN 10/31/2000 NJN vs. CLE L 17 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 2 0 0 0 3 4
+p796
+aVAaron Williams NJN 10/31/2000 NJN vs. CLE L 24 20 9 13 69.2 0 0 - 2 2 100.0 3 6 9 1 1 1 1 5 12
+p797
+aVStephen Jackson NJN 10/31/2000 NJN vs. CLE L 23 15 6 10 60.0 2 3 66.7 1 2 50.0 1 2 3 1 2 1 4 3 -13
+p798
+aVJohnny Newman NJN 10/31/2000 NJN vs. CLE L 31 13 4 9 44.4 1 2 50.0 4 5 80.0 0 2 2 2 0 1 2 2 9
+p799
+aVKenyon Martin NJN 10/31/2000 NJN vs. CLE L 30 10 4 16 25.0 0 0 - 2 2 100.0 1 6 7 2 1 1 0 6 -8
+p800
+aVKendall Gill NJN 10/31/2000 NJN vs. CLE L 33 3 1 10 10.0 0 0 - 1 5 20.0 1 5 6 3 2 1 1 2 -5
+p801
+aVJim McIlvaine NJN 10/31/2000 NJN vs. CLE L 11 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 2 0 0 2 -6
+p802
+aVStephon Marbury NJN 10/31/2000 NJN vs. CLE L 40 9 3 17 17.6 0 5 0.0 3 4 75.0 2 4 6 9 1 0 2 2 -7
+p803
+a.

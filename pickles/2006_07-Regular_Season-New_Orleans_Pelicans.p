@@ -1,0 +1,1598 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMarc Jackson NOK 04/18/2007 NOK @ LAC W 37 12 3 11 27.3 0 0 - 6 6 100.0 2 3 5 2 0 0 0 1 5
+p2
+aVChris Paul NOK 04/18/2007 NOK @ LAC W 36 6 3 9 33.3 0 1 0.0 0 0 - 1 2 3 10 2 0 4 3 8
+p3
+aVDavid West NOK 04/18/2007 NOK @ LAC W 42 32 15 26 57.7 0 1 0.0 2 2 100.0 4 5 9 0 3 2 2 4 7
+p4
+aVRasual Butler NOK 04/18/2007 NOK @ LAC W 35 11 4 9 44.4 2 7 28.6 1 1 100.0 2 0 2 1 1 1 0 3 7
+p5
+aVHilton Armstrong NOK 04/18/2007 NOK @ LAC W 17 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -6
+p6
+aVDevin Brown NOK 04/18/2007 NOK @ LAC W 30 12 5 11 45.5 2 4 50.0 0 0 - 3 5 8 3 1 0 1 3 12
+p7
+aVMarcus Vinicius NOK 04/18/2007 NOK @ LAC W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 0 -4
+p8
+aVJannero Pargo NOK 04/18/2007 NOK @ LAC W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -5
+p9
+aVBobby Jackson NOK 04/18/2007 NOK @ LAC W 25 9 3 8 37.5 1 4 25.0 2 2 100.0 1 1 2 3 0 0 2 0 -9
+p10
+aVChris Paul NOK 04/16/2007 NOK @ SAC W 35 23 8 13 61.5 2 2 100.0 5 6 83.3 1 3 4 12 2 0 0 4 23
+p11
+aVCedric Simmons NOK 04/16/2007 NOK @ SAC W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p12
+aVBobby Jackson NOK 04/16/2007 NOK @ SAC W 29 20 8 13 61.5 2 5 40.0 2 2 100.0 1 4 5 3 0 1 2 2 13
+p13
+aVBrandon Bass NOK 04/16/2007 NOK @ SAC W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p14
+aVHilton Armstrong NOK 04/16/2007 NOK @ SAC W 18 6 3 4 75.0 0 0 - 0 0 - 2 5 7 0 0 0 1 0 9
+p15
+aVMarcus Vinicius NOK 04/16/2007 NOK @ SAC W 18 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 1 0 0 2 1 -6
+p16
+aVDevin Brown NOK 04/16/2007 NOK @ SAC W 31 20 7 11 63.6 2 6 33.3 4 4 100.0 1 3 4 3 0 0 0 3 22
+p17
+aVRasual Butler NOK 04/16/2007 NOK @ SAC W 25 13 5 9 55.6 3 6 50.0 0 0 - 0 5 5 0 0 0 0 3 -3
+p18
+aVDavid West NOK 04/16/2007 NOK @ SAC W 36 25 10 19 52.6 0 2 0.0 5 5 100.0 1 4 5 4 2 2 2 3 24
+p19
+aVMarc Jackson NOK 04/16/2007 NOK @ SAC W 21 12 5 9 55.6 0 0 - 2 3 66.7 0 5 5 1 0 0 1 2 -6
+p20
+aVLinton Johnson NOK 04/16/2007 NOK @ SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 1 3 -6
+p21
+aVJannero Pargo NOK 04/16/2007 NOK @ SAC W 13 2 1 5 20.0 0 0 - 0 0 - 0 2 2 4 0 0 2 2 -16
+p22
+aVJannero Pargo NOK 04/14/2007 NOK @ HOU L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p23
+aVMarc Jackson NOK 04/14/2007 NOK @ HOU L 25 22 10 19 52.6 0 0 - 2 2 100.0 2 1 3 1 2 0 1 3 -15
+p24
+aVDevin Brown NOK 04/14/2007 NOK @ HOU L 39 21 6 14 42.9 3 9 33.3 6 6 100.0 2 5 7 1 0 0 1 5 -13
+p25
+aVBobby Jackson NOK 04/14/2007 NOK @ HOU L 20 2 1 7 14.3 0 1 0.0 0 0 - 1 2 3 5 0 0 1 0 -10
+p26
+aVBrandon Bass NOK 04/14/2007 NOK @ HOU L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -8
+p27
+aVDavid West NOK 04/14/2007 NOK @ HOU L 42 33 14 19 73.7 1 1 100.0 4 5 80.0 1 3 4 1 2 1 3 2 -3
+p28
+aVRasual Butler NOK 04/14/2007 NOK @ HOU L 36 6 3 6 50.0 0 3 0.0 0 0 - 1 1 2 2 0 0 1 1 4
+p29
+aVChris Paul NOK 04/14/2007 NOK @ HOU L 42 20 9 15 60.0 1 3 33.3 1 1 100.0 2 6 8 15 1 0 5 2 -3
+p30
+aVHilton Armstrong NOK 04/14/2007 NOK @ HOU L 23 6 1 1 100.0 0 0 - 4 6 66.7 1 3 4 1 0 1 1 3 4
+p31
+aVDevin Brown NOK 04/13/2007 NOK vs. DEN L 26 8 4 9 44.4 0 2 0.0 0 0 - 4 1 5 3 0 1 2 2 -9
+p32
+aVHilton Armstrong NOK 04/13/2007 NOK vs. DEN L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 6
+p33
+aVChris Paul NOK 04/13/2007 NOK vs. DEN L 38 18 8 21 38.1 1 4 25.0 1 2 50.0 1 2 3 8 1 0 3 2 -3
+p34
+aVMarc Jackson NOK 04/13/2007 NOK vs. DEN L 37 13 5 9 55.6 0 0 - 3 3 100.0 4 9 13 0 0 0 1 2 -10
+p35
+aVMarcus Vinicius NOK 04/13/2007 NOK vs. DEN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p36
+aVJannero Pargo NOK 04/13/2007 NOK vs. DEN L 10 7 3 5 60.0 0 1 0.0 1 1 100.0 0 1 1 2 1 0 2 2 1
+p37
+aVDavid West NOK 04/13/2007 NOK vs. DEN L 45 31 13 23 56.5 1 2 50.0 4 6 66.7 3 11 14 3 1 1 3 3 -1
+p38
+aVRasual Butler NOK 04/13/2007 NOK vs. DEN L 43 13 5 16 31.3 3 12 25.0 0 0 - 2 3 5 0 0 3 0 2 0
+p39
+aVBobby Jackson NOK 04/13/2007 NOK vs. DEN L 23 13 4 7 57.1 1 3 33.3 4 4 100.0 2 1 3 0 1 0 0 3 8
+p40
+aVHilton Armstrong NOK 04/10/2007 NOK vs. LAC W 16 2 1 1 100.0 0 0 - 0 0 - 3 1 4 0 0 1 1 4 -5
+p41
+aVBobby Jackson NOK 04/10/2007 NOK vs. LAC W 26 10 3 8 37.5 2 5 40.0 2 2 100.0 0 3 3 1 2 0 1 0 -9
+p42
+aVDavid West NOK 04/10/2007 NOK vs. LAC W 48 33 12 23 52.2 0 1 0.0 9 13 69.2 2 5 7 2 1 0 1 5 17
+p43
+aVMarc Jackson NOK 04/10/2007 NOK vs. LAC W 37 2 1 5 20.0 0 0 - 0 0 - 0 6 6 3 0 0 1 4 7
+p44
+aVRasual Butler NOK 04/10/2007 NOK vs. LAC W 42 9 3 12 25.0 1 8 12.5 2 2 100.0 0 6 6 1 0 0 0 2 4
+p45
+aVDevin Brown NOK 04/10/2007 NOK vs. LAC W 43 25 8 13 61.5 2 4 50.0 7 8 87.5 1 8 9 1 3 0 1 2 3
+p46
+aVJannero Pargo NOK 04/10/2007 NOK vs. LAC W 11 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 1 -14
+p47
+aVChris Paul NOK 04/10/2007 NOK vs. LAC W 42 17 7 15 46.7 0 3 0.0 3 5 60.0 2 5 7 10 0 1 3 2 12
+p48
+aVHilton Armstrong NOK 04/07/2007 NOK @ MIN W 24 6 1 2 50.0 0 0 - 4 4 100.0 3 2 5 0 1 2 1 4 -3
+p49
+aVJannero Pargo NOK 04/07/2007 NOK @ MIN W 19 8 3 8 37.5 0 2 0.0 2 4 50.0 0 2 2 1 0 0 1 1 -5
+p50
+aVChris Paul NOK 04/07/2007 NOK @ MIN W 36 18 6 12 50.0 3 6 50.0 3 6 50.0 1 2 3 10 3 1 1 1 5
+p51
+aVMarc Jackson NOK 04/07/2007 NOK @ MIN W 27 15 5 13 38.5 0 0 - 5 5 100.0 5 6 11 1 0 0 3 1 6
+p52
+aVRasual Butler NOK 04/07/2007 NOK @ MIN W 42 17 5 19 26.3 3 12 25.0 4 6 66.7 3 5 8 0 1 1 0 2 6
+p53
+aVMarcus Vinicius NOK 04/07/2007 NOK @ MIN W 6 4 1 2 50.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 1 -4
+p54
+aVDavid West NOK 04/07/2007 NOK @ MIN W 40 15 5 14 35.7 0 0 - 5 6 83.3 1 8 9 1 1 0 0 3 3
+p55
+aVDevin Brown NOK 04/07/2007 NOK @ MIN W 20 8 2 9 22.2 1 5 20.0 3 3 100.0 0 3 3 2 0 0 0 2 -1
+p56
+aVBrandon Bass NOK 04/07/2007 NOK @ MIN W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p57
+aVBobby Jackson NOK 04/07/2007 NOK @ MIN W 20 3 1 11 9.1 0 4 0.0 1 2 50.0 3 2 5 3 1 0 3 2 5
+p58
+aVRasual Butler NOK 04/06/2007 NOK vs. PHX L 40 12 5 8 62.5 2 2 100.0 0 0 - 0 7 7 1 0 1 0 1 -5
+p59
+aVDavid West NOK 04/06/2007 NOK vs. PHX L 35 17 6 14 42.9 0 1 0.0 5 5 100.0 2 3 5 3 1 1 4 0 -2
+p60
+aVMarc Jackson NOK 04/06/2007 NOK vs. PHX L 28 16 8 13 61.5 0 0 - 0 0 - 1 4 5 2 0 0 4 3 1
+p61
+aVMarcus Vinicius NOK 04/06/2007 NOK vs. PHX L 18 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 1 1 0 0 2 -4
+p62
+aVBobby Jackson NOK 04/06/2007 NOK vs. PHX L 22 11 4 10 40.0 1 3 33.3 2 2 100.0 0 1 1 4 1 0 4 1 -8
+p63
+aVDevin Brown NOK 04/06/2007 NOK vs. PHX L 35 13 5 13 38.5 1 4 25.0 2 2 100.0 1 6 7 6 0 0 0 3 -8
+p64
+aVBrandon Bass NOK 04/06/2007 NOK vs. PHX L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 1
+p65
+aVHilton Armstrong NOK 04/06/2007 NOK vs. PHX L 18 8 3 5 60.0 0 0 - 2 3 66.7 1 2 3 0 0 2 1 4 -11
+p66
+aVJannero Pargo NOK 04/06/2007 NOK vs. PHX L 37 13 5 12 41.7 2 5 40.0 1 1 100.0 0 1 1 5 3 0 0 4 -4
+p67
+aVChris Paul NOK 04/04/2007 NOK vs. SEA W 43 11 3 14 21.4 0 2 0.0 5 6 83.3 2 9 11 9 0 0 2 1 2
+p68
+aVDavid West NOK 04/04/2007 NOK vs. SEA W 50 18 9 18 50.0 0 1 0.0 0 0 - 5 9 14 5 1 1 3 1 12
+p69
+aVDevin Brown NOK 04/04/2007 NOK vs. SEA W 27 14 6 11 54.5 2 6 33.3 0 0 - 0 3 3 0 0 0 2 2 -4
+p70
+aVBrandon Bass NOK 04/04/2007 NOK vs. SEA W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p71
+aVDesmond Mason NOK 04/04/2007 NOK vs. SEA W 14 9 4 7 57.1 0 0 - 1 2 50.0 2 1 3 0 0 0 3 0 0
+p72
+aVMarc Jackson NOK 04/04/2007 NOK vs. SEA W 39 13 5 10 50.0 0 0 - 3 3 100.0 3 9 12 3 1 0 3 3 -2
+p73
+aVRasual Butler NOK 04/04/2007 NOK vs. SEA W 36 16 6 11 54.5 4 7 57.1 0 0 - 0 2 2 1 1 3 2 2 18
+p74
+aVTyson Chandler NOK 04/04/2007 NOK vs. SEA W 7 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 1
+p75
+aVJannero Pargo NOK 04/04/2007 NOK vs. SEA W 10 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 0 2 11
+p76
+aVBobby Jackson NOK 04/04/2007 NOK vs. SEA W 31 18 5 10 50.0 2 3 66.7 6 6 100.0 2 2 4 3 1 0 2 2 6
+p77
+aVRasual Butler NOK 04/03/2007 NOK @ MIL W 20 10 3 9 33.3 3 6 50.0 1 2 50.0 0 1 1 0 0 2 1 1 9
+p78
+aVChris Paul NOK 04/03/2007 NOK @ MIL W 30 8 3 10 30.0 1 6 16.7 1 1 100.0 0 2 2 14 0 0 3 3 11
+p79
+aVTyson Chandler NOK 04/03/2007 NOK @ MIL W 36 18 8 12 66.7 0 0 - 2 4 50.0 6 14 20 1 0 1 3 1 30
+p80
+aVBobby Jackson NOK 04/03/2007 NOK @ MIL W 22 13 4 8 50.0 2 3 66.7 3 3 100.0 2 6 8 3 1 0 1 0 14
+p81
+aVDavid West NOK 04/03/2007 NOK @ MIL W 34 24 8 11 72.7 0 0 - 8 8 100.0 0 6 6 4 0 1 2 1 6
+p82
+aVJannero Pargo NOK 04/03/2007 NOK @ MIL W 18 12 4 7 57.1 2 2 100.0 2 2 100.0 0 1 1 1 0 0 4 0 7
+p83
+aVCedric Simmons NOK 04/03/2007 NOK @ MIL W 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -6
+p84
+aVDesmond Mason NOK 04/03/2007 NOK @ MIL W 36 21 7 10 70.0 0 0 - 7 8 87.5 1 2 3 2 2 0 1 4 17
+p85
+aVDevin Brown NOK 04/03/2007 NOK @ MIL W 26 11 4 7 57.1 1 3 33.3 2 3 66.7 2 1 3 3 3 0 3 1 4
+p86
+aVHilton Armstrong NOK 04/03/2007 NOK @ MIL W 14 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -2
+p87
+aVRasual Butler NOK 03/31/2007 NOK vs. NYK W 15 2 1 4 25.0 0 1 0.0 0 2 0.0 0 4 4 0 0 1 0 0 9
+p88
+aVBobby Jackson NOK 03/31/2007 NOK vs. NYK W 21 12 4 8 50.0 1 4 25.0 3 3 100.0 0 1 1 3 2 0 1 0 8
+p89
+aVJannero Pargo NOK 03/31/2007 NOK vs. NYK W 29 12 4 9 44.4 4 6 66.7 0 0 - 0 1 1 2 1 0 0 1 18
+p90
+aVDevin Brown NOK 03/31/2007 NOK vs. NYK W 15 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 2 -11
+p91
+aVMarc Jackson NOK 03/31/2007 NOK vs. NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 5
+p92
+aVChris Paul NOK 03/31/2007 NOK vs. NYK W 41 16 4 12 33.3 2 4 50.0 6 7 85.7 1 6 7 6 4 0 2 2 3
+p93
+aVDavid West NOK 03/31/2007 NOK vs. NYK W 46 20 7 15 46.7 1 2 50.0 5 5 100.0 1 7 8 3 0 0 1 2 8
+p94
+aVHilton Armstrong NOK 03/31/2007 NOK vs. NYK W 13 4 2 3 66.7 0 0 - 0 3 0.0 0 1 1 1 0 0 1 2 7
+p95
+aVDesmond Mason NOK 03/31/2007 NOK vs. NYK W 40 19 7 16 43.8 0 0 - 5 7 71.4 1 4 5 1 2 0 2 2 -5
+p96
+aVTyson Chandler NOK 03/31/2007 NOK vs. NYK W 40 13 4 6 66.7 0 0 - 5 8 62.5 6 7 13 2 1 1 2 5 3
+p97
+aVJannero Pargo NOK 03/28/2007 NOK @ SAS L 27 13 5 9 55.6 3 5 60.0 0 0 - 2 4 6 4 2 0 6 2 0
+p98
+aVDevin Brown NOK 03/28/2007 NOK @ SAS L 30 11 4 5 80.0 0 1 0.0 3 4 75.0 0 2 2 0 0 0 1 3 0
+p99
+aVTyson Chandler NOK 03/28/2007 NOK @ SAS L 38 10 3 6 50.0 0 0 - 4 4 100.0 1 11 12 0 0 1 2 4 0
+p100
+aVHilton Armstrong NOK 03/28/2007 NOK @ SAS L 7 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 2
+p101
+aVRasual Butler NOK 03/28/2007 NOK @ SAS L 27 12 4 8 50.0 4 5 80.0 0 0 - 0 2 2 0 0 2 0 0 -7
+p102
+aVChris Paul NOK 03/28/2007 NOK @ SAS L 39 20 5 14 35.7 1 2 50.0 9 10 90.0 1 4 5 9 2 0 4 5 -8
+p103
+aVMarc Jackson NOK 03/28/2007 NOK @ SAS L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p104
+aVDavid West NOK 03/28/2007 NOK @ SAS L 40 16 7 15 46.7 0 0 - 2 2 100.0 0 7 7 1 0 2 2 3 -3
+p105
+aVDesmond Mason NOK 03/28/2007 NOK @ SAS L 27 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 2 1 4 0 -3
+p106
+aVDavid West NOK 03/27/2007 NOK vs. DAL L 28 10 5 11 45.5 0 0 - 0 0 - 1 1 2 2 0 0 4 4 -22
+p107
+aVBrandon Bass NOK 03/27/2007 NOK vs. DAL L 5 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 15
+p108
+aVJannero Pargo NOK 03/27/2007 NOK vs. DAL L 36 23 8 13 61.5 4 5 80.0 3 3 100.0 1 6 7 2 1 1 6 1 -11
+p109
+aVMarc Jackson NOK 03/27/2007 NOK vs. DAL L 14 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 1 -14
+p110
+aVHilton Armstrong NOK 03/27/2007 NOK vs. DAL L 12 4 1 3 33.3 0 0 - 2 3 66.7 1 0 1 0 0 1 0 0 9
+p111
+aVDevin Brown NOK 03/27/2007 NOK vs. DAL L 25 8 3 9 33.3 1 3 33.3 1 1 100.0 0 0 0 2 1 0 0 1 -5
+p112
+aVDesmond Mason NOK 03/27/2007 NOK vs. DAL L 28 10 4 8 50.0 0 0 - 2 2 100.0 2 2 4 1 0 0 3 3 -14
+p113
+aVCedric Simmons NOK 03/27/2007 NOK vs. DAL L 9 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 13
+p114
+aVRasual Butler NOK 03/27/2007 NOK vs. DAL L 26 8 3 12 25.0 2 6 33.3 0 0 - 0 3 3 2 1 1 0 0 8
+p115
+aVChris Paul NOK 03/27/2007 NOK vs. DAL L 29 2 1 10 10.0 0 1 0.0 0 0 - 1 3 4 3 3 0 2 2 -37
+p116
+aVTyson Chandler NOK 03/27/2007 NOK vs. DAL L 28 13 5 8 62.5 0 0 - 3 5 60.0 5 3 8 2 1 1 1 3 -22
+p117
+aVMarc Jackson NOK 03/25/2007 NOK vs. HOU W 13 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 0 0 0 2 1 3
+p118
+aVDesmond Mason NOK 03/25/2007 NOK vs. HOU W 38 19 9 17 52.9 0 0 - 1 1 100.0 0 3 3 1 1 0 3 1 7
+p119
+aVDavid West NOK 03/25/2007 NOK vs. HOU W 38 23 9 16 56.3 0 1 0.0 5 5 100.0 1 4 5 3 0 0 0 2 11
+p120
+aVRasual Butler NOK 03/25/2007 NOK vs. HOU W 33 9 3 6 50.0 1 4 25.0 2 2 100.0 0 6 6 1 0 1 1 0 21
+p121
+aVChris Paul NOK 03/25/2007 NOK vs. HOU W 36 28 10 15 66.7 4 5 80.0 4 4 100.0 0 5 5 5 0 0 0 0 8
+p122
+aVJannero Pargo NOK 03/25/2007 NOK vs. HOU W 14 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 1 0 0 0 0 0
+p123
+aVTyson Chandler NOK 03/25/2007 NOK vs. HOU W 37 14 6 11 54.5 0 0 - 2 4 50.0 4 6 10 1 0 3 1 2 7
+p124
+aVDevin Brown NOK 03/25/2007 NOK vs. HOU W 23 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 2 0 1 0 3 0
+p125
+aVHilton Armstrong NOK 03/25/2007 NOK vs. HOU W 7 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 3
+p126
+aVChris Paul NOK 03/23/2007 NOK vs. LAL L 45 28 9 15 60.0 0 2 0.0 10 12 83.3 1 5 6 12 4 0 1 2 1
+p127
+aVJannero Pargo NOK 03/23/2007 NOK vs. LAL L 15 9 3 9 33.3 3 6 50.0 0 0 - 0 2 2 0 0 0 0 2 -1
+p128
+aVDesmond Mason NOK 03/23/2007 NOK vs. LAL L 35 10 4 14 28.6 0 0 - 2 6 33.3 1 2 3 3 0 0 1 1 -6
+p129
+aVTyson Chandler NOK 03/23/2007 NOK vs. LAL L 40 22 9 13 69.2 0 0 - 4 5 80.0 9 13 22 3 1 2 3 2 -2
+p130
+aVMarc Jackson NOK 03/23/2007 NOK vs. LAL L 8 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -1
+p131
+aVDevin Brown NOK 03/23/2007 NOK vs. LAL L 32 14 4 11 36.4 2 5 40.0 4 4 100.0 1 4 5 0 0 0 3 2 -14
+p132
+aVRasual Butler NOK 03/23/2007 NOK vs. LAL L 36 12 5 12 41.7 2 6 33.3 0 0 - 1 3 4 1 0 1 1 3 4
+p133
+aVDavid West NOK 03/23/2007 NOK vs. LAL L 29 8 4 16 25.0 0 0 - 0 0 - 1 6 7 3 1 0 1 5 -11
+p134
+aVDavid West NOK 03/20/2007 NOK @ MEM W 40 26 10 15 66.7 0 0 - 6 7 85.7 1 5 6 3 1 1 3 4 3
+p135
+aVRasual Butler NOK 03/20/2007 NOK @ MEM W 23 15 6 9 66.7 3 5 60.0 0 0 - 0 1 1 0 0 0 0 1 6
+p136
+aVChris Paul NOK 03/20/2007 NOK @ MEM W 35 23 5 13 38.5 2 5 40.0 11 11 100.0 0 5 5 9 4 0 2 2 0
+p137
+aVJannero Pargo NOK 03/20/2007 NOK @ MEM W 21 11 3 4 75.0 1 1 100.0 4 4 100.0 0 1 1 2 0 0 3 3 8
+p138
+aVTyson Chandler NOK 03/20/2007 NOK @ MEM W 40 16 8 9 88.9 0 0 - 0 0 - 5 6 11 4 1 3 3 2 16
+p139
+aVDesmond Mason NOK 03/20/2007 NOK @ MEM W 33 14 6 10 60.0 0 0 - 2 4 50.0 1 1 2 1 0 1 3 2 20
+p140
+aVMarc Jackson NOK 03/20/2007 NOK @ MEM W 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 1 1
+p141
+aVDevin Brown NOK 03/20/2007 NOK @ MEM W 33 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 4 1 0 2 3 1
+p142
+aVDevin Brown NOK 03/19/2007 NOK vs. BOS W 23 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 1 1 1 0 0 16
+p143
+aVRasual Butler NOK 03/19/2007 NOK vs. BOS W 25 18 6 9 66.7 5 7 71.4 1 2 50.0 0 2 2 0 0 1 0 0 15
+p144
+aVDavid West NOK 03/19/2007 NOK vs. BOS W 30 12 4 10 40.0 0 0 - 4 4 100.0 0 7 7 1 0 0 3 1 22
+p145
+aVJannero Pargo NOK 03/19/2007 NOK vs. BOS W 19 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 -2
+p146
+aVChris Paul NOK 03/19/2007 NOK vs. BOS W 29 15 5 8 62.5 2 2 100.0 3 4 75.0 1 4 5 6 3 0 3 3 20
+p147
+aVMarc Jackson NOK 03/19/2007 NOK vs. BOS W 15 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 1 1 1 1 1 5
+p148
+aVTyson Chandler NOK 03/19/2007 NOK vs. BOS W 27 16 6 9 66.7 0 0 - 4 8 50.0 3 8 11 2 1 0 1 2 21
+p149
+aVDesmond Mason NOK 03/19/2007 NOK vs. BOS W 23 11 5 10 50.0 0 0 - 1 2 50.0 2 1 3 2 1 1 2 4 3
+p150
+aVHilton Armstrong NOK 03/19/2007 NOK vs. BOS W 12 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 4 3 -10
+p151
+aVCedric Simmons NOK 03/19/2007 NOK vs. BOS W 5 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 -10
+p152
+aVBobby Jackson NOK 03/19/2007 NOK vs. BOS W 31 6 2 8 25.0 1 5 20.0 1 1 100.0 0 1 1 4 1 0 1 2 10
+p153
+aVHilton Armstrong NOK 03/17/2007 NOK @ WAS L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 4
+p154
+aVBobby Jackson NOK 03/17/2007 NOK @ WAS L 19 10 4 8 50.0 2 4 50.0 0 0 - 0 0 0 2 2 0 1 2 -16
+p155
+aVChris Paul NOK 03/17/2007 NOK @ WAS L 31 21 7 10 70.0 0 1 0.0 7 7 100.0 2 1 3 8 1 0 3 3 -17
+p156
+aVTyson Chandler NOK 03/17/2007 NOK @ WAS L 33 4 2 8 25.0 0 0 - 0 0 - 2 8 10 0 0 1 2 2 -20
+p157
+aVDesmond Mason NOK 03/17/2007 NOK @ WAS L 27 11 2 5 40.0 0 0 - 7 7 100.0 0 1 1 0 0 1 1 2 -11
+p158
+aVJannero Pargo NOK 03/17/2007 NOK @ WAS L 17 7 2 6 33.3 0 4 0.0 3 4 75.0 0 3 3 5 1 0 0 2 -5
+p159
+aVCedric Simmons NOK 03/17/2007 NOK @ WAS L 7 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 4
+p160
+aVMarc Jackson NOK 03/17/2007 NOK @ WAS L 15 10 5 7 71.4 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -6
+p161
+aVDavid West NOK 03/17/2007 NOK @ WAS L 35 17 8 16 50.0 0 1 0.0 1 2 50.0 2 6 8 3 0 0 2 2 -26
+p162
+aVDevin Brown NOK 03/17/2007 NOK @ WAS L 29 6 2 9 22.2 0 3 0.0 2 2 100.0 2 2 4 4 0 0 2 2 -6
+p163
+aVRasual Butler NOK 03/17/2007 NOK @ WAS L 21 9 3 7 42.9 3 6 50.0 0 0 - 0 2 2 0 0 0 0 0 -11
+p164
+aVDesmond Mason NOK 03/16/2007 NOK @ NYK W 29 10 4 8 50.0 0 0 - 2 4 50.0 1 0 1 1 1 1 1 0 -7
+p165
+aVTyson Chandler NOK 03/16/2007 NOK @ NYK W 41 6 1 2 50.0 0 0 - 4 5 80.0 6 5 11 1 1 1 3 4 4
+p166
+aVLinton Johnson NOK 03/16/2007 NOK @ NYK W 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p167
+aVDevin Brown NOK 03/16/2007 NOK @ NYK W 25 7 2 5 40.0 2 4 50.0 1 2 50.0 0 3 3 1 2 0 1 4 7
+p168
+aVHilton Armstrong NOK 03/16/2007 NOK @ NYK W 9 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 0 0 1 1 -4
+p169
+aVRasual Butler NOK 03/16/2007 NOK @ NYK W 19 17 6 7 85.7 5 5 100.0 0 0 - 0 2 2 0 0 1 0 0 9
+p170
+aVMarc Jackson NOK 03/16/2007 NOK @ NYK W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p171
+aVJannero Pargo NOK 03/16/2007 NOK @ NYK W 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 0
+p172
+aVChris Paul NOK 03/16/2007 NOK @ NYK W 40 20 6 15 40.0 1 2 50.0 7 8 87.5 1 4 5 8 0 0 2 0 0
+p173
+aVBobby Jackson NOK 03/16/2007 NOK @ NYK W 22 10 4 10 40.0 1 4 25.0 1 2 50.0 1 4 5 2 1 0 0 0 -3
+p174
+aVDavid West NOK 03/16/2007 NOK @ NYK W 38 18 7 19 36.8 0 1 0.0 4 4 100.0 7 5 12 0 0 0 8 5 9
+p175
+aVJannero Pargo NOK 03/13/2007 NOK vs. NJN L 13 4 1 3 33.3 0 0 - 2 3 66.7 0 0 0 0 2 0 1 4 -10
+p176
+aVMarc Jackson NOK 03/13/2007 NOK vs. NJN L 6 5 1 3 33.3 0 0 - 3 3 100.0 2 0 2 0 1 0 0 0 -3
+p177
+aVLinton Johnson NOK 03/13/2007 NOK vs. NJN L 17 7 3 5 60.0 0 0 - 1 2 50.0 0 6 6 1 3 0 0 3 -2
+p178
+aVDavid West NOK 03/13/2007 NOK vs. NJN L 37 24 9 16 56.3 1 2 50.0 5 6 83.3 4 3 7 2 0 0 2 1 -3
+p179
+aVRasual Butler NOK 03/13/2007 NOK vs. NJN L 6 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -9
+p180
+aVChris Paul NOK 03/13/2007 NOK vs. NJN L 38 25 10 19 52.6 3 6 50.0 2 2 100.0 1 5 6 12 1 0 2 2 2
+p181
+aVDevin Brown NOK 03/13/2007 NOK vs. NJN L 32 13 5 10 50.0 2 3 66.7 1 3 33.3 1 3 4 3 1 0 5 3 -10
+p182
+aVDesmond Mason NOK 03/13/2007 NOK vs. NJN L 30 12 5 18 27.8 0 0 - 2 2 100.0 4 0 4 2 0 1 1 2 5
+p183
+aVTyson Chandler NOK 03/13/2007 NOK vs. NJN L 35 6 2 3 66.7 0 0 - 2 4 50.0 5 6 11 0 0 1 3 6 1
+p184
+aVBobby Jackson NOK 03/13/2007 NOK vs. NJN L 24 12 4 6 66.7 3 4 75.0 1 2 50.0 1 0 1 3 1 0 0 1 9
+p185
+aVRasual Butler NOK 03/10/2007 NOK @ UTA L 13 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 1 0 0 1 3 1
+p186
+aVDavid West NOK 03/10/2007 NOK @ UTA L 35 13 4 13 30.8 1 1 100.0 4 6 66.7 3 7 10 0 0 0 2 1 -10
+p187
+aVBobby Jackson NOK 03/10/2007 NOK @ UTA L 20 6 2 8 25.0 1 4 25.0 1 2 50.0 0 2 2 4 1 1 0 1 3
+p188
+aVDesmond Mason NOK 03/10/2007 NOK @ UTA L 35 9 4 10 40.0 0 0 - 1 2 50.0 1 3 4 1 0 0 3 2 -11
+p189
+aVJannero Pargo NOK 03/10/2007 NOK @ UTA L 20 15 6 10 60.0 3 5 60.0 0 1 0.0 0 1 1 4 1 0 0 0 -2
+p190
+aVLinton Johnson NOK 03/10/2007 NOK @ UTA L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 2 1 3 2 -1
+p191
+aVTyson Chandler NOK 03/10/2007 NOK @ UTA L 38 12 6 7 85.7 0 0 - 0 0 - 2 4 6 2 0 6 1 2 -6
+p192
+aVDevin Brown NOK 03/10/2007 NOK @ UTA L 21 11 4 7 57.1 1 3 33.3 2 2 100.0 0 2 2 1 3 0 3 2 -10
+p193
+aVChris Paul NOK 03/10/2007 NOK @ UTA L 35 12 4 10 40.0 0 2 0.0 4 4 100.0 0 2 2 11 0 0 2 3 -11
+p194
+aVHilton Armstrong NOK 03/10/2007 NOK @ UTA L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 1
+p195
+aVMarc Jackson NOK 03/10/2007 NOK @ UTA L 6 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -4
+p196
+aVJannero Pargo NOK 03/09/2007 NOK @ PHX L 19 15 6 10 60.0 3 6 50.0 0 0 - 0 1 1 2 1 0 1 1 2
+p197
+aVRasual Butler NOK 03/09/2007 NOK @ PHX L 15 5 2 7 28.6 1 6 16.7 0 0 - 0 1 1 0 0 0 0 1 -6
+p198
+aVLinton Johnson NOK 03/09/2007 NOK @ PHX L 19 6 3 3 100.0 0 0 - 0 0 - 0 6 6 1 1 1 0 1 3
+p199
+aVDesmond Mason NOK 03/09/2007 NOK @ PHX L 29 6 2 8 25.0 0 0 - 2 2 100.0 1 2 3 2 0 0 0 0 -3
+p200
+aVDavid West NOK 03/09/2007 NOK @ PHX L 38 19 8 15 53.3 0 0 - 3 3 100.0 3 6 9 4 0 1 0 3 -5
+p201
+aVDevin Brown NOK 03/09/2007 NOK @ PHX L 22 19 7 14 50.0 3 6 50.0 2 3 66.7 1 5 6 2 1 0 2 2 1
+p202
+aVBobby Jackson NOK 03/09/2007 NOK @ PHX L 22 7 3 8 37.5 1 4 25.0 0 0 - 0 1 1 3 0 0 2 1 2
+p203
+aVTyson Chandler NOK 03/09/2007 NOK @ PHX L 39 12 6 9 66.7 0 0 - 0 0 - 4 7 11 2 1 1 3 3 0
+p204
+aVChris Paul NOK 03/09/2007 NOK @ PHX L 37 14 4 11 36.4 1 3 33.3 5 5 100.0 1 6 7 4 1 0 2 1 1
+p205
+aVChris Paul NOK 03/06/2007 NOK @ DEN L 39 13 4 14 28.6 1 5 20.0 4 6 66.7 1 3 4 14 1 0 2 4 -9
+p206
+aVHilton Armstrong NOK 03/06/2007 NOK @ DEN L 10 7 2 3 66.7 0 0 - 3 5 60.0 3 1 4 0 0 0 0 1 3
+p207
+aVJannero Pargo NOK 03/06/2007 NOK @ DEN L 13 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -8
+p208
+aVDesmond Mason NOK 03/06/2007 NOK @ DEN L 31 8 3 12 25.0 0 0 - 2 2 100.0 3 1 4 1 0 1 1 2 -18
+p209
+aVLinton Johnson NOK 03/06/2007 NOK @ DEN L 12 9 4 7 57.1 1 1 100.0 0 0 - 1 0 1 1 1 0 0 1 3
+p210
+aVBobby Jackson NOK 03/06/2007 NOK @ DEN L 21 8 3 10 30.0 2 5 40.0 0 0 - 1 1 2 2 2 0 3 2 8
+p211
+aVDevin Brown NOK 03/06/2007 NOK @ DEN L 19 7 3 6 50.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 2 2 -14
+p212
+aVDavid West NOK 03/06/2007 NOK @ DEN L 26 4 2 10 20.0 0 0 - 0 0 - 1 6 7 1 0 1 1 0 -21
+p213
+aVTyson Chandler NOK 03/06/2007 NOK @ DEN L 40 15 7 10 70.0 0 0 - 1 3 33.3 7 11 18 0 1 4 2 3 -15
+p214
+aVCedric Simmons NOK 03/06/2007 NOK @ DEN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -1
+p215
+aVRasual Butler NOK 03/06/2007 NOK @ DEN L 21 11 4 9 44.4 3 6 50.0 0 0 - 0 1 1 0 1 1 1 1 -4
+p216
+aVMarc Jackson NOK 03/06/2007 NOK @ DEN L 6 3 1 4 25.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 1
+p217
+aVJannero Pargo NOK 03/04/2007 NOK vs. UTA L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -6
+p218
+aVDevin Brown NOK 03/04/2007 NOK vs. UTA L 30 10 4 11 36.4 1 5 20.0 1 2 50.0 1 2 3 2 0 0 1 4 -15
+p219
+aVMarc Jackson NOK 03/04/2007 NOK vs. UTA L 7 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p220
+aVDesmond Mason NOK 03/04/2007 NOK vs. UTA L 40 17 8 15 53.3 0 0 - 1 4 25.0 1 1 2 1 0 0 2 4 -14
+p221
+aVLinton Johnson NOK 03/04/2007 NOK vs. UTA L 14 4 1 3 33.3 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 2 -1
+p222
+aVChris Paul NOK 03/04/2007 NOK vs. UTA L 39 14 4 11 36.4 1 3 33.3 5 7 71.4 0 2 2 13 3 0 1 4 -6
+p223
+aVDavid West NOK 03/04/2007 NOK vs. UTA L 37 10 4 12 33.3 0 0 - 2 2 100.0 2 5 7 3 1 0 3 3 -16
+p224
+aVTyson Chandler NOK 03/04/2007 NOK vs. UTA L 38 20 10 13 76.9 0 0 - 0 1 0.0 8 11 19 0 1 2 1 5 -5
+p225
+aVBobby Jackson NOK 03/04/2007 NOK vs. UTA L 29 13 4 13 30.8 2 6 33.3 3 3 100.0 1 1 2 1 0 0 0 5 -1
+p226
+aVChris Paul NOK 03/02/2007 NOK @ CHI L 38 16 5 13 38.5 1 4 25.0 5 7 71.4 0 4 4 6 1 0 4 1 -17
+p227
+aVDevin Brown NOK 03/02/2007 NOK @ CHI L 27 12 3 9 33.3 1 4 25.0 5 6 83.3 1 2 3 1 0 0 5 2 -15
+p228
+aVLinton Johnson NOK 03/02/2007 NOK @ CHI L 14 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 0 0 0 3 7
+p229
+aVTyson Chandler NOK 03/02/2007 NOK @ CHI L 36 10 5 9 55.6 0 0 - 0 0 - 6 7 13 0 0 0 2 2 -12
+p230
+aVDavid West NOK 03/02/2007 NOK @ CHI L 34 12 5 11 45.5 0 0 - 2 2 100.0 1 2 3 2 3 2 2 1 -18
+p231
+aVRasual Butler NOK 03/02/2007 NOK @ CHI L 13 5 2 7 28.6 1 5 20.0 0 0 - 0 0 0 0 0 1 0 1 -1
+p232
+aVBobby Jackson NOK 03/02/2007 NOK @ CHI L 23 13 5 9 55.6 2 3 66.7 1 2 50.0 0 0 0 4 1 0 1 2 -1
+p233
+aVMarc Jackson NOK 03/02/2007 NOK @ CHI L 12 4 0 3 0.0 0 0 - 4 4 100.0 2 5 7 1 0 0 0 1 1
+p234
+aVDesmond Mason NOK 03/02/2007 NOK @ CHI L 33 11 3 12 25.0 0 0 - 5 6 83.3 2 3 5 0 0 1 1 2 -5
+p235
+aVJannero Pargo NOK 03/02/2007 NOK @ CHI L 10 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 3 1 0 1 3 6
+p236
+aVBobby Jackson NOK 02/28/2007 NOK vs. ATL W 22 3 0 7 0.0 0 1 0.0 3 4 75.0 1 3 4 2 0 0 0 1 9
+p237
+aVDesmond Mason NOK 02/28/2007 NOK vs. ATL W 36 16 7 18 38.9 0 0 - 2 2 100.0 1 2 3 2 1 0 1 2 -6
+p238
+aVHilton Armstrong NOK 02/28/2007 NOK vs. ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p239
+aVDavid West NOK 02/28/2007 NOK vs. ATL W 35 17 7 13 53.8 0 0 - 3 4 75.0 3 11 14 3 0 0 1 1 9
+p240
+aVLinton Johnson NOK 02/28/2007 NOK vs. ATL W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -2
+p241
+aVTyson Chandler NOK 02/28/2007 NOK vs. ATL W 34 18 5 6 83.3 0 0 - 8 10 80.0 6 7 13 0 1 4 1 5 2
+p242
+aVMarc Jackson NOK 02/28/2007 NOK vs. ATL W 7 2 0 2 0.0 0 0 - 2 4 50.0 0 0 0 1 0 0 0 0 -1
+p243
+aVJannero Pargo NOK 02/28/2007 NOK vs. ATL W 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 0 8
+p244
+aVDevin Brown NOK 02/28/2007 NOK vs. ATL W 27 19 7 12 58.3 4 5 80.0 1 2 50.0 0 1 1 0 0 0 0 3 -1
+p245
+aVChris Paul NOK 02/28/2007 NOK vs. ATL W 38 24 6 16 37.5 1 1 100.0 11 12 91.7 1 4 5 13 4 0 1 0 -1
+p246
+aVRasual Butler NOK 02/28/2007 NOK vs. ATL W 14 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 1 1 2 0 14
+p247
+aVBobby Jackson NOK 02/27/2007 NOK @ CLE L 29 9 4 11 36.4 0 3 0.0 1 2 50.0 1 4 5 4 1 1 3 0 10
+p248
+aVTyson Chandler NOK 02/27/2007 NOK @ CLE L 30 14 7 10 70.0 0 0 - 0 0 - 3 7 10 0 0 3 2 4 -9
+p249
+aVDesmond Mason NOK 02/27/2007 NOK @ CLE L 32 16 8 15 53.3 0 0 - 0 2 0.0 3 2 5 1 0 0 2 1 -18
+p250
+aVDavid West NOK 02/27/2007 NOK @ CLE L 38 25 10 21 47.6 0 0 - 5 6 83.3 3 7 10 6 2 1 2 2 -12
+p251
+aVHilton Armstrong NOK 02/27/2007 NOK @ CLE L 12 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 8
+p252
+aVChris Paul NOK 02/27/2007 NOK @ CLE L 32 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 5 2 0 3 4 -12
+p253
+aVLinton Johnson NOK 02/27/2007 NOK @ CLE L 19 9 4 7 57.1 1 3 33.3 0 0 - 0 4 4 0 0 1 1 1 -2
+p254
+aVRasual Butler NOK 02/27/2007 NOK @ CLE L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 5
+p255
+aVDevin Brown NOK 02/27/2007 NOK @ CLE L 19 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 3 3 -15
+p256
+aVJannero Pargo NOK 02/27/2007 NOK @ CLE L 23 7 2 7 28.6 0 1 0.0 3 3 100.0 0 2 2 2 1 0 0 2 5
+p257
+aVJannero Pargo NOK 02/23/2007 NOK vs. SEA W 8 0 0 4 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 -3
+p258
+aVChris Paul NOK 02/23/2007 NOK vs. SEA W 35 13 6 16 37.5 0 2 0.0 1 1 100.0 1 4 5 8 5 0 0 3 5
+p259
+aVDevin Brown NOK 02/23/2007 NOK vs. SEA W 35 7 1 11 9.1 0 5 0.0 5 5 100.0 1 5 6 2 0 1 1 1 -10
+p260
+aVDavid West NOK 02/23/2007 NOK vs. SEA W 36 23 7 18 38.9 0 1 0.0 9 11 81.8 7 4 11 2 2 1 2 4 -7
+p261
+aVRasual Butler NOK 02/23/2007 NOK vs. SEA W 17 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 1 1 0 1 0 0
+p262
+aVBobby Jackson NOK 02/23/2007 NOK vs. SEA W 19 17 7 15 46.7 3 6 50.0 0 0 - 1 0 1 2 3 0 1 2 10
+p263
+aVDesmond Mason NOK 02/23/2007 NOK vs. SEA W 32 10 3 10 30.0 0 0 - 4 8 50.0 1 3 4 0 1 0 1 1 1
+p264
+aVTyson Chandler NOK 02/23/2007 NOK vs. SEA W 38 15 7 10 70.0 0 0 - 1 2 50.0 10 9 19 2 0 1 1 3 -6
+p265
+aVHilton Armstrong NOK 02/23/2007 NOK vs. SEA W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 2 1 1 1
+p266
+aVLinton Johnson NOK 02/23/2007 NOK vs. SEA W 17 8 3 7 42.9 0 3 0.0 2 2 100.0 5 2 7 0 1 1 0 0 14
+p267
+aVBobby Jackson NOK 02/21/2007 NOK @ NJN W 29 17 4 9 44.4 1 4 25.0 8 11 72.7 0 4 4 2 0 0 0 2 12
+p268
+aVRasual Butler NOK 02/21/2007 NOK @ NJN W 20 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 3
+p269
+aVTyson Chandler NOK 02/21/2007 NOK @ NJN W 39 10 4 7 57.1 0 0 - 2 4 50.0 2 10 12 0 1 1 4 5 4
+p270
+aVChris Paul NOK 02/21/2007 NOK @ NJN W 37 19 5 14 35.7 1 4 25.0 8 8 100.0 0 4 4 11 2 0 1 5 4
+p271
+aVDevin Brown NOK 02/21/2007 NOK @ NJN W 19 8 3 5 60.0 0 1 0.0 2 2 100.0 1 2 3 3 0 0 1 2 -8
+p272
+aVLinton Johnson NOK 02/21/2007 NOK @ NJN W 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 0
+p273
+aVJannero Pargo NOK 02/21/2007 NOK @ NJN W 11 6 2 5 40.0 0 0 - 2 2 100.0 2 0 2 2 0 0 1 1 0
+p274
+aVDesmond Mason NOK 02/21/2007 NOK @ NJN W 28 10 3 5 60.0 0 0 - 4 4 100.0 0 1 1 2 1 0 1 4 1
+p275
+aVDavid West NOK 02/21/2007 NOK @ NJN W 41 32 11 18 61.1 1 1 100.0 9 10 90.0 2 6 8 2 4 0 1 2 4
+p276
+aVJannero Pargo NOK 02/20/2007 NOK @ CHA L 12 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 3 0 0 1 2 -14
+p277
+aVBobby Jackson NOK 02/20/2007 NOK @ CHA L 21 7 2 8 25.0 1 4 25.0 2 2 100.0 2 2 4 2 0 0 1 4 -16
+p278
+aVRasual Butler NOK 02/20/2007 NOK @ CHA L 21 8 3 6 50.0 2 4 50.0 0 2 0.0 0 0 0 0 1 0 1 1 -16
+p279
+aVHilton Armstrong NOK 02/20/2007 NOK @ CHA L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p280
+aVChris Paul NOK 02/20/2007 NOK @ CHA L 37 20 6 13 46.2 1 1 100.0 7 9 77.8 1 2 3 7 1 0 4 3 11
+p281
+aVTyson Chandler NOK 02/20/2007 NOK @ CHA L 42 16 8 12 66.7 0 0 - 0 2 0.0 7 13 20 0 0 2 1 2 5
+p282
+aVLinton Johnson NOK 02/20/2007 NOK @ CHA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p283
+aVDavid West NOK 02/20/2007 NOK @ CHA L 38 16 6 15 40.0 0 1 0.0 4 4 100.0 2 5 7 1 0 1 1 3 6
+p284
+aVDesmond Mason NOK 02/20/2007 NOK @ CHA L 40 17 7 17 41.2 0 0 - 3 4 75.0 1 5 6 1 0 1 4 3 -2
+p285
+aVDevin Brown NOK 02/20/2007 NOK @ CHA L 27 9 3 7 42.9 1 2 50.0 2 2 100.0 0 4 4 2 1 1 1 1 12
+p286
+aVCedric Simmons NOK 02/14/2007 NOK vs. SAC W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -11
+p287
+aVLinton Johnson NOK 02/14/2007 NOK vs. SAC W 19 12 5 6 83.3 0 0 - 2 2 100.0 0 4 4 1 1 0 0 1 -2
+p288
+aVDevin Brown NOK 02/14/2007 NOK vs. SAC W 19 15 5 6 83.3 3 4 75.0 2 3 66.7 0 1 1 3 1 2 3 1 26
+p289
+aVJannero Pargo NOK 02/14/2007 NOK vs. SAC W 19 8 3 5 60.0 1 2 50.0 1 3 33.3 0 1 1 5 0 0 1 4 -3
+p290
+aVDesmond Mason NOK 02/14/2007 NOK vs. SAC W 33 18 8 12 66.7 0 0 - 2 4 50.0 1 4 5 3 1 0 1 4 32
+p291
+aVBobby Jackson NOK 02/14/2007 NOK vs. SAC W 23 14 6 13 46.2 1 5 20.0 1 2 50.0 0 0 0 2 0 0 2 1 2
+p292
+aVHilton Armstrong NOK 02/14/2007 NOK vs. SAC W 12 8 4 6 66.7 0 0 - 0 0 - 2 0 2 0 0 1 0 1 -14
+p293
+aVRasual Butler NOK 02/14/2007 NOK vs. SAC W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 1 3 1 -15
+p294
+aVDavid West NOK 02/14/2007 NOK vs. SAC W 27 16 6 10 60.0 0 0 - 4 4 100.0 1 8 9 3 1 1 0 2 37
+p295
+aVTyson Chandler NOK 02/14/2007 NOK vs. SAC W 32 10 4 5 80.0 0 0 - 2 3 66.7 5 10 15 0 0 1 2 3 24
+p296
+aVChris Paul NOK 02/14/2007 NOK vs. SAC W 29 9 4 8 50.0 1 1 100.0 0 0 - 0 4 4 6 0 0 1 2 20
+p297
+aVMarc Jackson NOK 02/14/2007 NOK vs. SAC W 6 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 3 1 -11
+p298
+aVBobby Jackson NOK 02/13/2007 NOK @ MEM L 20 8 2 9 22.2 2 3 66.7 2 4 50.0 1 2 3 3 3 0 2 4 15
+p299
+aVJannero Pargo NOK 02/13/2007 NOK @ MEM L 17 11 5 9 55.6 1 4 25.0 0 0 - 0 2 2 2 2 0 1 0 -10
+p300
+aVChris Paul NOK 02/13/2007 NOK @ MEM L 35 5 0 7 0.0 0 1 0.0 5 6 83.3 1 2 3 10 1 0 3 5 3
+p301
+aVLinton Johnson NOK 02/13/2007 NOK @ MEM L 13 4 2 3 66.7 0 0 - 0 0 - 2 5 7 0 1 1 3 3 4
+p302
+aVDesmond Mason NOK 02/13/2007 NOK @ MEM L 34 23 9 18 50.0 0 0 - 5 7 71.4 2 0 2 0 2 1 3 2 -2
+p303
+aVDevin Brown NOK 02/13/2007 NOK @ MEM L 24 2 1 7 14.3 0 2 0.0 0 0 - 0 3 3 1 1 0 2 3 -16
+p304
+aVDavid West NOK 02/13/2007 NOK @ MEM L 35 22 9 22 40.9 1 2 50.0 3 5 60.0 4 7 11 5 0 0 0 2 -8
+p305
+aVRasual Butler NOK 02/13/2007 NOK @ MEM L 14 10 4 10 40.0 2 7 28.6 0 0 - 0 1 1 0 0 0 0 4 -2
+p306
+aVTyson Chandler NOK 02/13/2007 NOK @ MEM L 38 17 8 17 47.1 0 0 - 1 5 20.0 12 11 23 0 0 2 2 4 4
+p307
+aVHilton Armstrong NOK 02/13/2007 NOK @ MEM L 10 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 -8
+p308
+aVDevin Brown NOK 02/10/2007 NOK vs. MEM W 27 11 4 9 44.4 2 4 50.0 1 2 50.0 0 3 3 2 1 1 1 1 25
+p309
+aVChris Paul NOK 02/10/2007 NOK vs. MEM W 34 23 8 10 80.0 3 3 100.0 4 4 100.0 0 3 3 11 1 0 1 3 18
+p310
+aVJannero Pargo NOK 02/10/2007 NOK vs. MEM W 14 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 2 0 0 2 1 -3
+p311
+aVBobby Jackson NOK 02/10/2007 NOK vs. MEM W 21 11 3 8 37.5 0 1 0.0 5 10 50.0 1 2 3 2 3 1 0 1 -10
+p312
+aVCedric Simmons NOK 02/10/2007 NOK vs. MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p313
+aVRasual Butler NOK 02/10/2007 NOK vs. MEM W 15 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -5
+p314
+aVTyson Chandler NOK 02/10/2007 NOK vs. MEM W 34 15 7 9 77.8 0 0 - 1 2 50.0 2 14 16 2 0 1 0 4 18
+p315
+aVLinton Johnson NOK 02/10/2007 NOK vs. MEM W 15 0 0 2 0.0 0 0 - 0 0 - 3 2 5 0 0 1 1 3 -13
+p316
+aVHilton Armstrong NOK 02/10/2007 NOK vs. MEM W 14 6 2 5 40.0 0 0 - 2 4 50.0 1 0 1 0 0 1 1 2 -3
+p317
+aVDavid West NOK 02/10/2007 NOK vs. MEM W 32 22 11 14 78.6 0 0 - 0 0 - 1 7 8 4 0 0 1 3 26
+p318
+aVDesmond Mason NOK 02/10/2007 NOK vs. MEM W 33 16 8 14 57.1 0 0 - 0 0 - 1 3 4 3 0 0 1 0 20
+p319
+aVJannero Pargo NOK 02/08/2007 NOK vs. MIL W 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 3 0 0 2 1 2
+p320
+aVBobby Jackson NOK 02/08/2007 NOK vs. MIL W 25 12 4 10 40.0 2 5 40.0 2 2 100.0 1 3 4 1 1 0 0 2 5
+p321
+aVLinton Johnson NOK 02/08/2007 NOK vs. MIL W 20 10 5 9 55.6 0 1 0.0 0 0 - 1 3 4 1 0 1 1 2 9
+p322
+aVDesmond Mason NOK 02/08/2007 NOK vs. MIL W 45 24 11 24 45.8 0 0 - 2 7 28.6 6 1 7 1 3 1 4 3 9
+p323
+aVDevin Brown NOK 02/08/2007 NOK vs. MIL W 33 12 4 11 36.4 3 7 42.9 1 2 50.0 1 2 3 4 0 0 2 2 3
+p324
+aVTyson Chandler NOK 02/08/2007 NOK vs. MIL W 47 11 5 9 55.6 0 0 - 1 2 50.0 9 13 22 1 1 1 3 3 6
+p325
+aVHilton Armstrong NOK 02/08/2007 NOK vs. MIL W 11 5 0 1 0.0 0 0 - 5 6 83.3 2 4 6 0 0 1 0 2 0
+p326
+aVRasual Butler NOK 02/08/2007 NOK vs. MIL W 13 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 0 0 1 1 0 -1
+p327
+aVChris Paul NOK 02/08/2007 NOK vs. MIL W 47 14 3 17 17.6 0 2 0.0 8 8 100.0 2 3 5 10 2 0 5 4 8
+p328
+aVDavid West NOK 02/08/2007 NOK vs. MIL W 38 21 7 16 43.8 0 0 - 7 8 87.5 9 10 19 1 1 1 4 3 -1
+p329
+aVMarc Jackson NOK 02/07/2007 NOK @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p330
+aVRasual Butler NOK 02/07/2007 NOK @ DEN W 24 9 3 11 27.3 3 6 50.0 0 0 - 0 5 5 1 1 1 0 1 1
+p331
+aVTyson Chandler NOK 02/07/2007 NOK @ DEN W 44 10 5 12 41.7 0 0 - 0 2 0.0 6 10 16 2 0 1 2 0 10
+p332
+aVDesmond Mason NOK 02/07/2007 NOK @ DEN W 36 23 10 14 71.4 0 0 - 3 5 60.0 5 1 6 1 1 1 2 5 3
+p333
+aVDavid West NOK 02/07/2007 NOK @ DEN W 37 17 8 17 47.1 0 0 - 1 5 20.0 3 4 7 1 0 1 2 5 -5
+p334
+aVHilton Armstrong NOK 02/07/2007 NOK @ DEN W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p335
+aVChris Paul NOK 02/07/2007 NOK @ DEN W 40 15 6 23 26.1 1 2 50.0 2 2 100.0 1 3 4 7 1 0 2 5 5
+p336
+aVJannero Pargo NOK 02/07/2007 NOK @ DEN W 11 5 2 6 33.3 0 1 0.0 1 1 100.0 0 0 0 2 1 1 0 1 -11
+p337
+aVCedric Simmons NOK 02/07/2007 NOK @ DEN W 8 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 1 0 0 0 -3
+p338
+aVDevin Brown NOK 02/07/2007 NOK @ DEN W 34 17 5 12 41.7 1 4 25.0 6 6 100.0 1 6 7 2 1 0 2 1 7
+p339
+aVBobby Jackson NOK 02/07/2007 NOK @ DEN W 21 15 6 8 75.0 1 1 100.0 2 2 100.0 3 1 4 2 0 0 1 1 2
+p340
+aVLinton Johnson NOK 02/07/2007 NOK @ DEN W 4 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 1 0 1 1 -3
+p341
+aVJannero Pargo NOK 02/05/2007 NOK @ SAC L 10 5 2 6 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p342
+aVBobby Jackson NOK 02/05/2007 NOK @ SAC L 22 4 1 9 11.1 0 1 0.0 2 2 100.0 0 2 2 2 0 0 2 0 -7
+p343
+aVTyson Chandler NOK 02/05/2007 NOK @ SAC L 37 9 4 9 44.4 0 0 - 1 4 25.0 5 8 13 3 0 1 1 5 -3
+p344
+aVDavid West NOK 02/05/2007 NOK @ SAC L 35 16 7 12 58.3 0 0 - 2 2 100.0 0 3 3 2 2 0 2 3 2
+p345
+aVChris Paul NOK 02/05/2007 NOK @ SAC L 36 24 8 19 42.1 3 4 75.0 5 7 71.4 1 2 3 6 5 0 2 2 -10
+p346
+aVDevin Brown NOK 02/05/2007 NOK @ SAC L 27 11 4 12 33.3 1 6 16.7 2 2 100.0 2 4 6 0 1 1 1 3 2
+p347
+aVLinton Johnson NOK 02/05/2007 NOK @ SAC L 16 4 1 6 16.7 0 1 0.0 2 2 100.0 3 3 6 1 1 0 0 0 -12
+p348
+aVRasual Butler NOK 02/05/2007 NOK @ SAC L 19 7 3 5 60.0 0 2 0.0 1 3 33.3 0 0 0 0 0 1 1 3 5
+p349
+aVDesmond Mason NOK 02/05/2007 NOK @ SAC L 32 17 8 13 61.5 0 0 - 1 2 50.0 2 2 4 3 0 0 2 1 -10
+p350
+aVHilton Armstrong NOK 02/05/2007 NOK @ SAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 1 0 0 3
+p351
+aVDevin Brown NOK 02/03/2007 NOK @ HOU W 34 18 6 14 42.9 4 8 50.0 2 2 100.0 2 5 7 5 1 0 3 3 9
+p352
+aVJannero Pargo NOK 02/03/2007 NOK @ HOU W 17 12 4 7 57.1 2 2 100.0 2 2 100.0 0 2 2 0 1 0 1 1 -4
+p353
+aVDavid West NOK 02/03/2007 NOK @ HOU W 31 6 2 8 25.0 0 0 - 2 2 100.0 1 4 5 2 0 1 1 2 11
+p354
+aVLinton Johnson NOK 02/03/2007 NOK @ HOU W 17 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 2
+p355
+aVChris Paul NOK 02/03/2007 NOK @ HOU W 32 12 4 12 33.3 1 2 50.0 3 4 75.0 0 4 4 9 4 0 2 4 16
+p356
+aVBobby Jackson NOK 02/03/2007 NOK @ HOU W 25 12 3 11 27.3 1 4 25.0 5 5 100.0 1 4 5 6 0 0 2 1 5
+p357
+aVRasual Butler NOK 02/03/2007 NOK @ HOU W 28 8 2 5 40.0 2 4 50.0 2 2 100.0 0 4 4 0 0 0 0 3 15
+p358
+aVTyson Chandler NOK 02/03/2007 NOK @ HOU W 37 11 4 9 44.4 0 0 - 3 6 50.0 3 9 12 0 0 1 3 2 13
+p359
+aVHilton Armstrong NOK 02/03/2007 NOK @ HOU W 11 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 1 0 1 0 0
+p360
+aVDesmond Mason NOK 02/03/2007 NOK @ HOU W 8 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 2 1 -2
+p361
+aVHilton Armstrong NOK 02/02/2007 NOK vs. MIN W 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 2 0 1 -5
+p362
+aVLinton Johnson NOK 02/02/2007 NOK vs. MIN W 14 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 2 2 0 1 -1
+p363
+aVTyson Chandler NOK 02/02/2007 NOK vs. MIN W 38 16 8 9 88.9 0 0 - 0 0 - 5 13 18 0 0 4 0 2 12
+p364
+aVBobby Jackson NOK 02/02/2007 NOK vs. MIN W 22 2 1 10 10.0 0 3 0.0 0 0 - 0 2 2 2 1 0 1 4 -4
+p365
+aVDevin Brown NOK 02/02/2007 NOK vs. MIN W 22 5 2 8 25.0 1 2 50.0 0 0 - 4 3 7 3 0 0 0 3 7
+p366
+aVDavid West NOK 02/02/2007 NOK vs. MIN W 34 10 4 11 36.4 0 0 - 2 3 66.7 2 4 6 0 0 0 0 2 8
+p367
+aVChris Paul NOK 02/02/2007 NOK vs. MIN W 32 24 9 13 69.2 1 3 33.3 5 7 71.4 0 2 2 8 4 0 0 2 11
+p368
+aVJannero Pargo NOK 02/02/2007 NOK vs. MIN W 20 13 5 11 45.5 0 1 0.0 3 4 75.0 0 1 1 0 1 0 3 1 0
+p369
+aVDesmond Mason NOK 02/02/2007 NOK vs. MIN W 34 12 6 14 42.9 0 0 - 0 3 0.0 2 5 7 0 0 1 2 1 13
+p370
+aVRasual Butler NOK 02/02/2007 NOK vs. MIN W 14 4 0 5 0.0 0 1 0.0 4 4 100.0 0 2 2 0 0 0 1 2 -6
+p371
+aVDesmond Mason NOK 01/31/2007 NOK vs. PHI L 34 10 4 12 33.3 0 0 - 2 4 50.0 1 0 1 1 0 0 1 4 -12
+p372
+aVChris Paul NOK 01/31/2007 NOK vs. PHI L 28 9 4 11 36.4 1 3 33.3 0 0 - 0 0 0 2 1 0 0 1 -27
+p373
+aVHilton Armstrong NOK 01/31/2007 NOK vs. PHI L 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 1 0 0 7
+p374
+aVJannero Pargo NOK 01/31/2007 NOK vs. PHI L 10 6 3 9 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p375
+aVTyson Chandler NOK 01/31/2007 NOK vs. PHI L 36 10 5 7 71.4 0 0 - 0 0 - 6 9 15 1 1 2 2 3 -18
+p376
+aVDevin Brown NOK 01/31/2007 NOK vs. PHI L 23 17 7 12 58.3 1 2 50.0 2 2 100.0 0 4 4 2 0 0 1 3 10
+p377
+aVRasual Butler NOK 01/31/2007 NOK vs. PHI L 28 10 4 12 33.3 1 5 20.0 1 2 50.0 1 6 7 0 0 0 0 3 2
+p378
+aVDavid West NOK 01/31/2007 NOK vs. PHI L 37 10 5 16 31.3 0 0 - 0 0 - 2 3 5 2 0 0 1 3 -21
+p379
+aVBobby Jackson NOK 01/31/2007 NOK vs. PHI L 22 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 0 2 -4
+p380
+aVLinton Johnson NOK 01/31/2007 NOK vs. PHI L 6 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 1 0 0 0 5
+p381
+aVJannero Pargo NOK 01/29/2007 NOK vs. POR W 19 16 7 13 53.8 0 1 0.0 2 2 100.0 1 2 3 2 0 0 0 3 11
+p382
+aVBobby Jackson NOK 01/29/2007 NOK vs. POR W 29 7 2 6 33.3 1 1 100.0 2 2 100.0 1 2 3 2 1 0 1 1 6
+p383
+aVDevin Brown NOK 01/29/2007 NOK vs. POR W 29 12 4 8 50.0 2 3 66.7 2 2 100.0 0 2 2 4 1 0 1 0 3
+p384
+aVRasual Butler NOK 01/29/2007 NOK vs. POR W 35 15 5 14 35.7 2 5 40.0 3 4 75.0 1 3 4 1 1 0 0 0 6
+p385
+aVLinton Johnson NOK 01/29/2007 NOK vs. POR W 16 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 1 0 1 3 9
+p386
+aVTyson Chandler NOK 01/29/2007 NOK vs. POR W 38 14 6 11 54.5 0 0 - 2 3 66.7 5 11 16 1 0 4 1 4 9
+p387
+aVDavid West NOK 01/29/2007 NOK vs. POR W 37 21 8 14 57.1 0 0 - 5 6 83.3 1 9 10 4 1 0 0 3 4
+p388
+aVDesmond Mason NOK 01/29/2007 NOK vs. POR W 32 16 5 9 55.6 0 0 - 6 8 75.0 3 3 6 4 0 1 4 3 12
+p389
+aVBobby Jackson NOK 01/27/2007 NOK vs. UTA W 24 21 5 8 62.5 3 3 100.0 8 8 100.0 0 2 2 5 1 0 1 4 2
+p390
+aVJannero Pargo NOK 01/27/2007 NOK vs. UTA W 12 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 1 -6
+p391
+aVDevin Brown NOK 01/27/2007 NOK vs. UTA W 35 13 5 11 45.5 1 4 25.0 2 2 100.0 0 3 3 6 1 0 3 3 17
+p392
+aVRasual Butler NOK 01/27/2007 NOK vs. UTA W 34 7 3 12 25.0 1 3 33.3 0 0 - 2 4 6 0 1 0 0 1 3
+p393
+aVHilton Armstrong NOK 01/27/2007 NOK vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p394
+aVDavid West NOK 01/27/2007 NOK vs. UTA W 36 11 5 14 35.7 0 0 - 1 1 100.0 0 6 6 2 1 2 2 4 9
+p395
+aVLinton Johnson NOK 01/27/2007 NOK vs. UTA W 15 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -2
+p396
+aVTyson Chandler NOK 01/27/2007 NOK vs. UTA W 40 8 1 2 50.0 0 0 - 6 6 100.0 5 10 15 1 0 7 2 4 16
+p397
+aVDesmond Mason NOK 01/27/2007 NOK vs. UTA W 37 20 7 11 63.6 0 0 - 6 10 60.0 1 4 5 2 1 2 5 3 17
+p398
+aVJannero Pargo NOK 01/26/2007 NOK vs. SAC W 16 5 1 8 12.5 1 4 25.0 2 2 100.0 0 3 3 5 0 0 2 1 0
+p399
+aVDesmond Mason NOK 01/26/2007 NOK vs. SAC W 37 24 12 18 66.7 0 0 - 0 0 - 2 6 8 2 1 1 3 2 1
+p400
+aVLinton Johnson NOK 01/26/2007 NOK vs. SAC W 18 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 3 1 1 2 10
+p401
+aVDavid West NOK 01/26/2007 NOK vs. SAC W 35 5 1 9 11.1 0 0 - 3 3 100.0 1 3 4 3 0 4 3 2 -8
+p402
+aVRasual Butler NOK 01/26/2007 NOK vs. SAC W 33 6 2 10 20.0 2 5 40.0 0 0 - 0 4 4 1 0 0 1 2 0
+p403
+aVBobby Jackson NOK 01/26/2007 NOK vs. SAC W 28 15 6 13 46.2 0 1 0.0 3 4 75.0 0 4 4 7 1 0 1 5 9
+p404
+aVHilton Armstrong NOK 01/26/2007 NOK vs. SAC W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p405
+aVDevin Brown NOK 01/26/2007 NOK vs. SAC W 30 14 5 10 50.0 2 3 66.7 2 5 40.0 1 5 6 6 0 0 1 3 1
+p406
+aVTyson Chandler NOK 01/26/2007 NOK vs. SAC W 34 13 6 8 75.0 0 0 - 1 3 33.3 2 10 12 0 0 4 0 3 11
+p407
+aVHilton Armstrong NOK 01/24/2007 NOK @ TOR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p408
+aVDavid West NOK 01/24/2007 NOK @ TOR L 35 9 4 11 36.4 0 0 - 1 2 50.0 3 8 11 3 1 2 1 6 -10
+p409
+aVMarc Jackson NOK 01/24/2007 NOK @ TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 1 2
+p410
+aVRasual Butler NOK 01/24/2007 NOK @ TOR L 36 19 8 18 44.4 3 8 37.5 0 0 - 0 4 4 1 0 3 1 3 -15
+p411
+aVBobby Jackson NOK 01/24/2007 NOK @ TOR L 29 17 6 12 50.0 1 1 100.0 4 4 100.0 0 6 6 6 0 0 2 1 3
+p412
+aVDesmond Mason NOK 01/24/2007 NOK @ TOR L 35 11 4 14 28.6 0 0 - 3 4 75.0 2 6 8 1 1 0 1 0 2
+p413
+aVTyson Chandler NOK 01/24/2007 NOK @ TOR L 35 8 3 4 75.0 0 0 - 2 3 66.7 1 4 5 3 0 1 5 6 -5
+p414
+aVLinton Johnson NOK 01/24/2007 NOK @ TOR L 11 7 3 4 75.0 1 1 100.0 0 0 - 2 1 3 0 0 0 0 2 6
+p415
+aVDevin Brown NOK 01/24/2007 NOK @ TOR L 32 15 6 16 37.5 2 6 33.3 1 1 100.0 3 4 7 1 1 0 0 2 -10
+p416
+aVJannero Pargo NOK 01/24/2007 NOK @ TOR L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 2 0 11
+p417
+aVLinton Johnson NOK 01/23/2007 NOK @ PHI L 15 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 2 0 0 3 -16
+p418
+aVMarc Jackson NOK 01/23/2007 NOK @ PHI L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -8
+p419
+aVDevin Brown NOK 01/23/2007 NOK @ PHI L 33 24 9 15 60.0 4 7 57.1 2 3 66.7 0 3 3 4 1 0 1 2 10
+p420
+aVDavid West NOK 01/23/2007 NOK @ PHI L 39 23 10 21 47.6 1 1 100.0 2 3 66.7 6 5 11 1 3 0 5 2 3
+p421
+aVBobby Jackson NOK 01/23/2007 NOK @ PHI L 21 6 1 7 14.3 0 1 0.0 4 6 66.7 0 0 0 3 0 0 1 3 -15
+p422
+aVTyson Chandler NOK 01/23/2007 NOK @ PHI L 36 9 2 5 40.0 0 0 - 5 6 83.3 5 2 7 2 0 1 4 3 9
+p423
+aVRasual Butler NOK 01/23/2007 NOK @ PHI L 36 7 3 12 25.0 0 4 0.0 1 2 50.0 2 1 3 2 1 4 0 2 -2
+p424
+aVJannero Pargo NOK 01/23/2007 NOK @ PHI L 24 6 3 7 42.9 0 4 0.0 0 0 - 0 4 4 1 0 0 0 2 -8
+p425
+aVDesmond Mason NOK 01/23/2007 NOK @ PHI L 29 17 5 11 45.5 0 0 - 7 8 87.5 1 5 6 1 2 0 2 2 -3
+p426
+aVTyson Chandler NOK 01/20/2007 NOK vs. LAL W 36 17 7 13 53.8 0 1 0.0 3 4 75.0 7 5 12 1 1 3 1 4 6
+p427
+aVDesmond Mason NOK 01/20/2007 NOK vs. LAL W 33 9 3 8 37.5 0 0 - 3 7 42.9 1 4 5 4 0 1 4 2 -5
+p428
+aVJannero Pargo NOK 01/20/2007 NOK vs. LAL W 22 13 5 10 50.0 2 4 50.0 1 1 100.0 0 0 0 3 2 0 1 2 17
+p429
+aVMarc Jackson NOK 01/20/2007 NOK vs. LAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p430
+aVLinton Johnson NOK 01/20/2007 NOK vs. LAL W 17 2 1 4 25.0 0 0 - 0 0 - 2 2 4 2 0 1 0 3 -6
+p431
+aVBobby Jackson NOK 01/20/2007 NOK vs. LAL W 27 15 5 11 45.5 1 4 25.0 4 4 100.0 1 5 6 3 3 0 1 2 1
+p432
+aVRasual Butler NOK 01/20/2007 NOK vs. LAL W 36 20 8 16 50.0 4 7 57.1 0 0 - 1 2 3 0 0 2 1 4 11
+p433
+aVDavid West NOK 01/20/2007 NOK vs. LAL W 36 26 8 15 53.3 0 0 - 10 11 90.9 4 8 12 1 1 0 1 2 17
+p434
+aVDevin Brown NOK 01/20/2007 NOK vs. LAL W 24 11 4 7 57.1 1 2 50.0 2 2 100.0 1 1 2 6 0 0 0 1 6
+p435
+aVHilton Armstrong NOK 01/19/2007 NOK @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 10
+p436
+aVTyson Chandler NOK 01/19/2007 NOK @ SAS L 33 10 4 7 57.1 0 0 - 2 3 66.7 4 7 11 2 1 0 3 3 -18
+p437
+aVLinton Johnson NOK 01/19/2007 NOK @ SAS L 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 2 0 1 5 -7
+p438
+aVJannero Pargo NOK 01/19/2007 NOK @ SAS L 24 11 5 11 45.5 1 2 50.0 0 0 - 0 1 1 3 1 0 3 0 -11
+p439
+aVMarc Jackson NOK 01/19/2007 NOK @ SAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -5
+p440
+aVBobby Jackson NOK 01/19/2007 NOK @ SAS L 25 14 6 13 46.2 1 3 33.3 1 2 50.0 0 3 3 2 0 1 2 2 -13
+p441
+aVDavid West NOK 01/19/2007 NOK @ SAS L 33 19 8 18 44.4 0 0 - 3 4 75.0 4 7 11 3 2 0 1 3 -8
+p442
+aVDevin Brown NOK 01/19/2007 NOK @ SAS L 28 12 4 9 44.4 2 4 50.0 2 4 50.0 0 2 2 0 0 0 2 4 -1
+p443
+aVRasual Butler NOK 01/19/2007 NOK @ SAS L 33 9 4 9 44.4 1 2 50.0 0 0 - 0 4 4 1 0 2 0 4 -7
+p444
+aVDesmond Mason NOK 01/19/2007 NOK @ SAS L 36 11 3 13 23.1 0 0 - 5 7 71.4 2 2 4 1 0 0 1 2 -7
+p445
+aVCedric Simmons NOK 01/19/2007 NOK @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p446
+aVHilton Armstrong NOK 01/16/2007 NOK vs. ORL W 16 0 0 1 0.0 0 0 - 0 0 - 2 4 6 1 0 1 0 3 5
+p447
+aVMarc Jackson NOK 01/16/2007 NOK vs. ORL W 22 0 0 5 0.0 0 0 - 0 0 - 1 1 2 2 0 0 2 3 1
+p448
+aVTyson Chandler NOK 01/16/2007 NOK vs. ORL W 37 4 1 2 50.0 0 0 - 2 2 100.0 2 8 10 1 0 3 2 6 1
+p449
+aVLinton Johnson NOK 01/16/2007 NOK vs. ORL W 20 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 1 2 1 0
+p450
+aVRasual Butler NOK 01/16/2007 NOK vs. ORL W 47 19 8 16 50.0 1 5 20.0 2 2 100.0 2 9 11 1 1 0 2 0 0
+p451
+aVDesmond Mason NOK 01/16/2007 NOK vs. ORL W 49 21 6 18 33.3 0 0 - 9 12 75.0 2 7 9 2 1 0 4 3 0
+p452
+aVJannero Pargo NOK 01/16/2007 NOK vs. ORL W 37 25 10 18 55.6 3 4 75.0 2 2 100.0 0 2 2 2 0 0 1 0 10
+p453
+aVDevin Brown NOK 01/16/2007 NOK vs. ORL W 37 11 3 17 17.6 0 8 0.0 5 5 100.0 1 5 6 2 4 0 3 3 13
+p454
+aVRasual Butler NOK 01/12/2007 NOK vs. WAS W 40 20 8 14 57.1 2 6 33.3 2 2 100.0 1 5 6 1 1 0 1 2 12
+p455
+aVDevin Brown NOK 01/12/2007 NOK vs. WAS W 39 19 8 13 61.5 3 5 60.0 0 0 - 2 4 6 9 2 0 3 3 7
+p456
+aVLinton Johnson NOK 01/12/2007 NOK vs. WAS W 23 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 2 0 0 0 4 9
+p457
+aVMarc Jackson NOK 01/12/2007 NOK vs. WAS W 30 11 4 9 44.4 0 0 - 3 3 100.0 1 1 2 3 0 0 5 1 -1
+p458
+aVJannero Pargo NOK 01/12/2007 NOK vs. WAS W 27 19 6 10 60.0 3 5 60.0 4 4 100.0 1 1 2 4 1 0 3 3 7
+p459
+aVDesmond Mason NOK 01/12/2007 NOK vs. WAS W 44 22 10 23 43.5 0 0 - 2 3 66.7 3 5 8 4 0 0 7 1 2
+p460
+aVTyson Chandler NOK 01/12/2007 NOK vs. WAS W 37 10 5 6 83.3 0 0 - 0 0 - 4 6 10 0 1 2 2 5 -1
+p461
+aVMarc Jackson NOK 01/10/2007 NOK @ ATL W 21 9 3 5 60.0 0 0 - 3 3 100.0 0 4 4 0 0 1 1 2 0
+p462
+aVTyson Chandler NOK 01/10/2007 NOK @ ATL W 33 14 6 7 85.7 0 0 - 2 5 40.0 1 8 9 2 0 0 4 4 22
+p463
+aVDesmond Mason NOK 01/10/2007 NOK @ ATL W 28 1 0 6 0.0 0 0 - 1 2 50.0 0 2 2 2 0 0 3 2 4
+p464
+aVJannero Pargo NOK 01/10/2007 NOK @ ATL W 32 24 10 15 66.7 4 5 80.0 0 0 - 0 5 5 7 2 0 3 2 24
+p465
+aVCedric Simmons NOK 01/10/2007 NOK @ ATL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -2
+p466
+aVBrandon Bass NOK 01/10/2007 NOK @ ATL W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 3 1 -7
+p467
+aVHilton Armstrong NOK 01/10/2007 NOK @ ATL W 13 2 0 1 0.0 0 0 - 2 4 50.0 0 4 4 1 0 0 1 0 4
+p468
+aVLinton Johnson NOK 01/10/2007 NOK @ ATL W 22 9 3 5 60.0 0 0 - 3 3 100.0 0 4 4 0 2 2 1 1 16
+p469
+aVRasual Butler NOK 01/10/2007 NOK @ ATL W 41 21 8 15 53.3 3 6 50.0 2 2 100.0 0 6 6 5 1 0 2 1 19
+p470
+aVDevin Brown NOK 01/10/2007 NOK @ ATL W 40 16 4 10 40.0 2 5 40.0 6 7 85.7 1 5 6 2 0 0 3 2 15
+p471
+aVDevin Brown NOK 01/08/2007 NOK vs. LAC L 40 14 4 7 57.1 2 3 66.7 4 4 100.0 0 5 5 7 0 0 3 4 -6
+p472
+aVRasual Butler NOK 01/08/2007 NOK vs. LAC L 38 14 6 19 31.6 2 7 28.6 0 0 - 0 2 2 5 0 0 1 4 -3
+p473
+aVDesmond Mason NOK 01/08/2007 NOK vs. LAC L 44 28 10 18 55.6 0 0 - 8 9 88.9 2 3 5 3 1 0 5 3 -9
+p474
+aVCedric Simmons NOK 01/08/2007 NOK vs. LAC L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p475
+aVMarc Jackson NOK 01/08/2007 NOK vs. LAC L 24 10 4 9 44.4 0 0 - 2 2 100.0 0 2 2 3 2 0 0 2 8
+p476
+aVLinton Johnson NOK 01/08/2007 NOK vs. LAC L 28 8 4 8 50.0 0 1 0.0 0 0 - 2 4 6 1 1 0 2 3 -20
+p477
+aVTyson Chandler NOK 01/08/2007 NOK vs. LAC L 39 13 5 8 62.5 0 0 - 3 6 50.0 5 8 13 1 1 2 3 3 -5
+p478
+aVJannero Pargo NOK 01/08/2007 NOK vs. LAC L 22 3 0 6 0.0 0 3 0.0 3 3 100.0 0 0 0 4 2 0 1 1 -12
+p479
+aVJannero Pargo NOK 01/06/2007 NOK vs. IND L 36 14 4 10 40.0 2 4 50.0 4 5 80.0 0 2 2 6 0 0 3 1 -7
+p480
+aVLinton Johnson NOK 01/06/2007 NOK vs. IND L 20 7 3 7 42.9 1 1 100.0 0 0 - 2 6 8 0 0 0 0 5 -7
+p481
+aVDesmond Mason NOK 01/06/2007 NOK vs. IND L 36 28 11 15 73.3 0 0 - 6 7 85.7 1 3 4 1 2 0 6 5 2
+p482
+aVCedric Simmons NOK 01/06/2007 NOK vs. IND L 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 6
+p483
+aVTyson Chandler NOK 01/06/2007 NOK vs. IND L 39 10 3 7 42.9 0 0 - 4 4 100.0 5 5 10 1 1 2 3 4 -6
+p484
+aVMarc Jackson NOK 01/06/2007 NOK vs. IND L 26 11 4 10 40.0 0 0 - 3 4 75.0 0 4 4 0 1 2 1 4 -1
+p485
+aVDevin Brown NOK 01/06/2007 NOK vs. IND L 39 11 3 10 30.0 1 5 20.0 4 8 50.0 1 2 3 5 1 0 1 3 -5
+p486
+aVRasual Butler NOK 01/06/2007 NOK vs. IND L 36 10 4 11 36.4 1 3 33.3 1 2 50.0 1 2 3 5 1 0 0 5 -17
+p487
+aVBrandon Bass NOK 01/04/2007 NOK vs. DET L 9 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p488
+aVJannero Pargo NOK 01/04/2007 NOK vs. DET L 44 16 6 24 25.0 2 7 28.6 2 2 100.0 2 6 8 6 3 0 3 1 -19
+p489
+aVMarc Jackson NOK 01/04/2007 NOK vs. DET L 25 4 2 7 28.6 0 0 - 0 0 - 0 3 3 1 1 0 0 2 -4
+p490
+aVDevin Brown NOK 01/04/2007 NOK vs. DET L 30 14 6 12 50.0 1 4 25.0 1 1 100.0 4 4 8 1 1 0 1 3 -19
+p491
+aVDesmond Mason NOK 01/04/2007 NOK vs. DET L 34 15 7 18 38.9 0 0 - 1 2 50.0 2 3 5 3 1 0 3 4 -22
+p492
+aVBobby Jackson NOK 01/04/2007 NOK vs. DET L 10 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p493
+aVCedric Simmons NOK 01/04/2007 NOK vs. DET L 14 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 4 -15
+p494
+aVRasual Butler NOK 01/04/2007 NOK vs. DET L 28 3 1 10 10.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 2 -7
+p495
+aVTyson Chandler NOK 01/04/2007 NOK vs. DET L 34 3 1 3 33.3 0 0 - 1 2 50.0 5 11 16 0 0 2 0 0 -9
+p496
+aVHilton Armstrong NOK 01/04/2007 NOK vs. DET L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 2 3 -7
+p497
+aVMarc Jackson NOK 01/02/2007 NOK vs. GSW L 25 15 6 14 42.9 0 0 - 3 4 75.0 0 6 6 4 0 0 4 0 -5
+p498
+aVTyson Chandler NOK 01/02/2007 NOK vs. GSW L 34 4 2 4 50.0 0 0 - 0 0 - 3 12 15 0 1 2 1 3 -8
+p499
+aVJannero Pargo NOK 01/02/2007 NOK vs. GSW L 45 24 9 16 56.3 3 5 60.0 3 5 60.0 0 3 3 8 2 0 3 5 -6
+p500
+aVDevin Brown NOK 01/02/2007 NOK vs. GSW L 27 2 1 10 10.0 0 3 0.0 0 0 - 1 5 6 2 0 0 1 4 -7
+p501
+aVRasual Butler NOK 01/02/2007 NOK vs. GSW L 48 30 12 20 60.0 3 9 33.3 3 3 100.0 1 5 6 0 0 2 2 5 -8
+p502
+aVHilton Armstrong NOK 01/02/2007 NOK vs. GSW L 9 2 1 1 100.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 0 11
+p503
+aVDesmond Mason NOK 01/02/2007 NOK vs. GSW L 47 12 5 11 45.5 0 0 - 2 2 100.0 1 8 9 4 0 0 5 2 -6
+p504
+aVCedric Simmons NOK 01/02/2007 NOK vs. GSW L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -11
+p505
+aVRasual Butler NOK 12/30/2006 NOK @ DAL L 35 12 5 13 38.5 1 4 25.0 1 2 50.0 1 3 4 1 0 1 0 3 -19
+p506
+aVDevin Brown NOK 12/30/2006 NOK @ DAL L 36 10 3 7 42.9 1 3 33.3 3 4 75.0 0 10 10 3 3 0 3 2 8
+p507
+aVHilton Armstrong NOK 12/30/2006 NOK @ DAL L 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 4
+p508
+aVTyson Chandler NOK 12/30/2006 NOK @ DAL L 32 5 2 5 40.0 0 0 - 1 2 50.0 0 5 5 1 0 0 3 5 -24
+p509
+aVCedric Simmons NOK 12/30/2006 NOK @ DAL L 19 6 3 5 60.0 0 0 - 0 0 - 2 2 4 2 1 0 1 2 15
+p510
+aVMarc Jackson NOK 12/30/2006 NOK @ DAL L 33 22 6 13 46.2 0 0 - 10 10 100.0 2 6 8 0 0 0 2 4 -24
+p511
+aVJannero Pargo NOK 12/30/2006 NOK @ DAL L 40 7 3 14 21.4 0 3 0.0 1 2 50.0 1 4 5 5 0 0 2 4 -18
+p512
+aVBrandon Bass NOK 12/30/2006 NOK @ DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p513
+aVDesmond Mason NOK 12/30/2006 NOK @ DAL L 39 17 6 11 54.5 0 0 - 5 7 71.4 2 3 5 0 0 0 4 5 -16
+p514
+aVRasual Butler NOK 12/29/2006 NOK vs. DEN W 38 20 8 18 44.4 3 5 60.0 1 1 100.0 0 6 6 2 4 2 3 2 12
+p515
+aVDevin Brown NOK 12/29/2006 NOK vs. DEN W 33 19 5 11 45.5 2 3 66.7 7 8 87.5 2 8 10 7 1 0 3 4 3
+p516
+aVMarc Jackson NOK 12/29/2006 NOK vs. DEN W 28 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 5 0 0 0 4 8
+p517
+aVTyson Chandler NOK 12/29/2006 NOK vs. DEN W 38 10 4 7 57.1 0 0 - 2 4 50.0 0 9 9 1 0 4 2 2 6
+p518
+aVCedric Simmons NOK 12/29/2006 NOK vs. DEN W 26 10 5 7 71.4 0 0 - 0 0 - 2 7 9 1 1 0 3 1 -3
+p519
+aVMarcus Vinicius NOK 12/29/2006 NOK vs. DEN W 6 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 1 -2
+p520
+aVDesmond Mason NOK 12/29/2006 NOK vs. DEN W 41 17 8 17 47.1 0 0 - 1 2 50.0 0 4 4 3 1 0 1 2 8
+p521
+aVJannero Pargo NOK 12/29/2006 NOK vs. DEN W 30 9 3 12 25.0 0 2 0.0 3 4 75.0 0 5 5 6 1 0 4 4 18
+p522
+aVMarc Jackson NOK 12/27/2006 NOK @ POR L 26 7 3 11 27.3 0 0 - 1 2 50.0 3 1 4 1 0 0 1 1 -20
+p523
+aVHilton Armstrong NOK 12/27/2006 NOK @ POR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 10
+p524
+aVCedric Simmons NOK 12/27/2006 NOK @ POR L 24 10 3 6 50.0 0 0 - 4 6 66.7 1 4 5 1 0 1 1 2 8
+p525
+aVDevin Brown NOK 12/27/2006 NOK @ POR L 27 13 5 13 38.5 2 6 33.3 1 2 50.0 2 4 6 4 1 0 1 5 1
+p526
+aVDesmond Mason NOK 12/27/2006 NOK @ POR L 41 16 5 14 35.7 0 0 - 6 8 75.0 2 5 7 4 1 0 2 2 -17
+p527
+aVRasual Butler NOK 12/27/2006 NOK @ POR L 38 16 7 16 43.8 2 4 50.0 0 0 - 3 3 6 1 0 2 1 3 -21
+p528
+aVJannero Pargo NOK 12/27/2006 NOK @ POR L 35 16 5 11 45.5 0 2 0.0 6 6 100.0 1 5 6 5 0 0 3 4 -15
+p529
+aVMarcus Vinicius NOK 12/27/2006 NOK @ POR L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p530
+aVTyson Chandler NOK 12/27/2006 NOK @ POR L 36 5 2 3 66.7 0 0 - 1 2 50.0 2 5 7 0 0 5 1 2 -21
+p531
+aVRasual Butler NOK 12/26/2006 NOK @ SEA L 45 8 2 15 13.3 1 7 14.3 3 6 50.0 1 5 6 5 0 1 1 1 -5
+p532
+aVDevin Brown NOK 12/26/2006 NOK @ SEA L 39 16 5 13 38.5 2 5 40.0 4 8 50.0 3 6 9 2 1 0 0 1 -18
+p533
+aVMarc Jackson NOK 12/26/2006 NOK @ SEA L 21 6 3 7 42.9 0 0 - 0 0 - 2 0 2 3 2 0 2 0 -8
+p534
+aVDesmond Mason NOK 12/26/2006 NOK @ SEA L 43 21 9 14 64.3 0 0 - 3 5 60.0 1 6 7 1 1 0 5 2 -8
+p535
+aVJannero Pargo NOK 12/26/2006 NOK @ SEA L 46 23 10 21 47.6 1 7 14.3 2 3 66.7 0 3 3 5 0 0 3 3 -1
+p536
+aVTyson Chandler NOK 12/26/2006 NOK @ SEA L 35 14 7 9 77.8 0 0 - 0 3 0.0 4 7 11 0 1 1 2 5 -3
+p537
+aVChris Paul NOK 12/26/2006 NOK @ SEA L 11 6 1 2 50.0 1 1 100.0 3 3 100.0 0 2 2 7 0 0 0 0 3
+p538
+aVBrandon Bass NOK 12/23/2006 NOK vs. SAS L 16 2 0 4 0.0 0 0 - 2 2 100.0 4 3 7 0 1 1 1 0 -9
+p539
+aVChris Paul NOK 12/23/2006 NOK vs. SAS L 30 20 9 18 50.0 0 3 0.0 2 2 100.0 0 1 1 3 1 0 2 1 -29
+p540
+aVDesmond Mason NOK 12/23/2006 NOK vs. SAS L 32 10 4 7 57.1 0 0 - 2 2 100.0 0 7 7 1 0 0 3 0 -26
+p541
+aVMarc Jackson NOK 12/23/2006 NOK vs. SAS L 17 6 3 7 42.9 0 0 - 0 0 - 2 2 4 1 0 0 5 2 -15
+p542
+aVDevin Brown NOK 12/23/2006 NOK vs. SAS L 20 4 1 7 14.3 0 1 0.0 2 2 100.0 0 3 3 3 1 0 1 0 -8
+p543
+aVHilton Armstrong NOK 12/23/2006 NOK vs. SAS L 22 4 2 6 33.3 0 0 - 0 0 - 3 1 4 1 1 0 1 4 -21
+p544
+aVRasual Butler NOK 12/23/2006 NOK vs. SAS L 29 16 6 8 75.0 2 3 66.7 2 2 100.0 0 2 2 0 2 0 1 1 -17
+p545
+aVCedric Simmons NOK 12/23/2006 NOK vs. SAS L 19 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -8
+p546
+aVJannero Pargo NOK 12/23/2006 NOK vs. SAS L 31 11 4 17 23.5 3 4 75.0 0 0 - 2 1 3 1 0 0 1 4 -19
+p547
+aVTyson Chandler NOK 12/23/2006 NOK vs. SAS L 24 2 1 3 33.3 0 0 - 0 0 - 4 5 9 0 1 0 1 2 -23
+p548
+aVRasual Butler NOK 12/22/2006 NOK vs. MEM W 40 12 5 9 55.6 2 5 40.0 0 0 - 0 3 3 0 0 1 0 2 -4
+p549
+aVHilton Armstrong NOK 12/22/2006 NOK vs. MEM W 27 14 6 13 46.2 0 0 - 2 3 66.7 3 2 5 0 2 0 1 3 -15
+p550
+aVDevin Brown NOK 12/22/2006 NOK vs. MEM W 10 0 0 4 0.0 0 4 0.0 0 0 - 0 2 2 0 0 0 1 2 1
+p551
+aVLinton Johnson NOK 12/22/2006 NOK vs. MEM W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 1 0 3 10
+p552
+aVChris Paul NOK 12/22/2006 NOK vs. MEM W 48 15 3 12 25.0 1 4 25.0 8 11 72.7 0 1 1 14 0 0 3 1 1
+p553
+aVJannero Pargo NOK 12/22/2006 NOK vs. MEM W 28 17 6 9 66.7 3 3 100.0 2 2 100.0 0 3 3 2 0 0 1 2 7
+p554
+aVMarc Jackson NOK 12/22/2006 NOK vs. MEM W 28 19 8 18 44.4 0 0 - 3 4 75.0 2 8 10 3 2 0 1 1 12
+p555
+aVCedric Simmons NOK 12/22/2006 NOK vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p556
+aVDesmond Mason NOK 12/22/2006 NOK vs. MEM W 45 17 7 12 58.3 0 0 - 3 5 60.0 3 9 12 0 1 0 5 2 2
+p557
+aVTyson Chandler NOK 12/22/2006 NOK vs. MEM W 27 6 2 5 40.0 0 0 - 2 4 50.0 10 7 17 1 1 1 2 6 -2
+p558
+aVDesmond Mason NOK 12/20/2006 NOK @ ORL L 44 14 3 12 25.0 0 0 - 8 12 66.7 3 2 5 1 4 0 4 3 -7
+p559
+aVRasual Butler NOK 12/20/2006 NOK @ ORL L 38 15 5 10 50.0 4 5 80.0 1 3 33.3 0 2 2 0 0 0 1 2 -14
+p560
+aVLinton Johnson NOK 12/20/2006 NOK @ ORL L 6 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 0 3 6
+p561
+aVTyson Chandler NOK 12/20/2006 NOK @ ORL L 29 2 1 3 33.3 0 0 - 0 0 - 6 5 11 0 2 4 4 5 -13
+p562
+aVHilton Armstrong NOK 12/20/2006 NOK @ ORL L 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 2 3 -10
+p563
+aVBrandon Bass NOK 12/20/2006 NOK @ ORL L 9 2 0 0 - 0 0 - 2 2 100.0 0 5 5 0 0 0 0 0 11
+p564
+aVJannero Pargo NOK 12/20/2006 NOK @ ORL L 34 16 6 14 42.9 2 4 50.0 2 2 100.0 0 2 2 1 1 1 4 1 17
+p565
+aVChris Paul NOK 12/20/2006 NOK @ ORL L 43 19 5 14 35.7 0 0 - 9 11 81.8 1 4 5 10 1 0 2 3 -6
+p566
+aVMarc Jackson NOK 12/20/2006 NOK @ ORL L 23 11 3 9 33.3 0 0 - 5 6 83.3 2 1 3 0 1 0 2 4 1
+p567
+aVMarc Jackson NOK 12/18/2006 NOK @ MIA L 17 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p568
+aVRasual Butler NOK 12/18/2006 NOK @ MIA L 40 21 8 18 44.4 4 10 40.0 1 1 100.0 0 8 8 1 0 0 4 1 -5
+p569
+aVLinton Johnson NOK 12/18/2006 NOK @ MIA L 18 8 4 5 80.0 0 0 - 0 1 0.0 1 2 3 0 1 0 1 3 1
+p570
+aVHilton Armstrong NOK 12/18/2006 NOK @ MIA L 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 2 2 -4
+p571
+aVJannero Pargo NOK 12/18/2006 NOK @ MIA L 32 14 6 12 50.0 2 3 66.7 0 0 - 0 4 4 6 0 0 1 2 14
+p572
+aVChris Paul NOK 12/18/2006 NOK @ MIA L 43 26 8 15 53.3 1 1 100.0 9 12 75.0 0 6 6 8 3 0 4 3 -4
+p573
+aVCedric Simmons NOK 12/18/2006 NOK @ MIA L 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p574
+aVDesmond Mason NOK 12/18/2006 NOK @ MIA L 31 10 4 10 40.0 0 0 - 2 3 66.7 2 0 2 1 0 0 1 5 -3
+p575
+aVTyson Chandler NOK 12/18/2006 NOK @ MIA L 39 10 4 8 50.0 0 0 - 2 2 100.0 6 2 8 0 2 3 2 4 -12
+p576
+aVTyson Chandler NOK 12/16/2006 NOK vs. DAL L 33 4 2 2 100.0 0 0 - 0 1 0.0 0 6 6 0 0 1 1 2 -11
+p577
+aVDesmond Mason NOK 12/16/2006 NOK vs. DAL L 40 6 2 8 25.0 0 0 - 2 4 50.0 0 3 3 3 1 0 1 2 -19
+p578
+aVCedric Simmons NOK 12/16/2006 NOK vs. DAL L 17 2 1 6 16.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p579
+aVChris Paul NOK 12/16/2006 NOK vs. DAL L 48 30 14 23 60.9 1 1 100.0 1 3 33.3 0 12 12 8 0 0 2 2 -11
+p580
+aVRasual Butler NOK 12/16/2006 NOK vs. DAL L 40 19 8 21 38.1 1 3 33.3 2 2 100.0 1 3 4 0 3 2 0 2 -9
+p581
+aVLinton Johnson NOK 12/16/2006 NOK vs. DAL L 14 0 0 3 0.0 0 0 - 0 0 - 0 4 4 1 1 0 1 1 12
+p582
+aVMarc Jackson NOK 12/16/2006 NOK vs. DAL L 18 13 5 10 50.0 0 0 - 3 3 100.0 3 2 5 1 0 1 1 4 -4
+p583
+aVJannero Pargo NOK 12/16/2006 NOK vs. DAL L 30 5 2 10 20.0 1 6 16.7 0 0 - 1 4 5 3 1 0 1 0 -10
+p584
+aVMarcus Vinicius NOK 12/14/2006 NOK vs. SAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p585
+aVLinton Johnson NOK 12/14/2006 NOK vs. SAS L 24 8 3 6 50.0 0 0 - 2 2 100.0 2 1 3 1 2 0 0 1 -1
+p586
+aVBrandon Bass NOK 12/14/2006 NOK vs. SAS L 12 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -3
+p587
+aVRasual Butler NOK 12/14/2006 NOK vs. SAS L 32 17 8 11 72.7 1 2 50.0 0 0 - 0 4 4 0 1 0 1 3 -23
+p588
+aVDesmond Mason NOK 12/14/2006 NOK vs. SAS L 31 16 6 11 54.5 0 0 - 4 5 80.0 5 4 9 1 0 0 3 2 -22
+p589
+aVChris Paul NOK 12/14/2006 NOK vs. SAS L 36 6 2 11 18.2 0 2 0.0 2 2 100.0 1 3 4 12 1 0 5 1 -23
+p590
+aVHilton Armstrong NOK 12/14/2006 NOK vs. SAS L 24 4 1 7 14.3 0 0 - 2 4 50.0 1 5 6 0 1 0 1 4 -7
+p591
+aVMarc Jackson NOK 12/14/2006 NOK vs. SAS L 26 8 4 10 40.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 1 -19
+p592
+aVCedric Simmons NOK 12/14/2006 NOK vs. SAS L 16 7 3 7 42.9 0 0 - 1 2 50.0 1 0 1 0 0 1 0 2 -14
+p593
+aVJannero Pargo NOK 12/14/2006 NOK vs. SAS L 32 9 4 14 28.6 1 3 33.3 0 0 - 0 1 1 1 1 0 3 1 -13
+p594
+aVRasual Butler NOK 12/11/2006 NOK vs. CLE W 19 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 0 1 0 2 2 -7
+p595
+aVDesmond Mason NOK 12/11/2006 NOK vs. CLE W 44 12 5 12 41.7 0 0 - 2 4 50.0 0 4 4 5 0 0 2 4 3
+p596
+aVJannero Pargo NOK 12/11/2006 NOK vs. CLE W 35 15 7 16 43.8 0 6 0.0 1 1 100.0 0 7 7 3 1 0 1 1 15
+p597
+aVChris Paul NOK 12/11/2006 NOK vs. CLE W 46 30 11 16 68.8 0 2 0.0 8 9 88.9 0 5 5 11 2 0 1 1 7
+p598
+aVHilton Armstrong NOK 12/11/2006 NOK vs. CLE W 14 12 5 6 83.3 0 0 - 2 2 100.0 4 0 4 0 1 0 1 1 10
+p599
+aVTyson Chandler NOK 12/11/2006 NOK vs. CLE W 38 4 2 2 100.0 0 0 - 0 2 0.0 2 8 10 1 0 4 0 1 2
+p600
+aVCedric Simmons NOK 12/11/2006 NOK vs. CLE W 20 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 0 0 1 0 1 -7
+p601
+aVMarc Jackson NOK 12/11/2006 NOK vs. CLE W 24 14 7 11 63.6 0 0 - 0 0 - 1 0 1 1 0 0 0 3 7
+p602
+aVCedric Simmons NOK 12/09/2006 NOK @ GSW L 27 6 3 7 42.9 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -15
+p603
+aVChris Paul NOK 12/09/2006 NOK @ GSW L 36 11 4 12 33.3 0 4 0.0 3 4 75.0 0 3 3 5 1 0 4 5 -12
+p604
+aVTyson Chandler NOK 12/09/2006 NOK @ GSW L 32 2 1 4 25.0 0 0 - 0 0 - 3 6 9 1 3 0 1 3 -13
+p605
+aVLinton Johnson NOK 12/09/2006 NOK @ GSW L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -4
+p606
+aVMarcus Vinicius NOK 12/09/2006 NOK @ GSW L 4 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 0 0
+p607
+aVRasual Butler NOK 12/09/2006 NOK @ GSW L 42 13 5 17 29.4 3 9 33.3 0 0 - 0 4 4 3 2 0 3 4 -16
+p608
+aVBrandon Bass NOK 12/09/2006 NOK @ GSW L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p609
+aVDesmond Mason NOK 12/09/2006 NOK @ GSW L 35 24 10 11 90.9 0 0 - 4 7 57.1 1 7 8 1 0 0 2 5 -13
+p610
+aVHilton Armstrong NOK 12/09/2006 NOK @ GSW L 16 4 1 2 50.0 0 0 - 2 3 66.7 1 0 1 0 1 2 0 1 -8
+p611
+aVJannero Pargo NOK 12/09/2006 NOK @ GSW L 41 15 4 15 26.7 1 5 20.0 6 7 85.7 1 11 12 8 1 0 5 2 -22
+p612
+aVChris Paul NOK 12/08/2006 NOK @ SEA L 38 16 6 14 42.9 0 0 - 4 7 57.1 1 4 5 6 1 0 5 4 -6
+p613
+aVHilton Armstrong NOK 12/08/2006 NOK @ SEA L 19 9 4 7 57.1 0 0 - 1 1 100.0 2 2 4 0 0 0 3 0 -4
+p614
+aVDesmond Mason NOK 12/08/2006 NOK @ SEA L 33 10 4 11 36.4 0 0 - 2 4 50.0 1 3 4 1 1 0 3 2 -4
+p615
+aVJannero Pargo NOK 12/08/2006 NOK @ SEA L 27 8 3 11 27.3 2 7 28.6 0 0 - 1 3 4 2 2 0 4 0 -22
+p616
+aVBrandon Bass NOK 12/08/2006 NOK @ SEA L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 2 -2
+p617
+aVTyson Chandler NOK 12/08/2006 NOK @ SEA L 31 6 3 3 100.0 0 0 - 0 2 0.0 4 9 13 0 0 1 1 4 -3
+p618
+aVMarcus Vinicius NOK 12/08/2006 NOK @ SEA L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -14
+p619
+aVRasual Butler NOK 12/08/2006 NOK @ SEA L 34 9 2 10 20.0 1 5 20.0 4 6 66.7 1 3 4 0 0 1 3 5 -16
+p620
+aVLinton Johnson NOK 12/08/2006 NOK @ SEA L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p621
+aVMarc Jackson NOK 12/08/2006 NOK @ SEA L 17 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 2 1 0 3 3 -13
+p622
+aVCedric Simmons NOK 12/08/2006 NOK @ SEA L 22 6 3 7 42.9 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -14
+p623
+aVTyson Chandler NOK 12/06/2006 NOK @ LAL W 32 10 4 5 80.0 0 0 - 2 2 100.0 4 8 12 1 0 3 2 4 13
+p624
+aVMarc Jackson NOK 12/06/2006 NOK @ LAL W 22 4 1 5 20.0 0 0 - 2 2 100.0 3 2 5 0 2 0 3 3 5
+p625
+aVChris Paul NOK 12/06/2006 NOK @ LAL W 42 26 11 22 50.0 0 2 0.0 4 6 66.7 3 3 6 11 3 0 3 1 17
+p626
+aVRasual Butler NOK 12/06/2006 NOK @ LAL W 43 22 9 17 52.9 2 6 33.3 2 3 66.7 1 5 6 3 1 0 0 5 17
+p627
+aVCedric Simmons NOK 12/06/2006 NOK @ LAL W 17 6 3 6 50.0 0 0 - 0 0 - 4 2 6 0 0 0 2 2 3
+p628
+aVDesmond Mason NOK 12/06/2006 NOK @ LAL W 45 16 8 16 50.0 0 0 - 0 1 0.0 3 7 10 2 1 0 5 2 11
+p629
+aVHilton Armstrong NOK 12/06/2006 NOK @ LAL W 3 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -1
+p630
+aVJannero Pargo NOK 12/06/2006 NOK @ LAL W 36 21 8 21 38.1 4 7 57.1 1 1 100.0 1 2 3 3 1 0 0 3 15
+p631
+aVChris Paul NOK 12/01/2006 NOK vs. CHI L 48 25 6 13 46.2 1 2 50.0 12 15 80.0 2 9 11 18 5 1 7 1 -3
+p632
+aVCedric Simmons NOK 12/01/2006 NOK vs. CHI L 11 2 1 2 50.0 0 0 - 0 2 0.0 2 2 4 0 0 0 0 1 -5
+p633
+aVJannero Pargo NOK 12/01/2006 NOK vs. CHI L 29 18 4 9 44.4 1 3 33.3 9 11 81.8 0 2 2 0 1 0 1 3 4
+p634
+aVDesmond Mason NOK 12/01/2006 NOK vs. CHI L 39 11 5 12 41.7 0 0 - 1 4 25.0 1 2 3 4 0 1 3 6 -2
+p635
+aVRasual Butler NOK 12/01/2006 NOK vs. CHI L 45 33 12 23 52.2 7 12 58.3 2 3 66.7 1 0 1 2 1 0 3 4 2
+p636
+aVBrandon Bass NOK 12/01/2006 NOK vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p637
+aVMarcus Vinicius NOK 12/01/2006 NOK vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p638
+aVTyson Chandler NOK 12/01/2006 NOK vs. CHI L 31 2 1 2 50.0 0 0 - 0 2 0.0 3 14 17 1 0 3 2 4 19
+p639
+aVLinton Johnson NOK 12/01/2006 NOK vs. CHI L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 2 -8
+p640
+aVMarc Jackson NOK 12/01/2006 NOK vs. CHI L 28 15 6 15 40.0 0 0 - 3 3 100.0 2 4 6 0 0 0 1 1 -20
+p641
+aVBobby Jackson NOK 11/28/2006 NOK vs. TOR L 15 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 2 1 0 2 1 -16
+p642
+aVChris Paul NOK 11/28/2006 NOK vs. TOR L 38 16 6 16 37.5 1 2 50.0 3 6 50.0 2 2 4 11 4 0 3 4 -11
+p643
+aVCedric Simmons NOK 11/28/2006 NOK vs. TOR L 19 6 3 6 50.0 0 0 - 0 0 - 3 1 4 1 0 1 0 2 -13
+p644
+aVMarc Jackson NOK 11/28/2006 NOK vs. TOR L 17 9 4 9 44.4 0 0 - 1 2 50.0 2 1 3 0 1 0 2 3 4
+p645
+aVTyson Chandler NOK 11/28/2006 NOK vs. TOR L 39 6 3 4 75.0 0 0 - 0 2 0.0 4 13 17 0 0 2 0 3 -18
+p646
+aVHilton Armstrong NOK 11/28/2006 NOK vs. TOR L 5 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -2
+p647
+aVRasual Butler NOK 11/28/2006 NOK vs. TOR L 38 13 6 16 37.5 1 7 14.3 0 0 - 2 3 5 1 2 0 3 1 -11
+p648
+aVBrandon Bass NOK 11/28/2006 NOK vs. TOR L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p649
+aVDesmond Mason NOK 11/28/2006 NOK vs. TOR L 36 10 4 9 44.4 0 0 - 2 2 100.0 0 3 3 0 0 0 3 3 -16
+p650
+aVMarcus Vinicius NOK 11/28/2006 NOK vs. TOR L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 2
+p651
+aVLinton Johnson NOK 11/28/2006 NOK vs. TOR L 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p652
+aVJannero Pargo NOK 11/28/2006 NOK vs. TOR L 20 4 1 6 16.7 0 1 0.0 2 2 100.0 0 2 2 1 0 0 2 0 -8
+p653
+aVCedric Simmons NOK 11/25/2006 NOK @ DAL L 34 0 0 5 0.0 0 0 - 0 0 - 1 3 4 0 1 2 0 1 -3
+p654
+aVTyson Chandler NOK 11/25/2006 NOK @ DAL L 30 6 3 3 100.0 0 0 - 0 2 0.0 3 5 8 0 0 2 1 3 -19
+p655
+aVBobby Jackson NOK 11/25/2006 NOK @ DAL L 23 10 4 10 40.0 1 1 100.0 1 6 16.7 1 2 3 1 2 0 0 3 -12
+p656
+aVDesmond Mason NOK 11/25/2006 NOK @ DAL L 30 6 2 6 33.3 0 0 - 2 4 50.0 3 5 8 0 0 0 5 2 -16
+p657
+aVMarc Jackson NOK 11/25/2006 NOK @ DAL L 14 5 1 7 14.3 0 0 - 3 4 75.0 2 1 3 0 0 0 1 4 -21
+p658
+aVHilton Armstrong NOK 11/25/2006 NOK @ DAL L 24 7 3 3 100.0 0 0 - 1 2 50.0 1 7 8 1 0 1 2 3 5
+p659
+aVMarcus Vinicius NOK 11/25/2006 NOK @ DAL L 18 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 6
+p660
+aVLinton Johnson NOK 11/25/2006 NOK @ DAL L 34 0 0 4 0.0 0 1 0.0 0 0 - 1 4 5 0 1 0 0 3 -2
+p661
+aVBrandon Bass NOK 11/25/2006 NOK @ DAL L 12 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 9
+p662
+aVJannero Pargo NOK 11/25/2006 NOK @ DAL L 28 19 7 15 46.7 2 5 40.0 3 4 75.0 2 3 5 2 0 0 4 2 6
+p663
+aVChris Paul NOK 11/25/2006 NOK @ DAL L 32 12 5 14 35.7 0 0 - 2 2 100.0 0 1 1 4 5 0 3 3 -17
+p664
+aVRasual Butler NOK 11/25/2006 NOK @ DAL L 46 4 2 8 25.0 0 3 0.0 0 0 - 0 1 1 0 1 0 1 3 4
+p665
+aVPeja Stojakovic NOK 11/24/2006 NOK vs. MIN L 35 8 3 15 20.0 0 6 0.0 2 3 66.7 1 8 9 0 1 0 0 2 -1
+p666
+aVJannero Pargo NOK 11/24/2006 NOK vs. MIN L 21 13 5 11 45.5 1 6 16.7 2 2 100.0 0 3 3 4 2 1 2 1 -3
+p667
+aVBobby Jackson NOK 11/24/2006 NOK vs. MIN L 22 13 5 14 35.7 1 2 50.0 2 3 66.7 1 2 3 0 1 0 2 4 -7
+p668
+aVCedric Simmons NOK 11/24/2006 NOK vs. MIN L 17 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 0 1 1 2 1
+p669
+aVRasual Butler NOK 11/24/2006 NOK vs. MIN L 17 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 0 0 1 0 0 -5
+p670
+aVMarc Jackson NOK 11/24/2006 NOK vs. MIN L 19 8 4 12 33.3 0 0 - 0 0 - 0 3 3 1 1 1 0 0 -6
+p671
+aVTyson Chandler NOK 11/24/2006 NOK vs. MIN L 36 6 2 2 100.0 0 0 - 2 2 100.0 2 8 10 0 0 1 1 4 -4
+p672
+aVChris Paul NOK 11/24/2006 NOK vs. MIN L 36 18 4 11 36.4 0 1 0.0 10 10 100.0 1 5 6 7 2 0 0 2 0
+p673
+aVDesmond Mason NOK 11/24/2006 NOK vs. MIN L 37 6 1 7 14.3 0 0 - 4 6 66.7 0 1 1 1 0 0 2 4 -10
+p674
+aVJannero Pargo NOK 11/22/2006 NOK @ PHX L 17 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 2 3 -1
+p675
+aVDesmond Mason NOK 11/22/2006 NOK @ PHX L 37 21 8 15 53.3 0 0 - 5 7 71.4 2 2 4 1 2 0 1 2 0
+p676
+aVChris Paul NOK 11/22/2006 NOK @ PHX L 39 18 8 16 50.0 0 1 0.0 2 2 100.0 1 2 3 4 3 0 4 3 -9
+p677
+aVPeja Stojakovic NOK 11/22/2006 NOK @ PHX L 39 21 8 20 40.0 1 6 16.7 4 4 100.0 2 2 4 0 0 0 0 1 -6
+p678
+aVMarc Jackson NOK 11/22/2006 NOK @ PHX L 8 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -6
+p679
+aVTyson Chandler NOK 11/22/2006 NOK @ PHX L 31 4 2 3 66.7 0 0 - 0 2 0.0 6 10 16 2 2 1 1 1 -7
+p680
+aVRasual Butler NOK 11/22/2006 NOK @ PHX L 27 2 1 8 12.5 0 3 0.0 0 0 - 0 4 4 0 1 0 0 1 -16
+p681
+aVCedric Simmons NOK 11/22/2006 NOK @ PHX L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 4
+p682
+aVBobby Jackson NOK 11/22/2006 NOK @ PHX L 33 11 5 13 38.5 0 3 0.0 1 2 50.0 1 4 5 0 1 0 2 2 -4
+p683
+aVCedric Simmons NOK 11/21/2006 NOK vs. MIA W 15 1 0 1 0.0 0 0 - 1 6 16.7 3 1 4 0 2 2 0 2 2
+p684
+aVBobby Jackson NOK 11/21/2006 NOK vs. MIA W 19 14 5 9 55.6 3 4 75.0 1 1 100.0 0 6 6 3 0 0 0 2 6
+p685
+aVHilton Armstrong NOK 11/21/2006 NOK vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p686
+aVRasual Butler NOK 11/21/2006 NOK vs. MIA W 21 10 4 9 44.4 1 2 50.0 1 3 33.3 1 6 7 2 0 0 3 1 10
+p687
+aVBrandon Bass NOK 11/21/2006 NOK vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p688
+aVDesmond Mason NOK 11/21/2006 NOK vs. MIA W 33 17 7 15 46.7 0 0 - 3 5 60.0 2 3 5 3 1 0 2 0 4
+p689
+aVMarc Jackson NOK 11/21/2006 NOK vs. MIA W 31 12 6 12 50.0 0 0 - 0 1 0.0 1 2 3 3 0 0 0 3 21
+p690
+aVJannero Pargo NOK 11/21/2006 NOK vs. MIA W 16 3 1 5 20.0 1 1 100.0 0 0 - 0 3 3 3 1 0 2 2 11
+p691
+aVLinton Johnson NOK 11/21/2006 NOK vs. MIA W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 3
+p692
+aVPeja Stojakovic NOK 11/21/2006 NOK vs. MIA W 29 23 8 16 50.0 5 10 50.0 2 2 100.0 0 1 1 0 0 1 0 2 8
+p693
+aVChris Paul NOK 11/21/2006 NOK vs. MIA W 34 11 3 13 23.1 0 0 - 5 7 71.4 2 3 5 10 1 0 3 1 4
+p694
+aVTyson Chandler NOK 11/21/2006 NOK vs. MIA W 30 7 2 5 40.0 0 0 - 3 7 42.9 5 13 18 1 3 1 1 4 8
+p695
+aVHilton Armstrong NOK 11/18/2006 NOK @ MIN W 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 2 1 1 1 1
+p696
+aVLinton Johnson NOK 11/18/2006 NOK @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p697
+aVBobby Jackson NOK 11/18/2006 NOK @ MIN W 22 7 2 5 40.0 0 1 0.0 3 3 100.0 0 5 5 3 0 1 4 0 6
+p698
+aVJannero Pargo NOK 11/18/2006 NOK @ MIN W 15 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 4
+p699
+aVCedric Simmons NOK 11/18/2006 NOK @ MIN W 23 6 3 6 50.0 0 0 - 0 0 - 3 6 9 0 0 1 0 5 -1
+p700
+aVMarc Jackson NOK 11/18/2006 NOK @ MIN W 14 6 3 9 33.3 0 1 0.0 0 0 - 1 2 3 3 0 0 0 1 5
+p701
+aVDesmond Mason NOK 11/18/2006 NOK @ MIN W 27 10 3 8 37.5 0 0 - 4 6 66.7 1 0 1 2 0 0 1 2 0
+p702
+aVRasual Butler NOK 11/18/2006 NOK @ MIN W 21 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 2 1 3
+p703
+aVBrandon Bass NOK 11/18/2006 NOK @ MIN W 16 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p704
+aVTyson Chandler NOK 11/18/2006 NOK @ MIN W 28 4 2 2 100.0 0 0 - 0 0 - 1 5 6 0 1 0 0 4 -3
+p705
+aVPeja Stojakovic NOK 11/18/2006 NOK @ MIN W 30 20 9 17 52.9 2 4 50.0 0 0 - 1 3 4 2 0 0 0 3 9
+p706
+aVChris Paul NOK 11/18/2006 NOK @ MIN W 37 35 12 18 66.7 1 1 100.0 10 11 90.9 2 3 5 6 1 0 5 2 -5
+p707
+aVRasual Butler NOK 11/15/2006 NOK @ DET W 12 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 5
+p708
+aVLinton Johnson NOK 11/15/2006 NOK @ DET W 15 5 2 5 40.0 1 1 100.0 0 0 - 1 4 5 0 0 0 0 2 8
+p709
+aVDesmond Mason NOK 11/15/2006 NOK @ DET W 30 4 2 11 18.2 0 0 - 0 0 - 3 3 6 0 0 0 2 3 -10
+p710
+aVChris Paul NOK 11/15/2006 NOK @ DET W 37 20 7 14 50.0 0 1 0.0 6 6 100.0 1 2 3 13 0 0 0 3 -4
+p711
+aVBrandon Bass NOK 11/15/2006 NOK @ DET W 28 12 4 10 40.0 0 0 - 4 4 100.0 3 4 7 1 1 1 1 2 -9
+p712
+aVCedric Simmons NOK 11/15/2006 NOK @ DET W 19 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 3
+p713
+aVJannero Pargo NOK 11/15/2006 NOK @ DET W 12 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 5
+p714
+aVPeja Stojakovic NOK 11/15/2006 NOK @ DET W 35 14 5 13 38.5 2 5 40.0 2 2 100.0 2 0 2 1 1 1 1 1 5
+p715
+aVBobby Jackson NOK 11/15/2006 NOK @ DET W 23 11 3 7 42.9 0 2 0.0 5 6 83.3 3 4 7 3 1 0 0 1 4
+p716
+aVHilton Armstrong NOK 11/15/2006 NOK @ DET W 29 17 7 11 63.6 0 0 - 3 5 60.0 5 4 9 0 0 0 1 3 -2
+p717
+aVPeja Stojakovic NOK 11/14/2006 NOK vs. CHA W 38 42 15 22 68.2 5 10 50.0 7 8 87.5 1 7 8 0 2 1 3 3 7
+p718
+aVDesmond Mason NOK 11/14/2006 NOK vs. CHA W 32 8 3 11 27.3 0 0 - 2 3 66.7 1 1 2 0 3 0 1 2 12
+p719
+aVTyson Chandler NOK 11/14/2006 NOK vs. CHA W 40 2 1 5 20.0 0 0 - 0 2 0.0 3 12 15 1 0 1 2 4 7
+p720
+aVJannero Pargo NOK 11/14/2006 NOK vs. CHA W 14 10 5 8 62.5 0 2 0.0 0 0 - 0 2 2 1 0 0 0 1 2
+p721
+aVCedric Simmons NOK 11/14/2006 NOK vs. CHA W 12 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 2 0 1 1 3 -2
+p722
+aVBobby Jackson NOK 11/14/2006 NOK vs. CHA W 26 14 5 10 50.0 1 1 100.0 3 5 60.0 0 3 3 0 0 0 2 3 5
+p723
+aVChris Paul NOK 11/14/2006 NOK vs. CHA W 33 2 0 8 0.0 0 1 0.0 2 2 100.0 0 2 2 10 3 0 1 1 10
+p724
+aVRasual Butler NOK 11/14/2006 NOK vs. CHA W 16 2 1 6 16.7 0 0 - 0 0 - 0 1 1 0 1 3 0 0 -3
+p725
+aVLinton Johnson NOK 11/14/2006 NOK vs. CHA W 18 8 3 9 33.3 1 2 50.0 1 2 50.0 3 3 6 0 1 0 0 0 9
+p726
+aVBrandon Bass NOK 11/14/2006 NOK vs. CHA W 11 2 1 4 25.0 0 0 - 0 2 0.0 2 1 3 1 0 0 0 4 -2
+p727
+aVJannero Pargo NOK 11/12/2006 NOK @ LAC L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -6
+p728
+aVBobby Jackson NOK 11/12/2006 NOK @ LAC L 24 12 3 7 42.9 0 3 0.0 6 7 85.7 0 3 3 2 1 0 3 0 -7
+p729
+aVPeja Stojakovic NOK 11/12/2006 NOK @ LAC L 33 11 4 11 36.4 2 5 40.0 1 2 50.0 0 4 4 0 2 1 4 2 -12
+p730
+aVRasual Butler NOK 11/12/2006 NOK @ LAC L 15 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 0 0 0 1 2 -10
+p731
+aVDavid West NOK 11/12/2006 NOK @ LAC L 35 8 3 12 25.0 0 0 - 2 2 100.0 1 7 8 2 1 0 0 2 -20
+p732
+aVChris Paul NOK 11/12/2006 NOK @ LAC L 36 20 9 13 69.2 0 1 0.0 2 5 40.0 1 4 5 3 1 0 6 5 -10
+p733
+aVCedric Simmons NOK 11/12/2006 NOK @ LAC L 16 8 4 4 100.0 0 0 - 0 0 - 1 1 2 0 0 1 3 4 -10
+p734
+aVHilton Armstrong NOK 11/12/2006 NOK @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p735
+aVTyson Chandler NOK 11/12/2006 NOK @ LAC L 35 8 4 4 100.0 0 0 - 0 1 0.0 6 7 13 1 1 2 2 5 0
+p736
+aVDesmond Mason NOK 11/12/2006 NOK @ LAC L 33 7 3 9 33.3 0 0 - 1 2 50.0 1 1 2 2 1 1 3 0 -6
+p737
+aVChris Paul NOK 11/10/2006 NOK @ POR L 39 12 6 17 35.3 0 3 0.0 0 0 - 0 3 3 8 2 0 2 2 3
+p738
+aVTyson Chandler NOK 11/10/2006 NOK @ POR L 19 4 2 4 50.0 0 0 - 0 0 - 2 1 3 4 0 1 1 4 10
+p739
+aVDesmond Mason NOK 11/10/2006 NOK @ POR L 35 18 7 9 77.8 0 0 - 4 4 100.0 2 4 6 2 0 0 3 1 9
+p740
+aVDavid West NOK 11/10/2006 NOK @ POR L 43 17 6 16 37.5 0 1 0.0 5 6 83.3 5 8 13 0 0 2 3 6 8
+p741
+aVRasual Butler NOK 11/10/2006 NOK @ POR L 13 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 -12
+p742
+aVPeja Stojakovic NOK 11/10/2006 NOK @ POR L 34 21 8 16 50.0 4 7 57.1 1 1 100.0 1 3 4 0 0 0 1 2 -8
+p743
+aVBobby Jackson NOK 11/10/2006 NOK @ POR L 26 15 6 13 46.2 1 4 25.0 2 3 66.7 0 4 4 2 1 0 1 2 -4
+p744
+aVCedric Simmons NOK 11/10/2006 NOK @ POR L 16 2 0 1 0.0 0 0 - 2 2 100.0 2 4 6 1 0 0 1 3 0
+p745
+aVJannero Pargo NOK 11/10/2006 NOK @ POR L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 0 -4
+p746
+aVLinton Johnson NOK 11/10/2006 NOK @ POR L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p747
+aVDesmond Mason NOK 11/09/2006 NOK @ GSW L 32 16 6 11 54.5 0 0 - 4 6 66.7 2 1 3 2 1 1 1 5 0
+p748
+aVPeja Stojakovic NOK 11/09/2006 NOK @ GSW L 34 18 6 14 42.9 3 5 60.0 3 3 100.0 3 4 7 2 0 0 1 2 6
+p749
+aVJannero Pargo NOK 11/09/2006 NOK @ GSW L 11 7 3 7 42.9 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p750
+aVDavid West NOK 11/09/2006 NOK @ GSW L 32 21 8 10 80.0 0 0 - 5 8 62.5 2 4 6 0 1 1 5 5 10
+p751
+aVBobby Jackson NOK 11/09/2006 NOK @ GSW L 25 12 3 9 33.3 0 2 0.0 6 10 60.0 1 4 5 4 0 0 3 5 -9
+p752
+aVCedric Simmons NOK 11/09/2006 NOK @ GSW L 11 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 0
+p753
+aVLinton Johnson NOK 11/09/2006 NOK @ GSW L 13 4 1 2 50.0 0 1 0.0 2 2 100.0 3 3 6 0 0 0 0 3 -12
+p754
+aVChris Paul NOK 11/09/2006 NOK @ GSW L 37 34 12 21 57.1 1 1 100.0 9 10 90.0 3 0 3 10 2 0 6 1 3
+p755
+aVRasual Butler NOK 11/09/2006 NOK @ GSW L 12 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 1 1 -9
+p756
+aVTyson Chandler NOK 11/09/2006 NOK @ GSW L 33 4 2 2 100.0 0 0 - 0 0 - 3 8 11 2 0 1 2 2 -6
+p757
+aVBobby Jackson NOK 11/07/2006 NOK vs. GSW W 23 6 3 6 50.0 0 1 0.0 0 0 - 2 3 5 2 2 0 2 1 3
+p758
+aVJannero Pargo NOK 11/07/2006 NOK vs. GSW W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 0 -5
+p759
+aVCedric Simmons NOK 11/07/2006 NOK vs. GSW W 8 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 2 -7
+p760
+aVChris Paul NOK 11/07/2006 NOK vs. GSW W 36 22 9 16 56.3 1 1 100.0 3 4 75.0 1 5 6 11 0 0 4 2 10
+p761
+aVLinton Johnson NOK 11/07/2006 NOK vs. GSW W 13 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 1 -4
+p762
+aVPeja Stojakovic NOK 11/07/2006 NOK vs. GSW W 35 18 5 16 31.3 3 9 33.3 5 5 100.0 0 1 1 2 0 0 1 3 5
+p763
+aVDesmond Mason NOK 11/07/2006 NOK vs. GSW W 31 12 6 15 40.0 0 0 - 0 0 - 4 5 9 0 2 0 5 3 15
+p764
+aVDavid West NOK 11/07/2006 NOK vs. GSW W 36 16 7 15 46.7 0 0 - 2 2 100.0 5 6 11 1 0 0 1 2 6
+p765
+aVTyson Chandler NOK 11/07/2006 NOK vs. GSW W 33 10 4 5 80.0 0 0 - 2 3 66.7 6 8 14 0 0 1 0 2 13
+p766
+aVRasual Butler NOK 11/07/2006 NOK vs. GSW W 14 4 1 5 20.0 1 2 50.0 1 2 50.0 1 0 1 1 0 0 0 1 -16
+p767
+aVBobby Jackson NOK 11/05/2006 NOK vs. HOU W 26 12 4 9 44.4 0 1 0.0 4 4 100.0 2 3 5 2 2 0 2 3 13
+p768
+aVTyson Chandler NOK 11/05/2006 NOK vs. HOU W 25 8 2 3 66.7 0 0 - 4 10 40.0 5 6 11 0 1 0 1 5 4
+p769
+aVPeja Stojakovic NOK 11/05/2006 NOK vs. HOU W 29 16 5 11 45.5 5 8 62.5 1 2 50.0 0 4 4 1 2 0 2 1 -3
+p770
+aVRasual Butler NOK 11/05/2006 NOK vs. HOU W 18 11 4 5 80.0 3 3 100.0 0 0 - 0 2 2 0 3 0 1 1 10
+p771
+aVDavid West NOK 11/05/2006 NOK vs. HOU W 37 22 7 14 50.0 0 1 0.0 8 11 72.7 1 5 6 1 0 1 0 2 -1
+p772
+aVJannero Pargo NOK 11/05/2006 NOK vs. HOU W 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p773
+aVLinton Johnson NOK 11/05/2006 NOK vs. HOU W 10 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 5 -5
+p774
+aVChris Paul NOK 11/05/2006 NOK vs. HOU W 38 12 5 12 41.7 0 2 0.0 2 3 66.7 1 2 3 16 3 0 5 1 11
+p775
+aVDesmond Mason NOK 11/05/2006 NOK vs. HOU W 33 8 3 9 33.3 0 0 - 2 3 66.7 0 2 2 0 1 0 2 1 5
+p776
+aVCedric Simmons NOK 11/05/2006 NOK vs. HOU W 14 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 2 1 3 1
+p777
+aVJannero Pargo NOK 11/03/2006 NOK @ IND W 9 10 3 8 37.5 0 0 - 4 4 100.0 0 1 1 1 0 0 0 1 10
+p778
+aVCedric Simmons NOK 11/03/2006 NOK @ IND W 8 2 1 3 33.3 0 0 - 0 0 - 2 5 7 1 0 0 0 2 6
+p779
+aVDavid West NOK 11/03/2006 NOK @ IND W 17 20 8 13 61.5 0 0 - 4 4 100.0 3 3 6 3 0 1 2 4 -3
+p780
+aVPeja Stojakovic NOK 11/03/2006 NOK @ IND W 13 8 3 10 30.0 1 5 20.0 1 3 33.3 0 4 4 1 0 0 5 3 1
+p781
+aVBobby Jackson NOK 11/03/2006 NOK @ IND W 15 8 4 11 36.4 0 4 0.0 0 0 - 1 4 5 0 1 0 2 2 8
+p782
+aVChris Paul NOK 11/03/2006 NOK @ IND W 15 16 6 12 50.0 0 0 - 4 4 100.0 0 2 2 6 0 0 2 4 -1
+p783
+aVDesmond Mason NOK 11/03/2006 NOK @ IND W 15 10 3 11 27.3 0 0 - 4 4 100.0 4 3 7 2 1 1 4 1 0
+p784
+aVLinton Johnson NOK 11/03/2006 NOK @ IND W 7 8 2 4 50.0 0 0 - 4 4 100.0 1 0 1 0 0 1 0 1 12
+p785
+aVTyson Chandler NOK 11/03/2006 NOK @ IND W 16 7 3 5 60.0 0 0 - 1 2 50.0 8 7 15 1 0 0 0 2 1
+p786
+aVRasual Butler NOK 11/03/2006 NOK @ IND W 15 11 4 7 57.1 2 5 40.0 1 2 50.0 0 5 5 1 0 1 0 2 11
+p787
+aVDesmond Mason NOK 11/01/2006 NOK @ BOS W 33 8 3 9 33.3 0 0 - 2 4 50.0 1 2 3 0 0 0 1 4 1
+p788
+aVBobby Jackson NOK 11/01/2006 NOK @ BOS W 28 14 6 11 54.5 0 3 0.0 2 2 100.0 0 3 3 0 1 0 4 0 9
+p789
+aVDavid West NOK 11/01/2006 NOK @ BOS W 33 18 9 22 40.9 0 0 - 0 2 0.0 3 5 8 2 1 2 2 4 -2
+p790
+aVJannero Pargo NOK 11/01/2006 NOK @ BOS W 11 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 1 4
+p791
+aVTyson Chandler NOK 11/01/2006 NOK @ BOS W 27 6 3 5 60.0 0 0 - 0 2 0.0 2 7 9 1 0 0 2 6 -6
+p792
+aVPeja Stojakovic NOK 11/01/2006 NOK @ BOS W 31 11 4 15 26.7 1 4 25.0 2 3 66.7 0 2 2 2 0 0 1 4 0
+p793
+aVCedric Simmons NOK 11/01/2006 NOK @ BOS W 11 4 1 1 100.0 0 0 - 2 4 50.0 1 1 2 0 1 2 2 2 4
+p794
+aVRasual Butler NOK 11/01/2006 NOK @ BOS W 15 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 0 0 0 1 5 3
+p795
+aVHilton Armstrong NOK 11/01/2006 NOK @ BOS W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 8
+p796
+aVChris Paul NOK 11/01/2006 NOK @ BOS W 37 20 7 14 50.0 0 3 0.0 6 9 66.7 1 6 7 10 3 0 1 2 0
+p797
+aVLinton Johnson NOK 11/01/2006 NOK @ BOS W 9 6 2 2 100.0 0 0 - 2 3 66.7 2 4 6 0 0 0 0 3 -1
+p798
+a.

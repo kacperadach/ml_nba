@@ -1,0 +1,72 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVElden Campbell LAL 05/02/1996 LAL @ HOU L 41 15 5 13 38.5 0 1 0.0 5 7 71.4 1 6 7 2 0 3 2 3 -
+p2
+aVEddie Jones LAL 05/02/1996 LAL @ HOU L 37 14 4 7 57.1 3 3 100.0 3 4 75.0 0 2 2 2 5 1 2 5 -
+p3
+aVCedric Ceballos LAL 05/02/1996 LAL @ HOU L 38 25 10 19 52.6 1 5 20.0 4 5 80.0 4 8 12 3 3 0 3 4 -
+p4
+aVMagic Johnson LAL 05/02/1996 LAL @ HOU L 30 8 2 8 25.0 0 2 0.0 4 4 100.0 2 3 5 5 0 0 4 1 -
+p5
+aVAnthony Peeler LAL 05/02/1996 LAL @ HOU L 24 8 3 6 50.0 2 3 66.7 0 0 - 0 3 3 0 2 0 1 2 -
+p6
+aVSedale Threatt LAL 05/02/1996 LAL @ HOU L 10 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 2 -
+p7
+aVVlade Divac LAL 05/02/1996 LAL @ HOU L 22 9 4 9 44.4 0 1 0.0 1 2 50.0 2 4 6 0 0 0 0 1 -
+p8
+aVNick Van Exel LAL 05/02/1996 LAL @ HOU L 38 15 5 13 38.5 2 5 40.0 3 3 100.0 0 1 1 11 1 0 5 2 -
+p9
+aVMagic Johnson LAL 04/30/1996 LAL @ HOU L 38 7 2 9 22.2 0 2 0.0 3 4 75.0 4 5 9 13 0 0 2 0 -
+p10
+aVNick Van Exel LAL 04/30/1996 LAL @ HOU L 36 12 5 16 31.3 2 5 40.0 0 0 - 1 4 5 4 0 0 2 2 -
+p11
+aVElden Campbell LAL 04/30/1996 LAL @ HOU L 35 18 8 11 72.7 0 0 - 2 3 66.7 1 9 10 2 1 2 2 5 -
+p12
+aVCedric Ceballos LAL 04/30/1996 LAL @ HOU L 35 16 6 11 54.5 1 4 25.0 3 3 100.0 3 3 6 0 0 0 2 2 -
+p13
+aVEddie Jones LAL 04/30/1996 LAL @ HOU L 38 16 7 12 58.3 1 3 33.3 1 2 50.0 0 4 4 1 1 0 0 3 -
+p14
+aVAnthony Peeler LAL 04/30/1996 LAL @ HOU L 23 8 3 10 30.0 2 6 33.3 0 0 - 0 2 2 2 2 0 0 4 -
+p15
+aVVlade Divac LAL 04/30/1996 LAL @ HOU L 23 11 4 9 44.4 1 2 50.0 2 2 100.0 1 3 4 1 0 2 1 1 -
+p16
+aVSedale Threatt LAL 04/30/1996 LAL @ HOU L 12 10 4 8 50.0 2 6 33.3 0 0 - 0 1 1 2 0 0 0 1 -
+p17
+aVAnthony Peeler LAL 04/27/1996 LAL vs. HOU W 25 12 3 11 27.3 2 5 40.0 4 4 100.0 2 1 3 1 2 0 2 0 -
+p18
+aVVlade Divac LAL 04/27/1996 LAL vs. HOU W 34 10 4 7 57.1 0 0 - 2 2 100.0 3 9 12 1 0 1 4 4 -
+p19
+aVNick Van Exel LAL 04/27/1996 LAL vs. HOU W 31 15 5 14 35.7 1 2 50.0 4 6 66.7 2 5 7 4 0 0 1 2 -
+p20
+aVGeorge Lynch LAL 04/27/1996 LAL vs. HOU W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p21
+aVMagic Johnson LAL 04/27/1996 LAL vs. HOU W 31 26 7 11 63.6 1 1 100.0 11 13 84.6 1 6 7 5 0 0 1 1 -
+p22
+aVCedric Ceballos LAL 04/27/1996 LAL vs. HOU W 25 13 5 12 41.7 1 3 33.3 2 2 100.0 1 2 3 1 0 0 1 1 -
+p23
+aVEddie Jones LAL 04/27/1996 LAL vs. HOU W 45 20 9 18 50.0 1 5 20.0 1 1 100.0 5 6 11 2 0 0 1 3 -
+p24
+aVSedale Threatt LAL 04/27/1996 LAL vs. HOU W 17 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 2 0 1 1 -
+p25
+aVElden Campbell LAL 04/27/1996 LAL vs. HOU W 27 8 4 7 57.1 0 0 - 0 2 0.0 1 6 7 3 0 3 2 6 -
+p26
+aVGeorge Lynch LAL 04/25/1996 LAL vs. HOU L 10 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 0 2 3 -
+p27
+aVSedale Threatt LAL 04/25/1996 LAL vs. HOU L 18 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 0 -
+p28
+aVNick Van Exel LAL 04/25/1996 LAL vs. HOU L 32 5 1 11 9.1 0 4 0.0 3 4 75.0 1 2 3 8 1 0 3 4 -
+p29
+aVCedric Ceballos LAL 04/25/1996 LAL vs. HOU L 44 22 9 20 45.0 2 4 50.0 2 2 100.0 3 9 12 1 1 1 2 2 -
+p30
+aVVlade Divac LAL 04/25/1996 LAL vs. HOU L 36 6 3 10 30.0 0 2 0.0 0 2 0.0 5 3 8 6 0 2 3 4 -
+p31
+aVFred Roberts LAL 04/25/1996 LAL vs. HOU L 3 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 0 -
+p32
+aVMagic Johnson LAL 04/25/1996 LAL vs. HOU L 36 20 4 11 36.4 2 4 50.0 10 12 83.3 1 12 13 3 0 0 5 1 -
+p33
+aVEddie Jones LAL 04/25/1996 LAL vs. HOU L 35 19 7 12 58.3 5 8 62.5 0 1 0.0 2 2 4 1 2 0 1 5 -
+p34
+aVElden Campbell LAL 04/25/1996 LAL vs. HOU L 26 7 3 8 37.5 0 0 - 1 4 25.0 0 8 8 1 0 1 4 3 -
+p35
+a.

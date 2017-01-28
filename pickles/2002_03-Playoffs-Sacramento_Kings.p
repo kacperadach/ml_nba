@@ -1,0 +1,248 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVlade Divac SAC 05/17/2003 SAC @ DAL L 33 11 3 12 25.0 0 0 - 5 8 62.5 2 4 6 3 0 1 2 1 -11
+p2
+aVHedo Turkoglu SAC 05/17/2003 SAC @ DAL L 19 6 2 7 28.6 0 1 0.0 2 2 100.0 2 3 5 2 1 3 1 3 -8
+p3
+aVBobby Jackson SAC 05/17/2003 SAC @ DAL L 31 12 4 13 30.8 1 7 14.3 3 4 75.0 0 5 5 5 0 0 1 3 -6
+p4
+aVMike Bibby SAC 05/17/2003 SAC @ DAL L 42 25 10 20 50.0 1 5 20.0 4 4 100.0 2 1 3 5 1 2 1 1 -12
+p5
+aVDoug Christie SAC 05/17/2003 SAC @ DAL L 33 4 0 6 0.0 0 3 0.0 4 4 100.0 0 7 7 3 0 0 1 1 -9
+p6
+aVJim Jackson SAC 05/17/2003 SAC @ DAL L 30 24 10 12 83.3 3 3 100.0 1 2 50.0 1 4 5 0 0 1 1 3 -6
+p7
+aVKeon Clark SAC 05/17/2003 SAC @ DAL L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 2 0 2 -3
+p8
+aVPeja Stojakovic SAC 05/17/2003 SAC @ DAL L 46 17 7 15 46.7 3 6 50.0 0 0 - 1 8 9 2 1 1 2 3 -10
+p9
+aVVlade Divac SAC 05/15/2003 SAC vs. DAL W 35 21 9 17 52.9 0 0 - 3 3 100.0 0 3 3 2 0 1 3 2 1
+p10
+aVBobby Jackson SAC 05/15/2003 SAC vs. DAL W 28 21 7 17 41.2 3 5 60.0 4 4 100.0 0 3 3 1 2 0 1 1 9
+p11
+aVMike Bibby SAC 05/15/2003 SAC vs. DAL W 25 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 3 0 0 0 2 -3
+p12
+aVDoug Christie SAC 05/15/2003 SAC vs. DAL W 44 20 5 12 41.7 0 2 0.0 10 11 90.9 3 6 9 6 1 2 1 1 8
+p13
+aVPeja Stojakovic SAC 05/15/2003 SAC vs. DAL W 43 24 7 20 35.0 2 4 50.0 8 8 100.0 3 7 10 1 3 0 0 3 5
+p14
+aVHedo Turkoglu SAC 05/15/2003 SAC vs. DAL W 30 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 2 1 0 2 4 -7
+p15
+aVJim Jackson SAC 05/15/2003 SAC vs. DAL W 28 16 5 12 41.7 0 2 0.0 6 6 100.0 7 5 12 1 1 0 1 2 9
+p16
+aVKeon Clark SAC 05/15/2003 SAC vs. DAL W 7 2 1 3 33.3 0 0 - 0 0 - 2 3 5 2 0 0 1 1 8
+p17
+aVPeja Stojakovic SAC 05/13/2003 SAC @ DAL L 42 19 6 18 33.3 1 6 16.7 6 6 100.0 1 6 7 3 1 0 2 3 -10
+p18
+aVDoug Christie SAC 05/13/2003 SAC @ DAL L 39 21 8 16 50.0 2 3 66.7 3 3 100.0 2 7 9 7 0 0 3 4 -8
+p19
+aVMike Bibby SAC 05/13/2003 SAC @ DAL L 37 13 4 12 33.3 2 4 50.0 3 3 100.0 1 1 2 4 0 1 2 4 -18
+p20
+aVBobby Jackson SAC 05/13/2003 SAC @ DAL L 28 14 6 12 50.0 2 2 100.0 0 0 - 2 3 5 1 1 0 0 2 -11
+p21
+aVKeon Clark SAC 05/13/2003 SAC @ DAL L 14 5 0 5 0.0 0 0 - 5 6 83.3 3 5 8 0 0 1 1 5 -8
+p22
+aVVlade Divac SAC 05/13/2003 SAC @ DAL L 13 5 2 5 40.0 0 0 - 1 3 33.3 0 2 2 0 0 0 1 5 -7
+p23
+aVJim Jackson SAC 05/13/2003 SAC @ DAL L 26 9 4 10 40.0 0 1 0.0 1 2 50.0 2 4 6 1 0 0 0 3 -13
+p24
+aVHedo Turkoglu SAC 05/13/2003 SAC @ DAL L 27 3 1 5 20.0 0 2 0.0 1 2 50.0 1 3 4 2 0 1 0 3 -13
+p25
+aVLawrence Funderburke SAC 05/13/2003 SAC @ DAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p26
+aVGerald Wallace SAC 05/13/2003 SAC @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p27
+aVScot Pollard SAC 05/13/2003 SAC @ DAL L 12 4 2 8 25.0 0 0 - 0 2 0.0 5 4 9 1 0 0 3 2 -3
+p28
+aVJim Jackson SAC 05/11/2003 SAC vs. DAL W 22 8 4 9 44.4 0 2 0.0 0 1 0.0 1 1 2 2 1 0 1 3 -2
+p29
+aVPeja Stojakovic SAC 05/11/2003 SAC vs. DAL W 40 15 5 15 33.3 0 5 0.0 5 6 83.3 2 10 12 5 0 0 0 2 24
+p30
+aVKeon Clark SAC 05/11/2003 SAC vs. DAL W 13 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 0 1 0 1 0
+p31
+aVBobby Jackson SAC 05/11/2003 SAC vs. DAL W 29 13 4 13 30.8 1 4 25.0 4 5 80.0 1 2 3 2 1 1 2 0 0
+p32
+aVScot Pollard SAC 05/11/2003 SAC vs. DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p33
+aVHedo Turkoglu SAC 05/11/2003 SAC vs. DAL W 28 17 7 12 58.3 1 2 50.0 2 2 100.0 1 3 4 2 2 1 1 3 16
+p34
+aVVlade Divac SAC 05/11/2003 SAC vs. DAL W 32 16 6 9 66.7 0 0 - 4 6 66.7 2 7 9 4 1 2 1 4 15
+p35
+aVDoug Christie SAC 05/11/2003 SAC vs. DAL W 37 13 6 15 40.0 1 5 20.0 0 1 0.0 1 10 11 7 0 0 2 4 13
+p36
+aVMike Bibby SAC 05/11/2003 SAC vs. DAL W 37 12 6 14 42.9 0 3 0.0 0 0 - 0 1 1 2 4 0 2 2 16
+p37
+aVKeon Clark SAC 05/10/2003 SAC vs. DAL L 23 12 5 7 71.4 0 0 - 2 3 66.7 4 3 7 1 0 1 2 1 -4
+p38
+aVBobby Jackson SAC 05/10/2003 SAC vs. DAL L 42 16 7 15 46.7 0 4 0.0 2 2 100.0 2 9 11 5 0 0 0 0 -17
+p39
+aVHedo Turkoglu SAC 05/10/2003 SAC vs. DAL L 23 5 1 8 12.5 0 2 0.0 3 4 75.0 1 8 9 1 1 0 1 2 11
+p40
+aVDoug Christie SAC 05/10/2003 SAC vs. DAL L 51 18 6 14 42.9 2 4 50.0 4 4 100.0 1 4 5 7 2 0 5 2 5
+p41
+aVGerald Wallace SAC 05/10/2003 SAC vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p42
+aVPeja Stojakovic SAC 05/10/2003 SAC vs. DAL L 56 39 14 30 46.7 5 10 50.0 6 10 60.0 3 5 8 4 1 0 0 5 2
+p43
+aVJim Jackson SAC 05/10/2003 SAC vs. DAL L 22 11 5 10 50.0 1 2 50.0 0 0 - 1 5 6 0 0 0 1 6 -12
+p44
+aVMike Bibby SAC 05/10/2003 SAC vs. DAL L 39 16 7 13 53.8 1 4 25.0 1 1 100.0 0 4 4 3 1 0 2 6 -6
+p45
+aVVlade Divac SAC 05/10/2003 SAC vs. DAL L 33 20 7 11 63.6 0 0 - 6 12 50.0 4 6 10 4 0 0 3 3 1
+p46
+aVScot Pollard SAC 05/08/2003 SAC @ DAL L 8 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 0 12
+p47
+aVPeja Stojakovic SAC 05/08/2003 SAC @ DAL L 32 24 8 15 53.3 4 6 66.7 4 4 100.0 1 6 7 3 0 0 2 4 -19
+p48
+aVGerald Wallace SAC 05/08/2003 SAC @ DAL L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 0 1 2 1 12
+p49
+aVHedo Turkoglu SAC 05/08/2003 SAC @ DAL L 18 6 2 4 50.0 1 1 100.0 1 2 50.0 0 3 3 2 4 0 0 1 -8
+p50
+aVMike Bibby SAC 05/08/2003 SAC @ DAL L 31 9 3 10 30.0 1 6 16.7 2 2 100.0 0 0 0 5 0 0 2 1 -21
+p51
+aVChris Webber SAC 05/08/2003 SAC @ DAL L 29 31 10 19 52.6 0 1 0.0 11 14 78.6 3 3 6 1 2 1 2 4 -18
+p52
+aVVlade Divac SAC 05/08/2003 SAC @ DAL L 15 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 1 0 0 1 -11
+p53
+aVBobby Jackson SAC 05/08/2003 SAC @ DAL L 29 9 4 10 40.0 1 4 25.0 0 0 - 3 5 8 2 0 0 4 4 -30
+p54
+aVLawrence Funderburke SAC 05/08/2003 SAC @ DAL L 6 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 7
+p55
+aVKeon Clark SAC 05/08/2003 SAC @ DAL L 12 1 0 1 0.0 0 0 - 1 4 25.0 1 1 2 1 0 0 2 4 -11
+p56
+aVJim Jackson SAC 05/08/2003 SAC @ DAL L 21 12 4 6 66.7 2 2 100.0 2 2 100.0 0 2 2 2 0 1 1 1 -17
+p57
+aVDoug Christie SAC 05/08/2003 SAC @ DAL L 31 6 2 6 33.3 0 2 0.0 2 2 100.0 0 4 4 9 0 0 2 1 -6
+p58
+aVChris Webber SAC 05/06/2003 SAC @ DAL W 35 24 9 15 60.0 0 1 0.0 6 9 66.7 2 4 6 9 0 0 7 5 16
+p59
+aVHedo Turkoglu SAC 05/06/2003 SAC @ DAL W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 -8
+p60
+aVKeon Clark SAC 05/06/2003 SAC @ DAL W 18 11 4 7 57.1 0 0 - 3 3 100.0 0 2 2 0 1 0 1 4 -4
+p61
+aVScot Pollard SAC 05/06/2003 SAC @ DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p62
+aVLawrence Funderburke SAC 05/06/2003 SAC @ DAL W 2 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -7
+p63
+aVBobby Jackson SAC 05/06/2003 SAC @ DAL W 27 23 8 15 53.3 3 6 50.0 4 4 100.0 0 5 5 4 3 0 2 3 2
+p64
+aVPeja Stojakovic SAC 05/06/2003 SAC @ DAL W 39 26 11 18 61.1 2 7 28.6 2 3 66.7 0 9 9 4 1 1 0 0 21
+p65
+aVMike Bibby SAC 05/06/2003 SAC @ DAL W 31 7 2 5 40.0 2 3 66.7 1 2 50.0 2 1 3 7 2 0 0 1 17
+p66
+aVJim Jackson SAC 05/06/2003 SAC @ DAL W 24 3 1 5 20.0 1 3 33.3 0 0 - 0 4 4 1 0 1 2 4 1
+p67
+aVVlade Divac SAC 05/06/2003 SAC @ DAL W 15 14 5 6 83.3 0 0 - 4 4 100.0 1 2 3 2 1 0 0 2 18
+p68
+aVDoug Christie SAC 05/06/2003 SAC @ DAL W 34 13 4 5 80.0 1 1 100.0 4 4 100.0 3 6 9 3 2 1 2 2 16
+p69
+aVGerald Wallace SAC 05/06/2003 SAC @ DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p70
+aVGerald Wallace SAC 04/30/2003 SAC vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p71
+aVChris Webber SAC 04/30/2003 SAC vs. UTA W 42 26 10 21 47.6 0 1 0.0 6 10 60.0 1 10 11 4 3 1 4 3 23
+p72
+aVHedo Turkoglu SAC 04/30/2003 SAC vs. UTA W 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p73
+aVVlade Divac SAC 04/30/2003 SAC vs. UTA W 27 16 6 7 85.7 0 0 - 4 5 80.0 3 3 6 3 0 1 0 4 16
+p74
+aVKeon Clark SAC 04/30/2003 SAC vs. UTA W 14 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 2 4 3
+p75
+aVScot Pollard SAC 04/30/2003 SAC vs. UTA W 8 0 0 3 0.0 0 0 - 0 0 - 3 1 4 0 0 1 2 1 3
+p76
+aVBobby Jackson SAC 04/30/2003 SAC vs. UTA W 28 18 6 11 54.5 2 3 66.7 4 4 100.0 0 4 4 6 1 0 1 0 3
+p77
+aVLawrence Funderburke SAC 04/30/2003 SAC vs. UTA W 3 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -3
+p78
+aVDoug Christie SAC 04/30/2003 SAC vs. UTA W 21 2 1 5 20.0 0 0 - 0 0 - 0 4 4 0 4 0 2 3 13
+p79
+aVJim Jackson SAC 04/30/2003 SAC vs. UTA W 21 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 0 1 0 3 3 10
+p80
+aVMike Bibby SAC 04/30/2003 SAC vs. UTA W 34 12 3 6 50.0 0 1 0.0 6 8 75.0 1 3 4 7 0 0 2 3 20
+p81
+aVPeja Stojakovic SAC 04/30/2003 SAC vs. UTA W 36 22 8 11 72.7 1 2 50.0 5 7 71.4 1 2 3 1 0 0 1 3 18
+p82
+aVScot Pollard SAC 04/28/2003 SAC @ UTA W 24 4 0 0 - 0 0 - 4 4 100.0 0 4 4 0 0 3 1 6 8
+p83
+aVMike Bibby SAC 04/28/2003 SAC @ UTA W 33 11 5 16 31.3 0 4 0.0 1 2 50.0 1 3 4 9 3 0 2 2 18
+p84
+aVGerald Wallace SAC 04/28/2003 SAC @ UTA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p85
+aVLawrence Funderburke SAC 04/28/2003 SAC @ UTA W 1 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p86
+aVPeja Stojakovic SAC 04/28/2003 SAC @ UTA W 41 27 10 16 62.5 4 5 80.0 3 3 100.0 2 1 3 1 2 2 1 3 25
+p87
+aVBobby Jackson SAC 04/28/2003 SAC @ UTA W 20 9 4 10 40.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 0 8
+p88
+aVJim Jackson SAC 04/28/2003 SAC @ UTA W 22 10 3 6 50.0 1 2 50.0 3 4 75.0 0 1 1 1 3 0 1 2 -4
+p89
+aVChris Webber SAC 04/28/2003 SAC @ UTA W 45 26 13 25 52.0 0 0 - 0 2 0.0 4 7 11 3 4 2 2 4 16
+p90
+aVKeon Clark SAC 04/28/2003 SAC @ UTA W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p91
+aVVlade Divac SAC 04/28/2003 SAC @ UTA W 20 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 0 1 0 4 7
+p92
+aVDoug Christie SAC 04/28/2003 SAC @ UTA W 26 4 2 9 22.2 0 1 0.0 0 0 - 2 4 6 3 2 0 0 2 2
+p93
+aVDoug Christie SAC 04/26/2003 SAC @ UTA L 23 6 3 5 60.0 0 1 0.0 0 0 - 2 3 5 3 0 0 1 1 6
+p94
+aVChris Webber SAC 04/26/2003 SAC @ UTA L 38 24 10 25 40.0 0 0 - 4 6 66.7 4 7 11 4 0 3 2 6 2
+p95
+aVScot Pollard SAC 04/26/2003 SAC @ UTA L 13 4 2 5 40.0 0 0 - 0 1 0.0 3 0 3 0 1 1 0 3 -11
+p96
+aVVlade Divac SAC 04/26/2003 SAC @ UTA L 27 6 2 3 66.7 0 0 - 2 2 100.0 3 3 6 0 0 2 3 5 1
+p97
+aVKeon Clark SAC 04/26/2003 SAC @ UTA L 17 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 4 1
+p98
+aVMike Bibby SAC 04/26/2003 SAC @ UTA L 38 23 7 13 53.8 3 5 60.0 6 8 75.0 0 4 4 7 1 1 4 4 2
+p99
+aVJim Jackson SAC 04/26/2003 SAC @ UTA L 22 9 3 8 37.5 1 3 33.3 2 4 50.0 2 0 2 3 0 0 0 3 -4
+p100
+aVPeja Stojakovic SAC 04/26/2003 SAC @ UTA L 41 19 6 15 40.0 3 8 37.5 4 5 80.0 1 4 5 2 0 1 3 2 -3
+p101
+aVBobby Jackson SAC 04/26/2003 SAC @ UTA L 21 9 3 6 50.0 1 3 33.3 2 2 100.0 2 0 2 2 0 0 1 6 -9
+p102
+aVHedo Turkoglu SAC 04/21/2003 SAC vs. UTA W 8 2 1 2 50.0 0 1 0.0 0 2 0.0 0 0 0 1 1 0 0 0 -10
+p103
+aVVlade Divac SAC 04/21/2003 SAC vs. UTA W 35 15 6 8 75.0 0 0 - 3 5 60.0 5 2 7 4 3 1 2 4 2
+p104
+aVDoug Christie SAC 04/21/2003 SAC vs. UTA W 20 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 4 0 0 2 1 5
+p105
+aVMike Bibby SAC 04/21/2003 SAC vs. UTA W 28 10 5 11 45.5 0 1 0.0 0 0 - 0 2 2 5 1 0 0 2 7
+p106
+aVJim Jackson SAC 04/21/2003 SAC vs. UTA W 28 11 5 11 45.5 1 4 25.0 0 0 - 1 2 3 2 0 0 5 3 8
+p107
+aVKeon Clark SAC 04/21/2003 SAC vs. UTA W 20 6 3 5 60.0 0 0 - 0 0 - 2 5 7 0 0 0 1 1 16
+p108
+aVLawrence Funderburke SAC 04/21/2003 SAC vs. UTA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p109
+aVScot Pollard SAC 04/21/2003 SAC vs. UTA W 21 8 2 6 33.3 0 0 - 4 4 100.0 4 2 6 0 0 2 0 2 9
+p110
+aVChris Webber SAC 04/21/2003 SAC vs. UTA W 13 8 4 7 57.1 0 0 - 0 0 - 0 2 2 2 0 0 1 1 5
+p111
+aVBobby Jackson SAC 04/21/2003 SAC vs. UTA W 26 15 6 11 54.5 0 2 0.0 3 4 75.0 1 2 3 6 3 0 3 1 8
+p112
+aVGerald Wallace SAC 04/21/2003 SAC vs. UTA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p113
+aVPeja Stojakovic SAC 04/21/2003 SAC vs. UTA W 37 29 10 16 62.5 3 5 60.0 6 6 100.0 1 4 5 3 0 0 0 4 23
+p114
+aVBobby Jackson SAC 04/19/2003 SAC vs. UTA W 22 13 4 5 80.0 0 0 - 5 6 83.3 0 2 2 6 1 0 2 2 11
+p115
+aVChris Webber SAC 04/19/2003 SAC vs. UTA W 44 27 11 23 47.8 0 0 - 5 8 62.5 4 7 11 2 1 1 5 2 0
+p116
+aVHedo Turkoglu SAC 04/19/2003 SAC vs. UTA W 8 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 0 2 5
+p117
+aVDoug Christie SAC 04/19/2003 SAC vs. UTA W 22 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 3 1 0 1 0 -7
+p118
+aVPeja Stojakovic SAC 04/19/2003 SAC vs. UTA W 33 16 5 13 38.5 4 6 66.7 2 2 100.0 1 4 5 1 1 0 1 2 -1
+p119
+aVKeon Clark SAC 04/19/2003 SAC vs. UTA W 20 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 0 0 2 3 2 13
+p120
+aVVlade Divac SAC 04/19/2003 SAC vs. UTA W 32 5 1 7 14.3 0 0 - 3 4 75.0 7 3 10 3 2 2 1 3 1
+p121
+aVMike Bibby SAC 04/19/2003 SAC vs. UTA W 29 10 3 8 37.5 1 1 100.0 3 4 75.0 1 1 2 3 1 1 1 3 -7
+p122
+aVJim Jackson SAC 04/19/2003 SAC vs. UTA W 30 15 2 4 50.0 2 2 100.0 9 10 90.0 0 3 3 1 2 0 1 1 15
+p123
+a.

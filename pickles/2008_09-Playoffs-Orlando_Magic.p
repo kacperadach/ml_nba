@@ -1,0 +1,460 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJameer Nelson ORL 06/14/2009 ORL vs. LAL L 13 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 4 0 0 1 0 2
+p2
+aVCourtney Lee ORL 06/14/2009 ORL vs. LAL L 26 12 5 11 45.5 0 2 0.0 2 2 100.0 1 3 4 1 1 0 0 3 -6
+p3
+aVDwight Howard ORL 06/14/2009 ORL vs. LAL L 39 11 5 9 55.6 0 0 - 1 3 33.3 2 8 10 1 1 3 3 5 -14
+p4
+aVJJ Redick ORL 06/14/2009 ORL vs. LAL L 13 8 3 3 100.0 2 2 100.0 0 0 - 0 0 0 3 0 0 1 1 5
+p5
+aVMarcin Gortat ORL 06/14/2009 ORL vs. LAL L 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p6
+aVRashard Lewis ORL 06/14/2009 ORL vs. LAL L 45 18 6 19 31.6 3 12 25.0 3 5 60.0 1 9 10 4 1 0 2 3 -14
+p7
+aVRafer Alston ORL 06/14/2009 ORL vs. LAL L 33 12 5 15 33.3 1 6 16.7 1 2 50.0 1 4 5 3 2 0 3 5 -16
+p8
+aVHedo Turkoglu ORL 06/14/2009 ORL vs. LAL L 42 12 4 8 50.0 1 1 100.0 3 4 75.0 0 2 2 3 1 0 2 5 -11
+p9
+aVMickael Pietrus ORL 06/14/2009 ORL vs. LAL L 17 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -13
+p10
+aVTony Battie ORL 06/14/2009 ORL vs. LAL L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 1
+p11
+aVCourtney Lee ORL 06/11/2009 ORL vs. LAL L 7 4 1 4 25.0 1 4 25.0 1 2 50.0 0 0 0 0 0 0 1 2 -9
+p12
+aVRashard Lewis ORL 06/11/2009 ORL vs. LAL L 46 6 2 10 20.0 2 6 33.3 0 0 - 0 7 7 4 2 0 3 2 -13
+p13
+aVHedo Turkoglu ORL 06/11/2009 ORL vs. LAL L 41 25 8 13 61.5 1 3 33.3 8 13 61.5 0 5 5 3 1 0 1 4 -2
+p14
+aVDwight Howard ORL 06/11/2009 ORL vs. LAL L 49 16 5 12 41.7 0 0 - 6 14 42.9 6 15 21 2 0 9 7 4 -11
+p15
+aVMarcin Gortat ORL 06/11/2009 ORL vs. LAL L 4 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 3
+p16
+aVTony Battie ORL 06/11/2009 ORL vs. LAL L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 2 7
+p17
+aVMickael Pietrus ORL 06/11/2009 ORL vs. LAL L 37 15 4 8 50.0 1 2 50.0 6 7 85.7 0 2 2 0 0 0 1 3 -3
+p18
+aVJJ Redick ORL 06/11/2009 ORL vs. LAL L 17 6 2 6 33.3 1 2 50.0 1 1 100.0 0 0 0 3 0 0 0 0 -4
+p19
+aVJameer Nelson ORL 06/11/2009 ORL vs. LAL L 26 2 1 3 33.3 0 0 - 0 0 - 1 2 3 3 0 0 1 2 1
+p20
+aVRafer Alston ORL 06/11/2009 ORL vs. LAL L 27 11 5 13 38.5 1 4 25.0 0 0 - 0 1 1 2 1 0 1 2 -9
+p21
+aVJameer Nelson ORL 06/09/2009 ORL vs. LAL W 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 1 0 3 0 4
+p22
+aVTony Battie ORL 06/09/2009 ORL vs. LAL W 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -1
+p23
+aVMarcin Gortat ORL 06/09/2009 ORL vs. LAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p24
+aVRafer Alston ORL 06/09/2009 ORL vs. LAL W 37 20 8 12 66.7 1 1 100.0 3 4 75.0 0 2 2 4 0 0 3 1 0
+p25
+aVCourtney Lee ORL 06/09/2009 ORL vs. LAL W 20 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 3 3
+p26
+aVHedo Turkoglu ORL 06/09/2009 ORL vs. LAL W 42 18 7 12 58.3 1 3 33.3 3 4 75.0 1 5 6 7 1 0 1 3 2
+p27
+aVDwight Howard ORL 06/09/2009 ORL vs. LAL W 43 21 5 6 83.3 0 0 - 11 16 68.8 2 12 14 2 1 2 1 4 5
+p28
+aVRashard Lewis ORL 06/09/2009 ORL vs. LAL W 41 21 8 14 57.1 3 6 50.0 2 2 100.0 1 4 5 5 0 0 3 4 5
+p29
+aVMickael Pietrus ORL 06/09/2009 ORL vs. LAL W 31 18 7 11 63.6 0 3 0.0 4 4 100.0 1 1 2 2 3 0 1 3 3
+p30
+aVJJ Redick ORL 06/07/2009 ORL @ LAL L 27 5 2 9 22.2 1 6 16.7 0 0 - 1 1 2 1 0 0 1 3 -2
+p31
+aVMickael Pietrus ORL 06/07/2009 ORL @ LAL L 23 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 1 1 6 -6
+p32
+aVMarcin Gortat ORL 06/07/2009 ORL @ LAL L 15 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 0 0 0 2 1 -4
+p33
+aVHedo Turkoglu ORL 06/07/2009 ORL @ LAL L 47 22 8 17 47.1 3 6 50.0 3 4 75.0 0 6 6 4 0 1 5 5 0
+p34
+aVTony Battie ORL 06/07/2009 ORL @ LAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p35
+aVRafer Alston ORL 06/07/2009 ORL @ LAL L 26 4 1 8 12.5 0 4 0.0 2 2 100.0 0 1 1 5 0 0 1 1 -5
+p36
+aVJameer Nelson ORL 06/07/2009 ORL @ LAL L 17 4 1 3 33.3 0 1 0.0 2 4 50.0 0 0 0 1 0 0 1 0 -1
+p37
+aVCourtney Lee ORL 06/07/2009 ORL @ LAL L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 2 3
+p38
+aVDwight Howard ORL 06/07/2009 ORL @ LAL L 47 17 5 10 50.0 0 0 - 7 9 77.8 3 13 16 4 4 4 7 4 1
+p39
+aVRashard Lewis ORL 06/07/2009 ORL @ LAL L 45 34 12 21 57.1 6 12 50.0 4 4 100.0 5 6 11 7 1 0 2 2 -6
+p40
+aVMarcin Gortat ORL 06/04/2009 ORL @ LAL L 20 4 2 4 50.0 0 0 - 0 0 - 1 7 8 0 2 4 0 3 -3
+p41
+aVJameer Nelson ORL 06/04/2009 ORL @ LAL L 23 6 3 9 33.3 0 2 0.0 0 0 - 0 2 2 4 0 0 1 1 -19
+p42
+aVJJ Redick ORL 06/04/2009 ORL @ LAL L 8 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 0 0
+p43
+aVRashard Lewis ORL 06/04/2009 ORL @ LAL L 36 8 2 10 20.0 2 4 50.0 2 2 100.0 2 3 5 0 0 0 0 4 -26
+p44
+aVRafer Alston ORL 06/04/2009 ORL @ LAL L 25 6 2 9 22.2 0 4 0.0 2 2 100.0 0 2 2 1 1 0 0 1 -6
+p45
+aVCourtney Lee ORL 06/04/2009 ORL @ LAL L 23 7 3 10 30.0 1 4 25.0 0 0 - 1 0 1 0 1 0 1 3 -7
+p46
+aVTony Battie ORL 06/04/2009 ORL @ LAL L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -2
+p47
+aVMickael Pietrus ORL 06/04/2009 ORL @ LAL L 32 14 5 13 38.5 3 5 60.0 1 3 33.3 1 2 3 0 0 0 0 4 -23
+p48
+aVDwight Howard ORL 06/04/2009 ORL @ LAL L 35 12 1 6 16.7 0 0 - 10 16 62.5 5 10 15 2 2 2 2 3 -19
+p49
+aVHedo Turkoglu ORL 06/04/2009 ORL @ LAL L 33 13 3 11 27.3 1 3 33.3 6 6 100.0 0 4 4 2 1 1 4 2 -20
+p50
+aVAnthony Johnson ORL 05/30/2009 ORL vs. CLE W 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 3 0 0 2 1 10
+p51
+aVHedo Turkoglu ORL 05/30/2009 ORL vs. CLE W 38 10 3 12 25.0 2 6 33.3 2 2 100.0 1 6 7 5 0 0 3 5 1
+p52
+aVDwight Howard ORL 05/30/2009 ORL vs. CLE W 41 40 14 21 66.7 0 1 0.0 12 16 75.0 6 8 14 4 0 1 2 5 13
+p53
+aVRashard Lewis ORL 05/30/2009 ORL vs. CLE W 41 18 6 13 46.2 3 7 42.9 3 3 100.0 1 7 8 2 2 1 3 2 7
+p54
+aVMickael Pietrus ORL 05/30/2009 ORL vs. CLE W 35 14 5 10 50.0 4 7 57.1 0 0 - 2 3 5 2 2 0 0 4 13
+p55
+aVCourtney Lee ORL 05/30/2009 ORL vs. CLE W 30 8 4 7 57.1 0 1 0.0 0 0 - 0 4 4 1 0 0 1 0 15
+p56
+aVRafer Alston ORL 05/30/2009 ORL vs. CLE W 38 13 5 16 31.3 3 7 42.9 0 0 - 0 4 4 2 2 0 1 1 6
+p57
+aVMarcin Gortat ORL 05/30/2009 ORL vs. CLE W 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 2 0
+p58
+aVMickael Pietrus ORL 05/28/2009 ORL @ CLE L 23 13 4 6 66.7 3 5 60.0 2 3 66.7 0 2 2 0 0 0 0 4 -9
+p59
+aVDwight Howard ORL 05/28/2009 ORL @ CLE L 37 24 8 10 80.0 0 0 - 8 13 61.5 3 7 10 2 1 1 3 6 -7
+p60
+aVCourtney Lee ORL 05/28/2009 ORL @ CLE L 35 9 3 5 60.0 1 2 50.0 2 3 66.7 0 1 1 1 3 0 2 2 -9
+p61
+aVHedo Turkoglu ORL 05/28/2009 ORL @ CLE L 43 29 10 18 55.6 2 5 40.0 7 9 77.8 1 5 6 2 2 0 2 4 -11
+p62
+aVMarcin Gortat ORL 05/28/2009 ORL @ CLE L 11 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 0 0 2 0 3 -3
+p63
+aVAnthony Johnson ORL 05/28/2009 ORL @ CLE L 19 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 2 0 0 0 1 15
+p64
+aVTony Battie ORL 05/28/2009 ORL @ CLE L 4 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -5
+p65
+aVRafer Alston ORL 05/28/2009 ORL @ CLE L 28 3 1 10 10.0 1 7 14.3 0 0 - 1 1 2 4 1 0 3 4 -20
+p66
+aVRashard Lewis ORL 05/28/2009 ORL @ CLE L 41 15 4 13 30.8 1 5 20.0 6 9 66.7 0 8 8 1 4 1 1 3 -1
+p67
+aVCourtney Lee ORL 05/26/2009 ORL vs. CLE W 26 5 2 6 33.3 1 4 25.0 0 0 - 0 3 3 2 0 1 0 2 -5
+p68
+aVHedo Turkoglu ORL 05/26/2009 ORL vs. CLE W 43 15 5 13 38.5 2 5 40.0 3 4 75.0 1 6 7 8 0 0 5 4 4
+p69
+aVAnthony Johnson ORL 05/26/2009 ORL vs. CLE W 15 7 2 4 50.0 1 2 50.0 2 4 50.0 0 0 0 1 1 0 1 2 -9
+p70
+aVRashard Lewis ORL 05/26/2009 ORL vs. CLE W 46 17 5 9 55.6 2 4 50.0 5 6 83.3 1 4 5 0 0 0 2 1 -6
+p71
+aVMickael Pietrus ORL 05/26/2009 ORL vs. CLE W 40 17 5 13 38.5 5 11 45.5 2 4 50.0 0 3 3 2 1 0 2 5 -2
+p72
+aVDwight Howard ORL 05/26/2009 ORL vs. CLE W 49 27 10 16 62.5 0 0 - 7 9 77.8 2 12 14 4 1 3 2 5 1
+p73
+aVRafer Alston ORL 05/26/2009 ORL vs. CLE W 37 26 10 17 58.8 6 12 50.0 0 0 - 0 2 2 4 2 0 3 4 18
+p74
+aVTony Battie ORL 05/26/2009 ORL vs. CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p75
+aVMarcin Gortat ORL 05/26/2009 ORL vs. CLE W 4 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 1
+p76
+aVDwight Howard ORL 05/24/2009 ORL vs. CLE W 28 24 5 8 62.5 0 0 - 14 19 73.7 4 5 9 2 0 0 1 6 9
+p77
+aVMarcin Gortat ORL 05/24/2009 ORL vs. CLE W 24 4 2 3 66.7 0 0 - 0 2 0.0 0 5 5 0 0 2 0 2 -2
+p78
+aVHedo Turkoglu ORL 05/24/2009 ORL vs. CLE W 41 13 1 11 9.1 0 1 0.0 11 12 91.7 0 10 10 7 1 0 3 2 20
+p79
+aVMickael Pietrus ORL 05/24/2009 ORL vs. CLE W 26 16 4 9 44.4 1 5 20.0 7 7 100.0 3 3 6 0 2 2 3 3 -2
+p80
+aVAnthony Johnson ORL 05/24/2009 ORL vs. CLE W 6 0 0 2 0.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 0 2 -10
+p81
+aVCourtney Lee ORL 05/24/2009 ORL vs. CLE W 37 9 4 9 44.4 1 2 50.0 0 0 - 1 3 4 3 3 0 1 1 8
+p82
+aVRashard Lewis ORL 05/24/2009 ORL vs. CLE W 40 15 5 8 62.5 2 4 50.0 3 5 60.0 0 2 2 1 0 0 2 5 10
+p83
+aVTony Battie ORL 05/24/2009 ORL vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p84
+aVRafer Alston ORL 05/24/2009 ORL vs. CLE W 37 18 6 13 46.2 2 4 50.0 4 4 100.0 0 4 4 3 3 0 3 2 17
+p85
+aVCourtney Lee ORL 05/22/2009 ORL @ CLE L 34 11 4 9 44.4 1 3 33.3 2 2 100.0 0 0 0 1 0 0 3 2 -6
+p86
+aVRafer Alston ORL 05/22/2009 ORL @ CLE L 28 4 1 7 14.3 0 3 0.0 2 2 100.0 0 1 1 2 1 2 1 3 3
+p87
+aVMickael Pietrus ORL 05/22/2009 ORL @ CLE L 17 10 4 5 80.0 2 3 66.7 0 0 - 1 0 1 0 0 2 1 4 0
+p88
+aVTony Battie ORL 05/22/2009 ORL @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p89
+aVRashard Lewis ORL 05/22/2009 ORL @ CLE L 43 23 6 15 40.0 4 7 57.1 7 9 77.8 0 5 5 1 2 0 0 3 3
+p90
+aVHedo Turkoglu ORL 05/22/2009 ORL @ CLE L 40 21 9 17 52.9 2 4 50.0 1 2 50.0 1 1 2 4 1 0 2 5 -2
+p91
+aVJJ Redick ORL 05/22/2009 ORL @ CLE L 10 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 2
+p92
+aVDwight Howard ORL 05/22/2009 ORL @ CLE L 38 10 3 8 37.5 0 0 - 4 8 50.0 4 14 18 4 1 2 4 4 -5
+p93
+aVAnthony Johnson ORL 05/22/2009 ORL @ CLE L 16 5 2 4 50.0 0 1 0.0 1 2 50.0 0 0 0 4 1 0 0 1 0
+p94
+aVMarcin Gortat ORL 05/22/2009 ORL @ CLE L 10 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 4
+p95
+aVHedo Turkoglu ORL 05/20/2009 ORL @ CLE W 41 15 4 11 36.4 1 2 50.0 6 6 100.0 0 6 6 14 0 0 2 1 0
+p96
+aVTony Battie ORL 05/20/2009 ORL @ CLE W 6 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 0 0
+p97
+aVCourtney Lee ORL 05/20/2009 ORL @ CLE W 27 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 2 1 1 1 0 -4
+p98
+aVAnthony Johnson ORL 05/20/2009 ORL @ CLE W 15 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 3 1 0 0 1 3
+p99
+aVRafer Alston ORL 05/20/2009 ORL @ CLE W 31 11 4 10 40.0 2 4 50.0 1 1 100.0 0 2 2 8 1 0 1 2 0
+p100
+aVRashard Lewis ORL 05/20/2009 ORL @ CLE W 42 22 9 13 69.2 3 4 75.0 1 2 50.0 1 6 7 3 0 0 3 2 1
+p101
+aVDwight Howard ORL 05/20/2009 ORL @ CLE W 38 30 14 20 70.0 0 0 - 2 2 100.0 5 8 13 1 2 0 3 6 -1
+p102
+aVMickael Pietrus ORL 05/20/2009 ORL @ CLE W 30 13 5 10 50.0 2 5 40.0 1 2 50.0 1 1 2 1 0 0 2 2 4
+p103
+aVMarcin Gortat ORL 05/20/2009 ORL @ CLE W 10 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 2
+p104
+aVAnthony Johnson ORL 05/17/2009 ORL @ BOS W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 10
+p105
+aVRashard Lewis ORL 05/17/2009 ORL @ BOS W 41 19 5 14 35.7 2 4 50.0 7 10 70.0 0 5 5 4 0 1 3 1 9
+p106
+aVCourtney Lee ORL 05/17/2009 ORL @ BOS W 17 3 1 5 20.0 0 0 - 1 1 100.0 0 0 0 0 0 1 1 1 9
+p107
+aVHedo Turkoglu ORL 05/17/2009 ORL @ BOS W 36 25 9 12 75.0 4 5 80.0 3 3 100.0 0 5 5 12 0 1 3 3 27
+p108
+aVMickael Pietrus ORL 05/17/2009 ORL @ BOS W 24 17 6 7 85.7 3 3 100.0 2 2 100.0 0 3 3 1 1 0 0 3 6
+p109
+aVJJ Redick ORL 05/17/2009 ORL @ BOS W 24 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 4 0 0 0 1 8
+p110
+aVMarcin Gortat ORL 05/17/2009 ORL @ BOS W 10 5 2 2 100.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 2 -7
+p111
+aVRafer Alston ORL 05/17/2009 ORL @ BOS W 36 15 6 16 37.5 3 7 42.9 0 1 0.0 0 2 2 4 2 0 4 3 7
+p112
+aVDwight Howard ORL 05/17/2009 ORL @ BOS W 38 12 5 9 55.6 0 0 - 2 2 100.0 2 14 16 1 1 5 3 5 26
+p113
+aVTony Battie ORL 05/17/2009 ORL @ BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p114
+aVJJ Redick ORL 05/14/2009 ORL vs. BOS W 20 2 0 7 0.0 0 2 0.0 2 3 66.7 0 3 3 0 0 1 0 0 2
+p115
+aVMarcin Gortat ORL 05/14/2009 ORL vs. BOS W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p116
+aVAnthony Johnson ORL 05/14/2009 ORL vs. BOS W 11 3 1 5 20.0 1 4 25.0 0 2 0.0 0 1 1 0 1 0 0 1 -2
+p117
+aVRafer Alston ORL 05/14/2009 ORL vs. BOS W 30 11 4 9 44.4 2 4 50.0 1 2 50.0 0 2 2 3 3 2 1 1 11
+p118
+aVHedo Turkoglu ORL 05/14/2009 ORL vs. BOS W 38 7 3 13 23.1 1 5 20.0 0 0 - 0 2 2 3 1 0 3 2 2
+p119
+aVTony Battie ORL 05/14/2009 ORL vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p120
+aVRashard Lewis ORL 05/14/2009 ORL vs. BOS W 43 20 7 18 38.9 0 4 0.0 6 8 75.0 3 3 6 3 2 1 1 1 10
+p121
+aVCourtney Lee ORL 05/14/2009 ORL vs. BOS W 22 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 1 -7
+p122
+aVDwight Howard ORL 05/14/2009 ORL vs. BOS W 43 23 9 16 56.3 0 0 - 5 12 41.7 10 12 22 2 0 3 2 5 10
+p123
+aVMickael Pietrus ORL 05/14/2009 ORL vs. BOS W 25 11 4 8 50.0 2 6 33.3 1 2 50.0 2 1 3 2 2 0 0 4 17
+p124
+aVHedo Turkoglu ORL 05/12/2009 ORL @ BOS L 37 18 7 14 50.0 0 5 0.0 4 4 100.0 0 2 2 7 1 0 2 4 -1
+p125
+aVTony Battie ORL 05/12/2009 ORL @ BOS L 9 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p126
+aVDwight Howard ORL 05/12/2009 ORL @ BOS L 37 12 5 10 50.0 0 0 - 2 3 66.7 4 13 17 1 0 0 4 4 -6
+p127
+aVCourtney Lee ORL 05/12/2009 ORL @ BOS L 11 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 2 0 0 0 2 -2
+p128
+aVJJ Redick ORL 05/12/2009 ORL @ BOS L 29 3 1 6 16.7 1 4 25.0 0 0 - 1 2 3 3 0 0 0 0 0
+p129
+aVRashard Lewis ORL 05/12/2009 ORL @ BOS L 39 19 8 16 50.0 1 4 25.0 2 2 100.0 0 5 5 3 0 1 1 2 -1
+p130
+aVRafer Alston ORL 05/12/2009 ORL @ BOS L 35 16 6 15 40.0 2 6 33.3 2 3 66.7 0 5 5 6 3 0 1 0 -2
+p131
+aVMarcin Gortat ORL 05/12/2009 ORL @ BOS L 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 1 0 3 -2
+p132
+aVAnthony Johnson ORL 05/12/2009 ORL @ BOS L 13 0 0 2 0.0 0 1 0.0 0 0 - 2 1 3 1 0 0 1 1 -1
+p133
+aVMickael Pietrus ORL 05/12/2009 ORL @ BOS L 19 5 2 4 50.0 1 3 33.3 0 0 - 1 1 2 0 0 0 0 3 -2
+p134
+aVJJ Redick ORL 05/10/2009 ORL vs. BOS L 24 2 1 7 14.3 0 5 0.0 0 0 - 0 0 0 7 1 0 0 2 -4
+p135
+aVMickael Pietrus ORL 05/10/2009 ORL vs. BOS L 27 11 3 8 37.5 1 5 20.0 4 5 80.0 2 1 3 1 2 0 0 4 -5
+p136
+aVAnthony Johnson ORL 05/10/2009 ORL vs. BOS L 11 4 2 7 28.6 0 1 0.0 0 2 0.0 1 0 1 0 0 0 0 0 -1
+p137
+aVHedo Turkoglu ORL 05/10/2009 ORL vs. BOS L 38 11 4 14 28.6 1 4 25.0 2 2 100.0 0 3 3 4 0 0 3 3 -2
+p138
+aVAdonal Foyle ORL 05/10/2009 ORL vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p139
+aVMarcin Gortat ORL 05/10/2009 ORL vs. BOS L 10 8 4 4 100.0 0 0 - 0 0 - 3 1 4 0 1 0 0 3 7
+p140
+aVRashard Lewis ORL 05/10/2009 ORL vs. BOS L 39 22 8 14 57.1 2 5 40.0 4 5 80.0 0 5 5 3 0 1 2 3 8
+p141
+aVRafer Alston ORL 05/10/2009 ORL vs. BOS L 27 5 1 7 14.3 1 6 16.7 2 2 100.0 0 1 1 2 1 0 1 2 -5
+p142
+aVCourtney Lee ORL 05/10/2009 ORL vs. BOS L 23 8 3 8 37.5 0 1 0.0 2 2 100.0 1 2 3 1 0 0 1 2 8
+p143
+aVDwight Howard ORL 05/10/2009 ORL vs. BOS L 38 23 8 14 57.1 0 0 - 7 10 70.0 5 12 17 2 0 3 1 4 -4
+p144
+aVTony Battie ORL 05/10/2009 ORL vs. BOS L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p145
+aVRashard Lewis ORL 05/08/2009 ORL vs. BOS W 41 28 9 17 52.9 3 7 42.9 7 8 87.5 0 6 6 3 1 0 4 0 24
+p146
+aVTony Battie ORL 05/08/2009 ORL vs. BOS W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p147
+aVAdonal Foyle ORL 05/08/2009 ORL vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p148
+aVDwight Howard ORL 05/08/2009 ORL vs. BOS W 28 17 7 8 87.5 0 0 - 3 6 50.0 2 12 14 0 2 5 3 5 15
+p149
+aVAnthony Johnson ORL 05/08/2009 ORL vs. BOS W 28 13 5 7 71.4 1 1 100.0 2 2 100.0 1 2 3 3 2 0 2 4 4
+p150
+aVMickael Pietrus ORL 05/08/2009 ORL vs. BOS W 19 7 2 6 33.3 0 3 0.0 3 4 75.0 0 0 0 0 2 0 1 1 -5
+p151
+aVHedo Turkoglu ORL 05/08/2009 ORL vs. BOS W 34 24 8 12 66.7 2 3 66.7 6 7 85.7 0 2 2 4 1 0 1 5 28
+p152
+aVMarcin Gortat ORL 05/08/2009 ORL vs. BOS W 20 7 2 2 100.0 0 0 - 3 3 100.0 0 3 3 1 0 0 1 4 6
+p153
+aVCourtney Lee ORL 05/08/2009 ORL vs. BOS W 32 11 3 4 75.0 1 1 100.0 4 4 100.0 0 4 4 3 1 0 2 3 13
+p154
+aVJJ Redick ORL 05/08/2009 ORL vs. BOS W 27 5 1 5 20.0 1 2 50.0 2 2 100.0 0 3 3 2 2 0 2 2 20
+p155
+aVTyronn Lue ORL 05/08/2009 ORL vs. BOS W 4 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p156
+aVDwight Howard ORL 05/06/2009 ORL @ BOS L 37 12 5 13 38.5 0 0 - 2 8 25.0 2 10 12 1 0 0 5 4 -20
+p157
+aVRashard Lewis ORL 05/06/2009 ORL @ BOS L 41 17 6 15 40.0 2 5 40.0 3 4 75.0 2 8 10 3 1 1 2 1 -19
+p158
+aVMickael Pietrus ORL 05/06/2009 ORL @ BOS L 37 17 3 7 42.9 0 2 0.0 11 14 78.6 0 3 3 1 1 1 1 4 1
+p159
+aVJeremy Richardson ORL 05/06/2009 ORL @ BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p160
+aVAnthony Johnson ORL 05/06/2009 ORL @ BOS L 18 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 7 0 0 0 2 -3
+p161
+aVTony Battie ORL 05/06/2009 ORL @ BOS L 10 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 4
+p162
+aVMarcin Gortat ORL 05/06/2009 ORL @ BOS L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p163
+aVRafer Alston ORL 05/06/2009 ORL @ BOS L 30 7 3 11 27.3 0 2 0.0 1 2 50.0 1 1 2 5 1 0 2 3 -15
+p164
+aVHedo Turkoglu ORL 05/06/2009 ORL @ BOS L 34 14 4 8 50.0 1 3 33.3 5 6 83.3 0 3 3 2 0 0 2 2 -26
+p165
+aVJJ Redick ORL 05/06/2009 ORL @ BOS L 25 15 5 8 62.5 4 6 66.7 1 1 100.0 0 1 1 0 0 0 0 6 -11
+p166
+aVAnthony Johnson ORL 05/04/2009 ORL @ BOS W 11 5 1 5 20.0 1 3 33.3 2 2 100.0 0 0 0 2 0 0 1 0 -4
+p167
+aVRafer Alston ORL 05/04/2009 ORL @ BOS W 37 8 3 11 27.3 0 4 0.0 2 2 100.0 0 3 3 7 2 0 4 4 9
+p168
+aVRashard Lewis ORL 05/04/2009 ORL @ BOS W 41 18 8 18 44.4 1 5 20.0 1 2 50.0 1 6 7 2 3 1 2 1 14
+p169
+aVMickael Pietrus ORL 05/04/2009 ORL @ BOS W 32 17 7 13 53.8 3 7 42.9 0 0 - 1 2 3 0 2 2 2 5 2
+p170
+aVDwight Howard ORL 05/04/2009 ORL @ BOS W 43 16 6 12 50.0 0 0 - 4 5 80.0 4 18 22 3 1 3 1 3 -2
+p171
+aVJJ Redick ORL 05/04/2009 ORL @ BOS W 29 12 3 5 60.0 2 4 50.0 4 4 100.0 0 1 1 1 1 0 0 4 -7
+p172
+aVHedo Turkoglu ORL 05/04/2009 ORL @ BOS W 42 15 6 16 37.5 2 4 50.0 1 4 25.0 1 2 3 5 1 0 2 1 6
+p173
+aVMarcin Gortat ORL 05/04/2009 ORL @ BOS W 5 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 7
+p174
+aVRashard Lewis ORL 04/30/2009 ORL @ PHI W 40 29 11 22 50.0 0 3 0.0 7 9 77.8 5 2 7 5 0 2 3 1 25
+p175
+aVMarcin Gortat ORL 04/30/2009 ORL @ PHI W 40 11 5 8 62.5 0 0 - 1 2 50.0 4 11 15 2 4 0 3 4 29
+p176
+aVMickael Pietrus ORL 04/30/2009 ORL @ PHI W 31 14 5 10 50.0 2 5 40.0 2 4 50.0 0 4 4 0 0 1 1 3 11
+p177
+aVTony Battie ORL 04/30/2009 ORL @ PHI W 16 7 3 3 100.0 0 0 - 1 2 50.0 3 3 6 0 0 1 0 1 -4
+p178
+aVHedo Turkoglu ORL 04/30/2009 ORL @ PHI W 29 12 5 8 62.5 1 2 50.0 1 1 100.0 0 3 3 5 1 0 3 3 25
+p179
+aVJJ Redick ORL 04/30/2009 ORL @ PHI W 31 15 5 9 55.6 5 7 71.4 0 0 - 0 3 3 4 1 0 0 5 19
+p180
+aVAnthony Johnson ORL 04/30/2009 ORL @ PHI W 16 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 5 1 0 1 4 4
+p181
+aVRafer Alston ORL 04/30/2009 ORL @ PHI W 37 21 8 16 50.0 3 7 42.9 2 2 100.0 0 2 2 10 3 0 1 3 16
+p182
+aVHedo Turkoglu ORL 04/28/2009 ORL vs. PHI W 40 9 3 14 21.4 1 5 20.0 2 2 100.0 0 5 5 4 1 0 2 5 16
+p183
+aVTony Battie ORL 04/28/2009 ORL vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p184
+aVJJ Redick ORL 04/28/2009 ORL vs. PHI W 30 6 1 5 20.0 1 4 25.0 3 3 100.0 0 0 0 2 2 0 1 1 11
+p185
+aVMickael Pietrus ORL 04/28/2009 ORL vs. PHI W 29 4 1 4 25.0 1 3 33.3 1 4 25.0 2 4 6 0 0 1 2 2 10
+p186
+aVAnthony Johnson ORL 04/28/2009 ORL vs. PHI W 14 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 4
+p187
+aVRafer Alston ORL 04/28/2009 ORL vs. PHI W 34 14 6 14 42.9 2 5 40.0 0 0 - 0 1 1 4 1 0 1 1 9
+p188
+aVRashard Lewis ORL 04/28/2009 ORL vs. PHI W 39 24 9 16 56.3 3 5 60.0 3 3 100.0 2 2 4 2 1 0 3 4 3
+p189
+aVCourtney Lee ORL 04/28/2009 ORL vs. PHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p190
+aVMarcin Gortat ORL 04/28/2009 ORL vs. PHI W 10 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 4
+p191
+aVDwight Howard ORL 04/28/2009 ORL vs. PHI W 37 24 8 14 57.1 0 0 - 8 12 66.7 10 14 24 1 1 2 4 4 8
+p192
+aVMickael Pietrus ORL 04/26/2009 ORL @ PHI W 15 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 1 0 3 4
+p193
+aVCourtney Lee ORL 04/26/2009 ORL @ PHI W 41 15 6 11 54.5 1 2 50.0 2 2 100.0 0 3 3 3 2 0 1 3 5
+p194
+aVMarcin Gortat ORL 04/26/2009 ORL @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p195
+aVDwight Howard ORL 04/26/2009 ORL @ PHI W 44 18 6 11 54.5 0 1 0.0 6 12 50.0 3 15 18 0 1 3 1 3 3
+p196
+aVRashard Lewis ORL 04/26/2009 ORL @ PHI W 42 17 6 15 40.0 2 4 50.0 3 3 100.0 0 7 7 3 1 2 3 0 8
+p197
+aVAnthony Johnson ORL 04/26/2009 ORL @ PHI W 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 2 0
+p198
+aVJJ Redick ORL 04/26/2009 ORL @ PHI W 6 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 0 -2
+p199
+aVRafer Alston ORL 04/26/2009 ORL @ PHI W 33 13 5 12 41.7 2 5 40.0 1 2 50.0 0 3 3 5 0 0 2 4 3
+p200
+aVHedo Turkoglu ORL 04/26/2009 ORL @ PHI W 40 17 8 11 72.7 1 2 50.0 0 1 0.0 0 3 3 0 1 0 4 2 -6
+p201
+aVTony Battie ORL 04/24/2009 ORL @ PHI L 5 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p202
+aVDwight Howard ORL 04/24/2009 ORL @ PHI L 45 36 12 16 75.0 0 0 - 12 14 85.7 6 5 11 0 0 3 4 4 1
+p203
+aVCourtney Lee ORL 04/24/2009 ORL @ PHI L 41 6 2 9 22.2 1 4 25.0 1 1 100.0 1 1 2 5 2 0 1 5 1
+p204
+aVMarcin Gortat ORL 04/24/2009 ORL @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p205
+aVRashard Lewis ORL 04/24/2009 ORL @ PHI L 40 14 5 13 38.5 3 5 60.0 1 1 100.0 1 6 7 2 3 1 2 1 1
+p206
+aVMickael Pietrus ORL 04/24/2009 ORL @ PHI L 19 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 0 0 1 1 1 0
+p207
+aVHedo Turkoglu ORL 04/24/2009 ORL @ PHI L 40 11 2 12 16.7 1 3 33.3 6 6 100.0 1 5 6 4 0 1 5 5 -7
+p208
+aVRafer Alston ORL 04/24/2009 ORL @ PHI L 38 17 6 13 46.2 1 3 33.3 4 7 57.1 0 5 5 4 2 0 1 4 0
+p209
+aVAnthony Johnson ORL 04/24/2009 ORL @ PHI L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 3 1 0 0 0 -2
+p210
+aVTony Battie ORL 04/22/2009 ORL vs. PHI W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p211
+aVMarcin Gortat ORL 04/22/2009 ORL vs. PHI W 18 0 0 3 0.0 0 0 - 0 0 - 2 4 6 0 1 2 0 1 11
+p212
+aVMickael Pietrus ORL 04/22/2009 ORL vs. PHI W 19 5 2 6 33.3 1 5 20.0 0 0 - 2 3 5 0 0 1 2 2 5
+p213
+aVRafer Alston ORL 04/22/2009 ORL vs. PHI W 22 11 5 10 50.0 1 2 50.0 0 0 - 0 2 2 1 1 0 1 1 7
+p214
+aVCourtney Lee ORL 04/22/2009 ORL vs. PHI W 37 24 10 17 58.8 1 4 25.0 3 4 75.0 1 2 3 1 3 0 0 2 5
+p215
+aVAnthony Johnson ORL 04/22/2009 ORL vs. PHI W 26 11 5 12 41.7 1 5 20.0 0 0 - 1 3 4 1 0 0 3 2 2
+p216
+aVRashard Lewis ORL 04/22/2009 ORL vs. PHI W 43 16 4 14 28.6 1 6 16.7 7 8 87.5 3 5 8 6 1 0 2 0 13
+p217
+aVDwight Howard ORL 04/22/2009 ORL vs. PHI W 30 11 4 6 66.7 0 0 - 3 7 42.9 4 6 10 2 1 4 2 6 -2
+p218
+aVHedo Turkoglu ORL 04/22/2009 ORL vs. PHI W 40 16 3 10 30.0 1 1 100.0 9 11 81.8 1 5 6 3 2 0 3 1 8
+p219
+aVCourtney Lee ORL 04/19/2009 ORL vs. PHI L 41 18 8 17 47.1 1 4 25.0 1 1 100.0 0 2 2 1 1 0 2 2 9
+p220
+aVRafer Alston ORL 04/19/2009 ORL vs. PHI L 35 15 5 15 33.3 2 6 33.3 3 4 75.0 0 2 2 5 0 0 1 1 1
+p221
+aVRashard Lewis ORL 04/19/2009 ORL vs. PHI L 34 15 5 11 45.5 1 4 25.0 4 6 66.7 0 3 3 3 0 0 1 4 -6
+p222
+aVTony Battie ORL 04/19/2009 ORL vs. PHI L 14 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p223
+aVJJ Redick ORL 04/19/2009 ORL vs. PHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -13
+p224
+aVMickael Pietrus ORL 04/19/2009 ORL vs. PHI L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 10
+p225
+aVDwight Howard ORL 04/19/2009 ORL vs. PHI L 38 31 11 13 84.6 0 0 - 9 12 75.0 5 11 16 2 0 2 2 3 0
+p226
+aVHedo Turkoglu ORL 04/19/2009 ORL vs. PHI L 35 6 2 8 25.0 0 2 0.0 2 2 100.0 1 4 5 4 1 0 1 4 -10
+p227
+aVAnthony Johnson ORL 04/19/2009 ORL vs. PHI L 13 9 4 6 66.7 1 2 50.0 0 0 - 1 2 3 2 1 0 0 1 -3
+p228
+aVMarcin Gortat ORL 04/19/2009 ORL vs. PHI L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -2
+p229
+a.

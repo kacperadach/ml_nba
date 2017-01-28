@@ -1,0 +1,68 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAlex English DEN 05/01/1990 DEN vs. SAN L 31 24 10 16 62.5 0 0 - 4 4 100.0 2 1 3 4 2 1 2 1 -
+p2
+aVTim Kempton DEN 05/01/1990 DEN vs. SAN L 9 8 2 2 100.0 0 0 - 4 4 100.0 1 2 3 2 0 0 1 2 -
+p3
+aVMichael Adams DEN 05/01/1990 DEN vs. SAN L 33 12 4 11 36.4 2 5 40.0 2 2 100.0 0 2 2 3 1 0 0 5 -
+p4
+aVLafayette Lever DEN 05/01/1990 DEN vs. SAN L 40 20 7 17 41.2 1 2 50.0 5 6 83.3 4 6 10 8 4 0 0 4 -
+p5
+aVBill Hanzlik DEN 05/01/1990 DEN vs. SAN L 24 9 2 7 28.6 1 3 33.3 4 4 100.0 1 0 1 2 2 0 0 5 -
+p6
+aVJoe Barry Carroll DEN 05/01/1990 DEN vs. SAN L 10 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 1 0 1 1 -
+p7
+aVT.R. Dunn DEN 05/01/1990 DEN vs. SAN L 18 0 0 0 - 0 0 - 0 0 - 1 3 4 1 4 1 1 1 -
+p8
+aVWalter Davis DEN 05/01/1990 DEN vs. SAN L 26 14 6 19 31.6 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 2 -
+p9
+aVTodd Lichti DEN 05/01/1990 DEN vs. SAN L 23 17 5 11 45.5 0 0 - 7 7 100.0 3 1 4 1 0 0 3 3 -
+p10
+aVBlair Rasmussen DEN 05/01/1990 DEN vs. SAN L 26 10 3 14 21.4 0 0 - 4 4 100.0 5 5 10 1 1 1 1 1 -
+p11
+aVAlex English DEN 04/28/1990 DEN @ SAN L 22 16 6 12 50.0 0 0 - 4 5 80.0 0 2 2 2 0 0 0 1 -
+p12
+aVTodd Lichti DEN 04/28/1990 DEN @ SAN L 16 5 1 3 33.3 0 1 0.0 3 6 50.0 0 1 1 0 0 0 1 2 -
+p13
+aVWalter Davis DEN 04/28/1990 DEN @ SAN L 25 13 5 15 33.3 0 0 - 3 3 100.0 3 0 3 4 0 0 2 2 -
+p14
+aVJoe Barry Carroll DEN 04/28/1990 DEN @ SAN L 19 12 6 8 75.0 0 0 - 0 0 - 1 4 5 2 0 2 0 3 -
+p15
+aVJerome Lane DEN 04/28/1990 DEN @ SAN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p16
+aVTim Kempton DEN 04/28/1990 DEN @ SAN L 15 10 5 7 71.4 0 0 - 0 0 - 0 2 2 1 0 0 1 4 -
+p17
+aVLafayette Lever DEN 04/28/1990 DEN @ SAN L 42 26 9 24 37.5 0 4 0.0 8 8 100.0 6 10 16 9 3 1 1 2 -
+p18
+aVBill Hanzlik DEN 04/28/1990 DEN @ SAN L 29 6 1 7 14.3 0 0 - 4 4 100.0 4 5 9 6 1 0 1 6 -
+p19
+aVT.R. Dunn DEN 04/28/1990 DEN @ SAN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p20
+aVMichael Adams DEN 04/28/1990 DEN @ SAN L 38 14 5 12 41.7 2 7 28.6 2 2 100.0 0 3 3 7 2 0 5 5 -
+p21
+aVBlair Rasmussen DEN 04/28/1990 DEN @ SAN L 28 18 7 14 50.0 0 0 - 4 4 100.0 2 8 10 0 1 1 0 5 -
+p22
+aVWalter Davis DEN 04/26/1990 DEN @ SAN L 19 15 7 11 63.6 0 0 - 1 1 100.0 1 4 5 2 1 0 2 0 -
+p23
+aVBlair Rasmussen DEN 04/26/1990 DEN @ SAN L 30 19 9 20 45.0 0 0 - 1 2 50.0 1 5 6 0 0 2 1 4 -
+p24
+aVBill Hanzlik DEN 04/26/1990 DEN @ SAN L 26 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 3 2 2 1 2 -
+p25
+aVTodd Lichti DEN 04/26/1990 DEN @ SAN L 31 22 9 15 60.0 0 0 - 4 6 66.7 2 11 13 8 1 0 4 1 -
+p26
+aVMichael Adams DEN 04/26/1990 DEN @ SAN L 34 13 4 11 36.4 2 8 25.0 3 4 75.0 0 1 1 8 1 0 3 0 -
+p27
+aVJoe Barry Carroll DEN 04/26/1990 DEN @ SAN L 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 3 0 2 -
+p28
+aVT.R. Dunn DEN 04/26/1990 DEN @ SAN L 11 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -
+p29
+aVTim Kempton DEN 04/26/1990 DEN @ SAN L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p30
+aVLafayette Lever DEN 04/26/1990 DEN @ SAN L 31 6 3 10 30.0 0 1 0.0 0 0 - 1 5 6 4 1 0 4 1 -
+p31
+aVJerome Lane DEN 04/26/1990 DEN @ SAN L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 1 2 -
+p32
+aVAlex English DEN 04/26/1990 DEN @ SAN L 23 19 9 16 56.3 0 0 - 1 2 50.0 1 3 4 3 0 0 0 4 -
+p33
+a.

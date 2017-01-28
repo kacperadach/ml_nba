@@ -1,0 +1,1658 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDell Curry CLE 04/23/1988 CLE vs. PHL W 19 8 4 12 33.3 0 2 0.0 0 0 - 1 1 2 4 0 1 0 1 -
+p2
+aVCraig Ehlo CLE 04/23/1988 CLE vs. PHL W 39 18 8 16 50.0 0 0 - 2 2 100.0 2 2 4 8 2 0 0 3 -
+p3
+aVHot Rod Williams CLE 04/23/1988 CLE vs. PHL W 33 11 5 10 50.0 0 0 - 1 2 50.0 7 2 9 2 1 2 1 1 -
+p4
+aVMike Sanders CLE 04/23/1988 CLE vs. PHL W 19 4 2 6 33.3 0 0 - 0 0 - 0 3 3 1 2 1 2 2 -
+p5
+aVLarry Nance CLE 04/23/1988 CLE vs. PHL W 29 12 6 11 54.5 0 0 - 0 0 - 1 2 3 2 1 0 2 6 -
+p6
+aVChris Dudley CLE 04/23/1988 CLE vs. PHL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p7
+aVPhil Hubbard CLE 04/23/1988 CLE vs. PHL W 15 6 2 5 40.0 0 1 0.0 2 2 100.0 2 2 4 1 2 0 1 3 -
+p8
+aVBrad Daugherty CLE 04/23/1988 CLE vs. PHL W 42 18 6 12 50.0 0 1 0.0 6 7 85.7 2 10 12 4 1 0 2 1 -
+p9
+aVMark Price CLE 04/23/1988 CLE vs. PHL W 38 25 8 15 53.3 3 4 75.0 6 6 100.0 0 2 2 5 1 0 2 3 -
+p10
+aVBrad Daugherty CLE 04/22/1988 CLE @ CHI W 40 19 7 15 46.7 0 0 - 5 6 83.3 3 7 10 5 0 0 3 3 -
+p11
+aVChris Dudley CLE 04/22/1988 CLE @ CHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p12
+aVRon Harper CLE 04/22/1988 CLE @ CHI W 19 9 4 5 80.0 0 0 - 1 2 50.0 0 6 6 3 2 0 1 0 -
+p13
+aVCraig Ehlo CLE 04/22/1988 CLE @ CHI W 29 8 4 9 44.4 0 1 0.0 0 3 0.0 2 2 4 2 2 0 0 3 -
+p14
+aVMark Price CLE 04/22/1988 CLE @ CHI W 38 26 9 14 64.3 2 2 100.0 6 7 85.7 0 2 2 11 2 0 1 1 -
+p15
+aVLarry Nance CLE 04/22/1988 CLE @ CHI W 40 20 8 14 57.1 0 0 - 4 6 66.7 2 5 7 3 1 3 0 2 -
+p16
+aVDell Curry CLE 04/22/1988 CLE @ CHI W 20 5 2 4 50.0 0 0 - 1 4 25.0 0 0 0 2 2 0 0 4 -
+p17
+aVMike Sanders CLE 04/22/1988 CLE @ CHI W 17 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 1 1 0 1 3 -
+p18
+aVHot Rod Williams CLE 04/22/1988 CLE @ CHI W 24 8 3 10 30.0 0 0 - 2 2 100.0 1 8 9 1 0 1 0 3 -
+p19
+aVPhil Hubbard CLE 04/22/1988 CLE @ CHI W 8 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p20
+aVDell Curry CLE 04/18/1988 CLE vs. IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p21
+aVBrad Daugherty CLE 04/18/1988 CLE vs. IND W 45 18 5 12 41.7 0 0 - 8 12 66.7 3 7 10 3 0 3 2 4 -
+p22
+aVChris Dudley CLE 04/18/1988 CLE vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p23
+aVRon Harper CLE 04/18/1988 CLE vs. IND W 40 19 7 12 58.3 0 1 0.0 5 8 62.5 2 4 6 5 3 0 1 2 -
+p24
+aVCraig Ehlo CLE 04/18/1988 CLE vs. IND W 21 11 5 9 55.6 1 1 100.0 0 0 - 1 2 3 3 0 0 0 3 -
+p25
+aVHot Rod Williams CLE 04/18/1988 CLE vs. IND W 33 15 7 13 53.8 0 0 - 1 2 50.0 5 5 10 2 0 4 1 3 -
+p26
+aVLarry Nance CLE 04/18/1988 CLE vs. IND W 44 24 8 13 61.5 0 0 - 8 8 100.0 3 7 10 4 1 3 0 1 -
+p27
+aVMark Price CLE 04/18/1988 CLE vs. IND W 37 19 7 16 43.8 0 2 0.0 5 6 83.3 0 3 3 6 2 0 2 5 -
+p28
+aVPhil Hubbard CLE 04/18/1988 CLE vs. IND W 14 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 1 1 0 2 1 -
+p29
+aVBrad Daugherty CLE 04/15/1988 CLE vs. BOS W 44 44 15 22 68.2 0 0 - 14 18 77.8 3 6 9 2 2 0 5 2 -
+p30
+aVChris Dudley CLE 04/15/1988 CLE vs. BOS W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -
+p31
+aVRon Harper CLE 04/15/1988 CLE vs. BOS W 41 30 11 19 57.9 0 0 - 8 10 80.0 1 4 5 6 5 1 3 4 -
+p32
+aVMark Price CLE 04/15/1988 CLE vs. BOS W 43 21 9 14 64.3 1 3 33.3 2 2 100.0 0 0 0 5 2 0 1 2 -
+p33
+aVHot Rod Williams CLE 04/15/1988 CLE vs. BOS W 30 4 1 4 25.0 0 0 - 2 2 100.0 1 5 6 2 1 1 1 3 -
+p34
+aVPhil Hubbard CLE 04/15/1988 CLE vs. BOS W 14 4 2 3 66.7 0 0 - 0 0 - 1 0 1 3 0 0 0 2 -
+p35
+aVCraig Ehlo CLE 04/15/1988 CLE vs. BOS W 19 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 4 0 0 2 1 -
+p36
+aVDell Curry CLE 04/15/1988 CLE vs. BOS W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -
+p37
+aVLarry Nance CLE 04/15/1988 CLE vs. BOS W 38 15 4 8 50.0 0 0 - 7 7 100.0 1 6 7 3 1 3 1 4 -
+p38
+aVJohnny Rogers CLE 04/13/1988 CLE @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p39
+aVCraig Ehlo CLE 04/13/1988 CLE @ DET L 36 15 7 14 50.0 1 4 25.0 0 0 - 2 4 6 4 1 0 5 5 -
+p40
+aVMike Sanders CLE 04/13/1988 CLE @ DET L 19 6 3 10 30.0 0 0 - 0 0 - 1 3 4 2 0 0 1 4 -
+p41
+aVHot Rod Williams CLE 04/13/1988 CLE @ DET L 33 10 3 9 33.3 0 0 - 4 6 66.7 4 2 6 2 0 0 0 2 -
+p42
+aVMark Price CLE 04/13/1988 CLE @ DET L 14 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 3 2 0 2 0 -
+p43
+aVLarry Nance CLE 04/13/1988 CLE @ DET L 31 20 8 12 66.7 0 0 - 4 4 100.0 3 9 12 3 0 5 2 6 -
+p44
+aVChris Dudley CLE 04/13/1988 CLE @ DET L 7 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 -
+p45
+aVRon Harper CLE 04/13/1988 CLE @ DET L 38 14 6 13 46.2 0 0 - 2 2 100.0 0 3 3 3 2 0 4 4 -
+p46
+aVKevin Henderson CLE 04/13/1988 CLE @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p47
+aVPhil Hubbard CLE 04/13/1988 CLE @ DET L 7 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 -
+p48
+aVBrad Daugherty CLE 04/13/1988 CLE @ DET L 35 16 4 11 36.4 0 0 - 8 9 88.9 1 4 5 1 0 1 4 2 -
+p49
+aVDell Curry CLE 04/13/1988 CLE @ DET L 16 9 3 4 75.0 0 0 - 3 3 100.0 0 0 0 1 1 0 1 0 -
+p50
+aVMark Price CLE 04/12/1988 CLE vs. ATL W 33 22 6 10 60.0 2 3 66.7 8 8 100.0 2 4 6 14 1 0 3 1 -
+p51
+aVDell Curry CLE 04/12/1988 CLE vs. ATL W 11 3 1 6 16.7 0 0 - 1 2 50.0 0 1 1 4 1 0 0 1 -
+p52
+aVBrad Daugherty CLE 04/12/1988 CLE vs. ATL W 33 13 6 11 54.5 0 0 - 1 2 50.0 0 7 7 2 0 0 1 1 -
+p53
+aVJohnny Rogers CLE 04/12/1988 CLE vs. ATL W 8 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p54
+aVMike Sanders CLE 04/12/1988 CLE vs. ATL W 24 12 6 8 75.0 0 0 - 0 0 - 1 3 4 1 0 0 2 4 -
+p55
+aVRon Harper CLE 04/12/1988 CLE vs. ATL W 34 25 11 15 73.3 1 1 100.0 2 2 100.0 0 2 2 2 1 1 1 3 -
+p56
+aVPhil Hubbard CLE 04/12/1988 CLE vs. ATL W 18 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 3 0 -
+p57
+aVChris Dudley CLE 04/12/1988 CLE vs. ATL W 15 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 1 0 2 -
+p58
+aVKevin Henderson CLE 04/12/1988 CLE vs. ATL W 4 7 1 1 100.0 0 0 - 5 12 41.7 3 0 3 0 0 0 0 1 -
+p59
+aVHot Rod Williams CLE 04/12/1988 CLE vs. ATL W 16 4 2 6 33.3 0 0 - 0 0 - 1 3 4 1 0 3 0 1 -
+p60
+aVLarry Nance CLE 04/12/1988 CLE vs. ATL W 29 14 5 10 50.0 0 0 - 4 4 100.0 1 4 5 1 2 3 3 1 -
+p61
+aVCraig Ehlo CLE 04/12/1988 CLE vs. ATL W 15 4 0 3 0.0 0 1 0.0 4 6 66.7 1 2 3 2 1 0 1 2 -
+p62
+aVMark Price CLE 04/10/1988 CLE @ NJN W 38 17 7 11 63.6 1 3 33.3 2 2 100.0 0 0 0 8 1 1 2 1 -
+p63
+aVHot Rod Williams CLE 04/10/1988 CLE @ NJN W 26 13 6 9 66.7 0 0 - 1 1 100.0 0 4 4 2 1 1 1 3 -
+p64
+aVDell Curry CLE 04/10/1988 CLE @ NJN W 25 13 5 8 62.5 2 2 100.0 1 2 50.0 0 1 1 3 1 1 2 1 -
+p65
+aVLarry Nance CLE 04/10/1988 CLE @ NJN W 26 14 6 9 66.7 0 0 - 2 2 100.0 1 8 9 2 1 3 1 4 -
+p66
+aVJohnny Rogers CLE 04/10/1988 CLE @ NJN W 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 -
+p67
+aVPhil Hubbard CLE 04/10/1988 CLE @ NJN W 11 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 1 0 1 3 -
+p68
+aVKevin Henderson CLE 04/10/1988 CLE @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p69
+aVRon Harper CLE 04/10/1988 CLE @ NJN W 27 14 4 7 57.1 0 0 - 6 6 100.0 1 2 3 9 2 1 4 3 -
+p70
+aVChris Dudley CLE 04/10/1988 CLE @ NJN W 10 6 3 4 75.0 0 0 - 0 3 0.0 2 1 3 1 0 1 0 2 -
+p71
+aVMike Sanders CLE 04/10/1988 CLE @ NJN W 14 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -
+p72
+aVBrad Daugherty CLE 04/10/1988 CLE @ NJN W 36 20 10 12 83.3 0 0 - 0 0 - 0 8 8 3 0 0 2 1 -
+p73
+aVCraig Ehlo CLE 04/10/1988 CLE @ NJN W 21 9 4 5 80.0 0 0 - 1 2 50.0 1 1 2 3 1 0 5 5 -
+p74
+aVChris Dudley CLE 04/08/1988 CLE vs. MIL W 9 4 2 4 50.0 0 0 - 0 2 0.0 1 1 2 0 1 0 3 1 -
+p75
+aVMike Sanders CLE 04/08/1988 CLE vs. MIL W 25 14 7 11 63.6 0 0 - 0 0 - 0 4 4 2 1 1 1 2 -
+p76
+aVRon Harper CLE 04/08/1988 CLE vs. MIL W 33 21 9 15 60.0 0 0 - 3 5 60.0 2 6 8 6 2 0 2 0 -
+p77
+aVMark Price CLE 04/08/1988 CLE vs. MIL W 30 7 3 10 30.0 0 0 - 1 1 100.0 0 0 0 3 0 1 0 2 -
+p78
+aVKevin Henderson CLE 04/08/1988 CLE vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p79
+aVHot Rod Williams CLE 04/08/1988 CLE vs. MIL W 19 8 2 5 40.0 0 0 - 4 4 100.0 1 3 4 2 0 1 0 2 -
+p80
+aVLarry Nance CLE 04/08/1988 CLE vs. MIL W 32 10 3 9 33.3 0 0 - 4 4 100.0 1 6 7 4 0 3 3 4 -
+p81
+aVDell Curry CLE 04/08/1988 CLE vs. MIL W 20 10 5 10 50.0 0 2 0.0 0 0 - 1 4 5 1 0 0 1 2 -
+p82
+aVCraig Ehlo CLE 04/08/1988 CLE vs. MIL W 22 5 2 3 66.7 0 0 - 1 2 50.0 1 4 5 4 4 1 1 1 -
+p83
+aVJohnny Rogers CLE 04/08/1988 CLE vs. MIL W 5 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 3 -
+p84
+aVPhil Hubbard CLE 04/08/1988 CLE vs. MIL W 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p85
+aVBrad Daugherty CLE 04/08/1988 CLE vs. MIL W 36 22 7 14 50.0 0 0 - 8 11 72.7 3 5 8 3 0 0 2 0 -
+p86
+aVPhil Hubbard CLE 04/06/1988 CLE vs. WAS W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -
+p87
+aVKevin Henderson CLE 04/06/1988 CLE vs. WAS W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p88
+aVMark Price CLE 04/06/1988 CLE vs. WAS W 34 20 7 12 58.3 0 0 - 6 6 100.0 0 3 3 6 0 1 3 1 -
+p89
+aVLarry Nance CLE 04/06/1988 CLE vs. WAS W 24 6 2 6 33.3 0 0 - 2 2 100.0 3 6 9 1 1 1 0 2 -
+p90
+aVBrad Daugherty CLE 04/06/1988 CLE vs. WAS W 41 15 5 13 38.5 0 0 - 5 6 83.3 1 4 5 3 0 0 2 2 -
+p91
+aVRon Harper CLE 04/06/1988 CLE vs. WAS W 29 18 6 14 42.9 0 0 - 6 6 100.0 1 1 2 7 1 0 1 3 -
+p92
+aVDell Curry CLE 04/06/1988 CLE vs. WAS W 20 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 0 0 2 2 -
+p93
+aVChris Dudley CLE 04/06/1988 CLE vs. WAS W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -
+p94
+aVCraig Ehlo CLE 04/06/1988 CLE vs. WAS W 30 6 3 7 42.9 0 1 0.0 0 2 0.0 2 4 6 2 2 3 2 0 -
+p95
+aVHot Rod Williams CLE 04/06/1988 CLE vs. WAS W 25 17 8 8 100.0 0 0 - 1 2 50.0 3 4 7 0 1 1 1 0 -
+p96
+aVMike Sanders CLE 04/06/1988 CLE vs. WAS W 22 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 1 1 3 0 -
+p97
+aVDell Curry CLE 04/05/1988 CLE @ IND L 15 5 2 6 33.3 0 1 0.0 1 2 50.0 0 1 1 0 1 0 0 1 -
+p98
+aVMike Sanders CLE 04/05/1988 CLE @ IND L 29 22 8 11 72.7 0 0 - 6 6 100.0 3 3 6 3 1 1 1 5 -
+p99
+aVHot Rod Williams CLE 04/05/1988 CLE @ IND L 29 10 4 7 57.1 0 0 - 2 2 100.0 1 6 7 1 3 2 2 3 -
+p100
+aVCraig Ehlo CLE 04/05/1988 CLE @ IND L 14 1 0 3 0.0 0 1 0.0 1 2 50.0 1 0 1 4 1 0 0 1 -
+p101
+aVChris Dudley CLE 04/05/1988 CLE @ IND L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -
+p102
+aVLarry Nance CLE 04/05/1988 CLE @ IND L 30 15 5 14 35.7 0 1 0.0 5 6 83.3 3 5 8 4 0 0 2 4 -
+p103
+aVMark Price CLE 04/05/1988 CLE @ IND L 43 19 7 12 58.3 0 1 0.0 5 7 71.4 0 2 2 3 2 0 4 0 -
+p104
+aVBrad Daugherty CLE 04/05/1988 CLE @ IND L 39 18 8 15 53.3 0 0 - 2 3 66.7 0 7 7 0 0 0 3 3 -
+p105
+aVRon Harper CLE 04/05/1988 CLE @ IND L 32 15 5 11 45.5 0 0 - 5 7 71.4 2 1 3 4 0 0 1 2 -
+p106
+aVChris Dudley CLE 04/02/1988 CLE vs. IND W 11 10 4 6 66.7 0 0 - 2 3 66.7 4 0 4 0 0 0 0 1 -
+p107
+aVLarry Nance CLE 04/02/1988 CLE vs. IND W 41 10 3 9 33.3 0 0 - 4 4 100.0 4 5 9 9 3 4 2 0 -
+p108
+aVMike Sanders CLE 04/02/1988 CLE vs. IND W 24 13 6 6 100.0 0 0 - 1 2 50.0 0 1 1 3 2 0 1 3 -
+p109
+aVHot Rod Williams CLE 04/02/1988 CLE vs. IND W 13 0 0 5 0.0 0 0 - 0 0 - 0 2 2 1 0 3 0 1 -
+p110
+aVPhil Hubbard CLE 04/02/1988 CLE vs. IND W 11 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 1 1 0 -
+p111
+aVBrad Daugherty CLE 04/02/1988 CLE vs. IND W 37 19 8 16 50.0 0 0 - 3 4 75.0 1 11 12 2 2 1 3 4 -
+p112
+aVCraig Ehlo CLE 04/02/1988 CLE vs. IND W 24 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 1 0 1 1 2 -
+p113
+aVDell Curry CLE 04/02/1988 CLE vs. IND W 17 3 1 7 14.3 0 1 0.0 1 2 50.0 0 3 3 3 1 0 1 1 -
+p114
+aVRon Harper CLE 04/02/1988 CLE vs. IND W 25 12 5 12 41.7 0 0 - 2 2 100.0 1 4 5 1 1 0 6 0 -
+p115
+aVMark Price CLE 04/02/1988 CLE vs. IND W 37 32 11 14 78.6 1 1 100.0 9 10 90.0 0 2 2 10 0 0 3 2 -
+p116
+aVMark Price CLE 03/30/1988 CLE @ WAS W 38 16 5 9 55.6 1 1 100.0 5 6 83.3 0 3 3 6 2 0 4 0 -
+p117
+aVCraig Ehlo CLE 03/30/1988 CLE @ WAS W 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 2 -
+p118
+aVDell Curry CLE 03/30/1988 CLE @ WAS W 22 18 7 12 58.3 2 3 66.7 2 2 100.0 1 2 3 3 2 0 3 3 -
+p119
+aVPhil Hubbard CLE 03/30/1988 CLE @ WAS W 16 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 2 1 0 1 2 -
+p120
+aVMike Sanders CLE 03/30/1988 CLE @ WAS W 25 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 2 0 0 2 -
+p121
+aVRon Harper CLE 03/30/1988 CLE @ WAS W 31 18 6 16 37.5 0 1 0.0 6 7 85.7 2 2 4 6 1 1 0 1 -
+p122
+aVLarry Nance CLE 03/30/1988 CLE @ WAS W 39 22 9 17 52.9 0 0 - 4 5 80.0 4 7 11 5 1 1 2 1 -
+p123
+aVChris Dudley CLE 03/30/1988 CLE @ WAS W 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p124
+aVBrad Daugherty CLE 03/30/1988 CLE @ WAS W 43 18 9 13 69.2 0 0 - 0 0 - 2 12 14 5 1 0 7 3 -
+p125
+aVHot Rod Williams CLE 03/30/1988 CLE @ WAS W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 2 0 3 -
+p126
+aVMark Price CLE 03/29/1988 CLE vs. NYK W 43 24 8 12 66.7 1 1 100.0 7 10 70.0 2 0 2 10 2 0 2 1 -
+p127
+aVChris Dudley CLE 03/29/1988 CLE vs. NYK W 15 5 2 3 66.7 0 0 - 1 1 100.0 0 3 3 1 0 0 1 0 -
+p128
+aVDell Curry CLE 03/29/1988 CLE vs. NYK W 21 19 7 12 58.3 1 2 50.0 4 5 80.0 0 2 2 1 3 1 1 2 -
+p129
+aVRon Harper CLE 03/29/1988 CLE vs. NYK W 34 9 3 10 30.0 0 1 0.0 3 4 75.0 0 2 2 1 2 1 3 3 -
+p130
+aVLarry Nance CLE 03/29/1988 CLE vs. NYK W 29 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 2 1 2 0 2 -
+p131
+aVHot Rod Williams CLE 03/29/1988 CLE vs. NYK W 24 10 4 7 57.1 0 0 - 2 3 66.7 2 3 5 2 1 2 1 3 -
+p132
+aVCraig Ehlo CLE 03/29/1988 CLE vs. NYK W 16 6 3 4 75.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -
+p133
+aVMike Sanders CLE 03/29/1988 CLE vs. NYK W 25 11 5 7 71.4 0 0 - 1 1 100.0 0 2 2 2 1 0 0 2 -
+p134
+aVBrad Daugherty CLE 03/29/1988 CLE vs. NYK W 33 19 7 15 46.7 0 0 - 5 5 100.0 2 5 7 6 0 0 3 4 -
+p135
+aVDell Curry CLE 03/26/1988 CLE @ ATL L 20 6 3 8 37.5 0 0 - 0 0 - 0 4 4 3 0 0 1 2 -
+p136
+aVLarry Nance CLE 03/26/1988 CLE @ ATL L 39 24 6 13 46.2 0 0 - 12 12 100.0 4 4 8 3 0 2 5 3 -
+p137
+aVMark Price CLE 03/26/1988 CLE @ ATL L 23 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 3 0 0 3 2 -
+p138
+aVBrad Daugherty CLE 03/26/1988 CLE @ ATL L 36 25 10 13 76.9 0 0 - 5 8 62.5 1 5 6 5 0 1 5 2 -
+p139
+aVMike Sanders CLE 03/26/1988 CLE @ ATL L 31 9 4 8 50.0 0 0 - 1 2 50.0 0 1 1 2 1 0 0 5 -
+p140
+aVCraig Ehlo CLE 03/26/1988 CLE @ ATL L 19 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 3 2 1 2 4 -
+p141
+aVPhil Hubbard CLE 03/26/1988 CLE @ ATL L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p142
+aVHot Rod Williams CLE 03/26/1988 CLE @ ATL L 30 16 6 8 75.0 0 0 - 4 5 80.0 1 4 5 1 0 2 1 5 -
+p143
+aVRon Harper CLE 03/26/1988 CLE @ ATL L 35 12 4 10 40.0 0 0 - 4 4 100.0 1 6 7 8 4 0 3 0 -
+p144
+aVLarry Nance CLE 03/25/1988 CLE vs. CHI L 47 29 9 19 47.4 0 0 - 11 16 68.8 7 4 11 4 1 6 1 2 -
+p145
+aVMike Sanders CLE 03/25/1988 CLE vs. CHI L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p146
+aVDell Curry CLE 03/25/1988 CLE vs. CHI L 35 24 10 20 50.0 2 4 50.0 2 2 100.0 0 6 6 6 3 1 2 3 -
+p147
+aVBrad Daugherty CLE 03/25/1988 CLE vs. CHI L 45 22 7 15 46.7 0 0 - 8 9 88.9 2 4 6 1 1 1 2 3 -
+p148
+aVHot Rod Williams CLE 03/25/1988 CLE vs. CHI L 30 11 5 8 62.5 0 1 0.0 1 2 50.0 0 3 3 0 1 4 1 2 -
+p149
+aVPhil Hubbard CLE 03/25/1988 CLE vs. CHI L 13 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -
+p150
+aVCraig Ehlo CLE 03/25/1988 CLE vs. CHI L 24 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 5 1 0 2 5 -
+p151
+aVRon Harper CLE 03/25/1988 CLE vs. CHI L 26 6 2 7 28.6 0 0 - 2 4 50.0 1 0 1 4 2 0 4 5 -
+p152
+aVMark Price CLE 03/25/1988 CLE vs. CHI L 37 13 5 15 33.3 1 2 50.0 2 2 100.0 0 1 1 3 2 0 1 2 -
+p153
+aVChris Dudley CLE 03/23/1988 CLE vs. NJN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p154
+aVMark Price CLE 03/23/1988 CLE vs. NJN W 34 10 4 7 57.1 0 1 0.0 2 2 100.0 0 1 1 10 2 0 4 2 -
+p155
+aVRon Harper CLE 03/23/1988 CLE vs. NJN W 34 12 5 9 55.6 0 0 - 2 2 100.0 1 1 2 5 3 1 3 3 -
+p156
+aVHot Rod Williams CLE 03/23/1988 CLE vs. NJN W 28 13 5 8 62.5 0 0 - 3 4 75.0 1 5 6 0 1 2 2 3 -
+p157
+aVMike Sanders CLE 03/23/1988 CLE vs. NJN W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p158
+aVPhil Hubbard CLE 03/23/1988 CLE vs. NJN W 19 9 4 7 57.1 0 0 - 1 2 50.0 1 1 2 1 0 0 1 3 -
+p159
+aVBrad Daugherty CLE 03/23/1988 CLE vs. NJN W 33 10 4 10 40.0 0 1 0.0 2 2 100.0 1 5 6 2 0 1 2 3 -
+p160
+aVLarry Nance CLE 03/23/1988 CLE vs. NJN W 36 20 9 18 50.0 0 0 - 2 2 100.0 2 11 13 5 1 2 3 5 -
+p161
+aVCraig Ehlo CLE 03/23/1988 CLE vs. NJN W 22 9 4 5 80.0 1 1 100.0 0 0 - 0 4 4 2 1 0 0 1 -
+p162
+aVDell Curry CLE 03/23/1988 CLE vs. NJN W 23 22 9 12 75.0 1 1 100.0 3 4 75.0 1 2 3 2 0 2 1 1 -
+p163
+aVPhil Hubbard CLE 03/19/1988 CLE @ MIL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p164
+aVDell Curry CLE 03/19/1988 CLE @ MIL L 17 2 1 8 12.5 0 1 0.0 0 1 0.0 1 1 2 1 0 0 2 1 -
+p165
+aVLarry Nance CLE 03/19/1988 CLE @ MIL L 35 23 11 17 64.7 0 0 - 1 3 33.3 5 3 8 5 0 4 1 5 -
+p166
+aVHot Rod Williams CLE 03/19/1988 CLE @ MIL L 34 15 5 10 50.0 0 0 - 5 6 83.3 2 4 6 4 0 1 3 1 -
+p167
+aVChris Dudley CLE 03/19/1988 CLE @ MIL L 6 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 1 -
+p168
+aVRon Harper CLE 03/19/1988 CLE @ MIL L 35 10 4 12 33.3 0 1 0.0 2 2 100.0 0 5 5 4 5 2 8 6 -
+p169
+aVMike Sanders CLE 03/19/1988 CLE @ MIL L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 5 -
+p170
+aVCraig Ehlo CLE 03/19/1988 CLE @ MIL L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 -
+p171
+aVMark Price CLE 03/19/1988 CLE @ MIL L 39 24 9 15 60.0 1 2 50.0 5 6 83.3 1 3 4 7 2 1 2 1 -
+p172
+aVBrad Daugherty CLE 03/19/1988 CLE @ MIL L 42 22 5 13 38.5 0 0 - 12 15 80.0 3 7 10 3 0 1 0 2 -
+p173
+aVCraig Ehlo CLE 03/17/1988 CLE vs. DET L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 1 1 -
+p174
+aVMark Price CLE 03/17/1988 CLE vs. DET L 38 17 7 18 38.9 1 5 20.0 2 2 100.0 1 0 1 7 2 0 3 1 -
+p175
+aVLarry Nance CLE 03/17/1988 CLE vs. DET L 35 14 4 10 40.0 0 0 - 6 7 85.7 1 6 7 5 0 3 3 4 -
+p176
+aVPhil Hubbard CLE 03/17/1988 CLE vs. DET L 21 7 2 5 40.0 0 0 - 3 4 75.0 4 0 4 0 0 1 1 4 -
+p177
+aVMike Sanders CLE 03/17/1988 CLE vs. DET L 14 8 4 9 44.4 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p178
+aVHot Rod Williams CLE 03/17/1988 CLE vs. DET L 24 12 5 8 62.5 0 0 - 2 3 66.7 1 5 6 1 0 4 2 5 -
+p179
+aVRon Harper CLE 03/17/1988 CLE vs. DET L 28 10 5 8 62.5 0 0 - 0 0 - 1 6 7 5 1 1 6 6 -
+p180
+aVBrad Daugherty CLE 03/17/1988 CLE vs. DET L 43 21 9 13 69.2 0 0 - 3 3 100.0 4 4 8 5 0 1 2 2 -
+p181
+aVDell Curry CLE 03/17/1988 CLE vs. DET L 21 8 3 7 42.9 1 1 100.0 1 1 100.0 0 1 1 2 1 0 0 2 -
+p182
+aVChris Dudley CLE 03/17/1988 CLE vs. DET L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p183
+aVHot Rod Williams CLE 03/15/1988 CLE @ CHI L 26 6 2 6 33.3 0 0 - 2 2 100.0 1 4 5 0 0 2 2 2 -
+p184
+aVDell Curry CLE 03/15/1988 CLE @ CHI L 27 12 6 13 46.2 0 1 0.0 0 0 - 0 2 2 2 1 1 0 4 -
+p185
+aVCraig Ehlo CLE 03/15/1988 CLE @ CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p186
+aVJohnny Rogers CLE 03/15/1988 CLE @ CHI L 2 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p187
+aVBrad Daugherty CLE 03/15/1988 CLE @ CHI L 39 14 5 15 33.3 0 0 - 4 7 57.1 0 5 5 6 2 0 3 2 -
+p188
+aVLarry Nance CLE 03/15/1988 CLE @ CHI L 35 10 3 10 30.0 0 0 - 4 5 80.0 5 4 9 3 0 1 3 2 -
+p189
+aVMike Sanders CLE 03/15/1988 CLE @ CHI L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p190
+aVMark Price CLE 03/15/1988 CLE @ CHI L 29 17 7 12 58.3 1 1 100.0 2 4 50.0 0 2 2 7 2 0 1 2 -
+p191
+aVPhil Hubbard CLE 03/15/1988 CLE @ CHI L 19 4 2 5 40.0 0 0 - 0 0 - 0 4 4 0 2 0 1 2 -
+p192
+aVRon Harper CLE 03/15/1988 CLE @ CHI L 42 20 8 13 61.5 0 1 0.0 4 6 66.7 0 1 1 9 4 0 2 3 -
+p193
+aVChris Dudley CLE 03/15/1988 CLE @ CHI L 6 4 2 3 66.7 0 0 - 0 2 0.0 2 0 2 0 0 0 0 1 -
+p194
+aVLarry Nance CLE 03/14/1988 CLE @ NYK L 39 24 10 14 71.4 0 0 - 4 4 100.0 3 8 11 3 0 2 1 4 -
+p195
+aVDell Curry CLE 03/14/1988 CLE @ NYK L 23 15 7 15 46.7 1 1 100.0 0 0 - 2 2 4 2 1 1 3 4 -
+p196
+aVCraig Ehlo CLE 03/14/1988 CLE @ NYK L 21 2 0 0 - 0 0 - 2 2 100.0 0 1 1 4 1 0 1 2 -
+p197
+aVPhil Hubbard CLE 03/14/1988 CLE @ NYK L 13 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 -
+p198
+aVBrad Daugherty CLE 03/14/1988 CLE @ NYK L 27 11 5 7 71.4 0 0 - 1 2 50.0 2 5 7 3 0 1 2 5 -
+p199
+aVMike Sanders CLE 03/14/1988 CLE @ NYK L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p200
+aVChris Dudley CLE 03/14/1988 CLE @ NYK L 6 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 1 2 -
+p201
+aVMark Price CLE 03/14/1988 CLE @ NYK L 41 16 6 12 50.0 0 1 0.0 4 4 100.0 1 3 4 7 1 0 4 0 -
+p202
+aVRon Harper CLE 03/14/1988 CLE @ NYK L 37 9 4 12 33.3 0 0 - 1 4 25.0 1 2 3 8 2 0 6 3 -
+p203
+aVHot Rod Williams CLE 03/14/1988 CLE @ NYK L 29 17 5 11 45.5 0 0 - 7 10 70.0 3 4 7 2 2 5 1 3 -
+p204
+aVPhil Hubbard CLE 03/12/1988 CLE @ DET L 14 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -
+p205
+aVChris Dudley CLE 03/12/1988 CLE @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p206
+aVLarry Nance CLE 03/12/1988 CLE @ DET L 32 13 5 9 55.6 0 0 - 3 4 75.0 2 1 3 2 0 0 1 5 -
+p207
+aVRon Harper CLE 03/12/1988 CLE @ DET L 26 11 5 8 62.5 0 1 0.0 1 4 25.0 0 3 3 4 1 1 1 2 -
+p208
+aVHot Rod Williams CLE 03/12/1988 CLE @ DET L 32 18 6 10 60.0 0 0 - 6 7 85.7 0 9 9 2 0 1 0 3 -
+p209
+aVCraig Ehlo CLE 03/12/1988 CLE @ DET L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 3 0 0 2 1 -
+p210
+aVBrad Daugherty CLE 03/12/1988 CLE @ DET L 46 24 8 16 50.0 0 0 - 8 10 80.0 1 8 9 10 2 1 5 3 -
+p211
+aVMike Sanders CLE 03/12/1988 CLE @ DET L 18 12 5 5 100.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 6 -
+p212
+aVDell Curry CLE 03/12/1988 CLE @ DET L 30 12 6 11 54.5 0 3 0.0 0 0 - 1 2 3 3 0 1 2 3 -
+p213
+aVMark Price CLE 03/12/1988 CLE @ DET L 33 8 4 12 33.3 0 1 0.0 0 0 - 0 3 3 4 0 0 3 1 -
+p214
+aVLarry Nance CLE 03/11/1988 CLE vs. SAN W 35 22 9 12 75.0 0 0 - 4 5 80.0 3 6 9 0 0 3 2 1 -
+p215
+aVDell Curry CLE 03/11/1988 CLE vs. SAN W 7 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -
+p216
+aVCraig Ehlo CLE 03/11/1988 CLE vs. SAN W 18 7 1 3 33.3 0 0 - 5 7 71.4 1 0 1 2 1 0 0 2 -
+p217
+aVPhil Hubbard CLE 03/11/1988 CLE vs. SAN W 18 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 1 3 -
+p218
+aVRon Harper CLE 03/11/1988 CLE vs. SAN W 38 24 10 16 62.5 0 1 0.0 4 6 66.7 4 0 4 5 2 2 5 1 -
+p219
+aVHot Rod Williams CLE 03/11/1988 CLE vs. SAN W 30 24 9 14 64.3 0 0 - 6 7 85.7 2 8 10 1 1 1 1 1 -
+p220
+aVMark Price CLE 03/11/1988 CLE vs. SAN W 35 10 3 10 30.0 0 1 0.0 4 4 100.0 2 3 5 7 0 0 4 0 -
+p221
+aVMike Sanders CLE 03/11/1988 CLE vs. SAN W 17 8 1 4 25.0 0 0 - 6 6 100.0 1 3 4 1 0 0 1 2 -
+p222
+aVBrad Daugherty CLE 03/11/1988 CLE vs. SAN W 20 12 6 12 50.0 0 0 - 0 0 - 2 3 5 4 0 0 4 5 -
+p223
+aVChris Dudley CLE 03/11/1988 CLE vs. SAN W 22 2 1 1 100.0 0 0 - 0 0 - 1 3 4 2 1 0 0 2 -
+p224
+aVMark Price CLE 03/09/1988 CLE vs. MIL W 36 16 7 13 53.8 0 1 0.0 2 3 66.7 1 1 2 8 0 0 2 0 -
+p225
+aVJohnny Rogers CLE 03/09/1988 CLE vs. MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p226
+aVHot Rod Williams CLE 03/09/1988 CLE vs. MIL W 24 11 5 6 83.3 0 0 - 1 2 50.0 0 9 9 0 0 3 0 0 -
+p227
+aVPhil Hubbard CLE 03/09/1988 CLE vs. MIL W 20 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 2 0 0 1 2 -
+p228
+aVDell Curry CLE 03/09/1988 CLE vs. MIL W 13 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -
+p229
+aVCraig Ehlo CLE 03/09/1988 CLE vs. MIL W 22 8 3 5 60.0 1 1 100.0 1 2 50.0 2 2 4 1 1 0 2 3 -
+p230
+aVChris Dudley CLE 03/09/1988 CLE vs. MIL W 11 1 0 1 0.0 0 0 - 1 4 25.0 1 2 3 0 1 0 1 1 -
+p231
+aVBrad Daugherty CLE 03/09/1988 CLE vs. MIL W 37 20 8 11 72.7 0 0 - 4 4 100.0 2 5 7 7 0 1 2 4 -
+p232
+aVLarry Nance CLE 03/09/1988 CLE vs. MIL W 31 15 5 9 55.6 0 0 - 5 6 83.3 4 5 9 5 1 0 2 2 -
+p233
+aVRon Harper CLE 03/09/1988 CLE vs. MIL W 27 23 11 20 55.0 1 1 100.0 0 1 0.0 2 2 4 4 1 0 0 3 -
+p234
+aVMike Sanders CLE 03/09/1988 CLE vs. MIL W 16 9 4 6 66.7 0 0 - 1 2 50.0 1 1 2 2 0 0 1 1 -
+p235
+aVPhil Hubbard CLE 03/06/1988 CLE @ BOS L 10 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 4 2 -
+p236
+aVRon Harper CLE 03/06/1988 CLE @ BOS L 39 25 10 16 62.5 0 0 - 5 6 83.3 1 2 3 3 1 0 3 3 -
+p237
+aVMike Sanders CLE 03/06/1988 CLE @ BOS L 12 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -
+p238
+aVBrad Daugherty CLE 03/06/1988 CLE @ BOS L 38 14 5 10 50.0 0 0 - 4 5 80.0 2 5 7 4 1 0 7 2 -
+p239
+aVMark Price CLE 03/06/1988 CLE @ BOS L 28 5 2 7 28.6 0 4 0.0 1 2 50.0 0 0 0 4 0 0 1 2 -
+p240
+aVDell Curry CLE 03/06/1988 CLE @ BOS L 24 14 7 15 46.7 0 0 - 0 0 - 0 0 0 2 1 0 1 3 -
+p241
+aVChris Dudley CLE 03/06/1988 CLE @ BOS L 13 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 1 1 0 0 1 -
+p242
+aVJohnny Rogers CLE 03/06/1988 CLE @ BOS L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -
+p243
+aVHot Rod Williams CLE 03/06/1988 CLE @ BOS L 24 12 6 9 66.7 0 0 - 0 0 - 2 6 8 2 2 0 2 4 -
+p244
+aVLarry Nance CLE 03/06/1988 CLE @ BOS L 28 14 7 8 87.5 0 0 - 0 2 0.0 1 3 4 2 0 1 1 5 -
+p245
+aVCraig Ehlo CLE 03/06/1988 CLE @ BOS L 18 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 4 0 1 0 1 -
+p246
+aVChris Dudley CLE 03/02/1988 CLE @ DEN L 12 4 2 2 100.0 0 0 - 0 2 0.0 1 2 3 1 0 0 2 1 -
+p247
+aVLarry Nance CLE 03/02/1988 CLE @ DEN L 24 15 4 6 66.7 0 0 - 7 10 70.0 3 5 8 1 0 2 3 4 -
+p248
+aVMark Price CLE 03/02/1988 CLE @ DEN L 33 10 5 11 45.5 0 4 0.0 0 0 - 1 4 5 5 0 0 3 1 -
+p249
+aVJohnny Rogers CLE 03/02/1988 CLE @ DEN L 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -
+p250
+aVCraig Ehlo CLE 03/02/1988 CLE @ DEN L 18 4 2 8 25.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 1 -
+p251
+aVHot Rod Williams CLE 03/02/1988 CLE @ DEN L 27 4 2 4 50.0 0 0 - 0 0 - 1 9 10 0 1 5 2 3 -
+p252
+aVBrad Daugherty CLE 03/02/1988 CLE @ DEN L 36 15 6 11 54.5 0 0 - 3 4 75.0 1 2 3 1 0 0 3 2 -
+p253
+aVDell Curry CLE 03/02/1988 CLE @ DEN L 20 6 3 9 33.3 0 2 0.0 0 0 - 0 1 1 2 0 1 3 0 -
+p254
+aVRon Harper CLE 03/02/1988 CLE @ DEN L 37 13 4 13 30.8 0 0 - 5 9 55.6 1 5 6 8 3 0 5 3 -
+p255
+aVMike Sanders CLE 03/02/1988 CLE @ DEN L 23 8 4 7 57.1 0 0 - 0 0 - 2 3 5 1 0 0 3 1 -
+p256
+aVBrad Daugherty CLE 02/29/1988 CLE @ POR L 41 23 8 20 40.0 0 0 - 7 9 77.8 3 3 6 1 1 1 2 1 -
+p257
+aVCraig Ehlo CLE 02/29/1988 CLE @ POR L 23 9 3 8 37.5 1 3 33.3 2 4 50.0 3 2 5 4 0 1 3 3 -
+p258
+aVHot Rod Williams CLE 02/29/1988 CLE @ POR L 34 10 2 13 15.4 0 0 - 6 6 100.0 5 3 8 3 1 1 2 6 -
+p259
+aVRon Harper CLE 02/29/1988 CLE @ POR L 32 11 5 12 41.7 0 0 - 1 2 50.0 5 5 10 3 1 0 6 4 -
+p260
+aVChris Dudley CLE 02/29/1988 CLE @ POR L 15 1 0 2 0.0 0 0 - 1 2 50.0 2 4 6 1 0 0 0 6 -
+p261
+aVMark Price CLE 02/29/1988 CLE @ POR L 36 14 4 9 44.4 1 2 50.0 5 5 100.0 1 0 1 4 0 0 4 0 -
+p262
+aVDell Curry CLE 02/29/1988 CLE @ POR L 20 9 4 11 36.4 0 0 - 1 2 50.0 1 3 4 0 2 1 0 2 -
+p263
+aVLarry Nance CLE 02/29/1988 CLE @ POR L 39 17 5 12 41.7 0 0 - 7 9 77.8 5 6 11 2 2 4 2 6 -
+p264
+aVMark Price CLE 02/27/1988 CLE @ LAC L 39 11 5 16 31.3 1 3 33.3 0 0 - 0 2 2 9 2 0 2 0 -
+p265
+aVHot Rod Williams CLE 02/27/1988 CLE @ LAC L 34 18 7 12 58.3 0 0 - 4 4 100.0 2 4 6 0 0 1 2 4 -
+p266
+aVRon Harper CLE 02/27/1988 CLE @ LAC L 35 18 5 8 62.5 0 0 - 8 10 80.0 1 3 4 3 4 1 5 2 -
+p267
+aVMike Sanders CLE 02/27/1988 CLE @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p268
+aVDell Curry CLE 02/27/1988 CLE @ LAC L 10 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p269
+aVLarry Nance CLE 02/27/1988 CLE @ LAC L 19 10 4 9 44.4 0 0 - 2 2 100.0 1 0 1 1 0 2 3 5 -
+p270
+aVPhil Hubbard CLE 02/27/1988 CLE @ LAC L 31 9 4 10 40.0 0 0 - 1 1 100.0 2 1 3 1 2 1 3 2 -
+p271
+aVCraig Ehlo CLE 02/27/1988 CLE @ LAC L 20 8 3 5 60.0 0 1 0.0 2 4 50.0 1 2 3 4 2 0 2 1 -
+p272
+aVChris Dudley CLE 02/27/1988 CLE @ LAC L 7 3 1 2 50.0 0 0 - 1 1 100.0 1 2 3 2 1 0 0 1 -
+p273
+aVBrad Daugherty CLE 02/27/1988 CLE @ LAC L 42 13 5 16 31.3 0 0 - 3 4 75.0 5 12 17 4 1 0 4 3 -
+p274
+aVCraig Ehlo CLE 02/25/1988 CLE @ PHX L 33 6 2 5 40.0 1 1 100.0 1 1 100.0 2 3 5 4 0 0 3 2 -
+p275
+aVDell Curry CLE 02/25/1988 CLE @ PHX L 20 12 6 11 54.5 0 0 - 0 0 - 0 2 2 2 1 0 1 3 -
+p276
+aVHot Rod Williams CLE 02/25/1988 CLE @ PHX L 39 14 6 14 42.9 0 0 - 2 2 100.0 2 4 6 1 1 1 2 0 -
+p277
+aVChris Dudley CLE 02/25/1988 CLE @ PHX L 34 10 3 6 50.0 0 0 - 4 4 100.0 4 6 10 1 0 1 3 3 -
+p278
+aVJohnny Rogers CLE 02/25/1988 CLE @ PHX L 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p279
+aVMark Price CLE 02/25/1988 CLE @ PHX L 34 24 9 13 69.2 4 5 80.0 2 2 100.0 0 2 2 5 0 0 0 1 -
+p280
+aVPhil Hubbard CLE 02/25/1988 CLE @ PHX L 35 14 3 7 42.9 0 0 - 8 8 100.0 0 3 3 1 1 0 4 1 -
+p281
+aVRon Harper CLE 02/25/1988 CLE @ PHX L 42 23 10 17 58.8 0 0 - 3 4 75.0 0 4 4 10 2 3 5 5 -
+p282
+aVChris Dudley CLE 02/24/1988 CLE @ DAL L 20 4 2 8 25.0 0 0 - 0 0 - 5 0 5 1 0 0 1 3 -
+p283
+aVCraig Ehlo CLE 02/24/1988 CLE @ DAL L 15 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 1 1 1 0 1 -
+p284
+aVHot Rod Williams CLE 02/24/1988 CLE @ DAL L 33 12 4 10 40.0 0 0 - 4 8 50.0 5 3 8 1 0 1 1 3 -
+p285
+aVTyrone Corbin CLE 02/24/1988 CLE @ DAL L 20 6 3 7 42.9 0 1 0.0 0 0 - 3 4 7 1 2 1 2 2 -
+p286
+aVRon Harper CLE 02/24/1988 CLE @ DAL L 32 15 7 14 50.0 0 1 0.0 1 1 100.0 2 3 5 6 1 0 0 2 -
+p287
+aVKevin Johnson CLE 02/24/1988 CLE @ DAL L 18 8 4 8 50.0 0 0 - 0 0 - 1 1 2 3 1 0 0 1 -
+p288
+aVPhil Hubbard CLE 02/24/1988 CLE @ DAL L 26 13 5 13 38.5 0 0 - 3 4 75.0 2 1 3 3 2 0 1 4 -
+p289
+aVMark Price CLE 02/24/1988 CLE @ DAL L 33 7 3 13 23.1 1 1 100.0 0 1 0.0 2 1 3 5 1 0 3 1 -
+p290
+aVMark West CLE 02/24/1988 CLE @ DAL L 43 16 7 14 50.0 0 0 - 2 2 100.0 2 9 11 1 0 6 3 0 -
+p291
+aVPhil Hubbard CLE 02/21/1988 CLE vs. CHI W 38 25 10 13 76.9 0 0 - 5 7 71.4 4 1 5 1 1 0 1 3 -
+p292
+aVHot Rod Williams CLE 02/21/1988 CLE vs. CHI W 22 7 2 8 25.0 0 0 - 3 3 100.0 1 3 4 0 0 0 3 5 -
+p293
+aVMark Price CLE 02/21/1988 CLE vs. CHI W 38 13 3 12 25.0 1 3 33.3 6 6 100.0 1 1 2 11 3 0 4 2 -
+p294
+aVBrad Daugherty CLE 02/21/1988 CLE vs. CHI W 36 29 10 18 55.6 0 0 - 9 10 90.0 1 7 8 1 1 1 3 5 -
+p295
+aVCraig Ehlo CLE 02/21/1988 CLE vs. CHI W 27 4 2 5 40.0 0 1 0.0 0 0 - 3 2 5 4 2 0 0 3 -
+p296
+aVMark West CLE 02/21/1988 CLE vs. CHI W 12 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 1 0 1 2 2 -
+p297
+aVRon Harper CLE 02/21/1988 CLE vs. CHI W 37 21 4 10 40.0 0 0 - 13 17 76.5 3 2 5 5 4 2 5 5 -
+p298
+aVTyrone Corbin CLE 02/21/1988 CLE vs. CHI W 30 10 5 9 55.6 0 0 - 0 1 0.0 1 3 4 4 0 0 1 6 -
+p299
+aVCraig Ehlo CLE 02/18/1988 CLE @ IND L 26 13 6 9 66.7 0 1 0.0 1 1 100.0 0 4 4 2 0 0 2 4 -
+p300
+aVMark West CLE 02/18/1988 CLE @ IND L 32 14 6 7 85.7 0 0 - 2 2 100.0 2 6 8 3 0 0 0 4 -
+p301
+aVRon Harper CLE 02/18/1988 CLE @ IND L 36 12 5 12 41.7 0 0 - 2 4 50.0 0 5 5 4 3 1 2 3 -
+p302
+aVKevin Johnson CLE 02/18/1988 CLE @ IND L 8 0 0 2 0.0 0 0 - 0 1 0.0 0 0 0 1 2 0 1 1 -
+p303
+aVMark Price CLE 02/18/1988 CLE @ IND L 35 12 5 14 35.7 2 5 40.0 0 0 - 0 1 1 4 2 0 5 1 -
+p304
+aVHot Rod Williams CLE 02/18/1988 CLE @ IND L 20 6 2 8 25.0 0 0 - 2 4 50.0 2 4 6 0 0 1 1 1 -
+p305
+aVBrad Daugherty CLE 02/18/1988 CLE @ IND L 39 19 8 17 47.1 0 0 - 3 3 100.0 4 10 14 4 2 0 8 2 -
+p306
+aVDell Curry CLE 02/18/1988 CLE @ IND L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p307
+aVTyrone Corbin CLE 02/18/1988 CLE @ IND L 16 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -
+p308
+aVPhil Hubbard CLE 02/18/1988 CLE @ IND L 22 5 1 3 33.3 0 0 - 3 5 60.0 2 7 9 1 0 0 2 3 -
+p309
+aVBrad Daugherty CLE 02/17/1988 CLE @ PHL W 42 19 7 17 41.2 0 0 - 5 6 83.3 3 9 12 5 0 0 6 3 -
+p310
+aVDell Curry CLE 02/17/1988 CLE @ PHL W 10 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 2 -
+p311
+aVRon Harper CLE 02/17/1988 CLE @ PHL W 38 16 7 13 53.8 0 0 - 2 2 100.0 2 2 4 8 0 2 2 2 -
+p312
+aVKevin Johnson CLE 02/17/1988 CLE @ PHL W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 2 -
+p313
+aVMark West CLE 02/17/1988 CLE @ PHL W 27 9 4 5 80.0 0 0 - 1 1 100.0 0 7 7 1 0 0 0 2 -
+p314
+aVPhil Hubbard CLE 02/17/1988 CLE @ PHL W 20 9 4 10 40.0 0 0 - 1 1 100.0 4 2 6 2 1 0 0 1 -
+p315
+aVTyrone Corbin CLE 02/17/1988 CLE @ PHL W 28 10 5 9 55.6 0 0 - 0 0 - 3 6 9 2 1 0 3 2 -
+p316
+aVCraig Ehlo CLE 02/17/1988 CLE @ PHL W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 1 0 1 0 -
+p317
+aVHot Rod Williams CLE 02/17/1988 CLE @ PHL W 27 16 5 8 62.5 0 0 - 6 7 85.7 3 2 5 1 0 1 3 2 -
+p318
+aVMark Price CLE 02/17/1988 CLE @ PHL W 33 28 11 14 78.6 3 3 100.0 3 3 100.0 0 0 0 8 1 0 0 2 -
+p319
+aVMark West CLE 02/15/1988 CLE vs. SAC W 22 9 4 6 66.7 0 0 - 1 2 50.0 1 4 5 0 0 2 2 3 -
+p320
+aVHot Rod Williams CLE 02/15/1988 CLE vs. SAC W 35 11 5 14 35.7 0 0 - 1 1 100.0 1 8 9 0 3 5 1 1 -
+p321
+aVRon Harper CLE 02/15/1988 CLE vs. SAC W 34 16 5 12 41.7 0 0 - 6 8 75.0 1 5 6 5 1 0 3 4 -
+p322
+aVCraig Ehlo CLE 02/15/1988 CLE vs. SAC W 21 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 1 0 1 1 3 -
+p323
+aVBrad Daugherty CLE 02/15/1988 CLE vs. SAC W 37 30 10 20 50.0 0 0 - 10 12 83.3 2 4 6 3 0 1 3 4 -
+p324
+aVTyrone Corbin CLE 02/15/1988 CLE vs. SAC W 23 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 6 0 1 0 3 -
+p325
+aVDell Curry CLE 02/15/1988 CLE vs. SAC W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 -
+p326
+aVChris Dudley CLE 02/15/1988 CLE vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p327
+aVKevin Johnson CLE 02/15/1988 CLE vs. SAC W 9 1 0 4 0.0 0 0 - 1 4 25.0 1 2 3 0 0 1 0 0 -
+p328
+aVMark Price CLE 02/15/1988 CLE vs. SAC W 35 19 8 14 57.1 1 2 50.0 2 2 100.0 1 1 2 6 1 0 1 1 -
+p329
+aVPhil Hubbard CLE 02/15/1988 CLE vs. SAC W 17 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 2 0 0 1 2 -
+p330
+aVKent Benson CLE 02/13/1988 CLE @ NYK L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p331
+aVCraig Ehlo CLE 02/13/1988 CLE @ NYK L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -
+p332
+aVPhil Hubbard CLE 02/13/1988 CLE @ NYK L 24 20 9 9 100.0 0 0 - 2 4 50.0 2 4 6 0 1 0 1 3 -
+p333
+aVTyrone Corbin CLE 02/13/1988 CLE @ NYK L 23 9 3 6 50.0 0 0 - 3 4 75.0 3 3 6 0 0 0 2 1 -
+p334
+aVRon Harper CLE 02/13/1988 CLE @ NYK L 33 24 11 17 64.7 0 1 0.0 2 3 66.7 3 2 5 4 3 1 6 3 -
+p335
+aVHot Rod Williams CLE 02/13/1988 CLE @ NYK L 35 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 2 0 5 0 2 -
+p336
+aVBrad Daugherty CLE 02/13/1988 CLE @ NYK L 41 12 3 11 27.3 0 0 - 6 6 100.0 4 9 13 6 1 0 1 4 -
+p337
+aVKevin Johnson CLE 02/13/1988 CLE @ NYK L 23 7 3 7 42.9 0 0 - 1 2 50.0 0 0 0 5 2 0 2 1 -
+p338
+aVMark West CLE 02/13/1988 CLE @ NYK L 10 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 1 2 2 -
+p339
+aVMark Price CLE 02/13/1988 CLE @ NYK L 36 22 8 15 53.3 0 3 0.0 6 6 100.0 0 0 0 9 1 0 4 3 -
+p340
+aVMark West CLE 02/12/1988 CLE vs. NJN W 22 6 1 1 100.0 0 0 - 4 8 50.0 2 3 5 0 1 5 6 3 -
+p341
+aVKevin Johnson CLE 02/12/1988 CLE vs. NJN W 18 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 1 0 0 0 3 -
+p342
+aVHot Rod Williams CLE 02/12/1988 CLE vs. NJN W 29 11 5 7 71.4 0 0 - 1 1 100.0 1 5 6 2 3 0 0 5 -
+p343
+aVRon Harper CLE 02/12/1988 CLE vs. NJN W 40 28 9 18 50.0 0 1 0.0 10 15 66.7 1 7 8 3 3 2 5 4 -
+p344
+aVDell Curry CLE 02/12/1988 CLE vs. NJN W 5 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p345
+aVBrad Daugherty CLE 02/12/1988 CLE vs. NJN W 39 17 3 11 27.3 0 0 - 11 13 84.6 0 5 5 7 1 0 5 1 -
+p346
+aVTyrone Corbin CLE 02/12/1988 CLE vs. NJN W 30 10 2 6 33.3 0 0 - 6 6 100.0 4 4 8 1 1 0 3 2 -
+p347
+aVPhil Hubbard CLE 02/12/1988 CLE vs. NJN W 18 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 0 1 0 4 2 -
+p348
+aVChris Dudley CLE 02/12/1988 CLE vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -
+p349
+aVMark Price CLE 02/12/1988 CLE vs. NJN W 36 14 5 13 38.5 2 2 100.0 2 2 100.0 0 1 1 5 1 0 0 0 -
+p350
+aVPhil Hubbard CLE 02/10/1988 CLE vs. WAS W 19 8 2 8 25.0 0 0 - 4 4 100.0 2 1 3 2 1 0 1 4 -
+p351
+aVRon Harper CLE 02/10/1988 CLE vs. WAS W 32 12 4 14 28.6 0 0 - 4 5 80.0 1 7 8 5 1 1 0 3 -
+p352
+aVBrad Daugherty CLE 02/10/1988 CLE vs. WAS W 37 18 7 12 58.3 0 0 - 4 5 80.0 4 9 13 6 0 1 4 3 -
+p353
+aVHot Rod Williams CLE 02/10/1988 CLE vs. WAS W 37 23 10 15 66.7 0 0 - 3 5 60.0 3 5 8 4 0 1 1 1 -
+p354
+aVKevin Johnson CLE 02/10/1988 CLE vs. WAS W 21 13 6 9 66.7 0 0 - 1 2 50.0 0 1 1 3 1 2 3 2 -
+p355
+aVMark Price CLE 02/10/1988 CLE vs. WAS W 35 18 8 12 66.7 0 1 0.0 2 3 66.7 2 2 4 5 3 1 4 3 -
+p356
+aVMark West CLE 02/10/1988 CLE vs. WAS W 18 6 3 5 60.0 0 0 - 0 3 0.0 1 4 5 0 3 0 1 1 -
+p357
+aVDell Curry CLE 02/10/1988 CLE vs. WAS W 16 9 4 8 50.0 1 1 100.0 0 0 - 0 3 3 2 0 0 0 2 -
+p358
+aVTyrone Corbin CLE 02/10/1988 CLE vs. WAS W 25 11 4 6 66.7 0 0 - 3 3 100.0 2 2 4 2 1 2 3 1 -
+p359
+aVRon Harper CLE 02/09/1988 CLE @ MIL L 38 16 6 16 37.5 0 0 - 4 6 66.7 2 1 3 10 4 0 1 2 -
+p360
+aVDell Curry CLE 02/09/1988 CLE @ MIL L 34 13 6 14 42.9 1 2 50.0 0 0 - 0 2 2 1 0 0 1 3 -
+p361
+aVHot Rod Williams CLE 02/09/1988 CLE @ MIL L 25 6 3 6 50.0 0 0 - 0 0 - 1 6 7 2 0 3 1 3 -
+p362
+aVMark Price CLE 02/09/1988 CLE @ MIL L 28 11 5 10 50.0 1 2 50.0 0 0 - 0 2 2 3 2 0 2 1 -
+p363
+aVChris Dudley CLE 02/09/1988 CLE @ MIL L 18 14 5 9 55.6 0 0 - 4 4 100.0 7 1 8 0 0 0 0 3 -
+p364
+aVBrad Daugherty CLE 02/09/1988 CLE @ MIL L 37 19 6 15 40.0 0 0 - 7 8 87.5 2 8 10 8 0 0 4 4 -
+p365
+aVKevin Johnson CLE 02/09/1988 CLE @ MIL L 22 13 5 9 55.6 0 0 - 3 5 60.0 0 0 0 4 4 1 0 2 -
+p366
+aVPhil Hubbard CLE 02/09/1988 CLE @ MIL L 6 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 0 2 2 -
+p367
+aVTyrone Corbin CLE 02/09/1988 CLE @ MIL L 12 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 0 0 2 1 -
+p368
+aVMark West CLE 02/09/1988 CLE @ MIL L 20 7 3 9 33.3 0 0 - 1 3 33.3 3 3 6 0 0 0 3 4 -
+p369
+aVTyrone Corbin CLE 02/04/1988 CLE vs. GOS L 21 4 2 5 40.0 0 0 - 0 2 0.0 2 2 4 1 0 0 0 0 -
+p370
+aVDell Curry CLE 02/04/1988 CLE vs. GOS L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -
+p371
+aVCraig Ehlo CLE 02/04/1988 CLE vs. GOS L 25 6 3 11 27.3 0 2 0.0 0 0 - 4 2 6 1 0 0 4 2 -
+p372
+aVRon Harper CLE 02/04/1988 CLE vs. GOS L 37 22 10 18 55.6 0 0 - 2 5 40.0 1 2 3 7 7 4 6 2 -
+p373
+aVMark Price CLE 02/04/1988 CLE vs. GOS L 40 19 8 15 53.3 1 4 25.0 2 5 40.0 1 1 2 8 1 0 2 1 -
+p374
+aVHot Rod Williams CLE 02/04/1988 CLE vs. GOS L 35 12 5 9 55.6 0 0 - 2 4 50.0 2 3 5 1 2 1 0 3 -
+p375
+aVKevin Johnson CLE 02/04/1988 CLE vs. GOS L 20 6 3 6 50.0 0 0 - 0 0 - 0 2 2 3 2 0 1 2 -
+p376
+aVPhil Hubbard CLE 02/04/1988 CLE vs. GOS L 23 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -
+p377
+aVMark West CLE 02/04/1988 CLE vs. GOS L 13 1 0 2 0.0 0 0 - 1 4 25.0 0 4 4 0 0 3 1 3 -
+p378
+aVBrad Daugherty CLE 02/04/1988 CLE vs. GOS L 47 14 6 14 42.9 0 0 - 2 4 50.0 0 10 10 6 2 1 5 3 -
+p379
+aVKent Benson CLE 02/03/1988 CLE @ WAS W 7 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 1 1 1 1 -
+p380
+aVCraig Ehlo CLE 02/03/1988 CLE @ WAS W 18 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 3 1 1 0 1 -
+p381
+aVKevin Johnson CLE 02/03/1988 CLE @ WAS W 17 3 1 6 16.7 0 0 - 1 1 100.0 0 0 0 2 1 0 2 2 -
+p382
+aVTyrone Corbin CLE 02/03/1988 CLE @ WAS W 16 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 1 0 2 0 -
+p383
+aVHot Rod Williams CLE 02/03/1988 CLE @ WAS W 37 23 11 16 68.8 0 0 - 1 3 33.3 3 4 7 1 1 9 0 5 -
+p384
+aVDell Curry CLE 02/03/1988 CLE @ WAS W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p385
+aVRon Harper CLE 02/03/1988 CLE @ WAS W 28 18 7 10 70.0 0 1 0.0 4 5 80.0 1 3 4 8 2 3 2 2 -
+p386
+aVBrad Daugherty CLE 02/03/1988 CLE @ WAS W 40 20 9 15 60.0 0 0 - 2 3 66.7 3 7 10 11 0 1 1 4 -
+p387
+aVMark Price CLE 02/03/1988 CLE @ WAS W 34 16 7 13 53.8 0 0 - 2 3 66.7 1 2 3 5 0 0 4 1 -
+p388
+aVPhil Hubbard CLE 02/03/1988 CLE @ WAS W 26 7 3 9 33.3 0 0 - 1 2 50.0 2 4 6 3 0 1 2 2 -
+p389
+aVMark West CLE 02/03/1988 CLE @ WAS W 12 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 0 0 0 4 -
+p390
+aVCraig Ehlo CLE 02/01/1988 CLE vs. DET W 17 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 1 1 1 -
+p391
+aVDell Curry CLE 02/01/1988 CLE vs. DET W 9 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -
+p392
+aVHot Rod Williams CLE 02/01/1988 CLE vs. DET W 45 20 8 16 50.0 0 0 - 4 4 100.0 6 9 15 2 2 4 1 3 -
+p393
+aVPhil Hubbard CLE 02/01/1988 CLE vs. DET W 33 7 3 6 50.0 0 0 - 1 5 20.0 1 8 9 4 2 1 0 2 -
+p394
+aVBrad Daugherty CLE 02/01/1988 CLE vs. DET W 38 15 6 16 37.5 0 0 - 3 8 37.5 3 7 10 3 0 3 3 1 -
+p395
+aVTyrone Corbin CLE 02/01/1988 CLE vs. DET W 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -
+p396
+aVMark West CLE 02/01/1988 CLE vs. DET W 13 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 1 2 3 2 -
+p397
+aVRon Harper CLE 02/01/1988 CLE vs. DET W 35 23 10 17 58.8 0 0 - 3 4 75.0 1 1 2 2 1 1 1 4 -
+p398
+aVKevin Johnson CLE 02/01/1988 CLE vs. DET W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p399
+aVMark Price CLE 02/01/1988 CLE vs. DET W 41 20 7 17 41.2 0 2 0.0 6 6 100.0 0 4 4 10 0 1 2 2 -
+p400
+aVKevin Johnson CLE 01/30/1988 CLE vs. WAS W 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 1 1 2 -
+p401
+aVMark Price CLE 01/30/1988 CLE vs. WAS W 44 26 10 20 50.0 1 3 33.3 5 5 100.0 2 3 5 9 1 1 2 5 -
+p402
+aVPhil Hubbard CLE 01/30/1988 CLE vs. WAS W 25 8 3 6 50.0 0 0 - 2 4 50.0 0 2 2 1 1 0 1 3 -
+p403
+aVCraig Ehlo CLE 01/30/1988 CLE vs. WAS W 20 6 2 3 66.7 0 0 - 2 5 40.0 2 3 5 2 0 0 0 3 -
+p404
+aVBrad Daugherty CLE 01/30/1988 CLE vs. WAS W 44 29 12 16 75.0 0 0 - 5 6 83.3 0 4 4 2 0 1 3 3 -
+p405
+aVDell Curry CLE 01/30/1988 CLE vs. WAS W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p406
+aVTyrone Corbin CLE 01/30/1988 CLE vs. WAS W 12 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p407
+aVMark West CLE 01/30/1988 CLE vs. WAS W 20 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 2 1 1 3 2 -
+p408
+aVHot Rod Williams CLE 01/30/1988 CLE vs. WAS W 39 20 8 14 57.1 0 0 - 4 6 66.7 7 7 14 0 0 2 3 3 -
+p409
+aVRon Harper CLE 01/30/1988 CLE vs. WAS W 43 27 11 22 50.0 0 0 - 5 7 71.4 2 1 3 9 3 1 1 5 -
+p410
+aVKevin Johnson CLE 01/28/1988 CLE @ HOU W 16 8 2 6 33.3 0 0 - 4 4 100.0 0 2 2 1 1 0 2 3 -
+p411
+aVChris Dudley CLE 01/28/1988 CLE @ HOU W 20 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 1 3 1 1 1 -
+p412
+aVRon Harper CLE 01/28/1988 CLE @ HOU W 26 8 3 9 33.3 0 0 - 2 4 50.0 0 0 0 2 2 0 0 1 -
+p413
+aVPhil Hubbard CLE 01/28/1988 CLE @ HOU W 25 16 5 9 55.6 0 0 - 6 9 66.7 3 3 6 1 3 0 4 1 -
+p414
+aVCraig Ehlo CLE 01/28/1988 CLE @ HOU W 6 6 1 1 100.0 1 1 100.0 3 4 75.0 0 2 2 1 1 0 1 1 -
+p415
+aVMark Price CLE 01/28/1988 CLE @ HOU W 32 17 6 12 50.0 2 3 66.7 3 3 100.0 0 2 2 6 0 0 2 1 -
+p416
+aVMark West CLE 01/28/1988 CLE @ HOU W 20 6 3 5 60.0 0 0 - 0 0 - 1 3 4 2 0 0 1 4 -
+p417
+aVHot Rod Williams CLE 01/28/1988 CLE @ HOU W 29 8 2 14 14.3 0 0 - 4 4 100.0 4 5 9 0 0 0 0 2 -
+p418
+aVBrad Daugherty CLE 01/28/1988 CLE @ HOU W 27 18 7 10 70.0 0 0 - 4 6 66.7 3 4 7 4 2 0 2 4 -
+p419
+aVDell Curry CLE 01/28/1988 CLE @ HOU W 16 5 2 10 20.0 0 1 0.0 1 1 100.0 1 2 3 1 2 0 0 1 -
+p420
+aVTyrone Corbin CLE 01/28/1988 CLE @ HOU W 23 12 6 8 75.0 0 0 - 0 0 - 5 7 12 1 0 0 1 2 -
+p421
+aVChris Dudley CLE 01/27/1988 CLE @ SAN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p422
+aVDell Curry CLE 01/27/1988 CLE @ SAN W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -
+p423
+aVBrad Daugherty CLE 01/27/1988 CLE @ SAN W 38 17 7 14 50.0 0 0 - 3 7 42.9 3 10 13 4 0 1 4 2 -
+p424
+aVMark Price CLE 01/27/1988 CLE @ SAN W 37 19 9 18 50.0 0 2 0.0 1 2 50.0 0 0 0 6 5 0 2 2 -
+p425
+aVTyrone Corbin CLE 01/27/1988 CLE @ SAN W 28 21 8 10 80.0 0 0 - 5 6 83.3 2 6 8 3 0 1 2 3 -
+p426
+aVHot Rod Williams CLE 01/27/1988 CLE @ SAN W 24 10 4 7 57.1 0 0 - 2 2 100.0 3 5 8 0 1 0 0 5 -
+p427
+aVCraig Ehlo CLE 01/27/1988 CLE @ SAN W 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -
+p428
+aVPhil Hubbard CLE 01/27/1988 CLE @ SAN W 20 6 2 5 40.0 0 0 - 2 4 50.0 1 3 4 1 0 0 1 1 -
+p429
+aVRon Harper CLE 01/27/1988 CLE @ SAN W 30 16 6 19 31.6 0 1 0.0 4 4 100.0 2 0 2 6 2 0 0 3 -
+p430
+aVMark West CLE 01/27/1988 CLE @ SAN W 24 10 3 5 60.0 0 0 - 4 8 50.0 2 1 3 1 0 0 0 5 -
+p431
+aVKevin Johnson CLE 01/27/1988 CLE @ SAN W 20 7 3 6 50.0 0 0 - 1 1 100.0 1 0 1 6 2 0 3 0 -
+p432
+aVKevin Johnson CLE 01/25/1988 CLE @ UTH L 29 11 3 8 37.5 0 0 - 5 6 83.3 0 1 1 5 4 0 3 2 -
+p433
+aVMark Price CLE 01/25/1988 CLE @ UTH L 25 14 4 8 50.0 0 1 0.0 6 6 100.0 1 3 4 2 2 0 3 0 -
+p434
+aVDell Curry CLE 01/25/1988 CLE @ UTH L 15 4 2 8 25.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 2 -
+p435
+aVCraig Ehlo CLE 01/25/1988 CLE @ UTH L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p436
+aVPhil Hubbard CLE 01/25/1988 CLE @ UTH L 16 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 1 0 2 3 -
+p437
+aVBrad Daugherty CLE 01/25/1988 CLE @ UTH L 38 14 6 17 35.3 0 0 - 2 4 50.0 4 4 8 4 1 0 2 3 -
+p438
+aVChris Dudley CLE 01/25/1988 CLE @ UTH L 9 5 2 5 40.0 0 0 - 1 2 50.0 4 3 7 1 1 0 0 1 -
+p439
+aVTyrone Corbin CLE 01/25/1988 CLE @ UTH L 12 8 3 8 37.5 0 0 - 2 2 100.0 3 2 5 0 1 1 2 0 -
+p440
+aVMark West CLE 01/25/1988 CLE @ UTH L 29 14 7 12 58.3 0 0 - 0 1 0.0 5 3 8 2 0 0 2 3 -
+p441
+aVRon Harper CLE 01/25/1988 CLE @ UTH L 29 6 3 15 20.0 0 1 0.0 0 0 - 0 2 2 4 2 0 1 3 -
+p442
+aVHot Rod Williams CLE 01/25/1988 CLE @ UTH L 27 13 4 8 50.0 0 0 - 5 6 83.3 4 1 5 1 1 2 1 1 -
+p443
+aVJohnny Rogers CLE 01/25/1988 CLE @ UTH L 4 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p444
+aVKevin Johnson CLE 01/23/1988 CLE vs. BOS W 21 8 4 5 80.0 0 0 - 0 0 - 0 2 2 6 0 0 1 1 -
+p445
+aVHot Rod Williams CLE 01/23/1988 CLE vs. BOS W 37 16 6 9 66.7 0 0 - 4 4 100.0 2 7 9 2 2 2 1 4 -
+p446
+aVTyrone Corbin CLE 01/23/1988 CLE vs. BOS W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p447
+aVBrad Daugherty CLE 01/23/1988 CLE vs. BOS W 39 19 8 13 61.5 0 0 - 3 6 50.0 1 7 8 3 0 1 1 2 -
+p448
+aVMark West CLE 01/23/1988 CLE vs. BOS W 17 12 4 5 80.0 0 0 - 4 4 100.0 2 4 6 1 0 0 0 1 -
+p449
+aVPhil Hubbard CLE 01/23/1988 CLE vs. BOS W 20 4 1 5 20.0 0 0 - 2 4 50.0 1 2 3 4 0 0 0 5 -
+p450
+aVChris Dudley CLE 01/23/1988 CLE vs. BOS W 3 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -
+p451
+aVMark Price CLE 01/23/1988 CLE vs. BOS W 27 16 5 8 62.5 2 2 100.0 4 4 100.0 0 0 0 2 1 0 1 0 -
+p452
+aVCraig Ehlo CLE 01/23/1988 CLE vs. BOS W 20 7 3 8 37.5 1 1 100.0 0 0 - 1 2 3 4 2 1 2 4 -
+p453
+aVDell Curry CLE 01/23/1988 CLE vs. BOS W 22 23 10 14 71.4 3 4 75.0 0 0 - 1 3 4 1 0 1 1 4 -
+p454
+aVRon Harper CLE 01/23/1988 CLE vs. BOS W 32 13 6 17 35.3 0 0 - 1 2 50.0 0 3 3 6 3 2 2 0 -
+p455
+aVDell Curry CLE 01/21/1988 CLE vs. ATL L 10 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 4 0 0 2 3 -
+p456
+aVCraig Ehlo CLE 01/21/1988 CLE vs. ATL L 9 0 0 3 0.0 0 2 0.0 0 2 0.0 1 2 3 3 0 0 1 1 -
+p457
+aVRon Harper CLE 01/21/1988 CLE vs. ATL L 25 6 3 10 30.0 0 0 - 0 0 - 1 3 4 3 1 1 1 1 -
+p458
+aVBrad Daugherty CLE 01/21/1988 CLE vs. ATL L 45 25 10 19 52.6 0 0 - 5 5 100.0 3 8 11 4 1 1 5 4 -
+p459
+aVKevin Johnson CLE 01/21/1988 CLE vs. ATL L 25 10 5 10 50.0 0 0 - 0 1 0.0 1 3 4 3 0 1 3 3 -
+p460
+aVMark West CLE 01/21/1988 CLE vs. ATL L 14 6 3 3 100.0 0 0 - 0 0 - 0 4 4 0 0 1 0 4 -
+p461
+aVPhil Hubbard CLE 01/21/1988 CLE vs. ATL L 12 9 3 4 75.0 0 0 - 3 3 100.0 1 0 1 2 0 0 1 2 -
+p462
+aVTyrone Corbin CLE 01/21/1988 CLE vs. ATL L 29 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 0 0 3 -
+p463
+aVHot Rod Williams CLE 01/21/1988 CLE vs. ATL L 37 16 4 9 44.4 0 0 - 8 10 80.0 4 8 12 3 0 2 3 3 -
+p464
+aVMark Price CLE 01/21/1988 CLE vs. ATL L 34 15 5 13 38.5 0 2 0.0 5 5 100.0 0 4 4 3 1 0 1 3 -
+p465
+aVKevin Johnson CLE 01/17/1988 CLE @ MIL L 27 10 5 6 83.3 0 0 - 0 0 - 0 3 3 5 1 0 1 0 -
+p466
+aVPhil Hubbard CLE 01/17/1988 CLE @ MIL L 15 7 3 4 75.0 0 0 - 1 1 100.0 0 2 2 0 0 0 1 3 -
+p467
+aVJohnny Rogers CLE 01/17/1988 CLE @ MIL L 13 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 3 -
+p468
+aVRon Harper CLE 01/17/1988 CLE @ MIL L 27 14 6 13 46.2 0 0 - 2 2 100.0 2 2 4 6 0 0 3 3 -
+p469
+aVChris Dudley CLE 01/17/1988 CLE @ MIL L 10 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -
+p470
+aVMark Price CLE 01/17/1988 CLE @ MIL L 21 4 2 6 33.3 0 0 - 0 0 - 0 1 1 3 1 1 0 1 -
+p471
+aVTyrone Corbin CLE 01/17/1988 CLE @ MIL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p472
+aVMark West CLE 01/17/1988 CLE @ MIL L 25 4 1 4 25.0 0 0 - 2 4 50.0 1 3 4 1 1 4 1 4 -
+p473
+aVDell Curry CLE 01/17/1988 CLE @ MIL L 22 14 7 12 58.3 0 0 - 0 0 - 0 2 2 0 2 0 3 3 -
+p474
+aVHot Rod Williams CLE 01/17/1988 CLE @ MIL L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -
+p475
+aVBrad Daugherty CLE 01/17/1988 CLE @ MIL L 37 19 6 11 54.5 0 0 - 7 8 87.5 2 6 8 5 0 1 3 3 -
+p476
+aVCraig Ehlo CLE 01/17/1988 CLE @ MIL L 21 9 4 9 44.4 1 1 100.0 0 0 - 1 4 5 1 1 0 0 4 -
+p477
+aVMark West CLE 01/15/1988 CLE @ DET L 26 13 4 8 50.0 0 0 - 5 5 100.0 2 6 8 0 2 3 1 3 -
+p478
+aVBrad Daugherty CLE 01/15/1988 CLE @ DET L 39 20 7 15 46.7 0 0 - 6 10 60.0 2 8 10 2 1 1 3 2 -
+p479
+aVMark Price CLE 01/15/1988 CLE @ DET L 20 8 4 13 30.8 0 0 - 0 0 - 0 0 0 1 2 0 3 1 -
+p480
+aVCraig Ehlo CLE 01/15/1988 CLE @ DET L 22 0 0 4 0.0 0 0 - 0 0 - 4 3 7 3 0 0 1 0 -
+p481
+aVTyrone Corbin CLE 01/15/1988 CLE @ DET L 19 8 4 6 66.7 0 0 - 0 0 - 1 2 3 2 1 0 0 4 -
+p482
+aVDell Curry CLE 01/15/1988 CLE @ DET L 21 14 7 12 58.3 0 0 - 0 0 - 1 1 2 4 0 0 4 0 -
+p483
+aVKevin Johnson CLE 01/15/1988 CLE @ DET L 31 10 5 12 41.7 0 0 - 0 1 0.0 0 0 0 7 2 0 2 5 -
+p484
+aVPhil Hubbard CLE 01/15/1988 CLE @ DET L 17 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 0 1 0 4 3 -
+p485
+aVRon Harper CLE 01/15/1988 CLE @ DET L 21 4 1 6 16.7 0 0 - 2 2 100.0 0 3 3 4 1 0 0 3 -
+p486
+aVHot Rod Williams CLE 01/15/1988 CLE @ DET L 24 10 4 9 44.4 0 0 - 2 4 50.0 5 3 8 3 1 2 2 1 -
+p487
+aVMark West CLE 01/14/1988 CLE vs. CHI W 26 7 3 5 60.0 0 0 - 1 4 25.0 2 3 5 0 2 1 1 1 -
+p488
+aVMark Price CLE 01/14/1988 CLE vs. CHI W 45 15 5 14 35.7 1 1 100.0 4 4 100.0 1 2 3 6 1 0 0 0 -
+p489
+aVDell Curry CLE 01/14/1988 CLE vs. CHI W 9 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -
+p490
+aVBrad Daugherty CLE 01/14/1988 CLE vs. CHI W 35 16 6 13 46.2 0 0 - 4 5 80.0 1 4 5 4 0 0 4 4 -
+p491
+aVTyrone Corbin CLE 01/14/1988 CLE vs. CHI W 11 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 1 0 2 1 -
+p492
+aVHot Rod Williams CLE 01/14/1988 CLE vs. CHI W 28 7 2 5 40.0 0 0 - 3 3 100.0 1 6 7 1 1 1 4 4 -
+p493
+aVCraig Ehlo CLE 01/14/1988 CLE vs. CHI W 32 13 4 7 57.1 1 1 100.0 4 4 100.0 0 8 8 2 2 0 1 3 -
+p494
+aVKevin Johnson CLE 01/14/1988 CLE vs. CHI W 14 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 4 2 1 1 1 -
+p495
+aVPhil Hubbard CLE 01/14/1988 CLE vs. CHI W 34 5 2 8 25.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 1 -
+p496
+aVRon Harper CLE 01/14/1988 CLE vs. CHI W 31 16 6 17 35.3 0 0 - 4 6 66.7 3 2 5 0 3 1 1 3 -
+p497
+aVTyrone Corbin CLE 01/12/1988 CLE vs. NYK W 19 3 1 7 14.3 0 0 - 1 2 50.0 2 3 5 1 1 0 3 2 -
+p498
+aVMark West CLE 01/12/1988 CLE vs. NYK W 17 10 4 7 57.1 0 0 - 2 3 66.7 2 1 3 0 1 4 2 6 -
+p499
+aVHot Rod Williams CLE 01/12/1988 CLE vs. NYK W 9 10 4 5 80.0 0 0 - 2 2 100.0 5 3 8 1 0 1 0 1 -
+p500
+aVChris Dudley CLE 01/12/1988 CLE vs. NYK W 10 6 2 2 100.0 0 0 - 2 4 50.0 4 2 6 0 0 1 1 1 -
+p501
+aVBrad Daugherty CLE 01/12/1988 CLE vs. NYK W 21 11 5 9 55.6 0 0 - 1 2 50.0 2 2 4 1 0 2 2 6 -
+p502
+aVPhil Hubbard CLE 01/12/1988 CLE vs. NYK W 31 9 0 10 0.0 0 1 0.0 9 12 75.0 3 3 6 0 1 0 5 4 -
+p503
+aVRon Harper CLE 01/12/1988 CLE vs. NYK W 22 10 4 10 40.0 0 1 0.0 2 5 40.0 1 1 2 3 1 2 1 0 -
+p504
+aVMark Price CLE 01/12/1988 CLE vs. NYK W 36 29 9 14 64.3 2 3 66.7 9 9 100.0 2 3 5 5 2 0 4 3 -
+p505
+aVJohnny Rogers CLE 01/12/1988 CLE vs. NYK W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -
+p506
+aVKevin Johnson CLE 01/12/1988 CLE vs. NYK W 12 7 2 3 66.7 0 1 0.0 3 3 100.0 0 0 0 4 0 1 3 2 -
+p507
+aVDell Curry CLE 01/12/1988 CLE vs. NYK W 12 8 3 6 50.0 0 1 0.0 2 3 66.7 0 0 0 1 2 0 1 1 -
+p508
+aVCraig Ehlo CLE 01/12/1988 CLE vs. NYK W 36 14 5 9 55.6 0 0 - 4 4 100.0 2 3 5 2 1 0 2 2 -
+p509
+aVHot Rod Williams CLE 01/09/1988 CLE @ PHL L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 3 -
+p510
+aVRon Harper CLE 01/09/1988 CLE @ PHL L 20 5 1 3 33.3 0 0 - 3 4 75.0 0 3 3 4 2 1 2 3 -
+p511
+aVChris Dudley CLE 01/09/1988 CLE @ PHL L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p512
+aVTyrone Corbin CLE 01/09/1988 CLE @ PHL L 12 0 0 3 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -
+p513
+aVBrad Daugherty CLE 01/09/1988 CLE @ PHL L 39 20 7 10 70.0 0 0 - 6 11 54.5 1 4 5 2 0 1 2 2 -
+p514
+aVKevin Johnson CLE 01/09/1988 CLE @ PHL L 15 7 3 5 60.0 0 1 0.0 1 1 100.0 0 0 0 5 0 0 1 0 -
+p515
+aVDell Curry CLE 01/09/1988 CLE @ PHL L 21 14 6 14 42.9 0 0 - 2 2 100.0 0 3 3 0 2 0 0 2 -
+p516
+aVMark West CLE 01/09/1988 CLE @ PHL L 19 12 5 7 71.4 0 0 - 2 6 33.3 3 3 6 0 2 1 3 4 -
+p517
+aVCraig Ehlo CLE 01/09/1988 CLE @ PHL L 25 10 5 10 50.0 0 3 0.0 0 0 - 2 3 5 4 0 0 2 1 -
+p518
+aVPhil Hubbard CLE 01/09/1988 CLE @ PHL L 34 15 5 9 55.6 0 0 - 5 6 83.3 3 1 4 2 1 0 1 4 -
+p519
+aVMark Price CLE 01/09/1988 CLE @ PHL L 37 23 9 17 52.9 3 3 100.0 2 2 100.0 1 0 1 6 2 0 0 1 -
+p520
+aVBrad Daugherty CLE 01/08/1988 CLE @ ATL L 30 15 7 14 50.0 0 0 - 1 4 25.0 4 9 13 4 0 2 3 4 -
+p521
+aVMark West CLE 01/08/1988 CLE @ ATL L 25 14 7 10 70.0 0 0 - 0 0 - 3 2 5 2 1 2 0 4 -
+p522
+aVDell Curry CLE 01/08/1988 CLE @ ATL L 25 10 5 12 41.7 0 1 0.0 0 0 - 2 1 3 3 2 0 2 2 -
+p523
+aVKevin Johnson CLE 01/08/1988 CLE @ ATL L 17 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 1 -
+p524
+aVMark Price CLE 01/08/1988 CLE @ ATL L 32 14 6 14 42.9 1 2 50.0 1 2 50.0 2 3 5 4 0 0 1 2 -
+p525
+aVCraig Ehlo CLE 01/08/1988 CLE @ ATL L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -
+p526
+aVHot Rod Williams CLE 01/08/1988 CLE @ ATL L 23 10 3 9 33.3 0 0 - 4 5 80.0 0 6 6 2 1 1 1 2 -
+p527
+aVPhil Hubbard CLE 01/08/1988 CLE @ ATL L 26 17 7 12 58.3 0 0 - 3 4 75.0 4 5 9 2 0 0 2 2 -
+p528
+aVTyrone Corbin CLE 01/08/1988 CLE @ ATL L 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -
+p529
+aVRon Harper CLE 01/08/1988 CLE @ ATL L 31 7 3 11 27.3 0 1 0.0 1 2 50.0 0 0 0 3 4 0 2 4 -
+p530
+aVDell Curry CLE 01/06/1988 CLE vs. LAC W 20 6 3 10 30.0 0 0 - 0 0 - 1 2 3 2 3 1 2 1 -
+p531
+aVHot Rod Williams CLE 01/06/1988 CLE vs. LAC W 20 11 4 8 50.0 0 0 - 3 3 100.0 2 2 4 0 0 3 1 1 -
+p532
+aVMark Price CLE 01/06/1988 CLE vs. LAC W 29 14 5 8 62.5 1 1 100.0 3 4 75.0 1 1 2 6 0 0 2 1 -
+p533
+aVKevin Johnson CLE 01/06/1988 CLE vs. LAC W 20 12 4 8 50.0 0 0 - 4 4 100.0 0 2 2 4 1 0 1 1 -
+p534
+aVPhil Hubbard CLE 01/06/1988 CLE vs. LAC W 6 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -
+p535
+aVMark West CLE 01/06/1988 CLE vs. LAC W 22 10 5 8 62.5 0 0 - 0 0 - 3 3 6 2 1 6 1 1 -
+p536
+aVRon Harper CLE 01/06/1988 CLE vs. LAC W 28 16 7 12 58.3 0 0 - 2 2 100.0 0 1 1 3 3 3 2 3 -
+p537
+aVChris Dudley CLE 01/06/1988 CLE vs. LAC W 3 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -
+p538
+aVTyrone Corbin CLE 01/06/1988 CLE vs. LAC W 20 8 4 6 66.7 0 0 - 0 0 - 2 1 3 1 1 0 0 2 -
+p539
+aVCraig Ehlo CLE 01/06/1988 CLE vs. LAC W 28 4 2 7 28.6 0 0 - 0 0 - 2 5 7 6 2 0 3 4 -
+p540
+aVJohnny Rogers CLE 01/06/1988 CLE vs. LAC W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -
+p541
+aVBrad Daugherty CLE 01/06/1988 CLE vs. LAC W 41 29 11 14 78.6 0 0 - 7 11 63.6 2 8 10 0 1 1 3 2 -
+p542
+aVMark Price CLE 01/04/1988 CLE vs. DEN W 33 23 10 17 58.8 2 2 100.0 1 1 100.0 0 3 3 6 1 1 1 0 -
+p543
+aVChris Dudley CLE 01/04/1988 CLE vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p544
+aVMark West CLE 01/04/1988 CLE vs. DEN W 22 15 5 7 71.4 0 0 - 5 6 83.3 1 8 9 5 0 1 3 3 -
+p545
+aVPhil Hubbard CLE 01/04/1988 CLE vs. DEN W 18 8 4 4 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -
+p546
+aVKevin Johnson CLE 01/04/1988 CLE vs. DEN W 21 4 2 4 50.0 0 0 - 0 0 - 0 3 3 5 0 0 1 2 -
+p547
+aVRon Harper CLE 01/04/1988 CLE vs. DEN W 29 9 3 10 30.0 0 0 - 3 3 100.0 0 6 6 9 0 1 3 0 -
+p548
+aVTyrone Corbin CLE 01/04/1988 CLE vs. DEN W 19 9 4 5 80.0 0 0 - 1 2 50.0 1 1 2 0 1 1 2 4 -
+p549
+aVCraig Ehlo CLE 01/04/1988 CLE vs. DEN W 31 12 6 9 66.7 0 1 0.0 0 0 - 0 4 4 4 1 4 0 1 -
+p550
+aVDell Curry CLE 01/04/1988 CLE vs. DEN W 11 8 4 8 50.0 0 0 - 0 0 - 1 0 1 3 4 0 2 1 -
+p551
+aVHot Rod Williams CLE 01/04/1988 CLE vs. DEN W 27 7 3 10 30.0 0 0 - 1 1 100.0 3 6 9 1 0 3 2 4 -
+p552
+aVBrad Daugherty CLE 01/04/1988 CLE vs. DEN W 24 25 7 9 77.8 0 0 - 11 13 84.6 1 6 7 2 0 0 4 2 -
+p553
+aVJohnny Rogers CLE 01/04/1988 CLE vs. DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -
+p554
+aVHot Rod Williams CLE 01/02/1988 CLE vs. PHX W 23 8 4 7 57.1 0 0 - 0 0 - 2 4 6 0 3 0 1 3 -
+p555
+aVKevin Johnson CLE 01/02/1988 CLE vs. PHX W 17 13 4 8 50.0 0 0 - 5 6 83.3 0 0 0 6 4 1 1 2 -
+p556
+aVRon Harper CLE 01/02/1988 CLE vs. PHX W 24 10 3 8 37.5 0 0 - 4 6 66.7 0 1 1 2 0 3 4 3 -
+p557
+aVTyrone Corbin CLE 01/02/1988 CLE vs. PHX W 21 10 4 6 66.7 0 0 - 2 2 100.0 0 3 3 2 0 0 2 3 -
+p558
+aVCraig Ehlo CLE 01/02/1988 CLE vs. PHX W 22 8 3 6 50.0 0 1 0.0 2 3 66.7 2 1 3 0 1 0 2 4 -
+p559
+aVDell Curry CLE 01/02/1988 CLE vs. PHX W 25 18 7 15 46.7 0 3 0.0 4 6 66.7 2 3 5 0 2 1 0 4 -
+p560
+aVJohnny Rogers CLE 01/02/1988 CLE vs. PHX W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p561
+aVPhil Hubbard CLE 01/02/1988 CLE vs. PHX W 22 15 4 9 44.4 0 0 - 7 8 87.5 3 2 5 3 2 0 1 1 -
+p562
+aVMark Price CLE 01/02/1988 CLE vs. PHX W 32 21 9 17 52.9 0 1 0.0 3 3 100.0 2 4 6 5 1 0 1 1 -
+p563
+aVMark West CLE 01/02/1988 CLE vs. PHX W 36 13 4 8 50.0 0 0 - 5 6 83.3 4 11 15 1 1 3 2 2 -
+p564
+aVChris Dudley CLE 01/02/1988 CLE vs. PHX W 12 4 2 3 66.7 0 0 - 0 3 0.0 1 3 4 3 1 0 0 2 -
+p565
+aVChris Dudley CLE 12/30/1987 CLE vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p566
+aVDell Curry CLE 12/30/1987 CLE vs. ATL L 21 25 11 14 78.6 2 4 50.0 1 2 50.0 1 1 2 0 2 0 0 2 -
+p567
+aVMark West CLE 12/30/1987 CLE vs. ATL L 17 6 2 2 100.0 0 0 - 2 4 50.0 2 2 4 1 1 0 2 4 -
+p568
+aVTyrone Corbin CLE 12/30/1987 CLE vs. ATL L 21 10 3 6 50.0 0 0 - 4 4 100.0 0 5 5 1 0 0 0 2 -
+p569
+aVKevin Johnson CLE 12/30/1987 CLE vs. ATL L 15 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 3 1 1 2 0 -
+p570
+aVMark Price CLE 12/30/1987 CLE vs. ATL L 40 19 9 20 45.0 1 3 33.3 0 0 - 1 1 2 7 1 0 1 2 -
+p571
+aVHot Rod Williams CLE 12/30/1987 CLE vs. ATL L 26 8 3 5 60.0 0 0 - 2 3 66.7 3 3 6 0 1 0 3 3 -
+p572
+aVPhil Hubbard CLE 12/30/1987 CLE vs. ATL L 24 7 2 6 33.3 0 0 - 3 4 75.0 1 2 3 2 1 0 5 4 -
+p573
+aVCraig Ehlo CLE 12/30/1987 CLE vs. ATL L 17 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 5 -
+p574
+aVBrad Daugherty CLE 12/30/1987 CLE vs. ATL L 37 17 4 11 36.4 0 0 - 9 17 52.9 2 7 9 7 2 0 3 3 -
+p575
+aVRon Harper CLE 12/30/1987 CLE vs. ATL L 21 12 4 14 28.6 0 2 0.0 4 5 80.0 1 1 2 3 2 0 1 3 -
+p576
+aVCraig Ehlo CLE 12/27/1987 CLE @ NJN L 21 8 4 7 57.1 0 1 0.0 0 0 - 1 1 2 1 0 1 4 3 -
+p577
+aVChris Dudley CLE 12/27/1987 CLE @ NJN L 11 3 1 3 33.3 0 0 - 1 2 50.0 3 2 5 1 0 1 1 2 -
+p578
+aVMark Price CLE 12/27/1987 CLE @ NJN L 31 20 9 14 64.3 1 2 50.0 1 1 100.0 1 1 2 5 3 0 5 1 -
+p579
+aVPhil Hubbard CLE 12/27/1987 CLE @ NJN L 31 8 4 8 50.0 0 0 - 0 0 - 0 3 3 1 2 0 3 2 -
+p580
+aVMark West CLE 12/27/1987 CLE @ NJN L 14 5 2 5 40.0 0 0 - 1 1 100.0 1 3 4 1 0 2 1 2 -
+p581
+aVDell Curry CLE 12/27/1987 CLE @ NJN L 19 10 4 9 44.4 0 0 - 2 2 100.0 1 2 3 3 1 0 1 3 -
+p582
+aVKevin Johnson CLE 12/27/1987 CLE @ NJN L 25 2 1 10 10.0 0 1 0.0 0 0 - 0 2 2 2 4 0 1 0 -
+p583
+aVHot Rod Williams CLE 12/27/1987 CLE @ NJN L 31 9 3 16 18.8 0 0 - 3 3 100.0 6 5 11 0 1 2 0 1 -
+p584
+aVJohnny Rogers CLE 12/27/1987 CLE @ NJN L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p585
+aVBrad Daugherty CLE 12/27/1987 CLE @ NJN L 33 10 3 7 42.9 0 0 - 4 7 57.1 0 4 4 4 2 0 4 3 -
+p586
+aVTyrone Corbin CLE 12/27/1987 CLE @ NJN L 22 8 4 8 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 2 -
+p587
+aVMark West CLE 12/26/1987 CLE vs. POR W 17 7 3 8 37.5 0 0 - 1 2 50.0 4 0 4 1 0 2 0 4 -
+p588
+aVMark Price CLE 12/26/1987 CLE vs. POR W 31 13 5 11 45.5 2 4 50.0 1 2 50.0 0 2 2 9 3 0 0 2 -
+p589
+aVPhil Hubbard CLE 12/26/1987 CLE vs. POR W 31 21 5 7 71.4 0 0 - 11 15 73.3 6 3 9 1 0 1 2 1 -
+p590
+aVTyrone Corbin CLE 12/26/1987 CLE vs. POR W 18 2 0 6 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 1 -
+p591
+aVKevin Johnson CLE 12/26/1987 CLE vs. POR W 17 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 7 0 0 4 1 -
+p592
+aVHot Rod Williams CLE 12/26/1987 CLE vs. POR W 35 21 7 13 53.8 0 0 - 7 9 77.8 2 9 11 0 0 3 4 6 -
+p593
+aVJohnny Rogers CLE 12/26/1987 CLE vs. POR W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p594
+aVBrad Daugherty CLE 12/26/1987 CLE vs. POR W 33 19 8 16 50.0 0 0 - 3 7 42.9 0 7 7 6 3 1 2 5 -
+p595
+aVCraig Ehlo CLE 12/26/1987 CLE vs. POR W 33 16 5 10 50.0 1 2 50.0 5 8 62.5 0 3 3 4 1 2 0 2 -
+p596
+aVDell Curry CLE 12/26/1987 CLE vs. POR W 20 13 6 13 46.2 1 1 100.0 0 0 - 0 3 3 4 1 1 1 0 -
+p597
+aVTyrone Corbin CLE 12/23/1987 CLE vs. UTH L 30 9 3 8 37.5 0 0 - 3 5 60.0 1 1 2 0 2 0 0 2 -
+p598
+aVBrad Daugherty CLE 12/23/1987 CLE vs. UTH L 44 9 4 11 36.4 0 0 - 1 2 50.0 2 4 6 9 0 1 2 4 -
+p599
+aVMark West CLE 12/23/1987 CLE vs. UTH L 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 0 4 3 -
+p600
+aVKevin Johnson CLE 12/23/1987 CLE vs. UTH L 13 2 0 6 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 2 2 -
+p601
+aVCraig Ehlo CLE 12/23/1987 CLE vs. UTH L 33 11 5 10 50.0 0 2 0.0 1 2 50.0 0 9 9 1 1 1 2 4 -
+p602
+aVDell Curry CLE 12/23/1987 CLE vs. UTH L 20 6 3 10 30.0 0 2 0.0 0 0 - 0 1 1 3 1 0 0 1 -
+p603
+aVHot Rod Williams CLE 12/23/1987 CLE vs. UTH L 35 16 6 13 46.2 0 0 - 4 4 100.0 4 6 10 2 0 2 3 2 -
+p604
+aVMark Price CLE 12/23/1987 CLE vs. UTH L 35 26 8 15 53.3 3 3 100.0 7 7 100.0 3 1 4 4 3 0 1 4 -
+p605
+aVPhil Hubbard CLE 12/23/1987 CLE vs. UTH L 17 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 2 0 2 2 -
+p606
+aVHot Rod Williams CLE 12/22/1987 CLE @ WAS W 32 14 4 8 50.0 0 0 - 6 9 66.7 2 6 8 0 1 3 2 3 -
+p607
+aVTyrone Corbin CLE 12/22/1987 CLE @ WAS W 29 11 3 5 60.0 0 0 - 5 6 83.3 1 4 5 2 3 0 2 4 -
+p608
+aVDell Curry CLE 12/22/1987 CLE @ WAS W 24 13 5 15 33.3 0 0 - 3 3 100.0 1 1 2 1 3 0 1 3 -
+p609
+aVBrad Daugherty CLE 12/22/1987 CLE @ WAS W 28 8 3 7 42.9 0 0 - 2 2 100.0 2 2 4 3 0 2 5 3 -
+p610
+aVCraig Ehlo CLE 12/22/1987 CLE @ WAS W 35 12 6 17 35.3 0 1 0.0 0 1 0.0 5 5 10 4 5 0 4 4 -
+p611
+aVPhil Hubbard CLE 12/22/1987 CLE @ WAS W 20 6 3 9 33.3 0 0 - 0 0 - 2 3 5 3 1 0 0 1 -
+p612
+aVKevin Johnson CLE 12/22/1987 CLE @ WAS W 19 15 5 5 100.0 0 0 - 5 5 100.0 1 2 3 0 0 1 3 3 -
+p613
+aVMark West CLE 12/22/1987 CLE @ WAS W 24 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 3 0 3 1 4 -
+p614
+aVMark Price CLE 12/22/1987 CLE @ WAS W 29 22 9 14 64.3 0 0 - 4 5 80.0 2 1 3 7 0 1 4 0 -
+p615
+aVPhil Hubbard CLE 12/20/1987 CLE vs. IND W 32 18 6 13 46.2 0 1 0.0 6 8 75.0 1 0 1 2 0 0 4 3 -
+p616
+aVMark West CLE 12/20/1987 CLE vs. IND W 14 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 1 2 -
+p617
+aVTyrone Corbin CLE 12/20/1987 CLE vs. IND W 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p618
+aVChris Dudley CLE 12/20/1987 CLE vs. IND W 10 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -
+p619
+aVKevin Johnson CLE 12/20/1987 CLE vs. IND W 25 8 2 6 33.3 0 0 - 4 4 100.0 0 0 0 5 0 1 3 2 -
+p620
+aVCraig Ehlo CLE 12/20/1987 CLE vs. IND W 35 20 6 11 54.5 1 1 100.0 7 7 100.0 5 6 11 4 5 0 3 2 -
+p621
+aVDell Curry CLE 12/20/1987 CLE vs. IND W 19 13 5 12 41.7 2 3 66.7 1 2 50.0 1 0 1 0 2 0 0 0 -
+p622
+aVBrad Daugherty CLE 12/20/1987 CLE vs. IND W 38 19 6 11 54.5 0 0 - 7 10 70.0 2 9 11 9 0 0 3 1 -
+p623
+aVHot Rod Williams CLE 12/20/1987 CLE vs. IND W 34 23 10 14 71.4 0 0 - 3 4 75.0 3 9 12 1 1 3 1 2 -
+p624
+aVMark Price CLE 12/20/1987 CLE vs. IND W 23 14 5 11 45.5 1 4 25.0 3 3 100.0 0 0 0 9 1 0 2 0 -
+p625
+aVKevin Johnson CLE 12/18/1987 CLE vs. NJN W 37 13 4 10 40.0 0 0 - 5 5 100.0 0 1 1 8 5 1 3 3 -
+p626
+aVChris Dudley CLE 12/18/1987 CLE vs. NJN W 12 9 3 6 50.0 0 0 - 3 4 75.0 4 3 7 0 0 2 0 1 -
+p627
+aVPhil Hubbard CLE 12/18/1987 CLE vs. NJN W 16 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 1 1 0 1 0 -
+p628
+aVHot Rod Williams CLE 12/18/1987 CLE vs. NJN W 29 18 7 12 58.3 0 0 - 4 6 66.7 0 2 2 2 1 2 2 0 -
+p629
+aVTyrone Corbin CLE 12/18/1987 CLE vs. NJN W 30 5 1 4 25.0 0 0 - 3 4 75.0 2 6 8 2 1 0 1 4 -
+p630
+aVBrad Daugherty CLE 12/18/1987 CLE vs. NJN W 35 13 5 10 50.0 0 0 - 3 4 75.0 1 8 9 5 1 0 2 1 -
+p631
+aVCraig Ehlo CLE 12/18/1987 CLE vs. NJN W 34 19 5 9 55.6 2 2 100.0 7 8 87.5 2 5 7 1 1 0 1 4 -
+p632
+aVMark West CLE 12/18/1987 CLE vs. NJN W 19 2 1 6 16.7 0 0 - 0 0 - 2 2 4 1 0 1 0 2 -
+p633
+aVDell Curry CLE 12/18/1987 CLE vs. NJN W 28 18 8 15 53.3 0 0 - 2 2 100.0 0 2 2 1 1 0 3 2 -
+p634
+aVDell Curry CLE 12/17/1987 CLE @ CHI L 19 6 2 9 22.2 0 0 - 2 2 100.0 1 2 3 5 0 0 0 2 -
+p635
+aVMark West CLE 12/17/1987 CLE @ CHI L 20 10 4 5 80.0 0 0 - 2 2 100.0 0 3 3 0 0 1 3 4 -
+p636
+aVKevin Johnson CLE 12/17/1987 CLE @ CHI L 42 14 5 13 38.5 0 0 - 4 4 100.0 0 6 6 8 0 0 4 2 -
+p637
+aVBrad Daugherty CLE 12/17/1987 CLE @ CHI L 38 22 9 17 52.9 0 0 - 4 4 100.0 0 6 6 6 0 1 3 5 -
+p638
+aVCraig Ehlo CLE 12/17/1987 CLE @ CHI L 35 15 7 15 46.7 0 0 - 1 1 100.0 3 0 3 2 2 0 2 5 -
+p639
+aVTyrone Corbin CLE 12/17/1987 CLE @ CHI L 27 15 7 11 63.6 0 0 - 1 1 100.0 3 1 4 0 2 0 0 2 -
+p640
+aVHot Rod Williams CLE 12/17/1987 CLE @ CHI L 32 12 3 7 42.9 0 0 - 6 6 100.0 2 4 6 1 2 2 2 4 -
+p641
+aVPhil Hubbard CLE 12/17/1987 CLE @ CHI L 27 6 2 8 25.0 0 0 - 2 2 100.0 3 2 5 1 0 0 2 0 -
+p642
+aVMark West CLE 12/15/1987 CLE vs. DAL W 23 3 1 1 100.0 0 0 - 1 2 50.0 0 5 5 0 0 2 2 3 -
+p643
+aVDell Curry CLE 12/15/1987 CLE vs. DAL W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -
+p644
+aVTyrone Corbin CLE 12/15/1987 CLE vs. DAL W 19 12 6 8 75.0 0 0 - 0 2 0.0 2 2 4 0 0 0 0 4 -
+p645
+aVBrad Daugherty CLE 12/15/1987 CLE vs. DAL W 40 21 9 20 45.0 0 0 - 3 3 100.0 3 2 5 5 0 2 6 2 -
+p646
+aVPhil Hubbard CLE 12/15/1987 CLE vs. DAL W 33 14 4 8 50.0 0 0 - 6 9 66.7 2 8 10 2 0 0 0 0 -
+p647
+aVCraig Ehlo CLE 12/15/1987 CLE vs. DAL W 38 20 7 14 50.0 2 5 40.0 4 4 100.0 4 10 14 3 1 0 2 2 -
+p648
+aVChris Dudley CLE 12/15/1987 CLE vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p649
+aVMark Price CLE 12/15/1987 CLE vs. DAL W 26 17 7 12 58.3 1 2 50.0 2 2 100.0 2 1 3 3 1 0 0 0 -
+p650
+aVKevin Johnson CLE 12/15/1987 CLE vs. DAL W 22 14 5 10 50.0 0 0 - 4 4 100.0 0 2 2 6 2 1 1 3 -
+p651
+aVHot Rod Williams CLE 12/15/1987 CLE vs. DAL W 26 5 1 9 11.1 0 0 - 3 6 50.0 3 1 4 1 0 1 1 2 -
+p652
+aVBrad Daugherty CLE 12/13/1987 CLE @ LAL L 39 19 8 16 50.0 0 0 - 3 4 75.0 0 7 7 2 0 0 6 2 -
+p653
+aVMark Price CLE 12/13/1987 CLE @ LAL L 31 16 7 15 46.7 1 2 50.0 1 3 33.3 2 1 3 6 2 0 2 1 -
+p654
+aVKevin Johnson CLE 12/13/1987 CLE @ LAL L 19 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 4 1 0 0 3 -
+p655
+aVCraig Ehlo CLE 12/13/1987 CLE @ LAL L 32 9 3 8 37.5 0 1 0.0 3 4 75.0 1 2 3 7 3 1 5 4 -
+p656
+aVDell Curry CLE 12/13/1987 CLE @ LAL L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 1 0 4 0 -
+p657
+aVPhil Hubbard CLE 12/13/1987 CLE @ LAL L 20 4 0 2 0.0 0 0 - 4 4 100.0 0 1 1 3 0 0 0 3 -
+p658
+aVMark West CLE 12/13/1987 CLE @ LAL L 21 8 3 4 75.0 0 0 - 2 2 100.0 2 0 2 0 0 1 4 4 -
+p659
+aVTyrone Corbin CLE 12/13/1987 CLE @ LAL L 32 14 5 10 50.0 0 1 0.0 4 4 100.0 1 6 7 1 1 1 0 1 -
+p660
+aVHot Rod Williams CLE 12/13/1987 CLE @ LAL L 32 9 3 6 50.0 0 0 - 3 6 50.0 1 6 7 2 4 1 3 5 -
+p661
+aVBrad Daugherty CLE 12/11/1987 CLE @ SAC W 39 27 9 17 52.9 0 0 - 9 13 69.2 3 4 7 1 0 1 4 1 -
+p662
+aVPhil Hubbard CLE 12/11/1987 CLE @ SAC W 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 2 4 -
+p663
+aVCraig Ehlo CLE 12/11/1987 CLE @ SAC W 27 13 4 6 66.7 1 1 100.0 4 6 66.7 0 1 1 2 3 0 1 4 -
+p664
+aVMark Price CLE 12/11/1987 CLE @ SAC W 28 18 6 12 50.0 2 2 100.0 4 5 80.0 2 1 3 6 2 0 0 0 -
+p665
+aVChris Dudley CLE 12/11/1987 CLE @ SAC W 9 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 2 1 2 0 1 -
+p666
+aVHot Rod Williams CLE 12/11/1987 CLE @ SAC W 26 14 7 11 63.6 0 0 - 0 0 - 2 5 7 1 0 0 3 2 -
+p667
+aVDell Curry CLE 12/11/1987 CLE @ SAC W 24 14 6 12 50.0 1 2 50.0 1 2 50.0 0 0 0 2 1 1 0 1 -
+p668
+aVKevin Johnson CLE 12/11/1987 CLE @ SAC W 17 5 1 3 33.3 0 0 - 3 3 100.0 0 0 0 2 2 0 1 6 -
+p669
+aVTyrone Corbin CLE 12/11/1987 CLE @ SAC W 24 14 7 12 58.3 0 1 0.0 0 1 0.0 1 4 5 1 1 0 0 2 -
+p670
+aVMark West CLE 12/11/1987 CLE @ SAC W 30 6 2 4 50.0 0 0 - 2 2 100.0 3 5 8 0 0 0 2 2 -
+p671
+aVKevin Johnson CLE 12/09/1987 CLE @ GOS L 16 9 3 3 100.0 0 0 - 3 4 75.0 0 1 1 4 1 0 3 4 -
+p672
+aVDell Curry CLE 12/09/1987 CLE @ GOS L 24 27 11 16 68.8 1 1 100.0 4 4 100.0 1 2 3 2 5 0 4 5 -
+p673
+aVBrad Daugherty CLE 12/09/1987 CLE @ GOS L 33 19 8 13 61.5 0 0 - 3 7 42.9 1 6 7 2 1 0 5 4 -
+p674
+aVCraig Ehlo CLE 12/09/1987 CLE @ GOS L 25 4 2 10 20.0 0 0 - 0 0 - 1 6 7 8 1 2 2 3 -
+p675
+aVPhil Hubbard CLE 12/09/1987 CLE @ GOS L 19 7 2 5 40.0 0 0 - 3 4 75.0 0 2 2 1 0 0 1 2 -
+p676
+aVTyrone Corbin CLE 12/09/1987 CLE @ GOS L 22 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 1 0 2 4 -
+p677
+aVHot Rod Williams CLE 12/09/1987 CLE @ GOS L 38 16 6 11 54.5 0 0 - 4 6 66.7 2 3 5 1 1 3 3 3 -
+p678
+aVMark Price CLE 12/09/1987 CLE @ GOS L 33 23 11 14 78.6 1 2 50.0 0 0 - 0 2 2 6 0 0 2 1 -
+p679
+aVMark West CLE 12/09/1987 CLE @ GOS L 21 7 2 3 66.7 0 0 - 3 3 100.0 1 2 3 0 0 0 2 3 -
+p680
+aVChris Dudley CLE 12/09/1987 CLE @ GOS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p681
+aVKevin Johnson CLE 12/08/1987 CLE @ SEA L 21 8 2 3 66.7 1 1 100.0 3 4 75.0 0 1 1 7 1 0 1 1 -
+p682
+aVTyrone Corbin CLE 12/08/1987 CLE @ SEA L 19 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 4 -
+p683
+aVBrad Daugherty CLE 12/08/1987 CLE @ SEA L 38 20 9 21 42.9 0 0 - 2 4 50.0 6 8 14 7 1 0 5 4 -
+p684
+aVMark Price CLE 12/08/1987 CLE @ SEA L 29 6 2 7 28.6 1 2 50.0 1 2 50.0 1 1 2 4 0 0 4 3 -
+p685
+aVHot Rod Williams CLE 12/08/1987 CLE @ SEA L 21 7 3 7 42.9 0 0 - 1 3 33.3 1 3 4 2 0 0 2 2 -
+p686
+aVPhil Hubbard CLE 12/08/1987 CLE @ SEA L 28 11 5 11 45.5 0 0 - 1 1 100.0 1 1 2 0 1 0 0 3 -
+p687
+aVCraig Ehlo CLE 12/08/1987 CLE @ SEA L 23 8 4 7 57.1 0 0 - 0 0 - 1 0 1 2 0 0 1 4 -
+p688
+aVChris Dudley CLE 12/08/1987 CLE @ SEA L 13 7 3 3 100.0 0 0 - 1 4 25.0 0 0 0 0 0 1 1 1 -
+p689
+aVDell Curry CLE 12/08/1987 CLE @ SEA L 29 19 8 15 53.3 1 2 50.0 2 2 100.0 1 4 5 3 1 1 2 0 -
+p690
+aVMark West CLE 12/08/1987 CLE @ SEA L 19 7 2 2 100.0 0 0 - 3 4 75.0 1 4 5 2 1 1 2 2 -
+p691
+aVTyrone Corbin CLE 12/05/1987 CLE vs. LAL W 29 16 7 11 63.6 0 0 - 2 4 50.0 3 4 7 1 1 1 0 3 -
+p692
+aVDell Curry CLE 12/05/1987 CLE vs. LAL W 29 14 7 15 46.7 0 2 0.0 0 0 - 1 1 2 4 4 0 2 2 -
+p693
+aVHot Rod Williams CLE 12/05/1987 CLE vs. LAL W 19 0 0 1 0.0 0 0 - 0 0 - 1 5 6 3 1 2 0 3 -
+p694
+aVPhil Hubbard CLE 12/05/1987 CLE vs. LAL W 33 19 7 11 63.6 0 0 - 5 6 83.3 1 3 4 0 1 0 3 2 -
+p695
+aVMark West CLE 12/05/1987 CLE vs. LAL W 28 8 4 8 50.0 0 0 - 0 2 0.0 0 8 8 1 0 3 2 0 -
+p696
+aVCraig Ehlo CLE 12/05/1987 CLE vs. LAL W 19 8 4 8 50.0 0 0 - 0 0 - 0 1 1 3 0 0 0 2 -
+p697
+aVMark Price CLE 12/05/1987 CLE vs. LAL W 28 10 5 8 62.5 0 0 - 0 0 - 0 0 0 8 0 0 4 0 -
+p698
+aVKevin Johnson CLE 12/05/1987 CLE vs. LAL W 20 8 4 7 57.1 0 0 - 0 0 - 0 1 1 5 1 0 1 0 -
+p699
+aVBrad Daugherty CLE 12/05/1987 CLE vs. LAL W 35 14 4 11 36.4 0 0 - 6 6 100.0 1 8 9 4 1 4 4 5 -
+p700
+aVJohnny Rogers CLE 12/04/1987 CLE @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p701
+aVMark West CLE 12/04/1987 CLE @ IND W 35 15 5 9 55.6 0 0 - 5 8 62.5 2 6 8 0 1 1 1 5 -
+p702
+aVPhil Hubbard CLE 12/04/1987 CLE @ IND W 31 20 10 16 62.5 0 1 0.0 0 1 0.0 0 0 0 0 0 0 2 3 -
+p703
+aVKevin Johnson CLE 12/04/1987 CLE @ IND W 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 1 -
+p704
+aVDell Curry CLE 12/04/1987 CLE @ IND W 29 16 6 12 50.0 1 1 100.0 3 4 75.0 0 4 4 4 6 0 1 0 -
+p705
+aVChris Dudley CLE 12/04/1987 CLE @ IND W 3 2 0 0 - 0 0 - 2 4 50.0 1 1 2 0 0 0 1 1 -
+p706
+aVBrad Daugherty CLE 12/04/1987 CLE @ IND W 37 28 12 16 75.0 0 0 - 4 6 66.7 1 8 9 6 1 0 3 4 -
+p707
+aVMark Price CLE 12/04/1987 CLE @ IND W 35 17 8 14 57.1 1 1 100.0 0 0 - 2 4 6 10 0 0 2 2 -
+p708
+aVCraig Ehlo CLE 12/04/1987 CLE @ IND W 19 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 3 2 0 0 0 -
+p709
+aVHot Rod Williams CLE 12/04/1987 CLE @ IND W 19 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 2 1 0 0 1 -
+p710
+aVTyrone Corbin CLE 12/04/1987 CLE @ IND W 17 6 3 6 50.0 0 0 - 0 0 - 0 4 4 0 1 0 1 2 -
+p711
+aVTyrone Corbin CLE 12/02/1987 CLE vs. SEA W 7 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 2 1 -
+p712
+aVDell Curry CLE 12/02/1987 CLE vs. SEA W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p713
+aVMark West CLE 12/02/1987 CLE vs. SEA W 18 4 2 5 40.0 0 0 - 0 1 0.0 0 2 2 0 0 0 3 1 -
+p714
+aVHot Rod Williams CLE 12/02/1987 CLE vs. SEA W 40 10 3 9 33.3 0 0 - 4 6 66.7 3 6 9 6 3 5 1 3 -
+p715
+aVPhil Hubbard CLE 12/02/1987 CLE vs. SEA W 30 22 11 15 73.3 0 0 - 0 0 - 0 4 4 1 1 0 0 1 -
+p716
+aVBrad Daugherty CLE 12/02/1987 CLE vs. SEA W 38 21 8 12 66.7 0 0 - 5 9 55.6 3 6 9 9 2 0 3 3 -
+p717
+aVCraig Ehlo CLE 12/02/1987 CLE vs. SEA W 42 17 7 13 53.8 0 0 - 3 4 75.0 2 5 7 3 2 0 1 4 -
+p718
+aVKevin Johnson CLE 12/02/1987 CLE vs. SEA W 22 3 0 4 0.0 0 0 - 3 4 75.0 0 2 2 6 1 0 2 5 -
+p719
+aVMark Price CLE 12/02/1987 CLE vs. SEA W 40 22 9 18 50.0 2 2 100.0 2 2 100.0 0 1 1 5 2 0 0 1 -
+p720
+aVHot Rod Williams CLE 11/28/1987 CLE @ NYK L 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 1 0 4 4 -
+p721
+aVDell Curry CLE 11/28/1987 CLE @ NYK L 39 15 7 13 53.8 0 3 0.0 1 2 50.0 0 0 0 5 1 1 1 2 -
+p722
+aVMark West CLE 11/28/1987 CLE @ NYK L 25 10 5 6 83.3 0 0 - 0 0 - 2 7 9 0 0 2 3 3 -
+p723
+aVChris Dudley CLE 11/28/1987 CLE @ NYK L 10 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 -
+p724
+aVTyrone Corbin CLE 11/28/1987 CLE @ NYK L 28 7 3 6 50.0 0 0 - 1 2 50.0 0 4 4 2 1 1 5 2 -
+p725
+aVJohnny Rogers CLE 11/28/1987 CLE @ NYK L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 1 2 0 -
+p726
+aVPhil Hubbard CLE 11/28/1987 CLE @ NYK L 20 5 0 4 0.0 0 0 - 5 8 62.5 1 1 2 1 1 0 2 2 -
+p727
+aVBrad Daugherty CLE 11/28/1987 CLE @ NYK L 41 12 4 10 40.0 0 0 - 4 6 66.7 2 12 14 4 0 0 2 5 -
+p728
+aVCraig Ehlo CLE 11/28/1987 CLE @ NYK L 34 19 7 12 58.3 1 1 100.0 4 4 100.0 0 3 3 5 0 1 5 5 -
+p729
+aVMark Price CLE 11/28/1987 CLE @ NYK L 22 16 6 9 66.7 1 1 100.0 3 3 100.0 0 0 0 3 0 0 6 6 -
+p730
+aVMark West CLE 11/25/1987 CLE vs. NYK L 20 14 5 7 71.4 0 0 - 4 7 57.1 1 2 3 0 1 2 1 4 -
+p731
+aVBrad Daugherty CLE 11/25/1987 CLE vs. NYK L 33 11 3 9 33.3 0 0 - 5 8 62.5 3 3 6 4 0 0 4 4 -
+p732
+aVJohnny Rogers CLE 11/25/1987 CLE vs. NYK L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p733
+aVPhil Hubbard CLE 11/25/1987 CLE vs. NYK L 23 16 3 3 100.0 0 0 - 10 12 83.3 3 3 6 1 1 0 1 3 -
+p734
+aVHot Rod Williams CLE 11/25/1987 CLE vs. NYK L 28 14 3 7 42.9 0 0 - 8 10 80.0 0 7 7 0 1 4 5 4 -
+p735
+aVTyrone Corbin CLE 11/25/1987 CLE vs. NYK L 26 12 6 11 54.5 0 0 - 0 0 - 3 0 3 0 0 0 2 4 -
+p736
+aVMark Price CLE 11/25/1987 CLE vs. NYK L 20 9 2 3 66.7 0 0 - 5 6 83.3 0 1 1 3 1 0 3 5 -
+p737
+aVKevin Johnson CLE 11/25/1987 CLE vs. NYK L 27 9 4 11 36.4 0 0 - 1 1 100.0 2 2 4 4 0 0 1 1 -
+p738
+aVDell Curry CLE 11/25/1987 CLE vs. NYK L 22 6 1 8 12.5 0 0 - 4 4 100.0 1 1 2 2 2 0 3 0 -
+p739
+aVCraig Ehlo CLE 11/25/1987 CLE vs. NYK L 34 8 3 7 42.9 0 0 - 2 4 50.0 3 4 7 3 4 0 1 4 -
+p740
+aVKevin Johnson CLE 11/24/1987 CLE @ PHL L 28 10 5 7 71.4 0 0 - 0 0 - 0 3 3 5 3 0 1 2 -
+p741
+aVMark West CLE 11/24/1987 CLE @ PHL L 15 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -
+p742
+aVMark Price CLE 11/24/1987 CLE @ PHL L 19 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 3 -
+p743
+aVBrad Daugherty CLE 11/24/1987 CLE @ PHL L 41 23 7 15 46.7 0 0 - 9 13 69.2 3 9 12 5 3 0 4 3 -
+p744
+aVPhil Hubbard CLE 11/24/1987 CLE @ PHL L 25 13 6 9 66.7 0 0 - 1 2 50.0 1 1 2 2 0 0 2 2 -
+p745
+aVDell Curry CLE 11/24/1987 CLE @ PHL L 23 8 4 11 36.4 0 1 0.0 0 0 - 0 2 2 3 4 0 6 1 -
+p746
+aVTyrone Corbin CLE 11/24/1987 CLE @ PHL L 26 5 2 5 40.0 0 0 - 1 2 50.0 2 0 2 2 0 0 1 2 -
+p747
+aVHot Rod Williams CLE 11/24/1987 CLE @ PHL L 37 18 8 17 47.1 0 0 - 2 3 66.7 4 7 11 7 0 2 0 5 -
+p748
+aVCraig Ehlo CLE 11/24/1987 CLE @ PHL L 26 17 7 10 70.0 1 3 33.3 2 4 50.0 0 1 1 1 2 1 4 4 -
+p749
+aVMark Price CLE 11/21/1987 CLE vs. PHL W 26 6 3 8 37.5 0 0 - 0 0 - 1 2 3 7 1 0 2 1 -
+p750
+aVMark West CLE 11/21/1987 CLE vs. PHL W 33 12 5 11 45.5 0 0 - 2 4 50.0 5 3 8 2 0 3 2 4 -
+p751
+aVHot Rod Williams CLE 11/21/1987 CLE vs. PHL W 21 4 1 7 14.3 0 0 - 2 2 100.0 0 5 5 4 1 3 0 2 -
+p752
+aVPhil Hubbard CLE 11/21/1987 CLE vs. PHL W 21 10 4 8 50.0 0 0 - 2 2 100.0 3 1 4 0 0 0 1 4 -
+p753
+aVCraig Ehlo CLE 11/21/1987 CLE vs. PHL W 15 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 1 0 2 1 -
+p754
+aVTyrone Corbin CLE 11/21/1987 CLE vs. PHL W 32 23 8 12 66.7 0 0 - 7 7 100.0 1 3 4 3 2 1 0 4 -
+p755
+aVBrad Daugherty CLE 11/21/1987 CLE vs. PHL W 36 15 5 9 55.6 0 0 - 5 10 50.0 2 8 10 6 0 0 2 2 -
+p756
+aVKevin Johnson CLE 11/21/1987 CLE vs. PHL W 22 6 3 6 50.0 0 0 - 0 2 0.0 0 1 1 1 0 0 2 0 -
+p757
+aVDell Curry CLE 11/21/1987 CLE vs. PHL W 34 21 9 18 50.0 1 5 20.0 2 2 100.0 0 2 2 4 3 0 1 2 -
+p758
+aVCraig Ehlo CLE 11/19/1987 CLE vs. HOU L 18 10 5 8 62.5 0 0 - 0 0 - 1 2 3 2 2 1 0 1 -
+p759
+aVHot Rod Williams CLE 11/19/1987 CLE vs. HOU L 12 4 1 6 16.7 0 0 - 2 7 28.6 1 1 2 1 1 0 2 2 -
+p760
+aVDell Curry CLE 11/19/1987 CLE vs. HOU L 26 14 4 9 44.4 0 1 0.0 6 6 100.0 2 2 4 3 2 0 5 4 -
+p761
+aVMark Price CLE 11/19/1987 CLE vs. HOU L 26 8 4 10 40.0 0 1 0.0 0 0 - 2 2 4 4 2 1 5 1 -
+p762
+aVJohnny Rogers CLE 11/19/1987 CLE vs. HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p763
+aVMark West CLE 11/19/1987 CLE vs. HOU L 32 14 5 9 55.6 0 0 - 4 6 66.7 0 3 3 1 2 1 5 6 -
+p764
+aVBrad Daugherty CLE 11/19/1987 CLE vs. HOU L 36 24 10 22 45.5 0 0 - 4 4 100.0 4 8 12 4 0 0 3 5 -
+p765
+aVKevin Johnson CLE 11/19/1987 CLE vs. HOU L 27 11 4 8 50.0 0 1 0.0 3 4 75.0 1 2 3 5 3 0 1 3 -
+p766
+aVPhil Hubbard CLE 11/19/1987 CLE vs. HOU L 22 8 2 5 40.0 0 0 - 4 4 100.0 1 2 3 1 2 0 1 3 -
+p767
+aVTyrone Corbin CLE 11/19/1987 CLE vs. HOU L 37 4 1 1 100.0 0 0 - 2 2 100.0 2 6 8 1 3 0 1 3 -
+p768
+aVChris Dudley CLE 11/17/1987 CLE vs. BOS W 6 4 2 7 28.6 0 0 - 0 0 - 2 1 3 0 0 1 1 2 -
+p769
+aVJohnny Rogers CLE 11/17/1987 CLE vs. BOS W 23 11 5 11 45.5 0 0 - 1 3 33.3 0 3 3 0 0 1 0 4 -
+p770
+aVCraig Ehlo CLE 11/17/1987 CLE vs. BOS W 20 7 2 3 66.7 0 0 - 3 4 75.0 1 1 2 5 2 1 0 1 -
+p771
+aVDell Curry CLE 11/17/1987 CLE vs. BOS W 28 16 8 14 57.1 0 3 0.0 0 1 0.0 4 4 8 2 1 0 5 3 -
+p772
+aVPhil Hubbard CLE 11/17/1987 CLE vs. BOS W 32 17 6 12 50.0 0 0 - 5 8 62.5 3 3 6 0 1 0 0 2 -
+p773
+aVMark Price CLE 11/17/1987 CLE vs. BOS W 22 11 2 7 28.6 0 0 - 7 7 100.0 0 1 1 6 3 0 2 2 -
+p774
+aVTyrone Corbin CLE 11/17/1987 CLE vs. BOS W 28 6 2 8 25.0 0 0 - 2 2 100.0 3 4 7 0 1 0 3 3 -
+p775
+aVKevin Johnson CLE 11/17/1987 CLE vs. BOS W 27 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 2 1 0 0 2 -
+p776
+aVMark West CLE 11/17/1987 CLE vs. BOS W 18 9 3 5 60.0 0 0 - 3 4 75.0 0 8 8 2 0 3 2 1 -
+p777
+aVHot Rod Williams CLE 11/17/1987 CLE vs. BOS W 5 4 0 3 0.0 0 0 - 4 4 100.0 0 2 2 0 0 0 0 2 -
+p778
+aVBrad Daugherty CLE 11/17/1987 CLE vs. BOS W 27 12 5 8 62.5 0 0 - 2 3 66.7 0 8 8 5 1 0 5 5 -
+p779
+aVTyrone Corbin CLE 11/14/1987 CLE vs. DET L 14 14 6 10 60.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 5 -
+p780
+aVChris Dudley CLE 11/14/1987 CLE vs. DET L 10 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -
+p781
+aVDell Curry CLE 11/14/1987 CLE vs. DET L 29 17 7 15 46.7 1 1 100.0 2 2 100.0 0 2 2 6 3 1 1 4 -
+p782
+aVBrad Daugherty CLE 11/14/1987 CLE vs. DET L 36 22 8 16 50.0 0 0 - 6 11 54.5 0 3 3 4 0 0 2 2 -
+p783
+aVMark Price CLE 11/14/1987 CLE vs. DET L 34 20 9 15 60.0 1 1 100.0 1 1 100.0 1 1 2 10 2 1 3 1 -
+p784
+aVKevin Johnson CLE 11/14/1987 CLE vs. DET L 24 8 2 7 28.6 0 0 - 4 4 100.0 0 0 0 5 2 0 2 3 -
+p785
+aVJohnny Rogers CLE 11/14/1987 CLE vs. DET L 17 8 4 7 57.1 0 1 0.0 0 0 - 1 1 2 0 0 0 1 4 -
+p786
+aVPhil Hubbard CLE 11/14/1987 CLE vs. DET L 25 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 1 0 0 0 3 -
+p787
+aVCraig Ehlo CLE 11/14/1987 CLE vs. DET L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 3 0 -
+p788
+aVMark West CLE 11/14/1987 CLE vs. DET L 37 14 6 8 75.0 0 0 - 2 2 100.0 0 6 6 2 0 0 0 3 -
+p789
+aVDell Curry CLE 11/13/1987 CLE @ BOS L 39 25 10 22 45.5 0 2 0.0 5 6 83.3 3 1 4 7 2 1 1 1 -
+p790
+aVBrad Daugherty CLE 11/13/1987 CLE @ BOS L 39 22 9 18 50.0 0 0 - 4 6 66.7 1 7 8 4 0 3 4 4 -
+p791
+aVJohnny Rogers CLE 11/13/1987 CLE @ BOS L 16 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 -
+p792
+aVTyrone Corbin CLE 11/13/1987 CLE @ BOS L 40 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 4 3 0 1 4 -
+p793
+aVMark West CLE 11/13/1987 CLE @ BOS L 13 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 2 0 1 0 1 -
+p794
+aVKevin Johnson CLE 11/13/1987 CLE @ BOS L 18 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 4 2 1 1 2 -
+p795
+aVPhil Hubbard CLE 11/13/1987 CLE @ BOS L 36 23 9 15 60.0 0 0 - 5 6 83.3 7 2 9 2 2 0 1 4 -
+p796
+aVMark Price CLE 11/13/1987 CLE @ BOS L 34 16 6 11 54.5 1 1 100.0 3 3 100.0 0 2 2 9 1 0 4 1 -
+p797
+aVCraig Ehlo CLE 11/13/1987 CLE @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p798
+aVCraig Ehlo CLE 11/11/1987 CLE vs. MIL L 18 5 2 7 28.6 1 1 100.0 0 0 - 0 3 3 0 2 0 1 3 -
+p799
+aVMark West CLE 11/11/1987 CLE vs. MIL L 27 17 7 9 77.8 0 0 - 3 6 50.0 3 5 8 2 0 3 2 3 -
+p800
+aVDell Curry CLE 11/11/1987 CLE vs. MIL L 27 14 5 12 41.7 2 2 100.0 2 2 100.0 1 0 1 2 2 0 4 2 -
+p801
+aVPhil Hubbard CLE 11/11/1987 CLE vs. MIL L 30 12 4 9 44.4 0 0 - 4 4 100.0 3 3 6 2 0 0 5 3 -
+p802
+aVTyrone Corbin CLE 11/11/1987 CLE vs. MIL L 21 4 2 6 33.3 0 0 - 0 0 - 0 5 5 0 2 1 2 4 -
+p803
+aVBrad Daugherty CLE 11/11/1987 CLE vs. MIL L 43 24 8 20 40.0 0 0 - 8 11 72.7 3 10 13 6 0 1 4 0 -
+p804
+aVChris Dudley CLE 11/11/1987 CLE vs. MIL L 23 11 5 10 50.0 0 0 - 1 1 100.0 4 6 10 0 0 0 0 3 -
+p805
+aVMark Price CLE 11/11/1987 CLE vs. MIL L 29 5 2 8 25.0 0 2 0.0 1 2 50.0 0 3 3 6 2 0 3 2 -
+p806
+aVKevin Johnson CLE 11/11/1987 CLE vs. MIL L 22 9 4 9 44.4 0 0 - 1 1 100.0 0 2 2 4 0 0 3 0 -
+p807
+aVTyrone Corbin CLE 11/07/1987 CLE @ ATL L 25 15 5 8 62.5 0 0 - 5 5 100.0 4 6 10 0 1 0 1 6 -
+p808
+aVPhil Hubbard CLE 11/07/1987 CLE @ ATL L 19 7 1 3 33.3 0 0 - 5 6 83.3 1 5 6 0 1 0 5 6 -
+p809
+aVChris Dudley CLE 11/07/1987 CLE @ ATL L 17 5 1 1 100.0 0 0 - 3 4 75.0 1 3 4 0 0 0 0 2 -
+p810
+aVBrad Daugherty CLE 11/07/1987 CLE @ ATL L 41 18 7 15 46.7 0 0 - 4 6 66.7 1 6 7 5 1 2 4 3 -
+p811
+aVMark Price CLE 11/07/1987 CLE @ ATL L 31 15 7 13 53.8 1 1 100.0 0 0 - 2 1 3 6 1 0 4 4 -
+p812
+aVKannard Johnson CLE 11/07/1987 CLE @ ATL L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p813
+aVKevin Johnson CLE 11/07/1987 CLE @ ATL L 24 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 3 0 1 3 4 -
+p814
+aVDell Curry CLE 11/07/1987 CLE @ ATL L 16 2 1 9 11.1 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p815
+aVMark West CLE 11/07/1987 CLE @ ATL L 22 13 6 10 60.0 0 0 - 1 3 33.3 4 2 6 1 0 0 1 5 -
+p816
+aVRon Harper CLE 11/07/1987 CLE @ ATL L 34 20 6 17 35.3 0 0 - 8 10 80.0 2 4 6 4 1 2 1 5 -
+p817
+aVCraig Ehlo CLE 11/07/1987 CLE @ ATL L 9 1 0 2 0.0 0 0 - 1 3 33.3 1 1 2 1 1 0 0 3 -
+p818
+aVMark Price CLE 11/06/1987 CLE @ NJN W 35 15 7 10 70.0 1 2 50.0 0 0 - 0 3 3 7 2 0 3 3 -
+p819
+aVDell Curry CLE 11/06/1987 CLE @ NJN W 25 20 9 16 56.3 0 0 - 2 3 66.7 0 1 1 1 2 0 2 3 -
+p820
+aVTyrone Corbin CLE 11/06/1987 CLE @ NJN W 15 6 2 4 50.0 0 0 - 2 2 100.0 2 0 2 1 2 0 2 2 -
+p821
+aVKevin Johnson CLE 11/06/1987 CLE @ NJN W 13 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 3 0 0 1 2 -
+p822
+aVRon Harper CLE 11/06/1987 CLE @ NJN W 41 26 10 18 55.6 1 1 100.0 5 14 35.7 1 4 5 7 4 2 7 4 -
+p823
+aVMark West CLE 11/06/1987 CLE @ NJN W 22 7 3 8 37.5 0 0 - 1 2 50.0 1 10 11 1 1 0 1 4 -
+p824
+aVPhil Hubbard CLE 11/06/1987 CLE @ NJN W 30 11 5 9 55.6 0 0 - 1 2 50.0 3 8 11 1 1 1 1 4 -
+p825
+aVCraig Ehlo CLE 11/06/1987 CLE @ NJN W 7 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 1 0 1 0 1 -
+p826
+aVChris Dudley CLE 11/06/1987 CLE @ NJN W 12 6 2 4 50.0 0 0 - 2 2 100.0 3 0 3 0 0 2 3 6 -
+p827
+aVBrad Daugherty CLE 11/06/1987 CLE @ NJN W 40 17 7 10 70.0 0 0 - 3 4 75.0 0 9 9 5 2 4 7 6 -
+p828
+a.

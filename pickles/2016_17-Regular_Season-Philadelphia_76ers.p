@@ -1,0 +1,890 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVNik Stauskas PHI 01/21/2017 PHI @ ATL L 35 7 3 11 27.3 1 4 25.0 0 0 - 0 6 6 3 0 1 1 1 -12
+p2
+aVRichaun Holmes PHI 01/21/2017 PHI @ ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p3
+aVTimothe Luwawu-Cabarrot PHI 01/21/2017 PHI @ ATL L 21 10 2 3 66.7 1 1 100.0 5 6 83.3 0 0 0 2 1 0 5 4 -17
+p4
+aVNerlens Noel PHI 01/21/2017 PHI @ ATL L 13 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -11
+p5
+aVChasson Randle PHI 01/21/2017 PHI @ ATL L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p6
+aVRobert Covington PHI 01/21/2017 PHI @ ATL L 31 15 5 12 41.7 3 6 50.0 2 2 100.0 2 8 10 2 1 1 2 2 3
+p7
+aVJahlil Okafor PHI 01/21/2017 PHI @ ATL L 30 12 5 8 62.5 0 0 - 2 2 100.0 0 4 4 1 1 3 3 3 0
+p8
+aVErsan Ilyasova PHI 01/21/2017 PHI @ ATL L 30 21 8 15 53.3 3 6 50.0 2 3 66.7 2 1 3 4 0 1 1 2 2
+p9
+aVDario Saric PHI 01/21/2017 PHI @ ATL L 15 3 1 10 10.0 1 5 20.0 0 0 - 0 4 4 1 2 0 2 0 -21
+p10
+aVTJ McConnell PHI 01/21/2017 PHI @ ATL L 37 8 3 7 42.9 0 0 - 2 2 100.0 1 5 6 11 3 0 4 3 0
+p11
+aVGerald Henderson PHI 01/21/2017 PHI @ ATL L 19 10 3 8 37.5 2 6 33.3 2 3 66.7 0 2 2 2 0 0 1 1 -21
+p12
+aVErsan Ilyasova PHI 01/20/2017 PHI vs. POR W 29 24 9 14 64.3 5 6 83.3 1 2 50.0 2 4 6 2 2 1 5 4 18
+p13
+aVJoel Embiid PHI 01/20/2017 PHI vs. POR W 22 18 7 14 50.0 0 0 - 4 9 44.4 3 7 10 5 0 4 5 2 -1
+p14
+aVRobert Covington PHI 01/20/2017 PHI vs. POR W 34 22 8 17 47.1 5 12 41.7 1 1 100.0 1 5 6 0 1 1 2 3 6
+p15
+aVGerald Henderson PHI 01/20/2017 PHI vs. POR W 26 5 2 10 20.0 1 3 33.3 0 0 - 2 5 7 1 0 0 0 1 -9
+p16
+aVDario Saric PHI 01/20/2017 PHI vs. POR W 24 3 1 12 8.3 1 5 20.0 0 0 - 2 4 6 3 0 1 2 0 -13
+p17
+aVTimothe Luwawu-Cabarrot PHI 01/20/2017 PHI vs. POR W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 1 2 -5
+p18
+aVNerlens Noel PHI 01/20/2017 PHI vs. POR W 21 5 1 4 25.0 0 0 - 3 4 75.0 2 7 9 2 2 0 2 0 -2
+p19
+aVTJ McConnell PHI 01/20/2017 PHI vs. POR W 31 8 4 8 50.0 0 0 - 0 0 - 1 3 4 5 0 0 2 3 21
+p20
+aVSergio Rodriguez PHI 01/20/2017 PHI vs. POR W 17 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 2 1 0 0 4 -20
+p21
+aVNik Stauskas PHI 01/20/2017 PHI vs. POR W 22 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 0 1 0 2 10
+p22
+aVNerlens Noel PHI 01/18/2017 PHI vs. TOR W 21 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 3 4 -15
+p23
+aVErsan Ilyasova PHI 01/18/2017 PHI vs. TOR W 24 18 7 14 50.0 3 6 50.0 1 2 50.0 1 4 5 2 0 0 0 1 4
+p24
+aVTJ McConnell PHI 01/18/2017 PHI vs. TOR W 29 10 4 6 66.7 0 0 - 2 2 100.0 0 5 5 8 1 0 1 4 1
+p25
+aVSergio Rodriguez PHI 01/18/2017 PHI vs. TOR W 19 4 2 5 40.0 0 3 0.0 0 1 0.0 1 6 7 4 0 0 3 0 4
+p26
+aVTimothe Luwawu-Cabarrot PHI 01/18/2017 PHI vs. TOR W 17 4 1 6 16.7 0 2 0.0 2 2 100.0 1 1 2 0 1 0 1 0 -5
+p27
+aVNik Stauskas PHI 01/18/2017 PHI vs. TOR W 16 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 2 1 3 10
+p28
+aVRobert Covington PHI 01/18/2017 PHI vs. TOR W 36 10 4 6 66.7 1 2 50.0 1 2 50.0 0 5 5 2 2 1 5 2 2
+p29
+aVGerald Henderson PHI 01/18/2017 PHI vs. TOR W 26 9 2 3 66.7 1 1 100.0 4 5 80.0 0 2 2 0 0 0 1 1 3
+p30
+aVDario Saric PHI 01/18/2017 PHI vs. TOR W 24 8 3 9 33.3 1 3 33.3 1 2 50.0 2 7 9 1 0 2 3 1 1
+p31
+aVJoel Embiid PHI 01/18/2017 PHI vs. TOR W 27 26 6 13 46.2 2 5 40.0 12 14 85.7 0 9 9 2 1 2 4 5 20
+p32
+aVErsan Ilyasova PHI 01/16/2017 PHI @ MIL W 28 12 4 14 28.6 2 7 28.6 2 2 100.0 1 3 4 3 0 0 2 3 9
+p33
+aVRobert Covington PHI 01/16/2017 PHI @ MIL W 28 11 4 8 50.0 2 6 33.3 1 2 50.0 2 3 5 4 0 2 0 4 15
+p34
+aVDario Saric PHI 01/16/2017 PHI @ MIL W 24 17 6 11 54.5 2 5 40.0 3 3 100.0 2 7 9 4 1 0 3 1 -9
+p35
+aVTimothe Luwawu-Cabarrot PHI 01/16/2017 PHI @ MIL W 17 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 0 0 0 2 1 12
+p36
+aVGerald Henderson PHI 01/16/2017 PHI @ MIL W 28 11 3 7 42.9 2 3 66.7 3 4 75.0 2 2 4 2 1 1 2 3 -7
+p37
+aVJoel Embiid PHI 01/16/2017 PHI @ MIL W 28 22 4 9 44.4 1 3 33.3 13 18 72.2 3 9 12 2 2 5 4 3 13
+p38
+aVJahlil Okafor PHI 01/16/2017 PHI @ MIL W 20 10 4 5 80.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 1 -4
+p39
+aVNik Stauskas PHI 01/16/2017 PHI @ MIL W 20 6 2 5 40.0 2 3 66.7 0 0 - 1 2 3 2 1 1 1 1 7
+p40
+aVSergio Rodriguez PHI 01/16/2017 PHI @ MIL W 32 10 4 10 40.0 1 6 16.7 1 1 100.0 0 7 7 6 1 0 3 1 16
+p41
+aVChasson Randle PHI 01/16/2017 PHI @ MIL W 16 10 3 6 50.0 2 4 50.0 2 2 100.0 0 2 2 1 1 0 0 5 -7
+p42
+aVErsan Ilyasova PHI 01/14/2017 PHI @ WAS L 26 18 7 13 53.8 3 5 60.0 1 2 50.0 3 4 7 1 1 0 0 1 -14
+p43
+aVNerlens Noel PHI 01/14/2017 PHI @ WAS L 13 6 3 7 42.9 0 0 - 0 0 - 5 7 12 0 0 0 3 5 -9
+p44
+aVRobert Covington PHI 01/14/2017 PHI @ WAS L 22 7 2 6 33.3 1 4 25.0 2 2 100.0 0 4 4 1 0 0 1 0 -10
+p45
+aVTJ McConnell PHI 01/14/2017 PHI @ WAS L 23 4 2 8 25.0 0 1 0.0 0 0 - 0 3 3 6 1 0 1 3 -8
+p46
+aVNik Stauskas PHI 01/14/2017 PHI @ WAS L 29 2 1 9 11.1 0 7 0.0 0 0 - 0 2 2 3 0 0 2 2 -2
+p47
+aVJahlil Okafor PHI 01/14/2017 PHI @ WAS L 35 26 10 16 62.5 0 0 - 6 11 54.5 5 4 9 0 1 1 3 2 -7
+p48
+aVDario Saric PHI 01/14/2017 PHI @ WAS L 26 9 3 7 42.9 2 5 40.0 1 2 50.0 0 4 4 1 1 0 2 2 -7
+p49
+aVGerald Henderson PHI 01/14/2017 PHI @ WAS L 15 3 1 4 25.0 0 2 0.0 1 2 50.0 0 1 1 4 0 1 1 1 -9
+p50
+aVSergio Rodriguez PHI 01/14/2017 PHI @ WAS L 20 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 2 1 0 0 2 -11
+p51
+aVTimothe Luwawu-Cabarrot PHI 01/14/2017 PHI @ WAS L 26 12 5 10 50.0 2 3 66.7 0 2 0.0 2 4 6 2 0 0 3 1 -6
+p52
+aVChasson Randle PHI 01/14/2017 PHI @ WAS L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 3
+p53
+aVJoel Embiid PHI 01/13/2017 PHI vs. CHA W 28 24 6 12 50.0 0 5 0.0 12 14 85.7 0 8 8 1 2 3 5 5 23
+p54
+aVGerald Henderson PHI 01/13/2017 PHI vs. CHA W 24 9 3 6 50.0 1 2 50.0 2 3 66.7 0 3 3 4 0 1 1 2 10
+p55
+aVRobert Covington PHI 01/13/2017 PHI vs. CHA W 28 11 4 10 40.0 3 6 50.0 0 0 - 2 4 6 2 1 1 2 5 7
+p56
+aVNik Stauskas PHI 01/13/2017 PHI vs. CHA W 31 8 3 8 37.5 2 6 33.3 0 0 - 1 3 4 1 0 0 1 4 11
+p57
+aVSergio Rodriguez PHI 01/13/2017 PHI vs. CHA W 16 11 4 7 57.1 2 5 40.0 1 1 100.0 0 1 1 4 2 0 2 1 0
+p58
+aVTJ McConnell PHI 01/13/2017 PHI vs. CHA W 31 4 2 4 50.0 0 0 - 0 0 - 1 2 3 8 3 0 2 2 6
+p59
+aVDario Saric PHI 01/13/2017 PHI vs. CHA W 21 15 5 10 50.0 4 6 66.7 1 2 50.0 4 2 6 2 1 0 4 0 -1
+p60
+aVErsan Ilyasova PHI 01/13/2017 PHI vs. CHA W 30 12 5 14 35.7 2 7 28.6 0 0 - 1 2 3 1 2 0 1 2 4
+p61
+aVNerlens Noel PHI 01/13/2017 PHI vs. CHA W 20 6 3 3 100.0 0 0 - 0 0 - 1 1 2 1 1 4 2 2 -14
+p62
+aVTimothe Luwawu-Cabarrot PHI 01/13/2017 PHI vs. CHA W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 4 -1
+p63
+aVTJ McConnell PHI 01/11/2017 PHI vs. NYK W 34 8 4 6 66.7 0 0 - 0 0 - 2 4 6 7 2 0 2 1 2
+p64
+aVNerlens Noel PHI 01/11/2017 PHI vs. NYK W 21 13 5 8 62.5 0 0 - 3 4 75.0 4 4 8 1 2 0 2 1 -8
+p65
+aVGerald Henderson PHI 01/11/2017 PHI vs. NYK W 26 12 5 10 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 4
+p66
+aVJoel Embiid PHI 01/11/2017 PHI vs. NYK W 27 21 7 20 35.0 1 3 33.3 6 7 85.7 5 9 14 1 1 1 1 3 9
+p67
+aVNik Stauskas PHI 01/11/2017 PHI vs. NYK W 22 5 2 6 33.3 1 4 25.0 0 0 - 1 1 2 3 0 0 1 1 -4
+p68
+aVRobert Covington PHI 01/11/2017 PHI vs. NYK W 32 13 5 10 50.0 3 6 50.0 0 0 - 1 4 5 4 1 0 2 1 11
+p69
+aVSergio Rodriguez PHI 01/11/2017 PHI vs. NYK W 14 2 1 7 14.3 0 3 0.0 0 0 - 1 0 1 4 0 0 3 0 -1
+p70
+aVErsan Ilyasova PHI 01/11/2017 PHI vs. NYK W 30 16 5 16 31.3 1 8 12.5 5 6 83.3 2 2 4 5 0 0 3 1 9
+p71
+aVDario Saric PHI 01/11/2017 PHI vs. NYK W 21 3 1 8 12.5 1 3 33.3 0 0 - 1 2 3 0 0 0 0 0 -16
+p72
+aVTimothe Luwawu-Cabarrot PHI 01/11/2017 PHI vs. NYK W 12 5 2 4 50.0 0 1 0.0 1 2 50.0 1 1 2 1 1 0 0 3 -1
+p73
+aVGerald Henderson PHI 01/08/2017 PHI @ BKN W 21 7 3 7 42.9 0 0 - 1 1 100.0 0 1 1 1 0 0 0 2 -14
+p74
+aVRobert Covington PHI 01/08/2017 PHI @ BKN W 37 15 5 12 41.7 1 5 20.0 4 4 100.0 1 10 11 1 5 1 2 2 14
+p75
+aVNerlens Noel PHI 01/08/2017 PHI @ BKN W 24 8 3 8 37.5 0 0 - 2 2 100.0 2 2 4 0 3 0 0 1 0
+p76
+aVJoel Embiid PHI 01/08/2017 PHI @ BKN W 24 20 8 14 57.1 0 3 0.0 4 5 80.0 1 4 5 4 0 2 3 4 10
+p77
+aVDario Saric PHI 01/08/2017 PHI @ BKN W 30 18 5 13 38.5 3 6 50.0 5 6 83.3 0 5 5 0 1 0 4 2 5
+p78
+aVNik Stauskas PHI 01/08/2017 PHI @ BKN W 31 15 4 7 57.1 3 4 75.0 4 4 100.0 0 5 5 2 0 1 1 2 22
+p79
+aVTJ McConnell PHI 01/08/2017 PHI @ BKN W 36 4 2 11 18.2 0 2 0.0 0 0 - 0 8 8 6 2 0 2 1 9
+p80
+aVErsan Ilyasova PHI 01/08/2017 PHI @ BKN W 26 14 5 16 31.3 1 7 14.3 3 5 60.0 2 5 7 2 0 1 0 2 3
+p81
+aVSergio Rodriguez PHI 01/08/2017 PHI @ BKN W 12 4 2 6 33.3 0 0 - 0 0 - 0 0 0 3 0 0 1 1 1
+p82
+aVGerald Henderson PHI 01/06/2017 PHI @ BOS L 29 18 6 9 66.7 2 3 66.7 4 4 100.0 0 4 4 1 0 1 1 2 0
+p83
+aVDario Saric PHI 01/06/2017 PHI @ BOS L 23 8 3 9 33.3 0 3 0.0 2 2 100.0 1 5 6 1 0 0 2 0 5
+p84
+aVJoel Embiid PHI 01/06/2017 PHI @ BOS L 26 23 6 12 50.0 1 3 33.3 10 10 100.0 0 8 8 3 0 2 4 6 -1
+p85
+aVNik Stauskas PHI 01/06/2017 PHI @ BOS L 25 4 1 6 16.7 0 2 0.0 2 2 100.0 1 2 3 1 1 1 1 0 -16
+p86
+aVErsan Ilyasova PHI 01/06/2017 PHI @ BOS L 32 20 8 21 38.1 4 14 28.6 0 0 - 0 2 2 3 2 2 2 2 -5
+p87
+aVTJ McConnell PHI 01/06/2017 PHI @ BOS L 37 9 4 6 66.7 0 0 - 1 2 50.0 0 4 4 17 1 0 2 2 10
+p88
+aVTimothe Luwawu-Cabarrot PHI 01/06/2017 PHI @ BOS L 8 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -5
+p89
+aVRobert Covington PHI 01/06/2017 PHI @ BOS L 36 9 2 6 33.3 2 3 66.7 3 4 75.0 0 3 3 2 3 2 3 4 -6
+p90
+aVNerlens Noel PHI 01/06/2017 PHI @ BOS L 25 13 6 8 75.0 0 0 - 1 2 50.0 2 6 8 2 2 3 0 5 -2
+p91
+aVErsan Ilyasova PHI 01/03/2017 PHI vs. MIN W 32 19 7 14 50.0 3 8 37.5 2 2 100.0 1 4 5 1 0 1 2 3 -3
+p92
+aVTimothe Luwawu-Cabarrot PHI 01/03/2017 PHI vs. MIN W 22 4 0 2 0.0 0 1 0.0 4 4 100.0 0 2 2 1 0 1 2 3 -3
+p93
+aVNerlens Noel PHI 01/03/2017 PHI vs. MIN W 11 8 4 5 80.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 1
+p94
+aVJoel Embiid PHI 01/03/2017 PHI vs. MIN W 30 25 8 20 40.0 1 3 33.3 8 11 72.7 5 3 8 3 1 2 3 3 11
+p95
+aVRobert Covington PHI 01/03/2017 PHI vs. MIN W 39 13 4 14 28.6 1 9 11.1 4 4 100.0 1 9 10 2 4 1 2 4 -2
+p96
+aVHollis Thompson PHI 01/03/2017 PHI vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 0
+p97
+aVDario Saric PHI 01/03/2017 PHI vs. MIN W 24 8 3 8 37.5 0 3 0.0 2 2 100.0 2 5 7 1 2 1 3 1 6
+p98
+aVNik Stauskas PHI 01/03/2017 PHI vs. MIN W 32 8 3 9 33.3 2 5 40.0 0 0 - 0 3 3 2 0 0 1 1 20
+p99
+aVTJ McConnell PHI 01/03/2017 PHI vs. MIN W 35 6 3 9 33.3 0 3 0.0 0 0 - 0 7 7 8 2 0 2 1 -11
+p100
+aVJahlil Okafor PHI 01/03/2017 PHI vs. MIN W 10 2 1 3 33.3 0 0 - 0 2 0.0 2 2 4 0 0 1 1 2 -9
+p101
+aVTimothe Luwawu-Cabarrot PHI 12/30/2016 PHI @ DEN W 11 5 1 3 33.3 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 2 -3
+p102
+aVRobert Covington PHI 12/30/2016 PHI @ DEN W 28 19 6 12 50.0 3 6 50.0 4 5 80.0 2 4 6 1 1 1 0 4 1
+p103
+aVJoel Embiid PHI 12/30/2016 PHI @ DEN W 29 23 5 13 38.5 1 5 20.0 12 14 85.7 3 3 6 5 2 3 5 6 8
+p104
+aVErsan Ilyasova PHI 12/30/2016 PHI @ DEN W 37 23 8 16 50.0 5 6 83.3 2 2 100.0 5 8 13 1 0 0 2 5 4
+p105
+aVNik Stauskas PHI 12/30/2016 PHI @ DEN W 29 10 2 7 28.6 2 5 40.0 4 4 100.0 0 0 0 5 1 0 1 3 13
+p106
+aVHollis Thompson PHI 12/30/2016 PHI @ DEN W 23 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 0 1 0 0 3 -6
+p107
+aVNerlens Noel PHI 12/30/2016 PHI @ DEN W 19 9 4 7 57.1 0 0 - 1 4 25.0 1 1 2 0 0 1 0 3 -5
+p108
+aVTJ McConnell PHI 12/30/2016 PHI @ DEN W 36 17 6 12 50.0 3 3 100.0 2 2 100.0 0 2 2 8 0 0 2 3 -7
+p109
+aVDario Saric PHI 12/30/2016 PHI @ DEN W 28 13 4 11 36.4 0 4 0.0 5 7 71.4 4 7 11 5 0 0 1 4 5
+p110
+aVTimothe Luwawu-Cabarrot PHI 12/29/2016 PHI @ UTA L 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 0
+p111
+aVNerlens Noel PHI 12/29/2016 PHI @ UTA L 22 14 6 10 60.0 0 0 - 2 2 100.0 2 3 5 0 1 0 0 2 -8
+p112
+aVDario Saric PHI 12/29/2016 PHI @ UTA L 25 14 6 11 54.5 1 3 33.3 1 1 100.0 2 2 4 1 0 1 2 1 -13
+p113
+aVRobert Covington PHI 12/29/2016 PHI @ UTA L 32 1 0 11 0.0 0 7 0.0 1 2 50.0 3 4 7 3 1 0 2 3 -18
+p114
+aVErsan Ilyasova PHI 12/29/2016 PHI @ UTA L 24 16 7 13 53.8 2 4 50.0 0 0 - 4 8 12 1 0 0 0 1 4
+p115
+aVNik Stauskas PHI 12/29/2016 PHI @ UTA L 34 9 3 9 33.3 1 4 25.0 2 2 100.0 0 5 5 3 3 0 4 3 -9
+p116
+aVJahlil Okafor PHI 12/29/2016 PHI @ UTA L 24 13 6 15 40.0 0 0 - 1 1 100.0 2 2 4 2 0 0 0 2 -17
+p117
+aVSergio Rodriguez PHI 12/29/2016 PHI @ UTA L 16 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 2 0 0 3 0 -5
+p118
+aVTJ McConnell PHI 12/29/2016 PHI @ UTA L 27 6 3 5 60.0 0 0 - 0 0 - 0 0 0 3 1 0 3 1 -10
+p119
+aVHollis Thompson PHI 12/29/2016 PHI @ UTA L 21 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 -9
+p120
+aVDario Saric PHI 12/26/2016 PHI @ SAC L 27 12 5 11 45.5 2 5 40.0 0 0 - 1 8 9 2 1 0 1 1 4
+p121
+aVJahlil Okafor PHI 12/26/2016 PHI @ SAC L 20 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 1 0 3 4 -9
+p122
+aVNerlens Noel PHI 12/26/2016 PHI @ SAC L 3 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 0 1 0 0 -4
+p123
+aVRobert Covington PHI 12/26/2016 PHI @ SAC L 37 5 2 6 33.3 0 2 0.0 1 2 50.0 1 5 6 1 2 2 3 4 -6
+p124
+aVNik Stauskas PHI 12/26/2016 PHI @ SAC L 19 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 1 -3
+p125
+aVSergio Rodriguez PHI 12/26/2016 PHI @ SAC L 25 18 7 9 77.8 4 5 80.0 0 0 - 0 3 3 5 3 0 2 1 4
+p126
+aVErsan Ilyasova PHI 12/26/2016 PHI @ SAC L 33 17 7 12 58.3 2 5 40.0 1 2 50.0 0 4 4 2 2 0 0 5 11
+p127
+aVJoel Embiid PHI 12/26/2016 PHI @ SAC L 29 25 8 17 47.1 1 4 25.0 8 9 88.9 4 4 8 1 2 2 8 5 3
+p128
+aVTJ McConnell PHI 12/26/2016 PHI @ SAC L 23 4 1 4 25.0 0 0 - 2 4 50.0 1 1 2 6 1 0 3 1 -6
+p129
+aVGerald Henderson PHI 12/26/2016 PHI @ SAC L 25 6 3 9 33.3 0 3 0.0 0 0 - 0 2 2 1 0 0 0 1 -4
+p130
+aVNerlens Noel PHI 12/23/2016 PHI @ PHX L 10 4 1 1 100.0 0 0 - 2 4 50.0 0 1 1 1 3 1 1 2 -1
+p131
+aVDario Saric PHI 12/23/2016 PHI @ PHX L 27 8 3 10 30.0 2 5 40.0 0 0 - 2 2 4 0 2 0 1 3 -10
+p132
+aVSergio Rodriguez PHI 12/23/2016 PHI @ PHX L 26 21 8 12 66.7 4 8 50.0 1 1 100.0 1 1 2 7 0 0 3 2 -2
+p133
+aVJoel Embiid PHI 12/23/2016 PHI @ PHX L 28 27 8 15 53.3 1 3 33.3 10 11 90.9 0 7 7 1 0 2 3 3 -12
+p134
+aVErsan Ilyasova PHI 12/23/2016 PHI @ PHX L 25 14 5 11 45.5 3 5 60.0 1 1 100.0 2 1 3 3 0 1 5 4 15
+p135
+aVRobert Covington PHI 12/23/2016 PHI @ PHX L 33 16 6 11 54.5 1 6 16.7 3 3 100.0 1 1 2 4 1 1 4 6 -4
+p136
+aVGerald Henderson PHI 12/23/2016 PHI @ PHX L 26 11 5 10 50.0 1 2 50.0 0 0 - 0 1 1 3 0 0 0 0 -6
+p137
+aVHollis Thompson PHI 12/23/2016 PHI @ PHX L 22 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 1 0 0 0 4 -7
+p138
+aVTJ McConnell PHI 12/23/2016 PHI @ PHX L 22 5 1 6 16.7 1 1 100.0 2 2 100.0 1 1 2 2 1 0 1 2 -5
+p139
+aVJahlil Okafor PHI 12/23/2016 PHI @ PHX L 20 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 0 1 1 5 -3
+p140
+aVNerlens Noel PHI 12/20/2016 PHI vs. NOP L 7 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -1
+p141
+aVSergio Rodriguez PHI 12/20/2016 PHI vs. NOP L 31 9 3 11 27.3 2 7 28.6 1 2 50.0 0 2 2 3 1 0 0 2 -3
+p142
+aVErsan Ilyasova PHI 12/20/2016 PHI vs. NOP L 26 14 5 9 55.6 2 4 50.0 2 2 100.0 2 2 4 0 0 1 2 2 -7
+p143
+aVDario Saric PHI 12/20/2016 PHI vs. NOP L 16 2 0 2 0.0 0 2 0.0 2 2 100.0 0 3 3 3 1 0 1 0 1
+p144
+aVHollis Thompson PHI 12/20/2016 PHI vs. NOP L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -18
+p145
+aVNik Stauskas PHI 12/20/2016 PHI vs. NOP L 23 8 2 8 25.0 2 5 40.0 2 2 100.0 0 5 5 0 0 1 2 1 3
+p146
+aVTJ McConnell PHI 12/20/2016 PHI vs. NOP L 17 10 5 8 62.5 0 1 0.0 0 0 - 0 0 0 5 3 0 2 1 -12
+p147
+aVJahlil Okafor PHI 12/20/2016 PHI vs. NOP L 25 11 5 8 62.5 0 0 - 1 2 50.0 1 6 7 1 0 2 1 1 -2
+p148
+aVJoel Embiid PHI 12/20/2016 PHI vs. NOP L 25 11 4 12 33.3 0 3 0.0 3 5 60.0 0 6 6 1 1 1 2 5 -17
+p149
+aVRobert Covington PHI 12/20/2016 PHI vs. NOP L 34 11 4 11 36.4 2 6 33.3 1 2 50.0 1 7 8 2 0 2 1 5 -10
+p150
+aVGerald Henderson PHI 12/20/2016 PHI vs. NOP L 27 13 3 9 33.3 3 5 60.0 4 4 100.0 0 3 3 1 0 1 2 2 -9
+p151
+aVSergio Rodriguez PHI 12/18/2016 PHI vs. BKN W 23 9 3 11 27.3 3 5 60.0 0 0 - 1 1 2 5 1 0 2 3 -7
+p152
+aVHollis Thompson PHI 12/18/2016 PHI vs. BKN W 17 1 0 3 0.0 0 2 0.0 1 2 50.0 0 3 3 0 0 0 1 0 10
+p153
+aVRobert Covington PHI 12/18/2016 PHI vs. BKN W 35 15 5 11 45.5 1 4 25.0 4 4 100.0 2 3 5 2 1 0 2 2 -10
+p154
+aVDario Saric PHI 12/18/2016 PHI vs. BKN W 25 7 3 10 30.0 1 5 20.0 0 0 - 2 6 8 2 0 0 1 1 17
+p155
+aVJoel Embiid PHI 12/18/2016 PHI vs. BKN W 27 33 12 17 70.6 2 3 66.7 7 8 87.5 2 8 10 1 2 3 3 2 7
+p156
+aVGerald Henderson PHI 12/18/2016 PHI vs. BKN W 29 10 4 6 66.7 1 1 100.0 1 1 100.0 0 2 2 3 1 0 0 1 -8
+p157
+aVTJ McConnell PHI 12/18/2016 PHI vs. BKN W 25 8 4 9 44.4 0 1 0.0 0 0 - 1 2 3 6 0 0 3 3 8
+p158
+aVJahlil Okafor PHI 12/18/2016 PHI vs. BKN W 28 3 0 9 0.0 0 0 - 3 4 75.0 5 5 10 2 0 1 3 3 -9
+p159
+aVErsan Ilyasova PHI 12/18/2016 PHI vs. BKN W 31 22 7 12 58.3 4 7 57.1 4 4 100.0 0 4 4 2 0 1 2 3 -3
+p160
+aVSergio Rodriguez PHI 12/16/2016 PHI vs. LAL L 25 4 2 7 28.6 0 3 0.0 0 0 - 1 4 5 3 1 0 2 2 -23
+p161
+aVJahlil Okafor PHI 12/16/2016 PHI vs. LAL L 24 14 4 7 57.1 0 0 - 6 6 100.0 2 6 8 0 1 0 0 1 -15
+p162
+aVErsan Ilyasova PHI 12/16/2016 PHI vs. LAL L 27 13 6 14 42.9 1 8 12.5 0 0 - 2 8 10 1 1 0 2 2 5
+p163
+aVNik Stauskas PHI 12/16/2016 PHI vs. LAL L 26 12 4 9 44.4 2 4 50.0 2 2 100.0 0 1 1 3 1 0 2 2 6
+p164
+aVGerald Henderson PHI 12/16/2016 PHI vs. LAL L 22 2 0 4 0.0 0 2 0.0 2 2 100.0 2 3 5 2 0 0 2 1 -17
+p165
+aVDario Saric PHI 12/16/2016 PHI vs. LAL L 20 7 2 8 25.0 1 4 25.0 2 2 100.0 2 1 3 0 0 0 1 1 1
+p166
+aVJoel Embiid PHI 12/16/2016 PHI vs. LAL L 29 15 5 14 35.7 2 4 50.0 3 8 37.5 2 2 4 2 0 2 3 2 -6
+p167
+aVNerlens Noel PHI 12/16/2016 PHI vs. LAL L 8 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 1 0 0 -5
+p168
+aVTJ McConnell PHI 12/16/2016 PHI vs. LAL L 23 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 9 3 0 2 2 12
+p169
+aVRobert Covington PHI 12/16/2016 PHI vs. LAL L 36 14 6 16 37.5 0 6 0.0 2 2 100.0 3 3 6 2 0 1 3 4 -13
+p170
+aVHollis Thompson PHI 12/14/2016 PHI vs. TOR L 11 5 2 4 50.0 1 2 50.0 0 0 - 1 2 3 0 0 0 0 0 -2
+p171
+aVDario Saric PHI 12/14/2016 PHI vs. TOR L 13 2 0 2 0.0 0 2 0.0 2 2 100.0 1 5 6 0 0 0 1 5 5
+p172
+aVJoel Embiid PHI 12/14/2016 PHI vs. TOR L 27 9 3 6 50.0 0 2 0.0 3 5 60.0 1 5 6 5 1 2 4 5 -10
+p173
+aVTJ McConnell PHI 12/14/2016 PHI vs. TOR L 20 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 8 2 0 3 1 -2
+p174
+aVSergio Rodriguez PHI 12/14/2016 PHI vs. TOR L 29 16 7 15 46.7 2 6 33.3 0 0 - 0 1 1 5 0 0 1 3 -7
+p175
+aVNik Stauskas PHI 12/14/2016 PHI vs. TOR L 18 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 2 2
+p176
+aVRobert Covington PHI 12/14/2016 PHI vs. TOR L 31 26 10 20 50.0 3 7 42.9 3 4 75.0 7 5 12 2 0 0 3 5 -7
+p177
+aVJahlil Okafor PHI 12/14/2016 PHI vs. TOR L 30 17 6 9 66.7 0 0 - 5 6 83.3 3 1 4 3 0 2 0 0 -7
+p178
+aVErsan Ilyasova PHI 12/14/2016 PHI vs. TOR L 23 12 5 13 38.5 1 5 20.0 1 2 50.0 0 7 7 1 0 0 0 2 -10
+p179
+aVRichaun Holmes PHI 12/14/2016 PHI vs. TOR L 7 6 3 5 60.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 4
+p180
+aVTimothe Luwawu-Cabarrot PHI 12/14/2016 PHI vs. TOR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 9
+p181
+aVGerald Henderson PHI 12/14/2016 PHI vs. TOR L 25 16 6 7 85.7 2 3 66.7 2 2 100.0 0 0 0 2 1 0 2 1 -20
+p182
+aVHollis Thompson PHI 12/11/2016 PHI @ DET W 15 7 3 5 60.0 1 3 33.3 0 0 - 1 1 2 0 0 1 0 0 3
+p183
+aVGerald Henderson PHI 12/11/2016 PHI @ DET W 22 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 5 0 0 1 0 -4
+p184
+aVRichaun Holmes PHI 12/11/2016 PHI @ DET W 11 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -14
+p185
+aVTimothe Luwawu-Cabarrot PHI 12/11/2016 PHI @ DET W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 8
+p186
+aVNerlens Noel PHI 12/11/2016 PHI @ DET W 10 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 11
+p187
+aVRobert Covington PHI 12/11/2016 PHI @ DET W 34 16 6 9 66.7 2 4 50.0 2 2 100.0 0 7 7 2 2 1 3 4 13
+p188
+aVDario Saric PHI 12/11/2016 PHI @ DET W 20 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 0 0 2 0 3
+p189
+aVJahlil Okafor PHI 12/11/2016 PHI @ DET W 27 14 6 9 66.7 0 0 - 2 4 50.0 1 8 9 1 1 2 5 4 21
+p190
+aVNik Stauskas PHI 12/11/2016 PHI @ DET W 25 10 2 3 66.7 1 2 50.0 5 6 83.3 0 2 2 4 1 0 2 2 17
+p191
+aVTJ McConnell PHI 12/11/2016 PHI @ DET W 37 12 6 9 66.7 0 0 - 0 0 - 1 9 10 9 3 0 3 2 11
+p192
+aVErsan Ilyasova PHI 12/11/2016 PHI @ DET W 34 15 6 12 50.0 2 5 40.0 1 1 100.0 1 7 8 0 2 0 4 0 21
+p193
+aVErsan Ilyasova PHI 12/08/2016 PHI @ NOP W 32 23 9 16 56.3 2 6 33.3 3 4 75.0 2 6 8 4 1 0 1 2 9
+p194
+aVRichaun Holmes PHI 12/08/2016 PHI @ NOP W 20 8 4 6 66.7 0 0 - 0 2 0.0 0 7 7 1 0 2 0 4 -12
+p195
+aVTJ McConnell PHI 12/08/2016 PHI @ NOP W 19 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 4 1 0 1 2 -7
+p196
+aVRobert Covington PHI 12/08/2016 PHI @ NOP W 31 7 3 9 33.3 1 5 20.0 0 0 - 2 5 7 1 1 1 2 1 12
+p197
+aVNik Stauskas PHI 12/08/2016 PHI @ NOP W 22 14 5 7 71.4 3 5 60.0 1 1 100.0 1 1 2 5 0 0 0 0 -4
+p198
+aVSergio Rodriguez PHI 12/08/2016 PHI @ NOP W 30 16 6 13 46.2 4 8 50.0 0 0 - 0 2 2 8 1 0 1 2 14
+p199
+aVTimothe Luwawu-Cabarrot PHI 12/08/2016 PHI @ NOP W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -6
+p200
+aVHollis Thompson PHI 12/08/2016 PHI @ NOP W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p201
+aVDario Saric PHI 12/08/2016 PHI @ NOP W 25 13 5 11 45.5 2 6 33.3 1 1 100.0 2 3 5 1 0 1 1 2 10
+p202
+aVGerald Henderson PHI 12/08/2016 PHI @ NOP W 24 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 1 1 0 1 2 10
+p203
+aVJoel Embiid PHI 12/08/2016 PHI @ NOP W 27 14 5 15 33.3 0 5 0.0 4 5 80.0 3 4 7 2 3 4 3 3 27
+p204
+aVHollis Thompson PHI 12/06/2016 PHI @ MEM L 23 7 2 6 33.3 2 4 50.0 1 2 50.0 0 1 1 2 0 1 1 2 -6
+p205
+aVErsan Ilyasova PHI 12/06/2016 PHI @ MEM L 40 23 7 19 36.8 4 13 30.8 5 7 71.4 3 14 17 4 1 2 2 5 5
+p206
+aVDario Saric PHI 12/06/2016 PHI @ MEM L 25 17 6 12 50.0 3 6 50.0 2 3 66.7 2 5 7 0 1 0 2 4 -11
+p207
+aVRichaun Holmes PHI 12/06/2016 PHI @ MEM L 34 10 5 13 38.5 0 2 0.0 0 1 0.0 3 3 6 2 1 3 2 4 -7
+p208
+aVTJ McConnell PHI 12/06/2016 PHI @ MEM L 25 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 9 2 0 3 2 -4
+p209
+aVTimothe Luwawu-Cabarrot PHI 12/06/2016 PHI @ MEM L 16 7 3 6 50.0 1 2 50.0 0 2 0.0 0 2 2 0 0 0 2 4 0
+p210
+aVNik Stauskas PHI 12/06/2016 PHI @ MEM L 38 12 3 10 30.0 1 8 12.5 5 10 50.0 0 4 4 1 0 1 0 2 -4
+p211
+aVSergio Rodriguez PHI 12/06/2016 PHI @ MEM L 23 5 2 7 28.6 1 4 25.0 0 0 - 0 3 3 3 0 0 3 3 -1
+p212
+aVGerald Henderson PHI 12/06/2016 PHI @ MEM L 16 5 2 4 50.0 1 1 100.0 0 1 0.0 0 3 3 0 0 0 1 1 3
+p213
+aVSergio Rodriguez PHI 12/05/2016 PHI vs. DEN L 33 17 7 14 50.0 3 6 50.0 0 0 - 1 3 4 7 3 0 3 3 5
+p214
+aVErsan Ilyasova PHI 12/05/2016 PHI vs. DEN L 36 17 7 15 46.7 2 5 40.0 1 2 50.0 3 5 8 2 2 0 1 2 -1
+p215
+aVGerald Henderson PHI 12/05/2016 PHI vs. DEN L 26 14 4 9 44.4 1 4 25.0 5 6 83.3 0 5 5 1 3 0 1 2 0
+p216
+aVHollis Thompson PHI 12/05/2016 PHI vs. DEN L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 1 -11
+p217
+aVTimothe Luwawu-Cabarrot PHI 12/05/2016 PHI vs. DEN L 10 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 1 1 0 2 -3
+p218
+aVNik Stauskas PHI 12/05/2016 PHI vs. DEN L 35 4 1 7 14.3 1 5 20.0 1 2 50.0 1 2 3 5 0 1 3 4 2
+p219
+aVJoel Embiid PHI 12/05/2016 PHI vs. DEN L 26 16 5 15 33.3 1 3 33.3 5 6 83.3 1 3 4 1 0 5 3 3 -9
+p220
+aVRichaun Holmes PHI 12/05/2016 PHI vs. DEN L 18 11 5 8 62.5 0 1 0.0 1 2 50.0 5 3 8 1 0 2 1 4 5
+p221
+aVDario Saric PHI 12/05/2016 PHI vs. DEN L 25 17 6 12 50.0 3 6 50.0 2 3 66.7 1 7 8 0 1 0 2 2 -15
+p222
+aVTJ McConnell PHI 12/05/2016 PHI vs. DEN L 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 1 1 2 2 -13
+p223
+aVErsan Ilyasova PHI 12/03/2016 PHI vs. BOS L 30 18 6 14 42.9 3 7 42.9 3 3 100.0 0 6 6 2 0 0 1 2 1
+p224
+aVJahlil Okafor PHI 12/03/2016 PHI vs. BOS L 33 15 6 9 66.7 0 0 - 3 4 75.0 0 4 4 3 1 1 2 5 0
+p225
+aVHollis Thompson PHI 12/03/2016 PHI vs. BOS L 17 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 2 -2
+p226
+aVSergio Rodriguez PHI 12/03/2016 PHI vs. BOS L 32 15 5 11 45.5 4 7 57.1 1 1 100.0 2 3 5 8 2 0 4 3 6
+p227
+aVNik Stauskas PHI 12/03/2016 PHI vs. BOS L 33 10 3 11 27.3 2 8 25.0 2 2 100.0 0 2 2 0 1 2 1 4 -4
+p228
+aVTimothe Luwawu-Cabarrot PHI 12/03/2016 PHI vs. BOS L 10 2 0 0 - 0 0 - 2 4 50.0 0 2 2 0 0 0 0 1 3
+p229
+aVTJ McConnell PHI 12/03/2016 PHI vs. BOS L 16 4 2 5 40.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 -4
+p230
+aVDario Saric PHI 12/03/2016 PHI vs. BOS L 27 21 7 12 58.3 3 6 50.0 4 4 100.0 3 8 11 2 1 0 3 0 -12
+p231
+aVRichaun Holmes PHI 12/03/2016 PHI vs. BOS L 11 3 0 2 0.0 0 1 0.0 3 4 75.0 1 0 1 1 0 0 2 3 -3
+p232
+aVGerald Henderson PHI 12/03/2016 PHI vs. BOS L 32 13 4 7 57.1 2 3 66.7 3 4 75.0 1 2 3 2 0 0 1 3 10
+p233
+aVGerald Henderson PHI 12/02/2016 PHI vs. ORL L 22 9 4 7 57.1 1 1 100.0 0 0 - 1 2 3 0 0 0 0 3 -11
+p234
+aVHollis Thompson PHI 12/02/2016 PHI vs. ORL L 25 2 1 7 14.3 0 4 0.0 0 0 - 1 1 2 1 1 0 0 2 -7
+p235
+aVJoel Embiid PHI 12/02/2016 PHI vs. ORL L 27 25 10 21 47.6 3 5 60.0 2 2 100.0 4 6 10 4 0 0 0 3 3
+p236
+aVDario Saric PHI 12/02/2016 PHI vs. ORL L 16 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 -17
+p237
+aVTJ McConnell PHI 12/02/2016 PHI vs. ORL L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 5 0 1 0 3 -8
+p238
+aVRichaun Holmes PHI 12/02/2016 PHI vs. ORL L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 4
+p239
+aVSergio Rodriguez PHI 12/02/2016 PHI vs. ORL L 25 8 3 9 33.3 1 2 50.0 1 1 100.0 0 3 3 7 0 1 2 0 -16
+p240
+aVJahlil Okafor PHI 12/02/2016 PHI vs. ORL L 28 16 8 10 80.0 0 0 - 0 1 0.0 6 7 13 0 0 2 3 1 -19
+p241
+aVErsan Ilyasova PHI 12/02/2016 PHI vs. ORL L 17 7 2 9 22.2 1 5 20.0 2 4 50.0 1 1 2 1 0 1 0 1 -5
+p242
+aVRobert Covington PHI 12/02/2016 PHI vs. ORL L 23 9 3 9 33.3 3 7 42.9 0 0 - 2 4 6 1 2 0 0 2 0
+p243
+aVTimothe Luwawu-Cabarrot PHI 12/02/2016 PHI vs. ORL L 6 4 1 3 33.3 0 1 0.0 2 2 100.0 0 3 3 0 0 1 0 1 7
+p244
+aVNik Stauskas PHI 12/02/2016 PHI vs. ORL L 25 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 5 0 0 3 0 -16
+p245
+aVRichaun Holmes PHI 11/28/2016 PHI @ TOR L 23 11 4 10 40.0 1 3 33.3 2 2 100.0 4 5 9 1 2 0 2 3 -6
+p246
+aVHollis Thompson PHI 11/28/2016 PHI @ TOR L 11 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 -8
+p247
+aVErsan Ilyasova PHI 11/28/2016 PHI @ TOR L 23 11 4 8 50.0 1 3 33.3 2 2 100.0 0 6 6 3 0 0 1 1 -10
+p248
+aVSergio Rodriguez PHI 11/28/2016 PHI @ TOR L 28 11 4 7 57.1 2 3 66.7 1 1 100.0 1 2 3 7 2 0 4 2 -25
+p249
+aVJahlil Okafor PHI 11/28/2016 PHI @ TOR L 25 15 7 14 50.0 0 0 - 1 2 50.0 3 2 5 0 0 1 0 1 -21
+p250
+aVDario Saric PHI 11/28/2016 PHI @ TOR L 24 8 3 13 23.1 1 6 16.7 1 4 25.0 1 3 4 4 0 1 2 1 -16
+p251
+aVTJ McConnell PHI 11/28/2016 PHI @ TOR L 20 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 4 2 1 1 4 -2
+p252
+aVRobert Covington PHI 11/28/2016 PHI @ TOR L 32 20 7 11 63.6 6 9 66.7 0 0 - 2 3 5 2 2 0 3 4 -25
+p253
+aVNik Stauskas PHI 11/28/2016 PHI @ TOR L 29 11 4 9 44.4 3 6 50.0 0 0 - 0 0 0 2 0 0 0 2 -8
+p254
+aVTimothe Luwawu-Cabarrot PHI 11/28/2016 PHI @ TOR L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 1 0 1 -8
+p255
+aVGerald Henderson PHI 11/28/2016 PHI @ TOR L 17 0 0 7 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 1 -6
+p256
+aVGerald Henderson PHI 11/27/2016 PHI vs. CLE L 32 13 5 13 38.5 1 6 16.7 2 2 100.0 1 4 5 4 1 1 0 3 10
+p257
+aVDario Saric PHI 11/27/2016 PHI vs. CLE L 20 10 4 9 44.4 2 4 50.0 0 0 - 1 3 4 3 0 1 4 3 -8
+p258
+aVHollis Thompson PHI 11/27/2016 PHI vs. CLE L 19 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 0 3 -8
+p259
+aVJahlil Okafor PHI 11/27/2016 PHI vs. CLE L 23 14 7 11 63.6 0 0 - 0 0 - 2 7 9 1 0 0 2 4 -1
+p260
+aVNik Stauskas PHI 11/27/2016 PHI vs. CLE L 25 11 4 6 66.7 2 4 50.0 1 2 50.0 0 3 3 4 0 0 1 2 -22
+p261
+aVJoel Embiid PHI 11/27/2016 PHI vs. CLE L 25 22 8 18 44.4 3 4 75.0 3 5 60.0 4 5 9 4 0 3 3 2 -3
+p262
+aVRobert Covington PHI 11/27/2016 PHI vs. CLE L 21 8 3 9 33.3 2 6 33.3 0 0 - 1 5 6 0 1 0 0 2 12
+p263
+aVErsan Ilyasova PHI 11/27/2016 PHI vs. CLE L 28 13 5 10 50.0 2 5 40.0 1 1 100.0 2 4 6 1 0 0 3 3 4
+p264
+aVTJ McConnell PHI 11/27/2016 PHI vs. CLE L 20 2 1 4 25.0 0 0 - 0 0 - 2 2 4 3 1 0 1 0 -13
+p265
+aVSergio Rodriguez PHI 11/27/2016 PHI vs. CLE L 28 12 5 9 55.6 2 3 66.7 0 0 - 0 2 2 7 2 0 2 2 9
+p266
+aVJahlil Okafor PHI 11/25/2016 PHI vs. CHI L 27 10 5 11 45.5 0 0 - 0 2 0.0 1 5 6 1 1 1 1 3 -27
+p267
+aVNik Stauskas PHI 11/25/2016 PHI vs. CHI L 24 13 5 9 55.6 2 4 50.0 1 2 50.0 0 5 5 3 0 3 3 1 -2
+p268
+aVJerryd Bayless PHI 11/25/2016 PHI vs. CHI L 26 11 4 10 40.0 1 1 100.0 2 2 100.0 1 3 4 2 0 0 2 1 -16
+p269
+aVRichaun Holmes PHI 11/25/2016 PHI vs. CHI L 21 13 4 8 50.0 1 2 50.0 4 4 100.0 3 2 5 0 1 3 2 1 11
+p270
+aVSergio Rodriguez PHI 11/25/2016 PHI vs. CHI L 14 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 3 0 0 3 2 4
+p271
+aVTJ McConnell PHI 11/25/2016 PHI vs. CHI L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -3
+p272
+aVRobert Covington PHI 11/25/2016 PHI vs. CHI L 20 2 0 4 0.0 0 3 0.0 2 2 100.0 1 0 1 0 2 1 2 3 -28
+p273
+aVDario Saric PHI 11/25/2016 PHI vs. CHI L 22 4 1 6 16.7 0 0 - 2 2 100.0 0 7 7 3 0 0 3 2 -8
+p274
+aVErsan Ilyasova PHI 11/25/2016 PHI vs. CHI L 26 14 5 8 62.5 1 2 50.0 3 4 75.0 1 6 7 2 0 0 1 1 -8
+p275
+aVHollis Thompson PHI 11/25/2016 PHI vs. CHI L 21 11 4 5 80.0 3 3 100.0 0 0 - 0 5 5 2 2 0 0 3 12
+p276
+aVGerald Henderson PHI 11/25/2016 PHI vs. CHI L 19 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 0 0 0 1 3 -21
+p277
+aVTimothe Luwawu-Cabarrot PHI 11/25/2016 PHI vs. CHI L 10 6 1 4 25.0 0 2 0.0 4 4 100.0 0 3 3 1 0 0 0 1 6
+p278
+aVJerryd Bayless PHI 11/23/2016 PHI vs. MEM L 30 18 6 15 40.0 1 2 50.0 5 6 83.3 1 5 6 6 0 0 5 3 7
+p279
+aVRobert Covington PHI 11/23/2016 PHI vs. MEM L 46 19 6 10 60.0 4 7 57.1 3 5 60.0 1 9 10 2 3 3 6 5 0
+p280
+aVNik Stauskas PHI 11/23/2016 PHI vs. MEM L 43 10 3 12 25.0 2 7 28.6 2 2 100.0 0 5 5 4 1 0 2 2 -14
+p281
+aVSergio Rodriguez PHI 11/23/2016 PHI vs. MEM L 21 7 3 9 33.3 1 3 33.3 0 0 - 0 0 0 5 0 0 1 0 4
+p282
+aVTJ McConnell PHI 11/23/2016 PHI vs. MEM L 8 0 0 0 - 0 0 - 0 0 - 0 3 3 1 1 0 0 1 -12
+p283
+aVJahlil Okafor PHI 11/23/2016 PHI vs. MEM L 26 2 1 6 16.7 0 0 - 0 1 0.0 1 0 1 0 1 3 3 4 -13
+p284
+aVHollis Thompson PHI 11/23/2016 PHI vs. MEM L 27 6 3 10 30.0 0 3 0.0 0 0 - 0 3 3 1 2 1 0 3 2
+p285
+aVDario Saric PHI 11/23/2016 PHI vs. MEM L 22 3 1 6 16.7 1 5 20.0 0 0 - 2 3 5 2 0 0 1 3 -2
+p286
+aVJoel Embiid PHI 11/23/2016 PHI vs. MEM L 27 12 4 10 40.0 1 4 25.0 3 4 75.0 1 10 11 3 1 3 7 5 6
+p287
+aVErsan Ilyasova PHI 11/23/2016 PHI vs. MEM L 40 22 8 15 53.3 2 5 40.0 4 5 80.0 2 10 12 0 0 0 1 6 -3
+p288
+aVErsan Ilyasova PHI 11/21/2016 PHI vs. MIA W 31 10 4 7 57.1 2 5 40.0 0 0 - 0 11 11 3 1 0 2 3 11
+p289
+aVHollis Thompson PHI 11/21/2016 PHI vs. MIA W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -2
+p290
+aVJahlil Okafor PHI 11/21/2016 PHI vs. MIA W 25 15 7 13 53.8 0 0 - 1 3 33.3 1 2 3 1 0 1 0 3 1
+p291
+aVSergio Rodriguez PHI 11/21/2016 PHI vs. MIA W 20 9 4 4 100.0 1 1 100.0 0 0 - 0 0 0 5 0 0 3 1 3
+p292
+aVGerald Henderson PHI 11/21/2016 PHI vs. MIA W 32 19 6 8 75.0 3 3 100.0 4 4 100.0 0 3 3 2 0 0 1 3 10
+p293
+aVJerryd Bayless PHI 11/21/2016 PHI vs. MIA W 15 4 1 7 14.3 0 2 0.0 2 2 100.0 1 1 2 5 0 0 2 0 -12
+p294
+aVTJ McConnell PHI 11/21/2016 PHI vs. MIA W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 2 0 0 2 14
+p295
+aVDario Saric PHI 11/21/2016 PHI vs. MIA W 17 3 1 4 25.0 1 3 33.3 0 0 - 0 4 4 0 0 0 0 3 -4
+p296
+aVJoel Embiid PHI 11/21/2016 PHI vs. MIA W 23 22 7 13 53.8 1 2 50.0 7 9 77.8 0 5 5 0 1 3 1 2 6
+p297
+aVRobert Covington PHI 11/21/2016 PHI vs. MIA W 31 9 4 13 30.8 1 5 20.0 0 0 - 5 4 9 1 3 0 1 5 8
+p298
+aVNik Stauskas PHI 11/21/2016 PHI vs. MIA W 21 8 2 6 33.3 2 4 50.0 2 2 100.0 0 3 3 0 0 1 4 1 0
+p299
+aVJoel Embiid PHI 11/19/2016 PHI vs. PHX W 20 26 9 14 64.3 3 5 60.0 5 6 83.3 0 7 7 2 0 2 3 4 16
+p300
+aVDario Saric PHI 11/19/2016 PHI vs. PHX W 25 10 3 7 42.9 2 4 50.0 2 2 100.0 0 7 7 5 0 1 2 2 11
+p301
+aVJahlil Okafor PHI 11/19/2016 PHI vs. PHX W 19 6 3 4 75.0 0 0 - 0 0 - 1 0 1 2 0 3 1 2 5
+p302
+aVHollis Thompson PHI 11/19/2016 PHI vs. PHX W 26 14 5 9 55.6 3 5 60.0 1 2 50.0 2 2 4 1 0 0 1 3 6
+p303
+aVTimothe Luwawu-Cabarrot PHI 11/19/2016 PHI vs. PHX W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -13
+p304
+aVErsan Ilyasova PHI 11/19/2016 PHI vs. PHX W 24 11 5 9 55.6 1 4 25.0 0 0 - 0 2 2 1 1 0 0 2 7
+p305
+aVGerald Henderson PHI 11/19/2016 PHI vs. PHX W 22 11 4 8 50.0 0 1 0.0 3 4 75.0 2 3 5 1 3 0 0 3 8
+p306
+aVTJ McConnell PHI 11/19/2016 PHI vs. PHX W 19 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 6 3 0 2 1 20
+p307
+aVNik Stauskas PHI 11/19/2016 PHI vs. PHX W 26 21 8 9 88.9 5 6 83.3 0 0 - 0 2 2 0 0 1 2 2 25
+p308
+aVRichaun Holmes PHI 11/19/2016 PHI vs. PHX W 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 2 -9
+p309
+aVSergio Rodriguez PHI 11/19/2016 PHI vs. PHX W 29 8 3 10 30.0 2 6 33.3 0 0 - 0 8 8 11 2 0 4 0 -5
+p310
+aVRobert Covington PHI 11/19/2016 PHI vs. PHX W 18 3 1 5 20.0 1 4 25.0 0 2 0.0 0 5 5 2 2 2 3 1 4
+p311
+aVNik Stauskas PHI 11/17/2016 PHI @ MIN L 24 13 4 8 50.0 3 6 50.0 2 2 100.0 1 4 5 1 2 0 1 1 -21
+p312
+aVErsan Ilyasova PHI 11/17/2016 PHI @ MIN L 21 11 5 12 41.7 1 4 25.0 0 0 - 0 3 3 3 0 0 2 1 -15
+p313
+aVRobert Covington PHI 11/17/2016 PHI @ MIN L 28 4 1 12 8.3 0 7 0.0 2 2 100.0 1 2 3 1 1 0 1 1 -17
+p314
+aVJoel Embiid PHI 11/17/2016 PHI @ MIN L 22 10 4 9 44.4 0 1 0.0 2 4 50.0 4 6 10 0 0 1 2 3 -19
+p315
+aVTJ McConnell PHI 11/17/2016 PHI @ MIN L 24 6 3 4 75.0 0 0 - 0 0 - 1 5 6 7 2 0 1 1 -4
+p316
+aVDario Saric PHI 11/17/2016 PHI @ MIN L 27 16 6 11 54.5 2 4 50.0 2 3 66.7 3 1 4 1 2 0 1 3 -9
+p317
+aVSergio Rodriguez PHI 11/17/2016 PHI @ MIN L 24 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 2 1 0 3 2 -20
+p318
+aVRichaun Holmes PHI 11/17/2016 PHI @ MIN L 3 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 0 1 1 1 0 1
+p319
+aVTimothe Luwawu-Cabarrot PHI 11/17/2016 PHI @ MIN L 9 5 1 5 20.0 1 2 50.0 2 2 100.0 1 0 1 0 0 0 1 1 1
+p320
+aVGerald Henderson PHI 11/17/2016 PHI @ MIN L 15 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p321
+aVHollis Thompson PHI 11/17/2016 PHI @ MIN L 20 7 2 6 33.3 1 3 33.3 2 2 100.0 1 2 3 0 0 0 0 1 -7
+p322
+aVJahlil Okafor PHI 11/17/2016 PHI @ MIN L 22 7 2 5 40.0 0 0 - 3 4 75.0 0 2 2 0 0 0 1 2 -6
+p323
+aVRobert Covington PHI 11/16/2016 PHI vs. WAS W 23 4 1 7 14.3 0 5 0.0 2 4 50.0 1 6 7 2 0 0 3 2 -4
+p324
+aVTJ McConnell PHI 11/16/2016 PHI vs. WAS W 20 2 1 2 50.0 0 0 - 0 0 - 0 3 3 4 1 0 3 2 2
+p325
+aVDario Saric PHI 11/16/2016 PHI vs. WAS W 26 13 5 13 38.5 1 6 16.7 2 3 66.7 1 11 12 1 0 0 4 2 5
+p326
+aVHollis Thompson PHI 11/16/2016 PHI vs. WAS W 23 11 5 8 62.5 1 2 50.0 0 1 0.0 0 1 1 2 1 0 0 2 13
+p327
+aVErsan Ilyasova PHI 11/16/2016 PHI vs. WAS W 26 16 5 10 50.0 4 8 50.0 2 2 100.0 1 3 4 0 0 0 1 6 4
+p328
+aVNik Stauskas PHI 11/16/2016 PHI vs. WAS W 25 15 6 8 75.0 2 3 66.7 1 2 50.0 0 1 1 2 1 0 1 1 17
+p329
+aVGerald Henderson PHI 11/16/2016 PHI vs. WAS W 29 14 6 11 54.5 0 1 0.0 2 2 100.0 0 1 1 3 0 1 0 1 -5
+p330
+aVRichaun Holmes PHI 11/16/2016 PHI vs. WAS W 19 8 3 3 100.0 2 2 100.0 0 0 - 2 1 3 2 3 0 0 3 -9
+p331
+aVSergio Rodriguez PHI 11/16/2016 PHI vs. WAS W 28 7 2 4 50.0 0 1 0.0 3 4 75.0 0 4 4 12 0 0 3 1 5
+p332
+aVJahlil Okafor PHI 11/16/2016 PHI vs. WAS W 20 19 8 11 72.7 0 0 - 3 4 75.0 0 5 5 2 0 0 2 6 7
+p333
+aVTimothe Luwawu-Cabarrot PHI 11/14/2016 PHI @ HOU L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -4
+p334
+aVJoel Embiid PHI 11/14/2016 PHI @ HOU L 23 13 6 10 60.0 0 2 0.0 1 1 100.0 2 8 10 1 1 2 6 5 3
+p335
+aVSergio Rodriguez PHI 11/14/2016 PHI @ HOU L 27 2 1 8 12.5 0 1 0.0 0 0 - 0 2 2 6 1 1 1 0 -17
+p336
+aVGerald Henderson PHI 11/14/2016 PHI @ HOU L 28 11 4 8 50.0 1 1 100.0 2 2 100.0 1 0 1 3 3 1 0 1 -7
+p337
+aVNik Stauskas PHI 11/14/2016 PHI @ HOU L 29 12 4 9 44.4 1 5 20.0 3 4 75.0 0 2 2 1 1 0 1 2 -16
+p338
+aVRichaun Holmes PHI 11/14/2016 PHI @ HOU L 8 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 0 -10
+p339
+aVHollis Thompson PHI 11/14/2016 PHI @ HOU L 14 3 1 4 25.0 0 0 - 1 2 50.0 2 0 2 0 1 1 1 2 -10
+p340
+aVRobert Covington PHI 11/14/2016 PHI @ HOU L 14 7 1 7 14.3 1 6 16.7 4 4 100.0 0 1 1 0 0 0 0 4 -16
+p341
+aVErsan Ilyasova PHI 11/14/2016 PHI @ HOU L 22 13 5 11 45.5 1 2 50.0 2 2 100.0 0 6 6 0 0 0 0 1 -10
+p342
+aVJahlil Okafor PHI 11/14/2016 PHI @ HOU L 22 4 2 11 18.2 0 0 - 0 0 - 2 1 3 1 0 2 0 1 -21
+p343
+aVDario Saric PHI 11/14/2016 PHI @ HOU L 24 11 4 11 36.4 1 3 33.3 2 2 100.0 1 5 6 2 0 0 0 0 -17
+p344
+aVTJ McConnell PHI 11/14/2016 PHI @ HOU L 21 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 3 2 0 2 1 -10
+p345
+aVRobert Covington PHI 11/12/2016 PHI @ ATL L 26 11 3 8 37.5 3 7 42.9 2 2 100.0 0 3 3 0 4 1 3 3 -10
+p346
+aVDario Saric PHI 11/12/2016 PHI @ ATL L 28 12 5 13 38.5 2 4 50.0 0 0 - 1 6 7 1 1 0 3 0 -11
+p347
+aVErsan Ilyasova PHI 11/12/2016 PHI @ ATL L 24 9 4 12 33.3 1 5 20.0 0 0 - 0 5 5 2 1 1 4 3 -16
+p348
+aVGerald Henderson PHI 11/12/2016 PHI @ ATL L 21 6 3 6 50.0 0 1 0.0 0 2 0.0 1 2 3 2 1 0 0 1 -5
+p349
+aVRichaun Holmes PHI 11/12/2016 PHI @ ATL L 20 7 2 8 25.0 0 1 0.0 3 4 75.0 2 3 5 2 1 0 0 1 -15
+p350
+aVTJ McConnell PHI 11/12/2016 PHI @ ATL L 23 2 1 2 50.0 0 0 - 0 0 - 0 0 0 6 1 0 1 2 -7
+p351
+aVSergio Rodriguez PHI 11/12/2016 PHI @ ATL L 25 13 5 9 55.6 3 4 75.0 0 0 - 0 3 3 4 1 1 0 1 -14
+p352
+aVNik Stauskas PHI 11/12/2016 PHI @ ATL L 24 12 4 6 66.7 2 4 50.0 2 2 100.0 2 2 4 1 3 0 4 2 -13
+p353
+aVTimothe Luwawu-Cabarrot PHI 11/12/2016 PHI @ ATL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p354
+aVJahlil Okafor PHI 11/12/2016 PHI @ ATL L 24 18 7 13 53.8 0 0 - 4 8 50.0 3 3 6 2 0 1 2 4 0
+p355
+aVHollis Thompson PHI 11/12/2016 PHI @ ATL L 22 4 1 5 20.0 0 3 0.0 2 2 100.0 1 2 3 1 1 0 2 3 -12
+p356
+aVTJ McConnell PHI 11/11/2016 PHI vs. IND W 19 6 1 2 50.0 1 1 100.0 3 4 75.0 0 4 4 3 0 0 2 1 2
+p357
+aVJahlil Okafor PHI 11/11/2016 PHI vs. IND W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p358
+aVRobert Covington PHI 11/11/2016 PHI vs. IND W 40 10 3 13 23.1 2 9 22.2 2 2 100.0 1 3 4 3 2 1 0 3 12
+p359
+aVRichaun Holmes PHI 11/11/2016 PHI vs. IND W 24 8 4 10 40.0 0 1 0.0 0 0 - 4 8 12 0 1 1 1 2 5
+p360
+aVErsan Ilyasova PHI 11/11/2016 PHI vs. IND W 24 14 4 6 66.7 3 5 60.0 3 3 100.0 2 9 11 2 0 0 0 2 4
+p361
+aVHollis Thompson PHI 11/11/2016 PHI vs. IND W 13 5 2 3 66.7 0 1 0.0 1 1 100.0 0 4 4 0 0 0 0 0 -8
+p362
+aVNik Stauskas PHI 11/11/2016 PHI vs. IND W 24 14 5 7 71.4 2 4 50.0 2 4 50.0 0 0 0 1 0 1 1 1 -3
+p363
+aVDario Saric PHI 11/11/2016 PHI vs. IND W 29 8 3 6 50.0 1 2 50.0 1 1 100.0 0 5 5 2 3 0 4 1 0
+p364
+aVJoel Embiid PHI 11/11/2016 PHI vs. IND W 26 25 6 18 33.3 1 3 33.3 12 14 85.7 3 4 7 2 0 2 5 3 4
+p365
+aVSergio Rodriguez PHI 11/11/2016 PHI vs. IND W 34 7 3 7 42.9 1 4 25.0 0 0 - 1 1 2 9 0 0 4 4 2
+p366
+aVGerald Henderson PHI 11/11/2016 PHI vs. IND W 29 12 5 12 41.7 0 2 0.0 2 2 100.0 2 2 4 1 1 1 2 3 7
+p367
+aVNik Stauskas PHI 11/09/2016 PHI @ IND L 17 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 3 1 -8
+p368
+aVGerald Henderson PHI 11/09/2016 PHI @ IND L 30 17 8 14 57.1 1 3 33.3 0 0 - 1 3 4 2 0 0 3 5 -10
+p369
+aVJahlil Okafor PHI 11/09/2016 PHI @ IND L 24 15 7 11 63.6 0 0 - 1 5 20.0 1 2 3 1 1 2 2 0 -6
+p370
+aVDario Saric PHI 11/09/2016 PHI @ IND L 34 14 5 9 55.6 2 2 100.0 2 2 100.0 2 10 12 3 0 2 3 4 -6
+p371
+aVSergio Rodriguez PHI 11/09/2016 PHI @ IND L 31 2 1 14 7.1 0 7 0.0 0 0 - 1 1 2 5 3 0 2 1 -12
+p372
+aVErsan Ilyasova PHI 11/09/2016 PHI @ IND L 21 6 2 6 33.3 1 2 50.0 1 2 50.0 0 2 2 2 1 0 0 1 -6
+p373
+aVRichaun Holmes PHI 11/09/2016 PHI @ IND L 28 7 3 4 75.0 1 2 50.0 0 4 0.0 0 6 6 0 2 2 1 3 2
+p374
+aVRobert Covington PHI 11/09/2016 PHI @ IND L 33 23 8 16 50.0 5 9 55.6 2 2 100.0 3 3 6 1 2 0 0 1 -3
+p375
+aVTJ McConnell PHI 11/09/2016 PHI @ IND L 21 9 4 7 57.1 0 3 0.0 1 2 50.0 0 1 1 5 1 0 2 2 6
+p376
+aVHollis Thompson PHI 11/09/2016 PHI @ IND L 26 19 7 12 58.3 3 6 50.0 2 2 100.0 2 4 6 3 1 0 1 3 8
+p377
+aVGerald Henderson PHI 11/07/2016 PHI vs. UTA L 24 7 3 8 37.5 1 2 50.0 0 0 - 0 3 3 0 1 0 1 2 -6
+p378
+aVRichaun Holmes PHI 11/07/2016 PHI vs. UTA L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p379
+aVRobert Covington PHI 11/07/2016 PHI vs. UTA L 29 12 4 5 80.0 3 4 75.0 1 2 50.0 0 8 8 1 0 0 0 2 -13
+p380
+aVJahlil Okafor PHI 11/07/2016 PHI vs. UTA L 22 15 7 14 50.0 0 0 - 1 2 50.0 2 2 4 1 0 1 2 4 -19
+p381
+aVJoel Embiid PHI 11/07/2016 PHI vs. UTA L 19 14 4 8 50.0 0 0 - 6 9 66.7 4 5 9 0 1 1 5 5 -7
+p382
+aVDario Saric PHI 11/07/2016 PHI vs. UTA L 23 4 2 6 33.3 0 0 - 0 0 - 0 2 2 2 0 0 2 0 -4
+p383
+aVTJ McConnell PHI 11/07/2016 PHI vs. UTA L 20 0 0 2 0.0 0 0 - 0 0 - 0 2 2 4 1 0 1 1 -16
+p384
+aVErsan Ilyasova PHI 11/07/2016 PHI vs. UTA L 26 10 2 12 16.7 1 5 20.0 5 5 100.0 1 2 3 2 0 0 2 0 -21
+p385
+aVHollis Thompson PHI 11/07/2016 PHI vs. UTA L 18 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 -17
+p386
+aVNik Stauskas PHI 11/07/2016 PHI vs. UTA L 22 9 3 6 50.0 1 3 33.3 2 2 100.0 1 2 3 1 0 0 2 3 -12
+p387
+aVTimothe Luwawu-Cabarrot PHI 11/07/2016 PHI vs. UTA L 4 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -2
+p388
+aVSergio Rodriguez PHI 11/07/2016 PHI vs. UTA L 28 6 3 9 33.3 0 4 0.0 0 0 - 1 3 4 5 2 0 3 0 -9
+p389
+aVTimothe Luwawu-Cabarrot PHI 11/05/2016 PHI vs. CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p390
+aVHollis Thompson PHI 11/05/2016 PHI vs. CLE L 20 8 3 6 50.0 2 5 40.0 0 0 - 0 2 2 1 0 0 1 3 16
+p391
+aVSergio Rodriguez PHI 11/05/2016 PHI vs. CLE L 31 7 3 9 33.3 1 5 20.0 0 0 - 0 6 6 11 2 0 3 1 2
+p392
+aVJoel Embiid PHI 11/05/2016 PHI vs. CLE L 25 22 7 13 53.8 4 4 100.0 4 4 100.0 2 4 6 2 1 4 6 3 -11
+p393
+aVTJ McConnell PHI 11/05/2016 PHI vs. CLE L 17 6 3 5 60.0 0 0 - 0 0 - 1 2 3 3 0 0 1 1 -3
+p394
+aVNik Stauskas PHI 11/05/2016 PHI vs. CLE L 19 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 1 0 0 0 0 5
+p395
+aVDario Saric PHI 11/05/2016 PHI vs. CLE L 18 3 1 5 20.0 0 1 0.0 1 2 50.0 0 7 7 2 0 0 1 4 22
+p396
+aVErsan Ilyasova PHI 11/05/2016 PHI vs. CLE L 28 21 8 13 61.5 4 6 66.7 1 2 50.0 2 2 4 0 0 0 0 3 -20
+p397
+aVGerald Henderson PHI 11/05/2016 PHI vs. CLE L 24 11 5 9 55.6 1 4 25.0 0 0 - 0 2 2 1 2 0 2 5 -19
+p398
+aVJahlil Okafor PHI 11/05/2016 PHI vs. CLE L 23 14 7 11 63.6 0 0 - 0 2 0.0 0 5 5 0 1 3 1 1 10
+p399
+aVRobert Covington PHI 11/05/2016 PHI vs. CLE L 30 4 1 10 10.0 1 9 11.1 1 2 50.0 0 8 8 0 3 2 2 2 -5
+p400
+aVSergio Rodriguez PHI 11/02/2016 PHI @ CHA L 26 10 3 9 33.3 3 7 42.9 1 1 100.0 1 2 3 5 0 1 4 0 -16
+p401
+aVJahlil Okafor PHI 11/02/2016 PHI @ CHA L 24 12 4 8 50.0 0 0 - 4 5 80.0 1 4 5 1 1 0 1 3 -14
+p402
+aVGerald Henderson PHI 11/02/2016 PHI @ CHA L 25 11 5 8 62.5 1 2 50.0 0 0 - 0 3 3 3 0 0 2 2 -9
+p403
+aVTJ McConnell PHI 11/02/2016 PHI @ CHA L 22 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 6 3 0 2 2 -1
+p404
+aVTimothe Luwawu-Cabarrot PHI 11/02/2016 PHI @ CHA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p405
+aVDario Saric PHI 11/02/2016 PHI @ CHA L 29 14 5 13 38.5 2 4 50.0 2 3 66.7 1 6 7 1 1 0 1 3 -19
+p406
+aVRobert Covington PHI 11/02/2016 PHI @ CHA L 26 6 2 9 22.2 2 8 25.0 0 0 - 1 2 3 0 2 0 2 4 -17
+p407
+aVNik Stauskas PHI 11/02/2016 PHI @ CHA L 31 7 2 6 33.3 1 3 33.3 2 2 100.0 0 4 4 2 0 0 2 0 2
+p408
+aVHollis Thompson PHI 11/02/2016 PHI @ CHA L 20 4 2 9 22.2 0 3 0.0 0 0 - 1 4 5 1 1 0 0 3 -6
+p409
+aVRichaun Holmes PHI 11/02/2016 PHI @ CHA L 12 11 4 4 100.0 1 1 100.0 2 2 100.0 1 2 3 2 0 1 2 4 7
+p410
+aVErsan Ilyasova PHI 11/02/2016 PHI @ CHA L 23 14 5 12 41.7 2 6 33.3 2 2 100.0 2 1 3 2 0 0 1 3 -5
+p411
+aVRichaun Holmes PHI 11/01/2016 PHI vs. ORL L 23 6 3 6 50.0 0 0 - 0 0 - 1 6 7 2 0 1 2 2 -7
+p412
+aVRobert Covington PHI 11/01/2016 PHI vs. ORL L 28 0 0 6 0.0 0 4 0.0 0 0 - 0 5 5 1 3 2 1 3 -6
+p413
+aVGerald Henderson PHI 11/01/2016 PHI vs. ORL L 31 18 7 13 53.8 0 0 - 4 5 80.0 1 3 4 1 1 0 1 1 -3
+p414
+aVJoel Embiid PHI 11/01/2016 PHI vs. ORL L 25 18 6 12 50.0 0 1 0.0 6 9 66.7 3 7 10 3 0 4 4 2 5
+p415
+aVDario Saric PHI 11/01/2016 PHI vs. ORL L 31 21 9 14 64.3 3 3 100.0 0 0 - 1 2 3 1 1 0 3 2 5
+p416
+aVNik Stauskas PHI 11/01/2016 PHI vs. ORL L 22 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 0 0 0 3 -20
+p417
+aVTimothe Luwawu-Cabarrot PHI 11/01/2016 PHI vs. ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 12
+p418
+aVSergio Rodriguez PHI 11/01/2016 PHI vs. ORL L 32 12 5 11 45.5 2 5 40.0 0 0 - 0 5 5 11 0 0 4 2 4
+p419
+aVHollis Thompson PHI 11/01/2016 PHI vs. ORL L 28 22 8 10 80.0 4 4 100.0 2 2 100.0 1 6 7 1 0 1 0 2 6
+p420
+aVTJ McConnell PHI 11/01/2016 PHI vs. ORL L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 7 0 0 0 3 -6
+p421
+aVJahlil Okafor PHI 10/29/2016 PHI vs. ATL L 15 8 2 7 28.6 0 0 - 4 4 100.0 1 3 4 1 1 0 0 1 -5
+p422
+aVRichaun Holmes PHI 10/29/2016 PHI vs. ATL L 20 10 5 8 62.5 0 0 - 0 0 - 1 5 6 1 0 0 1 3 -24
+p423
+aVNik Stauskas PHI 10/29/2016 PHI vs. ATL L 29 6 2 7 28.6 2 3 66.7 0 0 - 0 5 5 1 0 1 3 3 -20
+p424
+aVSergio Rodriguez PHI 10/29/2016 PHI vs. ATL L 29 14 7 13 53.8 0 2 0.0 0 0 - 1 3 4 5 1 0 4 1 -14
+p425
+aVTimothe Luwawu-Cabarrot PHI 10/29/2016 PHI vs. ATL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -10
+p426
+aVTJ McConnell PHI 10/29/2016 PHI vs. ATL L 19 6 2 5 40.0 0 1 0.0 2 3 66.7 1 2 3 2 1 0 2 2 -18
+p427
+aVRobert Covington PHI 10/29/2016 PHI vs. ATL L 23 0 0 5 0.0 0 5 0.0 0 0 - 0 1 1 1 3 0 4 1 -18
+p428
+aVJoel Embiid PHI 10/29/2016 PHI vs. ATL L 15 14 5 9 55.6 1 1 100.0 3 4 75.0 0 2 2 1 1 2 3 3 -3
+p429
+aVJerami Grant PHI 10/29/2016 PHI vs. ATL L 19 6 2 7 28.6 0 1 0.0 2 4 50.0 0 3 3 0 0 2 1 3 -15
+p430
+aVDario Saric PHI 10/29/2016 PHI vs. ATL L 26 5 2 9 22.2 1 3 33.3 0 0 - 0 4 4 2 0 0 1 1 -17
+p431
+aVHollis Thompson PHI 10/29/2016 PHI vs. ATL L 20 3 1 4 25.0 1 1 100.0 0 0 - 0 5 5 0 0 0 0 2 -14
+p432
+aVGerald Henderson PHI 10/29/2016 PHI vs. ATL L 18 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -2
+p433
+aVRobert Covington PHI 10/26/2016 PHI vs. OKC L 32 10 3 6 50.0 2 4 50.0 2 2 100.0 1 4 5 2 2 1 0 1 4
+p434
+aVNik Stauskas PHI 10/26/2016 PHI vs. OKC L 23 13 5 6 83.3 0 1 0.0 3 3 100.0 0 4 4 1 0 0 0 0 -1
+p435
+aVJoel Embiid PHI 10/26/2016 PHI vs. OKC L 22 20 6 16 37.5 1 3 33.3 7 8 87.5 0 7 7 0 0 2 4 4 -4
+p436
+aVSergio Rodriguez PHI 10/26/2016 PHI vs. OKC L 32 12 5 11 45.5 2 6 33.3 0 0 - 0 4 4 9 0 0 0 1 10
+p437
+aVRichaun Holmes PHI 10/26/2016 PHI vs. OKC L 12 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 0 0 3 1 3 1
+p438
+aVDario Saric PHI 10/26/2016 PHI vs. OKC L 27 5 2 12 16.7 0 4 0.0 1 2 50.0 1 6 7 2 0 0 2 3 -2
+p439
+aVJahlil Okafor PHI 10/26/2016 PHI vs. OKC L 16 8 4 10 40.0 0 0 - 0 0 - 1 2 3 0 0 1 3 2 0
+p440
+aVTJ McConnell PHI 10/26/2016 PHI vs. OKC L 16 0 0 0 - 0 0 - 0 0 - 0 2 2 7 2 0 1 3 -14
+p441
+aVGerald Henderson PHI 10/26/2016 PHI vs. OKC L 25 9 3 6 50.0 2 3 66.7 1 2 50.0 0 2 2 0 0 0 0 2 -5
+p442
+aVHollis Thompson PHI 10/26/2016 PHI vs. OKC L 13 4 2 5 40.0 0 2 0.0 0 2 0.0 1 2 3 0 1 1 0 1 -10
+p443
+aVJerami Grant PHI 10/26/2016 PHI vs. OKC L 22 10 4 10 40.0 0 1 0.0 2 4 50.0 0 3 3 0 0 2 2 2 1
+p444
+a.

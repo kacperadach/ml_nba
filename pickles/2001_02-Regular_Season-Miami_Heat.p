@@ -1,0 +1,1590 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKendall Gill MIA 04/17/2002 MIA @ ORL W 30 4 2 8 25.0 0 2 0.0 0 0 - 0 4 4 1 0 0 3 4 9
+p2
+aVMike James MIA 04/17/2002 MIA @ ORL W 16 10 4 4 100.0 2 2 100.0 0 0 - 0 5 5 2 0 0 2 3 3
+p3
+aVSean Marks MIA 04/17/2002 MIA @ ORL W 13 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 0 0 0
+p4
+aVEddie House MIA 04/17/2002 MIA @ ORL W 11 5 2 4 50.0 1 1 100.0 0 0 - 2 1 3 1 0 0 1 0 7
+p5
+aVAnthony Carter MIA 04/17/2002 MIA @ ORL W 26 10 5 7 71.4 0 0 - 0 0 - 0 4 4 10 3 0 1 0 7
+p6
+aVAlonzo Mourning MIA 04/17/2002 MIA @ ORL W 31 16 7 14 50.0 0 0 - 2 2 100.0 1 3 4 2 1 1 1 1 17
+p7
+aVMalik Allen MIA 04/17/2002 MIA @ ORL W 42 14 7 16 43.8 0 0 - 0 0 - 3 8 11 2 1 2 1 4 13
+p8
+aVVladimir Stepania MIA 04/17/2002 MIA @ ORL W 17 12 6 7 85.7 0 0 - 0 1 0.0 0 3 3 0 2 0 1 1 -3
+p9
+aVRod Strickland MIA 04/17/2002 MIA @ ORL W 19 4 2 5 40.0 0 0 - 0 0 - 0 3 3 6 0 0 0 2 9
+p10
+aVEddie Jones MIA 04/17/2002 MIA @ ORL W 35 22 8 14 57.1 3 4 75.0 3 4 75.0 1 4 5 8 2 1 2 4 8
+p11
+aVEddie Jones MIA 04/16/2002 MIA vs. CHH L 43 13 4 13 30.8 1 3 33.3 4 5 80.0 1 2 3 5 2 2 1 5 -9
+p12
+aVRod Strickland MIA 04/16/2002 MIA vs. CHH L 29 6 3 11 27.3 0 0 - 0 0 - 0 2 2 4 0 1 1 1 3
+p13
+aVEddie House MIA 04/16/2002 MIA vs. CHH L 22 10 4 9 44.4 1 4 25.0 1 2 50.0 0 2 2 1 1 0 2 3 -1
+p14
+aVMalik Allen MIA 04/16/2002 MIA vs. CHH L 31 11 4 9 44.4 0 1 0.0 3 3 100.0 0 4 4 0 1 1 1 5 -13
+p15
+aVSean Marks MIA 04/16/2002 MIA vs. CHH L 27 8 3 8 37.5 0 0 - 2 2 100.0 4 7 11 0 0 0 1 2 -13
+p16
+aVVladimir Stepania MIA 04/16/2002 MIA vs. CHH L 27 6 2 5 40.0 0 0 - 2 4 50.0 2 6 8 1 1 2 0 1 6
+p17
+aVAnthony Carter MIA 04/16/2002 MIA vs. CHH L 13 0 0 5 0.0 0 0 - 0 0 - 0 1 1 1 2 0 0 0 -8
+p18
+aVAlonzo Mourning MIA 04/16/2002 MIA vs. CHH L 30 25 10 15 66.7 0 0 - 5 7 71.4 3 8 11 0 0 1 2 5 -4
+p19
+aVKendall Gill MIA 04/16/2002 MIA vs. CHH L 19 2 1 6 16.7 0 0 - 0 2 0.0 2 2 4 0 1 0 0 1 4
+p20
+aVMalik Allen MIA 04/14/2002 MIA vs. NYK L 24 3 1 5 20.0 0 0 - 1 3 33.3 3 5 8 0 0 1 0 1 -22
+p21
+aVErnest Brown MIA 04/14/2002 MIA vs. NYK L 12 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 0 0 1 2 3 -13
+p22
+aVAnthony Carter MIA 04/14/2002 MIA vs. NYK L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 2 -9
+p23
+aVBrian Grant MIA 04/14/2002 MIA vs. NYK L 18 6 3 4 75.0 0 0 - 0 0 - 2 8 10 2 0 0 2 2 -1
+p24
+aVSean Marks MIA 04/14/2002 MIA vs. NYK L 14 4 1 7 14.3 0 0 - 2 3 66.7 0 3 3 0 0 1 0 1 -14
+p25
+aVMike James MIA 04/14/2002 MIA vs. NYK L 16 0 0 5 0.0 0 3 0.0 0 2 0.0 0 0 0 0 2 0 4 1 -17
+p26
+aVAlonzo Mourning MIA 04/14/2002 MIA vs. NYK L 27 15 7 10 70.0 0 0 - 1 2 50.0 1 8 9 0 0 2 4 3 -4
+p27
+aVRod Strickland MIA 04/14/2002 MIA vs. NYK L 29 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 7 0 0 2 0 -7
+p28
+aVKendall Gill MIA 04/14/2002 MIA vs. NYK L 27 10 4 9 44.4 0 2 0.0 2 2 100.0 1 1 2 2 1 1 2 2 -6
+p29
+aVEddie House MIA 04/14/2002 MIA vs. NYK L 25 6 3 11 27.3 0 2 0.0 0 0 - 1 3 4 1 0 0 2 0 -19
+p30
+aVEddie Jones MIA 04/14/2002 MIA vs. NYK L 38 10 4 8 50.0 2 5 40.0 0 0 - 2 3 5 2 0 0 3 3 -23
+p31
+aVAnthony Carter MIA 04/12/2002 MIA vs. ORL W 17 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 3 2 0 1 1 10
+p32
+aVEddie House MIA 04/12/2002 MIA vs. ORL W 32 28 9 18 50.0 4 10 40.0 6 6 100.0 0 4 4 5 0 0 1 4 10
+p33
+aVKendall Gill MIA 04/12/2002 MIA vs. ORL W 25 10 4 9 44.4 0 1 0.0 2 2 100.0 0 6 6 1 1 0 1 5 -6
+p34
+aVRod Strickland MIA 04/12/2002 MIA vs. ORL W 32 9 3 8 37.5 0 0 - 3 4 75.0 2 4 6 8 2 0 3 2 -3
+p35
+aVAlonzo Mourning MIA 04/12/2002 MIA vs. ORL W 35 13 6 15 40.0 0 0 - 1 1 100.0 3 8 11 2 1 4 4 3 11
+p36
+aVEddie Jones MIA 04/12/2002 MIA vs. ORL W 39 15 5 10 50.0 1 4 25.0 4 4 100.0 0 7 7 5 2 0 3 2 3
+p37
+aVVladimir Stepania MIA 04/12/2002 MIA vs. ORL W 8 4 0 1 0.0 0 0 - 4 4 100.0 1 2 3 0 0 1 1 0 -5
+p38
+aVMalik Allen MIA 04/12/2002 MIA vs. ORL W 15 16 8 9 88.9 0 0 - 0 0 - 3 2 5 1 0 1 0 1 16
+p39
+aVBrian Grant MIA 04/12/2002 MIA vs. ORL W 38 2 1 8 12.5 0 0 - 0 2 0.0 2 5 7 1 0 0 2 3 -11
+p40
+aVEddie House MIA 04/10/2002 MIA @ BOS L 16 2 1 7 14.3 0 1 0.0 0 0 - 1 6 7 2 1 0 1 0 5
+p41
+aVAlonzo Mourning MIA 04/10/2002 MIA @ BOS L 37 16 7 13 53.8 0 0 - 2 4 50.0 4 4 8 1 0 4 3 3 0
+p42
+aVRod Strickland MIA 04/10/2002 MIA @ BOS L 33 5 2 9 22.2 0 0 - 1 4 25.0 1 3 4 2 2 0 1 0 -6
+p43
+aVEddie Jones MIA 04/10/2002 MIA @ BOS L 41 16 6 20 30.0 4 12 33.3 0 0 - 0 4 4 4 0 1 2 5 -7
+p44
+aVLaPhonso Ellis MIA 04/10/2002 MIA @ BOS L 22 3 0 9 0.0 0 4 0.0 3 3 100.0 3 1 4 1 0 0 1 1 -1
+p45
+aVBrian Grant MIA 04/10/2002 MIA @ BOS L 38 6 2 8 25.0 0 0 - 2 2 100.0 3 5 8 4 2 0 2 5 -14
+p46
+aVKendall Gill MIA 04/10/2002 MIA @ BOS L 33 13 6 13 46.2 1 4 25.0 0 0 - 3 4 7 5 0 0 1 3 -4
+p47
+aVVladimir Stepania MIA 04/10/2002 MIA @ BOS L 20 4 2 8 25.0 0 0 - 0 0 - 4 5 9 0 0 0 2 2 2
+p48
+aVAnthony Carter MIA 04/09/2002 MIA vs. HOU W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 1 0 0 1 0 -11
+p49
+aVBrian Grant MIA 04/09/2002 MIA vs. HOU W 30 10 4 9 44.4 0 0 - 2 3 66.7 0 6 6 2 0 1 2 6 6
+p50
+aVEddie House MIA 04/09/2002 MIA vs. HOU W 37 20 8 16 50.0 3 4 75.0 1 2 50.0 1 4 5 3 2 0 3 2 -1
+p51
+aVKendall Gill MIA 04/09/2002 MIA vs. HOU W 23 4 2 6 33.3 0 0 - 0 2 0.0 0 1 1 3 0 0 1 1 2
+p52
+aVRod Strickland MIA 04/09/2002 MIA vs. HOU W 46 20 8 18 44.4 0 0 - 4 4 100.0 1 3 4 13 1 0 3 2 15
+p53
+aVVladimir Stepania MIA 04/09/2002 MIA vs. HOU W 27 10 4 6 66.7 0 0 - 2 3 66.7 4 2 6 1 0 0 1 3 -9
+p54
+aVAlonzo Mourning MIA 04/09/2002 MIA vs. HOU W 30 19 8 11 72.7 0 0 - 3 4 75.0 2 8 10 1 1 1 1 6 13
+p55
+aVLaPhonso Ellis MIA 04/09/2002 MIA vs. HOU W 29 5 2 4 50.0 1 3 33.3 0 0 - 2 5 7 0 0 0 0 3 -4
+p56
+aVChris Gatling MIA 04/09/2002 MIA vs. HOU W 8 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 1 0 0 6
+p57
+aVEddie Jones MIA 04/09/2002 MIA vs. HOU W 46 26 9 14 64.3 3 5 60.0 5 5 100.0 2 1 3 4 2 0 4 4 -2
+p58
+aVVladimir Stepania MIA 04/07/2002 MIA vs. LAL L 12 2 1 2 50.0 0 0 - 0 2 0.0 2 2 4 0 1 0 0 2 -4
+p59
+aVAnthony Carter MIA 04/07/2002 MIA vs. LAL L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 2 0 -8
+p60
+aVChris Gatling MIA 04/07/2002 MIA vs. LAL L 14 8 3 7 42.9 0 0 - 2 2 100.0 4 4 8 1 0 0 1 2 0
+p61
+aVEddie House MIA 04/07/2002 MIA vs. LAL L 30 13 6 18 33.3 1 7 14.3 0 0 - 0 2 2 2 1 0 0 4 -9
+p62
+aVLaPhonso Ellis MIA 04/07/2002 MIA vs. LAL L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -8
+p63
+aVAlonzo Mourning MIA 04/07/2002 MIA vs. LAL L 33 15 6 13 46.2 0 0 - 3 4 75.0 2 6 8 1 0 1 2 5 -3
+p64
+aVEddie Jones MIA 04/07/2002 MIA vs. LAL L 42 12 4 13 30.8 2 5 40.0 2 2 100.0 0 3 3 5 0 0 1 4 -9
+p65
+aVBrian Grant MIA 04/07/2002 MIA vs. LAL L 31 10 5 10 50.0 0 0 - 0 0 - 3 9 12 1 2 0 1 6 -3
+p66
+aVRod Strickland MIA 04/07/2002 MIA vs. LAL L 34 21 9 14 64.3 0 1 0.0 3 4 75.0 3 1 4 9 0 0 0 1 -1
+p67
+aVKendall Gill MIA 04/07/2002 MIA vs. LAL L 27 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 5
+p68
+aVKendall Gill MIA 04/05/2002 MIA vs. MIL W 22 9 4 9 44.4 1 3 33.3 0 0 - 0 3 3 2 1 0 0 1 -1
+p69
+aVRod Strickland MIA 04/05/2002 MIA vs. MIL W 30 11 4 13 30.8 1 1 100.0 2 2 100.0 1 0 1 8 1 1 4 1 3
+p70
+aVEddie Jones MIA 04/05/2002 MIA vs. MIL W 31 17 7 14 50.0 1 4 25.0 2 4 50.0 0 3 3 4 0 1 0 5 4
+p71
+aVEddie House MIA 04/05/2002 MIA vs. MIL W 28 22 7 12 58.3 4 5 80.0 4 4 100.0 0 2 2 0 0 0 2 1 8
+p72
+aVVladimir Stepania MIA 04/05/2002 MIA vs. MIL W 26 8 4 9 44.4 0 0 - 0 2 0.0 4 8 12 0 0 1 0 1 -3
+p73
+aVLaPhonso Ellis MIA 04/05/2002 MIA vs. MIL W 18 5 2 5 40.0 1 3 33.3 0 0 - 1 3 4 1 0 0 0 4 2
+p74
+aVBrian Grant MIA 04/05/2002 MIA vs. MIL W 34 10 3 6 50.0 0 0 - 4 4 100.0 2 5 7 4 0 1 1 4 17
+p75
+aVAlonzo Mourning MIA 04/05/2002 MIA vs. MIL W 33 18 6 11 54.5 0 0 - 6 6 100.0 3 7 10 0 0 0 3 2 -5
+p76
+aVAnthony Carter MIA 04/05/2002 MIA vs. MIL W 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 4 0 0 1 3 0
+p77
+aVEddie House MIA 04/03/2002 MIA @ CHH L 28 12 4 12 33.3 2 5 40.0 2 2 100.0 0 0 0 3 0 1 1 3 -7
+p78
+aVKendall Gill MIA 04/03/2002 MIA @ CHH L 21 8 4 7 57.1 0 1 0.0 0 0 - 1 2 3 2 3 0 3 3 6
+p79
+aVEddie Jones MIA 04/03/2002 MIA @ CHH L 41 27 9 17 52.9 4 9 44.4 5 5 100.0 0 4 4 0 2 0 1 4 -7
+p80
+aVChris Gatling MIA 04/03/2002 MIA @ CHH L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 0 4
+p81
+aVVladimir Stepania MIA 04/03/2002 MIA @ CHH L 19 5 2 5 40.0 0 0 - 1 2 50.0 1 6 7 1 0 1 2 1 -9
+p82
+aVAlonzo Mourning MIA 04/03/2002 MIA @ CHH L 33 14 7 13 53.8 0 0 - 0 3 0.0 0 4 4 0 0 3 1 1 -7
+p83
+aVBrian Grant MIA 04/03/2002 MIA @ CHH L 34 12 5 9 55.6 0 0 - 2 2 100.0 4 7 11 1 1 1 1 4 -5
+p84
+aVLaPhonso Ellis MIA 04/03/2002 MIA @ CHH L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 3 -2
+p85
+aVAnthony Carter MIA 04/03/2002 MIA @ CHH L 17 0 0 3 0.0 0 0 - 0 0 - 1 2 3 4 1 0 0 4 -7
+p86
+aVRod Strickland MIA 04/03/2002 MIA @ CHH L 26 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 9 1 0 2 1 -1
+p87
+aVEddie House MIA 04/02/2002 MIA vs. DET L 21 4 1 7 14.3 0 0 - 2 2 100.0 0 0 0 3 2 0 1 1 2
+p88
+aVRod Strickland MIA 04/02/2002 MIA vs. DET L 37 15 7 16 43.8 0 1 0.0 1 2 50.0 0 8 8 6 1 0 2 2 3
+p89
+aVChris Gatling MIA 04/02/2002 MIA vs. DET L 14 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 0 1 0 0 4 -11
+p90
+aVAlonzo Mourning MIA 04/02/2002 MIA vs. DET L 34 9 3 11 27.3 0 0 - 3 3 100.0 1 6 7 2 1 2 1 3 6
+p91
+aVBrian Grant MIA 04/02/2002 MIA vs. DET L 40 12 5 10 50.0 0 0 - 2 2 100.0 3 6 9 2 3 0 1 4 1
+p92
+aVKendall Gill MIA 04/02/2002 MIA vs. DET L 19 9 4 8 50.0 0 0 - 1 1 100.0 0 3 3 0 1 0 2 2 -9
+p93
+aVVladimir Stepania MIA 04/02/2002 MIA vs. DET L 7 4 2 3 66.7 0 0 - 0 2 0.0 0 0 0 0 0 1 0 1 -1
+p94
+aVEddie Jones MIA 04/02/2002 MIA vs. DET L 42 20 7 12 58.3 1 2 50.0 5 6 83.3 0 3 3 4 2 0 2 3 -10
+p95
+aVLaPhonso Ellis MIA 04/02/2002 MIA vs. DET L 27 10 2 8 25.0 1 5 20.0 5 6 83.3 3 6 9 1 1 0 0 2 4
+p96
+aVAnthony Carter MIA 03/31/2002 MIA @ IND L 16 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 2 2 0 0 0 -3
+p97
+aVKendall Gill MIA 03/31/2002 MIA @ IND L 18 6 3 7 42.9 0 1 0.0 0 0 - 0 4 4 2 0 0 0 2 -4
+p98
+aVVladimir Stepania MIA 03/31/2002 MIA @ IND L 16 8 3 5 60.0 0 0 - 2 3 66.7 3 1 4 0 1 1 1 3 -3
+p99
+aVLaPhonso Ellis MIA 03/31/2002 MIA @ IND L 26 7 2 5 40.0 1 3 33.3 2 2 100.0 0 3 3 0 1 0 3 2 -22
+p100
+aVBrian Grant MIA 03/31/2002 MIA @ IND L 26 8 4 9 44.4 0 0 - 0 0 - 1 1 2 1 0 0 3 5 -23
+p101
+aVChris Gatling MIA 03/31/2002 MIA @ IND L 18 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 1 0 0 1 0 -8
+p102
+aVAlonzo Mourning MIA 03/31/2002 MIA @ IND L 25 8 3 6 50.0 0 0 - 2 2 100.0 1 5 6 2 0 4 3 3 -12
+p103
+aVMalik Allen MIA 03/31/2002 MIA @ IND L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 6
+p104
+aVEddie Jones MIA 03/31/2002 MIA @ IND L 30 15 5 13 38.5 1 3 33.3 4 6 66.7 0 3 3 3 1 0 2 5 -15
+p105
+aVEddie House MIA 03/31/2002 MIA @ IND L 29 6 3 10 30.0 0 2 0.0 0 0 - 1 2 3 1 5 0 0 4 -5
+p106
+aVRod Strickland MIA 03/31/2002 MIA @ IND L 26 10 4 9 44.4 0 0 - 2 3 66.7 0 0 0 3 1 0 2 1 -12
+p107
+aVSean Marks MIA 03/31/2002 MIA @ IND L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 6
+p108
+aVBrian Grant MIA 03/29/2002 MIA vs. ATL W 32 15 7 8 87.5 0 0 - 1 1 100.0 4 9 13 1 5 2 1 3 17
+p109
+aVKendall Gill MIA 03/29/2002 MIA vs. ATL W 18 0 0 6 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 7
+p110
+aVRod Strickland MIA 03/29/2002 MIA vs. ATL W 33 11 4 9 44.4 0 0 - 3 4 75.0 1 2 3 5 0 1 2 2 21
+p111
+aVAnthony Carter MIA 03/29/2002 MIA vs. ATL W 8 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 3 0 0 1 0 -12
+p112
+aVEddie House MIA 03/29/2002 MIA vs. ATL W 24 13 6 11 54.5 1 1 100.0 0 0 - 0 2 2 1 2 0 1 4 -6
+p113
+aVEddie Jones MIA 03/29/2002 MIA vs. ATL W 42 16 5 11 45.5 2 4 50.0 4 4 100.0 1 2 3 7 1 1 1 1 30
+p114
+aVChris Gatling MIA 03/29/2002 MIA vs. ATL W 22 15 7 14 50.0 0 0 - 1 3 33.3 4 4 8 0 1 1 1 3 8
+p115
+aVSean Marks MIA 03/29/2002 MIA vs. ATL W 4 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 1 0 0 1 -4
+p116
+aVAlonzo Mourning MIA 03/29/2002 MIA vs. ATL W 31 10 4 13 30.8 0 0 - 2 4 50.0 3 5 8 3 1 1 1 4 10
+p117
+aVLaPhonso Ellis MIA 03/29/2002 MIA vs. ATL W 23 8 3 7 42.9 1 2 50.0 1 2 50.0 1 0 1 0 0 1 1 4 -1
+p118
+aVVladimir Stepania MIA 03/29/2002 MIA vs. ATL W 4 2 1 1 100.0 0 0 - 0 2 0.0 1 0 1 1 0 0 0 1 -10
+p119
+aVLaPhonso Ellis MIA 03/27/2002 MIA @ TOR L 18 7 2 6 33.3 2 2 100.0 1 2 50.0 1 3 4 0 0 1 2 4 -4
+p120
+aVAlonzo Mourning MIA 03/27/2002 MIA @ TOR L 42 17 6 12 50.0 0 0 - 5 10 50.0 7 7 14 1 2 4 6 3 -1
+p121
+aVEddie House MIA 03/27/2002 MIA @ TOR L 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 1 0
+p122
+aVChris Gatling MIA 03/27/2002 MIA @ TOR L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p123
+aVRod Strickland MIA 03/27/2002 MIA @ TOR L 38 24 11 17 64.7 2 2 100.0 0 0 - 1 0 1 8 1 0 1 1 0
+p124
+aVBrian Grant MIA 03/27/2002 MIA @ TOR L 40 15 7 15 46.7 0 0 - 1 1 100.0 6 4 10 2 1 0 4 3 3
+p125
+aVEddie Jones MIA 03/27/2002 MIA @ TOR L 38 2 1 5 20.0 0 0 - 0 0 - 1 4 5 8 2 1 1 4 7
+p126
+aVJim Jackson MIA 03/27/2002 MIA @ TOR L 32 9 3 8 37.5 1 3 33.3 2 2 100.0 2 5 7 2 1 1 2 1 -8
+p127
+aVKendall Gill MIA 03/27/2002 MIA @ TOR L 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 3
+p128
+aVVladimir Stepania MIA 03/27/2002 MIA @ TOR L 9 2 1 4 25.0 0 0 - 0 3 0.0 1 1 2 0 0 0 1 1 -1
+p129
+aVChris Gatling MIA 03/25/2002 MIA vs. BOS L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 5 1
+p130
+aVBrian Grant MIA 03/25/2002 MIA vs. BOS L 32 8 4 7 57.1 0 0 - 0 0 - 4 8 12 3 1 0 1 4 -3
+p131
+aVEddie Jones MIA 03/25/2002 MIA vs. BOS L 42 19 6 16 37.5 2 7 28.6 5 7 71.4 1 3 4 4 0 2 2 4 -9
+p132
+aVVladimir Stepania MIA 03/25/2002 MIA vs. BOS L 11 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -10
+p133
+aVRod Strickland MIA 03/25/2002 MIA vs. BOS L 29 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 5 0 0 5 2 -3
+p134
+aVEddie House MIA 03/25/2002 MIA vs. BOS L 20 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 2 1 0 3 3 -3
+p135
+aVJim Jackson MIA 03/25/2002 MIA vs. BOS L 39 12 3 10 30.0 2 2 100.0 4 4 100.0 0 9 9 2 1 1 3 3 4
+p136
+aVLaPhonso Ellis MIA 03/25/2002 MIA vs. BOS L 22 6 2 9 22.2 1 4 25.0 1 4 25.0 1 4 5 0 0 1 2 4 -3
+p137
+aVAlonzo Mourning MIA 03/25/2002 MIA vs. BOS L 37 20 3 7 42.9 0 0 - 14 17 82.4 2 8 10 0 0 2 4 4 1
+p138
+aVEddie Jones MIA 03/23/2002 MIA @ SAS L 31 8 2 8 25.0 0 5 0.0 4 4 100.0 1 3 4 2 1 0 3 3 -10
+p139
+aVAnthony Carter MIA 03/23/2002 MIA @ SAS L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 1 0 2 1 3
+p140
+aVChris Gatling MIA 03/23/2002 MIA @ SAS L 18 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 1 0 0 2 5 10
+p141
+aVVladimir Stepania MIA 03/23/2002 MIA @ SAS L 25 6 3 8 37.5 0 0 - 0 0 - 4 3 7 0 0 3 1 2 0
+p142
+aVEddie House MIA 03/23/2002 MIA @ SAS L 27 13 5 11 45.5 1 3 33.3 2 2 100.0 0 1 1 3 0 0 2 1 0
+p143
+aVBrian Grant MIA 03/23/2002 MIA @ SAS L 22 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 0 0 0 6 -10
+p144
+aVRod Strickland MIA 03/23/2002 MIA @ SAS L 27 4 2 6 33.3 0 0 - 0 0 - 1 2 3 5 0 0 2 3 -13
+p145
+aVKendall Gill MIA 03/23/2002 MIA @ SAS L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -14
+p146
+aVAlonzo Mourning MIA 03/23/2002 MIA @ SAS L 32 16 6 13 46.2 0 0 - 4 5 80.0 4 7 11 1 0 2 3 3 -20
+p147
+aVJim Jackson MIA 03/23/2002 MIA @ SAS L 35 17 6 10 60.0 1 2 50.0 4 4 100.0 1 6 7 2 3 0 1 2 4
+p148
+aVEddie Jones MIA 03/22/2002 MIA vs. IND L 39 20 7 15 46.7 2 5 40.0 4 4 100.0 1 4 5 3 1 1 3 5 -5
+p149
+aVJim Jackson MIA 03/22/2002 MIA vs. IND L 25 5 1 4 25.0 0 0 - 3 3 100.0 1 5 6 2 0 0 1 3 -8
+p150
+aVVladimir Stepania MIA 03/22/2002 MIA vs. IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p151
+aVLaPhonso Ellis MIA 03/22/2002 MIA vs. IND L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -4
+p152
+aVRod Strickland MIA 03/22/2002 MIA vs. IND L 38 14 7 13 53.8 0 0 - 0 0 - 0 1 1 6 4 0 2 3 -10
+p153
+aVBrian Grant MIA 03/22/2002 MIA vs. IND L 29 8 4 11 36.4 0 0 - 0 0 - 2 2 4 1 1 0 0 3 -1
+p154
+aVChris Gatling MIA 03/22/2002 MIA vs. IND L 17 4 2 7 28.6 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -7
+p155
+aVEddie House MIA 03/22/2002 MIA vs. IND L 23 18 8 12 66.7 2 4 50.0 0 0 - 0 1 1 3 1 0 0 2 2
+p156
+aVKendall Gill MIA 03/22/2002 MIA vs. IND L 16 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 2 0 0 0 2 -8
+p157
+aVAlonzo Mourning MIA 03/22/2002 MIA vs. IND L 42 20 9 17 52.9 0 0 - 2 4 50.0 5 4 9 0 1 2 1 4 -6
+p158
+aVJim Jackson MIA 03/20/2002 MIA @ PHI W 24 3 1 6 16.7 1 3 33.3 0 0 - 1 0 1 3 2 0 1 2 -2
+p159
+aVEddie Jones MIA 03/20/2002 MIA @ PHI W 40 10 4 11 36.4 0 3 0.0 2 3 66.7 1 6 7 4 2 0 2 3 6
+p160
+aVAlonzo Mourning MIA 03/20/2002 MIA @ PHI W 40 16 5 11 45.5 0 0 - 6 11 54.5 3 7 10 1 0 3 1 2 8
+p161
+aVKendall Gill MIA 03/20/2002 MIA @ PHI W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -5
+p162
+aVRod Strickland MIA 03/20/2002 MIA @ PHI W 37 14 6 12 50.0 0 0 - 2 2 100.0 1 3 4 4 0 0 3 1 4
+p163
+aVVladimir Stepania MIA 03/20/2002 MIA @ PHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p164
+aVEddie House MIA 03/20/2002 MIA @ PHI W 29 20 8 14 57.1 2 4 50.0 2 2 100.0 0 3 3 4 2 0 1 3 15
+p165
+aVChris Gatling MIA 03/20/2002 MIA @ PHI W 25 13 6 9 66.7 0 1 0.0 1 1 100.0 1 4 5 0 0 0 3 2 6
+p166
+aVBrian Grant MIA 03/20/2002 MIA @ PHI W 29 4 2 7 28.6 0 0 - 0 0 - 4 8 12 1 1 0 1 4 -4
+p167
+aVAlonzo Mourning MIA 03/19/2002 MIA vs. PHI L 36 21 10 17 58.8 0 0 - 1 2 50.0 2 4 6 1 0 0 3 4 -6
+p168
+aVJim Jackson MIA 03/19/2002 MIA vs. PHI L 31 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 1 0 3 2 -11
+p169
+aVKendall Gill MIA 03/19/2002 MIA vs. PHI L 17 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -1
+p170
+aVRod Strickland MIA 03/19/2002 MIA vs. PHI L 39 6 3 10 30.0 0 2 0.0 0 0 - 1 0 1 9 2 1 3 3 -17
+p171
+aVEddie House MIA 03/19/2002 MIA vs. PHI L 15 3 0 3 0.0 0 1 0.0 3 4 75.0 0 1 1 5 1 0 1 3 -5
+p172
+aVEddie Jones MIA 03/19/2002 MIA vs. PHI L 44 23 9 18 50.0 1 5 20.0 4 4 100.0 2 3 5 2 0 0 2 2 -4
+p173
+aVBrian Grant MIA 03/19/2002 MIA vs. PHI L 32 6 3 9 33.3 0 0 - 0 1 0.0 1 3 4 3 0 0 2 1 -5
+p174
+aVVladimir Stepania MIA 03/19/2002 MIA vs. PHI L 12 2 1 2 50.0 0 0 - 0 4 0.0 2 1 3 0 0 0 1 2 -13
+p175
+aVChris Gatling MIA 03/19/2002 MIA vs. PHI L 15 10 4 4 100.0 0 0 - 2 2 100.0 2 0 2 1 0 1 1 1 2
+p176
+aVBrian Grant MIA 03/16/2002 MIA vs. DEN W 30 6 3 9 33.3 0 0 - 0 0 - 0 11 11 1 0 0 0 3 13
+p177
+aVAnthony Carter MIA 03/16/2002 MIA vs. DEN W 22 2 1 2 50.0 0 0 - 0 0 - 0 2 2 5 1 0 2 2 4
+p178
+aVJim Jackson MIA 03/16/2002 MIA vs. DEN W 28 11 4 11 36.4 2 4 50.0 1 2 50.0 0 5 5 2 1 0 2 0 14
+p179
+aVChris Gatling MIA 03/16/2002 MIA vs. DEN W 15 9 3 5 60.0 0 0 - 3 4 75.0 1 1 2 0 0 1 1 3 7
+p180
+aVEddie Jones MIA 03/16/2002 MIA vs. DEN W 35 14 6 14 42.9 1 6 16.7 1 1 100.0 1 0 1 3 1 1 1 2 17
+p181
+aVMalik Allen MIA 03/16/2002 MIA vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 2
+p182
+aVRod Strickland MIA 03/16/2002 MIA vs. DEN W 26 13 6 8 75.0 0 0 - 1 2 50.0 0 1 1 5 2 0 0 1 21
+p183
+aVAlonzo Mourning MIA 03/16/2002 MIA vs. DEN W 23 24 6 8 75.0 0 0 - 12 14 85.7 3 4 7 0 0 3 3 4 30
+p184
+aVSean Marks MIA 03/16/2002 MIA vs. DEN W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p185
+aVKendall Gill MIA 03/16/2002 MIA vs. DEN W 25 6 3 4 75.0 0 0 - 0 0 - 0 2 2 6 0 0 1 3 12
+p186
+aVEddie House MIA 03/16/2002 MIA vs. DEN W 8 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 0 0 0 2 1 7
+p187
+aVVladimir Stepania MIA 03/16/2002 MIA vs. DEN W 19 6 3 7 42.9 0 0 - 0 0 - 2 5 7 1 0 2 0 5 -5
+p188
+aVJim Jackson MIA 03/15/2002 MIA @ NJN L 34 17 5 12 41.7 2 3 66.7 5 5 100.0 0 1 1 3 0 0 3 5 -7
+p189
+aVBrian Grant MIA 03/15/2002 MIA @ NJN L 26 6 2 6 33.3 0 0 - 2 2 100.0 5 5 10 1 1 1 1 3 -19
+p190
+aVAnthony Carter MIA 03/15/2002 MIA @ NJN L 20 6 2 6 33.3 0 1 0.0 2 2 100.0 1 2 3 4 1 0 2 1 -5
+p191
+aVChris Gatling MIA 03/15/2002 MIA @ NJN L 27 7 3 8 37.5 0 0 - 1 2 50.0 1 4 5 0 0 1 0 2 5
+p192
+aVRod Strickland MIA 03/15/2002 MIA @ NJN L 29 10 5 13 38.5 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -16
+p193
+aVVladimir Stepania MIA 03/15/2002 MIA @ NJN L 14 9 3 3 100.0 1 1 100.0 2 2 100.0 0 1 1 0 1 1 0 2 1
+p194
+aVMalik Allen MIA 03/15/2002 MIA @ NJN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p195
+aVEddie Jones MIA 03/15/2002 MIA @ NJN L 28 3 1 13 7.7 1 3 33.3 0 0 - 0 4 4 0 0 1 0 4 -12
+p196
+aVAlonzo Mourning MIA 03/15/2002 MIA @ NJN L 28 14 4 9 44.4 0 0 - 6 6 100.0 2 4 6 2 0 2 4 6 -25
+p197
+aVKendall Gill MIA 03/15/2002 MIA @ NJN L 31 6 3 10 30.0 0 0 - 0 0 - 1 3 4 3 1 1 2 2 -15
+p198
+aVKendall Gill MIA 03/12/2002 MIA vs. PHX W 18 0 0 3 0.0 0 0 - 0 0 - 1 3 4 3 0 0 0 1 1
+p199
+aVRod Strickland MIA 03/12/2002 MIA vs. PHX W 35 20 7 9 77.8 2 2 100.0 4 6 66.7 1 5 6 6 1 0 3 0 9
+p200
+aVAlonzo Mourning MIA 03/12/2002 MIA vs. PHX W 31 13 6 11 54.5 0 0 - 1 2 50.0 2 6 8 1 0 1 0 2 7
+p201
+aVAnthony Carter MIA 03/12/2002 MIA vs. PHX W 18 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 1 4
+p202
+aVBrian Grant MIA 03/12/2002 MIA vs. PHX W 39 14 6 10 60.0 0 0 - 2 2 100.0 4 3 7 2 2 1 2 1 10
+p203
+aVJim Jackson MIA 03/12/2002 MIA vs. PHX W 34 23 10 13 76.9 3 3 100.0 0 0 - 2 5 7 2 0 0 2 3 12
+p204
+aVVladimir Stepania MIA 03/12/2002 MIA vs. PHX W 19 4 1 3 33.3 0 0 - 2 2 100.0 0 7 7 0 0 1 0 3 7
+p205
+aVEddie Jones MIA 03/12/2002 MIA vs. PHX W 46 16 6 21 28.6 0 5 0.0 4 4 100.0 0 6 6 3 2 1 3 4 10
+p206
+aVRod Strickland MIA 03/09/2002 MIA @ MEM W 32 17 5 13 38.5 0 0 - 7 8 87.5 1 6 7 5 3 0 0 1 4
+p207
+aVKendall Gill MIA 03/09/2002 MIA @ MEM W 32 10 4 14 28.6 0 0 - 2 3 66.7 2 5 7 1 3 0 2 0 -5
+p208
+aVAnthony Carter MIA 03/09/2002 MIA @ MEM W 16 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 6 0 0 2 1 1
+p209
+aVJim Jackson MIA 03/09/2002 MIA @ MEM W 27 18 8 15 53.3 2 3 66.7 0 0 - 1 3 4 2 0 0 2 4 12
+p210
+aVVladimir Stepania MIA 03/09/2002 MIA @ MEM W 21 10 4 5 80.0 0 0 - 2 4 50.0 4 4 8 0 0 2 2 3 11
+p211
+aVAlonzo Mourning MIA 03/09/2002 MIA @ MEM W 38 18 7 14 50.0 0 0 - 4 6 66.7 3 4 7 2 0 6 2 3 -1
+p212
+aVEddie Jones MIA 03/09/2002 MIA @ MEM W 37 16 4 9 44.4 2 4 50.0 6 7 85.7 0 4 4 4 2 1 1 4 3
+p213
+aVBrian Grant MIA 03/09/2002 MIA @ MEM W 37 4 2 7 28.6 0 0 - 0 0 - 3 7 10 3 0 0 3 2 0
+p214
+aVAnthony Carter MIA 03/08/2002 MIA vs. TOR L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -13
+p215
+aVEddie House MIA 03/08/2002 MIA vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p216
+aVRod Strickland MIA 03/08/2002 MIA vs. TOR L 37 10 4 11 36.4 1 1 100.0 1 3 33.3 0 1 1 6 0 0 0 1 4
+p217
+aVChris Gatling MIA 03/08/2002 MIA vs. TOR L 13 2 0 5 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 2 -13
+p218
+aVVladimir Stepania MIA 03/08/2002 MIA vs. TOR L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -5
+p219
+aVJim Jackson MIA 03/08/2002 MIA vs. TOR L 32 10 5 9 55.6 0 1 0.0 0 0 - 1 3 4 2 0 0 3 3 -5
+p220
+aVAlonzo Mourning MIA 03/08/2002 MIA vs. TOR L 31 16 4 7 57.1 0 0 - 8 11 72.7 4 5 9 0 0 4 7 5 -3
+p221
+aVBrian Grant MIA 03/08/2002 MIA vs. TOR L 41 10 4 6 66.7 0 0 - 2 4 50.0 2 12 14 1 0 0 1 3 0
+p222
+aVKendall Gill MIA 03/08/2002 MIA vs. TOR L 24 2 1 6 16.7 0 1 0.0 0 0 - 1 3 4 2 3 0 3 2 -4
+p223
+aVEddie Jones MIA 03/08/2002 MIA vs. TOR L 39 22 7 15 46.7 3 5 60.0 5 7 71.4 1 4 5 2 3 1 3 3 -9
+p224
+aVChris Gatling MIA 03/06/2002 MIA @ CHI W 12 4 1 5 20.0 0 0 - 2 2 100.0 1 5 6 0 0 0 0 4 -3
+p225
+aVKendall Gill MIA 03/06/2002 MIA @ CHI W 26 11 4 7 57.1 1 2 50.0 2 2 100.0 1 2 3 2 2 0 0 5 21
+p226
+aVAlonzo Mourning MIA 03/06/2002 MIA @ CHI W 30 18 4 10 40.0 0 0 - 10 16 62.5 1 6 7 0 0 3 3 3 -1
+p227
+aVJim Jackson MIA 03/06/2002 MIA @ CHI W 29 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 1 2 0 1 1 -16
+p228
+aVBrian Grant MIA 03/06/2002 MIA @ CHI W 36 12 6 10 60.0 0 0 - 0 0 - 2 6 8 5 1 1 0 1 8
+p229
+aVEddie Jones MIA 03/06/2002 MIA @ CHI W 40 14 4 11 36.4 2 5 40.0 4 4 100.0 2 1 3 6 1 2 1 0 7
+p230
+aVVladimir Stepania MIA 03/06/2002 MIA @ CHI W 18 4 2 6 33.3 0 0 - 0 0 - 2 4 6 1 0 0 2 1 4
+p231
+aVAnthony Carter MIA 03/06/2002 MIA @ CHI W 17 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 2 0 1 3 -3
+p232
+aVRod Strickland MIA 03/06/2002 MIA @ CHI W 33 23 8 11 72.7 0 0 - 7 12 58.3 0 2 2 7 2 0 2 2 8
+p233
+aVAnthony Carter MIA 03/05/2002 MIA @ DET W 19 6 2 8 25.0 0 2 0.0 2 3 66.7 0 3 3 3 0 0 0 2 -9
+p234
+aVRod Strickland MIA 03/05/2002 MIA @ DET W 29 9 4 10 40.0 0 1 0.0 1 2 50.0 0 3 3 5 1 0 3 0 11
+p235
+aVBrian Grant MIA 03/05/2002 MIA @ DET W 40 16 6 11 54.5 0 0 - 4 4 100.0 7 8 15 1 0 1 2 5 3
+p236
+aVEddie Jones MIA 03/05/2002 MIA @ DET W 42 24 10 18 55.6 3 5 60.0 1 1 100.0 0 3 3 1 1 0 0 4 22
+p237
+aVVladimir Stepania MIA 03/05/2002 MIA @ DET W 10 3 1 5 20.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 1 -7
+p238
+aVChris Gatling MIA 03/05/2002 MIA @ DET W 12 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 1 0 1 2 -9
+p239
+aVEddie House MIA 03/05/2002 MIA @ DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p240
+aVJim Jackson MIA 03/05/2002 MIA @ DET W 32 7 3 9 33.3 0 0 - 1 1 100.0 1 1 2 2 3 0 2 1 -8
+p241
+aVAlonzo Mourning MIA 03/05/2002 MIA @ DET W 34 18 7 12 58.3 0 0 - 4 8 50.0 4 10 14 1 0 2 3 4 15
+p242
+aVKendall Gill MIA 03/05/2002 MIA @ DET W 23 6 3 7 42.9 0 0 - 0 0 - 0 4 4 1 1 1 0 5 -10
+p243
+aVRod Strickland MIA 03/02/2002 MIA @ DAL W 33 11 4 10 40.0 0 1 0.0 3 4 75.0 1 2 3 5 2 0 2 1 20
+p244
+aVJim Jackson MIA 03/02/2002 MIA @ DAL W 27 12 5 8 62.5 0 0 - 2 2 100.0 1 5 6 5 1 1 1 3 -8
+p245
+aVAnthony Carter MIA 03/02/2002 MIA @ DAL W 20 2 1 4 25.0 0 0 - 0 0 - 0 0 0 5 0 0 0 2 -8
+p246
+aVAlonzo Mourning MIA 03/02/2002 MIA @ DAL W 30 23 10 16 62.5 0 0 - 3 4 75.0 2 9 11 2 2 3 3 6 27
+p247
+aVMalik Allen MIA 03/02/2002 MIA @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p248
+aVBrian Grant MIA 03/02/2002 MIA @ DAL W 30 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 1 3 0 3 2 20
+p249
+aVVladimir Stepania MIA 03/02/2002 MIA @ DAL W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 1
+p250
+aVMike James MIA 03/02/2002 MIA @ DAL W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p251
+aVChris Gatling MIA 03/02/2002 MIA @ DAL W 19 19 6 8 75.0 0 0 - 7 7 100.0 2 5 7 3 0 1 4 3 3
+p252
+aVKendall Gill MIA 03/02/2002 MIA @ DAL W 23 7 3 6 50.0 0 1 0.0 1 2 50.0 0 4 4 2 1 1 1 1 17
+p253
+aVSean Marks MIA 03/02/2002 MIA @ DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -11
+p254
+aVEddie Jones MIA 03/02/2002 MIA @ DAL W 40 26 9 13 69.2 3 3 100.0 5 7 71.4 0 7 7 3 2 0 0 1 29
+p255
+aVVladimir Stepania MIA 02/28/2002 MIA vs. NYK W 20 7 2 5 40.0 0 0 - 3 4 75.0 3 6 9 0 0 0 1 3 23
+p256
+aVEddie Jones MIA 02/28/2002 MIA vs. NYK W 44 32 12 18 66.7 4 5 80.0 4 5 80.0 0 3 3 5 3 1 3 1 20
+p257
+aVMike James MIA 02/28/2002 MIA vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p258
+aVAnthony Carter MIA 02/28/2002 MIA vs. NYK W 21 7 3 5 60.0 0 0 - 1 2 50.0 1 4 5 7 1 0 1 1 20
+p259
+aVKendall Gill MIA 02/28/2002 MIA vs. NYK W 19 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 -11
+p260
+aVAlonzo Mourning MIA 02/28/2002 MIA vs. NYK W 23 7 3 6 50.0 0 0 - 1 3 33.3 3 3 6 0 0 2 1 4 -8
+p261
+aVRod Strickland MIA 02/28/2002 MIA vs. NYK W 27 9 2 7 28.6 0 0 - 5 8 62.5 1 1 2 4 1 0 1 2 -6
+p262
+aVChris Gatling MIA 02/28/2002 MIA vs. NYK W 27 16 6 12 50.0 0 0 - 4 4 100.0 2 5 7 1 1 0 1 6 22
+p263
+aVBrian Grant MIA 02/28/2002 MIA vs. NYK W 26 6 3 9 33.3 0 0 - 0 0 - 2 6 8 1 0 1 3 4 -9
+p264
+aVJim Jackson MIA 02/28/2002 MIA vs. NYK W 32 14 6 12 50.0 1 2 50.0 1 2 50.0 0 4 4 1 2 0 1 3 21
+p265
+aVAnthony Carter MIA 02/27/2002 MIA @ PHI L 18 3 1 4 25.0 1 1 100.0 0 0 - 1 1 2 3 0 0 2 4 -10
+p266
+aVKendall Gill MIA 02/27/2002 MIA @ PHI L 11 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 1 4 -1
+p267
+aVChris Gatling MIA 02/27/2002 MIA @ PHI L 13 10 4 8 50.0 0 0 - 2 3 66.7 3 4 7 1 1 0 2 1 0
+p268
+aVLaPhonso Ellis MIA 02/27/2002 MIA @ PHI L 23 5 2 6 33.3 1 3 33.3 0 0 - 0 4 4 0 0 0 0 1 -10
+p269
+aVJim Jackson MIA 02/27/2002 MIA @ PHI L 41 16 6 13 46.2 1 2 50.0 3 3 100.0 4 7 11 3 0 0 1 3 -12
+p270
+aVEddie Jones MIA 02/27/2002 MIA @ PHI L 26 9 4 14 28.6 1 5 20.0 0 0 - 0 2 2 2 0 1 1 6 11
+p271
+aVRod Strickland MIA 02/27/2002 MIA @ PHI L 31 6 3 12 25.0 0 1 0.0 0 0 - 1 1 2 7 3 0 2 1 -7
+p272
+aVBrian Grant MIA 02/27/2002 MIA @ PHI L 33 6 3 10 30.0 0 0 - 0 0 - 5 3 8 1 0 0 1 3 -11
+p273
+aVMike James MIA 02/27/2002 MIA @ PHI L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p274
+aVVladimir Stepania MIA 02/27/2002 MIA @ PHI L 5 0 0 0 - 0 0 - 0 2 0.0 1 2 3 0 0 1 0 1 -2
+p275
+aVAlonzo Mourning MIA 02/27/2002 MIA @ PHI L 33 15 5 12 41.7 1 2 50.0 4 6 66.7 3 4 7 1 0 0 1 5 -3
+p276
+aVEddie Jones MIA 02/24/2002 MIA vs. WAS W 40 15 6 12 50.0 1 2 50.0 2 2 100.0 1 3 4 0 3 2 3 4 14
+p277
+aVAlonzo Mourning MIA 02/24/2002 MIA vs. WAS W 34 11 4 11 36.4 0 0 - 3 4 75.0 2 10 12 0 1 3 0 2 16
+p278
+aVLaPhonso Ellis MIA 02/24/2002 MIA vs. WAS W 26 9 4 6 66.7 0 1 0.0 1 1 100.0 3 4 7 1 0 0 1 0 15
+p279
+aVJim Jackson MIA 02/24/2002 MIA vs. WAS W 27 10 5 8 62.5 0 2 0.0 0 0 - 2 3 5 2 0 0 0 0 9
+p280
+aVRod Strickland MIA 02/24/2002 MIA vs. WAS W 34 16 6 10 60.0 0 0 - 4 4 100.0 0 5 5 11 2 0 4 2 11
+p281
+aVAnthony Carter MIA 02/24/2002 MIA vs. WAS W 14 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 1 0 2 0 -1
+p282
+aVBrian Grant MIA 02/24/2002 MIA vs. WAS W 28 14 7 10 70.0 0 0 - 0 2 0.0 1 4 5 2 1 0 3 2 -2
+p283
+aVKendall Gill MIA 02/24/2002 MIA vs. WAS W 31 12 5 11 45.5 0 1 0.0 2 2 100.0 0 2 2 0 0 1 1 0 -1
+p284
+aVVladimir Stepania MIA 02/24/2002 MIA vs. WAS W 6 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 0 0 1 0 1 -1
+p285
+aVAnthony Carter MIA 02/23/2002 MIA @ WAS W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 2 0 0 1 -4
+p286
+aVKendall Gill MIA 02/23/2002 MIA @ WAS W 18 8 4 7 57.1 0 0 - 0 0 - 0 5 5 0 0 0 0 4 -5
+p287
+aVJim Jackson MIA 02/23/2002 MIA @ WAS W 34 6 2 4 50.0 0 0 - 2 2 100.0 0 5 5 7 0 3 5 3 5
+p288
+aVAlonzo Mourning MIA 02/23/2002 MIA @ WAS W 32 12 4 11 36.4 0 0 - 4 5 80.0 3 4 7 0 0 2 0 4 0
+p289
+aVVladimir Stepania MIA 02/23/2002 MIA @ WAS W 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 4
+p290
+aVEddie Jones MIA 02/23/2002 MIA @ WAS W 40 25 10 22 45.5 1 5 20.0 4 4 100.0 1 2 3 3 1 3 4 3 2
+p291
+aVRod Strickland MIA 02/23/2002 MIA @ WAS W 38 18 9 16 56.3 0 0 - 0 0 - 1 0 1 14 1 0 1 0 4
+p292
+aVBrian Grant MIA 02/23/2002 MIA @ WAS W 35 12 6 9 66.7 0 0 - 0 0 - 3 7 10 2 1 1 1 3 4
+p293
+aVLaPhonso Ellis MIA 02/23/2002 MIA @ WAS W 21 12 4 7 57.1 1 4 25.0 3 4 75.0 0 2 2 0 1 0 1 2 0
+p294
+aVEddie Jones MIA 02/20/2002 MIA vs. LAC L 39 11 1 13 7.7 1 7 14.3 8 9 88.9 0 5 5 5 1 1 1 1 -6
+p295
+aVKendall Gill MIA 02/20/2002 MIA vs. LAC L 22 6 2 9 22.2 0 0 - 2 2 100.0 1 2 3 0 0 0 2 3 -3
+p296
+aVJim Jackson MIA 02/20/2002 MIA vs. LAC L 31 9 4 11 36.4 0 2 0.0 1 2 50.0 1 2 3 3 0 0 2 4 -9
+p297
+aVVladimir Stepania MIA 02/20/2002 MIA vs. LAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 2 3 6
+p298
+aVBrian Grant MIA 02/20/2002 MIA vs. LAC L 31 2 1 4 25.0 0 0 - 0 0 - 4 9 13 1 1 0 2 3 -9
+p299
+aVRod Strickland MIA 02/20/2002 MIA vs. LAC L 37 19 8 16 50.0 0 0 - 3 3 100.0 1 0 1 4 1 1 2 1 -6
+p300
+aVAlonzo Mourning MIA 02/20/2002 MIA vs. LAC L 39 17 6 10 60.0 0 0 - 5 7 71.4 3 9 12 0 0 7 1 2 -12
+p301
+aVLaPhonso Ellis MIA 02/20/2002 MIA vs. LAC L 24 3 1 5 20.0 0 3 0.0 1 2 50.0 4 2 6 0 0 0 0 2 -7
+p302
+aVEddie House MIA 02/20/2002 MIA vs. LAC L 11 4 2 8 25.0 0 3 0.0 0 0 - 0 1 1 0 1 0 0 1 -4
+p303
+aVMike James MIA 02/18/2002 MIA vs. CHI W 5 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 1 0 0 0 1 1
+p304
+aVVladimir Stepania MIA 02/18/2002 MIA vs. CHI W 10 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 1 0 1 3 1
+p305
+aVEddie House MIA 02/18/2002 MIA vs. CHI W 21 14 6 13 46.2 2 5 40.0 0 0 - 0 0 0 3 2 0 2 2 16
+p306
+aVBrian Grant MIA 02/18/2002 MIA vs. CHI W 32 6 3 6 50.0 0 0 - 0 0 - 2 8 10 6 1 0 2 2 6
+p307
+aVEddie Jones MIA 02/18/2002 MIA vs. CHI W 33 16 6 10 60.0 1 3 33.3 3 6 50.0 0 2 2 2 3 1 1 3 15
+p308
+aVSean Marks MIA 02/18/2002 MIA vs. CHI W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p309
+aVJim Jackson MIA 02/18/2002 MIA vs. CHI W 23 12 6 7 85.7 0 0 - 0 0 - 1 7 8 2 0 0 1 1 11
+p310
+aVRod Strickland MIA 02/18/2002 MIA vs. CHI W 27 7 3 7 42.9 0 0 - 1 2 50.0 0 3 3 7 0 0 1 1 8
+p311
+aVKendall Gill MIA 02/18/2002 MIA vs. CHI W 35 12 6 10 60.0 0 0 - 0 1 0.0 0 3 3 7 1 0 2 2 17
+p312
+aVLaPhonso Ellis MIA 02/18/2002 MIA vs. CHI W 20 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 2 2 0 0 4 12
+p313
+aVAlonzo Mourning MIA 02/18/2002 MIA vs. CHI W 29 23 9 16 56.3 0 0 - 5 8 62.5 4 4 8 0 0 2 3 5 18
+p314
+aVLaPhonso Ellis MIA 02/17/2002 MIA @ MIN L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -5
+p315
+aVSean Marks MIA 02/17/2002 MIA @ MIN L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 5
+p316
+aVChris Gatling MIA 02/17/2002 MIA @ MIN L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 0 0 0 1 12
+p317
+aVAlonzo Mourning MIA 02/17/2002 MIA @ MIN L 26 10 5 8 62.5 0 0 - 0 2 0.0 2 4 6 1 0 0 4 2 -25
+p318
+aVEddie House MIA 02/17/2002 MIA @ MIN L 22 12 5 11 45.5 2 5 40.0 0 0 - 0 5 5 4 0 1 3 1 9
+p319
+aVRod Strickland MIA 02/17/2002 MIA @ MIN L 23 6 3 8 37.5 0 0 - 0 0 - 0 0 0 5 2 0 4 1 -20
+p320
+aVBrian Grant MIA 02/17/2002 MIA @ MIN L 30 6 2 6 33.3 0 0 - 2 2 100.0 3 4 7 1 0 0 1 1 -24
+p321
+aVVladimir Stepania MIA 02/17/2002 MIA @ MIN L 18 6 2 4 50.0 0 0 - 2 2 100.0 3 1 4 1 1 1 0 1 7
+p322
+aVKendall Gill MIA 02/17/2002 MIA @ MIN L 16 3 1 7 14.3 0 1 0.0 1 2 50.0 1 1 2 0 3 0 2 3 -13
+p323
+aVJim Jackson MIA 02/17/2002 MIA @ MIN L 28 13 5 8 62.5 1 2 50.0 2 3 66.7 1 3 4 2 1 0 1 2 1
+p324
+aVMike James MIA 02/17/2002 MIA @ MIN L 11 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 3 0 0 2 1 0
+p325
+aVEddie Jones MIA 02/17/2002 MIA @ MIN L 37 17 6 16 37.5 3 7 42.9 2 3 66.7 1 2 3 2 1 0 1 0 -12
+p326
+aVBrian Grant MIA 02/15/2002 MIA @ MIL W 35 21 9 15 60.0 0 0 - 3 3 100.0 3 10 13 1 0 1 4 2 -5
+p327
+aVChris Gatling MIA 02/15/2002 MIA @ MIL W 2 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -2
+p328
+aVEddie Jones MIA 02/15/2002 MIA @ MIL W 45 22 7 17 41.2 1 6 16.7 7 8 87.5 2 4 6 4 7 1 2 3 11
+p329
+aVEddie House MIA 02/15/2002 MIA @ MIL W 15 3 1 5 20.0 1 1 100.0 0 0 - 1 1 2 2 0 0 1 0 14
+p330
+aVVladimir Stepania MIA 02/15/2002 MIA @ MIL W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p331
+aVRod Strickland MIA 02/15/2002 MIA @ MIL W 38 3 1 9 11.1 0 0 - 1 2 50.0 3 3 6 9 0 0 2 3 -12
+p332
+aVAlonzo Mourning MIA 02/15/2002 MIA @ MIL W 42 14 5 12 41.7 0 0 - 4 6 66.7 2 6 8 3 0 2 2 4 1
+p333
+aVJim Jackson MIA 02/15/2002 MIA @ MIL W 32 7 3 10 30.0 1 1 100.0 0 0 - 2 5 7 5 2 0 2 2 8
+p334
+aVLaPhonso Ellis MIA 02/15/2002 MIA @ MIL W 26 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 2 2 1 0 4 11
+p335
+aVKendall Gill MIA 02/15/2002 MIA @ MIL W 24 10 4 9 44.4 0 0 - 2 2 100.0 0 1 1 0 1 0 0 2 -11
+p336
+aVVladimir Stepania MIA 02/13/2002 MIA vs. ORL W 10 4 2 5 40.0 0 0 - 0 0 - 4 4 8 1 0 1 0 2 5
+p337
+aVMike James MIA 02/13/2002 MIA vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p338
+aVJim Jackson MIA 02/13/2002 MIA vs. ORL W 31 9 3 7 42.9 2 3 66.7 1 1 100.0 0 3 3 2 0 0 0 2 21
+p339
+aVEddie Jones MIA 02/13/2002 MIA vs. ORL W 41 24 10 16 62.5 3 4 75.0 1 1 100.0 1 7 8 3 1 1 1 3 8
+p340
+aVAlonzo Mourning MIA 02/13/2002 MIA vs. ORL W 33 18 9 14 64.3 0 0 - 0 0 - 2 6 8 2 1 3 4 3 10
+p341
+aVBrian Grant MIA 02/13/2002 MIA vs. ORL W 30 15 5 7 71.4 0 0 - 5 6 83.3 3 3 6 4 0 0 3 5 -1
+p342
+aVKendall Gill MIA 02/13/2002 MIA vs. ORL W 18 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 0
+p343
+aVEddie House MIA 02/13/2002 MIA vs. ORL W 17 13 6 11 54.5 1 4 25.0 0 0 - 0 2 2 3 1 0 1 0 16
+p344
+aVLaPhonso Ellis MIA 02/13/2002 MIA vs. ORL W 26 9 4 9 44.4 1 3 33.3 0 0 - 1 4 5 1 0 0 1 5 20
+p345
+aVRod Strickland MIA 02/13/2002 MIA vs. ORL W 32 14 6 11 54.5 0 0 - 2 2 100.0 1 1 2 6 1 0 2 0 3
+p346
+aVEddie House MIA 02/05/2002 MIA vs. ATL L 14 4 2 5 40.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -7
+p347
+aVBrian Grant MIA 02/05/2002 MIA vs. ATL L 36 10 4 11 36.4 0 0 - 2 2 100.0 2 11 13 2 1 0 3 3 1
+p348
+aVKendall Gill MIA 02/05/2002 MIA vs. ATL L 28 7 2 7 28.6 0 1 0.0 3 4 75.0 0 3 3 2 1 0 2 2 -7
+p349
+aVRod Strickland MIA 02/05/2002 MIA vs. ATL L 35 16 8 13 61.5 0 1 0.0 0 0 - 1 1 2 6 2 0 3 2 4
+p350
+aVVladimir Stepania MIA 02/05/2002 MIA vs. ATL L 12 2 1 6 16.7 0 0 - 0 0 - 3 6 9 0 0 2 0 0 1
+p351
+aVAlonzo Mourning MIA 02/05/2002 MIA vs. ATL L 36 10 4 8 50.0 0 0 - 2 4 50.0 0 3 3 1 1 3 0 4 -4
+p352
+aVJim Jackson MIA 02/05/2002 MIA vs. ATL L 28 2 1 8 12.5 0 2 0.0 0 0 - 2 1 3 2 0 1 1 1 -7
+p353
+aVEddie Jones MIA 02/05/2002 MIA vs. ATL L 41 16 7 15 46.7 1 6 16.7 1 1 100.0 1 8 9 3 1 0 3 3 8
+p354
+aVLaPhonso Ellis MIA 02/05/2002 MIA vs. ATL L 11 6 3 5 60.0 0 1 0.0 0 1 0.0 0 1 1 1 2 1 0 2 -4
+p355
+aVRod Strickland MIA 02/03/2002 MIA @ NYK W 33 14 5 9 55.6 0 1 0.0 4 4 100.0 0 2 2 7 0 0 0 0 13
+p356
+aVAlonzo Mourning MIA 02/03/2002 MIA @ NYK W 41 21 7 19 36.8 0 0 - 7 8 87.5 2 10 12 1 0 2 2 1 5
+p357
+aVBrian Grant MIA 02/03/2002 MIA @ NYK W 30 10 4 11 36.4 0 1 0.0 2 2 100.0 2 8 10 1 0 1 2 3 6
+p358
+aVJim Jackson MIA 02/03/2002 MIA @ NYK W 35 15 6 11 54.5 0 0 - 3 4 75.0 2 8 10 1 0 0 1 2 9
+p359
+aVKendall Gill MIA 02/03/2002 MIA @ NYK W 30 1 0 3 0.0 0 0 - 1 2 50.0 0 5 5 2 1 0 0 4 2
+p360
+aVEddie House MIA 02/03/2002 MIA @ NYK W 14 7 3 8 37.5 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 0
+p361
+aVLaPhonso Ellis MIA 02/03/2002 MIA @ NYK W 25 8 3 7 42.9 2 5 40.0 0 0 - 2 3 5 1 1 0 1 2 14
+p362
+aVEddie Jones MIA 02/03/2002 MIA @ NYK W 29 18 6 12 50.0 1 2 50.0 5 6 83.3 0 1 1 4 0 1 0 5 8
+p363
+aVChris Gatling MIA 02/03/2002 MIA @ NYK W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p364
+aVBrian Grant MIA 02/01/2002 MIA vs. SAS W 37 10 4 6 66.7 0 0 - 2 2 100.0 2 5 7 4 0 0 1 5 3
+p365
+aVRod Strickland MIA 02/01/2002 MIA vs. SAS W 36 17 7 13 53.8 1 1 100.0 2 2 100.0 0 3 3 7 2 0 1 0 5
+p366
+aVEddie House MIA 02/01/2002 MIA vs. SAS W 14 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -4
+p367
+aVJim Jackson MIA 02/01/2002 MIA vs. SAS W 27 9 4 6 66.7 0 0 - 1 2 50.0 0 7 7 1 1 1 1 3 9
+p368
+aVChris Gatling MIA 02/01/2002 MIA vs. SAS W 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -3
+p369
+aVLaPhonso Ellis MIA 02/01/2002 MIA vs. SAS W 20 6 3 10 30.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 3 -3
+p370
+aVAlonzo Mourning MIA 02/01/2002 MIA vs. SAS W 32 13 4 13 30.8 0 0 - 5 6 83.3 2 3 5 4 1 1 2 6 7
+p371
+aVKendall Gill MIA 02/01/2002 MIA vs. SAS W 21 5 2 6 33.3 1 1 100.0 0 0 - 2 1 3 0 0 0 0 3 -4
+p372
+aVVladimir Stepania MIA 02/01/2002 MIA vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 4
+p373
+aVEddie Jones MIA 02/01/2002 MIA vs. SAS W 44 24 8 22 36.4 4 8 50.0 4 5 80.0 2 6 8 3 1 0 1 1 11
+p374
+aVVladimir Stepania MIA 01/29/2002 MIA @ DEN W 8 3 1 1 100.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 0 -9
+p375
+aVEddie Jones MIA 01/29/2002 MIA @ DEN W 48 37 13 24 54.2 3 7 42.9 8 8 100.0 0 5 5 2 4 4 1 3 11
+p376
+aVKendall Gill MIA 01/29/2002 MIA @ DEN W 23 12 6 10 60.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 2 -4
+p377
+aVLaPhonso Ellis MIA 01/29/2002 MIA @ DEN W 38 12 6 12 50.0 0 1 0.0 0 0 - 3 1 4 2 0 1 2 4 13
+p378
+aVBrian Grant MIA 01/29/2002 MIA @ DEN W 45 11 3 10 30.0 0 0 - 5 5 100.0 4 10 14 5 2 1 3 3 15
+p379
+aVRod Strickland MIA 01/29/2002 MIA @ DEN W 30 3 1 6 16.7 0 1 0.0 1 1 100.0 1 0 1 7 2 0 4 2 11
+p380
+aVEddie House MIA 01/29/2002 MIA @ DEN W 21 8 4 12 33.3 0 0 - 0 0 - 0 2 2 3 0 0 1 3 -4
+p381
+aVJim Jackson MIA 01/29/2002 MIA @ DEN W 37 6 3 9 33.3 0 0 - 0 0 - 1 4 5 1 1 1 2 5 4
+p382
+aVChris Gatling MIA 01/29/2002 MIA @ DEN W 15 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 0 0 1 0 0 -7
+p383
+aVMike James MIA 01/28/2002 MIA @ UTA L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p384
+aVEddie House MIA 01/28/2002 MIA @ UTA L 17 9 4 9 44.4 1 6 16.7 0 0 - 0 2 2 1 0 0 2 1 -11
+p385
+aVEddie Jones MIA 01/28/2002 MIA @ UTA L 25 12 3 16 18.8 2 6 33.3 4 4 100.0 2 3 5 2 1 0 1 4 -4
+p386
+aVLaPhonso Ellis MIA 01/28/2002 MIA @ UTA L 28 7 3 9 33.3 1 2 50.0 0 0 - 1 3 4 1 0 1 1 6 -3
+p387
+aVRod Strickland MIA 01/28/2002 MIA @ UTA L 32 16 5 8 62.5 0 0 - 6 6 100.0 2 2 4 5 0 1 2 1 -3
+p388
+aVVladimir Stepania MIA 01/28/2002 MIA @ UTA L 21 5 1 4 25.0 0 0 - 3 4 75.0 5 4 9 1 3 1 3 6 5
+p389
+aVKendall Gill MIA 01/28/2002 MIA @ UTA L 27 8 3 9 33.3 0 0 - 2 2 100.0 0 0 0 2 0 0 0 3 -7
+p390
+aVMalik Allen MIA 01/28/2002 MIA @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p391
+aVBrian Grant MIA 01/28/2002 MIA @ UTA L 28 12 5 8 62.5 0 0 - 2 2 100.0 3 2 5 0 1 1 2 6 -14
+p392
+aVChris Gatling MIA 01/28/2002 MIA @ UTA L 22 11 5 5 100.0 0 0 - 1 2 50.0 2 2 4 1 1 0 2 1 -11
+p393
+aVJim Jackson MIA 01/28/2002 MIA @ UTA L 41 9 4 11 36.4 1 1 100.0 0 1 0.0 2 2 4 3 2 0 3 5 -7
+p394
+aVBrian Grant MIA 01/26/2002 MIA vs. NJN W 33 9 4 9 44.4 0 0 - 1 2 50.0 4 8 12 0 0 0 2 4 13
+p395
+aVAlonzo Mourning MIA 01/26/2002 MIA vs. NJN W 33 23 8 10 80.0 0 0 - 7 9 77.8 1 7 8 2 2 4 4 2 13
+p396
+aVEddie Jones MIA 01/26/2002 MIA vs. NJN W 37 20 5 11 45.5 3 4 75.0 7 13 53.8 2 3 5 2 3 1 1 5 18
+p397
+aVEddie House MIA 01/26/2002 MIA vs. NJN W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p398
+aVKendall Gill MIA 01/26/2002 MIA vs. NJN W 35 10 5 11 45.5 0 1 0.0 0 0 - 0 6 6 2 2 0 2 3 16
+p399
+aVRod Strickland MIA 01/26/2002 MIA vs. NJN W 35 11 4 9 44.4 0 0 - 3 3 100.0 0 1 1 7 0 0 4 2 17
+p400
+aVMike James MIA 01/26/2002 MIA vs. NJN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p401
+aVLaPhonso Ellis MIA 01/26/2002 MIA vs. NJN W 30 8 4 7 57.1 0 0 - 0 0 - 6 1 7 1 0 1 1 2 0
+p402
+aVJim Jackson MIA 01/26/2002 MIA vs. NJN W 26 9 4 5 80.0 0 0 - 1 1 100.0 0 6 6 2 0 0 2 2 0
+p403
+aVJim Jackson MIA 01/24/2002 MIA @ ORL L 27 6 2 8 25.0 1 1 100.0 1 1 100.0 0 3 3 3 1 0 3 4 -11
+p404
+aVEddie House MIA 01/24/2002 MIA @ ORL L 13 5 1 4 25.0 1 3 33.3 2 2 100.0 0 2 2 0 0 0 2 2 1
+p405
+aVAlonzo Mourning MIA 01/24/2002 MIA @ ORL L 37 15 6 14 42.9 0 0 - 3 6 50.0 0 11 11 2 0 2 3 5 -3
+p406
+aVVladimir Stepania MIA 01/24/2002 MIA @ ORL L 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 7
+p407
+aVBrian Grant MIA 01/24/2002 MIA @ ORL L 32 7 2 4 50.0 0 0 - 3 4 75.0 0 8 8 2 0 0 0 2 -5
+p408
+aVLaPhonso Ellis MIA 01/24/2002 MIA @ ORL L 24 7 3 8 37.5 0 1 0.0 1 2 50.0 3 5 8 0 0 1 0 5 -7
+p409
+aVRod Strickland MIA 01/24/2002 MIA @ ORL L 40 11 5 10 50.0 0 0 - 1 2 50.0 3 3 6 8 1 0 4 1 -7
+p410
+aVEddie Jones MIA 01/24/2002 MIA @ ORL L 42 28 10 20 50.0 1 4 25.0 7 7 100.0 4 5 9 1 2 1 4 5 2
+p411
+aVKendall Gill MIA 01/24/2002 MIA @ ORL L 22 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 2 1 0 3 5 -2
+p412
+aVVladimir Stepania MIA 01/22/2002 MIA vs. CHI W 16 2 0 3 0.0 0 0 - 2 4 50.0 1 3 4 0 1 1 1 2 -1
+p413
+aVBrian Grant MIA 01/22/2002 MIA vs. CHI W 26 6 3 5 60.0 0 0 - 0 0 - 0 5 5 1 0 1 3 0 8
+p414
+aVEddie Jones MIA 01/22/2002 MIA vs. CHI W 38 20 6 16 37.5 3 8 37.5 5 6 83.3 1 5 6 2 2 0 2 2 16
+p415
+aVKendall Gill MIA 01/22/2002 MIA vs. CHI W 27 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 1 1 0 1 0 -5
+p416
+aVAlonzo Mourning MIA 01/22/2002 MIA vs. CHI W 30 17 6 7 85.7 0 0 - 5 5 100.0 1 5 6 0 3 1 4 5 15
+p417
+aVMike James MIA 01/22/2002 MIA vs. CHI W 13 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 4 2 0 3 1 5
+p418
+aVJim Jackson MIA 01/22/2002 MIA vs. CHI W 31 12 4 7 57.1 0 0 - 4 4 100.0 2 7 9 3 3 0 3 4 15
+p419
+aVRod Strickland MIA 01/22/2002 MIA vs. CHI W 35 20 8 10 80.0 0 0 - 4 4 100.0 0 6 6 6 0 0 3 0 8
+p420
+aVLaPhonso Ellis MIA 01/22/2002 MIA vs. CHI W 23 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 4
+p421
+aVJim Jackson MIA 01/21/2002 MIA @ CLE W 40 6 3 9 33.3 0 0 - 0 0 - 0 5 5 5 0 0 1 0 -2
+p422
+aVBrian Grant MIA 01/21/2002 MIA @ CLE W 33 10 5 10 50.0 0 0 - 0 0 - 2 6 8 4 0 0 1 1 9
+p423
+aVKendall Gill MIA 01/21/2002 MIA @ CLE W 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 0 0 2 4 4
+p424
+aVRod Strickland MIA 01/21/2002 MIA @ CLE W 39 13 5 12 41.7 0 2 0.0 3 4 75.0 0 6 6 7 1 1 3 4 2
+p425
+aVVladimir Stepania MIA 01/21/2002 MIA @ CLE W 13 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 0 0 1 0 1 -4
+p426
+aVLaPhonso Ellis MIA 01/21/2002 MIA @ CLE W 27 7 3 6 50.0 1 1 100.0 0 0 - 2 4 6 2 0 1 1 4 -4
+p427
+aVEddie Jones MIA 01/21/2002 MIA @ CLE W 49 27 11 20 55.0 4 7 57.1 1 1 100.0 0 4 4 5 2 2 2 4 2
+p428
+aVMike James MIA 01/21/2002 MIA @ CLE W 14 12 5 6 83.3 2 2 100.0 0 0 - 0 1 1 1 0 0 0 3 0
+p429
+aVAlonzo Mourning MIA 01/21/2002 MIA @ CLE W 32 15 4 10 40.0 0 0 - 7 12 58.3 1 5 6 1 1 4 1 6 3
+p430
+aVEddie House MIA 01/19/2002 MIA vs. IND W 16 9 4 6 66.7 1 3 33.3 0 0 - 0 4 4 5 1 0 2 1 -2
+p431
+aVJim Jackson MIA 01/19/2002 MIA vs. IND W 26 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 1 4 -4
+p432
+aVRod Strickland MIA 01/19/2002 MIA vs. IND W 32 9 3 6 50.0 0 0 - 3 4 75.0 0 2 2 13 2 1 3 1 14
+p433
+aVBrian Grant MIA 01/19/2002 MIA vs. IND W 35 12 6 13 46.2 0 0 - 0 0 - 4 6 10 4 0 0 2 2 17
+p434
+aVChris Gatling MIA 01/19/2002 MIA vs. IND W 14 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 1 0 1 1 -3
+p435
+aVAlonzo Mourning MIA 01/19/2002 MIA vs. IND W 30 12 4 11 36.4 0 0 - 4 5 80.0 2 7 9 2 0 0 1 2 10
+p436
+aVLaPhonso Ellis MIA 01/19/2002 MIA vs. IND W 28 14 7 9 77.8 0 1 0.0 0 0 - 0 4 4 1 0 1 0 1 -1
+p437
+aVEddie Jones MIA 01/19/2002 MIA vs. IND W 37 23 9 14 64.3 3 4 75.0 2 2 100.0 0 6 6 1 0 0 2 2 13
+p438
+aVKendall Gill MIA 01/19/2002 MIA vs. IND W 22 13 6 9 66.7 0 1 0.0 1 2 50.0 0 2 2 0 0 0 1 2 16
+p439
+aVBrian Grant MIA 01/17/2002 MIA @ POR W 27 8 4 7 57.1 0 0 - 0 0 - 3 4 7 3 0 0 0 3 -8
+p440
+aVKendall Gill MIA 01/17/2002 MIA @ POR W 34 13 4 12 33.3 0 1 0.0 5 6 83.3 2 2 4 3 2 1 2 4 1
+p441
+aVEddie House MIA 01/17/2002 MIA @ POR W 18 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 3 1 0 1 1 9
+p442
+aVAlonzo Mourning MIA 01/17/2002 MIA @ POR W 42 19 6 14 42.9 0 0 - 7 10 70.0 4 8 12 3 1 2 2 4 -3
+p443
+aVRod Strickland MIA 01/17/2002 MIA @ POR W 35 6 3 6 50.0 0 0 - 0 0 - 0 1 1 11 2 0 2 0 -4
+p444
+aVEddie Jones MIA 01/17/2002 MIA @ POR W 41 25 9 20 45.0 3 6 50.0 4 4 100.0 0 7 7 2 1 0 1 3 -1
+p445
+aVJim Jackson MIA 01/17/2002 MIA @ POR W 37 13 5 11 45.5 2 3 66.7 1 1 100.0 0 4 4 3 0 0 2 2 3
+p446
+aVVladimir Stepania MIA 01/17/2002 MIA @ POR W 14 6 3 5 60.0 0 0 - 0 0 - 4 4 8 0 2 2 3 1 8
+p447
+aVLaPhonso Ellis MIA 01/17/2002 MIA @ POR W 17 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 0 0 1 1 2 5
+p448
+aVAlonzo Mourning MIA 01/16/2002 MIA @ LAL W 36 28 12 17 70.6 0 0 - 4 7 57.1 5 6 11 2 0 3 3 4 -1
+p449
+aVBrian Grant MIA 01/16/2002 MIA @ LAL W 30 4 2 5 40.0 0 0 - 0 0 - 1 1 2 3 1 0 0 4 0
+p450
+aVVladimir Stepania MIA 01/16/2002 MIA @ LAL W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 8
+p451
+aVEddie House MIA 01/16/2002 MIA @ LAL W 19 10 4 11 36.4 0 3 0.0 2 2 100.0 1 0 1 1 1 0 1 1 1
+p452
+aVKendall Gill MIA 01/16/2002 MIA @ LAL W 21 6 3 6 50.0 0 0 - 0 0 - 1 0 1 3 2 0 0 1 -2
+p453
+aVEddie Jones MIA 01/16/2002 MIA @ LAL W 36 10 4 9 44.4 2 4 50.0 0 0 - 0 5 5 2 0 2 1 4 2
+p454
+aVLaPhonso Ellis MIA 01/16/2002 MIA @ LAL W 25 9 4 10 40.0 1 4 25.0 0 0 - 4 4 8 3 0 0 2 2 3
+p455
+aVRod Strickland MIA 01/16/2002 MIA @ LAL W 31 14 6 12 50.0 0 0 - 2 2 100.0 0 3 3 3 0 0 1 2 3
+p456
+aVJim Jackson MIA 01/16/2002 MIA @ LAL W 31 19 5 8 62.5 1 1 100.0 8 9 88.9 0 7 7 5 1 0 0 2 16
+p457
+aVKendall Gill MIA 01/14/2002 MIA @ GSW W 22 7 3 3 100.0 0 0 - 1 2 50.0 0 5 5 1 1 0 1 2 13
+p458
+aVAlonzo Mourning MIA 01/14/2002 MIA @ GSW W 32 15 6 7 85.7 0 0 - 3 4 75.0 0 3 3 4 0 4 4 4 17
+p459
+aVLaPhonso Ellis MIA 01/14/2002 MIA @ GSW W 32 5 2 5 40.0 1 1 100.0 0 0 - 1 3 4 0 1 1 0 1 9
+p460
+aVRod Strickland MIA 01/14/2002 MIA @ GSW W 32 8 2 6 33.3 0 1 0.0 4 4 100.0 0 5 5 8 2 0 4 3 5
+p461
+aVEddie Jones MIA 01/14/2002 MIA @ GSW W 41 28 9 22 40.9 5 9 55.6 5 8 62.5 0 2 2 5 2 0 2 0 10
+p462
+aVJim Jackson MIA 01/14/2002 MIA @ GSW W 30 12 5 11 45.5 0 1 0.0 2 2 100.0 1 5 6 1 0 0 0 0 -13
+p463
+aVVladimir Stepania MIA 01/14/2002 MIA @ GSW W 8 2 1 1 100.0 0 0 - 0 0 - 2 0 2 1 1 0 1 1 -1
+p464
+aVBrian Grant MIA 01/14/2002 MIA @ GSW W 14 0 0 5 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 4 -9
+p465
+aVChris Gatling MIA 01/14/2002 MIA @ GSW W 15 6 2 6 33.3 0 0 - 2 2 100.0 3 2 5 0 0 0 0 5 0
+p466
+aVEddie House MIA 01/14/2002 MIA @ GSW W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 3 3 -1
+p467
+aVEddie Jones MIA 01/12/2002 MIA @ PHX L 23 3 1 5 20.0 1 3 33.3 0 0 - 1 2 3 1 1 1 5 3 -21
+p468
+aVMike James MIA 01/12/2002 MIA @ PHX L 14 8 3 6 50.0 2 3 66.7 0 0 - 1 1 2 3 1 1 0 1 -6
+p469
+aVAlonzo Mourning MIA 01/12/2002 MIA @ PHX L 22 10 4 10 40.0 0 0 - 2 3 66.7 3 3 6 0 0 1 2 2 -26
+p470
+aVBrian Grant MIA 01/12/2002 MIA @ PHX L 24 14 6 9 66.7 0 0 - 2 3 66.7 2 4 6 1 0 0 2 1 -19
+p471
+aVJim Jackson MIA 01/12/2002 MIA @ PHX L 30 6 2 12 16.7 0 2 0.0 2 2 100.0 1 4 5 1 0 1 0 0 -23
+p472
+aVEddie House MIA 01/12/2002 MIA @ PHX L 28 15 7 14 50.0 1 2 50.0 0 0 - 0 2 2 2 1 0 3 4 -17
+p473
+aVMalik Allen MIA 01/12/2002 MIA @ PHX L 23 2 0 6 0.0 0 0 - 2 2 100.0 5 1 6 1 1 2 0 3 -2
+p474
+aVVladimir Stepania MIA 01/12/2002 MIA @ PHX L 15 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 1 0 1 0 -6
+p475
+aVKendall Gill MIA 01/12/2002 MIA @ PHX L 31 9 4 15 26.7 0 1 0.0 1 2 50.0 1 2 3 3 1 0 2 2 -18
+p476
+aVLaPhonso Ellis MIA 01/12/2002 MIA @ PHX L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -10
+p477
+aVChris Gatling MIA 01/12/2002 MIA @ PHX L 5 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 0 0 -5
+p478
+aVRod Strickland MIA 01/12/2002 MIA @ PHX L 18 0 0 5 0.0 0 0 - 0 0 - 0 3 3 2 1 1 2 1 -17
+p479
+aVRod Strickland MIA 01/10/2002 MIA vs. POR L 36 13 4 6 66.7 0 0 - 5 6 83.3 2 4 6 6 1 0 1 3 -3
+p480
+aVChris Gatling MIA 01/10/2002 MIA vs. POR L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p481
+aVAlonzo Mourning MIA 01/10/2002 MIA vs. POR L 38 16 5 11 45.5 0 1 0.0 6 6 100.0 3 6 9 3 1 2 5 3 -3
+p482
+aVLaPhonso Ellis MIA 01/10/2002 MIA vs. POR L 28 6 3 9 33.3 0 3 0.0 0 0 - 3 4 7 1 0 1 4 5 -10
+p483
+aVKendall Gill MIA 01/10/2002 MIA vs. POR L 6 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 1 0 1 0 0 2
+p484
+aVVladimir Stepania MIA 01/10/2002 MIA vs. POR L 7 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -1
+p485
+aVEddie Jones MIA 01/10/2002 MIA vs. POR L 43 25 9 15 60.0 2 5 40.0 5 5 100.0 0 7 7 2 2 0 3 3 -6
+p486
+aVEddie House MIA 01/10/2002 MIA vs. POR L 15 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 -11
+p487
+aVBrian Grant MIA 01/10/2002 MIA vs. POR L 21 10 5 7 71.4 0 0 - 0 0 - 3 2 5 1 0 0 1 6 6
+p488
+aVJim Jackson MIA 01/10/2002 MIA vs. POR L 41 6 2 11 18.2 0 3 0.0 2 2 100.0 2 3 5 0 0 1 4 5 -7
+p489
+aVVladimir Stepania MIA 01/08/2002 MIA @ NJN L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 2
+p490
+aVRod Strickland MIA 01/08/2002 MIA @ NJN L 28 8 2 7 28.6 1 1 100.0 3 4 75.0 0 0 0 6 0 0 4 2 -6
+p491
+aVLaPhonso Ellis MIA 01/08/2002 MIA @ NJN L 19 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 4 -14
+p492
+aVBrian Grant MIA 01/08/2002 MIA @ NJN L 40 15 6 10 60.0 0 0 - 3 3 100.0 1 9 10 2 0 1 1 4 -9
+p493
+aVKendall Gill MIA 01/08/2002 MIA @ NJN L 23 8 4 6 66.7 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -14
+p494
+aVEddie House MIA 01/08/2002 MIA @ NJN L 15 11 5 9 55.6 1 2 50.0 0 0 - 1 0 1 3 0 0 1 2 0
+p495
+aVAlonzo Mourning MIA 01/08/2002 MIA @ NJN L 38 26 11 16 68.8 0 0 - 4 4 100.0 4 10 14 1 0 0 1 4 0
+p496
+aVEddie Jones MIA 01/08/2002 MIA @ NJN L 38 9 4 13 30.8 1 5 20.0 0 0 - 0 2 2 4 2 0 4 3 -4
+p497
+aVJim Jackson MIA 01/08/2002 MIA @ NJN L 35 10 2 6 33.3 0 0 - 6 7 85.7 0 4 4 3 0 0 2 4 0
+p498
+aVKendall Gill MIA 01/06/2002 MIA vs. GSW W 15 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 0 0 0 1 -3
+p499
+aVEddie Jones MIA 01/06/2002 MIA vs. GSW W 40 22 7 16 43.8 2 6 33.3 6 7 85.7 1 4 5 8 2 1 1 3 8
+p500
+aVLaPhonso Ellis MIA 01/06/2002 MIA vs. GSW W 28 6 2 5 40.0 0 1 0.0 2 4 50.0 4 6 10 0 1 0 2 5 5
+p501
+aVAlonzo Mourning MIA 01/06/2002 MIA vs. GSW W 37 21 7 10 70.0 0 0 - 7 11 63.6 5 6 11 2 0 4 6 4 15
+p502
+aVChris Gatling MIA 01/06/2002 MIA vs. GSW W 7 1 0 1 0.0 0 0 - 1 4 25.0 0 3 3 0 0 0 1 0 6
+p503
+aVBrian Grant MIA 01/06/2002 MIA vs. GSW W 22 2 1 6 16.7 0 0 - 0 0 - 1 3 4 3 1 0 2 5 1
+p504
+aVJim Jackson MIA 01/06/2002 MIA vs. GSW W 29 6 2 10 20.0 1 2 50.0 1 1 100.0 2 4 6 2 1 0 0 5 2
+p505
+aVRod Strickland MIA 01/06/2002 MIA vs. GSW W 34 18 7 13 53.8 0 0 - 4 7 57.1 1 7 8 6 0 0 5 3 16
+p506
+aVVladimir Stepania MIA 01/06/2002 MIA vs. GSW W 15 10 4 5 80.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 2 -5
+p507
+aVEddie House MIA 01/06/2002 MIA vs. GSW W 15 4 2 9 22.2 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -5
+p508
+aVVladimir Stepania MIA 01/04/2002 MIA @ BOS W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -3
+p509
+aVAlonzo Mourning MIA 01/04/2002 MIA @ BOS W 31 14 5 11 45.5 0 0 - 4 7 57.1 1 10 11 1 0 4 2 2 21
+p510
+aVJim Jackson MIA 01/04/2002 MIA @ BOS W 38 6 3 11 27.3 0 2 0.0 0 0 - 1 6 7 4 2 0 2 4 18
+p511
+aVChris Gatling MIA 01/04/2002 MIA @ BOS W 7 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -2
+p512
+aVLaPhonso Ellis MIA 01/04/2002 MIA @ BOS W 20 9 3 7 42.9 1 2 50.0 2 2 100.0 0 2 2 0 1 1 0 4 5
+p513
+aVBrian Grant MIA 01/04/2002 MIA @ BOS W 36 18 9 12 75.0 0 0 - 0 0 - 3 9 12 6 1 1 0 3 25
+p514
+aVEddie Jones MIA 01/04/2002 MIA @ BOS W 37 23 8 14 57.1 2 3 66.7 5 6 83.3 1 3 4 4 0 0 4 2 24
+p515
+aVEddie House MIA 01/04/2002 MIA @ BOS W 17 6 2 6 33.3 1 4 25.0 1 2 50.0 1 2 3 3 0 0 1 3 -1
+p516
+aVRod Strickland MIA 01/04/2002 MIA @ BOS W 31 7 3 7 42.9 0 0 - 1 1 100.0 1 5 6 6 1 1 3 1 24
+p517
+aVKendall Gill MIA 01/04/2002 MIA @ BOS W 21 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 2 0 0 0 3 4
+p518
+aVLaPhonso Ellis MIA 12/31/2001 MIA @ IND W 25 2 0 1 0.0 0 1 0.0 2 2 100.0 1 2 3 1 1 0 3 2 -3
+p519
+aVEddie Jones MIA 12/31/2001 MIA @ IND W 42 29 11 17 64.7 0 0 - 7 7 100.0 0 1 1 4 2 0 1 1 11
+p520
+aVRod Strickland MIA 12/31/2001 MIA @ IND W 36 14 4 8 50.0 0 0 - 6 7 85.7 3 7 10 9 1 0 5 2 16
+p521
+aVKendall Gill MIA 12/31/2001 MIA @ IND W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p522
+aVAlonzo Mourning MIA 12/31/2001 MIA @ IND W 34 19 8 13 61.5 0 0 - 3 6 50.0 0 7 7 2 0 5 2 5 10
+p523
+aVMike James MIA 12/31/2001 MIA @ IND W 13 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 3 -16
+p524
+aVJim Jackson MIA 12/31/2001 MIA @ IND W 34 12 5 10 50.0 1 2 50.0 1 1 100.0 0 10 10 2 1 1 4 2 4
+p525
+aVVladimir Stepania MIA 12/31/2001 MIA @ IND W 9 0 0 0 - 0 0 - 0 2 0.0 2 1 3 0 0 0 1 2 -11
+p526
+aVBrian Grant MIA 12/31/2001 MIA @ IND W 26 8 3 10 30.0 0 0 - 2 2 100.0 2 3 5 2 0 0 2 3 10
+p527
+aVChris Gatling MIA 12/31/2001 MIA @ IND W 15 4 2 7 28.6 0 0 - 0 0 - 2 4 6 0 0 0 1 2 -12
+p528
+aVEddie Jones MIA 12/30/2001 MIA @ DET L 38 15 6 16 37.5 2 4 50.0 1 2 50.0 1 3 4 5 6 1 3 4 -1
+p529
+aVKendall Gill MIA 12/30/2001 MIA @ DET L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 2 -5
+p530
+aVBrian Grant MIA 12/30/2001 MIA @ DET L 42 22 10 11 90.9 0 0 - 2 2 100.0 1 5 6 3 1 0 2 6 3
+p531
+aVLaPhonso Ellis MIA 12/30/2001 MIA @ DET L 18 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 0 0 0 3 3 -8
+p532
+aVChris Gatling MIA 12/30/2001 MIA @ DET L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 0
+p533
+aVVladimir Stepania MIA 12/30/2001 MIA @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p534
+aVRod Strickland MIA 12/30/2001 MIA @ DET L 30 8 3 9 33.3 0 0 - 2 2 100.0 1 1 2 7 4 0 4 5 0
+p535
+aVAlonzo Mourning MIA 12/30/2001 MIA @ DET L 37 18 7 8 87.5 0 0 - 4 6 66.7 1 9 10 0 0 1 3 6 -6
+p536
+aVEddie House MIA 12/30/2001 MIA @ DET L 22 3 1 11 9.1 1 5 20.0 0 0 - 0 2 2 6 0 0 1 1 -12
+p537
+aVJim Jackson MIA 12/30/2001 MIA @ DET L 27 8 3 6 50.0 0 1 0.0 2 2 100.0 0 4 4 2 0 0 1 4 3
+p538
+aVKendall Gill MIA 12/28/2001 MIA vs. MEM L 15 7 3 5 60.0 0 1 0.0 1 2 50.0 0 2 2 0 1 0 1 1 7
+p539
+aVChris Gatling MIA 12/28/2001 MIA vs. MEM L 23 12 6 8 75.0 0 0 - 0 3 0.0 3 5 8 1 2 0 3 4 5
+p540
+aVLaPhonso Ellis MIA 12/28/2001 MIA vs. MEM L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -1
+p541
+aVRod Strickland MIA 12/28/2001 MIA vs. MEM L 26 8 4 8 50.0 0 0 - 0 1 0.0 1 1 2 5 0 0 3 1 -9
+p542
+aVJim Jackson MIA 12/28/2001 MIA vs. MEM L 38 14 7 13 53.8 0 0 - 0 0 - 0 5 5 6 0 0 2 4 -5
+p543
+aVEddie House MIA 12/28/2001 MIA vs. MEM L 22 7 3 9 33.3 1 4 25.0 0 0 - 1 1 2 4 1 0 1 1 4
+p544
+aVAlonzo Mourning MIA 12/28/2001 MIA vs. MEM L 35 20 9 17 52.9 0 0 - 2 6 33.3 7 5 12 1 0 4 6 4 -2
+p545
+aVVladimir Stepania MIA 12/28/2001 MIA vs. MEM L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -2
+p546
+aVBrian Grant MIA 12/28/2001 MIA vs. MEM L 27 2 1 8 12.5 0 0 - 0 0 - 2 6 8 3 2 2 1 4 -15
+p547
+aVEddie Jones MIA 12/28/2001 MIA vs. MEM L 34 12 4 16 25.0 1 4 25.0 3 3 100.0 2 5 7 1 1 0 2 5 -7
+p548
+aVKendall Gill MIA 12/27/2001 MIA @ ATL L 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -13
+p549
+aVJim Jackson MIA 12/27/2001 MIA @ ATL L 46 14 6 13 46.2 2 5 40.0 0 0 - 0 2 2 4 1 0 3 2 2
+p550
+aVLaPhonso Ellis MIA 12/27/2001 MIA @ ATL L 17 4 0 3 0.0 0 1 0.0 4 4 100.0 2 3 5 2 0 0 0 4 -23
+p551
+aVBrian Grant MIA 12/27/2001 MIA @ ATL L 39 16 6 14 42.9 0 0 - 4 4 100.0 3 8 11 2 2 3 3 4 6
+p552
+aVEddie Jones MIA 12/27/2001 MIA @ ATL L 41 24 8 18 44.4 2 5 40.0 6 8 75.0 0 2 2 2 3 2 2 2 3
+p553
+aVChris Gatling MIA 12/27/2001 MIA @ ATL L 15 10 3 8 37.5 0 0 - 4 7 57.1 2 4 6 0 0 0 1 1 -9
+p554
+aVRod Strickland MIA 12/27/2001 MIA @ ATL L 34 14 6 10 60.0 0 0 - 2 2 100.0 1 4 5 7 1 0 1 5 9
+p555
+aVAlonzo Mourning MIA 12/27/2001 MIA @ ATL L 35 14 7 10 70.0 0 0 - 0 6 0.0 3 5 8 3 0 5 3 5 5
+p556
+aVRod Strickland MIA 12/23/2001 MIA @ TOR L 22 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 3 3 0 2 0 -6
+p557
+aVJim Jackson MIA 12/23/2001 MIA @ TOR L 42 12 6 11 54.5 0 0 - 0 1 0.0 1 4 5 2 2 0 3 3 4
+p558
+aVKendall Gill MIA 12/23/2001 MIA @ TOR L 19 6 3 6 50.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 -3
+p559
+aVEddie Jones MIA 12/23/2001 MIA @ TOR L 39 11 3 8 37.5 0 4 0.0 5 6 83.3 1 4 5 3 1 1 1 4 -15
+p560
+aVAlonzo Mourning MIA 12/23/2001 MIA @ TOR L 24 9 3 10 30.0 0 0 - 3 4 75.0 2 5 7 0 0 3 0 0 -12
+p561
+aVEddie House MIA 12/23/2001 MIA @ TOR L 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 2 0 2
+p562
+aVLaPhonso Ellis MIA 12/23/2001 MIA @ TOR L 18 5 2 7 28.6 1 2 50.0 0 2 0.0 3 4 7 0 0 0 4 3 -10
+p563
+aVBrian Grant MIA 12/23/2001 MIA @ TOR L 34 8 3 12 25.0 0 0 - 2 2 100.0 1 9 10 0 0 1 1 1 -7
+p564
+aVMalik Allen MIA 12/23/2001 MIA @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 10
+p565
+aVMike James MIA 12/23/2001 MIA @ TOR L 5 5 1 3 33.3 1 3 33.3 2 2 100.0 0 1 1 3 1 0 0 0 10
+p566
+aVChris Gatling MIA 12/23/2001 MIA @ TOR L 14 6 2 6 33.3 0 1 0.0 2 2 100.0 0 4 4 2 0 0 1 2 -18
+p567
+aVVladimir Stepania MIA 12/23/2001 MIA @ TOR L 12 5 1 1 100.0 0 0 - 3 6 50.0 1 2 3 0 0 0 1 2 10
+p568
+aVEddie Jones MIA 12/21/2001 MIA vs. CLE L 40 24 9 22 40.9 2 5 40.0 4 4 100.0 1 3 4 2 1 4 2 5 5
+p569
+aVEddie House MIA 12/21/2001 MIA vs. CLE L 13 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 0 2 0 1 0 -10
+p570
+aVKendall Gill MIA 12/21/2001 MIA vs. CLE L 20 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -16
+p571
+aVAlonzo Mourning MIA 12/21/2001 MIA vs. CLE L 41 16 7 14 50.0 0 0 - 2 4 50.0 3 7 10 2 2 3 2 4 4
+p572
+aVBrian Grant MIA 12/21/2001 MIA vs. CLE L 32 9 2 6 33.3 0 0 - 5 6 83.3 4 7 11 1 0 0 1 2 3
+p573
+aVLaPhonso Ellis MIA 12/21/2001 MIA vs. CLE L 32 4 1 6 16.7 0 2 0.0 2 4 50.0 4 2 6 0 0 1 1 4 -13
+p574
+aVRod Strickland MIA 12/21/2001 MIA vs. CLE L 40 14 6 17 35.3 0 0 - 2 2 100.0 2 4 6 4 3 0 0 1 5
+p575
+aVJim Jackson MIA 12/21/2001 MIA vs. CLE L 46 8 4 12 33.3 0 2 0.0 0 0 - 0 8 8 3 1 1 1 1 -3
+p576
+aVLaPhonso Ellis MIA 12/18/2001 MIA vs. UTA L 15 0 0 4 0.0 0 2 0.0 0 0 - 2 0 2 0 0 3 0 1 -20
+p577
+aVRod Strickland MIA 12/18/2001 MIA vs. UTA L 22 0 0 5 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -9
+p578
+aVAnthony Carter MIA 12/18/2001 MIA vs. UTA L 21 0 0 6 0.0 0 1 0.0 0 0 - 1 0 1 4 2 0 1 0 -28
+p579
+aVVladimir Stepania MIA 12/18/2001 MIA vs. UTA L 22 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -19
+p580
+aVEddie Jones MIA 12/18/2001 MIA vs. UTA L 29 12 5 14 35.7 2 6 33.3 0 0 - 1 2 3 3 1 1 0 2 -26
+p581
+aVKendall Gill MIA 12/18/2001 MIA vs. UTA L 24 8 3 8 37.5 1 2 50.0 1 3 33.3 1 1 2 0 1 0 1 1 -26
+p582
+aVAlonzo Mourning MIA 12/18/2001 MIA vs. UTA L 20 9 4 9 44.4 0 0 - 1 2 50.0 2 2 4 0 0 3 0 3 -20
+p583
+aVBrian Grant MIA 12/18/2001 MIA vs. UTA L 19 4 2 6 33.3 0 0 - 0 0 - 0 3 3 3 0 1 1 5 -2
+p584
+aVJim Jackson MIA 12/18/2001 MIA vs. UTA L 26 7 3 12 25.0 1 3 33.3 0 0 - 2 3 5 1 0 0 1 0 -14
+p585
+aVChris Gatling MIA 12/18/2001 MIA vs. UTA L 25 6 1 6 16.7 0 0 - 4 4 100.0 0 2 2 0 0 0 3 4 -19
+p586
+aVEddie House MIA 12/18/2001 MIA vs. UTA L 17 8 4 10 40.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -12
+p587
+aVRod Strickland MIA 12/15/2001 MIA @ HOU W 26 12 5 8 62.5 0 0 - 2 2 100.0 0 3 3 5 2 1 1 1 4
+p588
+aVJim Jackson MIA 12/15/2001 MIA @ HOU W 38 15 7 14 50.0 1 1 100.0 0 0 - 2 3 5 3 1 0 3 4 2
+p589
+aVVladimir Stepania MIA 12/15/2001 MIA @ HOU W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 0
+p590
+aVAlonzo Mourning MIA 12/15/2001 MIA @ HOU W 32 6 3 6 50.0 0 0 - 0 2 0.0 0 9 9 1 0 2 1 0 3
+p591
+aVEddie Jones MIA 12/15/2001 MIA @ HOU W 39 19 8 20 40.0 0 1 0.0 3 4 75.0 1 5 6 4 1 1 1 2 0
+p592
+aVLaPhonso Ellis MIA 12/15/2001 MIA @ HOU W 28 0 0 0 - 0 0 - 0 0 - 2 4 6 1 3 0 0 1 -1
+p593
+aVAnthony Carter MIA 12/15/2001 MIA @ HOU W 22 12 6 9 66.7 0 1 0.0 0 0 - 0 3 3 2 0 0 2 2 -4
+p594
+aVBrian Grant MIA 12/15/2001 MIA @ HOU W 33 6 2 10 20.0 0 0 - 2 2 100.0 0 7 7 1 1 1 1 3 4
+p595
+aVKendall Gill MIA 12/15/2001 MIA @ HOU W 19 6 3 8 37.5 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 7
+p596
+aVLaPhonso Ellis MIA 12/14/2001 MIA vs. NJN L 33 10 4 5 80.0 2 2 100.0 0 0 - 1 3 4 1 2 2 1 4 1
+p597
+aVBrian Grant MIA 12/14/2001 MIA vs. NJN L 39 12 5 11 45.5 0 0 - 2 2 100.0 3 7 10 0 0 0 3 3 -11
+p598
+aVEddie Jones MIA 12/14/2001 MIA vs. NJN L 27 10 4 9 44.4 0 0 - 2 3 66.7 0 2 2 2 0 0 3 4 -20
+p599
+aVRod Strickland MIA 12/14/2001 MIA vs. NJN L 22 4 2 5 40.0 0 0 - 0 0 - 0 2 2 5 1 0 3 0 -7
+p600
+aVKendall Gill MIA 12/14/2001 MIA vs. NJN L 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 13
+p601
+aVJim Jackson MIA 12/14/2001 MIA vs. NJN L 42 24 10 19 52.6 1 2 50.0 3 3 100.0 2 4 6 2 0 0 5 4 -14
+p602
+aVAlonzo Mourning MIA 12/14/2001 MIA vs. NJN L 32 9 3 6 50.0 0 0 - 3 6 50.0 2 8 10 2 0 5 3 2 -10
+p603
+aVEddie House MIA 12/14/2001 MIA vs. NJN L 4 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p604
+aVAnthony Carter MIA 12/14/2001 MIA vs. NJN L 22 8 4 7 57.1 0 1 0.0 0 0 - 0 3 3 4 1 0 3 1 -4
+p605
+aVChris Gatling MIA 12/14/2001 MIA vs. NJN L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 5
+p606
+aVLaPhonso Ellis MIA 12/12/2001 MIA @ WAS L 28 15 6 10 60.0 1 4 25.0 2 2 100.0 1 4 5 0 0 1 1 4 8
+p607
+aVAlonzo Mourning MIA 12/12/2001 MIA @ WAS L 35 11 5 9 55.6 0 0 - 1 4 25.0 2 1 3 1 0 2 2 4 -8
+p608
+aVRod Strickland MIA 12/12/2001 MIA @ WAS L 22 6 3 8 37.5 0 0 - 0 0 - 1 4 5 7 0 0 1 0 -12
+p609
+aVAnthony Carter MIA 12/12/2001 MIA @ WAS L 21 2 1 8 12.5 0 0 - 0 0 - 1 3 4 3 2 0 2 0 6
+p610
+aVBrian Grant MIA 12/12/2001 MIA @ WAS L 35 8 3 8 37.5 0 0 - 2 2 100.0 5 7 12 0 2 0 4 2 -7
+p611
+aVJim Jackson MIA 12/12/2001 MIA @ WAS L 34 18 8 15 53.3 2 2 100.0 0 0 - 2 1 3 2 0 0 2 5 -3
+p612
+aVChris Gatling MIA 12/12/2001 MIA @ WAS L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p613
+aVEddie Jones MIA 12/12/2001 MIA @ WAS L 39 10 3 11 27.3 0 3 0.0 4 4 100.0 1 5 6 4 2 1 1 4 -4
+p614
+aVEddie House MIA 12/12/2001 MIA @ WAS L 19 8 2 6 33.3 1 3 33.3 3 3 100.0 0 0 0 4 0 0 2 1 10
+p615
+aVAnthony Carter MIA 12/11/2001 MIA vs. MIL W 26 8 4 10 40.0 0 2 0.0 0 0 - 0 3 3 3 1 0 0 2 3
+p616
+aVChris Gatling MIA 12/11/2001 MIA vs. MIL W 12 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 0 1 0 4 1 0
+p617
+aVLaPhonso Ellis MIA 12/11/2001 MIA vs. MIL W 28 13 4 8 50.0 1 2 50.0 4 5 80.0 1 3 4 1 0 2 0 3 -3
+p618
+aVJim Jackson MIA 12/11/2001 MIA vs. MIL W 43 16 6 13 46.2 1 1 100.0 3 4 75.0 5 2 7 3 1 0 4 3 -4
+p619
+aVBrian Grant MIA 12/11/2001 MIA vs. MIL W 30 6 1 5 20.0 0 0 - 4 4 100.0 1 6 7 3 1 1 2 4 9
+p620
+aVVladimir Stepania MIA 12/11/2001 MIA vs. MIL W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -4
+p621
+aVEddie Jones MIA 12/11/2001 MIA vs. MIL W 40 23 8 17 47.1 2 4 50.0 5 6 83.3 2 4 6 3 0 0 3 5 6
+p622
+aVRod Strickland MIA 12/11/2001 MIA vs. MIL W 23 4 2 2 100.0 0 0 - 0 0 - 0 2 2 7 0 0 1 3 -1
+p623
+aVAlonzo Mourning MIA 12/11/2001 MIA vs. MIL W 35 21 8 12 66.7 0 0 - 5 10 50.0 1 9 10 1 0 2 1 2 4
+p624
+aVAlonzo Mourning MIA 12/09/2001 MIA @ SAC L 29 13 5 15 33.3 0 0 - 3 5 60.0 0 2 2 1 1 3 1 3 -8
+p625
+aVJim Jackson MIA 12/09/2001 MIA @ SAC L 37 17 7 11 63.6 1 2 50.0 2 3 66.7 1 10 11 3 0 1 3 3 -4
+p626
+aVEddie Jones MIA 12/09/2001 MIA @ SAC L 42 14 5 16 31.3 0 1 0.0 4 4 100.0 2 4 6 5 3 0 1 4 -3
+p627
+aVVladimir Stepania MIA 12/09/2001 MIA @ SAC L 19 10 5 9 55.6 0 0 - 0 2 0.0 2 3 5 1 1 0 2 2 1
+p628
+aVRod Strickland MIA 12/09/2001 MIA @ SAC L 19 7 2 5 40.0 0 0 - 3 3 100.0 0 3 3 4 0 0 2 1 -2
+p629
+aVLaPhonso Ellis MIA 12/09/2001 MIA @ SAC L 34 14 7 13 53.8 0 2 0.0 0 0 - 4 0 4 1 0 0 2 2 -6
+p630
+aVBrian Grant MIA 12/09/2001 MIA @ SAC L 14 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 1 0 0 4 -4
+p631
+aVChris Gatling MIA 12/09/2001 MIA @ SAC L 14 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 -4
+p632
+aVAnthony Carter MIA 12/09/2001 MIA @ SAC L 32 0 0 4 0.0 0 0 - 0 0 - 1 5 6 8 1 0 2 3 -5
+p633
+aVRod Strickland MIA 12/07/2001 MIA @ SEA W 29 15 5 9 55.6 0 0 - 5 6 83.3 0 2 2 3 1 0 2 0 7
+p634
+aVChris Gatling MIA 12/07/2001 MIA @ SEA W 14 7 2 3 66.7 0 0 - 3 6 50.0 0 3 3 1 0 0 0 2 -1
+p635
+aVAlonzo Mourning MIA 12/07/2001 MIA @ SEA W 42 21 7 9 77.8 0 0 - 7 11 63.6 3 9 12 4 1 5 2 4 10
+p636
+aVLaPhonso Ellis MIA 12/07/2001 MIA @ SEA W 35 8 4 10 40.0 0 2 0.0 0 2 0.0 2 3 5 0 0 3 2 6 -3
+p637
+aVAnthony Carter MIA 12/07/2001 MIA @ SEA W 35 7 3 9 33.3 0 2 0.0 1 2 50.0 0 2 2 2 2 0 2 4 6
+p638
+aVBrian Grant MIA 12/07/2001 MIA @ SEA W 30 15 5 9 55.6 0 1 0.0 5 7 71.4 3 7 10 1 0 0 1 2 6
+p639
+aVJim Jackson MIA 12/07/2001 MIA @ SEA W 36 8 4 10 40.0 0 0 - 0 0 - 0 4 4 4 2 0 4 4 1
+p640
+aVEddie Jones MIA 12/07/2001 MIA @ SEA W 45 17 4 14 28.6 2 7 28.6 7 8 87.5 0 9 9 4 0 1 1 2 -6
+p641
+aVEddie House MIA 12/04/2001 MIA @ LAC L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 3 0 0 1 0 0
+p642
+aVJim Jackson MIA 12/04/2001 MIA @ LAC L 41 14 6 14 42.9 2 2 100.0 0 0 - 0 2 2 2 1 0 2 1 -10
+p643
+aVAnthony Carter MIA 12/04/2001 MIA @ LAC L 22 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 3 2 0 0 2 1
+p644
+aVSam Mack MIA 12/04/2001 MIA @ LAC L 19 7 2 5 40.0 1 3 33.3 2 2 100.0 1 3 4 1 2 0 1 2 3
+p645
+aVAlonzo Mourning MIA 12/04/2001 MIA @ LAC L 30 21 7 14 50.0 0 0 - 7 11 63.6 3 4 7 0 0 2 0 3 5
+p646
+aVChris Gatling MIA 12/04/2001 MIA @ LAC L 28 13 3 11 27.3 0 1 0.0 7 10 70.0 2 3 5 1 1 0 2 4 4
+p647
+aVLaPhonso Ellis MIA 12/04/2001 MIA @ LAC L 33 8 3 12 25.0 1 2 50.0 1 4 25.0 5 2 7 2 0 0 1 6 -11
+p648
+aVBrian Grant MIA 12/04/2001 MIA @ LAC L 33 8 4 11 36.4 0 0 - 0 0 - 4 5 9 1 0 0 0 3 -14
+p649
+aVRod Strickland MIA 12/04/2001 MIA @ LAC L 25 7 2 6 33.3 0 0 - 3 4 75.0 0 0 0 5 0 0 1 2 2
+p650
+aVRod Strickland MIA 11/30/2001 MIA vs. WAS L 25 7 3 15 20.0 0 0 - 1 1 100.0 0 4 4 7 3 0 2 0 -1
+p651
+aVLaPhonso Ellis MIA 11/30/2001 MIA vs. WAS L 40 24 9 12 75.0 3 5 60.0 3 4 75.0 3 4 7 0 0 1 1 3 -10
+p652
+aVAlonzo Mourning MIA 11/30/2001 MIA vs. WAS L 33 4 2 7 28.6 0 0 - 0 0 - 2 6 8 1 0 1 1 4 -5
+p653
+aVEddie House MIA 11/30/2001 MIA vs. WAS L 27 5 2 8 25.0 1 2 50.0 0 0 - 1 6 7 2 0 2 0 1 -4
+p654
+aVChris Gatling MIA 11/30/2001 MIA vs. WAS L 19 9 4 9 44.4 0 1 0.0 1 1 100.0 2 2 4 0 0 0 2 1 -6
+p655
+aVEddie Jones MIA 11/30/2001 MIA vs. WAS L 45 13 5 13 38.5 1 3 33.3 2 2 100.0 0 2 2 1 2 3 1 2 -5
+p656
+aVAnthony Carter MIA 11/30/2001 MIA vs. WAS L 33 11 5 15 33.3 0 0 - 1 2 50.0 1 3 4 5 0 0 1 2 -7
+p657
+aVMalik Allen MIA 11/30/2001 MIA vs. WAS L 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p658
+aVVladimir Stepania MIA 11/30/2001 MIA vs. WAS L 10 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 1
+p659
+aVLaPhonso Ellis MIA 11/29/2001 MIA @ CHI L 37 4 2 3 66.7 0 0 - 0 0 - 1 4 5 2 1 1 2 3 -5
+p660
+aVSean Marks MIA 11/29/2001 MIA @ CHI L 20 0 0 4 0.0 0 0 - 0 0 - 0 4 4 1 0 1 1 2 -3
+p661
+aVAnthony Carter MIA 11/29/2001 MIA @ CHI L 27 10 4 10 40.0 0 0 - 2 2 100.0 1 6 7 3 1 0 3 3 -1
+p662
+aVEddie House MIA 11/29/2001 MIA @ CHI L 9 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -6
+p663
+aVVladimir Stepania MIA 11/29/2001 MIA @ CHI L 29 8 3 8 37.5 0 0 - 2 2 100.0 3 7 10 1 0 2 0 5 -4
+p664
+aVAlonzo Mourning MIA 11/29/2001 MIA @ CHI L 18 13 5 7 71.4 0 0 - 3 4 75.0 4 3 7 0 0 1 4 6 3
+p665
+aVChris Gatling MIA 11/29/2001 MIA @ CHI L 26 9 3 8 37.5 0 0 - 3 4 75.0 1 4 5 0 0 1 3 5 -4
+p666
+aVRod Strickland MIA 11/29/2001 MIA @ CHI L 28 13 6 12 50.0 0 1 0.0 1 1 100.0 0 2 2 5 0 0 3 3 -6
+p667
+aVEddie Jones MIA 11/29/2001 MIA @ CHI L 45 15 6 15 40.0 1 4 25.0 2 3 66.7 1 2 3 5 1 0 3 3 -4
+p668
+aVEddie House MIA 11/27/2001 MIA vs. BOS L 28 9 3 12 25.0 1 5 20.0 2 2 100.0 1 2 3 0 0 0 0 0 -1
+p669
+aVRod Strickland MIA 11/27/2001 MIA vs. BOS L 31 4 1 7 14.3 0 2 0.0 2 3 66.7 2 4 6 7 0 0 3 2 -1
+p670
+aVLaPhonso Ellis MIA 11/27/2001 MIA vs. BOS L 37 11 4 6 66.7 2 2 100.0 1 2 50.0 1 4 5 1 2 2 3 6 7
+p671
+aVSean Marks MIA 11/27/2001 MIA vs. BOS L 29 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 2 1 2 2 -3
+p672
+aVAnthony Carter MIA 11/27/2001 MIA vs. BOS L 20 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 4 2 1 4 2 -4
+p673
+aVEddie Jones MIA 11/27/2001 MIA vs. BOS L 40 27 8 19 42.1 2 8 25.0 9 10 90.0 0 5 5 4 0 1 0 4 6
+p674
+aVAlonzo Mourning MIA 11/27/2001 MIA vs. BOS L 35 8 3 9 33.3 0 0 - 2 4 50.0 1 10 11 1 0 4 3 2 -4
+p675
+aVTang Hamilton MIA 11/27/2001 MIA vs. BOS L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p676
+aVChris Gatling MIA 11/27/2001 MIA vs. BOS L 18 13 4 7 57.1 1 1 100.0 4 6 66.7 4 0 4 0 0 0 0 1 -5
+p677
+aVChris Gatling MIA 11/24/2001 MIA @ CLE L 24 17 6 7 85.7 0 0 - 5 9 55.6 1 0 1 1 1 1 1 2 7
+p678
+aVAnthony Carter MIA 11/24/2001 MIA @ CLE L 40 2 1 8 12.5 0 0 - 0 2 0.0 1 1 2 14 1 0 1 6 -4
+p679
+aVLaPhonso Ellis MIA 11/24/2001 MIA @ CLE L 32 10 5 9 55.6 0 1 0.0 0 0 - 3 4 7 1 1 0 1 3 -12
+p680
+aVTang Hamilton MIA 11/24/2001 MIA @ CLE L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p681
+aVSean Marks MIA 11/24/2001 MIA @ CLE L 13 3 0 3 0.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 3 1
+p682
+aVEddie Jones MIA 11/24/2001 MIA @ CLE L 48 27 7 15 46.7 5 8 62.5 8 10 80.0 1 12 13 5 0 4 1 3 -4
+p683
+aVEddie House MIA 11/24/2001 MIA @ CLE L 44 17 7 14 50.0 3 5 60.0 0 0 - 0 1 1 2 1 0 2 1 -3
+p684
+aVRod Strickland MIA 11/24/2001 MIA @ CLE L 22 6 2 10 20.0 0 0 - 2 2 100.0 1 3 4 4 3 0 2 2 -1
+p685
+aVAlonzo Mourning MIA 11/24/2001 MIA @ CLE L 35 14 6 10 60.0 0 0 - 2 3 66.7 3 4 7 0 1 1 7 3 -8
+p686
+aVChris Gatling MIA 11/23/2001 MIA vs. DAL L 22 8 4 10 40.0 0 0 - 0 1 0.0 3 4 7 1 0 1 1 2 -2
+p687
+aVSean Marks MIA 11/23/2001 MIA vs. DAL L 14 7 3 4 75.0 0 0 - 1 4 25.0 1 0 1 1 0 0 0 3 -11
+p688
+aVAnthony Carter MIA 11/23/2001 MIA vs. DAL L 28 2 1 4 25.0 0 0 - 0 0 - 1 1 2 12 1 0 3 2 -9
+p689
+aVEddie House MIA 11/23/2001 MIA vs. DAL L 18 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 0 1 0 2 3 -7
+p690
+aVSam Mack MIA 11/23/2001 MIA vs. DAL L 25 9 3 12 25.0 2 8 25.0 1 2 50.0 1 1 2 0 0 1 1 4 -8
+p691
+aVLaPhonso Ellis MIA 11/23/2001 MIA vs. DAL L 33 7 3 5 60.0 1 1 100.0 0 0 - 4 2 6 2 0 1 1 2 -6
+p692
+aVEddie Jones MIA 11/23/2001 MIA vs. DAL L 41 22 5 13 38.5 4 5 80.0 8 8 100.0 1 4 5 4 2 0 1 1 -8
+p693
+aVVladimir Stepania MIA 11/23/2001 MIA vs. DAL L 14 6 3 6 50.0 0 0 - 0 2 0.0 1 4 5 0 1 1 2 3 -6
+p694
+aVRod Strickland MIA 11/23/2001 MIA vs. DAL L 24 14 5 11 45.5 0 0 - 4 7 57.1 0 2 2 5 1 0 0 2 2
+p695
+aVAlonzo Mourning MIA 11/23/2001 MIA vs. DAL L 21 12 5 6 83.3 0 0 - 2 3 66.7 0 5 5 0 0 1 1 1 5
+p696
+aVSam Mack MIA 11/20/2001 MIA vs. MIN L 6 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p697
+aVLaPhonso Ellis MIA 11/20/2001 MIA vs. MIN L 37 17 7 11 63.6 1 2 50.0 2 3 66.7 2 1 3 1 1 0 0 2 -2
+p698
+aVSean Marks MIA 11/20/2001 MIA vs. MIN L 36 11 5 12 41.7 0 0 - 1 4 25.0 5 6 11 1 0 0 1 3 -14
+p699
+aVEddie Jones MIA 11/20/2001 MIA vs. MIN L 32 12 5 11 45.5 2 3 66.7 0 0 - 1 3 4 2 1 1 5 4 -4
+p700
+aVChris Gatling MIA 11/20/2001 MIA vs. MIN L 20 0 0 3 0.0 0 0 - 0 0 - 1 6 7 0 0 0 2 3 10
+p701
+aVAnthony Carter MIA 11/20/2001 MIA vs. MIN L 26 0 0 5 0.0 0 0 - 0 0 - 0 0 0 6 0 0 1 1 -10
+p702
+aVEddie House MIA 11/20/2001 MIA vs. MIN L 28 17 7 13 53.8 1 2 50.0 2 3 66.7 0 1 1 2 0 0 2 1 5
+p703
+aVVladimir Stepania MIA 11/20/2001 MIA vs. MIN L 31 11 5 11 45.5 0 0 - 1 4 25.0 4 8 12 0 0 1 2 2 -11
+p704
+aVTang Hamilton MIA 11/20/2001 MIA vs. MIN L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -1
+p705
+aVRod Strickland MIA 11/20/2001 MIA vs. MIN L 21 3 0 3 0.0 0 0 - 3 4 75.0 1 2 3 4 0 0 2 2 -5
+p706
+aVAnthony Carter MIA 11/16/2001 MIA vs. CHH L 36 10 5 10 50.0 0 1 0.0 0 1 0.0 0 4 4 6 1 0 2 1 -6
+p707
+aVEddie House MIA 11/16/2001 MIA vs. CHH L 41 11 5 15 33.3 0 3 0.0 1 2 50.0 2 2 4 3 1 0 1 4 -15
+p708
+aVChris Gatling MIA 11/16/2001 MIA vs. CHH L 30 16 6 13 46.2 0 1 0.0 4 4 100.0 1 4 5 0 1 0 2 3 -14
+p709
+aVVladimir Stepania MIA 11/16/2001 MIA vs. CHH L 45 19 7 14 50.0 0 1 0.0 5 12 41.7 3 9 12 1 0 7 2 1 -10
+p710
+aVEddie Jones MIA 11/16/2001 MIA vs. CHH L 42 22 8 15 53.3 3 7 42.9 3 3 100.0 1 4 5 2 2 1 0 4 2
+p711
+aVTang Hamilton MIA 11/16/2001 MIA vs. CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p712
+aVErnest Brown MIA 11/16/2001 MIA vs. CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p713
+aVLaPhonso Ellis MIA 11/16/2001 MIA vs. CHH L 33 8 3 8 37.5 0 0 - 2 2 100.0 1 6 7 1 0 1 2 5 -7
+p714
+aVSam Mack MIA 11/16/2001 MIA vs. CHH L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 1
+p715
+aVVladimir Stepania MIA 11/15/2001 MIA @ NYK L 22 5 2 7 28.6 0 0 - 1 3 33.3 2 4 6 0 0 0 3 2 -1
+p716
+aVEddie House MIA 11/15/2001 MIA @ NYK L 30 11 4 9 44.4 1 2 50.0 2 2 100.0 0 0 0 4 3 0 2 2 -6
+p717
+aVLaPhonso Ellis MIA 11/15/2001 MIA @ NYK L 42 13 6 17 35.3 1 3 33.3 0 0 - 3 1 4 2 0 0 0 4 0
+p718
+aVAnthony Carter MIA 11/15/2001 MIA @ NYK L 37 8 4 10 40.0 0 0 - 0 0 - 1 4 5 8 1 1 4 0 -11
+p719
+aVSean Marks MIA 11/15/2001 MIA @ NYK L 25 8 4 6 66.7 0 0 - 0 0 - 0 5 5 0 0 1 3 4 -6
+p720
+aVEddie Jones MIA 11/15/2001 MIA @ NYK L 42 22 9 21 42.9 1 5 20.0 3 3 100.0 2 5 7 3 0 0 1 3 -8
+p721
+aVSam Mack MIA 11/15/2001 MIA @ NYK L 18 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 1 1 0 0 0 1
+p722
+aVChris Gatling MIA 11/15/2001 MIA @ NYK L 17 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 1 0 1 4 -3
+p723
+aVErnest Brown MIA 11/15/2001 MIA @ NYK L 8 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 1 1 -11
+p724
+aVBrian Grant MIA 11/13/2001 MIA vs. PHI L 19 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -18
+p725
+aVEddie House MIA 11/13/2001 MIA vs. PHI L 27 14 6 12 50.0 0 3 0.0 2 2 100.0 0 1 1 2 0 0 4 3 8
+p726
+aVLaPhonso Ellis MIA 11/13/2001 MIA vs. PHI L 27 12 5 8 62.5 0 0 - 2 3 66.7 0 5 5 1 0 2 1 4 -3
+p727
+aVVladimir Stepania MIA 11/13/2001 MIA vs. PHI L 5 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -4
+p728
+aVChris Gatling MIA 11/13/2001 MIA vs. PHI L 14 6 2 6 33.3 0 1 0.0 2 2 100.0 3 2 5 0 2 0 1 2 6
+p729
+aVTang Hamilton MIA 11/13/2001 MIA vs. PHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p730
+aVSean Marks MIA 11/13/2001 MIA vs. PHI L 16 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 1 0 1 1 7
+p731
+aVEddie Jones MIA 11/13/2001 MIA vs. PHI L 43 20 5 13 38.5 2 4 50.0 8 11 72.7 1 9 10 5 2 2 6 3 -5
+p732
+aVAnthony Carter MIA 11/13/2001 MIA vs. PHI L 39 6 3 8 37.5 0 0 - 0 1 0.0 0 0 0 9 1 0 2 3 -11
+p733
+aVAlonzo Mourning MIA 11/13/2001 MIA vs. PHI L 29 10 5 9 55.6 0 0 - 0 0 - 3 5 8 1 0 0 2 3 -5
+p734
+aVSam Mack MIA 11/13/2001 MIA vs. PHI L 14 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 0 0 0 0 1 4
+p735
+aVChris Gatling MIA 11/10/2001 MIA vs. SAC L 13 12 6 9 66.7 0 0 - 0 0 - 3 3 6 0 0 0 0 1 8
+p736
+aVEddie House MIA 11/10/2001 MIA vs. SAC L 11 4 2 4 50.0 0 1 0.0 0 1 0.0 0 0 0 0 1 0 0 0 -8
+p737
+aVLaPhonso Ellis MIA 11/10/2001 MIA vs. SAC L 22 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -11
+p738
+aVBrian Grant MIA 11/10/2001 MIA vs. SAC L 30 10 4 9 44.4 0 0 - 2 2 100.0 0 2 2 1 0 1 3 3 -22
+p739
+aVSam Mack MIA 11/10/2001 MIA vs. SAC L 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p740
+aVAnthony Carter MIA 11/10/2001 MIA vs. SAC L 34 4 2 5 40.0 0 0 - 0 0 - 0 4 4 8 2 0 1 3 -19
+p741
+aVAlonzo Mourning MIA 11/10/2001 MIA vs. SAC L 31 11 5 20 25.0 0 0 - 1 2 50.0 3 5 8 1 0 4 3 4 -14
+p742
+aVVladimir Stepania MIA 11/10/2001 MIA vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p743
+aVRod Strickland MIA 11/10/2001 MIA vs. SAC L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 1 2 -3
+p744
+aVTang Hamilton MIA 11/10/2001 MIA vs. SAC L 26 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 1 0 1 5 -4
+p745
+aVSean Marks MIA 11/10/2001 MIA vs. SAC L 18 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 0 0 1 3 2 -4
+p746
+aVEddie Jones MIA 11/10/2001 MIA vs. SAC L 37 12 5 10 50.0 0 2 0.0 2 6 33.3 0 5 5 1 2 1 1 4 -2
+p747
+aVLaPhonso Ellis MIA 11/08/2001 MIA @ MIL L 33 5 2 12 16.7 0 2 0.0 1 2 50.0 3 6 9 1 0 0 1 3 -9
+p748
+aVSean Marks MIA 11/08/2001 MIA @ MIL L 22 6 3 5 60.0 0 0 - 0 0 - 1 6 7 0 0 0 1 3 -12
+p749
+aVVladimir Stepania MIA 11/08/2001 MIA @ MIL L 23 6 3 9 33.3 0 0 - 0 0 - 2 6 8 2 0 2 0 1 8
+p750
+aVRod Strickland MIA 11/08/2001 MIA @ MIL L 27 13 5 11 45.5 0 1 0.0 3 4 75.0 0 4 4 5 3 0 2 5 2
+p751
+aVEddie Jones MIA 11/08/2001 MIA @ MIL L 42 29 12 25 48.0 3 9 33.3 2 3 66.7 1 3 4 3 2 5 1 3 -4
+p752
+aVSam Mack MIA 11/08/2001 MIA @ MIL L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 4
+p753
+aVBrian Grant MIA 11/08/2001 MIA @ MIL L 31 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 2 0 1 3 4 -2
+p754
+aVAnthony Carter MIA 11/08/2001 MIA @ MIL L 36 11 4 9 44.4 0 0 - 3 4 75.0 0 3 3 11 3 0 4 3 -10
+p755
+aVTang Hamilton MIA 11/08/2001 MIA @ MIL L 17 6 3 4 75.0 0 0 - 0 0 - 1 1 2 2 2 0 0 1 3
+p756
+aVTang Hamilton MIA 11/06/2001 MIA vs. SEA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p757
+aVEddie House MIA 11/06/2001 MIA vs. SEA W 14 2 1 5 20.0 0 0 - 0 0 - 1 1 2 5 1 0 3 2 -1
+p758
+aVVladimir Stepania MIA 11/06/2001 MIA vs. SEA W 15 10 5 7 71.4 0 0 - 0 0 - 2 2 4 0 1 0 0 1 -9
+p759
+aVSam Mack MIA 11/06/2001 MIA vs. SEA W 19 11 4 10 40.0 3 7 42.9 0 0 - 0 1 1 0 0 0 2 0 1
+p760
+aVSean Marks MIA 11/06/2001 MIA vs. SEA W 22 15 7 9 77.8 0 0 - 1 3 33.3 0 5 5 2 0 1 3 3 13
+p761
+aVKendall Gill MIA 11/06/2001 MIA vs. SEA W 35 4 2 12 16.7 0 0 - 0 0 - 0 8 8 4 1 0 1 3 -4
+p762
+aVLaPhonso Ellis MIA 11/06/2001 MIA vs. SEA W 37 6 3 9 33.3 0 1 0.0 0 2 0.0 0 3 3 2 0 0 4 4 -11
+p763
+aVAnthony Carter MIA 11/06/2001 MIA vs. SEA W 39 4 2 4 50.0 0 0 - 0 2 0.0 0 5 5 11 1 0 2 3 3
+p764
+aVBrian Grant MIA 11/06/2001 MIA vs. SEA W 32 10 4 6 66.7 0 0 - 2 3 66.7 2 4 6 1 0 0 3 2 11
+p765
+aVEddie Jones MIA 11/06/2001 MIA vs. SEA W 47 25 8 18 44.4 3 5 60.0 6 6 100.0 0 9 9 3 2 2 3 2 9
+p766
+aVKendall Gill MIA 11/03/2001 MIA @ ATL L 18 5 2 5 40.0 0 1 0.0 1 2 50.0 1 2 3 0 1 0 0 2 -9
+p767
+aVEddie Jones MIA 11/03/2001 MIA @ ATL L 39 17 7 14 50.0 2 5 40.0 1 2 50.0 0 3 3 3 1 1 2 2 -8
+p768
+aVBrian Grant MIA 11/03/2001 MIA @ ATL L 36 4 2 5 40.0 0 0 - 0 0 - 2 6 8 1 0 2 5 3 -3
+p769
+aVTang Hamilton MIA 11/03/2001 MIA @ ATL L 27 8 4 8 50.0 0 0 - 0 1 0.0 3 3 6 1 1 0 0 3 4
+p770
+aVLaPhonso Ellis MIA 11/03/2001 MIA @ ATL L 35 11 4 12 33.3 0 1 0.0 3 4 75.0 2 1 3 3 0 0 1 3 -6
+p771
+aVAnthony Carter MIA 11/03/2001 MIA @ ATL L 31 7 3 8 37.5 0 1 0.0 1 3 33.3 1 3 4 7 2 0 4 4 0
+p772
+aVEddie House MIA 11/03/2001 MIA @ ATL L 16 8 3 10 30.0 2 2 100.0 0 0 - 0 0 0 0 0 0 2 6 -7
+p773
+aVAlonzo Mourning MIA 11/03/2001 MIA @ ATL L 35 23 9 19 47.4 0 0 - 5 7 71.4 3 9 12 1 0 4 1 4 -10
+p774
+aVSam Mack MIA 11/03/2001 MIA @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p775
+aVEddie Jones MIA 11/02/2001 MIA vs. CLE L 42 10 3 15 20.0 1 6 16.7 3 3 100.0 0 2 2 4 1 2 2 3 -8
+p776
+aVSam Mack MIA 11/02/2001 MIA vs. CLE L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 5 2
+p777
+aVAlonzo Mourning MIA 11/02/2001 MIA vs. CLE L 32 17 7 15 46.7 0 0 - 3 3 100.0 3 6 9 1 0 2 2 1 -3
+p778
+aVBrian Grant MIA 11/02/2001 MIA vs. CLE L 34 16 6 12 50.0 0 0 - 4 5 80.0 4 3 7 4 1 0 1 3 -6
+p779
+aVSean Marks MIA 11/02/2001 MIA vs. CLE L 7 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -1
+p780
+aVAnthony Carter MIA 11/02/2001 MIA vs. CLE L 26 12 6 11 54.5 0 0 - 0 0 - 1 2 3 3 2 1 0 6 -9
+p781
+aVEddie House MIA 11/02/2001 MIA vs. CLE L 29 11 3 9 33.3 3 4 75.0 2 2 100.0 0 4 4 4 3 1 3 1 9
+p782
+aVKendall Gill MIA 11/02/2001 MIA vs. CLE L 26 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 1 1 0 3 -14
+p783
+aVLaPhonso Ellis MIA 11/02/2001 MIA vs. CLE L 27 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 0 0 2 5 1 -5
+p784
+aVAlonzo Mourning MIA 10/31/2001 MIA vs. TOR W 32 25 7 15 46.7 0 0 - 11 16 68.8 5 5 10 1 0 4 5 4 7
+p785
+aVSam Mack MIA 10/31/2001 MIA vs. TOR W 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 0
+p786
+aVKendall Gill MIA 10/31/2001 MIA vs. TOR W 25 5 2 6 33.3 0 0 - 1 2 50.0 2 4 6 2 0 0 1 5 8
+p787
+aVLaPhonso Ellis MIA 10/31/2001 MIA vs. TOR W 32 8 3 5 60.0 1 1 100.0 1 2 50.0 3 4 7 2 2 0 2 5 0
+p788
+aVBrian Grant MIA 10/31/2001 MIA vs. TOR W 28 20 8 15 53.3 0 0 - 4 4 100.0 1 6 7 0 1 0 2 5 -1
+p789
+aVSean Marks MIA 10/31/2001 MIA vs. TOR W 17 5 1 1 100.0 0 0 - 3 4 75.0 2 6 8 1 1 4 3 5 8
+p790
+aVRod Strickland MIA 10/31/2001 MIA vs. TOR W 16 3 1 5 20.0 0 0 - 1 3 33.3 0 1 1 5 0 0 0 1 7
+p791
+aVEddie Jones MIA 10/31/2001 MIA vs. TOR W 32 20 6 15 40.0 2 2 100.0 6 7 85.7 1 1 2 0 0 1 1 6 -3
+p792
+aVAnthony Carter MIA 10/31/2001 MIA vs. TOR W 32 11 4 6 66.7 0 0 - 3 4 75.0 1 3 4 7 0 0 2 2 -2
+p793
+aVEddie House MIA 10/31/2001 MIA vs. TOR W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p794
+a.

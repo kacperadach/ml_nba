@@ -1,0 +1,250 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAntoine Wright NJN 05/18/2007 NJN vs. CLE L 16 7 2 4 50.0 1 1 100.0 2 2 100.0 1 0 1 0 0 0 0 1 -9
+p2
+aVHassan Adams NJN 05/18/2007 NJN vs. CLE L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p3
+aVVince Carter NJN 05/18/2007 NJN vs. CLE L 41 11 4 11 36.4 0 2 0.0 3 5 60.0 2 3 5 4 1 1 5 3 -11
+p4
+aVMikki Moore NJN 05/18/2007 NJN vs. CLE L 38 14 4 8 50.0 0 0 - 6 7 85.7 1 6 7 1 2 0 2 3 10
+p5
+aVMarcus Williams NJN 05/18/2007 NJN vs. CLE L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p6
+aVBostjan Nachbar NJN 05/18/2007 NJN vs. CLE L 16 3 1 2 50.0 1 2 50.0 0 0 - 1 4 5 0 1 0 2 1 -18
+p7
+aVRichard Jefferson NJN 05/18/2007 NJN vs. CLE L 45 16 7 16 43.8 0 2 0.0 2 2 100.0 0 8 8 2 0 1 3 2 -19
+p8
+aVEddie House NJN 05/18/2007 NJN vs. CLE L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -11
+p9
+aVJosh Boone NJN 05/18/2007 NJN vs. CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -12
+p10
+aVJason Kidd NJN 05/18/2007 NJN vs. CLE L 44 19 7 20 35.0 1 7 14.3 4 7 57.1 2 10 12 8 2 0 0 1 -2
+p11
+aVJason Collins NJN 05/18/2007 NJN vs. CLE L 29 2 1 3 33.3 0 0 - 0 2 0.0 0 2 2 1 0 0 2 3 -1
+p12
+aVBostjan Nachbar NJN 05/16/2007 NJN @ CLE W 23 13 4 9 44.4 3 7 42.9 2 2 100.0 0 3 3 0 1 0 1 2 6
+p13
+aVRichard Jefferson NJN 05/16/2007 NJN @ CLE W 44 15 6 11 54.5 1 1 100.0 2 2 100.0 0 8 8 2 1 1 1 1 11
+p14
+aVJason Collins NJN 05/16/2007 NJN @ CLE W 24 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 1 0 0 2 0
+p15
+aVVince Carter NJN 05/16/2007 NJN @ CLE W 43 12 5 11 45.5 0 1 0.0 2 4 50.0 2 4 6 10 0 0 3 4 15
+p16
+aVEddie House NJN 05/16/2007 NJN @ CLE W 8 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 0 1 0 0 0 2
+p17
+aVJason Kidd NJN 05/16/2007 NJN @ CLE W 42 20 8 14 57.1 3 7 42.9 1 6 16.7 1 8 9 6 4 2 8 2 20
+p18
+aVMarcus Williams NJN 05/16/2007 NJN @ CLE W 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -9
+p19
+aVMikki Moore NJN 05/16/2007 NJN @ CLE W 33 14 6 12 50.0 0 0 - 2 2 100.0 1 5 6 2 1 0 2 5 10
+p20
+aVAntoine Wright NJN 05/16/2007 NJN @ CLE W 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p21
+aVJosh Boone NJN 05/16/2007 NJN @ CLE W 8 2 1 2 50.0 0 0 - 0 4 0.0 0 1 1 0 0 0 0 2 0
+p22
+aVBostjan Nachbar NJN 05/14/2007 NJN vs. CLE L 26 6 1 7 14.3 0 2 0.0 4 4 100.0 1 4 5 2 1 0 2 4 6
+p23
+aVJason Kidd NJN 05/14/2007 NJN vs. CLE L 45 5 2 13 15.4 1 7 14.3 0 0 - 3 14 17 7 0 0 1 5 -4
+p24
+aVJosh Boone NJN 05/14/2007 NJN vs. CLE L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 4
+p25
+aVAntoine Wright NJN 05/14/2007 NJN vs. CLE L 11 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 2
+p26
+aVJason Collins NJN 05/14/2007 NJN vs. CLE L 22 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -15
+p27
+aVMarcus Williams NJN 05/14/2007 NJN vs. CLE L 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p28
+aVMikki Moore NJN 05/14/2007 NJN vs. CLE L 39 25 11 14 78.6 0 0 - 3 3 100.0 2 2 4 0 0 1 3 5 3
+p29
+aVRichard Jefferson NJN 05/14/2007 NJN vs. CLE L 45 15 3 12 25.0 1 4 25.0 8 9 88.9 0 3 3 3 1 0 1 2 -1
+p30
+aVVince Carter NJN 05/14/2007 NJN vs. CLE L 40 25 6 23 26.1 3 6 50.0 10 14 71.4 2 7 9 9 2 0 4 4 -6
+p31
+aVEddie House NJN 05/14/2007 NJN vs. CLE L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p32
+aVAntoine Wright NJN 05/12/2007 NJN vs. CLE W 17 7 2 2 100.0 1 1 100.0 2 2 100.0 1 3 4 0 1 1 1 1 -6
+p33
+aVVince Carter NJN 05/12/2007 NJN vs. CLE W 39 23 8 19 42.1 0 4 0.0 7 10 70.0 1 5 6 4 0 0 1 3 20
+p34
+aVMarcus Williams NJN 05/12/2007 NJN vs. CLE W 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p35
+aVRichard Jefferson NJN 05/12/2007 NJN vs. CLE W 42 23 8 17 47.1 1 4 25.0 6 7 85.7 1 7 8 3 2 0 2 3 8
+p36
+aVClifford Robinson NJN 05/12/2007 NJN vs. CLE W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p37
+aVJosh Boone NJN 05/12/2007 NJN vs. CLE W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p38
+aVJason Kidd NJN 05/12/2007 NJN vs. CLE W 40 23 8 12 66.7 5 6 83.3 2 2 100.0 2 11 13 14 1 0 3 3 13
+p39
+aVBostjan Nachbar NJN 05/12/2007 NJN vs. CLE W 20 3 1 7 14.3 0 2 0.0 1 2 50.0 0 2 2 1 0 0 2 0 -13
+p40
+aVHassan Adams NJN 05/12/2007 NJN vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p41
+aVEddie House NJN 05/12/2007 NJN vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p42
+aVMikki Moore NJN 05/12/2007 NJN vs. CLE W 34 11 5 9 55.6 0 0 - 1 2 50.0 4 1 5 4 2 0 3 3 27
+p43
+aVJason Collins NJN 05/12/2007 NJN vs. CLE W 29 1 0 0 - 0 0 - 1 2 50.0 2 3 5 0 0 1 4 6 24
+p44
+aVMarcus Williams NJN 05/08/2007 NJN @ CLE L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -4
+p45
+aVAntoine Wright NJN 05/08/2007 NJN @ CLE L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -5
+p46
+aVJosh Boone NJN 05/08/2007 NJN @ CLE L 12 3 1 1 100.0 0 0 - 1 6 16.7 0 1 1 1 1 1 0 3 -5
+p47
+aVBostjan Nachbar NJN 05/08/2007 NJN @ CLE L 16 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 2 0 0 0 3 -11
+p48
+aVVince Carter NJN 05/08/2007 NJN @ CLE L 44 26 10 26 38.5 2 3 66.7 4 4 100.0 2 4 6 7 2 0 3 3 -12
+p49
+aVRichard Jefferson NJN 05/08/2007 NJN @ CLE L 43 22 7 11 63.6 1 3 33.3 7 8 87.5 0 8 8 2 0 0 2 3 -2
+p50
+aVMikki Moore NJN 05/08/2007 NJN @ CLE L 39 15 6 8 75.0 0 0 - 3 5 60.0 1 2 3 0 0 0 2 5 -8
+p51
+aVJason Kidd NJN 05/08/2007 NJN @ CLE L 41 17 6 9 66.7 4 6 66.7 1 2 50.0 0 10 10 8 0 0 8 2 -4
+p52
+aVJason Collins NJN 05/08/2007 NJN @ CLE L 30 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 5 2
+p53
+aVClifford Robinson NJN 05/08/2007 NJN @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p54
+aVJosh Boone NJN 05/06/2007 NJN @ CLE L 14 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -1
+p55
+aVAntoine Wright NJN 05/06/2007 NJN @ CLE L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p56
+aVJason Kidd NJN 05/06/2007 NJN @ CLE L 41 7 2 11 18.2 2 7 28.6 1 2 50.0 1 9 10 9 3 1 2 3 -7
+p57
+aVVince Carter NJN 05/06/2007 NJN @ CLE L 45 21 7 23 30.4 1 6 16.7 6 6 100.0 2 11 13 6 1 1 3 1 1
+p58
+aVJason Collins NJN 05/06/2007 NJN @ CLE L 28 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 1 0 3 2
+p59
+aVMikki Moore NJN 05/06/2007 NJN @ CLE L 37 10 4 9 44.4 0 0 - 2 2 100.0 2 1 3 1 1 1 1 3 -9
+p60
+aVRichard Jefferson NJN 05/06/2007 NJN @ CLE L 34 16 7 12 58.3 2 4 50.0 0 0 - 0 2 2 0 0 0 5 3 -8
+p61
+aVClifford Robinson NJN 05/06/2007 NJN @ CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p62
+aVMarcus Williams NJN 05/06/2007 NJN @ CLE L 7 2 0 3 0.0 0 2 0.0 2 2 100.0 1 2 3 2 0 0 1 1 3
+p63
+aVBostjan Nachbar NJN 05/06/2007 NJN @ CLE L 21 12 5 9 55.6 0 1 0.0 2 2 100.0 0 0 0 2 1 1 2 2 1
+p64
+aVJosh Boone NJN 05/04/2007 NJN vs. TOR W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -5
+p65
+aVJason Collins NJN 05/04/2007 NJN vs. TOR W 36 3 1 1 100.0 0 0 - 1 3 33.3 0 6 6 0 2 0 3 3 0
+p66
+aVBostjan Nachbar NJN 05/04/2007 NJN vs. TOR W 24 15 5 8 62.5 3 5 60.0 2 2 100.0 0 3 3 2 1 0 0 3 11
+p67
+aVAntoine Wright NJN 05/04/2007 NJN vs. TOR W 14 5 2 4 50.0 1 1 100.0 0 0 - 0 4 4 0 0 0 0 2 -5
+p68
+aVMikki Moore NJN 05/04/2007 NJN vs. TOR W 28 10 5 6 83.3 0 0 - 0 0 - 2 6 8 2 0 1 2 5 5
+p69
+aVJason Kidd NJN 05/04/2007 NJN vs. TOR W 42 18 6 11 54.5 3 6 50.0 3 4 75.0 2 6 8 15 2 0 4 2 5
+p70
+aVVince Carter NJN 05/04/2007 NJN vs. TOR W 42 21 6 19 31.6 2 3 66.7 7 8 87.5 1 4 5 2 0 0 4 1 -6
+p71
+aVRichard Jefferson NJN 05/04/2007 NJN vs. TOR W 44 24 6 12 50.0 1 2 50.0 11 12 91.7 1 4 5 3 1 1 5 2 3
+p72
+aVMarcus Williams NJN 05/04/2007 NJN vs. TOR W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p73
+aVRichard Jefferson NJN 05/01/2007 NJN @ TOR L 41 23 9 14 64.3 2 4 50.0 3 3 100.0 0 4 4 4 1 1 1 3 -5
+p74
+aVHassan Adams NJN 05/01/2007 NJN @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p75
+aVMikki Moore NJN 05/01/2007 NJN @ TOR L 32 6 3 9 33.3 0 0 - 0 0 - 3 7 10 1 1 1 0 3 -10
+p76
+aVJason Collins NJN 05/01/2007 NJN @ TOR L 17 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 2 5 -4
+p77
+aVAntoine Wright NJN 05/01/2007 NJN @ TOR L 19 6 2 6 33.3 0 1 0.0 2 2 100.0 0 2 2 0 1 1 0 2 -1
+p78
+aVJosh Boone NJN 05/01/2007 NJN @ TOR L 9 8 1 1 100.0 0 0 - 6 7 85.7 0 1 1 0 0 0 0 2 11
+p79
+aVVince Carter NJN 05/01/2007 NJN @ TOR L 45 30 10 22 45.5 4 7 57.1 6 10 60.0 3 2 5 2 1 0 3 2 0
+p80
+aVJason Kidd NJN 05/01/2007 NJN @ TOR L 41 11 4 9 44.4 3 7 42.9 0 0 - 1 6 7 10 1 0 3 4 -5
+p81
+aVBostjan Nachbar NJN 05/01/2007 NJN @ TOR L 28 9 2 9 22.2 0 7 0.0 5 5 100.0 0 3 3 2 0 0 3 4 3
+p82
+aVMarcus Williams NJN 05/01/2007 NJN @ TOR L 7 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 0 3
+p83
+aVBernard Robinson NJN 04/29/2007 NJN vs. TOR W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 2 -8
+p84
+aVAntoine Wright NJN 04/29/2007 NJN vs. TOR W 27 6 2 6 33.3 0 1 0.0 2 2 100.0 1 5 6 1 1 1 0 3 -4
+p85
+aVVince Carter NJN 04/29/2007 NJN vs. TOR W 30 27 9 15 60.0 5 8 62.5 4 9 44.4 0 7 7 7 0 1 2 3 38
+p86
+aVJosh Boone NJN 04/29/2007 NJN vs. TOR W 17 3 0 3 0.0 0 0 - 3 4 75.0 1 2 3 0 0 0 0 2 -11
+p87
+aVMarcus Williams NJN 04/29/2007 NJN vs. TOR W 19 5 2 8 25.0 0 3 0.0 1 1 100.0 1 0 1 2 1 0 6 1 -4
+p88
+aVRichard Jefferson NJN 04/29/2007 NJN vs. TOR W 31 23 8 15 53.3 1 5 20.0 6 6 100.0 0 3 3 2 1 0 1 1 22
+p89
+aVBostjan Nachbar NJN 04/29/2007 NJN vs. TOR W 20 11 4 8 50.0 3 4 75.0 0 0 - 0 3 3 1 0 0 1 5 1
+p90
+aVHassan Adams NJN 04/29/2007 NJN vs. TOR W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p91
+aVJason Kidd NJN 04/29/2007 NJN vs. TOR W 29 17 6 10 60.0 5 6 83.3 0 0 - 2 6 8 13 2 1 2 0 25
+p92
+aVMikki Moore NJN 04/29/2007 NJN vs. TOR W 32 6 3 7 42.9 0 0 - 0 0 - 1 6 7 1 0 1 2 5 26
+p93
+aVJason Collins NJN 04/29/2007 NJN vs. TOR W 24 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 3 0 2 1 28
+p94
+aVJosh Boone NJN 04/27/2007 NJN vs. TOR W 11 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 1 0 2
+p95
+aVBostjan Nachbar NJN 04/27/2007 NJN vs. TOR W 27 9 4 11 36.4 1 5 20.0 0 0 - 2 1 3 1 2 0 2 4 3
+p96
+aVVince Carter NJN 04/27/2007 NJN vs. TOR W 42 37 15 23 65.2 2 4 50.0 5 6 83.3 0 2 2 5 0 1 3 3 17
+p97
+aVRichard Jefferson NJN 04/27/2007 NJN vs. TOR W 39 18 5 11 45.5 0 4 0.0 8 8 100.0 1 5 6 3 0 0 1 1 7
+p98
+aVJason Collins NJN 04/27/2007 NJN vs. TOR W 28 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 1 0 5 1
+p99
+aVJason Kidd NJN 04/27/2007 NJN vs. TOR W 40 16 7 14 50.0 2 8 25.0 0 0 - 4 12 16 19 3 1 5 2 14
+p100
+aVMarcus Williams NJN 04/27/2007 NJN vs. TOR W 8 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 0 -1
+p101
+aVAntoine Wright NJN 04/27/2007 NJN vs. TOR W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 6
+p102
+aVClifford Robinson NJN 04/27/2007 NJN vs. TOR W 10 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 1 0 1 0 5
+p103
+aVMikki Moore NJN 04/27/2007 NJN vs. TOR W 26 7 3 6 50.0 0 0 - 1 1 100.0 0 1 1 1 1 0 1 3 11
+p104
+aVRichard Jefferson NJN 04/24/2007 NJN @ TOR L 42 13 4 16 25.0 1 3 33.3 4 4 100.0 0 7 7 3 0 0 3 2 1
+p105
+aVVince Carter NJN 04/24/2007 NJN @ TOR L 43 19 8 24 33.3 1 7 14.3 2 4 50.0 2 9 11 5 3 0 4 4 -8
+p106
+aVAntoine Wright NJN 04/24/2007 NJN @ TOR L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -14
+p107
+aVJason Kidd NJN 04/24/2007 NJN @ TOR L 40 14 5 14 35.7 4 6 66.7 0 0 - 2 9 11 7 2 0 2 4 8
+p108
+aVMarcus Williams NJN 04/24/2007 NJN @ TOR L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -7
+p109
+aVMikki Moore NJN 04/24/2007 NJN @ TOR L 33 8 3 4 75.0 0 0 - 2 3 66.7 3 3 6 1 0 1 1 3 7
+p110
+aVHassan Adams NJN 04/24/2007 NJN @ TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p111
+aVBostjan Nachbar NJN 04/24/2007 NJN @ TOR L 30 17 6 11 54.5 4 7 57.1 1 1 100.0 0 1 1 1 0 0 3 2 -7
+p112
+aVJason Collins NJN 04/24/2007 NJN @ TOR L 26 6 2 2 100.0 0 0 - 2 2 100.0 4 2 6 0 0 0 2 5 2
+p113
+aVJosh Boone NJN 04/24/2007 NJN @ TOR L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -12
+p114
+aVVince Carter NJN 04/21/2007 NJN @ TOR W 33 16 5 19 26.3 1 3 33.3 5 8 62.5 0 7 7 3 1 3 3 4 -11
+p115
+aVBostjan Nachbar NJN 04/21/2007 NJN @ TOR W 29 16 5 11 45.5 2 4 50.0 4 4 100.0 1 4 5 4 0 0 0 0 10
+p116
+aVAntoine Wright NJN 04/21/2007 NJN @ TOR W 15 6 3 6 50.0 0 1 0.0 0 0 - 1 2 3 0 1 1 1 0 12
+p117
+aVJason Collins NJN 04/21/2007 NJN @ TOR W 34 6 3 3 100.0 0 0 - 0 2 0.0 3 2 5 0 0 0 0 3 -12
+p118
+aVMikki Moore NJN 04/21/2007 NJN @ TOR W 28 9 3 8 37.5 0 0 - 3 4 75.0 3 4 7 0 2 1 1 4 15
+p119
+aVRichard Jefferson NJN 04/21/2007 NJN @ TOR W 40 28 11 21 52.4 2 4 50.0 4 5 80.0 1 4 5 0 2 1 2 1 4
+p120
+aVMarcus Williams NJN 04/21/2007 NJN @ TOR W 10 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 1 4
+p121
+aVJosh Boone NJN 04/21/2007 NJN @ TOR W 13 3 1 1 100.0 0 0 - 1 1 100.0 1 1 2 1 0 1 1 1 2
+p122
+aVJason Kidd NJN 04/21/2007 NJN @ TOR W 38 8 3 11 27.3 1 8 12.5 1 2 50.0 3 7 10 15 2 0 3 3 1
+p123
+aVHassan Adams NJN 04/21/2007 NJN @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p124
+a.

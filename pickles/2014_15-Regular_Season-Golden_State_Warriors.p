@@ -1,0 +1,1804 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJustin Holiday GSW 04/15/2015 GSW vs. DEN W 20 14 3 7 42.9 2 4 50.0 6 6 100.0 1 1 2 4 2 0 1 2 0
+p2
+aVMarreese Speights GSW 04/15/2015 GSW vs. DEN W 21 17 6 14 42.9 0 1 0.0 5 6 83.3 2 6 8 0 2 0 1 3 8
+p3
+aVFestus Ezeli GSW 04/15/2015 GSW vs. DEN W 15 9 3 5 60.0 0 0 - 3 6 50.0 2 1 3 0 0 1 1 1 -10
+p4
+aVKlay Thompson GSW 04/15/2015 GSW vs. DEN W 16 25 8 12 66.7 5 7 71.4 4 4 100.0 0 3 3 0 0 1 2 0 7
+p5
+aVBrandon Rush GSW 04/15/2015 GSW vs. DEN W 14 5 2 5 40.0 1 3 33.3 0 0 - 2 0 2 0 1 0 0 3 -5
+p6
+aVStephen Curry GSW 04/15/2015 GSW vs. DEN W 19 10 4 10 40.0 2 4 50.0 0 0 - 2 2 4 7 5 0 2 1 14
+p7
+aVAndre Iguodala GSW 04/15/2015 GSW vs. DEN W 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 3 -3
+p8
+aVDraymond Green GSW 04/15/2015 GSW vs. DEN W 20 8 2 5 40.0 0 2 0.0 4 4 100.0 1 2 3 3 0 1 1 3 14
+p9
+aVHarrison Barnes GSW 04/15/2015 GSW vs. DEN W 17 12 5 8 62.5 2 2 100.0 0 0 - 2 3 5 1 0 0 0 2 4
+p10
+aVAndrew Bogut GSW 04/15/2015 GSW vs. DEN W 16 2 1 1 100.0 0 0 - 0 0 - 1 3 4 4 0 2 1 2 10
+p11
+aVJames Michael McAdoo GSW 04/15/2015 GSW vs. DEN W 16 8 3 4 75.0 0 0 - 2 4 50.0 0 1 1 1 0 1 1 4 9
+p12
+aVShaun Livingston GSW 04/15/2015 GSW vs. DEN W 25 10 4 6 66.7 0 0 - 2 2 100.0 1 1 2 5 1 0 1 1 -10
+p13
+aVLeandro Barbosa GSW 04/15/2015 GSW vs. DEN W 23 10 5 10 50.0 0 3 0.0 0 2 0.0 0 3 3 3 0 0 2 0 -3
+p14
+aVLeandro Barbosa GSW 04/13/2015 GSW vs. MEM W 15 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 2 0 1 1 2 -6
+p15
+aVKlay Thompson GSW 04/13/2015 GSW vs. MEM W 30 42 15 20 75.0 8 10 80.0 4 4 100.0 0 5 5 3 1 0 2 0 25
+p16
+aVStephen Curry GSW 04/13/2015 GSW vs. MEM W 29 15 6 10 60.0 3 6 50.0 0 0 - 0 4 4 8 1 0 3 2 24
+p17
+aVJustin Holiday GSW 04/13/2015 GSW vs. MEM W 6 6 0 3 0.0 0 0 - 6 6 100.0 0 1 1 0 0 0 1 1 -22
+p18
+aVHarrison Barnes GSW 04/13/2015 GSW vs. MEM W 23 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 2 2 2 0 1 24
+p19
+aVAndre Iguodala GSW 04/13/2015 GSW vs. MEM W 20 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 5 1 0 0 1 1
+p20
+aVDavid Lee GSW 04/13/2015 GSW vs. MEM W 14 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 4 2 -20
+p21
+aVDraymond Green GSW 04/13/2015 GSW vs. MEM W 27 5 2 4 50.0 1 2 50.0 0 0 - 0 9 9 4 1 0 3 2 21
+p22
+aVBrandon Rush GSW 04/13/2015 GSW vs. MEM W 4 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 1 1 -15
+p23
+aVFestus Ezeli GSW 04/13/2015 GSW vs. MEM W 18 9 3 5 60.0 0 0 - 3 5 60.0 1 4 5 1 0 3 1 2 2
+p24
+aVShaun Livingston GSW 04/13/2015 GSW vs. MEM W 24 6 2 3 66.7 0 0 - 2 4 50.0 0 1 1 2 2 0 3 1 -16
+p25
+aVMarreese Speights GSW 04/13/2015 GSW vs. MEM W 13 4 1 6 16.7 0 1 0.0 2 2 100.0 1 1 2 0 1 0 2 3 -20
+p26
+aVAndrew Bogut GSW 04/13/2015 GSW vs. MEM W 17 6 3 4 75.0 0 0 - 0 0 - 2 5 7 3 0 1 0 4 22
+p27
+aVJustin Holiday GSW 04/11/2015 GSW vs. MIN W 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 1 3 -12
+p28
+aVHarrison Barnes GSW 04/11/2015 GSW vs. MIN W 29 13 5 12 41.7 1 4 25.0 2 3 66.7 5 7 12 2 0 2 1 1 28
+p29
+aVShaun Livingston GSW 04/11/2015 GSW vs. MIN W 16 4 2 3 66.7 0 0 - 0 0 - 1 2 3 3 0 0 0 0 -4
+p30
+aVDraymond Green GSW 04/11/2015 GSW vs. MIN W 37 13 5 9 55.6 1 3 33.3 2 2 100.0 3 11 14 5 2 1 1 4 2
+p31
+aVAndre Iguodala GSW 04/11/2015 GSW vs. MIN W 30 5 2 6 33.3 1 4 25.0 0 0 - 1 4 5 3 1 1 1 2 -1
+p32
+aVAndrew Bogut GSW 04/11/2015 GSW vs. MIN W 24 7 3 8 37.5 0 0 - 1 2 50.0 1 5 6 1 0 0 3 6 6
+p33
+aVFestus Ezeli GSW 04/11/2015 GSW vs. MIN W 12 7 2 2 100.0 0 0 - 3 6 50.0 1 1 2 0 0 1 0 0 -5
+p34
+aVKlay Thompson GSW 04/11/2015 GSW vs. MIN W 38 23 10 25 40.0 3 9 33.3 0 0 - 1 1 2 3 3 0 1 1 19
+p35
+aVMarreese Speights GSW 04/11/2015 GSW vs. MIN W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -5
+p36
+aVStephen Curry GSW 04/11/2015 GSW vs. MIN W 35 34 11 21 52.4 5 11 45.5 7 8 87.5 0 4 4 7 4 0 3 1 17
+p37
+aVKlay Thompson GSW 04/09/2015 GSW vs. POR W 36 26 10 21 47.6 3 5 60.0 3 4 75.0 0 4 4 2 1 1 2 3 11
+p38
+aVMarreese Speights GSW 04/09/2015 GSW vs. POR W 8 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 1 0 0 1 -3
+p39
+aVShaun Livingston GSW 04/09/2015 GSW vs. POR W 16 2 1 6 16.7 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -16
+p40
+aVBrandon Rush GSW 04/09/2015 GSW vs. POR W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 0 0 1
+p41
+aVDraymond Green GSW 04/09/2015 GSW vs. POR W 36 11 5 11 45.5 1 4 25.0 0 0 - 4 10 14 3 1 2 1 3 26
+p42
+aVAndrew Bogut GSW 04/09/2015 GSW vs. POR W 32 10 5 6 83.3 0 0 - 0 0 - 2 5 7 4 0 0 0 0 19
+p43
+aVDavid Lee GSW 04/09/2015 GSW vs. POR W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -11
+p44
+aVJames Michael McAdoo GSW 04/09/2015 GSW vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p45
+aVAndre Iguodala GSW 04/09/2015 GSW vs. POR W 27 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 2 1 1 1 0 -2
+p46
+aVStephen Curry GSW 04/09/2015 GSW vs. POR W 35 45 17 23 73.9 8 13 61.5 3 3 100.0 1 1 2 10 0 0 4 2 21
+p47
+aVHarrison Barnes GSW 04/09/2015 GSW vs. POR W 29 12 5 6 83.3 0 1 0.0 2 2 100.0 1 6 7 4 1 0 2 1 8
+p48
+aVJustin Holiday GSW 04/09/2015 GSW vs. POR W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 1
+p49
+aVShaun Livingston GSW 04/07/2015 GSW @ NOP L 19 6 3 8 37.5 0 0 - 0 0 - 0 3 3 3 0 0 1 0 -2
+p50
+aVStephen Curry GSW 04/07/2015 GSW @ NOP L 35 25 9 18 50.0 5 8 62.5 2 2 100.0 1 5 6 9 1 0 2 3 4
+p51
+aVMarreese Speights GSW 04/07/2015 GSW @ NOP L 14 8 4 7 57.1 0 0 - 0 0 - 2 3 5 0 0 0 0 2 0
+p52
+aVHarrison Barnes GSW 04/07/2015 GSW @ NOP L 23 7 3 7 42.9 0 0 - 1 2 50.0 0 1 1 1 1 1 0 2 -12
+p53
+aVDavid Lee GSW 04/07/2015 GSW @ NOP L 11 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -7
+p54
+aVAndre Iguodala GSW 04/07/2015 GSW @ NOP L 28 7 3 10 30.0 0 2 0.0 1 2 50.0 1 6 7 1 0 0 0 2 3
+p55
+aVDraymond Green GSW 04/07/2015 GSW @ NOP L 35 24 10 18 55.6 3 7 42.9 1 2 50.0 3 11 14 4 1 1 1 4 -6
+p56
+aVAndrew Bogut GSW 04/07/2015 GSW @ NOP L 28 8 4 8 50.0 0 0 - 0 0 - 2 6 8 3 1 9 3 5 8
+p57
+aVKlay Thompson GSW 04/07/2015 GSW @ NOP L 30 7 2 10 20.0 1 5 20.0 2 2 100.0 0 3 3 1 1 1 4 2 -2
+p58
+aVLeandro Barbosa GSW 04/07/2015 GSW @ NOP L 18 4 2 5 40.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 -1
+p59
+aVLeandro Barbosa GSW 04/05/2015 GSW @ SAS L 24 12 6 9 66.7 0 1 0.0 0 0 - 0 2 2 4 0 0 1 2 -2
+p60
+aVDraymond Green GSW 04/05/2015 GSW @ SAS L 27 6 2 11 18.2 0 3 0.0 2 4 50.0 3 4 7 6 1 0 1 1 -17
+p61
+aVAndrew Bogut GSW 04/05/2015 GSW @ SAS L 19 10 5 7 71.4 0 0 - 0 0 - 3 4 7 2 0 1 2 2 -11
+p62
+aVAndre Iguodala GSW 04/05/2015 GSW @ SAS L 25 10 4 9 44.4 2 4 50.0 0 0 - 1 1 2 1 1 0 0 1 -8
+p63
+aVJustin Holiday GSW 04/05/2015 GSW @ SAS L 18 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 1 0 0 0 1 1
+p64
+aVDavid Lee GSW 04/05/2015 GSW @ SAS L 14 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 2 0 0 1 0 -9
+p65
+aVJames Michael McAdoo GSW 04/05/2015 GSW @ SAS L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p66
+aVKlay Thompson GSW 04/05/2015 GSW @ SAS L 24 6 3 11 27.3 0 3 0.0 0 0 - 0 0 0 2 1 0 1 1 -13
+p67
+aVMarreese Speights GSW 04/05/2015 GSW @ SAS L 11 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -10
+p68
+aVFestus Ezeli GSW 04/05/2015 GSW @ SAS L 12 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 10
+p69
+aVStephen Curry GSW 04/05/2015 GSW @ SAS L 30 24 9 17 52.9 5 10 50.0 1 2 50.0 0 4 4 6 1 0 4 2 -16
+p70
+aVHarrison Barnes GSW 04/05/2015 GSW @ SAS L 28 4 2 7 28.6 0 3 0.0 0 0 - 0 2 2 0 0 1 0 3 -7
+p71
+aVShaun Livingston GSW 04/04/2015 GSW @ DAL W 25 9 2 2 100.0 0 0 - 5 6 83.3 1 3 4 5 0 0 3 5 1
+p72
+aVJustin Holiday GSW 04/04/2015 GSW @ DAL W 10 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 1 1 1 2 -2
+p73
+aVMarreese Speights GSW 04/04/2015 GSW @ DAL W 10 18 6 8 75.0 2 2 100.0 4 4 100.0 2 1 3 1 0 0 1 6 2
+p74
+aVDraymond Green GSW 04/04/2015 GSW @ DAL W 30 5 2 7 28.6 1 3 33.3 0 2 0.0 0 6 6 4 1 0 2 4 12
+p75
+aVFestus Ezeli GSW 04/04/2015 GSW @ DAL W 15 10 4 6 66.7 0 0 - 2 4 50.0 5 4 9 0 1 1 0 4 15
+p76
+aVStephen Curry GSW 04/04/2015 GSW @ DAL W 27 11 4 12 33.3 1 4 25.0 2 3 66.7 2 2 4 3 1 0 1 1 9
+p77
+aVKlay Thompson GSW 04/04/2015 GSW @ DAL W 28 21 7 17 41.2 5 10 50.0 2 4 50.0 1 2 3 3 2 0 2 4 10
+p78
+aVHarrison Barnes GSW 04/04/2015 GSW @ DAL W 28 13 5 11 45.5 0 3 0.0 3 4 75.0 3 7 10 3 4 0 2 5 6
+p79
+aVLeandro Barbosa GSW 04/04/2015 GSW @ DAL W 22 10 2 5 40.0 1 3 33.3 5 5 100.0 0 1 1 3 2 1 1 2 4
+p80
+aVAndre Iguodala GSW 04/04/2015 GSW @ DAL W 28 18 7 16 43.8 4 9 44.4 0 0 - 0 3 3 4 0 0 0 0 9
+p81
+aVAndrew Bogut GSW 04/04/2015 GSW @ DAL W 18 8 4 7 57.1 0 0 - 0 0 - 3 8 11 2 0 1 1 4 -1
+p82
+aVJames Michael McAdoo GSW 04/02/2015 GSW vs. PHX W 22 8 3 5 60.0 0 0 - 2 5 40.0 2 6 8 0 1 1 0 3 -2
+p83
+aVShaun Livingston GSW 04/02/2015 GSW vs. PHX W 18 8 3 6 50.0 0 0 - 2 3 66.7 1 2 3 3 0 0 0 1 4
+p84
+aVFestus Ezeli GSW 04/02/2015 GSW vs. PHX W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p85
+aVMarreese Speights GSW 04/02/2015 GSW vs. PHX W 18 12 6 12 50.0 0 0 - 0 0 - 1 5 6 0 0 0 2 2 7
+p86
+aVStephen Curry GSW 04/02/2015 GSW vs. PHX W 34 28 10 22 45.5 6 11 54.5 2 2 100.0 1 7 8 5 0 0 6 3 -1
+p87
+aVLeandro Barbosa GSW 04/02/2015 GSW vs. PHX W 16 5 2 5 40.0 1 3 33.3 0 1 0.0 0 1 1 3 2 0 0 2 5
+p88
+aVDavid Lee GSW 04/02/2015 GSW vs. PHX W 21 7 3 7 42.9 0 0 - 1 2 50.0 2 4 6 1 0 0 0 2 -6
+p89
+aVAndrew Bogut GSW 04/02/2015 GSW vs. PHX W 23 8 4 7 57.1 0 0 - 0 0 - 6 3 9 3 1 2 1 1 -4
+p90
+aVAndre Iguodala GSW 04/02/2015 GSW vs. PHX W 27 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 5 1 1 4 2 1
+p91
+aVHarrison Barnes GSW 04/02/2015 GSW vs. PHX W 24 4 2 8 25.0 0 3 0.0 0 0 - 1 2 3 3 0 0 0 2 1
+p92
+aVJustin Holiday GSW 04/02/2015 GSW vs. PHX W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p93
+aVKlay Thompson GSW 04/02/2015 GSW vs. PHX W 32 16 6 14 42.9 2 7 28.6 2 2 100.0 1 2 3 6 0 1 0 1 -4
+p94
+aVJames Michael McAdoo GSW 03/31/2015 GSW @ LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p95
+aVShaun Livingston GSW 03/31/2015 GSW @ LAC W 16 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 3 1 0 2 1 5
+p96
+aVLeandro Barbosa GSW 03/31/2015 GSW @ LAC W 12 7 3 6 50.0 1 3 33.3 0 0 - 1 3 4 1 1 0 0 1 7
+p97
+aVMarreese Speights GSW 03/31/2015 GSW @ LAC W 15 13 5 9 55.6 0 0 - 3 4 75.0 1 1 2 1 1 0 0 2 0
+p98
+aVHarrison Barnes GSW 03/31/2015 GSW @ LAC W 25 1 0 7 0.0 0 3 0.0 1 2 50.0 0 7 7 2 0 0 0 2 14
+p99
+aVFestus Ezeli GSW 03/31/2015 GSW @ LAC W 11 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -3
+p100
+aVAndre Iguodala GSW 03/31/2015 GSW @ LAC W 29 6 0 3 0.0 0 2 0.0 6 9 66.7 0 1 1 7 1 0 0 0 -2
+p101
+aVDavid Lee GSW 03/31/2015 GSW @ LAC W 30 17 8 12 66.7 0 0 - 1 2 50.0 3 4 7 1 0 0 0 2 1
+p102
+aVStephen Curry GSW 03/31/2015 GSW @ LAC W 36 27 8 15 53.3 4 6 66.7 7 7 100.0 1 0 1 4 1 0 3 3 -1
+p103
+aVAndrew Bogut GSW 03/31/2015 GSW @ LAC W 30 6 3 5 60.0 0 0 - 0 1 0.0 2 7 9 5 0 1 2 6 2
+p104
+aVKlay Thompson GSW 03/31/2015 GSW @ LAC W 34 25 8 21 38.1 3 7 42.9 6 7 85.7 2 6 8 4 1 0 1 2 2
+p105
+aVStephen Curry GSW 03/28/2015 GSW @ MIL W 30 25 8 13 61.5 6 9 66.7 3 3 100.0 0 4 4 6 1 0 6 4 -1
+p106
+aVKlay Thompson GSW 03/28/2015 GSW @ MIL W 34 21 8 17 47.1 3 8 37.5 2 2 100.0 1 4 5 4 2 1 2 3 30
+p107
+aVJames Michael McAdoo GSW 03/28/2015 GSW @ MIL W 23 12 5 8 62.5 0 0 - 2 2 100.0 1 3 4 0 0 3 2 1 3
+p108
+aVHarrison Barnes GSW 03/28/2015 GSW @ MIL W 26 13 4 8 50.0 2 3 66.7 3 5 60.0 0 6 6 0 1 0 2 4 -3
+p109
+aVShaun Livingston GSW 03/28/2015 GSW @ MIL W 25 4 2 5 40.0 0 0 - 0 0 - 0 2 2 8 0 0 1 1 19
+p110
+aVAndrew Bogut GSW 03/28/2015 GSW @ MIL W 19 4 2 3 66.7 0 0 - 0 0 - 1 5 6 1 0 3 2 2 5
+p111
+aVBrandon Rush GSW 03/28/2015 GSW @ MIL W 18 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 4 -14
+p112
+aVMarreese Speights GSW 03/28/2015 GSW @ MIL W 20 12 5 11 45.5 0 1 0.0 2 2 100.0 2 5 7 3 1 0 3 2 13
+p113
+aVDavid Lee GSW 03/28/2015 GSW @ MIL W 21 12 6 8 75.0 0 0 - 0 0 - 1 3 4 1 0 0 2 1 10
+p114
+aVJustin Holiday GSW 03/28/2015 GSW @ MIL W 8 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 2 1 1 0 0 -3
+p115
+aVFestus Ezeli GSW 03/28/2015 GSW @ MIL W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -2
+p116
+aVLeandro Barbosa GSW 03/28/2015 GSW @ MIL W 14 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 0 1 1 8
+p117
+aVJames Michael McAdoo GSW 03/27/2015 GSW @ MEM W 3 2 1 2 50.0 0 0 - 0 1 0.0 2 0 2 0 1 0 0 0 4
+p118
+aVShaun Livingston GSW 03/27/2015 GSW @ MEM W 21 5 2 8 25.0 0 0 - 1 2 50.0 1 1 2 4 1 0 2 2 1
+p119
+aVStephen Curry GSW 03/27/2015 GSW @ MEM W 34 38 12 22 54.5 8 12 66.7 6 6 100.0 1 2 3 10 3 1 4 3 26
+p120
+aVMarreese Speights GSW 03/27/2015 GSW @ MEM W 5 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -1
+p121
+aVFestus Ezeli GSW 03/27/2015 GSW @ MEM W 15 4 1 4 25.0 0 0 - 2 2 100.0 3 5 8 0 0 2 0 2 -2
+p122
+aVKlay Thompson GSW 03/27/2015 GSW @ MEM W 27 28 10 17 58.8 6 9 66.7 2 2 100.0 0 2 2 1 1 0 0 2 14
+p123
+aVAndre Iguodala GSW 03/27/2015 GSW @ MEM W 25 3 1 11 9.1 1 5 20.0 0 0 - 1 5 6 2 1 0 1 1 1
+p124
+aVAndrew Bogut GSW 03/27/2015 GSW @ MEM W 27 2 1 2 50.0 0 0 - 0 0 - 2 6 8 3 2 0 2 0 26
+p125
+aVDavid Lee GSW 03/27/2015 GSW @ MEM W 17 6 2 3 66.7 0 0 - 2 3 66.7 0 0 0 1 2 0 1 1 1
+p126
+aVJustin Holiday GSW 03/27/2015 GSW @ MEM W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p127
+aVHarrison Barnes GSW 03/27/2015 GSW @ MEM W 24 3 1 2 50.0 1 1 100.0 0 0 - 1 4 5 2 2 0 0 2 9
+p128
+aVLeandro Barbosa GSW 03/27/2015 GSW @ MEM W 20 4 2 5 40.0 0 2 0.0 0 0 - 2 2 4 2 1 1 2 0 9
+p129
+aVDraymond Green GSW 03/27/2015 GSW @ MEM W 20 10 5 9 55.6 0 1 0.0 0 1 0.0 0 2 2 3 1 0 2 3 24
+p130
+aVHarrison Barnes GSW 03/24/2015 GSW @ POR W 36 13 5 6 83.3 1 1 100.0 2 2 100.0 0 3 3 0 0 0 1 1 10
+p131
+aVFestus Ezeli GSW 03/24/2015 GSW @ POR W 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 1 0 3 3
+p132
+aVDraymond Green GSW 03/24/2015 GSW @ POR W 37 14 6 10 60.0 1 4 25.0 1 2 50.0 0 11 11 8 0 3 2 3 19
+p133
+aVAndrew Bogut GSW 03/24/2015 GSW @ POR W 24 10 5 8 62.5 0 0 - 0 0 - 5 11 16 6 1 0 2 2 9
+p134
+aVLeandro Barbosa GSW 03/24/2015 GSW @ POR W 17 5 1 3 33.3 1 2 50.0 2 2 100.0 0 4 4 5 0 0 0 2 9
+p135
+aVJustin Holiday GSW 03/24/2015 GSW @ POR W 18 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 2 2
+p136
+aVAndre Iguodala GSW 03/24/2015 GSW @ POR W 31 21 9 11 81.8 3 4 75.0 0 0 - 0 4 4 4 1 0 5 1 4
+p137
+aVStephen Curry GSW 03/24/2015 GSW @ POR W 35 33 13 22 59.1 5 9 55.6 2 2 100.0 0 2 2 10 1 0 2 2 12
+p138
+aVKlay Thompson GSW 03/24/2015 GSW @ POR W 25 16 6 13 46.2 1 3 33.3 3 3 100.0 0 2 2 2 1 1 0 1 5
+p139
+aVMarreese Speights GSW 03/24/2015 GSW @ POR W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p140
+aVBrandon Rush GSW 03/23/2015 GSW vs. WAS W 10 3 1 4 25.0 1 3 33.3 0 2 0.0 0 0 0 0 0 0 0 0 1
+p141
+aVStephen Curry GSW 03/23/2015 GSW vs. WAS W 28 24 8 14 57.1 5 8 62.5 3 3 100.0 1 4 5 6 2 0 2 1 30
+p142
+aVAndrew Bogut GSW 03/23/2015 GSW vs. WAS W 23 6 3 7 42.9 0 0 - 0 0 - 5 7 12 2 0 2 1 2 32
+p143
+aVKlay Thompson GSW 03/23/2015 GSW vs. WAS W 18 8 3 9 33.3 0 5 0.0 2 2 100.0 0 1 1 3 1 0 1 0 3
+p144
+aVJustin Holiday GSW 03/23/2015 GSW vs. WAS W 9 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 9
+p145
+aVMarreese Speights GSW 03/23/2015 GSW vs. WAS W 14 16 6 9 66.7 0 0 - 4 4 100.0 1 4 5 3 0 0 1 0 7
+p146
+aVLeandro Barbosa GSW 03/23/2015 GSW vs. WAS W 17 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 21
+p147
+aVFestus Ezeli GSW 03/23/2015 GSW vs. WAS W 14 4 1 5 20.0 0 0 - 2 2 100.0 4 6 10 0 0 2 0 2 -1
+p148
+aVAndre Iguodala GSW 03/23/2015 GSW vs. WAS W 21 11 3 6 50.0 3 6 50.0 2 2 100.0 1 2 3 3 0 0 0 1 1
+p149
+aVDavid Lee GSW 03/23/2015 GSW vs. WAS W 23 7 3 11 27.3 0 0 - 1 2 50.0 4 5 9 2 0 0 2 2 4
+p150
+aVDraymond Green GSW 03/23/2015 GSW vs. WAS W 21 13 5 11 45.5 3 8 37.5 0 2 0.0 0 6 6 0 1 1 3 2 22
+p151
+aVHarrison Barnes GSW 03/23/2015 GSW vs. WAS W 22 7 2 7 28.6 1 3 33.3 2 2 100.0 2 5 7 2 3 0 0 2 25
+p152
+aVShaun Livingston GSW 03/23/2015 GSW vs. WAS W 20 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 1 1 1 1
+p153
+aVHarrison Barnes GSW 03/21/2015 GSW vs. UTA W 28 12 5 10 50.0 2 4 50.0 0 0 - 0 4 4 1 0 0 1 1 8
+p154
+aVDraymond Green GSW 03/21/2015 GSW vs. UTA W 32 15 2 10 20.0 0 3 0.0 11 13 84.6 0 6 6 7 2 0 2 5 15
+p155
+aVAndrew Bogut GSW 03/21/2015 GSW vs. UTA W 30 8 4 5 80.0 0 0 - 0 0 - 2 6 8 5 1 3 1 4 10
+p156
+aVLeandro Barbosa GSW 03/21/2015 GSW vs. UTA W 28 19 8 10 80.0 1 2 50.0 2 2 100.0 0 2 2 1 3 0 1 0 6
+p157
+aVAndre Iguodala GSW 03/21/2015 GSW vs. UTA W 31 13 4 7 57.1 1 2 50.0 4 6 66.7 0 3 3 0 1 0 2 2 6
+p158
+aVMarreese Speights GSW 03/21/2015 GSW vs. UTA W 13 4 2 7 28.6 0 0 - 0 0 - 2 4 6 2 0 0 1 3 4
+p159
+aVJustin Holiday GSW 03/21/2015 GSW vs. UTA W 18 7 3 3 100.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 2 7
+p160
+aVFestus Ezeli GSW 03/21/2015 GSW vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p161
+aVStephen Curry GSW 03/21/2015 GSW vs. UTA W 32 24 8 18 44.4 3 6 50.0 5 5 100.0 1 2 3 3 3 0 0 0 12
+p162
+aVShaun Livingston GSW 03/21/2015 GSW vs. UTA W 24 4 2 8 25.0 0 0 - 0 0 - 1 2 3 5 1 0 1 0 8
+p163
+aVMarreese Speights GSW 03/20/2015 GSW vs. NOP W 17 13 6 8 75.0 1 1 100.0 0 0 - 0 3 3 1 0 2 1 2 13
+p164
+aVLeandro Barbosa GSW 03/20/2015 GSW vs. NOP W 24 12 4 7 57.1 1 2 50.0 3 3 100.0 1 2 3 4 1 0 0 1 26
+p165
+aVBrandon Rush GSW 03/20/2015 GSW vs. NOP W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p166
+aVAndrew Bogut GSW 03/20/2015 GSW vs. NOP W 15 6 3 5 60.0 0 0 - 0 1 0.0 2 3 5 1 1 1 0 4 2
+p167
+aVFestus Ezeli GSW 03/20/2015 GSW vs. NOP W 14 4 1 2 50.0 0 0 - 2 4 50.0 3 1 4 0 0 0 0 0 2
+p168
+aVJames Michael McAdoo GSW 03/20/2015 GSW vs. NOP W 5 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -6
+p169
+aVJustin Holiday GSW 03/20/2015 GSW vs. NOP W 21 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 1 2 0 0 2 -9
+p170
+aVHarrison Barnes GSW 03/20/2015 GSW vs. NOP W 20 22 9 13 69.2 1 1 100.0 3 3 100.0 0 1 1 0 1 0 0 2 0
+p171
+aVAndre Iguodala GSW 03/20/2015 GSW vs. NOP W 23 10 4 8 50.0 0 2 0.0 2 2 100.0 0 0 0 2 0 1 1 0 23
+p172
+aVStephen Curry GSW 03/20/2015 GSW vs. NOP W 27 16 4 17 23.5 2 10 20.0 6 6 100.0 0 2 2 11 0 0 3 0 11
+p173
+aVShaun Livingston GSW 03/20/2015 GSW vs. NOP W 22 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 4 2 0 3 4 10
+p174
+aVDavid Lee GSW 03/20/2015 GSW vs. NOP W 20 7 3 4 75.0 0 0 - 1 2 50.0 1 6 7 2 0 1 0 1 1
+p175
+aVDraymond Green GSW 03/20/2015 GSW vs. NOP W 27 6 3 6 50.0 0 1 0.0 0 0 - 3 5 8 3 1 1 1 1 14
+p176
+aVJames Michael McAdoo GSW 03/18/2015 GSW vs. ATL W 5 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 1 1 2 -4
+p177
+aVJustin Holiday GSW 03/18/2015 GSW vs. ATL W 25 5 1 6 16.7 0 3 0.0 3 4 75.0 1 2 3 5 1 1 1 2 2
+p178
+aVLeandro Barbosa GSW 03/18/2015 GSW vs. ATL W 28 13 5 12 41.7 3 6 50.0 0 0 - 0 1 1 3 1 0 1 3 11
+p179
+aVDraymond Green GSW 03/18/2015 GSW vs. ATL W 29 18 6 11 54.5 5 7 71.4 1 4 25.0 1 6 7 3 1 0 2 3 18
+p180
+aVAndrew Bogut GSW 03/18/2015 GSW vs. ATL W 22 0 0 3 0.0 0 0 - 0 0 - 4 10 14 1 0 3 4 3 7
+p181
+aVShaun Livingston GSW 03/18/2015 GSW vs. ATL W 21 6 3 3 100.0 0 0 - 0 2 0.0 0 1 1 7 0 0 3 0 4
+p182
+aVStephen Curry GSW 03/18/2015 GSW vs. ATL W 30 16 4 11 36.4 2 6 33.3 6 6 100.0 1 3 4 12 0 0 4 1 16
+p183
+aVHarrison Barnes GSW 03/18/2015 GSW vs. ATL W 28 25 11 13 84.6 2 3 66.7 1 2 50.0 1 3 4 1 1 0 1 4 2
+p184
+aVMarreese Speights GSW 03/18/2015 GSW vs. ATL W 13 8 4 8 50.0 0 0 - 0 0 - 0 3 3 1 1 0 0 1 -3
+p185
+aVFestus Ezeli GSW 03/18/2015 GSW vs. ATL W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 0 2 17
+p186
+aVAndre Iguodala GSW 03/18/2015 GSW vs. ATL W 29 21 9 12 75.0 2 5 40.0 1 2 50.0 0 2 2 6 3 0 1 2 25
+p187
+aVAndre Iguodala GSW 03/16/2015 GSW vs. LAL W 31 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 6 2 1 1 1 15
+p188
+aVFestus Ezeli GSW 03/16/2015 GSW vs. LAL W 8 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 1 0 0 10
+p189
+aVStephen Curry GSW 03/16/2015 GSW vs. LAL W 33 19 5 14 35.7 2 6 33.3 7 7 100.0 0 4 4 9 3 0 6 2 -4
+p190
+aVKlay Thompson GSW 03/16/2015 GSW vs. LAL W 35 26 10 22 45.5 3 9 33.3 3 3 100.0 0 3 3 1 0 1 0 3 -2
+p191
+aVDavid Lee GSW 03/16/2015 GSW vs. LAL W 12 5 1 2 50.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 3 3
+p192
+aVAndrew Bogut GSW 03/16/2015 GSW vs. LAL W 31 8 4 6 66.7 0 0 - 0 0 - 2 5 7 3 1 1 2 3 -1
+p193
+aVShaun Livingston GSW 03/16/2015 GSW vs. LAL W 18 6 3 5 60.0 0 0 - 0 0 - 1 1 2 4 1 0 1 2 9
+p194
+aVDraymond Green GSW 03/16/2015 GSW vs. LAL W 34 16 7 14 50.0 1 5 20.0 1 1 100.0 1 7 8 3 5 1 3 5 -8
+p195
+aVJames Michael McAdoo GSW 03/16/2015 GSW vs. LAL W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 2
+p196
+aVHarrison Barnes GSW 03/16/2015 GSW vs. LAL W 23 11 3 8 37.5 1 4 25.0 4 4 100.0 1 1 2 2 1 1 0 1 -12
+p197
+aVJustin Holiday GSW 03/16/2015 GSW vs. LAL W 11 3 1 3 33.3 0 2 0.0 1 2 50.0 0 2 2 0 3 0 1 1 3
+p198
+aVKlay Thompson GSW 03/14/2015 GSW vs. NYK W 26 27 9 17 52.9 6 10 60.0 3 3 100.0 0 2 2 2 0 0 0 1 30
+p199
+aVStephen Curry GSW 03/14/2015 GSW vs. NYK W 27 25 8 15 53.3 6 10 60.0 3 3 100.0 0 3 3 11 3 0 1 2 30
+p200
+aVFestus Ezeli GSW 03/14/2015 GSW vs. NYK W 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p201
+aVJustin Holiday GSW 03/14/2015 GSW vs. NYK W 22 13 4 9 44.4 3 6 50.0 2 2 100.0 0 4 4 0 2 1 0 1 1
+p202
+aVAndre Iguodala GSW 03/14/2015 GSW vs. NYK W 18 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 3 1 1 0 1 10
+p203
+aVHarrison Barnes GSW 03/14/2015 GSW vs. NYK W 20 8 3 5 60.0 1 1 100.0 1 2 50.0 1 3 4 0 0 0 2 0 15
+p204
+aVDavid Lee GSW 03/14/2015 GSW vs. NYK W 24 10 5 6 83.3 0 0 - 0 0 - 1 3 4 2 0 1 2 3 1
+p205
+aVDraymond Green GSW 03/14/2015 GSW vs. NYK W 25 12 5 7 71.4 2 3 66.7 0 0 - 0 7 7 5 5 0 2 2 35
+p206
+aVShaun Livingston GSW 03/14/2015 GSW vs. NYK W 18 8 4 6 66.7 0 0 - 0 0 - 1 4 5 7 1 1 2 1 22
+p207
+aVLeandro Barbosa GSW 03/14/2015 GSW vs. NYK W 7 2 0 3 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 1 -7
+p208
+aVAndrew Bogut GSW 03/14/2015 GSW vs. NYK W 22 4 2 5 40.0 0 0 - 0 0 - 1 4 5 3 0 0 0 2 26
+p209
+aVMarreese Speights GSW 03/14/2015 GSW vs. NYK W 17 9 2 8 25.0 0 0 - 5 5 100.0 2 0 2 1 1 1 0 0 3
+p210
+aVBrandon Rush GSW 03/14/2015 GSW vs. NYK W 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -8
+p211
+aVDavid Lee GSW 03/13/2015 GSW @ DEN L 31 13 4 12 33.3 0 0 - 5 6 83.3 1 3 4 3 1 1 0 3 -16
+p212
+aVShaun Livingston GSW 03/13/2015 GSW @ DEN L 36 12 5 13 38.5 0 0 - 2 2 100.0 1 3 4 8 0 0 1 3 -15
+p213
+aVDraymond Green GSW 03/13/2015 GSW @ DEN L 20 12 5 10 50.0 0 3 0.0 2 2 100.0 0 6 6 2 0 0 2 3 -8
+p214
+aVJames Michael McAdoo GSW 03/13/2015 GSW @ DEN L 28 16 6 10 60.0 0 0 - 4 6 66.7 4 1 5 1 1 1 1 5 -3
+p215
+aVLeandro Barbosa GSW 03/13/2015 GSW @ DEN L 25 14 5 13 38.5 3 4 75.0 1 2 50.0 0 0 0 9 0 0 1 3 1
+p216
+aVBrandon Rush GSW 03/13/2015 GSW @ DEN L 23 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 2 0 3 0 2 1
+p217
+aVHarrison Barnes GSW 03/13/2015 GSW @ DEN L 24 4 1 7 14.3 0 3 0.0 2 2 100.0 1 5 6 2 1 0 2 2 -10
+p218
+aVFestus Ezeli GSW 03/13/2015 GSW @ DEN L 17 9 4 6 66.7 0 0 - 1 2 50.0 2 4 6 1 1 4 0 3 5
+p219
+aVJustin Holiday GSW 03/13/2015 GSW @ DEN L 36 23 9 16 56.3 5 7 71.4 0 0 - 0 3 3 1 1 1 1 1 -10
+p220
+aVAndre Iguodala GSW 03/11/2015 GSW vs. DET W 28 13 6 7 85.7 1 1 100.0 0 1 0.0 3 4 7 2 2 1 2 1 6
+p221
+aVAndrew Bogut GSW 03/11/2015 GSW vs. DET W 30 12 6 8 75.0 0 0 - 0 0 - 2 4 6 3 0 2 1 1 1
+p222
+aVStephen Curry GSW 03/11/2015 GSW vs. DET W 34 9 4 15 26.7 1 7 14.3 0 0 - 1 4 5 11 1 0 3 1 8
+p223
+aVShaun Livingston GSW 03/11/2015 GSW vs. DET W 22 4 2 7 28.6 0 0 - 0 0 - 2 2 4 5 0 0 1 1 -1
+p224
+aVHarrison Barnes GSW 03/11/2015 GSW vs. DET W 23 5 2 3 66.7 1 2 50.0 0 0 - 1 4 5 1 0 0 2 0 5
+p225
+aVMarreese Speights GSW 03/11/2015 GSW vs. DET W 18 12 6 9 66.7 0 0 - 0 0 - 0 5 5 0 0 2 2 3 6
+p226
+aVLeandro Barbosa GSW 03/11/2015 GSW vs. DET W 19 10 3 5 60.0 1 1 100.0 3 3 100.0 0 1 1 1 1 0 1 0 0
+p227
+aVKlay Thompson GSW 03/11/2015 GSW vs. DET W 35 27 11 19 57.9 3 6 50.0 2 2 100.0 0 2 2 3 1 1 2 1 11
+p228
+aVDraymond Green GSW 03/11/2015 GSW vs. DET W 31 13 4 11 36.4 0 3 0.0 5 7 71.4 1 6 7 3 0 0 3 3 -1
+p229
+aVAndre Iguodala GSW 03/09/2015 GSW @ PHX W 29 5 2 3 66.7 0 1 0.0 1 2 50.0 0 7 7 0 3 2 4 4 4
+p230
+aVMarreese Speights GSW 03/09/2015 GSW @ PHX W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 1
+p231
+aVLeandro Barbosa GSW 03/09/2015 GSW @ PHX W 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p232
+aVHarrison Barnes GSW 03/09/2015 GSW @ PHX W 32 9 3 8 37.5 0 2 0.0 3 3 100.0 2 2 4 1 0 0 1 2 3
+p233
+aVJustin Holiday GSW 03/09/2015 GSW @ PHX W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p234
+aVStephen Curry GSW 03/09/2015 GSW @ PHX W 36 36 14 24 58.3 7 13 53.8 1 2 50.0 3 3 6 5 4 0 4 3 23
+p235
+aVKlay Thompson GSW 03/09/2015 GSW @ PHX W 31 25 8 19 42.1 4 8 50.0 5 5 100.0 0 2 2 3 0 1 2 1 17
+p236
+aVFestus Ezeli GSW 03/09/2015 GSW @ PHX W 15 3 1 3 33.3 0 0 - 1 1 100.0 1 7 8 0 0 1 1 1 -8
+p237
+aVDraymond Green GSW 03/09/2015 GSW @ PHX W 34 11 3 13 23.1 2 6 33.3 3 4 75.0 2 8 10 0 3 1 3 2 26
+p238
+aVShaun Livingston GSW 03/09/2015 GSW @ PHX W 25 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 4 0 2 1 4 6
+p239
+aVAndrew Bogut GSW 03/09/2015 GSW @ PHX W 23 2 1 1 100.0 0 0 - 0 0 - 1 6 7 2 1 1 1 4 30
+p240
+aVKlay Thompson GSW 03/08/2015 GSW vs. LAC W 30 21 9 13 69.2 3 5 60.0 0 0 - 0 1 1 2 0 1 2 1 21
+p241
+aVShaun Livingston GSW 03/08/2015 GSW vs. LAC W 28 21 9 14 64.3 0 0 - 3 5 60.0 2 6 8 3 3 0 0 2 0
+p242
+aVJustin Holiday GSW 03/08/2015 GSW vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -11
+p243
+aVMarreese Speights GSW 03/08/2015 GSW vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p244
+aVDraymond Green GSW 03/08/2015 GSW vs. LAC W 28 23 8 15 53.3 3 7 42.9 4 4 100.0 0 3 3 6 1 1 0 3 15
+p245
+aVStephen Curry GSW 03/08/2015 GSW vs. LAC W 32 12 3 9 33.3 2 2 100.0 4 4 100.0 0 1 1 4 3 0 4 1 15
+p246
+aVAndre Iguodala GSW 03/08/2015 GSW vs. LAC W 23 4 1 5 20.0 0 3 0.0 2 2 100.0 1 3 4 5 0 0 0 0 4
+p247
+aVAndrew Bogut GSW 03/08/2015 GSW vs. LAC W 19 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 1 1 1 2 9
+p248
+aVDavid Lee GSW 03/08/2015 GSW vs. LAC W 19 4 2 3 66.7 0 0 - 0 4 0.0 3 3 6 1 0 0 1 1 -11
+p249
+aVFestus Ezeli GSW 03/08/2015 GSW vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p250
+aVLeandro Barbosa GSW 03/08/2015 GSW vs. LAC W 16 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 2 2 0 4 3 -7
+p251
+aVHarrison Barnes GSW 03/08/2015 GSW vs. LAC W 34 10 3 12 25.0 1 4 25.0 3 4 75.0 0 8 8 0 3 0 1 1 2
+p252
+aVDraymond Green GSW 03/06/2015 GSW vs. DAL W 31 18 8 14 57.1 2 5 40.0 0 0 - 2 7 9 4 1 1 0 2 18
+p253
+aVAndrew Bogut GSW 03/06/2015 GSW vs. DAL W 22 4 2 5 40.0 0 0 - 0 0 - 5 8 13 4 1 3 2 4 15
+p254
+aVStephen Curry GSW 03/06/2015 GSW vs. DAL W 31 22 6 11 54.5 5 8 62.5 5 6 83.3 0 2 2 7 2 1 3 2 23
+p255
+aVLeandro Barbosa GSW 03/06/2015 GSW vs. DAL W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -16
+p256
+aVFestus Ezeli GSW 03/06/2015 GSW vs. DAL W 10 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 1 3
+p257
+aVBrandon Rush GSW 03/06/2015 GSW vs. DAL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p258
+aVHarrison Barnes GSW 03/06/2015 GSW vs. DAL W 28 12 5 9 55.6 2 4 50.0 0 0 - 0 6 6 1 0 0 3 2 12
+p259
+aVKlay Thompson GSW 03/06/2015 GSW vs. DAL W 31 16 5 14 35.7 2 5 40.0 4 5 80.0 0 1 1 2 0 1 4 2 23
+p260
+aVMarreese Speights GSW 03/06/2015 GSW vs. DAL W 16 12 4 8 50.0 0 0 - 4 4 100.0 0 1 1 2 0 0 2 3 -3
+p261
+aVAndre Iguodala GSW 03/06/2015 GSW vs. DAL W 23 2 1 2 50.0 0 0 - 0 0 - 0 4 4 2 1 1 1 1 6
+p262
+aVJustin Holiday GSW 03/06/2015 GSW vs. DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p263
+aVShaun Livingston GSW 03/06/2015 GSW vs. DAL W 28 10 4 10 40.0 0 0 - 2 2 100.0 1 9 10 4 0 3 6 2 4
+p264
+aVShaun Livingston GSW 03/04/2015 GSW vs. MIL W 27 16 7 10 70.0 0 0 - 2 2 100.0 0 1 1 6 1 0 1 3 14
+p265
+aVKlay Thompson GSW 03/04/2015 GSW vs. MIL W 36 17 5 16 31.3 3 8 37.5 4 4 100.0 0 0 0 5 3 0 1 3 5
+p266
+aVFestus Ezeli GSW 03/04/2015 GSW vs. MIL W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 1 0 1 8
+p267
+aVAndrew Bogut GSW 03/04/2015 GSW vs. MIL W 20 7 3 3 100.0 0 0 - 1 2 50.0 0 6 6 0 1 0 3 3 -3
+p268
+aVDraymond Green GSW 03/04/2015 GSW vs. MIL W 40 23 9 14 64.3 4 9 44.4 1 6 16.7 2 10 12 5 3 3 1 5 11
+p269
+aVDavid Lee GSW 03/04/2015 GSW vs. MIL W 7 2 1 1 100.0 0 0 - 0 2 0.0 0 3 3 1 0 1 1 0 -3
+p270
+aVHarrison Barnes GSW 03/04/2015 GSW vs. MIL W 32 6 3 7 42.9 0 2 0.0 0 2 0.0 1 4 5 1 1 0 2 2 10
+p271
+aVStephen Curry GSW 03/04/2015 GSW vs. MIL W 37 19 6 16 37.5 6 13 46.2 1 2 50.0 0 1 1 11 2 2 5 3 6
+p272
+aVJustin Holiday GSW 03/04/2015 GSW vs. MIL W 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -7
+p273
+aVAndre Iguodala GSW 03/04/2015 GSW vs. MIL W 30 8 2 5 40.0 1 2 50.0 3 3 100.0 1 2 3 1 4 1 2 3 4
+p274
+aVDavid Lee GSW 03/02/2015 GSW @ BKN L 11 4 2 4 50.0 0 0 - 0 0 - 2 1 3 2 1 2 1 0 5
+p275
+aVMarreese Speights GSW 03/02/2015 GSW @ BKN L 7 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -5
+p276
+aVShaun Livingston GSW 03/02/2015 GSW @ BKN L 25 11 5 8 62.5 0 0 - 1 3 33.3 2 1 3 4 0 0 0 3 0
+p277
+aVHarrison Barnes GSW 03/02/2015 GSW @ BKN L 26 6 2 7 28.6 1 2 50.0 1 2 50.0 3 3 6 0 3 0 0 1 -6
+p278
+aVAndrew Bogut GSW 03/02/2015 GSW @ BKN L 25 16 8 10 80.0 0 0 - 0 0 - 4 4 8 0 0 3 3 5 -2
+p279
+aVAndre Iguodala GSW 03/02/2015 GSW @ BKN L 30 12 5 8 62.5 2 3 66.7 0 0 - 1 3 4 3 2 0 1 0 5
+p280
+aVDraymond Green GSW 03/02/2015 GSW @ BKN L 30 3 1 5 20.0 0 2 0.0 1 2 50.0 2 9 11 4 2 1 3 2 -7
+p281
+aVStephen Curry GSW 03/02/2015 GSW @ BKN L 29 26 8 16 50.0 6 12 50.0 4 4 100.0 0 2 2 7 1 0 4 4 1
+p282
+aVFestus Ezeli GSW 03/02/2015 GSW @ BKN L 15 14 4 6 66.7 0 0 - 6 7 85.7 3 5 8 0 0 1 2 2 4
+p283
+aVJustin Holiday GSW 03/02/2015 GSW @ BKN L 10 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 4
+p284
+aVKlay Thompson GSW 03/02/2015 GSW @ BKN L 31 7 3 17 17.6 1 9 11.1 0 0 - 0 4 4 5 1 0 1 0 -9
+p285
+aVKlay Thompson GSW 03/01/2015 GSW @ BOS W 38 20 9 23 39.1 2 10 20.0 0 0 - 0 5 5 2 1 1 0 2 17
+p286
+aVJustin Holiday GSW 03/01/2015 GSW @ BOS W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 7
+p287
+aVDavid Lee GSW 03/01/2015 GSW @ BOS W 8 3 1 4 25.0 0 1 0.0 1 2 50.0 3 2 5 0 0 0 1 1 -14
+p288
+aVStephen Curry GSW 03/01/2015 GSW @ BOS W 38 37 14 22 63.6 5 8 62.5 4 4 100.0 0 4 4 5 1 0 5 1 8
+p289
+aVLeandro Barbosa GSW 03/01/2015 GSW @ BOS W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p290
+aVShaun Livingston GSW 03/01/2015 GSW @ BOS W 20 7 2 5 40.0 0 0 - 3 3 100.0 1 0 1 2 0 1 2 4 1
+p291
+aVHarrison Barnes GSW 03/01/2015 GSW @ BOS W 30 17 6 14 42.9 3 7 42.9 2 2 100.0 4 4 8 0 0 0 1 3 -2
+p292
+aVAndre Iguodala GSW 03/01/2015 GSW @ BOS W 33 6 3 4 75.0 0 0 - 0 0 - 1 8 9 3 1 1 0 0 12
+p293
+aVDraymond Green GSW 03/01/2015 GSW @ BOS W 44 14 4 13 30.8 2 6 33.3 4 6 66.7 2 9 11 4 0 3 1 4 18
+p294
+aVAndrew Bogut GSW 03/01/2015 GSW @ BOS W 19 2 1 6 16.7 0 0 - 0 0 - 4 6 10 3 1 2 0 2 -9
+p295
+aVDraymond Green GSW 02/27/2015 GSW @ TOR W 28 17 6 9 66.7 3 5 60.0 2 2 100.0 1 8 9 2 2 3 0 3 43
+p296
+aVShaun Livingston GSW 02/27/2015 GSW @ TOR W 21 11 5 6 83.3 0 0 - 1 2 50.0 0 2 2 8 1 0 1 2 -5
+p297
+aVStephen Curry GSW 02/27/2015 GSW @ TOR W 25 22 8 13 61.5 3 4 75.0 3 3 100.0 3 3 6 5 2 0 2 0 33
+p298
+aVHarrison Barnes GSW 02/27/2015 GSW @ TOR W 30 6 2 5 40.0 1 3 33.3 1 2 50.0 2 5 7 3 1 0 0 1 45
+p299
+aVLeandro Barbosa GSW 02/27/2015 GSW @ TOR W 20 11 3 7 42.9 1 3 33.3 4 4 100.0 0 1 1 1 0 0 0 2 -20
+p300
+aVAndrew Bogut GSW 02/27/2015 GSW @ TOR W 19 5 2 3 66.7 0 0 - 1 2 50.0 0 8 8 3 2 0 3 3 27
+p301
+aVDavid Lee GSW 02/27/2015 GSW @ TOR W 20 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 1 0 1 2 -19
+p302
+aVMarreese Speights GSW 02/27/2015 GSW @ TOR W 21 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 1 0 0 3 3 -11
+p303
+aVBrandon Rush GSW 02/27/2015 GSW @ TOR W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -8
+p304
+aVJustin Holiday GSW 02/27/2015 GSW @ TOR W 13 0 0 7 0.0 0 4 0.0 0 0 - 0 3 3 1 1 0 1 2 -17
+p305
+aVFestus Ezeli GSW 02/27/2015 GSW @ TOR W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 8
+p306
+aVKlay Thompson GSW 02/27/2015 GSW @ TOR W 28 25 9 18 50.0 5 8 62.5 2 2 100.0 0 1 1 5 1 1 0 2 44
+p307
+aVAndrew Bogut GSW 02/26/2015 GSW @ CLE L 21 6 3 8 37.5 0 0 - 0 0 - 2 3 5 2 0 2 1 2 -11
+p308
+aVDavid Lee GSW 02/26/2015 GSW @ CLE L 21 19 8 11 72.7 0 0 - 3 5 60.0 2 2 4 2 0 1 2 4 -5
+p309
+aVLeandro Barbosa GSW 02/26/2015 GSW @ CLE L 15 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 -7
+p310
+aVAndre Iguodala GSW 02/26/2015 GSW @ CLE L 30 9 4 9 44.4 1 3 33.3 0 0 - 2 3 5 6 1 0 0 4 2
+p311
+aVMarreese Speights GSW 02/26/2015 GSW @ CLE L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -2
+p312
+aVJustin Holiday GSW 02/26/2015 GSW @ CLE L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p313
+aVKlay Thompson GSW 02/26/2015 GSW @ CLE L 34 13 5 13 38.5 3 5 60.0 0 0 - 1 6 7 4 0 3 3 1 -4
+p314
+aVStephen Curry GSW 02/26/2015 GSW @ CLE L 34 18 5 17 29.4 3 9 33.3 5 5 100.0 0 3 3 6 1 0 4 3 -10
+p315
+aVShaun Livingston GSW 02/26/2015 GSW @ CLE L 14 0 0 4 0.0 0 0 - 0 2 0.0 1 4 5 3 1 0 0 0 -4
+p316
+aVHarrison Barnes GSW 02/26/2015 GSW @ CLE L 28 11 4 10 40.0 3 5 60.0 0 2 0.0 3 4 7 3 1 0 2 4 -7
+p317
+aVDraymond Green GSW 02/26/2015 GSW @ CLE L 38 16 7 13 53.8 0 4 0.0 2 5 40.0 3 5 8 4 5 0 1 4 -10
+p318
+aVAndre Iguodala GSW 02/24/2015 GSW @ WAS W 30 9 4 8 50.0 1 3 33.3 0 2 0.0 1 3 4 2 3 0 1 3 19
+p319
+aVShaun Livingston GSW 02/24/2015 GSW @ WAS W 14 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 6
+p320
+aVDavid Lee GSW 02/24/2015 GSW @ WAS W 18 5 2 6 33.3 0 0 - 1 2 50.0 1 9 10 1 1 0 0 0 15
+p321
+aVDraymond Green GSW 02/24/2015 GSW @ WAS W 30 13 5 9 55.6 3 4 75.0 0 0 - 0 6 6 5 0 1 2 4 -8
+p322
+aVAndrew Bogut GSW 02/24/2015 GSW @ WAS W 20 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -6
+p323
+aVHarrison Barnes GSW 02/24/2015 GSW @ WAS W 31 11 5 12 41.7 1 3 33.3 0 0 - 0 2 2 2 0 0 1 2 -8
+p324
+aVStephen Curry GSW 02/24/2015 GSW @ WAS W 34 32 11 18 61.1 5 9 55.6 5 5 100.0 0 0 0 8 2 0 0 1 1
+p325
+aVKlay Thompson GSW 02/24/2015 GSW @ WAS W 35 17 7 13 53.8 1 2 50.0 2 2 100.0 0 1 1 4 5 0 3 2 1
+p326
+aVLeandro Barbosa GSW 02/24/2015 GSW @ WAS W 13 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 1 0 0 1 6
+p327
+aVMarreese Speights GSW 02/24/2015 GSW @ WAS W 15 16 6 12 50.0 0 0 - 4 6 66.7 1 1 2 1 0 0 2 1 9
+p328
+aVLeandro Barbosa GSW 02/22/2015 GSW @ IND L 21 9 4 9 44.4 1 2 50.0 0 0 - 0 0 0 2 2 0 0 3 -10
+p329
+aVHarrison Barnes GSW 02/22/2015 GSW @ IND L 29 6 3 11 27.3 0 1 0.0 0 0 - 3 3 6 1 1 0 0 3 -13
+p330
+aVDraymond Green GSW 02/22/2015 GSW @ IND L 34 6 1 6 16.7 1 4 25.0 3 4 75.0 0 4 4 2 0 3 2 6 6
+p331
+aVAndre Iguodala GSW 02/22/2015 GSW @ IND L 32 14 4 11 36.4 2 6 33.3 4 4 100.0 0 4 4 4 1 1 0 1 -6
+p332
+aVMarreese Speights GSW 02/22/2015 GSW @ IND L 3 4 0 4 0.0 0 0 - 4 4 100.0 1 1 2 1 1 0 0 1 2
+p333
+aVJustin Holiday GSW 02/22/2015 GSW @ IND L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -4
+p334
+aVAndrew Bogut GSW 02/22/2015 GSW @ IND L 27 4 2 6 33.3 0 0 - 0 0 - 2 7 9 4 1 0 1 2 1
+p335
+aVShaun Livingston GSW 02/22/2015 GSW @ IND L 26 8 4 6 66.7 0 0 - 0 0 - 1 4 5 2 0 1 2 4 6
+p336
+aVKlay Thompson GSW 02/22/2015 GSW @ IND L 37 39 12 28 42.9 5 13 38.5 10 10 100.0 0 3 3 0 0 0 2 1 4
+p337
+aVDavid Lee GSW 02/22/2015 GSW @ IND L 18 6 3 6 50.0 0 0 - 0 0 - 6 6 12 2 1 0 2 4 -8
+p338
+aVBrandon Rush GSW 02/22/2015 GSW @ IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -8
+p339
+aVMarreese Speights GSW 02/20/2015 GSW vs. SAS W 8 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 2 1 -5
+p340
+aVAndrew Bogut GSW 02/20/2015 GSW vs. SAS W 24 4 2 4 50.0 0 0 - 0 0 - 1 5 6 3 0 3 0 2 10
+p341
+aVDraymond Green GSW 02/20/2015 GSW vs. SAS W 33 11 4 11 36.4 3 6 50.0 0 1 0.0 0 6 6 4 3 0 1 4 11
+p342
+aVStephen Curry GSW 02/20/2015 GSW vs. SAS W 32 25 8 17 47.1 4 8 50.0 5 5 100.0 0 4 4 11 4 0 2 2 22
+p343
+aVHarrison Barnes GSW 02/20/2015 GSW vs. SAS W 28 16 7 11 63.6 2 4 50.0 0 0 - 2 3 5 0 1 0 0 1 18
+p344
+aVAndre Iguodala GSW 02/20/2015 GSW vs. SAS W 27 14 5 8 62.5 4 6 66.7 0 2 0.0 1 5 6 2 0 0 1 1 3
+p345
+aVShaun Livingston GSW 02/20/2015 GSW vs. SAS W 16 0 0 1 0.0 0 0 - 0 0 - 2 2 4 2 0 0 2 3 -11
+p346
+aVKlay Thompson GSW 02/20/2015 GSW vs. SAS W 33 20 7 17 41.2 3 7 42.9 3 4 75.0 0 3 3 3 0 0 3 1 7
+p347
+aVFestus Ezeli GSW 02/20/2015 GSW vs. SAS W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p348
+aVLeandro Barbosa GSW 02/20/2015 GSW vs. SAS W 13 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 3 0 0 0 2 9
+p349
+aVDavid Lee GSW 02/20/2015 GSW vs. SAS W 19 11 5 5 100.0 0 0 - 1 4 25.0 1 3 4 1 2 1 1 1 5
+p350
+aVBrandon Rush GSW 02/20/2015 GSW vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p351
+aVJustin Holiday GSW 02/20/2015 GSW vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p352
+aVDavid Lee GSW 02/11/2015 GSW @ MIN W 13 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 1 0 0 5
+p353
+aVKlay Thompson GSW 02/11/2015 GSW @ MIN W 30 14 5 14 35.7 3 7 42.9 1 2 50.0 0 2 2 0 0 2 3 0 -4
+p354
+aVAndrew Bogut GSW 02/11/2015 GSW @ MIN W 32 10 5 10 50.0 0 0 - 0 0 - 3 7 10 3 0 0 4 5 -4
+p355
+aVDraymond Green GSW 02/11/2015 GSW @ MIN W 36 3 1 6 16.7 0 2 0.0 1 2 50.0 2 11 13 5 2 1 0 2 -2
+p356
+aVMarreese Speights GSW 02/11/2015 GSW @ MIN W 15 8 4 10 40.0 0 1 0.0 0 0 - 0 5 5 0 0 0 0 3 7
+p357
+aVShaun Livingston GSW 02/11/2015 GSW @ MIN W 13 4 2 4 50.0 0 0 - 0 0 - 0 3 3 4 0 1 1 0 3
+p358
+aVStephen Curry GSW 02/11/2015 GSW @ MIN W 36 25 9 23 39.1 2 10 20.0 5 5 100.0 2 3 5 8 3 0 3 1 0
+p359
+aVAndre Iguodala GSW 02/11/2015 GSW @ MIN W 24 8 4 4 100.0 0 0 - 0 0 - 0 1 1 4 0 1 2 4 0
+p360
+aVLeandro Barbosa GSW 02/11/2015 GSW @ MIN W 19 10 5 10 50.0 0 4 0.0 0 0 - 1 0 1 1 1 0 0 1 7
+p361
+aVHarrison Barnes GSW 02/11/2015 GSW @ MIN W 23 8 3 7 42.9 2 3 66.7 0 0 - 2 5 7 1 0 0 2 2 3
+p362
+aVAndre Iguodala GSW 02/09/2015 GSW @ PHI W 30 13 5 11 45.5 1 5 20.0 2 2 100.0 0 5 5 2 4 0 2 1 3
+p363
+aVDavid Lee GSW 02/09/2015 GSW @ PHI W 19 0 0 5 0.0 0 0 - 0 0 - 0 3 3 5 3 0 1 1 1
+p364
+aVHarrison Barnes GSW 02/09/2015 GSW @ PHI W 22 9 4 10 40.0 1 4 25.0 0 0 - 1 2 3 0 0 1 1 0 -2
+p365
+aVLeandro Barbosa GSW 02/09/2015 GSW @ PHI W 20 16 5 7 71.4 1 1 100.0 5 7 71.4 2 4 6 2 0 1 2 1 2
+p366
+aVKlay Thompson GSW 02/09/2015 GSW @ PHI W 29 13 4 14 28.6 1 6 16.7 4 4 100.0 0 2 2 3 1 0 3 1 1
+p367
+aVShaun Livingston GSW 02/09/2015 GSW @ PHI W 16 0 0 2 0.0 0 0 - 0 0 - 0 3 3 3 2 0 2 1 6
+p368
+aVAndrew Bogut GSW 02/09/2015 GSW @ PHI W 30 4 2 2 100.0 0 0 - 0 2 0.0 2 7 9 3 1 2 0 2 7
+p369
+aVStephen Curry GSW 02/09/2015 GSW @ PHI W 32 20 7 20 35.0 3 12 25.0 3 4 75.0 0 5 5 6 3 0 1 2 0
+p370
+aVDraymond Green GSW 02/09/2015 GSW @ PHI W 27 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 2 1 1 1 3 4
+p371
+aVMarreese Speights GSW 02/09/2015 GSW @ PHI W 15 10 5 8 62.5 0 0 - 0 0 - 0 1 1 0 0 0 1 2 3
+p372
+aVAndre Iguodala GSW 02/07/2015 GSW @ NYK W 25 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 2 1 1 2 2 11
+p373
+aVMarreese Speights GSW 02/07/2015 GSW @ NYK W 16 10 3 8 37.5 0 0 - 4 4 100.0 1 1 2 0 0 0 1 2 -6
+p374
+aVDraymond Green GSW 02/07/2015 GSW @ NYK W 34 20 8 12 66.7 3 5 60.0 1 1 100.0 3 10 13 3 1 2 2 1 23
+p375
+aVShaun Livingston GSW 02/07/2015 GSW @ NYK W 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 0 2 2 -7
+p376
+aVStephen Curry GSW 02/07/2015 GSW @ NYK W 31 22 8 18 44.4 5 9 55.6 1 3 33.3 2 4 6 0 2 0 3 0 21
+p377
+aVLeandro Barbosa GSW 02/07/2015 GSW @ NYK W 13 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 3 -5
+p378
+aVDavid Lee GSW 02/07/2015 GSW @ NYK W 22 10 2 3 66.7 0 0 - 6 6 100.0 2 8 10 5 0 0 0 3 3
+p379
+aVAndrew Bogut GSW 02/07/2015 GSW @ NYK W 18 7 3 4 75.0 0 0 - 1 2 50.0 2 5 7 3 0 2 0 4 3
+p380
+aVHarrison Barnes GSW 02/07/2015 GSW @ NYK W 26 12 4 5 80.0 1 1 100.0 3 4 75.0 0 1 1 4 2 0 1 2 12
+p381
+aVKlay Thompson GSW 02/07/2015 GSW @ NYK W 38 16 5 22 22.7 2 6 33.3 4 4 100.0 1 3 4 2 0 0 2 0 15
+p382
+aVMarreese Speights GSW 02/06/2015 GSW @ ATL L 13 6 3 8 37.5 0 1 0.0 0 0 - 0 5 5 0 0 0 1 3 -3
+p383
+aVShaun Livingston GSW 02/06/2015 GSW @ ATL L 12 6 3 4 75.0 0 0 - 0 0 - 3 1 4 3 0 0 1 0 -3
+p384
+aVAndrew Bogut GSW 02/06/2015 GSW @ ATL L 22 5 2 4 50.0 0 0 - 1 2 50.0 1 6 7 1 0 3 4 2 -1
+p385
+aVDavid Lee GSW 02/06/2015 GSW @ ATL L 13 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 0 0 1 3 -11
+p386
+aVAndre Iguodala GSW 02/06/2015 GSW @ ATL L 30 8 3 8 37.5 2 6 33.3 0 0 - 1 0 1 3 1 1 0 1 -6
+p387
+aVHarrison Barnes GSW 02/06/2015 GSW @ ATL L 30 12 6 12 50.0 0 3 0.0 0 0 - 1 2 3 2 1 0 1 5 -6
+p388
+aVStephen Curry GSW 02/06/2015 GSW @ ATL L 36 26 8 19 42.1 4 9 44.4 6 7 85.7 0 2 2 9 2 2 1 3 -5
+p389
+aVLeandro Barbosa GSW 02/06/2015 GSW @ ATL L 12 8 3 10 30.0 2 4 50.0 0 0 - 0 1 1 1 0 0 0 0 -10
+p390
+aVKlay Thompson GSW 02/06/2015 GSW @ ATL L 36 29 11 20 55.0 4 8 50.0 3 4 75.0 0 4 4 5 2 1 3 2 2
+p391
+aVDraymond Green GSW 02/06/2015 GSW @ ATL L 35 12 6 14 42.9 0 2 0.0 0 2 0.0 10 10 20 6 1 0 2 5 5
+p392
+aVJames Michael McAdoo GSW 02/06/2015 GSW @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p393
+aVShaun Livingston GSW 02/04/2015 GSW vs. DAL W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 1 12
+p394
+aVDraymond Green GSW 02/04/2015 GSW vs. DAL W 40 2 1 6 16.7 0 4 0.0 0 0 - 3 7 10 6 1 3 1 5 17
+p395
+aVKlay Thompson GSW 02/04/2015 GSW vs. DAL W 34 18 7 17 41.2 4 10 40.0 0 0 - 0 0 0 5 2 0 3 0 8
+p396
+aVMarreese Speights GSW 02/04/2015 GSW vs. DAL W 14 14 5 10 50.0 0 0 - 4 4 100.0 2 4 6 1 0 1 0 3 10
+p397
+aVAndre Iguodala GSW 02/04/2015 GSW vs. DAL W 30 7 3 7 42.9 1 3 33.3 0 0 - 1 6 7 5 1 1 0 2 22
+p398
+aVLeandro Barbosa GSW 02/04/2015 GSW vs. DAL W 14 14 5 8 62.5 3 4 75.0 1 4 25.0 0 3 3 0 0 0 2 2 6
+p399
+aVDavid Lee GSW 02/04/2015 GSW vs. DAL W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 0
+p400
+aVAndrew Bogut GSW 02/04/2015 GSW vs. DAL W 22 6 3 3 100.0 0 0 - 0 0 - 3 5 8 2 0 0 1 4 -8
+p401
+aVStephen Curry GSW 02/04/2015 GSW vs. DAL W 37 51 16 26 61.5 10 16 62.5 9 11 81.8 0 4 4 4 1 0 3 3 0
+p402
+aVHarrison Barnes GSW 02/04/2015 GSW vs. DAL W 30 12 4 5 80.0 1 1 100.0 3 4 75.0 1 5 6 3 0 0 2 1 3
+p403
+aVDraymond Green GSW 02/03/2015 GSW @ SAC W 25 8 3 6 50.0 1 1 100.0 1 2 50.0 1 5 6 4 4 1 1 0 -6
+p404
+aVStephen Curry GSW 02/03/2015 GSW @ SAC W 29 23 6 15 40.0 2 6 33.3 9 10 90.0 0 5 5 9 3 0 2 2 7
+p405
+aVFestus Ezeli GSW 02/03/2015 GSW @ SAC W 8 2 1 2 50.0 0 0 - 0 2 0.0 4 1 5 0 0 0 1 2 0
+p406
+aVHarrison Barnes GSW 02/03/2015 GSW @ SAC W 24 9 4 8 50.0 1 2 50.0 0 0 - 1 5 6 0 0 0 1 2 -3
+p407
+aVKlay Thompson GSW 02/03/2015 GSW @ SAC W 24 14 6 12 50.0 2 5 40.0 0 0 - 0 1 1 1 1 0 2 0 -2
+p408
+aVAndre Iguodala GSW 02/03/2015 GSW @ SAC W 24 17 6 8 75.0 2 3 66.7 3 4 75.0 0 4 4 1 0 0 2 0 28
+p409
+aVShaun Livingston GSW 02/03/2015 GSW @ SAC W 19 5 2 5 40.0 0 0 - 1 1 100.0 1 0 1 5 0 0 0 2 18
+p410
+aVJustin Holiday GSW 02/03/2015 GSW @ SAC W 2 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p411
+aVDavid Lee GSW 02/03/2015 GSW @ SAC W 23 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 1 2 2 1 4 31
+p412
+aVMarreese Speights GSW 02/03/2015 GSW @ SAC W 21 17 8 13 61.5 0 0 - 1 2 50.0 4 4 8 3 0 0 0 6 15
+p413
+aVAndrew Bogut GSW 02/03/2015 GSW @ SAC W 19 6 3 3 100.0 0 0 - 0 1 0.0 0 5 5 4 0 2 1 4 10
+p414
+aVLeandro Barbosa GSW 02/03/2015 GSW @ SAC W 22 12 4 9 44.4 2 4 50.0 2 2 100.0 1 2 3 5 3 0 0 1 26
+p415
+aVStephen Curry GSW 01/31/2015 GSW vs. PHX W 37 25 9 23 39.1 4 9 44.4 3 3 100.0 1 3 4 7 2 1 1 2 23
+p416
+aVKlay Thompson GSW 01/31/2015 GSW vs. PHX W 33 22 9 17 52.9 3 9 33.3 1 1 100.0 0 3 3 4 0 2 5 2 19
+p417
+aVJustin Holiday GSW 01/31/2015 GSW vs. PHX W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -3
+p418
+aVShaun Livingston GSW 01/31/2015 GSW vs. PHX W 11 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -4
+p419
+aVHarrison Barnes GSW 01/31/2015 GSW vs. PHX W 36 13 5 7 71.4 2 2 100.0 1 2 50.0 1 7 8 3 1 2 1 1 13
+p420
+aVLeandro Barbosa GSW 01/31/2015 GSW vs. PHX W 13 14 7 11 63.6 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 7
+p421
+aVAndre Iguodala GSW 01/31/2015 GSW vs. PHX W 24 12 4 9 44.4 1 5 20.0 3 4 75.0 0 4 4 2 2 1 0 2 6
+p422
+aVAndrew Bogut GSW 01/31/2015 GSW vs. PHX W 22 4 2 5 40.0 0 0 - 0 0 - 2 5 7 3 3 0 2 3 12
+p423
+aVDavid Lee GSW 01/31/2015 GSW vs. PHX W 22 5 1 3 33.3 0 0 - 3 4 75.0 1 2 3 3 2 0 0 1 0
+p424
+aVOgnjen Kuzmic GSW 01/31/2015 GSW vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p425
+aVDraymond Green GSW 01/31/2015 GSW vs. PHX W 37 9 2 9 22.2 2 5 40.0 3 4 75.0 3 8 11 4 1 2 3 4 18
+p426
+aVKlay Thompson GSW 01/30/2015 GSW @ UTA L 31 12 5 10 50.0 0 3 0.0 2 2 100.0 0 2 2 0 0 0 1 2 -14
+p427
+aVHarrison Barnes GSW 01/30/2015 GSW @ UTA L 20 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 1 0 1 2 -14
+p428
+aVDraymond Green GSW 01/30/2015 GSW @ UTA L 24 7 2 6 33.3 0 2 0.0 3 4 75.0 1 4 5 1 2 1 2 4 -8
+p429
+aVJustin Holiday GSW 01/30/2015 GSW @ UTA L 10 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 1 11
+p430
+aVLeandro Barbosa GSW 01/30/2015 GSW @ UTA L 13 15 6 8 75.0 3 4 75.0 0 0 - 0 1 1 0 0 0 1 2 -1
+p431
+aVDavid Lee GSW 01/30/2015 GSW @ UTA L 25 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 3 0 1 0 1 -2
+p432
+aVShaun Livingston GSW 01/30/2015 GSW @ UTA L 19 6 3 7 42.9 0 0 - 0 0 - 0 5 5 3 0 0 0 1 -2
+p433
+aVStephen Curry GSW 01/30/2015 GSW @ UTA L 34 32 10 22 45.5 5 11 45.5 7 9 77.8 1 6 7 6 3 0 2 1 -11
+p434
+aVAndre Iguodala GSW 01/30/2015 GSW @ UTA L 21 6 2 7 28.6 0 3 0.0 2 4 50.0 1 2 3 3 2 0 1 1 3
+p435
+aVAndrew Bogut GSW 01/30/2015 GSW @ UTA L 23 4 2 3 66.7 0 0 - 0 0 - 2 2 4 4 0 0 1 3 -17
+p436
+aVMarreese Speights GSW 01/30/2015 GSW @ UTA L 17 5 1 7 14.3 0 1 0.0 3 4 75.0 3 5 8 0 0 0 2 1 5
+p437
+aVJustin Holiday GSW 01/27/2015 GSW vs. CHI L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 4
+p438
+aVStephen Curry GSW 01/27/2015 GSW vs. CHI L 43 21 9 23 39.1 2 9 22.2 1 1 100.0 0 4 4 9 3 0 3 3 -3
+p439
+aVKlay Thompson GSW 01/27/2015 GSW vs. CHI L 44 30 13 27 48.1 4 10 40.0 0 1 0.0 3 7 10 2 1 0 4 2 -6
+p440
+aVDavid Lee GSW 01/27/2015 GSW vs. CHI L 30 24 10 17 58.8 0 0 - 4 4 100.0 4 5 9 6 0 0 0 4 -5
+p441
+aVJames Michael McAdoo GSW 01/27/2015 GSW vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p442
+aVShaun Livingston GSW 01/27/2015 GSW vs. CHI L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 0 0 0 1
+p443
+aVDraymond Green GSW 01/27/2015 GSW vs. CHI L 39 10 4 14 28.6 1 6 16.7 1 2 50.0 4 5 9 6 1 2 2 2 -1
+p444
+aVMarreese Speights GSW 01/27/2015 GSW vs. CHI L 21 10 5 14 35.7 0 0 - 0 0 - 3 5 8 0 0 0 2 1 3
+p445
+aVHarrison Barnes GSW 01/27/2015 GSW vs. CHI L 40 12 5 9 55.6 2 4 50.0 0 2 0.0 1 4 5 2 1 0 1 1 -1
+p446
+aVAndre Iguodala GSW 01/27/2015 GSW vs. CHI L 27 0 0 4 0.0 0 3 0.0 0 2 0.0 0 1 1 3 3 0 1 0 -2
+p447
+aVJustin Holiday GSW 01/25/2015 GSW vs. BOS W 15 9 3 5 60.0 0 1 0.0 3 4 75.0 0 1 1 0 2 0 0 1 2
+p448
+aVShaun Livingston GSW 01/25/2015 GSW vs. BOS W 15 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 0 1 1 1 -3
+p449
+aVAndre Iguodala GSW 01/25/2015 GSW vs. BOS W 29 8 3 4 75.0 2 2 100.0 0 0 - 0 3 3 1 1 0 0 2 -7
+p450
+aVMarreese Speights GSW 01/25/2015 GSW vs. BOS W 13 2 1 7 14.3 0 0 - 0 0 - 1 4 5 0 0 0 1 3 1
+p451
+aVStephen Curry GSW 01/25/2015 GSW vs. BOS W 33 22 6 16 37.5 1 5 20.0 9 9 100.0 0 4 4 11 2 0 3 1 6
+p452
+aVAndrew Bogut GSW 01/25/2015 GSW vs. BOS W 28 13 6 10 60.0 0 0 - 1 1 100.0 4 9 13 4 1 1 2 2 11
+p453
+aVKlay Thompson GSW 01/25/2015 GSW vs. BOS W 32 31 11 19 57.9 3 7 42.9 6 8 75.0 1 1 2 1 0 0 1 4 1
+p454
+aVHarrison Barnes GSW 01/25/2015 GSW vs. BOS W 25 9 4 6 66.7 1 2 50.0 0 0 - 2 2 4 1 0 0 1 0 1
+p455
+aVDavid Lee GSW 01/25/2015 GSW vs. BOS W 16 2 1 4 25.0 0 0 - 0 0 - 1 5 6 7 0 0 3 1 3
+p456
+aVDraymond Green GSW 01/25/2015 GSW vs. BOS W 32 14 5 12 41.7 1 6 16.7 3 3 100.0 0 9 9 2 3 1 1 5 0
+p457
+aVJames Michael McAdoo GSW 01/23/2015 GSW vs. SAC W 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 -9
+p458
+aVKlay Thompson GSW 01/23/2015 GSW vs. SAC W 33 52 16 25 64.0 11 15 73.3 9 10 90.0 0 2 2 5 4 2 4 3 38
+p459
+aVAndrew Bogut GSW 01/23/2015 GSW vs. SAC W 24 8 4 6 66.7 0 0 - 0 0 - 0 5 5 3 0 2 0 2 12
+p460
+aVShaun Livingston GSW 01/23/2015 GSW vs. SAC W 19 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 7 1 1 2 2 5
+p461
+aVHarrison Barnes GSW 01/23/2015 GSW vs. SAC W 23 5 2 7 28.6 0 4 0.0 1 2 50.0 2 3 5 1 1 0 1 1 10
+p462
+aVJustin Holiday GSW 01/23/2015 GSW vs. SAC W 25 5 2 8 25.0 1 5 20.0 0 0 - 2 2 4 2 0 1 0 1 16
+p463
+aVStephen Curry GSW 01/23/2015 GSW vs. SAC W 29 10 3 11 27.3 2 7 28.6 2 2 100.0 1 3 4 11 2 0 6 0 20
+p464
+aVMarreese Speights GSW 01/23/2015 GSW vs. SAC W 21 19 8 13 61.5 0 0 - 3 3 100.0 2 4 6 1 0 1 1 5 -2
+p465
+aVDavid Lee GSW 01/23/2015 GSW vs. SAC W 18 5 2 7 28.6 0 0 - 1 1 100.0 3 6 9 0 2 0 1 3 23
+p466
+aVDraymond Green GSW 01/23/2015 GSW vs. SAC W 27 11 4 7 57.1 3 6 50.0 0 0 - 1 7 8 2 2 0 1 4 26
+p467
+aVBrandon Rush GSW 01/23/2015 GSW vs. SAC W 16 0 0 3 0.0 0 3 0.0 0 0 - 1 2 3 0 0 1 1 0 -14
+p468
+aVKlay Thompson GSW 01/21/2015 GSW vs. HOU W 31 27 10 21 47.6 3 8 37.5 4 4 100.0 3 0 3 5 4 0 0 2 29
+p469
+aVAndre Iguodala GSW 01/21/2015 GSW vs. HOU W 27 7 3 9 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 3
+p470
+aVStephen Curry GSW 01/21/2015 GSW vs. HOU W 34 22 7 12 58.3 3 5 60.0 5 6 83.3 2 1 3 10 1 0 6 3 23
+p471
+aVLeandro Barbosa GSW 01/21/2015 GSW vs. HOU W 13 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -11
+p472
+aVJustin Holiday GSW 01/21/2015 GSW vs. HOU W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 1 0 -5
+p473
+aVBrandon Rush GSW 01/21/2015 GSW vs. HOU W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p474
+aVHarrison Barnes GSW 01/21/2015 GSW vs. HOU W 28 11 4 8 50.0 2 4 50.0 1 1 100.0 2 3 5 1 0 0 1 5 3
+p475
+aVAndrew Bogut GSW 01/21/2015 GSW vs. HOU W 22 9 4 6 66.7 0 0 - 1 1 100.0 2 8 10 1 1 5 2 1 32
+p476
+aVMarreese Speights GSW 01/21/2015 GSW vs. HOU W 8 9 3 5 60.0 1 1 100.0 2 2 100.0 1 1 2 0 0 1 2 3 -13
+p477
+aVDraymond Green GSW 01/21/2015 GSW vs. HOU W 33 18 7 12 58.3 3 5 60.0 1 2 50.0 1 5 6 2 1 1 1 5 32
+p478
+aVShaun Livingston GSW 01/21/2015 GSW vs. HOU W 14 8 4 5 80.0 0 0 - 0 0 - 0 1 1 2 2 1 0 0 -10
+p479
+aVDavid Lee GSW 01/21/2015 GSW vs. HOU W 20 9 4 9 44.4 0 0 - 1 2 50.0 5 5 10 3 3 1 2 2 -14
+p480
+aVAndrew Bogut GSW 01/19/2015 GSW vs. DEN W 22 3 1 4 25.0 0 0 - 1 2 50.0 1 7 8 3 0 1 2 1 18
+p481
+aVMarreese Speights GSW 01/19/2015 GSW vs. DEN W 13 9 3 6 50.0 0 0 - 3 3 100.0 0 2 2 0 0 0 3 2 10
+p482
+aVBrandon Rush GSW 01/19/2015 GSW vs. DEN W 11 4 1 1 100.0 0 0 - 2 3 66.7 0 4 4 0 0 1 1 1 14
+p483
+aVShaun Livingston GSW 01/19/2015 GSW vs. DEN W 23 12 6 6 100.0 0 0 - 0 0 - 0 1 1 3 3 0 0 0 25
+p484
+aVAndre Iguodala GSW 01/19/2015 GSW vs. DEN W 17 7 3 6 50.0 1 2 50.0 0 0 - 0 5 5 1 0 0 2 0 11
+p485
+aVDraymond Green GSW 01/19/2015 GSW vs. DEN W 23 6 2 4 50.0 2 3 66.7 0 0 - 1 7 8 2 0 0 0 3 21
+p486
+aVDavid Lee GSW 01/19/2015 GSW vs. DEN W 19 6 2 6 33.3 0 0 - 2 4 50.0 1 9 10 3 1 1 2 1 18
+p487
+aVKlay Thompson GSW 01/19/2015 GSW vs. DEN W 23 22 7 13 53.8 4 8 50.0 4 4 100.0 0 3 3 3 1 0 0 0 20
+p488
+aVLeandro Barbosa GSW 01/19/2015 GSW vs. DEN W 16 12 4 5 80.0 2 2 100.0 2 2 100.0 0 1 1 2 1 0 1 1 10
+p489
+aVStephen Curry GSW 01/19/2015 GSW vs. DEN W 25 20 7 13 53.8 2 5 40.0 4 4 100.0 1 0 1 8 1 2 1 2 18
+p490
+aVHarrison Barnes GSW 01/19/2015 GSW vs. DEN W 20 4 2 7 28.6 0 2 0.0 0 0 - 1 4 5 3 2 0 0 1 18
+p491
+aVJames Michael McAdoo GSW 01/19/2015 GSW vs. DEN W 13 11 4 5 80.0 0 0 - 3 5 60.0 2 3 5 0 0 1 0 2 15
+p492
+aVJustin Holiday GSW 01/19/2015 GSW vs. DEN W 14 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 2 1 0 1 0 17
+p493
+aVBrandon Rush GSW 01/17/2015 GSW @ HOU W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p494
+aVStephen Curry GSW 01/17/2015 GSW @ HOU W 33 27 9 18 50.0 2 8 25.0 7 8 87.5 3 4 7 11 3 1 2 0 25
+p495
+aVMarreese Speights GSW 01/17/2015 GSW @ HOU W 20 15 6 12 50.0 0 0 - 3 4 75.0 0 5 5 3 0 1 0 4 14
+p496
+aVDraymond Green GSW 01/17/2015 GSW @ HOU W 21 11 3 6 50.0 1 4 25.0 4 6 66.7 0 4 4 2 3 1 1 3 8
+p497
+aVHarrison Barnes GSW 01/17/2015 GSW @ HOU W 24 10 4 7 57.1 2 4 50.0 0 0 - 3 3 6 0 1 0 1 3 11
+p498
+aVLeandro Barbosa GSW 01/17/2015 GSW @ HOU W 4 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p499
+aVAndrew Bogut GSW 01/17/2015 GSW @ HOU W 20 2 1 2 50.0 0 0 - 0 0 - 1 5 6 2 0 2 3 3 12
+p500
+aVShaun Livingston GSW 01/17/2015 GSW @ HOU W 15 0 0 5 0.0 0 0 - 0 0 - 0 3 3 2 0 0 0 1 0
+p501
+aVAndre Iguodala GSW 01/17/2015 GSW @ HOU W 27 9 4 5 80.0 1 1 100.0 0 1 0.0 1 2 3 4 2 0 5 3 22
+p502
+aVDavid Lee GSW 01/17/2015 GSW @ HOU W 25 18 8 13 61.5 0 0 - 2 5 40.0 4 4 8 1 0 1 1 3 8
+p503
+aVKlay Thompson GSW 01/17/2015 GSW @ HOU W 31 27 9 15 60.0 3 5 60.0 6 9 66.7 0 5 5 2 1 5 1 0 18
+p504
+aVJustin Holiday GSW 01/17/2015 GSW @ HOU W 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 1 0 0 1 7
+p505
+aVBrandon Rush GSW 01/16/2015 GSW @ OKC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p506
+aVShaun Livingston GSW 01/16/2015 GSW @ OKC L 21 6 3 3 100.0 0 0 - 0 0 - 0 2 2 4 0 0 0 0 -5
+p507
+aVHarrison Barnes GSW 01/16/2015 GSW @ OKC L 40 18 6 13 46.2 4 7 57.1 2 2 100.0 3 3 6 2 1 0 0 0 -5
+p508
+aVMarreese Speights GSW 01/16/2015 GSW @ OKC L 28 20 9 16 56.3 0 0 - 2 2 100.0 2 5 7 4 1 0 2 4 -8
+p509
+aVKlay Thompson GSW 01/16/2015 GSW @ OKC L 33 32 12 22 54.5 3 6 50.0 5 6 83.3 2 2 4 4 0 0 3 1 -14
+p510
+aVJustin Holiday GSW 01/16/2015 GSW @ OKC L 12 0 0 5 0.0 0 3 0.0 0 0 - 0 3 3 0 2 0 0 1 1
+p511
+aVStephen Curry GSW 01/16/2015 GSW @ OKC L 31 19 6 13 46.2 2 6 33.3 5 5 100.0 0 3 3 6 2 0 6 2 -4
+p512
+aVLeandro Barbosa GSW 01/16/2015 GSW @ OKC L 20 6 1 7 14.3 0 1 0.0 4 4 100.0 1 2 3 1 0 0 0 1 -7
+p513
+aVDraymond Green GSW 01/16/2015 GSW @ OKC L 30 5 2 6 33.3 0 1 0.0 1 3 33.3 4 5 9 2 4 1 1 3 -12
+p514
+aVDavid Lee GSW 01/16/2015 GSW @ OKC L 22 9 3 7 42.9 0 0 - 3 6 50.0 1 5 6 1 0 1 2 2 -7
+p515
+aVHarrison Barnes GSW 01/14/2015 GSW vs. MIA W 21 2 1 6 16.7 0 2 0.0 0 0 - 3 2 5 2 0 1 1 1 8
+p516
+aVLeandro Barbosa GSW 01/14/2015 GSW vs. MIA W 18 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 2 1 0 1 1 11
+p517
+aVKlay Thompson GSW 01/14/2015 GSW vs. MIA W 33 19 7 17 41.2 3 9 33.3 2 2 100.0 0 4 4 1 1 2 1 1 3
+p518
+aVDavid Lee GSW 01/14/2015 GSW vs. MIA W 23 8 3 5 60.0 0 0 - 2 2 100.0 2 4 6 5 0 0 0 1 11
+p519
+aVMarreese Speights GSW 01/14/2015 GSW vs. MIA W 20 8 3 9 33.3 0 0 - 2 2 100.0 3 3 6 2 0 0 1 3 16
+p520
+aVDraymond Green GSW 01/14/2015 GSW vs. MIA W 25 6 2 7 28.6 0 2 0.0 2 3 66.7 0 3 3 3 0 0 2 5 4
+p521
+aVAndrew Bogut GSW 01/14/2015 GSW vs. MIA W 25 4 0 1 0.0 0 0 - 4 4 100.0 0 5 5 2 1 0 1 4 -4
+p522
+aVAndre Iguodala GSW 01/14/2015 GSW vs. MIA W 30 9 4 5 80.0 1 2 50.0 0 0 - 0 0 0 7 0 1 3 3 10
+p523
+aVStephen Curry GSW 01/14/2015 GSW vs. MIA W 32 32 11 19 57.9 7 10 70.0 3 5 60.0 2 3 5 3 2 0 3 1 11
+p524
+aVJustin Holiday GSW 01/14/2015 GSW vs. MIA W 13 7 3 5 60.0 1 2 50.0 0 1 0.0 0 0 0 2 0 1 0 1 5
+p525
+aVHarrison Barnes GSW 01/13/2015 GSW @ UTA W 23 12 5 8 62.5 2 4 50.0 0 0 - 0 2 2 1 0 0 0 0 15
+p526
+aVAndrew Bogut GSW 01/13/2015 GSW @ UTA W 26 9 4 5 80.0 0 0 - 1 1 100.0 1 7 8 3 0 1 2 4 10
+p527
+aVDavid Lee GSW 01/13/2015 GSW @ UTA W 24 10 4 8 50.0 0 0 - 2 2 100.0 2 6 8 4 2 2 0 2 -5
+p528
+aVAndre Iguodala GSW 01/13/2015 GSW @ UTA W 25 4 2 4 50.0 0 0 - 0 0 - 0 2 2 5 1 0 1 1 -4
+p529
+aVLeandro Barbosa GSW 01/13/2015 GSW @ UTA W 23 8 3 13 23.1 0 2 0.0 2 3 66.7 1 0 1 2 1 0 1 2 -2
+p530
+aVDraymond Green GSW 01/13/2015 GSW @ UTA W 24 15 6 9 66.7 3 4 75.0 0 0 - 0 1 1 3 1 1 1 0 16
+p531
+aVKlay Thompson GSW 01/13/2015 GSW @ UTA W 27 12 5 8 62.5 2 2 100.0 0 0 - 0 4 4 3 0 0 1 1 12
+p532
+aVJustin Holiday GSW 01/13/2015 GSW @ UTA W 17 9 3 10 30.0 1 3 33.3 2 2 100.0 1 1 2 0 5 0 0 0 -5
+p533
+aVStephen Curry GSW 01/13/2015 GSW @ UTA W 29 27 10 16 62.5 4 9 44.4 3 3 100.0 0 2 2 11 0 0 2 2 17
+p534
+aVMarreese Speights GSW 01/13/2015 GSW @ UTA W 22 10 4 10 40.0 1 1 100.0 1 2 50.0 1 0 1 0 0 1 1 4 1
+p535
+aVDavid Lee GSW 01/09/2015 GSW vs. CLE W 17 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 1 1 1 3 0 10
+p536
+aVShaun Livingston GSW 01/09/2015 GSW vs. CLE W 13 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 3 0 0 2 1 8
+p537
+aVAndre Iguodala GSW 01/09/2015 GSW vs. CLE W 25 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 5 1 0 2 1 11
+p538
+aVKlay Thompson GSW 01/09/2015 GSW vs. CLE W 30 24 8 17 47.1 4 10 40.0 4 4 100.0 1 3 4 2 2 1 1 3 8
+p539
+aVStephen Curry GSW 01/09/2015 GSW vs. CLE W 35 23 8 15 53.3 3 8 37.5 4 4 100.0 0 1 1 10 2 0 1 1 10
+p540
+aVAndrew Bogut GSW 01/09/2015 GSW vs. CLE W 20 4 2 3 66.7 0 0 - 0 0 - 0 5 5 3 0 1 0 4 15
+p541
+aVMarreese Speights GSW 01/09/2015 GSW vs. CLE W 28 12 5 13 38.5 0 1 0.0 2 2 100.0 4 4 8 0 1 2 3 6 3
+p542
+aVJustin Holiday GSW 01/09/2015 GSW vs. CLE W 18 14 6 8 75.0 1 2 50.0 1 1 100.0 1 1 2 1 1 0 0 1 10
+p543
+aVHarrison Barnes GSW 01/09/2015 GSW vs. CLE W 23 11 5 7 71.4 1 1 100.0 0 0 - 1 1 2 2 0 0 0 1 7
+p544
+aVDraymond Green GSW 01/09/2015 GSW vs. CLE W 31 10 5 13 38.5 0 6 0.0 0 0 - 1 10 11 8 1 3 1 2 8
+p545
+aVKlay Thompson GSW 01/07/2015 GSW vs. IND W 40 40 14 25 56.0 6 11 54.5 6 6 100.0 0 4 4 3 1 1 2 1 20
+p546
+aVAndre Iguodala GSW 01/07/2015 GSW vs. IND W 32 5 1 5 20.0 0 3 0.0 3 4 75.0 2 0 2 3 2 0 0 1 -5
+p547
+aVShaun Livingston GSW 01/07/2015 GSW vs. IND W 13 2 1 3 33.3 0 0 - 0 1 0.0 0 1 1 4 0 0 0 2 3
+p548
+aVJustin Holiday GSW 01/07/2015 GSW vs. IND W 8 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 0 0 0 0 0 -5
+p549
+aVStephen Curry GSW 01/07/2015 GSW vs. IND W 35 21 8 17 47.1 4 8 50.0 1 1 100.0 0 3 3 15 4 0 5 5 12
+p550
+aVDavid Lee GSW 01/07/2015 GSW vs. IND W 17 13 6 10 60.0 0 0 - 1 2 50.0 0 3 3 1 1 0 2 4 -4
+p551
+aVMarreese Speights GSW 01/07/2015 GSW vs. IND W 26 18 8 12 66.7 0 0 - 2 2 100.0 1 2 3 0 0 0 1 3 16
+p552
+aVHarrison Barnes GSW 01/07/2015 GSW vs. IND W 24 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 13
+p553
+aVDraymond Green GSW 01/07/2015 GSW vs. IND W 30 7 2 8 25.0 1 5 20.0 2 4 50.0 3 6 9 3 3 2 1 5 23
+p554
+aVAndrew Bogut GSW 01/07/2015 GSW vs. IND W 15 4 2 4 50.0 0 0 - 0 0 - 2 6 8 0 0 0 0 1 2
+p555
+aVAndre Iguodala GSW 01/05/2015 GSW vs. OKC W 34 8 3 7 42.9 1 4 25.0 1 1 100.0 0 4 4 6 0 0 0 0 19
+p556
+aVLeandro Barbosa GSW 01/05/2015 GSW vs. OKC W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p557
+aVHarrison Barnes GSW 01/05/2015 GSW vs. OKC W 36 23 8 14 57.1 5 5 100.0 2 4 50.0 2 5 7 0 0 0 0 3 23
+p558
+aVJustin Holiday GSW 01/05/2015 GSW vs. OKC W 28 12 4 6 66.7 2 3 66.7 2 4 50.0 0 2 2 3 2 0 2 3 13
+p559
+aVKlay Thompson GSW 01/05/2015 GSW vs. OKC W 19 19 6 12 50.0 3 5 60.0 4 5 80.0 0 3 3 0 1 1 3 4 10
+p560
+aVDavid Lee GSW 01/05/2015 GSW vs. OKC W 21 8 4 10 40.0 0 0 - 0 0 - 3 5 8 2 0 0 1 2 5
+p561
+aVDraymond Green GSW 01/05/2015 GSW vs. OKC W 29 11 4 10 40.0 3 7 42.9 0 4 0.0 2 11 13 5 1 3 1 3 26
+p562
+aVStephen Curry GSW 01/05/2015 GSW vs. OKC W 31 19 7 14 50.0 1 4 25.0 4 4 100.0 0 9 9 6 4 0 2 2 15
+p563
+aVMarreese Speights GSW 01/05/2015 GSW vs. OKC W 17 6 1 8 12.5 0 0 - 4 6 66.7 2 4 6 0 0 0 1 3 3
+p564
+aVOgnjen Kuzmic GSW 01/05/2015 GSW vs. OKC W 4 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 0 1
+p565
+aVShaun Livingston GSW 01/05/2015 GSW vs. OKC W 17 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 3 0 0 2 2 11
+p566
+aVMarreese Speights GSW 01/02/2015 GSW vs. TOR W 25 26 12 19 63.2 0 1 0.0 2 2 100.0 4 4 8 0 0 0 1 2 23
+p567
+aVJustin Holiday GSW 01/02/2015 GSW vs. TOR W 19 9 3 5 60.0 1 2 50.0 2 2 100.0 0 2 2 2 2 0 1 2 4
+p568
+aVStephen Curry GSW 01/02/2015 GSW vs. TOR W 34 32 10 18 55.6 5 11 45.5 7 7 100.0 2 3 5 12 1 0 0 3 25
+p569
+aVShaun Livingston GSW 01/02/2015 GSW vs. TOR W 17 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -13
+p570
+aVDavid Lee GSW 01/02/2015 GSW vs. TOR W 23 12 6 10 60.0 0 0 - 0 0 - 2 5 7 0 1 2 1 1 -2
+p571
+aVKlay Thompson GSW 01/02/2015 GSW vs. TOR W 29 20 8 13 61.5 4 6 66.7 0 0 - 0 2 2 1 2 3 3 4 19
+p572
+aVHarrison Barnes GSW 01/02/2015 GSW vs. TOR W 24 2 0 3 0.0 0 1 0.0 2 2 100.0 1 4 5 2 0 0 0 1 26
+p573
+aVAndre Iguodala GSW 01/02/2015 GSW vs. TOR W 29 3 1 5 20.0 0 1 0.0 1 5 20.0 2 3 5 5 0 0 0 1 2
+p574
+aVDraymond Green GSW 01/02/2015 GSW vs. TOR W 40 16 6 12 50.0 2 6 33.3 2 2 100.0 3 8 11 13 2 2 2 4 23
+p575
+aVOgnjen Kuzmic GSW 01/02/2015 GSW vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p576
+aVStephen Curry GSW 12/30/2014 GSW vs. PHI W 27 13 4 7 57.1 3 6 50.0 2 2 100.0 0 3 3 9 3 0 3 3 28
+p577
+aVBrandon Rush GSW 12/30/2014 GSW vs. PHI W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 3 1 1 1 1 0
+p578
+aVShaun Livingston GSW 12/30/2014 GSW vs. PHI W 17 4 2 2 100.0 0 0 - 0 0 - 0 1 1 6 2 0 0 1 16
+p579
+aVJustin Holiday GSW 12/30/2014 GSW vs. PHI W 15 11 4 10 40.0 2 4 50.0 1 2 50.0 1 3 4 2 1 1 2 1 9
+p580
+aVOgnjen Kuzmic GSW 12/30/2014 GSW vs. PHI W 9 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 2 1
+p581
+aVDavid Lee GSW 12/30/2014 GSW vs. PHI W 25 13 5 9 55.6 0 0 - 3 4 75.0 0 4 4 2 1 2 2 1 27
+p582
+aVHarrison Barnes GSW 12/30/2014 GSW vs. PHI W 28 8 3 6 50.0 1 3 33.3 1 2 50.0 1 6 7 3 1 0 0 0 20
+p583
+aVAndre Iguodala GSW 12/30/2014 GSW vs. PHI W 20 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 2 3 0 0 1 23
+p584
+aVMarreese Speights GSW 12/30/2014 GSW vs. PHI W 24 23 9 13 69.2 0 0 - 5 6 83.3 3 1 4 4 0 4 0 3 19
+p585
+aVKlay Thompson GSW 12/30/2014 GSW vs. PHI W 24 14 6 14 42.9 2 8 25.0 0 0 - 0 3 3 3 1 0 4 2 14
+p586
+aVLeandro Barbosa GSW 12/30/2014 GSW vs. PHI W 17 17 5 9 55.6 2 4 50.0 5 6 83.3 0 1 1 0 1 0 0 2 13
+p587
+aVDraymond Green GSW 12/30/2014 GSW vs. PHI W 29 10 3 7 42.9 1 2 50.0 3 3 100.0 2 8 10 3 4 3 2 3 30
+p588
+aVOgnjen Kuzmic GSW 12/27/2014 GSW vs. MIN W 12 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 0 0 1 4 -8
+p589
+aVDavid Lee GSW 12/27/2014 GSW vs. MIN W 17 10 3 10 30.0 0 1 0.0 4 4 100.0 3 4 7 1 0 2 0 2 13
+p590
+aVDraymond Green GSW 12/27/2014 GSW vs. MIN W 32 4 2 5 40.0 0 1 0.0 0 0 - 1 7 8 6 6 3 2 3 25
+p591
+aVHarrison Barnes GSW 12/27/2014 GSW vs. MIN W 30 10 4 10 40.0 2 2 100.0 0 0 - 0 4 4 1 2 0 0 2 2
+p592
+aVLeandro Barbosa GSW 12/27/2014 GSW vs. MIN W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p593
+aVJustin Holiday GSW 12/27/2014 GSW vs. MIN W 15 2 1 6 16.7 0 4 0.0 0 0 - 0 0 0 1 1 1 0 2 0
+p594
+aVMarreese Speights GSW 12/27/2014 GSW vs. MIN W 19 10 4 7 57.1 0 0 - 2 2 100.0 3 3 6 4 0 0 1 0 8
+p595
+aVShaun Livingston GSW 12/27/2014 GSW vs. MIN W 22 9 3 5 60.0 0 0 - 3 4 75.0 0 2 2 4 1 0 4 0 1
+p596
+aVBrandon Rush GSW 12/27/2014 GSW vs. MIN W 6 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 -10
+p597
+aVStephen Curry GSW 12/27/2014 GSW vs. MIN W 31 25 9 18 50.0 4 9 44.4 3 4 75.0 1 2 3 6 3 0 3 3 18
+p598
+aVKlay Thompson GSW 12/27/2014 GSW vs. MIN W 24 21 8 15 53.3 4 9 44.4 1 2 50.0 0 5 5 4 1 0 2 2 15
+p599
+aVAndre Iguodala GSW 12/27/2014 GSW vs. MIN W 27 10 3 6 50.0 1 2 50.0 3 3 100.0 0 4 4 3 3 0 3 1 13
+p600
+aVMarreese Speights GSW 12/25/2014 GSW @ LAC L 22 11 4 9 44.4 0 0 - 3 6 50.0 0 1 1 0 1 0 2 2 -1
+p601
+aVStephen Curry GSW 12/25/2014 GSW @ LAC L 36 14 5 12 41.7 1 5 20.0 3 4 75.0 2 7 9 7 2 0 5 3 -12
+p602
+aVKlay Thompson GSW 12/25/2014 GSW @ LAC L 37 15 6 18 33.3 2 10 20.0 1 2 50.0 0 3 3 3 2 1 3 2 -9
+p603
+aVLeandro Barbosa GSW 12/25/2014 GSW @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p604
+aVAndre Iguodala GSW 12/25/2014 GSW @ LAC L 21 5 2 6 33.3 0 2 0.0 1 2 50.0 1 3 4 2 1 0 0 1 -14
+p605
+aVDavid Lee GSW 12/25/2014 GSW @ LAC L 19 11 5 5 100.0 0 0 - 1 2 50.0 0 3 3 1 1 0 2 3 -14
+p606
+aVShaun Livingston GSW 12/25/2014 GSW @ LAC L 16 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 0 0 2 3 -15
+p607
+aVOgnjen Kuzmic GSW 12/25/2014 GSW @ LAC L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 6
+p608
+aVHarrison Barnes GSW 12/25/2014 GSW @ LAC L 38 12 5 13 38.5 0 4 0.0 2 5 40.0 1 12 13 3 2 0 1 4 -3
+p609
+aVDraymond Green GSW 12/25/2014 GSW @ LAC L 34 10 4 10 40.0 2 5 40.0 0 0 - 3 7 10 3 2 2 0 3 -9
+p610
+aVJustin Holiday GSW 12/25/2014 GSW @ LAC L 11 6 2 3 66.7 1 2 50.0 1 1 100.0 0 0 0 1 0 1 1 0 -5
+p611
+aVKlay Thompson GSW 12/23/2014 GSW @ LAL L 30 18 6 15 40.0 4 8 50.0 2 2 100.0 1 2 3 1 1 1 1 1 -21
+p612
+aVBrandon Rush GSW 12/23/2014 GSW @ LAL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 12
+p613
+aVJustin Holiday GSW 12/23/2014 GSW @ LAL L 19 11 3 6 50.0 2 4 50.0 3 3 100.0 1 3 4 0 1 0 1 2 8
+p614
+aVDavid Lee GSW 12/23/2014 GSW @ LAL L 18 12 4 8 50.0 0 0 - 4 4 100.0 0 7 7 1 1 0 1 1 -3
+p615
+aVLeandro Barbosa GSW 12/23/2014 GSW @ LAL L 13 9 3 5 60.0 2 3 66.7 1 2 50.0 2 1 3 2 0 0 1 1 10
+p616
+aVFestus Ezeli GSW 12/23/2014 GSW @ LAL L 14 10 4 8 50.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 1 -9
+p617
+aVHarrison Barnes GSW 12/23/2014 GSW @ LAL L 28 5 2 6 33.3 1 1 100.0 0 0 - 3 1 4 0 0 1 0 2 -13
+p618
+aVOgnjen Kuzmic GSW 12/23/2014 GSW @ LAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 12
+p619
+aVAndre Iguodala GSW 12/23/2014 GSW @ LAL L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 3 1 -16
+p620
+aVShaun Livingston GSW 12/23/2014 GSW @ LAL L 17 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 3 1 0 1 1 -13
+p621
+aVDraymond Green GSW 12/23/2014 GSW @ LAL L 23 2 1 6 16.7 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -10
+p622
+aVMarreese Speights GSW 12/23/2014 GSW @ LAL L 20 6 3 8 37.5 0 1 0.0 0 0 - 1 4 5 2 0 0 2 4 3
+p623
+aVStephen Curry GSW 12/23/2014 GSW @ LAL L 30 22 10 14 71.4 2 5 40.0 0 0 - 0 2 2 6 3 0 7 0 -10
+p624
+aVDavid Lee GSW 12/22/2014 GSW vs. SAC W 16 6 3 9 33.3 0 0 - 0 0 - 2 5 7 0 0 1 0 1 16
+p625
+aVFestus Ezeli GSW 12/22/2014 GSW vs. SAC W 18 15 7 11 63.6 0 0 - 1 2 50.0 3 3 6 0 0 2 3 4 4
+p626
+aVHarrison Barnes GSW 12/22/2014 GSW vs. SAC W 27 8 3 8 37.5 1 4 25.0 1 2 50.0 4 4 8 1 1 0 3 2 8
+p627
+aVKlay Thompson GSW 12/22/2014 GSW vs. SAC W 28 25 10 16 62.5 2 4 50.0 3 3 100.0 0 2 2 3 1 0 1 0 10
+p628
+aVOgnjen Kuzmic GSW 12/22/2014 GSW vs. SAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p629
+aVBrandon Rush GSW 12/22/2014 GSW vs. SAC W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p630
+aVShaun Livingston GSW 12/22/2014 GSW vs. SAC W 28 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 5 0 1 2 1 7
+p631
+aVJustin Holiday GSW 12/22/2014 GSW vs. SAC W 20 18 7 12 58.3 3 7 42.9 1 1 100.0 0 3 3 3 0 0 0 0 8
+p632
+aVLeandro Barbosa GSW 12/22/2014 GSW vs. SAC W 5 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -5
+p633
+aVDraymond Green GSW 12/22/2014 GSW vs. SAC W 26 6 2 5 40.0 0 2 0.0 2 3 66.7 0 8 8 4 3 2 1 2 8
+p634
+aVStephen Curry GSW 12/22/2014 GSW vs. SAC W 26 12 5 12 41.7 1 5 20.0 1 1 100.0 0 2 2 11 3 0 1 1 15
+p635
+aVMarreese Speights GSW 12/22/2014 GSW vs. SAC W 13 12 2 3 66.7 0 0 - 8 8 100.0 1 3 4 3 0 0 1 4 12
+p636
+aVAndre Iguodala GSW 12/22/2014 GSW vs. SAC W 24 12 5 6 83.3 2 3 66.7 0 0 - 0 1 1 4 1 0 0 2 25
+p637
+aVShaun Livingston GSW 12/18/2014 GSW vs. OKC W 19 12 6 9 66.7 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 8
+p638
+aVHarrison Barnes GSW 12/18/2014 GSW vs. OKC W 34 12 5 11 45.5 2 4 50.0 0 0 - 2 5 7 1 2 0 0 3 0
+p639
+aVStephen Curry GSW 12/18/2014 GSW vs. OKC W 42 34 14 24 58.3 5 12 41.7 1 1 100.0 4 3 7 9 4 1 4 0 7
+p640
+aVMarreese Speights GSW 12/18/2014 GSW vs. OKC W 19 10 5 10 50.0 0 0 - 0 0 - 1 4 5 1 0 2 1 2 0
+p641
+aVAndre Iguodala GSW 12/18/2014 GSW vs. OKC W 30 7 2 6 33.3 2 4 50.0 1 2 50.0 0 4 4 5 1 1 1 1 18
+p642
+aVFestus Ezeli GSW 12/18/2014 GSW vs. OKC W 10 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 1 0 3 -5
+p643
+aVJustin Holiday GSW 12/18/2014 GSW vs. OKC W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p644
+aVDraymond Green GSW 12/18/2014 GSW vs. OKC W 44 16 7 14 50.0 1 5 20.0 1 4 25.0 2 7 9 9 1 1 2 4 4
+p645
+aVKlay Thompson GSW 12/18/2014 GSW vs. OKC W 35 19 7 15 46.7 2 4 50.0 3 3 100.0 0 2 2 5 1 1 1 0 -5
+p646
+aVAndre Iguodala GSW 12/16/2014 GSW @ MEM L 32 9 3 10 30.0 3 9 33.3 0 0 - 1 5 6 3 3 0 0 1 -2
+p647
+aVDraymond Green GSW 12/16/2014 GSW @ MEM L 36 4 2 11 18.2 0 4 0.0 0 0 - 3 7 10 6 1 5 3 3 0
+p648
+aVStephen Curry GSW 12/16/2014 GSW @ MEM L 39 19 9 25 36.0 1 10 10.0 0 0 - 0 7 7 6 4 0 3 2 16
+p649
+aVFestus Ezeli GSW 12/16/2014 GSW @ MEM L 13 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 0 0 1 1 4 -4
+p650
+aVKlay Thompson GSW 12/16/2014 GSW @ MEM L 40 22 8 16 50.0 4 5 80.0 2 2 100.0 0 2 2 0 1 1 2 1 -17
+p651
+aVMarreese Speights GSW 12/16/2014 GSW @ MEM L 26 18 7 14 50.0 0 0 - 4 4 100.0 5 3 8 0 0 2 1 5 -5
+p652
+aVShaun Livingston GSW 12/16/2014 GSW @ MEM L 23 12 5 9 55.6 0 0 - 2 2 100.0 2 1 3 3 0 1 2 2 -12
+p653
+aVHarrison Barnes GSW 12/16/2014 GSW @ MEM L 31 11 4 7 57.1 1 3 33.3 2 2 100.0 2 6 8 0 0 1 2 1 -11
+p654
+aVJustin Holiday GSW 12/14/2014 GSW @ NOP W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 5
+p655
+aVAndre Iguodala GSW 12/14/2014 GSW @ NOP W 38 20 7 12 58.3 3 4 75.0 3 5 60.0 2 3 5 0 0 0 2 1 -3
+p656
+aVFestus Ezeli GSW 12/14/2014 GSW @ NOP W 20 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 2 1 1 9
+p657
+aVDraymond Green GSW 12/14/2014 GSW @ NOP W 48 11 5 11 45.5 0 1 0.0 1 1 100.0 2 11 13 5 1 4 2 4 3
+p658
+aVLeandro Barbosa GSW 12/14/2014 GSW @ NOP W 4 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 2
+p659
+aVMarreese Speights GSW 12/14/2014 GSW @ NOP W 20 10 3 4 75.0 0 0 - 4 6 66.7 2 3 5 1 2 0 3 5 -6
+p660
+aVShaun Livingston GSW 12/14/2014 GSW @ NOP W 22 12 4 6 66.7 0 0 - 4 4 100.0 0 1 1 4 1 0 2 0 -12
+p661
+aVKlay Thompson GSW 12/14/2014 GSW @ NOP W 42 29 10 22 45.5 2 7 28.6 7 9 77.8 0 4 4 3 1 3 3 3 20
+p662
+aVStephen Curry GSW 12/14/2014 GSW @ NOP W 40 34 11 21 52.4 6 10 60.0 6 6 100.0 0 7 7 7 1 0 6 1 5
+p663
+aVHarrison Barnes GSW 12/14/2014 GSW @ NOP W 29 2 1 3 33.3 0 2 0.0 0 0 - 0 4 4 2 0 0 0 2 7
+p664
+aVFestus Ezeli GSW 12/13/2014 GSW @ DAL W 17 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 0 2 0 4 14
+p665
+aVBrandon Rush GSW 12/13/2014 GSW @ DAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p666
+aVAndre Iguodala GSW 12/13/2014 GSW @ DAL W 29 2 1 6 16.7 0 4 0.0 0 0 - 1 6 7 5 0 1 0 2 6
+p667
+aVMarreese Speights GSW 12/13/2014 GSW @ DAL W 18 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 0 0 2 3 6
+p668
+aVOgnjen Kuzmic GSW 12/13/2014 GSW @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p669
+aVDraymond Green GSW 12/13/2014 GSW @ DAL W 37 20 5 8 62.5 2 4 50.0 8 10 80.0 1 7 8 1 0 2 1 5 2
+p670
+aVKlay Thompson GSW 12/13/2014 GSW @ DAL W 41 25 10 21 47.6 5 11 45.5 0 0 - 0 5 5 3 1 1 2 3 -7
+p671
+aVStephen Curry GSW 12/13/2014 GSW @ DAL W 37 29 9 22 40.9 3 11 27.3 8 9 88.9 0 3 3 8 2 0 1 1 13
+p672
+aVShaun Livingston GSW 12/13/2014 GSW @ DAL W 21 9 3 6 50.0 0 0 - 3 6 50.0 1 5 6 1 2 0 3 3 3
+p673
+aVHarrison Barnes GSW 12/13/2014 GSW @ DAL W 34 12 6 11 54.5 0 2 0.0 0 0 - 3 6 9 3 2 1 3 3 -2
+p674
+aVMarreese Speights GSW 12/10/2014 GSW vs. HOU W 20 15 6 13 46.2 0 0 - 3 3 100.0 2 6 8 0 0 1 1 1 -4
+p675
+aVFestus Ezeli GSW 12/10/2014 GSW vs. HOU W 16 7 2 4 50.0 0 0 - 3 4 75.0 0 3 3 0 0 0 0 2 -4
+p676
+aVLeandro Barbosa GSW 12/10/2014 GSW vs. HOU W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p677
+aVAndre Iguodala GSW 12/10/2014 GSW vs. HOU W 24 1 0 4 0.0 0 2 0.0 1 2 50.0 0 3 3 2 1 0 1 0 2
+p678
+aVDraymond Green GSW 12/10/2014 GSW vs. HOU W 34 11 4 8 50.0 1 4 25.0 2 2 100.0 1 7 8 1 4 0 2 4 13
+p679
+aVHarrison Barnes GSW 12/10/2014 GSW vs. HOU W 39 20 7 9 77.8 3 4 75.0 3 3 100.0 1 5 6 2 2 0 2 0 13
+p680
+aVKlay Thompson GSW 12/10/2014 GSW vs. HOU W 35 21 8 18 44.4 1 8 12.5 4 4 100.0 0 4 4 4 1 2 4 2 8
+p681
+aVStephen Curry GSW 12/10/2014 GSW vs. HOU W 37 20 8 15 53.3 3 5 60.0 1 1 100.0 1 6 7 7 0 0 4 3 16
+p682
+aVShaun Livingston GSW 12/10/2014 GSW vs. HOU W 28 8 4 9 44.4 0 0 - 0 1 0.0 1 2 3 5 1 2 1 2 18
+p683
+aVStephen Curry GSW 12/08/2014 GSW @ MIN W 31 21 10 20 50.0 1 7 14.3 0 0 - 1 3 4 7 3 1 3 3 22
+p684
+aVKlay Thompson GSW 12/08/2014 GSW @ MIN W 30 21 7 15 46.7 3 6 50.0 4 4 100.0 0 1 1 3 0 0 1 2 8
+p685
+aVHarrison Barnes GSW 12/08/2014 GSW @ MIN W 29 4 2 5 40.0 0 1 0.0 0 0 - 1 5 6 1 1 0 0 2 6
+p686
+aVJustin Holiday GSW 12/08/2014 GSW @ MIN W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p687
+aVShaun Livingston GSW 12/08/2014 GSW @ MIN W 26 12 5 8 62.5 0 0 - 2 2 100.0 2 3 5 6 4 0 4 3 6
+p688
+aVAndre Iguodala GSW 12/08/2014 GSW @ MIN W 24 8 4 10 40.0 0 3 0.0 0 0 - 2 2 4 3 2 0 0 0 10
+p689
+aVMarreese Speights GSW 12/08/2014 GSW @ MIN W 21 12 5 8 62.5 0 0 - 2 2 100.0 3 4 7 0 1 1 2 4 13
+p690
+aVDraymond Green GSW 12/08/2014 GSW @ MIN W 30 10 3 10 30.0 0 3 0.0 4 4 100.0 2 8 10 3 3 1 3 1 22
+p691
+aVBrandon Rush GSW 12/08/2014 GSW @ MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p692
+aVOgnjen Kuzmic GSW 12/08/2014 GSW @ MIN W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -6
+p693
+aVAndrew Bogut GSW 12/08/2014 GSW @ MIN W 2 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 2 1 0 4
+p694
+aVFestus Ezeli GSW 12/08/2014 GSW @ MIN W 21 7 3 4 75.0 0 0 - 1 2 50.0 3 5 8 0 0 1 2 3 5
+p695
+aVLeandro Barbosa GSW 12/08/2014 GSW @ MIN W 9 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p696
+aVHarrison Barnes GSW 12/06/2014 GSW @ CHI W 25 11 3 3 100.0 2 2 100.0 3 4 75.0 0 0 0 1 1 1 0 4 7
+p697
+aVAndrew Bogut GSW 12/06/2014 GSW @ CHI W 27 4 2 7 28.6 0 0 - 0 1 0.0 7 5 12 3 2 0 3 1 12
+p698
+aVStephen Curry GSW 12/06/2014 GSW @ CHI W 36 19 5 14 35.7 1 5 20.0 8 9 88.9 1 5 6 7 1 0 3 2 7
+p699
+aVMarreese Speights GSW 12/06/2014 GSW @ CHI W 20 11 4 10 40.0 0 0 - 3 5 60.0 4 2 6 1 0 0 1 3 -2
+p700
+aVDraymond Green GSW 12/06/2014 GSW @ CHI W 41 31 11 20 55.0 7 13 53.8 2 2 100.0 0 7 7 3 4 3 1 3 11
+p701
+aVAndre Iguodala GSW 12/06/2014 GSW @ CHI W 30 6 3 6 50.0 0 1 0.0 0 0 - 2 1 3 5 2 0 1 3 2
+p702
+aVKlay Thompson GSW 12/06/2014 GSW @ CHI W 38 24 9 23 39.1 2 8 25.0 4 4 100.0 0 5 5 5 2 2 2 3 25
+p703
+aVLeandro Barbosa GSW 12/06/2014 GSW @ CHI W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p704
+aVShaun Livingston GSW 12/06/2014 GSW @ CHI W 17 6 3 5 60.0 0 0 - 0 0 - 1 0 1 2 2 0 0 2 1
+p705
+aVDraymond Green GSW 12/04/2014 GSW vs. NOP W 32 14 6 13 46.2 2 5 40.0 0 0 - 5 9 14 2 0 1 2 3 16
+p706
+aVMarreese Speights GSW 12/04/2014 GSW vs. NOP W 17 12 5 14 35.7 0 0 - 2 2 100.0 2 4 6 1 1 1 1 1 0
+p707
+aVJustin Holiday GSW 12/04/2014 GSW vs. NOP W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p708
+aVStephen Curry GSW 12/04/2014 GSW vs. NOP W 31 19 8 17 47.1 3 6 50.0 0 0 - 0 3 3 11 4 1 2 0 11
+p709
+aVHarrison Barnes GSW 12/04/2014 GSW vs. NOP W 40 17 7 12 58.3 0 1 0.0 3 4 75.0 5 5 10 1 0 0 1 0 36
+p710
+aVKlay Thompson GSW 12/04/2014 GSW vs. NOP W 33 23 8 16 50.0 5 8 62.5 2 4 50.0 1 3 4 5 2 1 2 0 19
+p711
+aVFestus Ezeli GSW 12/04/2014 GSW vs. NOP W 2 1 0 0 - 0 0 - 1 4 25.0 0 0 0 0 0 0 0 0 5
+p712
+aVAndre Iguodala GSW 12/04/2014 GSW vs. NOP W 23 6 3 6 50.0 0 1 0.0 0 3 0.0 0 4 4 3 2 0 0 1 2
+p713
+aVAndrew Bogut GSW 12/04/2014 GSW vs. NOP W 29 8 4 9 44.4 0 0 - 0 0 - 4 7 11 1 0 4 1 2 22
+p714
+aVLeandro Barbosa GSW 12/04/2014 GSW vs. NOP W 13 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 3
+p715
+aVShaun Livingston GSW 12/04/2014 GSW vs. NOP W 17 4 2 6 33.3 0 0 - 0 0 - 1 2 3 6 1 0 0 0 16
+p716
+aVDraymond Green GSW 12/02/2014 GSW vs. ORL W 34 11 4 12 33.3 0 5 0.0 3 4 75.0 1 6 7 6 1 0 4 3 -3
+p717
+aVHarrison Barnes GSW 12/02/2014 GSW vs. ORL W 33 14 5 9 55.6 1 1 100.0 3 5 60.0 4 8 12 1 1 0 0 0 5
+p718
+aVAndre Iguodala GSW 12/02/2014 GSW vs. ORL W 30 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 0 1
+p719
+aVStephen Curry GSW 12/02/2014 GSW vs. ORL W 36 22 8 17 47.1 3 9 33.3 3 3 100.0 1 3 4 5 0 0 4 2 8
+p720
+aVKlay Thompson GSW 12/02/2014 GSW vs. ORL W 35 20 8 16 50.0 4 8 50.0 0 0 - 0 6 6 5 2 0 1 1 7
+p721
+aVLeandro Barbosa GSW 12/02/2014 GSW vs. ORL W 13 2 0 4 0.0 0 3 0.0 2 2 100.0 2 0 2 0 1 0 1 0 -6
+p722
+aVShaun Livingston GSW 12/02/2014 GSW vs. ORL W 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -7
+p723
+aVMarreese Speights GSW 12/02/2014 GSW vs. ORL W 15 12 5 10 50.0 0 0 - 2 2 100.0 1 3 4 2 0 0 2 4 -1
+p724
+aVAndrew Bogut GSW 12/02/2014 GSW vs. ORL W 32 7 3 7 42.9 0 0 - 1 2 50.0 4 8 12 3 2 5 2 3 1
+p725
+aVLeandro Barbosa GSW 11/30/2014 GSW @ DET W 13 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p726
+aVHarrison Barnes GSW 11/30/2014 GSW @ DET W 33 9 3 8 37.5 0 3 0.0 3 4 75.0 1 8 9 2 1 0 1 1 14
+p727
+aVKlay Thompson GSW 11/30/2014 GSW @ DET W 35 15 5 11 45.5 2 2 100.0 3 3 100.0 0 3 3 2 1 0 3 1 10
+p728
+aVStephen Curry GSW 11/30/2014 GSW @ DET W 28 16 5 9 55.6 1 3 33.3 5 6 83.3 1 2 3 10 1 0 1 2 11
+p729
+aVMarreese Speights GSW 11/30/2014 GSW @ DET W 19 11 4 14 28.6 0 1 0.0 3 4 75.0 3 9 12 0 0 2 2 3 12
+p730
+aVAndre Iguodala GSW 11/30/2014 GSW @ DET W 27 7 1 5 20.0 1 3 33.3 4 6 66.7 0 3 3 3 1 1 1 0 7
+p731
+aVAndrew Bogut GSW 11/30/2014 GSW @ DET W 29 6 3 7 42.9 0 0 - 0 0 - 3 6 9 2 0 5 2 4 -1
+p732
+aVShaun Livingston GSW 11/30/2014 GSW @ DET W 23 12 5 7 71.4 0 1 0.0 2 2 100.0 0 4 4 3 0 0 2 1 4
+p733
+aVDraymond Green GSW 11/30/2014 GSW @ DET W 33 20 7 13 53.8 5 8 62.5 1 2 50.0 1 5 6 2 1 0 4 4 4
+p734
+aVBrandon Rush GSW 11/28/2014 GSW @ CHA W 18 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 1 0 0 0 2 -5
+p735
+aVStephen Curry GSW 11/28/2014 GSW @ CHA W 32 26 9 20 45.0 1 10 10.0 7 7 100.0 1 3 4 6 1 2 4 4 16
+p736
+aVDraymond Green GSW 11/28/2014 GSW @ CHA W 32 9 4 9 44.4 0 2 0.0 1 2 50.0 1 9 10 2 1 1 1 4 1
+p737
+aVShaun Livingston GSW 11/28/2014 GSW @ CHA W 14 4 2 5 40.0 0 0 - 0 0 - 0 1 1 4 0 0 0 3 -2
+p738
+aVHarrison Barnes GSW 11/28/2014 GSW @ CHA W 29 9 3 8 37.5 1 2 50.0 2 2 100.0 4 5 9 1 0 0 1 0 5
+p739
+aVMarreese Speights GSW 11/28/2014 GSW @ CHA W 24 27 12 20 60.0 0 0 - 3 3 100.0 4 1 5 2 1 1 1 6 7
+p740
+aVKlay Thompson GSW 11/28/2014 GSW @ CHA W 35 17 7 22 31.8 3 5 60.0 0 0 - 2 3 5 4 3 1 1 3 3
+p741
+aVAndre Iguodala GSW 11/28/2014 GSW @ CHA W 32 3 1 3 33.3 1 3 33.3 0 0 - 2 3 5 3 1 0 2 1 2
+p742
+aVAndrew Bogut GSW 11/28/2014 GSW @ CHA W 24 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 5 0 3 2 3 -2
+p743
+aVFestus Ezeli GSW 11/26/2014 GSW @ ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p744
+aVStephen Curry GSW 11/26/2014 GSW @ ORL W 24 28 9 13 69.2 6 8 75.0 4 5 80.0 1 4 5 8 0 0 1 1 22
+p745
+aVShaun Livingston GSW 11/26/2014 GSW @ ORL W 27 15 7 10 70.0 0 0 - 1 2 50.0 0 3 3 5 1 0 5 3 0
+p746
+aVOgnjen Kuzmic GSW 11/26/2014 GSW @ ORL W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -5
+p747
+aVAndrew Bogut GSW 11/26/2014 GSW @ ORL W 24 6 3 7 42.9 0 0 - 0 2 0.0 3 9 12 7 2 2 1 3 26
+p748
+aVJustin Holiday GSW 11/26/2014 GSW @ ORL W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 -6
+p749
+aVMarreese Speights GSW 11/26/2014 GSW @ ORL W 20 11 4 12 33.3 0 1 0.0 3 4 75.0 1 5 6 1 0 2 0 3 -3
+p750
+aVHarrison Barnes GSW 11/26/2014 GSW @ ORL W 36 16 7 9 77.8 1 2 50.0 1 2 50.0 2 3 5 1 0 0 1 4 11
+p751
+aVKlay Thompson GSW 11/26/2014 GSW @ ORL W 25 12 6 14 42.9 0 2 0.0 0 0 - 0 4 4 2 2 1 3 0 26
+p752
+aVAndre Iguodala GSW 11/26/2014 GSW @ ORL W 27 13 4 8 50.0 3 4 75.0 2 4 50.0 0 3 3 3 1 1 1 0 2
+p753
+aVDraymond Green GSW 11/26/2014 GSW @ ORL W 22 10 4 8 50.0 2 6 33.3 0 0 - 1 3 4 1 0 0 1 2 25
+p754
+aVBrandon Rush GSW 11/26/2014 GSW @ ORL W 21 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 2 -13
+p755
+aVDraymond Green GSW 11/25/2014 GSW @ MIA W 37 11 3 8 37.5 0 3 0.0 5 8 62.5 0 6 6 3 1 2 2 4 29
+p756
+aVHarrison Barnes GSW 11/25/2014 GSW @ MIA W 36 12 5 9 55.6 1 3 33.3 1 2 50.0 2 6 8 2 0 0 0 2 14
+p757
+aVShaun Livingston GSW 11/25/2014 GSW @ MIA W 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p758
+aVAndrew Bogut GSW 11/25/2014 GSW @ MIA W 32 8 4 5 80.0 0 0 - 0 0 - 0 10 10 5 1 2 2 2 1
+p759
+aVBrandon Rush GSW 11/25/2014 GSW @ MIA W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 3 0 0 -6
+p760
+aVLeandro Barbosa GSW 11/25/2014 GSW @ MIA W 4 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 1 0 0 1 -6
+p761
+aVStephen Curry GSW 11/25/2014 GSW @ MIA W 37 40 12 19 63.2 8 11 72.7 8 9 88.9 0 6 6 7 3 1 2 2 28
+p762
+aVJustin Holiday GSW 11/25/2014 GSW @ MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p763
+aVMarreese Speights GSW 11/25/2014 GSW @ MIA W 15 8 4 5 80.0 0 0 - 0 0 - 1 4 5 1 0 0 1 2 9
+p764
+aVKlay Thompson GSW 11/25/2014 GSW @ MIA W 38 24 10 19 52.6 3 7 42.9 1 2 50.0 1 3 4 3 0 1 3 5 22
+p765
+aVAndre Iguodala GSW 11/25/2014 GSW @ MIA W 18 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 0 0 0 1 5 5
+p766
+aVDraymond Green GSW 11/23/2014 GSW @ OKC W 40 10 3 11 27.3 1 5 20.0 3 4 75.0 3 6 9 6 1 2 1 3 3
+p767
+aVBrandon Rush GSW 11/23/2014 GSW @ OKC W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 1 1 -1
+p768
+aVAndrew Bogut GSW 11/23/2014 GSW @ OKC W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 2 1 0 10
+p769
+aVAndre Iguodala GSW 11/23/2014 GSW @ OKC W 27 7 3 7 42.9 0 1 0.0 1 1 100.0 0 3 3 1 1 1 2 0 7
+p770
+aVShaun Livingston GSW 11/23/2014 GSW @ OKC W 12 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 0 0 0 0 4
+p771
+aVKlay Thompson GSW 11/23/2014 GSW @ OKC W 38 20 6 20 30.0 4 11 36.4 4 4 100.0 1 7 8 5 0 0 0 0 9
+p772
+aVMarreese Speights GSW 11/23/2014 GSW @ OKC W 25 28 11 18 61.1 0 0 - 6 9 66.7 3 4 7 2 0 0 0 3 -9
+p773
+aVFestus Ezeli GSW 11/23/2014 GSW @ OKC W 14 6 3 7 42.9 0 0 - 0 0 - 2 0 2 1 1 2 2 6 -3
+p774
+aVLeandro Barbosa GSW 11/23/2014 GSW @ OKC W 6 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 1 -2
+p775
+aVHarrison Barnes GSW 11/23/2014 GSW @ OKC W 23 0 0 5 0.0 0 1 0.0 0 0 - 3 5 8 2 1 0 1 4 5
+p776
+aVStephen Curry GSW 11/23/2014 GSW @ OKC W 38 15 5 15 33.3 2 6 33.3 3 4 75.0 0 6 6 6 1 0 1 0 2
+p777
+aVAndre Iguodala GSW 11/21/2014 GSW vs. UTA W 25 17 7 8 87.5 2 2 100.0 1 2 50.0 0 3 3 1 0 0 2 0 11
+p778
+aVJustin Holiday GSW 11/21/2014 GSW vs. UTA W 7 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 0 -14
+p779
+aVKlay Thompson GSW 11/21/2014 GSW vs. UTA W 23 14 6 11 54.5 1 5 20.0 1 2 50.0 0 1 1 2 2 0 0 1 25
+p780
+aVLeandro Barbosa GSW 11/21/2014 GSW vs. UTA W 17 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 1 2 0 1 2 -2
+p781
+aVHarrison Barnes GSW 11/21/2014 GSW vs. UTA W 40 14 4 11 36.4 0 2 0.0 6 6 100.0 3 8 11 1 1 2 2 1 4
+p782
+aVStephen Curry GSW 11/21/2014 GSW vs. UTA W 25 8 3 9 33.3 2 6 33.3 0 0 - 0 5 5 10 2 0 4 2 23
+p783
+aVMarreese Speights GSW 11/21/2014 GSW vs. UTA W 16 14 6 9 66.7 0 0 - 2 4 50.0 0 0 0 1 0 0 1 3 5
+p784
+aVOgnjen Kuzmic GSW 11/21/2014 GSW vs. UTA W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p785
+aVBrandon Rush GSW 11/21/2014 GSW vs. UTA W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -10
+p786
+aVShaun Livingston GSW 11/21/2014 GSW vs. UTA W 24 6 3 6 50.0 0 0 - 0 0 - 0 3 3 4 0 0 1 2 -10
+p787
+aVAndrew Bogut GSW 11/21/2014 GSW vs. UTA W 20 12 6 8 75.0 0 0 - 0 0 - 1 3 4 2 0 1 0 3 23
+p788
+aVFestus Ezeli GSW 11/21/2014 GSW vs. UTA W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -7
+p789
+aVDraymond Green GSW 11/21/2014 GSW vs. UTA W 25 11 4 8 50.0 1 5 20.0 2 3 66.7 0 9 9 5 3 0 1 2 25
+p790
+aVOgnjen Kuzmic GSW 11/16/2014 GSW @ LAL W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -12
+p791
+aVShaun Livingston GSW 11/16/2014 GSW @ LAL W 18 3 0 4 0.0 0 0 - 3 4 75.0 3 3 6 4 0 0 2 1 -6
+p792
+aVStephen Curry GSW 11/16/2014 GSW @ LAL W 30 30 10 19 52.6 5 9 55.6 5 5 100.0 0 4 4 15 1 0 3 0 27
+p793
+aVFestus Ezeli GSW 11/16/2014 GSW @ LAL W 11 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 3 3 -13
+p794
+aVAndre Iguodala GSW 11/16/2014 GSW @ LAL W 21 10 4 6 66.7 2 3 66.7 0 1 0.0 2 1 3 1 2 0 0 0 15
+p795
+aVLeandro Barbosa GSW 11/16/2014 GSW @ LAL W 19 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 3 1 0 0 3 -17
+p796
+aVMarreese Speights GSW 11/16/2014 GSW @ LAL W 20 24 8 11 72.7 0 0 - 8 8 100.0 4 5 9 0 0 0 1 3 15
+p797
+aVAndrew Bogut GSW 11/16/2014 GSW @ LAL W 21 15 7 9 77.8 0 0 - 1 1 100.0 0 10 10 4 0 1 0 4 21
+p798
+aVBrandon Rush GSW 11/16/2014 GSW @ LAL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 0
+p799
+aVJustin Holiday GSW 11/16/2014 GSW @ LAL W 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 0 0 0 2 2 -13
+p800
+aVDraymond Green GSW 11/16/2014 GSW @ LAL W 24 10 4 5 80.0 2 2 100.0 0 0 - 0 8 8 1 0 0 0 3 35
+p801
+aVKlay Thompson GSW 11/16/2014 GSW @ LAL W 29 18 5 11 45.5 2 7 28.6 6 6 100.0 0 3 3 3 0 3 2 3 38
+p802
+aVHarrison Barnes GSW 11/16/2014 GSW @ LAL W 24 14 4 8 50.0 2 3 66.7 4 5 80.0 0 2 2 1 0 1 0 3 15
+p803
+aVShaun Livingston GSW 11/15/2014 GSW vs. CHA W 20 8 4 6 66.7 0 0 - 0 0 - 0 0 0 1 0 1 1 0 2
+p804
+aVFestus Ezeli GSW 11/15/2014 GSW vs. CHA W 12 8 3 6 50.0 0 0 - 2 3 66.7 2 3 5 0 0 0 1 2 -3
+p805
+aVMarreese Speights GSW 11/15/2014 GSW vs. CHA W 14 13 4 8 50.0 0 1 0.0 5 5 100.0 0 6 6 2 1 0 0 4 4
+p806
+aVBrandon Rush GSW 11/15/2014 GSW vs. CHA W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -8
+p807
+aVDraymond Green GSW 11/15/2014 GSW vs. CHA W 29 7 3 8 37.5 1 5 20.0 0 0 - 1 5 6 2 0 0 2 2 24
+p808
+aVKlay Thompson GSW 11/15/2014 GSW vs. CHA W 27 21 7 13 53.8 4 6 66.7 3 3 100.0 1 3 4 5 3 1 2 1 24
+p809
+aVLeandro Barbosa GSW 11/15/2014 GSW vs. CHA W 15 4 2 6 33.3 0 1 0.0 0 0 - 2 2 4 2 1 1 0 2 8
+p810
+aVJustin Holiday GSW 11/15/2014 GSW vs. CHA W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -5
+p811
+aVAndre Iguodala GSW 11/15/2014 GSW vs. CHA W 26 0 0 4 0.0 0 1 0.0 0 0 - 1 3 4 4 0 0 1 2 16
+p812
+aVAndrew Bogut GSW 11/15/2014 GSW vs. CHA W 22 13 6 7 85.7 0 0 - 1 2 50.0 2 7 9 2 1 0 2 3 24
+p813
+aVHarrison Barnes GSW 11/15/2014 GSW vs. CHA W 23 17 7 11 63.6 3 5 60.0 0 0 - 0 4 4 1 0 0 1 5 23
+p814
+aVOgnjen Kuzmic GSW 11/15/2014 GSW vs. CHA W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p815
+aVStephen Curry GSW 11/15/2014 GSW vs. CHA W 28 19 8 15 53.3 3 6 50.0 0 1 0.0 2 3 5 9 1 0 1 3 23
+p816
+aVHarrison Barnes GSW 11/13/2014 GSW vs. BKN W 32 12 4 10 40.0 1 3 33.3 3 3 100.0 0 3 3 3 0 0 0 0 -1
+p817
+aVStephen Curry GSW 11/13/2014 GSW vs. BKN W 32 17 6 12 50.0 3 7 42.9 2 2 100.0 1 2 3 5 0 0 3 5 6
+p818
+aVKlay Thompson GSW 11/13/2014 GSW vs. BKN W 36 25 8 22 36.4 4 9 44.4 5 6 83.3 2 2 4 2 2 0 2 0 12
+p819
+aVDraymond Green GSW 11/13/2014 GSW vs. BKN W 33 17 7 14 50.0 3 8 37.5 0 0 - 0 8 8 7 1 2 1 1 17
+p820
+aVLeandro Barbosa GSW 11/13/2014 GSW vs. BKN W 15 8 4 9 44.4 0 3 0.0 0 0 - 1 0 1 3 1 1 1 0 -1
+p821
+aVAndrew Bogut GSW 11/13/2014 GSW vs. BKN W 31 11 4 7 57.1 0 0 - 3 5 60.0 7 7 14 5 1 4 1 3 7
+p822
+aVShaun Livingston GSW 11/13/2014 GSW vs. BKN W 13 4 2 2 100.0 0 0 - 0 0 - 0 2 2 2 0 0 0 3 -1
+p823
+aVAndre Iguodala GSW 11/13/2014 GSW vs. BKN W 32 5 2 8 25.0 0 4 0.0 1 3 33.3 0 1 1 3 1 0 0 1 -1
+p824
+aVMarreese Speights GSW 11/13/2014 GSW vs. BKN W 16 8 4 6 66.7 0 0 - 0 2 0.0 3 6 9 0 1 3 2 3 2
+p825
+aVKlay Thompson GSW 11/11/2014 GSW vs. SAS L 40 29 9 17 52.9 5 6 83.3 6 6 100.0 0 5 5 4 1 0 4 0 -7
+p826
+aVMarreese Speights GSW 11/11/2014 GSW vs. SAS L 12 11 5 5 100.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 3 -1
+p827
+aVAndre Iguodala GSW 11/11/2014 GSW vs. SAS L 22 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 3 2 -3
+p828
+aVFestus Ezeli GSW 11/11/2014 GSW vs. SAS L 10 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 0 1 1 0 -5
+p829
+aVShaun Livingston GSW 11/11/2014 GSW vs. SAS L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 2 5
+p830
+aVLeandro Barbosa GSW 11/11/2014 GSW vs. SAS L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 2 0 1 0 -6
+p831
+aVStephen Curry GSW 11/11/2014 GSW vs. SAS L 36 16 7 18 38.9 0 7 0.0 2 2 100.0 0 6 6 5 0 0 3 2 -18
+p832
+aVHarrison Barnes GSW 11/11/2014 GSW vs. SAS L 39 22 9 12 75.0 1 3 33.3 3 4 75.0 0 8 8 0 0 1 2 0 -5
+p833
+aVDraymond Green GSW 11/11/2014 GSW vs. SAS L 32 9 2 7 28.6 1 2 50.0 4 4 100.0 0 4 4 5 0 1 1 4 -16
+p834
+aVAndrew Bogut GSW 11/11/2014 GSW vs. SAS L 26 4 2 2 100.0 0 0 - 0 0 - 0 5 5 5 2 0 2 3 -7
+p835
+aVBrandon Rush GSW 11/11/2014 GSW vs. SAS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p836
+aVAndrew Bogut GSW 11/09/2014 GSW @ PHX L 26 4 2 6 33.3 0 0 - 0 0 - 0 8 8 2 2 1 4 4 -4
+p837
+aVBrandon Rush GSW 11/09/2014 GSW @ PHX L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 7
+p838
+aVLeandro Barbosa GSW 11/09/2014 GSW @ PHX L 31 12 5 8 62.5 2 3 66.7 0 0 - 0 2 2 0 0 1 1 4 -10
+p839
+aVStephen Curry GSW 11/09/2014 GSW @ PHX L 34 28 10 20 50.0 4 10 40.0 4 4 100.0 0 2 2 10 5 0 10 5 -6
+p840
+aVFestus Ezeli GSW 11/09/2014 GSW @ PHX L 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -1
+p841
+aVOgnjen Kuzmic GSW 11/09/2014 GSW @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p842
+aVMarreese Speights GSW 11/09/2014 GSW @ PHX L 12 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 -7
+p843
+aVDraymond Green GSW 11/09/2014 GSW @ PHX L 36 22 7 14 50.0 3 7 42.9 5 5 100.0 1 8 9 0 1 4 5 5 -11
+p844
+aVHarrison Barnes GSW 11/09/2014 GSW @ PHX L 32 12 4 7 57.1 2 3 66.7 2 4 50.0 1 8 9 0 1 0 1 2 -13
+p845
+aVAndre Iguodala GSW 11/09/2014 GSW @ PHX L 31 1 0 4 0.0 0 1 0.0 1 2 50.0 1 2 3 1 0 0 1 0 -15
+p846
+aVShaun Livingston GSW 11/09/2014 GSW @ PHX L 19 6 1 2 50.0 0 0 - 4 4 100.0 0 0 0 2 0 0 2 1 -2
+p847
+aVAndrew Bogut GSW 11/08/2014 GSW @ HOU W 37 8 4 10 40.0 0 0 - 0 1 0.0 4 14 18 1 0 4 2 2 15
+p848
+aVFestus Ezeli GSW 11/08/2014 GSW @ HOU W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -6
+p849
+aVLeandro Barbosa GSW 11/08/2014 GSW @ HOU W 18 6 3 8 37.5 0 3 0.0 0 0 - 0 3 3 2 1 0 3 1 -13
+p850
+aVShaun Livingston GSW 11/08/2014 GSW @ HOU W 15 0 0 4 0.0 0 0 - 0 0 - 1 0 1 2 4 0 4 1 -10
+p851
+aVMarreese Speights GSW 11/08/2014 GSW @ HOU W 7 6 3 3 100.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 0
+p852
+aVDraymond Green GSW 11/08/2014 GSW @ HOU W 34 14 6 13 46.2 1 5 20.0 1 2 50.0 2 6 8 2 1 2 4 5 5
+p853
+aVHarrison Barnes GSW 11/08/2014 GSW @ HOU W 23 4 1 2 50.0 0 1 0.0 2 2 100.0 2 2 4 1 0 0 2 1 12
+p854
+aVKlay Thompson GSW 11/08/2014 GSW @ HOU W 31 11 3 16 18.8 0 6 0.0 5 8 62.5 0 4 4 6 0 0 4 3 28
+p855
+aVStephen Curry GSW 11/08/2014 GSW @ HOU W 40 34 13 19 68.4 6 9 66.7 2 2 100.0 1 8 9 5 4 0 5 2 13
+p856
+aVAndre Iguodala GSW 11/08/2014 GSW @ HOU W 31 15 6 11 54.5 2 4 50.0 1 2 50.0 2 2 4 3 1 1 1 2 11
+p857
+aVDavid Lee GSW 11/05/2014 GSW vs. LAC W 7 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p858
+aVKlay Thompson GSW 11/05/2014 GSW vs. LAC W 30 19 7 13 53.8 3 4 75.0 2 2 100.0 0 1 1 1 0 2 1 4 12
+p859
+aVBrandon Rush GSW 11/05/2014 GSW vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p860
+aVShaun Livingston GSW 11/05/2014 GSW vs. LAC W 19 6 3 5 60.0 0 0 - 0 0 - 0 1 1 6 1 0 1 2 -2
+p861
+aVLeandro Barbosa GSW 11/05/2014 GSW vs. LAC W 18 13 5 7 71.4 1 2 50.0 2 2 100.0 0 0 0 1 1 0 1 2 5
+p862
+aVHarrison Barnes GSW 11/05/2014 GSW vs. LAC W 27 10 2 4 50.0 2 2 100.0 4 4 100.0 1 6 7 3 0 0 1 0 24
+p863
+aVStephen Curry GSW 11/05/2014 GSW vs. LAC W 34 28 9 18 50.0 4 8 50.0 6 6 100.0 0 6 6 7 1 0 5 4 21
+p864
+aVDraymond Green GSW 11/05/2014 GSW vs. LAC W 36 24 8 13 61.5 4 8 50.0 4 4 100.0 0 8 8 5 1 1 4 3 13
+p865
+aVFestus Ezeli GSW 11/05/2014 GSW vs. LAC W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 2 0 4 2 5
+p866
+aVAndre Iguodala GSW 11/05/2014 GSW vs. LAC W 21 9 3 3 100.0 1 1 100.0 2 2 100.0 0 0 0 1 1 0 2 1 7
+p867
+aVAndrew Bogut GSW 11/05/2014 GSW vs. LAC W 34 6 3 5 60.0 0 0 - 0 0 - 3 11 14 5 0 0 3 3 8
+p868
+aVAndrew Bogut GSW 11/02/2014 GSW @ POR W 32 11 5 6 83.3 0 0 - 1 2 50.0 3 9 12 3 1 2 3 3 1
+p869
+aVHarrison Barnes GSW 11/02/2014 GSW @ POR W 26 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 1 0 1 1 10
+p870
+aVDraymond Green GSW 11/02/2014 GSW @ POR W 29 5 2 7 28.6 0 2 0.0 1 3 33.3 0 6 6 2 2 1 1 4 11
+p871
+aVAndre Iguodala GSW 11/02/2014 GSW @ POR W 32 5 2 6 33.3 0 1 0.0 1 2 50.0 1 5 6 5 1 0 1 1 -7
+p872
+aVKlay Thompson GSW 11/02/2014 GSW @ POR W 34 29 11 22 50.0 3 7 42.9 4 4 100.0 0 1 1 1 3 1 2 2 7
+p873
+aVFestus Ezeli GSW 11/02/2014 GSW @ POR W 13 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 1 3 1 0 -2
+p874
+aVStephen Curry GSW 11/02/2014 GSW @ POR W 31 21 6 18 33.3 1 5 20.0 8 8 100.0 1 4 5 6 2 0 3 1 12
+p875
+aVMarreese Speights GSW 11/02/2014 GSW @ POR W 12 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 2
+p876
+aVLeandro Barbosa GSW 11/02/2014 GSW @ POR W 16 13 5 9 55.6 1 2 50.0 2 2 100.0 1 2 3 1 0 0 1 2 -4
+p877
+aVShaun Livingston GSW 11/02/2014 GSW @ POR W 16 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 3 0 -5
+p878
+aVStephen Curry GSW 11/01/2014 GSW vs. LAL W 34 31 10 19 52.6 3 8 37.5 8 8 100.0 0 5 5 10 3 0 2 3 30
+p879
+aVMarreese Speights GSW 11/01/2014 GSW vs. LAL W 5 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -6
+p880
+aVJustin Holiday GSW 11/01/2014 GSW vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p881
+aVAndre Iguodala GSW 11/01/2014 GSW vs. LAL W 33 9 4 8 50.0 1 4 25.0 0 0 - 1 3 4 6 2 0 4 4 22
+p882
+aVShaun Livingston GSW 11/01/2014 GSW vs. LAL W 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 1 1 1 -10
+p883
+aVFestus Ezeli GSW 11/01/2014 GSW vs. LAL W 13 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 1 0 1 2 4 -4
+p884
+aVAndrew Bogut GSW 11/01/2014 GSW vs. LAL W 30 6 3 10 30.0 0 0 - 0 0 - 5 5 10 3 1 2 5 4 26
+p885
+aVKlay Thompson GSW 11/01/2014 GSW vs. LAL W 34 41 14 18 77.8 5 7 71.4 8 9 88.9 0 5 5 2 0 0 1 2 24
+p886
+aVDraymond Green GSW 11/01/2014 GSW vs. LAL W 30 9 3 9 33.3 1 2 50.0 2 2 100.0 1 4 5 1 1 0 1 4 11
+p887
+aVHarrison Barnes GSW 11/01/2014 GSW vs. LAL W 30 15 5 6 83.3 1 2 50.0 4 5 80.0 0 4 4 3 1 0 1 2 23
+p888
+aVLeandro Barbosa GSW 11/01/2014 GSW vs. LAL W 17 9 4 8 50.0 0 0 - 1 2 50.0 1 0 1 3 1 0 3 1 -3
+p889
+aVStephen Curry GSW 10/29/2014 GSW @ SAC W 37 24 7 17 41.2 2 9 22.2 8 9 88.9 1 9 10 5 6 0 4 5 20
+p890
+aVLeandro Barbosa GSW 10/29/2014 GSW @ SAC W 14 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 5 2
+p891
+aVKlay Thompson GSW 10/29/2014 GSW @ SAC W 38 19 4 14 28.6 2 8 25.0 9 10 90.0 0 2 2 6 2 1 5 1 21
+p892
+aVOgnjen Kuzmic GSW 10/29/2014 GSW @ SAC W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 4 -10
+p893
+aVFestus Ezeli GSW 10/29/2014 GSW @ SAC W 8 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 -1
+p894
+aVHarrison Barnes GSW 10/29/2014 GSW @ SAC W 29 9 3 10 30.0 0 3 0.0 3 5 60.0 2 4 6 1 0 0 1 2 12
+p895
+aVAndre Iguodala GSW 10/29/2014 GSW @ SAC W 29 2 1 6 16.7 0 4 0.0 0 2 0.0 0 3 3 2 3 0 2 2 25
+p896
+aVMarreese Speights GSW 10/29/2014 GSW @ SAC W 18 16 8 13 61.5 0 0 - 0 0 - 2 3 5 2 0 0 3 2 -1
+p897
+aVJustin Holiday GSW 10/29/2014 GSW @ SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -9
+p898
+aVShaun Livingston GSW 10/29/2014 GSW @ SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p899
+aVAndrew Bogut GSW 10/29/2014 GSW @ SAC W 18 4 2 2 100.0 0 0 - 0 0 - 0 5 5 0 0 4 1 4 11
+p900
+aVDraymond Green GSW 10/29/2014 GSW @ SAC W 34 12 4 7 57.1 2 2 100.0 2 4 50.0 2 8 10 3 1 0 5 2 22
+p901
+a.

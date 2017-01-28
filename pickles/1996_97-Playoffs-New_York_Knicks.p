@@ -1,0 +1,180 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPatrick Ewing NYK 05/18/1997 NYK @ MIA L 43 37 17 27 63.0 0 1 0.0 3 3 100.0 6 11 17 4 0 2 2 2 -8
+p2
+aVJohn Wallace NYK 05/18/1997 NYK @ MIA L 21 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 2 0 2 1 4 -14
+p3
+aVBuck Williams NYK 05/18/1997 NYK @ MIA L 18 5 2 2 100.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 2 -6
+p4
+aVCharles Oakley NYK 05/18/1997 NYK @ MIA L 32 6 3 7 42.9 0 0 - 0 0 - 0 6 6 2 2 0 1 5 0
+p5
+aVAllan Houston NYK 05/18/1997 NYK @ MIA L 45 25 9 22 40.9 5 11 45.5 2 2 100.0 0 1 1 6 0 1 6 2 -14
+p6
+aVCharlie Ward NYK 05/18/1997 NYK @ MIA L 39 7 3 8 37.5 0 4 0.0 1 2 50.0 0 3 3 8 4 0 3 6 12
+p7
+aVScott Brooks NYK 05/18/1997 NYK @ MIA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p8
+aVChris Childs NYK 05/18/1997 NYK @ MIA L 37 6 2 9 22.2 1 3 33.3 1 2 50.0 3 3 6 3 2 0 6 5 -13
+p9
+aVHerb Williams NYK 05/16/1997 NYK vs. MIA L 18 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -1
+p10
+aVChris Childs NYK 05/16/1997 NYK vs. MIA L 44 22 9 17 52.9 1 3 33.3 3 3 100.0 0 3 3 9 1 0 0 3 2
+p11
+aVScott Brooks NYK 05/16/1997 NYK vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p12
+aVJohn Wallace NYK 05/16/1997 NYK vs. MIA L 12 4 2 8 25.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 1
+p13
+aVCharles Oakley NYK 05/16/1997 MIA @ NYK L 46 18 7 14 50.0 0 1 0.0 4 5 80.0 3 9 12 1 3 0 3 4 0
+p14
+aVBuck Williams NYK 05/16/1997 NYK vs. MIA L 27 7 2 8 25.0 0 0 - 3 4 75.0 2 5 7 0 0 0 2 3 -6
+p15
+aVLarry Johnson NYK 05/16/1997 NYK vs. MIA L 42 20 6 12 50.0 0 0 - 8 9 88.9 3 6 9 3 0 0 2 1 -3
+p16
+aVJohn Starks NYK 05/16/1997 NYK vs. MIA L 44 15 6 16 37.5 3 8 37.5 0 0 - 2 9 11 5 0 0 7 6 -5
+p17
+aVPatrick Ewing NYK 05/14/1997 NYK @ MIA L 40 19 9 19 47.4 0 0 - 1 4 25.0 3 4 7 1 0 0 4 3 -21
+p18
+aVCharles Oakley NYK 05/14/1997 NYK @ MIA L 33 8 3 7 42.9 0 0 - 2 2 100.0 0 9 9 0 1 1 3 4 0
+p19
+aVScott Brooks NYK 05/14/1997 NYK @ MIA L 1 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 2
+p20
+aVBuck Williams NYK 05/14/1997 NYK @ MIA L 20 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 3 1 2 13
+p21
+aVChris Childs NYK 05/14/1997 NYK @ MIA L 29 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 7 1 0 4 5 -16
+p22
+aVAllan Houston NYK 05/14/1997 NYK @ MIA L 33 15 5 11 45.5 2 5 40.0 3 4 75.0 0 2 2 3 0 0 2 2 -9
+p23
+aVWalter McCarty NYK 05/14/1997 NYK @ MIA L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p24
+aVJohn Wallace NYK 05/14/1997 NYK @ MIA L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 1
+p25
+aVLarry Johnson NYK 05/14/1997 NYK @ MIA L 22 3 0 4 0.0 0 1 0.0 3 4 75.0 1 0 1 0 2 0 2 4 -11
+p26
+aVCharlie Ward NYK 05/14/1997 NYK @ MIA L 20 0 0 4 0.0 0 1 0.0 0 0 - 0 5 5 3 3 0 1 3 -8
+p27
+aVJohn Starks NYK 05/14/1997 NYK @ MIA L 30 21 6 12 50.0 1 5 20.0 8 10 80.0 0 1 1 2 1 0 3 4 -7
+p28
+aVScott Brooks NYK 05/12/1997 NYK vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p29
+aVAllan Houston NYK 05/12/1997 NYK vs. MIA W 39 17 4 14 28.6 2 5 40.0 7 7 100.0 0 4 4 1 1 1 4 2 21
+p30
+aVCharlie Ward NYK 05/12/1997 NYK vs. MIA W 19 0 0 1 0.0 0 1 0.0 0 0 - 0 5 5 5 1 0 3 3 16
+p31
+aVJohn Wallace NYK 05/12/1997 NYK vs. MIA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p32
+aVCharles Oakley NYK 05/12/1997 MIA @ NYK L 31 6 3 8 37.5 0 0 - 0 0 - 1 8 9 1 3 1 1 2 0
+p33
+aVBuck Williams NYK 05/12/1997 NYK vs. MIA W 14 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 1 0 0 0 4 11
+p34
+aVPatrick Ewing NYK 05/12/1997 NYK vs. MIA W 40 20 8 13 61.5 0 0 - 4 6 66.7 1 6 7 2 1 3 3 4 20
+p35
+aVChris Childs NYK 05/12/1997 NYK vs. MIA W 29 5 2 6 33.3 0 3 0.0 1 2 50.0 2 1 3 8 2 0 4 5 0
+p36
+aVWalter McCarty NYK 05/12/1997 NYK vs. MIA W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p37
+aVLarry Johnson NYK 05/12/1997 NYK vs. MIA W 27 15 6 10 60.0 2 4 50.0 1 2 50.0 0 2 2 3 1 0 1 4 -6
+p38
+aVJohn Starks NYK 05/12/1997 NYK vs. MIA W 33 21 9 12 75.0 2 4 50.0 1 2 50.0 0 2 2 2 1 0 1 3 18
+p39
+aVAllan Houston NYK 05/11/1997 NYK vs. MIA L 41 13 4 13 30.8 1 4 25.0 4 4 100.0 0 0 0 1 1 0 1 0 4
+p40
+aVChris Childs NYK 05/11/1997 NYK vs. MIA L 27 6 1 2 50.0 0 0 - 4 4 100.0 0 5 5 2 2 0 0 4 3
+p41
+aVBuck Williams NYK 05/11/1997 NYK vs. MIA L 12 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 3 2
+p42
+aVPatrick Ewing NYK 05/11/1997 NYK vs. MIA L 42 25 12 21 57.1 0 0 - 1 2 50.0 4 7 11 1 0 2 2 2 2
+p43
+aVCharles Oakley NYK 05/11/1997 MIA @ NYK L 40 10 3 13 23.1 0 0 - 4 5 80.0 5 6 11 3 4 0 3 3 0
+p44
+aVJohn Starks NYK 05/11/1997 NYK vs. MIA L 23 11 3 9 33.3 0 2 0.0 5 5 100.0 1 2 3 4 2 0 3 3 10
+p45
+aVLarry Johnson NYK 05/11/1997 NYK vs. MIA L 30 8 2 5 40.0 0 0 - 4 6 66.7 3 4 7 0 1 0 2 1 -6
+p46
+aVCharlie Ward NYK 05/11/1997 NYK vs. MIA L 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 4 2 0 2 1 1
+p47
+aVJohn Starks NYK 05/09/1997 NYK @ MIA L 22 5 1 7 14.3 1 4 25.0 2 2 100.0 0 1 1 1 2 0 0 2 -13
+p48
+aVChris Childs NYK 05/09/1997 NYK @ MIA L 36 16 6 11 54.5 1 3 33.3 3 4 75.0 1 8 9 7 5 0 1 3 1
+p49
+aVCharles Oakley NYK 05/09/1997 NYK @ MIA L 38 12 4 10 40.0 0 0 - 4 5 80.0 6 4 10 1 3 1 3 3 0
+p50
+aVBuck Williams NYK 05/09/1997 NYK @ MIA L 25 4 2 7 28.6 0 0 - 0 3 0.0 3 1 4 1 1 0 1 4 -6
+p51
+aVHerb Williams NYK 05/09/1997 NYK @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p52
+aVCharlie Ward NYK 05/09/1997 NYK @ MIA L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 -9
+p53
+aVLarry Johnson NYK 05/09/1997 NYK @ MIA L 30 11 4 6 66.7 0 0 - 3 3 100.0 1 2 3 3 3 1 1 4 15
+p54
+aVAllan Houston NYK 05/09/1997 NYK @ MIA L 42 19 6 14 42.9 1 2 50.0 6 7 85.7 1 2 3 2 0 1 1 3 -6
+p55
+aVPatrick Ewing NYK 05/09/1997 NYK @ MIA L 29 17 6 20 30.0 0 0 - 5 6 83.3 2 9 11 0 0 1 2 4 0
+p56
+aVLarry Johnson NYK 05/07/1997 NYK @ MIA L 38 14 4 8 50.0 0 1 0.0 6 6 100.0 1 4 5 5 0 0 3 2 11
+p57
+aVPatrick Ewing NYK 05/07/1997 NYK @ MIA L 39 24 8 23 34.8 0 0 - 8 8 100.0 5 11 16 0 1 5 3 4 20
+p58
+aVBuck Williams NYK 05/07/1997 NYK @ MIA L 14 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -14
+p59
+aVJohn Starks NYK 05/07/1997 NYK @ MIA L 16 4 1 8 12.5 0 4 0.0 2 2 100.0 1 1 2 0 0 0 0 2 -7
+p60
+aVCharlie Ward NYK 05/07/1997 NYK @ MIA L 17 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 5 2 0 0 1 19
+p61
+aVChris Childs NYK 05/07/1997 NYK @ MIA L 30 4 1 5 20.0 1 2 50.0 1 2 50.0 1 6 7 1 2 0 4 6 -10
+p62
+aVAllan Houston NYK 05/07/1997 NYK @ MIA L 41 27 8 19 42.1 5 7 71.4 6 7 85.7 1 5 6 1 1 0 3 1 14
+p63
+aVCharles Oakley NYK 05/07/1997 NYK @ MIA L 42 11 3 7 42.9 0 0 - 5 5 100.0 3 9 12 2 0 0 2 5 0
+p64
+aVCharlie Ward NYK 04/28/1997 NYK @ CHH L 18 0 0 2 0.0 0 0 - 0 0 - 1 2 3 4 0 0 0 1 7
+p65
+aVLarry Johnson NYK 04/28/1997 NYK @ CHH L 39 22 9 12 75.0 2 4 50.0 2 2 100.0 0 3 3 5 0 0 3 2 6
+p66
+aVJohn Starks NYK 04/28/1997 NYK @ CHH L 26 16 4 8 50.0 1 2 50.0 7 8 87.5 1 1 2 0 1 0 3 1 11
+p67
+aVPatrick Ewing NYK 04/28/1997 NYK @ CHH L 40 16 6 12 50.0 0 0 - 4 6 66.7 3 8 11 3 0 5 3 2 6
+p68
+aVAllan Houston NYK 04/28/1997 NYK @ CHH L 31 20 7 11 63.6 4 7 57.1 2 3 66.7 0 3 3 2 1 0 4 2 5
+p69
+aVBuck Williams NYK 04/28/1997 NYK @ CHH L 20 10 4 8 50.0 0 0 - 2 2 100.0 1 5 6 2 0 1 0 2 5
+p70
+aVCharles Oakley NYK 04/28/1997 NYK @ CHH L 32 10 4 5 80.0 0 0 - 2 2 100.0 1 5 6 2 1 0 0 4 0
+p71
+aVChris Childs NYK 04/28/1997 NYK @ CHH L 30 10 3 8 37.5 2 4 50.0 2 2 100.0 1 7 8 5 2 0 7 2 0
+p72
+aVCharlie Ward NYK 04/26/1997 NYK vs. CHH L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 6 0 0 2 1 8
+p73
+aVChris Childs NYK 04/26/1997 NYK vs. CHH L 28 17 7 14 50.0 3 5 60.0 0 0 - 0 2 2 9 2 0 2 4 -1
+p74
+aVLarry Johnson NYK 04/26/1997 NYK vs. CHH L 23 11 4 7 57.1 0 3 0.0 3 4 75.0 1 2 3 0 0 0 1 4 5
+p75
+aVBuck Williams NYK 04/26/1997 NYK vs. CHH L 24 6 2 2 100.0 0 0 - 2 2 100.0 2 3 5 1 2 0 0 5 5
+p76
+aVPatrick Ewing NYK 04/26/1997 NYK vs. CHH L 43 30 15 21 71.4 0 0 - 0 3 0.0 1 5 6 3 1 3 4 5 3
+p77
+aVAllan Houston NYK 04/26/1997 NYK vs. CHH L 42 12 5 12 41.7 2 4 50.0 0 0 - 1 1 2 1 0 0 2 1 2
+p78
+aVJohn Starks NYK 04/26/1997 NYK vs. CHH L 30 14 6 13 46.2 2 6 33.3 0 2 0.0 0 5 5 4 2 0 1 2 7
+p79
+aVCharles Oakley NYK 04/26/1997 CHH @ NYK L 28 8 4 6 66.7 0 0 - 0 2 0.0 1 9 10 3 2 0 1 5 0
+p80
+aVBuck Williams NYK 04/24/1997 NYK vs. CHH W 13 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 5 4
+p81
+aVJohn Starks NYK 04/24/1997 NYK vs. CHH W 27 19 8 14 57.1 3 6 50.0 0 0 - 2 2 4 7 1 0 2 2 16
+p82
+aVAllan Houston NYK 04/24/1997 NYK vs. CHH W 43 25 10 17 58.8 4 7 57.1 1 1 100.0 0 2 2 4 2 0 1 1 4
+p83
+aVHerb Williams NYK 04/24/1997 NYK vs. CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p84
+aVCharles Oakley NYK 04/24/1997 CHH @ NYK L 31 9 4 9 44.4 0 0 - 1 3 33.3 3 0 3 1 3 0 1 2 0
+p85
+aVLarry Johnson NYK 04/24/1997 NYK vs. CHH W 38 20 8 13 61.5 2 4 50.0 2 2 100.0 1 2 3 4 0 0 0 5 13
+p86
+aVChris Childs NYK 04/24/1997 NYK vs. CHH W 31 14 5 9 55.6 0 2 0.0 4 4 100.0 0 3 3 8 1 0 0 2 -3
+p87
+aVPatrick Ewing NYK 04/24/1997 NYK vs. CHH W 37 15 7 11 63.6 0 0 - 1 4 25.0 1 8 9 3 0 1 4 4 5
+p88
+aVCharlie Ward NYK 04/24/1997 NYK vs. CHH W 16 5 2 3 66.7 1 2 50.0 0 0 - 1 2 3 3 0 0 3 1 13
+p89
+a.

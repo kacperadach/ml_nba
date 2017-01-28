@@ -1,0 +1,1586 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrian Skinner SAC 04/20/2005 SAC vs. PHX W 11 2 1 3 33.3 0 0 - 0 2 0.0 3 1 4 0 0 0 2 0 2
+p2
+aVKevin Martin SAC 04/20/2005 SAC vs. PHX W 22 10 3 7 42.9 1 4 25.0 3 4 75.0 1 1 2 1 0 1 1 0 17
+p3
+aVCuttino Mobley SAC 04/20/2005 SAC vs. PHX W 29 19 8 16 50.0 2 5 40.0 1 1 100.0 1 1 2 4 2 0 3 1 12
+p4
+aVErik Daniels SAC 04/20/2005 SAC vs. PHX W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 4
+p5
+aVDarius Songaila SAC 04/20/2005 SAC vs. PHX W 21 19 8 12 66.7 0 0 - 3 3 100.0 1 4 5 0 1 0 0 3 3
+p6
+aVBobby Jackson SAC 04/20/2005 SAC vs. PHX W 16 15 4 6 66.7 3 4 75.0 4 4 100.0 0 6 6 5 2 0 1 1 22
+p7
+aVKenny Thomas SAC 04/20/2005 SAC vs. PHX W 29 12 6 13 46.2 0 0 - 0 0 - 4 5 9 8 0 1 2 1 9
+p8
+aVGreg Ostertag SAC 04/20/2005 SAC vs. PHX W 20 2 1 6 16.7 0 0 - 0 0 - 3 7 10 3 0 1 2 3 22
+p9
+aVMaurice Evans SAC 04/20/2005 SAC vs. PHX W 34 14 6 12 50.0 2 4 50.0 0 0 - 0 5 5 2 0 1 0 2 14
+p10
+aVCorliss Williamson SAC 04/20/2005 SAC vs. PHX W 24 19 7 9 77.8 0 0 - 5 5 100.0 2 4 6 2 0 0 0 5 17
+p11
+aVEddie House SAC 04/20/2005 SAC vs. PHX W 32 17 6 13 46.2 3 6 50.0 2 2 100.0 0 6 6 7 0 1 1 1 3
+p12
+aVGreg Ostertag SAC 04/18/2005 SAC @ UTA L 16 3 1 1 100.0 0 0 - 1 2 50.0 3 5 8 1 0 4 0 1 6
+p13
+aVEddie House SAC 04/18/2005 SAC @ UTA L 13 4 1 7 14.3 0 2 0.0 2 2 100.0 1 0 1 2 0 0 0 1 7
+p14
+aVKevin Martin SAC 04/18/2005 SAC @ UTA L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p15
+aVKenny Thomas SAC 04/18/2005 SAC @ UTA L 31 11 4 8 50.0 0 0 - 3 4 75.0 2 1 3 2 1 0 1 5 -18
+p16
+aVMike Bibby SAC 04/18/2005 SAC @ UTA L 35 26 9 23 39.1 1 6 16.7 7 8 87.5 1 2 3 6 0 0 1 3 -17
+p17
+aVMaurice Evans SAC 04/18/2005 SAC @ UTA L 16 5 0 4 0.0 0 1 0.0 5 6 83.3 3 2 5 0 1 0 0 1 4
+p18
+aVDarius Songaila SAC 04/18/2005 SAC @ UTA L 27 15 7 14 50.0 0 1 0.0 1 1 100.0 2 9 11 1 1 1 2 1 0
+p19
+aVCuttino Mobley SAC 04/18/2005 SAC @ UTA L 35 4 2 15 13.3 0 2 0.0 0 0 - 0 2 2 1 2 0 0 2 -7
+p20
+aVBrian Skinner SAC 04/18/2005 SAC @ UTA L 24 1 0 0 - 0 0 - 1 4 25.0 1 3 4 1 1 1 3 3 -8
+p21
+aVCorliss Williamson SAC 04/18/2005 SAC @ UTA L 31 13 6 8 75.0 0 0 - 1 2 50.0 3 2 5 2 2 2 4 5 -16
+p22
+aVBrian Skinner SAC 04/16/2005 SAC @ PHX L 23 2 1 5 20.0 0 0 - 0 0 - 2 5 7 2 0 0 0 2 -28
+p23
+aVKenny Thomas SAC 04/16/2005 SAC @ PHX L 25 11 5 10 50.0 0 0 - 1 2 50.0 2 6 8 1 0 0 0 1 -23
+p24
+aVErik Daniels SAC 04/16/2005 SAC @ PHX L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p25
+aVMaurice Evans SAC 04/16/2005 SAC @ PHX L 23 7 3 9 33.3 1 3 33.3 0 0 - 2 1 3 1 0 0 0 0 -30
+p26
+aVDarius Songaila SAC 04/16/2005 SAC @ PHX L 19 14 6 15 40.0 0 0 - 2 2 100.0 2 2 4 1 0 0 0 2 6
+p27
+aVEddie House SAC 04/16/2005 SAC @ PHX L 22 17 7 14 50.0 1 2 50.0 2 3 66.7 0 1 1 2 2 0 0 1 7
+p28
+aVCuttino Mobley SAC 04/16/2005 SAC @ PHX L 25 8 3 12 25.0 0 3 0.0 2 2 100.0 0 1 1 0 1 0 0 1 -29
+p29
+aVCorliss Williamson SAC 04/16/2005 SAC @ PHX L 25 9 3 10 30.0 0 0 - 3 4 75.0 2 4 6 2 0 0 1 2 12
+p30
+aVKevin Martin SAC 04/16/2005 SAC @ PHX L 23 10 4 8 50.0 1 3 33.3 1 2 50.0 1 5 6 0 0 0 0 2 11
+p31
+aVGreg Ostertag SAC 04/16/2005 SAC @ PHX L 23 2 1 3 33.3 0 1 0.0 0 1 0.0 2 6 8 5 0 0 2 4 8
+p32
+aVMike Bibby SAC 04/16/2005 SAC @ PHX L 26 16 6 17 35.3 1 5 20.0 3 4 75.0 0 1 1 5 2 1 3 3 -25
+p33
+aVCorliss Williamson SAC 04/15/2005 SAC @ LAL W 27 11 4 9 44.4 0 0 - 3 5 60.0 1 4 5 2 4 0 1 6 -2
+p34
+aVMike Bibby SAC 04/15/2005 SAC @ LAL W 39 26 10 19 52.6 1 4 25.0 5 7 71.4 0 5 5 7 2 0 4 3 14
+p35
+aVCuttino Mobley SAC 04/15/2005 SAC @ LAL W 43 23 7 15 46.7 2 5 40.0 7 10 70.0 1 3 4 10 1 0 2 2 10
+p36
+aVKevin Martin SAC 04/15/2005 SAC @ LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p37
+aVKenny Thomas SAC 04/15/2005 SAC @ LAL W 39 15 6 15 40.0 0 0 - 3 4 75.0 1 8 9 3 0 0 2 3 13
+p38
+aVMaurice Evans SAC 04/15/2005 SAC @ LAL W 36 16 5 8 62.5 3 3 100.0 3 4 75.0 4 2 6 3 2 1 1 2 12
+p39
+aVEddie House SAC 04/15/2005 SAC @ LAL W 12 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -11
+p40
+aVDarius Songaila SAC 04/15/2005 SAC @ LAL W 11 5 0 4 0.0 0 1 0.0 5 6 83.3 0 1 1 0 1 1 1 5 -1
+p41
+aVPeja Stojakovic SAC 04/15/2005 SAC @ LAL W 8 14 5 6 83.3 4 4 100.0 0 0 - 0 0 0 1 1 0 0 1 1
+p42
+aVBrian Skinner SAC 04/15/2005 SAC @ LAL W 22 3 1 1 100.0 0 0 - 1 2 50.0 4 2 6 3 1 0 1 5 12
+p43
+aVMaurice Evans SAC 04/10/2005 SAC vs. LAL W 21 4 2 10 20.0 0 3 0.0 0 0 - 1 2 3 0 0 0 1 1 4
+p44
+aVPeja Stojakovic SAC 04/10/2005 SAC vs. LAL W 28 12 5 12 41.7 2 7 28.6 0 0 - 1 4 5 3 1 0 3 2 15
+p45
+aVGreg Ostertag SAC 04/10/2005 SAC vs. LAL W 7 0 0 0 - 0 0 - 0 0 - 1 2 3 2 0 0 0 0 10
+p46
+aVDarius Songaila SAC 04/10/2005 SAC vs. LAL W 26 10 5 8 62.5 0 0 - 0 0 - 6 5 11 3 0 1 2 4 11
+p47
+aVMike Bibby SAC 04/10/2005 SAC vs. LAL W 27 24 9 13 69.2 1 2 50.0 5 5 100.0 0 4 4 8 1 1 5 5 11
+p48
+aVKevin Martin SAC 04/10/2005 SAC vs. LAL W 20 10 5 9 55.6 0 2 0.0 0 0 - 1 2 3 1 1 0 1 2 4
+p49
+aVErik Daniels SAC 04/10/2005 SAC vs. LAL W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p50
+aVCuttino Mobley SAC 04/10/2005 SAC vs. LAL W 28 13 5 15 33.3 3 8 37.5 0 0 - 1 2 3 6 1 0 1 3 15
+p51
+aVBrian Skinner SAC 04/10/2005 SAC vs. LAL W 25 6 3 6 50.0 0 0 - 0 2 0.0 4 6 10 2 3 1 2 3 8
+p52
+aVEddie House SAC 04/10/2005 SAC vs. LAL W 20 11 5 9 55.6 1 2 50.0 0 0 - 3 2 5 2 0 0 0 3 8
+p53
+aVKenny Thomas SAC 04/10/2005 SAC vs. LAL W 35 32 10 14 71.4 0 0 - 12 13 92.3 6 8 14 1 0 0 1 2 7
+p54
+aVCuttino Mobley SAC 04/08/2005 SAC @ POR W 36 18 6 17 35.3 1 4 25.0 5 5 100.0 0 2 2 3 0 0 2 1 -7
+p55
+aVEddie House SAC 04/08/2005 SAC @ POR W 8 6 2 3 66.7 2 2 100.0 0 0 - 0 2 2 1 1 0 1 0 8
+p56
+aVPeja Stojakovic SAC 04/08/2005 SAC @ POR W 42 35 11 22 50.0 6 11 54.5 7 7 100.0 2 2 4 1 4 0 5 4 -1
+p57
+aVDarius Songaila SAC 04/08/2005 SAC @ POR W 18 7 3 4 75.0 0 0 - 1 1 100.0 2 2 4 4 0 0 0 5 4
+p58
+aVMike Bibby SAC 04/08/2005 SAC @ POR W 40 19 7 17 41.2 1 4 25.0 4 6 66.7 0 2 2 11 3 0 4 3 -4
+p59
+aVBrian Skinner SAC 04/08/2005 SAC @ POR W 42 8 4 7 57.1 0 0 - 0 0 - 8 8 16 1 1 3 1 5 -3
+p60
+aVKenny Thomas SAC 04/08/2005 SAC @ POR W 5 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 2 0 0 0 0 -1
+p61
+aVMaurice Evans SAC 04/08/2005 SAC @ POR W 15 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 11
+p62
+aVCorliss Williamson SAC 04/08/2005 SAC @ POR W 34 16 5 14 35.7 0 0 - 6 9 66.7 6 5 11 2 0 0 1 5 13
+p63
+aVKenny Thomas SAC 04/05/2005 SAC vs. SEA W 36 20 9 13 69.2 0 0 - 2 3 66.7 1 7 8 3 2 0 2 2 16
+p64
+aVDarius Songaila SAC 04/05/2005 SAC vs. SEA W 18 13 6 7 85.7 0 0 - 1 1 100.0 0 3 3 1 0 0 1 2 14
+p65
+aVMike Bibby SAC 04/05/2005 SAC vs. SEA W 31 15 6 14 42.9 0 4 0.0 3 3 100.0 1 2 3 10 1 0 2 2 9
+p66
+aVKevin Martin SAC 04/05/2005 SAC vs. SEA W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p67
+aVErik Daniels SAC 04/05/2005 SAC vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p68
+aVPeja Stojakovic SAC 04/05/2005 SAC vs. SEA W 38 24 7 15 46.7 5 6 83.3 5 5 100.0 1 3 4 7 0 0 2 2 15
+p69
+aVMaurice Evans SAC 04/05/2005 SAC vs. SEA W 24 2 1 4 25.0 0 0 - 0 0 - 2 2 4 3 1 1 1 1 9
+p70
+aVEddie House SAC 04/05/2005 SAC vs. SEA W 18 12 5 7 71.4 2 3 66.7 0 0 - 0 1 1 5 1 1 1 2 12
+p71
+aVCuttino Mobley SAC 04/05/2005 SAC vs. SEA W 32 21 7 12 58.3 4 6 66.7 3 3 100.0 1 2 3 4 1 0 1 4 20
+p72
+aVBrian Skinner SAC 04/05/2005 SAC vs. SEA W 30 9 4 4 100.0 0 0 - 1 4 25.0 4 3 7 3 1 1 0 3 6
+p73
+aVCorliss Williamson SAC 04/05/2005 SAC vs. SEA W 7 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 0 0 0 0 3 10
+p74
+aVGreg Ostertag SAC 04/05/2005 SAC vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -2
+p75
+aVMaurice Evans SAC 04/03/2005 SAC vs. MIN L 18 11 5 9 55.6 0 1 0.0 1 2 50.0 4 1 5 0 0 0 0 3 -8
+p76
+aVCorliss Williamson SAC 04/03/2005 SAC vs. MIN L 11 1 0 4 0.0 0 0 - 1 2 50.0 1 0 1 2 0 0 1 1 2
+p77
+aVDarius Songaila SAC 04/03/2005 SAC vs. MIN L 15 6 3 8 37.5 0 0 - 0 0 - 3 2 5 0 0 0 0 2 -10
+p78
+aVPeja Stojakovic SAC 04/03/2005 SAC vs. MIN L 43 25 7 18 38.9 1 4 25.0 10 12 83.3 3 4 7 3 0 1 0 1 -7
+p79
+aVBrian Skinner SAC 04/03/2005 SAC vs. MIN L 27 5 1 4 25.0 0 0 - 3 4 75.0 6 5 11 1 0 1 1 3 -12
+p80
+aVCuttino Mobley SAC 04/03/2005 SAC vs. MIN L 42 16 7 18 38.9 2 6 33.3 0 0 - 1 2 3 1 3 0 2 3 -9
+p81
+aVEddie House SAC 04/03/2005 SAC vs. MIN L 12 6 3 3 100.0 0 0 - 0 0 - 0 3 3 3 0 0 0 0 7
+p82
+aVMike Bibby SAC 04/03/2005 SAC vs. MIN L 36 19 7 21 33.3 3 7 42.9 2 2 100.0 1 3 4 4 1 0 3 2 -19
+p83
+aVKenny Thomas SAC 04/03/2005 SAC vs. MIN L 36 11 5 14 35.7 0 0 - 1 2 50.0 8 8 16 3 1 0 0 4 -4
+p84
+aVKevin Martin SAC 04/01/2005 SAC @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 2
+p85
+aVDarius Songaila SAC 04/01/2005 SAC @ CLE W 25 9 3 5 60.0 0 0 - 3 4 75.0 2 4 6 3 0 0 1 3 21
+p86
+aVCorliss Williamson SAC 04/01/2005 SAC @ CLE W 18 17 6 8 75.0 0 0 - 5 6 83.3 0 1 1 1 0 0 0 4 15
+p87
+aVCuttino Mobley SAC 04/01/2005 SAC @ CLE W 43 22 8 12 66.7 4 4 100.0 2 2 100.0 0 3 3 6 0 0 2 4 15
+p88
+aVPeja Stojakovic SAC 04/01/2005 SAC @ CLE W 34 22 9 18 50.0 2 8 25.0 2 2 100.0 1 3 4 2 2 0 2 2 5
+p89
+aVErik Daniels SAC 04/01/2005 SAC @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p90
+aVEddie House SAC 04/01/2005 SAC @ CLE W 12 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 0 14
+p91
+aVMaurice Evans SAC 04/01/2005 SAC @ CLE W 18 9 3 4 75.0 0 0 - 3 3 100.0 4 4 8 3 0 0 1 2 16
+p92
+aVMike Bibby SAC 04/01/2005 SAC @ CLE W 36 22 7 18 38.9 3 5 60.0 5 7 71.4 0 2 2 9 3 1 3 2 5
+p93
+aVGreg Ostertag SAC 04/01/2005 SAC @ CLE W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 2
+p94
+aVKenny Thomas SAC 04/01/2005 SAC @ CLE W 31 18 8 13 61.5 0 0 - 2 2 100.0 6 2 8 4 1 1 1 3 2
+p95
+aVBrian Skinner SAC 04/01/2005 SAC @ CLE W 15 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 1 1 1 3 -4
+p96
+aVDarius Songaila SAC 03/30/2005 SAC @ DET L 27 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 0 1 1 3 6 -3
+p97
+aVKevin Martin SAC 03/30/2005 SAC @ DET L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p98
+aVCuttino Mobley SAC 03/30/2005 SAC @ DET L 40 8 3 10 30.0 0 2 0.0 2 2 100.0 0 4 4 4 1 1 2 2 -18
+p99
+aVKenny Thomas SAC 03/30/2005 SAC @ DET L 37 9 4 7 57.1 0 0 - 1 1 100.0 2 9 11 2 1 0 3 5 -18
+p100
+aVMaurice Evans SAC 03/30/2005 SAC @ DET L 15 3 1 5 20.0 0 2 0.0 1 1 100.0 2 1 3 1 0 0 1 2 -2
+p101
+aVMike Bibby SAC 03/30/2005 SAC @ DET L 43 26 7 17 41.2 3 6 50.0 9 12 75.0 1 3 4 8 2 0 4 2 -14
+p102
+aVPeja Stojakovic SAC 03/30/2005 SAC @ DET L 38 15 5 14 35.7 0 6 0.0 5 6 83.3 1 3 4 3 0 0 2 4 -14
+p103
+aVEddie House SAC 03/30/2005 SAC @ DET L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p104
+aVGreg Ostertag SAC 03/30/2005 SAC @ DET L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p105
+aVErik Daniels SAC 03/30/2005 SAC @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p106
+aVCorliss Williamson SAC 03/30/2005 SAC @ DET L 26 13 4 7 57.1 0 0 - 5 6 83.3 1 2 3 1 1 0 1 4 -14
+p107
+aVMaurice Evans SAC 03/28/2005 SAC vs. PHI W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p108
+aVEddie House SAC 03/28/2005 SAC vs. PHI W 14 7 3 5 60.0 1 1 100.0 0 0 - 1 0 1 2 0 0 1 2 3
+p109
+aVMike Bibby SAC 03/28/2005 SAC vs. PHI W 34 18 7 16 43.8 2 2 100.0 2 4 50.0 1 0 1 5 0 0 2 2 6
+p110
+aVBrian Skinner SAC 03/28/2005 SAC vs. PHI W 35 13 6 11 54.5 0 0 - 1 2 50.0 7 12 19 5 1 3 0 2 0
+p111
+aVCuttino Mobley SAC 03/28/2005 SAC vs. PHI W 42 30 12 21 57.1 6 8 75.0 0 0 - 2 2 4 5 3 3 2 3 6
+p112
+aVDarius Songaila SAC 03/28/2005 SAC vs. PHI W 18 4 2 5 40.0 0 0 - 0 0 - 0 3 3 4 1 0 1 4 5
+p113
+aVKenny Thomas SAC 03/28/2005 SAC vs. PHI W 38 20 9 20 45.0 0 0 - 2 3 66.7 6 9 15 4 3 0 6 5 7
+p114
+aVPeja Stojakovic SAC 03/28/2005 SAC vs. PHI W 47 26 9 18 50.0 2 4 50.0 6 7 85.7 2 4 6 1 2 0 2 1 9
+p115
+aVGreg Ostertag SAC 03/28/2005 SAC vs. PHI W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p116
+aVEddie House SAC 03/26/2005 SAC @ DEN L 14 8 4 5 80.0 0 1 0.0 0 0 - 1 0 1 1 1 0 2 2 0
+p117
+aVBrian Skinner SAC 03/26/2005 SAC @ DEN L 23 3 1 5 20.0 0 0 - 1 2 50.0 1 7 8 3 1 2 0 4 -18
+p118
+aVGreg Ostertag SAC 03/26/2005 SAC @ DEN L 12 2 0 2 0.0 0 0 - 2 4 50.0 1 2 3 1 1 1 1 2 7
+p119
+aVDarius Songaila SAC 03/26/2005 SAC @ DEN L 16 8 4 5 80.0 0 0 - 0 0 - 0 2 2 3 0 0 0 2 7
+p120
+aVMike Bibby SAC 03/26/2005 SAC @ DEN L 36 15 5 16 31.3 2 8 25.0 3 4 75.0 1 3 4 4 2 0 4 1 -18
+p121
+aVKenny Thomas SAC 03/26/2005 SAC @ DEN L 37 17 6 15 40.0 0 0 - 5 8 62.5 4 3 7 5 0 0 3 3 -15
+p122
+aVMaurice Evans SAC 03/26/2005 SAC @ DEN L 9 2 0 4 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 4
+p123
+aVPeja Stojakovic SAC 03/26/2005 SAC @ DEN L 40 24 8 14 57.1 3 4 75.0 5 5 100.0 0 2 2 2 3 0 0 5 -22
+p124
+aVCuttino Mobley SAC 03/26/2005 SAC @ DEN L 40 18 5 11 45.5 1 3 33.3 7 8 87.5 2 2 4 4 1 0 2 1 -18
+p125
+aVCorliss Williamson SAC 03/26/2005 SAC @ DEN L 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 2 3 3
+p126
+aVDarius Songaila SAC 03/24/2005 SAC vs. DAL W 26 6 1 5 20.0 0 0 - 4 4 100.0 0 7 7 3 1 0 2 1 4
+p127
+aVMaurice Evans SAC 03/24/2005 SAC vs. DAL W 14 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p128
+aVMike Bibby SAC 03/24/2005 SAC vs. DAL W 42 17 6 18 33.3 2 3 66.7 3 4 75.0 0 2 2 8 0 0 1 3 12
+p129
+aVPeja Stojakovic SAC 03/24/2005 SAC vs. DAL W 41 38 9 13 69.2 6 8 75.0 14 14 100.0 1 8 9 2 1 0 3 5 12
+p130
+aVBrian Skinner SAC 03/24/2005 SAC vs. DAL W 31 6 3 4 75.0 0 0 - 0 0 - 3 5 8 2 1 1 0 2 11
+p131
+aVEddie House SAC 03/24/2005 SAC vs. DAL W 6 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p132
+aVCorliss Williamson SAC 03/24/2005 SAC vs. DAL W 7 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -12
+p133
+aVCuttino Mobley SAC 03/24/2005 SAC vs. DAL W 38 16 7 16 43.8 0 2 0.0 2 2 100.0 0 5 5 6 2 1 3 2 12
+p134
+aVKenny Thomas SAC 03/24/2005 SAC vs. DAL W 35 15 6 14 42.9 0 0 - 3 4 75.0 3 5 8 1 1 1 1 5 7
+p135
+aVGreg Ostertag SAC 03/22/2005 SAC vs. POR W 22 5 2 5 40.0 0 0 - 1 2 50.0 2 4 6 2 1 1 0 4 14
+p136
+aVMike Bibby SAC 03/22/2005 SAC vs. POR W 40 12 4 13 30.8 0 2 0.0 4 4 100.0 0 0 0 10 2 1 0 3 22
+p137
+aVEddie House SAC 03/22/2005 SAC vs. POR W 8 8 4 5 80.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -3
+p138
+aVCorliss Williamson SAC 03/22/2005 SAC vs. POR W 22 13 4 13 30.8 0 0 - 5 6 83.3 1 6 7 2 1 0 0 3 4
+p139
+aVDarius Songaila SAC 03/22/2005 SAC vs. POR W 12 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 0
+p140
+aVKevin Martin SAC 03/22/2005 SAC vs. POR W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p141
+aVPeja Stojakovic SAC 03/22/2005 SAC vs. POR W 44 23 9 17 52.9 2 6 33.3 3 3 100.0 2 4 6 3 5 0 1 2 13
+p142
+aVErik Daniels SAC 03/22/2005 SAC vs. POR W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p143
+aVKenny Thomas SAC 03/22/2005 SAC vs. POR W 41 24 9 17 52.9 0 0 - 6 10 60.0 2 7 9 5 2 0 0 0 26
+p144
+aVMaurice Evans SAC 03/22/2005 SAC vs. POR W 8 2 1 5 20.0 0 2 0.0 0 0 - 3 3 6 0 0 0 2 0 7
+p145
+aVCuttino Mobley SAC 03/22/2005 SAC vs. POR W 39 19 5 12 41.7 2 6 33.3 7 7 100.0 1 0 1 4 2 0 1 2 12
+p146
+aVBrian Skinner SAC 03/20/2005 SAC vs. GSW L 25 4 2 4 50.0 0 0 - 0 1 0.0 2 3 5 0 1 0 2 2 -7
+p147
+aVDarius Songaila SAC 03/20/2005 SAC vs. GSW L 32 15 6 14 42.9 0 0 - 3 3 100.0 7 2 9 3 1 0 1 4 -3
+p148
+aVMaurice Evans SAC 03/20/2005 SAC vs. GSW L 41 15 5 10 50.0 0 1 0.0 5 6 83.3 1 7 8 0 0 1 0 2 -12
+p149
+aVPeja Stojakovic SAC 03/20/2005 SAC vs. GSW L 45 14 4 19 21.1 2 8 25.0 4 4 100.0 0 6 6 3 1 0 3 3 -12
+p150
+aVErik Daniels SAC 03/20/2005 SAC vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p151
+aVKevin Martin SAC 03/20/2005 SAC vs. GSW L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p152
+aVKenny Thomas SAC 03/20/2005 SAC vs. GSW L 34 18 6 14 42.9 0 0 - 6 8 75.0 4 4 8 1 3 1 2 4 -6
+p153
+aVEddie House SAC 03/20/2005 SAC vs. GSW L 12 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 4
+p154
+aVMike Bibby SAC 03/20/2005 SAC vs. GSW L 40 24 10 23 43.5 0 5 0.0 4 5 80.0 0 3 3 8 2 1 1 2 -9
+p155
+aVEddie House SAC 03/19/2005 SAC @ LAC W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p156
+aVKenny Thomas SAC 03/19/2005 SAC @ LAC W 37 16 7 16 43.8 0 0 - 2 2 100.0 1 7 8 2 1 0 0 5 10
+p157
+aVKevin Martin SAC 03/19/2005 SAC @ LAC W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p158
+aVCorliss Williamson SAC 03/19/2005 SAC @ LAC W 19 11 4 6 66.7 0 0 - 3 3 100.0 3 3 6 0 0 1 1 4 3
+p159
+aVDarius Songaila SAC 03/19/2005 SAC @ LAC W 13 4 2 6 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 4 -5
+p160
+aVMike Bibby SAC 03/19/2005 SAC @ LAC W 40 19 6 20 30.0 0 5 0.0 7 8 87.5 2 4 6 6 0 0 2 4 -1
+p161
+aVCuttino Mobley SAC 03/19/2005 SAC @ LAC W 44 24 8 17 47.1 3 7 42.9 5 5 100.0 1 4 5 4 2 0 0 1 7
+p162
+aVPeja Stojakovic SAC 03/19/2005 SAC @ LAC W 45 24 7 15 46.7 4 7 57.1 6 7 85.7 2 5 7 1 1 0 1 3 2
+p163
+aVBrian Skinner SAC 03/19/2005 SAC @ LAC W 36 9 4 7 57.1 0 0 - 1 2 50.0 3 6 9 1 3 3 2 3 -2
+p164
+aVMaurice Evans SAC 03/19/2005 SAC @ LAC W 18 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 1
+p165
+aVKenny Thomas SAC 03/17/2005 SAC @ GSW L 28 16 7 15 46.7 0 0 - 2 2 100.0 3 7 10 4 2 2 1 2 -3
+p166
+aVPeja Stojakovic SAC 03/17/2005 SAC @ GSW L 41 18 7 21 33.3 4 9 44.4 0 0 - 1 3 4 7 0 0 2 0 5
+p167
+aVMaurice Evans SAC 03/17/2005 SAC @ GSW L 13 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -17
+p168
+aVCuttino Mobley SAC 03/17/2005 SAC @ GSW L 42 28 10 15 66.7 6 7 85.7 2 2 100.0 0 9 9 2 1 3 3 3 6
+p169
+aVBrian Skinner SAC 03/17/2005 SAC @ GSW L 30 14 6 11 54.5 0 0 - 2 4 50.0 6 5 11 1 0 2 0 5 4
+p170
+aVEddie House SAC 03/17/2005 SAC @ GSW L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -6
+p171
+aVCorliss Williamson SAC 03/17/2005 SAC @ GSW L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p172
+aVDarius Songaila SAC 03/17/2005 SAC @ GSW L 28 6 3 5 60.0 0 0 - 0 0 - 3 1 4 2 0 0 0 0 -7
+p173
+aVMike Bibby SAC 03/17/2005 SAC @ GSW L 40 11 4 16 25.0 3 7 42.9 0 0 - 1 2 3 8 3 0 4 3 3
+p174
+aVDarius Songaila SAC 03/15/2005 SAC vs. ORL W 23 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 4 3 0 2 3 3
+p175
+aVEddie House SAC 03/15/2005 SAC vs. ORL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p176
+aVCorliss Williamson SAC 03/15/2005 SAC vs. ORL W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -1
+p177
+aVMike Bibby SAC 03/15/2005 SAC vs. ORL W 43 21 7 17 41.2 3 7 42.9 4 4 100.0 0 6 6 10 1 0 4 1 14
+p178
+aVKenny Thomas SAC 03/15/2005 SAC vs. ORL W 30 16 6 10 60.0 0 0 - 4 4 100.0 1 10 11 7 1 0 4 3 8
+p179
+aVBrian Skinner SAC 03/15/2005 SAC vs. ORL W 36 13 6 9 66.7 0 0 - 1 4 25.0 4 7 11 2 3 3 2 4 12
+p180
+aVPeja Stojakovic SAC 03/15/2005 SAC vs. ORL W 40 27 11 18 61.1 3 6 50.0 2 3 66.7 1 1 2 1 0 0 2 2 9
+p181
+aVMaurice Evans SAC 03/15/2005 SAC vs. ORL W 14 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 1 4 0 0 1 2
+p182
+aVCuttino Mobley SAC 03/15/2005 SAC vs. ORL W 37 10 5 12 41.7 0 2 0.0 0 0 - 0 2 2 1 1 0 4 5 11
+p183
+aVEddie House SAC 03/13/2005 SAC vs. HOU L 11 8 3 5 60.0 2 2 100.0 0 0 - 3 1 4 2 0 0 2 0 -3
+p184
+aVCorliss Williamson SAC 03/13/2005 SAC vs. HOU L 10 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 3 0 0 1 1 -2
+p185
+aVDarius Songaila SAC 03/13/2005 SAC vs. HOU L 23 10 5 10 50.0 0 0 - 0 0 - 5 1 6 0 2 0 0 2 -6
+p186
+aVCuttino Mobley SAC 03/13/2005 SAC vs. HOU L 43 20 8 24 33.3 4 11 36.4 0 1 0.0 2 4 6 3 1 0 1 1 -10
+p187
+aVMaurice Evans SAC 03/13/2005 SAC vs. HOU L 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -11
+p188
+aVPeja Stojakovic SAC 03/13/2005 SAC vs. HOU L 41 21 8 18 44.4 4 8 50.0 1 1 100.0 1 1 2 4 1 0 2 2 -10
+p189
+aVKenny Thomas SAC 03/13/2005 SAC vs. HOU L 28 13 4 9 44.4 0 0 - 5 9 55.6 1 2 3 2 2 1 1 3 -11
+p190
+aVGreg Ostertag SAC 03/13/2005 SAC vs. HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p191
+aVBrian Skinner SAC 03/13/2005 SAC vs. HOU L 31 6 3 7 42.9 0 0 - 0 2 0.0 6 5 11 1 2 1 1 4 -9
+p192
+aVMike Bibby SAC 03/13/2005 SAC vs. HOU L 41 12 5 16 31.3 1 8 12.5 1 3 33.3 3 2 5 12 3 1 6 2 -11
+p193
+aVDarius Songaila SAC 03/11/2005 SAC vs. LAC W 16 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 3 4
+p194
+aVMaurice Evans SAC 03/11/2005 SAC vs. LAC W 17 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 1 1
+p195
+aVCuttino Mobley SAC 03/11/2005 SAC vs. LAC W 42 21 8 14 57.1 3 3 100.0 2 2 100.0 1 3 4 1 0 2 2 3 3
+p196
+aVPeja Stojakovic SAC 03/11/2005 SAC vs. LAC W 38 6 2 10 20.0 2 7 28.6 0 0 - 0 1 1 1 0 0 0 2 -2
+p197
+aVBrian Skinner SAC 03/11/2005 SAC vs. LAC W 26 14 6 9 66.7 0 0 - 2 5 40.0 3 6 9 1 0 4 0 3 -9
+p198
+aVEddie House SAC 03/11/2005 SAC vs. LAC W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p199
+aVKenny Thomas SAC 03/11/2005 SAC vs. LAC W 32 12 6 12 50.0 0 0 - 0 2 0.0 3 6 9 3 2 1 4 3 -3
+p200
+aVMike Bibby SAC 03/11/2005 SAC vs. LAC W 41 28 12 20 60.0 1 3 33.3 3 4 75.0 0 3 3 12 3 0 1 1 -1
+p201
+aVCorliss Williamson SAC 03/11/2005 SAC vs. LAC W 22 22 8 15 53.3 0 0 - 6 6 100.0 2 2 4 1 0 0 2 2 10
+p202
+aVCorliss Williamson SAC 03/08/2005 SAC vs. MEM W 14 8 2 7 28.6 0 0 - 4 4 100.0 1 2 3 1 0 0 1 3 -5
+p203
+aVBrian Skinner SAC 03/08/2005 SAC vs. MEM W 41 9 2 7 28.6 0 0 - 5 8 62.5 6 4 10 1 2 4 3 4 -1
+p204
+aVMaurice Evans SAC 03/08/2005 SAC vs. MEM W 39 8 4 11 36.4 0 2 0.0 0 2 0.0 6 8 14 1 1 0 0 1 2
+p205
+aVGreg Ostertag SAC 03/08/2005 SAC vs. MEM W 5 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 0 2 0 1 5
+p206
+aVKevin Martin SAC 03/08/2005 SAC vs. MEM W 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 7
+p207
+aVMike Bibby SAC 03/08/2005 SAC vs. MEM W 45 26 9 22 40.9 2 4 50.0 6 6 100.0 2 1 3 5 2 0 2 0 5
+p208
+aVDarius Songaila SAC 03/08/2005 SAC vs. MEM W 35 10 5 14 35.7 0 0 - 0 0 - 3 6 9 3 0 0 3 2 4
+p209
+aVEddie House SAC 03/08/2005 SAC vs. MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p210
+aVPeja Stojakovic SAC 03/08/2005 SAC vs. MEM W 46 19 6 18 33.3 3 8 37.5 4 5 80.0 1 4 5 4 1 1 3 2 -3
+p211
+aVPeja Stojakovic SAC 03/06/2005 SAC vs. DET W 41 14 4 15 26.7 2 3 66.7 4 4 100.0 1 4 5 4 1 0 3 3 11
+p212
+aVBrian Skinner SAC 03/06/2005 SAC vs. DET W 33 12 6 11 54.5 0 0 - 0 0 - 3 9 12 2 1 3 3 3 17
+p213
+aVCorliss Williamson SAC 03/06/2005 SAC vs. DET W 11 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 1 0 0 1 1 3
+p214
+aVKenny Thomas SAC 03/06/2005 SAC vs. DET W 31 19 8 13 61.5 0 0 - 3 4 75.0 1 9 10 2 0 2 2 4 2
+p215
+aVMike Bibby SAC 03/06/2005 SAC vs. DET W 44 19 7 17 41.2 1 3 33.3 4 4 100.0 2 3 5 11 2 0 4 4 20
+p216
+aVDarius Songaila SAC 03/06/2005 SAC vs. DET W 21 14 7 9 77.8 0 0 - 0 0 - 0 2 2 3 2 0 0 5 8
+p217
+aVEddie House SAC 03/06/2005 SAC vs. DET W 12 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 1 1 0 0 0 4
+p218
+aVKevin Martin SAC 03/06/2005 SAC vs. DET W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 5
+p219
+aVMaurice Evans SAC 03/06/2005 SAC vs. DET W 37 12 5 14 35.7 2 4 50.0 0 0 - 3 6 9 0 0 1 1 1 5
+p220
+aVKenny Thomas SAC 03/04/2005 SAC @ MIA L 23 6 2 6 33.3 0 0 - 2 3 66.7 2 0 2 1 0 0 4 0 -13
+p221
+aVCorliss Williamson SAC 03/04/2005 SAC @ MIA L 18 0 0 6 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 -15
+p222
+aVBrian Skinner SAC 03/04/2005 SAC @ MIA L 35 8 4 7 57.1 0 0 - 0 0 - 2 9 11 3 0 1 1 4 -15
+p223
+aVMike Bibby SAC 03/04/2005 SAC @ MIA L 37 22 8 15 53.3 0 1 0.0 6 8 75.0 0 3 3 7 0 0 3 2 -17
+p224
+aVDarius Songaila SAC 03/04/2005 SAC @ MIA L 28 8 4 10 40.0 0 0 - 0 0 - 2 4 6 4 2 0 0 1 -13
+p225
+aVGreg Ostertag SAC 03/04/2005 SAC @ MIA L 10 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 1 2 2 -1
+p226
+aVPeja Stojakovic SAC 03/04/2005 SAC @ MIA L 32 15 6 15 40.0 1 7 14.3 2 3 66.7 1 6 7 0 0 0 1 1 -15
+p227
+aVCuttino Mobley SAC 03/04/2005 SAC @ MIA L 33 17 8 14 57.1 1 3 33.3 0 0 - 0 3 3 2 0 0 1 3 -4
+p228
+aVKevin Martin SAC 03/04/2005 SAC @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p229
+aVMaurice Evans SAC 03/04/2005 SAC @ MIA L 11 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 2 0 0 1 -8
+p230
+aVEddie House SAC 03/04/2005 SAC @ MIA L 11 5 2 4 50.0 0 1 0.0 1 1 100.0 0 2 2 0 0 0 1 0 -4
+p231
+aVEddie House SAC 03/02/2005 SAC @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 0
+p232
+aVMike Bibby SAC 03/02/2005 SAC @ ORL L 44 26 11 26 42.3 2 9 22.2 2 3 66.7 0 4 4 10 1 1 3 3 -3
+p233
+aVDarius Songaila SAC 03/02/2005 SAC @ ORL L 35 15 7 13 53.8 0 0 - 1 1 100.0 1 6 7 1 2 1 1 3 -2
+p234
+aVKenny Thomas SAC 03/02/2005 SAC @ ORL L 21 8 3 4 75.0 0 0 - 2 2 100.0 3 2 5 2 0 0 1 4 0
+p235
+aVMaurice Evans SAC 03/02/2005 SAC @ ORL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p236
+aVBrian Skinner SAC 03/02/2005 SAC @ ORL L 34 12 6 10 60.0 0 0 - 0 0 - 1 4 5 2 0 3 0 1 1
+p237
+aVPeja Stojakovic SAC 03/02/2005 SAC @ ORL L 39 28 7 12 58.3 3 7 42.9 11 11 100.0 1 3 4 1 2 0 3 4 -9
+p238
+aVCuttino Mobley SAC 03/02/2005 SAC @ ORL L 39 14 6 14 42.9 1 4 25.0 1 2 50.0 2 2 4 4 1 0 3 2 -5
+p239
+aVCorliss Williamson SAC 03/02/2005 SAC @ ORL L 18 8 4 6 66.7 0 0 - 0 1 0.0 2 2 4 1 0 0 1 4 4
+p240
+aVCorliss Williamson SAC 03/01/2005 SAC @ CHA L 38 18 6 12 50.0 0 0 - 6 7 85.7 0 3 3 3 1 0 5 2 0
+p241
+aVMaurice Evans SAC 03/01/2005 SAC @ CHA L 20 4 2 9 22.2 0 2 0.0 0 0 - 1 3 4 1 1 0 0 1 -2
+p242
+aVBrian Skinner SAC 03/01/2005 SAC @ CHA L 41 15 7 10 70.0 0 0 - 1 3 33.3 4 12 16 0 2 3 2 3 -8
+p243
+aVMike Bibby SAC 03/01/2005 SAC @ CHA L 39 14 4 15 26.7 2 7 28.6 4 4 100.0 1 4 5 4 1 0 8 3 -3
+p244
+aVEddie House SAC 03/01/2005 SAC @ CHA L 14 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 2
+p245
+aVCuttino Mobley SAC 03/01/2005 SAC @ CHA L 37 17 8 14 57.1 1 4 25.0 0 0 - 0 5 5 0 2 0 6 1 -20
+p246
+aVKenny Thomas SAC 03/01/2005 SAC @ CHA L 38 13 6 13 46.2 0 1 0.0 1 2 50.0 5 7 12 3 2 1 1 4 -12
+p247
+aVGreg Ostertag SAC 03/01/2005 SAC @ CHA L 7 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 1 0 0 1 1
+p248
+aVKevin Martin SAC 03/01/2005 SAC @ CHA L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 7
+p249
+aVKenny Thomas SAC 02/27/2005 SAC @ WAS W 34 6 2 6 33.3 0 0 - 2 4 50.0 4 8 12 4 1 0 4 3 5
+p250
+aVCorliss Williamson SAC 02/27/2005 SAC @ WAS W 25 9 3 6 50.0 0 0 - 3 4 75.0 1 1 2 3 0 0 0 5 -1
+p251
+aVDarius Songaila SAC 02/27/2005 SAC @ WAS W 19 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 2 0 0 0 4 -9
+p252
+aVBrad Miller SAC 02/27/2005 SAC @ WAS W 41 12 5 11 45.5 0 0 - 2 2 100.0 2 8 10 4 1 2 2 3 2
+p253
+aVMaurice Evans SAC 02/27/2005 SAC @ WAS W 15 12 4 9 44.4 2 5 40.0 2 2 100.0 0 1 1 1 2 0 1 5 7
+p254
+aVCuttino Mobley SAC 02/27/2005 SAC @ WAS W 44 18 6 17 35.3 2 7 28.6 4 6 66.7 1 6 7 4 3 1 1 2 7
+p255
+aVBrian Skinner SAC 02/27/2005 SAC @ WAS W 10 6 3 3 100.0 0 0 - 0 2 0.0 1 3 4 0 0 0 0 1 2
+p256
+aVEddie House SAC 02/27/2005 SAC @ WAS W 10 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 1 0 0 -5
+p257
+aVMike Bibby SAC 02/27/2005 SAC @ WAS W 42 38 13 23 56.5 5 9 55.6 7 8 87.5 2 4 6 7 4 0 5 3 2
+p258
+aVBrad Miller SAC 02/26/2005 SAC @ PHI W 38 11 5 11 45.5 0 1 0.0 1 2 50.0 2 5 7 6 2 1 2 3 3
+p259
+aVCorliss Williamson SAC 02/26/2005 SAC @ PHI W 29 17 7 11 63.6 0 0 - 3 3 100.0 3 3 6 3 2 0 1 6 -7
+p260
+aVKenny Thomas SAC 02/26/2005 SAC @ PHI W 30 16 5 12 41.7 0 0 - 6 8 75.0 1 9 10 0 1 0 2 2 15
+p261
+aVBrian Skinner SAC 02/26/2005 SAC @ PHI W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 2 0 1 -1
+p262
+aVMaurice Evans SAC 02/26/2005 SAC @ PHI W 18 6 3 6 50.0 0 2 0.0 0 0 - 1 3 4 0 1 0 1 0 7
+p263
+aVCuttino Mobley SAC 02/26/2005 SAC @ PHI W 39 17 7 17 41.2 0 5 0.0 3 3 100.0 0 6 6 1 0 1 4 2 -6
+p264
+aVEddie House SAC 02/26/2005 SAC @ PHI W 15 11 4 6 66.7 3 4 75.0 0 0 - 0 2 2 2 1 0 1 2 8
+p265
+aVDarius Songaila SAC 02/26/2005 SAC @ PHI W 19 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 0 0 1 2 -11
+p266
+aVMike Bibby SAC 02/26/2005 SAC @ PHI W 42 19 5 17 29.4 3 7 42.9 6 6 100.0 0 4 4 8 2 0 2 1 2
+p267
+aVMike Bibby SAC 02/24/2005 SAC @ DAL L 42 26 8 20 40.0 3 7 42.9 7 9 77.8 1 4 5 8 3 0 2 2 -9
+p268
+aVCuttino Mobley SAC 02/24/2005 SAC @ DAL L 46 26 10 19 52.6 3 10 30.0 3 3 100.0 0 3 3 3 2 0 6 2 -4
+p269
+aVEddie House SAC 02/24/2005 SAC @ DAL L 10 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 2 -12
+p270
+aVDarius Songaila SAC 02/24/2005 SAC @ DAL L 45 23 10 14 71.4 0 0 - 3 5 60.0 6 6 12 3 0 0 6 0 0
+p271
+aVGreg Ostertag SAC 02/24/2005 SAC @ DAL L 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 1 1 1 -6
+p272
+aVMaurice Evans SAC 02/24/2005 SAC @ DAL L 38 12 2 7 28.6 1 3 33.3 7 8 87.5 0 6 6 1 2 0 2 5 0
+p273
+aVKevin Martin SAC 02/24/2005 SAC @ DAL L 10 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 -11
+p274
+aVBrad Miller SAC 02/24/2005 SAC @ DAL L 40 16 3 12 25.0 0 0 - 10 10 100.0 2 13 15 3 1 2 1 4 -3
+p275
+aVBrad Miller SAC 02/22/2005 SAC vs. ATL W 39 16 5 12 41.7 0 1 0.0 6 7 85.7 2 12 14 7 1 2 2 1 4
+p276
+aVMaurice Evans SAC 02/22/2005 SAC vs. ATL W 18 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 2 2
+p277
+aVEddie House SAC 02/22/2005 SAC vs. ATL W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -3
+p278
+aVChris Webber SAC 02/22/2005 SAC vs. ATL W 39 30 11 20 55.0 0 1 0.0 8 8 100.0 1 5 6 7 2 1 2 3 17
+p279
+aVMatt Barnes SAC 02/22/2005 SAC vs. ATL W 35 10 4 10 40.0 0 0 - 2 3 66.7 5 5 10 3 2 1 2 2 15
+p280
+aVMike Bibby SAC 02/22/2005 SAC vs. ATL W 38 23 10 18 55.6 2 4 50.0 1 1 100.0 1 5 6 7 3 1 4 5 13
+p281
+aVCuttino Mobley SAC 02/22/2005 SAC vs. ATL W 43 20 9 15 60.0 1 4 25.0 1 2 50.0 1 3 4 0 0 1 3 1 3
+p282
+aVDarius Songaila SAC 02/22/2005 SAC vs. ATL W 18 10 4 6 66.7 0 1 0.0 2 4 50.0 2 3 5 3 1 1 2 1 -1
+p283
+aVEddie House SAC 02/16/2005 SAC @ NJN L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 0 1 1
+p284
+aVDarius Songaila SAC 02/16/2005 SAC @ NJN L 17 8 3 3 100.0 0 0 - 2 2 100.0 0 3 3 2 2 1 1 0 1
+p285
+aVMike Bibby SAC 02/16/2005 SAC @ NJN L 36 25 10 17 58.8 0 2 0.0 5 6 83.3 1 4 5 3 0 0 2 1 -11
+p286
+aVCuttino Mobley SAC 02/16/2005 SAC @ NJN L 44 16 7 14 50.0 0 3 0.0 2 2 100.0 0 6 6 4 1 0 1 1 -10
+p287
+aVChris Webber SAC 02/16/2005 SAC @ NJN L 39 12 6 20 30.0 0 1 0.0 0 0 - 0 10 10 5 0 2 1 2 -6
+p288
+aVMatt Barnes SAC 02/16/2005 SAC @ NJN L 24 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 2 2 0 2 3 1
+p289
+aVBrad Miller SAC 02/16/2005 SAC @ NJN L 40 8 2 10 20.0 0 1 0.0 4 6 66.7 1 4 5 5 1 3 1 1 -17
+p290
+aVMaurice Evans SAC 02/16/2005 SAC @ NJN L 25 10 4 11 36.4 2 3 66.7 0 0 - 1 3 4 1 1 0 1 6 -14
+p291
+aVMike Bibby SAC 02/15/2005 SAC @ CHI L 41 21 7 18 38.9 2 7 28.6 5 7 71.4 0 3 3 7 1 1 2 4 -2
+p292
+aVEddie House SAC 02/15/2005 SAC @ CHI L 6 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 0 0 0 0 -3
+p293
+aVGreg Ostertag SAC 02/15/2005 SAC @ CHI L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p294
+aVMaurice Evans SAC 02/15/2005 SAC @ CHI L 28 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 1 2 0 1 3 -13
+p295
+aVKevin Martin SAC 02/15/2005 SAC @ CHI L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -1
+p296
+aVChris Webber SAC 02/15/2005 SAC @ CHI L 33 15 7 21 33.3 0 2 0.0 1 1 100.0 3 6 9 4 3 1 4 6 -6
+p297
+aVMatt Barnes SAC 02/15/2005 SAC @ CHI L 24 0 0 1 0.0 0 0 - 0 2 0.0 3 2 5 0 0 0 0 4 10
+p298
+aVCuttino Mobley SAC 02/15/2005 SAC @ CHI L 37 20 5 13 38.5 2 3 66.7 8 9 88.9 1 1 2 3 1 0 3 3 -6
+p299
+aVDarius Songaila SAC 02/15/2005 SAC @ CHI L 20 10 4 7 57.1 0 0 - 2 2 100.0 1 0 1 0 0 0 0 5 -5
+p300
+aVBrad Miller SAC 02/15/2005 SAC @ CHI L 41 23 8 14 57.1 0 0 - 7 9 77.8 1 8 9 7 3 1 3 5 3
+p301
+aVCuttino Mobley SAC 02/13/2005 SAC @ BOS W 40 20 6 12 50.0 2 5 40.0 6 7 85.7 2 3 5 5 3 0 4 4 -4
+p302
+aVEddie House SAC 02/13/2005 SAC @ BOS W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 1
+p303
+aVPeja Stojakovic SAC 02/13/2005 SAC @ BOS W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -4
+p304
+aVChris Webber SAC 02/13/2005 SAC @ BOS W 40 14 7 23 30.4 0 0 - 0 0 - 6 11 17 12 0 1 5 2 -6
+p305
+aVDarius Songaila SAC 02/13/2005 SAC @ BOS W 13 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 10
+p306
+aVBrad Miller SAC 02/13/2005 SAC @ BOS W 42 20 7 11 63.6 0 0 - 6 6 100.0 2 4 6 4 2 2 0 2 4
+p307
+aVMatt Barnes SAC 02/13/2005 SAC @ BOS W 21 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -3
+p308
+aVMaurice Evans SAC 02/13/2005 SAC @ BOS W 30 17 5 9 55.6 3 4 75.0 4 4 100.0 2 2 4 0 2 1 2 4 19
+p309
+aVMike Bibby SAC 02/13/2005 SAC @ BOS W 43 27 10 20 50.0 4 5 80.0 3 5 60.0 0 4 4 5 1 0 2 2 3
+p310
+aVDarius Songaila SAC 02/11/2005 SAC vs. DAL L 17 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 2 1
+p311
+aVEddie House SAC 02/11/2005 SAC vs. DAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p312
+aVBrad Miller SAC 02/11/2005 SAC vs. DAL L 36 22 8 14 57.1 0 0 - 6 8 75.0 5 5 10 4 1 0 1 5 1
+p313
+aVChris Webber SAC 02/11/2005 SAC vs. DAL L 38 23 10 23 43.5 0 2 0.0 3 5 60.0 4 7 11 4 0 0 2 3 -6
+p314
+aVMike Bibby SAC 02/11/2005 SAC vs. DAL L 40 25 9 16 56.3 4 6 66.7 3 6 50.0 1 5 6 4 2 0 4 4 -2
+p315
+aVCuttino Mobley SAC 02/11/2005 SAC vs. DAL L 36 17 7 14 50.0 3 4 75.0 0 0 - 2 1 3 4 1 2 2 4 -12
+p316
+aVMatt Barnes SAC 02/11/2005 SAC vs. DAL L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 4 3 0 1 2 11
+p317
+aVMaurice Evans SAC 02/11/2005 SAC vs. DAL L 20 12 4 6 66.7 1 1 100.0 3 3 100.0 1 0 1 0 1 0 0 2 10
+p318
+aVPeja Stojakovic SAC 02/11/2005 SAC vs. DAL L 34 9 3 10 30.0 1 6 16.7 2 2 100.0 0 4 4 3 0 0 1 2 -13
+p319
+aVCuttino Mobley SAC 02/10/2005 SAC @ SEA L 41 23 8 20 40.0 6 11 54.5 1 2 50.0 0 3 3 2 0 0 2 4 0
+p320
+aVPeja Stojakovic SAC 02/10/2005 SAC @ SEA L 45 28 9 18 50.0 3 9 33.3 7 8 87.5 1 5 6 2 1 0 0 4 -2
+p321
+aVMaurice Evans SAC 02/10/2005 SAC @ SEA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p322
+aVMatt Barnes SAC 02/10/2005 SAC @ SEA L 14 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 5 -4
+p323
+aVGreg Ostertag SAC 02/10/2005 SAC @ SEA L 21 5 2 4 50.0 0 0 - 1 1 100.0 2 4 6 2 1 1 1 3 7
+p324
+aVDarius Songaila SAC 02/10/2005 SAC @ SEA L 30 12 5 6 83.3 0 0 - 2 2 100.0 0 3 3 5 0 0 0 4 -12
+p325
+aVEddie House SAC 02/10/2005 SAC @ SEA L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 3
+p326
+aVChris Webber SAC 02/10/2005 SAC @ SEA L 37 19 8 13 61.5 1 1 100.0 2 2 100.0 0 9 9 9 1 0 4 5 -13
+p327
+aVMike Bibby SAC 02/10/2005 SAC @ SEA L 42 16 8 16 50.0 0 2 0.0 0 0 - 0 4 4 5 2 0 2 1 -11
+p328
+aVMatt Barnes SAC 02/08/2005 SAC vs. PHX L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 0 0 3
+p329
+aVEddie House SAC 02/08/2005 SAC vs. PHX L 9 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 1 1 5
+p330
+aVChris Webber SAC 02/08/2005 SAC vs. PHX L 39 24 9 22 40.9 1 2 50.0 5 8 62.5 2 8 10 12 1 1 3 4 4
+p331
+aVMaurice Evans SAC 02/08/2005 SAC vs. PHX L 14 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 0 13
+p332
+aVPeja Stojakovic SAC 02/08/2005 SAC vs. PHX L 39 20 8 18 44.4 3 7 42.9 1 2 50.0 3 2 5 3 2 0 2 0 -5
+p333
+aVDarius Songaila SAC 02/08/2005 SAC vs. PHX L 19 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 2 2 0 1 3 7
+p334
+aVCuttino Mobley SAC 02/08/2005 SAC vs. PHX L 37 23 8 15 53.3 5 7 71.4 2 2 100.0 0 8 8 3 1 0 1 4 -13
+p335
+aVMike Bibby SAC 02/08/2005 SAC vs. PHX L 39 27 9 16 56.3 2 3 66.7 7 10 70.0 3 3 6 7 1 1 5 4 -6
+p336
+aVBrad Miller SAC 02/08/2005 SAC vs. PHX L 38 12 6 12 50.0 0 0 - 0 0 - 3 7 10 4 2 0 2 5 -13
+p337
+aVBrad Miller SAC 02/05/2005 SAC @ POR L 37 18 7 13 53.8 0 0 - 4 5 80.0 3 4 7 4 3 1 1 3 -8
+p338
+aVDarius Songaila SAC 02/05/2005 SAC @ POR L 20 0 0 3 0.0 0 0 - 0 0 - 3 1 4 1 0 0 1 1 -1
+p339
+aVEddie House SAC 02/05/2005 SAC @ POR L 11 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 1 2 0 0 0 2
+p340
+aVPeja Stojakovic SAC 02/05/2005 SAC @ POR L 34 15 4 13 30.8 2 5 40.0 5 5 100.0 0 1 1 4 1 0 3 2 1
+p341
+aVMaurice Evans SAC 02/05/2005 SAC @ POR L 14 5 2 6 33.3 1 2 50.0 0 0 - 2 1 3 0 0 0 0 0 -4
+p342
+aVCuttino Mobley SAC 02/05/2005 SAC @ POR L 26 3 1 7 14.3 1 2 50.0 0 0 - 0 3 3 4 1 0 1 3 -3
+p343
+aVMike Bibby SAC 02/05/2005 SAC @ POR L 40 35 13 23 56.5 4 9 44.4 5 6 83.3 3 2 5 5 1 1 2 1 -8
+p344
+aVMatt Barnes SAC 02/05/2005 SAC @ POR L 20 4 1 4 25.0 0 0 - 2 5 40.0 3 0 3 1 0 0 2 3 -4
+p345
+aVChris Webber SAC 02/05/2005 SAC @ POR L 38 20 8 21 38.1 1 1 100.0 3 4 75.0 7 6 13 10 4 0 1 6 -5
+p346
+aVDarius Songaila SAC 02/04/2005 SAC vs. NYK W 30 6 2 9 22.2 0 0 - 2 2 100.0 1 4 5 1 2 0 2 4 -3
+p347
+aVMike Bibby SAC 02/04/2005 SAC vs. NYK W 43 40 16 25 64.0 1 1 100.0 7 14 50.0 1 2 3 7 3 0 1 0 11
+p348
+aVBrad Miller SAC 02/04/2005 SAC vs. NYK W 42 35 11 20 55.0 0 0 - 13 16 81.3 2 7 9 4 1 2 1 1 3
+p349
+aVMichael Bradley SAC 02/04/2005 SAC vs. NYK W 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p350
+aVKevin Martin SAC 02/04/2005 SAC vs. NYK W 21 7 3 5 60.0 1 1 100.0 0 0 - 1 2 3 1 3 0 1 1 1
+p351
+aVMatt Barnes SAC 02/04/2005 SAC vs. NYK W 40 16 5 10 50.0 0 0 - 6 7 85.7 3 5 8 3 4 0 1 5 11
+p352
+aVMaurice Evans SAC 02/04/2005 SAC vs. NYK W 39 8 4 11 36.4 0 1 0.0 0 2 0.0 2 2 4 3 0 0 2 3 -5
+p353
+aVGreg Ostertag SAC 02/04/2005 SAC vs. NYK W 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -6
+p354
+aVEddie House SAC 02/04/2005 SAC vs. NYK W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -10
+p355
+aVMike Bibby SAC 02/02/2005 SAC @ GSW W 49 17 5 18 27.8 3 7 42.9 4 5 80.0 1 8 9 11 0 0 3 3 8
+p356
+aVMaurice Evans SAC 02/02/2005 SAC @ GSW W 43 15 6 12 50.0 1 3 33.3 2 2 100.0 2 2 4 1 0 0 3 5 3
+p357
+aVMatt Barnes SAC 02/02/2005 SAC @ GSW W 46 10 3 12 25.0 0 0 - 4 4 100.0 4 4 8 7 1 0 2 2 7
+p358
+aVMichael Bradley SAC 02/02/2005 SAC @ GSW W 9 4 2 3 66.7 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -3
+p359
+aVEddie House SAC 02/02/2005 SAC @ GSW W 12 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 2 1 0 0 1 -3
+p360
+aVGreg Ostertag SAC 02/02/2005 SAC @ GSW W 3 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -7
+p361
+aVKevin Martin SAC 02/02/2005 SAC @ GSW W 9 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 0 -3
+p362
+aVDarius Songaila SAC 02/02/2005 SAC @ GSW W 44 18 7 14 50.0 0 0 - 4 4 100.0 4 7 11 1 1 1 1 5 7
+p363
+aVBrad Miller SAC 02/02/2005 SAC @ GSW W 50 38 14 22 63.6 1 3 33.3 9 12 75.0 5 12 17 4 4 2 6 0 11
+p364
+aVKevin Martin SAC 02/01/2005 SAC vs. SEA L 15 5 1 8 12.5 1 5 20.0 2 4 50.0 3 1 4 0 0 1 0 1 -10
+p365
+aVCuttino Mobley SAC 02/01/2005 SAC vs. SEA L 42 18 6 16 37.5 2 8 25.0 4 4 100.0 1 2 3 5 1 0 2 2 0
+p366
+aVErik Daniels SAC 02/01/2005 SAC vs. SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p367
+aVMike Bibby SAC 02/01/2005 SAC vs. SEA L 32 25 9 20 45.0 2 11 18.2 5 6 83.3 2 4 6 4 1 2 0 5 1
+p368
+aVMichael Bradley SAC 02/01/2005 SAC vs. SEA L 11 6 2 2 100.0 0 0 - 2 4 50.0 2 2 4 1 0 0 2 4 -1
+p369
+aVMatt Barnes SAC 02/01/2005 SAC vs. SEA L 31 9 4 10 40.0 1 3 33.3 0 0 - 2 6 8 2 2 0 0 4 -4
+p370
+aVDarius Songaila SAC 02/01/2005 SAC vs. SEA L 41 19 9 16 56.3 0 0 - 1 2 50.0 2 5 7 1 1 0 1 1 -4
+p371
+aVGreg Ostertag SAC 02/01/2005 SAC vs. SEA L 8 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 -7
+p372
+aVEddie House SAC 02/01/2005 SAC vs. SEA L 28 13 6 13 46.2 1 3 33.3 0 0 - 0 1 1 1 0 0 0 3 -4
+p373
+aVBrad Miller SAC 02/01/2005 SAC vs. SEA L 31 4 1 6 16.7 0 0 - 2 2 100.0 1 6 7 6 0 1 1 6 6
+p374
+aVMichael Bradley SAC 01/30/2005 SAC @ MIN W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p375
+aVEddie House SAC 01/30/2005 SAC @ MIN W 6 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p376
+aVDarius Songaila SAC 01/30/2005 SAC @ MIN W 38 12 6 12 50.0 0 0 - 0 0 - 2 4 6 6 3 0 1 2 16
+p377
+aVBrad Miller SAC 01/30/2005 SAC @ MIN W 45 27 11 19 57.9 0 0 - 5 6 83.3 5 10 15 2 0 0 0 2 15
+p378
+aVMike Bibby SAC 01/30/2005 SAC @ MIN W 42 21 9 23 39.1 1 4 25.0 2 3 66.7 0 2 2 8 4 1 3 2 12
+p379
+aVKevin Martin SAC 01/30/2005 SAC @ MIN W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -7
+p380
+aVCuttino Mobley SAC 01/30/2005 SAC @ MIN W 40 23 9 20 45.0 3 6 50.0 2 7 28.6 2 3 5 4 0 0 1 1 18
+p381
+aVGreg Ostertag SAC 01/30/2005 SAC @ MIN W 7 2 1 3 33.3 0 0 - 0 2 0.0 2 1 3 0 0 1 0 1 -3
+p382
+aVErik Daniels SAC 01/30/2005 SAC @ MIN W 9 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -4
+p383
+aVMatt Barnes SAC 01/30/2005 SAC @ MIN W 39 6 3 7 42.9 0 3 0.0 0 0 - 2 8 10 2 2 0 0 3 15
+p384
+aVDarius Songaila SAC 01/28/2005 SAC @ HOU W 13 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 7
+p385
+aVMike Bibby SAC 01/28/2005 SAC @ HOU W 44 28 8 20 40.0 0 3 0.0 12 14 85.7 1 2 3 14 2 0 2 1 2
+p386
+aVEddie House SAC 01/28/2005 SAC @ HOU W 12 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 5
+p387
+aVCuttino Mobley SAC 01/28/2005 SAC @ HOU W 48 24 7 15 46.7 4 8 50.0 6 7 85.7 1 2 3 0 0 0 1 5 6
+p388
+aVKevin Martin SAC 01/28/2005 SAC @ HOU W 17 1 0 0 - 0 0 - 1 2 50.0 0 3 3 1 0 0 0 2 4
+p389
+aVChris Webber SAC 01/28/2005 SAC @ HOU W 47 30 12 25 48.0 1 1 100.0 5 6 83.3 0 9 9 6 3 0 1 1 1
+p390
+aVBrad Miller SAC 01/28/2005 SAC @ HOU W 46 19 8 10 80.0 0 0 - 3 3 100.0 2 12 14 3 3 0 2 4 4
+p391
+aVMatt Barnes SAC 01/28/2005 SAC @ HOU W 38 4 2 5 40.0 0 0 - 0 0 - 3 2 5 0 0 0 2 5 1
+p392
+aVEddie House SAC 01/27/2005 SAC @ SAS L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p393
+aVGreg Ostertag SAC 01/27/2005 SAC @ SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 0
+p394
+aVMike Bibby SAC 01/27/2005 SAC @ SAS L 40 17 8 15 53.3 0 2 0.0 1 2 50.0 2 1 3 6 2 0 3 3 -7
+p395
+aVErik Daniels SAC 01/27/2005 SAC @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p396
+aVCuttino Mobley SAC 01/27/2005 SAC @ SAS L 42 12 4 15 26.7 0 3 0.0 4 4 100.0 0 1 1 3 1 0 3 2 -1
+p397
+aVChris Webber SAC 01/27/2005 SAC @ SAS L 32 16 6 17 35.3 1 2 50.0 3 4 75.0 0 8 8 6 2 2 3 5 -17
+p398
+aVMatt Barnes SAC 01/27/2005 SAC @ SAS L 30 8 3 5 60.0 0 0 - 2 3 66.7 1 4 5 1 1 1 3 3 -11
+p399
+aVMichael Bradley SAC 01/27/2005 SAC @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p400
+aVKevin Martin SAC 01/27/2005 SAC @ SAS L 25 2 1 4 25.0 0 1 0.0 0 0 - 3 0 3 0 3 0 1 2 -7
+p401
+aVDarius Songaila SAC 01/27/2005 SAC @ SAS L 14 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 3 0 1 5 0
+p402
+aVBrad Miller SAC 01/27/2005 SAC @ SAS L 43 19 8 13 61.5 0 1 0.0 3 3 100.0 3 4 7 5 0 2 2 4 -3
+p403
+aVEddie House SAC 01/25/2005 SAC vs. NJN W 7 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -3
+p404
+aVBrad Miller SAC 01/25/2005 SAC vs. NJN W 43 31 14 18 77.8 0 1 0.0 3 4 75.0 5 7 12 5 1 1 2 3 26
+p405
+aVCuttino Mobley SAC 01/25/2005 SAC vs. NJN W 40 20 7 17 41.2 2 2 100.0 4 4 100.0 2 5 7 10 1 0 0 2 24
+p406
+aVGreg Ostertag SAC 01/25/2005 SAC vs. NJN W 10 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 2 1 2 -5
+p407
+aVPeja Stojakovic SAC 01/25/2005 SAC vs. NJN W 40 25 9 14 64.3 2 5 40.0 5 6 83.3 0 5 5 2 1 0 2 3 23
+p408
+aVKevin Martin SAC 01/25/2005 SAC vs. NJN W 16 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 0 1 1 2
+p409
+aVErik Daniels SAC 01/25/2005 SAC vs. NJN W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p410
+aVDarius Songaila SAC 01/25/2005 SAC vs. NJN W 34 8 3 7 42.9 0 0 - 2 2 100.0 0 6 6 3 1 0 2 4 20
+p411
+aVMike Bibby SAC 01/25/2005 SAC vs. NJN W 38 19 5 9 55.6 4 6 66.7 5 6 83.3 0 4 4 10 0 0 3 3 25
+p412
+aVMatt Barnes SAC 01/25/2005 SAC vs. NJN W 5 2 0 1 0.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 2 1 -4
+p413
+aVMichael Bradley SAC 01/25/2005 SAC vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p414
+aVEddie House SAC 01/23/2005 SAC vs. SAS L 12 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -2
+p415
+aVDarius Songaila SAC 01/23/2005 SAC vs. SAS L 20 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 0 3 1 -7
+p416
+aVCuttino Mobley SAC 01/23/2005 SAC vs. SAS L 32 9 2 7 28.6 0 1 0.0 5 6 83.3 0 2 2 0 0 0 3 2 -27
+p417
+aVMike Bibby SAC 01/23/2005 SAC vs. SAS L 29 13 4 8 50.0 0 3 0.0 5 5 100.0 1 1 2 0 3 0 2 3 -29
+p418
+aVMichael Bradley SAC 01/23/2005 SAC vs. SAS L 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -2
+p419
+aVMaurice Evans SAC 01/23/2005 SAC vs. SAS L 22 8 3 11 27.3 0 3 0.0 2 2 100.0 0 2 2 0 0 0 0 0 -5
+p420
+aVPeja Stojakovic SAC 01/23/2005 SAC vs. SAS L 29 8 3 12 25.0 1 1 100.0 1 2 50.0 1 4 5 0 1 1 2 2 -29
+p421
+aVGreg Ostertag SAC 01/23/2005 SAC vs. SAS L 20 1 0 0 - 0 0 - 1 2 50.0 0 4 4 3 0 0 1 3 -11
+p422
+aVKevin Martin SAC 01/23/2005 SAC vs. SAS L 19 4 1 5 20.0 0 0 - 2 4 50.0 1 1 2 1 0 0 1 1 -1
+p423
+aVBrad Miller SAC 01/23/2005 SAC vs. SAS L 32 10 4 9 44.4 0 0 - 2 4 50.0 3 11 14 1 0 0 3 3 -26
+p424
+aVMatt Barnes SAC 01/23/2005 SAC vs. SAS L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -2
+p425
+aVChris Webber SAC 01/23/2005 SAC vs. SAS L 13 6 3 6 50.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -9
+p426
+aVChris Webber SAC 01/20/2005 SAC vs. CLE W 35 27 12 24 50.0 1 1 100.0 2 2 100.0 3 10 13 7 0 2 2 5 26
+p427
+aVKevin Martin SAC 01/20/2005 SAC vs. CLE W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -1
+p428
+aVBrad Miller SAC 01/20/2005 SAC vs. CLE W 27 16 7 7 100.0 0 0 - 2 2 100.0 1 3 4 4 0 1 1 3 18
+p429
+aVCuttino Mobley SAC 01/20/2005 SAC vs. CLE W 36 18 7 16 43.8 3 8 37.5 1 2 50.0 2 3 5 3 2 0 2 1 24
+p430
+aVMike Bibby SAC 01/20/2005 SAC vs. CLE W 38 17 6 13 46.2 4 7 57.1 1 3 33.3 1 9 10 11 0 1 2 4 30
+p431
+aVMatt Barnes SAC 01/20/2005 SAC vs. CLE W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 1
+p432
+aVMaurice Evans SAC 01/20/2005 SAC vs. CLE W 18 4 1 4 25.0 0 1 0.0 2 2 100.0 1 2 3 1 1 0 0 0 4
+p433
+aVPeja Stojakovic SAC 01/20/2005 SAC vs. CLE W 32 19 7 13 53.8 2 5 40.0 3 3 100.0 1 4 5 3 3 0 0 2 24
+p434
+aVMichael Bradley SAC 01/20/2005 SAC vs. CLE W 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p435
+aVGreg Ostertag SAC 01/20/2005 SAC vs. CLE W 14 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 2
+p436
+aVEddie House SAC 01/20/2005 SAC vs. CLE W 5 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p437
+aVDarius Songaila SAC 01/20/2005 SAC vs. CLE W 16 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 7
+p438
+aVMike Bibby SAC 01/18/2005 SAC vs. POR W 40 14 6 13 46.2 2 6 33.3 0 0 - 1 0 1 9 1 0 2 5 11
+p439
+aVCuttino Mobley SAC 01/18/2005 SAC vs. POR W 48 20 7 15 46.7 4 8 50.0 2 2 100.0 2 2 4 6 1 0 2 3 5
+p440
+aVKevin Martin SAC 01/18/2005 SAC vs. POR W 8 5 2 3 66.7 0 0 - 1 2 50.0 2 0 2 0 1 0 0 0 4
+p441
+aVMaurice Evans SAC 01/18/2005 SAC vs. POR W 18 12 5 7 71.4 1 2 50.0 1 2 50.0 2 3 5 0 0 0 1 2 0
+p442
+aVBrad Miller SAC 01/18/2005 SAC vs. POR W 42 16 6 12 50.0 0 0 - 4 5 80.0 1 7 8 3 4 1 2 1 -4
+p443
+aVDarius Songaila SAC 01/18/2005 SAC vs. POR W 16 8 4 4 100.0 0 0 - 0 0 - 1 0 1 1 0 1 1 1 8
+p444
+aVPeja Stojakovic SAC 01/18/2005 SAC vs. POR W 41 6 3 10 30.0 0 3 0.0 0 0 - 0 4 4 2 1 0 2 5 5
+p445
+aVEddie House SAC 01/18/2005 SAC vs. POR W 5 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -7
+p446
+aVChris Webber SAC 01/18/2005 SAC vs. POR W 49 32 12 24 50.0 0 1 0.0 8 8 100.0 3 10 13 6 4 1 4 0 8
+p447
+aVMike Bibby SAC 01/17/2005 SAC @ LAC W 39 18 7 13 53.8 1 2 50.0 3 4 75.0 2 2 4 5 0 1 1 0 13
+p448
+aVGreg Ostertag SAC 01/17/2005 SAC @ LAC W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -1
+p449
+aVEddie House SAC 01/17/2005 SAC @ LAC W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 3 -7
+p450
+aVCuttino Mobley SAC 01/17/2005 SAC @ LAC W 37 19 5 12 41.7 2 4 50.0 7 10 70.0 0 5 5 4 3 2 4 3 13
+p451
+aVChris Webber SAC 01/17/2005 SAC @ LAC W 39 23 9 19 47.4 1 1 100.0 4 6 66.7 0 14 14 6 2 0 2 2 14
+p452
+aVMaurice Evans SAC 01/17/2005 SAC @ LAC W 21 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 1 0 0 0 2 -12
+p453
+aVPeja Stojakovic SAC 01/17/2005 SAC @ LAC W 38 17 8 15 53.3 1 4 25.0 0 0 - 0 3 3 1 3 0 2 3 11
+p454
+aVDarius Songaila SAC 01/17/2005 SAC @ LAC W 12 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -4
+p455
+aVBrad Miller SAC 01/17/2005 SAC @ LAC W 39 4 2 11 18.2 0 0 - 0 0 - 3 8 11 3 0 3 2 4 3
+p456
+aVPeja Stojakovic SAC 01/15/2005 SAC vs. LAC W 39 24 7 15 46.7 4 7 57.1 6 6 100.0 0 4 4 2 3 0 0 2 3
+p457
+aVCuttino Mobley SAC 01/15/2005 SAC vs. LAC W 36 13 6 14 42.9 1 3 33.3 0 0 - 1 1 2 3 1 4 3 2 1
+p458
+aVMaurice Evans SAC 01/15/2005 SAC vs. LAC W 21 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 0 2
+p459
+aVBrad Miller SAC 01/15/2005 SAC vs. LAC W 27 10 5 9 55.6 0 0 - 0 0 - 1 2 3 5 0 3 0 6 0
+p460
+aVEddie House SAC 01/15/2005 SAC vs. LAC W 13 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 2 1 0 1 2 -2
+p461
+aVGreg Ostertag SAC 01/15/2005 SAC vs. LAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p462
+aVDarius Songaila SAC 01/15/2005 SAC vs. LAC W 23 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 1 0 0 3 6
+p463
+aVChris Webber SAC 01/15/2005 SAC vs. LAC W 41 36 16 25 64.0 0 0 - 4 4 100.0 1 9 10 6 3 0 5 3 8
+p464
+aVMike Bibby SAC 01/15/2005 SAC vs. LAC W 35 3 1 7 14.3 1 5 20.0 0 0 - 1 4 5 8 0 0 2 0 6
+p465
+aVBrad Miller SAC 01/13/2005 SAC vs. UTA W 41 21 9 10 90.0 1 1 100.0 2 4 50.0 2 7 9 4 1 4 1 2 20
+p466
+aVMaurice Evans SAC 01/13/2005 SAC vs. UTA W 28 9 4 10 40.0 1 2 50.0 0 0 - 1 1 2 1 0 0 1 4 -7
+p467
+aVGreg Ostertag SAC 01/13/2005 SAC vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p468
+aVPeja Stojakovic SAC 01/13/2005 SAC vs. UTA W 43 27 9 18 50.0 4 9 44.4 5 5 100.0 0 3 3 3 2 0 1 2 13
+p469
+aVKevin Martin SAC 01/13/2005 SAC vs. UTA W 28 5 1 7 14.3 0 0 - 3 4 75.0 1 1 2 3 0 0 1 1 21
+p470
+aVEddie House SAC 01/13/2005 SAC vs. UTA W 24 6 2 8 25.0 0 3 0.0 2 2 100.0 0 1 1 2 1 0 2 3 -1
+p471
+aVDarius Songaila SAC 01/13/2005 SAC vs. UTA W 17 10 4 5 80.0 0 0 - 2 2 100.0 4 2 6 1 1 0 1 0 1
+p472
+aVMatt Barnes SAC 01/13/2005 SAC vs. UTA W 19 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 4 0 0 2 1 12
+p473
+aVChris Webber SAC 01/13/2005 SAC vs. UTA W 39 23 8 15 53.3 0 0 - 7 8 87.5 3 12 15 4 2 0 2 3 9
+p474
+aVMaurice Evans SAC 01/11/2005 SAC vs. DEN W 30 14 6 10 60.0 0 3 0.0 2 3 66.7 2 2 4 2 1 0 1 3 14
+p475
+aVKevin Martin SAC 01/11/2005 SAC vs. DEN W 18 17 4 8 50.0 0 2 0.0 9 11 81.8 3 3 6 0 1 0 1 2 -6
+p476
+aVMatt Barnes SAC 01/11/2005 SAC vs. DEN W 6 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 0 0 0 0 2 4
+p477
+aVBrad Miller SAC 01/11/2005 SAC vs. DEN W 39 12 3 5 60.0 0 0 - 6 12 50.0 0 8 8 3 2 2 2 2 2
+p478
+aVPeja Stojakovic SAC 01/11/2005 SAC vs. DEN W 40 27 10 24 41.7 3 9 33.3 4 4 100.0 2 2 4 0 2 0 2 2 7
+p479
+aVMike Bibby SAC 01/11/2005 SAC vs. DEN W 40 18 5 16 31.3 3 6 50.0 5 9 55.6 1 2 3 7 0 0 1 0 8
+p480
+aVDarius Songaila SAC 01/11/2005 SAC vs. DEN W 35 12 5 8 62.5 0 0 - 2 2 100.0 1 7 8 3 3 0 1 6 12
+p481
+aVEddie House SAC 01/11/2005 SAC vs. DEN W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 3 1
+p482
+aVGreg Ostertag SAC 01/11/2005 SAC vs. DEN W 21 4 2 3 66.7 0 0 - 0 0 - 2 3 5 1 2 2 3 2 3
+p483
+aVGreg Ostertag SAC 01/08/2005 SAC @ NOH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p484
+aVPeja Stojakovic SAC 01/08/2005 SAC @ NOH L 49 37 13 23 56.5 2 7 28.6 9 9 100.0 2 3 5 3 1 0 1 4 -6
+p485
+aVDoug Christie SAC 01/08/2005 SAC @ NOH L 31 6 3 6 50.0 0 0 - 0 0 - 1 4 5 8 0 0 1 1 6
+p486
+aVChris Webber SAC 01/08/2005 SAC @ NOH L 39 22 6 22 27.3 0 1 0.0 10 11 90.9 4 9 13 3 1 1 3 5 -2
+p487
+aVKevin Martin SAC 01/08/2005 SAC @ NOH L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -3
+p488
+aVMike Bibby SAC 01/08/2005 SAC @ NOH L 44 20 6 20 30.0 2 7 28.6 6 8 75.0 0 2 2 8 2 1 2 4 7
+p489
+aVMaurice Evans SAC 01/08/2005 SAC @ NOH L 29 14 6 8 75.0 1 2 50.0 1 2 50.0 3 3 6 1 1 0 2 4 -16
+p490
+aVBrad Miller SAC 01/08/2005 SAC @ NOH L 46 14 6 11 54.5 0 1 0.0 2 2 100.0 3 13 16 3 2 2 2 4 10
+p491
+aVDarius Songaila SAC 01/08/2005 SAC @ NOH L 16 4 2 3 66.7 0 0 - 0 0 - 3 1 4 1 0 0 0 3 -10
+p492
+aVPeja Stojakovic SAC 01/07/2005 SAC @ ATL W 37 17 7 18 38.9 2 6 33.3 1 1 100.0 2 3 5 3 0 0 1 1 1
+p493
+aVChris Webber SAC 01/07/2005 SAC @ ATL W 35 28 13 22 59.1 0 0 - 2 2 100.0 2 6 8 3 0 1 3 3 -3
+p494
+aVMaurice Evans SAC 01/07/2005 SAC @ ATL W 21 5 2 4 50.0 1 1 100.0 0 0 - 1 2 3 2 0 0 0 1 7
+p495
+aVDarius Songaila SAC 01/07/2005 SAC @ ATL W 16 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 2 0 4 14
+p496
+aVMike Bibby SAC 01/07/2005 SAC @ ATL W 44 31 9 18 50.0 4 8 50.0 9 10 90.0 0 6 6 6 6 1 6 2 7
+p497
+aVKevin Martin SAC 01/07/2005 SAC @ ATL W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p498
+aVGreg Ostertag SAC 01/07/2005 SAC @ ATL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p499
+aVDoug Christie SAC 01/07/2005 SAC @ ATL W 34 11 3 7 42.9 0 0 - 5 6 83.3 1 5 6 5 1 0 2 0 -9
+p500
+aVBrad Miller SAC 01/07/2005 SAC @ ATL W 38 2 1 5 20.0 0 0 - 0 0 - 2 5 7 5 0 1 1 3 1
+p501
+aVPeja Stojakovic SAC 01/05/2005 SAC @ TOR L 36 10 2 11 18.2 1 3 33.3 5 7 71.4 0 2 2 2 0 0 2 3 -19
+p502
+aVBrad Miller SAC 01/05/2005 SAC @ TOR L 37 14 6 10 60.0 0 2 0.0 2 3 66.7 3 16 19 1 2 0 2 2 9
+p503
+aVMike Bibby SAC 01/05/2005 SAC @ TOR L 41 32 12 20 60.0 2 5 40.0 6 10 60.0 1 6 7 4 3 3 3 2 -6
+p504
+aVMaurice Evans SAC 01/05/2005 SAC @ TOR L 23 9 4 5 80.0 0 0 - 1 3 33.3 4 1 5 1 1 0 0 3 4
+p505
+aVKevin Martin SAC 01/05/2005 SAC @ TOR L 16 1 0 3 0.0 0 1 0.0 1 4 25.0 1 0 1 4 1 0 1 0 12
+p506
+aVDoug Christie SAC 01/05/2005 SAC @ TOR L 32 8 2 9 22.2 0 0 - 4 4 100.0 1 3 4 1 1 1 0 1 -4
+p507
+aVDarius Songaila SAC 01/05/2005 SAC @ TOR L 25 6 2 7 28.6 0 0 - 2 2 100.0 5 5 10 2 1 0 3 4 6
+p508
+aVChris Webber SAC 01/05/2005 SAC @ TOR L 30 13 6 21 28.6 1 1 100.0 0 0 - 2 5 7 6 0 0 4 6 -17
+p509
+aVMaurice Evans SAC 01/04/2005 SAC @ NYK W 27 16 7 9 77.8 1 1 100.0 1 1 100.0 0 3 3 1 0 0 0 3 24
+p510
+aVPeja Stojakovic SAC 01/04/2005 SAC @ NYK W 39 21 6 15 40.0 2 4 50.0 7 8 87.5 0 2 2 3 2 0 2 3 2
+p511
+aVKevin Martin SAC 01/04/2005 SAC @ NYK W 9 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 5
+p512
+aVDoug Christie SAC 01/04/2005 SAC @ NYK W 29 2 1 5 20.0 0 2 0.0 0 0 - 1 5 6 2 2 0 2 2 -10
+p513
+aVChris Webber SAC 01/04/2005 SAC @ NYK W 36 22 9 21 42.9 0 1 0.0 4 4 100.0 1 10 11 3 1 0 4 3 -6
+p514
+aVMike Bibby SAC 01/04/2005 SAC @ NYK W 40 19 8 13 61.5 2 5 40.0 1 1 100.0 2 2 4 7 3 0 3 5 0
+p515
+aVBrad Miller SAC 01/04/2005 SAC @ NYK W 34 16 6 11 54.5 0 0 - 4 4 100.0 2 5 7 3 0 1 1 2 -13
+p516
+aVDarius Songaila SAC 01/04/2005 SAC @ NYK W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 3 2 13
+p517
+aVGreg Ostertag SAC 01/04/2005 SAC @ NYK W 14 4 2 2 100.0 0 0 - 0 0 - 2 8 10 1 0 1 0 2 20
+p518
+aVMaurice Evans SAC 01/02/2005 SAC vs. SAS W 12 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -7
+p519
+aVGreg Ostertag SAC 01/02/2005 SAC vs. SAS W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -9
+p520
+aVMike Bibby SAC 01/02/2005 SAC vs. SAS W 40 16 7 15 46.7 1 2 50.0 1 1 100.0 0 3 3 2 1 0 5 4 -2
+p521
+aVChris Webber SAC 01/02/2005 SAC vs. SAS W 35 14 6 15 40.0 0 0 - 2 2 100.0 1 12 13 7 4 3 7 5 14
+p522
+aVKevin Martin SAC 01/02/2005 SAC vs. SAS W 22 9 3 6 50.0 0 0 - 3 3 100.0 4 2 6 1 1 0 1 3 5
+p523
+aVBrad Miller SAC 01/02/2005 SAC vs. SAS W 38 11 4 9 44.4 0 1 0.0 3 6 50.0 1 6 7 4 0 3 1 1 10
+p524
+aVPeja Stojakovic SAC 01/02/2005 SAC vs. SAS W 39 28 10 20 50.0 6 10 60.0 2 2 100.0 1 7 8 1 1 1 3 2 12
+p525
+aVDoug Christie SAC 01/02/2005 SAC vs. SAS W 31 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 4 2 0 0 1 6
+p526
+aVDarius Songaila SAC 01/02/2005 SAC vs. SAS W 16 4 2 6 33.3 0 0 - 0 0 - 2 1 3 3 0 1 2 1 -4
+p527
+aVMatt Barnes SAC 12/31/2004 SAC @ UTA W 5 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 8
+p528
+aVBrad Miller SAC 12/31/2004 SAC @ UTA W 38 17 4 8 50.0 0 0 - 9 11 81.8 1 9 10 5 1 1 1 2 19
+p529
+aVDarius Songaila SAC 12/31/2004 SAC @ UTA W 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 2
+p530
+aVGreg Ostertag SAC 12/31/2004 SAC @ UTA W 4 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -9
+p531
+aVPeja Stojakovic SAC 12/31/2004 SAC @ UTA W 40 26 11 20 55.0 3 8 37.5 1 2 50.0 2 4 6 1 1 1 1 4 4
+p532
+aVMaurice Evans SAC 12/31/2004 SAC @ UTA W 11 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -5
+p533
+aVKevin Martin SAC 12/31/2004 SAC @ UTA W 19 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 1 1 2 -3
+p534
+aVMike Bibby SAC 12/31/2004 SAC @ UTA W 41 17 6 16 37.5 0 2 0.0 5 6 83.3 1 4 5 9 2 0 0 5 16
+p535
+aVDoug Christie SAC 12/31/2004 SAC @ UTA W 28 10 4 6 66.7 1 1 100.0 1 2 50.0 1 1 2 5 2 0 0 2 1
+p536
+aVChris Webber SAC 12/31/2004 SAC @ UTA W 39 25 11 20 55.0 0 0 - 3 3 100.0 1 4 5 2 2 2 4 3 2
+p537
+aVMike Bibby SAC 12/26/2004 SAC vs. GSW L 37 14 6 12 50.0 1 4 25.0 1 2 50.0 2 4 6 3 0 2 2 5 -15
+p538
+aVPeja Stojakovic SAC 12/26/2004 SAC vs. GSW L 43 18 6 16 37.5 1 4 25.0 5 6 83.3 1 3 4 1 1 0 2 1 -5
+p539
+aVMaurice Evans SAC 12/26/2004 SAC vs. GSW L 27 13 6 11 54.5 1 2 50.0 0 0 - 3 0 3 1 0 0 0 0 -2
+p540
+aVBrad Miller SAC 12/26/2004 SAC vs. GSW L 41 6 2 5 40.0 0 0 - 2 3 66.7 2 11 13 7 1 1 1 4 -3
+p541
+aVDarius Songaila SAC 12/26/2004 SAC vs. GSW L 17 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 1 0 1 1 7
+p542
+aVChris Webber SAC 12/26/2004 SAC vs. GSW L 38 28 11 24 45.8 1 1 100.0 5 7 71.4 1 6 7 4 4 0 4 3 -11
+p543
+aVDoug Christie SAC 12/26/2004 SAC vs. GSW L 37 13 5 9 55.6 1 3 33.3 2 2 100.0 0 5 5 6 3 0 7 4 9
+p544
+aVChris Webber SAC 12/23/2004 SAC vs. MIA L 40 26 11 24 45.8 0 1 0.0 4 4 100.0 0 4 4 3 2 0 1 3 0
+p545
+aVDoug Christie SAC 12/23/2004 SAC vs. MIA L 30 6 3 10 30.0 0 0 - 0 0 - 3 2 5 7 1 0 2 0 -7
+p546
+aVDarius Songaila SAC 12/23/2004 SAC vs. MIA L 15 8 3 5 60.0 0 0 - 2 2 100.0 4 2 6 1 0 1 0 0 -5
+p547
+aVPeja Stojakovic SAC 12/23/2004 SAC vs. MIA L 43 19 7 18 38.9 3 6 50.0 2 2 100.0 1 6 7 2 2 0 1 4 6
+p548
+aVGreg Ostertag SAC 12/23/2004 SAC vs. MIA L 22 5 2 2 100.0 0 0 - 1 5 20.0 2 8 10 3 0 1 0 4 -1
+p549
+aVBrad Miller SAC 12/23/2004 SAC vs. MIA L 20 10 2 7 28.6 0 0 - 6 6 100.0 1 6 7 5 0 0 0 5 4
+p550
+aVMaurice Evans SAC 12/23/2004 SAC vs. MIA L 25 12 5 10 50.0 1 1 100.0 1 2 50.0 7 1 8 1 1 0 2 4 -9
+p551
+aVMike Bibby SAC 12/23/2004 SAC vs. MIA L 45 21 7 19 36.8 0 3 0.0 7 8 87.5 3 2 5 8 1 1 1 2 2
+p552
+aVDarius Songaila SAC 12/21/2004 SAC vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 2 2 1
+p553
+aVBobby Jackson SAC 12/21/2004 SAC vs. WAS W 10 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 3 1 0 0 0 2
+p554
+aVPeja Stojakovic SAC 12/21/2004 SAC vs. WAS W 43 26 9 15 60.0 5 9 55.6 3 3 100.0 1 5 6 0 0 0 2 3 9
+p555
+aVBrad Miller SAC 12/21/2004 SAC vs. WAS W 40 19 7 14 50.0 0 0 - 5 6 83.3 5 3 8 4 2 1 2 4 7
+p556
+aVMaurice Evans SAC 12/21/2004 SAC vs. WAS W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p557
+aVChris Webber SAC 12/21/2004 SAC vs. WAS W 37 20 9 21 42.9 0 0 - 2 3 66.7 1 9 10 6 2 0 5 5 15
+p558
+aVGreg Ostertag SAC 12/21/2004 SAC vs. WAS W 13 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 1 0 1 -1
+p559
+aVMike Bibby SAC 12/21/2004 SAC vs. WAS W 42 24 9 14 64.3 3 4 75.0 3 6 50.0 1 2 3 4 2 0 2 1 16
+p560
+aVDoug Christie SAC 12/21/2004 SAC vs. WAS W 42 9 4 9 44.4 0 1 0.0 1 1 100.0 1 3 4 9 3 0 4 0 10
+p561
+aVBrad Miller SAC 12/19/2004 SAC vs. NOH W 32 17 6 9 66.7 1 1 100.0 4 4 100.0 3 6 9 6 0 1 1 3 30
+p562
+aVBobby Jackson SAC 12/19/2004 SAC vs. NOH W 28 14 5 11 45.5 4 8 50.0 0 0 - 1 5 6 2 1 0 1 1 27
+p563
+aVMatt Barnes SAC 12/19/2004 SAC vs. NOH W 15 6 2 6 33.3 0 2 0.0 2 4 50.0 0 1 1 1 0 0 2 1 8
+p564
+aVDarius Songaila SAC 12/19/2004 SAC vs. NOH W 38 13 4 10 40.0 0 0 - 5 6 83.3 4 7 11 2 2 0 2 4 16
+p565
+aVErik Daniels SAC 12/19/2004 SAC vs. NOH W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 2 0 1 0 6
+p566
+aVDoug Christie SAC 12/19/2004 SAC vs. NOH W 33 6 3 3 100.0 0 0 - 0 0 - 0 4 4 6 3 1 3 0 25
+p567
+aVPeja Stojakovic SAC 12/19/2004 SAC vs. NOH W 30 21 7 14 50.0 3 8 37.5 4 4 100.0 0 2 2 2 0 0 2 1 25
+p568
+aVMike Bibby SAC 12/19/2004 SAC vs. NOH W 25 16 5 9 55.6 1 3 33.3 5 6 83.3 1 2 3 5 1 0 3 3 16
+p569
+aVMaurice Evans SAC 12/19/2004 SAC vs. NOH W 13 8 4 9 44.4 0 1 0.0 0 0 - 2 1 3 1 1 0 0 0 7
+p570
+aVGreg Ostertag SAC 12/19/2004 SAC vs. NOH W 17 6 3 3 100.0 0 0 - 0 0 - 1 5 6 4 0 4 2 6 20
+p571
+aVMatt Barnes SAC 12/16/2004 SAC vs. LAL L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p572
+aVPeja Stojakovic SAC 12/16/2004 SAC vs. LAL L 37 16 6 14 42.9 2 7 28.6 2 2 100.0 1 5 6 1 1 1 0 2 -14
+p573
+aVDoug Christie SAC 12/16/2004 SAC vs. LAL L 29 6 3 10 30.0 0 2 0.0 0 1 0.0 2 1 3 7 0 2 2 3 -22
+p574
+aVMike Bibby SAC 12/16/2004 SAC vs. LAL L 36 17 7 15 46.7 1 4 25.0 2 3 66.7 2 0 2 2 1 0 2 3 -19
+p575
+aVGreg Ostertag SAC 12/16/2004 SAC vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p576
+aVDarius Songaila SAC 12/16/2004 SAC vs. LAL L 23 6 2 6 33.3 0 0 - 2 4 50.0 4 6 10 1 0 2 0 2 2
+p577
+aVMaurice Evans SAC 12/16/2004 SAC vs. LAL L 5 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 1 4
+p578
+aVBrad Miller SAC 12/16/2004 SAC vs. LAL L 38 6 3 8 37.5 0 0 - 0 0 - 0 5 5 4 2 0 0 1 -14
+p579
+aVErik Daniels SAC 12/16/2004 SAC vs. LAL L 5 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 4
+p580
+aVBobby Jackson SAC 12/16/2004 SAC vs. LAL L 22 20 8 14 57.1 2 4 50.0 2 2 100.0 2 6 8 4 0 0 4 2 -5
+p581
+aVChris Webber SAC 12/16/2004 SAC vs. LAL L 29 20 10 18 55.6 0 0 - 0 0 - 2 2 4 5 0 0 2 2 -24
+p582
+aVKevin Martin SAC 12/16/2004 SAC vs. LAL L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 5
+p583
+aVPeja Stojakovic SAC 12/14/2004 SAC @ MIL W 40 19 6 16 37.5 5 12 41.7 2 2 100.0 1 2 3 2 0 0 1 3 -3
+p584
+aVBrad Miller SAC 12/14/2004 SAC @ MIL W 35 6 3 8 37.5 0 0 - 0 0 - 6 5 11 2 2 1 1 5 -1
+p585
+aVGreg Ostertag SAC 12/14/2004 SAC @ MIL W 10 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 2 0 2 9
+p586
+aVBobby Jackson SAC 12/14/2004 SAC @ MIL W 18 3 1 9 11.1 1 4 25.0 0 0 - 0 2 2 2 0 0 3 2 0
+p587
+aVMike Bibby SAC 12/14/2004 SAC @ MIL W 41 27 9 19 47.4 1 5 20.0 8 8 100.0 4 6 10 9 4 0 2 1 15
+p588
+aVDoug Christie SAC 12/14/2004 SAC @ MIL W 40 5 2 9 22.2 1 3 33.3 0 0 - 1 5 6 3 1 0 4 3 -3
+p589
+aVMatt Barnes SAC 12/14/2004 SAC @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 2 0 0 0 -1
+p590
+aVChris Webber SAC 12/14/2004 SAC @ MIL W 37 23 11 24 45.8 1 1 100.0 0 0 - 1 5 6 4 1 1 3 4 -1
+p591
+aVDarius Songaila SAC 12/14/2004 SAC @ MIL W 14 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 0
+p592
+aVDoug Christie SAC 12/11/2004 SAC @ IND W 44 12 4 6 66.7 0 0 - 4 4 100.0 1 4 5 5 4 0 6 2 8
+p593
+aVMike Bibby SAC 12/11/2004 SAC @ IND W 43 21 9 16 56.3 1 3 33.3 2 3 66.7 1 5 6 5 2 0 4 2 2
+p594
+aVMatt Barnes SAC 12/11/2004 SAC @ IND W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 1
+p595
+aVDarius Songaila SAC 12/11/2004 SAC @ IND W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p596
+aVBrad Miller SAC 12/11/2004 SAC @ IND W 44 11 2 6 33.3 0 0 - 7 8 87.5 5 8 13 7 2 0 2 4 6
+p597
+aVPeja Stojakovic SAC 12/11/2004 SAC @ IND W 40 12 5 15 33.3 2 7 28.6 0 0 - 2 4 6 1 1 0 2 3 -2
+p598
+aVChris Webber SAC 12/11/2004 SAC @ IND W 41 26 12 24 50.0 0 0 - 2 3 66.7 4 6 10 6 1 1 5 5 6
+p599
+aVBobby Jackson SAC 12/11/2004 SAC @ IND W 25 9 4 11 36.4 1 5 20.0 0 0 - 0 1 1 3 1 0 5 6 6
+p600
+aVGreg Ostertag SAC 12/11/2004 SAC @ IND W 13 4 2 4 50.0 0 0 - 0 0 - 3 2 5 1 0 1 0 1 3
+p601
+aVDarius Songaila SAC 12/10/2004 SAC @ MIN L 14 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 5 -4
+p602
+aVBrad Miller SAC 12/10/2004 SAC @ MIN L 33 18 7 14 50.0 0 0 - 4 9 44.4 4 5 9 4 0 1 0 4 -8
+p603
+aVChris Webber SAC 12/10/2004 SAC @ MIN L 37 25 11 27 40.7 0 2 0.0 3 3 100.0 2 5 7 7 2 0 4 4 1
+p604
+aVMike Bibby SAC 12/10/2004 SAC @ MIN L 40 21 6 14 42.9 2 4 50.0 7 8 87.5 1 3 4 7 2 0 2 2 1
+p605
+aVGreg Ostertag SAC 12/10/2004 SAC @ MIN L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p606
+aVPeja Stojakovic SAC 12/10/2004 SAC @ MIN L 42 12 5 8 62.5 2 3 66.7 0 0 - 0 4 4 3 1 0 1 2 -1
+p607
+aVDoug Christie SAC 12/10/2004 SAC @ MIN L 29 2 1 2 50.0 0 1 0.0 0 0 - 0 5 5 2 0 0 2 4 -4
+p608
+aVBobby Jackson SAC 12/10/2004 SAC @ MIN L 29 19 7 12 58.3 4 7 57.1 1 2 50.0 0 0 0 3 1 0 2 1 -23
+p609
+aVMatt Barnes SAC 12/10/2004 SAC @ MIN L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -5
+p610
+aVGreg Ostertag SAC 12/07/2004 SAC vs. CHA W 13 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 3 0 2 9
+p611
+aVMatt Barnes SAC 12/07/2004 SAC vs. CHA W 9 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 7
+p612
+aVErik Daniels SAC 12/07/2004 SAC vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p613
+aVDoug Christie SAC 12/07/2004 SAC vs. CHA W 35 5 2 5 40.0 1 1 100.0 0 0 - 0 4 4 9 0 0 4 3 10
+p614
+aVBrad Miller SAC 12/07/2004 SAC vs. CHA W 43 27 6 14 42.9 0 1 0.0 15 18 83.3 2 6 8 5 2 0 4 2 21
+p615
+aVMaurice Evans SAC 12/07/2004 SAC vs. CHA W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p616
+aVPeja Stojakovic SAC 12/07/2004 SAC vs. CHA W 44 30 9 19 47.4 3 8 37.5 9 9 100.0 3 9 12 3 1 0 1 2 19
+p617
+aVDarius Songaila SAC 12/07/2004 SAC vs. CHA W 37 17 7 12 58.3 0 0 - 3 3 100.0 2 9 11 1 0 0 3 4 7
+p618
+aVKevin Martin SAC 12/07/2004 SAC vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p619
+aVMike Bibby SAC 12/07/2004 SAC vs. CHA W 31 7 3 12 25.0 1 5 20.0 0 0 - 2 5 7 6 2 1 2 2 3
+p620
+aVBobby Jackson SAC 12/07/2004 SAC vs. CHA W 23 16 6 12 50.0 2 3 66.7 2 2 100.0 1 3 4 1 0 0 1 3 14
+p621
+aVKevin Martin SAC 12/05/2004 SAC vs. BOS W 4 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 -9
+p622
+aVBobby Jackson SAC 12/05/2004 SAC vs. BOS W 18 10 3 12 25.0 2 7 28.6 2 2 100.0 1 2 3 3 0 0 0 5 4
+p623
+aVMike Bibby SAC 12/05/2004 SAC vs. BOS W 39 15 5 9 55.6 0 0 - 5 6 83.3 0 0 0 10 0 0 1 1 27
+p624
+aVMatt Barnes SAC 12/05/2004 SAC vs. BOS W 12 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 3 -9
+p625
+aVPeja Stojakovic SAC 12/05/2004 SAC vs. BOS W 33 27 10 18 55.6 6 9 66.7 1 2 50.0 1 1 2 4 2 0 0 3 18
+p626
+aVDarius Songaila SAC 12/05/2004 SAC vs. BOS W 19 14 5 10 50.0 0 0 - 4 6 66.7 4 3 7 0 0 0 0 1 7
+p627
+aVBrad Miller SAC 12/05/2004 SAC vs. BOS W 33 22 9 15 60.0 0 0 - 4 4 100.0 4 6 10 5 3 1 3 3 25
+p628
+aVMaurice Evans SAC 12/05/2004 SAC vs. BOS W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -10
+p629
+aVChris Webber SAC 12/05/2004 SAC vs. BOS W 30 18 9 16 56.3 0 0 - 0 0 - 2 8 10 4 1 0 3 1 11
+p630
+aVErik Daniels SAC 12/05/2004 SAC vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p631
+aVDoug Christie SAC 12/05/2004 SAC vs. BOS W 34 6 2 7 28.6 1 2 50.0 1 2 50.0 0 3 3 6 3 1 1 4 21
+p632
+aVGreg Ostertag SAC 12/05/2004 SAC vs. BOS W 11 4 2 3 66.7 0 0 - 0 0 - 3 4 7 0 0 0 0 1 -7
+p633
+aVGreg Ostertag SAC 12/03/2004 SAC vs. IND W 9 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 5
+p634
+aVMaurice Evans SAC 12/03/2004 SAC vs. IND W 11 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 0 -2
+p635
+aVBrad Miller SAC 12/03/2004 SAC vs. IND W 28 17 6 10 60.0 0 0 - 5 5 100.0 6 7 13 1 1 1 2 1 21
+p636
+aVKevin Martin SAC 12/03/2004 SAC vs. IND W 7 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 -4
+p637
+aVMatt Barnes SAC 12/03/2004 SAC vs. IND W 16 0 0 2 0.0 0 2 0.0 0 0 - 2 1 3 0 0 0 3 0 -4
+p638
+aVChris Webber SAC 12/03/2004 SAC vs. IND W 31 29 13 19 68.4 0 2 0.0 3 4 75.0 3 5 8 4 4 0 2 3 24
+p639
+aVBobby Jackson SAC 12/03/2004 SAC vs. IND W 19 12 5 12 41.7 2 4 50.0 0 0 - 2 5 7 3 1 0 2 1 9
+p640
+aVErik Daniels SAC 12/03/2004 SAC vs. IND W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p641
+aVMike Bibby SAC 12/03/2004 SAC vs. IND W 26 12 5 10 50.0 0 3 0.0 2 2 100.0 1 4 5 6 2 0 0 3 25
+p642
+aVDarius Songaila SAC 12/03/2004 SAC vs. IND W 21 7 2 6 33.3 0 0 - 3 4 75.0 3 3 6 2 0 0 1 3 6
+p643
+aVPeja Stojakovic SAC 12/03/2004 SAC vs. IND W 32 10 3 9 33.3 2 7 28.6 2 2 100.0 0 1 1 2 0 0 1 0 30
+p644
+aVDoug Christie SAC 12/03/2004 SAC vs. IND W 33 12 4 11 36.4 2 4 50.0 2 2 100.0 3 3 6 9 1 0 3 2 24
+p645
+aVErik Daniels SAC 12/01/2004 SAC @ NOH W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p646
+aVKevin Martin SAC 12/01/2004 SAC @ NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p647
+aVMatt Barnes SAC 12/01/2004 SAC @ NOH W 9 4 2 5 40.0 0 0 - 0 0 - 1 1 2 2 2 0 0 1 9
+p648
+aVMaurice Evans SAC 12/01/2004 SAC @ NOH W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p649
+aVBrad Miller SAC 12/01/2004 SAC @ NOH W 34 24 10 12 83.3 0 1 0.0 4 5 80.0 1 5 6 1 2 0 1 4 -5
+p650
+aVBobby Jackson SAC 12/01/2004 SAC @ NOH W 27 19 6 9 66.7 3 5 60.0 4 5 80.0 1 4 5 3 0 0 1 3 10
+p651
+aVDarius Songaila SAC 12/01/2004 SAC @ NOH W 17 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 10
+p652
+aVChris Webber SAC 12/01/2004 SAC @ NOH W 36 12 6 11 54.5 0 0 - 0 0 - 0 7 7 9 1 0 6 0 18
+p653
+aVGreg Ostertag SAC 12/01/2004 SAC @ NOH W 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 9
+p654
+aVDoug Christie SAC 12/01/2004 SAC @ NOH W 34 10 2 5 40.0 0 1 0.0 6 6 100.0 1 3 4 5 3 0 3 2 7
+p655
+aVPeja Stojakovic SAC 12/01/2004 SAC @ NOH W 38 20 6 15 40.0 3 10 30.0 5 5 100.0 1 2 3 1 0 0 1 0 6
+p656
+aVMike Bibby SAC 12/01/2004 SAC @ NOH W 32 3 1 9 11.1 0 4 0.0 1 2 50.0 2 5 7 5 0 0 4 1 19
+p657
+aVGreg Ostertag SAC 11/30/2004 SAC @ MEM W 19 2 1 2 50.0 0 0 - 0 2 0.0 2 3 5 1 1 5 1 3 5
+p658
+aVDarius Songaila SAC 11/30/2004 SAC @ MEM W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 2 0 1 1 3
+p659
+aVDoug Christie SAC 11/30/2004 SAC @ MEM W 40 8 4 12 33.3 0 2 0.0 0 0 - 0 4 4 7 0 0 1 2 -6
+p660
+aVBobby Jackson SAC 11/30/2004 SAC @ MEM W 18 14 6 10 60.0 1 2 50.0 1 2 50.0 0 1 1 1 0 0 1 0 11
+p661
+aVChris Webber SAC 11/30/2004 SAC @ MEM W 37 22 9 17 52.9 0 0 - 4 4 100.0 2 9 11 6 1 1 2 4 6
+p662
+aVMike Bibby SAC 11/30/2004 SAC @ MEM W 30 7 3 10 30.0 1 1 100.0 0 0 - 1 0 1 3 1 0 1 2 -6
+p663
+aVBrad Miller SAC 11/30/2004 SAC @ MEM W 32 12 4 5 80.0 0 0 - 4 4 100.0 0 5 5 3 2 1 2 6 -4
+p664
+aVMatt Barnes SAC 11/30/2004 SAC @ MEM W 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 0 10
+p665
+aVPeja Stojakovic SAC 11/30/2004 SAC @ MEM W 41 29 10 16 62.5 4 6 66.7 5 5 100.0 3 3 6 0 0 2 2 2 6
+p666
+aVDarius Songaila SAC 11/28/2004 SAC vs. MIN L 16 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 0 4 -2
+p667
+aVBrad Miller SAC 11/28/2004 SAC vs. MIN L 31 10 4 12 33.3 0 0 - 2 2 100.0 3 6 9 6 1 3 2 6 -15
+p668
+aVGreg Ostertag SAC 11/28/2004 SAC vs. MIN L 10 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 5
+p669
+aVPeja Stojakovic SAC 11/28/2004 SAC vs. MIN L 37 22 8 14 57.1 1 3 33.3 5 5 100.0 1 3 4 0 0 0 1 3 -17
+p670
+aVDoug Christie SAC 11/28/2004 SAC vs. MIN L 30 4 2 4 50.0 0 0 - 0 0 - 1 2 3 4 0 0 1 2 -4
+p671
+aVBobby Jackson SAC 11/28/2004 SAC vs. MIN L 24 19 5 10 50.0 1 2 50.0 8 8 100.0 0 3 3 3 1 0 0 3 -12
+p672
+aVMike Bibby SAC 11/28/2004 SAC vs. MIN L 40 22 8 16 50.0 2 4 50.0 4 5 80.0 0 2 2 7 1 1 0 3 -5
+p673
+aVMatt Barnes SAC 11/28/2004 SAC vs. MIN L 14 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 5
+p674
+aVChris Webber SAC 11/28/2004 SAC vs. MIN L 38 25 10 23 43.5 1 1 100.0 4 10 40.0 2 8 10 3 4 1 3 1 -10
+p675
+aVMatt Barnes SAC 11/26/2004 SAC @ LAL W 14 6 3 3 100.0 0 0 - 0 0 - 2 2 4 1 0 2 1 4 -1
+p676
+aVPeja Stojakovic SAC 11/26/2004 SAC @ LAL W 43 26 6 17 35.3 1 9 11.1 13 13 100.0 0 3 3 2 1 0 0 2 2
+p677
+aVBobby Jackson SAC 11/26/2004 SAC @ LAL W 18 11 5 11 45.5 1 4 25.0 0 0 - 0 2 2 3 0 0 0 1 -16
+p678
+aVBrad Miller SAC 11/26/2004 SAC @ LAL W 34 9 3 9 33.3 0 0 - 3 5 60.0 2 6 8 6 0 1 1 5 17
+p679
+aVChris Webber SAC 11/26/2004 SAC @ LAL W 41 22 9 22 40.9 0 0 - 4 4 100.0 5 11 16 7 0 0 2 4 1
+p680
+aVDoug Christie SAC 11/26/2004 SAC @ LAL W 36 13 5 10 50.0 1 3 33.3 2 2 100.0 0 1 1 4 0 1 1 5 5
+p681
+aVDarius Songaila SAC 11/26/2004 SAC @ LAL W 15 8 3 5 60.0 0 0 - 2 2 100.0 2 0 2 0 2 0 1 4 -12
+p682
+aVMike Bibby SAC 11/26/2004 SAC @ LAL W 39 14 5 12 41.7 3 5 60.0 1 1 100.0 0 2 2 5 4 1 2 1 19
+p683
+aVPeja Stojakovic SAC 11/23/2004 SAC vs. HOU W 43 22 8 15 53.3 3 6 50.0 3 3 100.0 1 1 2 2 0 0 0 2 7
+p684
+aVDarius Songaila SAC 11/23/2004 SAC vs. HOU W 15 10 4 5 80.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 1 10
+p685
+aVBrad Miller SAC 11/23/2004 SAC vs. HOU W 34 13 5 10 50.0 0 1 0.0 3 3 100.0 3 2 5 7 0 1 1 4 3
+p686
+aVDoug Christie SAC 11/23/2004 SAC vs. HOU W 32 11 5 10 50.0 1 2 50.0 0 0 - 1 3 4 5 2 0 0 1 0
+p687
+aVGreg Ostertag SAC 11/23/2004 SAC vs. HOU W 14 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 1 0 1 0 1 3
+p688
+aVMike Bibby SAC 11/23/2004 SAC vs. HOU W 39 10 4 11 36.4 0 5 0.0 2 2 100.0 2 7 9 8 1 1 2 1 0
+p689
+aVMatt Barnes SAC 11/23/2004 SAC vs. HOU W 6 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -2
+p690
+aVBobby Jackson SAC 11/23/2004 SAC vs. HOU W 24 18 7 14 50.0 3 6 50.0 1 2 50.0 5 3 8 2 1 0 2 3 13
+p691
+aVChris Webber SAC 11/23/2004 SAC vs. HOU W 33 11 3 17 17.6 0 1 0.0 5 6 83.3 0 5 5 3 0 1 2 1 -4
+p692
+aVGreg Ostertag SAC 11/21/2004 SAC vs. MIL W 4 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 2 3
+p693
+aVBobby Jackson SAC 11/21/2004 SAC vs. MIL W 17 2 1 7 14.3 0 3 0.0 0 0 - 1 1 2 3 0 0 0 1 0
+p694
+aVMike Bibby SAC 11/21/2004 SAC vs. MIL W 38 12 3 12 25.0 0 1 0.0 6 7 85.7 0 6 6 5 1 0 2 1 7
+p695
+aVDarius Songaila SAC 11/21/2004 SAC vs. MIL W 15 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 0 1 0 2 5
+p696
+aVPeja Stojakovic SAC 11/21/2004 SAC vs. MIL W 40 21 7 18 38.9 4 8 50.0 3 3 100.0 0 5 5 2 1 1 4 5 5
+p697
+aVBrad Miller SAC 11/21/2004 SAC vs. MIL W 39 16 5 9 55.6 0 0 - 6 7 85.7 2 10 12 3 2 0 2 1 10
+p698
+aVMatt Barnes SAC 11/21/2004 SAC vs. MIL W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 4
+p699
+aVChris Webber SAC 11/21/2004 SAC vs. MIL W 37 18 7 22 31.8 0 0 - 4 6 66.7 3 11 14 5 3 0 3 2 0
+p700
+aVDoug Christie SAC 11/21/2004 SAC vs. MIL W 42 8 2 4 50.0 0 0 - 4 4 100.0 3 4 7 6 0 3 1 3 11
+p701
+aVDarius Songaila SAC 11/19/2004 SAC vs. MEM W 14 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 1 1 1 5 2
+p702
+aVBobby Jackson SAC 11/19/2004 SAC vs. MEM W 18 10 2 5 40.0 1 3 33.3 5 6 83.3 0 1 1 1 0 1 0 1 -3
+p703
+aVPeja Stojakovic SAC 11/19/2004 SAC vs. MEM W 43 17 4 13 30.8 3 8 37.5 6 7 85.7 1 3 4 4 3 0 1 1 6
+p704
+aVMatt Barnes SAC 11/19/2004 SAC vs. MEM W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p705
+aVChris Webber SAC 11/19/2004 SAC vs. MEM W 36 31 14 24 58.3 0 0 - 3 6 50.0 3 9 12 7 2 1 2 4 0
+p706
+aVGreg Ostertag SAC 11/19/2004 SAC vs. MEM W 4 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 -1
+p707
+aVBrad Miller SAC 11/19/2004 SAC vs. MEM W 41 8 2 10 20.0 0 0 - 4 4 100.0 1 2 3 2 1 2 0 4 4
+p708
+aVDoug Christie SAC 11/19/2004 SAC vs. MEM W 42 16 5 8 62.5 0 3 0.0 6 6 100.0 1 4 5 9 1 0 5 3 6
+p709
+aVMike Bibby SAC 11/19/2004 SAC vs. MEM W 37 18 7 13 53.8 1 3 33.3 3 4 75.0 0 4 4 5 1 0 0 2 0
+p710
+aVDarius Songaila SAC 11/16/2004 SAC vs. CHI W 16 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 1 0 0 2 -5
+p711
+aVMike Bibby SAC 11/16/2004 SAC vs. CHI W 41 27 8 13 61.5 6 10 60.0 5 8 62.5 2 2 4 4 1 0 2 3 2
+p712
+aVMatt Barnes SAC 11/16/2004 SAC vs. CHI W 5 1 0 1 0.0 0 1 0.0 1 2 50.0 1 0 1 1 0 0 0 0 1
+p713
+aVBrad Miller SAC 11/16/2004 SAC vs. CHI W 36 8 1 6 16.7 0 0 - 6 6 100.0 2 8 10 1 1 0 4 2 10
+p714
+aVBobby Jackson SAC 11/16/2004 SAC vs. CHI W 26 20 5 12 41.7 1 5 20.0 9 10 90.0 2 1 3 5 2 0 1 5 -3
+p715
+aVGreg Ostertag SAC 11/16/2004 SAC vs. CHI W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p716
+aVChris Webber SAC 11/16/2004 SAC vs. CHI W 37 19 7 17 41.2 0 0 - 5 5 100.0 0 13 13 6 1 0 3 3 9
+p717
+aVDoug Christie SAC 11/16/2004 SAC vs. CHI W 29 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 5 1 1 1 2 15
+p718
+aVPeja Stojakovic SAC 11/16/2004 SAC vs. CHI W 43 29 11 19 57.9 4 10 40.0 3 3 100.0 0 4 4 2 2 0 0 1 6
+p719
+aVDarius Songaila SAC 11/14/2004 SAC vs. DEN W 24 10 4 5 80.0 0 0 - 2 3 66.7 0 2 2 1 0 1 1 3 -7
+p720
+aVMaurice Evans SAC 11/14/2004 SAC vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p721
+aVBobby Jackson SAC 11/14/2004 SAC vs. DEN W 29 6 3 12 25.0 0 3 0.0 0 0 - 2 2 4 1 0 0 0 2 3
+p722
+aVErik Daniels SAC 11/14/2004 SAC vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p723
+aVMatt Barnes SAC 11/14/2004 SAC vs. DEN W 9 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 0 1 0 -9
+p724
+aVPeja Stojakovic SAC 11/14/2004 SAC vs. DEN W 39 22 8 17 47.1 4 8 50.0 2 2 100.0 1 4 5 1 3 1 4 5 21
+p725
+aVDoug Christie SAC 11/14/2004 SAC vs. DEN W 23 7 2 7 28.6 0 2 0.0 3 3 100.0 1 5 6 3 0 0 1 3 7
+p726
+aVGreg Ostertag SAC 11/14/2004 SAC vs. DEN W 7 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 2
+p727
+aVKevin Martin SAC 11/14/2004 SAC vs. DEN W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p728
+aVChris Webber SAC 11/14/2004 SAC vs. DEN W 29 10 5 11 45.5 0 0 - 0 2 0.0 1 8 9 5 0 1 2 5 8
+p729
+aVMike Bibby SAC 11/14/2004 SAC vs. DEN W 41 20 5 14 35.7 3 7 42.9 7 9 77.8 0 2 2 5 2 1 6 2 20
+p730
+aVBrad Miller SAC 11/14/2004 SAC vs. DEN W 34 26 7 8 87.5 2 2 100.0 10 11 90.9 1 8 9 4 1 1 0 0 27
+p731
+aVDarius Songaila SAC 11/13/2004 SAC @ PHX W 24 6 2 6 33.3 0 0 - 2 2 100.0 3 3 6 2 0 0 0 2 11
+p732
+aVChris Webber SAC 11/13/2004 SAC @ PHX W 38 28 12 23 52.2 0 0 - 4 4 100.0 5 5 10 3 1 1 2 3 6
+p733
+aVBrad Miller SAC 11/13/2004 SAC @ PHX W 34 14 6 14 42.9 0 0 - 2 2 100.0 2 5 7 2 2 0 0 4 -11
+p734
+aVBobby Jackson SAC 11/13/2004 SAC @ PHX W 22 10 5 9 55.6 0 2 0.0 0 0 - 0 3 3 2 0 0 1 3 5
+p735
+aVMike Bibby SAC 11/13/2004 SAC @ PHX W 39 20 7 13 53.8 2 4 50.0 4 4 100.0 1 1 2 7 2 0 0 3 4
+p736
+aVPeja Stojakovic SAC 11/13/2004 SAC @ PHX W 41 23 8 15 53.3 4 7 57.1 3 4 75.0 1 3 4 2 1 0 2 1 -11
+p737
+aVDoug Christie SAC 11/13/2004 SAC @ PHX W 34 10 3 7 42.9 1 2 50.0 3 4 75.0 0 1 1 6 4 2 2 3 -2
+p738
+aVMatt Barnes SAC 11/13/2004 SAC @ PHX W 8 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 1 1 8
+p739
+aVDoug Christie SAC 11/10/2004 SAC @ SEA L 23 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 1 2 0 4 1 -9
+p740
+aVChris Webber SAC 11/10/2004 SAC @ SEA L 32 11 2 13 15.4 0 0 - 7 8 87.5 2 5 7 4 0 1 0 1 -11
+p741
+aVMaurice Evans SAC 11/10/2004 SAC @ SEA L 19 4 2 5 40.0 0 1 0.0 0 0 - 2 0 2 2 0 1 0 2 -16
+p742
+aVBobby Jackson SAC 11/10/2004 SAC @ SEA L 21 10 4 12 33.3 0 3 0.0 2 2 100.0 0 1 1 0 1 0 0 2 -17
+p743
+aVErik Daniels SAC 11/10/2004 SAC @ SEA L 5 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 -1
+p744
+aVDarius Songaila SAC 11/10/2004 SAC @ SEA L 14 2 0 0 - 0 0 - 2 2 100.0 1 0 1 1 0 0 0 2 -19
+p745
+aVMatt Barnes SAC 11/10/2004 SAC @ SEA L 16 5 2 7 28.6 0 0 - 1 6 16.7 0 3 3 0 0 0 3 4 2
+p746
+aVMike Bibby SAC 11/10/2004 SAC @ SEA L 28 9 2 7 28.6 0 2 0.0 5 10 50.0 2 1 3 5 0 0 1 1 -17
+p747
+aVPeja Stojakovic SAC 11/10/2004 SAC @ SEA L 32 16 6 15 40.0 1 7 14.3 3 3 100.0 2 3 5 0 0 0 2 4 -32
+p748
+aVBrad Miller SAC 11/10/2004 SAC @ SEA L 35 17 7 12 58.3 0 0 - 3 6 50.0 2 7 9 1 1 2 2 5 -23
+p749
+aVGreg Ostertag SAC 11/10/2004 SAC @ SEA L 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -6
+p750
+aVKevin Martin SAC 11/10/2004 SAC @ SEA L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -1
+p751
+aVMaurice Evans SAC 11/09/2004 SAC vs. TOR W 16 5 1 2 50.0 0 0 - 3 4 75.0 0 2 2 1 1 0 0 2 -6
+p752
+aVMatt Barnes SAC 11/09/2004 SAC vs. TOR W 25 9 4 7 57.1 0 2 0.0 1 2 50.0 1 4 5 1 2 1 5 4 2
+p753
+aVBrad Miller SAC 11/09/2004 SAC vs. TOR W 35 21 9 14 64.3 0 0 - 3 4 75.0 3 9 12 5 0 2 0 3 23
+p754
+aVDoug Christie SAC 11/09/2004 SAC vs. TOR W 23 4 1 4 25.0 0 1 0.0 2 3 66.7 0 1 1 1 0 1 3 0 12
+p755
+aVKevin Martin SAC 11/09/2004 SAC vs. TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 3 1 -10
+p756
+aVBobby Jackson SAC 11/09/2004 SAC vs. TOR W 22 18 8 13 61.5 1 2 50.0 1 2 50.0 0 4 4 0 0 1 1 2 10
+p757
+aVPeja Stojakovic SAC 11/09/2004 SAC vs. TOR W 28 14 5 13 38.5 1 6 16.7 3 3 100.0 0 4 4 1 1 0 1 4 16
+p758
+aVDarius Songaila SAC 11/09/2004 SAC vs. TOR W 19 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 5 -1
+p759
+aVMike Bibby SAC 11/09/2004 SAC vs. TOR W 34 8 3 9 33.3 0 3 0.0 2 2 100.0 0 7 7 11 1 0 1 3 26
+p760
+aVChris Webber SAC 11/09/2004 SAC vs. TOR W 30 21 10 16 62.5 0 0 - 1 1 100.0 2 9 11 11 1 3 1 1 18
+p761
+aVErik Daniels SAC 11/09/2004 SAC vs. TOR W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -10
+p762
+aVBobby Jackson SAC 11/06/2004 SAC @ HOU L 29 9 2 7 28.6 0 1 0.0 5 6 83.3 2 4 6 1 0 0 0 4 -2
+p763
+aVChris Webber SAC 11/06/2004 SAC @ HOU L 42 20 9 26 34.6 0 0 - 2 2 100.0 4 9 13 7 0 2 2 4 -8
+p764
+aVBrad Miller SAC 11/06/2004 SAC @ HOU L 44 15 6 13 46.2 0 0 - 3 3 100.0 3 6 9 4 0 2 0 5 2
+p765
+aVDoug Christie SAC 11/06/2004 SAC @ HOU L 18 0 0 3 0.0 0 1 0.0 0 0 - 3 3 6 1 1 0 0 2 -3
+p766
+aVMike Bibby SAC 11/06/2004 SAC @ HOU L 46 31 10 20 50.0 3 4 75.0 8 9 88.9 1 6 7 7 0 0 5 0 1
+p767
+aVGreg Ostertag SAC 11/06/2004 SAC @ HOU L 11 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 3 -3
+p768
+aVPeja Stojakovic SAC 11/06/2004 SAC @ HOU L 48 23 8 21 38.1 2 8 25.0 5 6 83.3 0 2 2 1 2 0 0 2 -7
+p769
+aVDarius Songaila SAC 11/06/2004 SAC @ HOU L 9 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 0 3
+p770
+aVMatt Barnes SAC 11/06/2004 SAC @ HOU L 18 1 0 1 0.0 0 0 - 1 2 50.0 3 1 4 2 1 0 1 1 2
+p771
+aVKevin Martin SAC 11/03/2004 SAC @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p772
+aVBrad Miller SAC 11/03/2004 SAC @ SAS L 33 6 3 6 50.0 0 0 - 0 0 - 3 5 8 3 0 0 2 4 -4
+p773
+aVDarius Songaila SAC 11/03/2004 SAC @ SAS L 14 5 1 1 100.0 0 0 - 3 3 100.0 0 3 3 0 0 0 0 0 -5
+p774
+aVMike Bibby SAC 11/03/2004 SAC @ SAS L 43 23 9 13 69.2 1 1 100.0 4 4 100.0 0 3 3 3 1 0 3 3 -12
+p775
+aVPeja Stojakovic SAC 11/03/2004 SAC @ SAS L 41 15 5 14 35.7 2 3 66.7 3 4 75.0 0 4 4 3 2 1 1 3 -7
+p776
+aVDoug Christie SAC 11/03/2004 SAC @ SAS L 20 8 4 7 57.1 0 0 - 0 0 - 1 2 3 2 2 0 2 0 5
+p777
+aVMaurice Evans SAC 11/03/2004 SAC @ SAS L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p778
+aVMatt Barnes SAC 11/03/2004 SAC @ SAS L 22 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 2 1 1 0 3 -21
+p779
+aVChris Webber SAC 11/03/2004 SAC @ SAS L 35 18 7 22 31.8 0 1 0.0 4 4 100.0 2 7 9 4 2 1 4 2 -7
+p780
+aVBobby Jackson SAC 11/03/2004 SAC @ SAS L 13 2 1 8 12.5 0 3 0.0 0 0 - 0 0 0 2 0 0 1 3 -18
+p781
+aVGreg Ostertag SAC 11/03/2004 SAC @ SAS L 8 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 1 1 3 -9
+p782
+aVChris Webber SAC 11/02/2004 SAC @ DAL L 35 21 10 17 58.8 0 0 - 1 5 20.0 3 7 10 1 0 0 3 2 -5
+p783
+aVBrad Miller SAC 11/02/2004 SAC @ DAL L 38 24 8 14 57.1 0 0 - 8 8 100.0 4 2 6 1 3 2 1 5 -4
+p784
+aVMaurice Evans SAC 11/02/2004 SAC @ DAL L 21 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 2 0 1 1 2 -5
+p785
+aVDarius Songaila SAC 11/02/2004 SAC @ DAL L 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p786
+aVMatt Barnes SAC 11/02/2004 SAC @ DAL L 30 17 7 11 63.6 2 3 66.7 1 2 50.0 4 5 9 4 1 1 2 2 -6
+p787
+aVGreg Ostertag SAC 11/02/2004 SAC @ DAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p788
+aVMike Bibby SAC 11/02/2004 SAC @ DAL L 28 8 2 8 25.0 1 2 50.0 3 4 75.0 1 4 5 6 1 1 3 2 -12
+p789
+aVKevin Martin SAC 11/02/2004 SAC @ DAL L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -5
+p790
+aVBobby Jackson SAC 11/02/2004 SAC @ DAL L 20 11 4 12 33.3 0 4 0.0 3 3 100.0 3 1 4 3 2 0 1 3 3
+p791
+aVPeja Stojakovic SAC 11/02/2004 SAC @ DAL L 39 12 3 15 20.0 0 7 0.0 6 6 100.0 2 3 5 3 2 1 3 1 -2
+p792
+a.

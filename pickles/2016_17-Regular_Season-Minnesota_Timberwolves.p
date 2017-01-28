@@ -1,0 +1,878 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVShabazz Muhammad MIN 01/22/2017 MIN vs. DEN W 33 20 9 14 64.3 2 5 40.0 0 0 - 3 2 5 1 1 0 2 1 8
+p2
+aVTyus Jones MIN 01/22/2017 MIN vs. DEN W 19 9 3 8 37.5 1 1 100.0 2 3 66.7 0 0 0 4 1 1 1 2 -1
+p3
+aVKarl-Anthony Towns MIN 01/22/2017 MIN vs. DEN W 40 32 13 19 68.4 0 0 - 6 8 75.0 2 10 12 7 1 4 6 4 6
+p4
+aVNemanja Bjelica MIN 01/22/2017 MIN vs. DEN W 19 8 3 5 60.0 0 1 0.0 2 2 100.0 2 2 4 1 0 0 1 4 -10
+p5
+aVZach LaVine MIN 01/22/2017 MIN vs. DEN W 33 4 2 8 25.0 0 3 0.0 0 0 - 0 2 2 1 1 0 0 0 -7
+p6
+aVCole Aldrich MIN 01/22/2017 MIN vs. DEN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -3
+p7
+aVKris Dunn MIN 01/22/2017 MIN vs. DEN W 34 10 3 8 37.5 2 2 100.0 2 4 50.0 1 7 8 9 3 1 1 4 14
+p8
+aVGorgui Dieng MIN 01/22/2017 MIN vs. DEN W 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 2 1 0 3 -2
+p9
+aVAndrew Wiggins MIN 01/22/2017 MIN vs. DEN W 39 24 10 19 52.6 1 3 33.3 3 4 75.0 0 4 4 4 1 1 3 5 10
+p10
+aVZach LaVine MIN 01/19/2017 MIN @ LAC W 40 9 3 13 23.1 1 6 16.7 2 2 100.0 0 6 6 2 1 0 2 2 -3
+p11
+aVCole Aldrich MIN 01/19/2017 MIN @ LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 1
+p12
+aVKarl-Anthony Towns MIN 01/19/2017 MIN @ LAC W 41 37 17 24 70.8 1 2 50.0 2 2 100.0 5 7 12 5 1 0 2 3 5
+p13
+aVRicky Rubio MIN 01/19/2017 MIN @ LAC W 17 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 4 0 0 3 0 -2
+p14
+aVTyus Jones MIN 01/19/2017 MIN @ LAC W 12 4 1 4 25.0 1 1 100.0 1 2 50.0 0 0 0 4 0 0 0 0 5
+p15
+aVNemanja Bjelica MIN 01/19/2017 MIN @ LAC W 19 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -7
+p16
+aVShabazz Muhammad MIN 01/19/2017 MIN @ LAC W 18 7 2 5 40.0 1 1 100.0 2 4 50.0 1 3 4 0 0 0 0 0 3
+p17
+aVAndrew Wiggins MIN 01/19/2017 MIN @ LAC W 38 27 9 19 47.4 1 2 50.0 8 10 80.0 1 3 4 4 0 1 2 2 6
+p18
+aVGorgui Dieng MIN 01/19/2017 MIN @ LAC W 26 13 5 8 62.5 0 0 - 3 3 100.0 4 3 7 1 0 0 0 5 0
+p19
+aVKris Dunn MIN 01/19/2017 MIN @ LAC W 25 5 2 4 50.0 0 1 0.0 1 2 50.0 1 3 4 4 1 1 3 5 7
+p20
+aVKarl-Anthony Towns MIN 01/17/2017 MIN @ SAS L 43 27 10 18 55.6 2 2 100.0 5 5 100.0 4 12 16 0 0 1 5 4 -5
+p21
+aVKris Dunn MIN 01/17/2017 MIN @ SAS L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -6
+p22
+aVNemanja Bjelica MIN 01/17/2017 MIN @ SAS L 25 6 1 4 25.0 0 1 0.0 4 5 80.0 0 4 4 3 1 1 2 2 -16
+p23
+aVZach LaVine MIN 01/17/2017 MIN @ SAS L 35 18 8 14 57.1 2 5 40.0 0 0 - 0 4 4 2 0 0 1 3 1
+p24
+aVShabazz Muhammad MIN 01/17/2017 MIN @ SAS L 23 15 4 6 66.7 2 3 66.7 5 5 100.0 1 3 4 0 0 0 2 3 -9
+p25
+aVAndrew Wiggins MIN 01/17/2017 MIN @ SAS L 38 10 3 8 37.5 0 1 0.0 4 6 66.7 0 3 3 3 1 0 3 3 -8
+p26
+aVRicky Rubio MIN 01/17/2017 MIN @ SAS L 39 21 4 9 44.4 0 1 0.0 13 14 92.9 0 2 2 14 2 0 3 2 -2
+p27
+aVGorgui Dieng MIN 01/17/2017 MIN @ SAS L 29 17 6 12 50.0 0 0 - 5 6 83.3 1 5 6 3 1 4 1 2 5
+p28
+aVCole Aldrich MIN 01/15/2017 MIN @ DAL L 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -13
+p29
+aVBrandon Rush MIN 01/15/2017 MIN @ DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p30
+aVKarl-Anthony Towns MIN 01/15/2017 MIN @ DAL L 38 18 8 17 47.1 1 4 25.0 1 2 50.0 2 7 9 3 1 1 3 2 5
+p31
+aVRicky Rubio MIN 01/15/2017 MIN @ DAL L 36 8 2 9 22.2 0 2 0.0 4 6 66.7 1 4 5 10 2 0 4 2 6
+p32
+aVNemanja Bjelica MIN 01/15/2017 MIN @ DAL L 22 10 4 7 57.1 0 3 0.0 2 3 66.7 1 3 4 1 1 0 1 2 -19
+p33
+aVGorgui Dieng MIN 01/15/2017 MIN @ DAL L 31 21 10 12 83.3 0 1 0.0 1 3 33.3 5 3 8 0 1 0 0 1 5
+p34
+aVAndrew Wiggins MIN 01/15/2017 MIN @ DAL L 38 19 8 15 53.3 1 3 33.3 2 2 100.0 1 7 8 4 1 0 2 1 8
+p35
+aVShabazz Muhammad MIN 01/15/2017 MIN @ DAL L 12 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -20
+p36
+aVZach LaVine MIN 01/15/2017 MIN @ DAL L 34 11 3 8 37.5 3 4 75.0 2 2 100.0 0 5 5 1 1 0 1 1 -1
+p37
+aVTyus Jones MIN 01/15/2017 MIN @ DAL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p38
+aVKris Dunn MIN 01/15/2017 MIN @ DAL L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 3 -17
+p39
+aVNemanja Bjelica MIN 01/13/2017 MIN vs. OKC W 14 8 3 6 50.0 1 2 50.0 1 1 100.0 1 2 3 1 0 0 0 6 4
+p40
+aVKris Dunn MIN 01/13/2017 MIN vs. OKC W 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -1
+p41
+aVKarl-Anthony Towns MIN 01/13/2017 MIN vs. OKC W 37 29 11 17 64.7 0 2 0.0 7 7 100.0 2 15 17 1 2 3 2 4 9
+p42
+aVBrandon Rush MIN 01/13/2017 MIN vs. OKC W 40 11 4 9 44.4 3 6 50.0 0 0 - 3 1 4 1 2 2 2 1 7
+p43
+aVRicky Rubio MIN 01/13/2017 MIN vs. OKC W 36 14 6 12 50.0 0 2 0.0 2 2 100.0 1 3 4 14 4 0 5 3 11
+p44
+aVCole Aldrich MIN 01/13/2017 MIN vs. OKC W 9 0 0 0 - 0 0 - 0 1 0.0 0 2 2 1 1 0 0 1 -3
+p45
+aVAndrew Wiggins MIN 01/13/2017 MIN vs. OKC W 36 19 9 22 40.9 0 3 0.0 1 1 100.0 1 5 6 1 1 1 4 0 7
+p46
+aVShabazz Muhammad MIN 01/13/2017 MIN vs. OKC W 23 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 5
+p47
+aVGorgui Dieng MIN 01/13/2017 MIN vs. OKC W 33 4 1 10 10.0 0 1 0.0 2 2 100.0 0 3 3 2 0 0 0 5 11
+p48
+aVAndrew Wiggins MIN 01/11/2017 MIN vs. HOU W 38 28 11 20 55.0 2 4 50.0 4 5 80.0 0 4 4 2 0 1 3 4 9
+p49
+aVKris Dunn MIN 01/11/2017 MIN vs. HOU W 13 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 2 1 2 1 2
+p50
+aVKarl-Anthony Towns MIN 01/11/2017 MIN vs. HOU W 38 23 10 17 58.8 0 3 0.0 3 4 75.0 2 16 18 5 1 3 6 3 9
+p51
+aVGorgui Dieng MIN 01/11/2017 MIN vs. HOU W 26 10 5 5 100.0 0 0 - 0 0 - 0 2 2 2 0 1 2 2 20
+p52
+aVShabazz Muhammad MIN 01/11/2017 MIN vs. HOU W 30 20 7 11 63.6 2 3 66.7 4 4 100.0 1 6 7 1 0 0 0 1 13
+p53
+aVRicky Rubio MIN 01/11/2017 MIN vs. HOU W 35 10 1 5 20.0 0 2 0.0 8 8 100.0 0 3 3 17 1 0 1 2 12
+p54
+aVCole Aldrich MIN 01/11/2017 MIN vs. HOU W 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 1
+p55
+aVBrandon Rush MIN 01/11/2017 MIN vs. HOU W 36 12 4 8 50.0 4 7 57.1 0 0 - 2 1 3 3 3 3 0 1 2
+p56
+aVNemanja Bjelica MIN 01/11/2017 MIN vs. HOU W 21 8 2 7 28.6 0 4 0.0 4 4 100.0 2 5 7 0 1 0 3 3 2
+p57
+aVTyus Jones MIN 01/09/2017 MIN vs. DAL W 11 7 3 3 100.0 1 1 100.0 0 0 - 1 0 1 0 1 0 0 1 3
+p58
+aVZach LaVine MIN 01/09/2017 MIN vs. DAL W 29 5 2 7 28.6 1 4 25.0 0 0 - 0 6 6 5 1 0 2 2 -4
+p59
+aVRicky Rubio MIN 01/09/2017 MIN vs. DAL W 30 13 3 9 33.3 0 2 0.0 7 7 100.0 0 5 5 15 5 0 3 4 9
+p60
+aVAndrew Wiggins MIN 01/09/2017 MIN vs. DAL W 36 13 5 11 45.5 0 1 0.0 3 6 50.0 3 1 4 0 0 0 3 3 2
+p61
+aVNemanja Bjelica MIN 01/09/2017 MIN vs. DAL W 29 3 1 2 50.0 1 2 50.0 0 0 - 1 4 5 2 1 0 0 5 8
+p62
+aVKarl-Anthony Towns MIN 01/09/2017 MIN vs. DAL W 37 34 15 19 78.9 2 3 66.7 2 2 100.0 1 10 11 4 1 3 3 4 1
+p63
+aVKris Dunn MIN 01/09/2017 MIN vs. DAL W 18 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 3 2 1 4 2 0
+p64
+aVGorgui Dieng MIN 01/09/2017 MIN vs. DAL W 25 12 5 8 62.5 0 0 - 2 4 50.0 2 3 5 0 0 0 1 1 2
+p65
+aVShabazz Muhammad MIN 01/09/2017 MIN vs. DAL W 20 11 5 9 55.6 1 2 50.0 0 0 - 0 2 2 0 0 0 1 2 17
+p66
+aVCole Aldrich MIN 01/09/2017 MIN vs. DAL W 4 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 0 7
+p67
+aVKris Dunn MIN 01/07/2017 MIN vs. UTA L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 1 1 1 -2
+p68
+aVShabazz Muhammad MIN 01/07/2017 MIN vs. UTA L 18 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 0 0 0 0 1 1
+p69
+aVAndrew Wiggins MIN 01/07/2017 MIN vs. UTA L 38 16 6 19 31.6 1 3 33.3 3 7 42.9 4 1 5 4 0 1 5 4 -1
+p70
+aVZach LaVine MIN 01/07/2017 MIN vs. UTA L 38 24 10 21 47.6 3 9 33.3 1 1 100.0 3 6 9 4 1 0 2 2 -8
+p71
+aVBrandon Rush MIN 01/07/2017 MIN vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p72
+aVKarl-Anthony Towns MIN 01/07/2017 MIN vs. UTA L 41 18 5 13 38.5 1 2 50.0 7 8 87.5 6 9 15 1 0 0 2 4 2
+p73
+aVCole Aldrich MIN 01/07/2017 MIN vs. UTA L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 1
+p74
+aVRicky Rubio MIN 01/07/2017 MIN vs. UTA L 34 12 5 7 71.4 0 1 0.0 2 3 66.7 0 3 3 7 1 0 2 4 0
+p75
+aVGorgui Dieng MIN 01/07/2017 MIN vs. UTA L 40 11 4 11 36.4 1 2 50.0 2 2 100.0 1 7 8 4 0 1 1 2 -1
+p76
+aVNemanja Bjelica MIN 01/07/2017 MIN vs. UTA L 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -6
+p77
+aVKris Dunn MIN 01/06/2017 MIN @ WAS L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 2 -4
+p78
+aVBrandon Rush MIN 01/06/2017 MIN @ WAS L 20 10 4 4 100.0 2 2 100.0 0 0 - 1 0 1 0 0 1 0 0 8
+p79
+aVRicky Rubio MIN 01/06/2017 MIN @ WAS L 35 4 2 3 66.7 0 0 - 0 0 - 1 4 5 7 1 0 3 3 -3
+p80
+aVNemanja Bjelica MIN 01/06/2017 MIN @ WAS L 11 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p81
+aVAndrew Wiggins MIN 01/06/2017 MIN @ WAS L 39 41 16 30 53.3 1 3 33.3 8 10 80.0 1 0 1 2 2 0 2 2 -4
+p82
+aVGorgui Dieng MIN 01/06/2017 MIN @ WAS L 40 15 6 12 50.0 1 1 100.0 2 2 100.0 3 8 11 2 2 0 1 1 0
+p83
+aVKarl-Anthony Towns MIN 01/06/2017 MIN @ WAS L 38 18 7 17 41.2 0 2 0.0 4 5 80.0 4 6 10 5 1 1 3 3 -3
+p84
+aVCole Aldrich MIN 01/06/2017 MIN @ WAS L 8 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -5
+p85
+aVZach LaVine MIN 01/06/2017 MIN @ WAS L 37 8 3 14 21.4 2 6 33.3 0 0 - 0 5 5 3 0 0 1 3 -18
+p86
+aVKarl-Anthony Towns MIN 01/03/2017 MIN @ PHI L 37 23 9 22 40.9 1 6 16.7 4 4 100.0 6 10 16 5 0 2 3 2 -3
+p87
+aVGorgui Dieng MIN 01/03/2017 MIN @ PHI L 27 10 4 6 66.7 0 0 - 2 2 100.0 1 7 8 2 1 2 1 4 -9
+p88
+aVShabazz Muhammad MIN 01/03/2017 MIN @ PHI L 19 10 3 6 50.0 1 1 100.0 3 4 75.0 1 4 5 0 1 0 2 2 -9
+p89
+aVAndrew Wiggins MIN 01/03/2017 MIN @ PHI L 37 8 2 15 13.3 0 3 0.0 4 4 100.0 0 4 4 3 1 0 4 2 -2
+p90
+aVZach LaVine MIN 01/03/2017 MIN @ PHI L 40 28 11 20 55.0 3 8 37.5 3 4 75.0 0 4 4 1 1 1 3 3 7
+p91
+aVCole Aldrich MIN 01/03/2017 MIN @ PHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 -1
+p92
+aVNemanja Bjelica MIN 01/03/2017 MIN @ PHI L 23 7 2 6 33.3 1 4 25.0 2 2 100.0 0 3 3 0 1 0 0 2 9
+p93
+aVRicky Rubio MIN 01/03/2017 MIN @ PHI L 30 5 2 3 66.7 1 2 50.0 0 0 - 1 2 3 5 2 0 3 2 -2
+p94
+aVKris Dunn MIN 01/03/2017 MIN @ PHI L 18 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 0 0 1 5 0
+p95
+aVRicky Rubio MIN 01/01/2017 MIN vs. POR L 27 1 0 5 0.0 0 2 0.0 1 1 100.0 0 0 0 6 2 0 0 3 -18
+p96
+aVZach LaVine MIN 01/01/2017 MIN vs. POR L 36 13 5 12 41.7 2 5 40.0 1 3 33.3 1 2 3 1 1 0 2 3 -1
+p97
+aVTyus Jones MIN 01/01/2017 MIN vs. POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p98
+aVCole Aldrich MIN 01/01/2017 MIN vs. POR L 10 0 0 1 0.0 0 0 - 0 0 - 2 4 6 0 1 1 0 1 8
+p99
+aVShabazz Muhammad MIN 01/01/2017 MIN vs. POR L 23 12 5 11 45.5 2 4 50.0 0 0 - 1 5 6 0 1 0 2 3 6
+p100
+aVNemanja Bjelica MIN 01/01/2017 MIN vs. POR L 15 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 1 1 0 1 4 2
+p101
+aVGorgui Dieng MIN 01/01/2017 MIN vs. POR L 38 12 5 13 38.5 0 0 - 2 2 100.0 2 7 9 2 2 0 1 5 -14
+p102
+aVKris Dunn MIN 01/01/2017 MIN vs. POR L 21 11 5 7 71.4 1 1 100.0 0 0 - 0 3 3 4 1 3 2 3 12
+p103
+aVKarl-Anthony Towns MIN 01/01/2017 MIN vs. POR L 34 11 3 15 20.0 0 6 0.0 5 5 100.0 4 9 13 6 1 1 3 2 -8
+p104
+aVAndrew Wiggins MIN 01/01/2017 MIN vs. POR L 38 24 10 20 50.0 1 3 33.3 3 7 42.9 3 2 5 1 1 0 5 1 -17
+p105
+aVZach LaVine MIN 12/30/2016 MIN vs. MIL W 39 24 9 17 52.9 6 9 66.7 0 0 - 0 2 2 4 0 0 2 3 10
+p106
+aVKarl-Anthony Towns MIN 12/30/2016 MIN vs. MIL W 38 18 7 12 58.3 0 2 0.0 4 6 66.7 5 11 16 3 0 2 4 4 21
+p107
+aVCole Aldrich MIN 12/30/2016 MIN vs. MIL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p108
+aVNemanja Bjelica MIN 12/30/2016 MIN vs. MIL W 19 10 4 6 66.7 2 3 66.7 0 0 - 0 3 3 1 1 0 0 3 -2
+p109
+aVAndrew Wiggins MIN 12/30/2016 MIN vs. MIL W 39 31 10 18 55.6 0 3 0.0 11 13 84.6 1 4 5 6 1 0 1 1 16
+p110
+aVGorgui Dieng MIN 12/30/2016 MIN vs. MIL W 34 6 3 6 50.0 0 0 - 0 0 - 1 3 4 3 1 3 0 1 17
+p111
+aVRicky Rubio MIN 12/30/2016 MIN vs. MIL W 35 5 2 4 50.0 1 3 33.3 0 0 - 1 0 1 9 4 0 2 2 27
+p112
+aVShabazz Muhammad MIN 12/30/2016 MIN vs. MIL W 18 22 8 13 61.5 4 5 80.0 2 2 100.0 0 1 1 0 0 0 2 1 8
+p113
+aVKris Dunn MIN 12/30/2016 MIN vs. MIL W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 0 0 0 2 -10
+p114
+aVKarl-Anthony Towns MIN 12/28/2016 MIN @ DEN L 35 15 7 17 41.2 1 2 50.0 0 0 - 5 6 11 10 0 2 3 1 6
+p115
+aVKris Dunn MIN 12/28/2016 MIN @ DEN L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 -1
+p116
+aVRicky Rubio MIN 12/28/2016 MIN @ DEN L 34 18 5 14 35.7 1 7 14.3 7 7 100.0 2 6 8 7 4 0 4 2 -1
+p117
+aVNemanja Bjelica MIN 12/28/2016 MIN @ DEN L 18 0 0 5 0.0 0 2 0.0 0 0 - 3 2 5 2 0 0 0 3 -10
+p118
+aVCole Aldrich MIN 12/28/2016 MIN @ DEN L 4 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -2
+p119
+aVShabazz Muhammad MIN 12/28/2016 MIN @ DEN L 19 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 3 -4
+p120
+aVGorgui Dieng MIN 12/28/2016 MIN @ DEN L 39 20 9 11 81.8 0 0 - 2 2 100.0 2 6 8 1 1 1 1 5 2
+p121
+aVAndrew Wiggins MIN 12/28/2016 MIN @ DEN L 36 25 11 20 55.0 2 4 50.0 1 4 25.0 1 4 5 1 2 0 0 0 1
+p122
+aVZach LaVine MIN 12/28/2016 MIN @ DEN L 40 17 7 17 41.2 2 8 25.0 1 2 50.0 0 1 1 5 1 0 0 0 -1
+p123
+aVKris Dunn MIN 12/26/2016 MIN vs. ATL W 24 3 1 4 25.0 0 1 0.0 1 2 50.0 0 6 6 1 2 0 1 1 -3
+p124
+aVKarl-Anthony Towns MIN 12/26/2016 MIN vs. ATL W 31 22 8 8 100.0 3 3 100.0 3 3 100.0 3 8 11 4 0 3 1 5 13
+p125
+aVAndrew Wiggins MIN 12/26/2016 MIN vs. ATL W 28 21 7 14 50.0 4 6 66.7 3 4 75.0 1 3 4 2 1 0 0 2 16
+p126
+aVGorgui Dieng MIN 12/26/2016 MIN vs. ATL W 35 14 6 12 50.0 0 0 - 2 2 100.0 2 5 7 3 3 0 2 3 27
+p127
+aVZach LaVine MIN 12/26/2016 MIN vs. ATL W 31 21 7 16 43.8 6 9 66.7 1 1 100.0 0 1 1 3 1 0 4 1 27
+p128
+aVShabazz Muhammad MIN 12/26/2016 MIN vs. ATL W 29 12 4 13 30.8 1 3 33.3 3 4 75.0 2 1 3 0 1 0 3 2 -4
+p129
+aVJordan Hill MIN 12/26/2016 MIN vs. ATL W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p130
+aVTyus Jones MIN 12/26/2016 MIN vs. ATL W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -11
+p131
+aVRicky Rubio MIN 12/26/2016 MIN vs. ATL W 24 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 10 1 0 0 1 17
+p132
+aVNemanja Bjelica MIN 12/26/2016 MIN vs. ATL W 25 8 3 9 33.3 0 5 0.0 2 2 100.0 1 4 5 3 2 0 3 4 -4
+p133
+aVKris Dunn MIN 12/25/2016 MIN @ OKC L 18 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 3 2 1 1 3 2
+p134
+aVAdreian Payne MIN 12/25/2016 MIN @ OKC L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 8
+p135
+aVKarl-Anthony Towns MIN 12/25/2016 MIN @ OKC L 32 26 10 20 50.0 0 2 0.0 6 6 100.0 2 6 8 0 0 0 3 1 -11
+p136
+aVTyus Jones MIN 12/25/2016 MIN @ OKC L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 8
+p137
+aVZach LaVine MIN 12/25/2016 MIN @ OKC L 31 16 5 11 45.5 3 5 60.0 3 3 100.0 0 1 1 2 1 0 3 2 -21
+p138
+aVShabazz Muhammad MIN 12/25/2016 MIN @ OKC L 25 15 5 8 62.5 0 1 0.0 5 5 100.0 0 1 1 0 1 1 0 1 0
+p139
+aVJordan Hill MIN 12/25/2016 MIN @ OKC L 19 4 2 7 28.6 0 0 - 0 0 - 3 3 6 0 1 0 1 5 7
+p140
+aVAndrew Wiggins MIN 12/25/2016 MIN @ OKC L 36 23 10 20 50.0 0 2 0.0 3 8 37.5 1 2 3 2 2 0 1 0 -11
+p141
+aVGorgui Dieng MIN 12/25/2016 MIN @ OKC L 29 6 3 7 42.9 0 0 - 0 0 - 3 3 6 0 2 0 2 3 -19
+p142
+aVNemanja Bjelica MIN 12/25/2016 MIN @ OKC L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -9
+p143
+aVRicky Rubio MIN 12/25/2016 MIN @ OKC L 30 3 1 4 25.0 0 0 - 1 1 100.0 2 4 6 10 2 0 0 4 -14
+p144
+aVCole Aldrich MIN 12/23/2016 MIN vs. SAC L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p145
+aVGorgui Dieng MIN 12/23/2016 MIN vs. SAC L 43 6 3 5 60.0 0 0 - 0 0 - 3 7 10 1 1 2 1 5 1
+p146
+aVZach LaVine MIN 12/23/2016 MIN vs. SAC L 39 40 13 21 61.9 7 12 58.3 7 7 100.0 0 6 6 2 1 0 2 5 -12
+p147
+aVKarl-Anthony Towns MIN 12/23/2016 MIN vs. SAC L 38 20 7 15 46.7 1 5 20.0 5 6 83.3 5 8 13 5 0 0 1 1 -3
+p148
+aVRicky Rubio MIN 12/23/2016 MIN vs. SAC L 34 13 4 10 40.0 3 6 50.0 2 2 100.0 2 4 6 8 3 0 3 4 2
+p149
+aVAndrew Wiggins MIN 12/23/2016 MIN vs. SAC L 40 15 6 19 31.6 0 6 0.0 3 4 75.0 0 0 0 1 0 1 2 1 0
+p150
+aVKris Dunn MIN 12/23/2016 MIN vs. SAC L 14 3 1 4 25.0 0 1 0.0 1 3 33.3 1 2 3 1 0 1 2 2 -6
+p151
+aVShabazz Muhammad MIN 12/23/2016 MIN vs. SAC L 17 6 1 1 100.0 1 1 100.0 3 4 75.0 0 1 1 0 0 0 1 2 4
+p152
+aVNemanja Bjelica MIN 12/23/2016 MIN vs. SAC L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p153
+aVRicky Rubio MIN 12/21/2016 MIN @ ATL W 33 10 3 5 60.0 2 3 66.7 2 2 100.0 1 4 5 8 2 0 6 0 1
+p154
+aVNemanja Bjelica MIN 12/21/2016 MIN @ ATL W 19 3 1 6 16.7 1 5 20.0 0 0 - 1 2 3 3 1 0 0 0 7
+p155
+aVGorgui Dieng MIN 12/21/2016 MIN @ ATL W 40 12 5 10 50.0 0 1 0.0 2 2 100.0 2 7 9 1 1 3 2 3 8
+p156
+aVKarl-Anthony Towns MIN 12/21/2016 MIN @ ATL W 37 17 7 16 43.8 0 3 0.0 3 4 75.0 4 14 18 5 0 1 6 3 1
+p157
+aVZach LaVine MIN 12/21/2016 MIN @ ATL W 38 18 5 12 41.7 4 8 50.0 4 4 100.0 1 3 4 2 1 1 1 1 6
+p158
+aVShabazz Muhammad MIN 12/21/2016 MIN @ ATL W 19 7 3 10 30.0 1 3 33.3 0 0 - 3 2 5 0 1 0 1 0 8
+p159
+aVAndrew Wiggins MIN 12/21/2016 MIN @ ATL W 39 19 9 19 47.4 0 3 0.0 1 1 100.0 3 4 7 2 0 1 1 2 2
+p160
+aVKris Dunn MIN 12/21/2016 MIN @ ATL W 15 6 2 5 40.0 1 3 33.3 1 1 100.0 0 1 1 0 0 0 0 2 7
+p161
+aVGorgui Dieng MIN 12/19/2016 MIN vs. PHX W 40 10 5 10 50.0 0 0 - 0 0 - 4 5 9 1 1 2 2 5 7
+p162
+aVKarl-Anthony Towns MIN 12/19/2016 MIN vs. PHX W 35 28 11 18 61.1 1 3 33.3 5 5 100.0 4 11 15 3 0 2 4 4 11
+p163
+aVRicky Rubio MIN 12/19/2016 MIN vs. PHX W 37 8 1 5 20.0 0 2 0.0 6 6 100.0 0 3 3 12 2 0 3 2 7
+p164
+aVAndrew Wiggins MIN 12/19/2016 MIN vs. PHX W 39 26 11 20 55.0 1 2 50.0 3 4 75.0 0 4 4 2 3 0 3 5 9
+p165
+aVShabazz Muhammad MIN 12/19/2016 MIN vs. PHX W 21 8 3 8 37.5 0 1 0.0 2 2 100.0 1 1 2 2 0 0 1 2 -3
+p166
+aVZach LaVine MIN 12/19/2016 MIN vs. PHX W 36 23 7 16 43.8 4 8 50.0 5 5 100.0 2 2 4 3 1 1 2 2 8
+p167
+aVCole Aldrich MIN 12/19/2016 MIN vs. PHX W 8 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 0
+p168
+aVNemanja Bjelica MIN 12/19/2016 MIN vs. PHX W 13 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 3 -4
+p169
+aVKris Dunn MIN 12/19/2016 MIN vs. PHX W 11 8 3 6 50.0 1 1 100.0 1 1 100.0 0 3 3 1 1 2 3 1 0
+p170
+aVRicky Rubio MIN 12/17/2016 MIN vs. HOU L 41 7 2 7 28.6 1 2 50.0 2 2 100.0 2 6 8 7 4 0 3 1 -11
+p171
+aVAndrew Wiggins MIN 12/17/2016 MIN vs. HOU L 44 13 5 17 29.4 0 2 0.0 3 4 75.0 2 4 6 5 3 1 1 3 -3
+p172
+aVTyus Jones MIN 12/17/2016 MIN vs. HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p173
+aVZach LaVine MIN 12/17/2016 MIN vs. HOU L 45 24 9 18 50.0 3 7 42.9 3 5 60.0 0 2 2 6 1 0 8 4 -1
+p174
+aVGorgui Dieng MIN 12/17/2016 MIN vs. HOU L 33 4 2 3 66.7 0 0 - 0 0 - 1 5 6 1 0 2 0 3 7
+p175
+aVKarl-Anthony Towns MIN 12/17/2016 MIN vs. HOU L 43 41 15 28 53.6 1 4 25.0 10 12 83.3 2 14 16 5 0 1 6 4 -4
+p176
+aVShabazz Muhammad MIN 12/17/2016 MIN vs. HOU L 17 8 3 7 42.9 0 1 0.0 2 4 50.0 2 4 6 1 0 1 2 0 0
+p177
+aVNemanja Bjelica MIN 12/17/2016 MIN vs. HOU L 15 10 4 6 66.7 2 3 66.7 0 0 - 1 3 4 0 0 0 1 2 -2
+p178
+aVKris Dunn MIN 12/17/2016 MIN vs. HOU L 13 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 2 1 0 0 2 3
+p179
+aVCole Aldrich MIN 12/17/2016 MIN vs. HOU L 14 0 0 0 - 0 0 - 0 0 - 2 3 5 2 0 1 0 2 1
+p180
+aVKris Dunn MIN 12/13/2016 MIN @ CHI W 13 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 3 1 -6
+p181
+aVAndrew Wiggins MIN 12/13/2016 MIN @ CHI W 39 23 8 17 47.1 2 4 50.0 5 6 83.3 3 6 9 3 1 1 1 3 12
+p182
+aVGorgui Dieng MIN 12/13/2016 MIN @ CHI W 37 16 7 12 58.3 1 2 50.0 1 2 50.0 2 5 7 2 0 2 1 3 15
+p183
+aVKarl-Anthony Towns MIN 12/13/2016 MIN @ CHI W 39 16 6 21 28.6 1 8 12.5 3 4 75.0 2 10 12 2 1 3 4 1 12
+p184
+aVNemanja Bjelica MIN 12/13/2016 MIN @ CHI W 9 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 -7
+p185
+aVShabazz Muhammad MIN 12/13/2016 MIN @ CHI W 13 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -5
+p186
+aVZach LaVine MIN 12/13/2016 MIN @ CHI W 43 24 10 18 55.6 1 4 25.0 3 4 75.0 1 5 6 6 0 1 2 3 3
+p187
+aVRicky Rubio MIN 12/13/2016 MIN @ CHI W 35 11 3 6 50.0 1 1 100.0 4 4 100.0 2 3 5 10 1 0 2 0 11
+p188
+aVCole Aldrich MIN 12/13/2016 MIN @ CHI W 11 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 1 0 2 -10
+p189
+aVRicky Rubio MIN 12/11/2016 MIN vs. GSW L 32 8 3 10 30.0 0 5 0.0 2 2 100.0 3 2 5 6 1 0 3 3 3
+p190
+aVTyus Jones MIN 12/11/2016 MIN vs. GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p191
+aVKris Dunn MIN 12/11/2016 MIN vs. GSW L 16 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 1 -11
+p192
+aVAdreian Payne MIN 12/11/2016 MIN vs. GSW L 6 3 1 3 33.3 0 1 0.0 1 2 50.0 1 2 3 0 0 0 1 2 -1
+p193
+aVKarl-Anthony Towns MIN 12/11/2016 MIN vs. GSW L 39 25 9 15 60.0 1 3 33.3 6 8 75.0 7 11 18 2 0 0 1 3 -7
+p194
+aVShabazz Muhammad MIN 12/11/2016 MIN vs. GSW L 15 6 1 5 20.0 1 3 33.3 3 4 75.0 2 3 5 2 0 0 0 0 -1
+p195
+aVGorgui Dieng MIN 12/11/2016 MIN vs. GSW L 36 11 4 10 40.0 0 0 - 3 4 75.0 3 3 6 0 2 2 3 4 -4
+p196
+aVAndrew Wiggins MIN 12/11/2016 MIN vs. GSW L 41 25 8 14 57.1 2 3 66.7 7 10 70.0 0 5 5 2 0 0 4 2 1
+p197
+aVZach LaVine MIN 12/11/2016 MIN vs. GSW L 42 25 8 19 42.1 5 9 55.6 4 4 100.0 0 3 3 4 0 0 1 5 -13
+p198
+aVBrandon Rush MIN 12/11/2016 MIN vs. GSW L 13 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -9
+p199
+aVJordan Hill MIN 12/09/2016 MIN vs. DET L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p200
+aVShabazz Muhammad MIN 12/09/2016 MIN vs. DET L 17 1 0 2 0.0 0 1 0.0 1 2 50.0 1 2 3 0 0 0 0 1 -19
+p201
+aVCole Aldrich MIN 12/09/2016 MIN vs. DET L 20 4 1 2 50.0 0 0 - 2 3 66.7 0 1 1 2 1 1 1 1 -26
+p202
+aVBrandon Rush MIN 12/09/2016 MIN vs. DET L 12 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -13
+p203
+aVAndrew Wiggins MIN 12/09/2016 MIN vs. DET L 27 16 6 16 37.5 1 3 33.3 3 4 75.0 0 2 2 0 0 0 1 0 -15
+p204
+aVTyus Jones MIN 12/09/2016 MIN vs. DET L 5 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 1
+p205
+aVGorgui Dieng MIN 12/09/2016 MIN vs. DET L 27 13 6 9 66.7 0 0 - 1 1 100.0 1 6 7 3 1 0 0 2 1
+p206
+aVAdreian Payne MIN 12/09/2016 MIN vs. DET L 12 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -22
+p207
+aVZach LaVine MIN 12/09/2016 MIN vs. DET L 35 14 6 12 50.0 0 3 0.0 2 4 50.0 0 3 3 5 1 0 3 1 -8
+p208
+aVRicky Rubio MIN 12/09/2016 MIN vs. DET L 28 10 4 5 80.0 0 0 - 2 2 100.0 1 2 3 6 0 0 0 3 -6
+p209
+aVKris Dunn MIN 12/09/2016 MIN vs. DET L 20 8 4 10 40.0 0 4 0.0 0 0 - 1 4 5 0 1 0 0 2 -21
+p210
+aVKarl-Anthony Towns MIN 12/09/2016 MIN vs. DET L 32 14 6 12 50.0 0 2 0.0 2 4 50.0 3 9 12 1 0 1 5 3 -8
+p211
+aVGorgui Dieng MIN 12/08/2016 MIN @ TOR L 33 10 4 9 44.4 0 1 0.0 2 2 100.0 1 6 7 3 1 0 2 4 -14
+p212
+aVKarl-Anthony Towns MIN 12/08/2016 MIN @ TOR L 35 17 8 16 50.0 1 4 25.0 0 0 - 5 6 11 1 0 1 3 4 -11
+p213
+aVTyus Jones MIN 12/08/2016 MIN @ TOR L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p214
+aVNemanja Bjelica MIN 12/08/2016 MIN @ TOR L 13 9 3 5 60.0 2 4 50.0 1 2 50.0 0 3 3 0 1 0 1 0 -3
+p215
+aVAndrew Wiggins MIN 12/08/2016 MIN @ TOR L 36 25 10 19 52.6 1 4 25.0 4 6 66.7 3 3 6 1 0 0 2 5 -16
+p216
+aVZach LaVine MIN 12/08/2016 MIN @ TOR L 39 29 12 20 60.0 3 8 37.5 2 2 100.0 2 0 2 6 0 0 1 3 -16
+p217
+aVShabazz Muhammad MIN 12/08/2016 MIN @ TOR L 20 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 8
+p218
+aVRicky Rubio MIN 12/08/2016 MIN @ TOR L 29 7 2 7 28.6 2 6 33.3 1 1 100.0 1 2 3 3 0 0 1 5 -13
+p219
+aVCole Aldrich MIN 12/08/2016 MIN @ TOR L 15 6 3 3 100.0 0 0 - 0 0 - 2 6 8 0 1 1 1 0 0
+p220
+aVKris Dunn MIN 12/08/2016 MIN @ TOR L 19 4 2 5 40.0 0 0 - 0 0 - 0 1 1 5 0 0 2 4 -3
+p221
+aVNemanja Bjelica MIN 12/06/2016 MIN vs. SAS L 11 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -2
+p222
+aVAndrew Wiggins MIN 12/06/2016 MIN vs. SAS L 38 11 5 12 41.7 0 2 0.0 1 3 33.3 1 4 5 2 0 0 4 4 -14
+p223
+aVShabazz Muhammad MIN 12/06/2016 MIN vs. SAS L 20 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 -10
+p224
+aVCole Aldrich MIN 12/06/2016 MIN vs. SAS L 15 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -7
+p225
+aVKarl-Anthony Towns MIN 12/06/2016 MIN vs. SAS L 37 11 3 16 18.8 1 3 33.3 4 4 100.0 3 11 14 4 1 1 2 3 -12
+p226
+aVRicky Rubio MIN 12/06/2016 MIN vs. SAS L 31 4 2 9 22.2 0 3 0.0 0 0 - 0 5 5 6 1 1 1 3 -5
+p227
+aVZach LaVine MIN 12/06/2016 MIN vs. SAS L 38 25 9 16 56.3 4 8 50.0 3 4 75.0 0 3 3 2 0 0 3 1 -4
+p228
+aVKris Dunn MIN 12/06/2016 MIN vs. SAS L 17 15 6 7 85.7 1 1 100.0 2 2 100.0 1 0 1 2 0 0 2 3 -9
+p229
+aVGorgui Dieng MIN 12/06/2016 MIN vs. SAS L 33 16 7 9 77.8 0 0 - 2 5 40.0 4 5 9 1 1 0 2 3 -7
+p230
+aVZach LaVine MIN 12/03/2016 MIN @ CHA W 44 17 7 20 35.0 3 9 33.3 0 0 - 1 1 2 3 2 1 0 1 5
+p231
+aVCole Aldrich MIN 12/03/2016 MIN @ CHA W 22 4 2 4 50.0 0 0 - 0 0 - 3 5 8 1 2 2 0 1 3
+p232
+aVGorgui Dieng MIN 12/03/2016 MIN @ CHA W 31 7 3 11 27.3 1 2 50.0 0 0 - 2 6 8 1 0 2 1 4 0
+p233
+aVAndrew Wiggins MIN 12/03/2016 MIN @ CHA W 37 29 11 20 55.0 2 7 28.6 5 5 100.0 0 1 1 4 3 0 4 3 -5
+p234
+aVKarl-Anthony Towns MIN 12/03/2016 MIN @ CHA W 34 27 10 22 45.5 0 2 0.0 7 7 100.0 4 11 15 1 1 2 2 3 -6
+p235
+aVShabazz Muhammad MIN 12/03/2016 MIN @ CHA W 25 12 5 10 50.0 0 1 0.0 2 3 66.7 2 4 6 1 0 0 0 1 10
+p236
+aVNemanja Bjelica MIN 12/03/2016 MIN @ CHA W 19 12 5 7 71.4 2 3 66.7 0 0 - 0 2 2 3 0 1 0 1 13
+p237
+aVKris Dunn MIN 12/03/2016 MIN @ CHA W 16 8 3 5 60.0 1 1 100.0 1 2 50.0 1 1 2 6 1 1 1 2 8
+p238
+aVRicky Rubio MIN 12/03/2016 MIN @ CHA W 37 9 2 7 28.6 1 2 50.0 4 5 80.0 1 6 7 12 1 1 2 3 -3
+p239
+aVZach LaVine MIN 12/02/2016 MIN @ NYK L 40 23 9 18 50.0 2 7 28.6 3 3 100.0 0 2 2 3 1 0 2 3 -7
+p240
+aVNemanja Bjelica MIN 12/02/2016 MIN @ NYK L 21 17 7 13 53.8 3 7 42.9 0 0 - 2 5 7 3 0 0 1 1 18
+p241
+aVGorgui Dieng MIN 12/02/2016 MIN @ NYK L 18 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 2 5 -21
+p242
+aVCole Aldrich MIN 12/02/2016 MIN @ NYK L 27 10 4 6 66.7 0 0 - 2 2 100.0 5 7 12 2 2 3 0 3 15
+p243
+aVKarl-Anthony Towns MIN 12/02/2016 MIN @ NYK L 30 20 5 18 27.8 3 5 60.0 7 8 87.5 3 5 8 1 0 3 4 4 -20
+p244
+aVAndrew Wiggins MIN 12/02/2016 MIN @ NYK L 36 19 6 14 42.9 0 2 0.0 7 8 87.5 1 2 3 4 1 0 1 3 -14
+p245
+aVKris Dunn MIN 12/02/2016 MIN @ NYK L 18 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 5 1 0 1 3 2
+p246
+aVRicky Rubio MIN 12/02/2016 MIN @ NYK L 30 3 1 4 25.0 0 2 0.0 1 1 100.0 1 2 3 6 1 0 1 2 -6
+p247
+aVShabazz Muhammad MIN 12/02/2016 MIN @ NYK L 21 14 6 10 60.0 2 5 40.0 0 0 - 0 2 2 1 0 0 2 1 13
+p248
+aVGorgui Dieng MIN 11/30/2016 MIN vs. NYK L 33 8 2 6 33.3 0 0 - 4 6 66.7 4 4 8 2 1 0 2 4 4
+p249
+aVCole Aldrich MIN 11/30/2016 MIN vs. NYK L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -6
+p250
+aVRicky Rubio MIN 11/30/2016 MIN vs. NYK L 38 8 2 5 40.0 0 2 0.0 4 4 100.0 0 2 2 6 3 0 2 2 9
+p251
+aVNemanja Bjelica MIN 11/30/2016 MIN vs. NYK L 16 0 0 5 0.0 0 4 0.0 0 0 - 0 0 0 2 1 0 0 3 -9
+p252
+aVZach LaVine MIN 11/30/2016 MIN vs. NYK L 42 17 5 13 38.5 1 5 20.0 6 6 100.0 1 1 2 1 1 0 3 1 7
+p253
+aVAndrew Wiggins MIN 11/30/2016 MIN vs. NYK L 40 19 8 20 40.0 3 4 75.0 0 1 0.0 2 5 7 4 1 0 1 2 12
+p254
+aVKarl-Anthony Towns MIN 11/30/2016 MIN vs. NYK L 42 47 15 22 68.2 0 3 0.0 17 20 85.0 3 15 18 2 1 3 4 2 7
+p255
+aVShabazz Muhammad MIN 11/30/2016 MIN vs. NYK L 8 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -13
+p256
+aVTyus Jones MIN 11/30/2016 MIN vs. NYK L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p257
+aVKris Dunn MIN 11/30/2016 MIN vs. NYK L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 1 3 2 -11
+p258
+aVShabazz Muhammad MIN 11/28/2016 MIN vs. UTA L 17 10 3 6 50.0 0 1 0.0 4 4 100.0 0 1 1 0 0 0 0 0 -12
+p259
+aVZach LaVine MIN 11/28/2016 MIN vs. UTA L 44 28 9 17 52.9 2 6 33.3 8 9 88.9 1 7 8 8 1 0 4 2 -2
+p260
+aVKris Dunn MIN 11/28/2016 MIN vs. UTA L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -3
+p261
+aVNemanja Bjelica MIN 11/28/2016 MIN vs. UTA L 26 8 2 6 33.3 1 3 33.3 3 3 100.0 1 5 6 1 1 0 2 0 5
+p262
+aVCole Aldrich MIN 11/28/2016 MIN vs. UTA L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -5
+p263
+aVAndrew Wiggins MIN 11/28/2016 MIN vs. UTA L 34 13 6 16 37.5 1 2 50.0 0 0 - 0 2 2 4 0 0 2 6 -4
+p264
+aVKarl-Anthony Towns MIN 11/28/2016 MIN vs. UTA L 34 19 8 19 42.1 1 3 33.3 2 2 100.0 3 9 12 1 1 1 0 5 -18
+p265
+aVTyus Jones MIN 11/28/2016 MIN vs. UTA L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 3 1 0 3 3 -9
+p266
+aVGorgui Dieng MIN 11/28/2016 MIN vs. UTA L 32 11 3 8 37.5 0 0 - 5 5 100.0 4 2 6 4 1 1 1 1 0
+p267
+aVRicky Rubio MIN 11/28/2016 MIN vs. UTA L 25 11 4 5 80.0 1 2 50.0 2 2 100.0 0 2 2 3 2 0 1 4 3
+p268
+aVGorgui Dieng MIN 11/26/2016 MIN @ GSW L 38 15 7 12 58.3 1 2 50.0 0 0 - 1 5 6 2 1 2 0 3 -10
+p269
+aVBrandon Rush MIN 11/26/2016 MIN @ GSW L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 3
+p270
+aVShabazz Muhammad MIN 11/26/2016 MIN @ GSW L 9 4 0 2 0.0 0 2 0.0 4 4 100.0 0 1 1 1 0 0 1 1 2
+p271
+aVKarl-Anthony Towns MIN 11/26/2016 MIN @ GSW L 35 18 8 21 38.1 1 6 16.7 1 2 50.0 5 4 9 3 3 1 0 1 -5
+p272
+aVTyus Jones MIN 11/26/2016 MIN @ GSW L 13 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 1 0 3
+p273
+aVCole Aldrich MIN 11/26/2016 MIN @ GSW L 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -3
+p274
+aVAndrew Wiggins MIN 11/26/2016 MIN @ GSW L 39 16 6 15 40.0 1 6 16.7 3 4 75.0 0 3 3 3 1 0 3 1 -15
+p275
+aVZach LaVine MIN 11/26/2016 MIN @ GSW L 39 31 13 24 54.2 5 12 41.7 0 0 - 0 3 3 3 1 0 4 4 -19
+p276
+aVKris Dunn MIN 11/26/2016 MIN @ GSW L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -2
+p277
+aVNemanja Bjelica MIN 11/26/2016 MIN @ GSW L 13 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 1 0 3 0 -8
+p278
+aVRicky Rubio MIN 11/26/2016 MIN @ GSW L 29 6 2 5 40.0 0 2 0.0 2 2 100.0 1 1 2 7 0 0 1 1 -11
+p279
+aVKarl-Anthony Towns MIN 11/25/2016 MIN @ PHX W 35 22 8 19 42.1 2 6 33.3 4 5 80.0 3 7 10 4 1 1 4 2 16
+p280
+aVZach LaVine MIN 11/25/2016 MIN @ PHX W 36 13 6 13 46.2 0 3 0.0 1 1 100.0 1 2 3 0 1 0 2 5 11
+p281
+aVKris Dunn MIN 11/25/2016 MIN @ PHX W 11 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 0 1 1 2 -5
+p282
+aVCole Aldrich MIN 11/25/2016 MIN @ PHX W 11 4 0 1 0.0 0 0 - 4 4 100.0 2 3 5 1 0 1 1 3 4
+p283
+aVGorgui Dieng MIN 11/25/2016 MIN @ PHX W 37 11 4 10 40.0 1 2 50.0 2 2 100.0 4 3 7 2 3 4 2 5 9
+p284
+aVRicky Rubio MIN 11/25/2016 MIN @ PHX W 25 11 4 7 57.1 1 2 50.0 2 2 100.0 0 1 1 4 5 0 5 4 -3
+p285
+aVNemanja Bjelica MIN 11/25/2016 MIN @ PHX W 13 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 0 2 1 0 2 -3
+p286
+aVBrandon Rush MIN 11/25/2016 MIN @ PHX W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 1
+p287
+aVTyus Jones MIN 11/25/2016 MIN @ PHX W 19 6 3 6 50.0 0 0 - 0 0 - 0 2 2 3 2 0 0 0 22
+p288
+aVAndrew Wiggins MIN 11/25/2016 MIN @ PHX W 41 25 7 18 38.9 1 3 33.3 10 11 90.9 0 5 5 1 0 0 2 3 19
+p289
+aVShabazz Muhammad MIN 11/25/2016 MIN @ PHX W 7 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 -6
+p290
+aVTyus Jones MIN 11/23/2016 MIN @ NOP L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 0 0 2
+p291
+aVAdreian Payne MIN 11/23/2016 MIN @ NOP L 10 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -9
+p292
+aVBrandon Rush MIN 11/23/2016 MIN @ NOP L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p293
+aVKris Dunn MIN 11/23/2016 MIN @ NOP L 26 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 2 4 1 2 3 10
+p294
+aVZach LaVine MIN 11/23/2016 MIN @ NOP L 37 26 9 22 40.9 1 5 20.0 7 8 87.5 0 1 1 3 1 0 2 2 -21
+p295
+aVNemanja Bjelica MIN 11/23/2016 MIN @ NOP L 20 8 2 6 33.3 1 4 25.0 3 4 75.0 1 5 6 2 2 0 2 3 6
+p296
+aVRicky Rubio MIN 11/23/2016 MIN @ NOP L 22 0 0 2 0.0 0 0 - 0 0 - 1 0 1 5 2 0 1 1 -31
+p297
+aVKarl-Anthony Towns MIN 11/23/2016 MIN @ NOP L 27 9 4 11 36.4 1 3 33.3 0 0 - 3 8 11 3 1 2 3 3 -23
+p298
+aVAndrew Wiggins MIN 11/23/2016 MIN @ NOP L 31 13 2 19 10.5 0 3 0.0 9 10 90.0 0 0 0 0 1 0 2 1 -29
+p299
+aVShabazz Muhammad MIN 11/23/2016 MIN @ NOP L 17 11 4 6 66.7 0 1 0.0 3 5 60.0 1 1 2 0 1 0 1 0 2
+p300
+aVGorgui Dieng MIN 11/23/2016 MIN @ NOP L 24 13 5 7 71.4 0 0 - 3 4 75.0 1 7 8 5 0 0 2 3 -15
+p301
+aVCole Aldrich MIN 11/23/2016 MIN @ NOP L 14 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 0 1
+p302
+aVGorgui Dieng MIN 11/21/2016 MIN vs. BOS L 40 20 10 16 62.5 0 0 - 0 2 0.0 6 4 10 3 2 1 5 3 -2
+p303
+aVCole Aldrich MIN 11/21/2016 MIN vs. BOS L 8 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -4
+p304
+aVKris Dunn MIN 11/21/2016 MIN vs. BOS L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 2
+p305
+aVAndrew Wiggins MIN 11/21/2016 MIN vs. BOS L 39 14 5 18 27.8 0 5 0.0 4 6 66.7 0 4 4 1 0 0 2 1 -8
+p306
+aVKarl-Anthony Towns MIN 11/21/2016 MIN vs. BOS L 38 27 11 19 57.9 2 4 50.0 3 6 50.0 6 12 18 3 0 2 1 3 -9
+p307
+aVNemanja Bjelica MIN 11/21/2016 MIN vs. BOS L 10 10 3 5 60.0 1 2 50.0 3 4 75.0 0 1 1 0 0 0 1 1 3
+p308
+aVBrandon Rush MIN 11/21/2016 MIN vs. BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p309
+aVZach LaVine MIN 11/21/2016 MIN vs. BOS L 38 11 4 12 33.3 0 7 0.0 3 3 100.0 0 3 3 4 1 1 2 2 -5
+p310
+aVRicky Rubio MIN 11/21/2016 MIN vs. BOS L 38 7 1 7 14.3 1 4 25.0 4 4 100.0 4 4 8 9 1 0 0 3 -8
+p311
+aVShabazz Muhammad MIN 11/21/2016 MIN vs. BOS L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 0 0 3 3 7
+p312
+aVAdreian Payne MIN 11/19/2016 MIN @ MEM L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 1 2 3 1 2 1 2 4 -8
+p313
+aVJohn Lucas III MIN 11/19/2016 MIN @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p314
+aVGorgui Dieng MIN 11/19/2016 MIN @ MEM L 36 9 3 7 42.9 0 0 - 3 6 50.0 2 9 11 1 0 1 2 3 -14
+p315
+aVAndrew Wiggins MIN 11/19/2016 MIN @ MEM L 32 7 2 11 18.2 0 3 0.0 3 4 75.0 0 4 4 1 0 1 5 1 -15
+p316
+aVZach LaVine MIN 11/19/2016 MIN @ MEM L 37 22 9 16 56.3 4 8 50.0 0 0 - 0 1 1 3 2 0 2 2 -17
+p317
+aVKarl-Anthony Towns MIN 11/19/2016 MIN @ MEM L 28 17 6 10 60.0 3 3 100.0 2 4 50.0 0 3 3 0 0 1 2 5 -5
+p318
+aVShabazz Muhammad MIN 11/19/2016 MIN @ MEM L 18 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -8
+p319
+aVKris Dunn MIN 11/19/2016 MIN @ MEM L 18 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 6 -15
+p320
+aVRicky Rubio MIN 11/19/2016 MIN @ MEM L 34 2 0 5 0.0 0 2 0.0 2 4 50.0 2 2 4 7 0 0 2 0 -10
+p321
+aVTyus Jones MIN 11/19/2016 MIN @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p322
+aVCole Aldrich MIN 11/19/2016 MIN @ MEM L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p323
+aVNemanja Bjelica MIN 11/19/2016 MIN @ MEM L 14 2 0 4 0.0 0 3 0.0 2 2 100.0 0 4 4 0 0 1 1 3 -16
+p324
+aVNemanja Bjelica MIN 11/17/2016 MIN vs. PHI W 15 8 3 7 42.9 1 4 25.0 1 1 100.0 1 3 4 1 1 0 0 1 13
+p325
+aVKarl-Anthony Towns MIN 11/17/2016 MIN vs. PHI W 38 25 12 18 66.7 1 2 50.0 0 0 - 3 7 10 0 0 2 1 2 33
+p326
+aVAdreian Payne MIN 11/17/2016 MIN vs. PHI W 13 8 2 5 40.0 0 2 0.0 4 6 66.7 0 1 1 1 2 3 0 4 -7
+p327
+aVTyus Jones MIN 11/17/2016 MIN vs. PHI W 3 2 0 0 - 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -1
+p328
+aVAndrew Wiggins MIN 11/17/2016 MIN vs. PHI W 38 35 14 20 70.0 3 6 50.0 4 4 100.0 4 6 10 4 1 0 3 0 21
+p329
+aVZach LaVine MIN 11/17/2016 MIN vs. PHI W 39 11 5 14 35.7 1 7 14.3 0 0 - 1 0 1 1 1 1 2 0 15
+p330
+aVRicky Rubio MIN 11/17/2016 MIN vs. PHI W 25 4 1 5 20.0 0 3 0.0 2 2 100.0 0 4 4 5 0 0 3 2 21
+p331
+aVCole Aldrich MIN 11/17/2016 MIN vs. PHI W 14 3 1 1 100.0 0 0 - 1 1 100.0 1 2 3 0 0 1 0 3 12
+p332
+aVGorgui Dieng MIN 11/17/2016 MIN vs. PHI W 29 12 4 11 36.4 0 0 - 4 4 100.0 3 7 10 3 1 1 2 5 6
+p333
+aVJohn Lucas III MIN 11/17/2016 MIN vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p334
+aVKris Dunn MIN 11/17/2016 MIN vs. PHI W 23 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 2 1 0 2 2 3
+p335
+aVRicky Rubio MIN 11/15/2016 MIN vs. CHA L 35 11 2 5 40.0 2 3 66.7 5 6 83.3 2 6 8 8 2 0 4 5 -19
+p336
+aVAdreian Payne MIN 11/15/2016 MIN vs. CHA L 11 7 2 6 33.3 0 1 0.0 3 3 100.0 3 0 3 1 0 0 1 4 11
+p337
+aVNemanja Bjelica MIN 11/15/2016 MIN vs. CHA L 21 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 1 0 0 0 2 -4
+p338
+aVGorgui Dieng MIN 11/15/2016 MIN vs. CHA L 33 9 3 6 50.0 0 1 0.0 3 3 100.0 3 8 11 3 0 1 5 2 -13
+p339
+aVZach LaVine MIN 11/15/2016 MIN vs. CHA L 33 19 7 16 43.8 5 10 50.0 0 0 - 0 2 2 2 0 0 0 2 -1
+p340
+aVKris Dunn MIN 11/15/2016 MIN vs. CHA L 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 3 1 1 1 1 12
+p341
+aVAndrew Wiggins MIN 11/15/2016 MIN vs. CHA L 42 29 10 24 41.7 3 6 50.0 6 9 66.7 0 2 2 3 0 2 4 1 -9
+p342
+aVCole Aldrich MIN 11/15/2016 MIN vs. CHA L 15 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 1 0 0 0 6
+p343
+aVKarl-Anthony Towns MIN 11/15/2016 MIN vs. CHA L 37 21 9 23 39.1 3 10 30.0 0 0 - 3 5 8 4 0 1 3 2 -18
+p344
+aVKarl-Anthony Towns MIN 11/13/2016 MIN vs. LAL W 39 22 7 22 31.8 2 7 28.6 6 10 60.0 2 10 12 2 0 1 2 3 19
+p345
+aVGorgui Dieng MIN 11/13/2016 MIN vs. LAL W 31 2 1 4 25.0 0 0 - 0 0 - 2 7 9 2 0 1 1 2 15
+p346
+aVAdreian Payne MIN 11/13/2016 MIN vs. LAL W 9 10 4 5 80.0 2 2 100.0 0 0 - 1 1 2 0 0 0 0 1 7
+p347
+aVRicky Rubio MIN 11/13/2016 MIN vs. LAL W 34 10 4 6 66.7 1 3 33.3 1 2 50.0 0 4 4 10 3 0 2 3 26
+p348
+aVAndrew Wiggins MIN 11/13/2016 MIN vs. LAL W 41 47 14 21 66.7 2 5 40.0 17 22 77.3 1 3 4 3 0 1 2 2 34
+p349
+aVKris Dunn MIN 11/13/2016 MIN vs. LAL W 14 5 1 2 50.0 0 0 - 3 5 60.0 0 2 2 2 1 0 0 1 0
+p350
+aVCole Aldrich MIN 11/13/2016 MIN vs. LAL W 14 2 1 3 33.3 0 0 - 0 2 0.0 1 2 3 1 3 1 0 2 -3
+p351
+aVNemanja Bjelica MIN 11/13/2016 MIN vs. LAL W 41 24 9 15 60.0 5 8 62.5 1 1 100.0 2 6 8 3 3 0 1 3 22
+p352
+aVJohn Lucas III MIN 11/13/2016 MIN vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p353
+aVTyus Jones MIN 11/13/2016 MIN vs. LAL W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 5 0 0 2 2 5
+p354
+aVGorgui Dieng MIN 11/12/2016 MIN vs. LAC L 30 6 3 6 50.0 0 1 0.0 0 0 - 3 2 5 2 1 0 1 2 -21
+p355
+aVAndrew Wiggins MIN 11/12/2016 MIN vs. LAC L 37 22 8 24 33.3 1 4 25.0 5 5 100.0 1 3 4 3 1 0 3 1 -21
+p356
+aVKarl-Anthony Towns MIN 11/12/2016 MIN vs. LAC L 33 24 10 18 55.6 1 3 33.3 3 4 75.0 4 6 10 2 2 2 3 5 -21
+p357
+aVShabazz Muhammad MIN 11/12/2016 MIN vs. LAC L 15 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 0
+p358
+aVKris Dunn MIN 11/12/2016 MIN vs. LAC L 19 3 0 4 0.0 0 1 0.0 3 4 75.0 0 4 4 4 2 0 1 1 -3
+p359
+aVCole Aldrich MIN 11/12/2016 MIN vs. LAC L 14 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 1 0 0 6 5
+p360
+aVNemanja Bjelica MIN 11/12/2016 MIN vs. LAC L 18 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 4 1 0 1 4 9
+p361
+aVZach LaVine MIN 11/12/2016 MIN vs. LAC L 40 15 7 15 46.7 1 5 20.0 0 0 - 0 3 3 4 2 1 0 5 -5
+p362
+aVRicky Rubio MIN 11/12/2016 MIN vs. LAC L 24 7 2 5 40.0 1 2 50.0 2 4 50.0 5 1 6 6 1 0 3 3 -14
+p363
+aVTyus Jones MIN 11/12/2016 MIN vs. LAC L 8 8 2 3 66.7 2 3 66.7 2 2 100.0 0 2 2 1 0 0 0 4 1
+p364
+aVShabazz Muhammad MIN 11/09/2016 MIN @ ORL W 19 13 4 6 66.7 1 1 100.0 4 7 57.1 0 1 1 0 1 0 1 3 12
+p365
+aVJohn Lucas III MIN 11/09/2016 MIN @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p366
+aVAndrew Wiggins MIN 11/09/2016 MIN @ ORL W 39 29 10 18 55.6 2 4 50.0 7 9 77.8 1 3 4 6 0 0 2 2 21
+p367
+aVCole Aldrich MIN 11/09/2016 MIN @ ORL W 12 0 0 2 0.0 0 0 - 0 0 - 1 4 5 2 0 1 0 4 3
+p368
+aVKris Dunn MIN 11/09/2016 MIN @ ORL W 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 0 2 1 1 -3
+p369
+aVTyus Jones MIN 11/09/2016 MIN @ ORL W 31 10 3 9 33.3 2 4 50.0 2 2 100.0 1 3 4 5 2 0 0 1 19
+p370
+aVZach LaVine MIN 11/09/2016 MIN @ ORL W 36 37 14 22 63.6 7 9 77.8 2 3 66.7 0 4 4 3 1 0 0 1 6
+p371
+aVGorgui Dieng MIN 11/09/2016 MIN @ ORL W 35 12 6 9 66.7 0 0 - 0 0 - 3 8 11 7 2 1 2 5 12
+p372
+aVKarl-Anthony Towns MIN 11/09/2016 MIN @ ORL W 41 20 7 16 43.8 1 3 33.3 5 5 100.0 4 7 11 1 2 1 0 3 22
+p373
+aVAdreian Payne MIN 11/09/2016 MIN @ ORL W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p374
+aVNemanja Bjelica MIN 11/09/2016 MIN @ ORL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 -6
+p375
+aVGorgui Dieng MIN 11/08/2016 MIN @ BKN L 19 8 3 4 75.0 0 0 - 2 4 50.0 0 2 2 3 1 1 1 4 -9
+p376
+aVKarl-Anthony Towns MIN 11/08/2016 MIN @ BKN L 32 21 8 15 53.3 1 4 25.0 4 4 100.0 4 3 7 4 0 1 3 5 -15
+p377
+aVTyus Jones MIN 11/08/2016 MIN @ BKN L 32 12 4 7 57.1 2 4 50.0 2 3 66.7 1 4 5 7 5 0 3 0 1
+p378
+aVZach LaVine MIN 11/08/2016 MIN @ BKN L 40 17 5 16 31.3 1 5 20.0 6 6 100.0 0 2 2 1 0 0 1 0 -11
+p379
+aVNemanja Bjelica MIN 11/08/2016 MIN @ BKN L 12 5 2 5 40.0 1 3 33.3 0 1 0.0 1 4 5 0 1 1 1 2 1
+p380
+aVShabazz Muhammad MIN 11/08/2016 MIN @ BKN L 24 7 3 12 25.0 1 4 25.0 0 0 - 2 2 4 0 0 0 1 3 -5
+p381
+aVAndrew Wiggins MIN 11/08/2016 MIN @ BKN L 41 36 13 29 44.8 6 7 85.7 4 8 50.0 5 3 8 2 1 0 4 2 -4
+p382
+aVCole Aldrich MIN 11/08/2016 MIN @ BKN L 23 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 1 2 0 1 3 7
+p383
+aVKris Dunn MIN 11/08/2016 MIN @ BKN L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 1 0 1 2 -10
+p384
+aVNemanja Bjelica MIN 11/05/2016 MIN @ OKC L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 3 -5
+p385
+aVShabazz Muhammad MIN 11/05/2016 MIN @ OKC L 21 15 6 9 66.7 0 0 - 3 3 100.0 3 1 4 0 0 1 1 1 7
+p386
+aVAdreian Payne MIN 11/05/2016 MIN @ OKC L 6 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 4
+p387
+aVGorgui Dieng MIN 11/05/2016 MIN @ OKC L 27 8 4 8 50.0 0 0 - 0 0 - 2 6 8 0 0 4 3 4 -24
+p388
+aVZach LaVine MIN 11/05/2016 MIN @ OKC L 26 4 1 6 16.7 1 3 33.3 1 1 100.0 1 1 2 2 1 0 2 0 -24
+p389
+aVCole Aldrich MIN 11/05/2016 MIN @ OKC L 15 2 1 1 100.0 0 0 - 0 2 0.0 2 3 5 0 1 1 0 3 0
+p390
+aVJordan Hill MIN 11/05/2016 MIN @ OKC L 6 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 4
+p391
+aVJohn Lucas III MIN 11/05/2016 MIN @ OKC L 6 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 2 0 0 0 4
+p392
+aVKarl-Anthony Towns MIN 11/05/2016 MIN @ OKC L 31 33 13 20 65.0 3 4 75.0 4 5 80.0 4 2 6 0 0 1 3 1 -19
+p393
+aVBrandon Rush MIN 11/05/2016 MIN @ OKC L 19 0 0 6 0.0 0 5 0.0 0 0 - 0 3 3 1 1 0 1 0 4
+p394
+aVKris Dunn MIN 11/05/2016 MIN @ OKC L 28 7 2 8 25.0 0 0 - 3 6 50.0 2 2 4 3 1 0 1 4 -23
+p395
+aVTyus Jones MIN 11/05/2016 MIN @ OKC L 16 6 0 4 0.0 0 2 0.0 6 6 100.0 1 1 2 4 0 0 2 1 -1
+p396
+aVAndrew Wiggins MIN 11/05/2016 MIN @ OKC L 27 7 3 13 23.1 0 1 0.0 1 2 50.0 1 2 3 1 1 1 3 2 -27
+p397
+aVGorgui Dieng MIN 11/03/2016 MIN vs. DEN L 28 2 1 6 16.7 0 0 - 0 0 - 2 2 4 2 0 1 4 4 -1
+p398
+aVKarl-Anthony Towns MIN 11/03/2016 MIN vs. DEN L 38 32 11 19 57.9 2 4 50.0 8 10 80.0 5 9 14 2 1 2 2 4 -1
+p399
+aVZach LaVine MIN 11/03/2016 MIN vs. DEN L 36 14 4 13 30.8 2 6 33.3 4 6 66.7 1 4 5 3 1 0 0 2 -2
+p400
+aVTyus Jones MIN 11/03/2016 MIN vs. DEN L 18 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 1 2 0 0 1 0
+p401
+aVBrandon Rush MIN 11/03/2016 MIN vs. DEN L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 -1
+p402
+aVKris Dunn MIN 11/03/2016 MIN vs. DEN L 30 3 1 6 16.7 0 1 0.0 1 2 50.0 1 4 5 9 3 0 4 3 -3
+p403
+aVCole Aldrich MIN 11/03/2016 MIN vs. DEN L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -1
+p404
+aVNemanja Bjelica MIN 11/03/2016 MIN vs. DEN L 22 14 5 13 38.5 2 5 40.0 2 2 100.0 2 6 8 1 0 0 4 2 -3
+p405
+aVAndrew Wiggins MIN 11/03/2016 MIN vs. DEN L 35 25 9 18 50.0 2 3 66.7 5 5 100.0 1 2 3 1 0 0 1 3 2
+p406
+aVShabazz Muhammad MIN 11/03/2016 MIN vs. DEN L 13 5 2 5 40.0 1 1 100.0 0 0 - 1 0 1 0 1 0 0 0 -5
+p407
+aVKris Dunn MIN 11/01/2016 MIN vs. MEM W 29 10 3 7 42.9 2 3 66.7 2 2 100.0 1 3 4 6 5 0 3 3 26
+p408
+aVAndrew Wiggins MIN 11/01/2016 MIN vs. MEM W 29 17 6 11 54.5 2 2 100.0 3 5 60.0 1 2 3 4 0 1 3 3 38
+p409
+aVBrandon Rush MIN 11/01/2016 MIN vs. MEM W 19 9 3 6 50.0 2 3 66.7 1 2 50.0 0 1 1 1 0 1 2 0 8
+p410
+aVNemanja Bjelica MIN 11/01/2016 MIN vs. MEM W 18 5 2 4 50.0 1 2 50.0 0 0 - 1 7 8 2 1 0 1 3 -3
+p411
+aVGorgui Dieng MIN 11/01/2016 MIN vs. MEM W 34 17 8 9 88.9 0 0 - 1 2 50.0 1 5 6 2 3 2 2 3 35
+p412
+aVShabazz Muhammad MIN 11/01/2016 MIN vs. MEM W 19 8 2 6 33.3 0 0 - 4 4 100.0 2 2 4 1 0 0 0 0 -2
+p413
+aVJordan Hill MIN 11/01/2016 MIN vs. MEM W 5 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 2 3 2
+p414
+aVKarl-Anthony Towns MIN 11/01/2016 MIN vs. MEM W 30 11 4 10 40.0 0 0 - 3 4 75.0 2 9 11 4 0 1 3 1 39
+p415
+aVCole Aldrich MIN 11/01/2016 MIN vs. MEM W 10 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 0 1 3 -1
+p416
+aVZach LaVine MIN 11/01/2016 MIN vs. MEM W 29 31 11 18 61.1 5 9 55.6 4 4 100.0 0 4 4 2 0 0 3 2 28
+p417
+aVTyus Jones MIN 11/01/2016 MIN vs. MEM W 19 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 6 1 0 1 1 10
+p418
+aVGorgui Dieng MIN 10/29/2016 MIN @ SAC L 35 14 5 9 55.6 0 1 0.0 4 4 100.0 4 9 13 2 0 2 1 4 15
+p419
+aVCole Aldrich MIN 10/29/2016 MIN @ SAC L 12 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -10
+p420
+aVAndrew Wiggins MIN 10/29/2016 MIN @ SAC L 37 29 10 20 50.0 1 5 20.0 8 11 72.7 0 1 1 0 1 1 3 2 -7
+p421
+aVZach LaVine MIN 10/29/2016 MIN @ SAC L 37 21 7 14 50.0 3 7 42.9 4 4 100.0 0 5 5 2 0 0 1 3 -3
+p422
+aVNemanja Bjelica MIN 10/29/2016 MIN @ SAC L 13 1 0 3 0.0 0 3 0.0 1 2 50.0 0 2 2 1 0 1 2 3 -4
+p423
+aVKarl-Anthony Towns MIN 10/29/2016 MIN @ SAC L 37 15 7 12 58.3 1 2 50.0 0 2 0.0 2 4 6 4 2 1 1 5 -7
+p424
+aVBrandon Rush MIN 10/29/2016 MIN @ SAC L 12 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 0
+p425
+aVRicky Rubio MIN 10/29/2016 MIN @ SAC L 28 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 5 3 0 1 3 -10
+p426
+aVShabazz Muhammad MIN 10/29/2016 MIN @ SAC L 11 9 3 3 100.0 0 0 - 3 3 100.0 0 1 1 1 0 0 0 0 4
+p427
+aVKris Dunn MIN 10/29/2016 MIN @ SAC L 20 4 1 2 50.0 1 1 100.0 1 4 25.0 0 1 1 4 0 0 1 2 7
+p428
+aVShabazz Muhammad MIN 10/26/2016 MIN @ MEM L 14 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 1
+p429
+aVNemanja Bjelica MIN 10/26/2016 MIN @ MEM L 15 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 0 0 1 0 3 0
+p430
+aVKris Dunn MIN 10/26/2016 MIN @ MEM L 15 8 4 6 66.7 0 1 0.0 0 0 - 1 3 4 1 1 0 1 3 -6
+p431
+aVZach LaVine MIN 10/26/2016 MIN @ MEM L 34 19 6 14 42.9 3 6 50.0 4 5 80.0 0 5 5 3 1 0 2 3 -4
+p432
+aVGorgui Dieng MIN 10/26/2016 MIN @ MEM L 34 12 5 10 50.0 0 1 0.0 2 2 100.0 5 9 14 2 2 1 0 3 0
+p433
+aVCole Aldrich MIN 10/26/2016 MIN @ MEM L 10 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 2 5
+p434
+aVBrandon Rush MIN 10/26/2016 MIN @ MEM L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 3
+p435
+aVRicky Rubio MIN 10/26/2016 MIN @ MEM L 33 4 1 5 20.0 0 1 0.0 2 5 40.0 1 3 4 8 0 0 2 4 -1
+p436
+aVKarl-Anthony Towns MIN 10/26/2016 MIN @ MEM L 36 21 9 20 45.0 2 5 40.0 1 1 100.0 2 2 4 5 1 1 2 3 -13
+p437
+aVAndrew Wiggins MIN 10/26/2016 MIN @ MEM L 34 25 7 14 50.0 1 1 100.0 10 14 71.4 4 3 7 0 0 1 2 1 -5
+p438
+a.

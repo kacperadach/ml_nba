@@ -1,0 +1,474 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVNorris Cole MIA 06/21/2012 MIA vs. OKC W 17 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -12
+p2
+aVMario Chalmers MIA 06/21/2012 MIA vs. OKC W 34 10 3 6 50.0 2 4 50.0 2 2 100.0 1 1 2 7 2 0 4 3 25
+p3
+aVRonny Turiaf MIA 06/21/2012 MIA vs. OKC W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p4
+aVChris Bosh MIA 06/21/2012 MIA vs. OKC W 34 24 9 14 64.3 1 1 100.0 5 5 100.0 0 7 7 0 1 2 0 1 29
+p5
+aVLeBron James MIA 06/21/2012 MIA vs. OKC W 44 26 9 19 47.4 0 3 0.0 8 9 88.9 4 7 11 13 1 2 6 2 20
+p6
+aVDwyane Wade MIA 06/21/2012 MIA vs. OKC W 35 20 7 12 58.3 0 0 - 6 9 66.7 2 6 8 3 2 3 1 4 25
+p7
+aVUdonis Haslem MIA 06/21/2012 MIA vs. OKC W 11 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 -7
+p8
+aVTerrel Harris MIA 06/21/2012 MIA vs. OKC W 3 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 -7
+p9
+aVShane Battier MIA 06/21/2012 MIA vs. OKC W 29 11 4 8 50.0 3 7 42.9 0 0 - 0 4 4 1 1 0 1 4 8
+p10
+aVMike Miller MIA 06/21/2012 MIA vs. OKC W 23 23 7 11 63.6 7 8 87.5 2 2 100.0 0 5 5 0 1 0 0 4 14
+p11
+aVJuwan Howard MIA 06/21/2012 MIA vs. OKC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p12
+aVJames Jones MIA 06/21/2012 MIA vs. OKC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p13
+aVLeBron James MIA 06/19/2012 MIA vs. OKC W 44 26 10 20 50.0 1 4 25.0 5 8 62.5 3 6 9 12 2 0 3 2 8
+p14
+aVNorris Cole MIA 06/19/2012 MIA vs. OKC W 8 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 1 12
+p15
+aVShane Battier MIA 06/19/2012 MIA vs. OKC W 40 4 1 4 25.0 1 4 25.0 1 2 50.0 0 5 5 0 1 0 0 4 -7
+p16
+aVJames Jones MIA 06/19/2012 MIA vs. OKC W 20 3 1 2 50.0 1 2 50.0 0 0 - 1 3 4 0 0 0 1 4 8
+p17
+aVMike Miller MIA 06/19/2012 MIA vs. OKC W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p18
+aVUdonis Haslem MIA 06/19/2012 MIA vs. OKC W 11 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 1 0 9
+p19
+aVDwyane Wade MIA 06/19/2012 MIA vs. OKC W 42 25 8 19 42.1 2 3 66.7 7 9 77.8 0 5 5 3 2 2 2 2 10
+p20
+aVMario Chalmers MIA 06/19/2012 MIA vs. OKC W 34 25 9 15 60.0 3 9 33.3 4 5 80.0 0 2 2 3 2 0 1 3 -5
+p21
+aVChris Bosh MIA 06/19/2012 MIA vs. OKC W 37 13 6 12 50.0 0 0 - 1 1 100.0 4 5 9 0 1 0 1 2 -2
+p22
+aVDwyane Wade MIA 06/17/2012 MIA vs. OKC W 45 25 8 22 36.4 0 0 - 9 11 81.8 2 5 7 7 2 0 5 4 2
+p23
+aVShane Battier MIA 06/17/2012 MIA vs. OKC W 35 9 2 2 100.0 2 2 100.0 3 3 100.0 0 3 3 0 1 0 0 3 11
+p24
+aVMario Chalmers MIA 06/17/2012 MIA vs. OKC W 40 2 1 8 12.5 0 3 0.0 0 0 - 0 3 3 3 2 1 1 2 -1
+p25
+aVMike Miller MIA 06/17/2012 MIA vs. OKC W 7 4 1 2 50.0 0 1 0.0 2 2 100.0 1 1 2 0 0 1 0 3 1
+p26
+aVChris Bosh MIA 06/17/2012 MIA vs. OKC W 37 10 3 12 25.0 0 0 - 4 4 100.0 4 7 11 0 0 2 1 1 -7
+p27
+aVNorris Cole MIA 06/17/2012 MIA vs. OKC W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 1
+p28
+aVUdonis Haslem MIA 06/17/2012 MIA vs. OKC W 14 6 1 1 100.0 0 0 - 4 4 100.0 2 1 3 0 0 1 1 2 10
+p29
+aVLeBron James MIA 06/17/2012 MIA vs. OKC W 44 29 11 23 47.8 1 4 25.0 6 8 75.0 5 9 14 3 0 0 4 1 8
+p30
+aVJames Jones MIA 06/17/2012 MIA vs. OKC W 12 6 1 2 50.0 1 2 50.0 3 3 100.0 0 2 2 0 1 0 0 1 5
+p31
+aVJames Jones MIA 06/14/2012 MIA @ OKC W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p32
+aVUdonis Haslem MIA 06/14/2012 MIA @ OKC W 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 2 3 -10
+p33
+aVLeBron James MIA 06/14/2012 MIA @ OKC W 42 32 10 22 45.5 0 2 0.0 12 12 100.0 2 6 8 5 1 0 2 4 6
+p34
+aVMario Chalmers MIA 06/14/2012 MIA @ OKC W 39 3 1 7 14.3 1 3 33.3 0 0 - 0 4 4 1 3 0 3 2 6
+p35
+aVNorris Cole MIA 06/14/2012 MIA @ OKC W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -4
+p36
+aVDwyane Wade MIA 06/14/2012 MIA @ OKC W 39 24 10 20 50.0 0 0 - 4 6 66.7 1 5 6 5 0 1 3 2 10
+p37
+aVMike Miller MIA 06/14/2012 MIA @ OKC W 1 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -1
+p38
+aVShane Battier MIA 06/14/2012 MIA @ OKC W 42 17 6 8 75.0 5 7 71.4 0 0 - 0 1 1 1 0 0 0 3 5
+p39
+aVChris Bosh MIA 06/14/2012 MIA @ OKC W 40 16 6 13 46.2 0 1 0.0 4 5 80.0 7 8 15 1 1 2 2 3 11
+p40
+aVUdonis Haslem MIA 06/12/2012 MIA @ OKC L 29 4 2 6 33.3 0 0 - 0 0 - 3 8 11 0 0 0 1 5 -10
+p41
+aVJoel Anthony MIA 06/12/2012 MIA @ OKC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p42
+aVMario Chalmers MIA 06/12/2012 MIA @ OKC L 35 12 5 7 71.4 2 4 50.0 0 0 - 0 2 2 6 0 1 1 4 -3
+p43
+aVMike Miller MIA 06/12/2012 MIA @ OKC L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -6
+p44
+aVLeBron James MIA 06/12/2012 MIA @ OKC L 46 30 11 24 45.8 1 3 33.3 7 9 77.8 1 8 9 4 4 0 4 1 -11
+p45
+aVShane Battier MIA 06/12/2012 MIA @ OKC L 42 17 6 9 66.7 4 6 66.7 1 2 50.0 2 2 4 0 1 0 0 3 -6
+p46
+aVChris Bosh MIA 06/12/2012 MIA @ OKC L 34 10 4 11 36.4 1 3 33.3 1 2 50.0 0 5 5 0 0 0 1 2 -16
+p47
+aVDwyane Wade MIA 06/12/2012 MIA @ OKC L 42 19 7 19 36.8 0 2 0.0 5 5 100.0 1 3 4 8 1 0 3 3 -6
+p48
+aVLeBron James MIA 06/09/2012 MIA vs. BOS W 48 31 9 21 42.9 1 5 20.0 12 17 70.6 2 10 12 2 1 1 3 0 13
+p49
+aVDwyane Wade MIA 06/09/2012 MIA vs. BOS W 44 23 8 17 47.1 0 2 0.0 7 8 87.5 3 3 6 6 1 0 4 4 17
+p50
+aVShane Battier MIA 06/09/2012 MIA vs. BOS W 39 12 4 9 44.4 4 9 44.4 0 0 - 1 0 1 1 3 1 1 3 2
+p51
+aVMario Chalmers MIA 06/09/2012 MIA vs. BOS W 32 9 4 6 66.7 1 3 33.3 0 0 - 0 4 4 7 1 0 2 2 0
+p52
+aVJuwan Howard MIA 06/09/2012 MIA vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p53
+aVMike Miller MIA 06/09/2012 MIA vs. BOS W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 5
+p54
+aVUdonis Haslem MIA 06/09/2012 MIA vs. BOS W 38 7 3 4 75.0 0 0 - 1 2 50.0 1 5 6 0 1 0 1 3 14
+p55
+aVChris Bosh MIA 06/09/2012 MIA vs. BOS W 31 19 8 10 80.0 3 4 75.0 0 0 - 1 7 8 0 1 1 2 1 17
+p56
+aVJames Jones MIA 06/09/2012 MIA vs. BOS W 3 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p57
+aVNorris Cole MIA 06/09/2012 MIA vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p58
+aVJuwan Howard MIA 06/07/2012 MIA @ BOS W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -3
+p59
+aVJames Jones MIA 06/07/2012 MIA @ BOS W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p60
+aVMario Chalmers MIA 06/07/2012 MIA @ BOS W 36 9 3 6 50.0 3 4 75.0 0 0 - 0 1 1 2 2 0 0 3 9
+p61
+aVShane Battier MIA 06/07/2012 MIA @ BOS W 33 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 2 2 1 1 3 17
+p62
+aVRonny Turiaf MIA 06/07/2012 MIA @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p63
+aVUdonis Haslem MIA 06/07/2012 MIA @ BOS W 23 6 2 6 33.3 0 0 - 2 2 100.0 1 8 9 1 0 0 0 4 8
+p64
+aVJoel Anthony MIA 06/07/2012 MIA @ BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p65
+aVDwyane Wade MIA 06/07/2012 MIA @ BOS W 39 17 6 17 35.3 0 0 - 5 5 100.0 4 4 8 4 3 0 3 2 23
+p66
+aVMike Miller MIA 06/07/2012 MIA @ BOS W 16 0 0 3 0.0 0 3 0.0 0 0 - 1 1 2 0 1 0 2 1 7
+p67
+aVLeBron James MIA 06/07/2012 MIA @ BOS W 45 45 19 26 73.1 2 4 50.0 5 9 55.6 2 13 15 5 0 0 4 3 22
+p68
+aVChris Bosh MIA 06/07/2012 MIA @ BOS W 28 7 3 8 37.5 0 0 - 1 2 50.0 2 4 6 1 0 3 1 1 16
+p69
+aVNorris Cole MIA 06/07/2012 MIA @ BOS W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -4
+p70
+aVUdonis Haslem MIA 06/05/2012 MIA vs. BOS L 33 3 1 5 20.0 0 0 - 1 2 50.0 2 12 14 1 0 0 2 5 6
+p71
+aVShane Battier MIA 06/05/2012 MIA vs. BOS L 32 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 2 0 1 1 3 -7
+p72
+aVDwyane Wade MIA 06/05/2012 MIA vs. BOS L 39 27 10 22 45.5 1 3 33.3 6 8 75.0 1 5 6 3 0 1 3 3 8
+p73
+aVMario Chalmers MIA 06/05/2012 MIA vs. BOS L 36 9 3 7 42.9 1 5 20.0 2 3 66.7 0 4 4 3 1 0 3 2 -10
+p74
+aVMike Miller MIA 06/05/2012 MIA vs. BOS L 11 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 3 -10
+p75
+aVNorris Cole MIA 06/05/2012 MIA vs. BOS L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 2 2 0 1 2 6
+p76
+aVJames Jones MIA 06/05/2012 MIA vs. BOS L 17 4 1 4 25.0 1 3 33.3 1 1 100.0 0 1 1 0 1 0 1 1 -1
+p77
+aVLeBron James MIA 06/05/2012 MIA vs. BOS L 45 30 11 25 44.0 2 6 33.3 6 8 75.0 3 10 13 2 2 1 3 1 0
+p78
+aVChris Bosh MIA 06/05/2012 MIA vs. BOS L 14 9 3 8 37.5 0 1 0.0 3 3 100.0 6 1 7 0 0 0 1 1 -12
+p79
+aVMario Chalmers MIA 06/03/2012 MIA @ BOS L 35 12 5 13 38.5 0 3 0.0 2 2 100.0 0 3 3 4 1 0 2 5 -3
+p80
+aVMike Miller MIA 06/03/2012 MIA @ BOS L 11 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -2
+p81
+aVJoel Anthony MIA 06/03/2012 MIA @ BOS L 15 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 4 -11
+p82
+aVDwyane Wade MIA 06/03/2012 MIA @ BOS L 51 20 7 22 31.8 2 6 33.3 4 5 80.0 1 6 7 6 3 3 4 4 1
+p83
+aVLeBron James MIA 06/03/2012 MIA @ BOS L 48 29 12 25 48.0 1 3 33.3 4 8 50.0 1 5 6 3 1 1 7 6 1
+p84
+aVNorris Cole MIA 06/03/2012 MIA @ BOS L 16 5 1 2 50.0 0 0 - 3 5 60.0 0 1 1 2 0 0 0 1 0
+p85
+aVUdonis Haslem MIA 06/03/2012 MIA @ BOS L 36 12 4 6 66.7 0 0 - 4 4 100.0 4 13 17 2 1 0 2 3 3
+p86
+aVJames Jones MIA 06/03/2012 MIA @ BOS L 11 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 1 0 0 0 1 -1
+p87
+aVShane Battier MIA 06/03/2012 MIA @ BOS L 42 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 0 1 2 3 2
+p88
+aVMike Miller MIA 06/01/2012 MIA @ BOS L 21 11 4 8 50.0 3 6 50.0 0 1 0.0 1 5 6 0 0 0 0 2 0
+p89
+aVRonny Turiaf MIA 06/01/2012 MIA @ BOS L 9 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 2 -4
+p90
+aVTerrel Harris MIA 06/01/2012 MIA @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p91
+aVDexter Pittman MIA 06/01/2012 MIA @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p92
+aVDwyane Wade MIA 06/01/2012 MIA @ BOS L 42 18 9 20 45.0 0 0 - 0 0 - 2 2 4 4 1 2 3 4 -8
+p93
+aVUdonis Haslem MIA 06/01/2012 MIA @ BOS L 16 3 1 2 50.0 0 0 - 1 2 50.0 2 4 6 0 0 1 0 2 -12
+p94
+aVJoel Anthony MIA 06/01/2012 MIA @ BOS L 12 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -9
+p95
+aVMario Chalmers MIA 06/01/2012 MIA @ BOS L 44 14 5 11 45.5 1 2 50.0 3 6 50.0 0 1 1 6 1 0 1 3 -2
+p96
+aVNorris Cole MIA 06/01/2012 MIA @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p97
+aVJames Jones MIA 06/01/2012 MIA @ BOS L 10 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 1 1 -11
+p98
+aVJuwan Howard MIA 06/01/2012 MIA @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p99
+aVLeBron James MIA 06/01/2012 MIA @ BOS L 43 34 16 26 61.5 1 4 25.0 1 5 20.0 0 8 8 5 2 2 3 4 -6
+p100
+aVShane Battier MIA 06/01/2012 MIA @ BOS L 38 0 0 6 0.0 0 4 0.0 0 0 - 0 3 3 4 0 0 1 3 -1
+p101
+aVJames Jones MIA 05/30/2012 MIA vs. BOS W 13 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p102
+aVShane Battier MIA 05/30/2012 MIA vs. BOS W 46 9 3 9 33.3 3 8 37.5 0 0 - 0 3 3 1 1 0 1 2 12
+p103
+aVDwyane Wade MIA 05/30/2012 MIA vs. BOS W 44 23 8 15 53.3 0 0 - 7 11 63.6 1 5 6 4 1 2 2 2 11
+p104
+aVJoel Anthony MIA 05/30/2012 MIA vs. BOS W 19 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 4 -5
+p105
+aVMike Miller MIA 05/30/2012 MIA vs. BOS W 14 7 3 7 42.9 1 4 25.0 0 0 - 1 1 2 1 0 0 1 1 -12
+p106
+aVUdonis Haslem MIA 05/30/2012 MIA vs. BOS W 30 13 6 12 50.0 0 0 - 1 3 33.3 4 7 11 3 2 1 0 3 8
+p107
+aVMario Chalmers MIA 05/30/2012 MIA vs. BOS W 45 22 8 16 50.0 3 6 50.0 3 7 42.9 1 3 4 6 2 0 3 3 -1
+p108
+aVRonny Turiaf MIA 05/30/2012 MIA vs. BOS W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 1
+p109
+aVLeBron James MIA 05/30/2012 MIA vs. BOS W 48 34 7 20 35.0 2 6 33.3 18 24 75.0 4 6 10 7 1 1 1 2 10
+p110
+aVNorris Cole MIA 05/30/2012 MIA vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p111
+aVUdonis Haslem MIA 05/28/2012 MIA vs. BOS W 15 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 3
+p112
+aVMario Chalmers MIA 05/28/2012 MIA vs. BOS W 40 9 3 9 33.3 0 6 0.0 3 4 75.0 1 4 5 4 0 1 1 0 9
+p113
+aVLeBron James MIA 05/28/2012 MIA vs. BOS W 44 32 13 22 59.1 0 3 0.0 6 9 66.7 1 12 13 3 1 3 3 2 17
+p114
+aVDwyane Wade MIA 05/28/2012 MIA vs. BOS W 38 22 8 13 61.5 0 1 0.0 6 6 100.0 2 1 3 7 1 2 4 2 16
+p115
+aVJuwan Howard MIA 05/28/2012 MIA vs. BOS W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p116
+aVMike Miller MIA 05/28/2012 MIA vs. BOS W 12 8 3 5 60.0 2 2 100.0 0 0 - 2 1 3 0 0 0 1 4 -5
+p117
+aVJames Jones MIA 05/28/2012 MIA vs. BOS W 10 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 4
+p118
+aVShane Battier MIA 05/28/2012 MIA vs. BOS W 36 10 4 11 36.4 2 9 22.2 0 0 - 2 8 10 2 1 2 0 2 16
+p119
+aVNorris Cole MIA 05/28/2012 MIA vs. BOS W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 0
+p120
+aVJoel Anthony MIA 05/28/2012 MIA vs. BOS W 20 3 1 2 50.0 0 0 - 1 4 25.0 2 4 6 0 0 2 1 5 6
+p121
+aVRonny Turiaf MIA 05/28/2012 MIA vs. BOS W 18 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 1 1 3 6
+p122
+aVJoel Anthony MIA 05/24/2012 MIA @ IND W 34 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 0 1 2 1 3 6
+p123
+aVNorris Cole MIA 05/24/2012 MIA @ IND W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 11
+p124
+aVJuwan Howard MIA 05/24/2012 MIA @ IND W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p125
+aVJames Jones MIA 05/24/2012 MIA @ IND W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p126
+aVLeBron James MIA 05/24/2012 MIA @ IND W 45 28 12 23 52.2 0 3 0.0 4 5 80.0 1 5 6 7 3 0 1 1 16
+p127
+aVDwyane Wade MIA 05/24/2012 MIA @ IND W 39 41 17 25 68.0 0 0 - 7 8 87.5 2 8 10 3 2 0 5 3 4
+p128
+aVMario Chalmers MIA 05/24/2012 MIA @ IND W 32 15 4 7 57.1 3 4 75.0 4 6 66.7 1 1 2 2 0 0 0 5 9
+p129
+aVShane Battier MIA 05/24/2012 MIA @ IND W 40 2 1 7 14.3 0 5 0.0 0 0 - 0 2 2 2 1 0 0 3 -3
+p130
+aVMike Miller MIA 05/24/2012 MIA @ IND W 22 12 4 8 50.0 4 7 57.1 0 0 - 0 2 2 0 1 1 1 2 9
+p131
+aVRonny Turiaf MIA 05/24/2012 MIA @ IND W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 2 -5
+p132
+aVRonny Turiaf MIA 05/22/2012 MIA vs. IND W 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 13
+p133
+aVJuwan Howard MIA 05/22/2012 MIA vs. IND W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 6
+p134
+aVJoel Anthony MIA 05/22/2012 MIA vs. IND W 31 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 0 0 4 0 2 12
+p135
+aVDwyane Wade MIA 05/22/2012 MIA vs. IND W 33 28 10 17 58.8 1 2 50.0 7 13 53.8 0 3 3 2 2 1 4 3 24
+p136
+aVNorris Cole MIA 05/22/2012 MIA vs. IND W 18 6 1 4 25.0 0 0 - 4 4 100.0 1 1 2 3 0 0 0 2 16
+p137
+aVDexter Pittman MIA 05/22/2012 MIA vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 1 6
+p138
+aVMario Chalmers MIA 05/22/2012 MIA vs. IND W 32 8 3 6 50.0 0 1 0.0 2 2 100.0 0 11 11 3 0 0 3 4 19
+p139
+aVUdonis Haslem MIA 05/22/2012 MIA vs. IND W 17 10 5 6 83.3 0 0 - 0 0 - 2 4 6 0 0 0 0 2 3
+p140
+aVLeBron James MIA 05/22/2012 MIA vs. IND W 38 30 12 19 63.2 2 4 50.0 4 4 100.0 3 7 10 8 1 1 4 1 28
+p141
+aVJames Jones MIA 05/22/2012 MIA vs. IND W 9 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 1 0 1 0 0 2
+p142
+aVShane Battier MIA 05/22/2012 MIA vs. IND W 26 13 4 7 57.1 4 5 80.0 1 2 50.0 0 3 3 1 1 1 1 3 24
+p143
+aVTerrel Harris MIA 05/22/2012 MIA vs. IND W 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p144
+aVMike Miller MIA 05/22/2012 MIA vs. IND W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 0 1 0 1 1 1
+p145
+aVMario Chalmers MIA 05/20/2012 MIA @ IND W 33 8 3 9 33.3 2 5 40.0 0 0 - 0 3 3 3 2 1 5 2 17
+p146
+aVLeBron James MIA 05/20/2012 MIA @ IND W 44 40 14 27 51.9 0 0 - 12 16 75.0 6 12 18 9 2 2 5 1 4
+p147
+aVRonny Turiaf MIA 05/20/2012 MIA @ IND W 14 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 4 0
+p148
+aVUdonis Haslem MIA 05/20/2012 MIA @ IND W 25 14 5 6 83.3 0 0 - 4 4 100.0 1 3 4 0 0 0 0 3 15
+p149
+aVNorris Cole MIA 05/20/2012 MIA @ IND W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 3 0
+p150
+aVMike Miller MIA 05/20/2012 MIA @ IND W 20 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 2 1 0 1 3 1
+p151
+aVJoel Anthony MIA 05/20/2012 MIA @ IND W 22 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 0 3 1 4 -1
+p152
+aVDwyane Wade MIA 05/20/2012 MIA @ IND W 41 30 13 23 56.5 2 2 100.0 2 6 33.3 1 8 9 6 1 2 0 1 5
+p153
+aVShane Battier MIA 05/20/2012 MIA @ IND W 30 3 1 7 14.3 1 3 33.3 0 0 - 4 0 4 0 0 1 1 3 -2
+p154
+aVJames Jones MIA 05/20/2012 MIA @ IND W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p155
+aVNorris Cole MIA 05/17/2012 MIA @ IND L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p156
+aVMario Chalmers MIA 05/17/2012 MIA @ IND L 38 25 10 15 66.7 1 1 100.0 4 4 100.0 3 3 6 5 0 1 0 3 -14
+p157
+aVDexter Pittman MIA 05/17/2012 MIA @ IND L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p158
+aVJuwan Howard MIA 05/17/2012 MIA @ IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p159
+aVShane Battier MIA 05/17/2012 MIA @ IND L 23 0 0 7 0.0 0 6 0.0 0 0 - 0 3 3 0 2 2 1 2 -10
+p160
+aVRonny Turiaf MIA 05/17/2012 MIA @ IND L 17 5 2 3 66.7 0 0 - 1 3 33.3 4 4 8 0 0 1 1 2 -3
+p161
+aVMike Miller MIA 05/17/2012 MIA @ IND L 17 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 0 3 10
+p162
+aVJoel Anthony MIA 05/17/2012 MIA @ IND L 27 10 2 2 100.0 0 0 - 6 6 100.0 0 1 1 0 0 0 1 2 -13
+p163
+aVJames Jones MIA 05/17/2012 MIA @ IND L 15 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 0 0 0 0 0 -15
+p164
+aVLeBron James MIA 05/17/2012 MIA @ IND L 40 22 10 22 45.5 1 4 25.0 1 3 33.3 1 6 7 3 2 0 4 1 -9
+p165
+aVUdonis Haslem MIA 05/17/2012 MIA @ IND L 7 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -6
+p166
+aVTerrel Harris MIA 05/17/2012 MIA @ IND L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p167
+aVDwyane Wade MIA 05/17/2012 MIA @ IND L 37 5 2 13 15.4 0 2 0.0 1 2 50.0 1 4 5 1 1 2 5 3 -25
+p168
+aVJoel Anthony MIA 05/15/2012 MIA vs. IND L 35 0 0 5 0.0 0 0 - 0 0 - 2 4 6 0 2 2 0 2 0
+p169
+aVJames Jones MIA 05/15/2012 MIA vs. IND L 10 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 5
+p170
+aVNorris Cole MIA 05/15/2012 MIA vs. IND L 17 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 1
+p171
+aVDwyane Wade MIA 05/15/2012 MIA vs. IND L 37 24 8 22 36.4 0 2 0.0 8 10 80.0 3 3 6 4 1 2 3 4 -7
+p172
+aVLeBron James MIA 05/15/2012 MIA vs. IND L 43 28 10 22 45.5 0 4 0.0 8 13 61.5 4 5 9 5 6 0 2 0 -7
+p173
+aVRonny Turiaf MIA 05/15/2012 MIA vs. IND L 13 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 1 0 4 -2
+p174
+aVUdonis Haslem MIA 05/15/2012 MIA vs. IND L 12 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -12
+p175
+aVMario Chalmers MIA 05/15/2012 MIA vs. IND L 23 5 2 10 20.0 0 4 0.0 1 2 50.0 1 2 3 0 0 0 1 5 -1
+p176
+aVShane Battier MIA 05/15/2012 MIA vs. IND L 33 5 1 2 50.0 1 1 100.0 2 2 100.0 2 3 5 1 0 0 1 4 10
+p177
+aVMike Miller MIA 05/15/2012 MIA vs. IND L 17 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 3 0 -2
+p178
+aVShane Battier MIA 05/13/2012 MIA vs. IND W 24 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 0 2 1 1 3 9
+p179
+aVUdonis Haslem MIA 05/13/2012 MIA vs. IND W 23 2 0 4 0.0 0 0 - 2 2 100.0 1 4 5 1 0 0 2 3 -1
+p180
+aVJoel Anthony MIA 05/13/2012 MIA vs. IND W 24 9 4 4 100.0 0 0 - 1 2 50.0 2 5 7 0 0 1 1 4 9
+p181
+aVDwyane Wade MIA 05/13/2012 MIA vs. IND W 40 29 8 23 34.8 0 0 - 13 14 92.9 0 0 0 4 1 1 2 1 12
+p182
+aVRonny Turiaf MIA 05/13/2012 MIA vs. IND W 10 4 2 4 50.0 0 0 - 0 4 0.0 3 0 3 0 0 1 0 2 5
+p183
+aVChris Bosh MIA 05/13/2012 MIA vs. IND W 16 13 6 11 54.5 0 0 - 1 2 50.0 2 3 5 0 0 0 3 0 -7
+p184
+aVLeBron James MIA 05/13/2012 MIA vs. IND W 43 32 12 26 46.2 0 3 0.0 8 10 80.0 6 9 15 5 2 1 1 1 12
+p185
+aVMario Chalmers MIA 05/13/2012 MIA vs. IND W 31 4 0 3 0.0 0 1 0.0 4 4 100.0 1 3 4 3 1 0 1 5 -1
+p186
+aVMike Miller MIA 05/13/2012 MIA vs. IND W 28 2 1 3 33.3 0 0 - 0 0 - 0 3 3 3 2 0 1 3 7
+p187
+aVShane Battier MIA 05/09/2012 MIA vs. NYK W 28 9 2 4 50.0 2 4 50.0 3 3 100.0 1 2 3 4 0 0 0 1 8
+p188
+aVUdonis Haslem MIA 05/09/2012 MIA vs. NYK W 24 7 2 6 33.3 0 0 - 3 4 75.0 0 7 7 0 0 0 1 3 7
+p189
+aVMario Chalmers MIA 05/09/2012 MIA vs. NYK W 36 10 4 11 36.4 2 4 50.0 0 0 - 2 4 6 3 1 0 2 2 -2
+p190
+aVMike Miller MIA 05/09/2012 MIA vs. NYK W 21 9 3 5 60.0 3 5 60.0 0 0 - 0 2 2 2 1 0 0 3 13
+p191
+aVLeBron James MIA 05/09/2012 MIA vs. NYK W 40 29 7 16 43.8 2 6 33.3 13 15 86.7 1 7 8 7 2 1 4 2 6
+p192
+aVChris Bosh MIA 05/09/2012 MIA vs. NYK W 35 19 8 15 53.3 0 0 - 3 3 100.0 3 4 7 0 1 0 0 2 6
+p193
+aVDwyane Wade MIA 05/09/2012 MIA vs. NYK W 38 19 7 19 36.8 0 0 - 5 7 71.4 1 3 4 3 2 2 2 4 6
+p194
+aVJoel Anthony MIA 05/09/2012 MIA vs. NYK W 19 4 1 2 50.0 0 0 - 2 2 100.0 5 0 5 1 0 0 1 1 16
+p195
+aVUdonis Haslem MIA 05/06/2012 MIA @ NYK L 14 6 3 5 60.0 0 0 - 0 0 - 0 6 6 0 0 0 1 6 -8
+p196
+aVLeBron James MIA 05/06/2012 MIA @ NYK L 41 27 9 21 42.9 2 5 40.0 7 8 87.5 0 4 4 4 1 0 5 4 -7
+p197
+aVMario Chalmers MIA 05/06/2012 MIA @ NYK L 38 6 2 10 20.0 0 4 0.0 2 4 50.0 0 5 5 4 1 1 1 3 13
+p198
+aVMike Miller MIA 05/06/2012 MIA @ NYK L 24 3 1 5 20.0 1 5 20.0 0 0 - 1 4 5 2 0 0 0 0 -5
+p199
+aVDwyane Wade MIA 05/06/2012 MIA @ NYK L 38 22 9 18 50.0 0 3 0.0 4 11 36.4 1 2 3 6 4 3 2 5 -1
+p200
+aVJames Jones MIA 05/06/2012 MIA @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p201
+aVShane Battier MIA 05/06/2012 MIA @ NYK L 25 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 3 1 1 0 4 3
+p202
+aVJoel Anthony MIA 05/06/2012 MIA @ NYK L 19 4 1 2 50.0 0 0 - 2 2 100.0 3 3 6 0 1 0 1 2 1
+p203
+aVChris Bosh MIA 05/06/2012 MIA @ NYK L 40 17 4 10 40.0 0 1 0.0 9 10 90.0 3 6 9 1 0 1 4 2 -8
+p204
+aVMario Chalmers MIA 05/03/2012 MIA @ NYK W 40 19 7 11 63.6 5 8 62.5 0 0 - 1 6 7 0 3 0 3 2 28
+p205
+aVNorris Cole MIA 05/03/2012 MIA @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p206
+aVDwyane Wade MIA 05/03/2012 MIA @ NYK W 37 20 8 17 47.1 2 5 40.0 2 3 66.7 0 4 4 4 5 0 2 3 26
+p207
+aVJoel Anthony MIA 05/03/2012 MIA @ NYK W 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -10
+p208
+aVChris Bosh MIA 05/03/2012 MIA @ NYK W 37 9 3 5 60.0 1 1 100.0 2 3 66.7 1 9 10 1 0 1 1 0 27
+p209
+aVShane Battier MIA 05/03/2012 MIA @ NYK W 36 0 0 6 0.0 0 6 0.0 0 0 - 0 2 2 0 3 1 1 3 4
+p210
+aVUdonis Haslem MIA 05/03/2012 MIA @ NYK W 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 13
+p211
+aVJames Jones MIA 05/03/2012 MIA @ NYK W 5 1 0 1 0.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 -8
+p212
+aVLeBron James MIA 05/03/2012 MIA @ NYK W 36 32 9 21 42.9 2 5 40.0 12 13 92.3 2 6 8 5 2 0 8 5 23
+p213
+aVMike Miller MIA 05/03/2012 MIA @ NYK W 19 4 1 5 20.0 1 4 25.0 1 2 50.0 0 3 3 0 0 0 1 3 -12
+p214
+aVJoel Anthony MIA 04/30/2012 MIA vs. NYK W 18 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 2
+p215
+aVUdonis Haslem MIA 04/30/2012 MIA vs. NYK W 21 1 0 2 0.0 0 0 - 1 2 50.0 2 6 8 0 1 1 1 2 3
+p216
+aVLeBron James MIA 04/30/2012 MIA vs. NYK W 41 19 8 18 44.4 0 3 0.0 3 7 42.9 1 6 7 9 2 0 2 1 10
+p217
+aVMario Chalmers MIA 04/30/2012 MIA vs. NYK W 33 13 4 10 40.0 2 5 40.0 3 4 75.0 0 1 1 6 0 0 2 3 7
+p218
+aVJames Jones MIA 04/30/2012 MIA vs. NYK W 6 1 0 1 0.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 1 -1
+p219
+aVChris Bosh MIA 04/30/2012 MIA vs. NYK W 31 21 7 12 58.3 1 1 100.0 6 8 75.0 1 3 4 4 0 1 1 3 12
+p220
+aVShane Battier MIA 04/30/2012 MIA vs. NYK W 23 11 4 6 66.7 3 5 60.0 0 0 - 0 3 3 1 1 0 1 4 2
+p221
+aVNorris Cole MIA 04/30/2012 MIA vs. NYK W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p222
+aVMike Miller MIA 04/30/2012 MIA vs. NYK W 29 11 3 5 60.0 3 5 60.0 2 2 100.0 1 3 4 4 0 0 0 1 1
+p223
+aVDwyane Wade MIA 04/30/2012 MIA vs. NYK W 35 25 11 18 61.1 0 1 0.0 3 3 100.0 1 3 4 4 2 1 1 1 15
+p224
+aVRonny Turiaf MIA 04/28/2012 MIA vs. NYK W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 1
+p225
+aVMario Chalmers MIA 04/28/2012 MIA vs. NYK W 34 11 3 5 60.0 1 3 33.3 4 5 80.0 0 1 1 9 3 0 2 3 7
+p226
+aVJames Jones MIA 04/28/2012 MIA vs. NYK W 7 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 3
+p227
+aVLeBron James MIA 04/28/2012 MIA vs. NYK W 32 32 10 14 71.4 1 1 100.0 11 14 78.6 1 3 4 3 4 0 2 2 35
+p228
+aVJuwan Howard MIA 04/28/2012 MIA vs. NYK W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p229
+aVJoel Anthony MIA 04/28/2012 MIA vs. NYK W 18 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 4 13
+p230
+aVDwyane Wade MIA 04/28/2012 MIA vs. NYK W 31 19 8 13 61.5 0 0 - 3 6 50.0 2 0 2 3 1 0 5 1 15
+p231
+aVShane Battier MIA 04/28/2012 MIA vs. NYK W 26 8 2 8 25.0 2 6 33.3 2 2 100.0 2 4 6 0 0 1 1 3 22
+p232
+aVNorris Cole MIA 04/28/2012 MIA vs. NYK W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 1 0 0
+p233
+aVUdonis Haslem MIA 04/28/2012 MIA vs. NYK W 19 3 1 3 33.3 0 0 - 1 2 50.0 4 4 8 1 0 1 0 2 16
+p234
+aVChris Bosh MIA 04/28/2012 MIA vs. NYK W 24 9 3 7 42.9 0 0 - 3 4 75.0 2 4 6 0 1 1 2 1 16
+p235
+aVMike Miller MIA 04/28/2012 MIA vs. NYK W 24 9 3 10 30.0 3 9 33.3 0 0 - 1 3 4 0 1 0 0 0 34
+p236
+a.

@@ -1,0 +1,1734 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLaMarcus Aldridge POR 04/17/2013 POR vs. GSW L 32 30 12 23 52.2 0 0 - 6 6 100.0 4 17 21 1 0 3 2 1 1
+p2
+aVSasha Pavlovic POR 04/17/2013 POR vs. GSW L 14 6 2 6 33.3 2 2 100.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p3
+aVWill Barton POR 04/17/2013 POR vs. GSW L 48 15 7 19 36.8 1 2 50.0 0 0 - 1 6 7 4 0 0 3 1 -11
+p4
+aVJoel Freeland POR 04/17/2013 POR vs. GSW L 16 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 1 0 0 2 3 -12
+p5
+aVEric Maynor POR 04/17/2013 POR vs. GSW L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 6 0 0 1 1 -3
+p6
+aVVictor Claver POR 04/17/2013 POR vs. GSW L 34 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 3 0 0 1 1 -6
+p7
+aVDamian Lillard POR 04/17/2013 POR vs. GSW L 38 21 7 13 53.8 2 5 40.0 5 6 83.3 0 1 1 3 1 0 2 2 -8
+p8
+aVMeyers Leonard POR 04/17/2013 POR vs. GSW L 26 7 3 6 50.0 1 1 100.0 0 0 - 0 3 3 0 0 2 1 3 -9
+p9
+aVJJ Hickson POR 04/17/2013 POR vs. GSW L 22 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 0 2 1 -2
+p10
+aVLuke Babbitt POR 04/16/2013 POR @ LAC L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p11
+aVJJ Hickson POR 04/16/2013 POR @ LAC L 25 7 3 8 37.5 0 0 - 1 2 50.0 4 2 6 1 0 0 1 3 -20
+p12
+aVSasha Pavlovic POR 04/16/2013 POR @ LAC L 21 5 2 7 28.6 1 4 25.0 0 1 0.0 0 3 3 1 1 0 0 0 0
+p13
+aVWill Barton POR 04/16/2013 POR @ LAC L 40 17 8 14 57.1 0 1 0.0 1 2 50.0 1 5 6 5 3 0 6 2 -15
+p14
+aVDamian Lillard POR 04/16/2013 POR @ LAC L 40 12 4 12 33.3 2 7 28.6 2 3 66.7 0 3 3 8 0 0 4 2 -16
+p15
+aVMeyers Leonard POR 04/16/2013 POR @ LAC L 33 9 3 7 42.9 0 1 0.0 3 3 100.0 0 2 2 0 0 0 2 3 -12
+p16
+aVJoel Freeland POR 04/16/2013 POR @ LAC L 28 13 5 10 50.0 0 0 - 3 4 75.0 0 6 6 0 2 0 0 1 -3
+p17
+aVEric Maynor POR 04/16/2013 POR @ LAC L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p18
+aVVictor Claver POR 04/16/2013 POR @ LAC L 35 11 4 12 33.3 3 7 42.9 0 0 - 0 5 5 3 0 0 1 4 -6
+p19
+aVDamian Lillard POR 04/14/2013 POR @ DEN L 40 30 10 17 58.8 4 10 40.0 6 7 85.7 0 5 5 6 1 2 8 2 -12
+p20
+aVJJ Hickson POR 04/14/2013 POR @ DEN L 37 19 7 16 43.8 0 0 - 5 6 83.3 4 5 9 6 0 0 1 1 -10
+p21
+aVJoel Freeland POR 04/14/2013 POR @ DEN L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 0 7
+p22
+aVSasha Pavlovic POR 04/14/2013 POR @ DEN L 25 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 0 1 0 1 2 -12
+p23
+aVEric Maynor POR 04/14/2013 POR @ DEN L 27 14 4 10 40.0 3 6 50.0 3 5 60.0 0 0 0 2 1 0 3 1 3
+p24
+aVMeyers Leonard POR 04/14/2013 POR @ DEN L 23 10 5 9 55.6 0 0 - 0 0 - 2 3 5 2 0 0 1 4 -5
+p25
+aVVictor Claver POR 04/14/2013 POR @ DEN L 24 9 3 5 60.0 2 4 50.0 1 2 50.0 1 3 4 2 1 0 3 6 6
+p26
+aVLuke Babbitt POR 04/14/2013 POR @ DEN L 23 2 1 7 14.3 0 6 0.0 0 0 - 1 1 2 2 1 0 1 2 -17
+p27
+aVWill Barton POR 04/14/2013 POR @ DEN L 34 17 5 8 62.5 1 2 50.0 6 6 100.0 3 6 9 5 0 0 3 3 -5
+p28
+aVLuke Babbitt POR 04/12/2013 POR vs. OKC L 12 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 4
+p29
+aVSasha Pavlovic POR 04/12/2013 POR vs. OKC L 23 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 5 0 0 0 1 0
+p30
+aVNolan Smith POR 04/12/2013 POR vs. OKC L 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p31
+aVWill Barton POR 04/12/2013 POR vs. OKC L 38 18 8 19 42.1 0 3 0.0 2 2 100.0 1 6 7 0 2 0 3 2 -6
+p32
+aVDamian Lillard POR 04/12/2013 POR vs. OKC L 37 10 3 14 21.4 1 5 20.0 3 4 75.0 1 2 3 8 1 0 1 4 -12
+p33
+aVEric Maynor POR 04/12/2013 POR vs. OKC L 26 11 3 6 50.0 1 2 50.0 4 5 80.0 0 1 1 3 0 0 3 1 -13
+p34
+aVJoel Freeland POR 04/12/2013 POR vs. OKC L 15 5 2 5 40.0 0 0 - 1 2 50.0 2 4 6 0 0 0 0 2 2
+p35
+aVMeyers Leonard POR 04/12/2013 POR vs. OKC L 19 10 4 8 50.0 1 1 100.0 1 1 100.0 1 4 5 0 0 1 1 1 2
+p36
+aVJJ Hickson POR 04/12/2013 POR vs. OKC L 13 7 3 5 60.0 0 0 - 1 4 25.0 4 3 7 0 1 0 0 0 -20
+p37
+aVLaMarcus Aldridge POR 04/12/2013 POR vs. OKC L 28 12 6 14 42.9 0 1 0.0 0 0 - 1 1 2 1 0 0 1 1 -27
+p38
+aVVictor Claver POR 04/12/2013 POR vs. OKC L 26 3 1 6 16.7 1 3 33.3 0 0 - 0 2 2 1 0 0 2 3 -11
+p39
+aVEric Maynor POR 04/10/2013 POR vs. LAL L 23 9 3 8 37.5 1 2 50.0 2 2 100.0 0 0 0 4 2 0 2 2 4
+p40
+aVDamian Lillard POR 04/10/2013 POR vs. LAL L 43 38 12 25 48.0 5 11 45.5 9 9 100.0 0 1 1 9 3 0 2 2 -1
+p41
+aVVictor Claver POR 04/10/2013 POR vs. LAL L 27 9 3 11 27.3 1 4 25.0 2 2 100.0 0 2 2 4 0 0 0 4 -4
+p42
+aVWill Barton POR 04/10/2013 POR vs. LAL L 29 9 4 12 33.3 0 1 0.0 1 2 50.0 0 1 1 2 2 0 3 2 -9
+p43
+aVLaMarcus Aldridge POR 04/10/2013 POR vs. LAL L 40 17 7 13 53.8 0 0 - 3 4 75.0 4 12 16 2 3 0 1 3 -1
+p44
+aVMeyers Leonard POR 04/10/2013 POR vs. LAL L 32 4 2 4 50.0 0 0 - 0 0 - 3 2 5 2 0 0 1 4 -16
+p45
+aVLuke Babbitt POR 04/10/2013 POR vs. LAL L 22 12 4 5 80.0 4 5 80.0 0 0 - 2 3 5 1 0 0 1 3 0
+p46
+aVSasha Pavlovic POR 04/10/2013 POR vs. LAL L 22 8 3 7 42.9 1 3 33.3 1 1 100.0 0 1 1 0 0 0 0 4 -8
+p47
+aVWesley Matthews POR 04/07/2013 POR vs. DAL L 13 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 2 0 -16
+p48
+aVLaMarcus Aldridge POR 04/07/2013 POR vs. DAL L 39 18 8 16 50.0 0 0 - 2 2 100.0 1 5 6 3 1 0 3 1 -17
+p49
+aVDamian Lillard POR 04/07/2013 POR vs. DAL L 40 15 6 19 31.6 0 5 0.0 3 5 60.0 0 1 1 4 0 0 0 2 3
+p50
+aVVictor Claver POR 04/07/2013 POR vs. DAL L 28 7 3 5 60.0 1 3 33.3 0 0 - 1 2 3 1 2 1 4 3 -14
+p51
+aVMeyers Leonard POR 04/07/2013 POR vs. DAL L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 1 1 2 11
+p52
+aVEric Maynor POR 04/07/2013 POR vs. DAL L 25 8 4 6 66.7 0 2 0.0 0 0 - 0 3 3 6 0 0 2 2 1
+p53
+aVLuke Babbitt POR 04/07/2013 POR vs. DAL L 27 10 4 10 40.0 2 7 28.6 0 0 - 0 6 6 1 1 0 0 4 9
+p54
+aVJJ Hickson POR 04/07/2013 POR vs. DAL L 21 6 3 7 42.9 0 0 - 0 0 - 2 3 5 0 0 1 2 0 -15
+p55
+aVWill Barton POR 04/07/2013 POR vs. DAL L 32 22 7 11 63.6 0 2 0.0 8 9 88.9 2 11 13 6 3 0 0 2 13
+p56
+aVDamian Lillard POR 04/05/2013 POR vs. HOU L 40 11 4 12 33.3 1 2 50.0 2 3 66.7 2 1 3 7 2 0 3 1 -15
+p57
+aVEric Maynor POR 04/05/2013 POR vs. HOU L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 3 1 -15
+p58
+aVLaMarcus Aldridge POR 04/05/2013 POR vs. HOU L 40 32 12 19 63.2 0 0 - 8 10 80.0 3 10 13 3 1 0 0 5 -10
+p59
+aVMeyers Leonard POR 04/05/2013 POR vs. HOU L 25 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 2 0 0 1 5 -7
+p60
+aVJJ Hickson POR 04/05/2013 POR vs. HOU L 23 11 5 9 55.6 0 0 - 1 1 100.0 3 5 8 0 1 0 0 1 -13
+p61
+aVVictor Claver POR 04/05/2013 POR vs. HOU L 27 9 4 8 50.0 0 2 0.0 1 1 100.0 1 1 2 1 1 1 2 3 -13
+p62
+aVWesley Matthews POR 04/05/2013 POR vs. HOU L 38 18 6 19 31.6 1 11 9.1 5 6 83.3 1 2 3 4 2 0 2 3 -14
+p63
+aVWill Barton POR 04/05/2013 POR vs. HOU L 21 9 4 9 44.4 0 2 0.0 1 1 100.0 1 5 6 4 0 1 1 2 1
+p64
+aVNolan Smith POR 04/05/2013 POR vs. HOU L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p65
+aVJoel Freeland POR 04/05/2013 POR vs. HOU L 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p66
+aVSasha Pavlovic POR 04/05/2013 POR vs. HOU L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p67
+aVMeyers Leonard POR 04/03/2013 POR vs. MEM L 28 10 4 7 57.1 0 0 - 2 2 100.0 2 5 7 2 0 0 2 4 -8
+p68
+aVNolan Smith POR 04/03/2013 POR vs. MEM L 3 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p69
+aVDamian Lillard POR 04/03/2013 POR vs. MEM L 41 17 8 19 42.1 1 6 16.7 0 1 0.0 0 4 4 6 0 1 5 3 -14
+p70
+aVWesley Matthews POR 04/03/2013 POR vs. MEM L 39 12 5 16 31.3 2 10 20.0 0 0 - 1 1 2 0 1 0 2 3 -17
+p71
+aVEric Maynor POR 04/03/2013 POR vs. MEM L 31 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 10 1 0 2 2 -3
+p72
+aVJoel Freeland POR 04/03/2013 POR vs. MEM L 17 7 3 4 75.0 0 0 - 1 2 50.0 0 3 3 0 2 0 0 4 -9
+p73
+aVVictor Claver POR 04/03/2013 POR vs. MEM L 26 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 2 -18
+p74
+aVWill Barton POR 04/03/2013 POR vs. MEM L 10 2 0 5 0.0 0 2 0.0 2 2 100.0 1 1 2 1 0 0 2 1 -7
+p75
+aVLuke Babbitt POR 04/03/2013 POR vs. MEM L 8 0 0 4 0.0 0 4 0.0 0 0 - 1 0 1 0 0 0 1 1 2
+p76
+aVJJ Hickson POR 04/03/2013 POR vs. MEM L 37 17 8 12 66.7 0 0 - 1 3 33.3 3 6 9 2 1 1 2 2 -17
+p77
+aVNolan Smith POR 04/01/2013 POR @ UTA L 3 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 0 3
+p78
+aVMeyers Leonard POR 04/01/2013 POR @ UTA L 38 12 5 8 62.5 0 0 - 2 3 66.7 1 6 7 3 0 1 5 3 -2
+p79
+aVWesley Matthews POR 04/01/2013 POR @ UTA L 31 23 9 13 69.2 4 7 57.1 1 2 50.0 0 0 0 1 0 0 0 1 -15
+p80
+aVJoel Freeland POR 04/01/2013 POR @ UTA L 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 3 3
+p81
+aVWill Barton POR 04/01/2013 POR @ UTA L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 6
+p82
+aVJJ Hickson POR 04/01/2013 POR @ UTA L 25 7 3 6 50.0 0 0 - 1 2 50.0 1 6 7 0 0 0 2 2 -20
+p83
+aVVictor Claver POR 04/01/2013 POR @ UTA L 29 12 4 5 80.0 2 3 66.7 2 4 50.0 0 5 5 2 1 0 2 1 13
+p84
+aVDamian Lillard POR 04/01/2013 POR @ UTA L 39 17 7 16 43.8 3 7 42.9 0 0 - 0 5 5 5 0 1 2 2 -16
+p85
+aVNicolas Batum POR 04/01/2013 POR @ UTA L 29 10 4 7 57.1 2 4 50.0 0 0 - 0 0 0 4 0 0 3 2 -21
+p86
+aVEric Maynor POR 04/01/2013 POR @ UTA L 24 10 4 6 66.7 1 1 100.0 1 2 50.0 0 1 1 8 0 0 2 2 -1
+p87
+aVEric Maynor POR 03/30/2013 POR @ GSW L 18 5 1 7 14.3 0 2 0.0 3 4 75.0 1 0 1 4 0 0 0 0 -26
+p88
+aVNolan Smith POR 03/30/2013 POR @ GSW L 7 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -4
+p89
+aVWill Barton POR 03/30/2013 POR @ GSW L 12 0 0 5 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -18
+p90
+aVJJ Hickson POR 03/30/2013 POR @ GSW L 28 15 5 8 62.5 0 0 - 5 7 71.4 2 8 10 0 0 0 2 2 -7
+p91
+aVWesley Matthews POR 03/30/2013 POR @ GSW L 32 18 6 11 54.5 2 6 33.3 4 5 80.0 2 1 3 0 2 0 1 2 -9
+p92
+aVJoel Freeland POR 03/30/2013 POR @ GSW L 10 0 0 5 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -17
+p93
+aVLuke Babbitt POR 03/30/2013 POR @ GSW L 10 5 2 4 50.0 1 2 50.0 0 0 - 1 4 5 0 0 0 0 1 -9
+p94
+aVMeyers Leonard POR 03/30/2013 POR @ GSW L 41 22 9 17 52.9 1 1 100.0 3 3 100.0 2 8 10 1 0 1 0 4 -11
+p95
+aVVictor Claver POR 03/30/2013 POR @ GSW L 14 3 1 3 33.3 0 0 - 1 1 100.0 1 1 2 0 1 0 0 1 -14
+p96
+aVNicolas Batum POR 03/30/2013 POR @ GSW L 37 8 2 10 20.0 2 8 25.0 2 2 100.0 1 2 3 9 1 0 2 2 -12
+p97
+aVDamian Lillard POR 03/30/2013 POR @ GSW L 31 16 4 11 36.4 2 3 66.7 6 7 85.7 0 1 1 8 1 0 3 4 -8
+p98
+aVVictor Claver POR 03/29/2013 POR vs. UTA L 18 6 3 6 50.0 0 3 0.0 0 1 0.0 1 3 4 1 1 2 0 3 -4
+p99
+aVWesley Matthews POR 03/29/2013 POR vs. UTA L 38 12 3 10 30.0 2 4 50.0 4 4 100.0 0 5 5 2 1 0 2 2 -15
+p100
+aVMeyers Leonard POR 03/29/2013 POR vs. UTA L 32 12 5 11 45.5 0 0 - 2 2 100.0 1 2 3 1 0 0 3 4 10
+p101
+aVJoel Freeland POR 03/29/2013 POR vs. UTA L 14 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 -10
+p102
+aVJJ Hickson POR 03/29/2013 POR vs. UTA L 36 17 8 11 72.7 0 0 - 1 4 25.0 2 12 14 2 0 0 2 0 -17
+p103
+aVLuke Babbitt POR 03/29/2013 POR vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p104
+aVDamian Lillard POR 03/29/2013 POR vs. UTA L 40 24 7 16 43.8 0 1 0.0 10 14 71.4 0 2 2 7 1 0 2 3 -15
+p105
+aVNicolas Batum POR 03/29/2013 POR vs. UTA L 40 17 4 6 66.7 3 4 75.0 6 7 85.7 0 2 2 4 0 1 4 4 -4
+p106
+aVEric Maynor POR 03/29/2013 POR vs. UTA L 21 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 5 0 0 2 2 6
+p107
+aVLuke Babbitt POR 03/27/2013 POR vs. BKN L 9 5 1 3 33.3 1 2 50.0 2 2 100.0 1 0 1 0 0 0 1 1 7
+p108
+aVWill Barton POR 03/27/2013 POR vs. BKN L 10 5 1 3 33.3 0 1 0.0 3 3 100.0 1 1 2 0 1 0 1 1 5
+p109
+aVNolan Smith POR 03/27/2013 POR vs. BKN L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 7
+p110
+aVJoel Freeland POR 03/27/2013 POR vs. BKN L 12 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 0 2 0 2 8
+p111
+aVEric Maynor POR 03/27/2013 POR vs. BKN L 24 8 3 7 42.9 1 1 100.0 1 4 25.0 0 1 1 5 0 0 1 1 -7
+p112
+aVNicolas Batum POR 03/27/2013 POR vs. BKN L 30 6 2 10 20.0 2 5 40.0 0 0 - 1 3 4 6 0 1 0 4 -27
+p113
+aVWesley Matthews POR 03/27/2013 POR vs. BKN L 26 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 0 0 0 1 3 -26
+p114
+aVLaMarcus Aldridge POR 03/27/2013 POR vs. BKN L 32 24 11 14 78.6 0 0 - 2 2 100.0 0 4 4 3 0 1 2 3 -16
+p115
+aVJJ Hickson POR 03/27/2013 POR vs. BKN L 22 8 4 6 66.7 0 0 - 0 0 - 2 5 7 2 0 1 2 2 -23
+p116
+aVMeyers Leonard POR 03/27/2013 POR vs. BKN L 26 11 5 8 62.5 0 0 - 1 5 20.0 5 4 9 1 0 0 1 4 5
+p117
+aVDamian Lillard POR 03/27/2013 POR vs. BKN L 34 15 4 12 33.3 3 5 60.0 4 5 80.0 1 3 4 3 0 0 5 0 -14
+p118
+aVVictor Claver POR 03/27/2013 POR vs. BKN L 8 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p119
+aVJoel Freeland POR 03/24/2013 POR @ OKC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p120
+aVNolan Smith POR 03/24/2013 POR @ OKC L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -2
+p121
+aVNicolas Batum POR 03/24/2013 POR @ OKC L 37 13 4 11 36.4 2 6 33.3 3 4 75.0 2 6 8 8 0 2 1 3 -16
+p122
+aVDamian Lillard POR 03/24/2013 POR @ OKC L 38 19 7 16 43.8 4 9 44.4 1 2 50.0 2 2 4 6 0 0 2 1 -11
+p123
+aVEric Maynor POR 03/24/2013 POR @ OKC L 25 10 4 10 40.0 2 4 50.0 0 0 - 0 0 0 4 0 0 3 4 -12
+p124
+aVMeyers Leonard POR 03/24/2013 POR @ OKC L 24 9 4 4 100.0 0 0 - 1 2 50.0 1 0 1 2 0 0 2 3 -8
+p125
+aVLuke Babbitt POR 03/24/2013 POR @ OKC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p126
+aVJJ Hickson POR 03/24/2013 POR @ OKC L 27 12 6 11 54.5 0 0 - 0 1 0.0 0 7 7 2 2 1 3 3 2
+p127
+aVWill Barton POR 03/24/2013 POR @ OKC L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p128
+aVWesley Matthews POR 03/24/2013 POR @ OKC L 36 8 3 11 27.3 2 6 33.3 0 0 - 0 1 1 0 2 0 1 1 -22
+p129
+aVLaMarcus Aldridge POR 03/24/2013 POR @ OKC L 40 10 3 14 21.4 0 0 - 4 4 100.0 2 10 12 0 3 2 3 1 -22
+p130
+aVWill Barton POR 03/22/2013 POR @ ATL W 4 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -1
+p131
+aVLaMarcus Aldridge POR 03/22/2013 POR @ ATL W 39 20 8 20 40.0 0 0 - 4 6 66.7 3 10 13 4 0 2 2 2 12
+p132
+aVEric Maynor POR 03/22/2013 POR @ ATL W 22 8 4 10 40.0 0 1 0.0 0 0 - 1 0 1 5 0 0 1 1 -1
+p133
+aVWesley Matthews POR 03/22/2013 POR @ ATL W 40 28 10 17 58.8 5 8 62.5 3 3 100.0 0 4 4 0 2 0 1 2 8
+p134
+aVMeyers Leonard POR 03/22/2013 POR @ ATL W 29 4 2 6 33.3 0 0 - 0 0 - 3 6 9 1 0 0 0 2 9
+p135
+aVNicolas Batum POR 03/22/2013 POR @ ATL W 39 5 2 5 40.0 1 3 33.3 0 0 - 0 7 7 7 4 0 3 2 14
+p136
+aVJJ Hickson POR 03/22/2013 POR @ ATL W 28 15 6 10 60.0 0 0 - 3 5 60.0 2 8 10 1 1 0 0 4 1
+p137
+aVDamian Lillard POR 03/22/2013 POR @ ATL W 39 22 8 16 50.0 4 5 80.0 2 2 100.0 0 3 3 4 0 0 2 3 13
+p138
+aVWesley Matthews POR 03/21/2013 POR @ CHI W 39 11 4 8 50.0 3 5 60.0 0 0 - 0 1 1 1 0 0 0 2 12
+p139
+aVJoel Freeland POR 03/21/2013 POR @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p140
+aVDamian Lillard POR 03/21/2013 POR @ CHI W 37 24 9 17 52.9 4 7 57.1 2 2 100.0 1 3 4 7 0 0 5 1 11
+p141
+aVNicolas Batum POR 03/21/2013 POR @ CHI W 39 11 3 12 25.0 3 7 42.9 2 2 100.0 2 4 6 6 3 2 2 2 22
+p142
+aVLaMarcus Aldridge POR 03/21/2013 POR @ CHI W 34 28 14 23 60.9 0 0 - 0 1 0.0 2 6 8 3 0 2 0 4 10
+p143
+aVMeyers Leonard POR 03/21/2013 POR @ CHI W 26 8 3 6 50.0 0 0 - 2 2 100.0 0 5 5 0 0 1 0 3 1
+p144
+aVLuke Babbitt POR 03/21/2013 POR @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p145
+aVJJ Hickson POR 03/21/2013 POR @ CHI W 34 9 4 7 57.1 0 0 - 1 3 33.3 3 18 21 0 1 0 5 3 16
+p146
+aVNolan Smith POR 03/21/2013 POR @ CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p147
+aVWill Barton POR 03/21/2013 POR @ CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p148
+aVEric Maynor POR 03/21/2013 POR @ CHI W 24 8 4 9 44.4 0 2 0.0 0 0 - 0 0 0 2 0 0 2 0 6
+p149
+aVJJ Hickson POR 03/19/2013 POR @ MIL L 30 8 3 8 37.5 0 0 - 2 2 100.0 5 6 11 2 0 0 1 1 -9
+p150
+aVDamian Lillard POR 03/19/2013 POR @ MIL L 45 8 2 10 20.0 0 4 0.0 4 4 100.0 0 3 3 11 1 0 6 3 -3
+p151
+aVNicolas Batum POR 03/19/2013 POR @ MIL L 41 15 6 12 50.0 3 7 42.9 0 0 - 0 3 3 4 2 0 0 2 -3
+p152
+aVLaMarcus Aldridge POR 03/19/2013 POR @ MIL L 43 21 10 21 47.6 0 0 - 1 2 50.0 4 11 15 3 1 0 4 2 1
+p153
+aVLuke Babbitt POR 03/19/2013 POR @ MIL L 13 9 3 4 75.0 3 4 75.0 0 0 - 1 1 2 1 0 0 1 2 13
+p154
+aVMeyers Leonard POR 03/19/2013 POR @ MIL L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -7
+p155
+aVWesley Matthews POR 03/19/2013 POR @ MIL L 43 28 10 20 50.0 7 11 63.6 1 3 33.3 2 0 2 3 2 0 4 1 -2
+p156
+aVEric Maynor POR 03/19/2013 POR @ MIL L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -13
+p157
+aVWill Barton POR 03/19/2013 POR @ MIL L 5 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -2
+p158
+aVJoel Freeland POR 03/19/2013 POR @ MIL L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p159
+aVJoel Freeland POR 03/18/2013 POR @ PHI L 12 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 1 0 1 2 3
+p160
+aVWesley Matthews POR 03/18/2013 POR @ PHI L 40 6 3 12 25.0 0 5 0.0 0 0 - 1 3 4 6 4 1 0 4 0
+p161
+aVDamian Lillard POR 03/18/2013 POR @ PHI L 42 27 10 20 50.0 5 7 71.4 2 3 66.7 2 5 7 7 0 0 4 3 2
+p162
+aVWill Barton POR 03/18/2013 POR @ PHI L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -6
+p163
+aVNicolas Batum POR 03/18/2013 POR @ PHI L 39 9 3 9 33.3 3 8 37.5 0 0 - 0 3 3 4 0 2 2 0 0
+p164
+aVJJ Hickson POR 03/18/2013 POR @ PHI L 16 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 0 0 2 -10
+p165
+aVEric Maynor POR 03/18/2013 POR @ PHI L 17 4 1 4 25.0 1 1 100.0 1 2 50.0 0 2 2 4 0 1 1 1 -1
+p166
+aVLaMarcus Aldridge POR 03/18/2013 POR @ PHI L 39 32 13 28 46.4 1 2 50.0 5 5 100.0 5 9 14 3 0 1 4 0 -2
+p167
+aVMeyers Leonard POR 03/18/2013 POR @ PHI L 17 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 0 1 0 1 2
+p168
+aVLuke Babbitt POR 03/18/2013 POR @ PHI L 12 6 2 4 50.0 2 4 50.0 0 0 - 1 0 1 2 0 0 0 1 7
+p169
+aVLaMarcus Aldridge POR 03/16/2013 POR vs. DET W 38 31 13 21 61.9 0 0 - 5 5 100.0 3 9 12 3 1 0 2 2 11
+p170
+aVWill Barton POR 03/16/2013 POR vs. DET W 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 0 0 2 0
+p171
+aVMeyers Leonard POR 03/16/2013 POR vs. DET W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 1 0 3 5
+p172
+aVJoel Freeland POR 03/16/2013 POR vs. DET W 10 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 0 0 0 1 0
+p173
+aVEric Maynor POR 03/16/2013 POR vs. DET W 20 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 1 0 2 2 3
+p174
+aVNicolas Batum POR 03/16/2013 POR vs. DET W 38 17 7 14 50.0 3 7 42.9 0 0 - 2 3 5 6 0 3 1 3 6
+p175
+aVJJ Hickson POR 03/16/2013 POR vs. DET W 33 18 7 14 50.0 0 0 - 4 5 80.0 5 10 15 2 2 0 2 2 6
+p176
+aVDamian Lillard POR 03/16/2013 POR vs. DET W 38 14 3 12 25.0 1 5 20.0 7 7 100.0 0 2 2 7 0 0 2 3 8
+p177
+aVWesley Matthews POR 03/16/2013 POR vs. DET W 38 17 4 10 40.0 2 5 40.0 7 7 100.0 0 3 3 2 1 0 0 2 16
+p178
+aVWill Barton POR 03/14/2013 POR vs. NYK W 10 7 3 4 75.0 0 1 0.0 1 1 100.0 0 4 4 1 0 0 1 1 -7
+p179
+aVMeyers Leonard POR 03/14/2013 POR vs. NYK W 12 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -7
+p180
+aVLaMarcus Aldridge POR 03/14/2013 POR vs. NYK W 44 22 8 15 53.3 0 0 - 6 6 100.0 0 10 10 2 1 5 1 2 17
+p181
+aVEric Maynor POR 03/14/2013 POR vs. NYK W 19 8 3 7 42.9 0 2 0.0 2 4 50.0 0 0 0 2 1 0 1 0 -5
+p182
+aVNicolas Batum POR 03/14/2013 POR vs. NYK W 39 16 6 10 60.0 4 7 57.1 0 1 0.0 1 3 4 6 2 1 3 4 24
+p183
+aVJJ Hickson POR 03/14/2013 POR vs. NYK W 34 12 5 14 35.7 0 0 - 2 4 50.0 6 10 16 1 0 0 4 1 19
+p184
+aVDamian Lillard POR 03/14/2013 POR vs. NYK W 40 26 11 18 61.1 4 11 36.4 0 1 0.0 1 1 2 10 2 0 1 3 25
+p185
+aVWesley Matthews POR 03/14/2013 POR vs. NYK W 41 14 4 10 40.0 2 7 28.6 4 4 100.0 1 4 5 1 2 0 3 2 9
+p186
+aVLaMarcus Aldridge POR 03/12/2013 POR vs. MEM L 40 28 10 19 52.6 0 0 - 8 8 100.0 4 6 10 4 1 4 4 3 8
+p187
+aVWill Barton POR 03/12/2013 POR vs. MEM L 11 3 1 3 33.3 0 1 0.0 1 2 50.0 1 0 1 1 0 0 0 1 -6
+p188
+aVJJ Hickson POR 03/12/2013 POR vs. MEM L 26 8 3 10 30.0 0 0 - 2 2 100.0 3 6 9 0 2 0 2 2 -16
+p189
+aVEric Maynor POR 03/12/2013 POR vs. MEM L 26 11 3 8 37.5 0 2 0.0 5 5 100.0 2 2 4 1 1 0 2 3 7
+p190
+aVWesley Matthews POR 03/12/2013 POR vs. MEM L 34 8 3 10 30.0 2 5 40.0 0 0 - 1 3 4 2 0 0 2 2 -13
+p191
+aVNicolas Batum POR 03/12/2013 POR vs. MEM L 41 4 0 5 0.0 0 3 0.0 4 4 100.0 1 9 10 2 2 2 3 4 6
+p192
+aVJoel Freeland POR 03/12/2013 POR vs. MEM L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p193
+aVMeyers Leonard POR 03/12/2013 POR vs. MEM L 17 6 3 6 50.0 0 0 - 0 0 - 2 5 7 0 0 0 1 4 -2
+p194
+aVDamian Lillard POR 03/12/2013 POR vs. MEM L 39 27 8 17 47.1 3 5 60.0 8 8 100.0 0 1 1 7 0 0 2 3 -4
+p195
+aVLaMarcus Aldridge POR 03/10/2013 POR @ NOH L 40 16 6 14 42.9 0 0 - 4 4 100.0 2 4 6 1 1 0 2 3 16
+p196
+aVEric Maynor POR 03/10/2013 POR @ NOH L 20 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 4 0 0 3 0 -18
+p197
+aVWesley Matthews POR 03/10/2013 POR @ NOH L 38 24 8 15 53.3 6 11 54.5 2 2 100.0 0 4 4 2 2 0 0 2 18
+p198
+aVDamian Lillard POR 03/10/2013 POR @ NOH L 38 20 9 16 56.3 2 5 40.0 0 1 0.0 0 2 2 8 1 0 4 0 5
+p199
+aVJared Jeffries POR 03/10/2013 POR @ NOH L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p200
+aVWill Barton POR 03/10/2013 POR @ NOH L 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -7
+p201
+aVJJ Hickson POR 03/10/2013 POR @ NOH L 36 14 6 12 50.0 0 0 - 2 2 100.0 3 11 14 1 3 1 2 1 3
+p202
+aVLuke Babbitt POR 03/10/2013 POR @ NOH L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p203
+aVNicolas Batum POR 03/10/2013 POR @ NOH L 40 11 3 8 37.5 2 6 33.3 3 3 100.0 1 1 2 3 1 0 0 2 -8
+p204
+aVJared Jeffries POR 03/08/2013 POR @ SAS W 9 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 1 1 14
+p205
+aVNolan Smith POR 03/08/2013 POR @ SAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p206
+aVNicolas Batum POR 03/08/2013 POR @ SAS W 38 2 1 5 20.0 0 3 0.0 0 0 - 1 7 8 5 0 2 0 4 16
+p207
+aVWesley Matthews POR 03/08/2013 POR @ SAS W 35 15 5 9 55.6 5 7 71.4 0 2 0.0 0 4 4 1 2 1 2 0 17
+p208
+aVJoel Freeland POR 03/08/2013 POR @ SAS W 3 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 8
+p209
+aVWill Barton POR 03/08/2013 POR @ SAS W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 1 8
+p210
+aVLaMarcus Aldridge POR 03/08/2013 POR @ SAS W 34 26 12 18 66.7 0 0 - 2 2 100.0 2 3 5 2 1 1 2 2 -1
+p211
+aVLuke Babbitt POR 03/08/2013 POR @ SAS W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 16
+p212
+aVVictor Claver POR 03/08/2013 POR @ SAS W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p213
+aVJJ Hickson POR 03/08/2013 POR @ SAS W 32 23 9 15 60.0 0 0 - 5 7 71.4 1 10 11 1 0 1 2 2 16
+p214
+aVEric Maynor POR 03/08/2013 POR @ SAS W 23 20 8 11 72.7 2 3 66.7 2 2 100.0 0 1 1 6 2 0 3 0 19
+p215
+aVDamian Lillard POR 03/08/2013 POR @ SAS W 40 35 12 20 60.0 3 4 75.0 8 8 100.0 1 2 3 9 2 0 0 3 33
+p216
+aVMeyers Leonard POR 03/08/2013 POR @ SAS W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 1 1
+p217
+aVWesley Matthews POR 03/06/2013 POR @ MEM L 34 11 4 11 36.4 1 6 16.7 2 4 50.0 1 1 2 2 0 0 0 3 -1
+p218
+aVDamian Lillard POR 03/06/2013 POR @ MEM L 36 20 8 16 50.0 2 6 33.3 2 3 66.7 0 0 0 4 1 0 2 2 -6
+p219
+aVWill Barton POR 03/06/2013 POR @ MEM L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 4
+p220
+aVVictor Claver POR 03/06/2013 POR @ MEM L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 1 1 0 1 -6
+p221
+aVEric Maynor POR 03/06/2013 POR @ MEM L 25 12 3 5 60.0 2 3 66.7 4 6 66.7 0 4 4 4 1 0 2 2 -11
+p222
+aVMeyers Leonard POR 03/06/2013 POR @ MEM L 16 5 2 4 50.0 0 0 - 1 2 50.0 0 4 4 0 0 1 0 3 -3
+p223
+aVJJ Hickson POR 03/06/2013 POR @ MEM L 31 12 6 12 50.0 0 0 - 0 0 - 3 10 13 0 1 2 1 4 -3
+p224
+aVNicolas Batum POR 03/06/2013 POR @ MEM L 37 10 4 10 40.0 1 4 25.0 1 3 33.3 1 3 4 3 0 0 1 1 -2
+p225
+aVLaMarcus Aldridge POR 03/06/2013 POR @ MEM L 37 10 2 13 15.4 0 0 - 6 8 75.0 2 8 10 6 2 0 2 2 -2
+p226
+aVMeyers Leonard POR 03/04/2013 POR vs. CHA W 21 15 6 8 75.0 0 0 - 3 4 75.0 1 5 6 1 0 0 1 3 8
+p227
+aVJJ Hickson POR 03/04/2013 POR vs. CHA W 27 15 7 9 77.8 0 0 - 1 2 50.0 3 5 8 1 1 2 0 0 9
+p228
+aVDamian Lillard POR 03/04/2013 POR vs. CHA W 38 20 8 15 53.3 3 8 37.5 1 2 50.0 0 3 3 7 2 0 2 1 17
+p229
+aVWesley Matthews POR 03/04/2013 POR vs. CHA W 36 14 5 10 50.0 4 7 57.1 0 0 - 0 1 1 4 0 1 2 3 17
+p230
+aVNicolas Batum POR 03/04/2013 POR vs. CHA W 37 20 8 11 72.7 4 6 66.7 0 0 - 2 2 4 5 0 1 1 0 13
+p231
+aVLaMarcus Aldridge POR 03/04/2013 POR vs. CHA W 35 23 8 16 50.0 0 0 - 7 9 77.8 5 9 14 5 0 3 3 5 6
+p232
+aVVictor Claver POR 03/04/2013 POR vs. CHA W 18 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 3 0 1 1 2 8
+p233
+aVWill Barton POR 03/04/2013 POR vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p234
+aVJoel Freeland POR 03/04/2013 POR vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 5
+p235
+aVEric Maynor POR 03/04/2013 POR vs. CHA W 24 10 5 8 62.5 0 1 0.0 0 0 - 0 2 2 3 0 0 1 2 2
+p236
+aVJJ Hickson POR 03/02/2013 POR vs. MIN W 27 18 7 8 87.5 0 0 - 4 7 57.1 4 12 16 3 0 0 4 5 10
+p237
+aVNicolas Batum POR 03/02/2013 POR vs. MIN W 35 12 4 12 33.3 2 7 28.6 2 2 100.0 2 5 7 3 2 3 1 3 13
+p238
+aVDamian Lillard POR 03/02/2013 POR vs. MIN W 39 24 9 18 50.0 2 5 40.0 4 4 100.0 2 4 6 4 0 0 0 3 22
+p239
+aVWesley Matthews POR 03/02/2013 POR vs. MIN W 23 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 3 0 0 0 4 10
+p240
+aVMeyers Leonard POR 03/02/2013 POR vs. MIN W 21 12 6 7 85.7 0 0 - 0 2 0.0 2 6 8 0 0 0 2 2 5
+p241
+aVEric Maynor POR 03/02/2013 POR vs. MIN W 31 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 12 0 0 4 3 4
+p242
+aVJoel Freeland POR 03/02/2013 POR vs. MIN W 4 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 1 1 1 -3
+p243
+aVVictor Claver POR 03/02/2013 POR vs. MIN W 14 10 4 6 66.7 1 2 50.0 1 2 50.0 1 2 3 2 1 1 0 3 3
+p244
+aVWill Barton POR 03/02/2013 POR vs. MIN W 16 0 0 7 0.0 0 2 0.0 0 0 - 1 0 1 1 1 0 0 2 -4
+p245
+aVLaMarcus Aldridge POR 03/02/2013 POR vs. MIN W 30 17 7 16 43.8 0 0 - 3 5 60.0 3 5 8 4 0 2 1 4 15
+p246
+aVMeyers Leonard POR 02/27/2013 POR vs. DEN L 16 13 4 7 57.1 0 0 - 5 5 100.0 2 3 5 1 0 0 0 4 -5
+p247
+aVLuke Babbitt POR 02/27/2013 POR vs. DEN L 0 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p248
+aVNicolas Batum POR 02/27/2013 POR vs. DEN L 40 10 4 9 44.4 2 4 50.0 0 0 - 0 6 6 9 5 3 4 3 9
+p249
+aVWill Barton POR 02/27/2013 POR vs. DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p250
+aVDamian Lillard POR 02/27/2013 POR vs. DEN L 37 26 8 14 57.1 4 6 66.7 6 8 75.0 1 2 3 4 1 0 5 4 6
+p251
+aVEric Maynor POR 02/27/2013 POR vs. DEN L 14 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 2 -13
+p252
+aVJJ Hickson POR 02/27/2013 POR vs. DEN L 32 18 5 9 55.6 0 0 - 8 9 88.9 6 8 14 2 1 0 3 3 1
+p253
+aVVictor Claver POR 02/27/2013 POR vs. DEN L 23 4 2 6 33.3 0 3 0.0 0 0 - 1 3 4 1 0 0 3 2 -15
+p254
+aVLaMarcus Aldridge POR 02/27/2013 POR vs. DEN L 41 22 11 24 45.8 0 0 - 0 1 0.0 1 4 5 3 1 1 2 1 5
+p255
+aVWesley Matthews POR 02/27/2013 POR vs. DEN L 32 16 4 12 33.3 4 11 36.4 4 4 100.0 1 0 1 2 0 0 1 5 -5
+p256
+aVEric Maynor POR 02/24/2013 POR vs. BOS W 15 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 3 0 0 1 1 4
+p257
+aVDamian Lillard POR 02/24/2013 POR vs. BOS W 39 12 5 16 31.3 0 5 0.0 2 2 100.0 1 5 6 6 0 0 2 0 4
+p258
+aVMeyers Leonard POR 02/24/2013 POR vs. BOS W 16 3 1 3 33.3 0 0 - 1 1 100.0 2 4 6 0 0 1 1 2 -1
+p259
+aVWill Barton POR 02/24/2013 POR vs. BOS W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p260
+aVJJ Hickson POR 02/24/2013 POR vs. BOS W 30 11 4 8 50.0 0 0 - 3 4 75.0 4 7 11 3 1 0 3 1 3
+p261
+aVJoel Freeland POR 02/24/2013 POR vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p262
+aVLaMarcus Aldridge POR 02/24/2013 POR vs. BOS W 31 16 7 15 46.7 0 0 - 2 2 100.0 1 3 4 3 0 0 2 3 2
+p263
+aVWesley Matthews POR 02/24/2013 POR vs. BOS W 38 24 8 11 72.7 5 8 62.5 3 5 60.0 0 1 1 3 1 0 2 2 6
+p264
+aVVictor Claver POR 02/24/2013 POR vs. BOS W 20 4 2 4 50.0 0 0 - 0 0 - 1 9 10 0 2 1 1 2 14
+p265
+aVNicolas Batum POR 02/24/2013 POR vs. BOS W 40 18 6 14 42.9 2 6 33.3 4 5 80.0 2 4 6 3 0 0 3 2 5
+p266
+aVDamian Lillard POR 02/22/2013 POR @ LAL L 40 19 9 22 40.9 1 5 20.0 0 0 - 0 3 3 7 1 0 1 3 -8
+p267
+aVWesley Matthews POR 02/22/2013 POR @ LAL L 36 15 5 10 50.0 4 7 57.1 1 2 50.0 0 2 2 8 1 0 2 4 -1
+p268
+aVJJ Hickson POR 02/22/2013 POR @ LAL L 35 22 11 15 73.3 0 0 - 0 0 - 2 9 11 2 0 0 3 2 -3
+p269
+aVWill Barton POR 02/22/2013 POR @ LAL L 19 5 2 7 28.6 0 1 0.0 1 1 100.0 0 5 5 0 0 0 1 0 -4
+p270
+aVNicolas Batum POR 02/22/2013 POR @ LAL L 38 22 9 14 64.3 2 5 40.0 2 3 66.7 1 7 8 4 3 0 2 2 -1
+p271
+aVVictor Claver POR 02/22/2013 POR @ LAL L 14 3 1 1 100.0 1 1 100.0 0 2 0.0 0 1 1 0 0 1 1 5 -10
+p272
+aVNolan Smith POR 02/22/2013 POR @ LAL L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 3 0
+p273
+aVLaMarcus Aldridge POR 02/22/2013 POR @ LAL L 34 15 6 19 31.6 0 1 0.0 3 4 75.0 2 4 6 3 2 0 4 5 10
+p274
+aVSasha Pavlovic POR 02/22/2013 POR @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p275
+aVMeyers Leonard POR 02/22/2013 POR @ LAL L 13 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 1 0 4 -1
+p276
+aVLaMarcus Aldridge POR 02/19/2013 POR vs. PHX L 40 23 7 16 43.8 0 0 - 9 9 100.0 3 2 5 1 0 0 1 3 -2
+p277
+aVLuke Babbitt POR 02/19/2013 POR vs. PHX L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p278
+aVSasha Pavlovic POR 02/19/2013 POR vs. PHX L 17 2 1 5 20.0 0 2 0.0 0 1 0.0 0 3 3 1 0 0 2 3 -8
+p279
+aVWill Barton POR 02/19/2013 POR vs. PHX L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 2 0 0 0 -4
+p280
+aVMeyers Leonard POR 02/19/2013 POR vs. PHX L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -1
+p281
+aVNolan Smith POR 02/19/2013 POR vs. PHX L 17 1 0 4 0.0 0 2 0.0 1 2 50.0 0 4 4 0 1 0 1 1 11
+p282
+aVJJ Hickson POR 02/19/2013 POR vs. PHX L 39 25 10 14 71.4 0 0 - 5 7 71.4 6 10 16 1 1 1 2 1 1
+p283
+aVDamian Lillard POR 02/19/2013 POR vs. PHX L 41 24 8 19 42.1 3 8 37.5 5 5 100.0 0 0 0 7 0 0 6 0 -3
+p284
+aVVictor Claver POR 02/19/2013 POR vs. PHX L 21 4 1 2 50.0 1 2 50.0 1 2 50.0 0 2 2 2 2 0 0 2 -4
+p285
+aVJared Jeffries POR 02/19/2013 POR vs. PHX L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p286
+aVNicolas Batum POR 02/19/2013 POR vs. PHX L 41 15 5 14 35.7 2 4 50.0 3 4 75.0 3 2 5 5 1 0 2 1 -4
+p287
+aVNicolas Batum POR 02/13/2013 POR @ NOH L 31 3 1 10 10.0 1 6 16.7 0 0 - 1 3 4 6 0 2 0 1 -17
+p288
+aVJoel Freeland POR 02/13/2013 POR @ NOH L 17 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -17
+p289
+aVWesley Matthews POR 02/13/2013 POR @ NOH L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p290
+aVDamian Lillard POR 02/13/2013 POR @ NOH L 35 12 4 15 26.7 0 2 0.0 4 4 100.0 0 2 2 4 1 0 3 3 -22
+p291
+aVMeyers Leonard POR 02/13/2013 POR @ NOH L 18 6 1 3 33.3 0 0 - 4 4 100.0 0 3 3 0 0 0 0 3 -19
+p292
+aVJJ Hickson POR 02/13/2013 POR @ NOH L 22 10 4 5 80.0 0 0 - 2 2 100.0 1 4 5 2 0 2 1 1 -10
+p293
+aVLuke Babbitt POR 02/13/2013 POR @ NOH L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 0 -9
+p294
+aVLaMarcus Aldridge POR 02/13/2013 POR @ NOH L 30 6 2 11 18.2 0 0 - 2 2 100.0 1 2 3 0 2 4 3 2 -18
+p295
+aVWill Barton POR 02/13/2013 POR @ NOH L 26 9 4 12 33.3 0 2 0.0 1 1 100.0 0 4 4 1 0 0 3 1 -27
+p296
+aVVictor Claver POR 02/13/2013 POR @ NOH L 36 11 5 10 50.0 1 5 20.0 0 0 - 2 4 6 2 1 1 2 1 -27
+p297
+aVRonnie Price POR 02/13/2013 POR @ NOH L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 0 -14
+p298
+aVVictor Claver POR 02/12/2013 POR @ MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p299
+aVJoel Freeland POR 02/12/2013 POR @ MIA L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p300
+aVJared Jeffries POR 02/12/2013 POR @ MIA L 20 7 2 5 40.0 0 0 - 3 4 75.0 1 2 3 1 0 0 0 2 24
+p301
+aVNicolas Batum POR 02/12/2013 POR @ MIA L 39 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 4 0 2 5 3 -23
+p302
+aVSasha Pavlovic POR 02/12/2013 POR @ MIA L 22 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 5 11
+p303
+aVLuke Babbitt POR 02/12/2013 POR @ MIA L 16 3 1 4 25.0 1 4 25.0 0 0 - 0 3 3 0 0 0 0 0 16
+p304
+aVRonnie Price POR 02/12/2013 POR @ MIA L 10 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 2 1 0 1 0 8
+p305
+aVWesley Matthews POR 02/12/2013 POR @ MIA L 37 20 8 13 61.5 3 6 50.0 1 1 100.0 0 6 6 3 0 0 2 2 -31
+p306
+aVNolan Smith POR 02/12/2013 POR @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p307
+aVDamian Lillard POR 02/12/2013 POR @ MIA L 39 33 10 18 55.6 3 8 37.5 10 11 90.9 0 1 1 3 0 0 4 2 -21
+p308
+aVJJ Hickson POR 02/12/2013 POR @ MIA L 13 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 0 1 0 0 3 -18
+p309
+aVLaMarcus Aldridge POR 02/12/2013 POR @ MIA L 37 29 13 20 65.0 0 0 - 3 3 100.0 2 3 5 1 0 0 2 0 -31
+p310
+aVVictor Claver POR 02/10/2013 POR @ ORL L 14 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 8
+p311
+aVWill Barton POR 02/10/2013 POR @ ORL L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p312
+aVNolan Smith POR 02/10/2013 POR @ ORL L 8 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -2
+p313
+aVWesley Matthews POR 02/10/2013 POR @ ORL L 36 17 6 12 50.0 4 9 44.4 1 2 50.0 1 4 5 3 1 0 0 2 -4
+p314
+aVLaMarcus Aldridge POR 02/10/2013 POR @ ORL L 38 25 12 21 57.1 0 0 - 1 1 100.0 0 6 6 5 0 1 0 2 -9
+p315
+aVLuke Babbitt POR 02/10/2013 POR @ ORL L 9 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 1 0 0 0 3 -3
+p316
+aVJJ Hickson POR 02/10/2013 POR @ ORL L 31 11 5 6 83.3 0 0 - 1 1 100.0 2 5 7 0 0 0 2 2 -9
+p317
+aVDamian Lillard POR 02/10/2013 POR @ ORL L 40 4 1 16 6.3 0 8 0.0 2 2 100.0 0 3 3 12 1 1 4 0 -4
+p318
+aVMeyers Leonard POR 02/10/2013 POR @ ORL L 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -2
+p319
+aVJoel Freeland POR 02/10/2013 POR @ ORL L 10 6 3 4 75.0 0 0 - 0 1 0.0 1 5 6 2 1 0 1 0 11
+p320
+aVNicolas Batum POR 02/10/2013 POR @ ORL L 39 19 6 12 50.0 4 6 66.7 3 3 100.0 1 7 8 6 0 1 5 0 -14
+p321
+aVMeyers Leonard POR 02/08/2013 POR @ HOU L 19 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 1 1
+p322
+aVVictor Claver POR 02/08/2013 POR @ HOU L 23 5 2 6 33.3 1 3 33.3 0 0 - 3 2 5 1 1 1 2 1 -5
+p323
+aVNicolas Batum POR 02/08/2013 POR @ HOU L 37 24 7 12 58.3 4 8 50.0 6 6 100.0 1 1 2 3 0 3 3 0 -14
+p324
+aVJoel Freeland POR 02/08/2013 POR @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p325
+aVWesley Matthews POR 02/08/2013 POR @ HOU L 34 2 1 9 11.1 0 6 0.0 0 0 - 0 1 1 3 1 0 1 2 -15
+p326
+aVWill Barton POR 02/08/2013 POR @ HOU L 8 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 0 2
+p327
+aVNolan Smith POR 02/08/2013 POR @ HOU L 15 6 2 7 28.6 0 0 - 2 2 100.0 3 2 5 2 1 0 1 3 3
+p328
+aVLaMarcus Aldridge POR 02/08/2013 POR @ HOU L 38 31 14 23 60.9 0 0 - 3 5 60.0 1 10 11 2 0 0 0 1 -15
+p329
+aVJJ Hickson POR 02/08/2013 POR @ HOU L 21 12 6 11 54.5 0 0 - 0 0 - 5 1 6 2 1 0 2 2 -16
+p330
+aVLuke Babbitt POR 02/08/2013 POR @ HOU L 8 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 0 0 0 0 0 -2
+p331
+aVDamian Lillard POR 02/08/2013 POR @ HOU L 33 18 7 13 53.8 2 5 40.0 2 3 66.7 0 3 3 6 0 0 2 2 -18
+p332
+aVNolan Smith POR 02/06/2013 POR @ DAL L 9 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -16
+p333
+aVVictor Claver POR 02/06/2013 POR @ DAL L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 1 -9
+p334
+aVMeyers Leonard POR 02/06/2013 POR @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p335
+aVJJ Hickson POR 02/06/2013 POR @ DAL L 33 14 5 9 55.6 0 0 - 4 5 80.0 3 7 10 0 1 0 3 3 3
+p336
+aVLuke Babbitt POR 02/06/2013 POR @ DAL L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 0 0 0 0 4 -3
+p337
+aVLaMarcus Aldridge POR 02/06/2013 POR @ DAL L 39 27 11 22 50.0 0 0 - 5 6 83.3 3 7 10 2 0 0 0 2 -9
+p338
+aVDamian Lillard POR 02/06/2013 POR @ DAL L 39 19 6 17 35.3 3 8 37.5 4 4 100.0 0 4 4 6 1 1 0 2 8
+p339
+aVNicolas Batum POR 02/06/2013 POR @ DAL L 41 9 3 8 37.5 1 5 20.0 2 2 100.0 1 5 6 6 1 0 1 3 5
+p340
+aVJared Jeffries POR 02/06/2013 POR @ DAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 4
+p341
+aVWesley Matthews POR 02/06/2013 POR @ DAL L 37 21 7 16 43.8 5 12 41.7 2 2 100.0 0 1 1 4 3 0 1 5 -7
+p342
+aVWill Barton POR 02/06/2013 POR @ DAL L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p343
+aVJJ Hickson POR 02/04/2013 POR @ MIN W 36 8 4 6 66.7 0 0 - 0 0 - 3 6 9 0 0 1 4 4 4
+p344
+aVVictor Claver POR 02/04/2013 POR @ MIN W 17 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 0 20
+p345
+aVLaMarcus Aldridge POR 02/04/2013 POR @ MIN W 39 25 12 17 70.6 0 0 - 1 5 20.0 2 11 13 5 1 2 2 2 4
+p346
+aVNicolas Batum POR 02/04/2013 POR @ MIN W 35 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 2 0 2 7 1 -23
+p347
+aVLuke Babbitt POR 02/04/2013 POR @ MIN W 14 7 2 4 50.0 2 4 50.0 1 2 50.0 0 0 0 0 0 1 1 3 -6
+p348
+aVNolan Smith POR 02/04/2013 POR @ MIN W 10 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 3 1 0 3 4 10
+p349
+aVWesley Matthews POR 02/04/2013 POR @ MIN W 39 22 7 11 63.6 4 8 50.0 4 4 100.0 0 3 3 5 0 1 5 3 12
+p350
+aVWill Barton POR 02/04/2013 POR @ MIN W 6 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -5
+p351
+aVMeyers Leonard POR 02/04/2013 POR @ MIN W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 2
+p352
+aVDamian Lillard POR 02/04/2013 POR @ MIN W 38 21 9 17 52.9 0 2 0.0 3 3 100.0 0 4 4 6 3 0 5 5 -8
+p353
+aVNolan Smith POR 02/02/2013 POR vs. UTA W 18 13 5 7 71.4 2 3 66.7 1 2 50.0 1 0 1 2 1 0 1 2 7
+p354
+aVNicolas Batum POR 02/02/2013 POR vs. UTA W 39 12 4 7 57.1 2 4 50.0 2 3 66.7 1 9 10 9 0 1 4 3 6
+p355
+aVLuke Babbitt POR 02/02/2013 POR vs. UTA W 24 8 2 5 40.0 2 4 50.0 2 2 100.0 0 5 5 0 0 1 1 3 7
+p356
+aVVictor Claver POR 02/02/2013 POR vs. UTA W 18 3 1 4 25.0 1 1 100.0 0 0 - 2 1 3 1 0 0 0 1 -3
+p357
+aVMeyers Leonard POR 02/02/2013 POR vs. UTA W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 2 5
+p358
+aVJJ Hickson POR 02/02/2013 POR vs. UTA W 36 21 6 11 54.5 0 0 - 9 11 81.8 3 8 11 2 1 1 2 2 -12
+p359
+aVWill Barton POR 02/02/2013 POR vs. UTA W 16 7 3 6 50.0 0 1 0.0 1 2 50.0 0 3 3 2 0 1 0 0 3
+p360
+aVLaMarcus Aldridge POR 02/02/2013 POR vs. UTA W 42 18 8 18 44.4 0 0 - 2 6 33.3 3 8 11 1 0 2 3 1 15
+p361
+aVDamian Lillard POR 02/02/2013 POR vs. UTA W 40 23 9 17 52.9 3 5 60.0 2 2 100.0 0 3 3 8 0 0 4 3 2
+p362
+aVNicolas Batum POR 02/01/2013 POR @ UTA L 38 5 2 7 28.6 1 1 100.0 0 0 - 2 4 6 3 2 3 3 3 -10
+p363
+aVWill Barton POR 02/01/2013 POR @ UTA L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p364
+aVLaMarcus Aldridge POR 02/01/2013 POR @ UTA L 37 16 6 17 35.3 0 0 - 4 7 57.1 5 5 10 4 0 1 1 3 -3
+p365
+aVDamian Lillard POR 02/01/2013 POR @ UTA L 42 26 10 23 43.5 3 8 37.5 3 3 100.0 0 3 3 5 0 1 4 1 -3
+p366
+aVRonnie Price POR 02/01/2013 POR @ UTA L 15 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 1 -1
+p367
+aVVictor Claver POR 02/01/2013 POR @ UTA L 17 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 2 0 0 2 4
+p368
+aVNolan Smith POR 02/01/2013 POR @ UTA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p369
+aVWesley Matthews POR 02/01/2013 POR @ UTA L 27 9 3 8 37.5 1 4 25.0 2 2 100.0 0 3 3 0 1 2 2 2 -12
+p370
+aVJared Jeffries POR 02/01/2013 POR @ UTA L 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -9
+p371
+aVJJ Hickson POR 02/01/2013 POR @ UTA L 27 11 4 6 66.7 0 0 - 3 4 75.0 1 5 6 0 1 1 4 2 -5
+p372
+aVLuke Babbitt POR 02/01/2013 POR @ UTA L 21 6 2 6 33.3 2 4 50.0 0 0 - 0 5 5 0 0 0 0 3 4
+p373
+aVMeyers Leonard POR 02/01/2013 POR @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -8
+p374
+aVMeyers Leonard POR 01/29/2013 POR vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p375
+aVWill Barton POR 01/29/2013 POR vs. DAL W 6 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 2 2 -9
+p376
+aVLaMarcus Aldridge POR 01/29/2013 POR vs. DAL W 42 29 12 20 60.0 1 1 100.0 4 5 80.0 4 9 13 3 1 2 1 1 7
+p377
+aVRonnie Price POR 01/29/2013 POR vs. DAL W 10 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 1
+p378
+aVNicolas Batum POR 01/29/2013 POR vs. DAL W 40 10 4 14 28.6 2 5 40.0 0 2 0.0 2 2 4 6 0 1 1 0 1
+p379
+aVLuke Babbitt POR 01/29/2013 POR vs. DAL W 9 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 1 0 0 0 0 20
+p380
+aVSasha Pavlovic POR 01/29/2013 POR vs. DAL W 9 4 2 3 66.7 0 1 0.0 0 1 0.0 0 0 0 1 1 0 0 3 13
+p381
+aVJJ Hickson POR 01/29/2013 POR vs. DAL W 36 26 9 13 69.2 0 0 - 8 8 100.0 4 11 15 1 1 2 3 1 -8
+p382
+aVDamian Lillard POR 01/29/2013 POR vs. DAL W 40 10 3 11 27.3 2 6 33.3 2 2 100.0 0 1 1 8 1 0 3 3 6
+p383
+aVWesley Matthews POR 01/29/2013 POR vs. DAL W 39 17 5 15 33.3 3 9 33.3 4 5 80.0 2 4 6 4 4 0 4 1 -6
+p384
+aVJared Jeffries POR 01/29/2013 POR vs. DAL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -11
+p385
+aVWill Barton POR 01/27/2013 POR @ LAC L 15 8 2 5 40.0 0 1 0.0 4 4 100.0 1 2 3 0 2 1 2 1 -4
+p386
+aVRonnie Price POR 01/27/2013 POR @ LAC L 12 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 1 -3
+p387
+aVNolan Smith POR 01/27/2013 POR @ LAC L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p388
+aVDamian Lillard POR 01/27/2013 POR @ LAC L 37 16 5 14 35.7 2 7 28.6 4 4 100.0 0 2 2 5 1 1 5 2 -14
+p389
+aVJoel Freeland POR 01/27/2013 POR @ LAC L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p390
+aVVictor Claver POR 01/27/2013 POR @ LAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p391
+aVLuke Babbitt POR 01/27/2013 POR @ LAC L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 0 1 0 1 2 -11
+p392
+aVMeyers Leonard POR 01/27/2013 POR @ LAC L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -2
+p393
+aVLaMarcus Aldridge POR 01/27/2013 POR @ LAC L 39 21 9 14 64.3 0 0 - 3 4 75.0 5 6 11 4 1 1 1 1 -10
+p394
+aVNicolas Batum POR 01/27/2013 POR @ LAC L 35 8 3 5 60.0 0 0 - 2 3 66.7 1 5 6 8 0 0 4 1 -15
+p395
+aVJJ Hickson POR 01/27/2013 POR @ LAC L 31 15 5 9 55.6 0 0 - 5 8 62.5 1 8 9 1 1 1 2 2 -8
+p396
+aVWesley Matthews POR 01/27/2013 POR @ LAC L 36 7 3 9 33.3 1 4 25.0 0 0 - 1 0 1 8 3 0 3 1 -7
+p397
+aVWesley Matthews POR 01/26/2013 POR vs. LAC W 39 18 5 10 50.0 1 5 20.0 7 7 100.0 0 1 1 2 3 0 2 4 -3
+p398
+aVMeyers Leonard POR 01/26/2013 POR vs. LAC W 16 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 3 14
+p399
+aVWill Barton POR 01/26/2013 POR vs. LAC W 16 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 0 1 0 1 1 3
+p400
+aVJJ Hickson POR 01/26/2013 POR vs. LAC W 30 15 6 10 60.0 0 0 - 3 4 75.0 3 4 7 2 0 0 0 3 -11
+p401
+aVLaMarcus Aldridge POR 01/26/2013 POR vs. LAC W 40 12 5 14 35.7 0 0 - 2 2 100.0 1 5 6 3 0 0 2 3 4
+p402
+aVLuke Babbitt POR 01/26/2013 POR vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p403
+aVRonnie Price POR 01/26/2013 POR vs. LAC W 11 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 1 0 0 3 2
+p404
+aVDamian Lillard POR 01/26/2013 POR vs. LAC W 37 20 6 13 46.2 4 7 57.1 4 4 100.0 0 0 0 2 2 0 3 1 -1
+p405
+aVJared Jeffries POR 01/26/2013 POR vs. LAC W 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 2 0 0 0 -5
+p406
+aVNicolas Batum POR 01/26/2013 POR vs. LAC W 41 20 7 15 46.7 4 9 44.4 2 2 100.0 3 7 10 12 1 1 5 1 0
+p407
+aVJJ Hickson POR 01/23/2013 POR vs. IND W 30 14 7 10 70.0 0 0 - 0 0 - 1 12 13 3 0 0 4 3 12
+p408
+aVDamian Lillard POR 01/23/2013 POR vs. IND W 39 20 9 16 56.3 0 3 0.0 2 2 100.0 1 1 2 8 0 0 0 1 7
+p409
+aVJared Jeffries POR 01/23/2013 POR vs. IND W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 0 1 0 1 2 8
+p410
+aVWill Barton POR 01/23/2013 POR vs. IND W 21 8 3 7 42.9 0 0 - 2 2 100.0 1 3 4 1 0 1 2 0 18
+p411
+aVNolan Smith POR 01/23/2013 POR vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p412
+aVLaMarcus Aldridge POR 01/23/2013 POR vs. IND W 36 27 12 17 70.6 0 0 - 3 4 75.0 1 5 6 1 0 1 3 1 6
+p413
+aVWesley Matthews POR 01/23/2013 POR vs. IND W 38 10 4 11 36.4 0 3 0.0 2 2 100.0 0 1 1 5 0 1 1 3 12
+p414
+aVLuke Babbitt POR 01/23/2013 POR vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p415
+aVMeyers Leonard POR 01/23/2013 POR vs. IND W 18 8 4 6 66.7 0 0 - 0 0 - 3 2 5 1 1 0 0 5 14
+p416
+aVRonnie Price POR 01/23/2013 POR vs. IND W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 0 0 7
+p417
+aVNicolas Batum POR 01/23/2013 POR vs. IND W 36 10 4 10 40.0 2 5 40.0 0 0 - 0 5 5 8 1 1 4 2 4
+p418
+aVLaMarcus Aldridge POR 01/21/2013 POR vs. WAS L 39 17 6 15 40.0 0 0 - 5 6 83.3 2 10 12 3 2 0 1 3 4
+p419
+aVVictor Claver POR 01/21/2013 POR vs. WAS L 9 3 1 5 20.0 0 1 0.0 1 2 50.0 1 2 3 0 0 0 0 2 -4
+p420
+aVMeyers Leonard POR 01/21/2013 POR vs. WAS L 12 6 3 3 100.0 0 0 - 0 1 0.0 1 3 4 0 0 0 1 4 -8
+p421
+aVWesley Matthews POR 01/21/2013 POR vs. WAS L 35 17 6 14 42.9 3 8 37.5 2 2 100.0 0 1 1 1 0 0 1 2 -10
+p422
+aVDamian Lillard POR 01/21/2013 POR vs. WAS L 38 18 7 17 41.2 2 6 33.3 2 2 100.0 1 2 3 5 0 0 3 2 -10
+p423
+aVNicolas Batum POR 01/21/2013 POR vs. WAS L 41 12 5 10 50.0 0 3 0.0 2 2 100.0 3 7 10 11 3 2 2 3 2
+p424
+aVLuke Babbitt POR 01/21/2013 POR vs. WAS L 17 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p425
+aVJJ Hickson POR 01/21/2013 POR vs. WAS L 28 16 7 10 70.0 0 0 - 2 3 66.7 2 4 6 1 0 1 4 1 1
+p426
+aVRonnie Price POR 01/21/2013 POR vs. WAS L 10 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 4 0 0 1 0 7
+p427
+aVWill Barton POR 01/21/2013 POR vs. WAS L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p428
+aVJoel Freeland POR 01/19/2013 POR vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -17
+p429
+aVNicolas Batum POR 01/19/2013 POR vs. MIL L 39 7 2 9 22.2 1 2 50.0 2 2 100.0 3 4 7 5 1 0 4 2 -10
+p430
+aVWesley Matthews POR 01/19/2013 POR vs. MIL L 38 21 8 18 44.4 1 8 12.5 4 4 100.0 0 4 4 3 2 0 3 4 -8
+p431
+aVLuke Babbitt POR 01/19/2013 POR vs. MIL L 24 11 4 9 44.4 3 8 37.5 0 0 - 0 4 4 0 1 1 1 5 27
+p432
+aVDamian Lillard POR 01/19/2013 POR vs. MIL L 42 26 9 21 42.9 3 9 33.3 5 6 83.3 0 3 3 10 1 1 3 3 14
+p433
+aVWill Barton POR 01/19/2013 POR vs. MIL L 6 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 1 1
+p434
+aVLaMarcus Aldridge POR 01/19/2013 POR vs. MIL L 41 20 5 12 41.7 0 0 - 10 10 100.0 3 11 14 0 2 1 1 2 -8
+p435
+aVVictor Claver POR 01/19/2013 POR vs. MIL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p436
+aVNolan Smith POR 01/19/2013 POR vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 0 -17
+p437
+aVJJ Hickson POR 01/19/2013 POR vs. MIL L 24 15 5 10 50.0 0 0 - 5 7 71.4 2 10 12 0 1 1 2 3 -4
+p438
+aVRonnie Price POR 01/19/2013 POR vs. MIL L 11 2 0 0 - 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 3
+p439
+aVJared Jeffries POR 01/19/2013 POR vs. MIL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p440
+aVJared Jeffries POR 01/16/2013 POR vs. CLE L 16 0 0 5 0.0 0 1 0.0 0 0 - 3 2 5 1 1 1 0 1 -2
+p441
+aVLaMarcus Aldridge POR 01/16/2013 POR vs. CLE L 37 15 7 14 50.0 0 0 - 1 2 50.0 2 8 10 3 0 4 2 3 -7
+p442
+aVNicolas Batum POR 01/16/2013 POR vs. CLE L 38 23 8 17 47.1 3 9 33.3 4 5 80.0 3 9 12 2 1 0 9 5 1
+p443
+aVJJ Hickson POR 01/16/2013 POR vs. CLE L 31 13 5 8 62.5 0 1 0.0 3 6 50.0 4 7 11 1 1 1 2 4 -8
+p444
+aVJoel Freeland POR 01/16/2013 POR vs. CLE L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 0 1 0 2 7
+p445
+aVSasha Pavlovic POR 01/16/2013 POR vs. CLE L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p446
+aVNolan Smith POR 01/16/2013 POR vs. CLE L 12 3 1 4 25.0 1 3 33.3 0 0 - 1 3 4 1 1 0 1 1 -5
+p447
+aVDamian Lillard POR 01/16/2013 POR vs. CLE L 36 13 3 9 33.3 1 5 20.0 6 8 75.0 0 1 1 7 1 0 2 3 -1
+p448
+aVWill Barton POR 01/16/2013 POR vs. CLE L 15 1 0 4 0.0 0 1 0.0 1 2 50.0 1 1 2 1 1 0 0 1 -6
+p449
+aVWesley Matthews POR 01/16/2013 POR vs. CLE L 37 17 6 13 46.2 4 8 50.0 1 1 100.0 1 5 6 3 0 0 3 5 0
+p450
+aVNicolas Batum POR 01/15/2013 POR @ DEN L 45 22 8 17 47.1 2 9 22.2 4 6 66.7 2 5 7 7 2 0 3 2 4
+p451
+aVJJ Hickson POR 01/15/2013 POR @ DEN L 34 19 7 8 87.5 0 0 - 5 5 100.0 5 8 13 2 0 2 3 1 2
+p452
+aVJared Jeffries POR 01/15/2013 POR @ DEN L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -3
+p453
+aVRonnie Price POR 01/15/2013 POR @ DEN L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 3 2 1
+p454
+aVWill Barton POR 01/15/2013 POR @ DEN L 17 7 3 7 42.9 0 2 0.0 1 2 50.0 1 2 3 1 0 0 1 2 -2
+p455
+aVWesley Matthews POR 01/15/2013 POR @ DEN L 43 14 6 13 46.2 2 7 28.6 0 0 - 0 5 5 2 2 0 3 4 -10
+p456
+aVLuke Babbitt POR 01/15/2013 POR @ DEN L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 2
+p457
+aVJoel Freeland POR 01/15/2013 POR @ DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p458
+aVDamian Lillard POR 01/15/2013 POR @ DEN L 42 14 5 14 35.7 3 5 60.0 1 2 50.0 0 8 8 5 1 2 2 4 -5
+p459
+aVLaMarcus Aldridge POR 01/15/2013 POR @ DEN L 45 30 11 22 50.0 0 0 - 8 8 100.0 1 7 8 6 0 1 2 3 -7
+p460
+aVLuke Babbitt POR 01/13/2013 POR vs. OKC L 7 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 0 -4
+p461
+aVNicolas Batum POR 01/13/2013 POR vs. OKC L 44 21 6 17 35.3 3 8 37.5 6 6 100.0 2 5 7 2 1 1 3 4 -7
+p462
+aVJared Jeffries POR 01/13/2013 POR vs. OKC L 7 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -2
+p463
+aVJoel Freeland POR 01/13/2013 POR vs. OKC L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 3
+p464
+aVSasha Pavlovic POR 01/13/2013 POR vs. OKC L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p465
+aVDamian Lillard POR 01/13/2013 POR vs. OKC L 41 9 3 14 21.4 2 9 22.2 1 2 50.0 1 3 4 9 1 0 3 2 -2
+p466
+aVJJ Hickson POR 01/13/2013 POR vs. OKC L 26 7 2 7 28.6 0 0 - 3 5 60.0 1 8 9 1 0 1 1 2 -10
+p467
+aVWill Barton POR 01/13/2013 POR vs. OKC L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 1 2
+p468
+aVWesley Matthews POR 01/13/2013 POR vs. OKC L 39 7 2 8 25.0 1 2 50.0 2 2 100.0 1 0 1 4 1 1 2 4 -1
+p469
+aVLaMarcus Aldridge POR 01/13/2013 POR vs. OKC L 38 33 15 26 57.7 0 0 - 3 3 100.0 2 9 11 0 0 2 2 2 0
+p470
+aVRonnie Price POR 01/13/2013 POR vs. OKC L 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -2
+p471
+aVJared Jeffries POR 01/11/2013 POR @ GSW L 13 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 2 0 0 0 1 9
+p472
+aVVictor Claver POR 01/11/2013 POR @ GSW L 9 5 1 3 33.3 1 2 50.0 2 4 50.0 0 0 0 0 0 0 0 1 0
+p473
+aVLuke Babbitt POR 01/11/2013 POR @ GSW L 23 10 4 13 30.8 2 10 20.0 0 0 - 1 2 3 1 0 0 0 5 -1
+p474
+aVRonnie Price POR 01/11/2013 POR @ GSW L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p475
+aVJJ Hickson POR 01/11/2013 POR @ GSW L 21 7 2 5 40.0 0 0 - 3 4 75.0 3 9 12 2 0 1 2 2 -11
+p476
+aVJoel Freeland POR 01/11/2013 POR @ GSW L 5 2 1 2 50.0 0 0 - 0 1 0.0 2 0 2 0 0 0 0 0 -3
+p477
+aVDamian Lillard POR 01/11/2013 POR @ GSW L 43 37 15 25 60.0 7 12 58.3 0 0 - 1 5 6 4 2 0 2 1 4
+p478
+aVLaMarcus Aldridge POR 01/11/2013 POR @ GSW L 33 7 3 14 21.4 0 0 - 1 2 50.0 2 4 6 5 2 2 1 2 -4
+p479
+aVWill Barton POR 01/11/2013 POR @ GSW L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -9
+p480
+aVWesley Matthews POR 01/11/2013 POR @ GSW L 36 10 3 15 20.0 2 11 18.2 2 2 100.0 3 6 9 2 0 0 3 2 -2
+p481
+aVNicolas Batum POR 01/11/2013 POR @ GSW L 43 16 5 11 45.5 3 7 42.9 3 4 75.0 3 6 9 1 1 0 4 0 -1
+p482
+aVJoel Freeland POR 01/10/2013 POR vs. MIA W 7 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -6
+p483
+aVNicolas Batum POR 01/10/2013 POR vs. MIA W 42 28 8 15 53.3 3 9 33.3 9 11 81.8 3 4 7 5 2 1 2 2 2
+p484
+aVDamian Lillard POR 01/10/2013 POR vs. MIA W 41 10 4 11 36.4 2 7 28.6 0 2 0.0 0 3 3 8 2 0 2 0 3
+p485
+aVLuke Babbitt POR 01/10/2013 POR vs. MIA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p486
+aVJared Jeffries POR 01/10/2013 POR vs. MIA W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -3
+p487
+aVRonnie Price POR 01/10/2013 POR vs. MIA W 11 5 1 1 100.0 0 0 - 3 4 75.0 0 0 0 0 2 0 1 0 -6
+p488
+aVJJ Hickson POR 01/10/2013 POR vs. MIA W 35 8 3 11 27.3 0 0 - 2 2 100.0 3 7 10 1 0 0 2 3 5
+p489
+aVLaMarcus Aldridge POR 01/10/2013 POR vs. MIA W 42 20 6 19 31.6 0 0 - 8 10 80.0 2 13 15 1 2 0 3 3 15
+p490
+aVWesley Matthews POR 01/10/2013 POR vs. MIA W 40 18 7 18 38.9 3 8 37.5 1 1 100.0 1 3 4 2 2 0 1 3 15
+p491
+aVSasha Pavlovic POR 01/10/2013 POR vs. MIA W 10 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 1 2 2 -10
+p492
+aVRonnie Price POR 01/07/2013 POR vs. ORL W 14 8 3 7 42.9 0 1 0.0 2 2 100.0 0 2 2 3 1 0 0 0 -9
+p493
+aVJoel Freeland POR 01/07/2013 POR vs. ORL W 7 2 1 1 100.0 0 0 - 0 0 - 3 2 5 0 0 0 0 2 -1
+p494
+aVDamian Lillard POR 01/07/2013 POR vs. ORL W 43 18 7 17 41.2 0 6 0.0 4 4 100.0 0 3 3 10 2 0 3 2 10
+p495
+aVLuke Babbitt POR 01/07/2013 POR vs. ORL W 15 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 1 0 1 0 -12
+p496
+aVWesley Matthews POR 01/07/2013 POR vs. ORL W 42 24 7 11 63.6 4 7 57.1 6 8 75.0 0 3 3 4 1 2 0 5 9
+p497
+aVVictor Claver POR 01/07/2013 POR vs. ORL W 14 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 0
+p498
+aVLaMarcus Aldridge POR 01/07/2013 POR vs. ORL W 42 27 12 22 54.5 0 0 - 3 3 100.0 2 8 10 5 0 0 2 1 8
+p499
+aVNicolas Batum POR 01/07/2013 POR vs. ORL W 45 16 5 14 35.7 2 5 40.0 4 4 100.0 0 4 4 10 1 1 2 1 13
+p500
+aVJJ Hickson POR 01/07/2013 POR vs. ORL W 44 20 9 14 64.3 0 0 - 2 3 66.7 5 10 15 2 0 1 1 2 12
+p501
+aVJoel Freeland POR 01/05/2013 POR @ MIN W 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 4 2
+p502
+aVLuke Babbitt POR 01/05/2013 POR @ MIN W 9 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 1 1 0 0 1 3
+p503
+aVLaMarcus Aldridge POR 01/05/2013 POR @ MIN W 37 14 7 20 35.0 0 0 - 0 0 - 2 7 9 6 2 0 3 3 3
+p504
+aVJJ Hickson POR 01/05/2013 POR @ MIN W 29 2 1 10 10.0 0 0 - 0 0 - 4 7 11 2 0 2 1 2 -4
+p505
+aVWesley Matthews POR 01/05/2013 POR @ MIN W 36 26 8 15 53.3 5 7 71.4 5 5 100.0 0 0 0 2 0 1 2 2 7
+p506
+aVJared Jeffries POR 01/05/2013 POR @ MIN W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 3 6
+p507
+aVDamian Lillard POR 01/05/2013 POR @ MIN W 39 20 7 14 50.0 3 5 60.0 3 3 100.0 2 2 4 6 0 0 3 3 16
+p508
+aVRonnie Price POR 01/05/2013 POR @ MIN W 20 3 1 8 12.5 0 1 0.0 1 2 50.0 0 2 2 2 0 0 1 2 -4
+p509
+aVNicolas Batum POR 01/05/2013 POR @ MIN W 38 26 9 11 81.8 5 6 83.3 3 3 100.0 0 5 5 3 0 3 1 1 1
+p510
+aVVictor Claver POR 01/05/2013 POR @ MIN W 11 5 2 3 66.7 1 2 50.0 0 0 - 2 1 3 0 0 1 0 1 -5
+p511
+aVDamian Lillard POR 01/04/2013 POR @ MEM W 38 11 5 14 35.7 1 4 25.0 0 0 - 0 5 5 8 1 0 5 0 -1
+p512
+aVSasha Pavlovic POR 01/04/2013 POR @ MEM W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p513
+aVJoel Freeland POR 01/04/2013 POR @ MEM W 8 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 1 0 1 2 -8
+p514
+aVNicolas Batum POR 01/04/2013 POR @ MEM W 40 11 4 11 36.4 3 8 37.5 0 0 - 2 3 5 4 3 0 3 1 7
+p515
+aVWill Barton POR 01/04/2013 POR @ MEM W 10 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -8
+p516
+aVLaMarcus Aldridge POR 01/04/2013 POR @ MEM W 38 15 5 15 33.3 0 0 - 5 7 71.4 2 10 12 3 0 5 1 4 6
+p517
+aVRonnie Price POR 01/04/2013 POR @ MEM W 10 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 2 3
+p518
+aVWesley Matthews POR 01/04/2013 POR @ MEM W 39 21 8 14 57.1 5 8 62.5 0 0 - 0 2 2 4 3 0 2 2 7
+p519
+aVLuke Babbitt POR 01/04/2013 POR @ MEM W 11 5 2 6 33.3 1 5 20.0 0 0 - 0 0 0 0 0 0 2 0 0
+p520
+aVJJ Hickson POR 01/04/2013 POR @ MEM W 37 19 7 13 53.8 0 0 - 5 8 62.5 4 7 11 1 1 2 0 2 3
+p521
+aVJoel Freeland POR 01/02/2013 POR @ TOR L 21 11 4 6 66.7 0 0 - 3 3 100.0 1 3 4 1 1 0 0 3 -5
+p522
+aVWesley Matthews POR 01/02/2013 POR @ TOR L 27 12 4 7 57.1 2 4 50.0 2 3 66.7 0 0 0 2 1 0 4 1 -18
+p523
+aVVictor Claver POR 01/02/2013 POR @ TOR L 13 2 1 2 50.0 0 1 0.0 0 1 0.0 2 0 2 0 0 0 1 3 0
+p524
+aVRonnie Price POR 01/02/2013 POR @ TOR L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p525
+aVLaMarcus Aldridge POR 01/02/2013 POR @ TOR L 35 14 7 12 58.3 0 0 - 0 0 - 3 7 10 3 0 0 3 3 -14
+p526
+aVJJ Hickson POR 01/02/2013 POR @ TOR L 28 2 1 4 25.0 0 0 - 0 0 - 1 6 7 0 1 0 0 1 -11
+p527
+aVLuke Babbitt POR 01/02/2013 POR @ TOR L 13 4 1 4 25.0 1 4 25.0 1 1 100.0 0 3 3 0 1 0 0 3 -16
+p528
+aVNolan Smith POR 01/02/2013 POR @ TOR L 6 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p529
+aVSasha Pavlovic POR 01/02/2013 POR @ TOR L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 1 1 2 -1
+p530
+aVWill Barton POR 01/02/2013 POR @ TOR L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -11
+p531
+aVNicolas Batum POR 01/02/2013 POR @ TOR L 35 10 4 12 33.3 0 6 0.0 2 2 100.0 1 3 4 4 0 1 0 0 -15
+p532
+aVDamian Lillard POR 01/02/2013 POR @ TOR L 37 18 6 13 46.2 1 5 20.0 5 6 83.3 1 4 5 7 0 0 7 2 -18
+p533
+aVLaMarcus Aldridge POR 01/01/2013 POR @ NYK W 38 19 8 19 42.1 0 1 0.0 3 6 50.0 7 7 14 2 0 0 3 3 -8
+p534
+aVJJ Hickson POR 01/01/2013 POR @ NYK W 24 18 9 11 81.8 0 0 - 0 1 0.0 3 6 9 2 1 0 4 5 6
+p535
+aVDamian Lillard POR 01/01/2013 POR @ NYK W 40 21 9 19 47.4 2 8 25.0 1 2 50.0 0 5 5 6 2 0 3 1 5
+p536
+aVRonnie Price POR 01/01/2013 POR @ NYK W 19 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 2 0 0 1 1 3
+p537
+aVWesley Matthews POR 01/01/2013 POR @ NYK W 30 8 3 6 50.0 0 3 0.0 2 2 100.0 0 3 3 2 1 0 2 5 1
+p538
+aVLuke Babbitt POR 01/01/2013 POR @ NYK W 18 6 2 6 33.3 2 5 40.0 0 0 - 0 6 6 0 0 0 0 2 10
+p539
+aVJared Jeffries POR 01/01/2013 POR @ NYK W 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 4 2
+p540
+aVVictor Claver POR 01/01/2013 POR @ NYK W 11 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 0 9
+p541
+aVNicolas Batum POR 01/01/2013 POR @ NYK W 40 26 7 13 53.8 6 12 50.0 6 7 85.7 1 3 4 6 1 0 3 1 -6
+p542
+aVWill Barton POR 01/01/2013 POR @ NYK W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p543
+aVRonnie Price POR 12/29/2012 POR vs. PHI W 20 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 4 3 0 1 2 2
+p544
+aVLaMarcus Aldridge POR 12/29/2012 POR vs. PHI W 37 16 7 13 53.8 0 0 - 2 2 100.0 0 5 5 4 0 2 2 2 8
+p545
+aVWill Barton POR 12/29/2012 POR vs. PHI W 17 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 9
+p546
+aVDamian Lillard POR 12/29/2012 POR vs. PHI W 39 20 8 18 44.4 4 11 36.4 0 0 - 0 0 0 0 0 1 1 3 1
+p547
+aVVictor Claver POR 12/29/2012 POR vs. PHI W 26 8 3 4 75.0 1 2 50.0 1 2 50.0 0 3 3 1 1 0 2 1 1
+p548
+aVLuke Babbitt POR 12/29/2012 POR vs. PHI W 11 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 0 1 0 0 1 -2
+p549
+aVNicolas Batum POR 12/29/2012 POR vs. PHI W 43 22 6 17 35.3 3 7 42.9 7 8 87.5 1 6 7 8 1 2 1 1 -1
+p550
+aVMeyers Leonard POR 12/29/2012 POR vs. PHI W 14 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 1 1 2 4
+p551
+aVJJ Hickson POR 12/29/2012 POR vs. PHI W 34 16 7 11 63.6 0 0 - 2 2 100.0 3 10 13 1 2 0 2 1 -2
+p552
+aVWill Barton POR 12/28/2012 POR @ LAL L 24 11 5 10 50.0 0 1 0.0 1 2 50.0 0 6 6 0 1 2 0 4 -2
+p553
+aVLuke Babbitt POR 12/28/2012 POR @ LAL L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 6 6 1 0 0 1 0 6
+p554
+aVMeyers Leonard POR 12/28/2012 POR @ LAL L 17 0 0 1 0.0 0 0 - 0 0 - 1 6 7 0 0 1 0 3 1
+p555
+aVSasha Pavlovic POR 12/28/2012 POR @ LAL L 18 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 3 -6
+p556
+aVRonnie Price POR 12/28/2012 POR @ LAL L 7 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 3 2 0 0 1 -3
+p557
+aVJared Jeffries POR 12/28/2012 POR @ LAL L 15 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 2 0 0 0 4 -3
+p558
+aVJoel Freeland POR 12/28/2012 POR @ LAL L 12 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 5
+p559
+aVDamian Lillard POR 12/28/2012 POR @ LAL L 37 11 4 17 23.5 1 4 25.0 2 2 100.0 0 2 2 4 1 0 3 2 -21
+p560
+aVNicolas Batum POR 12/28/2012 POR @ LAL L 34 10 5 11 45.5 0 5 0.0 0 0 - 2 3 5 8 0 1 1 2 -22
+p561
+aVVictor Claver POR 12/28/2012 POR @ LAL L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 0 -9
+p562
+aVJJ Hickson POR 12/28/2012 POR @ LAL L 18 2 0 7 0.0 0 0 - 2 2 100.0 5 3 8 2 1 1 1 2 -22
+p563
+aVLaMarcus Aldridge POR 12/28/2012 POR @ LAL L 25 26 12 17 70.6 0 0 - 2 2 100.0 2 1 3 1 1 0 1 2 -15
+p564
+aVNolan Smith POR 12/28/2012 POR @ LAL L 8 5 1 4 25.0 0 2 0.0 3 4 75.0 1 0 1 2 0 0 0 0 6
+p565
+aVLuke Babbitt POR 12/26/2012 POR vs. SAC W 8 1 0 2 0.0 0 2 0.0 1 2 50.0 0 2 2 2 0 0 1 2 6
+p566
+aVWill Barton POR 12/26/2012 POR vs. SAC W 26 14 6 9 66.7 0 1 0.0 2 2 100.0 1 0 1 1 0 0 1 1 6
+p567
+aVNolan Smith POR 12/26/2012 POR vs. SAC W 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 0 0 0
+p568
+aVDamian Lillard POR 12/26/2012 POR vs. SAC W 38 17 7 14 50.0 3 5 60.0 0 0 - 2 6 8 11 1 1 4 3 27
+p569
+aVNicolas Batum POR 12/26/2012 POR vs. SAC W 38 18 6 11 54.5 2 5 40.0 4 4 100.0 1 5 6 5 1 1 6 2 16
+p570
+aVRonnie Price POR 12/26/2012 POR vs. SAC W 13 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 4 2 0 0 3 -7
+p571
+aVJoel Freeland POR 12/26/2012 POR vs. SAC W 7 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -7
+p572
+aVLaMarcus Aldridge POR 12/26/2012 POR vs. SAC W 37 28 11 21 52.4 0 1 0.0 6 7 85.7 5 7 12 4 1 0 2 1 22
+p573
+aVMeyers Leonard POR 12/26/2012 POR vs. SAC W 16 7 3 5 60.0 0 1 0.0 1 1 100.0 2 3 5 0 0 0 1 0 -4
+p574
+aVSasha Pavlovic POR 12/26/2012 POR vs. SAC W 3 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 1
+p575
+aVVictor Claver POR 12/26/2012 POR vs. SAC W 21 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 2 0 0 1 1 8
+p576
+aVJJ Hickson POR 12/26/2012 POR vs. SAC W 32 17 8 13 61.5 0 0 - 1 2 50.0 5 9 14 1 0 2 0 2 22
+p577
+aVSasha Pavlovic POR 12/23/2012 POR @ SAC L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -19
+p578
+aVMeyers Leonard POR 12/23/2012 POR @ SAC L 14 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 0 0 1 1 2 -6
+p579
+aVJoel Freeland POR 12/23/2012 POR @ SAC L 3 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p580
+aVLuke Babbitt POR 12/23/2012 POR @ SAC L 13 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 -8
+p581
+aVWill Barton POR 12/23/2012 POR @ SAC L 21 7 3 6 50.0 1 2 50.0 0 0 - 2 3 5 3 1 0 1 2 -1
+p582
+aVNicolas Batum POR 12/23/2012 POR @ SAC L 38 17 4 12 33.3 2 8 25.0 7 7 100.0 1 2 3 8 1 1 3 2 2
+p583
+aVJJ Hickson POR 12/23/2012 POR @ SAC L 32 14 5 8 62.5 0 0 - 4 6 66.7 4 7 11 0 0 0 2 2 -12
+p584
+aVVictor Claver POR 12/23/2012 POR @ SAC L 21 2 1 5 20.0 0 1 0.0 0 0 - 4 1 5 1 3 0 3 0 7
+p585
+aVLaMarcus Aldridge POR 12/23/2012 POR @ SAC L 38 22 10 21 47.6 0 1 0.0 2 2 100.0 4 7 11 1 3 2 1 2 -7
+p586
+aVDamian Lillard POR 12/23/2012 POR @ SAC L 36 15 6 14 42.9 3 6 50.0 0 0 - 0 2 2 7 1 1 3 1 -3
+p587
+aVRonnie Price POR 12/23/2012 POR @ SAC L 17 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 3 2 0 3 3 -18
+p588
+aVLaMarcus Aldridge POR 12/22/2012 POR vs. PHX W 39 17 5 15 33.3 0 0 - 7 8 87.5 1 8 9 2 0 2 0 2 3
+p589
+aVMeyers Leonard POR 12/22/2012 POR vs. PHX W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p590
+aVNicolas Batum POR 12/22/2012 POR vs. PHX W 42 13 4 12 33.3 2 9 22.2 3 3 100.0 2 7 9 8 2 0 7 0 8
+p591
+aVWesley Matthews POR 12/22/2012 POR vs. PHX W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 2
+p592
+aVLuke Babbitt POR 12/22/2012 POR vs. PHX W 15 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 0 1 0 2 1 0
+p593
+aVRonnie Price POR 12/22/2012 POR vs. PHX W 12 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 1 1 1 2 1 -1
+p594
+aVDamian Lillard POR 12/22/2012 POR vs. PHX W 39 25 7 13 53.8 2 5 40.0 9 10 90.0 1 0 1 7 1 0 3 2 7
+p595
+aVWill Barton POR 12/22/2012 POR vs. PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p596
+aVVictor Claver POR 12/22/2012 POR vs. PHX W 15 7 3 4 75.0 1 1 100.0 0 0 - 1 3 4 0 0 0 1 1 1
+p597
+aVJJ Hickson POR 12/22/2012 POR vs. PHX W 38 19 8 11 72.7 0 0 - 3 5 60.0 4 11 15 0 0 1 1 2 1
+p598
+aVSasha Pavlovic POR 12/22/2012 POR vs. PHX W 21 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 2 0 0 2 2 10
+p599
+aVWill Barton POR 12/20/2012 POR vs. DEN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p600
+aVLuke Babbitt POR 12/20/2012 POR vs. DEN W 26 14 4 10 40.0 4 7 57.1 2 2 100.0 0 8 8 1 0 0 0 6 -5
+p601
+aVDamian Lillard POR 12/20/2012 POR vs. DEN W 35 12 3 14 21.4 1 6 16.7 5 6 83.3 1 3 4 10 1 0 2 0 9
+p602
+aVJJ Hickson POR 12/20/2012 POR vs. DEN W 34 18 7 16 43.8 0 0 - 4 6 66.7 6 12 18 0 0 3 1 3 2
+p603
+aVRonnie Price POR 12/20/2012 POR vs. DEN W 13 4 1 6 16.7 0 2 0.0 2 2 100.0 0 1 1 3 1 1 2 0 3
+p604
+aVVictor Claver POR 12/20/2012 POR vs. DEN W 7 0 0 1 0.0 0 1 0.0 0 2 0.0 1 1 2 0 0 0 2 0 -3
+p605
+aVSasha Pavlovic POR 12/20/2012 POR vs. DEN W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 1 0 1 4 -3
+p606
+aVWesley Matthews POR 12/20/2012 POR vs. DEN W 39 20 7 19 36.8 4 9 44.4 2 2 100.0 0 3 3 4 1 1 1 3 6
+p607
+aVNicolas Batum POR 12/20/2012 POR vs. DEN W 40 22 7 15 46.7 5 9 55.6 3 3 100.0 2 4 6 3 1 2 1 3 11
+p608
+aVJoel Freeland POR 12/20/2012 POR vs. DEN W 15 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 15
+p609
+aVMeyers Leonard POR 12/20/2012 POR vs. DEN W 14 7 2 4 50.0 0 0 - 3 3 100.0 1 1 2 1 0 0 1 1 4
+p610
+aVNicolas Batum POR 12/16/2012 POR vs. NOH W 42 11 4 11 36.4 3 9 33.3 0 0 - 0 5 5 10 5 5 2 3 1
+p611
+aVWesley Matthews POR 12/16/2012 POR vs. NOH W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p612
+aVRonnie Price POR 12/16/2012 POR vs. NOH W 20 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 1
+p613
+aVJared Jeffries POR 12/16/2012 POR vs. NOH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p614
+aVLuke Babbitt POR 12/16/2012 POR vs. NOH W 27 10 4 7 57.1 2 5 40.0 0 0 - 0 2 2 1 0 0 1 0 -9
+p615
+aVDamian Lillard POR 12/16/2012 POR vs. NOH W 39 16 5 14 35.7 4 10 40.0 2 2 100.0 0 2 2 4 1 1 1 3 -3
+p616
+aVSasha Pavlovic POR 12/16/2012 POR vs. NOH W 16 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 1 1 0 0 1 2
+p617
+aVVictor Claver POR 12/16/2012 POR vs. NOH W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -1
+p618
+aVMeyers Leonard POR 12/16/2012 POR vs. NOH W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p619
+aVWill Barton POR 12/16/2012 POR vs. NOH W 7 2 1 6 16.7 0 1 0.0 0 0 - 2 0 2 1 0 0 0 0 5
+p620
+aVLaMarcus Aldridge POR 12/16/2012 POR vs. NOH W 37 20 8 17 47.1 0 0 - 4 4 100.0 3 0 3 1 1 1 1 1 1
+p621
+aVJJ Hickson POR 12/16/2012 POR vs. NOH W 31 24 10 14 71.4 0 0 - 4 6 66.7 8 8 16 3 0 1 4 1 6
+p622
+aVMeyers Leonard POR 12/13/2012 POR vs. SAS W 17 2 1 3 33.3 0 0 - 0 0 - 3 5 8 0 1 0 1 2 9
+p623
+aVDamian Lillard POR 12/13/2012 POR vs. SAS W 40 29 11 22 50.0 2 6 33.3 5 5 100.0 0 7 7 6 0 0 2 3 6
+p624
+aVNicolas Batum POR 12/13/2012 POR vs. SAS W 38 11 4 11 36.4 1 6 16.7 2 2 100.0 0 3 3 8 0 2 2 1 10
+p625
+aVVictor Claver POR 12/13/2012 POR vs. SAS W 12 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 2 0 1 0 0
+p626
+aVJJ Hickson POR 12/13/2012 POR vs. SAS W 27 12 5 8 62.5 0 0 - 2 2 100.0 4 8 12 1 0 0 0 3 -6
+p627
+aVSasha Pavlovic POR 12/13/2012 POR vs. SAS W 33 6 2 7 28.6 2 3 66.7 0 0 - 1 3 4 2 4 1 0 3 7
+p628
+aVNolan Smith POR 12/13/2012 POR vs. SAS W 8 2 1 5 20.0 0 2 0.0 0 1 0.0 0 0 0 2 0 0 2 2 4
+p629
+aVLuke Babbitt POR 12/13/2012 POR vs. SAS W 20 12 5 10 50.0 2 7 28.6 0 0 - 0 0 0 0 1 0 1 1 9
+p630
+aVLaMarcus Aldridge POR 12/13/2012 POR vs. SAS W 37 22 10 16 62.5 0 0 - 2 2 100.0 1 5 6 0 3 2 5 4 3
+p631
+aVWill Barton POR 12/13/2012 POR vs. SAS W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p632
+aVSasha Pavlovic POR 12/10/2012 POR vs. TOR W 42 10 5 12 41.7 0 5 0.0 0 1 0.0 0 7 7 5 1 0 0 4 18
+p633
+aVMeyers Leonard POR 12/10/2012 POR vs. TOR W 11 6 2 3 66.7 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 0 -5
+p634
+aVWill Barton POR 12/10/2012 POR vs. TOR W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p635
+aVVictor Claver POR 12/10/2012 POR vs. TOR W 26 4 2 12 16.7 0 3 0.0 0 0 - 1 4 5 2 2 0 1 2 14
+p636
+aVJared Jeffries POR 12/10/2012 POR vs. TOR W 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -2
+p637
+aVDamian Lillard POR 12/10/2012 POR vs. TOR W 35 9 2 14 14.3 0 5 0.0 5 5 100.0 1 4 5 6 0 0 2 0 16
+p638
+aVJJ Hickson POR 12/10/2012 POR vs. TOR W 23 16 7 7 100.0 0 0 - 2 3 66.7 3 8 11 0 1 0 1 2 16
+p639
+aVLaMarcus Aldridge POR 12/10/2012 POR vs. TOR W 39 30 11 19 57.9 0 0 - 8 8 100.0 4 8 12 0 2 2 1 2 22
+p640
+aVLuke Babbitt POR 12/10/2012 POR vs. TOR W 21 4 2 9 22.2 0 5 0.0 0 0 - 0 3 3 0 1 0 0 4 7
+p641
+aVNolan Smith POR 12/10/2012 POR vs. TOR W 21 11 4 10 40.0 0 1 0.0 3 3 100.0 0 0 0 3 1 0 1 1 12
+p642
+aVDamian Lillard POR 12/08/2012 POR vs. SAC L 39 12 5 13 38.5 2 5 40.0 0 1 0.0 0 1 1 9 0 0 4 1 -16
+p643
+aVJared Jeffries POR 12/08/2012 POR vs. SAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 5
+p644
+aVLaMarcus Aldridge POR 12/08/2012 POR vs. SAC L 33 17 5 14 35.7 0 0 - 7 8 87.5 4 6 10 1 1 2 2 5 -15
+p645
+aVNicolas Batum POR 12/08/2012 POR vs. SAC L 17 5 1 5 20.0 1 5 20.0 2 2 100.0 0 2 2 2 1 0 4 1 -13
+p646
+aVNolan Smith POR 12/08/2012 POR vs. SAC L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -3
+p647
+aVWesley Matthews POR 12/08/2012 POR vs. SAC L 29 14 5 11 45.5 2 3 66.7 2 2 100.0 0 1 1 0 0 0 2 2 -11
+p648
+aVSasha Pavlovic POR 12/08/2012 POR vs. SAC L 7 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 1 2 -8
+p649
+aVMeyers Leonard POR 12/08/2012 POR vs. SAC L 14 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 1 1 1 2 -6
+p650
+aVLuke Babbitt POR 12/08/2012 POR vs. SAC L 27 9 3 9 33.3 2 5 40.0 1 2 50.0 0 7 7 2 0 0 1 1 -13
+p651
+aVRonnie Price POR 12/08/2012 POR vs. SAC L 17 0 0 3 0.0 0 2 0.0 0 0 - 2 0 2 1 0 1 0 2 3
+p652
+aVJJ Hickson POR 12/08/2012 POR vs. SAC L 29 14 7 12 58.3 0 0 - 0 1 0.0 2 13 15 0 1 1 0 3 -17
+p653
+aVJoel Freeland POR 12/08/2012 POR vs. SAC L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -1
+p654
+aVDamian Lillard POR 12/05/2012 POR @ IND L 43 23 9 15 60.0 1 5 20.0 4 5 80.0 0 3 3 6 0 0 0 3 -3
+p655
+aVLaMarcus Aldridge POR 12/05/2012 POR @ IND L 37 18 5 14 35.7 0 0 - 8 10 80.0 1 9 10 0 2 1 1 3 -6
+p656
+aVNolan Smith POR 12/05/2012 POR @ IND L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -4
+p657
+aVJJ Hickson POR 12/05/2012 POR @ IND L 26 14 7 12 58.3 0 0 - 0 0 - 5 7 12 1 0 0 2 0 -4
+p658
+aVNicolas Batum POR 12/05/2012 POR @ IND L 29 5 2 8 25.0 1 5 20.0 0 0 - 0 0 0 4 1 0 2 1 -10
+p659
+aVJared Jeffries POR 12/05/2012 POR @ IND L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p660
+aVMeyers Leonard POR 12/05/2012 POR @ IND L 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -10
+p661
+aVWill Barton POR 12/05/2012 POR @ IND L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 -5
+p662
+aVJoel Freeland POR 12/05/2012 POR @ IND L 13 0 0 4 0.0 0 0 - 0 0 - 1 0 1 2 1 1 0 3 3
+p663
+aVLuke Babbitt POR 12/05/2012 POR @ IND L 15 5 2 3 66.7 1 1 100.0 0 0 - 1 4 5 0 0 0 0 2 -4
+p664
+aVWesley Matthews POR 12/05/2012 POR @ IND L 38 19 5 13 38.5 3 9 33.3 6 7 85.7 1 3 4 3 1 0 2 1 5
+p665
+aVSasha Pavlovic POR 12/03/2012 POR @ CHA W 7 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 1 0 1 0 3
+p666
+aVJoel Freeland POR 12/03/2012 POR @ CHA W 13 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 1 0 0 1 -5
+p667
+aVNicolas Batum POR 12/03/2012 POR @ CHA W 45 17 5 14 35.7 3 9 33.3 4 4 100.0 2 11 13 7 1 1 2 1 8
+p668
+aVDamian Lillard POR 12/03/2012 POR @ CHA W 43 24 6 16 37.5 1 8 12.5 11 14 78.6 1 2 3 9 1 0 3 4 11
+p669
+aVLaMarcus Aldridge POR 12/03/2012 POR @ CHA W 45 25 12 17 70.6 0 0 - 1 1 100.0 4 9 13 5 0 3 2 2 15
+p670
+aVWesley Matthews POR 12/03/2012 POR @ CHA W 45 19 6 15 40.0 3 9 33.3 4 4 100.0 2 5 7 3 2 1 1 3 9
+p671
+aVLuke Babbitt POR 12/03/2012 POR @ CHA W 15 9 3 5 60.0 3 4 75.0 0 0 - 1 4 5 1 1 1 1 2 19
+p672
+aVNolan Smith POR 12/03/2012 POR @ CHA W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 -5
+p673
+aVJJ Hickson POR 12/03/2012 POR @ CHA W 12 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p674
+aVMeyers Leonard POR 12/03/2012 POR @ CHA W 17 4 2 4 50.0 0 0 - 0 1 0.0 1 2 3 0 0 1 0 2 -13
+p675
+aVWill Barton POR 12/03/2012 POR @ CHA W 12 7 3 5 60.0 1 2 50.0 0 2 0.0 0 1 1 0 1 0 2 1 -8
+p676
+aVWesley Matthews POR 12/01/2012 POR @ CLE W 44 11 3 12 25.0 1 5 20.0 4 4 100.0 1 3 4 10 0 1 1 1 7
+p677
+aVNicolas Batum POR 12/01/2012 POR @ CLE W 46 22 7 15 46.7 3 4 75.0 5 6 83.3 3 4 7 0 2 2 1 5 16
+p678
+aVDamian Lillard POR 12/01/2012 POR @ CLE W 46 24 9 17 52.9 4 7 57.1 2 2 100.0 2 4 6 11 1 0 6 4 4
+p679
+aVMeyers Leonard POR 12/01/2012 POR @ CLE W 20 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 2 2 1 -10
+p680
+aVLuke Babbitt POR 12/01/2012 POR @ CLE W 13 4 2 7 28.6 0 4 0.0 0 0 - 1 4 5 0 0 1 0 0 -7
+p681
+aVNolan Smith POR 12/01/2012 POR @ CLE W 12 6 3 6 50.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 -3
+p682
+aVJJ Hickson POR 12/01/2012 POR @ CLE W 35 11 4 5 80.0 0 0 - 3 4 75.0 2 3 5 2 2 1 0 1 12
+p683
+aVJoel Freeland POR 12/01/2012 POR @ CLE W 12 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 3 0
+p684
+aVJared Jeffries POR 12/01/2012 POR @ CLE W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p685
+aVLaMarcus Aldridge POR 12/01/2012 POR @ CLE W 44 21 10 21 47.6 0 0 - 1 3 33.3 2 7 9 0 1 0 1 5 4
+p686
+aVWill Barton POR 12/01/2012 POR @ CLE W 13 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 0 1 1 2 1 -14
+p687
+aVJJ Hickson POR 11/30/2012 POR @ BOS L 26 11 3 7 42.9 0 0 - 5 8 62.5 2 1 3 0 2 0 2 1 -17
+p688
+aVWesley Matthews POR 11/30/2012 POR @ BOS L 31 5 2 6 33.3 0 1 0.0 1 1 100.0 0 3 3 0 0 0 0 3 -13
+p689
+aVNicolas Batum POR 11/30/2012 POR @ BOS L 33 9 2 11 18.2 1 6 16.7 4 5 80.0 2 3 5 3 2 1 3 0 -9
+p690
+aVJoel Freeland POR 11/30/2012 POR @ BOS L 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 2 1 1 2 -2
+p691
+aVLaMarcus Aldridge POR 11/30/2012 POR @ BOS L 33 23 8 16 50.0 0 0 - 7 9 77.8 2 6 8 0 1 1 5 2 -10
+p692
+aVMeyers Leonard POR 11/30/2012 POR @ BOS L 22 11 3 5 60.0 0 0 - 5 6 83.3 1 4 5 0 2 1 1 3 -1
+p693
+aVSasha Pavlovic POR 11/30/2012 POR @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p694
+aVWill Barton POR 11/30/2012 POR @ BOS L 17 3 1 5 20.0 0 1 0.0 1 2 50.0 1 2 3 4 2 0 3 1 -5
+p695
+aVLuke Babbitt POR 11/30/2012 POR @ BOS L 12 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 0 0 0 0 0 -2
+p696
+aVDamian Lillard POR 11/30/2012 POR @ BOS L 31 8 2 8 25.0 1 5 20.0 3 4 75.0 1 2 3 3 1 0 3 3 -12
+p697
+aVJared Jeffries POR 11/30/2012 POR @ BOS L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -6
+p698
+aVNolan Smith POR 11/30/2012 POR @ BOS L 17 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 3 2 -6
+p699
+aVDamian Lillard POR 11/28/2012 POR @ WAS L 43 20 6 21 28.6 4 9 44.4 4 4 100.0 2 0 2 5 2 0 2 1 2
+p700
+aVWill Barton POR 11/28/2012 POR @ WAS L 8 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -6
+p701
+aVMeyers Leonard POR 11/28/2012 POR @ WAS L 14 2 1 5 20.0 0 0 - 0 0 - 3 4 7 0 0 0 1 3 -2
+p702
+aVJared Jeffries POR 11/28/2012 POR @ WAS L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -10
+p703
+aVRonnie Price POR 11/28/2012 POR @ WAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -4
+p704
+aVWesley Matthews POR 11/28/2012 POR @ WAS L 35 6 2 10 20.0 1 8 12.5 1 2 50.0 1 1 2 1 2 0 0 2 -11
+p705
+aVSasha Pavlovic POR 11/28/2012 POR @ WAS L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 11
+p706
+aVLaMarcus Aldridge POR 11/28/2012 POR @ WAS L 41 17 8 19 42.1 0 1 0.0 1 1 100.0 1 6 7 3 1 0 1 5 8
+p707
+aVJJ Hickson POR 11/28/2012 POR @ WAS L 34 15 6 8 75.0 0 0 - 3 7 42.9 9 10 19 2 1 1 5 2 0
+p708
+aVNicolas Batum POR 11/28/2012 POR @ WAS L 45 20 6 15 40.0 5 10 50.0 3 4 75.0 1 3 4 2 3 1 2 1 2
+p709
+aVMeyers Leonard POR 11/26/2012 POR @ DET L 20 8 3 4 75.0 0 0 - 2 2 100.0 2 2 4 0 0 3 1 1 8
+p710
+aVJared Jeffries POR 11/26/2012 POR @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -7
+p711
+aVNicolas Batum POR 11/26/2012 POR @ DET L 38 7 2 9 22.2 1 3 33.3 2 2 100.0 1 9 10 2 1 0 2 3 -10
+p712
+aVJJ Hickson POR 11/26/2012 POR @ DET L 28 9 4 9 44.4 0 1 0.0 1 3 33.3 5 3 8 2 0 1 1 2 -12
+p713
+aVWill Barton POR 11/26/2012 POR @ DET L 21 12 5 8 62.5 1 2 50.0 1 2 50.0 0 1 1 0 2 0 0 1 -3
+p714
+aVLaMarcus Aldridge POR 11/26/2012 POR @ DET L 41 32 12 22 54.5 0 1 0.0 8 10 80.0 6 4 10 2 3 3 1 5 -1
+p715
+aVDamian Lillard POR 11/26/2012 POR @ DET L 37 12 4 18 22.2 1 5 20.0 3 3 100.0 1 2 3 7 1 0 3 4 -5
+p716
+aVRonnie Price POR 11/26/2012 POR @ DET L 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 6 0 0 2 2 -4
+p717
+aVWesley Matthews POR 11/26/2012 POR @ DET L 37 19 5 12 41.7 3 7 42.9 6 9 66.7 0 2 2 3 3 2 1 4 -1
+p718
+aVWesley Matthews POR 11/25/2012 POR @ BKN L 37 20 8 18 44.4 3 7 42.9 1 2 50.0 0 3 3 3 3 0 2 1 -6
+p719
+aVJared Jeffries POR 11/25/2012 POR @ BKN L 19 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 3 0 0 2 3 2
+p720
+aVDamian Lillard POR 11/25/2012 POR @ BKN L 31 13 4 12 33.3 3 5 60.0 2 2 100.0 1 5 6 7 2 2 4 4 -12
+p721
+aVJoel Freeland POR 11/25/2012 POR @ BKN L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 2 2 1
+p722
+aVSasha Pavlovic POR 11/25/2012 POR @ BKN L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 1 2 3 -5
+p723
+aVRonnie Price POR 11/25/2012 POR @ BKN L 17 0 0 4 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 2 -3
+p724
+aVNicolas Batum POR 11/25/2012 POR @ BKN L 38 12 5 13 38.5 1 5 20.0 1 1 100.0 0 5 5 3 0 1 1 0 -17
+p725
+aVNolan Smith POR 11/25/2012 POR @ BKN L 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 1
+p726
+aVWill Barton POR 11/25/2012 POR @ BKN L 9 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 0 1 0 3
+p727
+aVLuke Babbitt POR 11/25/2012 POR @ BKN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p728
+aVJJ Hickson POR 11/25/2012 POR @ BKN L 33 19 8 11 72.7 0 0 - 3 4 75.0 6 4 10 1 0 1 1 0 -23
+p729
+aVMeyers Leonard POR 11/25/2012 POR @ BKN L 29 12 6 10 60.0 0 0 - 0 0 - 0 3 3 0 0 1 0 4 -7
+p730
+aVRonnie Price POR 11/23/2012 POR vs. MIN W 18 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 -1
+p731
+aVNicolas Batum POR 11/23/2012 POR vs. MIN W 36 9 3 10 30.0 1 7 14.3 2 2 100.0 2 2 4 5 0 2 4 2 1
+p732
+aVMeyers Leonard POR 11/23/2012 POR vs. MIN W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -1
+p733
+aVJared Jeffries POR 11/23/2012 POR vs. MIN W 19 2 1 1 100.0 0 0 - 0 3 0.0 0 2 2 0 1 0 0 4 8
+p734
+aVJJ Hickson POR 11/23/2012 POR vs. MIN W 31 14 6 10 60.0 0 0 - 2 4 50.0 3 10 13 4 1 2 2 4 9
+p735
+aVWesley Matthews POR 11/23/2012 POR vs. MIN W 40 30 12 17 70.6 5 6 83.3 1 2 50.0 0 0 0 3 4 0 2 3 15
+p736
+aVDamian Lillard POR 11/23/2012 POR vs. MIN W 37 28 11 17 64.7 4 8 50.0 2 4 50.0 0 4 4 8 0 1 0 0 10
+p737
+aVLaMarcus Aldridge POR 11/23/2012 POR vs. MIN W 28 13 6 13 46.2 0 0 - 1 3 33.3 1 5 6 0 0 0 2 6 -2
+p738
+aVLuke Babbitt POR 11/23/2012 POR vs. MIN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -4
+p739
+aVSasha Pavlovic POR 11/23/2012 POR vs. MIN W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 10
+p740
+aVWill Barton POR 11/23/2012 POR vs. MIN W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 1 -5
+p741
+aVMeyers Leonard POR 11/21/2012 POR @ PHX L 36 12 6 9 66.7 0 0 - 0 0 - 2 3 5 1 2 2 0 3 -20
+p742
+aVRonnie Price POR 11/21/2012 POR @ PHX L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 1 0 3 2 -11
+p743
+aVWill Barton POR 11/21/2012 POR @ PHX L 6 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 0 -4
+p744
+aVJoel Freeland POR 11/21/2012 POR @ PHX L 16 0 0 4 0.0 0 0 - 0 2 0.0 2 1 3 0 0 0 0 4 -6
+p745
+aVVictor Claver POR 11/21/2012 POR @ PHX L 9 1 0 1 0.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 1 2 -7
+p746
+aVNolan Smith POR 11/21/2012 POR @ PHX L 6 3 1 4 25.0 0 2 0.0 1 2 50.0 0 0 0 1 0 0 0 0 -4
+p747
+aVLaMarcus Aldridge POR 11/21/2012 POR @ PHX L 36 12 5 15 33.3 0 0 - 2 2 100.0 2 5 7 1 0 0 5 2 -28
+p748
+aVWesley Matthews POR 11/21/2012 POR @ PHX L 26 13 4 11 36.4 1 4 25.0 4 5 80.0 1 2 3 2 2 0 1 3 -11
+p749
+aVJared Jeffries POR 11/21/2012 POR @ PHX L 7 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -2
+p750
+aVNicolas Batum POR 11/21/2012 POR @ PHX L 33 13 5 10 50.0 1 5 20.0 2 2 100.0 3 2 5 4 1 0 3 2 -17
+p751
+aVLuke Babbitt POR 11/21/2012 POR @ PHX L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p752
+aVSasha Pavlovic POR 11/21/2012 POR @ PHX L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p753
+aVDamian Lillard POR 11/21/2012 POR @ PHX L 35 24 7 13 53.8 2 4 50.0 8 9 88.9 0 0 0 3 1 0 6 1 -16
+p754
+aVNicolas Batum POR 11/18/2012 POR vs. CHI W 38 21 6 13 46.2 5 10 50.0 4 4 100.0 0 4 4 2 0 0 4 0 -1
+p755
+aVWesley Matthews POR 11/18/2012 POR vs. CHI W 38 21 9 15 60.0 2 5 40.0 1 1 100.0 1 2 3 2 2 1 2 0 7
+p756
+aVRonnie Price POR 11/18/2012 POR vs. CHI W 20 10 4 8 50.0 1 3 33.3 1 1 100.0 0 1 1 5 1 0 0 2 18
+p757
+aVLaMarcus Aldridge POR 11/18/2012 POR vs. CHI W 40 18 6 14 42.9 0 0 - 6 8 75.0 3 10 13 1 0 0 2 3 14
+p758
+aVJared Jeffries POR 11/18/2012 POR vs. CHI W 22 4 1 4 25.0 0 0 - 2 4 50.0 3 1 4 0 0 0 2 4 7
+p759
+aVSasha Pavlovic POR 11/18/2012 POR vs. CHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 0 0 4
+p760
+aVJJ Hickson POR 11/18/2012 POR vs. CHI W 25 10 5 8 62.5 0 0 - 0 0 - 1 3 4 1 0 0 3 1 -1
+p761
+aVWill Barton POR 11/18/2012 POR vs. CHI W 9 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 1
+p762
+aVMeyers Leonard POR 11/18/2012 POR vs. CHI W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -4
+p763
+aVDamian Lillard POR 11/18/2012 POR vs. CHI W 32 16 7 13 53.8 1 4 25.0 1 2 50.0 0 2 2 3 3 0 2 2 -5
+p764
+aVJJ Hickson POR 11/16/2012 POR vs. HOU W 25 3 1 2 50.0 0 0 - 1 2 50.0 1 6 7 0 0 0 0 2 -6
+p765
+aVWesley Matthews POR 11/16/2012 POR vs. HOU W 44 15 6 18 33.3 2 7 28.6 1 5 20.0 1 4 5 5 0 0 2 5 -1
+p766
+aVLaMarcus Aldridge POR 11/16/2012 POR vs. HOU W 43 29 11 19 57.9 0 0 - 7 9 77.8 2 4 6 2 0 2 1 3 -9
+p767
+aVRonnie Price POR 11/16/2012 POR vs. HOU W 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -8
+p768
+aVSasha Pavlovic POR 11/16/2012 POR vs. HOU W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p769
+aVDamian Lillard POR 11/16/2012 POR vs. HOU W 42 27 9 18 50.0 3 9 33.3 6 6 100.0 0 5 5 5 2 0 4 2 10
+p770
+aVJared Jeffries POR 11/16/2012 POR vs. HOU W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 8
+p771
+aVVictor Claver POR 11/16/2012 POR vs. HOU W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -9
+p772
+aVMeyers Leonard POR 11/16/2012 POR vs. HOU W 27 8 3 5 60.0 0 0 - 2 2 100.0 4 4 8 0 1 1 0 4 12
+p773
+aVNicolas Batum POR 11/16/2012 POR vs. HOU W 47 35 13 19 68.4 5 8 62.5 4 5 80.0 2 4 6 4 1 5 7 3 10
+p774
+aVSasha Pavlovic POR 11/13/2012 POR @ SAC W 15 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 0 1 0 0 3 -6
+p775
+aVMeyers Leonard POR 11/13/2012 POR @ SAC W 9 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -13
+p776
+aVLaMarcus Aldridge POR 11/13/2012 POR @ SAC W 37 19 5 14 35.7 0 0 - 9 10 90.0 1 4 5 2 1 2 2 1 15
+p777
+aVJared Jeffries POR 11/13/2012 POR @ SAC W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 3 18
+p778
+aVNicolas Batum POR 11/13/2012 POR @ SAC W 33 15 6 13 46.2 2 8 25.0 1 2 50.0 2 5 7 5 3 1 2 0 23
+p779
+aVJoel Freeland POR 11/13/2012 POR @ SAC W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p780
+aVDamian Lillard POR 11/13/2012 POR @ SAC W 35 22 7 10 70.0 5 6 83.3 3 4 75.0 1 1 2 9 0 0 4 2 24
+p781
+aVJJ Hickson POR 11/13/2012 POR @ SAC W 34 10 5 10 50.0 0 0 - 0 0 - 4 9 13 0 0 0 1 1 25
+p782
+aVNolan Smith POR 11/13/2012 POR @ SAC W 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p783
+aVLuke Babbitt POR 11/13/2012 POR @ SAC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 3 -4
+p784
+aVRonnie Price POR 11/13/2012 POR @ SAC W 20 8 3 5 60.0 2 3 66.7 0 0 - 1 5 6 2 2 0 2 2 -5
+p785
+aVVictor Claver POR 11/13/2012 POR @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p786
+aVWesley Matthews POR 11/13/2012 POR @ SAC W 36 18 6 9 66.7 2 3 66.7 4 4 100.0 1 3 4 1 1 1 1 2 24
+p787
+aVDamian Lillard POR 11/12/2012 POR vs. ATL L 39 12 5 18 27.8 2 7 28.6 0 0 - 1 2 3 2 2 1 4 3 -20
+p788
+aVWesley Matthews POR 11/12/2012 POR vs. ATL L 38 17 3 9 33.3 1 6 16.7 10 10 100.0 1 3 4 1 3 0 1 2 0
+p789
+aVJJ Hickson POR 11/12/2012 POR vs. ATL L 33 19 8 14 57.1 0 0 - 3 5 60.0 7 11 18 0 2 1 3 1 -4
+p790
+aVLaMarcus Aldridge POR 11/12/2012 POR vs. ATL L 36 14 4 13 30.8 0 0 - 6 9 66.7 2 4 6 8 2 0 5 5 -4
+p791
+aVJoel Freeland POR 11/12/2012 POR vs. ATL L 12 0 0 5 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 0 -4
+p792
+aVSasha Pavlovic POR 11/12/2012 POR vs. ATL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -3
+p793
+aVWill Barton POR 11/12/2012 POR vs. ATL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p794
+aVRonnie Price POR 11/12/2012 POR vs. ATL L 18 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 2 1 0 1 4 5
+p795
+aVNicolas Batum POR 11/12/2012 POR vs. ATL L 40 19 8 17 47.1 3 8 37.5 0 0 - 2 5 7 1 1 0 4 2 -6
+p796
+aVMeyers Leonard POR 11/12/2012 POR vs. ATL L 15 4 1 4 25.0 0 1 0.0 2 2 100.0 1 1 2 0 1 2 1 2 -2
+p797
+aVNicolas Batum POR 11/10/2012 POR vs. SAS L 39 33 11 18 61.1 5 7 71.4 6 6 100.0 1 6 7 4 2 1 3 4 -8
+p798
+aVJJ Hickson POR 11/10/2012 POR vs. SAS L 34 13 5 8 62.5 0 0 - 3 4 75.0 5 9 14 0 1 0 0 5 15
+p799
+aVWesley Matthews POR 11/10/2012 POR vs. SAS L 37 10 4 11 36.4 1 3 33.3 1 2 50.0 1 2 3 4 2 0 2 4 14
+p800
+aVWill Barton POR 11/10/2012 POR vs. SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p801
+aVLaMarcus Aldridge POR 11/10/2012 POR vs. SAS L 41 29 12 26 46.2 0 2 0.0 5 6 83.3 2 2 4 7 2 4 3 3 19
+p802
+aVJared Jeffries POR 11/10/2012 POR vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -14
+p803
+aVSasha Pavlovic POR 11/10/2012 POR vs. SAS L 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 3 0 0 0 -4
+p804
+aVMeyers Leonard POR 11/10/2012 POR vs. SAS L 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -17
+p805
+aVDamian Lillard POR 11/10/2012 POR vs. SAS L 38 20 8 16 50.0 4 8 50.0 0 1 0.0 1 2 3 6 2 0 4 3 1
+p806
+aVRonnie Price POR 11/10/2012 POR vs. SAS L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -4
+p807
+aVLuke Babbitt POR 11/10/2012 POR vs. SAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -8
+p808
+aVLaMarcus Aldridge POR 11/08/2012 POR vs. LAC L 42 14 7 17 41.2 0 0 - 0 0 - 1 3 4 5 0 1 1 2 -11
+p809
+aVDamian Lillard POR 11/08/2012 POR vs. LAC L 41 16 6 13 46.2 2 4 50.0 2 4 50.0 1 1 2 4 3 0 3 2 -9
+p810
+aVMeyers Leonard POR 11/08/2012 POR vs. LAC L 24 8 3 4 75.0 0 0 - 2 2 100.0 3 3 6 1 1 1 0 3 -7
+p811
+aVWill Barton POR 11/08/2012 POR vs. LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p812
+aVSasha Pavlovic POR 11/08/2012 POR vs. LAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p813
+aVNicolas Batum POR 11/08/2012 POR vs. LAC L 40 23 6 18 33.3 3 10 30.0 8 12 66.7 1 8 9 5 3 1 2 3 -4
+p814
+aVJoel Freeland POR 11/08/2012 POR vs. LAC L 2 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p815
+aVWesley Matthews POR 11/08/2012 POR vs. LAC L 38 10 4 12 33.3 1 4 25.0 1 3 33.3 1 1 2 4 3 0 3 3 -10
+p816
+aVLuke Babbitt POR 11/08/2012 POR vs. LAC L 2 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 3
+p817
+aVJared Jeffries POR 11/08/2012 POR vs. LAC L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -3
+p818
+aVRonnie Price POR 11/08/2012 POR vs. LAC L 15 5 1 1 100.0 0 0 - 3 5 60.0 0 1 1 0 0 0 1 6 -11
+p819
+aVJJ Hickson POR 11/08/2012 POR vs. LAC L 23 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 0 0 1 1 0 -12
+p820
+aVNolan Smith POR 11/08/2012 POR vs. LAC L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p821
+aVNolan Smith POR 11/05/2012 POR @ DAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p822
+aVMeyers Leonard POR 11/05/2012 POR @ DAL L 23 6 3 7 42.9 0 0 - 0 0 - 4 5 9 1 0 1 1 1 -9
+p823
+aVDamian Lillard POR 11/05/2012 POR @ DAL L 33 13 2 13 15.4 1 8 12.5 8 8 100.0 1 2 3 5 1 0 1 2 -12
+p824
+aVWill Barton POR 11/05/2012 POR @ DAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p825
+aVJared Jeffries POR 11/05/2012 POR @ DAL L 7 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 0 3
+p826
+aVSasha Pavlovic POR 11/05/2012 POR @ DAL L 18 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 2 -6
+p827
+aVLaMarcus Aldridge POR 11/05/2012 POR @ DAL L 32 20 9 19 47.4 0 1 0.0 2 3 66.7 1 6 7 2 1 1 0 0 -14
+p828
+aVJoel Freeland POR 11/05/2012 POR @ DAL L 9 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 0 1 2 -12
+p829
+aVJJ Hickson POR 11/05/2012 POR @ DAL L 25 7 3 10 30.0 0 0 - 1 2 50.0 7 4 11 0 1 0 2 0 -14
+p830
+aVWesley Matthews POR 11/05/2012 POR @ DAL L 36 20 8 15 53.3 3 4 75.0 1 3 33.3 2 1 3 0 1 0 5 1 -20
+p831
+aVRonnie Price POR 11/05/2012 POR @ DAL L 18 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 5 -4
+p832
+aVNicolas Batum POR 11/05/2012 POR @ DAL L 36 14 6 13 46.2 0 5 0.0 2 2 100.0 2 3 5 3 1 1 1 0 -15
+p833
+aVWill Barton POR 11/03/2012 POR @ HOU W 15 5 2 7 28.6 1 3 33.3 0 0 - 1 3 4 1 1 1 2 1 -6
+p834
+aVRonnie Price POR 11/03/2012 POR @ HOU W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p835
+aVLuke Babbitt POR 11/03/2012 POR @ HOU W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -8
+p836
+aVLaMarcus Aldridge POR 11/03/2012 POR @ HOU W 42 27 13 29 44.8 0 0 - 1 2 50.0 3 8 11 6 1 2 3 3 27
+p837
+aVVictor Claver POR 11/03/2012 POR @ HOU W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p838
+aVNicolas Batum POR 11/03/2012 POR @ HOU W 45 17 5 11 45.5 4 6 66.7 3 4 75.0 1 8 9 4 6 2 2 1 14
+p839
+aVJJ Hickson POR 11/03/2012 POR @ HOU W 36 9 4 10 40.0 0 0 - 1 2 50.0 2 10 12 2 0 1 3 4 8
+p840
+aVMeyers Leonard POR 11/03/2012 POR @ HOU W 17 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 2 0 2 2
+p841
+aVWesley Matthews POR 11/03/2012 POR @ HOU W 42 16 7 18 38.9 2 7 28.6 0 0 - 0 5 5 5 2 0 1 4 12
+p842
+aVDamian Lillard POR 11/03/2012 POR @ HOU W 42 20 8 15 53.3 3 6 50.0 1 2 50.0 1 5 6 9 0 0 3 0 10
+p843
+aVNolan Smith POR 11/03/2012 POR @ HOU W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 3
+p844
+aVJared Jeffries POR 11/03/2012 POR @ HOU W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -9
+p845
+aVJoel Freeland POR 11/02/2012 POR @ OKC L 6 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 -3
+p846
+aVWesley Matthews POR 11/02/2012 POR @ OKC L 35 17 5 15 33.3 4 9 44.4 3 5 60.0 0 3 3 0 0 0 1 3 1
+p847
+aVNicolas Batum POR 11/02/2012 POR @ OKC L 37 3 1 11 9.1 1 5 20.0 0 0 - 0 1 1 2 1 0 1 4 -17
+p848
+aVLaMarcus Aldridge POR 11/02/2012 POR @ OKC L 36 22 8 22 36.4 0 1 0.0 6 6 100.0 2 13 15 3 1 0 2 5 -8
+p849
+aVDamian Lillard POR 11/02/2012 POR @ OKC L 38 21 9 19 47.4 2 6 33.3 1 1 100.0 1 2 3 7 1 0 2 1 -9
+p850
+aVMeyers Leonard POR 11/02/2012 POR @ OKC L 15 3 0 0 - 0 0 - 3 4 75.0 0 4 4 0 0 0 1 2 -8
+p851
+aVSasha Pavlovic POR 11/02/2012 POR @ OKC L 23 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 5 -9
+p852
+aVLuke Babbitt POR 11/02/2012 POR @ OKC L 9 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 1 0 0 0 1 -6
+p853
+aVJJ Hickson POR 11/02/2012 POR @ OKC L 26 14 5 12 41.7 0 0 - 4 6 66.7 7 5 12 1 0 0 2 2 -3
+p854
+aVJared Jeffries POR 11/02/2012 POR @ OKC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p855
+aVNolan Smith POR 11/02/2012 POR @ OKC L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -5
+p856
+aVWill Barton POR 11/02/2012 POR @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p857
+aVLaMarcus Aldridge POR 10/31/2012 POR vs. LAL W 39 19 9 20 45.0 0 0 - 1 1 100.0 0 3 3 0 0 2 1 2 2
+p858
+aVNicolas Batum POR 10/31/2012 POR vs. LAL W 40 26 9 16 56.3 3 9 33.3 5 7 71.4 4 2 6 1 3 1 1 2 0
+p859
+aVNolan Smith POR 10/31/2012 POR vs. LAL W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -4
+p860
+aVJared Jeffries POR 10/31/2012 POR vs. LAL W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 8
+p861
+aVSasha Pavlovic POR 10/31/2012 POR vs. LAL W 18 7 3 4 75.0 1 1 100.0 0 1 0.0 1 0 1 1 1 0 0 0 13
+p862
+aVWesley Matthews POR 10/31/2012 POR vs. LAL W 37 22 7 11 63.6 4 6 66.7 4 6 66.7 0 2 2 2 4 0 0 5 5
+p863
+aVMeyers Leonard POR 10/31/2012 POR vs. LAL W 23 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 3 17
+p864
+aVJJ Hickson POR 10/31/2012 POR vs. LAL W 25 13 5 10 50.0 0 0 - 3 3 100.0 5 5 10 1 1 2 3 4 -7
+p865
+aVDamian Lillard POR 10/31/2012 POR vs. LAL W 35 23 7 17 41.2 1 4 25.0 8 8 100.0 0 3 3 11 1 0 6 2 16
+p866
+a.

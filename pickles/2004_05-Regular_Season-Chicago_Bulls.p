@@ -1,0 +1,1738 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBen Gordon CHI 04/20/2005 CHI @ IND L 25 9 3 9 33.3 2 4 50.0 1 1 100.0 1 4 5 5 0 0 3 2 -2
+p2
+aVAntonio Davis CHI 04/20/2005 CHI @ IND L 22 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -10
+p3
+aVJannero Pargo CHI 04/20/2005 CHI @ IND L 25 17 8 15 53.3 1 2 50.0 0 0 - 0 2 2 5 3 0 1 2 6
+p4
+aVJared Reiner CHI 04/20/2005 CHI @ IND L 21 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 1 2 1 3 9
+p5
+aVAndres Nocioni CHI 04/20/2005 CHI @ IND L 23 13 6 13 46.2 1 3 33.3 0 0 - 3 2 5 0 0 1 1 1 -14
+p6
+aVChris Duhon CHI 04/20/2005 CHI @ IND L 21 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 0 1 1 1 -7
+p7
+aVKirk Hinrich CHI 04/20/2005 CHI @ IND L 20 9 3 7 42.9 1 2 50.0 2 3 66.7 0 1 1 1 1 0 1 2 -10
+p8
+aVOthella Harrington CHI 04/20/2005 CHI @ IND L 24 11 5 10 50.0 0 0 - 1 2 50.0 1 8 9 2 1 0 2 4 -2
+p9
+aVEric Piatkowski CHI 04/20/2005 CHI @ IND L 14 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 2 2 0 0 2 5
+p10
+aVAdrian Griffin CHI 04/20/2005 CHI @ IND L 25 0 0 5 0.0 0 0 - 0 0 - 3 3 6 2 0 0 0 2 11
+p11
+aVLawrence Funderburke CHI 04/20/2005 CHI @ IND L 20 9 3 6 50.0 0 0 - 3 5 60.0 1 2 3 0 0 0 0 2 4
+p12
+aVTyson Chandler CHI 04/19/2005 CHI vs. NYK W 25 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 0 0 4 3 6 0
+p13
+aVEric Piatkowski CHI 04/19/2005 CHI vs. NYK W 5 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p14
+aVJannero Pargo CHI 04/19/2005 CHI vs. NYK W 9 10 4 6 66.7 2 3 66.7 0 0 - 1 0 1 1 0 0 1 0 0
+p15
+aVLawrence Funderburke CHI 04/19/2005 CHI vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p16
+aVOthella Harrington CHI 04/19/2005 CHI vs. NYK W 25 2 1 7 14.3 0 0 - 0 0 - 1 6 7 1 1 0 1 3 -5
+p17
+aVAdrian Griffin CHI 04/19/2005 CHI vs. NYK W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 4
+p18
+aVAntonio Davis CHI 04/19/2005 CHI vs. NYK W 38 4 1 5 20.0 0 0 - 2 2 100.0 2 4 6 2 0 0 1 2 7
+p19
+aVBen Gordon CHI 04/19/2005 CHI vs. NYK W 21 16 6 15 40.0 3 5 60.0 1 1 100.0 1 4 5 2 2 0 2 3 -1
+p20
+aVKirk Hinrich CHI 04/19/2005 CHI vs. NYK W 35 34 13 21 61.9 6 9 66.7 2 2 100.0 0 1 1 5 1 0 0 4 10
+p21
+aVAndres Nocioni CHI 04/19/2005 CHI vs. NYK W 29 6 2 10 20.0 0 1 0.0 2 2 100.0 0 8 8 2 1 1 3 1 -8
+p22
+aVChris Duhon CHI 04/19/2005 CHI vs. NYK W 45 11 4 10 40.0 1 5 20.0 2 2 100.0 0 5 5 10 1 0 2 2 2
+p23
+aVTyson Chandler CHI 04/16/2005 CHI @ ATL W 32 10 2 4 50.0 0 0 - 6 6 100.0 2 9 11 0 0 3 0 2 21
+p24
+aVOthella Harrington CHI 04/16/2005 CHI @ ATL W 25 11 3 7 42.9 0 0 - 5 6 83.3 1 4 5 1 2 0 0 5 6
+p25
+aVAdrian Griffin CHI 04/16/2005 CHI @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p26
+aVChris Duhon CHI 04/16/2005 CHI @ ATL W 29 24 8 9 88.9 8 9 88.9 0 0 - 0 4 4 6 1 0 0 4 24
+p27
+aVJared Reiner CHI 04/16/2005 CHI @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p28
+aVAntonio Davis CHI 04/16/2005 CHI @ ATL W 34 13 5 11 45.5 0 0 - 3 4 75.0 5 1 6 1 0 0 2 0 6
+p29
+aVEric Piatkowski CHI 04/16/2005 CHI @ ATL W 11 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -24
+p30
+aVBen Gordon CHI 04/16/2005 CHI @ ATL W 22 16 5 10 50.0 2 2 100.0 4 4 100.0 0 3 3 1 1 0 1 1 7
+p31
+aVKirk Hinrich CHI 04/16/2005 CHI @ ATL W 35 17 7 18 38.9 1 6 16.7 2 2 100.0 0 2 2 9 2 0 2 2 2
+p32
+aVJannero Pargo CHI 04/16/2005 CHI @ ATL W 10 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 -13
+p33
+aVAndres Nocioni CHI 04/16/2005 CHI @ ATL W 38 19 7 15 46.7 0 0 - 5 6 83.3 0 5 5 2 0 1 1 4 23
+p34
+aVJared Reiner CHI 04/15/2005 CHI vs. ORL W 7 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 7
+p35
+aVKirk Hinrich CHI 04/15/2005 CHI vs. ORL W 25 9 4 9 44.4 1 2 50.0 0 0 - 2 3 5 6 1 0 1 4 13
+p36
+aVAdrian Griffin CHI 04/15/2005 CHI vs. ORL W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 7
+p37
+aVAntonio Davis CHI 04/15/2005 CHI vs. ORL W 25 6 3 5 60.0 0 0 - 0 0 - 3 6 9 1 1 1 0 0 26
+p38
+aVJannero Pargo CHI 04/15/2005 CHI vs. ORL W 17 13 6 7 85.7 1 2 50.0 0 0 - 1 2 3 9 1 0 2 1 18
+p39
+aVBen Gordon CHI 04/15/2005 CHI vs. ORL W 23 17 7 13 53.8 0 3 0.0 3 3 100.0 0 1 1 4 1 0 3 1 10
+p40
+aVEric Piatkowski CHI 04/15/2005 CHI vs. ORL W 32 14 5 10 50.0 3 6 50.0 1 2 50.0 0 2 2 4 0 0 2 2 26
+p41
+aVTyson Chandler CHI 04/15/2005 CHI vs. ORL W 29 12 5 9 55.6 0 0 - 2 7 28.6 5 9 14 1 0 4 1 2 20
+p42
+aVAndres Nocioni CHI 04/15/2005 CHI vs. ORL W 27 17 6 13 46.2 0 0 - 5 6 83.3 1 7 8 5 0 1 1 3 15
+p43
+aVOthella Harrington CHI 04/15/2005 CHI vs. ORL W 25 10 4 9 44.4 0 0 - 2 2 100.0 1 8 9 1 0 0 0 6 26
+p44
+aVChris Duhon CHI 04/15/2005 CHI vs. ORL W 24 17 7 8 87.5 3 4 75.0 0 0 - 0 3 3 5 2 0 2 2 32
+p45
+aVTyson Chandler CHI 04/13/2005 CHI @ WAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -12
+p46
+aVJannero Pargo CHI 04/13/2005 CHI @ WAS L 18 2 1 7 14.3 0 0 - 0 0 - 2 1 3 1 0 0 4 1 -2
+p47
+aVAntonio Davis CHI 04/13/2005 CHI @ WAS L 32 0 0 4 0.0 0 0 - 0 0 - 2 8 10 2 0 0 2 2 -19
+p48
+aVBen Gordon CHI 04/13/2005 CHI @ WAS L 32 21 6 18 33.3 1 6 16.7 8 9 88.9 0 6 6 2 1 0 3 3 -1
+p49
+aVKirk Hinrich CHI 04/13/2005 CHI @ WAS L 38 21 10 23 43.5 1 4 25.0 0 1 0.0 0 6 6 6 1 0 1 3 -17
+p50
+aVEric Piatkowski CHI 04/13/2005 CHI @ WAS L 25 7 3 7 42.9 1 4 25.0 0 0 - 1 8 9 1 2 0 0 3 0
+p51
+aVJared Reiner CHI 04/13/2005 CHI @ WAS L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 5
+p52
+aVChris Duhon CHI 04/13/2005 CHI @ WAS L 31 16 6 11 54.5 3 7 42.9 1 2 50.0 0 2 2 2 1 0 0 1 -3
+p53
+aVAdrian Griffin CHI 04/13/2005 CHI @ WAS L 23 2 1 9 11.1 0 0 - 0 0 - 3 1 4 2 4 0 0 2 -7
+p54
+aVOthella Harrington CHI 04/13/2005 CHI @ WAS L 25 13 5 14 35.7 0 0 - 3 6 50.0 1 6 7 1 0 0 1 4 1
+p55
+aVJared Reiner CHI 04/11/2005 CHI vs. DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p56
+aVJannero Pargo CHI 04/11/2005 CHI vs. DET L 13 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 1 1 0 3 2 4
+p57
+aVAntonio Davis CHI 04/11/2005 CHI vs. DET L 32 6 3 4 75.0 0 0 - 0 0 - 4 3 7 1 0 0 4 5 -8
+p58
+aVKirk Hinrich CHI 04/11/2005 CHI vs. DET L 40 15 7 21 33.3 1 7 14.3 0 0 - 1 6 7 5 0 2 3 5 -6
+p59
+aVBen Gordon CHI 04/11/2005 CHI vs. DET L 34 14 5 18 27.8 0 5 0.0 4 5 80.0 1 1 2 2 1 0 2 3 4
+p60
+aVEric Piatkowski CHI 04/11/2005 CHI vs. DET L 17 2 1 3 33.3 0 1 0.0 0 1 0.0 0 2 2 0 2 0 0 0 4
+p61
+aVAdrian Griffin CHI 04/11/2005 CHI vs. DET L 11 6 2 5 40.0 0 1 0.0 2 2 100.0 3 0 3 0 1 0 0 2 2
+p62
+aVChris Duhon CHI 04/11/2005 CHI vs. DET L 16 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 7 2 0 0 1 -12
+p63
+aVOthella Harrington CHI 04/11/2005 CHI vs. DET L 28 10 4 10 40.0 0 0 - 2 2 100.0 4 6 10 1 1 0 4 1 -3
+p64
+aVTyson Chandler CHI 04/11/2005 CHI vs. DET L 28 14 5 10 50.0 0 0 - 4 5 80.0 8 8 16 1 0 2 2 4 2
+p65
+aVAndres Nocioni CHI 04/11/2005 CHI vs. DET L 44 12 4 14 28.6 3 3 100.0 1 2 50.0 1 9 10 3 0 2 1 3 -3
+p66
+aVJannero Pargo CHI 04/09/2005 CHI vs. TOR W 14 4 1 5 20.0 1 1 100.0 1 2 50.0 0 0 0 2 0 0 1 2 -11
+p67
+aVOthella Harrington CHI 04/09/2005 CHI vs. TOR W 25 12 6 10 60.0 0 0 - 0 0 - 3 3 6 3 0 0 1 3 15
+p68
+aVBen Gordon CHI 04/09/2005 CHI vs. TOR W 16 6 0 10 0.0 0 3 0.0 6 6 100.0 0 0 0 0 0 1 0 1 4
+p69
+aVJared Reiner CHI 04/09/2005 CHI vs. TOR W 2 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -6
+p70
+aVAntonio Davis CHI 04/09/2005 CHI vs. TOR W 35 13 5 12 41.7 0 0 - 3 3 100.0 4 9 13 2 0 0 3 2 12
+p71
+aVKirk Hinrich CHI 04/09/2005 CHI vs. TOR W 40 25 9 16 56.3 3 6 50.0 4 4 100.0 0 3 3 8 2 0 1 3 8
+p72
+aVAndres Nocioni CHI 04/09/2005 CHI vs. TOR W 26 16 6 11 54.5 0 1 0.0 4 4 100.0 0 4 4 5 1 0 1 2 14
+p73
+aVAdrian Griffin CHI 04/09/2005 CHI vs. TOR W 22 8 4 9 44.4 0 0 - 0 0 - 1 1 2 4 1 0 2 2 -1
+p74
+aVChris Duhon CHI 04/09/2005 CHI vs. TOR W 26 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 3 0 0 0 0 25
+p75
+aVEric Piatkowski CHI 04/09/2005 CHI vs. TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p76
+aVTyson Chandler CHI 04/09/2005 CHI vs. TOR W 31 18 6 12 50.0 0 0 - 6 8 75.0 11 10 21 0 1 2 1 2 12
+p77
+aVOthella Harrington CHI 04/08/2005 CHI @ NYK W 17 6 3 7 42.9 0 0 - 0 0 - 2 1 3 0 0 0 2 4 -1
+p78
+aVAntonio Davis CHI 04/08/2005 CHI @ NYK W 30 12 2 4 50.0 0 0 - 8 8 100.0 1 4 5 3 0 0 3 3 0
+p79
+aVAndres Nocioni CHI 04/08/2005 CHI @ NYK W 36 6 3 9 33.3 0 1 0.0 0 0 - 0 6 6 1 0 0 2 4 -5
+p80
+aVEric Piatkowski CHI 04/08/2005 CHI @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p81
+aVBen Gordon CHI 04/08/2005 CHI @ NYK W 34 22 5 15 33.3 1 4 25.0 11 11 100.0 0 2 2 2 1 0 2 1 21
+p82
+aVKirk Hinrich CHI 04/08/2005 CHI @ NYK W 30 20 9 14 64.3 1 3 33.3 1 2 50.0 0 2 2 5 1 0 3 4 -3
+p83
+aVChris Duhon CHI 04/08/2005 CHI @ NYK W 19 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 3 1 0 0 2 -5
+p84
+aVJannero Pargo CHI 04/08/2005 CHI @ NYK W 10 8 3 4 75.0 2 3 66.7 0 0 - 0 4 4 1 1 0 3 4 5
+p85
+aVAdrian Griffin CHI 04/08/2005 CHI @ NYK W 32 16 7 10 70.0 0 0 - 2 2 100.0 2 4 6 1 2 0 2 2 19
+p86
+aVTyson Chandler CHI 04/08/2005 CHI @ NYK W 30 9 3 3 100.0 0 0 - 3 5 60.0 1 8 9 0 0 4 3 4 11
+p87
+aVTyson Chandler CHI 04/06/2005 CHI @ ORL W 42 15 5 11 45.5 0 0 - 5 7 71.4 6 16 22 0 1 1 0 4 -12
+p88
+aVChris Duhon CHI 04/06/2005 CHI @ ORL W 33 7 1 5 20.0 1 3 33.3 4 4 100.0 0 1 1 6 3 1 1 1 4
+p89
+aVJannero Pargo CHI 04/06/2005 CHI @ ORL W 23 14 5 11 45.5 2 3 66.7 2 2 100.0 0 2 2 2 2 1 3 1 14
+p90
+aVEric Piatkowski CHI 04/06/2005 CHI @ ORL W 15 10 4 7 57.1 2 2 100.0 0 0 - 0 1 1 1 1 0 0 3 18
+p91
+aVBen Gordon CHI 04/06/2005 CHI @ ORL W 30 10 2 13 15.4 1 4 25.0 5 6 83.3 1 1 2 6 1 0 3 4 1
+p92
+aVAntonio Davis CHI 04/06/2005 CHI @ ORL W 37 11 5 16 31.3 0 0 - 1 3 33.3 7 7 14 2 1 1 0 4 4
+p93
+aVKirk Hinrich CHI 04/06/2005 CHI @ ORL W 41 25 10 23 43.5 3 9 33.3 2 2 100.0 0 1 1 2 4 0 4 1 -14
+p94
+aVAdrian Griffin CHI 04/06/2005 CHI @ ORL W 7 4 2 6 33.3 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -8
+p95
+aVAndres Nocioni CHI 04/06/2005 CHI @ ORL W 34 6 1 9 11.1 0 0 - 4 4 100.0 1 5 6 1 0 0 1 2 -3
+p96
+aVJared Reiner CHI 04/06/2005 CHI @ ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p97
+aVTyson Chandler CHI 04/05/2005 CHI @ MIA L 28 11 4 7 57.1 0 0 - 3 5 60.0 5 3 8 0 0 1 2 2 -10
+p98
+aVBen Gordon CHI 04/05/2005 CHI @ MIA L 26 14 5 13 38.5 1 4 25.0 3 4 75.0 0 2 2 0 2 0 3 4 -3
+p99
+aVChris Duhon CHI 04/05/2005 CHI @ MIA L 25 5 1 7 14.3 0 2 0.0 3 3 100.0 0 1 1 1 0 0 0 3 -18
+p100
+aVKirk Hinrich CHI 04/05/2005 CHI @ MIA L 16 0 0 7 0.0 0 3 0.0 0 0 - 0 0 0 0 1 0 1 1 -16
+p101
+aVAdrian Griffin CHI 04/05/2005 CHI @ MIA L 26 9 3 7 42.9 0 1 0.0 3 3 100.0 3 5 8 2 1 0 2 2 7
+p102
+aVEric Piatkowski CHI 04/05/2005 CHI @ MIA L 19 8 3 7 42.9 2 3 66.7 0 0 - 1 2 3 1 3 0 1 2 -5
+p103
+aVJannero Pargo CHI 04/05/2005 CHI @ MIA L 31 13 5 16 31.3 0 4 0.0 3 4 75.0 1 1 2 3 2 0 1 2 1
+p104
+aVAntonio Davis CHI 04/05/2005 CHI @ MIA L 28 8 3 9 33.3 0 0 - 2 2 100.0 3 2 5 1 1 0 2 1 -15
+p105
+aVAndres Nocioni CHI 04/05/2005 CHI @ MIA L 28 14 6 10 60.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 1 5 -24
+p106
+aVJared Reiner CHI 04/05/2005 CHI @ MIA L 13 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 0 1 2 -7
+p107
+aVAntonio Davis CHI 04/02/2005 CHI vs. CHA W 19 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 1 1 1 0 3 0
+p108
+aVEric Piatkowski CHI 04/02/2005 CHI vs. CHA W 23 19 6 7 85.7 4 5 80.0 3 3 100.0 0 2 2 0 2 0 2 5 20
+p109
+aVKirk Hinrich CHI 04/02/2005 CHI vs. CHA W 25 9 3 9 33.3 3 6 50.0 0 0 - 1 2 3 5 3 1 1 1 18
+p110
+aVAndres Nocioni CHI 04/02/2005 CHI vs. CHA W 29 15 6 12 50.0 0 0 - 3 3 100.0 1 5 6 4 0 0 2 4 11
+p111
+aVJannero Pargo CHI 04/02/2005 CHI vs. CHA W 18 8 2 6 33.3 1 2 50.0 3 4 75.0 0 0 0 5 1 0 3 2 0
+p112
+aVChris Duhon CHI 04/02/2005 CHI vs. CHA W 34 17 7 11 63.6 3 5 60.0 0 1 0.0 0 2 2 5 1 0 1 3 10
+p113
+aVOthella Harrington CHI 04/02/2005 CHI vs. CHA W 35 22 8 15 53.3 0 0 - 6 10 60.0 2 2 4 2 0 1 2 4 20
+p114
+aVBen Gordon CHI 04/02/2005 CHI vs. CHA W 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 1 5 -2
+p115
+aVAdrian Griffin CHI 04/02/2005 CHI vs. CHA W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p116
+aVTyson Chandler CHI 04/02/2005 CHI vs. CHA W 35 12 4 10 40.0 0 0 - 4 7 57.1 3 12 15 3 1 0 2 4 3
+p117
+aVChris Duhon CHI 03/31/2005 CHI vs. CLE W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 3 -1
+p118
+aVAndres Nocioni CHI 03/31/2005 CHI vs. CLE W 41 11 4 8 50.0 0 0 - 3 4 75.0 3 6 9 5 1 0 3 4 8
+p119
+aVTyson Chandler CHI 03/31/2005 CHI vs. CLE W 31 15 5 7 71.4 0 0 - 5 6 83.3 4 10 14 0 2 1 1 5 15
+p120
+aVJannero Pargo CHI 03/31/2005 CHI vs. CLE W 18 7 3 7 42.9 0 2 0.0 1 2 50.0 0 2 2 1 0 0 2 3 2
+p121
+aVBen Gordon CHI 03/31/2005 CHI vs. CLE W 40 21 8 20 40.0 1 5 20.0 4 6 66.7 0 3 3 8 2 0 4 3 13
+p122
+aVAntonio Davis CHI 03/31/2005 CHI vs. CLE W 48 17 5 12 41.7 0 0 - 7 8 87.5 4 5 9 3 0 1 3 3 12
+p123
+aVOthella Harrington CHI 03/31/2005 CHI vs. CLE W 22 12 5 9 55.6 0 0 - 2 2 100.0 4 3 7 1 0 0 0 3 1
+p124
+aVKirk Hinrich CHI 03/31/2005 CHI vs. CLE W 35 13 6 11 54.5 1 2 50.0 0 2 0.0 0 1 1 7 1 0 1 3 7
+p125
+aVLuol Deng CHI 03/31/2005 CHI vs. CLE W 17 4 1 4 25.0 0 1 0.0 2 6 33.3 0 2 2 0 0 1 0 0 3
+p126
+aVAndres Nocioni CHI 03/30/2005 CHI @ CHA W 20 4 2 7 28.6 0 0 - 0 0 - 1 3 4 0 0 1 2 4 -13
+p127
+aVChris Duhon CHI 03/30/2005 CHI @ CHA W 26 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 3 0 0 2 4 -8
+p128
+aVTyson Chandler CHI 03/30/2005 CHI @ CHA W 25 6 2 6 33.3 0 0 - 2 3 66.7 4 11 15 1 1 3 3 1 14
+p129
+aVAdrian Griffin CHI 03/30/2005 CHI @ CHA W 9 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 1 0 1 0 -3
+p130
+aVOthella Harrington CHI 03/30/2005 CHI @ CHA W 32 16 7 14 50.0 0 0 - 2 2 100.0 3 5 8 2 0 0 3 4 -2
+p131
+aVLuol Deng CHI 03/30/2005 CHI @ CHA W 29 6 3 8 37.5 0 0 - 0 0 - 1 5 6 4 0 1 2 1 23
+p132
+aVBen Gordon CHI 03/30/2005 CHI @ CHA W 23 35 11 17 64.7 6 8 75.0 7 8 87.5 1 2 3 5 2 0 3 2 10
+p133
+aVEric Piatkowski CHI 03/30/2005 CHI @ CHA W 19 9 3 7 42.9 2 2 100.0 1 2 50.0 1 0 1 2 1 0 1 2 -3
+p134
+aVAntonio Davis CHI 03/30/2005 CHI @ CHA W 30 8 3 7 42.9 0 0 - 2 2 100.0 3 7 10 2 0 1 2 2 -8
+p135
+aVJannero Pargo CHI 03/30/2005 CHI @ CHA W 27 16 6 10 60.0 4 6 66.7 0 0 - 0 1 1 5 1 0 1 5 5
+p136
+aVJannero Pargo CHI 03/28/2005 CHI vs. MEM W 15 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 4 0 0 1 1 1
+p137
+aVLuol Deng CHI 03/28/2005 CHI vs. MEM W 11 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 2 0 1 0 5
+p138
+aVAndres Nocioni CHI 03/28/2005 CHI vs. MEM W 26 12 5 7 71.4 0 0 - 2 2 100.0 0 4 4 1 0 1 2 2 9
+p139
+aVChris Duhon CHI 03/28/2005 CHI vs. MEM W 36 5 2 8 25.0 1 3 33.3 0 0 - 0 4 4 6 0 0 3 3 14
+p140
+aVEric Piatkowski CHI 03/28/2005 CHI vs. MEM W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 1 0 1 0 2
+p141
+aVBen Gordon CHI 03/28/2005 CHI vs. MEM W 32 17 6 17 35.3 3 5 60.0 2 2 100.0 0 3 3 2 0 1 1 1 -1
+p142
+aVAntonio Davis CHI 03/28/2005 CHI vs. MEM W 19 5 1 2 50.0 0 0 - 3 6 50.0 4 4 8 2 1 1 1 2 9
+p143
+aVOthella Harrington CHI 03/28/2005 CHI vs. MEM W 7 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 4 0
+p144
+aVEddy Curry CHI 03/28/2005 CHI vs. MEM W 36 25 10 19 52.6 0 0 - 5 5 100.0 1 3 4 0 0 2 1 3 7
+p145
+aVAdrian Griffin CHI 03/28/2005 CHI vs. MEM W 11 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 2 0 0 1 -4
+p146
+aVTyson Chandler CHI 03/28/2005 CHI vs. MEM W 34 13 5 6 83.3 0 0 - 3 3 100.0 3 11 14 2 1 0 0 3 -2
+p147
+aVAntonio Davis CHI 03/26/2005 CHI vs. IND W 25 10 4 9 44.4 0 0 - 2 2 100.0 3 3 6 1 0 0 1 0 4
+p148
+aVAdrian Griffin CHI 03/26/2005 CHI vs. IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 1
+p149
+aVJannero Pargo CHI 03/26/2005 CHI vs. IND W 23 6 2 9 22.2 0 2 0.0 2 2 100.0 2 5 7 7 0 0 2 1 6
+p150
+aVEric Piatkowski CHI 03/26/2005 CHI vs. IND W 18 3 1 5 20.0 0 2 0.0 1 1 100.0 1 2 3 0 1 1 1 2 0
+p151
+aVEddy Curry CHI 03/26/2005 CHI vs. IND W 29 27 9 11 81.8 0 0 - 9 13 69.2 1 5 6 0 0 0 1 2 6
+p152
+aVAndres Nocioni CHI 03/26/2005 CHI vs. IND W 18 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 1 0 0 2 1 2
+p153
+aVTyson Chandler CHI 03/26/2005 CHI vs. IND W 23 3 1 1 100.0 0 0 - 1 2 50.0 1 6 7 0 1 0 1 4 0
+p154
+aVLuol Deng CHI 03/26/2005 CHI vs. IND W 25 13 4 8 50.0 0 1 0.0 5 6 83.3 2 4 6 1 1 0 2 2 1
+p155
+aVBen Gordon CHI 03/26/2005 CHI vs. IND W 29 20 3 15 20.0 1 4 25.0 13 14 92.9 2 2 4 2 0 1 2 4 8
+p156
+aVChris Duhon CHI 03/26/2005 CHI vs. IND W 26 0 0 7 0.0 0 3 0.0 0 0 - 0 1 1 6 3 0 1 3 -6
+p157
+aVOthella Harrington CHI 03/26/2005 CHI vs. IND W 18 14 6 11 54.5 0 0 - 2 2 100.0 1 3 4 0 0 2 1 4 -2
+p158
+aVJannero Pargo CHI 03/25/2005 CHI @ BOS W 22 7 3 10 30.0 1 4 25.0 0 0 - 0 0 0 4 0 0 3 2 -2
+p159
+aVBen Gordon CHI 03/25/2005 CHI @ BOS W 31 12 5 12 41.7 2 6 33.3 0 0 - 0 2 2 4 1 0 1 2 10
+p160
+aVAndres Nocioni CHI 03/25/2005 CHI @ BOS W 17 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 2 0
+p161
+aVAntonio Davis CHI 03/25/2005 CHI @ BOS W 25 10 4 7 57.1 0 0 - 2 4 50.0 3 6 9 1 0 0 1 1 -5
+p162
+aVLuol Deng CHI 03/25/2005 CHI @ BOS W 26 9 3 10 30.0 0 0 - 3 3 100.0 3 4 7 2 1 1 1 3 8
+p163
+aVEddy Curry CHI 03/25/2005 CHI @ BOS W 23 16 6 8 75.0 0 0 - 4 6 66.7 0 6 6 1 0 2 2 5 6
+p164
+aVEric Piatkowski CHI 03/25/2005 CHI @ BOS W 17 4 2 7 28.6 0 3 0.0 0 1 0.0 0 0 0 2 0 0 0 3 -2
+p165
+aVAdrian Griffin CHI 03/25/2005 CHI @ BOS W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 2
+p166
+aVOthella Harrington CHI 03/25/2005 CHI @ BOS W 20 10 5 9 55.6 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p167
+aVTyson Chandler CHI 03/25/2005 CHI @ BOS W 27 13 3 3 100.0 0 0 - 7 10 70.0 2 8 10 1 0 2 1 1 11
+p168
+aVChris Duhon CHI 03/25/2005 CHI @ BOS W 26 9 2 6 33.3 2 4 50.0 3 4 75.0 0 1 1 4 1 0 1 3 10
+p169
+aVOthella Harrington CHI 03/23/2005 CHI @ TOR W 17 11 4 6 66.7 0 0 - 3 4 75.0 2 3 5 3 1 0 1 1 -1
+p170
+aVEric Piatkowski CHI 03/23/2005 CHI @ TOR W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 1
+p171
+aVJannero Pargo CHI 03/23/2005 CHI @ TOR W 12 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 0
+p172
+aVLuol Deng CHI 03/23/2005 CHI @ TOR W 23 9 4 8 50.0 1 1 100.0 0 2 0.0 1 5 6 1 0 2 3 1 7
+p173
+aVBen Gordon CHI 03/23/2005 CHI @ TOR W 27 13 6 17 35.3 0 4 0.0 1 1 100.0 0 1 1 1 1 0 2 3 8
+p174
+aVAntonio Davis CHI 03/23/2005 CHI @ TOR W 28 12 3 9 33.3 0 0 - 6 7 85.7 2 3 5 1 0 1 2 4 12
+p175
+aVEddy Curry CHI 03/23/2005 CHI @ TOR W 23 16 7 10 70.0 0 0 - 2 2 100.0 0 4 4 1 0 0 2 4 3
+p176
+aVAndres Nocioni CHI 03/23/2005 CHI @ TOR W 26 10 3 7 42.9 0 0 - 4 5 80.0 1 7 8 1 1 1 2 1 -1
+p177
+aVChris Duhon CHI 03/23/2005 CHI @ TOR W 48 6 2 9 22.2 1 5 20.0 1 2 50.0 0 8 8 8 1 0 2 3 9
+p178
+aVTyson Chandler CHI 03/23/2005 CHI @ TOR W 27 8 3 6 50.0 0 0 - 2 2 100.0 3 8 11 3 2 0 1 1 7
+p179
+aVAdrian Griffin CHI 03/21/2005 CHI vs. ATL W 3 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p180
+aVAndres Nocioni CHI 03/21/2005 CHI vs. ATL W 23 6 1 6 16.7 0 0 - 4 4 100.0 0 7 7 0 1 0 0 3 10
+p181
+aVKirk Hinrich CHI 03/21/2005 CHI vs. ATL W 31 12 6 12 50.0 0 3 0.0 0 0 - 0 2 2 10 1 1 1 2 8
+p182
+aVAntonio Davis CHI 03/21/2005 CHI vs. ATL W 23 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 2 0 2 1 2 3
+p183
+aVEddy Curry CHI 03/21/2005 CHI vs. ATL W 24 24 8 13 61.5 0 0 - 8 9 88.9 1 5 6 1 0 0 1 4 15
+p184
+aVChris Duhon CHI 03/21/2005 CHI vs. ATL W 34 6 2 8 25.0 2 6 33.3 0 0 - 0 1 1 5 2 0 1 3 6
+p185
+aVOthella Harrington CHI 03/21/2005 CHI vs. ATL W 17 10 5 6 83.3 0 0 - 0 0 - 4 1 5 0 1 1 0 1 -2
+p186
+aVLuol Deng CHI 03/21/2005 CHI vs. ATL W 22 9 4 8 50.0 0 2 0.0 1 2 50.0 0 0 0 1 1 0 1 2 6
+p187
+aVBen Gordon CHI 03/21/2005 CHI vs. ATL W 23 17 6 11 54.5 2 5 40.0 3 4 75.0 1 0 1 2 0 0 5 4 14
+p188
+aVJannero Pargo CHI 03/21/2005 CHI vs. ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p189
+aVEric Piatkowski CHI 03/21/2005 CHI vs. ATL W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 4
+p190
+aVTyson Chandler CHI 03/21/2005 CHI vs. ATL W 32 5 0 5 0.0 0 0 - 5 6 83.3 5 8 13 2 0 1 0 4 12
+p191
+aVTyson Chandler CHI 03/19/2005 CHI @ PHI W 26 4 1 3 33.3 0 0 - 2 3 66.7 2 4 6 1 1 1 1 3 4
+p192
+aVOthella Harrington CHI 03/19/2005 CHI @ PHI W 25 24 10 15 66.7 0 0 - 4 4 100.0 2 3 5 0 0 1 3 5 13
+p193
+aVJared Reiner CHI 03/19/2005 CHI @ PHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -6
+p194
+aVBen Gordon CHI 03/19/2005 CHI @ PHI W 34 22 7 19 36.8 3 6 50.0 5 5 100.0 1 3 4 0 2 0 5 3 -3
+p195
+aVChris Duhon CHI 03/19/2005 CHI @ PHI W 31 6 2 7 28.6 2 4 50.0 0 0 - 1 5 6 3 2 0 1 5 20
+p196
+aVEric Piatkowski CHI 03/19/2005 CHI @ PHI W 17 3 1 7 14.3 1 7 14.3 0 0 - 1 1 2 0 0 0 0 1 -12
+p197
+aVAndres Nocioni CHI 03/19/2005 CHI @ PHI W 25 3 0 4 0.0 0 0 - 3 4 75.0 1 7 8 3 0 0 0 2 0
+p198
+aVKirk Hinrich CHI 03/19/2005 CHI @ PHI W 44 21 8 25 32.0 1 6 16.7 4 4 100.0 2 6 8 9 3 1 3 1 9
+p199
+aVAntonio Davis CHI 03/19/2005 CHI @ PHI W 34 11 5 10 50.0 0 0 - 1 2 50.0 4 5 9 1 1 0 1 3 5
+p200
+aVAndres Nocioni CHI 03/18/2005 CHI vs. NOH L 19 9 2 7 28.6 0 1 0.0 5 6 83.3 1 1 2 1 0 0 1 1 -8
+p201
+aVJared Reiner CHI 03/18/2005 CHI vs. NOH L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 2 0
+p202
+aVOthella Harrington CHI 03/18/2005 CHI vs. NOH L 15 8 3 4 75.0 0 0 - 2 2 100.0 0 6 6 0 0 1 2 5 -1
+p203
+aVJannero Pargo CHI 03/18/2005 CHI vs. NOH L 14 6 3 9 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 1 3 -6
+p204
+aVKirk Hinrich CHI 03/18/2005 CHI vs. NOH L 41 27 9 19 47.4 6 8 75.0 3 4 75.0 1 3 4 5 0 0 3 2 0
+p205
+aVAntonio Davis CHI 03/18/2005 CHI vs. NOH L 43 2 1 5 20.0 0 0 - 0 0 - 4 8 12 2 0 4 2 1 -4
+p206
+aVTyson Chandler CHI 03/18/2005 CHI vs. NOH L 35 13 2 3 66.7 0 0 - 9 12 75.0 3 12 15 1 0 5 5 2 4
+p207
+aVChris Duhon CHI 03/18/2005 CHI vs. NOH L 30 8 2 8 25.0 2 6 33.3 2 2 100.0 1 2 3 7 0 0 1 4 2
+p208
+aVAdrian Griffin CHI 03/18/2005 CHI vs. NOH L 9 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 1 2 0 1 2 -10
+p209
+aVBen Gordon CHI 03/18/2005 CHI vs. NOH L 31 14 4 12 33.3 3 6 50.0 3 4 75.0 0 2 2 0 0 1 4 3 3
+p210
+aVAndres Nocioni CHI 03/16/2005 CHI @ NJN L 30 15 5 11 45.5 1 4 25.0 4 4 100.0 1 6 7 2 0 0 3 2 -1
+p211
+aVTyson Chandler CHI 03/16/2005 CHI @ NJN L 35 12 4 5 80.0 0 0 - 4 7 57.1 4 10 14 1 2 3 4 4 -3
+p212
+aVOthella Harrington CHI 03/16/2005 CHI @ NJN L 14 4 2 5 40.0 0 0 - 0 1 0.0 0 0 0 1 0 0 1 1 -17
+p213
+aVEric Piatkowski CHI 03/16/2005 CHI @ NJN L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -9
+p214
+aVAdrian Griffin CHI 03/16/2005 CHI @ NJN L 25 10 4 6 66.7 0 0 - 2 2 100.0 2 3 5 2 1 0 1 2 5
+p215
+aVJared Reiner CHI 03/16/2005 CHI @ NJN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p216
+aVAntonio Davis CHI 03/16/2005 CHI @ NJN L 16 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 1 -16
+p217
+aVJannero Pargo CHI 03/16/2005 CHI @ NJN L 23 10 3 12 25.0 2 7 28.6 2 2 100.0 0 3 3 2 0 0 0 3 -5
+p218
+aVBen Gordon CHI 03/16/2005 CHI @ NJN L 31 15 5 15 33.3 1 3 33.3 4 4 100.0 1 3 4 3 0 0 1 4 -1
+p219
+aVKirk Hinrich CHI 03/16/2005 CHI @ NJN L 28 7 2 8 25.0 1 3 33.3 2 4 50.0 0 2 2 6 1 0 1 3 -17
+p220
+aVChris Duhon CHI 03/16/2005 CHI @ NJN L 26 8 3 7 42.9 2 5 40.0 0 0 - 0 2 2 2 0 0 2 1 -17
+p221
+aVTyson Chandler CHI 03/15/2005 CHI vs. SEA L 14 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 0 0 1 1 4 -3
+p222
+aVBen Gordon CHI 03/15/2005 CHI vs. SEA L 22 21 6 18 33.3 3 11 27.3 6 7 85.7 2 4 6 3 0 0 1 5 -6
+p223
+aVEric Piatkowski CHI 03/15/2005 CHI vs. SEA L 17 10 3 7 42.9 1 5 20.0 3 4 75.0 0 0 0 1 0 0 1 2 12
+p224
+aVChris Duhon CHI 03/15/2005 CHI vs. SEA L 31 6 3 9 33.3 0 3 0.0 0 1 0.0 1 1 2 5 1 0 1 5 13
+p225
+aVAdrian Griffin CHI 03/15/2005 CHI vs. SEA L 7 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 1 0 1 0 1 6
+p226
+aVEddy Curry CHI 03/15/2005 CHI vs. SEA L 29 10 3 7 42.9 0 0 - 4 8 50.0 4 0 4 0 0 0 1 4 -18
+p227
+aVJannero Pargo CHI 03/15/2005 CHI vs. SEA L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p228
+aVOthella Harrington CHI 03/15/2005 CHI vs. SEA L 11 0 0 0 - 0 0 - 0 0 - 3 3 6 0 0 0 1 3 5
+p229
+aVKirk Hinrich CHI 03/15/2005 CHI vs. SEA L 35 7 3 15 20.0 1 4 25.0 0 0 - 1 3 4 5 0 0 1 4 -25
+p230
+aVAntonio Davis CHI 03/15/2005 CHI vs. SEA L 38 13 6 10 60.0 0 0 - 1 2 50.0 3 6 9 2 0 2 1 3 -1
+p231
+aVAndres Nocioni CHI 03/15/2005 CHI vs. SEA L 34 15 5 9 55.6 0 2 0.0 5 7 71.4 3 5 8 4 2 1 2 6 -19
+p232
+aVEric Piatkowski CHI 03/13/2005 CHI @ LAC L 14 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 1 0 0 0 3
+p233
+aVEddy Curry CHI 03/13/2005 CHI @ LAC L 31 19 8 18 44.4 0 0 - 3 3 100.0 6 2 8 0 0 5 3 5 1
+p234
+aVOthella Harrington CHI 03/13/2005 CHI @ LAC L 20 6 3 8 37.5 0 0 - 0 1 0.0 4 3 7 1 1 0 0 2 -10
+p235
+aVKirk Hinrich CHI 03/13/2005 CHI @ LAC L 42 16 6 17 35.3 4 7 57.1 0 0 - 0 5 5 8 2 0 3 1 -3
+p236
+aVAndres Nocioni CHI 03/13/2005 CHI @ LAC L 19 5 2 7 28.6 1 2 50.0 0 0 - 0 5 5 0 0 0 2 3 -4
+p237
+aVTyson Chandler CHI 03/13/2005 CHI @ LAC L 21 5 1 3 33.3 0 0 - 3 4 75.0 3 4 7 0 1 0 2 6 -13
+p238
+aVChris Duhon CHI 03/13/2005 CHI @ LAC L 40 9 4 13 30.8 1 6 16.7 0 0 - 1 3 4 8 2 0 1 2 -5
+p239
+aVBen Gordon CHI 03/13/2005 CHI @ LAC L 25 14 6 17 35.3 2 5 40.0 0 0 - 0 4 4 0 1 0 2 3 -7
+p240
+aVAntonio Davis CHI 03/13/2005 CHI @ LAC L 24 4 1 4 25.0 0 0 - 2 2 100.0 2 3 5 1 3 0 1 3 14
+p241
+aVAdrian Griffin CHI 03/13/2005 CHI @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -1
+p242
+aVTyson Chandler CHI 03/11/2005 CHI @ SEA W 26 12 2 3 66.7 0 0 - 8 11 72.7 4 3 7 2 0 1 3 3 5
+p243
+aVKirk Hinrich CHI 03/11/2005 CHI @ SEA W 43 10 3 17 17.6 1 4 25.0 3 4 75.0 1 4 5 5 4 1 2 5 -8
+p244
+aVAdrian Griffin CHI 03/11/2005 CHI @ SEA W 10 2 1 2 50.0 0 0 - 0 0 - 2 3 5 2 2 0 2 3 10
+p245
+aVAndres Nocioni CHI 03/11/2005 CHI @ SEA W 23 6 2 5 40.0 0 1 0.0 2 2 100.0 1 4 5 3 1 0 5 4 -9
+p246
+aVOthella Harrington CHI 03/11/2005 CHI @ SEA W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 6
+p247
+aVEddy Curry CHI 03/11/2005 CHI @ SEA W 34 20 9 15 60.0 0 0 - 2 4 50.0 2 6 8 0 0 2 1 2 2
+p248
+aVChris Duhon CHI 03/11/2005 CHI @ SEA W 32 7 2 5 40.0 1 3 33.3 2 4 50.0 2 3 5 3 0 1 1 3 -3
+p249
+aVEric Piatkowski CHI 03/11/2005 CHI @ SEA W 16 10 3 8 37.5 3 4 75.0 1 1 100.0 0 1 1 0 0 0 0 2 9
+p250
+aVAntonio Davis CHI 03/11/2005 CHI @ SEA W 29 11 4 8 50.0 0 0 - 3 3 100.0 2 2 4 0 0 0 1 1 -8
+p251
+aVJannero Pargo CHI 03/11/2005 CHI @ SEA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p252
+aVBen Gordon CHI 03/11/2005 CHI @ SEA W 19 22 9 17 52.9 2 4 50.0 2 2 100.0 1 2 3 1 0 0 1 4 10
+p253
+aVAntonio Davis CHI 03/09/2005 CHI @ POR W 17 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 0 1 1 0 4 3
+p254
+aVBen Gordon CHI 03/09/2005 CHI @ POR W 21 8 3 12 25.0 2 6 33.3 0 0 - 0 0 0 2 1 0 2 2 4
+p255
+aVChris Duhon CHI 03/09/2005 CHI @ POR W 27 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 6 1 0 0 3 10
+p256
+aVAndres Nocioni CHI 03/09/2005 CHI @ POR W 39 14 5 13 38.5 0 1 0.0 4 4 100.0 1 5 6 5 1 1 1 3 16
+p257
+aVFrank Williams CHI 03/09/2005 CHI @ POR W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p258
+aVOthella Harrington CHI 03/09/2005 CHI @ POR W 15 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 2 4 8
+p259
+aVAdrian Griffin CHI 03/09/2005 CHI @ POR W 9 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 2 0 0 1 -3
+p260
+aVKirk Hinrich CHI 03/09/2005 CHI @ POR W 41 22 8 17 47.1 2 4 50.0 4 6 66.7 0 5 5 5 4 0 3 2 16
+p261
+aVTyson Chandler CHI 03/09/2005 CHI @ POR W 31 9 4 9 44.4 0 0 - 1 4 25.0 6 7 13 2 2 0 3 1 10
+p262
+aVEddy Curry CHI 03/09/2005 CHI @ POR W 33 25 12 19 63.2 0 0 - 1 2 50.0 7 1 8 1 0 0 1 2 5
+p263
+aVChris Duhon CHI 03/07/2005 CHI vs. MIL W 38 13 4 8 50.0 3 5 60.0 2 2 100.0 1 3 4 10 2 0 1 2 3
+p264
+aVAndres Nocioni CHI 03/07/2005 CHI vs. MIL W 31 13 5 7 71.4 1 2 50.0 2 4 50.0 2 6 8 1 1 0 5 2 -1
+p265
+aVBen Gordon CHI 03/07/2005 CHI vs. MIL W 24 11 5 16 31.3 0 4 0.0 1 2 50.0 0 3 3 2 0 0 1 4 11
+p266
+aVEric Piatkowski CHI 03/07/2005 CHI vs. MIL W 10 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 6
+p267
+aVTyson Chandler CHI 03/07/2005 CHI vs. MIL W 25 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 1 0 0 0 3 2
+p268
+aVKirk Hinrich CHI 03/07/2005 CHI vs. MIL W 41 17 6 16 37.5 1 4 25.0 4 5 80.0 1 5 6 8 1 0 2 2 -4
+p269
+aVOthella Harrington CHI 03/07/2005 CHI vs. MIL W 19 8 2 4 50.0 0 0 - 4 4 100.0 1 3 4 2 0 0 0 2 10
+p270
+aVEddy Curry CHI 03/07/2005 CHI vs. MIL W 36 16 6 11 54.5 0 0 - 4 4 100.0 1 6 7 0 1 0 7 4 4
+p271
+aVAntonio Davis CHI 03/07/2005 CHI vs. MIL W 16 6 3 7 42.9 0 0 - 0 0 - 2 2 4 0 0 0 3 3 -6
+p272
+aVAndres Nocioni CHI 03/05/2005 CHI @ MIL L 31 6 3 11 27.3 0 2 0.0 0 0 - 1 8 9 3 0 0 3 2 -9
+p273
+aVTyson Chandler CHI 03/05/2005 CHI @ MIL L 34 10 4 6 66.7 0 0 - 2 3 66.7 3 9 12 1 1 2 1 5 -4
+p274
+aVAdrian Griffin CHI 03/05/2005 CHI @ MIL L 12 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 1 1 0 2 0 9
+p275
+aVBen Gordon CHI 03/05/2005 CHI @ MIL L 26 20 9 18 50.0 2 8 25.0 0 0 - 0 2 2 3 1 0 3 2 -7
+p276
+aVAntonio Davis CHI 03/05/2005 CHI @ MIL L 31 10 4 6 66.7 0 0 - 2 2 100.0 2 3 5 0 1 0 1 2 -14
+p277
+aVOthella Harrington CHI 03/05/2005 CHI @ MIL L 14 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 1 6 3
+p278
+aVKirk Hinrich CHI 03/05/2005 CHI @ MIL L 36 24 9 21 42.9 3 10 30.0 3 3 100.0 2 2 4 3 3 0 1 3 -9
+p279
+aVChris Duhon CHI 03/05/2005 CHI @ MIL L 39 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 7 2 0 2 6 -5
+p280
+aVEric Piatkowski CHI 03/05/2005 CHI @ MIL L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p281
+aVEddy Curry CHI 03/05/2005 CHI @ MIL L 16 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 1 1 1 4 2 1
+p282
+aVEric Piatkowski CHI 03/04/2005 CHI @ SAS L 4 2 1 2 50.0 0 1 0.0 0 1 0.0 0 0 0 0 0 0 0 0 -11
+p283
+aVAntonio Davis CHI 03/04/2005 CHI @ SAS L 32 12 6 10 60.0 0 0 - 0 0 - 3 3 6 2 2 1 2 3 0
+p284
+aVOthella Harrington CHI 03/04/2005 CHI @ SAS L 20 20 7 9 77.8 0 0 - 6 8 75.0 1 4 5 1 0 0 1 2 7
+p285
+aVAndres Nocioni CHI 03/04/2005 CHI @ SAS L 36 13 4 6 66.7 0 0 - 5 6 83.3 0 7 7 2 0 2 2 2 1
+p286
+aVChris Duhon CHI 03/04/2005 CHI @ SAS L 41 6 3 7 42.9 0 2 0.0 0 0 - 0 4 4 5 2 0 4 5 -3
+p287
+aVKirk Hinrich CHI 03/04/2005 CHI @ SAS L 24 6 3 10 30.0 0 0 - 0 0 - 0 5 5 3 4 0 5 3 0
+p288
+aVBen Gordon CHI 03/04/2005 CHI @ SAS L 33 20 7 15 46.7 1 2 50.0 5 6 83.3 0 2 2 2 0 0 4 2 10
+p289
+aVAdrian Griffin CHI 03/04/2005 CHI @ SAS L 9 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 1 0 0 1 1 -8
+p290
+aVTyson Chandler CHI 03/04/2005 CHI @ SAS L 26 8 3 4 75.0 0 0 - 2 4 50.0 3 2 5 0 0 1 0 6 -6
+p291
+aVEddy Curry CHI 03/04/2005 CHI @ SAS L 15 9 3 7 42.9 0 0 - 3 3 100.0 0 0 0 0 0 1 2 4 -5
+p292
+aVAndres Nocioni CHI 03/01/2005 CHI vs. HOU L 21 8 2 9 22.2 0 2 0.0 4 5 80.0 2 3 5 1 2 0 1 4 -7
+p293
+aVAntonio Davis CHI 03/01/2005 CHI vs. HOU L 18 3 1 3 33.3 0 0 - 1 2 50.0 3 2 5 0 0 0 2 0 -26
+p294
+aVAdrian Griffin CHI 03/01/2005 CHI vs. HOU L 15 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 2 0 1 3 -9
+p295
+aVOthella Harrington CHI 03/01/2005 CHI vs. HOU L 25 13 4 6 66.7 0 0 - 5 9 55.6 4 5 9 1 0 0 4 4 -3
+p296
+aVEddy Curry CHI 03/01/2005 CHI vs. HOU L 22 17 4 7 57.1 0 0 - 9 14 64.3 2 1 3 0 0 0 1 1 -24
+p297
+aVChris Duhon CHI 03/01/2005 CHI vs. HOU L 30 2 1 7 14.3 0 4 0.0 0 0 - 1 2 3 3 1 0 0 1 -12
+p298
+aVJannero Pargo CHI 03/01/2005 CHI vs. HOU L 20 5 1 11 9.1 1 4 25.0 2 2 100.0 0 3 3 3 0 0 2 2 -6
+p299
+aVTyson Chandler CHI 03/01/2005 CHI vs. HOU L 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -7
+p300
+aVBen Gordon CHI 03/01/2005 CHI vs. HOU L 29 15 7 18 38.9 1 4 25.0 0 0 - 1 4 5 1 1 1 2 1 -21
+p301
+aVEric Piatkowski CHI 03/01/2005 CHI vs. HOU L 20 14 4 7 57.1 0 0 - 6 6 100.0 1 1 2 1 0 0 0 0 -9
+p302
+aVLuol Deng CHI 03/01/2005 CHI vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p303
+aVKirk Hinrich CHI 03/01/2005 CHI vs. HOU L 23 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 5 0 0 1 3 -28
+p304
+aVTyson Chandler CHI 02/26/2005 CHI @ CHA W 14 1 0 0 - 0 0 - 1 2 50.0 1 6 7 0 1 4 1 4 -3
+p305
+aVEddy Curry CHI 02/26/2005 CHI @ CHA W 24 16 5 13 38.5 0 0 - 6 7 85.7 1 6 7 0 1 1 3 1 6
+p306
+aVLuol Deng CHI 02/26/2005 CHI @ CHA W 22 8 4 8 50.0 0 0 - 0 1 0.0 1 2 3 2 0 0 2 2 -1
+p307
+aVOthella Harrington CHI 02/26/2005 CHI @ CHA W 22 12 5 11 45.5 0 0 - 2 4 50.0 6 3 9 0 0 0 2 3 -7
+p308
+aVAntonio Davis CHI 02/26/2005 CHI @ CHA W 35 20 7 9 77.8 0 0 - 6 7 85.7 3 3 6 1 0 2 2 3 12
+p309
+aVBen Gordon CHI 02/26/2005 CHI @ CHA W 15 11 2 5 40.0 2 3 66.7 5 5 100.0 1 1 2 4 1 0 2 5 9
+p310
+aVChris Duhon CHI 02/26/2005 CHI @ CHA W 36 8 2 6 33.3 2 5 40.0 2 2 100.0 0 6 6 4 0 0 3 3 4
+p311
+aVJannero Pargo CHI 02/26/2005 CHI @ CHA W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p312
+aVAdrian Griffin CHI 02/26/2005 CHI @ CHA W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 2
+p313
+aVKirk Hinrich CHI 02/26/2005 CHI @ CHA W 45 11 4 15 26.7 3 5 60.0 0 0 - 0 5 5 5 1 0 2 2 9
+p314
+aVAndres Nocioni CHI 02/26/2005 CHI @ CHA W 9 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 0 -9
+p315
+aVBen Gordon CHI 02/25/2005 CHI vs. WAS W 28 20 8 21 38.1 3 7 42.9 1 1 100.0 2 3 5 4 2 0 2 2 12
+p316
+aVLuol Deng CHI 02/25/2005 CHI vs. WAS W 23 8 3 10 30.0 0 0 - 2 2 100.0 1 2 3 1 0 0 6 1 -17
+p317
+aVChris Duhon CHI 02/25/2005 CHI vs. WAS W 32 11 4 10 40.0 2 5 40.0 1 1 100.0 1 5 6 8 1 0 1 4 4
+p318
+aVKirk Hinrich CHI 02/25/2005 CHI vs. WAS W 39 26 9 21 42.9 5 12 41.7 3 4 75.0 0 5 5 6 3 1 1 5 -5
+p319
+aVOthella Harrington CHI 02/25/2005 CHI vs. WAS W 19 12 4 6 66.7 0 0 - 4 4 100.0 1 3 4 0 0 1 2 2 18
+p320
+aVTyson Chandler CHI 02/25/2005 CHI vs. WAS W 31 5 2 4 50.0 0 0 - 1 3 33.3 3 6 9 1 0 5 1 3 22
+p321
+aVEddy Curry CHI 02/25/2005 CHI vs. WAS W 23 5 1 4 25.0 0 0 - 3 4 75.0 0 1 1 0 1 1 1 3 -18
+p322
+aVAntonio Davis CHI 02/25/2005 CHI vs. WAS W 23 5 2 5 40.0 0 0 - 1 2 50.0 6 4 10 0 1 0 2 1 -9
+p323
+aVAndres Nocioni CHI 02/25/2005 CHI vs. WAS W 22 5 2 5 40.0 1 1 100.0 0 0 - 1 2 3 4 0 2 3 3 28
+p324
+aVLuol Deng CHI 02/23/2005 CHI @ CLE L 29 8 3 5 60.0 0 0 - 2 3 66.7 1 4 5 0 1 1 1 1 -9
+p325
+aVEric Piatkowski CHI 02/23/2005 CHI @ CLE L 11 8 2 4 50.0 0 1 0.0 4 5 80.0 0 1 1 0 0 0 1 0 4
+p326
+aVEddy Curry CHI 02/23/2005 CHI @ CLE L 25 12 4 12 33.3 0 0 - 4 8 50.0 1 3 4 0 2 0 0 1 0
+p327
+aVBen Gordon CHI 02/23/2005 CHI @ CLE L 28 21 7 16 43.8 4 8 50.0 3 4 75.0 2 1 3 1 0 2 5 3 2
+p328
+aVOthella Harrington CHI 02/23/2005 CHI @ CLE L 13 7 2 5 40.0 0 0 - 3 4 75.0 1 4 5 0 0 0 1 4 -6
+p329
+aVKirk Hinrich CHI 02/23/2005 CHI @ CLE L 47 13 6 12 50.0 0 2 0.0 1 2 50.0 0 2 2 6 0 0 3 2 -12
+p330
+aVTyson Chandler CHI 02/23/2005 CHI @ CLE L 33 12 4 7 57.1 0 0 - 4 5 80.0 4 3 7 0 2 3 1 6 -15
+p331
+aVAntonio Davis CHI 02/23/2005 CHI @ CLE L 13 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 2 0 0 3 -8
+p332
+aVChris Duhon CHI 02/23/2005 CHI @ CLE L 18 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 3 1 0 3 3 -8
+p333
+aVAndres Nocioni CHI 02/23/2005 CHI @ CLE L 23 6 3 6 50.0 0 1 0.0 0 1 0.0 0 3 3 1 0 0 2 5 7
+p334
+aVLuol Deng CHI 02/22/2005 CHI vs. MIA W 40 14 5 13 38.5 0 0 - 4 5 80.0 3 4 7 2 1 0 1 2 16
+p335
+aVEric Piatkowski CHI 02/22/2005 CHI vs. MIA W 8 5 2 4 50.0 1 3 33.3 0 0 - 1 2 3 0 0 0 2 2 4
+p336
+aVChris Duhon CHI 02/22/2005 CHI vs. MIA W 33 9 3 9 33.3 1 4 25.0 2 4 50.0 1 3 4 6 2 0 1 1 15
+p337
+aVTyson Chandler CHI 02/22/2005 CHI vs. MIA W 30 6 3 4 75.0 0 0 - 0 1 0.0 7 5 12 0 4 0 2 4 -2
+p338
+aVAntonio Davis CHI 02/22/2005 CHI vs. MIA W 21 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -4
+p339
+aVAndres Nocioni CHI 02/22/2005 CHI vs. MIA W 16 7 2 5 40.0 1 1 100.0 2 3 66.7 0 3 3 0 0 0 1 2 -6
+p340
+aVAdrian Griffin CHI 02/22/2005 CHI vs. MIA W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p341
+aVEddy Curry CHI 02/22/2005 CHI vs. MIA W 27 16 6 12 50.0 0 0 - 4 6 66.7 0 3 3 1 1 0 1 4 -7
+p342
+aVOthella Harrington CHI 02/22/2005 CHI vs. MIA W 17 5 2 3 66.7 0 0 - 1 2 50.0 4 6 10 0 1 0 3 0 9
+p343
+aVKirk Hinrich CHI 02/22/2005 CHI vs. MIA W 43 9 4 19 21.1 1 6 16.7 0 1 0.0 0 4 4 7 1 0 2 3 -7
+p344
+aVBen Gordon CHI 02/22/2005 CHI vs. MIA W 25 29 9 21 42.9 6 9 66.7 5 6 83.3 2 4 6 3 1 0 2 4 5
+p345
+aVChris Duhon CHI 02/16/2005 CHI @ TOR W 29 12 4 7 57.1 4 5 80.0 0 0 - 0 3 3 8 2 0 0 4 8
+p346
+aVAdrian Griffin CHI 02/16/2005 CHI @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p347
+aVOthella Harrington CHI 02/16/2005 CHI @ TOR W 20 11 5 8 62.5 0 0 - 1 1 100.0 2 4 6 2 1 0 1 3 14
+p348
+aVKirk Hinrich CHI 02/16/2005 CHI @ TOR W 43 28 11 16 68.8 6 8 75.0 0 0 - 0 3 3 4 2 0 7 4 7
+p349
+aVAndres Nocioni CHI 02/16/2005 CHI @ TOR W 15 6 2 2 100.0 0 0 - 2 4 50.0 1 6 7 1 0 0 1 2 -10
+p350
+aVTyson Chandler CHI 02/16/2005 CHI @ TOR W 18 2 1 1 100.0 0 0 - 0 0 - 2 6 8 2 0 2 3 5 -12
+p351
+aVEddy Curry CHI 02/16/2005 CHI @ TOR W 34 25 9 16 56.3 0 0 - 7 8 87.5 1 1 2 0 0 1 1 2 6
+p352
+aVEric Piatkowski CHI 02/16/2005 CHI @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p353
+aVAntonio Davis CHI 02/16/2005 CHI @ TOR W 16 0 0 4 0.0 0 0 - 0 0 - 1 0 1 1 0 1 1 1 0
+p354
+aVLuol Deng CHI 02/16/2005 CHI @ TOR W 41 20 5 9 55.6 0 0 - 10 11 90.9 0 5 5 3 1 1 3 0 20
+p355
+aVBen Gordon CHI 02/16/2005 CHI @ TOR W 22 17 7 13 53.8 1 2 50.0 2 2 100.0 0 1 1 3 0 0 3 4 -5
+p356
+aVAdrian Griffin CHI 02/15/2005 CHI vs. SAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p357
+aVKirk Hinrich CHI 02/15/2005 CHI vs. SAC W 40 11 4 12 33.3 1 5 20.0 2 2 100.0 0 2 2 12 2 0 3 3 6
+p358
+aVAndres Nocioni CHI 02/15/2005 CHI vs. SAC W 20 10 2 2 100.0 0 0 - 6 10 60.0 1 5 6 1 1 0 4 3 -4
+p359
+aVEric Piatkowski CHI 02/15/2005 CHI vs. SAC W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p360
+aVBen Gordon CHI 02/15/2005 CHI vs. SAC W 31 24 8 15 53.3 0 1 0.0 8 9 88.9 1 2 3 2 0 1 0 5 12
+p361
+aVJared Reiner CHI 02/15/2005 CHI vs. SAC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 3
+p362
+aVEddy Curry CHI 02/15/2005 CHI vs. SAC W 44 25 8 12 66.7 0 0 - 9 15 60.0 1 11 12 0 1 1 3 4 10
+p363
+aVOthella Harrington CHI 02/15/2005 CHI vs. SAC W 32 15 5 9 55.6 0 0 - 5 6 83.3 2 6 8 2 1 1 4 4 4
+p364
+aVLuol Deng CHI 02/15/2005 CHI vs. SAC W 38 15 5 12 41.7 0 1 0.0 5 6 83.3 2 7 9 2 1 0 1 3 6
+p365
+aVChris Duhon CHI 02/15/2005 CHI vs. SAC W 19 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 4 0 0 2 3 -9
+p366
+aVAndres Nocioni CHI 02/13/2005 CHI @ MIN W 15 4 2 5 40.0 0 0 - 0 0 - 1 3 4 2 0 0 1 1 7
+p367
+aVKirk Hinrich CHI 02/13/2005 CHI @ MIN W 37 15 6 15 40.0 1 2 50.0 2 3 66.7 0 5 5 5 1 0 1 3 -12
+p368
+aVChris Duhon CHI 02/13/2005 CHI @ MIN W 28 10 4 8 50.0 1 3 33.3 1 1 100.0 0 1 1 5 0 0 2 1 6
+p369
+aVEddy Curry CHI 02/13/2005 CHI @ MIN W 33 17 7 9 77.8 0 0 - 3 4 75.0 2 4 6 0 0 0 2 1 -2
+p370
+aVBen Gordon CHI 02/13/2005 CHI @ MIN W 27 21 7 18 38.9 2 6 33.3 5 6 83.3 1 7 8 3 1 0 0 2 16
+p371
+aVEric Piatkowski CHI 02/13/2005 CHI @ MIN W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p372
+aVAdrian Griffin CHI 02/13/2005 CHI @ MIN W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p373
+aVJared Reiner CHI 02/13/2005 CHI @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p374
+aVLuol Deng CHI 02/13/2005 CHI @ MIN W 28 8 4 11 36.4 0 2 0.0 0 0 - 2 2 4 3 1 0 2 1 -2
+p375
+aVTyson Chandler CHI 02/13/2005 CHI @ MIN W 31 0 0 4 0.0 0 0 - 0 0 - 4 7 11 1 0 2 1 3 12
+p376
+aVOthella Harrington CHI 02/13/2005 CHI @ MIN W 31 12 3 10 30.0 0 0 - 6 6 100.0 5 1 6 1 1 1 2 2 0
+p377
+aVKirk Hinrich CHI 02/09/2005 CHI @ HOU L 36 16 6 12 50.0 1 4 25.0 3 4 75.0 0 3 3 5 3 0 1 1 -17
+p378
+aVLuol Deng CHI 02/09/2005 CHI @ HOU L 20 7 3 8 37.5 0 1 0.0 1 1 100.0 1 2 3 2 0 0 2 2 -18
+p379
+aVOthella Harrington CHI 02/09/2005 CHI @ HOU L 17 2 1 4 25.0 0 0 - 0 0 - 1 5 6 1 0 0 2 2 -5
+p380
+aVAdrian Griffin CHI 02/09/2005 CHI @ HOU L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p381
+aVEric Piatkowski CHI 02/09/2005 CHI @ HOU L 19 11 4 8 50.0 3 5 60.0 0 0 - 2 2 4 1 1 0 1 2 7
+p382
+aVTyson Chandler CHI 02/09/2005 CHI @ HOU L 33 12 4 13 30.8 0 1 0.0 4 10 40.0 9 11 20 2 0 3 2 2 -9
+p383
+aVChris Duhon CHI 02/09/2005 CHI @ HOU L 27 12 4 8 50.0 4 8 50.0 0 0 - 0 2 2 4 1 0 0 3 -5
+p384
+aVJared Reiner CHI 02/09/2005 CHI @ HOU L 7 2 1 3 33.3 0 0 - 0 0 - 3 0 3 0 0 0 0 2 10
+p385
+aVBen Gordon CHI 02/09/2005 CHI @ HOU L 24 9 4 12 33.3 1 3 33.3 0 0 - 2 2 4 0 0 0 1 1 -16
+p386
+aVAndres Nocioni CHI 02/09/2005 CHI @ HOU L 17 7 2 6 33.3 0 2 0.0 3 3 100.0 1 3 4 1 0 0 1 2 -2
+p387
+aVJannero Pargo CHI 02/09/2005 CHI @ HOU L 14 4 2 8 25.0 0 2 0.0 0 0 - 0 0 0 5 1 0 2 1 7
+p388
+aVEddy Curry CHI 02/09/2005 CHI @ HOU L 23 10 4 11 36.4 0 0 - 2 3 66.7 0 2 2 0 0 2 1 3 -16
+p389
+aVOthella Harrington CHI 02/08/2005 CHI @ DAL W 19 10 3 4 75.0 0 0 - 4 6 66.7 2 3 5 2 0 0 2 3 1
+p390
+aVTyson Chandler CHI 02/08/2005 CHI @ DAL W 27 8 3 8 37.5 0 0 - 2 6 33.3 8 7 15 0 1 1 0 5 6
+p391
+aVEddy Curry CHI 02/08/2005 CHI @ DAL W 36 23 10 14 71.4 0 0 - 3 4 75.0 1 4 5 0 0 2 4 4 8
+p392
+aVAndres Nocioni CHI 02/08/2005 CHI @ DAL W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 3 0 0 0 2 -3
+p393
+aVKirk Hinrich CHI 02/08/2005 CHI @ DAL W 37 12 4 12 33.3 2 2 100.0 2 2 100.0 0 6 6 6 2 1 3 1 6
+p394
+aVEric Piatkowski CHI 02/08/2005 CHI @ DAL W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 0
+p395
+aVJared Reiner CHI 02/08/2005 CHI @ DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p396
+aVLuol Deng CHI 02/08/2005 CHI @ DAL W 47 30 12 21 57.1 1 2 50.0 5 6 83.3 3 8 11 1 1 0 4 2 10
+p397
+aVAdrian Griffin CHI 02/08/2005 CHI @ DAL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p398
+aVChris Duhon CHI 02/08/2005 CHI @ DAL W 26 5 1 4 25.0 1 3 33.3 2 2 100.0 0 7 7 5 1 0 0 1 0
+p399
+aVBen Gordon CHI 02/08/2005 CHI @ DAL W 28 16 4 14 28.6 4 7 57.1 4 4 100.0 2 1 3 1 0 0 1 3 7
+p400
+aVOthella Harrington CHI 02/05/2005 CHI @ MIA L 12 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 0 3 3 -2
+p401
+aVEddy Curry CHI 02/05/2005 CHI @ MIA L 28 15 7 13 53.8 0 0 - 1 1 100.0 1 2 3 1 0 0 0 1 -11
+p402
+aVAndres Nocioni CHI 02/05/2005 CHI @ MIA L 18 5 1 5 20.0 0 0 - 3 6 50.0 0 6 6 0 0 1 2 0 -21
+p403
+aVTyson Chandler CHI 02/05/2005 CHI @ MIA L 29 6 1 4 25.0 0 0 - 4 6 66.7 1 5 6 0 1 0 0 3 -6
+p404
+aVChris Duhon CHI 02/05/2005 CHI @ MIA L 23 3 1 5 20.0 0 4 0.0 1 2 50.0 0 2 2 3 1 0 1 2 -7
+p405
+aVEric Piatkowski CHI 02/05/2005 CHI @ MIA L 9 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 2
+p406
+aVBen Gordon CHI 02/05/2005 CHI @ MIA L 29 25 10 17 58.8 3 4 75.0 2 4 50.0 0 3 3 1 1 0 3 2 4
+p407
+aVJared Reiner CHI 02/05/2005 CHI @ MIA L 17 3 1 5 20.0 0 0 - 1 2 50.0 1 6 7 0 0 1 0 5 -5
+p408
+aVKirk Hinrich CHI 02/05/2005 CHI @ MIA L 38 15 6 19 31.6 1 6 16.7 2 2 100.0 0 5 5 4 2 0 1 6 -11
+p409
+aVAdrian Griffin CHI 02/05/2005 CHI @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p410
+aVLuol Deng CHI 02/05/2005 CHI @ MIA L 33 18 7 12 58.3 0 1 0.0 4 4 100.0 4 5 9 3 0 0 4 3 5
+p411
+aVEric Piatkowski CHI 02/01/2005 CHI @ NJN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p412
+aVEddy Curry CHI 02/01/2005 CHI @ NJN L 15 9 4 8 50.0 0 0 - 1 1 100.0 1 3 4 1 0 1 3 4 -9
+p413
+aVJannero Pargo CHI 02/01/2005 CHI @ NJN L 10 10 4 8 50.0 2 3 66.7 0 0 - 1 0 1 1 1 0 0 2 0
+p414
+aVTyson Chandler CHI 02/01/2005 CHI @ NJN L 27 15 4 5 80.0 0 0 - 7 9 77.8 2 3 5 1 1 1 2 3 3
+p415
+aVLuol Deng CHI 02/01/2005 CHI @ NJN L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -7
+p416
+aVChris Duhon CHI 02/01/2005 CHI @ NJN L 21 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 3 0 0 1 3 -3
+p417
+aVBen Gordon CHI 02/01/2005 CHI @ NJN L 34 17 5 10 50.0 1 2 50.0 6 8 75.0 1 1 2 3 0 0 2 2 -1
+p418
+aVOthella Harrington CHI 02/01/2005 CHI @ NJN L 14 6 2 3 66.7 0 0 - 2 4 50.0 0 0 0 0 0 0 1 2 -2
+p419
+aVKirk Hinrich CHI 02/01/2005 CHI @ NJN L 39 18 5 16 31.3 1 6 16.7 7 11 63.6 0 7 7 8 0 1 1 3 -15
+p420
+aVAndres Nocioni CHI 02/01/2005 CHI @ NJN L 25 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 0 2 0 4 3 -7
+p421
+aVAntonio Davis CHI 02/01/2005 CHI @ NJN L 17 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 1 1 1 1 3 -15
+p422
+aVAdrian Griffin CHI 02/01/2005 CHI @ NJN L 24 6 3 7 42.9 0 0 - 0 0 - 3 5 8 1 3 0 1 3 3
+p423
+aVJannero Pargo CHI 01/29/2005 CHI vs. BOS L 8 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 2 1 0 2 1 -4
+p424
+aVOthella Harrington CHI 01/29/2005 CHI vs. BOS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p425
+aVAdrian Griffin CHI 01/29/2005 CHI vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p426
+aVBen Gordon CHI 01/29/2005 CHI vs. BOS L 29 31 11 21 52.4 5 9 55.6 4 6 66.7 2 1 3 1 1 0 1 5 3
+p427
+aVAntonio Davis CHI 01/29/2005 CHI vs. BOS L 26 12 3 6 50.0 0 0 - 6 9 66.7 4 10 14 1 0 0 3 1 0
+p428
+aVAndres Nocioni CHI 01/29/2005 CHI vs. BOS L 19 5 2 5 40.0 0 2 0.0 1 2 50.0 1 1 2 1 0 0 0 6 -10
+p429
+aVKirk Hinrich CHI 01/29/2005 CHI vs. BOS L 32 9 2 10 20.0 1 4 25.0 4 6 66.7 0 8 8 6 0 0 5 6 9
+p430
+aVEric Piatkowski CHI 01/29/2005 CHI vs. BOS L 9 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 2 1 0 2 1 -7
+p431
+aVChris Duhon CHI 01/29/2005 CHI vs. BOS L 19 5 2 5 40.0 1 4 25.0 0 2 0.0 0 0 0 2 0 0 0 4 -9
+p432
+aVLuol Deng CHI 01/29/2005 CHI vs. BOS L 27 8 3 9 33.3 1 3 33.3 1 2 50.0 3 3 6 3 2 0 3 2 9
+p433
+aVTyson Chandler CHI 01/29/2005 CHI vs. BOS L 30 3 1 3 33.3 0 0 - 1 2 50.0 1 9 10 0 1 3 2 2 -11
+p434
+aVEddy Curry CHI 01/29/2005 CHI vs. BOS L 33 13 5 13 38.5 0 0 - 3 4 75.0 2 0 2 0 1 1 2 3 2
+p435
+aVTyson Chandler CHI 01/27/2005 CHI vs. CHA W 25 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 0 2 1 0 3 11
+p436
+aVAntonio Davis CHI 01/27/2005 CHI vs. CHA W 22 6 3 4 75.0 0 0 - 0 0 - 2 2 4 3 0 0 0 1 0
+p437
+aVAdrian Griffin CHI 01/27/2005 CHI vs. CHA W 7 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 0 1 2
+p438
+aVBen Gordon CHI 01/27/2005 CHI vs. CHA W 7 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 2
+p439
+aVChris Duhon CHI 01/27/2005 CHI vs. CHA W 24 6 2 5 40.0 1 3 33.3 1 1 100.0 0 4 4 6 2 0 4 4 -3
+p440
+aVEddy Curry CHI 01/27/2005 CHI vs. CHA W 26 8 3 8 37.5 0 0 - 2 2 100.0 1 4 5 0 0 0 5 2 -5
+p441
+aVLuol Deng CHI 01/27/2005 CHI vs. CHA W 18 12 5 7 71.4 1 1 100.0 1 1 100.0 0 2 2 3 0 0 0 0 -5
+p442
+aVOthella Harrington CHI 01/27/2005 CHI vs. CHA W 22 7 3 9 33.3 0 0 - 1 3 33.3 0 1 1 4 1 1 2 1 13
+p443
+aVJannero Pargo CHI 01/27/2005 CHI vs. CHA W 13 14 7 10 70.0 0 2 0.0 0 1 0.0 0 0 0 2 0 0 1 3 10
+p444
+aVEric Piatkowski CHI 01/27/2005 CHI vs. CHA W 26 16 6 9 66.7 2 5 40.0 2 2 100.0 0 2 2 2 0 0 0 1 8
+p445
+aVAndres Nocioni CHI 01/27/2005 CHI vs. CHA W 24 17 7 8 87.5 2 2 100.0 1 1 100.0 2 2 4 1 1 0 0 2 8
+p446
+aVKirk Hinrich CHI 01/27/2005 CHI vs. CHA W 26 6 2 11 18.2 0 2 0.0 2 2 100.0 0 2 2 5 1 0 2 0 -1
+p447
+aVChris Duhon CHI 01/25/2005 CHI vs. DEN W 29 11 4 9 44.4 1 4 25.0 2 2 100.0 0 4 4 5 2 0 2 0 -6
+p448
+aVBen Gordon CHI 01/25/2005 CHI vs. DEN W 30 18 7 16 43.8 1 5 20.0 3 3 100.0 1 2 3 6 0 0 2 4 15
+p449
+aVTyson Chandler CHI 01/25/2005 CHI vs. DEN W 31 5 1 3 33.3 0 0 - 3 4 75.0 3 10 13 1 0 2 3 5 -1
+p450
+aVAntonio Davis CHI 01/25/2005 CHI vs. DEN W 24 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 3 5
+p451
+aVKirk Hinrich CHI 01/25/2005 CHI vs. DEN W 38 23 9 19 47.4 2 9 22.2 3 5 60.0 1 2 3 4 5 1 4 4 1
+p452
+aVEddy Curry CHI 01/25/2005 CHI vs. DEN W 17 16 7 9 77.8 0 0 - 2 3 66.7 1 0 1 1 0 1 2 4 4
+p453
+aVLuol Deng CHI 01/25/2005 CHI vs. DEN W 19 12 4 8 50.0 1 2 50.0 3 3 100.0 3 5 8 2 0 1 3 3 -14
+p454
+aVAndres Nocioni CHI 01/25/2005 CHI vs. DEN W 33 12 3 9 33.3 2 4 50.0 4 4 100.0 0 5 5 1 2 1 1 5 10
+p455
+aVOthella Harrington CHI 01/25/2005 CHI vs. DEN W 19 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 2 1 0 0 1 6
+p456
+aVKirk Hinrich CHI 01/24/2005 CHI @ ATL W 27 11 3 8 37.5 2 4 50.0 3 3 100.0 0 2 2 8 1 0 2 2 23
+p457
+aVAntonio Davis CHI 01/24/2005 CHI @ ATL W 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 19
+p458
+aVLuol Deng CHI 01/24/2005 CHI @ ATL W 24 13 5 7 71.4 1 1 100.0 2 2 100.0 0 2 2 2 1 2 1 1 20
+p459
+aVAndres Nocioni CHI 01/24/2005 CHI @ ATL W 21 4 1 7 14.3 0 0 - 2 2 100.0 1 5 6 1 0 0 0 3 9
+p460
+aVEric Piatkowski CHI 01/24/2005 CHI @ ATL W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -13
+p461
+aVOthella Harrington CHI 01/24/2005 CHI @ ATL W 26 18 5 6 83.3 0 0 - 8 12 66.7 2 6 8 2 0 0 2 4 8
+p462
+aVChris Duhon CHI 01/24/2005 CHI @ ATL W 30 14 5 10 50.0 4 6 66.7 0 0 - 1 5 6 9 1 0 1 4 38
+p463
+aVBen Gordon CHI 01/24/2005 CHI @ ATL W 18 15 4 11 36.4 2 5 40.0 5 5 100.0 1 1 2 0 2 0 1 1 14
+p464
+aVEddy Curry CHI 01/24/2005 CHI @ ATL W 24 19 9 11 81.8 0 0 - 1 1 100.0 2 2 4 0 0 0 1 2 21
+p465
+aVJannero Pargo CHI 01/24/2005 CHI @ ATL W 12 0 0 5 0.0 0 0 - 0 0 - 0 1 1 2 0 0 3 3 -12
+p466
+aVTyson Chandler CHI 01/24/2005 CHI @ ATL W 23 7 2 7 28.6 0 0 - 3 3 100.0 1 5 6 1 1 3 2 5 15
+p467
+aVAdrian Griffin CHI 01/24/2005 CHI @ ATL W 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -17
+p468
+aVAntonio Davis CHI 01/22/2005 CHI @ DET W 33 14 6 8 75.0 0 0 - 2 2 100.0 4 4 8 3 2 0 0 1 27
+p469
+aVOthella Harrington CHI 01/22/2005 CHI @ DET W 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -2
+p470
+aVBen Gordon CHI 01/22/2005 CHI @ DET W 15 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 2 -3
+p471
+aVAndres Nocioni CHI 01/22/2005 CHI @ DET W 24 11 5 7 71.4 0 1 0.0 1 2 50.0 0 5 5 1 0 1 2 4 9
+p472
+aVChris Duhon CHI 01/22/2005 CHI @ DET W 35 10 4 9 44.4 2 6 33.3 0 0 - 0 1 1 6 1 0 3 3 16
+p473
+aVLuol Deng CHI 01/22/2005 CHI @ DET W 24 9 4 10 40.0 0 0 - 1 2 50.0 2 5 7 2 2 1 1 1 2
+p474
+aVEric Piatkowski CHI 01/22/2005 CHI @ DET W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -7
+p475
+aVTyson Chandler CHI 01/22/2005 CHI @ DET W 21 9 3 3 100.0 0 0 - 3 4 75.0 1 3 4 2 1 1 0 4 -12
+p476
+aVKirk Hinrich CHI 01/22/2005 CHI @ DET W 39 24 7 17 41.2 2 6 33.3 8 9 88.9 0 3 3 9 2 1 4 3 16
+p477
+aVEddy Curry CHI 01/22/2005 CHI @ DET W 34 15 5 10 50.0 0 0 - 5 6 83.3 1 4 5 0 1 0 3 6 9
+p478
+aVLuol Deng CHI 01/21/2005 CHI vs. ATL W 25 2 1 7 14.3 0 3 0.0 0 0 - 1 4 5 1 0 2 3 2 6
+p479
+aVChris Duhon CHI 01/21/2005 CHI vs. ATL W 26 7 2 5 40.0 1 3 33.3 2 2 100.0 1 4 5 5 2 0 0 2 2
+p480
+aVEddy Curry CHI 01/21/2005 CHI vs. ATL W 31 18 7 11 63.6 0 0 - 4 8 50.0 3 1 4 1 0 1 1 5 -7
+p481
+aVOthella Harrington CHI 01/21/2005 CHI vs. ATL W 10 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 1 0 4 -10
+p482
+aVAndres Nocioni CHI 01/21/2005 CHI vs. ATL W 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 3
+p483
+aVAntonio Davis CHI 01/21/2005 CHI vs. ATL W 25 17 8 10 80.0 0 0 - 1 3 33.3 2 6 8 0 1 2 1 2 15
+p484
+aVTyson Chandler CHI 01/21/2005 CHI vs. ATL W 26 13 2 4 50.0 0 0 - 9 9 100.0 2 3 5 0 3 4 1 5 16
+p485
+aVEric Piatkowski CHI 01/21/2005 CHI vs. ATL W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 7
+p486
+aVBen Gordon CHI 01/21/2005 CHI vs. ATL W 19 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 3 2 0 4 5 -3
+p487
+aVAdrian Griffin CHI 01/21/2005 CHI vs. ATL W 12 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 7
+p488
+aVKirk Hinrich CHI 01/21/2005 CHI vs. ATL W 44 23 8 22 36.4 2 6 33.3 5 7 71.4 2 5 7 9 3 0 3 2 14
+p489
+aVAntonio Davis CHI 01/19/2005 CHI @ BOS L 18 6 3 4 75.0 0 0 - 0 0 - 1 5 6 3 0 0 0 0 13
+p490
+aVKirk Hinrich CHI 01/19/2005 CHI @ BOS L 38 12 4 17 23.5 1 7 14.3 3 3 100.0 0 5 5 6 1 0 1 2 -12
+p491
+aVTyson Chandler CHI 01/19/2005 CHI @ BOS L 30 8 2 5 40.0 0 0 - 4 5 80.0 6 8 14 1 1 4 2 3 -22
+p492
+aVAdrian Griffin CHI 01/19/2005 CHI @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 7
+p493
+aVOthella Harrington CHI 01/19/2005 CHI @ BOS L 14 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 0 -3
+p494
+aVEddy Curry CHI 01/19/2005 CHI @ BOS L 34 26 10 16 62.5 0 0 - 6 7 85.7 1 6 7 2 2 3 5 4 -6
+p495
+aVLuol Deng CHI 01/19/2005 CHI @ BOS L 23 9 3 11 27.3 1 4 25.0 2 3 66.7 2 4 6 3 0 1 3 5 2
+p496
+aVAndres Nocioni CHI 01/19/2005 CHI @ BOS L 17 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 0 2 0 1 -15
+p497
+aVBen Gordon CHI 01/19/2005 CHI @ BOS L 15 5 1 7 14.3 0 3 0.0 3 3 100.0 0 0 0 1 1 0 1 1 -9
+p498
+aVEric Piatkowski CHI 01/19/2005 CHI @ BOS L 12 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 4 -7
+p499
+aVChris Duhon CHI 01/19/2005 CHI @ BOS L 35 7 1 4 25.0 1 4 25.0 4 4 100.0 1 5 6 7 2 0 2 4 7
+p500
+aVEric Piatkowski CHI 01/17/2005 CHI @ NYK W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p501
+aVAndres Nocioni CHI 01/17/2005 CHI @ NYK W 24 13 4 6 66.7 2 2 100.0 3 4 75.0 4 7 11 3 1 1 2 2 4
+p502
+aVAdrian Griffin CHI 01/17/2005 CHI @ NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p503
+aVEddy Curry CHI 01/17/2005 CHI @ NYK W 39 12 5 16 31.3 0 0 - 2 3 66.7 1 2 3 0 0 2 2 4 -1
+p504
+aVLuol Deng CHI 01/17/2005 CHI @ NYK W 38 19 8 15 53.3 2 4 50.0 1 2 50.0 4 6 10 3 0 0 1 1 7
+p505
+aVKirk Hinrich CHI 01/17/2005 CHI @ NYK W 45 14 6 17 35.3 2 7 28.6 0 0 - 1 12 13 8 1 0 4 4 2
+p506
+aVOthella Harrington CHI 01/17/2005 CHI @ NYK W 13 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 2 -5
+p507
+aVBen Gordon CHI 01/17/2005 CHI @ NYK W 19 17 7 14 50.0 1 4 25.0 2 3 66.7 1 1 2 0 0 0 2 0 1
+p508
+aVTyson Chandler CHI 01/17/2005 CHI @ NYK W 26 7 1 6 16.7 0 0 - 5 6 83.3 5 8 13 0 0 2 2 5 4
+p509
+aVChris Duhon CHI 01/17/2005 CHI @ NYK W 19 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 2 0 2
+p510
+aVTyson Chandler CHI 01/15/2005 CHI vs. NYK W 30 3 1 3 33.3 0 0 - 1 2 50.0 0 10 10 0 0 4 0 1 4
+p511
+aVLuol Deng CHI 01/15/2005 CHI vs. NYK W 22 8 3 6 50.0 2 3 66.7 0 0 - 2 5 7 3 1 0 2 2 1
+p512
+aVBen Gordon CHI 01/15/2005 CHI vs. NYK W 22 16 5 14 35.7 2 3 66.7 4 5 80.0 0 2 2 1 0 0 3 4 -1
+p513
+aVOthella Harrington CHI 01/15/2005 CHI vs. NYK W 14 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 1 0 0 0 4 -1
+p514
+aVEddy Curry CHI 01/15/2005 CHI vs. NYK W 33 17 8 15 53.3 0 0 - 1 1 100.0 1 3 4 0 1 2 3 4 1
+p515
+aVChris Duhon CHI 01/15/2005 CHI vs. NYK W 19 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 3 0 0 2 4 3
+p516
+aVAdrian Griffin CHI 01/15/2005 CHI vs. NYK W 6 0 0 0 - 0 0 - 0 2 0.0 0 4 4 1 0 0 0 0 0
+p517
+aVEric Piatkowski CHI 01/15/2005 CHI vs. NYK W 10 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -4
+p518
+aVKirk Hinrich CHI 01/15/2005 CHI vs. NYK W 40 15 6 15 40.0 1 4 25.0 2 2 100.0 3 4 7 11 2 1 5 3 8
+p519
+aVAntonio Davis CHI 01/15/2005 CHI vs. NYK W 19 10 4 5 80.0 0 0 - 2 2 100.0 2 6 8 1 0 0 0 0 0
+p520
+aVAndres Nocioni CHI 01/15/2005 CHI vs. NYK W 22 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 2 0 2 2 3 3
+p521
+aVJannero Pargo CHI 01/15/2005 CHI vs. NYK W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -4
+p522
+aVChris Duhon CHI 01/12/2005 CHI vs. PHI W 28 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 8 1 0 2 3 11
+p523
+aVAndres Nocioni CHI 01/12/2005 CHI vs. PHI W 19 4 2 5 40.0 0 0 - 0 0 - 2 6 8 2 1 1 2 1 26
+p524
+aVEric Piatkowski CHI 01/12/2005 CHI vs. PHI W 9 0 0 5 0.0 0 2 0.0 0 0 - 1 3 4 0 1 0 2 1 4
+p525
+aVLuol Deng CHI 01/12/2005 CHI vs. PHI W 25 10 4 9 44.4 1 4 25.0 1 1 100.0 1 3 4 3 2 0 3 1 9
+p526
+aVEddy Curry CHI 01/12/2005 CHI vs. PHI W 29 24 9 11 81.8 0 0 - 6 7 85.7 0 4 4 0 0 1 1 2 15
+p527
+aVAdrian Griffin CHI 01/12/2005 CHI vs. PHI W 4 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 0 0 1 -3
+p528
+aVFrank Williams CHI 01/12/2005 CHI vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p529
+aVOthella Harrington CHI 01/12/2005 CHI vs. PHI W 19 6 3 7 42.9 0 0 - 0 0 - 3 4 7 2 1 0 1 4 17
+p530
+aVTyson Chandler CHI 01/12/2005 CHI vs. PHI W 28 7 1 4 25.0 0 0 - 5 5 100.0 1 6 7 0 1 2 2 3 35
+p531
+aVBen Gordon CHI 01/12/2005 CHI vs. PHI W 25 31 10 16 62.5 4 7 57.1 7 8 87.5 0 2 2 3 0 1 1 2 27
+p532
+aVAntonio Davis CHI 01/12/2005 CHI vs. PHI W 17 2 1 5 20.0 0 0 - 0 0 - 2 4 6 3 0 0 1 0 -2
+p533
+aVKirk Hinrich CHI 01/12/2005 CHI vs. PHI W 34 16 6 13 46.2 4 8 50.0 0 0 - 0 2 2 9 1 0 2 3 22
+p534
+aVAndres Nocioni CHI 01/10/2005 CHI vs. GSW W 21 4 2 7 28.6 0 0 - 0 0 - 0 5 5 0 1 0 3 2 -8
+p535
+aVChris Duhon CHI 01/10/2005 CHI vs. GSW W 29 10 4 9 44.4 2 4 50.0 0 0 - 0 6 6 4 0 0 4 5 3
+p536
+aVEddy Curry CHI 01/10/2005 CHI vs. GSW W 26 12 5 11 45.5 0 0 - 2 4 50.0 2 1 3 0 1 2 1 4 -9
+p537
+aVEric Piatkowski CHI 01/10/2005 CHI vs. GSW W 24 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 1 0 0 1 1 -2
+p538
+aVTyson Chandler CHI 01/10/2005 CHI vs. GSW W 28 13 4 8 50.0 0 1 0.0 5 6 83.3 4 4 8 1 0 4 1 4 6
+p539
+aVOthella Harrington CHI 01/10/2005 CHI vs. GSW W 35 20 9 13 69.2 0 0 - 2 5 40.0 2 2 4 5 2 0 3 3 26
+p540
+aVAdrian Griffin CHI 01/10/2005 CHI vs. GSW W 15 4 2 5 40.0 0 0 - 0 0 - 1 5 6 1 2 0 0 1 16
+p541
+aVBen Gordon CHI 01/10/2005 CHI vs. GSW W 10 7 2 6 33.3 0 1 0.0 3 3 100.0 0 0 0 1 0 0 1 2 1
+p542
+aVKirk Hinrich CHI 01/10/2005 CHI vs. GSW W 36 14 6 13 46.2 2 4 50.0 0 2 0.0 0 6 6 9 0 0 1 6 9
+p543
+aVLuol Deng CHI 01/10/2005 CHI vs. GSW W 16 2 0 2 0.0 0 0 - 2 2 100.0 2 5 7 2 0 0 3 0 3
+p544
+aVAdrian Griffin CHI 01/08/2005 CHI vs. BOS W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 1
+p545
+aVTyson Chandler CHI 01/08/2005 CHI vs. BOS W 27 7 2 5 40.0 0 0 - 3 4 75.0 2 4 6 0 2 2 0 4 5
+p546
+aVOthella Harrington CHI 01/08/2005 CHI vs. BOS W 30 19 9 12 75.0 0 0 - 1 2 50.0 1 9 10 0 1 0 0 2 12
+p547
+aVEddy Curry CHI 01/08/2005 CHI vs. BOS W 24 14 6 8 75.0 0 0 - 2 3 66.7 1 4 5 0 0 0 5 5 -5
+p548
+aVBen Gordon CHI 01/08/2005 CHI vs. BOS W 16 7 3 10 30.0 1 2 50.0 0 0 - 1 2 3 3 1 0 2 0 -6
+p549
+aVEric Piatkowski CHI 01/08/2005 CHI vs. BOS W 16 9 3 7 42.9 3 4 75.0 0 0 - 1 0 1 2 1 0 1 0 10
+p550
+aVKirk Hinrich CHI 01/08/2005 CHI vs. BOS W 38 22 9 18 50.0 3 8 37.5 1 1 100.0 1 2 3 14 1 1 1 1 23
+p551
+aVLuol Deng CHI 01/08/2005 CHI vs. BOS W 39 19 7 15 46.7 0 2 0.0 5 8 62.5 3 5 8 5 1 1 1 2 15
+p552
+aVAndres Nocioni CHI 01/08/2005 CHI vs. BOS W 16 3 0 5 0.0 0 0 - 3 4 75.0 1 2 3 0 0 0 1 2 5
+p553
+aVChris Duhon CHI 01/08/2005 CHI vs. BOS W 26 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 7 1 0 2 2 -5
+p554
+aVLuol Deng CHI 01/07/2005 CHI vs. UTA W 37 22 8 15 53.3 1 3 33.3 5 7 71.4 1 6 7 4 2 2 3 2 16
+p555
+aVBen Gordon CHI 01/07/2005 CHI vs. UTA W 27 11 4 13 30.8 0 5 0.0 3 4 75.0 1 2 3 3 0 0 2 4 14
+p556
+aVKirk Hinrich CHI 01/07/2005 CHI vs. UTA W 43 12 5 12 41.7 2 4 50.0 0 0 - 0 5 5 9 6 1 5 3 4
+p557
+aVAndres Nocioni CHI 01/07/2005 CHI vs. UTA W 14 11 3 7 42.9 1 2 50.0 4 4 100.0 0 0 0 0 0 0 2 3 -10
+p558
+aVAdrian Griffin CHI 01/07/2005 CHI vs. UTA W 8 1 0 0 - 0 0 - 1 4 25.0 0 2 2 1 0 1 1 0 -9
+p559
+aVEddy Curry CHI 01/07/2005 CHI vs. UTA W 32 21 8 14 57.1 0 0 - 5 5 100.0 2 3 5 1 1 1 3 6 15
+p560
+aVChris Duhon CHI 01/07/2005 CHI vs. UTA W 14 0 0 0 - 0 0 - 0 0 - 0 3 3 3 1 0 1 4 -6
+p561
+aVOthella Harrington CHI 01/07/2005 CHI vs. UTA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 2
+p562
+aVFrank Williams CHI 01/07/2005 CHI vs. UTA W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p563
+aVTyson Chandler CHI 01/07/2005 CHI vs. UTA W 30 4 0 3 0.0 0 0 - 4 6 66.7 3 6 9 1 1 4 1 2 1
+p564
+aVAntonio Davis CHI 01/07/2005 CHI vs. UTA W 25 2 1 5 20.0 0 0 - 0 0 - 3 0 3 0 0 2 1 2 1
+p565
+aVKirk Hinrich CHI 01/05/2005 CHI @ NOH W 39 19 8 14 57.1 1 6 16.7 2 2 100.0 0 1 1 2 0 0 2 2 6
+p566
+aVChris Duhon CHI 01/05/2005 CHI @ NOH W 22 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 6 1 0 1 2 6
+p567
+aVEric Piatkowski CHI 01/05/2005 CHI @ NOH W 14 8 3 7 42.9 1 3 33.3 1 2 50.0 0 1 1 0 0 0 1 0 0
+p568
+aVBen Gordon CHI 01/05/2005 CHI @ NOH W 21 11 4 6 66.7 0 0 - 3 3 100.0 1 4 5 2 0 0 5 5 0
+p569
+aVOthella Harrington CHI 01/05/2005 CHI @ NOH W 11 5 1 2 50.0 0 0 - 3 3 100.0 0 2 2 0 0 0 1 3 -1
+p570
+aVEddy Curry CHI 01/05/2005 CHI @ NOH W 37 17 4 13 30.8 0 0 - 9 10 90.0 4 5 9 3 1 2 5 1 7
+p571
+aVLuol Deng CHI 01/05/2005 CHI @ NOH W 36 14 5 14 35.7 0 2 0.0 4 6 66.7 2 6 8 2 2 0 2 3 16
+p572
+aVAntonio Davis CHI 01/05/2005 CHI @ NOH W 19 8 3 4 75.0 0 0 - 2 2 100.0 2 7 9 1 0 0 2 1 6
+p573
+aVTyson Chandler CHI 01/05/2005 CHI @ NOH W 25 6 2 2 100.0 0 0 - 2 4 50.0 1 5 6 0 0 5 0 1 7
+p574
+aVAdrian Griffin CHI 01/05/2005 CHI @ NOH W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p575
+aVAndres Nocioni CHI 01/05/2005 CHI @ NOH W 15 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 3 -19
+p576
+aVLuol Deng CHI 01/03/2005 CHI vs. DET L 32 13 5 15 33.3 1 4 25.0 2 2 100.0 0 6 6 1 2 0 1 1 2
+p577
+aVKirk Hinrich CHI 01/03/2005 CHI vs. DET L 43 19 6 17 35.3 3 6 50.0 4 6 66.7 1 4 5 6 2 0 2 3 1
+p578
+aVAndres Nocioni CHI 01/03/2005 CHI vs. DET L 21 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 2 0 0 1 1 -11
+p579
+aVBen Gordon CHI 01/03/2005 CHI vs. DET L 30 27 10 22 45.5 5 7 71.4 2 2 100.0 0 5 5 4 1 0 2 3 -12
+p580
+aVAntonio Davis CHI 01/03/2005 CHI vs. DET L 35 3 0 5 0.0 0 0 - 3 4 75.0 5 5 10 2 0 0 1 3 7
+p581
+aVTyson Chandler CHI 01/03/2005 CHI vs. DET L 37 6 2 4 50.0 0 0 - 2 2 100.0 8 6 14 1 1 3 3 5 2
+p582
+aVChris Duhon CHI 01/03/2005 CHI vs. DET L 23 2 1 5 20.0 0 3 0.0 0 0 - 1 0 1 5 1 0 2 0 3
+p583
+aVOthella Harrington CHI 01/03/2005 CHI vs. DET L 19 6 3 10 30.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -12
+p584
+aVOthella Harrington CHI 01/01/2005 CHI vs. ORL W 13 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 1 1 1 5 -11
+p585
+aVFrank Williams CHI 01/01/2005 CHI vs. ORL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -9
+p586
+aVEric Piatkowski CHI 01/01/2005 CHI vs. ORL W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 3
+p587
+aVAntonio Davis CHI 01/01/2005 CHI vs. ORL W 33 4 2 8 25.0 0 0 - 0 0 - 3 6 9 0 2 0 1 5 -6
+p588
+aVAdrian Griffin CHI 01/01/2005 CHI vs. ORL W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -9
+p589
+aVChris Duhon CHI 01/01/2005 CHI vs. ORL W 24 6 2 7 28.6 2 3 66.7 0 0 - 0 5 5 3 0 0 2 3 6
+p590
+aVTyson Chandler CHI 01/01/2005 CHI vs. ORL W 19 6 3 4 75.0 0 0 - 0 0 - 4 1 5 1 2 0 1 5 21
+p591
+aVLuol Deng CHI 01/01/2005 CHI vs. ORL W 28 15 6 10 60.0 0 0 - 3 5 60.0 2 5 7 1 1 0 2 0 16
+p592
+aVEddy Curry CHI 01/01/2005 CHI vs. ORL W 32 22 8 12 66.7 0 0 - 6 8 75.0 1 7 8 1 0 2 6 4 26
+p593
+aVAndres Nocioni CHI 01/01/2005 CHI vs. ORL W 16 9 3 6 50.0 0 0 - 3 4 75.0 1 1 2 0 0 2 2 2 8
+p594
+aVBen Gordon CHI 01/01/2005 CHI vs. ORL W 27 18 6 13 46.2 3 8 37.5 3 3 100.0 0 3 3 5 1 0 2 2 4
+p595
+aVKirk Hinrich CHI 01/01/2005 CHI vs. ORL W 35 18 6 13 46.2 3 6 50.0 3 3 100.0 0 4 4 9 3 0 2 3 26
+p596
+aVAdrian Griffin CHI 12/28/2004 CHI vs. NJN L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p597
+aVAntonio Davis CHI 12/28/2004 CHI vs. NJN L 24 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 1 0 1 2 -4
+p598
+aVEddy Curry CHI 12/28/2004 CHI vs. NJN L 42 16 6 10 60.0 0 0 - 4 8 50.0 2 5 7 2 0 0 5 5 -2
+p599
+aVKirk Hinrich CHI 12/28/2004 CHI vs. NJN L 43 30 10 19 52.6 2 5 40.0 8 8 100.0 1 2 3 3 1 1 3 3 -2
+p600
+aVBen Gordon CHI 12/28/2004 CHI vs. NJN L 24 19 7 9 77.8 1 1 100.0 4 4 100.0 0 1 1 2 1 1 3 6 11
+p601
+aVLuol Deng CHI 12/28/2004 CHI vs. NJN L 21 4 1 7 14.3 0 0 - 2 3 66.7 1 7 8 2 0 0 6 1 -13
+p602
+aVEric Piatkowski CHI 12/28/2004 CHI vs. NJN L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 -3
+p603
+aVAndres Nocioni CHI 12/28/2004 CHI vs. NJN L 24 4 1 4 25.0 0 2 0.0 2 2 100.0 0 6 6 2 0 0 4 3 -1
+p604
+aVTyson Chandler CHI 12/28/2004 CHI vs. NJN L 30 1 0 1 0.0 0 0 - 1 4 25.0 2 6 8 3 0 1 1 3 2
+p605
+aVChris Duhon CHI 12/28/2004 CHI vs. NJN L 19 0 0 6 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -6
+p606
+aVChris Duhon CHI 12/26/2004 CHI @ MIL L 22 3 1 4 25.0 0 3 0.0 1 1 100.0 0 1 1 7 0 0 2 2 -5
+p607
+aVTyson Chandler CHI 12/26/2004 CHI @ MIL L 26 4 2 6 33.3 0 0 - 0 0 - 4 4 8 1 0 2 1 4 -8
+p608
+aVLuol Deng CHI 12/26/2004 CHI @ MIL L 30 9 3 10 30.0 1 3 33.3 2 2 100.0 3 4 7 5 1 1 5 2 11
+p609
+aVAndres Nocioni CHI 12/26/2004 CHI @ MIL L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 3 1 -18
+p610
+aVBen Gordon CHI 12/26/2004 CHI @ MIL L 30 19 7 16 43.8 2 4 50.0 3 4 75.0 2 3 5 2 0 0 2 4 -6
+p611
+aVKirk Hinrich CHI 12/26/2004 CHI @ MIL L 39 18 6 14 42.9 3 6 50.0 3 3 100.0 0 3 3 6 1 0 0 3 8
+p612
+aVAntonio Davis CHI 12/26/2004 CHI @ MIL L 29 12 6 8 75.0 0 0 - 0 0 - 1 2 3 3 0 0 0 1 6
+p613
+aVEddy Curry CHI 12/26/2004 CHI @ MIL L 24 15 5 12 41.7 0 0 - 5 6 83.3 1 3 4 0 0 1 2 1 -22
+p614
+aVOthella Harrington CHI 12/26/2004 CHI @ MIL L 16 12 5 5 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 3 11
+p615
+aVEric Piatkowski CHI 12/26/2004 CHI @ MIL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -12
+p616
+aVChris Duhon CHI 12/22/2004 CHI @ DET W 25 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 3 2 0 1 4 -4
+p617
+aVLuol Deng CHI 12/22/2004 CHI @ DET W 20 10 3 8 37.5 0 0 - 4 4 100.0 0 0 0 3 0 1 1 2 -6
+p618
+aVEddy Curry CHI 12/22/2004 CHI @ DET W 24 12 5 9 55.6 0 0 - 2 3 66.7 1 2 3 0 0 3 3 3 -6
+p619
+aVKirk Hinrich CHI 12/22/2004 CHI @ DET W 35 10 3 8 37.5 2 5 40.0 2 2 100.0 0 4 4 5 3 0 4 6 6
+p620
+aVTyson Chandler CHI 12/22/2004 CHI @ DET W 34 13 6 8 75.0 0 0 - 1 2 50.0 4 7 11 0 2 2 1 2 10
+p621
+aVAdrian Griffin CHI 12/22/2004 CHI @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p622
+aVBen Gordon CHI 12/22/2004 CHI @ DET W 24 19 7 11 63.6 2 2 100.0 3 4 75.0 1 3 4 0 0 0 4 5 6
+p623
+aVAntonio Davis CHI 12/22/2004 CHI @ DET W 31 4 2 7 28.6 0 0 - 0 0 - 0 6 6 2 0 2 2 4 5
+p624
+aVEric Piatkowski CHI 12/22/2004 CHI @ DET W 12 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 1 1 0 0 1 6
+p625
+aVAndres Nocioni CHI 12/22/2004 CHI @ DET W 32 18 6 11 54.5 1 4 25.0 5 6 83.3 0 2 2 1 2 0 2 3 12
+p626
+aVAdrian Griffin CHI 12/20/2004 CHI vs. POR W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -8
+p627
+aVLuol Deng CHI 12/20/2004 CHI vs. POR W 31 12 5 15 33.3 0 2 0.0 2 4 50.0 1 5 6 5 0 1 2 2 20
+p628
+aVBen Gordon CHI 12/20/2004 CHI vs. POR W 27 23 10 15 66.7 2 2 100.0 1 1 100.0 2 1 3 3 0 0 3 1 -1
+p629
+aVTyson Chandler CHI 12/20/2004 CHI vs. POR W 17 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 1 1 5 -2
+p630
+aVEddy Curry CHI 12/20/2004 CHI vs. POR W 39 18 7 11 63.6 0 0 - 4 4 100.0 2 6 8 0 1 0 5 3 9
+p631
+aVAntonio Davis CHI 12/20/2004 CHI vs. POR W 34 12 4 8 50.0 0 0 - 4 4 100.0 2 10 12 2 0 1 0 1 11
+p632
+aVAndres Nocioni CHI 12/20/2004 CHI vs. POR W 20 5 1 7 14.3 0 3 0.0 3 4 75.0 1 2 3 0 0 0 1 2 -15
+p633
+aVKirk Hinrich CHI 12/20/2004 CHI vs. POR W 43 17 6 12 50.0 1 5 20.0 4 5 80.0 0 4 4 5 2 1 1 5 8
+p634
+aVChris Duhon CHI 12/20/2004 CHI vs. POR W 25 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 8 2 0 0 1 3
+p635
+aVKirk Hinrich CHI 12/18/2004 CHI vs. IND W 39 19 6 16 37.5 3 7 42.9 4 5 80.0 0 7 7 3 2 1 3 4 10
+p636
+aVAntonio Davis CHI 12/18/2004 CHI vs. IND W 19 9 3 6 50.0 0 0 - 3 4 75.0 1 4 5 1 0 0 3 3 12
+p637
+aVOthella Harrington CHI 12/18/2004 CHI vs. IND W 13 6 2 2 100.0 0 0 - 2 3 66.7 0 3 3 0 0 0 1 1 4
+p638
+aVTyson Chandler CHI 12/18/2004 CHI vs. IND W 20 2 1 5 20.0 0 0 - 0 0 - 3 6 9 0 0 1 1 3 3
+p639
+aVEddy Curry CHI 12/18/2004 CHI vs. IND W 35 23 8 10 80.0 0 0 - 7 13 53.8 5 8 13 2 0 1 4 6 7
+p640
+aVLuol Deng CHI 12/18/2004 CHI vs. IND W 35 13 6 12 50.0 0 2 0.0 1 1 100.0 2 7 9 5 3 1 2 3 17
+p641
+aVEric Piatkowski CHI 12/18/2004 CHI vs. IND W 5 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p642
+aVBen Gordon CHI 12/18/2004 CHI vs. IND W 18 5 2 7 28.6 0 1 0.0 1 2 50.0 1 2 3 1 0 0 3 3 -3
+p643
+aVAndres Nocioni CHI 12/18/2004 CHI vs. IND W 21 2 0 7 0.0 0 1 0.0 2 2 100.0 2 5 7 1 1 0 0 3 -4
+p644
+aVChris Duhon CHI 12/18/2004 CHI vs. IND W 26 6 2 10 20.0 1 5 20.0 1 2 50.0 1 3 4 6 0 0 1 2 19
+p645
+aVAdrian Griffin CHI 12/18/2004 CHI vs. IND W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 9
+p646
+aVAntonio Davis CHI 12/16/2004 CHI vs. MIL W 23 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 0 1 1 1 9
+p647
+aVKirk Hinrich CHI 12/16/2004 CHI vs. MIL W 43 28 10 23 43.5 2 9 22.2 6 8 75.0 0 3 3 8 0 0 6 2 4
+p648
+aVLuol Deng CHI 12/16/2004 CHI vs. MIL W 25 9 4 8 50.0 0 1 0.0 1 2 50.0 0 6 6 1 1 0 0 2 1
+p649
+aVEddy Curry CHI 12/16/2004 CHI vs. MIL W 38 18 8 14 57.1 0 0 - 2 2 100.0 4 2 6 1 0 1 0 3 4
+p650
+aVEric Piatkowski CHI 12/16/2004 CHI vs. MIL W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 8
+p651
+aVChris Duhon CHI 12/16/2004 CHI vs. MIL W 19 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 6 1 0 1 2 5
+p652
+aVBen Gordon CHI 12/16/2004 CHI vs. MIL W 25 8 3 7 42.9 1 2 50.0 1 2 50.0 0 3 3 0 1 0 3 2 -3
+p653
+aVAndres Nocioni CHI 12/16/2004 CHI vs. MIL W 28 6 3 5 60.0 0 1 0.0 0 0 - 2 5 7 0 1 1 2 3 6
+p654
+aVTyson Chandler CHI 12/16/2004 CHI vs. MIL W 28 6 1 2 50.0 0 0 - 4 8 50.0 2 8 10 1 1 7 1 2 5
+p655
+aVAdrian Griffin CHI 12/16/2004 CHI vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p656
+aVEddy Curry CHI 12/15/2004 CHI @ MEM W 28 20 8 17 47.1 0 0 - 4 6 66.7 2 3 5 2 1 0 0 1 -5
+p657
+aVTyson Chandler CHI 12/15/2004 CHI @ MEM W 33 9 3 7 42.9 0 0 - 3 4 75.0 2 9 11 1 1 3 0 3 11
+p658
+aVAntonio Davis CHI 12/15/2004 CHI @ MEM W 15 6 2 2 100.0 0 0 - 2 2 100.0 2 4 6 0 0 0 3 2 -3
+p659
+aVKirk Hinrich CHI 12/15/2004 CHI @ MEM W 41 15 6 14 42.9 3 7 42.9 0 0 - 1 4 5 6 2 0 2 2 3
+p660
+aVLuol Deng CHI 12/15/2004 CHI @ MEM W 24 9 3 9 33.3 1 3 33.3 2 2 100.0 0 2 2 3 1 0 1 0 1
+p661
+aVEric Piatkowski CHI 12/15/2004 CHI @ MEM W 17 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 1 18
+p662
+aVAdrian Griffin CHI 12/15/2004 CHI @ MEM W 14 0 0 0 - 0 0 - 0 0 - 1 1 2 1 1 0 0 2 13
+p663
+aVAndres Nocioni CHI 12/15/2004 CHI @ MEM W 24 9 3 7 42.9 1 1 100.0 2 2 100.0 0 3 3 3 2 2 1 2 7
+p664
+aVBen Gordon CHI 12/15/2004 CHI @ MEM W 28 15 5 10 50.0 1 2 50.0 4 4 100.0 1 0 1 4 0 0 3 3 3
+p665
+aVOthella Harrington CHI 12/15/2004 CHI @ MEM W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p666
+aVChris Duhon CHI 12/15/2004 CHI @ MEM W 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 3 1 0 2 0 -8
+p667
+aVKirk Hinrich CHI 12/13/2004 CHI vs. DAL L 39 12 5 15 33.3 2 9 22.2 0 0 - 0 6 6 9 1 0 3 3 -1
+p668
+aVChris Duhon CHI 12/13/2004 CHI vs. DAL L 27 4 2 6 33.3 0 2 0.0 0 0 - 0 5 5 9 1 0 1 1 12
+p669
+aVTyson Chandler CHI 12/13/2004 CHI vs. DAL L 28 12 5 7 71.4 0 0 - 2 2 100.0 3 8 11 0 1 0 5 5 -10
+p670
+aVLuol Deng CHI 12/13/2004 CHI vs. DAL L 35 16 7 16 43.8 0 2 0.0 2 4 50.0 2 5 7 4 1 1 2 1 -1
+p671
+aVAntonio Davis CHI 12/13/2004 CHI vs. DAL L 24 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 4 11
+p672
+aVEddy Curry CHI 12/13/2004 CHI vs. DAL L 36 20 9 12 75.0 0 0 - 2 4 50.0 3 3 6 2 1 1 5 3 -4
+p673
+aVAndres Nocioni CHI 12/13/2004 CHI vs. DAL L 21 12 6 8 75.0 0 0 - 0 0 - 2 2 4 2 0 0 1 4 1
+p674
+aVBen Gordon CHI 12/13/2004 CHI vs. DAL L 26 14 6 12 50.0 2 5 40.0 0 0 - 0 1 1 3 1 0 5 1 -10
+p675
+aVEric Piatkowski CHI 12/13/2004 CHI vs. DAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p676
+aVAndres Nocioni CHI 12/11/2004 CHI vs. MIN W 23 10 3 6 50.0 0 1 0.0 4 7 57.1 0 6 6 1 0 0 1 1 12
+p677
+aVTyson Chandler CHI 12/11/2004 CHI vs. MIN W 34 10 3 9 33.3 0 0 - 4 8 50.0 4 12 16 3 1 1 1 5 4
+p678
+aVKirk Hinrich CHI 12/11/2004 CHI vs. MIN W 44 19 7 15 46.7 3 7 42.9 2 2 100.0 3 5 8 12 1 0 0 4 4
+p679
+aVLuol Deng CHI 12/11/2004 CHI vs. MIN W 26 9 4 8 50.0 0 1 0.0 1 2 50.0 0 3 3 2 0 0 0 3 6
+p680
+aVChris Duhon CHI 12/11/2004 CHI vs. MIN W 17 5 2 5 40.0 1 3 33.3 0 2 0.0 1 1 2 3 0 0 1 2 10
+p681
+aVAntonio Davis CHI 12/11/2004 CHI vs. MIN W 30 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 1 3 2 7
+p682
+aVEric Piatkowski CHI 12/11/2004 CHI vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 7
+p683
+aVBen Gordon CHI 12/11/2004 CHI vs. MIN W 31 31 13 24 54.2 4 4 100.0 1 1 100.0 2 3 5 0 1 0 4 4 1
+p684
+aVEddy Curry CHI 12/11/2004 CHI vs. MIN W 31 13 6 13 46.2 0 0 - 1 2 50.0 5 4 9 0 0 0 3 4 4
+p685
+aVTyson Chandler CHI 12/10/2004 CHI vs. PHI L 24 12 4 7 57.1 0 0 - 4 4 100.0 1 4 5 0 1 0 1 1 -10
+p686
+aVBen Gordon CHI 12/10/2004 CHI vs. PHI L 14 4 1 5 20.0 1 4 25.0 1 2 50.0 0 1 1 1 0 0 2 2 -4
+p687
+aVEddy Curry CHI 12/10/2004 CHI vs. PHI L 24 13 5 8 62.5 0 0 - 3 6 50.0 1 3 4 0 0 3 3 0 -11
+p688
+aVKirk Hinrich CHI 12/10/2004 CHI vs. PHI L 41 12 5 13 38.5 2 7 28.6 0 2 0.0 1 5 6 9 2 0 6 5 4
+p689
+aVChris Duhon CHI 12/10/2004 CHI vs. PHI L 31 5 2 6 33.3 1 3 33.3 0 0 - 1 2 3 6 1 0 2 3 -20
+p690
+aVLuol Deng CHI 12/10/2004 CHI vs. PHI L 32 17 7 15 46.7 1 5 20.0 2 2 100.0 0 5 5 3 1 1 1 2 -1
+p691
+aVOthella Harrington CHI 12/10/2004 CHI vs. PHI L 10 4 1 4 25.0 0 0 - 2 2 100.0 3 1 4 0 1 2 1 3 10
+p692
+aVAdrian Griffin CHI 12/10/2004 CHI vs. PHI L 10 2 0 1 0.0 0 0 - 2 2 100.0 3 3 6 1 2 0 0 2 9
+p693
+aVEric Piatkowski CHI 12/10/2004 CHI vs. PHI L 16 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 2 0 0 0 1 8
+p694
+aVAntonio Davis CHI 12/10/2004 CHI vs. PHI L 22 6 3 5 60.0 0 0 - 0 0 - 1 2 3 3 0 0 0 0 -6
+p695
+aVAndres Nocioni CHI 12/10/2004 CHI vs. PHI L 16 7 2 10 20.0 0 1 0.0 3 4 75.0 3 0 3 0 1 0 1 2 -4
+p696
+aVOthella Harrington CHI 12/08/2004 CHI vs. CLE W 16 7 1 3 33.3 0 0 - 5 6 83.3 0 1 1 0 0 1 1 1 11
+p697
+aVAdrian Griffin CHI 12/08/2004 CHI vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -4
+p698
+aVKirk Hinrich CHI 12/08/2004 CHI vs. CLE W 33 15 5 15 33.3 1 3 33.3 4 5 80.0 1 7 8 4 2 0 1 2 15
+p699
+aVAndres Nocioni CHI 12/08/2004 CHI vs. CLE W 18 15 3 4 75.0 1 2 50.0 8 8 100.0 0 6 6 2 1 0 3 2 19
+p700
+aVFrank Williams CHI 12/08/2004 CHI vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 1 1 1 -4
+p701
+aVBen Gordon CHI 12/08/2004 CHI vs. CLE W 31 21 8 12 66.7 1 1 100.0 4 4 100.0 0 3 3 1 1 0 1 2 14
+p702
+aVChris Duhon CHI 12/08/2004 CHI vs. CLE W 26 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 8 1 0 3 3 33
+p703
+aVEddy Curry CHI 12/08/2004 CHI vs. CLE W 23 20 8 13 61.5 0 0 - 4 6 66.7 4 5 9 1 0 1 2 5 13
+p704
+aVTyson Chandler CHI 12/08/2004 CHI vs. CLE W 29 15 5 7 71.4 0 0 - 5 5 100.0 2 7 9 0 0 2 4 4 13
+p705
+aVLuol Deng CHI 12/08/2004 CHI vs. CLE W 30 8 3 10 30.0 0 1 0.0 2 2 100.0 0 1 1 3 0 1 1 2 16
+p706
+aVAntonio Davis CHI 12/08/2004 CHI vs. CLE W 24 6 2 4 50.0 0 0 - 2 3 66.7 4 2 6 0 1 1 1 2 14
+p707
+aVEddy Curry CHI 12/06/2004 CHI vs. SAS L 13 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 0 0 1 2 1 -13
+p708
+aVEric Piatkowski CHI 12/06/2004 CHI vs. SAS L 23 11 4 8 50.0 3 3 100.0 0 0 - 0 2 2 0 0 0 1 0 -12
+p709
+aVAdrian Griffin CHI 12/06/2004 CHI vs. SAS L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 3 1
+p710
+aVAndres Nocioni CHI 12/06/2004 CHI vs. SAS L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -10
+p711
+aVBen Gordon CHI 12/06/2004 CHI vs. SAS L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p712
+aVTyson Chandler CHI 12/06/2004 CHI vs. SAS L 34 17 7 8 87.5 0 0 - 3 3 100.0 3 9 12 2 4 0 3 3 -3
+p713
+aVLuol Deng CHI 12/06/2004 CHI vs. SAS L 26 13 6 12 50.0 0 1 0.0 1 1 100.0 0 4 4 0 1 0 2 0 -11
+p714
+aVChris Duhon CHI 12/06/2004 CHI vs. SAS L 31 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 6 3 0 4 3 -3
+p715
+aVAntonio Davis CHI 12/06/2004 CHI vs. SAS L 29 5 2 7 28.6 0 0 - 1 3 33.3 1 4 5 0 0 3 1 2 -22
+p716
+aVKirk Hinrich CHI 12/06/2004 CHI vs. SAS L 21 8 3 11 27.3 0 2 0.0 2 2 100.0 0 3 3 5 0 0 0 3 -27
+p717
+aVOthella Harrington CHI 12/06/2004 CHI vs. SAS L 16 7 2 5 40.0 0 0 - 3 4 75.0 2 3 5 0 0 1 0 0 9
+p718
+aVFrank Williams CHI 12/06/2004 CHI vs. SAS L 23 4 2 9 22.2 0 2 0.0 0 0 - 1 2 3 3 0 2 1 3 7
+p719
+aVAdrian Griffin CHI 12/04/2004 CHI @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p720
+aVChris Duhon CHI 12/04/2004 CHI @ WAS L 34 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 5 2 0 5 3 4
+p721
+aVBen Gordon CHI 12/04/2004 CHI @ WAS L 26 12 4 11 36.4 2 4 50.0 2 2 100.0 1 1 2 1 0 0 6 4 -4
+p722
+aVLuol Deng CHI 12/04/2004 CHI @ WAS L 21 9 3 7 42.9 1 4 25.0 2 2 100.0 1 2 3 2 1 0 4 5 -3
+p723
+aVTyson Chandler CHI 12/04/2004 CHI @ WAS L 31 15 4 11 36.4 0 0 - 7 8 87.5 11 10 21 3 1 3 1 2 1
+p724
+aVAntonio Davis CHI 12/04/2004 CHI @ WAS L 33 4 2 5 40.0 0 0 - 0 0 - 1 7 8 0 0 1 2 3 1
+p725
+aVKirk Hinrich CHI 12/04/2004 CHI @ WAS L 28 15 4 9 44.4 2 5 40.0 5 5 100.0 1 0 1 3 0 1 4 6 -5
+p726
+aVEddy Curry CHI 12/04/2004 CHI @ WAS L 31 15 7 13 53.8 0 0 - 1 1 100.0 1 4 5 1 0 2 2 3 -16
+p727
+aVFrank Williams CHI 12/04/2004 CHI @ WAS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -8
+p728
+aVAndres Nocioni CHI 12/04/2004 CHI @ WAS L 27 16 6 10 60.0 0 1 0.0 4 6 66.7 1 8 9 0 0 3 3 5 -3
+p729
+aVLuol Deng CHI 12/03/2004 CHI vs. MIA L 35 12 5 13 38.5 1 4 25.0 1 1 100.0 3 2 5 4 0 0 3 1 -17
+p730
+aVEric Piatkowski CHI 12/03/2004 CHI vs. MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p731
+aVAndres Nocioni CHI 12/03/2004 CHI vs. MIA L 15 5 2 8 25.0 0 2 0.0 1 3 33.3 1 2 3 2 0 0 0 1 -20
+p732
+aVAdrian Griffin CHI 12/03/2004 CHI vs. MIA L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 2
+p733
+aVAntonio Davis CHI 12/03/2004 CHI vs. MIA L 17 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 1 1 3 -7
+p734
+aVFrank Williams CHI 12/03/2004 CHI vs. MIA L 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p735
+aVBen Gordon CHI 12/03/2004 CHI vs. MIA L 24 8 4 10 40.0 0 1 0.0 0 0 - 0 2 2 3 1 0 0 1 -12
+p736
+aVOthella Harrington CHI 12/03/2004 CHI vs. MIA L 19 8 4 7 57.1 0 0 - 0 0 - 1 3 4 1 0 0 0 4 -5
+p737
+aVKirk Hinrich CHI 12/03/2004 CHI vs. MIA L 38 17 5 12 41.7 3 6 50.0 4 4 100.0 0 3 3 4 3 1 0 3 -13
+p738
+aVTyson Chandler CHI 12/03/2004 CHI vs. MIA L 27 9 4 12 33.3 0 0 - 1 4 25.0 3 6 9 0 0 1 0 4 -17
+p739
+aVEddy Curry CHI 12/03/2004 CHI vs. MIA L 15 3 1 6 16.7 0 0 - 1 2 50.0 1 1 2 1 0 0 4 3 -10
+p740
+aVChris Duhon CHI 12/03/2004 CHI vs. MIA L 33 15 6 11 54.5 3 4 75.0 0 0 - 0 4 4 7 0 0 3 2 -15
+p741
+aVFrank Williams CHI 12/01/2004 CHI vs. LAL W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -3
+p742
+aVBen Gordon CHI 12/01/2004 CHI vs. LAL W 29 17 6 13 46.2 2 5 40.0 3 4 75.0 1 2 3 4 1 0 3 3 5
+p743
+aVAntonio Davis CHI 12/01/2004 CHI vs. LAL W 30 6 3 8 37.5 0 0 - 0 0 - 3 4 7 1 0 1 1 1 6
+p744
+aVChris Duhon CHI 12/01/2004 CHI vs. LAL W 24 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 3 1 0 3 4 -5
+p745
+aVTyson Chandler CHI 12/01/2004 CHI vs. LAL W 34 10 3 3 100.0 0 0 - 4 7 57.1 8 10 18 3 3 1 2 4 8
+p746
+aVAndres Nocioni CHI 12/01/2004 CHI vs. LAL W 16 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -9
+p747
+aVEddy Curry CHI 12/01/2004 CHI vs. LAL W 32 18 6 14 42.9 0 0 - 6 6 100.0 3 7 10 0 0 2 1 0 2
+p748
+aVLuol Deng CHI 12/01/2004 CHI vs. LAL W 32 18 7 16 43.8 2 4 50.0 2 2 100.0 1 4 5 1 2 0 1 1 17
+p749
+aVKirk Hinrich CHI 12/01/2004 CHI vs. LAL W 37 17 6 18 33.3 1 4 25.0 4 4 100.0 0 4 4 7 1 0 2 2 19
+p750
+aVBen Gordon CHI 11/27/2004 CHI @ CLE L 27 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 1 3 0 4 3 -9
+p751
+aVAndres Nocioni CHI 11/27/2004 CHI @ CLE L 16 8 3 5 60.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 0 2 -11
+p752
+aVOthella Harrington CHI 11/27/2004 CHI @ CLE L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -10
+p753
+aVAntonio Davis CHI 11/27/2004 CHI @ CLE L 20 3 1 4 25.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 1 -20
+p754
+aVLuol Deng CHI 11/27/2004 CHI @ CLE L 32 12 5 12 41.7 0 1 0.0 2 2 100.0 3 2 5 3 0 0 3 0 -15
+p755
+aVChris Duhon CHI 11/27/2004 CHI @ CLE L 19 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 2 0 0 3 2 -14
+p756
+aVAdrian Griffin CHI 11/27/2004 CHI @ CLE L 15 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 0 0 0 1 -6
+p757
+aVKirk Hinrich CHI 11/27/2004 CHI @ CLE L 28 6 3 10 30.0 0 4 0.0 0 0 - 0 3 3 6 1 0 2 0 -21
+p758
+aVEddy Curry CHI 11/27/2004 CHI @ CLE L 25 20 8 18 44.4 0 0 - 4 5 80.0 2 2 4 0 0 0 2 3 -1
+p759
+aVEric Piatkowski CHI 11/27/2004 CHI @ CLE L 17 5 1 2 50.0 0 0 - 3 3 100.0 0 0 0 2 1 0 1 1 -1
+p760
+aVTyson Chandler CHI 11/27/2004 CHI @ CLE L 28 6 1 5 20.0 0 0 - 4 8 50.0 2 7 9 2 1 1 0 1 -2
+p761
+aVBen Gordon CHI 11/24/2004 CHI @ UTA W 26 22 7 15 46.7 4 7 57.1 4 4 100.0 1 1 2 3 0 0 3 3 3
+p762
+aVAndres Nocioni CHI 11/24/2004 CHI @ UTA W 20 6 2 5 40.0 0 0 - 2 3 66.7 0 4 4 1 0 0 2 3 -1
+p763
+aVTyson Chandler CHI 11/24/2004 CHI @ UTA W 31 7 1 4 25.0 0 0 - 5 6 83.3 0 7 7 0 0 1 2 4 0
+p764
+aVAntonio Davis CHI 11/24/2004 CHI @ UTA W 22 9 2 3 66.7 0 0 - 5 5 100.0 2 2 4 0 1 0 4 5 -5
+p765
+aVEddy Curry CHI 11/24/2004 CHI @ UTA W 26 21 8 13 61.5 0 0 - 5 6 83.3 1 1 2 0 0 0 1 6 10
+p766
+aVKirk Hinrich CHI 11/24/2004 CHI @ UTA W 47 17 3 11 27.3 1 4 25.0 10 12 83.3 0 1 1 8 2 0 1 4 2
+p767
+aVChris Duhon CHI 11/24/2004 CHI @ UTA W 22 8 3 6 50.0 1 3 33.3 1 1 100.0 0 2 2 2 1 0 1 3 0
+p768
+aVAdrian Griffin CHI 11/24/2004 CHI @ UTA W 13 0 0 1 0.0 0 0 - 0 0 - 1 3 4 2 0 0 1 1 4
+p769
+aVLuol Deng CHI 11/24/2004 CHI @ UTA W 33 11 4 10 40.0 0 2 0.0 3 3 100.0 0 4 4 1 1 0 1 2 -3
+p770
+aVOthella Harrington CHI 11/22/2004 CHI @ PHX L 11 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 2 0
+p771
+aVEddy Curry CHI 11/22/2004 CHI @ PHX L 33 17 7 13 53.8 0 0 - 3 6 50.0 4 5 9 2 0 1 4 4 -14
+p772
+aVAdrian Griffin CHI 11/22/2004 CHI @ PHX L 10 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 0 1 0 0 2 1
+p773
+aVBen Gordon CHI 11/22/2004 CHI @ PHX L 35 20 7 16 43.8 3 6 50.0 3 5 60.0 1 1 2 0 1 0 3 2 -16
+p774
+aVAntonio Davis CHI 11/22/2004 CHI @ PHX L 17 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 2 -11
+p775
+aVKirk Hinrich CHI 11/22/2004 CHI @ PHX L 21 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 2 1 1 1 6 -4
+p776
+aVEric Piatkowski CHI 11/22/2004 CHI @ PHX L 11 1 0 1 0.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 0 -4
+p777
+aVAndres Nocioni CHI 11/22/2004 CHI @ PHX L 19 2 1 9 11.1 0 2 0.0 0 0 - 0 1 1 2 0 0 3 1 -17
+p778
+aVJannero Pargo CHI 11/22/2004 CHI @ PHX L 10 0 0 5 0.0 0 2 0.0 0 0 - 1 2 3 2 0 0 1 1 -12
+p779
+aVTyson Chandler CHI 11/22/2004 CHI @ PHX L 31 10 4 6 66.7 0 0 - 2 5 40.0 5 4 9 1 1 1 1 3 -12
+p780
+aVLuol Deng CHI 11/22/2004 CHI @ PHX L 22 13 6 13 46.2 1 2 50.0 0 0 - 3 3 6 0 0 0 1 2 -1
+p781
+aVChris Duhon CHI 11/22/2004 CHI @ PHX L 20 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 3 1 0 2 0 0
+p782
+aVEric Piatkowski CHI 11/21/2004 CHI @ LAL L 13 3 1 4 25.0 1 4 25.0 0 1 0.0 0 1 1 2 1 0 0 2 -10
+p783
+aVChris Duhon CHI 11/21/2004 CHI @ LAL L 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 2
+p784
+aVAndres Nocioni CHI 11/21/2004 CHI @ LAL L 16 4 2 8 25.0 0 3 0.0 0 0 - 0 1 1 1 0 0 1 2 -14
+p785
+aVOthella Harrington CHI 11/21/2004 CHI @ LAL L 7 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 1 0 0 -3
+p786
+aVTyson Chandler CHI 11/21/2004 CHI @ LAL L 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 5 -4
+p787
+aVEddy Curry CHI 11/21/2004 CHI @ LAL L 39 14 6 14 42.9 0 0 - 2 3 66.7 4 7 11 2 0 0 2 5 -1
+p788
+aVKirk Hinrich CHI 11/21/2004 CHI @ LAL L 41 24 9 15 60.0 4 7 57.1 2 4 50.0 0 2 2 12 1 0 2 5 -11
+p789
+aVAntonio Davis CHI 11/21/2004 CHI @ LAL L 34 6 2 3 66.7 0 0 - 2 2 100.0 0 8 8 3 0 0 3 1 -11
+p790
+aVLuol Deng CHI 11/21/2004 CHI @ LAL L 30 21 10 16 62.5 1 3 33.3 0 0 - 1 3 4 3 4 0 1 3 11
+p791
+aVBen Gordon CHI 11/21/2004 CHI @ LAL L 35 15 5 15 33.3 1 5 20.0 4 4 100.0 1 1 2 4 1 0 2 3 1
+p792
+aVAdrian Griffin CHI 11/21/2004 CHI @ LAL L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -5
+p793
+aVTyson Chandler CHI 11/19/2004 CHI @ DEN L 13 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 1 0 2 2 -4
+p794
+aVEddy Curry CHI 11/19/2004 CHI @ DEN L 28 10 4 7 57.1 0 0 - 2 4 50.0 1 3 4 2 1 0 5 3 -13
+p795
+aVAdrian Griffin CHI 11/19/2004 CHI @ DEN L 8 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 1
+p796
+aVAntonio Davis CHI 11/19/2004 CHI @ DEN L 31 7 3 8 37.5 0 0 - 1 2 50.0 1 2 3 0 0 1 3 4 -14
+p797
+aVEric Piatkowski CHI 11/19/2004 CHI @ DEN L 21 7 2 5 40.0 0 1 0.0 3 4 75.0 0 2 2 0 1 0 0 1 7
+p798
+aVLuol Deng CHI 11/19/2004 CHI @ DEN L 23 7 3 13 23.1 0 3 0.0 1 2 50.0 1 3 4 1 0 0 2 2 -12
+p799
+aVBen Gordon CHI 11/19/2004 CHI @ DEN L 15 7 3 8 37.5 1 3 33.3 0 0 - 0 4 4 2 0 0 4 3 -7
+p800
+aVKirk Hinrich CHI 11/19/2004 CHI @ DEN L 34 10 4 10 40.0 2 4 50.0 0 0 - 0 4 4 10 0 0 1 4 -9
+p801
+aVJannero Pargo CHI 11/19/2004 CHI @ DEN L 6 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -8
+p802
+aVChris Duhon CHI 11/19/2004 CHI @ DEN L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 0 -14
+p803
+aVAndres Nocioni CHI 11/19/2004 CHI @ DEN L 31 22 8 11 72.7 0 1 0.0 6 6 100.0 2 4 6 4 1 1 2 4 -14
+p804
+aVOthella Harrington CHI 11/19/2004 CHI @ DEN L 13 5 2 3 66.7 0 0 - 1 1 100.0 0 3 3 0 0 0 1 3 -3
+p805
+aVOthella Harrington CHI 11/17/2004 CHI @ GSW L 7 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 0 -5
+p806
+aVAndres Nocioni CHI 11/17/2004 CHI @ GSW L 32 13 5 10 50.0 1 3 33.3 2 2 100.0 1 8 9 3 2 0 2 3 -12
+p807
+aVLuol Deng CHI 11/17/2004 CHI @ GSW L 20 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 5 1 -20
+p808
+aVEddy Curry CHI 11/17/2004 CHI @ GSW L 17 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 7 4 -13
+p809
+aVBen Gordon CHI 11/17/2004 CHI @ GSW L 12 12 5 11 45.5 2 4 50.0 0 0 - 1 0 1 2 0 0 2 5 -1
+p810
+aVAntonio Davis CHI 11/17/2004 CHI @ GSW L 19 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -1
+p811
+aVEric Piatkowski CHI 11/17/2004 CHI @ GSW L 23 13 5 6 83.3 3 4 75.0 0 0 - 1 1 2 2 0 0 0 1 -3
+p812
+aVChris Duhon CHI 11/17/2004 CHI @ GSW L 22 7 3 10 30.0 0 3 0.0 1 2 50.0 0 0 0 2 2 0 2 2 -13
+p813
+aVJared Reiner CHI 11/17/2004 CHI @ GSW L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p814
+aVTyson Chandler CHI 11/17/2004 CHI @ GSW L 31 3 1 9 11.1 0 0 - 1 2 50.0 4 4 8 1 3 1 3 0 -9
+p815
+aVAdrian Griffin CHI 11/17/2004 CHI @ GSW L 17 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 3 1 1 0 0 8
+p816
+aVKirk Hinrich CHI 11/17/2004 CHI @ GSW L 34 15 6 15 40.0 1 6 16.7 2 2 100.0 0 5 5 10 3 0 2 5 0
+p817
+aVTyson Chandler CHI 11/16/2004 CHI @ SAC L 30 13 6 9 66.7 0 0 - 1 2 50.0 5 9 14 2 1 1 3 5 3
+p818
+aVEddy Curry CHI 11/16/2004 CHI @ SAC L 32 14 6 16 37.5 0 0 - 2 4 50.0 4 6 10 1 0 0 5 3 -17
+p819
+aVAndres Nocioni CHI 11/16/2004 CHI @ SAC L 21 8 4 9 44.4 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -2
+p820
+aVEric Piatkowski CHI 11/16/2004 CHI @ SAC L 29 24 7 11 63.6 5 8 62.5 5 5 100.0 0 3 3 2 1 0 1 2 -5
+p821
+aVKirk Hinrich CHI 11/16/2004 CHI @ SAC L 26 8 3 10 30.0 2 5 40.0 0 0 - 1 1 2 6 0 0 2 6 -3
+p822
+aVOthella Harrington CHI 11/16/2004 CHI @ SAC L 9 3 1 3 33.3 0 0 - 1 1 100.0 1 1 2 0 0 0 0 0 -1
+p823
+aVAdrian Griffin CHI 11/16/2004 CHI @ SAC L 10 1 0 1 0.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 2 -5
+p824
+aVChris Duhon CHI 11/16/2004 CHI @ SAC L 23 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 6 1 0 0 4 -6
+p825
+aVAntonio Davis CHI 11/16/2004 CHI @ SAC L 22 5 2 5 40.0 0 0 - 1 2 50.0 3 3 6 1 1 1 3 3 -7
+p826
+aVLuol Deng CHI 11/16/2004 CHI @ SAC L 31 22 9 19 47.4 3 4 75.0 1 2 50.0 4 5 9 0 2 0 1 2 5
+p827
+aVBen Gordon CHI 11/16/2004 CHI @ SAC L 7 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 2 0 3
+p828
+aVAndres Nocioni CHI 11/13/2004 CHI vs. LAC L 24 13 5 9 55.6 1 3 33.3 2 6 33.3 0 4 4 3 0 0 4 5 -9
+p829
+aVLuol Deng CHI 11/13/2004 CHI vs. LAC L 27 13 5 10 50.0 2 5 40.0 1 2 50.0 2 4 6 3 1 0 1 2 0
+p830
+aVAntonio Davis CHI 11/13/2004 CHI vs. LAC L 15 6 1 4 25.0 0 0 - 4 6 66.7 2 3 5 3 0 0 0 3 -2
+p831
+aVChris Duhon CHI 11/13/2004 CHI vs. LAC L 13 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 5 1 0 1 1 -2
+p832
+aVEric Piatkowski CHI 11/13/2004 CHI vs. LAC L 20 1 0 2 0.0 0 0 - 1 1 100.0 0 1 1 2 1 0 2 2 7
+p833
+aVAdrian Griffin CHI 11/13/2004 CHI vs. LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p834
+aVEddy Curry CHI 11/13/2004 CHI vs. LAC L 40 20 8 20 40.0 0 0 - 4 5 80.0 3 8 11 0 1 0 1 5 2
+p835
+aVKirk Hinrich CHI 11/13/2004 CHI vs. LAC L 35 11 4 12 33.3 3 4 75.0 0 0 - 0 2 2 7 1 0 1 5 -1
+p836
+aVBen Gordon CHI 11/13/2004 CHI vs. LAC L 28 10 4 14 28.6 1 3 33.3 1 2 50.0 2 2 4 1 0 0 0 3 1
+p837
+aVTyson Chandler CHI 11/13/2004 CHI vs. LAC L 36 17 6 7 85.7 0 0 - 5 8 62.5 3 10 13 0 0 2 1 3 4
+p838
+aVTyson Chandler CHI 11/09/2004 CHI vs. PHX L 23 7 3 5 60.0 0 0 - 1 3 33.3 4 4 8 0 0 2 0 3 -14
+p839
+aVLuol Deng CHI 11/09/2004 CHI vs. PHX L 30 18 8 22 36.4 1 5 20.0 1 2 50.0 2 5 7 2 0 2 1 0 -6
+p840
+aVKirk Hinrich CHI 11/09/2004 CHI vs. PHX L 35 10 4 13 30.8 0 4 0.0 2 2 100.0 0 3 3 6 2 0 2 0 -16
+p841
+aVEddy Curry CHI 11/09/2004 CHI vs. PHX L 17 3 1 5 20.0 0 0 - 1 2 50.0 2 4 6 0 0 1 4 2 -18
+p842
+aVBen Gordon CHI 11/09/2004 CHI vs. PHX L 13 6 3 9 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 2 2 -11
+p843
+aVOthella Harrington CHI 11/09/2004 CHI vs. PHX L 23 3 1 5 20.0 0 0 - 1 2 50.0 5 3 8 1 1 0 1 4 1
+p844
+aVChris Duhon CHI 11/09/2004 CHI vs. PHX L 28 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 5 2 0 1 5 -15
+p845
+aVAndres Nocioni CHI 11/09/2004 CHI vs. PHX L 24 7 3 11 27.3 0 2 0.0 1 2 50.0 2 6 8 3 0 0 1 1 -14
+p846
+aVEric Piatkowski CHI 11/09/2004 CHI vs. PHX L 10 4 2 6 33.3 0 4 0.0 0 0 - 0 0 0 1 2 0 1 0 -4
+p847
+aVAntonio Davis CHI 11/09/2004 CHI vs. PHX L 13 6 2 3 66.7 0 0 - 2 2 100.0 3 0 3 0 0 1 1 0 2
+p848
+aVAdrian Griffin CHI 11/09/2004 CHI vs. PHX L 24 10 4 11 36.4 0 2 0.0 2 2 100.0 3 2 5 4 2 0 1 4 -5
+p849
+aVBen Gordon CHI 11/06/2004 CHI @ IND L 28 17 6 14 42.9 2 4 50.0 3 4 75.0 1 1 2 2 3 0 3 4 -1
+p850
+aVOthella Harrington CHI 11/06/2004 CHI @ IND L 25 3 1 3 33.3 0 0 - 1 2 50.0 4 1 5 0 0 1 2 5 2
+p851
+aVAdrian Griffin CHI 11/06/2004 CHI @ IND L 20 8 4 7 57.1 0 1 0.0 0 0 - 1 4 5 3 2 0 0 5 2
+p852
+aVChris Duhon CHI 11/06/2004 CHI @ IND L 28 1 0 7 0.0 0 4 0.0 1 2 50.0 0 1 1 5 1 0 2 1 -14
+p853
+aVJared Reiner CHI 11/06/2004 CHI @ IND L 14 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 1 3 2 3 -8
+p854
+aVLuol Deng CHI 11/06/2004 CHI @ IND L 35 25 10 15 66.7 1 4 25.0 4 7 57.1 3 2 5 1 1 0 1 1 -9
+p855
+aVAndres Nocioni CHI 11/06/2004 CHI @ IND L 35 10 4 13 30.8 0 0 - 2 2 100.0 3 4 7 1 2 0 1 3 -11
+p856
+aVKirk Hinrich CHI 11/06/2004 CHI @ IND L 32 12 3 10 30.0 2 5 40.0 4 4 100.0 0 2 2 7 0 0 8 6 -12
+p857
+aVTyson Chandler CHI 11/06/2004 CHI @ IND L 23 8 4 5 80.0 0 0 - 0 0 - 1 6 7 2 1 0 4 3 1
+p858
+aVChris Duhon CHI 11/05/2004 CHI vs. NJN L 38 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 8 1 0 1 3 15
+p859
+aVBen Gordon CHI 11/05/2004 CHI vs. NJN L 16 3 0 6 0.0 0 1 0.0 3 3 100.0 0 0 0 0 0 0 1 1 -2
+p860
+aVKirk Hinrich CHI 11/05/2004 CHI vs. NJN L 54 34 12 30 40.0 5 13 38.5 5 7 71.4 2 2 4 8 3 1 4 6 -4
+p861
+aVLuol Deng CHI 11/05/2004 CHI vs. NJN L 39 18 8 21 38.1 1 5 20.0 1 2 50.0 6 4 10 3 0 1 1 3 13
+p862
+aVOthella Harrington CHI 11/05/2004 CHI vs. NJN L 42 19 9 15 60.0 0 0 - 1 1 100.0 4 3 7 0 0 0 2 5 12
+p863
+aVAndres Nocioni CHI 11/05/2004 CHI vs. NJN L 42 17 5 19 26.3 2 6 33.3 5 10 50.0 4 10 14 1 2 1 5 6 -21
+p864
+aVJared Reiner CHI 11/05/2004 CHI vs. NJN L 9 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 0 0 1 2 -24
+p865
+aVEric Piatkowski CHI 11/05/2004 CHI vs. NJN L 5 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -15
+p866
+aVAdrian Griffin CHI 11/05/2004 CHI vs. NJN L 20 6 2 3 66.7 2 3 66.7 0 0 - 1 0 1 1 0 1 1 2 23
+p867
+aVTyson Chandler CHI 11/05/2004 CHI vs. NJN L 25 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 2 0 3 5 -22
+p868
+a.

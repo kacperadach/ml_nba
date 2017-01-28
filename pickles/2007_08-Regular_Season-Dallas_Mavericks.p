@@ -1,0 +1,1754 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMalik Allen DAL 04/16/2008 DAL vs. NOH W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p2
+aVJason Terry DAL 04/16/2008 DAL vs. NOH W 29 30 12 19 63.2 3 6 50.0 3 4 75.0 1 3 4 4 2 0 0 1 27
+p3
+aVDirk Nowitzki DAL 04/16/2008 DAL vs. NOH W 39 12 4 16 25.0 1 6 16.7 3 3 100.0 0 5 5 3 0 0 0 2 9
+p4
+aVErick Dampier DAL 04/16/2008 DAL vs. NOH W 17 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 1 0 0 2 2 -17
+p5
+aVJerry Stackhouse DAL 04/16/2008 DAL vs. NOH W 16 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 -14
+p6
+aVJuwan Howard DAL 04/16/2008 DAL vs. NOH W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p7
+aVBrandon Bass DAL 04/16/2008 DAL vs. NOH W 30 13 4 6 66.7 0 0 - 5 5 100.0 7 5 12 0 1 2 1 4 34
+p8
+aVJosh Howard DAL 04/16/2008 DAL vs. NOH W 41 19 6 20 30.0 1 3 33.3 6 6 100.0 0 3 3 1 0 0 1 2 10
+p9
+aVEddie Jones DAL 04/16/2008 DAL vs. NOH W 16 1 0 4 0.0 0 3 0.0 1 2 50.0 1 2 3 1 0 0 0 0 8
+p10
+aVJason Kidd DAL 04/16/2008 DAL vs. NOH W 37 27 9 14 64.3 5 8 62.5 4 4 100.0 4 6 10 10 0 0 1 2 11
+p11
+aVDevean George DAL 04/16/2008 DAL vs. NOH W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p12
+aVEddie Jones DAL 04/13/2008 DAL @ SEA L 26 3 1 7 14.3 1 4 25.0 0 0 - 2 5 7 1 0 0 0 2 -7
+p13
+aVTyronn Lue DAL 04/13/2008 DAL @ SEA L 8 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -6
+p14
+aVJason Terry DAL 04/13/2008 DAL @ SEA L 32 25 10 18 55.6 0 5 0.0 5 6 83.3 0 2 2 3 0 2 1 1 2
+p15
+aVBrandon Bass DAL 04/13/2008 DAL @ SEA L 12 2 1 8 12.5 0 0 - 0 0 - 0 3 3 2 0 0 1 1 -8
+p16
+aVJuwan Howard DAL 04/13/2008 DAL @ SEA L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p17
+aVJosh Howard DAL 04/13/2008 DAL @ SEA L 28 16 4 13 30.8 2 3 66.7 6 6 100.0 2 5 7 3 1 0 1 2 -1
+p18
+aVDirk Nowitzki DAL 04/13/2008 DAL @ SEA L 34 32 13 25 52.0 4 9 44.4 2 3 66.7 2 7 9 2 0 0 0 3 2
+p19
+aVMalik Allen DAL 04/13/2008 DAL @ SEA L 12 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -4
+p20
+aVErick Dampier DAL 04/13/2008 DAL @ SEA L 31 1 0 1 0.0 0 0 - 1 2 50.0 3 5 8 3 0 0 0 3 7
+p21
+aVJason Kidd DAL 04/13/2008 DAL @ SEA L 31 4 2 7 28.6 0 1 0.0 0 0 - 0 6 6 8 1 0 4 4 -5
+p22
+aVDevean George DAL 04/13/2008 DAL @ SEA L 21 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 1 1 0 0 1
+p23
+aVJuwan Howard DAL 04/12/2008 DAL @ POR L 8 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 4
+p24
+aVDevean George DAL 04/12/2008 DAL @ POR L 23 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 2 0 0 0 2 -12
+p25
+aVAntoine Wright DAL 04/12/2008 DAL @ POR L 13 0 0 2 0.0 0 1 0.0 0 2 0.0 0 1 1 1 0 0 0 2 -3
+p26
+aVDirk Nowitzki DAL 04/12/2008 DAL @ POR L 40 28 10 17 58.8 1 2 50.0 7 7 100.0 1 3 4 4 0 0 2 0 -7
+p27
+aVBrandon Bass DAL 04/12/2008 DAL @ POR L 19 12 3 6 50.0 0 0 - 6 6 100.0 2 3 5 1 1 0 2 0 -7
+p28
+aVEddie Jones DAL 04/12/2008 DAL @ POR L 30 16 6 7 85.7 3 4 75.0 1 2 50.0 0 3 3 6 0 0 1 1 6
+p29
+aVJason Terry DAL 04/12/2008 DAL @ POR L 35 10 3 15 20.0 1 5 20.0 3 3 100.0 1 3 4 3 1 0 1 4 4
+p30
+aVErick Dampier DAL 04/12/2008 DAL @ POR L 22 11 5 8 62.5 0 0 - 1 3 33.3 5 2 7 0 0 0 0 3 0
+p31
+aVJason Kidd DAL 04/12/2008 DAL @ POR L 37 8 4 9 44.4 0 3 0.0 0 0 - 0 5 5 10 1 0 1 1 -9
+p32
+aVMalik Allen DAL 04/12/2008 DAL @ POR L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 8
+p33
+aVTyronn Lue DAL 04/12/2008 DAL @ POR L 6 9 4 5 80.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 1
+p34
+aVDevean George DAL 04/10/2008 DAL vs. UTA W 29 9 3 8 37.5 1 1 100.0 2 2 100.0 2 4 6 1 0 0 1 0 -4
+p35
+aVErick Dampier DAL 04/10/2008 DAL vs. UTA W 35 4 1 2 50.0 0 0 - 2 2 100.0 3 2 5 0 0 2 0 2 13
+p36
+aVEddie Jones DAL 04/10/2008 DAL vs. UTA W 15 7 2 3 66.7 1 2 50.0 2 2 100.0 1 2 3 1 1 1 0 2 5
+p37
+aVJason Kidd DAL 04/10/2008 DAL vs. UTA W 35 7 3 8 37.5 1 2 50.0 0 0 - 1 5 6 7 0 0 1 3 9
+p38
+aVDirk Nowitzki DAL 04/10/2008 DAL vs. UTA W 34 32 12 23 52.2 4 5 80.0 4 5 80.0 0 2 2 1 1 2 1 2 5
+p39
+aVJuwan Howard DAL 04/10/2008 DAL vs. UTA W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -8
+p40
+aVJosh Howard DAL 04/10/2008 DAL vs. UTA W 20 3 1 8 12.5 0 1 0.0 1 2 50.0 0 4 4 1 2 1 3 1 6
+p41
+aVBrandon Bass DAL 04/10/2008 DAL vs. UTA W 16 14 4 6 66.7 0 0 - 6 6 100.0 0 4 4 1 1 1 0 1 -6
+p42
+aVTyronn Lue DAL 04/10/2008 DAL vs. UTA W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p43
+aVJason Terry DAL 04/10/2008 DAL vs. UTA W 35 21 7 14 50.0 1 4 25.0 6 6 100.0 0 3 3 4 1 1 0 2 1
+p44
+aVDevean George DAL 04/08/2008 DAL vs. SEA W 20 5 2 6 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 7
+p45
+aVErick Dampier DAL 04/08/2008 DAL vs. SEA W 25 10 4 5 80.0 0 0 - 2 2 100.0 2 7 9 1 0 1 0 0 1
+p46
+aVTyronn Lue DAL 04/08/2008 DAL vs. SEA W 16 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 2 0 0 1 4 0
+p47
+aVJason Kidd DAL 04/08/2008 DAL vs. SEA W 27 6 2 6 33.3 0 2 0.0 2 2 100.0 0 7 7 10 1 0 2 2 13
+p48
+aVJason Terry DAL 04/08/2008 DAL vs. SEA W 33 22 9 11 81.8 2 2 100.0 2 2 100.0 0 1 1 6 0 0 0 1 12
+p49
+aVJamaal Magloire DAL 04/08/2008 DAL vs. SEA W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -2
+p50
+aVJuwan Howard DAL 04/08/2008 DAL vs. SEA W 16 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 7
+p51
+aVDirk Nowitzki DAL 04/08/2008 DAL vs. SEA W 26 11 5 14 35.7 1 2 50.0 0 0 - 0 12 12 1 0 0 0 1 11
+p52
+aVJosh Howard DAL 04/08/2008 DAL vs. SEA W 32 17 6 14 42.9 0 4 0.0 5 7 71.4 1 5 6 3 0 1 1 2 14
+p53
+aVAntoine Wright DAL 04/08/2008 DAL vs. SEA W 16 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 2
+p54
+aVBrandon Bass DAL 04/08/2008 DAL vs. SEA W 26 13 6 8 75.0 0 0 - 1 2 50.0 1 2 3 1 0 2 0 3 15
+p55
+aVJosh Howard DAL 04/06/2008 DAL @ PHX W 44 24 9 21 42.9 0 1 0.0 6 8 75.0 3 6 9 4 2 0 0 1 12
+p56
+aVJuwan Howard DAL 04/06/2008 DAL @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p57
+aVTyronn Lue DAL 04/06/2008 DAL @ PHX W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p58
+aVEddie Jones DAL 04/06/2008 DAL @ PHX W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p59
+aVBrandon Bass DAL 04/06/2008 DAL @ PHX W 24 19 8 13 61.5 0 0 - 3 3 100.0 3 1 4 0 0 0 1 5 -1
+p60
+aVDirk Nowitzki DAL 04/06/2008 DAL @ PHX W 38 32 11 23 47.8 1 3 33.3 9 10 90.0 1 11 12 1 2 0 3 4 12
+p61
+aVJason Kidd DAL 04/06/2008 DAL @ PHX W 38 8 4 11 36.4 0 3 0.0 0 0 - 2 4 6 7 4 4 1 4 9
+p62
+aVJason Terry DAL 04/06/2008 DAL @ PHX W 35 12 5 10 50.0 0 2 0.0 2 2 100.0 0 2 2 4 0 0 1 1 -5
+p63
+aVDevean George DAL 04/06/2008 DAL @ PHX W 11 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 0 0 11
+p64
+aVAntoine Wright DAL 04/06/2008 DAL @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 0 -3
+p65
+aVErick Dampier DAL 04/06/2008 DAL @ PHX W 28 8 4 6 66.7 0 0 - 0 0 - 4 2 6 0 0 1 0 5 9
+p66
+aVTyronn Lue DAL 04/04/2008 DAL @ LAL L 8 8 3 4 75.0 1 2 50.0 1 4 25.0 0 0 0 0 0 0 0 0 -6
+p67
+aVJason Terry DAL 04/04/2008 DAL @ LAL L 38 25 9 18 50.0 2 6 33.3 5 6 83.3 2 2 4 3 1 0 1 4 -10
+p68
+aVEddie Jones DAL 04/04/2008 DAL @ LAL L 22 0 0 3 0.0 0 3 0.0 0 0 - 0 4 4 0 0 0 1 3 2
+p69
+aVBrandon Bass DAL 04/04/2008 DAL @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p70
+aVMalik Allen DAL 04/04/2008 DAL @ LAL L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p71
+aVJason Kidd DAL 04/04/2008 DAL @ LAL L 39 10 4 7 57.1 2 2 100.0 0 0 - 0 7 7 8 3 1 0 5 -2
+p72
+aVErick Dampier DAL 04/04/2008 DAL @ LAL L 31 11 4 6 66.7 0 0 - 3 6 50.0 5 5 10 2 0 0 1 5 5
+p73
+aVJosh Howard DAL 04/04/2008 DAL @ LAL L 41 23 8 20 40.0 0 3 0.0 7 8 87.5 4 3 7 3 0 0 2 4 5
+p74
+aVDevean George DAL 04/04/2008 DAL @ LAL L 26 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 7
+p75
+aVDirk Nowitzki DAL 04/04/2008 DAL @ LAL L 31 27 13 19 68.4 1 2 50.0 0 0 - 1 3 4 3 0 0 2 3 -19
+p76
+aVDevean George DAL 04/02/2008 DAL vs. GSW W 25 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 1 1 1 1 4 15
+p77
+aVTyronn Lue DAL 04/02/2008 DAL vs. GSW W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p78
+aVJosh Howard DAL 04/02/2008 DAL vs. GSW W 38 28 14 25 56.0 0 1 0.0 0 0 - 4 3 7 5 2 0 2 0 23
+p79
+aVJason Terry DAL 04/02/2008 DAL vs. GSW W 40 31 11 21 52.4 3 9 33.3 6 6 100.0 2 3 5 6 1 0 0 2 34
+p80
+aVBrandon Bass DAL 04/02/2008 DAL vs. GSW W 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p81
+aVMalik Allen DAL 04/02/2008 DAL vs. GSW W 17 2 1 3 33.3 0 0 - 0 0 - 1 7 8 1 0 0 0 0 13
+p82
+aVErick Dampier DAL 04/02/2008 DAL vs. GSW W 27 4 2 4 50.0 0 0 - 0 0 - 3 8 11 1 1 3 1 4 13
+p83
+aVEddie Jones DAL 04/02/2008 DAL vs. GSW W 20 12 5 10 50.0 2 5 40.0 0 0 - 1 4 5 2 1 1 1 3 10
+p84
+aVDirk Nowitzki DAL 04/02/2008 DAL vs. GSW W 27 18 6 15 40.0 1 2 50.0 5 6 83.3 2 3 5 0 0 1 0 0 9
+p85
+aVAntoine Wright DAL 04/02/2008 DAL vs. GSW W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p86
+aVJason Kidd DAL 04/02/2008 DAL vs. GSW W 33 5 1 6 16.7 0 1 0.0 3 4 75.0 3 8 11 17 4 0 5 1 12
+p87
+aVErick Dampier DAL 03/31/2008 DAL @ LAC W 30 4 2 5 40.0 0 0 - 0 0 - 2 5 7 2 1 4 1 2 -6
+p88
+aVJason Kidd DAL 03/31/2008 DAL @ LAC W 39 27 9 15 60.0 2 3 66.7 7 8 87.5 0 3 3 4 4 1 4 1 -1
+p89
+aVMalik Allen DAL 03/31/2008 DAL @ LAC W 25 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 16
+p90
+aVBrandon Bass DAL 03/31/2008 DAL @ LAC W 20 7 3 3 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 3 4 12
+p91
+aVDevean George DAL 03/31/2008 DAL @ LAC W 10 2 1 5 20.0 0 2 0.0 0 2 0.0 0 1 1 1 0 0 0 3 -7
+p92
+aVTyronn Lue DAL 03/31/2008 DAL @ LAC W 9 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 3 8
+p93
+aVJason Terry DAL 03/31/2008 DAL @ LAC W 36 20 7 16 43.8 1 4 25.0 5 6 83.3 1 1 2 4 2 0 2 2 15
+p94
+aVEddie Jones DAL 03/31/2008 DAL @ LAC W 17 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 1 0 1 0 12
+p95
+aVJosh Howard DAL 03/31/2008 DAL @ LAC W 39 25 8 20 40.0 0 4 0.0 9 10 90.0 1 7 8 3 2 0 0 3 0
+p96
+aVJuwan Howard DAL 03/31/2008 DAL @ LAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p97
+aVAntoine Wright DAL 03/31/2008 DAL @ LAC W 12 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 4 -10
+p98
+aVJason Terry DAL 03/30/2008 DAL @ GSW L 44 15 5 15 33.3 1 7 14.3 4 5 80.0 0 1 1 5 2 0 0 2 -8
+p99
+aVBrandon Bass DAL 03/30/2008 DAL @ GSW L 25 21 6 12 50.0 0 0 - 9 12 75.0 4 1 5 1 0 0 3 5 -15
+p100
+aVAntoine Wright DAL 03/30/2008 DAL @ GSW L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -8
+p101
+aVJuwan Howard DAL 03/30/2008 DAL @ GSW L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p102
+aVJason Kidd DAL 03/30/2008 DAL @ GSW L 41 13 3 9 33.3 3 4 75.0 4 4 100.0 3 6 9 14 1 0 1 4 -3
+p103
+aVDevean George DAL 03/30/2008 DAL @ GSW L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 4 4 1 0 0 1 4 -4
+p104
+aVTyronn Lue DAL 03/30/2008 DAL @ GSW L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -8
+p105
+aVMalik Allen DAL 03/30/2008 DAL @ GSW L 37 12 5 10 50.0 0 0 - 2 2 100.0 0 4 4 1 0 0 3 5 -1
+p106
+aVJosh Howard DAL 03/30/2008 DAL @ GSW L 39 36 13 25 52.0 1 4 25.0 9 9 100.0 2 7 9 3 2 2 1 3 -8
+p107
+aVErick Dampier DAL 03/30/2008 DAL @ GSW L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 1 3 0 10
+p108
+aVJason Kidd DAL 03/27/2008 DAL @ DEN L 42 19 6 11 54.5 3 5 60.0 4 5 80.0 0 4 4 15 5 0 6 1 -11
+p109
+aVJerry Stackhouse DAL 03/27/2008 DAL @ DEN L 31 18 8 15 53.3 1 5 20.0 1 3 33.3 3 5 8 6 1 0 3 2 -18
+p110
+aVJosh Howard DAL 03/27/2008 DAL @ DEN L 43 30 12 24 50.0 1 5 20.0 5 8 62.5 0 5 5 2 0 0 2 3 -5
+p111
+aVJason Terry DAL 03/27/2008 DAL @ DEN L 28 14 5 12 41.7 1 7 14.3 3 4 75.0 0 0 0 3 2 0 0 1 2
+p112
+aVErick Dampier DAL 03/27/2008 DAL @ DEN L 31 5 2 5 40.0 0 0 - 1 2 50.0 4 5 9 0 0 1 1 3 -16
+p113
+aVJuwan Howard DAL 03/27/2008 DAL @ DEN L 12 6 2 3 66.7 0 0 - 2 3 66.7 1 1 2 1 0 0 0 2 -2
+p114
+aVBrandon Bass DAL 03/27/2008 DAL @ DEN L 10 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 1
+p115
+aVEddie Jones DAL 03/27/2008 DAL @ DEN L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p116
+aVAntoine Wright DAL 03/27/2008 DAL @ DEN L 10 7 3 3 100.0 0 0 - 1 1 100.0 1 2 3 1 0 0 0 2 -5
+p117
+aVMalik Allen DAL 03/27/2008 DAL @ DEN L 28 6 3 4 75.0 0 0 - 0 0 - 3 1 4 2 0 0 5 6 -7
+p118
+aVTyronn Lue DAL 03/27/2008 DAL @ DEN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p119
+aVJerry Stackhouse DAL 03/25/2008 DAL vs. LAC W 29 20 9 15 60.0 2 5 40.0 0 0 - 1 0 1 3 1 0 0 1 6
+p120
+aVJason Terry DAL 03/25/2008 DAL vs. LAC W 24 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 1 2 0 0 3 14
+p121
+aVMalik Allen DAL 03/25/2008 DAL vs. LAC W 27 6 3 8 37.5 0 0 - 0 0 - 4 5 9 2 1 0 0 3 17
+p122
+aVJason Kidd DAL 03/25/2008 DAL vs. LAC W 33 10 2 7 28.6 2 4 50.0 4 4 100.0 1 5 6 8 1 0 7 3 15
+p123
+aVJuwan Howard DAL 03/25/2008 DAL vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p124
+aVDevean George DAL 03/25/2008 DAL vs. LAC W 6 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 2 -5
+p125
+aVErick Dampier DAL 03/25/2008 DAL vs. LAC W 31 19 8 12 66.7 0 0 - 3 4 75.0 6 11 17 0 0 1 0 1 7
+p126
+aVJamaal Magloire DAL 03/25/2008 DAL vs. LAC W 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 2 2 0
+p127
+aVJosh Howard DAL 03/25/2008 DAL vs. LAC W 36 32 8 22 36.4 1 5 20.0 15 15 100.0 3 4 7 2 4 0 2 2 14
+p128
+aVBrandon Bass DAL 03/25/2008 DAL vs. LAC W 19 3 1 5 20.0 0 0 - 1 2 50.0 3 5 8 0 0 0 0 1 5
+p129
+aVTyronn Lue DAL 03/25/2008 DAL vs. LAC W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -11
+p130
+aVAntoine Wright DAL 03/25/2008 DAL vs. LAC W 19 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 8
+p131
+aVBrandon Bass DAL 03/23/2008 DAL vs. SAS L 12 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -7
+p132
+aVDirk Nowitzki DAL 03/23/2008 DAL vs. SAS L 26 11 4 13 30.8 0 1 0.0 3 3 100.0 0 7 7 4 0 3 0 2 -6
+p133
+aVJosh Howard DAL 03/23/2008 DAL vs. SAS L 39 13 5 12 41.7 1 4 25.0 2 4 50.0 2 7 9 2 0 1 1 2 -7
+p134
+aVJason Kidd DAL 03/23/2008 DAL vs. SAS L 35 7 3 10 30.0 1 5 20.0 0 0 - 0 7 7 5 1 1 3 2 1
+p135
+aVErick Dampier DAL 03/23/2008 DAL vs. SAS L 24 4 2 2 100.0 0 0 - 0 0 - 0 6 6 0 0 2 1 2 -4
+p136
+aVMalik Allen DAL 03/23/2008 DAL vs. SAS L 14 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 4 1
+p137
+aVJason Terry DAL 03/23/2008 DAL vs. SAS L 28 17 7 13 53.8 1 3 33.3 2 2 100.0 0 3 3 3 2 1 0 5 -1
+p138
+aVJerry Stackhouse DAL 03/23/2008 DAL vs. SAS L 33 19 7 15 46.7 3 6 50.0 2 2 100.0 0 4 4 0 0 0 2 4 0
+p139
+aVTyronn Lue DAL 03/23/2008 DAL vs. SAS L 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -1
+p140
+aVDevean George DAL 03/23/2008 DAL vs. SAS L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 0 1 1 3 -11
+p141
+aVMalik Allen DAL 03/20/2008 DAL vs. BOS L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 3 1 3 -6
+p142
+aVErick Dampier DAL 03/20/2008 DAL vs. BOS L 36 10 4 6 66.7 0 0 - 2 7 28.6 3 1 4 0 0 4 0 4 1
+p143
+aVBrandon Bass DAL 03/20/2008 DAL vs. BOS L 11 10 3 7 42.9 0 0 - 4 5 80.0 3 2 5 0 0 0 0 1 -3
+p144
+aVJosh Howard DAL 03/20/2008 DAL vs. BOS L 39 24 8 15 53.3 2 2 100.0 6 6 100.0 2 4 6 1 0 2 0 2 7
+p145
+aVDevean George DAL 03/20/2008 DAL vs. BOS L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 1 1 -8
+p146
+aVJason Kidd DAL 03/20/2008 DAL vs. BOS L 35 2 1 8 12.5 0 4 0.0 0 0 - 0 11 11 9 2 0 3 5 5
+p147
+aVDirk Nowitzki DAL 03/20/2008 DAL vs. BOS L 38 22 8 20 40.0 0 3 0.0 6 6 100.0 0 19 19 1 0 2 6 1 2
+p148
+aVJason Terry DAL 03/20/2008 DAL vs. BOS L 15 3 1 8 12.5 1 2 50.0 0 0 - 0 3 3 2 0 0 2 1 -13
+p149
+aVJerry Stackhouse DAL 03/20/2008 DAL vs. BOS L 36 17 7 15 46.7 3 6 50.0 0 0 - 0 1 1 4 0 0 1 3 4
+p150
+aVTyronn Lue DAL 03/20/2008 DAL vs. BOS L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -9
+p151
+aVJason Terry DAL 03/18/2008 DAL vs. LAL L 26 19 6 10 60.0 2 5 40.0 5 6 83.3 0 4 4 2 1 0 1 3 2
+p152
+aVJosh Howard DAL 03/18/2008 DAL vs. LAL L 35 19 6 14 42.9 0 1 0.0 7 10 70.0 1 4 5 1 0 1 3 3 -8
+p153
+aVDirk Nowitzki DAL 03/18/2008 DAL vs. LAL L 43 35 11 23 47.8 3 6 50.0 10 12 83.3 1 10 11 1 0 5 1 3 7
+p154
+aVTyronn Lue DAL 03/18/2008 DAL vs. LAL L 16 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 11
+p155
+aVErick Dampier DAL 03/18/2008 DAL vs. LAL L 19 6 2 3 66.7 0 0 - 2 2 100.0 2 7 9 0 0 2 1 2 1
+p156
+aVJerry Stackhouse DAL 03/18/2008 DAL vs. LAL L 29 7 2 6 33.3 0 2 0.0 3 4 75.0 1 0 1 4 1 0 3 4 -13
+p157
+aVBrandon Bass DAL 03/18/2008 DAL vs. LAL L 15 2 0 4 0.0 0 0 - 2 2 100.0 2 2 4 0 1 0 3 0 -19
+p158
+aVDevean George DAL 03/18/2008 DAL vs. LAL L 15 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 0 1 1 1 0 11
+p159
+aVJason Kidd DAL 03/18/2008 DAL vs. LAL L 28 1 0 3 0.0 0 1 0.0 1 2 50.0 0 3 3 7 1 0 1 2 -1
+p160
+aVMalik Allen DAL 03/18/2008 DAL vs. LAL L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 2 0 4 -1
+p161
+aVBrandon Bass DAL 03/16/2008 DAL @ MIA W 24 14 7 9 77.8 0 0 - 0 0 - 2 3 5 0 1 0 3 3 11
+p162
+aVDirk Nowitzki DAL 03/16/2008 DAL @ MIA W 25 21 7 11 63.6 2 2 100.0 5 7 71.4 0 4 4 3 2 0 0 1 25
+p163
+aVJason Kidd DAL 03/16/2008 DAL @ MIA W 23 5 2 3 66.7 1 1 100.0 0 0 - 1 5 6 5 2 0 2 0 24
+p164
+aVJerry Stackhouse DAL 03/16/2008 DAL @ MIA W 20 12 3 6 50.0 1 3 33.3 5 5 100.0 0 1 1 2 0 0 2 0 22
+p165
+aVErick Dampier DAL 03/16/2008 DAL @ MIA W 23 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 1 1 3 3 4 17
+p166
+aVJosh Howard DAL 03/16/2008 DAL @ MIA W 27 15 7 14 50.0 0 2 0.0 1 2 50.0 2 4 6 1 1 0 1 1 32
+p167
+aVDevean George DAL 03/16/2008 DAL @ MIA W 21 1 0 6 0.0 0 3 0.0 1 2 50.0 0 2 2 2 1 1 2 2 -7
+p168
+aVJason Terry DAL 03/16/2008 DAL @ MIA W 22 14 5 10 50.0 1 3 33.3 3 3 100.0 0 1 1 0 2 0 1 1 5
+p169
+aVAntoine Wright DAL 03/16/2008 DAL @ MIA W 9 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p170
+aVTyronn Lue DAL 03/16/2008 DAL @ MIA W 21 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 4 0 0 0 3 1
+p171
+aVMalik Allen DAL 03/16/2008 DAL @ MIA W 19 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -1
+p172
+aVJuwan Howard DAL 03/16/2008 DAL @ MIA W 5 0 0 0 - 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -2
+p173
+aVJamaal Magloire DAL 03/14/2008 DAL vs. IND W 2 0 0 0 - 0 0 - 0 2 0.0 0 4 4 0 0 0 0 0 -1
+p174
+aVJosh Howard DAL 03/14/2008 DAL vs. IND W 32 18 8 14 57.1 1 3 33.3 1 2 50.0 1 3 4 5 0 0 2 2 21
+p175
+aVDirk Nowitzki DAL 03/14/2008 DAL vs. IND W 28 21 8 17 47.1 1 3 33.3 4 5 80.0 1 5 6 2 0 0 2 3 8
+p176
+aVJuwan Howard DAL 03/14/2008 DAL vs. IND W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 2
+p177
+aVJason Kidd DAL 03/14/2008 DAL vs. IND W 30 9 3 6 50.0 1 2 50.0 2 2 100.0 2 5 7 12 1 1 1 2 17
+p178
+aVBrandon Bass DAL 03/14/2008 DAL vs. IND W 22 13 6 9 66.7 0 0 - 1 2 50.0 0 2 2 3 1 1 1 4 6
+p179
+aVJerry Stackhouse DAL 03/14/2008 DAL vs. IND W 26 14 5 14 35.7 2 7 28.6 2 3 66.7 0 4 4 3 0 0 2 2 15
+p180
+aVErick Dampier DAL 03/14/2008 DAL vs. IND W 32 6 3 4 75.0 0 0 - 0 0 - 4 8 12 3 0 3 2 4 23
+p181
+aVJason Terry DAL 03/14/2008 DAL vs. IND W 24 14 5 7 71.4 3 5 60.0 1 1 100.0 0 1 1 1 0 0 0 3 9
+p182
+aVAntoine Wright DAL 03/14/2008 DAL vs. IND W 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 2 3 -3
+p183
+aVMalik Allen DAL 03/14/2008 DAL vs. IND W 7 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -1
+p184
+aVTyronn Lue DAL 03/14/2008 DAL vs. IND W 16 13 5 5 100.0 3 3 100.0 0 0 - 0 1 1 2 0 0 1 1 -1
+p185
+aVJamaal Magloire DAL 03/12/2008 DAL vs. CHA W 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 0
+p186
+aVJerry Stackhouse DAL 03/12/2008 DAL vs. CHA W 19 10 4 7 57.1 2 4 50.0 0 0 - 1 0 1 6 1 0 3 0 11
+p187
+aVDirk Nowitzki DAL 03/12/2008 DAL vs. CHA W 28 26 8 14 57.1 2 4 50.0 8 8 100.0 1 8 9 3 3 0 3 4 17
+p188
+aVBrandon Bass DAL 03/12/2008 DAL vs. CHA W 20 16 7 8 87.5 0 0 - 2 2 100.0 0 5 5 1 1 1 1 0 12
+p189
+aVTyronn Lue DAL 03/12/2008 DAL vs. CHA W 15 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 4 6
+p190
+aVMalik Allen DAL 03/12/2008 DAL vs. CHA W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 2 0 4 9
+p191
+aVJason Terry DAL 03/12/2008 DAL vs. CHA W 24 10 3 10 30.0 0 5 0.0 4 5 80.0 0 3 3 3 2 0 0 1 16
+p192
+aVErick Dampier DAL 03/12/2008 DAL vs. CHA W 30 11 4 6 66.7 0 0 - 3 4 75.0 1 7 8 2 1 5 2 2 12
+p193
+aVJosh Howard DAL 03/12/2008 DAL vs. CHA W 35 24 9 15 60.0 2 2 100.0 4 5 80.0 3 4 7 6 0 0 2 0 23
+p194
+aVJason Kidd DAL 03/12/2008 DAL vs. CHA W 33 6 2 7 28.6 2 5 40.0 0 0 - 3 3 6 8 1 0 0 2 19
+p195
+aVJuwan Howard DAL 03/12/2008 DAL vs. CHA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p196
+aVAntoine Wright DAL 03/12/2008 DAL vs. CHA W 14 5 2 5 40.0 1 2 50.0 0 0 - 0 4 4 2 0 1 0 0 0
+p197
+aVBrandon Bass DAL 03/10/2008 DAL vs. NYK W 27 8 4 7 57.1 0 0 - 0 0 - 1 8 9 2 0 0 0 1 15
+p198
+aVAntoine Wright DAL 03/10/2008 DAL vs. NYK W 18 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 2 2 0 3 2 11
+p199
+aVJosh Howard DAL 03/10/2008 DAL vs. NYK W 31 14 5 10 50.0 0 0 - 4 5 80.0 0 5 5 2 3 0 0 0 14
+p200
+aVJason Kidd DAL 03/10/2008 DAL vs. NYK W 27 8 3 7 42.9 0 1 0.0 2 4 50.0 0 5 5 9 1 2 5 3 8
+p201
+aVMalik Allen DAL 03/10/2008 DAL vs. NYK W 18 10 2 6 33.3 0 0 - 6 6 100.0 1 4 5 3 0 2 1 4 13
+p202
+aVJ.J. Barea DAL 03/10/2008 DAL vs. NYK W 15 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 2 1 0 1 1 15
+p203
+aVJuwan Howard DAL 03/10/2008 DAL vs. NYK W 7 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 0 0 2 2 5
+p204
+aVJerry Stackhouse DAL 03/10/2008 DAL vs. NYK W 23 8 4 9 44.4 0 0 - 0 0 - 0 1 1 3 0 0 1 1 11
+p205
+aVJason Terry DAL 03/10/2008 DAL vs. NYK W 26 18 7 9 77.8 1 1 100.0 3 4 75.0 1 4 5 5 0 0 0 1 26
+p206
+aVJamaal Magloire DAL 03/10/2008 DAL vs. NYK W 6 7 2 2 100.0 0 0 - 3 5 60.0 1 1 2 0 0 0 0 1 5
+p207
+aVDirk Nowitzki DAL 03/10/2008 DAL vs. NYK W 23 18 6 9 66.7 1 1 100.0 5 5 100.0 1 7 8 3 2 0 0 2 12
+p208
+aVErick Dampier DAL 03/10/2008 DAL vs. NYK W 20 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 0 0 2 1 2 10
+p209
+aVAntoine Wright DAL 03/08/2008 DAL vs. NJN W 22 7 2 4 50.0 1 1 100.0 2 2 100.0 2 2 4 1 0 0 1 5 -3
+p210
+aVBrandon Bass DAL 03/08/2008 DAL vs. NJN W 29 19 8 13 61.5 0 0 - 3 3 100.0 2 5 7 0 1 0 0 2 14
+p211
+aVMalik Allen DAL 03/08/2008 DAL vs. NJN W 16 6 2 2 100.0 0 0 - 2 2 100.0 4 5 9 0 0 0 0 5 -3
+p212
+aVJason Kidd DAL 03/08/2008 DAL vs. NJN W 31 3 1 5 20.0 1 1 100.0 0 0 - 0 5 5 13 3 0 4 3 18
+p213
+aVDirk Nowitzki DAL 03/08/2008 DAL vs. NJN W 32 34 10 18 55.6 2 3 66.7 12 12 100.0 3 6 9 2 1 0 2 1 18
+p214
+aVJ.J. Barea DAL 03/08/2008 DAL vs. NJN W 10 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 3 0 0 0 0 -1
+p215
+aVJerry Stackhouse DAL 03/08/2008 DAL vs. NJN W 30 20 5 11 45.5 3 3 100.0 7 7 100.0 1 3 4 3 0 2 1 2 18
+p216
+aVErick Dampier DAL 03/08/2008 DAL vs. NJN W 17 4 2 3 66.7 0 0 - 0 2 0.0 0 4 4 0 0 2 3 5 11
+p217
+aVJosh Howard DAL 03/08/2008 DAL vs. NJN W 24 6 2 4 50.0 1 1 100.0 1 2 50.0 2 4 6 3 0 1 1 5 14
+p218
+aVJason Terry DAL 03/08/2008 DAL vs. NJN W 17 5 2 5 40.0 0 1 0.0 1 3 33.3 0 0 0 1 0 0 1 0 11
+p219
+aVJamaal Magloire DAL 03/08/2008 DAL vs. NJN W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 3 2 -3
+p220
+aVDevean George DAL 03/08/2008 DAL vs. NJN W 8 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 6
+p221
+aVJ.J. Barea DAL 03/06/2008 DAL vs. HOU L 6 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 1 0 0 1 1 7
+p222
+aVJosh Howard DAL 03/06/2008 DAL vs. HOU L 40 21 8 19 42.1 1 2 50.0 4 6 66.7 1 6 7 1 0 0 1 2 -14
+p223
+aVErick Dampier DAL 03/06/2008 DAL vs. HOU L 29 7 3 5 60.0 0 0 - 1 4 25.0 4 4 8 0 1 2 1 3 -16
+p224
+aVJuwan Howard DAL 03/06/2008 DAL vs. HOU L 12 3 1 3 33.3 0 0 - 1 2 50.0 3 1 4 2 0 0 1 3 5
+p225
+aVAntoine Wright DAL 03/06/2008 DAL vs. HOU L 5 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 0 7
+p226
+aVJason Kidd DAL 03/06/2008 DAL vs. HOU L 30 7 3 6 50.0 1 1 100.0 0 0 - 2 4 6 6 0 0 4 2 -13
+p227
+aVJason Terry DAL 03/06/2008 DAL vs. HOU L 35 17 6 15 40.0 0 2 0.0 5 5 100.0 1 1 2 3 0 0 3 2 -18
+p228
+aVJerry Stackhouse DAL 03/06/2008 DAL vs. HOU L 24 11 3 8 37.5 0 0 - 5 5 100.0 0 0 0 4 0 0 1 2 -16
+p229
+aVMalik Allen DAL 03/06/2008 DAL vs. HOU L 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p230
+aVDevean George DAL 03/06/2008 DAL vs. HOU L 18 8 3 6 50.0 2 4 50.0 0 0 - 0 5 5 0 0 1 0 4 -5
+p231
+aVBrandon Bass DAL 03/06/2008 DAL vs. HOU L 29 7 3 9 33.3 0 0 - 1 1 100.0 0 5 5 2 0 1 0 1 -13
+p232
+aVJason Terry DAL 03/03/2008 DAL @ UTA L 34 21 7 15 46.7 2 5 40.0 5 5 100.0 0 0 0 2 0 0 0 3 -10
+p233
+aVBrandon Bass DAL 03/03/2008 DAL @ UTA L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 2 0 2 9
+p234
+aVJason Kidd DAL 03/03/2008 DAL @ UTA L 40 19 5 10 50.0 3 4 75.0 6 7 85.7 0 4 4 9 3 0 2 3 -10
+p235
+aVMalik Allen DAL 03/03/2008 DAL @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p236
+aVJerry Stackhouse DAL 03/03/2008 DAL @ UTA L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 2 1 0 0 0 3
+p237
+aVJuwan Howard DAL 03/03/2008 DAL @ UTA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p238
+aVJamaal Magloire DAL 03/03/2008 DAL @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 6
+p239
+aVDirk Nowitzki DAL 03/03/2008 DAL @ UTA L 38 23 8 17 47.1 1 3 33.3 6 6 100.0 1 6 7 1 0 0 6 5 -8
+p240
+aVErick Dampier DAL 03/03/2008 DAL @ UTA L 25 6 2 3 66.7 0 0 - 2 4 50.0 2 3 5 0 0 0 2 4 -27
+p241
+aVJosh Howard DAL 03/03/2008 DAL @ UTA L 37 25 9 13 69.2 0 1 0.0 7 8 87.5 1 3 4 2 0 0 3 5 -12
+p242
+aVDevean George DAL 03/03/2008 DAL @ UTA L 24 12 4 7 57.1 1 3 33.3 3 4 75.0 3 1 4 1 0 1 0 1 18
+p243
+aVErick Dampier DAL 03/02/2008 DAL @ LAL L 31 16 7 7 100.0 0 0 - 2 5 40.0 6 11 17 2 1 0 2 6 3
+p244
+aVBrandon Bass DAL 03/02/2008 DAL @ LAL L 19 9 4 7 57.1 0 0 - 1 2 50.0 4 1 5 1 0 0 0 1 -7
+p245
+aVJosh Howard DAL 03/02/2008 DAL @ LAL L 28 11 4 15 26.7 1 3 33.3 2 3 66.7 2 5 7 2 0 0 4 3 -11
+p246
+aVJerry Stackhouse DAL 03/02/2008 DAL @ LAL L 31 4 2 12 16.7 0 3 0.0 0 0 - 0 0 0 1 0 0 0 4 6
+p247
+aVJason Terry DAL 03/02/2008 DAL @ LAL L 44 18 5 13 38.5 4 8 50.0 4 4 100.0 0 1 1 1 0 0 1 3 4
+p248
+aVJason Kidd DAL 03/02/2008 DAL @ LAL L 47 15 6 17 35.3 3 5 60.0 0 1 0.0 1 5 6 11 4 0 1 5 1
+p249
+aVDirk Nowitzki DAL 03/02/2008 DAL @ LAL L 45 30 10 26 38.5 3 7 42.9 7 8 87.5 2 11 13 5 2 2 2 4 -5
+p250
+aVDevean George DAL 03/02/2008 DAL @ LAL L 11 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -12
+p251
+aVMalik Allen DAL 03/02/2008 DAL @ LAL L 8 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 2 1
+p252
+aVJosh Howard DAL 02/29/2008 DAL vs. SAC W 43 20 10 19 52.6 0 1 0.0 0 0 - 2 7 9 2 1 1 1 3 18
+p253
+aVMalik Allen DAL 02/29/2008 DAL vs. SAC W 14 8 4 5 80.0 0 0 - 0 0 - 0 0 0 1 1 1 1 3 4
+p254
+aVJason Terry DAL 02/29/2008 DAL vs. SAC W 21 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 2 -23
+p255
+aVJerry Stackhouse DAL 02/29/2008 DAL vs. SAC W 33 23 5 12 41.7 2 3 66.7 11 11 100.0 0 1 1 4 1 0 0 0 27
+p256
+aVDevean George DAL 02/29/2008 DAL vs. SAC W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p257
+aVDirk Nowitzki DAL 02/29/2008 DAL vs. SAC W 41 34 15 26 57.7 2 4 50.0 2 2 100.0 3 7 10 3 0 3 0 4 14
+p258
+aVErick Dampier DAL 02/29/2008 DAL vs. SAC W 22 3 0 1 0.0 0 0 - 3 4 75.0 5 8 13 2 0 0 1 3 -8
+p259
+aVJ.J. Barea DAL 02/29/2008 DAL vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p260
+aVBrandon Bass DAL 02/29/2008 DAL vs. SAC W 20 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 1 0 1 2 6
+p261
+aVJason Kidd DAL 02/29/2008 DAL vs. SAC W 41 21 9 18 50.0 1 2 50.0 2 3 66.7 4 7 11 9 1 1 3 3 13
+p262
+aVDirk Nowitzki DAL 02/28/2008 DAL @ SAS L 40 28 5 15 33.3 1 2 50.0 17 21 81.0 0 6 6 2 0 1 1 1 -8
+p263
+aVBrandon Bass DAL 02/28/2008 DAL @ SAS L 30 16 7 10 70.0 0 0 - 2 2 100.0 2 4 6 0 0 1 2 0 0
+p264
+aVJason Kidd DAL 02/28/2008 DAL @ SAS L 35 7 3 8 37.5 1 1 100.0 0 0 - 0 4 4 10 2 0 2 2 -5
+p265
+aVJerry Stackhouse DAL 02/28/2008 DAL @ SAS L 21 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 0 0 0 2 0 -7
+p266
+aVJason Terry DAL 02/28/2008 DAL @ SAS L 35 7 2 10 20.0 0 3 0.0 3 4 75.0 2 4 6 3 2 0 0 4 6
+p267
+aVErick Dampier DAL 02/28/2008 DAL @ SAS L 22 6 3 5 60.0 0 0 - 0 0 - 4 4 8 1 0 1 3 6 -3
+p268
+aVJosh Howard DAL 02/28/2008 DAL @ SAS L 41 16 6 14 42.9 0 4 0.0 4 4 100.0 1 7 8 1 0 0 1 4 0
+p269
+aVDevean George DAL 02/28/2008 DAL @ SAS L 16 7 3 4 75.0 1 1 100.0 0 0 - 0 5 5 0 0 0 0 2 2
+p270
+aVJason Kidd DAL 02/25/2008 DAL vs. CHI W 40 11 5 7 71.4 1 1 100.0 0 1 0.0 2 7 9 8 4 0 6 2 14
+p271
+aVJosh Howard DAL 02/25/2008 DAL vs. CHI W 40 16 6 19 31.6 2 4 50.0 2 2 100.0 1 2 3 1 0 1 3 2 2
+p272
+aVDevean George DAL 02/25/2008 DAL vs. CHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p273
+aVDirk Nowitzki DAL 02/25/2008 DAL vs. CHI W 39 29 10 19 52.6 3 3 100.0 6 6 100.0 0 10 10 4 1 1 6 3 19
+p274
+aVJerry Stackhouse DAL 02/25/2008 DAL vs. CHI W 23 23 7 11 63.6 3 5 60.0 6 6 100.0 2 1 3 1 0 0 0 3 8
+p275
+aVErick Dampier DAL 02/25/2008 DAL vs. CHI W 37 6 3 6 50.0 0 0 - 0 0 - 4 12 16 1 1 7 3 6 8
+p276
+aVJason Terry DAL 02/25/2008 DAL vs. CHI W 34 11 5 10 50.0 0 1 0.0 1 2 50.0 0 3 3 6 4 0 2 2 4
+p277
+aVJ.J. Barea DAL 02/25/2008 DAL vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p278
+aVBrandon Bass DAL 02/25/2008 DAL vs. CHI W 15 4 2 7 28.6 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p279
+aVMalik Allen DAL 02/25/2008 DAL vs. CHI W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p280
+aVJason Terry DAL 02/24/2008 DAL @ MIN W 37 20 8 16 50.0 0 3 0.0 4 4 100.0 0 4 4 1 0 1 0 0 28
+p281
+aVErick Dampier DAL 02/24/2008 DAL @ MIN W 29 9 4 4 100.0 0 0 - 1 2 50.0 0 6 6 0 0 2 1 4 11
+p282
+aVJason Kidd DAL 02/24/2008 DAL @ MIN W 36 12 5 9 55.6 1 2 50.0 1 1 100.0 4 3 7 17 4 0 3 1 13
+p283
+aVJerry Stackhouse DAL 02/24/2008 DAL @ MIN W 18 8 2 8 25.0 2 5 40.0 2 2 100.0 0 1 1 1 1 0 2 1 -3
+p284
+aVDirk Nowitzki DAL 02/24/2008 DAL @ MIN W 37 29 10 15 66.7 2 3 66.7 7 9 77.8 2 6 8 2 2 0 2 0 18
+p285
+aVBrandon Bass DAL 02/24/2008 DAL @ MIN W 16 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -6
+p286
+aVJosh Howard DAL 02/24/2008 DAL @ MIN W 38 14 5 18 27.8 0 4 0.0 4 5 80.0 3 4 7 1 1 0 2 3 13
+p287
+aVJ.J. Barea DAL 02/24/2008 DAL @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p288
+aVJuwan Howard DAL 02/24/2008 DAL @ MIN W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 0 1
+p289
+aVEddie Jones DAL 02/24/2008 DAL @ MIN W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p290
+aVDevean George DAL 02/24/2008 DAL @ MIN W 13 1 0 2 0.0 0 2 0.0 1 2 50.0 0 6 6 1 0 0 2 2 2
+p291
+aVMalik Allen DAL 02/24/2008 DAL @ MIN W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 3
+p292
+aVJuwan Howard DAL 02/22/2008 DAL @ MEM W 13 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 0 0 2 2 -4
+p293
+aVDevean George DAL 02/22/2008 DAL @ MEM W 16 2 1 3 33.3 0 2 0.0 0 0 - 0 4 4 3 2 0 1 1 -2
+p294
+aVJerry Stackhouse DAL 02/22/2008 DAL @ MEM W 19 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 0 0 0 3 1 -2
+p295
+aVJason Kidd DAL 02/22/2008 DAL @ MEM W 32 2 1 4 25.0 0 0 - 0 0 - 2 3 5 15 4 0 2 3 17
+p296
+aVJosh Howard DAL 02/22/2008 DAL @ MEM W 36 20 9 27 33.3 2 5 40.0 0 0 - 2 5 7 2 3 1 3 3 23
+p297
+aVMalik Allen DAL 02/22/2008 DAL @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p298
+aVJason Terry DAL 02/22/2008 DAL @ MEM W 37 22 9 15 60.0 4 7 57.1 0 0 - 0 6 6 4 2 0 3 2 15
+p299
+aVErick Dampier DAL 02/22/2008 DAL @ MEM W 28 6 3 3 100.0 0 0 - 0 1 0.0 6 2 8 3 0 1 3 5 20
+p300
+aVDirk Nowitzki DAL 02/22/2008 DAL @ MEM W 37 27 8 9 88.9 1 1 100.0 10 12 83.3 1 5 6 3 0 0 2 3 20
+p301
+aVJ.J. Barea DAL 02/22/2008 DAL @ MEM W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p302
+aVBrandon Bass DAL 02/22/2008 DAL @ MEM W 17 5 2 2 100.0 0 0 - 1 3 33.3 1 5 6 1 1 0 2 2 -6
+p303
+aVJason Terry DAL 02/20/2008 DAL @ NOH L 27 14 6 14 42.9 2 4 50.0 0 0 - 0 2 2 2 1 0 0 1 -6
+p304
+aVDirk Nowitzki DAL 02/20/2008 DAL @ NOH L 38 31 11 21 52.4 0 2 0.0 9 9 100.0 2 6 8 2 0 0 2 3 -9
+p305
+aVAntoine Wright DAL 02/20/2008 DAL @ NOH L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 3
+p306
+aVJosh Howard DAL 02/20/2008 DAL @ NOH L 36 8 2 11 18.2 0 2 0.0 4 6 66.7 1 2 3 1 0 1 2 3 -15
+p307
+aVJuwan Howard DAL 02/20/2008 DAL @ NOH L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 0 4
+p308
+aVBrandon Bass DAL 02/20/2008 DAL @ NOH L 15 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 0 1 0 2 4 -12
+p309
+aVJ.J. Barea DAL 02/20/2008 DAL @ NOH L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 0 -1
+p310
+aVJason Kidd DAL 02/20/2008 DAL @ NOH L 37 8 3 6 50.0 0 2 0.0 2 2 100.0 1 5 6 5 3 0 6 4 -14
+p311
+aVMalik Allen DAL 02/20/2008 DAL @ NOH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p312
+aVDevean George DAL 02/20/2008 DAL @ NOH L 28 8 3 6 50.0 2 3 66.7 0 0 - 0 3 3 1 0 0 1 2 -8
+p313
+aVEddie Jones DAL 02/20/2008 DAL @ NOH L 15 2 1 3 33.3 0 2 0.0 0 0 - 1 4 5 1 0 0 0 0 5
+p314
+aVErick Dampier DAL 02/20/2008 DAL @ NOH L 31 11 5 7 71.4 0 0 - 1 2 50.0 3 4 7 0 2 1 2 4 -5
+p315
+aVErick Dampier DAL 02/14/2008 DAL @ PHX L 28 4 2 5 40.0 0 0 - 0 2 0.0 3 4 7 0 0 1 1 4 -15
+p316
+aVNick Fazekas DAL 02/14/2008 DAL @ PHX L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p317
+aVJ.J. Barea DAL 02/14/2008 DAL @ PHX L 23 5 2 7 28.6 0 3 0.0 1 3 33.3 0 3 3 0 0 0 2 4 -3
+p318
+aVDevean George DAL 02/14/2008 DAL @ PHX L 43 7 3 7 42.9 1 2 50.0 0 0 - 2 4 6 1 0 2 1 4 -9
+p319
+aVDeSagana Diop DAL 02/14/2008 DAL @ PHX L 10 0 0 1 0.0 0 0 - 0 0 - 3 0 3 0 0 0 0 1 0
+p320
+aVDirk Nowitzki DAL 02/14/2008 DAL @ PHX L 40 36 12 31 38.7 0 2 0.0 12 14 85.7 6 6 12 4 0 0 4 3 -8
+p321
+aVJason Terry DAL 02/14/2008 DAL @ PHX L 42 29 12 23 52.2 3 5 60.0 2 3 66.7 2 1 3 3 2 0 3 2 -11
+p322
+aVEddie Jones DAL 02/14/2008 DAL @ PHX L 38 9 3 6 50.0 3 5 60.0 0 0 - 0 6 6 0 3 1 2 5 -10
+p323
+aVBrandon Bass DAL 02/14/2008 DAL @ PHX L 16 7 2 9 22.2 0 0 - 3 3 100.0 4 1 5 0 0 0 0 1 -2
+p324
+aVDeSagana Diop DAL 02/13/2008 DAL vs. POR W 16 4 2 2 100.0 0 0 - 0 0 - 3 4 7 1 0 2 1 2 1
+p325
+aVJ.J. Barea DAL 02/13/2008 DAL vs. POR W 28 11 4 6 66.7 1 1 100.0 2 2 100.0 1 3 4 4 0 0 2 1 17
+p326
+aVBrandon Bass DAL 02/13/2008 DAL vs. POR W 9 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -6
+p327
+aVEddie Jones DAL 02/13/2008 DAL vs. POR W 37 4 1 7 14.3 0 4 0.0 2 2 100.0 1 3 4 2 1 0 1 2 4
+p328
+aVJuwan Howard DAL 02/13/2008 DAL vs. POR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p329
+aVDevean George DAL 02/13/2008 DAL vs. POR W 33 0 0 11 0.0 0 4 0.0 0 2 0.0 2 2 4 2 1 0 0 3 19
+p330
+aVJason Terry DAL 02/13/2008 DAL vs. POR W 40 24 10 19 52.6 1 4 25.0 3 3 100.0 0 3 3 4 0 0 1 1 22
+p331
+aVErick Dampier DAL 02/13/2008 DAL vs. POR W 30 10 4 4 100.0 0 0 - 2 2 100.0 7 4 11 3 0 1 1 2 21
+p332
+aVNick Fazekas DAL 02/13/2008 DAL vs. POR W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p333
+aVDirk Nowitzki DAL 02/13/2008 DAL vs. POR W 38 37 13 26 50.0 2 4 50.0 9 10 90.0 3 9 12 2 1 2 3 3 24
+p334
+aVTrenton Hassell DAL 02/13/2008 DAL vs. POR W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p335
+aVJ.J. Barea DAL 02/11/2008 DAL @ PHI L 24 13 4 11 36.4 3 4 75.0 2 2 100.0 1 2 3 5 0 1 2 1 -11
+p336
+aVDeSagana Diop DAL 02/11/2008 DAL @ PHI L 27 0 0 1 0.0 0 0 - 0 0 - 3 6 9 0 0 2 1 3 -8
+p337
+aVDevean George DAL 02/11/2008 DAL @ PHI L 32 11 4 12 33.3 1 5 20.0 2 2 100.0 1 3 4 1 1 0 1 3 3
+p338
+aVJason Terry DAL 02/11/2008 DAL @ PHI L 30 7 3 10 30.0 1 4 25.0 0 0 - 0 1 1 1 1 0 3 0 2
+p339
+aVEddie Jones DAL 02/11/2008 DAL @ PHI L 20 5 2 6 33.3 1 4 25.0 0 0 - 1 5 6 2 1 0 0 0 -10
+p340
+aVBrandon Bass DAL 02/11/2008 DAL @ PHI L 29 8 3 8 37.5 0 0 - 2 2 100.0 2 6 8 0 0 1 0 3 -6
+p341
+aVDirk Nowitzki DAL 02/11/2008 DAL @ PHI L 38 15 4 15 26.7 0 4 0.0 7 10 70.0 0 9 9 7 2 0 4 3 -7
+p342
+aVJosh Howard DAL 02/11/2008 DAL @ PHI L 37 17 7 13 53.8 0 2 0.0 3 5 60.0 3 3 6 4 1 0 3 2 -4
+p343
+aVJuwan Howard DAL 02/11/2008 DAL @ PHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p344
+aVEddie Jones DAL 02/10/2008 DAL @ NJN L 21 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 1 0 0 0 2 -23
+p345
+aVDeSagana Diop DAL 02/10/2008 DAL @ NJN L 16 4 2 2 100.0 0 0 - 0 2 0.0 2 2 4 2 0 0 1 1 -6
+p346
+aVJ.J. Barea DAL 02/10/2008 DAL @ NJN L 17 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 0 2 0 1 1 -4
+p347
+aVJuwan Howard DAL 02/10/2008 DAL @ NJN L 6 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -1
+p348
+aVTrenton Hassell DAL 02/10/2008 DAL @ NJN L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p349
+aVErick Dampier DAL 02/10/2008 DAL @ NJN L 11 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -3
+p350
+aVJason Terry DAL 02/10/2008 DAL @ NJN L 35 11 5 13 38.5 1 5 20.0 0 0 - 2 2 4 5 1 1 2 6 -13
+p351
+aVBrandon Bass DAL 02/10/2008 DAL @ NJN L 22 13 6 8 75.0 0 0 - 1 2 50.0 1 5 6 2 0 0 1 2 -1
+p352
+aVDirk Nowitzki DAL 02/10/2008 DAL @ NJN L 35 21 4 16 25.0 0 4 0.0 13 14 92.9 2 6 8 4 0 0 3 4 -25
+p353
+aVDevean George DAL 02/10/2008 DAL @ NJN L 29 9 3 10 30.0 1 4 25.0 2 2 100.0 2 2 4 1 2 0 0 2 0
+p354
+aVJosh Howard DAL 02/10/2008 DAL @ NJN L 39 16 7 18 38.9 0 1 0.0 2 3 66.7 2 2 4 0 0 0 0 4 -19
+p355
+aVJason Terry DAL 02/08/2008 DAL vs. MEM W 23 11 5 15 33.3 1 5 20.0 0 0 - 0 1 1 2 1 0 0 3 25
+p356
+aVEddie Jones DAL 02/08/2008 DAL vs. MEM W 25 2 1 4 25.0 0 3 0.0 0 0 - 1 4 5 1 0 0 1 5 1
+p357
+aVDevean George DAL 02/08/2008 DAL vs. MEM W 22 13 6 8 75.0 1 2 50.0 0 0 - 1 4 5 3 0 0 0 4 10
+p358
+aVMaurice Ager DAL 02/08/2008 DAL vs. MEM W 5 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -12
+p359
+aVJosh Howard DAL 02/08/2008 DAL vs. MEM W 25 8 3 9 33.3 1 2 50.0 1 2 50.0 0 8 8 3 1 0 0 0 14
+p360
+aVJuwan Howard DAL 02/08/2008 DAL vs. MEM W 16 2 1 5 20.0 0 0 - 0 0 - 1 2 3 3 0 0 0 2 -8
+p361
+aVDeSagana Diop DAL 02/08/2008 DAL vs. MEM W 26 8 4 4 100.0 0 0 - 0 0 - 5 7 12 1 0 2 0 1 14
+p362
+aVDirk Nowitzki DAL 02/08/2008 DAL vs. MEM W 26 21 7 10 70.0 0 1 0.0 7 7 100.0 1 5 6 2 1 0 1 2 17
+p363
+aVTrenton Hassell DAL 02/08/2008 DAL vs. MEM W 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -14
+p364
+aVJerry Stackhouse DAL 02/08/2008 DAL vs. MEM W 11 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 3 1 0 1 0 15
+p365
+aVBrandon Bass DAL 02/08/2008 DAL vs. MEM W 25 12 4 7 57.1 0 0 - 4 6 66.7 1 3 4 1 0 0 1 1 7
+p366
+aVJ.J. Barea DAL 02/08/2008 DAL vs. MEM W 25 8 3 10 30.0 2 6 33.3 0 0 - 0 3 3 3 0 0 0 4 -14
+p367
+aVTrenton Hassell DAL 02/06/2008 DAL vs. MIL W 7 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p368
+aVDeSagana Diop DAL 02/06/2008 DAL vs. MIL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -4
+p369
+aVJosh Howard DAL 02/06/2008 DAL vs. MIL W 39 17 7 17 41.2 0 3 0.0 3 5 60.0 2 6 8 1 2 0 1 3 20
+p370
+aVEddie Jones DAL 02/06/2008 DAL vs. MIL W 23 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 3 2 1 0 0 7
+p371
+aVJ.J. Barea DAL 02/06/2008 DAL vs. MIL W 20 13 6 10 60.0 0 2 0.0 1 1 100.0 0 1 1 4 2 0 0 2 23
+p372
+aVDevean George DAL 02/06/2008 DAL vs. MIL W 21 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 0 1 0 0 2 1
+p373
+aVJuwan Howard DAL 02/06/2008 DAL vs. MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p374
+aVMaurice Ager DAL 02/06/2008 DAL vs. MIL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -1
+p375
+aVJason Terry DAL 02/06/2008 DAL vs. MIL W 32 23 8 15 53.3 3 5 60.0 4 4 100.0 0 3 3 4 0 0 1 3 -6
+p376
+aVDirk Nowitzki DAL 02/06/2008 DAL vs. MIL W 42 29 9 17 52.9 1 1 100.0 10 12 83.3 3 7 10 12 0 1 2 2 19
+p377
+aVErick Dampier DAL 02/06/2008 DAL vs. MIL W 20 6 2 4 50.0 0 0 - 2 4 50.0 5 5 10 1 0 0 1 3 8
+p378
+aVBrandon Bass DAL 02/06/2008 DAL vs. MIL W 26 8 2 3 66.7 0 0 - 4 4 100.0 2 4 6 1 0 1 3 2 3
+p379
+aVErick Dampier DAL 02/04/2008 DAL @ ORL W 32 6 3 4 75.0 0 0 - 0 0 - 2 4 6 2 0 0 0 5 3
+p380
+aVJuwan Howard DAL 02/04/2008 DAL @ ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p381
+aVDirk Nowitzki DAL 02/04/2008 DAL @ ORL W 39 20 8 22 36.4 0 2 0.0 4 6 66.7 2 7 9 5 1 0 0 2 15
+p382
+aVJ.J. Barea DAL 02/04/2008 DAL @ ORL W 20 3 0 3 0.0 0 1 0.0 3 4 75.0 1 3 4 4 1 0 1 1 1
+p383
+aVEddie Jones DAL 02/04/2008 DAL @ ORL W 28 4 2 3 66.7 0 1 0.0 0 0 - 2 1 3 0 0 0 0 1 11
+p384
+aVBrandon Bass DAL 02/04/2008 DAL @ ORL W 21 16 6 8 75.0 0 0 - 4 5 80.0 2 4 6 0 2 1 3 1 1
+p385
+aVJosh Howard DAL 02/04/2008 DAL @ ORL W 38 28 10 20 50.0 3 3 100.0 5 6 83.3 2 5 7 3 0 0 1 4 4
+p386
+aVTrenton Hassell DAL 02/04/2008 DAL @ ORL W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p387
+aVJason Terry DAL 02/04/2008 DAL @ ORL W 30 20 8 14 57.1 0 0 - 4 4 100.0 2 3 5 3 1 0 2 0 7
+p388
+aVDevean George DAL 02/04/2008 DAL @ ORL W 25 8 3 4 75.0 2 3 66.7 0 0 - 0 4 4 1 0 0 0 4 2
+p389
+aVDeSagana Diop DAL 02/03/2008 DAL @ DET L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 1 0 -3
+p390
+aVJ.J. Barea DAL 02/03/2008 DAL @ DET L 13 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 1 0 3 1 -15
+p391
+aVMaurice Ager DAL 02/03/2008 DAL @ DET L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p392
+aVJason Terry DAL 02/03/2008 DAL @ DET L 38 7 3 11 27.3 1 2 50.0 0 0 - 1 2 3 3 0 0 1 2 -8
+p393
+aVDevean George DAL 02/03/2008 DAL @ DET L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p394
+aVBrandon Bass DAL 02/03/2008 DAL @ DET L 31 14 5 9 55.6 0 0 - 4 6 66.7 2 4 6 1 0 1 1 3 -12
+p395
+aVJuwan Howard DAL 02/03/2008 DAL @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p396
+aVTrenton Hassell DAL 02/03/2008 DAL @ DET L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -11
+p397
+aVErick Dampier DAL 02/03/2008 DAL @ DET L 31 8 3 7 42.9 0 0 - 2 4 50.0 5 5 10 2 1 1 0 3 -11
+p398
+aVDirk Nowitzki DAL 02/03/2008 DAL @ DET L 34 15 3 18 16.7 0 5 0.0 9 9 100.0 3 7 10 2 1 0 1 1 -13
+p399
+aVJosh Howard DAL 02/03/2008 DAL @ DET L 41 15 6 17 35.3 0 3 0.0 3 4 75.0 0 9 9 1 0 0 0 1 -21
+p400
+aVEddie Jones DAL 02/03/2008 DAL @ DET L 20 5 2 5 40.0 0 2 0.0 1 1 100.0 0 1 1 1 0 0 1 1 -5
+p401
+aVDirk Nowitzki DAL 01/31/2008 DAL @ BOS L 42 31 10 21 47.6 1 3 33.3 10 10 100.0 1 10 11 6 0 3 3 4 -1
+p402
+aVJuwan Howard DAL 01/31/2008 DAL @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p403
+aVEddie Jones DAL 01/31/2008 DAL @ BOS L 24 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 0 0 0 0 2 -9
+p404
+aVBrandon Bass DAL 01/31/2008 DAL @ BOS L 21 10 4 5 80.0 0 0 - 2 4 50.0 0 4 4 0 1 2 2 2 -5
+p405
+aVDevean George DAL 01/31/2008 DAL @ BOS L 20 5 2 4 50.0 1 2 50.0 0 0 - 2 5 7 1 0 0 1 6 6
+p406
+aVErick Dampier DAL 01/31/2008 DAL @ BOS L 14 6 2 3 66.7 0 0 - 2 4 50.0 3 4 7 1 0 0 0 2 -4
+p407
+aVDeSagana Diop DAL 01/31/2008 DAL @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p408
+aVJason Terry DAL 01/31/2008 DAL @ BOS L 38 13 4 12 33.3 1 6 16.7 4 4 100.0 0 0 0 6 1 1 3 3 -5
+p409
+aVJ.J. Barea DAL 01/31/2008 DAL @ BOS L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 4 1 0 1 1 -1
+p410
+aVTrenton Hassell DAL 01/31/2008 DAL @ BOS L 27 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 1 0 1 4 3
+p411
+aVJosh Howard DAL 01/31/2008 DAL @ BOS L 39 19 6 15 40.0 1 6 16.7 6 6 100.0 2 4 6 2 0 1 1 1 -8
+p412
+aVBrandon Bass DAL 01/28/2008 DAL @ MEM W 14 4 2 8 25.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -6
+p413
+aVJason Terry DAL 01/28/2008 DAL @ MEM W 38 14 6 14 42.9 1 3 33.3 1 1 100.0 0 3 3 3 0 0 3 2 10
+p414
+aVDirk Nowitzki DAL 01/28/2008 DAL @ MEM W 37 20 9 15 60.0 0 0 - 2 2 100.0 1 10 11 1 1 1 2 2 24
+p415
+aVMaurice Ager DAL 01/28/2008 DAL @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p416
+aVDeSagana Diop DAL 01/28/2008 DAL @ MEM W 7 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 1 0 0 0
+p417
+aVEddie Jones DAL 01/28/2008 DAL @ MEM W 21 6 2 3 66.7 2 3 66.7 0 0 - 0 4 4 1 0 0 3 4 3
+p418
+aVJosh Howard DAL 01/28/2008 DAL @ MEM W 35 26 10 17 58.8 2 4 50.0 4 5 80.0 1 5 6 4 0 0 0 1 23
+p419
+aVDevean George DAL 01/28/2008 DAL @ MEM W 9 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 1 0 0 0 2 3
+p420
+aVJ.J. Barea DAL 01/28/2008 DAL @ MEM W 21 9 4 9 44.4 0 2 0.0 1 1 100.0 0 1 1 1 1 0 1 5 15
+p421
+aVTrenton Hassell DAL 01/28/2008 DAL @ MEM W 20 6 3 3 100.0 0 0 - 0 0 - 0 1 1 4 1 0 0 4 3
+p422
+aVErick Dampier DAL 01/28/2008 DAL @ MEM W 36 11 4 6 66.7 0 0 - 3 4 75.0 1 11 12 1 1 0 1 3 17
+p423
+aVJason Terry DAL 01/27/2008 DAL vs. DEN W 37 19 6 18 33.3 1 4 25.0 6 7 85.7 0 2 2 3 4 1 3 3 -6
+p424
+aVBrandon Bass DAL 01/27/2008 DAL vs. DEN W 18 6 3 4 75.0 0 0 - 0 0 - 0 4 4 2 0 2 2 0 1
+p425
+aVDevin Harris DAL 01/27/2008 DAL vs. DEN W 13 6 2 3 66.7 0 1 0.0 2 3 66.7 0 0 0 0 1 0 3 4 7
+p426
+aVTrenton Hassell DAL 01/27/2008 DAL vs. DEN W 15 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -3
+p427
+aVDirk Nowitzki DAL 01/27/2008 DAL vs. DEN W 34 32 12 17 70.6 2 4 50.0 6 6 100.0 3 8 11 4 0 2 3 5 5
+p428
+aVJ.J. Barea DAL 01/27/2008 DAL vs. DEN W 8 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 2
+p429
+aVEddie Jones DAL 01/27/2008 DAL vs. DEN W 29 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 1 1 0 0 5 7
+p430
+aVErick Dampier DAL 01/27/2008 DAL vs. DEN W 16 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -4
+p431
+aVDeSagana Diop DAL 01/27/2008 DAL vs. DEN W 30 5 2 2 100.0 0 0 - 1 2 50.0 4 7 11 1 1 2 0 0 9
+p432
+aVJosh Howard DAL 01/27/2008 DAL vs. DEN W 41 20 9 23 39.1 0 4 0.0 2 2 100.0 2 6 8 5 2 0 2 0 7
+p433
+aVEddie Jones DAL 01/25/2008 DAL vs. LAL W 21 2 1 4 25.0 0 3 0.0 0 0 - 1 2 3 1 0 0 1 5 8
+p434
+aVJason Terry DAL 01/25/2008 DAL vs. LAL W 32 15 5 17 29.4 4 8 50.0 1 2 50.0 0 0 0 2 1 0 0 1 4
+p435
+aVTrenton Hassell DAL 01/25/2008 DAL vs. LAL W 16 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 3 0 1 4 -8
+p436
+aVDeSagana Diop DAL 01/25/2008 DAL vs. LAL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p437
+aVDevin Harris DAL 01/25/2008 DAL vs. LAL W 29 18 5 10 50.0 0 1 0.0 8 9 88.9 0 0 0 4 0 0 1 3 2
+p438
+aVBrandon Bass DAL 01/25/2008 DAL vs. LAL W 19 10 5 7 71.4 0 0 - 0 0 - 1 4 5 1 1 1 0 3 4
+p439
+aVDirk Nowitzki DAL 01/25/2008 DAL vs. LAL W 36 26 8 16 50.0 0 1 0.0 10 11 90.9 1 9 10 3 0 1 3 3 0
+p440
+aVJosh Howard DAL 01/25/2008 DAL vs. LAL W 41 26 9 18 50.0 0 2 0.0 8 10 80.0 4 6 10 1 1 0 1 3 14
+p441
+aVJ.J. Barea DAL 01/25/2008 DAL vs. LAL W 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 1
+p442
+aVErick Dampier DAL 01/25/2008 DAL vs. LAL W 36 7 3 6 50.0 0 0 - 1 2 50.0 5 4 9 0 1 1 1 5 10
+p443
+aVDirk Nowitzki DAL 01/23/2008 DAL @ CHA W 40 20 6 19 31.6 0 3 0.0 8 8 100.0 1 7 8 5 0 3 0 3 5
+p444
+aVJ.J. Barea DAL 01/23/2008 DAL @ CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p445
+aVJerry Stackhouse DAL 01/23/2008 DAL @ CHA W 7 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 0 1 0 1 0 4
+p446
+aVJason Terry DAL 01/23/2008 DAL @ CHA W 29 16 5 11 45.5 2 6 33.3 4 4 100.0 0 2 2 2 2 0 1 0 -2
+p447
+aVErick Dampier DAL 01/23/2008 DAL @ CHA W 18 6 3 4 75.0 0 0 - 0 0 - 3 3 6 0 0 0 0 6 -6
+p448
+aVDevin Harris DAL 01/23/2008 DAL @ CHA W 37 23 8 12 66.7 1 1 100.0 6 7 85.7 0 1 1 9 0 0 2 3 5
+p449
+aVJosh Howard DAL 01/23/2008 DAL @ CHA W 39 21 10 21 47.6 0 4 0.0 1 3 33.3 1 11 12 1 1 1 1 2 16
+p450
+aVTrenton Hassell DAL 01/23/2008 DAL @ CHA W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p451
+aVEddie Jones DAL 01/23/2008 DAL @ CHA W 25 2 1 6 16.7 0 3 0.0 0 0 - 1 5 6 0 0 1 1 2 2
+p452
+aVDeSagana Diop DAL 01/23/2008 DAL @ CHA W 26 7 3 3 100.0 0 0 - 1 2 50.0 4 3 7 0 0 1 0 2 13
+p453
+aVJuwan Howard DAL 01/23/2008 DAL @ CHA W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p454
+aVDevin Harris DAL 01/21/2008 DAL @ WAS L 33 14 4 8 50.0 1 3 33.3 5 6 83.3 2 2 4 4 0 0 4 2 -3
+p455
+aVDeSagana Diop DAL 01/21/2008 DAL @ WAS L 15 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 2 0 1 -4
+p456
+aVBrandon Bass DAL 01/21/2008 DAL @ WAS L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -12
+p457
+aVErick Dampier DAL 01/21/2008 DAL @ WAS L 24 2 1 6 16.7 0 0 - 0 0 - 5 2 7 1 0 2 2 2 -4
+p458
+aVJosh Howard DAL 01/21/2008 DAL @ WAS L 41 32 11 16 68.8 3 3 100.0 7 8 87.5 2 5 7 2 2 0 3 3 -12
+p459
+aVDevean George DAL 01/21/2008 DAL @ WAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p460
+aVJ.J. Barea DAL 01/21/2008 DAL @ WAS L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p461
+aVTrenton Hassell DAL 01/21/2008 DAL @ WAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p462
+aVJerry Stackhouse DAL 01/21/2008 DAL @ WAS L 22 8 4 12 33.3 0 4 0.0 0 0 - 0 2 2 1 1 0 3 0 -17
+p463
+aVJason Terry DAL 01/21/2008 DAL @ WAS L 27 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 1 0 0 0 3 -16
+p464
+aVDirk Nowitzki DAL 01/21/2008 DAL @ WAS L 39 21 8 17 47.1 0 1 0.0 5 5 100.0 1 10 11 6 0 2 2 2 -10
+p465
+aVEddie Jones DAL 01/21/2008 DAL @ WAS L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 1 0 1 1 -3
+p466
+aVJerry Stackhouse DAL 01/19/2008 DAL vs. SEA W 17 10 4 10 40.0 2 3 66.7 0 0 - 1 2 3 1 0 0 3 2 0
+p467
+aVDevin Harris DAL 01/19/2008 DAL vs. SEA W 24 17 7 13 53.8 0 1 0.0 3 4 75.0 1 1 2 8 0 0 1 3 17
+p468
+aVDirk Nowitzki DAL 01/19/2008 DAL vs. SEA W 35 20 10 16 62.5 0 1 0.0 0 1 0.0 0 9 9 6 3 1 1 3 13
+p469
+aVJosh Howard DAL 01/19/2008 DAL vs. SEA W 37 17 6 14 42.9 2 3 66.7 3 3 100.0 0 5 5 1 3 1 1 5 11
+p470
+aVJason Terry DAL 01/19/2008 DAL vs. SEA W 30 15 6 11 54.5 2 7 28.6 1 2 50.0 0 2 2 2 0 0 2 1 3
+p471
+aVDeSagana Diop DAL 01/19/2008 DAL vs. SEA W 20 8 3 7 42.9 0 0 - 2 2 100.0 4 4 8 0 0 3 0 2 5
+p472
+aVJ.J. Barea DAL 01/19/2008 DAL vs. SEA W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 1
+p473
+aVEddie Jones DAL 01/19/2008 DAL vs. SEA W 14 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 2 2 0 1 0 14
+p474
+aVTrenton Hassell DAL 01/19/2008 DAL vs. SEA W 19 6 3 5 60.0 0 0 - 0 0 - 0 4 4 3 0 0 0 1 -1
+p475
+aVBrandon Bass DAL 01/19/2008 DAL vs. SEA W 20 9 4 6 66.7 0 0 - 1 4 25.0 4 0 4 3 1 1 0 2 6
+p476
+aVErick Dampier DAL 01/19/2008 DAL vs. SEA W 22 3 1 2 50.0 0 0 - 1 2 50.0 3 6 9 1 0 2 4 2 6
+p477
+aVJason Terry DAL 01/14/2008 DAL @ SAC L 34 25 10 16 62.5 3 4 75.0 2 4 50.0 0 1 1 7 0 1 3 3 6
+p478
+aVDirk Nowitzki DAL 01/14/2008 DAL @ SAC L 37 21 6 10 60.0 1 1 100.0 8 8 100.0 0 4 4 4 1 0 3 2 -1
+p479
+aVDeSagana Diop DAL 01/14/2008 DAL @ SAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -4
+p480
+aVDevin Harris DAL 01/14/2008 DAL @ SAC L 36 25 8 10 80.0 2 3 66.7 7 9 77.8 0 1 1 9 0 0 4 5 -9
+p481
+aVErick Dampier DAL 01/14/2008 DAL @ SAC L 22 8 3 5 60.0 0 0 - 2 2 100.0 6 4 10 1 0 2 3 5 0
+p482
+aVJosh Howard DAL 01/14/2008 DAL @ SAC L 25 11 4 10 40.0 3 5 60.0 0 0 - 0 6 6 1 1 1 4 5 -5
+p483
+aVJ.J. Barea DAL 01/14/2008 DAL @ SAC L 9 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 0 0 2
+p484
+aVDevean George DAL 01/14/2008 DAL @ SAC L 9 4 2 4 50.0 0 1 0.0 0 0 - 2 3 5 0 0 1 1 2 -3
+p485
+aVJuwan Howard DAL 01/14/2008 DAL @ SAC L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p486
+aVEddie Jones DAL 01/14/2008 DAL @ SAC L 29 10 4 6 66.7 2 2 100.0 0 0 - 0 2 2 3 1 0 1 0 2
+p487
+aVBrandon Bass DAL 01/14/2008 DAL @ SAC L 24 11 5 10 50.0 0 0 - 1 1 100.0 1 3 4 0 0 2 0 1 1
+p488
+aVDeSagana Diop DAL 01/12/2008 DAL @ LAC W 11 0 0 1 0.0 0 0 - 0 0 - 3 3 6 1 0 0 0 0 0
+p489
+aVTrenton Hassell DAL 01/12/2008 DAL @ LAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p490
+aVErick Dampier DAL 01/12/2008 DAL @ LAC W 26 11 3 3 100.0 0 0 - 5 7 71.4 3 6 9 2 0 1 0 3 -11
+p491
+aVDirk Nowitzki DAL 01/12/2008 DAL @ LAC W 41 22 8 18 44.4 0 1 0.0 6 8 75.0 0 7 7 4 0 0 2 2 0
+p492
+aVJerry Stackhouse DAL 01/12/2008 DAL @ LAC W 28 13 4 12 33.3 2 6 33.3 3 3 100.0 1 0 1 2 1 0 2 2 -4
+p493
+aVDevean George DAL 01/12/2008 DAL @ LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p494
+aVJason Terry DAL 01/12/2008 DAL @ LAC W 36 20 7 12 58.3 3 3 100.0 3 3 100.0 1 5 6 4 1 0 2 4 5
+p495
+aVBrandon Bass DAL 01/12/2008 DAL @ LAC W 27 14 6 11 54.5 0 0 - 2 2 100.0 3 2 5 0 0 1 1 5 18
+p496
+aVDevin Harris DAL 01/12/2008 DAL @ LAC W 32 12 4 11 36.4 0 3 0.0 4 6 66.7 0 2 2 3 2 0 3 4 -7
+p497
+aVEddie Jones DAL 01/12/2008 DAL @ LAC W 19 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 2 -2
+p498
+aVJ.J. Barea DAL 01/12/2008 DAL @ LAC W 9 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 3 0 0 0 1 8
+p499
+aVErick Dampier DAL 01/11/2008 DAL @ SEA W 27 4 2 6 33.3 0 0 - 0 0 - 3 7 10 2 0 2 2 3 0
+p500
+aVJason Terry DAL 01/11/2008 DAL @ SEA W 18 11 5 10 50.0 0 3 0.0 1 1 100.0 0 3 3 1 4 2 1 0 21
+p501
+aVDevin Harris DAL 01/11/2008 DAL @ SEA W 30 7 2 7 28.6 1 1 100.0 2 2 100.0 1 0 1 5 0 0 3 2 3
+p502
+aVJuwan Howard DAL 01/11/2008 DAL @ SEA W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -4
+p503
+aVJerry Stackhouse DAL 01/11/2008 DAL @ SEA W 21 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 0 18
+p504
+aVBrandon Bass DAL 01/11/2008 DAL @ SEA W 21 8 3 8 37.5 0 1 0.0 2 2 100.0 1 2 3 0 0 1 0 0 9
+p505
+aVDeSagana Diop DAL 01/11/2008 DAL @ SEA W 18 10 3 3 100.0 0 0 - 4 6 66.7 2 3 5 0 0 0 2 0 16
+p506
+aVJosh Howard DAL 01/11/2008 DAL @ SEA W 35 18 9 21 42.9 0 3 0.0 0 0 - 4 7 11 0 1 0 2 3 15
+p507
+aVDevean George DAL 01/11/2008 DAL @ SEA W 12 2 1 6 16.7 0 0 - 0 0 - 2 3 5 0 0 0 0 0 -5
+p508
+aVEddie Jones DAL 01/11/2008 DAL @ SEA W 21 6 2 6 33.3 2 4 50.0 0 0 - 0 3 3 0 0 1 0 3 9
+p509
+aVTrenton Hassell DAL 01/11/2008 DAL @ SEA W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p510
+aVDirk Nowitzki DAL 01/11/2008 DAL @ SEA W 27 20 5 10 50.0 0 0 - 10 10 100.0 1 5 6 2 1 0 0 2 18
+p511
+aVJuwan Howard DAL 01/09/2008 DAL vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p512
+aVDeSagana Diop DAL 01/09/2008 DAL vs. DET W 13 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 1 0 1 0 2 -8
+p513
+aVJason Terry DAL 01/09/2008 DAL vs. DET W 25 15 6 8 75.0 3 3 100.0 0 0 - 0 3 3 5 1 0 2 2 13
+p514
+aVJosh Howard DAL 01/09/2008 DAL vs. DET W 36 10 4 12 33.3 0 1 0.0 2 2 100.0 1 8 9 2 0 1 1 2 8
+p515
+aVDirk Nowitzki DAL 01/09/2008 DAL vs. DET W 35 23 10 15 66.7 2 3 66.7 1 2 50.0 0 9 9 2 1 0 2 3 19
+p516
+aVDevin Harris DAL 01/09/2008 DAL vs. DET W 31 19 7 12 58.3 2 3 66.7 3 3 100.0 0 2 2 4 0 0 5 4 15
+p517
+aVBrandon Bass DAL 01/09/2008 DAL vs. DET W 18 8 4 7 57.1 0 0 - 0 1 0.0 0 2 2 1 0 0 0 1 3
+p518
+aVEddie Jones DAL 01/09/2008 DAL vs. DET W 22 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 17
+p519
+aVJerry Stackhouse DAL 01/09/2008 DAL vs. DET W 23 15 6 10 60.0 3 4 75.0 0 0 - 0 1 1 2 0 0 0 0 4
+p520
+aVDevean George DAL 01/09/2008 DAL vs. DET W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -5
+p521
+aVErick Dampier DAL 01/09/2008 DAL vs. DET W 30 7 3 3 100.0 0 0 - 1 1 100.0 3 3 6 2 0 3 0 0 18
+p522
+aVTrenton Hassell DAL 01/09/2008 DAL vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p523
+aVJuwan Howard DAL 01/06/2008 DAL @ MIN W 10 4 1 2 50.0 0 0 - 2 2 100.0 1 6 7 0 0 0 0 2 0
+p524
+aVDirk Nowitzki DAL 01/06/2008 DAL @ MIN W 32 30 12 20 60.0 1 5 20.0 5 5 100.0 1 3 4 1 1 2 3 3 25
+p525
+aVDevin Harris DAL 01/06/2008 DAL @ MIN W 23 12 4 7 57.1 1 2 50.0 3 3 100.0 1 1 2 1 0 0 1 4 13
+p526
+aVDeSagana Diop DAL 01/06/2008 DAL @ MIN W 26 1 0 2 0.0 0 0 - 1 2 50.0 1 5 6 2 2 2 0 3 14
+p527
+aVBrandon Bass DAL 01/06/2008 DAL @ MIN W 25 4 2 7 28.6 0 0 - 0 0 - 5 3 8 2 0 1 1 2 11
+p528
+aVTrenton Hassell DAL 01/06/2008 DAL @ MIN W 12 0 0 1 0.0 0 0 - 0 0 - 1 0 1 3 0 0 0 0 -5
+p529
+aVJosh Howard DAL 01/06/2008 DAL @ MIN W 32 22 9 21 42.9 0 1 0.0 4 5 80.0 2 6 8 1 1 1 2 1 18
+p530
+aVJason Terry DAL 01/06/2008 DAL @ MIN W 23 14 5 12 41.7 2 8 25.0 2 3 66.7 3 1 4 4 1 0 0 2 15
+p531
+aVEddie Jones DAL 01/06/2008 DAL @ MIN W 24 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 5 2 0 1 0 17
+p532
+aVJ.J. Barea DAL 01/06/2008 DAL @ MIN W 8 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 2 0 0 0 1 0
+p533
+aVDevean George DAL 01/06/2008 DAL @ MIN W 23 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 3 0 0 2 11
+p534
+aVMaurice Ager DAL 01/06/2008 DAL @ MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p535
+aVEddie Jones DAL 01/04/2008 DAL vs. MIA W 28 17 5 9 55.6 5 7 71.4 2 2 100.0 0 1 1 2 2 0 0 4 16
+p536
+aVJerry Stackhouse DAL 01/04/2008 DAL vs. MIA W 13 4 1 4 25.0 1 1 100.0 1 1 100.0 0 0 0 2 0 0 1 1 -10
+p537
+aVJason Terry DAL 01/04/2008 DAL vs. MIA W 26 8 3 6 50.0 0 2 0.0 2 2 100.0 0 1 1 2 1 0 0 3 -16
+p538
+aVJuwan Howard DAL 01/04/2008 DAL vs. MIA W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -5
+p539
+aVTrenton Hassell DAL 01/04/2008 DAL vs. MIA W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p540
+aVDirk Nowitzki DAL 01/04/2008 DAL vs. MIA W 37 24 8 20 40.0 2 4 50.0 6 7 85.7 1 9 10 1 2 3 1 2 16
+p541
+aVBrandon Bass DAL 01/04/2008 DAL vs. MIA W 16 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -15
+p542
+aVDeSagana Diop DAL 01/04/2008 DAL vs. MIA W 34 6 3 3 100.0 0 0 - 0 0 - 4 3 7 0 0 2 2 2 10
+p543
+aVJosh Howard DAL 01/04/2008 DAL vs. MIA W 38 18 7 17 41.2 0 4 0.0 4 8 50.0 0 7 7 3 0 0 3 3 16
+p544
+aVDevin Harris DAL 01/04/2008 DAL vs. MIA W 33 15 5 13 38.5 0 1 0.0 5 7 71.4 0 3 3 9 4 0 5 5 20
+p545
+aVDevean George DAL 01/04/2008 DAL vs. MIA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p546
+aVDeSagana Diop DAL 01/02/2008 DAL vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p547
+aVJosh Howard DAL 01/02/2008 DAL vs. GSW W 41 19 8 19 42.1 2 4 50.0 1 1 100.0 1 12 13 3 0 0 0 3 18
+p548
+aVDevin Harris DAL 01/02/2008 DAL vs. GSW W 24 17 5 10 50.0 1 2 50.0 6 7 85.7 0 3 3 5 0 0 2 4 3
+p549
+aVJerry Stackhouse DAL 01/02/2008 DAL vs. GSW W 30 16 6 11 54.5 2 4 50.0 2 4 50.0 0 3 3 3 2 0 2 1 23
+p550
+aVJason Terry DAL 01/02/2008 DAL vs. GSW W 28 9 4 7 57.1 0 1 0.0 1 1 100.0 1 1 2 6 1 0 0 2 18
+p551
+aVTrenton Hassell DAL 01/02/2008 DAL vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p552
+aVEddie Jones DAL 01/02/2008 DAL vs. GSW W 15 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 2 0 1 2 4 2
+p553
+aVErick Dampier DAL 01/02/2008 DAL vs. GSW W 27 13 5 5 100.0 0 0 - 3 4 75.0 4 3 7 1 1 3 2 3 2
+p554
+aVDirk Nowitzki DAL 01/02/2008 DAL vs. GSW W 39 29 9 16 56.3 3 4 75.0 8 8 100.0 1 7 8 6 0 3 2 5 28
+p555
+aVBrandon Bass DAL 01/02/2008 DAL vs. GSW W 23 12 3 7 42.9 0 0 - 6 7 85.7 3 8 11 1 1 0 0 5 19
+p556
+aVDevean George DAL 01/02/2008 DAL vs. GSW W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p557
+aVErick Dampier DAL 12/29/2007 DAL vs. ATL W 33 12 6 6 100.0 0 0 - 0 0 - 2 8 10 1 1 3 3 6 18
+p558
+aVDevean George DAL 12/29/2007 DAL vs. ATL W 12 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 1 0 1 0 -9
+p559
+aVEddie Jones DAL 12/29/2007 DAL vs. ATL W 20 3 1 2 50.0 1 2 50.0 0 2 0.0 2 2 4 3 0 0 0 1 18
+p560
+aVDirk Nowitzki DAL 12/29/2007 DAL vs. ATL W 39 22 8 19 42.1 1 2 50.0 5 6 83.3 1 8 9 5 2 2 3 4 19
+p561
+aVJerry Stackhouse DAL 12/29/2007 DAL vs. ATL W 25 8 2 8 25.0 1 2 50.0 3 4 75.0 2 1 3 3 1 1 1 4 -4
+p562
+aVJason Terry DAL 12/29/2007 DAL vs. ATL W 33 14 4 10 40.0 2 4 50.0 4 6 66.7 0 1 1 1 2 0 0 1 6
+p563
+aVDevin Harris DAL 12/29/2007 DAL vs. ATL W 24 19 4 9 44.4 1 1 100.0 10 12 83.3 0 3 3 4 3 0 1 4 10
+p564
+aVJosh Howard DAL 12/29/2007 DAL vs. ATL W 40 19 7 16 43.8 1 2 50.0 4 5 80.0 0 6 6 2 1 0 5 2 16
+p565
+aVDeSagana Diop DAL 12/29/2007 DAL vs. ATL W 13 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 -9
+p566
+aVJuwan Howard DAL 12/27/2007 DAL vs. CLE L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p567
+aVDeSagana Diop DAL 12/27/2007 DAL vs. CLE L 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 1 0 1 -3
+p568
+aVJosh Howard DAL 12/27/2007 DAL vs. CLE L 35 19 9 18 50.0 1 2 50.0 0 2 0.0 0 7 7 2 0 1 3 3 -5
+p569
+aVDevean George DAL 12/27/2007 DAL vs. CLE L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -4
+p570
+aVDirk Nowitzki DAL 12/27/2007 DAL vs. CLE L 40 19 6 17 35.3 0 2 0.0 7 8 87.5 4 16 20 1 0 1 1 1 -4
+p571
+aVJerry Stackhouse DAL 12/27/2007 DAL vs. CLE L 28 11 3 8 37.5 0 4 0.0 5 6 83.3 0 2 2 0 0 0 2 2 -9
+p572
+aVEddie Jones DAL 12/27/2007 DAL vs. CLE L 19 9 3 4 75.0 2 3 66.7 1 1 100.0 0 2 2 3 1 0 1 2 -1
+p573
+aVDevin Harris DAL 12/27/2007 DAL vs. CLE L 32 9 2 8 25.0 0 3 0.0 5 6 83.3 1 3 4 6 3 0 3 4 -2
+p574
+aVJason Terry DAL 12/27/2007 DAL vs. CLE L 28 11 3 12 25.0 1 6 16.7 4 4 100.0 0 1 1 0 2 1 1 1 -2
+p575
+aVErick Dampier DAL 12/27/2007 DAL vs. CLE L 24 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 1 3 0 3 5
+p576
+aVBrandon Bass DAL 12/27/2007 DAL vs. CLE L 19 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 1 1 1 0 -4
+p577
+aVErick Dampier DAL 12/26/2007 DAL @ UTA L 23 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 1 0 2 -7
+p578
+aVDevin Harris DAL 12/26/2007 DAL @ UTA L 29 17 4 4 100.0 1 1 100.0 8 10 80.0 0 1 1 5 2 0 4 4 -1
+p579
+aVDirk Nowitzki DAL 12/26/2007 DAL @ UTA L 35 20 8 19 42.1 3 10 30.0 1 2 50.0 0 9 9 4 1 1 5 2 -10
+p580
+aVDeSagana Diop DAL 12/26/2007 DAL @ UTA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p581
+aVDevean George DAL 12/26/2007 DAL @ UTA L 24 13 3 6 50.0 2 2 100.0 5 5 100.0 3 3 6 2 0 0 1 2 4
+p582
+aVJuwan Howard DAL 12/26/2007 DAL @ UTA L 14 0 0 0 - 0 0 - 0 0 - 1 3 4 0 1 0 0 3 6
+p583
+aVBrandon Bass DAL 12/26/2007 DAL @ UTA L 20 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -3
+p584
+aVJason Terry DAL 12/26/2007 DAL @ UTA L 22 0 0 10 0.0 0 6 0.0 0 0 - 0 2 2 5 0 1 2 3 -11
+p585
+aVJerry Stackhouse DAL 12/26/2007 DAL @ UTA L 30 11 5 11 45.5 1 4 25.0 0 0 - 0 1 1 4 1 0 1 0 0
+p586
+aVJosh Howard DAL 12/26/2007 DAL @ UTA L 32 17 6 15 40.0 2 3 66.7 3 4 75.0 2 6 8 2 0 0 3 5 -10
+p587
+aVEddie Jones DAL 12/26/2007 DAL @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p588
+aVDevean George DAL 12/21/2007 DAL vs. LAC W 20 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 2 0 0 0 2 8
+p589
+aVJerry Stackhouse DAL 12/21/2007 DAL vs. LAC W 19 10 3 4 75.0 0 0 - 4 4 100.0 0 2 2 2 1 2 1 1 19
+p590
+aVDevin Harris DAL 12/21/2007 DAL vs. LAC W 28 21 8 13 61.5 2 3 66.7 3 4 75.0 0 2 2 2 2 0 3 3 -5
+p591
+aVEddie Jones DAL 12/21/2007 DAL vs. LAC W 18 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 2 1 -9
+p592
+aVBrandon Bass DAL 12/21/2007 DAL vs. LAC W 15 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 0 0 1 3 9
+p593
+aVDeSagana Diop DAL 12/21/2007 DAL vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -7
+p594
+aVJason Terry DAL 12/21/2007 DAL vs. LAC W 27 14 6 10 60.0 2 4 50.0 0 0 - 0 2 2 3 1 0 1 3 22
+p595
+aVErick Dampier DAL 12/21/2007 DAL vs. LAC W 35 3 1 4 25.0 0 0 - 1 4 25.0 3 7 10 3 0 2 0 2 18
+p596
+aVJosh Howard DAL 12/21/2007 DAL vs. LAC W 35 15 6 12 50.0 2 2 100.0 1 2 50.0 2 6 8 2 0 0 0 1 2
+p597
+aVDirk Nowitzki DAL 12/21/2007 DAL vs. LAC W 39 30 11 17 64.7 1 3 33.3 7 7 100.0 0 6 6 3 0 0 4 3 8
+p598
+aVJerry Stackhouse DAL 12/19/2007 DAL vs. PHX W 28 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 4 0 0 3 1 -9
+p599
+aVDevin Harris DAL 12/19/2007 DAL vs. PHX W 32 21 8 16 50.0 2 3 66.7 3 4 75.0 1 2 3 6 3 0 1 3 4
+p600
+aVJason Terry DAL 12/19/2007 DAL vs. PHX W 28 13 3 10 30.0 1 4 25.0 6 6 100.0 0 6 6 3 1 0 2 1 1
+p601
+aVBrandon Bass DAL 12/19/2007 DAL vs. PHX W 13 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 1 2 1 2
+p602
+aVEddie Jones DAL 12/19/2007 DAL vs. PHX W 17 0 0 3 0.0 0 2 0.0 0 0 - 1 3 4 3 1 0 0 1 7
+p603
+aVDevean George DAL 12/19/2007 DAL vs. PHX W 8 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 2 0 0 0 5
+p604
+aVJosh Howard DAL 12/19/2007 DAL vs. PHX W 36 23 9 19 47.4 1 1 100.0 4 5 80.0 5 2 7 1 0 0 0 2 -1
+p605
+aVDeSagana Diop DAL 12/19/2007 DAL vs. PHX W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 1 0 2
+p606
+aVDirk Nowitzki DAL 12/19/2007 DAL vs. PHX W 41 31 10 20 50.0 2 4 50.0 9 10 90.0 3 6 9 2 1 2 5 4 5
+p607
+aVErick Dampier DAL 12/19/2007 DAL vs. PHX W 30 8 4 4 100.0 0 0 - 0 0 - 5 5 10 0 2 5 2 4 -1
+p608
+aVDevean George DAL 12/17/2007 DAL vs. ORL W 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p609
+aVEddie Jones DAL 12/17/2007 DAL vs. ORL W 20 3 1 3 33.3 1 2 50.0 0 0 - 0 6 6 6 0 0 0 1 15
+p610
+aVDevin Harris DAL 12/17/2007 DAL vs. ORL W 32 15 7 11 63.6 1 3 33.3 0 0 - 0 3 3 9 0 2 1 3 18
+p611
+aVDeSagana Diop DAL 12/17/2007 DAL vs. ORL W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -4
+p612
+aVJason Terry DAL 12/17/2007 DAL vs. ORL W 23 8 4 11 36.4 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 -7
+p613
+aVJosh Howard DAL 12/17/2007 DAL vs. ORL W 38 19 7 13 53.8 0 1 0.0 5 5 100.0 1 5 6 0 1 0 1 3 7
+p614
+aVJerry Stackhouse DAL 12/17/2007 DAL vs. ORL W 22 21 5 10 50.0 1 5 20.0 10 10 100.0 1 2 3 1 1 0 1 0 -13
+p615
+aVBrandon Bass DAL 12/17/2007 DAL vs. ORL W 14 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -13
+p616
+aVErick Dampier DAL 12/17/2007 DAL vs. ORL W 31 8 3 3 100.0 0 0 - 2 4 50.0 2 5 7 3 1 2 1 4 8
+p617
+aVDirk Nowitzki DAL 12/17/2007 DAL vs. ORL W 40 31 12 24 50.0 1 4 25.0 6 6 100.0 1 10 11 4 0 0 3 3 11
+p618
+aVBrandon Bass DAL 12/15/2007 DAL @ HOU W 17 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 1 0 0 1 2 -5
+p619
+aVDevin Harris DAL 12/15/2007 DAL @ HOU W 37 14 5 7 71.4 2 3 66.7 2 2 100.0 1 1 2 7 5 0 3 1 17
+p620
+aVDeSagana Diop DAL 12/15/2007 DAL @ HOU W 11 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 2 0 2 2 -3
+p621
+aVEddie Jones DAL 12/15/2007 DAL @ HOU W 14 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -2
+p622
+aVDirk Nowitzki DAL 12/15/2007 DAL @ HOU W 40 20 7 16 43.8 0 1 0.0 6 6 100.0 1 5 6 8 1 0 1 2 19
+p623
+aVErick Dampier DAL 12/15/2007 DAL @ HOU W 29 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 2 0 0 2 15
+p624
+aVJason Terry DAL 12/15/2007 DAL @ HOU W 25 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 1 1 0 1 1 7
+p625
+aVJuwan Howard DAL 12/15/2007 DAL @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p626
+aVJosh Howard DAL 12/15/2007 DAL @ HOU W 38 23 9 18 50.0 1 3 33.3 4 5 80.0 0 5 5 1 1 1 1 3 12
+p627
+aVJerry Stackhouse DAL 12/15/2007 DAL @ HOU W 28 17 6 13 46.2 2 4 50.0 3 3 100.0 0 3 3 1 2 0 2 2 12
+p628
+aVEddie Jones DAL 12/14/2007 DAL vs. NOH W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -4
+p629
+aVDevin Harris DAL 12/14/2007 DAL vs. NOH W 29 10 3 7 42.9 0 0 - 4 4 100.0 0 1 1 3 1 0 2 5 18
+p630
+aVDirk Nowitzki DAL 12/14/2007 DAL vs. NOH W 32 7 2 8 25.0 0 0 - 3 4 75.0 3 6 9 6 2 0 3 5 2
+p631
+aVErick Dampier DAL 12/14/2007 DAL vs. NOH W 19 5 2 2 100.0 0 0 - 1 1 100.0 1 4 5 0 0 3 1 2 -4
+p632
+aVJuwan Howard DAL 12/14/2007 DAL vs. NOH W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p633
+aVJerry Stackhouse DAL 12/14/2007 DAL vs. NOH W 29 16 6 11 54.5 0 2 0.0 4 4 100.0 0 2 2 2 2 2 2 1 -1
+p634
+aVJason Terry DAL 12/14/2007 DAL vs. NOH W 39 25 11 16 68.8 3 5 60.0 0 1 0.0 0 3 3 2 0 1 4 3 6
+p635
+aVJosh Howard DAL 12/14/2007 DAL vs. NOH W 38 15 6 16 37.5 0 1 0.0 3 5 60.0 2 8 10 5 0 0 2 1 10
+p636
+aVBrandon Bass DAL 12/14/2007 DAL vs. NOH W 24 4 2 8 25.0 0 0 - 0 0 - 2 7 9 1 0 1 1 0 9
+p637
+aVDeSagana Diop DAL 12/14/2007 DAL vs. NOH W 15 7 3 4 75.0 0 0 - 1 1 100.0 4 1 5 1 0 0 0 2 11
+p638
+aVJerry Stackhouse DAL 12/12/2007 DAL @ TOR L 21 4 1 8 12.5 0 3 0.0 2 2 100.0 0 2 2 2 0 0 1 1 -10
+p639
+aVJosh Howard DAL 12/12/2007 DAL @ TOR L 35 19 8 17 47.1 1 2 50.0 2 2 100.0 1 5 6 0 1 0 0 2 -11
+p640
+aVDevean George DAL 12/12/2007 DAL @ TOR L 13 4 1 3 33.3 1 2 50.0 1 2 50.0 0 1 1 1 0 0 0 2 -9
+p641
+aVEddie Jones DAL 12/12/2007 DAL @ TOR L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 1 0 1 2 -3
+p642
+aVJ.J. Barea DAL 12/12/2007 DAL @ TOR L 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p643
+aVJuwan Howard DAL 12/12/2007 DAL @ TOR L 9 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 -8
+p644
+aVErick Dampier DAL 12/12/2007 DAL @ TOR L 20 3 1 4 25.0 0 0 - 1 2 50.0 5 6 11 1 0 1 1 2 2
+p645
+aVBrandon Bass DAL 12/12/2007 DAL @ TOR L 18 0 0 5 0.0 0 0 - 0 0 - 1 3 4 2 0 1 1 2 -16
+p646
+aVDeSagana Diop DAL 12/12/2007 DAL @ TOR L 14 6 3 5 60.0 0 0 - 0 2 0.0 2 1 3 1 1 0 0 1 -9
+p647
+aVTrenton Hassell DAL 12/12/2007 DAL @ TOR L 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p648
+aVJason Terry DAL 12/12/2007 DAL @ TOR L 40 21 7 11 63.6 2 3 66.7 5 6 83.3 1 1 2 2 0 0 4 3 -10
+p649
+aVDirk Nowitzki DAL 12/12/2007 DAL @ TOR L 35 13 6 15 40.0 0 3 0.0 1 4 25.0 2 7 9 5 0 0 2 0 -1
+p650
+aVDevean George DAL 12/10/2007 DAL @ NYK W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 2 0 1 3
+p651
+aVErick Dampier DAL 12/10/2007 DAL @ NYK W 26 9 2 2 100.0 0 0 - 5 8 62.5 0 6 6 1 0 2 0 3 6
+p652
+aVDevin Harris DAL 12/10/2007 DAL @ NYK W 32 3 0 3 0.0 0 0 - 3 4 75.0 0 1 1 4 2 0 1 3 10
+p653
+aVBrandon Bass DAL 12/10/2007 DAL @ NYK W 14 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 0
+p654
+aVDeSagana Diop DAL 12/10/2007 DAL @ NYK W 16 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 3 2 3 1
+p655
+aVJerry Stackhouse DAL 12/10/2007 DAL @ NYK W 31 13 5 10 50.0 0 2 0.0 3 4 75.0 0 0 0 4 0 0 1 2 -4
+p656
+aVDirk Nowitzki DAL 12/10/2007 DAL @ NYK W 39 36 14 23 60.9 3 5 60.0 5 7 71.4 0 7 7 4 2 0 4 0 14
+p657
+aVJosh Howard DAL 12/10/2007 DAL @ NYK W 42 22 8 15 53.3 4 8 50.0 2 4 50.0 3 3 6 4 0 2 0 2 14
+p658
+aVJason Terry DAL 12/10/2007 DAL @ NYK W 35 9 4 8 50.0 1 4 25.0 0 0 - 2 3 5 4 0 0 1 3 6
+p659
+aVDevean George DAL 12/08/2007 DAL vs. UTA W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p660
+aVBrandon Bass DAL 12/08/2007 DAL vs. UTA W 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 1 3 2 -4
+p661
+aVJosh Howard DAL 12/08/2007 DAL vs. UTA W 42 47 14 19 73.7 4 5 80.0 15 17 88.2 6 4 10 2 0 1 1 4 19
+p662
+aVJerry Stackhouse DAL 12/08/2007 DAL vs. UTA W 22 10 3 6 50.0 2 4 50.0 2 2 100.0 0 1 1 1 1 0 3 0 -3
+p663
+aVDirk Nowitzki DAL 12/08/2007 DAL vs. UTA W 37 16 8 17 47.1 0 1 0.0 0 0 - 1 7 8 3 1 1 1 1 12
+p664
+aVErick Dampier DAL 12/08/2007 DAL vs. UTA W 31 21 7 8 87.5 0 0 - 7 9 77.8 4 1 5 0 0 2 0 5 11
+p665
+aVJuwan Howard DAL 12/08/2007 DAL vs. UTA W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 2
+p666
+aVJason Terry DAL 12/08/2007 DAL vs. UTA W 36 19 7 11 63.6 3 6 50.0 2 2 100.0 0 0 0 5 2 0 0 1 2
+p667
+aVDeSagana Diop DAL 12/08/2007 DAL vs. UTA W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -7
+p668
+aVDevin Harris DAL 12/08/2007 DAL vs. UTA W 35 10 3 7 42.9 0 0 - 4 5 80.0 0 1 1 12 3 0 3 1 12
+p669
+aVErick Dampier DAL 12/06/2007 DAL vs. DEN L 21 0 0 1 0.0 0 0 - 0 0 - 1 10 11 0 0 2 1 2 -3
+p670
+aVJason Terry DAL 12/06/2007 DAL vs. DEN L 36 5 2 7 28.6 1 5 20.0 0 0 - 0 5 5 5 1 0 2 2 -3
+p671
+aVDeSagana Diop DAL 12/06/2007 DAL vs. DEN L 13 9 3 3 100.0 0 0 - 3 3 100.0 5 0 5 0 0 0 1 2 -13
+p672
+aVJuwan Howard DAL 12/06/2007 DAL vs. DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p673
+aVJosh Howard DAL 12/06/2007 DAL vs. DEN L 30 20 5 16 31.3 2 4 50.0 8 8 100.0 2 4 6 1 1 0 2 4 -17
+p674
+aVBrandon Bass DAL 12/06/2007 DAL vs. DEN L 22 5 2 4 50.0 0 0 - 1 3 33.3 2 0 2 2 0 0 3 1 -7
+p675
+aVJ.J. Barea DAL 12/06/2007 DAL vs. DEN L 7 1 0 4 0.0 0 2 0.0 1 2 50.0 0 2 2 0 0 0 1 1 -7
+p676
+aVDevean George DAL 12/06/2007 DAL vs. DEN L 7 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 0
+p677
+aVJerry Stackhouse DAL 12/06/2007 DAL vs. DEN L 31 23 8 14 57.1 2 4 50.0 5 5 100.0 4 3 7 5 1 0 2 5 1
+p678
+aVTrenton Hassell DAL 12/06/2007 DAL vs. DEN L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p679
+aVDevin Harris DAL 12/06/2007 DAL vs. DEN L 25 12 5 14 35.7 0 2 0.0 2 3 66.7 0 0 0 4 0 0 1 4 -10
+p680
+aVDirk Nowitzki DAL 12/06/2007 DAL vs. DEN L 38 32 10 20 50.0 2 5 40.0 10 10 100.0 2 10 12 5 0 1 4 2 -4
+p681
+aVJerry Stackhouse DAL 12/05/2007 DAL @ SAS L 32 8 2 9 22.2 0 2 0.0 4 4 100.0 0 2 2 2 1 0 3 2 -3
+p682
+aVJosh Howard DAL 12/05/2007 DAL @ SAS L 38 22 7 12 58.3 1 2 50.0 7 9 77.8 1 8 9 3 0 0 3 4 -4
+p683
+aVBrandon Bass DAL 12/05/2007 DAL @ SAS L 26 18 7 12 58.3 0 0 - 4 6 66.7 3 3 6 0 0 1 0 1 7
+p684
+aVJ.J. Barea DAL 12/05/2007 DAL @ SAS L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -1
+p685
+aVDirk Nowitzki DAL 12/05/2007 DAL @ SAS L 39 15 4 11 36.4 1 3 33.3 6 7 85.7 0 9 9 2 0 0 4 3 3
+p686
+aVErick Dampier DAL 12/05/2007 DAL @ SAS L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 3
+p687
+aVDevin Harris DAL 12/05/2007 DAL @ SAS L 27 4 2 11 18.2 0 1 0.0 0 0 - 0 2 2 4 4 0 2 4 2
+p688
+aVTrenton Hassell DAL 12/05/2007 DAL @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p689
+aVJason Terry DAL 12/05/2007 DAL @ SAS L 40 20 7 11 63.6 2 4 50.0 4 5 80.0 0 3 3 2 2 0 0 4 0
+p690
+aVDeSagana Diop DAL 12/05/2007 DAL @ SAS L 22 4 1 2 50.0 0 0 - 2 2 100.0 0 5 5 1 0 1 1 3 -14
+p691
+aVDevin Harris DAL 12/03/2007 DAL @ CHI W 27 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 0 2 7
+p692
+aVDeSagana Diop DAL 12/03/2007 DAL @ CHI W 24 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 2 0 5 4
+p693
+aVJosh Howard DAL 12/03/2007 DAL @ CHI W 40 27 10 20 50.0 1 3 33.3 6 6 100.0 0 10 10 6 2 0 3 3 0
+p694
+aVTrenton Hassell DAL 12/03/2007 DAL @ CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p695
+aVJason Terry DAL 12/03/2007 DAL @ CHI W 40 18 6 14 42.9 4 6 66.7 2 2 100.0 0 2 2 5 1 0 2 1 10
+p696
+aVJ.J. Barea DAL 12/03/2007 DAL @ CHI W 6 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 0
+p697
+aVBrandon Bass DAL 12/03/2007 DAL @ CHI W 15 12 2 4 50.0 0 0 - 8 8 100.0 1 1 2 1 1 1 1 5 5
+p698
+aVDirk Nowitzki DAL 12/03/2007 DAL @ CHI W 34 25 9 17 52.9 0 2 0.0 7 7 100.0 0 6 6 2 0 0 2 2 2
+p699
+aVJerry Stackhouse DAL 12/03/2007 DAL @ CHI W 32 9 3 7 42.9 2 6 33.3 1 2 50.0 0 3 3 4 0 0 3 0 -2
+p700
+aVErick Dampier DAL 12/03/2007 DAL @ CHI W 23 2 1 1 100.0 0 0 - 0 0 - 3 7 10 1 0 6 2 4 -1
+p701
+aVBrandon Bass DAL 12/01/2007 DAL @ NOH L 27 13 5 8 62.5 0 0 - 3 3 100.0 1 3 4 1 0 3 1 3 -3
+p702
+aVDirk Nowitzki DAL 12/01/2007 DAL @ NOH L 35 19 5 15 33.3 0 3 0.0 9 10 90.0 1 5 6 3 0 0 1 2 -11
+p703
+aVJuwan Howard DAL 12/01/2007 DAL @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p704
+aVJosh Howard DAL 12/01/2007 DAL @ NOH L 44 19 7 19 36.8 0 4 0.0 5 5 100.0 0 8 8 5 0 1 0 4 -1
+p705
+aVDeSagana Diop DAL 12/01/2007 DAL @ NOH L 24 4 2 2 100.0 0 0 - 0 0 - 2 8 10 1 0 0 0 4 6
+p706
+aVDevin Harris DAL 12/01/2007 DAL @ NOH L 36 8 3 10 30.0 1 2 50.0 1 1 100.0 3 2 5 5 0 0 4 5 -13
+p707
+aVErick Dampier DAL 12/01/2007 DAL @ NOH L 14 4 1 3 33.3 0 0 - 2 2 100.0 5 1 6 0 0 0 0 2 -11
+p708
+aVJason Terry DAL 12/01/2007 DAL @ NOH L 46 19 8 16 50.0 3 7 42.9 0 0 - 0 4 4 5 3 0 0 3 8
+p709
+aVJ.J. Barea DAL 12/01/2007 DAL @ NOH L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 2 0 1
+p710
+aVJerry Stackhouse DAL 12/01/2007 DAL @ NOH L 25 18 6 13 46.2 2 4 50.0 4 5 80.0 0 0 0 3 0 0 1 1 14
+p711
+aVTrenton Hassell DAL 12/01/2007 DAL @ NOH L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -13
+p712
+aVDeSagana Diop DAL 11/30/2007 DAL vs. POR W 18 8 4 5 80.0 0 0 - 0 0 - 2 6 8 0 1 1 1 1 2
+p713
+aVDirk Nowitzki DAL 11/30/2007 DAL vs. POR W 33 11 5 15 33.3 0 0 - 1 1 100.0 0 2 2 2 0 2 3 4 16
+p714
+aVDevin Harris DAL 11/30/2007 DAL vs. POR W 37 14 5 14 35.7 0 1 0.0 4 4 100.0 2 1 3 7 1 0 1 3 9
+p715
+aVJason Terry DAL 11/30/2007 DAL vs. POR W 37 17 6 13 46.2 4 7 57.1 1 2 50.0 0 2 2 4 1 0 0 3 3
+p716
+aVBrandon Bass DAL 11/30/2007 DAL vs. POR W 18 10 5 9 55.6 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -3
+p717
+aVJ.J. Barea DAL 11/30/2007 DAL vs. POR W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 2
+p718
+aVJosh Howard DAL 11/30/2007 DAL vs. POR W 42 23 8 15 53.3 0 0 - 7 7 100.0 2 12 14 3 2 0 1 2 15
+p719
+aVJerry Stackhouse DAL 11/30/2007 DAL vs. POR W 16 2 1 4 25.0 0 1 0.0 0 0 - 2 2 4 4 0 0 3 0 4
+p720
+aVErick Dampier DAL 11/30/2007 DAL vs. POR W 28 4 2 5 40.0 0 0 - 0 0 - 2 5 7 1 0 0 2 4 7
+p721
+aVBrandon Bass DAL 11/28/2007 DAL vs. MIN W 22 15 5 6 83.3 0 0 - 5 5 100.0 2 1 3 0 1 1 0 0 2
+p722
+aVJosh Howard DAL 11/28/2007 DAL vs. MIN W 40 12 5 17 29.4 0 4 0.0 2 4 50.0 0 3 3 2 2 0 0 3 4
+p723
+aVErick Dampier DAL 11/28/2007 DAL vs. MIN W 29 8 3 3 100.0 0 0 - 2 4 50.0 5 5 10 1 1 0 0 6 14
+p724
+aVJ.J. Barea DAL 11/28/2007 DAL vs. MIN W 11 3 1 4 25.0 0 0 - 1 1 100.0 0 1 1 3 0 0 1 1 -3
+p725
+aVJason Terry DAL 11/28/2007 DAL vs. MIN W 36 12 5 11 45.5 1 4 25.0 1 2 50.0 0 2 2 4 2 0 3 2 10
+p726
+aVDevin Harris DAL 11/28/2007 DAL vs. MIN W 37 22 9 10 90.0 0 0 - 4 6 66.7 0 2 2 6 1 0 3 3 9
+p727
+aVDirk Nowitzki DAL 11/28/2007 DAL vs. MIN W 35 27 7 13 53.8 0 1 0.0 13 13 100.0 1 10 11 4 0 1 1 1 -2
+p728
+aVDeSagana Diop DAL 11/28/2007 DAL vs. MIN W 10 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 3 4 -2
+p729
+aVJerry Stackhouse DAL 11/28/2007 DAL vs. MIN W 20 10 3 12 25.0 0 1 0.0 4 4 100.0 3 5 8 1 0 0 1 2 -2
+p730
+aVJ.J. Barea DAL 11/26/2007 DAL vs. WAS L 12 15 6 8 75.0 1 3 33.3 2 2 100.0 1 0 1 0 1 0 0 1 1
+p731
+aVJuwan Howard DAL 11/26/2007 DAL vs. WAS L 14 0 0 3 0.0 0 0 - 0 0 - 2 4 6 1 0 0 0 1 -2
+p732
+aVJason Terry DAL 11/26/2007 DAL vs. WAS L 20 3 1 9 11.1 1 6 16.7 0 0 - 0 5 5 3 0 0 1 2 -15
+p733
+aVJerry Stackhouse DAL 11/26/2007 DAL vs. WAS L 29 6 2 9 22.2 0 3 0.0 2 2 100.0 0 2 2 1 0 1 1 3 -18
+p734
+aVDeSagana Diop DAL 11/26/2007 DAL vs. WAS L 17 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 1 2 0 2 3
+p735
+aVMaurice Ager DAL 11/26/2007 DAL vs. WAS L 4 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 1 0 0 4
+p736
+aVDirk Nowitzki DAL 11/26/2007 DAL vs. WAS L 35 31 10 18 55.6 0 1 0.0 11 11 100.0 2 6 8 6 1 1 1 5 -9
+p737
+aVBrandon Bass DAL 11/26/2007 DAL vs. WAS L 14 6 1 4 25.0 0 0 - 4 4 100.0 0 3 3 0 0 0 1 3 -8
+p738
+aVDevin Harris DAL 11/26/2007 DAL vs. WAS L 26 12 4 10 40.0 0 2 0.0 4 4 100.0 0 3 3 7 0 0 0 2 -7
+p739
+aVErick Dampier DAL 11/26/2007 DAL vs. WAS L 17 2 1 1 100.0 0 0 - 0 0 - 3 0 3 0 1 1 3 3 -8
+p740
+aVJosh Howard DAL 11/26/2007 DAL vs. WAS L 25 17 6 15 40.0 1 4 25.0 4 4 100.0 3 1 4 0 0 0 4 4 -5
+p741
+aVTrenton Hassell DAL 11/26/2007 DAL vs. WAS L 27 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 1 0 1 2 4
+p742
+aVDevin Harris DAL 11/24/2007 DAL @ MIL L 35 6 3 8 37.5 0 3 0.0 0 0 - 0 5 5 9 1 0 4 3 -2
+p743
+aVBrandon Bass DAL 11/24/2007 DAL @ MIL L 18 12 5 8 62.5 0 0 - 2 4 50.0 0 3 3 0 1 1 1 3 -6
+p744
+aVJuwan Howard DAL 11/24/2007 DAL @ MIL L 14 6 2 4 50.0 0 0 - 2 3 66.7 1 1 2 1 2 0 1 1 1
+p745
+aVJerry Stackhouse DAL 11/24/2007 DAL @ MIL L 21 2 1 6 16.7 0 2 0.0 0 0 - 1 0 1 1 0 0 0 1 -8
+p746
+aVJosh Howard DAL 11/24/2007 DAL @ MIL L 40 24 11 21 52.4 1 3 33.3 1 2 50.0 3 8 11 4 0 0 0 3 6
+p747
+aVDirk Nowitzki DAL 11/24/2007 DAL @ MIL L 34 20 7 14 50.0 2 4 50.0 4 6 66.7 0 3 3 3 0 1 1 3 -1
+p748
+aVTrenton Hassell DAL 11/24/2007 DAL @ MIL L 25 4 2 4 50.0 0 0 - 0 0 - 0 2 2 5 0 1 0 2 5
+p749
+aVDeSagana Diop DAL 11/24/2007 DAL @ MIL L 25 0 0 4 0.0 0 0 - 0 0 - 4 3 7 1 2 3 0 5 8
+p750
+aVJason Terry DAL 11/24/2007 DAL @ MIL L 25 21 7 15 46.7 6 10 60.0 1 2 50.0 1 0 1 2 1 0 0 4 -7
+p751
+aVErick Dampier DAL 11/24/2007 DAL @ MIL L 4 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -6
+p752
+aVJason Terry DAL 11/23/2007 DAL @ IND L 34 10 4 13 30.8 2 7 28.6 0 0 - 1 4 5 2 3 0 0 3 -1
+p753
+aVTrenton Hassell DAL 11/23/2007 DAL @ IND L 21 10 5 6 83.3 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -5
+p754
+aVErick Dampier DAL 11/23/2007 DAL @ IND L 10 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 0 -7
+p755
+aVJosh Howard DAL 11/23/2007 DAL @ IND L 34 19 7 15 46.7 0 2 0.0 5 6 83.3 3 3 6 2 0 1 4 5 3
+p756
+aVDevin Harris DAL 11/23/2007 DAL @ IND L 36 24 5 13 38.5 1 2 50.0 13 14 92.9 2 2 4 5 1 0 2 4 4
+p757
+aVMaurice Ager DAL 11/23/2007 DAL @ IND L 7 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p758
+aVDirk Nowitzki DAL 11/23/2007 DAL @ IND L 42 20 6 14 42.9 0 3 0.0 8 8 100.0 1 10 11 5 0 1 2 4 5
+p759
+aVJ.J. Barea DAL 11/23/2007 DAL @ IND L 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p760
+aVJuwan Howard DAL 11/23/2007 DAL @ IND L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p761
+aVDeSagana Diop DAL 11/23/2007 DAL @ IND L 17 3 1 3 33.3 0 0 - 1 1 100.0 2 4 6 0 0 3 0 2 6
+p762
+aVBrandon Bass DAL 11/23/2007 DAL @ IND L 30 13 4 10 40.0 0 2 0.0 5 7 71.4 4 5 9 0 0 0 3 3 -11
+p763
+aVDevin Harris DAL 11/21/2007 DAL @ HOU W 32 22 7 13 53.8 1 2 50.0 7 8 87.5 0 1 1 5 3 0 3 5 4
+p764
+aVTrenton Hassell DAL 11/21/2007 DAL @ HOU W 17 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -14
+p765
+aVErick Dampier DAL 11/21/2007 DAL @ HOU W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 5
+p766
+aVJerry Stackhouse DAL 11/21/2007 DAL @ HOU W 25 15 4 12 33.3 1 4 25.0 6 6 100.0 0 5 5 1 0 0 2 0 20
+p767
+aVBrandon Bass DAL 11/21/2007 DAL @ HOU W 32 17 6 12 50.0 0 0 - 5 5 100.0 1 5 6 3 0 1 0 1 6
+p768
+aVJosh Howard DAL 11/21/2007 DAL @ HOU W 40 20 9 19 47.4 2 2 100.0 0 0 - 1 6 7 1 1 2 0 3 -1
+p769
+aVJason Terry DAL 11/21/2007 DAL @ HOU W 30 6 3 9 33.3 0 1 0.0 0 0 - 1 2 3 4 2 0 2 0 24
+p770
+aVDirk Nowitzki DAL 11/21/2007 DAL @ HOU W 37 18 8 16 50.0 0 1 0.0 2 5 40.0 2 12 14 0 0 1 1 3 1
+p771
+aVDeSagana Diop DAL 11/21/2007 DAL @ HOU W 17 0 0 4 0.0 0 0 - 0 0 - 6 1 7 1 0 1 0 0 -15
+p772
+aVBrandon Bass DAL 11/20/2007 DAL vs. TOR W 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -8
+p773
+aVJ.J. Barea DAL 11/20/2007 DAL vs. TOR W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p774
+aVJason Terry DAL 11/20/2007 DAL vs. TOR W 26 19 5 11 45.5 2 6 33.3 7 8 87.5 0 3 3 5 0 0 1 1 4
+p775
+aVDeSagana Diop DAL 11/20/2007 DAL vs. TOR W 27 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 1 2 1 4 7
+p776
+aVDevin Harris DAL 11/20/2007 DAL vs. TOR W 32 19 6 14 42.9 2 4 50.0 5 6 83.3 1 2 3 2 0 0 0 3 6
+p777
+aVJuwan Howard DAL 11/20/2007 DAL vs. TOR W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 9
+p778
+aVJosh Howard DAL 11/20/2007 DAL vs. TOR W 37 15 4 9 44.4 0 2 0.0 7 8 87.5 2 7 9 1 0 1 2 1 8
+p779
+aVTrenton Hassell DAL 11/20/2007 DAL vs. TOR W 21 6 3 3 100.0 0 0 - 0 0 - 1 1 2 3 1 0 0 2 22
+p780
+aVDirk Nowitzki DAL 11/20/2007 DAL vs. TOR W 37 32 12 19 63.2 4 6 66.7 4 4 100.0 1 6 7 1 0 1 2 1 -2
+p781
+aVJerry Stackhouse DAL 11/20/2007 DAL vs. TOR W 22 0 0 6 0.0 0 1 0.0 0 2 0.0 1 2 3 2 1 0 0 0 -4
+p782
+aVMaurice Ager DAL 11/20/2007 DAL vs. TOR W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -11
+p783
+aVErick Dampier DAL 11/20/2007 DAL vs. TOR W 16 2 1 2 50.0 0 0 - 0 0 - 1 5 6 2 0 1 1 4 5
+p784
+aVMaurice Ager DAL 11/17/2007 DAL vs. MEM W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p785
+aVErick Dampier DAL 11/17/2007 DAL vs. MEM W 12 5 2 4 50.0 0 0 - 1 2 50.0 4 4 8 0 0 2 0 2 -5
+p786
+aVDevin Harris DAL 11/17/2007 DAL vs. MEM W 35 19 5 12 41.7 0 1 0.0 9 12 75.0 0 1 1 8 5 0 3 4 -3
+p787
+aVJason Terry DAL 11/17/2007 DAL vs. MEM W 27 10 4 11 36.4 2 4 50.0 0 0 - 0 1 1 5 1 0 2 2 11
+p788
+aVDeSagana Diop DAL 11/17/2007 DAL vs. MEM W 31 6 2 2 100.0 0 0 - 2 4 50.0 3 8 11 2 1 3 0 2 13
+p789
+aVTrenton Hassell DAL 11/17/2007 DAL vs. MEM W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p790
+aVJerry Stackhouse DAL 11/17/2007 DAL vs. MEM W 22 7 2 7 28.6 0 1 0.0 3 3 100.0 0 1 1 2 0 0 2 3 -6
+p791
+aVDirk Nowitzki DAL 11/17/2007 DAL vs. MEM W 33 21 6 13 46.2 0 0 - 9 14 64.3 3 6 9 2 1 0 4 2 11
+p792
+aVBrandon Bass DAL 11/17/2007 DAL vs. MEM W 19 11 4 6 66.7 0 1 0.0 3 4 75.0 1 5 6 0 0 1 2 3 -13
+p793
+aVJosh Howard DAL 11/17/2007 DAL vs. MEM W 41 27 13 23 56.5 0 1 0.0 1 1 100.0 2 5 7 0 2 0 1 3 13
+p794
+aVJason Terry DAL 11/15/2007 DAL vs. SAS W 30 18 7 9 77.8 4 5 80.0 0 0 - 0 1 1 1 1 0 3 2 -2
+p795
+aVJerry Stackhouse DAL 11/15/2007 DAL vs. SAS W 18 10 4 10 40.0 2 5 40.0 0 0 - 1 2 3 3 0 0 0 1 -12
+p796
+aVMaurice Ager DAL 11/15/2007 DAL vs. SAS W 21 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 3 0 0 1 3 14
+p797
+aVDevin Harris DAL 11/15/2007 DAL vs. SAS W 37 18 8 13 61.5 0 2 0.0 2 2 100.0 0 2 2 5 3 0 0 2 27
+p798
+aVDirk Nowitzki DAL 11/15/2007 DAL vs. SAS W 37 17 6 14 42.9 0 2 0.0 5 6 83.3 2 6 8 5 1 4 2 4 23
+p799
+aVBrandon Bass DAL 11/15/2007 DAL vs. SAS W 21 6 1 4 25.0 0 0 - 4 4 100.0 0 4 4 2 0 0 3 2 0
+p800
+aVErick Dampier DAL 11/15/2007 DAL vs. SAS W 18 3 1 3 33.3 0 0 - 1 2 50.0 4 5 9 0 0 0 0 3 -7
+p801
+aVDeSagana Diop DAL 11/15/2007 DAL vs. SAS W 20 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 0 3 0 2 5 7
+p802
+aVJ.J. Barea DAL 11/15/2007 DAL vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p803
+aVJosh Howard DAL 11/15/2007 DAL vs. SAS W 36 23 7 14 50.0 1 2 50.0 8 12 66.7 0 6 6 1 3 0 2 4 18
+p804
+aVErick Dampier DAL 11/13/2007 DAL vs. PHI W 13 7 3 4 75.0 0 0 - 1 3 33.3 1 6 7 0 1 0 1 4 3
+p805
+aVTrenton Hassell DAL 11/13/2007 DAL vs. PHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -16
+p806
+aVDevin Harris DAL 11/13/2007 DAL vs. PHI W 29 7 2 9 22.2 0 3 0.0 3 4 75.0 1 5 6 7 1 0 2 2 22
+p807
+aVEddie Jones DAL 11/13/2007 DAL vs. PHI W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 4
+p808
+aVJason Terry DAL 11/13/2007 DAL vs. PHI W 33 25 10 21 47.6 3 8 37.5 2 2 100.0 0 4 4 2 1 1 0 1 8
+p809
+aVJuwan Howard DAL 11/13/2007 DAL vs. PHI W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -4
+p810
+aVJ.J. Barea DAL 11/13/2007 DAL vs. PHI W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 2 3
+p811
+aVJosh Howard DAL 11/13/2007 DAL vs. PHI W 23 18 8 11 72.7 1 2 50.0 1 1 100.0 1 0 1 0 0 0 1 5 9
+p812
+aVBrandon Bass DAL 11/13/2007 DAL vs. PHI W 20 8 2 8 25.0 0 0 - 4 5 80.0 1 2 3 0 0 1 1 0 -10
+p813
+aVDirk Nowitzki DAL 11/13/2007 DAL vs. PHI W 37 21 7 14 50.0 1 3 33.3 6 9 66.7 0 12 12 8 2 3 0 1 32
+p814
+aVJerry Stackhouse DAL 11/13/2007 DAL vs. PHI W 30 6 2 6 33.3 0 1 0.0 2 3 66.7 1 1 2 5 1 0 3 0 8
+p815
+aVDeSagana Diop DAL 11/13/2007 DAL vs. PHI W 27 2 1 3 33.3 0 0 - 0 0 - 5 5 10 0 2 3 1 2 16
+p816
+aVJason Terry DAL 11/10/2007 DAL @ POR L 32 16 6 14 42.9 0 4 0.0 4 4 100.0 0 3 3 3 1 2 4 2 -11
+p817
+aVTrenton Hassell DAL 11/10/2007 DAL @ POR L 21 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -4
+p818
+aVJuwan Howard DAL 11/10/2007 DAL @ POR L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -2
+p819
+aVDirk Nowitzki DAL 11/10/2007 DAL @ POR L 38 11 4 13 30.8 0 2 0.0 3 3 100.0 1 8 9 5 1 0 1 5 -16
+p820
+aVBrandon Bass DAL 11/10/2007 DAL @ POR L 24 13 5 9 55.6 0 0 - 3 3 100.0 2 5 7 0 0 0 1 4 -1
+p821
+aVNick Fazekas DAL 11/10/2007 DAL @ POR L 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 5
+p822
+aVDeSagana Diop DAL 11/10/2007 DAL @ POR L 22 0 0 3 0.0 0 0 - 0 0 - 9 2 11 1 1 0 2 3 -6
+p823
+aVJerry Stackhouse DAL 11/10/2007 DAL @ POR L 25 5 2 9 22.2 0 4 0.0 1 2 50.0 0 1 1 2 0 0 2 1 -18
+p824
+aVMaurice Ager DAL 11/10/2007 DAL @ POR L 9 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p825
+aVJ.J. Barea DAL 11/10/2007 DAL @ POR L 21 9 3 7 42.9 3 3 100.0 0 0 - 0 2 2 1 0 0 1 2 2
+p826
+aVJosh Howard DAL 11/10/2007 DAL @ POR L 36 20 5 15 33.3 1 3 33.3 9 9 100.0 0 7 7 0 0 0 1 1 1
+p827
+aVDeSagana Diop DAL 11/08/2007 DAL @ GSW W 16 4 2 3 66.7 0 0 - 0 0 - 2 3 5 1 0 2 1 2 -1
+p828
+aVJerry Stackhouse DAL 11/08/2007 DAL @ GSW W 31 15 5 12 41.7 2 7 28.6 3 4 75.0 2 3 5 6 0 0 1 2 -1
+p829
+aVDirk Nowitzki DAL 11/08/2007 DAL @ GSW W 39 22 6 15 40.0 2 5 40.0 8 10 80.0 1 10 11 3 0 1 2 3 13
+p830
+aVBrandon Bass DAL 11/08/2007 DAL @ GSW W 32 10 3 7 42.9 0 0 - 4 4 100.0 5 7 12 0 0 2 3 3 4
+p831
+aVTrenton Hassell DAL 11/08/2007 DAL @ GSW W 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p832
+aVJ.J. Barea DAL 11/08/2007 DAL @ GSW W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p833
+aVJosh Howard DAL 11/08/2007 DAL @ GSW W 32 24 10 17 58.8 1 4 25.0 3 4 75.0 0 7 7 3 0 0 1 6 -3
+p834
+aVDevin Harris DAL 11/08/2007 DAL @ GSW W 35 21 6 12 50.0 1 2 50.0 8 8 100.0 0 5 5 7 1 0 4 5 12
+p835
+aVJason Terry DAL 11/08/2007 DAL @ GSW W 36 24 10 17 58.8 4 6 66.7 0 0 - 0 3 3 4 0 0 0 5 6
+p836
+aVJerry Stackhouse DAL 11/05/2007 DAL vs. HOU W 25 16 4 8 50.0 2 4 50.0 6 6 100.0 0 2 2 5 0 0 1 3 10
+p837
+aVJ.J. Barea DAL 11/05/2007 DAL vs. HOU W 19 4 2 6 33.3 0 2 0.0 0 0 - 0 4 4 2 0 0 2 0 -2
+p838
+aVEddie Jones DAL 11/05/2007 DAL vs. HOU W 23 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 1 0 0 2 -1
+p839
+aVTrenton Hassell DAL 11/05/2007 DAL vs. HOU W 18 3 1 4 25.0 1 1 100.0 0 0 - 1 1 2 0 0 0 1 4 -5
+p840
+aVDirk Nowitzki DAL 11/05/2007 DAL vs. HOU W 34 19 7 20 35.0 1 2 50.0 4 4 100.0 2 7 9 5 2 0 2 5 4
+p841
+aVJosh Howard DAL 11/05/2007 DAL vs. HOU W 31 21 6 11 54.5 1 1 100.0 8 8 100.0 1 5 6 4 1 1 1 5 11
+p842
+aVJuwan Howard DAL 11/05/2007 DAL vs. HOU W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 0
+p843
+aVJason Terry DAL 11/05/2007 DAL vs. HOU W 38 31 11 17 64.7 2 5 40.0 7 8 87.5 0 4 4 5 0 0 0 0 16
+p844
+aVDeSagana Diop DAL 11/05/2007 DAL vs. HOU W 40 10 4 8 50.0 0 0 - 2 2 100.0 4 9 13 1 1 4 5 0 12
+p845
+aVDeSagana Diop DAL 11/03/2007 DAL vs. SAC W 26 8 3 3 100.0 0 0 - 2 3 66.7 1 7 8 0 0 0 2 4 15
+p846
+aVJosh Howard DAL 11/03/2007 DAL vs. SAC W 33 27 10 17 58.8 1 4 25.0 6 7 85.7 1 6 7 5 1 2 1 2 23
+p847
+aVJuwan Howard DAL 11/03/2007 DAL vs. SAC W 17 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 5
+p848
+aVBrandon Bass DAL 11/03/2007 DAL vs. SAC W 20 11 4 6 66.7 0 0 - 3 3 100.0 2 1 3 2 0 2 2 3 6
+p849
+aVJason Terry DAL 11/03/2007 DAL vs. SAC W 29 16 5 8 62.5 2 2 100.0 4 5 80.0 0 1 1 5 2 0 1 3 9
+p850
+aVDirk Nowitzki DAL 11/03/2007 DAL vs. SAC W 30 24 9 11 81.8 0 0 - 6 6 100.0 2 2 4 7 0 1 2 2 19
+p851
+aVJerry Stackhouse DAL 11/03/2007 DAL vs. SAC W 14 6 3 6 50.0 0 1 0.0 0 0 - 1 0 1 4 1 0 1 0 -1
+p852
+aVJ.J. Barea DAL 11/03/2007 DAL vs. SAC W 29 25 9 11 81.8 4 4 100.0 3 3 100.0 0 1 1 5 1 0 4 2 19
+p853
+aVMaurice Ager DAL 11/03/2007 DAL vs. SAC W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p854
+aVEddie Jones DAL 11/03/2007 DAL vs. SAC W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 12
+p855
+aVNick Fazekas DAL 11/03/2007 DAL vs. SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p856
+aVTrenton Hassell DAL 11/03/2007 DAL vs. SAC W 21 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 0 0 0 1 2 4
+p857
+aVJason Terry DAL 11/02/2007 DAL @ ATL L 33 20 7 13 53.8 1 3 33.3 5 6 83.3 0 2 2 6 3 1 0 3 -4
+p858
+aVEddie Jones DAL 11/02/2007 DAL @ ATL L 24 2 1 7 14.3 0 5 0.0 0 0 - 0 2 2 3 0 0 0 1 -14
+p859
+aVDeSagana Diop DAL 11/02/2007 DAL @ ATL L 33 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 6 1 6 8
+p860
+aVDevin Harris DAL 11/02/2007 DAL @ ATL L 14 11 5 8 62.5 0 1 0.0 1 4 25.0 0 3 3 0 0 0 2 0 -4
+p861
+aVDirk Nowitzki DAL 11/02/2007 DAL @ ATL L 38 28 10 22 45.5 2 7 28.6 6 7 85.7 0 8 8 2 1 0 3 2 -4
+p862
+aVTrenton Hassell DAL 11/02/2007 DAL @ ATL L 22 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -4
+p863
+aVBrandon Bass DAL 11/02/2007 DAL @ ATL L 27 10 3 6 50.0 0 0 - 4 4 100.0 4 3 7 1 0 2 1 3 -14
+p864
+aVJ.J. Barea DAL 11/02/2007 DAL @ ATL L 9 14 5 6 83.3 0 0 - 4 4 100.0 0 1 1 0 0 0 1 1 2
+p865
+aVJerry Stackhouse DAL 11/02/2007 DAL @ ATL L 33 5 2 10 20.0 1 7 14.3 0 0 - 2 5 7 2 0 1 1 4 1
+p866
+aVJuwan Howard DAL 11/02/2007 DAL @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -2
+p867
+aVJ.J. Barea DAL 10/31/2007 DAL @ CLE W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p868
+aVDirk Nowitzki DAL 10/31/2007 DAL @ CLE W 37 15 6 15 40.0 0 2 0.0 3 5 60.0 1 7 8 6 0 2 2 3 20
+p869
+aVJason Terry DAL 10/31/2007 DAL @ CLE W 31 24 7 12 58.3 6 8 75.0 4 4 100.0 1 1 2 4 0 0 1 1 8
+p870
+aVDeSagana Diop DAL 10/31/2007 DAL @ CLE W 37 8 4 7 57.1 0 0 - 0 0 - 2 9 11 1 0 4 3 2 13
+p871
+aVEddie Jones DAL 10/31/2007 DAL @ CLE W 29 5 2 5 40.0 1 4 25.0 0 0 - 0 6 6 1 1 0 1 0 14
+p872
+aVJerry Stackhouse DAL 10/31/2007 DAL @ CLE W 30 17 6 11 54.5 1 2 50.0 4 4 100.0 1 2 3 4 1 1 1 3 8
+p873
+aVDevin Harris DAL 10/31/2007 DAL @ CLE W 31 13 5 9 55.6 1 2 50.0 2 3 66.7 0 2 2 5 3 0 6 2 10
+p874
+aVBrandon Bass DAL 10/31/2007 DAL @ CLE W 16 6 1 4 25.0 0 0 - 4 4 100.0 0 3 3 0 0 1 1 3 -1
+p875
+aVTrenton Hassell DAL 10/31/2007 DAL @ CLE W 25 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 1 0 1 3 9
+p876
+a.

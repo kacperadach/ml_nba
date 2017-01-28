@@ -1,0 +1,1606 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVArvydas Sabonis POR 04/19/1998 POR vs. SEA L 34 11 1 10 10.0 0 0 - 9 10 90.0 1 5 6 1 1 0 0 6 -12
+p2
+aVBrian Grant POR 04/19/1998 POR vs. SEA L 43 14 6 8 75.0 0 0 - 2 2 100.0 8 9 17 3 1 1 1 4 -3
+p3
+aVRasheed Wallace POR 04/19/1998 POR vs. SEA L 30 6 3 7 42.9 0 0 - 0 0 - 0 2 2 2 1 1 1 5 -3
+p4
+aVIsaiah Rider POR 04/19/1998 POR vs. SEA L 45 24 11 23 47.8 2 7 28.6 0 1 0.0 2 5 7 0 0 0 2 2 -1
+p5
+aVGary Grant POR 04/19/1998 POR vs. SEA L 15 8 2 3 66.7 2 2 100.0 2 2 100.0 1 0 1 3 1 0 2 1 9
+p6
+aVWalt Williams POR 04/19/1998 POR vs. SEA L 12 2 0 4 0.0 0 2 0.0 2 2 100.0 0 3 3 0 1 1 1 1 -10
+p7
+aVDamon Stoudamire POR 04/19/1998 POR vs. SEA L 44 13 6 18 33.3 1 4 25.0 0 0 - 1 3 4 9 5 0 5 1 -9
+p8
+aVStacey Augmon POR 04/19/1998 POR vs. SEA L 17 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 2 2 -11
+p9
+aVGary Grant POR 04/17/1998 POR @ DEN L 20 8 3 6 50.0 1 2 50.0 1 1 100.0 1 0 1 3 1 0 0 2 5
+p10
+aVArvydas Sabonis POR 04/17/1998 POR @ DEN L 36 15 7 12 58.3 0 0 - 1 1 100.0 2 4 6 4 1 1 0 3 -10
+p11
+aVWalt Williams POR 04/17/1998 POR @ DEN L 13 3 1 5 20.0 0 0 - 1 2 50.0 1 0 1 0 1 1 1 0 5
+p12
+aVKelvin Cato POR 04/17/1998 POR @ DEN L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 3
+p13
+aVRasheed Wallace POR 04/17/1998 POR @ DEN L 32 16 8 12 66.7 0 0 - 0 0 - 1 3 4 4 0 3 1 6 -3
+p14
+aVBrian Grant POR 04/17/1998 POR @ DEN L 40 18 6 12 50.0 0 1 0.0 6 8 75.0 6 9 15 1 0 0 2 1 -10
+p15
+aVStacey Augmon POR 04/17/1998 POR @ DEN L 22 10 4 7 57.1 0 0 - 2 5 40.0 2 0 2 0 0 0 1 5 -8
+p16
+aVIsaiah Rider POR 04/17/1998 POR @ DEN L 35 16 7 15 46.7 0 6 0.0 2 2 100.0 1 1 2 4 0 0 1 1 -5
+p17
+aVDamon Stoudamire POR 04/17/1998 POR @ DEN L 37 13 3 12 25.0 2 6 33.3 5 6 83.3 0 1 1 11 0 0 3 2 -17
+p18
+aVJermaine O'Neal POR 04/16/1998 POR vs. LAC W 16 4 2 8 25.0 0 0 - 0 0 - 2 4 6 0 1 0 0 1 -18
+p19
+aVRasheed Wallace POR 04/16/1998 POR vs. LAC W 33 21 9 16 56.3 0 0 - 3 3 100.0 0 3 3 1 2 0 2 5 17
+p20
+aVKelvin Cato POR 04/16/1998 POR vs. LAC W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p21
+aVArvydas Sabonis POR 04/16/1998 POR vs. LAC W 32 20 7 11 63.6 0 0 - 6 7 85.7 2 10 12 4 1 0 2 1 13
+p22
+aVDamon Stoudamire POR 04/16/1998 POR vs. LAC W 33 17 5 8 62.5 3 5 60.0 4 6 66.7 1 1 2 6 2 0 3 0 11
+p23
+aVWalt Williams POR 04/16/1998 POR vs. LAC W 25 8 1 6 16.7 0 0 - 6 6 100.0 0 5 5 4 2 0 2 1 7
+p24
+aVIsaiah Rider POR 04/16/1998 POR vs. LAC W 35 17 6 14 42.9 1 5 20.0 4 5 80.0 1 3 4 2 0 0 2 3 2
+p25
+aVGary Grant POR 04/16/1998 POR vs. LAC W 15 5 2 5 40.0 0 0 - 1 1 100.0 1 2 3 6 0 0 1 0 -2
+p26
+aVStacey Augmon POR 04/16/1998 POR vs. LAC W 17 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 2 1 0 0 1 7
+p27
+aVBrian Grant POR 04/16/1998 POR vs. LAC W 28 0 0 7 0.0 0 0 - 0 0 - 2 5 7 1 0 0 0 2 8
+p28
+aVGary Grant POR 04/14/1998 POR vs. SAC W 15 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 9 3 0 1 0 13
+p29
+aVKelvin Cato POR 04/14/1998 POR vs. SAC W 17 10 4 8 50.0 0 0 - 2 2 100.0 2 2 4 1 0 1 0 1 9
+p30
+aVWalt Williams POR 04/14/1998 POR vs. SAC W 23 19 8 18 44.4 3 6 50.0 0 0 - 1 2 3 1 0 0 0 1 11
+p31
+aVIsaiah Rider POR 04/14/1998 POR vs. SAC W 27 16 7 15 46.7 2 5 40.0 0 0 - 1 3 4 4 2 0 2 3 15
+p32
+aVRasheed Wallace POR 04/14/1998 POR vs. SAC W 32 8 3 9 33.3 0 0 - 2 2 100.0 1 5 6 0 3 0 4 1 17
+p33
+aVStacey Augmon POR 04/14/1998 POR vs. SAC W 20 3 1 4 25.0 0 0 - 1 2 50.0 3 1 4 1 2 0 0 3 4
+p34
+aVArvydas Sabonis POR 04/14/1998 POR vs. SAC W 24 16 6 11 54.5 0 0 - 4 6 66.7 5 4 9 3 2 0 2 1 16
+p35
+aVBrian Grant POR 04/14/1998 POR vs. SAC W 28 3 1 2 50.0 0 0 - 1 2 50.0 0 7 7 1 1 0 1 3 26
+p36
+aVJohn Crotty POR 04/14/1998 POR vs. SAC W 5 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 4
+p37
+aVDamon Stoudamire POR 04/14/1998 POR vs. SAC W 33 13 5 14 35.7 1 4 25.0 2 2 100.0 1 2 3 7 2 0 2 1 13
+p38
+aVJermaine O'Neal POR 04/14/1998 POR vs. SAC W 15 0 0 3 0.0 0 0 - 0 0 - 0 5 5 0 0 1 1 0 2
+p39
+aVDamon Stoudamire POR 04/11/1998 POR @ VAN L 42 10 3 12 25.0 1 4 25.0 3 3 100.0 0 4 4 9 1 0 5 3 -12
+p40
+aVIsaiah Rider POR 04/11/1998 POR @ VAN L 44 26 10 18 55.6 2 5 40.0 4 5 80.0 1 2 3 2 1 1 7 4 -16
+p41
+aVGary Grant POR 04/11/1998 POR @ VAN L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 4 0 0 1 0 3
+p42
+aVKelvin Cato POR 04/11/1998 POR @ VAN L 6 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -12
+p43
+aVWalt Williams POR 04/11/1998 POR @ VAN L 18 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 2 1 0 0 4 8
+p44
+aVRasheed Wallace POR 04/11/1998 POR @ VAN L 51 22 9 17 52.9 0 1 0.0 4 4 100.0 2 14 16 3 2 3 6 3 -6
+p45
+aVBrian Grant POR 04/11/1998 POR @ VAN L 43 11 4 6 66.7 0 0 - 3 4 75.0 2 7 9 2 1 2 5 3 -22
+p46
+aVStacey Augmon POR 04/11/1998 POR @ VAN L 18 10 4 5 80.0 0 0 - 2 2 100.0 2 2 4 1 1 2 0 3 6
+p47
+aVJermaine O'Neal POR 04/11/1998 POR @ VAN L 31 4 2 6 33.3 0 0 - 0 0 - 2 3 5 1 0 7 1 3 6
+p48
+aVDamon Stoudamire POR 04/09/1998 POR @ LAC W 38 10 3 10 30.0 0 4 0.0 4 5 80.0 2 2 4 8 4 0 3 1 14
+p49
+aVWalt Williams POR 04/09/1998 POR @ LAC W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 -12
+p50
+aVGary Grant POR 04/09/1998 POR @ LAC W 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -11
+p51
+aVBrian Grant POR 04/09/1998 POR @ LAC W 43 25 6 11 54.5 0 0 - 13 13 100.0 0 13 13 0 1 1 3 3 8
+p52
+aVKelvin Cato POR 04/09/1998 POR @ LAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -3
+p53
+aVRasheed Wallace POR 04/09/1998 POR @ LAC W 42 23 11 16 68.8 0 0 - 1 2 50.0 2 7 9 2 0 0 1 5 13
+p54
+aVJermaine O'Neal POR 04/09/1998 POR @ LAC W 11 7 3 3 100.0 0 0 - 1 3 33.3 1 3 4 0 1 0 1 3 -10
+p55
+aVIsaiah Rider POR 04/09/1998 POR @ LAC W 44 25 9 20 45.0 2 4 50.0 5 6 83.3 2 4 6 4 2 0 4 2 6
+p56
+aVStacey Augmon POR 04/09/1998 POR @ LAC W 31 5 1 4 25.0 0 0 - 3 4 75.0 4 3 7 3 1 0 4 2 15
+p57
+aVBrian Grant POR 04/07/1998 POR @ DAL W 31 17 8 16 50.0 0 0 - 1 1 100.0 2 5 7 3 0 0 1 1 3
+p58
+aVGary Grant POR 04/07/1998 POR @ DAL W 20 2 1 3 33.3 0 0 - 0 0 - 0 6 6 9 1 0 1 1 -1
+p59
+aVIsaiah Rider POR 04/07/1998 POR @ DAL W 29 26 11 17 64.7 3 6 50.0 1 1 100.0 1 5 6 1 4 0 2 3 24
+p60
+aVAlton Lister POR 04/07/1998 POR @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p61
+aVWalt Williams POR 04/07/1998 POR @ DAL W 24 17 6 14 42.9 3 7 42.9 2 2 100.0 2 1 3 1 3 1 1 4 -7
+p62
+aVStacey Augmon POR 04/07/1998 POR @ DAL W 20 2 1 7 14.3 0 1 0.0 0 2 0.0 2 1 3 1 1 0 0 5 5
+p63
+aVJohn Crotty POR 04/07/1998 POR @ DAL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -16
+p64
+aVJermaine O'Neal POR 04/07/1998 POR @ DAL W 5 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -16
+p65
+aVDamon Stoudamire POR 04/07/1998 POR @ DAL W 30 1 0 6 0.0 0 2 0.0 1 1 100.0 2 2 4 7 0 1 5 1 9
+p66
+aVKelvin Cato POR 04/07/1998 POR @ DAL W 34 16 6 10 60.0 0 0 - 4 5 80.0 6 6 12 1 1 3 1 2 26
+p67
+aVRasheed Wallace POR 04/07/1998 POR @ DAL W 40 17 7 13 53.8 0 0 - 3 6 50.0 1 7 8 5 1 2 0 4 19
+p68
+aVGary Grant POR 04/06/1998 POR @ SAS W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 0 1 11
+p69
+aVJermaine O'Neal POR 04/06/1998 POR @ SAS W 7 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 1 1 1 1 7
+p70
+aVStacey Augmon POR 04/06/1998 POR @ SAS W 15 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 1 1 2 0
+p71
+aVIsaiah Rider POR 04/06/1998 POR @ SAS W 37 14 6 14 42.9 0 2 0.0 2 2 100.0 3 2 5 1 0 0 1 2 9
+p72
+aVBrian Grant POR 04/06/1998 POR @ SAS W 29 13 6 15 40.0 0 0 - 1 1 100.0 3 5 8 0 0 0 1 5 -2
+p73
+aVWalt Williams POR 04/06/1998 POR @ SAS W 23 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 2 1 1 2 1 -7
+p74
+aVRasheed Wallace POR 04/06/1998 POR @ SAS W 44 28 13 21 61.9 0 0 - 2 4 50.0 0 5 5 0 0 2 3 3 4
+p75
+aVKelvin Cato POR 04/06/1998 POR @ SAS W 23 3 1 5 20.0 0 0 - 1 2 50.0 1 5 6 0 2 3 0 4 -2
+p76
+aVDamon Stoudamire POR 04/06/1998 POR @ SAS W 38 6 2 6 33.3 1 2 50.0 1 2 50.0 1 5 6 15 1 0 4 0 -7
+p77
+aVAlton Lister POR 04/06/1998 POR @ SAS W 14 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 7
+p78
+aVStacey Augmon POR 04/04/1998 POR @ PHX L 20 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -12
+p79
+aVJermaine O'Neal POR 04/04/1998 POR @ PHX L 15 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 2 4 -2
+p80
+aVWalt Williams POR 04/04/1998 POR @ PHX L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p81
+aVIsaiah Rider POR 04/04/1998 POR @ PHX L 39 23 8 20 40.0 5 9 55.6 2 2 100.0 5 5 10 4 0 0 3 0 -10
+p82
+aVAlton Lister POR 04/04/1998 POR @ PHX L 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p83
+aVKelvin Cato POR 04/04/1998 POR @ PHX L 20 2 1 6 16.7 0 0 - 0 0 - 2 0 2 0 3 2 2 5 7
+p84
+aVJohn Crotty POR 04/04/1998 POR @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p85
+aVBrian Grant POR 04/04/1998 POR @ PHX L 32 23 10 16 62.5 0 0 - 3 4 75.0 4 8 12 4 1 1 2 5 3
+p86
+aVRasheed Wallace POR 04/04/1998 POR @ PHX L 43 16 7 13 53.8 0 0 - 2 3 66.7 4 6 10 4 0 0 2 3 -5
+p87
+aVGary Grant POR 04/04/1998 POR @ PHX L 18 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 1 2 0 0 2 -11
+p88
+aVDamon Stoudamire POR 04/04/1998 POR @ PHX L 40 11 4 14 28.6 1 7 14.3 2 2 100.0 0 2 2 14 0 0 3 3 -1
+p89
+aVStacey Augmon POR 04/03/1998 POR vs. DAL W 42 18 7 13 53.8 0 0 - 4 4 100.0 1 4 5 4 3 1 2 3 5
+p90
+aVRasheed Wallace POR 04/03/1998 POR vs. DAL W 36 27 11 14 78.6 0 0 - 5 5 100.0 1 5 6 2 1 0 3 4 1
+p91
+aVIsaiah Rider POR 04/03/1998 POR vs. DAL W 33 9 4 14 28.6 1 6 16.7 0 0 - 2 3 5 6 0 0 1 5 6
+p92
+aVKelvin Cato POR 04/03/1998 POR vs. DAL W 12 5 2 5 40.0 0 0 - 1 4 25.0 0 2 2 0 0 2 0 0 3
+p93
+aVWalt Williams POR 04/03/1998 POR vs. DAL W 9 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 2 0 2 2 -7
+p94
+aVDamon Stoudamire POR 04/03/1998 POR vs. DAL W 43 18 7 13 53.8 3 7 42.9 1 2 50.0 1 3 4 10 0 0 2 3 13
+p95
+aVGary Grant POR 04/03/1998 POR vs. DAL W 21 8 4 9 44.4 0 0 - 0 0 - 0 1 1 5 0 0 1 1 1
+p96
+aVBrian Grant POR 04/03/1998 POR vs. DAL W 44 20 9 12 75.0 0 0 - 2 4 50.0 7 13 20 1 0 1 1 2 13
+p97
+aVDamon Stoudamire POR 04/01/1998 POR @ UTA L 35 22 8 16 50.0 3 9 33.3 3 3 100.0 0 0 0 6 0 0 3 4 -15
+p98
+aVGary Grant POR 04/01/1998 POR @ UTA L 22 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 2 1 0 0 1 -3
+p99
+aVBrian Grant POR 04/01/1998 POR @ UTA L 42 8 4 11 36.4 0 0 - 0 4 0.0 6 8 14 1 2 3 2 3 -7
+p100
+aVJermaine O'Neal POR 04/01/1998 POR @ UTA L 10 3 0 2 0.0 0 0 - 3 4 75.0 0 2 2 1 1 0 0 3 2
+p101
+aVArvydas Sabonis POR 04/01/1998 POR @ UTA L 13 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 0 1 1 1 0
+p102
+aVJohn Crotty POR 04/01/1998 POR @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p103
+aVStacey Augmon POR 04/01/1998 POR @ UTA L 27 13 4 10 40.0 0 0 - 5 6 83.3 6 2 8 3 1 0 0 3 -3
+p104
+aVWalt Williams POR 04/01/1998 POR @ UTA L 28 6 3 13 23.1 0 3 0.0 0 0 - 3 3 6 2 0 0 2 0 -3
+p105
+aVRasheed Wallace POR 04/01/1998 POR @ UTA L 37 18 6 11 54.5 0 2 0.0 6 7 85.7 0 4 4 1 1 1 5 5 -8
+p106
+aVKelvin Cato POR 04/01/1998 POR @ UTA L 25 4 2 4 50.0 0 0 - 0 1 0.0 0 2 2 1 0 3 2 6 -8
+p107
+aVWalt Williams POR 03/29/1998 POR @ GSW W 20 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 1 0 1 2 2 11
+p108
+aVDamon Stoudamire POR 03/29/1998 POR @ GSW W 32 12 4 10 40.0 2 4 50.0 2 2 100.0 0 2 2 6 2 0 0 1 5
+p109
+aVJohn Crotty POR 03/29/1998 POR @ GSW W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p110
+aVBrian Grant POR 03/29/1998 POR @ GSW W 37 19 7 14 50.0 0 0 - 5 7 71.4 3 2 5 3 0 0 4 3 10
+p111
+aVJermaine O'Neal POR 03/29/1998 POR @ GSW W 19 8 4 7 57.1 0 0 - 0 0 - 2 3 5 1 0 3 1 3 6
+p112
+aVGary Grant POR 03/29/1998 POR @ GSW W 13 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 3 0 1 0 1 11
+p113
+aVArvydas Sabonis POR 03/29/1998 POR @ GSW W 32 11 4 10 40.0 0 1 0.0 3 4 75.0 2 6 8 3 2 1 0 5 12
+p114
+aVIsaiah Rider POR 03/29/1998 POR @ GSW W 35 21 10 17 58.8 0 2 0.0 1 2 50.0 2 3 5 1 1 0 2 2 4
+p115
+aVKelvin Cato POR 03/29/1998 POR @ GSW W 24 11 4 6 66.7 0 0 - 3 5 60.0 3 2 5 1 1 2 0 5 9
+p116
+aVStacey Augmon POR 03/29/1998 POR @ GSW W 25 7 3 6 50.0 0 0 - 1 2 50.0 2 0 2 4 2 0 1 2 12
+p117
+aVStacey Augmon POR 03/27/1998 POR @ SAC W 23 5 2 5 40.0 0 1 0.0 1 2 50.0 1 4 5 0 0 1 1 0 9
+p118
+aVJermaine O'Neal POR 03/27/1998 POR @ SAC W 26 4 2 5 40.0 0 0 - 0 0 - 4 4 8 0 0 2 0 3 6
+p119
+aVArvydas Sabonis POR 03/27/1998 POR @ SAC W 24 10 4 10 40.0 0 0 - 2 4 50.0 5 5 10 1 0 1 2 4 7
+p120
+aVIsaiah Rider POR 03/27/1998 POR @ SAC W 38 24 9 22 40.9 3 7 42.9 3 3 100.0 0 3 3 3 0 0 2 2 20
+p121
+aVKelvin Cato POR 03/27/1998 POR @ SAC W 24 10 5 11 45.5 0 0 - 0 0 - 2 0 2 0 2 2 2 3 10
+p122
+aVBrian Grant POR 03/27/1998 POR @ SAC W 34 19 7 13 53.8 0 0 - 5 6 83.3 3 11 14 2 0 1 2 2 22
+p123
+aVWalt Williams POR 03/27/1998 POR @ SAC W 20 8 3 8 37.5 0 1 0.0 2 2 100.0 1 3 4 1 0 0 0 5 -4
+p124
+aVJohn Crotty POR 03/27/1998 POR @ SAC W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -7
+p125
+aVGary Grant POR 03/27/1998 POR @ SAC W 13 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 3 1 0 1 0 3
+p126
+aVDamon Stoudamire POR 03/27/1998 POR @ SAC W 34 6 2 10 20.0 1 5 20.0 1 2 50.0 1 5 6 12 1 0 1 0 19
+p127
+aVKelvin Cato POR 03/26/1998 POR vs. VAN W 22 6 2 4 50.0 0 0 - 2 4 50.0 1 3 4 0 1 1 0 2 3
+p128
+aVWalt Williams POR 03/26/1998 POR vs. VAN W 18 20 3 6 50.0 2 4 50.0 12 14 85.7 2 2 4 1 0 1 0 1 14
+p129
+aVIsaiah Rider POR 03/26/1998 POR vs. VAN W 37 6 2 14 14.3 0 3 0.0 2 2 100.0 1 3 4 4 0 1 1 0 -5
+p130
+aVArvydas Sabonis POR 03/26/1998 POR vs. VAN W 35 24 11 17 64.7 0 2 0.0 2 4 50.0 1 7 8 6 0 1 0 5 -3
+p131
+aVJermaine O'Neal POR 03/26/1998 POR vs. VAN W 32 14 5 8 62.5 0 0 - 4 6 66.7 3 3 6 2 0 2 2 3 -7
+p132
+aVDamon Stoudamire POR 03/26/1998 POR vs. VAN W 40 11 4 9 44.4 2 5 40.0 1 2 50.0 1 4 5 5 1 0 1 0 5
+p133
+aVBrian Grant POR 03/26/1998 POR vs. VAN W 34 18 6 10 60.0 0 0 - 6 8 75.0 4 8 12 0 0 0 4 4 15
+p134
+aVStacey Augmon POR 03/26/1998 POR vs. VAN W 14 5 1 4 25.0 0 0 - 3 3 100.0 1 1 2 1 0 0 1 0 7
+p135
+aVGary Grant POR 03/26/1998 POR vs. VAN W 8 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 3 1
+p136
+aVGary Grant POR 03/24/1998 POR vs. WAS L 28 12 6 11 54.5 0 3 0.0 0 0 - 1 2 3 8 3 0 5 4 -1
+p137
+aVKelvin Cato POR 03/24/1998 POR vs. WAS L 22 5 1 5 20.0 0 0 - 3 3 100.0 1 3 4 1 2 0 1 6 -10
+p138
+aVWalt Williams POR 03/24/1998 POR vs. WAS L 24 14 4 10 40.0 1 4 25.0 5 6 83.3 2 2 4 0 2 2 2 3 -5
+p139
+aVArvydas Sabonis POR 03/24/1998 POR vs. WAS L 36 14 4 12 33.3 0 0 - 6 10 60.0 2 13 15 2 1 1 4 5 0
+p140
+aVJermaine O'Neal POR 03/24/1998 POR vs. WAS L 26 10 5 6 83.3 0 0 - 0 1 0.0 3 2 5 0 0 1 1 3 10
+p141
+aVJohn Crotty POR 03/24/1998 POR vs. WAS L 20 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 4 0 0 1 1 -11
+p142
+aVStacey Augmon POR 03/24/1998 POR vs. WAS L 21 5 2 5 40.0 0 0 - 1 2 50.0 3 1 4 1 0 0 3 2 -14
+p143
+aVBrian Grant POR 03/24/1998 POR vs. WAS L 33 12 6 13 46.2 0 0 - 0 0 - 3 2 5 1 0 2 1 5 -14
+p144
+aVIsaiah Rider POR 03/24/1998 POR vs. WAS L 31 10 5 17 29.4 0 4 0.0 0 0 - 0 4 4 1 0 0 3 4 -15
+p145
+aVGary Grant POR 03/22/1998 POR @ MIA L 22 4 2 5 40.0 0 0 - 0 0 - 1 5 6 4 1 0 1 4 -14
+p146
+aVStacey Augmon POR 03/22/1998 POR @ MIA L 30 5 2 5 40.0 0 0 - 1 2 50.0 1 6 7 3 1 2 5 5 -19
+p147
+aVKelvin Cato POR 03/22/1998 POR @ MIA L 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -12
+p148
+aVJohn Crotty POR 03/22/1998 POR @ MIA L 25 5 2 7 28.6 0 1 0.0 1 2 50.0 1 2 3 3 0 0 5 2 -12
+p149
+aVBrian Grant POR 03/22/1998 POR @ MIA L 36 8 4 9 44.4 0 0 - 0 0 - 2 8 10 1 0 0 4 3 -21
+p150
+aVIsaiah Rider POR 03/22/1998 POR @ MIA L 37 23 9 19 47.4 1 4 25.0 4 7 57.1 3 1 4 1 0 0 2 4 -27
+p151
+aVArvydas Sabonis POR 03/22/1998 POR @ MIA L 29 14 5 10 50.0 0 1 0.0 4 4 100.0 0 3 3 3 1 3 2 2 -13
+p152
+aVRick Brunson POR 03/22/1998 POR @ MIA L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 2 0 0 1 1 -14
+p153
+aVRasheed Wallace POR 03/22/1998 POR @ MIA L 37 16 7 12 58.3 0 0 - 2 4 50.0 1 4 5 3 2 0 0 2 -28
+p154
+aVStacey Augmon POR 03/20/1998 POR @ ORL L 28 10 4 8 50.0 0 0 - 2 4 50.0 2 3 5 2 1 1 2 2 0
+p155
+aVBrian Grant POR 03/20/1998 POR @ ORL L 39 21 8 16 50.0 0 0 - 5 6 83.3 6 10 16 1 1 0 1 1 -12
+p156
+aVJohn Crotty POR 03/20/1998 POR @ ORL L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -5
+p157
+aVRick Brunson POR 03/20/1998 POR @ ORL L 25 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 7 2 0 5 3 -8
+p158
+aVGary Grant POR 03/20/1998 POR @ ORL L 15 5 2 4 50.0 0 1 0.0 1 2 50.0 1 3 4 6 1 0 1 3 -1
+p159
+aVArvydas Sabonis POR 03/20/1998 POR @ ORL L 30 16 4 6 66.7 0 1 0.0 8 9 88.9 1 4 5 1 1 2 2 4 -4
+p160
+aVKelvin Cato POR 03/20/1998 POR @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p161
+aVRasheed Wallace POR 03/20/1998 POR @ ORL L 39 19 9 16 56.3 1 1 100.0 0 5 0.0 0 4 4 3 0 0 1 3 -11
+p162
+aVJermaine O'Neal POR 03/20/1998 POR @ ORL L 6 2 0 1 0.0 0 0 - 2 4 50.0 2 0 2 0 0 0 2 3 -11
+p163
+aVWalt Williams POR 03/20/1998 POR @ ORL L 21 12 5 11 45.5 2 4 50.0 0 0 - 0 1 1 1 2 1 1 2 -11
+p164
+aVIsaiah Rider POR 03/20/1998 POR @ ORL L 23 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 2 1 0 0 2 -9
+p165
+aVWalt Williams POR 03/19/1998 POR @ NYK W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 3 1
+p166
+aVJermaine O'Neal POR 03/19/1998 POR @ NYK W 5 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 0 -3
+p167
+aVStacey Augmon POR 03/19/1998 POR @ NYK W 27 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 1 0 1 3 -3
+p168
+aVArvydas Sabonis POR 03/19/1998 POR @ NYK W 34 21 6 9 66.7 0 1 0.0 9 9 100.0 1 10 11 3 0 1 5 1 6
+p169
+aVBrian Grant POR 03/19/1998 POR @ NYK W 36 21 8 9 88.9 0 0 - 5 9 55.6 5 5 10 3 0 0 2 2 8
+p170
+aVIsaiah Rider POR 03/19/1998 POR @ NYK W 38 16 7 15 46.7 2 5 40.0 0 0 - 0 4 4 4 0 0 2 3 6
+p171
+aVRasheed Wallace POR 03/19/1998 POR @ NYK W 41 13 6 12 50.0 0 0 - 1 3 33.3 1 7 8 1 0 1 4 3 6
+p172
+aVJohn Crotty POR 03/19/1998 POR @ NYK W 15 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 1 -1
+p173
+aVRick Brunson POR 03/19/1998 POR @ NYK W 34 4 1 7 14.3 0 4 0.0 2 2 100.0 1 1 2 5 1 0 1 1 5
+p174
+aVBrian Grant POR 03/17/1998 POR vs. CLE L 17 6 1 2 50.0 0 0 - 4 4 100.0 0 5 5 0 0 0 2 4 -13
+p175
+aVStacey Augmon POR 03/17/1998 POR vs. CLE L 34 8 4 8 50.0 0 0 - 0 0 - 1 4 5 2 1 1 0 2 -3
+p176
+aVIsaiah Rider POR 03/17/1998 POR vs. CLE L 41 15 6 15 40.0 3 7 42.9 0 0 - 2 3 5 4 0 0 2 2 -19
+p177
+aVArvydas Sabonis POR 03/17/1998 POR vs. CLE L 37 20 8 13 61.5 0 0 - 4 5 80.0 1 9 10 2 1 2 3 4 -14
+p178
+aVJohn Crotty POR 03/17/1998 POR vs. CLE L 16 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 2 1 0 3 1 -11
+p179
+aVJermaine O'Neal POR 03/17/1998 POR vs. CLE L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -8
+p180
+aVKelvin Cato POR 03/17/1998 POR vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p181
+aVRick Brunson POR 03/17/1998 POR vs. CLE L 32 6 2 9 22.2 1 6 16.7 1 2 50.0 0 1 1 4 1 0 1 1 -3
+p182
+aVWalt Williams POR 03/17/1998 POR vs. CLE L 17 7 3 9 33.3 0 4 0.0 1 1 100.0 1 1 2 2 0 0 2 4 0
+p183
+aVRasheed Wallace POR 03/17/1998 POR vs. CLE L 39 16 5 9 55.6 0 1 0.0 6 8 75.0 2 2 4 6 0 0 3 3 -1
+p184
+aVRasheed Wallace POR 03/15/1998 POR vs. LAC W 39 12 4 8 50.0 0 0 - 4 4 100.0 2 4 6 2 0 0 3 2 11
+p185
+aVJermaine O'Neal POR 03/15/1998 POR vs. LAC W 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -4
+p186
+aVJohn Crotty POR 03/15/1998 POR vs. LAC W 12 6 1 1 100.0 0 0 - 4 4 100.0 0 0 0 1 0 0 1 0 12
+p187
+aVRick Brunson POR 03/15/1998 POR vs. LAC W 31 4 1 6 16.7 1 5 20.0 1 2 50.0 1 0 1 9 0 0 2 2 3
+p188
+aVGary Grant POR 03/15/1998 POR vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -4
+p189
+aVBrian Grant POR 03/15/1998 POR vs. LAC W 22 11 3 9 33.3 0 0 - 5 6 83.3 5 6 11 0 2 0 1 1 11
+p190
+aVIsaiah Rider POR 03/15/1998 POR vs. LAC W 45 26 11 22 50.0 1 6 16.7 3 3 100.0 0 3 3 6 0 0 2 2 12
+p191
+aVArvydas Sabonis POR 03/15/1998 POR vs. LAC W 38 28 11 17 64.7 0 0 - 6 6 100.0 5 10 15 0 0 0 1 5 8
+p192
+aVWalt Williams POR 03/15/1998 POR vs. LAC W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 1 1 0
+p193
+aVStacey Augmon POR 03/15/1998 POR vs. LAC W 33 12 5 8 62.5 0 0 - 2 2 100.0 1 2 3 2 2 1 1 3 6
+p194
+aVIsaiah Rider POR 03/14/1998 POR @ DEN L 37 13 5 14 35.7 2 9 22.2 1 4 25.0 2 3 5 3 1 0 1 5 6
+p195
+aVRick Brunson POR 03/14/1998 POR @ DEN L 33 12 3 7 42.9 0 1 0.0 6 8 75.0 0 5 5 10 4 0 3 3 -3
+p196
+aVArvydas Sabonis POR 03/14/1998 POR @ DEN L 34 24 7 14 50.0 0 2 0.0 10 14 71.4 6 6 12 2 0 0 4 4 8
+p197
+aVBrian Grant POR 03/14/1998 POR @ DEN L 37 6 3 11 27.3 0 0 - 0 0 - 4 7 11 1 0 1 1 4 -9
+p198
+aVJermaine O'Neal POR 03/14/1998 POR @ DEN L 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -6
+p199
+aVWalt Williams POR 03/14/1998 POR @ DEN L 13 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 3 -16
+p200
+aVRasheed Wallace POR 03/14/1998 POR @ DEN L 41 12 5 11 45.5 0 1 0.0 2 3 66.7 2 4 6 2 0 1 2 4 -10
+p201
+aVKelvin Cato POR 03/14/1998 POR @ DEN L 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 1 3 -16
+p202
+aVStacey Augmon POR 03/14/1998 POR @ DEN L 11 7 3 3 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 2 2 1
+p203
+aVGary Grant POR 03/14/1998 POR @ DEN L 16 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 1 0 1 2 2 -5
+p204
+aVGary Grant POR 03/12/1998 POR vs. MIN W 15 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 1 0 0 3 2 1
+p205
+aVRasheed Wallace POR 03/12/1998 POR vs. MIN W 41 15 6 13 46.2 0 0 - 3 4 75.0 1 7 8 2 1 2 2 2 7
+p206
+aVKelvin Cato POR 03/12/1998 POR vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p207
+aVBrian Grant POR 03/12/1998 POR vs. MIN W 19 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 1 1 2 1 1 -8
+p208
+aVRick Brunson POR 03/12/1998 POR vs. MIN W 33 12 5 9 55.6 2 4 50.0 0 0 - 1 2 3 7 0 0 2 4 2
+p209
+aVStacey Augmon POR 03/12/1998 POR vs. MIN W 26 8 3 11 27.3 0 0 - 2 2 100.0 3 4 7 4 0 0 1 1 7
+p210
+aVJermaine O'Neal POR 03/12/1998 POR vs. MIN W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -1
+p211
+aVArvydas Sabonis POR 03/12/1998 POR vs. MIN W 37 28 9 13 69.2 0 0 - 10 11 90.9 5 15 20 3 2 3 1 3 9
+p212
+aVIsaiah Rider POR 03/12/1998 POR vs. MIN W 38 15 5 18 27.8 2 8 25.0 3 3 100.0 1 2 3 2 1 0 3 2 8
+p213
+aVWalt Williams POR 03/12/1998 POR vs. MIN W 24 4 1 6 16.7 0 3 0.0 2 4 50.0 1 2 3 4 0 1 0 3 -6
+p214
+aVIsaiah Rider POR 03/11/1998 POR @ LAL L 38 17 7 21 33.3 0 5 0.0 3 3 100.0 2 3 5 3 1 0 1 2 -12
+p215
+aVRasheed Wallace POR 03/11/1998 POR @ LAL L 37 20 7 14 50.0 0 1 0.0 6 8 75.0 2 3 5 6 4 3 2 5 -19
+p216
+aVStacey Augmon POR 03/11/1998 POR @ LAL L 19 6 2 7 28.6 0 0 - 2 2 100.0 2 3 5 0 1 0 1 3 0
+p217
+aVArvydas Sabonis POR 03/11/1998 POR @ LAL L 29 17 8 14 57.1 0 1 0.0 1 2 50.0 2 7 9 3 2 0 3 4 2
+p218
+aVWalt Williams POR 03/11/1998 POR @ LAL L 20 16 7 9 77.8 2 3 66.7 0 0 - 1 3 4 4 0 1 1 1 -6
+p219
+aVJermaine O'Neal POR 03/11/1998 POR @ LAL L 18 6 3 7 42.9 0 0 - 0 1 0.0 3 1 4 1 2 2 0 5 -2
+p220
+aVRick Brunson POR 03/11/1998 POR @ LAL L 28 11 4 9 44.4 3 4 75.0 0 2 0.0 1 2 3 6 0 0 3 2 -4
+p221
+aVBrian Grant POR 03/11/1998 POR @ LAL L 20 6 3 6 50.0 0 0 - 0 0 - 3 0 3 5 0 2 0 4 -10
+p222
+aVKelvin Cato POR 03/11/1998 POR @ LAL L 9 1 0 0 - 0 0 - 1 2 50.0 2 1 3 0 0 0 0 3 -11
+p223
+aVGary Grant POR 03/11/1998 POR @ LAL L 20 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 7 0 0 1 1 -8
+p224
+aVJermaine O'Neal POR 03/08/1998 POR vs. SAS L 10 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 1 0 2 -9
+p225
+aVIsaiah Rider POR 03/08/1998 POR vs. SAS L 45 23 9 23 39.1 0 2 0.0 5 7 71.4 1 1 2 2 0 0 2 1 -3
+p226
+aVRick Brunson POR 03/08/1998 POR vs. SAS L 23 7 2 4 50.0 1 2 50.0 2 2 100.0 1 0 1 5 1 0 0 3 -10
+p227
+aVArvydas Sabonis POR 03/08/1998 POR vs. SAS L 38 23 9 14 64.3 0 2 0.0 5 5 100.0 3 14 17 3 1 1 5 4 6
+p228
+aVBrian Grant POR 03/08/1998 POR vs. SAS L 39 4 1 8 12.5 0 0 - 2 2 100.0 3 9 12 1 1 0 2 4 -4
+p229
+aVGary Grant POR 03/08/1998 POR vs. SAS L 25 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 4 1 0 1 1 6
+p230
+aVKelvin Cato POR 03/08/1998 POR vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -2
+p231
+aVWalt Williams POR 03/08/1998 POR vs. SAS L 19 4 1 8 12.5 0 4 0.0 2 2 100.0 3 1 4 2 1 0 1 1 -3
+p232
+aVRasheed Wallace POR 03/08/1998 POR vs. SAS L 40 10 3 16 18.8 0 0 - 4 4 100.0 4 2 6 2 1 1 1 3 -1
+p233
+aVStacey Augmon POR 03/03/1998 POR vs. PHX W 17 8 3 4 75.0 0 0 - 2 4 50.0 1 2 3 2 0 0 2 1 1
+p234
+aVDamon Stoudamire POR 03/03/1998 POR vs. PHX W 13 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 6 0 0 0 2 13
+p235
+aVRasheed Wallace POR 03/03/1998 POR vs. PHX W 41 9 3 11 27.3 0 2 0.0 3 4 75.0 1 4 5 0 1 2 5 3 7
+p236
+aVArvydas Sabonis POR 03/03/1998 POR vs. PHX W 31 12 4 11 36.4 0 2 0.0 4 4 100.0 0 14 14 4 1 1 1 5 7
+p237
+aVIsaiah Rider POR 03/03/1998 POR vs. PHX W 41 33 10 22 45.5 4 6 66.7 9 10 90.0 1 2 3 2 4 0 3 1 2
+p238
+aVWalt Williams POR 03/03/1998 POR vs. PHX W 28 16 6 12 50.0 4 8 50.0 0 0 - 1 1 2 4 1 0 3 0 -1
+p239
+aVRick Brunson POR 03/03/1998 POR vs. PHX W 36 6 3 4 75.0 0 1 0.0 0 0 - 1 4 5 2 1 1 3 2 -8
+p240
+aVKelvin Cato POR 03/03/1998 POR vs. PHX W 7 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 2
+p241
+aVBrian Grant POR 03/03/1998 POR vs. PHX W 26 9 2 6 33.3 0 0 - 5 5 100.0 2 6 8 2 2 1 2 4 2
+p242
+aVIsaiah Rider POR 03/01/1998 POR @ BOS L 32 24 7 17 41.2 3 6 50.0 7 8 87.5 2 3 5 1 1 0 4 4 -4
+p243
+aVBrian Grant POR 03/01/1998 POR @ BOS L 35 21 9 12 75.0 0 0 - 3 3 100.0 2 5 7 1 2 1 2 4 1
+p244
+aVStacey Augmon POR 03/01/1998 POR @ BOS L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -11
+p245
+aVArvydas Sabonis POR 03/01/1998 POR @ BOS L 41 23 9 15 60.0 0 3 0.0 5 6 83.3 0 9 9 5 1 0 5 2 17
+p246
+aVVincent Askew POR 03/01/1998 POR @ BOS L 10 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 1 0 2 0 -7
+p247
+aVRasheed Wallace POR 03/01/1998 POR @ BOS L 40 7 2 8 25.0 0 1 0.0 3 4 75.0 0 5 5 4 2 0 3 6 14
+p248
+aVRick Brunson POR 03/01/1998 POR @ BOS L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 3 1 -10
+p249
+aVWalt Williams POR 03/01/1998 POR @ BOS L 19 12 2 5 40.0 1 4 25.0 7 7 100.0 0 5 5 0 0 0 1 2 -13
+p250
+aVDamon Stoudamire POR 03/01/1998 POR @ BOS L 40 12 4 11 36.4 1 4 25.0 3 4 75.0 3 1 4 8 1 0 4 3 16
+p251
+aVKelvin Cato POR 03/01/1998 POR @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -8
+p252
+aVStacey Augmon POR 02/27/1998 POR @ IND L 15 2 1 7 14.3 0 0 - 0 0 - 1 0 1 0 1 0 3 3 -30
+p253
+aVRick Brunson POR 02/27/1998 POR @ IND L 17 1 0 2 0.0 0 1 0.0 1 4 25.0 0 1 1 2 1 0 0 3 -35
+p254
+aVKelvin Cato POR 02/27/1998 POR @ IND L 15 3 1 4 25.0 0 0 - 1 4 25.0 1 1 2 0 0 1 2 5 -32
+p255
+aVWalt Williams POR 02/27/1998 POR @ IND L 21 13 4 7 57.1 2 2 100.0 3 3 100.0 0 0 0 1 0 0 2 1 -35
+p256
+aVArvydas Sabonis POR 02/27/1998 POR @ IND L 20 7 3 6 50.0 0 1 0.0 1 2 50.0 2 5 7 2 0 2 1 2 -26
+p257
+aVVincent Askew POR 02/27/1998 POR @ IND L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 1 0 -8
+p258
+aVRasheed Wallace POR 02/27/1998 POR @ IND L 26 14 6 10 60.0 0 2 0.0 2 4 50.0 0 3 3 3 1 1 3 3 -31
+p259
+aVBrian Grant POR 02/27/1998 POR @ IND L 30 0 0 6 0.0 0 0 - 0 2 0.0 1 3 4 1 1 0 3 2 -28
+p260
+aVIsaiah Rider POR 02/27/1998 POR @ IND L 33 11 5 15 33.3 1 6 16.7 0 0 - 3 4 7 2 1 0 1 2 -35
+p261
+aVJermaine O'Neal POR 02/27/1998 POR @ IND L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -6
+p262
+aVCarlos Rogers POR 02/27/1998 POR @ IND L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -29
+p263
+aVDamon Stoudamire POR 02/27/1998 POR @ IND L 31 6 3 10 30.0 0 4 0.0 0 0 - 2 1 3 3 2 1 3 3 -30
+p264
+aVRick Brunson POR 02/25/1998 POR @ CHI W 9 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 2 2 0
+p265
+aVDamon Stoudamire POR 02/25/1998 POR @ CHI W 39 24 8 17 47.1 2 6 33.3 6 6 100.0 1 1 2 11 0 0 4 0 5
+p266
+aVArvydas Sabonis POR 02/25/1998 POR @ CHI W 39 21 9 14 64.3 2 3 66.7 1 1 100.0 2 18 20 4 1 1 3 4 11
+p267
+aVWalt Williams POR 02/25/1998 POR @ CHI W 19 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 1 2 -6
+p268
+aVStacey Augmon POR 02/25/1998 POR @ CHI W 19 10 3 4 75.0 0 0 - 4 6 66.7 0 0 0 0 1 0 1 1 1
+p269
+aVJermaine O'Neal POR 02/25/1998 POR @ CHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p270
+aVBrian Grant POR 02/25/1998 POR @ CHI W 26 8 2 2 100.0 0 0 - 4 6 66.7 0 5 5 0 0 0 1 4 8
+p271
+aVVincent Askew POR 02/25/1998 POR @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p272
+aVIsaiah Rider POR 02/25/1998 POR @ CHI W 41 22 7 18 38.9 2 5 40.0 6 6 100.0 1 4 5 1 0 0 1 4 3
+p273
+aVRasheed Wallace POR 02/25/1998 POR @ CHI W 43 11 4 7 57.1 1 1 100.0 2 6 33.3 4 1 5 4 0 0 2 3 3
+p274
+aVCarlos Rogers POR 02/22/1998 POR vs. BOS W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p275
+aVJermaine O'Neal POR 02/22/1998 POR vs. BOS W 10 10 5 6 83.3 0 0 - 0 1 0.0 4 2 6 0 1 0 0 1 -8
+p276
+aVBrian Grant POR 02/22/1998 POR vs. BOS W 24 14 7 10 70.0 0 0 - 0 0 - 4 1 5 1 0 1 0 1 19
+p277
+aVRasheed Wallace POR 02/22/1998 POR vs. BOS W 41 14 6 9 66.7 1 1 100.0 1 2 50.0 2 8 10 6 0 1 2 3 29
+p278
+aVWalt Williams POR 02/22/1998 POR vs. BOS W 22 10 4 6 66.7 2 4 50.0 0 0 - 1 2 3 4 1 1 4 5 4
+p279
+aVRick Brunson POR 02/22/1998 POR vs. BOS W 22 9 3 8 37.5 1 2 50.0 2 3 66.7 0 1 1 2 1 0 2 2 9
+p280
+aVStacey Augmon POR 02/22/1998 POR vs. BOS W 36 16 8 16 50.0 0 1 0.0 0 0 - 3 1 4 1 1 0 1 3 23
+p281
+aVDamon Stoudamire POR 02/22/1998 POR vs. BOS W 43 17 5 16 31.3 0 2 0.0 7 7 100.0 2 4 6 9 3 0 3 1 29
+p282
+aVArvydas Sabonis POR 02/22/1998 POR vs. BOS W 34 23 9 15 60.0 0 0 - 5 6 83.3 2 9 11 8 0 2 3 0 26
+p283
+aVKelvin Cato POR 02/22/1998 POR vs. BOS W 7 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 2 1 0 -4
+p284
+aVKelvin Cato POR 02/20/1998 POR vs. NYK L 28 13 4 6 66.7 0 0 - 5 6 83.3 4 3 7 3 0 0 0 2 -13
+p285
+aVDamon Stoudamire POR 02/20/1998 POR vs. NYK L 45 22 9 17 52.9 0 3 0.0 4 8 50.0 0 5 5 2 3 0 5 3 -6
+p286
+aVIsaiah Rider POR 02/20/1998 POR vs. NYK L 39 14 3 20 15.0 0 8 0.0 8 8 100.0 0 4 4 3 3 0 4 4 -10
+p287
+aVJermaine O'Neal POR 02/20/1998 POR vs. NYK L 23 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 1 1 2 -12
+p288
+aVArvydas Sabonis POR 02/20/1998 POR vs. NYK L 31 14 4 9 44.4 1 3 33.3 5 5 100.0 2 3 5 3 0 1 2 4 4
+p289
+aVBrian Grant POR 02/20/1998 POR vs. NYK L 28 13 4 6 66.7 0 0 - 5 5 100.0 2 2 4 1 0 0 3 5 -8
+p290
+aVWalt Williams POR 02/20/1998 POR vs. NYK L 25 11 3 8 37.5 1 3 33.3 4 4 100.0 1 1 2 1 0 0 1 0 3
+p291
+aVRick Brunson POR 02/20/1998 POR vs. NYK L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p292
+aVStacey Augmon POR 02/20/1998 POR vs. NYK L 12 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -2
+p293
+aVKelvin Cato POR 02/18/1998 POR @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p294
+aVDamon Stoudamire POR 02/18/1998 POR @ SEA L 40 14 4 14 28.6 1 6 16.7 5 6 83.3 3 3 6 11 5 0 4 4 12
+p295
+aVBrian Grant POR 02/18/1998 POR @ SEA L 21 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 2 0 0 1 1
+p296
+aVVincent Askew POR 02/18/1998 POR @ SEA L 9 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 2 0 -10
+p297
+aVRasheed Wallace POR 02/18/1998 POR @ SEA L 29 12 6 8 75.0 0 0 - 0 0 - 1 0 1 2 1 1 1 2 4
+p298
+aVJermaine O'Neal POR 02/18/1998 POR @ SEA L 30 14 5 9 55.6 0 0 - 4 6 66.7 6 7 13 2 1 0 4 0 -3
+p299
+aVIsaiah Rider POR 02/18/1998 POR @ SEA L 33 26 11 23 47.8 2 7 28.6 2 3 66.7 2 1 3 1 3 0 2 5 -8
+p300
+aVArvydas Sabonis POR 02/18/1998 POR @ SEA L 40 13 6 11 54.5 0 2 0.0 1 1 100.0 1 0 1 4 1 2 1 2 0
+p301
+aVWalt Williams POR 02/18/1998 POR @ SEA L 28 12 4 11 36.4 2 7 28.6 2 2 100.0 1 4 5 5 0 0 2 2 -11
+p302
+aVRick Brunson POR 02/18/1998 POR @ SEA L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -18
+p303
+aVRick Brunson POR 02/17/1998 POR vs. GSW W 18 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 2 -11
+p304
+aVRasheed Wallace POR 02/17/1998 POR vs. GSW W 30 9 4 12 33.3 0 2 0.0 1 1 100.0 1 3 4 2 1 0 0 2 16
+p305
+aVBrian Grant POR 02/17/1998 POR vs. GSW W 14 2 1 3 33.3 0 0 - 0 0 - 1 8 9 1 0 0 1 1 10
+p306
+aVDamon Stoudamire POR 02/17/1998 POR vs. GSW W 36 12 4 9 44.4 0 3 0.0 4 6 66.7 2 6 8 6 0 0 1 2 20
+p307
+aVJermaine O'Neal POR 02/17/1998 POR vs. GSW W 34 18 7 12 58.3 0 0 - 4 6 66.7 6 6 12 1 0 3 3 3 15
+p308
+aVKelvin Cato POR 02/17/1998 POR vs. GSW W 19 4 1 7 14.3 0 0 - 2 4 50.0 4 2 6 0 1 1 1 2 -5
+p309
+aVArvydas Sabonis POR 02/17/1998 POR vs. GSW W 29 15 4 8 50.0 0 0 - 7 7 100.0 0 6 6 5 1 3 5 2 23
+p310
+aVIsaiah Rider POR 02/17/1998 POR vs. GSW W 30 24 8 15 53.3 1 3 33.3 7 8 87.5 1 2 3 2 1 0 2 2 12
+p311
+aVWalt Williams POR 02/17/1998 POR vs. GSW W 24 15 4 10 40.0 3 8 37.5 4 4 100.0 0 5 5 5 0 0 1 3 19
+p312
+aVCarlos Rogers POR 02/17/1998 POR vs. GSW W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -9
+p313
+aVArvydas Sabonis POR 02/15/1998 POR vs. DEN W 28 12 4 5 80.0 1 1 100.0 3 3 100.0 1 7 8 6 0 0 2 3 23
+p314
+aVVincent Askew POR 02/15/1998 POR vs. DEN W 11 4 0 1 0.0 0 0 - 4 4 100.0 1 2 3 3 1 1 2 1 14
+p315
+aVStacey Augmon POR 02/15/1998 POR vs. DEN W 18 8 2 4 50.0 0 0 - 4 6 66.7 1 0 1 2 2 1 2 2 3
+p316
+aVKelvin Cato POR 02/15/1998 POR vs. DEN W 11 9 4 4 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 3 5
+p317
+aVRasheed Wallace POR 02/15/1998 POR vs. DEN W 38 14 6 9 66.7 1 1 100.0 1 2 50.0 1 2 3 3 1 0 2 3 24
+p318
+aVIsaiah Rider POR 02/15/1998 POR vs. DEN W 42 31 13 21 61.9 1 2 50.0 4 4 100.0 1 4 5 7 1 0 3 4 39
+p319
+aVJermaine O'Neal POR 02/15/1998 POR vs. DEN W 35 21 9 12 75.0 0 0 - 3 3 100.0 3 6 9 1 0 2 2 3 37
+p320
+aVRick Brunson POR 02/15/1998 POR vs. DEN W 41 11 2 7 28.6 1 2 50.0 6 8 75.0 1 5 6 9 4 0 4 0 26
+p321
+aVBrian Grant POR 02/15/1998 POR vs. DEN W 14 7 2 4 50.0 0 0 - 3 4 75.0 0 3 3 0 0 1 0 1 4
+p322
+aVStacey Augmon POR 02/13/1998 POR vs. HOU W 32 13 6 9 66.7 0 0 - 1 3 33.3 1 3 4 4 3 0 2 2 24
+p323
+aVBrian Grant POR 02/13/1998 POR vs. HOU W 8 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 2
+p324
+aVRick Brunson POR 02/13/1998 POR vs. HOU W 42 16 6 15 40.0 4 6 66.7 0 0 - 0 5 5 8 3 0 5 1 27
+p325
+aVRasheed Wallace POR 02/13/1998 POR vs. HOU W 25 13 5 9 55.6 0 0 - 3 3 100.0 2 3 5 0 0 0 0 6 24
+p326
+aVVincent Askew POR 02/13/1998 POR vs. HOU W 21 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 4 3 -11
+p327
+aVKelvin Cato POR 02/13/1998 POR vs. HOU W 20 6 2 4 50.0 0 0 - 2 4 50.0 1 3 4 0 1 3 0 1 -11
+p328
+aVIsaiah Rider POR 02/13/1998 POR vs. HOU W 37 25 11 21 52.4 2 5 40.0 1 2 50.0 2 3 5 3 0 0 2 1 29
+p329
+aVJermaine O'Neal POR 02/13/1998 POR vs. HOU W 22 10 4 7 57.1 0 0 - 2 3 66.7 0 5 5 0 3 1 3 3 5
+p330
+aVArvydas Sabonis POR 02/13/1998 POR vs. HOU W 33 17 5 9 55.6 0 0 - 7 7 100.0 4 10 14 4 1 1 3 1 31
+p331
+aVAlvin Williams POR 02/12/1998 POR @ PHX W 39 19 7 16 43.8 0 1 0.0 5 6 83.3 0 0 0 3 0 0 1 2 5
+p332
+aVStacey Augmon POR 02/12/1998 POR @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p333
+aVVincent Askew POR 02/12/1998 POR @ PHX W 14 4 2 3 66.7 0 0 - 0 0 - 1 3 4 3 1 0 3 5 3
+p334
+aVGary Trent POR 02/12/1998 POR @ PHX W 39 27 10 17 58.8 0 0 - 7 11 63.6 3 5 8 4 1 3 2 6 -4
+p335
+aVArvydas Sabonis POR 02/12/1998 POR @ PHX W 30 14 4 9 44.4 1 2 50.0 5 6 83.3 2 11 13 6 0 0 3 3 1
+p336
+aVJermaine O'Neal POR 02/12/1998 POR @ PHX W 24 13 6 7 85.7 0 0 - 1 3 33.3 3 5 8 0 0 2 1 2 19
+p337
+aVKenny Anderson POR 02/12/1998 POR @ PHX W 33 8 2 10 20.0 0 0 - 4 4 100.0 4 5 9 6 2 0 4 2 -5
+p338
+aVRick Brunson POR 02/12/1998 POR @ PHX W 24 11 2 6 33.3 1 1 100.0 6 8 75.0 1 1 2 4 3 0 2 3 10
+p339
+aVRasheed Wallace POR 02/12/1998 POR @ PHX W 33 18 6 11 54.5 0 0 - 6 8 75.0 0 2 2 1 1 1 0 5 -5
+p340
+aVKelvin Cato POR 02/12/1998 POR @ PHX W 4 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 0 1
+p341
+aVRasheed Wallace POR 02/10/1998 POR vs. LAL W 32 16 7 10 70.0 0 1 0.0 2 4 50.0 1 5 6 2 0 0 1 5 11
+p342
+aVAlton Lister POR 02/10/1998 POR vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p343
+aVJermaine O'Neal POR 02/10/1998 POR vs. LAL W 14 8 2 4 50.0 0 0 - 4 6 66.7 4 6 10 0 0 5 1 1 5
+p344
+aVIsaiah Rider POR 02/10/1998 POR vs. LAL W 27 24 7 14 50.0 2 7 28.6 8 10 80.0 0 2 2 1 1 1 2 0 13
+p345
+aVVincent Askew POR 02/10/1998 POR vs. LAL W 15 7 1 3 33.3 0 0 - 5 5 100.0 1 4 5 1 1 0 0 2 6
+p346
+aVGary Trent POR 02/10/1998 POR vs. LAL W 32 19 5 10 50.0 0 0 - 9 9 100.0 3 6 9 2 0 0 3 3 28
+p347
+aVKelvin Cato POR 02/10/1998 POR vs. LAL W 15 3 1 3 33.3 0 0 - 1 2 50.0 3 2 5 0 1 0 0 3 2
+p348
+aVKenny Anderson POR 02/10/1998 POR vs. LAL W 40 17 7 14 50.0 1 3 33.3 2 2 100.0 2 4 6 9 3 0 6 4 10
+p349
+aVArvydas Sabonis POR 02/10/1998 POR vs. LAL W 28 10 4 11 36.4 1 2 50.0 1 1 100.0 2 7 9 5 1 1 2 6 10
+p350
+aVAlvin Williams POR 02/10/1998 POR vs. LAL W 31 13 4 9 44.4 1 2 50.0 4 4 100.0 0 2 2 3 1 0 2 2 -5
+p351
+aVRick Brunson POR 02/10/1998 POR vs. LAL W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -18
+p352
+aVRasheed Wallace POR 02/04/1998 POR @ LAL L 32 10 4 7 57.1 0 0 - 2 2 100.0 2 5 7 3 0 0 3 3 -20
+p353
+aVArvydas Sabonis POR 02/04/1998 POR @ LAL L 29 17 7 14 50.0 0 1 0.0 3 4 75.0 1 8 9 2 1 1 1 3 -15
+p354
+aVVincent Askew POR 02/04/1998 POR @ LAL L 10 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -6
+p355
+aVKenny Anderson POR 02/04/1998 POR @ LAL L 30 14 4 10 40.0 1 2 50.0 5 8 62.5 0 3 3 8 3 0 2 1 -10
+p356
+aVAlvin Williams POR 02/04/1998 POR @ LAL L 24 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 1 2 0 0 2 4
+p357
+aVStacey Augmon POR 02/04/1998 POR @ LAL L 20 9 4 14 28.6 0 0 - 1 2 50.0 4 1 5 6 0 0 2 3 0
+p358
+aVKelvin Cato POR 02/04/1998 POR @ LAL L 15 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 0 0 1 1 5 11
+p359
+aVRick Brunson POR 02/04/1998 POR @ LAL L 16 19 6 8 75.0 2 3 66.7 5 6 83.3 1 3 4 2 0 0 1 2 4
+p360
+aVIsaiah Rider POR 02/04/1998 POR @ LAL L 32 15 7 16 43.8 1 5 20.0 0 0 - 1 3 4 1 0 0 3 4 -13
+p361
+aVGary Trent POR 02/04/1998 POR @ LAL L 18 11 3 6 50.0 0 0 - 5 6 83.3 4 1 5 2 1 0 1 1 -3
+p362
+aVJermaine O'Neal POR 02/04/1998 POR @ LAL L 14 5 2 4 50.0 0 0 - 1 4 25.0 2 1 3 1 1 1 0 3 13
+p363
+aVRick Brunson POR 02/03/1998 POR vs. NJN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p364
+aVRasheed Wallace POR 02/03/1998 POR vs. NJN W 41 23 10 16 62.5 0 0 - 3 4 75.0 4 6 10 3 1 0 4 4 -3
+p365
+aVGary Trent POR 02/03/1998 POR vs. NJN W 18 2 1 6 16.7 0 0 - 0 0 - 1 4 5 3 1 0 4 1 7
+p366
+aVVincent Askew POR 02/03/1998 POR vs. NJN W 35 4 2 4 50.0 0 0 - 0 0 - 2 3 5 6 1 1 2 3 7
+p367
+aVArvydas Sabonis POR 02/03/1998 POR vs. NJN W 37 24 8 16 50.0 0 0 - 8 10 80.0 2 9 11 2 0 1 3 5 1
+p368
+aVIsaiah Rider POR 02/03/1998 POR vs. NJN W 26 14 5 14 35.7 1 4 25.0 3 4 75.0 3 1 4 2 1 0 0 1 -2
+p369
+aVKenny Anderson POR 02/03/1998 POR vs. NJN W 36 18 6 11 54.5 3 4 75.0 3 5 60.0 0 1 1 3 2 0 3 2 -4
+p370
+aVAlvin Williams POR 02/03/1998 POR vs. NJN W 33 9 3 6 50.0 0 0 - 3 4 75.0 1 1 2 4 1 0 1 3 9
+p371
+aVKelvin Cato POR 02/03/1998 POR vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p372
+aVStacey Augmon POR 02/03/1998 POR vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p373
+aVJermaine O'Neal POR 02/03/1998 POR vs. NJN W 8 4 1 1 100.0 0 0 - 2 3 66.7 2 0 2 0 0 1 2 1 -7
+p374
+aVRasheed Wallace POR 02/01/1998 POR vs. TOR W 43 11 5 9 55.6 0 0 - 1 2 50.0 7 4 11 6 3 2 6 3 13
+p375
+aVIsaiah Rider POR 02/01/1998 POR vs. TOR W 43 38 15 25 60.0 1 3 33.3 7 10 70.0 2 3 5 4 1 0 4 3 10
+p376
+aVArvydas Sabonis POR 02/01/1998 POR vs. TOR W 27 10 4 10 40.0 0 0 - 2 4 50.0 2 9 11 5 2 0 3 5 14
+p377
+aVJermaine O'Neal POR 02/01/1998 POR vs. TOR W 2 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -3
+p378
+aVGary Trent POR 02/01/1998 POR vs. TOR W 37 17 6 10 60.0 0 0 - 5 8 62.5 0 8 8 1 1 1 3 6 5
+p379
+aVKenny Anderson POR 02/01/1998 POR vs. TOR W 25 2 1 4 25.0 0 1 0.0 0 3 0.0 2 2 4 6 1 0 3 4 6
+p380
+aVVincent Askew POR 02/01/1998 POR vs. TOR W 24 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 6 0 0 4 3 -5
+p381
+aVKelvin Cato POR 02/01/1998 POR vs. TOR W 8 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -6
+p382
+aVAlvin Williams POR 02/01/1998 POR vs. TOR W 31 13 6 11 54.5 0 0 - 1 2 50.0 0 3 3 2 1 0 3 0 1
+p383
+aVJermaine O'Neal POR 01/29/1998 POR vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p384
+aVArvydas Sabonis POR 01/29/1998 POR vs. CHI L 38 9 3 8 37.5 0 1 0.0 3 3 100.0 0 6 6 3 1 2 6 5 -4
+p385
+aVAlvin Williams POR 01/29/1998 POR vs. CHI L 15 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 2 -9
+p386
+aVKenny Anderson POR 01/29/1998 POR vs. CHI L 36 11 5 12 41.7 1 3 33.3 0 0 - 0 3 3 10 2 0 2 3 -7
+p387
+aVVincent Askew POR 01/29/1998 POR vs. CHI L 31 2 1 4 25.0 0 0 - 0 0 - 2 4 6 1 2 0 0 2 3
+p388
+aVIsaiah Rider POR 01/29/1998 POR vs. CHI L 45 29 11 22 50.0 0 4 0.0 7 7 100.0 3 6 9 7 1 0 1 2 -7
+p389
+aVRasheed Wallace POR 01/29/1998 POR vs. CHI L 40 28 12 18 66.7 1 1 100.0 3 6 50.0 1 4 5 2 1 2 2 2 -3
+p390
+aVGary Trent POR 01/29/1998 POR vs. CHI L 28 8 4 7 57.1 0 0 - 0 3 0.0 3 5 8 1 1 1 3 3 -24
+p391
+aVStacey Augmon POR 01/29/1998 POR vs. CHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p392
+aVAlvin Williams POR 01/27/1998 POR vs. GSW L 9 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 2 1 0
+p393
+aVKenny Anderson POR 01/27/1998 POR vs. GSW L 42 10 5 11 45.5 0 1 0.0 0 0 - 1 3 4 4 1 0 3 1 -6
+p394
+aVVincent Askew POR 01/27/1998 POR vs. GSW L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p395
+aVRasheed Wallace POR 01/27/1998 POR vs. GSW L 42 20 9 18 50.0 0 0 - 2 5 40.0 3 5 8 1 1 1 1 3 0
+p396
+aVGary Trent POR 01/27/1998 POR vs. GSW L 41 20 8 20 40.0 1 1 100.0 3 4 75.0 5 9 14 5 1 0 2 1 -6
+p397
+aVKelvin Cato POR 01/27/1998 POR vs. GSW L 41 10 5 9 55.6 0 0 - 0 2 0.0 3 4 7 0 3 7 1 5 -8
+p398
+aVIsaiah Rider POR 01/27/1998 POR vs. GSW L 42 14 6 20 30.0 0 3 0.0 2 2 100.0 0 4 4 6 0 0 3 0 0
+p399
+aVJermaine O'Neal POR 01/27/1998 POR vs. GSW L 17 4 2 3 66.7 0 0 - 0 1 0.0 0 2 2 0 0 0 1 1 4
+p400
+aVAlton Lister POR 01/24/1998 POR @ ATL W 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 1
+p401
+aVVincent Askew POR 01/24/1998 POR @ ATL W 26 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 1 1 2 2 -5
+p402
+aVJermaine O'Neal POR 01/24/1998 POR @ ATL W 21 7 3 6 50.0 0 0 - 1 2 50.0 0 5 5 1 0 4 0 5 18
+p403
+aVAlvin Williams POR 01/24/1998 POR @ ATL W 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p404
+aVRasheed Wallace POR 01/24/1998 POR @ ATL W 42 18 7 13 53.8 0 1 0.0 4 5 80.0 1 7 8 2 2 0 2 4 9
+p405
+aVKelvin Cato POR 01/24/1998 POR @ ATL W 16 0 0 7 0.0 0 0 - 0 0 - 3 5 8 0 1 1 0 4 4
+p406
+aVGary Trent POR 01/24/1998 POR @ ATL W 32 21 5 11 45.5 0 1 0.0 11 13 84.6 2 9 11 4 1 2 3 2 27
+p407
+aVRick Brunson POR 01/24/1998 POR @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p408
+aVIsaiah Rider POR 01/24/1998 POR @ ATL W 42 28 10 16 62.5 2 5 40.0 6 7 85.7 1 2 3 5 0 0 1 6 6
+p409
+aVKenny Anderson POR 01/24/1998 POR @ ATL W 37 12 6 15 40.0 0 0 - 0 0 - 1 2 3 2 1 0 2 1 17
+p410
+aVArvydas Sabonis POR 01/23/1998 POR @ PHI L 39 30 10 20 50.0 2 2 100.0 8 11 72.7 3 9 12 2 0 3 1 5 -2
+p411
+aVKenny Anderson POR 01/23/1998 POR @ PHI L 39 11 4 12 33.3 0 0 - 3 4 75.0 1 2 3 6 1 0 5 4 -8
+p412
+aVJermaine O'Neal POR 01/23/1998 POR @ PHI L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -8
+p413
+aVIsaiah Rider POR 01/23/1998 POR @ PHI L 40 18 6 15 40.0 1 4 25.0 5 5 100.0 2 1 3 1 0 0 2 4 -11
+p414
+aVGary Trent POR 01/23/1998 POR @ PHI L 35 8 2 9 22.2 0 0 - 4 8 50.0 3 6 9 0 1 2 1 2 -21
+p415
+aVVincent Askew POR 01/23/1998 POR @ PHI L 23 1 0 0 - 0 0 - 1 2 50.0 0 1 1 3 0 0 2 1 4
+p416
+aVRasheed Wallace POR 01/23/1998 POR @ PHI L 35 12 4 7 57.1 0 0 - 4 6 66.7 3 8 11 3 2 2 8 5 4
+p417
+aVAlvin Williams POR 01/23/1998 POR @ PHI L 12 5 2 5 40.0 0 1 0.0 1 1 100.0 0 0 0 1 1 0 1 4 -4
+p418
+aVKelvin Cato POR 01/23/1998 POR @ PHI L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -9
+p419
+aVArvydas Sabonis POR 01/21/1998 POR @ WAS W 29 10 3 14 21.4 0 3 0.0 4 4 100.0 2 7 9 1 0 0 2 1 9
+p420
+aVIsaiah Rider POR 01/21/1998 POR @ WAS W 43 29 10 17 58.8 2 3 66.7 7 7 100.0 0 2 2 5 1 0 2 3 6
+p421
+aVRick Brunson POR 01/21/1998 POR @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p422
+aVKenny Anderson POR 01/21/1998 POR @ WAS W 29 9 4 10 40.0 0 1 0.0 1 1 100.0 0 2 2 8 2 0 3 5 9
+p423
+aVAlvin Williams POR 01/21/1998 POR @ WAS W 29 10 4 8 50.0 0 1 0.0 2 2 100.0 2 1 3 2 3 0 2 1 9
+p424
+aVKelvin Cato POR 01/21/1998 POR @ WAS W 17 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 0 2 0 2 12
+p425
+aVVincent Askew POR 01/21/1998 POR @ WAS W 21 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 3 4 0 2 2 14
+p426
+aVRasheed Wallace POR 01/21/1998 POR @ WAS W 42 22 10 14 71.4 0 0 - 2 3 66.7 2 7 9 2 0 0 2 3 4
+p427
+aVGary Trent POR 01/21/1998 POR @ WAS W 29 12 6 8 75.0 0 0 - 0 0 - 4 4 8 1 1 1 2 1 2
+p428
+aVStacey Augmon POR 01/20/1998 POR @ CLE W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p429
+aVIsaiah Rider POR 01/20/1998 POR @ CLE W 41 24 11 24 45.8 2 6 33.3 0 0 - 0 5 5 3 2 2 3 0 3
+p430
+aVKenny Anderson POR 01/20/1998 POR @ CLE W 43 10 4 12 33.3 2 3 66.7 0 0 - 0 1 1 9 1 0 4 2 -1
+p431
+aVJermaine O'Neal POR 01/20/1998 POR @ CLE W 8 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 2 0 0 1
+p432
+aVKelvin Cato POR 01/20/1998 POR @ CLE W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 2 0 1 1
+p433
+aVAlvin Williams POR 01/20/1998 POR @ CLE W 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 2
+p434
+aVArvydas Sabonis POR 01/20/1998 POR @ CLE W 23 6 2 5 40.0 2 2 100.0 0 0 - 2 3 5 3 3 3 2 4 12
+p435
+aVVincent Askew POR 01/20/1998 POR @ CLE W 29 4 2 5 40.0 0 0 - 0 0 - 2 4 6 5 1 1 1 1 3
+p436
+aVGary Trent POR 01/20/1998 POR @ CLE W 31 15 6 12 50.0 0 0 - 3 3 100.0 1 3 4 2 0 0 2 4 -2
+p437
+aVRasheed Wallace POR 01/20/1998 POR @ CLE W 37 17 8 12 66.7 0 0 - 1 1 100.0 3 2 5 1 1 2 3 4 -2
+p438
+aVKelvin Cato POR 01/18/1998 POR vs. DEN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 4
+p439
+aVKenny Anderson POR 01/18/1998 POR vs. DEN W 39 23 9 16 56.3 0 1 0.0 5 8 62.5 0 1 1 4 1 0 2 3 16
+p440
+aVArvydas Sabonis POR 01/18/1998 POR vs. DEN W 38 14 2 10 20.0 0 2 0.0 10 15 66.7 6 14 20 5 5 1 4 3 10
+p441
+aVRasheed Wallace POR 01/18/1998 POR vs. DEN W 31 14 6 12 50.0 0 0 - 2 3 66.7 2 1 3 5 0 0 2 3 1
+p442
+aVVincent Askew POR 01/18/1998 POR vs. DEN W 18 3 0 2 0.0 0 0 - 3 6 50.0 2 2 4 0 0 0 0 1 17
+p443
+aVJermaine O'Neal POR 01/18/1998 POR vs. DEN W 13 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 3 0 4 -2
+p444
+aVIsaiah Rider POR 01/18/1998 POR vs. DEN W 32 2 1 9 11.1 0 3 0.0 0 0 - 1 5 6 3 0 1 4 3 13
+p445
+aVAlvin Williams POR 01/18/1998 POR vs. DEN W 25 8 2 7 28.6 0 0 - 4 4 100.0 1 3 4 0 0 0 2 1 -5
+p446
+aVGary Trent POR 01/18/1998 POR vs. DEN W 37 27 10 13 76.9 1 2 50.0 6 8 75.0 2 6 8 1 0 1 1 3 6
+p447
+aVVincent Askew POR 01/16/1998 POR vs. UTA W 18 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 0 0 0 1 1 -4
+p448
+aVKenny Anderson POR 01/16/1998 POR vs. UTA W 32 7 1 7 14.3 0 0 - 5 7 71.4 0 3 3 5 1 0 1 1 0
+p449
+aVAlvin Williams POR 01/16/1998 POR vs. UTA W 19 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 3 0 0 1 2 14
+p450
+aVJermaine O'Neal POR 01/16/1998 POR vs. UTA W 16 8 3 6 50.0 0 0 - 2 4 50.0 1 2 3 2 0 0 1 3 10
+p451
+aVKelvin Cato POR 01/16/1998 POR vs. UTA W 17 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 4 -4
+p452
+aVGary Trent POR 01/16/1998 POR vs. UTA W 28 12 4 8 50.0 0 0 - 4 5 80.0 4 7 11 0 1 1 2 4 10
+p453
+aVRasheed Wallace POR 01/16/1998 POR vs. UTA W 42 14 5 11 45.5 0 0 - 4 6 66.7 2 8 10 1 0 1 4 3 17
+p454
+aVArvydas Sabonis POR 01/16/1998 POR vs. UTA W 34 14 5 13 38.5 0 1 0.0 4 4 100.0 2 3 5 1 3 0 2 4 2
+p455
+aVIsaiah Rider POR 01/16/1998 POR vs. UTA W 32 28 10 15 66.7 3 4 75.0 5 5 100.0 1 3 4 4 2 0 5 2 5
+p456
+aVStacey Augmon POR 01/13/1998 POR vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p457
+aVArvydas Sabonis POR 01/13/1998 POR vs. MIA L 30 14 3 4 75.0 0 1 0.0 8 10 80.0 1 8 9 0 0 1 3 5 -6
+p458
+aVAlvin Williams POR 01/13/1998 POR vs. MIA L 8 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -6
+p459
+aVIsaiah Rider POR 01/13/1998 POR vs. MIA L 42 14 6 17 35.3 1 2 50.0 1 2 50.0 3 5 8 4 0 0 2 3 -3
+p460
+aVJermaine O'Neal POR 01/13/1998 POR vs. MIA L 18 0 0 4 0.0 0 0 - 0 2 0.0 3 1 4 1 0 0 1 1 -2
+p461
+aVGary Trent POR 01/13/1998 POR vs. MIA L 27 12 4 12 33.3 0 0 - 4 6 66.7 5 5 10 1 0 0 1 1 -11
+p462
+aVVincent Askew POR 01/13/1998 POR vs. MIA L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p463
+aVRasheed Wallace POR 01/13/1998 POR vs. MIA L 43 17 7 16 43.8 0 0 - 3 5 60.0 1 5 6 2 1 1 5 2 -6
+p464
+aVKenny Anderson POR 01/13/1998 POR vs. MIA L 42 3 1 10 10.0 1 3 33.3 0 0 - 1 4 5 5 2 0 4 3 -6
+p465
+aVKelvin Cato POR 01/13/1998 POR vs. MIA L 18 6 1 1 100.0 0 0 - 4 5 80.0 1 5 6 0 0 1 0 3 -2
+p466
+aVStacey Augmon POR 01/10/1998 POR @ MIL L 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -8
+p467
+aVKenny Anderson POR 01/10/1998 POR @ MIL L 44 31 13 23 56.5 0 0 - 5 5 100.0 3 4 7 6 1 0 5 2 0
+p468
+aVVincent Askew POR 01/10/1998 POR @ MIL L 26 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 2 -1
+p469
+aVRasheed Wallace POR 01/10/1998 POR @ MIL L 44 23 10 16 62.5 0 0 - 3 6 50.0 1 9 10 4 6 2 0 2 -8
+p470
+aVGary Trent POR 01/10/1998 POR @ MIL L 17 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 1 5
+p471
+aVAlvin Williams POR 01/10/1998 POR @ MIL L 20 5 2 5 40.0 0 1 0.0 1 2 50.0 1 0 1 1 0 0 1 0 6
+p472
+aVArvydas Sabonis POR 01/10/1998 POR @ MIL L 40 6 2 11 18.2 0 3 0.0 2 2 100.0 1 9 10 3 2 0 5 4 -5
+p473
+aVIsaiah Rider POR 01/10/1998 POR @ MIL L 42 12 4 17 23.5 1 8 12.5 3 6 50.0 3 1 4 3 0 0 5 3 -16
+p474
+aVKelvin Cato POR 01/10/1998 POR @ MIL L 25 3 1 2 50.0 0 1 0.0 1 2 50.0 3 5 8 0 0 3 1 4 2
+p475
+aVKelvin Cato POR 01/09/1998 POR @ MIN L 12 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 3 1 2 -8
+p476
+aVIsaiah Rider POR 01/09/1998 POR @ MIN L 42 32 12 24 50.0 2 8 25.0 6 6 100.0 3 5 8 5 0 2 2 2 6
+p477
+aVGary Trent POR 01/09/1998 POR @ MIN L 12 0 0 5 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -3
+p478
+aVJermaine O'Neal POR 01/09/1998 POR @ MIN L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 2 -6
+p479
+aVStacey Augmon POR 01/09/1998 POR @ MIN L 23 4 1 7 14.3 0 0 - 2 2 100.0 3 3 6 3 2 1 0 3 -1
+p480
+aVRasheed Wallace POR 01/09/1998 POR @ MIN L 45 17 7 11 63.6 0 0 - 3 4 75.0 2 6 8 3 0 1 0 4 -5
+p481
+aVAlvin Williams POR 01/09/1998 POR @ MIN L 14 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 0 0 0 1 2 -4
+p482
+aVVincent Askew POR 01/09/1998 POR @ MIN L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p483
+aVArvydas Sabonis POR 01/09/1998 POR @ MIN L 36 12 4 10 40.0 0 3 0.0 4 6 66.7 1 9 10 4 0 0 2 6 8
+p484
+aVKenny Anderson POR 01/09/1998 POR @ MIN L 41 14 6 14 42.9 2 4 50.0 0 0 - 0 3 3 10 2 1 3 3 -14
+p485
+aVGary Trent POR 01/07/1998 POR vs. CHH L 39 13 4 12 33.3 0 0 - 5 7 71.4 0 3 3 0 1 0 1 3 -8
+p486
+aVVincent Askew POR 01/07/1998 POR vs. CHH L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -8
+p487
+aVAlvin Williams POR 01/07/1998 POR vs. CHH L 15 7 2 5 40.0 0 0 - 3 5 60.0 0 0 0 3 1 0 0 0 -2
+p488
+aVKenny Anderson POR 01/07/1998 POR vs. CHH L 37 10 4 13 30.8 2 5 40.0 0 0 - 1 2 3 6 1 0 2 0 -1
+p489
+aVArvydas Sabonis POR 01/07/1998 POR vs. CHH L 37 22 8 16 50.0 2 5 40.0 4 7 57.1 3 10 13 4 1 0 3 4 -7
+p490
+aVIsaiah Rider POR 01/07/1998 POR vs. CHH L 35 19 7 14 50.0 1 3 33.3 4 4 100.0 2 4 6 4 2 0 1 4 7
+p491
+aVKelvin Cato POR 01/07/1998 POR vs. CHH L 12 4 0 0 - 0 0 - 4 6 66.7 2 5 7 0 0 1 1 1 6
+p492
+aVRasheed Wallace POR 01/07/1998 POR vs. CHH L 43 14 6 11 54.5 0 1 0.0 2 6 33.3 1 4 5 2 0 1 3 3 0
+p493
+aVStacey Augmon POR 01/07/1998 POR vs. CHH L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 2 2 5
+p494
+aVJermaine O'Neal POR 01/07/1998 POR vs. CHH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p495
+aVAlvin Williams POR 01/05/1998 POR vs. MIL L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -5
+p496
+aVGary Trent POR 01/05/1998 POR vs. MIL L 37 15 7 13 53.8 0 0 - 1 2 50.0 1 7 8 1 0 2 2 3 2
+p497
+aVKelvin Cato POR 01/05/1998 POR vs. MIL L 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 1 2 1 -5
+p498
+aVIsaiah Rider POR 01/05/1998 POR vs. MIL L 43 17 5 16 31.3 1 8 12.5 6 8 75.0 1 5 6 2 1 0 1 2 -9
+p499
+aVKenny Anderson POR 01/05/1998 POR vs. MIL L 35 12 5 11 45.5 1 2 50.0 1 1 100.0 2 2 4 8 0 0 7 0 -3
+p500
+aVRasheed Wallace POR 01/05/1998 POR vs. MIL L 42 12 6 10 60.0 0 2 0.0 0 0 - 2 2 4 4 0 0 2 4 0
+p501
+aVStacey Augmon POR 01/05/1998 POR vs. MIL L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -3
+p502
+aVArvydas Sabonis POR 01/05/1998 POR vs. MIL L 40 32 10 17 58.8 0 2 0.0 12 13 92.3 2 11 13 4 1 1 1 1 -7
+p503
+aVRasheed Wallace POR 01/03/1998 POR @ HOU W 46 20 9 12 75.0 1 1 100.0 1 1 100.0 4 5 9 3 0 0 1 1 9
+p504
+aVKelvin Cato POR 01/03/1998 POR @ HOU W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p505
+aVIsaiah Rider POR 01/03/1998 POR @ HOU W 43 27 11 22 50.0 4 7 57.1 1 1 100.0 2 6 8 2 1 0 1 3 3
+p506
+aVBrian Grant POR 01/03/1998 POR @ HOU W 34 16 6 12 50.0 0 0 - 4 6 66.7 5 6 11 3 1 1 2 4 15
+p507
+aVAlvin Williams POR 01/03/1998 POR @ HOU W 13 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 0 -4
+p508
+aVStacey Augmon POR 01/03/1998 POR @ HOU W 12 2 1 6 16.7 0 0 - 0 2 0.0 2 0 2 0 0 0 0 1 -8
+p509
+aVKenny Anderson POR 01/03/1998 POR @ HOU W 35 7 3 14 21.4 0 2 0.0 1 2 50.0 0 2 2 7 0 0 1 2 6
+p510
+aVArvydas Sabonis POR 01/03/1998 POR @ HOU W 38 16 8 11 72.7 0 1 0.0 0 0 - 3 7 10 4 1 2 4 2 12
+p511
+aVGary Trent POR 01/03/1998 POR @ HOU W 17 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 2 0 0 0 4 -19
+p512
+aVJermaine O'Neal POR 01/02/1998 POR @ SAS L 12 3 1 5 20.0 0 0 - 1 4 25.0 2 2 4 0 1 0 1 1 6
+p513
+aVKelvin Cato POR 01/02/1998 POR @ SAS L 19 5 1 4 25.0 0 0 - 3 4 75.0 1 5 6 1 0 1 0 6 -11
+p514
+aVAlvin Williams POR 01/02/1998 POR @ SAS L 21 5 2 4 50.0 1 1 100.0 0 1 0.0 0 0 0 1 0 0 2 1 6
+p515
+aVStacey Augmon POR 01/02/1998 POR @ SAS L 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -12
+p516
+aVRick Brunson POR 01/02/1998 POR @ SAS L 12 0 0 3 0.0 0 1 0.0 0 2 0.0 1 1 2 3 0 1 0 1 6
+p517
+aVKenny Anderson POR 01/02/1998 POR @ SAS L 33 16 6 12 50.0 1 2 50.0 3 3 100.0 1 1 2 1 4 0 1 0 -16
+p518
+aVArvydas Sabonis POR 01/02/1998 POR @ SAS L 22 4 2 10 20.0 0 1 0.0 0 0 - 0 4 4 0 0 1 0 5 -1
+p519
+aVIsaiah Rider POR 01/02/1998 POR @ SAS L 30 2 1 10 10.0 0 2 0.0 0 0 - 0 2 2 1 1 0 2 1 -28
+p520
+aVVincent Askew POR 01/02/1998 POR @ SAS L 9 3 1 2 50.0 0 0 - 1 3 33.3 0 1 1 1 2 0 0 0 6
+p521
+aVBrian Grant POR 01/02/1998 POR @ SAS L 21 10 3 5 60.0 0 0 - 4 6 66.7 0 8 8 2 0 0 3 5 -10
+p522
+aVRasheed Wallace POR 01/02/1998 POR @ SAS L 29 5 2 8 25.0 1 1 100.0 0 0 - 1 2 3 1 2 0 1 2 -22
+p523
+aVGary Trent POR 01/02/1998 POR @ SAS L 24 16 6 11 54.5 0 0 - 4 5 80.0 1 3 4 0 0 0 2 1 -4
+p524
+aVRasheed Wallace POR 12/30/1997 POR vs. PHI W 36 10 4 8 50.0 0 0 - 2 3 66.7 3 6 9 1 0 1 2 4 7
+p525
+aVKelvin Cato POR 12/30/1997 POR vs. PHI W 32 14 3 4 75.0 0 0 - 8 8 100.0 2 7 9 1 1 7 2 4 2
+p526
+aVIsaiah Rider POR 12/30/1997 POR vs. PHI W 28 10 4 12 33.3 1 5 20.0 1 1 100.0 0 3 3 4 1 1 3 1 7
+p527
+aVStacey Augmon POR 12/30/1997 POR vs. PHI W 28 7 3 8 37.5 0 0 - 1 2 50.0 0 0 0 1 1 1 0 1 1
+p528
+aVKenny Anderson POR 12/30/1997 POR vs. PHI W 28 11 4 11 36.4 1 2 50.0 2 2 100.0 1 1 2 6 0 0 2 3 4
+p529
+aVRick Brunson POR 12/30/1997 POR vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p530
+aVGary Trent POR 12/30/1997 POR vs. PHI W 22 11 5 13 38.5 0 0 - 1 4 25.0 1 4 5 3 3 0 0 4 11
+p531
+aVAlvin Williams POR 12/30/1997 POR vs. PHI W 31 13 5 11 45.5 0 0 - 3 4 75.0 3 4 7 3 1 0 3 3 11
+p532
+aVBrian Grant POR 12/30/1997 POR vs. PHI W 34 20 8 12 66.7 0 0 - 4 6 66.7 7 4 11 1 0 2 1 0 7
+p533
+aVIsaiah Rider POR 12/28/1997 POR vs. SAS W 39 14 5 14 35.7 1 5 20.0 3 3 100.0 0 2 2 4 1 0 1 2 1
+p534
+aVKelvin Cato POR 12/28/1997 POR vs. SAS W 18 3 1 2 50.0 0 0 - 1 3 33.3 0 3 3 0 1 2 1 4 2
+p535
+aVAlvin Williams POR 12/28/1997 POR vs. SAS W 18 7 2 6 33.3 2 2 100.0 1 2 50.0 1 2 3 1 0 1 1 0 9
+p536
+aVStacey Augmon POR 12/28/1997 POR vs. SAS W 37 10 5 9 55.6 0 0 - 0 0 - 3 7 10 0 1 1 1 1 7
+p537
+aVKenny Anderson POR 12/28/1997 POR vs. SAS W 37 12 6 18 33.3 0 3 0.0 0 0 - 0 5 5 6 1 0 3 4 -3
+p538
+aVGary Trent POR 12/28/1997 POR vs. SAS W 13 9 3 3 100.0 0 0 - 3 4 75.0 1 2 3 0 0 0 1 1 1
+p539
+aVRasheed Wallace POR 12/28/1997 POR vs. SAS W 40 14 7 14 50.0 0 0 - 0 2 0.0 4 5 9 0 0 3 4 4 -3
+p540
+aVArvydas Sabonis POR 12/28/1997 POR vs. SAS W 34 13 2 10 20.0 0 2 0.0 9 11 81.8 2 9 11 0 3 0 1 5 4
+p541
+aVRick Brunson POR 12/28/1997 POR vs. SAS W 4 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -3
+p542
+aVStacey Augmon POR 12/27/1997 POR @ UTA W 20 7 2 3 66.7 0 0 - 3 4 75.0 2 2 4 0 0 1 1 3 5
+p543
+aVRasheed Wallace POR 12/27/1997 POR @ UTA W 42 16 6 12 50.0 0 1 0.0 4 4 100.0 1 7 8 4 2 0 0 1 9
+p544
+aVIsaiah Rider POR 12/27/1997 POR @ UTA W 31 19 7 14 50.0 3 5 60.0 2 4 50.0 2 6 8 5 0 0 4 4 9
+p545
+aVRick Brunson POR 12/27/1997 POR @ UTA W 11 5 2 4 50.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 2 -1
+p546
+aVAlvin Williams POR 12/27/1997 POR @ UTA W 17 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 0 0 1 0 1 2
+p547
+aVKelvin Cato POR 12/27/1997 POR @ UTA W 14 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 4 1 4 2
+p548
+aVGary Trent POR 12/27/1997 POR @ UTA W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p549
+aVArvydas Sabonis POR 12/27/1997 POR @ UTA W 33 25 8 14 57.1 0 2 0.0 9 9 100.0 2 9 11 2 0 1 4 4 5
+p550
+aVBrian Grant POR 12/27/1997 POR @ UTA W 29 13 4 7 57.1 0 0 - 5 5 100.0 2 5 7 2 3 1 5 5 10
+p551
+aVKenny Anderson POR 12/27/1997 POR @ UTA W 37 11 3 11 27.3 0 2 0.0 5 6 83.3 0 3 3 4 0 0 0 2 12
+p552
+aVAlvin Williams POR 12/23/1997 POR vs. SAC W 23 6 3 3 100.0 0 0 - 0 0 - 0 0 0 2 2 0 2 2 4
+p553
+aVRasheed Wallace POR 12/23/1997 POR vs. SAC W 43 10 5 11 45.5 0 0 - 0 2 0.0 5 4 9 4 0 4 2 1 19
+p554
+aVBrian Grant POR 12/23/1997 POR vs. SAC W 39 17 7 14 50.0 0 0 - 3 4 75.0 5 7 12 2 1 0 3 2 13
+p555
+aVGary Trent POR 12/23/1997 POR vs. SAC W 21 14 3 8 37.5 0 0 - 8 9 88.9 2 4 6 2 0 0 2 2 0
+p556
+aVStacey Augmon POR 12/23/1997 POR vs. SAC W 12 1 0 4 0.0 0 0 - 1 2 50.0 2 3 5 2 0 0 1 1 2
+p557
+aVKenny Anderson POR 12/23/1997 POR vs. SAC W 29 17 5 8 62.5 1 3 33.3 6 6 100.0 2 1 3 1 1 0 2 1 9
+p558
+aVIsaiah Rider POR 12/23/1997 POR vs. SAC W 34 9 4 12 33.3 1 4 25.0 0 0 - 0 3 3 1 0 0 7 3 3
+p559
+aVAlton Lister POR 12/23/1997 POR vs. SAC W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -3
+p560
+aVArvydas Sabonis POR 12/23/1997 POR vs. SAC W 33 19 6 17 35.3 0 3 0.0 7 9 77.8 3 9 12 1 1 0 0 4 8
+p561
+aVStacey Augmon POR 12/21/1997 POR @ VAN L 20 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 0 0 3 2 2 -21
+p562
+aVIsaiah Rider POR 12/21/1997 POR @ VAN L 41 19 7 21 33.3 2 8 25.0 3 3 100.0 2 5 7 4 2 1 4 3 2
+p563
+aVDontonio Wingfield POR 12/21/1997 POR @ VAN L 6 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 2 -1
+p564
+aVGary Trent POR 12/21/1997 POR @ VAN L 19 6 3 6 50.0 0 1 0.0 0 1 0.0 2 5 7 1 1 0 4 4 -7
+p565
+aVArvydas Sabonis POR 12/21/1997 POR @ VAN L 30 18 5 11 45.5 2 3 66.7 6 8 75.0 1 6 7 6 2 3 1 4 9
+p566
+aVAlvin Williams POR 12/21/1997 POR @ VAN L 37 12 6 8 75.0 0 1 0.0 0 0 - 0 3 3 5 2 0 3 3 8
+p567
+aVAlton Lister POR 12/21/1997 POR @ VAN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -1
+p568
+aVRick Brunson POR 12/21/1997 POR @ VAN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p569
+aVBrian Grant POR 12/21/1997 POR @ VAN L 33 12 5 9 55.6 0 0 - 2 2 100.0 3 6 9 2 0 0 1 2 4
+p570
+aVKenny Anderson POR 12/21/1997 POR @ VAN L 6 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p571
+aVRasheed Wallace POR 12/21/1997 POR @ VAN L 39 14 6 11 54.5 0 0 - 2 4 50.0 1 5 6 2 4 2 0 6 6
+p572
+aVBrian Grant POR 12/19/1997 POR vs. VAN W 39 19 6 13 46.2 0 0 - 7 7 100.0 4 10 14 1 4 1 3 3 9
+p573
+aVArvydas Sabonis POR 12/19/1997 POR vs. VAN W 32 9 3 10 30.0 0 2 0.0 3 7 42.9 1 8 9 1 1 3 3 4 -7
+p574
+aVGary Trent POR 12/19/1997 POR vs. VAN W 23 7 1 5 20.0 0 0 - 5 9 55.6 0 1 1 2 1 0 1 3 5
+p575
+aVAlvin Williams POR 12/19/1997 POR vs. VAN W 39 11 4 8 50.0 0 0 - 3 4 75.0 0 1 1 8 2 0 3 4 -3
+p576
+aVJermaine O'Neal POR 12/19/1997 POR vs. VAN W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -1
+p577
+aVRick Brunson POR 12/19/1997 POR vs. VAN W 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 4 8
+p578
+aVRasheed Wallace POR 12/19/1997 POR vs. VAN W 38 14 6 9 66.7 0 0 - 2 4 50.0 3 6 9 3 1 3 0 4 -7
+p579
+aVStacey Augmon POR 12/19/1997 POR vs. VAN W 16 5 2 5 40.0 0 0 - 1 4 25.0 5 0 5 1 1 0 1 2 16
+p580
+aVIsaiah Rider POR 12/19/1997 POR vs. VAN W 41 31 10 20 50.0 5 9 55.6 6 7 85.7 0 5 5 4 0 0 3 4 5
+p581
+aVRick Brunson POR 12/16/1997 POR @ SAC L 7 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 0 0
+p582
+aVGary Trent POR 12/16/1997 POR @ SAC L 25 10 5 11 45.5 0 0 - 0 0 - 5 1 6 1 1 0 2 5 -5
+p583
+aVAlvin Williams POR 12/16/1997 POR @ SAC L 24 12 4 10 40.0 0 2 0.0 4 5 80.0 2 1 3 2 0 0 0 3 0
+p584
+aVIsaiah Rider POR 12/16/1997 POR @ SAC L 41 21 8 17 47.1 3 8 37.5 2 4 50.0 0 5 5 2 0 1 2 3 -7
+p585
+aVRasheed Wallace POR 12/16/1997 POR @ SAC L 31 7 3 9 33.3 0 0 - 1 2 50.0 0 6 6 2 0 1 0 6 0
+p586
+aVArvydas Sabonis POR 12/16/1997 POR @ SAC L 36 23 8 14 57.1 1 2 50.0 6 7 85.7 2 6 8 3 0 1 3 4 -6
+p587
+aVKenny Anderson POR 12/16/1997 POR @ SAC L 24 2 1 9 11.1 0 4 0.0 0 0 - 0 0 0 7 2 0 2 1 -7
+p588
+aVStacey Augmon POR 12/16/1997 POR @ SAC L 21 4 1 2 50.0 0 0 - 2 3 66.7 1 1 2 1 0 1 2 3 -5
+p589
+aVKelvin Cato POR 12/16/1997 POR @ SAC L 18 5 1 2 50.0 0 0 - 3 3 100.0 2 2 4 1 0 0 0 2 -3
+p590
+aVJermaine O'Neal POR 12/16/1997 POR @ SAC L 12 3 1 5 20.0 0 0 - 1 2 50.0 2 3 5 0 0 1 2 0 -2
+p591
+aVArvydas Sabonis POR 12/15/1997 POR vs. ATL L 33 14 5 7 71.4 1 2 50.0 3 4 75.0 0 5 5 1 1 0 3 3 -16
+p592
+aVKenny Anderson POR 12/15/1997 POR vs. ATL L 36 20 7 16 43.8 0 2 0.0 6 6 100.0 0 5 5 3 0 0 0 1 -5
+p593
+aVRasheed Wallace POR 12/15/1997 POR vs. ATL L 34 16 7 10 70.0 0 0 - 2 4 50.0 1 1 2 0 1 1 4 5 -6
+p594
+aVAlvin Williams POR 12/15/1997 POR vs. ATL L 13 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 3 1 -7
+p595
+aVGary Trent POR 12/15/1997 POR vs. ATL L 24 11 5 10 50.0 1 1 100.0 0 0 - 3 5 8 2 0 1 1 5 -9
+p596
+aVBrian Grant POR 12/15/1997 POR vs. ATL L 30 10 4 6 66.7 0 0 - 2 2 100.0 3 3 6 1 0 0 0 3 1
+p597
+aVStacey Augmon POR 12/15/1997 POR vs. ATL L 15 4 1 2 50.0 0 0 - 2 4 50.0 2 0 2 2 1 0 0 1 -8
+p598
+aVKelvin Cato POR 12/15/1997 POR vs. ATL L 13 3 1 4 25.0 0 0 - 1 2 50.0 1 5 6 0 0 0 1 1 3
+p599
+aVIsaiah Rider POR 12/15/1997 POR vs. ATL L 37 10 4 14 28.6 2 9 22.2 0 1 0.0 0 3 3 5 0 0 1 2 -6
+p600
+aVRick Brunson POR 12/15/1997 POR vs. ATL L 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 3 1 0 0 0 8
+p601
+aVKelvin Cato POR 12/12/1997 POR @ SEA L 23 13 4 6 66.7 0 0 - 5 7 71.4 0 6 6 1 1 2 0 4 12
+p602
+aVRasheed Wallace POR 12/12/1997 POR @ SEA L 42 15 7 11 63.6 0 0 - 1 2 50.0 3 6 9 5 3 3 3 2 -13
+p603
+aVRick Brunson POR 12/12/1997 POR @ SEA L 7 1 0 0 - 0 0 - 1 1 100.0 0 0 0 3 0 0 3 1 6
+p604
+aVGary Trent POR 12/12/1997 POR @ SEA L 11 5 1 4 25.0 0 1 0.0 3 4 75.0 0 2 2 0 0 0 1 0 -15
+p605
+aVStacey Augmon POR 12/12/1997 POR @ SEA L 20 5 2 7 28.6 0 0 - 1 1 100.0 3 0 3 2 0 0 1 3 -12
+p606
+aVKenny Anderson POR 12/12/1997 POR @ SEA L 35 17 5 15 33.3 2 6 33.3 5 6 83.3 0 0 0 1 1 0 2 4 -13
+p607
+aVAlvin Williams POR 12/12/1997 POR @ SEA L 24 6 3 5 60.0 0 0 - 0 0 - 0 2 2 3 1 0 0 2 -5
+p608
+aVArvydas Sabonis POR 12/12/1997 POR @ SEA L 28 15 6 7 85.7 0 0 - 3 4 75.0 3 6 9 2 2 0 7 4 9
+p609
+aVIsaiah Rider POR 12/12/1997 POR @ SEA L 41 21 7 17 41.2 5 10 50.0 2 3 66.7 0 5 5 4 0 1 1 5 -10
+p610
+aVBrian Grant POR 12/12/1997 POR @ SEA L 10 0 0 5 0.0 0 0 - 0 2 0.0 3 2 5 0 0 0 0 2 -24
+p611
+aVJermaine O'Neal POR 12/10/1997 POR vs. IND W 21 8 4 8 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 3 19
+p612
+aVKelvin Cato POR 12/10/1997 POR vs. IND W 9 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 2 2 -9
+p613
+aVStacey Augmon POR 12/10/1997 POR vs. IND W 34 9 2 5 40.0 1 2 50.0 4 4 100.0 3 5 8 0 0 2 2 4 -5
+p614
+aVRick Brunson POR 12/10/1997 POR vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p615
+aVGary Trent POR 12/10/1997 POR vs. IND W 29 13 5 7 71.4 0 0 - 3 4 75.0 3 4 7 3 0 1 4 2 -2
+p616
+aVKenny Anderson POR 12/10/1997 POR vs. IND W 31 12 4 9 44.4 1 4 25.0 3 6 50.0 0 2 2 6 1 0 1 3 8
+p617
+aVArvydas Sabonis POR 12/10/1997 POR vs. IND W 25 14 5 11 45.5 2 3 66.7 2 2 100.0 0 5 5 2 0 1 1 5 7
+p618
+aVAlvin Williams POR 12/10/1997 POR vs. IND W 22 8 2 4 50.0 1 1 100.0 3 4 75.0 0 0 0 1 1 0 0 2 -3
+p619
+aVRasheed Wallace POR 12/10/1997 POR vs. IND W 24 14 6 8 75.0 0 0 - 2 2 100.0 2 3 5 1 1 1 3 4 10
+p620
+aVIsaiah Rider POR 12/10/1997 POR vs. IND W 44 15 5 15 33.3 1 3 33.3 4 4 100.0 1 5 6 5 1 0 3 2 14
+p621
+aVRick Brunson POR 12/08/1997 POR vs. LAL W 18 11 2 3 66.7 2 2 100.0 5 6 83.3 0 3 3 2 0 1 1 3 4
+p622
+aVArvydas Sabonis POR 12/08/1997 POR vs. LAL W 17 4 2 7 28.6 0 0 - 0 0 - 0 7 7 2 1 0 3 4 -5
+p623
+aVAlvin Williams POR 12/08/1997 POR vs. LAL W 40 16 7 10 70.0 0 0 - 2 4 50.0 0 0 0 3 1 0 1 1 1
+p624
+aVGary Trent POR 12/08/1997 POR vs. LAL W 23 15 6 11 54.5 0 0 - 3 3 100.0 1 3 4 4 0 1 2 3 7
+p625
+aVIsaiah Rider POR 12/08/1997 POR vs. LAL W 43 26 10 19 52.6 4 6 66.7 2 3 66.7 1 6 7 5 0 1 4 2 5
+p626
+aVRasheed Wallace POR 12/08/1997 POR vs. LAL W 42 18 7 14 50.0 0 0 - 4 5 80.0 2 7 9 5 3 3 4 1 11
+p627
+aVBrian Grant POR 12/08/1997 POR vs. LAL W 35 9 4 7 57.1 0 0 - 1 4 25.0 3 6 9 0 0 0 1 5 -5
+p628
+aVKelvin Cato POR 12/08/1997 POR vs. LAL W 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 2
+p629
+aVStacey Augmon POR 12/08/1997 POR vs. LAL W 15 6 2 6 33.3 0 0 - 2 3 66.7 3 0 3 2 1 0 0 1 10
+p630
+aVRasheed Wallace POR 12/05/1997 POR vs. UTA W 38 11 3 9 33.3 0 0 - 5 6 83.3 1 6 7 3 0 0 0 5 4
+p631
+aVIsaiah Rider POR 12/05/1997 POR vs. UTA W 28 9 4 16 25.0 1 5 20.0 0 0 - 0 0 0 4 2 0 3 1 4
+p632
+aVAlvin Williams POR 12/05/1997 POR vs. UTA W 33 13 6 9 66.7 0 0 - 1 3 33.3 1 3 4 3 1 0 2 2 11
+p633
+aVStacey Augmon POR 12/05/1997 POR vs. UTA W 24 4 2 3 66.7 0 0 - 0 2 0.0 0 4 4 2 1 0 1 2 13
+p634
+aVRick Brunson POR 12/05/1997 POR vs. UTA W 19 10 3 3 100.0 1 1 100.0 3 3 100.0 0 2 2 0 0 0 1 3 11
+p635
+aVBrian Grant POR 12/05/1997 POR vs. UTA W 33 15 5 10 50.0 0 0 - 5 6 83.3 5 4 9 2 1 0 1 6 19
+p636
+aVArvydas Sabonis POR 12/05/1997 POR vs. UTA W 25 13 4 8 50.0 1 3 33.3 4 4 100.0 0 5 5 4 1 0 3 2 2
+p637
+aVKelvin Cato POR 12/05/1997 POR vs. UTA W 19 9 3 5 60.0 0 0 - 3 3 100.0 4 2 6 0 0 8 1 1 13
+p638
+aVGary Trent POR 12/05/1997 POR vs. UTA W 20 10 3 6 50.0 0 0 - 4 4 100.0 1 1 2 2 2 0 3 2 8
+p639
+aVArvydas Sabonis POR 12/02/1997 POR vs. ORL L 34 9 4 9 44.4 0 1 0.0 1 2 50.0 3 7 10 1 2 3 3 6 -8
+p640
+aVAlvin Williams POR 12/02/1997 POR vs. ORL L 40 14 6 11 54.5 0 0 - 2 4 50.0 0 1 1 9 1 0 3 1 4
+p641
+aVIsaiah Rider POR 12/02/1997 POR vs. ORL L 40 33 12 20 60.0 5 8 62.5 4 6 66.7 0 3 3 1 2 0 3 2 -2
+p642
+aVGary Trent POR 12/02/1997 POR vs. ORL L 17 4 2 6 33.3 0 0 - 0 0 - 1 0 1 0 0 0 3 3 -14
+p643
+aVKelvin Cato POR 12/02/1997 POR vs. ORL L 7 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 3
+p644
+aVRick Brunson POR 12/02/1997 POR vs. ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p645
+aVKenny Anderson POR 12/02/1997 POR vs. ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p646
+aVBrian Grant POR 12/02/1997 POR vs. ORL L 33 13 5 8 62.5 0 0 - 3 4 75.0 3 5 8 1 2 1 0 4 -1
+p647
+aVRasheed Wallace POR 12/02/1997 POR vs. ORL L 43 5 2 8 25.0 0 0 - 1 2 50.0 0 9 9 5 0 4 4 4 11
+p648
+aVStacey Augmon POR 12/02/1997 POR vs. ORL L 18 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 2 0 0 1 1 7
+p649
+aVStacey Augmon POR 11/28/1997 POR vs. HOU L 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -3
+p650
+aVGary Trent POR 11/28/1997 POR vs. HOU L 23 14 6 7 85.7 0 0 - 2 4 50.0 3 5 8 0 1 1 1 5 -14
+p651
+aVRasheed Wallace POR 11/28/1997 POR vs. HOU L 38 10 4 9 44.4 0 1 0.0 2 2 100.0 1 1 2 0 2 0 2 1 -1
+p652
+aVArvydas Sabonis POR 11/28/1997 POR vs. HOU L 31 10 3 10 30.0 0 3 0.0 4 6 66.7 2 11 13 5 1 1 3 2 5
+p653
+aVKelvin Cato POR 11/28/1997 POR vs. HOU L 8 10 4 4 100.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 4 -1
+p654
+aVAlvin Williams POR 11/28/1997 POR vs. HOU L 26 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 3 1 0 3 2 -14
+p655
+aVBrian Grant POR 11/28/1997 POR vs. HOU L 35 15 5 7 71.4 0 0 - 5 6 83.3 2 8 10 4 1 0 2 1 -5
+p656
+aVIsaiah Rider POR 11/28/1997 POR vs. HOU L 37 20 6 15 40.0 2 6 33.3 6 7 85.7 1 5 6 5 0 0 5 3 -7
+p657
+aVKenny Anderson POR 11/28/1997 POR vs. HOU L 27 2 1 9 11.1 0 6 0.0 0 0 - 0 0 0 4 0 0 3 3 -5
+p658
+aVArvydas Sabonis POR 11/26/1997 POR @ MIN W 25 13 4 10 40.0 2 3 66.7 3 4 75.0 0 9 9 2 0 2 5 6 13
+p659
+aVStacey Augmon POR 11/26/1997 POR @ MIN W 34 12 4 12 33.3 0 0 - 4 5 80.0 0 4 4 1 2 1 5 3 -2
+p660
+aVAlvin Williams POR 11/26/1997 POR @ MIN W 28 12 4 8 50.0 0 1 0.0 4 4 100.0 1 1 2 6 2 0 2 3 6
+p661
+aVDontonio Wingfield POR 11/26/1997 POR @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p662
+aVRasheed Wallace POR 11/26/1997 POR @ MIN W 40 16 5 11 45.5 1 1 100.0 5 6 83.3 1 4 5 2 1 2 0 3 -1
+p663
+aVKenny Anderson POR 11/26/1997 POR @ MIN W 18 6 3 6 50.0 0 2 0.0 0 0 - 1 1 2 4 0 0 0 0 14
+p664
+aVJermaine O'Neal POR 11/26/1997 POR @ MIN W 7 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -1
+p665
+aVKelvin Cato POR 11/26/1997 POR @ MIN W 16 7 3 5 60.0 0 1 0.0 1 2 50.0 2 2 4 0 2 1 2 3 -4
+p666
+aVGary Trent POR 11/26/1997 POR @ MIN W 25 14 6 12 50.0 0 0 - 2 4 50.0 4 3 7 0 2 0 2 5 -2
+p667
+aVBrian Grant POR 11/26/1997 POR @ MIN W 26 10 4 7 57.1 0 0 - 2 5 40.0 3 4 7 1 0 1 1 6 13
+p668
+aVJohn Crotty POR 11/26/1997 POR @ MIN W 19 2 1 8 12.5 0 2 0.0 0 0 - 0 3 3 4 0 1 1 4 -3
+p669
+aVJermaine O'Neal POR 11/24/1997 POR @ TOR W 8 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 1 0 0 1 1 -3
+p670
+aVStacey Augmon POR 11/24/1997 POR @ TOR W 24 10 5 9 55.6 0 0 - 0 2 0.0 0 2 2 4 1 0 0 2 -8
+p671
+aVBrian Grant POR 11/24/1997 POR @ TOR W 33 15 6 9 66.7 0 0 - 3 4 75.0 2 5 7 2 0 2 3 4 -1
+p672
+aVGary Trent POR 11/24/1997 POR @ TOR W 24 14 7 11 63.6 0 0 - 0 0 - 1 3 4 2 0 0 2 3 1
+p673
+aVKelvin Cato POR 11/24/1997 POR @ TOR W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -4
+p674
+aVJohn Crotty POR 11/24/1997 POR @ TOR W 17 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 4 3
+p675
+aVArvydas Sabonis POR 11/24/1997 POR @ TOR W 30 12 3 18 16.7 0 2 0.0 6 8 75.0 7 9 16 8 0 0 1 3 6
+p676
+aVKenny Anderson POR 11/24/1997 POR @ TOR W 33 11 5 11 45.5 1 4 25.0 0 0 - 0 3 3 6 1 0 4 2 0
+p677
+aVAlvin Williams POR 11/24/1997 POR @ TOR W 22 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 1 0 0 0 5
+p678
+aVRasheed Wallace POR 11/24/1997 POR @ TOR W 42 16 6 13 46.2 0 0 - 4 4 100.0 4 1 5 3 1 3 4 3 6
+p679
+aVKelvin Cato POR 11/22/1997 POR @ NJN L 10 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 1
+p680
+aVGary Trent POR 11/22/1997 POR @ NJN L 16 5 1 7 14.3 0 0 - 3 4 75.0 3 4 7 0 0 0 2 3 -2
+p681
+aVBrian Grant POR 11/22/1997 POR @ NJN L 35 8 3 3 100.0 0 0 - 2 2 100.0 0 8 8 4 2 4 4 1 -9
+p682
+aVJohn Crotty POR 11/22/1997 POR @ NJN L 19 5 2 6 33.3 0 2 0.0 1 1 100.0 0 1 1 2 0 0 2 3 6
+p683
+aVRasheed Wallace POR 11/22/1997 POR @ NJN L 34 12 6 9 66.7 0 1 0.0 0 0 - 0 7 7 4 0 0 2 5 9
+p684
+aVArvydas Sabonis POR 11/22/1997 POR @ NJN L 38 19 7 17 41.2 1 4 25.0 4 5 80.0 5 8 13 3 0 5 5 5 -7
+p685
+aVAlvin Williams POR 11/22/1997 POR @ NJN L 13 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 1 2 -7
+p686
+aVStacey Augmon POR 11/22/1997 POR @ NJN L 28 16 4 5 80.0 0 0 - 8 10 80.0 2 3 5 0 1 2 2 3 -8
+p687
+aVKenny Anderson POR 11/22/1997 POR @ NJN L 41 20 9 21 42.9 2 6 33.3 0 3 0.0 3 2 5 5 1 0 7 4 -12
+p688
+aVJermaine O'Neal POR 11/22/1997 POR @ NJN L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 1 -1
+p689
+aVKenny Anderson POR 11/20/1997 POR @ DET W 29 17 7 10 70.0 2 2 100.0 1 1 100.0 1 4 5 5 1 0 5 3 -2
+p690
+aVIsaiah Rider POR 11/20/1997 POR @ DET W 43 28 8 19 42.1 4 10 40.0 8 8 100.0 2 1 3 2 0 0 4 3 0
+p691
+aVBrian Grant POR 11/20/1997 POR @ DET W 32 12 4 10 40.0 0 0 - 4 5 80.0 2 8 10 1 1 0 2 3 15
+p692
+aVDontonio Wingfield POR 11/20/1997 POR @ DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p693
+aVJohn Crotty POR 11/20/1997 POR @ DET W 19 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 7 1 0 1 0 8
+p694
+aVRasheed Wallace POR 11/20/1997 POR @ DET W 25 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 5 14
+p695
+aVGary Trent POR 11/20/1997 POR @ DET W 16 7 3 4 75.0 0 0 - 1 2 50.0 0 3 3 0 1 0 2 4 -9
+p696
+aVStacey Augmon POR 11/20/1997 POR @ DET W 28 4 2 4 50.0 0 1 0.0 0 0 - 2 3 5 2 0 1 3 0 -2
+p697
+aVAlvin Williams POR 11/20/1997 POR @ DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p698
+aVKelvin Cato POR 11/20/1997 POR @ DET W 13 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 0 0 2 1 1 6
+p699
+aVArvydas Sabonis POR 11/20/1997 POR @ DET W 35 13 5 13 38.5 1 2 50.0 2 4 50.0 3 11 14 0 2 1 3 4 0
+p700
+aVJermaine O'Neal POR 11/19/1997 POR @ CHH L 13 5 1 2 50.0 0 1 0.0 3 4 75.0 1 1 2 0 0 1 2 1 7
+p701
+aVStacey Augmon POR 11/19/1997 POR @ CHH L 25 8 4 8 50.0 0 0 - 0 0 - 0 3 3 3 0 1 1 1 -7
+p702
+aVGary Trent POR 11/19/1997 POR @ CHH L 18 4 2 4 50.0 0 0 - 0 2 0.0 1 4 5 0 0 0 1 4 -15
+p703
+aVAlvin Williams POR 11/19/1997 POR @ CHH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p704
+aVBrian Grant POR 11/19/1997 POR @ CHH L 24 12 5 6 83.3 0 0 - 2 2 100.0 1 2 3 0 1 0 1 6 -6
+p705
+aVArvydas Sabonis POR 11/19/1997 POR @ CHH L 34 18 7 11 63.6 1 3 33.3 3 4 75.0 0 8 8 5 0 2 4 4 -6
+p706
+aVJohn Crotty POR 11/19/1997 POR @ CHH L 17 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 3 0 0 3 0 5
+p707
+aVKenny Anderson POR 11/19/1997 POR @ CHH L 31 5 2 13 15.4 0 3 0.0 1 2 50.0 0 1 1 10 1 0 0 2 -19
+p708
+aVKelvin Cato POR 11/19/1997 POR @ CHH L 6 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -9
+p709
+aVRasheed Wallace POR 11/19/1997 POR @ CHH L 31 18 6 10 60.0 0 0 - 6 7 85.7 1 2 3 2 1 1 2 4 0
+p710
+aVIsaiah Rider POR 11/19/1997 POR @ CHH L 38 18 8 18 44.4 2 6 33.3 0 0 - 2 1 3 1 1 1 3 4 -18
+p711
+aVBrian Grant POR 11/17/1997 POR vs. DAL W 24 4 2 7 28.6 0 0 - 0 0 - 6 7 13 0 2 1 0 2 28
+p712
+aVJohn Crotty POR 11/17/1997 POR vs. DAL W 20 10 5 9 55.6 0 0 - 0 0 - 0 2 2 7 1 0 1 0 16
+p713
+aVJermaine O'Neal POR 11/17/1997 POR vs. DAL W 22 11 5 7 71.4 0 0 - 1 4 25.0 1 5 6 0 1 2 1 1 16
+p714
+aVKelvin Cato POR 11/17/1997 POR vs. DAL W 19 11 4 5 80.0 0 0 - 3 4 75.0 1 5 6 3 1 0 1 3 24
+p715
+aVStacey Augmon POR 11/17/1997 POR vs. DAL W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -1
+p716
+aVRasheed Wallace POR 11/17/1997 POR vs. DAL W 29 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 4 1 0 1 1 22
+p717
+aVArvydas Sabonis POR 11/17/1997 POR vs. DAL W 25 24 11 12 91.7 1 1 100.0 1 3 33.3 3 9 12 2 1 1 2 3 19
+p718
+aVKenny Anderson POR 11/17/1997 POR vs. DAL W 28 10 3 9 33.3 2 4 50.0 2 2 100.0 1 1 2 6 4 0 2 1 29
+p719
+aVIsaiah Rider POR 11/17/1997 POR vs. DAL W 28 19 7 19 36.8 3 8 37.5 2 2 100.0 1 3 4 7 1 1 2 1 33
+p720
+aVGary Trent POR 11/17/1997 POR vs. DAL W 25 16 7 12 58.3 1 1 100.0 1 2 50.0 4 2 6 4 1 1 1 4 26
+p721
+aVAlvin Williams POR 11/17/1997 POR vs. DAL W 13 6 3 6 50.0 0 0 - 0 0 - 1 3 4 3 0 0 0 1 13
+p722
+aVRasheed Wallace POR 11/15/1997 POR @ GSW W 33 14 6 13 46.2 0 1 0.0 2 2 100.0 2 6 8 3 0 1 1 4 9
+p723
+aVStacey Augmon POR 11/15/1997 POR @ GSW W 15 5 1 3 33.3 0 0 - 3 4 75.0 1 2 3 1 3 0 0 3 3
+p724
+aVIsaiah Rider POR 11/15/1997 POR @ GSW W 33 19 7 17 41.2 2 5 40.0 3 3 100.0 4 5 9 2 0 0 4 4 10
+p725
+aVGary Trent POR 11/15/1997 POR @ GSW W 26 16 7 9 77.8 0 0 - 2 3 66.7 1 1 2 0 2 0 1 3 10
+p726
+aVKenny Anderson POR 11/15/1997 POR @ GSW W 36 13 4 12 33.3 3 6 50.0 2 3 66.7 3 7 10 6 2 0 1 0 9
+p727
+aVJohn Crotty POR 11/15/1997 POR @ GSW W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 2 1 4
+p728
+aVArvydas Sabonis POR 11/15/1997 POR @ GSW W 24 14 4 14 28.6 0 3 0.0 6 6 100.0 3 9 12 1 0 2 4 4 14
+p729
+aVKelvin Cato POR 11/15/1997 POR @ GSW W 14 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 0 0 1 0 1 3
+p730
+aVBrian Grant POR 11/15/1997 POR @ GSW W 30 8 3 9 33.3 0 0 - 2 4 50.0 3 5 8 1 0 2 1 3 0
+p731
+aVJermaine O'Neal POR 11/15/1997 POR @ GSW W 16 6 3 3 100.0 0 0 - 0 2 0.0 0 1 1 0 0 1 2 1 -2
+p732
+aVVincent Askew POR 11/14/1997 POR vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p733
+aVBrian Grant POR 11/14/1997 POR vs. PHX L 61 34 13 19 68.4 0 0 - 8 10 80.0 11 6 17 5 2 1 3 3 9
+p734
+aVJohn Crotty POR 11/14/1997 POR vs. PHX L 31 9 1 7 14.3 1 1 100.0 6 6 100.0 2 2 4 5 2 0 1 3 -12
+p735
+aVStacey Augmon POR 11/14/1997 POR vs. PHX L 32 6 2 7 28.6 0 0 - 2 6 33.3 3 3 6 0 1 1 1 3 -17
+p736
+aVArvydas Sabonis POR 11/14/1997 POR vs. PHX L 50 31 10 16 62.5 2 3 66.7 9 13 69.2 3 7 10 7 1 2 3 6 29
+p737
+aVIsaiah Rider POR 11/14/1997 POR vs. PHX L 59 35 12 36 33.3 5 14 35.7 6 8 75.0 4 7 11 4 1 1 6 2 6
+p738
+aVKenny Anderson POR 11/14/1997 POR vs. PHX L 47 7 2 11 18.2 0 5 0.0 3 4 75.0 2 2 4 5 3 0 0 6 5
+p739
+aVJermaine O'Neal POR 11/14/1997 POR vs. PHX L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p740
+aVKelvin Cato POR 11/14/1997 POR vs. PHX L 13 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 2 0 3 -13
+p741
+aVRasheed Wallace POR 11/14/1997 POR vs. PHX L 45 13 5 16 31.3 0 2 0.0 3 4 75.0 2 3 5 3 0 1 3 6 4
+p742
+aVKenny Anderson POR 11/10/1997 POR vs. DET W 40 29 7 13 53.8 4 7 57.1 11 14 78.6 0 5 5 11 1 0 5 3 14
+p743
+aVRasheed Wallace POR 11/10/1997 POR vs. DET W 33 10 4 8 50.0 0 0 - 2 4 50.0 0 3 3 0 0 2 3 5 3
+p744
+aVBrian Grant POR 11/10/1997 POR vs. DET W 27 5 1 6 16.7 0 0 - 3 4 75.0 5 3 8 1 0 1 4 4 6
+p745
+aVStacey Augmon POR 11/10/1997 POR vs. DET W 23 4 1 3 33.3 0 0 - 2 4 50.0 2 3 5 1 0 1 0 3 1
+p746
+aVArvydas Sabonis POR 11/10/1997 POR vs. DET W 27 20 6 10 60.0 1 2 50.0 7 8 87.5 2 9 11 2 0 0 1 6 0
+p747
+aVKelvin Cato POR 11/10/1997 POR vs. DET W 23 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 1 0 2 1 3 9
+p748
+aVVincent Askew POR 11/10/1997 POR vs. DET W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p749
+aVIsaiah Rider POR 11/10/1997 POR vs. DET W 41 12 5 15 33.3 2 7 28.6 0 0 - 0 2 2 1 0 2 0 2 -2
+p750
+aVJohn Crotty POR 11/10/1997 POR vs. DET W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -10
+p751
+aVJermaine O'Neal POR 11/10/1997 POR vs. DET W 14 2 1 5 20.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 -1
+p752
+aVKelvin Cato POR 11/08/1997 POR @ DAL W 13 5 2 6 33.3 0 0 - 1 2 50.0 3 4 7 0 0 0 1 3 0
+p753
+aVKenny Anderson POR 11/08/1997 POR @ DAL W 43 28 6 12 50.0 4 5 80.0 12 12 100.0 1 0 1 8 3 0 3 3 10
+p754
+aVRasheed Wallace POR 11/08/1997 POR @ DAL W 35 12 5 8 62.5 0 1 0.0 2 2 100.0 2 3 5 1 2 4 1 1 12
+p755
+aVVincent Askew POR 11/08/1997 POR @ DAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p756
+aVJermaine O'Neal POR 11/08/1997 POR @ DAL W 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -8
+p757
+aVIsaiah Rider POR 11/08/1997 POR @ DAL W 38 24 10 22 45.5 1 6 16.7 3 4 75.0 4 7 11 5 1 0 4 1 16
+p758
+aVBrian Grant POR 11/08/1997 POR @ DAL W 33 2 1 8 12.5 0 0 - 0 0 - 3 5 8 1 0 0 2 5 -3
+p759
+aVArvydas Sabonis POR 11/08/1997 POR @ DAL W 28 20 6 11 54.5 1 2 50.0 7 8 87.5 1 15 16 1 0 0 2 2 7
+p760
+aVJohn Crotty POR 11/08/1997 POR @ DAL W 10 1 0 1 0.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 -2
+p761
+aVStacey Augmon POR 11/08/1997 POR @ DAL W 22 7 3 9 33.3 0 0 - 1 2 50.0 1 3 4 0 2 1 1 3 7
+p762
+aVJohn Crotty POR 11/07/1997 POR @ HOU W 17 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 1 0 2 1 -4
+p763
+aVVincent Askew POR 11/07/1997 POR @ HOU W 8 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 -4
+p764
+aVArvydas Sabonis POR 11/07/1997 POR @ HOU W 41 11 3 7 42.9 0 2 0.0 5 5 100.0 3 13 16 1 0 1 4 2 6
+p765
+aVRasheed Wallace POR 11/07/1997 POR @ HOU W 33 10 4 10 40.0 0 1 0.0 2 5 40.0 2 4 6 4 0 2 2 4 8
+p766
+aVKelvin Cato POR 11/07/1997 POR @ HOU W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -8
+p767
+aVBrian Grant POR 11/07/1997 POR @ HOU W 42 10 4 16 25.0 0 0 - 2 2 100.0 9 10 19 1 2 1 4 4 -1
+p768
+aVJermaine O'Neal POR 11/07/1997 POR @ HOU W 9 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 0
+p769
+aVIsaiah Rider POR 11/07/1997 POR @ HOU W 43 23 9 21 42.9 3 6 50.0 2 3 66.7 1 5 6 2 0 1 3 2 7
+p770
+aVStacey Augmon POR 11/07/1997 POR @ HOU W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -4
+p771
+aVKenny Anderson POR 11/07/1997 POR @ HOU W 31 24 9 17 52.9 3 6 50.0 3 4 75.0 0 1 1 5 2 0 3 5 5
+p772
+aVIsaiah Rider POR 11/04/1997 POR vs. MIN W 37 20 7 17 41.2 4 10 40.0 2 2 100.0 0 2 2 5 0 0 3 3 17
+p773
+aVSean Higgins POR 11/04/1997 POR vs. MIN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -3
+p774
+aVKenny Anderson POR 11/04/1997 POR vs. MIN W 30 24 8 12 66.7 6 7 85.7 2 4 50.0 0 0 0 7 2 0 4 4 17
+p775
+aVStacey Augmon POR 11/04/1997 POR vs. MIN W 25 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 2 1 0 1 3 6
+p776
+aVKelvin Cato POR 11/04/1997 POR vs. MIN W 10 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 2 2 2 3
+p777
+aVJohn Crotty POR 11/04/1997 POR vs. MIN W 18 11 1 2 50.0 1 1 100.0 8 8 100.0 0 3 3 2 0 0 2 1 0
+p778
+aVArvydas Sabonis POR 11/04/1997 POR vs. MIN W 30 23 9 11 81.8 0 0 - 5 6 83.3 1 9 10 6 2 0 2 4 15
+p779
+aVJermaine O'Neal POR 11/04/1997 POR vs. MIN W 14 4 2 4 50.0 0 0 - 0 0 - 3 0 3 0 0 1 1 3 -9
+p780
+aVRasheed Wallace POR 11/04/1997 POR vs. MIN W 38 16 6 10 60.0 0 0 - 4 6 66.7 3 3 6 3 3 0 2 4 16
+p781
+aVBrian Grant POR 11/04/1997 POR vs. MIN W 34 18 9 15 60.0 0 0 - 0 0 - 4 5 9 1 0 1 2 2 24
+p782
+aVAlvin Williams POR 11/04/1997 POR vs. MIN W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p783
+aVRasheed Wallace POR 11/01/1997 POR @ LAC W 38 14 6 15 40.0 0 2 0.0 2 6 33.3 4 4 8 3 0 2 0 3 6
+p784
+aVArvydas Sabonis POR 11/01/1997 POR @ LAC W 28 8 4 8 50.0 0 1 0.0 0 0 - 2 6 8 2 0 1 3 5 12
+p785
+aVStacey Augmon POR 11/01/1997 POR @ LAC W 28 6 2 5 40.0 0 0 - 2 6 33.3 2 4 6 1 0 2 1 3 2
+p786
+aVJohn Crotty POR 11/01/1997 POR @ LAC W 19 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 3 1 0 4 1 -5
+p787
+aVKelvin Cato POR 11/01/1997 POR @ LAC W 19 2 0 2 0.0 0 0 - 2 2 100.0 2 4 6 0 1 3 1 4 -5
+p788
+aVBrian Grant POR 11/01/1997 POR @ LAC W 41 19 7 15 46.7 0 0 - 5 7 71.4 1 10 11 2 2 3 3 2 3
+p789
+aVJermaine O'Neal POR 11/01/1997 POR @ LAC W 15 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 1
+p790
+aVKenny Anderson POR 11/01/1997 POR @ LAC W 29 20 6 19 31.6 0 5 0.0 8 9 88.9 2 3 5 4 1 0 1 1 13
+p791
+aVVincent Askew POR 11/01/1997 POR @ LAC W 24 10 3 5 60.0 0 0 - 4 5 80.0 2 3 5 0 1 0 3 2 13
+p792
+aVVincent Askew POR 10/31/1997 POR vs. SEA L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -5
+p793
+aVJermaine O'Neal POR 10/31/1997 POR vs. SEA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p794
+aVKelvin Cato POR 10/31/1997 POR vs. SEA L 13 0 0 3 0.0 0 0 - 0 0 - 4 2 6 0 0 0 0 0 -5
+p795
+aVBrian Grant POR 10/31/1997 POR vs. SEA L 43 19 8 14 57.1 0 0 - 3 5 60.0 7 4 11 2 0 1 2 2 -8
+p796
+aVSean Higgins POR 10/31/1997 POR vs. SEA L 10 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 2 -11
+p797
+aVStacey Augmon POR 10/31/1997 POR vs. SEA L 41 11 5 12 41.7 0 0 - 1 6 16.7 3 5 8 3 6 0 5 1 4
+p798
+aVJohn Crotty POR 10/31/1997 POR vs. SEA L 34 17 5 8 62.5 3 4 75.0 4 4 100.0 0 2 2 8 2 0 7 3 8
+p799
+aVArvydas Sabonis POR 10/31/1997 POR vs. SEA L 33 14 6 10 60.0 1 3 33.3 1 5 20.0 2 6 8 5 1 2 6 4 -2
+p800
+aVRasheed Wallace POR 10/31/1997 POR vs. SEA L 39 14 6 11 54.5 0 2 0.0 2 4 50.0 2 6 8 2 1 3 3 5 6
+p801
+aVKenny Anderson POR 10/31/1997 POR vs. SEA L 15 4 1 9 11.1 0 1 0.0 2 2 100.0 0 1 1 1 1 0 1 0 -19
+p802
+a.

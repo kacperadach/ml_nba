@@ -1,0 +1,122 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEric Maynor OKC 04/30/2010 OKC vs. LAL L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p2
+aVJeff Green OKC 04/30/2010 OKC vs. LAL L 42 16 6 12 50.0 2 6 33.3 2 2 100.0 0 3 3 3 1 1 2 3 -6
+p3
+aVNick Collison OKC 04/30/2010 OKC vs. LAL L 23 4 2 5 40.0 0 0 - 0 0 - 4 2 6 0 0 0 1 2 4
+p4
+aVKevin Durant OKC 04/30/2010 OKC vs. LAL L 42 26 5 23 21.7 2 5 40.0 14 15 93.3 1 5 6 3 0 1 1 4 4
+p5
+aVSerge Ibaka OKC 04/30/2010 OKC vs. LAL L 30 10 4 6 66.7 0 0 - 2 4 50.0 2 6 8 0 0 1 0 2 0
+p6
+aVRussell Westbrook OKC 04/30/2010 OKC vs. LAL L 42 21 7 20 35.0 1 6 16.7 6 7 85.7 2 3 5 9 3 0 0 2 2
+p7
+aVJames Harden OKC 04/30/2010 OKC vs. LAL L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 2 0 0 1 -1
+p8
+aVThabo Sefolosha OKC 04/30/2010 OKC vs. LAL L 13 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 1 1 0 3 -5
+p9
+aVNenad Krstic OKC 04/30/2010 OKC vs. LAL L 29 11 4 10 40.0 0 0 - 3 3 100.0 4 7 11 2 0 0 1 2 0
+p10
+aVSerge Ibaka OKC 04/27/2010 OKC @ LAL L 28 12 6 11 54.5 0 0 - 0 0 - 3 6 9 1 0 0 2 5 4
+p11
+aVThabo Sefolosha OKC 04/27/2010 OKC @ LAL L 20 3 1 7 14.3 1 3 33.3 0 0 - 1 1 2 1 0 2 0 3 -24
+p12
+aVJeff Green OKC 04/27/2010 OKC @ LAL L 33 8 3 10 30.0 1 2 50.0 1 1 100.0 2 3 5 2 2 1 2 3 -27
+p13
+aVNick Collison OKC 04/27/2010 OKC @ LAL L 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -3
+p14
+aVEtan Thomas OKC 04/27/2010 OKC @ LAL L 12 10 4 5 80.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 1 4
+p15
+aVEric Maynor OKC 04/27/2010 OKC @ LAL L 16 3 1 4 25.0 0 1 0.0 1 2 50.0 1 2 3 2 0 0 0 3 0
+p16
+aVJames Harden OKC 04/27/2010 OKC @ LAL L 25 11 4 10 40.0 1 3 33.3 2 3 66.7 1 1 2 1 0 0 1 1 -3
+p17
+aVKevin Durant OKC 04/27/2010 OKC @ LAL L 33 17 5 14 35.7 2 6 33.3 5 6 83.3 0 3 3 3 0 0 3 2 -25
+p18
+aVRussell Westbrook OKC 04/27/2010 OKC @ LAL L 33 15 4 13 30.8 2 4 50.0 5 8 62.5 1 4 5 6 3 0 8 2 -26
+p19
+aVKyle Weaver OKC 04/27/2010 OKC @ LAL L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 2 4
+p20
+aVNenad Krstic OKC 04/27/2010 OKC @ LAL L 18 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 1 0 0 3 -24
+p21
+aVNick Collison OKC 04/24/2010 OKC vs. LAL W 22 4 1 7 14.3 0 0 - 2 2 100.0 1 3 4 0 3 0 0 3 17
+p22
+aVJames Harden OKC 04/24/2010 OKC vs. LAL W 24 15 3 6 50.0 2 4 50.0 7 8 87.5 0 5 5 4 2 1 1 6 13
+p23
+aVJeff Green OKC 04/24/2010 OKC vs. LAL W 38 15 5 17 29.4 2 7 28.6 3 4 75.0 3 6 9 2 0 0 0 2 21
+p24
+aVNenad Krstic OKC 04/24/2010 OKC vs. LAL W 21 7 2 8 25.0 0 0 - 3 3 100.0 2 2 4 0 1 1 1 3 11
+p25
+aVThabo Sefolosha OKC 04/24/2010 OKC vs. LAL W 24 5 1 1 100.0 0 0 - 3 3 100.0 1 6 7 1 1 1 0 2 7
+p26
+aVEric Maynor OKC 04/24/2010 OKC vs. LAL W 19 13 3 5 60.0 1 3 33.3 6 7 85.7 0 3 3 1 0 0 1 1 4
+p27
+aVKevin Durant OKC 04/24/2010 OKC vs. LAL W 31 22 6 12 50.0 1 4 25.0 9 11 81.8 1 3 4 1 0 2 4 3 19
+p28
+aVSerge Ibaka OKC 04/24/2010 OKC vs. LAL W 16 8 3 5 60.0 0 0 - 2 2 100.0 3 3 6 0 1 2 0 3 14
+p29
+aVEtan Thomas OKC 04/24/2010 OKC vs. LAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p30
+aVRussell Westbrook OKC 04/24/2010 OKC vs. LAL W 29 18 6 11 54.5 0 0 - 6 6 100.0 2 6 8 6 0 0 0 0 17
+p31
+aVByron Mullens OKC 04/24/2010 OKC vs. LAL W 4 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p32
+aVKevin Ollie OKC 04/24/2010 OKC vs. LAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p33
+aVJeff Green OKC 04/22/2010 OKC vs. LAL W 28 10 3 8 37.5 1 3 33.3 3 4 75.0 1 3 4 1 0 0 0 1 -2
+p34
+aVNick Collison OKC 04/22/2010 OKC vs. LAL W 28 2 1 4 25.0 0 0 - 0 2 0.0 2 3 5 2 0 0 1 5 19
+p35
+aVEric Maynor OKC 04/22/2010 OKC vs. LAL W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 1
+p36
+aVRussell Westbrook OKC 04/22/2010 OKC vs. LAL W 42 27 11 21 52.4 1 1 100.0 4 5 80.0 2 6 8 4 1 0 2 2 4
+p37
+aVNenad Krstic OKC 04/22/2010 OKC vs. LAL W 16 3 1 3 33.3 0 0 - 1 2 50.0 4 0 4 0 0 1 3 1 -14
+p38
+aVSerge Ibaka OKC 04/22/2010 OKC vs. LAL W 27 6 3 6 50.0 0 0 - 0 0 - 3 3 6 0 0 1 0 4 8
+p39
+aVKevin Durant OKC 04/22/2010 OKC vs. LAL W 42 29 8 24 33.3 1 6 16.7 12 13 92.3 2 17 19 4 0 1 2 3 5
+p40
+aVJames Harden OKC 04/22/2010 OKC vs. LAL W 32 18 4 7 57.1 3 4 75.0 7 8 87.5 0 5 5 3 2 0 0 2 12
+p41
+aVThabo Sefolosha OKC 04/22/2010 OKC vs. LAL W 19 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 1 0 0 1 1 -8
+p42
+aVSerge Ibaka OKC 04/20/2010 OKC @ LAL L 28 6 2 5 40.0 0 0 - 2 2 100.0 1 4 5 0 1 7 3 3 6
+p43
+aVEric Maynor OKC 04/20/2010 OKC @ LAL L 19 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 2 1 1 2 1 -1
+p44
+aVThabo Sefolosha OKC 04/20/2010 OKC @ LAL L 30 7 2 7 28.6 0 3 0.0 3 4 75.0 1 3 4 3 3 1 0 4 2
+p45
+aVJeff Green OKC 04/20/2010 OKC @ LAL L 41 12 2 11 18.2 1 6 16.7 7 7 100.0 0 4 4 2 1 0 1 4 -2
+p46
+aVNenad Krstic OKC 04/20/2010 OKC @ LAL L 25 10 4 7 57.1 0 0 - 2 2 100.0 2 3 5 1 0 2 0 5 -4
+p47
+aVJames Harden OKC 04/20/2010 OKC @ LAL L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -6
+p48
+aVRussell Westbrook OKC 04/20/2010 OKC @ LAL L 29 19 5 10 50.0 1 1 100.0 8 8 100.0 1 5 6 3 1 1 3 4 -2
+p49
+aVKevin Durant OKC 04/20/2010 OKC @ LAL L 41 32 12 26 46.2 3 6 50.0 5 6 83.3 2 6 8 1 2 4 8 3 0
+p50
+aVNick Collison OKC 04/20/2010 OKC @ LAL L 18 2 1 3 33.3 0 1 0.0 0 2 0.0 0 2 2 0 0 1 0 6 -8
+p51
+aVSerge Ibaka OKC 04/18/2010 OKC @ LAL L 22 5 2 2 100.0 0 0 - 1 2 50.0 1 4 5 1 0 1 1 2 -1
+p52
+aVNick Collison OKC 04/18/2010 OKC @ LAL L 27 5 2 3 66.7 0 0 - 1 1 100.0 3 5 8 0 2 0 2 4 4
+p53
+aVEric Maynor OKC 04/18/2010 OKC @ LAL L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -1
+p54
+aVRussell Westbrook OKC 04/18/2010 OKC @ LAL L 38 23 10 16 62.5 0 0 - 3 4 75.0 2 2 4 8 2 0 1 3 -7
+p55
+aVJeff Green OKC 04/18/2010 OKC @ LAL L 42 10 4 12 33.3 1 3 33.3 1 2 50.0 0 3 3 0 0 1 1 3 -15
+p56
+aVNenad Krstic OKC 04/18/2010 OKC @ LAL L 21 8 3 5 60.0 0 0 - 2 2 100.0 1 6 7 1 1 0 0 1 -10
+p57
+aVJames Harden OKC 04/18/2010 OKC @ LAL L 16 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 4 -11
+p58
+aVKevin Durant OKC 04/18/2010 OKC @ LAL L 42 24 7 24 29.2 1 8 12.5 9 11 81.8 2 4 6 2 1 0 4 2 -3
+p59
+aVThabo Sefolosha OKC 04/18/2010 OKC @ LAL L 21 2 0 4 0.0 0 2 0.0 2 2 100.0 0 3 3 0 0 1 1 2 4
+p60
+a.

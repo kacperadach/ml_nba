@@ -1,0 +1,1800 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVNate Robinson NYK 04/19/2006 NYK @ NJN W 35 15 6 10 60.0 3 7 42.9 0 0 - 1 3 4 3 2 0 3 3 1
+p2
+aVJackie Butler NYK 04/19/2006 NYK @ NJN W 24 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 1 5 3 3
+p3
+aVIme Udoka NYK 04/19/2006 NYK @ NJN W 23 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 3
+p4
+aVMaurice Taylor NYK 04/19/2006 NYK @ NJN W 15 11 3 6 50.0 0 0 - 5 6 83.3 1 1 2 2 0 1 1 0 3
+p5
+aVMalik Rose NYK 04/19/2006 NYK @ NJN W 22 4 2 3 66.7 0 0 - 0 0 - 0 6 6 3 1 2 2 1 1
+p6
+aVDavid Lee NYK 04/19/2006 NYK @ NJN W 22 11 5 6 83.3 0 0 - 1 2 50.0 4 3 7 1 0 0 2 1 6
+p7
+aVQyntel Woods NYK 04/19/2006 NYK @ NJN W 30 2 1 4 25.0 0 1 0.0 0 2 0.0 1 5 6 1 1 1 2 3 6
+p8
+aVJamal Crawford NYK 04/19/2006 NYK @ NJN W 45 23 7 18 38.9 0 7 0.0 9 10 90.0 0 3 3 11 0 1 1 1 8
+p9
+aVEddy Curry NYK 04/19/2006 NYK @ NJN W 24 18 6 7 85.7 0 0 - 6 8 75.0 0 3 3 0 0 1 2 2 4
+p10
+aVDavid Lee NYK 04/17/2006 NYK vs. CHA L 11 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -10
+p11
+aVJamal Crawford NYK 04/17/2006 NYK vs. CHA L 43 24 7 17 41.2 0 5 0.0 10 14 71.4 0 2 2 6 4 0 2 2 5
+p12
+aVJackie Butler NYK 04/17/2006 NYK vs. CHA L 17 12 6 8 75.0 0 0 - 0 0 - 3 2 5 1 1 0 0 3 -10
+p13
+aVIme Udoka NYK 04/17/2006 NYK vs. CHA L 24 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 0 0 0 2 2 -16
+p14
+aVEddy Curry NYK 04/17/2006 NYK vs. CHA L 26 16 5 7 71.4 0 0 - 6 8 75.0 0 4 4 0 0 0 1 1 8
+p15
+aVMaurice Taylor NYK 04/17/2006 NYK vs. CHA L 28 8 4 10 40.0 0 0 - 0 0 - 1 5 6 2 1 1 4 4 -17
+p16
+aVNate Robinson NYK 04/17/2006 NYK vs. CHA L 34 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 2 1 0 5 4 -4
+p17
+aVQyntel Woods NYK 04/17/2006 NYK vs. CHA L 33 14 7 10 70.0 0 1 0.0 0 2 0.0 2 5 7 0 1 1 0 0 3
+p18
+aVMalik Rose NYK 04/17/2006 NYK vs. CHA L 24 6 2 8 25.0 0 0 - 2 3 66.7 0 6 6 3 0 0 2 2 6
+p19
+aVJackie Butler NYK 04/16/2006 NYK @ DET L 26 18 7 11 63.6 0 0 - 4 8 50.0 2 7 9 1 0 1 0 2 19
+p20
+aVQyntel Woods NYK 04/16/2006 NYK @ DET L 11 4 2 5 40.0 0 1 0.0 0 0 - 2 0 2 2 0 0 4 4 -16
+p21
+aVDavid Lee NYK 04/16/2006 NYK @ DET L 37 13 5 8 62.5 0 0 - 3 4 75.0 3 4 7 2 4 0 1 1 12
+p22
+aVIme Udoka NYK 04/16/2006 NYK @ DET L 21 6 3 8 37.5 0 1 0.0 0 0 - 2 3 5 0 0 0 0 2 3
+p23
+aVMaurice Taylor NYK 04/16/2006 NYK @ DET L 27 6 3 6 50.0 0 0 - 0 0 - 1 4 5 3 0 0 2 1 17
+p24
+aVEddy Curry NYK 04/16/2006 NYK @ DET L 22 2 1 3 33.3 0 0 - 0 4 0.0 1 2 3 1 1 1 1 1 -25
+p25
+aVNate Robinson NYK 04/16/2006 NYK @ DET L 37 23 8 13 61.5 2 3 66.7 5 7 71.4 0 0 0 5 5 0 1 3 -1
+p26
+aVJamal Crawford NYK 04/16/2006 NYK @ DET L 38 18 7 15 46.7 3 7 42.9 1 3 33.3 2 3 5 6 1 1 7 3 -16
+p27
+aVMalik Rose NYK 04/16/2006 NYK @ DET L 21 7 3 7 42.9 0 0 - 1 2 50.0 2 3 5 1 0 0 1 1 -23
+p28
+aVQyntel Woods NYK 04/14/2006 NYK vs. MIL L 19 7 3 6 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 2 -25
+p29
+aVEddy Curry NYK 04/14/2006 NYK vs. MIL L 26 13 5 8 62.5 0 0 - 3 7 42.9 2 5 7 0 0 0 3 1 -26
+p30
+aVSteve Francis NYK 04/14/2006 NYK vs. MIL L 19 0 0 3 0.0 0 0 - 0 0 - 0 3 3 4 0 0 1 2 -4
+p31
+aVJackie Butler NYK 04/14/2006 NYK vs. MIL L 22 2 1 4 25.0 0 0 - 0 0 - 2 3 5 2 0 1 3 5 9
+p32
+aVJamal Crawford NYK 04/14/2006 NYK vs. MIL L 35 6 2 12 16.7 1 6 16.7 1 3 33.3 0 0 0 6 2 0 4 2 -20
+p33
+aVMaurice Taylor NYK 04/14/2006 NYK vs. MIL L 29 22 9 17 52.9 0 0 - 4 4 100.0 0 4 4 2 1 1 2 1 8
+p34
+aVIme Udoka NYK 04/14/2006 NYK vs. MIL L 13 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 1 12
+p35
+aVDavid Lee NYK 04/14/2006 NYK vs. MIL L 29 10 4 7 57.1 0 0 - 2 2 100.0 0 4 4 1 2 1 1 2 8
+p36
+aVMalik Rose NYK 04/14/2006 NYK vs. MIL L 19 4 1 6 16.7 0 0 - 2 3 66.7 1 3 4 0 0 0 2 1 -25
+p37
+aVNate Robinson NYK 04/14/2006 NYK vs. MIL L 29 8 4 7 57.1 0 0 - 0 0 - 2 0 2 3 2 0 0 3 -22
+p38
+aVMalik Rose NYK 04/13/2006 NYK @ CLE L 26 9 4 10 40.0 0 0 - 1 2 50.0 3 4 7 3 0 0 1 3 13
+p39
+aVEddy Curry NYK 04/13/2006 NYK @ CLE L 18 9 3 6 50.0 0 0 - 3 4 75.0 0 4 4 0 0 2 2 5 6
+p40
+aVMaurice Taylor NYK 04/13/2006 NYK @ CLE L 23 0 0 1 0.0 0 0 - 0 0 - 0 5 5 1 0 1 3 4 -10
+p41
+aVJackie Butler NYK 04/13/2006 NYK @ CLE L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -8
+p42
+aVIme Udoka NYK 04/13/2006 NYK @ CLE L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -6
+p43
+aVDavid Lee NYK 04/13/2006 NYK @ CLE L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p44
+aVNate Robinson NYK 04/13/2006 NYK @ CLE L 46 32 11 20 55.0 6 9 66.7 4 6 66.7 3 1 4 3 3 0 3 3 -3
+p45
+aVJalen Rose NYK 04/13/2006 NYK @ CLE L 17 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 2 1 0 3 3 -14
+p46
+aVJamal Crawford NYK 04/13/2006 NYK @ CLE L 46 19 6 17 35.3 2 7 28.6 5 8 62.5 0 3 3 9 5 1 2 1 -7
+p47
+aVJerome James NYK 04/13/2006 NYK @ CLE L 14 8 4 6 66.7 0 0 - 0 0 - 0 0 0 0 1 2 0 4 -3
+p48
+aVQyntel Woods NYK 04/13/2006 NYK @ CLE L 26 4 1 4 25.0 1 2 50.0 1 2 50.0 0 7 7 1 1 1 0 2 15
+p49
+aVSteve Francis NYK 04/10/2006 NYK @ IND L 31 11 3 5 60.0 0 0 - 5 7 71.4 0 2 2 3 1 0 6 1 -1
+p50
+aVMaurice Taylor NYK 04/10/2006 NYK @ IND L 20 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 2 0 0 1 1 -17
+p51
+aVJamal Crawford NYK 04/10/2006 NYK @ IND L 41 26 10 19 52.6 1 3 33.3 5 5 100.0 0 2 2 7 1 0 4 1 -18
+p52
+aVEddy Curry NYK 04/10/2006 NYK @ IND L 28 12 5 9 55.6 0 0 - 2 8 25.0 2 2 4 0 1 1 0 2 -9
+p53
+aVJackie Butler NYK 04/10/2006 NYK @ IND L 14 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -8
+p54
+aVJerome James NYK 04/10/2006 NYK @ IND L 7 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 2 2 -2
+p55
+aVNate Robinson NYK 04/10/2006 NYK @ IND L 24 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 3 -19
+p56
+aVMalik Rose NYK 04/10/2006 NYK @ IND L 20 5 1 6 16.7 0 0 - 3 4 75.0 3 3 6 2 1 0 1 3 0
+p57
+aVDavid Lee NYK 04/10/2006 NYK @ IND L 17 8 3 4 75.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 4 -2
+p58
+aVQyntel Woods NYK 04/10/2006 NYK @ IND L 25 4 2 8 25.0 0 1 0.0 0 0 - 1 4 5 0 0 1 1 2 -4
+p59
+aVIme Udoka NYK 04/10/2006 NYK @ IND L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -15
+p60
+aVDavid Lee NYK 04/09/2006 NYK @ BOS W 22 9 3 6 50.0 0 0 - 3 4 75.0 5 4 9 1 0 1 0 2 15
+p61
+aVQyntel Woods NYK 04/09/2006 NYK @ BOS W 31 9 3 6 50.0 0 2 0.0 3 3 100.0 1 2 3 1 1 0 0 1 2
+p62
+aVNate Robinson NYK 04/09/2006 NYK @ BOS W 21 12 5 8 62.5 0 0 - 2 3 66.7 0 0 0 2 2 0 0 3 14
+p63
+aVIme Udoka NYK 04/09/2006 NYK @ BOS W 8 1 0 1 0.0 0 0 - 1 4 25.0 0 1 1 1 0 0 0 0 1
+p64
+aVJerome James NYK 04/09/2006 NYK @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 3
+p65
+aVSteve Francis NYK 04/09/2006 NYK @ BOS W 26 7 2 7 28.6 0 1 0.0 3 3 100.0 0 0 0 6 0 0 2 2 3
+p66
+aVMaurice Taylor NYK 04/09/2006 NYK @ BOS W 24 9 3 7 42.9 0 0 - 3 4 75.0 1 4 5 0 1 0 2 3 13
+p67
+aVJackie Butler NYK 04/09/2006 NYK @ BOS W 33 10 5 7 71.4 0 0 - 0 0 - 1 6 7 0 0 0 4 3 25
+p68
+aVJamal Crawford NYK 04/09/2006 NYK @ BOS W 46 31 10 19 52.6 4 6 66.7 7 7 100.0 0 11 11 5 3 0 2 1 17
+p69
+aVMalik Rose NYK 04/09/2006 NYK @ BOS W 14 6 2 7 28.6 0 0 - 2 2 100.0 2 1 3 1 0 0 2 0 -5
+p70
+aVEddy Curry NYK 04/09/2006 NYK @ BOS W 12 7 0 2 0.0 0 0 - 7 8 87.5 1 1 2 0 1 0 4 4 -13
+p71
+aVEddy Curry NYK 04/07/2006 NYK vs. IND W 30 12 4 7 57.1 0 0 - 4 7 57.1 2 4 6 0 0 1 1 2 -1
+p72
+aVNate Robinson NYK 04/07/2006 NYK vs. IND W 24 16 6 14 42.9 2 3 66.7 2 2 100.0 1 1 2 2 2 0 0 2 -4
+p73
+aVJerome James NYK 04/07/2006 NYK vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p74
+aVQyntel Woods NYK 04/07/2006 NYK vs. IND W 36 13 4 7 57.1 1 1 100.0 4 5 80.0 2 7 9 2 2 2 1 1 -9
+p75
+aVSteve Francis NYK 04/07/2006 NYK vs. IND W 30 3 1 9 11.1 0 1 0.0 1 2 50.0 1 3 4 2 1 0 2 2 2
+p76
+aVMaurice Taylor NYK 04/07/2006 NYK vs. IND W 24 8 4 10 40.0 0 0 - 0 0 - 1 3 4 1 0 0 3 4 10
+p77
+aVIme Udoka NYK 04/07/2006 NYK vs. IND W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p78
+aVJamal Crawford NYK 04/07/2006 NYK vs. IND W 42 23 7 19 36.8 1 3 33.3 8 8 100.0 1 3 4 3 2 0 2 1 6
+p79
+aVMalik Rose NYK 04/07/2006 NYK vs. IND W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -11
+p80
+aVJackie Butler NYK 04/07/2006 NYK vs. IND W 23 10 5 10 50.0 0 0 - 0 0 - 6 2 8 2 0 0 1 1 9
+p81
+aVDavid Lee NYK 04/07/2006 NYK vs. IND W 13 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 3 0 0 4 3
+p82
+aVJackie Butler NYK 04/05/2006 NYK vs. CLE W 21 12 4 6 66.7 0 0 - 4 8 50.0 4 5 9 0 1 0 2 5 9
+p83
+aVMalik Rose NYK 04/05/2006 NYK vs. CLE W 19 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 3 2 0 0 3 8
+p84
+aVJamal Crawford NYK 04/05/2006 NYK vs. CLE W 45 37 13 24 54.2 3 7 42.9 8 9 88.9 2 3 5 4 1 0 2 2 -4
+p85
+aVSteve Francis NYK 04/05/2006 NYK vs. CLE W 42 9 4 13 30.8 0 1 0.0 1 2 50.0 1 3 4 7 2 1 3 4 1
+p86
+aVMaurice Taylor NYK 04/05/2006 NYK vs. CLE W 26 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -1
+p87
+aVNate Robinson NYK 04/05/2006 NYK vs. CLE W 22 6 2 7 28.6 0 0 - 2 2 100.0 1 0 1 1 0 0 3 2 -8
+p88
+aVEddy Curry NYK 04/05/2006 NYK vs. CLE W 19 16 6 8 75.0 0 0 - 4 4 100.0 0 3 3 0 1 1 3 4 4
+p89
+aVQyntel Woods NYK 04/05/2006 NYK vs. CLE W 36 0 0 1 0.0 0 0 - 0 0 - 1 7 8 0 2 1 1 3 8
+p90
+aVDavid Lee NYK 04/05/2006 NYK vs. CLE W 10 6 3 4 75.0 0 0 - 0 2 0.0 2 4 6 1 0 0 1 3 -7
+p91
+aVQyntel Woods NYK 04/04/2006 NYK @ WAS L 23 5 2 3 66.7 1 2 50.0 0 0 - 0 5 5 2 0 0 3 2 13
+p92
+aVEddy Curry NYK 04/04/2006 NYK @ WAS L 14 5 1 3 33.3 0 0 - 3 4 75.0 0 3 3 0 1 0 4 4 -19
+p93
+aVDavid Lee NYK 04/04/2006 NYK @ WAS L 21 8 4 8 50.0 0 0 - 0 0 - 1 3 4 1 2 0 0 1 0
+p94
+aVNate Robinson NYK 04/04/2006 NYK @ WAS L 27 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 6 0 0 3 4 4
+p95
+aVMalik Rose NYK 04/04/2006 NYK @ WAS L 18 8 4 6 66.7 0 0 - 0 0 - 2 1 3 1 1 0 6 4 -24
+p96
+aVJackie Butler NYK 04/04/2006 NYK @ WAS L 28 22 8 11 72.7 0 0 - 6 6 100.0 4 4 8 2 0 2 3 3 7
+p97
+aVQuentin Richardson NYK 04/04/2006 NYK @ WAS L 22 8 2 7 28.6 0 2 0.0 4 6 66.7 2 2 4 1 2 0 1 2 -19
+p98
+aVSteve Francis NYK 04/04/2006 NYK @ WAS L 31 15 4 9 44.4 1 1 100.0 6 6 100.0 2 1 3 3 1 0 1 2 -20
+p99
+aVMaurice Taylor NYK 04/04/2006 NYK @ WAS L 17 5 2 9 22.2 0 0 - 1 2 50.0 2 2 4 0 0 0 1 2 -3
+p100
+aVJamal Crawford NYK 04/04/2006 NYK @ WAS L 39 14 3 11 27.3 1 6 16.7 7 8 87.5 0 4 4 1 3 0 5 5 -14
+p101
+aVJamal Crawford NYK 04/02/2006 NYK @ PHI L 46 23 7 11 63.6 2 4 50.0 7 7 100.0 0 2 2 5 4 0 5 5 -16
+p102
+aVQyntel Woods NYK 04/02/2006 NYK @ PHI L 30 9 4 7 57.1 1 2 50.0 0 0 - 1 4 5 3 0 0 5 1 -8
+p103
+aVNate Robinson NYK 04/02/2006 NYK @ PHI L 37 10 4 12 33.3 1 2 50.0 1 2 50.0 3 2 5 6 4 0 3 2 -21
+p104
+aVEddy Curry NYK 04/02/2006 NYK @ PHI L 19 14 4 5 80.0 0 0 - 6 9 66.7 1 5 6 0 0 0 2 2 -12
+p105
+aVJerome James NYK 04/02/2006 NYK @ PHI L 16 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 3 4 -1
+p106
+aVJackie Butler NYK 04/02/2006 NYK @ PHI L 13 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -6
+p107
+aVMaurice Taylor NYK 04/02/2006 NYK @ PHI L 19 8 4 8 50.0 0 0 - 0 0 - 1 3 4 1 0 0 2 2 1
+p108
+aVMalik Rose NYK 04/02/2006 NYK @ PHI L 17 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 1 3 3 -14
+p109
+aVSteve Francis NYK 04/02/2006 NYK @ PHI L 31 18 5 10 50.0 0 0 - 8 10 80.0 0 4 4 2 1 0 2 1 -10
+p110
+aVDavid Lee NYK 04/02/2006 NYK @ PHI L 13 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 0 1 0 0 3 -8
+p111
+aVDavid Lee NYK 03/31/2006 NYK vs. PHI L 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -7
+p112
+aVEddy Curry NYK 03/31/2006 NYK vs. PHI L 35 21 6 7 85.7 0 0 - 9 12 75.0 3 6 9 0 0 1 0 3 1
+p113
+aVNate Robinson NYK 03/31/2006 NYK vs. PHI L 43 34 9 14 64.3 2 5 40.0 14 15 93.3 0 2 2 2 2 0 4 6 0
+p114
+aVMalik Rose NYK 03/31/2006 NYK vs. PHI L 13 4 2 3 66.7 0 0 - 0 0 - 1 3 4 3 0 0 2 2 -1
+p115
+aVQyntel Woods NYK 03/31/2006 NYK vs. PHI L 11 3 1 4 25.0 0 2 0.0 1 1 100.0 2 1 3 0 1 0 4 2 -4
+p116
+aVJerome James NYK 03/31/2006 NYK vs. PHI L 12 5 1 1 100.0 0 0 - 3 6 50.0 0 1 1 0 0 0 0 3 -7
+p117
+aVJalen Rose NYK 03/31/2006 NYK vs. PHI L 38 8 3 12 25.0 0 3 0.0 2 4 50.0 2 2 4 5 0 0 2 2 -2
+p118
+aVStephon Marbury NYK 03/31/2006 NYK vs. PHI L 9 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 2 0 0 1 0 3
+p119
+aVMaurice Taylor NYK 03/31/2006 NYK vs. PHI L 27 12 6 8 75.0 0 0 - 0 0 - 2 5 7 1 0 0 1 4 -1
+p120
+aVJamal Crawford NYK 03/31/2006 NYK vs. PHI L 40 18 5 13 38.5 0 5 0.0 8 10 80.0 1 2 3 3 2 0 1 2 -7
+p121
+aVEddy Curry NYK 03/29/2006 NYK vs. BOS L 23 20 7 11 63.6 0 0 - 6 11 54.5 3 5 8 0 0 0 0 2 -15
+p122
+aVJamal Crawford NYK 03/29/2006 NYK vs. BOS L 25 8 2 5 40.0 0 1 0.0 4 5 80.0 0 2 2 3 1 0 4 1 -6
+p123
+aVStephon Marbury NYK 03/29/2006 NYK vs. BOS L 25 19 8 15 53.3 0 2 0.0 3 3 100.0 0 2 2 3 0 0 1 2 -28
+p124
+aVJalen Rose NYK 03/29/2006 NYK vs. BOS L 21 7 2 6 33.3 0 1 0.0 3 4 75.0 0 2 2 2 0 0 1 0 -11
+p125
+aVJackie Butler NYK 03/29/2006 NYK vs. BOS L 20 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 3 0 0 0 2 -3
+p126
+aVDavid Lee NYK 03/29/2006 NYK vs. BOS L 29 4 2 5 40.0 0 0 - 0 2 0.0 1 3 4 2 1 4 1 1 -13
+p127
+aVQyntel Woods NYK 03/29/2006 NYK vs. BOS L 27 20 8 11 72.7 0 0 - 4 4 100.0 0 4 4 2 2 0 5 5 -14
+p128
+aVMalik Rose NYK 03/29/2006 NYK vs. BOS L 12 2 1 3 33.3 0 0 - 0 0 - 0 6 6 0 1 0 1 3 -7
+p129
+aVMaurice Taylor NYK 03/29/2006 NYK vs. BOS L 12 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -12
+p130
+aVNate Robinson NYK 03/29/2006 NYK vs. BOS L 23 6 1 7 14.3 0 2 0.0 4 8 50.0 4 2 6 2 1 0 1 3 6
+p131
+aVSteve Francis NYK 03/29/2006 NYK vs. BOS L 23 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 2 1 0 1 3 -22
+p132
+aVStephon Marbury NYK 03/26/2006 NYK @ MIN L 36 12 4 9 44.4 1 2 50.0 3 4 75.0 0 1 1 9 0 1 4 4 -5
+p133
+aVJackie Butler NYK 03/26/2006 NYK @ MIN L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 1 0 1 1 2 16
+p134
+aVMalik Rose NYK 03/26/2006 NYK @ MIN L 19 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 1 0 1 2 -19
+p135
+aVEddy Curry NYK 03/26/2006 NYK @ MIN L 26 12 4 10 40.0 0 0 - 4 10 40.0 0 4 4 1 0 0 1 4 -8
+p136
+aVMaurice Taylor NYK 03/26/2006 NYK @ MIN L 12 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -4
+p137
+aVSteve Francis NYK 03/26/2006 NYK @ MIN L 30 15 3 10 30.0 1 1 100.0 8 8 100.0 0 7 7 3 1 0 1 5 -9
+p138
+aVNate Robinson NYK 03/26/2006 NYK @ MIN L 18 6 1 6 16.7 0 1 0.0 4 4 100.0 1 1 2 5 1 0 2 3 9
+p139
+aVJerome James NYK 03/26/2006 NYK @ MIN L 10 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 3 1 -11
+p140
+aVDavid Lee NYK 03/26/2006 NYK @ MIN L 26 9 2 3 66.7 0 0 - 5 9 55.6 4 5 9 0 1 0 0 4 12
+p141
+aVJamal Crawford NYK 03/26/2006 NYK @ MIN L 28 20 6 11 54.5 2 4 50.0 6 7 85.7 0 1 1 1 3 0 1 1 10
+p142
+aVJalen Rose NYK 03/26/2006 NYK @ MIN L 23 8 4 8 50.0 0 1 0.0 0 1 0.0 0 2 2 0 1 0 1 3 -11
+p143
+aVJackie Butler NYK 03/24/2006 NYK vs. MEM L 7 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 2 1 1 -4
+p144
+aVNate Robinson NYK 03/24/2006 NYK vs. MEM L 21 7 2 11 18.2 0 3 0.0 3 3 100.0 2 0 2 1 0 0 0 3 -6
+p145
+aVEddy Curry NYK 03/24/2006 NYK vs. MEM L 32 19 8 10 80.0 0 0 - 3 6 50.0 3 7 10 0 1 2 3 4 -5
+p146
+aVJamal Crawford NYK 03/24/2006 NYK vs. MEM L 23 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -8
+p147
+aVMalik Rose NYK 03/24/2006 NYK vs. MEM L 14 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 1 1 0 0 4 -8
+p148
+aVSteve Francis NYK 03/24/2006 NYK vs. MEM L 31 11 3 5 60.0 0 0 - 5 6 83.3 1 3 4 7 0 2 2 3 -11
+p149
+aVJalen Rose NYK 03/24/2006 NYK vs. MEM L 28 4 2 10 20.0 0 4 0.0 0 0 - 0 5 5 3 0 0 2 1 -14
+p150
+aVMaurice Taylor NYK 03/24/2006 NYK vs. MEM L 29 9 4 12 33.3 0 0 - 1 2 50.0 2 6 8 2 0 0 5 5 -4
+p151
+aVStephon Marbury NYK 03/24/2006 NYK vs. MEM L 24 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 2 1 0 3 3 -8
+p152
+aVJerome James NYK 03/24/2006 NYK vs. MEM L 7 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 0 -6
+p153
+aVDavid Lee NYK 03/24/2006 NYK vs. MEM L 24 7 2 8 25.0 0 0 - 3 5 60.0 6 4 10 0 0 1 2 0 -6
+p154
+aVEddy Curry NYK 03/22/2006 NYK @ ORL L 24 15 6 7 85.7 0 0 - 3 8 37.5 2 4 6 0 0 0 0 4 -5
+p155
+aVQyntel Woods NYK 03/22/2006 NYK @ ORL L 16 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 0 0 1 1 1 -10
+p156
+aVNate Robinson NYK 03/22/2006 NYK @ ORL L 22 12 2 5 40.0 1 1 100.0 7 7 100.0 0 0 0 0 0 0 1 4 -4
+p157
+aVMaurice Taylor NYK 03/22/2006 NYK @ ORL L 20 0 0 4 0.0 0 0 - 0 0 - 1 2 3 2 1 1 3 3 -11
+p158
+aVJamal Crawford NYK 03/22/2006 NYK @ ORL L 29 12 3 8 37.5 1 3 33.3 5 5 100.0 1 3 4 2 0 0 1 0 -13
+p159
+aVJalen Rose NYK 03/22/2006 NYK @ ORL L 10 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 0 -8
+p160
+aVJerome James NYK 03/22/2006 NYK @ ORL L 11 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 0 1 4 3 -21
+p161
+aVDavid Lee NYK 03/22/2006 NYK @ ORL L 16 10 5 8 62.5 0 0 - 0 0 - 1 1 2 1 0 0 0 4 -12
+p162
+aVSteve Francis NYK 03/22/2006 NYK @ ORL L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 3 0 -10
+p163
+aVJackie Butler NYK 03/22/2006 NYK @ ORL L 25 8 2 4 50.0 0 0 - 4 6 66.7 1 7 8 0 0 1 2 2 1
+p164
+aVQuentin Richardson NYK 03/22/2006 NYK @ ORL L 22 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 1 1 -6
+p165
+aVStephon Marbury NYK 03/22/2006 NYK @ ORL L 34 12 4 10 40.0 1 3 33.3 3 3 100.0 0 1 1 5 1 0 5 1 -21
+p166
+aVEddy Curry NYK 03/21/2006 NYK vs. TOR L 26 9 4 4 100.0 0 0 - 1 4 25.0 3 6 9 2 0 1 5 3 -8
+p167
+aVMaurice Taylor NYK 03/21/2006 NYK vs. TOR L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 5
+p168
+aVQyntel Woods NYK 03/21/2006 NYK vs. TOR L 32 15 6 10 60.0 1 2 50.0 2 2 100.0 3 7 10 5 1 0 0 0 -1
+p169
+aVStephon Marbury NYK 03/21/2006 NYK vs. TOR L 35 14 5 10 50.0 0 1 0.0 4 7 57.1 1 2 3 6 0 0 2 3 -5
+p170
+aVJerome James NYK 03/21/2006 NYK vs. TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 5
+p171
+aVDavid Lee NYK 03/21/2006 NYK vs. TOR L 19 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 6 -3
+p172
+aVChanning Frye NYK 03/21/2006 NYK vs. TOR L 26 19 7 15 46.7 0 0 - 5 5 100.0 3 6 9 0 1 4 0 3 -6
+p173
+aVJamal Crawford NYK 03/21/2006 NYK vs. TOR L 22 16 5 9 55.6 2 4 50.0 4 5 80.0 0 3 3 4 1 0 3 3 6
+p174
+aVJackie Butler NYK 03/21/2006 NYK vs. TOR L 7 3 1 3 33.3 0 0 - 1 1 100.0 1 0 1 0 1 0 2 3 -10
+p175
+aVJalen Rose NYK 03/21/2006 NYK vs. TOR L 15 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 0 1 1 0 2 -4
+p176
+aVNate Robinson NYK 03/21/2006 NYK vs. TOR L 21 12 4 7 57.1 1 1 100.0 3 5 60.0 0 0 0 4 0 0 1 5 7
+p177
+aVSteve Francis NYK 03/21/2006 NYK vs. TOR L 28 10 3 6 50.0 0 0 - 4 6 66.7 1 3 4 3 1 1 4 4 -11
+p178
+aVEddy Curry NYK 03/19/2006 NYK vs. MIA L 26 18 7 11 63.6 0 0 - 4 5 80.0 3 1 4 0 0 0 1 4 -19
+p179
+aVQyntel Woods NYK 03/19/2006 NYK vs. MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p180
+aVMalik Rose NYK 03/19/2006 NYK vs. MIA L 15 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 2 2 -1
+p181
+aVJackie Butler NYK 03/19/2006 NYK vs. MIA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p182
+aVStephon Marbury NYK 03/19/2006 NYK vs. MIA L 38 12 6 13 46.2 0 1 0.0 0 1 0.0 0 4 4 7 2 0 1 4 -2
+p183
+aVJerome James NYK 03/19/2006 NYK vs. MIA L 18 13 6 9 66.7 0 0 - 1 1 100.0 3 1 4 1 0 1 0 3 5
+p184
+aVJalen Rose NYK 03/19/2006 NYK vs. MIA L 31 14 6 10 60.0 2 3 66.7 0 1 0.0 0 8 8 2 0 0 1 1 -7
+p185
+aVNate Robinson NYK 03/19/2006 NYK vs. MIA L 12 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 -2
+p186
+aVDavid Lee NYK 03/19/2006 NYK vs. MIA L 20 11 4 5 80.0 0 0 - 3 3 100.0 3 5 8 0 0 0 2 1 -9
+p187
+aVChanning Frye NYK 03/19/2006 NYK vs. MIA L 13 1 0 3 0.0 0 0 - 1 2 50.0 2 4 6 0 1 0 0 2 -1
+p188
+aVSteve Francis NYK 03/19/2006 NYK vs. MIA L 30 9 3 10 30.0 0 0 - 3 4 75.0 1 1 2 3 1 0 2 3 -20
+p189
+aVJamal Crawford NYK 03/19/2006 NYK vs. MIA L 29 16 6 12 50.0 2 3 66.7 2 3 66.7 0 1 1 2 0 0 3 0 0
+p190
+aVJamal Crawford NYK 03/17/2006 NYK vs. DET W 24 18 7 10 70.0 1 2 50.0 3 3 100.0 0 0 0 1 1 0 1 1 -12
+p191
+aVMalik Rose NYK 03/17/2006 NYK vs. DET W 31 12 5 11 45.5 0 0 - 2 3 66.7 3 8 11 2 0 0 3 4 10
+p192
+aVDavid Lee NYK 03/17/2006 NYK vs. DET W 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p193
+aVJerome James NYK 03/17/2006 NYK vs. DET W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -13
+p194
+aVJalen Rose NYK 03/17/2006 NYK vs. DET W 29 12 3 5 60.0 2 2 100.0 4 4 100.0 1 1 2 3 0 0 1 3 16
+p195
+aVSteve Francis NYK 03/17/2006 NYK vs. DET W 24 15 6 9 66.7 0 1 0.0 3 5 60.0 0 0 0 5 2 0 1 4 17
+p196
+aVChanning Frye NYK 03/17/2006 NYK vs. DET W 15 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 1 1 0 0 2 -11
+p197
+aVStephon Marbury NYK 03/17/2006 NYK vs. DET W 31 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 3 1 0 7 4 8
+p198
+aVEddy Curry NYK 03/17/2006 NYK vs. DET W 32 16 6 8 75.0 0 0 - 4 6 66.7 1 10 11 1 0 0 3 4 14
+p199
+aVJackie Butler NYK 03/17/2006 NYK vs. DET W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 2
+p200
+aVNate Robinson NYK 03/17/2006 NYK vs. DET W 17 8 4 8 50.0 0 3 0.0 0 0 - 0 0 0 1 0 0 2 1 -5
+p201
+aVQyntel Woods NYK 03/17/2006 NYK vs. DET W 19 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 1 0 3 1 -16
+p202
+aVJackie Butler NYK 03/15/2006 NYK vs. ATL W 16 6 1 1 100.0 0 0 - 4 4 100.0 1 4 5 0 0 0 2 5 6
+p203
+aVSteve Francis NYK 03/15/2006 NYK vs. ATL W 23 9 3 7 42.9 0 0 - 3 4 75.0 0 3 3 0 2 0 2 2 -2
+p204
+aVStephon Marbury NYK 03/15/2006 NYK vs. ATL W 30 8 2 7 28.6 0 1 0.0 4 10 40.0 0 2 2 6 1 0 2 1 -7
+p205
+aVJerome James NYK 03/15/2006 NYK vs. ATL W 12 6 1 1 100.0 0 0 - 4 4 100.0 0 1 1 1 0 1 1 3 18
+p206
+aVNate Robinson NYK 03/15/2006 NYK vs. ATL W 28 18 7 13 53.8 1 3 33.3 3 6 50.0 0 3 3 6 2 0 1 3 11
+p207
+aVQyntel Woods NYK 03/15/2006 NYK vs. ATL W 31 18 8 8 100.0 1 1 100.0 1 1 100.0 0 4 4 0 2 0 1 3 14
+p208
+aVEddy Curry NYK 03/15/2006 NYK vs. ATL W 24 6 3 5 60.0 0 0 - 0 0 - 3 1 4 0 0 0 6 5 -10
+p209
+aVJamal Crawford NYK 03/15/2006 NYK vs. ATL W 35 21 5 11 45.5 2 3 66.7 9 14 64.3 0 3 3 2 1 0 3 4 6
+p210
+aVDavid Lee NYK 03/15/2006 NYK vs. ATL W 28 5 2 4 50.0 0 0 - 1 3 33.3 3 3 6 2 1 0 1 2 6
+p211
+aVJalen Rose NYK 03/15/2006 NYK vs. ATL W 27 17 5 11 45.5 1 1 100.0 6 6 100.0 1 3 4 0 0 1 0 0 -10
+p212
+aVChanning Frye NYK 03/15/2006 NYK vs. ATL W 16 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 1 1 0 5 0
+p213
+aVMalik Rose NYK 03/15/2006 NYK vs. ATL W 19 4 0 5 0.0 0 0 - 4 4 100.0 1 3 4 1 1 0 2 2 -12
+p214
+aVMalik Rose NYK 03/13/2006 NYK vs. DEN L 18 4 2 5 40.0 0 0 - 0 0 - 1 6 7 1 0 0 1 2 6
+p215
+aVJalen Rose NYK 03/13/2006 NYK vs. DEN L 24 6 3 8 37.5 0 1 0.0 0 0 - 1 3 4 2 1 0 1 3 -5
+p216
+aVNate Robinson NYK 03/13/2006 NYK vs. DEN L 7 8 3 3 100.0 1 1 100.0 1 1 100.0 0 0 0 1 1 0 0 1 -1
+p217
+aVJackie Butler NYK 03/13/2006 NYK vs. DEN L 17 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 3 4 2
+p218
+aVQyntel Woods NYK 03/13/2006 NYK vs. DEN L 5 1 0 2 0.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 0 0 9
+p219
+aVQuentin Richardson NYK 03/13/2006 NYK vs. DEN L 29 3 0 8 0.0 0 2 0.0 3 6 50.0 3 4 7 2 0 0 0 3 -14
+p220
+aVSteve Francis NYK 03/13/2006 NYK vs. DEN L 24 6 3 5 60.0 0 0 - 0 0 - 0 0 0 4 0 0 3 1 -17
+p221
+aVDavid Lee NYK 03/13/2006 NYK vs. DEN L 22 7 3 5 60.0 0 0 - 1 3 33.3 0 3 3 1 0 0 4 2 -24
+p222
+aVChanning Frye NYK 03/13/2006 NYK vs. DEN L 24 16 8 13 61.5 0 0 - 0 1 0.0 1 4 5 1 0 1 1 3 -6
+p223
+aVJamal Crawford NYK 03/13/2006 NYK vs. DEN L 20 5 2 3 66.7 1 2 50.0 0 0 - 1 3 4 5 0 0 0 4 -7
+p224
+aVStephon Marbury NYK 03/13/2006 NYK vs. DEN L 36 25 11 17 64.7 2 5 40.0 1 1 100.0 2 2 4 7 1 0 1 1 -1
+p225
+aVJerome James NYK 03/13/2006 NYK vs. DEN L 14 13 6 11 54.5 0 0 - 1 1 100.0 4 0 4 0 0 2 2 3 -2
+p226
+aVJamal Crawford NYK 03/11/2006 NYK @ CHA L 14 4 1 6 16.7 0 3 0.0 2 2 100.0 0 2 2 0 0 0 0 2 1
+p227
+aVJalen Rose NYK 03/11/2006 NYK @ CHA L 42 23 8 15 53.3 2 5 40.0 5 8 62.5 1 4 5 3 1 0 1 0 -8
+p228
+aVStephon Marbury NYK 03/11/2006 NYK @ CHA L 30 18 6 10 60.0 0 0 - 6 7 85.7 1 1 2 7 1 0 1 5 -6
+p229
+aVJackie Butler NYK 03/11/2006 NYK @ CHA L 12 4 2 5 40.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 10
+p230
+aVEddy Curry NYK 03/11/2006 NYK @ CHA L 31 19 7 11 63.6 0 0 - 5 8 62.5 1 2 3 0 0 2 0 3 -16
+p231
+aVQuentin Richardson NYK 03/11/2006 NYK @ CHA L 29 8 3 11 27.3 2 7 28.6 0 0 - 2 7 9 4 0 0 3 4 -9
+p232
+aVDavid Lee NYK 03/11/2006 NYK @ CHA L 25 11 4 5 80.0 0 0 - 3 5 60.0 3 9 12 1 0 2 0 3 9
+p233
+aVChanning Frye NYK 03/11/2006 NYK @ CHA L 17 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 2 5 -10
+p234
+aVMalik Rose NYK 03/11/2006 NYK @ CHA L 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 3 -8
+p235
+aVSteve Francis NYK 03/11/2006 NYK @ CHA L 30 16 5 9 55.6 0 1 0.0 6 8 75.0 2 4 6 3 1 2 5 4 2
+p236
+aVEddy Curry NYK 03/07/2006 NYK @ IND W 20 15 6 10 60.0 0 0 - 3 5 60.0 0 2 2 0 0 0 2 4 2
+p237
+aVJalen Rose NYK 03/07/2006 NYK @ IND W 35 21 7 11 63.6 2 2 100.0 5 5 100.0 0 2 2 8 1 0 0 2 0
+p238
+aVMalik Rose NYK 03/07/2006 NYK @ IND W 31 12 2 4 50.0 0 0 - 8 10 80.0 2 8 10 0 4 0 3 2 5
+p239
+aVJamal Crawford NYK 03/07/2006 NYK @ IND W 20 16 4 7 57.1 3 5 60.0 5 5 100.0 0 3 3 1 1 1 0 1 13
+p240
+aVStephon Marbury NYK 03/07/2006 NYK @ IND W 32 10 4 8 50.0 2 2 100.0 0 0 - 0 3 3 3 0 0 4 2 9
+p241
+aVSteve Francis NYK 03/07/2006 NYK @ IND W 27 11 3 6 50.0 0 0 - 5 5 100.0 0 3 3 4 1 0 3 2 10
+p242
+aVJackie Butler NYK 03/07/2006 NYK @ IND W 16 10 3 6 50.0 0 0 - 4 4 100.0 1 2 3 0 1 0 0 5 19
+p243
+aVJerome James NYK 03/07/2006 NYK @ IND W 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 3 5 -9
+p244
+aVDavid Lee NYK 03/07/2006 NYK @ IND W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p245
+aVQuentin Richardson NYK 03/07/2006 NYK @ IND W 32 6 2 11 18.2 2 4 50.0 0 0 - 3 8 11 3 0 1 2 3 6
+p246
+aVChanning Frye NYK 03/07/2006 NYK @ IND W 14 3 1 4 25.0 0 0 - 1 2 50.0 3 1 4 1 0 0 2 2 11
+p247
+aVQyntel Woods NYK 03/07/2006 NYK @ IND W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p248
+aVJalen Rose NYK 03/04/2006 NYK @ MIL W 32 19 6 12 50.0 4 4 100.0 3 3 100.0 0 1 1 3 0 0 2 4 15
+p249
+aVStephon Marbury NYK 03/04/2006 NYK @ MIL W 37 8 4 9 44.4 0 2 0.0 0 2 0.0 0 3 3 11 1 0 1 1 10
+p250
+aVJerome James NYK 03/04/2006 NYK @ MIL W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 4 5 -8
+p251
+aVEddy Curry NYK 03/04/2006 NYK @ MIL W 35 20 6 13 46.2 0 0 - 8 9 88.9 3 8 11 0 0 2 0 2 14
+p252
+aVChanning Frye NYK 03/04/2006 NYK @ MIL W 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -11
+p253
+aVSteve Francis NYK 03/04/2006 NYK @ MIL W 24 11 2 4 50.0 1 1 100.0 6 8 75.0 1 4 5 4 3 0 2 3 -6
+p254
+aVJamal Crawford NYK 03/04/2006 NYK @ MIL W 19 10 4 9 44.4 2 2 100.0 0 0 - 1 1 2 2 1 0 0 1 -4
+p255
+aVQuentin Richardson NYK 03/04/2006 NYK @ MIL W 38 18 6 11 54.5 2 5 40.0 4 9 44.4 2 1 3 4 1 0 3 4 15
+p256
+aVJackie Butler NYK 03/04/2006 NYK @ MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p257
+aVMalik Rose NYK 03/04/2006 NYK @ MIL W 27 10 5 7 71.4 0 0 - 0 0 - 2 9 11 2 0 0 2 3 2
+p258
+aVJalen Rose NYK 03/03/2006 NYK vs. CHI L 30 13 5 7 71.4 3 4 75.0 0 1 0.0 0 4 4 2 1 0 2 1 -1
+p259
+aVMalik Rose NYK 03/03/2006 NYK vs. CHI L 36 15 2 9 22.2 0 0 - 11 11 100.0 4 6 10 5 1 0 2 3 -1
+p260
+aVJackie Butler NYK 03/03/2006 NYK vs. CHI L 8 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 1 2 -7
+p261
+aVQuentin Richardson NYK 03/03/2006 NYK vs. CHI L 24 16 6 10 60.0 4 4 100.0 0 2 0.0 0 2 2 0 0 0 0 4 -5
+p262
+aVStephon Marbury NYK 03/03/2006 NYK vs. CHI L 41 15 5 16 31.3 2 4 50.0 3 3 100.0 0 1 1 4 3 0 1 3 -5
+p263
+aVChanning Frye NYK 03/03/2006 NYK vs. CHI L 16 6 3 8 37.5 0 0 - 0 0 - 3 3 6 0 0 2 0 2 1
+p264
+aVEddy Curry NYK 03/03/2006 NYK vs. CHI L 23 11 4 8 50.0 0 0 - 3 5 60.0 4 3 7 2 0 0 4 4 -6
+p265
+aVJamal Crawford NYK 03/03/2006 NYK vs. CHI L 20 0 0 6 0.0 0 4 0.0 0 1 0.0 0 5 5 3 0 0 2 1 1
+p266
+aVSteve Francis NYK 03/03/2006 NYK vs. CHI L 31 18 7 14 50.0 3 4 75.0 1 2 50.0 1 3 4 5 1 0 4 5 -12
+p267
+aVJerome James NYK 03/03/2006 NYK vs. CHI L 11 3 1 2 50.0 0 0 - 1 1 100.0 1 1 2 0 0 2 3 5 0
+p268
+aVQuentin Richardson NYK 03/01/2006 NYK @ MEM L 33 9 3 8 37.5 2 3 66.7 1 2 50.0 0 4 4 0 1 0 3 2 -2
+p269
+aVQyntel Woods NYK 03/01/2006 NYK @ MEM L 21 9 4 7 57.1 1 2 50.0 0 0 - 0 4 4 1 0 0 2 2 -4
+p270
+aVMalik Rose NYK 03/01/2006 NYK @ MEM L 21 3 1 4 25.0 0 0 - 1 2 50.0 3 1 4 2 1 0 3 6 -2
+p271
+aVJamal Crawford NYK 03/01/2006 NYK @ MEM L 20 8 3 5 60.0 0 1 0.0 2 2 100.0 0 2 2 3 1 0 0 2 11
+p272
+aVStephon Marbury NYK 03/01/2006 NYK @ MEM L 38 25 8 11 72.7 2 2 100.0 7 8 87.5 0 1 1 13 1 0 1 1 -5
+p273
+aVChanning Frye NYK 03/01/2006 NYK @ MEM L 16 2 1 5 20.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 9
+p274
+aVEddy Curry NYK 03/01/2006 NYK @ MEM L 17 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 -12
+p275
+aVMaurice Taylor NYK 03/01/2006 NYK @ MEM L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 0
+p276
+aVJackie Butler NYK 03/01/2006 NYK @ MEM L 18 8 4 8 50.0 0 0 - 0 0 - 1 4 5 1 1 1 1 4 4
+p277
+aVDavid Lee NYK 03/01/2006 NYK @ MEM L 15 6 3 4 75.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 3 -3
+p278
+aVSteve Francis NYK 03/01/2006 NYK @ MEM L 31 19 9 14 64.3 0 0 - 1 2 50.0 0 2 2 5 2 0 2 1 -6
+p279
+aVJamal Crawford NYK 02/27/2006 NYK @ SAS L 24 8 3 6 50.0 0 2 0.0 2 2 100.0 0 3 3 3 0 0 2 2 -7
+p280
+aVSteve Francis NYK 02/27/2006 NYK @ SAS L 23 12 3 7 42.9 0 0 - 6 9 66.7 0 2 2 1 1 0 2 3 -20
+p281
+aVJackie Butler NYK 02/27/2006 NYK @ SAS L 16 11 5 13 38.5 0 0 - 1 1 100.0 7 2 9 0 1 0 2 3 4
+p282
+aVMaurice Taylor NYK 02/27/2006 NYK @ SAS L 14 3 1 3 33.3 0 0 - 1 3 33.3 0 2 2 0 0 0 1 2 -15
+p283
+aVStephon Marbury NYK 02/27/2006 NYK @ SAS L 25 2 1 9 11.1 0 0 - 0 0 - 1 1 2 3 0 0 3 3 -25
+p284
+aVEddy Curry NYK 02/27/2006 NYK @ SAS L 21 13 4 5 80.0 0 0 - 5 6 83.3 2 3 5 1 1 0 2 1 -10
+p285
+aVJalen Rose NYK 02/27/2006 NYK @ SAS L 20 8 2 5 40.0 0 0 - 4 6 66.7 0 0 0 3 1 0 5 2 -18
+p286
+aVChanning Frye NYK 02/27/2006 NYK @ SAS L 23 11 2 6 33.3 0 0 - 7 7 100.0 0 2 2 0 1 1 0 4 -12
+p287
+aVDavid Lee NYK 02/27/2006 NYK @ SAS L 25 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -6
+p288
+aVMalik Rose NYK 02/27/2006 NYK @ SAS L 12 6 2 3 66.7 0 0 - 2 2 100.0 2 0 2 0 2 0 0 3 -19
+p289
+aVQyntel Woods NYK 02/27/2006 NYK @ SAS L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -4
+p290
+aVQuentin Richardson NYK 02/27/2006 NYK @ SAS L 27 14 6 11 54.5 1 1 100.0 1 1 100.0 1 2 3 1 2 0 1 4 -8
+p291
+aVQyntel Woods NYK 02/25/2006 NYK @ WAS L 12 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 2 2 0 2 2 6
+p292
+aVSteve Francis NYK 02/25/2006 NYK @ WAS L 27 9 3 9 33.3 0 0 - 3 5 60.0 2 2 4 2 0 0 3 3 -19
+p293
+aVStephon Marbury NYK 02/25/2006 NYK @ WAS L 20 15 6 8 75.0 2 2 100.0 1 2 50.0 0 1 1 2 0 0 0 0 -29
+p294
+aVMalik Rose NYK 02/25/2006 NYK @ WAS L 11 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 -7
+p295
+aVDavid Lee NYK 02/25/2006 NYK @ WAS L 18 7 2 4 50.0 0 0 - 3 6 50.0 3 5 8 0 3 0 4 2 -5
+p296
+aVMaurice Taylor NYK 02/25/2006 NYK @ WAS L 11 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 1 0 0 5 4 -15
+p297
+aVJackie Butler NYK 02/25/2006 NYK @ WAS L 24 10 3 5 60.0 0 0 - 4 4 100.0 2 1 3 0 1 0 2 4 8
+p298
+aVEddy Curry NYK 02/25/2006 NYK @ WAS L 14 3 0 2 0.0 0 0 - 3 4 75.0 2 4 6 1 0 0 4 3 -10
+p299
+aVJalen Rose NYK 02/25/2006 NYK @ WAS L 21 9 3 7 42.9 0 0 - 3 3 100.0 0 2 2 3 0 0 2 1 -12
+p300
+aVJamal Crawford NYK 02/25/2006 NYK @ WAS L 28 6 1 4 25.0 1 1 100.0 3 3 100.0 0 1 1 3 2 0 0 4 2
+p301
+aVQuentin Richardson NYK 02/25/2006 NYK @ WAS L 27 10 4 13 30.8 1 3 33.3 1 2 50.0 3 3 6 0 1 0 0 2 -16
+p302
+aVChanning Frye NYK 02/25/2006 NYK @ WAS L 27 9 4 12 33.3 1 1 100.0 0 0 - 4 2 6 0 0 0 4 5 -8
+p303
+aVMaurice Taylor NYK 02/24/2006 NYK vs. NJN L 16 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 4 -7
+p304
+aVSteve Francis NYK 02/24/2006 NYK vs. NJN L 32 16 6 12 50.0 1 1 100.0 3 5 60.0 1 4 5 4 0 0 1 2 0
+p305
+aVQuentin Richardson NYK 02/24/2006 NYK vs. NJN L 35 4 1 9 11.1 0 4 0.0 2 2 100.0 2 7 9 3 2 0 2 4 -22
+p306
+aVJalen Rose NYK 02/24/2006 NYK vs. NJN L 29 18 7 11 63.6 2 5 40.0 2 4 50.0 0 4 4 1 1 0 2 2 15
+p307
+aVEddy Curry NYK 02/24/2006 NYK vs. NJN L 37 15 3 9 33.3 0 0 - 9 14 64.3 5 5 10 0 1 2 4 4 0
+p308
+aVMalik Rose NYK 02/24/2006 NYK vs. NJN L 12 5 2 2 100.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 1 1
+p309
+aVJamal Crawford NYK 02/24/2006 NYK vs. NJN L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -8
+p310
+aVStephon Marbury NYK 02/24/2006 NYK vs. NJN L 36 6 2 9 22.2 0 1 0.0 2 6 33.3 0 3 3 3 1 0 1 2 3
+p311
+aVChanning Frye NYK 02/24/2006 NYK vs. NJN L 27 20 6 11 54.5 0 0 - 8 10 80.0 3 5 8 0 1 1 1 6 -13
+p312
+aVDavid Lee NYK 02/24/2006 NYK vs. NJN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 11
+p313
+aVQuentin Richardson NYK 02/22/2006 NYK vs. MIA L 23 14 6 11 54.5 2 5 40.0 0 0 - 1 1 2 0 1 0 0 4 4
+p314
+aVDavid Lee NYK 02/22/2006 NYK vs. MIA L 15 6 3 6 50.0 0 0 - 0 0 - 2 2 4 1 0 0 0 0 -10
+p315
+aVJalen Rose NYK 02/22/2006 NYK vs. MIA L 30 5 2 8 25.0 1 3 33.3 0 0 - 2 5 7 0 0 0 3 1 -7
+p316
+aVJerome James NYK 02/22/2006 NYK vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p317
+aVNate Robinson NYK 02/22/2006 NYK vs. MIA L 16 9 4 11 36.4 0 3 0.0 1 2 50.0 1 0 1 0 2 0 2 1 -13
+p318
+aVJamal Crawford NYK 02/22/2006 NYK vs. MIA L 26 9 3 8 37.5 2 3 66.7 1 1 100.0 1 1 2 4 0 0 0 3 -21
+p319
+aVQyntel Woods NYK 02/22/2006 NYK vs. MIA L 8 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 1 -3
+p320
+aVChanning Frye NYK 02/22/2006 NYK vs. MIA L 32 17 8 12 66.7 0 0 - 1 2 50.0 3 7 10 0 0 0 4 2 -4
+p321
+aVStephon Marbury NYK 02/22/2006 NYK vs. MIA L 30 7 2 11 18.2 0 0 - 3 4 75.0 0 4 4 4 0 0 1 2 -7
+p322
+aVMaurice Taylor NYK 02/22/2006 NYK vs. MIA L 20 8 3 9 33.3 0 0 - 2 2 100.0 1 2 3 1 0 0 0 4 -16
+p323
+aVMalik Rose NYK 02/22/2006 NYK vs. MIA L 20 2 1 3 33.3 0 0 - 0 0 - 0 4 4 2 1 0 2 3 -13
+p324
+aVEddy Curry NYK 02/22/2006 NYK vs. MIA L 17 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 1 3 6 -9
+p325
+aVJamal Crawford NYK 02/15/2006 NYK vs. TOR W 34 14 6 12 50.0 1 2 50.0 1 1 100.0 0 8 8 6 0 0 5 3 3
+p326
+aVQuentin Richardson NYK 02/15/2006 NYK vs. TOR W 44 14 5 10 50.0 1 2 50.0 3 4 75.0 2 5 7 4 0 0 1 1 5
+p327
+aVEddy Curry NYK 02/15/2006 NYK vs. TOR W 37 18 7 10 70.0 0 0 - 4 5 80.0 2 3 5 1 0 4 1 1 -1
+p328
+aVDavid Lee NYK 02/15/2006 NYK vs. TOR W 20 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 1 0 1 0 3 8
+p329
+aVChanning Frye NYK 02/15/2006 NYK vs. TOR W 15 10 4 7 57.1 0 0 - 2 2 100.0 2 7 9 0 0 0 3 3 -3
+p330
+aVJalen Rose NYK 02/15/2006 NYK vs. TOR W 26 17 3 8 37.5 0 1 0.0 11 12 91.7 0 3 3 0 0 0 3 3 2
+p331
+aVQyntel Woods NYK 02/15/2006 NYK vs. TOR W 17 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 1 1 0 3 1 -5
+p332
+aVMaurice Taylor NYK 02/15/2006 NYK vs. TOR W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 5 3
+p333
+aVMalik Rose NYK 02/15/2006 NYK vs. TOR W 19 9 3 3 100.0 0 0 - 3 4 75.0 2 1 3 2 1 1 1 5 -6
+p334
+aVNate Robinson NYK 02/15/2006 NYK vs. TOR W 20 4 0 8 0.0 0 3 0.0 4 4 100.0 0 2 2 2 0 0 0 1 4
+p335
+aVTrevor Ariza NYK 02/13/2006 NYK @ DAL L 15 1 0 4 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 -18
+p336
+aVQuentin Richardson NYK 02/13/2006 NYK @ DAL L 33 12 5 13 38.5 0 0 - 2 2 100.0 3 2 5 3 0 1 2 5 -17
+p337
+aVDavid Lee NYK 02/13/2006 NYK @ DAL L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p338
+aVQyntel Woods NYK 02/13/2006 NYK @ DAL L 20 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 0 0 0 2 2 -17
+p339
+aVMalik Rose NYK 02/13/2006 NYK @ DAL L 18 7 2 3 66.7 0 0 - 3 5 60.0 0 2 2 1 1 0 0 2 -3
+p340
+aVNate Robinson NYK 02/13/2006 NYK @ DAL L 36 9 4 10 40.0 1 2 50.0 0 0 - 2 4 6 3 1 0 3 4 -4
+p341
+aVJalen Rose NYK 02/13/2006 NYK @ DAL L 32 13 4 10 40.0 1 1 100.0 4 7 57.1 1 1 2 2 0 0 3 4 -25
+p342
+aVJackie Butler NYK 02/13/2006 NYK @ DAL L 15 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 3 1
+p343
+aVEddy Curry NYK 02/13/2006 NYK @ DAL L 20 10 3 5 60.0 0 0 - 4 7 57.1 3 2 5 0 1 0 4 4 -22
+p344
+aVChanning Frye NYK 02/13/2006 NYK @ DAL L 28 10 3 14 21.4 0 0 - 4 4 100.0 6 8 14 1 1 1 2 3 -15
+p345
+aVMaurice Taylor NYK 02/13/2006 NYK @ DAL L 15 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -17
+p346
+aVJalen Rose NYK 02/12/2006 NYK @ HOU L 14 11 3 9 33.3 0 1 0.0 5 5 100.0 0 2 2 2 0 0 3 2 -11
+p347
+aVJackie Butler NYK 02/12/2006 NYK @ HOU L 9 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 0 3 1
+p348
+aVNate Robinson NYK 02/12/2006 NYK @ HOU L 15 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 2 0 -6
+p349
+aVQyntel Woods NYK 02/12/2006 NYK @ HOU L 28 6 2 5 40.0 0 2 0.0 2 4 50.0 0 4 4 2 0 0 2 1 0
+p350
+aVEddy Curry NYK 02/12/2006 NYK @ HOU L 16 9 3 8 37.5 0 0 - 3 5 60.0 1 6 7 0 0 0 3 6 -13
+p351
+aVMaurice Taylor NYK 02/12/2006 NYK @ HOU L 19 8 2 7 28.6 0 0 - 4 6 66.7 2 8 10 2 1 0 1 3 -4
+p352
+aVDavid Lee NYK 02/12/2006 NYK @ HOU L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p353
+aVJerome James NYK 02/12/2006 NYK @ HOU L 11 0 0 0 - 0 0 - 0 0 - 1 3 4 1 0 1 0 3 5
+p354
+aVChanning Frye NYK 02/12/2006 NYK @ HOU L 15 9 2 5 40.0 0 0 - 5 6 83.3 0 2 2 2 0 0 0 6 -7
+p355
+aVQuentin Richardson NYK 02/12/2006 NYK @ HOU L 27 19 7 13 53.8 3 6 50.0 2 3 66.7 4 2 6 1 2 2 2 4 -1
+p356
+aVJamal Crawford NYK 02/12/2006 NYK @ HOU L 24 15 5 13 38.5 2 5 40.0 3 4 75.0 1 3 4 2 1 0 2 2 -3
+p357
+aVJerome James NYK 02/10/2006 NYK @ NOK L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p358
+aVEddy Curry NYK 02/10/2006 NYK @ NOK L 30 11 2 9 22.2 0 0 - 7 12 58.3 5 3 8 0 0 0 3 4 -8
+p359
+aVDavid Lee NYK 02/10/2006 NYK @ NOK L 11 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 0 3 -2
+p360
+aVChanning Frye NYK 02/10/2006 NYK @ NOK L 22 12 4 9 44.4 0 0 - 4 4 100.0 1 7 8 0 0 0 1 6 -4
+p361
+aVQyntel Woods NYK 02/10/2006 NYK @ NOK L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 1 0 3 -4
+p362
+aVQuentin Richardson NYK 02/10/2006 NYK @ NOK L 33 14 5 13 38.5 4 8 50.0 0 0 - 1 5 6 4 0 0 0 4 -4
+p363
+aVJamal Crawford NYK 02/10/2006 NYK @ NOK L 38 13 5 11 45.5 1 5 20.0 2 3 66.7 1 1 2 5 0 0 2 2 -12
+p364
+aVJalen Rose NYK 02/10/2006 NYK @ NOK L 42 20 7 12 58.3 1 1 100.0 5 6 83.3 3 0 3 5 0 0 1 3 -8
+p365
+aVJackie Butler NYK 02/10/2006 NYK @ NOK L 16 13 6 6 100.0 0 0 - 1 1 100.0 1 3 4 1 0 0 2 0 -2
+p366
+aVNate Robinson NYK 02/10/2006 NYK @ NOK L 11 2 1 4 25.0 0 1 0.0 0 2 0.0 0 1 1 0 0 0 1 3 0
+p367
+aVMalik Rose NYK 02/10/2006 NYK @ NOK L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p368
+aVMaurice Taylor NYK 02/10/2006 NYK @ NOK L 16 12 6 8 75.0 0 0 - 0 0 - 3 3 6 0 0 0 1 3 -2
+p369
+aVEddy Curry NYK 02/08/2006 NYK @ NJN L 20 5 2 5 40.0 0 0 - 1 3 33.3 2 1 3 0 0 0 3 4 -9
+p370
+aVJerome James NYK 02/08/2006 NYK @ NJN L 6 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 0 3
+p371
+aVMaurice Taylor NYK 02/08/2006 NYK @ NJN L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p372
+aVQuentin Richardson NYK 02/08/2006 NYK @ NJN L 20 7 2 6 33.3 0 2 0.0 3 4 75.0 3 0 3 2 0 0 0 3 -17
+p373
+aVNate Robinson NYK 02/08/2006 NYK @ NJN L 24 9 2 9 22.2 0 3 0.0 5 7 71.4 0 0 0 1 1 0 1 6 -3
+p374
+aVJackie Butler NYK 02/08/2006 NYK @ NJN L 15 6 1 1 100.0 0 0 - 4 4 100.0 0 5 5 0 0 0 0 5 5
+p375
+aVDavid Lee NYK 02/08/2006 NYK @ NJN L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 9
+p376
+aVQyntel Woods NYK 02/08/2006 NYK @ NJN L 36 11 5 9 55.6 0 0 - 1 4 25.0 5 4 9 3 1 0 2 1 -1
+p377
+aVMalik Rose NYK 02/08/2006 NYK @ NJN L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 1 1 -14
+p378
+aVChanning Frye NYK 02/08/2006 NYK @ NJN L 36 17 7 13 53.8 0 0 - 3 6 50.0 2 3 5 2 0 1 4 3 -22
+p379
+aVJamal Crawford NYK 02/08/2006 NYK @ NJN L 28 3 1 5 20.0 0 2 0.0 1 2 50.0 0 2 2 6 3 0 3 1 1
+p380
+aVJalen Rose NYK 02/08/2006 NYK @ NJN L 34 22 6 12 50.0 2 3 66.7 8 8 100.0 0 3 3 2 1 0 5 4 -19
+p381
+aVJalen Rose NYK 02/07/2006 NYK vs. LAC L 40 23 8 17 47.1 1 4 25.0 6 7 85.7 1 2 3 3 0 0 2 3 -8
+p382
+aVJamal Crawford NYK 02/07/2006 NYK vs. LAC L 40 10 3 12 25.0 0 5 0.0 4 4 100.0 0 4 4 4 2 1 1 1 -1
+p383
+aVQuentin Richardson NYK 02/07/2006 NYK vs. LAC L 37 3 1 10 10.0 0 4 0.0 1 2 50.0 0 9 9 5 2 0 0 1 -7
+p384
+aVMaurice Taylor NYK 02/07/2006 NYK vs. LAC L 16 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 0 3 2 -8
+p385
+aVQyntel Woods NYK 02/07/2006 NYK vs. LAC L 17 6 2 7 28.6 1 4 25.0 1 3 33.3 2 1 3 0 0 0 1 3 5
+p386
+aVMalik Rose NYK 02/07/2006 NYK vs. LAC L 29 8 3 10 30.0 0 0 - 2 2 100.0 4 4 8 2 3 2 0 2 6
+p387
+aVJackie Butler NYK 02/07/2006 NYK vs. LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p388
+aVEddy Curry NYK 02/07/2006 NYK vs. LAC L 23 14 5 7 71.4 0 0 - 4 4 100.0 3 0 3 0 0 0 2 2 -17
+p389
+aVNate Robinson NYK 02/07/2006 NYK vs. LAC L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 1 1 2
+p390
+aVDavid Lee NYK 02/07/2006 NYK vs. LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p391
+aVJerome James NYK 02/07/2006 NYK vs. LAC L 6 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 1 2
+p392
+aVChanning Frye NYK 02/07/2006 NYK vs. LAC L 19 8 3 11 27.3 0 0 - 2 2 100.0 4 2 6 0 2 0 1 1 13
+p393
+aVNate Robinson NYK 02/05/2006 NYK vs. HOU L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 2 -1
+p394
+aVJamal Crawford NYK 02/05/2006 NYK vs. HOU L 43 24 9 15 60.0 5 9 55.6 1 1 100.0 0 4 4 5 1 0 0 3 -7
+p395
+aVQyntel Woods NYK 02/05/2006 NYK vs. HOU L 26 12 4 8 50.0 2 3 66.7 2 2 100.0 1 3 4 1 0 0 2 3 -2
+p396
+aVJerome James NYK 02/05/2006 NYK vs. HOU L 14 6 2 4 50.0 0 0 - 2 2 100.0 2 6 8 0 0 0 3 4 -12
+p397
+aVChanning Frye NYK 02/05/2006 NYK vs. HOU L 21 6 2 7 28.6 0 0 - 2 2 100.0 0 3 3 1 0 0 2 1 2
+p398
+aVMaurice Taylor NYK 02/05/2006 NYK vs. HOU L 27 4 2 8 25.0 0 0 - 0 0 - 1 3 4 0 1 0 1 5 -6
+p399
+aVEddy Curry NYK 02/05/2006 NYK vs. HOU L 34 15 6 12 50.0 0 0 - 3 6 50.0 1 5 6 0 1 0 4 3 8
+p400
+aVQuentin Richardson NYK 02/05/2006 NYK vs. HOU L 24 4 1 5 20.0 0 3 0.0 2 3 66.7 2 4 6 1 1 0 0 4 -2
+p401
+aVJalen Rose NYK 02/05/2006 NYK vs. HOU L 41 16 4 12 33.3 2 3 66.7 6 6 100.0 0 5 5 11 0 1 4 5 0
+p402
+aVMalik Rose NYK 02/03/2006 NYK @ TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -5
+p403
+aVEddy Curry NYK 02/03/2006 NYK @ TOR L 32 17 5 8 62.5 0 0 - 7 11 63.6 1 4 5 0 1 5 2 4 -5
+p404
+aVMaurice Taylor NYK 02/03/2006 NYK @ TOR L 18 8 4 6 66.7 0 0 - 0 0 - 0 0 0 2 0 0 2 3 -20
+p405
+aVChanning Frye NYK 02/03/2006 NYK @ TOR L 19 12 4 8 50.0 0 1 0.0 4 4 100.0 1 2 3 1 0 3 1 4 4
+p406
+aVQuentin Richardson NYK 02/03/2006 NYK @ TOR L 18 13 4 6 66.7 4 6 66.7 1 2 50.0 0 1 1 0 0 0 2 1 -10
+p407
+aVDavid Lee NYK 02/03/2006 NYK @ TOR L 23 10 4 5 80.0 0 0 - 2 3 66.7 2 4 6 3 0 0 1 0 9
+p408
+aVJackie Butler NYK 02/03/2006 NYK @ TOR L 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 3 1 4 -9
+p409
+aVNate Robinson NYK 02/03/2006 NYK @ TOR L 17 9 1 7 14.3 0 2 0.0 7 8 87.5 0 2 2 3 1 0 0 2 0
+p410
+aVTrevor Ariza NYK 02/03/2006 NYK @ TOR L 18 1 0 0 - 0 0 - 1 4 25.0 1 1 2 3 2 1 2 2 0
+p411
+aVQyntel Woods NYK 02/03/2006 NYK @ TOR L 34 7 3 4 75.0 1 1 100.0 0 0 - 0 7 7 2 0 1 6 4 -19
+p412
+aVJamal Crawford NYK 02/03/2006 NYK @ TOR L 41 11 4 13 30.8 1 5 20.0 2 3 66.7 1 4 5 6 0 1 4 3 -15
+p413
+aVMalik Rose NYK 01/31/2006 NYK vs. LAL L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p414
+aVChanning Frye NYK 01/31/2006 NYK vs. LAL L 24 8 3 11 27.3 0 0 - 2 2 100.0 0 4 4 1 1 0 1 3 -18
+p415
+aVJackie Butler NYK 01/31/2006 NYK vs. LAL L 11 6 3 3 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 5 -14
+p416
+aVQuentin Richardson NYK 01/31/2006 NYK vs. LAL L 23 14 5 12 41.7 2 7 28.6 2 2 100.0 1 0 1 3 1 0 0 5 -17
+p417
+aVQyntel Woods NYK 01/31/2006 NYK vs. LAL L 37 15 6 13 46.2 1 2 50.0 2 2 100.0 2 7 9 3 2 0 1 4 -24
+p418
+aVJamal Crawford NYK 01/31/2006 NYK vs. LAL L 31 6 0 5 0.0 0 3 0.0 6 7 85.7 0 3 3 7 0 0 2 3 -22
+p419
+aVNate Robinson NYK 01/31/2006 NYK vs. LAL L 16 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 2 1 0 0 3 -5
+p420
+aVDavid Lee NYK 01/31/2006 NYK vs. LAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p421
+aVEddy Curry NYK 01/31/2006 NYK vs. LAL L 28 11 4 11 36.4 0 0 - 3 6 50.0 2 2 4 2 1 0 3 4 -12
+p422
+aVMaurice Taylor NYK 01/31/2006 NYK vs. LAL L 18 8 4 6 66.7 0 0 - 0 0 - 3 2 5 0 1 0 2 1 -14
+p423
+aVStephon Marbury NYK 01/31/2006 NYK vs. LAL L 26 12 4 11 36.4 2 4 50.0 2 2 100.0 0 1 1 6 1 0 2 1 -22
+p424
+aVAntonio Davis NYK 01/31/2006 NYK vs. LAL L 15 7 3 5 60.0 0 0 - 1 1 100.0 2 3 5 0 0 0 1 3 -8
+p425
+aVEddy Curry NYK 01/30/2006 NYK @ ATL L 22 14 3 5 60.0 0 0 - 8 12 66.7 1 5 6 0 1 1 1 3 -15
+p426
+aVJamal Crawford NYK 01/30/2006 NYK @ ATL L 26 8 2 6 33.3 2 4 50.0 2 2 100.0 0 0 0 5 0 0 4 4 -6
+p427
+aVMalik Rose NYK 01/30/2006 NYK @ ATL L 20 8 2 3 66.7 0 0 - 4 4 100.0 1 1 2 3 2 0 1 4 -13
+p428
+aVNate Robinson NYK 01/30/2006 NYK @ ATL L 18 9 2 7 28.6 1 3 33.3 4 4 100.0 1 1 2 1 0 0 3 4 -11
+p429
+aVDavid Lee NYK 01/30/2006 NYK @ ATL L 29 18 8 11 72.7 0 0 - 2 4 50.0 3 3 6 1 0 0 2 3 -11
+p430
+aVQuentin Richardson NYK 01/30/2006 NYK @ ATL L 22 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 2 0 0 2 2 -10
+p431
+aVChanning Frye NYK 01/30/2006 NYK @ ATL L 27 13 3 8 37.5 0 0 - 7 8 87.5 4 5 9 3 0 0 3 2 -5
+p432
+aVStephon Marbury NYK 01/30/2006 NYK @ ATL L 29 8 4 9 44.4 0 0 - 0 0 - 0 1 1 4 0 0 2 1 -11
+p433
+aVJackie Butler NYK 01/30/2006 NYK @ ATL L 26 15 7 8 87.5 0 0 - 1 1 100.0 1 3 4 1 0 4 2 5 -4
+p434
+aVMaurice Taylor NYK 01/30/2006 NYK @ ATL L 20 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 0 0 3 1 -9
+p435
+aVDavid Lee NYK 01/28/2006 NYK @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p436
+aVJackie Butler NYK 01/28/2006 NYK @ PHI L 17 1 0 5 0.0 0 0 - 1 2 50.0 2 3 5 0 0 4 1 0 -14
+p437
+aVNate Robinson NYK 01/28/2006 NYK @ PHI L 17 5 1 6 16.7 0 0 - 3 4 75.0 1 2 3 2 0 0 1 1 8
+p438
+aVJamal Crawford NYK 01/28/2006 NYK @ PHI L 20 2 0 5 0.0 0 3 0.0 2 2 100.0 0 0 0 0 1 0 2 1 -24
+p439
+aVQuentin Richardson NYK 01/28/2006 NYK @ PHI L 27 8 3 5 60.0 2 2 100.0 0 0 - 0 3 3 1 0 0 0 4 -9
+p440
+aVQyntel Woods NYK 01/28/2006 NYK @ PHI L 37 24 8 11 72.7 3 3 100.0 5 5 100.0 1 7 8 0 2 0 0 1 -7
+p441
+aVEddy Curry NYK 01/28/2006 NYK @ PHI L 23 5 2 7 28.6 0 0 - 1 3 33.3 3 2 5 0 1 0 3 6 -7
+p442
+aVStephon Marbury NYK 01/28/2006 NYK @ PHI L 42 14 4 10 40.0 2 4 50.0 4 5 80.0 0 6 6 8 0 0 4 1 -8
+p443
+aVMalik Rose NYK 01/28/2006 NYK @ PHI L 14 5 1 4 25.0 0 0 - 3 4 75.0 0 2 2 1 0 0 1 2 -6
+p444
+aVMaurice Taylor NYK 01/28/2006 NYK @ PHI L 24 8 4 10 40.0 0 0 - 0 0 - 1 3 4 0 0 0 4 4 0
+p445
+aVChanning Frye NYK 01/28/2006 NYK @ PHI L 18 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 2 -6
+p446
+aVJackie Butler NYK 01/27/2006 NYK vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 3
+p447
+aVDavid Lee NYK 01/27/2006 NYK vs. ORL W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -3
+p448
+aVNate Robinson NYK 01/27/2006 NYK vs. ORL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p449
+aVMaurice Taylor NYK 01/27/2006 NYK vs. ORL W 17 6 3 6 50.0 0 0 - 0 0 - 0 6 6 1 0 0 0 3 -9
+p450
+aVMalik Rose NYK 01/27/2006 NYK vs. ORL W 13 6 0 3 0.0 0 0 - 6 8 75.0 3 5 8 1 3 0 2 3 13
+p451
+aVQyntel Woods NYK 01/27/2006 NYK vs. ORL W 37 11 5 9 55.6 1 3 33.3 0 0 - 2 4 6 0 1 0 1 4 4
+p452
+aVQuentin Richardson NYK 01/27/2006 NYK vs. ORL W 24 0 0 6 0.0 0 3 0.0 0 0 - 0 0 0 1 3 0 0 1 11
+p453
+aVChanning Frye NYK 01/27/2006 NYK vs. ORL W 29 18 7 15 46.7 0 0 - 4 9 44.4 5 2 7 0 2 1 0 2 -2
+p454
+aVStephon Marbury NYK 01/27/2006 NYK vs. ORL W 38 8 2 6 33.3 0 1 0.0 4 6 66.7 0 2 2 7 2 0 3 3 6
+p455
+aVJamal Crawford NYK 01/27/2006 NYK vs. ORL W 29 21 7 14 50.0 1 5 20.0 6 7 85.7 0 3 3 1 3 0 1 2 -6
+p456
+aVEddy Curry NYK 01/27/2006 NYK vs. ORL W 34 27 8 15 53.3 0 0 - 11 14 78.6 6 4 10 0 1 0 5 4 1
+p457
+aVEddy Curry NYK 01/25/2006 NYK vs. SAC L 32 17 5 8 62.5 0 0 - 7 8 87.5 2 8 10 0 0 0 6 4 6
+p458
+aVQyntel Woods NYK 01/25/2006 NYK vs. SAC L 22 14 6 8 75.0 1 1 100.0 1 4 25.0 3 9 12 1 2 0 1 6 -1
+p459
+aVQuentin Richardson NYK 01/25/2006 NYK vs. SAC L 26 9 3 12 25.0 3 7 42.9 0 0 - 1 2 3 2 0 0 0 2 -5
+p460
+aVNate Robinson NYK 01/25/2006 NYK vs. SAC L 15 6 1 4 25.0 1 2 50.0 3 4 75.0 0 0 0 2 0 0 0 1 -1
+p461
+aVMalik Rose NYK 01/25/2006 NYK vs. SAC L 20 2 1 6 16.7 0 0 - 0 0 - 1 6 7 0 1 0 1 5 -20
+p462
+aVJamal Crawford NYK 01/25/2006 NYK vs. SAC L 47 7 3 14 21.4 1 4 25.0 0 0 - 0 4 4 10 1 0 0 1 -3
+p463
+aVMaurice Taylor NYK 01/25/2006 NYK vs. SAC L 37 21 8 12 66.7 0 0 - 5 6 83.3 4 8 12 1 0 1 3 5 13
+p464
+aVJerome James NYK 01/25/2006 NYK vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 2 2 3
+p465
+aVStephon Marbury NYK 01/25/2006 NYK vs. SAC L 44 22 10 18 55.6 0 3 0.0 2 2 100.0 0 5 5 6 0 0 4 3 -4
+p466
+aVChanning Frye NYK 01/25/2006 NYK vs. SAC L 19 4 2 6 33.3 0 0 - 0 2 0.0 0 2 2 0 0 0 0 4 -8
+p467
+aVJerome James NYK 01/21/2006 NYK vs. NOK L 5 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 2 5
+p468
+aVMaurice Taylor NYK 01/21/2006 NYK vs. NOK L 20 12 3 8 37.5 0 0 - 6 6 100.0 3 2 5 1 1 1 2 4 -7
+p469
+aVDavid Lee NYK 01/21/2006 NYK vs. NOK L 18 6 3 4 75.0 0 0 - 0 0 - 3 4 7 1 0 1 0 2 -6
+p470
+aVMalik Rose NYK 01/21/2006 NYK vs. NOK L 12 4 0 2 0.0 0 0 - 4 4 100.0 0 1 1 0 1 1 0 0 -6
+p471
+aVChanning Frye NYK 01/21/2006 NYK vs. NOK L 33 18 7 12 58.3 0 0 - 4 4 100.0 3 4 7 1 1 1 2 5 -8
+p472
+aVTrevor Ariza NYK 01/21/2006 NYK vs. NOK L 25 8 3 7 42.9 0 0 - 2 3 66.7 1 3 4 2 2 0 3 2 -2
+p473
+aVQyntel Woods NYK 01/21/2006 NYK vs. NOK L 26 11 4 8 50.0 0 1 0.0 3 4 75.0 1 4 5 4 1 1 1 2 4
+p474
+aVNate Robinson NYK 01/21/2006 NYK vs. NOK L 16 13 4 7 57.1 1 2 50.0 4 4 100.0 1 2 3 1 0 0 0 6 0
+p475
+aVQuentin Richardson NYK 01/21/2006 NYK vs. NOK L 18 2 1 8 12.5 0 4 0.0 0 0 - 0 1 1 3 0 0 0 0 -7
+p476
+aVJamal Crawford NYK 01/21/2006 NYK vs. NOK L 40 14 6 12 50.0 0 4 0.0 2 3 66.7 1 2 3 3 2 0 6 3 -24
+p477
+aVEddy Curry NYK 01/21/2006 NYK vs. NOK L 27 10 4 6 66.7 0 0 - 2 5 40.0 0 3 3 0 0 1 4 3 -4
+p478
+aVChanning Frye NYK 01/19/2006 NYK vs. DET L 35 15 7 15 46.7 0 0 - 1 1 100.0 2 5 7 2 1 0 1 1 -17
+p479
+aVNate Robinson NYK 01/19/2006 NYK vs. DET L 30 11 5 12 41.7 1 2 50.0 0 0 - 0 1 1 4 1 0 7 2 -17
+p480
+aVJerome James NYK 01/19/2006 NYK vs. DET L 6 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 1
+p481
+aVQyntel Woods NYK 01/19/2006 NYK vs. DET L 11 3 1 1 100.0 0 0 - 1 3 33.3 0 0 0 2 0 0 0 1 -1
+p482
+aVMaurice Taylor NYK 01/19/2006 NYK vs. DET L 11 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 1 0 0 0 -4
+p483
+aVJamal Crawford NYK 01/19/2006 NYK vs. DET L 39 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 3 2 0 3 4 -19
+p484
+aVTrevor Ariza NYK 01/19/2006 NYK vs. DET L 17 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 0 4 1 -2
+p485
+aVEddy Curry NYK 01/19/2006 NYK vs. DET L 42 26 10 15 66.7 0 0 - 6 10 60.0 4 4 8 0 0 0 3 4 -27
+p486
+aVQuentin Richardson NYK 01/19/2006 NYK vs. DET L 24 6 2 6 33.3 0 3 0.0 2 2 100.0 0 2 2 1 1 0 1 4 -17
+p487
+aVDavid Lee NYK 01/19/2006 NYK vs. DET L 25 0 0 2 0.0 0 0 - 0 0 - 0 7 7 1 0 0 1 2 -27
+p488
+aVJamal Crawford NYK 01/18/2006 NYK @ CHI L 50 19 6 16 37.5 2 5 40.0 5 6 83.3 1 2 3 8 3 0 4 2 2
+p489
+aVNate Robinson NYK 01/18/2006 NYK @ CHI L 27 16 4 11 36.4 0 0 - 8 8 100.0 1 2 3 1 1 0 5 5 8
+p490
+aVChanning Frye NYK 01/18/2006 NYK @ CHI L 19 9 3 9 33.3 0 0 - 3 3 100.0 1 3 4 2 0 0 4 2 9
+p491
+aVQuentin Richardson NYK 01/18/2006 NYK @ CHI L 28 17 7 13 53.8 2 4 50.0 1 2 50.0 0 0 0 1 0 0 0 3 -6
+p492
+aVMalik Rose NYK 01/18/2006 NYK @ CHI L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -3
+p493
+aVAntonio Davis NYK 01/18/2006 NYK @ CHI L 31 16 7 10 70.0 0 0 - 2 2 100.0 2 7 9 1 0 0 2 2 13
+p494
+aVDavid Lee NYK 01/18/2006 NYK @ CHI L 37 2 1 5 20.0 0 0 - 0 0 - 4 10 14 1 0 2 0 4 -5
+p495
+aVJerome James NYK 01/18/2006 NYK @ CHI L 9 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 2 0 2 -4
+p496
+aVMaurice Taylor NYK 01/18/2006 NYK @ CHI L 14 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 2 0 3 5 -12
+p497
+aVTrevor Ariza NYK 01/18/2006 NYK @ CHI L 19 4 2 4 50.0 0 0 - 0 0 - 2 1 3 2 1 1 3 2 -9
+p498
+aVEddy Curry NYK 01/18/2006 NYK @ CHI L 25 11 5 11 45.5 0 0 - 1 2 50.0 2 2 4 0 1 1 1 6 -3
+p499
+aVJerome James NYK 01/16/2006 NYK vs. MIN L 15 8 3 6 50.0 0 0 - 2 4 50.0 1 0 1 0 0 1 0 5 -1
+p500
+aVNate Robinson NYK 01/16/2006 NYK vs. MIN L 27 13 5 9 55.6 1 3 33.3 2 2 100.0 0 2 2 2 0 0 0 3 8
+p501
+aVChanning Frye NYK 01/16/2006 NYK vs. MIN L 26 9 4 9 44.4 0 0 - 1 2 50.0 1 6 7 2 0 0 0 5 4
+p502
+aVEddy Curry NYK 01/16/2006 NYK vs. MIN L 32 12 5 11 45.5 0 0 - 2 3 66.7 1 5 6 0 0 1 2 3 -5
+p503
+aVDavid Lee NYK 01/16/2006 NYK vs. MIN L 21 6 3 4 75.0 0 0 - 0 0 - 1 3 4 2 0 0 0 2 -11
+p504
+aVJamal Crawford NYK 01/16/2006 NYK vs. MIN L 35 4 1 9 11.1 0 4 0.0 2 2 100.0 0 2 2 8 1 0 4 1 -11
+p505
+aVAntonio Davis NYK 01/16/2006 NYK vs. MIN L 20 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 1 0 1 3 -9
+p506
+aVQuentin Richardson NYK 01/16/2006 NYK vs. MIN L 31 14 5 10 50.0 2 3 66.7 2 2 100.0 2 5 7 1 1 0 0 2 2
+p507
+aVStephon Marbury NYK 01/16/2006 NYK vs. MIN L 33 20 7 16 43.8 2 3 66.7 4 4 100.0 0 0 0 5 0 0 2 1 -7
+p508
+aVMalik Rose NYK 01/15/2006 NYK @ TOR L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 2 0 1 -3
+p509
+aVChanning Frye NYK 01/15/2006 NYK @ TOR L 20 15 3 9 33.3 0 0 - 9 12 75.0 5 1 6 1 0 2 2 5 -17
+p510
+aVDavid Lee NYK 01/15/2006 NYK @ TOR L 39 15 6 9 66.7 0 0 - 3 6 50.0 3 9 12 0 1 0 2 3 -23
+p511
+aVAntonio Davis NYK 01/15/2006 NYK @ TOR L 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -4
+p512
+aVStephon Marbury NYK 01/15/2006 NYK @ TOR L 33 18 7 12 58.3 0 1 0.0 4 4 100.0 0 3 3 13 0 0 1 1 -9
+p513
+aVTrevor Ariza NYK 01/15/2006 NYK @ TOR L 9 2 0 1 0.0 0 0 - 2 6 33.3 0 1 1 0 2 0 1 1 -1
+p514
+aVEddy Curry NYK 01/15/2006 NYK @ TOR L 27 20 8 13 61.5 0 0 - 4 8 50.0 0 6 6 0 0 0 2 2 -16
+p515
+aVMaurice Taylor NYK 01/15/2006 NYK @ TOR L 16 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 2 2 0 2 4 3
+p516
+aVNate Robinson NYK 01/15/2006 NYK @ TOR L 20 4 1 6 16.7 0 2 0.0 2 2 100.0 0 0 0 2 1 0 1 4 -18
+p517
+aVJamal Crawford NYK 01/15/2006 NYK @ TOR L 34 12 3 11 27.3 2 7 28.6 4 5 80.0 0 2 2 1 0 0 0 3 -24
+p518
+aVQuentin Richardson NYK 01/15/2006 NYK @ TOR L 21 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 1 0 0 2 3 -18
+p519
+aVQyntel Woods NYK 01/13/2006 NYK vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p520
+aVAntonio Davis NYK 01/13/2006 NYK vs. ATL W 20 6 2 4 50.0 0 0 - 2 3 66.7 1 3 4 0 0 0 1 4 7
+p521
+aVEddy Curry NYK 01/13/2006 NYK vs. ATL W 34 15 7 10 70.0 0 0 - 1 5 20.0 3 4 7 0 1 1 2 3 13
+p522
+aVJamal Crawford NYK 01/13/2006 NYK vs. ATL W 31 23 8 14 57.1 3 4 75.0 4 5 80.0 0 3 3 2 0 1 1 0 4
+p523
+aVChanning Frye NYK 01/13/2006 NYK vs. ATL W 23 12 4 8 50.0 0 0 - 4 4 100.0 2 1 3 1 0 1 1 1 7
+p524
+aVStephon Marbury NYK 01/13/2006 NYK vs. ATL W 41 19 8 16 50.0 1 1 100.0 2 3 66.7 1 4 5 9 4 0 3 2 15
+p525
+aVMaurice Taylor NYK 01/13/2006 NYK vs. ATL W 17 7 3 5 60.0 0 0 - 1 4 25.0 1 2 3 1 0 0 4 1 -1
+p526
+aVNate Robinson NYK 01/13/2006 NYK vs. ATL W 24 17 6 10 60.0 1 2 50.0 4 4 100.0 0 3 3 4 0 0 2 1 8
+p527
+aVDavid Lee NYK 01/13/2006 NYK vs. ATL W 34 4 1 2 50.0 0 0 - 2 2 100.0 5 5 10 2 1 0 1 1 3
+p528
+aVMalik Rose NYK 01/13/2006 NYK vs. ATL W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 2 0 0 3 -1
+p529
+aVJerome James NYK 01/11/2006 NYK vs. DAL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p530
+aVMaurice Taylor NYK 01/11/2006 NYK vs. DAL W 27 6 3 7 42.9 0 0 - 0 0 - 3 1 4 0 0 0 2 3 -4
+p531
+aVDavid Lee NYK 01/11/2006 NYK vs. DAL W 19 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -8
+p532
+aVTrevor Ariza NYK 01/11/2006 NYK vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p533
+aVJamal Crawford NYK 01/11/2006 NYK vs. DAL W 40 25 7 17 41.2 2 3 66.7 9 10 90.0 3 4 7 4 0 0 4 2 -6
+p534
+aVQuentin Richardson NYK 01/11/2006 NYK vs. DAL W 25 4 1 2 50.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 1 2 6
+p535
+aVStephon Marbury NYK 01/11/2006 NYK vs. DAL W 43 28 8 21 38.1 2 5 40.0 10 10 100.0 0 4 4 6 0 0 3 3 3
+p536
+aVNate Robinson NYK 01/11/2006 NYK vs. DAL W 33 8 3 14 21.4 2 5 40.0 0 0 - 3 5 8 2 2 0 1 3 13
+p537
+aVAntonio Davis NYK 01/11/2006 NYK vs. DAL W 22 11 4 8 50.0 0 0 - 3 3 100.0 7 2 9 0 1 0 1 3 9
+p538
+aVChanning Frye NYK 01/11/2006 NYK vs. DAL W 23 8 3 11 27.3 0 0 - 2 2 100.0 5 2 7 0 0 0 0 2 0
+p539
+aVEddy Curry NYK 01/11/2006 NYK vs. DAL W 27 21 8 13 61.5 0 0 - 5 6 83.3 5 2 7 1 0 0 3 3 6
+p540
+aVEddy Curry NYK 01/10/2006 NYK @ CLE W 29 12 5 11 45.5 0 0 - 2 4 50.0 1 7 8 0 0 2 3 4 -6
+p541
+aVQuentin Richardson NYK 01/10/2006 NYK @ CLE W 36 5 1 9 11.1 1 5 20.0 2 2 100.0 1 7 8 1 1 0 0 1 17
+p542
+aVAntonio Davis NYK 01/10/2006 NYK @ CLE W 19 0 0 2 0.0 0 0 - 0 0 - 4 4 8 0 0 0 1 1 -12
+p543
+aVMaurice Taylor NYK 01/10/2006 NYK @ CLE W 16 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 1 14
+p544
+aVChanning Frye NYK 01/10/2006 NYK @ CLE W 29 16 7 14 50.0 0 1 0.0 2 2 100.0 3 4 7 2 0 0 2 5 20
+p545
+aVJamal Crawford NYK 01/10/2006 NYK @ CLE W 40 26 9 21 42.9 1 3 33.3 7 9 77.8 2 8 10 4 0 0 4 1 20
+p546
+aVDavid Lee NYK 01/10/2006 NYK @ CLE W 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -14
+p547
+aVNate Robinson NYK 01/10/2006 NYK @ CLE W 15 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 1 0 1 1 -8
+p548
+aVJerome James NYK 01/10/2006 NYK @ CLE W 3 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 0
+p549
+aVStephon Marbury NYK 01/10/2006 NYK @ CLE W 43 22 8 12 66.7 0 1 0.0 6 6 100.0 0 5 5 5 0 1 1 2 9
+p550
+aVAntonio Davis NYK 01/08/2006 NYK vs. SEA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p551
+aVQyntel Woods NYK 01/08/2006 NYK vs. SEA W 23 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 1 1 0 0 2 1
+p552
+aVNate Robinson NYK 01/08/2006 NYK vs. SEA W 27 17 5 9 55.6 3 4 75.0 4 5 80.0 0 3 3 4 0 0 3 5 0
+p553
+aVMaurice Taylor NYK 01/08/2006 NYK vs. SEA W 28 23 11 14 78.6 0 0 - 1 1 100.0 3 3 6 1 0 0 1 3 5
+p554
+aVDavid Lee NYK 01/08/2006 NYK vs. SEA W 24 9 4 5 80.0 0 0 - 1 2 50.0 3 2 5 1 0 0 0 3 11
+p555
+aVJerome James NYK 01/08/2006 NYK vs. SEA W 3 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -2
+p556
+aVMalik Rose NYK 01/08/2006 NYK vs. SEA W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p557
+aVQuentin Richardson NYK 01/08/2006 NYK vs. SEA W 6 5 1 4 25.0 1 1 100.0 2 2 100.0 1 1 2 0 0 0 1 0 -5
+p558
+aVChanning Frye NYK 01/08/2006 NYK vs. SEA W 22 15 4 6 66.7 0 0 - 7 7 100.0 3 2 5 0 0 0 1 4 12
+p559
+aVEddy Curry NYK 01/08/2006 NYK vs. SEA W 30 22 7 10 70.0 0 0 - 8 9 88.9 1 4 5 0 0 1 5 4 -4
+p560
+aVTrevor Ariza NYK 01/08/2006 NYK vs. SEA W 23 4 1 3 33.3 0 0 - 2 2 100.0 0 7 7 0 0 1 0 1 3
+p561
+aVStephon Marbury NYK 01/08/2006 NYK vs. SEA W 44 23 8 21 38.1 0 4 0.0 7 10 70.0 0 1 1 15 4 0 1 2 5
+p562
+aVNate Robinson NYK 01/06/2006 NYK vs. WAS W 34 16 5 10 50.0 2 4 50.0 4 4 100.0 3 4 7 5 1 0 7 4 7
+p563
+aVEddy Curry NYK 01/06/2006 NYK vs. WAS W 25 13 4 7 57.1 0 0 - 5 7 71.4 1 4 5 0 0 0 2 2 -3
+p564
+aVStephon Marbury NYK 01/06/2006 NYK vs. WAS W 38 16 8 16 50.0 0 2 0.0 0 0 - 0 2 2 11 1 0 1 1 18
+p565
+aVTrevor Ariza NYK 01/06/2006 NYK vs. WAS W 30 8 3 8 37.5 0 0 - 2 4 50.0 1 5 6 1 0 0 0 2 25
+p566
+aVDavid Lee NYK 01/06/2006 NYK vs. WAS W 24 6 1 1 100.0 0 0 - 4 6 66.7 3 5 8 0 0 0 4 4 -4
+p567
+aVChanning Frye NYK 01/06/2006 NYK vs. WAS W 26 30 11 13 84.6 1 1 100.0 7 8 87.5 4 3 7 0 2 0 1 3 20
+p568
+aVJackie Butler NYK 01/06/2006 NYK vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p569
+aVAntonio Davis NYK 01/06/2006 NYK vs. WAS W 15 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 0 0 3 4 2
+p570
+aVMaurice Taylor NYK 01/06/2006 NYK vs. WAS W 27 12 6 12 50.0 0 0 - 0 0 - 1 5 6 1 1 0 0 2 22
+p571
+aVQyntel Woods NYK 01/06/2006 NYK vs. WAS W 18 6 2 7 28.6 0 1 0.0 2 2 100.0 1 3 4 1 0 0 1 5 17
+p572
+aVQyntel Woods NYK 01/02/2006 NYK vs. PHX W 15 3 1 3 33.3 0 0 - 1 2 50.0 2 3 5 0 1 0 2 2 2
+p573
+aVEddy Curry NYK 01/02/2006 NYK vs. PHX W 43 20 6 15 40.0 0 0 - 8 14 57.1 7 8 15 0 1 1 2 3 4
+p574
+aVStephon Marbury NYK 01/02/2006 NYK vs. PHX W 55 32 13 28 46.4 1 4 25.0 5 7 71.4 1 4 5 10 1 0 6 5 14
+p575
+aVDavid Lee NYK 01/02/2006 NYK vs. PHX W 52 23 10 11 90.9 0 0 - 3 6 50.0 3 12 15 2 3 0 2 3 5
+p576
+aVJamal Crawford NYK 01/02/2006 NYK vs. PHX W 49 29 10 18 55.6 2 5 40.0 7 9 77.8 1 6 7 7 2 0 3 2 6
+p577
+aVNate Robinson NYK 01/02/2006 NYK vs. PHX W 39 8 3 9 33.3 1 2 50.0 1 4 25.0 1 2 3 4 3 0 1 5 0
+p578
+aVChanning Frye NYK 01/02/2006 NYK vs. PHX W 15 10 3 5 60.0 0 0 - 4 6 66.7 1 1 2 0 0 0 1 2 -1
+p579
+aVMalik Rose NYK 01/02/2006 NYK vs. PHX W 5 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 0 0 1 1 2
+p580
+aVAntonio Davis NYK 01/02/2006 NYK vs. PHX W 19 6 3 6 50.0 0 0 - 0 0 - 2 5 7 0 0 0 1 0 1
+p581
+aVMaurice Taylor NYK 01/02/2006 NYK vs. PHX W 24 7 3 10 30.0 0 0 - 1 2 50.0 1 2 3 0 1 0 3 4 2
+p582
+aVTrevor Ariza NYK 12/30/2005 NYK @ MIL L 12 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 4 -6
+p583
+aVJamal Crawford NYK 12/30/2005 NYK @ MIL L 32 9 4 15 26.7 1 6 16.7 0 2 0.0 4 3 7 5 1 0 1 2 -3
+p584
+aVDavid Lee NYK 12/30/2005 NYK @ MIL L 34 5 2 4 50.0 0 0 - 1 2 50.0 1 11 12 1 1 1 1 2 2
+p585
+aVMaurice Taylor NYK 12/30/2005 NYK @ MIL L 22 18 8 11 72.7 0 0 - 2 3 66.7 1 1 2 0 0 0 1 5 -1
+p586
+aVEddy Curry NYK 12/30/2005 NYK @ MIL L 30 12 4 10 40.0 0 0 - 4 5 80.0 3 9 12 1 2 2 2 5 9
+p587
+aVAntonio Davis NYK 12/30/2005 NYK @ MIL L 15 7 3 5 60.0 0 0 - 1 1 100.0 1 2 3 0 0 0 1 4 -11
+p588
+aVNate Robinson NYK 12/30/2005 NYK @ MIL L 32 19 5 12 41.7 3 7 42.9 6 7 85.7 1 3 4 5 0 0 3 6 -2
+p589
+aVChanning Frye NYK 12/30/2005 NYK @ MIL L 18 15 6 10 60.0 0 1 0.0 3 5 60.0 3 2 5 0 0 0 2 1 0
+p590
+aVMalik Rose NYK 12/30/2005 NYK @ MIL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p591
+aVStephon Marbury NYK 12/30/2005 NYK @ MIL L 40 23 7 15 46.7 0 2 0.0 9 10 90.0 1 1 2 12 3 0 4 3 -9
+p592
+aVJerome James NYK 12/30/2005 NYK @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -4
+p593
+aVEddy Curry NYK 12/28/2005 NYK @ ORL L 25 29 10 17 58.8 0 0 - 9 12 75.0 6 3 9 0 0 0 2 4 1
+p594
+aVTrevor Ariza NYK 12/28/2005 NYK @ ORL L 16 2 0 1 0.0 0 0 - 2 2 100.0 3 2 5 1 0 0 2 3 -2
+p595
+aVStephon Marbury NYK 12/28/2005 NYK @ ORL L 40 5 0 7 0.0 0 0 - 5 6 83.3 0 2 2 3 0 0 2 1 -7
+p596
+aVMalik Rose NYK 12/28/2005 NYK @ ORL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p597
+aVNate Robinson NYK 12/28/2005 NYK @ ORL L 21 2 1 5 20.0 0 2 0.0 0 0 - 2 4 6 1 0 0 0 4 0
+p598
+aVAntonio Davis NYK 12/28/2005 NYK @ ORL L 13 5 2 7 28.6 0 0 - 1 2 50.0 4 1 5 0 0 0 1 2 -8
+p599
+aVJamal Crawford NYK 12/28/2005 NYK @ ORL L 33 24 7 15 46.7 4 6 66.7 6 6 100.0 0 2 2 3 0 2 4 3 -3
+p600
+aVQuentin Richardson NYK 12/28/2005 NYK @ ORL L 16 6 2 10 20.0 1 3 33.3 1 1 100.0 3 3 6 2 0 1 2 1 -4
+p601
+aVChanning Frye NYK 12/28/2005 NYK @ ORL L 25 12 4 10 40.0 0 0 - 4 6 66.7 3 3 6 1 0 0 2 0 -2
+p602
+aVMaurice Taylor NYK 12/28/2005 NYK @ ORL L 17 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 0 0 1 5 -4
+p603
+aVDavid Lee NYK 12/28/2005 NYK @ ORL L 14 0 0 3 0.0 0 0 - 0 0 - 2 1 3 2 0 0 2 0 -10
+p604
+aVJerome James NYK 12/28/2005 NYK @ ORL L 16 4 2 7 28.6 0 0 - 0 0 - 3 1 4 0 0 0 0 4 -7
+p605
+aVEddy Curry NYK 12/26/2005 NYK vs. NJN L 15 7 1 5 20.0 0 0 - 5 6 83.3 3 2 5 0 0 0 3 2 -2
+p606
+aVAntonio Davis NYK 12/26/2005 NYK vs. NJN L 14 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 3 -8
+p607
+aVNate Robinson NYK 12/26/2005 NYK vs. NJN L 20 21 7 10 70.0 5 6 83.3 2 3 66.7 0 3 3 1 0 0 1 6 2
+p608
+aVMalik Rose NYK 12/26/2005 NYK vs. NJN L 5 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 1
+p609
+aVJamal Crawford NYK 12/26/2005 NYK vs. NJN L 33 14 4 11 36.4 0 2 0.0 6 7 85.7 1 4 5 6 2 0 2 0 1
+p610
+aVChanning Frye NYK 12/26/2005 NYK vs. NJN L 36 18 7 12 58.3 0 1 0.0 4 4 100.0 3 5 8 1 0 1 2 4 2
+p611
+aVQyntel Woods NYK 12/26/2005 NYK vs. NJN L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p612
+aVQuentin Richardson NYK 12/26/2005 NYK vs. NJN L 33 4 1 7 14.3 0 3 0.0 2 3 66.7 0 3 3 0 3 0 1 5 -5
+p613
+aVMaurice Taylor NYK 12/26/2005 NYK vs. NJN L 11 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 1 0 2 2 2
+p614
+aVTrevor Ariza NYK 12/26/2005 NYK vs. NJN L 19 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 4 1 0 1 2 -13
+p615
+aVJerome James NYK 12/26/2005 NYK vs. NJN L 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -9
+p616
+aVStephon Marbury NYK 12/26/2005 NYK vs. NJN L 31 21 8 17 47.1 2 5 40.0 3 4 75.0 1 1 2 5 1 0 5 2 -6
+p617
+aVChanning Frye NYK 12/23/2005 NYK vs. UTA W 10 7 2 4 50.0 0 0 - 3 4 75.0 2 1 3 0 0 2 1 5 3
+p618
+aVTrevor Ariza NYK 12/23/2005 NYK vs. UTA W 17 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 1 2 0 0 2 -3
+p619
+aVStephon Marbury NYK 12/23/2005 NYK vs. UTA W 41 22 6 12 50.0 0 0 - 10 12 83.3 0 0 0 7 2 0 2 2 11
+p620
+aVNate Robinson NYK 12/23/2005 NYK vs. UTA W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p621
+aVAntonio Davis NYK 12/23/2005 NYK vs. UTA W 30 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 0 1 0 1 4 -7
+p622
+aVDavid Lee NYK 12/23/2005 NYK vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p623
+aVMaurice Taylor NYK 12/23/2005 NYK vs. UTA W 22 6 3 6 50.0 0 1 0.0 0 2 0.0 0 2 2 1 3 0 4 5 12
+p624
+aVQyntel Woods NYK 12/23/2005 NYK vs. UTA W 15 7 2 3 66.7 0 1 0.0 3 6 50.0 0 1 1 0 1 0 0 0 12
+p625
+aVQuentin Richardson NYK 12/23/2005 NYK vs. UTA W 34 8 2 12 16.7 0 5 0.0 4 6 66.7 3 0 3 0 2 0 1 3 -2
+p626
+aVJamal Crawford NYK 12/23/2005 NYK vs. UTA W 32 28 9 15 60.0 4 5 80.0 6 7 85.7 0 2 2 3 2 0 4 4 12
+p627
+aVJerome James NYK 12/23/2005 NYK vs. UTA W 15 8 4 6 66.7 0 0 - 0 0 - 1 2 3 1 0 2 2 4 -5
+p628
+aVMalik Rose NYK 12/23/2005 NYK vs. UTA W 16 7 2 3 66.7 0 0 - 3 4 75.0 2 3 5 1 1 1 0 1 5
+p629
+aVJackie Butler NYK 12/21/2005 NYK vs. SAS L 13 11 5 8 62.5 0 0 - 1 2 50.0 0 1 1 0 0 1 1 1 7
+p630
+aVQuentin Richardson NYK 12/21/2005 NYK vs. SAS L 24 7 3 9 33.3 1 3 33.3 0 0 - 0 4 4 2 0 0 1 1 -28
+p631
+aVJerome James NYK 12/21/2005 NYK vs. SAS L 11 1 0 3 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 1 1 -18
+p632
+aVMalik Rose NYK 12/21/2005 NYK vs. SAS L 9 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 1 0 -5
+p633
+aVDavid Lee NYK 12/21/2005 NYK vs. SAS L 16 9 2 5 40.0 0 0 - 5 6 83.3 1 1 2 0 2 1 0 1 -2
+p634
+aVStephon Marbury NYK 12/21/2005 NYK vs. SAS L 35 14 3 7 42.9 0 1 0.0 8 10 80.0 0 4 4 7 0 0 3 2 -28
+p635
+aVAntonio Davis NYK 12/21/2005 NYK vs. SAS L 19 7 2 4 50.0 0 0 - 3 4 75.0 0 4 4 0 1 0 1 4 -10
+p636
+aVChanning Frye NYK 12/21/2005 NYK vs. SAS L 26 14 5 10 50.0 0 0 - 4 4 100.0 1 3 4 1 1 3 3 4 -1
+p637
+aVJamal Crawford NYK 12/21/2005 NYK vs. SAS L 35 16 3 8 37.5 0 3 0.0 10 14 71.4 0 6 6 6 0 0 1 2 5
+p638
+aVTrevor Ariza NYK 12/21/2005 NYK vs. SAS L 30 4 2 3 66.7 0 0 - 0 4 0.0 0 3 3 2 3 1 1 1 -5
+p639
+aVQyntel Woods NYK 12/21/2005 NYK vs. SAS L 13 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 21
+p640
+aVMaurice Taylor NYK 12/21/2005 NYK vs. SAS L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p641
+aVQuentin Richardson NYK 12/17/2005 NYK vs. IND L 36 12 5 10 50.0 2 3 66.7 0 0 - 4 2 6 2 0 0 1 2 10
+p642
+aVJerome James NYK 12/17/2005 NYK vs. IND L 15 3 1 5 20.0 0 0 - 1 2 50.0 2 4 6 0 0 1 4 2 -10
+p643
+aVMalik Rose NYK 12/17/2005 NYK vs. IND L 9 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 1 0 0 0 5 -5
+p644
+aVDavid Lee NYK 12/17/2005 NYK vs. IND L 9 5 2 2 100.0 0 0 - 1 5 20.0 1 0 1 0 0 1 0 3 2
+p645
+aVMaurice Taylor NYK 12/17/2005 NYK vs. IND L 13 8 2 7 28.6 0 0 - 4 7 57.1 1 1 2 1 0 1 1 5 -10
+p646
+aVChanning Frye NYK 12/17/2005 NYK vs. IND L 25 8 4 9 44.4 0 0 - 0 0 - 2 10 12 0 0 0 1 0 3
+p647
+aVQyntel Woods NYK 12/17/2005 NYK vs. IND L 7 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 4
+p648
+aVStephon Marbury NYK 12/17/2005 NYK vs. IND L 42 25 8 23 34.8 1 4 25.0 8 9 88.9 2 4 6 5 4 0 2 4 -13
+p649
+aVAntonio Davis NYK 12/17/2005 NYK vs. IND L 24 7 3 6 50.0 0 0 - 1 2 50.0 5 3 8 0 0 1 2 5 8
+p650
+aVJamal Crawford NYK 12/17/2005 NYK vs. IND L 29 15 4 14 28.6 2 6 33.3 5 5 100.0 0 3 3 4 0 0 0 0 -5
+p651
+aVTrevor Ariza NYK 12/17/2005 NYK vs. IND L 31 7 1 3 33.3 0 0 - 5 6 83.3 3 7 10 2 1 0 1 2 -14
+p652
+aVJerome James NYK 12/16/2005 NYK @ ATL L 14 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 1 0 2 3 -9
+p653
+aVMalik Rose NYK 12/16/2005 NYK @ ATL L 17 8 2 6 33.3 1 1 100.0 3 5 60.0 0 1 1 0 0 0 0 3 3
+p654
+aVNate Robinson NYK 12/16/2005 NYK @ ATL L 7 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 0 1 0 1 1 5
+p655
+aVMaurice Taylor NYK 12/16/2005 NYK @ ATL L 17 8 4 9 44.4 0 0 - 0 1 0.0 1 0 1 0 0 0 0 3 -9
+p656
+aVQyntel Woods NYK 12/16/2005 NYK @ ATL L 20 8 3 6 50.0 0 1 0.0 2 2 100.0 4 4 8 1 0 0 0 4 -5
+p657
+aVQuentin Richardson NYK 12/16/2005 NYK @ ATL L 27 6 2 11 18.2 0 2 0.0 2 3 66.7 3 0 3 1 1 0 0 0 -10
+p658
+aVAntonio Davis NYK 12/16/2005 NYK @ ATL L 15 7 2 3 66.7 0 0 - 3 6 50.0 0 2 2 1 0 1 1 2 -5
+p659
+aVJamal Crawford NYK 12/16/2005 NYK @ ATL L 30 23 8 9 88.9 4 4 100.0 3 3 100.0 1 2 3 2 1 0 1 1 -4
+p660
+aVChanning Frye NYK 12/16/2005 NYK @ ATL L 31 14 7 16 43.8 0 0 - 0 0 - 3 4 7 1 1 1 4 3 -6
+p661
+aVJackie Butler NYK 12/16/2005 NYK @ ATL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 0 4
+p662
+aVStephon Marbury NYK 12/16/2005 NYK @ ATL L 40 21 9 13 69.2 0 1 0.0 3 5 60.0 0 1 1 4 3 0 4 3 -16
+p663
+aVTrevor Ariza NYK 12/16/2005 NYK @ ATL L 19 6 1 4 25.0 0 0 - 4 4 100.0 2 1 3 1 3 0 2 3 -3
+p664
+aVNate Robinson NYK 12/14/2005 NYK vs. ORL L 13 2 0 4 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 -22
+p665
+aVAntonio Davis NYK 12/14/2005 NYK vs. ORL L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 1 -3
+p666
+aVChanning Frye NYK 12/14/2005 NYK vs. ORL L 29 10 4 7 57.1 0 0 - 2 2 100.0 3 6 9 1 1 2 3 4 -3
+p667
+aVTrevor Ariza NYK 12/14/2005 NYK vs. ORL L 33 10 5 9 55.6 0 0 - 0 0 - 2 5 7 3 2 0 2 2 -9
+p668
+aVQuentin Richardson NYK 12/14/2005 NYK vs. ORL L 27 16 7 11 63.6 0 1 0.0 2 3 66.7 0 3 3 5 1 0 1 3 7
+p669
+aVEddy Curry NYK 12/14/2005 NYK vs. ORL L 38 23 7 10 70.0 0 0 - 9 12 75.0 3 3 6 0 0 1 1 3 4
+p670
+aVQyntel Woods NYK 12/14/2005 NYK vs. ORL L 15 5 2 6 33.3 0 2 0.0 1 2 50.0 1 1 2 0 0 1 0 2 -9
+p671
+aVStephon Marbury NYK 12/14/2005 NYK vs. ORL L 32 13 5 10 50.0 0 1 0.0 3 3 100.0 1 3 4 3 0 0 4 3 5
+p672
+aVJackie Butler NYK 12/14/2005 NYK vs. ORL L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -7
+p673
+aVJamal Crawford NYK 12/14/2005 NYK vs. ORL L 24 3 1 6 16.7 1 3 33.3 0 0 - 0 3 3 7 2 0 2 2 -20
+p674
+aVMalik Rose NYK 12/14/2005 NYK vs. ORL L 16 7 3 8 37.5 0 0 - 1 2 50.0 2 0 2 1 1 0 1 4 -18
+p675
+aVQuentin Richardson NYK 12/12/2005 NYK vs. MIL L 21 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 2 0 0 0 3 -9
+p676
+aVChanning Frye NYK 12/12/2005 NYK vs. MIL L 41 30 14 18 77.8 0 0 - 2 2 100.0 1 6 7 2 1 2 3 4 -8
+p677
+aVEddy Curry NYK 12/12/2005 NYK vs. MIL L 31 15 7 12 58.3 0 0 - 1 1 100.0 2 3 5 0 1 1 1 3 -2
+p678
+aVMaurice Taylor NYK 12/12/2005 NYK vs. MIL L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -12
+p679
+aVNate Robinson NYK 12/12/2005 NYK vs. MIL L 36 15 6 12 50.0 2 2 100.0 1 6 16.7 4 3 7 6 3 0 7 4 -6
+p680
+aVTrevor Ariza NYK 12/12/2005 NYK vs. MIL L 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p681
+aVJackie Butler NYK 12/12/2005 NYK vs. MIL L 10 5 2 3 66.7 0 0 - 1 3 33.3 2 2 4 0 1 0 1 1 -9
+p682
+aVStephon Marbury NYK 12/12/2005 NYK vs. MIL L 36 7 3 8 37.5 0 3 0.0 1 1 100.0 0 1 1 7 0 0 3 2 -13
+p683
+aVQyntel Woods NYK 12/12/2005 NYK vs. MIL L 7 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -11
+p684
+aVJamal Crawford NYK 12/12/2005 NYK vs. MIL L 28 0 0 6 0.0 0 2 0.0 0 0 - 1 3 4 4 1 0 2 2 -15
+p685
+aVJerome James NYK 12/12/2005 NYK vs. MIL L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -9
+p686
+aVEddy Curry NYK 12/09/2005 NYK @ PHX L 25 11 3 7 42.9 0 0 - 5 6 83.3 0 6 6 0 0 0 1 2 1
+p687
+aVNate Robinson NYK 12/09/2005 NYK @ PHX L 35 14 6 7 85.7 2 3 66.7 0 0 - 1 3 4 0 0 0 2 4 -4
+p688
+aVJamal Crawford NYK 12/09/2005 NYK @ PHX L 30 8 3 9 33.3 1 5 20.0 1 1 100.0 0 4 4 4 0 0 2 1 -5
+p689
+aVTrevor Ariza NYK 12/09/2005 NYK @ PHX L 30 5 2 3 66.7 0 0 - 1 3 33.3 3 3 6 0 1 0 3 4 -4
+p690
+aVAnfernee Hardaway NYK 12/09/2005 NYK @ PHX L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 3 0 3
+p691
+aVMalik Rose NYK 12/09/2005 NYK @ PHX L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 3 3 -3
+p692
+aVMaurice Taylor NYK 12/09/2005 NYK @ PHX L 13 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -4
+p693
+aVStephon Marbury NYK 12/09/2005 NYK @ PHX L 42 28 13 24 54.2 0 2 0.0 2 3 66.7 2 4 6 3 3 0 2 3 -3
+p694
+aVJackie Butler NYK 12/09/2005 NYK @ PHX L 13 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 0 2 3 7
+p695
+aVChanning Frye NYK 12/09/2005 NYK @ PHX L 38 8 4 19 21.1 0 0 - 0 0 - 2 7 9 1 1 2 5 0 -8
+p696
+aVAnfernee Hardaway NYK 12/07/2005 NYK @ LAC L 21 6 3 8 37.5 0 0 - 0 0 - 0 2 2 2 1 0 1 2 -4
+p697
+aVEddy Curry NYK 12/07/2005 NYK @ LAC L 38 24 9 13 69.2 0 0 - 6 13 46.2 3 8 11 1 1 3 4 4 -3
+p698
+aVJamal Crawford NYK 12/07/2005 NYK @ LAC L 40 11 2 11 18.2 0 2 0.0 7 7 100.0 0 0 0 1 2 0 3 2 -6
+p699
+aVNate Robinson NYK 12/07/2005 NYK @ LAC L 26 10 2 9 22.2 0 1 0.0 6 6 100.0 3 3 6 2 2 0 2 4 -10
+p700
+aVStephon Marbury NYK 12/07/2005 NYK @ LAC L 42 12 3 16 18.8 0 0 - 6 6 100.0 1 5 6 2 2 0 1 4 0
+p701
+aVMalik Rose NYK 12/07/2005 NYK @ LAC L 19 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 0 0 0 2 3
+p702
+aVMaurice Taylor NYK 12/07/2005 NYK @ LAC L 20 4 2 4 50.0 0 0 - 0 0 - 0 10 10 0 0 0 1 3 8
+p703
+aVAntonio Davis NYK 12/07/2005 NYK @ LAC L 18 4 2 5 40.0 0 0 - 0 0 - 3 1 4 0 0 0 2 3 -8
+p704
+aVChanning Frye NYK 12/07/2005 NYK @ LAC L 17 6 3 4 75.0 0 0 - 0 0 - 2 4 6 1 0 0 0 2 -5
+p705
+aVChanning Frye NYK 12/06/2005 NYK @ SEA W 30 18 6 8 75.0 0 0 - 6 6 100.0 3 4 7 0 0 2 1 5 6
+p706
+aVEddy Curry NYK 12/06/2005 NYK @ SEA W 17 6 2 2 100.0 0 0 - 2 8 25.0 0 1 1 0 1 0 3 5 -5
+p707
+aVMaurice Taylor NYK 12/06/2005 NYK @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p708
+aVJackie Butler NYK 12/06/2005 NYK @ SEA W 12 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 0 1 0 3 13
+p709
+aVMalik Rose NYK 12/06/2005 NYK @ SEA W 16 2 1 6 16.7 0 0 - 0 0 - 1 4 5 0 0 0 3 2 -9
+p710
+aVJamal Crawford NYK 12/06/2005 NYK @ SEA W 33 31 8 13 61.5 4 4 100.0 11 12 91.7 0 4 4 4 0 0 1 4 10
+p711
+aVAntonio Davis NYK 12/06/2005 NYK @ SEA W 18 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -8
+p712
+aVJerome James NYK 12/06/2005 NYK @ SEA W 15 9 4 6 66.7 0 0 - 1 3 33.3 3 2 5 0 0 1 2 1 -4
+p713
+aVStephon Marbury NYK 12/06/2005 NYK @ SEA W 36 16 4 11 36.4 0 0 - 8 10 80.0 2 2 4 8 2 1 5 4 -6
+p714
+aVTrevor Ariza NYK 12/06/2005 NYK @ SEA W 11 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 2 1 0 0 4 10
+p715
+aVNate Robinson NYK 12/06/2005 NYK @ SEA W 23 10 4 9 44.4 1 1 100.0 1 2 50.0 0 3 3 0 1 0 1 1 1
+p716
+aVAnfernee Hardaway NYK 12/06/2005 NYK @ SEA W 28 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 4 1 0 0 3 7
+p717
+aVChanning Frye NYK 12/04/2005 NYK vs. BOS L 34 25 8 13 61.5 1 1 100.0 8 9 88.9 1 2 3 1 0 1 1 3 1
+p718
+aVJackie Butler NYK 12/04/2005 NYK vs. BOS L 21 10 4 5 80.0 0 0 - 2 3 66.7 2 3 5 0 2 0 2 2 11
+p719
+aVJerome James NYK 12/04/2005 NYK vs. BOS L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 2 3 5
+p720
+aVJamal Crawford NYK 12/04/2005 NYK vs. BOS L 20 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 3 0 0 3 1 -7
+p721
+aVQuentin Richardson NYK 12/04/2005 NYK vs. BOS L 39 9 3 6 50.0 0 3 0.0 3 4 75.0 2 11 13 2 1 0 1 4 3
+p722
+aVStephon Marbury NYK 12/04/2005 NYK vs. BOS L 46 35 9 22 40.9 0 0 - 17 21 81.0 1 4 5 9 1 0 5 2 -5
+p723
+aVTrevor Ariza NYK 12/04/2005 NYK vs. BOS L 21 3 1 1 100.0 0 0 - 1 4 25.0 3 3 6 0 0 0 2 5 1
+p724
+aVMalik Rose NYK 12/04/2005 NYK vs. BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p725
+aVNate Robinson NYK 12/04/2005 NYK vs. BOS L 17 6 2 6 33.3 1 2 50.0 1 1 100.0 0 4 4 1 0 0 3 1 1
+p726
+aVEddy Curry NYK 12/04/2005 NYK vs. BOS L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 2 -15
+p727
+aVAntonio Davis NYK 12/04/2005 NYK vs. BOS L 13 4 1 7 14.3 0 0 - 2 2 100.0 4 1 5 0 1 1 2 4 -6
+p728
+aVJackie Butler NYK 12/02/2005 NYK @ DET L 15 6 3 3 100.0 0 0 - 0 2 0.0 3 3 6 0 1 1 0 4 10
+p729
+aVJamal Crawford NYK 12/02/2005 NYK @ DET L 33 22 8 17 47.1 2 4 50.0 4 5 80.0 1 1 2 6 3 0 1 0 2
+p730
+aVTrevor Ariza NYK 12/02/2005 NYK @ DET L 27 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 3 1 1 4 14
+p731
+aVJerome James NYK 12/02/2005 NYK @ DET L 9 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 0 0 2 1 2 -3
+p732
+aVAntonio Davis NYK 12/02/2005 NYK @ DET L 24 8 3 5 60.0 0 0 - 2 2 100.0 4 0 4 0 2 1 1 2 -15
+p733
+aVDavid Lee NYK 12/02/2005 NYK @ DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p734
+aVNate Robinson NYK 12/02/2005 NYK @ DET L 11 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 3 0 0 2 3 -2
+p735
+aVQuentin Richardson NYK 12/02/2005 NYK @ DET L 15 7 3 6 50.0 0 1 0.0 1 2 50.0 0 3 3 1 0 0 2 3 -10
+p736
+aVMalik Rose NYK 12/02/2005 NYK @ DET L 17 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -13
+p737
+aVMaurice Taylor NYK 12/02/2005 NYK @ DET L 15 6 3 7 42.9 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -8
+p738
+aVStephon Marbury NYK 12/02/2005 NYK @ DET L 41 11 4 15 26.7 0 1 0.0 3 4 75.0 0 3 3 11 1 0 2 5 -15
+p739
+aVChanning Frye NYK 12/02/2005 NYK @ DET L 33 21 6 12 50.0 0 0 - 9 10 90.0 2 1 3 1 1 0 0 2 0
+p740
+aVNate Robinson NYK 11/30/2005 NYK vs. CHI W 35 14 4 12 33.3 2 5 40.0 4 8 50.0 2 1 3 2 0 0 0 3 2
+p741
+aVMaurice Taylor NYK 11/30/2005 NYK vs. CHI W 15 2 1 4 25.0 0 0 - 0 0 - 2 3 5 1 0 0 2 3 -6
+p742
+aVJamal Crawford NYK 11/30/2005 NYK vs. CHI W 32 28 8 14 57.1 2 3 66.7 10 10 100.0 1 5 6 1 2 1 3 2 12
+p743
+aVMalik Rose NYK 11/30/2005 NYK vs. CHI W 23 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 0 0 0 4 3 -7
+p744
+aVStephon Marbury NYK 11/30/2005 NYK vs. CHI W 38 18 3 9 33.3 0 0 - 12 14 85.7 0 5 5 8 3 0 2 4 15
+p745
+aVTrevor Ariza NYK 11/30/2005 NYK vs. CHI W 15 6 2 3 66.7 0 0 - 2 4 50.0 1 3 4 0 1 1 0 0 -1
+p746
+aVJackie Butler NYK 11/30/2005 NYK vs. CHI W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 1 1 3 1
+p747
+aVDavid Lee NYK 11/30/2005 NYK vs. CHI W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -6
+p748
+aVAntonio Davis NYK 11/30/2005 NYK vs. CHI W 33 11 2 6 33.3 0 1 0.0 7 8 87.5 0 5 5 2 2 0 3 3 12
+p749
+aVChanning Frye NYK 11/30/2005 NYK vs. CHI W 36 21 7 12 58.3 0 0 - 7 9 77.8 3 5 8 2 0 0 0 5 18
+p750
+aVQuentin Richardson NYK 11/28/2005 NYK @ MIA L 25 9 3 10 30.0 2 3 66.7 1 3 33.3 0 6 6 0 0 0 0 1 -21
+p751
+aVAntonio Davis NYK 11/28/2005 NYK @ MIA L 22 2 1 4 25.0 0 0 - 0 0 - 2 1 3 2 0 0 1 3 -20
+p752
+aVMalik Rose NYK 11/28/2005 NYK @ MIA L 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -11
+p753
+aVDavid Lee NYK 11/28/2005 NYK @ MIA L 10 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 3 7
+p754
+aVTrevor Ariza NYK 11/28/2005 NYK @ MIA L 22 6 3 3 100.0 0 0 - 0 2 0.0 1 1 2 1 2 0 1 4 11
+p755
+aVJamal Crawford NYK 11/28/2005 NYK @ MIA L 24 13 5 6 83.3 2 3 66.7 1 1 100.0 1 2 3 3 0 0 2 4 8
+p756
+aVStephon Marbury NYK 11/28/2005 NYK @ MIA L 34 19 6 14 42.9 0 1 0.0 7 9 77.8 1 2 3 6 1 0 2 1 -22
+p757
+aVNate Robinson NYK 11/28/2005 NYK @ MIA L 26 16 7 12 58.3 2 3 66.7 0 1 0.0 1 1 2 3 0 0 1 1 2
+p758
+aVMaurice Taylor NYK 11/28/2005 NYK @ MIA L 17 9 4 6 66.7 0 0 - 1 1 100.0 1 1 2 1 0 0 3 3 -2
+p759
+aVJackie Butler NYK 11/28/2005 NYK @ MIA L 14 4 2 5 40.0 0 0 - 0 0 - 1 4 5 2 0 1 1 1 -4
+p760
+aVChanning Frye NYK 11/28/2005 NYK @ MIA L 34 12 6 16 37.5 0 0 - 0 1 0.0 0 3 3 0 0 1 0 4 -13
+p761
+aVQuentin Richardson NYK 11/26/2005 NYK vs. PHI W 19 0 0 5 0.0 0 2 0.0 0 0 - 1 3 4 0 0 0 1 1 -1
+p762
+aVAntonio Davis NYK 11/26/2005 NYK vs. PHI W 35 4 1 6 16.7 0 0 - 2 2 100.0 3 3 6 0 2 2 0 2 -12
+p763
+aVJackie Butler NYK 11/26/2005 NYK vs. PHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p764
+aVNate Robinson NYK 11/26/2005 NYK vs. PHI W 33 17 7 19 36.8 2 6 33.3 1 1 100.0 0 6 6 1 2 0 3 3 7
+p765
+aVTrevor Ariza NYK 11/26/2005 NYK vs. PHI W 26 3 1 4 25.0 0 0 - 1 3 33.3 2 2 4 4 1 1 2 5 -1
+p766
+aVDavid Lee NYK 11/26/2005 NYK vs. PHI W 4 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -3
+p767
+aVChanning Frye NYK 11/26/2005 NYK vs. PHI W 39 21 8 14 57.1 0 0 - 5 6 83.3 3 8 11 2 0 0 1 3 15
+p768
+aVMalik Rose NYK 11/26/2005 NYK vs. PHI W 25 13 5 11 45.5 0 0 - 3 4 75.0 5 4 9 1 0 0 0 2 15
+p769
+aVJamal Crawford NYK 11/26/2005 NYK vs. PHI W 30 11 5 17 29.4 0 5 0.0 1 2 50.0 1 4 5 1 0 1 0 3 -3
+p770
+aVStephon Marbury NYK 11/26/2005 NYK vs. PHI W 44 33 14 26 53.8 1 1 100.0 4 4 100.0 2 3 5 6 0 1 3 4 5
+p771
+aVMaurice Taylor NYK 11/26/2005 NYK vs. PHI W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p772
+aVStephon Marbury NYK 11/23/2005 NYK @ CHA L 36 21 7 10 70.0 0 0 - 7 9 77.8 0 5 5 8 0 0 6 3 -11
+p773
+aVJamal Crawford NYK 11/23/2005 NYK @ CHA L 26 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 3 0 1 5 3 -8
+p774
+aVMaurice Taylor NYK 11/23/2005 NYK @ CHA L 14 0 0 4 0.0 0 0 - 0 0 - 1 3 4 2 0 0 0 2 -7
+p775
+aVNate Robinson NYK 11/23/2005 NYK @ CHA L 22 9 4 8 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 3 4 -2
+p776
+aVAntonio Davis NYK 11/23/2005 NYK @ CHA L 23 6 2 4 50.0 0 0 - 2 3 66.7 2 3 5 0 1 1 1 1 -17
+p777
+aVChanning Frye NYK 11/23/2005 NYK @ CHA L 33 12 6 13 46.2 0 0 - 0 0 - 3 3 6 2 2 2 2 2 -3
+p778
+aVTrevor Ariza NYK 11/23/2005 NYK @ CHA L 13 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 1 0 0 1 1 -7
+p779
+aVDavid Lee NYK 11/23/2005 NYK @ CHA L 14 5 0 0 - 0 0 - 5 6 83.3 0 1 1 0 1 0 1 2 4
+p780
+aVQuentin Richardson NYK 11/23/2005 NYK @ CHA L 25 10 4 7 57.1 2 5 40.0 0 0 - 1 5 6 2 2 0 1 0 -2
+p781
+aVMalik Rose NYK 11/23/2005 NYK @ CHA L 17 10 4 6 66.7 0 0 - 2 2 100.0 2 0 2 0 1 0 0 1 -12
+p782
+aVJackie Butler NYK 11/23/2005 NYK @ CHA L 17 13 2 5 40.0 0 0 - 9 10 90.0 0 1 1 0 1 0 2 2 0
+p783
+aVMalik Rose NYK 11/20/2005 NYK vs. POR W 28 6 2 5 40.0 0 0 - 2 2 100.0 2 5 7 2 2 0 0 2 1
+p784
+aVJamal Crawford NYK 11/20/2005 NYK vs. POR W 38 19 5 14 35.7 2 4 50.0 7 7 100.0 0 5 5 4 1 0 4 1 13
+p785
+aVDavid Lee NYK 11/20/2005 NYK vs. POR W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 -3
+p786
+aVJackie Butler NYK 11/20/2005 NYK vs. POR W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 6
+p787
+aVMaurice Taylor NYK 11/20/2005 NYK vs. POR W 17 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 15
+p788
+aVStephon Marbury NYK 11/20/2005 NYK vs. POR W 41 27 9 16 56.3 0 3 0.0 9 11 81.8 0 1 1 8 1 0 3 3 2
+p789
+aVNate Robinson NYK 11/20/2005 NYK vs. POR W 16 7 3 9 33.3 0 0 - 1 1 100.0 3 2 5 1 0 0 0 2 11
+p790
+aVTrevor Ariza NYK 11/20/2005 NYK vs. POR W 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 3
+p791
+aVAntonio Davis NYK 11/20/2005 NYK vs. POR W 25 6 3 4 75.0 0 0 - 0 0 - 3 2 5 1 2 0 0 4 -1
+p792
+aVChanning Frye NYK 11/20/2005 NYK vs. POR W 24 20 8 10 80.0 0 0 - 4 5 80.0 3 3 6 1 0 0 2 2 15
+p793
+aVEddy Curry NYK 11/20/2005 NYK vs. POR W 17 12 3 4 75.0 0 0 - 6 10 60.0 0 2 2 0 0 0 2 1 -7
+p794
+aVQuentin Richardson NYK 11/18/2005 NYK @ DEN L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p795
+aVTrevor Ariza NYK 11/18/2005 NYK @ DEN L 8 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 5
+p796
+aVNate Robinson NYK 11/18/2005 NYK @ DEN L 24 14 4 11 36.4 1 2 50.0 5 8 62.5 0 2 2 3 2 1 2 3 6
+p797
+aVMalik Rose NYK 11/18/2005 NYK @ DEN L 26 7 3 9 33.3 0 0 - 1 4 25.0 0 5 5 0 1 0 1 4 -13
+p798
+aVMaurice Taylor NYK 11/18/2005 NYK @ DEN L 20 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 1 0 1 2 1 1
+p799
+aVStephon Marbury NYK 11/18/2005 NYK @ DEN L 31 9 4 11 36.4 0 1 0.0 1 1 100.0 1 2 3 9 1 0 0 1 -22
+p800
+aVChanning Frye NYK 11/18/2005 NYK @ DEN L 29 22 8 17 47.1 0 0 - 6 7 85.7 4 4 8 1 1 1 5 5 5
+p801
+aVDavid Lee NYK 11/18/2005 NYK @ DEN L 18 0 0 4 0.0 0 0 - 0 2 0.0 7 4 11 1 1 0 2 4 -3
+p802
+aVJackie Butler NYK 11/18/2005 NYK @ DEN L 11 4 2 5 40.0 0 0 - 0 1 0.0 2 1 3 0 1 0 2 1 -3
+p803
+aVJamal Crawford NYK 11/18/2005 NYK @ DEN L 44 17 6 18 33.3 3 5 60.0 2 4 50.0 1 2 3 2 0 1 2 2 -10
+p804
+aVAntonio Davis NYK 11/18/2005 NYK @ DEN L 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -12
+p805
+aVEddy Curry NYK 11/18/2005 NYK @ DEN L 6 3 1 1 100.0 0 0 - 1 1 100.0 1 2 3 0 0 1 2 0 -4
+p806
+aVJackie Butler NYK 11/16/2005 NYK @ LAL L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 2 0 1 8
+p807
+aVStephon Marbury NYK 11/16/2005 NYK @ LAL L 36 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 10 2 0 3 2 -10
+p808
+aVTrevor Ariza NYK 11/16/2005 NYK @ LAL L 23 5 2 6 33.3 0 0 - 1 4 25.0 2 1 3 3 2 0 1 1 -8
+p809
+aVDavid Lee NYK 11/16/2005 NYK @ LAL L 25 10 5 8 62.5 0 0 - 0 0 - 5 6 11 1 0 2 1 1 14
+p810
+aVJamal Crawford NYK 11/16/2005 NYK @ LAL L 27 12 5 9 55.6 1 2 50.0 1 2 50.0 0 1 1 5 2 0 0 2 9
+p811
+aVChanning Frye NYK 11/16/2005 NYK @ LAL L 32 21 9 18 50.0 0 0 - 3 3 100.0 2 1 3 3 1 2 2 3 3
+p812
+aVMatt Barnes NYK 11/16/2005 NYK @ LAL L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p813
+aVNate Robinson NYK 11/16/2005 NYK @ LAL L 13 3 1 7 14.3 0 2 0.0 1 2 50.0 1 1 2 3 0 0 0 0 7
+p814
+aVQuentin Richardson NYK 11/16/2005 NYK @ LAL L 20 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 3 0 0 1 2 -16
+p815
+aVMalik Rose NYK 11/16/2005 NYK @ LAL L 6 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 0 0
+p816
+aVAntonio Davis NYK 11/16/2005 NYK @ LAL L 17 9 4 5 80.0 0 0 - 1 1 100.0 3 1 4 1 0 1 2 1 -15
+p817
+aVEddy Curry NYK 11/16/2005 NYK @ LAL L 30 17 8 14 57.1 0 0 - 1 2 50.0 3 4 7 0 0 2 2 5 -15
+p818
+aVJackie Butler NYK 11/14/2005 NYK @ UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 2
+p819
+aVNate Robinson NYK 11/14/2005 NYK @ UTA W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p820
+aVStephon Marbury NYK 11/14/2005 NYK @ UTA W 41 10 4 10 40.0 0 0 - 2 4 50.0 1 4 5 5 2 0 0 2 14
+p821
+aVTrevor Ariza NYK 11/14/2005 NYK @ UTA W 19 4 1 4 25.0 0 0 - 2 4 50.0 2 2 4 0 0 0 3 1 -4
+p822
+aVAntonio Davis NYK 11/14/2005 NYK @ UTA W 22 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 1 1 2 9
+p823
+aVDavid Lee NYK 11/14/2005 NYK @ UTA W 13 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 4 1 -4
+p824
+aVMalik Rose NYK 11/14/2005 NYK @ UTA W 19 7 3 5 60.0 0 0 - 1 2 50.0 3 4 7 1 1 0 1 0 3
+p825
+aVQuentin Richardson NYK 11/14/2005 NYK @ UTA W 28 12 4 7 57.1 4 6 66.7 0 0 - 0 3 3 1 1 0 3 3 15
+p826
+aVChanning Frye NYK 11/14/2005 NYK @ UTA W 11 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 1 5 2
+p827
+aVMatt Barnes NYK 11/14/2005 NYK @ UTA W 13 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 1 0 1 0 5
+p828
+aVEddy Curry NYK 11/14/2005 NYK @ UTA W 29 10 3 6 50.0 0 0 - 4 8 50.0 1 8 9 0 1 5 4 2 10
+p829
+aVJamal Crawford NYK 11/14/2005 NYK @ UTA W 34 20 7 15 46.7 1 4 25.0 5 6 83.3 0 3 3 3 2 1 2 0 7
+p830
+aVDavid Lee NYK 11/13/2005 NYK @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p831
+aVMatt Barnes NYK 11/13/2005 NYK @ SAC W 14 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 1 0 0 2 -3
+p832
+aVMalik Rose NYK 11/13/2005 NYK @ SAC W 27 0 0 1 0.0 0 0 - 0 0 - 1 5 6 1 1 1 3 3 20
+p833
+aVChanning Frye NYK 11/13/2005 NYK @ SAC W 18 19 8 13 61.5 0 0 - 3 3 100.0 2 4 6 0 1 1 1 5 21
+p834
+aVJamal Crawford NYK 11/13/2005 NYK @ SAC W 23 16 6 12 50.0 2 2 100.0 2 4 50.0 0 0 0 2 0 0 4 1 0
+p835
+aVStephon Marbury NYK 11/13/2005 NYK @ SAC W 39 17 7 11 63.6 0 1 0.0 3 6 50.0 0 2 2 7 2 0 6 4 9
+p836
+aVEddy Curry NYK 11/13/2005 NYK @ SAC W 21 16 6 11 54.5 0 0 - 4 5 80.0 1 7 8 0 1 1 4 5 -12
+p837
+aVNate Robinson NYK 11/13/2005 NYK @ SAC W 10 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 1 0 0 3 3
+p838
+aVJackie Butler NYK 11/13/2005 NYK @ SAC W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p839
+aVQuentin Richardson NYK 11/13/2005 NYK @ SAC W 24 11 3 4 75.0 3 3 100.0 2 2 100.0 0 3 3 3 1 1 0 2 10
+p840
+aVAntonio Davis NYK 11/13/2005 NYK @ SAC W 27 3 0 3 0.0 0 0 - 3 4 75.0 0 4 4 1 2 0 0 2 -9
+p841
+aVTrevor Ariza NYK 11/13/2005 NYK @ SAC W 33 13 6 10 60.0 1 1 100.0 0 0 - 1 4 5 6 4 0 3 6 9
+p842
+aVMaurice Taylor NYK 11/11/2005 NYK @ GSW L 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 1 3 -2
+p843
+aVAntonio Davis NYK 11/11/2005 NYK @ GSW L 27 6 2 5 40.0 0 0 - 2 2 100.0 3 5 8 0 0 0 0 3 -3
+p844
+aVNate Robinson NYK 11/11/2005 NYK @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p845
+aVEddy Curry NYK 11/11/2005 NYK @ GSW L 25 12 3 7 42.9 0 0 - 6 7 85.7 3 8 11 2 1 0 2 4 3
+p846
+aVAnfernee Hardaway NYK 11/11/2005 NYK @ GSW L 17 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 2 2 1
+p847
+aVMalik Rose NYK 11/11/2005 NYK @ GSW L 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -3
+p848
+aVJamal Crawford NYK 11/11/2005 NYK @ GSW L 39 21 8 16 50.0 1 4 25.0 4 4 100.0 1 1 2 5 1 0 2 2 -8
+p849
+aVQuentin Richardson NYK 11/11/2005 NYK @ GSW L 36 9 4 9 44.4 1 4 25.0 0 0 - 1 6 7 0 2 0 2 2 0
+p850
+aVTrevor Ariza NYK 11/11/2005 NYK @ GSW L 9 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 2 1 0 0 0
+p851
+aVStephon Marbury NYK 11/11/2005 NYK @ GSW L 40 22 10 17 58.8 1 4 25.0 1 4 25.0 0 7 7 4 0 0 0 1 3
+p852
+aVChanning Frye NYK 11/11/2005 NYK @ GSW L 20 8 3 9 33.3 0 0 - 2 2 100.0 0 4 4 0 3 0 1 2 1
+p853
+aVNate Robinson NYK 11/09/2005 NYK @ POR L 15 10 4 9 44.4 0 1 0.0 2 4 50.0 0 0 0 0 0 0 1 2 2
+p854
+aVMalik Rose NYK 11/09/2005 NYK @ POR L 17 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 2 1 0 1 2 2
+p855
+aVTrevor Ariza NYK 11/09/2005 NYK @ POR L 19 4 1 8 12.5 0 0 - 2 2 100.0 3 0 3 2 0 0 0 3 -7
+p856
+aVStephon Marbury NYK 11/09/2005 NYK @ POR L 37 13 3 8 37.5 1 1 100.0 6 8 75.0 0 0 0 4 0 0 5 1 -9
+p857
+aVDavid Lee NYK 11/09/2005 NYK @ POR L 13 6 3 5 60.0 0 0 - 0 0 - 1 5 6 2 0 1 1 3 5
+p858
+aVAntonio Davis NYK 11/09/2005 NYK @ POR L 16 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -21
+p859
+aVJamal Crawford NYK 11/09/2005 NYK @ POR L 35 15 6 10 60.0 0 1 0.0 3 5 60.0 0 3 3 2 1 0 0 2 -20
+p860
+aVMaurice Taylor NYK 11/09/2005 NYK @ POR L 18 9 3 5 60.0 0 0 - 3 3 100.0 3 3 6 0 0 1 1 4 3
+p861
+aVChanning Frye NYK 11/09/2005 NYK @ POR L 15 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 0 0 1 0 4 -9
+p862
+aVEddy Curry NYK 11/09/2005 NYK @ POR L 31 14 4 10 40.0 0 0 - 6 9 66.7 3 6 9 0 1 2 6 4 -4
+p863
+aVQuentin Richardson NYK 11/09/2005 NYK @ POR L 24 2 1 7 14.3 0 2 0.0 0 0 - 2 4 6 1 2 0 3 0 -2
+p864
+aVTrevor Ariza NYK 11/06/2005 NYK vs. GSW L 27 11 5 10 50.0 0 2 0.0 1 2 50.0 2 4 6 0 1 1 3 1 6
+p865
+aVMalik Rose NYK 11/06/2005 NYK vs. GSW L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p866
+aVNate Robinson NYK 11/06/2005 NYK vs. GSW L 17 7 3 9 33.3 0 3 0.0 1 3 33.3 1 1 2 3 0 0 1 4 13
+p867
+aVAntonio Davis NYK 11/06/2005 NYK vs. GSW L 28 4 1 5 20.0 0 0 - 2 4 50.0 2 3 5 1 2 0 0 3 -8
+p868
+aVJerome James NYK 11/06/2005 NYK vs. GSW L 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -6
+p869
+aVChanning Frye NYK 11/06/2005 NYK vs. GSW L 24 12 6 12 50.0 0 0 - 0 0 - 1 5 6 2 0 1 2 2 11
+p870
+aVMatt Barnes NYK 11/06/2005 NYK vs. GSW L 22 7 3 6 50.0 0 1 0.0 1 2 50.0 1 4 5 2 0 0 1 0 -5
+p871
+aVStephon Marbury NYK 11/06/2005 NYK vs. GSW L 41 15 6 16 37.5 0 2 0.0 3 6 50.0 0 3 3 6 0 0 2 3 -1
+p872
+aVJamal Crawford NYK 11/06/2005 NYK vs. GSW L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 3 0 1 3 0 -2
+p873
+aVQuentin Richardson NYK 11/06/2005 NYK vs. GSW L 19 4 2 8 25.0 0 4 0.0 0 0 - 1 5 6 2 0 0 2 5 -13
+p874
+aVEddy Curry NYK 11/06/2005 NYK vs. GSW L 16 11 4 9 44.4 0 0 - 3 4 75.0 1 2 3 0 0 0 2 4 1
+p875
+aVDavid Lee NYK 11/06/2005 NYK vs. GSW L 18 8 3 4 75.0 0 0 - 2 4 50.0 5 6 11 2 1 0 2 2 0
+p876
+aVJamal Crawford NYK 11/04/2005 NYK vs. WAS L 24 4 2 5 40.0 0 1 0.0 0 2 0.0 0 0 0 2 0 0 1 1 -10
+p877
+aVChanning Frye NYK 11/04/2005 NYK vs. WAS L 17 7 3 8 37.5 0 1 0.0 1 2 50.0 4 5 9 1 0 1 2 2 3
+p878
+aVStephon Marbury NYK 11/04/2005 NYK vs. WAS L 41 19 5 12 41.7 2 3 66.7 7 10 70.0 2 3 5 3 1 0 3 1 -12
+p879
+aVJerome James NYK 11/04/2005 NYK vs. WAS L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -7
+p880
+aVTrevor Ariza NYK 11/04/2005 NYK vs. WAS L 29 8 4 9 44.4 0 0 - 0 0 - 3 4 7 1 4 0 1 1 5
+p881
+aVEddy Curry NYK 11/04/2005 NYK vs. WAS L 17 12 4 7 57.1 0 0 - 4 6 66.7 3 2 5 1 0 0 5 4 -6
+p882
+aVAntonio Davis NYK 11/04/2005 NYK vs. WAS L 33 3 1 9 11.1 0 0 - 1 2 50.0 6 8 14 1 0 0 1 3 -19
+p883
+aVQuentin Richardson NYK 11/04/2005 NYK vs. WAS L 27 8 4 14 28.6 0 4 0.0 0 0 - 2 0 2 2 0 0 1 1 -6
+p884
+aVNate Robinson NYK 11/04/2005 NYK vs. WAS L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 3 1 1
+p885
+aVMatt Barnes NYK 11/04/2005 NYK vs. WAS L 18 4 1 7 14.3 0 1 0.0 2 2 100.0 4 4 8 0 1 0 2 1 -11
+p886
+aVMalik Rose NYK 11/04/2005 NYK vs. WAS L 16 6 2 4 50.0 0 0 - 2 2 100.0 3 1 4 0 0 1 2 3 5
+p887
+aVMaurice Taylor NYK 11/04/2005 NYK vs. WAS L 10 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 2
+p888
+aVQuentin Richardson NYK 11/02/2005 NYK @ BOS L 23 11 4 7 57.1 3 3 100.0 0 0 - 0 2 2 1 1 0 2 3 -7
+p889
+aVMatt Barnes NYK 11/02/2005 NYK @ BOS L 24 9 4 7 57.1 1 2 50.0 0 0 - 1 4 5 1 1 0 2 5 -22
+p890
+aVTrevor Ariza NYK 11/02/2005 NYK @ BOS L 18 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 1 2 0 0 2 8
+p891
+aVNate Robinson NYK 11/02/2005 NYK @ BOS L 9 2 1 5 20.0 0 0 - 0 0 - 1 2 3 2 0 0 0 3 -7
+p892
+aVAntonio Davis NYK 11/02/2005 NYK @ BOS L 33 9 4 6 66.7 0 0 - 1 1 100.0 2 5 7 2 2 0 3 5 -27
+p893
+aVJamal Crawford NYK 11/02/2005 NYK @ BOS L 36 11 3 11 27.3 1 3 33.3 4 4 100.0 1 3 4 3 2 0 6 1 -9
+p894
+aVStephon Marbury NYK 11/02/2005 NYK @ BOS L 45 22 8 18 44.4 1 2 50.0 5 12 41.7 0 3 3 7 1 0 5 5 -7
+p895
+aVEddy Curry NYK 11/02/2005 NYK @ BOS L 42 19 6 15 40.0 0 0 - 7 14 50.0 2 6 8 0 0 2 2 3 -16
+p896
+aVMalik Rose NYK 11/02/2005 NYK @ BOS L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p897
+aVJerome James NYK 11/02/2005 NYK @ BOS L 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 1 1 4 3
+p898
+aVMaurice Taylor NYK 11/02/2005 NYK @ BOS L 22 8 4 6 66.7 0 0 - 0 0 - 1 4 5 1 1 2 1 3 12
+p899
+a.

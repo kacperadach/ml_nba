@@ -1,0 +1,1670 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVShawn Marion PHX 04/16/2003 PHX @ SEA L 17 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 1 0 0 1 0 -10
+p2
+aVDan Langhi PHX 04/16/2003 PHX @ SEA L 24 10 5 12 41.7 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -4
+p3
+aVBo Outlaw PHX 04/16/2003 PHX @ SEA L 21 0 0 1 0.0 0 0 - 0 0 - 1 6 7 1 0 0 3 3 -4
+p4
+aVScott Williams PHX 04/16/2003 PHX @ SEA L 7 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p5
+aVTom Gugliotta PHX 04/16/2003 PHX @ SEA L 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 2 0 0 0 1
+p6
+aVJake Tsakalidis PHX 04/16/2003 PHX @ SEA L 21 7 2 3 66.7 0 0 - 3 4 75.0 2 6 8 0 0 0 0 4 -8
+p7
+aVStephon Marbury PHX 04/16/2003 PHX @ SEA L 17 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -10
+p8
+aVJake Voskuhl PHX 04/16/2003 PHX @ SEA L 9 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 0 2 1 -5
+p9
+aVCasey Jacobsen PHX 04/16/2003 PHX @ SEA L 32 6 3 11 27.3 0 4 0.0 0 0 - 1 2 3 3 3 0 2 1 -14
+p10
+aVJoe Johnson PHX 04/16/2003 PHX @ SEA L 29 21 10 16 62.5 1 3 33.3 0 0 - 0 3 3 3 1 0 0 1 5
+p11
+aVAmar'e Stoudemire PHX 04/16/2003 PHX @ SEA L 27 16 6 13 46.2 0 0 - 4 9 44.4 2 3 5 2 1 1 2 1 -10
+p12
+aVAnfernee Hardaway PHX 04/16/2003 PHX @ SEA L 24 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 4 0 0 2 3 -9
+p13
+aVBo Outlaw PHX 04/15/2003 PHX @ POR L 25 5 2 3 66.7 0 0 - 1 3 33.3 0 4 4 2 0 0 2 1 4
+p14
+aVShawn Marion PHX 04/15/2003 PHX @ POR L 29 13 6 11 54.5 1 3 33.3 0 0 - 0 3 3 2 3 1 0 2 -24
+p15
+aVJoe Johnson PHX 04/15/2003 PHX @ POR L 34 26 11 20 55.0 2 5 40.0 2 4 50.0 1 3 4 5 1 0 1 0 0
+p16
+aVStephon Marbury PHX 04/15/2003 PHX @ POR L 29 11 5 9 55.6 1 3 33.3 0 1 0.0 0 2 2 5 2 0 6 2 -24
+p17
+aVJake Voskuhl PHX 04/15/2003 PHX @ POR L 14 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 3 -15
+p18
+aVTom Gugliotta PHX 04/15/2003 PHX @ POR L 10 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p19
+aVAmar'e Stoudemire PHX 04/15/2003 PHX @ POR L 30 18 6 7 85.7 1 1 100.0 5 6 83.3 2 5 7 1 4 2 7 5 -10
+p20
+aVAnfernee Hardaway PHX 04/15/2003 PHX @ POR L 18 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 2 1 0 2 1 -16
+p21
+aVCasey Jacobsen PHX 04/15/2003 PHX @ POR L 24 9 3 6 50.0 0 1 0.0 3 4 75.0 0 2 2 3 0 0 0 1 0
+p22
+aVDan Langhi PHX 04/15/2003 PHX @ POR L 16 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 0 0 0 1 3 2
+p23
+aVJake Tsakalidis PHX 04/15/2003 PHX @ POR L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -10
+p24
+aVAmar'e Stoudemire PHX 04/13/2003 PHX vs. SAS W 23 10 3 8 37.5 0 0 - 4 4 100.0 2 5 7 1 1 3 2 4 -4
+p25
+aVStephon Marbury PHX 04/13/2003 PHX vs. SAS W 47 23 9 19 47.4 0 2 0.0 5 5 100.0 0 5 5 10 0 0 5 3 9
+p26
+aVScott Williams PHX 04/13/2003 PHX vs. SAS W 13 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -10
+p27
+aVBo Outlaw PHX 04/13/2003 PHX vs. SAS W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 2 0 0 1
+p28
+aVAnfernee Hardaway PHX 04/13/2003 PHX vs. SAS W 36 10 4 6 66.7 2 2 100.0 0 0 - 0 3 3 4 1 1 4 5 2
+p29
+aVCasey Jacobsen PHX 04/13/2003 PHX vs. SAS W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p30
+aVJoe Johnson PHX 04/13/2003 PHX vs. SAS W 37 20 8 13 61.5 1 1 100.0 3 4 75.0 0 5 5 4 4 0 3 5 16
+p31
+aVShawn Marion PHX 04/13/2003 PHX vs. SAS W 48 24 9 17 52.9 1 2 50.0 5 6 83.3 0 4 4 2 3 1 2 1 7
+p32
+aVJake Voskuhl PHX 04/13/2003 PHX vs. SAS W 20 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 2 1 2 3 14
+p33
+aVAmar'e Stoudemire PHX 04/11/2003 PHX vs. GSW W 31 21 8 14 57.1 0 0 - 5 5 100.0 3 7 10 0 0 0 1 3 14
+p34
+aVJake Tsakalidis PHX 04/11/2003 PHX vs. GSW W 14 3 0 4 0.0 0 0 - 3 4 75.0 2 4 6 1 0 0 0 3 -7
+p35
+aVScott Williams PHX 04/11/2003 PHX vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p36
+aVJoe Johnson PHX 04/11/2003 PHX vs. GSW W 33 20 9 17 52.9 2 6 33.3 0 0 - 1 2 3 5 0 0 1 3 23
+p37
+aVDan Langhi PHX 04/11/2003 PHX vs. GSW W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 0
+p38
+aVAnfernee Hardaway PHX 04/11/2003 PHX vs. GSW W 40 24 11 17 64.7 0 0 - 2 2 100.0 3 4 7 6 1 2 2 3 12
+p39
+aVCasey Jacobsen PHX 04/11/2003 PHX vs. GSW W 11 0 0 5 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 12
+p40
+aVStephon Marbury PHX 04/11/2003 PHX vs. GSW W 43 15 6 15 40.0 0 1 0.0 3 4 75.0 0 1 1 10 1 0 0 2 13
+p41
+aVJake Voskuhl PHX 04/11/2003 PHX vs. GSW W 21 9 4 7 57.1 0 0 - 1 1 100.0 3 3 6 1 1 0 1 3 -1
+p42
+aVShawn Marion PHX 04/11/2003 PHX vs. GSW W 42 24 10 20 50.0 4 9 44.4 0 0 - 2 6 8 4 6 1 2 4 10
+p43
+aVTom Gugliotta PHX 04/09/2003 PHX vs. DAL W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p44
+aVShawn Marion PHX 04/09/2003 PHX vs. DAL W 38 31 13 19 68.4 3 4 75.0 2 3 66.7 1 14 15 4 3 1 1 2 15
+p45
+aVAmar'e Stoudemire PHX 04/09/2003 PHX vs. DAL W 30 17 8 14 57.1 0 0 - 1 4 25.0 2 4 6 1 2 3 2 4 15
+p46
+aVAnfernee Hardaway PHX 04/09/2003 PHX vs. DAL W 41 10 5 12 41.7 0 2 0.0 0 0 - 5 5 10 10 3 2 1 3 20
+p47
+aVJake Voskuhl PHX 04/09/2003 PHX vs. DAL W 21 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 1 3 5
+p48
+aVJoe Johnson PHX 04/09/2003 PHX vs. DAL W 29 14 5 12 41.7 1 3 33.3 3 3 100.0 1 2 3 6 2 0 1 0 14
+p49
+aVBo Outlaw PHX 04/09/2003 PHX vs. DAL W 26 11 4 5 80.0 0 0 - 3 4 75.0 1 2 3 1 0 1 0 2 18
+p50
+aVCasey Jacobsen PHX 04/09/2003 PHX vs. DAL W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 2 0 0 2 1
+p51
+aVStephon Marbury PHX 04/09/2003 PHX vs. DAL W 37 20 6 16 37.5 2 5 40.0 6 8 75.0 0 4 4 7 2 1 3 4 23
+p52
+aVDan Langhi PHX 04/09/2003 PHX vs. DAL W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 2 0 2
+p53
+aVBo Outlaw PHX 04/08/2003 PHX @ DEN W 31 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 1 2 2 3 25
+p54
+aVShawn Marion PHX 04/08/2003 PHX @ DEN W 42 27 10 20 50.0 1 4 25.0 6 7 85.7 1 9 10 0 3 0 2 0 14
+p55
+aVJake Tsakalidis PHX 04/08/2003 PHX @ DEN W 17 9 2 3 66.7 0 0 - 5 6 83.3 1 3 4 0 1 1 0 4 1
+p56
+aVCasey Jacobsen PHX 04/08/2003 PHX @ DEN W 10 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 0 8
+p57
+aVStephon Marbury PHX 04/08/2003 PHX @ DEN W 37 16 4 11 36.4 1 4 25.0 7 8 87.5 0 2 2 9 1 0 4 4 18
+p58
+aVDan Langhi PHX 04/08/2003 PHX @ DEN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p59
+aVJoe Johnson PHX 04/08/2003 PHX @ DEN W 34 23 9 18 50.0 1 2 50.0 4 4 100.0 1 5 6 3 2 1 2 3 22
+p60
+aVJake Voskuhl PHX 04/08/2003 PHX @ DEN W 24 10 4 5 80.0 0 0 - 2 6 33.3 6 4 10 2 1 0 0 5 14
+p61
+aVAnfernee Hardaway PHX 04/08/2003 PHX @ DEN W 20 5 2 6 33.3 1 1 100.0 0 0 - 1 0 1 4 0 0 1 2 -7
+p62
+aVAmar'e Stoudemire PHX 04/08/2003 PHX @ DEN W 19 3 1 7 14.3 0 1 0.0 1 4 25.0 2 3 5 0 0 2 2 3 1
+p63
+aVJoe Johnson PHX 04/06/2003 PHX @ LAL L 31 6 2 9 22.2 0 2 0.0 2 4 50.0 1 1 2 2 0 0 2 0 -8
+p64
+aVBo Outlaw PHX 04/06/2003 PHX @ LAL L 14 0 0 1 0.0 0 0 - 0 0 - 3 3 6 1 0 0 2 4 -10
+p65
+aVJake Tsakalidis PHX 04/06/2003 PHX @ LAL L 38 12 5 10 50.0 0 0 - 2 4 50.0 3 4 7 1 1 1 0 5 6
+p66
+aVStephon Marbury PHX 04/06/2003 PHX @ LAL L 49 40 15 30 50.0 0 2 0.0 10 10 100.0 5 3 8 8 3 0 6 3 2
+p67
+aVScott Williams PHX 04/06/2003 PHX @ LAL L 7 4 2 6 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -7
+p68
+aVCasey Jacobsen PHX 04/06/2003 PHX @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p69
+aVDan Langhi PHX 04/06/2003 PHX @ LAL L 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p70
+aVShawn Marion PHX 04/06/2003 PHX @ LAL L 49 18 8 22 36.4 1 4 25.0 1 2 50.0 6 9 15 7 7 1 1 2 -2
+p71
+aVAmar'e Stoudemire PHX 04/06/2003 PHX @ LAL L 32 16 7 14 50.0 0 0 - 2 3 66.7 1 6 7 1 2 1 1 3 10
+p72
+aVAnfernee Hardaway PHX 04/06/2003 PHX @ LAL L 41 15 7 13 53.8 0 0 - 1 2 50.0 1 5 6 4 2 1 3 2 4
+p73
+aVJake Voskuhl PHX 04/06/2003 PHX @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p74
+aVDan Langhi PHX 04/05/2003 PHX vs. MIN W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p75
+aVCasey Jacobsen PHX 04/05/2003 PHX vs. MIN W 11 3 1 4 25.0 1 2 50.0 0 0 - 1 3 4 2 0 0 0 0 3
+p76
+aVJake Voskuhl PHX 04/05/2003 PHX vs. MIN W 29 8 3 6 50.0 0 0 - 2 2 100.0 4 6 10 0 0 0 0 4 5
+p77
+aVAmar'e Stoudemire PHX 04/05/2003 PHX vs. MIN W 21 10 5 7 71.4 0 0 - 0 0 - 4 3 7 1 1 2 3 4 5
+p78
+aVJake Tsakalidis PHX 04/05/2003 PHX vs. MIN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p79
+aVBo Outlaw PHX 04/05/2003 PHX vs. MIN W 36 19 6 10 60.0 0 1 0.0 7 8 87.5 3 12 15 5 1 3 2 3 24
+p80
+aVShawn Marion PHX 04/05/2003 PHX vs. MIN W 39 25 10 20 50.0 2 5 40.0 3 3 100.0 2 5 7 6 3 2 2 3 13
+p81
+aVAnfernee Hardaway PHX 04/05/2003 PHX vs. MIN W 37 14 7 12 58.3 0 1 0.0 0 0 - 0 2 2 9 0 0 0 0 11
+p82
+aVStephon Marbury PHX 04/05/2003 PHX vs. MIN W 38 23 8 22 36.4 0 3 0.0 7 7 100.0 0 1 1 4 0 0 0 2 12
+p83
+aVJoe Johnson PHX 04/05/2003 PHX vs. MIN W 26 7 3 11 27.3 1 4 25.0 0 0 - 1 1 2 3 0 0 2 1 8
+p84
+aVAnfernee Hardaway PHX 04/01/2003 PHX vs. DEN W 25 12 6 9 66.7 0 0 - 0 0 - 0 3 3 2 2 2 4 4 12
+p85
+aVTom Gugliotta PHX 04/01/2003 PHX vs. DEN W 10 8 2 2 100.0 0 0 - 4 4 100.0 1 3 4 2 0 0 2 0 8
+p86
+aVCasey Jacobsen PHX 04/01/2003 PHX vs. DEN W 18 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 0 1 0 9
+p87
+aVAmar'e Stoudemire PHX 04/01/2003 PHX vs. DEN W 36 16 3 9 33.3 0 0 - 10 14 71.4 1 8 9 3 3 1 2 3 28
+p88
+aVJoe Johnson PHX 04/01/2003 PHX vs. DEN W 33 6 2 11 18.2 1 5 20.0 1 2 50.0 0 4 4 5 5 1 1 3 17
+p89
+aVBo Outlaw PHX 04/01/2003 PHX vs. DEN W 24 4 2 6 33.3 0 0 - 0 0 - 3 3 6 3 1 1 1 2 8
+p90
+aVStephon Marbury PHX 04/01/2003 PHX vs. DEN W 21 6 3 4 75.0 0 0 - 0 0 - 0 2 2 9 0 0 3 1 22
+p91
+aVJake Voskuhl PHX 04/01/2003 PHX vs. DEN W 19 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 1 1 2 9
+p92
+aVShawn Marion PHX 04/01/2003 PHX vs. DEN W 38 33 12 19 63.2 5 8 62.5 4 4 100.0 0 9 9 3 3 0 4 3 25
+p93
+aVDan Langhi PHX 04/01/2003 PHX vs. DEN W 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 2 1 5
+p94
+aVScott Williams PHX 04/01/2003 PHX vs. DEN W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 7
+p95
+aVBo Outlaw PHX 03/30/2003 PHX @ IND L 23 6 1 1 100.0 0 0 - 4 4 100.0 3 2 5 1 2 0 0 3 -6
+p96
+aVAmar'e Stoudemire PHX 03/30/2003 PHX @ IND L 34 15 6 11 54.5 0 0 - 3 3 100.0 4 4 8 1 0 1 4 3 -5
+p97
+aVStephon Marbury PHX 03/30/2003 PHX @ IND L 34 10 4 19 21.1 0 5 0.0 2 3 66.7 0 2 2 5 0 1 3 4 -4
+p98
+aVJoe Johnson PHX 03/30/2003 PHX @ IND L 37 19 7 19 36.8 3 5 60.0 2 2 100.0 0 5 5 1 1 0 0 3 -2
+p99
+aVDan Langhi PHX 03/30/2003 PHX @ IND L 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -2
+p100
+aVJake Voskuhl PHX 03/30/2003 PHX @ IND L 16 2 1 1 100.0 0 0 - 0 0 - 1 5 6 2 0 0 1 3 -9
+p101
+aVShawn Marion PHX 03/30/2003 PHX @ IND L 45 22 9 19 47.4 1 2 50.0 3 3 100.0 5 10 15 3 1 1 7 4 -9
+p102
+aVScott Williams PHX 03/30/2003 PHX @ IND L 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 1 0 1 -8
+p103
+aVCasey Jacobsen PHX 03/30/2003 PHX @ IND L 20 5 2 5 40.0 1 2 50.0 0 0 - 2 0 2 1 1 0 2 1 12
+p104
+aVAnfernee Hardaway PHX 03/30/2003 PHX @ IND L 19 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 2 1 1 0 0 -22
+p105
+aVShawn Marion PHX 03/28/2003 PHX @ DET W 45 19 7 11 63.6 0 1 0.0 5 5 100.0 1 9 10 3 5 0 2 5 1
+p106
+aVScott Williams PHX 03/28/2003 PHX @ DET W 14 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 1 1 0 1 -9
+p107
+aVJoe Johnson PHX 03/28/2003 PHX @ DET W 28 6 3 8 37.5 0 2 0.0 0 0 - 0 1 1 3 1 1 1 1 7
+p108
+aVJake Voskuhl PHX 03/28/2003 PHX @ DET W 23 7 2 4 50.0 0 0 - 3 4 75.0 0 4 4 0 1 3 3 4 9
+p109
+aVStephon Marbury PHX 03/28/2003 PHX @ DET W 46 26 10 19 52.6 1 3 33.3 5 5 100.0 1 6 7 9 0 1 5 1 4
+p110
+aVAnfernee Hardaway PHX 03/28/2003 PHX @ DET W 22 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p111
+aVBo Outlaw PHX 03/28/2003 PHX @ DET W 33 17 8 12 66.7 0 0 - 1 1 100.0 5 4 9 5 0 2 0 3 14
+p112
+aVDan Langhi PHX 03/28/2003 PHX @ DET W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p113
+aVAmar'e Stoudemire PHX 03/28/2003 PHX @ DET W 26 7 2 4 50.0 0 0 - 3 4 75.0 1 5 6 0 0 0 3 2 -8
+p114
+aVCasey Jacobsen PHX 03/26/2003 PHX @ MEM W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 2 1 1
+p115
+aVStephon Marbury PHX 03/26/2003 PHX @ MEM W 35 23 7 13 53.8 1 2 50.0 8 9 88.9 0 4 4 8 2 0 1 1 -2
+p116
+aVScott Williams PHX 03/26/2003 PHX @ MEM W 16 0 0 4 0.0 0 0 - 0 0 - 2 5 7 0 0 0 1 3 7
+p117
+aVAmar'e Stoudemire PHX 03/26/2003 PHX @ MEM W 41 22 9 19 47.4 0 0 - 4 7 57.1 4 5 9 1 3 2 3 3 6
+p118
+aVBo Outlaw PHX 03/26/2003 PHX @ MEM W 4 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p119
+aVDan Langhi PHX 03/26/2003 PHX @ MEM W 13 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 5
+p120
+aVJoe Johnson PHX 03/26/2003 PHX @ MEM W 26 8 4 11 36.4 0 3 0.0 0 0 - 0 0 0 3 1 0 1 0 -4
+p121
+aVShawn Marion PHX 03/26/2003 PHX @ MEM W 45 21 7 14 50.0 3 6 50.0 4 4 100.0 3 15 18 5 1 2 2 5 5
+p122
+aVJake Voskuhl PHX 03/26/2003 PHX @ MEM W 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -7
+p123
+aVAnfernee Hardaway PHX 03/26/2003 PHX @ MEM W 42 18 9 16 56.3 0 1 0.0 0 0 - 4 5 9 5 1 0 2 3 4
+p124
+aVBo Outlaw PHX 03/24/2003 PHX vs. SEA L 15 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 1 2 1 -10
+p125
+aVStephon Marbury PHX 03/24/2003 PHX vs. SEA L 44 22 10 20 50.0 0 2 0.0 2 2 100.0 1 5 6 10 0 0 3 1 -15
+p126
+aVAmar'e Stoudemire PHX 03/24/2003 PHX vs. SEA L 21 9 4 7 57.1 0 0 - 1 2 50.0 1 5 6 1 0 2 1 3 -8
+p127
+aVShawn Marion PHX 03/24/2003 PHX vs. SEA L 39 15 5 17 29.4 2 9 22.2 3 5 60.0 0 9 9 1 2 0 1 5 -18
+p128
+aVJake Tsakalidis PHX 03/24/2003 PHX vs. SEA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 0
+p129
+aVTom Gugliotta PHX 03/24/2003 PHX vs. SEA L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p130
+aVDan Langhi PHX 03/24/2003 PHX vs. SEA L 22 9 4 6 66.7 1 1 100.0 0 0 - 1 3 4 1 0 0 0 3 12
+p131
+aVJake Voskuhl PHX 03/24/2003 PHX vs. SEA L 29 12 4 6 66.7 0 0 - 4 4 100.0 2 1 3 0 0 1 1 3 10
+p132
+aVAnfernee Hardaway PHX 03/24/2003 PHX vs. SEA L 30 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 1 1 0 1 1 -8
+p133
+aVJoe Johnson PHX 03/24/2003 PHX vs. SEA L 33 0 0 5 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 1 1 -2
+p134
+aVShawn Marion PHX 03/22/2003 PHX @ DAL L 47 21 10 20 50.0 1 4 25.0 0 2 0.0 5 13 18 2 1 2 3 4 -10
+p135
+aVJake Voskuhl PHX 03/22/2003 PHX @ DAL L 21 1 0 0 - 0 0 - 1 4 25.0 1 2 3 0 0 0 3 5 0
+p136
+aVAmar'e Stoudemire PHX 03/22/2003 PHX @ DAL L 22 9 3 6 50.0 0 0 - 3 3 100.0 1 1 2 1 1 2 1 4 -2
+p137
+aVStephon Marbury PHX 03/22/2003 PHX @ DAL L 38 20 9 18 50.0 0 0 - 2 2 100.0 1 2 3 9 0 0 1 6 -11
+p138
+aVCasey Jacobsen PHX 03/22/2003 PHX @ DAL L 7 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 1 1 7
+p139
+aVAnfernee Hardaway PHX 03/22/2003 PHX @ DAL L 47 21 10 19 52.6 0 2 0.0 1 2 50.0 1 3 4 8 2 0 0 3 -4
+p140
+aVBo Outlaw PHX 03/22/2003 PHX @ DAL L 21 7 3 3 100.0 0 0 - 1 1 100.0 0 5 5 1 0 1 3 2 -12
+p141
+aVJoe Johnson PHX 03/22/2003 PHX @ DAL L 35 14 6 12 50.0 2 5 40.0 0 0 - 1 3 4 2 0 0 1 0 -3
+p142
+aVScott Williams PHX 03/22/2003 PHX @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p143
+aVAmar'e Stoudemire PHX 03/21/2003 PHX vs. WAS W 27 16 7 10 70.0 0 1 0.0 2 4 50.0 2 6 8 0 1 3 3 3 12
+p144
+aVStephon Marbury PHX 03/21/2003 PHX vs. WAS W 37 23 10 19 52.6 1 5 20.0 2 3 66.7 1 3 4 6 4 1 4 1 26
+p145
+aVTom Gugliotta PHX 03/21/2003 PHX vs. WAS W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -4
+p146
+aVScott Williams PHX 03/21/2003 PHX vs. WAS W 14 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p147
+aVBo Outlaw PHX 03/21/2003 PHX vs. WAS W 28 9 4 6 66.7 0 0 - 1 1 100.0 2 6 8 4 3 1 3 3 32
+p148
+aVDan Langhi PHX 03/21/2003 PHX vs. WAS W 9 2 0 5 0.0 0 1 0.0 2 2 100.0 2 1 3 0 0 0 0 1 3
+p149
+aVShawn Marion PHX 03/21/2003 PHX vs. WAS W 35 18 7 13 53.8 4 4 100.0 0 0 - 0 4 4 6 2 0 0 2 19
+p150
+aVJoe Johnson PHX 03/21/2003 PHX vs. WAS W 30 19 8 14 57.1 3 3 100.0 0 0 - 1 2 3 6 1 0 1 2 24
+p151
+aVJake Voskuhl PHX 03/21/2003 PHX vs. WAS W 19 6 3 4 75.0 0 0 - 0 0 - 4 5 9 1 1 2 1 5 14
+p152
+aVCasey Jacobsen PHX 03/21/2003 PHX vs. WAS W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p153
+aVAnfernee Hardaway PHX 03/21/2003 PHX vs. WAS W 25 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 3 0 0 4 2 10
+p154
+aVDan Langhi PHX 03/19/2003 PHX vs. UTA L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 0
+p155
+aVJake Tsakalidis PHX 03/19/2003 PHX vs. UTA L 11 2 0 0 - 0 0 - 2 2 100.0 1 4 5 0 0 1 4 4 -1
+p156
+aVStephon Marbury PHX 03/19/2003 PHX vs. UTA L 43 11 5 22 22.7 0 6 0.0 1 2 50.0 0 1 1 9 4 0 1 2 -16
+p157
+aVAmar'e Stoudemire PHX 03/19/2003 PHX vs. UTA L 40 17 6 9 66.7 0 0 - 5 9 55.6 5 7 12 3 0 3 1 2 -10
+p158
+aVAnfernee Hardaway PHX 03/19/2003 PHX vs. UTA L 30 8 3 12 25.0 0 1 0.0 2 3 66.7 2 3 5 3 0 0 2 3 -5
+p159
+aVJoe Johnson PHX 03/19/2003 PHX vs. UTA L 24 16 7 11 63.6 2 2 100.0 0 0 - 0 2 2 2 0 0 1 3 -7
+p160
+aVJake Voskuhl PHX 03/19/2003 PHX vs. UTA L 17 2 1 5 20.0 0 0 - 0 0 - 1 3 4 1 1 0 0 2 -7
+p161
+aVScott Williams PHX 03/19/2003 PHX vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p162
+aVBo Outlaw PHX 03/19/2003 PHX vs. UTA L 23 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 1 2 0 2 1 5
+p163
+aVShawn Marion PHX 03/19/2003 PHX vs. UTA L 42 22 9 17 52.9 2 5 40.0 2 3 66.7 1 3 4 2 3 2 0 5 -18
+p164
+aVAmar'e Stoudemire PHX 03/17/2003 PHX vs. TOR W 35 12 4 11 36.4 0 0 - 4 10 40.0 1 5 6 3 0 0 1 5 1
+p165
+aVStephon Marbury PHX 03/17/2003 PHX vs. TOR W 48 25 9 22 40.9 3 7 42.9 4 6 66.7 0 3 3 7 2 0 2 3 5
+p166
+aVJake Voskuhl PHX 03/17/2003 PHX vs. TOR W 11 0 0 1 0.0 0 0 - 0 0 - 5 1 6 0 1 0 1 1 0
+p167
+aVJoe Johnson PHX 03/17/2003 PHX vs. TOR W 36 8 3 8 37.5 1 2 50.0 1 3 33.3 2 5 7 3 2 0 3 2 13
+p168
+aVJake Tsakalidis PHX 03/17/2003 PHX vs. TOR W 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -11
+p169
+aVAnfernee Hardaway PHX 03/17/2003 PHX vs. TOR W 49 18 7 14 50.0 0 0 - 4 6 66.7 3 3 6 4 1 0 3 3 7
+p170
+aVBo Outlaw PHX 03/17/2003 PHX vs. TOR W 25 2 1 2 50.0 0 0 - 0 0 - 3 7 10 1 0 2 1 2 3
+p171
+aVShawn Marion PHX 03/17/2003 PHX vs. TOR W 51 30 11 22 50.0 4 6 66.7 4 4 100.0 0 10 10 3 1 3 2 4 2
+p172
+aVTom Gugliotta PHX 03/16/2003 PHX @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p173
+aVShawn Marion PHX 03/16/2003 PHX @ HOU L 48 14 4 18 22.2 0 5 0.0 6 6 100.0 4 8 12 0 0 2 3 4 -10
+p174
+aVAmar'e Stoudemire PHX 03/16/2003 PHX @ HOU L 39 12 3 10 30.0 0 0 - 6 10 60.0 5 4 9 1 0 2 3 2 0
+p175
+aVStephon Marbury PHX 03/16/2003 PHX @ HOU L 43 19 7 22 31.8 1 4 25.0 4 6 66.7 1 2 3 7 2 0 5 5 -8
+p176
+aVBo Outlaw PHX 03/16/2003 PHX @ HOU L 16 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 1 1 0 3 -6
+p177
+aVJoe Johnson PHX 03/16/2003 PHX @ HOU L 15 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 -9
+p178
+aVJake Voskuhl PHX 03/16/2003 PHX @ HOU L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -7
+p179
+aVScott Williams PHX 03/16/2003 PHX @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p180
+aVDan Langhi PHX 03/16/2003 PHX @ HOU L 3 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p181
+aVAnfernee Hardaway PHX 03/16/2003 PHX @ HOU L 37 17 7 12 58.3 0 0 - 3 3 100.0 1 6 7 1 1 0 2 5 -3
+p182
+aVJake Tsakalidis PHX 03/16/2003 PHX @ HOU L 29 8 3 4 75.0 0 0 - 2 4 50.0 3 4 7 1 2 0 1 4 5
+p183
+aVAnfernee Hardaway PHX 03/13/2003 PHX vs. SAC W 20 5 2 8 25.0 0 0 - 1 2 50.0 0 1 1 4 2 0 0 1 13
+p184
+aVBo Outlaw PHX 03/13/2003 PHX vs. SAC W 31 9 4 5 80.0 0 0 - 1 2 50.0 4 6 10 3 0 1 1 1 22
+p185
+aVJake Voskuhl PHX 03/13/2003 PHX vs. SAC W 21 13 3 4 75.0 0 0 - 7 10 70.0 1 3 4 1 0 2 1 2 12
+p186
+aVTom Gugliotta PHX 03/13/2003 PHX vs. SAC W 19 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -3
+p187
+aVShawn Marion PHX 03/13/2003 PHX vs. SAC W 41 27 11 18 61.1 3 5 60.0 2 2 100.0 4 7 11 1 4 1 1 3 16
+p188
+aVCasey Jacobsen PHX 03/13/2003 PHX vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 6
+p189
+aVJoe Johnson PHX 03/13/2003 PHX vs. SAC W 30 15 6 11 54.5 1 2 50.0 2 2 100.0 2 3 5 2 2 0 0 1 14
+p190
+aVDan Langhi PHX 03/13/2003 PHX vs. SAC W 7 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 9
+p191
+aVAmar'e Stoudemire PHX 03/13/2003 PHX vs. SAC W 26 8 1 7 14.3 0 0 - 6 8 75.0 0 11 11 0 1 0 3 3 19
+p192
+aVStephon Marbury PHX 03/13/2003 PHX vs. SAC W 43 26 8 17 47.1 3 6 50.0 7 7 100.0 0 5 5 7 3 0 5 2 17
+p193
+aVAnfernee Hardaway PHX 03/11/2003 PHX @ GSW L 25 9 4 13 30.8 0 0 - 1 1 100.0 1 3 4 2 1 0 2 1 -9
+p194
+aVJoe Johnson PHX 03/11/2003 PHX @ GSW L 29 4 2 14 14.3 0 2 0.0 0 2 0.0 3 0 3 5 0 1 0 2 -21
+p195
+aVBo Outlaw PHX 03/11/2003 PHX @ GSW L 11 6 2 4 50.0 0 0 - 2 4 50.0 2 0 2 0 0 0 1 2 4
+p196
+aVScott Williams PHX 03/11/2003 PHX @ GSW L 19 4 2 6 33.3 0 0 - 0 0 - 2 2 4 1 1 0 1 2 -18
+p197
+aVCasey Jacobsen PHX 03/11/2003 PHX @ GSW L 6 5 1 3 33.3 0 1 0.0 3 3 100.0 0 0 0 0 2 0 1 0 5
+p198
+aVRandy Brown PHX 03/11/2003 PHX @ GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 9
+p199
+aVJake Voskuhl PHX 03/11/2003 PHX @ GSW L 15 9 4 4 100.0 0 0 - 1 3 33.3 1 2 3 1 0 0 1 3 3
+p200
+aVShawn Marion PHX 03/11/2003 PHX @ GSW L 43 17 8 16 50.0 1 4 25.0 0 0 - 3 10 13 6 3 1 1 2 -18
+p201
+aVTom Gugliotta PHX 03/11/2003 PHX @ GSW L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p202
+aVStephon Marbury PHX 03/11/2003 PHX @ GSW L 39 14 5 16 31.3 1 3 33.3 3 3 100.0 1 1 2 9 2 0 2 2 -23
+p203
+aVDan Langhi PHX 03/11/2003 PHX @ GSW L 14 4 2 6 33.3 0 0 - 0 0 - 0 2 2 2 0 0 0 1 5
+p204
+aVAmar'e Stoudemire PHX 03/11/2003 PHX @ GSW L 34 24 11 15 73.3 0 0 - 2 4 50.0 3 5 8 2 0 1 1 5 -10
+p205
+aVShawn Marion PHX 03/09/2003 PHX vs. MIN L 44 10 3 15 20.0 1 6 16.7 3 4 75.0 3 10 13 2 3 1 1 3 -7
+p206
+aVBo Outlaw PHX 03/09/2003 PHX vs. MIN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p207
+aVJake Voskuhl PHX 03/09/2003 PHX vs. MIN L 11 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p208
+aVJoe Johnson PHX 03/09/2003 PHX vs. MIN L 36 12 4 10 40.0 3 4 75.0 1 2 50.0 1 5 6 4 0 1 0 4 -3
+p209
+aVAmar'e Stoudemire PHX 03/09/2003 PHX vs. MIN L 33 16 6 15 40.0 0 0 - 4 5 80.0 5 3 8 1 1 1 4 6 -3
+p210
+aVTom Gugliotta PHX 03/09/2003 PHX vs. MIN L 10 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 5 -6
+p211
+aVDan Langhi PHX 03/09/2003 PHX vs. MIN L 13 8 3 6 50.0 1 1 100.0 1 2 50.0 0 0 0 2 0 0 0 0 2
+p212
+aVScott Williams PHX 03/09/2003 PHX vs. MIN L 21 4 1 5 20.0 0 0 - 2 2 100.0 1 5 6 0 2 0 1 2 1
+p213
+aVStephon Marbury PHX 03/09/2003 PHX vs. MIN L 44 28 10 22 45.5 2 4 50.0 6 7 85.7 2 1 3 7 1 0 0 3 -3
+p214
+aVAnfernee Hardaway PHX 03/09/2003 PHX vs. MIN L 26 10 5 8 62.5 0 2 0.0 0 0 - 0 1 1 3 4 2 3 4 -9
+p215
+aVAnfernee Hardaway PHX 03/05/2003 PHX vs. POR W 15 2 1 3 33.3 0 0 - 0 0 - 1 0 1 3 0 0 1 1 -7
+p216
+aVTom Gugliotta PHX 03/05/2003 PHX vs. POR W 22 12 5 5 100.0 0 0 - 2 2 100.0 1 4 5 4 2 0 1 3 11
+p217
+aVStephon Marbury PHX 03/05/2003 PHX vs. POR W 46 33 12 22 54.5 3 7 42.9 6 6 100.0 0 4 4 4 0 0 3 1 12
+p218
+aVAmar'e Stoudemire PHX 03/05/2003 PHX vs. POR W 28 5 1 6 16.7 0 0 - 3 4 75.0 0 5 5 0 0 1 4 4 -6
+p219
+aVScott Williams PHX 03/05/2003 PHX vs. POR W 21 8 4 7 57.1 0 0 - 0 0 - 1 0 1 1 2 0 0 4 8
+p220
+aVJoe Johnson PHX 03/05/2003 PHX vs. POR W 34 5 2 7 28.6 1 3 33.3 0 1 0.0 1 6 7 4 0 0 1 1 7
+p221
+aVBo Outlaw PHX 03/05/2003 PHX vs. POR W 22 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 2 1 0 1 3 3
+p222
+aVShawn Marion PHX 03/05/2003 PHX vs. POR W 40 22 6 15 40.0 1 5 20.0 9 9 100.0 0 10 10 3 2 1 1 3 12
+p223
+aVJake Voskuhl PHX 03/05/2003 PHX vs. POR W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p224
+aVDan Langhi PHX 03/05/2003 PHX vs. POR W 8 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 0 0 1 0 1 -6
+p225
+aVJoe Johnson PHX 03/04/2003 PHX @ SAS W 45 13 5 10 50.0 1 2 50.0 2 4 50.0 0 1 1 2 1 0 3 2 7
+p226
+aVStephon Marbury PHX 03/04/2003 PHX @ SAS W 48 35 12 14 85.7 6 6 100.0 5 8 62.5 0 3 3 13 0 0 4 4 7
+p227
+aVScott Williams PHX 03/04/2003 PHX @ SAS W 28 13 5 8 62.5 0 0 - 3 4 75.0 1 3 4 2 2 1 2 4 11
+p228
+aVShawn Marion PHX 03/04/2003 PHX @ SAS W 43 17 6 13 46.2 3 4 75.0 2 2 100.0 1 5 6 3 5 0 4 2 1
+p229
+aVTom Gugliotta PHX 03/04/2003 PHX @ SAS W 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -3
+p230
+aVDan Langhi PHX 03/04/2003 PHX @ SAS W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 6
+p231
+aVBo Outlaw PHX 03/04/2003 PHX @ SAS W 14 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 0 0 1 4 -5
+p232
+aVAmar'e Stoudemire PHX 03/04/2003 PHX @ SAS W 37 17 7 13 53.8 0 0 - 3 5 60.0 0 11 11 2 0 1 1 1 11
+p233
+aVCasey Jacobsen PHX 03/01/2003 PHX vs. NOH L 11 4 0 1 0.0 0 1 0.0 4 4 100.0 0 0 0 0 0 0 2 1 -9
+p234
+aVTom Gugliotta PHX 03/01/2003 PHX vs. NOH L 12 6 3 7 42.9 0 0 - 0 0 - 0 1 1 2 0 0 2 0 -1
+p235
+aVJoe Johnson PHX 03/01/2003 PHX vs. NOH L 43 17 8 14 57.1 1 4 25.0 0 0 - 0 3 3 4 1 0 2 1 4
+p236
+aVShawn Marion PHX 03/01/2003 PHX vs. NOH L 38 23 8 15 53.3 4 4 100.0 3 4 75.0 1 8 9 0 3 2 2 1 -2
+p237
+aVBo Outlaw PHX 03/01/2003 PHX vs. NOH L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p238
+aVJake Voskuhl PHX 03/01/2003 PHX vs. NOH L 28 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 0 3 1 1 2
+p239
+aVAmar'e Stoudemire PHX 03/01/2003 PHX vs. NOH L 36 19 7 16 43.8 0 1 0.0 5 5 100.0 3 6 9 2 1 3 1 5 -8
+p240
+aVDan Langhi PHX 03/01/2003 PHX vs. NOH L 17 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 0 2 0 0 1 -4
+p241
+aVStephon Marbury PHX 03/01/2003 PHX vs. NOH L 42 14 5 18 27.8 0 1 0.0 4 6 66.7 0 3 3 13 3 2 1 2 -5
+p242
+aVScott Williams PHX 03/01/2003 PHX vs. NOH L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 3
+p243
+aVStephon Marbury PHX 02/26/2003 PHX @ MIL W 43 41 14 21 66.7 5 6 83.3 8 11 72.7 0 6 6 7 0 0 2 2 8
+p244
+aVBo Outlaw PHX 02/26/2003 PHX @ MIL W 13 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 2 0 0 0 3 -13
+p245
+aVCasey Jacobsen PHX 02/26/2003 PHX @ MIL W 12 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 0 0 0 0 3 -6
+p246
+aVScott Williams PHX 02/26/2003 PHX @ MIL W 14 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 1 -1
+p247
+aVShawn Marion PHX 02/26/2003 PHX @ MIL W 44 17 6 13 46.2 2 4 50.0 3 4 75.0 1 5 6 4 1 1 1 4 2
+p248
+aVDan Langhi PHX 02/26/2003 PHX @ MIL W 13 8 4 6 66.7 0 0 - 0 0 - 0 0 0 1 1 0 0 3 8
+p249
+aVTom Gugliotta PHX 02/26/2003 PHX @ MIL W 16 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 0 1 0 2 5
+p250
+aVJoe Johnson PHX 02/26/2003 PHX @ MIL W 43 20 8 17 47.1 4 6 66.7 0 0 - 0 7 7 4 0 1 2 3 13
+p251
+aVAmar'e Stoudemire PHX 02/26/2003 PHX @ MIL W 42 12 6 11 54.5 0 0 - 0 2 0.0 4 10 14 1 0 2 3 1 14
+p252
+aVDan Langhi PHX 02/24/2003 PHX @ CHI L 14 10 5 6 83.3 0 0 - 0 0 - 1 0 1 0 1 0 0 3 10
+p253
+aVScott Williams PHX 02/24/2003 PHX @ CHI L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 7
+p254
+aVTom Gugliotta PHX 02/24/2003 PHX @ CHI L 22 6 3 12 25.0 0 0 - 0 0 - 2 5 7 2 1 0 1 2 -4
+p255
+aVBo Outlaw PHX 02/24/2003 PHX @ CHI L 13 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 0 0 2 0 -1
+p256
+aVRandy Brown PHX 02/24/2003 PHX @ CHI L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p257
+aVJoe Johnson PHX 02/24/2003 PHX @ CHI L 36 16 6 7 85.7 2 3 66.7 2 2 100.0 1 2 3 5 1 2 1 4 -10
+p258
+aVCasey Jacobsen PHX 02/24/2003 PHX @ CHI L 15 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 1 0
+p259
+aVShawn Marion PHX 02/24/2003 PHX @ CHI L 42 18 7 21 33.3 1 7 14.3 3 4 75.0 2 6 8 2 5 1 2 4 -7
+p260
+aVJake Voskuhl PHX 02/24/2003 PHX @ CHI L 14 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 1 0 1 1 2 -8
+p261
+aVStephon Marbury PHX 02/24/2003 PHX @ CHI L 40 7 2 12 16.7 0 1 0.0 3 4 75.0 1 3 4 9 0 0 4 5 -2
+p262
+aVAmar'e Stoudemire PHX 02/24/2003 PHX @ CHI L 30 19 7 10 70.0 0 0 - 5 8 62.5 2 7 9 1 1 1 2 4 1
+p263
+aVTom Gugliotta PHX 02/23/2003 PHX @ MIN L 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -11
+p264
+aVShawn Marion PHX 02/23/2003 PHX @ MIN L 46 19 7 18 38.9 5 6 83.3 0 0 - 3 8 11 4 1 2 3 2 -2
+p265
+aVJoe Johnson PHX 02/23/2003 PHX @ MIN L 26 7 2 7 28.6 1 3 33.3 2 2 100.0 0 0 0 1 1 0 3 0 -8
+p266
+aVJake Voskuhl PHX 02/23/2003 PHX @ MIN L 12 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 0 0 0 1 3 19
+p267
+aVStephon Marbury PHX 02/23/2003 PHX @ MIN L 42 32 13 19 68.4 1 3 33.3 5 6 83.3 1 5 6 10 1 0 1 2 -4
+p268
+aVRandy Brown PHX 02/23/2003 PHX @ MIN L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 0 0 1 1 2
+p269
+aVAmar'e Stoudemire PHX 02/23/2003 PHX @ MIN L 36 13 4 12 33.3 0 1 0.0 5 10 50.0 2 6 8 0 1 0 3 4 -21
+p270
+aVDan Langhi PHX 02/23/2003 PHX @ MIN L 23 9 4 9 44.4 0 2 0.0 1 2 50.0 1 7 8 3 1 0 0 2 6
+p271
+aVBo Outlaw PHX 02/23/2003 PHX @ MIN L 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -7
+p272
+aVCasey Jacobsen PHX 02/23/2003 PHX @ MIN L 26 2 1 5 20.0 0 3 0.0 0 2 0.0 0 3 3 3 1 0 1 2 16
+p273
+aVDan Langhi PHX 02/21/2003 PHX @ TOR L 12 5 2 4 50.0 0 1 0.0 1 2 50.0 0 3 3 0 0 0 0 2 10
+p274
+aVJoe Johnson PHX 02/21/2003 PHX @ TOR L 25 3 1 6 16.7 1 1 100.0 0 0 - 0 2 2 0 0 0 1 3 -11
+p275
+aVBo Outlaw PHX 02/21/2003 PHX @ TOR L 34 10 4 8 50.0 0 0 - 2 4 50.0 5 3 8 3 3 0 1 2 -14
+p276
+aVCasey Jacobsen PHX 02/21/2003 PHX @ TOR L 26 9 2 5 40.0 2 4 50.0 3 4 75.0 1 2 3 2 1 0 1 1 9
+p277
+aVRandy Brown PHX 02/21/2003 PHX @ TOR L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p278
+aVTom Gugliotta PHX 02/21/2003 PHX @ TOR L 4 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -2
+p279
+aVShawn Marion PHX 02/21/2003 PHX @ TOR L 41 8 3 19 15.8 0 1 0.0 2 2 100.0 4 8 12 3 3 3 1 1 -2
+p280
+aVStephon Marbury PHX 02/21/2003 PHX @ TOR L 44 22 7 23 30.4 1 5 20.0 7 8 87.5 0 2 2 6 0 0 3 2 -4
+p281
+aVScott Williams PHX 02/21/2003 PHX @ TOR L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p282
+aVJake Voskuhl PHX 02/21/2003 PHX @ TOR L 26 14 7 10 70.0 0 0 - 0 0 - 4 3 7 1 1 0 0 5 15
+p283
+aVAmar'e Stoudemire PHX 02/21/2003 PHX @ TOR L 23 14 5 11 45.5 0 0 - 4 6 66.7 4 2 6 0 0 1 3 2 -11
+p284
+aVBo Outlaw PHX 02/19/2003 PHX vs. HOU L 18 7 3 3 100.0 0 0 - 1 2 50.0 2 1 3 1 0 1 0 3 -11
+p285
+aVCasey Jacobsen PHX 02/19/2003 PHX vs. HOU L 8 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 2 3 -10
+p286
+aVShawn Marion PHX 02/19/2003 PHX vs. HOU L 41 24 8 20 40.0 3 7 42.9 5 5 100.0 1 8 9 3 2 1 0 3 -4
+p287
+aVDan Langhi PHX 02/19/2003 PHX vs. HOU L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 1 1 0 0 2 -12
+p288
+aVJake Voskuhl PHX 02/19/2003 PHX vs. HOU L 15 7 2 6 33.3 0 0 - 3 3 100.0 1 2 3 0 1 0 1 3 -10
+p289
+aVStephon Marbury PHX 02/19/2003 PHX vs. HOU L 38 22 7 16 43.8 0 2 0.0 8 10 80.0 1 2 3 6 3 1 5 0 -6
+p290
+aVAlton Ford PHX 02/19/2003 PHX vs. HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p291
+aVAmar'e Stoudemire PHX 02/19/2003 PHX vs. HOU L 39 11 3 6 50.0 0 0 - 5 7 71.4 1 2 3 0 0 0 2 3 -10
+p292
+aVRandy Brown PHX 02/19/2003 PHX vs. HOU L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -12
+p293
+aVJoe Johnson PHX 02/19/2003 PHX vs. HOU L 33 14 6 11 54.5 2 5 40.0 0 0 - 0 2 2 2 0 1 1 1 -4
+p294
+aVScott Williams PHX 02/19/2003 PHX vs. HOU L 16 2 1 7 14.3 0 0 - 0 0 - 2 0 2 0 0 0 1 3 -9
+p295
+aVBo Outlaw PHX 02/16/2003 PHX vs. BOS W 39 8 2 4 50.0 0 0 - 4 5 80.0 3 2 5 1 3 0 1 3 4
+p296
+aVCasey Jacobsen PHX 02/16/2003 PHX vs. BOS W 15 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p297
+aVRandy Brown PHX 02/16/2003 PHX vs. BOS W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -7
+p298
+aVJoe Johnson PHX 02/16/2003 PHX vs. BOS W 33 16 6 12 50.0 3 7 42.9 1 1 100.0 1 2 3 3 0 1 0 1 14
+p299
+aVAmar'e Stoudemire PHX 02/16/2003 PHX vs. BOS W 41 25 9 16 56.3 0 0 - 7 12 58.3 5 12 17 1 0 0 1 2 20
+p300
+aVStephon Marbury PHX 02/16/2003 PHX vs. BOS W 42 20 7 14 50.0 0 2 0.0 6 6 100.0 0 1 1 12 1 0 3 2 15
+p301
+aVShawn Marion PHX 02/16/2003 PHX vs. BOS W 46 22 8 23 34.8 1 6 16.7 5 6 83.3 3 6 9 3 3 2 1 3 14
+p302
+aVJake Voskuhl PHX 02/16/2003 PHX vs. BOS W 4 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 1 0 1 1 2 -7
+p303
+aVDan Langhi PHX 02/16/2003 PHX vs. BOS W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 1
+p304
+aVScott Williams PHX 02/14/2003 PHX vs. NYK L 11 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -12
+p305
+aVJoe Johnson PHX 02/14/2003 PHX vs. NYK L 30 2 1 7 14.3 0 1 0.0 0 0 - 0 4 4 4 0 0 0 5 -16
+p306
+aVDan Langhi PHX 02/14/2003 PHX vs. NYK L 24 5 1 5 20.0 0 1 0.0 3 4 75.0 1 3 4 0 2 0 0 5 24
+p307
+aVRandy Brown PHX 02/14/2003 PHX vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -3
+p308
+aVAmar'e Stoudemire PHX 02/14/2003 PHX vs. NYK L 40 25 9 13 69.2 0 0 - 7 10 70.0 4 10 14 3 0 1 7 4 -5
+p309
+aVShawn Marion PHX 02/14/2003 PHX vs. NYK L 41 26 8 15 53.3 1 4 25.0 9 9 100.0 1 2 3 1 3 2 2 3 0
+p310
+aVStephon Marbury PHX 02/14/2003 PHX vs. NYK L 43 43 15 27 55.6 1 5 20.0 12 14 85.7 1 2 3 9 4 0 3 2 6
+p311
+aVCasey Jacobsen PHX 02/14/2003 PHX vs. NYK L 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p312
+aVJake Voskuhl PHX 02/14/2003 PHX vs. NYK L 21 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 2 0 0 1 2 2
+p313
+aVBo Outlaw PHX 02/14/2003 PHX vs. NYK L 18 5 2 2 100.0 0 0 - 1 2 50.0 1 6 7 0 0 0 1 4 4
+p314
+aVStephon Marbury PHX 02/11/2003 PHX vs. LAC L 40 33 13 21 61.9 3 6 50.0 4 5 80.0 0 5 5 5 0 1 4 4 2
+p315
+aVJake Voskuhl PHX 02/11/2003 PHX vs. LAC L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 4
+p316
+aVScott Williams PHX 02/11/2003 PHX vs. LAC L 12 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 4 -9
+p317
+aVAmar'e Stoudemire PHX 02/11/2003 PHX vs. LAC L 31 12 5 10 50.0 0 0 - 2 2 100.0 5 8 13 2 0 0 2 2 9
+p318
+aVBo Outlaw PHX 02/11/2003 PHX vs. LAC L 40 10 3 6 50.0 0 0 - 4 6 66.7 2 4 6 4 2 0 1 4 -4
+p319
+aVJoe Johnson PHX 02/11/2003 PHX vs. LAC L 39 21 9 17 52.9 3 3 100.0 0 0 - 1 1 2 2 1 0 2 2 1
+p320
+aVCasey Jacobsen PHX 02/11/2003 PHX vs. LAC L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -8
+p321
+aVRandy Brown PHX 02/11/2003 PHX vs. LAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 2 0 1 0 -3
+p322
+aVShawn Marion PHX 02/11/2003 PHX vs. LAC L 45 22 8 17 47.1 4 6 66.7 2 2 100.0 2 3 5 7 3 0 5 2 3
+p323
+aVShawn Marion PHX 02/03/2003 PHX vs. CHI W 47 36 13 26 50.0 3 4 75.0 7 7 100.0 3 6 9 3 1 1 0 3 7
+p324
+aVBo Outlaw PHX 02/03/2003 PHX vs. CHI W 52 16 7 9 77.8 0 0 - 2 3 66.7 2 4 6 2 1 4 1 5 7
+p325
+aVCasey Jacobsen PHX 02/03/2003 PHX vs. CHI W 15 2 0 3 0.0 0 1 0.0 2 4 50.0 0 1 1 1 0 0 0 2 -6
+p326
+aVRandy Brown PHX 02/03/2003 PHX vs. CHI W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 1 0 0
+p327
+aVAmar'e Stoudemire PHX 02/03/2003 PHX vs. CHI W 37 9 2 12 16.7 0 0 - 5 6 83.3 4 8 12 1 2 0 1 3 -3
+p328
+aVScott Williams PHX 02/03/2003 PHX vs. CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p329
+aVStephon Marbury PHX 02/03/2003 PHX vs. CHI W 44 36 14 22 63.6 1 5 20.0 7 8 87.5 0 3 3 9 1 0 5 3 4
+p330
+aVJoe Johnson PHX 02/03/2003 PHX vs. CHI W 45 10 4 9 44.4 0 1 0.0 2 4 50.0 2 5 7 4 2 0 1 2 7
+p331
+aVJake Voskuhl PHX 02/03/2003 PHX vs. CHI W 13 4 2 2 100.0 0 0 - 0 2 0.0 3 0 3 0 1 0 1 4 3
+p332
+aVAlton Ford PHX 02/01/2003 PHX vs. GSW W 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p333
+aVJoe Johnson PHX 02/01/2003 PHX vs. GSW W 29 6 3 10 30.0 0 3 0.0 0 0 - 1 2 3 1 1 0 1 2 -3
+p334
+aVBo Outlaw PHX 02/01/2003 PHX vs. GSW W 27 7 2 5 40.0 0 0 - 3 4 75.0 3 3 6 2 0 2 1 6 5
+p335
+aVCasey Jacobsen PHX 02/01/2003 PHX vs. GSW W 30 12 3 9 33.3 2 6 33.3 4 4 100.0 0 0 0 2 0 0 1 3 4
+p336
+aVAmar'e Stoudemire PHX 02/01/2003 PHX vs. GSW W 27 15 5 9 55.6 0 0 - 5 7 71.4 3 4 7 1 1 0 0 3 17
+p337
+aVShawn Marion PHX 02/01/2003 PHX vs. GSW W 43 29 14 21 66.7 0 2 0.0 1 1 100.0 4 11 15 2 2 3 0 2 10
+p338
+aVScott Williams PHX 02/01/2003 PHX vs. GSW W 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p339
+aVRandy Brown PHX 02/01/2003 PHX vs. GSW W 11 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 1 1 0 0 1 2
+p340
+aVStephon Marbury PHX 02/01/2003 PHX vs. GSW W 42 32 7 22 31.8 2 4 50.0 16 17 94.1 2 3 5 7 3 1 6 3 6
+p341
+aVJake Voskuhl PHX 02/01/2003 PHX vs. GSW W 15 4 1 3 33.3 0 0 - 2 3 66.7 2 0 2 0 0 1 2 4 -2
+p342
+aVAmar'e Stoudemire PHX 01/31/2003 PHX @ LAC W 28 17 4 7 57.1 0 0 - 9 11 81.8 2 5 7 0 0 1 1 4 -3
+p343
+aVJoe Johnson PHX 01/31/2003 PHX @ LAC W 20 2 1 10 10.0 0 0 - 0 0 - 1 2 3 2 2 0 1 2 -15
+p344
+aVShawn Marion PHX 01/31/2003 PHX @ LAC W 42 15 5 13 38.5 2 3 66.7 3 8 37.5 1 3 4 4 5 0 3 4 4
+p345
+aVStephon Marbury PHX 01/31/2003 PHX @ LAC W 41 19 5 11 45.5 0 1 0.0 9 10 90.0 0 4 4 15 5 0 3 5 4
+p346
+aVScott Williams PHX 01/31/2003 PHX @ LAC W 6 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p347
+aVBo Outlaw PHX 01/31/2003 PHX @ LAC W 40 14 6 8 75.0 0 0 - 2 2 100.0 2 6 8 0 0 1 2 3 6
+p348
+aVJake Voskuhl PHX 01/31/2003 PHX @ LAC W 19 8 4 6 66.7 0 0 - 0 3 0.0 3 1 4 1 0 0 0 4 10
+p349
+aVRandy Brown PHX 01/31/2003 PHX @ LAC W 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 1 1
+p350
+aVCasey Jacobsen PHX 01/31/2003 PHX @ LAC W 31 17 7 13 53.8 1 5 20.0 2 5 40.0 2 0 2 2 1 0 0 2 19
+p351
+aVBo Outlaw PHX 01/29/2003 PHX vs. LAL L 18 2 0 3 0.0 0 0 - 2 2 100.0 3 6 9 0 0 0 0 4 12
+p352
+aVStephon Marbury PHX 01/29/2003 PHX vs. LAL L 45 33 12 21 57.1 2 4 50.0 7 10 70.0 1 3 4 10 2 0 5 3 -13
+p353
+aVScott Williams PHX 01/29/2003 PHX vs. LAL L 30 10 4 6 66.7 0 0 - 2 2 100.0 1 5 6 1 1 0 0 5 -13
+p354
+aVAmar'e Stoudemire PHX 01/29/2003 PHX vs. LAL L 35 7 1 12 8.3 0 0 - 5 5 100.0 3 4 7 1 0 0 0 5 -17
+p355
+aVJake Voskuhl PHX 01/29/2003 PHX vs. LAL L 12 4 2 3 66.7 0 0 - 0 0 - 4 1 5 1 0 1 1 3 2
+p356
+aVCasey Jacobsen PHX 01/29/2003 PHX vs. LAL L 11 4 2 5 40.0 0 1 0.0 0 3 0.0 1 0 1 0 0 0 0 0 -5
+p357
+aVShawn Marion PHX 01/29/2003 PHX vs. LAL L 42 18 8 17 47.1 1 3 33.3 1 2 50.0 3 8 11 4 2 2 0 4 -6
+p358
+aVRandy Brown PHX 01/29/2003 PHX vs. LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p359
+aVJoe Johnson PHX 01/29/2003 PHX vs. LAL L 43 12 5 15 33.3 1 4 25.0 1 2 50.0 1 3 4 0 1 1 3 2 -4
+p360
+aVShawn Marion PHX 01/27/2003 PHX @ WAS L 44 21 8 19 42.1 0 4 0.0 5 7 71.4 2 11 13 3 2 1 3 4 -4
+p361
+aVBo Outlaw PHX 01/27/2003 PHX @ WAS L 33 0 0 1 0.0 0 0 - 0 0 - 2 2 4 2 0 1 2 0 0
+p362
+aVRandy Brown PHX 01/27/2003 PHX @ WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p363
+aVJake Voskuhl PHX 01/27/2003 PHX @ WAS L 6 0 0 0 - 0 0 - 0 3 0.0 0 0 0 1 0 0 1 1 1
+p364
+aVScott Williams PHX 01/27/2003 PHX @ WAS L 15 9 4 7 57.1 0 0 - 1 1 100.0 2 3 5 0 0 0 0 4 6
+p365
+aVStephon Marbury PHX 01/27/2003 PHX @ WAS L 44 29 12 22 54.5 2 5 40.0 3 4 75.0 0 3 3 8 1 1 6 1 -3
+p366
+aVJoe Johnson PHX 01/27/2003 PHX @ WAS L 45 21 10 19 52.6 1 1 100.0 0 0 - 2 7 9 5 1 0 3 4 -7
+p367
+aVCasey Jacobsen PHX 01/27/2003 PHX @ WAS L 14 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p368
+aVAmar'e Stoudemire PHX 01/27/2003 PHX @ WAS L 35 11 4 9 44.4 0 0 - 3 9 33.3 2 6 8 3 2 0 4 4 -11
+p369
+aVStephon Marbury PHX 01/26/2003 PHX @ NYK L 44 31 12 28 42.9 1 5 20.0 6 9 66.7 2 1 3 9 4 0 0 4 0
+p370
+aVBo Outlaw PHX 01/26/2003 PHX @ NYK L 22 5 1 3 33.3 0 0 - 3 3 100.0 5 9 14 2 1 1 2 5 7
+p371
+aVAmar'e Stoudemire PHX 01/26/2003 PHX @ NYK L 27 3 1 6 16.7 0 0 - 1 4 25.0 1 5 6 0 0 1 2 2 -16
+p372
+aVAlton Ford PHX 01/26/2003 PHX @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p373
+aVJake Voskuhl PHX 01/26/2003 PHX @ NYK L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -1
+p374
+aVScott Williams PHX 01/26/2003 PHX @ NYK L 19 14 6 9 66.7 0 0 - 2 2 100.0 2 5 7 1 1 0 1 1 -24
+p375
+aVCasey Jacobsen PHX 01/26/2003 PHX @ NYK L 28 14 5 9 55.6 3 7 42.9 1 4 25.0 2 2 4 2 0 0 1 4 12
+p376
+aVShawn Marion PHX 01/26/2003 PHX @ NYK L 44 24 9 23 39.1 2 7 28.6 4 5 80.0 1 10 11 3 2 1 2 2 -4
+p377
+aVJoe Johnson PHX 01/26/2003 PHX @ NYK L 45 7 2 12 16.7 0 2 0.0 3 4 75.0 1 0 1 4 0 0 1 1 -10
+p378
+aVRandy Brown PHX 01/26/2003 PHX @ NYK L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -6
+p379
+aVDan Langhi PHX 01/24/2003 PHX @ ORL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 5
+p380
+aVShawn Marion PHX 01/24/2003 PHX @ ORL W 43 29 12 24 50.0 3 5 60.0 2 3 66.7 3 9 12 1 3 0 3 4 -6
+p381
+aVCasey Jacobsen PHX 01/24/2003 PHX @ ORL W 21 3 1 3 33.3 1 3 33.3 0 0 - 1 1 2 0 0 0 1 1 9
+p382
+aVRandy Brown PHX 01/24/2003 PHX @ ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -2
+p383
+aVStephon Marbury PHX 01/24/2003 PHX @ ORL W 44 22 11 26 42.3 0 4 0.0 0 1 0.0 1 4 5 8 1 0 3 5 5
+p384
+aVScott Williams PHX 01/24/2003 PHX @ ORL W 1 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 0
+p385
+aVJake Voskuhl PHX 01/24/2003 PHX @ ORL W 13 6 2 3 66.7 0 0 - 2 3 66.7 0 3 3 0 0 0 1 4 -4
+p386
+aVJoe Johnson PHX 01/24/2003 PHX @ ORL W 41 27 9 13 69.2 1 2 50.0 8 9 88.9 3 7 10 4 2 1 3 0 3
+p387
+aVAmar'e Stoudemire PHX 01/24/2003 PHX @ ORL W 32 16 5 10 50.0 0 0 - 6 8 75.0 3 5 8 1 1 0 4 3 5
+p388
+aVBo Outlaw PHX 01/24/2003 PHX @ ORL W 37 5 2 5 40.0 0 0 - 1 2 50.0 6 4 10 5 0 0 0 5 0
+p389
+aVCasey Jacobsen PHX 01/22/2003 PHX @ MIA L 24 6 2 8 25.0 2 6 33.3 0 0 - 0 1 1 0 0 1 1 3 0
+p390
+aVStephon Marbury PHX 01/22/2003 PHX @ MIA L 44 18 7 16 43.8 1 4 25.0 3 4 75.0 0 5 5 5 1 0 3 5 -6
+p391
+aVAmar'e Stoudemire PHX 01/22/2003 PHX @ MIA L 25 9 2 6 33.3 0 0 - 5 6 83.3 2 6 8 0 0 0 3 2 -7
+p392
+aVJoe Johnson PHX 01/22/2003 PHX @ MIA L 43 15 6 17 35.3 0 6 0.0 3 4 75.0 0 1 1 7 1 1 2 2 -4
+p393
+aVShawn Marion PHX 01/22/2003 PHX @ MIA L 46 27 12 23 52.2 2 7 28.6 1 1 100.0 6 3 9 1 1 2 4 1 -10
+p394
+aVRandy Brown PHX 01/22/2003 PHX @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -1
+p395
+aVScott Williams PHX 01/22/2003 PHX @ MIA L 7 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -1
+p396
+aVJake Voskuhl PHX 01/22/2003 PHX @ MIA L 16 5 1 1 100.0 0 0 - 3 4 75.0 0 3 3 0 1 0 1 4 4
+p397
+aVDan Langhi PHX 01/22/2003 PHX @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p398
+aVBo Outlaw PHX 01/22/2003 PHX @ MIA L 31 1 0 1 0.0 0 0 - 1 2 50.0 0 7 7 1 1 2 1 4 -9
+p399
+aVJoe Johnson PHX 01/20/2003 PHX @ NOH L 40 19 8 14 57.1 3 6 50.0 0 0 - 1 4 5 2 2 0 1 4 -1
+p400
+aVStephon Marbury PHX 01/20/2003 PHX @ NOH L 45 22 6 21 28.6 1 6 16.7 9 11 81.8 1 1 2 11 2 1 7 4 -5
+p401
+aVRandy Brown PHX 01/20/2003 PHX @ NOH L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p402
+aVAmar'e Stoudemire PHX 01/20/2003 PHX @ NOH L 32 22 7 11 63.6 0 0 - 8 12 66.7 5 8 13 0 0 0 0 5 -2
+p403
+aVJake Voskuhl PHX 01/20/2003 PHX @ NOH L 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 1 1 -15
+p404
+aVCasey Jacobsen PHX 01/20/2003 PHX @ NOH L 22 6 2 3 66.7 1 2 50.0 1 1 100.0 1 0 1 2 0 1 1 0 -8
+p405
+aVShawn Marion PHX 01/20/2003 PHX @ NOH L 46 25 10 24 41.7 2 7 28.6 3 3 100.0 5 11 16 3 2 2 3 2 -6
+p406
+aVBo Outlaw PHX 01/20/2003 PHX @ NOH L 16 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 1 3 -9
+p407
+aVScott Williams PHX 01/20/2003 PHX @ NOH L 13 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 1
+p408
+aVAlton Ford PHX 01/20/2003 PHX @ NOH L 5 2 1 3 33.3 0 0 - 0 1 0.0 0 2 2 0 0 0 0 2 -6
+p409
+aVCasey Jacobsen PHX 01/17/2003 PHX vs. DAL W 24 12 2 5 40.0 2 4 50.0 6 6 100.0 1 0 1 2 1 0 2 4 7
+p410
+aVJake Voskuhl PHX 01/17/2003 PHX vs. DAL W 16 6 3 5 60.0 0 0 - 0 0 - 2 4 6 0 0 0 1 3 -1
+p411
+aVShawn Marion PHX 01/17/2003 PHX vs. DAL W 45 16 6 16 37.5 1 3 33.3 3 3 100.0 1 8 9 1 1 0 1 3 1
+p412
+aVStephon Marbury PHX 01/17/2003 PHX vs. DAL W 46 41 15 28 53.6 4 6 66.7 7 8 87.5 1 3 4 11 1 1 0 4 5
+p413
+aVJoe Johnson PHX 01/17/2003 PHX vs. DAL W 39 20 6 14 42.9 3 6 50.0 5 5 100.0 0 9 9 5 2 0 2 3 15
+p414
+aVRandy Brown PHX 01/17/2003 PHX vs. DAL W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -4
+p415
+aVScott Williams PHX 01/17/2003 PHX vs. DAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 4
+p416
+aVAmar'e Stoudemire PHX 01/17/2003 PHX vs. DAL W 24 8 3 6 50.0 0 0 - 2 3 66.7 1 4 5 1 0 0 2 3 -2
+p417
+aVBo Outlaw PHX 01/17/2003 PHX vs. DAL W 31 6 2 4 50.0 0 0 - 2 4 50.0 2 4 6 0 0 1 0 3 0
+p418
+aVDan Langhi PHX 01/15/2003 PHX @ HOU L 11 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 2 -13
+p419
+aVAlton Ford PHX 01/15/2003 PHX @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p420
+aVStephon Marbury PHX 01/15/2003 PHX @ HOU L 43 32 12 29 41.4 3 7 42.9 5 5 100.0 1 4 5 6 1 0 2 3 -6
+p421
+aVScott Williams PHX 01/15/2003 PHX @ HOU L 14 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 0 3 -13
+p422
+aVBo Outlaw PHX 01/15/2003 PHX @ HOU L 14 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 10
+p423
+aVJake Voskuhl PHX 01/15/2003 PHX @ HOU L 14 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 2 1 4 12
+p424
+aVShawn Marion PHX 01/15/2003 PHX @ HOU L 44 25 9 19 47.4 2 4 50.0 5 5 100.0 5 8 13 2 0 2 2 4 -4
+p425
+aVJoe Johnson PHX 01/15/2003 PHX @ HOU L 28 4 2 9 22.2 0 3 0.0 0 0 - 0 3 3 3 0 1 0 4 -11
+p426
+aVAmar'e Stoudemire PHX 01/15/2003 PHX @ HOU L 41 24 8 21 38.1 0 0 - 8 12 66.7 7 6 13 0 2 0 3 4 -13
+p427
+aVRandy Brown PHX 01/15/2003 PHX @ HOU L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p428
+aVCasey Jacobsen PHX 01/15/2003 PHX @ HOU L 17 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 1 1 7
+p429
+aVDan Langhi PHX 01/14/2003 PHX @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p430
+aVAmar'e Stoudemire PHX 01/14/2003 PHX @ SAS L 43 24 8 19 42.1 0 1 0.0 8 13 61.5 10 5 15 2 1 2 2 4 -7
+p431
+aVCasey Jacobsen PHX 01/14/2003 PHX @ SAS L 30 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 2 1 0 0 1 -2
+p432
+aVShawn Marion PHX 01/14/2003 PHX @ SAS L 51 23 9 25 36.0 2 5 40.0 3 3 100.0 1 8 9 1 2 2 1 4 -6
+p433
+aVScott Williams PHX 01/14/2003 PHX @ SAS L 25 4 2 8 25.0 0 0 - 0 0 - 3 2 5 0 0 0 0 5 -3
+p434
+aVRandy Brown PHX 01/14/2003 PHX @ SAS L 15 4 0 2 0.0 0 0 - 4 6 66.7 1 2 3 1 3 1 0 4 1
+p435
+aVBo Outlaw PHX 01/14/2003 PHX @ SAS L 15 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 1
+p436
+aVStephon Marbury PHX 01/14/2003 PHX @ SAS L 49 29 11 26 42.3 1 2 50.0 6 6 100.0 0 8 8 7 1 0 3 3 -10
+p437
+aVJake Voskuhl PHX 01/14/2003 PHX @ SAS L 12 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 1 1 3 -11
+p438
+aVJoe Johnson PHX 01/14/2003 PHX @ SAS L 22 0 0 5 0.0 0 0 - 0 0 - 2 2 4 1 0 0 2 3 -4
+p439
+aVScott Williams PHX 01/12/2003 PHX vs. UTA W 22 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 1 0 3 6 7
+p440
+aVDan Langhi PHX 01/12/2003 PHX vs. UTA W 6 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 1 0 1 0
+p441
+aVStephon Marbury PHX 01/12/2003 PHX vs. UTA W 43 38 13 24 54.2 0 3 0.0 12 13 92.3 1 1 2 8 0 0 5 1 6
+p442
+aVShawn Marion PHX 01/12/2003 PHX vs. UTA W 44 31 10 19 52.6 3 5 60.0 8 8 100.0 2 4 6 3 3 3 1 1 9
+p443
+aVJoe Johnson PHX 01/12/2003 PHX vs. UTA W 24 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p444
+aVCasey Jacobsen PHX 01/12/2003 PHX vs. UTA W 20 10 1 4 25.0 1 2 50.0 7 9 77.8 0 0 0 0 0 0 0 2 8
+p445
+aVBo Outlaw PHX 01/12/2003 PHX vs. UTA W 19 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -6
+p446
+aVAmar'e Stoudemire PHX 01/12/2003 PHX vs. UTA W 34 17 7 8 87.5 0 0 - 3 6 50.0 4 9 13 3 1 0 3 4 4
+p447
+aVJake Voskuhl PHX 01/12/2003 PHX vs. UTA W 21 2 0 1 0.0 0 0 - 2 2 100.0 3 2 5 2 0 1 0 3 11
+p448
+aVRandy Brown PHX 01/12/2003 PHX vs. UTA W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -1
+p449
+aVJake Voskuhl PHX 01/10/2003 PHX vs. MEM W 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 2
+p450
+aVBo Outlaw PHX 01/10/2003 PHX vs. MEM W 15 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 0 1 1 -1
+p451
+aVCasey Jacobsen PHX 01/10/2003 PHX vs. MEM W 20 7 2 7 28.6 1 4 25.0 2 2 100.0 0 1 1 3 0 0 0 0 5
+p452
+aVStephon Marbury PHX 01/10/2003 PHX vs. MEM W 36 25 7 22 31.8 0 2 0.0 11 11 100.0 2 1 3 11 1 0 3 1 6
+p453
+aVDan Langhi PHX 01/10/2003 PHX vs. MEM W 11 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 3 0 0 1 0 4
+p454
+aVShawn Marion PHX 01/10/2003 PHX vs. MEM W 43 20 8 20 40.0 2 6 33.3 2 3 66.7 3 4 7 4 3 2 2 2 5
+p455
+aVJoe Johnson PHX 01/10/2003 PHX vs. MEM W 22 5 2 9 22.2 0 2 0.0 1 2 50.0 2 4 6 1 0 0 1 0 -1
+p456
+aVAmar'e Stoudemire PHX 01/10/2003 PHX vs. MEM W 40 16 7 16 43.8 0 0 - 2 2 100.0 8 13 21 0 2 0 4 2 -2
+p457
+aVRandy Brown PHX 01/10/2003 PHX vs. MEM W 18 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 1 1 1 1 2
+p458
+aVScott Williams PHX 01/10/2003 PHX vs. MEM W 24 10 5 6 83.3 0 0 - 0 0 - 6 2 8 0 0 1 1 4 10
+p459
+aVRandy Brown PHX 01/08/2003 PHX @ UTA L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p460
+aVJake Voskuhl PHX 01/08/2003 PHX @ UTA L 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -7
+p461
+aVBo Outlaw PHX 01/08/2003 PHX @ UTA L 17 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 2 1 1 2 -10
+p462
+aVShawn Marion PHX 01/08/2003 PHX @ UTA L 40 25 10 15 66.7 4 6 66.7 1 2 50.0 3 5 8 2 2 0 1 4 2
+p463
+aVAmar'e Stoudemire PHX 01/08/2003 PHX @ UTA L 37 13 2 5 40.0 0 0 - 9 10 90.0 3 1 4 1 1 1 3 2 1
+p464
+aVScott Williams PHX 01/08/2003 PHX @ UTA L 29 10 5 7 71.4 0 0 - 0 1 0.0 0 6 6 1 0 0 0 6 5
+p465
+aVJoe Johnson PHX 01/08/2003 PHX @ UTA L 16 6 1 6 16.7 0 2 0.0 4 4 100.0 0 0 0 1 1 1 0 2 -9
+p466
+aVAnfernee Hardaway PHX 01/08/2003 PHX @ UTA L 36 6 2 8 25.0 2 5 40.0 0 0 - 0 2 2 1 4 1 2 4 2
+p467
+aVStephon Marbury PHX 01/08/2003 PHX @ UTA L 40 29 12 21 57.1 0 4 0.0 5 7 71.4 0 1 1 10 1 0 2 1 0
+p468
+aVCasey Jacobsen PHX 01/08/2003 PHX @ UTA L 9 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p469
+aVAnfernee Hardaway PHX 01/07/2003 PHX @ POR W 29 9 3 8 37.5 1 1 100.0 2 2 100.0 0 5 5 1 1 0 2 2 -1
+p470
+aVShawn Marion PHX 01/07/2003 PHX @ POR W 40 24 8 17 47.1 0 5 0.0 8 8 100.0 1 6 7 1 1 0 1 3 -6
+p471
+aVStephon Marbury PHX 01/07/2003 PHX @ POR W 41 20 7 18 38.9 0 3 0.0 6 10 60.0 1 2 3 7 2 0 4 3 4
+p472
+aVJoe Johnson PHX 01/07/2003 PHX @ POR W 27 17 6 10 60.0 3 4 75.0 2 4 50.0 0 3 3 3 1 0 2 3 10
+p473
+aVScott Williams PHX 01/07/2003 PHX @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p474
+aVJake Voskuhl PHX 01/07/2003 PHX @ POR W 30 8 3 5 60.0 0 0 - 2 3 66.7 2 3 5 1 2 0 0 4 13
+p475
+aVCasey Jacobsen PHX 01/07/2003 PHX @ POR W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 13
+p476
+aVAmar'e Stoudemire PHX 01/07/2003 PHX @ POR W 26 4 1 4 25.0 0 0 - 2 2 100.0 0 6 6 1 0 0 4 1 -1
+p477
+aVRandy Brown PHX 01/07/2003 PHX @ POR W 16 2 1 3 33.3 0 0 - 0 0 - 0 3 3 4 2 0 0 1 16
+p478
+aVBo Outlaw PHX 01/07/2003 PHX @ POR W 23 2 1 2 50.0 0 1 0.0 0 0 - 1 6 7 2 0 2 2 2 -11
+p479
+aVBo Outlaw PHX 01/05/2003 PHX @ LAL L 17 9 4 4 100.0 0 0 - 1 2 50.0 1 6 7 1 1 0 0 3 -16
+p480
+aVShawn Marion PHX 01/05/2003 PHX @ LAL L 37 13 5 12 41.7 2 3 66.7 1 1 100.0 0 4 4 3 1 0 1 4 -11
+p481
+aVAlton Ford PHX 01/05/2003 PHX @ LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p482
+aVJake Voskuhl PHX 01/05/2003 PHX @ LAL L 7 1 0 2 0.0 0 0 - 1 1 100.0 0 2 2 2 0 0 1 5 -2
+p483
+aVJoe Johnson PHX 01/05/2003 PHX @ LAL L 32 12 4 10 40.0 2 3 66.7 2 2 100.0 0 2 2 1 0 0 0 2 -14
+p484
+aVRandy Brown PHX 01/05/2003 PHX @ LAL L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 4 2 0 0 0 4
+p485
+aVAnfernee Hardaway PHX 01/05/2003 PHX @ LAL L 23 10 5 9 55.6 0 2 0.0 0 0 - 0 3 3 2 0 0 0 2 -1
+p486
+aVScott Williams PHX 01/05/2003 PHX @ LAL L 24 6 3 9 33.3 0 0 - 0 0 - 3 1 4 1 0 0 0 4 2
+p487
+aVDan Langhi PHX 01/05/2003 PHX @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p488
+aVCasey Jacobsen PHX 01/05/2003 PHX @ LAL L 14 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 2 1 0 0 0 2
+p489
+aVAmar'e Stoudemire PHX 01/05/2003 PHX @ LAL L 26 10 4 11 36.4 0 0 - 2 4 50.0 6 4 10 0 0 0 5 5 -7
+p490
+aVStephon Marbury PHX 01/05/2003 PHX @ LAL L 45 32 12 27 44.4 2 5 40.0 6 10 60.0 0 2 2 6 0 0 1 1 -12
+p491
+aVJake Voskuhl PHX 01/04/2003 PHX vs. LAL W 9 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 5 -1
+p492
+aVCasey Jacobsen PHX 01/04/2003 PHX vs. LAL W 12 9 3 4 75.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 0 0 3
+p493
+aVJoe Johnson PHX 01/04/2003 PHX vs. LAL W 19 8 2 7 28.6 0 1 0.0 4 4 100.0 0 6 6 0 1 0 2 1 21
+p494
+aVAnfernee Hardaway PHX 01/04/2003 PHX vs. LAL W 37 11 4 10 40.0 0 1 0.0 3 3 100.0 2 1 3 3 0 1 3 3 9
+p495
+aVAmar'e Stoudemire PHX 01/04/2003 PHX vs. LAL W 33 17 6 11 54.5 0 0 - 5 9 55.6 4 4 8 1 0 1 2 4 2
+p496
+aVRandy Brown PHX 01/04/2003 PHX vs. LAL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 12
+p497
+aVShawn Marion PHX 01/04/2003 PHX vs. LAL W 38 23 9 16 56.3 1 5 20.0 4 5 80.0 1 6 7 3 1 1 0 3 14
+p498
+aVBo Outlaw PHX 01/04/2003 PHX vs. LAL W 27 12 5 7 71.4 0 0 - 2 6 33.3 2 2 4 2 0 1 1 4 16
+p499
+aVStephon Marbury PHX 01/04/2003 PHX vs. LAL W 40 17 4 17 23.5 1 2 50.0 8 11 72.7 2 6 8 10 0 0 4 2 1
+p500
+aVScott Williams PHX 01/04/2003 PHX vs. LAL W 18 6 3 6 50.0 0 0 - 0 0 - 1 7 8 0 1 1 1 2 -9
+p501
+aVDan Langhi PHX 01/04/2003 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p502
+aVStephon Marbury PHX 01/02/2003 PHX vs. PHI W 41 12 4 13 30.8 0 0 - 4 5 80.0 0 4 4 10 1 1 2 3 16
+p503
+aVScott Williams PHX 01/02/2003 PHX vs. PHI W 15 6 3 8 37.5 0 0 - 0 0 - 4 3 7 0 0 0 1 1 9
+p504
+aVCasey Jacobsen PHX 01/02/2003 PHX vs. PHI W 13 6 2 5 40.0 2 4 50.0 0 2 0.0 0 1 1 0 0 0 0 1 1
+p505
+aVAnfernee Hardaway PHX 01/02/2003 PHX vs. PHI W 33 17 6 10 60.0 3 3 100.0 2 3 66.7 1 4 5 3 1 0 2 3 19
+p506
+aVJoe Johnson PHX 01/02/2003 PHX vs. PHI W 21 5 2 7 28.6 1 2 50.0 0 0 - 0 4 4 3 0 0 0 1 1
+p507
+aVJake Voskuhl PHX 01/02/2003 PHX vs. PHI W 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 2
+p508
+aVShawn Marion PHX 01/02/2003 PHX vs. PHI W 38 24 10 20 50.0 2 6 33.3 2 2 100.0 3 3 6 2 3 1 7 1 17
+p509
+aVDan Langhi PHX 01/02/2003 PHX vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p510
+aVAmar'e Stoudemire PHX 01/02/2003 PHX vs. PHI W 38 20 8 15 53.3 0 0 - 4 4 100.0 2 9 11 1 2 2 1 1 14
+p511
+aVBo Outlaw PHX 01/02/2003 PHX vs. PHI W 34 4 2 2 100.0 0 0 - 0 0 - 3 1 4 3 1 5 4 4 11
+p512
+aVAmar'e Stoudemire PHX 12/30/2002 PHX @ MIN L 45 38 16 24 66.7 0 1 0.0 6 11 54.5 6 8 14 1 0 2 4 4 2
+p513
+aVRandy Brown PHX 12/30/2002 PHX @ MIN L 9 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 1 0 0 2 1
+p514
+aVStephon Marbury PHX 12/30/2002 PHX @ MIN L 34 17 6 17 35.3 3 5 60.0 2 4 50.0 0 2 2 5 0 0 5 4 -7
+p515
+aVDan Langhi PHX 12/30/2002 PHX @ MIN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -4
+p516
+aVJoe Johnson PHX 12/30/2002 PHX @ MIN L 13 0 0 2 0.0 0 0 - 0 0 - 1 2 3 3 0 1 1 1 4
+p517
+aVShawn Marion PHX 12/30/2002 PHX @ MIN L 46 26 8 22 36.4 2 6 33.3 8 11 72.7 4 8 12 3 0 1 3 4 -2
+p518
+aVAnfernee Hardaway PHX 12/30/2002 PHX @ MIN L 23 6 3 7 42.9 0 1 0.0 0 0 - 2 2 4 4 0 0 4 1 -11
+p519
+aVScott Williams PHX 12/30/2002 PHX @ MIN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -4
+p520
+aVCasey Jacobsen PHX 12/30/2002 PHX @ MIN L 25 9 2 6 33.3 1 4 25.0 4 7 57.1 1 1 2 2 1 0 2 4 6
+p521
+aVJake Voskuhl PHX 12/30/2002 PHX @ MIN L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -12
+p522
+aVBo Outlaw PHX 12/30/2002 PHX @ MIN L 22 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 2 0 2 -3
+p523
+aVAnfernee Hardaway PHX 12/29/2002 PHX @ CLE W 28 16 5 10 50.0 1 3 33.3 5 5 100.0 1 4 5 4 1 0 5 0 6
+p524
+aVCasey Jacobsen PHX 12/29/2002 PHX @ CLE W 28 14 5 9 55.6 3 5 60.0 1 1 100.0 0 1 1 1 2 0 0 1 17
+p525
+aVStephon Marbury PHX 12/29/2002 PHX @ CLE W 31 12 6 13 46.2 0 2 0.0 0 0 - 2 0 2 8 2 1 3 3 13
+p526
+aVJake Voskuhl PHX 12/29/2002 PHX @ CLE W 18 6 2 2 100.0 0 0 - 2 2 100.0 2 5 7 1 0 0 0 2 13
+p527
+aVRandy Brown PHX 12/29/2002 PHX @ CLE W 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 5
+p528
+aVAmar'e Stoudemire PHX 12/29/2002 PHX @ CLE W 38 19 4 12 33.3 0 0 - 11 15 73.3 6 7 13 3 2 3 0 3 18
+p529
+aVJoe Johnson PHX 12/29/2002 PHX @ CLE W 34 9 3 10 30.0 1 4 25.0 2 2 100.0 0 1 1 1 0 0 1 4 12
+p530
+aVDan Langhi PHX 12/29/2002 PHX @ CLE W 9 6 3 6 50.0 0 0 - 0 0 - 2 1 3 1 1 0 0 0 4
+p531
+aVBo Outlaw PHX 12/29/2002 PHX @ CLE W 23 9 4 6 66.7 0 0 - 1 2 50.0 0 1 1 2 0 1 1 3 7
+p532
+aVScott Williams PHX 12/29/2002 PHX @ CLE W 18 10 5 15 33.3 0 0 - 0 0 - 1 1 2 0 3 1 1 4 0
+p533
+aVRandy Brown PHX 12/27/2002 PHX vs. LAC W 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -3
+p534
+aVCasey Jacobsen PHX 12/27/2002 PHX vs. LAC W 29 19 6 9 66.7 5 7 71.4 2 2 100.0 0 3 3 0 1 0 1 3 2
+p535
+aVStephon Marbury PHX 12/27/2002 PHX vs. LAC W 37 26 11 21 52.4 1 5 20.0 3 5 60.0 0 5 5 5 2 0 1 2 14
+p536
+aVJoe Johnson PHX 12/27/2002 PHX vs. LAC W 29 6 3 11 27.3 0 4 0.0 0 0 - 1 2 3 4 2 1 1 0 14
+p537
+aVShawn Marion PHX 12/27/2002 PHX vs. LAC W 15 14 5 11 45.5 2 4 50.0 2 2 100.0 2 2 4 2 1 0 2 2 4
+p538
+aVScott Williams PHX 12/27/2002 PHX vs. LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 3
+p539
+aVAnfernee Hardaway PHX 12/27/2002 PHX vs. LAC W 34 13 6 13 46.2 0 1 0.0 1 1 100.0 0 1 1 10 1 0 2 1 9
+p540
+aVJake Voskuhl PHX 12/27/2002 PHX vs. LAC W 19 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 1 0 3 15
+p541
+aVBo Outlaw PHX 12/27/2002 PHX vs. LAC W 24 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 1 0 0 2 9
+p542
+aVJake Tsakalidis PHX 12/27/2002 PHX vs. LAC W 14 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 2 0 3 3
+p543
+aVAmar'e Stoudemire PHX 12/27/2002 PHX vs. LAC W 25 16 7 9 77.8 0 0 - 2 2 100.0 3 5 8 2 0 0 1 2 -5
+p544
+aVScott Williams PHX 12/23/2002 PHX vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p545
+aVCasey Jacobsen PHX 12/23/2002 PHX vs. SEA W 13 8 2 5 40.0 2 4 50.0 2 2 100.0 0 2 2 1 0 0 0 1 -6
+p546
+aVAmar'e Stoudemire PHX 12/23/2002 PHX vs. SEA W 34 11 3 4 75.0 0 0 - 5 6 83.3 4 4 8 0 0 1 3 4 9
+p547
+aVBo Outlaw PHX 12/23/2002 PHX vs. SEA W 32 3 1 4 25.0 0 0 - 1 2 50.0 0 5 5 1 0 0 0 3 6
+p548
+aVJoe Johnson PHX 12/23/2002 PHX vs. SEA W 23 8 3 7 42.9 2 3 66.7 0 0 - 1 0 1 1 0 0 2 0 -13
+p549
+aVStephon Marbury PHX 12/23/2002 PHX vs. SEA W 40 8 3 12 25.0 0 3 0.0 2 2 100.0 0 3 3 12 0 0 3 1 8
+p550
+aVDan Langhi PHX 12/23/2002 PHX vs. SEA W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -3
+p551
+aVAnfernee Hardaway PHX 12/23/2002 PHX vs. SEA W 36 20 8 16 50.0 4 7 57.1 0 0 - 4 4 8 6 0 0 4 4 6
+p552
+aVShawn Marion PHX 12/23/2002 PHX vs. SEA W 44 30 12 23 52.2 4 8 50.0 2 3 66.7 5 6 11 1 5 1 1 3 6
+p553
+aVJake Tsakalidis PHX 12/23/2002 PHX vs. SEA W 12 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 0 0 1 2 1 -1
+p554
+aVScott Williams PHX 12/21/2002 PHX vs. SAC W 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 2 0 0 1 5 0
+p555
+aVJake Voskuhl PHX 12/21/2002 PHX vs. SAC W 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -2
+p556
+aVJake Tsakalidis PHX 12/21/2002 PHX vs. SAC W 23 7 3 6 50.0 0 0 - 1 2 50.0 2 6 8 0 1 1 1 1 5
+p557
+aVShawn Marion PHX 12/21/2002 PHX vs. SAC W 37 28 10 15 66.7 2 2 100.0 6 7 85.7 1 7 8 1 3 0 3 3 6
+p558
+aVAnfernee Hardaway PHX 12/21/2002 PHX vs. SAC W 30 7 3 5 60.0 1 2 50.0 0 0 - 2 5 7 7 2 1 1 5 14
+p559
+aVAmar'e Stoudemire PHX 12/21/2002 PHX vs. SAC W 31 16 7 14 50.0 0 0 - 2 6 33.3 3 9 12 0 1 0 2 2 10
+p560
+aVJoe Johnson PHX 12/21/2002 PHX vs. SAC W 28 9 1 7 14.3 1 2 50.0 6 6 100.0 1 3 4 6 2 0 1 1 -1
+p561
+aVCasey Jacobsen PHX 12/21/2002 PHX vs. SAC W 16 2 1 6 16.7 0 3 0.0 0 0 - 1 0 1 1 1 0 0 0 5
+p562
+aVStephon Marbury PHX 12/21/2002 PHX vs. SAC W 38 28 9 22 40.9 1 2 50.0 9 10 90.0 0 1 1 7 0 0 5 3 5
+p563
+aVBo Outlaw PHX 12/21/2002 PHX vs. SAC W 16 7 3 5 60.0 0 0 - 1 3 33.3 0 0 0 1 1 1 1 2 3
+p564
+aVAlton Ford PHX 12/20/2002 PHX @ LAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p565
+aVStephon Marbury PHX 12/20/2002 PHX @ LAC W 35 16 7 13 53.8 0 2 0.0 2 2 100.0 0 2 2 8 1 0 5 2 21
+p566
+aVAmar'e Stoudemire PHX 12/20/2002 PHX @ LAC W 41 18 7 13 53.8 0 0 - 4 7 57.1 4 7 11 3 0 1 2 2 7
+p567
+aVBo Outlaw PHX 12/20/2002 PHX @ LAC W 17 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 5
+p568
+aVShawn Marion PHX 12/20/2002 PHX @ LAC W 43 20 8 16 50.0 4 6 66.7 0 0 - 1 11 12 3 3 1 1 2 19
+p569
+aVJake Tsakalidis PHX 12/20/2002 PHX @ LAC W 19 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 0 2 3 3 4
+p570
+aVCasey Jacobsen PHX 12/20/2002 PHX @ LAC W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 3 -11
+p571
+aVScott Williams PHX 12/20/2002 PHX @ LAC W 12 8 2 5 40.0 0 0 - 4 4 100.0 2 2 4 1 0 0 0 0 9
+p572
+aVAnfernee Hardaway PHX 12/20/2002 PHX @ LAC W 29 6 3 8 37.5 0 1 0.0 0 0 - 0 6 6 3 1 1 1 2 10
+p573
+aVDan Langhi PHX 12/20/2002 PHX @ LAC W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p574
+aVJoe Johnson PHX 12/20/2002 PHX @ LAC W 25 7 3 11 27.3 1 2 50.0 0 0 - 1 3 4 0 0 0 3 2 4
+p575
+aVStephon Marbury PHX 12/17/2002 PHX @ SAC L 29 9 4 16 25.0 0 2 0.0 1 2 50.0 1 1 2 4 1 0 5 1 -20
+p576
+aVScott Williams PHX 12/17/2002 PHX @ SAC L 11 6 3 8 37.5 0 0 - 0 0 - 3 3 6 0 1 0 0 2 -5
+p577
+aVAmar'e Stoudemire PHX 12/17/2002 PHX @ SAC L 29 4 1 5 20.0 0 0 - 2 6 33.3 0 7 7 0 0 0 1 3 -9
+p578
+aVDan Langhi PHX 12/17/2002 PHX @ SAC L 7 8 3 5 60.0 2 2 100.0 0 0 - 0 2 2 0 1 1 0 0 6
+p579
+aVAlton Ford PHX 12/17/2002 PHX @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p580
+aVShawn Marion PHX 12/17/2002 PHX @ SAC L 38 14 7 17 41.2 0 3 0.0 0 0 - 2 7 9 3 1 0 2 1 -16
+p581
+aVCasey Jacobsen PHX 12/17/2002 PHX @ SAC L 32 15 5 13 38.5 1 5 20.0 4 5 80.0 0 3 3 3 4 1 1 2 9
+p582
+aVAnfernee Hardaway PHX 12/17/2002 PHX @ SAC L 24 8 4 10 40.0 0 1 0.0 0 0 - 0 2 2 3 0 1 1 0 -15
+p583
+aVBo Outlaw PHX 12/17/2002 PHX @ SAC L 24 6 3 5 60.0 0 0 - 0 0 - 5 6 11 2 0 1 3 1 0
+p584
+aVJake Voskuhl PHX 12/17/2002 PHX @ SAC L 12 5 1 4 25.0 0 0 - 3 4 75.0 4 0 4 1 0 1 2 1 2
+p585
+aVJoe Johnson PHX 12/17/2002 PHX @ SAC L 18 9 3 7 42.9 1 1 100.0 2 2 100.0 0 6 6 4 1 0 2 2 8
+p586
+aVJake Tsakalidis PHX 12/17/2002 PHX @ SAC L 12 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 2 0 0 0 3 -12
+p587
+aVShawn Marion PHX 12/16/2002 PHX vs. ORL W 44 19 8 24 33.3 2 5 40.0 1 1 100.0 4 7 11 1 0 2 2 3 2
+p588
+aVJoe Johnson PHX 12/16/2002 PHX vs. ORL W 16 5 2 6 33.3 0 2 0.0 1 1 100.0 2 2 4 1 1 0 1 2 -3
+p589
+aVJake Voskuhl PHX 12/16/2002 PHX vs. ORL W 15 2 1 2 50.0 0 0 - 0 0 - 3 3 6 1 0 1 0 5 -1
+p590
+aVStephon Marbury PHX 12/16/2002 PHX vs. ORL W 37 12 4 11 36.4 2 7 28.6 2 2 100.0 0 2 2 9 0 0 3 2 4
+p591
+aVCasey Jacobsen PHX 12/16/2002 PHX vs. ORL W 15 6 1 3 33.3 1 2 50.0 3 4 75.0 0 0 0 4 0 1 3 1 0
+p592
+aVBo Outlaw PHX 12/16/2002 PHX vs. ORL W 45 10 4 4 100.0 0 0 - 2 4 50.0 2 3 5 3 1 2 0 4 8
+p593
+aVAnfernee Hardaway PHX 12/16/2002 PHX vs. ORL W 33 16 6 14 42.9 2 6 33.3 2 2 100.0 1 9 10 8 3 2 5 4 8
+p594
+aVDan Langhi PHX 12/16/2002 PHX vs. ORL W 7 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -4
+p595
+aVAmar'e Stoudemire PHX 12/16/2002 PHX vs. ORL W 28 15 4 6 66.7 0 0 - 7 10 70.0 1 2 3 0 1 0 0 4 1
+p596
+aVJake Voskuhl PHX 12/14/2002 PHX @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p597
+aVAmar'e Stoudemire PHX 12/14/2002 PHX @ ATL W 38 17 6 13 46.2 0 0 - 5 6 83.3 4 10 14 0 2 0 1 3 23
+p598
+aVJake Tsakalidis PHX 12/14/2002 PHX @ ATL W 5 2 1 3 33.3 0 0 - 0 0 - 3 0 3 0 0 0 0 1 -7
+p599
+aVBo Outlaw PHX 12/14/2002 PHX @ ATL W 30 4 2 4 50.0 0 0 - 0 0 - 2 5 7 6 0 2 0 5 -5
+p600
+aVAnfernee Hardaway PHX 12/14/2002 PHX @ ATL W 26 9 4 6 66.7 1 1 100.0 0 0 - 1 3 4 1 0 1 0 0 15
+p601
+aVAlton Ford PHX 12/14/2002 PHX @ ATL W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p602
+aVStephon Marbury PHX 12/14/2002 PHX @ ATL W 32 21 8 19 42.1 1 5 20.0 4 4 100.0 0 3 3 10 4 0 4 2 14
+p603
+aVJoe Johnson PHX 12/14/2002 PHX @ ATL W 24 7 3 9 33.3 1 1 100.0 0 0 - 1 1 2 4 0 0 0 1 1
+p604
+aVShawn Marion PHX 12/14/2002 PHX @ ATL W 41 24 9 24 37.5 0 3 0.0 6 6 100.0 2 4 6 1 0 1 3 1 12
+p605
+aVDan Langhi PHX 12/14/2002 PHX @ ATL W 18 11 5 6 83.3 1 1 100.0 0 0 - 1 5 6 1 1 0 1 2 19
+p606
+aVCasey Jacobsen PHX 12/14/2002 PHX @ ATL W 16 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 3 0 0 0 0 0
+p607
+aVScott Williams PHX 12/14/2002 PHX @ ATL W 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 0
+p608
+aVAnfernee Hardaway PHX 12/13/2002 PHX @ PHI W 34 15 7 16 43.8 0 1 0.0 1 2 50.0 1 3 4 1 2 0 2 5 4
+p609
+aVAmar'e Stoudemire PHX 12/13/2002 PHX @ PHI W 28 8 3 7 42.9 0 0 - 2 3 66.7 3 4 7 0 0 1 2 5 -1
+p610
+aVJoe Johnson PHX 12/13/2002 PHX @ PHI W 21 12 3 4 75.0 2 2 100.0 4 4 100.0 0 0 0 5 0 1 2 2 5
+p611
+aVStephon Marbury PHX 12/13/2002 PHX @ PHI W 44 28 12 21 57.1 4 6 66.7 0 0 - 0 1 1 10 1 0 3 4 11
+p612
+aVJake Tsakalidis PHX 12/13/2002 PHX @ PHI W 8 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 1 0 1 1 -1
+p613
+aVBo Outlaw PHX 12/13/2002 PHX @ PHI W 39 4 2 3 66.7 0 0 - 0 0 - 1 3 4 3 0 0 1 4 13
+p614
+aVScott Williams PHX 12/13/2002 PHX @ PHI W 21 6 3 7 42.9 0 0 - 0 0 - 2 4 6 2 0 0 0 4 5
+p615
+aVShawn Marion PHX 12/13/2002 PHX @ PHI W 45 25 9 20 45.0 3 7 42.9 4 4 100.0 7 8 15 1 2 1 3 0 4
+p616
+aVJake Tsakalidis PHX 12/11/2002 PHX @ BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p617
+aVAmar'e Stoudemire PHX 12/11/2002 PHX @ BOS W 34 19 6 7 85.7 0 0 - 7 11 63.6 6 6 12 0 2 1 2 4 19
+p618
+aVAnfernee Hardaway PHX 12/11/2002 PHX @ BOS W 27 9 4 11 36.4 0 2 0.0 1 2 50.0 2 7 9 6 1 0 3 1 5
+p619
+aVJoe Johnson PHX 12/11/2002 PHX @ BOS W 31 19 7 14 50.0 1 5 20.0 4 4 100.0 0 7 7 3 3 0 1 2 15
+p620
+aVCasey Jacobsen PHX 12/11/2002 PHX @ BOS W 12 0 0 3 0.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 0 3 -10
+p621
+aVBo Outlaw PHX 12/11/2002 PHX @ BOS W 44 6 3 4 75.0 0 0 - 0 2 0.0 3 6 9 2 2 1 3 3 8
+p622
+aVScott Williams PHX 12/11/2002 PHX @ BOS W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p623
+aVStephon Marbury PHX 12/11/2002 PHX @ BOS W 40 18 8 19 42.1 1 2 50.0 1 2 50.0 0 0 0 6 0 0 4 3 2
+p624
+aVShawn Marion PHX 12/11/2002 PHX @ BOS W 44 32 11 20 55.0 1 5 20.0 9 10 90.0 2 9 11 2 0 0 1 1 9
+p625
+aVJake Voskuhl PHX 12/09/2002 PHX @ NJN L 22 7 2 3 66.7 0 0 - 3 3 100.0 2 2 4 2 0 1 0 2 7
+p626
+aVJoe Johnson PHX 12/09/2002 PHX @ NJN L 33 16 7 13 53.8 0 2 0.0 2 2 100.0 1 4 5 4 1 0 3 4 -1
+p627
+aVAmar'e Stoudemire PHX 12/09/2002 PHX @ NJN L 38 19 6 11 54.5 0 0 - 7 11 63.6 5 9 14 0 2 2 4 3 -10
+p628
+aVCasey Jacobsen PHX 12/09/2002 PHX @ NJN L 18 10 3 6 50.0 1 1 100.0 3 4 75.0 1 0 1 1 0 0 2 2 6
+p629
+aVShawn Marion PHX 12/09/2002 PHX @ NJN L 32 12 5 16 31.3 0 3 0.0 2 2 100.0 6 5 11 1 2 0 2 2 -15
+p630
+aVStephon Marbury PHX 12/09/2002 PHX @ NJN L 32 16 7 18 38.9 0 4 0.0 2 3 66.7 0 3 3 4 0 0 3 2 -20
+p631
+aVJake Tsakalidis PHX 12/09/2002 PHX @ NJN L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 1 0 2 -13
+p632
+aVBo Outlaw PHX 12/09/2002 PHX @ NJN L 15 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 0 1 1 1 1 -4
+p633
+aVAnfernee Hardaway PHX 12/09/2002 PHX @ NJN L 17 2 1 6 16.7 0 0 - 0 0 - 0 2 2 2 2 0 1 3 -14
+p634
+aVDan Langhi PHX 12/09/2002 PHX @ NJN L 19 0 0 7 0.0 0 2 0.0 0 0 - 2 3 5 1 2 0 2 0 -1
+p635
+aVAnfernee Hardaway PHX 12/08/2002 PHX @ MEM L 37 17 7 19 36.8 2 3 66.7 1 2 50.0 2 2 4 6 7 1 5 3 -18
+p636
+aVJake Voskuhl PHX 12/08/2002 PHX @ MEM L 13 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 3 10
+p637
+aVJoe Johnson PHX 12/08/2002 PHX @ MEM L 12 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 2 0 0 0 1
+p638
+aVBo Outlaw PHX 12/08/2002 PHX @ MEM L 29 7 3 6 50.0 0 0 - 1 1 100.0 6 3 9 2 1 2 1 4 5
+p639
+aVScott Williams PHX 12/08/2002 PHX @ MEM L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p640
+aVJake Tsakalidis PHX 12/08/2002 PHX @ MEM L 23 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 1 1 4 -10
+p641
+aVShawn Marion PHX 12/08/2002 PHX @ MEM L 44 23 10 21 47.6 3 7 42.9 0 0 - 3 4 7 3 2 2 2 3 -10
+p642
+aVAmar'e Stoudemire PHX 12/08/2002 PHX @ MEM L 26 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 1 4 4 -15
+p643
+aVCasey Jacobsen PHX 12/08/2002 PHX @ MEM L 15 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 3 7
+p644
+aVStephon Marbury PHX 12/08/2002 PHX @ MEM L 38 35 15 29 51.7 2 4 50.0 3 5 60.0 1 0 1 7 2 1 3 2 -3
+p645
+aVScott Williams PHX 12/06/2002 PHX vs. IND W 11 6 3 9 33.3 0 0 - 0 0 - 5 2 7 0 0 0 1 1 -2
+p646
+aVAnfernee Hardaway PHX 12/06/2002 PHX vs. IND W 33 18 6 9 66.7 0 0 - 6 7 85.7 2 6 8 4 0 0 7 2 8
+p647
+aVJake Tsakalidis PHX 12/06/2002 PHX vs. IND W 19 13 6 9 66.7 0 0 - 1 1 100.0 1 3 4 0 0 0 1 3 -11
+p648
+aVStephon Marbury PHX 12/06/2002 PHX vs. IND W 40 19 8 20 40.0 1 2 50.0 2 2 100.0 0 3 3 9 0 0 2 2 9
+p649
+aVBo Outlaw PHX 12/06/2002 PHX vs. IND W 32 7 3 4 75.0 0 0 - 1 3 33.3 0 3 3 2 1 2 1 4 16
+p650
+aVJoe Johnson PHX 12/06/2002 PHX vs. IND W 13 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 1 0 4 1 0
+p651
+aVCasey Jacobsen PHX 12/06/2002 PHX vs. IND W 23 8 4 8 50.0 0 1 0.0 0 1 0.0 2 0 2 3 0 0 1 2 -5
+p652
+aVShawn Marion PHX 12/06/2002 PHX vs. IND W 38 16 6 10 60.0 3 4 75.0 1 2 50.0 1 6 7 3 3 3 2 2 5
+p653
+aVAmar'e Stoudemire PHX 12/06/2002 PHX vs. IND W 31 14 5 10 50.0 0 0 - 4 6 66.7 3 5 8 4 2 0 0 5 10
+p654
+aVBo Outlaw PHX 12/04/2002 PHX vs. MEM W 24 3 1 5 20.0 0 0 - 1 1 100.0 5 3 8 5 2 1 0 2 13
+p655
+aVShawn Marion PHX 12/04/2002 PHX vs. MEM W 41 32 12 21 57.1 2 4 50.0 6 6 100.0 3 9 12 4 3 1 1 1 16
+p656
+aVStephon Marbury PHX 12/04/2002 PHX vs. MEM W 36 22 8 19 42.1 0 0 - 6 7 85.7 0 2 2 4 1 0 4 0 -1
+p657
+aVScott Williams PHX 12/04/2002 PHX vs. MEM W 21 9 4 5 80.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 4 13
+p658
+aVJake Voskuhl PHX 12/04/2002 PHX vs. MEM W 11 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -8
+p659
+aVCasey Jacobsen PHX 12/04/2002 PHX vs. MEM W 21 5 2 8 25.0 1 5 20.0 0 0 - 0 1 1 0 1 1 3 2 -6
+p660
+aVAmar'e Stoudemire PHX 12/04/2002 PHX vs. MEM W 40 14 7 16 43.8 0 0 - 0 1 0.0 6 9 15 1 0 2 2 2 8
+p661
+aVJoe Johnson PHX 12/04/2002 PHX vs. MEM W 20 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 3 0 0 1 2 11
+p662
+aVAnfernee Hardaway PHX 12/04/2002 PHX vs. MEM W 27 8 3 9 33.3 0 0 - 2 2 100.0 0 2 2 3 2 0 1 3 19
+p663
+aVCasey Jacobsen PHX 12/02/2002 PHX vs. MIA L 12 0 0 4 0.0 0 3 0.0 0 0 - 2 0 2 1 0 0 2 2 -9
+p664
+aVBo Outlaw PHX 12/02/2002 PHX vs. MIA L 29 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 0 0 0 2 -3
+p665
+aVDan Langhi PHX 12/02/2002 PHX vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p666
+aVScott Williams PHX 12/02/2002 PHX vs. MIA L 24 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 1 0 0 5 -8
+p667
+aVAnfernee Hardaway PHX 12/02/2002 PHX vs. MIA L 40 8 3 13 23.1 1 3 33.3 1 1 100.0 0 2 2 6 0 1 3 6 -7
+p668
+aVStephon Marbury PHX 12/02/2002 PHX vs. MIA L 49 18 8 18 44.4 1 4 25.0 1 1 100.0 2 3 5 8 1 1 3 4 -8
+p669
+aVAmar'e Stoudemire PHX 12/02/2002 PHX vs. MIA L 45 20 8 13 61.5 0 0 - 4 5 80.0 2 7 9 0 2 1 3 3 -6
+p670
+aVAlton Ford PHX 12/02/2002 PHX vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p671
+aVJoe Johnson PHX 12/02/2002 PHX vs. MIA L 13 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 1
+p672
+aVShawn Marion PHX 12/02/2002 PHX vs. MIA L 46 30 11 26 42.3 3 10 30.0 5 5 100.0 3 6 9 2 2 2 0 4 -11
+p673
+aVJake Voskuhl PHX 12/02/2002 PHX vs. MIA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p674
+aVJake Voskuhl PHX 11/30/2002 PHX @ GSW L 15 4 2 5 40.0 0 0 - 0 0 - 4 2 6 0 0 0 1 2 -3
+p675
+aVCasey Jacobsen PHX 11/30/2002 PHX @ GSW L 17 7 2 4 50.0 2 4 50.0 1 2 50.0 0 0 0 0 1 1 1 3 0
+p676
+aVShawn Marion PHX 11/30/2002 PHX @ GSW L 44 14 6 19 31.6 1 5 20.0 1 3 33.3 6 8 14 3 3 1 3 5 -6
+p677
+aVJoe Johnson PHX 11/30/2002 PHX @ GSW L 12 5 2 7 28.6 1 1 100.0 0 0 - 0 2 2 1 1 0 1 1 3
+p678
+aVAlton Ford PHX 11/30/2002 PHX @ GSW L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 1
+p679
+aVScott Williams PHX 11/30/2002 PHX @ GSW L 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 1 1 4 -6
+p680
+aVStephon Marbury PHX 11/30/2002 PHX @ GSW L 42 32 14 30 46.7 1 7 14.3 3 5 60.0 2 3 5 6 4 0 3 0 -5
+p681
+aVAnfernee Hardaway PHX 11/30/2002 PHX @ GSW L 37 12 4 9 44.4 1 2 50.0 3 4 75.0 1 5 6 4 1 2 4 3 -22
+p682
+aVBo Outlaw PHX 11/30/2002 PHX @ GSW L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 2
+p683
+aVAmar'e Stoudemire PHX 11/30/2002 PHX @ GSW L 38 14 6 14 42.9 0 0 - 2 6 33.3 7 4 11 1 1 2 6 2 -12
+p684
+aVDan Langhi PHX 11/30/2002 PHX @ GSW L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -2
+p685
+aVStephon Marbury PHX 11/29/2002 PHX vs. SAS W 44 43 18 34 52.9 2 8 25.0 5 5 100.0 2 3 5 5 3 0 0 2 5
+p686
+aVScott Williams PHX 11/29/2002 PHX vs. SAS W 33 11 4 9 44.4 0 0 - 3 4 75.0 3 8 11 1 0 1 1 5 2
+p687
+aVAnfernee Hardaway PHX 11/29/2002 PHX vs. SAS W 25 8 4 9 44.4 0 1 0.0 0 0 - 2 0 2 2 1 0 6 2 -10
+p688
+aVDan Langhi PHX 11/29/2002 PHX vs. SAS W 22 4 2 7 28.6 0 0 - 0 0 - 0 3 3 1 0 0 0 2 12
+p689
+aVCasey Jacobsen PHX 11/29/2002 PHX vs. SAS W 24 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 17
+p690
+aVJake Voskuhl PHX 11/29/2002 PHX vs. SAS W 8 2 1 5 20.0 0 0 - 0 0 - 3 0 3 0 0 0 1 1 3
+p691
+aVBo Outlaw PHX 11/29/2002 PHX vs. SAS W 12 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -2
+p692
+aVJoe Johnson PHX 11/29/2002 PHX vs. SAS W 6 0 0 6 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -1
+p693
+aVAmar'e Stoudemire PHX 11/29/2002 PHX vs. SAS W 21 8 3 6 50.0 0 0 - 2 2 100.0 4 6 10 0 0 0 3 5 -1
+p694
+aVShawn Marion PHX 11/29/2002 PHX vs. SAS W 46 11 5 13 38.5 0 2 0.0 1 1 100.0 8 3 11 0 3 0 0 1 10
+p695
+aVAnfernee Hardaway PHX 11/27/2002 PHX vs. NJN W 35 15 5 10 50.0 0 0 - 5 6 83.3 2 7 9 3 0 1 4 3 1
+p696
+aVScott Williams PHX 11/27/2002 PHX vs. NJN W 31 16 8 19 42.1 0 0 - 0 0 - 6 8 14 1 0 1 1 5 6
+p697
+aVCasey Jacobsen PHX 11/27/2002 PHX vs. NJN W 8 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p698
+aVShawn Marion PHX 11/27/2002 PHX vs. NJN W 44 22 7 18 38.9 3 6 50.0 5 6 83.3 1 9 10 3 2 1 1 2 8
+p699
+aVJake Voskuhl PHX 11/27/2002 PHX vs. NJN W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 1 0
+p700
+aVStephon Marbury PHX 11/27/2002 PHX vs. NJN W 42 12 4 21 19.0 1 7 14.3 3 4 75.0 0 5 5 9 3 0 3 1 7
+p701
+aVBo Outlaw PHX 11/27/2002 PHX vs. NJN W 20 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 1 2 3 4
+p702
+aVAmar'e Stoudemire PHX 11/27/2002 PHX vs. NJN W 38 13 5 9 55.6 0 0 - 3 5 60.0 2 9 11 2 0 1 4 6 6
+p703
+aVDan Langhi PHX 11/27/2002 PHX vs. NJN W 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p704
+aVJoe Johnson PHX 11/27/2002 PHX vs. NJN W 15 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 0 5
+p705
+aVAnfernee Hardaway PHX 11/25/2002 PHX vs. MIL W 31 9 4 10 40.0 0 1 0.0 1 2 50.0 1 5 6 3 0 0 4 3 5
+p706
+aVShawn Marion PHX 11/25/2002 PHX vs. MIL W 45 22 9 20 45.0 1 2 50.0 3 7 42.9 5 10 15 4 0 1 0 2 4
+p707
+aVAmar'e Stoudemire PHX 11/25/2002 PHX vs. MIL W 35 15 4 13 30.8 0 1 0.0 7 9 77.8 4 9 13 1 1 2 4 5 -3
+p708
+aVScott Williams PHX 11/25/2002 PHX vs. MIL W 10 6 3 5 60.0 0 0 - 0 0 - 2 1 3 1 0 1 1 0 -3
+p709
+aVDan Langhi PHX 11/25/2002 PHX vs. MIL W 9 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p710
+aVBo Outlaw PHX 11/25/2002 PHX vs. MIL W 19 0 0 3 0.0 0 0 - 0 0 - 4 2 6 1 2 0 1 2 2
+p711
+aVCasey Jacobsen PHX 11/25/2002 PHX vs. MIL W 13 4 1 4 25.0 0 3 0.0 2 2 100.0 0 1 1 1 0 0 0 0 3
+p712
+aVStephon Marbury PHX 11/25/2002 PHX vs. MIL W 41 11 5 12 41.7 0 2 0.0 1 5 20.0 2 2 4 12 1 0 1 3 7
+p713
+aVJoe Johnson PHX 11/25/2002 PHX vs. MIL W 19 10 4 11 36.4 1 1 100.0 1 2 50.0 1 2 3 2 1 0 2 3 0
+p714
+aVJake Tsakalidis PHX 11/25/2002 PHX vs. MIL W 18 5 2 7 28.6 0 0 - 1 1 100.0 0 2 2 1 0 0 0 1 6
+p715
+aVJoe Johnson PHX 11/23/2002 PHX vs. DEN L 16 9 4 9 44.4 1 1 100.0 0 0 - 0 1 1 1 0 0 1 2 4
+p716
+aVAmar'e Stoudemire PHX 11/23/2002 PHX vs. DEN L 25 9 1 3 33.3 0 0 - 7 8 87.5 1 4 5 1 0 0 3 3 -2
+p717
+aVShawn Marion PHX 11/23/2002 PHX vs. DEN L 41 19 9 19 47.4 1 4 25.0 0 0 - 2 7 9 0 5 3 2 1 -2
+p718
+aVJake Voskuhl PHX 11/23/2002 PHX vs. DEN L 15 3 0 0 - 0 0 - 3 4 75.0 1 1 2 0 0 0 0 4 -1
+p719
+aVScott Williams PHX 11/23/2002 PHX vs. DEN L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 5
+p720
+aVStephon Marbury PHX 11/23/2002 PHX vs. DEN L 40 13 5 16 31.3 1 4 25.0 2 3 66.7 1 0 1 14 1 1 5 2 0
+p721
+aVAnfernee Hardaway PHX 11/23/2002 PHX vs. DEN L 30 7 3 8 37.5 0 0 - 1 1 100.0 0 1 1 3 1 0 6 5 -3
+p722
+aVDan Langhi PHX 11/23/2002 PHX vs. DEN L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p723
+aVJake Tsakalidis PHX 11/23/2002 PHX vs. DEN L 25 6 2 8 25.0 0 0 - 2 4 50.0 4 7 11 1 0 1 0 4 -7
+p724
+aVCasey Jacobsen PHX 11/23/2002 PHX vs. DEN L 17 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 4 1 0
+p725
+aVBo Outlaw PHX 11/23/2002 PHX vs. DEN L 21 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 2 1 1 0
+p726
+aVCasey Jacobsen PHX 11/22/2002 PHX @ SAC L 3 2 1 3 33.3 0 1 0.0 0 1 0.0 0 0 0 0 0 0 0 0 -2
+p727
+aVShawn Marion PHX 11/22/2002 PHX @ SAC L 37 18 7 19 36.8 1 4 25.0 3 3 100.0 3 7 10 0 2 0 5 2 -15
+p728
+aVJake Tsakalidis PHX 11/22/2002 PHX @ SAC L 11 8 4 4 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 3
+p729
+aVScott Williams PHX 11/22/2002 PHX @ SAC L 9 0 0 3 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -13
+p730
+aVAmar'e Stoudemire PHX 11/22/2002 PHX @ SAC L 11 0 0 0 - 0 0 - 0 0 - 2 0 2 0 2 1 3 6 -5
+p731
+aVAnfernee Hardaway PHX 11/22/2002 PHX @ SAC L 32 12 4 8 50.0 0 0 - 4 4 100.0 2 3 5 4 2 0 3 2 -15
+p732
+aVTom Gugliotta PHX 11/22/2002 PHX @ SAC L 20 2 1 4 25.0 0 0 - 0 0 - 0 6 6 3 0 0 3 0 -16
+p733
+aVJoe Johnson PHX 11/22/2002 PHX @ SAC L 28 8 3 11 27.3 0 3 0.0 2 3 66.7 1 4 5 5 0 0 2 1 -12
+p734
+aVJake Voskuhl PHX 11/22/2002 PHX @ SAC L 28 8 2 3 66.7 0 0 - 4 4 100.0 4 4 8 1 1 0 1 5 -7
+p735
+aVDan Langhi PHX 11/22/2002 PHX @ SAC L 7 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p736
+aVBo Outlaw PHX 11/22/2002 PHX @ SAC L 18 4 2 2 100.0 0 0 - 0 2 0.0 2 2 4 0 1 1 2 4 4
+p737
+aVStephon Marbury PHX 11/22/2002 PHX @ SAC L 36 39 12 25 48.0 6 8 75.0 9 10 90.0 1 0 1 5 2 0 2 5 -8
+p738
+aVScott Williams PHX 11/19/2002 PHX @ UTA L 9 3 0 0 - 0 0 - 3 4 75.0 0 2 2 0 1 0 1 3 -11
+p739
+aVStephon Marbury PHX 11/19/2002 PHX @ UTA L 32 18 8 19 42.1 0 2 0.0 2 4 50.0 0 0 0 1 0 0 3 0 -22
+p740
+aVJake Tsakalidis PHX 11/19/2002 PHX @ UTA L 23 6 3 6 50.0 0 0 - 0 1 0.0 3 3 6 1 0 0 0 4 -12
+p741
+aVDan Langhi PHX 11/19/2002 PHX @ UTA L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p742
+aVBo Outlaw PHX 11/19/2002 PHX @ UTA L 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 2 0 1 1 -2
+p743
+aVAnfernee Hardaway PHX 11/19/2002 PHX @ UTA L 27 9 3 7 42.9 0 0 - 3 4 75.0 0 2 2 6 2 0 3 3 -15
+p744
+aVTom Gugliotta PHX 11/19/2002 PHX @ UTA L 24 2 1 5 20.0 0 0 - 0 0 - 1 5 6 1 2 0 2 3 -11
+p745
+aVAmar'e Stoudemire PHX 11/19/2002 PHX @ UTA L 24 2 0 8 0.0 0 1 0.0 2 2 100.0 2 4 6 1 2 0 1 5 -9
+p746
+aVJoe Johnson PHX 11/19/2002 PHX @ UTA L 28 13 5 12 41.7 1 4 25.0 2 2 100.0 1 1 2 2 0 0 2 3 -11
+p747
+aVShawn Marion PHX 11/19/2002 PHX @ UTA L 38 13 5 13 38.5 1 3 33.3 2 3 66.7 1 1 2 1 3 5 0 3 -8
+p748
+aVCasey Jacobsen PHX 11/19/2002 PHX @ UTA L 16 6 2 4 50.0 0 2 0.0 2 3 66.7 0 0 0 0 2 0 1 1 -9
+p749
+aVCasey Jacobsen PHX 11/15/2002 PHX vs. HOU W 12 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 -4
+p750
+aVJake Tsakalidis PHX 11/15/2002 PHX vs. HOU W 21 11 4 6 66.7 0 0 - 3 4 75.0 3 2 5 1 0 0 0 0 6
+p751
+aVAmar'e Stoudemire PHX 11/15/2002 PHX vs. HOU W 21 5 1 4 25.0 0 0 - 3 5 60.0 0 1 1 0 0 2 1 4 -10
+p752
+aVAnfernee Hardaway PHX 11/15/2002 PHX vs. HOU W 42 14 7 18 38.9 0 2 0.0 0 0 - 3 5 8 10 1 0 3 1 3
+p753
+aVBo Outlaw PHX 11/15/2002 PHX vs. HOU W 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p754
+aVStephon Marbury PHX 11/15/2002 PHX vs. HOU W 40 20 6 16 37.5 0 4 0.0 8 8 100.0 0 0 0 11 2 1 5 0 4
+p755
+aVScott Williams PHX 11/15/2002 PHX vs. HOU W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 1 0 1 4
+p756
+aVJoe Johnson PHX 11/15/2002 PHX vs. HOU W 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -4
+p757
+aVShawn Marion PHX 11/15/2002 PHX vs. HOU W 41 27 12 22 54.5 0 3 0.0 3 3 100.0 2 5 7 4 2 2 1 2 7
+p758
+aVTom Gugliotta PHX 11/15/2002 PHX vs. HOU W 28 6 3 3 100.0 0 0 - 0 0 - 0 8 8 0 1 0 1 2 -5
+p759
+aVDan Langhi PHX 11/15/2002 PHX vs. HOU W 14 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 6
+p760
+aVJoe Johnson PHX 11/13/2002 PHX @ DEN W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -7
+p761
+aVDan Langhi PHX 11/13/2002 PHX @ DEN W 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p762
+aVCasey Jacobsen PHX 11/13/2002 PHX @ DEN W 11 6 2 4 50.0 1 3 33.3 1 2 50.0 0 0 0 1 1 0 2 1 5
+p763
+aVJake Tsakalidis PHX 11/13/2002 PHX @ DEN W 27 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 6 9
+p764
+aVStephon Marbury PHX 11/13/2002 PHX @ DEN W 39 19 7 15 46.7 1 6 16.7 4 4 100.0 0 2 2 8 1 1 5 4 -1
+p765
+aVTom Gugliotta PHX 11/13/2002 PHX @ DEN W 21 2 1 6 16.7 0 0 - 0 0 - 0 1 1 1 0 0 1 2 0
+p766
+aVScott Williams PHX 11/13/2002 PHX @ DEN W 13 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 2 0 2 -3
+p767
+aVAnfernee Hardaway PHX 11/13/2002 PHX @ DEN W 41 13 4 9 44.4 0 0 - 5 7 71.4 0 6 6 7 3 0 1 4 3
+p768
+aVBo Outlaw PHX 11/13/2002 PHX @ DEN W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p769
+aVShawn Marion PHX 11/13/2002 PHX @ DEN W 40 14 5 18 27.8 0 2 0.0 4 5 80.0 3 6 9 2 1 1 2 0 12
+p770
+aVAmar'e Stoudemire PHX 11/13/2002 PHX @ DEN W 27 12 5 8 62.5 1 1 100.0 1 2 50.0 3 5 8 0 0 6 2 3 3
+p771
+aVAnfernee Hardaway PHX 11/08/2002 PHX vs. POR W 37 10 4 8 50.0 0 1 0.0 2 2 100.0 0 7 7 7 1 2 4 3 18
+p772
+aVShawn Marion PHX 11/08/2002 PHX vs. POR W 35 17 8 19 42.1 1 2 50.0 0 0 - 2 8 10 1 3 1 3 3 24
+p773
+aVTom Gugliotta PHX 11/08/2002 PHX vs. POR W 36 14 7 15 46.7 0 0 - 0 0 - 3 3 6 1 1 1 1 1 14
+p774
+aVJoe Johnson PHX 11/08/2002 PHX vs. POR W 19 11 4 7 57.1 1 3 33.3 2 2 100.0 0 2 2 0 0 0 2 1 -13
+p775
+aVJake Tsakalidis PHX 11/08/2002 PHX vs. POR W 17 5 1 3 33.3 0 0 - 3 4 75.0 2 3 5 1 0 0 0 2 13
+p776
+aVDan Langhi PHX 11/08/2002 PHX vs. POR W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p777
+aVCasey Jacobsen PHX 11/08/2002 PHX vs. POR W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 0
+p778
+aVBo Outlaw PHX 11/08/2002 PHX vs. POR W 15 4 2 4 50.0 0 0 - 0 0 - 5 1 6 1 0 0 0 1 -7
+p779
+aVStephon Marbury PHX 11/08/2002 PHX vs. POR W 42 21 7 16 43.8 2 3 66.7 5 7 71.4 1 3 4 9 1 1 5 2 13
+p780
+aVAmar'e Stoudemire PHX 11/08/2002 PHX vs. POR W 27 4 1 5 20.0 0 0 - 2 3 66.7 4 6 10 0 0 3 1 4 2
+p781
+aVTom Gugliotta PHX 11/06/2002 PHX vs. ATL W 25 8 3 6 50.0 0 0 - 2 2 100.0 1 6 7 3 1 0 2 1 -5
+p782
+aVShawn Marion PHX 11/06/2002 PHX vs. ATL W 43 26 10 21 47.6 0 1 0.0 6 6 100.0 1 8 9 5 3 0 3 1 1
+p783
+aVJake Tsakalidis PHX 11/06/2002 PHX vs. ATL W 9 2 1 6 16.7 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -7
+p784
+aVAmar'e Stoudemire PHX 11/06/2002 PHX vs. ATL W 32 11 5 11 45.5 0 0 - 1 2 50.0 5 4 9 2 2 3 3 0 9
+p785
+aVScott Williams PHX 11/06/2002 PHX vs. ATL W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 1 0 1 4
+p786
+aVDan Langhi PHX 11/06/2002 PHX vs. ATL W 6 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p787
+aVJoe Johnson PHX 11/06/2002 PHX vs. ATL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -5
+p788
+aVCasey Jacobsen PHX 11/06/2002 PHX vs. ATL W 17 11 4 6 66.7 3 5 60.0 0 0 - 1 0 1 1 0 0 0 1 24
+p789
+aVStephon Marbury PHX 11/06/2002 PHX vs. ATL W 31 6 3 11 27.3 0 1 0.0 0 0 - 0 2 2 11 3 0 4 2 -15
+p790
+aVAnfernee Hardaway PHX 11/06/2002 PHX vs. ATL W 40 20 7 13 53.8 3 3 100.0 3 4 75.0 0 7 7 6 1 0 3 3 6
+p791
+aVBo Outlaw PHX 11/06/2002 PHX vs. ATL W 23 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 2 1 4 10
+p792
+aVDan Langhi PHX 11/04/2002 PHX vs. DET L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 15
+p793
+aVJoe Johnson PHX 11/04/2002 PHX vs. DET L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 2 -5
+p794
+aVShawn Marion PHX 11/04/2002 PHX vs. DET L 44 14 5 16 31.3 0 1 0.0 4 4 100.0 1 8 9 1 0 2 3 2 -3
+p795
+aVCasey Jacobsen PHX 11/04/2002 PHX vs. DET L 19 6 2 4 50.0 2 2 100.0 0 0 - 0 2 2 1 0 0 1 3 -4
+p796
+aVAnfernee Hardaway PHX 11/04/2002 PHX vs. DET L 15 7 2 3 66.7 1 1 100.0 2 2 100.0 0 4 4 1 1 0 1 2 5
+p797
+aVScott Williams PHX 11/04/2002 PHX vs. DET L 13 2 0 5 0.0 0 0 - 2 2 100.0 1 1 2 0 0 2 0 4 -9
+p798
+aVAmar'e Stoudemire PHX 11/04/2002 PHX vs. DET L 19 8 3 9 33.3 0 0 - 2 2 100.0 2 7 9 0 0 0 1 0 -9
+p799
+aVBo Outlaw PHX 11/04/2002 PHX vs. DET L 22 10 4 8 50.0 0 0 - 2 3 66.7 2 2 4 1 0 3 0 3 4
+p800
+aVTom Gugliotta PHX 11/04/2002 PHX vs. DET L 31 12 6 10 60.0 0 0 - 0 0 - 6 9 15 1 0 0 3 3 -6
+p801
+aVRandy Brown PHX 11/04/2002 PHX vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p802
+aVJake Tsakalidis PHX 11/04/2002 PHX vs. DET L 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 2 2 3 -2
+p803
+aVStephon Marbury PHX 11/04/2002 PHX vs. DET L 42 15 7 15 46.7 0 1 0.0 1 6 16.7 2 4 6 10 0 0 4 3 13
+p804
+aVJake Tsakalidis PHX 11/02/2002 PHX @ DAL L 20 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 0 0 1 2 2 -12
+p805
+aVBo Outlaw PHX 11/02/2002 PHX @ DAL L 17 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 3 0 2 -9
+p806
+aVDan Langhi PHX 11/02/2002 PHX @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 6
+p807
+aVAnfernee Hardaway PHX 11/02/2002 PHX @ DAL L 20 5 2 8 25.0 0 0 - 1 2 50.0 3 1 4 3 0 0 5 3 -6
+p808
+aVRandy Brown PHX 11/02/2002 PHX @ DAL L 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -2
+p809
+aVTom Gugliotta PHX 11/02/2002 PHX @ DAL L 25 13 6 6 100.0 0 0 - 1 1 100.0 4 4 8 1 0 1 2 1 -18
+p810
+aVAmar'e Stoudemire PHX 11/02/2002 PHX @ DAL L 23 7 3 8 37.5 0 0 - 1 3 33.3 3 5 8 1 0 1 1 3 4
+p811
+aVJoe Johnson PHX 11/02/2002 PHX @ DAL L 30 9 4 8 50.0 1 2 50.0 0 0 - 1 4 5 1 0 0 3 2 -11
+p812
+aVStephon Marbury PHX 11/02/2002 PHX @ DAL L 38 15 5 17 29.4 0 4 0.0 5 6 83.3 2 4 6 10 2 0 5 3 -6
+p813
+aVCasey Jacobsen PHX 11/02/2002 PHX @ DAL L 19 10 3 9 33.3 2 5 40.0 2 2 100.0 1 0 1 1 1 0 1 0 6
+p814
+aVShawn Marion PHX 11/02/2002 PHX @ DAL L 41 13 5 13 38.5 1 3 33.3 2 3 66.7 2 8 10 0 2 1 3 3 -22
+p815
+aVShawn Marion PHX 11/01/2002 PHX vs. CLE W 44 21 8 16 50.0 1 3 33.3 4 4 100.0 4 12 16 0 2 0 2 3 -2
+p816
+aVJake Tsakalidis PHX 11/01/2002 PHX vs. CLE W 24 10 4 10 40.0 0 0 - 2 3 66.7 4 3 7 0 0 2 1 3 -12
+p817
+aVStephon Marbury PHX 11/01/2002 PHX vs. CLE W 45 15 5 17 29.4 0 0 - 5 7 71.4 2 0 2 10 1 0 4 2 4
+p818
+aVAnfernee Hardaway PHX 11/01/2002 PHX vs. CLE W 19 3 1 6 16.7 0 0 - 1 2 50.0 2 4 6 3 0 0 3 3 2
+p819
+aVScott Williams PHX 11/01/2002 PHX vs. CLE W 15 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 0 2 0 3 3 11
+p820
+aVJoe Johnson PHX 11/01/2002 PHX vs. CLE W 24 3 1 10 10.0 0 2 0.0 1 2 50.0 2 0 2 2 1 0 1 2 -1
+p821
+aVAmar'e Stoudemire PHX 11/01/2002 PHX vs. CLE W 29 10 4 15 26.7 0 0 - 2 3 66.7 2 6 8 1 1 1 0 4 7
+p822
+aVTom Gugliotta PHX 11/01/2002 PHX vs. CLE W 18 6 3 7 42.9 0 0 - 0 0 - 0 4 4 2 1 0 2 1 -3
+p823
+aVBo Outlaw PHX 11/01/2002 PHX vs. CLE W 23 4 2 3 66.7 0 0 - 0 0 - 1 3 4 2 0 2 1 1 14
+p824
+aVScott Williams PHX 10/30/2002 PHX @ SEA L 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -7
+p825
+aVJoe Johnson PHX 10/30/2002 PHX @ SEA L 42 12 6 18 33.3 0 3 0.0 0 0 - 2 3 5 3 0 0 3 4 -13
+p826
+aVTom Gugliotta PHX 10/30/2002 PHX @ SEA L 35 4 2 8 25.0 0 1 0.0 0 0 - 1 6 7 2 1 1 2 3 -1
+p827
+aVCasey Jacobsen PHX 10/30/2002 PHX @ SEA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p828
+aVRandy Brown PHX 10/30/2002 PHX @ SEA L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -9
+p829
+aVDan Langhi PHX 10/30/2002 PHX @ SEA L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p830
+aVJake Tsakalidis PHX 10/30/2002 PHX @ SEA L 22 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 0 0 2 1 7
+p831
+aVShawn Marion PHX 10/30/2002 PHX @ SEA L 45 21 10 23 43.5 0 4 0.0 1 1 100.0 4 7 11 1 2 2 6 0 -6
+p832
+aVAmar'e Stoudemire PHX 10/30/2002 PHX @ SEA L 20 10 3 9 33.3 0 0 - 4 4 100.0 2 4 6 1 0 0 2 2 -20
+p833
+aVAnfernee Hardaway PHX 10/30/2002 PHX @ SEA L 39 16 7 15 46.7 0 1 0.0 2 2 100.0 4 6 10 5 0 0 1 5 -7
+p834
+a.

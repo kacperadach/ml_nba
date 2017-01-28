@@ -1,0 +1,140 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEric Bledsoe LAC 05/03/2013 LAC @ MEM L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 2 0
+p2
+aVLamar Odom LAC 05/03/2013 LAC @ MEM L 23 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 2 0 0 2 4 -22
+p3
+aVChauncey Billups LAC 05/03/2013 LAC @ MEM L 18 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 4 -10
+p4
+aVMatt Barnes LAC 05/03/2013 LAC @ MEM L 37 30 11 14 78.6 6 7 85.7 2 3 66.7 1 9 10 0 1 0 1 4 4
+p5
+aVGrant Hill LAC 05/03/2013 LAC @ MEM L 20 4 2 4 50.0 0 0 - 0 0 - 2 2 4 2 0 0 1 5 0
+p6
+aVBlake Griffin LAC 05/03/2013 LAC @ MEM L 14 9 3 5 60.0 0 0 - 3 4 75.0 3 0 3 0 0 0 0 4 5
+p7
+aVCaron Butler LAC 05/03/2013 LAC @ MEM L 33 14 7 16 43.8 0 4 0.0 0 0 - 0 3 3 0 0 0 2 3 -16
+p8
+aVDeAndre Jordan LAC 05/03/2013 LAC @ MEM L 17 5 2 3 66.7 0 0 - 1 4 25.0 1 3 4 0 0 0 3 2 -10
+p9
+aVWillie Green LAC 05/03/2013 LAC @ MEM L 15 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 0 0 -1
+p10
+aVChris Paul LAC 05/03/2013 LAC @ MEM L 41 28 11 16 68.8 0 3 0.0 6 9 66.7 1 3 4 8 1 0 0 2 -10
+p11
+aVJamal Crawford LAC 05/03/2013 LAC @ MEM L 12 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 3 -5
+p12
+aVChris Paul LAC 04/30/2013 LAC vs. MEM L 42 35 11 24 45.8 2 4 50.0 11 11 100.0 1 5 6 4 3 0 1 5 -6
+p13
+aVChauncey Billups LAC 04/30/2013 LAC vs. MEM L 12 3 1 2 50.0 1 1 100.0 0 1 0.0 1 0 1 2 0 0 1 2 -5
+p14
+aVDeAndre Jordan LAC 04/30/2013 LAC vs. MEM L 31 6 3 7 42.9 0 0 - 0 1 0.0 4 4 8 0 0 2 2 3 -4
+p15
+aVBlake Griffin LAC 04/30/2013 LAC vs. MEM L 20 4 2 7 28.6 0 0 - 0 0 - 0 5 5 5 0 0 2 3 -11
+p16
+aVEric Bledsoe LAC 04/30/2013 LAC vs. MEM L 19 7 2 4 50.0 1 3 33.3 2 4 50.0 1 0 1 2 0 1 1 0 -6
+p17
+aVMatt Barnes LAC 04/30/2013 LAC vs. MEM L 31 6 2 5 40.0 0 1 0.0 2 2 100.0 3 6 9 1 1 1 0 5 -1
+p18
+aVLamar Odom LAC 04/30/2013 LAC vs. MEM L 13 5 2 5 40.0 0 3 0.0 1 2 50.0 0 4 4 2 1 1 4 1 1
+p19
+aVRyan Hollins LAC 04/30/2013 LAC vs. MEM L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p20
+aVCaron Butler LAC 04/30/2013 LAC vs. MEM L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 0 1 2 -14
+p21
+aVJamal Crawford LAC 04/30/2013 LAC vs. MEM L 36 15 6 14 42.9 1 3 33.3 2 2 100.0 0 2 2 3 0 0 0 1 -5
+p22
+aVRonny Turiaf LAC 04/30/2013 LAC vs. MEM L 9 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 1 0 0 1 1
+p23
+aVBlake Griffin LAC 04/27/2013 LAC @ MEM L 32 19 7 13 53.8 0 0 - 5 5 100.0 2 8 10 2 0 0 3 3 -20
+p24
+aVJamal Crawford LAC 04/27/2013 LAC @ MEM L 29 12 4 11 36.4 2 6 33.3 2 2 100.0 0 1 1 1 0 1 1 1 -8
+p25
+aVMatt Barnes LAC 04/27/2013 LAC @ MEM L 25 6 3 8 37.5 0 1 0.0 0 0 - 1 1 2 0 1 0 2 5 -5
+p26
+aVDeAndre Jordan LAC 04/27/2013 LAC @ MEM L 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 1 0 3 -11
+p27
+aVWillie Green LAC 04/27/2013 LAC @ MEM L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p28
+aVRyan Hollins LAC 04/27/2013 LAC @ MEM L 8 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 1 0 1 0 3 1
+p29
+aVEric Bledsoe LAC 04/27/2013 LAC @ MEM L 22 9 3 8 37.5 0 3 0.0 3 4 75.0 0 2 2 5 1 1 0 1 -8
+p30
+aVChris Paul LAC 04/27/2013 LAC @ MEM L 36 19 7 13 53.8 1 3 33.3 4 5 80.0 0 2 2 6 1 0 1 1 -21
+p31
+aVLamar Odom LAC 04/27/2013 LAC @ MEM L 21 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 1 3 1 0 4 -7
+p32
+aVCaron Butler LAC 04/27/2013 LAC @ MEM L 15 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 2 -12
+p33
+aVRonny Turiaf LAC 04/27/2013 LAC @ MEM L 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -4
+p34
+aVChauncey Billups LAC 04/27/2013 LAC @ MEM L 18 0 0 6 0.0 0 3 0.0 0 0 - 0 2 2 0 1 0 0 1 -8
+p35
+aVChris Paul LAC 04/25/2013 LAC @ MEM L 35 8 4 11 36.4 0 2 0.0 0 0 - 0 6 6 4 3 0 5 4 -19
+p36
+aVBlake Griffin LAC 04/25/2013 LAC @ MEM L 33 16 5 12 41.7 0 0 - 6 7 85.7 0 2 2 1 0 2 2 5 -17
+p37
+aVLamar Odom LAC 04/25/2013 LAC @ MEM L 14 9 3 4 75.0 3 4 75.0 0 0 - 0 2 2 1 1 1 0 1 5
+p38
+aVCaron Butler LAC 04/25/2013 LAC @ MEM L 24 10 3 6 50.0 2 4 50.0 2 2 100.0 0 2 2 0 0 1 0 2 -11
+p39
+aVJamal Crawford LAC 04/25/2013 LAC @ MEM L 24 10 3 10 30.0 1 2 50.0 3 3 100.0 0 3 3 3 0 0 1 2 -3
+p40
+aVEric Bledsoe LAC 04/25/2013 LAC @ MEM L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 3 1 0 1 3 6
+p41
+aVDeAndre Jordan LAC 04/25/2013 LAC @ MEM L 24 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 0 3 2 3 -13
+p42
+aVMatt Barnes LAC 04/25/2013 LAC @ MEM L 26 12 2 6 33.3 1 5 20.0 7 8 87.5 0 2 2 0 0 0 1 4 -1
+p43
+aVRonny Turiaf LAC 04/25/2013 LAC @ MEM L 14 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 2 1 3 -1
+p44
+aVChauncey Billups LAC 04/25/2013 LAC @ MEM L 23 11 3 8 37.5 2 4 50.0 3 3 100.0 0 2 2 2 0 0 2 2 -8
+p45
+aVRyan Hollins LAC 04/25/2013 LAC @ MEM L 9 0 0 1 0.0 0 0 - 0 0 - 3 1 4 0 0 1 1 0 2
+p46
+aVJamal Crawford LAC 04/22/2013 LAC vs. MEM W 34 15 6 10 60.0 1 3 33.3 2 2 100.0 0 2 2 1 3 0 1 1 13
+p47
+aVChauncey Billups LAC 04/22/2013 LAC vs. MEM W 23 5 2 8 25.0 1 4 25.0 0 0 - 1 3 4 1 0 1 0 0 -11
+p48
+aVRyan Hollins LAC 04/22/2013 LAC vs. MEM W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 5
+p49
+aVCaron Butler LAC 04/22/2013 LAC vs. MEM W 21 9 4 6 66.7 0 1 0.0 1 1 100.0 0 1 1 0 0 0 1 0 -8
+p50
+aVMatt Barnes LAC 04/22/2013 LAC vs. MEM W 20 7 2 5 40.0 0 2 0.0 3 4 75.0 0 3 3 1 0 1 1 3 15
+p51
+aVLamar Odom LAC 04/22/2013 LAC vs. MEM W 18 0 0 2 0.0 0 1 0.0 0 0 - 1 4 5 2 0 1 2 3 -1
+p52
+aVDeAndre Jordan LAC 04/22/2013 LAC vs. MEM W 24 4 2 5 40.0 0 0 - 0 2 0.0 4 4 8 0 1 4 1 3 -4
+p53
+aVChris Paul LAC 04/22/2013 LAC vs. MEM W 36 24 9 17 52.9 0 3 0.0 6 6 100.0 1 3 4 9 1 0 1 4 -4
+p54
+aVEric Bledsoe LAC 04/22/2013 LAC vs. MEM W 14 8 3 6 50.0 0 1 0.0 2 2 100.0 0 4 4 1 0 1 1 3 5
+p55
+aVRonny Turiaf LAC 04/22/2013 LAC vs. MEM W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 4 6
+p56
+aVBlake Griffin LAC 04/22/2013 LAC vs. MEM W 34 21 9 18 50.0 0 0 - 3 5 60.0 2 6 8 4 0 1 4 3 -6
+p57
+aVCaron Butler LAC 04/20/2013 LAC vs. MEM W 24 13 6 9 66.7 1 3 33.3 0 0 - 1 6 7 0 1 1 1 2 13
+p58
+aVWillie Green LAC 04/20/2013 LAC vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p59
+aVMatt Barnes LAC 04/20/2013 LAC vs. MEM W 23 10 4 6 66.7 0 1 0.0 2 2 100.0 2 2 4 1 1 0 0 2 5
+p60
+aVChauncey Billups LAC 04/20/2013 LAC vs. MEM W 21 14 4 8 50.0 2 4 50.0 4 5 80.0 0 2 2 0 0 0 3 1 14
+p61
+aVEric Bledsoe LAC 04/20/2013 LAC vs. MEM W 18 15 7 7 100.0 0 0 - 1 2 50.0 1 5 6 4 0 0 1 1 12
+p62
+aVChris Paul LAC 04/20/2013 LAC vs. MEM W 33 23 7 11 63.6 3 4 75.0 6 6 100.0 0 2 2 7 2 0 1 1 17
+p63
+aVLamar Odom LAC 04/20/2013 LAC vs. MEM W 18 4 1 7 14.3 0 1 0.0 2 4 50.0 3 4 7 3 0 1 2 3 -8
+p64
+aVRonny Turiaf LAC 04/20/2013 LAC vs. MEM W 9 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 3 6
+p65
+aVRyan Hollins LAC 04/20/2013 LAC vs. MEM W 9 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 1 0 0 0 4 11
+p66
+aVDeAndre Jordan LAC 04/20/2013 LAC vs. MEM W 31 3 1 1 100.0 0 0 - 1 2 50.0 3 5 8 0 0 0 1 4 11
+p67
+aVJamal Crawford LAC 04/20/2013 LAC vs. MEM W 27 13 5 12 41.7 1 6 16.7 2 2 100.0 2 0 2 1 0 0 0 1 7
+p68
+aVBlake Griffin LAC 04/20/2013 LAC vs. MEM W 25 10 3 9 33.3 0 0 - 4 5 80.0 1 4 5 3 0 2 2 6 15
+p69
+a.

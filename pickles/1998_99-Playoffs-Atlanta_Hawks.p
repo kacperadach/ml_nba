@@ -1,0 +1,180 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGrant Long ATL 05/24/1999 ATL @ NYK L 45 8 3 10 30.0 0 0 - 2 4 50.0 3 8 11 3 6 0 2 2 -7
+p2
+aVSteven Smith ATL 05/24/1999 ATL @ NYK L 42 14 5 20 25.0 1 3 33.3 3 3 100.0 1 1 2 3 3 0 4 4 -8
+p3
+aVMookie Blaylock ATL 05/24/1999 ATL @ NYK L 39 7 3 15 20.0 1 5 20.0 0 0 - 0 6 6 3 3 0 2 1 -10
+p4
+aVChris Crawford ATL 05/24/1999 ATL @ NYK L 20 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 2 0 0 1 2 -12
+p5
+aVMark West ATL 05/24/1999 ATL @ NYK L 13 6 2 2 100.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 3 -9
+p6
+aVAnthony Johnson ATL 05/24/1999 ATL @ NYK L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -9
+p7
+aVDikembe Mutombo ATL 05/24/1999 ATL @ NYK L 34 11 3 6 50.0 0 0 - 5 6 83.3 4 7 11 1 0 2 4 5 -4
+p8
+aVRoshown McLeod ATL 05/24/1999 ATL @ NYK L 9 10 4 6 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 5
+p9
+aVEd Gray ATL 05/24/1999 ATL @ NYK L 9 6 1 8 12.5 0 1 0.0 4 4 100.0 0 0 0 0 0 0 0 2 -10
+p10
+aVTyrone Corbin ATL 05/24/1999 ATL @ NYK L 13 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 2 -1
+p11
+aVEd Gray ATL 05/23/1999 ATL @ NYK L 21 10 3 11 27.3 0 1 0.0 4 4 100.0 0 5 5 2 2 1 1 1 1
+p12
+aVSteven Smith ATL 05/23/1999 ATL @ NYK L 33 17 7 21 33.3 1 4 25.0 2 2 100.0 4 1 5 2 0 1 3 5 -18
+p13
+aVMookie Blaylock ATL 05/23/1999 ATL @ NYK L 40 11 5 15 33.3 1 4 25.0 0 0 - 0 4 4 3 0 0 3 2 -12
+p14
+aVDikembe Mutombo ATL 05/23/1999 ATL @ NYK L 41 7 2 7 28.6 0 0 - 3 4 75.0 6 10 16 0 0 3 2 4 -15
+p15
+aVMark West ATL 05/23/1999 ATL @ NYK L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p16
+aVTyrone Corbin ATL 05/23/1999 ATL @ NYK L 22 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 1 2 -6
+p17
+aVGrant Long ATL 05/23/1999 ATL @ NYK L 42 17 6 15 40.0 0 1 0.0 5 6 83.3 6 5 11 0 1 0 0 1 -12
+p18
+aVAnthony Johnson ATL 05/23/1999 ATL @ NYK L 8 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 2
+p19
+aVJeff Sheppard ATL 05/23/1999 ATL @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p20
+aVRoshown McLeod ATL 05/23/1999 ATL @ NYK L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p21
+aVChris Crawford ATL 05/23/1999 ATL @ NYK L 19 4 0 9 0.0 0 0 - 4 4 100.0 2 3 5 1 0 1 0 2 -9
+p22
+aVEd Gray ATL 05/20/1999 ATL vs. NYK L 15 13 6 11 54.5 1 1 100.0 0 1 0.0 2 0 2 0 1 0 1 6 -12
+p23
+aVMark West ATL 05/20/1999 ATL vs. NYK L 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -2
+p24
+aVTyrone Corbin ATL 05/20/1999 ATL vs. NYK L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -11
+p25
+aVAnthony Johnson ATL 05/20/1999 ATL vs. NYK L 5 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -2
+p26
+aVChris Crawford ATL 05/20/1999 ATL vs. NYK L 30 10 1 8 12.5 0 4 0.0 8 9 88.9 1 5 6 1 1 0 3 6 4
+p27
+aVMookie Blaylock ATL 05/20/1999 ATL vs. NYK L 41 17 7 20 35.0 1 6 16.7 2 6 33.3 2 6 8 1 2 0 4 2 0
+p28
+aVSteven Smith ATL 05/20/1999 ATL vs. NYK L 37 9 2 16 12.5 0 5 0.0 5 5 100.0 3 1 4 2 4 0 1 2 -1
+p29
+aVDikembe Mutombo ATL 05/20/1999 ATL vs. NYK L 45 8 3 10 30.0 0 0 - 2 2 100.0 6 11 17 1 1 1 0 4 -5
+p30
+aVGrant Long ATL 05/20/1999 ATL vs. NYK L 43 7 3 9 33.3 0 1 0.0 1 2 50.0 4 7 11 1 2 0 6 4 -6
+p31
+aVTyrone Corbin ATL 05/18/1999 ATL vs. NYK L 28 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 2 0 0 0 2 -10
+p32
+aVMookie Blaylock ATL 05/18/1999 ATL vs. NYK L 37 16 6 16 37.5 4 10 40.0 0 0 - 0 2 2 4 4 0 3 2 -12
+p33
+aVGrant Long ATL 05/18/1999 ATL vs. NYK L 37 0 0 6 0.0 0 0 - 0 0 - 2 5 7 1 2 1 1 2 -1
+p34
+aVChris Crawford ATL 05/18/1999 ATL vs. NYK L 33 26 7 14 50.0 3 5 60.0 9 11 81.8 1 1 2 0 0 0 2 6 6
+p35
+aVAnthony Johnson ATL 05/18/1999 ATL vs. NYK L 18 7 2 5 40.0 1 1 100.0 2 2 100.0 1 1 2 1 0 1 0 2 -8
+p36
+aVEd Gray ATL 05/18/1999 ATL vs. NYK L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 8
+p37
+aVSteven Smith ATL 05/18/1999 ATL vs. NYK L 31 25 6 17 35.3 1 3 33.3 12 14 85.7 2 0 2 2 0 0 2 5 -15
+p38
+aVMark West ATL 05/18/1999 ATL vs. NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p39
+aVDikembe Mutombo ATL 05/18/1999 ATL vs. NYK L 45 14 4 8 50.0 0 0 - 6 10 60.0 3 10 13 3 2 2 1 2 -9
+p40
+aVSteven Smith ATL 05/16/1999 ATL vs. DET W 48 15 6 14 42.9 0 3 0.0 3 3 100.0 0 3 3 6 2 0 1 5 12
+p41
+aVGrant Long ATL 05/16/1999 ATL vs. DET W 48 26 7 14 50.0 0 0 - 12 14 85.7 5 6 11 0 2 0 5 2 12
+p42
+aVMark West ATL 05/16/1999 ATL vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p43
+aVMookie Blaylock ATL 05/16/1999 ATL vs. DET W 46 17 6 14 42.9 3 5 60.0 2 4 50.0 1 3 4 6 2 1 5 2 16
+p44
+aVTyrone Corbin ATL 05/16/1999 ATL vs. DET W 39 15 7 14 50.0 1 4 25.0 0 0 - 1 4 5 1 0 0 0 3 0
+p45
+aVDikembe Mutombo ATL 05/16/1999 ATL vs. DET W 45 12 4 6 66.7 0 0 - 4 6 66.7 3 15 18 3 0 1 1 0 12
+p46
+aVAnthony Johnson ATL 05/16/1999 ATL vs. DET W 9 2 1 3 33.3 0 0 - 0 2 0.0 1 0 1 2 0 0 1 1 8
+p47
+aVAnthony Johnson ATL 05/14/1999 ATL @ DET L 24 5 2 7 28.6 0 0 - 1 2 50.0 1 3 4 4 0 0 1 1 -4
+p48
+aVDikembe Mutombo ATL 05/14/1999 ATL @ DET L 35 8 3 4 75.0 0 0 - 2 3 66.7 3 5 8 1 1 1 2 3 -15
+p49
+aVMark West ATL 05/14/1999 ATL @ DET L 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 2 0 3 2 -10
+p50
+aVTyrone Corbin ATL 05/14/1999 ATL @ DET L 30 7 2 8 25.0 2 3 66.7 1 2 50.0 1 4 5 4 0 0 1 2 -24
+p51
+aVGrant Long ATL 05/14/1999 ATL @ DET L 26 13 4 7 57.1 1 2 50.0 4 5 80.0 3 4 7 0 0 0 3 5 -19
+p52
+aVRoshown McLeod ATL 05/14/1999 ATL @ DET L 20 8 4 9 44.4 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -4
+p53
+aVMookie Blaylock ATL 05/14/1999 ATL @ DET L 29 7 2 8 25.0 1 3 33.3 2 3 66.7 1 1 2 1 1 0 5 0 -15
+p54
+aVSteven Smith ATL 05/14/1999 ATL @ DET L 34 21 7 13 53.8 2 5 40.0 5 6 83.3 0 2 2 2 0 0 5 5 -18
+p55
+aVJeff Sheppard ATL 05/14/1999 ATL @ DET L 8 0 0 1 0.0 0 0 - 0 0 - 2 0 2 2 0 0 0 0 4
+p56
+aVEd Gray ATL 05/14/1999 ATL @ DET L 14 13 4 8 50.0 3 6 50.0 2 2 100.0 0 1 1 1 0 0 0 1 0
+p57
+aVTyrone Corbin ATL 05/12/1999 ATL @ DET L 46 16 7 15 46.7 2 6 33.3 0 0 - 1 4 5 3 0 0 2 4 -14
+p58
+aVAnthony Johnson ATL 05/12/1999 ATL @ DET L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -5
+p59
+aVRoshown McLeod ATL 05/12/1999 ATL @ DET L 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 2 8
+p60
+aVMark West ATL 05/12/1999 ATL @ DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 3 -3
+p61
+aVMookie Blaylock ATL 05/12/1999 ATL @ DET L 36 8 3 14 21.4 2 7 28.6 0 0 - 1 3 4 5 1 1 3 2 -17
+p62
+aVEd Gray ATL 05/12/1999 ATL @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 2
+p63
+aVDikembe Mutombo ATL 05/12/1999 ATL @ DET L 44 8 1 4 25.0 0 0 - 6 8 75.0 2 8 10 0 0 6 3 4 -16
+p64
+aVGrant Long ATL 05/12/1999 ATL @ DET L 36 10 4 7 57.1 0 0 - 2 7 28.6 2 1 3 0 1 0 3 2 -21
+p65
+aVSteven Smith ATL 05/12/1999 ATL @ DET L 43 15 7 17 41.2 1 3 33.3 0 0 - 2 3 5 4 1 0 0 3 -14
+p66
+aVGrant Long ATL 05/10/1999 ATL vs. DET W 36 10 4 12 33.3 0 0 - 2 2 100.0 2 3 5 0 1 2 2 5 17
+p67
+aVDikembe Mutombo ATL 05/10/1999 ATL vs. DET W 45 28 13 14 92.9 0 0 - 2 3 66.7 4 9 13 1 0 1 3 3 22
+p68
+aVTyrone Corbin ATL 05/10/1999 ATL vs. DET W 40 10 5 8 62.5 0 2 0.0 0 0 - 3 6 9 1 3 0 1 3 20
+p69
+aVMark West ATL 05/10/1999 ATL vs. DET W 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 1 0 1 3
+p70
+aVMookie Blaylock ATL 05/10/1999 ATL vs. DET W 42 12 5 16 31.3 2 5 40.0 0 0 - 1 3 4 6 3 0 0 0 21
+p71
+aVRoshown McLeod ATL 05/10/1999 ATL vs. DET W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p72
+aVSteven Smith ATL 05/10/1999 ATL vs. DET W 43 21 7 20 35.0 2 5 40.0 5 6 83.3 1 3 4 4 2 0 5 2 18
+p73
+aVChris Crawford ATL 05/10/1999 ATL vs. DET W 3 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 2
+p74
+aVEd Gray ATL 05/10/1999 ATL vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p75
+aVAnthony Johnson ATL 05/10/1999 ATL vs. DET W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -1
+p76
+aVJeff Sheppard ATL 05/10/1999 ATL vs. DET W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p77
+aVAnthony Johnson ATL 05/08/1999 ATL vs. DET W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p78
+aVChris Crawford ATL 05/08/1999 ATL vs. DET W 17 9 4 9 44.4 1 3 33.3 0 0 - 1 0 1 1 0 0 0 3 -3
+p79
+aVAlan Henderson ATL 05/08/1999 ATL vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p80
+aVJeff Sheppard ATL 05/08/1999 ATL vs. DET W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p81
+aVSteven Smith ATL 05/08/1999 ATL vs. DET W 43 19 7 15 46.7 1 2 50.0 4 4 100.0 1 3 4 5 2 1 0 1 19
+p82
+aVEd Gray ATL 05/08/1999 ATL vs. DET W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 0
+p83
+aVMark West ATL 05/08/1999 ATL vs. DET W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 5
+p84
+aVRoshown McLeod ATL 05/08/1999 ATL vs. DET W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p85
+aVDikembe Mutombo ATL 05/08/1999 ATL vs. DET W 41 17 7 12 58.3 0 0 - 3 5 60.0 5 14 19 1 1 6 2 3 15
+p86
+aVTyrone Corbin ATL 05/08/1999 ATL vs. DET W 29 13 6 10 60.0 1 2 50.0 0 0 - 0 2 2 1 2 0 1 0 23
+p87
+aVGrant Long ATL 05/08/1999 ATL vs. DET W 41 14 5 8 62.5 0 0 - 4 4 100.0 1 7 8 3 3 1 1 4 26
+p88
+aVMookie Blaylock ATL 05/08/1999 ATL vs. DET W 40 18 7 17 41.2 3 6 50.0 1 2 50.0 0 2 2 7 2 0 5 0 16
+p89
+a.

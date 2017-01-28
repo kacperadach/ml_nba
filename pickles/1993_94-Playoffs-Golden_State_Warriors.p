@@ -1,0 +1,60 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChris Webber GOS 05/04/1994 GOS vs. PHX L 37 16 7 13 53.8 0 1 0.0 2 4 50.0 4 4 8 13 1 3 2 3 -
+p2
+aVJeff Grayer GOS 05/04/1994 GOS vs. PHX L 22 14 6 11 54.5 0 0 - 2 2 100.0 0 2 2 1 1 1 0 4 -
+p3
+aVChris Mullin GOS 05/04/1994 GOS vs. PHX L 48 30 11 16 68.8 4 6 66.7 4 4 100.0 0 4 4 4 0 3 2 1 -
+p4
+aVBilly Owens GOS 05/04/1994 GOS vs. PHX L 38 18 9 16 56.3 0 1 0.0 0 0 - 2 3 5 6 1 1 4 5 -
+p5
+aVLatrell Sprewell GOS 05/04/1994 GOS vs. PHX L 34 27 10 16 62.5 3 5 60.0 4 6 66.7 1 1 2 4 1 1 3 5 -
+p6
+aVByron Houston GOS 05/04/1994 GOS vs. PHX L 12 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 2 1 0 0 5 -
+p7
+aVAvery Johnson GOS 05/04/1994 GOS vs. PHX L 23 10 5 9 55.6 0 1 0.0 0 0 - 0 1 1 8 2 1 2 0 -
+p8
+aVChris Gatling GOS 05/04/1994 GOS vs. PHX L 19 8 3 7 42.9 0 0 - 2 3 66.7 2 6 8 2 0 1 0 1 -
+p9
+aVKeith Jennings GOS 05/04/1994 GOS vs. PHX L 7 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 4 -
+p10
+aVJosh Grant GOS 05/01/1994 GOS @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p11
+aVChris Mullin GOS 05/01/1994 GOS @ PHX L 44 32 13 21 61.9 2 4 50.0 4 4 100.0 2 5 7 5 0 1 3 2 -
+p12
+aVLatrell Sprewell GOS 05/01/1994 GOS @ PHX L 44 19 9 24 37.5 1 8 12.5 0 0 - 0 5 5 7 1 0 3 5 -
+p13
+aVBilly Owens GOS 05/01/1994 GOS @ PHX L 45 14 3 11 27.3 0 0 - 8 10 80.0 2 6 8 3 2 0 1 1 -
+p14
+aVByron Houston GOS 05/01/1994 GOS @ PHX L 22 8 3 3 100.0 0 0 - 2 2 100.0 1 1 2 1 0 2 0 4 -
+p15
+aVChris Gatling GOS 05/01/1994 GOS @ PHX L 16 8 2 2 100.0 0 0 - 4 4 100.0 3 3 6 1 0 0 0 5 -
+p16
+aVJeff Grayer GOS 05/01/1994 GOS @ PHX L 14 8 4 5 80.0 0 0 - 0 1 0.0 1 2 3 0 0 0 1 1 -
+p17
+aVKeith Jennings GOS 05/01/1994 GOS @ PHX L 16 5 1 5 20.0 0 3 0.0 3 3 100.0 1 0 1 2 1 0 1 3 -
+p18
+aVChris Webber GOS 05/01/1994 GOS @ PHX L 37 17 8 13 61.5 0 1 0.0 1 4 25.0 3 7 10 9 2 2 3 5 -
+p19
+aVAvery Johnson GOS 05/01/1994 GOS @ PHX L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p20
+aVBilly Owens GOS 04/29/1994 GOS @ PHX L 44 27 13 23 56.5 0 0 - 1 2 50.0 8 9 17 4 1 1 2 5 -
+p21
+aVChris Mullin GOS 04/29/1994 GOS @ PHX L 43 14 6 14 42.9 0 2 0.0 2 3 66.7 2 1 3 2 0 1 2 1 -
+p22
+aVAvery Johnson GOS 04/29/1994 GOS @ PHX L 17 8 4 7 57.1 0 0 - 0 0 - 0 2 2 2 1 0 1 1 -
+p23
+aVChris Gatling GOS 04/29/1994 GOS @ PHX L 19 10 3 4 75.0 0 0 - 4 6 66.7 2 1 3 1 2 0 2 4 -
+p24
+aVChris Webber GOS 04/29/1994 GOS @ PHX L 35 14 7 14 50.0 0 0 - 0 2 0.0 6 2 8 5 0 4 4 3 -
+p25
+aVLatrell Sprewell GOS 04/29/1994 GOS @ PHX L 44 22 7 20 35.0 4 10 40.0 4 6 66.7 0 2 2 10 0 2 3 5 -
+p26
+aVJeff Grayer GOS 04/29/1994 GOS @ PHX L 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p27
+aVKeith Jennings GOS 04/29/1994 GOS @ PHX L 16 5 1 4 25.0 0 1 0.0 3 4 75.0 0 3 3 2 0 0 2 4 -
+p28
+aVByron Houston GOS 04/29/1994 GOS @ PHX L 12 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -
+p29
+a.

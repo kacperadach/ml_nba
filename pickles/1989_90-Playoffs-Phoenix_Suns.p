@@ -1,0 +1,324 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKevin Johnson PHX 05/31/1990 PHX vs. POR L 14 16 4 6 66.7 0 0 - 8 9 88.9 0 1 1 6 1 0 4 0 -
+p2
+aVEddie Johnson PHX 05/31/1990 PHX vs. POR L 14 5 1 4 25.0 0 1 0.0 3 4 75.0 0 0 0 0 1 0 2 2 -
+p3
+aVAndrew Lang PHX 05/31/1990 PHX vs. POR L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p4
+aVMark West PHX 05/31/1990 PHX vs. POR L 35 6 3 6 50.0 0 0 - 0 0 - 1 8 9 0 1 3 2 5 -
+p5
+aVKurt Rambis PHX 05/31/1990 PHX vs. POR L 34 2 1 2 50.0 0 1 0.0 0 2 0.0 6 6 12 1 0 2 3 2 -
+p6
+aVTim Perry PHX 05/31/1990 PHX vs. POR L 13 4 2 5 40.0 0 0 - 0 1 0.0 0 2 2 0 0 0 0 2 -
+p7
+aVJeff Hornacek PHX 05/31/1990 PHX vs. POR L 44 36 11 22 50.0 0 2 0.0 14 14 100.0 0 5 5 6 4 0 4 1 -
+p8
+aVMike McGee PHX 05/31/1990 PHX vs. POR L 4 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 2 -
+p9
+aVKenny Battle PHX 05/31/1990 PHX vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p10
+aVTom Chambers PHX 05/31/1990 PHX vs. POR L 36 17 5 16 31.3 0 1 0.0 7 10 70.0 0 5 5 4 0 1 4 4 -
+p11
+aVDan Majerle PHX 05/31/1990 PHX vs. POR L 35 22 8 15 53.3 0 0 - 6 6 100.0 5 5 10 5 2 0 0 3 -
+p12
+aVTom Chambers PHX 05/29/1990 PHX @ POR L 43 22 6 21 28.6 0 2 0.0 10 11 90.9 4 9 13 0 0 0 2 3 -
+p13
+aVKurt Rambis PHX 05/29/1990 PHX @ POR L 21 8 3 4 75.0 0 0 - 2 2 100.0 3 8 11 1 0 0 4 3 -
+p14
+aVAndrew Lang PHX 05/29/1990 PHX @ POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p15
+aVDan Majerle PHX 05/29/1990 PHX @ POR L 29 11 5 12 41.7 0 0 - 1 2 50.0 1 4 5 2 1 0 3 3 -
+p16
+aVKevin Johnson PHX 05/29/1990 PHX @ POR L 44 28 11 21 52.4 1 3 33.3 5 5 100.0 0 2 2 14 3 0 1 2 -
+p17
+aVJeff Hornacek PHX 05/29/1990 PHX @ POR L 41 17 7 14 50.0 0 2 0.0 3 3 100.0 2 2 4 10 3 0 3 6 -
+p18
+aVMike McGee PHX 05/29/1990 PHX @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p19
+aVMark West PHX 05/29/1990 PHX @ POR L 35 18 8 12 66.7 0 0 - 2 5 40.0 2 4 6 1 0 1 1 5 -
+p20
+aVTim Perry PHX 05/29/1990 PHX @ POR L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p21
+aVEddie Johnson PHX 05/29/1990 PHX @ POR L 18 10 4 11 36.4 0 2 0.0 2 4 50.0 0 2 2 0 0 1 1 2 -
+p22
+aVAndrew Lang PHX 05/27/1990 PHX vs. POR W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -
+p23
+aVKevin Johnson PHX 05/27/1990 PHX vs. POR W 35 28 13 19 68.4 0 0 - 2 6 33.3 0 2 2 17 1 0 5 2 -
+p24
+aVDan Majerle PHX 05/27/1990 PHX vs. POR W 33 18 7 15 46.7 0 2 0.0 4 4 100.0 2 8 10 1 0 0 1 1 -
+p25
+aVEddie Johnson PHX 05/27/1990 PHX vs. POR W 12 12 4 8 50.0 0 0 - 4 4 100.0 0 2 2 1 0 0 1 2 -
+p26
+aVMark West PHX 05/27/1990 PHX vs. POR W 36 12 5 11 45.5 0 0 - 2 2 100.0 4 8 12 1 0 2 0 5 -
+p27
+aVJeff Hornacek PHX 05/27/1990 PHX vs. POR W 39 16 7 14 50.0 2 2 100.0 0 0 - 1 5 6 3 0 0 2 2 -
+p28
+aVTim Perry PHX 05/27/1990 PHX vs. POR W 13 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 1 1 2 -
+p29
+aVKurt Rambis PHX 05/27/1990 PHX vs. POR W 22 5 2 5 40.0 0 0 - 1 1 100.0 3 6 9 1 0 0 1 4 -
+p30
+aVTom Chambers PHX 05/27/1990 PHX vs. POR W 38 27 10 17 58.8 0 0 - 7 8 87.5 0 3 3 3 0 0 2 4 -
+p31
+aVTim Perry PHX 05/25/1990 PHX vs. POR W 24 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 0 0 3 2 5 -
+p32
+aVDan Majerle PHX 05/25/1990 PHX vs. POR W 23 2 0 6 0.0 0 1 0.0 2 2 100.0 0 3 3 4 1 0 1 1 -
+p33
+aVKurt Rambis PHX 05/25/1990 PHX vs. POR W 21 14 6 6 100.0 0 0 - 2 3 66.7 0 9 9 5 0 2 0 4 -
+p34
+aVKevin Johnson PHX 05/25/1990 PHX vs. POR W 24 17 6 7 85.7 0 0 - 5 5 100.0 0 1 1 12 1 0 5 2 -
+p35
+aVMark West PHX 05/25/1990 PHX vs. POR W 16 9 4 6 66.7 0 0 - 1 3 33.3 0 5 5 0 0 0 2 4 -
+p36
+aVAndrew Lang PHX 05/25/1990 PHX vs. POR W 32 8 3 4 75.0 0 0 - 2 5 40.0 3 7 10 2 1 5 2 5 -
+p37
+aVTom Chambers PHX 05/25/1990 PHX vs. POR W 26 24 11 13 84.6 0 0 - 2 3 66.7 2 4 6 2 0 1 2 1 -
+p38
+aVGreg Grant PHX 05/25/1990 PHX vs. POR W 14 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 3 1 0 2 0 -
+p39
+aVMike McGee PHX 05/25/1990 PHX vs. POR W 9 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p40
+aVEddie Johnson PHX 05/25/1990 PHX vs. POR W 16 10 2 5 40.0 0 1 0.0 6 7 85.7 0 2 2 2 0 0 2 1 -
+p41
+aVJeff Hornacek PHX 05/25/1990 PHX vs. POR W 26 17 8 10 80.0 1 1 100.0 0 0 - 1 4 5 8 2 0 1 2 -
+p42
+aVKenny Battle PHX 05/25/1990 PHX vs. POR W 9 5 2 7 28.6 0 0 - 1 1 100.0 1 0 1 0 0 0 2 1 -
+p43
+aVKevin Johnson PHX 05/23/1990 PHX @ POR L 44 22 7 18 38.9 0 0 - 8 9 88.9 0 3 3 8 0 0 5 4 -
+p44
+aVDan Majerle PHX 05/23/1990 PHX @ POR L 40 22 10 13 76.9 2 2 100.0 0 2 0.0 4 2 6 0 2 0 1 1 -
+p45
+aVMark West PHX 05/23/1990 PHX @ POR L 22 2 1 3 33.3 0 0 - 0 2 0.0 2 2 4 0 0 1 3 5 -
+p46
+aVTom Chambers PHX 05/23/1990 PHX @ POR L 42 28 8 16 50.0 0 1 0.0 12 13 92.3 2 12 14 2 1 2 8 4 -
+p47
+aVJeff Hornacek PHX 05/23/1990 PHX @ POR L 40 13 5 16 31.3 1 2 50.0 2 3 66.7 2 5 7 6 2 0 3 2 -
+p48
+aVKenny Battle PHX 05/23/1990 PHX @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p49
+aVEddie Johnson PHX 05/23/1990 PHX @ POR L 16 13 6 14 42.9 1 4 25.0 0 0 - 1 2 3 0 1 0 1 5 -
+p50
+aVGreg Grant PHX 05/23/1990 PHX @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p51
+aVAndrew Lang PHX 05/23/1990 PHX @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p52
+aVKurt Rambis PHX 05/23/1990 PHX @ POR L 28 7 1 3 33.3 0 0 - 5 6 83.3 3 5 8 0 1 1 0 4 -
+p53
+aVTim Perry PHX 05/23/1990 PHX @ POR L 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 2 -
+p54
+aVKevin Johnson PHX 05/21/1990 PHX @ POR L 40 20 8 20 40.0 0 0 - 4 4 100.0 1 1 2 11 1 0 2 1 -
+p55
+aVMark West PHX 05/21/1990 PHX @ POR L 37 10 4 9 44.4 0 0 - 2 4 50.0 3 9 12 1 0 1 1 3 -
+p56
+aVMike McGee PHX 05/21/1990 PHX @ POR L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p57
+aVJeff Hornacek PHX 05/21/1990 PHX @ POR L 41 14 7 13 53.8 0 1 0.0 0 1 0.0 1 4 5 4 2 0 0 4 -
+p58
+aVTom Chambers PHX 05/21/1990 PHX @ POR L 41 29 10 24 41.7 2 3 66.7 7 7 100.0 2 5 7 2 0 0 4 0 -
+p59
+aVDan Majerle PHX 05/21/1990 PHX @ POR L 29 11 5 8 62.5 0 0 - 1 2 50.0 2 5 7 1 1 0 2 0 -
+p60
+aVAndrew Lang PHX 05/21/1990 PHX @ POR L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -
+p61
+aVEddie Johnson PHX 05/21/1990 PHX @ POR L 16 7 3 11 27.3 0 3 0.0 1 2 50.0 0 1 1 0 0 0 2 4 -
+p62
+aVKenny Battle PHX 05/21/1990 PHX @ POR L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p63
+aVKurt Rambis PHX 05/21/1990 PHX @ POR L 21 5 0 2 0.0 0 0 - 5 6 83.3 3 6 9 0 1 0 1 1 -
+p64
+aVTim Perry PHX 05/15/1990 PHX @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p65
+aVDan Majerle PHX 05/15/1990 PHX @ LAL W 32 16 6 10 60.0 1 1 100.0 3 4 75.0 4 1 5 3 2 0 2 4 -
+p66
+aVJeff Hornacek PHX 05/15/1990 PHX @ LAL W 38 22 7 14 50.0 0 1 0.0 8 8 100.0 1 3 4 4 1 0 4 3 -
+p67
+aVMark West PHX 05/15/1990 PHX @ LAL W 42 10 4 9 44.4 0 0 - 2 6 33.3 4 12 16 0 1 0 2 4 -
+p68
+aVEddie Johnson PHX 05/15/1990 PHX @ LAL W 25 8 3 11 27.3 0 1 0.0 2 2 100.0 1 3 4 2 0 0 0 4 -
+p69
+aVTom Chambers PHX 05/15/1990 PHX @ LAL W 39 12 4 18 22.2 1 2 50.0 3 4 75.0 2 7 9 0 1 1 1 4 -
+p70
+aVKevin Johnson PHX 05/15/1990 PHX @ LAL W 42 37 14 23 60.9 0 0 - 9 10 90.0 1 2 3 8 2 0 4 1 -
+p71
+aVKurt Rambis PHX 05/15/1990 PHX @ LAL W 21 1 0 4 0.0 0 0 - 1 2 50.0 3 2 5 0 1 0 2 2 -
+p72
+aVJeff Hornacek PHX 05/13/1990 PHX vs. LAL W 36 23 6 13 46.2 1 1 100.0 10 11 90.9 0 2 2 1 1 0 1 2 -
+p73
+aVMike McGee PHX 05/13/1990 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p74
+aVTom Chambers PHX 05/13/1990 PHX vs. LAL W 41 27 10 21 47.6 0 0 - 7 8 87.5 2 5 7 2 1 0 2 4 -
+p75
+aVMark West PHX 05/13/1990 PHX vs. LAL W 38 15 7 7 100.0 0 0 - 1 3 33.3 4 11 15 0 0 6 2 6 -
+p76
+aVGreg Grant PHX 05/13/1990 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p77
+aVAndrew Lang PHX 05/13/1990 PHX vs. LAL W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p78
+aVEddie Johnson PHX 05/13/1990 PHX vs. LAL W 17 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 0 1 0 2 3 -
+p79
+aVTim Perry PHX 05/13/1990 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p80
+aVKevin Johnson PHX 05/13/1990 PHX vs. LAL W 47 30 8 18 44.4 0 0 - 14 14 100.0 1 3 4 16 4 0 5 2 -
+p81
+aVDan Majerle PHX 05/13/1990 PHX vs. LAL W 30 10 2 11 18.2 0 1 0.0 6 8 75.0 3 3 6 1 1 0 1 2 -
+p82
+aVKurt Rambis PHX 05/13/1990 PHX vs. LAL W 24 4 2 5 40.0 0 0 - 0 2 0.0 5 4 9 2 0 0 1 4 -
+p83
+aVKevin Johnson PHX 05/12/1990 PHX vs. LAL W 42 22 8 19 42.1 0 2 0.0 6 7 85.7 1 6 7 8 2 0 2 2 -
+p84
+aVEddie Johnson PHX 05/12/1990 PHX vs. LAL W 20 8 3 5 60.0 0 2 0.0 2 3 66.7 0 1 1 1 1 0 1 1 -
+p85
+aVDan Majerle PHX 05/12/1990 PHX vs. LAL W 28 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 3 0 0 1 4 -
+p86
+aVKenny Battle PHX 05/12/1990 PHX vs. LAL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p87
+aVGreg Grant PHX 05/12/1990 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p88
+aVMike McGee PHX 05/12/1990 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p89
+aVKurt Rambis PHX 05/12/1990 PHX vs. LAL W 31 2 1 2 50.0 0 0 - 0 0 - 1 4 5 3 1 0 0 5 -
+p90
+aVJeff Hornacek PHX 05/12/1990 PHX vs. LAL W 31 29 10 16 62.5 1 2 50.0 8 8 100.0 1 3 4 4 3 0 2 2 -
+p91
+aVMark West PHX 05/12/1990 PHX vs. LAL W 41 14 6 7 85.7 0 0 - 2 3 66.7 0 4 4 0 1 3 1 6 -
+p92
+aVTom Chambers PHX 05/12/1990 PHX vs. LAL W 44 34 14 23 60.9 1 4 25.0 5 7 71.4 2 5 7 3 1 0 3 4 -
+p93
+aVKevin Johnson PHX 05/10/1990 PHX @ LAL L 31 12 4 12 33.3 0 0 - 4 6 66.7 2 3 5 12 4 0 3 1 -
+p94
+aVDan Majerle PHX 05/10/1990 PHX @ LAL L 19 9 3 10 30.0 0 0 - 3 4 75.0 0 0 0 3 0 0 0 0 -
+p95
+aVTom Chambers PHX 05/10/1990 PHX @ LAL L 28 9 4 11 36.4 0 0 - 1 2 50.0 0 1 1 2 0 0 1 4 -
+p96
+aVTim Perry PHX 05/10/1990 PHX @ LAL L 25 17 6 7 85.7 0 0 - 5 9 55.6 2 3 5 0 0 1 1 5 -
+p97
+aVKenny Battle PHX 05/10/1990 PHX @ LAL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p98
+aVMike McGee PHX 05/10/1990 PHX @ LAL L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 1 2 1 -
+p99
+aVGreg Grant PHX 05/10/1990 PHX @ LAL L 8 9 4 7 57.1 1 1 100.0 0 0 - 2 1 3 1 0 0 1 1 -
+p100
+aVEddie Johnson PHX 05/10/1990 PHX @ LAL L 26 11 4 8 50.0 1 2 50.0 2 2 100.0 1 4 5 1 1 2 2 2 -
+p101
+aVMark West PHX 05/10/1990 PHX @ LAL L 26 9 4 5 80.0 0 0 - 1 2 50.0 2 3 5 0 0 1 2 4 -
+p102
+aVAndrew Lang PHX 05/10/1990 PHX @ LAL L 9 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -
+p103
+aVKurt Rambis PHX 05/10/1990 PHX @ LAL L 21 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 0 2 2 -
+p104
+aVJeff Hornacek PHX 05/10/1990 PHX @ LAL L 30 18 9 14 64.3 0 0 - 0 0 - 0 3 3 5 2 0 2 2 -
+p105
+aVAndrew Lang PHX 05/08/1990 PHX @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p106
+aVMark West PHX 05/08/1990 PHX @ LAL W 47 24 10 17 58.8 0 0 - 4 7 57.1 10 6 16 0 0 7 1 2 -
+p107
+aVKurt Rambis PHX 05/08/1990 PHX @ LAL W 27 6 3 6 50.0 0 0 - 0 0 - 3 5 8 5 1 0 1 2 -
+p108
+aVTom Chambers PHX 05/08/1990 PHX @ LAL W 44 26 10 26 38.5 0 2 0.0 6 6 100.0 0 6 6 3 0 0 1 4 -
+p109
+aVDan Majerle PHX 05/08/1990 PHX @ LAL W 25 16 7 9 77.8 1 1 100.0 1 2 50.0 0 4 4 1 2 0 1 3 -
+p110
+aVJeff Hornacek PHX 05/08/1990 PHX @ LAL W 26 12 4 12 33.3 0 2 0.0 4 4 100.0 0 2 2 5 2 0 3 5 -
+p111
+aVEddie Johnson PHX 05/08/1990 PHX @ LAL W 25 11 4 12 33.3 1 3 33.3 2 2 100.0 3 2 5 2 0 1 2 0 -
+p112
+aVKevin Johnson PHX 05/08/1990 PHX @ LAL W 45 9 3 7 42.9 0 0 - 3 6 50.0 0 9 9 12 2 0 4 2 -
+p113
+aVTim Perry PHX 05/06/1990 PHX @ UTH W 7 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 1 1 0 0 -
+p114
+aVJeff Hornacek PHX 05/06/1990 PHX @ UTH W 40 10 3 9 33.3 0 0 - 4 5 80.0 0 4 4 3 0 0 4 1 -
+p115
+aVTom Chambers PHX 05/06/1990 PHX @ UTH W 41 32 8 15 53.3 0 1 0.0 16 16 100.0 0 6 6 0 0 0 2 4 -
+p116
+aVDan Majerle PHX 05/06/1990 PHX @ UTH W 25 4 2 4 50.0 0 0 - 0 0 - 0 5 5 1 1 1 2 5 -
+p117
+aVAndrew Lang PHX 05/06/1990 PHX @ UTH W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 1 1 -
+p118
+aVKevin Johnson PHX 05/06/1990 PHX @ UTH W 43 26 11 22 50.0 0 0 - 4 7 57.1 0 1 1 9 0 0 1 1 -
+p119
+aVMike McGee PHX 05/06/1990 PHX @ UTH W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p120
+aVKurt Rambis PHX 05/06/1990 PHX @ UTH W 18 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -
+p121
+aVEddie Johnson PHX 05/06/1990 PHX @ UTH W 26 23 9 14 64.3 2 3 66.7 3 3 100.0 0 4 4 2 1 0 1 5 -
+p122
+aVMark West PHX 05/06/1990 PHX @ UTH W 32 6 2 5 40.0 0 0 - 2 2 100.0 1 10 11 0 0 5 2 4 -
+p123
+aVDan Majerle PHX 05/04/1990 PHX vs. UTH L 27 3 1 3 33.3 0 0 - 1 1 100.0 0 2 2 2 1 0 0 0 -
+p124
+aVJeff Hornacek PHX 05/04/1990 PHX vs. UTH L 37 16 6 14 42.9 0 4 0.0 4 4 100.0 1 2 3 3 0 0 0 3 -
+p125
+aVKevin Johnson PHX 05/04/1990 PHX vs. UTH L 40 22 9 23 39.1 1 3 33.3 3 4 75.0 0 4 4 13 1 0 5 1 -
+p126
+aVMark West PHX 05/04/1990 PHX vs. UTH L 38 6 2 6 33.3 0 0 - 2 3 66.7 5 6 11 0 0 5 1 6 -
+p127
+aVEddie Johnson PHX 05/04/1990 PHX vs. UTH L 32 33 11 17 64.7 6 7 85.7 5 7 71.4 0 6 6 1 0 0 1 5 -
+p128
+aVTom Chambers PHX 05/04/1990 PHX vs. UTH L 41 14 4 14 28.6 0 1 0.0 6 8 75.0 2 6 8 2 0 0 9 4 -
+p129
+aVKurt Rambis PHX 05/04/1990 PHX vs. UTH L 25 0 0 1 0.0 0 0 - 0 0 - 2 4 6 1 1 2 0 4 -
+p130
+aVMark West PHX 05/02/1990 PHX vs. UTH W 38 18 6 10 60.0 0 0 - 6 8 75.0 6 4 10 0 0 2 1 5 -
+p131
+aVJeff Hornacek PHX 05/02/1990 PHX vs. UTH W 41 19 7 14 50.0 0 2 0.0 5 6 83.3 1 1 2 5 1 0 1 3 -
+p132
+aVTom Chambers PHX 05/02/1990 PHX vs. UTH W 32 23 6 12 50.0 0 1 0.0 11 12 91.7 1 3 4 1 1 1 2 4 -
+p133
+aVKenny Battle PHX 05/02/1990 PHX vs. UTH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p134
+aVKevin Johnson PHX 05/02/1990 PHX vs. UTH W 43 29 10 27 37.0 0 2 0.0 9 11 81.8 3 1 4 12 3 0 6 2 -
+p135
+aVEddie Johnson PHX 05/02/1990 PHX vs. UTH W 26 13 6 13 46.2 0 1 0.0 1 1 100.0 5 4 9 1 1 0 1 1 -
+p136
+aVDan Majerle PHX 05/02/1990 PHX vs. UTH W 34 14 3 7 42.9 0 0 - 8 10 80.0 3 3 6 2 3 0 1 3 -
+p137
+aVKurt Rambis PHX 05/02/1990 PHX vs. UTH W 19 2 0 2 0.0 0 0 - 2 2 100.0 1 7 8 0 1 0 0 5 -
+p138
+aVTim Perry PHX 05/02/1990 PHX vs. UTH W 5 2 1 4 25.0 0 0 - 0 0 - 4 0 4 0 1 0 1 2 -
+p139
+aVKurt Rambis PHX 04/29/1990 PHX @ UTH W 20 3 1 4 25.0 0 0 - 1 2 50.0 2 4 6 1 0 0 0 5 -
+p140
+aVEddie Johnson PHX 04/29/1990 PHX @ UTH W 18 16 7 11 63.6 2 3 66.7 0 0 - 0 2 2 1 2 0 0 1 -
+p141
+aVMark West PHX 04/29/1990 PHX @ UTH W 38 14 7 10 70.0 0 0 - 0 0 - 6 15 21 1 0 3 4 5 -
+p142
+aVKevin Johnson PHX 04/29/1990 PHX @ UTH W 39 22 7 14 50.0 0 1 0.0 8 9 88.9 0 4 4 7 0 0 7 4 -
+p143
+aVGreg Grant PHX 04/29/1990 PHX @ UTH W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p144
+aVMike McGee PHX 04/29/1990 PHX @ UTH W 2 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p145
+aVDan Majerle PHX 04/29/1990 PHX @ UTH W 37 14 5 11 45.5 0 3 0.0 4 4 100.0 2 4 6 5 2 0 0 3 -
+p146
+aVKenny Battle PHX 04/29/1990 PHX @ UTH W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p147
+aVTim Perry PHX 04/29/1990 PHX @ UTH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p148
+aVJeff Hornacek PHX 04/29/1990 PHX @ UTH W 35 16 7 12 58.3 0 1 0.0 2 2 100.0 1 4 5 0 0 0 1 4 -
+p149
+aVTom Chambers PHX 04/29/1990 PHX @ UTH W 38 12 2 12 16.7 0 0 - 8 8 100.0 1 4 5 2 2 1 1 3 -
+p150
+aVAndrew Lang PHX 04/29/1990 PHX @ UTH W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p151
+aVAndrew Lang PHX 04/27/1990 PHX @ UTH L 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -
+p152
+aVEddie Johnson PHX 04/27/1990 PHX @ UTH L 30 11 3 11 27.3 2 5 40.0 3 4 75.0 2 5 7 3 1 0 1 2 -
+p153
+aVKurt Rambis PHX 04/27/1990 PHX @ UTH L 32 6 3 4 75.0 0 0 - 0 0 - 1 8 9 2 1 0 1 2 -
+p154
+aVDan Majerle PHX 04/27/1990 PHX @ UTH L 33 23 7 14 50.0 0 1 0.0 9 12 75.0 3 2 5 0 1 1 2 1 -
+p155
+aVMike McGee PHX 04/27/1990 PHX @ UTH L 12 9 3 6 50.0 3 5 60.0 0 2 0.0 0 1 1 0 0 0 0 0 -
+p156
+aVMark West PHX 04/27/1990 PHX @ UTH L 23 4 2 7 28.6 0 0 - 0 0 - 3 4 7 1 1 1 1 4 -
+p157
+aVTom Chambers PHX 04/27/1990 PHX @ UTH L 38 19 5 16 31.3 1 1 100.0 8 9 88.9 0 6 6 3 0 0 5 3 -
+p158
+aVKevin Johnson PHX 04/27/1990 PHX @ UTH L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 5 0 0 3 1 -
+p159
+aVJeff Hornacek PHX 04/27/1990 PHX @ UTH L 38 20 8 12 66.7 0 1 0.0 4 4 100.0 1 0 1 6 1 0 3 1 -
+p160
+aVGreg Grant PHX 04/27/1990 PHX @ UTH L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 3 1 0 2 1 -
+p161
+a.

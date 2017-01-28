@@ -1,0 +1,1832 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGerald Wallace BKN 04/17/2013 BKN vs. DET W 27 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 3 4 1 1 1 16
+p2
+aVKeith Bogans BKN 04/17/2013 BKN vs. DET W 16 3 1 4 25.0 0 3 0.0 1 3 33.3 0 0 0 1 1 0 0 1 -1
+p3
+aVBrook Lopez BKN 04/17/2013 BKN vs. DET W 21 20 7 15 46.7 0 0 - 6 6 100.0 5 4 9 1 1 0 1 1 18
+p4
+aVMirza Teletovic BKN 04/17/2013 BKN vs. DET W 11 8 3 7 42.9 2 5 40.0 0 0 - 0 0 0 0 0 1 1 1 -13
+p5
+aVMarShon Brooks BKN 04/17/2013 BKN vs. DET W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 3 0 0 0 3 -13
+p6
+aVJerry Stackhouse BKN 04/17/2013 BKN vs. DET W 14 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 2 0 0 2 2 -1
+p7
+aVAndray Blatche BKN 04/17/2013 BKN vs. DET W 21 15 6 9 66.7 1 1 100.0 2 2 100.0 0 2 2 3 3 0 3 3 -12
+p8
+aVKris Humphries BKN 04/17/2013 BKN vs. DET W 24 11 5 6 83.3 0 0 - 1 2 50.0 2 5 7 2 1 1 4 4 -12
+p9
+aVDeron Williams BKN 04/17/2013 BKN vs. DET W 21 8 2 5 40.0 1 3 33.3 3 3 100.0 0 1 1 6 1 0 2 0 18
+p10
+aVTyshawn Taylor BKN 04/17/2013 BKN vs. DET W 12 2 1 5 20.0 0 0 - 0 0 - 0 0 0 3 0 0 3 3 -13
+p11
+aVJoe Johnson BKN 04/17/2013 BKN vs. DET W 21 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 2 0 0 0 0 18
+p12
+aVReggie Evans BKN 04/17/2013 BKN vs. DET W 24 7 3 6 50.0 0 0 - 1 3 33.3 3 8 11 0 1 0 3 2 16
+p13
+aVCJ Watson BKN 04/17/2013 BKN vs. DET W 15 6 2 4 50.0 0 2 0.0 2 2 100.0 1 1 2 2 1 0 3 3 -1
+p14
+aVCJ Watson BKN 04/15/2013 BKN vs. WAS W 24 11 4 6 66.7 2 2 100.0 1 3 33.3 1 1 2 2 1 0 2 3 -4
+p15
+aVTyshawn Taylor BKN 04/15/2013 BKN vs. WAS W 24 14 5 8 62.5 3 3 100.0 1 2 50.0 0 0 0 3 2 0 4 3 9
+p16
+aVGerald Wallace BKN 04/15/2013 BKN vs. WAS W 22 2 1 3 33.3 0 1 0.0 0 3 0.0 0 0 0 2 1 0 1 1 -13
+p17
+aVAndray Blatche BKN 04/15/2013 BKN vs. WAS W 38 20 9 21 42.9 0 2 0.0 2 7 28.6 4 8 12 2 1 0 2 2 4
+p18
+aVMirza Teletovic BKN 04/15/2013 BKN vs. WAS W 24 14 5 10 50.0 2 5 40.0 2 3 66.7 1 4 5 0 2 1 2 2 15
+p19
+aVMarShon Brooks BKN 04/15/2013 BKN vs. WAS W 29 12 6 13 46.2 0 1 0.0 0 0 - 3 1 4 1 1 0 2 1 -8
+p20
+aVKris Joseph BKN 04/15/2013 BKN vs. WAS W 20 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 0 3 0 0 1 12
+p21
+aVTornike Shengelia BKN 04/15/2013 BKN vs. WAS W 25 11 5 13 38.5 0 0 - 1 3 33.3 5 6 11 0 1 1 0 2 19
+p22
+aVKris Humphries BKN 04/15/2013 BKN vs. WAS W 34 20 8 17 47.1 0 0 - 4 4 100.0 6 3 9 2 1 0 1 3 -9
+p23
+aVAndray Blatche BKN 04/14/2013 BKN @ TOR L 26 15 6 9 66.7 0 0 - 3 6 50.0 2 6 8 0 0 2 1 0 10
+p24
+aVDeron Williams BKN 04/14/2013 BKN @ TOR L 39 30 11 20 55.0 4 10 40.0 4 5 80.0 0 0 0 7 2 1 3 3 2
+p25
+aVReggie Evans BKN 04/14/2013 BKN @ TOR L 30 0 0 0 - 0 0 - 0 0 - 3 13 16 1 3 0 1 1 -5
+p26
+aVJerry Stackhouse BKN 04/14/2013 BKN @ TOR L 20 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -1
+p27
+aVJoe Johnson BKN 04/14/2013 BKN @ TOR L 35 12 4 16 25.0 2 9 22.2 2 2 100.0 0 1 1 5 1 0 0 3 -7
+p28
+aVCJ Watson BKN 04/14/2013 BKN @ TOR L 22 2 1 5 20.0 0 3 0.0 0 0 - 1 2 3 4 2 1 0 3 2
+p29
+aVMarShon Brooks BKN 04/14/2013 BKN @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -9
+p30
+aVKeith Bogans BKN 04/14/2013 BKN @ TOR L 25 6 2 7 28.6 2 7 28.6 0 0 - 1 0 1 2 0 0 1 2 -9
+p31
+aVBrook Lopez BKN 04/14/2013 BKN @ TOR L 27 16 7 19 36.8 0 0 - 2 6 33.3 3 2 5 2 0 1 1 4 -11
+p32
+aVKris Humphries BKN 04/14/2013 BKN @ TOR L 12 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -2
+p33
+aVAndray Blatche BKN 04/12/2013 BKN @ IND W 20 6 3 6 50.0 0 0 - 0 0 - 3 3 6 0 1 0 0 2 0
+p34
+aVJoe Johnson BKN 04/12/2013 BKN @ IND W 39 24 9 17 52.9 4 8 50.0 2 2 100.0 2 4 6 4 3 0 3 1 10
+p35
+aVKeith Bogans BKN 04/12/2013 BKN @ IND W 24 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 3 0 0 1 3 16
+p36
+aVDeron Williams BKN 04/12/2013 BKN @ IND W 42 33 10 23 43.5 5 10 50.0 8 10 80.0 1 1 2 14 1 1 5 3 10
+p37
+aVReggie Evans BKN 04/12/2013 BKN @ IND W 24 3 1 3 33.3 0 0 - 1 2 50.0 2 10 12 0 1 0 1 4 16
+p38
+aVKris Humphries BKN 04/12/2013 BKN @ IND W 15 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 5 -14
+p39
+aVJerry Stackhouse BKN 04/12/2013 BKN @ IND W 24 13 4 6 66.7 1 1 100.0 4 4 100.0 0 1 1 2 0 0 0 0 -9
+p40
+aVCJ Watson BKN 04/12/2013 BKN @ IND W 15 10 4 6 66.7 2 3 66.7 0 0 - 0 0 0 1 2 0 0 1 -4
+p41
+aVBrook Lopez BKN 04/12/2013 BKN @ IND W 36 24 10 16 62.5 0 0 - 4 6 66.7 2 4 6 0 0 5 4 5 15
+p42
+aVTyshawn Taylor BKN 04/10/2013 BKN @ BOS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p43
+aVKris Joseph BKN 04/10/2013 BKN @ BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p44
+aVBrook Lopez BKN 04/10/2013 BKN @ BOS W 30 21 8 14 57.1 0 0 - 5 5 100.0 2 2 4 0 0 2 2 3 27
+p45
+aVKris Humphries BKN 04/10/2013 BKN @ BOS W 15 6 1 2 50.0 0 0 - 4 4 100.0 2 2 4 0 1 0 1 1 1
+p46
+aVMirza Teletovic BKN 04/10/2013 BKN @ BOS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p47
+aVAndray Blatche BKN 04/10/2013 BKN @ BOS W 17 6 2 7 28.6 0 0 - 2 2 100.0 2 0 2 0 2 0 1 3 -17
+p48
+aVDeron Williams BKN 04/10/2013 BKN @ BOS W 39 29 9 18 50.0 1 6 16.7 10 10 100.0 2 2 4 12 0 1 1 3 13
+p49
+aVReggie Evans BKN 04/10/2013 BKN @ BOS W 31 1 0 0 - 0 0 - 1 4 25.0 0 14 14 0 1 0 0 3 14
+p50
+aVGerald Wallace BKN 04/10/2013 BKN @ BOS W 15 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 2 0 0 2 0 4
+p51
+aVJoe Johnson BKN 04/10/2013 BKN @ BOS W 36 20 8 15 53.3 4 6 66.7 0 0 - 0 3 3 2 2 0 1 3 23
+p52
+aVMarShon Brooks BKN 04/10/2013 BKN @ BOS W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -17
+p53
+aVCJ Watson BKN 04/10/2013 BKN @ BOS W 21 9 3 4 75.0 3 3 100.0 0 0 - 0 1 1 0 1 0 1 3 -5
+p54
+aVJerry Stackhouse BKN 04/10/2013 BKN @ BOS W 22 7 2 7 28.6 0 1 0.0 3 3 100.0 0 4 4 3 0 0 1 0 24
+p55
+aVKris Joseph BKN 04/09/2013 BKN vs. PHI W 5 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -5
+p56
+aVJerry Stackhouse BKN 04/09/2013 BKN vs. PHI W 15 3 1 6 16.7 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -2
+p57
+aVBrook Lopez BKN 04/09/2013 BKN vs. PHI W 26 29 13 22 59.1 0 0 - 3 4 75.0 6 5 11 3 0 3 2 1 30
+p58
+aVMirza Teletovic BKN 04/09/2013 BKN vs. PHI W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -5
+p59
+aVReggie Evans BKN 04/09/2013 BKN vs. PHI W 30 17 6 10 60.0 0 0 - 5 10 50.0 9 15 24 2 3 0 1 2 29
+p60
+aVDeron Williams BKN 04/09/2013 BKN vs. PHI W 27 11 5 10 50.0 1 3 33.3 0 0 - 0 2 2 4 0 0 0 2 24
+p61
+aVTyshawn Taylor BKN 04/09/2013 BKN vs. PHI W 5 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -5
+p62
+aVCJ Watson BKN 04/09/2013 BKN vs. PHI W 18 4 1 8 12.5 0 4 0.0 2 2 100.0 0 2 2 0 1 0 0 1 0
+p63
+aVKris Humphries BKN 04/09/2013 BKN vs. PHI W 18 9 4 7 57.1 0 0 - 1 1 100.0 5 2 7 0 0 1 3 0 -8
+p64
+aVMarShon Brooks BKN 04/09/2013 BKN vs. PHI W 25 11 4 8 50.0 1 3 33.3 2 2 100.0 1 6 7 1 1 0 0 3 13
+p65
+aVGerald Wallace BKN 04/09/2013 BKN vs. PHI W 26 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 2 2 1 2 30
+p66
+aVJoe Johnson BKN 04/09/2013 BKN vs. PHI W 23 11 5 10 50.0 1 4 25.0 0 0 - 0 2 2 2 0 1 1 1 8
+p67
+aVAndray Blatche BKN 04/09/2013 BKN vs. PHI W 17 2 0 4 0.0 0 2 0.0 2 2 100.0 1 4 5 1 0 0 0 2 -4
+p68
+aVMirza Teletovic BKN 04/06/2013 BKN vs. CHA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p69
+aVMarShon Brooks BKN 04/06/2013 BKN vs. CHA W 18 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 2 0 1 1 -4
+p70
+aVAndray Blatche BKN 04/06/2013 BKN vs. CHA W 18 16 7 13 53.8 0 0 - 2 4 50.0 4 3 7 0 0 1 0 2 -3
+p71
+aVDeron Williams BKN 04/06/2013 BKN vs. CHA W 36 32 11 18 61.1 2 7 28.6 8 8 100.0 0 2 2 6 0 0 3 2 16
+p72
+aVKeith Bogans BKN 04/06/2013 BKN vs. CHA W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p73
+aVGerald Wallace BKN 04/06/2013 BKN vs. CHA W 32 1 0 0 - 0 0 - 1 2 50.0 0 1 1 5 0 1 1 2 14
+p74
+aVReggie Evans BKN 04/06/2013 BKN vs. CHA W 40 14 5 7 71.4 0 0 - 4 7 57.1 4 16 20 0 2 0 2 3 13
+p75
+aVJoe Johnson BKN 04/06/2013 BKN vs. CHA W 32 15 5 16 31.3 3 10 30.0 2 2 100.0 0 2 2 2 2 0 0 3 8
+p76
+aVBrook Lopez BKN 04/06/2013 BKN vs. CHA W 33 19 7 14 50.0 0 0 - 5 7 71.4 3 2 5 0 2 4 1 2 14
+p77
+aVCJ Watson BKN 04/06/2013 BKN vs. CHA W 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 1 0 0 -9
+p78
+aVCJ Watson BKN 04/04/2013 BKN vs. CHI L 9 1 0 3 0.0 0 1 0.0 1 1 100.0 0 1 1 1 1 1 1 4 -5
+p79
+aVDeron Williams BKN 04/04/2013 BKN vs. CHI L 40 30 9 16 56.3 2 4 50.0 10 13 76.9 0 2 2 10 1 0 3 1 3
+p80
+aVAndray Blatche BKN 04/04/2013 BKN vs. CHI L 11 8 3 6 50.0 0 0 - 2 3 66.7 0 0 0 0 1 0 4 0 -6
+p81
+aVKris Humphries BKN 04/04/2013 BKN vs. CHI L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -5
+p82
+aVJoe Johnson BKN 04/04/2013 BKN vs. CHI L 35 12 4 11 36.4 3 6 50.0 1 2 50.0 1 0 1 1 2 0 2 0 2
+p83
+aVGerald Wallace BKN 04/04/2013 BKN vs. CHI L 29 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 1 2
+p84
+aVMarShon Brooks BKN 04/04/2013 BKN vs. CHI L 10 5 2 2 100.0 0 0 - 1 1 100.0 1 1 2 1 0 0 2 2 -7
+p85
+aVBrook Lopez BKN 04/04/2013 BKN vs. CHI L 37 28 10 19 52.6 0 0 - 8 10 80.0 1 4 5 1 1 2 2 1 4
+p86
+aVKeith Bogans BKN 04/04/2013 BKN vs. CHI L 21 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 3 -1
+p87
+aVReggie Evans BKN 04/04/2013 BKN vs. CHI L 35 0 0 4 0.0 0 0 - 0 0 - 3 10 13 1 1 0 2 4 3
+p88
+aVTornike Shengelia BKN 04/03/2013 BKN @ CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p89
+aVKris Humphries BKN 04/03/2013 BKN @ CLE W 21 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 1 0 -5
+p90
+aVMarShon Brooks BKN 04/03/2013 BKN @ CLE W 37 27 12 16 75.0 1 3 33.3 2 2 100.0 0 4 4 7 0 1 5 3 4
+p91
+aVKris Joseph BKN 04/03/2013 BKN @ CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p92
+aVAndray Blatche BKN 04/03/2013 BKN @ CLE W 19 11 5 7 71.4 0 0 - 1 2 50.0 1 2 3 0 1 0 3 4 -7
+p93
+aVBrook Lopez BKN 04/03/2013 BKN @ CLE W 26 14 4 9 44.4 0 0 - 6 6 100.0 4 2 6 1 0 2 1 2 27
+p94
+aVMirza Teletovic BKN 04/03/2013 BKN @ CLE W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p95
+aVKeith Bogans BKN 04/03/2013 BKN @ CLE W 21 0 0 5 0.0 0 5 0.0 0 0 - 0 2 2 5 0 0 1 0 17
+p96
+aVJerry Stackhouse BKN 04/03/2013 BKN @ CLE W 20 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 2 0 0 0 1 3
+p97
+aVDeron Williams BKN 04/03/2013 BKN @ CLE W 27 24 8 14 57.1 4 6 66.7 4 4 100.0 0 3 3 8 0 0 1 3 23
+p98
+aVCJ Watson BKN 04/03/2013 BKN @ CLE W 24 12 4 6 66.7 4 4 100.0 0 0 - 0 2 2 7 2 0 1 2 17
+p99
+aVReggie Evans BKN 04/03/2013 BKN @ CLE W 27 8 3 5 60.0 0 0 - 2 6 33.3 2 16 18 0 2 0 4 4 23
+p100
+aVTyshawn Taylor BKN 04/03/2013 BKN @ CLE W 5 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 1 0 0 0 -4
+p101
+aVReggie Evans BKN 03/30/2013 BKN @ UTA L 27 4 2 5 40.0 0 0 - 0 0 - 6 10 16 1 0 0 1 3 -10
+p102
+aVGerald Wallace BKN 03/30/2013 BKN @ UTA L 24 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 3 0 0 2 1 -20
+p103
+aVKris Humphries BKN 03/30/2013 BKN @ UTA L 18 8 4 8 50.0 0 0 - 0 0 - 2 2 4 1 0 2 0 1 2
+p104
+aVMarShon Brooks BKN 03/30/2013 BKN @ UTA L 30 10 4 10 40.0 1 4 25.0 1 2 50.0 2 0 2 1 2 1 1 4 10
+p105
+aVAndray Blatche BKN 03/30/2013 BKN @ UTA L 19 10 5 8 62.5 0 0 - 0 0 - 0 4 4 1 0 4 2 2 1
+p106
+aVKeith Bogans BKN 03/30/2013 BKN @ UTA L 25 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 2 0 0 1 2 -11
+p107
+aVBrook Lopez BKN 03/30/2013 BKN @ UTA L 32 27 11 16 68.8 0 0 - 5 6 83.3 2 5 7 1 0 4 5 1 -11
+p108
+aVCJ Watson BKN 03/30/2013 BKN @ UTA L 30 22 8 13 61.5 3 6 50.0 3 4 75.0 2 3 5 4 2 0 3 3 7
+p109
+aVDeron Williams BKN 03/30/2013 BKN @ UTA L 36 21 6 14 42.9 3 7 42.9 6 7 85.7 0 2 2 11 1 0 2 2 -13
+p110
+aVReggie Evans BKN 03/29/2013 BKN @ DEN L 33 15 5 7 71.4 0 0 - 5 9 55.6 7 9 16 1 0 0 0 2 -5
+p111
+aVDeron Williams BKN 03/29/2013 BKN @ DEN L 35 19 5 13 38.5 3 8 37.5 6 7 85.7 1 1 2 3 1 1 4 3 -3
+p112
+aVAndray Blatche BKN 03/29/2013 BKN @ DEN L 22 16 8 11 72.7 0 0 - 0 2 0.0 3 2 5 0 2 3 4 2 -3
+p113
+aVKeith Bogans BKN 03/29/2013 BKN @ DEN L 20 0 0 6 0.0 0 5 0.0 0 0 - 1 0 1 2 0 0 0 1 -18
+p114
+aVMirza Teletovic BKN 03/29/2013 BKN @ DEN L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p115
+aVJerry Stackhouse BKN 03/29/2013 BKN @ DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -11
+p116
+aVBrook Lopez BKN 03/29/2013 BKN @ DEN L 23 11 4 15 26.7 0 0 - 3 9 33.3 5 2 7 0 0 0 3 1 -14
+p117
+aVKris Humphries BKN 03/29/2013 BKN @ DEN L 15 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 0 2 1 0 -17
+p118
+aVTornike Shengelia BKN 03/29/2013 BKN @ DEN L 3 1 0 0 - 0 0 - 1 4 25.0 0 3 3 0 0 0 1 1 -3
+p119
+aVTyshawn Taylor BKN 03/29/2013 BKN @ DEN L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -10
+p120
+aVMarShon Brooks BKN 03/29/2013 BKN @ DEN L 29 8 4 13 30.8 0 2 0.0 0 0 - 4 3 7 5 1 0 2 5 -6
+p121
+aVGerald Wallace BKN 03/29/2013 BKN @ DEN L 35 5 2 6 33.3 1 3 33.3 0 0 - 2 2 4 4 2 0 2 1 -7
+p122
+aVCJ Watson BKN 03/29/2013 BKN @ DEN L 14 4 1 2 50.0 1 1 100.0 1 3 33.3 0 1 1 3 0 0 0 4 -10
+p123
+aVBrook Lopez BKN 03/27/2013 BKN @ POR W 31 28 12 22 54.5 0 1 0.0 4 6 66.7 1 4 5 1 0 0 2 4 23
+p124
+aVKeith Bogans BKN 03/27/2013 BKN @ POR W 30 11 4 7 57.1 3 6 50.0 0 0 - 1 2 3 3 0 0 1 3 26
+p125
+aVMirza Teletovic BKN 03/27/2013 BKN @ POR W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p126
+aVCJ Watson BKN 03/27/2013 BKN @ POR W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 2 -10
+p127
+aVDeron Williams BKN 03/27/2013 BKN @ POR W 34 6 3 11 27.3 0 4 0.0 0 0 - 0 3 3 10 1 0 1 0 27
+p128
+aVAndray Blatche BKN 03/27/2013 BKN @ POR W 17 12 5 6 83.3 0 0 - 2 5 40.0 1 1 2 0 1 1 3 4 -5
+p129
+aVGerald Wallace BKN 03/27/2013 BKN @ POR W 29 12 5 12 41.7 0 3 0.0 2 3 66.7 1 5 6 5 2 0 0 0 28
+p130
+aVJerry Stackhouse BKN 03/27/2013 BKN @ POR W 13 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 -7
+p131
+aVMarShon Brooks BKN 03/27/2013 BKN @ POR W 17 12 4 8 50.0 2 2 100.0 2 2 100.0 2 0 2 1 2 0 0 1 -8
+p132
+aVKris Humphries BKN 03/27/2013 BKN @ POR W 13 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -11
+p133
+aVReggie Evans BKN 03/27/2013 BKN @ POR W 35 22 9 13 69.2 0 0 - 4 9 44.4 12 14 26 3 1 0 2 2 29
+p134
+aVAndray Blatche BKN 03/24/2013 BKN @ PHX W 11 8 4 8 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 9
+p135
+aVKeith Bogans BKN 03/24/2013 BKN @ PHX W 30 3 1 5 20.0 1 5 20.0 0 0 - 1 2 3 1 1 1 1 1 -3
+p136
+aVMarShon Brooks BKN 03/24/2013 BKN @ PHX W 19 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 3 0 1 2 2 3
+p137
+aVCJ Watson BKN 03/24/2013 BKN @ PHX W 23 14 3 4 75.0 1 2 50.0 7 7 100.0 0 5 5 0 1 0 2 3 15
+p138
+aVGerald Wallace BKN 03/24/2013 BKN @ PHX W 35 9 4 8 50.0 0 3 0.0 1 2 50.0 4 4 8 2 1 0 4 2 -10
+p139
+aVReggie Evans BKN 03/24/2013 BKN @ PHX W 24 4 1 4 25.0 0 0 - 2 3 66.7 4 6 10 0 1 2 0 3 -11
+p140
+aVBrook Lopez BKN 03/24/2013 BKN @ PHX W 33 21 6 16 37.5 0 0 - 9 10 90.0 2 3 5 0 0 2 3 2 0
+p141
+aVKris Humphries BKN 03/24/2013 BKN @ PHX W 28 17 6 12 50.0 0 0 - 5 5 100.0 3 5 8 1 1 1 2 1 6
+p142
+aVDeron Williams BKN 03/24/2013 BKN @ PHX W 37 20 8 15 53.3 2 4 50.0 2 2 100.0 0 1 1 11 2 0 1 4 1
+p143
+aVKris Humphries BKN 03/23/2013 BKN @ LAC L 10 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 1 1 1 3 0
+p144
+aVReggie Evans BKN 03/23/2013 BKN @ LAC L 37 7 1 4 25.0 0 0 - 5 6 83.3 3 13 16 1 1 0 1 2 -5
+p145
+aVAndray Blatche BKN 03/23/2013 BKN @ LAC L 15 3 0 3 0.0 0 0 - 3 4 75.0 1 1 2 2 0 0 2 1 -5
+p146
+aVGerald Wallace BKN 03/23/2013 BKN @ LAC L 36 15 5 8 62.5 2 4 50.0 3 4 75.0 0 3 3 5 3 0 1 1 -1
+p147
+aVMarShon Brooks BKN 03/23/2013 BKN @ LAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p148
+aVBrook Lopez BKN 03/23/2013 BKN @ LAC L 33 18 9 14 64.3 0 0 - 0 2 0.0 1 1 2 3 1 1 2 3 -1
+p149
+aVKeith Bogans BKN 03/23/2013 BKN @ LAC L 20 9 3 3 100.0 3 3 100.0 0 0 - 0 1 1 2 0 0 3 2 -6
+p150
+aVDeron Williams BKN 03/23/2013 BKN @ LAC L 38 18 6 16 37.5 2 8 25.0 4 4 100.0 0 2 2 9 2 0 3 5 -3
+p151
+aVCJ Watson BKN 03/23/2013 BKN @ LAC L 13 10 4 6 66.7 2 3 66.7 0 0 - 0 2 2 1 1 0 1 1 -6
+p152
+aVJoe Johnson BKN 03/23/2013 BKN @ LAC L 34 15 6 18 33.3 0 7 0.0 3 4 75.0 3 0 3 3 0 0 1 2 -3
+p153
+aVJerry Stackhouse BKN 03/20/2013 BKN @ DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p154
+aVMarShon Brooks BKN 03/20/2013 BKN @ DAL W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p155
+aVReggie Evans BKN 03/20/2013 BKN @ DAL W 32 4 2 5 40.0 0 0 - 0 0 - 5 17 22 0 0 0 1 4 10
+p156
+aVCJ Watson BKN 03/20/2013 BKN @ DAL W 11 1 0 2 0.0 0 0 - 1 1 100.0 0 0 0 3 0 0 1 1 11
+p157
+aVMirza Teletovic BKN 03/20/2013 BKN @ DAL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p158
+aVGerald Wallace BKN 03/20/2013 BKN @ DAL W 29 7 2 6 33.3 0 3 0.0 3 5 60.0 0 1 1 2 5 0 1 0 10
+p159
+aVDeron Williams BKN 03/20/2013 BKN @ DAL W 41 31 13 25 52.0 3 8 37.5 2 3 66.7 0 3 3 6 0 0 3 3 6
+p160
+aVJoe Johnson BKN 03/20/2013 BKN @ DAL W 32 9 4 12 33.3 1 3 33.3 0 0 - 0 2 2 5 0 0 0 1 23
+p161
+aVBrook Lopez BKN 03/20/2013 BKN @ DAL W 37 38 15 22 68.2 0 0 - 8 10 80.0 7 4 11 1 1 2 3 1 11
+p162
+aVKeith Bogans BKN 03/20/2013 BKN @ DAL W 26 9 3 6 50.0 3 6 50.0 0 0 - 0 1 1 2 0 0 0 1 17
+p163
+aVAndray Blatche BKN 03/20/2013 BKN @ DAL W 20 14 6 7 85.7 0 0 - 2 2 100.0 1 3 4 1 0 0 0 2 9
+p164
+aVMarShon Brooks BKN 03/18/2013 BKN @ DET W 24 10 4 8 50.0 1 1 100.0 1 1 100.0 1 0 1 2 0 2 2 1 22
+p165
+aVJerry Stackhouse BKN 03/18/2013 BKN @ DET W 19 10 5 6 83.3 0 0 - 0 0 - 0 0 0 3 0 1 0 0 10
+p166
+aVCJ Watson BKN 03/18/2013 BKN @ DET W 20 5 2 5 40.0 1 2 50.0 0 0 - 1 2 3 5 1 0 1 0 8
+p167
+aVJoe Johnson BKN 03/18/2013 BKN @ DET W 24 13 4 11 36.4 2 7 28.6 3 4 75.0 1 1 2 1 0 1 1 2 15
+p168
+aVMirza Teletovic BKN 03/18/2013 BKN @ DET W 23 9 4 4 100.0 1 1 100.0 0 0 - 1 5 6 0 1 1 1 3 15
+p169
+aVGerald Wallace BKN 03/18/2013 BKN @ DET W 28 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 2 0 1 1 27
+p170
+aVBrook Lopez BKN 03/18/2013 BKN @ DET W 23 18 7 10 70.0 0 0 - 4 5 80.0 5 2 7 0 0 1 0 2 17
+p171
+aVReggie Evans BKN 03/18/2013 BKN @ DET W 27 6 1 5 20.0 0 0 - 4 4 100.0 3 8 11 0 2 0 0 3 29
+p172
+aVDeron Williams BKN 03/18/2013 BKN @ DET W 28 31 10 18 55.6 4 8 50.0 7 8 87.5 0 1 1 5 2 0 1 3 29
+p173
+aVAndray Blatche BKN 03/18/2013 BKN @ DET W 22 15 7 12 58.3 0 0 - 1 1 100.0 1 7 8 4 1 2 2 2 13
+p174
+aVJoe Johnson BKN 03/17/2013 BKN vs. ATL L 38 18 7 16 43.8 4 8 50.0 0 0 - 3 0 3 3 0 0 3 1 -15
+p175
+aVMarShon Brooks BKN 03/17/2013 BKN vs. ATL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p176
+aVCJ Watson BKN 03/17/2013 BKN vs. ATL L 22 2 1 6 16.7 0 3 0.0 0 0 - 2 2 4 3 1 0 1 3 -11
+p177
+aVDeron Williams BKN 03/17/2013 BKN vs. ATL L 38 18 7 14 50.0 1 5 20.0 3 4 75.0 0 3 3 8 3 0 4 1 -13
+p178
+aVGerald Wallace BKN 03/17/2013 BKN vs. ATL L 24 4 1 8 12.5 0 1 0.0 2 2 100.0 2 1 3 1 1 0 1 1 0
+p179
+aVTornike Shengelia BKN 03/17/2013 BKN vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p180
+aVKeith Bogans BKN 03/17/2013 BKN vs. ATL L 18 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 1 0 0 2 1 -5
+p181
+aVReggie Evans BKN 03/17/2013 BKN vs. ATL L 32 14 6 7 85.7 0 0 - 2 2 100.0 5 17 22 0 1 0 1 2 -2
+p182
+aVMirza Teletovic BKN 03/17/2013 BKN vs. ATL L 16 6 2 5 40.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 1 -10
+p183
+aVBrook Lopez BKN 03/17/2013 BKN vs. ATL L 35 17 7 19 36.8 0 0 - 3 4 75.0 2 4 6 1 0 0 1 1 -5
+p184
+aVAndray Blatche BKN 03/17/2013 BKN vs. ATL L 13 9 3 6 50.0 0 0 - 3 4 75.0 3 2 5 0 1 1 2 3 -7
+p185
+aVCJ Watson BKN 03/12/2013 BKN vs. NOH W 33 4 1 5 20.0 1 2 50.0 1 2 50.0 1 3 4 1 1 0 2 1 12
+p186
+aVGerald Wallace BKN 03/12/2013 BKN vs. NOH W 29 13 3 9 33.3 0 1 0.0 7 9 77.8 5 3 8 0 2 0 0 1 13
+p187
+aVReggie Evans BKN 03/12/2013 BKN vs. NOH W 23 6 3 5 60.0 0 0 - 0 0 - 7 6 13 0 0 0 2 4 1
+p188
+aVMarShon Brooks BKN 03/12/2013 BKN vs. NOH W 22 14 5 6 83.3 0 0 - 4 5 80.0 1 2 3 0 0 0 0 2 -6
+p189
+aVDeron Williams BKN 03/12/2013 BKN vs. NOH W 39 21 7 19 36.8 2 8 25.0 5 7 71.4 0 2 2 13 3 0 2 2 20
+p190
+aVKeith Bogans BKN 03/12/2013 BKN vs. NOH W 17 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 1 0 1
+p191
+aVMirza Teletovic BKN 03/12/2013 BKN vs. NOH W 12 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 2 7
+p192
+aVAndray Blatche BKN 03/12/2013 BKN vs. NOH W 29 18 9 15 60.0 0 0 - 0 0 - 4 1 5 3 0 1 0 1 7
+p193
+aVTyshawn Taylor BKN 03/12/2013 BKN vs. NOH W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -10
+p194
+aVBrook Lopez BKN 03/12/2013 BKN vs. NOH W 32 26 10 15 66.7 0 0 - 6 8 75.0 1 4 5 0 1 3 0 1 5
+p195
+aVJoe Johnson BKN 03/11/2013 BKN @ PHI L 37 20 8 11 72.7 3 5 60.0 1 2 50.0 0 2 2 6 1 0 0 2 -5
+p196
+aVGerald Wallace BKN 03/11/2013 BKN @ PHI L 26 4 2 8 25.0 0 3 0.0 0 0 - 1 0 1 1 1 0 1 3 -1
+p197
+aVKeith Bogans BKN 03/11/2013 BKN @ PHI L 26 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 2 1 -8
+p198
+aVAndray Blatche BKN 03/11/2013 BKN @ PHI L 15 9 4 7 57.1 0 0 - 1 2 50.0 1 2 3 1 0 1 3 1 0
+p199
+aVMirza Teletovic BKN 03/11/2013 BKN @ PHI L 17 4 2 7 28.6 0 2 0.0 0 0 - 1 5 6 2 0 0 0 3 -6
+p200
+aVDeron Williams BKN 03/11/2013 BKN @ PHI L 40 27 10 19 52.6 2 6 33.3 5 7 71.4 0 6 6 13 0 0 1 1 -4
+p201
+aVMarShon Brooks BKN 03/11/2013 BKN @ PHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p202
+aVBrook Lopez BKN 03/11/2013 BKN @ PHI L 33 19 8 13 61.5 0 0 - 3 3 100.0 3 3 6 0 0 1 1 3 -9
+p203
+aVCJ Watson BKN 03/11/2013 BKN @ PHI L 13 2 1 3 33.3 0 0 - 0 0 - 1 3 4 5 1 0 0 1 -2
+p204
+aVReggie Evans BKN 03/11/2013 BKN @ PHI L 31 9 4 9 44.4 0 0 - 1 2 50.0 4 7 11 0 0 1 3 4 -3
+p205
+aVDeron Williams BKN 03/09/2013 BKN @ ATL W 34 17 5 13 38.5 2 7 28.6 5 6 83.3 0 3 3 6 0 1 1 3 12
+p206
+aVMarShon Brooks BKN 03/09/2013 BKN @ ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p207
+aVTornike Shengelia BKN 03/09/2013 BKN @ ATL W 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -7
+p208
+aVKeith Bogans BKN 03/09/2013 BKN @ ATL W 22 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 0 1 0 0 1 16
+p209
+aVCJ Watson BKN 03/09/2013 BKN @ ATL W 17 7 2 4 50.0 1 1 100.0 2 2 100.0 2 2 4 3 0 0 0 2 12
+p210
+aVTyshawn Taylor BKN 03/09/2013 BKN @ ATL W 3 1 0 3 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -7
+p211
+aVJoe Johnson BKN 03/09/2013 BKN @ ATL W 35 8 4 13 30.8 0 5 0.0 0 0 - 0 4 4 5 4 0 0 1 8
+p212
+aVMirza Teletovic BKN 03/09/2013 BKN @ ATL W 25 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 2 8
+p213
+aVReggie Evans BKN 03/09/2013 BKN @ ATL W 23 6 1 2 50.0 0 0 - 4 6 66.7 2 7 9 0 0 1 2 1 5
+p214
+aVAndray Blatche BKN 03/09/2013 BKN @ ATL W 20 18 9 11 81.8 0 1 0.0 0 1 0.0 1 3 4 2 4 1 4 2 7
+p215
+aVBrook Lopez BKN 03/09/2013 BKN @ ATL W 28 18 8 16 50.0 0 0 - 2 3 66.7 2 7 9 2 0 2 0 1 6
+p216
+aVGerald Wallace BKN 03/09/2013 BKN @ ATL W 28 9 4 11 36.4 0 3 0.0 1 2 50.0 1 3 4 1 2 1 2 0 10
+p217
+aVCJ Watson BKN 03/08/2013 BKN vs. WAS W 17 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 3 0 0 1 1 3
+p218
+aVJoe Johnson BKN 03/08/2013 BKN vs. WAS W 32 6 3 10 30.0 0 2 0.0 0 0 - 1 2 3 1 0 0 3 0 25
+p219
+aVMarShon Brooks BKN 03/08/2013 BKN vs. WAS W 14 7 2 6 33.3 0 1 0.0 3 3 100.0 1 0 1 0 1 0 2 0 -9
+p220
+aVKeith Bogans BKN 03/08/2013 BKN vs. WAS W 23 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 -3
+p221
+aVDeron Williams BKN 03/08/2013 BKN vs. WAS W 38 42 15 24 62.5 11 16 68.8 1 1 100.0 0 3 3 5 1 0 3 2 17
+p222
+aVReggie Evans BKN 03/08/2013 BKN vs. WAS W 32 11 3 6 50.0 0 0 - 5 16 31.3 5 19 24 0 1 0 3 3 13
+p223
+aVBrook Lopez BKN 03/08/2013 BKN vs. WAS W 32 11 4 11 36.4 0 0 - 3 4 75.0 3 4 7 0 0 2 1 5 17
+p224
+aVGerald Wallace BKN 03/08/2013 BKN vs. WAS W 21 2 0 5 0.0 0 2 0.0 2 4 50.0 2 3 5 5 0 0 1 1 18
+p225
+aVAndray Blatche BKN 03/08/2013 BKN vs. WAS W 13 3 1 2 50.0 0 0 - 1 1 100.0 0 5 5 0 1 0 2 4 -1
+p226
+aVMirza Teletovic BKN 03/08/2013 BKN vs. WAS W 19 5 1 8 12.5 1 3 33.3 2 2 100.0 4 4 8 0 0 0 2 2 5
+p227
+aVBrook Lopez BKN 03/06/2013 BKN @ CHA W 33 16 6 7 85.7 0 0 - 4 4 100.0 1 4 5 1 0 3 2 2 18
+p228
+aVAndray Blatche BKN 03/06/2013 BKN @ CHA W 15 8 3 5 60.0 0 0 - 2 3 66.7 0 5 5 0 0 0 3 1 3
+p229
+aVMirza Teletovic BKN 03/06/2013 BKN @ CHA W 14 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 3 0 0 0 0 7
+p230
+aVMarShon Brooks BKN 03/06/2013 BKN @ CHA W 9 3 0 2 0.0 0 1 0.0 3 4 75.0 0 1 1 0 1 1 2 0 -2
+p231
+aVTyshawn Taylor BKN 03/06/2013 BKN @ CHA W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p232
+aVTornike Shengelia BKN 03/06/2013 BKN @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p233
+aVJoe Johnson BKN 03/06/2013 BKN @ CHA W 32 22 8 14 57.1 5 8 62.5 1 2 50.0 1 4 5 3 0 0 6 1 17
+p234
+aVGerald Wallace BKN 03/06/2013 BKN @ CHA W 33 8 1 7 14.3 0 1 0.0 6 7 85.7 0 8 8 2 2 5 1 3 9
+p235
+aVKeith Bogans BKN 03/06/2013 BKN @ CHA W 14 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 1 1 0 2 1 13
+p236
+aVReggie Evans BKN 03/06/2013 BKN @ CHA W 28 6 3 4 75.0 0 0 - 0 0 - 4 12 16 1 2 0 2 1 7
+p237
+aVCJ Watson BKN 03/06/2013 BKN @ CHA W 21 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 4 0 0 0 4 7
+p238
+aVDeron Williams BKN 03/06/2013 BKN @ CHA W 39 20 7 12 58.3 4 6 66.7 2 2 100.0 0 4 4 8 1 1 4 2 22
+p239
+aVJoe Johnson BKN 03/02/2013 BKN @ CHI L 37 11 5 10 50.0 1 4 25.0 0 0 - 0 5 5 5 1 0 5 4 -3
+p240
+aVMirza Teletovic BKN 03/02/2013 BKN @ CHI L 11 9 4 7 57.1 1 2 50.0 0 0 - 1 2 3 1 0 0 0 3 3
+p241
+aVDeron Williams BKN 03/02/2013 BKN @ CHI L 36 14 4 12 33.3 1 5 20.0 5 5 100.0 0 2 2 6 0 0 3 3 -12
+p242
+aVMarShon Brooks BKN 03/02/2013 BKN @ CHI L 9 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 1 2 1
+p243
+aVReggie Evans BKN 03/02/2013 BKN @ CHI L 18 0 0 2 0.0 0 0 - 0 0 - 4 6 10 0 2 0 4 1 -11
+p244
+aVKris Humphries BKN 03/02/2013 BKN @ CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p245
+aVKeith Bogans BKN 03/02/2013 BKN @ CHI L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -14
+p246
+aVTyshawn Taylor BKN 03/02/2013 BKN @ CHI L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 4
+p247
+aVCJ Watson BKN 03/02/2013 BKN @ CHI L 20 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 1 1 0 2 1 -13
+p248
+aVGerald Wallace BKN 03/02/2013 BKN @ CHI L 33 8 3 7 42.9 1 1 100.0 1 3 33.3 0 4 4 2 3 1 4 3 2
+p249
+aVAndray Blatche BKN 03/02/2013 BKN @ CHI L 23 13 4 10 40.0 0 1 0.0 5 6 83.3 1 3 4 2 4 0 1 0 1
+p250
+aVBrook Lopez BKN 03/02/2013 BKN @ CHI L 34 22 9 16 56.3 0 0 - 4 5 80.0 1 2 3 1 1 3 0 1 -10
+p251
+aVDeron Williams BKN 03/01/2013 BKN vs. DAL L 38 24 8 18 44.4 2 6 33.3 6 7 85.7 0 4 4 2 4 0 7 0 -2
+p252
+aVGerald Wallace BKN 03/01/2013 BKN vs. DAL L 21 7 3 6 50.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 1 -8
+p253
+aVKris Humphries BKN 03/01/2013 BKN vs. DAL L 14 2 1 1 100.0 0 0 - 0 2 0.0 0 6 6 1 0 0 0 2 4
+p254
+aVKeith Bogans BKN 03/01/2013 BKN vs. DAL L 27 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 1 2 0 1 3 0
+p255
+aVJoe Johnson BKN 03/01/2013 BKN vs. DAL L 30 11 5 12 41.7 1 4 25.0 0 0 - 0 2 2 6 0 0 4 1 -14
+p256
+aVMirza Teletovic BKN 03/01/2013 BKN vs. DAL L 15 5 2 4 50.0 0 2 0.0 1 1 100.0 1 0 1 1 0 0 0 4 -3
+p257
+aVCJ Watson BKN 03/01/2013 BKN vs. DAL L 26 11 4 9 44.4 2 4 50.0 1 1 100.0 2 3 5 1 0 0 3 0 1
+p258
+aVBrook Lopez BKN 03/01/2013 BKN vs. DAL L 34 19 8 14 57.1 0 0 - 3 3 100.0 3 6 9 1 1 1 1 2 8
+p259
+aVAndray Blatche BKN 03/01/2013 BKN vs. DAL L 14 8 4 7 57.1 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -16
+p260
+aVReggie Evans BKN 03/01/2013 BKN vs. DAL L 19 0 0 2 0.0 0 0 - 0 0 - 3 8 11 2 0 0 2 1 -9
+p261
+aVMarShon Brooks BKN 03/01/2013 BKN vs. DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p262
+aVMirza Teletovic BKN 02/26/2013 BKN @ NOH W 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p263
+aVDeron Williams BKN 02/26/2013 BKN @ NOH W 37 33 10 21 47.6 4 8 50.0 9 10 90.0 0 1 1 8 0 0 4 4 7
+p264
+aVBrook Lopez BKN 02/26/2013 BKN @ NOH W 31 20 9 14 64.3 0 0 - 2 2 100.0 3 4 7 5 1 4 1 1 3
+p265
+aVKeith Bogans BKN 02/26/2013 BKN @ NOH W 20 12 4 4 100.0 3 3 100.0 1 1 100.0 1 3 4 2 0 0 1 0 7
+p266
+aVCJ Watson BKN 02/26/2013 BKN @ NOH W 32 10 3 7 42.9 2 4 50.0 2 2 100.0 0 2 2 2 0 0 3 0 -3
+p267
+aVKris Humphries BKN 02/26/2013 BKN @ NOH W 21 2 1 2 50.0 0 0 - 0 0 - 3 3 6 2 0 0 2 1 12
+p268
+aVGerald Wallace BKN 02/26/2013 BKN @ NOH W 34 8 3 6 50.0 2 4 50.0 0 0 - 1 5 6 4 0 2 1 3 -3
+p269
+aVReggie Evans BKN 02/26/2013 BKN @ NOH W 24 0 0 4 0.0 0 0 - 0 0 - 2 4 6 0 0 0 0 3 -5
+p270
+aVMarShon Brooks BKN 02/26/2013 BKN @ NOH W 23 8 3 8 37.5 1 1 100.0 1 2 50.0 0 3 3 3 1 1 1 1 -1
+p271
+aVAndray Blatche BKN 02/26/2013 BKN @ NOH W 16 8 4 9 44.4 0 0 - 0 1 0.0 1 3 4 2 1 2 0 1 5
+p272
+aVGerald Wallace BKN 02/24/2013 BKN vs. MEM L 16 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 0
+p273
+aVTyshawn Taylor BKN 02/24/2013 BKN vs. MEM L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p274
+aVReggie Evans BKN 02/24/2013 BKN vs. MEM L 27 2 1 3 33.3 0 0 - 0 2 0.0 6 8 14 1 2 0 2 2 -2
+p275
+aVDeron Williams BKN 02/24/2013 BKN vs. MEM L 42 24 9 15 60.0 4 6 66.7 2 3 66.7 0 4 4 4 3 0 4 3 0
+p276
+aVCJ Watson BKN 02/24/2013 BKN vs. MEM L 29 11 4 8 50.0 3 3 100.0 0 0 - 0 1 1 4 0 0 3 0 -10
+p277
+aVKeith Bogans BKN 02/24/2013 BKN vs. MEM L 22 3 1 4 25.0 1 4 25.0 0 0 - 0 3 3 1 0 1 0 0 4
+p278
+aVBrook Lopez BKN 02/24/2013 BKN vs. MEM L 26 9 3 10 30.0 0 0 - 3 4 75.0 2 2 4 1 0 1 2 1 -8
+p279
+aVMirza Teletovic BKN 02/24/2013 BKN vs. MEM L 14 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 1 1 0 0 1 0
+p280
+aVKris Humphries BKN 02/24/2013 BKN vs. MEM L 8 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -2
+p281
+aVMarShon Brooks BKN 02/24/2013 BKN vs. MEM L 32 8 4 13 30.8 0 2 0.0 0 2 0.0 4 3 7 3 0 1 1 2 -4
+p282
+aVAndray Blatche BKN 02/24/2013 BKN vs. MEM L 22 10 5 12 41.7 0 1 0.0 0 0 - 5 2 7 1 1 1 1 3 4
+p283
+aVMarShon Brooks BKN 02/22/2013 BKN vs. HOU L 11 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -11
+p284
+aVCJ Watson BKN 02/22/2013 BKN vs. HOU L 40 17 7 15 46.7 3 7 42.9 0 2 0.0 2 2 4 5 0 1 0 1 -3
+p285
+aVKris Humphries BKN 02/22/2013 BKN vs. HOU L 5 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 1 -4
+p286
+aVBrook Lopez BKN 02/22/2013 BKN vs. HOU L 35 27 13 21 61.9 0 0 - 1 2 50.0 3 3 6 1 0 1 1 2 -4
+p287
+aVReggie Evans BKN 02/22/2013 BKN vs. HOU L 24 2 1 3 33.3 0 0 - 0 0 - 5 8 13 1 2 1 1 3 -7
+p288
+aVAndray Blatche BKN 02/22/2013 BKN vs. HOU L 13 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 2 0 2 1 -6
+p289
+aVGerald Wallace BKN 02/22/2013 BKN vs. HOU L 31 7 3 10 30.0 0 2 0.0 1 3 33.3 2 3 5 2 5 0 4 2 3
+p290
+aVDeron Williams BKN 02/22/2013 BKN vs. HOU L 40 15 5 17 29.4 3 8 37.5 2 2 100.0 0 2 2 13 0 1 3 3 -6
+p291
+aVMirza Teletovic BKN 02/22/2013 BKN vs. HOU L 17 12 5 8 62.5 2 5 40.0 0 0 - 0 5 5 1 0 0 0 1 4
+p292
+aVKeith Bogans BKN 02/22/2013 BKN vs. HOU L 24 6 2 9 22.2 2 8 25.0 0 0 - 0 0 0 0 0 1 1 4 -16
+p293
+aVAndray Blatche BKN 02/20/2013 BKN @ MIL W 25 12 5 9 55.6 0 0 - 2 4 50.0 3 9 12 1 1 2 0 2 14
+p294
+aVBrook Lopez BKN 02/20/2013 BKN @ MIL W 23 9 3 13 23.1 0 0 - 3 4 75.0 1 0 1 1 0 1 2 1 -11
+p295
+aVMarShon Brooks BKN 02/20/2013 BKN @ MIL W 7 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 0 0 1 1 4 12
+p296
+aVKris Humphries BKN 02/20/2013 BKN @ MIL W 12 3 1 2 50.0 0 0 - 1 1 100.0 0 5 5 0 0 1 0 2 14
+p297
+aVKeith Bogans BKN 02/20/2013 BKN @ MIL W 17 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 1
+p298
+aVJoe Johnson BKN 02/20/2013 BKN @ MIL W 38 8 3 14 21.4 0 5 0.0 2 2 100.0 2 4 6 4 2 0 1 3 3
+p299
+aVGerald Wallace BKN 02/20/2013 BKN @ MIL W 27 7 3 6 50.0 0 2 0.0 1 2 50.0 0 6 6 1 0 0 1 2 -11
+p300
+aVReggie Evans BKN 02/20/2013 BKN @ MIL W 21 3 0 2 0.0 0 0 - 3 4 75.0 1 4 5 1 2 0 2 1 -11
+p301
+aVCJ Watson BKN 02/20/2013 BKN @ MIL W 29 17 7 11 63.6 3 4 75.0 0 0 - 0 2 2 6 3 1 2 2 13
+p302
+aVMirza Teletovic BKN 02/20/2013 BKN @ MIL W 8 2 1 6 16.7 0 4 0.0 0 0 - 1 1 2 1 1 0 1 2 1
+p303
+aVDeron Williams BKN 02/20/2013 BKN @ MIL W 33 23 7 16 43.8 3 7 42.9 6 7 85.7 1 1 2 8 1 0 1 3 -10
+p304
+aVDeron Williams BKN 02/19/2013 BKN vs. MIL W 45 19 6 13 46.2 3 4 75.0 4 4 100.0 2 1 3 9 0 0 6 4 2
+p305
+aVJoe Johnson BKN 02/19/2013 BKN vs. MIL W 44 24 10 18 55.6 3 5 60.0 1 1 100.0 2 3 5 5 0 0 0 0 7
+p306
+aVReggie Evans BKN 02/19/2013 BKN vs. MIL W 19 1 0 2 0.0 0 0 - 1 2 50.0 1 8 9 1 0 0 2 1 -2
+p307
+aVMarShon Brooks BKN 02/19/2013 BKN vs. MIL W 4 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -3
+p308
+aVBrook Lopez BKN 02/19/2013 BKN vs. MIL W 34 19 6 17 35.3 0 0 - 7 8 87.5 5 4 9 1 1 3 0 0 3
+p309
+aVKeith Bogans BKN 02/19/2013 BKN vs. MIL W 19 9 3 5 60.0 3 5 60.0 0 0 - 2 0 2 1 1 0 0 1 2
+p310
+aVCJ Watson BKN 02/19/2013 BKN vs. MIL W 20 11 5 9 55.6 1 3 33.3 0 0 - 1 1 2 0 2 0 2 6 0
+p311
+aVGerald Wallace BKN 02/19/2013 BKN vs. MIL W 38 6 3 10 30.0 0 2 0.0 0 0 - 0 6 6 5 2 1 1 1 2
+p312
+aVKris Humphries BKN 02/19/2013 BKN vs. MIL W 23 8 3 6 50.0 0 0 - 2 2 100.0 3 4 7 2 0 0 2 3 0
+p313
+aVAndray Blatche BKN 02/19/2013 BKN vs. MIL W 19 14 6 8 75.0 0 0 - 2 4 50.0 1 5 6 1 0 0 1 1 -1
+p314
+aVKris Humphries BKN 02/13/2013 BKN vs. DEN W 20 14 5 8 62.5 0 0 - 4 4 100.0 2 2 4 0 0 0 1 1 -9
+p315
+aVAndray Blatche BKN 02/13/2013 BKN vs. DEN W 9 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 2 0 0 2 0 -7
+p316
+aVKeith Bogans BKN 02/13/2013 BKN vs. DEN W 13 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 0 0 0 1 4 -8
+p317
+aVCJ Watson BKN 02/13/2013 BKN vs. DEN W 36 25 8 12 66.7 5 7 71.4 4 6 66.7 0 1 1 6 2 0 1 5 13
+p318
+aVTyshawn Taylor BKN 02/13/2013 BKN vs. DEN W 16 6 2 5 40.0 2 3 66.7 0 0 - 0 3 3 4 1 0 1 3 -5
+p319
+aVGerald Wallace BKN 02/13/2013 BKN vs. DEN W 32 8 3 7 42.9 2 4 50.0 0 2 0.0 3 6 9 5 1 3 1 2 22
+p320
+aVMarShon Brooks BKN 02/13/2013 BKN vs. DEN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 4
+p321
+aVJoe Johnson BKN 02/13/2013 BKN vs. DEN W 42 26 10 19 52.6 5 9 55.6 1 2 50.0 0 2 2 9 0 0 2 2 7
+p322
+aVReggie Evans BKN 02/13/2013 BKN vs. DEN W 28 6 0 1 0.0 0 0 - 6 10 60.0 2 5 7 0 1 0 0 1 20
+p323
+aVBrook Lopez BKN 02/13/2013 BKN vs. DEN W 39 23 9 15 60.0 0 0 - 5 5 100.0 3 5 8 0 0 0 3 2 18
+p324
+aVReggie Evans BKN 02/11/2013 BKN @ IND W 43 8 2 5 40.0 0 0 - 4 6 66.7 7 15 22 0 1 2 1 3 11
+p325
+aVCJ Watson BKN 02/11/2013 BKN @ IND W 19 1 0 7 0.0 0 1 0.0 1 2 50.0 0 4 4 3 1 0 1 2 1
+p326
+aVGerald Wallace BKN 02/11/2013 BKN @ IND W 46 11 4 8 50.0 2 4 50.0 1 2 50.0 0 11 11 2 2 2 2 5 12
+p327
+aVJoe Johnson BKN 02/11/2013 BKN @ IND W 38 17 6 17 35.3 1 3 33.3 4 5 80.0 0 1 1 2 0 0 2 2 5
+p328
+aVKris Humphries BKN 02/11/2013 BKN @ IND W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p329
+aVBrook Lopez BKN 02/11/2013 BKN @ IND W 42 25 8 19 42.1 0 0 - 9 9 100.0 4 4 8 0 0 2 1 3 4
+p330
+aVAndray Blatche BKN 02/11/2013 BKN @ IND W 11 6 2 4 50.0 0 0 - 2 4 50.0 0 2 2 0 1 0 0 2 2
+p331
+aVMarShon Brooks BKN 02/11/2013 BKN @ IND W 15 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 2 0 0
+p332
+aVTyshawn Taylor BKN 02/11/2013 BKN @ IND W 34 12 5 9 55.6 0 0 - 2 4 50.0 0 2 2 2 0 0 2 2 3
+p333
+aVMirza Teletovic BKN 02/11/2013 BKN @ IND W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p334
+aVKeith Bogans BKN 02/11/2013 BKN @ IND W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p335
+aVJoe Johnson BKN 02/10/2013 BKN vs. SAS L 36 19 8 16 50.0 1 4 25.0 2 2 100.0 0 2 2 2 0 1 2 2 -11
+p336
+aVAndray Blatche BKN 02/10/2013 BKN vs. SAS L 14 6 1 2 50.0 0 0 - 4 4 100.0 3 1 4 0 0 0 2 5 -10
+p337
+aVCJ Watson BKN 02/10/2013 BKN vs. SAS L 16 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p338
+aVDeron Williams BKN 02/10/2013 BKN vs. SAS L 37 15 5 11 45.5 2 3 66.7 3 3 100.0 0 1 1 3 0 0 3 2 -25
+p339
+aVBrook Lopez BKN 02/10/2013 BKN vs. SAS L 34 18 8 13 61.5 0 0 - 2 2 100.0 4 5 9 4 0 2 3 1 -15
+p340
+aVMirza Teletovic BKN 02/10/2013 BKN vs. SAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 0 -4
+p341
+aVKeith Bogans BKN 02/10/2013 BKN vs. SAS L 21 8 3 7 42.9 2 6 33.3 0 0 - 0 1 1 0 1 0 1 0 -14
+p342
+aVGerald Wallace BKN 02/10/2013 BKN vs. SAS L 32 5 2 4 50.0 1 1 100.0 0 0 - 2 1 3 1 0 1 2 1 -25
+p343
+aVMarShon Brooks BKN 02/10/2013 BKN vs. SAS L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p344
+aVTyshawn Taylor BKN 02/10/2013 BKN vs. SAS L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p345
+aVReggie Evans BKN 02/10/2013 BKN vs. SAS L 19 1 0 2 0.0 0 0 - 1 6 16.7 1 8 9 0 1 0 0 2 -8
+p346
+aVKris Humphries BKN 02/10/2013 BKN vs. SAS L 20 8 4 7 57.1 0 0 - 0 0 - 1 6 7 1 0 0 2 3 -4
+p347
+aVKeith Bogans BKN 02/08/2013 BKN @ WAS L 22 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 0 0 0 1 2 -16
+p348
+aVKris Humphries BKN 02/08/2013 BKN @ WAS L 9 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 2 1 -15
+p349
+aVJoe Johnson BKN 02/08/2013 BKN @ WAS L 34 14 6 12 50.0 1 4 25.0 1 1 100.0 1 2 3 2 0 0 2 1 -9
+p350
+aVDeron Williams BKN 02/08/2013 BKN @ WAS L 40 20 7 20 35.0 3 6 50.0 3 4 75.0 1 5 6 5 2 0 1 1 -4
+p351
+aVBrook Lopez BKN 02/08/2013 BKN @ WAS L 32 13 3 11 27.3 0 0 - 7 9 77.8 1 7 8 3 0 4 4 1 -11
+p352
+aVAndray Blatche BKN 02/08/2013 BKN @ WAS L 16 5 2 9 22.2 0 1 0.0 1 6 16.7 2 2 4 1 3 0 1 2 -4
+p353
+aVTyshawn Taylor BKN 02/08/2013 BKN @ WAS L 2 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 1 0 0 0 2
+p354
+aVMirza Teletovic BKN 02/08/2013 BKN @ WAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p355
+aVCJ Watson BKN 02/08/2013 BKN @ WAS L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -11
+p356
+aVGerald Wallace BKN 02/08/2013 BKN @ WAS L 28 5 2 5 40.0 0 2 0.0 1 2 50.0 0 4 4 4 1 0 2 2 1
+p357
+aVMarShon Brooks BKN 02/08/2013 BKN @ WAS L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -8
+p358
+aVReggie Evans BKN 02/08/2013 BKN @ WAS L 33 9 3 7 42.9 0 0 - 3 6 50.0 5 8 13 1 1 0 1 2 2
+p359
+aVJoe Johnson BKN 02/06/2013 BKN @ DET W 34 16 5 15 33.3 2 3 66.7 4 4 100.0 1 3 4 1 0 0 0 1 1
+p360
+aVAndray Blatche BKN 02/06/2013 BKN @ DET W 17 7 3 9 33.3 0 0 - 1 2 50.0 2 5 7 2 2 0 2 3 6
+p361
+aVCJ Watson BKN 02/06/2013 BKN @ DET W 13 0 0 5 0.0 0 1 0.0 0 0 - 2 0 2 3 1 0 2 0 0
+p362
+aVMarShon Brooks BKN 02/06/2013 BKN @ DET W 14 8 4 7 57.1 0 0 - 0 0 - 1 0 1 0 1 0 0 3 2
+p363
+aVReggie Evans BKN 02/06/2013 BKN @ DET W 30 10 3 5 60.0 0 0 - 4 7 57.1 4 10 14 0 0 1 1 3 -1
+p364
+aVDeron Williams BKN 02/06/2013 BKN @ DET W 35 12 4 10 40.0 0 2 0.0 4 4 100.0 1 1 2 9 0 2 6 3 3
+p365
+aVKris Humphries BKN 02/06/2013 BKN @ DET W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p366
+aVBrook Lopez BKN 02/06/2013 BKN @ DET W 30 17 8 14 57.1 0 0 - 1 2 50.0 2 7 9 1 0 2 2 3 -3
+p367
+aVKeith Bogans BKN 02/06/2013 BKN @ DET W 29 9 3 6 50.0 2 5 40.0 1 2 50.0 0 3 3 5 2 0 0 0 4
+p368
+aVGerald Wallace BKN 02/06/2013 BKN @ DET W 27 14 4 7 57.1 2 3 66.7 4 4 100.0 1 2 3 1 0 0 0 3 3
+p369
+aVMirza Teletovic BKN 02/06/2013 BKN @ DET W 4 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p370
+aVCJ Watson BKN 02/05/2013 BKN vs. LAL L 12 5 2 7 28.6 1 5 20.0 0 0 - 1 0 1 1 1 1 0 0 -10
+p371
+aVBrook Lopez BKN 02/05/2013 BKN vs. LAL L 40 30 11 25 44.0 0 0 - 8 10 80.0 7 4 11 0 0 3 2 3 2
+p372
+aVAndray Blatche BKN 02/05/2013 BKN vs. LAL L 5 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -4
+p373
+aVKris Humphries BKN 02/05/2013 BKN vs. LAL L 21 4 2 6 33.3 0 0 - 0 0 - 4 5 9 0 0 0 0 2 -11
+p374
+aVKeith Bogans BKN 02/05/2013 BKN vs. LAL L 14 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 1 1 -7
+p375
+aVMarShon Brooks BKN 02/05/2013 BKN vs. LAL L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p376
+aVMirza Teletovic BKN 02/05/2013 BKN vs. LAL L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p377
+aVGerald Wallace BKN 02/05/2013 BKN vs. LAL L 36 9 3 10 30.0 1 5 20.0 2 2 100.0 1 2 3 4 3 0 4 0 -2
+p378
+aVDeron Williams BKN 02/05/2013 BKN vs. LAL L 38 15 5 13 38.5 2 4 50.0 3 5 60.0 1 4 5 6 0 0 5 6 -1
+p379
+aVJoe Johnson BKN 02/05/2013 BKN vs. LAL L 41 11 4 15 26.7 1 4 25.0 2 2 100.0 3 3 6 5 1 0 1 2 -7
+p380
+aVReggie Evans BKN 02/05/2013 BKN vs. LAL L 23 4 2 3 66.7 0 0 - 0 0 - 2 9 11 0 2 1 2 3 3
+p381
+aVReggie Evans BKN 02/01/2013 BKN vs. CHI W 21 8 4 5 80.0 0 0 - 0 2 0.0 2 5 7 1 0 0 1 1 0
+p382
+aVCJ Watson BKN 02/01/2013 BKN vs. CHI W 20 7 2 4 50.0 1 2 50.0 2 2 100.0 0 3 3 0 1 0 1 0 4
+p383
+aVGerald Wallace BKN 02/01/2013 BKN vs. CHI W 41 6 3 4 75.0 0 0 - 0 4 0.0 5 8 13 2 1 0 3 3 8
+p384
+aVAndray Blatche BKN 02/01/2013 BKN vs. CHI W 16 11 5 7 71.4 0 0 - 1 2 50.0 0 3 3 3 1 1 0 4 3
+p385
+aVMarShon Brooks BKN 02/01/2013 BKN vs. CHI W 21 13 5 10 50.0 1 2 50.0 2 2 100.0 1 1 2 3 2 0 2 1 5
+p386
+aVKris Humphries BKN 02/01/2013 BKN vs. CHI W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 0 -4
+p387
+aVDeron Williams BKN 02/01/2013 BKN vs. CHI W 36 11 4 12 33.3 1 3 33.3 2 2 100.0 1 1 2 6 0 1 3 2 -2
+p388
+aVKeith Bogans BKN 02/01/2013 BKN vs. CHI W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 5 -1
+p389
+aVBrook Lopez BKN 02/01/2013 BKN vs. CHI W 29 20 9 16 56.3 0 0 - 2 4 50.0 1 3 4 2 1 1 1 1 0
+p390
+aVJoe Johnson BKN 02/01/2013 BKN vs. CHI W 38 13 6 14 42.9 1 2 50.0 0 0 - 0 3 3 2 1 0 3 1 7
+p391
+aVDeron Williams BKN 01/30/2013 BKN vs. MIA L 34 9 4 9 44.4 0 3 0.0 1 1 100.0 0 1 1 5 1 0 6 2 -22
+p392
+aVMirza Teletovic BKN 01/30/2013 BKN vs. MIA L 14 7 3 8 37.5 1 2 50.0 0 0 - 4 2 6 0 0 0 1 2 -1
+p393
+aVKeith Bogans BKN 01/30/2013 BKN vs. MIA L 22 9 3 6 50.0 3 6 50.0 0 0 - 0 2 2 2 0 0 1 1 -6
+p394
+aVAndray Blatche BKN 01/30/2013 BKN vs. MIA L 24 12 5 5 100.0 0 0 - 2 3 66.7 1 5 6 0 1 1 2 3 -6
+p395
+aVJoe Johnson BKN 01/30/2013 BKN vs. MIA L 37 16 4 15 26.7 1 5 20.0 7 8 87.5 2 1 3 6 0 0 4 0 -11
+p396
+aVCJ Watson BKN 01/30/2013 BKN vs. MIA L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 2 0 0 0 2
+p397
+aVTyshawn Taylor BKN 01/30/2013 BKN vs. MIA L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p398
+aVGerald Wallace BKN 01/30/2013 BKN vs. MIA L 29 6 3 5 60.0 0 0 - 0 0 - 1 1 2 3 0 1 1 0 -25
+p399
+aVMarShon Brooks BKN 01/30/2013 BKN vs. MIA L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 1 1 1 -2
+p400
+aVKris Humphries BKN 01/30/2013 BKN vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p401
+aVReggie Evans BKN 01/30/2013 BKN vs. MIA L 20 0 0 1 0.0 0 0 - 0 2 0.0 0 6 6 0 2 0 1 2 -10
+p402
+aVBrook Lopez BKN 01/30/2013 BKN vs. MIA L 32 21 8 13 61.5 0 0 - 5 6 83.3 2 5 7 2 1 3 2 2 -22
+p403
+aVDeron Williams BKN 01/28/2013 BKN vs. ORL W 34 20 8 12 66.7 4 7 57.1 0 0 - 0 3 3 9 0 1 1 0 11
+p404
+aVMirza Teletovic BKN 01/28/2013 BKN vs. ORL W 12 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 2 1 2
+p405
+aVKeith Bogans BKN 01/28/2013 BKN vs. ORL W 20 12 4 7 57.1 4 7 57.1 0 0 - 0 4 4 0 1 0 1 1 24
+p406
+aVBrook Lopez BKN 01/28/2013 BKN vs. ORL W 28 16 6 8 75.0 0 0 - 4 4 100.0 1 4 5 0 0 1 4 3 18
+p407
+aVCJ Watson BKN 01/28/2013 BKN vs. ORL W 14 5 2 5 40.0 1 4 25.0 0 0 - 2 0 2 3 0 0 0 0 9
+p408
+aVReggie Evans BKN 01/28/2013 BKN vs. ORL W 20 0 0 2 0.0 0 0 - 0 0 - 3 7 10 1 1 0 3 1 -2
+p409
+aVGerald Wallace BKN 01/28/2013 BKN vs. ORL W 26 7 3 3 100.0 1 1 100.0 0 0 - 1 3 4 3 0 0 3 0 0
+p410
+aVAndray Blatche BKN 01/28/2013 BKN vs. ORL W 20 8 3 11 27.3 0 1 0.0 2 3 66.7 1 3 4 0 1 1 2 2 2
+p411
+aVKris Humphries BKN 01/28/2013 BKN vs. ORL W 17 3 0 4 0.0 0 0 - 3 4 75.0 3 4 7 0 1 0 1 3 20
+p412
+aVJoe Johnson BKN 01/28/2013 BKN vs. ORL W 30 13 5 10 50.0 2 4 50.0 1 1 100.0 0 2 2 5 1 0 1 1 14
+p413
+aVTyshawn Taylor BKN 01/28/2013 BKN vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p414
+aVMarShon Brooks BKN 01/28/2013 BKN vs. ORL W 18 8 4 8 50.0 0 2 0.0 0 0 - 1 1 2 1 3 0 2 0 6
+p415
+aVDeron Williams BKN 01/26/2013 BKN @ HOU L 41 27 10 15 66.7 5 9 55.6 2 2 100.0 0 4 4 11 2 2 4 3 -6
+p416
+aVJoe Johnson BKN 01/26/2013 BKN @ HOU L 37 13 5 14 35.7 3 7 42.9 0 0 - 0 3 3 6 0 2 1 1 -13
+p417
+aVCJ Watson BKN 01/26/2013 BKN @ HOU L 20 8 3 6 50.0 2 5 40.0 0 0 - 0 1 1 3 1 0 1 3 -10
+p418
+aVMarShon Brooks BKN 01/26/2013 BKN @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p419
+aVBrook Lopez BKN 01/26/2013 BKN @ HOU L 33 21 6 13 46.2 0 0 - 9 10 90.0 4 3 7 0 0 5 0 3 -4
+p420
+aVJerry Stackhouse BKN 01/26/2013 BKN @ HOU L 8 6 2 3 66.7 1 2 50.0 1 2 50.0 0 0 0 0 0 0 0 0 -8
+p421
+aVReggie Evans BKN 01/26/2013 BKN @ HOU L 25 1 0 4 0.0 0 0 - 1 2 50.0 2 6 8 0 1 0 1 3 -17
+p422
+aVKeith Bogans BKN 01/26/2013 BKN @ HOU L 22 6 2 6 33.3 2 6 33.3 0 0 - 0 3 3 0 0 1 0 3 -8
+p423
+aVMirza Teletovic BKN 01/26/2013 BKN @ HOU L 12 9 3 7 42.9 2 3 66.7 1 1 100.0 1 0 1 0 1 0 1 2 9
+p424
+aVGerald Wallace BKN 01/26/2013 BKN @ HOU L 22 11 4 10 40.0 1 4 25.0 2 2 100.0 0 4 4 0 2 0 1 1 -3
+p425
+aVAndray Blatche BKN 01/26/2013 BKN @ HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -6
+p426
+aVKris Humphries BKN 01/26/2013 BKN @ HOU L 11 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 1
+p427
+aVGerald Wallace BKN 01/25/2013 BKN @ MEM L 24 1 0 3 0.0 0 1 0.0 1 2 50.0 1 2 3 4 1 1 2 2 -5
+p428
+aVKeith Bogans BKN 01/25/2013 BKN @ MEM L 22 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 0 -12
+p429
+aVMirza Teletovic BKN 01/25/2013 BKN @ MEM L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p430
+aVMarShon Brooks BKN 01/25/2013 BKN @ MEM L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 1 -6
+p431
+aVAndray Blatche BKN 01/25/2013 BKN @ MEM L 13 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 0 2 0 2 1 -4
+p432
+aVCJ Watson BKN 01/25/2013 BKN @ MEM L 24 9 3 8 37.5 0 4 0.0 3 3 100.0 0 3 3 1 0 0 0 0 -19
+p433
+aVJoe Johnson BKN 01/25/2013 BKN @ MEM L 32 11 4 10 40.0 1 4 25.0 2 2 100.0 1 1 2 3 0 0 1 0 -18
+p434
+aVReggie Evans BKN 01/25/2013 BKN @ MEM L 32 11 5 7 71.4 0 0 - 1 4 25.0 4 6 10 0 1 0 0 2 -18
+p435
+aVKris Humphries BKN 01/25/2013 BKN @ MEM L 19 2 0 4 0.0 0 1 0.0 2 2 100.0 1 5 6 1 1 2 1 2 -12
+p436
+aVBrook Lopez BKN 01/25/2013 BKN @ MEM L 27 18 8 15 53.3 0 0 - 2 5 40.0 2 2 4 0 0 3 4 1 -14
+p437
+aVDeron Williams BKN 01/25/2013 BKN @ MEM L 29 12 4 10 40.0 1 2 50.0 3 5 60.0 0 5 5 6 0 2 1 2 -12
+p438
+aVAndray Blatche BKN 01/23/2013 BKN @ MIN W 21 9 3 11 27.3 0 0 - 3 4 75.0 2 3 5 0 2 1 1 0 -1
+p439
+aVCJ Watson BKN 01/23/2013 BKN @ MIN W 20 14 6 8 75.0 2 3 66.7 0 0 - 0 3 3 2 1 0 1 3 2
+p440
+aVJoe Johnson BKN 01/23/2013 BKN @ MIN W 37 18 8 16 50.0 2 8 25.0 0 0 - 1 2 3 3 0 0 3 1 12
+p441
+aVDeron Williams BKN 01/23/2013 BKN @ MIN W 34 18 6 12 50.0 2 4 50.0 4 5 80.0 0 6 6 8 3 0 2 4 9
+p442
+aVReggie Evans BKN 01/23/2013 BKN @ MIN W 21 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 0 3 3 11
+p443
+aVMarShon Brooks BKN 01/23/2013 BKN @ MIN W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p444
+aVJerry Stackhouse BKN 01/23/2013 BKN @ MIN W 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p445
+aVKris Humphries BKN 01/23/2013 BKN @ MIN W 21 2 1 5 20.0 0 0 - 0 0 - 4 4 8 2 0 0 1 2 -6
+p446
+aVBrook Lopez BKN 01/23/2013 BKN @ MIN W 26 22 10 16 62.5 0 0 - 2 5 40.0 3 4 7 1 0 2 2 1 9
+p447
+aVKeith Bogans BKN 01/23/2013 BKN @ MIN W 18 0 0 4 0.0 0 4 0.0 0 0 - 1 3 4 1 0 0 0 1 -6
+p448
+aVGerald Wallace BKN 01/23/2013 BKN @ MIN W 30 6 2 6 33.3 0 1 0.0 2 2 100.0 2 1 3 1 3 1 1 1 9
+p449
+aVBrook Lopez BKN 01/21/2013 BKN @ NYK W 34 14 6 13 46.2 0 0 - 2 4 50.0 5 6 11 1 0 4 4 3 -6
+p450
+aVDamion James BKN 01/21/2013 BKN @ NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p451
+aVReggie Evans BKN 01/21/2013 BKN @ NYK W 20 3 1 3 33.3 0 0 - 1 2 50.0 2 7 9 0 0 0 0 1 -2
+p452
+aVDeron Williams BKN 01/21/2013 BKN @ NYK W 38 14 3 10 30.0 2 4 50.0 6 7 85.7 0 5 5 12 0 0 4 3 -8
+p453
+aVGerald Wallace BKN 01/21/2013 BKN @ NYK W 26 8 3 5 60.0 2 3 66.7 0 2 0.0 0 3 3 1 0 0 1 3 -2
+p454
+aVJoe Johnson BKN 01/21/2013 BKN @ NYK W 39 25 8 20 40.0 5 8 62.5 4 4 100.0 0 3 3 5 1 0 2 5 3
+p455
+aVJerry Stackhouse BKN 01/21/2013 BKN @ NYK W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p456
+aVMarShon Brooks BKN 01/21/2013 BKN @ NYK W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 0
+p457
+aVAndray Blatche BKN 01/21/2013 BKN @ NYK W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 2 0 2 2 10
+p458
+aVKris Humphries BKN 01/21/2013 BKN @ NYK W 27 11 5 8 62.5 0 0 - 1 1 100.0 5 8 13 1 0 0 3 2 4
+p459
+aVCJ Watson BKN 01/21/2013 BKN @ NYK W 10 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 11
+p460
+aVKeith Bogans BKN 01/21/2013 BKN @ NYK W 23 8 3 6 50.0 2 4 50.0 0 0 - 0 4 4 0 0 0 1 3 6
+p461
+aVAndray Blatche BKN 01/18/2013 BKN vs. ATL W 16 11 4 5 80.0 0 0 - 3 5 60.0 3 5 8 0 0 0 1 4 5
+p462
+aVReggie Evans BKN 01/18/2013 BKN vs. ATL W 29 2 1 2 50.0 0 0 - 0 4 0.0 5 15 20 1 2 0 2 2 4
+p463
+aVMarShon Brooks BKN 01/18/2013 BKN vs. ATL W 9 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 0 -1
+p464
+aVMirza Teletovic BKN 01/18/2013 BKN vs. ATL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -1
+p465
+aVBrook Lopez BKN 01/18/2013 BKN vs. ATL W 32 20 7 12 58.3 0 0 - 6 8 75.0 2 4 6 2 1 1 3 3 0
+p466
+aVGerald Wallace BKN 01/18/2013 BKN vs. ATL W 29 8 1 6 16.7 1 4 25.0 5 6 83.3 1 2 3 4 1 1 1 3 3
+p467
+aVKris Humphries BKN 01/18/2013 BKN vs. ATL W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 2
+p468
+aVDeron Williams BKN 01/18/2013 BKN vs. ATL W 38 24 7 19 36.8 3 9 33.3 7 7 100.0 0 2 2 7 0 0 4 3 4
+p469
+aVCJ Watson BKN 01/18/2013 BKN vs. ATL W 13 1 0 5 0.0 0 2 0.0 1 2 50.0 0 1 1 1 1 0 1 1 -1
+p470
+aVJoe Johnson BKN 01/18/2013 BKN vs. ATL W 41 18 7 17 41.2 3 7 42.9 1 2 50.0 0 3 3 2 1 0 3 2 7
+p471
+aVKeith Bogans BKN 01/18/2013 BKN vs. ATL W 21 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 0 2 0 0 1 3
+p472
+aVAndray Blatche BKN 01/16/2013 BKN @ ATL L 21 12 6 7 85.7 0 0 - 0 0 - 1 3 4 2 2 1 1 2 -2
+p473
+aVGerald Wallace BKN 01/16/2013 BKN @ ATL L 15 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 1 0 2 0 1
+p474
+aVDeron Williams BKN 01/16/2013 BKN @ ATL L 35 12 5 18 27.8 2 9 22.2 0 0 - 2 3 5 9 0 0 1 5 -18
+p475
+aVKeith Bogans BKN 01/16/2013 BKN @ ATL L 17 0 0 6 0.0 0 6 0.0 0 0 - 0 0 0 0 0 0 1 1 -23
+p476
+aVJerry Stackhouse BKN 01/16/2013 BKN @ ATL L 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 0 3
+p477
+aVKris Humphries BKN 01/16/2013 BKN @ ATL L 18 10 4 8 50.0 0 0 - 2 2 100.0 5 2 7 0 1 0 1 3 5
+p478
+aVReggie Evans BKN 01/16/2013 BKN @ ATL L 22 8 2 3 66.7 0 0 - 4 4 100.0 2 3 5 0 1 0 3 3 -11
+p479
+aVCJ Watson BKN 01/16/2013 BKN @ ATL L 21 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 2 3 0 2 1 1
+p480
+aVMirza Teletovic BKN 01/16/2013 BKN @ ATL L 7 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 -4
+p481
+aVMarShon Brooks BKN 01/16/2013 BKN @ ATL L 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -6
+p482
+aVBrook Lopez BKN 01/16/2013 BKN @ ATL L 29 22 10 14 71.4 0 0 - 2 2 100.0 6 3 9 0 0 1 1 1 -16
+p483
+aVJoe Johnson BKN 01/16/2013 BKN @ ATL L 41 15 4 15 26.7 0 4 0.0 7 7 100.0 0 2 2 2 1 0 0 2 -2
+p484
+aVTyshawn Taylor BKN 01/16/2013 BKN @ ATL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p485
+aVDamion James BKN 01/15/2013 BKN vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p486
+aVJoe Johnson BKN 01/15/2013 BKN vs. TOR W 38 21 9 18 50.0 2 5 40.0 1 1 100.0 3 2 5 5 2 0 0 0 5
+p487
+aVCJ Watson BKN 01/15/2013 BKN vs. TOR W 16 9 2 5 40.0 1 1 100.0 4 4 100.0 0 1 1 1 1 0 0 3 -8
+p488
+aVReggie Evans BKN 01/15/2013 BKN vs. TOR W 22 2 1 3 33.3 0 0 - 0 0 - 0 7 7 0 0 0 2 3 1
+p489
+aVKris Humphries BKN 01/15/2013 BKN vs. TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p490
+aVMirza Teletovic BKN 01/15/2013 BKN vs. TOR W 22 10 3 8 37.5 3 6 50.0 1 2 50.0 3 1 4 3 1 1 1 3 10
+p491
+aVDeron Williams BKN 01/15/2013 BKN vs. TOR W 43 21 6 13 46.2 1 5 20.0 8 8 100.0 0 1 1 7 0 0 2 3 17
+p492
+aVAndray Blatche BKN 01/15/2013 BKN vs. TOR W 19 14 7 10 70.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -6
+p493
+aVJerry Stackhouse BKN 01/15/2013 BKN vs. TOR W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -4
+p494
+aVKeith Bogans BKN 01/15/2013 BKN vs. TOR W 27 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 3 3 0 0 0 11
+p495
+aVBrook Lopez BKN 01/15/2013 BKN vs. TOR W 29 22 6 12 50.0 0 0 - 10 10 100.0 3 6 9 0 1 2 0 1 13
+p496
+aVMarShon Brooks BKN 01/15/2013 BKN vs. TOR W 12 7 3 5 60.0 0 0 - 1 3 33.3 0 2 2 2 1 0 0 2 0
+p497
+aVDeron Williams BKN 01/13/2013 BKN vs. IND W 41 22 7 18 38.9 2 5 40.0 6 6 100.0 1 4 5 9 0 0 3 3 13
+p498
+aVCJ Watson BKN 01/13/2013 BKN vs. IND W 20 8 4 4 100.0 0 0 - 0 0 - 0 4 4 1 1 0 1 2 15
+p499
+aVKris Humphries BKN 01/13/2013 BKN vs. IND W 17 10 4 7 57.1 0 0 - 2 2 100.0 5 4 9 0 0 0 3 2 11
+p500
+aVKeith Bogans BKN 01/13/2013 BKN vs. IND W 22 8 2 4 50.0 1 2 50.0 3 4 75.0 0 3 3 0 1 0 0 1 3
+p501
+aVBrook Lopez BKN 01/13/2013 BKN vs. IND W 29 15 5 14 35.7 0 0 - 5 8 62.5 2 7 9 2 0 2 0 1 12
+p502
+aVTyshawn Taylor BKN 01/13/2013 BKN vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p503
+aVReggie Evans BKN 01/13/2013 BKN vs. IND W 30 2 1 2 50.0 0 0 - 0 0 - 3 3 6 1 1 0 0 3 -2
+p504
+aVJerry Stackhouse BKN 01/13/2013 BKN vs. IND W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -7
+p505
+aVMarShon Brooks BKN 01/13/2013 BKN vs. IND W 13 5 1 5 20.0 0 0 - 3 4 75.0 0 1 1 1 0 1 0 1 4
+p506
+aVJoe Johnson BKN 01/13/2013 BKN vs. IND W 42 20 7 16 43.8 3 6 50.0 3 3 100.0 3 2 5 3 0 0 2 1 7
+p507
+aVAndray Blatche BKN 01/13/2013 BKN vs. IND W 19 5 1 8 12.5 0 0 - 3 4 75.0 2 2 4 2 1 0 1 1 -1
+p508
+aVMarShon Brooks BKN 01/11/2013 BKN vs. PHX W 22 17 5 9 55.6 1 2 50.0 6 6 100.0 0 2 2 1 1 0 1 4 13
+p509
+aVTyshawn Taylor BKN 01/11/2013 BKN vs. PHX W 2 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 4
+p510
+aVReggie Evans BKN 01/11/2013 BKN vs. PHX W 35 7 3 4 75.0 0 0 - 1 6 16.7 5 10 15 0 1 0 2 2 2
+p511
+aVAndray Blatche BKN 01/11/2013 BKN vs. PHX W 24 15 6 14 42.9 0 0 - 3 3 100.0 4 4 8 0 1 0 2 2 11
+p512
+aVJoe Johnson BKN 01/11/2013 BKN vs. PHX W 35 19 8 19 42.1 3 4 75.0 0 0 - 0 4 4 3 1 0 0 1 17
+p513
+aVCJ Watson BKN 01/11/2013 BKN vs. PHX W 23 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 1 2 1 2 1 17
+p514
+aVGerald Wallace BKN 01/11/2013 BKN vs. PHX W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p515
+aVKeith Bogans BKN 01/11/2013 BKN vs. PHX W 20 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 3
+p516
+aVTornike Shengelia BKN 01/11/2013 BKN vs. PHX W 2 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 2
+p517
+aVDeron Williams BKN 01/11/2013 BKN vs. PHX W 35 15 3 5 60.0 2 4 50.0 7 7 100.0 0 3 3 6 2 0 3 2 6
+p518
+aVBrook Lopez BKN 01/11/2013 BKN vs. PHX W 35 13 5 16 31.3 0 0 - 3 4 75.0 3 5 8 0 1 1 1 3 23
+p519
+aVMarShon Brooks BKN 01/08/2013 BKN @ PHI W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -2
+p520
+aVGerald Wallace BKN 01/08/2013 BKN @ PHI W 21 11 3 6 50.0 1 2 50.0 4 6 66.7 2 1 3 5 1 0 1 2 27
+p521
+aVTornike Shengelia BKN 01/08/2013 BKN @ PHI W 5 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 0 -1
+p522
+aVDeron Williams BKN 01/08/2013 BKN @ PHI W 29 22 7 11 63.6 3 6 50.0 5 5 100.0 0 0 0 5 0 1 2 3 24
+p523
+aVKeith Bogans BKN 01/08/2013 BKN @ PHI W 26 6 2 6 33.3 2 6 33.3 0 0 - 0 0 0 0 0 0 0 1 -6
+p524
+aVBrook Lopez BKN 01/08/2013 BKN @ PHI W 23 13 6 10 60.0 0 0 - 1 1 100.0 0 2 2 1 2 0 4 2 26
+p525
+aVAndray Blatche BKN 01/08/2013 BKN @ PHI W 22 20 8 15 53.3 0 0 - 4 4 100.0 1 6 7 2 0 0 0 0 -6
+p526
+aVCJ Watson BKN 01/08/2013 BKN @ PHI W 15 6 3 5 60.0 0 1 0.0 0 1 0.0 0 2 2 2 1 0 1 2 -3
+p527
+aVMirza Teletovic BKN 01/08/2013 BKN @ PHI W 14 8 3 5 60.0 2 3 66.7 0 0 - 3 0 3 0 1 0 0 0 0
+p528
+aVKris Humphries BKN 01/08/2013 BKN @ PHI W 10 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 2 -8
+p529
+aVTyshawn Taylor BKN 01/08/2013 BKN @ PHI W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 3 1 -3
+p530
+aVJoe Johnson BKN 01/08/2013 BKN @ PHI W 33 15 6 13 46.2 2 5 40.0 1 1 100.0 0 4 4 5 1 1 2 0 18
+p531
+aVReggie Evans BKN 01/08/2013 BKN @ PHI W 27 2 1 5 20.0 0 0 - 0 0 - 6 17 23 2 1 0 1 1 24
+p532
+aVMirza Teletovic BKN 01/05/2013 BKN vs. SAC W 21 14 5 10 50.0 2 5 40.0 2 2 100.0 5 1 6 2 0 2 0 3 11
+p533
+aVDeron Williams BKN 01/05/2013 BKN vs. SAC W 27 15 5 8 62.5 1 3 33.3 4 4 100.0 1 5 6 7 0 1 1 0 9
+p534
+aVBrook Lopez BKN 01/05/2013 BKN vs. SAC W 16 18 7 12 58.3 0 0 - 4 4 100.0 3 2 5 2 0 2 1 3 6
+p535
+aVAndray Blatche BKN 01/05/2013 BKN vs. SAC W 27 15 7 11 63.6 0 0 - 1 1 100.0 5 6 11 2 1 2 1 2 13
+p536
+aVJoe Johnson BKN 01/05/2013 BKN vs. SAC W 29 15 6 14 42.9 3 7 42.9 0 0 - 1 1 2 4 0 1 1 1 17
+p537
+aVKeith Bogans BKN 01/05/2013 BKN vs. SAC W 13 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 1 2 2
+p538
+aVTyshawn Taylor BKN 01/05/2013 BKN vs. SAC W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p539
+aVReggie Evans BKN 01/05/2013 BKN vs. SAC W 31 7 3 4 75.0 0 0 - 1 2 50.0 4 8 12 2 0 0 3 3 10
+p540
+aVGerald Wallace BKN 01/05/2013 BKN vs. SAC W 23 8 2 5 40.0 1 3 33.3 3 4 75.0 0 4 4 1 0 1 1 0 14
+p541
+aVCJ Watson BKN 01/05/2013 BKN vs. SAC W 16 2 1 2 50.0 0 1 0.0 0 1 0.0 0 2 2 2 0 0 0 2 13
+p542
+aVTornike Shengelia BKN 01/05/2013 BKN vs. SAC W 5 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 2 0 -2
+p543
+aVMarShon Brooks BKN 01/05/2013 BKN vs. SAC W 26 15 7 14 50.0 0 3 0.0 1 1 100.0 1 1 2 3 1 1 1 2 9
+p544
+aVTyshawn Taylor BKN 01/04/2013 BKN @ WAS W 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 2 0 -5
+p545
+aVMarShon Brooks BKN 01/04/2013 BKN @ WAS W 8 6 3 4 75.0 0 0 - 0 2 0.0 0 1 1 2 0 0 1 1 7
+p546
+aVReggie Evans BKN 01/04/2013 BKN @ WAS W 24 3 1 2 50.0 0 0 - 1 2 50.0 0 8 8 0 1 0 0 6 -15
+p547
+aVMirza Teletovic BKN 01/04/2013 BKN @ WAS W 8 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 0 0 1 0 0 6
+p548
+aVAndray Blatche BKN 01/04/2013 BKN @ WAS W 19 13 6 11 54.5 0 0 - 1 1 100.0 6 6 12 1 4 0 2 4 5
+p549
+aVDeron Williams BKN 01/04/2013 BKN @ WAS W 47 24 9 23 39.1 3 7 42.9 3 3 100.0 0 7 7 10 0 0 4 3 0
+p550
+aVJoe Johnson BKN 01/04/2013 BKN @ WAS W 47 18 7 14 50.0 2 5 40.0 2 4 50.0 0 2 2 3 0 0 2 4 6
+p551
+aVBrook Lopez BKN 01/04/2013 BKN @ WAS W 44 27 8 15 53.3 0 0 - 11 14 78.6 5 8 13 1 1 3 7 5 -1
+p552
+aVGerald Wallace BKN 01/04/2013 BKN @ WAS W 39 7 2 5 40.0 0 1 0.0 3 4 75.0 0 3 3 5 1 3 2 4 -1
+p553
+aVKeith Bogans BKN 01/04/2013 BKN @ WAS W 37 8 3 9 33.3 1 6 16.7 1 1 100.0 1 4 5 0 1 0 0 1 7
+p554
+aVJerry Stackhouse BKN 01/04/2013 BKN @ WAS W 14 3 0 2 0.0 0 2 0.0 3 3 100.0 0 1 1 0 0 0 0 0 1
+p555
+aVGerald Wallace BKN 01/02/2013 BKN @ OKC W 37 6 2 5 40.0 0 1 0.0 2 2 100.0 1 3 4 2 2 0 0 1 11
+p556
+aVMarShon Brooks BKN 01/02/2013 BKN @ OKC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p557
+aVJoe Johnson BKN 01/02/2013 BKN @ OKC W 40 33 11 19 57.9 5 10 50.0 6 6 100.0 1 4 5 3 1 0 1 1 15
+p558
+aVKris Humphries BKN 01/02/2013 BKN @ OKC W 25 11 4 10 40.0 0 0 - 3 4 75.0 3 4 7 1 1 1 2 1 10
+p559
+aVKeith Bogans BKN 01/02/2013 BKN @ OKC W 18 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 1 0 0 2 2 11
+p560
+aVTornike Shengelia BKN 01/02/2013 BKN @ OKC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p561
+aVMirza Teletovic BKN 01/02/2013 BKN @ OKC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p562
+aVTyshawn Taylor BKN 01/02/2013 BKN @ OKC W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p563
+aVAndray Blatche BKN 01/02/2013 BKN @ OKC W 18 10 4 7 57.1 0 0 - 2 2 100.0 1 4 5 1 0 1 1 0 9
+p564
+aVBrook Lopez BKN 01/02/2013 BKN @ OKC W 29 25 11 17 64.7 0 0 - 3 3 100.0 2 3 5 0 2 1 1 1 6
+p565
+aVReggie Evans BKN 01/02/2013 BKN @ OKC W 20 1 0 2 0.0 0 0 - 1 4 25.0 2 4 6 1 0 0 3 2 3
+p566
+aVDeron Williams BKN 01/02/2013 BKN @ OKC W 39 19 5 12 41.7 3 4 75.0 6 6 100.0 0 3 3 13 5 0 2 3 18
+p567
+aVAndray Blatche BKN 12/31/2012 BKN @ SAS L 21 5 1 6 16.7 0 1 0.0 3 4 75.0 1 7 8 2 1 1 2 1 -12
+p568
+aVTornike Shengelia BKN 12/31/2012 BKN @ SAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 2 2 3
+p569
+aVKeith Bogans BKN 12/31/2012 BKN @ SAS L 20 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 2 -24
+p570
+aVJerry Stackhouse BKN 12/31/2012 BKN @ SAS L 19 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 0 -10
+p571
+aVReggie Evans BKN 12/31/2012 BKN @ SAS L 21 4 2 4 50.0 0 0 - 0 0 - 3 6 9 0 0 0 0 2 -23
+p572
+aVCJ Watson BKN 12/31/2012 BKN @ SAS L 12 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 2 1 0 0 0 5
+p573
+aVTyshawn Taylor BKN 12/31/2012 BKN @ SAS L 8 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 1
+p574
+aVJoe Johnson BKN 12/31/2012 BKN @ SAS L 28 12 5 12 41.7 1 4 25.0 1 1 100.0 0 0 0 2 1 0 2 1 -18
+p575
+aVMarShon Brooks BKN 12/31/2012 BKN @ SAS L 19 16 7 12 58.3 1 2 50.0 1 1 100.0 1 1 2 0 0 1 3 5 -15
+p576
+aVMirza Teletovic BKN 12/31/2012 BKN @ SAS L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 0
+p577
+aVDeron Williams BKN 12/31/2012 BKN @ SAS L 28 8 3 11 27.3 1 3 33.3 1 1 100.0 1 1 2 1 4 0 2 1 -35
+p578
+aVBrook Lopez BKN 12/31/2012 BKN @ SAS L 22 11 4 11 36.4 0 0 - 3 4 75.0 4 1 5 2 1 1 3 2 -20
+p579
+aVKris Humphries BKN 12/31/2012 BKN @ SAS L 22 7 2 2 100.0 0 0 - 3 4 75.0 0 3 3 0 0 1 1 0 -7
+p580
+aVDeron Williams BKN 12/29/2012 BKN vs. CLE W 40 15 5 12 41.7 0 3 0.0 5 6 83.3 0 4 4 7 2 0 1 2 5
+p581
+aVMarShon Brooks BKN 12/29/2012 BKN vs. CLE W 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 4
+p582
+aVCJ Watson BKN 12/29/2012 BKN vs. CLE W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -1
+p583
+aVKeith Bogans BKN 12/29/2012 BKN vs. CLE W 19 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 2 1 5
+p584
+aVJoe Johnson BKN 12/29/2012 BKN vs. CLE W 41 15 6 13 46.2 1 4 25.0 2 2 100.0 1 1 2 2 3 0 1 1 14
+p585
+aVBrook Lopez BKN 12/29/2012 BKN vs. CLE W 36 35 13 20 65.0 0 0 - 9 11 81.8 5 6 11 1 0 1 2 5 15
+p586
+aVAndray Blatche BKN 12/29/2012 BKN vs. CLE W 12 7 2 5 40.0 1 1 100.0 2 4 50.0 1 0 1 0 0 1 2 1 -10
+p587
+aVReggie Evans BKN 12/29/2012 BKN vs. CLE W 22 7 1 5 20.0 0 0 - 5 6 83.3 3 7 10 0 3 0 1 3 -8
+p588
+aVGerald Wallace BKN 12/29/2012 BKN vs. CLE W 37 7 1 6 16.7 0 2 0.0 5 8 62.5 2 8 10 3 2 1 2 1 -2
+p589
+aVJerry Stackhouse BKN 12/29/2012 BKN vs. CLE W 18 8 3 5 60.0 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 1 -7
+p590
+aVJoe Johnson BKN 12/28/2012 BKN vs. CHA W 34 16 6 14 42.9 2 8 25.0 2 2 100.0 0 2 2 4 1 0 0 3 17
+p591
+aVDeron Williams BKN 12/28/2012 BKN vs. CHA W 29 19 7 14 50.0 3 5 60.0 2 2 100.0 0 1 1 2 0 0 0 0 32
+p592
+aVKeith Bogans BKN 12/28/2012 BKN vs. CHA W 23 9 3 3 100.0 3 3 100.0 0 0 - 0 2 2 2 0 0 1 3 27
+p593
+aVCJ Watson BKN 12/28/2012 BKN vs. CHA W 19 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 1 1 2 2 -7
+p594
+aVAndray Blatche BKN 12/28/2012 BKN vs. CHA W 14 6 1 2 50.0 0 0 - 4 4 100.0 2 0 2 0 0 1 2 4 -6
+p595
+aVBrook Lopez BKN 12/28/2012 BKN vs. CHA W 27 26 9 12 75.0 0 0 - 8 8 100.0 4 7 11 2 0 3 1 2 30
+p596
+aVReggie Evans BKN 12/28/2012 BKN vs. CHA W 27 5 2 3 66.7 0 0 - 1 2 50.0 5 8 13 0 1 0 1 4 -7
+p597
+aVJerry Stackhouse BKN 12/28/2012 BKN vs. CHA W 9 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 0 1
+p598
+aVGerald Wallace BKN 12/28/2012 BKN vs. CHA W 24 0 0 3 0.0 0 1 0.0 0 2 0.0 0 5 5 6 1 1 2 2 28
+p599
+aVTyshawn Taylor BKN 12/28/2012 BKN vs. CHA W 6 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -7
+p600
+aVMarShon Brooks BKN 12/28/2012 BKN vs. CHA W 20 9 3 8 37.5 0 2 0.0 3 6 50.0 1 2 3 2 1 1 2 2 -13
+p601
+aVMirza Teletovic BKN 12/28/2012 BKN vs. CHA W 7 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 0 1 -8
+p602
+aVJosh Childress BKN 12/28/2012 BKN vs. CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p603
+aVReggie Evans BKN 12/26/2012 BKN @ MIL L 12 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 0 0 1 4 -4
+p604
+aVJerry Stackhouse BKN 12/26/2012 BKN @ MIL L 8 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p605
+aVCJ Watson BKN 12/26/2012 BKN @ MIL L 31 8 2 12 16.7 0 3 0.0 4 4 100.0 0 0 0 2 1 0 1 2 -13
+p606
+aVGerald Wallace BKN 12/26/2012 BKN @ MIL L 34 8 2 8 25.0 0 2 0.0 4 4 100.0 3 9 12 8 2 1 2 3 -9
+p607
+aVBrook Lopez BKN 12/26/2012 BKN @ MIL L 29 21 9 18 50.0 0 0 - 3 5 60.0 7 3 10 1 0 3 1 0 -12
+p608
+aVTyshawn Taylor BKN 12/26/2012 BKN @ MIL L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 2 1 -6
+p609
+aVMirza Teletovic BKN 12/26/2012 BKN @ MIL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p610
+aVTornike Shengelia BKN 12/26/2012 BKN @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p611
+aVKeith Bogans BKN 12/26/2012 BKN @ MIL L 30 11 4 8 50.0 2 5 40.0 1 1 100.0 1 4 5 2 2 0 1 3 -14
+p612
+aVAndray Blatche BKN 12/26/2012 BKN @ MIL L 18 14 5 10 50.0 0 1 0.0 4 5 80.0 2 3 5 0 3 3 3 2 -2
+p613
+aVMarShon Brooks BKN 12/26/2012 BKN @ MIL L 20 5 2 5 40.0 0 1 0.0 1 1 100.0 0 3 3 0 0 0 2 1 -7
+p614
+aVJoe Johnson BKN 12/26/2012 BKN @ MIL L 36 13 5 15 33.3 1 4 25.0 2 2 100.0 1 2 3 3 0 0 2 1 -7
+p615
+aVJerry Stackhouse BKN 12/25/2012 BKN vs. BOS L 17 7 3 8 37.5 1 4 25.0 0 0 - 0 1 1 1 0 0 2 2 -3
+p616
+aVGerald Wallace BKN 12/25/2012 BKN vs. BOS L 28 15 4 7 57.1 0 1 0.0 7 11 63.6 1 5 6 1 3 0 3 3 -16
+p617
+aVJoe Johnson BKN 12/25/2012 BKN vs. BOS L 42 12 4 14 28.6 3 8 37.5 1 3 33.3 0 4 4 2 0 1 2 1 -5
+p618
+aVReggie Evans BKN 12/25/2012 BKN vs. BOS L 15 5 2 3 66.7 0 0 - 1 3 33.3 2 5 7 0 0 0 0 3 -11
+p619
+aVBrook Lopez BKN 12/25/2012 BKN vs. BOS L 37 15 5 12 41.7 0 0 - 5 9 55.6 1 7 8 1 0 2 4 1 1
+p620
+aVMarShon Brooks BKN 12/25/2012 BKN vs. BOS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p621
+aVAndray Blatche BKN 12/25/2012 BKN vs. BOS L 23 6 3 9 33.3 0 0 - 0 0 - 6 1 7 1 1 2 3 3 -10
+p622
+aVMirza Teletovic BKN 12/25/2012 BKN vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p623
+aVDeron Williams BKN 12/25/2012 BKN vs. BOS L 36 10 3 7 42.9 1 3 33.3 3 3 100.0 0 2 2 6 0 0 4 4 -5
+p624
+aVTornike Shengelia BKN 12/25/2012 BKN vs. BOS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p625
+aVCJ Watson BKN 12/25/2012 BKN vs. BOS L 15 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 2 2 0 0 0 -12
+p626
+aVKeith Bogans BKN 12/25/2012 BKN vs. BOS L 15 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -12
+p627
+aVTyshawn Taylor BKN 12/25/2012 BKN vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p628
+aVAndray Blatche BKN 12/23/2012 BKN vs. PHI W 21 10 4 7 57.1 0 1 0.0 2 2 100.0 1 3 4 0 2 1 0 1 -1
+p629
+aVGerald Wallace BKN 12/23/2012 BKN vs. PHI W 37 14 3 7 42.9 1 2 50.0 7 8 87.5 1 8 9 6 2 0 2 0 -2
+p630
+aVCJ Watson BKN 12/23/2012 BKN vs. PHI W 14 2 1 3 33.3 0 2 0.0 0 1 0.0 0 3 3 0 0 0 0 0 4
+p631
+aVBrook Lopez BKN 12/23/2012 BKN vs. PHI W 27 14 5 14 35.7 0 0 - 4 6 66.7 3 4 7 0 0 1 0 1 4
+p632
+aVKeith Bogans BKN 12/23/2012 BKN vs. PHI W 35 13 5 6 83.3 3 4 75.0 0 0 - 0 2 2 3 1 0 0 0 4
+p633
+aVJoe Johnson BKN 12/23/2012 BKN vs. PHI W 40 22 8 17 47.1 3 5 60.0 3 6 50.0 2 5 7 2 1 0 3 0 2
+p634
+aVJerry Stackhouse BKN 12/23/2012 BKN vs. PHI W 13 4 2 8 25.0 0 5 0.0 0 0 - 0 0 0 1 1 0 1 1 -5
+p635
+aVDeron Williams BKN 12/23/2012 BKN vs. PHI W 38 16 5 11 45.5 1 3 33.3 5 7 71.4 1 5 6 5 0 1 1 5 8
+p636
+aVReggie Evans BKN 12/23/2012 BKN vs. PHI W 11 0 0 1 0.0 0 0 - 0 0 - 3 1 4 0 0 0 1 3 5
+p637
+aVTornike Shengelia BKN 12/23/2012 BKN vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -4
+p638
+aVKeith Bogans BKN 12/19/2012 BKN @ NYK L 21 11 4 6 66.7 3 5 60.0 0 0 - 0 0 0 1 0 0 1 2 -8
+p639
+aVAndray Blatche BKN 12/19/2012 BKN @ NYK L 16 7 3 5 60.0 0 1 0.0 1 2 50.0 0 2 2 0 1 1 1 1 -4
+p640
+aVTyshawn Taylor BKN 12/19/2012 BKN @ NYK L 2 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 4
+p641
+aVKris Humphries BKN 12/19/2012 BKN @ NYK L 18 0 0 3 0.0 0 0 - 0 0 - 2 7 9 0 0 0 0 2 -8
+p642
+aVReggie Evans BKN 12/19/2012 BKN @ NYK L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 2
+p643
+aVCJ Watson BKN 12/19/2012 BKN @ NYK L 26 7 3 9 33.3 1 5 20.0 0 0 - 0 1 1 3 0 0 2 1 -7
+p644
+aVTornike Shengelia BKN 12/19/2012 BKN @ NYK L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p645
+aVJoe Johnson BKN 12/19/2012 BKN @ NYK L 40 17 5 14 35.7 3 5 60.0 4 4 100.0 1 1 2 3 1 0 2 2 -9
+p646
+aVMarShon Brooks BKN 12/19/2012 BKN @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p647
+aVMirza Teletovic BKN 12/19/2012 BKN @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p648
+aVGerald Wallace BKN 12/19/2012 BKN @ NYK L 37 6 2 7 28.6 1 3 33.3 1 2 50.0 1 4 5 1 0 0 0 3 -23
+p649
+aVBrook Lopez BKN 12/19/2012 BKN @ NYK L 29 16 8 18 44.4 0 0 - 0 0 - 4 6 10 1 1 1 0 1 -10
+p650
+aVDeron Williams BKN 12/19/2012 BKN @ NYK L 36 16 7 12 58.3 2 6 33.3 0 0 - 1 4 5 10 0 0 5 1 -19
+p651
+aVReggie Evans BKN 12/18/2012 BKN vs. UTA L 20 1 0 4 0.0 0 0 - 1 2 50.0 4 3 7 1 1 0 0 2 7
+p652
+aVDeron Williams BKN 12/18/2012 BKN vs. UTA L 35 14 5 12 41.7 0 3 0.0 4 6 66.7 0 2 2 5 1 0 3 3 -10
+p653
+aVKris Humphries BKN 12/18/2012 BKN vs. UTA L 28 8 3 5 60.0 0 0 - 2 2 100.0 6 5 11 1 0 0 2 2 -11
+p654
+aVKeith Bogans BKN 12/18/2012 BKN vs. UTA L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p655
+aVAndray Blatche BKN 12/18/2012 BKN vs. UTA L 16 8 4 7 57.1 0 0 - 0 0 - 1 3 4 2 0 0 3 4 -1
+p656
+aVMarShon Brooks BKN 12/18/2012 BKN vs. UTA L 16 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 11
+p657
+aVCJ Watson BKN 12/18/2012 BKN vs. UTA L 14 9 3 6 50.0 3 4 75.0 0 0 - 0 1 1 1 1 0 0 2 10
+p658
+aVJoe Johnson BKN 12/18/2012 BKN vs. UTA L 40 21 7 15 46.7 3 6 50.0 4 4 100.0 1 3 4 2 2 0 1 1 6
+p659
+aVGerald Wallace BKN 12/18/2012 BKN vs. UTA L 33 11 5 10 50.0 1 2 50.0 0 1 0.0 0 3 3 3 1 0 2 1 -12
+p660
+aVBrook Lopez BKN 12/18/2012 BKN vs. UTA L 30 16 5 12 41.7 0 0 - 6 7 85.7 0 5 5 0 2 3 0 1 -3
+p661
+aVReggie Evans BKN 12/15/2012 BKN @ CHI L 22 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 1 0 1 4 -11
+p662
+aVAndray Blatche BKN 12/15/2012 BKN @ CHI L 23 9 4 11 36.4 0 1 0.0 1 2 50.0 3 3 6 1 3 1 2 1 -4
+p663
+aVKris Humphries BKN 12/15/2012 BKN @ CHI L 17 6 2 5 40.0 0 1 0.0 2 2 100.0 1 3 4 0 0 0 0 2 2
+p664
+aVCJ Watson BKN 12/15/2012 BKN @ CHI L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 5
+p665
+aVKeith Bogans BKN 12/15/2012 BKN @ CHI L 18 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 3 -2
+p666
+aVGerald Wallace BKN 12/15/2012 BKN @ CHI L 38 6 2 6 33.3 2 4 50.0 0 0 - 1 8 9 2 0 4 1 2 8
+p667
+aVBrook Lopez BKN 12/15/2012 BKN @ CHI L 25 18 8 17 47.1 0 0 - 2 2 100.0 5 5 10 0 1 2 2 1 5
+p668
+aVJoe Johnson BKN 12/15/2012 BKN @ CHI L 39 16 7 16 43.8 0 4 0.0 2 3 66.7 1 1 2 5 1 0 6 3 -6
+p669
+aVDeron Williams BKN 12/15/2012 BKN @ CHI L 36 24 5 13 38.5 4 7 57.1 10 13 76.9 1 1 2 5 2 1 4 1 -10
+p670
+aVMarShon Brooks BKN 12/15/2012 BKN @ CHI L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 8
+p671
+aVKeith Bogans BKN 12/14/2012 BKN vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p672
+aVReggie Evans BKN 12/14/2012 BKN vs. DET W 34 0 0 1 0.0 0 0 - 0 0 - 5 5 10 2 2 1 1 6 -3
+p673
+aVDeron Williams BKN 12/14/2012 BKN vs. DET W 43 17 7 17 41.2 3 7 42.9 0 0 - 0 4 4 6 2 0 5 1 -1
+p674
+aVGerald Wallace BKN 12/14/2012 BKN vs. DET W 50 25 9 15 60.0 3 6 50.0 4 4 100.0 2 8 10 1 2 2 3 2 11
+p675
+aVMarShon Brooks BKN 12/14/2012 BKN vs. DET W 17 6 1 5 20.0 0 3 0.0 4 4 100.0 0 2 2 1 0 1 1 2 -14
+p676
+aVKris Humphries BKN 12/14/2012 BKN vs. DET W 16 0 0 5 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 3 -16
+p677
+aVAndray Blatche BKN 12/14/2012 BKN vs. DET W 24 16 7 12 58.3 0 0 - 2 4 50.0 1 1 2 1 2 1 0 6 3
+p678
+aVJoe Johnson BKN 12/14/2012 BKN vs. DET W 52 28 12 22 54.5 2 7 28.6 2 3 66.7 0 4 4 5 0 0 1 1 8
+p679
+aVCJ Watson BKN 12/14/2012 BKN vs. DET W 25 6 2 6 33.3 2 3 66.7 0 0 - 0 1 1 4 0 0 0 2 17
+p680
+aVBrook Lopez BKN 12/14/2012 BKN vs. DET W 24 9 4 10 40.0 0 0 - 1 1 100.0 1 3 4 0 0 3 0 1 4
+p681
+aVAndray Blatche BKN 12/12/2012 BKN @ TOR W 33 14 7 14 50.0 0 0 - 0 0 - 3 6 9 3 1 0 2 5 -2
+p682
+aVJoe Johnson BKN 12/12/2012 BKN @ TOR W 43 23 7 14 50.0 4 6 66.7 5 6 83.3 0 2 2 4 0 0 3 0 12
+p683
+aVMirza Teletovic BKN 12/12/2012 BKN @ TOR W 6 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 0 0 1
+p684
+aVCJ Watson BKN 12/12/2012 BKN @ TOR W 24 16 4 7 57.1 4 4 100.0 4 4 100.0 0 6 6 3 2 0 0 2 9
+p685
+aVMarShon Brooks BKN 12/12/2012 BKN @ TOR W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 2 1 -2
+p686
+aVKris Humphries BKN 12/12/2012 BKN @ TOR W 18 11 1 1 100.0 0 0 - 9 10 90.0 0 2 2 0 0 0 1 2 7
+p687
+aVReggie Evans BKN 12/12/2012 BKN @ TOR W 34 9 3 3 100.0 0 0 - 3 4 75.0 5 6 11 0 1 0 3 2 10
+p688
+aVKeith Bogans BKN 12/12/2012 BKN @ TOR W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -2
+p689
+aVDeron Williams BKN 12/12/2012 BKN @ TOR W 38 12 5 16 31.3 2 6 33.3 0 0 - 0 2 2 4 0 0 3 2 1
+p690
+aVGerald Wallace BKN 12/12/2012 BKN @ TOR W 25 9 2 5 40.0 0 0 - 5 11 45.5 0 1 1 3 1 0 2 0 -4
+p691
+aVAndray Blatche BKN 12/11/2012 BKN vs. NYK L 29 23 9 13 69.2 0 1 0.0 5 6 83.3 0 4 4 0 2 0 2 4 9
+p692
+aVJoe Johnson BKN 12/11/2012 BKN vs. NYK L 40 16 7 14 50.0 2 6 33.3 0 0 - 1 4 5 4 0 2 0 2 0
+p693
+aVCJ Watson BKN 12/11/2012 BKN vs. NYK L 14 7 3 5 60.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 0 -4
+p694
+aVDeron Williams BKN 12/11/2012 BKN vs. NYK L 39 18 6 16 37.5 1 6 16.7 5 6 83.3 0 2 2 10 1 0 1 5 -2
+p695
+aVKris Humphries BKN 12/11/2012 BKN vs. NYK L 8 2 0 0 - 0 0 - 2 4 50.0 1 1 2 0 0 0 0 2 -5
+p696
+aVReggie Evans BKN 12/11/2012 BKN vs. NYK L 33 5 2 4 50.0 0 0 - 1 3 33.3 2 16 18 0 1 1 3 2 6
+p697
+aVJerry Stackhouse BKN 12/11/2012 BKN vs. NYK L 21 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -11
+p698
+aVMarShon Brooks BKN 12/11/2012 BKN vs. NYK L 13 9 4 7 57.1 0 2 0.0 1 1 100.0 0 0 0 2 0 0 0 1 -4
+p699
+aVGerald Wallace BKN 12/11/2012 BKN vs. NYK L 43 17 5 8 62.5 0 2 0.0 7 8 87.5 1 3 4 4 1 0 3 4 -4
+p700
+aVGerald Wallace BKN 12/09/2012 BKN vs. MIL L 41 16 6 12 50.0 0 3 0.0 4 6 66.7 3 13 16 3 1 1 2 2 -4
+p701
+aVReggie Evans BKN 12/09/2012 BKN vs. MIL L 27 5 2 3 66.7 0 0 - 1 2 50.0 4 5 9 1 4 0 5 1 -11
+p702
+aVJerry Stackhouse BKN 12/09/2012 BKN vs. MIL L 16 9 3 10 30.0 3 7 42.9 0 0 - 0 0 0 1 0 1 1 1 -7
+p703
+aVDeron Williams BKN 12/09/2012 BKN vs. MIL L 38 18 8 19 42.1 1 7 14.3 1 2 50.0 1 1 2 8 0 0 3 4 -12
+p704
+aVJosh Childress BKN 12/09/2012 BKN vs. MIL L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p705
+aVJoe Johnson BKN 12/09/2012 BKN vs. MIL L 30 6 2 8 25.0 1 3 33.3 1 2 50.0 0 1 1 4 0 0 3 1 -3
+p706
+aVKris Humphries BKN 12/09/2012 BKN vs. MIL L 25 4 2 8 25.0 0 0 - 0 0 - 1 6 7 1 0 2 3 2 1
+p707
+aVMirza Teletovic BKN 12/09/2012 BKN vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p708
+aVMarShon Brooks BKN 12/09/2012 BKN vs. MIL L 21 14 4 5 80.0 1 1 100.0 5 5 100.0 0 1 1 1 2 0 1 5 16
+p709
+aVAndray Blatche BKN 12/09/2012 BKN vs. MIL L 21 11 3 7 42.9 0 0 - 5 6 83.3 2 4 6 1 2 1 2 1 -16
+p710
+aVCJ Watson BKN 12/09/2012 BKN vs. MIL L 15 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 2 0 0 0 1 0
+p711
+aVReggie Evans BKN 12/07/2012 BKN vs. GSW L 18 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -5
+p712
+aVAndray Blatche BKN 12/07/2012 BKN vs. GSW L 35 22 8 13 61.5 1 1 100.0 5 9 55.6 7 8 15 2 4 0 2 2 1
+p713
+aVJosh Childress BKN 12/07/2012 BKN vs. GSW L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p714
+aVKeith Bogans BKN 12/07/2012 BKN vs. GSW L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p715
+aVJerry Stackhouse BKN 12/07/2012 BKN vs. GSW L 19 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 3 0 0 0 2 -5
+p716
+aVGerald Wallace BKN 12/07/2012 BKN vs. GSW L 37 8 3 8 37.5 1 3 33.3 1 2 50.0 1 5 6 4 1 2 4 0 0
+p717
+aVDeron Williams BKN 12/07/2012 BKN vs. GSW L 41 23 8 22 36.4 2 10 20.0 5 6 83.3 1 4 5 8 0 1 3 3 -5
+p718
+aVJoe Johnson BKN 12/07/2012 BKN vs. GSW L 39 32 12 23 52.2 4 9 44.4 4 4 100.0 1 4 5 1 0 1 1 0 3
+p719
+aVMarShon Brooks BKN 12/07/2012 BKN vs. GSW L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p720
+aVKris Humphries BKN 12/07/2012 BKN vs. GSW L 23 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 2 0 0 0 2 -5
+p721
+aVMirza Teletovic BKN 12/07/2012 BKN vs. GSW L 6 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 0 0 0 2 1 -1
+p722
+aVCJ Watson BKN 12/07/2012 BKN vs. GSW L 11 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 3 0 0 0 0 0
+p723
+aVJoe Johnson BKN 12/04/2012 BKN vs. OKC L 43 17 8 21 38.1 1 7 14.3 0 0 - 2 1 3 3 0 0 2 1 2
+p724
+aVAndray Blatche BKN 12/04/2012 BKN vs. OKC L 26 19 7 15 46.7 0 0 - 5 5 100.0 8 3 11 1 3 0 1 5 -8
+p725
+aVJerry Stackhouse BKN 12/04/2012 BKN vs. OKC L 30 8 2 6 33.3 2 6 33.3 2 2 100.0 0 1 1 4 0 0 3 3 10
+p726
+aVMirza Teletovic BKN 12/04/2012 BKN vs. OKC L 11 8 3 6 50.0 2 5 40.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p727
+aVKris Humphries BKN 12/04/2012 BKN vs. OKC L 36 12 5 9 55.6 0 0 - 2 4 50.0 4 8 12 0 1 0 2 3 -8
+p728
+aVJosh Childress BKN 12/04/2012 BKN vs. OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p729
+aVDeron Williams BKN 12/04/2012 BKN vs. OKC L 42 33 10 20 50.0 5 9 55.6 8 10 80.0 0 4 4 7 1 1 2 5 -4
+p730
+aVKeith Bogans BKN 12/04/2012 BKN vs. OKC L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -8
+p731
+aVMarShon Brooks BKN 12/04/2012 BKN vs. OKC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p732
+aVCJ Watson BKN 12/04/2012 BKN vs. OKC L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p733
+aVGerald Wallace BKN 12/04/2012 BKN vs. OKC L 37 14 4 11 36.4 4 7 57.1 2 2 100.0 2 5 7 3 2 0 1 4 -2
+p734
+aVJosh Childress BKN 12/01/2012 BKN @ MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p735
+aVKeith Bogans BKN 12/01/2012 BKN @ MIA L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 2 -2
+p736
+aVKris Humphries BKN 12/01/2012 BKN @ MIA L 23 11 4 8 50.0 0 0 - 3 4 75.0 2 5 7 1 1 2 0 2 -4
+p737
+aVDeron Williams BKN 12/01/2012 BKN @ MIA L 39 10 3 11 27.3 1 4 25.0 3 5 60.0 0 1 1 12 2 0 4 2 -11
+p738
+aVReggie Evans BKN 12/01/2012 BKN @ MIA L 14 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 1 1 3 -4
+p739
+aVJoe Johnson BKN 12/01/2012 BKN @ MIA L 34 12 5 14 35.7 2 9 22.2 0 2 0.0 0 1 1 3 0 0 4 3 -7
+p740
+aVJerry Stackhouse BKN 12/01/2012 BKN @ MIA L 24 11 5 11 45.5 0 4 0.0 1 1 100.0 1 2 3 0 1 1 2 1 -15
+p741
+aVAndray Blatche BKN 12/01/2012 BKN @ MIA L 34 20 8 12 66.7 0 0 - 4 7 57.1 4 4 8 0 1 0 1 1 1
+p742
+aVMirza Teletovic BKN 12/01/2012 BKN @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p743
+aVGerald Wallace BKN 12/01/2012 BKN @ MIA L 38 13 5 11 45.5 1 6 16.7 2 4 50.0 1 8 9 2 1 0 4 4 -10
+p744
+aVTyshawn Taylor BKN 12/01/2012 BKN @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p745
+aVCJ Watson BKN 12/01/2012 BKN @ MIA L 15 10 2 5 40.0 2 4 50.0 4 4 100.0 0 3 3 0 0 0 0 3 -9
+p746
+aVTyshawn Taylor BKN 11/30/2012 BKN @ ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p747
+aVReggie Evans BKN 11/30/2012 BKN @ ORL W 26 5 2 4 50.0 0 0 - 1 2 50.0 5 5 10 0 2 0 2 2 7
+p748
+aVMirza Teletovic BKN 11/30/2012 BKN @ ORL W 9 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 2 -7
+p749
+aVJoe Johnson BKN 11/30/2012 BKN @ ORL W 34 22 10 16 62.5 2 4 50.0 0 0 - 0 0 0 5 0 1 1 1 14
+p750
+aVJosh Childress BKN 11/30/2012 BKN @ ORL W 9 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -9
+p751
+aVGerald Wallace BKN 11/30/2012 BKN @ ORL W 32 20 7 9 77.8 5 6 83.3 1 2 50.0 0 4 4 3 0 1 0 1 17
+p752
+aVKeith Bogans BKN 11/30/2012 BKN @ ORL W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 0 3
+p753
+aVMarShon Brooks BKN 11/30/2012 BKN @ ORL W 6 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -3
+p754
+aVAndray Blatche BKN 11/30/2012 BKN @ ORL W 28 14 6 14 42.9 0 0 - 2 2 100.0 2 7 9 3 0 1 1 3 19
+p755
+aVKris Humphries BKN 11/30/2012 BKN @ ORL W 33 11 4 12 33.3 0 0 - 3 3 100.0 3 4 7 0 0 2 0 4 5
+p756
+aVDeron Williams BKN 11/30/2012 BKN @ ORL W 30 11 4 9 44.4 1 3 33.3 2 2 100.0 0 4 4 7 0 1 2 3 18
+p757
+aVCJ Watson BKN 11/30/2012 BKN @ ORL W 16 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 1 0 0 0 1 2
+p758
+aVGerald Wallace BKN 11/28/2012 BKN @ BOS W 18 5 2 10 20.0 1 4 25.0 0 0 - 1 1 2 3 3 0 2 2 3
+p759
+aVJerry Stackhouse BKN 11/28/2012 BKN @ BOS W 22 17 5 6 83.3 5 6 83.3 2 2 100.0 1 0 1 1 3 0 1 2 15
+p760
+aVAndray Blatche BKN 11/28/2012 BKN @ BOS W 29 17 7 14 50.0 0 0 - 3 4 75.0 8 5 13 1 2 0 3 5 9
+p761
+aVKeith Bogans BKN 11/28/2012 BKN @ BOS W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -2
+p762
+aVCJ Watson BKN 11/28/2012 BKN @ BOS W 19 13 3 7 42.9 0 4 0.0 7 10 70.0 1 1 2 0 0 0 1 1 1
+p763
+aVKris Humphries BKN 11/28/2012 BKN @ BOS W 13 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 2 0 2 -3
+p764
+aVReggie Evans BKN 11/28/2012 BKN @ BOS W 34 5 2 4 50.0 0 0 - 1 3 33.3 4 6 10 2 2 0 2 3 12
+p765
+aVJoe Johnson BKN 11/28/2012 BKN @ BOS W 41 18 6 14 42.9 3 6 50.0 3 4 75.0 0 4 4 6 1 0 1 0 16
+p766
+aVBrook Lopez BKN 11/28/2012 BKN @ BOS W 17 9 4 10 40.0 0 0 - 1 1 100.0 1 9 10 1 1 0 2 5 5
+p767
+aVDeron Williams BKN 11/28/2012 BKN @ BOS W 40 8 3 12 25.0 1 3 33.3 1 3 33.3 0 4 4 7 0 1 1 2 4
+p768
+aVJosh Childress BKN 11/26/2012 BKN vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p769
+aVReggie Evans BKN 11/26/2012 BKN vs. NYK W 18 4 2 3 66.7 0 0 - 0 0 - 6 8 14 1 0 0 1 1 9
+p770
+aVJerry Stackhouse BKN 11/26/2012 BKN vs. NYK W 22 14 4 6 66.7 4 5 80.0 2 2 100.0 0 1 1 1 0 0 0 0 13
+p771
+aVGerald Wallace BKN 11/26/2012 BKN vs. NYK W 42 16 6 13 46.2 2 5 40.0 2 4 50.0 1 4 5 2 2 2 0 4 -3
+p772
+aVKris Humphries BKN 11/26/2012 BKN vs. NYK W 19 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 1 -2
+p773
+aVJoe Johnson BKN 11/26/2012 BKN vs. NYK W 44 8 3 12 25.0 1 4 25.0 1 1 100.0 0 4 4 3 0 0 2 2 0
+p774
+aVDeron Williams BKN 11/26/2012 BKN vs. NYK W 43 16 6 17 35.3 1 6 16.7 3 4 75.0 1 5 6 14 3 0 4 4 8
+p775
+aVAndray Blatche BKN 11/26/2012 BKN vs. NYK W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 7
+p776
+aVCJ Watson BKN 11/26/2012 BKN vs. NYK W 10 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 1 0 0 1 1 -1
+p777
+aVBrook Lopez BKN 11/26/2012 BKN vs. NYK W 38 22 9 20 45.0 0 0 - 4 5 80.0 7 4 11 0 0 5 3 5 -2
+p778
+aVKeith Bogans BKN 11/26/2012 BKN vs. NYK W 20 6 2 8 25.0 1 5 20.0 1 3 33.3 2 1 3 0 0 0 1 2 4
+p779
+aVTyshawn Taylor BKN 11/25/2012 BKN vs. POR W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p780
+aVKris Humphries BKN 11/25/2012 BKN vs. POR W 24 14 7 9 77.8 0 0 - 0 1 0.0 4 6 10 1 2 1 1 1 10
+p781
+aVJoe Johnson BKN 11/25/2012 BKN vs. POR W 38 21 10 19 52.6 1 4 25.0 0 1 0.0 1 0 1 4 1 0 3 0 17
+p782
+aVCJ Watson BKN 11/25/2012 BKN vs. POR W 13 5 2 6 33.3 1 2 50.0 0 0 - 1 0 1 3 1 0 1 1 3
+p783
+aVGerald Wallace BKN 11/25/2012 BKN vs. POR W 27 2 1 8 12.5 0 3 0.0 0 0 - 0 1 1 0 1 0 0 1 7
+p784
+aVKeith Bogans BKN 11/25/2012 BKN vs. POR W 18 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 1 -1
+p785
+aVMarShon Brooks BKN 11/25/2012 BKN vs. POR W 13 4 2 5 40.0 0 0 - 0 2 0.0 1 2 3 3 0 0 2 0 3
+p786
+aVAndray Blatche BKN 11/25/2012 BKN vs. POR W 20 13 3 11 27.3 0 1 0.0 7 8 87.5 6 2 8 1 0 2 0 0 -8
+p787
+aVJosh Childress BKN 11/25/2012 BKN vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p788
+aVDeron Williams BKN 11/25/2012 BKN vs. POR W 33 15 4 13 30.8 2 5 40.0 5 6 83.3 0 2 2 12 3 4 1 0 11
+p789
+aVBrook Lopez BKN 11/25/2012 BKN vs. POR W 28 15 7 14 50.0 0 0 - 1 1 100.0 2 6 8 0 0 2 2 3 21
+p790
+aVReggie Evans BKN 11/25/2012 BKN vs. POR W 23 2 0 1 0.0 0 0 - 2 2 100.0 2 12 14 2 1 0 1 3 4
+p791
+aVKris Humphries BKN 11/23/2012 BKN vs. LAC W 24 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 1 0 0 1 3 -1
+p792
+aVDeron Williams BKN 11/23/2012 BKN vs. LAC W 37 11 3 10 30.0 1 5 20.0 4 4 100.0 2 1 3 8 1 0 3 4 8
+p793
+aVJoe Johnson BKN 11/23/2012 BKN vs. LAC W 39 19 8 12 66.7 1 2 50.0 2 2 100.0 0 1 1 0 0 0 3 2 9
+p794
+aVBrook Lopez BKN 11/23/2012 BKN vs. LAC W 33 26 13 24 54.2 0 0 - 0 1 0.0 1 4 5 1 0 3 0 4 8
+p795
+aVGerald Wallace BKN 11/23/2012 BKN vs. LAC W 38 8 3 6 50.0 1 2 50.0 1 4 25.0 1 3 4 3 2 0 2 2 6
+p796
+aVJerry Stackhouse BKN 11/23/2012 BKN vs. LAC W 6 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 1 -1
+p797
+aVAndray Blatche BKN 11/23/2012 BKN vs. LAC W 15 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 1 0 3 3 2
+p798
+aVCJ Watson BKN 11/23/2012 BKN vs. LAC W 11 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 0 2
+p799
+aVReggie Evans BKN 11/23/2012 BKN vs. LAC W 22 6 1 2 50.0 0 0 - 4 6 66.7 4 8 12 2 1 0 1 1 13
+p800
+aVKeith Bogans BKN 11/23/2012 BKN vs. LAC W 15 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 1 2 4
+p801
+aVTyshawn Taylor BKN 11/21/2012 BKN @ GSW L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p802
+aVKris Humphries BKN 11/21/2012 BKN @ GSW L 27 10 5 6 83.3 0 0 - 0 0 - 1 5 6 1 0 1 0 1 -6
+p803
+aVTornike Shengelia BKN 11/21/2012 BKN @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p804
+aVJoe Johnson BKN 11/21/2012 BKN @ GSW L 38 13 5 13 38.5 3 5 60.0 0 0 - 0 1 1 6 0 1 2 3 -7
+p805
+aVDeron Williams BKN 11/21/2012 BKN @ GSW L 35 9 4 12 33.3 0 5 0.0 1 1 100.0 1 2 3 8 0 0 2 2 2
+p806
+aVMarShon Brooks BKN 11/21/2012 BKN @ GSW L 10 9 4 8 50.0 0 1 0.0 1 2 50.0 2 0 2 0 2 0 1 2 -1
+p807
+aVReggie Evans BKN 11/21/2012 BKN @ GSW L 14 1 0 1 0.0 0 0 - 1 2 50.0 3 2 5 1 0 0 1 1 -6
+p808
+aVJosh Childress BKN 11/21/2012 BKN @ GSW L 18 8 3 5 60.0 1 2 50.0 1 2 50.0 2 2 4 2 1 1 0 1 -8
+p809
+aVCJ Watson BKN 11/21/2012 BKN @ GSW L 20 2 0 5 0.0 0 4 0.0 2 2 100.0 0 1 1 3 1 0 0 1 -8
+p810
+aVKeith Bogans BKN 11/21/2012 BKN @ GSW L 22 6 2 3 66.7 2 3 66.7 0 0 - 1 2 3 0 0 0 0 1 -7
+p811
+aVBrook Lopez BKN 11/21/2012 BKN @ GSW L 28 22 10 16 62.5 0 0 - 2 3 66.7 1 2 3 0 1 3 0 2 -7
+p812
+aVMirza Teletovic BKN 11/21/2012 BKN @ GSW L 7 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p813
+aVAndray Blatche BKN 11/21/2012 BKN @ GSW L 19 11 4 10 40.0 0 1 0.0 3 3 100.0 3 4 7 4 2 0 2 2 -4
+p814
+aVGerald Wallace BKN 11/20/2012 BKN @ LAL L 29 7 2 7 28.6 0 3 0.0 3 4 75.0 2 3 5 2 5 3 2 4 1
+p815
+aVBrook Lopez BKN 11/20/2012 BKN @ LAL L 37 23 11 18 61.1 0 0 - 1 3 33.3 3 4 7 3 1 0 4 4 -5
+p816
+aVReggie Evans BKN 11/20/2012 BKN @ LAL L 19 0 0 0 - 0 0 - 0 0 - 4 7 11 0 0 0 1 3 0
+p817
+aVJoe Johnson BKN 11/20/2012 BKN @ LAL L 41 14 6 16 37.5 2 7 28.6 0 0 - 0 3 3 6 0 0 1 2 -8
+p818
+aVKris Humphries BKN 11/20/2012 BKN @ LAL L 27 7 2 10 20.0 0 0 - 3 4 75.0 3 7 10 0 0 0 1 5 -3
+p819
+aVJosh Childress BKN 11/20/2012 BKN @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p820
+aVJerry Stackhouse BKN 11/20/2012 BKN @ LAL L 15 5 2 3 66.7 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 0 -1
+p821
+aVMarShon Brooks BKN 11/20/2012 BKN @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 4
+p822
+aVAndray Blatche BKN 11/20/2012 BKN @ LAL L 11 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 1 2 0
+p823
+aVDeron Williams BKN 11/20/2012 BKN @ LAL L 37 22 6 18 33.3 3 9 33.3 7 8 87.5 1 3 4 10 1 0 0 5 -18
+p824
+aVCJ Watson BKN 11/20/2012 BKN @ LAL L 19 8 3 7 42.9 2 3 66.7 0 0 - 1 0 1 3 0 0 1 0 5
+p825
+aVAndray Blatche BKN 11/18/2012 BKN @ SAC W 19 22 11 12 91.7 0 0 - 0 1 0.0 2 0 2 1 0 0 0 0 2
+p826
+aVTyshawn Taylor BKN 11/18/2012 BKN @ SAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p827
+aVKris Humphries BKN 11/18/2012 BKN @ SAC W 26 6 3 6 50.0 0 0 - 0 0 - 3 7 10 0 3 2 0 3 10
+p828
+aVCJ Watson BKN 11/18/2012 BKN @ SAC W 23 13 4 7 57.1 3 4 75.0 2 2 100.0 0 0 0 3 1 0 0 2 5
+p829
+aVJerry Stackhouse BKN 11/18/2012 BKN @ SAC W 15 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 0 0 0 1 0 17
+p830
+aVGerald Wallace BKN 11/18/2012 BKN @ SAC W 24 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 3 1 0 4 2 -11
+p831
+aVDeron Williams BKN 11/18/2012 BKN @ SAC W 33 14 4 12 33.3 1 5 20.0 5 5 100.0 0 5 5 10 2 0 2 2 8
+p832
+aVMarShon Brooks BKN 11/18/2012 BKN @ SAC W 12 14 5 6 83.3 1 1 100.0 3 3 100.0 0 1 1 1 0 0 0 0 13
+p833
+aVJoe Johnson BKN 11/18/2012 BKN @ SAC W 36 10 1 10 10.0 0 3 0.0 8 9 88.9 0 2 2 3 0 0 1 1 -4
+p834
+aVReggie Evans BKN 11/18/2012 BKN @ SAC W 22 3 1 1 100.0 0 0 - 1 1 100.0 1 3 4 1 0 0 1 5 -2
+p835
+aVBrook Lopez BKN 11/18/2012 BKN @ SAC W 28 13 5 14 35.7 0 0 - 3 4 75.0 1 4 5 0 1 4 1 2 8
+p836
+aVJoe Johnson BKN 11/15/2012 BKN vs. BOS W 35 19 6 19 31.6 2 7 28.6 5 6 83.3 3 5 8 4 2 0 1 1 11
+p837
+aVDeron Williams BKN 11/15/2012 BKN vs. BOS W 38 24 6 17 35.3 3 6 50.0 9 9 100.0 1 2 3 8 1 1 4 1 15
+p838
+aVKeith Bogans BKN 11/15/2012 BKN vs. BOS W 18 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 2 3 9
+p839
+aVMarShon Brooks BKN 11/15/2012 BKN vs. BOS W 6 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 1
+p840
+aVAndray Blatche BKN 11/15/2012 BKN vs. BOS W 12 7 3 9 33.3 0 0 - 1 1 100.0 4 1 5 1 0 1 1 2 -11
+p841
+aVBrook Lopez BKN 11/15/2012 BKN vs. BOS W 35 24 11 14 78.6 0 0 - 2 5 40.0 4 2 6 0 0 4 0 0 21
+p842
+aVJosh Childress BKN 11/15/2012 BKN vs. BOS W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p843
+aVKris Humphries BKN 11/15/2012 BKN vs. BOS W 27 10 3 8 37.5 0 0 - 4 4 100.0 3 10 13 1 0 1 0 3 18
+p844
+aVCJ Watson BKN 11/15/2012 BKN vs. BOS W 20 5 2 8 25.0 1 4 25.0 0 0 - 1 0 1 2 2 0 2 2 -18
+p845
+aVReggie Evans BKN 11/15/2012 BKN vs. BOS W 22 3 1 2 50.0 0 0 - 1 2 50.0 2 7 9 0 1 0 1 4 -17
+p846
+aVJerry Stackhouse BKN 11/15/2012 BKN vs. BOS W 21 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 2 1 0 0 1 8
+p847
+aVBrook Lopez BKN 11/13/2012 BKN vs. CLE W 29 23 10 14 71.4 0 0 - 3 5 60.0 2 5 7 1 1 4 2 4 -2
+p848
+aVDeron Williams BKN 11/13/2012 BKN vs. CLE W 36 26 10 20 50.0 1 6 16.7 5 5 100.0 1 1 2 10 1 0 3 2 -7
+p849
+aVKeith Bogans BKN 11/13/2012 BKN vs. CLE W 11 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 3 0 0 1 1 0
+p850
+aVJerry Stackhouse BKN 11/13/2012 BKN vs. CLE W 15 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 10
+p851
+aVTornike Shengelia BKN 11/13/2012 BKN vs. CLE W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p852
+aVReggie Evans BKN 11/13/2012 BKN vs. CLE W 21 2 0 0 - 0 0 - 2 2 100.0 3 5 8 1 1 0 1 1 9
+p853
+aVCJ Watson BKN 11/13/2012 BKN vs. CLE W 28 7 2 7 28.6 1 3 33.3 2 2 100.0 1 0 1 2 1 0 0 3 10
+p854
+aVJoe Johnson BKN 11/13/2012 BKN vs. CLE W 39 25 9 16 56.3 3 9 33.3 4 5 80.0 0 5 5 6 1 1 3 2 18
+p855
+aVKris Humphries BKN 11/13/2012 BKN vs. CLE W 27 12 4 5 80.0 0 0 - 4 6 66.7 3 3 6 1 0 1 1 5 4
+p856
+aVJosh Childress BKN 11/13/2012 BKN vs. CLE W 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 0 1 6
+p857
+aVAndray Blatche BKN 11/13/2012 BKN vs. CLE W 19 13 4 7 57.1 0 0 - 5 6 83.3 1 4 5 1 0 3 2 2 15
+p858
+aVJoe Johnson BKN 11/11/2012 BKN vs. ORL W 41 13 3 13 23.1 2 5 40.0 5 6 83.3 1 2 3 4 1 0 1 0 12
+p859
+aVAndray Blatche BKN 11/11/2012 BKN vs. ORL W 12 2 1 6 16.7 0 0 - 0 0 - 1 6 7 0 0 1 2 2 4
+p860
+aVDeron Williams BKN 11/11/2012 BKN vs. ORL W 36 17 5 12 41.7 3 7 42.9 4 6 66.7 0 7 7 7 0 2 3 2 0
+p861
+aVKeith Bogans BKN 11/11/2012 BKN vs. ORL W 18 0 0 5 0.0 0 4 0.0 0 0 - 1 2 3 3 0 0 0 0 10
+p862
+aVJerry Stackhouse BKN 11/11/2012 BKN vs. ORL W 15 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 0 1 0 2 12
+p863
+aVTyshawn Taylor BKN 11/11/2012 BKN vs. ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p864
+aVBrook Lopez BKN 11/11/2012 BKN vs. ORL W 35 20 9 18 50.0 0 0 - 2 2 100.0 1 2 3 3 0 3 7 3 4
+p865
+aVKris Humphries BKN 11/11/2012 BKN vs. ORL W 34 14 6 11 54.5 0 0 - 2 2 100.0 6 15 21 0 0 1 1 5 -1
+p866
+aVCJ Watson BKN 11/11/2012 BKN vs. ORL W 24 7 2 9 22.2 1 7 14.3 2 3 66.7 0 1 1 1 2 0 0 2 -1
+p867
+aVReggie Evans BKN 11/11/2012 BKN vs. ORL W 14 4 1 1 100.0 0 0 - 2 6 33.3 2 5 7 0 2 0 1 1 9
+p868
+aVJosh Childress BKN 11/11/2012 BKN vs. ORL W 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -9
+p869
+aVAndray Blatche BKN 11/09/2012 BKN @ ORL W 24 15 5 13 38.5 0 0 - 5 8 62.5 4 5 9 4 1 1 1 0 21
+p870
+aVTyshawn Taylor BKN 11/09/2012 BKN @ ORL W 9 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 0 2 0 2 1 7
+p871
+aVJosh Childress BKN 11/09/2012 BKN @ ORL W 26 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 1 0 0 0 19
+p872
+aVKris Humphries BKN 11/09/2012 BKN @ ORL W 20 8 3 7 42.9 0 0 - 2 2 100.0 2 6 8 1 0 1 1 2 12
+p873
+aVReggie Evans BKN 11/09/2012 BKN @ ORL W 20 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 0 0 1 3 17
+p874
+aVBrook Lopez BKN 11/09/2012 BKN @ ORL W 24 14 5 7 71.4 0 0 - 4 7 57.1 3 7 10 1 0 3 1 1 18
+p875
+aVJerry Stackhouse BKN 11/09/2012 BKN @ ORL W 10 11 4 9 44.4 3 6 50.0 0 0 - 1 1 2 1 0 0 0 0 21
+p876
+aVJoe Johnson BKN 11/09/2012 BKN @ ORL W 29 13 5 11 45.5 2 5 40.0 1 1 100.0 1 2 3 4 1 0 1 0 24
+p877
+aVKeith Bogans BKN 11/09/2012 BKN @ ORL W 17 5 2 6 33.3 1 5 20.0 0 0 - 0 2 2 0 0 0 0 1 13
+p878
+aVMirza Teletovic BKN 11/09/2012 BKN @ ORL W 7 5 2 4 50.0 1 2 50.0 0 0 - 0 5 5 2 1 0 0 1 5
+p879
+aVCJ Watson BKN 11/09/2012 BKN @ ORL W 18 9 4 5 80.0 1 2 50.0 0 0 - 1 0 1 1 2 1 1 1 23
+p880
+aVDeron Williams BKN 11/09/2012 BKN @ ORL W 29 12 5 8 62.5 0 2 0.0 2 2 100.0 0 0 0 4 1 0 3 1 10
+p881
+aVTornike Shengelia BKN 11/09/2012 BKN @ ORL W 7 6 2 2 100.0 1 1 100.0 1 3 33.3 0 0 0 0 0 0 0 2 5
+p882
+aVKris Humphries BKN 11/07/2012 BKN @ MIA L 24 11 4 8 50.0 0 0 - 3 6 50.0 5 6 11 1 0 0 1 2 -12
+p883
+aVAndray Blatche BKN 11/07/2012 BKN @ MIA L 21 4 2 8 25.0 0 0 - 0 0 - 2 6 8 0 1 0 2 2 -19
+p884
+aVReggie Evans BKN 11/07/2012 BKN @ MIA L 13 5 1 1 100.0 0 0 - 3 4 75.0 2 3 5 0 0 0 1 2 -6
+p885
+aVKeith Bogans BKN 11/07/2012 BKN @ MIA L 21 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 1 0 0 2 -12
+p886
+aVMirza Teletovic BKN 11/07/2012 BKN @ MIA L 17 3 1 8 12.5 1 7 14.3 0 0 - 1 0 1 1 0 0 0 0 -18
+p887
+aVJoe Johnson BKN 11/07/2012 BKN @ MIA L 32 9 4 14 28.6 1 3 33.3 0 0 - 0 2 2 1 2 0 0 1 -19
+p888
+aVDeron Williams BKN 11/07/2012 BKN @ MIA L 31 14 7 15 46.7 0 4 0.0 0 0 - 0 1 1 3 1 0 7 3 -18
+p889
+aVTornike Shengelia BKN 11/07/2012 BKN @ MIA L 12 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 2 0 -7
+p890
+aVBrook Lopez BKN 11/07/2012 BKN @ MIA L 21 8 4 8 50.0 0 0 - 0 1 0.0 2 5 7 1 0 1 0 1 -5
+p891
+aVCJ Watson BKN 11/07/2012 BKN @ MIA L 25 2 1 5 20.0 0 4 0.0 0 0 - 1 0 1 2 1 0 3 1 -16
+p892
+aVTyshawn Taylor BKN 11/07/2012 BKN @ MIA L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p893
+aVMarShon Brooks BKN 11/07/2012 BKN @ MIA L 19 12 5 7 71.4 0 0 - 2 4 50.0 0 1 1 2 1 0 3 1 -14
+p894
+aVJoe Johnson BKN 11/05/2012 BKN vs. MIN L 41 19 8 18 44.4 3 5 60.0 0 0 - 1 0 1 2 0 0 1 1 -7
+p895
+aVKris Humphries BKN 11/05/2012 BKN vs. MIN L 23 2 1 2 50.0 0 0 - 0 1 0.0 0 4 4 1 0 1 3 2 7
+p896
+aVMarShon Brooks BKN 11/05/2012 BKN vs. MIN L 21 11 4 7 57.1 1 1 100.0 2 2 100.0 2 2 4 1 1 0 0 2 -14
+p897
+aVBrook Lopez BKN 11/05/2012 BKN vs. MIN L 32 13 5 14 35.7 0 0 - 3 5 60.0 0 8 8 0 1 2 1 0 -2
+p898
+aVKeith Bogans BKN 11/05/2012 BKN vs. MIN L 14 9 3 5 60.0 3 4 75.0 0 0 - 0 1 1 1 1 0 1 2 3
+p899
+aVMirza Teletovic BKN 11/05/2012 BKN vs. MIN L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 1 0 0 0 -12
+p900
+aVCJ Watson BKN 11/05/2012 BKN vs. MIN L 26 10 4 8 50.0 2 4 50.0 0 0 - 1 1 2 4 1 0 2 5 -18
+p901
+aVDeron Williams BKN 11/05/2012 BKN vs. MIN L 38 18 5 12 41.7 3 7 42.9 5 6 83.3 1 1 2 13 1 0 4 2 -10
+p902
+aVReggie Evans BKN 11/05/2012 BKN vs. MIN L 16 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -1
+p903
+aVAndray Blatche BKN 11/05/2012 BKN vs. MIN L 15 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 1 0 1 0 1 -5
+p904
+aVTyshawn Taylor BKN 11/05/2012 BKN vs. MIN L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 4
+p905
+aVKeith Bogans BKN 11/03/2012 BKN vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p906
+aVAndray Blatche BKN 11/03/2012 BKN vs. TOR W 15 7 3 8 37.5 0 1 0.0 1 2 50.0 1 1 2 0 0 0 1 3 2
+p907
+aVKris Humphries BKN 11/03/2012 BKN vs. TOR W 23 5 1 5 20.0 0 0 - 3 4 75.0 0 5 5 1 0 0 0 1 6
+p908
+aVMarShon Brooks BKN 11/03/2012 BKN vs. TOR W 18 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 4 5
+p909
+aVDeron Williams BKN 11/03/2012 BKN vs. TOR W 39 19 6 14 42.9 1 5 20.0 6 8 75.0 0 1 1 9 0 0 4 1 2
+p910
+aVCJ Watson BKN 11/03/2012 BKN vs. TOR W 28 15 6 9 66.7 3 4 75.0 0 0 - 2 0 2 1 1 2 3 0 5
+p911
+aVGerald Wallace BKN 11/03/2012 BKN vs. TOR W 30 10 4 8 50.0 1 3 33.3 1 2 50.0 0 6 6 4 2 0 2 3 -2
+p912
+aVBrook Lopez BKN 11/03/2012 BKN vs. TOR W 32 27 8 17 47.1 0 0 - 11 15 73.3 2 3 5 0 1 1 1 2 3
+p913
+aVReggie Evans BKN 11/03/2012 BKN vs. TOR W 16 2 1 2 50.0 0 0 - 0 0 - 2 11 13 0 1 1 2 3 -2
+p914
+aVJoe Johnson BKN 11/03/2012 BKN vs. TOR W 40 14 5 13 38.5 1 2 50.0 3 4 75.0 2 3 5 4 1 0 3 2 13
+p915
+a.

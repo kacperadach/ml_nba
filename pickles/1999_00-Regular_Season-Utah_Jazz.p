@@ -1,0 +1,1814 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVArmen Gilliam UTA 04/19/2000 UTA vs. SAC W 25 9 4 11 36.4 0 0 - 1 2 50.0 1 7 8 0 0 2 1 2 4
+p2
+aVAdam Keefe UTA 04/19/2000 UTA vs. SAC W 14 2 1 2 50.0 0 0 - 0 0 - 3 5 8 1 1 0 2 2 3
+p3
+aVQuincy Lewis UTA 04/19/2000 UTA vs. SAC W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 0 0 2 4 6
+p4
+aVGreg Ostertag UTA 04/19/2000 UTA vs. SAC W 20 10 3 5 60.0 0 1 0.0 4 4 100.0 2 5 7 0 0 1 0 0 -7
+p5
+aVBryon Russell UTA 04/19/2000 UTA vs. SAC W 25 10 4 11 36.4 0 1 0.0 2 2 100.0 0 3 3 0 1 0 2 4 5
+p6
+aVJohn Stockton UTA 04/19/2000 UTA vs. SAC W 21 8 4 5 80.0 0 0 - 0 0 - 0 0 0 9 3 1 0 4 11
+p7
+aVJacque Vaughn UTA 04/19/2000 UTA vs. SAC W 19 8 3 8 37.5 0 1 0.0 2 2 100.0 1 1 2 5 0 0 2 1 4
+p8
+aVHoward Eisley UTA 04/19/2000 UTA vs. SAC W 20 4 2 8 25.0 0 0 - 0 0 - 1 2 3 2 0 0 3 1 -6
+p9
+aVJeff Hornacek UTA 04/19/2000 UTA vs. SAC W 24 18 6 11 54.5 3 5 60.0 3 3 100.0 2 5 7 3 2 0 4 2 3
+p10
+aVScott Padgett UTA 04/19/2000 UTA vs. SAC W 18 4 2 6 33.3 0 1 0.0 0 0 - 2 1 3 0 2 0 0 0 9
+p11
+aVOlden Polynice UTA 04/19/2000 UTA vs. SAC W 19 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 0 1 3 1 5 8
+p12
+aVKarl Malone UTA 04/19/2000 UTA vs. SAC W 23 18 5 11 45.5 0 0 - 8 9 88.9 4 4 8 2 0 0 2 2 5
+p13
+aVScott Padgett UTA 04/18/2000 UTA @ DEN L 29 13 4 10 40.0 3 5 60.0 2 4 50.0 1 3 4 2 0 0 3 2 1
+p14
+aVHoward Eisley UTA 04/18/2000 UTA @ DEN L 18 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 4 1 0 2 0 -2
+p15
+aVArmen Gilliam UTA 04/18/2000 UTA @ DEN L 28 12 5 10 50.0 0 0 - 2 2 100.0 4 3 7 1 0 0 2 3 -1
+p16
+aVKarl Malone UTA 04/18/2000 UTA @ DEN L 18 10 5 10 50.0 0 0 - 0 0 - 0 4 4 3 1 0 5 3 1
+p17
+aVQuincy Lewis UTA 04/18/2000 UTA @ DEN L 20 10 4 10 40.0 2 3 66.7 0 0 - 1 0 1 1 0 0 1 1 -1
+p18
+aVBryon Russell UTA 04/18/2000 UTA @ DEN L 20 10 5 8 62.5 0 1 0.0 0 0 - 1 3 4 1 2 0 1 0 -5
+p19
+aVJohn Stockton UTA 04/18/2000 UTA @ DEN L 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 7 1 0 1 3 2
+p20
+aVJeff Hornacek UTA 04/18/2000 UTA @ DEN L 15 9 3 5 60.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 1 1
+p21
+aVJacque Vaughn UTA 04/18/2000 UTA @ DEN L 38 12 3 5 60.0 0 0 - 6 6 100.0 0 3 3 9 1 0 3 2 -2
+p22
+aVGreg Ostertag UTA 04/18/2000 UTA @ DEN L 22 4 0 6 0.0 0 0 - 4 4 100.0 5 8 13 1 0 4 3 6 -6
+p23
+aVOlden Polynice UTA 04/18/2000 UTA @ DEN L 11 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 0 0 0 4 1
+p24
+aVAdam Keefe UTA 04/18/2000 UTA @ DEN L 31 9 4 7 57.1 0 0 - 1 1 100.0 3 6 9 0 1 3 1 2 6
+p25
+aVOlden Polynice UTA 04/16/2000 UTA @ PHX W 22 9 3 4 75.0 0 0 - 3 4 75.0 2 1 3 0 1 0 1 1 13
+p26
+aVAdam Keefe UTA 04/16/2000 UTA @ PHX W 15 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 1 0 0 2 1 1
+p27
+aVQuincy Lewis UTA 04/16/2000 UTA @ PHX W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p28
+aVScott Padgett UTA 04/16/2000 UTA @ PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p29
+aVArmen Gilliam UTA 04/16/2000 UTA @ PHX W 25 9 4 8 50.0 0 0 - 1 2 50.0 5 4 9 0 0 0 0 1 1
+p30
+aVJacque Vaughn UTA 04/16/2000 UTA @ PHX W 5 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -8
+p31
+aVGreg Ostertag UTA 04/16/2000 UTA @ PHX W 9 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 3 0 0 -2
+p32
+aVHoward Eisley UTA 04/16/2000 UTA @ PHX W 20 5 1 5 20.0 1 2 50.0 2 2 100.0 0 2 2 5 0 0 3 3 0
+p33
+aVJohn Stockton UTA 04/16/2000 UTA @ PHX W 35 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 9 3 0 1 2 23
+p34
+aVBryon Russell UTA 04/16/2000 UTA @ PHX W 34 16 6 7 85.7 2 2 100.0 2 4 50.0 3 5 8 2 2 0 3 5 11
+p35
+aVJeff Hornacek UTA 04/16/2000 UTA @ PHX W 34 13 6 12 50.0 1 2 50.0 0 0 - 0 1 1 3 1 0 3 4 18
+p36
+aVKarl Malone UTA 04/16/2000 UTA @ PHX W 38 32 11 24 45.8 0 0 - 10 13 76.9 4 11 15 4 3 2 1 0 23
+p37
+aVGreg Ostertag UTA 04/15/2000 UTA @ SAS L 18 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 6 -15
+p38
+aVAdam Keefe UTA 04/15/2000 UTA @ SAS L 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 2 2 -1
+p39
+aVQuincy Lewis UTA 04/15/2000 UTA @ SAS L 17 11 4 6 66.7 0 1 0.0 3 4 75.0 3 1 4 1 1 1 1 4 -5
+p40
+aVJacque Vaughn UTA 04/15/2000 UTA @ SAS L 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -9
+p41
+aVJeff Hornacek UTA 04/15/2000 UTA @ SAS L 26 13 6 11 54.5 1 3 33.3 0 0 - 3 1 4 0 0 1 2 3 -21
+p42
+aVKarl Malone UTA 04/15/2000 UTA @ SAS L 32 23 7 16 43.8 0 0 - 9 10 90.0 2 9 11 2 0 1 3 1 -13
+p43
+aVScott Padgett UTA 04/15/2000 UTA @ SAS L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 1 0 1 2 -1
+p44
+aVArmen Gilliam UTA 04/15/2000 UTA @ SAS L 10 3 1 6 16.7 0 0 - 1 2 50.0 0 2 2 2 0 0 2 2 -11
+p45
+aVJohn Stockton UTA 04/15/2000 UTA @ SAS L 29 11 3 7 42.9 0 0 - 5 5 100.0 2 1 3 5 2 0 3 1 -10
+p46
+aVHoward Eisley UTA 04/15/2000 UTA @ SAS L 27 6 3 10 30.0 0 3 0.0 0 0 - 0 2 2 1 0 0 1 2 -4
+p47
+aVOlden Polynice UTA 04/15/2000 UTA @ SAS L 24 6 3 6 50.0 0 0 - 0 0 - 2 1 3 0 1 2 0 2 -7
+p48
+aVBryon Russell UTA 04/15/2000 UTA @ SAS L 31 4 2 9 22.2 0 3 0.0 0 0 - 2 2 4 2 0 0 2 2 -18
+p49
+aVGreg Ostertag UTA 04/12/2000 UTA vs. LAC W 26 2 0 4 0.0 0 0 - 2 2 100.0 4 3 7 0 0 4 2 3 2
+p50
+aVJohn Stockton UTA 04/12/2000 UTA vs. LAC W 30 15 2 5 40.0 0 1 0.0 11 13 84.6 0 4 4 7 1 0 1 3 17
+p51
+aVArmen Gilliam UTA 04/12/2000 UTA vs. LAC W 16 6 1 6 16.7 0 1 0.0 4 5 80.0 1 4 5 0 1 1 0 1 -7
+p52
+aVKarl Malone UTA 04/12/2000 UTA vs. LAC W 32 27 8 11 72.7 0 0 - 11 13 84.6 1 6 7 2 1 0 1 3 16
+p53
+aVQuincy Lewis UTA 04/12/2000 UTA vs. LAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p54
+aVHoward Eisley UTA 04/12/2000 UTA vs. LAC W 34 10 5 9 55.6 0 1 0.0 0 0 - 0 2 2 6 1 0 2 4 9
+p55
+aVBryon Russell UTA 04/12/2000 UTA vs. LAC W 35 16 7 13 53.8 2 4 50.0 0 2 0.0 1 4 5 2 0 1 4 0 2
+p56
+aVJeff Hornacek UTA 04/12/2000 UTA vs. LAC W 14 8 4 8 50.0 0 0 - 0 0 - 0 0 0 5 0 0 2 2 0
+p57
+aVOlden Polynice UTA 04/12/2000 UTA vs. LAC W 22 13 6 9 66.7 0 0 - 1 2 50.0 3 2 5 0 3 1 0 2 7
+p58
+aVJacque Vaughn UTA 04/12/2000 UTA vs. LAC W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 3
+p59
+aVAdam Keefe UTA 04/12/2000 UTA vs. LAC W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 -15
+p60
+aVScott Padgett UTA 04/12/2000 UTA vs. LAC W 10 3 1 4 25.0 0 1 0.0 1 2 50.0 1 3 4 0 0 0 0 2 7
+p61
+aVGreg Ostertag UTA 04/10/2000 UTA vs. POR L 25 4 0 0 - 0 0 - 4 6 66.7 0 5 5 0 0 5 1 3 6
+p62
+aVOlden Polynice UTA 04/10/2000 UTA vs. POR L 23 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 0 1 0 3 2 -11
+p63
+aVBryon Russell UTA 04/10/2000 UTA vs. POR L 43 18 4 13 30.8 2 7 28.6 8 11 72.7 3 2 5 1 1 1 0 4 2
+p64
+aVArmen Gilliam UTA 04/10/2000 UTA vs. POR L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 1
+p65
+aVAdam Keefe UTA 04/10/2000 UTA vs. POR L 4 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 0 1 1 4
+p66
+aVJeff Hornacek UTA 04/10/2000 UTA vs. POR L 21 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 3 3 -10
+p67
+aVJacque Vaughn UTA 04/10/2000 UTA vs. POR L 7 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 2 1
+p68
+aVQuincy Lewis UTA 04/10/2000 UTA vs. POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p69
+aVJohn Stockton UTA 04/10/2000 UTA vs. POR L 40 18 6 10 60.0 0 1 0.0 6 6 100.0 0 3 3 9 1 0 3 4 0
+p70
+aVKarl Malone UTA 04/10/2000 UTA vs. POR L 38 29 9 18 50.0 1 2 50.0 10 12 83.3 5 9 14 1 1 0 2 3 -5
+p71
+aVHoward Eisley UTA 04/10/2000 UTA vs. POR L 25 10 4 8 50.0 2 6 33.3 0 0 - 0 4 4 2 0 0 1 2 -2
+p72
+aVQuincy Lewis UTA 04/09/2000 UTA @ HOU L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 2 0 0 1 -3
+p73
+aVGreg Ostertag UTA 04/09/2000 UTA @ HOU L 30 7 2 5 40.0 0 0 - 3 3 100.0 4 5 9 0 0 3 1 3 -10
+p74
+aVAdam Keefe UTA 04/09/2000 UTA @ HOU L 5 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 5
+p75
+aVJohn Stockton UTA 04/09/2000 UTA @ HOU L 34 23 9 19 47.4 1 4 25.0 4 4 100.0 3 0 3 7 1 0 3 3 -5
+p76
+aVKarl Malone UTA 04/09/2000 UTA @ HOU L 35 20 8 19 42.1 0 0 - 4 4 100.0 1 4 5 4 2 0 1 1 -4
+p77
+aVScott Padgett UTA 04/09/2000 UTA @ HOU L 10 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 2
+p78
+aVArmen Gilliam UTA 04/09/2000 UTA @ HOU L 15 9 3 7 42.9 0 0 - 3 4 75.0 2 2 4 1 1 0 1 0 -9
+p79
+aVBryon Russell UTA 04/09/2000 UTA @ HOU L 35 16 6 15 40.0 0 4 0.0 4 6 66.7 4 6 10 4 1 0 0 4 -14
+p80
+aVOlden Polynice UTA 04/09/2000 UTA @ HOU L 15 1 0 1 0.0 0 0 - 1 2 50.0 0 5 5 0 1 1 0 3 3
+p81
+aVJacque Vaughn UTA 04/09/2000 UTA @ HOU L 16 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 0 -4
+p82
+aVHoward Eisley UTA 04/09/2000 UTA @ HOU L 36 4 2 9 22.2 0 1 0.0 0 0 - 0 0 0 2 2 0 1 6 -6
+p83
+aVBryon Russell UTA 04/07/2000 UTA @ GSW W 31 17 6 12 50.0 2 5 40.0 3 4 75.0 1 5 6 1 3 1 3 2 7
+p84
+aVScott Padgett UTA 04/07/2000 UTA @ GSW W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p85
+aVKarl Malone UTA 04/07/2000 UTA @ GSW W 27 19 7 9 77.8 0 0 - 5 6 83.3 0 6 6 3 1 1 2 1 20
+p86
+aVHoward Eisley UTA 04/07/2000 UTA @ GSW W 37 13 6 8 75.0 1 2 50.0 0 0 - 0 1 1 6 2 0 5 2 17
+p87
+aVQuincy Lewis UTA 04/07/2000 UTA @ GSW W 19 5 1 4 25.0 1 3 33.3 2 2 100.0 0 0 0 1 0 0 2 3 11
+p88
+aVGreg Ostertag UTA 04/07/2000 UTA @ GSW W 20 6 2 5 40.0 0 0 - 2 2 100.0 2 7 9 1 0 2 0 1 7
+p89
+aVAdam Keefe UTA 04/07/2000 UTA @ GSW W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 3
+p90
+aVOlden Polynice UTA 04/07/2000 UTA @ GSW W 23 6 3 7 42.9 0 0 - 0 0 - 2 2 4 0 1 1 0 3 11
+p91
+aVJacque Vaughn UTA 04/07/2000 UTA @ GSW W 25 9 3 12 25.0 1 2 50.0 2 4 50.0 1 1 2 4 2 0 2 2 1
+p92
+aVArmen Gilliam UTA 04/07/2000 UTA @ GSW W 21 8 3 7 42.9 0 0 - 2 2 100.0 2 5 7 2 0 0 4 2 1
+p93
+aVJohn Stockton UTA 04/07/2000 UTA @ GSW W 28 14 4 6 66.7 1 2 50.0 5 6 83.3 1 3 4 10 0 0 1 2 28
+p94
+aVJeff Hornacek UTA 04/06/2000 UTA vs. PHX W 20 12 5 11 45.5 2 3 66.7 0 0 - 0 2 2 2 1 0 1 0 14
+p95
+aVGreg Ostertag UTA 04/06/2000 UTA vs. PHX W 17 5 1 3 33.3 0 0 - 3 4 75.0 2 3 5 1 0 2 0 3 8
+p96
+aVJohn Stockton UTA 04/06/2000 UTA vs. PHX W 25 4 2 5 40.0 0 0 - 0 0 - 0 4 4 7 5 0 3 2 20
+p97
+aVBryon Russell UTA 04/06/2000 UTA vs. PHX W 33 11 4 14 28.6 1 5 20.0 2 2 100.0 0 3 3 3 2 2 0 2 19
+p98
+aVKarl Malone UTA 04/06/2000 UTA vs. PHX W 24 19 7 13 53.8 0 0 - 5 5 100.0 3 3 6 4 1 0 0 2 17
+p99
+aVAdam Keefe UTA 04/06/2000 UTA vs. PHX W 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -6
+p100
+aVScott Padgett UTA 04/06/2000 UTA vs. PHX W 6 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 -6
+p101
+aVQuincy Lewis UTA 04/06/2000 UTA vs. PHX W 17 8 3 5 60.0 1 1 100.0 1 2 50.0 1 1 2 1 0 0 0 4 4
+p102
+aVOlden Polynice UTA 04/06/2000 UTA vs. PHX W 24 12 5 9 55.6 0 0 - 2 5 40.0 7 7 14 0 0 3 1 3 20
+p103
+aVArmen Gilliam UTA 04/06/2000 UTA vs. PHX W 17 14 5 10 50.0 0 0 - 4 8 50.0 2 5 7 1 0 0 1 2 4
+p104
+aVJacque Vaughn UTA 04/06/2000 UTA vs. PHX W 16 5 2 4 50.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 1 2 -1
+p105
+aVHoward Eisley UTA 04/06/2000 UTA vs. PHX W 34 9 4 8 50.0 1 1 100.0 0 0 - 1 1 2 13 2 0 0 1 7
+p106
+aVBryon Russell UTA 04/04/2000 UTA @ LAC W 43 18 8 11 72.7 2 3 66.7 0 0 - 4 6 10 0 2 0 2 3 17
+p107
+aVOlden Polynice UTA 04/04/2000 UTA @ LAC W 23 9 4 6 66.7 0 0 - 1 4 25.0 1 1 2 0 0 1 0 3 -3
+p108
+aVHoward Eisley UTA 04/04/2000 UTA @ LAC W 26 8 3 9 33.3 0 3 0.0 2 2 100.0 0 4 4 8 0 0 1 0 5
+p109
+aVJeff Hornacek UTA 04/04/2000 UTA @ LAC W 31 8 4 8 50.0 0 2 0.0 0 1 0.0 0 3 3 3 0 0 1 0 18
+p110
+aVGreg Ostertag UTA 04/04/2000 UTA @ LAC W 24 5 2 4 50.0 0 0 - 1 3 33.3 5 6 11 0 1 2 1 0 13
+p111
+aVArmen Gilliam UTA 04/04/2000 UTA @ LAC W 11 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p112
+aVQuincy Lewis UTA 04/04/2000 UTA @ LAC W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p113
+aVJohn Stockton UTA 04/04/2000 UTA @ LAC W 33 12 2 7 28.6 0 2 0.0 8 10 80.0 2 2 4 8 0 0 4 1 -2
+p114
+aVKarl Malone UTA 04/04/2000 UTA @ LAC W 37 34 13 23 56.5 0 0 - 8 11 72.7 1 6 7 5 0 1 2 1 13
+p115
+aVJacque Vaughn UTA 04/04/2000 UTA @ LAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -1
+p116
+aVOlden Polynice UTA 04/01/2000 UTA @ DEN L 19 2 1 3 33.3 0 0 - 0 2 0.0 0 3 3 1 0 0 1 3 -17
+p117
+aVJeff Hornacek UTA 04/01/2000 UTA @ DEN L 19 10 5 8 62.5 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -10
+p118
+aVGreg Ostertag UTA 04/01/2000 UTA @ DEN L 17 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 0 1 0 3 8
+p119
+aVArmen Gilliam UTA 04/01/2000 UTA @ DEN L 16 10 5 8 62.5 0 0 - 0 0 - 1 4 5 1 0 0 2 4 -10
+p120
+aVKarl Malone UTA 04/01/2000 UTA @ DEN L 40 27 8 18 44.4 0 0 - 11 12 91.7 4 9 13 4 0 0 3 3 -18
+p121
+aVJacque Vaughn UTA 04/01/2000 UTA @ DEN L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 4
+p122
+aVQuincy Lewis UTA 04/01/2000 UTA @ DEN L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p123
+aVHoward Eisley UTA 04/01/2000 UTA @ DEN L 29 9 2 7 28.6 0 1 0.0 5 5 100.0 1 2 3 4 2 0 1 2 -10
+p124
+aVBryon Russell UTA 04/01/2000 UTA @ DEN L 41 17 6 15 40.0 4 8 50.0 1 2 50.0 0 3 3 3 1 0 0 4 -15
+p125
+aVJohn Stockton UTA 04/01/2000 UTA @ DEN L 35 10 3 6 50.0 1 4 25.0 3 3 100.0 1 0 1 7 1 1 1 4 -24
+p126
+aVScott Padgett UTA 04/01/2000 UTA @ DEN L 3 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 -5
+p127
+aVKarl Malone UTA 03/31/2000 UTA vs. GSW W 30 22 7 17 41.2 0 0 - 8 11 72.7 2 6 8 2 0 1 3 5 20
+p128
+aVScott Padgett UTA 03/31/2000 UTA vs. GSW W 11 6 1 1 100.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 4 -5
+p129
+aVAdam Keefe UTA 03/31/2000 UTA vs. GSW W 10 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 0 3 1 -9
+p130
+aVGreg Ostertag UTA 03/31/2000 UTA vs. GSW W 22 5 2 3 66.7 0 0 - 1 2 50.0 2 6 8 0 0 6 1 1 9
+p131
+aVOlden Polynice UTA 03/31/2000 UTA vs. GSW W 23 10 3 4 75.0 0 0 - 4 4 100.0 2 2 4 0 1 0 0 3 14
+p132
+aVJacque Vaughn UTA 03/31/2000 UTA vs. GSW W 17 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 4 0 0 3 1 -1
+p133
+aVHoward Eisley UTA 03/31/2000 UTA vs. GSW W 19 9 4 7 57.1 1 1 100.0 0 0 - 0 3 3 5 0 0 0 5 8
+p134
+aVJohn Stockton UTA 03/31/2000 UTA vs. GSW W 31 15 6 8 75.0 2 2 100.0 1 2 50.0 0 2 2 9 2 0 2 1 18
+p135
+aVQuincy Lewis UTA 03/31/2000 UTA vs. GSW W 9 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 1 0 1 2 3 4
+p136
+aVArmen Gilliam UTA 03/31/2000 UTA vs. GSW W 18 11 4 9 44.4 0 0 - 3 3 100.0 2 7 9 0 0 1 1 2 -3
+p137
+aVJeff Hornacek UTA 03/31/2000 UTA vs. GSW W 25 16 5 8 62.5 2 3 66.7 4 4 100.0 1 2 3 4 0 0 1 3 9
+p138
+aVBryon Russell UTA 03/31/2000 UTA vs. GSW W 25 9 3 7 42.9 1 2 50.0 2 2 100.0 0 7 7 2 2 0 1 4 21
+p139
+aVJacque Vaughn UTA 03/29/2000 UTA vs. PHI W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p140
+aVQuincy Lewis UTA 03/29/2000 UTA vs. PHI W 15 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 0 0 1 0 3 -16
+p141
+aVGreg Ostertag UTA 03/29/2000 UTA vs. PHI W 25 4 2 5 40.0 0 0 - 0 0 - 4 9 13 1 1 3 1 3 7
+p142
+aVScott Padgett UTA 03/29/2000 UTA vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p143
+aVHoward Eisley UTA 03/29/2000 UTA vs. PHI W 23 8 4 7 57.1 0 3 0.0 0 0 - 0 1 1 4 1 0 2 1 -5
+p144
+aVBryon Russell UTA 03/29/2000 UTA vs. PHI W 29 12 5 11 45.5 2 4 50.0 0 0 - 0 2 2 4 3 0 0 4 26
+p145
+aVArmen Gilliam UTA 03/29/2000 UTA vs. PHI W 9 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -10
+p146
+aVAdam Keefe UTA 03/29/2000 UTA vs. PHI W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 4
+p147
+aVOlden Polynice UTA 03/29/2000 UTA vs. PHI W 21 4 2 4 50.0 0 0 - 0 0 - 1 4 5 2 1 3 0 2 7
+p148
+aVJohn Stockton UTA 03/29/2000 UTA vs. PHI W 35 20 7 10 70.0 0 0 - 6 6 100.0 0 3 3 8 2 0 3 3 25
+p149
+aVKarl Malone UTA 03/29/2000 UTA vs. PHI W 40 30 11 20 55.0 0 0 - 8 8 100.0 1 8 9 6 1 0 4 4 23
+p150
+aVJeff Hornacek UTA 03/29/2000 UTA vs. PHI W 32 13 5 12 41.7 0 2 0.0 3 3 100.0 0 2 2 2 0 0 1 1 15
+p151
+aVGreg Ostertag UTA 03/27/2000 UTA vs. DAL L 15 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 3 3 1 4
+p152
+aVAdam Keefe UTA 03/27/2000 UTA vs. DAL L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p153
+aVArmen Gilliam UTA 03/27/2000 UTA vs. DAL L 12 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p154
+aVJohn Stockton UTA 03/27/2000 UTA vs. DAL L 37 16 6 14 42.9 1 4 25.0 3 3 100.0 0 5 5 14 5 0 0 4 -1
+p155
+aVQuincy Lewis UTA 03/27/2000 UTA vs. DAL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p156
+aVOlden Polynice UTA 03/27/2000 UTA vs. DAL L 19 6 2 5 40.0 1 1 100.0 1 6 16.7 2 4 6 0 1 1 0 2 -2
+p157
+aVKarl Malone UTA 03/27/2000 UTA vs. DAL L 39 26 9 21 42.9 0 0 - 8 10 80.0 4 6 10 1 2 2 3 4 0
+p158
+aVJacque Vaughn UTA 03/27/2000 UTA vs. DAL L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 2 -3
+p159
+aVHoward Eisley UTA 03/27/2000 UTA vs. DAL L 25 8 2 8 25.0 0 2 0.0 4 4 100.0 1 2 3 1 0 0 0 4 -12
+p160
+aVBryon Russell UTA 03/27/2000 UTA vs. DAL L 42 20 7 11 63.6 2 2 100.0 4 5 80.0 1 3 4 2 0 0 0 3 -5
+p161
+aVJeff Hornacek UTA 03/27/2000 UTA vs. DAL L 30 14 5 9 55.6 2 3 66.7 2 3 66.7 1 1 2 3 0 0 0 3 2
+p162
+aVAdam Keefe UTA 03/25/2000 UTA @ VAN W 8 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 1 1 0 1 -4
+p163
+aVJeff Hornacek UTA 03/25/2000 UTA @ VAN W 29 6 1 7 14.3 0 1 0.0 4 4 100.0 0 3 3 5 2 0 1 2 13
+p164
+aVJacque Vaughn UTA 03/25/2000 UTA @ VAN W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -2
+p165
+aVJohn Stockton UTA 03/25/2000 UTA @ VAN W 34 9 4 9 44.4 1 1 100.0 0 0 - 0 0 0 5 3 0 1 3 8
+p166
+aVHoward Eisley UTA 03/25/2000 UTA @ VAN W 25 8 4 6 66.7 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -1
+p167
+aVGreg Ostertag UTA 03/25/2000 UTA @ VAN W 27 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 1 1 2 2 2 7
+p168
+aVKarl Malone UTA 03/25/2000 UTA @ VAN W 33 25 9 25 36.0 0 0 - 7 11 63.6 4 10 14 1 2 2 1 2 13
+p169
+aVArmen Gilliam UTA 03/25/2000 UTA @ VAN W 17 8 3 7 42.9 0 0 - 2 3 66.7 2 3 5 1 1 0 0 2 0
+p170
+aVOlden Polynice UTA 03/25/2000 UTA @ VAN W 19 11 5 7 71.4 0 0 - 1 7 14.3 3 5 8 0 1 1 1 3 -2
+p171
+aVBryon Russell UTA 03/25/2000 UTA @ VAN W 40 14 5 10 50.0 1 3 33.3 3 4 75.0 5 3 8 0 0 0 3 2 13
+p172
+aVHoward Eisley UTA 03/24/2000 UTA @ SEA W 22 5 2 11 18.2 1 1 100.0 0 0 - 2 0 2 5 0 0 2 3 5
+p173
+aVArmen Gilliam UTA 03/24/2000 UTA @ SEA W 11 5 2 7 28.6 0 0 - 1 2 50.0 2 0 2 1 0 0 0 3 -3
+p174
+aVOlden Polynice UTA 03/24/2000 UTA @ SEA W 23 10 5 7 71.4 0 0 - 0 0 - 2 1 3 0 0 1 2 3 -1
+p175
+aVQuincy Lewis UTA 03/24/2000 UTA @ SEA W 5 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 1 0 -5
+p176
+aVJohn Stockton UTA 03/24/2000 UTA @ SEA W 36 15 5 9 55.6 1 3 33.3 4 5 80.0 0 2 2 10 6 0 1 1 11
+p177
+aVJacque Vaughn UTA 03/24/2000 UTA @ SEA W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p178
+aVBryon Russell UTA 03/24/2000 UTA @ SEA W 43 18 7 16 43.8 0 3 0.0 4 7 57.1 0 6 6 3 6 0 1 3 4
+p179
+aVKarl Malone UTA 03/24/2000 UTA @ SEA W 37 21 6 13 46.2 0 0 - 9 10 90.0 1 11 12 5 1 2 3 2 6
+p180
+aVGreg Ostertag UTA 03/24/2000 UTA @ SEA W 25 7 3 4 75.0 0 0 - 1 1 100.0 4 8 12 0 0 0 1 5 4
+p181
+aVJeff Hornacek UTA 03/24/2000 UTA @ SEA W 29 14 6 12 50.0 0 2 0.0 2 2 100.0 0 2 2 4 3 0 1 2 -2
+p182
+aVKarl Malone UTA 03/21/2000 UTA vs. DEN W 34 28 9 18 50.0 0 0 - 10 11 90.9 0 10 10 1 0 3 5 4 5
+p183
+aVHoward Eisley UTA 03/21/2000 UTA vs. DEN W 32 12 5 9 55.6 2 2 100.0 0 0 - 0 0 0 7 1 0 0 3 1
+p184
+aVJacque Vaughn UTA 03/21/2000 UTA vs. DEN W 9 5 2 3 66.7 0 1 0.0 1 1 100.0 0 1 1 1 0 0 0 2 1
+p185
+aVJohn Stockton UTA 03/21/2000 UTA vs. DEN W 34 7 3 9 33.3 1 2 50.0 0 1 0.0 1 3 4 11 0 1 1 2 8
+p186
+aVArmen Gilliam UTA 03/21/2000 UTA vs. DEN W 20 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 2 0 0 1 2 24
+p187
+aVScott Padgett UTA 03/21/2000 UTA vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p188
+aVBryon Russell UTA 03/21/2000 UTA vs. DEN W 34 16 6 13 46.2 1 5 20.0 3 4 75.0 0 3 3 2 3 0 2 5 1
+p189
+aVJeff Hornacek UTA 03/21/2000 UTA vs. DEN W 20 12 5 7 71.4 2 3 66.7 0 0 - 0 2 2 4 0 0 0 2 16
+p190
+aVOlden Polynice UTA 03/21/2000 UTA vs. DEN W 18 0 0 3 0.0 0 0 - 0 2 0.0 2 4 6 0 0 0 1 3 -1
+p191
+aVGreg Ostertag UTA 03/21/2000 UTA vs. DEN W 21 6 3 5 60.0 0 0 - 0 1 0.0 2 3 5 0 1 4 2 1 0
+p192
+aVQuincy Lewis UTA 03/21/2000 UTA vs. DEN W 2 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 2
+p193
+aVAdam Keefe UTA 03/21/2000 UTA vs. DEN W 15 0 0 1 0.0 0 0 - 0 0 - 0 5 5 1 0 1 2 1 8
+p194
+aVOlden Polynice UTA 03/19/2000 UTA @ NJN W 23 9 4 7 57.1 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -5
+p195
+aVAdam Keefe UTA 03/19/2000 UTA @ NJN W 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 1
+p196
+aVQuincy Lewis UTA 03/19/2000 UTA @ NJN W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 2
+p197
+aVJohn Stockton UTA 03/19/2000 UTA @ NJN W 32 5 1 7 14.3 0 0 - 3 4 75.0 0 1 1 10 2 0 1 3 18
+p198
+aVJacque Vaughn UTA 03/19/2000 UTA @ NJN W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -20
+p199
+aVJeff Hornacek UTA 03/19/2000 UTA @ NJN W 22 4 1 6 16.7 0 1 0.0 2 2 100.0 2 5 7 3 2 0 2 0 15
+p200
+aVHoward Eisley UTA 03/19/2000 UTA @ NJN W 34 15 7 11 63.6 1 1 100.0 0 0 - 1 4 5 3 1 0 3 3 -2
+p201
+aVKarl Malone UTA 03/19/2000 UTA @ NJN W 37 32 13 19 68.4 0 0 - 6 6 100.0 1 9 10 4 1 0 3 6 5
+p202
+aVBryon Russell UTA 03/19/2000 UTA @ NJN W 42 15 4 10 40.0 2 6 33.3 5 6 83.3 1 5 6 1 1 0 3 3 2
+p203
+aVGreg Ostertag UTA 03/19/2000 UTA @ NJN W 18 8 1 2 50.0 0 0 - 6 6 100.0 1 3 4 0 1 0 0 1 9
+p204
+aVArmen Gilliam UTA 03/19/2000 UTA @ NJN W 8 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -5
+p205
+aVAdam Keefe UTA 03/17/2000 UTA @ PHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p206
+aVJacque Vaughn UTA 03/17/2000 UTA @ PHI L 13 2 1 4 25.0 0 0 - 0 0 - 0 3 3 4 2 0 4 1 -3
+p207
+aVOlden Polynice UTA 03/17/2000 UTA @ PHI L 22 6 3 7 42.9 0 0 - 0 0 - 3 6 9 1 1 0 0 2 6
+p208
+aVGreg Ostertag UTA 03/17/2000 UTA @ PHI L 24 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 0 3 2 2 -14
+p209
+aVBryon Russell UTA 03/17/2000 UTA @ PHI L 37 13 3 8 37.5 2 3 66.7 5 6 83.3 1 0 1 2 0 0 2 2 7
+p210
+aVJeff Hornacek UTA 03/17/2000 UTA @ PHI L 29 16 6 12 50.0 3 3 100.0 1 1 100.0 1 2 3 2 1 0 3 4 -2
+p211
+aVArmen Gilliam UTA 03/17/2000 UTA @ PHI L 12 2 1 3 33.3 0 0 - 0 0 - 3 2 5 1 0 0 1 0 1
+p212
+aVHoward Eisley UTA 03/17/2000 UTA @ PHI L 20 7 3 7 42.9 1 4 25.0 0 0 - 0 4 4 1 0 0 1 3 3
+p213
+aVQuincy Lewis UTA 03/17/2000 UTA @ PHI L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p214
+aVJohn Stockton UTA 03/17/2000 UTA @ PHI L 35 14 4 10 40.0 2 4 50.0 4 4 100.0 1 0 1 7 1 0 3 3 1
+p215
+aVKarl Malone UTA 03/17/2000 UTA @ PHI L 37 31 11 17 64.7 0 0 - 9 15 60.0 4 9 13 7 1 0 1 3 0
+p216
+aVKarl Malone UTA 03/16/2000 UTA @ CLE W 34 21 9 14 64.3 0 0 - 3 4 75.0 0 5 5 5 1 0 2 2 22
+p217
+aVHoward Eisley UTA 03/16/2000 UTA @ CLE W 34 23 9 14 64.3 2 2 100.0 3 3 100.0 0 2 2 6 2 0 4 2 5
+p218
+aVQuincy Lewis UTA 03/16/2000 UTA @ CLE W 20 6 2 5 40.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 2 -5
+p219
+aVArmen Gilliam UTA 03/16/2000 UTA @ CLE W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -6
+p220
+aVAdam Keefe UTA 03/16/2000 UTA @ CLE W 10 4 0 2 0.0 0 0 - 4 4 100.0 0 1 1 1 0 0 0 3 -5
+p221
+aVGreg Ostertag UTA 03/16/2000 UTA @ CLE W 16 6 1 1 100.0 0 0 - 4 6 66.7 3 1 4 0 0 3 1 3 8
+p222
+aVBryon Russell UTA 03/16/2000 UTA @ CLE W 37 19 6 14 42.9 1 3 33.3 6 7 85.7 3 12 15 4 1 0 1 3 28
+p223
+aVOlden Polynice UTA 03/16/2000 UTA @ CLE W 19 8 4 5 80.0 0 0 - 0 0 - 3 6 9 0 0 3 0 4 23
+p224
+aVJacque Vaughn UTA 03/16/2000 UTA @ CLE W 22 8 2 10 20.0 1 1 100.0 3 5 60.0 0 2 2 3 2 0 1 3 -7
+p225
+aVJeff Hornacek UTA 03/16/2000 UTA @ CLE W 18 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 9
+p226
+aVJohn Stockton UTA 03/16/2000 UTA @ CLE W 23 6 1 3 33.3 0 0 - 4 4 100.0 0 3 3 8 0 0 5 3 35
+p227
+aVScott Padgett UTA 03/16/2000 UTA @ CLE W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p228
+aVBryon Russell UTA 03/13/2000 UTA @ CHI W 37 9 2 8 25.0 1 3 33.3 4 8 50.0 1 4 5 2 1 0 0 4 6
+p229
+aVHoward Eisley UTA 03/13/2000 UTA @ CHI W 24 6 2 8 25.0 1 3 33.3 1 1 100.0 1 1 2 1 0 0 2 3 5
+p230
+aVQuincy Lewis UTA 03/13/2000 UTA @ CHI W 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 2 0 1 2 2
+p231
+aVJeff Hornacek UTA 03/13/2000 UTA @ CHI W 25 8 2 9 22.2 0 2 0.0 4 4 100.0 1 1 2 5 1 0 1 2 1
+p232
+aVGreg Ostertag UTA 03/13/2000 UTA @ CHI W 28 2 1 5 20.0 0 0 - 0 0 - 4 6 10 0 1 3 1 4 1
+p233
+aVAdam Keefe UTA 03/13/2000 UTA @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p234
+aVArmen Gilliam UTA 03/13/2000 UTA @ CHI W 12 4 1 5 20.0 0 0 - 2 2 100.0 1 6 7 1 0 0 1 4 -3
+p235
+aVJohn Stockton UTA 03/13/2000 UTA @ CHI W 37 19 5 11 45.5 1 2 50.0 8 9 88.9 0 0 0 9 6 0 2 3 10
+p236
+aVKarl Malone UTA 03/13/2000 UTA @ CHI W 39 31 12 24 50.0 0 0 - 7 11 63.6 3 10 13 3 3 1 3 2 9
+p237
+aVOlden Polynice UTA 03/13/2000 UTA @ CHI W 17 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 1 1 4 9
+p238
+aVJacque Vaughn UTA 03/13/2000 UTA @ CHI W 10 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 1 1 0 0 2 0
+p239
+aVQuincy Lewis UTA 03/10/2000 UTA @ PHX W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 1
+p240
+aVJeff Hornacek UTA 03/10/2000 UTA @ PHX W 20 6 2 4 50.0 1 1 100.0 1 1 100.0 0 2 2 1 0 0 1 0 4
+p241
+aVJacque Vaughn UTA 03/10/2000 UTA @ PHX W 11 7 3 4 75.0 1 1 100.0 0 0 - 1 1 2 1 1 0 1 1 -3
+p242
+aVJohn Stockton UTA 03/10/2000 UTA @ PHX W 37 17 8 13 61.5 0 1 0.0 1 2 50.0 0 2 2 12 0 0 1 2 6
+p243
+aVBryon Russell UTA 03/10/2000 UTA @ PHX W 38 22 7 15 46.7 1 5 20.0 7 8 87.5 0 7 7 4 3 0 4 5 7
+p244
+aVAdam Keefe UTA 03/10/2000 UTA @ PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p245
+aVArmen Gilliam UTA 03/10/2000 UTA @ PHX W 12 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 0 1 1 1 1 -6
+p246
+aVGreg Ostertag UTA 03/10/2000 UTA @ PHX W 24 2 0 2 0.0 0 0 - 2 4 50.0 2 7 9 0 0 1 0 2 2
+p247
+aVHoward Eisley UTA 03/10/2000 UTA @ PHX W 28 11 5 10 50.0 1 3 33.3 0 0 - 1 1 2 3 0 0 1 2 -1
+p248
+aVKarl Malone UTA 03/10/2000 UTA @ PHX W 39 29 11 15 73.3 0 0 - 7 7 100.0 2 5 7 5 1 0 2 3 4
+p249
+aVOlden Polynice UTA 03/10/2000 UTA @ PHX W 20 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 3 6
+p250
+aVJacque Vaughn UTA 03/09/2000 UTA vs. HOU W 16 8 4 6 66.7 0 0 - 0 0 - 0 1 1 3 0 0 0 1 14
+p251
+aVScott Padgett UTA 03/09/2000 UTA vs. HOU W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p252
+aVJohn Stockton UTA 03/09/2000 UTA vs. HOU W 29 17 8 11 72.7 1 2 50.0 0 1 0.0 1 0 1 5 4 0 1 3 12
+p253
+aVOlden Polynice UTA 03/09/2000 UTA vs. HOU W 24 6 3 5 60.0 0 0 - 0 0 - 2 8 10 1 0 0 2 4 10
+p254
+aVAdam Keefe UTA 03/09/2000 UTA vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p255
+aVBryon Russell UTA 03/09/2000 UTA vs. HOU W 37 16 6 13 46.2 3 6 50.0 1 2 50.0 1 2 3 2 1 0 1 4 28
+p256
+aVHoward Eisley UTA 03/09/2000 UTA vs. HOU W 28 17 7 11 63.6 2 3 66.7 1 1 100.0 0 3 3 7 1 1 1 3 10
+p257
+aVArmen Gilliam UTA 03/09/2000 UTA vs. HOU W 17 6 3 4 75.0 0 0 - 0 0 - 0 1 1 4 0 0 2 1 7
+p258
+aVKarl Malone UTA 03/09/2000 UTA vs. HOU W 28 16 6 12 50.0 0 0 - 4 6 66.7 0 7 7 4 0 1 3 1 12
+p259
+aVJeff Hornacek UTA 03/09/2000 UTA vs. HOU W 20 7 1 2 50.0 0 0 - 5 5 100.0 0 1 1 4 3 0 2 1 2
+p260
+aVQuincy Lewis UTA 03/09/2000 UTA vs. HOU W 11 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 0 2 -9
+p261
+aVGreg Ostertag UTA 03/09/2000 UTA vs. HOU W 24 2 1 3 33.3 0 0 - 0 0 - 2 6 8 1 0 3 0 1 9
+p262
+aVKarl Malone UTA 03/07/2000 UTA vs. CLE W 31 30 11 15 73.3 0 0 - 8 9 88.9 0 7 7 2 2 0 3 4 15
+p263
+aVQuincy Lewis UTA 03/07/2000 UTA vs. CLE W 10 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -8
+p264
+aVGreg Ostertag UTA 03/07/2000 UTA vs. CLE W 12 4 2 3 66.7 0 0 - 0 0 - 3 2 5 1 0 1 0 2 -5
+p265
+aVJohn Stockton UTA 03/07/2000 UTA vs. CLE W 31 8 4 11 36.4 0 1 0.0 0 0 - 0 2 2 18 3 0 3 2 17
+p266
+aVBryon Russell UTA 03/07/2000 UTA vs. CLE W 38 15 7 11 63.6 0 1 0.0 1 2 50.0 1 9 10 3 0 0 2 3 26
+p267
+aVScott Padgett UTA 03/07/2000 UTA vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p268
+aVOlden Polynice UTA 03/07/2000 UTA vs. CLE W 23 10 5 6 83.3 0 0 - 0 1 0.0 2 1 3 0 0 2 1 4 10
+p269
+aVAdam Keefe UTA 03/07/2000 UTA vs. CLE W 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 2 0 0 0 11
+p270
+aVJeff Hornacek UTA 03/07/2000 UTA vs. CLE W 31 18 7 9 77.8 2 2 100.0 2 2 100.0 0 0 0 4 3 1 1 1 24
+p271
+aVJacque Vaughn UTA 03/07/2000 UTA vs. CLE W 9 3 1 7 14.3 0 1 0.0 1 2 50.0 0 0 0 0 0 0 2 2 -3
+p272
+aVHoward Eisley UTA 03/07/2000 UTA vs. CLE W 22 8 4 6 66.7 0 0 - 0 0 - 0 0 0 4 0 1 2 2 0
+p273
+aVArmen Gilliam UTA 03/07/2000 UTA vs. CLE W 14 9 3 6 50.0 0 0 - 3 4 75.0 2 3 5 4 0 2 2 0 5
+p274
+aVHoward Eisley UTA 03/05/2000 UTA @ NYK W 18 5 1 5 20.0 0 1 0.0 3 4 75.0 0 1 1 4 0 0 2 3 -2
+p275
+aVJacque Vaughn UTA 03/05/2000 UTA @ NYK W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p276
+aVGreg Ostertag UTA 03/05/2000 UTA @ NYK W 18 3 1 2 50.0 0 0 - 1 2 50.0 2 4 6 0 0 0 1 3 -4
+p277
+aVJohn Stockton UTA 03/05/2000 UTA @ NYK W 35 8 3 5 60.0 0 1 0.0 2 2 100.0 0 3 3 12 3 0 4 5 13
+p278
+aVAdam Keefe UTA 03/05/2000 UTA @ NYK W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p279
+aVOlden Polynice UTA 03/05/2000 UTA @ NYK W 27 8 4 7 57.1 0 0 - 0 2 0.0 4 4 8 1 0 0 1 2 13
+p280
+aVBryon Russell UTA 03/05/2000 UTA @ NYK W 42 19 5 11 45.5 2 2 100.0 7 10 70.0 2 6 8 2 3 1 2 3 11
+p281
+aVQuincy Lewis UTA 03/05/2000 UTA @ NYK W 7 0 0 4 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 1 2 3
+p282
+aVArmen Gilliam UTA 03/05/2000 UTA @ NYK W 15 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 0 1 0 1 -4
+p283
+aVJeff Hornacek UTA 03/05/2000 UTA @ NYK W 31 13 5 10 50.0 2 3 66.7 1 1 100.0 1 2 3 1 0 0 1 2 11
+p284
+aVKarl Malone UTA 03/05/2000 UTA @ NYK W 36 30 11 20 55.0 0 0 - 8 10 80.0 0 5 5 2 0 0 2 3 13
+p285
+aVKarl Malone UTA 03/03/2000 UTA @ CHH W 39 19 7 17 41.2 0 0 - 5 6 83.3 3 10 13 5 1 0 2 3 5
+p286
+aVQuincy Lewis UTA 03/03/2000 UTA @ CHH W 11 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -8
+p287
+aVArmen Gilliam UTA 03/03/2000 UTA @ CHH W 10 3 1 4 25.0 0 0 - 1 1 100.0 1 2 3 0 0 0 2 1 -8
+p288
+aVBryon Russell UTA 03/03/2000 UTA @ CHH W 37 13 6 11 54.5 0 1 0.0 1 1 100.0 1 3 4 2 0 2 0 1 10
+p289
+aVJohn Stockton UTA 03/03/2000 UTA @ CHH W 32 22 9 13 69.2 2 2 100.0 2 2 100.0 1 4 5 7 2 0 2 3 13
+p290
+aVOlden Polynice UTA 03/03/2000 UTA @ CHH W 28 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 2 1 7 2 4 14
+p291
+aVGreg Ostertag UTA 03/03/2000 UTA @ CHH W 19 2 0 6 0.0 0 0 - 2 4 50.0 4 3 7 1 0 1 2 4 -7
+p292
+aVJacque Vaughn UTA 03/03/2000 UTA @ CHH W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p293
+aVHoward Eisley UTA 03/03/2000 UTA @ CHH W 23 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 2 0 0 2 3 -13
+p294
+aVJeff Hornacek UTA 03/03/2000 UTA @ CHH W 33 13 6 12 50.0 1 1 100.0 0 0 - 1 0 1 1 2 0 1 2 5
+p295
+aVAdam Keefe UTA 03/01/2000 UTA @ DET W 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 7
+p296
+aVArmen Gilliam UTA 03/01/2000 UTA @ DET W 21 19 7 12 58.3 0 0 - 5 5 100.0 5 4 9 0 0 0 2 0 13
+p297
+aVGreg Ostertag UTA 03/01/2000 UTA @ DET W 21 7 2 3 66.7 0 0 - 3 6 50.0 1 7 8 0 0 5 2 5 4
+p298
+aVHoward Eisley UTA 03/01/2000 UTA @ DET W 31 0 0 4 0.0 0 1 0.0 0 1 0.0 0 2 2 9 0 0 0 2 18
+p299
+aVJacque Vaughn UTA 03/01/2000 UTA @ DET W 18 6 3 6 50.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 1 3
+p300
+aVBryon Russell UTA 03/01/2000 UTA @ DET W 30 4 2 8 25.0 0 4 0.0 0 0 - 1 2 3 3 2 0 2 3 11
+p301
+aVKarl Malone UTA 03/01/2000 UTA @ DET W 30 31 13 21 61.9 0 0 - 5 7 71.4 4 9 13 6 0 0 0 1 7
+p302
+aVJohn Stockton UTA 03/01/2000 UTA @ DET W 28 11 5 7 71.4 0 0 - 1 1 100.0 0 0 0 7 4 0 2 1 4
+p303
+aVQuincy Lewis UTA 03/01/2000 UTA @ DET W 13 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 2 0 2 5 -5
+p304
+aVOlden Polynice UTA 03/01/2000 UTA @ DET W 22 10 5 6 83.3 0 0 - 0 0 - 0 4 4 2 0 2 1 3 9
+p305
+aVScott Padgett UTA 03/01/2000 UTA @ DET W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p306
+aVJeff Hornacek UTA 03/01/2000 UTA @ DET W 20 11 4 7 57.1 2 2 100.0 1 2 50.0 0 2 2 1 0 0 1 4 1
+p307
+aVJacque Vaughn UTA 02/28/2000 UTA vs. NJN W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 3
+p308
+aVKarl Malone UTA 02/28/2000 UTA vs. NJN W 44 35 13 22 59.1 0 0 - 9 11 81.8 6 6 12 9 0 2 3 4 7
+p309
+aVGreg Ostertag UTA 02/28/2000 UTA vs. NJN W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -2
+p310
+aVQuincy Lewis UTA 02/28/2000 UTA vs. NJN W 13 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 2 0 1 -3
+p311
+aVBryon Russell UTA 02/28/2000 UTA vs. NJN W 41 14 5 11 45.5 0 3 0.0 4 4 100.0 0 6 6 1 2 0 2 3 12
+p312
+aVJeff Hornacek UTA 02/28/2000 UTA vs. NJN W 37 27 10 11 90.9 5 6 83.3 2 3 66.7 1 4 5 2 1 1 1 1 -2
+p313
+aVJohn Stockton UTA 02/28/2000 UTA vs. NJN W 30 7 2 9 22.2 1 3 33.3 2 2 100.0 0 3 3 8 2 1 2 1 11
+p314
+aVOlden Polynice UTA 02/28/2000 UTA vs. NJN W 21 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 3 -4
+p315
+aVArmen Gilliam UTA 02/28/2000 UTA vs. NJN W 8 2 1 7 14.3 0 0 - 0 0 - 3 3 6 1 0 0 0 2 1
+p316
+aVAdam Keefe UTA 02/28/2000 UTA vs. NJN W 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 2 0 1 1 4 6
+p317
+aVHoward Eisley UTA 02/28/2000 UTA vs. NJN W 18 5 2 5 40.0 1 4 25.0 0 0 - 0 0 0 4 0 0 0 3 -4
+p318
+aVGreg Ostertag UTA 02/27/2000 UTA @ POR L 16 6 3 4 75.0 0 0 - 0 2 0.0 1 2 3 0 0 0 1 5 1
+p319
+aVArmen Gilliam UTA 02/27/2000 UTA @ POR L 15 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 2
+p320
+aVJohn Stockton UTA 02/27/2000 UTA @ POR L 27 12 5 8 62.5 1 1 100.0 1 2 50.0 0 2 2 6 1 0 2 2 -16
+p321
+aVAdam Keefe UTA 02/27/2000 UTA @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p322
+aVBryon Russell UTA 02/27/2000 UTA @ POR L 42 23 8 14 57.1 3 8 37.5 4 6 66.7 0 5 5 4 3 0 2 3 -1
+p323
+aVQuincy Lewis UTA 02/27/2000 UTA @ POR L 19 9 3 8 37.5 2 3 66.7 1 2 50.0 0 2 2 0 0 0 1 4 2
+p324
+aVJeff Hornacek UTA 02/27/2000 UTA @ POR L 22 4 1 7 14.3 0 1 0.0 2 2 100.0 0 0 0 5 0 0 0 2 -9
+p325
+aVHoward Eisley UTA 02/27/2000 UTA @ POR L 26 7 3 7 42.9 1 4 25.0 0 1 0.0 0 2 2 7 1 0 3 2 -4
+p326
+aVJacque Vaughn UTA 02/27/2000 UTA @ POR L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p327
+aVOlden Polynice UTA 02/27/2000 UTA @ POR L 28 4 1 4 25.0 0 0 - 2 2 100.0 4 2 6 0 0 1 1 3 -6
+p328
+aVKarl Malone UTA 02/27/2000 UTA @ POR L 37 23 9 20 45.0 0 1 0.0 5 6 83.3 5 1 6 3 0 0 1 3 -15
+p329
+aVOlden Polynice UTA 02/25/2000 UTA vs. ORL W 25 8 4 8 50.0 0 0 - 0 2 0.0 4 4 8 3 1 3 0 4 2
+p330
+aVArmen Gilliam UTA 02/25/2000 UTA vs. ORL W 13 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 9
+p331
+aVQuincy Lewis UTA 02/25/2000 UTA vs. ORL W 13 6 1 4 25.0 0 0 - 4 4 100.0 1 2 3 1 0 0 0 1 14
+p332
+aVJeff Hornacek UTA 02/25/2000 UTA vs. ORL W 31 9 3 9 33.3 0 1 0.0 3 3 100.0 1 2 3 3 0 0 1 3 5
+p333
+aVGreg Ostertag UTA 02/25/2000 UTA vs. ORL W 23 11 3 8 37.5 0 0 - 5 7 71.4 4 2 6 0 1 6 0 3 6
+p334
+aVKarl Malone UTA 02/25/2000 UTA vs. ORL W 35 19 7 20 35.0 0 0 - 5 7 71.4 2 8 10 3 2 1 2 3 -1
+p335
+aVBryon Russell UTA 02/25/2000 UTA vs. ORL W 35 15 5 12 41.7 1 4 25.0 4 4 100.0 1 3 4 2 2 0 3 4 -6
+p336
+aVHoward Eisley UTA 02/25/2000 UTA vs. ORL W 27 9 4 9 44.4 1 2 50.0 0 0 - 1 1 2 4 2 0 0 3 2
+p337
+aVJohn Stockton UTA 02/25/2000 UTA vs. ORL W 29 11 3 6 50.0 0 1 0.0 5 6 83.3 1 4 5 8 2 0 3 2 3
+p338
+aVJacque Vaughn UTA 02/25/2000 UTA vs. ORL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 6
+p339
+aVArmen Gilliam UTA 02/24/2000 UTA @ DAL W 10 8 3 8 37.5 0 0 - 2 2 100.0 5 1 6 1 0 0 1 2 -5
+p340
+aVKarl Malone UTA 02/24/2000 UTA @ DAL W 40 18 8 21 38.1 0 0 - 2 4 50.0 3 7 10 6 1 2 3 2 12
+p341
+aVGreg Ostertag UTA 02/24/2000 UTA @ DAL W 28 2 1 2 50.0 0 0 - 0 0 - 2 8 10 0 0 6 1 1 0
+p342
+aVQuincy Lewis UTA 02/24/2000 UTA @ DAL W 12 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -4
+p343
+aVJacque Vaughn UTA 02/24/2000 UTA @ DAL W 11 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p344
+aVJeff Hornacek UTA 02/24/2000 UTA @ DAL W 35 14 6 11 54.5 0 1 0.0 2 2 100.0 2 5 7 0 2 1 1 3 14
+p345
+aVBryon Russell UTA 02/24/2000 UTA @ DAL W 36 25 8 13 61.5 4 7 57.1 5 6 83.3 0 3 3 0 3 0 1 2 11
+p346
+aVHoward Eisley UTA 02/24/2000 UTA @ DAL W 25 11 5 9 55.6 1 3 33.3 0 0 - 0 2 2 6 2 1 2 4 -8
+p347
+aVJohn Stockton UTA 02/24/2000 UTA @ DAL W 26 8 2 10 20.0 0 1 0.0 4 4 100.0 0 3 3 10 1 1 3 1 13
+p348
+aVOlden Polynice UTA 02/24/2000 UTA @ DAL W 16 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 1 0 0 3 7
+p349
+aVJeff Hornacek UTA 02/21/2000 UTA vs. ATL W 35 21 8 14 57.1 3 3 100.0 2 2 100.0 0 4 4 2 0 0 2 1 12
+p350
+aVOlden Polynice UTA 02/21/2000 UTA vs. ATL W 34 6 3 7 42.9 0 0 - 0 0 - 4 7 11 2 0 3 1 4 12
+p351
+aVQuincy Lewis UTA 02/21/2000 UTA vs. ATL W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -1
+p352
+aVJohn Stockton UTA 02/21/2000 UTA vs. ATL W 27 10 4 10 40.0 1 1 100.0 1 2 50.0 0 1 1 10 0 1 1 1 3
+p353
+aVHoward Eisley UTA 02/21/2000 UTA vs. ATL W 23 8 4 10 40.0 0 1 0.0 0 0 - 0 1 1 5 1 0 2 1 -3
+p354
+aVJacque Vaughn UTA 02/21/2000 UTA vs. ATL W 11 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 2 0 -8
+p355
+aVBryon Russell UTA 02/21/2000 UTA vs. ATL W 39 14 5 13 38.5 2 4 50.0 2 2 100.0 3 1 4 1 1 0 0 2 3
+p356
+aVArmen Gilliam UTA 02/21/2000 UTA vs. ATL W 10 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -4
+p357
+aVGreg Ostertag UTA 02/21/2000 UTA vs. ATL W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -12
+p358
+aVKarl Malone UTA 02/21/2000 UTA vs. ATL W 39 25 10 18 55.6 0 0 - 5 8 62.5 1 8 9 2 1 0 3 5 8
+p359
+aVGreg Ostertag UTA 02/19/2000 UTA vs. DET W 14 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 1 1 0 3
+p360
+aVJacque Vaughn UTA 02/19/2000 UTA vs. DET W 16 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 1 0 1 3 -3
+p361
+aVQuincy Lewis UTA 02/19/2000 UTA vs. DET W 10 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 8
+p362
+aVHoward Eisley UTA 02/19/2000 UTA vs. DET W 10 2 0 1 0.0 0 1 0.0 2 2 100.0 1 1 2 2 0 0 2 4 3
+p363
+aVOlden Polynice UTA 02/19/2000 UTA vs. DET W 21 8 4 5 80.0 0 0 - 0 0 - 4 2 6 0 0 1 0 3 -5
+p364
+aVArmen Gilliam UTA 02/19/2000 UTA vs. DET W 21 6 1 6 16.7 0 0 - 4 4 100.0 1 5 6 0 0 1 2 0 7
+p365
+aVBryon Russell UTA 02/19/2000 UTA vs. DET W 43 14 4 17 23.5 3 9 33.3 3 4 75.0 1 5 6 3 2 0 1 2 -1
+p366
+aVKarl Malone UTA 02/19/2000 UTA vs. DET W 39 33 8 19 42.1 0 0 - 17 20 85.0 3 10 13 2 0 0 2 2 3
+p367
+aVJohn Stockton UTA 02/19/2000 UTA vs. DET W 35 12 5 12 41.7 2 4 50.0 0 0 - 2 4 6 2 0 1 2 3 0
+p368
+aVJeff Hornacek UTA 02/19/2000 UTA vs. DET W 30 8 2 7 28.6 1 2 50.0 3 3 100.0 1 0 1 4 1 0 1 4 5
+p369
+aVArmen Gilliam UTA 02/17/2000 UTA vs. SAC W 11 10 4 7 57.1 0 0 - 2 2 100.0 1 3 4 0 0 1 1 3 15
+p370
+aVKarl Malone UTA 02/17/2000 UTA vs. SAC W 43 30 11 21 52.4 0 1 0.0 8 14 57.1 1 12 13 8 0 1 3 2 6
+p371
+aVHoward Eisley UTA 02/17/2000 UTA vs. SAC W 26 8 3 8 37.5 1 4 25.0 1 2 50.0 0 4 4 3 0 0 2 4 4
+p372
+aVJeff Hornacek UTA 02/17/2000 UTA vs. SAC W 30 22 7 13 53.8 4 4 100.0 4 5 80.0 0 1 1 2 0 0 2 4 7
+p373
+aVQuincy Lewis UTA 02/17/2000 UTA vs. SAC W 11 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -4
+p374
+aVBryon Russell UTA 02/17/2000 UTA vs. SAC W 29 14 4 7 57.1 2 3 66.7 4 4 100.0 0 4 4 5 1 0 1 6 7
+p375
+aVGreg Ostertag UTA 02/17/2000 UTA vs. SAC W 26 6 1 1 100.0 0 0 - 4 6 66.7 3 4 7 1 1 4 0 2 7
+p376
+aVJacque Vaughn UTA 02/17/2000 UTA vs. SAC W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 4
+p377
+aVOlden Polynice UTA 02/17/2000 UTA vs. SAC W 15 5 2 5 40.0 0 0 - 1 1 100.0 1 2 3 0 1 1 1 3 -4
+p378
+aVAdam Keefe UTA 02/17/2000 UTA vs. SAC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 5
+p379
+aVScott Padgett UTA 02/17/2000 UTA vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p380
+aVJohn Stockton UTA 02/17/2000 UTA vs. SAC W 34 22 9 12 75.0 0 0 - 4 4 100.0 1 3 4 10 0 0 0 2 10
+p381
+aVArmen Gilliam UTA 02/15/2000 UTA vs. BOS L 20 8 4 7 57.1 0 0 - 0 0 - 1 6 7 0 0 0 1 2 -5
+p382
+aVHoward Eisley UTA 02/15/2000 UTA vs. BOS L 35 19 7 15 46.7 3 5 60.0 2 2 100.0 1 2 3 6 0 0 2 4 6
+p383
+aVAdam Keefe UTA 02/15/2000 UTA vs. BOS L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -4
+p384
+aVBryon Russell UTA 02/15/2000 UTA vs. BOS L 36 11 3 7 42.9 1 1 100.0 4 5 80.0 2 5 7 2 4 1 3 5 1
+p385
+aVGreg Ostertag UTA 02/15/2000 UTA vs. BOS L 21 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 4 2 0 12
+p386
+aVQuincy Lewis UTA 02/15/2000 UTA vs. BOS L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 5 1
+p387
+aVJacque Vaughn UTA 02/15/2000 UTA vs. BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p388
+aVJeff Hornacek UTA 02/15/2000 UTA vs. BOS L 24 13 5 12 41.7 2 3 66.7 1 1 100.0 0 0 0 0 0 0 2 3 -11
+p389
+aVJohn Stockton UTA 02/15/2000 UTA vs. BOS L 29 12 3 12 25.0 0 1 0.0 6 6 100.0 3 1 4 9 1 0 3 4 1
+p390
+aVOlden Polynice UTA 02/15/2000 UTA vs. BOS L 16 0 0 1 0.0 0 0 - 0 2 0.0 3 4 7 0 0 1 1 2 -12
+p391
+aVKarl Malone UTA 02/15/2000 UTA vs. BOS L 39 32 8 19 42.1 0 0 - 16 17 94.1 3 6 9 4 1 3 2 2 1
+p392
+aVAdam Keefe UTA 02/09/2000 UTA vs. CHI W 14 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -7
+p393
+aVArmen Gilliam UTA 02/09/2000 UTA vs. CHI W 21 13 6 7 85.7 0 0 - 1 2 50.0 1 1 2 2 0 0 2 2 5
+p394
+aVJeff Hornacek UTA 02/09/2000 UTA vs. CHI W 24 15 6 9 66.7 0 2 0.0 3 3 100.0 1 1 2 5 2 0 1 2 11
+p395
+aVOlden Polynice UTA 02/09/2000 UTA vs. CHI W 18 8 4 6 66.7 0 0 - 0 1 0.0 1 4 5 0 0 0 1 3 11
+p396
+aVGreg Ostertag UTA 02/09/2000 UTA vs. CHI W 23 11 4 9 44.4 0 0 - 3 5 60.0 1 4 5 1 0 4 0 2 15
+p397
+aVBryon Russell UTA 02/09/2000 UTA vs. CHI W 30 4 1 5 20.0 0 1 0.0 2 2 100.0 1 0 1 6 5 1 2 2 26
+p398
+aVScott Padgett UTA 02/09/2000 UTA vs. CHI W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 6
+p399
+aVJacque Vaughn UTA 02/09/2000 UTA vs. CHI W 8 4 2 3 66.7 0 1 0.0 0 2 0.0 1 1 2 1 0 0 0 0 11
+p400
+aVJohn Stockton UTA 02/09/2000 UTA vs. CHI W 22 8 3 3 100.0 0 0 - 2 2 100.0 0 2 2 8 1 0 2 1 24
+p401
+aVHoward Eisley UTA 02/09/2000 UTA vs. CHI W 31 9 3 9 33.3 3 5 60.0 0 0 - 1 2 3 7 2 0 3 3 15
+p402
+aVQuincy Lewis UTA 02/09/2000 UTA vs. CHI W 16 9 4 7 57.1 1 2 50.0 0 0 - 1 1 2 1 0 0 1 2 1
+p403
+aVKarl Malone UTA 02/09/2000 UTA vs. CHI W 30 30 11 15 73.3 0 0 - 8 9 88.9 1 9 10 2 0 0 2 1 17
+p404
+aVOlden Polynice UTA 02/06/2000 UTA vs. SAS W 11 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 4 -3
+p405
+aVArmen Gilliam UTA 02/06/2000 UTA vs. SAS W 19 10 5 10 50.0 0 0 - 0 0 - 2 5 7 0 0 1 0 2 0
+p406
+aVJohn Stockton UTA 02/06/2000 UTA vs. SAS W 28 16 5 9 55.6 1 2 50.0 5 6 83.3 0 1 1 9 1 1 4 4 0
+p407
+aVKarl Malone UTA 02/06/2000 UTA vs. SAS W 38 25 7 20 35.0 0 0 - 11 13 84.6 1 5 6 6 1 2 3 4 2
+p408
+aVBryon Russell UTA 02/06/2000 UTA vs. SAS W 44 16 4 7 57.1 1 3 33.3 7 10 70.0 0 4 4 1 1 1 1 2 3
+p409
+aVGreg Ostertag UTA 02/06/2000 UTA vs. SAS W 28 2 1 3 33.3 0 0 - 0 0 - 2 5 7 0 2 3 1 3 7
+p410
+aVHoward Eisley UTA 02/06/2000 UTA vs. SAS W 24 4 2 3 66.7 0 0 - 0 0 - 0 2 2 3 1 0 2 2 4
+p411
+aVJeff Hornacek UTA 02/06/2000 UTA vs. SAS W 35 17 7 11 63.6 1 2 50.0 2 2 100.0 1 3 4 3 0 1 0 2 2
+p412
+aVQuincy Lewis UTA 02/06/2000 UTA vs. SAS W 8 0 0 4 0.0 0 1 0.0 0 0 - 3 1 4 1 0 0 1 2 0
+p413
+aVAdam Keefe UTA 02/06/2000 UTA vs. SAS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p414
+aVGreg Ostertag UTA 02/04/2000 UTA @ LAL L 16 10 1 4 25.0 0 0 - 8 8 100.0 0 4 4 0 0 2 1 4 -9
+p415
+aVJohn Stockton UTA 02/04/2000 UTA @ LAL L 15 2 1 6 16.7 0 1 0.0 0 0 - 2 1 3 4 0 0 2 0 -18
+p416
+aVKarl Malone UTA 02/04/2000 UTA @ LAL L 18 14 5 11 45.5 0 0 - 4 5 80.0 0 2 2 1 1 0 1 2 -12
+p417
+aVBryon Russell UTA 02/04/2000 UTA @ LAL L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 4 -16
+p418
+aVJacque Vaughn UTA 02/04/2000 UTA @ LAL L 29 8 3 8 37.5 0 0 - 2 4 50.0 0 1 1 3 1 0 3 3 -33
+p419
+aVOlden Polynice UTA 02/04/2000 UTA @ LAL L 12 4 2 6 33.3 0 0 - 0 1 0.0 3 1 4 0 0 0 1 3 -16
+p420
+aVAdam Keefe UTA 02/04/2000 UTA @ LAL L 15 4 2 7 28.6 0 0 - 0 0 - 3 2 5 0 1 0 2 3 -20
+p421
+aVHoward Eisley UTA 02/04/2000 UTA @ LAL L 31 3 1 10 10.0 0 2 0.0 1 1 100.0 0 3 3 1 0 0 2 5 -25
+p422
+aVJeff Hornacek UTA 02/04/2000 UTA @ LAL L 19 8 3 8 37.5 0 0 - 2 2 100.0 1 0 1 3 1 0 0 1 -13
+p423
+aVScott Padgett UTA 02/04/2000 UTA @ LAL L 28 2 1 6 16.7 0 3 0.0 0 2 0.0 0 6 6 1 1 0 3 5 -24
+p424
+aVQuincy Lewis UTA 02/04/2000 UTA @ LAL L 20 4 2 7 28.6 0 1 0.0 0 1 0.0 2 2 4 1 0 0 0 5 -10
+p425
+aVArmen Gilliam UTA 02/04/2000 UTA @ LAL L 28 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 1 2 0 4 4 -34
+p426
+aVHoward Eisley UTA 02/03/2000 UTA vs. MIL L 32 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 5 0 0 1 4 -4
+p427
+aVGreg Ostertag UTA 02/03/2000 UTA vs. MIL L 29 1 0 4 0.0 0 0 - 1 2 50.0 3 4 7 0 1 2 1 1 8
+p428
+aVAdam Keefe UTA 02/03/2000 UTA vs. MIL L 12 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 0 2 3
+p429
+aVJacque Vaughn UTA 02/03/2000 UTA vs. MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p430
+aVJeff Hornacek UTA 02/03/2000 UTA vs. MIL L 25 12 5 9 55.6 1 2 50.0 1 1 100.0 0 1 1 5 3 1 2 1 -5
+p431
+aVKarl Malone UTA 02/03/2000 UTA vs. MIL L 37 28 10 23 43.5 0 0 - 8 10 80.0 2 8 10 4 0 1 3 3 -4
+p432
+aVArmen Gilliam UTA 02/03/2000 UTA vs. MIL L 11 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 1
+p433
+aVBryon Russell UTA 02/03/2000 UTA vs. MIL L 26 14 4 11 36.4 3 4 75.0 3 3 100.0 3 4 7 4 0 0 2 3 -12
+p434
+aVQuincy Lewis UTA 02/03/2000 UTA vs. MIL L 12 5 2 4 50.0 1 1 100.0 0 0 - 1 5 6 1 0 0 0 2 6
+p435
+aVOlden Polynice UTA 02/03/2000 UTA vs. MIL L 19 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 1 3 1 -10
+p436
+aVJohn Stockton UTA 02/03/2000 UTA vs. MIL L 38 18 7 11 63.6 0 1 0.0 4 5 80.0 1 4 5 7 2 0 3 4 2
+p437
+aVBryon Russell UTA 02/01/2000 UTA vs. SEA L 38 19 6 13 46.2 3 4 75.0 4 5 80.0 1 4 5 2 2 2 1 3 -1
+p438
+aVKarl Malone UTA 02/01/2000 UTA vs. SEA L 42 26 10 17 58.8 0 0 - 6 6 100.0 2 9 11 8 1 0 1 2 2
+p439
+aVArmen Gilliam UTA 02/01/2000 UTA vs. SEA L 14 2 1 1 100.0 0 0 - 0 0 - 3 1 4 1 1 1 0 2 -8
+p440
+aVGreg Ostertag UTA 02/01/2000 UTA vs. SEA L 12 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 0 -10
+p441
+aVJeff Hornacek UTA 02/01/2000 UTA vs. SEA L 32 15 6 12 50.0 2 3 66.7 1 1 100.0 1 1 2 2 0 0 2 3 5
+p442
+aVHoward Eisley UTA 02/01/2000 UTA vs. SEA L 20 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 7 0 0 5 5 -10
+p443
+aVJacque Vaughn UTA 02/01/2000 UTA vs. SEA L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p444
+aVOlden Polynice UTA 02/01/2000 UTA vs. SEA L 22 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 0 4 3
+p445
+aVQuincy Lewis UTA 02/01/2000 UTA vs. SEA L 13 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -11
+p446
+aVJohn Stockton UTA 02/01/2000 UTA vs. SEA L 32 15 7 15 46.7 1 3 33.3 0 0 - 3 1 4 8 0 0 4 3 -4
+p447
+aVAdam Keefe UTA 02/01/2000 UTA vs. SEA L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -3
+p448
+aVHoward Eisley UTA 01/29/2000 UTA @ MIN L 28 8 4 9 44.4 0 0 - 0 0 - 1 2 3 3 0 0 3 1 -2
+p449
+aVQuincy Lewis UTA 01/29/2000 UTA @ MIN L 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -2
+p450
+aVOlden Polynice UTA 01/29/2000 UTA @ MIN L 27 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 1 0 5 -2
+p451
+aVArmen Gilliam UTA 01/29/2000 UTA @ MIN L 10 4 2 7 28.6 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -5
+p452
+aVBryon Russell UTA 01/29/2000 UTA @ MIN L 34 10 3 8 37.5 1 2 50.0 3 4 75.0 1 4 5 2 0 0 0 5 0
+p453
+aVGreg Ostertag UTA 01/29/2000 UTA @ MIN L 17 0 0 0 - 0 0 - 0 0 - 2 4 6 0 0 2 3 1 -6
+p454
+aVJohn Stockton UTA 01/29/2000 UTA @ MIN L 26 12 4 10 40.0 0 1 0.0 4 5 80.0 0 1 1 7 0 0 1 3 2
+p455
+aVJacque Vaughn UTA 01/29/2000 UTA @ MIN L 11 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 2 0 -5
+p456
+aVJeff Hornacek UTA 01/29/2000 UTA @ MIN L 33 13 6 13 46.2 1 4 25.0 0 0 - 0 2 2 3 2 0 1 1 5
+p457
+aVAdam Keefe UTA 01/29/2000 UTA @ MIN L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 2
+p458
+aVKarl Malone UTA 01/29/2000 UTA @ MIN L 38 35 13 26 50.0 0 0 - 9 12 75.0 4 9 13 2 0 1 1 2 3
+p459
+aVHoward Eisley UTA 01/27/2000 UTA @ POR L 19 6 1 7 14.3 0 1 0.0 4 4 100.0 0 3 3 5 0 1 1 2 1
+p460
+aVGreg Ostertag UTA 01/27/2000 UTA @ POR L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p461
+aVBryon Russell UTA 01/27/2000 UTA @ POR L 37 4 1 16 6.3 1 6 16.7 1 2 50.0 4 3 7 2 1 0 1 3 -10
+p462
+aVJacque Vaughn UTA 01/27/2000 UTA @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p463
+aVOlden Polynice UTA 01/27/2000 UTA @ POR L 31 6 3 7 42.9 0 1 0.0 0 0 - 2 5 7 1 0 1 0 2 2
+p464
+aVArmen Gilliam UTA 01/27/2000 UTA @ POR L 25 15 5 10 50.0 0 0 - 5 5 100.0 3 2 5 0 1 0 2 2 3
+p465
+aVAdam Keefe UTA 01/27/2000 UTA @ POR L 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 2 1
+p466
+aVJohn Stockton UTA 01/27/2000 UTA @ POR L 38 12 3 12 25.0 2 4 50.0 4 6 66.7 2 1 3 3 1 1 2 0 -14
+p467
+aVJeff Hornacek UTA 01/27/2000 UTA @ POR L 24 7 2 5 40.0 0 0 - 3 3 100.0 0 2 2 3 1 0 1 3 2
+p468
+aVKarl Malone UTA 01/27/2000 UTA @ POR L 34 12 5 12 41.7 0 0 - 2 4 50.0 0 6 6 2 1 0 1 2 -20
+p469
+aVScott Padgett UTA 01/27/2000 UTA @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p470
+aVQuincy Lewis UTA 01/27/2000 UTA @ POR L 22 7 2 5 40.0 1 2 50.0 2 4 50.0 0 0 0 1 0 0 0 4 -15
+p471
+aVScott Padgett UTA 01/26/2000 UTA vs. VAN L 6 4 2 5 40.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 3
+p472
+aVQuincy Lewis UTA 01/26/2000 UTA vs. VAN L 19 11 4 5 80.0 2 2 100.0 1 2 50.0 1 3 4 1 0 1 0 5 -2
+p473
+aVJacque Vaughn UTA 01/26/2000 UTA vs. VAN L 16 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 2 2 0 0 1 -6
+p474
+aVBryon Russell UTA 01/26/2000 UTA vs. VAN L 33 16 5 13 38.5 3 4 75.0 3 6 50.0 1 2 3 1 1 1 0 1 -11
+p475
+aVKarl Malone UTA 01/26/2000 UTA vs. VAN L 27 13 5 12 41.7 0 0 - 3 6 50.0 1 4 5 3 0 0 1 4 -7
+p476
+aVArmen Gilliam UTA 01/26/2000 UTA vs. VAN L 17 10 4 8 50.0 0 0 - 2 2 100.0 3 0 3 0 0 0 1 1 -20
+p477
+aVJohn Stockton UTA 01/26/2000 UTA vs. VAN L 25 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 11 0 0 1 5 -2
+p478
+aVGreg Ostertag UTA 01/26/2000 UTA vs. VAN L 15 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 2 1 1 -3
+p479
+aVHoward Eisley UTA 01/26/2000 UTA vs. VAN L 34 12 4 12 33.3 0 1 0.0 4 5 80.0 1 0 1 8 1 0 2 4 -21
+p480
+aVOlden Polynice UTA 01/26/2000 UTA vs. VAN L 26 10 5 6 83.3 0 0 - 0 1 0.0 1 5 6 1 1 1 1 3 -11
+p481
+aVJeff Hornacek UTA 01/26/2000 UTA vs. VAN L 20 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 4 1 -5
+p482
+aVScott Padgett UTA 01/24/2000 UTA vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p483
+aVQuincy Lewis UTA 01/24/2000 UTA vs. LAL W 29 11 3 8 37.5 0 1 0.0 5 6 83.3 0 2 2 1 1 0 2 1 7
+p484
+aVGreg Ostertag UTA 01/24/2000 UTA vs. LAL W 40 5 2 5 40.0 0 0 - 1 2 50.0 3 11 14 0 1 2 0 5 9
+p485
+aVKarl Malone UTA 01/24/2000 UTA vs. LAL W 47 31 13 24 54.2 0 1 0.0 5 7 71.4 1 12 13 2 0 0 5 5 11
+p486
+aVOlden Polynice UTA 01/24/2000 UTA vs. LAL W 17 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 1 1 1 -9
+p487
+aVAdam Keefe UTA 01/24/2000 UTA vs. LAL W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p488
+aVJeff Hornacek UTA 01/24/2000 UTA vs. LAL W 23 11 3 8 37.5 1 3 33.3 4 4 100.0 0 0 0 2 0 0 1 1 -8
+p489
+aVJohn Stockton UTA 01/24/2000 UTA vs. LAL W 47 18 7 10 70.0 1 3 33.3 3 3 100.0 3 6 9 15 0 1 4 3 7
+p490
+aVArmen Gilliam UTA 01/24/2000 UTA vs. LAL W 10 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 4 3 -7
+p491
+aVBryon Russell UTA 01/24/2000 UTA vs. LAL W 42 13 3 12 25.0 1 3 33.3 6 6 100.0 2 3 5 0 1 1 3 6 12
+p492
+aVJacque Vaughn UTA 01/24/2000 UTA vs. LAL W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -1
+p493
+aVHoward Eisley UTA 01/24/2000 UTA vs. LAL W 27 6 3 10 30.0 0 1 0.0 0 0 - 2 1 3 2 1 1 6 6 -3
+p494
+aVGreg Ostertag UTA 01/22/2000 UTA @ SAC W 9 6 3 4 75.0 0 0 - 0 0 - 2 2 4 1 0 1 1 3 4
+p495
+aVJohn Stockton UTA 01/22/2000 UTA @ SAC W 39 22 9 11 81.8 1 1 100.0 3 4 75.0 0 4 4 13 1 0 3 1 2
+p496
+aVJacque Vaughn UTA 01/22/2000 UTA @ SAC W 18 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 3 2 0 3 3 9
+p497
+aVHoward Eisley UTA 01/22/2000 UTA @ SAC W 31 13 5 11 45.5 0 1 0.0 3 4 75.0 1 3 4 3 1 0 0 1 -1
+p498
+aVBryon Russell UTA 01/22/2000 UTA @ SAC W 37 24 9 19 47.4 3 5 60.0 3 5 60.0 1 7 8 3 3 0 2 3 1
+p499
+aVKarl Malone UTA 01/22/2000 UTA @ SAC W 38 24 9 15 60.0 0 0 - 6 8 75.0 1 8 9 3 1 0 5 4 11
+p500
+aVOlden Polynice UTA 01/22/2000 UTA @ SAC W 27 0 0 5 0.0 0 0 - 0 0 - 4 2 6 1 0 1 1 3 -4
+p501
+aVArmen Gilliam UTA 01/22/2000 UTA @ SAC W 22 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 1 1 0 4 -5
+p502
+aVQuincy Lewis UTA 01/22/2000 UTA @ SAC W 19 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 0 1 1 -2
+p503
+aVJacque Vaughn UTA 01/20/2000 UTA @ VAN W 14 2 1 5 20.0 0 0 - 0 0 - 0 1 1 6 1 0 2 1 6
+p504
+aVKarl Malone UTA 01/20/2000 UTA @ VAN W 41 32 13 23 56.5 0 0 - 6 6 100.0 4 8 12 5 2 1 2 4 9
+p505
+aVArmen Gilliam UTA 01/20/2000 UTA @ VAN W 11 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 0 0 1 2 0 -5
+p506
+aVQuincy Lewis UTA 01/20/2000 UTA @ VAN W 15 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 2 0 2 3 -4
+p507
+aVGreg Ostertag UTA 01/20/2000 UTA @ VAN W 18 6 1 1 100.0 0 0 - 4 4 100.0 0 3 3 0 0 2 3 2 -10
+p508
+aVAdam Keefe UTA 01/20/2000 UTA @ VAN W 9 0 0 0 - 0 0 - 0 0 - 0 5 5 0 0 0 0 0 -1
+p509
+aVBryon Russell UTA 01/20/2000 UTA @ VAN W 37 25 9 14 64.3 1 1 100.0 6 11 54.5 1 3 4 1 0 0 1 3 7
+p510
+aVJohn Stockton UTA 01/20/2000 UTA @ VAN W 34 8 3 8 37.5 0 2 0.0 2 2 100.0 0 0 0 12 2 0 2 2 -1
+p511
+aVOlden Polynice UTA 01/20/2000 UTA @ VAN W 25 8 4 5 80.0 0 0 - 0 0 - 2 3 5 0 1 0 2 3 14
+p512
+aVHoward Eisley UTA 01/20/2000 UTA @ VAN W 36 9 3 5 60.0 1 2 50.0 2 4 50.0 0 3 3 4 1 0 2 2 10
+p513
+aVGreg Ostertag UTA 01/19/2000 UTA vs. MIN L 18 3 1 2 50.0 0 0 - 1 4 25.0 3 9 12 0 0 3 0 0 11
+p514
+aVQuincy Lewis UTA 01/19/2000 UTA vs. MIN L 13 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 1 1 3 -9
+p515
+aVBryon Russell UTA 01/19/2000 UTA vs. MIN L 41 12 5 17 29.4 1 3 33.3 1 2 50.0 2 4 6 3 3 0 2 5 -2
+p516
+aVArmen Gilliam UTA 01/19/2000 UTA vs. MIN L 21 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 2 7
+p517
+aVJohn Stockton UTA 01/19/2000 UTA vs. MIN L 35 23 9 12 75.0 2 2 100.0 3 4 75.0 0 1 1 12 0 0 4 2 7
+p518
+aVHoward Eisley UTA 01/19/2000 UTA vs. MIN L 28 7 3 7 42.9 0 2 0.0 1 2 50.0 0 1 1 3 0 0 1 3 0
+p519
+aVOlden Polynice UTA 01/19/2000 UTA vs. MIN L 22 2 1 2 50.0 0 0 - 0 0 - 1 8 9 0 0 0 0 2 -12
+p520
+aVJacque Vaughn UTA 01/19/2000 UTA vs. MIN L 14 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 -11
+p521
+aVKarl Malone UTA 01/19/2000 UTA vs. MIN L 35 21 8 18 44.4 0 0 - 5 7 71.4 2 6 8 4 0 1 5 2 -12
+p522
+aVAdam Keefe UTA 01/19/2000 UTA vs. MIN L 13 3 1 2 50.0 0 0 - 1 1 100.0 1 3 4 0 0 0 1 3 6
+p523
+aVArmen Gilliam UTA 01/15/2000 UTA vs. LAC W 27 13 5 10 50.0 0 0 - 3 4 75.0 2 10 12 6 1 0 1 2 39
+p524
+aVScott Padgett UTA 01/15/2000 UTA vs. LAC W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 10
+p525
+aVQuincy Lewis UTA 01/15/2000 UTA vs. LAC W 13 4 2 9 22.2 0 0 - 0 0 - 3 0 3 0 1 0 0 1 23
+p526
+aVKarl Malone UTA 01/15/2000 UTA vs. LAC W 27 24 9 19 47.4 0 0 - 6 7 85.7 1 6 7 1 1 2 3 1 4
+p527
+aVJohn Stockton UTA 01/15/2000 UTA vs. LAC W 21 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 6 0 0 1 0 16
+p528
+aVJeff Hornacek UTA 01/15/2000 UTA vs. LAC W 24 17 8 13 61.5 1 1 100.0 0 0 - 2 1 3 4 0 0 1 0 6
+p529
+aVBryon Russell UTA 01/15/2000 UTA vs. LAC W 35 17 5 11 45.5 2 4 50.0 5 6 83.3 0 7 7 5 4 0 0 1 16
+p530
+aVOlden Polynice UTA 01/15/2000 UTA vs. LAC W 17 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 0 1 4 -5
+p531
+aVHoward Eisley UTA 01/15/2000 UTA vs. LAC W 28 13 5 10 50.0 2 3 66.7 1 1 100.0 0 4 4 3 1 0 1 3 18
+p532
+aVAdam Keefe UTA 01/15/2000 UTA vs. LAC W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 1 1 0 0 0 10
+p533
+aVGreg Ostertag UTA 01/15/2000 UTA vs. LAC W 20 10 5 7 71.4 0 0 - 0 1 0.0 3 4 7 1 0 3 0 3 26
+p534
+aVJacque Vaughn UTA 01/15/2000 UTA vs. LAC W 17 6 3 3 100.0 0 0 - 0 0 - 0 1 1 3 1 0 3 3 22
+p535
+aVGreg Ostertag UTA 01/13/2000 UTA vs. MIA W 14 2 1 2 50.0 0 0 - 0 4 0.0 2 3 5 0 0 1 0 2 -11
+p536
+aVBryon Russell UTA 01/13/2000 UTA vs. MIA W 40 19 6 11 54.5 1 3 33.3 6 6 100.0 0 5 5 1 0 0 1 3 27
+p537
+aVHoward Eisley UTA 01/13/2000 UTA vs. MIA W 35 11 4 9 44.4 0 3 0.0 3 4 75.0 0 1 1 5 3 1 1 2 12
+p538
+aVKarl Malone UTA 01/13/2000 UTA vs. MIA W 34 18 4 13 30.8 0 0 - 10 12 83.3 2 6 8 6 2 2 3 2 17
+p539
+aVArmen Gilliam UTA 01/13/2000 UTA vs. MIA W 23 10 4 10 40.0 0 0 - 2 4 50.0 0 7 7 0 1 0 1 2 -3
+p540
+aVAdam Keefe UTA 01/13/2000 UTA vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p541
+aVOlden Polynice UTA 01/13/2000 UTA vs. MIA W 22 11 5 11 45.5 0 0 - 1 2 50.0 3 4 7 0 0 1 0 4 20
+p542
+aVJacque Vaughn UTA 01/13/2000 UTA vs. MIA W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -11
+p543
+aVJohn Stockton UTA 01/13/2000 UTA vs. MIA W 31 4 2 4 50.0 0 1 0.0 0 0 - 2 4 6 13 3 0 1 2 5
+p544
+aVJeff Hornacek UTA 01/13/2000 UTA vs. MIA W 22 17 6 10 60.0 1 2 50.0 4 4 100.0 1 2 3 0 0 0 3 2 10
+p545
+aVQuincy Lewis UTA 01/13/2000 UTA vs. MIA W 10 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 1 -13
+p546
+aVQuincy Lewis UTA 01/10/2000 UTA @ SAS L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 1 4 -8
+p547
+aVGreg Ostertag UTA 01/10/2000 UTA @ SAS L 20 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 0 3 0 5 -3
+p548
+aVHoward Eisley UTA 01/10/2000 UTA @ SAS L 26 16 7 12 58.3 2 2 100.0 0 0 - 0 3 3 6 3 0 1 1 -5
+p549
+aVArmen Gilliam UTA 01/10/2000 UTA @ SAS L 9 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 3 -10
+p550
+aVJeff Hornacek UTA 01/10/2000 UTA @ SAS L 30 9 3 8 37.5 1 3 33.3 2 3 66.7 1 1 2 1 1 0 3 1 9
+p551
+aVOlden Polynice UTA 01/10/2000 UTA @ SAS L 26 7 3 7 42.9 0 0 - 1 1 100.0 3 3 6 0 0 1 2 5 -3
+p552
+aVJohn Stockton UTA 01/10/2000 UTA @ SAS L 32 6 2 7 28.6 0 1 0.0 2 2 100.0 0 3 3 10 2 0 6 3 -18
+p553
+aVKarl Malone UTA 01/10/2000 UTA @ SAS L 40 23 7 14 50.0 0 0 - 9 11 81.8 2 9 11 4 2 1 2 2 3
+p554
+aVBryon Russell UTA 01/10/2000 UTA @ SAS L 37 15 5 11 45.5 2 3 66.7 3 3 100.0 3 4 7 1 0 1 2 2 1
+p555
+aVJacque Vaughn UTA 01/10/2000 UTA @ SAS L 9 4 1 3 33.3 1 1 100.0 1 3 33.3 0 1 1 1 0 0 1 0 -1
+p556
+aVAdam Keefe UTA 01/08/2000 UTA @ HOU W 25 5 1 5 20.0 0 0 - 3 3 100.0 3 3 6 0 0 2 0 4 6
+p557
+aVKarl Malone UTA 01/08/2000 UTA @ HOU W 38 32 12 21 57.1 0 0 - 8 12 66.7 2 4 6 2 2 1 0 3 18
+p558
+aVGreg Ostertag UTA 01/08/2000 UTA @ HOU W 17 4 2 5 40.0 0 0 - 0 0 - 3 4 7 0 1 1 2 5 5
+p559
+aVBryon Russell UTA 01/08/2000 UTA @ HOU W 34 25 7 12 58.3 4 6 66.7 7 7 100.0 2 8 10 2 0 0 1 4 13
+p560
+aVJacque Vaughn UTA 01/08/2000 UTA @ HOU W 17 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 2 2 0 0 1 -2
+p561
+aVScott Padgett UTA 01/08/2000 UTA @ HOU W 3 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -1
+p562
+aVOlden Polynice UTA 01/08/2000 UTA @ HOU W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 4
+p563
+aVQuincy Lewis UTA 01/08/2000 UTA @ HOU W 14 6 2 5 40.0 2 3 66.7 0 0 - 1 0 1 0 1 0 2 5 -1
+p564
+aVHoward Eisley UTA 01/08/2000 UTA @ HOU W 28 9 4 12 33.3 1 1 100.0 0 0 - 1 2 3 6 2 0 1 4 0
+p565
+aVJeff Hornacek UTA 01/08/2000 UTA @ HOU W 28 2 1 9 11.1 0 1 0.0 0 0 - 0 3 3 2 2 0 2 2 15
+p566
+aVJohn Stockton UTA 01/08/2000 UTA @ HOU W 23 10 5 10 50.0 0 1 0.0 0 0 - 0 6 6 6 1 0 0 2 23
+p567
+aVJeff Hornacek UTA 01/06/2000 UTA @ DAL W 31 12 3 8 37.5 0 1 0.0 6 7 85.7 1 4 5 3 1 2 2 0 12
+p568
+aVBryon Russell UTA 01/06/2000 UTA @ DAL W 33 20 9 14 64.3 0 2 0.0 2 2 100.0 0 1 1 1 1 0 1 3 17
+p569
+aVOlden Polynice UTA 01/06/2000 UTA @ DAL W 22 4 2 4 50.0 0 0 - 0 2 0.0 4 8 12 0 1 1 0 4 0
+p570
+aVJohn Stockton UTA 01/06/2000 UTA @ DAL W 27 12 3 8 37.5 0 0 - 6 6 100.0 0 3 3 10 3 0 2 3 18
+p571
+aVKarl Malone UTA 01/06/2000 UTA @ DAL W 39 24 8 18 44.4 0 0 - 8 11 72.7 0 11 11 4 0 1 2 3 16
+p572
+aVHoward Eisley UTA 01/06/2000 UTA @ DAL W 28 9 4 11 36.4 0 3 0.0 1 2 50.0 0 2 2 7 1 1 3 2 2
+p573
+aVAdam Keefe UTA 01/06/2000 UTA @ DAL W 13 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 0 0 0 1 -8
+p574
+aVQuincy Lewis UTA 01/06/2000 UTA @ DAL W 22 10 3 9 33.3 0 0 - 4 4 100.0 1 2 3 0 1 1 0 4 -2
+p575
+aVJacque Vaughn UTA 01/06/2000 UTA @ DAL W 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 1 2
+p576
+aVGreg Ostertag UTA 01/06/2000 UTA @ DAL W 15 8 2 3 66.7 0 0 - 4 5 80.0 4 2 6 0 0 0 0 1 8
+p577
+aVJeff Hornacek UTA 01/05/2000 UTA vs. CHH W 29 12 6 10 60.0 0 0 - 0 0 - 0 2 2 2 3 0 3 1 13
+p578
+aVGreg Ostertag UTA 01/05/2000 UTA vs. CHH W 18 6 2 3 66.7 0 0 - 2 3 66.7 1 4 5 0 0 2 3 4 8
+p579
+aVJacque Vaughn UTA 01/05/2000 UTA vs. CHH W 18 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 6 1 0 2 1 10
+p580
+aVOlden Polynice UTA 01/05/2000 UTA vs. CHH W 25 6 3 5 60.0 0 0 - 0 1 0.0 1 9 10 1 0 1 1 3 14
+p581
+aVBryon Russell UTA 01/05/2000 UTA vs. CHH W 33 12 5 11 45.5 2 3 66.7 0 0 - 1 1 2 3 1 0 0 2 18
+p582
+aVPete Chilcutt UTA 01/05/2000 UTA vs. CHH W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p583
+aVJohn Stockton UTA 01/05/2000 UTA vs. CHH W 20 16 7 8 87.5 1 1 100.0 1 2 50.0 0 2 2 7 3 0 3 2 6
+p584
+aVAdam Keefe UTA 01/05/2000 UTA vs. CHH W 14 2 1 5 20.0 0 0 - 0 0 - 2 2 4 3 1 0 0 3 11
+p585
+aVScott Padgett UTA 01/05/2000 UTA vs. CHH W 6 2 1 3 33.3 0 0 - 0 0 - 0 4 4 3 0 0 1 1 1
+p586
+aVQuincy Lewis UTA 01/05/2000 UTA vs. CHH W 18 8 4 8 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 4 5
+p587
+aVKarl Malone UTA 01/05/2000 UTA vs. CHH W 30 30 12 15 80.0 0 0 - 6 6 100.0 1 7 8 7 0 2 1 3 11
+p588
+aVHoward Eisley UTA 01/05/2000 UTA vs. CHH W 25 16 7 9 77.8 2 2 100.0 0 0 - 0 2 2 4 0 1 0 3 13
+p589
+aVJacque Vaughn UTA 01/03/2000 UTA vs. DEN W 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 2 1 1
+p590
+aVAdam Keefe UTA 01/03/2000 UTA vs. DEN W 18 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 2 0 0 0 2 4
+p591
+aVHoward Eisley UTA 01/03/2000 UTA vs. DEN W 17 5 2 9 22.2 0 1 0.0 1 1 100.0 0 2 2 2 1 0 1 3 3
+p592
+aVJeff Hornacek UTA 01/03/2000 UTA vs. DEN W 30 8 4 9 44.4 0 2 0.0 0 0 - 1 1 2 3 2 0 1 0 9
+p593
+aVQuincy Lewis UTA 01/03/2000 UTA vs. DEN W 24 14 6 10 60.0 1 3 33.3 1 2 50.0 1 2 3 1 1 1 0 3 14
+p594
+aVPete Chilcutt UTA 01/03/2000 UTA vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p595
+aVGreg Ostertag UTA 01/03/2000 UTA vs. DEN W 15 2 1 3 33.3 0 0 - 0 0 - 4 0 4 1 0 4 0 3 -10
+p596
+aVBryon Russell UTA 01/03/2000 UTA vs. DEN W 29 17 8 12 66.7 1 1 100.0 0 0 - 0 8 8 2 1 0 1 3 16
+p597
+aVKarl Malone UTA 01/03/2000 UTA vs. DEN W 40 33 11 22 50.0 1 2 50.0 10 11 90.9 2 5 7 3 1 0 4 5 15
+p598
+aVScott Padgett UTA 01/03/2000 UTA vs. DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p599
+aVOlden Polynice UTA 01/03/2000 UTA vs. DEN W 21 9 4 6 66.7 0 0 - 1 2 50.0 3 5 8 0 1 1 0 5 31
+p600
+aVJohn Stockton UTA 01/03/2000 UTA vs. DEN W 31 12 4 7 57.1 2 2 100.0 2 2 100.0 0 2 2 18 2 0 2 3 17
+p601
+aVJeff Hornacek UTA 12/29/1999 UTA vs. VAN W 22 22 10 14 71.4 0 2 0.0 2 2 100.0 0 3 3 4 0 1 0 4 -3
+p602
+aVAdam Keefe UTA 12/29/1999 UTA vs. VAN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 2
+p603
+aVOlden Polynice UTA 12/29/1999 UTA vs. VAN W 25 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 1 0 3 5
+p604
+aVBryon Russell UTA 12/29/1999 UTA vs. VAN W 38 12 5 10 50.0 0 2 0.0 2 2 100.0 0 2 2 1 1 0 1 3 14
+p605
+aVScott Padgett UTA 12/29/1999 UTA vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p606
+aVGreg Ostertag UTA 12/29/1999 UTA vs. VAN W 22 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 1 1 1 2
+p607
+aVKarl Malone UTA 12/29/1999 UTA vs. VAN W 37 29 8 14 57.1 0 0 - 13 14 92.9 2 9 11 3 0 3 6 5 7
+p608
+aVJohn Stockton UTA 12/29/1999 UTA vs. VAN W 24 5 2 6 33.3 0 0 - 1 1 100.0 1 2 3 13 2 1 1 0 13
+p609
+aVPete Chilcutt UTA 12/29/1999 UTA vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p610
+aVHoward Eisley UTA 12/29/1999 UTA vs. VAN W 31 8 2 11 18.2 2 5 40.0 2 2 100.0 0 4 4 5 2 0 3 2 6
+p611
+aVJacque Vaughn UTA 12/29/1999 UTA vs. VAN W 18 11 3 3 100.0 1 1 100.0 4 4 100.0 0 1 1 2 0 0 0 1 6
+p612
+aVQuincy Lewis UTA 12/29/1999 UTA vs. VAN W 16 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 2 0 2 2 -1
+p613
+aVJohn Stockton UTA 12/27/1999 UTA vs. PHX W 29 11 4 14 28.6 0 3 0.0 3 7 42.9 1 1 2 3 4 0 4 3 -10
+p614
+aVKarl Malone UTA 12/27/1999 UTA vs. PHX W 40 28 10 19 52.6 0 0 - 8 11 72.7 3 5 8 3 1 1 3 3 -2
+p615
+aVQuincy Lewis UTA 12/27/1999 UTA vs. PHX W 17 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 2 2 6
+p616
+aVAdam Keefe UTA 12/27/1999 UTA vs. PHX W 9 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 2
+p617
+aVHoward Eisley UTA 12/27/1999 UTA vs. PHX W 30 10 3 7 42.9 0 1 0.0 4 4 100.0 0 1 1 6 1 0 0 5 3
+p618
+aVBryon Russell UTA 12/27/1999 UTA vs. PHX W 36 14 5 15 33.3 1 5 20.0 3 4 75.0 2 5 7 4 4 0 1 4 -3
+p619
+aVJeff Hornacek UTA 12/27/1999 UTA vs. PHX W 28 5 1 7 14.3 1 2 50.0 2 2 100.0 1 1 2 4 1 0 0 1 9
+p620
+aVGreg Ostertag UTA 12/27/1999 UTA vs. PHX W 12 5 1 2 50.0 0 0 - 3 4 75.0 2 0 2 0 1 2 0 0 -3
+p621
+aVJacque Vaughn UTA 12/27/1999 UTA vs. PHX W 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 0 1 0
+p622
+aVOlden Polynice UTA 12/27/1999 UTA vs. PHX W 30 4 2 3 66.7 0 0 - 0 0 - 1 8 9 1 0 1 2 2 3
+p623
+aVBryon Russell UTA 12/22/1999 UTA @ MIA L 32 12 5 10 50.0 2 3 66.7 0 0 - 1 2 3 2 1 0 1 1 -2
+p624
+aVOlden Polynice UTA 12/22/1999 UTA @ MIA L 32 4 2 6 33.3 0 0 - 0 0 - 4 7 11 0 0 0 1 4 -2
+p625
+aVQuincy Lewis UTA 12/22/1999 UTA @ MIA L 16 9 4 5 80.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 0
+p626
+aVKarl Malone UTA 12/22/1999 UTA @ MIA L 39 21 10 18 55.6 0 0 - 1 5 20.0 1 7 8 3 3 0 7 4 -1
+p627
+aVAdam Keefe UTA 12/22/1999 UTA @ MIA L 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 2 0 0 2 0
+p628
+aVJacque Vaughn UTA 12/22/1999 UTA @ MIA L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 2 -2
+p629
+aVGreg Ostertag UTA 12/22/1999 UTA @ MIA L 14 2 0 2 0.0 0 0 - 2 4 50.0 0 3 3 0 0 1 1 1 -1
+p630
+aVJeff Hornacek UTA 12/22/1999 UTA @ MIA L 28 12 5 10 50.0 0 1 0.0 2 2 100.0 2 2 4 1 0 0 3 2 2
+p631
+aVJohn Stockton UTA 12/22/1999 UTA @ MIA L 27 6 2 7 28.6 0 2 0.0 2 2 100.0 0 3 3 8 1 0 3 2 0
+p632
+aVHoward Eisley UTA 12/22/1999 UTA @ MIA L 30 4 2 6 33.3 0 1 0.0 0 2 0.0 0 2 2 6 1 0 2 0 -4
+p633
+aVBryon Russell UTA 12/20/1999 UTA @ ORL L 40 10 2 6 33.3 1 2 50.0 5 10 50.0 3 4 7 3 2 0 4 3 1
+p634
+aVOlden Polynice UTA 12/20/1999 UTA @ ORL L 24 8 4 7 57.1 0 0 - 0 2 0.0 0 2 2 0 1 0 3 4 -7
+p635
+aVQuincy Lewis UTA 12/20/1999 UTA @ ORL L 16 4 2 6 33.3 0 0 - 0 0 - 2 1 3 0 0 1 2 3 1
+p636
+aVJeff Hornacek UTA 12/20/1999 UTA @ ORL L 33 13 4 9 44.4 1 2 50.0 4 4 100.0 2 2 4 6 1 1 0 5 -10
+p637
+aVPete Chilcutt UTA 12/20/1999 UTA @ ORL L 3 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -5
+p638
+aVKarl Malone UTA 12/20/1999 UTA @ ORL L 39 29 12 22 54.5 0 0 - 5 6 83.3 4 9 13 8 1 0 4 2 -5
+p639
+aVGreg Ostertag UTA 12/20/1999 UTA @ ORL L 17 6 1 1 100.0 0 0 - 4 4 100.0 1 3 4 0 0 0 1 3 11
+p640
+aVJacque Vaughn UTA 12/20/1999 UTA @ ORL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 6
+p641
+aVJohn Stockton UTA 12/20/1999 UTA @ ORL L 30 15 5 9 55.6 1 2 50.0 4 4 100.0 0 2 2 4 1 1 4 2 -2
+p642
+aVHoward Eisley UTA 12/20/1999 UTA @ ORL L 32 13 6 11 54.5 1 2 50.0 0 0 - 0 2 2 5 0 0 2 5 0
+p643
+aVJohn Stockton UTA 12/18/1999 UTA @ ATL W 33 12 4 10 40.0 1 2 50.0 3 3 100.0 1 2 3 11 3 0 1 2 23
+p644
+aVJeff Hornacek UTA 12/18/1999 UTA @ ATL W 31 11 4 9 44.4 0 0 - 3 3 100.0 0 1 1 4 0 0 1 1 7
+p645
+aVBryon Russell UTA 12/18/1999 UTA @ ATL W 38 19 7 14 50.0 2 4 50.0 3 3 100.0 1 4 5 2 4 0 0 4 16
+p646
+aVPete Chilcutt UTA 12/18/1999 UTA @ ATL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -7
+p647
+aVAdam Keefe UTA 12/18/1999 UTA @ ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p648
+aVGreg Ostertag UTA 12/18/1999 UTA @ ATL W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -8
+p649
+aVQuincy Lewis UTA 12/18/1999 UTA @ ATL W 23 10 5 6 83.3 0 0 - 0 0 - 1 5 6 2 2 2 0 4 5
+p650
+aVOlden Polynice UTA 12/18/1999 UTA @ ATL W 42 10 5 8 62.5 0 0 - 0 0 - 4 7 11 0 0 2 1 4 18
+p651
+aVKarl Malone UTA 12/18/1999 UTA @ ATL W 41 33 14 26 53.8 0 0 - 5 6 83.3 2 5 7 5 1 3 1 4 21
+p652
+aVJacque Vaughn UTA 12/18/1999 UTA @ ATL W 8 4 1 6 16.7 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -11
+p653
+aVHoward Eisley UTA 12/18/1999 UTA @ ATL W 12 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 3 1 0 0 4 -11
+p654
+aVJeff Hornacek UTA 12/17/1999 UTA @ IND L 33 15 6 12 50.0 1 3 33.3 2 2 100.0 0 4 4 1 0 0 2 1 -1
+p655
+aVOlden Polynice UTA 12/17/1999 UTA @ IND L 28 8 4 7 57.1 0 0 - 0 0 - 6 6 12 0 1 1 1 3 0
+p656
+aVGreg Ostertag UTA 12/17/1999 UTA @ IND L 13 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -5
+p657
+aVJohn Stockton UTA 12/17/1999 UTA @ IND L 24 8 3 8 37.5 1 2 50.0 1 1 100.0 0 2 2 4 0 0 0 2 -6
+p658
+aVJacque Vaughn UTA 12/17/1999 UTA @ IND L 15 6 2 5 40.0 0 0 - 2 4 50.0 1 0 1 0 0 0 1 0 -12
+p659
+aVPete Chilcutt UTA 12/17/1999 UTA @ IND L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p660
+aVHoward Eisley UTA 12/17/1999 UTA @ IND L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 4 -6
+p661
+aVKarl Malone UTA 12/17/1999 UTA @ IND L 30 16 6 22 27.3 0 0 - 4 8 50.0 2 11 13 5 1 0 1 3 -12
+p662
+aVScott Padgett UTA 12/17/1999 UTA @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p663
+aVQuincy Lewis UTA 12/17/1999 UTA @ IND L 19 4 2 8 25.0 0 0 - 0 0 - 1 1 2 1 1 2 1 4 -10
+p664
+aVAdam Keefe UTA 12/17/1999 UTA @ IND L 14 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 3 0 0 3 5 -9
+p665
+aVBryon Russell UTA 12/17/1999 UTA @ IND L 37 9 3 11 27.3 0 3 0.0 3 4 75.0 1 6 7 0 2 1 3 4 -14
+p666
+aVJohn Stockton UTA 12/15/1999 UTA @ BOS W 24 13 5 6 83.3 0 0 - 3 4 75.0 0 3 3 7 3 0 3 2 7
+p667
+aVPete Chilcutt UTA 12/15/1999 UTA @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p668
+aVJacque Vaughn UTA 12/15/1999 UTA @ BOS W 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 4 0 0 0 0 16
+p669
+aVBryon Russell UTA 12/15/1999 UTA @ BOS W 42 11 4 13 30.8 1 1 100.0 2 2 100.0 1 5 6 5 2 0 1 3 15
+p670
+aVGreg Ostertag UTA 12/15/1999 UTA @ BOS W 24 4 1 1 100.0 0 0 - 2 4 50.0 4 7 11 0 0 2 2 2 15
+p671
+aVJeff Hornacek UTA 12/15/1999 UTA @ BOS W 29 15 7 10 70.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 1
+p672
+aVQuincy Lewis UTA 12/15/1999 UTA @ BOS W 16 7 3 7 42.9 0 0 - 1 2 50.0 4 1 5 1 2 0 1 4 6
+p673
+aVOlden Polynice UTA 12/15/1999 UTA @ BOS W 24 0 0 1 0.0 0 0 - 0 2 0.0 2 4 6 0 0 3 2 3 -5
+p674
+aVKarl Malone UTA 12/15/1999 UTA @ BOS W 37 27 7 17 41.2 0 0 - 13 17 76.5 1 7 8 4 2 2 2 3 5
+p675
+aVHoward Eisley UTA 12/15/1999 UTA @ BOS W 30 15 5 9 55.6 0 2 0.0 5 7 71.4 0 2 2 0 1 0 1 3 -4
+p676
+aVBryon Russell UTA 12/14/1999 UTA @ WAS W 39 10 5 9 55.6 0 2 0.0 0 0 - 0 3 3 4 2 1 1 3 15
+p677
+aVKarl Malone UTA 12/14/1999 UTA @ WAS W 37 34 13 23 56.5 0 0 - 8 10 80.0 1 11 12 5 1 3 3 3 30
+p678
+aVPete Chilcutt UTA 12/14/1999 UTA @ WAS W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -6
+p679
+aVQuincy Lewis UTA 12/14/1999 UTA @ WAS W 10 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 2
+p680
+aVScott Padgett UTA 12/14/1999 UTA @ WAS W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p681
+aVJeff Hornacek UTA 12/14/1999 UTA @ WAS W 31 21 7 8 87.5 3 3 100.0 4 4 100.0 0 1 1 2 2 0 0 2 23
+p682
+aVJohn Stockton UTA 12/14/1999 UTA @ WAS W 27 11 5 10 50.0 1 1 100.0 0 0 - 0 3 3 7 2 0 1 1 24
+p683
+aVOlden Polynice UTA 12/14/1999 UTA @ WAS W 30 10 5 10 50.0 0 0 - 0 2 0.0 3 2 5 0 0 0 3 3 25
+p684
+aVGreg Ostertag UTA 12/14/1999 UTA @ WAS W 18 4 2 4 50.0 0 0 - 0 1 0.0 3 3 6 0 0 2 3 2 -4
+p685
+aVHoward Eisley UTA 12/14/1999 UTA @ WAS W 26 2 1 7 14.3 0 1 0.0 0 0 - 0 1 1 5 2 0 2 4 -1
+p686
+aVJacque Vaughn UTA 12/14/1999 UTA @ WAS W 11 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 1 1 0 2 1 -5
+p687
+aVScott Padgett UTA 12/12/1999 UTA @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p688
+aVHoward Eisley UTA 12/12/1999 UTA @ TOR W 24 8 2 7 28.6 1 2 50.0 3 3 100.0 0 2 2 6 0 0 1 4 2
+p689
+aVOlden Polynice UTA 12/12/1999 UTA @ TOR W 25 4 2 5 40.0 0 0 - 0 0 - 0 7 7 2 0 2 0 5 4
+p690
+aVPete Chilcutt UTA 12/12/1999 UTA @ TOR W 13 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 0 0 0 0 3 19
+p691
+aVKarl Malone UTA 12/12/1999 UTA @ TOR W 33 28 8 16 50.0 0 0 - 12 14 85.7 2 12 14 1 3 0 3 4 10
+p692
+aVQuincy Lewis UTA 12/12/1999 UTA @ TOR W 15 2 1 5 20.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 3
+p693
+aVAdam Keefe UTA 12/12/1999 UTA @ TOR W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p694
+aVJacque Vaughn UTA 12/12/1999 UTA @ TOR W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -4
+p695
+aVJeff Hornacek UTA 12/12/1999 UTA @ TOR W 35 16 5 10 50.0 1 1 100.0 5 5 100.0 1 3 4 3 2 0 3 2 14
+p696
+aVGreg Ostertag UTA 12/12/1999 UTA @ TOR W 14 10 5 5 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 2
+p697
+aVJohn Stockton UTA 12/12/1999 UTA @ TOR W 25 12 4 8 50.0 0 0 - 4 5 80.0 0 0 0 5 1 0 0 3 11
+p698
+aVBryon Russell UTA 12/12/1999 UTA @ TOR W 41 17 5 7 71.4 1 1 100.0 6 6 100.0 2 0 2 3 1 0 0 5 12
+p699
+aVJacque Vaughn UTA 12/10/1999 UTA vs. SEA W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p700
+aVOlden Polynice UTA 12/10/1999 UTA vs. SEA W 13 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 4 1 4 4
+p701
+aVAdam Keefe UTA 12/10/1999 UTA vs. SEA W 16 6 3 5 60.0 0 0 - 0 0 - 1 1 2 3 1 0 2 4 10
+p702
+aVQuincy Lewis UTA 12/10/1999 UTA vs. SEA W 14 4 2 8 25.0 0 0 - 0 0 - 0 2 2 1 0 0 1 5 1
+p703
+aVJohn Stockton UTA 12/10/1999 UTA vs. SEA W 29 15 4 7 57.1 1 3 33.3 6 6 100.0 0 5 5 10 6 0 2 2 22
+p704
+aVHoward Eisley UTA 12/10/1999 UTA vs. SEA W 16 9 4 12 33.3 1 3 33.3 0 0 - 0 0 0 3 3 0 1 2 -3
+p705
+aVPete Chilcutt UTA 12/10/1999 UTA vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p706
+aVKarl Malone UTA 12/10/1999 UTA vs. SEA W 38 21 7 14 50.0 0 0 - 7 9 77.8 2 9 11 3 2 3 2 2 22
+p707
+aVScott Padgett UTA 12/10/1999 UTA vs. SEA W 10 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 1 -5
+p708
+aVBryon Russell UTA 12/10/1999 UTA vs. SEA W 41 10 4 13 30.8 1 5 20.0 1 2 50.0 2 7 9 1 1 1 1 3 28
+p709
+aVGreg Ostertag UTA 12/10/1999 UTA vs. SEA W 18 11 5 7 71.4 0 0 - 1 3 33.3 7 2 9 1 0 4 1 2 -4
+p710
+aVJeff Hornacek UTA 12/10/1999 UTA vs. SEA W 35 19 8 15 53.3 0 1 0.0 3 3 100.0 4 2 6 5 4 0 3 3 12
+p711
+aVScott Padgett UTA 12/08/1999 UTA vs. DAL W 8 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 -8
+p712
+aVGreg Ostertag UTA 12/08/1999 UTA vs. DAL W 20 2 1 1 100.0 0 0 - 0 0 - 2 4 6 1 0 4 0 2 -4
+p713
+aVJohn Stockton UTA 12/08/1999 UTA vs. DAL W 23 11 4 5 80.0 1 1 100.0 2 2 100.0 0 2 2 7 1 0 3 4 9
+p714
+aVJacque Vaughn UTA 12/08/1999 UTA vs. DAL W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 5
+p715
+aVHoward Eisley UTA 12/08/1999 UTA vs. DAL W 33 7 3 9 33.3 0 0 - 1 2 50.0 0 5 5 7 0 1 5 2 2
+p716
+aVOlden Polynice UTA 12/08/1999 UTA vs. DAL W 20 2 1 3 33.3 0 0 - 0 2 0.0 5 2 7 0 0 1 0 4 11
+p717
+aVKarl Malone UTA 12/08/1999 UTA vs. DAL W 39 29 13 24 54.2 0 0 - 3 3 100.0 4 6 10 1 2 2 6 2 10
+p718
+aVAdam Keefe UTA 12/08/1999 UTA vs. DAL W 17 8 4 7 57.1 0 0 - 0 0 - 2 3 5 1 1 1 0 1 -5
+p719
+aVBryon Russell UTA 12/08/1999 UTA vs. DAL W 40 13 5 15 33.3 0 1 0.0 3 4 75.0 0 8 8 1 2 0 1 2 14
+p720
+aVQuincy Lewis UTA 12/08/1999 UTA vs. DAL W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -8
+p721
+aVJeff Hornacek UTA 12/08/1999 UTA vs. DAL W 25 11 4 10 40.0 1 2 50.0 2 2 100.0 0 1 1 4 1 0 3 1 4
+p722
+aVKarl Malone UTA 12/06/1999 UTA vs. WAS W 41 32 11 18 61.1 0 0 - 10 14 71.4 5 6 11 5 1 2 3 3 11
+p723
+aVAdam Keefe UTA 12/06/1999 UTA vs. WAS W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 1 1 0 2 2 -4
+p724
+aVQuincy Lewis UTA 12/06/1999 UTA vs. WAS W 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 1
+p725
+aVHoward Eisley UTA 12/06/1999 UTA vs. WAS W 27 18 6 8 75.0 1 2 50.0 5 5 100.0 0 1 1 5 0 0 2 5 -9
+p726
+aVJeff Hornacek UTA 12/06/1999 UTA vs. WAS W 22 9 4 7 57.1 1 2 50.0 0 0 - 1 1 2 2 0 0 0 2 17
+p727
+aVJohn Stockton UTA 12/06/1999 UTA vs. WAS W 31 10 3 10 30.0 0 1 0.0 4 7 57.1 1 0 1 10 3 0 2 4 11
+p728
+aVGreg Ostertag UTA 12/06/1999 UTA vs. WAS W 21 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 5 1 3 -7
+p729
+aVJacque Vaughn UTA 12/06/1999 UTA vs. WAS W 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -8
+p730
+aVOlden Polynice UTA 12/06/1999 UTA vs. WAS W 27 8 3 3 100.0 0 0 - 2 2 100.0 2 4 6 0 0 2 0 3 12
+p731
+aVBryon Russell UTA 12/06/1999 UTA vs. WAS W 37 13 5 12 41.7 1 3 33.3 2 4 50.0 0 7 7 3 0 0 1 3 10
+p732
+aVScott Padgett UTA 12/06/1999 UTA vs. WAS W 11 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 0 1 0 2 -4
+p733
+aVJeff Hornacek UTA 12/04/1999 UTA @ GSW W 35 10 1 7 14.3 0 2 0.0 8 8 100.0 0 2 2 6 1 0 0 0 13
+p734
+aVPete Chilcutt UTA 12/04/1999 UTA @ GSW W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p735
+aVHoward Eisley UTA 12/04/1999 UTA @ GSW W 19 12 4 6 66.7 1 1 100.0 3 4 75.0 0 2 2 2 1 0 3 5 11
+p736
+aVScott Padgett UTA 12/04/1999 UTA @ GSW W 11 3 1 4 25.0 1 3 33.3 0 2 0.0 0 0 0 0 0 0 0 2 6
+p737
+aVJohn Stockton UTA 12/04/1999 UTA @ GSW W 29 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 7 2 0 3 2 1
+p738
+aVAdam Keefe UTA 12/04/1999 UTA @ GSW W 19 9 4 6 66.7 0 0 - 1 1 100.0 1 0 1 0 0 0 1 2 4
+p739
+aVOlden Polynice UTA 12/04/1999 UTA @ GSW W 27 4 2 6 33.3 0 0 - 0 0 - 1 7 8 1 0 5 1 4 8
+p740
+aVJacque Vaughn UTA 12/04/1999 UTA @ GSW W 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 1 0 1 3 -1
+p741
+aVKarl Malone UTA 12/04/1999 UTA @ GSW W 45 29 9 21 42.9 0 0 - 11 13 84.6 5 9 14 2 0 1 3 3 11
+p742
+aVBryon Russell UTA 12/04/1999 UTA @ GSW W 37 17 7 10 70.0 1 2 50.0 2 2 100.0 1 3 4 1 2 0 1 4 6
+p743
+aVQuincy Lewis UTA 12/03/1999 UTA vs. IND L 13 6 2 5 40.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 5 -9
+p744
+aVKarl Malone UTA 12/03/1999 UTA vs. IND L 35 16 6 14 42.9 0 0 - 4 8 50.0 2 8 10 3 2 0 3 1 -14
+p745
+aVHoward Eisley UTA 12/03/1999 UTA vs. IND L 19 6 3 11 27.3 0 3 0.0 0 0 - 0 1 1 4 1 0 1 0 0
+p746
+aVJohn Stockton UTA 12/03/1999 UTA vs. IND L 21 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 6 0 0 1 1 -23
+p747
+aVJacque Vaughn UTA 12/03/1999 UTA vs. IND L 15 4 1 6 16.7 0 2 0.0 2 2 100.0 0 0 0 4 1 0 1 1 -5
+p748
+aVBryon Russell UTA 12/03/1999 UTA vs. IND L 33 8 4 9 44.4 0 1 0.0 0 0 - 3 3 6 1 0 1 0 2 -13
+p749
+aVOlden Polynice UTA 12/03/1999 UTA vs. IND L 16 6 3 4 75.0 0 0 - 0 0 - 4 3 7 3 0 0 1 4 -6
+p750
+aVAdam Keefe UTA 12/03/1999 UTA vs. IND L 19 6 3 5 60.0 0 0 - 0 2 0.0 1 4 5 1 0 0 1 2 -5
+p751
+aVScott Padgett UTA 12/03/1999 UTA vs. IND L 18 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 0 0 1 2 0 -12
+p752
+aVGreg Ostertag UTA 12/03/1999 UTA vs. IND L 12 2 1 4 25.0 0 0 - 0 1 0.0 2 3 5 0 1 1 1 2 -18
+p753
+aVPete Chilcutt UTA 12/03/1999 UTA vs. IND L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 1 0 -7
+p754
+aVJeff Hornacek UTA 12/03/1999 UTA vs. IND L 26 10 3 9 33.3 0 0 - 4 4 100.0 0 1 1 1 0 0 1 3 -13
+p755
+aVAdam Keefe UTA 11/29/1999 UTA vs. GSW W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 -9
+p756
+aVQuincy Lewis UTA 11/29/1999 UTA vs. GSW W 15 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 2 2 -10
+p757
+aVHoward Eisley UTA 11/29/1999 UTA vs. GSW W 20 7 2 3 66.7 1 1 100.0 2 2 100.0 1 3 4 5 1 0 0 0 9
+p758
+aVJohn Stockton UTA 11/29/1999 UTA vs. GSW W 19 8 4 7 57.1 0 0 - 0 0 - 0 2 2 8 1 0 2 2 20
+p759
+aVGreg Ostertag UTA 11/29/1999 UTA vs. GSW W 23 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 0 1 1 1 3 32
+p760
+aVScott Padgett UTA 11/29/1999 UTA vs. GSW W 18 16 5 10 50.0 3 4 75.0 3 4 75.0 3 0 3 0 2 1 1 3 -11
+p761
+aVOlden Polynice UTA 11/29/1999 UTA vs. GSW W 25 9 4 7 57.1 0 0 - 1 2 50.0 1 3 4 1 2 2 3 4 -16
+p762
+aVKarl Malone UTA 11/29/1999 UTA vs. GSW W 31 27 12 14 85.7 0 0 - 3 4 75.0 2 6 8 10 2 1 2 1 31
+p763
+aVJeff Hornacek UTA 11/29/1999 UTA vs. GSW W 24 16 4 7 57.1 1 2 50.0 7 7 100.0 1 2 3 6 0 0 1 1 30
+p764
+aVPete Chilcutt UTA 11/29/1999 UTA vs. GSW W 9 0 0 0 - 0 0 - 0 0 - 3 0 3 0 1 1 1 2 -13
+p765
+aVJacque Vaughn UTA 11/29/1999 UTA vs. GSW W 20 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 3 1 0 2 0 -15
+p766
+aVBryon Russell UTA 11/29/1999 UTA vs. GSW W 29 14 6 13 46.2 2 5 40.0 0 0 - 2 2 4 1 1 0 1 3 32
+p767
+aVAdam Keefe UTA 11/26/1999 UTA vs. TOR L 16 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 1 1 1 4 -2
+p768
+aVPete Chilcutt UTA 11/26/1999 UTA vs. TOR L 10 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 2 0 0 0 1 -2
+p769
+aVJacque Vaughn UTA 11/26/1999 UTA vs. TOR L 16 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 2 0 0 0 3
+p770
+aVJohn Stockton UTA 11/26/1999 UTA vs. TOR L 25 16 8 13 61.5 0 2 0.0 0 0 - 1 2 3 8 0 0 2 2 3
+p771
+aVHoward Eisley UTA 11/26/1999 UTA vs. TOR L 24 9 3 9 33.3 3 6 50.0 0 0 - 0 0 0 2 0 0 1 2 -20
+p772
+aVJeff Hornacek UTA 11/26/1999 UTA vs. TOR L 31 12 4 13 30.8 0 0 - 4 4 100.0 1 0 1 2 0 0 2 3 -12
+p773
+aVKarl Malone UTA 11/26/1999 UTA vs. TOR L 37 24 8 23 34.8 0 0 - 8 12 66.7 4 9 13 3 0 0 3 3 -12
+p774
+aVScott Padgett UTA 11/26/1999 UTA vs. TOR L 12 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 2 0 1 0 2 5
+p775
+aVGreg Ostertag UTA 11/26/1999 UTA vs. TOR L 18 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 1 0 1 3 0
+p776
+aVOlden Polynice UTA 11/26/1999 UTA vs. TOR L 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 1 0 2 -12
+p777
+aVBryon Russell UTA 11/26/1999 UTA vs. TOR L 37 6 2 8 25.0 0 3 0.0 2 6 33.3 2 4 6 0 3 0 0 4 -16
+p778
+aVBryon Russell UTA 11/24/1999 UTA @ LAL L 32 13 3 9 33.3 0 3 0.0 7 9 77.8 1 5 6 0 3 0 0 4 -4
+p779
+aVGreg Ostertag UTA 11/24/1999 UTA @ LAL L 25 5 1 2 50.0 0 0 - 3 4 75.0 2 3 5 0 0 4 0 5 6
+p780
+aVOlden Polynice UTA 11/24/1999 UTA @ LAL L 22 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 0 0 5 -14
+p781
+aVJacque Vaughn UTA 11/24/1999 UTA @ LAL L 5 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 3
+p782
+aVJeff Hornacek UTA 11/24/1999 UTA @ LAL L 31 14 6 14 42.9 2 3 66.7 0 0 - 1 1 2 2 1 1 2 2 -15
+p783
+aVKarl Malone UTA 11/24/1999 UTA @ LAL L 40 22 9 23 39.1 0 0 - 4 5 80.0 3 9 12 3 0 0 4 1 -12
+p784
+aVJohn Stockton UTA 11/24/1999 UTA @ LAL L 31 13 6 11 54.5 1 3 33.3 0 0 - 1 2 3 9 3 1 4 5 -9
+p785
+aVHoward Eisley UTA 11/24/1999 UTA @ LAL L 21 8 2 7 28.6 1 1 100.0 3 3 100.0 0 1 1 0 2 0 3 2 -3
+p786
+aVScott Padgett UTA 11/24/1999 UTA @ LAL L 24 2 1 5 20.0 0 0 - 0 0 - 2 2 4 2 1 1 1 6 4
+p787
+aVPete Chilcutt UTA 11/24/1999 UTA @ LAL L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 4
+p788
+aVBryon Russell UTA 11/22/1999 UTA vs. MIN W 32 14 6 13 46.2 2 4 50.0 0 0 - 1 3 4 2 1 1 1 3 18
+p789
+aVPete Chilcutt UTA 11/22/1999 UTA vs. MIN W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -3
+p790
+aVJeff Hornacek UTA 11/22/1999 UTA vs. MIN W 32 12 5 9 55.6 0 1 0.0 2 2 100.0 0 1 1 2 1 0 2 2 12
+p791
+aVHoward Eisley UTA 11/22/1999 UTA vs. MIN W 25 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 5 0 0 3 4 -5
+p792
+aVJohn Stockton UTA 11/22/1999 UTA vs. MIN W 30 12 6 8 75.0 0 2 0.0 0 0 - 0 1 1 15 2 1 0 0 24
+p793
+aVScott Padgett UTA 11/22/1999 UTA vs. MIN W 16 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 2 -3
+p794
+aVGreg Ostertag UTA 11/22/1999 UTA vs. MIN W 29 9 4 6 66.7 0 0 - 1 4 25.0 2 3 5 0 0 0 0 2 21
+p795
+aVJacque Vaughn UTA 11/22/1999 UTA vs. MIN W 9 9 3 6 50.0 1 1 100.0 2 3 66.7 0 0 0 3 0 0 0 2 -1
+p796
+aVOlden Polynice UTA 11/22/1999 UTA vs. MIN W 19 4 2 2 100.0 0 0 - 0 1 0.0 1 2 3 0 0 0 1 4 -6
+p797
+aVKarl Malone UTA 11/22/1999 UTA vs. MIN W 39 34 13 24 54.2 0 0 - 8 9 88.9 1 10 11 3 0 1 5 4 18
+p798
+aVBryon Russell UTA 11/20/1999 UTA @ MIL W 37 19 7 9 77.8 1 2 50.0 4 6 66.7 1 6 7 1 1 0 1 3 10
+p799
+aVScott Padgett UTA 11/20/1999 UTA @ MIL W 15 4 2 4 50.0 0 1 0.0 0 0 - 0 5 5 1 1 0 0 3 -1
+p800
+aVJeff Hornacek UTA 11/20/1999 UTA @ MIL W 34 11 4 11 36.4 2 4 50.0 1 1 100.0 0 1 1 4 0 0 0 3 11
+p801
+aVHoward Eisley UTA 11/20/1999 UTA @ MIL W 23 8 2 10 20.0 2 5 40.0 2 2 100.0 0 1 1 6 0 0 0 2 7
+p802
+aVOlden Polynice UTA 11/20/1999 UTA @ MIL W 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 1 11
+p803
+aVGreg Ostertag UTA 11/20/1999 UTA @ MIL W 27 5 2 2 100.0 0 0 - 1 3 33.3 1 5 6 1 0 2 0 4 2
+p804
+aVPete Chilcutt UTA 11/20/1999 UTA @ MIL W 13 2 1 5 20.0 0 0 - 0 0 - 1 5 6 0 1 0 0 1 5
+p805
+aVJohn Stockton UTA 11/20/1999 UTA @ MIL W 39 18 7 11 63.6 0 2 0.0 4 4 100.0 2 1 3 12 2 0 3 4 4
+p806
+aVKarl Malone UTA 11/20/1999 UTA @ MIL W 35 40 17 25 68.0 0 0 - 6 7 85.7 1 7 8 4 1 0 7 4 6
+p807
+aVKarl Malone UTA 11/19/1999 UTA @ MIN L 40 19 6 16 37.5 0 1 0.0 7 7 100.0 2 6 8 1 2 1 4 5 6
+p808
+aVPete Chilcutt UTA 11/19/1999 UTA @ MIN L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -11
+p809
+aVBryon Russell UTA 11/19/1999 UTA @ MIN L 35 13 4 9 44.4 1 1 100.0 4 6 66.7 1 1 2 1 2 0 1 5 9
+p810
+aVGreg Ostertag UTA 11/19/1999 UTA @ MIN L 24 6 3 4 75.0 0 0 - 0 0 - 2 8 10 0 0 0 0 4 6
+p811
+aVJohn Stockton UTA 11/19/1999 UTA @ MIN L 31 19 4 15 26.7 0 2 0.0 11 11 100.0 0 2 2 8 3 0 3 0 2
+p812
+aVOlden Polynice UTA 11/19/1999 UTA @ MIN L 24 4 2 5 40.0 0 0 - 0 2 0.0 3 1 4 1 0 0 2 2 -11
+p813
+aVQuincy Lewis UTA 11/19/1999 UTA @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p814
+aVHoward Eisley UTA 11/19/1999 UTA @ MIN L 22 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 4 1 0 1 3 -2
+p815
+aVJeff Hornacek UTA 11/19/1999 UTA @ MIN L 33 15 6 13 46.2 0 0 - 3 3 100.0 3 3 6 2 0 2 1 2 -8
+p816
+aVScott Padgett UTA 11/19/1999 UTA @ MIN L 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 3 -10
+p817
+aVJacque Vaughn UTA 11/19/1999 UTA @ MIN L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p818
+aVJohn Stockton UTA 11/17/1999 UTA vs. NYK W 30 17 5 10 50.0 0 2 0.0 7 7 100.0 0 2 2 11 3 0 4 3 14
+p819
+aVQuincy Lewis UTA 11/17/1999 UTA vs. NYK W 5 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 -4
+p820
+aVKarl Malone UTA 11/17/1999 UTA vs. NYK W 41 33 10 17 58.8 0 0 - 13 15 86.7 1 10 11 6 0 2 5 0 16
+p821
+aVPete Chilcutt UTA 11/17/1999 UTA vs. NYK W 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -8
+p822
+aVGreg Ostertag UTA 11/17/1999 UTA vs. NYK W 21 5 2 3 66.7 0 0 - 1 4 25.0 6 2 8 0 0 2 0 5 3
+p823
+aVOlden Polynice UTA 11/17/1999 UTA vs. NYK W 27 8 4 7 57.1 0 0 - 0 0 - 2 4 6 0 1 1 1 2 5
+p824
+aVBryon Russell UTA 11/17/1999 UTA vs. NYK W 34 10 4 12 33.3 1 4 25.0 1 2 50.0 2 1 3 0 0 0 2 1 1
+p825
+aVScott Padgett UTA 11/17/1999 UTA vs. NYK W 29 8 3 8 37.5 1 3 33.3 1 1 100.0 0 8 8 1 0 1 2 4 19
+p826
+aVHoward Eisley UTA 11/17/1999 UTA vs. NYK W 18 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 3 0 0 2 0 -6
+p827
+aVJeff Hornacek UTA 11/17/1999 UTA vs. NYK W 28 10 5 10 50.0 0 3 0.0 0 0 - 0 3 3 3 3 0 1 3 0
+p828
+aVOlden Polynice UTA 11/15/1999 UTA vs. SAS W 25 1 0 2 0.0 0 0 - 1 4 25.0 1 4 5 0 1 2 3 6 -5
+p829
+aVJohn Stockton UTA 11/15/1999 UTA vs. SAS W 34 20 9 16 56.3 1 1 100.0 1 2 50.0 1 2 3 4 2 0 2 4 13
+p830
+aVKarl Malone UTA 11/15/1999 UTA vs. SAS W 39 20 7 18 38.9 0 0 - 6 7 85.7 5 6 11 3 1 0 4 2 4
+p831
+aVHoward Eisley UTA 11/15/1999 UTA vs. SAS W 29 13 5 13 38.5 3 4 75.0 0 0 - 2 2 4 6 0 0 1 1 1
+p832
+aVPete Chilcutt UTA 11/15/1999 UTA vs. SAS W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 2
+p833
+aVBryon Russell UTA 11/15/1999 UTA vs. SAS W 36 19 7 9 77.8 3 3 100.0 2 2 100.0 1 3 4 1 0 0 1 3 8
+p834
+aVJeff Hornacek UTA 11/15/1999 UTA vs. SAS W 33 10 2 9 22.2 0 1 0.0 6 6 100.0 1 3 4 2 0 1 2 1 -2
+p835
+aVGreg Ostertag UTA 11/15/1999 UTA vs. SAS W 23 2 1 1 100.0 0 0 - 0 2 0.0 0 11 11 0 0 2 2 5 8
+p836
+aVScott Padgett UTA 11/15/1999 UTA vs. SAS W 12 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 0 0 1 1
+p837
+aVScott Padgett UTA 11/12/1999 UTA @ SAC L 18 6 2 6 33.3 2 3 66.7 0 0 - 3 7 10 2 0 2 2 1 -4
+p838
+aVQuincy Lewis UTA 11/12/1999 UTA @ SAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p839
+aVOlden Polynice UTA 11/12/1999 UTA @ SAC L 16 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 -7
+p840
+aVJohn Stockton UTA 11/12/1999 UTA @ SAC L 26 6 3 9 33.3 0 1 0.0 0 0 - 0 0 0 9 1 0 1 2 -15
+p841
+aVJeff Hornacek UTA 11/12/1999 UTA @ SAC L 34 14 5 12 41.7 1 3 33.3 3 5 60.0 2 3 5 0 3 0 3 2 -13
+p842
+aVHoward Eisley UTA 11/12/1999 UTA @ SAC L 21 8 4 12 33.3 0 1 0.0 0 0 - 0 2 2 4 0 0 3 3 -1
+p843
+aVJacque Vaughn UTA 11/12/1999 UTA @ SAC L 13 10 2 3 66.7 0 0 - 6 6 100.0 0 1 1 0 0 0 0 1 0
+p844
+aVBryon Russell UTA 11/12/1999 UTA @ SAC L 20 11 5 8 62.5 1 1 100.0 0 0 - 1 3 4 0 1 0 1 6 -8
+p845
+aVKarl Malone UTA 11/12/1999 UTA @ SAC L 30 20 7 15 46.7 0 0 - 6 8 75.0 0 7 7 1 1 1 3 5 -16
+p846
+aVAdam Keefe UTA 11/12/1999 UTA @ SAC L 13 0 0 5 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 2
+p847
+aVPete Chilcutt UTA 11/12/1999 UTA @ SAC L 20 7 3 6 50.0 1 1 100.0 0 0 - 2 1 3 2 0 1 0 0 0
+p848
+aVGreg Ostertag UTA 11/12/1999 UTA @ SAC L 27 10 3 7 42.9 0 0 - 4 4 100.0 4 9 13 1 0 0 3 4 -6
+p849
+aVKarl Malone UTA 11/09/1999 UTA vs. POR W 39 24 6 11 54.5 0 0 - 12 14 85.7 3 5 8 3 1 1 2 3 0
+p850
+aVScott Padgett UTA 11/09/1999 UTA vs. POR W 18 5 2 8 25.0 1 5 20.0 0 0 - 0 2 2 1 1 0 1 0 5
+p851
+aVHoward Eisley UTA 11/09/1999 UTA vs. POR W 19 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 4 -14
+p852
+aVQuincy Lewis UTA 11/09/1999 UTA vs. POR W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 10
+p853
+aVAdam Keefe UTA 11/09/1999 UTA vs. POR W 5 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p854
+aVJohn Stockton UTA 11/09/1999 UTA vs. POR W 32 11 3 7 42.9 0 2 0.0 5 5 100.0 1 3 4 9 1 1 3 2 16
+p855
+aVPete Chilcutt UTA 11/09/1999 UTA vs. POR W 9 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 3 7
+p856
+aVOlden Polynice UTA 11/09/1999 UTA vs. POR W 23 4 2 6 33.3 0 0 - 0 0 - 1 3 4 1 0 1 1 2 -7
+p857
+aVJacque Vaughn UTA 11/09/1999 UTA vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p858
+aVGreg Ostertag UTA 11/09/1999 UTA vs. POR W 25 5 1 3 33.3 0 0 - 3 4 75.0 2 0 2 0 0 2 1 0 10
+p859
+aVBryon Russell UTA 11/09/1999 UTA vs. POR W 37 19 6 12 50.0 0 2 0.0 7 9 77.8 1 8 9 1 1 1 0 0 -6
+p860
+aVJeff Hornacek UTA 11/09/1999 UTA vs. POR W 21 14 4 6 66.7 0 0 - 6 6 100.0 0 1 1 2 1 0 1 6 13
+p861
+aVPete Chilcutt UTA 11/08/1999 UTA @ LAC W 11 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -3
+p862
+aVJeff Hornacek UTA 11/08/1999 UTA @ LAC W 32 16 8 13 61.5 0 0 - 0 0 - 0 2 2 3 0 1 3 2 14
+p863
+aVBryon Russell UTA 11/08/1999 UTA @ LAC W 31 13 5 8 62.5 1 2 50.0 2 4 50.0 0 1 1 2 3 0 1 3 14
+p864
+aVJohn Stockton UTA 11/08/1999 UTA @ LAC W 28 11 3 7 42.9 0 0 - 5 7 71.4 1 5 6 10 2 0 2 3 16
+p865
+aVHoward Eisley UTA 11/08/1999 UTA @ LAC W 19 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 3 0 0 2 4 3
+p866
+aVJacque Vaughn UTA 11/08/1999 UTA @ LAC W 14 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 3 0 0 0 3 -5
+p867
+aVGreg Ostertag UTA 11/08/1999 UTA @ LAC W 26 6 2 4 50.0 0 0 - 2 2 100.0 2 6 8 0 1 4 2 4 7
+p868
+aVScott Padgett UTA 11/08/1999 UTA @ LAC W 18 6 2 9 22.2 0 2 0.0 2 2 100.0 1 2 3 0 1 0 0 2 4
+p869
+aVKarl Malone UTA 11/08/1999 UTA @ LAC W 36 24 9 20 45.0 0 0 - 6 6 100.0 0 9 9 2 1 0 4 3 19
+p870
+aVAdam Keefe UTA 11/08/1999 UTA @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p871
+aVOlden Polynice UTA 11/08/1999 UTA @ LAC W 22 0 0 2 0.0 0 0 - 0 0 - 2 7 9 0 0 0 1 4 8
+p872
+aVQuincy Lewis UTA 11/08/1999 UTA @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p873
+aVHoward Eisley UTA 11/06/1999 UTA @ SEA L 23 6 2 4 50.0 0 2 0.0 2 2 100.0 0 2 2 2 0 0 1 2 2
+p874
+aVJacque Vaughn UTA 11/06/1999 UTA @ SEA L 15 7 3 7 42.9 0 0 - 1 2 50.0 0 1 1 1 0 0 2 3 -2
+p875
+aVOlden Polynice UTA 11/06/1999 UTA @ SEA L 38 6 3 7 42.9 0 0 - 0 0 - 7 4 11 1 0 0 1 2 -1
+p876
+aVJohn Stockton UTA 11/06/1999 UTA @ SEA L 25 10 4 8 50.0 1 3 33.3 1 1 100.0 0 0 0 4 3 0 3 2 -7
+p877
+aVBryon Russell UTA 11/06/1999 UTA @ SEA L 37 20 7 14 50.0 2 3 66.7 4 4 100.0 1 3 4 0 2 1 0 4 11
+p878
+aVPete Chilcutt UTA 11/06/1999 UTA @ SEA L 19 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 3 -14
+p879
+aVKarl Malone UTA 11/06/1999 UTA @ SEA L 38 31 13 22 59.1 0 0 - 5 5 100.0 3 10 13 7 1 0 4 3 2
+p880
+aVJeff Hornacek UTA 11/06/1999 UTA @ SEA L 33 10 3 9 33.3 0 1 0.0 4 4 100.0 1 3 4 5 0 0 1 2 -3
+p881
+aVAdam Keefe UTA 11/06/1999 UTA @ SEA L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -16
+p882
+aVGreg Ostertag UTA 11/06/1999 UTA @ SEA L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p883
+aVJohn Stockton UTA 11/04/1999 UTA vs. HOU W 24 18 8 8 100.0 0 0 - 2 2 100.0 0 1 1 7 1 0 3 0 4
+p884
+aVScott Padgett UTA 11/04/1999 UTA vs. HOU W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p885
+aVHoward Eisley UTA 11/04/1999 UTA vs. HOU W 27 11 5 10 50.0 1 2 50.0 0 0 - 0 1 1 6 2 0 0 4 10
+p886
+aVAdam Keefe UTA 11/04/1999 UTA vs. HOU W 16 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 0 0 3 1 4
+p887
+aVQuincy Lewis UTA 11/04/1999 UTA vs. HOU W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p888
+aVBryon Russell UTA 11/04/1999 UTA vs. HOU W 28 7 2 15 13.3 1 6 16.7 2 2 100.0 1 3 4 1 0 0 1 1 14
+p889
+aVPete Chilcutt UTA 11/04/1999 UTA vs. HOU W 14 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 0 1 0 1 5
+p890
+aVJacque Vaughn UTA 11/04/1999 UTA vs. HOU W 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 1 0 1 5 9
+p891
+aVJeff Hornacek UTA 11/04/1999 UTA vs. HOU W 29 17 8 11 72.7 0 1 0.0 1 1 100.0 0 3 3 1 0 0 3 3 13
+p892
+aVKarl Malone UTA 11/04/1999 UTA vs. HOU W 37 21 8 12 66.7 0 0 - 5 7 71.4 1 7 8 5 3 2 6 4 12
+p893
+aVOlden Polynice UTA 11/04/1999 UTA vs. HOU W 16 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 3
+p894
+aVGreg Ostertag UTA 11/04/1999 UTA vs. HOU W 29 8 3 6 50.0 0 0 - 2 5 40.0 4 6 10 0 1 3 2 3 12
+p895
+aVAdam Keefe UTA 11/02/1999 UTA vs. LAL L 14 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 1 0 1 2 -8
+p896
+aVJohn Stockton UTA 11/02/1999 UTA vs. LAL L 31 15 6 13 46.2 1 2 50.0 2 2 100.0 1 2 3 8 0 0 3 3 -7
+p897
+aVQuincy Lewis UTA 11/02/1999 UTA vs. LAL L 4 3 0 2 0.0 0 1 0.0 3 4 75.0 1 1 2 0 0 0 0 0 3
+p898
+aVJacque Vaughn UTA 11/02/1999 UTA vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p899
+aVJeff Hornacek UTA 11/02/1999 UTA vs. LAL L 34 23 8 13 61.5 1 2 50.0 6 6 100.0 0 1 1 1 2 1 3 3 -10
+p900
+aVBryon Russell UTA 11/02/1999 UTA vs. LAL L 34 5 1 3 33.3 0 1 0.0 3 3 100.0 0 6 6 2 2 0 0 4 1
+p901
+aVGreg Ostertag UTA 11/02/1999 UTA vs. LAL L 29 7 2 5 40.0 0 0 - 3 5 60.0 2 5 7 0 1 4 3 4 -5
+p902
+aVHoward Eisley UTA 11/02/1999 UTA vs. LAL L 26 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 4 0 0 0 0 0
+p903
+aVPete Chilcutt UTA 11/02/1999 UTA vs. LAL L 14 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 -5
+p904
+aVOlden Polynice UTA 11/02/1999 UTA vs. LAL L 17 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 1 0 1 4 1
+p905
+aVKarl Malone UTA 11/02/1999 UTA vs. LAL L 36 14 4 10 40.0 0 0 - 6 8 75.0 0 5 5 3 0 1 5 3 -5
+p906
+a.

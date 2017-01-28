@@ -1,0 +1,1052 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEric Riley BOS 05/05/1999 BOS vs. CHH L 13 7 1 2 50.0 0 0 - 5 5 100.0 1 3 4 1 0 0 1 1 -6
+p2
+aVTony Battie BOS 05/05/1999 BOS vs. CHH L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p3
+aVDamon Jones BOS 05/05/1999 BOS vs. CHH L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -10
+p4
+aVAntoine Walker BOS 05/05/1999 BOS vs. CHH L 43 23 9 22 40.9 4 5 80.0 1 4 25.0 2 6 8 7 2 1 1 5 -14
+p5
+aVVitaly Potapenko BOS 05/05/1999 BOS vs. CHH L 26 8 4 9 44.4 0 0 - 0 2 0.0 0 5 5 2 1 0 0 6 8
+p6
+aVBruce Bowen BOS 05/05/1999 BOS vs. CHH L 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 6 -4
+p7
+aVWalter McCarty BOS 05/05/1999 BOS vs. CHH L 32 13 3 11 27.3 2 4 50.0 5 5 100.0 3 4 7 4 0 0 1 5 1
+p8
+aVPaul Pierce BOS 05/05/1999 BOS vs. CHH L 45 27 11 21 52.4 2 7 28.6 3 4 75.0 5 4 9 5 2 2 1 3 -2
+p9
+aVRon Mercer BOS 05/05/1999 BOS vs. CHH L 54 23 11 22 50.0 0 3 0.0 1 2 50.0 2 8 10 4 1 1 2 4 0
+p10
+aVDana Barros BOS 05/05/1999 BOS vs. CHH L 52 26 8 17 47.1 4 9 44.4 6 7 85.7 2 5 7 9 3 0 4 1 8
+p11
+aVDamon Jones BOS 05/03/1999 BOS @ NYK L 16 4 1 3 33.3 0 1 0.0 2 2 100.0 0 4 4 3 0 0 2 1 1
+p12
+aVVitaly Potapenko BOS 05/03/1999 BOS @ NYK L 31 13 5 11 45.5 0 0 - 3 4 75.0 1 5 6 4 0 0 1 5 -14
+p13
+aVPaul Pierce BOS 05/03/1999 BOS @ NYK L 39 18 6 15 40.0 2 5 40.0 4 6 66.7 1 5 6 5 4 2 1 1 -10
+p14
+aVWalter McCarty BOS 05/03/1999 BOS @ NYK L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 8
+p15
+aVMarlon Garnett BOS 05/03/1999 BOS @ NYK L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p16
+aVRon Mercer BOS 05/03/1999 BOS @ NYK L 41 18 7 16 43.8 0 0 - 4 4 100.0 0 1 1 3 1 0 2 2 -12
+p17
+aVEric Riley BOS 05/03/1999 BOS @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p18
+aVDana Barros BOS 05/03/1999 BOS @ NYK L 32 8 3 6 50.0 1 2 50.0 1 1 100.0 0 4 4 3 0 0 2 2 -8
+p19
+aVTony Battie BOS 05/03/1999 BOS @ NYK L 34 14 6 9 66.7 0 0 - 2 4 50.0 2 8 10 2 2 3 0 4 9
+p20
+aVAntoine Walker BOS 05/03/1999 BOS @ NYK L 27 11 4 15 26.7 2 5 40.0 1 3 33.3 2 5 7 3 0 0 3 4 -8
+p21
+aVWalter McCarty BOS 05/01/1999 BOS vs. MIL L 31 7 2 7 28.6 1 4 25.0 2 2 100.0 0 4 4 1 0 0 0 4 -7
+p22
+aVDana Barros BOS 05/01/1999 BOS vs. MIL L 35 12 4 11 36.4 4 8 50.0 0 0 - 1 1 2 4 1 0 4 2 -7
+p23
+aVVitaly Potapenko BOS 05/01/1999 BOS vs. MIL L 27 14 4 6 66.7 0 0 - 6 7 85.7 4 3 7 2 0 1 4 6 0
+p24
+aVTony Battie BOS 05/01/1999 BOS vs. MIL L 40 11 4 8 50.0 0 0 - 3 4 75.0 3 10 13 0 1 4 1 2 -8
+p25
+aVMarlon Garnett BOS 05/01/1999 BOS vs. MIL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p26
+aVPaul Pierce BOS 05/01/1999 BOS vs. MIL L 38 14 5 18 27.8 2 6 33.3 2 2 100.0 2 2 4 5 2 1 5 3 -6
+p27
+aVEric Riley BOS 05/01/1999 BOS vs. MIL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p28
+aVRon Mercer BOS 05/01/1999 BOS vs. MIL L 43 21 9 20 45.0 0 2 0.0 3 3 100.0 1 5 6 2 2 0 4 0 -7
+p29
+aVDamon Jones BOS 05/01/1999 BOS vs. MIL L 13 0 0 4 0.0 0 2 0.0 0 0 - 1 4 5 3 2 0 1 0 -2
+p30
+aVVitaly Potapenko BOS 04/29/1999 BOS @ MIA W 32 14 6 9 66.7 0 0 - 2 3 66.7 3 4 7 1 0 1 2 3 13
+p31
+aVDamon Jones BOS 04/29/1999 BOS @ MIA W 16 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 3 0 0 0 2 8
+p32
+aVPaul Pierce BOS 04/29/1999 BOS @ MIA W 44 31 12 19 63.2 3 6 50.0 4 4 100.0 0 5 5 2 1 3 4 1 6
+p33
+aVWalter McCarty BOS 04/29/1999 BOS @ MIA W 36 9 3 9 33.3 1 5 20.0 2 2 100.0 0 1 1 4 2 0 2 3 10
+p34
+aVMarlon Garnett BOS 04/29/1999 BOS @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p35
+aVRon Mercer BOS 04/29/1999 BOS @ MIA W 45 19 8 20 40.0 0 1 0.0 3 5 60.0 2 5 7 6 2 0 3 2 10
+p36
+aVEric Riley BOS 04/29/1999 BOS @ MIA W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 2 0 0 2
+p37
+aVGreg Minor BOS 04/29/1999 BOS @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 6
+p38
+aVTony Battie BOS 04/29/1999 BOS @ MIA W 24 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 3 1 4 -3
+p39
+aVDana Barros BOS 04/29/1999 BOS @ MIA W 32 27 9 10 90.0 4 4 100.0 5 6 83.3 0 5 5 8 5 0 5 1 3
+p40
+aVRon Mercer BOS 04/27/1999 BOS vs. DET L 43 12 4 16 25.0 0 0 - 4 4 100.0 1 3 4 2 3 0 5 5 -13
+p41
+aVGreg Minor BOS 04/27/1999 BOS vs. DET L 15 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 1 1 0 0 0 9
+p42
+aVPaul Pierce BOS 04/27/1999 BOS vs. DET L 37 21 7 15 46.7 5 10 50.0 2 3 66.7 1 4 5 2 3 0 3 3 -7
+p43
+aVMarlon Garnett BOS 04/27/1999 BOS vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p44
+aVDamon Jones BOS 04/27/1999 BOS vs. DET L 17 10 4 7 57.1 2 3 66.7 0 0 - 0 3 3 1 0 0 2 1 4
+p45
+aVDana Barros BOS 04/27/1999 BOS vs. DET L 31 12 3 8 37.5 2 6 33.3 4 6 66.7 2 2 4 4 2 0 3 5 -11
+p46
+aVTony Battie BOS 04/27/1999 BOS vs. DET L 24 8 4 6 66.7 0 0 - 0 0 - 4 9 13 1 0 0 2 4 5
+p47
+aVWalter McCarty BOS 04/27/1999 BOS vs. DET L 38 17 6 13 46.2 1 5 20.0 4 5 80.0 5 6 11 3 1 1 6 4 -2
+p48
+aVEric Riley BOS 04/27/1999 BOS vs. DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p49
+aVVitaly Potapenko BOS 04/27/1999 BOS vs. DET L 30 5 2 4 50.0 0 0 - 1 6 16.7 0 2 2 4 3 0 4 4 -14
+p50
+aVDana Barros BOS 04/25/1999 BOS vs. WAS W 26 20 7 8 87.5 4 4 100.0 2 2 100.0 1 5 6 8 1 0 3 0 15
+p51
+aVPaul Pierce BOS 04/25/1999 BOS vs. WAS W 36 11 5 12 41.7 0 3 0.0 1 2 50.0 0 7 7 3 3 1 4 2 19
+p52
+aVDamon Jones BOS 04/25/1999 BOS vs. WAS W 22 15 6 10 60.0 3 4 75.0 0 0 - 0 3 3 6 2 0 3 3 16
+p53
+aVTony Battie BOS 04/25/1999 BOS vs. WAS W 23 8 3 5 60.0 0 0 - 2 2 100.0 0 8 8 3 1 3 2 4 7
+p54
+aVWalter McCarty BOS 04/25/1999 BOS vs. WAS W 34 17 6 12 50.0 2 5 40.0 3 3 100.0 2 4 6 1 2 2 2 2 32
+p55
+aVDwayne Schintzius BOS 04/25/1999 BOS vs. WAS W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 1
+p56
+aVGreg Minor BOS 04/25/1999 BOS vs. WAS W 10 4 2 3 66.7 0 0 - 0 0 - 2 2 4 2 0 1 0 0 7
+p57
+aVVitaly Potapenko BOS 04/25/1999 BOS vs. WAS W 25 16 7 13 53.8 0 0 - 2 5 40.0 3 2 5 3 1 1 0 2 6
+p58
+aVEric Riley BOS 04/25/1999 BOS vs. WAS W 11 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 1 1 1 1 12
+p59
+aVRon Mercer BOS 04/25/1999 BOS vs. WAS W 35 18 8 17 47.1 0 1 0.0 2 2 100.0 1 1 2 0 1 0 2 1 18
+p60
+aVMarlon Garnett BOS 04/25/1999 BOS vs. WAS W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 12
+p61
+aVVitaly Potapenko BOS 04/23/1999 BOS @ CHI W 24 12 6 13 46.2 0 0 - 0 0 - 3 7 10 1 2 2 4 4 16
+p62
+aVRon Mercer BOS 04/23/1999 BOS @ CHI W 29 13 6 13 46.2 0 0 - 1 2 50.0 0 3 3 2 0 0 3 3 24
+p63
+aVDamon Jones BOS 04/23/1999 BOS @ CHI W 23 14 5 8 62.5 4 5 80.0 0 0 - 1 4 5 4 0 0 2 0 6
+p64
+aVEric Riley BOS 04/23/1999 BOS @ CHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 6
+p65
+aVDana Barros BOS 04/23/1999 BOS @ CHI W 25 9 4 13 30.8 1 6 16.7 0 0 - 1 1 2 9 1 0 0 1 23
+p66
+aVMarlon Garnett BOS 04/23/1999 BOS @ CHI W 18 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 3
+p67
+aVDwayne Schintzius BOS 04/23/1999 BOS @ CHI W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p68
+aVWalter McCarty BOS 04/23/1999 BOS @ CHI W 27 7 3 5 60.0 1 1 100.0 0 1 0.0 1 6 7 0 2 1 1 4 6
+p69
+aVPaul Pierce BOS 04/23/1999 BOS @ CHI W 29 18 6 11 54.5 3 4 75.0 3 6 50.0 1 5 6 2 2 0 3 2 27
+p70
+aVTony Battie BOS 04/23/1999 BOS @ CHI W 36 15 6 8 75.0 0 0 - 3 3 100.0 2 10 12 5 2 4 3 4 27
+p71
+aVGreg Minor BOS 04/23/1999 BOS @ CHI W 20 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 2 1 0 2 4 4
+p72
+aVGreg Minor BOS 04/22/1999 BOS @ ATL L 34 9 4 10 40.0 1 3 33.3 0 0 - 0 4 4 2 1 0 0 6 -8
+p73
+aVEric Riley BOS 04/22/1999 BOS @ ATL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 10
+p74
+aVMarlon Garnett BOS 04/22/1999 BOS @ ATL L 15 10 2 5 40.0 1 4 25.0 5 6 83.3 1 0 1 1 1 0 0 0 -7
+p75
+aVPaul Pierce BOS 04/22/1999 BOS @ ATL L 43 23 8 17 47.1 1 4 25.0 6 8 75.0 2 5 7 2 3 3 1 4 -10
+p76
+aVVitaly Potapenko BOS 04/22/1999 BOS @ ATL L 33 14 6 15 40.0 0 0 - 2 4 50.0 4 1 5 0 2 0 3 4 -12
+p77
+aVDamon Jones BOS 04/22/1999 BOS @ ATL L 21 8 3 8 37.5 2 5 40.0 0 0 - 1 3 4 4 0 0 1 1 7
+p78
+aVTony Battie BOS 04/22/1999 BOS @ ATL L 34 8 4 10 40.0 0 0 - 0 0 - 2 8 10 2 1 1 2 2 -19
+p79
+aVWalter McCarty BOS 04/22/1999 BOS @ ATL L 27 8 2 6 33.3 1 2 50.0 3 4 75.0 3 4 7 1 2 0 2 1 2
+p80
+aVDana Barros BOS 04/22/1999 BOS @ ATL L 28 14 6 10 60.0 0 1 0.0 2 2 100.0 1 3 4 1 2 0 6 2 -23
+p81
+aVDana Barros BOS 04/21/1999 BOS vs. PHI L 36 9 3 8 37.5 1 3 33.3 2 2 100.0 0 6 6 7 0 0 1 1 -2
+p82
+aVVitaly Potapenko BOS 04/21/1999 BOS vs. PHI L 31 8 4 11 36.4 0 0 - 0 4 0.0 4 4 8 1 1 1 3 3 4
+p83
+aVEric Riley BOS 04/21/1999 BOS vs. PHI L 15 4 1 3 33.3 0 0 - 2 3 66.7 3 2 5 0 0 0 4 2 -5
+p84
+aVTony Battie BOS 04/21/1999 BOS vs. PHI L 32 13 6 9 66.7 0 0 - 1 2 50.0 2 10 12 2 0 2 2 3 -4
+p85
+aVGreg Minor BOS 04/21/1999 BOS vs. PHI L 34 14 6 15 40.0 0 0 - 2 2 100.0 2 4 6 2 1 1 0 3 6
+p86
+aVWalter McCarty BOS 04/21/1999 BOS vs. PHI L 26 2 0 3 0.0 0 0 - 2 2 100.0 1 5 6 3 0 0 4 5 5
+p87
+aVMarlon Garnett BOS 04/21/1999 BOS vs. PHI L 14 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 0 0 -11
+p88
+aVPaul Pierce BOS 04/21/1999 BOS vs. PHI L 41 20 7 18 38.9 5 10 50.0 1 2 50.0 0 4 4 0 0 1 5 2 -3
+p89
+aVDamon Jones BOS 04/21/1999 BOS vs. PHI L 12 3 1 4 25.0 1 2 50.0 0 0 - 1 3 4 1 0 0 1 1 0
+p90
+aVDamon Jones BOS 04/19/1999 BOS vs. IND L 20 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 2 1 0 0 1 -6
+p91
+aVPaul Pierce BOS 04/19/1999 BOS vs. IND L 44 30 9 21 42.9 5 8 62.5 7 10 70.0 4 8 12 6 0 1 2 3 -16
+p92
+aVVitaly Potapenko BOS 04/19/1999 BOS vs. IND L 40 26 10 21 47.6 0 0 - 6 12 50.0 9 7 16 3 0 0 2 4 -19
+p93
+aVMarlon Garnett BOS 04/19/1999 BOS vs. IND L 16 9 3 7 42.9 1 3 33.3 2 2 100.0 0 1 1 2 1 0 0 4 -2
+p94
+aVDwayne Schintzius BOS 04/19/1999 BOS vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p95
+aVWalter McCarty BOS 04/19/1999 BOS vs. IND L 35 6 3 9 33.3 0 2 0.0 0 0 - 2 3 5 2 1 1 4 3 -15
+p96
+aVTony Battie BOS 04/19/1999 BOS vs. IND L 20 4 2 4 50.0 0 0 - 0 0 - 0 5 5 1 0 1 1 2 8
+p97
+aVDana Barros BOS 04/19/1999 BOS vs. IND L 28 10 5 5 100.0 0 0 - 0 0 - 0 1 1 7 1 0 2 0 -13
+p98
+aVGreg Minor BOS 04/19/1999 BOS vs. IND L 35 13 6 16 37.5 0 2 0.0 1 2 50.0 3 5 8 0 0 0 2 1 -16
+p99
+aVDwayne Schintzius BOS 04/18/1999 BOS @ WAS W 14 0 0 3 0.0 0 0 - 0 0 - 0 5 5 2 0 0 2 3 7
+p100
+aVTony Battie BOS 04/18/1999 BOS @ WAS W 21 12 4 6 66.7 0 0 - 4 5 80.0 4 2 6 1 1 1 1 3 1
+p101
+aVPaul Pierce BOS 04/18/1999 BOS @ WAS W 43 26 9 15 60.0 2 2 100.0 6 6 100.0 1 6 7 3 5 1 3 1 10
+p102
+aVAntoine Walker BOS 04/18/1999 BOS @ WAS W 6 6 3 4 75.0 0 0 - 0 2 0.0 0 0 0 1 1 1 1 0 9
+p103
+aVWalter McCarty BOS 04/18/1999 BOS @ WAS W 32 16 7 14 50.0 0 1 0.0 2 7 28.6 3 5 8 3 2 1 1 4 -3
+p104
+aVDamon Jones BOS 04/18/1999 BOS @ WAS W 14 0 0 7 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 4 4
+p105
+aVGreg Minor BOS 04/18/1999 BOS @ WAS W 41 13 6 10 60.0 0 1 0.0 1 2 50.0 0 7 7 5 0 0 3 3 -7
+p106
+aVMarlon Garnett BOS 04/18/1999 BOS @ WAS W 13 2 0 1 0.0 0 0 - 2 4 50.0 0 3 3 2 1 0 1 2 2
+p107
+aVDana Barros BOS 04/18/1999 BOS @ WAS W 35 11 2 6 33.3 1 2 50.0 6 6 100.0 0 3 3 6 2 0 4 2 -4
+p108
+aVVitaly Potapenko BOS 04/18/1999 BOS @ WAS W 23 15 6 14 42.9 0 0 - 3 4 75.0 1 6 7 2 1 1 1 5 -4
+p109
+aVGreg Minor BOS 04/16/1999 BOS vs. MIA W 26 12 4 5 80.0 0 0 - 4 4 100.0 0 3 3 0 0 0 0 0 12
+p110
+aVPaul Pierce BOS 04/16/1999 BOS vs. MIA W 36 13 6 19 31.6 0 7 0.0 1 2 50.0 6 2 8 2 0 0 1 4 0
+p111
+aVTony Battie BOS 04/16/1999 BOS vs. MIA W 17 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 1 1 1 0 3 1
+p112
+aVWalter McCarty BOS 04/16/1999 BOS vs. MIA W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -4
+p113
+aVRon Mercer BOS 04/16/1999 BOS vs. MIA W 32 6 3 9 33.3 0 0 - 0 0 - 0 0 0 0 1 1 0 1 -7
+p114
+aVVitaly Potapenko BOS 04/16/1999 BOS vs. MIA W 31 14 6 9 66.7 0 0 - 2 2 100.0 1 6 7 4 0 1 2 3 0
+p115
+aVAntoine Walker BOS 04/16/1999 BOS vs. MIA W 41 29 11 25 44.0 3 6 50.0 4 4 100.0 1 7 8 2 3 1 1 2 2
+p116
+aVDamon Jones BOS 04/16/1999 BOS vs. MIA W 16 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p117
+aVDana Barros BOS 04/16/1999 BOS vs. MIA W 32 5 2 10 20.0 0 3 0.0 1 2 50.0 1 3 4 5 1 0 2 0 2
+p118
+aVGreg Minor BOS 04/14/1999 BOS vs. ATL L 13 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 0 3
+p119
+aVDwayne Schintzius BOS 04/14/1999 BOS vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p120
+aVRon Mercer BOS 04/14/1999 BOS vs. ATL L 46 19 9 22 40.9 0 1 0.0 1 1 100.0 1 5 6 4 2 0 2 2 -4
+p121
+aVDamon Jones BOS 04/14/1999 BOS vs. ATL L 16 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 1
+p122
+aVTony Battie BOS 04/14/1999 BOS vs. ATL L 29 8 3 11 27.3 0 1 0.0 2 2 100.0 4 7 11 1 2 2 0 2 -10
+p123
+aVPaul Pierce BOS 04/14/1999 BOS vs. ATL L 38 16 6 12 50.0 2 4 50.0 2 2 100.0 2 6 8 4 1 1 2 5 -13
+p124
+aVWalter McCarty BOS 04/14/1999 BOS vs. ATL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p125
+aVAntoine Walker BOS 04/14/1999 BOS vs. ATL L 33 6 3 12 25.0 0 3 0.0 0 0 - 3 1 4 1 0 0 1 5 -15
+p126
+aVDana Barros BOS 04/14/1999 BOS vs. ATL L 32 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 4 0 0 1 1 -8
+p127
+aVVitaly Potapenko BOS 04/14/1999 BOS vs. ATL L 28 9 4 11 36.4 0 0 - 1 3 33.3 4 6 10 2 0 0 3 4 8
+p128
+aVTony Battie BOS 04/12/1999 BOS vs. CLE W 21 5 2 3 66.7 0 0 - 1 2 50.0 2 5 7 1 0 0 0 3 -3
+p129
+aVGreg Minor BOS 04/12/1999 BOS vs. CLE W 22 2 1 4 25.0 0 0 - 0 1 0.0 0 2 2 0 1 0 1 1 -8
+p130
+aVVitaly Potapenko BOS 04/12/1999 BOS vs. CLE W 25 19 7 9 77.8 0 0 - 5 7 71.4 1 6 7 2 2 0 2 3 19
+p131
+aVDana Barros BOS 04/12/1999 BOS vs. CLE W 48 23 6 11 54.5 3 5 60.0 8 8 100.0 1 4 5 13 4 1 2 2 14
+p132
+aVRon Mercer BOS 04/12/1999 BOS vs. CLE W 46 24 10 21 47.6 1 3 33.3 3 5 60.0 1 2 3 2 3 0 0 1 17
+p133
+aVDwayne Schintzius BOS 04/12/1999 BOS vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -4
+p134
+aVAntoine Walker BOS 04/12/1999 BOS vs. CLE W 47 21 8 16 50.0 3 7 42.9 2 2 100.0 0 8 8 6 1 1 2 2 16
+p135
+aVPaul Pierce BOS 04/12/1999 BOS vs. CLE W 27 9 3 7 42.9 1 2 50.0 2 4 50.0 1 0 1 1 0 1 2 2 19
+p136
+aVRon Mercer BOS 04/11/1999 BOS vs. CHI W 45 18 9 13 69.2 0 1 0.0 0 0 - 1 5 6 2 1 0 2 3 4
+p137
+aVMarlon Garnett BOS 04/11/1999 BOS vs. CHI W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p138
+aVVitaly Potapenko BOS 04/11/1999 BOS vs. CHI W 25 8 4 5 80.0 0 0 - 0 0 - 3 6 9 2 0 0 3 2 -3
+p139
+aVGreg Minor BOS 04/11/1999 BOS vs. CHI W 17 4 2 3 66.7 0 0 - 0 0 - 0 4 4 2 0 0 1 0 7
+p140
+aVAntoine Walker BOS 04/11/1999 BOS vs. CHI W 39 23 9 19 47.4 1 4 25.0 4 5 80.0 0 11 11 3 1 2 4 3 6
+p141
+aVDana Barros BOS 04/11/1999 BOS vs. CHI W 44 10 4 10 40.0 0 2 0.0 2 2 100.0 0 1 1 12 1 0 2 2 6
+p142
+aVPaul Pierce BOS 04/11/1999 BOS vs. CHI W 33 10 5 12 41.7 0 3 0.0 0 2 0.0 0 5 5 4 1 1 4 3 3
+p143
+aVTony Battie BOS 04/11/1999 BOS vs. CHI W 19 8 4 5 80.0 0 0 - 0 1 0.0 2 6 8 2 0 1 0 4 4
+p144
+aVWalter McCarty BOS 04/11/1999 BOS vs. CHI W 13 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 3 3
+p145
+aVVitaly Potapenko BOS 04/09/1999 BOS vs. PHI L 17 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 0 0 3 2 -11
+p146
+aVAntoine Walker BOS 04/09/1999 BOS vs. PHI L 36 6 1 11 9.1 1 5 20.0 3 4 75.0 1 2 3 4 0 2 4 3 -22
+p147
+aVKenny Anderson BOS 04/09/1999 BOS vs. PHI L 11 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 1 0 2 0 -11
+p148
+aVTony Battie BOS 04/09/1999 BOS vs. PHI L 23 6 3 9 33.3 0 0 - 0 0 - 3 5 8 1 0 5 1 4 -1
+p149
+aVGreg Minor BOS 04/09/1999 BOS vs. PHI L 18 4 2 6 33.3 0 2 0.0 0 0 - 3 3 6 1 1 0 1 1 8
+p150
+aVRon Mercer BOS 04/09/1999 BOS vs. PHI L 41 12 5 17 29.4 0 2 0.0 2 2 100.0 1 5 6 1 0 1 1 0 -26
+p151
+aVWalter McCarty BOS 04/09/1999 BOS vs. PHI L 27 0 0 6 0.0 0 3 0.0 0 0 - 1 4 5 1 0 2 1 2 -5
+p152
+aVDana Barros BOS 04/09/1999 BOS vs. PHI L 23 13 4 6 66.7 3 5 60.0 2 2 100.0 0 0 0 1 2 0 3 2 -10
+p153
+aVPaul Pierce BOS 04/09/1999 BOS vs. PHI L 31 22 9 17 52.9 0 2 0.0 4 4 100.0 9 4 13 3 0 1 2 5 -7
+p154
+aVMarlon Garnett BOS 04/09/1999 BOS vs. PHI L 14 0 0 2 0.0 0 1 0.0 0 2 0.0 0 2 2 3 1 0 0 0 5
+p155
+aVAntoine Walker BOS 04/08/1999 BOS @ TOR W 39 18 6 12 50.0 4 5 80.0 2 4 50.0 3 7 10 6 4 0 5 4 6
+p156
+aVKenny Anderson BOS 04/08/1999 BOS @ TOR W 37 23 8 14 57.1 3 4 75.0 4 4 100.0 1 1 2 7 2 0 2 3 2
+p157
+aVGreg Minor BOS 04/08/1999 BOS @ TOR W 15 2 1 6 16.7 0 0 - 0 0 - 1 2 3 1 0 0 0 1 0
+p158
+aVWalter McCarty BOS 04/08/1999 BOS @ TOR W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 1 1 0 3 4 6
+p159
+aVPaul Pierce BOS 04/08/1999 BOS @ TOR W 34 15 6 14 42.9 0 1 0.0 3 4 75.0 5 2 7 2 1 1 1 4 7
+p160
+aVVitaly Potapenko BOS 04/08/1999 BOS @ TOR W 35 11 5 12 41.7 0 0 - 1 3 33.3 2 5 7 2 2 1 6 3 18
+p161
+aVTony Battie BOS 04/08/1999 BOS @ TOR W 15 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 2 0 0 3 -5
+p162
+aVEric Riley BOS 04/08/1999 BOS @ TOR W 2 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -2
+p163
+aVDana Barros BOS 04/08/1999 BOS @ TOR W 11 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 0 10
+p164
+aVRon Mercer BOS 04/08/1999 BOS @ TOR W 41 18 8 15 53.3 1 2 50.0 1 2 50.0 1 2 3 2 1 0 1 2 18
+p165
+aVRon Mercer BOS 04/07/1999 BOS vs. WAS W 36 17 8 22 36.4 0 1 0.0 1 1 100.0 3 2 5 1 5 0 0 1 14
+p166
+aVPaul Pierce BOS 04/07/1999 BOS vs. WAS W 29 23 9 13 69.2 2 4 50.0 3 5 60.0 3 5 8 3 0 1 2 2 18
+p167
+aVAntoine Walker BOS 04/07/1999 BOS vs. WAS W 34 15 5 16 31.3 1 4 25.0 4 7 57.1 4 6 10 2 1 1 2 2 13
+p168
+aVTony Battie BOS 04/07/1999 BOS vs. WAS W 26 8 4 8 50.0 0 0 - 0 0 - 4 3 7 3 2 1 0 4 19
+p169
+aVDwayne Schintzius BOS 04/07/1999 BOS vs. WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p170
+aVWalter McCarty BOS 04/07/1999 BOS vs. WAS W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 4 1
+p171
+aVGreg Minor BOS 04/07/1999 BOS vs. WAS W 24 7 3 4 75.0 1 1 100.0 0 1 0.0 1 3 4 3 0 0 3 1 10
+p172
+aVEric Riley BOS 04/07/1999 BOS vs. WAS W 5 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 0 7
+p173
+aVDana Barros BOS 04/07/1999 BOS vs. WAS W 21 14 6 9 66.7 2 4 50.0 0 0 - 0 1 1 5 2 0 0 2 13
+p174
+aVVitaly Potapenko BOS 04/07/1999 BOS vs. WAS W 17 4 2 4 50.0 0 0 - 0 0 - 3 3 6 3 1 0 2 3 6
+p175
+aVKenny Anderson BOS 04/07/1999 BOS vs. WAS W 27 14 7 12 58.3 0 0 - 0 0 - 0 3 3 2 2 0 3 3 8
+p176
+aVMarlon Garnett BOS 04/07/1999 BOS vs. WAS W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 0
+p177
+aVWalter McCarty BOS 04/05/1999 BOS @ ORL L 27 7 2 7 28.6 2 3 66.7 1 2 50.0 3 2 5 1 1 0 1 5 -11
+p178
+aVRon Mercer BOS 04/05/1999 BOS @ ORL L 41 29 13 25 52.0 1 1 100.0 2 2 100.0 1 2 3 7 6 1 3 4 -1
+p179
+aVAntoine Walker BOS 04/05/1999 BOS @ ORL L 33 12 5 13 38.5 2 2 100.0 0 0 - 3 5 8 3 0 1 4 5 -9
+p180
+aVDana Barros BOS 04/05/1999 BOS @ ORL L 33 10 4 8 50.0 2 5 40.0 0 0 - 0 1 1 9 2 0 0 3 8
+p181
+aVMarlon Garnett BOS 04/05/1999 BOS @ ORL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p182
+aVTony Battie BOS 04/05/1999 BOS @ ORL L 26 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 2 2 2 -10
+p183
+aVPaul Pierce BOS 04/05/1999 BOS @ ORL L 33 23 9 18 50.0 4 5 80.0 1 2 50.0 4 2 6 4 4 1 2 4 -14
+p184
+aVGreg Minor BOS 04/05/1999 BOS @ ORL L 18 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 2 0 0 2 10
+p185
+aVVitaly Potapenko BOS 04/05/1999 BOS @ ORL L 27 14 7 10 70.0 0 0 - 0 2 0.0 3 3 6 1 0 1 0 5 1
+p186
+aVDana Barros BOS 04/04/1999 BOS vs. NJN L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 1 1 -11
+p187
+aVWalter McCarty BOS 04/04/1999 BOS vs. NJN L 15 3 1 4 25.0 0 1 0.0 1 2 50.0 2 4 6 1 0 0 1 2 -2
+p188
+aVMarlon Garnett BOS 04/04/1999 BOS vs. NJN L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 5
+p189
+aVEric Riley BOS 04/04/1999 BOS vs. NJN L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p190
+aVTony Battie BOS 04/04/1999 BOS vs. NJN L 12 4 2 6 33.3 0 0 - 0 0 - 2 1 3 0 0 2 1 4 -3
+p191
+aVPaul Pierce BOS 04/04/1999 BOS vs. NJN L 32 4 1 10 10.0 1 5 20.0 1 2 50.0 2 9 11 1 1 0 4 3 -9
+p192
+aVKenny Anderson BOS 04/04/1999 BOS vs. NJN L 31 13 5 10 50.0 0 0 - 3 3 100.0 2 2 4 3 0 0 3 2 -6
+p193
+aVRon Mercer BOS 04/04/1999 BOS vs. NJN L 41 8 4 12 33.3 0 1 0.0 0 0 - 0 2 2 1 1 1 5 0 -16
+p194
+aVAntoine Walker BOS 04/04/1999 BOS vs. NJN L 40 32 10 18 55.6 0 1 0.0 12 13 92.3 3 8 11 2 5 1 6 3 0
+p195
+aVGreg Minor BOS 04/04/1999 BOS vs. NJN L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -2
+p196
+aVVitaly Potapenko BOS 04/04/1999 BOS vs. NJN L 33 12 6 14 42.9 0 0 - 0 0 - 6 3 9 2 0 3 1 2 -17
+p197
+aVGreg Minor BOS 04/02/1999 BOS vs. MIL L 13 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 0 0 0 1 3 10
+p198
+aVRon Mercer BOS 04/02/1999 BOS vs. MIL L 37 18 8 22 36.4 0 0 - 2 2 100.0 2 3 5 2 0 0 1 1 -9
+p199
+aVEric Riley BOS 04/02/1999 BOS vs. MIL L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 3 -2
+p200
+aVWalter McCarty BOS 04/02/1999 BOS vs. MIL L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 3 -1
+p201
+aVTony Battie BOS 04/02/1999 BOS vs. MIL L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 1
+p202
+aVKenny Anderson BOS 04/02/1999 BOS vs. MIL L 36 7 3 11 27.3 0 1 0.0 1 1 100.0 1 3 4 11 0 0 4 3 -8
+p203
+aVDana Barros BOS 04/02/1999 BOS vs. MIL L 12 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 2 1 0 0 1 7
+p204
+aVDwayne Schintzius BOS 04/02/1999 BOS vs. MIL L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p205
+aVPaul Pierce BOS 04/02/1999 BOS vs. MIL L 40 21 7 16 43.8 5 7 71.4 2 2 100.0 2 5 7 0 2 0 1 0 -9
+p206
+aVAntoine Walker BOS 04/02/1999 BOS vs. MIL L 47 23 10 20 50.0 1 6 16.7 2 2 100.0 6 12 18 1 2 2 4 4 -1
+p207
+aVVitaly Potapenko BOS 04/02/1999 BOS vs. MIL L 29 5 2 4 50.0 0 0 - 1 2 50.0 2 6 8 1 0 0 4 2 5
+p208
+aVGreg Minor BOS 03/31/1999 BOS vs. DET L 16 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p209
+aVAntoine Walker BOS 03/31/1999 BOS vs. DET L 48 18 5 15 33.3 0 2 0.0 8 10 80.0 5 5 10 2 2 1 5 4 -15
+p210
+aVKenny Anderson BOS 03/31/1999 BOS vs. DET L 35 9 3 7 42.9 0 0 - 3 3 100.0 1 3 4 7 0 0 3 4 -10
+p211
+aVDwayne Schintzius BOS 03/31/1999 BOS vs. DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p212
+aVPaul Pierce BOS 03/31/1999 BOS vs. DET L 33 20 8 13 61.5 4 7 57.1 0 0 - 2 5 7 0 0 1 4 2 -16
+p213
+aVBruce Bowen BOS 03/31/1999 BOS vs. DET L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 0
+p214
+aVTony Battie BOS 03/31/1999 BOS vs. DET L 18 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 1 1 1 3 -3
+p215
+aVVitaly Potapenko BOS 03/31/1999 BOS vs. DET L 29 3 1 5 20.0 0 0 - 1 2 50.0 1 4 5 2 0 0 0 5 -9
+p216
+aVDana Barros BOS 03/31/1999 BOS vs. DET L 13 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 2 1 1 0 1 -5
+p217
+aVRon Mercer BOS 03/31/1999 BOS vs. DET L 37 16 7 13 53.8 0 0 - 2 2 100.0 0 1 1 1 2 0 2 2 -13
+p218
+aVKenny Anderson BOS 03/30/1999 BOS @ CHH W 34 22 9 13 69.2 1 2 50.0 3 4 75.0 0 4 4 7 1 1 0 0 10
+p219
+aVAntoine Walker BOS 03/30/1999 BOS @ CHH W 44 15 5 11 45.5 3 5 60.0 2 2 100.0 3 3 6 5 1 0 3 3 12
+p220
+aVGreg Minor BOS 03/30/1999 BOS @ CHH W 18 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 2 10
+p221
+aVTony Battie BOS 03/30/1999 BOS @ CHH W 19 12 5 6 83.3 0 0 - 2 4 50.0 1 4 5 1 2 0 0 0 15
+p222
+aVRon Mercer BOS 03/30/1999 BOS @ CHH W 31 14 6 10 60.0 0 0 - 2 2 100.0 0 1 1 1 1 1 2 4 4
+p223
+aVDana Barros BOS 03/30/1999 BOS @ CHH W 15 11 1 3 33.3 1 2 50.0 8 9 88.9 0 1 1 2 1 0 1 1 0
+p224
+aVVitaly Potapenko BOS 03/30/1999 BOS @ CHH W 32 14 7 10 70.0 0 0 - 0 0 - 2 4 6 2 1 1 3 3 -7
+p225
+aVPaul Pierce BOS 03/30/1999 BOS @ CHH W 36 19 7 12 58.3 1 4 25.0 4 5 80.0 3 1 4 3 0 0 2 3 2
+p226
+aVBruce Bowen BOS 03/30/1999 BOS @ CHH W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p227
+aVVitaly Potapenko BOS 03/28/1999 BOS vs. IND L 23 9 3 5 60.0 0 0 - 3 6 50.0 2 3 5 1 2 0 2 2 -7
+p228
+aVBruce Bowen BOS 03/28/1999 BOS vs. IND L 3 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 0
+p229
+aVPaul Pierce BOS 03/28/1999 BOS vs. IND L 37 18 5 11 45.5 1 4 25.0 7 10 70.0 2 2 4 3 1 1 5 3 -11
+p230
+aVGreg Minor BOS 03/28/1999 BOS vs. IND L 17 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 8
+p231
+aVTony Battie BOS 03/28/1999 BOS vs. IND L 29 4 1 6 16.7 0 0 - 2 2 100.0 3 6 9 1 1 1 0 3 -2
+p232
+aVRon Mercer BOS 03/28/1999 BOS vs. IND L 40 24 11 24 45.8 0 1 0.0 2 4 50.0 1 2 3 2 3 0 3 2 -13
+p233
+aVAntoine Walker BOS 03/28/1999 BOS vs. IND L 44 20 9 17 52.9 2 4 50.0 0 0 - 4 7 11 8 2 0 4 4 -7
+p234
+aVKenny Anderson BOS 03/28/1999 BOS vs. IND L 34 10 5 9 55.6 0 1 0.0 0 0 - 0 2 2 5 2 0 1 3 -2
+p235
+aVDana Barros BOS 03/28/1999 BOS vs. IND L 14 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p236
+aVKenny Anderson BOS 03/26/1999 BOS @ PHI W 26 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 2 1 0 3 1 -3
+p237
+aVTony Battie BOS 03/26/1999 BOS @ PHI W 14 6 3 5 60.0 0 0 - 0 2 0.0 3 3 6 0 1 0 0 4 -1
+p238
+aVRon Mercer BOS 03/26/1999 BOS @ PHI W 44 18 8 21 38.1 0 0 - 2 2 100.0 1 2 3 6 5 1 1 1 7
+p239
+aVVitaly Potapenko BOS 03/26/1999 BOS @ PHI W 35 12 5 6 83.3 0 0 - 2 2 100.0 3 6 9 1 1 1 0 5 8
+p240
+aVAntoine Walker BOS 03/26/1999 BOS @ PHI W 46 21 9 23 39.1 2 5 40.0 1 2 50.0 2 6 8 1 4 0 1 5 5
+p241
+aVGreg Minor BOS 03/26/1999 BOS @ PHI W 19 7 1 4 25.0 0 0 - 5 6 83.3 3 3 6 0 0 1 0 1 10
+p242
+aVBruce Bowen BOS 03/26/1999 BOS @ PHI W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 0
+p243
+aVPaul Pierce BOS 03/26/1999 BOS @ PHI W 29 6 2 11 18.2 0 1 0.0 2 2 100.0 3 4 7 3 0 0 2 2 -4
+p244
+aVDwayne Schintzius BOS 03/26/1999 BOS @ PHI W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p245
+aVDana Barros BOS 03/26/1999 BOS @ PHI W 21 12 5 7 71.4 2 2 100.0 0 0 - 0 0 0 3 0 0 2 1 9
+p246
+aVAntoine Walker BOS 03/24/1999 BOS vs. MIN L 41 6 1 14 7.1 0 2 0.0 4 4 100.0 2 9 11 2 0 0 2 4 -21
+p247
+aVVitaly Potapenko BOS 03/24/1999 BOS vs. MIN L 32 8 2 3 66.7 0 0 - 4 4 100.0 1 8 9 1 0 2 2 2 -12
+p248
+aVDwayne Schintzius BOS 03/24/1999 BOS vs. MIN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p249
+aVTony Battie BOS 03/24/1999 BOS vs. MIN L 22 4 2 3 66.7 0 0 - 0 0 - 0 6 6 1 0 1 1 2 -6
+p250
+aVBruce Bowen BOS 03/24/1999 BOS vs. MIN L 12 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 2 1 0 0 1 -1
+p251
+aVPaul Pierce BOS 03/24/1999 BOS vs. MIN L 36 6 3 15 20.0 0 4 0.0 0 0 - 6 5 11 2 0 0 4 3 -18
+p252
+aVGreg Minor BOS 03/24/1999 BOS vs. MIN L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p253
+aVMarlon Garnett BOS 03/24/1999 BOS vs. MIN L 5 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p254
+aVDana Barros BOS 03/24/1999 BOS vs. MIN L 15 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 3 1 1
+p255
+aVRon Mercer BOS 03/24/1999 BOS vs. MIN L 40 13 6 20 30.0 0 0 - 1 1 100.0 1 3 4 1 0 0 3 2 -16
+p256
+aVKenny Anderson BOS 03/24/1999 BOS vs. MIN L 28 16 6 11 54.5 0 0 - 4 4 100.0 1 5 6 3 0 0 1 1 -16
+p257
+aVAntoine Walker BOS 03/23/1999 BOS @ CLE L 41 22 8 18 44.4 1 5 20.0 5 11 45.5 0 9 9 2 3 1 3 4 -21
+p258
+aVDana Barros BOS 03/23/1999 BOS @ CLE L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 0 -1
+p259
+aVVitaly Potapenko BOS 03/23/1999 BOS @ CLE L 34 10 4 8 50.0 0 0 - 2 4 50.0 9 3 12 2 1 1 3 4 -18
+p260
+aVTony Battie BOS 03/23/1999 BOS @ CLE L 18 10 5 9 55.6 0 0 - 0 0 - 5 1 6 1 0 0 1 4 -13
+p261
+aVMarlon Garnett BOS 03/23/1999 BOS @ CLE L 15 5 1 5 20.0 1 2 50.0 2 2 100.0 0 1 1 2 0 0 0 1 -6
+p262
+aVDwayne Schintzius BOS 03/23/1999 BOS @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -2
+p263
+aVRon Mercer BOS 03/23/1999 BOS @ CLE L 35 12 6 16 37.5 0 1 0.0 0 0 - 0 0 0 2 1 0 5 1 -23
+p264
+aVGreg Minor BOS 03/23/1999 BOS @ CLE L 19 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 1 -12
+p265
+aVKenny Anderson BOS 03/23/1999 BOS @ CLE L 26 6 1 4 25.0 0 0 - 4 4 100.0 0 1 1 4 1 0 1 1 -20
+p266
+aVBruce Bowen BOS 03/23/1999 BOS @ CLE L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -4
+p267
+aVPaul Pierce BOS 03/23/1999 BOS @ CLE L 29 11 4 9 44.4 0 1 0.0 3 5 60.0 3 1 4 2 1 2 4 2 -15
+p268
+aVAntoine Walker BOS 03/21/1999 BOS vs. CHI L 43 6 2 15 13.3 1 4 25.0 1 4 25.0 4 6 10 0 3 0 5 5 -13
+p269
+aVBruce Bowen BOS 03/21/1999 BOS vs. CHI L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p270
+aVEric Riley BOS 03/21/1999 BOS vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p271
+aVDana Barros BOS 03/21/1999 BOS vs. CHI L 24 12 5 13 38.5 2 5 40.0 0 0 - 0 1 1 6 0 0 1 6 -11
+p272
+aVGreg Minor BOS 03/21/1999 BOS vs. CHI L 10 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 5
+p273
+aVKenny Anderson BOS 03/21/1999 BOS vs. CHI L 28 19 6 9 66.7 0 1 0.0 7 10 70.0 0 3 3 7 1 0 2 6 10
+p274
+aVMarlon Garnett BOS 03/21/1999 BOS vs. CHI L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 5
+p275
+aVPaul Pierce BOS 03/21/1999 BOS vs. CHI L 43 8 3 11 27.3 2 5 40.0 0 2 0.0 4 4 8 3 3 2 1 2 -8
+p276
+aVRon Mercer BOS 03/21/1999 BOS vs. CHI L 41 26 11 23 47.8 0 2 0.0 4 4 100.0 1 4 5 3 0 0 3 2 -16
+p277
+aVVitaly Potapenko BOS 03/21/1999 BOS vs. CHI L 28 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 1 1 0 2 4 7
+p278
+aVTony Battie BOS 03/21/1999 BOS vs. CHI L 33 10 2 5 40.0 0 0 - 6 8 75.0 1 10 11 1 1 7 3 2 2
+p279
+aVWalter McCarty BOS 03/20/1999 BOS @ NYK L 22 3 1 5 20.0 0 1 0.0 1 2 50.0 2 1 3 0 0 0 1 1 -6
+p280
+aVRon Mercer BOS 03/20/1999 BOS @ NYK L 28 19 9 17 52.9 0 0 - 1 2 50.0 1 2 3 3 2 0 3 2 -16
+p281
+aVPaul Pierce BOS 03/20/1999 BOS @ NYK L 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 1 1 -9
+p282
+aVEric Riley BOS 03/20/1999 BOS @ NYK L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -4
+p283
+aVBruce Bowen BOS 03/20/1999 BOS @ NYK L 18 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 0 0 0 0 3 -8
+p284
+aVGreg Minor BOS 03/20/1999 BOS @ NYK L 16 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 2 2 0 1 0 1
+p285
+aVKenny Anderson BOS 03/20/1999 BOS @ NYK L 23 6 3 6 50.0 0 0 - 0 0 - 0 0 0 4 0 0 3 4 -12
+p286
+aVDana Barros BOS 03/20/1999 BOS @ NYK L 21 5 1 5 20.0 1 2 50.0 2 4 50.0 0 2 2 2 0 0 2 0 -7
+p287
+aVVitaly Potapenko BOS 03/20/1999 BOS @ NYK L 24 14 5 11 45.5 0 0 - 4 4 100.0 5 6 11 0 0 0 0 5 -2
+p288
+aVMarlon Garnett BOS 03/20/1999 BOS @ NYK L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 1 1 1 1 -6
+p289
+aVTony Battie BOS 03/20/1999 BOS @ NYK L 29 6 3 7 42.9 0 0 - 0 0 - 1 7 8 0 0 1 0 4 -9
+p290
+aVAntoine Walker BOS 03/20/1999 BOS @ NYK L 26 14 6 11 54.5 2 4 50.0 0 0 - 0 4 4 3 0 0 3 2 -12
+p291
+aVPaul Pierce BOS 03/18/1999 BOS @ MIL L 20 9 3 6 50.0 3 4 75.0 0 0 - 2 1 3 0 0 0 3 1 -22
+p292
+aVWalter McCarty BOS 03/18/1999 BOS @ MIL L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 8
+p293
+aVTony Battie BOS 03/18/1999 BOS @ MIL L 25 4 2 8 25.0 0 1 0.0 0 0 - 4 7 11 3 0 0 1 1 -10
+p294
+aVKenny Anderson BOS 03/18/1999 BOS @ MIL L 24 14 5 6 83.3 0 0 - 4 4 100.0 1 0 1 4 1 0 3 2 -18
+p295
+aVRon Mercer BOS 03/18/1999 BOS @ MIL L 36 13 6 19 31.6 1 4 25.0 0 0 - 1 2 3 2 2 0 1 2 -21
+p296
+aVPopeye Jones BOS 03/18/1999 BOS @ MIL L 6 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 2 4
+p297
+aVBruce Bowen BOS 03/18/1999 BOS @ MIL L 15 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 0 1 0 0 0 -1
+p298
+aVGreg Minor BOS 03/18/1999 BOS @ MIL L 20 9 4 4 100.0 1 1 100.0 0 0 - 0 4 4 0 0 0 2 1 4
+p299
+aVAntoine Walker BOS 03/18/1999 BOS @ MIL L 38 16 6 15 40.0 1 4 25.0 3 8 37.5 2 5 7 3 2 0 4 4 -20
+p300
+aVDana Barros BOS 03/18/1999 BOS @ MIL L 24 10 4 9 44.4 1 3 33.3 1 2 50.0 0 3 3 3 1 0 3 1 2
+p301
+aVVitaly Potapenko BOS 03/18/1999 BOS @ MIL L 23 3 0 2 0.0 0 0 - 3 6 50.0 1 6 7 1 1 1 1 3 -6
+p302
+aVAntoine Walker BOS 03/17/1999 BOS vs. LAC W 27 14 6 15 40.0 2 5 40.0 0 2 0.0 2 6 8 3 0 0 0 3 12
+p303
+aVGreg Minor BOS 03/17/1999 BOS vs. LAC W 19 13 5 9 55.6 3 4 75.0 0 0 - 1 2 3 5 1 0 0 0 27
+p304
+aVKenny Anderson BOS 03/17/1999 BOS vs. LAC W 29 21 10 12 83.3 0 0 - 1 1 100.0 2 3 5 3 0 0 4 2 15
+p305
+aVWalter McCarty BOS 03/17/1999 BOS vs. LAC W 21 7 2 6 33.3 1 3 33.3 2 2 100.0 0 2 2 2 0 0 0 3 22
+p306
+aVPopeye Jones BOS 03/17/1999 BOS vs. LAC W 13 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 1 0 0 1 13
+p307
+aVDana Barros BOS 03/17/1999 BOS vs. LAC W 19 5 2 6 33.3 1 4 25.0 0 0 - 1 4 5 6 0 0 2 2 19
+p308
+aVVitaly Potapenko BOS 03/17/1999 BOS vs. LAC W 27 14 7 9 77.8 0 0 - 0 0 - 3 8 11 2 0 1 3 3 8
+p309
+aVPaul Pierce BOS 03/17/1999 BOS vs. LAC W 26 12 4 9 44.4 1 1 100.0 3 5 60.0 2 3 5 0 2 0 0 2 3
+p310
+aVTony Battie BOS 03/17/1999 BOS vs. LAC W 20 14 7 8 87.5 0 0 - 0 0 - 4 5 9 0 0 2 2 4 15
+p311
+aVBruce Bowen BOS 03/17/1999 BOS vs. LAC W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 2 0 15
+p312
+aVEric Riley BOS 03/17/1999 BOS vs. LAC W 5 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 1 0 2 10
+p313
+aVRon Mercer BOS 03/17/1999 BOS vs. LAC W 26 6 3 10 30.0 0 1 0.0 0 1 0.0 0 1 1 6 1 0 0 0 11
+p314
+aVEric Riley BOS 03/14/1999 BOS @ IND L 4 2 0 0 - 0 0 - 2 2 100.0 1 0 1 1 0 1 1 5 -2
+p315
+aVPaul Pierce BOS 03/14/1999 BOS @ IND L 25 15 5 8 62.5 1 2 50.0 4 5 80.0 1 5 6 1 0 0 0 4 -4
+p316
+aVWalter McCarty BOS 03/14/1999 BOS @ IND L 15 7 3 4 75.0 1 1 100.0 0 0 - 1 2 3 2 3 0 0 1 10
+p317
+aVGreg Minor BOS 03/14/1999 BOS @ IND L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 4
+p318
+aVPopeye Jones BOS 03/14/1999 BOS @ IND L 11 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 0 0 0 1 3 9
+p319
+aVAntoine Walker BOS 03/14/1999 BOS @ IND L 37 16 6 20 30.0 1 3 33.3 3 4 75.0 2 6 8 6 1 1 1 2 -12
+p320
+aVDana Barros BOS 03/14/1999 BOS @ IND L 13 9 3 5 60.0 3 4 75.0 0 0 - 0 2 2 1 0 0 3 2 9
+p321
+aVTony Battie BOS 03/14/1999 BOS @ IND L 15 8 4 4 100.0 0 0 - 0 0 - 1 3 4 2 0 0 1 2 13
+p322
+aVBruce Bowen BOS 03/14/1999 BOS @ IND L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p323
+aVVitaly Potapenko BOS 03/14/1999 BOS @ IND L 28 9 3 4 75.0 0 0 - 3 4 75.0 4 2 6 1 0 0 5 4 -14
+p324
+aVRon Mercer BOS 03/14/1999 BOS @ IND L 40 11 5 18 27.8 0 0 - 1 2 50.0 1 4 5 5 1 0 0 3 -14
+p325
+aVKenny Anderson BOS 03/14/1999 BOS @ IND L 35 12 6 10 60.0 0 1 0.0 0 0 - 0 2 2 4 1 0 2 0 -12
+p326
+aVTony Battie BOS 03/12/1999 BOS @ DET L 14 7 3 3 100.0 0 0 - 1 2 50.0 3 3 6 1 0 0 0 5 -1
+p327
+aVRon Mercer BOS 03/12/1999 BOS @ DET L 40 10 5 16 31.3 0 0 - 0 2 0.0 2 5 7 7 1 0 5 1 -15
+p328
+aVBruce Bowen BOS 03/12/1999 BOS @ DET L 13 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 2 -9
+p329
+aVVitaly Potapenko BOS 03/12/1999 BOS @ DET L 21 8 4 7 57.1 0 0 - 0 2 0.0 1 2 3 2 1 0 1 1 5
+p330
+aVDana Barros BOS 03/12/1999 BOS @ DET L 19 11 4 6 66.7 3 3 100.0 0 0 - 0 2 2 5 0 0 1 0 4
+p331
+aVKenny Anderson BOS 03/12/1999 BOS @ DET L 29 9 4 11 36.4 0 0 - 1 1 100.0 1 1 2 5 2 0 0 5 -11
+p332
+aVAntoine Walker BOS 03/12/1999 BOS @ DET L 37 22 8 20 40.0 4 8 50.0 2 5 40.0 2 10 12 1 1 0 5 4 -8
+p333
+aVGreg Minor BOS 03/12/1999 BOS @ DET L 13 4 2 5 40.0 0 0 - 0 0 - 0 2 2 4 0 0 1 2 8
+p334
+aVPopeye Jones BOS 03/12/1999 BOS @ DET L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p335
+aVWalter McCarty BOS 03/12/1999 BOS @ DET L 30 5 1 3 33.3 0 1 0.0 3 4 75.0 0 2 2 0 1 0 2 2 -9
+p336
+aVEric Riley BOS 03/12/1999 BOS @ DET L 12 4 2 3 66.7 0 0 - 0 0 - 3 1 4 0 1 0 0 4 -13
+p337
+aVDana Barros BOS 03/11/1999 BOS @ ATL L 17 4 2 5 40.0 0 2 0.0 0 0 - 1 0 1 3 1 1 1 1 -5
+p338
+aVGreg Minor BOS 03/11/1999 BOS @ ATL L 21 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 1 0 0 3 -8
+p339
+aVAntoine Walker BOS 03/11/1999 BOS @ ATL L 34 19 8 20 40.0 0 3 0.0 3 5 60.0 1 4 5 0 0 1 4 3 -17
+p340
+aVTony Battie BOS 03/11/1999 BOS @ ATL L 31 7 3 10 30.0 0 1 0.0 1 2 50.0 3 6 9 1 1 1 1 3 -8
+p341
+aVBruce Bowen BOS 03/11/1999 BOS @ ATL L 16 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p342
+aVPopeye Jones BOS 03/11/1999 BOS @ ATL L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -9
+p343
+aVRon Mercer BOS 03/11/1999 BOS @ ATL L 32 18 7 16 43.8 0 0 - 4 4 100.0 1 3 4 3 4 1 2 2 -4
+p344
+aVKenny Anderson BOS 03/11/1999 BOS @ ATL L 31 10 5 14 35.7 0 0 - 0 0 - 1 0 1 5 0 0 1 1 -9
+p345
+aVWalter McCarty BOS 03/11/1999 BOS @ ATL L 30 13 5 10 50.0 0 0 - 3 5 60.0 3 6 9 1 1 2 0 5 0
+p346
+aVEric Riley BOS 03/11/1999 BOS @ ATL L 17 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 0 1 2 3 -6
+p347
+aVPopeye Jones BOS 03/09/1999 BOS @ CHH L 9 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 0 1 -8
+p348
+aVBruce Bowen BOS 03/09/1999 BOS @ CHH L 18 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -17
+p349
+aVWalter McCarty BOS 03/09/1999 BOS @ CHH L 18 11 5 6 83.3 0 0 - 1 2 50.0 0 2 2 0 1 1 2 2 -2
+p350
+aVKenny Anderson BOS 03/09/1999 BOS @ CHH L 31 9 4 14 28.6 0 0 - 1 1 100.0 1 1 2 6 2 0 3 3 -16
+p351
+aVRon Mercer BOS 03/09/1999 BOS @ CHH L 30 16 7 18 38.9 0 0 - 2 3 66.7 1 3 4 2 1 0 2 1 -7
+p352
+aVTony Battie BOS 03/09/1999 BOS @ CHH L 20 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 1 0 1 0 5 -13
+p353
+aVEric Riley BOS 03/09/1999 BOS @ CHH L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 3 -2
+p354
+aVGreg Minor BOS 03/09/1999 BOS @ CHH L 17 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 2 0 0 3 2 -7
+p355
+aVDana Barros BOS 03/09/1999 BOS @ CHH L 23 6 3 10 30.0 0 4 0.0 0 0 - 0 2 2 6 1 2 3 0 -4
+p356
+aVPaul Pierce BOS 03/09/1999 BOS @ CHH L 10 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 2 0 0
+p357
+aVAntoine Walker BOS 03/09/1999 BOS @ CHH L 38 32 13 24 54.2 0 3 0.0 6 9 66.7 4 4 8 1 0 0 3 4 -10
+p358
+aVAndrew DeClercq BOS 03/09/1999 BOS @ CHH L 19 4 1 2 50.0 0 0 - 2 3 66.7 3 1 4 0 0 2 0 3 -4
+p359
+aVRon Mercer BOS 03/07/1999 BOS @ TOR L 39 22 8 15 53.3 1 1 100.0 5 6 83.3 3 4 7 4 4 0 3 4 -4
+p360
+aVTony Battie BOS 03/07/1999 BOS @ TOR L 20 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 2 4
+p361
+aVAndrew DeClercq BOS 03/07/1999 BOS @ TOR L 17 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 2 0 1 3 -14
+p362
+aVAntoine Walker BOS 03/07/1999 BOS @ TOR L 41 29 11 16 68.8 3 4 75.0 4 11 36.4 0 6 6 2 2 1 2 5 -2
+p363
+aVEric Riley BOS 03/07/1999 BOS @ TOR L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 3 -5
+p364
+aVKenny Anderson BOS 03/07/1999 BOS @ TOR L 32 10 5 11 45.5 0 0 - 0 0 - 0 1 1 6 0 0 1 2 -10
+p365
+aVGreg Minor BOS 03/07/1999 BOS @ TOR L 7 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 -11
+p366
+aVBruce Bowen BOS 03/07/1999 BOS @ TOR L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 2 0 0 -8
+p367
+aVWalter McCarty BOS 03/07/1999 BOS @ TOR L 13 7 3 8 37.5 0 0 - 1 3 33.3 2 0 2 0 1 0 2 3 -9
+p368
+aVPopeye Jones BOS 03/07/1999 BOS @ TOR L 6 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 1 1 2
+p369
+aVDana Barros BOS 03/07/1999 BOS @ TOR L 16 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 3 0 0 0 0 -3
+p370
+aVPaul Pierce BOS 03/07/1999 BOS @ TOR L 33 7 3 11 27.3 1 6 16.7 0 0 - 0 3 3 4 0 2 4 4 -5
+p371
+aVGreg Minor BOS 03/05/1999 BOS vs. DEN W 13 8 2 4 50.0 0 0 - 4 4 100.0 0 3 3 1 3 0 1 0 9
+p372
+aVAntoine Walker BOS 03/05/1999 BOS vs. DEN W 36 21 10 26 38.5 1 4 25.0 0 0 - 7 11 18 3 2 3 3 4 14
+p373
+aVPopeye Jones BOS 03/05/1999 BOS vs. DEN W 10 2 1 2 50.0 0 0 - 0 0 - 3 2 5 1 1 0 0 0 2
+p374
+aVTony Battie BOS 03/05/1999 BOS vs. DEN W 26 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 0 3 1 4 11
+p375
+aVKenny Anderson BOS 03/05/1999 BOS vs. DEN W 31 8 3 10 30.0 0 1 0.0 2 2 100.0 0 1 1 12 1 0 1 4 13
+p376
+aVDana Barros BOS 03/05/1999 BOS vs. DEN W 17 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 3 0 0 0 1 -5
+p377
+aVBruce Bowen BOS 03/05/1999 BOS vs. DEN W 13 6 2 5 40.0 1 1 100.0 1 1 100.0 1 1 2 0 2 1 0 0 -6
+p378
+aVEric Riley BOS 03/05/1999 BOS vs. DEN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -1
+p379
+aVAndrew DeClercq BOS 03/05/1999 BOS vs. DEN W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -6
+p380
+aVPaul Pierce BOS 03/05/1999 BOS vs. DEN W 32 17 4 9 44.4 3 5 60.0 6 8 75.0 1 3 4 0 3 1 2 4 17
+p381
+aVWalter McCarty BOS 03/05/1999 BOS vs. DEN W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 1 1 1 2 -4
+p382
+aVRon Mercer BOS 03/05/1999 BOS vs. DEN W 35 35 15 24 62.5 0 1 0.0 5 6 83.3 1 5 6 1 1 1 3 0 -4
+p383
+aVGreg Minor BOS 03/02/1999 BOS @ CLE L 11 10 4 5 80.0 0 0 - 2 4 50.0 1 0 1 0 1 1 1 2 -10
+p384
+aVTony Battie BOS 03/02/1999 BOS @ CLE L 19 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -21
+p385
+aVEric Riley BOS 03/02/1999 BOS @ CLE L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 4 3
+p386
+aVAntoine Walker BOS 03/02/1999 BOS @ CLE L 29 17 7 15 46.7 1 6 16.7 2 5 40.0 2 3 5 1 2 0 1 6 -13
+p387
+aVKenny Anderson BOS 03/02/1999 BOS @ CLE L 29 14 4 10 40.0 0 0 - 6 6 100.0 2 4 6 5 0 0 1 2 -12
+p388
+aVWalter McCarty BOS 03/02/1999 BOS @ CLE L 17 4 1 6 16.7 0 1 0.0 2 2 100.0 0 1 1 3 0 0 1 3 0
+p389
+aVPopeye Jones BOS 03/02/1999 BOS @ CLE L 12 6 1 4 25.0 0 0 - 4 4 100.0 2 0 2 0 0 0 1 4 4
+p390
+aVAndrew DeClercq BOS 03/02/1999 BOS @ CLE L 18 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 2 2 0 1 5 -1
+p391
+aVPaul Pierce BOS 03/02/1999 BOS @ CLE L 25 2 0 11 0.0 0 3 0.0 2 2 100.0 3 0 3 4 3 1 0 4 -11
+p392
+aVRon Mercer BOS 03/02/1999 BOS @ CLE L 33 22 9 16 56.3 0 0 - 4 4 100.0 0 1 1 4 0 0 1 3 -15
+p393
+aVDana Barros BOS 03/02/1999 BOS @ CLE L 19 6 2 6 33.3 0 0 - 2 2 100.0 1 0 1 1 0 0 2 0 -5
+p394
+aVBruce Bowen BOS 03/02/1999 BOS @ CLE L 15 10 4 5 80.0 1 1 100.0 1 3 33.3 1 1 2 0 0 0 0 3 -4
+p395
+aVTony Battie BOS 03/01/1999 BOS vs. NJN L 34 12 6 8 75.0 0 0 - 0 0 - 2 2 4 2 1 4 2 4 0
+p396
+aVRon Mercer BOS 03/01/1999 BOS vs. NJN L 39 15 5 16 31.3 0 0 - 5 6 83.3 0 1 1 1 1 1 1 4 -4
+p397
+aVPopeye Jones BOS 03/01/1999 BOS vs. NJN L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 1 2
+p398
+aVAndrew DeClercq BOS 03/01/1999 BOS vs. NJN L 14 8 3 4 75.0 0 0 - 2 4 50.0 5 2 7 0 0 0 1 4 -4
+p399
+aVBruce Bowen BOS 03/01/1999 BOS vs. NJN L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p400
+aVKenny Anderson BOS 03/01/1999 BOS vs. NJN L 36 16 7 15 46.7 0 0 - 2 3 66.7 0 6 6 5 0 0 2 1 6
+p401
+aVPaul Pierce BOS 03/01/1999 BOS vs. NJN L 40 20 8 16 50.0 2 5 40.0 2 4 50.0 2 7 9 4 4 1 1 4 1
+p402
+aVEric Riley BOS 03/01/1999 BOS vs. NJN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p403
+aVAntoine Walker BOS 03/01/1999 BOS vs. NJN L 38 21 8 21 38.1 3 5 60.0 2 2 100.0 1 7 8 6 0 1 3 2 -1
+p404
+aVDana Barros BOS 03/01/1999 BOS vs. NJN L 12 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 1 0 0 0 -8
+p405
+aVWalter McCarty BOS 03/01/1999 BOS vs. NJN L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -3
+p406
+aVKenny Anderson BOS 02/27/1999 BOS @ NJN W 24 12 4 9 44.4 0 1 0.0 4 4 100.0 1 3 4 5 0 1 2 5 4
+p407
+aVTony Battie BOS 02/27/1999 BOS @ NJN W 23 3 1 7 14.3 0 0 - 1 1 100.0 1 6 7 1 0 2 1 4 0
+p408
+aVDana Barros BOS 02/27/1999 BOS @ NJN W 25 11 5 11 45.5 1 3 33.3 0 0 - 0 4 4 2 4 0 1 3 9
+p409
+aVAntoine Walker BOS 02/27/1999 BOS @ NJN W 39 28 13 24 54.2 1 4 25.0 1 4 25.0 0 11 11 4 4 1 3 3 0
+p410
+aVEric Riley BOS 02/27/1999 BOS @ NJN W 4 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 0 4
+p411
+aVBruce Bowen BOS 02/27/1999 BOS @ NJN W 33 7 2 5 40.0 0 1 0.0 3 5 60.0 1 3 4 1 3 0 0 6 6
+p412
+aVPaul Pierce BOS 02/27/1999 BOS @ NJN W 38 21 8 18 44.4 1 6 16.7 4 6 66.7 3 4 7 5 0 0 5 4 2
+p413
+aVAndrew DeClercq BOS 02/27/1999 BOS @ NJN W 22 8 3 5 60.0 0 0 - 2 3 66.7 2 3 5 1 0 0 3 4 3
+p414
+aVPopeye Jones BOS 02/27/1999 BOS @ NJN W 7 5 2 2 100.0 0 0 - 1 1 100.0 1 1 2 1 0 0 0 0 11
+p415
+aVGreg Minor BOS 02/27/1999 BOS @ NJN W 25 5 2 7 28.6 0 1 0.0 1 2 50.0 1 5 6 1 0 0 2 1 6
+p416
+aVPaul Pierce BOS 02/26/1999 BOS vs. NYK W 42 24 7 19 36.8 5 11 45.5 5 6 83.3 2 5 7 3 3 0 3 4 16
+p417
+aVKenny Anderson BOS 02/26/1999 BOS vs. NYK W 33 16 7 13 53.8 2 2 100.0 0 0 - 0 4 4 5 1 0 5 2 -7
+p418
+aVGreg Minor BOS 02/26/1999 BOS vs. NYK W 22 6 3 6 50.0 0 1 0.0 0 0 - 2 3 5 1 0 0 2 2 -5
+p419
+aVAntoine Walker BOS 02/26/1999 BOS vs. NYK W 36 24 9 26 34.6 3 7 42.9 3 8 37.5 6 5 11 5 3 2 2 1 -11
+p420
+aVDana Barros BOS 02/26/1999 BOS vs. NYK W 15 8 3 6 50.0 0 2 0.0 2 2 100.0 0 0 0 5 0 0 2 1 21
+p421
+aVBruce Bowen BOS 02/26/1999 BOS vs. NYK W 32 2 0 7 0.0 0 2 0.0 2 2 100.0 1 2 3 2 3 2 1 1 17
+p422
+aVEric Riley BOS 02/26/1999 BOS vs. NYK W 12 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 2 0 1 -6
+p423
+aVTony Battie BOS 02/26/1999 BOS vs. NYK W 23 6 3 3 100.0 0 0 - 0 0 - 4 4 8 2 0 1 1 2 25
+p424
+aVAndrew DeClercq BOS 02/26/1999 BOS vs. NYK W 25 5 2 5 40.0 0 0 - 1 4 25.0 2 4 6 2 1 1 1 2 20
+p425
+aVRon Mercer BOS 02/24/1999 BOS vs. ORL W 30 15 7 15 46.7 0 0 - 1 2 50.0 0 4 4 1 0 0 1 1 23
+p426
+aVAndrew DeClercq BOS 02/24/1999 BOS vs. ORL W 19 14 7 9 77.8 0 0 - 0 0 - 1 5 6 0 2 1 1 1 12
+p427
+aVPaul Pierce BOS 02/24/1999 BOS vs. ORL W 31 19 7 15 46.7 3 5 60.0 2 2 100.0 2 4 6 3 5 3 2 0 31
+p428
+aVTony Battie BOS 02/24/1999 BOS vs. ORL W 14 0 0 3 0.0 0 0 - 0 0 - 3 1 4 2 0 1 0 4 2
+p429
+aVKenny Anderson BOS 02/24/1999 BOS vs. ORL W 27 9 4 10 40.0 0 1 0.0 1 1 100.0 1 4 5 8 3 0 3 2 27
+p430
+aVAntoine Walker BOS 02/24/1999 BOS vs. ORL W 29 17 7 13 53.8 2 4 50.0 1 6 16.7 1 3 4 8 0 0 1 1 27
+p431
+aVGreg Minor BOS 02/24/1999 BOS vs. ORL W 22 8 2 4 50.0 0 0 - 4 4 100.0 0 1 1 1 0 0 2 4 8
+p432
+aVPopeye Jones BOS 02/24/1999 BOS vs. ORL W 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 0
+p433
+aVBruce Bowen BOS 02/24/1999 BOS vs. ORL W 14 5 2 6 33.3 0 2 0.0 1 2 50.0 1 0 1 1 1 0 0 2 2
+p434
+aVEric Riley BOS 02/24/1999 BOS vs. ORL W 22 7 3 5 60.0 0 0 - 1 2 50.0 6 8 14 1 0 2 2 3 23
+p435
+aVDana Barros BOS 02/24/1999 BOS vs. ORL W 21 17 6 10 60.0 5 6 83.3 0 0 - 0 2 2 6 2 0 0 0 5
+p436
+aVDana Barros BOS 02/21/1999 BOS @ WAS L 24 6 2 12 16.7 0 5 0.0 2 2 100.0 0 2 2 1 1 0 1 2 -8
+p437
+aVTony Battie BOS 02/21/1999 BOS @ WAS L 26 2 1 5 20.0 0 0 - 0 2 0.0 3 8 11 0 0 2 3 2 -14
+p438
+aVPopeye Jones BOS 02/21/1999 BOS @ WAS L 12 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 2 -6
+p439
+aVKenny Anderson BOS 02/21/1999 BOS @ WAS L 24 6 2 6 33.3 0 0 - 2 4 50.0 0 3 3 3 1 0 1 3 -3
+p440
+aVEric Riley BOS 02/21/1999 BOS @ WAS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p441
+aVRon Mercer BOS 02/21/1999 BOS @ WAS L 38 17 8 16 50.0 0 0 - 1 1 100.0 1 5 6 0 4 0 5 1 -12
+p442
+aVAndrew DeClercq BOS 02/21/1999 BOS @ WAS L 20 5 2 4 50.0 0 0 - 1 4 25.0 2 1 3 2 0 2 0 2 4
+p443
+aVBruce Bowen BOS 02/21/1999 BOS @ WAS L 27 3 1 4 25.0 1 3 33.3 0 0 - 2 1 3 2 1 0 2 1 -15
+p444
+aVAntoine Walker BOS 02/21/1999 BOS @ WAS L 34 8 2 12 16.7 1 4 25.0 3 6 50.0 2 6 8 2 1 2 3 5 -8
+p445
+aVPaul Pierce BOS 02/21/1999 BOS @ WAS L 31 24 6 15 40.0 2 6 33.3 10 14 71.4 5 7 12 2 3 2 1 5 5
+p446
+aVDwayne Schintzius BOS 02/19/1999 BOS @ POR L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -18
+p447
+aVDana Barros BOS 02/19/1999 BOS @ POR L 18 4 2 9 22.2 0 6 0.0 0 0 - 0 1 1 3 0 0 1 1 -4
+p448
+aVGreg Minor BOS 02/19/1999 BOS @ POR L 20 3 1 7 14.3 1 3 33.3 0 0 - 0 1 1 1 0 0 1 3 -3
+p449
+aVPaul Pierce BOS 02/19/1999 BOS @ POR L 38 22 9 14 64.3 2 3 66.7 2 2 100.0 4 2 6 0 1 0 2 2 -17
+p450
+aVBruce Bowen BOS 02/19/1999 BOS @ POR L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p451
+aVAndrew DeClercq BOS 02/19/1999 BOS @ POR L 12 4 2 3 66.7 0 0 - 0 0 - 2 3 5 2 0 0 2 4 1
+p452
+aVTony Battie BOS 02/19/1999 BOS @ POR L 26 16 8 14 57.1 0 0 - 0 0 - 3 2 5 1 2 3 2 4 1
+p453
+aVEric Riley BOS 02/19/1999 BOS @ POR L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 6 -3
+p454
+aVAntoine Walker BOS 02/19/1999 BOS @ POR L 32 15 6 16 37.5 0 1 0.0 3 4 75.0 3 3 6 6 0 1 0 5 -16
+p455
+aVPopeye Jones BOS 02/19/1999 BOS @ POR L 12 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 0 0 0 0 0 -5
+p456
+aVRon Mercer BOS 02/19/1999 BOS @ POR L 31 8 4 10 40.0 0 0 - 0 1 0.0 1 4 5 5 1 0 1 0 -14
+p457
+aVKenny Anderson BOS 02/19/1999 BOS @ POR L 30 9 4 14 28.6 0 0 - 1 4 25.0 2 2 4 7 1 0 0 0 -16
+p458
+aVTony Battie BOS 02/17/1999 BOS @ VAN W 26 8 3 5 60.0 0 0 - 2 2 100.0 3 3 6 1 2 3 1 3 4
+p459
+aVEric Riley BOS 02/17/1999 BOS @ VAN W 13 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 1 2 2 1 6 -11
+p460
+aVGreg Minor BOS 02/17/1999 BOS @ VAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p461
+aVPaul Pierce BOS 02/17/1999 BOS @ VAN W 49 26 9 21 42.9 1 4 25.0 7 10 70.0 3 4 7 3 7 0 4 5 11
+p462
+aVAntoine Walker BOS 02/17/1999 BOS @ VAN W 50 27 10 24 41.7 2 4 50.0 5 11 45.5 5 8 13 2 2 0 2 6 -4
+p463
+aVBruce Bowen BOS 02/17/1999 BOS @ VAN W 25 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -1
+p464
+aVPopeye Jones BOS 02/17/1999 BOS @ VAN W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 0 1 0 5
+p465
+aVMarlon Garnett BOS 02/17/1999 BOS @ VAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p466
+aVAndrew DeClercq BOS 02/17/1999 BOS @ VAN W 24 7 3 4 75.0 0 0 - 1 1 100.0 3 2 5 0 4 1 2 5 7
+p467
+aVDana Barros BOS 02/17/1999 BOS @ VAN W 19 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 6 0 0 1 3 1
+p468
+aVRon Mercer BOS 02/17/1999 BOS @ VAN W 46 27 10 20 50.0 0 0 - 7 9 77.8 0 1 1 1 1 0 4 6 -1
+p469
+aVKenny Anderson BOS 02/17/1999 BOS @ VAN W 44 20 7 16 43.8 0 1 0.0 6 8 75.0 1 2 3 13 1 0 1 3 4
+p470
+aVAndrew DeClercq BOS 02/16/1999 BOS @ SAC L 16 4 1 2 50.0 0 0 - 2 2 100.0 3 1 4 0 1 1 2 4 1
+p471
+aVPaul Pierce BOS 02/16/1999 BOS @ SAC L 36 19 7 16 43.8 0 0 - 5 6 83.3 6 1 7 1 5 3 2 4 -2
+p472
+aVTony Battie BOS 02/16/1999 BOS @ SAC L 16 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 5 11
+p473
+aVBruce Bowen BOS 02/16/1999 BOS @ SAC L 17 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 1 0 0 1 7
+p474
+aVAntoine Walker BOS 02/16/1999 BOS @ SAC L 32 17 7 21 33.3 1 5 20.0 2 2 100.0 4 8 12 4 1 0 5 4 1
+p475
+aVPopeye Jones BOS 02/16/1999 BOS @ SAC L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -7
+p476
+aVEric Riley BOS 02/16/1999 BOS @ SAC L 11 0 0 0 - 0 0 - 0 0 - 1 3 4 0 1 3 0 3 4
+p477
+aVDwayne Schintzius BOS 02/16/1999 BOS @ SAC L 10 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 2 2 3 -16
+p478
+aVRon Mercer BOS 02/16/1999 BOS @ SAC L 43 24 10 24 41.7 0 0 - 4 4 100.0 2 6 8 1 1 0 2 2 -11
+p479
+aVKenny Anderson BOS 02/16/1999 BOS @ SAC L 27 12 5 12 41.7 0 1 0.0 2 3 66.7 1 0 1 8 1 0 1 1 -9
+p480
+aVDana Barros BOS 02/16/1999 BOS @ SAC L 21 8 4 11 36.4 0 4 0.0 0 0 - 0 1 1 6 2 0 0 1 6
+p481
+aVPaul Pierce BOS 02/09/1999 BOS @ MIA W 28 19 9 16 56.3 1 3 33.3 0 1 0.0 2 5 7 0 1 2 1 4 13
+p482
+aVPopeye Jones BOS 02/09/1999 BOS @ MIA W 24 2 0 3 0.0 0 0 - 2 2 100.0 4 3 7 3 2 0 0 5 15
+p483
+aVMarlon Garnett BOS 02/09/1999 BOS @ MIA W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 4
+p484
+aVGreg Minor BOS 02/09/1999 BOS @ MIA W 16 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -3
+p485
+aVAntoine Walker BOS 02/09/1999 BOS @ MIA W 38 31 12 27 44.4 4 9 44.4 3 9 33.3 6 4 10 3 3 0 1 2 12
+p486
+aVEric Riley BOS 02/09/1999 BOS @ MIA W 12 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 2 0 4 -2
+p487
+aVAndrew DeClercq BOS 02/09/1999 BOS @ MIA W 29 6 2 7 28.6 0 0 - 2 2 100.0 3 3 6 1 0 1 5 6 5
+p488
+aVDana Barros BOS 02/09/1999 BOS @ MIA W 17 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 4 0 0 1 3 3
+p489
+aVKenny Anderson BOS 02/09/1999 BOS @ MIA W 31 22 4 14 28.6 0 4 0.0 14 14 100.0 1 2 3 7 4 0 3 3 6
+p490
+aVBruce Bowen BOS 02/09/1999 BOS @ MIA W 29 5 2 5 40.0 1 2 50.0 0 2 0.0 2 1 3 0 1 1 2 4 -9
+p491
+aVTony Battie BOS 02/09/1999 BOS @ MIA W 14 6 3 8 37.5 0 0 - 0 0 - 1 1 2 0 0 0 0 5 -9
+p492
+aVAndrew DeClercq BOS 02/08/1999 BOS @ ORL L 15 6 1 4 25.0 0 0 - 4 4 100.0 2 0 2 0 1 0 2 4 2
+p493
+aVMarlon Garnett BOS 02/08/1999 BOS @ ORL L 12 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 1 -7
+p494
+aVPaul Pierce BOS 02/08/1999 BOS @ ORL L 32 12 5 14 35.7 2 4 50.0 0 0 - 2 4 6 2 3 1 2 6 -21
+p495
+aVGreg Minor BOS 02/08/1999 BOS @ ORL L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 1 1 9
+p496
+aVTony Battie BOS 02/08/1999 BOS @ ORL L 19 8 4 7 57.1 0 0 - 0 0 - 1 0 1 0 1 1 0 3 -2
+p497
+aVBruce Bowen BOS 02/08/1999 BOS @ ORL L 32 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 5 2 1 0 1 -19
+p498
+aVKenny Anderson BOS 02/08/1999 BOS @ ORL L 29 12 5 13 38.5 0 1 0.0 2 4 50.0 1 4 5 9 1 0 6 4 -8
+p499
+aVEric Riley BOS 02/08/1999 BOS @ ORL L 18 7 3 6 50.0 0 0 - 1 1 100.0 1 2 3 0 1 1 1 2 -7
+p500
+aVPopeye Jones BOS 02/08/1999 BOS @ ORL L 18 13 5 10 50.0 0 1 0.0 3 4 75.0 5 1 6 2 0 0 0 4 8
+p501
+aVDana Barros BOS 02/08/1999 BOS @ ORL L 19 11 5 7 71.4 1 3 33.3 0 0 - 0 1 1 1 2 0 3 1 -9
+p502
+aVAntoine Walker BOS 02/08/1999 BOS @ ORL L 37 20 8 19 42.1 1 4 25.0 3 7 42.9 2 6 8 3 3 0 2 0 -31
+p503
+aVDwayne Schintzius BOS 02/06/1999 BOS vs. CLE W 8 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 4 -5
+p504
+aVMarlon Garnett BOS 02/06/1999 BOS vs. CLE W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 0
+p505
+aVAntoine Walker BOS 02/06/1999 BOS vs. CLE W 29 22 8 16 50.0 1 5 20.0 5 6 83.3 4 5 9 2 1 0 7 2 -9
+p506
+aVDana Barros BOS 02/06/1999 BOS vs. CLE W 22 6 2 9 22.2 1 1 100.0 1 1 100.0 1 3 4 1 1 0 4 0 0
+p507
+aVTony Battie BOS 02/06/1999 BOS vs. CLE W 21 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 1 0 0 1 6
+p508
+aVEric Riley BOS 02/06/1999 BOS vs. CLE W 40 6 1 5 20.0 0 0 - 4 8 50.0 3 8 11 2 1 5 3 5 7
+p509
+aVPaul Pierce BOS 02/06/1999 BOS vs. CLE W 30 19 4 9 44.4 1 1 100.0 10 12 83.3 2 2 4 2 0 1 2 3 5
+p510
+aVBruce Bowen BOS 02/06/1999 BOS vs. CLE W 42 2 1 4 25.0 0 0 - 0 0 - 2 5 7 2 2 1 4 4 4
+p511
+aVGreg Minor BOS 02/06/1999 BOS vs. CLE W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 1 2 0 0 2 8
+p512
+aVKenny Anderson BOS 02/06/1999 BOS vs. CLE W 26 10 4 11 36.4 0 0 - 2 4 50.0 1 3 4 3 1 0 2 2 4
+p513
+aVTony Battie BOS 02/05/1999 BOS vs. TOR L 19 7 2 2 100.0 0 0 - 3 4 75.0 1 1 2 1 0 0 2 6 -6
+p514
+aVKenny Anderson BOS 02/05/1999 BOS vs. TOR L 32 8 3 11 27.3 0 2 0.0 2 2 100.0 0 4 4 7 1 0 1 0 -16
+p515
+aVWalter McCarty BOS 02/05/1999 BOS vs. TOR L 7 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -2
+p516
+aVPaul Pierce BOS 02/05/1999 BOS vs. TOR L 39 19 7 14 50.0 2 4 50.0 3 6 50.0 0 9 9 5 2 4 1 4 -10
+p517
+aVDwayne Schintzius BOS 02/05/1999 BOS vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -8
+p518
+aVDana Barros BOS 02/05/1999 BOS vs. TOR L 16 13 5 9 55.6 3 3 100.0 0 0 - 1 0 1 2 2 0 3 0 5
+p519
+aVMarlon Garnett BOS 02/05/1999 BOS vs. TOR L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -7
+p520
+aVEric Riley BOS 02/05/1999 BOS vs. TOR L 27 9 4 7 57.1 0 0 - 1 2 50.0 5 6 11 1 0 1 3 1 7
+p521
+aVAntoine Walker BOS 02/05/1999 BOS vs. TOR L 41 21 9 18 50.0 0 0 - 3 5 60.0 2 5 7 1 0 0 3 3 -15
+p522
+aVRon Mercer BOS 02/05/1999 BOS vs. TOR L 22 4 2 8 25.0 0 0 - 0 0 - 0 0 0 1 0 2 0 3 -9
+p523
+aVBruce Bowen BOS 02/05/1999 BOS vs. TOR L 18 3 1 3 33.3 1 3 33.3 0 2 0.0 2 0 2 2 1 0 2 4 5
+p524
+aVGreg Minor BOS 02/05/1999 BOS vs. TOR L 9 5 1 4 25.0 1 2 50.0 2 2 100.0 1 1 2 0 0 0 1 2 1
+p525
+a.

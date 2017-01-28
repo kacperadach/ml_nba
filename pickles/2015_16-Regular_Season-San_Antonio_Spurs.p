@@ -1,0 +1,1952 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJonathon Simmons SAS 04/13/2016 SAS @ DAL W 31 19 7 14 50.0 0 3 0.0 5 9 55.6 1 6 7 2 2 0 2 2 -9
+p2
+aVDanny Green SAS 04/13/2016 SAS @ DAL W 27 12 5 11 45.5 2 5 40.0 0 1 0.0 0 2 2 3 1 0 0 2 21
+p3
+aVMatt Bonner SAS 04/13/2016 SAS @ DAL W 23 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 1 0 1 0 2 10
+p4
+aVPatty Mills SAS 04/13/2016 SAS @ DAL W 20 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 3 2 -12
+p5
+aVKyle Anderson SAS 04/13/2016 SAS @ DAL W 30 15 6 10 60.0 1 1 100.0 2 3 66.7 1 9 10 4 5 0 0 2 17
+p6
+aVKevin Martin SAS 04/13/2016 SAS @ DAL W 24 7 2 9 22.2 0 5 0.0 3 3 100.0 1 1 2 0 0 0 1 2 -19
+p7
+aVBoris Diaw SAS 04/13/2016 SAS @ DAL W 20 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 7 0 0 5 3 -3
+p8
+aVBoban Marjanovic SAS 04/13/2016 SAS @ DAL W 37 22 7 9 77.8 0 0 - 8 8 100.0 3 9 12 1 0 2 1 3 2
+p9
+aVAndre Miller SAS 04/13/2016 SAS @ DAL W 28 8 3 7 42.9 0 1 0.0 2 2 100.0 1 5 6 5 0 0 2 1 18
+p10
+aVKawhi Leonard SAS 04/12/2016 SAS vs. OKC W 39 26 10 20 50.0 1 5 20.0 5 8 62.5 1 4 5 5 2 2 3 3 -1
+p11
+aVKevin Martin SAS 04/12/2016 SAS vs. OKC W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 2 0 1 1 -7
+p12
+aVDavid West SAS 04/12/2016 SAS vs. OKC W 30 8 3 11 27.3 0 0 - 2 2 100.0 2 2 4 0 2 1 0 4 -8
+p13
+aVPatty Mills SAS 04/12/2016 SAS vs. OKC W 16 7 1 5 20.0 1 2 50.0 4 4 100.0 0 1 1 3 0 0 1 2 -5
+p14
+aVDanny Green SAS 04/12/2016 SAS vs. OKC W 27 6 2 4 50.0 2 4 50.0 0 0 - 0 4 4 1 1 1 0 5 2
+p15
+aVJonathon Simmons SAS 04/12/2016 SAS vs. OKC W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 4
+p16
+aVTim Duncan SAS 04/12/2016 SAS vs. OKC W 34 12 5 14 35.7 0 0 - 2 4 50.0 4 5 9 3 0 1 1 2 2
+p17
+aVBoban Marjanovic SAS 04/12/2016 SAS vs. OKC W 22 9 4 5 80.0 0 0 - 1 1 100.0 3 5 8 0 0 2 2 1 13
+p18
+aVLaMarcus Aldridge SAS 04/12/2016 SAS vs. OKC W 19 8 2 5 40.0 0 0 - 4 6 66.7 1 4 5 0 0 1 1 1 1
+p19
+aVKyle Anderson SAS 04/12/2016 SAS vs. OKC W 20 4 1 4 25.0 0 0 - 2 2 100.0 0 5 5 0 2 0 1 0 10
+p20
+aVTony Parker SAS 04/12/2016 SAS vs. OKC W 37 20 8 14 57.1 0 0 - 4 5 80.0 0 1 1 3 3 0 1 2 9
+p21
+aVManu Ginobili SAS 04/10/2016 SAS vs. GSW L 20 8 2 7 28.6 1 2 50.0 3 4 75.0 1 0 1 3 3 1 1 1 4
+p22
+aVPatty Mills SAS 04/10/2016 SAS vs. GSW L 21 7 2 8 25.0 1 4 25.0 2 2 100.0 1 1 2 2 1 0 0 2 6
+p23
+aVKevin Martin SAS 04/10/2016 SAS vs. GSW L 19 9 3 5 60.0 1 2 50.0 2 2 100.0 0 3 3 0 0 0 3 0 -7
+p24
+aVKyle Anderson SAS 04/10/2016 SAS vs. GSW L 18 4 2 5 40.0 0 0 - 0 0 - 0 8 8 1 0 0 0 3 4
+p25
+aVBoban Marjanovic SAS 04/10/2016 SAS vs. GSW L 6 4 2 4 50.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 1 -4
+p26
+aVDavid West SAS 04/10/2016 SAS vs. GSW L 29 4 2 7 28.6 0 0 - 0 1 0.0 4 6 10 3 2 0 1 2 6
+p27
+aVKawhi Leonard SAS 04/10/2016 SAS vs. GSW L 39 20 7 22 31.8 0 3 0.0 6 7 85.7 6 7 13 5 2 3 0 3 -10
+p28
+aVLaMarcus Aldridge SAS 04/10/2016 SAS vs. GSW L 33 24 11 18 61.1 0 0 - 2 2 100.0 4 6 10 1 0 1 1 0 -14
+p29
+aVDanny Green SAS 04/10/2016 SAS vs. GSW L 25 2 1 7 14.3 0 6 0.0 0 0 - 1 1 2 2 1 0 4 2 -3
+p30
+aVTony Parker SAS 04/10/2016 SAS vs. GSW L 29 4 2 7 28.6 0 0 - 0 0 - 0 2 2 4 1 0 1 4 -12
+p31
+aVBoban Marjanovic SAS 04/08/2016 SAS @ DEN L 14 9 3 5 60.0 0 0 - 3 4 75.0 1 3 4 2 0 1 0 1 -1
+p32
+aVJonathon Simmons SAS 04/08/2016 SAS @ DEN L 35 15 5 7 71.4 0 1 0.0 5 5 100.0 1 4 5 0 0 0 2 3 3
+p33
+aVPatty Mills SAS 04/08/2016 SAS @ DEN L 23 7 2 12 16.7 1 5 20.0 2 2 100.0 0 3 3 7 1 1 1 0 -1
+p34
+aVKyle Anderson SAS 04/08/2016 SAS @ DEN L 35 2 1 9 11.1 0 1 0.0 0 0 - 1 5 6 2 0 0 1 1 -8
+p35
+aVDavid West SAS 04/08/2016 SAS @ DEN L 32 17 6 12 50.0 0 1 0.0 5 6 83.3 1 6 7 2 1 5 0 3 -16
+p36
+aVAndre Miller SAS 04/08/2016 SAS @ DEN L 28 8 4 11 36.4 0 0 - 0 0 - 1 3 4 5 3 0 2 1 -5
+p37
+aVKevin Martin SAS 04/08/2016 SAS @ DEN L 26 17 5 11 45.5 2 4 50.0 5 5 100.0 1 5 6 0 1 0 2 1 -3
+p38
+aVMatt Bonner SAS 04/08/2016 SAS @ DEN L 13 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 14
+p39
+aVTim Duncan SAS 04/08/2016 SAS @ DEN L 34 21 9 15 60.0 0 0 - 3 6 50.0 2 5 7 2 0 1 2 1 -3
+p40
+aVMatt Bonner SAS 04/07/2016 SAS @ GSW L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 2
+p41
+aVPatty Mills SAS 04/07/2016 SAS @ GSW L 18 7 3 8 37.5 1 4 25.0 0 0 - 0 0 0 3 1 0 1 1 -6
+p42
+aVManu Ginobili SAS 04/07/2016 SAS @ GSW L 20 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 3 1 0
+p43
+aVTim Duncan SAS 04/07/2016 SAS @ GSW L 19 4 2 6 33.3 0 0 - 0 0 - 1 2 3 1 0 0 2 0 -13
+p44
+aVDavid West SAS 04/07/2016 SAS @ GSW L 24 11 4 5 80.0 0 0 - 3 4 75.0 0 0 0 7 0 0 0 0 2
+p45
+aVDanny Green SAS 04/07/2016 SAS @ GSW L 29 9 3 7 42.9 3 6 50.0 0 0 - 1 4 5 1 4 2 0 2 -8
+p46
+aVKawhi Leonard SAS 04/07/2016 SAS @ GSW L 35 23 8 12 66.7 2 3 66.7 5 8 62.5 1 2 3 2 1 0 2 0 -15
+p47
+aVLaMarcus Aldridge SAS 04/07/2016 SAS @ GSW L 29 11 5 16 31.3 0 0 - 1 1 100.0 2 1 3 2 2 0 2 2 -13
+p48
+aVTony Parker SAS 04/07/2016 SAS @ GSW L 27 10 4 10 40.0 0 0 - 2 4 50.0 0 2 2 3 0 0 2 1 -10
+p49
+aVKyle Anderson SAS 04/07/2016 SAS @ GSW L 20 8 3 4 75.0 0 0 - 2 3 66.7 0 11 11 3 0 0 0 2 0
+p50
+aVKevin Martin SAS 04/07/2016 SAS @ GSW L 15 10 3 5 60.0 1 2 50.0 3 3 100.0 0 4 4 4 1 0 0 0 6
+p51
+aVManu Ginobili SAS 04/05/2016 SAS @ UTA W 19 14 5 9 55.6 2 4 50.0 2 2 100.0 0 2 2 2 0 0 1 1 15
+p52
+aVMatt Bonner SAS 04/05/2016 SAS @ UTA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p53
+aVKawhi Leonard SAS 04/05/2016 SAS @ UTA W 38 18 5 14 35.7 0 4 0.0 8 9 88.9 1 7 8 0 1 2 2 3 -18
+p54
+aVLaMarcus Aldridge SAS 04/05/2016 SAS @ UTA W 36 14 7 13 53.8 0 0 - 0 0 - 3 4 7 0 4 0 2 1 6
+p55
+aVTim Duncan SAS 04/05/2016 SAS @ UTA W 24 3 0 3 0.0 0 0 - 3 4 75.0 0 2 2 2 0 2 1 2 -10
+p56
+aVTony Parker SAS 04/05/2016 SAS @ UTA W 27 11 4 13 30.8 1 1 100.0 2 2 100.0 0 3 3 4 1 0 1 0 -10
+p57
+aVPatty Mills SAS 04/05/2016 SAS @ UTA W 21 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 2 1 0 1 3 12
+p58
+aVDanny Green SAS 04/05/2016 SAS @ UTA W 26 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 2 0 0 3 -8
+p59
+aVKyle Anderson SAS 04/05/2016 SAS @ UTA W 23 11 4 5 80.0 1 1 100.0 2 2 100.0 0 3 3 4 1 0 0 2 21
+p60
+aVDavid West SAS 04/05/2016 SAS @ UTA W 20 9 4 5 80.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 1 12
+p61
+aVKyle Anderson SAS 04/02/2016 SAS vs. TOR W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 3 1 0 1 0 0
+p62
+aVPatty Mills SAS 04/02/2016 SAS vs. TOR W 24 7 2 9 22.2 1 6 16.7 2 2 100.0 0 0 0 4 0 0 2 2 -2
+p63
+aVBoris Diaw SAS 04/02/2016 SAS vs. TOR W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 6
+p64
+aVLaMarcus Aldridge SAS 04/02/2016 SAS vs. TOR W 38 31 12 18 66.7 0 0 - 7 7 100.0 4 11 15 1 1 0 3 2 8
+p65
+aVTony Parker SAS 04/02/2016 SAS vs. TOR W 28 8 2 6 33.3 0 1 0.0 4 6 66.7 0 0 0 4 0 0 4 0 8
+p66
+aVDanny Green SAS 04/02/2016 SAS vs. TOR W 18 3 1 7 14.3 1 5 20.0 0 0 - 2 2 4 0 1 0 0 2 -4
+p67
+aVManu Ginobili SAS 04/02/2016 SAS vs. TOR W 21 5 1 6 16.7 1 3 33.3 2 2 100.0 1 2 3 4 3 1 0 2 5
+p68
+aVDavid West SAS 04/02/2016 SAS vs. TOR W 18 6 3 4 75.0 0 0 - 0 1 0.0 2 1 3 4 1 0 0 1 -7
+p69
+aVKawhi Leonard SAS 04/02/2016 SAS vs. TOR W 40 33 10 17 58.8 2 5 40.0 11 11 100.0 0 6 6 7 3 1 2 5 14
+p70
+aVTim Duncan SAS 04/02/2016 SAS vs. TOR W 29 5 2 7 28.6 0 0 - 1 1 100.0 5 6 11 0 1 3 1 0 7
+p71
+aVKevin Martin SAS 03/30/2016 SAS vs. NOP W 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -5
+p72
+aVKyle Anderson SAS 03/30/2016 SAS vs. NOP W 15 2 1 3 33.3 0 2 0.0 0 2 0.0 0 3 3 4 1 0 0 3 1
+p73
+aVMatt Bonner SAS 03/30/2016 SAS vs. NOP W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p74
+aVTony Parker SAS 03/30/2016 SAS vs. NOP W 27 4 2 6 33.3 0 0 - 0 2 0.0 0 2 2 6 0 0 3 1 16
+p75
+aVLaMarcus Aldridge SAS 03/30/2016 SAS vs. NOP W 32 11 3 10 30.0 0 0 - 5 6 83.3 1 5 6 1 1 1 0 2 12
+p76
+aVBoris Diaw SAS 03/30/2016 SAS vs. NOP W 16 9 4 7 57.1 0 0 - 1 2 50.0 1 0 1 1 0 0 1 0 -10
+p77
+aVManu Ginobili SAS 03/30/2016 SAS vs. NOP W 24 20 7 10 70.0 5 6 83.3 1 1 100.0 0 1 1 2 3 0 3 4 1
+p78
+aVJonathon Simmons SAS 03/30/2016 SAS vs. NOP W 11 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -8
+p79
+aVPatty Mills SAS 03/30/2016 SAS vs. NOP W 20 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 1 2 0 2 1 -7
+p80
+aVDanny Green SAS 03/30/2016 SAS vs. NOP W 18 16 6 9 66.7 4 6 66.7 0 0 - 0 4 4 1 0 2 0 2 13
+p81
+aVBoban Marjanovic SAS 03/30/2016 SAS vs. NOP W 9 4 2 2 100.0 0 0 - 0 0 - 3 0 3 0 0 0 2 2 -4
+p82
+aVKawhi Leonard SAS 03/30/2016 SAS vs. NOP W 22 16 4 9 44.4 1 5 20.0 7 7 100.0 0 6 6 4 3 2 0 1 17
+p83
+aVTim Duncan SAS 03/30/2016 SAS vs. NOP W 27 8 3 10 30.0 0 0 - 2 2 100.0 1 8 9 1 0 3 0 1 16
+p84
+aVKevin Martin SAS 03/28/2016 SAS @ MEM W 22 1 0 3 0.0 0 0 - 1 1 100.0 1 1 2 1 1 0 1 3 -11
+p85
+aVMatt Bonner SAS 03/28/2016 SAS @ MEM W 9 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 3 1
+p86
+aVLaMarcus Aldridge SAS 03/28/2016 SAS @ MEM W 31 31 11 16 68.8 0 0 - 9 11 81.8 4 9 13 3 0 2 1 0 18
+p87
+aVBoris Diaw SAS 03/28/2016 SAS @ MEM W 21 13 5 9 55.6 0 1 0.0 3 4 75.0 1 5 6 1 0 1 5 4 2
+p88
+aVPatty Mills SAS 03/28/2016 SAS @ MEM W 22 17 7 10 70.0 3 4 75.0 0 0 - 0 1 1 4 0 0 2 0 4
+p89
+aVKyle Anderson SAS 03/28/2016 SAS @ MEM W 36 13 4 6 66.7 1 2 50.0 4 4 100.0 0 3 3 7 4 1 3 3 18
+p90
+aVBoban Marjanovic SAS 03/28/2016 SAS @ MEM W 30 5 1 4 25.0 0 0 - 3 4 75.0 3 6 9 2 0 1 0 3 8
+p91
+aVAndre Miller SAS 03/28/2016 SAS @ MEM W 28 8 3 8 37.5 0 1 0.0 2 6 33.3 1 0 1 4 1 0 1 1 7
+p92
+aVDanny Green SAS 03/28/2016 SAS @ MEM W 30 6 3 7 42.9 0 3 0.0 0 0 - 0 7 7 1 2 2 1 1 28
+p93
+aVJonathon Simmons SAS 03/28/2016 SAS @ MEM W 10 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 3 -5
+p94
+aVKevin Martin SAS 03/26/2016 SAS @ OKC L 18 3 1 9 11.1 0 1 0.0 1 1 100.0 0 0 0 0 1 1 1 0 0
+p95
+aVMatt Bonner SAS 03/26/2016 SAS @ OKC L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 1
+p96
+aVBoris Diaw SAS 03/26/2016 SAS @ OKC L 27 10 4 6 66.7 0 2 0.0 2 2 100.0 1 3 4 1 0 0 1 2 -23
+p97
+aVJonathon Simmons SAS 03/26/2016 SAS @ OKC L 29 17 7 11 63.6 1 1 100.0 2 4 50.0 0 1 1 1 1 0 0 2 -2
+p98
+aVPatty Mills SAS 03/26/2016 SAS @ OKC L 31 10 4 10 40.0 2 6 33.3 0 0 - 1 1 2 0 0 0 1 3 -24
+p99
+aVAndre Miller SAS 03/26/2016 SAS @ OKC L 19 11 4 7 57.1 0 0 - 3 3 100.0 2 6 8 2 1 0 3 3 8
+p100
+aVDavid West SAS 03/26/2016 SAS @ OKC L 24 17 7 16 43.8 0 0 - 3 3 100.0 4 2 6 3 0 1 1 2 -2
+p101
+aVKyle Anderson SAS 03/26/2016 SAS @ OKC L 30 7 3 7 42.9 1 1 100.0 0 0 - 1 4 5 3 3 0 2 2 -5
+p102
+aVBoban Marjanovic SAS 03/26/2016 SAS @ OKC L 27 13 5 12 41.7 0 0 - 3 4 75.0 3 3 6 1 1 1 2 0 -25
+p103
+aVDanny Green SAS 03/26/2016 SAS @ OKC L 22 2 1 6 16.7 0 4 0.0 0 0 - 1 1 2 2 1 0 0 2 -23
+p104
+aVTony Parker SAS 03/25/2016 SAS vs. MEM W 33 14 5 11 45.5 0 1 0.0 4 4 100.0 0 3 3 5 1 1 5 1 11
+p105
+aVAndre Miller SAS 03/25/2016 SAS vs. MEM W 16 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 2 5
+p106
+aVJonathon Simmons SAS 03/25/2016 SAS vs. MEM W 20 8 3 7 42.9 1 2 50.0 1 2 50.0 1 2 3 1 0 0 0 1 -4
+p107
+aVDavid West SAS 03/25/2016 SAS vs. MEM W 21 8 4 5 80.0 0 0 - 0 0 - 0 5 5 1 0 0 1 3 1
+p108
+aVLaMarcus Aldridge SAS 03/25/2016 SAS vs. MEM W 33 32 12 16 75.0 0 0 - 8 9 88.9 5 7 12 1 2 3 1 1 17
+p109
+aVMatt Bonner SAS 03/25/2016 SAS vs. MEM W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p110
+aVKevin Martin SAS 03/25/2016 SAS vs. MEM W 34 13 4 13 30.8 3 8 37.5 2 2 100.0 0 3 3 2 0 0 2 3 11
+p111
+aVManu Ginobili SAS 03/25/2016 SAS vs. MEM W 24 13 5 7 71.4 3 4 75.0 0 0 - 0 0 0 5 1 0 3 0 3
+p112
+aVKyle Anderson SAS 03/25/2016 SAS vs. MEM W 24 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 0 1 1 0 1 1
+p113
+aVTim Duncan SAS 03/25/2016 SAS vs. MEM W 31 12 6 8 75.0 0 0 - 0 1 0.0 2 6 8 7 1 0 1 0 -1
+p114
+aVBoban Marjanovic SAS 03/25/2016 SAS vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p115
+aVAndre Miller SAS 03/23/2016 SAS vs. MIA W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -2
+p116
+aVBoban Marjanovic SAS 03/23/2016 SAS vs. MIA W 14 19 9 12 75.0 0 0 - 1 1 100.0 3 1 4 0 1 0 0 1 -3
+p117
+aVManu Ginobili SAS 03/23/2016 SAS vs. MIA W 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 5 0 0 0 1 11
+p118
+aVDavid West SAS 03/23/2016 SAS vs. MIA W 11 2 1 2 50.0 0 0 - 0 0 - 0 4 4 2 0 0 0 1 -5
+p119
+aVBoris Diaw SAS 03/23/2016 SAS vs. MIA W 20 8 3 4 75.0 0 0 - 2 3 66.7 0 2 2 0 0 1 1 2 11
+p120
+aVTim Duncan SAS 03/23/2016 SAS vs. MIA W 24 4 1 2 50.0 0 0 - 2 2 100.0 1 8 9 4 1 0 2 0 24
+p121
+aVLaMarcus Aldridge SAS 03/23/2016 SAS vs. MIA W 25 8 4 9 44.4 0 0 - 0 0 - 2 3 5 1 2 1 2 1 20
+p122
+aVKevin Martin SAS 03/23/2016 SAS vs. MIA W 15 12 3 5 60.0 2 2 100.0 4 4 100.0 0 1 1 1 0 0 1 1 5
+p123
+aVTony Parker SAS 03/23/2016 SAS vs. MIA W 24 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 5 0 0 0 1 19
+p124
+aVKawhi Leonard SAS 03/23/2016 SAS vs. MIA W 24 32 12 21 57.1 3 7 42.9 5 7 71.4 2 6 8 0 1 1 1 1 16
+p125
+aVKyle Anderson SAS 03/23/2016 SAS vs. MIA W 22 2 1 5 20.0 0 0 - 0 0 - 1 1 2 3 0 1 0 1 -1
+p126
+aVPatty Mills SAS 03/23/2016 SAS vs. MIA W 15 9 2 5 40.0 0 1 0.0 5 5 100.0 0 2 2 2 1 0 1 0 7
+p127
+aVDanny Green SAS 03/23/2016 SAS vs. MIA W 22 9 3 6 50.0 3 4 75.0 0 0 - 1 2 3 1 1 0 1 1 18
+p128
+aVDavid West SAS 03/21/2016 SAS @ CHA L 15 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 1 2 1 1 -8
+p129
+aVKyle Anderson SAS 03/21/2016 SAS @ CHA L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p130
+aVPatty Mills SAS 03/21/2016 SAS @ CHA L 16 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 1 0 0 3 1 -13
+p131
+aVLaMarcus Aldridge SAS 03/21/2016 SAS @ CHA L 35 18 9 17 52.9 0 0 - 0 0 - 2 10 12 5 0 1 3 2 7
+p132
+aVDanny Green SAS 03/21/2016 SAS @ CHA L 22 2 0 7 0.0 0 5 0.0 2 2 100.0 1 2 3 1 1 1 1 1 2
+p133
+aVKawhi Leonard SAS 03/21/2016 SAS @ CHA L 31 15 6 14 42.9 1 4 25.0 2 2 100.0 0 6 6 0 2 0 1 3 4
+p134
+aVBoris Diaw SAS 03/21/2016 SAS @ CHA L 15 0 0 5 0.0 0 0 - 0 0 - 0 3 3 3 0 0 0 0 -6
+p135
+aVTim Duncan SAS 03/21/2016 SAS @ CHA L 31 16 7 11 63.6 0 0 - 2 5 40.0 3 7 10 2 2 4 1 2 1
+p136
+aVManu Ginobili SAS 03/21/2016 SAS @ CHA L 23 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 3 1 1 3 2 -1
+p137
+aVTony Parker SAS 03/21/2016 SAS @ CHA L 36 19 8 15 53.3 1 2 50.0 2 2 100.0 2 3 5 7 1 2 3 3 6
+p138
+aVKevin Martin SAS 03/21/2016 SAS @ CHA L 10 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 0 1 1 0 1 -4
+p139
+aVPatty Mills SAS 03/19/2016 SAS vs. GSW W 21 3 1 5 20.0 1 4 25.0 0 0 - 1 0 1 1 0 0 0 3 0
+p140
+aVBoris Diaw SAS 03/19/2016 SAS vs. GSW W 35 14 6 7 85.7 0 0 - 2 2 100.0 1 7 8 2 1 1 2 2 20
+p141
+aVTony Parker SAS 03/19/2016 SAS vs. GSW W 29 6 2 8 25.0 2 4 50.0 0 0 - 0 3 3 6 0 0 2 4 11
+p142
+aVManu Ginobili SAS 03/19/2016 SAS vs. GSW W 18 9 3 5 60.0 3 5 60.0 0 0 - 0 3 3 0 1 0 3 3 -10
+p143
+aVKawhi Leonard SAS 03/19/2016 SAS vs. GSW W 39 18 5 14 35.7 1 3 33.3 7 8 87.5 6 8 14 4 0 2 4 4 7
+p144
+aVKevin Martin SAS 03/19/2016 SAS vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p145
+aVDanny Green SAS 03/19/2016 SAS vs. GSW W 32 10 4 10 40.0 1 5 20.0 1 2 50.0 1 3 4 2 1 3 1 0 20
+p146
+aVKyle Anderson SAS 03/19/2016 SAS vs. GSW W 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 0 1 0 -10
+p147
+aVLaMarcus Aldridge SAS 03/19/2016 SAS vs. GSW W 37 26 11 25 44.0 0 0 - 4 4 100.0 3 10 13 0 1 0 2 2 12
+p148
+aVDavid West SAS 03/19/2016 SAS vs. GSW W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p149
+aVTim Duncan SAS 03/19/2016 SAS vs. GSW W 8 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 2 1 -3
+p150
+aVBoris Diaw SAS 03/17/2016 SAS vs. POR W 14 9 4 7 57.1 0 1 0.0 1 1 100.0 1 2 3 0 0 0 0 1 -9
+p151
+aVKawhi Leonard SAS 03/17/2016 SAS vs. POR W 31 22 8 11 72.7 4 4 100.0 2 2 100.0 0 2 2 1 0 3 0 1 21
+p152
+aVTony Parker SAS 03/17/2016 SAS vs. POR W 27 18 7 13 53.8 0 0 - 4 4 100.0 0 1 1 16 2 0 2 1 21
+p153
+aVLaMarcus Aldridge SAS 03/17/2016 SAS vs. POR W 26 22 9 14 64.3 0 0 - 4 5 80.0 0 6 6 1 1 1 1 2 16
+p154
+aVPatty Mills SAS 03/17/2016 SAS vs. POR W 21 17 6 12 50.0 3 4 75.0 2 2 100.0 1 1 2 2 0 0 0 2 -13
+p155
+aVTim Duncan SAS 03/17/2016 SAS vs. POR W 21 11 5 6 83.3 0 0 - 1 1 100.0 0 7 7 0 0 2 0 2 23
+p156
+aVAndre Miller SAS 03/17/2016 SAS vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p157
+aVDavid West SAS 03/17/2016 SAS vs. POR W 17 2 1 7 14.3 0 1 0.0 0 0 - 0 1 1 2 0 2 1 2 2
+p158
+aVDanny Green SAS 03/17/2016 SAS vs. POR W 24 7 2 3 66.7 1 2 50.0 2 2 100.0 1 4 5 3 2 3 0 3 15
+p159
+aVKevin Martin SAS 03/17/2016 SAS vs. POR W 21 8 3 9 33.3 0 3 0.0 2 3 66.7 1 3 4 3 1 0 0 2 -4
+p160
+aVManu Ginobili SAS 03/17/2016 SAS vs. POR W 18 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 3 1 0 2 3 -10
+p161
+aVKyle Anderson SAS 03/17/2016 SAS vs. POR W 15 0 0 0 - 0 0 - 0 0 - 0 4 4 4 1 0 1 4 -10
+p162
+aVBoban Marjanovic SAS 03/17/2016 SAS vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p163
+aVLaMarcus Aldridge SAS 03/15/2016 SAS vs. LAC W 29 17 7 16 43.8 0 1 0.0 3 4 75.0 1 5 6 2 2 0 0 1 -2
+p164
+aVManu Ginobili SAS 03/15/2016 SAS vs. LAC W 16 13 5 8 62.5 2 5 40.0 1 2 50.0 0 1 1 2 0 0 1 3 1
+p165
+aVTony Parker SAS 03/15/2016 SAS vs. LAC W 24 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 5 0 0 2 3 4
+p166
+aVDavid West SAS 03/15/2016 SAS vs. LAC W 17 8 4 7 57.1 0 0 - 0 0 - 4 2 6 1 0 2 0 1 19
+p167
+aVDanny Green SAS 03/15/2016 SAS vs. LAC W 26 12 4 5 80.0 4 5 80.0 0 0 - 0 0 0 1 1 0 2 4 23
+p168
+aVPatty Mills SAS 03/15/2016 SAS vs. LAC W 23 15 6 9 66.7 2 4 50.0 1 2 50.0 0 5 5 6 0 0 0 2 14
+p169
+aVTim Duncan SAS 03/15/2016 SAS vs. LAC W 22 6 3 5 60.0 0 0 - 0 0 - 4 3 7 2 0 0 0 2 0
+p170
+aVBoban Marjanovic SAS 03/15/2016 SAS vs. LAC W 4 3 0 0 - 0 0 - 3 4 75.0 1 0 1 1 0 0 0 0 3
+p171
+aVAndre Miller SAS 03/15/2016 SAS vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 1
+p172
+aVBoris Diaw SAS 03/15/2016 SAS vs. LAC W 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 10
+p173
+aVKawhi Leonard SAS 03/15/2016 SAS vs. LAC W 34 20 9 15 60.0 0 3 0.0 2 2 100.0 0 5 5 4 3 0 3 2 8
+p174
+aVKevin Martin SAS 03/15/2016 SAS vs. LAC W 12 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 1 10
+p175
+aVKyle Anderson SAS 03/15/2016 SAS vs. LAC W 14 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 2 0 2 14
+p176
+aVBoris Diaw SAS 03/12/2016 SAS vs. OKC W 9 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 5
+p177
+aVKevin Martin SAS 03/12/2016 SAS vs. OKC W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p178
+aVTony Parker SAS 03/12/2016 SAS vs. OKC W 28 4 0 4 0.0 0 1 0.0 4 6 66.7 1 1 2 4 0 0 2 0 -4
+p179
+aVManu Ginobili SAS 03/12/2016 SAS vs. OKC W 16 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 0 3 0 2 3 7
+p180
+aVTim Duncan SAS 03/12/2016 SAS vs. OKC W 22 11 5 7 71.4 0 0 - 1 2 50.0 3 3 6 1 2 0 0 3 -5
+p181
+aVKyle Anderson SAS 03/12/2016 SAS vs. OKC W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 0 3
+p182
+aVLaMarcus Aldridge SAS 03/12/2016 SAS vs. OKC W 37 24 9 14 64.3 0 0 - 6 6 100.0 2 7 9 3 0 1 3 2 2
+p183
+aVDanny Green SAS 03/12/2016 SAS vs. OKC W 30 5 1 10 10.0 1 9 11.1 2 2 100.0 1 3 4 1 2 0 1 3 13
+p184
+aVDavid West SAS 03/12/2016 SAS vs. OKC W 26 8 4 10 40.0 0 0 - 0 0 - 3 4 7 0 0 1 1 3 14
+p185
+aVPatty Mills SAS 03/12/2016 SAS vs. OKC W 20 4 1 6 16.7 1 4 25.0 1 2 50.0 1 6 7 3 1 0 0 1 12
+p186
+aVKawhi Leonard SAS 03/12/2016 SAS vs. OKC W 38 26 10 24 41.7 1 6 16.7 5 5 100.0 2 5 7 3 3 1 2 1 3
+p187
+aVTim Duncan SAS 03/10/2016 SAS vs. CHI W 28 7 3 7 42.9 0 0 - 1 3 33.3 1 2 3 4 2 0 0 1 3
+p188
+aVPatty Mills SAS 03/10/2016 SAS vs. CHI W 17 5 2 9 22.2 1 5 20.0 0 0 - 0 0 0 4 0 0 1 0 -7
+p189
+aVLaMarcus Aldridge SAS 03/10/2016 SAS vs. CHI W 33 26 10 19 52.6 0 0 - 6 6 100.0 1 9 10 1 2 1 1 2 7
+p190
+aVDavid West SAS 03/10/2016 SAS vs. CHI W 19 8 3 8 37.5 0 0 - 2 2 100.0 4 2 6 1 0 1 1 3 13
+p191
+aVManu Ginobili SAS 03/10/2016 SAS vs. CHI W 20 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 2 2 0 1 1 6
+p192
+aVAndre Miller SAS 03/10/2016 SAS vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p193
+aVTony Parker SAS 03/10/2016 SAS vs. CHI W 32 20 10 16 62.5 0 1 0.0 0 1 0.0 0 4 4 12 1 0 2 1 15
+p194
+aVBoban Marjanovic SAS 03/10/2016 SAS vs. CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p195
+aVKyle Anderson SAS 03/10/2016 SAS vs. CHI W 14 3 1 4 25.0 1 1 100.0 0 0 - 0 4 4 2 2 0 0 1 -1
+p196
+aVKawhi Leonard SAS 03/10/2016 SAS vs. CHI W 39 29 10 15 66.7 4 5 80.0 5 5 100.0 1 6 7 2 2 2 1 1 16
+p197
+aVDanny Green SAS 03/10/2016 SAS vs. CHI W 24 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 1 2 0 0 2 -1
+p198
+aVKevin Martin SAS 03/10/2016 SAS vs. CHI W 8 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 2
+p199
+aVBoris Diaw SAS 03/10/2016 SAS vs. CHI W 3 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 0 -3
+p200
+aVDavid West SAS 03/08/2016 SAS @ MIN W 31 18 7 9 77.8 0 0 - 4 4 100.0 0 4 4 3 2 1 1 2 19
+p201
+aVLaMarcus Aldridge SAS 03/08/2016 SAS @ MIN W 29 29 11 13 84.6 0 0 - 7 8 87.5 1 6 7 4 1 4 0 1 27
+p202
+aVKawhi Leonard SAS 03/08/2016 SAS @ MIN W 25 15 6 12 50.0 0 1 0.0 3 3 100.0 1 4 5 2 1 0 0 1 29
+p203
+aVBoban Marjanovic SAS 03/08/2016 SAS @ MIN W 10 0 0 4 0.0 0 0 - 0 0 - 2 6 8 0 0 0 0 0 6
+p204
+aVJonathon Simmons SAS 03/08/2016 SAS @ MIN W 18 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 1 0 0 1 -3
+p205
+aVRasual Butler SAS 03/08/2016 SAS @ MIN W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p206
+aVKyle Anderson SAS 03/08/2016 SAS @ MIN W 21 8 4 5 80.0 0 0 - 0 0 - 2 4 6 2 3 0 4 4 -10
+p207
+aVDanny Green SAS 03/08/2016 SAS @ MIN W 32 9 4 11 36.4 1 5 20.0 0 0 - 1 4 5 3 2 2 1 2 34
+p208
+aVAndre Miller SAS 03/08/2016 SAS @ MIN W 25 13 5 6 83.3 1 1 100.0 2 2 100.0 0 2 2 5 1 0 1 2 24
+p209
+aVBoris Diaw SAS 03/08/2016 SAS @ MIN W 16 6 3 4 75.0 0 0 - 0 0 - 0 2 2 3 2 0 1 1 -6
+p210
+aVMatt Bonner SAS 03/08/2016 SAS @ MIN W 10 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 0 4
+p211
+aVPatty Mills SAS 03/08/2016 SAS @ MIN W 18 7 3 11 27.3 1 8 12.5 0 0 - 1 1 2 4 0 0 1 2 0
+p212
+aVKawhi Leonard SAS 03/07/2016 SAS @ IND L 40 23 9 23 39.1 1 7 14.3 4 6 66.7 3 3 6 2 0 1 1 3 -3
+p213
+aVManu Ginobili SAS 03/07/2016 SAS @ IND L 20 2 1 8 12.5 0 4 0.0 0 0 - 1 0 1 1 0 0 2 3 -3
+p214
+aVBoris Diaw SAS 03/07/2016 SAS @ IND L 14 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 2 -7
+p215
+aVLaMarcus Aldridge SAS 03/07/2016 SAS @ IND L 38 23 9 20 45.0 0 0 - 5 5 100.0 2 10 12 0 1 2 0 4 1
+p216
+aVTim Duncan SAS 03/07/2016 SAS @ IND L 28 9 3 9 33.3 0 0 - 3 3 100.0 6 8 14 4 1 2 3 3 -3
+p217
+aVPatty Mills SAS 03/07/2016 SAS @ IND L 22 17 6 13 46.2 3 10 30.0 2 2 100.0 2 2 4 2 0 0 0 1 -5
+p218
+aVDanny Green SAS 03/07/2016 SAS @ IND L 28 4 2 8 25.0 0 5 0.0 0 0 - 1 2 3 0 1 0 0 1 1
+p219
+aVKyle Anderson SAS 03/07/2016 SAS @ IND L 9 3 0 2 0.0 0 0 - 3 4 75.0 1 4 5 0 1 0 0 1 -5
+p220
+aVTony Parker SAS 03/07/2016 SAS @ IND L 25 6 2 8 25.0 0 0 - 2 2 100.0 0 1 1 5 0 0 2 0 -9
+p221
+aVDavid West SAS 03/07/2016 SAS @ IND L 16 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 1 1 0 1 -7
+p222
+aVRasual Butler SAS 03/05/2016 SAS vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p223
+aVDavid West SAS 03/05/2016 SAS vs. SAC W 27 12 5 9 55.6 0 0 - 2 3 66.7 0 3 3 3 2 0 2 6 3
+p224
+aVManu Ginobili SAS 03/05/2016 SAS vs. SAC W 15 22 8 11 72.7 1 3 33.3 5 5 100.0 1 0 1 1 0 0 1 3 10
+p225
+aVBoban Marjanovic SAS 03/05/2016 SAS vs. SAC W 19 9 3 4 75.0 0 0 - 3 4 75.0 2 7 9 1 0 0 1 2 15
+p226
+aVTony Parker SAS 03/05/2016 SAS vs. SAC W 32 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 7 0 1 2 0 9
+p227
+aVAndre Miller SAS 03/05/2016 SAS vs. SAC W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p228
+aVJonathon Simmons SAS 03/05/2016 SAS vs. SAC W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 2 -5
+p229
+aVPatty Mills SAS 03/05/2016 SAS vs. SAC W 24 9 3 8 37.5 3 6 50.0 0 0 - 1 3 4 3 0 0 2 2 -1
+p230
+aVBoris Diaw SAS 03/05/2016 SAS vs. SAC W 30 11 5 9 55.6 1 3 33.3 0 0 - 1 2 3 6 2 2 6 4 0
+p231
+aVKyle Anderson SAS 03/05/2016 SAS vs. SAC W 28 4 2 3 66.7 0 1 0.0 0 0 - 1 6 7 2 1 1 2 0 7
+p232
+aVMatt Bonner SAS 03/05/2016 SAS vs. SAC W 6 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 0 0 0 0 0 14
+p233
+aVKawhi Leonard SAS 03/05/2016 SAS vs. SAC W 36 25 9 24 37.5 1 5 20.0 6 7 85.7 5 8 13 6 1 1 4 1 5
+p234
+aVLaMarcus Aldridge SAS 03/03/2016 SAS @ NOP W 35 26 11 19 57.9 0 0 - 4 4 100.0 0 8 8 1 0 1 2 2 6
+p235
+aVAndre Miller SAS 03/03/2016 SAS @ NOP W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p236
+aVBoris Diaw SAS 03/03/2016 SAS @ NOP W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p237
+aVRasual Butler SAS 03/03/2016 SAS @ NOP W 19 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 2 0 2 0 0 1
+p238
+aVDanny Green SAS 03/03/2016 SAS @ NOP W 34 11 4 8 50.0 1 5 20.0 2 2 100.0 0 3 3 4 1 0 1 2 -4
+p239
+aVKawhi Leonard SAS 03/03/2016 SAS @ NOP W 39 30 12 22 54.5 6 10 60.0 0 0 - 1 10 11 3 2 2 2 1 14
+p240
+aVTim Duncan SAS 03/03/2016 SAS @ NOP W 22 7 2 6 33.3 0 0 - 3 4 75.0 2 3 5 2 0 2 1 1 14
+p241
+aVTony Parker SAS 03/03/2016 SAS @ NOP W 24 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 5 1 0 1 2 -6
+p242
+aVKyle Anderson SAS 03/03/2016 SAS @ NOP W 17 2 0 3 0.0 0 1 0.0 2 2 100.0 0 7 7 1 1 1 0 2 -4
+p243
+aVPatty Mills SAS 03/03/2016 SAS @ NOP W 27 9 3 6 50.0 1 3 33.3 2 2 100.0 1 3 4 8 3 1 1 1 14
+p244
+aVDavid West SAS 03/03/2016 SAS @ NOP W 14 5 2 7 28.6 0 0 - 1 1 100.0 0 5 5 0 0 1 3 0 4
+p245
+aVTony Parker SAS 03/02/2016 SAS vs. DET W 27 10 4 7 57.1 0 2 0.0 2 2 100.0 0 3 3 4 0 0 3 2 8
+p246
+aVKyle Anderson SAS 03/02/2016 SAS vs. DET W 19 7 2 6 33.3 0 0 - 3 3 100.0 0 5 5 0 1 2 0 3 4
+p247
+aVKawhi Leonard SAS 03/02/2016 SAS vs. DET W 36 27 13 22 59.1 1 6 16.7 0 0 - 0 6 6 5 2 0 0 3 22
+p248
+aVPatty Mills SAS 03/02/2016 SAS vs. DET W 18 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 7 1 0 0 1 7
+p249
+aVAndre Miller SAS 03/02/2016 SAS vs. DET W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 0 2 -1
+p250
+aVLaMarcus Aldridge SAS 03/02/2016 SAS vs. DET W 35 23 10 16 62.5 0 0 - 3 3 100.0 0 10 10 3 0 0 2 3 17
+p251
+aVJonathon Simmons SAS 03/02/2016 SAS vs. DET W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p252
+aVDavid West SAS 03/02/2016 SAS vs. DET W 16 4 2 7 28.6 0 0 - 0 0 - 0 2 2 0 0 1 1 2 0
+p253
+aVDanny Green SAS 03/02/2016 SAS vs. DET W 33 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 3 2 2 1 2 9
+p254
+aVRasual Butler SAS 03/02/2016 SAS vs. DET W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 3
+p255
+aVTim Duncan SAS 03/02/2016 SAS vs. DET W 20 12 6 9 66.7 0 0 - 0 1 0.0 3 5 8 1 1 0 1 1 17
+p256
+aVBoban Marjanovic SAS 03/02/2016 SAS vs. DET W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 2
+p257
+aVBoris Diaw SAS 03/02/2016 SAS vs. DET W 14 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p258
+aVDanny Green SAS 02/27/2016 SAS @ HOU W 31 8 3 8 37.5 2 6 33.3 0 2 0.0 0 6 6 3 0 1 1 5 25
+p259
+aVLaMarcus Aldridge SAS 02/27/2016 SAS @ HOU W 33 26 9 19 47.4 0 1 0.0 8 8 100.0 4 12 16 1 0 1 1 2 23
+p260
+aVJonathon Simmons SAS 02/27/2016 SAS @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p261
+aVBoris Diaw SAS 02/27/2016 SAS @ HOU W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 2 0 0 1 0 0
+p262
+aVRay McCallum SAS 02/27/2016 SAS @ HOU W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p263
+aVTim Duncan SAS 02/27/2016 SAS @ HOU W 25 6 3 7 42.9 0 0 - 0 0 - 1 5 6 6 0 1 2 4 18
+p264
+aVDavid West SAS 02/27/2016 SAS @ HOU W 16 6 3 4 75.0 0 0 - 0 0 - 1 0 1 2 2 0 0 1 3
+p265
+aVRasual Butler SAS 02/27/2016 SAS @ HOU W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p266
+aVKawhi Leonard SAS 02/27/2016 SAS @ HOU W 39 27 8 13 61.5 3 4 75.0 8 9 88.9 0 8 8 1 1 1 2 3 16
+p267
+aVPatty Mills SAS 02/27/2016 SAS @ HOU W 21 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 -9
+p268
+aVKyle Anderson SAS 02/27/2016 SAS @ HOU W 23 11 4 8 50.0 1 3 33.3 2 3 66.7 1 2 3 3 1 0 2 1 -2
+p269
+aVBoban Marjanovic SAS 02/27/2016 SAS @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p270
+aVTony Parker SAS 02/27/2016 SAS @ HOU W 33 15 5 10 50.0 2 2 100.0 3 4 75.0 0 1 1 4 0 0 2 3 7
+p271
+aVPatty Mills SAS 02/25/2016 SAS @ UTA W 17 11 4 5 80.0 3 4 75.0 0 1 0.0 0 1 1 1 0 0 1 0 1
+p272
+aVLaMarcus Aldridge SAS 02/25/2016 SAS @ UTA W 33 15 7 15 46.7 0 0 - 1 1 100.0 1 6 7 2 0 1 1 1 12
+p273
+aVJonathon Simmons SAS 02/25/2016 SAS @ UTA W 8 3 1 2 50.0 1 1 100.0 0 0 - 1 2 3 0 1 0 2 3 -1
+p274
+aVBoban Marjanovic SAS 02/25/2016 SAS @ UTA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p275
+aVDanny Green SAS 02/25/2016 SAS @ UTA W 28 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 1 0 1 1 4 14
+p276
+aVKawhi Leonard SAS 02/25/2016 SAS @ UTA W 35 29 10 15 66.7 3 5 60.0 6 6 100.0 0 5 5 3 3 0 0 2 17
+p277
+aVRasual Butler SAS 02/25/2016 SAS @ UTA W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p278
+aVDavid West SAS 02/25/2016 SAS @ UTA W 18 6 3 5 60.0 0 0 - 0 0 - 2 1 3 1 0 1 1 1 16
+p279
+aVKyle Anderson SAS 02/25/2016 SAS @ UTA W 17 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 1 1 5
+p280
+aVTim Duncan SAS 02/25/2016 SAS @ UTA W 32 14 7 11 63.6 0 0 - 0 0 - 3 8 11 2 1 1 3 3 12
+p281
+aVRay McCallum SAS 02/25/2016 SAS @ UTA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p282
+aVTony Parker SAS 02/25/2016 SAS @ UTA W 31 16 5 12 41.7 2 2 100.0 4 4 100.0 1 2 3 6 0 0 1 1 19
+p283
+aVBoris Diaw SAS 02/25/2016 SAS @ UTA W 10 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 -2
+p284
+aVTim Duncan SAS 02/24/2016 SAS @ SAC W 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -8
+p285
+aVJonathon Simmons SAS 02/24/2016 SAS @ SAC W 14 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 2 1 0 0 1 8
+p286
+aVDanny Green SAS 02/24/2016 SAS @ SAC W 29 16 6 9 66.7 4 7 57.1 0 0 - 0 7 7 1 3 1 0 2 1
+p287
+aVBoban Marjanovic SAS 02/24/2016 SAS @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p288
+aVLaMarcus Aldridge SAS 02/24/2016 SAS @ SAC W 32 7 2 11 18.2 0 0 - 3 6 50.0 5 4 9 2 0 5 2 5 -7
+p289
+aVDavid West SAS 02/24/2016 SAS @ SAC W 19 10 5 8 62.5 0 0 - 0 0 - 0 8 8 1 2 0 3 1 19
+p290
+aVPatty Mills SAS 02/24/2016 SAS @ SAC W 19 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 3 1 0 1 0 22
+p291
+aVKyle Anderson SAS 02/24/2016 SAS @ SAC W 29 14 7 8 87.5 0 1 0.0 0 0 - 0 8 8 3 2 0 3 2 16
+p292
+aVKawhi Leonard SAS 02/24/2016 SAS @ SAC W 28 18 5 16 31.3 2 5 40.0 6 6 100.0 1 7 8 1 4 1 1 2 4
+p293
+aVTony Parker SAS 02/24/2016 SAS @ SAC W 31 23 11 17 64.7 1 3 33.3 0 0 - 0 3 3 6 0 0 4 0 -3
+p294
+aVRasual Butler SAS 02/24/2016 SAS @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p295
+aVRay McCallum SAS 02/24/2016 SAS @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p296
+aVBoris Diaw SAS 02/24/2016 SAS @ SAC W 23 8 3 4 75.0 0 0 - 2 2 100.0 0 3 3 7 0 1 2 1 25
+p297
+aVRasual Butler SAS 02/21/2016 SAS @ PHX W 26 12 5 7 71.4 1 1 100.0 1 3 33.3 1 5 6 0 3 1 1 1 11
+p298
+aVLaMarcus Aldridge SAS 02/21/2016 SAS @ PHX W 34 19 9 14 64.3 0 1 0.0 1 1 100.0 2 8 10 1 1 1 1 4 3
+p299
+aVBoris Diaw SAS 02/21/2016 SAS @ PHX W 23 9 4 6 66.7 1 1 100.0 0 0 - 0 3 3 4 0 2 2 1 11
+p300
+aVKyle Anderson SAS 02/21/2016 SAS @ PHX W 29 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 2 1 1 3 1 -4
+p301
+aVTony Parker SAS 02/21/2016 SAS @ PHX W 27 22 8 18 44.4 1 2 50.0 5 8 62.5 0 2 2 4 0 0 0 4 -3
+p302
+aVTim Duncan SAS 02/21/2016 SAS @ PHX W 17 6 1 5 20.0 0 0 - 4 6 66.7 0 3 3 2 1 1 0 2 1
+p303
+aVDanny Green SAS 02/21/2016 SAS @ PHX W 34 11 4 5 80.0 1 2 50.0 2 4 50.0 1 6 7 2 2 2 1 3 7
+p304
+aVPatty Mills SAS 02/21/2016 SAS @ PHX W 23 21 6 13 46.2 6 9 66.7 3 4 75.0 0 3 3 5 0 0 1 3 9
+p305
+aVRay McCallum SAS 02/21/2016 SAS @ PHX W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p306
+aVDavid West SAS 02/21/2016 SAS @ PHX W 14 6 3 7 42.9 0 0 - 0 0 - 2 1 3 2 2 1 1 0 2
+p307
+aVJonathon Simmons SAS 02/21/2016 SAS @ PHX W 11 7 1 2 50.0 0 0 - 5 6 83.3 0 2 2 1 0 0 2 1 0
+p308
+aVDavid West SAS 02/19/2016 SAS @ LAL W 13 8 4 6 66.7 0 0 - 0 0 - 1 1 2 4 0 1 0 3 1
+p309
+aVTim Duncan SAS 02/19/2016 SAS @ LAL W 28 12 4 9 44.4 0 0 - 4 5 80.0 5 8 13 1 0 3 0 1 6
+p310
+aVJonathon Simmons SAS 02/19/2016 SAS @ LAL W 18 7 3 4 75.0 1 1 100.0 0 0 - 1 2 3 1 0 0 1 0 -6
+p311
+aVKyle Anderson SAS 02/19/2016 SAS @ LAL W 29 14 7 14 50.0 0 1 0.0 0 0 - 0 3 3 3 2 0 0 3 1
+p312
+aVPatty Mills SAS 02/19/2016 SAS @ LAL W 26 15 6 13 46.2 3 7 42.9 0 0 - 0 1 1 7 1 0 3 0 8
+p313
+aVDanny Green SAS 02/19/2016 SAS @ LAL W 19 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 1 2 0 5 7
+p314
+aVBoris Diaw SAS 02/19/2016 SAS @ LAL W 19 10 5 7 71.4 0 0 - 0 0 - 1 2 3 2 0 0 3 2 2
+p315
+aVBoban Marjanovic SAS 02/19/2016 SAS @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p316
+aVRay McCallum SAS 02/19/2016 SAS @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p317
+aVRasual Butler SAS 02/19/2016 SAS @ LAL W 19 10 3 4 75.0 2 3 66.7 2 2 100.0 1 1 2 1 0 1 0 2 1
+p318
+aVTony Parker SAS 02/19/2016 SAS @ LAL W 32 25 9 16 56.3 0 0 - 7 7 100.0 1 0 1 6 1 0 2 0 9
+p319
+aVLaMarcus Aldridge SAS 02/19/2016 SAS @ LAL W 35 16 6 11 54.5 0 0 - 4 4 100.0 2 6 8 3 1 2 1 4 9
+p320
+aVKyle Anderson SAS 02/18/2016 SAS @ LAC L 28 8 4 6 66.7 0 0 - 0 0 - 0 3 3 1 2 0 3 4 -13
+p321
+aVRasual Butler SAS 02/18/2016 SAS @ LAC L 20 8 4 7 57.1 0 2 0.0 0 0 - 0 1 1 0 0 1 0 0 -12
+p322
+aVDanny Green SAS 02/18/2016 SAS @ LAC L 28 4 2 9 22.2 0 4 0.0 0 0 - 1 4 5 3 1 0 0 0 -20
+p323
+aVJonathon Simmons SAS 02/18/2016 SAS @ LAC L 18 5 2 5 40.0 0 1 0.0 1 2 50.0 0 4 4 0 2 1 4 4 -6
+p324
+aVPatty Mills SAS 02/18/2016 SAS @ LAC L 25 9 4 10 40.0 1 4 25.0 0 0 - 0 1 1 2 1 0 0 2 5
+p325
+aVTony Parker SAS 02/18/2016 SAS @ LAC L 28 14 6 13 46.2 1 3 33.3 1 2 50.0 0 1 1 4 1 0 2 4 -17
+p326
+aVBoris Diaw SAS 02/18/2016 SAS @ LAC L 11 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 1 1 0 1 0 -5
+p327
+aVTim Duncan SAS 02/18/2016 SAS @ LAC L 20 2 1 6 16.7 0 0 - 0 0 - 0 6 6 1 1 0 3 2 -18
+p328
+aVBoban Marjanovic SAS 02/18/2016 SAS @ LAC L 9 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 0 12
+p329
+aVLaMarcus Aldridge SAS 02/18/2016 SAS @ LAC L 25 10 3 12 25.0 0 1 0.0 4 4 100.0 2 1 3 1 0 0 0 0 -23
+p330
+aVDavid West SAS 02/18/2016 SAS @ LAC L 18 12 4 6 66.7 1 1 100.0 3 3 100.0 0 4 4 4 1 0 2 0 9
+p331
+aVRay McCallum SAS 02/18/2016 SAS @ LAC L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 0 -7
+p332
+aVBoban Marjanovic SAS 02/10/2016 SAS @ ORL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p333
+aVBoris Diaw SAS 02/10/2016 SAS @ ORL W 18 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 2 0 0 1 0 -16
+p334
+aVRasual Butler SAS 02/10/2016 SAS @ ORL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 8
+p335
+aVPatty Mills SAS 02/10/2016 SAS @ ORL W 31 17 7 11 63.6 3 5 60.0 0 1 0.0 4 2 6 7 2 1 1 2 2
+p336
+aVKawhi Leonard SAS 02/10/2016 SAS @ ORL W 33 29 12 19 63.2 3 3 100.0 2 2 100.0 1 6 7 2 2 1 2 2 6
+p337
+aVJonathon Simmons SAS 02/10/2016 SAS @ ORL W 16 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 -4
+p338
+aVTim Duncan SAS 02/10/2016 SAS @ ORL W 18 5 2 9 22.2 0 0 - 1 1 100.0 2 5 7 5 0 3 1 1 4
+p339
+aVDavid West SAS 02/10/2016 SAS @ ORL W 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 2 1 -4
+p340
+aVRay McCallum SAS 02/10/2016 SAS @ ORL W 17 4 1 4 25.0 0 1 0.0 2 2 100.0 0 5 5 1 0 0 1 1 0
+p341
+aVKyle Anderson SAS 02/10/2016 SAS @ ORL W 18 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 3 2 1 1 1 1
+p342
+aVLaMarcus Aldridge SAS 02/10/2016 SAS @ ORL W 33 21 8 16 50.0 0 0 - 5 5 100.0 2 5 7 2 0 2 1 2 5
+p343
+aVDanny Green SAS 02/10/2016 SAS @ ORL W 35 12 4 11 36.4 2 8 25.0 2 2 100.0 1 4 5 2 0 1 2 1 7
+p344
+aVBoban Marjanovic SAS 02/09/2016 SAS @ MIA W 13 11 3 5 60.0 0 0 - 5 7 71.4 2 4 6 0 1 0 1 1 -4
+p345
+aVTony Parker SAS 02/09/2016 SAS @ MIA W 28 7 3 10 30.0 0 0 - 1 1 100.0 0 2 2 5 2 0 0 0 20
+p346
+aVDavid West SAS 02/09/2016 SAS @ MIA W 23 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 3 0 1 1 4 13
+p347
+aVRasual Butler SAS 02/09/2016 SAS @ MIA W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 -7
+p348
+aVRay McCallum SAS 02/09/2016 SAS @ MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p349
+aVBoris Diaw SAS 02/09/2016 SAS @ MIA W 25 9 4 8 50.0 1 2 50.0 0 2 0.0 2 3 5 2 0 0 2 4 7
+p350
+aVLaMarcus Aldridge SAS 02/09/2016 SAS @ MIA W 32 28 10 16 62.5 0 0 - 8 8 100.0 0 4 4 4 0 1 0 1 14
+p351
+aVPatty Mills SAS 02/09/2016 SAS @ MIA W 16 8 2 6 33.3 2 5 40.0 2 3 66.7 1 2 3 1 1 0 0 1 0
+p352
+aVDanny Green SAS 02/09/2016 SAS @ MIA W 31 15 6 10 60.0 2 4 50.0 1 2 50.0 2 5 7 3 3 1 1 2 21
+p353
+aVKawhi Leonard SAS 02/09/2016 SAS @ MIA W 33 23 11 17 64.7 1 1 100.0 0 0 - 2 7 9 4 3 1 3 1 23
+p354
+aVJonathon Simmons SAS 02/09/2016 SAS @ MIA W 23 10 5 9 55.6 0 0 - 0 1 0.0 1 3 4 1 0 0 2 3 5
+p355
+aVKawhi Leonard SAS 02/06/2016 SAS vs. LAL W 34 20 4 13 30.8 0 3 0.0 12 15 80.0 5 8 13 3 1 0 1 3 2
+p356
+aVBoris Diaw SAS 02/06/2016 SAS vs. LAL W 23 4 1 3 33.3 1 1 100.0 1 2 50.0 0 1 1 3 0 1 0 1 1
+p357
+aVTony Parker SAS 02/06/2016 SAS vs. LAL W 26 14 7 13 53.8 0 0 - 0 0 - 0 2 2 4 1 0 3 2 10
+p358
+aVBoban Marjanovic SAS 02/06/2016 SAS vs. LAL W 9 3 1 1 100.0 0 0 - 1 1 100.0 2 3 5 1 1 0 1 2 -7
+p359
+aVKyle Anderson SAS 02/06/2016 SAS vs. LAL W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 1
+p360
+aVPatty Mills SAS 02/06/2016 SAS vs. LAL W 22 13 5 15 33.3 3 11 27.3 0 0 - 0 3 3 4 0 0 1 2 -6
+p361
+aVJonathon Simmons SAS 02/06/2016 SAS vs. LAL W 24 9 3 10 30.0 1 3 33.3 2 2 100.0 2 1 3 2 0 0 0 2 -6
+p362
+aVLaMarcus Aldridge SAS 02/06/2016 SAS vs. LAL W 34 26 11 18 61.1 0 0 - 4 5 80.0 3 6 9 2 0 0 1 2 2
+p363
+aVDanny Green SAS 02/06/2016 SAS vs. LAL W 29 11 4 8 50.0 3 6 50.0 0 0 - 1 4 5 2 1 2 2 1 11
+p364
+aVDavid West SAS 02/06/2016 SAS vs. LAL W 30 6 3 6 50.0 0 0 - 0 0 - 2 6 8 5 0 3 0 4 12
+p365
+aVLaMarcus Aldridge SAS 02/05/2016 SAS @ DAL W 28 14 5 11 45.5 0 1 0.0 4 4 100.0 3 7 10 2 2 2 1 1 21
+p366
+aVKawhi Leonard SAS 02/05/2016 SAS @ DAL W 27 23 9 16 56.3 2 4 50.0 3 3 100.0 1 1 2 1 0 0 2 0 24
+p367
+aVKyle Anderson SAS 02/05/2016 SAS @ DAL W 23 5 1 5 20.0 0 1 0.0 3 3 100.0 0 3 3 2 2 0 1 2 4
+p368
+aVDavid West SAS 02/05/2016 SAS @ DAL W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 1 4 4
+p369
+aVPatty Mills SAS 02/05/2016 SAS @ DAL W 15 16 6 8 75.0 2 2 100.0 2 3 66.7 0 4 4 0 0 0 0 2 15
+p370
+aVJonathon Simmons SAS 02/05/2016 SAS @ DAL W 23 8 2 4 50.0 1 2 50.0 3 4 75.0 0 0 0 2 1 1 1 3 11
+p371
+aVBoban Marjanovic SAS 02/05/2016 SAS @ DAL W 17 7 2 3 66.7 0 0 - 3 4 75.0 2 5 7 1 0 1 2 2 7
+p372
+aVRay McCallum SAS 02/05/2016 SAS @ DAL W 9 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 2 0 0 0 1 1
+p373
+aVRasual Butler SAS 02/05/2016 SAS @ DAL W 15 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 2 -6
+p374
+aVTony Parker SAS 02/05/2016 SAS @ DAL W 25 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 3 1 14
+p375
+aVMatt Bonner SAS 02/05/2016 SAS @ DAL W 4 7 2 2 100.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 0 1 3
+p376
+aVBoris Diaw SAS 02/05/2016 SAS @ DAL W 19 5 2 4 50.0 1 1 100.0 0 0 - 1 4 5 4 0 0 0 3 12
+p377
+aVDanny Green SAS 02/05/2016 SAS @ DAL W 27 8 3 8 37.5 2 5 40.0 0 0 - 0 4 4 1 0 0 1 1 20
+p378
+aVRay McCallum SAS 02/03/2016 SAS vs. NOP W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p379
+aVDanny Green SAS 02/03/2016 SAS vs. NOP W 39 16 6 12 50.0 4 8 50.0 0 0 - 0 7 7 1 1 1 1 3 9
+p380
+aVTony Parker SAS 02/03/2016 SAS vs. NOP W 30 2 1 2 50.0 0 0 - 0 0 - 0 2 2 8 0 0 3 2 2
+p381
+aVPatty Mills SAS 02/03/2016 SAS vs. NOP W 24 8 3 6 50.0 2 2 100.0 0 0 - 0 3 3 4 1 0 0 1 18
+p382
+aVLaMarcus Aldridge SAS 02/03/2016 SAS vs. NOP W 34 36 12 20 60.0 0 0 - 12 12 100.0 2 4 6 1 1 3 2 3 2
+p383
+aVBoris Diaw SAS 02/03/2016 SAS vs. NOP W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 9
+p384
+aVJonathon Simmons SAS 02/03/2016 SAS vs. NOP W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p385
+aVManu Ginobili SAS 02/03/2016 SAS vs. NOP W 22 6 2 8 25.0 2 3 66.7 0 0 - 0 3 3 4 1 0 4 1 12
+p386
+aVRasual Butler SAS 02/03/2016 SAS vs. NOP W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p387
+aVKyle Anderson SAS 02/03/2016 SAS vs. NOP W 18 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 0 0 2 1 4
+p388
+aVDavid West SAS 02/03/2016 SAS vs. NOP W 27 14 6 10 60.0 0 0 - 2 2 100.0 1 4 5 5 0 2 0 1 0
+p389
+aVKawhi Leonard SAS 02/03/2016 SAS vs. NOP W 36 26 11 17 64.7 1 2 50.0 3 4 75.0 0 5 5 1 1 2 2 1 3
+p390
+aVDavid West SAS 02/01/2016 SAS vs. ORL W 17 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 0 0 2 4 4
+p391
+aVJonathon Simmons SAS 02/01/2016 SAS vs. ORL W 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 2
+p392
+aVLaMarcus Aldridge SAS 02/01/2016 SAS vs. ORL W 32 28 9 13 69.2 0 0 - 10 12 83.3 1 3 4 0 0 5 1 1 11
+p393
+aVTony Parker SAS 02/01/2016 SAS vs. ORL W 25 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 6 0 0 3 1 0
+p394
+aVManu Ginobili SAS 02/01/2016 SAS vs. ORL W 17 13 4 8 50.0 1 4 25.0 4 4 100.0 1 1 2 2 2 0 0 0 0
+p395
+aVPatty Mills SAS 02/01/2016 SAS vs. ORL W 21 22 9 13 69.2 3 4 75.0 1 1 100.0 0 4 4 5 1 0 1 1 14
+p396
+aVBoban Marjanovic SAS 02/01/2016 SAS vs. ORL W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 0 1
+p397
+aVRasual Butler SAS 02/01/2016 SAS vs. ORL W 8 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 0 0 0
+p398
+aVKyle Anderson SAS 02/01/2016 SAS vs. ORL W 22 9 4 7 57.1 1 1 100.0 0 0 - 0 4 4 5 0 0 1 0 14
+p399
+aVBoris Diaw SAS 02/01/2016 SAS vs. ORL W 17 2 1 1 100.0 0 0 - 0 0 - 2 4 6 2 1 0 0 0 1
+p400
+aVRay McCallum SAS 02/01/2016 SAS vs. ORL W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 12
+p401
+aVDanny Green SAS 02/01/2016 SAS vs. ORL W 25 8 3 9 33.3 2 7 28.6 0 0 - 0 6 6 2 1 0 2 5 13
+p402
+aVKawhi Leonard SAS 02/01/2016 SAS vs. ORL W 26 10 4 11 36.4 2 7 28.6 0 0 - 0 5 5 2 1 2 2 1 3
+p403
+aVBoban Marjanovic SAS 01/30/2016 SAS @ CLE L 10 3 0 1 0.0 0 0 - 3 4 75.0 1 2 3 1 0 0 0 1 2
+p404
+aVMatt Bonner SAS 01/30/2016 SAS @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p405
+aVManu Ginobili SAS 01/30/2016 SAS @ CLE L 18 6 2 10 20.0 2 4 50.0 0 0 - 0 2 2 1 1 0 0 3 -10
+p406
+aVPatty Mills SAS 01/30/2016 SAS @ CLE L 21 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 2 0 0 1 3 -7
+p407
+aVKawhi Leonard SAS 01/30/2016 SAS @ CLE L 35 24 7 15 46.7 3 7 42.9 7 8 87.5 1 5 6 2 0 0 2 2 -14
+p408
+aVKyle Anderson SAS 01/30/2016 SAS @ CLE L 18 10 4 8 50.0 0 1 0.0 2 2 100.0 1 2 3 3 1 1 0 0 4
+p409
+aVDanny Green SAS 01/30/2016 SAS @ CLE L 23 5 2 4 50.0 1 3 33.3 0 0 - 2 1 3 1 0 0 0 1 -10
+p410
+aVRasual Butler SAS 01/30/2016 SAS @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p411
+aVTony Parker SAS 01/30/2016 SAS @ CLE L 24 13 5 10 50.0 0 0 - 3 4 75.0 0 4 4 6 0 0 3 1 -10
+p412
+aVJonathon Simmons SAS 01/30/2016 SAS @ CLE L 18 8 4 5 80.0 0 0 - 0 0 - 0 2 2 2 0 1 0 3 2
+p413
+aVDavid West SAS 01/30/2016 SAS @ CLE L 24 8 4 6 66.7 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -13
+p414
+aVLaMarcus Aldridge SAS 01/30/2016 SAS @ CLE L 26 15 7 11 63.6 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 -9
+p415
+aVBoris Diaw SAS 01/30/2016 SAS @ CLE L 16 7 3 5 60.0 0 0 - 1 1 100.0 1 3 4 1 0 0 0 0 -11
+p416
+aVLaMarcus Aldridge SAS 01/27/2016 SAS vs. HOU W 30 25 9 13 69.2 0 0 - 7 7 100.0 6 4 10 5 0 0 2 4 25
+p417
+aVKyle Anderson SAS 01/27/2016 SAS vs. HOU W 16 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 2 10
+p418
+aVPatty Mills SAS 01/27/2016 SAS vs. HOU W 15 9 4 9 44.4 1 3 33.3 0 0 - 0 3 3 4 0 0 2 1 6
+p419
+aVRay McCallum SAS 01/27/2016 SAS vs. HOU W 10 8 3 5 60.0 2 3 66.7 0 0 - 1 2 3 3 0 0 0 0 7
+p420
+aVManu Ginobili SAS 01/27/2016 SAS vs. HOU W 19 6 2 4 50.0 0 1 0.0 2 2 100.0 0 4 4 3 1 0 4 4 19
+p421
+aVRasual Butler SAS 01/27/2016 SAS vs. HOU W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 1 0 0 7
+p422
+aVBoris Diaw SAS 01/27/2016 SAS vs. HOU W 19 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 3 1 0 0 5 10
+p423
+aVJonathon Simmons SAS 01/27/2016 SAS vs. HOU W 12 5 1 4 25.0 0 1 0.0 3 3 100.0 1 0 1 0 0 0 1 2 2
+p424
+aVDanny Green SAS 01/27/2016 SAS vs. HOU W 28 18 6 9 66.7 6 8 75.0 0 0 - 1 5 6 3 3 1 0 2 12
+p425
+aVDavid West SAS 01/27/2016 SAS vs. HOU W 15 4 2 2 100.0 0 0 - 0 0 - 0 2 2 2 0 0 2 1 12
+p426
+aVKawhi Leonard SAS 01/27/2016 SAS vs. HOU W 28 18 7 12 58.3 3 4 75.0 1 2 50.0 0 1 1 1 1 1 1 1 24
+p427
+aVBoban Marjanovic SAS 01/27/2016 SAS vs. HOU W 17 13 5 9 55.6 0 0 - 3 4 75.0 3 7 10 0 0 0 0 4 3
+p428
+aVTony Parker SAS 01/27/2016 SAS vs. HOU W 23 15 7 13 53.8 0 0 - 1 1 100.0 0 3 3 7 1 0 0 2 18
+p429
+aVDanny Green SAS 01/25/2016 SAS @ GSW L 22 3 1 4 25.0 1 2 50.0 0 0 - 1 3 4 3 2 0 1 2 -13
+p430
+aVTony Parker SAS 01/25/2016 SAS @ GSW L 18 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 3 1 0 3 4 -15
+p431
+aVJonathon Simmons SAS 01/25/2016 SAS @ GSW L 25 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 1 2 0 4 4 -17
+p432
+aVDavid West SAS 01/25/2016 SAS @ GSW L 19 12 6 8 75.0 0 0 - 0 0 - 0 5 5 1 0 0 1 2 -13
+p433
+aVRay McCallum SAS 01/25/2016 SAS @ GSW L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 2 1 -1
+p434
+aVKyle Anderson SAS 01/25/2016 SAS @ GSW L 16 7 3 9 33.3 0 0 - 1 2 50.0 2 2 4 2 2 0 1 2 -10
+p435
+aVKawhi Leonard SAS 01/25/2016 SAS @ GSW L 25 16 4 6 66.7 1 1 100.0 7 7 100.0 0 5 5 2 2 0 3 1 -19
+p436
+aVBoban Marjanovic SAS 01/25/2016 SAS @ GSW L 13 12 4 6 66.7 0 0 - 4 6 66.7 4 2 6 0 1 0 0 1 -3
+p437
+aVLaMarcus Aldridge SAS 01/25/2016 SAS @ GSW L 25 5 2 9 22.2 0 1 0.0 1 2 50.0 1 2 3 1 0 2 3 1 -20
+p438
+aVBoris Diaw SAS 01/25/2016 SAS @ GSW L 18 5 1 2 50.0 0 1 0.0 3 3 100.0 0 0 0 1 0 0 2 0 -15
+p439
+aVRasual Butler SAS 01/25/2016 SAS @ GSW L 13 6 2 3 66.7 1 1 100.0 1 1 100.0 0 2 2 1 0 1 0 0 2
+p440
+aVPatty Mills SAS 01/25/2016 SAS @ GSW L 16 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 2 0 0 3 2 -17
+p441
+aVManu Ginobili SAS 01/25/2016 SAS @ GSW L 19 8 1 6 16.7 0 3 0.0 6 10 60.0 0 4 4 3 1 1 2 1 -9
+p442
+aVBoban Marjanovic SAS 01/22/2016 SAS @ LAL W 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p443
+aVDanny Green SAS 01/22/2016 SAS @ LAL W 22 12 4 8 50.0 4 8 50.0 0 0 - 1 4 5 2 1 4 0 0 20
+p444
+aVTony Parker SAS 01/22/2016 SAS @ LAL W 22 10 5 11 45.5 0 1 0.0 0 1 0.0 0 1 1 2 0 0 1 2 12
+p445
+aVKawhi Leonard SAS 01/22/2016 SAS @ LAL W 29 18 5 11 45.5 1 4 25.0 7 8 87.5 1 3 4 2 2 3 0 0 15
+p446
+aVPatty Mills SAS 01/22/2016 SAS @ LAL W 18 15 6 10 60.0 3 3 100.0 0 0 - 0 4 4 2 0 0 0 1 13
+p447
+aVTim Duncan SAS 01/22/2016 SAS @ LAL W 21 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 3 1 1 1 0 8
+p448
+aVBoris Diaw SAS 01/22/2016 SAS @ LAL W 21 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 4 0 0 0 3 16
+p449
+aVKyle Anderson SAS 01/22/2016 SAS @ LAL W 13 2 1 6 16.7 0 2 0.0 0 0 - 1 0 1 2 0 1 1 1 -9
+p450
+aVManu Ginobili SAS 01/22/2016 SAS @ LAL W 19 20 9 10 90.0 2 2 100.0 0 0 - 0 4 4 4 5 2 2 0 3
+p451
+aVDavid West SAS 01/22/2016 SAS @ LAL W 24 8 4 8 50.0 0 0 - 0 0 - 1 6 7 1 1 1 0 2 7
+p452
+aVRasual Butler SAS 01/22/2016 SAS @ LAL W 15 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 3 0 1 0 2 2
+p453
+aVRay McCallum SAS 01/22/2016 SAS @ LAL W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p454
+aVJonathon Simmons SAS 01/22/2016 SAS @ LAL W 19 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p455
+aVDanny Green SAS 01/21/2016 SAS @ PHX W 13 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 1 0 1 0 0 4
+p456
+aVLaMarcus Aldridge SAS 01/21/2016 SAS @ PHX W 22 7 3 9 33.3 0 0 - 1 1 100.0 0 5 5 2 0 0 1 3 7
+p457
+aVBoban Marjanovic SAS 01/21/2016 SAS @ PHX W 22 17 6 10 60.0 0 0 - 5 6 83.3 4 9 13 0 1 0 2 4 3
+p458
+aVPatty Mills SAS 01/21/2016 SAS @ PHX W 19 8 3 10 30.0 2 3 66.7 0 0 - 1 0 1 3 2 0 1 2 13
+p459
+aVManu Ginobili SAS 01/21/2016 SAS @ PHX W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p460
+aVRay McCallum SAS 01/21/2016 SAS @ PHX W 29 11 5 10 50.0 1 3 33.3 0 0 - 2 2 4 3 0 0 0 2 15
+p461
+aVJonathon Simmons SAS 01/21/2016 SAS @ PHX W 25 13 5 9 55.6 1 2 50.0 2 5 40.0 0 1 1 1 1 0 2 3 12
+p462
+aVBoris Diaw SAS 01/21/2016 SAS @ PHX W 19 5 2 5 40.0 1 1 100.0 0 0 - 0 4 4 4 0 2 1 0 14
+p463
+aVRasual Butler SAS 01/21/2016 SAS @ PHX W 9 9 3 4 75.0 1 2 50.0 2 2 100.0 0 0 0 0 0 1 0 1 11
+p464
+aVMatt Bonner SAS 01/21/2016 SAS @ PHX W 11 5 2 2 100.0 1 1 100.0 0 0 - 1 1 2 1 1 0 0 0 11
+p465
+aVDavid West SAS 01/21/2016 SAS @ PHX W 19 8 3 4 75.0 0 0 - 2 2 100.0 0 4 4 3 2 1 0 1 13
+p466
+aVKawhi Leonard SAS 01/21/2016 SAS @ PHX W 22 21 6 15 40.0 1 1 100.0 8 8 100.0 1 2 3 3 0 0 0 2 24
+p467
+aVKyle Anderson SAS 01/21/2016 SAS @ PHX W 25 9 3 5 60.0 1 1 100.0 2 2 100.0 0 4 4 3 1 1 0 3 16
+p468
+aVBoris Diaw SAS 01/17/2016 SAS vs. DAL W 16 16 6 11 54.5 2 5 40.0 2 2 100.0 1 2 3 3 1 0 1 3 8
+p469
+aVRasual Butler SAS 01/17/2016 SAS vs. DAL W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 4
+p470
+aVDavid West SAS 01/17/2016 SAS vs. DAL W 14 8 4 8 50.0 0 0 - 0 1 0.0 1 4 5 4 0 1 1 1 10
+p471
+aVJonathon Simmons SAS 01/17/2016 SAS vs. DAL W 15 14 5 7 71.4 2 2 100.0 2 2 100.0 0 3 3 2 1 0 0 3 15
+p472
+aVDanny Green SAS 01/17/2016 SAS vs. DAL W 28 4 2 8 25.0 0 4 0.0 0 1 0.0 0 7 7 1 0 2 0 1 13
+p473
+aVPatty Mills SAS 01/17/2016 SAS vs. DAL W 16 6 2 4 50.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 2 3 11
+p474
+aVKawhi Leonard SAS 01/17/2016 SAS vs. DAL W 29 15 5 11 45.5 1 3 33.3 4 6 66.7 0 4 4 1 2 0 1 0 17
+p475
+aVManu Ginobili SAS 01/17/2016 SAS vs. DAL W 18 7 3 8 37.5 0 3 0.0 1 2 50.0 1 2 3 0 1 0 0 2 6
+p476
+aVTony Parker SAS 01/17/2016 SAS vs. DAL W 25 2 0 4 0.0 0 0 - 2 2 100.0 0 5 5 7 2 0 1 2 18
+p477
+aVLaMarcus Aldridge SAS 01/17/2016 SAS vs. DAL W 27 23 9 15 60.0 0 0 - 5 5 100.0 1 6 7 1 0 1 0 1 16
+p478
+aVTim Duncan SAS 01/17/2016 SAS vs. DAL W 21 2 0 4 0.0 0 0 - 2 2 100.0 0 5 5 1 0 1 0 2 16
+p479
+aVKyle Anderson SAS 01/17/2016 SAS vs. DAL W 12 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 3 7
+p480
+aVBoban Marjanovic SAS 01/17/2016 SAS vs. DAL W 9 7 3 6 50.0 0 0 - 1 1 100.0 2 2 4 1 0 0 0 0 4
+p481
+aVKawhi Leonard SAS 01/14/2016 SAS vs. CLE W 40 20 6 14 42.9 2 4 50.0 6 6 100.0 2 8 10 5 1 2 4 1 -5
+p482
+aVPatty Mills SAS 01/14/2016 SAS vs. CLE W 13 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 2 0 0 0 1 -3
+p483
+aVBoris Diaw SAS 01/14/2016 SAS vs. CLE W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 2 0 -6
+p484
+aVKyle Anderson SAS 01/14/2016 SAS vs. CLE W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 5
+p485
+aVDavid West SAS 01/14/2016 SAS vs. CLE W 18 13 5 7 71.4 0 0 - 3 3 100.0 3 2 5 1 0 0 0 1 16
+p486
+aVTim Duncan SAS 01/14/2016 SAS vs. CLE W 33 9 4 10 40.0 0 1 0.0 1 2 50.0 2 4 6 3 1 2 1 3 3
+p487
+aVTony Parker SAS 01/14/2016 SAS vs. CLE W 35 24 11 18 61.1 0 2 0.0 2 4 50.0 0 4 4 2 3 1 1 1 7
+p488
+aVManu Ginobili SAS 01/14/2016 SAS vs. CLE W 26 10 4 12 33.3 0 4 0.0 2 2 100.0 0 3 3 1 1 1 1 3 4
+p489
+aVJonathon Simmons SAS 01/14/2016 SAS vs. CLE W 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 5
+p490
+aVDanny Green SAS 01/14/2016 SAS vs. CLE W 21 5 1 7 14.3 1 4 25.0 2 3 66.7 1 1 2 0 0 0 1 0 1
+p491
+aVLaMarcus Aldridge SAS 01/14/2016 SAS vs. CLE W 29 6 2 7 28.6 0 0 - 2 2 100.0 2 6 8 2 0 0 1 4 -7
+p492
+aVTony Parker SAS 01/12/2016 SAS @ DET W 32 31 13 19 68.4 1 1 100.0 4 5 80.0 1 3 4 3 1 0 3 3 7
+p493
+aVManu Ginobili SAS 01/12/2016 SAS @ DET W 27 15 5 12 41.7 2 5 40.0 3 4 75.0 0 5 5 2 1 1 1 3 8
+p494
+aVDanny Green SAS 01/12/2016 SAS @ DET W 27 6 2 3 66.7 2 3 66.7 0 0 - 1 4 5 5 0 0 1 0 2
+p495
+aVLaMarcus Aldridge SAS 01/12/2016 SAS @ DET W 36 22 10 19 52.6 0 0 - 2 2 100.0 5 8 13 1 1 0 3 3 5
+p496
+aVPatty Mills SAS 01/12/2016 SAS @ DET W 16 2 1 7 14.3 0 1 0.0 0 0 - 0 3 3 1 1 0 0 1 3
+p497
+aVTim Duncan SAS 01/12/2016 SAS @ DET W 30 14 5 8 62.5 0 0 - 4 5 80.0 2 7 9 3 4 2 2 3 6
+p498
+aVKawhi Leonard SAS 01/12/2016 SAS @ DET W 34 7 1 7 14.3 0 2 0.0 5 7 71.4 1 4 5 1 1 1 3 3 11
+p499
+aVJonathon Simmons SAS 01/12/2016 SAS @ DET W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 1 2 3
+p500
+aVBoban Marjanovic SAS 01/12/2016 SAS @ DET W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 5
+p501
+aVBoris Diaw SAS 01/12/2016 SAS @ DET W 26 12 4 8 50.0 0 1 0.0 4 4 100.0 1 2 3 3 0 0 3 2 2
+p502
+aVKyle Anderson SAS 01/12/2016 SAS @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p503
+aVBoris Diaw SAS 01/11/2016 SAS @ BKN W 18 11 4 7 57.1 1 1 100.0 2 4 50.0 1 2 3 4 1 0 0 1 9
+p504
+aVLaMarcus Aldridge SAS 01/11/2016 SAS @ BKN W 28 25 12 17 70.6 0 0 - 1 1 100.0 4 7 11 2 0 0 0 2 21
+p505
+aVJonathon Simmons SAS 01/11/2016 SAS @ BKN W 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 2
+p506
+aVKawhi Leonard SAS 01/11/2016 SAS @ BKN W 30 17 6 14 42.9 2 5 40.0 3 3 100.0 2 6 8 0 1 0 1 1 19
+p507
+aVPatty Mills SAS 01/11/2016 SAS @ BKN W 16 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 4
+p508
+aVMatt Bonner SAS 01/11/2016 SAS @ BKN W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p509
+aVTim Duncan SAS 01/11/2016 SAS @ BKN W 22 8 4 7 57.1 0 0 - 0 0 - 1 3 4 2 1 2 1 2 11
+p510
+aVKyle Anderson SAS 01/11/2016 SAS @ BKN W 17 5 1 2 50.0 0 1 0.0 3 4 75.0 0 4 4 3 0 0 1 1 7
+p511
+aVTony Parker SAS 01/11/2016 SAS @ BKN W 25 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 4 1 0 2 0 21
+p512
+aVDavid West SAS 01/11/2016 SAS @ BKN W 15 8 4 5 80.0 0 0 - 0 0 - 0 2 2 1 1 0 2 1 5
+p513
+aVDanny Green SAS 01/11/2016 SAS @ BKN W 20 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 3 1 0 1 1 19
+p514
+aVManu Ginobili SAS 01/11/2016 SAS @ BKN W 18 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 5 2 0 2 1 7
+p515
+aVBoban Marjanovic SAS 01/11/2016 SAS @ BKN W 13 13 5 7 71.4 0 0 - 3 5 60.0 1 2 3 1 0 2 1 3 8
+p516
+aVTony Parker SAS 01/08/2016 SAS vs. NYK W 32 16 7 16 43.8 0 2 0.0 2 2 100.0 0 5 5 8 0 0 1 1 2
+p517
+aVDanny Green SAS 01/08/2016 SAS vs. NYK W 35 8 3 9 33.3 2 3 66.7 0 0 - 0 4 4 3 2 3 2 5 8
+p518
+aVLaMarcus Aldridge SAS 01/08/2016 SAS vs. NYK W 34 16 8 17 47.1 0 0 - 0 0 - 4 5 9 2 0 0 2 1 -6
+p519
+aVKawhi Leonard SAS 01/08/2016 SAS vs. NYK W 37 19 8 19 42.1 0 2 0.0 3 4 75.0 4 8 12 0 2 2 1 1 -4
+p520
+aVJonathon Simmons SAS 01/08/2016 SAS vs. NYK W 9 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 -8
+p521
+aVBoris Diaw SAS 01/08/2016 SAS vs. NYK W 18 8 3 6 50.0 0 0 - 2 2 100.0 0 4 4 1 0 0 0 1 3
+p522
+aVManu Ginobili SAS 01/08/2016 SAS vs. NYK W 22 16 6 12 50.0 2 5 40.0 2 2 100.0 1 4 5 3 0 1 0 2 -3
+p523
+aVPatty Mills SAS 01/08/2016 SAS vs. NYK W 16 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 0 1 -1
+p524
+aVDavid West SAS 01/08/2016 SAS vs. NYK W 16 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 2 0 3 0 3 8
+p525
+aVTim Duncan SAS 01/08/2016 SAS vs. NYK W 21 7 3 5 60.0 0 0 - 1 2 50.0 1 4 5 1 1 0 2 1 6
+p526
+aVPatty Mills SAS 01/06/2016 SAS vs. UTA W 23 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 2 1 0 0 0 13
+p527
+aVBoris Diaw SAS 01/06/2016 SAS vs. UTA W 16 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 6 0 0 1 0 1
+p528
+aVKyle Anderson SAS 01/06/2016 SAS vs. UTA W 19 13 6 9 66.7 0 0 - 1 1 100.0 1 2 3 2 1 0 1 2 7
+p529
+aVTim Duncan SAS 01/06/2016 SAS vs. UTA W 26 18 8 13 61.5 0 0 - 2 2 100.0 2 6 8 6 1 0 0 3 27
+p530
+aVBoban Marjanovic SAS 01/06/2016 SAS vs. UTA W 19 13 5 7 71.4 0 0 - 3 6 50.0 3 4 7 0 0 1 0 0 -3
+p531
+aVDavid West SAS 01/06/2016 SAS vs. UTA W 25 14 7 8 87.5 0 0 - 0 0 - 2 11 13 4 1 0 1 3 20
+p532
+aVDanny Green SAS 01/06/2016 SAS vs. UTA W 11 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 2 0 0 0 2 7
+p533
+aVMatt Bonner SAS 01/06/2016 SAS vs. UTA W 7 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 4
+p534
+aVRay McCallum SAS 01/06/2016 SAS vs. UTA W 25 10 4 7 57.1 0 1 0.0 2 2 100.0 0 0 0 3 2 1 1 3 12
+p535
+aVJonathon Simmons SAS 01/06/2016 SAS vs. UTA W 17 13 5 7 71.4 2 4 50.0 1 1 100.0 0 0 0 1 1 0 3 4 9
+p536
+aVManu Ginobili SAS 01/06/2016 SAS vs. UTA W 23 14 6 10 60.0 2 4 50.0 0 0 - 0 2 2 5 1 0 4 3 8
+p537
+aVRasual Butler SAS 01/06/2016 SAS vs. UTA W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 6
+p538
+aVKawhi Leonard SAS 01/06/2016 SAS vs. UTA W 23 15 6 11 54.5 2 4 50.0 1 1 100.0 0 4 4 3 2 0 2 0 14
+p539
+aVMatt Bonner SAS 01/04/2016 SAS @ MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p540
+aVLaMarcus Aldridge SAS 01/04/2016 SAS @ MIL W 30 16 6 14 42.9 0 0 - 4 5 80.0 6 5 11 1 0 1 1 2 11
+p541
+aVBoris Diaw SAS 01/04/2016 SAS @ MIL W 19 14 6 8 75.0 0 1 0.0 2 2 100.0 1 3 4 2 1 0 1 2 19
+p542
+aVDanny Green SAS 01/04/2016 SAS @ MIL W 14 3 1 7 14.3 1 5 20.0 0 0 - 2 0 2 1 1 1 1 1 -2
+p543
+aVBoban Marjanovic SAS 01/04/2016 SAS @ MIL W 5 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 1 0 0 0 3
+p544
+aVDavid West SAS 01/04/2016 SAS @ MIL W 15 10 5 9 55.6 0 0 - 0 0 - 0 1 1 3 1 1 0 0 5
+p545
+aVKyle Anderson SAS 01/04/2016 SAS @ MIL W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 2 0
+p546
+aVJonathon Simmons SAS 01/04/2016 SAS @ MIL W 20 18 6 7 85.7 0 0 - 6 7 85.7 0 3 3 0 0 0 1 3 21
+p547
+aVRay McCallum SAS 01/04/2016 SAS @ MIL W 17 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 0 6
+p548
+aVTim Duncan SAS 01/04/2016 SAS @ MIL W 27 14 7 11 63.6 0 0 - 0 1 0.0 2 8 10 4 2 1 1 5 12
+p549
+aVKawhi Leonard SAS 01/04/2016 SAS @ MIL W 31 24 9 12 75.0 3 5 60.0 3 3 100.0 0 2 2 1 2 1 4 1 17
+p550
+aVPatty Mills SAS 01/04/2016 SAS @ MIL W 28 10 3 7 42.9 3 5 60.0 1 2 50.0 0 1 1 5 0 0 1 3 20
+p551
+aVManu Ginobili SAS 01/04/2016 SAS @ MIL W 22 8 3 8 37.5 2 2 100.0 0 0 - 1 3 4 7 2 0 2 1 12
+p552
+aVTony Parker SAS 01/02/2016 SAS vs. HOU W 27 2 0 6 0.0 0 2 0.0 2 2 100.0 0 4 4 10 0 0 2 1 -2
+p553
+aVPatty Mills SAS 01/02/2016 SAS vs. HOU W 21 9 3 10 30.0 3 9 33.3 0 0 - 0 0 0 3 1 0 0 0 16
+p554
+aVKawhi Leonard SAS 01/02/2016 SAS vs. HOU W 34 22 8 12 66.7 2 2 100.0 4 5 80.0 1 5 6 2 0 0 3 3 13
+p555
+aVManu Ginobili SAS 01/02/2016 SAS vs. HOU W 16 8 2 5 40.0 0 0 - 4 4 100.0 2 0 2 5 1 0 0 3 15
+p556
+aVDanny Green SAS 01/02/2016 SAS vs. HOU W 32 18 6 9 66.7 6 8 75.0 0 0 - 0 4 4 3 3 1 1 2 12
+p557
+aVBoban Marjanovic SAS 01/02/2016 SAS vs. HOU W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p558
+aVDavid West SAS 01/02/2016 SAS vs. HOU W 20 10 5 6 83.3 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -1
+p559
+aVKyle Anderson SAS 01/02/2016 SAS vs. HOU W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p560
+aVTim Duncan SAS 01/02/2016 SAS vs. HOU W 14 0 0 3 0.0 0 0 - 0 0 - 0 4 4 2 0 0 1 1 -1
+p561
+aVBoris Diaw SAS 01/02/2016 SAS vs. HOU W 25 20 8 13 61.5 2 2 100.0 2 2 100.0 3 5 8 2 2 0 1 3 18
+p562
+aVJonathon Simmons SAS 01/02/2016 SAS vs. HOU W 9 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 2 0
+p563
+aVMatt Bonner SAS 01/02/2016 SAS vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p564
+aVLaMarcus Aldridge SAS 01/02/2016 SAS vs. HOU W 32 24 10 16 62.5 0 0 - 4 4 100.0 2 7 9 0 2 0 1 3 22
+p565
+aVBoban Marjanovic SAS 12/30/2015 SAS vs. PHX W 15 7 2 6 33.3 0 0 - 3 4 75.0 2 10 12 0 1 1 1 2 16
+p566
+aVLaMarcus Aldridge SAS 12/30/2015 SAS vs. PHX W 29 21 8 12 66.7 0 1 0.0 5 10 50.0 2 10 12 2 0 1 2 2 17
+p567
+aVRay McCallum SAS 12/30/2015 SAS vs. PHX W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 5
+p568
+aVPatty Mills SAS 12/30/2015 SAS vs. PHX W 17 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 2 1 0 1 1 19
+p569
+aVDavid West SAS 12/30/2015 SAS vs. PHX W 20 4 2 6 33.3 0 0 - 0 0 - 1 4 5 2 1 1 0 3 10
+p570
+aVDanny Green SAS 12/30/2015 SAS vs. PHX W 21 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 1 0 1 1 2 9
+p571
+aVMatt Bonner SAS 12/30/2015 SAS vs. PHX W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 5
+p572
+aVJonathon Simmons SAS 12/30/2015 SAS vs. PHX W 19 8 3 4 75.0 0 0 - 2 4 50.0 0 3 3 2 0 0 1 2 9
+p573
+aVManu Ginobili SAS 12/30/2015 SAS vs. PHX W 18 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 3 3 0 1 0 17
+p574
+aVKawhi Leonard SAS 12/30/2015 SAS vs. PHX W 29 19 6 10 60.0 3 4 75.0 4 4 100.0 0 0 0 2 2 0 0 0 24
+p575
+aVBoris Diaw SAS 12/30/2015 SAS vs. PHX W 20 13 5 7 71.4 0 1 0.0 3 5 60.0 1 3 4 2 1 0 4 1 18
+p576
+aVTony Parker SAS 12/30/2015 SAS vs. PHX W 23 12 5 8 62.5 1 1 100.0 1 3 33.3 0 3 3 7 4 0 1 1 9
+p577
+aVKyle Anderson SAS 12/30/2015 SAS vs. PHX W 9 7 3 3 100.0 0 0 - 1 1 100.0 0 1 1 0 0 1 0 1 7
+p578
+aVLaMarcus Aldridge SAS 12/28/2015 SAS vs. MIN W 27 6 3 8 37.5 0 0 - 0 0 - 1 5 6 1 0 0 3 5 -8
+p579
+aVManu Ginobili SAS 12/28/2015 SAS vs. MIN W 24 13 5 11 45.5 3 6 50.0 0 0 - 1 4 5 4 0 0 2 1 16
+p580
+aVBoban Marjanovic SAS 12/28/2015 SAS vs. MIN W 15 17 7 7 100.0 0 0 - 3 4 75.0 2 2 4 0 1 1 2 2 16
+p581
+aVPatty Mills SAS 12/28/2015 SAS vs. MIN W 19 11 4 7 57.1 1 4 25.0 2 2 100.0 0 0 0 4 1 0 1 0 23
+p582
+aVBoris Diaw SAS 12/28/2015 SAS vs. MIN W 26 4 2 2 100.0 0 0 - 0 0 - 1 1 2 4 0 1 3 2 15
+p583
+aVDanny Green SAS 12/28/2015 SAS vs. MIN W 21 6 3 7 42.9 0 4 0.0 0 0 - 0 0 0 1 1 1 0 1 -14
+p584
+aVKyle Anderson SAS 12/28/2015 SAS vs. MIN W 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 1 2 0 4
+p585
+aVJonathon Simmons SAS 12/28/2015 SAS vs. MIN W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p586
+aVDavid West SAS 12/28/2015 SAS vs. MIN W 27 11 4 8 50.0 0 0 - 3 3 100.0 0 2 2 0 0 0 1 1 -7
+p587
+aVKawhi Leonard SAS 12/28/2015 SAS vs. MIN W 37 17 5 9 55.6 1 1 100.0 6 7 85.7 0 11 11 3 1 0 0 5 2
+p588
+aVTony Parker SAS 12/28/2015 SAS vs. MIN W 31 12 2 9 22.2 0 2 0.0 8 12 66.7 0 4 4 7 0 1 2 1 -17
+p589
+aVDanny Green SAS 12/26/2015 SAS vs. DEN W 32 8 3 6 50.0 0 1 0.0 2 2 100.0 1 3 4 1 1 1 1 1 21
+p590
+aVLaMarcus Aldridge SAS 12/26/2015 SAS vs. DEN W 30 12 6 14 42.9 0 0 - 0 0 - 1 8 9 0 0 3 1 2 7
+p591
+aVBoban Marjanovic SAS 12/26/2015 SAS vs. DEN W 15 10 1 3 33.3 0 0 - 8 8 100.0 2 5 7 0 1 4 2 2 4
+p592
+aVPatty Mills SAS 12/26/2015 SAS vs. DEN W 23 8 3 8 37.5 2 4 50.0 0 0 - 1 1 2 3 1 0 1 1 -8
+p593
+aVRay McCallum SAS 12/26/2015 SAS vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p594
+aVKyle Anderson SAS 12/26/2015 SAS vs. DEN W 15 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 2
+p595
+aVTony Parker SAS 12/26/2015 SAS vs. DEN W 25 13 6 12 50.0 1 1 100.0 0 0 - 0 4 4 4 2 0 0 0 23
+p596
+aVKawhi Leonard SAS 12/26/2015 SAS vs. DEN W 32 20 7 13 53.8 2 2 100.0 4 4 100.0 2 3 5 5 2 0 2 1 17
+p597
+aVMatt Bonner SAS 12/26/2015 SAS vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p598
+aVBoris Diaw SAS 12/26/2015 SAS vs. DEN W 25 16 6 10 60.0 2 2 100.0 2 3 66.7 2 1 3 0 1 0 2 0 -2
+p599
+aVJonathon Simmons SAS 12/26/2015 SAS vs. DEN W 16 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 2 0 1 2 -6
+p600
+aVDavid West SAS 12/26/2015 SAS vs. DEN W 26 10 5 8 62.5 0 0 - 0 0 - 0 4 4 6 1 4 0 1 23
+p601
+aVTim Duncan SAS 12/25/2015 SAS @ HOU L 32 13 5 10 50.0 0 0 - 3 4 75.0 2 9 11 3 0 0 3 4 2
+p602
+aVDanny Green SAS 12/25/2015 SAS @ HOU L 22 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 0 1 1 1 1 -5
+p603
+aVKawhi Leonard SAS 12/25/2015 SAS @ HOU L 39 20 8 19 42.1 2 5 40.0 2 2 100.0 4 4 8 4 5 3 1 4 7
+p604
+aVPatty Mills SAS 12/25/2015 SAS @ HOU L 19 3 1 5 20.0 1 5 20.0 0 0 - 0 5 5 3 1 0 0 0 -3
+p605
+aVLaMarcus Aldridge SAS 12/25/2015 SAS @ HOU L 36 18 9 17 52.9 0 0 - 0 0 - 5 4 9 2 0 0 1 3 1
+p606
+aVManu Ginobili SAS 12/25/2015 SAS @ HOU L 26 9 3 7 42.9 1 3 33.3 2 2 100.0 2 4 6 3 1 0 3 3 1
+p607
+aVBoris Diaw SAS 12/25/2015 SAS @ HOU L 16 10 5 11 45.5 0 2 0.0 0 0 - 0 0 0 2 1 0 2 2 -6
+p608
+aVDavid West SAS 12/25/2015 SAS @ HOU L 12 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 1 1 0 0 0 -5
+p609
+aVJonathon Simmons SAS 12/25/2015 SAS @ HOU L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 2 -11
+p610
+aVTony Parker SAS 12/25/2015 SAS @ HOU L 29 2 1 7 14.3 0 1 0.0 0 0 - 0 2 2 3 1 0 3 1 -1
+p611
+aVDavid West SAS 12/23/2015 SAS @ MIN W 23 13 6 8 75.0 0 0 - 1 3 33.3 3 2 5 1 0 1 0 1 10
+p612
+aVDanny Green SAS 12/23/2015 SAS @ MIN W 22 11 4 5 80.0 3 4 75.0 0 0 - 1 6 7 0 0 0 0 0 15
+p613
+aVPatty Mills SAS 12/23/2015 SAS @ MIN W 20 6 3 9 33.3 0 3 0.0 0 0 - 1 2 3 1 1 0 3 1 9
+p614
+aVBoris Diaw SAS 12/23/2015 SAS @ MIN W 16 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 2 0 0 1 3 4
+p615
+aVRasual Butler SAS 12/23/2015 SAS @ MIN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p616
+aVManu Ginobili SAS 12/23/2015 SAS @ MIN W 16 8 2 5 40.0 2 4 50.0 2 2 100.0 0 2 2 4 0 0 2 2 4
+p617
+aVTony Parker SAS 12/23/2015 SAS @ MIN W 24 14 6 11 54.5 2 3 66.7 0 0 - 0 2 2 6 0 0 2 2 12
+p618
+aVTim Duncan SAS 12/23/2015 SAS @ MIN W 24 2 1 6 16.7 0 0 - 0 0 - 2 3 5 5 1 4 2 2 17
+p619
+aVKyle Anderson SAS 12/23/2015 SAS @ MIN W 20 10 5 6 83.3 0 1 0.0 0 0 - 2 3 5 3 1 1 1 0 14
+p620
+aVLaMarcus Aldridge SAS 12/23/2015 SAS @ MIN W 29 12 4 9 44.4 0 1 0.0 4 5 80.0 2 6 8 0 1 1 2 2 15
+p621
+aVBoban Marjanovic SAS 12/23/2015 SAS @ MIN W 4 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 4
+p622
+aVJonathon Simmons SAS 12/23/2015 SAS @ MIN W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 4
+p623
+aVKawhi Leonard SAS 12/23/2015 SAS @ MIN W 31 19 8 16 50.0 3 7 42.9 0 0 - 2 4 6 2 2 2 1 1 13
+p624
+aVBoban Marjanovic SAS 12/21/2015 SAS vs. IND W 2 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -2
+p625
+aVTony Parker SAS 12/21/2015 SAS vs. IND W 28 15 7 12 58.3 1 1 100.0 0 0 - 0 1 1 4 0 0 0 2 3
+p626
+aVJonathon Simmons SAS 12/21/2015 SAS vs. IND W 11 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 2 0 0 2 1 3
+p627
+aVDanny Green SAS 12/21/2015 SAS vs. IND W 26 3 1 7 14.3 1 5 20.0 0 0 - 0 5 5 2 0 1 1 1 7
+p628
+aVPatty Mills SAS 12/21/2015 SAS vs. IND W 20 10 4 8 50.0 1 4 25.0 1 2 50.0 0 0 0 4 0 0 0 1 11
+p629
+aVRasual Butler SAS 12/21/2015 SAS vs. IND W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p630
+aVBoris Diaw SAS 12/21/2015 SAS vs. IND W 25 14 7 9 77.8 0 1 0.0 0 0 - 2 6 8 1 0 0 4 1 21
+p631
+aVDavid West SAS 12/21/2015 SAS vs. IND W 17 7 3 5 60.0 0 0 - 1 1 100.0 0 5 5 1 0 2 1 1 5
+p632
+aVTim Duncan SAS 12/21/2015 SAS vs. IND W 23 7 3 6 50.0 0 0 - 1 1 100.0 1 4 5 3 2 2 1 3 1
+p633
+aVManu Ginobili SAS 12/21/2015 SAS vs. IND W 20 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 4 0 0 0 0 9
+p634
+aVLaMarcus Aldridge SAS 12/21/2015 SAS vs. IND W 27 10 4 11 36.4 0 0 - 2 2 100.0 3 6 9 1 3 1 0 2 5
+p635
+aVKawhi Leonard SAS 12/21/2015 SAS vs. IND W 35 24 10 19 52.6 1 6 16.7 3 3 100.0 1 5 6 5 3 0 0 2 11
+p636
+aVKyle Anderson SAS 12/21/2015 SAS vs. IND W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p637
+aVPatty Mills SAS 12/18/2015 SAS vs. LAC W 24 8 3 9 33.3 2 5 40.0 0 0 - 0 2 2 2 0 1 1 2 10
+p638
+aVManu Ginobili SAS 12/18/2015 SAS vs. LAC W 21 5 1 6 16.7 1 2 50.0 2 2 100.0 1 0 1 5 2 0 0 3 9
+p639
+aVLaMarcus Aldridge SAS 12/18/2015 SAS vs. LAC W 32 26 11 18 61.1 0 0 - 4 6 66.7 2 11 13 3 0 1 0 4 2
+p640
+aVJonathon Simmons SAS 12/18/2015 SAS vs. LAC W 8 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 3 17
+p641
+aVTim Duncan SAS 12/18/2015 SAS vs. LAC W 29 14 5 8 62.5 0 0 - 4 6 66.7 3 2 5 4 1 0 2 2 5
+p642
+aVKawhi Leonard SAS 12/18/2015 SAS vs. LAC W 36 19 6 14 42.9 1 3 33.3 6 7 85.7 1 8 9 2 0 0 0 3 -10
+p643
+aVBoris Diaw SAS 12/18/2015 SAS vs. LAC W 19 3 1 3 33.3 0 1 0.0 1 1 100.0 1 3 4 5 1 0 2 4 7
+p644
+aVTony Parker SAS 12/18/2015 SAS vs. LAC W 31 21 8 15 53.3 3 3 100.0 2 2 100.0 1 0 1 3 1 0 1 2 -1
+p645
+aVDavid West SAS 12/18/2015 SAS vs. LAC W 14 4 2 6 33.3 0 0 - 0 0 - 0 4 4 1 1 0 1 5 6
+p646
+aVDanny Green SAS 12/18/2015 SAS vs. LAC W 25 10 4 6 66.7 2 4 50.0 0 0 - 1 3 4 0 0 2 1 2 -5
+p647
+aVKyle Anderson SAS 12/16/2015 SAS vs. WAS W 17 6 2 3 66.7 0 0 - 2 4 50.0 0 1 1 2 0 2 1 2 9
+p648
+aVMatt Bonner SAS 12/16/2015 SAS vs. WAS W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 0
+p649
+aVKawhi Leonard SAS 12/16/2015 SAS vs. WAS W 38 27 9 15 60.0 4 7 57.1 5 6 83.3 0 3 3 4 4 0 1 2 4
+p650
+aVManu Ginobili SAS 12/16/2015 SAS vs. WAS W 18 11 4 7 57.1 1 3 33.3 2 2 100.0 0 3 3 8 1 0 3 3 15
+p651
+aVDanny Green SAS 12/16/2015 SAS vs. WAS W 19 7 3 7 42.9 1 5 20.0 0 0 - 0 4 4 0 0 1 0 1 10
+p652
+aVDavid West SAS 12/16/2015 SAS vs. WAS W 25 9 4 7 57.1 0 0 - 1 2 50.0 3 7 10 1 1 2 0 3 8
+p653
+aVBoris Diaw SAS 12/16/2015 SAS vs. WAS W 21 6 3 5 60.0 0 1 0.0 0 0 - 0 5 5 1 1 1 1 1 7
+p654
+aVPatty Mills SAS 12/16/2015 SAS vs. WAS W 19 11 4 8 50.0 0 2 0.0 3 3 100.0 0 0 0 1 1 0 0 1 16
+p655
+aVJonathon Simmons SAS 12/16/2015 SAS vs. WAS W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 0
+p656
+aVLaMarcus Aldridge SAS 12/16/2015 SAS vs. WAS W 33 14 6 12 50.0 0 0 - 2 2 100.0 1 5 6 1 1 0 0 2 6
+p657
+aVTony Parker SAS 12/16/2015 SAS vs. WAS W 26 10 5 13 38.5 0 2 0.0 0 0 - 2 2 4 10 1 1 3 2 1
+p658
+aVRasual Butler SAS 12/16/2015 SAS vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p659
+aVBoban Marjanovic SAS 12/16/2015 SAS vs. WAS W 15 7 2 4 50.0 0 0 - 3 4 75.0 2 4 6 0 0 2 1 1 17
+p660
+aVMatt Bonner SAS 12/14/2015 SAS vs. UTA W 18 10 4 5 80.0 2 3 66.7 0 0 - 1 4 5 0 0 0 0 1 -1
+p661
+aVDavid West SAS 12/14/2015 SAS vs. UTA W 16 8 2 6 33.3 0 0 - 4 5 80.0 1 2 3 1 0 0 2 2 11
+p662
+aVDanny Green SAS 12/14/2015 SAS vs. UTA W 20 4 2 5 40.0 0 3 0.0 0 0 - 1 6 7 5 0 0 0 2 42
+p663
+aVJonathon Simmons SAS 12/14/2015 SAS vs. UTA W 23 7 3 12 25.0 1 4 25.0 0 0 - 0 4 4 4 2 0 1 1 2
+p664
+aVTim Duncan SAS 12/14/2015 SAS vs. UTA W 18 5 2 2 100.0 0 0 - 1 1 100.0 1 4 5 1 0 0 2 2 32
+p665
+aVBoris Diaw SAS 12/14/2015 SAS vs. UTA W 20 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 1 0 0 1
+p666
+aVKawhi Leonard SAS 12/14/2015 SAS vs. UTA W 25 22 7 10 70.0 2 3 66.7 6 6 100.0 0 7 7 2 2 0 0 1 36
+p667
+aVLaMarcus Aldridge SAS 12/14/2015 SAS vs. UTA W 24 18 6 10 60.0 0 0 - 6 6 100.0 2 6 8 0 0 0 1 1 29
+p668
+aVTony Parker SAS 12/14/2015 SAS vs. UTA W 21 18 7 9 77.8 1 2 50.0 3 3 100.0 0 1 1 5 1 0 0 1 29
+p669
+aVManu Ginobili SAS 12/14/2015 SAS vs. UTA W 12 4 1 4 25.0 0 2 0.0 2 2 100.0 1 0 1 2 0 0 2 2 -2
+p670
+aVPatty Mills SAS 12/14/2015 SAS vs. UTA W 15 11 4 6 66.7 3 4 75.0 0 0 - 2 1 3 2 1 0 1 1 11
+p671
+aVKyle Anderson SAS 12/14/2015 SAS vs. UTA W 17 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 -2
+p672
+aVRasual Butler SAS 12/14/2015 SAS vs. UTA W 12 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 1 1 -3
+p673
+aVKawhi Leonard SAS 12/12/2015 SAS @ ATL W 32 22 7 13 53.8 1 3 33.3 7 7 100.0 1 7 8 4 5 0 2 2 36
+p674
+aVDavid West SAS 12/12/2015 SAS @ ATL W 12 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 1 0 1 1 -6
+p675
+aVPatty Mills SAS 12/12/2015 SAS @ ATL W 24 7 2 7 28.6 0 4 0.0 3 3 100.0 0 3 3 5 1 0 1 1 2
+p676
+aVJonathon Simmons SAS 12/12/2015 SAS @ ATL W 19 9 2 5 40.0 1 1 100.0 4 4 100.0 1 6 7 2 0 0 2 2 6
+p677
+aVKyle Anderson SAS 12/12/2015 SAS @ ATL W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 1
+p678
+aVTim Duncan SAS 12/12/2015 SAS @ ATL W 31 4 2 6 33.3 0 0 - 0 0 - 0 10 10 4 1 0 4 2 28
+p679
+aVManu Ginobili SAS 12/12/2015 SAS @ ATL W 19 17 5 7 71.4 3 3 100.0 4 5 80.0 1 2 3 1 0 0 4 1 5
+p680
+aVRasual Butler SAS 12/12/2015 SAS @ ATL W 7 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 1 0 0 0 2
+p681
+aVDanny Green SAS 12/12/2015 SAS @ ATL W 21 10 4 8 50.0 2 3 66.7 0 0 - 0 1 1 2 1 0 4 1 2
+p682
+aVMatt Bonner SAS 12/12/2015 SAS @ ATL W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p683
+aVBoris Diaw SAS 12/12/2015 SAS @ ATL W 14 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 2 0 0 0 1 3
+p684
+aVTony Parker SAS 12/12/2015 SAS @ ATL W 24 8 4 7 57.1 0 0 - 0 0 - 1 2 3 4 1 1 1 3 23
+p685
+aVLaMarcus Aldridge SAS 12/12/2015 SAS @ ATL W 27 13 5 9 55.6 0 0 - 3 3 100.0 1 5 6 1 0 1 3 2 22
+p686
+aVPatty Mills SAS 12/11/2015 SAS vs. LAL W 22 22 9 11 81.8 3 4 75.0 1 2 50.0 0 3 3 3 1 0 1 0 17
+p687
+aVTim Duncan SAS 12/11/2015 SAS vs. LAL W 20 5 2 5 40.0 0 0 - 1 4 25.0 0 4 4 2 1 1 2 0 13
+p688
+aVLaMarcus Aldridge SAS 12/11/2015 SAS vs. LAL W 27 24 11 20 55.0 0 0 - 2 5 40.0 5 6 11 3 0 0 2 0 20
+p689
+aVJonathon Simmons SAS 12/11/2015 SAS vs. LAL W 19 9 2 3 66.7 0 0 - 5 5 100.0 1 1 2 1 0 0 2 3 17
+p690
+aVDavid West SAS 12/11/2015 SAS vs. LAL W 18 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 1 0 1 3 -4
+p691
+aVBoris Diaw SAS 12/11/2015 SAS vs. LAL W 25 8 3 6 50.0 1 1 100.0 1 2 50.0 1 3 4 1 1 1 2 2 14
+p692
+aVBoban Marjanovic SAS 12/11/2015 SAS vs. LAL W 5 6 3 4 75.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 1 1
+p693
+aVKyle Anderson SAS 12/11/2015 SAS vs. LAL W 21 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 0
+p694
+aVKawhi Leonard SAS 12/11/2015 SAS vs. LAL W 25 16 6 12 50.0 0 2 0.0 4 4 100.0 2 9 11 2 3 1 0 0 10
+p695
+aVDanny Green SAS 12/11/2015 SAS vs. LAL W 18 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 2 1 0 0 -2
+p696
+aVManu Ginobili SAS 12/11/2015 SAS vs. LAL W 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 4 0 0 0 0 6
+p697
+aVRay McCallum SAS 12/11/2015 SAS vs. LAL W 23 5 2 8 25.0 1 2 50.0 0 0 - 1 2 3 5 0 2 1 3 9
+p698
+aVRasual Butler SAS 12/11/2015 SAS vs. LAL W 10 5 2 3 66.7 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 9
+p699
+aVDavid West SAS 12/09/2015 SAS @ TOR L 17 10 4 6 66.7 0 0 - 2 3 66.7 0 3 3 1 0 0 2 2 7
+p700
+aVTony Parker SAS 12/09/2015 SAS @ TOR L 30 4 2 7 28.6 0 2 0.0 0 0 - 1 3 4 3 2 0 1 1 -8
+p701
+aVMatt Bonner SAS 12/09/2015 SAS @ TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p702
+aVTim Duncan SAS 12/09/2015 SAS @ TOR L 20 8 4 8 50.0 0 0 - 0 0 - 2 0 2 2 0 0 1 1 -12
+p703
+aVKyle Anderson SAS 12/09/2015 SAS @ TOR L 12 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 1
+p704
+aVLaMarcus Aldridge SAS 12/09/2015 SAS @ TOR L 34 13 4 10 40.0 0 1 0.0 5 6 83.3 3 4 7 1 0 1 3 2 -15
+p705
+aVPatty Mills SAS 12/09/2015 SAS @ TOR L 22 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 6 1 0 1 0 10
+p706
+aVDanny Green SAS 12/09/2015 SAS @ TOR L 21 10 4 11 36.4 2 7 28.6 0 0 - 1 3 4 1 3 0 1 1 -11
+p707
+aVManu Ginobili SAS 12/09/2015 SAS @ TOR L 25 17 5 11 45.5 1 6 16.7 6 8 75.0 1 3 4 3 2 0 2 5 9
+p708
+aVKawhi Leonard SAS 12/09/2015 SAS @ TOR L 27 7 3 8 37.5 1 2 50.0 0 1 0.0 3 3 6 2 1 1 2 1 -14
+p709
+aVBoris Diaw SAS 12/09/2015 SAS @ TOR L 18 9 3 5 60.0 0 2 0.0 3 3 100.0 1 1 2 0 0 0 2 2 5
+p710
+aVJonathon Simmons SAS 12/09/2015 SAS @ TOR L 15 8 2 2 100.0 1 1 100.0 3 3 100.0 0 0 0 2 0 0 2 4 10
+p711
+aVBoban Marjanovic SAS 12/07/2015 SAS @ PHI W 17 18 8 10 80.0 0 0 - 2 2 100.0 2 2 4 1 2 0 2 4 9
+p712
+aVTony Parker SAS 12/07/2015 SAS @ PHI W 17 12 5 8 62.5 0 0 - 2 2 100.0 0 4 4 6 0 0 0 0 19
+p713
+aVLaMarcus Aldridge SAS 12/07/2015 SAS @ PHI W 22 26 11 15 73.3 0 0 - 4 4 100.0 0 9 9 1 0 0 0 2 23
+p714
+aVDavid West SAS 12/07/2015 SAS @ PHI W 9 6 3 3 100.0 0 0 - 0 0 - 2 2 4 3 2 0 0 1 21
+p715
+aVRay McCallum SAS 12/07/2015 SAS @ PHI W 25 6 1 2 50.0 0 1 0.0 4 4 100.0 0 5 5 3 0 0 1 0 23
+p716
+aVRasual Butler SAS 12/07/2015 SAS @ PHI W 27 7 3 6 50.0 1 2 50.0 0 0 - 0 5 5 2 0 1 0 1 30
+p717
+aVPatty Mills SAS 12/07/2015 SAS @ PHI W 12 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 4 0 0 0 0 17
+p718
+aVJonathon Simmons SAS 12/07/2015 SAS @ PHI W 24 14 4 13 30.8 0 0 - 6 8 75.0 2 2 4 2 0 0 1 4 25
+p719
+aVMatt Bonner SAS 12/07/2015 SAS @ PHI W 24 9 4 6 66.7 1 3 33.3 0 0 - 0 1 1 3 0 0 0 0 7
+p720
+aVKyle Anderson SAS 12/07/2015 SAS @ PHI W 30 7 2 4 50.0 0 0 - 3 5 60.0 0 5 5 1 0 0 0 3 28
+p721
+aVBoris Diaw SAS 12/07/2015 SAS @ PHI W 16 7 3 3 100.0 1 1 100.0 0 0 - 1 2 3 5 0 0 2 0 32
+p722
+aVDanny Green SAS 12/07/2015 SAS @ PHI W 19 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 0 1 2 21
+p723
+aVKyle Anderson SAS 12/05/2015 SAS vs. BOS W 8 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 5
+p724
+aVKawhi Leonard SAS 12/05/2015 SAS vs. BOS W 34 15 4 13 30.8 2 4 50.0 5 6 83.3 0 7 7 4 2 0 3 4 -2
+p725
+aVManu Ginobili SAS 12/05/2015 SAS vs. BOS W 26 15 6 11 54.5 1 5 20.0 2 4 50.0 1 6 7 4 0 0 1 1 12
+p726
+aVLaMarcus Aldridge SAS 12/05/2015 SAS vs. BOS W 27 17 8 15 53.3 0 0 - 1 2 50.0 3 5 8 1 0 1 1 4 -7
+p727
+aVTim Duncan SAS 12/05/2015 SAS vs. BOS W 24 6 3 5 60.0 0 0 - 0 0 - 1 4 5 4 0 1 1 1 1
+p728
+aVBoris Diaw SAS 12/05/2015 SAS vs. BOS W 25 16 6 11 54.5 1 2 50.0 3 5 60.0 2 1 3 4 0 0 2 0 12
+p729
+aVDavid West SAS 12/05/2015 SAS vs. BOS W 14 10 4 4 100.0 0 0 - 2 3 66.7 2 4 6 1 0 1 1 2 6
+p730
+aVDanny Green SAS 12/05/2015 SAS vs. BOS W 29 6 2 6 33.3 0 2 0.0 2 2 100.0 1 3 4 0 0 0 1 4 -10
+p731
+aVTony Parker SAS 12/05/2015 SAS vs. BOS W 27 10 5 8 62.5 0 0 - 0 0 - 0 1 1 6 0 0 4 4 -6
+p732
+aVPatty Mills SAS 12/05/2015 SAS vs. BOS W 26 9 4 8 50.0 1 4 25.0 0 0 - 1 3 4 2 0 0 0 1 4
+p733
+aVKawhi Leonard SAS 12/03/2015 SAS @ MEM W 33 27 9 13 69.2 7 9 77.8 2 2 100.0 0 8 8 3 2 1 1 2 16
+p734
+aVMatt Bonner SAS 12/03/2015 SAS @ MEM W 4 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 0 1 0 1 1 1
+p735
+aVTony Parker SAS 12/03/2015 SAS @ MEM W 24 17 8 12 66.7 0 0 - 1 2 50.0 3 4 7 5 0 0 1 2 6
+p736
+aVDavid West SAS 12/03/2015 SAS @ MEM W 7 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 7
+p737
+aVTim Duncan SAS 12/03/2015 SAS @ MEM W 31 6 3 6 50.0 0 0 - 0 0 - 1 9 10 5 1 3 1 3 12
+p738
+aVBoban Marjanovic SAS 12/03/2015 SAS @ MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p739
+aVPatty Mills SAS 12/03/2015 SAS @ MEM W 20 4 2 6 33.3 0 3 0.0 0 0 - 0 2 2 2 2 0 2 2 15
+p740
+aVJonathon Simmons SAS 12/03/2015 SAS @ MEM W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 2 0 0 1 2 -3
+p741
+aVManu Ginobili SAS 12/03/2015 SAS @ MEM W 22 13 4 7 57.1 2 2 100.0 3 4 75.0 0 3 3 4 1 0 3 2 17
+p742
+aVDanny Green SAS 12/03/2015 SAS @ MEM W 25 2 0 5 0.0 0 3 0.0 2 2 100.0 1 1 2 2 0 0 2 2 8
+p743
+aVLaMarcus Aldridge SAS 12/03/2015 SAS @ MEM W 33 18 7 14 50.0 0 0 - 4 6 66.7 2 2 4 0 0 3 1 1 14
+p744
+aVBoris Diaw SAS 12/03/2015 SAS @ MEM W 14 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 3
+p745
+aVKyle Anderson SAS 12/03/2015 SAS @ MEM W 15 0 0 2 0.0 0 0 - 0 0 - 1 1 2 4 0 1 0 1 3
+p746
+aVKawhi Leonard SAS 12/02/2015 SAS vs. MIL W 25 13 3 12 25.0 0 1 0.0 7 8 87.5 2 1 3 4 0 0 0 1 14
+p747
+aVDanny Green SAS 12/02/2015 SAS vs. MIL W 21 2 1 5 20.0 0 4 0.0 0 0 - 0 4 4 2 2 0 0 3 15
+p748
+aVManu Ginobili SAS 12/02/2015 SAS vs. MIL W 12 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 3 1 0 1 1 2
+p749
+aVJonathon Simmons SAS 12/02/2015 SAS vs. MIL W 20 8 4 6 66.7 0 1 0.0 0 1 0.0 0 1 1 2 0 0 1 0 12
+p750
+aVKyle Anderson SAS 12/02/2015 SAS vs. MIL W 19 4 1 3 33.3 0 1 0.0 2 3 66.7 0 5 5 0 3 1 2 2 7
+p751
+aVDavid West SAS 12/02/2015 SAS vs. MIL W 18 4 2 6 33.3 0 0 - 0 0 - 1 7 8 2 2 2 0 0 21
+p752
+aVPatty Mills SAS 12/02/2015 SAS vs. MIL W 22 13 5 11 45.5 3 6 50.0 0 0 - 0 3 3 3 0 0 0 0 8
+p753
+aVTony Parker SAS 12/02/2015 SAS vs. MIL W 18 8 2 6 33.3 1 1 100.0 3 4 75.0 0 1 1 3 2 0 1 1 16
+p754
+aVBoris Diaw SAS 12/02/2015 SAS vs. MIL W 25 11 5 9 55.6 1 1 100.0 0 2 0.0 3 4 7 3 0 0 2 1 13
+p755
+aVLaMarcus Aldridge SAS 12/02/2015 SAS vs. MIL W 23 6 3 10 30.0 0 0 - 0 0 - 2 7 9 0 0 5 1 2 3
+p756
+aVMatt Bonner SAS 12/02/2015 SAS vs. MIL W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 1
+p757
+aVTim Duncan SAS 12/02/2015 SAS vs. MIL W 20 16 7 11 63.6 0 0 - 2 2 100.0 3 7 10 1 1 0 2 1 11
+p758
+aVRasual Butler SAS 12/02/2015 SAS vs. MIL W 10 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 1 0 1 0 0 2
+p759
+aVLaMarcus Aldridge SAS 11/30/2015 SAS @ CHI L 33 21 10 18 55.6 0 0 - 1 3 33.3 1 11 12 0 0 1 2 1 11
+p760
+aVPatty Mills SAS 11/30/2015 SAS @ CHI L 17 4 2 8 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -12
+p761
+aVTim Duncan SAS 11/30/2015 SAS @ CHI L 30 6 3 7 42.9 0 0 - 0 0 - 4 8 12 3 0 1 2 3 10
+p762
+aVKawhi Leonard SAS 11/30/2015 SAS @ CHI L 40 25 9 21 42.9 0 3 0.0 7 9 77.8 3 5 8 3 2 0 2 4 14
+p763
+aVBoris Diaw SAS 11/30/2015 SAS @ CHI L 18 5 2 5 40.0 1 2 50.0 0 0 - 1 5 6 0 0 0 1 1 -10
+p764
+aVManu Ginobili SAS 11/30/2015 SAS @ CHI L 18 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 1 1 -17
+p765
+aVDanny Green SAS 11/30/2015 SAS @ CHI L 33 9 3 10 30.0 1 5 20.0 2 2 100.0 2 2 4 1 2 1 1 2 5
+p766
+aVKyle Anderson SAS 11/30/2015 SAS @ CHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p767
+aVTony Parker SAS 11/30/2015 SAS @ CHI L 31 13 6 12 50.0 0 1 0.0 1 2 50.0 0 1 1 9 0 0 0 1 9
+p768
+aVDavid West SAS 11/30/2015 SAS @ CHI L 15 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 1 0 3 -17
+p769
+aVBoris Diaw SAS 11/28/2015 SAS vs. ATL W 17 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 3 1 0 1 2 1
+p770
+aVRasual Butler SAS 11/28/2015 SAS vs. ATL W 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 -6
+p771
+aVPatty Mills SAS 11/28/2015 SAS vs. ATL W 20 13 5 6 83.3 3 4 75.0 0 0 - 0 1 1 1 1 0 0 3 9
+p772
+aVJonathon Simmons SAS 11/28/2015 SAS vs. ATL W 8 5 2 5 40.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 1 -6
+p773
+aVTim Duncan SAS 11/28/2015 SAS vs. ATL W 28 10 5 9 55.6 0 0 - 0 0 - 5 13 18 4 1 2 1 3 24
+p774
+aVDanny Green SAS 11/28/2015 SAS vs. ATL W 29 5 2 6 33.3 1 2 50.0 0 0 - 2 0 2 3 1 1 3 2 9
+p775
+aVLaMarcus Aldridge SAS 11/28/2015 SAS vs. ATL W 25 13 6 15 40.0 0 0 - 1 1 100.0 3 3 6 1 3 2 2 1 14
+p776
+aVKawhi Leonard SAS 11/28/2015 SAS vs. ATL W 29 22 6 11 54.5 3 3 100.0 7 7 100.0 1 6 7 2 1 1 2 0 32
+p777
+aVBoban Marjanovic SAS 11/28/2015 SAS vs. ATL W 6 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -8
+p778
+aVManu Ginobili SAS 11/28/2015 SAS vs. ATL W 19 12 3 8 37.5 0 4 0.0 6 6 100.0 0 1 1 3 1 0 4 2 11
+p779
+aVDavid West SAS 11/28/2015 SAS vs. ATL W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 10
+p780
+aVKyle Anderson SAS 11/28/2015 SAS vs. ATL W 21 5 1 3 33.3 1 1 100.0 2 2 100.0 0 6 6 1 1 0 1 0 -9
+p781
+aVTony Parker SAS 11/28/2015 SAS vs. ATL W 22 11 5 9 55.6 0 1 0.0 1 1 100.0 0 3 3 6 1 1 2 0 19
+p782
+aVTony Parker SAS 11/27/2015 SAS @ DEN W 25 13 6 7 85.7 1 1 100.0 0 2 0.0 0 1 1 5 0 1 2 2 6
+p783
+aVKyle Anderson SAS 11/27/2015 SAS @ DEN W 29 5 1 3 33.3 0 0 - 3 4 75.0 0 4 4 3 0 0 1 3 19
+p784
+aVRay McCallum SAS 11/27/2015 SAS @ DEN W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -3
+p785
+aVMatt Bonner SAS 11/27/2015 SAS @ DEN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -6
+p786
+aVKawhi Leonard SAS 11/27/2015 SAS @ DEN W 32 25 11 18 61.1 2 4 50.0 1 1 100.0 1 6 7 6 4 5 2 1 18
+p787
+aVBoban Marjanovic SAS 11/27/2015 SAS @ DEN W 6 2 0 0 - 0 0 - 2 2 100.0 2 2 4 1 0 0 0 2 -5
+p788
+aVDanny Green SAS 11/27/2015 SAS @ DEN W 27 9 3 9 33.3 3 6 50.0 0 0 - 0 4 4 0 1 0 2 0 -6
+p789
+aVRasual Butler SAS 11/27/2015 SAS @ DEN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p790
+aVLaMarcus Aldridge SAS 11/27/2015 SAS @ DEN W 18 8 4 11 36.4 0 1 0.0 0 0 - 1 3 4 1 0 1 1 0 -2
+p791
+aVPatty Mills SAS 11/27/2015 SAS @ DEN W 21 9 4 7 57.1 1 4 25.0 0 0 - 0 3 3 1 1 0 2 3 10
+p792
+aVJonathon Simmons SAS 11/27/2015 SAS @ DEN W 27 12 4 8 50.0 1 4 25.0 3 3 100.0 0 2 2 1 2 0 5 2 12
+p793
+aVDavid West SAS 11/27/2015 SAS @ DEN W 19 2 0 4 0.0 0 0 - 2 2 100.0 1 5 6 1 2 0 2 0 8
+p794
+aVBoris Diaw SAS 11/27/2015 SAS @ DEN W 23 6 3 5 60.0 0 0 - 0 0 - 0 5 5 2 0 0 1 4 10
+p795
+aVRasual Butler SAS 11/25/2015 SAS vs. DAL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -4
+p796
+aVManu Ginobili SAS 11/25/2015 SAS vs. DAL W 29 9 2 12 16.7 0 6 0.0 5 8 62.5 0 5 5 3 1 0 4 2 4
+p797
+aVBoris Diaw SAS 11/25/2015 SAS vs. DAL W 10 0 0 1 0.0 0 1 0.0 0 0 - 2 1 3 1 0 0 0 1 -5
+p798
+aVDanny Green SAS 11/25/2015 SAS vs. DAL W 26 6 2 9 22.2 2 7 28.6 0 0 - 0 6 6 1 1 1 1 1 1
+p799
+aVDavid West SAS 11/25/2015 SAS vs. DAL W 12 8 3 3 100.0 1 1 100.0 1 2 50.0 0 2 2 0 0 0 1 2 -4
+p800
+aVTony Parker SAS 11/25/2015 SAS vs. DAL W 35 16 7 11 63.6 0 0 - 2 2 100.0 0 8 8 8 0 0 1 0 12
+p801
+aVLaMarcus Aldridge SAS 11/25/2015 SAS vs. DAL W 35 18 8 17 47.1 0 0 - 2 3 66.7 5 2 7 1 0 1 1 1 9
+p802
+aVKyle Anderson SAS 11/25/2015 SAS vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p803
+aVPatty Mills SAS 11/25/2015 SAS vs. DAL W 17 3 1 7 14.3 1 5 20.0 0 0 - 0 2 2 0 2 0 0 2 -7
+p804
+aVKawhi Leonard SAS 11/25/2015 SAS vs. DAL W 40 26 9 16 56.3 4 7 57.1 4 4 100.0 4 4 8 5 2 0 2 0 4
+p805
+aVTim Duncan SAS 11/25/2015 SAS vs. DAL W 28 2 1 4 25.0 0 0 - 0 0 - 1 8 9 4 0 2 2 2 13
+p806
+aVKawhi Leonard SAS 11/23/2015 SAS vs. PHX W 37 24 11 18 61.1 1 2 50.0 1 1 100.0 3 10 13 4 4 1 3 1 7
+p807
+aVBoban Marjanovic SAS 11/23/2015 SAS vs. PHX W 5 2 1 1 100.0 0 0 - 0 2 0.0 1 0 1 0 0 1 1 1 -1
+p808
+aVDanny Green SAS 11/23/2015 SAS vs. PHX W 34 18 7 15 46.7 4 9 44.4 0 0 - 1 5 6 4 0 0 1 2 9
+p809
+aVTim Duncan SAS 11/23/2015 SAS vs. PHX W 32 7 2 6 33.3 0 0 - 3 4 75.0 3 5 8 1 2 1 2 3 20
+p810
+aVKyle Anderson SAS 11/23/2015 SAS vs. PHX W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 2 0 1 0 2
+p811
+aVRay McCallum SAS 11/23/2015 SAS vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p812
+aVPatty Mills SAS 11/23/2015 SAS vs. PHX W 28 10 4 8 50.0 2 5 40.0 0 0 - 0 0 0 1 3 0 2 2 8
+p813
+aVJonathon Simmons SAS 11/23/2015 SAS vs. PHX W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p814
+aVRasual Butler SAS 11/23/2015 SAS vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p815
+aVManu Ginobili SAS 11/23/2015 SAS vs. PHX W 19 8 3 8 37.5 2 4 50.0 0 0 - 1 3 4 2 1 0 3 1 2
+p816
+aVBoris Diaw SAS 11/23/2015 SAS vs. PHX W 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -7
+p817
+aVTony Parker SAS 11/23/2015 SAS vs. PHX W 32 20 10 13 76.9 0 0 - 0 2 0.0 0 1 1 8 3 0 4 4 22
+p818
+aVDavid West SAS 11/23/2015 SAS vs. PHX W 22 5 2 7 28.6 0 0 - 1 1 100.0 1 2 3 1 3 0 1 1 15
+p819
+aVPatty Mills SAS 11/21/2015 SAS vs. MEM W 20 3 1 4 25.0 1 4 25.0 0 0 - 1 1 2 1 0 0 1 2 7
+p820
+aVTony Parker SAS 11/21/2015 SAS vs. MEM W 32 18 6 10 60.0 0 0 - 6 6 100.0 0 1 1 3 1 1 2 1 1
+p821
+aVDanny Green SAS 11/21/2015 SAS vs. MEM W 28 9 4 10 40.0 1 7 14.3 0 0 - 0 3 3 2 1 0 4 4 8
+p822
+aVMatt Bonner SAS 11/21/2015 SAS vs. MEM W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p823
+aVRasual Butler SAS 11/21/2015 SAS vs. MEM W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 3
+p824
+aVKawhi Leonard SAS 11/21/2015 SAS vs. MEM W 40 19 5 15 33.3 3 6 50.0 6 8 75.0 2 5 7 3 0 1 0 1 3
+p825
+aVTim Duncan SAS 11/21/2015 SAS vs. MEM W 36 10 5 8 62.5 0 0 - 0 0 - 2 8 10 4 4 2 3 5 6
+p826
+aVDavid West SAS 11/21/2015 SAS vs. MEM W 25 8 3 5 60.0 0 0 - 2 4 50.0 0 5 5 1 0 1 3 4 3
+p827
+aVKyle Anderson SAS 11/21/2015 SAS vs. MEM W 18 8 3 5 60.0 0 0 - 2 2 100.0 0 6 6 2 0 0 0 1 -1
+p828
+aVRay McCallum SAS 11/21/2015 SAS vs. MEM W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p829
+aVManu Ginobili SAS 11/21/2015 SAS vs. MEM W 23 15 6 11 54.5 2 4 50.0 1 2 50.0 1 3 4 2 1 0 1 1 9
+p830
+aVBoris Diaw SAS 11/21/2015 SAS vs. MEM W 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 2 1 11
+p831
+aVLaMarcus Aldridge SAS 11/20/2015 SAS @ NOP L 32 20 8 18 44.4 0 1 0.0 4 4 100.0 3 8 11 2 0 1 0 2 -6
+p832
+aVPatty Mills SAS 11/20/2015 SAS @ NOP L 22 11 4 9 44.4 3 5 60.0 0 0 - 0 1 1 3 2 1 3 1 -19
+p833
+aVJonathon Simmons SAS 11/20/2015 SAS @ NOP L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p834
+aVTony Parker SAS 11/20/2015 SAS @ NOP L 32 10 3 10 30.0 0 0 - 4 4 100.0 0 5 5 5 1 0 0 3 4
+p835
+aVDavid West SAS 11/20/2015 SAS @ NOP L 11 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 2 -8
+p836
+aVRay McCallum SAS 11/20/2015 SAS @ NOP L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p837
+aVBoban Marjanovic SAS 11/20/2015 SAS @ NOP L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p838
+aVKawhi Leonard SAS 11/20/2015 SAS @ NOP L 37 22 9 20 45.0 3 5 60.0 1 2 50.0 0 5 5 2 1 1 0 2 -8
+p839
+aVKyle Anderson SAS 11/20/2015 SAS @ NOP L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 0 2 0 0 -1
+p840
+aVDanny Green SAS 11/20/2015 SAS @ NOP L 33 6 2 8 25.0 2 4 50.0 0 0 - 0 8 8 3 0 1 2 1 -7
+p841
+aVBoris Diaw SAS 11/20/2015 SAS @ NOP L 25 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 4 0 0 1 1 -11
+p842
+aVTim Duncan SAS 11/20/2015 SAS @ NOP L 19 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 2 1 1 0 2 7
+p843
+aVRasual Butler SAS 11/20/2015 SAS @ NOP L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -14
+p844
+aVBoris Diaw SAS 11/18/2015 SAS vs. DEN W 20 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 3 -4
+p845
+aVDavid West SAS 11/18/2015 SAS vs. DEN W 16 9 4 5 80.0 0 0 - 1 1 100.0 0 3 3 2 0 0 2 1 2
+p846
+aVPatty Mills SAS 11/18/2015 SAS vs. DEN W 25 17 7 15 46.7 3 6 50.0 0 0 - 0 6 6 3 1 1 1 0 -8
+p847
+aVRasual Butler SAS 11/18/2015 SAS vs. DEN W 15 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 3 0 2 0 0 8
+p848
+aVKyle Anderson SAS 11/18/2015 SAS vs. DEN W 8 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 1 0 0 0 0 -4
+p849
+aVDanny Green SAS 11/18/2015 SAS vs. DEN W 28 8 2 6 33.3 2 5 40.0 2 2 100.0 0 3 3 4 0 1 1 1 22
+p850
+aVKawhi Leonard SAS 11/18/2015 SAS vs. DEN W 37 20 8 16 50.0 3 4 75.0 1 1 100.0 1 7 8 3 2 1 0 2 8
+p851
+aVLaMarcus Aldridge SAS 11/18/2015 SAS vs. DEN W 32 11 4 14 28.6 0 0 - 3 4 75.0 4 8 12 1 0 2 0 2 9
+p852
+aVTony Parker SAS 11/18/2015 SAS vs. DEN W 32 25 9 14 64.3 0 1 0.0 7 8 87.5 0 2 2 9 0 0 3 1 7
+p853
+aVTim Duncan SAS 11/18/2015 SAS vs. DEN W 28 12 5 8 62.5 0 0 - 2 2 100.0 5 6 11 6 1 6 2 3 15
+p854
+aVLaMarcus Aldridge SAS 11/16/2015 SAS vs. POR W 34 6 2 8 25.0 0 0 - 2 2 100.0 2 4 6 1 0 1 0 3 6
+p855
+aVKyle Anderson SAS 11/16/2015 SAS vs. POR W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 1 2 1 1
+p856
+aVDavid West SAS 11/16/2015 SAS vs. POR W 10 2 1 4 25.0 0 0 - 0 0 - 1 3 4 4 0 1 0 2 8
+p857
+aVKawhi Leonard SAS 11/16/2015 SAS vs. POR W 31 19 8 15 53.3 3 5 60.0 0 1 0.0 2 7 9 3 2 2 0 1 4
+p858
+aVDanny Green SAS 11/16/2015 SAS vs. POR W 29 12 5 10 50.0 2 5 40.0 0 0 - 0 1 1 2 0 1 1 1 2
+p859
+aVBoris Diaw SAS 11/16/2015 SAS vs. POR W 22 12 5 8 62.5 0 1 0.0 2 2 100.0 2 6 8 3 1 1 0 1 9
+p860
+aVTim Duncan SAS 11/16/2015 SAS vs. POR W 29 10 4 8 50.0 0 0 - 2 3 66.7 4 5 9 2 0 2 2 0 0
+p861
+aVRasual Butler SAS 11/16/2015 SAS vs. POR W 7 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 0 2 0 0 0 6
+p862
+aVPatty Mills SAS 11/16/2015 SAS vs. POR W 21 4 2 8 25.0 0 2 0.0 0 0 - 1 2 3 3 1 0 1 0 5
+p863
+aVTony Parker SAS 11/16/2015 SAS vs. POR W 28 10 4 9 44.4 0 1 0.0 2 2 100.0 0 0 0 7 3 0 0 2 6
+p864
+aVManu Ginobili SAS 11/16/2015 SAS vs. POR W 23 17 7 14 50.0 2 6 33.3 1 1 100.0 0 4 4 3 0 1 0 2 18
+p865
+aVDanny Green SAS 11/14/2015 SAS vs. PHI W 28 3 1 9 11.1 1 4 25.0 0 0 - 0 5 5 2 0 0 0 1 9
+p866
+aVDavid West SAS 11/14/2015 SAS vs. PHI W 17 10 4 8 50.0 0 0 - 2 2 100.0 1 3 4 5 0 1 2 3 -6
+p867
+aVBoris Diaw SAS 11/14/2015 SAS vs. PHI W 16 2 0 4 0.0 0 0 - 2 2 100.0 1 3 4 3 1 0 1 0 -9
+p868
+aVLaMarcus Aldridge SAS 11/14/2015 SAS vs. PHI W 34 17 5 13 38.5 0 0 - 7 8 87.5 7 12 19 2 0 1 2 2 14
+p869
+aVRasual Butler SAS 11/14/2015 SAS vs. PHI W 16 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 0 0 0 0 0 3
+p870
+aVKyle Anderson SAS 11/14/2015 SAS vs. PHI W 31 10 4 9 44.4 2 2 100.0 0 0 - 0 7 7 3 3 1 1 1 20
+p871
+aVJonathon Simmons SAS 11/14/2015 SAS vs. PHI W 9 2 0 0 - 0 0 - 2 2 100.0 1 1 2 2 1 0 0 0 -8
+p872
+aVBoban Marjanovic SAS 11/14/2015 SAS vs. PHI W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p873
+aVMatt Bonner SAS 11/14/2015 SAS vs. PHI W 0 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p874
+aVTim Duncan SAS 11/14/2015 SAS vs. PHI W 27 15 7 12 58.3 0 0 - 1 3 33.3 1 3 4 2 1 4 1 2 17
+p875
+aVTony Parker SAS 11/14/2015 SAS vs. PHI W 25 16 5 10 50.0 0 0 - 6 6 100.0 1 1 2 3 1 0 4 0 12
+p876
+aVPatty Mills SAS 11/14/2015 SAS vs. PHI W 21 5 2 11 18.2 1 6 16.7 0 0 - 0 1 1 1 3 0 1 0 4
+p877
+aVRay McCallum SAS 11/14/2015 SAS vs. PHI W 13 8 4 5 80.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -13
+p878
+aVBoris Diaw SAS 11/11/2015 SAS @ POR W 18 6 3 6 50.0 0 1 0.0 0 0 - 2 3 5 4 0 0 1 2 11
+p879
+aVRay McCallum SAS 11/11/2015 SAS @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p880
+aVKyle Anderson SAS 11/11/2015 SAS @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p881
+aVDavid West SAS 11/11/2015 SAS @ POR W 13 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 0 1 2 2 7
+p882
+aVTony Parker SAS 11/11/2015 SAS @ POR W 30 11 5 8 62.5 0 0 - 1 2 50.0 0 1 1 5 1 0 0 3 -2
+p883
+aVManu Ginobili SAS 11/11/2015 SAS @ POR W 22 14 6 12 50.0 1 2 50.0 1 1 100.0 4 1 5 3 0 0 0 3 14
+p884
+aVPatty Mills SAS 11/11/2015 SAS @ POR W 18 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 14
+p885
+aVDanny Green SAS 11/11/2015 SAS @ POR W 31 11 4 6 66.7 3 4 75.0 0 1 0.0 0 4 4 2 0 0 0 2 -3
+p886
+aVMatt Bonner SAS 11/11/2015 SAS @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p887
+aVRasual Butler SAS 11/11/2015 SAS @ POR W 15 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 3 1 0 1 0 16
+p888
+aVLaMarcus Aldridge SAS 11/11/2015 SAS @ POR W 35 23 9 18 50.0 0 1 0.0 5 6 83.3 2 4 6 2 0 1 4 3 3
+p889
+aVTim Duncan SAS 11/11/2015 SAS @ POR W 21 12 5 7 71.4 0 0 - 2 3 66.7 0 6 6 2 1 2 1 3 -8
+p890
+aVKawhi Leonard SAS 11/11/2015 SAS @ POR W 35 20 7 14 50.0 1 5 20.0 5 5 100.0 0 7 7 3 1 0 1 3 2
+p891
+aVTony Parker SAS 11/09/2015 SAS @ SAC W 21 13 6 10 60.0 1 1 100.0 0 0 - 0 1 1 2 0 0 2 1 9
+p892
+aVTim Duncan SAS 11/09/2015 SAS @ SAC W 23 11 4 8 50.0 0 0 - 3 4 75.0 4 10 14 2 0 0 2 3 11
+p893
+aVRasual Butler SAS 11/09/2015 SAS @ SAC W 14 6 3 5 60.0 0 2 0.0 0 0 - 0 2 2 2 2 0 0 0 3
+p894
+aVBoris Diaw SAS 11/09/2015 SAS @ SAC W 20 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 5 0 0 1 1 5
+p895
+aVPatty Mills SAS 11/09/2015 SAS @ SAC W 23 9 4 11 36.4 1 5 20.0 0 0 - 1 0 1 8 4 0 1 0 11
+p896
+aVManu Ginobili SAS 11/09/2015 SAS @ SAC W 18 6 2 7 28.6 0 4 0.0 2 3 66.7 1 2 3 5 2 0 3 1 -1
+p897
+aVDavid West SAS 11/09/2015 SAS @ SAC W 19 8 4 5 80.0 0 0 - 0 0 - 0 6 6 2 1 0 2 3 -2
+p898
+aVBoban Marjanovic SAS 11/09/2015 SAS @ SAC W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p899
+aVDanny Green SAS 11/09/2015 SAS @ SAC W 27 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 4 0 2 2 3 21
+p900
+aVLaMarcus Aldridge SAS 11/09/2015 SAS @ SAC W 26 16 7 12 58.3 0 2 0.0 2 2 100.0 0 9 9 1 0 2 2 4 14
+p901
+aVKawhi Leonard SAS 11/09/2015 SAS @ SAC W 32 24 10 13 76.9 3 4 75.0 1 2 50.0 0 3 3 2 2 2 0 2 31
+p902
+aVKyle Anderson SAS 11/09/2015 SAS @ SAC W 10 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 -8
+p903
+aVRay McCallum SAS 11/09/2015 SAS @ SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p904
+aVKyle Anderson SAS 11/07/2015 SAS vs. CHA W 13 4 2 5 40.0 0 0 - 0 2 0.0 1 1 2 2 0 1 0 1 1
+p905
+aVBoris Diaw SAS 11/07/2015 SAS vs. CHA W 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 4 0 1 0 2 31
+p906
+aVDanny Green SAS 11/07/2015 SAS vs. CHA W 27 8 2 7 28.6 1 3 33.3 3 3 100.0 1 2 3 4 2 1 0 2 -3
+p907
+aVTim Duncan SAS 11/07/2015 SAS vs. CHA W 24 11 4 5 80.0 0 0 - 3 4 75.0 1 7 8 2 0 0 3 2 -4
+p908
+aVBoban Marjanovic SAS 11/07/2015 SAS vs. CHA W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -3
+p909
+aVRasual Butler SAS 11/07/2015 SAS vs. CHA W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 0
+p910
+aVManu Ginobili SAS 11/07/2015 SAS vs. CHA W 18 13 5 9 55.6 3 6 50.0 0 0 - 0 3 3 3 3 0 1 2 34
+p911
+aVLaMarcus Aldridge SAS 11/07/2015 SAS vs. CHA W 17 16 6 10 60.0 0 0 - 4 4 100.0 0 5 5 2 0 0 1 4 -1
+p912
+aVRay McCallum SAS 11/07/2015 SAS vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p913
+aVTony Parker SAS 11/07/2015 SAS vs. CHA W 25 7 2 5 40.0 0 0 - 3 6 50.0 0 1 1 6 2 0 4 1 -15
+p914
+aVDavid West SAS 11/07/2015 SAS vs. CHA W 29 9 4 7 57.1 0 1 0.0 1 2 50.0 1 8 9 6 0 0 1 2 14
+p915
+aVKawhi Leonard SAS 11/07/2015 SAS vs. CHA W 34 23 10 16 62.5 2 4 50.0 1 2 50.0 0 4 4 2 2 0 0 3 11
+p916
+aVPatty Mills SAS 11/07/2015 SAS vs. CHA W 19 15 6 9 66.7 3 6 50.0 0 0 - 0 2 2 4 2 0 1 3 39
+p917
+aVTim Duncan SAS 11/04/2015 SAS @ WAS L 27 8 3 5 60.0 0 0 - 2 2 100.0 2 9 11 5 0 0 4 4 -12
+p918
+aVManu Ginobili SAS 11/04/2015 SAS @ WAS L 22 12 4 7 57.1 2 4 50.0 2 2 100.0 0 2 2 2 1 0 0 0 9
+p919
+aVDanny Green SAS 11/04/2015 SAS @ WAS L 29 12 3 10 30.0 3 8 37.5 3 3 100.0 0 3 3 2 0 1 4 2 -17
+p920
+aVLaMarcus Aldridge SAS 11/04/2015 SAS @ WAS L 35 10 4 14 28.6 0 0 - 2 2 100.0 4 11 15 1 1 0 5 4 -3
+p921
+aVBoris Diaw SAS 11/04/2015 SAS @ WAS L 15 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 3 0 0 0 0 18
+p922
+aVPatty Mills SAS 11/04/2015 SAS @ WAS L 21 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 3 14
+p923
+aVKawhi Leonard SAS 11/04/2015 SAS @ WAS L 35 23 10 22 45.5 1 4 25.0 2 2 100.0 3 6 9 0 1 0 1 4 -12
+p924
+aVTony Parker SAS 11/04/2015 SAS @ WAS L 30 17 6 11 54.5 1 1 100.0 4 5 80.0 0 2 2 4 1 0 3 1 -18
+p925
+aVKyle Anderson SAS 11/04/2015 SAS @ WAS L 5 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 11
+p926
+aVDavid West SAS 11/04/2015 SAS @ WAS L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -4
+p927
+aVRasual Butler SAS 11/04/2015 SAS @ WAS L 9 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 2 1 2 0 0 -1
+p928
+aVKawhi Leonard SAS 11/02/2015 SAS @ NYK W 36 18 8 16 50.0 1 4 25.0 1 1 100.0 2 12 14 1 2 4 2 4 12
+p929
+aVPatty Mills SAS 11/02/2015 SAS @ NYK W 25 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 2 2 0 1 1 2
+p930
+aVTony Parker SAS 11/02/2015 SAS @ NYK W 29 16 7 12 58.3 0 0 - 2 2 100.0 0 1 1 3 0 0 0 0 18
+p931
+aVTim Duncan SAS 11/02/2015 SAS @ NYK W 35 16 6 10 60.0 0 0 - 4 6 66.7 1 9 10 6 1 2 1 4 20
+p932
+aVDavid West SAS 11/02/2015 SAS @ NYK W 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 3 1 0 1 0 12
+p933
+aVLaMarcus Aldridge SAS 11/02/2015 SAS @ NYK W 32 19 8 15 53.3 0 0 - 3 4 75.0 1 5 6 0 0 0 2 1 -4
+p934
+aVRasual Butler SAS 11/02/2015 SAS @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p935
+aVBoris Diaw SAS 11/02/2015 SAS @ NYK W 20 6 2 6 33.3 1 2 50.0 1 2 50.0 1 3 4 1 0 0 3 2 -5
+p936
+aVRay McCallum SAS 11/02/2015 SAS @ NYK W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p937
+aVKyle Anderson SAS 11/02/2015 SAS @ NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p938
+aVDanny Green SAS 11/02/2015 SAS @ NYK W 27 4 2 6 33.3 0 2 0.0 0 0 - 2 3 5 1 0 1 1 0 7
+p939
+aVBoban Marjanovic SAS 11/02/2015 SAS @ NYK W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p940
+aVManu Ginobili SAS 11/02/2015 SAS @ NYK W 17 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 3 0 0 2 0 -6
+p941
+aVRasual Butler SAS 11/01/2015 SAS @ BOS W 8 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 0 0 2 0 0 7
+p942
+aVTony Parker SAS 11/01/2015 SAS @ BOS W 27 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 3 2 -6
+p943
+aVBoris Diaw SAS 11/01/2015 SAS @ BOS W 24 10 4 8 50.0 0 1 0.0 2 3 66.7 0 1 1 4 0 0 0 1 11
+p944
+aVKyle Anderson SAS 11/01/2015 SAS @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p945
+aVDanny Green SAS 11/01/2015 SAS @ BOS W 29 4 2 10 20.0 0 5 0.0 0 2 0.0 1 5 6 1 4 1 0 1 -6
+p946
+aVTim Duncan SAS 11/01/2015 SAS @ BOS W 29 7 3 9 33.3 0 1 0.0 1 2 50.0 1 8 9 5 0 1 4 4 5
+p947
+aVLaMarcus Aldridge SAS 11/01/2015 SAS @ BOS W 35 24 8 18 44.4 0 1 0.0 8 10 80.0 4 10 14 5 1 1 2 1 5
+p948
+aVDavid West SAS 11/01/2015 SAS @ BOS W 9 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 2 2 -5
+p949
+aVPatty Mills SAS 11/01/2015 SAS @ BOS W 21 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 1 0 0 2 1 14
+p950
+aVManu Ginobili SAS 11/01/2015 SAS @ BOS W 24 13 4 8 50.0 2 4 50.0 3 4 75.0 1 7 8 3 3 0 3 2 12
+p951
+aVKawhi Leonard SAS 11/01/2015 SAS @ BOS W 34 19 8 18 44.4 1 3 33.3 2 2 100.0 0 5 5 2 2 1 2 2 3
+p952
+aVRasual Butler SAS 10/30/2015 SAS vs. BKN W 11 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 -1
+p953
+aVKyle Anderson SAS 10/30/2015 SAS vs. BKN W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 1 0 3 3
+p954
+aVManu Ginobili SAS 10/30/2015 SAS vs. BKN W 22 12 5 12 41.7 2 6 33.3 0 0 - 0 5 5 4 1 1 1 0 16
+p955
+aVPatty Mills SAS 10/30/2015 SAS vs. BKN W 18 11 4 6 66.7 3 5 60.0 0 0 - 1 2 3 3 0 0 0 0 -1
+p956
+aVTony Parker SAS 10/30/2015 SAS vs. BKN W 24 10 5 8 62.5 0 0 - 0 0 - 0 1 1 4 0 0 1 3 23
+p957
+aVRay McCallum SAS 10/30/2015 SAS vs. BKN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 2 0 1 1 5
+p958
+aVBoban Marjanovic SAS 10/30/2015 SAS vs. BKN W 5 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 1 0 0 2 0 4
+p959
+aVDanny Green SAS 10/30/2015 SAS vs. BKN W 27 8 3 6 50.0 2 5 40.0 0 0 - 2 2 4 2 0 0 2 0 20
+p960
+aVLaMarcus Aldridge SAS 10/30/2015 SAS vs. BKN W 30 10 5 11 45.5 0 0 - 0 0 - 5 6 11 4 0 1 1 0 28
+p961
+aVTim Duncan SAS 10/30/2015 SAS vs. BKN W 29 15 4 7 57.1 0 0 - 7 7 100.0 0 8 8 1 0 0 2 2 26
+p962
+aVBoris Diaw SAS 10/30/2015 SAS vs. BKN W 19 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 3 1 0 2 2 1
+p963
+aVDavid West SAS 10/30/2015 SAS vs. BKN W 14 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -5
+p964
+aVKawhi Leonard SAS 10/30/2015 SAS vs. BKN W 26 16 6 16 37.5 0 2 0.0 4 4 100.0 1 9 10 1 2 1 4 3 16
+p965
+aVManu Ginobili SAS 10/28/2015 SAS @ OKC L 19 11 5 8 62.5 1 1 100.0 0 0 - 0 0 0 7 2 0 3 0 -4
+p966
+aVPatty Mills SAS 10/28/2015 SAS @ OKC L 22 9 3 7 42.9 2 3 66.7 1 2 50.0 0 3 3 2 0 0 0 3 -4
+p967
+aVKawhi Leonard SAS 10/28/2015 SAS @ OKC L 35 32 13 22 59.1 1 3 33.3 5 5 100.0 1 7 8 0 3 2 3 3 4
+p968
+aVLaMarcus Aldridge SAS 10/28/2015 SAS @ OKC L 32 11 4 12 33.3 0 1 0.0 3 4 75.0 2 3 5 1 0 1 0 2 -7
+p969
+aVTony Parker SAS 10/28/2015 SAS @ OKC L 26 10 5 11 45.5 0 0 - 0 0 - 0 3 3 3 0 0 2 5 -2
+p970
+aVBoris Diaw SAS 10/28/2015 SAS @ OKC L 20 9 4 5 80.0 1 1 100.0 0 0 - 0 0 0 6 2 3 1 1 0
+p971
+aVDanny Green SAS 10/28/2015 SAS @ OKC L 29 4 2 9 22.2 0 5 0.0 0 0 - 0 8 8 2 1 0 2 1 -4
+p972
+aVTim Duncan SAS 10/28/2015 SAS @ OKC L 26 8 3 8 37.5 0 0 - 2 2 100.0 3 3 6 0 2 3 1 2 -6
+p973
+aVKyle Anderson SAS 10/28/2015 SAS @ OKC L 13 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -10
+p974
+aVDavid West SAS 10/28/2015 SAS @ OKC L 18 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 0 0 1 1 3
+p975
+a.

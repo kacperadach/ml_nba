@@ -1,0 +1,1096 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRusty LaRue CHI 05/05/1999 CHI vs. ORL L 27 9 4 9 44.4 1 4 25.0 0 0 - 0 0 0 2 2 0 0 1 -19
+p2
+aVCharles R. Jones CHI 05/05/1999 CHI vs. ORL L 21 6 2 2 100.0 2 2 100.0 0 0 - 0 3 3 2 3 1 3 3 -1
+p3
+aVDickey Simpkins CHI 05/05/1999 CHI vs. ORL L 35 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 6 2 1 3 3 -18
+p4
+aVToni Kukoc CHI 05/05/1999 CHI vs. ORL L 39 14 5 14 35.7 0 2 0.0 4 5 80.0 0 3 3 11 1 0 1 1 -10
+p5
+aVMark Bryant CHI 05/05/1999 CHI vs. ORL L 19 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -14
+p6
+aVRon Harper CHI 05/05/1999 CHI vs. ORL L 34 17 7 14 50.0 1 3 33.3 2 2 100.0 3 6 9 2 0 0 5 2 -11
+p7
+aVCory Carr CHI 05/05/1999 CHI vs. ORL L 30 10 5 10 50.0 0 1 0.0 0 0 - 1 0 1 4 1 0 4 2 -11
+p8
+aVKornel David CHI 05/05/1999 CHI vs. ORL L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p9
+aVCorey Benjamin CHI 05/05/1999 CHI vs. ORL L 13 4 2 5 40.0 0 0 - 0 2 0.0 0 1 1 1 0 0 1 0 -7
+p10
+aVBill Wennington CHI 05/05/1999 CHI vs. ORL L 15 12 6 8 75.0 0 0 - 0 0 - 1 3 4 0 1 1 1 5 -5
+p11
+aVCorey Benjamin CHI 05/03/1999 CHI vs. DET L 23 8 4 8 50.0 0 1 0.0 0 1 0.0 1 0 1 1 3 1 1 1 -23
+p12
+aVRusty LaRue CHI 05/03/1999 CHI vs. DET L 28 2 1 6 16.7 0 4 0.0 0 0 - 0 0 0 2 1 0 1 1 -20
+p13
+aVKeith Booth CHI 05/03/1999 CHI vs. DET L 9 0 0 6 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 1 3 -13
+p14
+aVCharles R. Jones CHI 05/03/1999 CHI vs. DET L 20 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 1 1 -24
+p15
+aVRon Harper CHI 05/03/1999 CHI vs. DET L 28 17 6 9 66.7 3 5 60.0 2 2 100.0 0 3 3 3 0 0 1 3 -27
+p16
+aVToni Kukoc CHI 05/03/1999 CHI vs. DET L 29 12 5 9 55.6 1 1 100.0 1 2 50.0 3 4 7 6 1 0 4 1 -24
+p17
+aVDickey Simpkins CHI 05/03/1999 CHI vs. DET L 22 5 1 4 25.0 0 0 - 3 6 50.0 1 4 5 0 0 0 0 1 -9
+p18
+aVKornel David CHI 05/03/1999 CHI vs. DET L 19 7 2 4 50.0 0 0 - 3 4 75.0 1 1 2 1 0 0 1 2 -26
+p19
+aVCory Carr CHI 05/03/1999 CHI vs. DET L 29 12 4 9 44.4 1 3 33.3 3 3 100.0 1 0 1 4 1 0 2 2 -20
+p20
+aVBill Wennington CHI 05/03/1999 CHI vs. DET L 16 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -12
+p21
+aVMark Bryant CHI 05/03/1999 CHI vs. DET L 17 4 2 7 28.6 0 0 - 0 0 - 0 2 2 2 1 0 0 1 -22
+p22
+aVToni Kukoc CHI 05/01/1999 CHI @ MIA W 42 22 9 15 60.0 0 2 0.0 4 4 100.0 0 9 9 12 2 0 2 0 25
+p23
+aVDickey Simpkins CHI 05/01/1999 CHI @ MIA W 36 10 4 8 50.0 0 0 - 2 2 100.0 1 8 9 1 0 1 3 3 7
+p24
+aVBill Wennington CHI 05/01/1999 CHI @ MIA W 6 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 1
+p25
+aVRon Harper CHI 05/01/1999 CHI @ MIA W 39 25 9 14 64.3 4 7 57.1 3 4 75.0 0 9 9 3 0 0 2 1 23
+p26
+aVKornel David CHI 05/01/1999 CHI @ MIA W 21 2 1 3 33.3 0 0 - 0 0 - 3 2 5 1 1 0 0 2 14
+p27
+aVMark Bryant CHI 05/01/1999 CHI @ MIA W 20 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 1 0 0 3 4
+p28
+aVCorey Benjamin CHI 05/01/1999 CHI @ MIA W 11 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -6
+p29
+aVRusty LaRue CHI 05/01/1999 CHI @ MIA W 29 11 3 4 75.0 1 2 50.0 4 4 100.0 0 0 0 2 0 0 1 2 6
+p30
+aVCory Carr CHI 05/01/1999 CHI @ MIA W 36 15 6 10 60.0 0 1 0.0 3 4 75.0 0 1 1 3 1 0 1 4 1
+p31
+aVKornel David CHI 04/30/1999 CHI @ CHH L 26 11 4 9 44.4 0 0 - 3 5 60.0 1 5 6 1 0 2 1 2 -1
+p32
+aVCory Carr CHI 04/30/1999 CHI @ CHH L 32 8 3 10 30.0 0 1 0.0 2 4 50.0 0 3 3 2 3 0 6 5 -4
+p33
+aVKeith Booth CHI 04/30/1999 CHI @ CHH L 15 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 1 1 0 2 2 -2
+p34
+aVDickey Simpkins CHI 04/30/1999 CHI @ CHH L 26 16 7 8 87.5 0 0 - 2 6 33.3 3 7 10 1 1 0 1 2 0
+p35
+aVToni Kukoc CHI 04/30/1999 CHI @ CHH L 39 23 10 24 41.7 1 7 14.3 2 2 100.0 2 7 9 4 0 0 5 1 0
+p36
+aVMark Bryant CHI 04/30/1999 CHI @ CHH L 27 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 3 0 0 1 2 -7
+p37
+aVRon Harper CHI 04/30/1999 CHI @ CHH L 36 10 4 8 50.0 0 1 0.0 2 2 100.0 0 3 3 5 3 1 2 2 1
+p38
+aVCorey Benjamin CHI 04/30/1999 CHI @ CHH L 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p39
+aVRusty LaRue CHI 04/30/1999 CHI @ CHH L 27 10 3 9 33.3 2 3 66.7 2 2 100.0 0 3 3 3 4 0 2 5 1
+p40
+aVKeith Booth CHI 04/26/1999 CHI @ DAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -9
+p41
+aVDickey Simpkins CHI 04/26/1999 CHI @ DAL L 11 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 1 1 0 1 1 -6
+p42
+aVCorey Benjamin CHI 04/26/1999 CHI @ DAL L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -2
+p43
+aVCory Carr CHI 04/26/1999 CHI @ DAL L 37 18 7 16 43.8 0 1 0.0 4 4 100.0 0 2 2 4 0 0 0 4 -2
+p44
+aVRon Harper CHI 04/26/1999 CHI @ DAL L 37 12 4 13 30.8 0 2 0.0 4 6 66.7 4 3 7 3 2 1 1 1 -2
+p45
+aVRusty LaRue CHI 04/26/1999 CHI @ DAL L 27 11 3 7 42.9 2 4 50.0 3 3 100.0 0 3 3 2 2 0 1 1 3
+p46
+aVToni Kukoc CHI 04/26/1999 CHI @ DAL L 40 26 7 14 50.0 2 2 100.0 10 12 83.3 2 5 7 5 0 0 2 1 -6
+p47
+aVBill Wennington CHI 04/26/1999 CHI @ DAL L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p48
+aVKornel David CHI 04/26/1999 CHI @ DAL L 32 17 7 10 70.0 0 0 - 3 3 100.0 2 5 7 2 1 0 0 3 11
+p49
+aVMark Bryant CHI 04/26/1999 CHI @ DAL L 28 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 1 1 1 3 -24
+p50
+aVKornel David CHI 04/24/1999 CHI @ IND L 15 8 2 5 40.0 0 0 - 4 4 100.0 0 1 1 0 0 2 1 0 5
+p51
+aVDickey Simpkins CHI 04/24/1999 CHI @ IND L 31 5 1 5 20.0 0 0 - 3 4 75.0 2 8 10 2 0 0 4 2 -10
+p52
+aVCorey Benjamin CHI 04/24/1999 CHI @ IND L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 1 1 1 -5
+p53
+aVRusty LaRue CHI 04/24/1999 CHI @ IND L 25 4 1 8 12.5 0 2 0.0 2 2 100.0 1 6 7 2 5 0 0 1 -12
+p54
+aVBrent Barry CHI 04/24/1999 CHI @ IND L 37 8 3 9 33.3 2 5 40.0 0 0 - 2 2 4 3 0 0 3 2 -6
+p55
+aVBill Wennington CHI 04/24/1999 CHI @ IND L 16 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 1 1 0 4 -6
+p56
+aVCory Carr CHI 04/24/1999 CHI @ IND L 16 6 3 9 33.3 0 0 - 0 0 - 0 2 2 1 0 0 2 2 -9
+p57
+aVRon Harper CHI 04/24/1999 CHI @ IND L 37 10 3 17 17.6 0 1 0.0 4 5 80.0 2 5 7 1 1 0 1 2 -17
+p58
+aVKeith Booth CHI 04/24/1999 CHI @ IND L 7 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 1 -6
+p59
+aVMark Bryant CHI 04/24/1999 CHI @ IND L 35 14 5 10 50.0 0 0 - 4 4 100.0 2 4 6 0 1 0 1 2 -25
+p60
+aVRandy Brown CHI 04/24/1999 CHI @ IND L 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 1 0 0 1 1
+p61
+aVDickey Simpkins CHI 04/23/1999 CHI vs. BOS L 30 7 3 11 27.3 0 0 - 1 4 25.0 3 6 9 1 0 1 0 3 -28
+p62
+aVRon Harper CHI 04/23/1999 CHI vs. BOS L 22 3 1 10 10.0 0 2 0.0 1 2 50.0 3 2 5 3 2 0 1 1 -19
+p63
+aVCorey Benjamin CHI 04/23/1999 CHI vs. BOS L 23 3 1 8 12.5 1 3 33.3 0 0 - 0 1 1 0 0 1 1 3 -10
+p64
+aVKornel David CHI 04/23/1999 CHI vs. BOS L 28 20 6 13 46.2 0 0 - 8 10 80.0 2 5 7 1 0 0 5 2 -5
+p65
+aVKeith Booth CHI 04/23/1999 CHI vs. BOS L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 5 0 1 1 0 -3
+p66
+aVBrent Barry CHI 04/23/1999 CHI vs. BOS L 27 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 2 1 1 3 1 -24
+p67
+aVBill Wennington CHI 04/23/1999 CHI vs. BOS L 10 8 4 5 80.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 3
+p68
+aVRusty LaRue CHI 04/23/1999 CHI vs. BOS L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 0 -3
+p69
+aVRandy Brown CHI 04/23/1999 CHI vs. BOS L 29 6 2 7 28.6 0 0 - 2 2 100.0 1 3 4 4 2 0 2 2 -19
+p70
+aVMark Bryant CHI 04/23/1999 CHI vs. BOS L 31 15 5 14 35.7 0 0 - 5 6 83.3 1 5 6 0 2 2 4 4 -28
+p71
+aVCory Carr CHI 04/23/1999 CHI vs. BOS L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 2 -9
+p72
+aVKornel David CHI 04/21/1999 CHI @ NJN L 24 9 3 9 33.3 0 0 - 3 3 100.0 2 3 5 0 1 1 1 4 -11
+p73
+aVDickey Simpkins CHI 04/21/1999 CHI @ NJN L 32 11 2 7 28.6 0 0 - 7 8 87.5 2 4 6 1 1 1 1 0 -20
+p74
+aVBill Wennington CHI 04/21/1999 CHI @ NJN L 15 4 2 6 33.3 0 0 - 0 0 - 0 4 4 1 0 2 1 1 8
+p75
+aVCorey Benjamin CHI 04/21/1999 CHI @ NJN L 24 14 4 9 44.4 0 1 0.0 6 6 100.0 1 6 7 1 2 1 0 3 4
+p76
+aVKeith Booth CHI 04/21/1999 CHI @ NJN L 23 7 3 8 37.5 0 0 - 1 2 50.0 1 4 5 0 3 0 2 0 -9
+p77
+aVCory Carr CHI 04/21/1999 CHI @ NJN L 24 8 2 6 33.3 0 1 0.0 4 4 100.0 0 2 2 1 0 0 1 1 -19
+p78
+aVCharles R. Jones CHI 04/21/1999 CHI @ NJN L 13 7 2 3 66.7 2 2 100.0 1 2 50.0 1 1 2 1 0 0 2 3 6
+p79
+aVRandy Brown CHI 04/21/1999 CHI @ NJN L 30 9 4 9 44.4 0 0 - 1 2 50.0 0 2 2 1 1 0 5 2 -20
+p80
+aVRusty LaRue CHI 04/21/1999 CHI @ NJN L 24 6 2 8 25.0 2 6 33.3 0 0 - 1 1 2 3 0 0 0 0 7
+p81
+aVMark Bryant CHI 04/21/1999 CHI @ NJN L 30 12 6 13 46.2 0 0 - 0 2 0.0 2 1 3 3 1 0 1 4 -6
+p82
+aVBill Wennington CHI 04/20/1999 CHI vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p83
+aVRandy Brown CHI 04/20/1999 CHI vs. WAS W 42 6 2 8 25.0 0 0 - 2 4 50.0 0 6 6 7 3 0 1 3 8
+p84
+aVKeith Booth CHI 04/20/1999 CHI vs. WAS W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p85
+aVToni Kukoc CHI 04/20/1999 CHI vs. WAS W 37 25 11 18 61.1 3 4 75.0 0 0 - 1 6 7 9 3 0 4 2 14
+p86
+aVCorey Benjamin CHI 04/20/1999 CHI vs. WAS W 12 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 0 1 0 1 -1
+p87
+aVKornel David CHI 04/20/1999 CHI vs. WAS W 24 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 1 0 0 1 1 6
+p88
+aVDickey Simpkins CHI 04/20/1999 CHI vs. WAS W 32 15 4 7 57.1 0 0 - 7 10 70.0 4 9 13 0 0 0 1 3 6
+p89
+aVCharles R. Jones CHI 04/20/1999 CHI vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 0 0
+p90
+aVRusty LaRue CHI 04/20/1999 CHI vs. WAS W 10 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 0
+p91
+aVMark Bryant CHI 04/20/1999 CHI vs. WAS W 33 13 5 11 45.5 0 0 - 3 5 60.0 3 0 3 2 1 0 5 4 -8
+p92
+aVCory Carr CHI 04/20/1999 CHI vs. WAS W 40 10 4 11 36.4 0 1 0.0 2 5 40.0 0 3 3 3 0 1 3 4 4
+p93
+aVKornel David CHI 04/18/1999 CHI vs. MIL W 26 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -9
+p94
+aVDickey Simpkins CHI 04/18/1999 CHI vs. MIL W 32 9 4 7 57.1 0 0 - 1 1 100.0 2 3 5 1 2 0 2 1 2
+p95
+aVToni Kukoc CHI 04/18/1999 CHI vs. MIL W 41 22 8 15 53.3 3 4 75.0 3 4 75.0 1 7 8 4 3 0 2 2 7
+p96
+aVCharles R. Jones CHI 04/18/1999 CHI vs. MIL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p97
+aVRandy Brown CHI 04/18/1999 CHI vs. MIL W 42 16 5 13 38.5 0 1 0.0 6 6 100.0 0 7 7 10 3 0 3 4 9
+p98
+aVRusty LaRue CHI 04/18/1999 CHI vs. MIL W 46 6 3 11 27.3 0 3 0.0 0 0 - 0 6 6 4 1 0 4 4 0
+p99
+aVCorey Benjamin CHI 04/18/1999 CHI vs. MIL W 16 12 5 5 100.0 0 0 - 2 3 66.7 1 3 4 0 0 1 1 2 7
+p100
+aVMark Bryant CHI 04/18/1999 CHI vs. MIL W 30 12 4 14 28.6 0 0 - 4 4 100.0 4 1 5 4 1 0 1 5 -1
+p101
+aVCory Carr CHI 04/18/1999 CHI vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 2 0 2 0 2
+p102
+aVKeith Booth CHI 04/18/1999 CHI vs. MIL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p103
+aVMark Bryant CHI 04/16/1999 CHI @ WAS L 26 6 2 9 22.2 0 0 - 2 2 100.0 2 6 8 3 0 0 1 1 -7
+p104
+aVCharles R. Jones CHI 04/16/1999 CHI @ WAS L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p105
+aVDickey Simpkins CHI 04/16/1999 CHI @ WAS L 30 4 1 7 14.3 0 0 - 2 6 33.3 2 7 9 3 1 0 3 1 -5
+p106
+aVRusty LaRue CHI 04/16/1999 CHI @ WAS L 27 13 6 10 60.0 1 2 50.0 0 0 - 0 4 4 2 1 1 0 2 0
+p107
+aVRandy Brown CHI 04/16/1999 CHI @ WAS L 30 9 4 8 50.0 0 0 - 1 2 50.0 1 2 3 4 0 0 3 2 -22
+p108
+aVCorey Benjamin CHI 04/16/1999 CHI @ WAS L 15 7 2 8 25.0 0 1 0.0 3 4 75.0 0 2 2 0 0 0 1 3 4
+p109
+aVKeith Booth CHI 04/16/1999 CHI @ WAS L 19 8 4 10 40.0 0 1 0.0 0 0 - 1 2 3 1 1 0 3 3 -11
+p110
+aVToni Kukoc CHI 04/16/1999 CHI @ WAS L 35 17 8 18 44.4 0 1 0.0 1 2 50.0 3 7 10 3 1 0 2 2 -29
+p111
+aVBill Wennington CHI 04/16/1999 CHI @ WAS L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -5
+p112
+aVKornel David CHI 04/16/1999 CHI @ WAS L 35 6 2 7 28.6 0 0 - 2 3 66.7 5 5 10 0 3 0 0 1 -8
+p113
+aVCory Carr CHI 04/16/1999 CHI @ WAS L 13 0 0 4 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 4 -2
+p114
+aVCory Carr CHI 04/14/1999 CHI vs. CLE L 9 3 1 5 20.0 1 1 100.0 0 0 - 1 1 2 1 0 1 0 2 1
+p115
+aVDickey Simpkins CHI 04/14/1999 CHI vs. CLE L 27 10 4 4 100.0 0 0 - 2 3 66.7 2 4 6 0 0 1 1 4 0
+p116
+aVToni Kukoc CHI 04/14/1999 CHI vs. CLE L 40 15 5 15 33.3 1 6 16.7 4 6 66.7 2 8 10 7 2 0 1 3 -13
+p117
+aVRon Harper CHI 04/14/1999 CHI vs. CLE L 31 10 4 13 30.8 0 2 0.0 2 5 40.0 0 6 6 4 2 1 1 2 -1
+p118
+aVKeith Booth CHI 04/14/1999 CHI vs. CLE L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 2 5
+p119
+aVRusty LaRue CHI 04/14/1999 CHI vs. CLE L 32 7 3 8 37.5 1 3 33.3 0 0 - 1 3 4 3 1 0 1 4 -5
+p120
+aVCharles R. Jones CHI 04/14/1999 CHI vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p121
+aVMark Bryant CHI 04/14/1999 CHI vs. CLE L 30 8 2 7 28.6 0 0 - 4 9 44.4 4 5 9 0 1 0 0 4 -13
+p122
+aVKornel David CHI 04/14/1999 CHI vs. CLE L 36 20 8 13 61.5 0 0 - 4 4 100.0 2 2 4 2 0 0 0 3 -7
+p123
+aVRandy Brown CHI 04/14/1999 CHI vs. CLE L 26 8 2 6 33.3 0 0 - 4 6 66.7 0 1 1 4 3 0 3 5 -8
+p124
+aVDickey Simpkins CHI 04/13/1999 CHI @ MIA L 28 9 2 4 50.0 0 0 - 5 9 55.6 1 3 4 0 0 0 3 4 11
+p125
+aVRusty LaRue CHI 04/13/1999 CHI @ MIA L 32 15 6 10 60.0 3 4 75.0 0 0 - 0 1 1 1 1 0 0 0 -7
+p126
+aVToni Kukoc CHI 04/13/1999 CHI @ MIA L 42 25 9 22 40.9 0 2 0.0 7 8 87.5 1 8 9 3 1 0 2 2 -13
+p127
+aVCharles R. Jones CHI 04/13/1999 CHI @ MIA L 25 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 1 1 1 -12
+p128
+aVKornel David CHI 04/13/1999 CHI @ MIA L 19 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 3 2 -19
+p129
+aVRandy Brown CHI 04/13/1999 CHI @ MIA L 18 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 1 0 1 2 -11
+p130
+aVCory Carr CHI 04/13/1999 CHI @ MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p131
+aVBill Wennington CHI 04/13/1999 CHI @ MIA L 14 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 3 -12
+p132
+aVRon Harper CHI 04/13/1999 CHI @ MIA L 37 15 7 12 58.3 1 2 50.0 0 0 - 0 4 4 7 3 2 1 2 -2
+p133
+aVCorey Benjamin CHI 04/13/1999 CHI @ MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p134
+aVKeith Booth CHI 04/13/1999 CHI @ MIA L 22 6 2 8 25.0 0 1 0.0 2 2 100.0 2 3 5 0 1 0 2 4 -7
+p135
+aVToni Kukoc CHI 04/11/1999 CHI @ BOS L 39 23 10 19 52.6 0 2 0.0 3 4 75.0 0 7 7 7 0 1 1 2 0
+p136
+aVCory Carr CHI 04/11/1999 CHI @ BOS L 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -5
+p137
+aVRandy Brown CHI 04/11/1999 CHI @ BOS L 37 6 2 12 16.7 0 0 - 2 2 100.0 3 4 7 6 8 0 1 2 -6
+p138
+aVCharles R. Jones CHI 04/11/1999 CHI @ BOS L 39 7 3 8 37.5 0 3 0.0 1 4 25.0 1 1 2 2 1 0 2 3 -3
+p139
+aVDickey Simpkins CHI 04/11/1999 CHI @ BOS L 36 8 2 10 20.0 0 0 - 4 6 66.7 2 6 8 1 0 0 1 1 0
+p140
+aVKornel David CHI 04/11/1999 CHI @ BOS L 26 10 5 9 55.6 0 0 - 0 2 0.0 2 1 3 0 0 0 0 1 -4
+p141
+aVRusty LaRue CHI 04/11/1999 CHI @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p142
+aVRon Harper CHI 04/11/1999 CHI @ BOS L 29 19 6 13 46.2 3 4 75.0 4 4 100.0 1 3 4 0 2 0 1 2 1
+p143
+aVKeith Booth CHI 04/11/1999 CHI @ BOS L 7 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 1 0 -7
+p144
+aVBill Wennington CHI 04/11/1999 CHI @ BOS L 9 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -6
+p145
+aVCharles R. Jones CHI 04/10/1999 CHI vs. MIA L 17 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 2 0 0 0 -1
+p146
+aVKornel David CHI 04/10/1999 CHI vs. MIA L 36 13 4 10 40.0 0 0 - 5 6 83.3 5 5 10 0 1 1 2 2 -15
+p147
+aVBill Wennington CHI 04/10/1999 CHI vs. MIA L 22 7 3 10 30.0 0 0 - 1 2 50.0 1 7 8 0 1 0 0 4 -6
+p148
+aVKeith Booth CHI 04/10/1999 CHI vs. MIA L 12 1 0 6 0.0 0 0 - 1 2 50.0 0 2 2 0 2 0 2 2 4
+p149
+aVCorey Benjamin CHI 04/10/1999 CHI vs. MIA L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 3 3 -3
+p150
+aVCory Carr CHI 04/10/1999 CHI vs. MIA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -4
+p151
+aVRusty LaRue CHI 04/10/1999 CHI vs. MIA L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -5
+p152
+aVToni Kukoc CHI 04/10/1999 CHI vs. MIA L 32 10 4 16 25.0 0 1 0.0 2 2 100.0 1 2 3 2 1 0 3 1 -34
+p153
+aVDickey Simpkins CHI 04/10/1999 CHI vs. MIA L 30 5 2 6 33.3 0 0 - 1 4 25.0 1 7 8 0 0 0 2 4 -29
+p154
+aVRandy Brown CHI 04/10/1999 CHI vs. MIA L 29 4 1 8 12.5 0 0 - 2 4 50.0 1 2 3 4 2 0 2 2 -29
+p155
+aVMark Bryant CHI 04/10/1999 CHI vs. MIA L 8 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -14
+p156
+aVRon Harper CHI 04/10/1999 CHI vs. MIA L 23 6 3 9 33.3 0 3 0.0 0 2 0.0 2 4 6 3 2 0 2 1 -29
+p157
+aVKornel David CHI 04/07/1999 CHI vs. IND L 28 13 1 5 20.0 0 0 - 11 16 68.8 5 3 8 1 2 1 2 3 -6
+p158
+aVBrent Barry CHI 04/07/1999 CHI vs. IND L 17 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 -4
+p159
+aVCharles R. Jones CHI 04/07/1999 CHI vs. IND L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 -6
+p160
+aVDickey Simpkins CHI 04/07/1999 CHI vs. IND L 40 13 5 9 55.6 0 0 - 3 3 100.0 0 7 7 0 0 1 1 5 -18
+p161
+aVKeith Booth CHI 04/07/1999 CHI vs. IND L 13 3 1 3 33.3 0 1 0.0 1 2 50.0 1 3 4 4 0 0 2 1 4
+p162
+aVCorey Benjamin CHI 04/07/1999 CHI vs. IND L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 8
+p163
+aVBill Wennington CHI 04/07/1999 CHI vs. IND L 11 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 1 2 2 2 -8
+p164
+aVRandy Brown CHI 04/07/1999 CHI vs. IND L 32 10 4 8 50.0 0 0 - 2 4 50.0 1 5 6 4 3 0 1 1 -17
+p165
+aVMark Bryant CHI 04/07/1999 CHI vs. IND L 24 10 5 10 50.0 0 0 - 0 0 - 1 3 4 2 0 0 2 5 -18
+p166
+aVToni Kukoc CHI 04/07/1999 CHI vs. IND L 31 12 6 13 46.2 0 0 - 0 2 0.0 0 5 5 8 1 0 2 3 -14
+p167
+aVCory Carr CHI 04/07/1999 CHI vs. IND L 22 4 2 9 22.2 0 1 0.0 0 0 - 0 3 3 1 2 0 0 1 -6
+p168
+aVRusty LaRue CHI 04/07/1999 CHI vs. IND L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p169
+aVMark Bryant CHI 04/06/1999 CHI @ CLE L 30 13 5 9 55.6 0 0 - 3 4 75.0 3 4 7 2 1 2 3 6 4
+p170
+aVBrent Barry CHI 04/06/1999 CHI @ CLE L 28 3 1 6 16.7 1 4 25.0 0 0 - 0 6 6 2 1 0 2 2 -7
+p171
+aVRusty LaRue CHI 04/06/1999 CHI @ CLE L 27 5 2 6 33.3 1 4 25.0 0 0 - 1 0 1 2 2 0 0 2 6
+p172
+aVKornel David CHI 04/06/1999 CHI @ CLE L 27 16 6 8 75.0 0 0 - 4 4 100.0 1 2 3 1 0 1 0 3 0
+p173
+aVKeith Booth CHI 04/06/1999 CHI @ CLE L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 5
+p174
+aVCory Carr CHI 04/06/1999 CHI @ CLE L 10 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -1
+p175
+aVRandy Brown CHI 04/06/1999 CHI @ CLE L 31 6 2 10 20.0 0 0 - 2 2 100.0 1 5 6 4 1 0 4 3 -11
+p176
+aVBill Wennington CHI 04/06/1999 CHI @ CLE L 12 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 2 7
+p177
+aVToni Kukoc CHI 04/06/1999 CHI @ CLE L 34 19 7 15 46.7 2 4 50.0 3 4 75.0 0 2 2 5 0 0 4 0 -17
+p178
+aVDickey Simpkins CHI 04/06/1999 CHI @ CLE L 35 21 6 9 66.7 0 0 - 9 9 100.0 2 3 5 1 1 1 2 5 -21
+p179
+aVDickey Simpkins CHI 04/04/1999 CHI vs. VAN W 42 16 6 10 60.0 0 0 - 4 9 44.4 3 7 10 2 1 0 2 3 1
+p180
+aVToni Kukoc CHI 04/04/1999 CHI vs. VAN W 40 13 5 14 35.7 1 5 20.0 2 2 100.0 1 4 5 9 1 1 1 3 2
+p181
+aVBrent Barry CHI 04/04/1999 CHI vs. VAN W 37 21 8 13 61.5 3 6 50.0 2 2 100.0 1 0 1 2 0 0 3 3 -4
+p182
+aVMark Bryant CHI 04/04/1999 CHI vs. VAN W 34 25 10 13 76.9 0 0 - 5 7 71.4 1 6 7 1 0 1 2 3 1
+p183
+aVBill Wennington CHI 04/04/1999 CHI vs. VAN W 9 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -1
+p184
+aVCharles R. Jones CHI 04/04/1999 CHI vs. VAN W 15 0 0 5 0.0 0 2 0.0 0 0 - 1 3 4 2 2 0 3 2 -10
+p185
+aVCory Carr CHI 04/04/1999 CHI vs. VAN W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 1 0 1 4
+p186
+aVKornel David CHI 04/04/1999 CHI vs. VAN W 19 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 0 0 0 3 0
+p187
+aVRusty LaRue CHI 04/04/1999 CHI vs. VAN W 33 3 1 8 12.5 1 3 33.3 0 0 - 0 3 3 9 3 0 1 4 11
+p188
+aVKeith Booth CHI 04/04/1999 CHI vs. VAN W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 1
+p189
+aVKornel David CHI 04/02/1999 CHI vs. ORL L 24 6 2 5 40.0 0 0 - 2 3 66.7 1 3 4 2 2 1 0 4 -23
+p190
+aVBill Wennington CHI 04/02/1999 CHI vs. ORL L 17 10 4 8 50.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 0 -9
+p191
+aVToni Kukoc CHI 04/02/1999 CHI vs. ORL L 28 13 6 12 50.0 0 1 0.0 1 2 50.0 3 2 5 1 0 0 1 1 -32
+p192
+aVCory Carr CHI 04/02/1999 CHI vs. ORL L 9 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 3 2 -5
+p193
+aVCorey Benjamin CHI 04/02/1999 CHI vs. ORL L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 0
+p194
+aVRusty LaRue CHI 04/02/1999 CHI vs. ORL L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -7
+p195
+aVKeith Booth CHI 04/02/1999 CHI vs. ORL L 16 11 5 9 55.6 0 1 0.0 1 2 50.0 0 2 2 0 2 0 0 2 -7
+p196
+aVCharles R. Jones CHI 04/02/1999 CHI vs. ORL L 19 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 0 0 3 2 -14
+p197
+aVMark Bryant CHI 04/02/1999 CHI vs. ORL L 32 7 3 9 33.3 0 0 - 1 2 50.0 3 2 5 1 2 0 0 2 -34
+p198
+aVDickey Simpkins CHI 04/02/1999 CHI vs. ORL L 29 9 4 4 100.0 0 0 - 1 8 12.5 2 4 6 2 0 0 2 3 -33
+p199
+aVBrent Barry CHI 04/02/1999 CHI vs. ORL L 29 2 1 9 11.1 0 3 0.0 0 0 - 0 0 0 5 2 0 0 4 -34
+p200
+aVRandy Brown CHI 04/02/1999 CHI vs. ORL L 22 4 2 9 22.2 0 0 - 0 0 - 0 0 0 3 1 0 7 1 -37
+p201
+aVDickey Simpkins CHI 04/01/1999 CHI @ DET L 34 14 6 9 66.7 0 0 - 2 2 100.0 2 6 8 1 0 0 3 4 -25
+p202
+aVKeith Booth CHI 04/01/1999 CHI @ DET L 12 0 0 1 0.0 0 0 - 0 2 0.0 1 4 5 2 1 1 2 3 -10
+p203
+aVMark Bryant CHI 04/01/1999 CHI @ DET L 33 14 7 11 63.6 0 0 - 0 0 - 3 3 6 1 0 0 1 2 -29
+p204
+aVCharles R. Jones CHI 04/01/1999 CHI @ DET L 28 8 3 10 30.0 1 4 25.0 1 2 50.0 0 2 2 0 1 0 1 1 -20
+p205
+aVBill Wennington CHI 04/01/1999 CHI @ DET L 15 4 2 7 28.6 0 0 - 0 0 - 0 2 2 1 1 0 0 6 2
+p206
+aVToni Kukoc CHI 04/01/1999 CHI @ DET L 21 6 2 7 28.6 0 1 0.0 2 4 50.0 0 3 3 2 0 0 1 0 -21
+p207
+aVCory Carr CHI 04/01/1999 CHI @ DET L 26 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 4 2 1 1 2 -13
+p208
+aVBrent Barry CHI 04/01/1999 CHI @ DET L 26 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 4 1 0 1 1 -22
+p209
+aVRusty LaRue CHI 04/01/1999 CHI @ DET L 19 4 1 6 16.7 1 3 33.3 1 1 100.0 1 0 1 4 0 0 4 1 -11
+p210
+aVKornel David CHI 04/01/1999 CHI @ DET L 27 12 6 10 60.0 0 0 - 0 0 - 3 2 5 1 0 0 3 1 -11
+p211
+aVBill Wennington CHI 03/30/1999 CHI vs. PHI W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -5
+p212
+aVBrent Barry CHI 03/30/1999 CHI vs. PHI W 39 13 5 9 55.6 1 2 50.0 2 2 100.0 0 3 3 6 0 1 2 5 13
+p213
+aVToni Kukoc CHI 03/30/1999 CHI vs. PHI W 36 26 11 19 57.9 1 3 33.3 3 4 75.0 1 4 5 7 1 0 3 2 17
+p214
+aVDickey Simpkins CHI 03/30/1999 CHI vs. PHI W 36 9 3 7 42.9 0 0 - 3 6 50.0 1 7 8 4 1 0 2 1 10
+p215
+aVKeith Booth CHI 03/30/1999 CHI vs. PHI W 29 16 8 11 72.7 0 0 - 0 4 0.0 2 7 9 6 3 1 1 2 8
+p216
+aVMark Bryant CHI 03/30/1999 CHI vs. PHI W 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 5 6
+p217
+aVKornel David CHI 03/30/1999 CHI vs. PHI W 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -6
+p218
+aVCharles R. Jones CHI 03/30/1999 CHI vs. PHI W 35 15 5 10 50.0 2 3 66.7 3 4 75.0 1 2 3 4 0 0 0 3 9
+p219
+aVCory Carr CHI 03/30/1999 CHI vs. PHI W 13 4 1 7 14.3 0 0 - 2 2 100.0 1 2 3 4 0 0 0 1 1
+p220
+aVRusty LaRue CHI 03/30/1999 CHI vs. PHI W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -3
+p221
+aVKornel David CHI 03/28/1999 CHI @ TOR L 21 8 4 4 100.0 0 0 - 0 0 - 0 4 4 0 1 0 1 1 -12
+p222
+aVRusty LaRue CHI 03/28/1999 CHI @ TOR L 24 8 3 7 42.9 0 2 0.0 2 2 100.0 0 0 0 2 0 0 0 0 4
+p223
+aVKeith Booth CHI 03/28/1999 CHI @ TOR L 21 2 1 10 10.0 0 0 - 0 0 - 1 6 7 3 1 0 0 3 -11
+p224
+aVMark Bryant CHI 03/28/1999 CHI @ TOR L 35 13 5 12 41.7 0 0 - 3 8 37.5 4 5 9 1 2 1 4 4 -1
+p225
+aVCorey Benjamin CHI 03/28/1999 CHI @ TOR L 22 6 1 11 9.1 0 0 - 4 6 66.7 2 1 3 0 1 0 1 2 1
+p226
+aVCory Carr CHI 03/28/1999 CHI @ TOR L 12 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -12
+p227
+aVDickey Simpkins CHI 03/28/1999 CHI @ TOR L 32 11 3 7 42.9 0 0 - 5 6 83.3 3 5 8 1 1 0 4 3 -8
+p228
+aVCharles R. Jones CHI 03/28/1999 CHI @ TOR L 24 7 3 10 30.0 1 3 33.3 0 0 - 0 0 0 4 0 0 1 1 -17
+p229
+aVBrent Barry CHI 03/28/1999 CHI @ TOR L 36 17 6 10 60.0 3 6 50.0 2 2 100.0 2 5 7 4 2 1 2 2 -1
+p230
+aVBill Wennington CHI 03/28/1999 CHI @ TOR L 14 4 0 4 0.0 0 0 - 4 4 100.0 0 1 1 0 1 0 1 3 -8
+p231
+aVCory Carr CHI 03/26/1999 CHI @ ATL L 7 4 2 2 100.0 0 0 - 0 2 0.0 0 1 1 0 1 0 1 2 2
+p232
+aVRusty LaRue CHI 03/26/1999 CHI @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -10
+p233
+aVCorey Benjamin CHI 03/26/1999 CHI @ ATL L 7 5 2 4 50.0 1 1 100.0 0 0 - 1 2 3 0 0 1 0 2 2
+p234
+aVDickey Simpkins CHI 03/26/1999 CHI @ ATL L 28 7 3 5 60.0 0 0 - 1 2 50.0 1 5 6 1 0 1 1 5 -14
+p235
+aVKornel David CHI 03/26/1999 CHI @ ATL L 30 14 4 8 50.0 0 0 - 6 6 100.0 2 1 3 2 1 0 2 2 3
+p236
+aVCharles R. Jones CHI 03/26/1999 CHI @ ATL L 22 8 3 8 37.5 1 3 33.3 1 2 50.0 0 1 1 1 2 0 3 1 -8
+p237
+aVRandy Brown CHI 03/26/1999 CHI @ ATL L 20 10 3 3 100.0 0 0 - 4 5 80.0 0 1 1 1 2 1 1 0 6
+p238
+aVMark Bryant CHI 03/26/1999 CHI @ ATL L 33 8 3 8 37.5 0 0 - 2 2 100.0 2 5 7 1 0 0 2 3 -20
+p239
+aVBill Wennington CHI 03/26/1999 CHI @ ATL L 22 8 4 8 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 5 6
+p240
+aVBrent Barry CHI 03/26/1999 CHI @ ATL L 41 11 4 9 44.4 1 4 25.0 2 4 50.0 0 6 6 4 1 0 4 2 -14
+p241
+aVKeith Booth CHI 03/26/1999 CHI @ ATL L 24 6 3 8 37.5 0 0 - 0 0 - 1 1 2 2 0 0 2 3 -13
+p242
+aVCharles R. Jones CHI 03/24/1999 CHI @ CHH L 24 6 2 5 40.0 1 2 50.0 1 2 50.0 1 2 3 1 1 0 1 0 -16
+p243
+aVMark Bryant CHI 03/24/1999 CHI @ CHH L 38 16 8 12 66.7 0 0 - 0 0 - 0 4 4 1 0 0 0 5 -15
+p244
+aVCory Carr CHI 03/24/1999 CHI @ CHH L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 4 0 0 2 2 -5
+p245
+aVDickey Simpkins CHI 03/24/1999 CHI @ CHH L 38 20 7 14 50.0 0 0 - 6 8 75.0 4 2 6 0 3 0 1 3 -26
+p246
+aVRusty LaRue CHI 03/24/1999 CHI @ CHH L 17 2 1 6 16.7 0 0 - 0 0 - 0 1 1 2 1 0 0 3 -14
+p247
+aVKeith Booth CHI 03/24/1999 CHI @ CHH L 17 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 0 0 0 2 3 -12
+p248
+aVBrent Barry CHI 03/24/1999 CHI @ CHH L 36 13 5 16 31.3 1 7 14.3 2 4 50.0 1 6 7 2 1 0 1 3 -19
+p249
+aVBill Wennington CHI 03/24/1999 CHI @ CHH L 11 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 1 0 0 -5
+p250
+aVKornel David CHI 03/24/1999 CHI @ CHH L 24 7 3 6 50.0 0 0 - 1 1 100.0 2 1 3 2 0 0 2 1 -17
+p251
+aVRandy Brown CHI 03/24/1999 CHI @ CHH L 25 6 3 9 33.3 0 0 - 0 0 - 0 2 2 6 0 0 4 4 -16
+p252
+aVBrent Barry CHI 03/23/1999 CHI vs. TOR L 23 10 4 10 40.0 1 6 16.7 1 1 100.0 0 2 2 0 3 0 2 1 -21
+p253
+aVRandy Brown CHI 03/23/1999 CHI vs. TOR L 25 11 3 9 33.3 0 0 - 5 6 83.3 1 0 1 4 0 0 2 0 -31
+p254
+aVKeith Booth CHI 03/23/1999 CHI vs. TOR L 22 8 4 9 44.4 0 0 - 0 6 0.0 1 5 6 2 1 3 2 2 -8
+p255
+aVKornel David CHI 03/23/1999 CHI vs. TOR L 30 12 5 9 55.6 0 0 - 2 4 50.0 5 6 11 0 0 0 1 4 -10
+p256
+aVBill Wennington CHI 03/23/1999 CHI vs. TOR L 15 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 2 0 0 0 2 1
+p257
+aVMark Bryant CHI 03/23/1999 CHI vs. TOR L 25 0 0 7 0.0 0 0 - 0 0 - 4 1 5 2 0 0 2 2 -28
+p258
+aVDickey Simpkins CHI 03/23/1999 CHI vs. TOR L 23 5 1 7 14.3 0 0 - 3 6 50.0 6 3 9 0 1 0 1 2 -14
+p259
+aVCory Carr CHI 03/23/1999 CHI vs. TOR L 16 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 3 0 1 2 1 -5
+p260
+aVToni Kukoc CHI 03/23/1999 CHI vs. TOR L 15 6 3 8 37.5 0 0 - 0 0 - 2 0 2 2 1 0 1 0 -13
+p261
+aVRusty LaRue CHI 03/23/1999 CHI vs. TOR L 22 15 5 7 71.4 4 6 66.7 1 1 100.0 0 1 1 2 1 1 2 2 2
+p262
+aVCharles R. Jones CHI 03/23/1999 CHI vs. TOR L 24 11 4 8 50.0 2 3 66.7 1 2 50.0 1 1 2 5 0 0 3 2 12
+p263
+aVBill Wennington CHI 03/21/1999 CHI @ BOS W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 4 -6
+p264
+aVKeith Booth CHI 03/21/1999 CHI @ BOS W 17 6 2 2 100.0 0 0 - 2 3 66.7 1 4 5 0 1 0 1 2 6
+p265
+aVBrent Barry CHI 03/21/1999 CHI @ BOS W 41 20 4 13 30.8 2 7 28.6 10 10 100.0 2 5 7 2 0 0 1 2 -6
+p266
+aVDickey Simpkins CHI 03/21/1999 CHI @ BOS W 43 13 4 11 36.4 0 0 - 5 5 100.0 6 5 11 0 1 0 3 5 3
+p267
+aVRon Harper CHI 03/21/1999 CHI @ BOS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p268
+aVToni Kukoc CHI 03/21/1999 CHI @ BOS W 44 20 9 26 34.6 0 3 0.0 2 3 66.7 2 6 8 5 0 0 6 1 4
+p269
+aVRandy Brown CHI 03/21/1999 CHI @ BOS W 44 16 6 18 33.3 0 2 0.0 4 7 57.1 3 8 11 8 4 0 3 6 13
+p270
+aVKornel David CHI 03/21/1999 CHI @ BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p271
+aVMark Bryant CHI 03/21/1999 CHI @ BOS W 37 18 8 12 66.7 0 0 - 2 4 50.0 2 4 6 1 0 0 0 5 7
+p272
+aVRusty LaRue CHI 03/21/1999 CHI @ BOS W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -5
+p273
+aVCory Carr CHI 03/21/1999 CHI @ BOS W 15 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 3 1 1 1 5
+p274
+aVToni Kukoc CHI 03/19/1999 CHI @ IND L 41 29 8 19 42.1 2 8 25.0 11 11 100.0 1 6 7 5 2 0 4 5 2
+p275
+aVRon Harper CHI 03/19/1999 CHI @ IND L 34 5 1 6 16.7 0 4 0.0 3 6 50.0 0 5 5 3 0 1 5 0 -6
+p276
+aVRusty LaRue CHI 03/19/1999 CHI @ IND L 14 4 2 6 33.3 0 4 0.0 0 0 - 0 0 0 1 1 0 1 3 2
+p277
+aVKornel David CHI 03/19/1999 CHI @ IND L 8 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -8
+p278
+aVBrent Barry CHI 03/19/1999 CHI @ IND L 36 16 5 12 41.7 2 5 40.0 4 4 100.0 2 2 4 2 0 0 1 5 -13
+p279
+aVRandy Brown CHI 03/19/1999 CHI @ IND L 40 9 2 8 25.0 0 2 0.0 5 6 83.3 1 5 6 2 2 0 4 2 -13
+p280
+aVKeith Booth CHI 03/19/1999 CHI @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p281
+aVDickey Simpkins CHI 03/19/1999 CHI @ IND L 20 10 3 4 75.0 0 0 - 4 5 80.0 0 4 4 1 1 0 0 4 0
+p282
+aVBill Wennington CHI 03/19/1999 CHI @ IND L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -3
+p283
+aVCory Carr CHI 03/19/1999 CHI @ IND L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p284
+aVMark Bryant CHI 03/19/1999 CHI @ IND L 30 10 4 4 100.0 0 0 - 2 2 100.0 4 0 4 1 2 0 1 2 0
+p285
+aVRandy Brown CHI 03/18/1999 CHI vs. NJN W 36 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 7 1 2 4 2 20
+p286
+aVKornel David CHI 03/18/1999 CHI vs. NJN W 18 7 1 2 50.0 0 1 0.0 5 5 100.0 0 6 6 2 0 0 0 4 7
+p287
+aVToni Kukoc CHI 03/18/1999 CHI vs. NJN W 38 21 7 16 43.8 1 3 33.3 6 9 66.7 2 9 11 7 1 1 3 1 9
+p288
+aVBrent Barry CHI 03/18/1999 CHI vs. NJN W 35 15 5 10 50.0 3 5 60.0 2 2 100.0 3 4 7 6 2 1 1 3 14
+p289
+aVRusty LaRue CHI 03/18/1999 CHI vs. NJN W 12 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 1 0 2 3 -11
+p290
+aVCory Carr CHI 03/18/1999 CHI vs. NJN W 11 3 1 4 25.0 1 1 100.0 0 0 - 1 2 3 2 0 0 0 0 -4
+p291
+aVDickey Simpkins CHI 03/18/1999 CHI vs. NJN W 35 17 7 12 58.3 0 0 - 3 6 50.0 4 3 7 1 0 0 1 2 11
+p292
+aVKeith Booth CHI 03/18/1999 CHI vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p293
+aVMark Bryant CHI 03/18/1999 CHI vs. NJN W 23 7 3 9 33.3 0 0 - 1 2 50.0 2 1 3 1 1 1 2 3 4
+p294
+aVRon Harper CHI 03/18/1999 CHI vs. NJN W 32 18 7 13 53.8 0 3 0.0 4 5 80.0 2 3 5 6 2 2 2 3 -2
+p295
+aVCorey Benjamin CHI 03/17/1999 CHI @ ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p296
+aVBill Wennington CHI 03/17/1999 CHI @ ORL L 11 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 3 5
+p297
+aVBrent Barry CHI 03/17/1999 CHI @ ORL L 29 4 2 5 40.0 0 3 0.0 0 0 - 2 2 4 2 2 0 1 1 -7
+p298
+aVRandy Brown CHI 03/17/1999 CHI @ ORL L 33 20 8 13 61.5 0 1 0.0 4 6 66.7 0 3 3 2 2 0 4 3 -5
+p299
+aVDickey Simpkins CHI 03/17/1999 CHI @ ORL L 34 15 5 8 62.5 0 0 - 5 6 83.3 2 1 3 3 0 1 1 3 -10
+p300
+aVKornel David CHI 03/17/1999 CHI @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p301
+aVRon Harper CHI 03/17/1999 CHI @ ORL L 36 13 6 14 42.9 1 3 33.3 0 0 - 3 7 10 4 2 0 5 2 -13
+p302
+aVCory Carr CHI 03/17/1999 CHI @ ORL L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 3 1 -1
+p303
+aVKeith Booth CHI 03/17/1999 CHI @ ORL L 5 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 1 1 -8
+p304
+aVAndrew Lang CHI 03/17/1999 CHI @ ORL L 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 0 6
+p305
+aVToni Kukoc CHI 03/17/1999 CHI @ ORL L 39 17 6 15 40.0 1 4 25.0 4 7 57.1 2 2 4 7 0 0 0 2 -3
+p306
+aVMark Bryant CHI 03/17/1999 CHI @ ORL L 32 14 7 15 46.7 0 0 - 0 0 - 5 2 7 2 1 2 3 2 -4
+p307
+aVRon Harper CHI 03/15/1999 CHI vs. CLE L 37 10 3 12 25.0 1 3 33.3 3 4 75.0 3 3 6 8 4 4 3 5 5
+p308
+aVRandy Brown CHI 03/15/1999 CHI vs. CLE L 34 7 2 6 33.3 0 0 - 3 4 75.0 0 4 4 4 0 0 2 2 -14
+p309
+aVCory Carr CHI 03/15/1999 CHI vs. CLE L 15 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p310
+aVCorey Benjamin CHI 03/15/1999 CHI vs. CLE L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 1
+p311
+aVToni Kukoc CHI 03/15/1999 CHI vs. CLE L 48 22 8 24 33.3 1 5 20.0 5 6 83.3 3 9 12 5 2 0 5 1 4
+p312
+aVAndrew Lang CHI 03/15/1999 CHI vs. CLE L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 2
+p313
+aVMark Bryant CHI 03/15/1999 CHI vs. CLE L 26 11 4 8 50.0 0 0 - 3 6 50.0 2 5 7 1 0 0 3 4 4
+p314
+aVKornel David CHI 03/15/1999 CHI vs. CLE L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p315
+aVBrent Barry CHI 03/15/1999 CHI vs. CLE L 42 11 4 12 33.3 0 6 0.0 3 4 75.0 4 5 9 6 0 0 1 1 -1
+p316
+aVDickey Simpkins CHI 03/15/1999 CHI vs. CLE L 44 14 6 14 42.9 0 0 - 2 4 50.0 4 6 10 2 1 0 1 6 -7
+p317
+aVBill Wennington CHI 03/15/1999 CHI vs. CLE L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p318
+aVCorey Benjamin CHI 03/12/1999 CHI vs. NYK W 12 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 0 2 0 2 3 -24
+p319
+aVAndrew Lang CHI 03/12/1999 CHI vs. NYK W 15 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 -14
+p320
+aVMark Bryant CHI 03/12/1999 CHI vs. NYK W 23 6 2 4 50.0 0 0 - 2 2 100.0 2 4 6 0 0 0 0 2 1
+p321
+aVCory Carr CHI 03/12/1999 CHI vs. NYK W 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -19
+p322
+aVKeith Booth CHI 03/12/1999 CHI vs. NYK W 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -13
+p323
+aVBill Wennington CHI 03/12/1999 CHI vs. NYK W 16 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 0 1 0 3 25
+p324
+aVRon Harper CHI 03/12/1999 CHI vs. NYK W 26 8 3 7 42.9 1 2 50.0 1 2 50.0 1 2 3 5 6 3 2 3 28
+p325
+aVKornel David CHI 03/12/1999 CHI vs. NYK W 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -13
+p326
+aVRandy Brown CHI 03/12/1999 CHI vs. NYK W 35 11 5 10 50.0 0 2 0.0 1 2 50.0 2 3 5 7 1 0 1 2 27
+p327
+aVBrent Barry CHI 03/12/1999 CHI vs. NYK W 24 2 0 7 0.0 0 4 0.0 2 3 66.7 1 1 2 2 0 0 2 4 6
+p328
+aVToni Kukoc CHI 03/12/1999 CHI vs. NYK W 30 25 8 15 53.3 4 5 80.0 5 5 100.0 0 6 6 2 1 1 5 3 35
+p329
+aVDickey Simpkins CHI 03/12/1999 CHI vs. NYK W 30 10 2 7 28.6 0 0 - 6 8 75.0 3 8 11 1 0 0 0 0 26
+p330
+aVKornel David CHI 03/11/1999 CHI vs. SEA L 12 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 1 3
+p331
+aVBrent Barry CHI 03/11/1999 CHI vs. SEA L 31 10 4 11 36.4 1 4 25.0 1 1 100.0 1 3 4 5 2 2 2 6 -11
+p332
+aVToni Kukoc CHI 03/11/1999 CHI vs. SEA L 43 28 12 25 48.0 0 4 0.0 4 6 66.7 1 10 11 4 0 1 2 3 -13
+p333
+aVCory Carr CHI 03/11/1999 CHI vs. SEA L 13 5 2 8 25.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 1 12
+p334
+aVRandy Brown CHI 03/11/1999 CHI vs. SEA L 39 10 2 7 28.6 0 1 0.0 6 6 100.0 0 2 2 5 1 0 1 4 -17
+p335
+aVCorey Benjamin CHI 03/11/1999 CHI vs. SEA L 4 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -9
+p336
+aVRon Harper CHI 03/11/1999 CHI vs. SEA L 31 9 4 10 40.0 1 4 25.0 0 0 - 2 3 5 4 1 3 2 4 2
+p337
+aVMark Bryant CHI 03/11/1999 CHI vs. SEA L 25 10 4 7 57.1 0 0 - 2 3 66.7 5 0 5 0 1 0 0 5 -4
+p338
+aVAndrew Lang CHI 03/11/1999 CHI vs. SEA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 9
+p339
+aVDickey Simpkins CHI 03/11/1999 CHI vs. SEA L 31 4 2 5 40.0 0 0 - 0 0 - 2 5 7 1 1 0 2 3 -20
+p340
+aVKeith Booth CHI 03/11/1999 CHI vs. SEA L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 3
+p341
+aVBrent Barry CHI 03/09/1999 CHI vs. NJN W 37 14 5 11 45.5 2 6 33.3 2 6 33.3 1 3 4 6 2 0 3 4 13
+p342
+aVToni Kukoc CHI 03/09/1999 CHI vs. NJN W 40 28 7 16 43.8 1 3 33.3 13 20 65.0 1 6 7 5 0 1 3 2 10
+p343
+aVKeith Booth CHI 03/09/1999 CHI vs. NJN W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p344
+aVRon Harper CHI 03/09/1999 CHI vs. NJN W 35 25 11 17 64.7 2 4 50.0 1 2 50.0 1 4 5 3 2 3 1 2 20
+p345
+aVCorey Benjamin CHI 03/09/1999 CHI vs. NJN W 7 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 2 -4
+p346
+aVDickey Simpkins CHI 03/09/1999 CHI vs. NJN W 31 12 6 9 66.7 0 0 - 0 0 - 2 6 8 0 1 0 2 3 14
+p347
+aVAndrew Lang CHI 03/09/1999 CHI vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p348
+aVRandy Brown CHI 03/09/1999 CHI vs. NJN W 36 16 5 7 71.4 0 0 - 6 6 100.0 0 5 5 4 5 0 3 5 6
+p349
+aVCory Carr CHI 03/09/1999 CHI vs. NJN W 15 6 3 8 37.5 0 0 - 0 0 - 1 1 2 2 0 0 0 2 12
+p350
+aVMark Bryant CHI 03/09/1999 CHI vs. NJN W 15 0 0 3 0.0 0 0 - 0 0 - 2 1 3 2 2 0 1 3 10
+p351
+aVKornel David CHI 03/09/1999 CHI vs. NJN W 12 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 1 0
+p352
+aVBill Wennington CHI 03/09/1999 CHI vs. NJN W 4 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p353
+aVMark Bryant CHI 03/08/1999 CHI @ MIL L 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 2 0
+p354
+aVCharles R. Jones CHI 03/08/1999 CHI @ MIL L 13 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 0 1 1 0 1 0
+p355
+aVRusty LaRue CHI 03/08/1999 CHI @ MIL L 4 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -3
+p356
+aVToni Kukoc CHI 03/08/1999 CHI @ MIL L 42 17 7 18 38.9 1 4 25.0 2 2 100.0 1 8 9 0 2 1 3 2 -12
+p357
+aVRandy Brown CHI 03/08/1999 CHI @ MIL L 43 18 8 17 47.1 0 1 0.0 2 3 66.7 2 2 4 8 3 0 2 2 -2
+p358
+aVCorey Benjamin CHI 03/08/1999 CHI @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p359
+aVBrent Barry CHI 03/08/1999 CHI @ MIL L 39 19 6 14 42.9 3 9 33.3 4 4 100.0 0 7 7 5 1 0 6 2 -2
+p360
+aVKornel David CHI 03/08/1999 CHI @ MIL L 14 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 2 6
+p361
+aVDickey Simpkins CHI 03/08/1999 CHI @ MIL L 37 10 3 4 75.0 0 0 - 4 4 100.0 1 6 7 2 0 0 1 4 -4
+p362
+aVRon Harper CHI 03/08/1999 CHI @ MIL L 33 6 2 10 20.0 1 3 33.3 1 2 50.0 2 4 6 5 2 0 4 3 -11
+p363
+aVKornel David CHI 03/03/1999 CHI @ PHI L 29 10 3 7 42.9 0 0 - 4 4 100.0 3 2 5 2 2 0 1 3 -16
+p364
+aVRandy Brown CHI 03/03/1999 CHI @ PHI L 29 8 4 10 40.0 0 0 - 0 0 - 1 2 3 1 2 2 1 2 -19
+p365
+aVDickey Simpkins CHI 03/03/1999 CHI @ PHI L 35 21 7 13 53.8 0 0 - 7 10 70.0 5 3 8 4 0 0 2 4 -13
+p366
+aVBill Wennington CHI 03/03/1999 CHI @ PHI L 6 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 2 0 8
+p367
+aVAndrew Lang CHI 03/03/1999 CHI @ PHI L 18 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 1 1 1 2 -9
+p368
+aVRon Harper CHI 03/03/1999 CHI @ PHI L 29 7 3 9 33.3 0 1 0.0 1 2 50.0 2 2 4 6 2 1 2 3 -15
+p369
+aVToni Kukoc CHI 03/03/1999 CHI @ PHI L 34 16 6 15 40.0 1 3 33.3 3 6 50.0 1 4 5 5 2 1 5 5 -9
+p370
+aVCorey Benjamin CHI 03/03/1999 CHI @ PHI L 18 7 2 5 40.0 0 1 0.0 3 4 75.0 1 1 2 2 0 0 4 2 -5
+p371
+aVRusty LaRue CHI 03/03/1999 CHI @ PHI L 13 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 5
+p372
+aVBrent Barry CHI 03/03/1999 CHI @ PHI L 21 4 2 5 40.0 0 2 0.0 0 0 - 1 0 1 1 0 1 2 2 -9
+p373
+aVCharles R. Jones CHI 03/03/1999 CHI @ PHI L 8 4 1 2 50.0 1 2 50.0 1 2 50.0 0 0 0 0 0 0 0 0 2
+p374
+aVCorey Benjamin CHI 03/02/1999 CHI vs. DET L 17 15 6 12 50.0 1 1 100.0 2 4 50.0 3 0 3 0 1 0 0 3 -4
+p375
+aVRandy Brown CHI 03/02/1999 CHI vs. DET L 28 14 7 12 58.3 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -28
+p376
+aVAndrew Lang CHI 03/02/1999 CHI vs. DET L 21 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 1 -9
+p377
+aVToni Kukoc CHI 03/02/1999 CHI vs. DET L 32 7 3 11 27.3 0 0 - 1 2 50.0 4 6 10 6 1 0 4 3 -23
+p378
+aVCharles R. Jones CHI 03/02/1999 CHI vs. DET L 18 2 1 7 14.3 0 3 0.0 0 0 - 1 1 2 3 1 1 0 0 -6
+p379
+aVBrent Barry CHI 03/02/1999 CHI vs. DET L 29 9 3 7 42.9 0 2 0.0 3 4 75.0 0 1 1 0 0 0 1 1 -22
+p380
+aVKornel David CHI 03/02/1999 CHI vs. DET L 23 6 3 7 42.9 0 0 - 0 0 - 1 3 4 2 4 1 2 2 -11
+p381
+aVDickey Simpkins CHI 03/02/1999 CHI vs. DET L 22 3 0 4 0.0 0 0 - 3 4 75.0 3 1 4 4 1 1 0 1 -15
+p382
+aVRusty LaRue CHI 03/02/1999 CHI vs. DET L 11 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 0 0 2 2 5
+p383
+aVBill Wennington CHI 03/02/1999 CHI vs. DET L 10 0 0 5 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -14
+p384
+aVRon Harper CHI 03/02/1999 CHI vs. DET L 28 11 4 10 40.0 0 1 0.0 3 5 60.0 2 2 4 0 2 0 2 2 -23
+p385
+aVAndrew Lang CHI 02/28/1999 CHI @ TOR W 11 0 0 3 0.0 0 0 - 0 2 0.0 1 2 3 0 1 0 0 4 0
+p386
+aVBrent Barry CHI 02/28/1999 CHI @ TOR W 43 19 8 18 44.4 1 4 25.0 2 3 66.7 4 7 11 3 1 1 2 1 15
+p387
+aVRandy Brown CHI 02/28/1999 CHI @ TOR W 41 17 7 12 58.3 0 0 - 3 3 100.0 2 7 9 3 0 0 2 4 9
+p388
+aVBill Wennington CHI 02/28/1999 CHI @ TOR W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -7
+p389
+aVDickey Simpkins CHI 02/28/1999 CHI @ TOR W 38 17 5 10 50.0 0 0 - 7 9 77.8 4 6 10 0 2 1 2 4 7
+p390
+aVToni Kukoc CHI 02/28/1999 CHI @ TOR W 47 18 5 18 27.8 1 3 33.3 7 8 87.5 2 4 6 9 1 0 1 2 9
+p391
+aVRon Harper CHI 02/28/1999 CHI @ TOR W 41 9 4 17 23.5 1 6 16.7 0 0 - 5 8 13 4 1 0 2 4 -10
+p392
+aVCorey Benjamin CHI 02/28/1999 CHI @ TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p393
+aVRusty LaRue CHI 02/28/1999 CHI @ TOR W 12 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p394
+aVKornel David CHI 02/28/1999 CHI @ TOR W 22 8 3 6 50.0 0 0 - 2 2 100.0 2 1 3 2 1 1 2 1 2
+p395
+aVRusty LaRue CHI 02/27/1999 CHI vs. CHH W 14 13 5 5 100.0 3 3 100.0 0 0 - 0 1 1 0 0 0 0 5 -5
+p396
+aVKornel David CHI 02/27/1999 CHI vs. CHH W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 3 -5
+p397
+aVRandy Brown CHI 02/27/1999 CHI vs. CHH W 34 14 7 9 77.8 0 0 - 0 1 0.0 2 5 7 5 4 0 2 3 22
+p398
+aVMark Bryant CHI 02/27/1999 CHI vs. CHH W 16 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 1 6
+p399
+aVToni Kukoc CHI 02/27/1999 CHI vs. CHH W 36 16 7 15 46.7 2 5 40.0 0 0 - 0 2 2 6 3 0 1 1 26
+p400
+aVBrent Barry CHI 02/27/1999 CHI vs. CHH W 27 9 2 10 20.0 1 7 14.3 4 5 80.0 1 3 4 5 1 1 0 4 -1
+p401
+aVAndrew Lang CHI 02/27/1999 CHI vs. CHH W 32 14 5 6 83.3 0 0 - 4 5 80.0 3 7 10 2 0 1 0 2 16
+p402
+aVCharles R. Jones CHI 02/27/1999 CHI vs. CHH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -1
+p403
+aVBill Wennington CHI 02/27/1999 CHI vs. CHH W 8 0 0 5 0.0 0 0 - 0 0 - 0 0 0 0 2 0 0 1 -3
+p404
+aVDickey Simpkins CHI 02/27/1999 CHI vs. CHH W 25 8 2 6 33.3 0 0 - 4 5 80.0 4 3 7 1 1 0 1 3 17
+p405
+aVRon Harper CHI 02/27/1999 CHI vs. CHH W 28 9 3 12 25.0 1 3 33.3 2 2 100.0 1 4 5 3 3 0 1 2 21
+p406
+aVCorey Benjamin CHI 02/27/1999 CHI vs. CHH W 10 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 2 1 -8
+p407
+aVToni Kukoc CHI 02/25/1999 CHI vs. PHI L 36 16 6 15 40.0 1 2 50.0 3 5 60.0 0 6 6 4 3 1 4 1 -15
+p408
+aVAndrew Lang CHI 02/25/1999 CHI vs. PHI L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 2
+p409
+aVRon Harper CHI 02/25/1999 CHI vs. PHI L 29 9 4 9 44.4 0 0 - 1 2 50.0 1 4 5 1 2 0 1 4 -12
+p410
+aVDickey Simpkins CHI 02/25/1999 CHI vs. PHI L 30 7 2 7 28.6 0 0 - 3 4 75.0 5 7 12 1 2 1 2 2 -23
+p411
+aVMark Bryant CHI 02/25/1999 CHI vs. PHI L 31 12 5 8 62.5 0 1 0.0 2 3 66.7 4 2 6 2 2 0 4 1 -9
+p412
+aVKornel David CHI 02/25/1999 CHI vs. PHI L 14 1 0 4 0.0 0 0 - 1 2 50.0 2 2 4 2 0 0 2 4 -4
+p413
+aVCharles R. Jones CHI 02/25/1999 CHI vs. PHI L 11 1 0 0 - 0 0 - 1 2 50.0 0 1 1 2 1 0 0 1 4
+p414
+aVRandy Brown CHI 02/25/1999 CHI vs. PHI L 32 8 3 9 33.3 0 0 - 2 2 100.0 1 1 2 3 0 0 5 2 -24
+p415
+aVCory Carr CHI 02/25/1999 CHI vs. PHI L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -2
+p416
+aVBrent Barry CHI 02/25/1999 CHI vs. PHI L 29 13 5 9 55.6 3 6 50.0 0 0 - 0 0 0 4 2 0 3 4 -11
+p417
+aVKeith Booth CHI 02/25/1999 CHI vs. PHI L 6 5 2 4 50.0 0 1 0.0 1 2 50.0 1 0 1 1 1 1 1 0 -1
+p418
+aVRusty LaRue CHI 02/25/1999 CHI vs. PHI L 8 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 5
+p419
+aVBrent Barry CHI 02/23/1999 CHI vs. MIL L 30 15 3 6 50.0 2 4 50.0 7 9 77.8 1 2 3 3 0 0 2 0 0
+p420
+aVKornel David CHI 02/23/1999 CHI vs. MIL L 20 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 3 4
+p421
+aVRon Harper CHI 02/23/1999 CHI vs. MIL L 25 11 4 12 33.3 1 2 50.0 2 2 100.0 2 4 6 2 0 1 0 1 -3
+p422
+aVMark Bryant CHI 02/23/1999 CHI vs. MIL L 32 16 6 10 60.0 0 0 - 4 4 100.0 2 4 6 2 0 1 2 5 3
+p423
+aVKeith Booth CHI 02/23/1999 CHI vs. MIL L 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -8
+p424
+aVCory Carr CHI 02/23/1999 CHI vs. MIL L 6 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 0 -1
+p425
+aVToni Kukoc CHI 02/23/1999 CHI vs. MIL L 39 19 7 20 35.0 2 6 33.3 3 3 100.0 2 9 11 7 1 0 3 2 2
+p426
+aVDickey Simpkins CHI 02/23/1999 CHI vs. MIL L 25 4 1 4 25.0 0 0 - 2 5 40.0 3 1 4 3 0 1 0 0 -5
+p427
+aVAndrew Lang CHI 02/23/1999 CHI vs. MIL L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 0 -1
+p428
+aVCharles R. Jones CHI 02/23/1999 CHI vs. MIL L 16 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 1 0 1 2 4
+p429
+aVRandy Brown CHI 02/23/1999 CHI vs. MIL L 20 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 3 2 1 0 1 1
+p430
+aVRusty LaRue CHI 02/23/1999 CHI vs. MIL L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p431
+aVRon Harper CHI 02/22/1999 CHI @ ATL W 27 10 5 8 62.5 0 0 - 0 2 0.0 1 4 5 2 1 3 0 2 15
+p432
+aVRusty LaRue CHI 02/22/1999 CHI @ ATL W 10 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -3
+p433
+aVDickey Simpkins CHI 02/22/1999 CHI @ ATL W 27 8 1 4 25.0 0 0 - 6 10 60.0 0 5 5 1 2 0 2 5 9
+p434
+aVMark Bryant CHI 02/22/1999 CHI @ ATL W 21 16 7 9 77.8 0 0 - 2 3 66.7 1 7 8 0 1 0 2 5 12
+p435
+aVRandy Brown CHI 02/22/1999 CHI @ ATL W 38 11 5 8 62.5 0 0 - 1 2 50.0 0 3 3 5 2 0 1 3 12
+p436
+aVKeith Booth CHI 02/22/1999 CHI @ ATL W 6 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 2 3 -1
+p437
+aVBrent Barry CHI 02/22/1999 CHI @ ATL W 25 9 2 12 16.7 1 6 16.7 4 4 100.0 0 1 1 3 0 0 2 1 -7
+p438
+aVToni Kukoc CHI 02/22/1999 CHI @ ATL W 42 11 5 13 38.5 1 2 50.0 0 0 - 0 10 10 6 1 0 3 1 10
+p439
+aVKornel David CHI 02/22/1999 CHI @ ATL W 13 6 3 5 60.0 0 0 - 0 0 - 3 2 5 2 1 2 1 2 2
+p440
+aVAndrew Lang CHI 02/22/1999 CHI @ ATL W 30 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -4
+p441
+aVRon Harper CHI 02/21/1999 CHI @ NYK L 28 9 3 9 33.3 1 2 50.0 2 2 100.0 0 2 2 3 2 1 1 1 -10
+p442
+aVDickey Simpkins CHI 02/21/1999 CHI @ NYK L 35 5 2 10 20.0 0 1 0.0 1 2 50.0 5 6 11 4 2 0 1 3 -19
+p443
+aVCory Carr CHI 02/21/1999 CHI @ NYK L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 1
+p444
+aVAndrew Lang CHI 02/21/1999 CHI @ NYK L 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 2 2 1
+p445
+aVRusty LaRue CHI 02/21/1999 CHI @ NYK L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -2
+p446
+aVToni Kukoc CHI 02/21/1999 CHI @ NYK L 40 16 6 19 31.6 0 2 0.0 4 4 100.0 1 8 9 1 1 0 5 0 -12
+p447
+aVKeith Booth CHI 02/21/1999 CHI @ NYK L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -2
+p448
+aVKornel David CHI 02/21/1999 CHI @ NYK L 15 5 2 5 40.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 2 -6
+p449
+aVBrent Barry CHI 02/21/1999 CHI @ NYK L 34 19 7 14 50.0 5 7 71.4 0 0 - 1 3 4 2 5 0 6 4 -21
+p450
+aVCharles R. Jones CHI 02/21/1999 CHI @ NYK L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 1 0 2 -11
+p451
+aVRandy Brown CHI 02/21/1999 CHI @ NYK L 15 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 1 0 1 0 1
+p452
+aVMark Bryant CHI 02/21/1999 CHI @ NYK L 27 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 1 1 1 3 3 0
+p453
+aVBrent Barry CHI 02/19/1999 CHI @ WAS L 33 22 8 11 72.7 4 6 66.7 2 3 66.7 0 5 5 6 1 1 3 3 -1
+p454
+aVKeith Booth CHI 02/19/1999 CHI @ WAS L 10 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 0 -7
+p455
+aVKornel David CHI 02/19/1999 CHI @ WAS L 7 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 1 0 1 0 0 -12
+p456
+aVToni Kukoc CHI 02/19/1999 CHI @ WAS L 42 18 7 16 43.8 0 3 0.0 4 4 100.0 0 3 3 4 2 2 7 3 5
+p457
+aVRon Harper CHI 02/19/1999 CHI @ WAS L 38 15 5 12 41.7 1 2 50.0 4 4 100.0 0 7 7 3 2 1 2 2 15
+p458
+aVCharles R. Jones CHI 02/19/1999 CHI @ WAS L 15 8 3 5 60.0 2 2 100.0 0 0 - 1 2 3 1 0 0 0 0 8
+p459
+aVCory Carr CHI 02/19/1999 CHI @ WAS L 10 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -17
+p460
+aVMark Bryant CHI 02/19/1999 CHI @ WAS L 20 6 3 5 60.0 0 0 - 0 0 - 1 6 7 0 0 1 3 3 0
+p461
+aVAndrew Lang CHI 02/19/1999 CHI @ WAS L 10 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -1
+p462
+aVRandy Brown CHI 02/19/1999 CHI @ WAS L 22 8 3 4 75.0 0 0 - 2 4 50.0 0 3 3 3 1 0 0 4 0
+p463
+aVDickey Simpkins CHI 02/19/1999 CHI @ WAS L 32 9 2 4 50.0 0 0 - 5 6 83.3 1 4 5 1 1 0 0 2 0
+p464
+aVDickey Simpkins CHI 02/17/1999 CHI @ MIL L 23 8 2 3 66.7 0 0 - 4 6 66.7 0 5 5 3 0 0 0 1 3
+p465
+aVCharles R. Jones CHI 02/17/1999 CHI @ MIL L 26 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 1 0 0 1 1 0
+p466
+aVKornel David CHI 02/17/1999 CHI @ MIL L 19 10 3 4 75.0 0 0 - 4 4 100.0 0 4 4 3 1 1 0 4 8
+p467
+aVToni Kukoc CHI 02/17/1999 CHI @ MIL L 40 20 7 14 50.0 0 2 0.0 6 8 75.0 1 3 4 3 2 0 0 1 -11
+p468
+aVAndrew Lang CHI 02/17/1999 CHI @ MIL L 18 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -11
+p469
+aVBrent Barry CHI 02/17/1999 CHI @ MIL L 25 4 2 6 33.3 0 1 0.0 0 1 0.0 0 1 1 2 1 1 3 5 -17
+p470
+aVKeith Booth CHI 02/17/1999 CHI @ MIL L 16 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 1 0 0 2 2
+p471
+aVCory Carr CHI 02/17/1999 CHI @ MIL L 21 6 2 13 15.4 0 3 0.0 2 2 100.0 0 0 0 2 0 0 0 1 3
+p472
+aVRusty LaRue CHI 02/17/1999 CHI @ MIL L 25 10 4 10 40.0 2 3 66.7 0 0 - 0 2 2 0 1 0 0 2 -8
+p473
+aVMark Bryant CHI 02/17/1999 CHI @ MIL L 27 7 2 8 25.0 0 0 - 3 4 75.0 1 4 5 1 0 0 3 5 -9
+p474
+aVAndrew Lang CHI 02/16/1999 CHI vs. ATL L 26 6 3 12 25.0 0 0 - 0 0 - 3 4 7 0 0 1 3 1 3
+p475
+aVCory Carr CHI 02/16/1999 CHI vs. ATL L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 2 2 -4
+p476
+aVCharles R. Jones CHI 02/16/1999 CHI vs. ATL L 5 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -4
+p477
+aVBrent Barry CHI 02/16/1999 CHI vs. ATL L 27 10 4 13 30.8 0 6 0.0 2 2 100.0 3 2 5 5 2 0 0 3 -14
+p478
+aVBill Wennington CHI 02/16/1999 CHI vs. ATL L 14 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 4 -14
+p479
+aVRusty LaRue CHI 02/16/1999 CHI vs. ATL L 17 3 1 6 16.7 1 5 20.0 0 0 - 0 1 1 2 0 0 0 2 -8
+p480
+aVKeith Booth CHI 02/16/1999 CHI vs. ATL L 11 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 0 0 1 2 -8
+p481
+aVToni Kukoc CHI 02/16/1999 CHI vs. ATL L 43 27 11 24 45.8 1 5 20.0 4 6 66.7 3 7 10 6 1 0 3 2 -6
+p482
+aVCorey Benjamin CHI 02/16/1999 CHI vs. ATL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p483
+aVMark Bryant CHI 02/16/1999 CHI vs. ATL L 38 9 4 7 57.1 0 0 - 1 2 50.0 1 7 8 2 0 1 1 6 -7
+p484
+aVDickey Simpkins CHI 02/16/1999 CHI vs. ATL L 18 2 1 2 50.0 0 0 - 0 0 - 2 5 7 1 1 0 1 2 -12
+p485
+aVRon Harper CHI 02/16/1999 CHI vs. ATL L 31 5 1 6 16.7 0 1 0.0 3 4 75.0 0 0 0 0 2 1 2 1 -2
+p486
+aVKornel David CHI 02/16/1999 CHI vs. ATL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p487
+aVAndrew Lang CHI 02/14/1999 CHI vs. SAS L 29 4 2 10 20.0 0 0 - 0 0 - 1 8 9 1 0 0 0 5 -11
+p488
+aVBill Wennington CHI 02/14/1999 CHI vs. SAS L 15 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 0 1 0 1 4 -4
+p489
+aVToni Kukoc CHI 02/14/1999 CHI vs. SAS L 38 27 11 24 45.8 2 3 66.7 3 3 100.0 1 10 11 8 1 0 2 4 -11
+p490
+aVRusty LaRue CHI 02/14/1999 CHI vs. SAS L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p491
+aVBrent Barry CHI 02/14/1999 CHI vs. SAS L 30 7 2 6 33.3 1 3 33.3 2 2 100.0 3 1 4 2 2 0 1 1 -9
+p492
+aVDickey Simpkins CHI 02/14/1999 CHI vs. SAS L 9 2 0 1 0.0 0 0 - 2 4 50.0 0 3 3 0 1 0 1 0 -3
+p493
+aVCorey Benjamin CHI 02/14/1999 CHI vs. SAS L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p494
+aVRon Harper CHI 02/14/1999 CHI vs. SAS L 33 9 4 15 26.7 0 1 0.0 1 2 50.0 1 3 4 4 3 1 2 3 -3
+p495
+aVRandy Brown CHI 02/14/1999 CHI vs. SAS L 19 6 3 6 50.0 0 0 - 0 0 - 1 0 1 1 1 0 1 0 -12
+p496
+aVKornel David CHI 02/14/1999 CHI vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p497
+aVKeith Booth CHI 02/14/1999 CHI vs. SAS L 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 1 0 2 0 -2
+p498
+aVMark Bryant CHI 02/14/1999 CHI vs. SAS L 26 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 3 0 0 4 -5
+p499
+aVCory Carr CHI 02/14/1999 CHI vs. SAS L 19 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -1
+p500
+aVRandy Brown CHI 02/11/1999 CHI vs. NYK L 15 6 3 7 42.9 0 0 - 0 0 - 1 0 1 1 1 0 1 4 -8
+p501
+aVMario Bennett CHI 02/11/1999 CHI vs. NYK L 11 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 1 0 1 4 -1
+p502
+aVKornel David CHI 02/11/1999 CHI vs. NYK L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p503
+aVRusty LaRue CHI 02/11/1999 CHI vs. NYK L 17 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 1 0 0 1 2 3
+p504
+aVMark Bryant CHI 02/11/1999 CHI vs. NYK L 25 7 2 5 40.0 0 0 - 3 4 75.0 4 7 11 0 1 0 3 3 -3
+p505
+aVBrent Barry CHI 02/11/1999 CHI vs. NYK L 39 15 3 9 33.3 2 5 40.0 7 8 87.5 0 6 6 3 2 0 1 2 -7
+p506
+aVDickey Simpkins CHI 02/11/1999 CHI vs. NYK L 12 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 2 2 -4
+p507
+aVRon Harper CHI 02/11/1999 CHI vs. NYK L 35 4 0 7 0.0 0 2 0.0 4 5 80.0 1 1 2 4 1 1 1 2 4
+p508
+aVToni Kukoc CHI 02/11/1999 CHI vs. NYK L 41 11 4 22 18.2 0 4 0.0 3 4 75.0 4 5 9 4 1 0 4 2 3
+p509
+aVAndrew Lang CHI 02/11/1999 CHI vs. NYK L 27 4 1 9 11.1 0 0 - 2 2 100.0 5 7 12 1 0 2 2 4 -9
+p510
+aVBill Wennington CHI 02/11/1999 CHI vs. NYK L 12 8 4 9 44.4 0 0 - 0 0 - 1 2 3 0 0 0 0 1 5
+p511
+aVCory Carr CHI 02/09/1999 CHI vs. ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p512
+aVAndrew Lang CHI 02/09/1999 CHI vs. ATL L 34 8 4 13 30.8 0 0 - 0 0 - 6 4 10 1 0 2 1 3 -14
+p513
+aVRon Harper CHI 02/09/1999 CHI vs. ATL L 36 8 4 12 33.3 0 1 0.0 0 0 - 2 2 4 4 1 1 3 4 -17
+p514
+aVBrent Barry CHI 02/09/1999 CHI vs. ATL L 28 4 2 8 25.0 0 4 0.0 0 2 0.0 0 1 1 0 2 0 3 5 -12
+p515
+aVDickey Simpkins CHI 02/09/1999 CHI vs. ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p516
+aVToni Kukoc CHI 02/09/1999 CHI vs. ATL L 42 16 6 21 28.6 1 6 16.7 3 6 50.0 2 7 9 7 2 0 1 2 -12
+p517
+aVBill Wennington CHI 02/09/1999 CHI vs. ATL L 15 6 3 8 37.5 0 0 - 0 2 0.0 2 0 2 1 0 0 1 3 0
+p518
+aVKornel David CHI 02/09/1999 CHI vs. ATL L 17 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 2 0 2 -3
+p519
+aVCorey Benjamin CHI 02/09/1999 CHI vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p520
+aVMark Bryant CHI 02/09/1999 CHI vs. ATL L 32 16 8 11 72.7 0 0 - 0 2 0.0 4 2 6 0 2 0 0 5 -16
+p521
+aVRandy Brown CHI 02/09/1999 CHI vs. ATL L 23 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 3 1 1 1 2 3
+p522
+aVRusty LaRue CHI 02/09/1999 CHI vs. ATL L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -4
+p523
+aVDickey Simpkins CHI 02/07/1999 CHI @ LAC W 12 1 0 1 0.0 0 0 - 1 4 25.0 0 0 0 1 0 0 0 1 7
+p524
+aVBill Wennington CHI 02/07/1999 CHI @ LAC W 18 9 3 7 42.9 1 1 100.0 2 2 100.0 1 3 4 0 1 1 0 4 -4
+p525
+aVMark Bryant CHI 02/07/1999 CHI @ LAC W 23 11 4 9 44.4 0 0 - 3 4 75.0 5 3 8 0 1 0 3 3 12
+p526
+aVAndrew Lang CHI 02/07/1999 CHI @ LAC W 34 7 2 10 20.0 0 0 - 3 6 50.0 7 7 14 0 0 2 3 5 5
+p527
+aVToni Kukoc CHI 02/07/1999 CHI @ LAC W 44 22 9 19 47.4 0 2 0.0 4 6 66.7 7 2 9 11 0 0 3 3 15
+p528
+aVBrent Barry CHI 02/07/1999 CHI @ LAC W 42 15 4 12 33.3 2 7 28.6 5 7 71.4 1 3 4 1 0 0 0 2 5
+p529
+aVKornel David CHI 02/07/1999 CHI @ LAC W 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 2 0 -10
+p530
+aVRandy Brown CHI 02/07/1999 CHI @ LAC W 16 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -3
+p531
+aVRon Harper CHI 02/07/1999 CHI @ LAC W 38 20 6 12 50.0 0 1 0.0 8 10 80.0 1 6 7 2 1 1 2 3 8
+p532
+aVCorey Benjamin CHI 02/07/1999 CHI @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -7
+p533
+aVMario Bennett CHI 02/07/1999 CHI @ LAC W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p534
+aVMario Bennett CHI 02/05/1999 CHI @ UTA L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -6
+p535
+aVCory Carr CHI 02/05/1999 CHI @ UTA L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 0 4 -10
+p536
+aVAndrew Lang CHI 02/05/1999 CHI @ UTA L 24 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 0 0 3 -11
+p537
+aVToni Kukoc CHI 02/05/1999 CHI @ UTA L 35 32 12 23 52.2 1 2 50.0 7 12 58.3 1 4 5 1 0 0 2 3 -3
+p538
+aVRandy Brown CHI 02/05/1999 CHI @ UTA L 18 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 2 0 0 4 -6
+p539
+aVRusty LaRue CHI 02/05/1999 CHI @ UTA L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 1 0 1 0 -3
+p540
+aVKornel David CHI 02/05/1999 CHI @ UTA L 12 11 5 8 62.5 0 0 - 1 1 100.0 3 1 4 0 1 0 1 1 -15
+p541
+aVDickey Simpkins CHI 02/05/1999 CHI @ UTA L 22 5 2 2 100.0 0 0 - 1 1 100.0 2 2 4 0 1 0 2 1 6
+p542
+aVRon Harper CHI 02/05/1999 CHI @ UTA L 41 18 6 18 33.3 3 4 75.0 3 4 75.0 1 3 4 5 1 2 2 4 -1
+p543
+aVMark Bryant CHI 02/05/1999 CHI @ UTA L 28 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 0 0 1 1 5 7
+p544
+aVKeith Booth CHI 02/05/1999 CHI @ UTA L 4 0 0 4 0.0 0 0 - 0 0 - 3 1 4 1 0 0 1 1 -2
+p545
+aVBill Wennington CHI 02/05/1999 CHI @ UTA L 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -5
+p546
+aVBrent Barry CHI 02/05/1999 CHI @ UTA L 30 13 5 9 55.6 2 5 40.0 1 2 50.0 2 3 5 4 2 0 2 6 9
+p547
+a.

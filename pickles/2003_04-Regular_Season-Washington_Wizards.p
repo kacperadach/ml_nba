@@ -1,0 +1,1652 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMitchell Butler WAS 04/14/2004 WAS vs. NOH L 15 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 0 1 0 1 0 -18
+p2
+aVJarvis Hayes WAS 04/14/2004 WAS vs. NOH L 33 15 5 10 50.0 1 4 25.0 4 6 66.7 1 2 3 0 1 0 0 1 2
+p3
+aVLonny Baxter WAS 04/14/2004 WAS vs. NOH L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 2 -7
+p4
+aVSteve Blake WAS 04/14/2004 WAS vs. NOH L 30 3 1 9 11.1 1 5 20.0 0 0 - 0 2 2 3 1 1 3 0 4
+p5
+aVJuan Dixon WAS 04/14/2004 WAS vs. NOH L 21 8 3 11 27.3 1 5 20.0 1 2 50.0 1 1 2 1 1 0 1 2 -18
+p6
+aVLarry Hughes WAS 04/14/2004 WAS vs. NOH L 26 8 3 10 30.0 0 1 0.0 2 2 100.0 0 5 5 2 0 1 0 2 7
+p7
+aVGilbert Arenas WAS 04/14/2004 WAS vs. NOH L 20 2 0 5 0.0 0 3 0.0 2 4 50.0 0 2 2 2 1 0 4 2 -25
+p8
+aVEtan Thomas WAS 04/14/2004 WAS vs. NOH L 30 16 6 9 66.7 0 0 - 4 6 66.7 1 5 6 0 3 0 2 3 -18
+p9
+aVJared Jeffries WAS 04/14/2004 WAS vs. NOH L 35 13 4 8 50.0 0 0 - 5 6 83.3 5 6 11 1 0 0 2 4 -9
+p10
+aVBrendan Haywood WAS 04/14/2004 WAS vs. NOH L 18 8 4 5 80.0 0 0 - 0 0 - 1 4 5 2 0 0 0 2 2
+p11
+aVMitchell Butler WAS 04/12/2004 WAS @ DET L 9 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 1 1 0 1 0 3
+p12
+aVEtan Thomas WAS 04/12/2004 WAS @ DET L 27 4 2 5 40.0 0 0 - 0 0 - 3 2 5 0 2 3 5 4 -20
+p13
+aVGilbert Arenas WAS 04/12/2004 WAS @ DET L 27 20 6 11 54.5 3 5 60.0 5 7 71.4 0 1 1 1 3 2 2 1 -21
+p14
+aVLarry Hughes WAS 04/12/2004 WAS @ DET L 30 19 7 17 41.2 0 3 0.0 5 6 83.3 1 3 4 5 3 0 2 1 -4
+p15
+aVJared Jeffries WAS 04/12/2004 WAS @ DET L 34 7 3 8 37.5 0 0 - 1 1 100.0 3 7 10 3 1 0 4 3 -19
+p16
+aVJuan Dixon WAS 04/12/2004 WAS @ DET L 10 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -14
+p17
+aVLonny Baxter WAS 04/12/2004 WAS @ DET L 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -3
+p18
+aVBrendan Haywood WAS 04/12/2004 WAS @ DET L 21 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 0 1 1 2 -2
+p19
+aVSteve Blake WAS 04/12/2004 WAS @ DET L 38 14 4 10 40.0 3 8 37.5 3 3 100.0 0 1 1 7 1 0 3 2 -8
+p20
+aVJarvis Hayes WAS 04/12/2004 WAS @ DET L 30 9 4 12 33.3 0 2 0.0 1 2 50.0 0 1 1 0 2 0 4 4 -22
+p21
+aVBrendan Haywood WAS 04/10/2004 WAS vs. NYK L 21 9 2 4 50.0 0 0 - 5 8 62.5 4 3 7 1 0 0 1 0 3
+p22
+aVJuan Dixon WAS 04/10/2004 WAS vs. NYK L 25 13 4 12 33.3 1 4 25.0 4 4 100.0 1 1 2 0 2 0 2 2 -11
+p23
+aVJarvis Hayes WAS 04/10/2004 WAS vs. NYK L 37 23 10 19 52.6 2 4 50.0 1 1 100.0 2 0 2 5 2 0 0 3 3
+p24
+aVSteve Blake WAS 04/10/2004 WAS vs. NYK L 27 10 3 9 33.3 2 6 33.3 2 2 100.0 0 0 0 1 1 0 2 2 -15
+p25
+aVMitchell Butler WAS 04/10/2004 WAS vs. NYK L 16 5 2 5 40.0 1 1 100.0 0 0 - 1 4 5 0 1 0 1 2 -7
+p26
+aVLonny Baxter WAS 04/10/2004 WAS vs. NYK L 18 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 0 0 2 0 5 -3
+p27
+aVEtan Thomas WAS 04/10/2004 WAS vs. NYK L 32 17 6 10 60.0 0 0 - 5 7 71.4 3 5 8 1 0 1 3 2 -7
+p28
+aVGilbert Arenas WAS 04/10/2004 WAS vs. NYK L 28 5 2 9 22.2 1 5 20.0 0 0 - 0 3 3 5 2 0 4 2 7
+p29
+aVLarry Hughes WAS 04/10/2004 WAS vs. NYK L 26 9 4 8 50.0 1 3 33.3 0 0 - 0 7 7 4 1 0 2 2 11
+p30
+aVJared Jeffries WAS 04/10/2004 WAS vs. NYK L 35 2 1 2 50.0 0 0 - 0 4 0.0 3 8 11 3 0 0 3 2 -1
+p31
+aVJerry Stackhouse WAS 04/09/2004 WAS @ PHI W 24 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 0 0 0 4 1 -2
+p32
+aVEtan Thomas WAS 04/09/2004 WAS @ PHI W 20 11 5 10 50.0 0 0 - 1 2 50.0 2 4 6 0 0 1 0 1 -4
+p33
+aVGilbert Arenas WAS 04/09/2004 WAS @ PHI W 43 22 7 19 36.8 5 11 45.5 3 4 75.0 0 2 2 9 2 0 4 2 5
+p34
+aVBrendan Haywood WAS 04/09/2004 WAS @ PHI W 29 7 2 3 66.7 0 0 - 3 4 75.0 3 4 7 2 0 4 1 2 8
+p35
+aVMitchell Butler WAS 04/09/2004 WAS @ PHI W 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p36
+aVSteve Blake WAS 04/09/2004 WAS @ PHI W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 1
+p37
+aVJarvis Hayes WAS 04/09/2004 WAS @ PHI W 24 3 1 6 16.7 1 2 50.0 0 0 - 0 0 0 0 1 0 1 1 2
+p38
+aVJared Jeffries WAS 04/09/2004 WAS @ PHI W 42 4 2 7 28.6 0 0 - 0 0 - 7 10 17 2 1 1 2 4 1
+p39
+aVLarry Hughes WAS 04/09/2004 WAS @ PHI W 33 19 7 16 43.8 2 6 33.3 3 5 60.0 3 3 6 2 1 0 0 1 6
+p40
+aVJuan Dixon WAS 04/09/2004 WAS @ PHI W 15 6 3 6 50.0 0 1 0.0 0 2 0.0 0 2 2 4 0 0 1 1 0
+p41
+aVKwame Brown WAS 04/07/2004 WAS @ MIL L 36 11 3 9 33.3 0 0 - 5 8 62.5 4 2 6 2 0 0 0 1 -1
+p42
+aVSteve Blake WAS 04/07/2004 WAS @ MIL L 22 11 4 6 66.7 3 5 60.0 0 0 - 1 1 2 5 1 0 2 2 2
+p43
+aVJuan Dixon WAS 04/07/2004 WAS @ MIL L 15 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 1 0 2 5 4
+p44
+aVMitchell Butler WAS 04/07/2004 WAS @ MIL L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 2
+p45
+aVJerry Stackhouse WAS 04/07/2004 WAS @ MIL L 26 18 6 16 37.5 2 5 40.0 4 6 66.7 1 3 4 5 1 0 1 2 -6
+p46
+aVLarry Hughes WAS 04/07/2004 WAS @ MIL L 25 19 5 13 38.5 3 6 50.0 6 8 75.0 0 2 2 1 1 0 2 3 -18
+p47
+aVBrendan Haywood WAS 04/07/2004 WAS @ MIL L 18 3 0 3 0.0 0 0 - 3 4 75.0 5 2 7 2 0 2 1 2 -1
+p48
+aVGilbert Arenas WAS 04/07/2004 WAS @ MIL L 29 11 3 10 30.0 2 6 33.3 3 4 75.0 1 2 3 2 3 0 1 4 -8
+p49
+aVJared Jeffries WAS 04/07/2004 WAS @ MIL L 22 12 5 7 71.4 0 0 - 2 3 66.7 3 2 5 2 0 0 1 6 -5
+p50
+aVJarvis Hayes WAS 04/07/2004 WAS @ MIL L 17 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -17
+p51
+aVEtan Thomas WAS 04/07/2004 WAS @ MIL L 25 12 4 8 50.0 0 0 - 4 5 80.0 2 7 9 0 0 1 3 4 3
+p52
+aVLonny Baxter WAS 04/04/2004 WAS vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p53
+aVJarvis Hayes WAS 04/04/2004 WAS vs. BOS W 25 8 3 8 37.5 0 2 0.0 2 3 66.7 0 3 3 3 1 0 1 1 4
+p54
+aVKwame Brown WAS 04/04/2004 WAS vs. BOS W 36 7 3 6 50.0 0 0 - 1 4 25.0 3 5 8 1 0 1 1 1 12
+p55
+aVJared Jeffries WAS 04/04/2004 WAS vs. BOS W 27 11 4 6 66.7 0 1 0.0 3 4 75.0 1 4 5 3 1 0 1 3 17
+p56
+aVEtan Thomas WAS 04/04/2004 WAS vs. BOS W 19 10 5 6 83.3 0 0 - 0 0 - 3 3 6 2 0 3 2 6 -4
+p57
+aVMitchell Butler WAS 04/04/2004 WAS vs. BOS W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 4 2 0 1 0 2
+p58
+aVBrendan Haywood WAS 04/04/2004 WAS vs. BOS W 23 9 4 5 80.0 0 0 - 1 2 50.0 2 2 4 1 0 1 2 2 7
+p59
+aVLarry Hughes WAS 04/04/2004 WAS vs. BOS W 40 31 9 21 42.9 4 6 66.7 9 11 81.8 2 4 6 3 1 1 5 1 18
+p60
+aVSteve Blake WAS 04/04/2004 WAS vs. BOS W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 4 1 0 3 1 -11
+p61
+aVGilbert Arenas WAS 04/04/2004 WAS vs. BOS W 42 32 10 15 66.7 6 9 66.7 6 7 85.7 1 3 4 4 5 0 4 2 13
+p62
+aVEtan Thomas WAS 04/02/2004 WAS @ MIN L 19 4 1 6 16.7 0 0 - 2 2 100.0 0 3 3 1 0 2 0 1 -7
+p63
+aVSteve Blake WAS 04/02/2004 WAS @ MIN L 18 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 3 0 1 3 0 -13
+p64
+aVJared Jeffries WAS 04/02/2004 WAS @ MIN L 26 4 1 3 33.3 0 0 - 2 4 50.0 0 4 4 1 0 0 2 3 0
+p65
+aVBrendan Haywood WAS 04/02/2004 WAS @ MIN L 32 8 2 5 40.0 0 0 - 4 6 66.7 5 4 9 1 0 1 0 4 -11
+p66
+aVJuan Dixon WAS 04/02/2004 WAS @ MIN L 24 11 5 12 41.7 1 3 33.3 0 0 - 2 2 4 1 1 0 2 1 -9
+p67
+aVLonny Baxter WAS 04/02/2004 WAS @ MIN L 24 12 4 9 44.4 0 1 0.0 4 4 100.0 6 4 10 2 0 2 0 1 -15
+p68
+aVJerry Stackhouse WAS 04/02/2004 WAS @ MIN L 41 14 6 18 33.3 0 3 0.0 2 2 100.0 2 3 5 3 2 0 4 1 -16
+p69
+aVGilbert Arenas WAS 04/02/2004 WAS @ MIN L 33 12 4 16 25.0 2 6 33.3 2 2 100.0 0 4 4 2 1 0 6 3 -11
+p70
+aVMitchell Butler WAS 04/02/2004 WAS @ MIN L 23 5 2 6 33.3 0 1 0.0 1 2 50.0 4 3 7 1 0 0 0 1 -8
+p71
+aVLonny Baxter WAS 03/31/2004 WAS vs. NJN L 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 3 5
+p72
+aVGilbert Arenas WAS 03/31/2004 WAS vs. NJN L 50 29 9 25 36.0 3 9 33.3 8 9 88.9 0 1 1 4 4 0 7 4 -4
+p73
+aVBrendan Haywood WAS 03/31/2004 WAS vs. NJN L 22 8 2 3 66.7 0 0 - 4 5 80.0 1 3 4 0 0 1 2 0 2
+p74
+aVSteve Blake WAS 03/31/2004 WAS vs. NJN L 23 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 1 0 0 3 3 11
+p75
+aVMitchell Butler WAS 03/31/2004 WAS vs. NJN L 30 10 4 10 40.0 2 4 50.0 0 0 - 0 7 7 1 1 0 1 5 -5
+p76
+aVEtan Thomas WAS 03/31/2004 WAS vs. NJN L 33 7 1 4 25.0 0 0 - 5 8 62.5 2 5 7 1 0 1 2 3 -6
+p77
+aVLarry Hughes WAS 03/31/2004 WAS vs. NJN L 43 22 6 22 27.3 3 5 60.0 7 9 77.8 5 8 13 3 2 1 5 4 -14
+p78
+aVJared Jeffries WAS 03/31/2004 WAS vs. NJN L 43 12 2 8 25.0 0 1 0.0 8 10 80.0 3 4 7 1 3 0 2 0 -13
+p79
+aVJerry Stackhouse WAS 03/31/2004 WAS vs. NJN L 8 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 1 1 0 0 3 4
+p80
+aVBrendan Haywood WAS 03/29/2004 WAS @ PHX L 23 4 2 3 66.7 0 1 0.0 0 2 0.0 2 5 7 1 2 0 0 4 -2
+p81
+aVChris Whitney WAS 03/29/2004 WAS @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p82
+aVJared Jeffries WAS 03/29/2004 WAS @ PHX L 38 10 4 17 23.5 1 2 50.0 1 2 50.0 6 3 9 2 1 1 3 4 3
+p83
+aVMitchell Butler WAS 03/29/2004 WAS @ PHX L 17 2 1 3 33.3 0 1 0.0 0 1 0.0 1 0 1 2 0 0 1 1 -1
+p84
+aVChristian Laettner WAS 03/29/2004 WAS @ PHX L 16 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 2 0 1 3 -12
+p85
+aVLarry Hughes WAS 03/29/2004 WAS @ PHX L 45 32 10 24 41.7 0 4 0.0 12 17 70.6 2 5 7 1 2 1 3 4 0
+p86
+aVKwame Brown WAS 03/29/2004 WAS @ PHX L 27 3 1 3 33.3 0 0 - 1 4 25.0 0 3 3 1 1 0 0 2 -2
+p87
+aVEtan Thomas WAS 03/29/2004 WAS @ PHX L 23 8 3 6 50.0 0 0 - 2 4 50.0 2 6 8 0 0 1 0 3 -4
+p88
+aVGilbert Arenas WAS 03/29/2004 WAS @ PHX L 46 30 10 23 43.5 2 7 28.6 8 11 72.7 1 3 4 4 0 0 5 4 -3
+p89
+aVKwame Brown WAS 03/28/2004 WAS @ SAC L 42 18 5 15 33.3 0 0 - 8 10 80.0 5 10 15 1 1 0 3 4 -7
+p90
+aVEtan Thomas WAS 03/28/2004 WAS @ SAC L 29 9 4 6 66.7 0 0 - 1 6 16.7 3 6 9 1 2 4 1 4 1
+p91
+aVBrendan Haywood WAS 03/28/2004 WAS @ SAC L 18 7 3 6 50.0 0 0 - 1 2 50.0 4 4 8 1 0 2 3 3 -9
+p92
+aVChris Whitney WAS 03/28/2004 WAS @ SAC L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p93
+aVChristian Laettner WAS 03/28/2004 WAS @ SAC L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p94
+aVGilbert Arenas WAS 03/28/2004 WAS @ SAC L 44 27 7 22 31.8 1 6 16.7 12 14 85.7 1 5 6 2 1 0 3 3 -10
+p95
+aVLarry Hughes WAS 03/28/2004 WAS @ SAC L 41 18 8 20 40.0 0 4 0.0 2 3 66.7 4 3 7 4 2 2 2 1 -6
+p96
+aVMitchell Butler WAS 03/28/2004 WAS @ SAC L 13 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p97
+aVJerry Stackhouse WAS 03/28/2004 WAS @ SAC L 25 7 2 9 22.2 1 4 25.0 2 2 100.0 1 4 5 6 3 0 6 2 0
+p98
+aVJared Jeffries WAS 03/28/2004 WAS @ SAC L 21 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 0 0 1 2 -12
+p99
+aVEtan Thomas WAS 03/26/2004 WAS @ GSW L 23 16 5 8 62.5 0 0 - 6 8 75.0 3 5 8 0 0 1 1 1 -5
+p100
+aVBrendan Haywood WAS 03/26/2004 WAS @ GSW L 17 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 0 2 2 2 -10
+p101
+aVKwame Brown WAS 03/26/2004 WAS @ GSW L 25 8 3 6 50.0 0 0 - 2 4 50.0 2 6 8 0 0 0 0 1 -16
+p102
+aVLarry Hughes WAS 03/26/2004 WAS @ GSW L 33 12 3 13 23.1 0 3 0.0 6 6 100.0 3 3 6 3 2 1 3 3 -19
+p103
+aVJared Jeffries WAS 03/26/2004 WAS @ GSW L 27 4 1 6 16.7 0 0 - 2 4 50.0 0 1 1 0 0 0 3 5 -9
+p104
+aVChris Whitney WAS 03/26/2004 WAS @ GSW L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p105
+aVJuan Dixon WAS 03/26/2004 WAS @ GSW L 18 11 3 8 37.5 1 1 100.0 4 4 100.0 1 3 4 3 1 0 1 0 -7
+p106
+aVJerry Stackhouse WAS 03/26/2004 WAS @ GSW L 22 8 4 9 44.4 0 0 - 0 0 - 1 1 2 2 0 0 2 2 -9
+p107
+aVGilbert Arenas WAS 03/26/2004 WAS @ GSW L 28 11 3 10 30.0 0 1 0.0 5 7 71.4 0 0 0 1 1 0 3 5 -20
+p108
+aVMitchell Butler WAS 03/26/2004 WAS @ GSW L 23 0 0 6 0.0 0 3 0.0 0 0 - 1 1 2 0 0 0 0 1 -1
+p109
+aVChristian Laettner WAS 03/26/2004 WAS @ GSW L 19 4 1 4 25.0 0 0 - 2 2 100.0 0 5 5 1 0 0 0 0 -9
+p110
+aVKwame Brown WAS 03/25/2004 WAS @ LAC W 35 9 3 13 23.1 0 0 - 3 4 75.0 3 4 7 1 1 0 1 1 13
+p111
+aVLarry Hughes WAS 03/25/2004 WAS @ LAC W 40 30 11 20 55.0 4 7 57.1 4 5 80.0 0 12 12 2 3 2 2 3 11
+p112
+aVEtan Thomas WAS 03/25/2004 WAS @ LAC W 22 6 2 3 66.7 0 0 - 2 4 50.0 1 1 2 1 0 3 1 5 -4
+p113
+aVBrendan Haywood WAS 03/25/2004 WAS @ LAC W 22 6 2 4 50.0 0 0 - 2 4 50.0 5 2 7 0 0 1 2 4 9
+p114
+aVChristian Laettner WAS 03/25/2004 WAS @ LAC W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 1 0 4 -4
+p115
+aVJared Jeffries WAS 03/25/2004 WAS @ LAC W 14 0 0 4 0.0 0 0 - 0 0 - 1 2 3 3 0 0 2 4 6
+p116
+aVSteve Blake WAS 03/25/2004 WAS @ LAC W 18 17 6 6 100.0 3 3 100.0 2 2 100.0 0 1 1 4 2 0 1 1 8
+p117
+aVJerry Stackhouse WAS 03/25/2004 WAS @ LAC W 36 20 6 15 40.0 2 5 40.0 6 7 85.7 0 6 6 4 1 1 0 4 3
+p118
+aVGilbert Arenas WAS 03/25/2004 WAS @ LAC W 33 11 3 11 27.3 2 9 22.2 3 4 75.0 3 2 5 6 1 0 2 1 5
+p119
+aVMitchell Butler WAS 03/25/2004 WAS @ LAC W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -2
+p120
+aVKwame Brown WAS 03/23/2004 WAS @ UTA L 29 0 0 2 0.0 0 0 - 0 4 0.0 0 3 3 1 1 0 0 1 -10
+p121
+aVEtan Thomas WAS 03/23/2004 WAS @ UTA L 24 10 3 8 37.5 0 0 - 4 6 66.7 4 2 6 0 2 0 0 4 -2
+p122
+aVMitchell Butler WAS 03/23/2004 WAS @ UTA L 19 11 3 5 60.0 3 3 100.0 2 4 50.0 1 2 3 0 3 0 1 3 -8
+p123
+aVChristian Laettner WAS 03/23/2004 WAS @ UTA L 17 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 2 0 4 0
+p124
+aVSteve Blake WAS 03/23/2004 WAS @ UTA L 37 16 5 9 55.6 3 6 50.0 3 6 50.0 0 10 10 2 1 0 9 2 -1
+p125
+aVBrendan Haywood WAS 03/23/2004 WAS @ UTA L 24 4 1 3 33.3 0 0 - 2 3 66.7 3 0 3 1 1 1 4 2 -4
+p126
+aVJerry Stackhouse WAS 03/23/2004 WAS @ UTA L 29 6 1 5 20.0 1 2 50.0 3 4 75.0 1 1 2 4 0 0 4 4 -8
+p127
+aVChris Whitney WAS 03/23/2004 WAS @ UTA L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p128
+aVJared Jeffries WAS 03/23/2004 WAS @ UTA L 19 3 0 6 0.0 0 0 - 3 4 75.0 2 2 4 0 0 0 1 1 2
+p129
+aVLarry Hughes WAS 03/23/2004 WAS @ UTA L 33 23 8 19 42.1 0 5 0.0 7 10 70.0 2 5 7 2 3 1 5 3 -3
+p130
+aVBrendan Haywood WAS 03/21/2004 WAS vs. MIA L 15 11 4 7 57.1 0 0 - 3 3 100.0 3 1 4 0 0 1 0 2 -10
+p131
+aVGilbert Arenas WAS 03/21/2004 WAS vs. MIA L 22 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 4 1 -21
+p132
+aVKwame Brown WAS 03/21/2004 WAS vs. MIA L 32 6 3 8 37.5 0 0 - 0 1 0.0 0 7 7 2 1 2 0 1 -14
+p133
+aVJarvis Hayes WAS 03/21/2004 WAS vs. MIA L 18 1 0 5 0.0 0 2 0.0 1 2 50.0 0 1 1 1 0 0 2 0 -3
+p134
+aVEtan Thomas WAS 03/21/2004 WAS vs. MIA L 31 11 3 5 60.0 0 0 - 5 6 83.3 4 12 16 2 1 4 3 4 -4
+p135
+aVSteve Blake WAS 03/21/2004 WAS vs. MIA L 25 21 8 12 66.7 5 7 71.4 0 0 - 0 4 4 3 0 0 3 3 1
+p136
+aVJerry Stackhouse WAS 03/21/2004 WAS vs. MIA L 20 11 5 8 62.5 0 1 0.0 1 2 50.0 0 3 3 0 1 0 4 1 -15
+p137
+aVJared Jeffries WAS 03/21/2004 WAS vs. MIA L 28 8 3 7 42.9 1 1 100.0 1 2 50.0 1 4 5 4 0 0 1 1 -13
+p138
+aVMitchell Butler WAS 03/21/2004 WAS vs. MIA L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 9
+p139
+aVLarry Hughes WAS 03/21/2004 WAS vs. MIA L 27 8 3 14 21.4 1 4 25.0 1 2 50.0 3 2 5 2 0 0 1 3 -32
+p140
+aVJuan Dixon WAS 03/21/2004 WAS vs. MIA L 13 2 0 5 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 2 1 2
+p141
+aVBrendan Haywood WAS 03/19/2004 WAS vs. ATL W 23 6 3 5 60.0 0 0 - 0 0 - 3 7 10 0 2 2 3 0 17
+p142
+aVJared Jeffries WAS 03/19/2004 WAS vs. ATL W 31 10 5 8 62.5 0 1 0.0 0 2 0.0 4 5 9 1 0 0 0 5 16
+p143
+aVMitchell Butler WAS 03/19/2004 WAS vs. ATL W 25 7 3 6 50.0 1 2 50.0 0 0 - 1 2 3 2 2 0 3 1 18
+p144
+aVJerry Stackhouse WAS 03/19/2004 WAS vs. ATL W 24 7 1 7 14.3 1 3 33.3 4 4 100.0 0 2 2 5 0 0 1 1 -7
+p145
+aVSteve Blake WAS 03/19/2004 WAS vs. ATL W 23 5 1 7 14.3 1 5 20.0 2 2 100.0 0 1 1 1 2 0 0 1 -8
+p146
+aVEtan Thomas WAS 03/19/2004 WAS vs. ATL W 22 15 4 8 50.0 0 0 - 7 8 87.5 1 4 5 0 0 2 3 3 -10
+p147
+aVJarvis Hayes WAS 03/19/2004 WAS vs. ATL W 11 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -10
+p148
+aVKwame Brown WAS 03/19/2004 WAS vs. ATL W 39 27 10 14 71.4 0 0 - 7 10 70.0 2 9 11 0 0 0 1 1 21
+p149
+aVGilbert Arenas WAS 03/19/2004 WAS vs. ATL W 42 13 4 15 26.7 3 9 33.3 2 2 100.0 1 9 10 10 0 0 5 4 13
+p150
+aVEtan Thomas WAS 03/17/2004 WAS vs. SAC W 27 12 6 9 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 4 -7
+p151
+aVLonny Baxter WAS 03/17/2004 WAS vs. SAC W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p152
+aVBrendan Haywood WAS 03/17/2004 WAS vs. SAC W 18 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 0 1 1 1 3 15
+p153
+aVGilbert Arenas WAS 03/17/2004 WAS vs. SAC W 48 27 9 29 31.0 5 8 62.5 4 4 100.0 1 4 5 10 8 0 3 2 6
+p154
+aVJerry Stackhouse WAS 03/17/2004 WAS vs. SAC W 31 21 8 19 42.1 3 5 60.0 2 3 66.7 1 1 2 7 3 0 4 2 5
+p155
+aVJared Jeffries WAS 03/17/2004 WAS vs. SAC W 21 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 1 0 2 -2
+p156
+aVMitchell Butler WAS 03/17/2004 WAS vs. SAC W 44 13 6 11 54.5 0 2 0.0 1 2 50.0 3 2 5 8 0 0 2 3 9
+p157
+aVKwame Brown WAS 03/17/2004 WAS vs. SAC W 48 30 12 16 75.0 0 0 - 6 7 85.7 7 12 19 3 2 0 1 2 6
+p158
+aVKwame Brown WAS 03/16/2004 WAS @ NYK L 43 21 8 13 61.5 0 0 - 5 7 71.4 2 4 6 0 0 0 3 2 1
+p159
+aVJared Jeffries WAS 03/16/2004 WAS @ NYK L 33 0 0 4 0.0 0 0 - 0 0 - 2 5 7 1 0 1 1 6 -3
+p160
+aVJerry Stackhouse WAS 03/16/2004 WAS @ NYK L 32 23 8 17 47.1 0 2 0.0 7 8 87.5 0 4 4 7 1 0 6 3 -4
+p161
+aVSteve Blake WAS 03/16/2004 WAS @ NYK L 6 3 1 3 33.3 1 3 33.3 0 0 - 1 0 1 1 0 0 2 1 -14
+p162
+aVMitchell Butler WAS 03/16/2004 WAS @ NYK L 48 8 4 6 66.7 0 1 0.0 0 0 - 1 5 6 2 2 0 0 4 9
+p163
+aVBrendan Haywood WAS 03/16/2004 WAS @ NYK L 16 11 5 8 62.5 0 0 - 1 2 50.0 2 3 5 0 0 1 0 3 1
+p164
+aVGilbert Arenas WAS 03/16/2004 WAS @ NYK L 50 27 8 21 38.1 3 5 60.0 8 9 88.9 1 5 6 8 1 0 9 6 3
+p165
+aVEtan Thomas WAS 03/16/2004 WAS @ NYK L 32 15 5 8 62.5 0 0 - 5 7 71.4 2 8 10 0 0 1 0 3 -3
+p166
+aVLonny Baxter WAS 03/16/2004 WAS @ NYK L 5 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 -10
+p167
+aVMitchell Butler WAS 03/13/2004 WAS vs. BOS L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -2
+p168
+aVJared Jeffries WAS 03/13/2004 WAS vs. BOS L 13 4 1 2 50.0 0 0 - 2 2 100.0 2 1 3 0 1 1 0 1 -4
+p169
+aVJerry Stackhouse WAS 03/13/2004 WAS vs. BOS L 41 19 8 22 36.4 0 5 0.0 3 3 100.0 1 2 3 6 2 0 6 4 -18
+p170
+aVEtan Thomas WAS 03/13/2004 WAS vs. BOS L 32 21 6 7 85.7 0 0 - 9 10 90.0 2 5 7 0 1 1 2 5 0
+p171
+aVBrendan Haywood WAS 03/13/2004 WAS vs. BOS L 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 2 0 1 -6
+p172
+aVJuan Dixon WAS 03/13/2004 WAS vs. BOS L 32 12 5 15 33.3 2 7 28.6 0 0 - 0 3 3 2 2 0 2 0 -7
+p173
+aVKwame Brown WAS 03/13/2004 WAS vs. BOS L 36 13 5 8 62.5 0 0 - 3 8 37.5 2 9 11 2 0 1 0 4 -15
+p174
+aVGilbert Arenas WAS 03/13/2004 WAS vs. BOS L 47 28 12 20 60.0 1 6 16.7 3 5 60.0 2 4 6 8 5 0 7 5 -4
+p175
+aVSteve Blake WAS 03/13/2004 WAS vs. BOS L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 0
+p176
+aVChristian Laettner WAS 03/13/2004 WAS vs. BOS L 11 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 1 0 0 1 1 11
+p177
+aVSteve Blake WAS 03/12/2004 WAS @ ATL L 17 9 4 6 66.7 1 3 33.3 0 0 - 0 0 0 4 1 0 1 2 1
+p178
+aVEtan Thomas WAS 03/12/2004 WAS @ ATL L 28 13 5 7 71.4 0 0 - 3 6 50.0 4 3 7 1 0 4 3 3 6
+p179
+aVBrendan Haywood WAS 03/12/2004 WAS @ ATL L 17 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 2 1 1 -17
+p180
+aVGilbert Arenas WAS 03/12/2004 WAS @ ATL L 43 30 10 19 52.6 4 9 44.4 6 7 85.7 1 5 6 10 1 0 6 4 -18
+p181
+aVMitchell Butler WAS 03/12/2004 WAS @ ATL L 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 4
+p182
+aVJuan Dixon WAS 03/12/2004 WAS @ ATL L 34 21 6 11 54.5 4 5 80.0 5 7 71.4 0 5 5 5 0 0 3 5 -14
+p183
+aVChristian Laettner WAS 03/12/2004 WAS @ ATL L 39 10 4 6 66.7 1 1 100.0 1 2 50.0 1 1 2 3 1 0 1 4 -21
+p184
+aVJerry Stackhouse WAS 03/12/2004 WAS @ ATL L 41 29 11 26 42.3 2 4 50.0 5 5 100.0 2 4 6 6 0 0 5 1 -20
+p185
+aVJared Jeffries WAS 03/12/2004 WAS @ ATL L 15 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 3 9
+p186
+aVMitchell Butler WAS 03/10/2004 WAS @ ORL L 27 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 2 6
+p187
+aVJared Jeffries WAS 03/10/2004 WAS @ ORL L 37 10 5 8 62.5 0 0 - 0 1 0.0 2 5 7 2 1 0 0 4 -4
+p188
+aVJuan Dixon WAS 03/10/2004 WAS @ ORL L 12 0 0 4 0.0 0 3 0.0 0 0 - 1 0 1 1 0 0 1 0 -15
+p189
+aVSteve Blake WAS 03/10/2004 WAS @ ORL L 20 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 5 -2
+p190
+aVGilbert Arenas WAS 03/10/2004 WAS @ ORL L 44 40 15 33 45.5 2 5 40.0 8 10 80.0 2 2 4 3 2 0 4 4 -10
+p191
+aVChristian Laettner WAS 03/10/2004 WAS @ ORL L 39 13 4 16 25.0 0 1 0.0 5 6 83.3 8 7 15 2 2 4 5 5 -6
+p192
+aVBrendan Haywood WAS 03/10/2004 WAS @ ORL L 24 5 1 5 20.0 0 0 - 3 6 50.0 3 5 8 0 2 1 1 1 -2
+p193
+aVEtan Thomas WAS 03/10/2004 WAS @ ORL L 24 19 7 13 53.8 0 0 - 5 8 62.5 5 6 11 0 0 3 0 3 -7
+p194
+aVLonny Baxter WAS 03/10/2004 WAS @ ORL L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 5 -5
+p195
+aVLonny Baxter WAS 03/09/2004 WAS vs. DEN L 18 10 4 5 80.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 3 -9
+p196
+aVSteve Blake WAS 03/09/2004 WAS vs. DEN L 24 4 2 8 25.0 0 3 0.0 0 0 - 2 2 4 4 0 0 3 1 -15
+p197
+aVBrendan Haywood WAS 03/09/2004 WAS vs. DEN L 32 10 4 6 66.7 0 0 - 2 4 50.0 1 3 4 2 1 0 2 1 -24
+p198
+aVGilbert Arenas WAS 03/09/2004 WAS vs. DEN L 34 23 7 22 31.8 4 9 44.4 5 8 62.5 1 0 1 7 2 0 2 5 -12
+p199
+aVJared Jeffries WAS 03/09/2004 WAS vs. DEN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p200
+aVJarvis Hayes WAS 03/09/2004 WAS vs. DEN L 20 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 0 -5
+p201
+aVKwame Brown WAS 03/09/2004 WAS vs. DEN L 31 13 4 9 44.4 0 0 - 5 7 71.4 8 2 10 2 0 1 4 3 -25
+p202
+aVEtan Thomas WAS 03/09/2004 WAS vs. DEN L 16 6 2 4 50.0 0 0 - 2 5 40.0 1 4 5 1 0 2 1 2 -6
+p203
+aVMitchell Butler WAS 03/09/2004 WAS vs. DEN L 21 2 0 2 0.0 0 1 0.0 2 4 50.0 0 0 0 0 0 0 1 3 -26
+p204
+aVJuan Dixon WAS 03/09/2004 WAS vs. DEN L 40 19 8 18 44.4 0 5 0.0 3 3 100.0 1 4 5 3 0 0 2 1 -26
+p205
+aVEtan Thomas WAS 03/07/2004 WAS vs. NYK L 26 8 0 5 0.0 0 0 - 8 8 100.0 2 3 5 3 0 2 3 3 -16
+p206
+aVJared Jeffries WAS 03/07/2004 WAS vs. NYK L 27 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 2 2 0 1 2 -16
+p207
+aVSteve Blake WAS 03/07/2004 WAS vs. NYK L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 -9
+p208
+aVJuan Dixon WAS 03/07/2004 WAS vs. NYK L 44 25 11 18 61.1 3 4 75.0 0 0 - 1 2 3 4 1 0 3 0 -4
+p209
+aVLonny Baxter WAS 03/07/2004 WAS vs. NYK L 6 0 0 1 0.0 0 0 - 0 0 - 3 3 6 0 0 0 0 0 5
+p210
+aVKwame Brown WAS 03/07/2004 WAS vs. NYK L 34 7 3 10 30.0 0 0 - 1 2 50.0 0 7 7 2 1 0 1 2 -1
+p211
+aVJarvis Hayes WAS 03/07/2004 WAS vs. NYK L 25 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 0 3 -14
+p212
+aVBrendan Haywood WAS 03/07/2004 WAS vs. NYK L 21 7 3 5 60.0 0 0 - 1 2 50.0 2 3 5 0 1 0 1 2 3
+p213
+aVGilbert Arenas WAS 03/07/2004 WAS vs. NYK L 45 28 11 20 55.0 3 5 60.0 3 4 75.0 0 2 2 4 1 0 7 4 -8
+p214
+aVChristian Laettner WAS 03/07/2004 WAS vs. NYK L 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -5
+p215
+aVJuan Dixon WAS 03/05/2004 WAS @ BOS L 32 17 5 13 38.5 4 9 44.4 3 4 75.0 0 1 1 3 1 0 0 3 1
+p216
+aVJared Jeffries WAS 03/05/2004 WAS @ BOS L 29 6 2 9 22.2 0 1 0.0 2 2 100.0 4 5 9 2 1 1 5 5 -9
+p217
+aVEtan Thomas WAS 03/05/2004 WAS @ BOS L 27 12 4 7 57.1 0 0 - 4 7 57.1 4 3 7 1 2 2 2 5 -11
+p218
+aVGilbert Arenas WAS 03/05/2004 WAS @ BOS L 46 26 9 20 45.0 3 7 42.9 5 6 83.3 0 6 6 7 3 0 5 1 -3
+p219
+aVJarvis Hayes WAS 03/05/2004 WAS @ BOS L 40 12 5 17 29.4 2 7 28.6 0 2 0.0 1 4 5 2 0 0 1 5 -8
+p220
+aVBrendan Haywood WAS 03/05/2004 WAS @ BOS L 25 9 4 8 50.0 0 0 - 1 1 100.0 6 4 10 1 0 1 2 1 8
+p221
+aVKwame Brown WAS 03/05/2004 WAS @ BOS L 29 6 2 5 40.0 0 0 - 2 4 50.0 2 6 8 2 0 2 6 4 3
+p222
+aVSteve Blake WAS 03/05/2004 WAS @ BOS L 7 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 2
+p223
+aVChristian Laettner WAS 03/05/2004 WAS @ BOS L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -3
+p224
+aVGilbert Arenas WAS 03/03/2004 WAS vs. TOR W 37 27 9 20 45.0 2 6 33.3 7 7 100.0 0 4 4 3 0 0 4 3 13
+p225
+aVMitchell Butler WAS 03/03/2004 WAS vs. TOR W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 2
+p226
+aVEtan Thomas WAS 03/03/2004 WAS vs. TOR W 29 15 5 7 71.4 0 0 - 5 6 83.3 4 8 12 0 0 4 2 3 20
+p227
+aVJarvis Hayes WAS 03/03/2004 WAS vs. TOR W 41 15 5 13 38.5 1 2 50.0 4 4 100.0 2 4 6 1 1 0 1 1 12
+p228
+aVSteve Blake WAS 03/03/2004 WAS vs. TOR W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 3 0 1
+p229
+aVLonny Baxter WAS 03/03/2004 WAS vs. TOR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p230
+aVKwame Brown WAS 03/03/2004 WAS vs. TOR W 25 10 3 4 75.0 0 0 - 4 8 50.0 3 7 10 2 0 0 6 0 -12
+p231
+aVJuan Dixon WAS 03/03/2004 WAS vs. TOR W 15 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 0 -7
+p232
+aVJared Jeffries WAS 03/03/2004 WAS vs. TOR W 33 5 1 4 25.0 0 0 - 3 4 75.0 1 8 9 1 0 1 0 3 21
+p233
+aVBrendan Haywood WAS 03/03/2004 WAS vs. TOR W 17 3 1 4 25.0 0 0 - 1 2 50.0 3 5 8 0 0 1 0 0 -6
+p234
+aVChristian Laettner WAS 03/03/2004 WAS vs. TOR W 23 5 2 5 40.0 0 0 - 1 1 100.0 0 9 9 3 0 1 1 0 26
+p235
+aVJared Jeffries WAS 03/01/2004 WAS vs. NOH W 33 8 3 7 42.9 0 0 - 2 6 33.3 3 1 4 2 2 1 2 5 0
+p236
+aVJarvis Hayes WAS 03/01/2004 WAS vs. NOH W 49 19 8 11 72.7 3 5 60.0 0 0 - 1 7 8 4 1 0 4 5 8
+p237
+aVEtan Thomas WAS 03/01/2004 WAS vs. NOH W 22 13 5 7 71.4 0 0 - 3 4 75.0 4 8 12 1 0 1 1 3 3
+p238
+aVJuan Dixon WAS 03/01/2004 WAS vs. NOH W 20 9 4 9 44.4 0 0 - 1 1 100.0 0 2 2 3 0 0 1 1 2
+p239
+aVBrendan Haywood WAS 03/01/2004 WAS vs. NOH W 19 11 4 5 80.0 0 0 - 3 4 75.0 0 6 6 1 0 0 1 2 5
+p240
+aVKwame Brown WAS 03/01/2004 WAS vs. NOH W 42 6 3 7 42.9 0 0 - 0 0 - 1 3 4 1 1 1 1 1 -5
+p241
+aVGilbert Arenas WAS 03/01/2004 WAS vs. NOH W 53 35 13 27 48.1 5 9 55.6 4 7 57.1 0 6 6 11 4 0 5 4 5
+p242
+aVSteve Blake WAS 03/01/2004 WAS vs. NOH W 27 10 3 10 30.0 2 7 28.6 2 4 50.0 0 2 2 4 1 0 5 3 7
+p243
+aVEtan Thomas WAS 02/28/2004 WAS vs. LAL L 15 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 0 1 2 2
+p244
+aVGilbert Arenas WAS 02/28/2004 WAS vs. LAL L 44 35 12 23 52.2 8 11 72.7 3 5 60.0 1 8 9 4 1 1 4 2 -9
+p245
+aVJuan Dixon WAS 02/28/2004 WAS vs. LAL L 24 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -2
+p246
+aVBrevin Knight WAS 02/28/2004 WAS vs. LAL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p247
+aVJerry Stackhouse WAS 02/28/2004 WAS vs. LAL L 38 20 7 17 41.2 1 2 50.0 5 5 100.0 2 3 5 5 2 1 2 1 -13
+p248
+aVJared Jeffries WAS 02/28/2004 WAS vs. LAL L 16 7 1 3 33.3 0 0 - 5 6 83.3 6 2 8 1 0 0 3 3 -10
+p249
+aVSteve Blake WAS 02/28/2004 WAS vs. LAL L 6 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 0 0 0 0 1 2
+p250
+aVKwame Brown WAS 02/28/2004 WAS vs. LAL L 45 18 7 11 63.6 0 0 - 4 8 50.0 6 4 10 3 0 0 2 2 -10
+p251
+aVBrendan Haywood WAS 02/28/2004 WAS vs. LAL L 20 4 1 4 25.0 0 0 - 2 2 100.0 2 0 2 0 0 1 2 3 -4
+p252
+aVJarvis Hayes WAS 02/28/2004 WAS vs. LAL L 25 10 5 15 33.3 0 0 - 0 0 - 2 3 5 2 1 0 1 2 -9
+p253
+aVJuan Dixon WAS 02/26/2004 WAS vs. CHI W 24 6 1 9 11.1 0 0 - 4 4 100.0 1 1 2 3 1 0 1 1 17
+p254
+aVJerry Stackhouse WAS 02/26/2004 WAS vs. CHI W 22 13 6 12 50.0 1 2 50.0 0 0 - 0 3 3 4 0 0 4 0 12
+p255
+aVKwame Brown WAS 02/26/2004 WAS vs. CHI W 40 15 7 10 70.0 0 0 - 1 4 25.0 2 11 13 1 1 3 5 1 14
+p256
+aVGilbert Arenas WAS 02/26/2004 WAS vs. CHI W 45 21 7 15 46.7 2 5 40.0 5 6 83.3 2 10 12 13 0 1 4 3 14
+p257
+aVJared Jeffries WAS 02/26/2004 WAS vs. CHI W 28 8 4 11 36.4 0 0 - 0 0 - 2 2 4 0 1 1 2 2 6
+p258
+aVBrevin Knight WAS 02/26/2004 WAS vs. CHI W 15 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 2 0 1 2 -7
+p259
+aVEtan Thomas WAS 02/26/2004 WAS vs. CHI W 20 5 1 3 33.3 0 0 - 3 6 50.0 1 4 5 0 1 0 0 2 -1
+p260
+aVSteve Blake WAS 02/26/2004 WAS vs. CHI W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 -10
+p261
+aVBrendan Haywood WAS 02/26/2004 WAS vs. CHI W 20 15 6 9 66.7 0 0 - 3 3 100.0 1 5 6 0 0 1 0 3 11
+p262
+aVJarvis Hayes WAS 02/26/2004 WAS vs. CHI W 19 9 4 8 50.0 1 2 50.0 0 0 - 1 1 2 1 0 0 1 1 -16
+p263
+aVJarvis Hayes WAS 02/25/2004 WAS @ TOR W 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 3 0 0
+p264
+aVJared Jeffries WAS 02/25/2004 WAS @ TOR W 18 8 3 5 60.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 2 0
+p265
+aVEtan Thomas WAS 02/25/2004 WAS @ TOR W 17 9 4 7 57.1 0 0 - 1 2 50.0 2 4 6 0 1 2 0 1 4
+p266
+aVJuan Dixon WAS 02/25/2004 WAS @ TOR W 23 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 3 1 0 2 2 2
+p267
+aVKwame Brown WAS 02/25/2004 WAS @ TOR W 35 16 8 16 50.0 0 0 - 0 1 0.0 2 6 8 2 1 1 3 1 3
+p268
+aVGilbert Arenas WAS 02/25/2004 WAS @ TOR W 31 7 2 3 66.7 0 0 - 3 4 75.0 1 7 8 1 1 0 3 1 7
+p269
+aVBrevin Knight WAS 02/25/2004 WAS @ TOR W 26 0 0 4 0.0 0 0 - 0 0 - 0 1 1 5 4 0 1 1 -4
+p270
+aVSteve Blake WAS 02/25/2004 WAS @ TOR W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -1
+p271
+aVJerry Stackhouse WAS 02/25/2004 WAS @ TOR W 30 11 3 10 30.0 0 0 - 5 6 83.3 0 5 5 3 0 0 6 0 2
+p272
+aVBrendan Haywood WAS 02/25/2004 WAS @ TOR W 26 13 6 7 85.7 0 0 - 1 2 50.0 4 4 8 0 0 2 1 5 -3
+p273
+aVChristian Laettner WAS 02/22/2004 WAS vs. MIL L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -1
+p274
+aVJarvis Hayes WAS 02/22/2004 WAS vs. MIL L 28 16 6 11 54.5 2 4 50.0 2 2 100.0 1 1 2 1 2 0 1 3 -21
+p275
+aVJerry Stackhouse WAS 02/22/2004 WAS vs. MIL L 21 7 2 8 25.0 0 0 - 3 3 100.0 1 0 1 2 0 0 2 3 -10
+p276
+aVMitchell Butler WAS 02/22/2004 WAS vs. MIL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p277
+aVJuan Dixon WAS 02/22/2004 WAS vs. MIL L 33 10 4 13 30.8 0 3 0.0 2 2 100.0 1 2 3 1 3 1 3 0 -19
+p278
+aVJared Jeffries WAS 02/22/2004 WAS vs. MIL L 26 10 5 11 45.5 0 0 - 0 0 - 5 1 6 0 0 0 0 3 -10
+p279
+aVBrendan Haywood WAS 02/22/2004 WAS vs. MIL L 13 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 0 0 1 1 0 -15
+p280
+aVKwame Brown WAS 02/22/2004 WAS vs. MIL L 23 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 3 0 0 0 1 -20
+p281
+aVGilbert Arenas WAS 02/22/2004 WAS vs. MIL L 38 21 7 21 33.3 3 5 60.0 4 4 100.0 1 5 6 6 4 0 6 4 -15
+p282
+aVSteve Blake WAS 02/22/2004 WAS vs. MIL L 19 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 1 0 3 5 -14
+p283
+aVEtan Thomas WAS 02/22/2004 WAS vs. MIL L 30 9 4 9 44.4 0 0 - 1 2 50.0 6 7 13 1 1 2 1 3 -10
+p284
+aVJuan Dixon WAS 02/20/2004 WAS vs. IND L 45 8 2 8 25.0 0 0 - 4 4 100.0 0 4 4 5 8 0 2 5 -8
+p285
+aVJerry Stackhouse WAS 02/20/2004 WAS vs. IND L 33 15 5 12 41.7 0 2 0.0 5 5 100.0 0 8 8 5 1 1 3 2 -10
+p286
+aVSteve Blake WAS 02/20/2004 WAS vs. IND L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -5
+p287
+aVJarvis Hayes WAS 02/20/2004 WAS vs. IND L 18 7 3 7 42.9 0 1 0.0 1 1 100.0 0 2 2 2 0 0 0 3 -2
+p288
+aVBrendan Haywood WAS 02/20/2004 WAS vs. IND L 31 9 4 5 80.0 0 0 - 1 1 100.0 3 3 6 1 1 4 0 4 9
+p289
+aVGilbert Arenas WAS 02/20/2004 WAS vs. IND L 40 27 9 21 42.9 4 8 50.0 5 9 55.6 3 0 3 5 0 0 4 5 -4
+p290
+aVEtan Thomas WAS 02/20/2004 WAS vs. IND L 14 4 2 8 25.0 0 0 - 0 0 - 1 0 1 0 0 2 0 2 -14
+p291
+aVKwame Brown WAS 02/20/2004 WAS vs. IND L 45 17 6 11 54.5 0 0 - 5 6 83.3 2 6 8 2 3 3 3 3 -5
+p292
+aVJared Jeffries WAS 02/20/2004 WAS vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p293
+aVMitchell Butler WAS 02/18/2004 WAS @ NOH L 8 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 1
+p294
+aVBrendan Haywood WAS 02/18/2004 WAS @ NOH L 24 9 3 4 75.0 0 0 - 3 4 75.0 4 1 5 0 0 1 3 4 -13
+p295
+aVGilbert Arenas WAS 02/18/2004 WAS @ NOH L 32 9 3 12 25.0 1 5 20.0 2 2 100.0 1 2 3 4 1 0 2 0 -9
+p296
+aVEtan Thomas WAS 02/18/2004 WAS @ NOH L 24 11 5 10 50.0 0 0 - 1 1 100.0 0 6 6 0 1 1 1 2 -6
+p297
+aVBrevin Knight WAS 02/18/2004 WAS @ NOH L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 0 1
+p298
+aVJarvis Hayes WAS 02/18/2004 WAS @ NOH L 19 7 3 10 30.0 0 0 - 1 1 100.0 3 0 3 0 0 0 0 4 2
+p299
+aVChristian Laettner WAS 02/18/2004 WAS @ NOH L 16 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 4 1 0 0 2 -6
+p300
+aVJared Jeffries WAS 02/18/2004 WAS @ NOH L 7 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 0
+p301
+aVJuan Dixon WAS 02/18/2004 WAS @ NOH L 23 16 6 11 54.5 2 2 100.0 2 2 100.0 1 3 4 3 1 0 3 2 -21
+p302
+aVKwame Brown WAS 02/18/2004 WAS @ NOH L 32 12 5 9 55.6 0 0 - 2 2 100.0 2 4 6 3 1 0 2 1 -13
+p303
+aVSteve Blake WAS 02/18/2004 WAS @ NOH L 16 7 3 7 42.9 1 2 50.0 0 0 - 2 1 3 3 0 0 1 0 -10
+p304
+aVJerry Stackhouse WAS 02/18/2004 WAS @ NOH L 29 7 3 11 27.3 1 4 25.0 0 2 0.0 0 3 3 3 0 0 3 0 -21
+p305
+aVJuan Dixon WAS 02/17/2004 WAS @ HOU L 37 9 4 8 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 6 2 -28
+p306
+aVJared Jeffries WAS 02/17/2004 WAS @ HOU L 19 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 1 0 1 2 2 -4
+p307
+aVMitchell Butler WAS 02/17/2004 WAS @ HOU L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 4
+p308
+aVGilbert Arenas WAS 02/17/2004 WAS @ HOU L 33 11 3 15 20.0 1 4 25.0 4 4 100.0 2 6 8 3 2 0 3 3 -27
+p309
+aVBrendan Haywood WAS 02/17/2004 WAS @ HOU L 27 10 5 12 41.7 0 0 - 0 2 0.0 4 3 7 0 3 3 0 0 -22
+p310
+aVKwame Brown WAS 02/17/2004 WAS @ HOU L 29 7 1 7 14.3 0 0 - 5 5 100.0 3 3 6 1 0 0 3 3 -22
+p311
+aVJerry Stackhouse WAS 02/17/2004 WAS @ HOU L 28 7 2 4 50.0 0 1 0.0 3 4 75.0 0 1 1 2 0 0 4 1 -24
+p312
+aVSteve Blake WAS 02/17/2004 WAS @ HOU L 17 12 5 7 71.4 2 3 66.7 0 0 - 1 3 4 3 0 0 2 1 -1
+p313
+aVJarvis Hayes WAS 02/17/2004 WAS @ HOU L 20 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 5 1 0 0 1 -2
+p314
+aVEtan Thomas WAS 02/17/2004 WAS @ HOU L 21 13 4 6 66.7 0 0 - 5 6 83.3 0 4 4 0 0 2 2 3 -4
+p315
+aVSteve Blake WAS 02/11/2004 WAS @ PHI L 18 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 5 0 0 0 1 -4
+p316
+aVJerry Stackhouse WAS 02/11/2004 WAS @ PHI L 30 15 6 9 66.7 1 2 50.0 2 2 100.0 0 5 5 1 0 0 5 2 -18
+p317
+aVJared Jeffries WAS 02/11/2004 WAS @ PHI L 21 6 3 5 60.0 0 0 - 0 1 0.0 1 3 4 0 1 1 0 3 -8
+p318
+aVJarvis Hayes WAS 02/11/2004 WAS @ PHI L 21 6 3 11 27.3 0 3 0.0 0 2 0.0 2 0 2 1 3 0 0 1 -6
+p319
+aVBrendan Haywood WAS 02/11/2004 WAS @ PHI L 23 11 2 4 50.0 0 0 - 7 8 87.5 1 1 2 1 1 0 1 1 -11
+p320
+aVBrevin Knight WAS 02/11/2004 WAS @ PHI L 17 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 2 2 -13
+p321
+aVChristian Laettner WAS 02/11/2004 WAS @ PHI L 21 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 2 0 0 0 4 -11
+p322
+aVGilbert Arenas WAS 02/11/2004 WAS @ PHI L 30 7 1 10 10.0 0 4 0.0 5 7 71.4 1 2 3 1 1 0 2 5 -21
+p323
+aVKwame Brown WAS 02/11/2004 WAS @ PHI L 28 6 2 3 66.7 0 0 - 2 6 33.3 3 4 7 1 0 1 4 1 -21
+p324
+aVJuan Dixon WAS 02/11/2004 WAS @ PHI L 31 21 7 12 58.3 1 5 20.0 6 6 100.0 1 5 6 1 0 0 3 2 -12
+p325
+aVBrendan Haywood WAS 02/07/2004 WAS @ CLE W 31 16 8 13 61.5 0 0 - 0 1 0.0 8 5 13 0 1 3 0 2 19
+p326
+aVJerry Stackhouse WAS 02/07/2004 WAS @ CLE W 42 19 5 14 35.7 1 3 33.3 8 11 72.7 0 5 5 11 0 0 5 3 20
+p327
+aVSteve Blake WAS 02/07/2004 WAS @ CLE W 18 3 1 3 33.3 1 2 50.0 0 0 - 0 5 5 0 0 0 2 1 10
+p328
+aVEtan Thomas WAS 02/07/2004 WAS @ CLE W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p329
+aVJared Jeffries WAS 02/07/2004 WAS @ CLE W 25 8 2 5 40.0 0 0 - 4 4 100.0 2 7 9 0 2 0 2 1 1
+p330
+aVGilbert Arenas WAS 02/07/2004 WAS @ CLE W 41 26 8 15 53.3 4 6 66.7 6 8 75.0 0 3 3 7 3 0 2 2 16
+p331
+aVLarry Hughes WAS 02/07/2004 WAS @ CLE W 7 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -4
+p332
+aVKwame Brown WAS 02/07/2004 WAS @ CLE W 39 20 8 15 53.3 0 0 - 4 7 57.1 3 7 10 0 0 2 1 2 13
+p333
+aVJuan Dixon WAS 02/07/2004 WAS @ CLE W 25 10 4 7 57.1 1 2 50.0 1 2 50.0 1 3 4 2 0 0 2 2 14
+p334
+aVJarvis Hayes WAS 02/07/2004 WAS @ CLE W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 0
+p335
+aVLarry Hughes WAS 02/06/2004 WAS vs. LAC W 45 21 9 20 45.0 0 2 0.0 3 3 100.0 4 8 12 3 2 1 2 2 15
+p336
+aVEtan Thomas WAS 02/06/2004 WAS vs. LAC W 19 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 4 -8
+p337
+aVJared Jeffries WAS 02/06/2004 WAS vs. LAC W 14 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 4 5
+p338
+aVGilbert Arenas WAS 02/06/2004 WAS vs. LAC W 44 25 8 15 53.3 1 3 33.3 8 10 80.0 0 5 5 4 0 0 5 5 7
+p339
+aVKwame Brown WAS 02/06/2004 WAS vs. LAC W 43 22 8 12 66.7 0 0 - 6 7 85.7 2 5 7 3 2 0 4 4 10
+p340
+aVJerry Stackhouse WAS 02/06/2004 WAS vs. LAC W 38 23 7 12 58.3 3 3 100.0 6 8 75.0 0 4 4 6 5 0 1 3 18
+p341
+aVSteve Blake WAS 02/06/2004 WAS vs. LAC W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 6
+p342
+aVBrendan Haywood WAS 02/06/2004 WAS vs. LAC W 24 11 3 8 37.5 0 0 - 5 6 83.3 6 2 8 0 0 4 1 5 10
+p343
+aVJarvis Hayes WAS 02/06/2004 WAS vs. LAC W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -3
+p344
+aVJarvis Hayes WAS 02/04/2004 WAS vs. MEM L 12 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 4 0 -6
+p345
+aVJerry Stackhouse WAS 02/04/2004 WAS vs. MEM L 36 19 7 14 50.0 2 3 66.7 3 5 60.0 1 3 4 4 1 0 2 2 4
+p346
+aVBrevin Knight WAS 02/04/2004 WAS vs. MEM L 4 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p347
+aVBrendan Haywood WAS 02/04/2004 WAS vs. MEM L 31 16 6 12 50.0 0 0 - 4 6 66.7 5 6 11 0 0 4 2 2 10
+p348
+aVGilbert Arenas WAS 02/04/2004 WAS vs. MEM L 36 9 3 15 20.0 1 6 16.7 2 2 100.0 2 0 2 6 1 0 3 3 12
+p349
+aVSteve Blake WAS 02/04/2004 WAS vs. MEM L 8 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 2 0 0 0 0 -4
+p350
+aVJared Jeffries WAS 02/04/2004 WAS vs. MEM L 15 2 0 2 0.0 0 1 0.0 2 4 50.0 2 1 3 0 0 0 2 2 -4
+p351
+aVLarry Hughes WAS 02/04/2004 WAS vs. MEM L 40 27 8 13 61.5 0 2 0.0 11 11 100.0 2 5 7 6 4 0 2 4 10
+p352
+aVKwame Brown WAS 02/04/2004 WAS vs. MEM L 35 15 7 11 63.6 0 1 0.0 1 2 50.0 1 9 10 2 1 0 0 3 6
+p353
+aVJuan Dixon WAS 02/04/2004 WAS vs. MEM L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 2 0 1 1 -10
+p354
+aVEtan Thomas WAS 02/04/2004 WAS vs. MEM L 14 4 2 6 33.3 0 0 - 0 0 - 2 1 3 0 2 0 1 0 -20
+p355
+aVJarvis Hayes WAS 02/01/2004 WAS vs. CLE L 32 20 7 12 58.3 2 3 66.7 4 4 100.0 1 2 3 1 0 0 0 2 8
+p356
+aVChristian Laettner WAS 02/01/2004 WAS vs. CLE L 18 4 2 3 66.7 0 0 - 0 0 - 3 3 6 1 0 1 1 2 -10
+p357
+aVBrendan Haywood WAS 02/01/2004 WAS vs. CLE L 19 8 3 7 42.9 0 0 - 2 2 100.0 1 0 1 0 1 0 2 1 -7
+p358
+aVEtan Thomas WAS 02/01/2004 WAS vs. CLE L 14 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 1 2 0 1 1 0
+p359
+aVKwame Brown WAS 02/01/2004 WAS vs. CLE L 21 4 1 4 25.0 0 0 - 2 4 50.0 0 4 4 0 1 3 0 3 -8
+p360
+aVJared Jeffries WAS 02/01/2004 WAS vs. CLE L 16 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 2 0 0 1 3 17
+p361
+aVSteve Blake WAS 02/01/2004 WAS vs. CLE L 26 15 6 11 54.5 1 4 25.0 2 3 66.7 0 2 2 4 2 0 0 3 15
+p362
+aVLarry Hughes WAS 02/01/2004 WAS vs. CLE L 19 10 3 10 30.0 0 1 0.0 4 6 66.7 1 4 5 0 2 0 2 1 -16
+p363
+aVJerry Stackhouse WAS 02/01/2004 WAS vs. CLE L 27 13 5 14 35.7 1 3 33.3 2 4 50.0 1 1 2 1 0 0 4 1 -15
+p364
+aVJuan Dixon WAS 02/01/2004 WAS vs. CLE L 25 13 5 12 41.7 1 4 25.0 2 2 100.0 0 2 2 5 4 0 2 4 13
+p365
+aVBrevin Knight WAS 02/01/2004 WAS vs. CLE L 23 2 1 5 20.0 0 0 - 0 0 - 0 3 3 5 3 0 0 2 -17
+p366
+aVJuan Dixon WAS 01/30/2004 WAS vs. PHX W 26 8 3 14 21.4 0 5 0.0 2 4 50.0 0 3 3 2 3 0 1 2 11
+p367
+aVBrendan Haywood WAS 01/30/2004 WAS vs. PHX W 24 9 3 6 50.0 0 0 - 3 6 50.0 6 7 13 4 0 2 1 2 12
+p368
+aVEtan Thomas WAS 01/30/2004 WAS vs. PHX W 22 7 3 7 42.9 0 0 - 1 4 25.0 4 5 9 0 0 1 0 3 -5
+p369
+aVJared Jeffries WAS 01/30/2004 WAS vs. PHX W 17 4 1 3 33.3 0 0 - 2 2 100.0 3 5 8 0 0 1 2 4 -11
+p370
+aVBrevin Knight WAS 01/30/2004 WAS vs. PHX W 24 9 3 8 37.5 0 1 0.0 3 3 100.0 0 2 2 5 0 0 4 3 2
+p371
+aVSteve Blake WAS 01/30/2004 WAS vs. PHX W 24 13 3 5 60.0 3 3 100.0 4 5 80.0 0 0 0 2 1 1 3 2 4
+p372
+aVJarvis Hayes WAS 01/30/2004 WAS vs. PHX W 32 13 5 11 45.5 0 2 0.0 3 6 50.0 2 3 5 2 1 0 4 3 -10
+p373
+aVLarry Hughes WAS 01/30/2004 WAS vs. PHX W 38 23 8 18 44.4 4 9 44.4 3 6 50.0 1 8 9 5 4 0 6 3 12
+p374
+aVKwame Brown WAS 01/30/2004 WAS vs. PHX W 32 19 6 9 66.7 0 0 - 7 11 63.6 5 5 10 2 2 1 3 1 10
+p375
+aVBrevin Knight WAS 01/28/2004 WAS vs. ORL L 32 11 5 12 41.7 0 1 0.0 1 1 100.0 0 1 1 5 0 0 1 0 5
+p376
+aVJared Jeffries WAS 01/28/2004 WAS vs. ORL L 29 14 6 10 60.0 0 1 0.0 2 5 40.0 3 4 7 1 1 0 1 3 -2
+p377
+aVKwame Brown WAS 01/28/2004 WAS vs. ORL L 37 15 6 13 46.2 0 0 - 3 4 75.0 8 7 15 0 4 1 1 3 7
+p378
+aVBrendan Haywood WAS 01/28/2004 WAS vs. ORL L 7 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -8
+p379
+aVJarvis Hayes WAS 01/28/2004 WAS vs. ORL L 31 6 2 10 20.0 0 0 - 2 2 100.0 1 2 3 2 0 1 2 5 -12
+p380
+aVEtan Thomas WAS 01/28/2004 WAS vs. ORL L 19 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 0 3 3 -6
+p381
+aVSteve Blake WAS 01/28/2004 WAS vs. ORL L 16 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 2 1 0 1 1 -9
+p382
+aVMitchell Butler WAS 01/28/2004 WAS vs. ORL L 9 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 1 3
+p383
+aVJuan Dixon WAS 01/28/2004 WAS vs. ORL L 26 20 8 13 61.5 4 7 57.1 0 0 - 0 3 3 3 0 1 1 1 3
+p384
+aVLarry Hughes WAS 01/28/2004 WAS vs. ORL L 34 21 5 17 29.4 1 4 25.0 10 10 100.0 2 2 4 3 2 0 3 2 -1
+p385
+aVJarvis Hayes WAS 01/26/2004 WAS vs. POR L 36 4 2 13 15.4 0 3 0.0 0 0 - 0 4 4 0 0 0 2 1 -16
+p386
+aVJared Jeffries WAS 01/26/2004 WAS vs. POR L 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 0 2 0 6
+p387
+aVEtan Thomas WAS 01/26/2004 WAS vs. POR L 21 7 2 4 50.0 0 0 - 3 4 75.0 1 7 8 1 0 1 1 2 -17
+p388
+aVSteve Blake WAS 01/26/2004 WAS vs. POR L 27 5 2 8 25.0 1 5 20.0 0 0 - 0 1 1 3 1 0 2 1 1
+p389
+aVJuan Dixon WAS 01/26/2004 WAS vs. POR L 45 30 12 26 46.2 2 7 28.6 4 6 66.7 1 5 6 3 4 0 1 4 -10
+p390
+aVBrendan Haywood WAS 01/26/2004 WAS vs. POR L 21 12 5 9 55.6 0 0 - 2 3 66.7 3 2 5 0 1 1 0 1 5
+p391
+aVKwame Brown WAS 01/26/2004 WAS vs. POR L 42 11 3 7 42.9 0 0 - 5 5 100.0 3 7 10 5 3 1 3 0 -10
+p392
+aVChristian Laettner WAS 01/26/2004 WAS vs. POR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -4
+p393
+aVTorraye Braggs WAS 01/26/2004 WAS vs. POR L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 3
+p394
+aVBrevin Knight WAS 01/26/2004 WAS vs. POR L 24 10 5 8 62.5 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -13
+p395
+aVMitchell Butler WAS 01/24/2004 WAS vs. IND W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p396
+aVJarvis Hayes WAS 01/24/2004 WAS vs. IND W 26 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 6 3
+p397
+aVBrevin Knight WAS 01/24/2004 WAS vs. IND W 25 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 6 1 0 0 1 5
+p398
+aVJared Jeffries WAS 01/24/2004 WAS vs. IND W 16 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 1 0 0 1 2 10
+p399
+aVChristian Laettner WAS 01/24/2004 WAS vs. IND W 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 4
+p400
+aVBrendan Haywood WAS 01/24/2004 WAS vs. IND W 21 12 4 5 80.0 0 0 - 4 5 80.0 2 3 5 0 0 1 0 1 1
+p401
+aVJuan Dixon WAS 01/24/2004 WAS vs. IND W 13 8 3 4 75.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 1 5
+p402
+aVTorraye Braggs WAS 01/24/2004 WAS vs. IND W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 3
+p403
+aVKwame Brown WAS 01/24/2004 WAS vs. IND W 38 25 8 12 66.7 0 0 - 9 10 90.0 1 8 9 1 1 3 0 3 -1
+p404
+aVSteve Blake WAS 01/24/2004 WAS vs. IND W 23 18 2 6 33.3 2 3 66.7 12 13 92.3 0 1 1 5 1 0 0 1 6
+p405
+aVEtan Thomas WAS 01/24/2004 WAS vs. IND W 25 8 4 9 44.4 0 0 - 0 0 - 1 5 6 1 1 1 2 3 9
+p406
+aVLarry Hughes WAS 01/24/2004 WAS vs. IND W 29 16 6 14 42.9 1 2 50.0 3 7 42.9 0 2 2 2 1 0 1 2 6
+p407
+aVBrevin Knight WAS 01/23/2004 WAS @ BOS L 18 2 1 3 33.3 0 0 - 0 0 - 0 3 3 5 1 0 5 1 -23
+p408
+aVKwame Brown WAS 01/23/2004 WAS @ BOS L 18 3 0 2 0.0 0 0 - 3 4 75.0 3 3 6 0 1 0 2 2 -24
+p409
+aVJared Jeffries WAS 01/23/2004 WAS @ BOS L 19 7 3 7 42.9 0 0 - 1 4 25.0 0 1 1 0 0 0 2 1 -23
+p410
+aVLarry Hughes WAS 01/23/2004 WAS @ BOS L 25 15 5 10 50.0 2 5 40.0 3 5 60.0 0 3 3 2 2 1 3 2 -27
+p411
+aVEtan Thomas WAS 01/23/2004 WAS @ BOS L 18 6 3 8 37.5 0 0 - 0 1 0.0 0 2 2 0 0 0 2 1 5
+p412
+aVChristian Laettner WAS 01/23/2004 WAS @ BOS L 25 13 5 8 62.5 0 1 0.0 3 3 100.0 0 12 12 4 1 1 0 3 17
+p413
+aVBrendan Haywood WAS 01/23/2004 WAS @ BOS L 12 6 2 3 66.7 0 0 - 2 6 33.3 3 0 3 0 0 3 0 2 8
+p414
+aVJuan Dixon WAS 01/23/2004 WAS @ BOS L 30 14 4 13 30.8 2 7 28.6 4 4 100.0 0 1 1 3 1 0 3 6 12
+p415
+aVJarvis Hayes WAS 01/23/2004 WAS @ BOS L 40 6 2 8 25.0 0 2 0.0 2 2 100.0 0 2 2 2 1 0 2 3 -21
+p416
+aVMitchell Butler WAS 01/23/2004 WAS @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 2 0 1 0 9
+p417
+aVSteve Blake WAS 01/23/2004 WAS @ BOS L 30 17 6 11 54.5 5 7 71.4 0 0 - 0 1 1 5 2 0 4 1 12
+p418
+aVSteve Blake WAS 01/19/2004 WAS vs. CHI W 45 9 3 11 27.3 1 4 25.0 2 2 100.0 1 6 7 4 2 0 2 1 10
+p419
+aVKwame Brown WAS 01/19/2004 WAS vs. CHI W 29 12 2 6 33.3 0 0 - 8 9 88.9 2 6 8 1 0 1 2 3 9
+p420
+aVMitchell Butler WAS 01/19/2004 WAS vs. CHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p421
+aVLarry Hughes WAS 01/19/2004 WAS vs. CHI W 38 25 9 25 36.0 3 4 75.0 4 4 100.0 2 2 4 2 1 2 2 2 9
+p422
+aVJared Jeffries WAS 01/19/2004 WAS vs. CHI W 11 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 0 -18
+p423
+aVEtan Thomas WAS 01/19/2004 WAS vs. CHI W 26 13 5 8 62.5 0 0 - 3 4 75.0 1 7 8 0 0 3 1 2 12
+p424
+aVJuan Dixon WAS 01/19/2004 WAS vs. CHI W 31 17 8 16 50.0 1 2 50.0 0 2 0.0 1 2 3 5 5 0 1 3 17
+p425
+aVBrendan Haywood WAS 01/19/2004 WAS vs. CHI W 14 4 1 2 50.0 0 0 - 2 5 40.0 4 3 7 1 2 0 0 3 7
+p426
+aVJarvis Hayes WAS 01/19/2004 WAS vs. CHI W 40 12 6 19 31.6 0 1 0.0 0 0 - 5 9 14 1 2 0 0 1 7
+p427
+aVKwame Brown WAS 01/17/2004 WAS vs. SEA W 38 18 7 10 70.0 0 0 - 4 6 66.7 1 5 6 2 1 1 5 0 22
+p428
+aVJuan Dixon WAS 01/17/2004 WAS vs. SEA W 17 12 5 8 62.5 1 2 50.0 1 2 50.0 1 1 2 3 2 1 1 2 -1
+p429
+aVLarry Hughes WAS 01/17/2004 WAS vs. SEA W 40 27 9 24 37.5 1 4 25.0 8 10 80.0 1 4 5 2 1 0 3 1 16
+p430
+aVJared Jeffries WAS 01/17/2004 WAS vs. SEA W 25 6 3 7 42.9 0 0 - 0 0 - 1 3 4 2 0 1 2 4 15
+p431
+aVBrevin Knight WAS 01/17/2004 WAS vs. SEA W 30 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 9 3 0 0 2 11
+p432
+aVTorraye Braggs WAS 01/17/2004 WAS vs. SEA W 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p433
+aVMitchell Butler WAS 01/17/2004 WAS vs. SEA W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 0
+p434
+aVEtan Thomas WAS 01/17/2004 WAS vs. SEA W 18 10 5 7 71.4 0 0 - 0 0 - 2 5 7 0 0 1 1 5 -6
+p435
+aVSteve Blake WAS 01/17/2004 WAS vs. SEA W 22 5 2 4 50.0 0 1 0.0 1 2 50.0 0 3 3 6 0 0 3 1 1
+p436
+aVJarvis Hayes WAS 01/17/2004 WAS vs. SEA W 40 14 7 13 53.8 0 2 0.0 0 0 - 2 11 13 3 3 0 2 3 18
+p437
+aVJared Jeffries WAS 01/16/2004 WAS @ DET L 23 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 3 1 2 2 3 -12
+p438
+aVBrendan Haywood WAS 01/16/2004 WAS @ DET L 18 5 2 7 28.6 0 0 - 1 2 50.0 4 1 5 0 0 0 0 1 -18
+p439
+aVLarry Hughes WAS 01/16/2004 WAS @ DET L 31 10 3 12 25.0 0 2 0.0 4 4 100.0 0 2 2 2 2 1 1 2 -23
+p440
+aVJuan Dixon WAS 01/16/2004 WAS @ DET L 17 14 5 8 62.5 2 3 66.7 2 3 66.7 0 0 0 0 0 0 0 0 2
+p441
+aVJarvis Hayes WAS 01/16/2004 WAS @ DET L 22 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 1 1 0 1 1 -14
+p442
+aVTorraye Braggs WAS 01/16/2004 WAS @ DET L 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -12
+p443
+aVSteve Blake WAS 01/16/2004 WAS @ DET L 22 5 1 6 16.7 1 5 20.0 2 2 100.0 0 0 0 2 1 0 3 3 -4
+p444
+aVKwame Brown WAS 01/16/2004 WAS @ DET L 38 13 6 9 66.7 0 0 - 1 2 50.0 1 8 9 0 2 2 1 1 -9
+p445
+aVEtan Thomas WAS 01/16/2004 WAS @ DET L 18 3 1 6 16.7 0 0 - 1 2 50.0 3 3 6 1 2 0 0 2 -3
+p446
+aVMitchell Butler WAS 01/16/2004 WAS @ DET L 15 5 2 5 40.0 1 1 100.0 0 0 - 1 0 1 1 1 0 0 1 5
+p447
+aVBrevin Knight WAS 01/16/2004 WAS @ DET L 26 8 4 7 57.1 0 0 - 0 0 - 0 3 3 3 3 0 4 2 -17
+p448
+aVBrevin Knight WAS 01/14/2004 WAS @ NJN L 22 13 6 10 60.0 0 0 - 1 2 50.0 1 0 1 2 2 0 1 2 -24
+p449
+aVMitchell Butler WAS 01/14/2004 WAS @ NJN L 16 8 4 6 66.7 0 1 0.0 0 0 - 2 0 2 0 0 1 0 1 -12
+p450
+aVJarvis Hayes WAS 01/14/2004 WAS @ NJN L 25 10 4 6 66.7 1 1 100.0 1 1 100.0 1 2 3 1 2 1 2 3 -8
+p451
+aVBrendan Haywood WAS 01/14/2004 WAS @ NJN L 17 8 2 5 40.0 0 0 - 4 4 100.0 1 1 2 0 0 2 0 1 -22
+p452
+aVEtan Thomas WAS 01/14/2004 WAS @ NJN L 21 2 0 5 0.0 0 0 - 2 4 50.0 1 5 6 2 0 0 1 3 -1
+p453
+aVJuan Dixon WAS 01/14/2004 WAS @ NJN L 26 6 2 7 28.6 0 2 0.0 2 2 100.0 0 1 1 3 1 0 1 2 -4
+p454
+aVSteve Blake WAS 01/14/2004 WAS @ NJN L 27 16 4 11 36.4 3 5 60.0 5 5 100.0 0 2 2 8 3 0 4 3 8
+p455
+aVLarry Hughes WAS 01/14/2004 WAS @ NJN L 28 13 6 15 40.0 0 2 0.0 1 2 50.0 0 4 4 1 3 0 5 1 -3
+p456
+aVJared Jeffries WAS 01/14/2004 WAS @ NJN L 30 14 7 11 63.6 0 1 0.0 0 0 - 3 3 6 1 0 0 2 2 13
+p457
+aVKwame Brown WAS 01/14/2004 WAS @ NJN L 28 13 3 6 50.0 0 0 - 7 8 87.5 5 7 12 2 1 0 3 1 -7
+p458
+aVJared Jeffries WAS 01/13/2004 WAS vs. HOU L 30 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 1 1 0 2 -20
+p459
+aVJuan Dixon WAS 01/13/2004 WAS vs. HOU L 9 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 1 1 0 0 0 3
+p460
+aVJarvis Hayes WAS 01/13/2004 WAS vs. HOU L 27 13 5 8 62.5 1 2 50.0 2 2 100.0 1 3 4 1 0 0 1 1 3
+p461
+aVEtan Thomas WAS 01/13/2004 WAS vs. HOU L 24 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 2 0 1 4 -2
+p462
+aVLarry Hughes WAS 01/13/2004 WAS vs. HOU L 42 23 9 24 37.5 1 5 20.0 4 7 57.1 0 3 3 1 3 0 1 3 -16
+p463
+aVSteve Blake WAS 01/13/2004 WAS vs. HOU L 25 11 3 6 50.0 3 4 75.0 2 2 100.0 0 1 1 6 2 0 0 1 3
+p464
+aVBrendan Haywood WAS 01/13/2004 WAS vs. HOU L 19 4 1 3 33.3 0 0 - 2 4 50.0 2 2 4 0 1 3 2 3 -7
+p465
+aVKwame Brown WAS 01/13/2004 WAS vs. HOU L 41 13 4 13 30.8 0 0 - 5 6 83.3 2 6 8 3 0 0 3 4 -13
+p466
+aVBrevin Knight WAS 01/13/2004 WAS vs. HOU L 23 4 2 7 28.6 0 0 - 0 0 - 3 3 6 6 2 0 3 0 -16
+p467
+aVJarvis Hayes WAS 01/10/2004 WAS vs. PHI W 28 10 3 9 33.3 0 2 0.0 4 4 100.0 1 6 7 3 2 0 3 4 11
+p468
+aVChristian Laettner WAS 01/10/2004 WAS vs. PHI W 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 6
+p469
+aVKwame Brown WAS 01/10/2004 WAS vs. PHI W 39 14 5 11 45.5 0 0 - 4 6 66.7 4 9 13 2 2 2 2 1 8
+p470
+aVJared Jeffries WAS 01/10/2004 WAS vs. PHI W 26 4 2 5 40.0 0 1 0.0 0 1 0.0 1 4 5 2 1 0 3 4 -6
+p471
+aVMitchell Butler WAS 01/10/2004 WAS vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p472
+aVJuan Dixon WAS 01/10/2004 WAS vs. PHI W 10 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 1 1 0 1 0 -1
+p473
+aVSteve Blake WAS 01/10/2004 WAS vs. PHI W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -2
+p474
+aVLarry Hughes WAS 01/10/2004 WAS vs. PHI W 43 43 17 29 58.6 2 4 50.0 7 8 87.5 3 2 5 2 5 1 2 2 12
+p475
+aVEtan Thomas WAS 01/10/2004 WAS vs. PHI W 24 8 2 5 40.0 0 0 - 4 6 66.7 2 2 4 0 0 3 2 3 -6
+p476
+aVBrevin Knight WAS 01/10/2004 WAS vs. PHI W 39 2 0 3 0.0 0 1 0.0 2 2 100.0 1 3 4 6 5 0 4 4 5
+p477
+aVBrendan Haywood WAS 01/10/2004 WAS vs. PHI W 14 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 0 1 3 2 2
+p478
+aVEtan Thomas WAS 01/09/2004 WAS @ ORL L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -13
+p479
+aVBrendan Haywood WAS 01/09/2004 WAS @ ORL L 18 6 2 4 50.0 0 0 - 2 3 66.7 1 3 4 0 0 0 1 3 -1
+p480
+aVGilbert Arenas WAS 01/09/2004 WAS @ ORL L 38 13 5 17 29.4 0 5 0.0 3 4 75.0 4 3 7 5 2 1 5 4 -9
+p481
+aVJarvis Hayes WAS 01/09/2004 WAS @ ORL L 23 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -5
+p482
+aVJared Jeffries WAS 01/09/2004 WAS @ ORL L 25 8 3 5 60.0 0 1 0.0 2 3 66.7 3 2 5 0 0 0 0 4 -6
+p483
+aVSteve Blake WAS 01/09/2004 WAS @ ORL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 0
+p484
+aVLarry Hughes WAS 01/09/2004 WAS @ ORL L 41 26 9 18 50.0 2 4 50.0 6 7 85.7 3 6 9 1 2 0 2 1 -11
+p485
+aVBrevin Knight WAS 01/09/2004 WAS @ ORL L 14 6 3 4 75.0 0 0 - 0 2 0.0 0 1 1 5 3 0 1 3 0
+p486
+aVKwame Brown WAS 01/09/2004 WAS @ ORL L 35 17 5 10 50.0 0 0 - 7 12 58.3 2 1 3 1 3 1 1 4 -6
+p487
+aVChristian Laettner WAS 01/09/2004 WAS @ ORL L 18 7 3 8 37.5 0 2 0.0 1 1 100.0 5 1 6 1 0 0 0 3 0
+p488
+aVJuan Dixon WAS 01/09/2004 WAS @ ORL L 10 7 2 4 50.0 2 3 66.7 1 3 33.3 0 1 1 0 1 0 2 0 -4
+p489
+aVJuan Dixon WAS 01/07/2004 WAS @ NOH L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -9
+p490
+aVGilbert Arenas WAS 01/07/2004 WAS @ NOH L 33 13 4 13 30.8 2 7 28.6 3 6 50.0 1 3 4 3 1 0 4 4 0
+p491
+aVEtan Thomas WAS 01/07/2004 WAS @ NOH L 25 9 1 6 16.7 0 0 - 7 10 70.0 5 7 12 2 0 2 2 4 -10
+p492
+aVSteve Blake WAS 01/07/2004 WAS @ NOH L 13 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 2 0 0 0 1 9
+p493
+aVJared Jeffries WAS 01/07/2004 WAS @ NOH L 12 1 0 4 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 2 1 -9
+p494
+aVBrendan Haywood WAS 01/07/2004 WAS @ NOH L 22 10 5 7 71.4 0 0 - 0 2 0.0 4 4 8 0 0 2 1 3 0
+p495
+aVLarry Hughes WAS 01/07/2004 WAS @ NOH L 30 15 6 17 35.3 0 3 0.0 3 4 75.0 1 1 2 3 1 0 3 0 -3
+p496
+aVChristian Laettner WAS 01/07/2004 WAS @ NOH L 23 2 1 5 20.0 0 0 - 0 0 - 0 5 5 4 0 0 0 0 -1
+p497
+aVKwame Brown WAS 01/07/2004 WAS @ NOH L 28 9 3 5 60.0 0 0 - 3 4 75.0 3 3 6 0 3 1 2 3 -5
+p498
+aVJarvis Hayes WAS 01/07/2004 WAS @ NOH L 29 11 5 11 45.5 1 2 50.0 0 0 - 1 4 5 2 1 0 2 2 -15
+p499
+aVBrevin Knight WAS 01/07/2004 WAS @ NOH L 19 7 3 6 50.0 0 0 - 1 2 50.0 0 3 3 4 4 0 1 1 -7
+p500
+aVJarvis Hayes WAS 01/06/2004 WAS @ SAS L 21 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 2 -10
+p501
+aVEtan Thomas WAS 01/06/2004 WAS @ SAS L 23 8 3 10 30.0 0 0 - 2 4 50.0 3 2 5 2 0 0 2 1 -18
+p502
+aVLarry Hughes WAS 01/06/2004 WAS @ SAS L 23 9 3 6 50.0 0 1 0.0 3 3 100.0 1 1 2 1 1 0 2 1 -15
+p503
+aVSteve Blake WAS 01/06/2004 WAS @ SAS L 25 5 2 8 25.0 0 4 0.0 1 2 50.0 0 0 0 2 1 1 0 0 -7
+p504
+aVGilbert Arenas WAS 01/06/2004 WAS @ SAS L 32 17 6 19 31.6 2 3 66.7 3 6 50.0 2 4 6 1 3 0 2 3 -21
+p505
+aVBrendan Haywood WAS 01/06/2004 WAS @ SAS L 21 6 2 5 40.0 0 0 - 2 6 33.3 3 4 7 2 2 0 3 2 2
+p506
+aVJuan Dixon WAS 01/06/2004 WAS @ SAS L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 -3
+p507
+aVMitchell Butler WAS 01/06/2004 WAS @ SAS L 6 4 1 2 50.0 0 0 - 2 4 50.0 0 0 0 0 1 0 0 1 4
+p508
+aVKwame Brown WAS 01/06/2004 WAS @ SAS L 23 6 1 7 14.3 0 0 - 4 6 66.7 1 5 6 0 0 0 1 2 -8
+p509
+aVChristian Laettner WAS 01/06/2004 WAS @ SAS L 22 2 1 8 12.5 0 1 0.0 0 0 - 0 2 2 2 0 0 0 3 -20
+p510
+aVJared Jeffries WAS 01/06/2004 WAS @ SAS L 25 4 2 4 50.0 0 1 0.0 0 0 - 2 6 8 1 0 0 1 2 -14
+p511
+aVSteve Blake WAS 01/04/2004 WAS vs. MIL L 20 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 3 1 0 2 2 2
+p512
+aVJarvis Hayes WAS 01/04/2004 WAS vs. MIL L 21 6 3 8 37.5 0 1 0.0 0 0 - 2 1 3 1 0 0 3 4 -7
+p513
+aVGilbert Arenas WAS 01/04/2004 WAS vs. MIL L 34 18 6 18 33.3 3 6 50.0 3 6 50.0 1 2 3 3 1 2 3 5 -10
+p514
+aVKwame Brown WAS 01/04/2004 WAS vs. MIL L 31 23 7 11 63.6 0 0 - 9 11 81.8 5 6 11 2 2 2 3 3 -4
+p515
+aVChristian Laettner WAS 01/04/2004 WAS vs. MIL L 29 7 3 4 75.0 0 0 - 1 2 50.0 0 8 8 3 0 2 1 3 -10
+p516
+aVMitchell Butler WAS 01/04/2004 WAS vs. MIL L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -3
+p517
+aVBrendan Haywood WAS 01/04/2004 WAS vs. MIL L 16 9 4 4 100.0 0 0 - 1 3 33.3 2 1 3 0 0 1 1 2 3
+p518
+aVJared Jeffries WAS 01/04/2004 WAS vs. MIL L 20 4 2 3 66.7 0 0 - 0 2 0.0 1 4 5 0 0 0 0 4 5
+p519
+aVEtan Thomas WAS 01/04/2004 WAS vs. MIL L 22 4 2 3 66.7 0 0 - 0 0 - 2 5 7 3 0 1 1 2 -2
+p520
+aVLarry Hughes WAS 01/04/2004 WAS vs. MIL L 42 14 5 23 21.7 0 3 0.0 4 5 80.0 3 5 8 6 2 0 4 4 -4
+p521
+aVChristian Laettner WAS 01/02/2004 WAS vs. GSW W 32 8 4 8 50.0 0 0 - 0 0 - 0 6 6 9 1 0 1 3 8
+p522
+aVJared Jeffries WAS 01/02/2004 WAS vs. GSW W 33 10 3 14 21.4 0 0 - 4 5 80.0 6 6 12 2 3 3 2 0 13
+p523
+aVSteve Blake WAS 01/02/2004 WAS vs. GSW W 20 9 4 8 50.0 1 3 33.3 0 0 - 1 2 3 4 3 0 1 0 6
+p524
+aVGilbert Arenas WAS 01/02/2004 WAS vs. GSW W 38 9 4 8 50.0 1 3 33.3 0 3 0.0 1 8 9 5 2 1 7 3 16
+p525
+aVEtan Thomas WAS 01/02/2004 WAS vs. GSW W 18 10 4 8 50.0 0 0 - 2 4 50.0 5 3 8 1 1 1 1 1 14
+p526
+aVJarvis Hayes WAS 01/02/2004 WAS vs. GSW W 27 20 9 18 50.0 1 2 50.0 1 2 50.0 2 2 4 3 1 0 2 2 23
+p527
+aVKwame Brown WAS 01/02/2004 WAS vs. GSW W 13 8 4 4 100.0 0 0 - 0 0 - 4 3 7 2 0 0 1 1 -1
+p528
+aVLarry Hughes WAS 01/02/2004 WAS vs. GSW W 37 15 5 15 33.3 1 2 50.0 4 4 100.0 4 2 6 3 2 1 3 4 10
+p529
+aVJuan Dixon WAS 01/02/2004 WAS vs. GSW W 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 2
+p530
+aVBrendan Haywood WAS 01/02/2004 WAS vs. GSW W 14 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p531
+aVGilbert Arenas WAS 12/30/2003 WAS vs. ATL L 31 14 5 19 26.3 2 6 33.3 2 4 50.0 0 4 4 3 1 0 4 3 -17
+p532
+aVSteve Blake WAS 12/30/2003 WAS vs. ATL L 25 2 1 7 14.3 0 1 0.0 0 0 - 0 4 4 5 1 0 3 0 9
+p533
+aVJarvis Hayes WAS 12/30/2003 WAS vs. ATL L 33 4 2 7 28.6 0 3 0.0 0 0 - 1 5 6 3 1 0 1 0 -14
+p534
+aVKwame Brown WAS 12/30/2003 WAS vs. ATL L 28 9 4 8 50.0 0 0 - 1 2 50.0 2 4 6 1 0 3 3 1 2
+p535
+aVBrendan Haywood WAS 12/30/2003 WAS vs. ATL L 23 12 3 6 50.0 0 0 - 6 9 66.7 4 3 7 1 0 2 1 2 11
+p536
+aVJared Jeffries WAS 12/30/2003 WAS vs. ATL L 36 2 1 2 50.0 0 0 - 0 0 - 3 9 12 1 0 1 3 3 -11
+p537
+aVEtan Thomas WAS 12/30/2003 WAS vs. ATL L 21 6 2 4 50.0 0 0 - 2 4 50.0 0 1 1 2 0 2 0 2 -20
+p538
+aVJuan Dixon WAS 12/30/2003 WAS vs. ATL L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -3
+p539
+aVLarry Hughes WAS 12/30/2003 WAS vs. ATL L 39 24 8 21 38.1 2 5 40.0 6 6 100.0 1 5 6 2 2 1 3 2 -7
+p540
+aVJarvis Hayes WAS 12/27/2003 WAS @ CHI L 36 9 4 10 40.0 0 1 0.0 1 2 50.0 0 6 6 1 2 1 3 2 -13
+p541
+aVBrendan Haywood WAS 12/27/2003 WAS @ CHI L 17 9 3 6 50.0 0 0 - 3 5 60.0 1 1 2 1 1 0 2 0 -7
+p542
+aVChristian Laettner WAS 12/27/2003 WAS @ CHI L 11 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 0 1 1 1 -17
+p543
+aVJuan Dixon WAS 12/27/2003 WAS @ CHI L 18 6 2 6 33.3 0 3 0.0 2 2 100.0 0 2 2 0 0 0 2 1 -16
+p544
+aVBrevin Knight WAS 12/27/2003 WAS @ CHI L 19 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 1 -11
+p545
+aVSteve Blake WAS 12/27/2003 WAS @ CHI L 29 6 2 8 25.0 2 5 40.0 0 0 - 1 2 3 5 1 0 3 1 -3
+p546
+aVLarry Hughes WAS 12/27/2003 WAS @ CHI L 28 22 9 20 45.0 0 2 0.0 4 5 80.0 0 4 4 0 1 0 2 2 2
+p547
+aVKwame Brown WAS 12/27/2003 WAS @ CHI L 20 6 2 6 33.3 0 0 - 2 2 100.0 3 5 8 5 1 0 1 3 -13
+p548
+aVMitchell Butler WAS 12/27/2003 WAS @ CHI L 7 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 0 1 0 2 0 7
+p549
+aVEtan Thomas WAS 12/27/2003 WAS @ CHI L 26 10 5 10 50.0 0 0 - 0 2 0.0 4 6 10 0 0 1 1 4 2
+p550
+aVJared Jeffries WAS 12/27/2003 WAS @ CHI L 28 7 3 7 42.9 0 0 - 1 2 50.0 5 3 8 7 0 0 1 1 -1
+p551
+aVEtan Thomas WAS 12/26/2003 WAS vs. MIA L 26 13 4 10 40.0 0 0 - 5 6 83.3 5 5 10 1 1 2 2 3 -15
+p552
+aVJuan Dixon WAS 12/26/2003 WAS vs. MIA L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 1 0
+p553
+aVLarry Hughes WAS 12/26/2003 WAS vs. MIA L 41 21 6 21 28.6 1 4 25.0 8 10 80.0 3 4 7 3 1 0 2 3 -8
+p554
+aVJared Jeffries WAS 12/26/2003 WAS vs. MIA L 25 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 2 3 -16
+p555
+aVBrevin Knight WAS 12/26/2003 WAS vs. MIA L 16 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 1 2 0 2 0 -8
+p556
+aVSteve Blake WAS 12/26/2003 WAS vs. MIA L 32 9 4 7 57.1 1 4 25.0 0 0 - 0 2 2 7 1 0 0 4 0
+p557
+aVMitchell Butler WAS 12/26/2003 WAS vs. MIA L 8 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 1 1 9
+p558
+aVJarvis Hayes WAS 12/26/2003 WAS vs. MIA L 38 14 6 14 42.9 2 4 50.0 0 0 - 1 5 6 4 4 0 3 0 -11
+p559
+aVBrendan Haywood WAS 12/26/2003 WAS vs. MIA L 22 11 4 8 50.0 0 0 - 3 5 60.0 1 1 2 3 0 2 1 2 7
+p560
+aVKwame Brown WAS 12/26/2003 WAS vs. MIA L 25 10 4 6 66.7 0 0 - 2 2 100.0 2 5 7 0 0 0 2 3 2
+p561
+aVSteve Blake WAS 12/23/2003 WAS @ MIA L 33 8 3 8 37.5 2 6 33.3 0 0 - 1 5 6 3 0 0 0 2 -1
+p562
+aVJarvis Hayes WAS 12/23/2003 WAS @ MIA L 35 13 6 14 42.9 1 2 50.0 0 0 - 0 6 6 0 2 0 5 5 -4
+p563
+aVJared Jeffries WAS 12/23/2003 WAS @ MIA L 34 14 7 17 41.2 0 1 0.0 0 2 0.0 6 4 10 3 0 0 2 3 1
+p564
+aVBrendan Haywood WAS 12/23/2003 WAS @ MIA L 10 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -2
+p565
+aVEtan Thomas WAS 12/23/2003 WAS @ MIA L 33 0 0 7 0.0 0 0 - 0 0 - 1 6 7 1 0 4 1 1 1
+p566
+aVChristian Laettner WAS 12/23/2003 WAS @ MIA L 18 6 3 6 50.0 0 1 0.0 0 0 - 1 4 5 0 0 0 0 2 -9
+p567
+aVLarry Hughes WAS 12/23/2003 WAS @ MIA L 38 16 7 16 43.8 1 3 33.3 1 1 100.0 0 2 2 4 2 0 3 1 -3
+p568
+aVJuan Dixon WAS 12/23/2003 WAS @ MIA L 15 11 3 7 42.9 1 2 50.0 4 4 100.0 0 1 1 3 1 0 1 0 -8
+p569
+aVBrevin Knight WAS 12/23/2003 WAS @ MIA L 10 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 1 -2
+p570
+aVKwame Brown WAS 12/23/2003 WAS @ MIA L 14 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 1 1 0 -8
+p571
+aVChristian Laettner WAS 12/19/2003 WAS @ NJN L 22 2 1 7 14.3 0 2 0.0 0 0 - 3 5 8 4 4 0 2 0 -1
+p572
+aVEtan Thomas WAS 12/19/2003 WAS @ NJN L 29 12 5 7 71.4 0 0 - 2 3 66.7 0 5 5 0 0 4 1 2 -16
+p573
+aVSteve Blake WAS 12/19/2003 WAS @ NJN L 26 11 4 10 40.0 3 5 60.0 0 0 - 2 2 4 3 1 0 3 4 5
+p574
+aVBrevin Knight WAS 12/19/2003 WAS @ NJN L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 2 0 3 0 0
+p575
+aVKwame Brown WAS 12/19/2003 WAS @ NJN L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 0 0 2 1 -6
+p576
+aVJared Jeffries WAS 12/19/2003 WAS @ NJN L 36 9 3 10 30.0 0 1 0.0 3 4 75.0 2 10 12 2 2 0 3 5 -4
+p577
+aVJuan Dixon WAS 12/19/2003 WAS @ NJN L 17 11 4 8 50.0 3 6 50.0 0 0 - 1 0 1 0 1 0 2 1 -5
+p578
+aVLarry Hughes WAS 12/19/2003 WAS @ NJN L 44 17 6 20 30.0 2 5 40.0 3 4 75.0 1 3 4 7 2 0 5 2 -15
+p579
+aVJarvis Hayes WAS 12/19/2003 WAS @ NJN L 40 22 6 11 54.5 3 4 75.0 7 7 100.0 0 4 4 5 2 0 3 3 -8
+p580
+aVJuan Dixon WAS 12/16/2003 WAS vs. UTA W 15 0 0 6 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p581
+aVEtan Thomas WAS 12/16/2003 WAS vs. UTA W 26 6 3 9 33.3 0 0 - 0 0 - 1 7 8 1 0 2 2 3 -4
+p582
+aVBrendan Haywood WAS 12/16/2003 WAS vs. UTA W 13 8 3 6 50.0 0 0 - 2 4 50.0 3 1 4 2 0 0 1 2 6
+p583
+aVLarry Hughes WAS 12/16/2003 WAS vs. UTA W 42 38 10 21 47.6 4 7 57.1 14 16 87.5 0 3 3 2 3 1 1 1 4
+p584
+aVJared Jeffries WAS 12/16/2003 WAS vs. UTA W 38 11 5 11 45.5 0 0 - 1 1 100.0 5 6 11 2 1 0 1 1 -2
+p585
+aVChristian Laettner WAS 12/16/2003 WAS vs. UTA W 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 1 0 0 2
+p586
+aVKwame Brown WAS 12/16/2003 WAS vs. UTA W 18 6 3 8 37.5 0 0 - 0 0 - 0 0 0 2 2 0 3 4 13
+p587
+aVJarvis Hayes WAS 12/16/2003 WAS vs. UTA W 31 12 4 8 50.0 2 2 100.0 2 2 100.0 0 4 4 3 0 0 1 4 -1
+p588
+aVSteve Blake WAS 12/16/2003 WAS vs. UTA W 25 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 5 0 0 2 1 -4
+p589
+aVBrevin Knight WAS 12/16/2003 WAS vs. UTA W 24 2 0 1 0.0 0 0 - 2 4 50.0 0 0 0 4 0 0 0 4 8
+p590
+aVJuan Dixon WAS 12/14/2003 WAS @ NYK L 23 8 3 8 37.5 0 1 0.0 2 2 100.0 0 2 2 1 1 0 2 5 -4
+p591
+aVBrendan Haywood WAS 12/14/2003 WAS @ NYK L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 0 2 -10
+p592
+aVJared Jeffries WAS 12/14/2003 WAS @ NYK L 40 7 3 5 60.0 0 0 - 1 3 33.3 2 8 10 1 2 0 1 3 3
+p593
+aVSteve Blake WAS 12/14/2003 WAS @ NYK L 21 2 0 4 0.0 0 2 0.0 2 2 100.0 1 0 1 5 4 1 3 3 0
+p594
+aVChristian Laettner WAS 12/14/2003 WAS @ NYK L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 2
+p595
+aVBrevin Knight WAS 12/14/2003 WAS @ NYK L 27 9 4 6 66.7 1 1 100.0 0 0 - 0 7 7 5 2 0 2 3 -2
+p596
+aVKwame Brown WAS 12/14/2003 WAS @ NYK L 14 5 1 4 25.0 0 0 - 3 8 37.5 0 2 2 0 0 0 0 0 -7
+p597
+aVJarvis Hayes WAS 12/14/2003 WAS @ NYK L 36 17 6 14 42.9 0 2 0.0 5 6 83.3 1 2 3 0 0 0 1 2 -2
+p598
+aVEtan Thomas WAS 12/14/2003 WAS @ NYK L 34 16 6 11 54.5 0 0 - 4 6 66.7 3 7 10 1 0 2 5 4 6
+p599
+aVLarry Hughes WAS 12/14/2003 WAS @ NYK L 31 19 7 17 41.2 1 3 33.3 4 4 100.0 2 4 6 4 2 0 3 4 4
+p600
+aVGilbert Arenas WAS 12/12/2003 WAS vs. MIN L 24 9 3 9 33.3 1 3 33.3 2 3 66.7 0 1 1 4 3 1 5 1 -25
+p601
+aVChristian Laettner WAS 12/12/2003 WAS vs. MIN L 25 14 6 11 54.5 0 2 0.0 2 3 66.7 3 5 8 1 0 0 1 1 2
+p602
+aVJared Jeffries WAS 12/12/2003 WAS vs. MIN L 18 4 2 6 33.3 0 0 - 0 0 - 3 2 5 0 0 0 2 3 -18
+p603
+aVJuan Dixon WAS 12/12/2003 WAS vs. MIN L 25 11 5 11 45.5 1 3 33.3 0 0 - 0 4 4 5 1 0 2 2 3
+p604
+aVSteve Blake WAS 12/12/2003 WAS vs. MIN L 24 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 4 1 0 0 1 6
+p605
+aVKwame Brown WAS 12/12/2003 WAS vs. MIN L 22 4 1 5 20.0 0 0 - 2 2 100.0 3 4 7 1 0 0 0 0 5
+p606
+aVEtan Thomas WAS 12/12/2003 WAS vs. MIN L 28 7 3 8 37.5 0 0 - 1 2 50.0 3 4 7 4 1 0 2 2 -26
+p607
+aVBrendan Haywood WAS 12/12/2003 WAS vs. MIN L 17 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 1 1 0 2 15
+p608
+aVLarry Hughes WAS 12/12/2003 WAS vs. MIN L 32 16 6 16 37.5 3 7 42.9 1 2 50.0 0 3 3 3 0 1 2 3 -28
+p609
+aVJarvis Hayes WAS 12/12/2003 WAS vs. MIN L 25 11 2 5 40.0 1 2 50.0 6 6 100.0 1 1 2 1 1 0 0 1 -29
+p610
+aVLarry Hughes WAS 12/10/2003 WAS vs. ORL L 39 19 6 22 27.3 1 3 33.3 6 6 100.0 3 5 8 2 1 0 3 3 -11
+p611
+aVJarvis Hayes WAS 12/10/2003 WAS vs. ORL L 24 2 0 5 0.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 1 1 -12
+p612
+aVJared Jeffries WAS 12/10/2003 WAS vs. ORL L 18 7 2 4 50.0 0 0 - 3 3 100.0 1 1 2 0 0 0 3 1 0
+p613
+aVKwame Brown WAS 12/10/2003 WAS vs. ORL L 34 18 5 9 55.6 0 0 - 8 9 88.9 7 7 14 3 1 1 1 3 3
+p614
+aVChristian Laettner WAS 12/10/2003 WAS vs. ORL L 24 8 4 6 66.7 0 0 - 0 0 - 0 4 4 2 3 0 0 2 -14
+p615
+aVSteve Blake WAS 12/10/2003 WAS vs. ORL L 34 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 3 0 1 3 4 -10
+p616
+aVJuan Dixon WAS 12/10/2003 WAS vs. ORL L 26 15 6 14 42.9 0 4 0.0 3 3 100.0 1 6 7 4 2 0 5 2 8
+p617
+aVEtan Thomas WAS 12/10/2003 WAS vs. ORL L 27 10 5 10 50.0 0 0 - 0 0 - 4 8 12 1 0 3 2 3 -2
+p618
+aVBrendan Haywood WAS 12/10/2003 WAS vs. ORL L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 1 1 0 9
+p619
+aVChris Whitney WAS 12/10/2003 WAS vs. ORL L 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 9
+p620
+aVSteve Blake WAS 12/09/2003 WAS @ IND L 24 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 1 0 4 0 -5
+p621
+aVJared Jeffries WAS 12/09/2003 WAS @ IND L 16 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 2 -2
+p622
+aVChristian Laettner WAS 12/09/2003 WAS @ IND L 24 10 5 8 62.5 0 0 - 0 1 0.0 2 5 7 2 1 1 2 2 -12
+p623
+aVKwame Brown WAS 12/09/2003 WAS @ IND L 34 17 6 8 75.0 0 0 - 5 7 71.4 0 7 7 2 1 1 2 3 -11
+p624
+aVBrendan Haywood WAS 12/09/2003 WAS @ IND L 10 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -4
+p625
+aVJarvis Hayes WAS 12/09/2003 WAS @ IND L 31 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 2 1 2 3 2 -5
+p626
+aVMitchell Butler WAS 12/09/2003 WAS @ IND L 13 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 2 0 0 2 -3
+p627
+aVBrevin Knight WAS 12/09/2003 WAS @ IND L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -5
+p628
+aVJuan Dixon WAS 12/09/2003 WAS @ IND L 26 10 4 12 33.3 0 2 0.0 2 2 100.0 0 0 0 3 2 1 1 1 -5
+p629
+aVLarry Hughes WAS 12/09/2003 WAS @ IND L 37 16 6 15 40.0 0 3 0.0 4 4 100.0 0 5 5 4 1 0 3 3 -13
+p630
+aVEtan Thomas WAS 12/09/2003 WAS @ IND L 16 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 1 2 3 -5
+p631
+aVChristian Laettner WAS 12/06/2003 WAS @ MIL W 31 11 4 8 50.0 1 1 100.0 2 2 100.0 2 6 8 3 1 1 0 6 -11
+p632
+aVLarry Hughes WAS 12/06/2003 WAS @ MIL W 36 36 13 22 59.1 2 6 33.3 8 10 80.0 1 3 4 0 0 1 0 6 -3
+p633
+aVKwame Brown WAS 12/06/2003 WAS @ MIL W 23 18 7 10 70.0 0 0 - 4 4 100.0 3 1 4 0 2 0 0 2 17
+p634
+aVMitchell Butler WAS 12/06/2003 WAS @ MIL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 10
+p635
+aVSteve Blake WAS 12/06/2003 WAS @ MIL W 22 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 5 1 0 3 1 -3
+p636
+aVBrendan Haywood WAS 12/06/2003 WAS @ MIL W 14 8 2 4 50.0 0 0 - 4 8 50.0 1 0 1 0 0 0 1 1 14
+p637
+aVJarvis Hayes WAS 12/06/2003 WAS @ MIL W 39 11 5 11 45.5 1 2 50.0 0 0 - 2 2 4 4 0 0 2 4 -4
+p638
+aVJared Jeffries WAS 12/06/2003 WAS @ MIL W 7 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -1
+p639
+aVBrevin Knight WAS 12/06/2003 WAS @ MIL W 23 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 4 4 0 0 4 8
+p640
+aVEtan Thomas WAS 12/06/2003 WAS @ MIL W 37 7 2 9 22.2 0 0 - 3 8 37.5 3 4 7 4 1 1 1 3 -6
+p641
+aVJuan Dixon WAS 12/06/2003 WAS @ MIL W 27 9 4 14 28.6 0 3 0.0 1 4 25.0 0 5 5 5 2 0 3 2 4
+p642
+aVJuan Dixon WAS 12/05/2003 WAS @ MEM L 21 11 5 10 50.0 1 3 33.3 0 0 - 0 2 2 3 4 0 1 2 -12
+p643
+aVChris Whitney WAS 12/05/2003 WAS @ MEM L 17 3 1 5 20.0 1 1 100.0 0 0 - 0 2 2 0 1 0 1 0 -4
+p644
+aVEtan Thomas WAS 12/05/2003 WAS @ MEM L 20 0 0 2 0.0 0 0 - 0 2 0.0 0 4 4 1 1 4 4 3 -2
+p645
+aVLarry Hughes WAS 12/05/2003 WAS @ MEM L 31 15 2 13 15.4 1 6 16.7 10 12 83.3 3 3 6 2 0 0 1 2 -3
+p646
+aVSteve Blake WAS 12/05/2003 WAS @ MEM L 21 12 5 8 62.5 2 3 66.7 0 0 - 2 1 3 4 0 0 3 2 -5
+p647
+aVBrendan Haywood WAS 12/05/2003 WAS @ MEM L 22 3 1 2 50.0 0 0 - 1 3 33.3 3 3 6 1 0 1 3 1 -6
+p648
+aVJared Jeffries WAS 12/05/2003 WAS @ MEM L 20 2 1 6 16.7 0 0 - 0 0 - 5 2 7 1 0 1 1 3 -3
+p649
+aVKwame Brown WAS 12/05/2003 WAS @ MEM L 28 3 1 11 9.1 0 0 - 1 2 50.0 2 7 9 2 0 1 2 3 -6
+p650
+aVChristian Laettner WAS 12/05/2003 WAS @ MEM L 17 17 7 10 70.0 1 3 33.3 2 2 100.0 2 1 3 0 0 0 3 2 -16
+p651
+aVJarvis Hayes WAS 12/05/2003 WAS @ MEM L 30 6 3 9 33.3 0 1 0.0 0 0 - 1 7 8 2 2 1 2 1 -12
+p652
+aVBrevin Knight WAS 12/05/2003 WAS @ MEM L 13 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 2 0 0 1 0 -6
+p653
+aVBrevin Knight WAS 12/02/2003 WAS @ DAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p654
+aVKwame Brown WAS 12/02/2003 WAS @ DAL L 22 10 4 7 57.1 0 0 - 2 3 66.7 3 4 7 2 1 2 1 0 -11
+p655
+aVJuan Dixon WAS 12/02/2003 WAS @ DAL L 22 6 1 12 8.3 1 8 12.5 3 4 75.0 1 2 3 1 1 0 1 1 -8
+p656
+aVJared Jeffries WAS 12/02/2003 WAS @ DAL L 22 4 1 3 33.3 0 1 0.0 2 3 66.7 1 3 4 1 2 0 0 3 -11
+p657
+aVJarvis Hayes WAS 12/02/2003 WAS @ DAL L 32 8 4 15 26.7 0 3 0.0 0 0 - 1 2 3 1 0 0 1 1 -19
+p658
+aVChristian Laettner WAS 12/02/2003 WAS @ DAL L 23 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 3 1 3 2 2 -8
+p659
+aVMitchell Butler WAS 12/02/2003 WAS @ DAL L 14 8 4 4 100.0 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -3
+p660
+aVChris Whitney WAS 12/02/2003 WAS @ DAL L 17 6 2 6 33.3 1 4 25.0 1 1 100.0 0 1 1 2 0 1 2 1 -10
+p661
+aVSteve Blake WAS 12/02/2003 WAS @ DAL L 25 8 2 8 25.0 1 5 20.0 3 4 75.0 0 1 1 2 3 1 3 0 -9
+p662
+aVLarry Hughes WAS 12/02/2003 WAS @ DAL L 30 12 5 14 35.7 1 4 25.0 1 2 50.0 1 6 7 0 0 0 4 1 -17
+p663
+aVBrendan Haywood WAS 12/02/2003 WAS @ DAL L 29 5 1 8 12.5 0 0 - 3 6 50.0 8 8 16 0 1 4 1 2 -21
+p664
+aVMitchell Butler WAS 11/29/2003 WAS vs. DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p665
+aVChristian Laettner WAS 11/29/2003 WAS vs. DET L 20 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 3 -8
+p666
+aVSteve Blake WAS 11/29/2003 WAS vs. DET L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 3 1 0 0 1 -10
+p667
+aVBrendan Haywood WAS 11/29/2003 WAS vs. DET L 36 23 10 16 62.5 0 0 - 3 5 60.0 6 5 11 0 0 1 1 3 -2
+p668
+aVJuan Dixon WAS 11/29/2003 WAS vs. DET L 19 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 1 0 0 2 2 -2
+p669
+aVBrevin Knight WAS 11/29/2003 WAS vs. DET L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 1 0 0 2 2
+p670
+aVKwame Brown WAS 11/29/2003 WAS vs. DET L 14 5 2 6 33.3 0 0 - 1 2 50.0 0 4 4 0 0 2 2 4 -16
+p671
+aVJarvis Hayes WAS 11/29/2003 WAS vs. DET L 42 6 3 11 27.3 0 1 0.0 0 2 0.0 1 3 4 0 0 0 3 4 -7
+p672
+aVJared Jeffries WAS 11/29/2003 WAS vs. DET L 26 9 4 10 40.0 0 1 0.0 1 3 33.3 2 4 6 2 2 0 1 4 4
+p673
+aVChris Whitney WAS 11/29/2003 WAS vs. DET L 20 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 0 0 1 0 3 -7
+p674
+aVLarry Hughes WAS 11/29/2003 WAS vs. DET L 35 15 6 13 46.2 2 4 50.0 1 2 50.0 1 6 7 2 5 0 4 1 -5
+p675
+aVJuan Dixon WAS 11/26/2003 WAS @ LAL L 21 20 6 19 31.6 1 6 16.7 7 8 87.5 0 0 0 3 5 0 3 4 2
+p676
+aVChris Whitney WAS 11/26/2003 WAS @ LAL L 20 11 4 8 50.0 1 3 33.3 2 2 100.0 0 2 2 1 0 0 0 1 -11
+p677
+aVLarry Hughes WAS 11/26/2003 WAS @ LAL L 25 13 5 16 31.3 1 3 33.3 2 4 50.0 2 1 3 1 0 1 3 1 -22
+p678
+aVBrendan Haywood WAS 11/26/2003 WAS @ LAL L 17 2 1 1 100.0 0 0 - 0 0 - 2 3 5 4 0 1 2 3 -5
+p679
+aVBrevin Knight WAS 11/26/2003 WAS @ LAL L 14 4 2 4 50.0 0 0 - 0 0 - 1 0 1 4 2 0 2 2 3
+p680
+aVJarvis Hayes WAS 11/26/2003 WAS @ LAL L 33 22 10 18 55.6 0 3 0.0 2 2 100.0 4 2 6 0 1 0 3 3 -12
+p681
+aVKwame Brown WAS 11/26/2003 WAS @ LAL L 24 2 1 5 20.0 0 0 - 0 0 - 0 4 4 1 2 0 2 4 -14
+p682
+aVEtan Thomas WAS 11/26/2003 WAS @ LAL L 27 12 5 7 71.4 0 0 - 2 2 100.0 5 3 8 3 0 0 2 2 -9
+p683
+aVSteve Blake WAS 11/26/2003 WAS @ LAL L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 1 0 1 1 -13
+p684
+aVJared Jeffries WAS 11/26/2003 WAS @ LAL L 22 0 0 5 0.0 0 1 0.0 0 0 - 4 0 4 1 0 0 2 2 -6
+p685
+aVChristian Laettner WAS 11/26/2003 WAS @ LAL L 24 11 4 7 57.1 1 2 50.0 2 2 100.0 0 4 4 4 2 0 0 1 -18
+p686
+aVLarry Hughes WAS 11/25/2003 WAS @ POR W 33 22 8 18 44.4 3 3 100.0 3 4 75.0 2 1 3 2 1 0 3 2 -3
+p687
+aVJarvis Hayes WAS 11/25/2003 WAS @ POR W 24 6 2 7 28.6 0 1 0.0 2 3 66.7 1 3 4 2 1 0 0 0 5
+p688
+aVJared Jeffries WAS 11/25/2003 WAS @ POR W 19 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 1 0 3 4 6
+p689
+aVChristian Laettner WAS 11/25/2003 WAS @ POR W 34 6 2 8 25.0 0 0 - 2 2 100.0 0 6 6 2 3 0 2 3 -1
+p690
+aVKwame Brown WAS 11/25/2003 WAS @ POR W 28 10 2 7 28.6 0 0 - 6 6 100.0 2 3 5 4 3 1 1 1 -5
+p691
+aVBrevin Knight WAS 11/25/2003 WAS @ POR W 18 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 3 0 1 3 -3
+p692
+aVBrendan Haywood WAS 11/25/2003 WAS @ POR W 16 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p693
+aVJuan Dixon WAS 11/25/2003 WAS @ POR W 10 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -8
+p694
+aVChris Whitney WAS 11/25/2003 WAS @ POR W 25 8 3 5 60.0 2 3 66.7 0 0 - 1 1 2 3 2 0 2 0 13
+p695
+aVEtan Thomas WAS 11/25/2003 WAS @ POR W 32 12 5 7 71.4 0 0 - 2 2 100.0 1 3 4 2 1 1 1 3 1
+p696
+aVGilbert Arenas WAS 11/23/2003 WAS @ SEA L 37 15 6 20 30.0 2 7 28.6 1 1 100.0 3 4 7 4 2 0 4 3 4
+p697
+aVJuan Dixon WAS 11/23/2003 WAS @ SEA L 22 17 6 11 54.5 2 6 33.3 3 5 60.0 0 2 2 2 0 0 1 0 14
+p698
+aVJared Jeffries WAS 11/23/2003 WAS @ SEA L 26 9 3 5 60.0 2 2 100.0 1 2 50.0 1 1 2 1 1 0 1 3 6
+p699
+aVSteve Blake WAS 11/23/2003 WAS @ SEA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -2
+p700
+aVChristian Laettner WAS 11/23/2003 WAS @ SEA L 11 0 0 5 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -6
+p701
+aVLarry Hughes WAS 11/23/2003 WAS @ SEA L 30 11 4 10 40.0 1 5 20.0 2 4 50.0 2 5 7 0 0 0 7 6 -22
+p702
+aVEtan Thomas WAS 11/23/2003 WAS @ SEA L 33 6 2 6 33.3 0 0 - 2 2 100.0 3 7 10 0 1 1 1 3 0
+p703
+aVBrendan Haywood WAS 11/23/2003 WAS @ SEA L 15 6 2 5 40.0 0 0 - 2 4 50.0 3 2 5 0 0 3 1 3 -3
+p704
+aVJarvis Hayes WAS 11/23/2003 WAS @ SEA L 26 4 2 9 22.2 0 0 - 0 0 - 2 2 4 2 2 0 1 2 -15
+p705
+aVKwame Brown WAS 11/23/2003 WAS @ SEA L 34 17 7 11 63.6 0 0 - 3 3 100.0 4 2 6 2 0 0 1 0 9
+p706
+aVLarry Hughes WAS 11/21/2003 WAS @ DEN L 27 12 4 14 28.6 0 3 0.0 4 4 100.0 2 5 7 2 0 1 1 1 -14
+p707
+aVEtan Thomas WAS 11/21/2003 WAS @ DEN L 25 11 2 5 40.0 0 0 - 7 14 50.0 0 5 5 0 0 0 1 2 -3
+p708
+aVBrendan Haywood WAS 11/21/2003 WAS @ DEN L 18 6 3 6 50.0 0 0 - 0 4 0.0 0 1 1 1 0 2 1 2 -10
+p709
+aVGilbert Arenas WAS 11/21/2003 WAS @ DEN L 39 27 8 16 50.0 3 7 42.9 8 10 80.0 2 3 5 3 3 0 4 5 -11
+p710
+aVSteve Blake WAS 11/21/2003 WAS @ DEN L 17 2 1 4 25.0 0 2 0.0 0 0 - 0 5 5 3 1 0 2 0 -7
+p711
+aVChris Whitney WAS 11/21/2003 WAS @ DEN L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 3 0 0 0 0 -7
+p712
+aVJuan Dixon WAS 11/21/2003 WAS @ DEN L 22 11 4 7 57.1 1 2 50.0 2 2 100.0 0 1 1 3 0 0 3 2 -9
+p713
+aVJarvis Hayes WAS 11/21/2003 WAS @ DEN L 13 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 4 -11
+p714
+aVChristian Laettner WAS 11/21/2003 WAS @ DEN L 19 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 0 1 0 1 1 -5
+p715
+aVKwame Brown WAS 11/21/2003 WAS @ DEN L 23 8 4 6 66.7 0 0 - 0 0 - 4 3 7 0 0 0 5 2 -18
+p716
+aVJared Jeffries WAS 11/21/2003 WAS @ DEN L 27 2 0 5 0.0 0 0 - 2 2 100.0 3 2 5 2 0 1 0 2 -10
+p717
+aVBrendan Haywood WAS 11/19/2003 WAS vs. CLE W 19 8 2 4 50.0 0 0 - 4 5 80.0 1 4 5 0 0 2 0 3 16
+p718
+aVSteve Blake WAS 11/19/2003 WAS vs. CLE W 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 0 0 0 2 7
+p719
+aVJarvis Hayes WAS 11/19/2003 WAS vs. CLE W 35 6 2 14 14.3 0 3 0.0 2 2 100.0 1 1 2 6 4 0 1 1 27
+p720
+aVJared Jeffries WAS 11/19/2003 WAS vs. CLE W 28 7 3 8 37.5 0 0 - 1 2 50.0 1 2 3 1 1 2 1 2 -4
+p721
+aVKwame Brown WAS 11/19/2003 WAS vs. CLE W 32 15 6 11 54.5 0 0 - 3 4 75.0 6 4 10 1 0 0 2 2 1
+p722
+aVLarry Hughes WAS 11/19/2003 WAS vs. CLE W 34 22 8 21 38.1 3 6 50.0 3 3 100.0 5 3 8 2 1 0 1 2 7
+p723
+aVEtan Thomas WAS 11/19/2003 WAS vs. CLE W 29 18 6 9 66.7 0 0 - 6 8 75.0 7 3 10 1 0 1 2 4 -5
+p724
+aVGilbert Arenas WAS 11/19/2003 WAS vs. CLE W 38 25 8 18 44.4 4 8 50.0 5 7 71.4 1 4 5 4 3 0 5 1 4
+p725
+aVJuan Dixon WAS 11/19/2003 WAS vs. CLE W 15 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 2
+p726
+aVGilbert Arenas WAS 11/17/2003 WAS @ ATL W 44 23 5 15 33.3 1 6 16.7 12 15 80.0 0 3 3 7 1 0 4 5 8
+p727
+aVEtan Thomas WAS 11/17/2003 WAS @ ATL W 33 14 5 9 55.6 0 0 - 4 6 66.7 5 6 11 2 0 3 3 3 12
+p728
+aVJarvis Hayes WAS 11/17/2003 WAS @ ATL W 41 14 5 16 31.3 2 2 100.0 2 2 100.0 3 4 7 0 1 0 5 4 8
+p729
+aVKwame Brown WAS 11/17/2003 WAS @ ATL W 24 2 1 5 20.0 0 0 - 0 0 - 2 5 7 1 2 0 0 2 -6
+p730
+aVLarry Hughes WAS 11/17/2003 WAS @ ATL W 44 26 8 17 47.1 2 4 50.0 8 11 72.7 2 7 9 3 5 0 2 3 7
+p731
+aVJared Jeffries WAS 11/17/2003 WAS @ ATL W 21 7 2 6 33.3 0 0 - 3 4 75.0 2 0 2 3 4 0 0 6 14
+p732
+aVJuan Dixon WAS 11/17/2003 WAS @ ATL W 16 16 5 10 50.0 1 4 25.0 5 6 83.3 0 0 0 3 0 0 0 3 5
+p733
+aVBrendan Haywood WAS 11/17/2003 WAS @ ATL W 17 4 1 4 25.0 0 0 - 2 4 50.0 4 1 5 0 1 0 1 2 -3
+p734
+aVEtan Thomas WAS 11/15/2003 WAS vs. SAS L 22 6 3 7 42.9 0 0 - 0 0 - 1 5 6 2 0 3 3 4 -3
+p735
+aVSteve Blake WAS 11/15/2003 WAS vs. SAS L 14 2 0 5 0.0 0 2 0.0 2 2 100.0 0 1 1 4 0 0 2 0 -3
+p736
+aVKwame Brown WAS 11/15/2003 WAS vs. SAS L 34 8 4 10 40.0 0 0 - 0 2 0.0 1 3 4 3 1 0 1 4 -17
+p737
+aVJuan Dixon WAS 11/15/2003 WAS vs. SAS L 22 11 4 11 36.4 2 2 100.0 1 1 100.0 1 2 3 0 0 0 3 2 -13
+p738
+aVLarry Hughes WAS 11/15/2003 WAS vs. SAS L 18 10 4 8 50.0 1 1 100.0 1 2 50.0 2 1 3 0 0 0 3 3 -10
+p739
+aVBrendan Haywood WAS 11/15/2003 WAS vs. SAS L 22 2 1 5 20.0 0 0 - 0 0 - 3 5 8 0 2 5 1 3 -15
+p740
+aVJared Jeffries WAS 11/15/2003 WAS vs. SAS L 20 9 4 6 66.7 0 1 0.0 1 3 33.3 2 1 3 0 0 1 0 2 -13
+p741
+aVChris Whitney WAS 11/15/2003 WAS vs. SAS L 10 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -15
+p742
+aVJarvis Hayes WAS 11/15/2003 WAS vs. SAS L 43 6 3 10 30.0 0 1 0.0 0 0 - 0 8 8 1 3 0 0 1 -17
+p743
+aVGilbert Arenas WAS 11/15/2003 WAS vs. SAS L 35 14 4 19 21.1 1 5 20.0 5 8 62.5 0 4 4 2 1 1 0 2 -14
+p744
+aVJared Jeffries WAS 11/14/2003 WAS @ MIA L 14 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -13
+p745
+aVSteve Blake WAS 11/14/2003 WAS @ MIA L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p746
+aVChristian Laettner WAS 11/14/2003 WAS @ MIA L 38 12 6 11 54.5 0 0 - 0 0 - 2 6 8 2 2 1 0 2 7
+p747
+aVEtan Thomas WAS 11/14/2003 WAS @ MIA L 31 13 4 8 50.0 0 0 - 5 9 55.6 2 5 7 2 0 4 0 5 -14
+p748
+aVGilbert Arenas WAS 11/14/2003 WAS @ MIA L 50 27 10 24 41.7 2 9 22.2 5 7 71.4 2 5 7 7 3 0 8 5 2
+p749
+aVJarvis Hayes WAS 11/14/2003 WAS @ MIA L 41 17 8 14 57.1 1 2 50.0 0 0 - 0 4 4 2 4 0 2 5 7
+p750
+aVJuan Dixon WAS 11/14/2003 WAS @ MIA L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p751
+aVLarry Hughes WAS 11/14/2003 WAS @ MIA L 40 22 8 18 44.4 1 3 33.3 5 6 83.3 2 2 4 2 0 0 1 1 5
+p752
+aVKwame Brown WAS 11/14/2003 WAS @ MIA L 33 8 2 5 40.0 0 0 - 4 6 66.7 2 8 10 0 1 1 4 3 -2
+p753
+aVKwame Brown WAS 11/11/2003 WAS vs. PHI L 19 2 1 2 50.0 0 0 - 0 0 - 1 3 4 3 1 0 1 1 10
+p754
+aVLarry Hughes WAS 11/11/2003 WAS vs. PHI L 39 23 9 18 50.0 1 4 25.0 4 4 100.0 3 5 8 2 1 2 5 4 1
+p755
+aVChristian Laettner WAS 11/11/2003 WAS vs. PHI L 40 11 5 5 100.0 1 1 100.0 0 0 - 1 7 8 3 1 1 3 5 -6
+p756
+aVJuan Dixon WAS 11/11/2003 WAS vs. PHI L 9 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 -8
+p757
+aVGilbert Arenas WAS 11/11/2003 WAS vs. PHI L 45 36 11 24 45.8 5 10 50.0 9 14 64.3 3 4 7 10 3 0 2 6 -4
+p758
+aVSteve Blake WAS 11/11/2003 WAS vs. PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p759
+aVJarvis Hayes WAS 11/11/2003 WAS vs. PHI L 42 20 9 18 50.0 0 2 0.0 2 3 66.7 4 3 7 1 2 1 5 2 1
+p760
+aVJared Jeffries WAS 11/11/2003 WAS vs. PHI L 15 7 3 9 33.3 0 1 0.0 1 2 50.0 3 0 3 0 0 0 1 3 -9
+p761
+aVEtan Thomas WAS 11/11/2003 WAS vs. PHI L 28 4 1 6 16.7 0 0 - 2 4 50.0 5 5 10 0 0 4 2 2 -17
+p762
+aVEtan Thomas WAS 11/08/2003 WAS @ CLE L 27 12 6 9 66.7 0 0 - 0 0 - 5 3 8 1 0 3 1 2 -6
+p763
+aVGilbert Arenas WAS 11/08/2003 WAS @ CLE L 28 22 8 17 47.1 2 7 28.6 4 5 80.0 0 0 0 6 0 0 3 5 -6
+p764
+aVChristian Laettner WAS 11/08/2003 WAS @ CLE L 31 1 0 4 0.0 0 0 - 1 2 50.0 0 5 5 4 1 1 0 3 -16
+p765
+aVJarvis Hayes WAS 11/08/2003 WAS @ CLE L 39 22 10 20 50.0 1 3 33.3 1 2 50.0 3 5 8 3 0 0 5 1 -4
+p766
+aVKwame Brown WAS 11/08/2003 WAS @ CLE L 22 7 2 5 40.0 0 0 - 3 6 50.0 1 5 6 0 0 0 1 4 -10
+p767
+aVChris Whitney WAS 11/08/2003 WAS @ CLE L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 0 0 -7
+p768
+aVSteve Blake WAS 11/08/2003 WAS @ CLE L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p769
+aVLarry Hughes WAS 11/08/2003 WAS @ CLE L 37 20 8 19 42.1 1 4 25.0 3 3 100.0 1 4 5 2 1 0 2 3 -6
+p770
+aVJuan Dixon WAS 11/08/2003 WAS @ CLE L 19 12 5 11 45.5 0 2 0.0 2 3 66.7 0 1 1 2 1 0 0 2 -12
+p771
+aVJared Jeffries WAS 11/08/2003 WAS @ CLE L 23 0 0 3 0.0 0 0 - 0 0 - 3 2 5 3 0 1 0 3 3
+p772
+aVJarvis Hayes WAS 11/07/2003 WAS vs. TOR W 41 13 5 13 38.5 1 2 50.0 2 2 100.0 1 3 4 1 0 0 0 3 27
+p773
+aVLarry Hughes WAS 11/07/2003 WAS vs. TOR W 28 16 6 12 50.0 2 3 66.7 2 4 50.0 1 5 6 3 2 0 2 2 23
+p774
+aVEtan Thomas WAS 11/07/2003 WAS vs. TOR W 20 5 1 4 25.0 0 0 - 3 5 60.0 3 4 7 2 1 1 2 2 17
+p775
+aVChris Whitney WAS 11/07/2003 WAS vs. TOR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p776
+aVKwame Brown WAS 11/07/2003 WAS vs. TOR W 23 5 1 7 14.3 0 0 - 3 4 75.0 1 3 4 0 1 0 1 0 6
+p777
+aVChristian Laettner WAS 11/07/2003 WAS vs. TOR W 27 9 4 6 66.7 1 1 100.0 0 0 - 1 10 11 1 1 0 2 3 15
+p778
+aVBrendan Haywood WAS 11/07/2003 WAS vs. TOR W 5 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -2
+p779
+aVJared Jeffries WAS 11/07/2003 WAS vs. TOR W 28 10 4 11 36.4 0 1 0.0 2 3 66.7 2 3 5 1 1 0 1 2 15
+p780
+aVGilbert Arenas WAS 11/07/2003 WAS vs. TOR W 27 11 4 9 44.4 0 4 0.0 3 3 100.0 1 3 4 5 0 0 3 1 18
+p781
+aVJuan Dixon WAS 11/07/2003 WAS vs. TOR W 22 13 4 7 57.1 1 1 100.0 4 5 80.0 3 0 3 2 4 0 1 2 17
+p782
+aVSteve Blake WAS 11/07/2003 WAS vs. TOR W 14 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 3 2 0 2 1 -4
+p783
+aVJarvis Hayes WAS 11/05/2003 WAS vs. DAL W 31 13 5 11 45.5 3 5 60.0 0 0 - 0 3 3 1 0 1 1 5 10
+p784
+aVJared Jeffries WAS 11/05/2003 WAS vs. DAL W 19 6 2 7 28.6 0 1 0.0 2 2 100.0 1 4 5 3 0 1 0 1 6
+p785
+aVGilbert Arenas WAS 11/05/2003 WAS vs. DAL W 38 25 11 25 44.0 3 11 27.3 0 0 - 2 10 12 10 3 0 4 3 12
+p786
+aVKwame Brown WAS 11/05/2003 WAS vs. DAL W 31 5 1 4 25.0 1 1 100.0 2 2 100.0 1 4 5 4 1 1 3 2 16
+p787
+aVSteve Blake WAS 11/05/2003 WAS vs. DAL W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 4 1 0 0 1 -2
+p788
+aVChristian Laettner WAS 11/05/2003 WAS vs. DAL W 37 13 5 10 50.0 0 1 0.0 3 3 100.0 6 7 13 3 2 5 4 5 5
+p789
+aVJuan Dixon WAS 11/05/2003 WAS vs. DAL W 14 11 5 10 50.0 1 4 25.0 0 1 0.0 0 3 3 2 1 0 0 0 -2
+p790
+aVChris Whitney WAS 11/05/2003 WAS vs. DAL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p791
+aVBrendan Haywood WAS 11/05/2003 WAS vs. DAL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p792
+aVLarry Hughes WAS 11/05/2003 WAS vs. DAL W 30 19 7 14 50.0 5 6 83.3 0 0 - 0 3 3 2 0 0 1 5 14
+p793
+aVEtan Thomas WAS 11/05/2003 WAS vs. DAL W 18 4 0 3 0.0 0 0 - 4 4 100.0 1 1 2 0 1 1 0 2 1
+p794
+aVGilbert Arenas WAS 11/01/2003 WAS vs. NJN L 26 12 5 12 41.7 1 6 16.7 1 1 100.0 2 2 4 1 0 1 5 4 -20
+p795
+aVJahidi White WAS 11/01/2003 WAS vs. NJN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 0
+p796
+aVLarry Hughes WAS 11/01/2003 WAS vs. NJN L 33 10 4 10 40.0 0 2 0.0 2 2 100.0 1 2 3 5 1 1 3 4 -18
+p797
+aVJuan Dixon WAS 11/01/2003 WAS vs. NJN L 17 9 4 11 36.4 1 3 33.3 0 0 - 2 3 5 1 0 0 1 1 5
+p798
+aVKwame Brown WAS 11/01/2003 WAS vs. NJN L 24 6 2 6 33.3 0 0 - 2 2 100.0 3 5 8 0 1 0 2 0 -10
+p799
+aVChristian Laettner WAS 11/01/2003 WAS vs. NJN L 26 8 4 5 80.0 0 0 - 0 0 - 1 1 2 4 2 0 1 2 -7
+p800
+aVJared Jeffries WAS 11/01/2003 WAS vs. NJN L 18 9 3 9 33.3 0 0 - 3 4 75.0 3 4 7 1 1 0 1 1 12
+p801
+aVChris Whitney WAS 11/01/2003 WAS vs. NJN L 20 5 2 7 28.6 1 2 50.0 0 0 - 1 1 2 3 1 0 0 0 5
+p802
+aVEtan Thomas WAS 11/01/2003 WAS vs. NJN L 23 6 2 5 40.0 0 0 - 2 5 40.0 5 5 10 1 0 1 2 5 -3
+p803
+aVBrendan Haywood WAS 11/01/2003 WAS vs. NJN L 13 4 1 2 50.0 0 0 - 2 4 50.0 1 2 3 0 0 2 3 2 -5
+p804
+aVJarvis Hayes WAS 11/01/2003 WAS vs. NJN L 36 16 7 13 53.8 0 1 0.0 2 2 100.0 0 4 4 2 2 0 3 4 -24
+p805
+aVSteve Blake WAS 10/31/2003 WAS @ TOR L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p806
+aVGilbert Arenas WAS 10/31/2003 WAS @ TOR L 42 16 5 9 55.6 0 1 0.0 6 8 75.0 0 4 4 7 3 1 5 2 -1
+p807
+aVKwame Brown WAS 10/31/2003 WAS @ TOR L 33 16 6 9 66.7 0 0 - 4 4 100.0 1 8 9 3 0 1 3 2 3
+p808
+aVJarvis Hayes WAS 10/31/2003 WAS @ TOR L 38 10 5 13 38.5 0 1 0.0 0 0 - 2 4 6 1 2 2 0 1 -6
+p809
+aVJuan Dixon WAS 10/31/2003 WAS @ TOR L 16 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 0 -4
+p810
+aVEtan Thomas WAS 10/31/2003 WAS @ TOR L 27 12 5 9 55.6 0 0 - 2 2 100.0 2 4 6 1 0 3 0 1 7
+p811
+aVBrendan Haywood WAS 10/31/2003 WAS @ TOR L 17 2 0 2 0.0 0 0 - 2 4 50.0 1 4 5 1 1 0 0 4 0
+p812
+aVJared Jeffries WAS 10/31/2003 WAS @ TOR L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 2 2 -7
+p813
+aVLarry Hughes WAS 10/31/2003 WAS @ TOR L 32 13 5 15 33.3 1 4 25.0 2 2 100.0 1 2 3 1 0 0 2 4 1
+p814
+aVChristian Laettner WAS 10/31/2003 WAS @ TOR L 21 8 4 6 66.7 0 0 - 0 1 0.0 0 2 2 1 1 0 0 2 -6
+p815
+aVKwame Brown WAS 10/29/2003 WAS @ CHI W 31 8 4 8 50.0 0 0 - 0 0 - 2 6 8 3 0 0 5 2 23
+p816
+aVGilbert Arenas WAS 10/29/2003 WAS @ CHI W 38 18 6 12 50.0 3 4 75.0 3 3 100.0 0 4 4 6 3 0 5 2 14
+p817
+aVSteve Blake WAS 10/29/2003 WAS @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p818
+aVJuan Dixon WAS 10/29/2003 WAS @ CHI W 18 11 3 8 37.5 1 2 50.0 4 4 100.0 1 2 3 2 3 0 4 1 14
+p819
+aVJarvis Hayes WAS 10/29/2003 WAS @ CHI W 32 13 6 11 54.5 1 4 25.0 0 0 - 1 2 3 1 1 1 1 3 5
+p820
+aVJared Jeffries WAS 10/29/2003 WAS @ CHI W 12 1 0 2 0.0 0 0 - 1 4 25.0 2 1 3 1 2 0 1 0 7
+p821
+aVBrendan Haywood WAS 10/29/2003 WAS @ CHI W 17 5 2 4 50.0 0 0 - 1 4 25.0 0 5 5 0 0 4 0 4 2
+p822
+aVEtan Thomas WAS 10/29/2003 WAS @ CHI W 31 13 5 7 71.4 0 0 - 3 4 75.0 4 9 13 3 1 0 1 4 23
+p823
+aVLarry Hughes WAS 10/29/2003 WAS @ CHI W 37 20 7 17 41.2 0 2 0.0 6 8 75.0 1 1 2 5 2 0 1 4 22
+p824
+aVChristian Laettner WAS 10/29/2003 WAS @ CHI W 21 10 4 7 57.1 0 0 - 2 3 66.7 0 6 6 4 0 0 0 2 15
+p825
+a.

@@ -1,0 +1,102 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrendan Haywood WAS 05/05/2006 WAS vs. CLE L 28 17 7 8 87.5 0 0 - 3 5 60.0 4 0 4 1 0 2 2 3 9
+p2
+aVGilbert Arenas WAS 05/05/2006 WAS vs. CLE L 53 36 14 27 51.9 4 8 50.0 4 8 50.0 1 4 5 11 2 0 3 2 -1
+p3
+aVAntonio Daniels WAS 05/05/2006 WAS vs. CLE L 41 22 8 15 53.3 2 4 50.0 4 4 100.0 1 2 3 2 1 0 4 2 -10
+p4
+aVCaron Butler WAS 05/05/2006 WAS vs. CLE L 52 18 5 18 27.8 0 2 0.0 8 8 100.0 6 14 20 5 1 0 3 5 -4
+p5
+aVJared Jeffries WAS 05/05/2006 WAS vs. CLE L 37 3 0 3 0.0 0 0 - 3 4 75.0 3 3 6 3 0 1 1 4 5
+p6
+aVEtan Thomas WAS 05/05/2006 WAS vs. CLE L 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 0
+p7
+aVAntawn Jamison WAS 05/05/2006 WAS vs. CLE L 40 15 6 17 35.3 1 6 16.7 2 2 100.0 2 2 4 5 2 0 2 5 8
+p8
+aVMichael Ruffin WAS 05/05/2006 WAS vs. CLE L 10 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -12
+p9
+aVGilbert Arenas WAS 05/03/2006 WAS @ CLE L 52 44 14 24 58.3 6 9 66.7 10 10 100.0 1 4 5 4 1 0 3 4 1
+p10
+aVCaron Butler WAS 05/03/2006 WAS @ CLE L 49 20 8 16 50.0 0 0 - 4 6 66.7 3 8 11 5 4 0 1 6 1
+p11
+aVJared Jeffries WAS 05/03/2006 WAS @ CLE L 34 8 4 7 57.1 0 1 0.0 0 0 - 3 1 4 2 0 0 2 6 -9
+p12
+aVAntonio Daniels WAS 05/03/2006 WAS @ CLE L 38 13 5 11 45.5 0 3 0.0 3 3 100.0 0 2 2 7 0 1 1 0 4
+p13
+aVAntawn Jamison WAS 05/03/2006 WAS @ CLE L 49 32 13 24 54.2 3 7 42.9 3 6 50.0 1 4 5 2 0 0 2 5 2
+p14
+aVMichael Ruffin WAS 05/03/2006 WAS @ CLE L 13 0 0 0 - 0 0 - 0 0 - 2 1 3 3 0 0 1 2 5
+p15
+aVBilly Thomas WAS 05/03/2006 WAS @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p16
+aVBrendan Haywood WAS 05/03/2006 WAS @ CLE L 21 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 5 -1
+p17
+aVEtan Thomas WAS 05/03/2006 WAS @ CLE L 6 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 2 -6
+p18
+aVAntonio Daniels WAS 04/30/2006 WAS vs. CLE W 35 13 4 8 50.0 1 3 33.3 4 4 100.0 0 2 2 1 1 0 2 0 11
+p19
+aVJared Jeffries WAS 04/30/2006 WAS vs. CLE W 41 9 2 9 22.2 0 2 0.0 5 8 62.5 6 5 11 2 1 0 2 3 9
+p20
+aVBrendan Haywood WAS 04/30/2006 WAS vs. CLE W 20 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 0 0 1 1 3 -5
+p21
+aVMichael Ruffin WAS 04/30/2006 WAS vs. CLE W 13 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 3 1
+p22
+aVAntawn Jamison WAS 04/30/2006 WAS vs. CLE W 44 22 8 18 44.4 2 6 33.3 4 4 100.0 3 7 10 5 1 0 1 2 17
+p23
+aVGilbert Arenas WAS 04/30/2006 WAS vs. CLE W 48 34 8 20 40.0 4 7 57.1 14 17 82.4 2 3 5 6 3 1 3 5 10
+p24
+aVCaron Butler WAS 04/30/2006 WAS vs. CLE W 39 21 8 18 44.4 1 2 50.0 4 5 80.0 1 5 6 1 1 1 2 5 7
+p25
+aVBrendan Haywood WAS 04/28/2006 WAS vs. CLE L 28 6 2 4 50.0 0 0 - 2 6 33.3 1 3 4 1 1 5 1 5 -1
+p26
+aVMichael Ruffin WAS 04/28/2006 WAS vs. CLE L 16 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 2 1 3 -1
+p27
+aVCaron Butler WAS 04/28/2006 WAS vs. CLE L 46 20 8 16 50.0 0 2 0.0 4 4 100.0 1 10 11 2 1 1 2 4 -2
+p28
+aVAntonio Daniels WAS 04/28/2006 WAS vs. CLE L 32 11 3 5 60.0 0 0 - 5 5 100.0 0 0 0 3 0 0 3 0 -1
+p29
+aVGilbert Arenas WAS 04/28/2006 WAS vs. CLE L 46 34 12 25 48.0 2 7 28.6 8 11 72.7 2 4 6 2 2 1 6 3 -5
+p30
+aVJared Jeffries WAS 04/28/2006 WAS vs. CLE L 31 9 4 6 66.7 0 0 - 1 1 100.0 1 4 5 0 0 2 3 3 -4
+p31
+aVAntawn Jamison WAS 04/28/2006 WAS vs. CLE L 41 14 4 13 30.8 0 4 0.0 6 6 100.0 1 9 10 3 1 1 1 3 9
+p32
+aVJared Jeffries WAS 04/25/2006 WAS @ CLE W 37 4 2 11 18.2 0 1 0.0 0 0 - 3 3 6 2 0 3 3 2 -3
+p33
+aVAntawn Jamison WAS 04/25/2006 WAS @ CLE W 36 21 7 14 50.0 3 4 75.0 4 5 80.0 0 7 7 1 2 0 3 4 -8
+p34
+aVBilly Thomas WAS 04/25/2006 WAS @ CLE W 3 2 0 2 0.0 0 1 0.0 2 4 50.0 0 0 0 0 0 0 0 1 7
+p35
+aVGilbert Arenas WAS 04/25/2006 WAS @ CLE W 47 30 10 24 41.7 3 8 37.5 7 11 63.6 1 5 6 6 4 1 2 1 7
+p36
+aVAntonio Daniels WAS 04/25/2006 WAS @ CLE W 37 6 2 7 28.6 0 1 0.0 2 3 66.7 1 4 5 1 0 0 0 1 16
+p37
+aVBrendan Haywood WAS 04/25/2006 WAS @ CLE W 30 5 1 1 100.0 0 0 - 3 4 75.0 1 0 1 2 1 0 2 4 -12
+p38
+aVMichael Ruffin WAS 04/25/2006 WAS @ CLE W 15 0 0 0 - 0 0 - 0 0 - 2 4 6 0 1 0 0 1 11
+p39
+aVCaron Butler WAS 04/25/2006 WAS @ CLE W 35 21 9 19 47.4 2 5 40.0 1 2 50.0 3 6 9 1 2 1 1 6 7
+p40
+aVGilbert Arenas WAS 04/22/2006 WAS @ CLE L 38 26 7 20 35.0 1 7 14.3 11 13 84.6 0 6 6 3 1 1 3 6 -13
+p41
+aVEtan Thomas WAS 04/22/2006 WAS @ CLE L 7 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 1 1 0 0 -1
+p42
+aVJared Jeffries WAS 04/22/2006 WAS @ CLE L 35 15 5 7 71.4 1 3 33.3 4 4 100.0 4 1 5 0 0 1 0 1 -1
+p43
+aVBilly Thomas WAS 04/22/2006 WAS @ CLE L 8 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 3
+p44
+aVAntawn Jamison WAS 04/22/2006 WAS @ CLE L 43 11 4 13 30.8 1 5 20.0 2 4 50.0 2 5 7 2 0 1 2 4 -9
+p45
+aVMichael Ruffin WAS 04/22/2006 WAS @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p46
+aVAntonio Daniels WAS 04/22/2006 WAS @ CLE L 33 14 6 6 100.0 0 0 - 2 3 66.7 0 5 5 6 1 0 0 1 -1
+p47
+aVBrendan Haywood WAS 04/22/2006 WAS @ CLE L 29 7 2 3 66.7 0 0 - 3 6 50.0 0 4 4 1 0 3 0 2 -13
+p48
+aVCaron Butler WAS 04/22/2006 WAS @ CLE L 40 11 4 14 28.6 0 3 0.0 3 4 75.0 2 4 6 2 3 1 5 5 -12
+p49
+aVDonell Taylor WAS 04/22/2006 WAS @ CLE L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -4
+p50
+a.

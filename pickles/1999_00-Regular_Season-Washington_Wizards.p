@@ -1,0 +1,1786 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTracy Murray WAS 04/19/2000 WAS @ MIL L 20 15 6 10 60.0 1 1 100.0 2 2 100.0 1 1 2 1 0 1 0 2 -7
+p2
+aVRichard Hamilton WAS 04/19/2000 WAS @ MIL L 34 17 7 18 38.9 0 1 0.0 3 4 75.0 1 6 7 7 1 0 1 5 3
+p3
+aVMitch Richmond WAS 04/19/2000 WAS @ MIL L 40 27 9 18 50.0 4 6 66.7 5 6 83.3 3 1 4 2 1 0 5 3 5
+p4
+aVDon Reid WAS 04/19/2000 WAS @ MIL L 18 2 1 4 25.0 0 0 - 0 0 - 2 6 8 1 2 1 0 3 4
+p5
+aVChris Whitney WAS 04/19/2000 WAS @ MIL L 39 22 7 16 43.8 4 8 50.0 4 4 100.0 0 2 2 7 0 0 1 4 -11
+p6
+aVJuwan Howard WAS 04/19/2000 WAS @ MIL L 34 8 4 12 33.3 0 0 - 0 0 - 1 3 4 5 0 0 3 5 -8
+p7
+aVCalvin Booth WAS 04/19/2000 WAS @ MIL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p8
+aVGerard King WAS 04/19/2000 WAS @ MIL L 25 7 3 8 37.5 0 0 - 1 3 33.3 6 3 9 1 0 0 1 5 -14
+p9
+aVJahidi White WAS 04/19/2000 WAS @ MIL L 14 2 0 1 0.0 0 0 - 2 2 100.0 0 5 5 0 0 1 0 1 -7
+p10
+aVAaron Williams WAS 04/19/2000 WAS @ MIL L 10 5 2 2 100.0 0 0 - 1 1 100.0 1 2 3 1 0 0 0 1 8
+p11
+aVChris Whitney WAS 04/18/2000 WAS vs. BOS L 48 25 6 11 54.5 2 5 40.0 11 12 91.7 0 1 1 9 2 0 1 1 -33
+p12
+aVJahidi White WAS 04/18/2000 WAS vs. BOS L 9 0 0 3 0.0 0 0 - 0 2 0.0 2 3 5 0 0 0 2 3 -5
+p13
+aVGerard King WAS 04/18/2000 WAS vs. BOS L 30 12 6 10 60.0 0 0 - 0 0 - 1 5 6 1 1 0 0 3 -23
+p14
+aVDon Reid WAS 04/18/2000 WAS vs. BOS L 20 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 0 2 5 -14
+p15
+aVTracy Murray WAS 04/18/2000 WAS vs. BOS L 8 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 1
+p16
+aVMitch Richmond WAS 04/18/2000 WAS vs. BOS L 16 3 0 6 0.0 0 1 0.0 3 4 75.0 0 1 1 0 0 0 1 0 -15
+p17
+aVRichard Hamilton WAS 04/18/2000 WAS vs. BOS L 32 10 4 16 25.0 0 1 0.0 2 4 50.0 1 2 3 2 0 0 5 1 -18
+p18
+aVJuwan Howard WAS 04/18/2000 WAS vs. BOS L 24 12 4 8 50.0 0 0 - 4 6 66.7 3 3 6 2 1 0 3 5 -16
+p19
+aVCalvin Booth WAS 04/18/2000 WAS vs. BOS L 22 7 3 5 60.0 0 0 - 1 2 50.0 3 0 3 1 0 0 0 2 -20
+p20
+aVAaron Williams WAS 04/18/2000 WAS vs. BOS L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -4
+p21
+aVLaron Profit WAS 04/18/2000 WAS vs. BOS L 22 10 4 8 50.0 1 3 33.3 1 2 50.0 1 3 4 2 1 0 2 4 -18
+p22
+aVGerard King WAS 04/15/2000 WAS vs. MIL L 18 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 0 0 0 4 0
+p23
+aVJuwan Howard WAS 04/15/2000 WAS vs. MIL L 45 21 9 16 56.3 0 0 - 3 4 75.0 2 3 5 6 3 1 3 3 -2
+p24
+aVMitch Richmond WAS 04/15/2000 WAS vs. MIL L 39 21 5 18 27.8 3 7 42.9 8 8 100.0 0 4 4 5 0 0 1 2 -7
+p25
+aVRichard Hamilton WAS 04/15/2000 WAS vs. MIL L 30 17 6 20 30.0 2 5 40.0 3 4 75.0 0 1 1 4 2 0 1 6 -4
+p26
+aVChris Whitney WAS 04/15/2000 WAS vs. MIL L 45 17 6 9 66.7 4 6 66.7 1 2 50.0 0 4 4 14 1 0 4 3 1
+p27
+aVDon Reid WAS 04/15/2000 WAS vs. MIL L 29 10 4 9 44.4 0 0 - 2 4 50.0 3 2 5 0 1 3 0 5 -8
+p28
+aVAaron Williams WAS 04/15/2000 WAS vs. MIL L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -2
+p29
+aVJahidi White WAS 04/15/2000 WAS vs. MIL L 22 15 7 8 87.5 0 0 - 1 3 33.3 2 3 5 0 1 1 1 4 5
+p30
+aVTracy Murray WAS 04/15/2000 WAS vs. MIL L 29 13 5 10 50.0 3 5 60.0 0 0 - 1 4 5 1 1 0 0 3 -3
+p31
+aVDon Reid WAS 04/13/2000 WAS @ CHI W 19 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 2 1 0 4 -2
+p32
+aVAaron Williams WAS 04/13/2000 WAS @ CHI W 5 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 2
+p33
+aVRichard Hamilton WAS 04/13/2000 WAS @ CHI W 28 26 11 16 68.8 2 3 66.7 2 2 100.0 1 2 3 4 0 0 1 1 -2
+p34
+aVJuwan Howard WAS 04/13/2000 WAS @ CHI W 30 9 2 10 20.0 0 0 - 5 7 71.4 3 2 5 3 1 0 4 3 3
+p35
+aVTracy Murray WAS 04/13/2000 WAS @ CHI W 19 9 4 8 50.0 1 3 33.3 0 1 0.0 2 1 3 0 2 0 0 1 -4
+p36
+aVChris Whitney WAS 04/13/2000 WAS @ CHI W 44 17 7 14 50.0 3 5 60.0 0 0 - 0 2 2 8 1 0 2 3 5
+p37
+aVMitch Richmond WAS 04/13/2000 WAS @ CHI W 29 16 5 14 35.7 4 5 80.0 2 2 100.0 0 4 4 2 0 0 2 1 12
+p38
+aVCalvin Booth WAS 04/13/2000 WAS @ CHI W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -1
+p39
+aVGerard King WAS 04/13/2000 WAS @ CHI W 37 12 3 7 42.9 0 0 - 6 7 85.7 4 5 9 2 1 0 1 5 8
+p40
+aVJahidi White WAS 04/13/2000 WAS @ CHI W 24 10 2 4 50.0 0 0 - 6 7 85.7 3 2 5 0 0 0 1 4 9
+p41
+aVCalvin Booth WAS 04/12/2000 WAS @ PHI L 15 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 2 2 3 3 3 0
+p42
+aVLaron Profit WAS 04/12/2000 WAS @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 7
+p43
+aVRichard Hamilton WAS 04/12/2000 WAS @ PHI L 36 19 7 18 38.9 3 3 100.0 2 2 100.0 2 5 7 0 1 0 3 4 -1
+p44
+aVJahidi White WAS 04/12/2000 WAS @ PHI L 17 7 3 7 42.9 0 0 - 1 2 50.0 5 3 8 0 0 1 1 3 -11
+p45
+aVMitch Richmond WAS 04/12/2000 WAS @ PHI L 32 11 3 12 25.0 0 1 0.0 5 6 83.3 0 3 3 4 2 0 3 2 -19
+p46
+aVTracy Murray WAS 04/12/2000 WAS @ PHI L 21 12 4 8 50.0 2 4 50.0 2 2 100.0 1 4 5 1 0 0 2 1 3
+p47
+aVChris Whitney WAS 04/12/2000 WAS @ PHI L 22 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 3 3 1 6 4 -8
+p48
+aVDon Reid WAS 04/12/2000 WAS @ PHI L 17 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 0 1 1 1 2 2
+p49
+aVJuwan Howard WAS 04/12/2000 WAS @ PHI L 42 13 6 11 54.5 0 0 - 1 1 100.0 2 8 10 5 1 0 3 3 -6
+p50
+aVGerard King WAS 04/12/2000 WAS @ PHI L 20 4 2 4 50.0 0 0 - 0 0 - 2 0 2 4 0 1 0 4 -14
+p51
+aVAaron Williams WAS 04/12/2000 WAS @ PHI L 16 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 1 1 0 1 2
+p52
+aVTracy Murray WAS 04/10/2000 WAS vs. CHH L 16 6 1 1 100.0 0 0 - 4 4 100.0 0 4 4 1 0 0 1 0 6
+p53
+aVRichard Hamilton WAS 04/10/2000 WAS vs. CHH L 28 19 8 12 66.7 0 1 0.0 3 6 50.0 1 1 2 7 1 0 0 3 -4
+p54
+aVJuwan Howard WAS 04/10/2000 WAS vs. CHH L 43 16 7 14 50.0 0 0 - 2 4 50.0 1 3 4 6 0 0 3 3 -2
+p55
+aVDon Reid WAS 04/10/2000 WAS vs. CHH L 20 8 4 6 66.7 0 0 - 0 0 - 0 5 5 0 0 1 1 6 -7
+p56
+aVJahidi White WAS 04/10/2000 WAS vs. CHH L 15 5 1 3 33.3 0 0 - 3 4 75.0 2 4 6 0 0 1 0 4 5
+p57
+aVCalvin Booth WAS 04/10/2000 WAS vs. CHH L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 4
+p58
+aVAaron Williams WAS 04/10/2000 WAS vs. CHH L 11 2 1 6 16.7 0 1 0.0 0 0 - 1 4 5 0 0 2 0 2 -7
+p59
+aVGerard King WAS 04/10/2000 WAS vs. CHH L 30 14 7 10 70.0 0 0 - 0 0 - 1 3 4 2 1 0 1 4 -5
+p60
+aVChris Whitney WAS 04/10/2000 WAS vs. CHH L 29 14 6 12 50.0 2 5 40.0 0 0 - 0 1 1 10 0 1 0 5 -6
+p61
+aVMitch Richmond WAS 04/10/2000 WAS vs. CHH L 40 21 6 13 46.2 1 1 100.0 8 8 100.0 0 3 3 3 2 0 1 2 6
+p62
+aVCalvin Booth WAS 04/08/2000 WAS vs. ATL W 21 7 3 9 33.3 0 0 - 1 2 50.0 5 2 7 2 1 3 0 3 1
+p63
+aVRichard Hamilton WAS 04/08/2000 WAS vs. ATL W 23 16 6 12 50.0 0 1 0.0 4 6 66.7 0 1 1 3 1 0 0 3 -6
+p64
+aVTracy Murray WAS 04/08/2000 WAS vs. ATL W 20 10 3 7 42.9 2 3 66.7 2 2 100.0 1 1 2 0 0 0 1 2 -8
+p65
+aVMitch Richmond WAS 04/08/2000 WAS vs. ATL W 29 15 5 13 38.5 0 2 0.0 5 5 100.0 0 1 1 2 2 0 0 2 17
+p66
+aVAaron Williams WAS 04/08/2000 WAS vs. ATL W 12 6 3 4 75.0 0 0 - 0 1 0.0 0 0 0 0 0 2 1 0 4
+p67
+aVGerard King WAS 04/08/2000 WAS vs. ATL W 42 10 4 8 50.0 0 0 - 2 2 100.0 1 8 9 2 4 2 1 4 11
+p68
+aVJahidi White WAS 04/08/2000 WAS vs. ATL W 27 13 6 10 60.0 0 0 - 1 5 20.0 6 8 14 1 0 3 1 4 9
+p69
+aVLaron Profit WAS 04/08/2000 WAS vs. ATL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p70
+aVChris Whitney WAS 04/08/2000 WAS vs. ATL W 40 19 6 9 66.7 3 4 75.0 4 4 100.0 1 3 4 7 1 0 4 3 14
+p71
+aVJuwan Howard WAS 04/08/2000 WAS vs. ATL W 22 10 4 8 50.0 0 0 - 2 2 100.0 1 3 4 5 0 0 1 4 13
+p72
+aVLaron Profit WAS 04/06/2000 WAS @ NYK L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p73
+aVCalvin Booth WAS 04/06/2000 WAS @ NYK L 7 0 0 4 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 -7
+p74
+aVDon Reid WAS 04/06/2000 WAS @ NYK L 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 1 0 6 -4
+p75
+aVGerard King WAS 04/06/2000 WAS @ NYK L 33 12 6 9 66.7 0 0 - 0 0 - 2 6 8 3 0 0 1 6 3
+p76
+aVAaron Williams WAS 04/06/2000 WAS @ NYK L 19 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 1 0 4 -16
+p77
+aVRichard Hamilton WAS 04/06/2000 WAS @ NYK L 25 17 6 14 42.9 3 4 75.0 2 3 66.7 1 2 3 4 1 0 2 1 -8
+p78
+aVMitch Richmond WAS 04/06/2000 WAS @ NYK L 45 23 6 22 27.3 1 5 20.0 10 10 100.0 3 0 3 5 4 0 4 1 -3
+p79
+aVChris Whitney WAS 04/06/2000 WAS @ NYK L 23 2 0 5 0.0 0 0 - 2 2 100.0 0 0 0 3 2 0 1 1 -7
+p80
+aVJahidi White WAS 04/06/2000 WAS @ NYK L 20 14 5 9 55.6 0 0 - 4 4 100.0 4 2 6 0 1 1 1 4 1
+p81
+aVJuwan Howard WAS 04/06/2000 WAS @ NYK L 45 20 9 15 60.0 0 1 0.0 2 2 100.0 1 7 8 5 2 0 2 4 -3
+p82
+aVChris Whitney WAS 04/04/2000 WAS vs. NJN W 40 18 7 11 63.6 2 2 100.0 2 2 100.0 1 4 5 6 0 0 2 5 11
+p83
+aVGerard King WAS 04/04/2000 WAS vs. NJN W 30 10 5 10 50.0 0 0 - 0 0 - 1 5 6 0 0 0 2 5 1
+p84
+aVCalvin Booth WAS 04/04/2000 WAS vs. NJN W 19 8 2 3 66.7 0 0 - 4 4 100.0 1 5 6 1 0 2 1 2 16
+p85
+aVJuwan Howard WAS 04/04/2000 WAS vs. NJN W 42 16 7 14 50.0 0 0 - 2 4 50.0 0 4 4 8 0 0 2 4 15
+p86
+aVRichard Hamilton WAS 04/04/2000 WAS vs. NJN W 25 13 5 10 50.0 1 2 50.0 2 2 100.0 1 4 5 1 0 0 0 1 4
+p87
+aVMitch Richmond WAS 04/04/2000 WAS vs. NJN W 31 13 4 10 40.0 3 4 75.0 2 3 66.7 0 1 1 5 1 0 2 2 3
+p88
+aVJahidi White WAS 04/04/2000 WAS vs. NJN W 15 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 0 2 1 1 -9
+p89
+aVDon Reid WAS 04/04/2000 WAS vs. NJN W 14 3 0 1 0.0 0 0 - 3 4 75.0 0 2 2 0 2 0 1 2 2
+p90
+aVLaron Profit WAS 04/04/2000 WAS vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p91
+aVAaron Williams WAS 04/04/2000 WAS vs. NJN W 24 15 7 12 58.3 0 0 - 1 4 25.0 1 0 1 2 0 2 0 3 6
+p92
+aVGerard King WAS 03/31/2000 WAS @ BOS W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -10
+p93
+aVAaron Williams WAS 03/31/2000 WAS @ BOS W 43 16 7 15 46.7 0 0 - 2 2 100.0 9 5 14 2 0 4 0 3 12
+p94
+aVChris Whitney WAS 03/31/2000 WAS @ BOS W 30 8 3 7 42.9 0 2 0.0 2 2 100.0 0 0 0 6 1 0 2 4 0
+p95
+aVCalvin Booth WAS 03/31/2000 WAS @ BOS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p96
+aVJuwan Howard WAS 03/31/2000 WAS @ BOS W 42 15 6 12 50.0 0 0 - 3 4 75.0 0 4 4 5 0 0 1 3 3
+p97
+aVRichard Hamilton WAS 03/31/2000 WAS @ BOS W 26 20 10 17 58.8 0 0 - 0 0 - 1 2 3 4 0 0 2 2 9
+p98
+aVTracy Murray WAS 03/31/2000 WAS @ BOS W 15 8 2 4 50.0 2 2 100.0 2 2 100.0 0 2 2 0 0 0 0 1 0
+p99
+aVJahidi White WAS 03/31/2000 WAS @ BOS W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 2 2 -15
+p100
+aVMitch Richmond WAS 03/31/2000 WAS @ BOS W 37 30 10 20 50.0 3 6 50.0 7 7 100.0 0 1 1 1 1 0 2 2 3
+p101
+aVDon Reid WAS 03/31/2000 WAS @ BOS W 29 5 2 5 40.0 0 0 - 1 2 50.0 2 7 9 0 1 3 2 4 9
+p102
+aVChris Whitney WAS 03/29/2000 WAS vs. DEN L 38 14 6 19 31.6 2 8 25.0 0 0 - 0 0 0 8 1 0 1 4 -13
+p103
+aVCalvin Booth WAS 03/29/2000 WAS vs. DEN L 15 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 2 0 2 -6
+p104
+aVDon Reid WAS 03/29/2000 WAS vs. DEN L 20 10 5 8 62.5 0 0 - 0 0 - 3 5 8 0 2 0 0 3 5
+p105
+aVLaron Profit WAS 03/29/2000 WAS vs. DEN L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 0 3
+p106
+aVTracy Murray WAS 03/29/2000 WAS vs. DEN L 29 8 2 11 18.2 1 5 20.0 3 4 75.0 2 8 10 2 2 0 1 3 -1
+p107
+aVMitch Richmond WAS 03/29/2000 WAS vs. DEN L 37 22 7 16 43.8 2 6 33.3 6 6 100.0 2 1 3 2 2 0 2 4 -11
+p108
+aVJuwan Howard WAS 03/29/2000 WAS vs. DEN L 43 17 4 12 33.3 0 0 - 9 10 90.0 2 3 5 5 1 0 3 5 -10
+p109
+aVJahidi White WAS 03/29/2000 WAS vs. DEN L 16 5 1 3 33.3 0 0 - 3 4 75.0 3 3 6 0 1 0 0 3 -6
+p110
+aVGerard King WAS 03/29/2000 WAS vs. DEN L 18 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 1 0 2 2 -5
+p111
+aVRichard Hamilton WAS 03/29/2000 WAS vs. DEN L 20 7 3 9 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 0 5 4
+p112
+aVRichard Hamilton WAS 03/25/2000 WAS @ DAL W 18 10 5 7 71.4 0 0 - 0 0 - 0 0 0 1 0 2 1 5 3
+p113
+aVMitch Richmond WAS 03/25/2000 WAS @ DAL W 34 20 7 16 43.8 0 2 0.0 6 6 100.0 1 3 4 2 4 0 1 1 9
+p114
+aVChris Whitney WAS 03/25/2000 WAS @ DAL W 48 29 11 20 55.0 3 10 30.0 4 4 100.0 1 4 5 3 1 0 2 2 7
+p115
+aVJahidi White WAS 03/25/2000 WAS @ DAL W 14 7 3 4 75.0 0 0 - 1 1 100.0 4 6 10 0 1 0 0 1 0
+p116
+aVTracy Murray WAS 03/25/2000 WAS @ DAL W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 2
+p117
+aVGerard King WAS 03/25/2000 WAS @ DAL W 15 4 2 6 33.3 0 0 - 0 0 - 2 0 2 1 0 0 2 3 -6
+p118
+aVCalvin Booth WAS 03/25/2000 WAS @ DAL W 20 10 4 8 50.0 0 0 - 2 2 100.0 1 5 6 0 0 2 2 3 0
+p119
+aVJuwan Howard WAS 03/25/2000 WAS @ DAL W 40 4 2 11 18.2 0 1 0.0 0 0 - 5 4 9 4 1 0 3 3 1
+p120
+aVAaron Williams WAS 03/25/2000 WAS @ DAL W 27 3 0 1 0.0 0 0 - 3 4 75.0 0 8 8 0 1 1 1 2 12
+p121
+aVDon Reid WAS 03/25/2000 WAS @ DAL W 15 6 2 4 50.0 0 0 - 2 3 66.7 1 1 2 1 0 0 0 2 7
+p122
+aVDon Reid WAS 03/23/2000 WAS @ DEN W 12 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 1 0 3 2 6 -3
+p123
+aVRichard Hamilton WAS 03/23/2000 WAS @ DEN W 10 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 3 0 0 1 0 -7
+p124
+aVJahidi White WAS 03/23/2000 WAS @ DEN W 16 3 1 6 16.7 0 0 - 1 2 50.0 2 2 4 0 2 3 0 3 16
+p125
+aVJuwan Howard WAS 03/23/2000 WAS @ DEN W 41 22 10 21 47.6 0 0 - 2 3 66.7 4 7 11 4 0 0 1 5 10
+p126
+aVMitch Richmond WAS 03/23/2000 WAS @ DEN W 38 22 6 13 46.2 3 5 60.0 7 9 77.8 0 6 6 5 0 0 2 3 21
+p127
+aVAaron Williams WAS 03/23/2000 WAS @ DEN W 20 15 7 10 70.0 0 0 - 1 2 50.0 3 5 8 0 0 0 1 4 2
+p128
+aVTracy Murray WAS 03/23/2000 WAS @ DEN W 31 11 3 11 27.3 1 7 14.3 4 4 100.0 1 4 5 4 0 0 1 2 1
+p129
+aVChris Whitney WAS 03/23/2000 WAS @ DEN W 38 14 4 9 44.4 1 3 33.3 5 6 83.3 0 4 4 7 0 0 3 4 19
+p130
+aVGerard King WAS 03/23/2000 WAS @ DEN W 25 4 2 5 40.0 0 0 - 0 0 - 1 8 9 3 0 0 1 4 16
+p131
+aVLaron Profit WAS 03/23/2000 WAS @ DEN W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -5
+p132
+aVChris Whitney WAS 03/21/2000 WAS @ SAC L 36 12 5 10 50.0 0 4 0.0 2 2 100.0 3 4 7 6 1 0 2 4 -12
+p133
+aVJuwan Howard WAS 03/21/2000 WAS @ SAC L 42 21 10 23 43.5 0 1 0.0 1 3 33.3 3 4 7 2 2 1 6 5 -8
+p134
+aVAaron Williams WAS 03/21/2000 WAS @ SAC L 6 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 0 0 2 0 1 -4
+p135
+aVMitch Richmond WAS 03/21/2000 WAS @ SAC L 40 26 11 29 37.9 2 7 28.6 2 3 66.7 0 3 3 1 0 0 1 1 -2
+p136
+aVGerard King WAS 03/21/2000 WAS @ SAC L 35 3 1 6 16.7 0 0 - 1 2 50.0 2 4 6 2 1 0 2 5 0
+p137
+aVTracy Murray WAS 03/21/2000 WAS @ SAC L 24 0 0 10 0.0 0 3 0.0 0 0 - 3 1 4 2 1 0 1 1 -27
+p138
+aVRod Strickland WAS 03/21/2000 WAS @ SAC L 12 4 2 4 50.0 0 0 - 0 0 - 0 2 2 4 0 0 0 0 0
+p139
+aVJahidi White WAS 03/21/2000 WAS @ SAC L 21 6 3 8 37.5 0 0 - 0 0 - 7 3 10 0 2 2 3 5 9
+p140
+aVRichard Hamilton WAS 03/21/2000 WAS @ SAC L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p141
+aVDon Reid WAS 03/21/2000 WAS @ SAC L 16 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 0 2 0 1 6 -6
+p142
+aVTracy Murray WAS 03/20/2000 WAS @ LAC W 29 15 6 14 42.9 3 7 42.9 0 0 - 2 3 5 2 1 1 1 2 24
+p143
+aVAaron Williams WAS 03/20/2000 WAS @ LAC W 27 12 5 8 62.5 0 0 - 2 4 50.0 2 6 8 1 1 2 1 1 24
+p144
+aVRod Strickland WAS 03/20/2000 WAS @ LAC W 17 3 1 6 16.7 0 0 - 1 2 50.0 1 0 1 3 2 0 3 1 -8
+p145
+aVMitch Richmond WAS 03/20/2000 WAS @ LAC W 20 21 9 15 60.0 1 3 33.3 2 2 100.0 1 3 4 0 0 0 1 1 -14
+p146
+aVDon Reid WAS 03/20/2000 WAS @ LAC W 21 15 5 7 71.4 0 0 - 5 5 100.0 1 2 3 2 1 2 0 5 14
+p147
+aVRichard Hamilton WAS 03/20/2000 WAS @ LAC W 26 8 3 8 37.5 0 1 0.0 2 2 100.0 1 1 2 3 0 0 2 3 27
+p148
+aVJuwan Howard WAS 03/20/2000 WAS @ LAC W 31 20 9 18 50.0 0 0 - 2 3 66.7 1 5 6 3 0 0 1 0 -8
+p149
+aVGerard King WAS 03/20/2000 WAS @ LAC W 18 0 0 4 0.0 0 0 - 0 0 - 3 5 8 1 1 0 0 2 -14
+p150
+aVJahidi White WAS 03/20/2000 WAS @ LAC W 18 0 0 4 0.0 0 0 - 0 0 - 2 2 4 0 1 1 1 2 -4
+p151
+aVLaron Profit WAS 03/20/2000 WAS @ LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p152
+aVChris Whitney WAS 03/20/2000 WAS @ LAC W 31 11 3 5 60.0 2 3 66.7 3 4 75.0 0 5 5 9 1 0 2 5 20
+p153
+aVGerard King WAS 03/18/2000 WAS vs. CHI W 28 12 5 9 55.6 0 0 - 2 2 100.0 3 7 10 1 1 0 1 4 11
+p154
+aVRod Strickland WAS 03/18/2000 WAS vs. CHI W 31 13 6 11 54.5 0 0 - 1 3 33.3 2 4 6 9 4 0 4 3 16
+p155
+aVAaron Williams WAS 03/18/2000 WAS vs. CHI W 14 9 3 6 50.0 0 0 - 3 3 100.0 2 2 4 0 1 0 2 5 7
+p156
+aVChris Whitney WAS 03/18/2000 WAS vs. CHI W 17 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 4 1 0 1 2 -3
+p157
+aVJuwan Howard WAS 03/18/2000 WAS vs. CHI W 27 12 5 14 35.7 0 0 - 2 2 100.0 0 4 4 0 1 0 1 3 5
+p158
+aVJahidi White WAS 03/18/2000 WAS vs. CHI W 21 7 3 6 50.0 0 0 - 1 1 100.0 5 3 8 0 1 0 0 1 10
+p159
+aVTracy Murray WAS 03/18/2000 WAS vs. CHI W 27 12 4 9 44.4 2 2 100.0 2 2 100.0 1 3 4 1 1 1 0 2 3
+p160
+aVMitch Richmond WAS 03/18/2000 WAS vs. CHI W 30 11 3 13 23.1 0 2 0.0 5 5 100.0 0 3 3 2 2 0 2 1 10
+p161
+aVLaron Profit WAS 03/18/2000 WAS vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p162
+aVDon Reid WAS 03/18/2000 WAS vs. CHI W 27 9 4 7 57.1 0 0 - 1 1 100.0 2 4 6 2 2 1 0 5 3
+p163
+aVRichard Hamilton WAS 03/18/2000 WAS vs. CHI W 18 9 3 6 50.0 1 1 100.0 2 2 100.0 0 2 2 3 0 0 1 2 3
+p164
+aVRod Strickland WAS 03/16/2000 WAS vs. LAL W 40 9 3 14 21.4 0 0 - 3 4 75.0 0 5 5 16 3 2 3 1 14
+p165
+aVDon Reid WAS 03/16/2000 WAS vs. LAL W 11 7 3 3 100.0 0 0 - 1 1 100.0 2 1 3 0 0 0 1 5 4
+p166
+aVJahidi White WAS 03/16/2000 WAS vs. LAL W 22 6 3 6 50.0 0 0 - 0 0 - 3 5 8 0 0 0 0 5 6
+p167
+aVTracy Murray WAS 03/16/2000 WAS vs. LAL W 33 12 5 7 71.4 0 0 - 2 3 66.7 1 4 5 0 0 0 0 2 3
+p168
+aVIke Austin WAS 03/16/2000 WAS vs. LAL W 3 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 0 2 0
+p169
+aVJuwan Howard WAS 03/16/2000 WAS vs. LAL W 46 14 6 15 40.0 0 0 - 2 4 50.0 2 2 4 3 1 0 4 5 9
+p170
+aVMitch Richmond WAS 03/16/2000 WAS vs. LAL W 39 32 7 15 46.7 3 5 60.0 15 16 93.8 0 2 2 3 3 0 2 1 14
+p171
+aVChris Whitney WAS 03/16/2000 WAS vs. LAL W 9 10 3 3 100.0 2 2 100.0 2 2 100.0 0 2 2 1 0 0 1 0 -5
+p172
+aVAaron Williams WAS 03/16/2000 WAS vs. LAL W 12 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 1 0 1 -9
+p173
+aVGerard King WAS 03/16/2000 WAS vs. LAL W 16 11 5 8 62.5 0 0 - 1 1 100.0 2 2 4 1 0 0 0 5 6
+p174
+aVRichard Hamilton WAS 03/16/2000 WAS vs. LAL W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p175
+aVAaron Williams WAS 03/14/2000 WAS @ ORL L 14 6 2 4 50.0 0 0 - 2 4 50.0 2 1 3 0 0 0 2 2 -2
+p176
+aVGerard King WAS 03/14/2000 WAS @ ORL L 28 8 4 10 40.0 0 0 - 0 0 - 3 2 5 2 0 1 0 3 -8
+p177
+aVDon Reid WAS 03/14/2000 WAS @ ORL L 27 12 5 8 62.5 0 0 - 2 2 100.0 4 4 8 1 1 2 1 4 -8
+p178
+aVTracy Murray WAS 03/14/2000 WAS @ ORL L 25 26 8 14 57.1 3 5 60.0 7 8 87.5 3 1 4 1 1 0 3 5 4
+p179
+aVMitch Richmond WAS 03/14/2000 WAS @ ORL L 25 16 7 10 70.0 2 3 66.7 0 0 - 0 2 2 5 1 0 2 4 -5
+p180
+aVLaron Profit WAS 03/14/2000 WAS @ ORL L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 6
+p181
+aVJahidi White WAS 03/14/2000 WAS @ ORL L 21 7 3 7 42.9 0 0 - 1 4 25.0 5 3 8 0 1 2 2 3 -2
+p182
+aVRichard Hamilton WAS 03/14/2000 WAS @ ORL L 13 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 5 1 0 2 1 -13
+p183
+aVRod Strickland WAS 03/14/2000 WAS @ ORL L 23 4 2 8 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -10
+p184
+aVChris Whitney WAS 03/14/2000 WAS @ ORL L 25 9 4 10 40.0 1 5 20.0 0 0 - 0 2 2 4 0 0 1 1 1
+p185
+aVJuwan Howard WAS 03/14/2000 WAS @ ORL L 27 8 4 8 50.0 0 0 - 0 0 - 1 3 4 5 0 0 3 3 -8
+p186
+aVJahidi White WAS 03/12/2000 WAS vs. POR L 14 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -11
+p187
+aVJuwan Howard WAS 03/12/2000 WAS vs. POR L 32 14 6 15 40.0 0 0 - 2 2 100.0 3 4 7 1 0 0 1 5 -9
+p188
+aVIke Austin WAS 03/12/2000 WAS vs. POR L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -6
+p189
+aVChris Whitney WAS 03/12/2000 WAS vs. POR L 25 7 2 11 18.2 1 3 33.3 2 2 100.0 0 1 1 7 2 0 0 3 0
+p190
+aVTracy Murray WAS 03/12/2000 WAS vs. POR L 34 17 7 12 58.3 3 4 75.0 0 0 - 1 0 1 0 1 1 0 1 -2
+p191
+aVMitch Richmond WAS 03/12/2000 WAS vs. POR L 28 18 8 16 50.0 2 3 66.7 0 0 - 1 2 3 2 3 0 2 1 -11
+p192
+aVGerard King WAS 03/12/2000 WAS vs. POR L 35 8 3 10 30.0 0 0 - 2 2 100.0 2 3 5 2 1 0 1 3 -22
+p193
+aVAaron Williams WAS 03/12/2000 WAS vs. POR L 24 10 3 5 60.0 0 0 - 4 8 50.0 4 6 10 1 0 0 0 2 2
+p194
+aVRichard Hamilton WAS 03/12/2000 WAS vs. POR L 8 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -13
+p195
+aVRod Strickland WAS 03/12/2000 WAS vs. POR L 23 9 4 11 36.4 0 0 - 1 3 33.3 0 0 0 8 2 0 0 3 -16
+p196
+aVLaron Profit WAS 03/12/2000 WAS vs. POR L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 0 0 8
+p197
+aVChris Whitney WAS 03/10/2000 WAS vs. SAS L 18 5 1 5 20.0 1 4 25.0 2 2 100.0 0 1 1 5 1 0 0 2 -19
+p198
+aVRod Strickland WAS 03/10/2000 WAS vs. SAS L 40 13 6 12 50.0 0 0 - 1 2 50.0 0 0 0 13 1 0 1 5 2
+p199
+aVGerard King WAS 03/10/2000 WAS vs. SAS L 44 11 5 12 41.7 0 0 - 1 2 50.0 2 6 8 0 3 2 4 4 0
+p200
+aVJuwan Howard WAS 03/10/2000 WAS vs. SAS L 48 29 14 22 63.6 0 0 - 1 1 100.0 4 8 12 3 0 0 4 5 1
+p201
+aVAaron Williams WAS 03/10/2000 WAS vs. SAS L 17 4 1 4 25.0 0 0 - 2 2 100.0 3 4 7 1 0 0 1 5 -10
+p202
+aVTracy Murray WAS 03/10/2000 WAS vs. SAS L 20 6 2 6 33.3 2 4 50.0 0 1 0.0 1 0 1 0 1 1 2 2 -5
+p203
+aVRichard Hamilton WAS 03/10/2000 WAS vs. SAS L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p204
+aVMitch Richmond WAS 03/10/2000 WAS vs. SAS L 46 22 6 20 30.0 1 4 25.0 9 11 81.8 0 5 5 1 3 0 1 2 -1
+p205
+aVJahidi White WAS 03/10/2000 WAS vs. SAS L 26 7 3 4 75.0 0 0 - 1 2 50.0 0 6 6 0 1 1 1 3 3
+p206
+aVTracy Murray WAS 03/08/2000 WAS vs. NYK W 28 8 2 4 50.0 0 0 - 4 4 100.0 0 1 1 1 1 0 1 5 -15
+p207
+aVRichard Hamilton WAS 03/08/2000 WAS vs. NYK W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p208
+aVGerard King WAS 03/08/2000 WAS vs. NYK W 39 12 4 6 66.7 0 0 - 4 4 100.0 2 7 9 2 1 0 0 3 14
+p209
+aVChris Whitney WAS 03/08/2000 WAS vs. NYK W 15 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 3 1 0 0 1 3
+p210
+aVAaron Williams WAS 03/08/2000 WAS vs. NYK W 28 14 6 8 75.0 0 0 - 2 3 66.7 1 3 4 2 1 1 0 6 15
+p211
+aVJahidi White WAS 03/08/2000 WAS vs. NYK W 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 4 -13
+p212
+aVJuwan Howard WAS 03/08/2000 WAS vs. NYK W 50 29 13 19 68.4 0 1 0.0 3 5 60.0 0 5 5 3 2 1 4 3 7
+p213
+aVRod Strickland WAS 03/08/2000 WAS vs. NYK W 40 15 6 12 50.0 0 0 - 3 4 75.0 0 4 4 10 0 2 3 4 9
+p214
+aVMitch Richmond WAS 03/08/2000 WAS vs. NYK W 45 32 12 19 63.2 1 3 33.3 7 8 87.5 0 5 5 4 4 1 2 3 14
+p215
+aVTracy Murray WAS 03/07/2000 WAS @ MIN W 26 17 7 12 58.3 2 4 50.0 1 1 100.0 1 3 4 0 1 0 2 2 6
+p216
+aVMitch Richmond WAS 03/07/2000 WAS @ MIN W 19 14 5 10 50.0 2 4 50.0 2 2 100.0 0 6 6 2 2 0 1 4 -3
+p217
+aVAaron Williams WAS 03/07/2000 WAS @ MIN W 27 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 1 1 0 1 6 4
+p218
+aVRod Strickland WAS 03/07/2000 WAS @ MIN W 28 12 4 8 50.0 0 0 - 4 4 100.0 0 0 0 7 0 1 2 0 -6
+p219
+aVJuwan Howard WAS 03/07/2000 WAS @ MIN W 28 6 3 7 42.9 0 0 - 0 2 0.0 1 6 7 2 0 0 4 4 -8
+p220
+aVRichard Hamilton WAS 03/07/2000 WAS @ MIN W 29 10 4 10 40.0 0 0 - 2 4 50.0 1 2 3 3 1 0 1 2 9
+p221
+aVJahidi White WAS 03/07/2000 WAS @ MIN W 39 13 6 10 60.0 0 0 - 1 2 50.0 2 7 9 2 1 5 2 5 5
+p222
+aVChris Whitney WAS 03/07/2000 WAS @ MIN W 20 4 1 7 14.3 1 3 33.3 1 2 50.0 0 2 2 6 0 0 1 1 10
+p223
+aVGerard King WAS 03/07/2000 WAS @ MIN W 23 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 1 1 0 3 3
+p224
+aVJahidi White WAS 03/06/2000 WAS vs. ORL L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -9
+p225
+aVJuwan Howard WAS 03/06/2000 WAS vs. ORL L 43 11 4 14 28.6 0 0 - 3 4 75.0 2 7 9 4 3 0 2 3 3
+p226
+aVMitch Richmond WAS 03/06/2000 WAS vs. ORL L 22 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 4 1 0 1 0 -1
+p227
+aVGerard King WAS 03/06/2000 WAS vs. ORL L 36 5 1 3 33.3 0 0 - 3 4 75.0 2 10 12 2 2 2 1 4 -1
+p228
+aVTracy Murray WAS 03/06/2000 WAS vs. ORL L 35 14 4 12 33.3 2 7 28.6 4 4 100.0 0 8 8 3 2 1 0 5 4
+p229
+aVChris Whitney WAS 03/06/2000 WAS vs. ORL L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 4 0 0 2 1 0
+p230
+aVRichard Hamilton WAS 03/06/2000 WAS vs. ORL L 26 25 11 19 57.9 1 2 50.0 2 2 100.0 0 0 0 0 0 0 3 4 -1
+p231
+aVRod Strickland WAS 03/06/2000 WAS vs. ORL L 34 12 5 10 50.0 0 0 - 2 4 50.0 1 2 3 7 2 0 3 1 -2
+p232
+aVAaron Williams WAS 03/06/2000 WAS vs. ORL L 18 9 2 5 40.0 0 1 0.0 5 5 100.0 1 0 1 1 0 3 4 2 -3
+p233
+aVMitch Richmond WAS 03/04/2000 WAS vs. DET W 30 9 4 12 33.3 0 0 - 1 1 100.0 0 2 2 1 2 0 3 2 3
+p234
+aVIke Austin WAS 03/04/2000 WAS vs. DET W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 1 0 3
+p235
+aVRod Strickland WAS 03/04/2000 WAS vs. DET W 32 14 4 8 50.0 0 0 - 6 7 85.7 1 3 4 8 3 0 0 2 -6
+p236
+aVJuwan Howard WAS 03/04/2000 WAS vs. DET W 32 10 5 13 38.5 0 0 - 0 0 - 2 5 7 3 1 0 4 3 0
+p237
+aVAaron Williams WAS 03/04/2000 WAS vs. DET W 30 27 11 13 84.6 0 0 - 5 6 83.3 1 7 8 1 0 1 3 4 16
+p238
+aVGerard King WAS 03/04/2000 WAS vs. DET W 28 11 5 8 62.5 0 0 - 1 2 50.0 2 3 5 1 0 0 0 2 -5
+p239
+aVJahidi White WAS 03/04/2000 WAS vs. DET W 26 10 3 7 42.9 0 0 - 4 6 66.7 4 4 8 0 1 2 0 2 -3
+p240
+aVTracy Murray WAS 03/04/2000 WAS vs. DET W 22 2 0 3 0.0 0 1 0.0 2 2 100.0 0 6 6 1 0 0 0 4 7
+p241
+aVChris Whitney WAS 03/04/2000 WAS vs. DET W 16 6 2 8 25.0 2 2 100.0 0 0 - 0 0 0 5 0 0 0 2 12
+p242
+aVRichard Hamilton WAS 03/04/2000 WAS vs. DET W 18 11 4 6 66.7 0 0 - 3 4 75.0 0 1 1 1 2 0 1 4 3
+p243
+aVIke Austin WAS 03/02/2000 WAS vs. PHI L 19 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 3 0 2 5 3 1
+p244
+aVMitch Richmond WAS 03/02/2000 WAS vs. PHI L 38 16 5 18 27.8 0 3 0.0 6 6 100.0 3 4 7 3 2 0 0 3 1
+p245
+aVAaron Williams WAS 03/02/2000 WAS vs. PHI L 18 8 4 6 66.7 0 0 - 0 0 - 2 5 7 0 1 2 2 4 -2
+p246
+aVJahidi White WAS 03/02/2000 WAS vs. PHI L 17 0 0 3 0.0 0 0 - 0 0 - 1 5 6 0 0 0 2 6 9
+p247
+aVChris Whitney WAS 03/02/2000 WAS vs. PHI L 28 12 4 9 44.4 3 4 75.0 1 2 50.0 0 3 3 5 0 0 2 2 -10
+p248
+aVRichard Hamilton WAS 03/02/2000 WAS vs. PHI L 10 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p249
+aVRod Strickland WAS 03/02/2000 WAS vs. PHI L 20 7 3 9 33.3 0 0 - 1 2 50.0 4 0 4 5 1 1 2 2 7
+p250
+aVGerard King WAS 03/02/2000 WAS vs. PHI L 25 8 3 9 33.3 0 0 - 2 2 100.0 2 3 5 1 0 0 0 3 -3
+p251
+aVJuwan Howard WAS 03/02/2000 WAS vs. PHI L 32 12 5 11 45.5 0 0 - 2 2 100.0 2 4 6 2 1 0 3 5 -8
+p252
+aVTracy Murray WAS 03/02/2000 WAS vs. PHI L 32 13 5 8 62.5 2 3 66.7 1 1 100.0 0 2 2 0 2 1 1 2 -6
+p253
+aVJahidi White WAS 03/01/2000 WAS @ ATL W 29 13 5 9 55.6 0 0 - 3 6 50.0 0 6 6 0 1 2 3 3 12
+p254
+aVChris Whitney WAS 03/01/2000 WAS @ ATL W 18 7 2 7 28.6 1 3 33.3 2 2 100.0 0 3 3 3 0 0 1 0 13
+p255
+aVRichard Hamilton WAS 03/01/2000 WAS @ ATL W 15 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 11
+p256
+aVMitch Richmond WAS 03/01/2000 WAS @ ATL W 33 18 6 13 46.2 1 3 33.3 5 6 83.3 0 2 2 3 3 0 2 3 8
+p257
+aVIke Austin WAS 03/01/2000 WAS @ ATL W 16 9 3 7 42.9 0 0 - 3 4 75.0 1 3 4 2 1 0 1 3 13
+p258
+aVGerard King WAS 03/01/2000 WAS @ ATL W 37 17 8 9 88.9 0 0 - 1 1 100.0 4 4 8 1 2 0 1 3 23
+p259
+aVRod Strickland WAS 03/01/2000 WAS @ ATL W 30 10 5 9 55.6 0 0 - 0 1 0.0 1 1 2 11 0 0 0 0 6
+p260
+aVAaron Williams WAS 03/01/2000 WAS @ ATL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p261
+aVLaron Profit WAS 03/01/2000 WAS @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 4
+p262
+aVTracy Murray WAS 03/01/2000 WAS @ ATL W 23 13 5 6 83.3 2 2 100.0 1 1 100.0 1 3 4 1 0 0 0 3 -3
+p263
+aVJuwan Howard WAS 03/01/2000 WAS @ ATL W 32 10 4 11 36.4 0 0 - 2 2 100.0 1 4 5 3 1 0 2 3 6
+p264
+aVRichard Hamilton WAS 02/26/2000 WAS vs. MIA L 23 8 2 6 33.3 1 1 100.0 3 4 75.0 0 2 2 0 0 0 0 2 8
+p265
+aVChris Whitney WAS 02/26/2000 WAS vs. MIA L 16 9 4 5 80.0 1 2 50.0 0 0 - 0 2 2 4 0 0 2 1 5
+p266
+aVJahidi White WAS 02/26/2000 WAS vs. MIA L 31 6 3 10 30.0 0 0 - 0 0 - 2 6 8 0 0 1 0 6 -16
+p267
+aVRod Strickland WAS 02/26/2000 WAS vs. MIA L 32 12 4 11 36.4 0 0 - 4 4 100.0 0 0 0 6 2 0 2 1 -15
+p268
+aVIke Austin WAS 02/26/2000 WAS vs. MIA L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 2 3 9
+p269
+aVAaron Williams WAS 02/26/2000 WAS vs. MIA L 18 2 1 5 20.0 0 0 - 0 0 - 5 3 8 5 0 1 2 3 2
+p270
+aVTracy Murray WAS 02/26/2000 WAS vs. MIA L 33 20 8 15 53.3 4 6 66.7 0 0 - 2 6 8 1 1 0 3 2 0
+p271
+aVJuwan Howard WAS 02/26/2000 WAS vs. MIA L 32 17 4 11 36.4 0 0 - 9 9 100.0 3 8 11 2 0 0 1 5 -15
+p272
+aVGerard King WAS 02/26/2000 WAS vs. MIA L 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -11
+p273
+aVMitch Richmond WAS 02/26/2000 WAS vs. MIA L 28 10 4 12 33.3 1 2 50.0 1 2 50.0 0 2 2 1 0 0 3 3 -17
+p274
+aVRod Strickland WAS 02/24/2000 WAS vs. PHX L 27 8 4 14 28.6 0 1 0.0 0 0 - 1 1 2 3 0 1 4 1 -16
+p275
+aVRichard Hamilton WAS 02/24/2000 WAS vs. PHX L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p276
+aVJahidi White WAS 02/24/2000 WAS vs. PHX L 31 11 5 9 55.6 0 0 - 1 4 25.0 4 6 10 0 0 1 2 4 -17
+p277
+aVTracy Murray WAS 02/24/2000 WAS vs. PHX L 34 4 1 13 7.7 0 6 0.0 2 2 100.0 2 7 9 1 0 0 1 1 -3
+p278
+aVGerard King WAS 02/24/2000 WAS vs. PHX L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -11
+p279
+aVChris Whitney WAS 02/24/2000 WAS vs. PHX L 21 13 5 7 71.4 3 5 60.0 0 0 - 0 2 2 4 2 0 4 3 7
+p280
+aVAaron Williams WAS 02/24/2000 WAS vs. PHX L 18 8 4 8 50.0 0 0 - 0 0 - 4 4 8 1 1 0 1 3 6
+p281
+aVIke Austin WAS 02/24/2000 WAS vs. PHX L 13 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 1 0 1 2 6
+p282
+aVMitch Richmond WAS 02/24/2000 WAS vs. PHX L 41 19 5 15 33.3 2 4 50.0 7 8 87.5 0 4 4 2 2 0 3 5 -12
+p283
+aVJuwan Howard WAS 02/24/2000 WAS vs. PHX L 41 12 5 12 41.7 0 0 - 2 3 66.7 1 4 5 2 0 0 2 4 -8
+p284
+aVIke Austin WAS 02/22/2000 WAS vs. MIL W 19 2 1 4 25.0 0 0 - 0 0 - 2 6 8 2 0 0 1 2 6
+p285
+aVJahidi White WAS 02/22/2000 WAS vs. MIL W 29 18 8 11 72.7 0 0 - 2 3 66.7 5 6 11 0 0 2 0 3 19
+p286
+aVMichael Smith WAS 02/22/2000 WAS vs. MIL W 17 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 3 2 0 2 4 7
+p287
+aVAaron Williams WAS 02/22/2000 WAS vs. MIL W 24 15 6 9 66.7 0 0 - 3 3 100.0 0 9 9 2 2 3 1 1 13
+p288
+aVTracy Murray WAS 02/22/2000 WAS vs. MIL W 25 18 6 10 60.0 4 6 66.7 2 2 100.0 0 1 1 1 0 0 1 2 20
+p289
+aVRichard Hamilton WAS 02/22/2000 WAS vs. MIL W 17 8 4 9 44.4 0 0 - 0 0 - 0 1 1 2 1 0 2 0 0
+p290
+aVMitch Richmond WAS 02/22/2000 WAS vs. MIL W 31 26 9 12 75.0 4 4 100.0 4 4 100.0 0 1 1 5 0 0 1 1 25
+p291
+aVChris Whitney WAS 02/22/2000 WAS vs. MIL W 20 4 0 2 0.0 0 1 0.0 4 4 100.0 0 0 0 8 2 0 0 0 1
+p292
+aVJuwan Howard WAS 02/22/2000 WAS vs. MIL W 23 12 5 10 50.0 0 0 - 2 4 50.0 1 4 5 6 0 1 0 3 12
+p293
+aVRod Strickland WAS 02/22/2000 WAS vs. MIL W 28 14 7 12 58.3 0 0 - 0 0 - 1 3 4 7 0 1 2 3 24
+p294
+aVLaron Profit WAS 02/22/2000 WAS vs. MIL W 7 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -2
+p295
+aVJuwan Howard WAS 02/20/2000 WAS @ GSW L 37 12 4 16 25.0 0 0 - 4 8 50.0 3 4 7 2 0 1 1 2 -3
+p296
+aVJahidi White WAS 02/20/2000 WAS @ GSW L 30 23 8 12 66.7 0 0 - 7 15 46.7 9 5 14 0 1 5 3 2 6
+p297
+aVAaron Williams WAS 02/20/2000 WAS @ GSW L 17 11 4 7 57.1 0 0 - 3 5 60.0 1 3 4 1 0 0 0 3 -9
+p298
+aVIke Austin WAS 02/20/2000 WAS @ GSW L 12 5 2 5 40.0 1 1 100.0 0 0 - 1 4 5 0 0 0 0 1 -13
+p299
+aVLaron Profit WAS 02/20/2000 WAS @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 0 6
+p300
+aVChris Whitney WAS 02/20/2000 WAS @ GSW L 23 7 3 8 37.5 1 4 25.0 0 0 - 0 1 1 3 0 0 0 2 -2
+p301
+aVMichael Smith WAS 02/20/2000 WAS @ GSW L 20 5 1 3 33.3 0 0 - 3 4 75.0 2 4 6 1 2 0 2 3 3
+p302
+aVRod Strickland WAS 02/20/2000 WAS @ GSW L 38 14 5 12 41.7 0 1 0.0 4 4 100.0 0 0 0 11 3 0 3 2 -13
+p303
+aVMitch Richmond WAS 02/20/2000 WAS @ GSW L 20 9 4 8 50.0 1 1 100.0 0 0 - 0 2 2 1 2 0 2 0 -11
+p304
+aVRichard Hamilton WAS 02/20/2000 WAS @ GSW L 12 4 1 7 14.3 0 1 0.0 2 2 100.0 2 0 2 0 0 0 1 1 5
+p305
+aVTracy Murray WAS 02/20/2000 WAS @ GSW L 28 13 5 12 41.7 2 3 66.7 1 2 50.0 2 4 6 1 1 0 2 4 -14
+p306
+aVMitch Richmond WAS 02/18/2000 WAS @ POR L 42 12 4 9 44.4 0 3 0.0 4 4 100.0 0 4 4 3 2 0 3 5 -11
+p307
+aVRichard Hamilton WAS 02/18/2000 WAS @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 1
+p308
+aVRod Strickland WAS 02/18/2000 WAS @ POR L 39 18 6 17 35.3 0 2 0.0 6 11 54.5 0 4 4 8 2 1 1 3 4
+p309
+aVJahidi White WAS 02/18/2000 WAS @ POR L 30 8 4 10 40.0 0 0 - 0 2 0.0 2 4 6 0 1 0 0 4 -9
+p310
+aVAaron Williams WAS 02/18/2000 WAS @ POR L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 4 3 -5
+p311
+aVMichael Smith WAS 02/18/2000 WAS @ POR L 13 3 1 5 20.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 4 -5
+p312
+aVJuwan Howard WAS 02/18/2000 WAS @ POR L 44 15 6 16 37.5 0 0 - 3 4 75.0 5 3 8 4 0 1 6 3 -3
+p313
+aVIke Austin WAS 02/18/2000 WAS @ POR L 18 11 3 7 42.9 0 0 - 5 6 83.3 1 4 5 0 2 1 0 2 1
+p314
+aVTracy Murray WAS 02/18/2000 WAS @ POR L 28 12 4 6 66.7 2 3 66.7 2 2 100.0 1 3 4 0 1 0 0 3 -1
+p315
+aVChris Whitney WAS 02/18/2000 WAS @ POR L 9 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -12
+p316
+aVRod Strickland WAS 02/16/2000 WAS @ VAN L 36 16 6 15 40.0 0 0 - 4 4 100.0 2 4 6 6 3 0 4 2 -3
+p317
+aVIke Austin WAS 02/16/2000 WAS @ VAN L 8 3 1 3 33.3 0 0 - 1 4 25.0 3 0 3 1 0 0 1 1 -8
+p318
+aVJahidi White WAS 02/16/2000 WAS @ VAN L 21 6 3 5 60.0 0 0 - 0 1 0.0 3 4 7 0 0 0 0 2 -5
+p319
+aVAaron Williams WAS 02/16/2000 WAS @ VAN L 22 8 3 6 50.0 0 0 - 2 4 50.0 4 4 8 1 2 2 1 5 3
+p320
+aVMitch Richmond WAS 02/16/2000 WAS @ VAN L 38 18 5 16 31.3 0 2 0.0 8 9 88.9 1 2 3 1 2 0 2 3 -13
+p321
+aVRichard Hamilton WAS 02/16/2000 WAS @ VAN L 10 8 4 4 100.0 0 0 - 0 0 - 1 0 1 2 0 0 2 0 8
+p322
+aVMichael Smith WAS 02/16/2000 WAS @ VAN L 25 3 1 4 25.0 0 0 - 1 2 50.0 4 3 7 1 0 1 1 2 -11
+p323
+aVTracy Murray WAS 02/16/2000 WAS @ VAN L 29 11 4 9 44.4 3 5 60.0 0 0 - 1 5 6 1 1 1 1 4 4
+p324
+aVChris Whitney WAS 02/16/2000 WAS @ VAN L 12 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 2 -2
+p325
+aVJuwan Howard WAS 02/16/2000 WAS @ VAN L 38 14 7 19 36.8 0 0 - 0 2 0.0 2 5 7 3 1 0 2 3 2
+p326
+aVRod Strickland WAS 02/15/2000 WAS @ SEA L 29 7 3 9 33.3 0 0 - 1 2 50.0 0 3 3 7 0 0 3 0 -30
+p327
+aVLaron Profit WAS 02/15/2000 WAS @ SEA L 13 3 1 6 16.7 0 1 0.0 1 2 50.0 0 2 2 0 1 0 3 2 2
+p328
+aVIke Austin WAS 02/15/2000 WAS @ SEA L 23 7 2 5 40.0 0 0 - 3 4 75.0 4 7 11 2 0 1 1 3 4
+p329
+aVMitch Richmond WAS 02/15/2000 WAS @ SEA L 30 10 3 11 27.3 0 6 0.0 4 4 100.0 0 4 4 2 0 0 3 4 -36
+p330
+aVReggie Jordan WAS 02/15/2000 WAS @ SEA L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 1
+p331
+aVRichard Hamilton WAS 02/15/2000 WAS @ SEA L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 1
+p332
+aVJahidi White WAS 02/15/2000 WAS @ SEA L 25 6 2 5 40.0 0 0 - 2 4 50.0 4 3 7 0 2 1 3 3 -33
+p333
+aVTracy Murray WAS 02/15/2000 WAS @ SEA L 31 16 6 11 54.5 2 5 40.0 2 2 100.0 1 2 3 0 0 0 1 1 -33
+p334
+aVAaron Williams WAS 02/15/2000 WAS @ SEA L 19 8 2 8 25.0 0 1 0.0 4 6 66.7 5 5 10 0 0 0 3 4 3
+p335
+aVChris Whitney WAS 02/15/2000 WAS @ SEA L 22 12 4 11 36.4 1 5 20.0 3 4 75.0 2 0 2 2 1 0 0 6 0
+p336
+aVJuwan Howard WAS 02/15/2000 WAS @ SEA L 31 12 5 11 45.5 0 0 - 2 2 100.0 1 5 6 2 0 0 3 2 -24
+p337
+aVRichard Hamilton WAS 02/09/2000 WAS @ ORL L 11 5 2 7 28.6 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -18
+p338
+aVJuwan Howard WAS 02/09/2000 WAS @ ORL L 42 20 8 14 57.1 0 0 - 4 4 100.0 0 3 3 2 0 1 6 4 -15
+p339
+aVRod Strickland WAS 02/09/2000 WAS @ ORL L 27 10 4 9 44.4 0 0 - 2 4 50.0 1 4 5 10 1 0 3 3 0
+p340
+aVTracy Murray WAS 02/09/2000 WAS @ ORL L 27 11 4 8 50.0 2 4 50.0 1 2 50.0 0 3 3 2 0 0 1 4 -7
+p341
+aVIke Austin WAS 02/09/2000 WAS @ ORL L 18 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 0 -14
+p342
+aVAaron Williams WAS 02/09/2000 WAS @ ORL L 21 7 2 2 100.0 0 0 - 3 3 100.0 0 4 4 1 0 1 0 2 0
+p343
+aVLaron Profit WAS 02/09/2000 WAS @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p344
+aVReggie Jordan WAS 02/09/2000 WAS @ ORL L 3 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 3
+p345
+aVChris Whitney WAS 02/09/2000 WAS @ ORL L 21 9 2 7 28.6 2 6 33.3 3 4 75.0 0 2 2 3 0 0 1 2 -11
+p346
+aVJahidi White WAS 02/09/2000 WAS @ ORL L 28 12 5 9 55.6 0 0 - 2 3 66.7 4 12 16 1 0 1 0 2 5
+p347
+aVMitch Richmond WAS 02/09/2000 WAS @ ORL L 35 14 5 11 45.5 4 5 80.0 0 0 - 1 2 3 3 2 0 4 2 2
+p348
+aVLorenzo Williams WAS 02/09/2000 WAS @ ORL L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p349
+aVRichard Hamilton WAS 02/05/2000 WAS vs. CHH L 13 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p350
+aVChris Whitney WAS 02/05/2000 WAS vs. CHH L 16 13 3 7 42.9 3 5 60.0 4 4 100.0 0 2 2 4 0 1 1 3 -5
+p351
+aVMitch Richmond WAS 02/05/2000 WAS vs. CHH L 35 22 8 17 47.1 2 5 40.0 4 4 100.0 0 4 4 1 2 0 1 2 -7
+p352
+aVAaron Williams WAS 02/05/2000 WAS vs. CHH L 20 8 4 8 50.0 0 0 - 0 2 0.0 0 3 3 2 1 2 0 5 -2
+p353
+aVLorenzo Williams WAS 02/05/2000 WAS vs. CHH L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -2
+p354
+aVIke Austin WAS 02/05/2000 WAS vs. CHH L 28 9 4 8 50.0 0 0 - 1 2 50.0 2 2 4 3 0 1 3 3 -6
+p355
+aVRod Strickland WAS 02/05/2000 WAS vs. CHH L 32 20 8 15 53.3 0 0 - 4 4 100.0 1 3 4 8 1 0 3 3 -4
+p356
+aVJahidi White WAS 02/05/2000 WAS vs. CHH L 12 0 0 2 0.0 0 0 - 0 0 - 2 5 7 0 0 0 3 4 -2
+p357
+aVTracy Murray WAS 02/05/2000 WAS vs. CHH L 38 13 5 8 62.5 1 4 25.0 2 2 100.0 0 10 10 3 0 1 1 4 -6
+p358
+aVJuwan Howard WAS 02/05/2000 WAS vs. CHH L 40 15 5 13 38.5 0 0 - 5 7 71.4 4 6 10 1 0 1 3 4 -5
+p359
+aVMitch Richmond WAS 02/04/2000 WAS @ MIA L 44 21 9 18 50.0 2 4 50.0 1 1 100.0 0 5 5 5 2 0 5 4 -4
+p360
+aVAaron Williams WAS 02/04/2000 WAS @ MIA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 5
+p361
+aVLorenzo Williams WAS 02/04/2000 WAS @ MIA L 13 4 2 3 66.7 0 0 - 0 0 - 4 2 6 0 0 1 0 2 1
+p362
+aVJahidi White WAS 02/04/2000 WAS @ MIA L 10 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 0 0 5 -8
+p363
+aVTracy Murray WAS 02/04/2000 WAS @ MIA L 34 5 1 8 12.5 1 5 20.0 2 2 100.0 0 3 3 0 0 0 0 3 -17
+p364
+aVChris Whitney WAS 02/04/2000 WAS @ MIA L 11 8 3 5 60.0 2 3 66.7 0 0 - 1 2 3 1 0 0 1 1 3
+p365
+aVJuwan Howard WAS 02/04/2000 WAS @ MIA L 44 16 8 21 38.1 0 0 - 0 0 - 3 3 6 3 2 0 3 4 -12
+p366
+aVIke Austin WAS 02/04/2000 WAS @ MIA L 36 14 6 15 40.0 0 0 - 2 2 100.0 2 8 10 0 0 0 3 5 3
+p367
+aVRod Strickland WAS 02/04/2000 WAS @ MIA L 37 20 8 12 66.7 0 0 - 4 5 80.0 1 7 8 8 1 0 0 1 -10
+p368
+aVRichard Hamilton WAS 02/04/2000 WAS @ MIA L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 4
+p369
+aVMitch Richmond WAS 02/02/2000 WAS vs. MIN W 33 19 8 16 50.0 2 3 66.7 1 3 33.3 1 0 1 1 2 0 3 3 0
+p370
+aVJahidi White WAS 02/02/2000 WAS vs. MIN W 24 11 5 9 55.6 0 0 - 1 1 100.0 5 2 7 0 0 0 1 2 4
+p371
+aVRod Strickland WAS 02/02/2000 WAS vs. MIN W 36 15 2 10 20.0 0 1 0.0 11 14 78.6 1 5 6 4 1 0 1 2 4
+p372
+aVChris Whitney WAS 02/02/2000 WAS vs. MIN W 12 7 2 5 40.0 1 3 33.3 2 2 100.0 1 1 2 2 1 0 1 1 6
+p373
+aVTracy Murray WAS 02/02/2000 WAS vs. MIN W 35 13 6 10 60.0 1 3 33.3 0 0 - 0 1 1 2 1 0 1 4 8
+p374
+aVAaron Williams WAS 02/02/2000 WAS vs. MIN W 26 12 4 5 80.0 0 0 - 4 4 100.0 0 4 4 0 0 2 0 2 4
+p375
+aVRichard Hamilton WAS 02/02/2000 WAS vs. MIN W 15 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 10
+p376
+aVIke Austin WAS 02/02/2000 WAS vs. MIN W 17 5 2 5 40.0 0 0 - 1 3 33.3 2 3 5 2 0 2 1 1 6
+p377
+aVJuwan Howard WAS 02/02/2000 WAS vs. MIN W 43 14 6 13 46.2 0 0 - 2 2 100.0 3 10 13 7 3 0 4 2 8
+p378
+aVLaron Profit WAS 02/01/2000 WAS @ CLE L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 -5
+p379
+aVJuwan Howard WAS 02/01/2000 WAS @ CLE L 43 14 7 12 58.3 0 0 - 0 0 - 3 8 11 6 2 0 2 5 -5
+p380
+aVAaron Williams WAS 02/01/2000 WAS @ CLE L 22 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 1 1 0 5 -7
+p381
+aVJahidi White WAS 02/01/2000 WAS @ CLE L 20 9 3 6 50.0 0 0 - 3 5 60.0 3 5 8 0 2 2 3 3 4
+p382
+aVTracy Murray WAS 02/01/2000 WAS @ CLE L 40 23 7 13 53.8 5 7 71.4 4 4 100.0 0 3 3 3 1 0 4 4 2
+p383
+aVRichard Hamilton WAS 02/01/2000 WAS @ CLE L 38 22 7 16 43.8 1 2 50.0 7 7 100.0 0 2 2 1 0 0 2 3 5
+p384
+aVChris Whitney WAS 02/01/2000 WAS @ CLE L 22 10 3 8 37.5 2 4 50.0 2 2 100.0 1 1 2 5 0 0 3 5 -5
+p385
+aVIke Austin WAS 02/01/2000 WAS @ CLE L 17 4 1 1 100.0 0 0 - 2 6 33.3 2 3 5 1 0 1 1 4 -9
+p386
+aVRod Strickland WAS 02/01/2000 WAS @ CLE L 31 15 6 14 42.9 0 0 - 3 6 50.0 6 4 10 9 1 1 6 4 0
+p387
+aVIke Austin WAS 01/29/2000 WAS vs. CLE W 10 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 1 1 2 3 0 -5
+p388
+aVTracy Murray WAS 01/29/2000 WAS vs. CLE W 38 11 4 10 40.0 0 3 0.0 3 4 75.0 0 6 6 2 3 0 2 1 5
+p389
+aVReggie Jordan WAS 01/29/2000 WAS vs. CLE W 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 0
+p390
+aVLorenzo Williams WAS 01/29/2000 WAS vs. CLE W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -4
+p391
+aVJahidi White WAS 01/29/2000 WAS vs. CLE W 19 4 1 3 33.3 0 0 - 2 3 66.7 3 9 12 0 0 0 0 4 5
+p392
+aVAaron Williams WAS 01/29/2000 WAS vs. CLE W 25 10 4 5 80.0 0 0 - 2 2 100.0 3 4 7 0 0 2 1 4 8
+p393
+aVChris Whitney WAS 01/29/2000 WAS vs. CLE W 14 10 4 7 57.1 2 4 50.0 0 0 - 0 1 1 2 1 0 1 3 4
+p394
+aVRod Strickland WAS 01/29/2000 WAS vs. CLE W 34 26 11 19 57.9 0 0 - 4 5 80.0 1 6 7 11 0 0 3 3 1
+p395
+aVRichard Hamilton WAS 01/29/2000 WAS vs. CLE W 37 21 9 18 50.0 0 0 - 3 3 100.0 0 0 0 2 1 1 0 2 5
+p396
+aVJuwan Howard WAS 01/29/2000 WAS vs. CLE W 42 17 6 15 40.0 0 0 - 5 6 83.3 1 6 7 1 2 0 4 4 6
+p397
+aVAaron Williams WAS 01/26/2000 WAS @ TOR L 26 17 6 8 75.0 0 0 - 5 7 71.4 2 5 7 2 1 2 3 3 -1
+p398
+aVTracy Murray WAS 01/26/2000 WAS @ TOR L 37 9 3 7 42.9 1 4 25.0 2 2 100.0 0 6 6 3 2 0 1 3 -24
+p399
+aVLorenzo Williams WAS 01/26/2000 WAS @ TOR L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p400
+aVLaron Profit WAS 01/26/2000 WAS @ TOR L 4 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 1 2 3
+p401
+aVRichard Hamilton WAS 01/26/2000 WAS @ TOR L 33 15 5 13 38.5 0 3 0.0 5 6 83.3 1 2 3 2 2 0 3 3 -9
+p402
+aVChris Whitney WAS 01/26/2000 WAS @ TOR L 14 8 2 6 33.3 0 0 - 4 4 100.0 1 2 3 1 0 0 0 0 -6
+p403
+aVJahidi White WAS 01/26/2000 WAS @ TOR L 33 17 6 9 66.7 0 0 - 5 7 71.4 1 9 10 0 0 3 4 3 -6
+p404
+aVRod Strickland WAS 01/26/2000 WAS @ TOR L 33 15 6 9 66.7 0 0 - 3 6 50.0 0 3 3 13 0 1 1 2 -4
+p405
+aVIke Austin WAS 01/26/2000 WAS @ TOR L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -14
+p406
+aVReggie Jordan WAS 01/26/2000 WAS @ TOR L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -12
+p407
+aVJuwan Howard WAS 01/26/2000 WAS @ TOR L 36 22 11 15 73.3 0 0 - 0 0 - 1 2 3 2 0 0 2 4 -7
+p408
+aVRod Strickland WAS 01/22/2000 WAS @ ATL L 35 19 7 15 46.7 0 0 - 5 5 100.0 0 3 3 6 1 0 2 1 -5
+p409
+aVJahidi White WAS 01/22/2000 WAS @ ATL L 23 6 3 10 30.0 0 0 - 0 0 - 4 4 8 0 0 0 1 3 0
+p410
+aVLorenzo Williams WAS 01/22/2000 WAS @ ATL L 16 2 1 1 100.0 0 0 - 0 0 - 4 6 10 0 1 2 1 4 -9
+p411
+aVIke Austin WAS 01/22/2000 WAS @ ATL L 15 4 2 9 22.2 0 0 - 0 0 - 3 2 5 1 0 0 0 2 -16
+p412
+aVJuwan Howard WAS 01/22/2000 WAS @ ATL L 39 18 9 16 56.3 0 0 - 0 1 0.0 2 2 4 4 0 0 1 3 -2
+p413
+aVAaron Williams WAS 01/22/2000 WAS @ ATL L 32 10 4 9 44.4 0 0 - 2 3 66.7 4 7 11 1 0 2 0 5 -14
+p414
+aVMichael Smith WAS 01/22/2000 WAS @ ATL L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 1
+p415
+aVTracy Murray WAS 01/22/2000 WAS @ ATL L 9 3 1 7 14.3 1 2 50.0 0 0 - 0 1 1 0 0 0 2 2 -15
+p416
+aVChris Whitney WAS 01/22/2000 WAS @ ATL L 13 7 2 5 40.0 1 3 33.3 2 2 100.0 1 1 2 1 2 0 0 1 -14
+p417
+aVLaron Profit WAS 01/22/2000 WAS @ ATL L 5 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 2 0 0
+p418
+aVReggie Jordan WAS 01/22/2000 WAS @ ATL L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 1 2 0 2
+p419
+aVRichard Hamilton WAS 01/22/2000 WAS @ ATL L 36 19 6 15 40.0 1 2 50.0 6 8 75.0 2 2 4 0 0 0 0 1 -18
+p420
+aVJuwan Howard WAS 01/21/2000 WAS vs. IND W 44 36 16 26 61.5 0 1 0.0 4 5 80.0 2 8 10 5 0 0 1 4 16
+p421
+aVChris Whitney WAS 01/21/2000 WAS vs. IND W 7 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 2 0 0 1 -1
+p422
+aVAaron Williams WAS 01/21/2000 WAS vs. IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p423
+aVMichael Smith WAS 01/21/2000 WAS vs. IND W 41 20 9 12 75.0 0 0 - 2 2 100.0 4 1 5 3 0 0 2 5 10
+p424
+aVReggie Jordan WAS 01/21/2000 WAS vs. IND W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 6
+p425
+aVRichard Hamilton WAS 01/21/2000 WAS vs. IND W 27 6 3 6 50.0 0 0 - 0 0 - 0 2 2 5 0 0 1 3 6
+p426
+aVJahidi White WAS 01/21/2000 WAS vs. IND W 23 14 5 8 62.5 0 0 - 4 5 80.0 2 4 6 0 0 1 1 3 9
+p427
+aVLorenzo Williams WAS 01/21/2000 WAS vs. IND W 8 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 2 1 0 0 -4
+p428
+aVTracy Murray WAS 01/21/2000 WAS vs. IND W 21 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 1 1 1 1 12
+p429
+aVIke Austin WAS 01/21/2000 WAS vs. IND W 16 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 1 0 0 0 3 3
+p430
+aVLaron Profit WAS 01/21/2000 WAS vs. IND W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p431
+aVRod Strickland WAS 01/21/2000 WAS vs. IND W 41 27 9 13 69.2 0 0 - 9 10 90.0 1 7 8 7 1 2 3 1 11
+p432
+aVJuwan Howard WAS 01/19/2000 WAS vs. DAL L 29 9 2 9 22.2 0 0 - 5 5 100.0 4 1 5 1 0 1 7 4 -14
+p433
+aVAaron Williams WAS 01/19/2000 WAS vs. DAL L 23 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 1 2 3 3 3 -9
+p434
+aVIke Austin WAS 01/19/2000 WAS vs. DAL L 12 3 1 4 25.0 0 0 - 1 2 50.0 1 4 5 2 0 0 0 2 -6
+p435
+aVLaron Profit WAS 01/19/2000 WAS vs. DAL L 23 9 4 10 40.0 1 2 50.0 0 0 - 0 3 3 2 0 1 1 2 -17
+p436
+aVTracy Murray WAS 01/19/2000 WAS vs. DAL L 31 17 6 12 50.0 1 2 50.0 4 4 100.0 2 2 4 1 0 0 0 4 -2
+p437
+aVReggie Jordan WAS 01/19/2000 WAS vs. DAL L 10 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 0
+p438
+aVChris Whitney WAS 01/19/2000 WAS vs. DAL L 19 12 5 11 45.5 2 6 33.3 0 0 - 0 1 1 2 0 0 0 1 0
+p439
+aVJahidi White WAS 01/19/2000 WAS vs. DAL L 28 16 5 8 62.5 0 0 - 6 9 66.7 5 10 15 0 1 2 2 3 -6
+p440
+aVMichael Smith WAS 01/19/2000 WAS vs. DAL L 22 2 1 6 16.7 0 0 - 0 2 0.0 1 2 3 1 0 0 0 1 -15
+p441
+aVRod Strickland WAS 01/19/2000 WAS vs. DAL L 31 8 2 12 16.7 0 0 - 4 4 100.0 2 4 6 3 1 0 5 1 -21
+p442
+aVLorenzo Williams WAS 01/19/2000 WAS vs. DAL L 12 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 2 0 0 0
+p443
+aVIke Austin WAS 01/17/2000 WAS vs. BOS L 18 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 1 0 1 0 3 7
+p444
+aVRod Strickland WAS 01/17/2000 WAS vs. BOS L 37 24 9 16 56.3 0 1 0.0 6 7 85.7 2 2 4 6 1 0 5 3 -15
+p445
+aVReggie Jordan WAS 01/17/2000 WAS vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p446
+aVRichard Hamilton WAS 01/17/2000 WAS vs. BOS L 30 9 3 10 30.0 0 2 0.0 3 4 75.0 0 1 1 5 2 1 5 5 -5
+p447
+aVTracy Murray WAS 01/17/2000 WAS vs. BOS L 31 10 2 5 40.0 1 1 100.0 5 5 100.0 0 4 4 3 0 1 1 1 2
+p448
+aVMichael Smith WAS 01/17/2000 WAS vs. BOS L 28 2 1 3 33.3 0 0 - 0 0 - 3 6 9 1 1 2 1 5 -14
+p449
+aVAaron Williams WAS 01/17/2000 WAS vs. BOS L 12 10 2 5 40.0 0 0 - 6 6 100.0 0 2 2 2 0 0 0 4 9
+p450
+aVJahidi White WAS 01/17/2000 WAS vs. BOS L 28 6 3 7 42.9 0 0 - 0 1 0.0 1 5 6 0 0 2 1 5 -10
+p451
+aVChris Whitney WAS 01/17/2000 WAS vs. BOS L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 11
+p452
+aVJuwan Howard WAS 01/17/2000 WAS vs. BOS L 41 31 12 17 70.6 0 0 - 7 9 77.8 1 2 3 1 1 0 7 4 2
+p453
+aVChris Whitney WAS 01/15/2000 WAS vs. DET L 14 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 0 0 0 5 2 -11
+p454
+aVTracy Murray WAS 01/15/2000 WAS vs. DET L 29 17 6 12 50.0 1 4 25.0 4 4 100.0 2 0 2 1 1 0 2 3 -7
+p455
+aVJahidi White WAS 01/15/2000 WAS vs. DET L 23 14 5 7 71.4 0 0 - 4 4 100.0 1 6 7 1 0 3 0 1 6
+p456
+aVIke Austin WAS 01/15/2000 WAS vs. DET L 18 7 3 5 60.0 0 0 - 1 2 50.0 2 4 6 0 0 0 2 0 -8
+p457
+aVRod Strickland WAS 01/15/2000 WAS vs. DET L 38 27 10 16 62.5 0 1 0.0 7 9 77.8 1 3 4 5 3 0 5 5 3
+p458
+aVReggie Jordan WAS 01/15/2000 WAS vs. DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p459
+aVAaron Williams WAS 01/15/2000 WAS vs. DET L 24 7 3 5 60.0 0 0 - 1 4 25.0 2 6 8 1 4 4 3 3 -8
+p460
+aVMitch Richmond WAS 01/15/2000 WAS vs. DET L 19 6 3 6 50.0 0 0 - 0 0 - 0 3 3 3 0 0 0 0 11
+p461
+aVJuwan Howard WAS 01/15/2000 WAS vs. DET L 43 13 3 12 25.0 0 0 - 7 8 87.5 0 3 3 5 0 0 5 5 -5
+p462
+aVGerard King WAS 01/15/2000 WAS vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p463
+aVMichael Smith WAS 01/15/2000 WAS vs. DET L 25 11 4 6 66.7 0 0 - 3 4 75.0 1 4 5 1 0 0 1 5 -2
+p464
+aVJuwan Howard WAS 01/14/2000 WAS @ DET L 32 20 7 11 63.6 0 0 - 6 6 100.0 0 4 4 2 1 0 4 5 -17
+p465
+aVRod Strickland WAS 01/14/2000 WAS @ DET L 33 9 4 12 33.3 0 0 - 1 2 50.0 1 4 5 8 0 0 5 3 -21
+p466
+aVTracy Murray WAS 01/14/2000 WAS @ DET L 18 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 2 2 1 2 1 6
+p467
+aVAaron Williams WAS 01/14/2000 WAS @ DET L 23 7 3 4 75.0 0 0 - 1 1 100.0 4 4 8 0 0 0 3 2 14
+p468
+aVMitch Richmond WAS 01/14/2000 WAS @ DET L 39 29 13 22 59.1 2 3 66.7 1 3 33.3 0 4 4 2 3 0 3 5 -3
+p469
+aVChris Whitney WAS 01/14/2000 WAS @ DET L 15 1 0 6 0.0 0 1 0.0 1 1 100.0 0 2 2 3 1 0 1 0 14
+p470
+aVIke Austin WAS 01/14/2000 WAS @ DET L 25 15 7 9 77.8 0 0 - 1 2 50.0 3 6 9 1 0 0 3 3 6
+p471
+aVReggie Jordan WAS 01/14/2000 WAS @ DET L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -1
+p472
+aVJahidi White WAS 01/14/2000 WAS @ DET L 23 5 2 3 66.7 0 0 - 1 3 33.3 1 4 5 0 0 0 1 2 -13
+p473
+aVMichael Smith WAS 01/14/2000 WAS @ DET L 24 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 0 2 3 3 -20
+p474
+aVMitch Richmond WAS 01/12/2000 WAS @ IND L 38 17 7 20 35.0 1 2 50.0 2 2 100.0 1 5 6 1 2 1 3 2 -20
+p475
+aVReggie Jordan WAS 01/12/2000 WAS @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 3
+p476
+aVGerard King WAS 01/12/2000 WAS @ IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 7
+p477
+aVMichael Smith WAS 01/12/2000 WAS @ IND L 28 7 2 3 66.7 0 0 - 3 3 100.0 4 4 8 2 0 0 0 2 -8
+p478
+aVRod Strickland WAS 01/12/2000 WAS @ IND L 35 11 5 14 35.7 0 1 0.0 1 2 50.0 2 2 4 5 3 0 4 3 -13
+p479
+aVJahidi White WAS 01/12/2000 WAS @ IND L 25 10 4 6 66.7 0 0 - 2 6 33.3 4 7 11 1 0 0 3 4 -11
+p480
+aVRichard Hamilton WAS 01/12/2000 WAS @ IND L 10 3 1 5 20.0 0 1 0.0 1 2 50.0 2 2 4 1 0 0 1 0 5
+p481
+aVIke Austin WAS 01/12/2000 WAS @ IND L 17 1 0 3 0.0 0 0 - 1 2 50.0 0 4 4 0 1 0 2 2 -11
+p482
+aVAaron Williams WAS 01/12/2000 WAS @ IND L 17 16 6 9 66.7 0 0 - 4 4 100.0 2 2 4 1 1 1 1 2 0
+p483
+aVChris Whitney WAS 01/12/2000 WAS @ IND L 13 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 4 0 0 0 1 -2
+p484
+aVJuwan Howard WAS 01/12/2000 WAS @ IND L 33 23 9 17 52.9 0 0 - 5 6 83.3 6 5 11 7 1 0 3 5 -17
+p485
+aVTracy Murray WAS 01/12/2000 WAS @ IND L 17 9 4 9 44.4 1 4 25.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p486
+aVRichard Hamilton WAS 01/11/2000 WAS vs. TOR W 18 7 2 6 33.3 0 1 0.0 3 3 100.0 0 1 1 0 0 0 2 4 7
+p487
+aVJahidi White WAS 01/11/2000 WAS vs. TOR W 25 13 6 9 66.7 0 0 - 1 4 25.0 2 7 9 0 0 1 1 2 22
+p488
+aVIke Austin WAS 01/11/2000 WAS vs. TOR W 20 12 4 8 50.0 0 0 - 4 4 100.0 1 4 5 2 1 0 0 3 4
+p489
+aVReggie Jordan WAS 01/11/2000 WAS vs. TOR W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p490
+aVMitch Richmond WAS 01/11/2000 WAS vs. TOR W 30 7 2 9 22.2 1 5 20.0 2 3 66.7 0 6 6 3 0 2 3 1 21
+p491
+aVJuwan Howard WAS 01/11/2000 WAS vs. TOR W 27 10 3 8 37.5 0 0 - 4 4 100.0 1 1 2 1 0 0 3 4 24
+p492
+aVMichael Smith WAS 01/11/2000 WAS vs. TOR W 20 10 5 8 62.5 0 1 0.0 0 0 - 4 3 7 2 1 0 1 0 9
+p493
+aVTracy Murray WAS 01/11/2000 WAS vs. TOR W 19 10 4 10 40.0 0 3 0.0 2 2 100.0 1 2 3 1 0 0 1 3 6
+p494
+aVGerard King WAS 01/11/2000 WAS vs. TOR W 5 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 1 0 0 0 1 0
+p495
+aVAaron Williams WAS 01/11/2000 WAS vs. TOR W 23 17 6 6 100.0 0 0 - 5 5 100.0 0 10 10 1 2 0 1 3 18
+p496
+aVRod Strickland WAS 01/11/2000 WAS vs. TOR W 26 15 4 8 50.0 0 0 - 7 7 100.0 0 3 3 7 1 0 1 2 10
+p497
+aVChris Whitney WAS 01/11/2000 WAS vs. TOR W 21 8 4 4 100.0 0 0 - 0 0 - 0 1 1 6 1 0 2 2 15
+p498
+aVMichael Smith WAS 01/08/2000 WAS @ MIL L 31 17 6 8 75.0 0 0 - 5 6 83.3 4 2 6 3 0 0 2 2 -3
+p499
+aVRichard Hamilton WAS 01/08/2000 WAS @ MIL L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 7
+p500
+aVJahidi White WAS 01/08/2000 WAS @ MIL L 29 4 2 8 25.0 0 0 - 0 0 - 2 6 8 0 1 3 2 3 0
+p501
+aVRod Strickland WAS 01/08/2000 WAS @ MIL L 41 24 7 14 50.0 0 0 - 10 13 76.9 4 3 7 12 1 0 4 6 -2
+p502
+aVReggie Jordan WAS 01/08/2000 WAS @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 6
+p503
+aVChris Whitney WAS 01/08/2000 WAS @ MIL L 17 4 0 2 0.0 0 1 0.0 4 4 100.0 0 0 0 5 2 0 2 4 1
+p504
+aVJuwan Howard WAS 01/08/2000 WAS @ MIL L 46 20 8 14 57.1 0 1 0.0 4 5 80.0 1 7 8 6 0 0 3 6 -8
+p505
+aVAaron Williams WAS 01/08/2000 WAS @ MIL L 27 8 3 9 33.3 0 0 - 2 4 50.0 5 8 13 1 1 1 1 4 2
+p506
+aVGerard King WAS 01/08/2000 WAS @ MIL L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p507
+aVMitch Richmond WAS 01/08/2000 WAS @ MIL L 45 25 9 21 42.9 2 4 50.0 5 6 83.3 1 2 3 4 1 0 3 2 -11
+p508
+aVTracy Murray WAS 01/08/2000 WAS @ MIL L 28 27 9 14 64.3 7 10 70.0 2 4 50.0 0 2 2 2 1 0 1 3 3
+p509
+aVRichard Hamilton WAS 01/07/2000 WAS vs. CHI L 16 7 3 9 33.3 0 2 0.0 1 4 25.0 0 0 0 2 0 0 0 1 -3
+p510
+aVRod Strickland WAS 01/07/2000 WAS vs. CHI L 35 7 3 11 27.3 0 0 - 1 4 25.0 1 3 4 12 3 1 3 1 5
+p511
+aVAaron Williams WAS 01/07/2000 WAS vs. CHI L 21 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 0 1 1 2 -1
+p512
+aVMichael Smith WAS 01/07/2000 WAS vs. CHI L 31 10 3 4 75.0 0 0 - 4 4 100.0 6 6 12 1 0 3 2 3 4
+p513
+aVReggie Jordan WAS 01/07/2000 WAS vs. CHI L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p514
+aVMitch Richmond WAS 01/07/2000 WAS vs. CHI L 35 17 6 17 35.3 2 5 40.0 3 4 75.0 1 1 2 2 1 0 2 3 -8
+p515
+aVChris Whitney WAS 01/07/2000 WAS vs. CHI L 14 12 3 4 75.0 3 4 75.0 3 3 100.0 0 0 0 6 1 0 1 2 -9
+p516
+aVTracy Murray WAS 01/07/2000 WAS vs. CHI L 22 8 3 5 60.0 1 2 50.0 1 1 100.0 1 2 3 1 0 0 0 6 -5
+p517
+aVJahidi White WAS 01/07/2000 WAS vs. CHI L 17 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 0 0 1 3 2 -9
+p518
+aVGerard King WAS 01/07/2000 WAS vs. CHI L 16 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 1 0 2 4 -10
+p519
+aVJuwan Howard WAS 01/07/2000 WAS vs. CHI L 30 19 9 12 75.0 0 0 - 1 3 33.3 0 1 1 1 1 1 1 5 4
+p520
+aVAaron Williams WAS 01/05/2000 WAS @ CHI L 12 3 0 2 0.0 0 0 - 3 4 75.0 1 3 4 1 0 1 2 3 2
+p521
+aVJuwan Howard WAS 01/05/2000 WAS @ CHI L 38 12 5 15 33.3 0 0 - 2 3 66.7 2 8 10 3 4 0 3 4 -16
+p522
+aVMichael Smith WAS 01/05/2000 WAS @ CHI L 24 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 4 -23
+p523
+aVRod Strickland WAS 01/05/2000 WAS @ CHI L 25 3 0 9 0.0 0 0 - 3 4 75.0 1 0 1 6 0 0 0 2 -29
+p524
+aVRichard Hamilton WAS 01/05/2000 WAS @ CHI L 21 7 3 10 30.0 0 1 0.0 1 1 100.0 1 2 3 2 0 1 0 4 9
+p525
+aVJahidi White WAS 01/05/2000 WAS @ CHI L 16 0 0 1 0.0 0 0 - 0 0 - 4 3 7 0 0 1 1 2 -23
+p526
+aVReggie Jordan WAS 01/05/2000 WAS @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p527
+aVTracy Murray WAS 01/05/2000 WAS @ CHI L 30 18 7 15 46.7 3 6 50.0 1 2 50.0 2 6 8 0 0 1 1 2 15
+p528
+aVMitch Richmond WAS 01/05/2000 WAS @ CHI L 30 9 4 16 25.0 1 5 20.0 0 2 0.0 1 2 3 2 2 1 3 3 -22
+p529
+aVGerard King WAS 01/05/2000 WAS @ CHI L 15 4 2 5 40.0 0 0 - 0 0 - 4 0 4 1 1 1 0 0 13
+p530
+aVChris Whitney WAS 01/05/2000 WAS @ CHI L 23 6 1 5 20.0 0 4 0.0 4 4 100.0 0 1 1 5 1 1 1 3 18
+p531
+aVIke Austin WAS 01/05/2000 WAS @ CHI L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 0 2
+p532
+aVTracy Murray WAS 01/03/2000 WAS vs. GSW W 12 13 5 13 38.5 3 5 60.0 0 0 - 2 0 2 1 1 1 2 3 5
+p533
+aVGerard King WAS 01/03/2000 WAS vs. GSW W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p534
+aVJahidi White WAS 01/03/2000 WAS vs. GSW W 24 12 6 7 85.7 0 0 - 0 1 0.0 3 4 7 1 0 1 2 4 1
+p535
+aVAaron Williams WAS 01/03/2000 WAS vs. GSW W 27 6 3 8 37.5 0 0 - 0 0 - 5 0 5 0 0 1 2 1 1
+p536
+aVJuwan Howard WAS 01/03/2000 WAS vs. GSW W 35 13 5 15 33.3 0 1 0.0 3 4 75.0 1 7 8 3 1 1 2 2 7
+p537
+aVChris Whitney WAS 01/03/2000 WAS vs. GSW W 12 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 2 1 0 0 1 4
+p538
+aVRichard Hamilton WAS 01/03/2000 WAS vs. GSW W 15 11 4 6 66.7 1 1 100.0 2 3 66.7 0 1 1 1 1 0 2 1 7
+p539
+aVIke Austin WAS 01/03/2000 WAS vs. GSW W 20 2 1 2 50.0 0 0 - 0 0 - 2 5 7 2 0 0 2 2 5
+p540
+aVMitch Richmond WAS 01/03/2000 WAS vs. GSW W 35 19 6 12 50.0 1 2 50.0 6 6 100.0 1 1 2 4 1 0 1 2 8
+p541
+aVReggie Jordan WAS 01/03/2000 WAS vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p542
+aVMichael Smith WAS 01/03/2000 WAS vs. GSW W 23 6 3 6 50.0 0 0 - 0 1 0.0 0 4 4 1 0 1 0 2 14
+p543
+aVRod Strickland WAS 01/03/2000 WAS vs. GSW W 35 15 6 12 50.0 0 1 0.0 3 3 100.0 0 2 2 10 1 0 1 2 8
+p544
+aVGerard King WAS 12/30/1999 WAS vs. NYK L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p545
+aVRichard Hamilton WAS 12/30/1999 WAS vs. NYK L 17 7 2 7 28.6 0 1 0.0 3 3 100.0 0 1 1 0 0 0 1 1 -9
+p546
+aVAaron Williams WAS 12/30/1999 WAS vs. NYK L 16 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 1 1 0 2 -9
+p547
+aVTracy Murray WAS 12/30/1999 WAS vs. NYK L 17 15 4 9 44.4 4 5 80.0 3 4 75.0 1 2 3 0 1 1 1 1 9
+p548
+aVMitch Richmond WAS 12/30/1999 WAS vs. NYK L 31 24 8 13 61.5 2 4 50.0 6 9 66.7 0 2 2 5 2 0 3 4 6
+p549
+aVJuwan Howard WAS 12/30/1999 WAS vs. NYK L 32 10 5 9 55.6 0 0 - 0 0 - 1 5 6 2 0 0 3 5 -7
+p550
+aVChris Whitney WAS 12/30/1999 WAS vs. NYK L 14 8 3 7 42.9 2 5 40.0 0 1 0.0 0 2 2 1 0 0 2 1 -5
+p551
+aVIke Austin WAS 12/30/1999 WAS vs. NYK L 17 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 1 1 0 1 -4
+p552
+aVJahidi White WAS 12/30/1999 WAS vs. NYK L 31 8 3 6 50.0 0 0 - 2 4 50.0 3 10 13 2 0 2 2 5 1
+p553
+aVMichael Smith WAS 12/30/1999 WAS vs. NYK L 29 2 1 2 50.0 0 0 - 0 2 0.0 1 6 7 0 0 2 0 2 3
+p554
+aVRod Strickland WAS 12/30/1999 WAS vs. NYK L 34 8 4 7 57.1 0 1 0.0 0 2 0.0 3 4 7 6 2 0 6 4 2
+p555
+aVReggie Jordan WAS 12/30/1999 WAS vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p556
+aVJuwan Howard WAS 12/29/1999 WAS @ CLE L 34 10 4 8 50.0 0 0 - 2 2 100.0 0 3 3 9 0 0 4 3 9
+p557
+aVGerard King WAS 12/29/1999 WAS @ CLE L 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p558
+aVRichard Hamilton WAS 12/29/1999 WAS @ CLE L 16 5 2 7 28.6 0 1 0.0 1 2 50.0 1 0 1 1 0 0 0 0 -4
+p559
+aVJahidi White WAS 12/29/1999 WAS @ CLE L 29 16 6 9 66.7 0 0 - 4 6 66.7 2 8 10 0 1 0 2 4 9
+p560
+aVMitch Richmond WAS 12/29/1999 WAS @ CLE L 29 13 4 13 30.8 0 3 0.0 5 6 83.3 0 2 2 2 1 0 3 3 2
+p561
+aVAaron Williams WAS 12/29/1999 WAS @ CLE L 17 0 0 4 0.0 0 0 - 0 0 - 1 0 1 1 0 1 2 4 -6
+p562
+aVMichael Smith WAS 12/29/1999 WAS @ CLE L 31 12 5 8 62.5 0 0 - 2 2 100.0 4 10 14 0 0 2 3 5 1
+p563
+aVChris Whitney WAS 12/29/1999 WAS @ CLE L 13 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 1 0 0 2 -2
+p564
+aVReggie Jordan WAS 12/29/1999 WAS @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p565
+aVRod Strickland WAS 12/29/1999 WAS @ CLE L 35 20 8 15 53.3 0 0 - 4 8 50.0 3 3 6 6 2 0 4 1 0
+p566
+aVTracy Murray WAS 12/29/1999 WAS @ CLE L 15 12 4 9 44.4 4 5 80.0 0 0 - 0 1 1 2 0 0 1 2 -8
+p567
+aVIke Austin WAS 12/29/1999 WAS @ CLE L 17 6 3 5 60.0 0 0 - 0 2 0.0 2 6 8 2 0 0 2 2 -9
+p568
+aVIke Austin WAS 12/26/1999 WAS vs. HOU W 18 6 3 7 42.9 0 0 - 0 0 - 0 2 2 4 1 1 2 1 3
+p569
+aVRod Strickland WAS 12/26/1999 WAS vs. HOU W 32 15 5 11 45.5 0 1 0.0 5 5 100.0 3 4 7 6 2 0 3 5 17
+p570
+aVReggie Jordan WAS 12/26/1999 WAS vs. HOU W 11 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 0 0 0 2 2 -13
+p571
+aVJuwan Howard WAS 12/26/1999 WAS vs. HOU W 36 11 4 11 36.4 0 0 - 3 3 100.0 0 4 4 1 2 2 2 4 11
+p572
+aVChris Whitney WAS 12/26/1999 WAS vs. HOU W 15 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 0 1 0 3 0 -2
+p573
+aVMichael Smith WAS 12/26/1999 WAS vs. HOU W 24 8 2 3 66.7 0 0 - 4 4 100.0 0 4 4 1 3 0 1 1 12
+p574
+aVTracy Murray WAS 12/26/1999 WAS vs. HOU W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 0
+p575
+aVAaron Williams WAS 12/26/1999 WAS vs. HOU W 22 9 4 6 66.7 0 0 - 1 2 50.0 0 3 3 1 0 0 2 4 3
+p576
+aVGerard King WAS 12/26/1999 WAS vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p577
+aVLaron Profit WAS 12/26/1999 WAS vs. HOU W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p578
+aVMitch Richmond WAS 12/26/1999 WAS vs. HOU W 37 27 9 19 47.4 1 4 25.0 8 8 100.0 1 5 6 7 3 1 1 2 24
+p579
+aVJahidi White WAS 12/26/1999 WAS vs. HOU W 30 15 7 12 58.3 0 0 - 1 1 100.0 5 4 9 0 0 5 2 3 8
+p580
+aVLaron Profit WAS 12/23/1999 WAS @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p581
+aVReggie Jordan WAS 12/23/1999 WAS @ HOU L 13 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -6
+p582
+aVChris Whitney WAS 12/23/1999 WAS @ HOU L 19 7 2 8 25.0 0 3 0.0 3 6 50.0 0 0 0 4 0 0 1 1 -2
+p583
+aVGerard King WAS 12/23/1999 WAS @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p584
+aVMichael Smith WAS 12/23/1999 WAS @ HOU L 32 6 3 4 75.0 0 0 - 0 0 - 4 8 12 1 1 0 0 4 -8
+p585
+aVMitch Richmond WAS 12/23/1999 WAS @ HOU L 33 18 8 16 50.0 1 2 50.0 1 1 100.0 1 4 5 4 0 0 4 5 -9
+p586
+aVIke Austin WAS 12/23/1999 WAS @ HOU L 17 10 4 8 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 2 -5
+p587
+aVAaron Williams WAS 12/23/1999 WAS @ HOU L 24 9 4 6 66.7 0 0 - 1 2 50.0 0 3 3 1 0 2 0 3 -10
+p588
+aVTracy Murray WAS 12/23/1999 WAS @ HOU L 15 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 0 3 2
+p589
+aVJuwan Howard WAS 12/23/1999 WAS @ HOU L 33 16 7 16 43.8 0 0 - 2 4 50.0 2 1 3 1 0 0 4 3 -18
+p590
+aVJahidi White WAS 12/23/1999 WAS @ HOU L 18 6 2 3 66.7 0 0 - 2 5 40.0 1 7 8 0 0 0 1 4 -5
+p591
+aVRod Strickland WAS 12/23/1999 WAS @ HOU L 30 9 3 10 30.0 0 1 0.0 3 4 75.0 0 1 1 7 1 1 2 2 -16
+p592
+aVAaron Williams WAS 12/21/1999 WAS @ DET W 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 2 0 4 6
+p593
+aVReggie Jordan WAS 12/21/1999 WAS @ DET W 7 0 0 5 0.0 0 0 - 0 0 - 3 1 4 1 0 0 0 2 -3
+p594
+aVMitch Richmond WAS 12/21/1999 WAS @ DET W 41 33 13 24 54.2 2 5 40.0 5 5 100.0 0 5 5 0 4 1 0 4 17
+p595
+aVGerard King WAS 12/21/1999 WAS @ DET W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p596
+aVIke Austin WAS 12/21/1999 WAS @ DET W 18 7 2 4 50.0 0 0 - 3 4 75.0 1 3 4 1 0 1 1 2 12
+p597
+aVMichael Smith WAS 12/21/1999 WAS @ DET W 39 6 3 7 42.9 0 0 - 0 0 - 5 8 13 3 1 0 1 4 11
+p598
+aVChris Whitney WAS 12/21/1999 WAS @ DET W 27 8 2 7 28.6 0 1 0.0 4 4 100.0 1 3 4 8 2 0 3 1 16
+p599
+aVLaron Profit WAS 12/21/1999 WAS @ DET W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p600
+aVJuwan Howard WAS 12/21/1999 WAS @ DET W 33 16 8 20 40.0 0 0 - 0 0 - 2 3 5 1 0 0 2 4 13
+p601
+aVTracy Murray WAS 12/21/1999 WAS @ DET W 21 12 5 9 55.6 0 3 0.0 2 2 100.0 1 0 1 0 1 1 2 4 3
+p602
+aVRod Strickland WAS 12/21/1999 WAS @ DET W 18 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 5 2 0 2 4 2
+p603
+aVJahidi White WAS 12/21/1999 WAS @ DET W 15 4 2 4 50.0 0 0 - 0 0 - 2 8 10 0 0 0 2 2 0
+p604
+aVTracy Murray WAS 12/18/1999 WAS @ NYK W 19 10 3 10 30.0 2 4 50.0 2 2 100.0 1 2 3 1 0 0 1 1 2
+p605
+aVChris Whitney WAS 12/18/1999 WAS @ NYK W 16 8 3 4 75.0 2 2 100.0 0 0 - 0 2 2 2 0 0 0 1 8
+p606
+aVJahidi White WAS 12/18/1999 WAS @ NYK W 28 15 4 8 50.0 0 0 - 7 11 63.6 0 10 10 0 0 0 1 4 3
+p607
+aVJuwan Howard WAS 12/18/1999 WAS @ NYK W 32 12 5 10 50.0 0 0 - 2 2 100.0 1 2 3 6 0 0 2 5 16
+p608
+aVIke Austin WAS 12/18/1999 WAS @ NYK W 7 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -3
+p609
+aVMitch Richmond WAS 12/18/1999 WAS @ NYK W 33 19 9 15 60.0 1 4 25.0 0 0 - 0 2 2 2 1 0 2 6 2
+p610
+aVMichael Smith WAS 12/18/1999 WAS @ NYK W 35 8 3 4 75.0 0 0 - 2 3 66.7 0 8 8 2 2 0 1 1 13
+p611
+aVAaron Williams WAS 12/18/1999 WAS @ NYK W 21 5 1 4 25.0 0 0 - 3 3 100.0 2 4 6 1 1 4 2 3 4
+p612
+aVRod Strickland WAS 12/18/1999 WAS @ NYK W 34 10 3 7 42.9 0 0 - 4 4 100.0 1 3 4 8 1 0 6 0 9
+p613
+aVReggie Jordan WAS 12/18/1999 WAS @ NYK W 15 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 2 6
+p614
+aVMitch Richmond WAS 12/16/1999 WAS vs. NJN W 36 22 10 15 66.7 2 3 66.7 0 0 - 0 1 1 4 2 0 6 3 4
+p615
+aVMichael Smith WAS 12/16/1999 WAS vs. NJN W 29 5 2 5 40.0 0 0 - 1 4 25.0 6 4 10 3 0 1 1 4 8
+p616
+aVLaron Profit WAS 12/16/1999 WAS vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p617
+aVAaron Williams WAS 12/16/1999 WAS vs. NJN W 12 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -6
+p618
+aVJahidi White WAS 12/16/1999 WAS vs. NJN W 31 19 9 11 81.8 0 0 - 1 3 33.3 3 5 8 0 1 1 2 3 7
+p619
+aVTracy Murray WAS 12/16/1999 WAS vs. NJN W 18 6 2 5 40.0 2 3 66.7 0 0 - 1 3 4 0 0 1 1 1 0
+p620
+aVReggie Jordan WAS 12/16/1999 WAS vs. NJN W 8 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -5
+p621
+aVRod Strickland WAS 12/16/1999 WAS vs. NJN W 39 17 7 11 63.6 0 1 0.0 3 6 50.0 1 3 4 14 3 0 3 3 9
+p622
+aVIke Austin WAS 12/16/1999 WAS vs. NJN W 16 4 2 4 50.0 0 0 - 0 0 - 1 0 1 4 0 1 1 1 -6
+p623
+aVChris Whitney WAS 12/16/1999 WAS vs. NJN W 9 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 4 -4
+p624
+aVJuwan Howard WAS 12/16/1999 WAS vs. NJN W 37 28 12 20 60.0 0 0 - 4 5 80.0 3 4 7 3 2 0 2 2 11
+p625
+aVAaron Williams WAS 12/14/1999 WAS vs. UTA L 20 5 2 3 66.7 0 0 - 1 2 50.0 2 6 8 0 1 1 2 4 1
+p626
+aVReggie Jordan WAS 12/14/1999 WAS vs. UTA L 11 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 1 1 1 3 1 -6
+p627
+aVIke Austin WAS 12/14/1999 WAS vs. UTA L 25 4 2 6 33.3 0 0 - 0 0 - 3 4 7 3 1 3 1 1 -14
+p628
+aVMichael Smith WAS 12/14/1999 WAS vs. UTA L 30 12 5 8 62.5 0 0 - 2 2 100.0 4 5 9 0 0 1 1 3 -16
+p629
+aVChris Whitney WAS 12/14/1999 WAS vs. UTA L 14 0 0 4 0.0 0 4 0.0 0 0 - 0 2 2 3 0 0 0 2 -9
+p630
+aVJuwan Howard WAS 12/14/1999 WAS vs. UTA L 30 12 5 11 45.5 0 0 - 2 4 50.0 0 1 1 1 0 0 3 4 -19
+p631
+aVRod Strickland WAS 12/14/1999 WAS vs. UTA L 32 18 6 8 75.0 0 0 - 6 7 85.7 0 0 0 5 2 0 2 0 -12
+p632
+aVMitch Richmond WAS 12/14/1999 WAS vs. UTA L 37 17 6 15 40.0 0 1 0.0 5 6 83.3 1 3 4 5 0 0 6 4 -15
+p633
+aVGerard King WAS 12/14/1999 WAS vs. UTA L 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -6
+p634
+aVTracy Murray WAS 12/14/1999 WAS vs. UTA L 21 4 1 8 12.5 0 4 0.0 2 2 100.0 0 0 0 0 1 1 1 1 -3
+p635
+aVLaron Profit WAS 12/14/1999 WAS vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 0
+p636
+aVJahidi White WAS 12/14/1999 WAS vs. UTA L 16 4 2 2 100.0 0 0 - 0 2 0.0 0 6 6 0 1 1 2 1 -6
+p637
+aVAaron Williams WAS 12/11/1999 WAS @ SAS W 22 9 4 8 50.0 0 0 - 1 1 100.0 3 4 7 0 0 1 0 5 3
+p638
+aVChris Whitney WAS 12/11/1999 WAS @ SAS W 14 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 3 1 0 0 1 3
+p639
+aVGerard King WAS 12/11/1999 WAS @ SAS W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -4
+p640
+aVMitch Richmond WAS 12/11/1999 WAS @ SAS W 40 31 12 19 63.2 1 1 100.0 6 7 85.7 1 3 4 5 1 0 1 2 6
+p641
+aVJuwan Howard WAS 12/11/1999 WAS @ SAS W 28 11 5 14 35.7 0 0 - 1 2 50.0 1 1 2 1 1 0 1 2 1
+p642
+aVRod Strickland WAS 12/11/1999 WAS @ SAS W 34 11 4 11 36.4 0 0 - 3 4 75.0 0 3 3 7 2 0 2 1 7
+p643
+aVMichael Smith WAS 12/11/1999 WAS @ SAS W 35 10 3 5 60.0 0 0 - 4 4 100.0 5 10 15 3 2 0 0 4 15
+p644
+aVTracy Murray WAS 12/11/1999 WAS @ SAS W 20 15 6 12 50.0 1 3 33.3 2 4 50.0 0 3 3 0 0 0 2 1 9
+p645
+aVIke Austin WAS 12/11/1999 WAS @ SAS W 29 2 1 5 20.0 0 0 - 0 0 - 0 6 6 1 0 0 3 5 9
+p646
+aVReggie Jordan WAS 12/11/1999 WAS @ SAS W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 4
+p647
+aVJahidi White WAS 12/11/1999 WAS @ SAS W 7 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 1 0 4 -3
+p648
+aVReggie Jordan WAS 12/09/1999 WAS @ PHX L 22 7 2 4 50.0 0 0 - 3 4 75.0 3 2 5 6 2 0 2 0 10
+p649
+aVJahidi White WAS 12/09/1999 WAS @ PHX L 15 6 2 2 100.0 0 0 - 2 4 50.0 1 2 3 0 1 2 1 2 5
+p650
+aVIke Austin WAS 12/09/1999 WAS @ PHX L 21 11 4 9 44.4 0 0 - 3 4 75.0 1 3 4 0 0 1 0 0 -15
+p651
+aVGerard King WAS 12/09/1999 WAS @ PHX L 19 8 4 6 66.7 0 0 - 0 2 0.0 0 4 4 2 0 0 1 0 7
+p652
+aVMitch Richmond WAS 12/09/1999 WAS @ PHX L 32 14 6 15 40.0 1 2 50.0 1 2 50.0 1 1 2 1 1 0 1 2 -19
+p653
+aVAaron Williams WAS 12/09/1999 WAS @ PHX L 22 12 4 6 66.7 0 0 - 4 5 80.0 2 3 5 1 1 2 1 1 -11
+p654
+aVMichael Smith WAS 12/09/1999 WAS @ PHX L 19 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 1 -14
+p655
+aVLaron Profit WAS 12/09/1999 WAS @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 9
+p656
+aVTracy Murray WAS 12/09/1999 WAS @ PHX L 15 1 0 7 0.0 0 3 0.0 1 2 50.0 1 1 2 1 1 0 0 3 -6
+p657
+aVRod Strickland WAS 12/09/1999 WAS @ PHX L 28 6 2 7 28.6 0 0 - 2 4 50.0 0 2 2 6 3 1 3 2 -21
+p658
+aVJuwan Howard WAS 12/09/1999 WAS @ PHX L 28 15 7 12 58.3 0 0 - 1 2 50.0 0 1 1 1 0 0 0 4 -17
+p659
+aVChris Whitney WAS 12/09/1999 WAS @ PHX L 15 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 0 0 1 1 2 2
+p660
+aVReggie Jordan WAS 12/07/1999 WAS @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p661
+aVJuwan Howard WAS 12/07/1999 WAS @ LAL L 37 6 3 17 17.6 0 0 - 0 0 - 2 7 9 2 0 0 2 2 -12
+p662
+aVChris Whitney WAS 12/07/1999 WAS @ LAL L 13 4 1 3 33.3 1 2 50.0 1 2 50.0 1 0 1 2 0 0 1 2 -11
+p663
+aVRichard Hamilton WAS 12/07/1999 WAS @ LAL L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p664
+aVAaron Williams WAS 12/07/1999 WAS @ LAL L 13 2 1 6 16.7 0 0 - 0 0 - 2 2 4 0 0 1 1 1 -3
+p665
+aVJahidi White WAS 12/07/1999 WAS @ LAL L 11 5 2 4 50.0 0 0 - 1 2 50.0 4 3 7 0 0 0 2 4 -1
+p666
+aVMitch Richmond WAS 12/07/1999 WAS @ LAL L 38 23 8 17 47.1 1 4 25.0 6 6 100.0 1 1 2 0 2 0 2 4 -2
+p667
+aVRod Strickland WAS 12/07/1999 WAS @ LAL L 34 15 6 13 46.2 0 0 - 3 6 50.0 2 6 8 10 2 0 3 2 1
+p668
+aVIke Austin WAS 12/07/1999 WAS @ LAL L 32 6 3 10 30.0 0 0 - 0 0 - 0 4 4 3 0 1 0 5 -13
+p669
+aVMichael Smith WAS 12/07/1999 WAS @ LAL L 20 2 1 3 33.3 0 0 - 0 0 - 2 5 7 0 1 1 1 3 -6
+p670
+aVTracy Murray WAS 12/07/1999 WAS @ LAL L 26 13 5 11 45.5 1 5 20.0 2 4 50.0 1 6 7 2 1 1 1 6 -3
+p671
+aVGerard King WAS 12/07/1999 WAS @ LAL L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p672
+aVIke Austin WAS 12/06/1999 WAS @ UTA L 34 10 3 10 30.0 0 1 0.0 4 6 66.7 1 7 8 0 0 0 3 2 -8
+p673
+aVGerard King WAS 12/06/1999 WAS @ UTA L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p674
+aVChris Whitney WAS 12/06/1999 WAS @ UTA L 12 9 3 4 75.0 1 2 50.0 2 2 100.0 0 1 1 4 0 0 1 3 0
+p675
+aVJahidi White WAS 12/06/1999 WAS @ UTA L 14 6 3 5 60.0 0 0 - 0 0 - 4 3 7 0 1 0 1 2 3
+p676
+aVTracy Murray WAS 12/06/1999 WAS @ UTA L 16 7 3 5 60.0 0 1 0.0 1 1 100.0 0 0 0 1 0 1 1 1 3
+p677
+aVMichael Smith WAS 12/06/1999 WAS @ UTA L 34 9 3 5 60.0 0 0 - 3 4 75.0 4 5 9 0 1 1 1 3 -5
+p678
+aVRod Strickland WAS 12/06/1999 WAS @ UTA L 39 16 7 13 53.8 0 1 0.0 2 3 66.7 0 2 2 4 1 0 4 1 -8
+p679
+aVRichard Hamilton WAS 12/06/1999 WAS @ UTA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 1
+p680
+aVJuwan Howard WAS 12/06/1999 WAS @ UTA L 37 12 3 8 37.5 0 0 - 6 8 75.0 1 4 5 5 0 0 4 6 -10
+p681
+aVAaron Williams WAS 12/06/1999 WAS @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 5 0
+p682
+aVMitch Richmond WAS 12/06/1999 WAS @ UTA L 39 25 8 17 47.1 2 4 50.0 7 8 87.5 0 1 1 1 0 1 1 4 -6
+p683
+aVJuwan Howard WAS 12/04/1999 WAS vs. SAC L 37 10 3 8 37.5 0 0 - 4 6 66.7 1 4 5 2 3 0 3 3 -7
+p684
+aVRod Strickland WAS 12/04/1999 WAS vs. SAC L 34 13 4 14 28.6 0 0 - 5 7 71.4 0 3 3 10 0 0 2 2 -1
+p685
+aVTracy Murray WAS 12/04/1999 WAS vs. SAC L 17 5 1 4 25.0 1 2 50.0 2 2 100.0 1 0 1 1 1 0 1 0 -2
+p686
+aVAaron Williams WAS 12/04/1999 WAS vs. SAC L 20 16 5 9 55.6 0 0 - 6 8 75.0 6 2 8 0 1 0 0 4 -8
+p687
+aVReggie Jordan WAS 12/04/1999 WAS vs. SAC L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 0 2 1 9
+p688
+aVRichard Hamilton WAS 12/04/1999 WAS vs. SAC L 16 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 1 0 0 2 0 -11
+p689
+aVChris Whitney WAS 12/04/1999 WAS vs. SAC L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 4 1 -11
+p690
+aVMitch Richmond WAS 12/04/1999 WAS vs. SAC L 31 23 8 13 61.5 1 2 50.0 6 6 100.0 0 0 0 1 1 1 4 4 -6
+p691
+aVMichael Smith WAS 12/04/1999 WAS vs. SAC L 19 2 1 2 50.0 0 0 - 0 0 - 3 6 9 1 1 0 0 4 -6
+p692
+aVIke Austin WAS 12/04/1999 WAS vs. SAC L 20 9 3 6 50.0 0 0 - 3 4 75.0 0 6 6 1 0 0 3 1 -6
+p693
+aVGerard King WAS 12/04/1999 WAS vs. SAC L 14 11 4 6 66.7 0 0 - 3 4 75.0 1 6 7 0 0 0 0 1 0
+p694
+aVJahidi White WAS 12/04/1999 WAS vs. SAC L 13 5 2 4 50.0 0 0 - 1 4 25.0 4 4 8 0 0 0 1 2 -1
+p695
+aVMitch Richmond WAS 12/03/1999 WAS @ TOR L 38 18 7 17 41.2 0 3 0.0 4 4 100.0 2 1 3 3 1 0 2 2 2
+p696
+aVTracy Murray WAS 12/03/1999 WAS @ TOR L 17 9 3 6 50.0 1 2 50.0 2 2 100.0 1 3 4 1 0 1 2 3 -2
+p697
+aVJuwan Howard WAS 12/03/1999 WAS @ TOR L 38 15 7 18 38.9 0 0 - 1 2 50.0 1 6 7 4 1 2 3 3 3
+p698
+aVAaron Williams WAS 12/03/1999 WAS @ TOR L 21 11 5 10 50.0 0 0 - 1 1 100.0 2 7 9 0 0 1 1 3 1
+p699
+aVRichard Hamilton WAS 12/03/1999 WAS @ TOR L 15 6 3 4 75.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 0
+p700
+aVIke Austin WAS 12/03/1999 WAS @ TOR L 6 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -3
+p701
+aVChris Whitney WAS 12/03/1999 WAS @ TOR L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -8
+p702
+aVReggie Jordan WAS 12/03/1999 WAS @ TOR L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 5
+p703
+aVJahidi White WAS 12/03/1999 WAS @ TOR L 12 4 1 5 20.0 0 0 - 2 4 50.0 1 4 5 0 0 0 0 2 -2
+p704
+aVGerard King WAS 12/03/1999 WAS @ TOR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p705
+aVRod Strickland WAS 12/03/1999 WAS @ TOR L 36 16 7 14 50.0 0 0 - 2 2 100.0 2 5 7 12 1 0 2 2 1
+p706
+aVMichael Smith WAS 12/03/1999 WAS @ TOR L 40 11 3 3 100.0 0 0 - 5 8 62.5 5 6 11 0 1 2 0 3 -1
+p707
+aVMichael Smith WAS 12/01/1999 WAS vs. CLE L 25 6 2 4 50.0 0 0 - 2 2 100.0 2 9 11 0 1 1 1 5 -5
+p708
+aVJahidi White WAS 12/01/1999 WAS vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p709
+aVGerard King WAS 12/01/1999 WAS vs. CLE L 9 0 0 0 - 0 0 - 0 2 0.0 2 1 3 0 0 1 1 2 6
+p710
+aVAaron Williams WAS 12/01/1999 WAS vs. CLE L 22 12 5 8 62.5 0 0 - 2 2 100.0 4 4 8 1 0 0 0 6 2
+p711
+aVMitch Richmond WAS 12/01/1999 WAS vs. CLE L 39 30 8 15 53.3 2 2 100.0 12 14 85.7 0 1 1 4 2 0 3 4 8
+p712
+aVReggie Jordan WAS 12/01/1999 WAS vs. CLE L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p713
+aVRichard Hamilton WAS 12/01/1999 WAS vs. CLE L 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -12
+p714
+aVRod Strickland WAS 12/01/1999 WAS vs. CLE L 36 14 6 15 40.0 0 1 0.0 2 4 50.0 0 5 5 7 3 0 2 5 4
+p715
+aVIke Austin WAS 12/01/1999 WAS vs. CLE L 25 7 3 7 42.9 0 0 - 1 4 25.0 1 3 4 0 0 2 2 0 -3
+p716
+aVChris Whitney WAS 12/01/1999 WAS vs. CLE L 13 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 4 1 0 1 2 -6
+p717
+aVJuwan Howard WAS 12/01/1999 WAS vs. CLE L 30 15 5 12 41.7 0 0 - 5 9 55.6 2 3 5 2 1 0 2 5 -6
+p718
+aVTracy Murray WAS 12/01/1999 WAS vs. CLE L 23 15 5 10 50.0 2 4 50.0 3 4 75.0 1 3 4 0 0 0 2 5 2
+p719
+aVMichael Smith WAS 11/30/1999 WAS @ NJN W 26 4 1 2 50.0 0 0 - 2 2 100.0 4 9 13 2 2 0 4 3 13
+p720
+aVReggie Jordan WAS 11/30/1999 WAS @ NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p721
+aVJuwan Howard WAS 11/30/1999 WAS @ NJN W 38 23 8 16 50.0 0 0 - 7 9 77.8 2 6 8 4 5 1 2 1 7
+p722
+aVIke Austin WAS 11/30/1999 WAS @ NJN W 32 10 4 12 33.3 0 0 - 2 2 100.0 1 2 3 1 1 2 4 2 -11
+p723
+aVGerard King WAS 11/30/1999 WAS @ NJN W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -7
+p724
+aVMitch Richmond WAS 11/30/1999 WAS @ NJN W 29 8 3 9 33.3 1 3 33.3 1 2 50.0 0 0 0 3 3 0 1 2 -10
+p725
+aVRod Strickland WAS 11/30/1999 WAS @ NJN W 25 8 2 7 28.6 0 0 - 4 6 66.7 0 3 3 4 1 0 3 3 -5
+p726
+aVTracy Murray WAS 11/30/1999 WAS @ NJN W 17 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 0 1 0 0 0 6
+p727
+aVJahidi White WAS 11/30/1999 WAS @ NJN W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -4
+p728
+aVRichard Hamilton WAS 11/30/1999 WAS @ NJN W 20 14 5 7 71.4 2 2 100.0 2 4 50.0 0 0 0 1 1 0 1 2 18
+p729
+aVAaron Williams WAS 11/30/1999 WAS @ NJN W 20 8 4 6 66.7 0 0 - 0 0 - 2 5 7 1 1 2 1 4 20
+p730
+aVChris Whitney WAS 11/30/1999 WAS @ NJN W 22 3 1 5 20.0 0 2 0.0 1 4 25.0 0 1 1 3 1 0 1 3 13
+p731
+aVJuwan Howard WAS 11/27/1999 WAS @ MIA L 33 13 6 13 46.2 0 0 - 1 4 25.0 0 2 2 2 0 1 1 3 -8
+p732
+aVIke Austin WAS 11/27/1999 WAS @ MIA L 40 12 6 11 54.5 0 0 - 0 0 - 2 3 5 2 0 1 6 4 -10
+p733
+aVJahidi White WAS 11/27/1999 WAS @ MIA L 8 4 1 3 33.3 0 0 - 2 4 50.0 2 2 4 0 0 1 0 2 7
+p734
+aVReggie Jordan WAS 11/27/1999 WAS @ MIA L 3 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 1 0 0 0 1
+p735
+aVMichael Smith WAS 11/27/1999 WAS @ MIA L 28 10 3 5 60.0 0 0 - 4 4 100.0 2 4 6 2 0 0 2 3 1
+p736
+aVRod Strickland WAS 11/27/1999 WAS @ MIA L 29 4 1 9 11.1 0 2 0.0 2 2 100.0 1 0 1 4 5 1 4 2 -12
+p737
+aVRichard Hamilton WAS 11/27/1999 WAS @ MIA L 11 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 2 0 0 2 2 7
+p738
+aVTracy Murray WAS 11/27/1999 WAS @ MIA L 15 8 3 8 37.5 1 1 100.0 1 2 50.0 1 5 6 1 1 0 1 3 4
+p739
+aVChris Whitney WAS 11/27/1999 WAS @ MIA L 16 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 2 1 0 0 1 8
+p740
+aVMitch Richmond WAS 11/27/1999 WAS @ MIA L 37 20 7 13 53.8 1 3 33.3 5 5 100.0 0 6 6 4 0 0 1 1 -10
+p741
+aVAaron Williams WAS 11/27/1999 WAS @ MIA L 19 6 1 5 20.0 0 0 - 4 4 100.0 2 0 2 0 0 1 0 2 -3
+p742
+aVAaron Williams WAS 11/26/1999 WAS @ CHH L 12 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 1 2 0 2 2 -10
+p743
+aVJuwan Howard WAS 11/26/1999 WAS @ CHH L 25 10 5 11 45.5 0 0 - 0 0 - 2 1 3 1 0 0 3 3 -8
+p744
+aVGerard King WAS 11/26/1999 WAS @ CHH L 15 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -5
+p745
+aVMitch Richmond WAS 11/26/1999 WAS @ CHH L 19 10 2 7 28.6 0 2 0.0 6 6 100.0 1 1 2 2 0 0 4 4 -18
+p746
+aVIke Austin WAS 11/26/1999 WAS @ CHH L 24 8 4 7 57.1 0 0 - 0 0 - 1 3 4 2 0 0 2 4 -7
+p747
+aVTracy Murray WAS 11/26/1999 WAS @ CHH L 24 8 4 13 30.8 0 1 0.0 0 0 - 2 2 4 0 0 0 4 3 -26
+p748
+aVMichael Smith WAS 11/26/1999 WAS @ CHH L 22 2 1 4 25.0 0 0 - 0 0 - 0 6 6 3 1 0 0 2 -21
+p749
+aVJahidi White WAS 11/26/1999 WAS @ CHH L 20 9 4 6 66.7 0 0 - 1 2 50.0 2 7 9 1 1 2 1 5 -19
+p750
+aVChris Whitney WAS 11/26/1999 WAS @ CHH L 14 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 3 0 0 0 1 -1
+p751
+aVRod Strickland WAS 11/26/1999 WAS @ CHH L 30 11 4 10 40.0 0 0 - 3 6 50.0 1 3 4 10 1 0 5 1 -28
+p752
+aVRichard Hamilton WAS 11/26/1999 WAS @ CHH L 25 16 7 17 41.2 0 1 0.0 2 5 40.0 3 1 4 0 0 0 3 1 -19
+p753
+aVReggie Jordan WAS 11/26/1999 WAS @ CHH L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 2 2 -3
+p754
+aVChris Whitney WAS 11/24/1999 WAS @ PHI W 11 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 2 1 0 2 1 3
+p755
+aVJuwan Howard WAS 11/24/1999 WAS @ PHI W 30 8 3 7 42.9 0 0 - 2 4 50.0 0 1 1 2 0 0 2 3 -1
+p756
+aVReggie Jordan WAS 11/24/1999 WAS @ PHI W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 1
+p757
+aVMichael Smith WAS 11/24/1999 WAS @ PHI W 25 13 4 4 100.0 0 0 - 5 6 83.3 4 4 8 0 0 1 0 2 -11
+p758
+aVRod Strickland WAS 11/24/1999 WAS @ PHI W 35 10 4 12 33.3 0 1 0.0 2 3 66.7 1 3 4 10 2 1 1 3 5
+p759
+aVMitch Richmond WAS 11/24/1999 WAS @ PHI W 28 12 4 15 26.7 0 3 0.0 4 4 100.0 1 1 2 0 5 0 1 2 17
+p760
+aVIke Austin WAS 11/24/1999 WAS @ PHI W 32 15 4 9 44.4 0 0 - 7 8 87.5 1 8 9 3 2 3 5 3 -4
+p761
+aVGerard King WAS 11/24/1999 WAS @ PHI W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 12
+p762
+aVTracy Murray WAS 11/24/1999 WAS @ PHI W 18 19 8 13 61.5 2 3 66.7 1 2 50.0 3 1 4 0 1 0 0 3 15
+p763
+aVJahidi White WAS 11/24/1999 WAS @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p764
+aVRichard Hamilton WAS 11/24/1999 WAS @ PHI W 20 4 1 10 10.0 0 3 0.0 2 2 100.0 1 1 2 2 1 0 1 3 -7
+p765
+aVAaron Williams WAS 11/24/1999 WAS @ PHI W 24 12 2 4 50.0 0 0 - 8 10 80.0 3 3 6 0 0 0 1 3 10
+p766
+aVJuwan Howard WAS 11/23/1999 WAS vs. VAN W 29 8 4 9 44.4 0 0 - 0 0 - 0 3 3 1 1 0 1 5 9
+p767
+aVMitch Richmond WAS 11/23/1999 WAS vs. VAN W 25 19 6 13 46.2 1 2 50.0 6 7 85.7 1 1 2 0 0 2 2 3 -6
+p768
+aVReggie Jordan WAS 11/23/1999 WAS vs. VAN W 11 0 0 0 - 0 0 - 0 0 - 1 3 4 4 2 0 0 1 12
+p769
+aVJahidi White WAS 11/23/1999 WAS vs. VAN W 6 0 0 3 0.0 0 0 - 0 0 - 3 0 3 0 0 0 2 1 1
+p770
+aVGerard King WAS 11/23/1999 WAS vs. VAN W 11 5 2 4 50.0 0 0 - 1 1 100.0 2 0 2 0 0 1 1 1 -9
+p771
+aVTracy Murray WAS 11/23/1999 WAS vs. VAN W 15 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 1 -4
+p772
+aVRod Strickland WAS 11/23/1999 WAS vs. VAN W 31 12 4 11 36.4 0 0 - 4 5 80.0 2 3 5 6 2 0 4 1 -1
+p773
+aVMichael Smith WAS 11/23/1999 WAS vs. VAN W 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 1 0 3 3 -9
+p774
+aVAaron Williams WAS 11/23/1999 WAS vs. VAN W 32 6 1 7 14.3 0 0 - 4 6 66.7 5 4 9 0 1 5 0 4 16
+p775
+aVIke Austin WAS 11/23/1999 WAS vs. VAN W 33 16 5 9 55.6 0 0 - 6 8 75.0 1 7 8 1 0 0 5 4 8
+p776
+aVRichard Hamilton WAS 11/23/1999 WAS vs. VAN W 29 14 6 9 66.7 1 1 100.0 1 1 100.0 2 5 7 2 0 0 2 0 3
+p777
+aVChris Whitney WAS 11/23/1999 WAS vs. VAN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -10
+p778
+aVTracy Murray WAS 11/20/1999 WAS vs. LAC L 14 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 1 -12
+p779
+aVIke Austin WAS 11/20/1999 WAS vs. LAC L 37 14 5 12 41.7 0 0 - 4 6 66.7 3 9 12 0 0 1 5 1 -5
+p780
+aVMitch Richmond WAS 11/20/1999 WAS vs. LAC L 28 13 4 13 30.8 1 5 20.0 4 4 100.0 0 1 1 4 3 0 1 3 9
+p781
+aVGerard King WAS 11/20/1999 WAS vs. LAC L 10 3 1 2 50.0 0 0 - 1 1 100.0 1 3 4 0 0 0 2 0 -3
+p782
+aVRod Strickland WAS 11/20/1999 WAS vs. LAC L 26 5 2 7 28.6 0 0 - 1 2 50.0 0 1 1 5 1 0 2 2 0
+p783
+aVChris Whitney WAS 11/20/1999 WAS vs. LAC L 22 7 3 9 33.3 1 3 33.3 0 0 - 2 1 3 4 0 0 2 4 -9
+p784
+aVAaron Williams WAS 11/20/1999 WAS vs. LAC L 29 15 7 14 50.0 0 0 - 1 2 50.0 7 4 11 1 2 2 3 4 2
+p785
+aVRichard Hamilton WAS 11/20/1999 WAS vs. LAC L 20 9 4 13 30.8 1 1 100.0 0 0 - 2 1 3 1 0 0 0 1 -18
+p786
+aVJuwan Howard WAS 11/20/1999 WAS vs. LAC L 35 19 9 17 52.9 0 0 - 1 1 100.0 2 5 7 3 0 0 3 4 2
+p787
+aVMichael Smith WAS 11/20/1999 WAS vs. LAC L 19 2 1 1 100.0 0 0 - 0 0 - 2 4 6 0 1 0 1 3 -11
+p788
+aVGerard King WAS 11/18/1999 WAS vs. TOR W 22 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 0 3 0 0 4 11
+p789
+aVIke Austin WAS 11/18/1999 WAS vs. TOR W 33 20 7 16 43.8 0 0 - 6 6 100.0 2 11 13 2 1 0 4 3 5
+p790
+aVRod Strickland WAS 11/18/1999 WAS vs. TOR W 29 6 2 6 33.3 0 1 0.0 2 4 50.0 1 4 5 5 1 0 4 5 -1
+p791
+aVRichard Hamilton WAS 11/18/1999 WAS vs. TOR W 24 8 3 10 30.0 0 3 0.0 2 2 100.0 1 4 5 1 1 0 1 2 0
+p792
+aVMitch Richmond WAS 11/18/1999 WAS vs. TOR W 24 12 2 8 25.0 1 3 33.3 7 9 77.8 1 2 3 4 1 0 1 0 11
+p793
+aVAaron Williams WAS 11/18/1999 WAS vs. TOR W 15 10 3 5 60.0 0 0 - 4 5 80.0 2 3 5 0 1 1 0 4 5
+p794
+aVMichael Smith WAS 11/18/1999 WAS vs. TOR W 24 12 3 6 50.0 0 0 - 6 7 85.7 4 6 10 1 0 0 1 2 0
+p795
+aVTracy Murray WAS 11/18/1999 WAS vs. TOR W 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 5
+p796
+aVReggie Jordan WAS 11/18/1999 WAS vs. TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 3
+p797
+aVJuwan Howard WAS 11/18/1999 WAS vs. TOR W 25 11 5 12 41.7 0 0 - 1 2 50.0 0 5 5 1 0 0 5 5 4
+p798
+aVChris Whitney WAS 11/18/1999 WAS vs. TOR W 19 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 3 0 0 1 0 12
+p799
+aVIke Austin WAS 11/16/1999 WAS vs. PHI L 14 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 1 1 2 3 -16
+p800
+aVMitch Richmond WAS 11/16/1999 WAS vs. PHI L 17 8 3 13 23.1 1 4 25.0 1 1 100.0 0 1 1 0 2 0 0 1 -15
+p801
+aVRod Strickland WAS 11/16/1999 WAS vs. PHI L 30 9 3 9 33.3 0 0 - 3 10 30.0 3 0 3 4 0 0 3 2 -19
+p802
+aVTracy Murray WAS 11/16/1999 WAS vs. PHI L 21 2 0 5 0.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 1 2 -7
+p803
+aVRichard Hamilton WAS 11/16/1999 WAS vs. PHI L 26 17 8 14 57.1 1 3 33.3 0 0 - 2 2 4 3 0 0 2 6 -6
+p804
+aVChris Whitney WAS 11/16/1999 WAS vs. PHI L 17 3 1 7 14.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 4 -8
+p805
+aVMichael Smith WAS 11/16/1999 WAS vs. PHI L 19 4 1 2 50.0 0 0 - 2 3 66.7 7 4 11 0 0 0 0 2 -19
+p806
+aVLaron Profit WAS 11/16/1999 WAS vs. PHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 2 0 1 1 5
+p807
+aVJahidi White WAS 11/16/1999 WAS vs. PHI L 12 4 2 4 50.0 0 0 - 0 2 0.0 3 8 11 1 0 1 3 2 -1
+p808
+aVJuwan Howard WAS 11/16/1999 WAS vs. PHI L 30 13 6 11 54.5 0 0 - 1 3 33.3 0 6 6 1 0 0 5 3 -20
+p809
+aVAaron Williams WAS 11/16/1999 WAS vs. PHI L 28 12 3 6 50.0 0 0 - 6 8 75.0 0 8 8 1 1 1 0 3 -2
+p810
+aVGerard King WAS 11/16/1999 WAS vs. PHI L 17 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 2 2 -2
+p811
+aVRod Strickland WAS 11/13/1999 WAS @ IND L 23 10 4 9 44.4 0 0 - 2 3 66.7 0 4 4 8 2 0 3 2 -17
+p812
+aVLaron Profit WAS 11/13/1999 WAS @ IND L 16 7 3 5 60.0 0 0 - 1 2 50.0 0 0 0 4 0 0 1 1 2
+p813
+aVTracy Murray WAS 11/13/1999 WAS @ IND L 21 12 5 10 50.0 0 3 0.0 2 2 100.0 0 2 2 1 1 0 1 3 -7
+p814
+aVChris Whitney WAS 11/13/1999 WAS @ IND L 16 2 0 7 0.0 0 3 0.0 2 2 100.0 0 2 2 5 2 0 1 0 -4
+p815
+aVJahidi White WAS 11/13/1999 WAS @ IND L 18 6 3 10 30.0 0 0 - 0 0 - 4 6 10 0 1 2 0 3 3
+p816
+aVGerard King WAS 11/13/1999 WAS @ IND L 26 20 9 15 60.0 0 0 - 2 2 100.0 10 6 16 0 2 0 0 3 -11
+p817
+aVIke Austin WAS 11/13/1999 WAS @ IND L 19 3 0 2 0.0 0 0 - 3 4 75.0 0 8 8 3 0 0 4 3 -9
+p818
+aVJuwan Howard WAS 11/13/1999 WAS @ IND L 30 9 4 11 36.4 0 0 - 1 1 100.0 0 4 4 0 1 0 2 2 -19
+p819
+aVMitch Richmond WAS 11/13/1999 WAS @ IND L 22 6 2 9 22.2 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 3 -10
+p820
+aVMichael Smith WAS 11/13/1999 WAS @ IND L 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -6
+p821
+aVAaron Williams WAS 11/13/1999 WAS @ IND L 16 2 1 6 16.7 0 0 - 0 0 - 3 0 3 0 0 1 1 1 -17
+p822
+aVRichard Hamilton WAS 11/13/1999 WAS @ IND L 19 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -15
+p823
+aVAaron Williams WAS 11/12/1999 WAS vs. MIA L 23 13 5 8 62.5 0 0 - 3 4 75.0 3 2 5 0 0 2 0 4 -5
+p824
+aVIke Austin WAS 11/12/1999 WAS vs. MIA L 26 10 3 9 33.3 0 0 - 4 5 80.0 0 6 6 2 0 0 2 2 -7
+p825
+aVJuwan Howard WAS 11/12/1999 WAS vs. MIA L 33 11 5 13 38.5 0 0 - 1 2 50.0 2 6 8 3 2 0 2 4 -20
+p826
+aVChris Whitney WAS 11/12/1999 WAS vs. MIA L 13 2 1 6 16.7 0 5 0.0 0 1 0.0 0 0 0 6 0 0 2 3 -7
+p827
+aVGerard King WAS 11/12/1999 WAS vs. MIA L 22 10 4 7 57.1 0 0 - 2 2 100.0 3 6 9 0 3 0 0 2 10
+p828
+aVMitch Richmond WAS 11/12/1999 WAS vs. MIA L 18 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -14
+p829
+aVJahidi White WAS 11/12/1999 WAS vs. MIA L 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p830
+aVTracy Murray WAS 11/12/1999 WAS vs. MIA L 17 15 5 9 55.6 3 6 50.0 2 2 100.0 0 4 4 0 0 1 2 1 16
+p831
+aVRichard Hamilton WAS 11/12/1999 WAS vs. MIA L 31 13 4 11 36.4 1 2 50.0 4 4 100.0 3 5 8 0 0 0 1 3 5
+p832
+aVMichael Smith WAS 11/12/1999 WAS vs. MIA L 18 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 1 -16
+p833
+aVRod Strickland WAS 11/12/1999 WAS vs. MIA L 36 12 4 12 33.3 0 0 - 4 6 66.7 3 2 5 15 0 0 2 1 -1
+p834
+aVGerard King WAS 11/10/1999 WAS vs. SEA L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 4
+p835
+aVRod Strickland WAS 11/10/1999 WAS vs. SEA L 31 14 7 13 53.8 0 1 0.0 0 0 - 0 4 4 4 1 0 2 1 -5
+p836
+aVJuwan Howard WAS 11/10/1999 WAS vs. SEA L 32 16 7 13 53.8 0 0 - 2 2 100.0 4 1 5 2 2 2 3 2 -18
+p837
+aVRichard Hamilton WAS 11/10/1999 WAS vs. SEA L 27 15 7 14 50.0 1 3 33.3 0 0 - 0 4 4 0 0 0 3 3 -9
+p838
+aVIke Austin WAS 11/10/1999 WAS vs. SEA L 32 14 7 13 53.8 0 0 - 0 1 0.0 1 4 5 1 1 2 5 4 -12
+p839
+aVMichael Smith WAS 11/10/1999 WAS vs. SEA L 19 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -14
+p840
+aVJahidi White WAS 11/10/1999 WAS vs. SEA L 16 9 3 5 60.0 0 0 - 3 6 50.0 1 5 6 0 0 0 0 1 -2
+p841
+aVLaron Profit WAS 11/10/1999 WAS vs. SEA L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -8
+p842
+aVTracy Murray WAS 11/10/1999 WAS vs. SEA L 14 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 1 0 0 1 0 2
+p843
+aVAaron Williams WAS 11/10/1999 WAS vs. SEA L 25 13 6 9 66.7 0 0 - 1 1 100.0 3 1 4 1 0 0 2 2 -1
+p844
+aVChris Whitney WAS 11/10/1999 WAS vs. SEA L 29 10 4 12 33.3 1 7 14.3 1 2 50.0 0 3 3 11 4 0 3 1 -7
+p845
+aVJuwan Howard WAS 11/07/1999 WAS @ NJN L 30 10 4 12 33.3 0 0 - 2 2 100.0 1 4 5 0 0 0 4 4 -27
+p846
+aVTracy Murray WAS 11/07/1999 WAS @ NJN L 19 8 4 7 57.1 0 2 0.0 0 0 - 1 2 3 1 0 0 1 3 -2
+p847
+aVLaron Profit WAS 11/07/1999 WAS @ NJN L 11 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 2 0 1 0 2 -5
+p848
+aVChris Whitney WAS 11/07/1999 WAS @ NJN L 18 5 2 9 22.2 1 4 25.0 0 0 - 1 1 2 0 1 0 2 3 -15
+p849
+aVAaron Williams WAS 11/07/1999 WAS @ NJN L 13 4 2 6 33.3 0 0 - 0 1 0.0 3 3 6 1 2 1 0 1 -7
+p850
+aVGerard King WAS 11/07/1999 WAS @ NJN L 11 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 0 0 1 0 1 -3
+p851
+aVMitch Richmond WAS 11/07/1999 WAS @ NJN L 21 9 4 6 66.7 1 2 50.0 0 0 - 0 1 1 0 2 0 3 4 -8
+p852
+aVRod Strickland WAS 11/07/1999 WAS @ NJN L 33 10 4 9 44.4 1 1 100.0 1 2 50.0 0 3 3 3 0 0 4 2 -23
+p853
+aVRichard Hamilton WAS 11/07/1999 WAS @ NJN L 22 14 5 12 41.7 0 0 - 4 4 100.0 1 1 2 0 2 1 4 3 -6
+p854
+aVIke Austin WAS 11/07/1999 WAS @ NJN L 18 8 2 7 28.6 0 1 0.0 4 6 66.7 1 4 5 3 0 1 1 5 -10
+p855
+aVMichael Smith WAS 11/07/1999 WAS @ NJN L 24 6 3 3 100.0 0 0 - 0 3 0.0 4 5 9 3 0 0 1 3 -2
+p856
+aVJahidi White WAS 11/07/1999 WAS @ NJN L 21 8 4 7 57.1 0 0 - 0 0 - 2 3 5 0 1 4 1 1 -17
+p857
+aVMichael Smith WAS 11/06/1999 WAS vs. ORL L 27 5 2 4 50.0 0 0 - 1 1 100.0 2 10 12 2 0 0 1 3 -4
+p858
+aVRod Strickland WAS 11/06/1999 WAS vs. ORL L 33 18 4 11 36.4 0 0 - 10 12 83.3 4 5 9 13 1 0 0 2 -5
+p859
+aVRichard Hamilton WAS 11/06/1999 WAS vs. ORL L 18 8 4 11 36.4 0 1 0.0 0 0 - 1 0 1 3 2 0 2 3 1
+p860
+aVMitch Richmond WAS 11/06/1999 WAS vs. ORL L 30 8 3 11 27.3 1 4 25.0 1 2 50.0 1 1 2 3 0 1 3 4 -4
+p861
+aVJahidi White WAS 11/06/1999 WAS vs. ORL L 11 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 1 0 0 1 5 3
+p862
+aVJuwan Howard WAS 11/06/1999 WAS vs. ORL L 32 22 9 17 52.9 0 0 - 4 4 100.0 3 4 7 1 1 0 3 4 -3
+p863
+aVTracy Murray WAS 11/06/1999 WAS vs. ORL L 18 5 1 7 14.3 1 5 20.0 2 2 100.0 0 6 6 2 0 0 2 3 6
+p864
+aVGerard King WAS 11/06/1999 WAS vs. ORL L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 2 0 -2
+p865
+aVIke Austin WAS 11/06/1999 WAS vs. ORL L 24 10 5 8 62.5 0 0 - 0 0 - 2 1 3 1 0 0 2 4 -1
+p866
+aVChris Whitney WAS 11/06/1999 WAS vs. ORL L 16 17 5 9 55.6 5 8 62.5 2 2 100.0 0 0 0 3 1 0 1 2 7
+p867
+aVAaron Williams WAS 11/06/1999 WAS vs. ORL L 21 6 2 5 40.0 0 0 - 2 4 50.0 3 3 6 0 0 1 2 2 -13
+p868
+aVRichard Hamilton WAS 11/03/1999 WAS @ BOS L 17 9 3 9 33.3 1 3 33.3 2 2 100.0 0 2 2 0 1 0 0 0 -5
+p869
+aVLaron Profit WAS 11/03/1999 WAS @ BOS L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p870
+aVMichael Smith WAS 11/03/1999 WAS @ BOS L 18 7 2 5 40.0 0 0 - 3 4 75.0 3 1 4 0 0 0 2 1 -12
+p871
+aVGerard King WAS 11/03/1999 WAS @ BOS L 17 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 4
+p872
+aVJuwan Howard WAS 11/03/1999 WAS @ BOS L 37 12 5 12 41.7 0 0 - 2 2 100.0 0 5 5 4 2 2 2 1 9
+p873
+aVChris Whitney WAS 11/03/1999 WAS @ BOS L 15 15 5 8 62.5 2 4 50.0 3 4 75.0 1 0 1 5 0 0 2 3 0
+p874
+aVRod Strickland WAS 11/03/1999 WAS @ BOS L 26 9 4 8 50.0 0 0 - 1 1 100.0 0 1 1 5 0 0 3 1 -18
+p875
+aVJahidi White WAS 11/03/1999 WAS @ BOS L 14 4 0 3 0.0 0 0 - 4 7 57.1 3 4 7 0 0 0 1 2 3
+p876
+aVIke Austin WAS 11/03/1999 WAS @ BOS L 26 8 4 6 66.7 0 0 - 0 0 - 2 8 10 1 1 0 2 3 -10
+p877
+aVMitch Richmond WAS 11/03/1999 WAS @ BOS L 31 20 6 14 42.9 0 2 0.0 8 10 80.0 1 3 4 6 1 1 2 2 -6
+p878
+aVTracy Murray WAS 11/03/1999 WAS @ BOS L 15 8 3 6 50.0 2 5 40.0 0 0 - 1 1 2 0 0 1 0 3 -14
+p879
+aVAaron Williams WAS 11/03/1999 WAS @ BOS L 16 2 1 3 33.3 0 0 - 0 1 0.0 2 2 4 1 0 0 1 2 -13
+p880
+aVRod Strickland WAS 11/02/1999 WAS vs. ATL W 34 12 6 15 40.0 0 0 - 0 0 - 2 2 4 10 1 0 5 2 14
+p881
+aVMitch Richmond WAS 11/02/1999 WAS vs. ATL W 24 6 3 13 23.1 0 3 0.0 0 1 0.0 1 0 1 0 1 0 1 6 3
+p882
+aVLaron Profit WAS 11/02/1999 WAS vs. ATL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 11
+p883
+aVRichard Hamilton WAS 11/02/1999 WAS vs. ATL W 16 10 3 8 37.5 0 0 - 4 4 100.0 0 0 0 0 0 0 0 5 -7
+p884
+aVGerard King WAS 11/02/1999 WAS vs. ATL W 14 11 5 7 71.4 0 0 - 1 2 50.0 0 2 2 2 0 0 1 1 9
+p885
+aVJuwan Howard WAS 11/02/1999 WAS vs. ATL W 32 21 9 16 56.3 0 0 - 3 3 100.0 1 1 2 2 2 0 0 3 5
+p886
+aVTracy Murray WAS 11/02/1999 WAS vs. ATL W 17 5 2 8 25.0 1 3 33.3 0 0 - 1 2 3 1 0 0 2 1 2
+p887
+aVMichael Smith WAS 11/02/1999 WAS vs. ATL W 29 6 3 3 100.0 0 0 - 0 0 - 2 7 9 3 1 2 0 1 5
+p888
+aVIke Austin WAS 11/02/1999 WAS vs. ATL W 22 4 2 5 40.0 0 0 - 0 0 - 0 11 11 2 0 2 2 1 10
+p889
+aVChris Whitney WAS 11/02/1999 WAS vs. ATL W 15 10 3 6 50.0 2 4 50.0 2 2 100.0 0 1 1 1 0 0 2 0 -7
+p890
+aVAaron Williams WAS 11/02/1999 WAS vs. ATL W 19 7 2 3 66.7 0 0 - 3 4 75.0 3 2 5 0 0 1 1 4 1
+p891
+aVJahidi White WAS 11/02/1999 WAS vs. ATL W 12 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 1 4 -11
+p892
+a.

@@ -1,0 +1,1624 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJason Hart LAC 04/18/2007 LAC vs. NOK L 32 0 0 6 0.0 0 0 - 0 0 - 0 3 3 5 2 0 1 2 -11
+p2
+aVCorey Maggette LAC 04/18/2007 LAC vs. NOK L 39 21 7 16 43.8 1 2 50.0 6 9 66.7 5 6 11 4 1 1 1 2 0
+p3
+aVChris Kaman LAC 04/18/2007 LAC vs. NOK L 31 11 3 7 42.9 0 0 - 5 6 83.3 4 4 8 0 0 1 4 1 -16
+p4
+aVDaniel Ewing LAC 04/18/2007 LAC vs. NOK L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -1
+p5
+aVSam Cassell LAC 04/18/2007 LAC vs. NOK L 14 14 6 9 66.7 0 0 - 2 2 100.0 0 1 1 1 1 0 3 3 8
+p6
+aVElton Brand LAC 04/18/2007 LAC vs. NOK L 42 11 5 14 35.7 0 0 - 1 2 50.0 3 2 5 4 0 1 2 4 3
+p7
+aVJames Singleton LAC 04/18/2007 LAC vs. NOK L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -4
+p8
+aVWill Conroy LAC 04/18/2007 LAC vs. NOK L 4 0 0 1 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 1
+p9
+aVQuinton Ross LAC 04/18/2007 LAC vs. NOK L 39 8 3 10 30.0 0 1 0.0 2 2 100.0 4 3 7 1 0 2 2 1 -3
+p10
+aVTim Thomas LAC 04/18/2007 LAC vs. NOK L 27 16 6 12 50.0 4 8 50.0 0 0 - 2 3 5 3 2 0 0 4 8
+p11
+aVJason Hart LAC 04/17/2007 LAC @ PHX W 41 16 6 15 40.0 0 0 - 4 4 100.0 3 2 5 4 0 0 1 2 3
+p12
+aVSam Cassell LAC 04/17/2007 LAC @ PHX W 15 11 4 10 40.0 1 2 50.0 2 2 100.0 1 3 4 1 0 1 2 1 -1
+p13
+aVDaniel Ewing LAC 04/17/2007 LAC @ PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p14
+aVJames Singleton LAC 04/17/2007 LAC @ PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p15
+aVCorey Maggette LAC 04/17/2007 LAC @ PHX W 31 13 4 13 30.8 0 0 - 5 5 100.0 2 9 11 3 1 0 4 4 10
+p16
+aVQuinton Ross LAC 04/17/2007 LAC @ PHX W 44 15 6 10 60.0 0 0 - 3 4 75.0 3 4 7 1 2 0 0 2 2
+p17
+aVElton Brand LAC 04/17/2007 LAC @ PHX W 42 21 8 18 44.4 0 0 - 5 8 62.5 5 4 9 4 1 3 3 2 6
+p18
+aVChris Kaman LAC 04/17/2007 LAC @ PHX W 25 9 3 6 50.0 0 0 - 3 4 75.0 4 1 5 1 1 0 1 2 -3
+p19
+aVTim Thomas LAC 04/17/2007 LAC @ PHX W 39 18 7 18 38.9 4 8 50.0 0 0 - 2 6 8 2 0 0 1 3 4
+p20
+aVElton Brand LAC 04/15/2007 LAC vs. SAC L 47 29 9 14 64.3 0 0 - 11 12 91.7 6 8 14 7 2 3 2 4 0
+p21
+aVJames Singleton LAC 04/15/2007 LAC vs. SAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p22
+aVChris Kaman LAC 04/15/2007 LAC vs. SAC L 21 6 3 8 37.5 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -21
+p23
+aVCorey Maggette LAC 04/15/2007 LAC vs. SAC L 38 21 7 17 41.2 0 3 0.0 7 9 77.8 3 7 10 4 1 0 7 3 -4
+p24
+aVSam Cassell LAC 04/15/2007 LAC vs. SAC L 19 0 0 4 0.0 0 0 - 0 0 - 1 1 2 3 0 1 2 1 2
+p25
+aVJason Hart LAC 04/15/2007 LAC vs. SAC L 29 6 3 5 60.0 0 0 - 0 0 - 0 1 1 6 1 0 2 2 -7
+p26
+aVCuttino Mobley LAC 04/15/2007 LAC vs. SAC L 39 11 3 9 33.3 1 5 20.0 4 4 100.0 0 3 3 1 3 0 1 4 -2
+p27
+aVTim Thomas LAC 04/15/2007 LAC vs. SAC L 28 13 5 13 38.5 3 9 33.3 0 1 0.0 1 4 5 1 0 0 1 2 5
+p28
+aVQuinton Ross LAC 04/15/2007 LAC vs. SAC L 18 14 3 6 50.0 1 1 100.0 7 8 87.5 3 1 4 0 0 1 0 3 2
+p29
+aVQuinton Ross LAC 04/13/2007 LAC vs. POR W 21 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 2 2 0 0 0 14
+p30
+aVCorey Maggette LAC 04/13/2007 LAC vs. POR W 31 17 4 9 44.4 0 1 0.0 9 10 90.0 2 2 4 3 0 0 2 1 12
+p31
+aVPaul Davis LAC 04/13/2007 LAC vs. POR W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p32
+aVJason Hart LAC 04/13/2007 LAC vs. POR W 31 4 2 7 28.6 0 0 - 0 0 - 0 5 5 5 2 0 0 4 15
+p33
+aVTim Thomas LAC 04/13/2007 LAC vs. POR W 27 8 1 3 33.3 1 3 33.3 5 6 83.3 0 4 4 1 0 1 1 3 15
+p34
+aVCuttino Mobley LAC 04/13/2007 LAC vs. POR W 41 22 6 11 54.5 3 8 37.5 7 8 87.5 2 4 6 7 2 0 1 3 13
+p35
+aVSam Cassell LAC 04/13/2007 LAC vs. POR W 17 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 2 0 0 2 3 3
+p36
+aVJames Singleton LAC 04/13/2007 LAC vs. POR W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p37
+aVDaniel Ewing LAC 04/13/2007 LAC vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -3
+p38
+aVChris Kaman LAC 04/13/2007 LAC vs. POR W 32 17 6 11 54.5 0 0 - 5 5 100.0 3 2 5 1 0 4 4 5 8
+p39
+aVElton Brand LAC 04/13/2007 LAC vs. POR W 31 20 7 12 58.3 0 0 - 6 7 85.7 1 6 7 1 1 3 2 1 19
+p40
+aVJames Singleton LAC 04/12/2007 LAC @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p41
+aVCuttino Mobley LAC 04/12/2007 LAC @ LAL W 36 9 4 9 44.4 0 2 0.0 1 1 100.0 3 5 8 1 2 0 0 4 14
+p42
+aVQuinton Ross LAC 04/12/2007 LAC @ LAL W 18 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 0 3 -11
+p43
+aVTim Thomas LAC 04/12/2007 LAC @ LAL W 30 9 3 7 42.9 2 3 66.7 1 2 50.0 0 4 4 1 2 0 1 4 11
+p44
+aVJason Hart LAC 04/12/2007 LAC @ LAL W 28 8 2 8 25.0 0 1 0.0 4 4 100.0 0 3 3 4 2 0 4 3 4
+p45
+aVChris Kaman LAC 04/12/2007 LAC @ LAL W 21 7 3 8 37.5 0 0 - 1 2 50.0 2 3 5 0 0 1 1 2 -18
+p46
+aVSam Cassell LAC 04/12/2007 LAC @ LAL W 20 12 5 10 50.0 0 2 0.0 2 2 100.0 1 2 3 3 0 0 1 0 5
+p47
+aVElton Brand LAC 04/12/2007 LAC @ LAL W 44 32 12 23 52.2 0 0 - 8 9 88.9 3 9 12 7 1 3 3 3 20
+p48
+aVCorey Maggette LAC 04/12/2007 LAC @ LAL W 43 39 10 15 66.7 2 3 66.7 17 24 70.8 2 6 8 9 4 1 3 4 13
+p49
+aVChris Kaman LAC 04/10/2007 LAC @ NOK L 40 10 3 7 42.9 0 0 - 4 5 80.0 4 9 13 3 1 0 2 3 -8
+p50
+aVCorey Maggette LAC 04/10/2007 LAC @ NOK L 44 24 8 16 50.0 2 2 100.0 6 8 75.0 2 6 8 3 0 0 1 3 -17
+p51
+aVCuttino Mobley LAC 04/10/2007 LAC @ NOK L 43 9 4 15 26.7 0 5 0.0 1 2 50.0 3 2 5 2 1 0 3 5 -5
+p52
+aVJames Singleton LAC 04/10/2007 LAC @ NOK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p53
+aVDaniel Ewing LAC 04/10/2007 LAC @ NOK L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 12
+p54
+aVTim Thomas LAC 04/10/2007 LAC @ NOK L 24 7 3 10 30.0 1 4 25.0 0 0 - 1 4 5 1 0 2 2 3 16
+p55
+aVQuinton Ross LAC 04/10/2007 LAC @ NOK L 17 4 2 4 50.0 0 0 - 0 0 - 2 2 4 2 2 0 0 0 9
+p56
+aVJason Hart LAC 04/10/2007 LAC @ NOK L 46 9 4 11 36.4 1 3 33.3 0 0 - 0 3 3 3 1 0 0 3 -15
+p57
+aVElton Brand LAC 04/10/2007 LAC @ NOK L 45 37 15 23 65.2 0 0 - 7 9 77.8 3 7 10 3 2 1 5 4 -5
+p58
+aVJames Singleton LAC 04/09/2007 LAC @ DAL L 25 3 1 2 50.0 0 0 - 1 1 100.0 6 4 10 2 0 1 0 1 -1
+p59
+aVQuinton Ross LAC 04/09/2007 LAC @ DAL L 17 6 1 5 20.0 0 0 - 4 4 100.0 1 1 2 1 0 0 0 2 1
+p60
+aVWill Conroy LAC 04/09/2007 LAC @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p61
+aVDaniel Ewing LAC 04/09/2007 LAC @ DAL L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p62
+aVCorey Maggette LAC 04/09/2007 LAC @ DAL L 36 24 9 16 56.3 0 1 0.0 6 6 100.0 1 4 5 2 1 1 6 5 -9
+p63
+aVChris Kaman LAC 04/09/2007 LAC @ DAL L 35 7 3 6 50.0 0 0 - 1 1 100.0 2 4 6 4 0 0 2 3 -12
+p64
+aVJason Hart LAC 04/09/2007 LAC @ DAL L 37 14 6 12 50.0 0 1 0.0 2 2 100.0 0 3 3 8 5 0 1 3 -7
+p65
+aVElton Brand LAC 04/09/2007 LAC @ DAL L 35 20 9 16 56.3 0 0 - 2 2 100.0 1 5 6 4 1 2 2 4 -7
+p66
+aVCuttino Mobley LAC 04/09/2007 LAC @ DAL L 43 10 4 12 33.3 2 7 28.6 0 0 - 0 2 2 1 1 0 3 4 -10
+p67
+aVJason Hart LAC 04/07/2007 LAC vs. DEN L 38 10 5 13 38.5 0 1 0.0 0 0 - 3 3 6 7 2 0 2 3 -2
+p68
+aVCuttino Mobley LAC 04/07/2007 LAC vs. DEN L 42 13 6 16 37.5 1 6 16.7 0 2 0.0 1 3 4 6 3 0 1 2 -4
+p69
+aVElton Brand LAC 04/07/2007 LAC vs. DEN L 38 22 9 16 56.3 0 0 - 4 4 100.0 7 6 13 4 2 2 5 2 -2
+p70
+aVQuinton Ross LAC 04/07/2007 LAC vs. DEN L 19 3 1 4 25.0 0 1 0.0 1 1 100.0 1 1 2 1 0 0 0 3 5
+p71
+aVCorey Maggette LAC 04/07/2007 LAC vs. DEN L 37 24 7 12 58.3 0 0 - 10 11 90.9 2 3 5 2 1 0 7 4 -14
+p72
+aVJames Singleton LAC 04/07/2007 LAC vs. DEN L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p73
+aVDaniel Ewing LAC 04/07/2007 LAC vs. DEN L 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 2 0 0 0 -1
+p74
+aVChris Kaman LAC 04/07/2007 LAC vs. DEN L 43 12 4 13 30.8 0 0 - 4 6 66.7 1 9 10 4 1 5 1 5 2
+p75
+aVTim Thomas LAC 04/07/2007 LAC vs. DEN L 9 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 1 1 0 2 1 4
+p76
+aVQuinton Ross LAC 04/04/2007 LAC vs. LAL W 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 1 0 1 -3
+p77
+aVJames Singleton LAC 04/04/2007 LAC vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p78
+aVDaniel Ewing LAC 04/04/2007 LAC vs. LAL W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p79
+aVTim Thomas LAC 04/04/2007 LAC vs. LAL W 23 7 2 10 20.0 1 6 16.7 2 2 100.0 0 3 3 1 1 0 2 2 3
+p80
+aVCorey Maggette LAC 04/04/2007 LAC vs. LAL W 37 22 5 9 55.6 0 0 - 12 16 75.0 2 4 6 6 0 1 3 5 12
+p81
+aVChris Kaman LAC 04/04/2007 LAC vs. LAL W 38 17 7 17 41.2 0 0 - 3 4 75.0 5 9 14 2 2 4 0 3 5
+p82
+aVElton Brand LAC 04/04/2007 LAC vs. LAL W 39 12 6 17 35.3 0 0 - 0 0 - 5 5 10 6 3 3 3 3 5
+p83
+aVJason Hart LAC 04/04/2007 LAC vs. LAL W 39 14 6 11 54.5 0 0 - 2 2 100.0 0 6 6 2 0 0 3 2 6
+p84
+aVCuttino Mobley LAC 04/04/2007 LAC vs. LAL W 41 18 7 11 63.6 3 5 60.0 1 1 100.0 3 2 5 7 2 2 1 2 12
+p85
+aVPaul Davis LAC 03/31/2007 LAC @ POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p86
+aVChris Kaman LAC 03/31/2007 LAC @ POR W 40 9 4 7 57.1 0 0 - 1 2 50.0 3 7 10 7 0 0 3 5 5
+p87
+aVYaroslav Korolev LAC 03/31/2007 LAC @ POR W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p88
+aVJason Hart LAC 03/31/2007 LAC @ POR W 40 14 5 7 71.4 0 0 - 4 4 100.0 1 7 8 5 2 0 2 2 10
+p89
+aVTim Thomas LAC 03/31/2007 LAC @ POR W 29 13 5 7 71.4 2 4 50.0 1 1 100.0 0 5 5 3 0 0 1 4 10
+p90
+aVQuinton Ross LAC 03/31/2007 LAC @ POR W 36 17 7 11 63.6 0 1 0.0 3 4 75.0 0 2 2 3 2 0 0 2 13
+p91
+aVElton Brand LAC 03/31/2007 LAC @ POR W 34 21 7 12 58.3 0 0 - 7 8 87.5 3 2 5 4 0 0 4 4 19
+p92
+aVCuttino Mobley LAC 03/31/2007 LAC @ POR W 43 25 8 16 50.0 4 6 66.7 5 7 71.4 0 3 3 3 1 0 3 2 18
+p93
+aVSam Cassell LAC 03/31/2007 LAC @ POR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p94
+aVDaniel Ewing LAC 03/31/2007 LAC @ POR W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p95
+aVJames Singleton LAC 03/31/2007 LAC @ POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p96
+aVChris Kaman LAC 03/30/2007 LAC @ SAC W 22 10 5 6 83.3 0 0 - 0 0 - 2 10 12 0 0 1 2 6 10
+p97
+aVPaul Davis LAC 03/30/2007 LAC @ SAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p98
+aVJason Hart LAC 03/30/2007 LAC @ SAC W 37 16 6 10 60.0 0 0 - 4 4 100.0 0 6 6 7 1 1 2 2 2
+p99
+aVJames Singleton LAC 03/30/2007 LAC @ SAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p100
+aVElton Brand LAC 03/30/2007 LAC @ SAC W 41 12 6 16 37.5 0 0 - 0 0 - 1 6 7 4 2 1 3 3 3
+p101
+aVQuinton Ross LAC 03/30/2007 LAC @ SAC W 14 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 3 -20
+p102
+aVCuttino Mobley LAC 03/30/2007 LAC @ SAC W 36 26 9 20 45.0 4 6 66.7 4 5 80.0 0 0 0 0 0 0 0 5 17
+p103
+aVAaron Williams LAC 03/30/2007 LAC @ SAC W 12 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 10
+p104
+aVTim Thomas LAC 03/30/2007 LAC @ SAC W 26 16 5 8 62.5 3 4 75.0 3 3 100.0 3 3 6 4 0 0 1 5 0
+p105
+aVCorey Maggette LAC 03/30/2007 LAC @ SAC W 40 19 5 13 38.5 0 0 - 9 9 100.0 1 6 7 4 0 0 4 4 2
+p106
+aVSam Cassell LAC 03/30/2007 LAC @ SAC W 6 1 0 1 0.0 0 1 0.0 1 2 50.0 1 0 1 2 0 0 0 0 2
+p107
+aVDaniel Ewing LAC 03/30/2007 LAC @ SAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p108
+aVTim Thomas LAC 03/28/2007 LAC vs. HOU L 29 16 6 13 46.2 4 8 50.0 0 0 - 0 6 6 4 1 0 1 2 9
+p109
+aVCorey Maggette LAC 03/28/2007 LAC vs. HOU L 36 13 3 15 20.0 0 1 0.0 7 8 87.5 0 6 6 7 0 1 2 1 -2
+p110
+aVJason Hart LAC 03/28/2007 LAC vs. HOU L 43 16 7 12 58.3 0 2 0.0 2 2 100.0 1 5 6 5 1 0 0 0 -1
+p111
+aVAaron Williams LAC 03/28/2007 LAC vs. HOU L 9 0 0 0 - 0 0 - 0 0 - 1 3 4 0 1 0 1 2 -10
+p112
+aVCuttino Mobley LAC 03/28/2007 LAC vs. HOU L 42 12 4 10 40.0 2 5 40.0 2 4 50.0 0 4 4 1 0 0 2 3 -9
+p113
+aVDaniel Ewing LAC 03/28/2007 LAC vs. HOU L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -4
+p114
+aVElton Brand LAC 03/28/2007 LAC vs. HOU L 45 24 11 19 57.9 1 1 100.0 1 1 100.0 3 3 6 4 0 5 4 3 1
+p115
+aVChris Kaman LAC 03/28/2007 LAC vs. HOU L 17 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 4 -10
+p116
+aVQuinton Ross LAC 03/28/2007 LAC vs. HOU L 14 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 2 1
+p117
+aVDaniel Ewing LAC 03/24/2007 LAC vs. WAS W 16 9 3 4 75.0 1 1 100.0 2 2 100.0 2 1 3 4 0 0 2 0 -7
+p118
+aVCuttino Mobley LAC 03/24/2007 LAC vs. WAS W 41 12 5 12 41.7 2 5 40.0 0 0 - 2 6 8 1 2 0 4 2 8
+p119
+aVAaron Williams LAC 03/24/2007 LAC vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p120
+aVQuinton Ross LAC 03/24/2007 LAC vs. WAS W 13 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 1 0 0 3 -3
+p121
+aVElton Brand LAC 03/24/2007 LAC vs. WAS W 39 18 8 18 44.4 0 0 - 2 6 33.3 2 12 14 4 0 0 2 4 6
+p122
+aVJames Singleton LAC 03/24/2007 LAC vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p123
+aVTim Thomas LAC 03/24/2007 LAC vs. WAS W 26 13 4 12 33.3 3 8 37.5 2 2 100.0 0 3 3 5 0 0 1 1 -5
+p124
+aVCorey Maggette LAC 03/24/2007 LAC vs. WAS W 33 29 7 9 77.8 0 0 - 15 17 88.2 0 4 4 5 0 1 3 5 2
+p125
+aVJason Hart LAC 03/24/2007 LAC vs. WAS W 32 9 4 9 44.4 0 1 0.0 1 2 50.0 0 3 3 5 1 0 0 5 16
+p126
+aVChris Kaman LAC 03/24/2007 LAC vs. WAS W 36 17 4 9 44.4 0 0 - 9 9 100.0 2 7 9 0 0 3 2 3 12
+p127
+aVAaron Williams LAC 03/23/2007 LAC vs. UTA W 12 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 0 0 1 2 0
+p128
+aVTim Thomas LAC 03/23/2007 LAC vs. UTA W 22 9 3 7 42.9 2 4 50.0 1 2 50.0 1 3 4 5 1 0 2 5 23
+p129
+aVCorey Maggette LAC 03/23/2007 LAC vs. UTA W 25 19 5 9 55.6 0 0 - 9 9 100.0 1 4 5 6 0 0 1 3 23
+p130
+aVPaul Davis LAC 03/23/2007 LAC vs. UTA W 8 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 2 4 0
+p131
+aVQuinton Ross LAC 03/23/2007 LAC vs. UTA W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 1 0 0 2
+p132
+aVJames Singleton LAC 03/23/2007 LAC vs. UTA W 16 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 3 17
+p133
+aVElton Brand LAC 03/23/2007 LAC vs. UTA W 33 20 9 13 69.2 0 0 - 2 4 50.0 3 8 11 4 1 3 1 3 26
+p134
+aVJason Hart LAC 03/23/2007 LAC vs. UTA W 22 6 2 4 50.0 0 1 0.0 2 4 50.0 0 1 1 4 2 0 0 0 16
+p135
+aVDaniel Ewing LAC 03/23/2007 LAC vs. UTA W 26 5 2 7 28.6 1 1 100.0 0 0 - 1 1 2 6 1 0 0 2 16
+p136
+aVYaroslav Korolev LAC 03/23/2007 LAC vs. UTA W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 -3
+p137
+aVCuttino Mobley LAC 03/23/2007 LAC vs. UTA W 32 15 5 13 38.5 1 3 33.3 4 4 100.0 0 2 2 2 1 0 4 1 21
+p138
+aVChris Kaman LAC 03/23/2007 LAC vs. UTA W 28 10 5 11 45.5 0 0 - 0 0 - 2 12 14 1 1 1 1 3 19
+p139
+aVQuinton Ross LAC 03/21/2007 LAC @ MIL W 34 4 2 7 28.6 0 0 - 0 1 0.0 1 1 2 1 0 0 0 3 -3
+p140
+aVChris Kaman LAC 03/21/2007 LAC @ MIL W 25 9 2 10 20.0 0 0 - 5 6 83.3 5 2 7 2 0 1 0 2 3
+p141
+aVJason Hart LAC 03/21/2007 LAC @ MIL W 31 12 6 9 66.7 0 0 - 0 0 - 1 3 4 2 5 0 4 2 11
+p142
+aVElton Brand LAC 03/21/2007 LAC @ MIL W 43 21 9 14 64.3 0 0 - 3 5 60.0 0 8 8 1 1 5 1 4 9
+p143
+aVJames Singleton LAC 03/21/2007 LAC @ MIL W 11 6 2 2 100.0 0 0 - 2 2 100.0 3 1 4 2 1 0 0 3 2
+p144
+aVCorey Maggette LAC 03/21/2007 LAC @ MIL W 34 22 7 14 50.0 1 2 50.0 7 8 87.5 1 3 4 5 1 0 2 3 -6
+p145
+aVCuttino Mobley LAC 03/21/2007 LAC @ MIL W 40 19 7 15 46.7 1 2 50.0 4 4 100.0 1 3 4 3 1 0 4 4 -7
+p146
+aVDaniel Ewing LAC 03/21/2007 LAC @ MIL W 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 3 0 0 1 4 -11
+p147
+aVSam Cassell LAC 03/21/2007 LAC @ MIL W 7 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 2 0 1 0 0 7
+p148
+aVJason Hart LAC 03/20/2007 LAC @ CHI W 28 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 2 3 0 3 0 2
+p149
+aVTim Thomas LAC 03/20/2007 LAC @ CHI W 21 7 2 7 28.6 0 1 0.0 3 4 75.0 1 4 5 1 1 1 1 1 7
+p150
+aVDaniel Ewing LAC 03/20/2007 LAC @ CHI W 21 11 3 6 50.0 1 2 50.0 4 4 100.0 0 4 4 2 3 0 2 6 10
+p151
+aVElton Brand LAC 03/20/2007 LAC @ CHI W 42 21 9 14 64.3 0 0 - 3 5 60.0 1 11 12 5 0 2 3 2 16
+p152
+aVCorey Maggette LAC 03/20/2007 LAC @ CHI W 41 22 4 7 57.1 0 0 - 14 17 82.4 0 3 3 5 0 1 2 3 21
+p153
+aVCuttino Mobley LAC 03/20/2007 LAC @ CHI W 43 25 8 16 50.0 4 4 100.0 5 5 100.0 0 2 2 2 1 0 4 2 23
+p154
+aVQuinton Ross LAC 03/20/2007 LAC @ CHI W 19 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 5 -3
+p155
+aVChris Kaman LAC 03/20/2007 LAC @ CHI W 25 5 2 5 40.0 0 0 - 1 1 100.0 4 4 8 0 1 3 2 4 -6
+p156
+aVDaniel Ewing LAC 03/18/2007 LAC @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p157
+aVCorey Maggette LAC 03/18/2007 LAC @ NJN L 36 23 7 10 70.0 1 1 100.0 8 9 88.9 0 9 9 3 2 0 7 5 -5
+p158
+aVJames Singleton LAC 03/18/2007 LAC @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p159
+aVCuttino Mobley LAC 03/18/2007 LAC @ NJN L 44 27 9 20 45.0 5 9 55.6 4 4 100.0 1 5 6 1 1 0 5 3 -2
+p160
+aVElton Brand LAC 03/18/2007 LAC @ NJN L 39 17 8 14 57.1 0 0 - 1 2 50.0 5 4 9 6 0 2 2 5 6
+p161
+aVChris Kaman LAC 03/18/2007 LAC @ NJN L 31 10 3 10 30.0 0 0 - 4 5 80.0 1 7 8 0 1 3 0 1 -1
+p162
+aVQuinton Ross LAC 03/18/2007 LAC @ NJN L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p163
+aVJason Hart LAC 03/18/2007 LAC @ NJN L 22 0 0 3 0.0 0 0 - 0 0 - 0 2 2 3 0 0 0 3 -6
+p164
+aVYaroslav Korolev LAC 03/18/2007 LAC @ NJN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p165
+aVSam Cassell LAC 03/18/2007 LAC @ NJN L 27 6 2 9 22.2 0 3 0.0 2 3 66.7 0 5 5 6 1 0 1 5 -2
+p166
+aVTim Thomas LAC 03/18/2007 LAC @ NJN L 30 12 5 11 45.5 2 4 50.0 0 0 - 1 5 6 4 2 0 1 5 -2
+p167
+aVYaroslav Korolev LAC 03/16/2007 LAC @ CHA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p168
+aVElton Brand LAC 03/16/2007 LAC @ CHA W 34 19 7 14 50.0 0 0 - 5 5 100.0 2 8 10 1 0 4 5 3 10
+p169
+aVDaniel Ewing LAC 03/16/2007 LAC @ CHA W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 -6
+p170
+aVTim Thomas LAC 03/16/2007 LAC @ CHA W 40 24 9 12 75.0 5 8 62.5 1 1 100.0 1 5 6 6 0 1 2 5 8
+p171
+aVChris Kaman LAC 03/16/2007 LAC @ CHA W 13 10 5 6 83.3 0 0 - 0 1 0.0 1 2 3 2 0 2 1 2 3
+p172
+aVJason Hart LAC 03/16/2007 LAC @ CHA W 31 2 1 7 14.3 0 1 0.0 0 0 - 1 2 3 3 2 0 0 5 5
+p173
+aVQuinton Ross LAC 03/16/2007 LAC @ CHA W 24 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 2 2 0 0 2 6
+p174
+aVCorey Maggette LAC 03/16/2007 LAC @ CHA W 31 14 3 8 37.5 0 1 0.0 8 9 88.9 3 4 7 5 2 0 2 3 8
+p175
+aVSam Cassell LAC 03/16/2007 LAC @ CHA W 21 11 5 12 41.7 0 1 0.0 1 1 100.0 0 4 4 4 0 0 1 1 9
+p176
+aVCuttino Mobley LAC 03/16/2007 LAC @ CHA W 40 14 6 10 60.0 1 2 50.0 1 2 50.0 2 5 7 3 1 0 3 3 6
+p177
+aVJason Hart LAC 03/14/2007 LAC @ HOU L 22 4 2 8 25.0 0 1 0.0 0 0 - 1 0 1 2 1 0 2 0 -19
+p178
+aVDaniel Ewing LAC 03/14/2007 LAC @ HOU L 27 10 3 6 50.0 2 3 66.7 2 2 100.0 2 2 4 6 0 0 2 4 15
+p179
+aVCuttino Mobley LAC 03/14/2007 LAC @ HOU L 31 10 4 10 40.0 0 4 0.0 2 2 100.0 0 0 0 3 3 0 1 1 -12
+p180
+aVElton Brand LAC 03/14/2007 LAC @ HOU L 45 37 13 23 56.5 0 0 - 11 12 91.7 3 7 10 5 1 1 2 1 -5
+p181
+aVChris Kaman LAC 03/14/2007 LAC @ HOU L 35 16 6 13 46.2 0 0 - 4 4 100.0 3 6 9 2 2 4 0 4 -6
+p182
+aVCorey Maggette LAC 03/14/2007 LAC @ HOU L 36 13 5 10 50.0 0 0 - 3 3 100.0 2 5 7 4 1 0 5 3 -4
+p183
+aVAaron Williams LAC 03/14/2007 LAC @ HOU L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 3 4
+p184
+aVTim Thomas LAC 03/14/2007 LAC @ HOU L 25 13 4 9 44.4 3 4 75.0 2 2 100.0 0 4 4 2 1 0 4 2 10
+p185
+aVQuinton Ross LAC 03/14/2007 LAC @ HOU L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p186
+aVTim Thomas LAC 03/13/2007 LAC @ SAS L 28 15 6 10 60.0 3 4 75.0 0 0 - 0 2 2 1 0 1 1 2 -2
+p187
+aVChris Kaman LAC 03/13/2007 LAC @ SAS L 35 13 6 11 54.5 0 0 - 1 2 50.0 1 4 5 0 0 2 1 3 -18
+p188
+aVCuttino Mobley LAC 03/13/2007 LAC @ SAS L 34 9 4 11 36.4 0 2 0.0 1 1 100.0 2 1 3 5 1 2 2 2 -12
+p189
+aVElton Brand LAC 03/13/2007 LAC @ SAS L 38 16 8 16 50.0 0 0 - 0 0 - 2 8 10 6 0 3 2 3 -2
+p190
+aVJason Hart LAC 03/13/2007 LAC @ SAS L 30 10 5 9 55.6 0 2 0.0 0 0 - 0 3 3 1 3 0 3 6 -5
+p191
+aVCorey Maggette LAC 03/13/2007 LAC @ SAS L 41 17 8 14 57.1 0 1 0.0 1 4 25.0 1 8 9 5 1 0 3 2 -6
+p192
+aVDaniel Ewing LAC 03/13/2007 LAC @ SAS L 18 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 4 0 0 1 1 -4
+p193
+aVQuinton Ross LAC 03/13/2007 LAC @ SAS L 16 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 4
+p194
+aVQuinton Ross LAC 03/11/2007 LAC vs. DET L 17 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 1 0 1 2 -8
+p195
+aVSam Cassell LAC 03/11/2007 LAC vs. DET L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 6 1 0 1 2 -1
+p196
+aVCuttino Mobley LAC 03/11/2007 LAC vs. DET L 35 12 4 9 44.4 1 3 33.3 3 4 75.0 0 4 4 1 3 0 0 2 -13
+p197
+aVAaron Williams LAC 03/11/2007 LAC vs. DET L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p198
+aVElton Brand LAC 03/11/2007 LAC vs. DET L 40 11 4 12 33.3 0 0 - 3 4 75.0 7 5 12 6 0 0 5 3 -13
+p199
+aVTim Thomas LAC 03/11/2007 LAC vs. DET L 26 16 5 12 41.7 4 9 44.4 2 3 66.7 0 1 1 2 0 0 2 3 -6
+p200
+aVJason Hart LAC 03/11/2007 LAC vs. DET L 33 10 5 10 50.0 0 2 0.0 0 0 - 0 4 4 5 1 0 1 2 -18
+p201
+aVPaul Davis LAC 03/11/2007 LAC vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p202
+aVCorey Maggette LAC 03/11/2007 LAC vs. DET L 43 19 8 12 66.7 0 0 - 3 4 75.0 2 0 2 1 2 0 4 2 -14
+p203
+aVChris Kaman LAC 03/11/2007 LAC vs. DET L 26 6 2 3 66.7 0 0 - 2 2 100.0 0 7 7 2 1 1 5 2 -13
+p204
+aVJason Hart LAC 03/09/2007 LAC @ GSW L 30 11 3 6 50.0 2 5 40.0 3 4 75.0 0 1 1 4 3 0 3 5 -15
+p205
+aVDaniel Ewing LAC 03/09/2007 LAC @ GSW L 19 9 3 5 60.0 2 4 50.0 1 2 50.0 0 4 4 4 1 0 2 2 6
+p206
+aVTim Thomas LAC 03/09/2007 LAC @ GSW L 40 14 6 16 37.5 1 4 25.0 1 1 100.0 1 8 9 2 2 0 4 3 -3
+p207
+aVChris Kaman LAC 03/09/2007 LAC @ GSW L 19 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 1 0 2 2 1
+p208
+aVElton Brand LAC 03/09/2007 LAC @ GSW L 33 11 4 13 30.8 0 0 - 3 3 100.0 5 4 9 5 1 1 3 3 -10
+p209
+aVSam Cassell LAC 03/09/2007 LAC @ GSW L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p210
+aVCorey Maggette LAC 03/09/2007 LAC @ GSW L 34 20 4 10 40.0 0 1 0.0 12 13 92.3 0 2 2 3 1 0 2 3 -14
+p211
+aVQuinton Ross LAC 03/09/2007 LAC @ GSW L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 3
+p212
+aVCuttino Mobley LAC 03/09/2007 LAC @ GSW L 46 15 5 12 41.7 1 2 50.0 4 4 100.0 0 3 3 2 4 0 1 2 -9
+p213
+aVDaniel Ewing LAC 03/05/2007 LAC vs. SAS L 26 2 1 4 25.0 0 0 - 0 0 - 1 2 3 3 2 0 2 3 -12
+p214
+aVChris Kaman LAC 03/05/2007 LAC vs. SAS L 28 6 2 10 20.0 0 0 - 2 3 66.7 1 6 7 0 0 3 2 2 -12
+p215
+aVCorey Maggette LAC 03/05/2007 LAC vs. SAS L 39 19 7 17 41.2 0 1 0.0 5 6 83.3 2 3 5 4 2 0 3 5 -12
+p216
+aVPaul Davis LAC 03/05/2007 LAC vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p217
+aVQuinton Ross LAC 03/05/2007 LAC vs. SAS L 12 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 3 0 2 3 -3
+p218
+aVElton Brand LAC 03/05/2007 LAC vs. SAS L 36 15 6 15 40.0 0 0 - 3 4 75.0 3 5 8 4 1 1 2 2 -20
+p219
+aVJason Hart LAC 03/05/2007 LAC vs. SAS L 25 9 3 7 42.9 1 2 50.0 2 2 100.0 1 3 4 1 1 0 0 4 -4
+p220
+aVTim Thomas LAC 03/05/2007 LAC vs. SAS L 31 10 5 16 31.3 0 5 0.0 0 0 - 2 2 4 3 1 0 1 3 4
+p221
+aVCuttino Mobley LAC 03/05/2007 LAC vs. SAS L 42 9 4 8 50.0 0 1 0.0 1 2 50.0 0 2 2 3 2 1 1 2 -11
+p222
+aVCuttino Mobley LAC 03/03/2007 LAC vs. IND W 28 7 2 7 28.6 1 2 50.0 2 3 66.7 0 1 1 5 0 0 4 2 12
+p223
+aVCorey Maggette LAC 03/03/2007 LAC vs. IND W 22 20 5 6 83.3 0 0 - 10 10 100.0 0 1 1 4 3 0 1 4 23
+p224
+aVPaul Davis LAC 03/03/2007 LAC vs. IND W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 0 0 4 -6
+p225
+aVChris Kaman LAC 03/03/2007 LAC vs. IND W 39 16 6 13 46.2 0 0 - 4 5 80.0 2 5 7 1 2 2 1 4 27
+p226
+aVYaroslav Korolev LAC 03/03/2007 LAC vs. IND W 6 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p227
+aVDaniel Ewing LAC 03/03/2007 LAC vs. IND W 31 8 4 9 44.4 0 0 - 0 0 - 0 5 5 2 5 0 2 3 16
+p228
+aVTim Thomas LAC 03/03/2007 LAC vs. IND W 26 6 2 6 33.3 0 1 0.0 2 4 50.0 0 8 8 5 0 1 0 1 24
+p229
+aVWill Conroy LAC 03/03/2007 LAC vs. IND W 17 0 0 0 - 0 0 - 0 2 0.0 0 2 2 6 0 0 1 3 7
+p230
+aVQuinton Ross LAC 03/03/2007 LAC vs. IND W 20 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 1 0 0 1 11
+p231
+aVElton Brand LAC 03/03/2007 LAC vs. IND W 31 17 6 14 42.9 0 0 - 5 8 62.5 5 7 12 0 1 3 2 2 16
+p232
+aVJames Singleton LAC 03/03/2007 LAC vs. IND W 7 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -7
+p233
+aVAaron Williams LAC 03/03/2007 LAC vs. IND W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p234
+aVCuttino Mobley LAC 03/01/2007 LAC @ SEA L 43 18 6 14 42.9 3 5 60.0 3 3 100.0 1 5 6 1 3 2 1 5 9
+p235
+aVTim Thomas LAC 03/01/2007 LAC @ SEA L 27 6 3 10 30.0 0 4 0.0 0 0 - 0 4 4 3 2 0 2 4 -2
+p236
+aVAaron Williams LAC 03/01/2007 LAC @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p237
+aVJames Singleton LAC 03/01/2007 LAC @ SEA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p238
+aVDaniel Ewing LAC 03/01/2007 LAC @ SEA L 35 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 5 1 0 2 1 6
+p239
+aVElton Brand LAC 03/01/2007 LAC @ SEA L 43 22 6 10 60.0 0 0 - 10 13 76.9 5 3 8 3 1 1 3 2 -3
+p240
+aVQuinton Ross LAC 03/01/2007 LAC @ SEA L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p241
+aVWill Conroy LAC 03/01/2007 LAC @ SEA L 14 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -8
+p242
+aVCorey Maggette LAC 03/01/2007 LAC @ SEA L 31 15 5 13 38.5 1 2 50.0 4 6 66.7 0 4 4 6 2 0 3 4 -3
+p243
+aVChris Kaman LAC 03/01/2007 LAC @ SEA L 36 10 5 9 55.6 0 0 - 0 4 0.0 2 7 9 3 0 0 2 3 3
+p244
+aVChris Kaman LAC 02/28/2007 LAC vs. SEA W 30 10 3 6 50.0 0 0 - 4 4 100.0 1 5 6 1 0 1 1 3 6
+p245
+aVQuinton Ross LAC 02/28/2007 LAC vs. SEA W 35 8 4 7 57.1 0 0 - 0 0 - 1 3 4 1 1 0 0 3 2
+p246
+aVCorey Maggette LAC 02/28/2007 LAC vs. SEA W 33 18 7 13 53.8 0 0 - 4 5 80.0 3 2 5 4 2 0 1 4 4
+p247
+aVElton Brand LAC 02/28/2007 LAC vs. SEA W 43 18 5 14 35.7 0 0 - 8 11 72.7 2 7 9 7 1 3 0 1 6
+p248
+aVTim Thomas LAC 02/28/2007 LAC vs. SEA W 21 13 5 10 50.0 1 5 20.0 2 2 100.0 2 1 3 0 1 0 2 5 -4
+p249
+aVSam Cassell LAC 02/28/2007 LAC vs. SEA W 34 16 7 16 43.8 1 2 50.0 1 1 100.0 1 4 5 5 0 0 2 2 5
+p250
+aVDaniel Ewing LAC 02/28/2007 LAC vs. SEA W 13 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 4 0 0 1 3 -1
+p251
+aVCuttino Mobley LAC 02/28/2007 LAC vs. SEA W 31 11 5 12 41.7 1 3 33.3 0 0 - 1 1 2 0 0 0 2 3 7
+p252
+aVShaun Livingston LAC 02/26/2007 LAC vs. CHA W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p253
+aVDaniel Ewing LAC 02/26/2007 LAC vs. CHA W 20 7 2 5 40.0 0 2 0.0 3 4 75.0 0 2 2 4 0 0 0 0 14
+p254
+aVJames Singleton LAC 02/26/2007 LAC vs. CHA W 3 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 -2
+p255
+aVQuinton Ross LAC 02/26/2007 LAC vs. CHA W 23 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 2 0 1 10
+p256
+aVElton Brand LAC 02/26/2007 LAC vs. CHA W 37 14 5 13 38.5 0 0 - 4 6 66.7 4 8 12 1 1 2 0 4 0
+p257
+aVVon Wafer LAC 02/26/2007 LAC vs. CHA W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p258
+aVChris Kaman LAC 02/26/2007 LAC vs. CHA W 12 10 5 7 71.4 0 1 0.0 0 1 0.0 0 4 4 0 0 1 1 3 11
+p259
+aVCuttino Mobley LAC 02/26/2007 LAC vs. CHA W 45 16 5 12 41.7 1 1 100.0 5 5 100.0 1 1 2 5 3 0 3 2 5
+p260
+aVTim Thomas LAC 02/26/2007 LAC vs. CHA W 30 12 4 7 57.1 1 3 33.3 3 3 100.0 2 7 9 2 2 1 3 4 2
+p261
+aVCorey Maggette LAC 02/26/2007 LAC vs. CHA W 37 25 3 9 33.3 0 0 - 19 20 95.0 0 6 6 1 1 0 3 0 -3
+p262
+aVSam Cassell LAC 02/26/2007 LAC vs. CHA W 29 14 5 13 38.5 0 3 0.0 4 4 100.0 0 2 2 2 1 0 3 3 2
+p263
+aVQuinton Ross LAC 02/24/2007 LAC vs. GSW W 26 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 2 0 0 1 23
+p264
+aVCorey Maggette LAC 02/24/2007 LAC vs. GSW W 37 18 4 9 44.4 0 0 - 10 14 71.4 0 8 8 5 4 0 4 4 2
+p265
+aVJames Singleton LAC 02/24/2007 LAC vs. GSW W 13 2 1 5 20.0 0 0 - 0 0 - 5 3 8 1 1 0 1 2 3
+p266
+aVShaun Livingston LAC 02/24/2007 LAC vs. GSW W 33 14 6 11 54.5 0 0 - 2 3 66.7 0 2 2 14 0 0 4 5 6
+p267
+aVTim Thomas LAC 02/24/2007 LAC vs. GSW W 31 17 7 13 53.8 2 3 66.7 1 2 50.0 3 7 10 2 1 0 4 2 -2
+p268
+aVSam Cassell LAC 02/24/2007 LAC vs. GSW W 15 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 4 0 0 0 2 7
+p269
+aVCuttino Mobley LAC 02/24/2007 LAC vs. GSW W 42 15 5 10 50.0 2 5 40.0 3 3 100.0 0 2 2 4 1 0 3 3 12
+p270
+aVElton Brand LAC 02/24/2007 LAC vs. GSW W 42 31 11 19 57.9 0 0 - 9 13 69.2 3 9 12 0 1 8 3 2 15
+p271
+aVDaniel Ewing LAC 02/24/2007 LAC vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p272
+aVSam Cassell LAC 02/20/2007 LAC vs. PHX L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 1 0 3 -4
+p273
+aVAaron Williams LAC 02/20/2007 LAC vs. PHX L 7 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 2 0 0 2 -2
+p274
+aVQuinton Ross LAC 02/20/2007 LAC vs. PHX L 17 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -12
+p275
+aVJames Singleton LAC 02/20/2007 LAC vs. PHX L 20 3 1 4 25.0 1 2 50.0 0 0 - 2 5 7 1 1 2 0 1 -6
+p276
+aVTim Thomas LAC 02/20/2007 LAC vs. PHX L 37 13 5 17 29.4 3 8 37.5 0 1 0.0 2 4 6 4 4 0 3 4 -26
+p277
+aVShaun Livingston LAC 02/20/2007 LAC vs. PHX L 29 6 3 8 37.5 0 1 0.0 0 0 - 0 4 4 7 0 0 2 1 -21
+p278
+aVCorey Maggette LAC 02/20/2007 LAC vs. PHX L 40 19 9 16 56.3 0 1 0.0 1 3 33.3 0 7 7 2 0 0 2 4 -20
+p279
+aVDaniel Ewing LAC 02/20/2007 LAC vs. PHX L 29 16 6 11 54.5 2 6 33.3 2 4 50.0 0 1 1 1 0 1 2 1 -13
+p280
+aVYaroslav Korolev LAC 02/20/2007 LAC vs. PHX L 9 2 0 2 0.0 0 1 0.0 2 4 50.0 0 0 0 0 1 0 1 0 -1
+p281
+aVPaul Davis LAC 02/20/2007 LAC vs. PHX L 6 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 1
+p282
+aVElton Brand LAC 02/20/2007 LAC vs. PHX L 33 17 7 14 50.0 0 0 - 3 4 75.0 5 0 5 3 0 2 3 4 -21
+p283
+aVQuinton Ross LAC 02/14/2007 LAC vs. ATL L 20 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 0 1 9
+p284
+aVTim Thomas LAC 02/14/2007 LAC vs. ATL L 38 10 4 14 28.6 2 8 25.0 0 2 0.0 2 6 8 6 0 0 2 4 -7
+p285
+aVShaun Livingston LAC 02/14/2007 LAC vs. ATL L 25 11 4 6 66.7 0 0 - 3 5 60.0 1 1 2 3 2 2 1 3 -12
+p286
+aVCuttino Mobley LAC 02/14/2007 LAC vs. ATL L 47 31 12 18 66.7 5 6 83.3 2 2 100.0 0 3 3 3 3 0 4 3 -4
+p287
+aVAaron Williams LAC 02/14/2007 LAC vs. ATL L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -5
+p288
+aVCorey Maggette LAC 02/14/2007 LAC vs. ATL L 22 5 2 10 20.0 0 2 0.0 1 2 50.0 1 5 6 2 0 0 3 4 -10
+p289
+aVDoug Christie LAC 02/14/2007 LAC vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p290
+aVChris Kaman LAC 02/14/2007 LAC vs. ATL L 37 20 8 13 61.5 0 0 - 4 7 57.1 2 11 13 3 1 6 1 5 8
+p291
+aVSam Cassell LAC 02/14/2007 LAC vs. ATL L 28 10 1 8 12.5 0 1 0.0 8 8 100.0 1 2 3 4 2 0 2 2 7
+p292
+aVJames Singleton LAC 02/14/2007 LAC vs. ATL L 13 2 0 0 - 0 0 - 2 2 100.0 0 3 3 1 0 1 0 3 -2
+p293
+aVChris Kaman LAC 02/12/2007 LAC @ DET L 33 13 5 9 55.6 0 0 - 3 4 75.0 3 6 9 0 0 1 2 6 -20
+p294
+aVSam Cassell LAC 02/12/2007 LAC @ DET L 15 3 1 7 14.3 0 0 - 1 1 100.0 2 4 6 2 0 0 2 1 -5
+p295
+aVDoug Christie LAC 02/12/2007 LAC @ DET L 8 2 1 3 33.3 0 1 0.0 0 0 - 2 0 2 1 0 0 1 2 -4
+p296
+aVShaun Livingston LAC 02/12/2007 LAC @ DET L 33 4 2 6 33.3 0 0 - 0 0 - 0 1 1 3 5 0 0 3 -16
+p297
+aVAaron Williams LAC 02/12/2007 LAC @ DET L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p298
+aVCuttino Mobley LAC 02/12/2007 LAC @ DET L 36 17 6 15 40.0 3 7 42.9 2 4 50.0 0 2 2 3 1 0 0 2 -22
+p299
+aVDaniel Ewing LAC 02/12/2007 LAC @ DET L 6 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 3
+p300
+aVJames Singleton LAC 02/12/2007 LAC @ DET L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 2 6
+p301
+aVPaul Davis LAC 02/12/2007 LAC @ DET L 12 2 0 4 0.0 0 0 - 2 4 50.0 4 3 7 0 0 1 0 2 2
+p302
+aVTim Thomas LAC 02/12/2007 LAC @ DET L 35 9 3 13 23.1 3 10 30.0 0 0 - 2 4 6 1 0 0 1 3 -22
+p303
+aVQuinton Ross LAC 02/12/2007 LAC @ DET L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -2
+p304
+aVCorey Maggette LAC 02/12/2007 LAC @ DET L 38 15 3 10 30.0 0 0 - 9 10 90.0 0 8 8 4 0 0 1 3 -8
+p305
+aVShaun Livingston LAC 02/11/2007 LAC @ IND L 33 4 2 7 28.6 0 0 - 0 1 0.0 4 2 6 7 0 0 1 1 -14
+p306
+aVCorey Maggette LAC 02/11/2007 LAC @ IND L 26 8 2 5 40.0 0 0 - 4 4 100.0 2 5 7 1 0 0 5 3 -5
+p307
+aVTim Thomas LAC 02/11/2007 LAC @ IND L 23 7 2 8 25.0 1 2 50.0 2 2 100.0 1 1 2 0 0 0 0 4 -6
+p308
+aVSam Cassell LAC 02/11/2007 LAC @ IND L 33 14 4 15 26.7 1 5 20.0 5 6 83.3 0 4 4 5 0 0 1 2 -6
+p309
+aVDoug Christie LAC 02/11/2007 LAC @ IND L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -7
+p310
+aVJames Singleton LAC 02/11/2007 LAC @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p311
+aVCuttino Mobley LAC 02/11/2007 LAC @ IND L 44 23 9 14 64.3 2 4 50.0 3 4 75.0 0 3 3 2 0 1 5 4 -10
+p312
+aVChris Kaman LAC 02/11/2007 LAC @ IND L 32 10 3 14 21.4 0 0 - 4 4 100.0 7 7 14 0 2 0 3 3 1
+p313
+aVElton Brand LAC 02/11/2007 LAC @ IND L 40 14 6 13 46.2 0 0 - 2 3 66.7 2 9 11 3 3 6 3 4 -18
+p314
+aVAaron Williams LAC 02/09/2007 LAC @ PHI W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p315
+aVJames Singleton LAC 02/09/2007 LAC @ PHI W 8 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 2 0 0 0 8
+p316
+aVShaun Livingston LAC 02/09/2007 LAC @ PHI W 39 11 4 10 40.0 1 1 100.0 2 4 50.0 2 6 8 4 4 0 2 4 -1
+p317
+aVDoug Christie LAC 02/09/2007 LAC @ PHI W 24 8 3 6 50.0 1 4 25.0 1 1 100.0 0 3 3 0 1 1 0 4 2
+p318
+aVCuttino Mobley LAC 02/09/2007 LAC @ PHI W 42 17 6 13 46.2 1 3 33.3 4 5 80.0 0 2 2 1 0 0 1 2 -5
+p319
+aVSam Cassell LAC 02/09/2007 LAC @ PHI W 29 22 7 16 43.8 2 2 100.0 6 7 85.7 1 3 4 6 0 0 3 2 18
+p320
+aVElton Brand LAC 02/09/2007 LAC @ PHI W 38 12 5 15 33.3 0 0 - 2 2 100.0 4 4 8 0 0 0 4 2 -9
+p321
+aVQuinton Ross LAC 02/09/2007 LAC @ PHI W 11 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 1 0 1 4 -15
+p322
+aVChris Kaman LAC 02/09/2007 LAC @ PHI W 39 15 7 12 58.3 0 0 - 1 2 50.0 5 4 9 2 1 2 3 5 3
+p323
+aVDaniel Ewing LAC 02/07/2007 LAC @ CLE L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p324
+aVPaul Davis LAC 02/07/2007 LAC @ CLE L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p325
+aVJames Singleton LAC 02/07/2007 LAC @ CLE L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 2 1
+p326
+aVShaun Livingston LAC 02/07/2007 LAC @ CLE L 37 19 9 17 52.9 0 0 - 1 3 33.3 3 4 7 2 2 1 3 1 -11
+p327
+aVDoug Christie LAC 02/07/2007 LAC @ CLE L 16 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 3 0 0 1 0 -13
+p328
+aVCuttino Mobley LAC 02/07/2007 LAC @ CLE L 35 9 3 10 30.0 1 6 16.7 2 2 100.0 0 4 4 2 1 1 0 1 -14
+p329
+aVQuinton Ross LAC 02/07/2007 LAC @ CLE L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p330
+aVTim Thomas LAC 02/07/2007 LAC @ CLE L 25 3 1 8 12.5 1 2 50.0 0 0 - 3 5 8 1 0 0 1 5 -6
+p331
+aVSam Cassell LAC 02/07/2007 LAC @ CLE L 39 14 5 13 38.5 0 0 - 4 4 100.0 0 6 6 8 0 0 2 3 -8
+p332
+aVAaron Williams LAC 02/07/2007 LAC @ CLE L 6 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 1 0 0 2 -3
+p333
+aVChris Kaman LAC 02/07/2007 LAC @ CLE L 29 6 1 6 16.7 0 0 - 4 6 66.7 0 4 4 0 0 0 1 2 -9
+p334
+aVElton Brand LAC 02/07/2007 LAC @ CLE L 33 21 8 23 34.8 0 0 - 5 5 100.0 3 4 7 0 1 2 2 4 -19
+p335
+aVQuinton Ross LAC 02/06/2007 LAC @ NYK L 15 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -3
+p336
+aVElton Brand LAC 02/06/2007 LAC @ NYK L 41 22 10 19 52.6 0 0 - 2 2 100.0 5 8 13 5 0 0 2 2 -11
+p337
+aVChris Kaman LAC 02/06/2007 LAC @ NYK L 23 14 4 7 57.1 0 0 - 6 6 100.0 1 5 6 0 0 1 2 3 -2
+p338
+aVTim Thomas LAC 02/06/2007 LAC @ NYK L 32 22 8 15 53.3 6 11 54.5 0 0 - 2 2 4 3 0 1 0 3 -13
+p339
+aVSam Cassell LAC 02/06/2007 LAC @ NYK L 27 13 5 13 38.5 0 5 0.0 3 7 42.9 2 1 3 0 3 0 2 3 -20
+p340
+aVDoug Christie LAC 02/06/2007 LAC @ NYK L 22 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 4 2 0 1 3 -5
+p341
+aVCorey Maggette LAC 02/06/2007 LAC @ NYK L 17 4 2 3 66.7 0 0 - 0 2 0.0 0 0 0 1 0 0 2 1 -1
+p342
+aVAaron Williams LAC 02/06/2007 LAC @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p343
+aVShaun Livingston LAC 02/06/2007 LAC @ NYK L 30 13 5 7 71.4 0 0 - 3 3 100.0 0 4 4 4 4 1 4 6 -2
+p344
+aVCuttino Mobley LAC 02/06/2007 LAC @ NYK L 29 0 0 5 0.0 0 2 0.0 0 0 - 1 5 6 1 0 0 1 3 -12
+p345
+aVPaul Davis LAC 02/06/2007 LAC @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p346
+aVCorey Maggette LAC 02/04/2007 LAC @ TOR L 27 10 2 10 20.0 0 1 0.0 6 10 60.0 2 4 6 4 2 0 1 3 -6
+p347
+aVChris Kaman LAC 02/04/2007 LAC @ TOR L 21 2 1 11 9.1 0 0 - 0 0 - 3 4 7 0 0 1 0 2 -15
+p348
+aVCuttino Mobley LAC 02/04/2007 LAC @ TOR L 42 24 8 16 50.0 5 8 62.5 3 3 100.0 0 0 0 2 1 0 2 1 -15
+p349
+aVShaun Livingston LAC 02/04/2007 LAC @ TOR L 28 11 5 5 100.0 0 0 - 1 1 100.0 1 1 2 0 1 0 2 3 -2
+p350
+aVTim Thomas LAC 02/04/2007 LAC @ TOR L 30 18 7 11 63.6 4 7 57.1 0 0 - 2 6 8 3 1 0 1 4 3
+p351
+aVQuinton Ross LAC 02/04/2007 LAC @ TOR L 16 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 3 -10
+p352
+aVElton Brand LAC 02/04/2007 LAC @ TOR L 43 21 8 15 53.3 0 0 - 5 9 55.6 5 5 10 6 0 2 0 4 -7
+p353
+aVSam Cassell LAC 02/04/2007 LAC @ TOR L 32 17 5 10 50.0 2 4 50.0 5 6 83.3 0 4 4 8 1 0 3 2 -4
+p354
+aVPaul Davis LAC 02/04/2007 LAC @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p355
+aVSam Cassell LAC 02/02/2007 LAC @ BOS W 23 13 6 13 46.2 0 3 0.0 1 1 100.0 0 1 1 3 0 0 2 1 -1
+p356
+aVChris Kaman LAC 02/02/2007 LAC @ BOS W 33 4 2 2 100.0 0 0 - 0 0 - 3 4 7 1 1 1 0 3 -5
+p357
+aVQuinton Ross LAC 02/02/2007 LAC @ BOS W 16 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p358
+aVElton Brand LAC 02/02/2007 LAC @ BOS W 41 26 11 21 52.4 0 0 - 4 4 100.0 5 14 19 2 1 4 3 1 15
+p359
+aVTim Thomas LAC 02/02/2007 LAC @ BOS W 34 17 6 12 50.0 2 5 40.0 3 4 75.0 2 2 4 4 2 0 0 3 9
+p360
+aVCorey Maggette LAC 02/02/2007 LAC @ BOS W 23 19 2 6 33.3 0 0 - 15 17 88.2 0 3 3 0 0 0 1 4 16
+p361
+aVCuttino Mobley LAC 02/02/2007 LAC @ BOS W 45 20 7 14 50.0 2 6 33.3 4 4 100.0 0 3 3 5 1 0 3 1 17
+p362
+aVDaniel Ewing LAC 02/02/2007 LAC @ BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p363
+aVShaun Livingston LAC 02/02/2007 LAC @ BOS W 25 1 0 4 0.0 0 0 - 1 2 50.0 0 4 4 4 3 0 0 3 13
+p364
+aVSam Cassell LAC 01/31/2007 LAC vs. CHI W 35 18 6 16 37.5 1 5 20.0 5 5 100.0 0 6 6 6 1 1 4 3 12
+p365
+aVCuttino Mobley LAC 01/31/2007 LAC vs. CHI W 27 11 4 9 44.4 0 1 0.0 3 4 75.0 1 4 5 2 0 0 2 4 1
+p366
+aVElton Brand LAC 01/31/2007 LAC vs. CHI W 38 26 9 17 52.9 0 0 - 8 10 80.0 3 6 9 3 2 5 1 3 12
+p367
+aVTim Thomas LAC 01/31/2007 LAC vs. CHI W 31 18 6 13 46.2 2 6 33.3 4 6 66.7 3 7 10 3 1 0 2 4 5
+p368
+aVDoug Christie LAC 01/31/2007 LAC vs. CHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p369
+aVShaun Livingston LAC 01/31/2007 LAC vs. CHI W 30 14 5 7 71.4 0 0 - 4 4 100.0 1 2 3 3 2 1 0 3 11
+p370
+aVCorey Maggette LAC 01/31/2007 LAC vs. CHI W 24 15 3 4 75.0 0 0 - 9 10 90.0 1 2 3 3 1 0 2 2 17
+p371
+aVChris Kaman LAC 01/31/2007 LAC vs. CHI W 21 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 4 1 3 0
+p372
+aVQuinton Ross LAC 01/31/2007 LAC vs. CHI W 29 6 3 8 37.5 0 0 - 0 0 - 0 3 3 1 1 0 1 3 10
+p373
+aVCuttino Mobley LAC 01/28/2007 LAC @ SEA W 39 10 4 11 36.4 2 4 50.0 0 0 - 2 3 5 5 1 0 1 1 32
+p374
+aVCorey Maggette LAC 01/28/2007 LAC @ SEA W 27 10 3 15 20.0 0 2 0.0 4 4 100.0 0 9 9 2 1 0 4 5 0
+p375
+aVTim Thomas LAC 01/28/2007 LAC @ SEA W 21 9 3 5 60.0 1 3 33.3 2 2 100.0 0 4 4 4 2 0 2 2 17
+p376
+aVSam Cassell LAC 01/28/2007 LAC @ SEA W 19 21 6 11 54.5 5 5 100.0 4 4 100.0 0 2 2 7 0 0 1 4 20
+p377
+aVPaul Davis LAC 01/28/2007 LAC @ SEA W 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -12
+p378
+aVElton Brand LAC 01/28/2007 LAC @ SEA W 26 22 11 15 73.3 0 0 - 0 0 - 4 3 7 0 3 1 2 5 25
+p379
+aVQuinton Ross LAC 01/28/2007 LAC @ SEA W 20 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 2 0 0 1 2 16
+p380
+aVJames Singleton LAC 01/28/2007 LAC @ SEA W 9 4 1 3 33.3 1 2 50.0 1 2 50.0 1 1 2 1 1 2 1 1 -9
+p381
+aVDaniel Ewing LAC 01/28/2007 LAC @ SEA W 13 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 1 0 0 1 0 -12
+p382
+aVShaun Livingston LAC 01/28/2007 LAC @ SEA W 23 4 2 6 33.3 0 0 - 0 0 - 0 2 2 4 4 1 3 0 10
+p383
+aVChris Kaman LAC 01/28/2007 LAC @ SEA W 24 9 3 8 37.5 0 0 - 3 4 75.0 2 13 15 1 1 2 1 4 23
+p384
+aVTim Thomas LAC 01/27/2007 LAC vs. MIN L 29 9 2 12 16.7 1 6 16.7 4 4 100.0 0 6 6 2 1 0 1 5 0
+p385
+aVCorey Maggette LAC 01/27/2007 LAC vs. MIN L 26 19 5 8 62.5 0 0 - 9 10 90.0 3 1 4 0 0 0 5 4 2
+p386
+aVCuttino Mobley LAC 01/27/2007 LAC vs. MIN L 35 6 1 9 11.1 0 1 0.0 4 5 80.0 1 3 4 3 3 0 3 5 -16
+p387
+aVShaun Livingston LAC 01/27/2007 LAC vs. MIN L 30 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 2 0 0 2 3 -2
+p388
+aVSam Cassell LAC 01/27/2007 LAC vs. MIN L 34 14 4 7 57.1 1 1 100.0 5 6 83.3 0 5 5 4 0 1 6 2 -16
+p389
+aVQuinton Ross LAC 01/27/2007 LAC vs. MIN L 17 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 1 1 0 0 4 -10
+p390
+aVElton Brand LAC 01/27/2007 LAC vs. MIN L 41 25 10 16 62.5 0 0 - 5 7 71.4 6 6 12 0 1 4 5 5 -14
+p391
+aVJames Singleton LAC 01/27/2007 LAC vs. MIN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p392
+aVChris Kaman LAC 01/27/2007 LAC vs. MIN L 24 3 1 3 33.3 0 0 - 1 2 50.0 2 6 8 0 0 2 4 1 -12
+p393
+aVJames Singleton LAC 01/25/2007 LAC vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p394
+aVQuinton Ross LAC 01/25/2007 LAC vs. NJN W 29 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 0 3 1 0 4 -3
+p395
+aVElton Brand LAC 01/25/2007 LAC vs. NJN W 37 18 7 13 53.8 0 0 - 4 6 66.7 1 7 8 3 1 3 1 5 -4
+p396
+aVCorey Maggette LAC 01/25/2007 LAC vs. NJN W 29 18 3 9 33.3 0 0 - 12 13 92.3 0 6 6 5 0 1 2 4 0
+p397
+aVSam Cassell LAC 01/25/2007 LAC vs. NJN W 29 15 5 13 38.5 2 5 40.0 3 3 100.0 1 1 2 10 1 1 2 0 -2
+p398
+aVChris Kaman LAC 01/25/2007 LAC vs. NJN W 26 11 4 9 44.4 0 0 - 3 4 75.0 3 4 7 0 0 3 4 4 2
+p399
+aVCuttino Mobley LAC 01/25/2007 LAC vs. NJN W 35 17 6 10 60.0 1 2 50.0 4 4 100.0 0 2 2 3 2 2 1 3 -5
+p400
+aVTim Thomas LAC 01/25/2007 LAC vs. NJN W 26 12 4 10 40.0 2 6 33.3 2 2 100.0 0 5 5 3 4 2 1 1 12
+p401
+aVShaun Livingston LAC 01/25/2007 LAC vs. NJN W 23 7 3 8 37.5 0 0 - 1 2 50.0 4 1 5 3 0 0 1 2 7
+p402
+aVCorey Maggette LAC 01/23/2007 LAC vs. MIL W 27 15 4 8 50.0 0 1 0.0 7 8 87.5 1 3 4 4 0 0 1 4 10
+p403
+aVTim Thomas LAC 01/23/2007 LAC vs. MIL W 20 9 3 7 42.9 1 4 25.0 2 2 100.0 3 3 6 2 0 0 1 1 11
+p404
+aVCuttino Mobley LAC 01/23/2007 LAC vs. MIL W 35 22 10 15 66.7 0 2 0.0 2 4 50.0 0 6 6 2 2 0 2 1 13
+p405
+aVQuinton Ross LAC 01/23/2007 LAC vs. MIL W 25 13 6 9 66.7 0 0 - 1 1 100.0 2 1 3 4 1 0 1 2 15
+p406
+aVAlvin Williams LAC 01/23/2007 LAC vs. MIL W 5 2 0 1 0.0 0 0 - 2 4 50.0 1 0 1 0 1 0 2 0 -5
+p407
+aVDaniel Ewing LAC 01/23/2007 LAC vs. MIL W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 1
+p408
+aVSam Cassell LAC 01/23/2007 LAC vs. MIL W 22 8 2 9 22.2 0 1 0.0 4 4 100.0 0 1 1 8 0 0 1 1 15
+p409
+aVChris Kaman LAC 01/23/2007 LAC vs. MIL W 27 11 5 9 55.6 0 0 - 1 2 50.0 0 11 11 2 0 6 0 4 13
+p410
+aVShaun Livingston LAC 01/23/2007 LAC vs. MIL W 21 8 4 6 66.7 0 0 - 0 0 - 0 1 1 2 0 0 1 1 11
+p411
+aVElton Brand LAC 01/23/2007 LAC vs. MIL W 33 25 10 15 66.7 0 0 - 5 6 83.3 2 5 7 5 3 3 1 1 13
+p412
+aVJames Singleton LAC 01/23/2007 LAC vs. MIL W 3 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 2 0 0 0
+p413
+aVPaul Davis LAC 01/23/2007 LAC vs. MIL W 7 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 1 0 0 1 -2
+p414
+aVCorey Maggette LAC 01/20/2007 LAC vs. MEM W 31 11 4 11 36.4 0 0 - 3 6 50.0 0 9 9 1 2 0 1 2 23
+p415
+aVJames Singleton LAC 01/20/2007 LAC vs. MEM W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p416
+aVPaul Davis LAC 01/20/2007 LAC vs. MEM W 15 2 1 4 25.0 0 0 - 0 0 - 2 4 6 1 1 1 0 2 7
+p417
+aVCuttino Mobley LAC 01/20/2007 LAC vs. MEM W 27 11 4 9 44.4 0 1 0.0 3 3 100.0 0 1 1 5 3 0 0 3 23
+p418
+aVDaniel Ewing LAC 01/20/2007 LAC vs. MEM W 12 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 0 -6
+p419
+aVTim Thomas LAC 01/20/2007 LAC vs. MEM W 14 5 2 4 50.0 0 1 0.0 1 1 100.0 0 3 3 1 0 0 0 2 1
+p420
+aVQuinton Ross LAC 01/20/2007 LAC vs. MEM W 31 8 4 9 44.4 0 0 - 0 0 - 3 4 7 0 3 0 0 3 -1
+p421
+aVChris Kaman LAC 01/20/2007 LAC vs. MEM W 24 12 6 10 60.0 0 0 - 0 0 - 3 6 9 0 0 2 2 5 16
+p422
+aVSam Cassell LAC 01/20/2007 LAC vs. MEM W 35 21 9 16 56.3 1 2 50.0 2 2 100.0 2 1 3 14 1 0 4 3 27
+p423
+aVElton Brand LAC 01/20/2007 LAC vs. MEM W 40 34 13 23 56.5 0 0 - 8 8 100.0 2 2 4 5 0 0 3 2 17
+p424
+aVAlvin Williams LAC 01/20/2007 LAC vs. MEM W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 0 -3
+p425
+aVCorey Maggette LAC 01/17/2007 LAC vs. GSW W 40 16 5 12 41.7 0 1 0.0 6 12 50.0 1 8 9 7 1 1 4 4 20
+p426
+aVJames Singleton LAC 01/17/2007 LAC vs. GSW W 10 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -10
+p427
+aVSam Cassell LAC 01/17/2007 LAC vs. GSW W 39 23 8 18 44.4 3 9 33.3 4 4 100.0 0 4 4 13 1 0 2 4 2
+p428
+aVCuttino Mobley LAC 01/17/2007 LAC vs. GSW W 42 20 5 14 35.7 1 4 25.0 9 10 90.0 1 7 8 4 0 2 0 2 6
+p429
+aVElton Brand LAC 01/17/2007 LAC vs. GSW W 41 27 11 13 84.6 0 0 - 5 6 83.3 3 8 11 3 2 5 2 4 12
+p430
+aVLuke Jackson LAC 01/17/2007 LAC vs. GSW W 8 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 3 0 0 1 3 -3
+p431
+aVChris Kaman LAC 01/17/2007 LAC vs. GSW W 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -12
+p432
+aVQuinton Ross LAC 01/17/2007 LAC vs. GSW W 39 24 11 19 57.9 0 0 - 2 2 100.0 1 4 5 3 3 3 3 4 16
+p433
+aVDaniel Ewing LAC 01/17/2007 LAC vs. GSW W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 0 0 2 2 -1
+p434
+aVQuinton Ross LAC 01/15/2007 LAC @ GSW L 31 16 8 11 72.7 0 0 - 0 0 - 1 4 5 2 1 1 1 3 -18
+p435
+aVAaron Williams LAC 01/15/2007 LAC @ GSW L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p436
+aVLuke Jackson LAC 01/15/2007 LAC @ GSW L 8 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p437
+aVCorey Maggette LAC 01/15/2007 LAC @ GSW L 36 18 6 16 37.5 0 0 - 6 9 66.7 4 7 11 5 1 2 3 5 -18
+p438
+aVChris Kaman LAC 01/15/2007 LAC @ GSW L 23 3 1 4 25.0 0 0 - 1 2 50.0 3 10 13 1 0 0 4 3 -4
+p439
+aVCuttino Mobley LAC 01/15/2007 LAC @ GSW L 26 10 5 12 41.7 0 1 0.0 0 0 - 1 1 2 0 1 0 2 2 -12
+p440
+aVElton Brand LAC 01/15/2007 LAC @ GSW L 41 19 7 13 53.8 0 0 - 5 7 71.4 5 8 13 3 2 1 3 2 -7
+p441
+aVShaun Livingston LAC 01/15/2007 LAC @ GSW L 23 10 5 11 45.5 0 0 - 0 0 - 2 1 3 5 1 1 3 2 -8
+p442
+aVDaniel Ewing LAC 01/15/2007 LAC @ GSW L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 1 2
+p443
+aVJames Singleton LAC 01/15/2007 LAC @ GSW L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 6
+p444
+aVSam Cassell LAC 01/15/2007 LAC @ GSW L 37 15 6 18 33.3 2 6 33.3 1 3 33.3 0 4 4 9 0 0 2 1 -10
+p445
+aVLuke Jackson LAC 01/13/2007 LAC vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p446
+aVSam Cassell LAC 01/13/2007 LAC vs. CLE L 31 9 4 11 36.4 0 3 0.0 1 1 100.0 0 2 2 6 2 0 1 4 -17
+p447
+aVChris Kaman LAC 01/13/2007 LAC vs. CLE L 33 20 8 15 53.3 0 0 - 4 5 80.0 1 8 9 1 0 1 1 5 -8
+p448
+aVCuttino Mobley LAC 01/13/2007 LAC vs. CLE L 39 11 2 10 20.0 1 1 100.0 6 6 100.0 0 3 3 1 0 1 1 2 -1
+p449
+aVElton Brand LAC 01/13/2007 LAC vs. CLE L 43 16 6 14 42.9 0 0 - 4 6 66.7 5 5 10 4 0 2 1 2 -19
+p450
+aVShaun Livingston LAC 01/13/2007 LAC vs. CLE L 35 7 2 4 50.0 0 0 - 3 4 75.0 0 2 2 6 0 0 3 2 -7
+p451
+aVQuinton Ross LAC 01/13/2007 LAC vs. CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -10
+p452
+aVDaniel Ewing LAC 01/13/2007 LAC vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p453
+aVJames Singleton LAC 01/13/2007 LAC vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 6
+p454
+aVPaul Davis LAC 01/13/2007 LAC vs. CLE L 3 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p455
+aVTim Thomas LAC 01/13/2007 LAC vs. CLE L 14 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 3 2 -6
+p456
+aVCorey Maggette LAC 01/13/2007 LAC vs. CLE L 33 22 8 12 66.7 1 1 100.0 5 6 83.3 0 7 7 3 1 0 3 2 -11
+p457
+aVJames Singleton LAC 01/10/2007 LAC @ MIN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p458
+aVElton Brand LAC 01/10/2007 LAC @ MIN W 40 21 10 17 58.8 0 0 - 1 2 50.0 2 4 6 3 0 1 3 2 8
+p459
+aVQuinton Ross LAC 01/10/2007 LAC @ MIN W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p460
+aVSam Cassell LAC 01/10/2007 LAC @ MIN W 32 18 6 13 46.2 2 3 66.7 4 4 100.0 2 3 5 5 0 0 3 4 -4
+p461
+aVCuttino Mobley LAC 01/10/2007 LAC @ MIN W 27 3 1 5 20.0 0 0 - 1 2 50.0 1 4 5 1 2 0 0 2 -10
+p462
+aVAaron Williams LAC 01/10/2007 LAC @ MIN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p463
+aVCorey Maggette LAC 01/10/2007 LAC @ MIN W 30 21 5 10 50.0 0 0 - 11 11 100.0 0 8 8 4 0 1 3 2 10
+p464
+aVShaun Livingston LAC 01/10/2007 LAC @ MIN W 36 4 2 10 20.0 0 0 - 0 0 - 0 5 5 6 1 1 2 2 0
+p465
+aVChris Kaman LAC 01/10/2007 LAC @ MIN W 25 12 5 8 62.5 0 0 - 2 3 66.7 2 4 6 0 0 2 2 3 -6
+p466
+aVTim Thomas LAC 01/10/2007 LAC @ MIN W 31 11 5 10 50.0 1 4 25.0 0 0 - 0 2 2 3 1 2 1 2 1
+p467
+aVDaniel Ewing LAC 01/08/2007 LAC @ NOK W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 2
+p468
+aVSam Cassell LAC 01/08/2007 LAC @ NOK W 35 31 11 23 47.8 3 5 60.0 6 7 85.7 0 5 5 4 2 0 2 2 18
+p469
+aVShaun Livingston LAC 01/08/2007 LAC @ NOK W 33 9 2 9 22.2 0 1 0.0 5 6 83.3 1 3 4 7 2 0 3 2 -1
+p470
+aVQuinton Ross LAC 01/08/2007 LAC @ NOK W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -5
+p471
+aVElton Brand LAC 01/08/2007 LAC @ NOK W 41 18 7 15 46.7 0 0 - 4 4 100.0 6 6 12 2 1 0 3 4 3
+p472
+aVChris Kaman LAC 01/08/2007 LAC @ NOK W 21 4 2 5 40.0 0 0 - 0 0 - 4 3 7 0 1 1 1 2 -7
+p473
+aVCuttino Mobley LAC 01/08/2007 LAC @ NOK W 47 20 7 18 38.9 2 5 40.0 4 4 100.0 0 5 5 2 0 0 2 3 12
+p474
+aVJames Singleton LAC 01/08/2007 LAC @ NOK W 20 4 2 2 100.0 0 0 - 0 0 - 3 3 6 1 0 0 2 3 20
+p475
+aVTim Thomas LAC 01/08/2007 LAC @ NOK W 18 12 5 7 71.4 2 4 50.0 0 0 - 0 2 2 1 1 0 0 4 13
+p476
+aVAaron Williams LAC 01/08/2007 LAC @ NOK W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -5
+p477
+aVChris Kaman LAC 01/06/2007 LAC @ ATL L 32 8 4 11 36.4 0 0 - 0 0 - 1 5 6 0 0 1 6 3 -5
+p478
+aVTim Thomas LAC 01/06/2007 LAC @ ATL L 45 14 5 14 35.7 3 9 33.3 1 2 50.0 0 6 6 1 0 0 1 3 -4
+p479
+aVShaun Livingston LAC 01/06/2007 LAC @ ATL L 38 8 2 11 18.2 0 0 - 4 4 100.0 2 2 4 5 1 0 2 3 -10
+p480
+aVDaniel Ewing LAC 01/06/2007 LAC @ ATL L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 3 1 -2
+p481
+aVAaron Williams LAC 01/06/2007 LAC @ ATL L 23 6 3 5 60.0 0 0 - 0 0 - 3 6 9 0 0 0 0 3 -3
+p482
+aVElton Brand LAC 01/06/2007 LAC @ ATL L 40 26 10 17 58.8 0 0 - 6 10 60.0 4 3 7 4 1 0 6 4 -16
+p483
+aVQuinton Ross LAC 01/06/2007 LAC @ ATL L 21 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 1 0 0 1 -19
+p484
+aVCuttino Mobley LAC 01/06/2007 LAC @ ATL L 28 6 1 6 16.7 0 0 - 4 6 66.7 3 0 3 1 1 0 1 4 -1
+p485
+aVShaun Livingston LAC 01/05/2007 LAC @ WAS L 35 19 8 10 80.0 0 0 - 3 4 75.0 1 4 5 8 5 1 3 3 -29
+p486
+aVDaniel Ewing LAC 01/05/2007 LAC @ WAS L 18 4 1 5 20.0 1 1 100.0 1 2 50.0 1 6 7 2 1 0 2 1 16
+p487
+aVElton Brand LAC 01/05/2007 LAC @ WAS L 39 29 12 22 54.5 0 0 - 5 7 71.4 7 5 12 2 0 0 4 1 -13
+p488
+aVJames Singleton LAC 01/05/2007 LAC @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p489
+aVTim Thomas LAC 01/05/2007 LAC @ WAS L 28 14 5 12 41.7 3 7 42.9 1 2 50.0 2 4 6 1 1 0 1 2 -14
+p490
+aVCuttino Mobley LAC 01/05/2007 LAC @ WAS L 21 3 1 8 12.5 0 3 0.0 1 1 100.0 0 0 0 1 0 1 4 2 -15
+p491
+aVPaul Davis LAC 01/05/2007 LAC @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p492
+aVChris Kaman LAC 01/05/2007 LAC @ WAS L 39 17 5 9 55.6 0 0 - 7 7 100.0 3 7 10 1 1 1 2 4 -6
+p493
+aVCorey Maggette LAC 01/05/2007 LAC @ WAS L 28 15 4 12 33.3 0 0 - 7 7 100.0 0 4 4 1 0 0 4 1 -6
+p494
+aVYaroslav Korolev LAC 01/05/2007 LAC @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p495
+aVQuinton Ross LAC 01/05/2007 LAC @ WAS L 26 4 2 9 22.2 0 0 - 0 0 - 2 5 7 2 0 1 0 1 -6
+p496
+aVCorey Maggette LAC 01/03/2007 LAC @ MIA W 39 16 7 19 36.8 0 2 0.0 2 5 40.0 2 9 11 2 1 0 4 2 18
+p497
+aVQuinton Ross LAC 01/03/2007 LAC @ MIA W 42 13 6 9 66.7 0 0 - 1 2 50.0 1 5 6 4 2 1 2 4 5
+p498
+aVJames Singleton LAC 01/03/2007 LAC @ MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p499
+aVElton Brand LAC 01/03/2007 LAC @ MIA W 37 28 10 14 71.4 0 0 - 8 8 100.0 2 4 6 2 1 2 1 3 15
+p500
+aVYaroslav Korolev LAC 01/03/2007 LAC @ MIA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p501
+aVTim Thomas LAC 01/03/2007 LAC @ MIA W 16 9 3 4 75.0 2 3 66.7 1 2 50.0 0 2 2 1 0 0 1 1 6
+p502
+aVShaun Livingston LAC 01/03/2007 LAC @ MIA W 28 12 6 9 66.7 0 0 - 0 0 - 0 2 2 9 0 0 2 4 20
+p503
+aVDaniel Ewing LAC 01/03/2007 LAC @ MIA W 32 12 5 8 62.5 0 0 - 2 2 100.0 1 4 5 5 1 0 1 4 4
+p504
+aVChris Kaman LAC 01/03/2007 LAC @ MIA W 43 20 9 12 75.0 0 0 - 2 2 100.0 1 5 6 1 1 2 4 5 10
+p505
+aVCuttino Mobley LAC 01/02/2007 LAC @ ORL L 31 12 3 9 33.3 1 3 33.3 5 5 100.0 0 2 2 2 2 1 2 1 0
+p506
+aVTim Thomas LAC 01/02/2007 LAC @ ORL L 30 13 6 10 60.0 0 3 0.0 1 1 100.0 0 3 3 5 1 0 3 5 6
+p507
+aVElton Brand LAC 01/02/2007 LAC @ ORL L 40 15 7 13 53.8 0 0 - 1 2 50.0 4 3 7 3 1 3 6 4 1
+p508
+aVAaron Williams LAC 01/02/2007 LAC @ ORL L 12 0 0 0 - 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -3
+p509
+aVQuinton Ross LAC 01/02/2007 LAC @ ORL L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -11
+p510
+aVJames Singleton LAC 01/02/2007 LAC @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p511
+aVChris Kaman LAC 01/02/2007 LAC @ ORL L 41 12 6 13 46.2 0 0 - 0 0 - 2 5 7 0 0 1 2 3 -2
+p512
+aVShaun Livingston LAC 01/02/2007 LAC @ ORL L 34 10 5 10 50.0 0 1 0.0 0 1 0.0 1 3 4 6 1 0 3 4 -10
+p513
+aVCorey Maggette LAC 01/02/2007 LAC @ ORL L 25 20 6 11 54.5 0 0 - 8 13 61.5 1 2 3 0 1 0 2 2 -8
+p514
+aVDaniel Ewing LAC 01/02/2007 LAC @ ORL L 13 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 0 5
+p515
+aVCuttino Mobley LAC 12/31/2006 LAC vs. NYK W 38 11 3 9 33.3 2 5 40.0 3 3 100.0 0 3 3 2 1 1 2 2 2
+p516
+aVDaniel Ewing LAC 12/31/2006 LAC vs. NYK W 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 7
+p517
+aVTim Thomas LAC 12/31/2006 LAC vs. NYK W 37 8 2 7 28.6 2 6 33.3 2 2 100.0 0 4 4 4 1 1 1 1 19
+p518
+aVQuinton Ross LAC 12/31/2006 LAC vs. NYK W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 0 5
+p519
+aVChris Kaman LAC 12/31/2006 LAC vs. NYK W 26 8 4 9 44.4 0 0 - 0 0 - 4 9 13 2 1 1 2 6 9
+p520
+aVAaron Williams LAC 12/31/2006 LAC vs. NYK W 18 2 1 2 50.0 0 0 - 0 0 - 0 6 6 0 0 2 4 4 3
+p521
+aVShaun Livingston LAC 12/31/2006 LAC vs. NYK W 32 15 7 11 63.6 0 0 - 1 1 100.0 0 1 1 7 1 0 3 2 3
+p522
+aVJames Singleton LAC 12/31/2006 LAC vs. NYK W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 0 0 1
+p523
+aVElton Brand LAC 12/31/2006 LAC vs. NYK W 34 32 13 18 72.2 0 0 - 6 7 85.7 2 4 6 2 0 8 3 5 4
+p524
+aVCorey Maggette LAC 12/31/2006 LAC vs. NYK W 24 14 3 8 37.5 0 0 - 8 8 100.0 2 2 4 4 1 0 4 3 -3
+p525
+aVCuttino Mobley LAC 12/29/2006 LAC vs. SAC W 39 17 5 10 50.0 2 3 66.7 5 5 100.0 2 4 6 3 1 0 3 2 4
+p526
+aVChris Kaman LAC 12/29/2006 LAC vs. SAC W 32 14 6 9 66.7 0 0 - 2 2 100.0 2 6 8 0 0 3 2 4 1
+p527
+aVQuinton Ross LAC 12/29/2006 LAC vs. SAC W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 1 0 0 5
+p528
+aVElton Brand LAC 12/29/2006 LAC vs. SAC W 40 22 9 15 60.0 0 0 - 4 6 66.7 2 3 5 2 0 3 4 5 10
+p529
+aVDaniel Ewing LAC 12/29/2006 LAC vs. SAC W 16 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 3 1 0 3 2 9
+p530
+aVCorey Maggette LAC 12/29/2006 LAC vs. SAC W 30 21 7 15 46.7 0 2 0.0 7 7 100.0 1 6 7 1 1 0 1 3 12
+p531
+aVTim Thomas LAC 12/29/2006 LAC vs. SAC W 25 11 4 8 50.0 2 5 40.0 1 2 50.0 0 4 4 2 0 0 0 4 -2
+p532
+aVShaun Livingston LAC 12/29/2006 LAC vs. SAC W 32 7 3 8 37.5 0 0 - 1 2 50.0 0 1 1 5 2 0 1 4 0
+p533
+aVJames Singleton LAC 12/29/2006 LAC vs. SAC W 12 4 0 3 0.0 0 0 - 4 4 100.0 0 5 5 0 1 1 3 1 6
+p534
+aVAaron Williams LAC 12/29/2006 LAC vs. SAC W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p535
+aVAaron Williams LAC 12/27/2006 LAC vs. BOS W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 1 1 2 6
+p536
+aVPaul Davis LAC 12/27/2006 LAC vs. BOS W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p537
+aVJames Singleton LAC 12/27/2006 LAC vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p538
+aVTim Thomas LAC 12/27/2006 LAC vs. BOS W 35 25 8 15 53.3 3 5 60.0 6 8 75.0 1 6 7 4 2 0 1 1 30
+p539
+aVCorey Maggette LAC 12/27/2006 LAC vs. BOS W 24 11 2 5 40.0 0 0 - 7 11 63.6 2 9 11 2 0 0 1 5 17
+p540
+aVShaun Livingston LAC 12/27/2006 LAC vs. BOS W 38 10 3 6 50.0 0 0 - 4 6 66.7 1 4 5 4 1 1 2 2 24
+p541
+aVChris Kaman LAC 12/27/2006 LAC vs. BOS W 21 6 3 9 33.3 0 0 - 0 0 - 3 3 6 3 1 4 2 5 14
+p542
+aVYaroslav Korolev LAC 12/27/2006 LAC vs. BOS W 3 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 0 0
+p543
+aVDaniel Ewing LAC 12/27/2006 LAC vs. BOS W 26 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 1 2 0 2 3 8
+p544
+aVCuttino Mobley LAC 12/27/2006 LAC vs. BOS W 33 8 3 7 42.9 0 0 - 2 2 100.0 1 0 1 6 2 1 0 3 17
+p545
+aVQuinton Ross LAC 12/27/2006 LAC vs. BOS W 12 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 4 -16
+p546
+aVElton Brand LAC 12/27/2006 LAC vs. BOS W 35 25 11 15 73.3 0 0 - 3 4 75.0 3 7 10 2 0 4 0 3 18
+p547
+aVTim Thomas LAC 12/26/2006 LAC @ UTA L 30 9 3 10 30.0 1 4 25.0 2 2 100.0 0 7 7 3 0 0 2 6 -8
+p548
+aVDaniel Ewing LAC 12/26/2006 LAC @ UTA L 17 3 0 1 0.0 0 0 - 3 4 75.0 0 3 3 2 1 0 1 2 9
+p549
+aVQuinton Ross LAC 12/26/2006 LAC @ UTA L 7 4 2 2 100.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 1 -2
+p550
+aVChris Kaman LAC 12/26/2006 LAC @ UTA L 31 13 6 9 66.7 0 0 - 1 1 100.0 1 6 7 3 2 2 4 3 -2
+p551
+aVShaun Livingston LAC 12/26/2006 LAC @ UTA L 32 10 5 12 41.7 0 1 0.0 0 1 0.0 1 3 4 4 1 0 1 4 -17
+p552
+aVElton Brand LAC 12/26/2006 LAC @ UTA L 39 21 9 15 60.0 0 0 - 3 5 60.0 3 4 7 0 0 2 5 4 -12
+p553
+aVCuttino Mobley LAC 12/26/2006 LAC @ UTA L 41 13 4 11 36.4 1 5 20.0 4 4 100.0 0 2 2 4 0 0 0 2 -9
+p554
+aVAaron Williams LAC 12/26/2006 LAC @ UTA L 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -12
+p555
+aVCorey Maggette LAC 12/26/2006 LAC @ UTA L 32 19 5 11 45.5 0 0 - 9 9 100.0 0 2 2 2 1 0 2 5 3
+p556
+aVAaron Williams LAC 12/23/2006 LAC @ HOU W 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p557
+aVTim Thomas LAC 12/23/2006 LAC @ HOU W 43 21 7 15 46.7 4 9 44.4 3 4 75.0 1 5 6 2 2 0 2 6 11
+p558
+aVCorey Maggette LAC 12/23/2006 LAC @ HOU W 17 11 4 7 57.1 0 1 0.0 3 5 60.0 0 1 1 1 0 0 2 6 -6
+p559
+aVCuttino Mobley LAC 12/23/2006 LAC @ HOU W 35 18 7 9 77.8 3 3 100.0 1 2 50.0 0 5 5 1 0 0 3 4 9
+p560
+aVShaun Livingston LAC 12/23/2006 LAC @ HOU W 37 10 4 9 44.4 0 0 - 2 2 100.0 2 4 6 7 1 0 4 2 10
+p561
+aVChris Kaman LAC 12/23/2006 LAC @ HOU W 33 15 5 11 45.5 0 0 - 5 6 83.3 4 7 11 2 2 2 1 2 6
+p562
+aVElton Brand LAC 12/23/2006 LAC @ HOU W 38 16 5 12 41.7 0 0 - 6 7 85.7 2 5 7 4 1 1 2 0 10
+p563
+aVSam Cassell LAC 12/23/2006 LAC @ HOU W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -5
+p564
+aVQuinton Ross LAC 12/23/2006 LAC @ HOU W 10 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -6
+p565
+aVDaniel Ewing LAC 12/23/2006 LAC @ HOU W 9 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 1 0 1 1 0
+p566
+aVQuinton Ross LAC 12/22/2006 LAC @ DAL L 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -12
+p567
+aVDaniel Ewing LAC 12/22/2006 LAC @ DAL L 15 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 0 0
+p568
+aVPaul Davis LAC 12/22/2006 LAC @ DAL L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 1 1 1 6
+p569
+aVCorey Maggette LAC 12/22/2006 LAC @ DAL L 30 19 6 12 50.0 1 1 100.0 6 7 85.7 0 1 1 0 1 0 1 3 -21
+p570
+aVShaun Livingston LAC 12/22/2006 LAC @ DAL L 29 8 2 7 28.6 0 0 - 4 4 100.0 0 5 5 5 1 0 2 3 -23
+p571
+aVChris Kaman LAC 12/22/2006 LAC @ DAL L 31 11 5 9 55.6 0 0 - 1 1 100.0 1 5 6 1 1 0 3 3 -32
+p572
+aVTim Thomas LAC 12/22/2006 LAC @ DAL L 21 5 2 6 33.3 1 4 25.0 0 0 - 0 4 4 1 1 1 1 0 -6
+p573
+aVJames Singleton LAC 12/22/2006 LAC @ DAL L 18 6 1 3 33.3 0 1 0.0 4 4 100.0 1 6 7 2 0 0 0 2 -1
+p574
+aVCuttino Mobley LAC 12/22/2006 LAC @ DAL L 30 8 3 9 33.3 0 3 0.0 2 2 100.0 0 1 1 4 0 0 2 0 -31
+p575
+aVElton Brand LAC 12/22/2006 LAC @ DAL L 28 18 6 10 60.0 0 0 - 6 7 85.7 1 2 3 0 0 0 1 3 -30
+p576
+aVSam Cassell LAC 12/22/2006 LAC @ DAL L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -10
+p577
+aVQuinton Ross LAC 12/20/2006 LAC vs. TOR L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 3 1 1 0 5 -12
+p578
+aVElton Brand LAC 12/20/2006 LAC vs. TOR L 44 24 10 19 52.6 0 0 - 4 6 66.7 4 6 10 4 0 5 2 2 3
+p579
+aVChris Kaman LAC 12/20/2006 LAC vs. TOR L 29 10 5 12 41.7 0 0 - 0 0 - 1 8 9 2 0 2 1 3 -9
+p580
+aVPaul Davis LAC 12/20/2006 LAC vs. TOR L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p581
+aVSam Cassell LAC 12/20/2006 LAC vs. TOR L 29 17 8 16 50.0 0 0 - 1 1 100.0 1 2 3 1 0 0 1 3 1
+p582
+aVShaun Livingston LAC 12/20/2006 LAC vs. TOR L 42 14 5 12 41.7 0 0 - 4 4 100.0 5 3 8 7 1 0 0 2 -1
+p583
+aVCuttino Mobley LAC 12/20/2006 LAC vs. TOR L 40 11 4 11 36.4 1 1 100.0 2 2 100.0 1 7 8 6 1 1 3 1 3
+p584
+aVJames Singleton LAC 12/20/2006 LAC vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p585
+aVCorey Maggette LAC 12/20/2006 LAC vs. TOR L 36 20 6 14 42.9 0 0 - 8 11 72.7 2 4 6 3 0 0 1 4 7
+p586
+aVElton Brand LAC 12/17/2006 LAC vs. HOU L 43 19 5 12 41.7 0 0 - 9 9 100.0 1 8 9 3 1 2 2 4 -1
+p587
+aVAaron Williams LAC 12/17/2006 LAC vs. HOU L 13 4 1 2 50.0 0 0 - 2 4 50.0 0 2 2 1 0 0 0 1 2
+p588
+aVCorey Maggette LAC 12/17/2006 LAC vs. HOU L 28 19 7 13 53.8 1 1 100.0 4 4 100.0 0 1 1 1 3 0 3 4 2
+p589
+aVDaniel Ewing LAC 12/17/2006 LAC vs. HOU L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p590
+aVChris Kaman LAC 12/17/2006 LAC vs. HOU L 38 20 7 16 43.8 0 0 - 6 9 66.7 2 9 11 1 0 1 5 6 -10
+p591
+aVTim Thomas LAC 12/17/2006 LAC vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -3
+p592
+aVCuttino Mobley LAC 12/17/2006 LAC vs. HOU L 40 14 5 10 50.0 0 3 0.0 4 5 80.0 0 1 1 6 1 0 1 3 1
+p593
+aVShaun Livingston LAC 12/17/2006 LAC vs. HOU L 43 21 8 16 50.0 1 2 50.0 4 5 80.0 4 5 9 6 2 1 2 3 -7
+p594
+aVQuinton Ross LAC 12/17/2006 LAC vs. HOU L 26 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 0 0 0 3 -11
+p595
+aVDaniel Ewing LAC 12/15/2006 LAC @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p596
+aVChris Kaman LAC 12/15/2006 LAC @ POR L 35 8 4 11 36.4 0 0 - 0 0 - 0 4 4 1 0 1 2 3 -12
+p597
+aVShaun Livingston LAC 12/15/2006 LAC @ POR L 36 16 7 12 58.3 0 1 0.0 2 3 66.7 2 2 4 10 0 2 4 3 -12
+p598
+aVSam Cassell LAC 12/15/2006 LAC @ POR L 11 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 4 0 0 0 1 2
+p599
+aVCuttino Mobley LAC 12/15/2006 LAC @ POR L 25 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 3 0 0 1 3 -8
+p600
+aVQuinton Ross LAC 12/15/2006 LAC @ POR L 33 15 7 8 87.5 0 0 - 1 2 50.0 1 3 4 1 1 0 0 1 -4
+p601
+aVAaron Williams LAC 12/15/2006 LAC @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p602
+aVTim Thomas LAC 12/15/2006 LAC @ POR L 30 8 3 5 60.0 0 2 0.0 2 5 40.0 0 8 8 1 0 2 2 3 -6
+p603
+aVElton Brand LAC 12/15/2006 LAC @ POR L 40 23 9 14 64.3 0 0 - 5 6 83.3 1 9 10 1 1 2 1 4 -6
+p604
+aVCorey Maggette LAC 12/15/2006 LAC @ POR L 28 18 6 11 54.5 0 1 0.0 6 7 85.7 0 1 1 4 0 0 2 2 -4
+p605
+aVAaron Williams LAC 12/13/2006 LAC vs. UTA L 13 4 1 2 50.0 0 0 - 2 2 100.0 4 2 6 0 0 0 0 2 -3
+p606
+aVQuinton Ross LAC 12/13/2006 LAC vs. UTA L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -8
+p607
+aVPaul Davis LAC 12/13/2006 LAC vs. UTA L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -8
+p608
+aVCuttino Mobley LAC 12/13/2006 LAC vs. UTA L 37 11 4 11 36.4 1 2 50.0 2 2 100.0 0 2 2 4 2 1 0 1 -16
+p609
+aVChris Kaman LAC 12/13/2006 LAC vs. UTA L 40 19 4 9 44.4 0 0 - 11 16 68.8 3 7 10 2 0 2 5 2 -13
+p610
+aVDaniel Ewing LAC 12/13/2006 LAC vs. UTA L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 2 0 0 1 -11
+p611
+aVElton Brand LAC 12/13/2006 LAC vs. UTA L 35 20 7 12 58.3 0 0 - 6 7 85.7 3 1 4 1 2 1 6 3 -14
+p612
+aVJames Singleton LAC 12/13/2006 LAC vs. UTA L 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -8
+p613
+aVShaun Livingston LAC 12/13/2006 LAC vs. UTA L 39 14 6 12 50.0 0 0 - 2 4 50.0 0 3 3 8 0 0 2 3 -8
+p614
+aVTim Thomas LAC 12/13/2006 LAC vs. UTA L 41 16 4 14 28.6 2 9 22.2 6 9 66.7 1 6 7 3 1 0 1 5 -6
+p615
+aVPaul Davis LAC 12/11/2006 LAC vs. SAS L 23 15 7 10 70.0 0 0 - 1 1 100.0 3 3 6 1 1 0 2 1 -12
+p616
+aVElton Brand LAC 12/11/2006 LAC vs. SAS L 27 14 5 11 45.5 0 0 - 4 4 100.0 2 8 10 0 1 1 2 4 -17
+p617
+aVCuttino Mobley LAC 12/11/2006 LAC vs. SAS L 33 10 4 11 36.4 0 3 0.0 2 2 100.0 1 2 3 4 0 0 3 1 -13
+p618
+aVYaroslav Korolev LAC 12/11/2006 LAC vs. SAS L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 -7
+p619
+aVShaun Livingston LAC 12/11/2006 LAC vs. SAS L 35 13 6 10 60.0 0 1 0.0 1 2 50.0 1 1 2 8 0 0 4 3 -9
+p620
+aVJames Singleton LAC 12/11/2006 LAC vs. SAS L 20 10 4 9 44.4 0 0 - 2 4 50.0 3 3 6 0 1 0 2 2 -5
+p621
+aVTim Thomas LAC 12/11/2006 LAC vs. SAS L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p622
+aVDaniel Ewing LAC 12/11/2006 LAC vs. SAS L 25 4 1 3 33.3 0 2 0.0 2 4 50.0 0 1 1 0 1 0 1 3 -10
+p623
+aVQuinton Ross LAC 12/11/2006 LAC vs. SAS L 33 11 4 7 57.1 0 0 - 3 4 75.0 0 3 3 1 1 0 0 3 -19
+p624
+aVAaron Williams LAC 12/11/2006 LAC vs. SAS L 17 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 2 1 1 0 0 -10
+p625
+aVSam Cassell LAC 12/11/2006 LAC vs. SAS L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 1 0 2 2 -6
+p626
+aVShaun Livingston LAC 12/09/2006 LAC @ MEM W 36 6 3 10 30.0 0 0 - 0 0 - 1 3 4 9 1 0 1 2 10
+p627
+aVChris Kaman LAC 12/09/2006 LAC @ MEM W 36 12 5 9 55.6 0 0 - 2 3 66.7 1 7 8 1 3 0 3 5 -8
+p628
+aVTim Thomas LAC 12/09/2006 LAC @ MEM W 20 4 1 2 50.0 0 0 - 2 4 50.0 0 4 4 2 0 1 2 3 7
+p629
+aVQuinton Ross LAC 12/09/2006 LAC @ MEM W 25 4 2 9 22.2 0 0 - 0 0 - 2 1 3 1 1 0 3 4 -5
+p630
+aVElton Brand LAC 12/09/2006 LAC @ MEM W 37 26 10 17 58.8 0 0 - 6 6 100.0 1 4 5 2 3 3 3 2 10
+p631
+aVDaniel Ewing LAC 12/09/2006 LAC @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p632
+aVCorey Maggette LAC 12/09/2006 LAC @ MEM W 25 9 2 4 50.0 0 0 - 5 6 83.3 1 6 7 1 3 0 2 3 8
+p633
+aVSam Cassell LAC 12/09/2006 LAC @ MEM W 27 18 7 13 53.8 0 1 0.0 4 4 100.0 1 3 4 3 1 0 3 2 11
+p634
+aVAaron Williams LAC 12/09/2006 LAC @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p635
+aVPaul Davis LAC 12/09/2006 LAC @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p636
+aVCuttino Mobley LAC 12/09/2006 LAC @ MEM W 30 10 2 6 33.3 2 3 66.7 4 5 80.0 0 4 4 1 0 0 1 0 -1
+p637
+aVSam Cassell LAC 12/08/2006 LAC @ SAS L 9 2 1 4 25.0 0 0 - 0 2 0.0 0 0 0 0 1 0 1 1 -6
+p638
+aVCuttino Mobley LAC 12/08/2006 LAC @ SAS L 30 7 3 8 37.5 1 2 50.0 0 0 - 0 1 1 1 0 0 0 3 -28
+p639
+aVTim Thomas LAC 12/08/2006 LAC @ SAS L 17 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 -10
+p640
+aVAaron Williams LAC 12/08/2006 LAC @ SAS L 10 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 1 0 1 1 1 4
+p641
+aVElton Brand LAC 12/08/2006 LAC @ SAS L 29 10 4 11 36.4 0 0 - 2 2 100.0 0 3 3 1 0 3 0 1 -29
+p642
+aVShaun Livingston LAC 12/08/2006 LAC @ SAS L 32 16 8 11 72.7 0 0 - 0 2 0.0 3 2 5 3 0 0 3 2 -28
+p643
+aVDaniel Ewing LAC 12/08/2006 LAC @ SAS L 12 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 2
+p644
+aVJames Singleton LAC 12/08/2006 LAC @ SAS L 14 6 3 7 42.9 0 0 - 0 0 - 2 1 3 1 0 0 0 0 3
+p645
+aVPaul Davis LAC 12/08/2006 LAC @ SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p646
+aVQuinton Ross LAC 12/08/2006 LAC @ SAS L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 -14
+p647
+aVCorey Maggette LAC 12/08/2006 LAC @ SAS L 36 12 5 13 38.5 0 0 - 2 2 100.0 1 7 8 4 2 0 2 3 -15
+p648
+aVChris Kaman LAC 12/08/2006 LAC @ SAS L 31 11 5 14 35.7 0 0 - 1 4 25.0 1 7 8 3 0 0 2 3 -32
+p649
+aVShaun Livingston LAC 12/05/2006 LAC vs. MIA W 33 11 5 11 45.5 0 1 0.0 1 2 50.0 0 0 0 7 0 2 4 2 8
+p650
+aVTim Thomas LAC 12/05/2006 LAC vs. MIA W 26 7 2 6 33.3 1 3 33.3 2 2 100.0 1 6 7 2 1 1 5 5 -1
+p651
+aVQuinton Ross LAC 12/05/2006 LAC vs. MIA W 36 6 3 9 33.3 0 0 - 0 0 - 0 1 1 1 1 4 0 5 2
+p652
+aVCorey Maggette LAC 12/05/2006 LAC vs. MIA W 13 7 2 4 50.0 0 0 - 3 4 75.0 0 6 6 0 0 0 2 3 -1
+p653
+aVChris Kaman LAC 12/05/2006 LAC vs. MIA W 18 4 2 7 28.6 0 0 - 0 2 0.0 2 4 6 0 0 2 1 3 -18
+p654
+aVAaron Williams LAC 12/05/2006 LAC vs. MIA W 11 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 17
+p655
+aVCuttino Mobley LAC 12/05/2006 LAC vs. MIA W 39 21 6 14 42.9 2 6 33.3 7 8 87.5 0 6 6 1 2 1 1 2 7
+p656
+aVSam Cassell LAC 12/05/2006 LAC vs. MIA W 22 8 2 6 33.3 0 0 - 4 4 100.0 0 2 2 8 0 0 1 0 -1
+p657
+aVElton Brand LAC 12/05/2006 LAC vs. MIA W 42 33 13 18 72.2 0 0 - 7 8 87.5 5 12 17 3 0 1 3 2 12
+p658
+aVJames Singleton LAC 12/03/2006 LAC vs. ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p659
+aVCorey Maggette LAC 12/03/2006 LAC vs. ORL W 29 17 4 8 50.0 0 0 - 9 9 100.0 0 4 4 1 1 0 1 3 26
+p660
+aVPaul Davis LAC 12/03/2006 LAC vs. ORL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 4
+p661
+aVAaron Williams LAC 12/03/2006 LAC vs. ORL W 10 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -7
+p662
+aVCuttino Mobley LAC 12/03/2006 LAC vs. ORL W 28 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 2 2 5
+p663
+aVQuinton Ross LAC 12/03/2006 LAC vs. ORL W 21 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 1 1 0 1 17
+p664
+aVShaun Livingston LAC 12/03/2006 LAC vs. ORL W 24 7 3 9 33.3 0 0 - 1 1 100.0 0 5 5 10 0 1 1 1 4
+p665
+aVElton Brand LAC 12/03/2006 LAC vs. ORL W 35 31 12 14 85.7 0 0 - 7 9 77.8 1 5 6 3 1 1 1 3 10
+p666
+aVSam Cassell LAC 12/03/2006 LAC vs. ORL W 22 13 6 8 75.0 0 0 - 1 2 50.0 0 1 1 9 0 0 2 4 19
+p667
+aVDaniel Ewing LAC 12/03/2006 LAC vs. ORL W 3 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 4
+p668
+aVTim Thomas LAC 12/03/2006 LAC vs. ORL W 34 20 7 11 63.6 5 7 71.4 1 2 50.0 0 5 5 2 0 1 1 1 17
+p669
+aVChris Kaman LAC 12/03/2006 LAC vs. ORL W 28 12 5 10 50.0 0 0 - 2 3 66.7 0 6 6 0 2 2 2 3 22
+p670
+aVChris Kaman LAC 12/02/2006 LAC vs. LAL L 27 8 3 8 37.5 0 0 - 2 2 100.0 1 11 12 2 1 1 2 2 -15
+p671
+aVCuttino Mobley LAC 12/02/2006 LAC vs. LAL L 39 17 7 11 63.6 2 2 100.0 1 2 50.0 0 1 1 0 2 0 1 3 2
+p672
+aVShaun Livingston LAC 12/02/2006 LAC vs. LAL L 28 8 2 6 33.3 0 1 0.0 4 4 100.0 0 1 1 2 0 2 1 1 -11
+p673
+aVAaron Williams LAC 12/02/2006 LAC vs. LAL L 9 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 1 0 2 7
+p674
+aVElton Brand LAC 12/02/2006 LAC vs. LAL L 39 17 7 15 46.7 0 0 - 3 6 50.0 5 3 8 3 1 4 3 4 2
+p675
+aVCorey Maggette LAC 12/02/2006 LAC vs. LAL L 25 15 5 9 55.6 0 1 0.0 5 5 100.0 3 5 8 1 1 0 4 5 -10
+p676
+aVSam Cassell LAC 12/02/2006 LAC vs. LAL L 33 16 7 16 43.8 0 3 0.0 2 2 100.0 2 3 5 4 1 0 5 4 -5
+p677
+aVQuinton Ross LAC 12/02/2006 LAC vs. LAL L 21 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 2 1 0 3 -6
+p678
+aVJames Singleton LAC 12/02/2006 LAC vs. LAL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p679
+aVTim Thomas LAC 12/02/2006 LAC vs. LAL L 14 3 1 7 14.3 0 4 0.0 1 2 50.0 0 3 3 1 0 0 2 2 -7
+p680
+aVCuttino Mobley LAC 11/29/2006 LAC vs. MEM W 36 24 11 17 64.7 2 2 100.0 0 0 - 1 6 7 3 1 0 2 1 8
+p681
+aVDaniel Ewing LAC 11/29/2006 LAC vs. MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p682
+aVShaun Livingston LAC 11/29/2006 LAC vs. MEM W 27 8 4 7 57.1 0 0 - 0 0 - 0 3 3 7 0 1 1 1 7
+p683
+aVAaron Williams LAC 11/29/2006 LAC vs. MEM W 19 8 2 3 66.7 0 0 - 4 4 100.0 2 2 4 0 0 2 2 3 2
+p684
+aVCorey Maggette LAC 11/29/2006 LAC vs. MEM W 22 12 4 8 50.0 0 1 0.0 4 7 57.1 0 3 3 1 0 0 1 4 20
+p685
+aVElton Brand LAC 11/29/2006 LAC vs. MEM W 38 20 5 10 50.0 0 0 - 10 12 83.3 4 5 9 0 1 2 2 4 9
+p686
+aVPaul Davis LAC 11/29/2006 LAC vs. MEM W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 1 1 0 1 2 2
+p687
+aVTim Thomas LAC 11/29/2006 LAC vs. MEM W 30 12 5 12 41.7 2 4 50.0 0 0 - 0 4 4 1 0 1 2 2 13
+p688
+aVQuinton Ross LAC 11/29/2006 LAC vs. MEM W 33 11 4 4 100.0 0 0 - 3 4 75.0 1 2 3 3 5 0 0 1 3
+p689
+aVSam Cassell LAC 11/29/2006 LAC vs. MEM W 25 10 2 9 22.2 0 0 - 6 6 100.0 1 3 4 7 0 0 0 1 13
+p690
+aVQuinton Ross LAC 11/28/2006 LAC @ SAC L 12 2 1 7 14.3 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -12
+p691
+aVShaun Livingston LAC 11/28/2006 LAC @ SAC L 39 20 10 16 62.5 0 0 - 0 1 0.0 2 3 5 4 0 0 1 2 -11
+p692
+aVPaul Davis LAC 11/28/2006 LAC @ SAC L 14 7 3 7 42.9 0 0 - 1 1 100.0 3 2 5 0 0 1 0 1 -1
+p693
+aVCorey Maggette LAC 11/28/2006 LAC @ SAC L 21 6 0 9 0.0 0 2 0.0 6 7 85.7 2 1 3 3 1 0 3 4 -11
+p694
+aVJames Singleton LAC 11/28/2006 LAC @ SAC L 23 0 0 5 0.0 0 3 0.0 0 0 - 1 5 6 2 1 3 1 3 -5
+p695
+aVAaron Williams LAC 11/28/2006 LAC @ SAC L 15 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 1 3 1
+p696
+aVDaniel Ewing LAC 11/28/2006 LAC @ SAC L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p697
+aVElton Brand LAC 11/28/2006 LAC @ SAC L 40 13 4 15 26.7 0 0 - 5 5 100.0 8 10 18 1 0 1 2 4 -15
+p698
+aVTim Thomas LAC 11/28/2006 LAC @ SAC L 31 12 4 18 22.2 1 6 16.7 3 3 100.0 1 5 6 1 1 0 0 2 -8
+p699
+aVCuttino Mobley LAC 11/28/2006 LAC @ SAC L 36 16 6 15 40.0 3 4 75.0 1 1 100.0 0 4 4 3 0 0 0 3 -1
+p700
+aVCorey Maggette LAC 11/26/2006 LAC @ DEN L 38 22 6 17 35.3 0 2 0.0 10 10 100.0 6 6 12 1 2 1 5 4 -1
+p701
+aVElton Brand LAC 11/26/2006 LAC @ DEN L 31 16 8 14 57.1 0 0 - 0 1 0.0 3 6 9 3 2 0 4 2 -23
+p702
+aVSam Cassell LAC 11/26/2006 LAC @ DEN L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -13
+p703
+aVJames Singleton LAC 11/26/2006 LAC @ DEN L 32 9 4 9 44.4 1 2 50.0 0 0 - 3 4 7 1 3 1 2 4 1
+p704
+aVCuttino Mobley LAC 11/26/2006 LAC @ DEN L 30 13 5 14 35.7 1 2 50.0 2 2 100.0 3 5 8 0 0 0 2 1 -8
+p705
+aVShaun Livingston LAC 11/26/2006 LAC @ DEN L 29 4 2 8 25.0 0 1 0.0 0 0 - 2 3 5 6 1 0 2 4 -8
+p706
+aVDaniel Ewing LAC 11/26/2006 LAC @ DEN L 13 4 1 5 20.0 0 2 0.0 2 3 66.7 0 0 0 2 1 0 0 0 2
+p707
+aVAaron Williams LAC 11/26/2006 LAC @ DEN L 18 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 1 1 3 -21
+p708
+aVQuinton Ross LAC 11/26/2006 LAC @ DEN L 13 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 3 -6
+p709
+aVTim Thomas LAC 11/26/2006 LAC @ DEN L 27 11 2 9 22.2 2 3 66.7 5 8 62.5 1 0 1 1 3 0 1 0 2
+p710
+aVQuinton Ross LAC 11/25/2006 LAC @ MIN L 27 4 2 6 33.3 0 0 - 0 0 - 2 2 4 2 0 0 1 2 3
+p711
+aVPaul Davis LAC 11/25/2006 LAC @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p712
+aVElton Brand LAC 11/25/2006 LAC @ MIN L 40 21 9 16 56.3 0 0 - 3 6 50.0 2 8 10 4 2 1 2 2 0
+p713
+aVSam Cassell LAC 11/25/2006 LAC @ MIN L 37 31 14 24 58.3 1 3 33.3 2 3 66.7 1 3 4 8 0 0 0 4 1
+p714
+aVAaron Williams LAC 11/25/2006 LAC @ MIN L 34 8 4 5 80.0 0 0 - 0 0 - 1 4 5 0 0 3 2 5 6
+p715
+aVCuttino Mobley LAC 11/25/2006 LAC @ MIN L 39 9 4 10 40.0 1 2 50.0 0 0 - 2 1 3 2 0 0 2 3 5
+p716
+aVDaniel Ewing LAC 11/25/2006 LAC @ MIN L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -3
+p717
+aVCorey Maggette LAC 11/25/2006 LAC @ MIN L 27 18 4 8 50.0 0 0 - 10 10 100.0 2 3 5 4 0 0 2 4 -21
+p718
+aVTim Thomas LAC 11/25/2006 LAC @ MIN L 18 1 0 2 0.0 0 1 0.0 1 4 25.0 1 2 3 0 0 0 2 3 -19
+p719
+aVShaun Livingston LAC 11/25/2006 LAC @ MIN L 11 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 2 1 0 1 2 -9
+p720
+aVTim Thomas LAC 11/22/2006 LAC vs. SEA L 34 15 6 14 42.9 3 9 33.3 0 0 - 0 2 2 3 0 0 0 3 1
+p721
+aVCuttino Mobley LAC 11/22/2006 LAC vs. SEA L 24 9 3 8 37.5 0 1 0.0 3 4 75.0 0 2 2 3 1 0 1 2 -10
+p722
+aVChris Kaman LAC 11/22/2006 LAC vs. SEA L 41 12 5 10 50.0 0 0 - 2 4 50.0 3 11 14 0 0 0 4 3 -7
+p723
+aVCorey Maggette LAC 11/22/2006 LAC vs. SEA L 19 10 3 7 42.9 0 1 0.0 4 6 66.7 0 2 2 0 0 0 2 3 -1
+p724
+aVShaun Livingston LAC 11/22/2006 LAC vs. SEA L 16 8 3 7 42.9 0 1 0.0 2 2 100.0 1 1 2 1 1 0 0 3 9
+p725
+aVDaniel Ewing LAC 11/22/2006 LAC vs. SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p726
+aVSam Cassell LAC 11/22/2006 LAC vs. SEA L 31 13 5 13 38.5 0 0 - 3 4 75.0 0 2 2 4 0 0 3 0 -19
+p727
+aVElton Brand LAC 11/22/2006 LAC vs. SEA L 42 7 3 12 25.0 0 0 - 1 2 50.0 4 12 16 6 0 4 0 0 -13
+p728
+aVQuinton Ross LAC 11/22/2006 LAC vs. SEA L 32 11 4 7 57.1 0 1 0.0 3 4 75.0 0 0 0 1 1 0 1 2 -10
+p729
+aVSam Cassell LAC 11/21/2006 LAC @ LAL L 31 18 7 15 46.7 0 1 0.0 4 4 100.0 2 2 4 5 2 0 2 2 -3
+p730
+aVQuinton Ross LAC 11/21/2006 LAC @ LAL L 31 11 5 7 71.4 1 1 100.0 0 0 - 2 0 2 1 2 1 1 5 -12
+p731
+aVTim Thomas LAC 11/21/2006 LAC @ LAL L 24 7 3 8 37.5 1 4 25.0 0 0 - 1 7 8 2 0 0 2 4 1
+p732
+aVCorey Maggette LAC 11/21/2006 LAC @ LAL L 30 20 6 14 42.9 0 1 0.0 8 11 72.7 1 5 6 2 1 0 1 6 6
+p733
+aVElton Brand LAC 11/21/2006 LAC @ LAL L 41 20 9 19 47.4 0 0 - 2 3 66.7 5 10 15 3 0 1 3 5 2
+p734
+aVChris Kaman LAC 11/21/2006 LAC @ LAL L 32 12 5 12 41.7 0 0 - 2 3 66.7 4 6 10 0 1 4 5 6 -3
+p735
+aVShaun Livingston LAC 11/21/2006 LAC @ LAL L 19 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 1 1 1 1 1 -3
+p736
+aVCuttino Mobley LAC 11/21/2006 LAC @ LAL L 32 4 2 4 50.0 0 0 - 0 0 - 0 2 2 5 1 0 3 4 -8
+p737
+aVShaun Livingston LAC 11/18/2006 LAC vs. PHI W 23 2 1 3 33.3 0 0 - 0 0 - 1 4 5 3 0 1 6 3 1
+p738
+aVQuinton Ross LAC 11/18/2006 LAC vs. PHI W 47 14 6 8 75.0 0 0 - 2 2 100.0 1 3 4 1 1 4 0 1 6
+p739
+aVTim Thomas LAC 11/18/2006 LAC vs. PHI W 27 8 4 6 66.7 0 0 - 0 0 - 2 4 6 5 0 0 1 5 9
+p740
+aVCorey Maggette LAC 11/18/2006 LAC vs. PHI W 33 21 5 12 41.7 0 4 0.0 11 13 84.6 1 7 8 1 1 1 4 2 14
+p741
+aVElton Brand LAC 11/18/2006 LAC vs. PHI W 49 33 11 19 57.9 0 0 - 11 14 78.6 5 7 12 0 5 1 3 4 4
+p742
+aVSam Cassell LAC 11/18/2006 LAC vs. PHI W 29 12 3 14 21.4 0 2 0.0 6 7 85.7 1 3 4 9 0 0 4 4 5
+p743
+aVChris Kaman LAC 11/18/2006 LAC vs. PHI W 23 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 2 -7
+p744
+aVCuttino Mobley LAC 11/18/2006 LAC vs. PHI W 34 7 3 8 37.5 0 1 0.0 1 2 50.0 1 5 6 3 3 0 4 2 -2
+p745
+aVShaun Livingston LAC 11/14/2006 LAC @ UTA L 22 0 0 4 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -15
+p746
+aVPaul Davis LAC 11/14/2006 LAC @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p747
+aVCuttino Mobley LAC 11/14/2006 LAC @ UTA L 40 18 8 12 66.7 0 0 - 2 4 50.0 0 2 2 2 2 0 3 3 -10
+p748
+aVChris Kaman LAC 11/14/2006 LAC @ UTA L 19 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 0 0 2 2 6 1
+p749
+aVTim Thomas LAC 11/14/2006 LAC @ UTA L 31 12 4 10 40.0 1 2 50.0 3 6 50.0 1 8 9 2 0 2 2 3 -24
+p750
+aVAaron Williams LAC 11/14/2006 LAC @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 2
+p751
+aVSam Cassell LAC 11/14/2006 LAC @ UTA L 31 12 6 14 42.9 0 2 0.0 0 0 - 0 5 5 5 0 0 1 3 -16
+p752
+aVDaniel Ewing LAC 11/14/2006 LAC @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p753
+aVJames Singleton LAC 11/14/2006 LAC @ UTA L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -2
+p754
+aVElton Brand LAC 11/14/2006 LAC @ UTA L 36 16 6 11 54.5 0 0 - 4 7 57.1 2 4 6 0 0 2 3 2 -19
+p755
+aVCorey Maggette LAC 11/14/2006 LAC @ UTA L 24 17 3 10 30.0 1 3 33.3 10 11 90.9 0 3 3 2 0 0 5 5 -18
+p756
+aVQuinton Ross LAC 11/14/2006 LAC @ UTA L 26 11 3 4 75.0 0 0 - 5 6 83.3 0 1 1 3 2 1 0 3 -4
+p757
+aVElton Brand LAC 11/12/2006 LAC vs. NOK W 39 22 8 12 66.7 0 0 - 6 9 66.7 6 4 10 4 3 2 2 4 11
+p758
+aVQuinton Ross LAC 11/12/2006 LAC vs. NOK W 36 12 4 10 40.0 0 0 - 4 4 100.0 1 3 4 0 3 0 1 2 8
+p759
+aVChris Kaman LAC 11/12/2006 LAC vs. NOK W 27 4 0 3 0.0 0 0 - 4 4 100.0 2 4 6 0 0 1 1 0 1
+p760
+aVTim Thomas LAC 11/12/2006 LAC vs. NOK W 29 12 4 10 40.0 4 8 50.0 0 0 - 1 6 7 3 1 0 1 4 22
+p761
+aVCorey Maggette LAC 11/12/2006 LAC vs. NOK W 21 14 4 9 44.4 0 1 0.0 6 6 100.0 3 2 5 1 0 0 2 4 16
+p762
+aVShaun Livingston LAC 11/12/2006 LAC vs. NOK W 22 4 2 6 33.3 0 0 - 0 0 - 0 0 0 6 0 0 2 2 4
+p763
+aVSam Cassell LAC 11/12/2006 LAC vs. NOK W 37 13 5 15 33.3 1 3 33.3 2 2 100.0 0 2 2 4 2 1 2 4 16
+p764
+aVCuttino Mobley LAC 11/12/2006 LAC vs. NOK W 29 11 5 12 41.7 1 3 33.3 0 0 - 0 1 1 1 1 0 4 1 2
+p765
+aVCuttino Mobley LAC 11/08/2006 LAC vs. DAL W 38 28 10 15 66.7 2 3 66.7 6 7 85.7 1 6 7 3 4 1 0 0 22
+p766
+aVCorey Maggette LAC 11/08/2006 LAC vs. DAL W 31 12 5 13 38.5 0 1 0.0 2 2 100.0 2 10 12 1 0 0 3 1 10
+p767
+aVJames Singleton LAC 11/08/2006 LAC vs. DAL W 7 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 0 1 0 1 3
+p768
+aVPaul Davis LAC 11/08/2006 LAC vs. DAL W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 3
+p769
+aVElton Brand LAC 11/08/2006 LAC vs. DAL W 35 13 5 13 38.5 0 0 - 3 7 42.9 3 9 12 2 1 0 1 2 17
+p770
+aVChris Kaman LAC 11/08/2006 LAC vs. DAL W 11 4 2 9 22.2 0 0 - 0 0 - 1 1 2 0 0 0 2 3 -12
+p771
+aVSam Cassell LAC 11/08/2006 LAC vs. DAL W 37 21 8 15 53.3 0 2 0.0 5 6 83.3 0 4 4 9 1 0 1 4 18
+p772
+aVQuinton Ross LAC 11/08/2006 LAC vs. DAL W 32 8 4 5 80.0 0 0 - 0 0 - 3 1 4 1 0 1 1 2 14
+p773
+aVTim Thomas LAC 11/08/2006 LAC vs. DAL W 16 4 2 5 40.0 0 2 0.0 0 0 - 1 2 3 1 0 0 1 3 -1
+p774
+aVShaun Livingston LAC 11/08/2006 LAC vs. DAL W 31 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 3 2 2 0 2 16
+p775
+aVShaun Livingston LAC 11/06/2006 LAC vs. POR W 33 8 3 8 37.5 0 0 - 2 2 100.0 4 2 6 6 1 1 2 3 6
+p776
+aVElton Brand LAC 11/06/2006 LAC vs. POR W 33 8 2 8 25.0 0 0 - 4 6 66.7 1 3 4 4 2 5 2 3 10
+p777
+aVTim Thomas LAC 11/06/2006 LAC vs. POR W 22 5 2 7 28.6 1 5 20.0 0 0 - 0 3 3 2 1 2 1 4 9
+p778
+aVChris Kaman LAC 11/06/2006 LAC vs. POR W 31 15 6 13 46.2 0 0 - 3 4 75.0 5 4 9 2 1 1 3 5 5
+p779
+aVCuttino Mobley LAC 11/06/2006 LAC vs. POR W 32 17 7 12 58.3 1 1 100.0 2 2 100.0 1 2 3 2 1 2 1 3 13
+p780
+aVSam Cassell LAC 11/06/2006 LAC vs. POR W 32 16 5 10 50.0 0 1 0.0 6 7 85.7 1 3 4 7 1 0 1 2 6
+p781
+aVCorey Maggette LAC 11/06/2006 LAC vs. POR W 28 20 7 14 50.0 0 2 0.0 6 9 66.7 3 6 9 0 1 0 2 0 2
+p782
+aVQuinton Ross LAC 11/06/2006 LAC vs. POR W 29 13 5 10 50.0 0 0 - 3 5 60.0 3 4 7 2 2 0 0 2 14
+p783
+aVSam Cassell LAC 11/04/2006 LAC vs. PHX W 28 23 6 15 40.0 0 3 0.0 11 11 100.0 0 2 2 2 0 0 4 4 -5
+p784
+aVShaun Livingston LAC 11/04/2006 LAC vs. PHX W 28 14 4 9 44.4 0 0 - 6 9 66.7 0 4 4 9 0 1 2 4 3
+p785
+aVElton Brand LAC 11/04/2006 LAC vs. PHX W 36 15 6 10 60.0 0 0 - 3 7 42.9 3 7 10 2 1 3 0 2 -10
+p786
+aVChris Kaman LAC 11/04/2006 LAC vs. PHX W 23 11 2 4 50.0 0 0 - 7 10 70.0 2 3 5 0 0 0 1 5 20
+p787
+aVDaniel Ewing LAC 11/04/2006 LAC vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p788
+aVQuinton Ross LAC 11/04/2006 LAC vs. PHX W 18 2 1 3 33.3 0 0 - 0 1 0.0 0 2 2 0 0 0 0 4 -2
+p789
+aVCorey Maggette LAC 11/04/2006 LAC vs. PHX W 30 23 10 17 58.8 1 4 25.0 2 5 40.0 3 9 12 1 1 0 1 1 18
+p790
+aVCuttino Mobley LAC 11/04/2006 LAC vs. PHX W 40 18 8 17 47.1 0 1 0.0 2 2 100.0 2 4 6 2 0 0 0 0 -2
+p791
+aVTim Thomas LAC 11/04/2006 LAC vs. PHX W 32 8 4 12 33.3 0 4 0.0 0 0 - 3 10 13 5 0 2 1 3 5
+p792
+aVChris Kaman LAC 11/02/2006 LAC vs. DEN W 35 6 3 8 37.5 0 0 - 0 0 - 3 5 8 3 1 1 1 3 7
+p793
+aVCorey Maggette LAC 11/02/2006 LAC vs. DEN W 29 13 3 6 50.0 0 2 0.0 7 10 70.0 0 7 7 2 0 0 2 3 5
+p794
+aVShaun Livingston LAC 11/02/2006 LAC vs. DEN W 14 0 0 3 0.0 0 0 - 0 2 0.0 0 1 1 3 2 3 4 2 -11
+p795
+aVDaniel Ewing LAC 11/02/2006 LAC vs. DEN W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 1
+p796
+aVPaul Davis LAC 11/02/2006 LAC vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p797
+aVSam Cassell LAC 11/02/2006 LAC vs. DEN W 36 35 13 24 54.2 2 4 50.0 7 7 100.0 0 6 6 6 0 0 2 4 15
+p798
+aVCuttino Mobley LAC 11/02/2006 LAC vs. DEN W 28 9 2 9 22.2 0 1 0.0 5 6 83.3 1 1 2 0 0 0 2 3 -11
+p799
+aVQuinton Ross LAC 11/02/2006 LAC vs. DEN W 17 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 0 0 4 3
+p800
+aVElton Brand LAC 11/02/2006 LAC vs. DEN W 41 8 4 9 44.4 0 0 - 0 0 - 0 6 6 2 0 2 4 3 -1
+p801
+aVJames Singleton LAC 11/02/2006 LAC vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p802
+aVTim Thomas LAC 11/02/2006 LAC vs. DEN W 31 21 8 17 47.1 5 11 45.5 0 1 0.0 0 4 4 3 1 0 2 3 -1
+p803
+aVTim Thomas LAC 11/01/2006 LAC @ PHX L 30 9 2 8 25.0 1 2 50.0 4 4 100.0 0 8 8 1 0 0 1 5 9
+p804
+aVCorey Maggette LAC 11/01/2006 LAC @ PHX L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -9
+p805
+aVElton Brand LAC 11/01/2006 LAC @ PHX L 41 28 13 22 59.1 0 0 - 2 2 100.0 8 5 13 2 1 2 3 3 0
+p806
+aVShaun Livingston LAC 11/01/2006 LAC @ PHX L 39 14 4 13 30.8 2 2 100.0 4 4 100.0 2 2 4 3 1 1 3 5 -15
+p807
+aVQuinton Ross LAC 11/01/2006 LAC @ PHX L 34 10 3 7 42.9 0 0 - 4 4 100.0 1 3 4 0 1 0 1 3 -11
+p808
+aVChris Kaman LAC 11/01/2006 LAC @ PHX L 23 9 4 9 44.4 0 0 - 1 2 50.0 4 5 9 0 2 0 1 2 -13
+p809
+aVSam Cassell LAC 11/01/2006 LAC @ PHX L 22 17 6 14 42.9 0 2 0.0 5 6 83.3 1 2 3 4 0 0 0 4 6
+p810
+aVCuttino Mobley LAC 11/01/2006 LAC @ PHX L 45 17 6 14 42.9 1 3 33.3 4 7 57.1 1 1 2 2 0 0 4 3 -7
+p811
+a.

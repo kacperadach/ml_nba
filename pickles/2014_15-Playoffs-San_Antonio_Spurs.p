@@ -1,0 +1,166 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMatt Bonner SAS 05/02/2015 SAS @ LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p2
+aVDanny Green SAS 05/02/2015 SAS @ LAC L 35 16 6 12 50.0 3 7 42.9 1 1 100.0 2 6 8 3 2 5 0 4 4
+p3
+aVTony Parker SAS 05/02/2015 SAS @ LAC L 34 20 10 21 47.6 0 1 0.0 0 0 - 1 4 5 5 1 0 3 3 -8
+p4
+aVKawhi Leonard SAS 05/02/2015 SAS @ LAC L 33 13 5 13 38.5 1 4 25.0 2 2 100.0 2 8 10 1 0 0 1 4 -6
+p5
+aVTiago Splitter SAS 05/02/2015 SAS @ LAC L 22 5 2 3 66.7 0 0 - 1 3 33.3 0 3 3 1 2 1 0 2 10
+p6
+aVMarco Belinelli SAS 05/02/2015 SAS @ LAC L 18 2 0 2 0.0 0 2 0.0 2 2 100.0 0 2 2 4 0 0 1 3 5
+p7
+aVBoris Diaw SAS 05/02/2015 SAS @ LAC L 27 12 5 11 45.5 2 3 66.7 0 1 0.0 3 1 4 3 0 0 3 1 -9
+p8
+aVTim Duncan SAS 05/02/2015 SAS @ LAC L 37 27 11 16 68.8 0 0 - 5 8 62.5 4 7 11 1 0 0 0 3 -7
+p9
+aVManu Ginobili SAS 05/02/2015 SAS @ LAC L 18 8 2 5 40.0 2 4 50.0 2 3 66.7 0 2 2 7 1 0 2 3 -2
+p10
+aVPatty Mills SAS 05/02/2015 SAS @ LAC L 16 6 2 6 33.3 2 4 50.0 0 0 - 1 0 1 1 1 0 0 0 3
+p11
+aVKawhi Leonard SAS 04/30/2015 SAS vs. LAC L 40 12 3 15 20.0 1 3 33.3 5 6 83.3 1 6 7 2 0 0 4 2 -19
+p12
+aVManu Ginobili SAS 04/30/2015 SAS vs. LAC L 14 3 1 6 16.7 1 3 33.3 0 0 - 1 0 1 1 0 1 0 3 -4
+p13
+aVPatty Mills SAS 04/30/2015 SAS vs. LAC L 18 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 3 0 0 1 1 11
+p14
+aVTim Duncan SAS 04/30/2015 SAS vs. LAC L 32 12 6 9 66.7 0 0 - 0 2 0.0 3 10 13 3 0 0 1 4 0
+p15
+aVMarco Belinelli SAS 04/30/2015 SAS vs. LAC L 22 23 7 12 58.3 7 11 63.6 2 3 66.7 0 2 2 1 1 0 0 4 13
+p16
+aVMatt Bonner SAS 04/30/2015 SAS vs. LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p17
+aVTony Parker SAS 04/30/2015 SAS vs. LAC L 30 8 4 12 33.3 0 0 - 0 0 - 0 4 4 7 0 0 2 4 -17
+p18
+aVBoris Diaw SAS 04/30/2015 SAS vs. LAC L 28 17 8 12 66.7 1 4 25.0 0 0 - 2 2 4 5 1 0 3 5 -1
+p19
+aVTiago Splitter SAS 04/30/2015 SAS vs. LAC L 28 9 3 6 50.0 0 0 - 3 8 37.5 5 5 10 3 0 0 1 2 -6
+p20
+aVDanny Green SAS 04/30/2015 SAS vs. LAC L 26 7 3 9 33.3 1 5 20.0 0 0 - 0 0 0 1 1 1 1 2 -5
+p21
+aVManu Ginobili SAS 04/28/2015 SAS @ LAC W 18 14 3 8 37.5 2 4 50.0 6 6 100.0 1 2 3 6 0 1 4 0 5
+p22
+aVMarco Belinelli SAS 04/28/2015 SAS @ LAC W 16 8 2 3 66.7 2 2 100.0 2 2 100.0 0 1 1 2 0 0 2 0 9
+p23
+aVDanny Green SAS 04/28/2015 SAS @ LAC W 34 9 3 9 33.3 1 5 20.0 2 3 66.7 2 0 2 3 0 0 0 1 -4
+p24
+aVTony Parker SAS 04/28/2015 SAS @ LAC W 33 13 5 15 33.3 0 1 0.0 3 5 60.0 2 3 5 3 0 0 2 1 2
+p25
+aVBoris Diaw SAS 04/28/2015 SAS @ LAC W 24 10 4 7 57.1 1 2 50.0 1 2 50.0 1 6 7 0 1 0 1 5 13
+p26
+aVKawhi Leonard SAS 04/28/2015 SAS @ LAC W 36 18 5 16 31.3 0 3 0.0 8 10 80.0 2 7 9 3 0 0 2 5 -10
+p27
+aVPatty Mills SAS 04/28/2015 SAS @ LAC W 15 13 4 5 80.0 4 4 100.0 1 1 100.0 0 4 4 0 0 0 2 4 2
+p28
+aVAron Baynes SAS 04/28/2015 SAS @ LAC W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 6 9
+p29
+aVTiago Splitter SAS 04/28/2015 SAS @ LAC W 9 2 1 2 50.0 0 0 - 0 2 0.0 1 0 1 0 0 0 1 3 -13
+p30
+aVMatt Bonner SAS 04/28/2015 SAS @ LAC W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 4 7
+p31
+aVTim Duncan SAS 04/28/2015 SAS @ LAC W 38 21 8 13 61.5 0 0 - 5 6 83.3 2 9 11 4 3 1 1 3 0
+p32
+aVTiago Splitter SAS 04/26/2015 SAS vs. LAC L 18 0 0 5 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 4 -4
+p33
+aVTim Duncan SAS 04/26/2015 SAS vs. LAC L 38 22 8 13 61.5 0 0 - 6 10 60.0 4 10 14 3 2 3 2 6 -8
+p34
+aVTony Parker SAS 04/26/2015 SAS vs. LAC L 29 18 7 15 46.7 0 3 0.0 4 8 50.0 0 2 2 1 0 0 0 1 -1
+p35
+aVAron Baynes SAS 04/26/2015 SAS vs. LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p36
+aVMatt Bonner SAS 04/26/2015 SAS vs. LAC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 1
+p37
+aVPatty Mills SAS 04/26/2015 SAS vs. LAC L 20 14 4 10 40.0 2 5 40.0 4 4 100.0 0 3 3 2 0 0 1 3 -7
+p38
+aVJeff Ayres SAS 04/26/2015 SAS vs. LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p39
+aVDanny Green SAS 04/26/2015 SAS vs. LAC L 28 0 0 6 0.0 0 6 0.0 0 0 - 0 2 2 2 0 0 1 1 -5
+p40
+aVBoris Diaw SAS 04/26/2015 SAS vs. LAC L 31 10 4 7 57.1 0 1 0.0 2 2 100.0 2 5 7 3 0 0 0 4 -11
+p41
+aVCory Joseph SAS 04/26/2015 SAS vs. LAC L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p42
+aVKawhi Leonard SAS 04/26/2015 SAS vs. LAC L 40 26 10 19 52.6 3 6 50.0 3 4 75.0 2 5 7 5 0 1 0 1 -3
+p43
+aVManu Ginobili SAS 04/26/2015 SAS vs. LAC L 22 10 3 6 50.0 1 2 50.0 3 4 75.0 1 2 3 3 1 1 3 3 -15
+p44
+aVMarco Belinelli SAS 04/26/2015 SAS vs. LAC L 6 3 0 2 0.0 0 2 0.0 3 3 100.0 1 1 2 1 0 0 0 0 -1
+p45
+aVAron Baynes SAS 04/24/2015 SAS vs. LAC W 7 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 0 -3
+p46
+aVMatt Bonner SAS 04/24/2015 SAS vs. LAC W 16 3 1 5 20.0 1 5 20.0 0 0 - 0 2 2 1 0 0 1 1 1
+p47
+aVCory Joseph SAS 04/24/2015 SAS vs. LAC W 8 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p48
+aVTony Parker SAS 04/24/2015 SAS vs. LAC W 26 6 3 11 27.3 0 2 0.0 0 0 - 0 3 3 3 0 0 2 1 23
+p49
+aVMarco Belinelli SAS 04/24/2015 SAS vs. LAC W 16 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 -3
+p50
+aVJeff Ayres SAS 04/24/2015 SAS vs. LAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 0 0 0 0 0
+p51
+aVBoris Diaw SAS 04/24/2015 SAS vs. LAC W 23 15 5 8 62.5 0 1 0.0 5 6 83.3 1 5 6 3 1 1 1 3 18
+p52
+aVManu Ginobili SAS 04/24/2015 SAS vs. LAC W 17 2 1 2 50.0 0 0 - 0 0 - 0 6 6 6 0 2 2 2 10
+p53
+aVKawhi Leonard SAS 04/24/2015 SAS vs. LAC W 28 32 13 18 72.2 3 5 60.0 3 3 100.0 2 2 4 1 3 2 1 1 20
+p54
+aVPatty Mills SAS 04/24/2015 SAS vs. LAC W 15 6 2 5 40.0 2 4 50.0 0 0 - 1 2 3 0 0 0 0 1 7
+p55
+aVDanny Green SAS 04/24/2015 SAS vs. LAC W 29 11 4 8 50.0 3 6 50.0 0 0 - 1 5 6 2 3 0 1 1 33
+p56
+aVTiago Splitter SAS 04/24/2015 SAS vs. LAC W 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 1 0 2 2 9
+p57
+aVTim Duncan SAS 04/24/2015 SAS vs. LAC W 31 4 2 6 33.3 0 0 - 0 2 0.0 1 6 7 4 1 3 1 1 23
+p58
+aVPatty Mills SAS 04/22/2015 SAS @ LAC W 19 18 5 9 55.6 2 5 40.0 6 6 100.0 1 2 3 1 1 0 0 4 5
+p59
+aVDanny Green SAS 04/22/2015 SAS @ LAC W 29 9 3 6 50.0 3 4 75.0 0 0 - 0 1 1 2 0 1 0 3 10
+p60
+aVMarco Belinelli SAS 04/22/2015 SAS @ LAC W 19 9 3 8 37.5 1 6 16.7 2 3 66.7 1 2 3 0 1 0 1 2 -8
+p61
+aVTony Parker SAS 04/22/2015 SAS @ LAC W 30 1 0 6 0.0 0 0 - 1 2 50.0 1 1 2 5 1 0 0 3 7
+p62
+aVMatt Bonner SAS 04/22/2015 SAS @ LAC W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 8
+p63
+aVTim Duncan SAS 04/22/2015 SAS @ LAC W 44 28 14 23 60.9 0 1 0.0 0 1 0.0 1 10 11 4 2 1 1 5 9
+p64
+aVKawhi Leonard SAS 04/22/2015 SAS @ LAC W 39 23 9 16 56.3 2 3 66.7 3 4 75.0 2 7 9 3 1 1 3 2 4
+p65
+aVTiago Splitter SAS 04/22/2015 SAS @ LAC W 19 2 0 1 0.0 0 0 - 2 4 50.0 2 5 7 2 0 0 2 1 -2
+p66
+aVBoris Diaw SAS 04/22/2015 SAS @ LAC W 37 12 6 14 42.9 0 2 0.0 0 0 - 2 7 9 6 2 1 0 4 -7
+p67
+aVCory Joseph SAS 04/22/2015 SAS @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p68
+aVManu Ginobili SAS 04/22/2015 SAS @ LAC W 22 9 2 6 33.3 0 3 0.0 5 6 83.3 0 2 2 3 0 1 2 6 -2
+p69
+aVMarco Belinelli SAS 04/19/2015 SAS @ LAC L 19 11 4 7 57.1 3 6 50.0 0 0 - 0 2 2 1 0 0 1 0 5
+p70
+aVAron Baynes SAS 04/19/2015 SAS @ LAC L 20 5 2 7 28.6 0 0 - 1 1 100.0 2 3 5 1 0 0 1 3 -15
+p71
+aVTiago Splitter SAS 04/19/2015 SAS @ LAC L 10 4 2 5 40.0 0 0 - 0 2 0.0 3 0 3 1 1 0 0 3 -10
+p72
+aVKawhi Leonard SAS 04/19/2015 SAS @ LAC L 33 18 7 12 58.3 1 2 50.0 3 6 50.0 2 4 6 3 4 0 4 3 -21
+p73
+aVBoris Diaw SAS 04/19/2015 SAS @ LAC L 28 5 2 12 16.7 0 5 0.0 1 2 50.0 2 4 6 5 0 1 1 2 -9
+p74
+aVMatt Bonner SAS 04/19/2015 SAS @ LAC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 2
+p75
+aVTim Duncan SAS 04/19/2015 SAS @ LAC L 30 11 4 10 40.0 0 0 - 3 5 60.0 4 7 11 4 1 2 1 4 0
+p76
+aVManu Ginobili SAS 04/19/2015 SAS @ LAC L 19 10 3 10 30.0 2 6 33.3 2 4 50.0 1 6 7 6 2 0 1 2 -5
+p77
+aVJeff Ayres SAS 04/19/2015 SAS @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p78
+aVCory Joseph SAS 04/19/2015 SAS @ LAC L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -18
+p79
+aVTony Parker SAS 04/19/2015 SAS @ LAC L 29 10 4 11 36.4 0 2 0.0 2 2 100.0 0 2 2 1 0 0 2 1 -12
+p80
+aVPatty Mills SAS 04/19/2015 SAS @ LAC L 11 9 3 5 60.0 3 4 75.0 0 0 - 1 1 2 1 0 0 1 2 15
+p81
+aVDanny Green SAS 04/19/2015 SAS @ LAC L 22 6 2 11 18.2 1 7 14.3 1 2 50.0 2 1 3 2 1 0 2 0 -9
+p82
+a.

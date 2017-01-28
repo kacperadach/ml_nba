@@ -1,0 +1,98 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVin Baker SEA 05/05/2000 SEA @ UTA L 31 17 8 15 53.3 0 0 - 1 2 50.0 1 1 2 3 0 0 1 4 11
+p2
+aVRashard Lewis SEA 05/05/2000 SEA @ UTA L 42 20 7 17 41.2 3 5 60.0 3 4 75.0 4 3 7 0 2 0 3 2 1
+p3
+aVGreg Foster SEA 05/05/2000 SEA @ UTA L 12 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 0 0 0 2 3 -10
+p4
+aVShammond Williams SEA 05/05/2000 SEA @ UTA L 4 5 1 1 100.0 0 0 - 3 3 100.0 0 0 0 1 0 0 0 0 2
+p5
+aVChuck Person SEA 05/05/2000 SEA @ UTA L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p6
+aVGary Payton SEA 05/05/2000 SEA @ UTA L 47 27 12 25 48.0 3 5 60.0 0 0 - 2 4 6 9 0 0 1 4 -3
+p7
+aVRuben Patterson SEA 05/05/2000 SEA @ UTA L 23 15 5 8 62.5 0 0 - 5 5 100.0 1 3 4 1 1 0 1 1 3
+p8
+aVHorace Grant SEA 05/05/2000 SEA @ UTA L 39 2 1 3 33.3 0 0 - 0 0 - 2 5 7 1 2 1 0 1 -14
+p9
+aVBrent Barry SEA 05/05/2000 SEA @ UTA L 38 4 1 8 12.5 0 4 0.0 2 3 66.7 0 7 7 4 0 0 2 3 -7
+p10
+aVGary Payton SEA 05/03/2000 SEA vs. UTA W 41 35 11 23 47.8 3 7 42.9 10 11 90.9 2 8 10 11 6 0 4 4 10
+p11
+aVVin Baker SEA 05/03/2000 SEA vs. UTA W 42 18 9 20 45.0 0 0 - 0 1 0.0 3 6 9 2 2 0 2 3 14
+p12
+aVRuben Patterson SEA 05/03/2000 SEA vs. UTA W 16 2 0 4 0.0 0 1 0.0 2 2 100.0 3 1 4 0 0 1 2 1 16
+p13
+aVShammond Williams SEA 05/03/2000 SEA vs. UTA W 9 3 1 4 25.0 1 1 100.0 0 0 - 1 0 1 2 0 0 0 1 -2
+p14
+aVHorace Grant SEA 05/03/2000 SEA vs. UTA W 41 6 3 7 42.9 0 0 - 0 0 - 2 4 6 4 2 3 0 3 3
+p15
+aVGreg Foster SEA 05/03/2000 SEA vs. UTA W 12 4 2 3 66.7 0 1 0.0 0 0 - 0 4 4 1 0 0 0 4 5
+p16
+aVBrent Barry SEA 05/03/2000 SEA vs. UTA W 38 16 5 12 41.7 2 7 28.6 4 5 80.0 2 2 4 3 1 0 2 6 5
+p17
+aVRashard Lewis SEA 05/03/2000 SEA vs. UTA W 37 20 8 15 53.3 2 6 33.3 2 4 50.0 1 3 4 1 1 2 2 1 4
+p18
+aVHorace Grant SEA 04/29/2000 SEA vs. UTA W 43 10 4 7 57.1 0 0 - 2 2 100.0 1 7 8 1 4 1 0 4 4
+p19
+aVVin Baker SEA 04/29/2000 SEA vs. UTA W 39 15 4 9 44.4 0 0 - 7 12 58.3 5 6 11 1 0 1 5 4 19
+p20
+aVGreg Foster SEA 04/29/2000 SEA vs. UTA W 11 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 3
+p21
+aVRashard Lewis SEA 04/29/2000 SEA vs. UTA W 36 14 4 9 44.4 3 5 60.0 3 4 75.0 2 8 10 2 1 1 2 1 7
+p22
+aVGary Payton SEA 04/29/2000 SEA vs. UTA W 48 23 8 24 33.3 0 4 0.0 7 12 58.3 1 6 7 10 1 0 3 5 11
+p23
+aVRuben Patterson SEA 04/29/2000 SEA vs. UTA W 21 13 5 8 62.5 0 1 0.0 3 3 100.0 3 2 5 0 0 1 2 2 9
+p24
+aVShammond Williams SEA 04/29/2000 SEA vs. UTA W 15 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 2 1 0 2 0 0
+p25
+aVBrent Barry SEA 04/29/2000 SEA vs. UTA W 22 7 2 6 33.3 2 4 50.0 1 1 100.0 1 0 1 4 0 3 3 6 6
+p26
+aVJelani McCoy SEA 04/29/2000 SEA vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p27
+aVBrent Barry SEA 04/24/2000 SEA @ UTA L 23 4 1 2 50.0 1 2 50.0 1 2 50.0 0 0 0 2 1 0 0 1 -12
+p28
+aVGary Payton SEA 04/24/2000 SEA @ UTA L 36 20 8 12 66.7 2 3 66.7 2 2 100.0 0 4 4 1 2 0 7 2 -27
+p29
+aVLazaro Borrell SEA 04/24/2000 SEA @ UTA L 11 4 2 4 50.0 0 0 - 0 0 - 0 5 5 0 0 0 0 1 10
+p30
+aVJelani McCoy SEA 04/24/2000 SEA @ UTA L 15 2 1 3 33.3 0 0 - 0 2 0.0 0 5 5 1 0 0 0 4 10
+p31
+aVHorace Grant SEA 04/24/2000 SEA @ UTA L 30 0 0 5 0.0 0 0 - 0 2 0.0 3 2 5 2 0 0 0 0 -27
+p32
+aVGreg Foster SEA 04/24/2000 SEA @ UTA L 19 9 3 6 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 3 1
+p33
+aVVin Baker SEA 04/24/2000 SEA @ UTA L 30 10 5 13 38.5 0 0 - 0 0 - 2 5 7 2 3 0 6 4 -13
+p34
+aVRashard Lewis SEA 04/24/2000 SEA @ UTA L 22 19 5 11 45.5 1 2 50.0 8 8 100.0 2 3 5 0 1 0 0 2 -10
+p35
+aVShammond Williams SEA 04/24/2000 SEA @ UTA L 38 15 6 11 54.5 1 2 50.0 2 4 50.0 0 6 6 10 4 0 3 1 -6
+p36
+aVChuck Person SEA 04/24/2000 SEA @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p37
+aVRuben Patterson SEA 04/24/2000 SEA @ UTA L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 1 0 2 0 3
+p38
+aVBrent Barry SEA 04/22/2000 SEA @ UTA L 32 11 3 5 60.0 3 3 100.0 2 3 66.7 0 1 1 2 1 0 0 4 -6
+p39
+aVHorace Grant SEA 04/22/2000 SEA @ UTA L 30 6 3 5 60.0 0 0 - 0 0 - 0 5 5 2 0 0 1 4 0
+p40
+aVLazaro Borrell SEA 04/22/2000 SEA @ UTA L 13 6 2 3 66.7 0 0 - 2 4 50.0 3 3 6 1 0 0 1 1 3
+p41
+aVShammond Williams SEA 04/22/2000 SEA @ UTA L 32 23 9 14 64.3 4 6 66.7 1 2 50.0 1 3 4 3 3 0 1 1 -4
+p42
+aVRuben Patterson SEA 04/22/2000 SEA @ UTA L 11 7 3 4 75.0 0 0 - 1 3 33.3 2 0 2 0 1 0 1 2 -1
+p43
+aVVin Baker SEA 04/22/2000 SEA @ UTA L 33 10 4 18 22.2 0 1 0.0 2 2 100.0 5 4 9 2 0 1 2 4 -5
+p44
+aVGary Payton SEA 04/22/2000 SEA @ UTA L 48 24 11 29 37.9 1 4 25.0 1 1 100.0 3 8 11 6 0 1 3 1 -11
+p45
+aVRashard Lewis SEA 04/22/2000 SEA @ UTA L 16 4 2 7 28.6 0 1 0.0 0 0 - 3 2 5 0 0 0 3 5 -17
+p46
+aVGreg Foster SEA 04/22/2000 SEA @ UTA L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -5
+p47
+aVJelani McCoy SEA 04/22/2000 SEA @ UTA L 8 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 1 0 0 1 1 -9
+p48
+a.

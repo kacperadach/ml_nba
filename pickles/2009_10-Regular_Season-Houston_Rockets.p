@@ -1,0 +1,1606 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJordan Hill HOU 04/14/2010 HOU vs. NOH L 7 3 1 2 50.0 0 0 - 1 4 25.0 1 0 1 0 1 0 1 3 -4
+p2
+aVTrevor Ariza HOU 04/14/2010 HOU vs. NOH L 38 26 11 18 61.1 3 7 42.9 1 4 25.0 2 8 10 10 0 2 3 0 2
+p3
+aVJermaine Taylor HOU 04/14/2010 HOU vs. NOH L 6 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 0 -3
+p4
+aVAaron Brooks HOU 04/14/2010 HOU vs. NOH L 28 12 5 10 50.0 2 3 66.7 0 0 - 0 2 2 3 0 1 2 2 -2
+p5
+aVCharles Hayes HOU 04/14/2010 HOU vs. NOH L 38 14 6 6 100.0 0 0 - 2 2 100.0 0 3 3 1 2 2 0 3 0
+p6
+aVKevin Martin HOU 04/14/2010 HOU vs. NOH L 38 24 8 14 57.1 1 3 33.3 7 8 87.5 0 4 4 2 2 0 2 2 -4
+p7
+aVChase Budinger HOU 04/14/2010 HOU vs. NOH L 14 8 4 11 36.4 0 4 0.0 0 0 - 2 0 2 2 0 0 1 0 -11
+p8
+aVKyle Lowry HOU 04/14/2010 HOU vs. NOH L 20 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 7 3 0 0 3 -6
+p9
+aVJared Jeffries HOU 04/14/2010 HOU vs. NOH L 15 6 3 6 50.0 0 0 - 0 0 - 2 0 2 1 0 1 1 2 -5
+p10
+aVLuis Scola HOU 04/14/2010 HOU vs. NOH L 36 15 6 12 50.0 0 0 - 3 5 60.0 1 4 5 4 0 0 0 4 -7
+p11
+aVTrevor Ariza HOU 04/12/2010 HOU @ SAC W 39 29 10 18 55.6 5 9 55.6 4 4 100.0 2 3 5 2 2 2 3 3 6
+p12
+aVKevin Martin HOU 04/12/2010 HOU @ SAC W 40 39 11 20 55.0 1 6 16.7 16 16 100.0 0 2 2 1 0 0 1 3 10
+p13
+aVCharles Hayes HOU 04/12/2010 HOU @ SAC W 31 0 0 1 0.0 0 0 - 0 0 - 0 7 7 2 2 1 0 1 4
+p14
+aVJared Jeffries HOU 04/12/2010 HOU @ SAC W 20 3 1 4 25.0 0 0 - 1 1 100.0 2 5 7 1 0 0 1 3 5
+p15
+aVChase Budinger HOU 04/12/2010 HOU @ SAC W 17 10 5 9 55.6 0 2 0.0 0 0 - 1 2 3 0 0 0 0 0 4
+p16
+aVKyle Lowry HOU 04/12/2010 HOU @ SAC W 25 14 6 10 60.0 0 2 0.0 2 2 100.0 0 1 1 11 0 0 2 3 11
+p17
+aVJordan Hill HOU 04/12/2010 HOU @ SAC W 9 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 2 0 2 6
+p18
+aVAaron Brooks HOU 04/12/2010 HOU @ SAC W 23 10 4 11 36.4 2 5 40.0 0 0 - 0 1 1 4 1 0 1 1 -1
+p19
+aVLuis Scola HOU 04/12/2010 HOU @ SAC W 35 8 4 7 57.1 0 0 - 0 0 - 1 5 6 1 0 0 4 1 5
+p20
+aVLuis Scola HOU 04/11/2010 HOU @ PHX L 42 30 11 21 52.4 0 0 - 8 12 66.7 0 8 8 4 1 1 1 3 -8
+p21
+aVJordan Hill HOU 04/11/2010 HOU @ PHX L 18 2 1 4 25.0 0 0 - 0 0 - 1 8 9 1 0 0 1 3 3
+p22
+aVCharles Hayes HOU 04/11/2010 HOU @ PHX L 21 4 1 2 50.0 0 0 - 2 2 100.0 0 8 8 2 1 2 1 4 -5
+p23
+aVTrevor Ariza HOU 04/11/2010 HOU @ PHX L 36 11 4 7 57.1 3 4 75.0 0 0 - 1 4 5 5 0 0 2 1 -6
+p24
+aVAaron Brooks HOU 04/11/2010 HOU @ PHX L 40 22 7 18 38.9 6 9 66.7 2 2 100.0 4 3 7 6 2 0 5 4 -12
+p25
+aVChase Budinger HOU 04/11/2010 HOU @ PHX L 26 19 7 10 70.0 3 3 100.0 2 2 100.0 1 0 1 1 1 0 0 1 -3
+p26
+aVKevin Martin HOU 04/11/2010 HOU @ PHX L 22 8 2 12 16.7 0 4 0.0 4 4 100.0 0 1 1 3 1 0 2 2 -7
+p27
+aVJared Jeffries HOU 04/11/2010 HOU @ PHX L 16 4 2 5 40.0 0 1 0.0 0 1 0.0 1 1 2 1 0 1 0 4 -10
+p28
+aVKyle Lowry HOU 04/11/2010 HOU @ PHX L 21 6 3 6 50.0 0 1 0.0 0 0 - 2 2 4 5 1 0 5 1 -2
+p29
+aVCharles Hayes HOU 04/09/2010 HOU vs. CHA W 25 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 1 1 0 4 5
+p30
+aVJared Jeffries HOU 04/09/2010 HOU vs. CHA W 18 4 2 5 40.0 0 2 0.0 0 1 0.0 0 1 1 3 0 0 1 4 9
+p31
+aVJordan Hill HOU 04/09/2010 HOU vs. CHA W 9 8 4 5 80.0 0 0 - 0 0 - 3 1 4 0 0 1 0 0 -1
+p32
+aVAaron Brooks HOU 04/09/2010 HOU vs. CHA W 38 23 8 16 50.0 2 5 40.0 5 5 100.0 0 1 1 4 0 1 3 2 4
+p33
+aVChase Budinger HOU 04/09/2010 HOU vs. CHA W 23 12 4 12 33.3 2 6 33.3 2 2 100.0 0 5 5 2 0 0 1 2 -5
+p34
+aVTrevor Ariza HOU 04/09/2010 HOU vs. CHA W 37 17 7 13 53.8 3 8 37.5 0 0 - 1 8 9 8 1 1 3 4 9
+p35
+aVKyle Lowry HOU 04/09/2010 HOU vs. CHA W 22 8 2 5 40.0 0 1 0.0 4 4 100.0 1 1 2 3 0 0 1 4 -2
+p36
+aVKevin Martin HOU 04/09/2010 HOU vs. CHA W 27 9 3 9 33.3 1 1 100.0 2 3 66.7 0 2 2 1 1 0 2 4 13
+p37
+aVLuis Scola HOU 04/09/2010 HOU vs. CHA W 39 12 6 18 33.3 0 0 - 0 0 - 3 6 9 1 3 1 2 1 3
+p38
+aVHilton Armstrong HOU 04/07/2010 HOU vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p39
+aVCharles Hayes HOU 04/07/2010 HOU vs. UTA W 29 6 3 4 75.0 0 0 - 0 0 - 5 13 18 3 2 0 1 4 20
+p40
+aVJermaine Taylor HOU 04/07/2010 HOU vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -1
+p41
+aVKevin Martin HOU 04/07/2010 HOU vs. UTA W 39 28 9 20 45.0 1 6 16.7 9 9 100.0 0 0 0 3 1 1 3 2 25
+p42
+aVJared Jeffries HOU 04/07/2010 HOU vs. UTA W 23 6 2 5 40.0 1 1 100.0 1 2 50.0 2 2 4 3 2 1 1 1 -6
+p43
+aVJordan Hill HOU 04/07/2010 HOU vs. UTA W 11 0 0 4 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 2 -1
+p44
+aVKyle Lowry HOU 04/07/2010 HOU vs. UTA W 30 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 5 1 0 1 0 -5
+p45
+aVLuis Scola HOU 04/07/2010 HOU vs. UTA W 32 24 9 14 64.3 0 0 - 6 8 75.0 2 3 5 2 2 1 2 4 22
+p46
+aVChase Budinger HOU 04/07/2010 HOU vs. UTA W 19 8 3 5 60.0 2 2 100.0 0 0 - 0 3 3 0 3 0 2 1 -4
+p47
+aVTrevor Ariza HOU 04/07/2010 HOU vs. UTA W 26 7 2 5 40.0 1 2 50.0 2 4 50.0 0 2 2 4 1 0 0 2 23
+p48
+aVAaron Brooks HOU 04/07/2010 HOU vs. UTA W 27 28 11 22 50.0 5 8 62.5 1 1 100.0 0 0 0 5 0 0 1 4 13
+p49
+aVLuis Scola HOU 04/06/2010 HOU @ MEM W 35 17 7 12 58.3 0 0 - 3 3 100.0 0 3 3 2 0 0 0 1 16
+p50
+aVCharles Hayes HOU 04/06/2010 HOU @ MEM W 17 3 1 2 50.0 0 0 - 1 2 50.0 2 6 8 1 2 0 0 2 7
+p51
+aVJermaine Taylor HOU 04/06/2010 HOU @ MEM W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -1
+p52
+aVAaron Brooks HOU 04/06/2010 HOU @ MEM W 35 17 6 14 42.9 3 8 37.5 2 2 100.0 0 1 1 7 0 0 3 2 18
+p53
+aVKevin Martin HOU 04/06/2010 HOU @ MEM W 39 29 7 16 43.8 3 6 50.0 12 12 100.0 0 3 3 2 3 0 2 1 11
+p54
+aVJordan Hill HOU 04/06/2010 HOU @ MEM W 16 12 5 7 71.4 0 0 - 2 2 100.0 4 5 9 0 0 0 1 1 -8
+p55
+aVKyle Lowry HOU 04/06/2010 HOU @ MEM W 15 4 1 5 20.0 0 3 0.0 2 2 100.0 1 0 1 3 0 0 3 3 -11
+p56
+aVJared Jeffries HOU 04/06/2010 HOU @ MEM W 28 12 4 9 44.4 0 0 - 4 6 66.7 4 6 10 0 0 4 1 5 5
+p57
+aVTrevor Ariza HOU 04/06/2010 HOU @ MEM W 35 12 4 11 36.4 1 6 16.7 3 4 75.0 3 5 8 1 2 0 2 3 16
+p58
+aVChase Budinger HOU 04/06/2010 HOU @ MEM W 14 5 2 9 22.2 1 4 25.0 0 0 - 2 3 5 1 1 0 0 0 -3
+p59
+aVChase Budinger HOU 04/04/2010 HOU @ IND L 28 17 6 12 50.0 3 5 60.0 2 3 66.7 1 3 4 4 0 0 0 0 -17
+p60
+aVJordan Hill HOU 04/04/2010 HOU @ IND L 18 15 7 7 100.0 0 0 - 1 2 50.0 2 1 3 1 0 0 1 4 0
+p61
+aVKevin Martin HOU 04/04/2010 HOU @ IND L 25 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 3 0 0 0 1 -19
+p62
+aVTrevor Ariza HOU 04/04/2010 HOU @ IND L 26 7 2 9 22.2 2 5 40.0 1 4 25.0 1 2 3 2 4 2 3 2 -21
+p63
+aVLuis Scola HOU 04/04/2010 HOU @ IND L 25 15 6 11 54.5 0 0 - 3 4 75.0 0 6 6 2 1 0 1 4 -22
+p64
+aVAaron Brooks HOU 04/04/2010 HOU @ IND L 24 11 4 9 44.4 1 3 33.3 2 3 66.7 1 2 3 5 0 1 4 4 -15
+p65
+aVJermaine Taylor HOU 04/04/2010 HOU @ IND L 23 8 3 11 27.3 0 1 0.0 2 3 66.7 2 3 5 0 1 0 1 0 -12
+p66
+aVMichael Harris HOU 04/04/2010 HOU @ IND L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -9
+p67
+aVCharles Hayes HOU 04/04/2010 HOU @ IND L 19 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 1 1 1 2 -12
+p68
+aVKyle Lowry HOU 04/04/2010 HOU @ IND L 24 16 6 14 42.9 3 8 37.5 1 2 50.0 4 0 4 3 1 0 1 2 -16
+p69
+aVJared Jeffries HOU 04/04/2010 HOU @ IND L 23 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 3 2 0 2 0 -12
+p70
+aVCharles Hayes HOU 04/02/2010 HOU @ BOS W 22 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 0 0 3 6 -11
+p71
+aVKyle Lowry HOU 04/02/2010 HOU @ BOS W 42 18 4 11 36.4 2 3 66.7 8 9 88.9 2 3 5 5 1 0 4 5 12
+p72
+aVAaron Brooks HOU 04/02/2010 HOU @ BOS W 47 30 10 17 58.8 4 6 66.7 6 6 100.0 0 1 1 9 3 0 3 1 2
+p73
+aVJermaine Taylor HOU 04/02/2010 HOU @ BOS W 16 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 0 -4
+p74
+aVLuis Scola HOU 04/02/2010 HOU @ BOS W 51 27 11 22 50.0 0 0 - 5 6 83.3 5 6 11 4 1 0 6 4 5
+p75
+aVChase Budinger HOU 04/02/2010 HOU @ BOS W 45 24 9 14 64.3 6 8 75.0 0 0 - 1 4 5 2 0 0 1 3 8
+p76
+aVHilton Armstrong HOU 04/02/2010 HOU @ BOS W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 2 3 3
+p77
+aVJordan Hill HOU 04/02/2010 HOU @ BOS W 27 9 3 6 50.0 0 0 - 3 4 75.0 2 7 9 2 0 3 1 4 13
+p78
+aVMichael Harris HOU 04/02/2010 HOU @ BOS W 8 5 2 4 50.0 0 1 0.0 1 1 100.0 1 1 2 0 0 0 1 1 -3
+p79
+aVLuis Scola HOU 03/31/2010 HOU @ SAS L 31 17 7 17 41.2 0 0 - 3 3 100.0 2 5 7 2 2 1 1 4 -18
+p80
+aVAaron Brooks HOU 03/31/2010 HOU @ SAS L 35 21 8 18 44.4 2 6 33.3 3 3 100.0 2 3 5 3 0 0 6 2 -19
+p81
+aVTrevor Ariza HOU 03/31/2010 HOU @ SAS L 31 12 4 8 50.0 1 2 50.0 3 4 75.0 2 4 6 4 2 0 3 2 -15
+p82
+aVChase Budinger HOU 03/31/2010 HOU @ SAS L 33 12 5 8 62.5 2 3 66.7 0 0 - 1 2 3 1 0 0 0 3 -7
+p83
+aVJermaine Taylor HOU 03/31/2010 HOU @ SAS L 34 14 5 15 33.3 1 6 16.7 3 6 50.0 3 7 10 0 4 0 0 2 -10
+p84
+aVCharles Hayes HOU 03/31/2010 HOU @ SAS L 19 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 1 2 3 -10
+p85
+aVHilton Armstrong HOU 03/31/2010 HOU @ SAS L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 0
+p86
+aVJordan Hill HOU 03/31/2010 HOU @ SAS L 19 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -4
+p87
+aVMichael Harris HOU 03/31/2010 HOU @ SAS L 10 3 1 5 20.0 0 0 - 1 2 50.0 2 0 2 0 0 0 2 1 0
+p88
+aVKyle Lowry HOU 03/31/2010 HOU @ SAS L 24 17 5 11 45.5 0 2 0.0 7 9 77.8 3 4 7 5 2 0 1 3 -2
+p89
+aVLuis Scola HOU 03/30/2010 HOU vs. WAS W 41 16 7 10 70.0 0 0 - 2 2 100.0 3 5 8 1 1 0 1 3 6
+p90
+aVTrevor Ariza HOU 03/30/2010 HOU vs. WAS W 28 2 0 7 0.0 0 3 0.0 2 4 50.0 2 3 5 3 2 1 0 2 2
+p91
+aVAaron Brooks HOU 03/30/2010 HOU vs. WAS W 39 11 5 20 25.0 1 6 16.7 0 0 - 2 6 8 11 0 0 2 2 9
+p92
+aVMichael Harris HOU 03/30/2010 HOU vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -4
+p93
+aVChase Budinger HOU 03/30/2010 HOU vs. WAS W 27 24 9 13 69.2 1 4 25.0 5 6 83.3 0 6 6 1 1 1 0 0 1
+p94
+aVKyle Lowry HOU 03/30/2010 HOU vs. WAS W 30 17 5 11 45.5 1 3 33.3 6 6 100.0 0 2 2 6 1 0 3 0 7
+p95
+aVJordan Hill HOU 03/30/2010 HOU vs. WAS W 20 10 4 7 57.1 0 0 - 2 4 50.0 3 2 5 0 0 1 1 4 2
+p96
+aVJermaine Taylor HOU 03/30/2010 HOU vs. WAS W 25 14 6 13 46.2 1 3 33.3 1 2 50.0 0 1 1 1 1 0 1 0 -4
+p97
+aVCharles Hayes HOU 03/30/2010 HOU vs. WAS W 27 4 2 3 66.7 0 0 - 0 1 0.0 1 3 4 0 0 1 1 5 1
+p98
+aVKyle Lowry HOU 03/27/2010 HOU vs. LAL L 24 3 0 6 0.0 0 2 0.0 3 4 75.0 2 0 2 2 1 0 0 1 1
+p99
+aVHilton Armstrong HOU 03/27/2010 HOU vs. LAL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 6
+p100
+aVTrevor Ariza HOU 03/27/2010 HOU vs. LAL L 39 9 3 11 27.3 1 4 25.0 2 2 100.0 1 2 3 5 2 0 0 4 -5
+p101
+aVJordan Hill HOU 03/27/2010 HOU vs. LAL L 26 8 4 8 50.0 0 0 - 0 1 0.0 1 5 6 0 2 0 1 3 1
+p102
+aVChase Budinger HOU 03/27/2010 HOU vs. LAL L 16 6 2 7 28.6 0 4 0.0 2 2 100.0 0 1 1 1 0 0 0 2 -8
+p103
+aVAaron Brooks HOU 03/27/2010 HOU vs. LAL L 37 26 8 22 36.4 4 12 33.3 6 6 100.0 0 0 0 7 1 0 3 2 -6
+p104
+aVCharles Hayes HOU 03/27/2010 HOU vs. LAL L 22 4 2 3 66.7 0 0 - 0 0 - 2 3 5 2 0 1 0 3 -9
+p105
+aVLuis Scola HOU 03/27/2010 HOU vs. LAL L 45 28 12 16 75.0 0 0 - 4 6 66.7 2 8 10 5 1 0 3 4 -9
+p106
+aVJermaine Taylor HOU 03/27/2010 HOU vs. LAL L 30 15 6 14 42.9 3 4 75.0 0 0 - 3 2 5 3 1 0 1 4 -11
+p107
+aVMichael Harris HOU 03/25/2010 HOU vs. LAC L 16 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 1 1 0 1 2 -8
+p108
+aVTrevor Ariza HOU 03/25/2010 HOU vs. LAC L 41 18 7 20 35.0 3 10 30.0 1 3 33.3 0 8 8 8 3 1 3 4 -5
+p109
+aVLuis Scola HOU 03/25/2010 HOU vs. LAC L 42 16 7 21 33.3 0 0 - 2 4 50.0 4 10 14 3 2 0 0 5 -1
+p110
+aVAaron Brooks HOU 03/25/2010 HOU vs. LAC L 38 18 6 15 40.0 1 5 20.0 5 8 62.5 0 3 3 9 1 0 2 4 6
+p111
+aVJermaine Taylor HOU 03/25/2010 HOU vs. LAC L 7 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 -6
+p112
+aVKyle Lowry HOU 03/25/2010 HOU vs. LAC L 30 14 3 8 37.5 0 2 0.0 8 8 100.0 0 2 2 1 0 0 1 2 -16
+p113
+aVCharles Hayes HOU 03/25/2010 HOU vs. LAC L 37 6 3 4 75.0 0 0 - 0 0 - 3 6 9 3 1 1 0 3 -4
+p114
+aVChase Budinger HOU 03/25/2010 HOU vs. LAC L 29 14 6 12 50.0 2 6 33.3 0 0 - 0 3 3 1 0 0 1 4 4
+p115
+aVKevin Martin HOU 03/24/2010 HOU @ OKC L 28 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 3 -16
+p116
+aVHilton Armstrong HOU 03/24/2010 HOU @ OKC L 10 2 1 3 33.3 0 1 0.0 0 2 0.0 1 0 1 0 0 0 1 2 -11
+p117
+aVKyle Lowry HOU 03/24/2010 HOU @ OKC L 24 15 4 11 36.4 3 6 50.0 4 4 100.0 0 4 4 2 1 0 2 2 -11
+p118
+aVMichael Harris HOU 03/24/2010 HOU @ OKC L 26 7 3 9 33.3 0 0 - 1 2 50.0 4 4 8 1 2 1 0 3 1
+p119
+aVCharles Hayes HOU 03/24/2010 HOU @ OKC L 23 9 4 5 80.0 0 0 - 1 2 50.0 1 5 6 3 0 0 0 1 -5
+p120
+aVTrevor Ariza HOU 03/24/2010 HOU @ OKC L 30 20 8 14 57.1 3 4 75.0 1 2 50.0 0 3 3 2 2 2 1 2 -9
+p121
+aVChase Budinger HOU 03/24/2010 HOU @ OKC L 18 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -9
+p122
+aVJermaine Taylor HOU 03/24/2010 HOU @ OKC L 12 7 1 5 20.0 0 1 0.0 5 6 83.3 2 1 3 1 0 1 2 1 1
+p123
+aVLuis Scola HOU 03/24/2010 HOU @ OKC L 37 25 11 25 44.0 0 0 - 3 3 100.0 3 3 6 1 1 0 0 3 -19
+p124
+aVAaron Brooks HOU 03/24/2010 HOU @ OKC L 32 11 3 12 25.0 3 7 42.9 2 3 66.7 1 1 2 7 2 0 2 2 -10
+p125
+aVKyle Lowry HOU 03/22/2010 HOU @ CHI L 28 10 3 10 30.0 0 2 0.0 4 4 100.0 1 3 4 3 1 0 0 2 -5
+p126
+aVJared Jeffries HOU 03/22/2010 HOU @ CHI L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 11
+p127
+aVTrevor Ariza HOU 03/22/2010 HOU @ CHI L 37 18 6 14 42.9 2 5 40.0 4 6 66.7 2 7 9 5 3 0 2 4 -10
+p128
+aVCharles Hayes HOU 03/22/2010 HOU @ CHI L 16 0 0 2 0.0 0 0 - 0 0 - 3 2 5 1 0 0 2 2 -8
+p129
+aVAaron Brooks HOU 03/22/2010 HOU @ CHI L 35 9 3 17 17.6 2 7 28.6 1 1 100.0 1 1 2 6 1 0 1 4 -12
+p130
+aVJordan Hill HOU 03/22/2010 HOU @ CHI L 12 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 2 3 -10
+p131
+aVChase Budinger HOU 03/22/2010 HOU @ CHI L 13 8 3 9 33.3 2 5 40.0 0 0 - 1 3 4 1 0 0 0 3 -4
+p132
+aVLuis Scola HOU 03/22/2010 HOU @ CHI L 46 22 9 21 42.9 0 0 - 4 4 100.0 2 8 10 4 1 0 2 4 -10
+p133
+aVKevin Martin HOU 03/22/2010 HOU @ CHI L 41 19 5 14 35.7 1 5 20.0 8 9 88.9 0 2 2 0 0 0 2 2 -2
+p134
+aVTrevor Ariza HOU 03/21/2010 HOU @ NYK W 35 12 5 9 55.6 0 2 0.0 2 2 100.0 0 7 7 6 3 1 1 0 8
+p135
+aVKevin Martin HOU 03/21/2010 HOU @ NYK W 41 28 9 16 56.3 2 4 50.0 8 8 100.0 0 3 3 0 1 0 7 2 -7
+p136
+aVKyle Lowry HOU 03/21/2010 HOU @ NYK W 22 18 6 13 46.2 1 2 50.0 5 5 100.0 1 2 3 5 2 0 0 1 12
+p137
+aVChase Budinger HOU 03/21/2010 HOU @ NYK W 27 18 7 12 58.3 3 7 42.9 1 2 50.0 0 5 5 1 0 0 1 2 6
+p138
+aVJordan Hill HOU 03/21/2010 HOU @ NYK W 25 13 4 8 50.0 0 0 - 5 5 100.0 3 2 5 3 0 0 1 3 24
+p139
+aVJared Jeffries HOU 03/21/2010 HOU @ NYK W 13 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 2 1 0 9
+p140
+aVAaron Brooks HOU 03/21/2010 HOU @ NYK W 31 16 6 13 46.2 2 4 50.0 2 2 100.0 0 1 1 2 0 0 1 1 -6
+p141
+aVCharles Hayes HOU 03/21/2010 HOU @ NYK W 14 4 2 2 100.0 0 0 - 0 0 - 0 4 4 1 0 0 0 1 -12
+p142
+aVShane Battier HOU 03/21/2010 HOU @ NYK W 9 3 0 1 0.0 0 1 0.0 3 6 50.0 1 0 1 2 1 0 0 3 4
+p143
+aVLuis Scola HOU 03/21/2010 HOU @ NYK W 23 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 4 -18
+p144
+aVShane Battier HOU 03/19/2010 HOU vs. BOS L 22 8 2 6 33.3 2 5 40.0 2 2 100.0 0 4 4 0 1 0 0 1 -15
+p145
+aVTrevor Ariza HOU 03/19/2010 HOU vs. BOS L 32 11 4 10 40.0 2 5 40.0 1 2 50.0 2 2 4 2 3 0 5 1 6
+p146
+aVCharles Hayes HOU 03/19/2010 HOU vs. BOS L 23 7 1 2 50.0 0 0 - 5 6 83.3 2 5 7 1 0 0 1 2 0
+p147
+aVAaron Brooks HOU 03/19/2010 HOU vs. BOS L 33 10 4 12 33.3 0 1 0.0 2 2 100.0 2 3 5 3 1 0 3 1 4
+p148
+aVJordan Hill HOU 03/19/2010 HOU vs. BOS L 27 11 5 11 45.5 0 0 - 1 3 33.3 1 6 7 0 0 5 0 2 -7
+p149
+aVKyle Lowry HOU 03/19/2010 HOU vs. BOS L 16 4 1 6 16.7 0 2 0.0 2 2 100.0 1 1 2 3 0 0 1 2 -13
+p150
+aVKevin Martin HOU 03/19/2010 HOU vs. BOS L 35 17 6 12 50.0 1 2 50.0 4 5 80.0 0 1 1 3 2 0 2 0 2
+p151
+aVDavid Andersen HOU 03/19/2010 HOU vs. BOS L 6 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -5
+p152
+aVLuis Scola HOU 03/19/2010 HOU vs. BOS L 41 17 6 13 46.2 0 1 0.0 5 5 100.0 3 7 10 3 0 0 1 3 -2
+p153
+aVChase Budinger HOU 03/19/2010 HOU vs. BOS L 6 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -5
+p154
+aVDavid Andersen HOU 03/17/2010 HOU vs. MEM W 6 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 2 0 -1
+p155
+aVLuis Scola HOU 03/17/2010 HOU vs. MEM W 41 20 9 21 42.9 0 0 - 2 4 50.0 2 5 7 3 1 0 1 4 16
+p156
+aVCharles Hayes HOU 03/17/2010 HOU vs. MEM W 28 4 2 4 50.0 0 0 - 0 0 - 0 6 6 3 1 1 0 5 13
+p157
+aVShane Battier HOU 03/17/2010 HOU vs. MEM W 26 6 2 6 33.3 2 5 40.0 0 0 - 0 6 6 4 0 5 0 2 10
+p158
+aVJordan Hill HOU 03/17/2010 HOU vs. MEM W 20 9 3 3 100.0 0 0 - 3 4 75.0 4 5 9 0 0 0 2 5 0
+p159
+aVKyle Lowry HOU 03/17/2010 HOU vs. MEM W 12 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 4 0 0 3 2 2
+p160
+aVAaron Brooks HOU 03/17/2010 HOU vs. MEM W 36 31 11 14 78.6 7 7 100.0 2 2 100.0 0 5 5 4 0 0 5 0 11
+p161
+aVChase Budinger HOU 03/17/2010 HOU vs. MEM W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 2 0 2
+p162
+aVKevin Martin HOU 03/17/2010 HOU vs. MEM W 39 18 6 12 50.0 0 3 0.0 6 7 85.7 0 2 2 2 0 0 3 3 11
+p163
+aVTrevor Ariza HOU 03/17/2010 HOU vs. MEM W 22 7 2 7 28.6 0 2 0.0 3 4 75.0 1 2 3 1 1 4 1 1 1
+p164
+aVLuis Scola HOU 03/15/2010 HOU vs. DEN W 40 23 11 18 61.1 0 0 - 1 1 100.0 1 10 11 1 1 0 2 4 4
+p165
+aVTrevor Ariza HOU 03/15/2010 HOU vs. DEN W 36 12 5 9 55.6 1 2 50.0 1 2 50.0 0 5 5 4 2 0 1 3 0
+p166
+aVDavid Andersen HOU 03/15/2010 HOU vs. DEN W 10 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 1 1 0 0 1 5
+p167
+aVShane Battier HOU 03/15/2010 HOU vs. DEN W 25 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 1 0 1 0 4 1
+p168
+aVKyle Lowry HOU 03/15/2010 HOU vs. DEN W 18 8 3 7 42.9 0 1 0.0 2 2 100.0 1 1 2 2 0 0 1 3 1
+p169
+aVJordan Hill HOU 03/15/2010 HOU vs. DEN W 11 5 0 1 0.0 0 0 - 5 6 83.3 2 3 5 0 0 0 1 2 -3
+p170
+aVCharles Hayes HOU 03/15/2010 HOU vs. DEN W 19 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 2 0 0 0 4 -2
+p171
+aVAaron Brooks HOU 03/15/2010 HOU vs. DEN W 35 31 11 17 64.7 2 4 50.0 7 9 77.8 0 1 1 9 0 0 3 1 -4
+p172
+aVChase Budinger HOU 03/15/2010 HOU vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p173
+aVKevin Martin HOU 03/15/2010 HOU vs. DEN W 42 29 9 16 56.3 1 4 25.0 10 13 76.9 3 4 7 3 0 0 2 0 12
+p174
+aVLuis Scola HOU 03/13/2010 HOU vs. NJN W 41 44 20 25 80.0 0 0 - 4 6 66.7 6 6 12 3 2 1 4 2 9
+p175
+aVTrevor Ariza HOU 03/13/2010 HOU vs. NJN W 36 12 5 11 45.5 2 6 33.3 0 0 - 0 10 10 6 1 0 4 2 6
+p176
+aVAaron Brooks HOU 03/13/2010 HOU vs. NJN W 35 18 7 16 43.8 2 5 40.0 2 2 100.0 0 1 1 7 2 0 3 6 5
+p177
+aVKevin Martin HOU 03/13/2010 HOU vs. NJN W 35 20 6 15 40.0 1 2 50.0 7 7 100.0 0 2 2 0 0 0 0 0 1
+p178
+aVJordan Hill HOU 03/13/2010 HOU vs. NJN W 21 5 2 6 33.3 0 0 - 1 2 50.0 4 0 4 0 1 0 1 2 1
+p179
+aVDavid Andersen HOU 03/13/2010 HOU vs. NJN W 10 4 2 4 50.0 0 1 0.0 0 0 - 1 4 5 0 0 0 1 2 -1
+p180
+aVShane Battier HOU 03/13/2010 HOU vs. NJN W 25 6 2 4 50.0 0 1 0.0 2 2 100.0 2 4 6 1 0 0 1 3 8
+p181
+aVCharles Hayes HOU 03/13/2010 HOU vs. NJN W 10 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 1
+p182
+aVKyle Lowry HOU 03/13/2010 HOU vs. NJN W 19 5 1 4 25.0 0 1 0.0 3 4 75.0 0 2 2 5 0 0 1 3 13
+p183
+aVChase Budinger HOU 03/13/2010 HOU vs. NJN W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p184
+aVJordan Hill HOU 03/09/2010 HOU @ WAS W 27 11 4 5 80.0 0 0 - 3 4 75.0 4 4 8 2 0 0 0 3 9
+p185
+aVChase Budinger HOU 03/09/2010 HOU @ WAS W 14 6 3 7 42.9 0 4 0.0 0 0 - 0 1 1 1 0 0 1 0 13
+p186
+aVJared Jeffries HOU 03/09/2010 HOU @ WAS W 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 5
+p187
+aVTrevor Ariza HOU 03/09/2010 HOU @ WAS W 28 13 4 13 30.8 3 7 42.9 2 2 100.0 2 1 3 2 2 0 1 2 0
+p188
+aVLuis Scola HOU 03/09/2010 HOU @ WAS W 41 23 8 16 50.0 0 0 - 7 8 87.5 5 5 10 3 1 1 7 5 4
+p189
+aVKyle Lowry HOU 03/09/2010 HOU @ WAS W 19 6 1 6 16.7 0 2 0.0 4 5 80.0 2 1 3 4 1 0 1 3 8
+p190
+aVShane Battier HOU 03/09/2010 HOU @ WAS W 28 0 0 4 0.0 0 3 0.0 0 0 - 1 6 7 3 0 2 0 0 6
+p191
+aVAaron Brooks HOU 03/09/2010 HOU @ WAS W 29 14 5 13 38.5 2 5 40.0 2 2 100.0 0 3 3 2 1 0 2 1 0
+p192
+aVCharles Hayes HOU 03/09/2010 HOU @ WAS W 18 0 0 1 0.0 0 0 - 0 0 - 1 4 5 1 2 0 0 1 1
+p193
+aVKevin Martin HOU 03/09/2010 HOU @ WAS W 30 21 7 18 38.9 1 7 14.3 6 7 85.7 0 3 3 0 1 0 3 2 -6
+p194
+aVJared Jeffries HOU 03/07/2010 HOU @ DET L 20 6 2 5 40.0 0 1 0.0 2 3 66.7 1 0 1 0 0 1 0 1 4
+p195
+aVLuis Scola HOU 03/07/2010 HOU @ DET L 48 20 8 15 53.3 0 1 0.0 4 4 100.0 3 12 15 2 1 0 6 2 -11
+p196
+aVKevin Martin HOU 03/07/2010 HOU @ DET L 48 27 8 18 44.4 2 6 33.3 9 9 100.0 0 2 2 2 1 0 3 4 -1
+p197
+aVShane Battier HOU 03/07/2010 HOU @ DET L 43 10 4 11 36.4 2 7 28.6 0 0 - 0 7 7 4 1 1 0 2 -18
+p198
+aVCharles Hayes HOU 03/07/2010 HOU @ DET L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 2 0 0 3 1
+p199
+aVWill Conroy HOU 03/07/2010 HOU @ DET L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 2
+p200
+aVJordan Hill HOU 03/07/2010 HOU @ DET L 23 12 5 9 55.6 0 0 - 2 2 100.0 2 6 8 1 0 0 0 2 -1
+p201
+aVAaron Brooks HOU 03/07/2010 HOU @ DET L 48 25 10 23 43.5 2 10 20.0 3 4 75.0 0 4 4 7 3 0 4 1 -5
+p202
+aVChase Budinger HOU 03/07/2010 HOU @ DET L 15 7 3 4 75.0 1 2 50.0 0 1 0.0 2 1 3 0 0 0 0 1 14
+p203
+aVAaron Brooks HOU 03/06/2010 HOU @ MIN W 42 25 10 23 43.5 3 8 37.5 2 2 100.0 3 1 4 9 2 0 3 5 15
+p204
+aVLuis Scola HOU 03/06/2010 HOU @ MIN W 44 25 11 22 50.0 0 0 - 3 3 100.0 8 13 21 2 0 1 6 5 21
+p205
+aVJordan Hill HOU 03/06/2010 HOU @ MIN W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -4
+p206
+aVChase Budinger HOU 03/06/2010 HOU @ MIN W 19 9 4 8 50.0 1 2 50.0 0 0 - 1 1 2 0 2 0 0 1 14
+p207
+aVCharles Hayes HOU 03/06/2010 HOU @ MIN W 20 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 0 0 2 4 0
+p208
+aVJermaine Taylor HOU 03/06/2010 HOU @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p209
+aVShane Battier HOU 03/06/2010 HOU @ MIN W 38 11 4 7 57.1 3 6 50.0 0 0 - 0 5 5 7 1 1 2 0 -8
+p210
+aVJared Jeffries HOU 03/06/2010 HOU @ MIN W 23 4 2 4 50.0 0 0 - 0 0 - 2 5 7 2 0 0 0 4 16
+p211
+aVWill Conroy HOU 03/06/2010 HOU @ MIN W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -1
+p212
+aVKevin Martin HOU 03/06/2010 HOU @ MIN W 41 30 11 23 47.8 4 10 40.0 4 4 100.0 0 6 6 5 2 0 2 1 19
+p213
+aVHilton Armstrong HOU 03/06/2010 HOU @ MIN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p214
+aVAaron Brooks HOU 03/03/2010 HOU vs. SAC L 44 22 9 25 36.0 2 13 15.4 2 4 50.0 0 2 2 2 0 0 3 3 -5
+p215
+aVChase Budinger HOU 03/03/2010 HOU vs. SAC L 18 6 2 5 40.0 1 1 100.0 1 2 50.0 1 7 8 1 0 1 0 0 6
+p216
+aVDavid Andersen HOU 03/03/2010 HOU vs. SAC L 11 8 2 5 40.0 1 1 100.0 3 4 75.0 1 2 3 0 0 0 1 1 5
+p217
+aVJared Jeffries HOU 03/03/2010 HOU vs. SAC L 28 6 3 5 60.0 0 0 - 0 2 0.0 4 2 6 0 1 1 0 3 5
+p218
+aVWill Conroy HOU 03/03/2010 HOU vs. SAC L 4 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 1 0 0 0 0 2
+p219
+aVShane Battier HOU 03/03/2010 HOU vs. SAC L 40 4 2 4 50.0 0 2 0.0 0 1 0.0 0 4 4 2 0 7 1 1 -11
+p220
+aVLuis Scola HOU 03/03/2010 HOU vs. SAC L 40 19 8 16 50.0 0 0 - 3 3 100.0 4 14 18 5 0 0 3 3 -6
+p221
+aVKevin Martin HOU 03/03/2010 HOU vs. SAC L 39 14 3 13 23.1 1 4 25.0 7 8 87.5 2 6 8 1 1 0 4 4 -3
+p222
+aVCharles Hayes HOU 03/03/2010 HOU vs. SAC L 17 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 1 4 -8
+p223
+aVChase Budinger HOU 03/01/2010 HOU vs. TOR W 27 7 3 9 33.3 0 1 0.0 1 1 100.0 1 2 3 3 1 0 1 1 -5
+p224
+aVJared Jeffries HOU 03/01/2010 HOU vs. TOR W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -6
+p225
+aVHilton Armstrong HOU 03/01/2010 HOU vs. TOR W 6 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 2 0 1 1 -3
+p226
+aVGarrett Temple HOU 03/01/2010 HOU vs. TOR W 18 7 1 3 33.3 1 1 100.0 4 4 100.0 0 3 3 3 0 0 2 4 -7
+p227
+aVLuis Scola HOU 03/01/2010 HOU vs. TOR W 22 11 4 7 57.1 0 0 - 3 3 100.0 0 8 8 2 2 0 0 4 12
+p228
+aVJermaine Taylor HOU 03/01/2010 HOU vs. TOR W 13 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 2 1 0 3 1 -10
+p229
+aVJordan Hill HOU 03/01/2010 HOU vs. TOR W 10 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 0 0 1 2 -6
+p230
+aVDavid Andersen HOU 03/01/2010 HOU vs. TOR W 23 16 6 9 66.7 2 3 66.7 2 2 100.0 1 4 5 2 1 1 1 2 19
+p231
+aVKevin Martin HOU 03/01/2010 HOU vs. TOR W 32 28 9 16 56.3 5 8 62.5 5 5 100.0 0 0 0 4 1 0 4 0 30
+p232
+aVCharles Hayes HOU 03/01/2010 HOU vs. TOR W 25 2 1 2 50.0 0 0 - 0 2 0.0 1 4 5 8 3 1 0 4 32
+p233
+aVShane Battier HOU 03/01/2010 HOU vs. TOR W 24 5 1 4 25.0 1 3 33.3 2 2 100.0 0 6 6 2 0 3 1 0 33
+p234
+aVAaron Brooks HOU 03/01/2010 HOU vs. TOR W 30 28 11 16 68.8 4 9 44.4 2 2 100.0 0 5 5 7 0 0 2 1 31
+p235
+aVGarrett Temple HOU 02/27/2010 HOU @ UTA L 18 11 3 7 42.9 0 3 0.0 5 7 71.4 0 1 1 0 2 0 1 3 -1
+p236
+aVChase Budinger HOU 02/27/2010 HOU @ UTA L 39 14 5 12 41.7 1 4 25.0 3 4 75.0 0 5 5 3 2 0 1 3 -7
+p237
+aVLuis Scola HOU 02/27/2010 HOU @ UTA L 30 10 3 7 42.9 0 0 - 4 4 100.0 1 2 3 3 1 0 0 0 -9
+p238
+aVCharles Hayes HOU 02/27/2010 HOU @ UTA L 30 4 2 5 40.0 0 0 - 0 0 - 2 3 5 6 2 0 2 3 -9
+p239
+aVHilton Armstrong HOU 02/27/2010 HOU @ UTA L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p240
+aVKevin Martin HOU 02/27/2010 HOU @ UTA L 34 32 9 13 69.2 2 4 50.0 12 13 92.3 0 3 3 3 0 0 3 3 -22
+p241
+aVAaron Brooks HOU 02/27/2010 HOU @ UTA L 30 19 7 15 46.7 3 9 33.3 2 2 100.0 0 2 2 5 1 0 1 3 -22
+p242
+aVJermaine Taylor HOU 02/27/2010 HOU @ UTA L 23 7 2 6 33.3 0 1 0.0 3 4 75.0 2 2 4 0 0 0 2 2 -17
+p243
+aVJordan Hill HOU 02/27/2010 HOU @ UTA L 7 2 0 2 0.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 0 -1
+p244
+aVDavid Andersen HOU 02/27/2010 HOU @ UTA L 11 2 1 5 20.0 0 0 - 0 0 - 2 2 4 1 0 0 3 2 -13
+p245
+aVJared Jeffries HOU 02/27/2010 HOU @ UTA L 16 7 2 5 40.0 0 0 - 3 4 75.0 2 1 3 0 1 0 0 2 -15
+p246
+aVGarrett Temple HOU 02/26/2010 HOU vs. SAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p247
+aVKevin Martin HOU 02/26/2010 HOU vs. SAS W 45 33 9 24 37.5 1 6 16.7 14 14 100.0 1 4 5 4 1 0 4 2 12
+p248
+aVAaron Brooks HOU 02/26/2010 HOU vs. SAS W 46 31 13 23 56.5 1 3 33.3 4 4 100.0 1 2 3 3 0 1 2 3 12
+p249
+aVDavid Andersen HOU 02/26/2010 HOU vs. SAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p250
+aVChase Budinger HOU 02/26/2010 HOU vs. SAS W 29 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 1 1 0 0 1 -13
+p251
+aVJared Jeffries HOU 02/26/2010 HOU vs. SAS W 8 2 1 2 50.0 0 0 - 0 2 0.0 3 0 3 0 0 1 1 4 -9
+p252
+aVCharles Hayes HOU 02/26/2010 HOU vs. SAS W 21 4 2 2 100.0 0 0 - 0 0 - 1 4 5 1 2 2 1 4 25
+p253
+aVShane Battier HOU 02/26/2010 HOU vs. SAS W 42 7 2 5 40.0 1 4 25.0 2 4 50.0 2 5 7 5 1 1 1 4 10
+p254
+aVLuis Scola HOU 02/26/2010 HOU vs. SAS W 42 30 8 17 47.1 0 0 - 14 14 100.0 4 9 13 4 1 0 3 4 1
+p255
+aVDavid Andersen HOU 02/24/2010 HOU vs. ORL L 24 8 3 7 42.9 2 3 66.7 0 0 - 0 5 5 0 0 1 0 3 2
+p256
+aVAaron Brooks HOU 02/24/2010 HOU vs. ORL L 40 24 9 22 40.9 4 10 40.0 2 3 66.7 2 4 6 8 0 0 5 2 -13
+p257
+aVLuis Scola HOU 02/24/2010 HOU vs. ORL L 16 0 0 5 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -16
+p258
+aVJordan Hill HOU 02/24/2010 HOU vs. ORL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p259
+aVChase Budinger HOU 02/24/2010 HOU vs. ORL L 31 13 5 9 55.6 2 5 40.0 1 2 50.0 0 2 2 6 1 1 1 1 -1
+p260
+aVGarrett Temple HOU 02/24/2010 HOU vs. ORL L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 2 1 -5
+p261
+aVShane Battier HOU 02/24/2010 HOU vs. ORL L 37 14 5 6 83.3 3 4 75.0 1 2 50.0 2 7 9 3 1 1 1 1 -4
+p262
+aVHilton Armstrong HOU 02/24/2010 HOU vs. ORL L 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -1
+p263
+aVCharles Hayes HOU 02/24/2010 HOU vs. ORL L 9 2 1 4 25.0 0 0 - 0 0 - 3 1 4 1 0 1 1 2 -7
+p264
+aVJared Jeffries HOU 02/24/2010 HOU vs. ORL L 23 9 4 6 66.7 0 0 - 1 1 100.0 0 2 2 1 1 0 1 4 -21
+p265
+aVKevin Martin HOU 02/24/2010 HOU vs. ORL L 41 19 5 14 35.7 1 2 50.0 8 9 88.9 1 1 2 1 1 0 2 0 -16
+p266
+aVJermaine Taylor HOU 02/24/2010 HOU vs. ORL L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -4
+p267
+aVKevin Martin HOU 02/21/2010 HOU @ NOH L 28 13 5 12 41.7 0 0 - 3 4 75.0 1 2 3 3 1 0 1 2 -6
+p268
+aVGarrett Temple HOU 02/21/2010 HOU @ NOH L 12 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 1 4 1 -6
+p269
+aVLuis Scola HOU 02/21/2010 HOU @ NOH L 23 12 6 11 54.5 0 0 - 0 0 - 3 8 11 0 1 0 1 4 -5
+p270
+aVChase Budinger HOU 02/21/2010 HOU @ NOH L 24 18 7 11 63.6 3 5 60.0 1 2 50.0 1 4 5 0 1 2 0 2 -5
+p271
+aVJared Jeffries HOU 02/21/2010 HOU @ NOH L 28 11 5 11 45.5 0 2 0.0 1 2 50.0 6 3 9 2 1 1 2 5 -9
+p272
+aVDavid Andersen HOU 02/21/2010 HOU @ NOH L 13 6 3 5 60.0 0 1 0.0 0 0 - 1 3 4 0 1 0 1 2 -1
+p273
+aVShane Battier HOU 02/21/2010 HOU @ NOH L 25 8 3 9 33.3 2 5 40.0 0 0 - 0 3 3 2 0 0 1 1 -1
+p274
+aVCharles Hayes HOU 02/21/2010 HOU @ NOH L 22 4 2 4 50.0 0 0 - 0 2 0.0 0 5 5 1 1 0 2 2 -5
+p275
+aVTrevor Ariza HOU 02/21/2010 HOU @ NOH L 29 5 2 10 20.0 1 7 14.3 0 0 - 1 5 6 8 0 1 3 3 0
+p276
+aVAaron Brooks HOU 02/21/2010 HOU @ NOH L 36 15 6 15 40.0 1 3 33.3 2 4 50.0 0 1 1 8 2 1 2 3 -2
+p277
+aVTrevor Ariza HOU 02/20/2010 HOU vs. IND L 36 16 6 11 54.5 3 5 60.0 1 1 100.0 3 6 9 5 1 2 1 3 -11
+p278
+aVGarrett Temple HOU 02/20/2010 HOU vs. IND L 8 7 2 3 66.7 2 3 66.7 1 4 25.0 0 0 0 1 1 0 1 0 -1
+p279
+aVKevin Martin HOU 02/20/2010 HOU vs. IND L 31 14 3 16 18.8 0 3 0.0 8 9 88.9 1 5 6 5 3 1 2 2 -10
+p280
+aVLuis Scola HOU 02/20/2010 HOU vs. IND L 37 25 11 17 64.7 0 0 - 3 6 50.0 2 9 11 4 0 0 3 6 -3
+p281
+aVShane Battier HOU 02/20/2010 HOU vs. IND L 36 8 2 6 33.3 1 3 33.3 3 4 75.0 3 7 10 3 1 3 2 3 -16
+p282
+aVDavid Andersen HOU 02/20/2010 HOU vs. IND L 22 6 2 9 22.2 0 1 0.0 2 4 50.0 5 6 11 1 0 1 0 1 -2
+p283
+aVCharles Hayes HOU 02/20/2010 HOU vs. IND L 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 2 4 -5
+p284
+aVAaron Brooks HOU 02/20/2010 HOU vs. IND L 40 26 11 20 55.0 3 7 42.9 1 1 100.0 0 1 1 7 0 0 4 3 -9
+p285
+aVChase Budinger HOU 02/20/2010 HOU vs. IND L 17 11 4 6 66.7 3 3 100.0 0 0 - 0 1 1 0 0 0 1 0 7
+p286
+aVJermaine Taylor HOU 02/17/2010 HOU @ MIL W 9 6 1 2 50.0 0 0 - 4 4 100.0 1 2 3 0 0 0 1 1 -11
+p287
+aVCharles Hayes HOU 02/17/2010 HOU @ MIL W 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 2 22
+p288
+aVChase Budinger HOU 02/17/2010 HOU @ MIL W 31 11 4 5 80.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 2 0 6
+p289
+aVBrian Cook HOU 02/17/2010 HOU @ MIL W 7 4 1 5 20.0 0 2 0.0 2 2 100.0 1 1 2 0 0 2 1 1 -9
+p290
+aVTrevor Ariza HOU 02/17/2010 HOU @ MIL W 27 22 8 11 72.7 6 7 85.7 0 0 - 0 1 1 3 2 0 2 4 25
+p291
+aVLuis Scola HOU 02/17/2010 HOU @ MIL W 26 10 4 7 57.1 0 0 - 2 5 40.0 1 8 9 2 0 1 3 3 31
+p292
+aVJoey Dorsey HOU 02/17/2010 HOU @ MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p293
+aVCarl Landry HOU 02/17/2010 HOU @ MIL W 24 19 7 9 77.8 0 0 - 5 7 71.4 0 5 5 2 0 1 0 3 15
+p294
+aVDavid Andersen HOU 02/17/2010 HOU @ MIL W 19 7 2 4 50.0 0 0 - 3 5 60.0 0 3 3 0 1 1 1 4 -2
+p295
+aVAaron Brooks HOU 02/17/2010 HOU @ MIL W 29 15 5 12 41.7 3 6 50.0 2 3 66.7 0 1 1 12 2 0 3 1 29
+p296
+aVGarrett Temple HOU 02/17/2010 HOU @ MIL W 19 11 3 5 60.0 0 1 0.0 5 7 71.4 1 2 3 1 0 1 2 0 -1
+p297
+aVShane Battier HOU 02/17/2010 HOU @ MIL W 29 20 6 8 75.0 6 6 100.0 2 2 100.0 1 9 10 3 1 1 1 1 36
+p298
+aVChase Budinger HOU 02/16/2010 HOU vs. UTA L 24 11 4 11 36.4 1 4 25.0 2 2 100.0 0 1 1 3 1 0 1 2 -1
+p299
+aVLuis Scola HOU 02/16/2010 HOU vs. UTA L 29 14 5 7 71.4 0 0 - 4 4 100.0 0 6 6 3 2 0 2 4 -16
+p300
+aVTrevor Ariza HOU 02/16/2010 HOU vs. UTA L 36 15 4 10 40.0 2 5 40.0 5 5 100.0 2 3 5 6 2 0 4 2 -9
+p301
+aVGarrett Temple HOU 02/16/2010 HOU vs. UTA L 17 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 1 1 2 3 4
+p302
+aVCharles Hayes HOU 02/16/2010 HOU vs. UTA L 18 6 3 6 50.0 0 0 - 0 0 - 1 2 3 2 1 1 3 3 -3
+p303
+aVDavid Andersen HOU 02/16/2010 HOU vs. UTA L 24 18 7 11 63.6 3 3 100.0 1 2 50.0 3 4 7 3 2 0 3 2 4
+p304
+aVCarl Landry HOU 02/16/2010 HOU vs. UTA L 25 5 1 4 25.0 0 0 - 3 3 100.0 2 4 6 1 1 0 3 2 -3
+p305
+aVAaron Brooks HOU 02/16/2010 HOU vs. UTA L 31 18 5 17 29.4 4 9 44.4 4 4 100.0 0 1 1 3 1 0 5 5 -13
+p306
+aVShane Battier HOU 02/16/2010 HOU vs. UTA L 36 3 1 10 10.0 1 5 20.0 0 0 - 3 5 8 3 1 3 0 2 -8
+p307
+aVJermaine Taylor HOU 02/09/2010 HOU @ MIA L 18 4 2 7 28.6 0 0 - 0 0 - 1 0 1 1 0 0 2 0 -19
+p308
+aVChase Budinger HOU 02/09/2010 HOU @ MIA L 36 10 3 12 25.0 2 5 40.0 2 4 50.0 1 11 12 1 0 0 2 1 -28
+p309
+aVCarl Landry HOU 02/09/2010 HOU @ MIA L 26 11 4 10 40.0 0 0 - 3 3 100.0 2 4 6 1 0 0 3 1 -12
+p310
+aVDavid Andersen HOU 02/09/2010 HOU @ MIA L 20 6 3 9 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 2 0 -22
+p311
+aVAaron Brooks HOU 02/09/2010 HOU @ MIA L 34 10 3 16 18.8 1 4 25.0 3 3 100.0 0 1 1 1 1 0 4 3 -23
+p312
+aVLuis Scola HOU 02/09/2010 HOU @ MIA L 29 12 5 12 41.7 0 0 - 2 2 100.0 1 6 7 2 1 0 2 3 -15
+p313
+aVShane Battier HOU 02/09/2010 HOU @ MIA L 32 5 2 6 33.3 1 5 20.0 0 1 0.0 1 1 2 2 0 1 0 1 -14
+p314
+aVCharles Hayes HOU 02/09/2010 HOU @ MIA L 17 4 2 2 100.0 0 0 - 0 2 0.0 5 7 12 0 0 0 0 1 3
+p315
+aVGarrett Temple HOU 02/09/2010 HOU @ MIA L 14 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 0 0 0 0 3 -10
+p316
+aVJoey Dorsey HOU 02/09/2010 HOU @ MIA L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -11
+p317
+aVBrian Cook HOU 02/09/2010 HOU @ MIA L 8 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -14
+p318
+aVCharles Hayes HOU 02/06/2010 HOU vs. PHI L 21 5 2 8 25.0 0 0 - 1 2 50.0 5 1 6 0 0 0 1 1 -20
+p319
+aVLuis Scola HOU 02/06/2010 HOU vs. PHI L 25 8 4 10 40.0 0 0 - 0 0 - 0 1 1 0 0 0 3 2 -12
+p320
+aVTrevor Ariza HOU 02/06/2010 HOU vs. PHI L 36 9 3 9 33.3 1 2 50.0 2 4 50.0 0 2 2 4 2 1 1 1 -22
+p321
+aVJermaine Taylor HOU 02/06/2010 HOU vs. PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p322
+aVCarl Landry HOU 02/06/2010 HOU vs. PHI L 32 13 5 10 50.0 0 0 - 3 5 60.0 5 5 10 1 0 2 1 1 7
+p323
+aVChase Budinger HOU 02/06/2010 HOU vs. PHI L 19 3 1 6 16.7 1 4 25.0 0 0 - 0 5 5 3 1 0 1 3 12
+p324
+aVAaron Brooks HOU 02/06/2010 HOU vs. PHI L 43 34 11 25 44.0 6 11 54.5 6 7 85.7 1 1 2 4 0 0 2 3 -14
+p325
+aVShane Battier HOU 02/06/2010 HOU vs. PHI L 27 5 2 7 28.6 1 6 16.7 0 0 - 1 4 5 1 2 0 2 5 -20
+p326
+aVKyle Lowry HOU 02/06/2010 HOU vs. PHI L 19 14 4 6 66.7 0 2 0.0 6 6 100.0 0 3 3 3 0 1 1 0 21
+p327
+aVJoey Dorsey HOU 02/06/2010 HOU vs. PHI L 18 4 2 2 100.0 0 0 - 0 0 - 3 4 7 1 1 0 2 3 12
+p328
+aVBrian Cook HOU 02/05/2010 HOU @ MEM W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p329
+aVKyle Lowry HOU 02/05/2010 HOU @ MEM W 19 7 2 6 33.3 1 3 33.3 2 4 50.0 0 2 2 4 0 0 1 1 15
+p330
+aVJermaine Taylor HOU 02/05/2010 HOU @ MEM W 3 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p331
+aVJoey Dorsey HOU 02/05/2010 HOU @ MEM W 19 7 3 5 60.0 0 0 - 1 2 50.0 6 6 12 1 1 1 0 4 16
+p332
+aVAaron Brooks HOU 02/05/2010 HOU @ MEM W 35 19 8 21 38.1 2 8 25.0 1 1 100.0 3 5 8 4 2 0 1 1 10
+p333
+aVDavid Andersen HOU 02/05/2010 HOU @ MEM W 9 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p334
+aVTrevor Ariza HOU 02/05/2010 HOU @ MEM W 33 17 7 16 43.8 2 6 33.3 1 2 50.0 1 7 8 1 2 1 1 1 13
+p335
+aVCharles Hayes HOU 02/05/2010 HOU @ MEM W 23 4 2 2 100.0 0 0 - 0 0 - 1 0 1 2 1 2 2 3 1
+p336
+aVCarl Landry HOU 02/05/2010 HOU @ MEM W 23 17 4 9 44.4 0 0 - 9 10 90.0 2 3 5 3 1 3 0 4 15
+p337
+aVChase Budinger HOU 02/05/2010 HOU @ MEM W 25 9 4 12 33.3 1 6 16.7 0 0 - 1 1 2 0 0 0 1 0 15
+p338
+aVLuis Scola HOU 02/05/2010 HOU @ MEM W 23 12 5 7 71.4 0 0 - 2 2 100.0 4 2 6 3 0 2 5 2 5
+p339
+aVShane Battier HOU 02/05/2010 HOU @ MEM W 27 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 2 2 0 3 3 4
+p340
+aVCarl Landry HOU 02/02/2010 HOU vs. GSW W 25 24 6 9 66.7 0 0 - 12 13 92.3 1 4 5 1 0 0 1 1 -6
+p341
+aVBrian Cook HOU 02/02/2010 HOU vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p342
+aVTrevor Ariza HOU 02/02/2010 HOU vs. GSW W 39 18 6 16 37.5 1 6 16.7 5 5 100.0 0 5 5 2 1 0 2 2 22
+p343
+aVJoey Dorsey HOU 02/02/2010 HOU vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p344
+aVWill Conroy HOU 02/02/2010 HOU vs. GSW W 11 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 3 1 -2
+p345
+aVCharles Hayes HOU 02/02/2010 HOU vs. GSW W 26 7 3 4 75.0 0 0 - 1 1 100.0 1 12 13 3 0 0 1 4 33
+p346
+aVAaron Brooks HOU 02/02/2010 HOU vs. GSW W 40 24 10 20 50.0 2 6 33.3 2 4 50.0 3 5 8 6 0 0 2 1 26
+p347
+aVChase Budinger HOU 02/02/2010 HOU vs. GSW W 20 14 5 7 71.4 2 4 50.0 2 2 100.0 1 3 4 1 1 1 1 0 -4
+p348
+aVLuis Scola HOU 02/02/2010 HOU vs. GSW W 23 10 4 13 30.8 0 0 - 2 2 100.0 3 5 8 2 0 2 3 2 25
+p349
+aVShane Battier HOU 02/02/2010 HOU vs. GSW W 31 12 4 6 66.7 2 4 50.0 2 4 50.0 2 3 5 5 0 2 2 1 24
+p350
+aVDavid Andersen HOU 02/02/2010 HOU vs. GSW W 18 8 4 6 66.7 0 1 0.0 0 0 - 1 6 7 1 0 0 1 1 -8
+p351
+aVWill Conroy HOU 01/31/2010 HOU vs. PHX L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -16
+p352
+aVJoey Dorsey HOU 01/31/2010 HOU vs. PHX L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 2
+p353
+aVLuis Scola HOU 01/31/2010 HOU vs. PHX L 34 17 6 18 33.3 0 0 - 5 6 83.3 2 1 3 4 1 0 2 4 -1
+p354
+aVChase Budinger HOU 01/31/2010 HOU vs. PHX L 23 12 4 8 50.0 2 5 40.0 2 2 100.0 0 3 3 2 0 0 0 1 -11
+p355
+aVShane Battier HOU 01/31/2010 HOU vs. PHX L 45 11 3 12 25.0 1 7 14.3 4 6 66.7 3 8 11 0 3 0 1 3 2
+p356
+aVAaron Brooks HOU 01/31/2010 HOU vs. PHX L 43 24 8 22 36.4 4 11 36.4 4 6 66.7 0 3 3 6 1 1 2 5 12
+p357
+aVDavid Andersen HOU 01/31/2010 HOU vs. PHX L 11 6 2 6 33.3 0 1 0.0 2 2 100.0 2 3 5 0 0 0 0 2 -2
+p358
+aVCharles Hayes HOU 01/31/2010 HOU vs. PHX L 18 2 1 2 50.0 0 0 - 0 0 - 3 2 5 1 2 0 0 2 0
+p359
+aVTrevor Ariza HOU 01/31/2010 HOU vs. PHX L 45 21 7 21 33.3 4 10 40.0 3 6 50.0 3 4 7 4 2 1 0 3 3
+p360
+aVCarl Landry HOU 01/31/2010 HOU vs. PHX L 32 16 8 14 57.1 0 0 - 0 1 0.0 5 2 7 0 2 1 1 3 -9
+p361
+aVChase Budinger HOU 01/29/2010 HOU vs. POR W 16 2 0 5 0.0 0 3 0.0 2 4 50.0 0 3 3 0 0 0 0 1 -6
+p362
+aVLuis Scola HOU 01/29/2010 HOU vs. POR W 37 12 5 10 50.0 0 0 - 2 2 100.0 2 6 8 0 1 0 0 4 10
+p363
+aVCharles Hayes HOU 01/29/2010 HOU vs. POR W 19 4 2 4 50.0 0 0 - 0 0 - 1 4 5 2 0 1 0 3 0
+p364
+aVCarl Landry HOU 01/29/2010 HOU vs. POR W 30 21 6 13 46.2 0 0 - 9 14 64.3 4 1 5 0 1 1 1 4 -1
+p365
+aVKyle Lowry HOU 01/29/2010 HOU vs. POR W 11 11 4 6 66.7 0 2 0.0 3 3 100.0 1 2 3 1 0 0 1 1 3
+p366
+aVDavid Andersen HOU 01/29/2010 HOU vs. POR W 9 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 1
+p367
+aVTrevor Ariza HOU 01/29/2010 HOU vs. POR W 39 12 5 11 45.5 1 2 50.0 1 4 25.0 0 4 4 3 2 0 2 0 4
+p368
+aVAaron Brooks HOU 01/29/2010 HOU vs. POR W 44 33 11 21 52.4 3 9 33.3 8 10 80.0 0 4 4 7 2 0 6 2 -1
+p369
+aVShane Battier HOU 01/29/2010 HOU vs. POR W 35 8 2 5 40.0 1 2 50.0 3 4 75.0 3 5 8 2 0 0 1 2 10
+p370
+aVLuis Scola HOU 01/27/2010 HOU vs. DEN L 39 20 7 16 43.8 0 0 - 6 8 75.0 3 8 11 2 2 1 4 4 14
+p371
+aVCharles Hayes HOU 01/27/2010 HOU vs. DEN L 27 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 0 2 2 2 -10
+p372
+aVDavid Andersen HOU 01/27/2010 HOU vs. DEN L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -3
+p373
+aVTrevor Ariza HOU 01/27/2010 HOU vs. DEN L 38 19 8 21 38.1 2 6 33.3 1 2 50.0 1 9 10 3 2 0 0 3 10
+p374
+aVCarl Landry HOU 01/27/2010 HOU vs. DEN L 21 7 3 7 42.9 0 0 - 1 1 100.0 1 1 2 0 0 0 4 5 -13
+p375
+aVShane Battier HOU 01/27/2010 HOU vs. DEN L 25 2 1 7 14.3 0 2 0.0 0 0 - 2 3 5 0 0 1 0 5 -3
+p376
+aVAaron Brooks HOU 01/27/2010 HOU vs. DEN L 20 22 8 11 72.7 5 6 83.3 1 2 50.0 0 2 2 0 0 0 0 4 -9
+p377
+aVChase Budinger HOU 01/27/2010 HOU vs. DEN L 25 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 -8
+p378
+aVKyle Lowry HOU 01/27/2010 HOU vs. DEN L 36 10 3 9 33.3 0 4 0.0 4 6 66.7 1 2 3 7 1 0 4 3 -3
+p379
+aVJermaine Taylor HOU 01/25/2010 HOU vs. ATL L 2 7 2 2 100.0 0 0 - 3 3 100.0 1 0 1 0 1 0 0 0 6
+p380
+aVDavid Andersen HOU 01/25/2010 HOU vs. ATL L 16 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 0 0 0 1 -2
+p381
+aVLuis Scola HOU 01/25/2010 HOU vs. ATL L 30 12 5 9 55.6 0 0 - 2 4 50.0 2 6 8 0 1 0 2 2 -11
+p382
+aVCarl Landry HOU 01/25/2010 HOU vs. ATL L 27 16 4 12 33.3 0 0 - 8 9 88.9 1 4 5 1 0 1 2 2 -17
+p383
+aVCharles Hayes HOU 01/25/2010 HOU vs. ATL L 19 4 2 5 40.0 0 0 - 0 0 - 3 2 5 1 0 1 0 1 4
+p384
+aVBrian Cook HOU 01/25/2010 HOU vs. ATL L 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 6
+p385
+aVKyle Lowry HOU 01/25/2010 HOU vs. ATL L 25 10 3 6 50.0 1 1 100.0 3 5 60.0 1 2 3 4 0 0 1 5 1
+p386
+aVAaron Brooks HOU 01/25/2010 HOU vs. ATL L 41 15 6 20 30.0 2 9 22.2 1 2 50.0 0 1 1 5 1 0 2 1 -14
+p387
+aVJoey Dorsey HOU 01/25/2010 HOU vs. ATL L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p388
+aVShane Battier HOU 01/25/2010 HOU vs. ATL L 30 10 3 7 42.9 1 4 25.0 3 3 100.0 1 6 7 1 1 1 0 2 -12
+p389
+aVTrevor Ariza HOU 01/25/2010 HOU vs. ATL L 23 8 4 11 36.4 0 4 0.0 0 0 - 0 2 2 2 0 0 2 0 -8
+p390
+aVChase Budinger HOU 01/25/2010 HOU vs. ATL L 23 9 3 7 42.9 1 3 33.3 2 2 100.0 1 1 2 0 0 0 0 1 6
+p391
+aVChase Budinger HOU 01/23/2010 HOU vs. CHI L 28 15 4 8 50.0 3 4 75.0 4 4 100.0 0 1 1 3 0 0 0 1 -3
+p392
+aVCarl Landry HOU 01/23/2010 HOU vs. CHI L 38 22 8 14 57.1 0 0 - 6 6 100.0 2 1 3 1 0 1 2 2 -4
+p393
+aVCharles Hayes HOU 01/23/2010 HOU vs. CHI L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -3
+p394
+aVTrevor Ariza HOU 01/23/2010 HOU vs. CHI L 39 8 3 14 21.4 1 7 14.3 1 2 50.0 2 3 5 2 3 0 0 1 -6
+p395
+aVKyle Lowry HOU 01/23/2010 HOU vs. CHI L 25 5 1 6 16.7 1 2 50.0 2 2 100.0 1 4 5 5 0 0 2 4 -3
+p396
+aVLuis Scola HOU 01/23/2010 HOU vs. CHI L 40 20 7 16 43.8 0 0 - 6 7 85.7 2 5 7 2 0 0 0 5 -3
+p397
+aVShane Battier HOU 01/23/2010 HOU vs. CHI L 24 2 1 4 25.0 0 1 0.0 0 0 - 2 6 8 2 0 1 0 1 -4
+p398
+aVAaron Brooks HOU 01/23/2010 HOU vs. CHI L 31 20 8 19 42.1 3 8 37.5 1 1 100.0 0 3 3 2 0 0 3 2 -10
+p399
+aVDavid Andersen HOU 01/23/2010 HOU vs. CHI L 6 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 1 1
+p400
+aVDavid Andersen HOU 01/22/2010 HOU @ SAS W 15 6 2 6 33.3 0 1 0.0 2 2 100.0 0 3 3 0 0 1 1 2 1
+p401
+aVCarl Landry HOU 01/22/2010 HOU @ SAS W 26 19 6 9 66.7 0 0 - 7 8 87.5 2 1 3 0 1 2 0 5 13
+p402
+aVCharles Hayes HOU 01/22/2010 HOU @ SAS W 17 0 0 1 0.0 0 0 - 0 0 - 0 6 6 3 0 0 0 3 -6
+p403
+aVChase Budinger HOU 01/22/2010 HOU @ SAS W 20 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 1 2 0 1 2 9
+p404
+aVAaron Brooks HOU 01/22/2010 HOU @ SAS W 39 23 9 18 50.0 2 5 40.0 3 4 75.0 0 2 2 7 3 1 3 3 7
+p405
+aVKyle Lowry HOU 01/22/2010 HOU @ SAS W 34 23 7 11 63.6 2 2 100.0 7 8 87.5 3 3 6 9 2 0 4 5 14
+p406
+aVLuis Scola HOU 01/22/2010 HOU @ SAS W 26 13 6 11 54.5 0 0 - 1 2 50.0 0 9 9 2 0 0 3 3 -3
+p407
+aVTrevor Ariza HOU 01/22/2010 HOU @ SAS W 33 13 5 11 45.5 1 3 33.3 2 3 66.7 0 6 6 4 1 0 2 1 6
+p408
+aVShane Battier HOU 01/22/2010 HOU @ SAS W 31 14 6 6 100.0 2 2 100.0 0 0 - 2 4 6 1 0 1 1 5 -6
+p409
+aVLuis Scola HOU 01/18/2010 HOU vs. MIL W 39 27 10 18 55.6 0 0 - 7 8 87.5 4 11 15 3 1 0 1 0 -9
+p410
+aVTrevor Ariza HOU 01/18/2010 HOU vs. MIL W 40 11 4 9 44.4 1 5 20.0 2 2 100.0 0 4 4 0 1 0 3 3 -11
+p411
+aVChase Budinger HOU 01/18/2010 HOU vs. MIL W 15 12 5 9 55.6 2 5 40.0 0 0 - 0 3 3 1 0 0 0 1 10
+p412
+aVShane Battier HOU 01/18/2010 HOU vs. MIL W 32 9 2 5 40.0 1 3 33.3 4 6 66.7 1 3 4 2 2 0 0 2 -3
+p413
+aVCarl Landry HOU 01/18/2010 HOU vs. MIL W 31 12 4 10 40.0 0 0 - 4 4 100.0 2 5 7 0 0 2 1 3 9
+p414
+aVCharles Hayes HOU 01/18/2010 HOU vs. MIL W 24 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 0 2 3 -3
+p415
+aVAaron Brooks HOU 01/18/2010 HOU vs. MIL W 50 13 5 21 23.8 1 7 14.3 2 3 66.7 1 2 3 10 2 1 2 3 7
+p416
+aVKyle Lowry HOU 01/18/2010 HOU vs. MIL W 26 7 2 6 33.3 0 2 0.0 3 3 100.0 2 2 4 5 0 0 2 0 5
+p417
+aVDavid Andersen HOU 01/18/2010 HOU vs. MIL W 9 6 2 3 66.7 1 2 50.0 1 2 50.0 1 4 5 2 0 0 0 1 10
+p418
+aVDavid Andersen HOU 01/15/2010 HOU vs. MIA L 18 12 4 6 66.7 2 2 100.0 2 2 100.0 2 3 5 3 0 0 2 1 -1
+p419
+aVLuis Scola HOU 01/15/2010 HOU vs. MIA L 35 17 8 14 57.1 0 0 - 1 2 50.0 4 1 5 1 1 1 0 4 -1
+p420
+aVChase Budinger HOU 01/15/2010 HOU vs. MIA L 22 17 6 9 66.7 3 4 75.0 2 2 100.0 0 1 1 0 0 0 1 1 -15
+p421
+aVKyle Lowry HOU 01/15/2010 HOU vs. MIA L 16 11 2 3 66.7 0 0 - 7 7 100.0 0 2 2 2 0 0 1 4 -11
+p422
+aVAaron Brooks HOU 01/15/2010 HOU vs. MIA L 36 14 5 12 41.7 1 6 16.7 3 4 75.0 0 4 4 5 1 0 4 3 1
+p423
+aVShane Battier HOU 01/15/2010 HOU vs. MIA L 34 9 3 7 42.9 3 5 60.0 0 0 - 0 6 6 4 1 0 0 3 -9
+p424
+aVTrevor Ariza HOU 01/15/2010 HOU vs. MIA L 35 15 5 14 35.7 2 4 50.0 3 4 75.0 1 5 6 3 1 1 3 1 7
+p425
+aVCharles Hayes HOU 01/15/2010 HOU vs. MIA L 20 6 2 3 66.7 0 0 - 2 2 100.0 0 5 5 0 1 2 2 1 0
+p426
+aVCarl Landry HOU 01/15/2010 HOU vs. MIA L 23 5 2 8 25.0 0 0 - 1 2 50.0 1 1 2 2 1 0 2 3 -16
+p427
+aVShane Battier HOU 01/13/2010 HOU vs. MIN W 50 14 5 15 33.3 2 5 40.0 2 5 40.0 7 5 12 3 2 5 1 0 19
+p428
+aVLuis Scola HOU 01/13/2010 HOU vs. MIN W 32 12 6 9 66.7 0 0 - 0 0 - 0 5 5 3 2 0 2 2 22
+p429
+aVChase Budinger HOU 01/13/2010 HOU vs. MIN W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -12
+p430
+aVCharles Hayes HOU 01/13/2010 HOU vs. MIN W 50 10 5 6 83.3 0 0 - 0 0 - 4 13 17 6 4 2 4 6 7
+p431
+aVTrevor Ariza HOU 01/13/2010 HOU vs. MIN W 57 19 7 19 36.8 0 5 0.0 5 7 71.4 0 7 7 7 2 0 4 2 10
+p432
+aVDavid Andersen HOU 01/13/2010 HOU vs. MIN W 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -13
+p433
+aVCarl Landry HOU 01/13/2010 HOU vs. MIN W 37 16 6 13 46.2 0 0 - 4 8 50.0 4 3 7 0 0 0 2 2 -7
+p434
+aVKyle Lowry HOU 01/13/2010 HOU vs. MIN W 18 2 0 8 0.0 0 5 0.0 2 2 100.0 2 4 6 2 0 0 1 2 -11
+p435
+aVAaron Brooks HOU 01/13/2010 HOU vs. MIN W 59 43 14 30 46.7 6 9 66.7 9 12 75.0 0 3 3 5 1 0 1 3 15
+p436
+aVCharles Hayes HOU 01/12/2010 HOU @ CHA L 17 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 2 0 2 -3
+p437
+aVKyle Lowry HOU 01/12/2010 HOU @ CHA L 26 9 3 7 42.9 1 4 25.0 2 2 100.0 3 4 7 5 0 0 1 4 -4
+p438
+aVAaron Brooks HOU 01/12/2010 HOU @ CHA L 38 11 3 14 21.4 3 8 37.5 2 2 100.0 1 0 1 6 0 0 1 3 -14
+p439
+aVLuis Scola HOU 01/12/2010 HOU @ CHA L 36 18 9 15 60.0 0 1 0.0 0 0 - 3 11 14 4 0 1 3 3 -9
+p440
+aVShane Battier HOU 01/12/2010 HOU @ CHA L 33 10 3 9 33.3 2 7 28.6 2 2 100.0 1 2 3 1 0 0 2 4 -6
+p441
+aVDavid Andersen HOU 01/12/2010 HOU @ CHA L 12 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 3
+p442
+aVTrevor Ariza HOU 01/12/2010 HOU @ CHA L 39 19 7 16 43.8 2 6 33.3 3 6 50.0 3 3 6 4 2 0 4 2 -10
+p443
+aVCarl Landry HOU 01/12/2010 HOU @ CHA L 24 10 3 7 42.9 0 0 - 4 4 100.0 1 2 3 0 2 1 2 2 -1
+p444
+aVChase Budinger HOU 01/12/2010 HOU @ CHA L 16 7 2 5 40.0 2 4 50.0 1 2 50.0 0 0 0 2 1 0 1 1 4
+p445
+aVLuis Scola HOU 01/09/2010 HOU vs. NYK W 26 23 10 16 62.5 0 1 0.0 3 3 100.0 2 5 7 0 0 0 1 1 1
+p446
+aVAaron Brooks HOU 01/09/2010 HOU vs. NYK W 33 20 8 15 53.3 2 4 50.0 2 2 100.0 1 3 4 4 0 1 3 1 7
+p447
+aVShane Battier HOU 01/09/2010 HOU vs. NYK W 38 4 2 7 28.6 0 3 0.0 0 0 - 3 3 6 5 0 3 1 1 24
+p448
+aVChase Budinger HOU 01/09/2010 HOU vs. NYK W 20 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 2 1 0 1 0 3
+p449
+aVTrevor Ariza HOU 01/09/2010 HOU vs. NYK W 23 10 4 8 50.0 2 6 33.3 0 0 - 0 2 2 3 3 0 1 5 -5
+p450
+aVCarl Landry HOU 01/09/2010 HOU vs. NYK W 28 14 6 11 54.5 0 0 - 2 4 50.0 1 2 3 1 0 0 1 2 10
+p451
+aVDavid Andersen HOU 01/09/2010 HOU vs. NYK W 20 10 4 8 50.0 0 2 0.0 2 2 100.0 0 4 4 0 1 0 0 2 6
+p452
+aVCharles Hayes HOU 01/09/2010 HOU vs. NYK W 20 0 0 4 0.0 0 0 - 0 0 - 3 3 6 3 0 1 1 3 -1
+p453
+aVKyle Lowry HOU 01/09/2010 HOU vs. NYK W 31 16 5 9 55.6 1 2 50.0 5 6 83.3 3 4 7 3 3 1 1 2 0
+p454
+aVLuis Scola HOU 01/06/2010 HOU @ PHX L 23 11 5 11 45.5 0 0 - 1 2 50.0 3 2 5 0 1 0 2 1 -20
+p455
+aVTrevor Ariza HOU 01/06/2010 HOU @ PHX L 33 15 5 14 35.7 4 11 36.4 1 1 100.0 0 4 4 1 1 0 0 1 -19
+p456
+aVDavid Andersen HOU 01/06/2010 HOU @ PHX L 16 5 2 5 40.0 0 1 0.0 1 2 50.0 2 2 4 3 1 0 1 5 20
+p457
+aVCharles Hayes HOU 01/06/2010 HOU @ PHX L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -21
+p458
+aVCarl Landry HOU 01/06/2010 HOU @ PHX L 34 31 14 23 60.9 0 0 - 3 3 100.0 5 5 10 1 2 1 2 3 13
+p459
+aVKyle Lowry HOU 01/06/2010 HOU @ PHX L 28 3 1 3 33.3 0 0 - 1 1 100.0 3 3 6 6 0 0 4 2 7
+p460
+aVChase Budinger HOU 01/06/2010 HOU @ PHX L 23 9 4 11 36.4 1 6 16.7 0 0 - 1 7 8 1 0 0 1 3 13
+p461
+aVShane Battier HOU 01/06/2010 HOU @ PHX L 28 0 0 4 0.0 0 3 0.0 0 0 - 2 3 5 3 1 0 3 2 -22
+p462
+aVAaron Brooks HOU 01/06/2010 HOU @ PHX L 43 34 11 22 50.0 6 12 50.0 6 6 100.0 1 2 3 5 2 0 4 4 -11
+p463
+aVTrevor Ariza HOU 01/05/2010 HOU @ LAL L 38 12 5 14 35.7 1 5 20.0 1 1 100.0 1 2 3 8 1 0 2 1 -2
+p464
+aVCarl Landry HOU 01/05/2010 HOU @ LAL L 31 19 7 11 63.6 0 0 - 5 6 83.3 1 5 6 1 1 1 1 3 5
+p465
+aVDavid Andersen HOU 01/05/2010 HOU @ LAL L 15 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 0 0 1 0 1 -4
+p466
+aVKyle Lowry HOU 01/05/2010 HOU @ LAL L 20 2 1 3 33.3 0 1 0.0 0 2 0.0 2 7 9 5 0 0 2 2 -3
+p467
+aVAaron Brooks HOU 01/05/2010 HOU @ LAL L 38 18 7 16 43.8 1 6 16.7 3 4 75.0 0 3 3 3 3 0 5 5 -13
+p468
+aVChase Budinger HOU 01/05/2010 HOU @ LAL L 9 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 8
+p469
+aVLuis Scola HOU 01/05/2010 HOU @ LAL L 34 15 7 14 50.0 0 0 - 1 3 33.3 1 3 4 2 0 1 3 3 -7
+p470
+aVCharles Hayes HOU 01/05/2010 HOU @ LAL L 17 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 2 0 0 1 -12
+p471
+aVShane Battier HOU 01/05/2010 HOU @ LAL L 39 7 2 8 25.0 2 7 28.6 1 2 50.0 1 3 4 2 2 0 2 5 -17
+p472
+aVShane Battier HOU 01/02/2010 HOU @ NOH L 36 6 2 5 40.0 2 4 50.0 0 0 - 1 3 4 4 1 0 1 1 -7
+p473
+aVLuis Scola HOU 01/02/2010 HOU @ NOH L 24 15 5 11 45.5 0 0 - 5 6 83.3 1 2 3 0 0 0 1 4 -1
+p474
+aVCarl Landry HOU 01/02/2010 HOU @ NOH L 19 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 0 1 2 6 4
+p475
+aVAaron Brooks HOU 01/02/2010 HOU @ NOH L 38 17 6 11 54.5 3 6 50.0 2 2 100.0 0 1 1 2 0 0 3 1 -7
+p476
+aVKyle Lowry HOU 01/02/2010 HOU @ NOH L 25 12 3 8 37.5 1 1 100.0 5 5 100.0 4 2 6 6 0 0 0 5 5
+p477
+aVTrevor Ariza HOU 01/02/2010 HOU @ NOH L 38 19 7 14 50.0 2 7 28.6 3 4 75.0 0 7 7 3 1 0 7 2 -6
+p478
+aVJermaine Taylor HOU 01/02/2010 HOU @ NOH L 7 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 0 2
+p479
+aVCharles Hayes HOU 01/02/2010 HOU @ NOH L 36 9 4 7 57.1 0 0 - 1 2 50.0 1 12 13 5 1 0 1 4 -13
+p480
+aVDavid Andersen HOU 01/02/2010 HOU @ NOH L 16 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 0 0 0 0 2 3
+p481
+aVKyle Lowry HOU 12/31/2009 HOU vs. DAL W 28 12 5 8 62.5 2 3 66.7 0 0 - 3 3 6 5 1 0 1 4 -11
+p482
+aVCarl Landry HOU 12/31/2009 HOU vs. DAL W 32 15 7 13 53.8 0 0 - 1 1 100.0 2 1 3 0 0 0 2 2 -6
+p483
+aVLuis Scola HOU 12/31/2009 HOU vs. DAL W 31 12 6 11 54.5 0 0 - 0 0 - 2 11 13 2 1 0 2 3 8
+p484
+aVTrevor Ariza HOU 12/31/2009 HOU vs. DAL W 41 11 4 10 40.0 0 2 0.0 3 6 50.0 1 8 9 7 3 0 5 2 5
+p485
+aVAaron Brooks HOU 12/31/2009 HOU vs. DAL W 43 30 11 26 42.3 6 12 50.0 2 3 66.7 1 3 4 4 0 0 3 3 1
+p486
+aVCharles Hayes HOU 12/31/2009 HOU vs. DAL W 16 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 1 0 0 9
+p487
+aVShane Battier HOU 12/31/2009 HOU vs. DAL W 38 11 4 12 33.3 2 9 22.2 1 1 100.0 2 6 8 5 2 1 1 4 14
+p488
+aVDavid Andersen HOU 12/31/2009 HOU vs. DAL W 12 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p489
+aVAaron Brooks HOU 12/29/2009 HOU vs. NOH W 37 27 8 12 66.7 5 7 71.4 6 7 85.7 1 0 1 4 1 0 1 5 6
+p490
+aVShane Battier HOU 12/29/2009 HOU vs. NOH W 43 20 7 12 58.3 5 8 62.5 1 1 100.0 0 2 2 3 0 1 2 1 4
+p491
+aVLuis Scola HOU 12/29/2009 HOU vs. NOH W 32 13 5 10 50.0 0 0 - 3 4 75.0 1 11 12 3 1 0 0 3 -6
+p492
+aVCharles Hayes HOU 12/29/2009 HOU vs. NOH W 15 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 2 0 0 1 2 -12
+p493
+aVDavid Andersen HOU 12/29/2009 HOU vs. NOH W 12 6 3 5 60.0 0 0 - 0 0 - 0 4 4 1 0 0 0 1 18
+p494
+aVTrevor Ariza HOU 12/29/2009 HOU vs. NOH W 38 13 5 15 33.3 2 8 25.0 1 2 50.0 2 3 5 5 1 0 3 3 -4
+p495
+aVKyle Lowry HOU 12/29/2009 HOU vs. NOH W 28 7 2 2 100.0 0 0 - 3 4 75.0 0 5 5 7 0 0 4 3 21
+p496
+aVCarl Landry HOU 12/29/2009 HOU vs. NOH W 35 18 6 16 37.5 0 0 - 6 8 75.0 4 2 6 2 1 1 1 0 13
+p497
+aVAaron Brooks HOU 12/27/2009 HOU @ CLE L 30 23 7 15 46.7 3 6 50.0 6 6 100.0 1 2 3 3 0 0 2 2 -11
+p498
+aVJermaine Taylor HOU 12/27/2009 HOU @ CLE L 18 4 2 7 28.6 0 1 0.0 0 0 - 2 0 2 1 0 2 0 1 -9
+p499
+aVShane Battier HOU 12/27/2009 HOU @ CLE L 30 7 2 5 40.0 1 4 25.0 2 3 66.7 0 2 2 3 1 0 2 2 -16
+p500
+aVTrevor Ariza HOU 12/27/2009 HOU @ CLE L 31 11 2 10 20.0 2 5 40.0 5 8 62.5 2 3 5 3 0 0 2 0 -22
+p501
+aVLuis Scola HOU 12/27/2009 HOU @ CLE L 22 8 4 9 44.4 0 0 - 0 0 - 0 4 4 2 0 1 2 2 -14
+p502
+aVKyle Lowry HOU 12/27/2009 HOU @ CLE L 24 2 0 5 0.0 0 3 0.0 2 2 100.0 0 2 2 3 0 0 0 3 -11
+p503
+aVBrian Cook HOU 12/27/2009 HOU @ CLE L 6 4 1 2 50.0 1 2 50.0 1 2 50.0 0 3 3 0 0 0 1 0 0
+p504
+aVMichael Harris HOU 12/27/2009 HOU @ CLE L 10 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 0 0 2 1 -6
+p505
+aVDavid Andersen HOU 12/27/2009 HOU @ CLE L 28 7 2 10 20.0 1 4 25.0 2 4 50.0 0 3 3 2 3 0 1 3 -12
+p506
+aVCarl Landry HOU 12/27/2009 HOU @ CLE L 25 11 3 8 37.5 0 0 - 5 5 100.0 0 6 6 0 0 1 2 0 -16
+p507
+aVCharles Hayes HOU 12/27/2009 HOU @ CLE L 15 1 0 2 0.0 0 0 - 1 2 50.0 0 4 4 1 1 0 2 3 -8
+p508
+aVShane Battier HOU 12/26/2009 HOU @ NJN W 36 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 2 1 1 0 2 12
+p509
+aVCarl Landry HOU 12/26/2009 HOU @ NJN W 31 26 9 14 64.3 0 0 - 8 11 72.7 5 4 9 3 0 0 4 3 -3
+p510
+aVAaron Brooks HOU 12/26/2009 HOU @ NJN W 36 17 5 13 38.5 2 3 66.7 5 7 71.4 3 4 7 3 0 1 1 1 6
+p511
+aVJermaine Taylor HOU 12/26/2009 HOU @ NJN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p512
+aVLuis Scola HOU 12/26/2009 HOU @ NJN W 32 17 7 16 43.8 0 0 - 3 4 75.0 1 7 8 1 0 0 1 2 3
+p513
+aVCharles Hayes HOU 12/26/2009 HOU @ NJN W 17 2 1 3 33.3 0 0 - 0 2 0.0 1 3 4 0 2 0 0 1 8
+p514
+aVKyle Lowry HOU 12/26/2009 HOU @ NJN W 24 7 1 9 11.1 1 2 50.0 4 6 66.7 1 3 4 5 1 0 1 3 -7
+p515
+aVTrevor Ariza HOU 12/26/2009 HOU @ NJN W 43 13 5 17 29.4 1 8 12.5 2 2 100.0 3 8 11 8 0 0 1 3 9
+p516
+aVDavid Andersen HOU 12/26/2009 HOU @ NJN W 16 8 3 6 50.0 2 3 66.7 0 0 - 2 3 5 3 0 0 1 2 1
+p517
+aVLuis Scola HOU 12/23/2009 HOU @ ORL L 25 14 7 14 50.0 0 0 - 0 0 - 0 5 5 2 0 0 0 3 -4
+p518
+aVKyle Lowry HOU 12/23/2009 HOU @ ORL L 25 13 5 12 41.7 1 3 33.3 2 4 50.0 1 4 5 2 1 0 1 1 0
+p519
+aVTracy McGrady HOU 12/23/2009 HOU @ ORL L 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p520
+aVDavid Andersen HOU 12/23/2009 HOU @ ORL L 20 0 0 3 0.0 0 2 0.0 0 0 - 1 3 4 0 1 0 0 5 -4
+p521
+aVJermaine Taylor HOU 12/23/2009 HOU @ ORL L 11 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 5
+p522
+aVShane Battier HOU 12/23/2009 HOU @ ORL L 33 5 1 4 25.0 1 3 33.3 2 2 100.0 1 4 5 4 1 1 2 1 -11
+p523
+aVCarl Landry HOU 12/23/2009 HOU @ ORL L 25 20 8 11 72.7 0 0 - 4 4 100.0 1 2 3 1 1 1 2 4 -9
+p524
+aVMichael Harris HOU 12/23/2009 HOU @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p525
+aVBrian Cook HOU 12/23/2009 HOU @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p526
+aVCharles Hayes HOU 12/23/2009 HOU @ ORL L 20 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 2 -8
+p527
+aVAaron Brooks HOU 12/23/2009 HOU @ ORL L 34 17 5 14 35.7 4 8 50.0 3 3 100.0 0 3 3 4 1 0 3 1 -15
+p528
+aVTrevor Ariza HOU 12/23/2009 HOU @ ORL L 36 6 1 10 10.0 0 3 0.0 4 4 100.0 1 6 7 1 1 0 1 2 -23
+p529
+aVCharles Hayes HOU 12/22/2009 HOU vs. LAC W 11 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 2 0 0 1 4 -8
+p530
+aVTrevor Ariza HOU 12/22/2009 HOU vs. LAC W 35 7 2 11 18.2 0 4 0.0 3 6 50.0 1 3 4 6 1 2 1 3 4
+p531
+aVAaron Brooks HOU 12/22/2009 HOU vs. LAC W 23 7 2 8 25.0 1 4 25.0 2 3 66.7 1 0 1 1 0 0 0 1 -5
+p532
+aVLuis Scola HOU 12/22/2009 HOU vs. LAC W 28 19 9 13 69.2 0 0 - 1 2 50.0 3 4 7 1 2 1 1 3 -4
+p533
+aVCarl Landry HOU 12/22/2009 HOU vs. LAC W 37 27 7 10 70.0 0 0 - 13 15 86.7 2 3 5 1 0 2 3 1 17
+p534
+aVShane Battier HOU 12/22/2009 HOU vs. LAC W 41 11 4 10 40.0 3 6 50.0 0 1 0.0 1 7 8 3 0 1 1 0 4
+p535
+aVJermaine Taylor HOU 12/22/2009 HOU vs. LAC W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 5
+p536
+aVTracy McGrady HOU 12/22/2009 HOU vs. LAC W 8 10 3 5 60.0 0 0 - 4 4 100.0 0 1 1 3 0 0 0 0 3
+p537
+aVKyle Lowry HOU 12/22/2009 HOU vs. LAC W 30 16 6 13 46.2 1 3 33.3 3 3 100.0 2 3 5 7 2 0 2 2 19
+p538
+aVDavid Andersen HOU 12/22/2009 HOU vs. LAC W 19 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 3 10
+p539
+aVTracy McGrady HOU 12/19/2009 HOU vs. OKC W 8 2 1 5 20.0 0 0 - 0 0 - 0 1 1 2 0 1 0 0 1
+p540
+aVCharles Hayes HOU 12/19/2009 HOU vs. OKC W 31 13 6 9 66.7 0 0 - 1 2 50.0 8 7 15 2 1 0 2 2 10
+p541
+aVChase Budinger HOU 12/19/2009 HOU vs. OKC W 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p542
+aVAaron Brooks HOU 12/19/2009 HOU vs. OKC W 35 5 2 15 13.3 0 5 0.0 1 2 50.0 1 2 3 4 1 0 2 5 8
+p543
+aVLuis Scola HOU 12/19/2009 HOU vs. OKC W 35 16 7 15 46.7 0 0 - 2 4 50.0 3 5 8 1 1 1 0 3 5
+p544
+aVKyle Lowry HOU 12/19/2009 HOU vs. OKC W 25 3 1 5 20.0 0 2 0.0 1 1 100.0 0 2 2 5 1 0 1 3 -5
+p545
+aVDavid Andersen HOU 12/19/2009 HOU vs. OKC W 18 10 4 11 36.4 0 3 0.0 2 2 100.0 4 0 4 1 0 1 0 3 -8
+p546
+aVTrevor Ariza HOU 12/19/2009 HOU vs. OKC W 47 31 11 20 55.0 5 8 62.5 4 10 40.0 1 7 8 6 2 1 1 1 5
+p547
+aVShane Battier HOU 12/19/2009 HOU vs. OKC W 37 13 5 7 71.4 3 5 60.0 0 0 - 0 3 3 1 0 1 2 1 7
+p548
+aVShane Battier HOU 12/18/2009 HOU @ DAL W 33 5 2 6 33.3 1 4 25.0 0 0 - 0 5 5 2 0 1 2 4 -3
+p549
+aVCharles Hayes HOU 12/18/2009 HOU @ DAL W 16 4 2 4 50.0 0 0 - 0 0 - 2 3 5 2 1 0 0 4 -6
+p550
+aVAaron Brooks HOU 12/18/2009 HOU @ DAL W 38 25 8 20 40.0 2 5 40.0 7 8 87.5 1 3 4 6 2 0 3 5 -5
+p551
+aVCarl Landry HOU 12/18/2009 HOU @ DAL W 6 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 4
+p552
+aVTrevor Ariza HOU 12/18/2009 HOU @ DAL W 44 13 5 10 50.0 0 1 0.0 3 5 60.0 3 5 8 2 0 1 2 2 -8
+p553
+aVDavid Andersen HOU 12/18/2009 HOU @ DAL W 25 16 7 16 43.8 1 3 33.3 1 2 50.0 1 2 3 1 0 0 1 1 21
+p554
+aVKyle Lowry HOU 12/18/2009 HOU @ DAL W 39 26 8 13 61.5 3 5 60.0 7 9 77.8 3 3 6 10 5 1 2 1 23
+p555
+aVChase Budinger HOU 12/18/2009 HOU @ DAL W 13 4 1 3 33.3 1 2 50.0 1 1 100.0 0 2 2 1 0 0 0 2 12
+p556
+aVTracy McGrady HOU 12/18/2009 HOU @ DAL W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p557
+aVLuis Scola HOU 12/18/2009 HOU @ DAL W 44 19 9 18 50.0 0 0 - 1 1 100.0 4 6 10 5 0 0 3 3 2
+p558
+aVLuis Scola HOU 12/16/2009 HOU @ DEN L 27 9 4 5 80.0 0 0 - 1 2 50.0 1 7 8 1 0 0 1 1 -6
+p559
+aVJermaine Taylor HOU 12/16/2009 HOU @ DEN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p560
+aVCharles Hayes HOU 12/16/2009 HOU @ DEN L 20 4 2 7 28.6 0 0 - 0 0 - 2 5 7 1 0 0 2 3 5
+p561
+aVTrevor Ariza HOU 12/16/2009 HOU @ DEN L 35 18 7 18 38.9 1 8 12.5 3 3 100.0 2 6 8 4 1 0 3 3 -15
+p562
+aVChase Budinger HOU 12/16/2009 HOU @ DEN L 14 2 0 4 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 1 1 4 -6
+p563
+aVShane Battier HOU 12/16/2009 HOU @ DEN L 31 11 4 8 50.0 3 5 60.0 0 0 - 1 3 4 4 2 3 0 5 10
+p564
+aVDavid Andersen HOU 12/16/2009 HOU @ DEN L 21 17 6 8 75.0 3 4 75.0 2 2 100.0 0 9 9 0 0 0 2 2 -4
+p565
+aVCarl Landry HOU 12/16/2009 HOU @ DEN L 27 12 5 10 50.0 0 0 - 2 2 100.0 3 3 6 0 1 1 4 5 -14
+p566
+aVBrian Cook HOU 12/16/2009 HOU @ DEN L 1 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p567
+aVTracy McGrady HOU 12/16/2009 HOU @ DEN L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -10
+p568
+aVKyle Lowry HOU 12/16/2009 HOU @ DEN L 27 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 6 2 0 3 1 -9
+p569
+aVAaron Brooks HOU 12/16/2009 HOU @ DEN L 30 23 7 15 46.7 3 6 50.0 6 7 85.7 0 1 1 7 1 0 3 1 1
+p570
+aVTracy McGrady HOU 12/15/2009 HOU vs. DET W 8 3 1 2 50.0 1 1 100.0 0 2 0.0 0 3 3 0 0 0 0 0 12
+p571
+aVLuis Scola HOU 12/15/2009 HOU vs. DET W 40 23 10 16 62.5 0 0 - 3 5 60.0 2 6 8 2 0 0 2 3 6
+p572
+aVCharles Hayes HOU 12/15/2009 HOU vs. DET W 20 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 4 3 0 0 1 8
+p573
+aVShane Battier HOU 12/15/2009 HOU vs. DET W 26 4 2 4 50.0 0 2 0.0 0 0 - 1 3 4 2 0 1 2 1 2
+p574
+aVDavid Andersen HOU 12/15/2009 HOU vs. DET W 8 6 2 2 100.0 0 0 - 2 3 66.7 1 1 2 2 0 0 0 2 5
+p575
+aVKyle Lowry HOU 12/15/2009 HOU vs. DET W 27 7 2 6 33.3 0 2 0.0 3 3 100.0 1 5 6 3 2 0 1 4 5
+p576
+aVAaron Brooks HOU 12/15/2009 HOU vs. DET W 43 23 10 20 50.0 0 6 0.0 3 4 75.0 0 3 3 10 0 0 3 2 15
+p577
+aVCarl Landry HOU 12/15/2009 HOU vs. DET W 28 19 6 10 60.0 0 0 - 7 10 70.0 1 2 3 0 1 0 1 3 3
+p578
+aVChase Budinger HOU 12/15/2009 HOU vs. DET W 40 16 6 11 54.5 1 5 20.0 3 3 100.0 0 12 12 5 0 0 2 1 -1
+p579
+aVShane Battier HOU 12/13/2009 HOU @ TOR L 29 4 1 4 25.0 0 3 0.0 2 2 100.0 0 1 1 2 0 0 2 1 -9
+p580
+aVLuis Scola HOU 12/13/2009 HOU @ TOR L 38 21 9 18 50.0 0 0 - 3 3 100.0 4 11 15 0 1 1 0 4 -12
+p581
+aVBrian Cook HOU 12/13/2009 HOU @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p582
+aVCharles Hayes HOU 12/13/2009 HOU @ TOR L 16 2 1 5 20.0 0 0 - 0 0 - 2 5 7 1 0 0 1 3 -14
+p583
+aVTrevor Ariza HOU 12/13/2009 HOU @ TOR L 26 1 0 9 0.0 0 3 0.0 1 2 50.0 0 2 2 1 1 0 4 2 -22
+p584
+aVDavid Andersen HOU 12/13/2009 HOU @ TOR L 10 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 2 -1
+p585
+aVChase Budinger HOU 12/13/2009 HOU @ TOR L 19 3 1 6 16.7 0 2 0.0 1 2 50.0 0 1 1 1 1 0 0 2 -4
+p586
+aVKyle Lowry HOU 12/13/2009 HOU @ TOR L 28 8 2 6 33.3 0 2 0.0 4 6 66.7 2 0 2 3 2 0 0 0 7
+p587
+aVAaron Brooks HOU 12/13/2009 HOU @ TOR L 41 20 6 20 30.0 3 12 25.0 5 5 100.0 1 2 3 4 0 0 1 1 -9
+p588
+aVCarl Landry HOU 12/13/2009 HOU @ TOR L 31 25 10 13 76.9 0 0 - 5 5 100.0 6 1 7 1 1 1 1 2 3
+p589
+aVJermaine Taylor HOU 12/13/2009 HOU @ TOR L 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p590
+aVChase Budinger HOU 12/11/2009 HOU @ PHI W 18 15 6 8 75.0 2 4 50.0 1 1 100.0 0 2 2 1 0 1 0 2 4
+p591
+aVShane Battier HOU 12/11/2009 HOU @ PHI W 28 3 1 7 14.3 1 5 20.0 0 0 - 0 1 1 2 0 1 0 4 1
+p592
+aVCarl Landry HOU 12/11/2009 HOU @ PHI W 33 20 4 9 44.4 0 0 - 12 14 85.7 3 4 7 2 0 2 3 2 6
+p593
+aVDavid Andersen HOU 12/11/2009 HOU @ PHI W 12 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 3 4
+p594
+aVLuis Scola HOU 12/11/2009 HOU @ PHI W 35 14 6 10 60.0 0 0 - 2 2 100.0 2 9 11 2 0 0 2 4 7
+p595
+aVAaron Brooks HOU 12/11/2009 HOU @ PHI W 35 19 7 16 43.8 3 5 60.0 2 4 50.0 0 1 1 1 2 1 3 3 0
+p596
+aVTrevor Ariza HOU 12/11/2009 HOU @ PHI W 42 13 5 13 38.5 2 5 40.0 1 6 16.7 1 11 12 3 2 0 2 2 2
+p597
+aVCharles Hayes HOU 12/11/2009 HOU @ PHI W 17 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 2 1 0 1 5 -7
+p598
+aVKyle Lowry HOU 12/11/2009 HOU @ PHI W 21 11 4 5 80.0 0 0 - 3 4 75.0 0 1 1 2 1 0 1 3 8
+p599
+aVLuis Scola HOU 12/09/2009 HOU vs. CLE W 25 5 2 9 22.2 0 0 - 1 2 50.0 1 9 10 1 1 0 0 4 15
+p600
+aVKyle Lowry HOU 12/09/2009 HOU vs. CLE W 19 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 4 1 0 0 2 -3
+p601
+aVShane Battier HOU 12/09/2009 HOU vs. CLE W 38 14 4 11 36.4 4 7 57.1 2 3 66.7 2 2 4 3 3 2 2 4 10
+p602
+aVTrevor Ariza HOU 12/09/2009 HOU vs. CLE W 45 26 11 19 57.9 4 6 66.7 0 0 - 0 5 5 2 2 0 3 2 18
+p603
+aVCarl Landry HOU 12/09/2009 HOU vs. CLE W 29 14 5 8 62.5 0 0 - 4 5 80.0 1 5 6 0 0 1 3 4 4
+p604
+aVChase Budinger HOU 12/09/2009 HOU vs. CLE W 8 0 0 5 0.0 0 2 0.0 0 2 0.0 0 0 0 0 0 0 0 0 -4
+p605
+aVAaron Brooks HOU 12/09/2009 HOU vs. CLE W 37 27 7 17 41.2 1 4 25.0 12 13 92.3 0 3 3 6 1 0 3 1 8
+p606
+aVCharles Hayes HOU 12/09/2009 HOU vs. CLE W 24 5 2 4 50.0 0 0 - 1 4 25.0 3 4 7 3 1 0 2 3 11
+p607
+aVDavid Andersen HOU 12/09/2009 HOU vs. CLE W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -9
+p608
+aVLuis Scola HOU 12/05/2009 HOU @ POR L 38 21 9 17 52.9 0 0 - 3 4 75.0 0 5 5 2 0 0 1 3 -7
+p609
+aVAaron Brooks HOU 12/05/2009 HOU @ POR L 31 6 3 9 33.3 0 4 0.0 0 0 - 0 0 0 5 0 0 3 2 -5
+p610
+aVCarl Landry HOU 12/05/2009 HOU @ POR L 30 23 7 13 53.8 0 0 - 9 11 81.8 5 4 9 2 1 1 2 4 10
+p611
+aVTrevor Ariza HOU 12/05/2009 HOU @ POR L 36 7 3 12 25.0 0 2 0.0 1 2 50.0 0 4 4 1 2 0 0 2 -4
+p612
+aVDavid Andersen HOU 12/05/2009 HOU @ POR L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 3 0
+p613
+aVShane Battier HOU 12/05/2009 HOU @ POR L 36 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 1 0 0 1 2 3
+p614
+aVKyle Lowry HOU 12/05/2009 HOU @ POR L 22 9 2 5 40.0 1 2 50.0 4 6 66.7 1 1 2 1 0 0 1 4 -7
+p615
+aVCharles Hayes HOU 12/05/2009 HOU @ POR L 21 4 2 5 40.0 0 0 - 0 0 - 4 3 7 2 0 0 0 1 -1
+p616
+aVChase Budinger HOU 12/05/2009 HOU @ POR L 19 12 5 10 50.0 2 5 40.0 0 0 - 1 1 2 1 0 1 0 1 6
+p617
+aVCharles Hayes HOU 12/03/2009 HOU @ GSW W 17 2 1 4 25.0 0 0 - 0 1 0.0 0 4 4 3 1 1 2 2 -8
+p618
+aVShane Battier HOU 12/03/2009 HOU @ GSW W 37 10 3 6 50.0 0 2 0.0 4 6 66.7 3 7 10 4 1 6 0 1 -1
+p619
+aVChase Budinger HOU 12/03/2009 HOU @ GSW W 16 11 4 9 44.4 2 5 40.0 1 2 50.0 1 1 2 2 1 0 2 1 3
+p620
+aVTrevor Ariza HOU 12/03/2009 HOU @ GSW W 47 18 8 19 42.1 1 6 16.7 1 2 50.0 4 1 5 4 3 2 5 4 5
+p621
+aVAaron Brooks HOU 12/03/2009 HOU @ GSW W 35 25 8 15 53.3 5 8 62.5 4 4 100.0 0 2 2 7 2 0 4 5 -9
+p622
+aVKyle Lowry HOU 12/03/2009 HOU @ GSW W 29 11 2 7 28.6 0 2 0.0 7 8 87.5 0 3 3 4 1 1 4 2 16
+p623
+aVCarl Landry HOU 12/03/2009 HOU @ GSW W 26 22 8 10 80.0 0 0 - 6 6 100.0 2 7 9 1 2 3 3 4 7
+p624
+aVLuis Scola HOU 12/03/2009 HOU @ GSW W 27 12 6 9 66.7 0 0 - 0 0 - 3 10 13 3 0 0 3 2 -5
+p625
+aVDavid Andersen HOU 12/03/2009 HOU @ GSW W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p626
+aVChase Budinger HOU 12/02/2009 HOU @ LAC W 27 19 6 9 66.7 3 4 75.0 4 4 100.0 1 4 5 0 1 0 2 1 15
+p627
+aVCarl Landry HOU 12/02/2009 HOU @ LAC W 26 10 3 5 60.0 0 0 - 4 5 80.0 1 4 5 1 0 0 2 2 16
+p628
+aVKyle Lowry HOU 12/02/2009 HOU @ LAC W 23 11 4 9 44.4 1 3 33.3 2 2 100.0 2 1 3 2 1 0 2 4 18
+p629
+aVLuis Scola HOU 12/02/2009 HOU @ LAC W 28 8 4 11 36.4 0 0 - 0 0 - 1 6 7 3 0 0 0 2 2
+p630
+aVShane Battier HOU 12/02/2009 HOU @ LAC W 28 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 2 1 0 2 1 -1
+p631
+aVDavid Andersen HOU 12/02/2009 HOU @ LAC W 20 6 2 5 40.0 1 2 50.0 1 3 33.3 3 2 5 1 0 0 1 0 15
+p632
+aVAaron Brooks HOU 12/02/2009 HOU @ LAC W 32 22 9 11 81.8 3 4 75.0 1 1 100.0 0 1 1 5 0 0 6 3 1
+p633
+aVTrevor Ariza HOU 12/02/2009 HOU @ LAC W 34 16 7 16 43.8 2 6 33.3 0 0 - 0 3 3 4 1 0 2 4 18
+p634
+aVCharles Hayes HOU 12/02/2009 HOU @ LAC W 22 2 0 3 0.0 0 0 - 2 2 100.0 3 3 6 2 0 0 1 1 1
+p635
+aVDavid Andersen HOU 11/29/2009 HOU @ OKC W 29 12 5 12 41.7 1 2 50.0 1 1 100.0 4 4 8 2 0 0 1 2 4
+p636
+aVCarl Landry HOU 11/29/2009 HOU @ OKC W 30 21 9 18 50.0 0 0 - 3 4 75.0 5 5 10 0 2 1 5 4 14
+p637
+aVChase Budinger HOU 11/29/2009 HOU @ OKC W 21 7 2 8 25.0 1 4 25.0 2 2 100.0 1 4 5 1 2 0 1 0 0
+p638
+aVTrevor Ariza HOU 11/29/2009 HOU @ OKC W 41 17 7 23 30.4 1 9 11.1 2 2 100.0 0 2 2 3 4 2 3 3 10
+p639
+aVJermaine Taylor HOU 11/29/2009 HOU @ OKC W 5 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 0
+p640
+aVKyle Lowry HOU 11/29/2009 HOU @ OKC W 19 6 1 3 33.3 0 1 0.0 4 4 100.0 4 2 6 3 0 0 3 2 13
+p641
+aVCharles Hayes HOU 11/29/2009 HOU @ OKC W 27 7 3 5 60.0 0 0 - 1 1 100.0 4 4 8 2 0 0 1 1 2
+p642
+aVLuis Scola HOU 11/29/2009 HOU @ OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p643
+aVBrian Cook HOU 11/29/2009 HOU @ OKC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p644
+aVAaron Brooks HOU 11/29/2009 HOU @ OKC W 32 21 8 15 53.3 3 3 100.0 2 2 100.0 2 0 2 4 5 0 1 1 1
+p645
+aVShane Battier HOU 11/29/2009 HOU @ OKC W 35 7 2 7 28.6 1 3 33.3 2 2 100.0 2 1 3 1 0 1 0 4 4
+p646
+aVDavid Andersen HOU 11/27/2009 HOU vs. SAS L 20 5 2 4 50.0 1 2 50.0 0 0 - 1 4 5 2 0 0 0 4 0
+p647
+aVTrevor Ariza HOU 11/27/2009 HOU vs. SAS L 44 17 6 21 28.6 4 6 66.7 1 4 25.0 3 8 11 5 2 1 2 4 -10
+p648
+aVLuis Scola HOU 11/27/2009 HOU vs. SAS L 28 18 9 14 64.3 0 0 - 0 0 - 3 9 12 2 1 0 4 4 -8
+p649
+aVCarl Landry HOU 11/27/2009 HOU vs. SAS L 29 13 5 13 38.5 0 0 - 3 3 100.0 4 0 4 0 0 1 1 4 -6
+p650
+aVShane Battier HOU 11/27/2009 HOU vs. SAS L 25 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 -8
+p651
+aVAaron Brooks HOU 11/27/2009 HOU vs. SAS L 31 12 5 16 31.3 1 4 25.0 1 1 100.0 0 1 1 4 0 0 2 4 -8
+p652
+aVCharles Hayes HOU 11/27/2009 HOU vs. SAS L 19 0 0 8 0.0 0 0 - 0 0 - 4 2 6 2 1 1 0 0 -2
+p653
+aVKyle Lowry HOU 11/27/2009 HOU vs. SAS L 23 10 2 6 33.3 1 2 50.0 5 6 83.3 2 1 3 3 3 0 3 5 2
+p654
+aVChase Budinger HOU 11/27/2009 HOU vs. SAS L 20 9 4 8 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 0
+p655
+aVBrian Cook HOU 11/25/2009 HOU vs. DAL L 4 4 2 3 66.7 0 1 0.0 0 1 0.0 0 0 0 0 0 0 2 0 -7
+p656
+aVCharles Hayes HOU 11/25/2009 HOU vs. DAL L 15 3 1 8 12.5 0 0 - 1 3 33.3 3 4 7 2 0 1 0 3 -1
+p657
+aVJermaine Taylor HOU 11/25/2009 HOU vs. DAL L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -10
+p658
+aVChase Budinger HOU 11/25/2009 HOU vs. DAL L 20 0 0 7 0.0 0 4 0.0 0 0 - 1 3 4 1 0 0 0 2 -33
+p659
+aVCarl Landry HOU 11/25/2009 HOU vs. DAL L 29 24 9 11 81.8 0 0 - 6 6 100.0 1 5 6 0 0 0 0 1 -21
+p660
+aVDavid Andersen HOU 11/25/2009 HOU vs. DAL L 16 10 4 6 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 -14
+p661
+aVKyle Lowry HOU 11/25/2009 HOU vs. DAL L 32 4 1 6 16.7 1 3 33.3 1 4 25.0 3 0 3 7 1 0 6 4 -33
+p662
+aVAaron Brooks HOU 11/25/2009 HOU vs. DAL L 27 9 3 7 42.9 0 1 0.0 3 5 60.0 0 0 0 5 0 0 3 5 -3
+p663
+aVTrevor Ariza HOU 11/25/2009 HOU vs. DAL L 37 20 8 15 53.3 2 6 33.3 2 3 66.7 0 1 1 3 2 2 2 1 -20
+p664
+aVLuis Scola HOU 11/25/2009 HOU vs. DAL L 28 15 6 13 46.2 0 0 - 3 4 75.0 2 5 7 3 1 0 1 3 -15
+p665
+aVShane Battier HOU 11/25/2009 HOU vs. DAL L 28 8 3 5 60.0 2 4 50.0 0 1 0.0 1 1 2 1 0 1 2 0 2
+p666
+aVShane Battier HOU 11/21/2009 HOU vs. SAC W 29 14 6 11 54.5 1 4 25.0 1 1 100.0 2 1 3 0 1 1 0 1 3
+p667
+aVKyle Lowry HOU 11/21/2009 HOU vs. SAC W 25 8 2 7 28.6 0 2 0.0 4 4 100.0 1 4 5 8 1 0 0 2 12
+p668
+aVChase Budinger HOU 11/21/2009 HOU vs. SAC W 23 12 5 12 41.7 1 5 20.0 1 1 100.0 0 3 3 1 0 1 1 0 3
+p669
+aVTrevor Ariza HOU 11/21/2009 HOU vs. SAC W 44 19 7 19 36.8 1 6 16.7 4 4 100.0 1 3 4 1 3 0 0 3 8
+p670
+aVLuis Scola HOU 11/21/2009 HOU vs. SAC W 35 22 9 17 52.9 0 0 - 4 5 80.0 2 10 12 2 2 1 2 3 -3
+p671
+aVDavid Andersen HOU 11/21/2009 HOU vs. SAC W 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 3 8
+p672
+aVCarl Landry HOU 11/21/2009 HOU vs. SAC W 25 20 6 8 75.0 0 0 - 8 8 100.0 4 3 7 0 0 1 1 3 4
+p673
+aVAaron Brooks HOU 11/21/2009 HOU vs. SAC W 24 8 3 8 37.5 0 1 0.0 2 2 100.0 0 1 1 4 1 0 3 2 -3
+p674
+aVCharles Hayes HOU 11/21/2009 HOU vs. SAC W 23 8 4 6 66.7 0 0 - 0 1 0.0 1 4 5 2 0 1 1 2 3
+p675
+aVShane Battier HOU 11/20/2009 HOU @ ATL L 32 5 2 8 25.0 1 5 20.0 0 0 - 0 0 0 1 1 0 1 0 -8
+p676
+aVCarl Landry HOU 11/20/2009 HOU @ ATL L 31 18 6 14 42.9 0 0 - 6 6 100.0 5 3 8 1 1 0 2 3 4
+p677
+aVTrevor Ariza HOU 11/20/2009 HOU @ ATL L 38 16 7 18 38.9 2 8 25.0 0 0 - 2 6 8 2 1 0 3 1 -12
+p678
+aVAaron Brooks HOU 11/20/2009 HOU @ ATL L 32 15 7 16 43.8 1 3 33.3 0 0 - 2 2 4 2 0 0 1 0 -13
+p679
+aVCharles Hayes HOU 11/20/2009 HOU @ ATL L 17 6 3 6 50.0 0 0 - 0 0 - 5 0 5 0 0 0 0 4 -6
+p680
+aVDavid Andersen HOU 11/20/2009 HOU @ ATL L 13 6 2 6 33.3 0 2 0.0 2 2 100.0 1 2 3 2 0 0 0 5 9
+p681
+aVKyle Lowry HOU 11/20/2009 HOU @ ATL L 28 14 4 9 44.4 1 1 100.0 5 7 71.4 1 2 3 7 2 0 2 2 12
+p682
+aVChase Budinger HOU 11/20/2009 HOU @ ATL L 15 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 1 0 0 0 1 13
+p683
+aVLuis Scola HOU 11/20/2009 HOU @ ATL L 35 17 6 12 50.0 0 0 - 5 6 83.3 4 6 10 2 2 0 3 2 -9
+p684
+aVKyle Lowry HOU 11/18/2009 HOU @ MIN W 22 11 5 7 71.4 1 2 50.0 0 0 - 2 2 4 4 1 0 2 0 9
+p685
+aVLuis Scola HOU 11/18/2009 HOU @ MIN W 35 20 10 21 47.6 0 0 - 0 0 - 7 9 16 3 1 1 2 1 14
+p686
+aVChase Budinger HOU 11/18/2009 HOU @ MIN W 17 2 1 7 14.3 0 2 0.0 0 0 - 2 0 2 1 1 0 2 1 6
+p687
+aVAaron Brooks HOU 11/18/2009 HOU @ MIN W 26 13 5 11 45.5 3 5 60.0 0 0 - 0 1 1 3 2 0 8 2 4
+p688
+aVCarl Landry HOU 11/18/2009 HOU @ MIN W 16 5 2 6 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 2 1 -6
+p689
+aVDavid Andersen HOU 11/18/2009 HOU @ MIN W 12 8 3 4 75.0 2 2 100.0 0 0 - 1 4 5 1 0 0 0 0 -1
+p690
+aVTrevor Ariza HOU 11/18/2009 HOU @ MIN W 38 18 6 19 31.6 4 13 30.8 2 2 100.0 0 4 4 3 2 0 4 1 15
+p691
+aVShane Battier HOU 11/18/2009 HOU @ MIN W 41 9 3 5 60.0 2 4 50.0 1 1 100.0 1 3 4 5 2 0 1 2 5
+p692
+aVCharles Hayes HOU 11/18/2009 HOU @ MIN W 33 11 4 10 40.0 0 0 - 3 5 60.0 5 5 10 1 4 0 0 4 19
+p693
+aVCharles Hayes HOU 11/17/2009 HOU vs. PHX L 20 4 2 5 40.0 0 0 - 0 0 - 4 4 8 2 1 0 0 4 4
+p694
+aVAaron Brooks HOU 11/17/2009 HOU vs. PHX L 42 16 5 18 27.8 3 11 27.3 3 3 100.0 1 2 3 13 0 0 1 2 5
+p695
+aVCarl Landry HOU 11/17/2009 HOU vs. PHX L 30 27 13 18 72.2 0 0 - 1 2 50.0 6 3 9 1 0 0 0 5 -17
+p696
+aVKyle Lowry HOU 11/17/2009 HOU vs. PHX L 17 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 3 -14
+p697
+aVShane Battier HOU 11/17/2009 HOU vs. PHX L 32 10 4 8 50.0 1 4 25.0 1 2 50.0 0 3 3 2 0 0 2 3 -4
+p698
+aVDavid Andersen HOU 11/17/2009 HOU vs. PHX L 14 5 2 7 28.6 0 1 0.0 1 2 50.0 0 2 2 1 0 1 0 2 -1
+p699
+aVLuis Scola HOU 11/17/2009 HOU vs. PHX L 32 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 1 0 0 4 3 1
+p700
+aVChase Budinger HOU 11/17/2009 HOU vs. PHX L 14 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 1 0 0 0 2 -2
+p701
+aVTrevor Ariza HOU 11/17/2009 HOU vs. PHX L 39 19 8 21 38.1 3 5 60.0 0 0 - 1 8 9 4 3 0 0 3 -2
+p702
+aVDavid Andersen HOU 11/15/2009 HOU @ LAL W 25 19 9 14 64.3 1 3 33.3 0 0 - 1 5 6 0 0 0 3 3 7
+p703
+aVShane Battier HOU 11/15/2009 HOU @ LAL W 18 3 1 6 16.7 1 5 20.0 0 0 - 0 2 2 3 1 0 0 4 -15
+p704
+aVChase Budinger HOU 11/15/2009 HOU @ LAL W 26 11 5 13 38.5 1 5 20.0 0 0 - 1 5 6 3 3 0 1 1 17
+p705
+aVAaron Brooks HOU 11/15/2009 HOU @ LAL W 41 33 11 23 47.8 5 11 45.5 6 7 85.7 2 5 7 4 0 0 3 2 12
+p706
+aVCarl Landry HOU 11/15/2009 HOU @ LAL W 27 15 5 10 50.0 0 0 - 5 5 100.0 3 6 9 0 0 1 0 4 8
+p707
+aVCharles Hayes HOU 11/15/2009 HOU @ LAL W 20 2 1 4 25.0 0 0 - 0 0 - 3 4 7 0 1 1 1 2 1
+p708
+aVKyle Lowry HOU 11/15/2009 HOU @ LAL W 23 3 1 4 25.0 0 1 0.0 1 1 100.0 2 4 6 8 0 1 1 2 9
+p709
+aVLuis Scola HOU 11/15/2009 HOU @ LAL W 21 6 3 5 60.0 0 0 - 0 0 - 1 8 9 5 0 0 4 3 2
+p710
+aVTrevor Ariza HOU 11/15/2009 HOU @ LAL W 39 9 2 12 16.7 1 7 14.3 4 6 66.7 0 8 8 4 4 2 6 3 9
+p711
+aVTrevor Ariza HOU 11/13/2009 HOU @ SAC L 44 28 10 21 47.6 4 12 33.3 4 4 100.0 2 4 6 5 5 1 0 1 0
+p712
+aVLuis Scola HOU 11/13/2009 HOU @ SAC L 40 20 8 16 50.0 0 0 - 4 4 100.0 2 7 9 2 0 1 4 2 -3
+p713
+aVChase Budinger HOU 11/13/2009 HOU @ SAC L 16 2 1 8 12.5 0 3 0.0 0 0 - 1 2 3 0 0 0 1 2 -10
+p714
+aVCharles Hayes HOU 11/13/2009 HOU @ SAC L 32 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 1 0 1 1 5 2
+p715
+aVShane Battier HOU 11/13/2009 HOU @ SAC L 37 23 8 11 72.7 4 6 66.7 3 3 100.0 1 1 2 2 1 2 1 1 -8
+p716
+aVKyle Lowry HOU 11/13/2009 HOU @ SAC L 22 8 2 9 22.2 0 1 0.0 4 4 100.0 1 4 5 3 1 0 1 3 -7
+p717
+aVCarl Landry HOU 11/13/2009 HOU @ SAC L 17 2 1 6 16.7 0 0 - 0 0 - 1 2 3 2 1 1 1 4 -9
+p718
+aVAaron Brooks HOU 11/13/2009 HOU @ SAC L 26 10 4 13 30.8 0 4 0.0 2 2 100.0 0 1 1 5 1 0 1 0 -2
+p719
+aVDavid Andersen HOU 11/13/2009 HOU @ SAC L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -8
+p720
+aVPops Mensah-Bonsu HOU 11/11/2009 HOU vs. MEM W 4 0 0 2 0.0 0 0 - 0 2 0.0 1 2 3 1 0 1 0 1 4
+p721
+aVCarl Landry HOU 11/11/2009 HOU vs. MEM W 25 20 9 13 69.2 0 0 - 2 4 50.0 0 4 4 0 0 4 1 1 16
+p722
+aVJermaine Taylor HOU 11/11/2009 HOU vs. MEM W 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p723
+aVTrevor Ariza HOU 11/11/2009 HOU vs. MEM W 34 17 7 17 41.2 1 8 12.5 2 3 66.7 0 5 5 7 2 0 1 3 18
+p724
+aVDavid Andersen HOU 11/11/2009 HOU vs. MEM W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 3
+p725
+aVCharles Hayes HOU 11/11/2009 HOU vs. MEM W 24 6 3 4 75.0 0 0 - 0 0 - 1 7 8 1 0 2 0 1 15
+p726
+aVAaron Brooks HOU 11/11/2009 HOU vs. MEM W 26 8 3 10 30.0 0 3 0.0 2 3 66.7 0 0 0 3 0 0 2 1 7
+p727
+aVLuis Scola HOU 11/11/2009 HOU vs. MEM W 33 22 10 15 66.7 0 0 - 2 2 100.0 5 10 15 2 3 0 4 5 10
+p728
+aVBrian Cook HOU 11/11/2009 HOU vs. MEM W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 2
+p729
+aVChase Budinger HOU 11/11/2009 HOU vs. MEM W 24 15 6 10 60.0 3 4 75.0 0 0 - 0 1 1 2 0 0 1 1 20
+p730
+aVShane Battier HOU 11/11/2009 HOU vs. MEM W 27 4 1 3 33.3 1 3 33.3 1 1 100.0 0 1 1 4 2 2 0 1 9
+p731
+aVKyle Lowry HOU 11/11/2009 HOU vs. MEM W 29 8 3 6 50.0 1 2 50.0 1 1 100.0 4 4 8 10 2 0 3 3 17
+p732
+aVKyle Lowry HOU 11/10/2009 HOU @ DAL L 26 12 5 7 71.4 1 1 100.0 1 4 25.0 1 3 4 5 1 0 5 5 -5
+p733
+aVPops Mensah-Bonsu HOU 11/10/2009 HOU @ DAL L 3 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p734
+aVLuis Scola HOU 11/10/2009 HOU @ DAL L 25 12 5 11 45.5 0 0 - 2 2 100.0 1 3 4 1 1 0 0 3 -7
+p735
+aVJermaine Taylor HOU 11/10/2009 HOU @ DAL L 3 5 0 0 - 0 0 - 5 6 83.3 0 0 0 0 0 0 0 0 1
+p736
+aVBrian Cook HOU 11/10/2009 HOU @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p737
+aVShane Battier HOU 11/10/2009 HOU @ DAL L 28 3 1 8 12.5 1 6 16.7 0 0 - 0 1 1 3 1 0 0 1 -24
+p738
+aVChase Budinger HOU 11/10/2009 HOU @ DAL L 23 4 1 7 14.3 0 3 0.0 2 2 100.0 2 7 9 3 1 0 0 3 -9
+p739
+aVAaron Brooks HOU 11/10/2009 HOU @ DAL L 33 22 7 15 46.7 3 8 37.5 5 6 83.3 1 1 2 1 0 0 2 1 -5
+p740
+aVCharles Hayes HOU 11/10/2009 HOU @ DAL L 19 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 3 0 2 0 -9
+p741
+aVCarl Landry HOU 11/10/2009 HOU @ DAL L 26 19 7 9 77.8 0 0 - 5 5 100.0 1 1 2 0 1 1 0 4 -10
+p742
+aVDavid Andersen HOU 11/10/2009 HOU @ DAL L 20 13 5 12 41.7 0 2 0.0 3 4 75.0 2 3 5 0 1 1 1 4 -12
+p743
+aVTrevor Ariza HOU 11/10/2009 HOU @ DAL L 32 9 3 10 30.0 1 3 33.3 2 3 66.7 1 4 5 2 2 1 3 1 -12
+p744
+aVChase Budinger HOU 11/06/2009 HOU vs. OKC W 22 16 6 10 60.0 2 4 50.0 2 2 100.0 1 2 3 2 0 1 1 1 0
+p745
+aVAaron Brooks HOU 11/06/2009 HOU vs. OKC W 32 11 5 10 50.0 1 4 25.0 0 0 - 0 2 2 6 0 1 6 2 2
+p746
+aVShane Battier HOU 11/06/2009 HOU vs. OKC W 35 9 4 5 80.0 1 2 50.0 0 0 - 0 2 2 1 1 1 1 2 4
+p747
+aVDavid Andersen HOU 11/06/2009 HOU vs. OKC W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 3
+p748
+aVCharles Hayes HOU 11/06/2009 HOU vs. OKC W 27 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 2 2 0 3 3
+p749
+aVKyle Lowry HOU 11/06/2009 HOU vs. OKC W 20 4 1 4 25.0 0 1 0.0 2 3 66.7 0 3 3 8 1 4 2 4 14
+p750
+aVTrevor Ariza HOU 11/06/2009 HOU vs. OKC W 36 21 8 18 44.4 2 5 40.0 3 3 100.0 1 4 5 6 1 0 3 3 13
+p751
+aVCarl Landry HOU 11/06/2009 HOU vs. OKC W 30 21 8 12 66.7 0 0 - 5 7 71.4 5 4 9 0 0 1 1 0 6
+p752
+aVLuis Scola HOU 11/06/2009 HOU vs. OKC W 32 19 8 13 61.5 0 0 - 3 4 75.0 1 9 10 3 1 0 2 1 10
+p753
+aVAaron Brooks HOU 11/04/2009 HOU vs. LAL L 41 15 5 12 41.7 3 7 42.9 2 5 40.0 0 1 1 6 0 0 7 2 -1
+p754
+aVKyle Lowry HOU 11/04/2009 HOU vs. LAL L 24 8 2 6 33.3 0 2 0.0 4 6 66.7 1 2 3 3 0 0 2 1 -2
+p755
+aVDavid Andersen HOU 11/04/2009 HOU vs. LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 1
+p756
+aVLuis Scola HOU 11/04/2009 HOU vs. LAL L 36 16 7 15 46.7 0 0 - 2 3 66.7 2 11 13 2 0 0 3 6 -4
+p757
+aVCarl Landry HOU 11/04/2009 HOU vs. LAL L 26 20 9 12 75.0 0 0 - 2 2 100.0 3 5 8 1 0 0 1 1 4
+p758
+aVBrian Cook HOU 11/04/2009 HOU vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p759
+aVTrevor Ariza HOU 11/04/2009 HOU vs. LAL L 48 15 5 21 23.8 2 7 28.6 3 4 75.0 3 6 9 5 0 1 3 3 2
+p760
+aVCharles Hayes HOU 11/04/2009 HOU vs. LAL L 38 14 7 9 77.8 0 0 - 0 0 - 5 9 14 2 2 1 2 6 -3
+p761
+aVShane Battier HOU 11/04/2009 HOU vs. LAL L 47 14 4 10 40.0 2 8 25.0 4 4 100.0 3 2 5 0 0 1 1 3 -2
+p762
+aVCharles Hayes HOU 11/02/2009 HOU @ UTA W 28 12 6 8 75.0 0 0 - 0 1 0.0 4 5 9 3 3 0 3 4 20
+p763
+aVLuis Scola HOU 11/02/2009 HOU @ UTA W 33 14 5 10 50.0 0 0 - 4 7 57.1 3 12 15 1 1 2 2 3 7
+p764
+aVCarl Landry HOU 11/02/2009 HOU @ UTA W 18 10 2 7 28.6 0 0 - 6 6 100.0 2 4 6 1 1 1 1 5 16
+p765
+aVTrevor Ariza HOU 11/02/2009 HOU @ UTA W 34 15 6 15 40.0 2 4 50.0 1 1 100.0 0 2 2 3 2 0 2 2 4
+p766
+aVDavid Andersen HOU 11/02/2009 HOU @ UTA W 14 3 1 7 14.3 0 0 - 1 2 50.0 1 1 2 1 0 0 0 1 -1
+p767
+aVChase Budinger HOU 11/02/2009 HOU @ UTA W 22 17 7 11 63.6 2 4 50.0 1 2 50.0 2 3 5 2 1 0 1 2 8
+p768
+aVAaron Brooks HOU 11/02/2009 HOU @ UTA W 29 19 6 11 54.5 2 5 40.0 5 5 100.0 1 1 2 9 0 0 3 5 1
+p769
+aVPops Mensah-Bonsu HOU 11/02/2009 HOU @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p770
+aVShane Battier HOU 11/02/2009 HOU @ UTA W 33 13 5 10 50.0 3 5 60.0 0 0 - 1 2 3 4 0 1 1 3 36
+p771
+aVBrian Cook HOU 11/02/2009 HOU @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p772
+aVKyle Lowry HOU 11/02/2009 HOU @ UTA W 24 10 4 5 80.0 1 1 100.0 1 2 50.0 1 1 2 5 1 0 1 1 6
+p773
+aVJermaine Taylor HOU 11/02/2009 HOU @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p774
+aVCharles Hayes HOU 10/31/2009 HOU vs. POR W 28 8 4 7 57.1 0 0 - 0 0 - 3 2 5 1 1 0 1 4 0
+p775
+aVAaron Brooks HOU 10/31/2009 HOU vs. POR W 38 28 10 16 62.5 4 6 66.7 4 5 80.0 1 2 3 8 0 0 4 2 2
+p776
+aVTrevor Ariza HOU 10/31/2009 HOU vs. POR W 43 33 11 17 64.7 5 8 62.5 6 9 66.7 1 2 3 3 2 0 2 4 5
+p777
+aVCarl Landry HOU 10/31/2009 HOU vs. POR W 26 16 7 11 63.6 0 0 - 2 2 100.0 1 2 3 0 1 1 2 5 10
+p778
+aVChase Budinger HOU 10/31/2009 HOU vs. POR W 9 3 1 4 25.0 1 3 33.3 0 2 0.0 0 2 2 2 0 0 0 0 1
+p779
+aVLuis Scola HOU 10/31/2009 HOU vs. POR W 19 8 3 9 33.3 0 0 - 2 2 100.0 3 3 6 0 1 0 2 4 0
+p780
+aVShane Battier HOU 10/31/2009 HOU vs. POR W 35 6 1 6 16.7 1 3 33.3 3 4 75.0 3 2 5 5 0 0 1 2 1
+p781
+aVKyle Lowry HOU 10/31/2009 HOU vs. POR W 32 7 2 6 33.3 1 4 25.0 2 2 100.0 0 3 3 0 1 0 1 3 3
+p782
+aVDavid Andersen HOU 10/31/2009 HOU vs. POR W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p783
+aVChase Budinger HOU 10/28/2009 HOU @ GSW W 18 11 4 8 50.0 3 6 50.0 0 0 - 0 2 2 0 1 0 1 2 -4
+p784
+aVKyle Lowry HOU 10/28/2009 HOU @ GSW W 17 4 1 5 20.0 0 1 0.0 2 2 100.0 2 1 3 2 0 0 2 4 -6
+p785
+aVDavid Andersen HOU 10/28/2009 HOU @ GSW W 9 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 1 1 2 -2
+p786
+aVTrevor Ariza HOU 10/28/2009 HOU @ GSW W 40 25 9 21 42.9 4 9 44.4 3 4 75.0 2 3 5 5 2 1 6 5 2
+p787
+aVCharles Hayes HOU 10/28/2009 HOU @ GSW W 26 4 2 4 50.0 0 0 - 0 0 - 3 3 6 3 3 1 2 1 10
+p788
+aVShane Battier HOU 10/28/2009 HOU @ GSW W 33 9 1 4 25.0 1 3 33.3 6 6 100.0 0 3 3 4 3 2 0 1 -2
+p789
+aVLuis Scola HOU 10/28/2009 HOU @ GSW W 35 21 10 16 62.5 1 1 100.0 0 2 0.0 2 9 11 2 1 0 0 3 7
+p790
+aVAaron Brooks HOU 10/28/2009 HOU @ GSW W 39 18 6 16 37.5 3 6 50.0 3 4 75.0 3 1 4 12 2 1 5 1 9
+p791
+aVCarl Landry HOU 10/28/2009 HOU @ GSW W 25 10 4 9 44.4 0 0 - 2 2 100.0 1 5 6 2 1 1 1 3 -9
+p792
+aVPops Mensah-Bonsu HOU 10/27/2009 HOU @ POR L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 -9
+p793
+aVShane Battier HOU 10/27/2009 HOU @ POR L 28 8 2 9 22.2 1 4 25.0 3 4 75.0 1 3 4 0 2 0 1 1 -22
+p794
+aVChase Budinger HOU 10/27/2009 HOU @ POR L 15 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 0 0 0 2 2 1
+p795
+aVTrevor Ariza HOU 10/27/2009 HOU @ POR L 33 12 3 8 37.5 2 4 50.0 4 6 66.7 0 3 3 2 1 0 4 3 -10
+p796
+aVDavid Andersen HOU 10/27/2009 HOU @ POR L 19 11 4 8 50.0 1 1 100.0 2 2 100.0 1 4 5 1 0 0 0 4 8
+p797
+aVCharles Hayes HOU 10/27/2009 HOU @ POR L 25 6 3 6 50.0 0 0 - 0 0 - 3 2 5 1 3 0 0 1 -8
+p798
+aVAaron Brooks HOU 10/27/2009 HOU @ POR L 42 19 8 17 47.1 0 6 0.0 3 4 75.0 1 2 3 5 2 1 2 2 7
+p799
+aVKyle Lowry HOU 10/27/2009 HOU @ POR L 27 12 3 7 42.9 1 1 100.0 5 6 83.3 1 2 3 8 2 0 1 4 -3
+p800
+aVLuis Scola HOU 10/27/2009 HOU @ POR L 22 3 1 6 16.7 0 0 - 1 2 50.0 0 4 4 1 1 1 3 4 -8
+p801
+aVCarl Landry HOU 10/27/2009 HOU @ POR L 26 9 3 12 25.0 0 0 - 3 3 100.0 2 3 5 0 0 0 3 4 -1
+p802
+a.

@@ -1,0 +1,132 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRudy Fernandez POR 04/29/2010 POR vs. PHX L 18 16 5 6 83.3 5 6 83.3 1 2 50.0 0 2 2 1 0 0 1 0 -1
+p2
+aVDante Cunningham POR 04/29/2010 POR vs. PHX L 9 2 1 2 50.0 0 0 - 0 0 - 3 2 5 0 2 0 0 2 8
+p3
+aVNicolas Batum POR 04/29/2010 POR vs. PHX L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -11
+p4
+aVAndre Miller POR 04/29/2010 POR vs. PHX L 18 4 2 10 20.0 0 0 - 0 0 - 1 0 1 3 1 0 2 0 -15
+p5
+aVLaMarcus Aldridge POR 04/29/2010 POR vs. PHX L 45 16 5 17 29.4 0 1 0.0 6 8 75.0 1 8 9 2 2 5 0 4 -7
+p6
+aVMartell Webster POR 04/29/2010 POR vs. PHX L 33 19 6 10 60.0 3 4 75.0 4 5 80.0 3 1 4 2 0 0 0 4 4
+p7
+aVJuwan Howard POR 04/29/2010 POR vs. PHX L 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p8
+aVMarcus Camby POR 04/29/2010 POR vs. PHX L 21 4 2 4 50.0 0 0 - 0 0 - 0 4 4 2 1 0 2 3 -18
+p9
+aVJerryd Bayless POR 04/29/2010 POR vs. PHX L 29 12 4 12 33.3 1 3 33.3 3 4 75.0 0 4 4 7 1 0 3 3 8
+p10
+aVBrandon Roy POR 04/29/2010 POR vs. PHX L 37 14 4 16 25.0 1 8 12.5 5 5 100.0 1 4 5 4 0 0 2 3 -16
+p11
+aVJeff Ayres POR 04/26/2010 POR @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 3 0 0 6
+p12
+aVMarcus Camby POR 04/26/2010 POR @ PHX L 29 7 3 5 60.0 0 0 - 1 2 50.0 4 7 11 5 0 2 0 4 1
+p13
+aVBrandon Roy POR 04/26/2010 POR @ PHX L 19 5 2 7 28.6 0 2 0.0 1 2 50.0 1 0 1 0 0 0 1 4 -21
+p14
+aVJuwan Howard POR 04/26/2010 POR @ PHX L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 5 -13
+p15
+aVRudy Fernandez POR 04/26/2010 POR @ PHX L 15 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 2 -14
+p16
+aVAndre Miller POR 04/26/2010 POR @ PHX L 37 21 6 12 50.0 2 3 66.7 7 10 70.0 1 3 4 4 0 0 5 2 -12
+p17
+aVNicolas Batum POR 04/26/2010 POR @ PHX L 20 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 1 2 0 1 3 -2
+p18
+aVMartell Webster POR 04/26/2010 POR @ PHX L 14 5 2 5 40.0 0 3 0.0 1 2 50.0 0 2 2 1 0 0 1 2 -2
+p19
+aVLaMarcus Aldridge POR 04/26/2010 POR @ PHX L 40 17 8 15 53.3 1 1 100.0 0 0 - 0 2 2 4 2 0 0 0 -20
+p20
+aVJerryd Bayless POR 04/26/2010 POR @ PHX L 38 17 6 14 42.9 3 5 60.0 2 2 100.0 1 3 4 4 1 0 1 3 -12
+p21
+aVDante Cunningham POR 04/26/2010 POR @ PHX L 12 11 3 5 60.0 0 1 0.0 5 6 83.3 1 1 2 0 2 0 3 3 -11
+p22
+aVPatty Mills POR 04/26/2010 POR @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p23
+aVAndre Miller POR 04/24/2010 POR vs. PHX W 44 15 4 13 30.8 0 1 0.0 7 10 70.0 0 6 6 9 2 0 3 2 13
+p24
+aVRudy Fernandez POR 04/24/2010 POR vs. PHX W 9 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 0
+p25
+aVJuwan Howard POR 04/24/2010 POR vs. PHX W 18 8 4 6 66.7 0 0 - 0 0 - 5 2 7 1 0 0 0 3 7
+p26
+aVNicolas Batum POR 04/24/2010 POR vs. PHX W 34 10 3 9 33.3 2 5 40.0 2 2 100.0 0 7 7 1 0 0 1 3 13
+p27
+aVMarcus Camby POR 04/24/2010 POR vs. PHX W 30 8 4 6 66.7 0 0 - 0 0 - 3 5 8 5 1 1 0 4 2
+p28
+aVLaMarcus Aldridge POR 04/24/2010 POR vs. PHX W 42 31 11 19 57.9 0 0 - 9 12 75.0 2 9 11 3 1 0 2 4 13
+p29
+aVJerryd Bayless POR 04/24/2010 POR vs. PHX W 25 11 4 10 40.0 1 3 33.3 2 2 100.0 2 0 2 5 0 0 0 3 -7
+p30
+aVMartell Webster POR 04/24/2010 POR vs. PHX W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 1 1 2
+p31
+aVBrandon Roy POR 04/24/2010 POR vs. PHX W 27 10 4 10 40.0 1 2 50.0 1 2 50.0 0 1 1 1 0 0 0 0 2
+p32
+aVRudy Fernandez POR 04/22/2010 POR vs. PHX L 22 12 4 8 50.0 4 7 57.1 0 0 - 1 0 1 1 1 0 1 2 -11
+p33
+aVLaMarcus Aldridge POR 04/22/2010 POR vs. PHX L 34 17 5 14 35.7 0 0 - 7 10 70.0 2 5 7 1 1 2 2 2 -13
+p34
+aVJerryd Bayless POR 04/22/2010 POR vs. PHX L 29 14 6 10 60.0 0 2 0.0 2 3 66.7 0 2 2 4 0 0 2 5 -18
+p35
+aVDante Cunningham POR 04/22/2010 POR vs. PHX L 10 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 3 0
+p36
+aVPatty Mills POR 04/22/2010 POR vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 1
+p37
+aVAndre Miller POR 04/22/2010 POR vs. PHX L 42 11 4 11 36.4 0 2 0.0 3 6 50.0 2 0 2 9 0 0 4 3 -11
+p38
+aVNicolas Batum POR 04/22/2010 POR vs. PHX L 10 3 1 4 25.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 1 0 -16
+p39
+aVMarcus Camby POR 04/22/2010 POR vs. PHX L 31 6 3 7 42.9 0 0 - 0 0 - 4 6 10 1 1 0 0 3 -16
+p40
+aVJuwan Howard POR 04/22/2010 POR vs. PHX L 18 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 1 0 1 5 -10
+p41
+aVMartell Webster POR 04/22/2010 POR vs. PHX L 38 14 6 15 40.0 1 4 25.0 1 5 20.0 3 5 8 0 4 0 1 3 -3
+p42
+aVJeff Ayres POR 04/22/2010 POR vs. PHX L 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p43
+aVTravis Diener POR 04/22/2010 POR vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p44
+aVJerryd Bayless POR 04/20/2010 POR @ PHX L 23 9 2 9 22.2 1 2 50.0 4 4 100.0 0 0 0 2 0 0 2 6 -8
+p45
+aVJeff Ayres POR 04/20/2010 POR @ PHX L 9 5 2 2 100.0 0 0 - 1 2 50.0 2 0 2 0 1 0 1 1 -5
+p46
+aVAndre Miller POR 04/20/2010 POR @ PHX L 29 12 4 11 36.4 0 0 - 4 4 100.0 0 1 1 3 1 1 2 2 -24
+p47
+aVDante Cunningham POR 04/20/2010 POR @ PHX L 11 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -8
+p48
+aVTravis Diener POR 04/20/2010 POR @ PHX L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -4
+p49
+aVNicolas Batum POR 04/20/2010 POR @ PHX L 23 12 4 8 50.0 2 4 50.0 2 2 100.0 2 1 3 1 0 0 1 2 -13
+p50
+aVPatty Mills POR 04/20/2010 POR @ PHX L 7 6 2 4 50.0 1 1 100.0 1 1 100.0 0 0 0 0 0 0 1 0 -5
+p51
+aVMarcus Camby POR 04/20/2010 POR @ PHX L 28 6 2 10 20.0 0 1 0.0 2 2 100.0 2 8 10 0 0 1 0 2 -14
+p52
+aVJuwan Howard POR 04/20/2010 POR @ PHX L 13 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -9
+p53
+aVRudy Fernandez POR 04/20/2010 POR @ PHX L 28 5 0 2 0.0 0 2 0.0 5 6 83.3 0 3 3 2 0 0 1 1 -12
+p54
+aVLaMarcus Aldridge POR 04/20/2010 POR @ PHX L 28 11 3 8 37.5 0 0 - 5 6 83.3 3 1 4 0 0 3 2 3 -22
+p55
+aVMartell Webster POR 04/20/2010 POR @ PHX L 35 16 6 13 46.2 0 2 0.0 4 6 66.7 1 4 5 1 1 0 0 3 -21
+p56
+aVAndre Miller POR 04/18/2010 POR @ PHX W 39 31 10 17 58.8 1 1 100.0 10 10 100.0 1 4 5 8 3 0 3 3 7
+p57
+aVMartell Webster POR 04/18/2010 POR @ PHX W 20 5 2 6 33.3 1 3 33.3 0 0 - 0 4 4 0 0 2 0 0 -16
+p58
+aVNicolas Batum POR 04/18/2010 POR @ PHX W 38 18 7 13 53.8 3 8 37.5 1 2 50.0 0 5 5 1 0 0 0 5 15
+p59
+aVJuwan Howard POR 04/18/2010 POR @ PHX W 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 1 1 3 -5
+p60
+aVLaMarcus Aldridge POR 04/18/2010 POR @ PHX W 40 22 8 20 40.0 0 0 - 6 8 75.0 2 1 3 3 1 1 5 3 10
+p61
+aVDante Cunningham POR 04/18/2010 POR @ PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p62
+aVJerryd Bayless POR 04/18/2010 POR @ PHX W 23 18 6 10 60.0 0 0 - 6 9 66.7 1 3 4 1 0 0 0 1 2
+p63
+aVRudy Fernandez POR 04/18/2010 POR @ PHX W 28 5 2 7 28.6 1 5 20.0 0 0 - 1 2 3 2 0 0 0 2 7
+p64
+aVMarcus Camby POR 04/18/2010 POR @ PHX W 38 4 2 6 33.3 0 0 - 0 2 0.0 3 14 17 1 1 3 1 2 8
+p65
+a.

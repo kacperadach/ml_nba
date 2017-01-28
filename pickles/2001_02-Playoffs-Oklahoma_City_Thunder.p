@@ -1,0 +1,106 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGary Payton SEA 05/03/2002 SEA @ SAS L 43 23 8 26 30.8 1 6 16.7 6 8 75.0 3 6 9 5 0 0 0 2 -28
+p2
+aVPredrag Drobnjak SEA 05/03/2002 SEA @ SAS L 6 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -5
+p3
+aVAnsu Sesay SEA 05/03/2002 SEA @ SAS L 17 3 1 2 50.0 0 0 - 1 1 100.0 1 1 2 1 0 2 0 4 -5
+p4
+aVJerome James SEA 05/03/2002 SEA @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p5
+aVBrent Barry SEA 05/03/2002 SEA @ SAS L 32 12 4 8 50.0 4 6 66.7 0 0 - 1 5 6 2 0 1 2 1 -18
+p6
+aVOlumide Oyedeji SEA 05/03/2002 SEA @ SAS L 5 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 1 5
+p7
+aVDesmond Mason SEA 05/03/2002 SEA @ SAS L 43 9 4 13 30.8 0 1 0.0 1 2 50.0 1 7 8 2 2 0 2 1 -18
+p8
+aVVladimir Radmanovic SEA 05/03/2002 SEA @ SAS L 36 7 3 12 25.0 1 4 25.0 0 0 - 3 5 8 1 0 0 1 4 -19
+p9
+aVRandy Livingston SEA 05/03/2002 SEA @ SAS L 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 -2
+p10
+aVShammond Williams SEA 05/03/2002 SEA @ SAS L 13 6 2 6 33.3 1 3 33.3 1 2 50.0 0 1 1 2 0 0 0 0 -1
+p11
+aVVin Baker SEA 05/03/2002 SEA @ SAS L 29 9 4 9 44.4 1 1 100.0 0 0 - 2 0 2 0 1 1 1 5 -19
+p12
+aVGary Payton SEA 05/01/2002 SEA vs. SAS W 44 28 11 22 50.0 2 3 66.7 4 6 66.7 0 12 12 11 1 1 4 5 12
+p13
+aVRandy Livingston SEA 05/01/2002 SEA vs. SAS W 20 6 3 5 60.0 0 0 - 0 0 - 0 2 2 3 1 0 1 1 6
+p14
+aVDesmond Mason SEA 05/01/2002 SEA vs. SAS W 44 17 6 14 42.9 0 1 0.0 5 10 50.0 0 4 4 4 0 1 1 3 2
+p15
+aVVin Baker SEA 05/01/2002 SEA vs. SAS W 31 10 3 7 42.9 0 0 - 4 4 100.0 2 3 5 0 1 2 1 4 8
+p16
+aVAnsu Sesay SEA 05/01/2002 SEA vs. SAS W 26 2 1 3 33.3 0 0 - 0 0 - 0 8 8 2 0 1 0 3 22
+p17
+aVVladimir Radmanovic SEA 05/01/2002 SEA vs. SAS W 38 23 8 11 72.7 5 7 71.4 2 2 100.0 1 3 4 1 0 1 3 5 3
+p18
+aVJerome James SEA 05/01/2002 SEA vs. SAS W 8 2 1 3 33.3 0 0 - 0 2 0.0 0 3 3 1 0 1 0 4 4
+p19
+aVBrent Barry SEA 05/01/2002 SEA vs. SAS W 29 3 1 3 33.3 1 3 33.3 0 0 - 0 5 5 2 1 3 2 4 3
+p20
+aVPredrag Drobnjak SEA 04/27/2002 SEA vs. SAS L 15 5 2 5 40.0 0 0 - 1 2 50.0 3 3 6 1 1 0 1 0 -3
+p21
+aVGary Payton SEA 04/27/2002 SEA vs. SAS L 41 20 9 21 42.9 0 2 0.0 2 2 100.0 3 4 7 6 1 1 1 2 -27
+p22
+aVRashard Lewis SEA 04/27/2002 SEA vs. SAS L 20 6 2 8 25.0 0 3 0.0 2 2 100.0 1 3 4 1 0 0 0 3 -17
+p23
+aVBrent Barry SEA 04/27/2002 SEA vs. SAS L 31 7 3 12 25.0 1 3 33.3 0 0 - 3 5 8 4 1 0 1 1 -20
+p24
+aVJerome James SEA 04/27/2002 SEA vs. SAS L 17 4 2 5 40.0 0 0 - 0 0 - 2 2 4 2 0 0 1 4 -23
+p25
+aVVladimir Radmanovic SEA 04/27/2002 SEA vs. SAS L 7 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 1 0 -1
+p26
+aVVin Baker SEA 04/27/2002 SEA vs. SAS L 31 10 5 14 35.7 0 0 - 0 0 - 1 0 1 1 0 2 0 5 -10
+p27
+aVOlumide Oyedeji SEA 04/27/2002 SEA vs. SAS L 6 2 1 1 100.0 0 0 - 0 4 0.0 0 1 1 1 0 0 0 1 2
+p28
+aVDesmond Mason SEA 04/27/2002 SEA vs. SAS L 43 9 3 9 33.3 1 1 100.0 2 2 100.0 1 4 5 2 0 0 1 3 -23
+p29
+aVShammond Williams SEA 04/27/2002 SEA vs. SAS L 13 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 1 -2
+p30
+aVRandy Livingston SEA 04/27/2002 SEA vs. SAS L 12 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 0 0 0 0 -8
+p31
+aVAnsu Sesay SEA 04/27/2002 SEA vs. SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 1 -3
+p32
+aVVladimir Radmanovic SEA 04/22/2002 SEA @ SAS W 22 5 2 6 33.3 1 2 50.0 0 0 - 1 4 5 1 1 0 0 1 8
+p33
+aVRashard Lewis SEA 04/22/2002 SEA @ SAS W 38 19 6 15 40.0 0 0 - 7 7 100.0 3 1 4 1 1 0 2 5 -2
+p34
+aVJerome James SEA 04/22/2002 SEA @ SAS W 19 8 4 9 44.4 0 0 - 0 0 - 2 2 4 0 0 2 1 6 6
+p35
+aVRandy Livingston SEA 04/22/2002 SEA @ SAS W 23 6 2 2 100.0 1 1 100.0 1 1 100.0 1 2 3 2 0 0 0 4 11
+p36
+aVVin Baker SEA 04/22/2002 SEA @ SAS W 26 15 7 12 58.3 0 0 - 1 2 50.0 4 6 10 1 0 1 1 6 -2
+p37
+aVGary Payton SEA 04/22/2002 SEA @ SAS W 45 21 9 24 37.5 0 2 0.0 3 9 33.3 4 7 11 5 1 0 5 1 6
+p38
+aVBrent Barry SEA 04/22/2002 SEA @ SAS W 29 9 2 4 50.0 1 2 50.0 4 4 100.0 2 2 4 4 1 0 3 2 -1
+p39
+aVDesmond Mason SEA 04/22/2002 SEA @ SAS W 39 15 7 12 58.3 0 0 - 1 2 50.0 2 6 8 0 1 0 0 2 14
+p40
+aVRashard Lewis SEA 04/20/2002 SEA @ SAS L 21 13 4 9 44.4 1 3 33.3 4 4 100.0 0 3 3 0 0 0 0 2 -16
+p41
+aVVin Baker SEA 04/20/2002 SEA @ SAS L 27 22 10 16 62.5 0 0 - 2 3 66.7 2 5 7 2 1 0 1 3 -22
+p42
+aVJerome James SEA 04/20/2002 SEA @ SAS L 22 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 2 2 4 2
+p43
+aVDesmond Mason SEA 04/20/2002 SEA @ SAS L 37 9 4 9 44.4 0 0 - 1 1 100.0 1 5 6 1 1 1 1 2 -21
+p44
+aVGary Payton SEA 04/20/2002 SEA @ SAS L 34 19 8 13 61.5 1 2 50.0 2 4 50.0 0 4 4 2 0 0 3 2 -21
+p45
+aVOlumide Oyedeji SEA 04/20/2002 SEA @ SAS L 6 3 1 1 100.0 0 0 - 1 1 100.0 2 0 2 0 0 0 1 0 2
+p46
+aVVladimir Radmanovic SEA 04/20/2002 SEA @ SAS L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -16
+p47
+aVBrent Barry SEA 04/20/2002 SEA @ SAS L 29 8 4 7 57.1 0 2 0.0 0 0 - 0 0 0 2 0 0 1 4 -17
+p48
+aVAnsu Sesay SEA 04/20/2002 SEA @ SAS L 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 1 0 0 4
+p49
+aVPredrag Drobnjak SEA 04/20/2002 SEA @ SAS L 17 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -15
+p50
+aVRandy Livingston SEA 04/20/2002 SEA @ SAS L 13 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 1 11
+p51
+aVShammond Williams SEA 04/20/2002 SEA @ SAS L 12 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 1 1 0 3 0 4
+p52
+a.
